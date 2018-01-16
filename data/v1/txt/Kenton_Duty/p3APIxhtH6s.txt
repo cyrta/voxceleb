@@ -1,0 +1,7 @@
+POI: 			Kenton_Duty 
+Youtube ID: 	p3APIxhtH6s 
+Video length: 	475.2 sec 
+Set (V): 		dev 
+ 
+Kenton_Duty/p3APIxhtH6s_0000001 245.4 249.7 
+Kenton_Duty/p3APIxhtH6s_0000002 356.4 361.3 

@@ -1,0 +1,9 @@
+POI: 			Kelly_Macdonald 
+Youtube ID: 	qKptq7wigmY 
+Video length: 	104.0 sec 
+Set (V): 		dev 
+ 
+Kelly_Macdonald/qKptq7wigmY_0000001 38.8 48.9 
+Kelly_Macdonald/qKptq7wigmY_0000002 51.9 60.2 
+Kelly_Macdonald/qKptq7wigmY_0000003 66.6 74.0 
+Kelly_Macdonald/qKptq7wigmY_0000004 75.7 79.8 

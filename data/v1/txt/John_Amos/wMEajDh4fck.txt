@@ -1,0 +1,24 @@
+POI: 			John_Amos 
+Youtube ID: 	wMEajDh4fck 
+Video length: 	260.5 sec 
+Set (V): 		dev 
+ 
+John_Amos/wMEajDh4fck_0000001 10.4 20.0 
+John_Amos/wMEajDh4fck_0000002 21.8 28.4 
+John_Amos/wMEajDh4fck_0000003 30.0 38.3 
+John_Amos/wMEajDh4fck_0000004 42.5 64.6 
+John_Amos/wMEajDh4fck_0000005 69.6 75.9 
+John_Amos/wMEajDh4fck_0000006 76.3 80.4 
+John_Amos/wMEajDh4fck_0000007 81.0 85.9 
+John_Amos/wMEajDh4fck_0000008 90.0 96.9 
+John_Amos/wMEajDh4fck_0000009 97.0 104.8 
+John_Amos/wMEajDh4fck_0000010 106.8 111.2 
+John_Amos/wMEajDh4fck_0000011 111.5 118.3 
+John_Amos/wMEajDh4fck_0000012 119.0 123.1 
+John_Amos/wMEajDh4fck_0000013 123.4 129.2 
+John_Amos/wMEajDh4fck_0000014 131.8 139.2 
+John_Amos/wMEajDh4fck_0000015 146.3 157.4 
+John_Amos/wMEajDh4fck_0000016 189.6 194.9 
+John_Amos/wMEajDh4fck_0000017 203.3 216.9 
+John_Amos/wMEajDh4fck_0000018 223.5 228.0 
+John_Amos/wMEajDh4fck_0000019 230.6 236.7 

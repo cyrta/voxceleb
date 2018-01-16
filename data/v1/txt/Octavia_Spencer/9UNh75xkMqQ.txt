@@ -1,0 +1,11 @@
+POI: 			Octavia_Spencer 
+Youtube ID: 	9UNh75xkMqQ 
+Video length: 	386.8 sec 
+Set (V): 		dev 
+ 
+Octavia_Spencer/9UNh75xkMqQ_0000001 242.3 251.3 
+Octavia_Spencer/9UNh75xkMqQ_0000002 276.6 282.2 
+Octavia_Spencer/9UNh75xkMqQ_0000003 289.4 298.2 
+Octavia_Spencer/9UNh75xkMqQ_0000004 307.7 315.4 
+Octavia_Spencer/9UNh75xkMqQ_0000005 326.3 330.2 
+Octavia_Spencer/9UNh75xkMqQ_0000006 360.8 365.8 

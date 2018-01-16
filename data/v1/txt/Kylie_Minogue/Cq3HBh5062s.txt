@@ -1,0 +1,12 @@
+POI: 			Kylie_Minogue 
+Youtube ID: 	Cq3HBh5062s 
+Video length: 	788.7 sec 
+Set (V): 		dev 
+ 
+Kylie_Minogue/Cq3HBh5062s_0000001 20.2 24.6 
+Kylie_Minogue/Cq3HBh5062s_0000002 162.4 169.3 
+Kylie_Minogue/Cq3HBh5062s_0000003 179.1 183.8 
+Kylie_Minogue/Cq3HBh5062s_0000004 363.7 367.9 
+Kylie_Minogue/Cq3HBh5062s_0000005 587.8 594.0 
+Kylie_Minogue/Cq3HBh5062s_0000006 709.2 714.6 
+Kylie_Minogue/Cq3HBh5062s_0000007 778.2 782.5 

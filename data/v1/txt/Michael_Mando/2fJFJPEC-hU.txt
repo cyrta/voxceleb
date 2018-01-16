@@ -1,0 +1,7 @@
+POI: 			Michael_Mando 
+Youtube ID: 	2fJFJPEC-hU 
+Video length: 	126.3 sec 
+Set (V): 		dev 
+ 
+Michael_Mando/2fJFJPEC-hU_0000001 101.4 106.0 
+Michael_Mando/2fJFJPEC-hU_0000002 113.2 117.4 

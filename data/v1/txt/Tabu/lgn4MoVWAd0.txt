@@ -1,0 +1,8 @@
+POI: 			Tabu 
+Youtube ID: 	lgn4MoVWAd0 
+Video length: 	248.9 sec 
+Set (V): 		dev 
+ 
+Tabu/lgn4MoVWAd0_0000001 58.2 63.0 
+Tabu/lgn4MoVWAd0_0000002 102.0 107.4 
+Tabu/lgn4MoVWAd0_0000003 191.0 195.6 

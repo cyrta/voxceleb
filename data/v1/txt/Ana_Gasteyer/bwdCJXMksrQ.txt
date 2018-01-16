@@ -1,0 +1,15 @@
+POI: 			Ana_Gasteyer 
+Youtube ID: 	bwdCJXMksrQ 
+Video length: 	238.7 sec 
+Set (V): 		dev 
+ 
+Ana_Gasteyer/bwdCJXMksrQ_0000001 35.8 41.5 
+Ana_Gasteyer/bwdCJXMksrQ_0000002 46.5 50.7 
+Ana_Gasteyer/bwdCJXMksrQ_0000003 71.0 77.8 
+Ana_Gasteyer/bwdCJXMksrQ_0000004 105.9 114.0 
+Ana_Gasteyer/bwdCJXMksrQ_0000005 115.9 121.4 
+Ana_Gasteyer/bwdCJXMksrQ_0000006 137.2 143.2 
+Ana_Gasteyer/bwdCJXMksrQ_0000007 148.0 153.4 
+Ana_Gasteyer/bwdCJXMksrQ_0000008 164.3 185.8 
+Ana_Gasteyer/bwdCJXMksrQ_0000009 203.7 207.9 
+Ana_Gasteyer/bwdCJXMksrQ_0000010 213.7 218.2 

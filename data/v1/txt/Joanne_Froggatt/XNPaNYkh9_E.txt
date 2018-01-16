@@ -1,0 +1,14 @@
+POI: 			Joanne_Froggatt 
+Youtube ID: 	XNPaNYkh9_E 
+Video length: 	1637.4 sec 
+Set (V): 		dev 
+ 
+Joanne_Froggatt/XNPaNYkh9_E_0000001 262.3 267.2 
+Joanne_Froggatt/XNPaNYkh9_E_0000002 623.0 630.6 
+Joanne_Froggatt/XNPaNYkh9_E_0000003 631.1 641.0 
+Joanne_Froggatt/XNPaNYkh9_E_0000004 873.8 884.9 
+Joanne_Froggatt/XNPaNYkh9_E_0000005 885.7 891.0 
+Joanne_Froggatt/XNPaNYkh9_E_0000006 969.6 978.2 
+Joanne_Froggatt/XNPaNYkh9_E_0000007 979.2 999.8 
+Joanne_Froggatt/XNPaNYkh9_E_0000008 1000.0 1005.9 
+Joanne_Froggatt/XNPaNYkh9_E_0000009 1593.2 1611.9 

@@ -1,0 +1,9 @@
+POI: 			John_Noble 
+Youtube ID: 	DED2-sl-cBQ 
+Video length: 	533.7 sec 
+Set (V): 		dev 
+ 
+John_Noble/DED2-sl-cBQ_0000001 25.8 30.0 
+John_Noble/DED2-sl-cBQ_0000002 34.1 38.2 
+John_Noble/DED2-sl-cBQ_0000003 348.8 353.0 
+John_Noble/DED2-sl-cBQ_0000004 386.2 390.8 

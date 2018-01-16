@@ -1,0 +1,10 @@
+POI: 			Kal_Penn 
+Youtube ID: 	a97WkLf8lu4 
+Video length: 	184.0 sec 
+Set (V): 		dev 
+ 
+Kal_Penn/a97WkLf8lu4_0000001 57.6 63.3 
+Kal_Penn/a97WkLf8lu4_0000002 115.2 121.0 
+Kal_Penn/a97WkLf8lu4_0000003 125.0 133.0 
+Kal_Penn/a97WkLf8lu4_0000004 152.3 158.1 
+Kal_Penn/a97WkLf8lu4_0000005 162.4 167.5 

@@ -1,0 +1,7 @@
+POI: 			Jesse_Spencer 
+Youtube ID: 	2dNfQXlbDIk 
+Video length: 	525.9 sec 
+Set (V): 		dev 
+ 
+Jesse_Spencer/2dNfQXlbDIk_0000001 381.4 385.8 
+Jesse_Spencer/2dNfQXlbDIk_0000002 403.9 424.7 

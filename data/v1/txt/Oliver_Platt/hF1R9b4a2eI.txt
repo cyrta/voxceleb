@@ -1,0 +1,14 @@
+POI: 			Oliver_Platt 
+Youtube ID: 	hF1R9b4a2eI 
+Video length: 	143.0 sec 
+Set (V): 		dev 
+ 
+Oliver_Platt/hF1R9b4a2eI_0000001 11.2 15.4 
+Oliver_Platt/hF1R9b4a2eI_0000002 22.6 27.8 
+Oliver_Platt/hF1R9b4a2eI_0000003 32.7 37.1 
+Oliver_Platt/hF1R9b4a2eI_0000004 38.0 47.6 
+Oliver_Platt/hF1R9b4a2eI_0000005 49.7 55.4 
+Oliver_Platt/hF1R9b4a2eI_0000006 61.5 68.3 
+Oliver_Platt/hF1R9b4a2eI_0000007 71.8 76.9 
+Oliver_Platt/hF1R9b4a2eI_0000008 88.1 99.3 
+Oliver_Platt/hF1R9b4a2eI_0000009 134.6 140.8 

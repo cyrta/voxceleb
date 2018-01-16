@@ -1,0 +1,7 @@
+POI: 			Emily_Atack 
+Youtube ID: 	EX6SP5_i96o 
+Video length: 	201.7 sec 
+Set (V): 		test 
+ 
+Emily_Atack/EX6SP5_i96o_0000001 108.6 113.7 
+Emily_Atack/EX6SP5_i96o_0000002 149.4 162.1 

@@ -1,0 +1,16 @@
+POI: 			Emraan_Hashmi 
+Youtube ID: 	ETJd_jPboYc 
+Video length: 	290.4 sec 
+Set (V): 		test 
+ 
+Emraan_Hashmi/ETJd_jPboYc_0000001 35.6 42.2 
+Emraan_Hashmi/ETJd_jPboYc_0000002 45.8 54.3 
+Emraan_Hashmi/ETJd_jPboYc_0000003 59.8 65.3 
+Emraan_Hashmi/ETJd_jPboYc_0000004 111.8 117.8 
+Emraan_Hashmi/ETJd_jPboYc_0000005 121.2 128.6 
+Emraan_Hashmi/ETJd_jPboYc_0000006 134.7 145.1 
+Emraan_Hashmi/ETJd_jPboYc_0000007 185.8 192.7 
+Emraan_Hashmi/ETJd_jPboYc_0000008 203.1 210.8 
+Emraan_Hashmi/ETJd_jPboYc_0000009 211.0 217.3 
+Emraan_Hashmi/ETJd_jPboYc_0000010 220.5 227.1 
+Emraan_Hashmi/ETJd_jPboYc_0000011 231.0 245.6 

@@ -1,0 +1,39 @@
+POI: 			Taylor_Kitsch 
+Youtube ID: 	xuAOpwgafBg 
+Video length: 	1015.3 sec 
+Set (V): 		dev 
+ 
+Taylor_Kitsch/xuAOpwgafBg_0000001 120.2 127.6 
+Taylor_Kitsch/xuAOpwgafBg_0000002 149.8 162.4 
+Taylor_Kitsch/xuAOpwgafBg_0000003 171.1 175.1 
+Taylor_Kitsch/xuAOpwgafBg_0000004 178.4 188.0 
+Taylor_Kitsch/xuAOpwgafBg_0000005 196.2 207.8 
+Taylor_Kitsch/xuAOpwgafBg_0000006 204.6 209.8 
+Taylor_Kitsch/xuAOpwgafBg_0000007 219.5 224.8 
+Taylor_Kitsch/xuAOpwgafBg_0000008 269.0 275.3 
+Taylor_Kitsch/xuAOpwgafBg_0000009 275.8 282.8 
+Taylor_Kitsch/xuAOpwgafBg_0000010 311.2 320.4 
+Taylor_Kitsch/xuAOpwgafBg_0000011 323.4 333.7 
+Taylor_Kitsch/xuAOpwgafBg_0000012 364.1 372.4 
+Taylor_Kitsch/xuAOpwgafBg_0000013 379.0 387.9 
+Taylor_Kitsch/xuAOpwgafBg_0000014 388.4 394.4 
+Taylor_Kitsch/xuAOpwgafBg_0000015 407.4 415.1 
+Taylor_Kitsch/xuAOpwgafBg_0000016 420.5 424.7 
+Taylor_Kitsch/xuAOpwgafBg_0000017 437.5 441.8 
+Taylor_Kitsch/xuAOpwgafBg_0000018 444.4 452.5 
+Taylor_Kitsch/xuAOpwgafBg_0000019 454.8 460.2 
+Taylor_Kitsch/xuAOpwgafBg_0000020 485.9 490.8 
+Taylor_Kitsch/xuAOpwgafBg_0000021 506.2 521.9 
+Taylor_Kitsch/xuAOpwgafBg_0000022 534.0 540.7 
+Taylor_Kitsch/xuAOpwgafBg_0000023 541.0 550.4 
+Taylor_Kitsch/xuAOpwgafBg_0000024 568.2 586.9 
+Taylor_Kitsch/xuAOpwgafBg_0000025 610.9 630.6 
+Taylor_Kitsch/xuAOpwgafBg_0000026 647.0 653.1 
+Taylor_Kitsch/xuAOpwgafBg_0000027 656.4 663.8 
+Taylor_Kitsch/xuAOpwgafBg_0000028 691.2 728.8 
+Taylor_Kitsch/xuAOpwgafBg_0000029 752.9 759.0 
+Taylor_Kitsch/xuAOpwgafBg_0000030 834.0 844.7 
+Taylor_Kitsch/xuAOpwgafBg_0000031 852.5 856.9 
+Taylor_Kitsch/xuAOpwgafBg_0000032 916.8 948.6 
+Taylor_Kitsch/xuAOpwgafBg_0000033 961.6 972.3 
+Taylor_Kitsch/xuAOpwgafBg_0000034 974.1 995.6 

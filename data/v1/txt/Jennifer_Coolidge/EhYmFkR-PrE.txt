@@ -1,0 +1,8 @@
+POI: 			Jennifer_Coolidge 
+Youtube ID: 	EhYmFkR-PrE 
+Video length: 	370.0 sec 
+Set (V): 		dev 
+ 
+Jennifer_Coolidge/EhYmFkR-PrE_0000001 101.1 106.0 
+Jennifer_Coolidge/EhYmFkR-PrE_0000002 116.6 127.3 
+Jennifer_Coolidge/EhYmFkR-PrE_0000003 127.9 132.4 

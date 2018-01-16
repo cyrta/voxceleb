@@ -1,0 +1,10 @@
+POI: 			Imelda_Staunton 
+Youtube ID: 	JtMWyz0grIE 
+Video length: 	215.6 sec 
+Set (V): 		dev 
+ 
+Imelda_Staunton/JtMWyz0grIE_0000001 123.3 144.3 
+Imelda_Staunton/JtMWyz0grIE_0000002 152.0 166.6 
+Imelda_Staunton/JtMWyz0grIE_0000003 172.6 176.7 
+Imelda_Staunton/JtMWyz0grIE_0000004 177.1 185.9 
+Imelda_Staunton/JtMWyz0grIE_0000005 183.7 192.8 

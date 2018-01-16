@@ -1,0 +1,15 @@
+POI: 			Wendell_Pierce 
+Youtube ID: 	9w8-h5IiTTo 
+Video length: 	308.1 sec 
+Set (V): 		dev 
+ 
+Wendell_Pierce/9w8-h5IiTTo_0000001 12.0 20.8 
+Wendell_Pierce/9w8-h5IiTTo_0000002 21.4 28.8 
+Wendell_Pierce/9w8-h5IiTTo_0000003 32.4 36.5 
+Wendell_Pierce/9w8-h5IiTTo_0000004 122.9 136.5 
+Wendell_Pierce/9w8-h5IiTTo_0000005 152.2 163.3 
+Wendell_Pierce/9w8-h5IiTTo_0000006 163.4 170.1 
+Wendell_Pierce/9w8-h5IiTTo_0000007 172.3 181.8 
+Wendell_Pierce/9w8-h5IiTTo_0000008 186.7 193.8 
+Wendell_Pierce/9w8-h5IiTTo_0000009 176.1 184.7 
+Wendell_Pierce/9w8-h5IiTTo_0000010 263.5 282.5 

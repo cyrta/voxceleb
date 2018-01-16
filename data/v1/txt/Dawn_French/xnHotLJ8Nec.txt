@@ -1,0 +1,15 @@
+POI: 			Dawn_French 
+Youtube ID: 	xnHotLJ8Nec 
+Video length: 	426.9 sec 
+Set (V): 		dev 
+ 
+Dawn_French/xnHotLJ8Nec_0000001 56.2 60.4 
+Dawn_French/xnHotLJ8Nec_0000002 68.4 75.1 
+Dawn_French/xnHotLJ8Nec_0000003 120.9 126.3 
+Dawn_French/xnHotLJ8Nec_0000004 166.0 170.8 
+Dawn_French/xnHotLJ8Nec_0000005 191.6 197.9 
+Dawn_French/xnHotLJ8Nec_0000006 202.3 206.8 
+Dawn_French/xnHotLJ8Nec_0000007 243.3 252.7 
+Dawn_French/xnHotLJ8Nec_0000008 262.7 267.8 
+Dawn_French/xnHotLJ8Nec_0000009 379.9 385.2 
+Dawn_French/xnHotLJ8Nec_0000010 400.2 408.0 

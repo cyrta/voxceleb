@@ -1,0 +1,15 @@
+POI: 			Tom_Hooper 
+Youtube ID: 	rRhClHrq6EY 
+Video length: 	277.8 sec 
+Set (V): 		dev 
+ 
+Tom_Hooper/rRhClHrq6EY_0000001 09.4 15.4 
+Tom_Hooper/rRhClHrq6EY_0000002 15.8 22.8 
+Tom_Hooper/rRhClHrq6EY_0000003 35.7 44.7 
+Tom_Hooper/rRhClHrq6EY_0000004 81.2 88.3 
+Tom_Hooper/rRhClHrq6EY_0000005 88.6 93.0 
+Tom_Hooper/rRhClHrq6EY_0000006 101.9 112.2 
+Tom_Hooper/rRhClHrq6EY_0000007 113.2 118.2 
+Tom_Hooper/rRhClHrq6EY_0000008 147.4 151.8 
+Tom_Hooper/rRhClHrq6EY_0000009 163.7 173.8 
+Tom_Hooper/rRhClHrq6EY_0000010 209.8 220.2 

@@ -1,0 +1,23 @@
+POI: 			Shohreh_Aghdashloo 
+Youtube ID: 	VehHW-T26UQ 
+Video length: 	529.5 sec 
+Set (V): 		dev 
+ 
+Shohreh_Aghdashloo/VehHW-T26UQ_0000001 20.8 25.6 
+Shohreh_Aghdashloo/VehHW-T26UQ_0000002 26.8 55.2 
+Shohreh_Aghdashloo/VehHW-T26UQ_0000003 81.1 97.2 
+Shohreh_Aghdashloo/VehHW-T26UQ_0000004 122.2 127.4 
+Shohreh_Aghdashloo/VehHW-T26UQ_0000005 152.9 158.9 
+Shohreh_Aghdashloo/VehHW-T26UQ_0000006 197.6 213.5 
+Shohreh_Aghdashloo/VehHW-T26UQ_0000007 213.9 218.8 
+Shohreh_Aghdashloo/VehHW-T26UQ_0000008 224.9 234.8 
+Shohreh_Aghdashloo/VehHW-T26UQ_0000009 265.0 283.1 
+Shohreh_Aghdashloo/VehHW-T26UQ_0000010 293.5 300.7 
+Shohreh_Aghdashloo/VehHW-T26UQ_0000011 308.8 322.8 
+Shohreh_Aghdashloo/VehHW-T26UQ_0000012 337.0 343.2 
+Shohreh_Aghdashloo/VehHW-T26UQ_0000013 365.1 375.4 
+Shohreh_Aghdashloo/VehHW-T26UQ_0000014 389.2 394.5 
+Shohreh_Aghdashloo/VehHW-T26UQ_0000015 395.1 406.1 
+Shohreh_Aghdashloo/VehHW-T26UQ_0000016 444.8 458.5 
+Shohreh_Aghdashloo/VehHW-T26UQ_0000017 459.9 468.6 
+Shohreh_Aghdashloo/VehHW-T26UQ_0000018 521.1 526.5 

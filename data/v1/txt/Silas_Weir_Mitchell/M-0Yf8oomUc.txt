@@ -1,0 +1,10 @@
+POI: 			Silas_Weir_Mitchell 
+Youtube ID: 	M-0Yf8oomUc 
+Video length: 	170.3 sec 
+Set (V): 		dev 
+ 
+Silas_Weir_Mitchell/M-0Yf8oomUc_0000001 27.1 31.4 
+Silas_Weir_Mitchell/M-0Yf8oomUc_0000002 31.6 37.2 
+Silas_Weir_Mitchell/M-0Yf8oomUc_0000003 64.0 75.2 
+Silas_Weir_Mitchell/M-0Yf8oomUc_0000004 119.9 127.4 
+Silas_Weir_Mitchell/M-0Yf8oomUc_0000005 159.5 167.7 

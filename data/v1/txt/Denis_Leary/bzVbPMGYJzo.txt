@@ -1,0 +1,16 @@
+POI: 			Denis_Leary 
+Youtube ID: 	bzVbPMGYJzo 
+Video length: 	337.6 sec 
+Set (V): 		dev 
+ 
+Denis_Leary/bzVbPMGYJzo_0000001 04.3 17.1 
+Denis_Leary/bzVbPMGYJzo_0000002 19.5 24.6 
+Denis_Leary/bzVbPMGYJzo_0000003 48.0 57.1 
+Denis_Leary/bzVbPMGYJzo_0000004 74.2 87.3 
+Denis_Leary/bzVbPMGYJzo_0000005 90.2 97.3 
+Denis_Leary/bzVbPMGYJzo_0000006 108.6 114.3 
+Denis_Leary/bzVbPMGYJzo_0000007 126.9 141.2 
+Denis_Leary/bzVbPMGYJzo_0000008 146.6 160.1 
+Denis_Leary/bzVbPMGYJzo_0000009 187.5 196.1 
+Denis_Leary/bzVbPMGYJzo_0000010 225.4 243.1 
+Denis_Leary/bzVbPMGYJzo_0000011 305.4 310.4 

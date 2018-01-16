@@ -1,0 +1,36 @@
+POI: 			Ginger_Rogers 
+Youtube ID: 	cVOqgcS_eRQ 
+Video length: 	810.8 sec 
+Set (V): 		dev 
+ 
+Ginger_Rogers/cVOqgcS_eRQ_0000001 16.6 21.6 
+Ginger_Rogers/cVOqgcS_eRQ_0000002 23.8 30.1 
+Ginger_Rogers/cVOqgcS_eRQ_0000003 67.6 79.0 
+Ginger_Rogers/cVOqgcS_eRQ_0000004 89.3 95.6 
+Ginger_Rogers/cVOqgcS_eRQ_0000005 109.8 114.6 
+Ginger_Rogers/cVOqgcS_eRQ_0000006 144.0 149.9 
+Ginger_Rogers/cVOqgcS_eRQ_0000007 151.6 155.9 
+Ginger_Rogers/cVOqgcS_eRQ_0000008 156.5 163.3 
+Ginger_Rogers/cVOqgcS_eRQ_0000009 156.7 163.5 
+Ginger_Rogers/cVOqgcS_eRQ_0000010 164.6 169.4 
+Ginger_Rogers/cVOqgcS_eRQ_0000011 182.1 186.6 
+Ginger_Rogers/cVOqgcS_eRQ_0000012 189.2 197.7 
+Ginger_Rogers/cVOqgcS_eRQ_0000013 254.8 261.5 
+Ginger_Rogers/cVOqgcS_eRQ_0000014 303.9 309.6 
+Ginger_Rogers/cVOqgcS_eRQ_0000015 331.2 338.0 
+Ginger_Rogers/cVOqgcS_eRQ_0000016 255.6 260.2 
+Ginger_Rogers/cVOqgcS_eRQ_0000017 350.3 356.2 
+Ginger_Rogers/cVOqgcS_eRQ_0000018 362.9 369.6 
+Ginger_Rogers/cVOqgcS_eRQ_0000019 396.7 402.4 
+Ginger_Rogers/cVOqgcS_eRQ_0000020 406.1 412.3 
+Ginger_Rogers/cVOqgcS_eRQ_0000021 430.6 435.8 
+Ginger_Rogers/cVOqgcS_eRQ_0000022 437.7 441.8 
+Ginger_Rogers/cVOqgcS_eRQ_0000023 449.1 455.2 
+Ginger_Rogers/cVOqgcS_eRQ_0000024 458.7 469.5 
+Ginger_Rogers/cVOqgcS_eRQ_0000025 470.6 477.1 
+Ginger_Rogers/cVOqgcS_eRQ_0000026 489.8 494.1 
+Ginger_Rogers/cVOqgcS_eRQ_0000027 495.1 504.1 
+Ginger_Rogers/cVOqgcS_eRQ_0000028 516.0 523.0 
+Ginger_Rogers/cVOqgcS_eRQ_0000029 533.9 539.1 
+Ginger_Rogers/cVOqgcS_eRQ_0000030 545.9 550.1 
+Ginger_Rogers/cVOqgcS_eRQ_0000031 567.2 572.6 

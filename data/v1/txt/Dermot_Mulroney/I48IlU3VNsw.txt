@@ -1,0 +1,9 @@
+POI: 			Dermot_Mulroney 
+Youtube ID: 	I48IlU3VNsw 
+Video length: 	240.2 sec 
+Set (V): 		dev 
+ 
+Dermot_Mulroney/I48IlU3VNsw_0000001 80.9 92.6 
+Dermot_Mulroney/I48IlU3VNsw_0000002 93.3 97.3 
+Dermot_Mulroney/I48IlU3VNsw_0000003 214.2 223.2 
+Dermot_Mulroney/I48IlU3VNsw_0000004 228.1 233.6 

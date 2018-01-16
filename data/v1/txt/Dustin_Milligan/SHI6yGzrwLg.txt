@@ -1,0 +1,10 @@
+POI: 			Dustin_Milligan 
+Youtube ID: 	SHI6yGzrwLg 
+Video length: 	211.4 sec 
+Set (V): 		dev 
+ 
+Dustin_Milligan/SHI6yGzrwLg_0000001 14.3 22.9 
+Dustin_Milligan/SHI6yGzrwLg_0000002 82.8 89.3 
+Dustin_Milligan/SHI6yGzrwLg_0000003 142.5 149.1 
+Dustin_Milligan/SHI6yGzrwLg_0000004 161.6 166.4 
+Dustin_Milligan/SHI6yGzrwLg_0000005 168.8 176.4 

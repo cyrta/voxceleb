@@ -1,0 +1,19 @@
+POI: 			Natalie_Portman 
+Youtube ID: 	Yo2WNE-RaFA 
+Video length: 	330.1 sec 
+Set (V): 		dev 
+ 
+Natalie_Portman/Yo2WNE-RaFA_0000001 25.6 45.1 
+Natalie_Portman/Yo2WNE-RaFA_0000002 45.6 57.1 
+Natalie_Portman/Yo2WNE-RaFA_0000003 57.2 67.3 
+Natalie_Portman/Yo2WNE-RaFA_0000004 74.2 78.6 
+Natalie_Portman/Yo2WNE-RaFA_0000005 78.9 92.9 
+Natalie_Portman/Yo2WNE-RaFA_0000006 114.1 123.6 
+Natalie_Portman/Yo2WNE-RaFA_0000007 141.4 147.8 
+Natalie_Portman/Yo2WNE-RaFA_0000008 152.3 157.4 
+Natalie_Portman/Yo2WNE-RaFA_0000009 160.5 168.1 
+Natalie_Portman/Yo2WNE-RaFA_0000010 193.2 198.8 
+Natalie_Portman/Yo2WNE-RaFA_0000011 202.6 211.6 
+Natalie_Portman/Yo2WNE-RaFA_0000012 212.6 217.0 
+Natalie_Portman/Yo2WNE-RaFA_0000013 299.8 306.9 
+Natalie_Portman/Yo2WNE-RaFA_0000014 311.5 322.9 

@@ -1,0 +1,7 @@
+POI: 			Daniel_Auteuil 
+Youtube ID: 	VTYzWzM4tZg 
+Video length: 	304.2 sec 
+Set (V): 		dev 
+ 
+Daniel_Auteuil/VTYzWzM4tZg_0000001 128.2 134.8 
+Daniel_Auteuil/VTYzWzM4tZg_0000002 226.8 231.8 

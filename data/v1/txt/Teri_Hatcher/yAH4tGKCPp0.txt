@@ -1,0 +1,13 @@
+POI: 			Teri_Hatcher 
+Youtube ID: 	yAH4tGKCPp0 
+Video length: 	319.9 sec 
+Set (V): 		dev 
+ 
+Teri_Hatcher/yAH4tGKCPp0_0000001 31.4 39.2 
+Teri_Hatcher/yAH4tGKCPp0_0000002 80.2 90.4 
+Teri_Hatcher/yAH4tGKCPp0_0000003 125.8 130.6 
+Teri_Hatcher/yAH4tGKCPp0_0000004 146.7 166.6 
+Teri_Hatcher/yAH4tGKCPp0_0000005 178.0 187.8 
+Teri_Hatcher/yAH4tGKCPp0_0000006 254.6 283.0 
+Teri_Hatcher/yAH4tGKCPp0_0000007 284.9 299.3 
+Teri_Hatcher/yAH4tGKCPp0_0000008 309.1 314.0 

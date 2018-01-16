@@ -1,0 +1,18 @@
+POI: 			Phyllis_Diller 
+Youtube ID: 	YVIZW1mUgx0 
+Video length: 	145.3 sec 
+Set (V): 		dev 
+ 
+Phyllis_Diller/YVIZW1mUgx0_0000001 06.2 20.2 
+Phyllis_Diller/YVIZW1mUgx0_0000002 23.4 34.6 
+Phyllis_Diller/YVIZW1mUgx0_0000003 34.8 40.0 
+Phyllis_Diller/YVIZW1mUgx0_0000004 40.2 44.8 
+Phyllis_Diller/YVIZW1mUgx0_0000005 46.3 60.8 
+Phyllis_Diller/YVIZW1mUgx0_0000006 61.0 68.0 
+Phyllis_Diller/YVIZW1mUgx0_0000007 68.2 72.6 
+Phyllis_Diller/YVIZW1mUgx0_0000008 72.9 83.6 
+Phyllis_Diller/YVIZW1mUgx0_0000009 84.7 91.8 
+Phyllis_Diller/YVIZW1mUgx0_0000010 92.2 96.5 
+Phyllis_Diller/YVIZW1mUgx0_0000011 97.1 101.1 
+Phyllis_Diller/YVIZW1mUgx0_0000012 103.9 125.2 
+Phyllis_Diller/YVIZW1mUgx0_0000013 126.1 130.7 

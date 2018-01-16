@@ -1,0 +1,16 @@
+POI: 			Katherine_Jenkins 
+Youtube ID: 	S13Sxa-dMcs 
+Video length: 	460.2 sec 
+Set (V): 		dev 
+ 
+Katherine_Jenkins/S13Sxa-dMcs_0000001 12.5 25.5 
+Katherine_Jenkins/S13Sxa-dMcs_0000002 29.7 37.1 
+Katherine_Jenkins/S13Sxa-dMcs_0000003 37.7 48.9 
+Katherine_Jenkins/S13Sxa-dMcs_0000004 75.7 81.2 
+Katherine_Jenkins/S13Sxa-dMcs_0000005 81.6 111.5 
+Katherine_Jenkins/S13Sxa-dMcs_0000006 111.6 119.4 
+Katherine_Jenkins/S13Sxa-dMcs_0000007 145.9 151.7 
+Katherine_Jenkins/S13Sxa-dMcs_0000008 413.7 425.2 
+Katherine_Jenkins/S13Sxa-dMcs_0000009 426.0 434.6 
+Katherine_Jenkins/S13Sxa-dMcs_0000010 435.3 449.2 
+Katherine_Jenkins/S13Sxa-dMcs_0000011 453.4 458.4 

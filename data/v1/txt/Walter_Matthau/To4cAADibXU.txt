@@ -1,0 +1,8 @@
+POI: 			Walter_Matthau 
+Youtube ID: 	To4cAADibXU 
+Video length: 	192.2 sec 
+Set (V): 		dev 
+ 
+Walter_Matthau/To4cAADibXU_0000001 16.9 23.0 
+Walter_Matthau/To4cAADibXU_0000002 33.3 41.1 
+Walter_Matthau/To4cAADibXU_0000003 142.3 146.6 

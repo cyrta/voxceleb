@@ -1,0 +1,7 @@
+POI: 			Regina_Hall 
+Youtube ID: 	pGMcglQYXYE 
+Video length: 	274.3 sec 
+Set (V): 		dev 
+ 
+Regina_Hall/pGMcglQYXYE_0000001 120.1 124.0 
+Regina_Hall/pGMcglQYXYE_0000002 205.6 209.8 

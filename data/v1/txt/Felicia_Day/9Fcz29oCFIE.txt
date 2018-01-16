@@ -1,0 +1,10 @@
+POI: 			Felicia_Day 
+Youtube ID: 	9Fcz29oCFIE 
+Video length: 	360.5 sec 
+Set (V): 		dev 
+ 
+Felicia_Day/9Fcz29oCFIE_0000001 54.1 65.7 
+Felicia_Day/9Fcz29oCFIE_0000002 66.3 70.6 
+Felicia_Day/9Fcz29oCFIE_0000003 74.2 82.1 
+Felicia_Day/9Fcz29oCFIE_0000004 95.2 106.9 
+Felicia_Day/9Fcz29oCFIE_0000005 107.2 114.1 

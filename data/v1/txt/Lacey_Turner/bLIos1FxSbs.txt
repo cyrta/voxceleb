@@ -1,0 +1,10 @@
+POI: 			Lacey_Turner 
+Youtube ID: 	bLIos1FxSbs 
+Video length: 	271.0 sec 
+Set (V): 		dev 
+ 
+Lacey_Turner/bLIos1FxSbs_0000001 30.2 34.6 
+Lacey_Turner/bLIos1FxSbs_0000002 173.4 177.8 
+Lacey_Turner/bLIos1FxSbs_0000003 182.2 188.4 
+Lacey_Turner/bLIos1FxSbs_0000004 227.2 233.2 
+Lacey_Turner/bLIos1FxSbs_0000005 242.0 245.9 

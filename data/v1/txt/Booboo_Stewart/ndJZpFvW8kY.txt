@@ -1,0 +1,11 @@
+POI: 			Booboo_Stewart 
+Youtube ID: 	ndJZpFvW8kY 
+Video length: 	284.9 sec 
+Set (V): 		dev 
+ 
+Booboo_Stewart/ndJZpFvW8kY_0000001 13.2 23.5 
+Booboo_Stewart/ndJZpFvW8kY_0000002 31.8 40.9 
+Booboo_Stewart/ndJZpFvW8kY_0000003 72.1 77.8 
+Booboo_Stewart/ndJZpFvW8kY_0000004 172.6 178.0 
+Booboo_Stewart/ndJZpFvW8kY_0000005 182.6 191.5 
+Booboo_Stewart/ndJZpFvW8kY_0000006 226.5 234.7 

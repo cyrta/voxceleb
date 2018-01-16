@@ -1,0 +1,8 @@
+POI: 			Carrie_Underwood 
+Youtube ID: 	rOyppZrYO0A 
+Video length: 	135.9 sec 
+Set (V): 		dev 
+ 
+Carrie_Underwood/rOyppZrYO0A_0000001 27.5 35.2 
+Carrie_Underwood/rOyppZrYO0A_0000002 56.8 67.0 
+Carrie_Underwood/rOyppZrYO0A_0000003 74.6 83.1 

@@ -1,0 +1,18 @@
+POI: 			Jack_Black 
+Youtube ID: 	i6SqsB3OsBE 
+Video length: 	281.0 sec 
+Set (V): 		dev 
+ 
+Jack_Black/i6SqsB3OsBE_0000001 20.2 31.6 
+Jack_Black/i6SqsB3OsBE_0000002 41.8 45.8 
+Jack_Black/i6SqsB3OsBE_0000003 46.5 50.8 
+Jack_Black/i6SqsB3OsBE_0000004 48.4 53.3 
+Jack_Black/i6SqsB3OsBE_0000005 61.8 74.9 
+Jack_Black/i6SqsB3OsBE_0000006 75.6 80.6 
+Jack_Black/i6SqsB3OsBE_0000007 83.8 101.1 
+Jack_Black/i6SqsB3OsBE_0000008 86.7 93.6 
+Jack_Black/i6SqsB3OsBE_0000009 105.2 109.6 
+Jack_Black/i6SqsB3OsBE_0000010 122.4 128.6 
+Jack_Black/i6SqsB3OsBE_0000011 128.7 133.8 
+Jack_Black/i6SqsB3OsBE_0000012 135.2 147.1 
+Jack_Black/i6SqsB3OsBE_0000013 226.6 232.9 

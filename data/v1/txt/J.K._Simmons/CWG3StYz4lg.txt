@@ -1,0 +1,12 @@
+POI: 			J.K._Simmons 
+Youtube ID: 	CWG3StYz4lg 
+Video length: 	145.8 sec 
+Set (V): 		dev 
+ 
+J.K._Simmons/CWG3StYz4lg_0000001 04.0 09.2 
+J.K._Simmons/CWG3StYz4lg_0000002 38.2 44.0 
+J.K._Simmons/CWG3StYz4lg_0000003 44.6 56.1 
+J.K._Simmons/CWG3StYz4lg_0000004 70.4 77.3 
+J.K._Simmons/CWG3StYz4lg_0000005 89.9 95.5 
+J.K._Simmons/CWG3StYz4lg_0000006 95.9 102.1 
+J.K._Simmons/CWG3StYz4lg_0000007 104.0 108.2 

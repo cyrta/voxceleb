@@ -1,0 +1,26 @@
+POI: 			Peter_Berg 
+Youtube ID: 	zjuonbHlU2Q 
+Video length: 	462.4 sec 
+Set (V): 		dev 
+ 
+Peter_Berg/zjuonbHlU2Q_0000001 34.6 64.6 
+Peter_Berg/zjuonbHlU2Q_0000002 88.4 96.5 
+Peter_Berg/zjuonbHlU2Q_0000003 97.1 108.6 
+Peter_Berg/zjuonbHlU2Q_0000004 108.8 121.0 
+Peter_Berg/zjuonbHlU2Q_0000005 82.9 90.0 
+Peter_Berg/zjuonbHlU2Q_0000006 115.5 119.5 
+Peter_Berg/zjuonbHlU2Q_0000007 134.3 141.6 
+Peter_Berg/zjuonbHlU2Q_0000008 142.1 173.6 
+Peter_Berg/zjuonbHlU2Q_0000009 174.3 190.9 
+Peter_Berg/zjuonbHlU2Q_0000010 198.4 204.2 
+Peter_Berg/zjuonbHlU2Q_0000011 217.9 237.5 
+Peter_Berg/zjuonbHlU2Q_0000012 239.5 250.6 
+Peter_Berg/zjuonbHlU2Q_0000013 251.3 257.6 
+Peter_Berg/zjuonbHlU2Q_0000014 279.6 314.9 
+Peter_Berg/zjuonbHlU2Q_0000015 332.6 337.0 
+Peter_Berg/zjuonbHlU2Q_0000016 338.7 353.4 
+Peter_Berg/zjuonbHlU2Q_0000017 333.8 338.5 
+Peter_Berg/zjuonbHlU2Q_0000018 355.7 386.1 
+Peter_Berg/zjuonbHlU2Q_0000019 403.9 439.9 
+Peter_Berg/zjuonbHlU2Q_0000020 442.9 447.4 
+Peter_Berg/zjuonbHlU2Q_0000021 445.4 451.1 

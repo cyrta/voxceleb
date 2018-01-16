@@ -1,0 +1,11 @@
+POI: 			Lea_Michele 
+Youtube ID: 	WjESUQpbh58 
+Video length: 	247.0 sec 
+Set (V): 		dev 
+ 
+Lea_Michele/WjESUQpbh58_0000001 72.1 76.2 
+Lea_Michele/WjESUQpbh58_0000002 83.5 89.6 
+Lea_Michele/WjESUQpbh58_0000003 98.6 104.4 
+Lea_Michele/WjESUQpbh58_0000004 141.0 148.1 
+Lea_Michele/WjESUQpbh58_0000005 168.0 175.4 
+Lea_Michele/WjESUQpbh58_0000006 181.5 185.5 

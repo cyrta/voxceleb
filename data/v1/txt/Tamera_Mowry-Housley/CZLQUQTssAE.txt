@@ -1,0 +1,10 @@
+POI: 			Tamera_Mowry-Housley 
+Youtube ID: 	CZLQUQTssAE 
+Video length: 	85.7 sec 
+Set (V): 		dev 
+ 
+Tamera_Mowry-Housley/CZLQUQTssAE_0000001 02.5 06.7 
+Tamera_Mowry-Housley/CZLQUQTssAE_0000002 17.1 24.9 
+Tamera_Mowry-Housley/CZLQUQTssAE_0000003 31.6 39.7 
+Tamera_Mowry-Housley/CZLQUQTssAE_0000004 41.0 45.1 
+Tamera_Mowry-Housley/CZLQUQTssAE_0000005 58.8 62.9 

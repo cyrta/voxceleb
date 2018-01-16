@@ -1,0 +1,11 @@
+POI: 			Gregg_Sulkin 
+Youtube ID: 	PlnIWgcMcAY 
+Video length: 	247.0 sec 
+Set (V): 		dev 
+ 
+Gregg_Sulkin/PlnIWgcMcAY_0000001 30.0 34.2 
+Gregg_Sulkin/PlnIWgcMcAY_0000002 51.7 57.0 
+Gregg_Sulkin/PlnIWgcMcAY_0000003 138.4 145.2 
+Gregg_Sulkin/PlnIWgcMcAY_0000004 147.8 153.8 
+Gregg_Sulkin/PlnIWgcMcAY_0000005 175.9 180.8 
+Gregg_Sulkin/PlnIWgcMcAY_0000006 185.4 189.8 

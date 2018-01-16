@@ -1,0 +1,12 @@
+POI: 			Thomas_Jane 
+Youtube ID: 	oebcQl_9pT0 
+Video length: 	166.7 sec 
+Set (V): 		dev 
+ 
+Thomas_Jane/oebcQl_9pT0_0000001 25.7 30.8 
+Thomas_Jane/oebcQl_9pT0_0000002 82.3 95.7 
+Thomas_Jane/oebcQl_9pT0_0000003 99.0 107.1 
+Thomas_Jane/oebcQl_9pT0_0000004 109.8 113.8 
+Thomas_Jane/oebcQl_9pT0_0000005 116.2 136.3 
+Thomas_Jane/oebcQl_9pT0_0000006 150.9 155.6 
+Thomas_Jane/oebcQl_9pT0_0000007 156.4 161.2 

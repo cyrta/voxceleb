@@ -1,0 +1,16 @@
+POI: 			Sofia_Coppola 
+Youtube ID: 	YlD64GCq_gc 
+Video length: 	340.5 sec 
+Set (V): 		dev 
+ 
+Sofia_Coppola/YlD64GCq_gc_0000001 09.9 16.9 
+Sofia_Coppola/YlD64GCq_gc_0000002 17.8 22.2 
+Sofia_Coppola/YlD64GCq_gc_0000003 27.3 33.0 
+Sofia_Coppola/YlD64GCq_gc_0000004 101.6 105.7 
+Sofia_Coppola/YlD64GCq_gc_0000005 129.2 136.0 
+Sofia_Coppola/YlD64GCq_gc_0000006 139.5 143.7 
+Sofia_Coppola/YlD64GCq_gc_0000007 158.6 165.5 
+Sofia_Coppola/YlD64GCq_gc_0000008 166.2 173.8 
+Sofia_Coppola/YlD64GCq_gc_0000009 186.9 192.0 
+Sofia_Coppola/YlD64GCq_gc_0000010 218.5 229.6 
+Sofia_Coppola/YlD64GCq_gc_0000011 267.6 272.0 

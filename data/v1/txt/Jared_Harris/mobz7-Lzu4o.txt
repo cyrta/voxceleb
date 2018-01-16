@@ -1,0 +1,9 @@
+POI: 			Jared_Harris 
+Youtube ID: 	mobz7-Lzu4o 
+Video length: 	866.9 sec 
+Set (V): 		dev 
+ 
+Jared_Harris/mobz7-Lzu4o_0000001 620.6 625.2 
+Jared_Harris/mobz7-Lzu4o_0000002 658.5 662.9 
+Jared_Harris/mobz7-Lzu4o_0000003 700.4 705.7 
+Jared_Harris/mobz7-Lzu4o_0000004 709.0 719.0 

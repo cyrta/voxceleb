@@ -1,0 +1,20 @@
+POI: 			Matthew_Modine 
+Youtube ID: 	zL3UsopS7yg 
+Video length: 	477.8 sec 
+Set (V): 		dev 
+ 
+Matthew_Modine/zL3UsopS7yg_0000001 67.4 93.3 
+Matthew_Modine/zL3UsopS7yg_0000002 93.6 109.9 
+Matthew_Modine/zL3UsopS7yg_0000003 112.2 130.3 
+Matthew_Modine/zL3UsopS7yg_0000004 137.3 167.8 
+Matthew_Modine/zL3UsopS7yg_0000005 168.8 187.3 
+Matthew_Modine/zL3UsopS7yg_0000006 188.0 203.8 
+Matthew_Modine/zL3UsopS7yg_0000007 205.6 219.2 
+Matthew_Modine/zL3UsopS7yg_0000008 258.8 277.4 
+Matthew_Modine/zL3UsopS7yg_0000009 278.2 289.9 
+Matthew_Modine/zL3UsopS7yg_0000010 303.7 316.2 
+Matthew_Modine/zL3UsopS7yg_0000011 317.4 337.1 
+Matthew_Modine/zL3UsopS7yg_0000012 362.5 372.0 
+Matthew_Modine/zL3UsopS7yg_0000013 372.8 394.1 
+Matthew_Modine/zL3UsopS7yg_0000014 395.1 418.2 
+Matthew_Modine/zL3UsopS7yg_0000015 418.8 450.5 

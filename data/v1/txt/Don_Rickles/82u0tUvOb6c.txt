@@ -1,0 +1,47 @@
+POI: 			Don_Rickles 
+Youtube ID: 	82u0tUvOb6c 
+Video length: 	2031.5 sec 
+Set (V): 		dev 
+ 
+Don_Rickles/82u0tUvOb6c_0000001 140.3 146.9 
+Don_Rickles/82u0tUvOb6c_0000002 171.8 178.6 
+Don_Rickles/82u0tUvOb6c_0000003 184.6 193.9 
+Don_Rickles/82u0tUvOb6c_0000004 223.6 227.6 
+Don_Rickles/82u0tUvOb6c_0000005 227.8 233.6 
+Don_Rickles/82u0tUvOb6c_0000006 264.8 268.8 
+Don_Rickles/82u0tUvOb6c_0000007 291.8 302.4 
+Don_Rickles/82u0tUvOb6c_0000008 335.1 339.9 
+Don_Rickles/82u0tUvOb6c_0000009 373.1 377.8 
+Don_Rickles/82u0tUvOb6c_0000010 386.4 392.8 
+Don_Rickles/82u0tUvOb6c_0000011 392.9 397.2 
+Don_Rickles/82u0tUvOb6c_0000012 409.0 413.1 
+Don_Rickles/82u0tUvOb6c_0000013 446.7 453.4 
+Don_Rickles/82u0tUvOb6c_0000014 532.9 542.6 
+Don_Rickles/82u0tUvOb6c_0000015 548.3 553.3 
+Don_Rickles/82u0tUvOb6c_0000016 567.5 572.7 
+Don_Rickles/82u0tUvOb6c_0000017 577.4 581.7 
+Don_Rickles/82u0tUvOb6c_0000018 594.8 603.5 
+Don_Rickles/82u0tUvOb6c_0000019 646.0 650.5 
+Don_Rickles/82u0tUvOb6c_0000020 661.3 665.5 
+Don_Rickles/82u0tUvOb6c_0000021 697.5 703.1 
+Don_Rickles/82u0tUvOb6c_0000022 870.8 877.6 
+Don_Rickles/82u0tUvOb6c_0000023 886.8 890.8 
+Don_Rickles/82u0tUvOb6c_0000024 895.8 904.8 
+Don_Rickles/82u0tUvOb6c_0000025 919.2 923.2 
+Don_Rickles/82u0tUvOb6c_0000026 950.1 956.9 
+Don_Rickles/82u0tUvOb6c_0000027 957.6 962.4 
+Don_Rickles/82u0tUvOb6c_0000028 1007.6 1012.1 
+Don_Rickles/82u0tUvOb6c_0000029 1068.9 1074.6 
+Don_Rickles/82u0tUvOb6c_0000030 1080.0 1084.4 
+Don_Rickles/82u0tUvOb6c_0000031 1187.1 1191.7 
+Don_Rickles/82u0tUvOb6c_0000032 1198.6 1204.2 
+Don_Rickles/82u0tUvOb6c_0000033 1366.0 1370.6 
+Don_Rickles/82u0tUvOb6c_0000034 1392.2 1396.2 
+Don_Rickles/82u0tUvOb6c_0000035 1501.1 1505.6 
+Don_Rickles/82u0tUvOb6c_0000036 1692.6 1696.9 
+Don_Rickles/82u0tUvOb6c_0000037 1728.7 1732.9 
+Don_Rickles/82u0tUvOb6c_0000038 1747.6 1751.9 
+Don_Rickles/82u0tUvOb6c_0000039 1765.7 1771.7 
+Don_Rickles/82u0tUvOb6c_0000040 1814.6 1822.5 
+Don_Rickles/82u0tUvOb6c_0000041 1852.7 1857.8 
+Don_Rickles/82u0tUvOb6c_0000042 1889.1 1894.3 

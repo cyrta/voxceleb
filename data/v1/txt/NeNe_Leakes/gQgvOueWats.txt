@@ -1,0 +1,10 @@
+POI: 			NeNe_Leakes 
+Youtube ID: 	gQgvOueWats 
+Video length: 	492.3 sec 
+Set (V): 		dev 
+ 
+NeNe_Leakes/gQgvOueWats_0000001 132.6 141.1 
+NeNe_Leakes/gQgvOueWats_0000002 228.0 239.3 
+NeNe_Leakes/gQgvOueWats_0000003 263.2 267.8 
+NeNe_Leakes/gQgvOueWats_0000004 369.6 375.1 
+NeNe_Leakes/gQgvOueWats_0000005 410.2 415.1 

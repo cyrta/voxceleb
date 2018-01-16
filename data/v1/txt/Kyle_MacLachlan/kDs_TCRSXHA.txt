@@ -1,0 +1,9 @@
+POI: 			Kyle_MacLachlan 
+Youtube ID: 	kDs_TCRSXHA 
+Video length: 	283.8 sec 
+Set (V): 		dev 
+ 
+Kyle_MacLachlan/kDs_TCRSXHA_0000001 210.4 216.8 
+Kyle_MacLachlan/kDs_TCRSXHA_0000002 219.6 227.6 
+Kyle_MacLachlan/kDs_TCRSXHA_0000003 231.1 243.0 
+Kyle_MacLachlan/kDs_TCRSXHA_0000004 219.6 227.6 

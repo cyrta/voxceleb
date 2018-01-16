@@ -1,0 +1,12 @@
+POI: 			Vicky_McClure 
+Youtube ID: 	nKHpN9Es_CM 
+Video length: 	138.4 sec 
+Set (V): 		dev 
+ 
+Vicky_McClure/nKHpN9Es_CM_0000001 10.8 17.0 
+Vicky_McClure/nKHpN9Es_CM_0000002 17.4 22.9 
+Vicky_McClure/nKHpN9Es_CM_0000003 28.9 36.5 
+Vicky_McClure/nKHpN9Es_CM_0000004 53.6 59.2 
+Vicky_McClure/nKHpN9Es_CM_0000005 60.3 68.4 
+Vicky_McClure/nKHpN9Es_CM_0000006 102.2 111.0 
+Vicky_McClure/nKHpN9Es_CM_0000007 113.0 131.4 

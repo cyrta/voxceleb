@@ -1,0 +1,8 @@
+POI: 			Matt_Smith 
+Youtube ID: 	F5FCFDRO1KA 
+Video length: 	639.3 sec 
+Set (V): 		dev 
+ 
+Matt_Smith/F5FCFDRO1KA_0000001 126.0 131.7 
+Matt_Smith/F5FCFDRO1KA_0000002 299.9 306.9 
+Matt_Smith/F5FCFDRO1KA_0000003 424.4 429.9 

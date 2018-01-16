@@ -1,0 +1,8 @@
+POI: 			Andy_Richter 
+Youtube ID: 	r2_YxXnIR4M 
+Video length: 	344.7 sec 
+Set (V): 		dev 
+ 
+Andy_Richter/r2_YxXnIR4M_0000001 97.2 101.2 
+Andy_Richter/r2_YxXnIR4M_0000002 166.7 174.1 
+Andy_Richter/r2_YxXnIR4M_0000003 245.3 249.7 

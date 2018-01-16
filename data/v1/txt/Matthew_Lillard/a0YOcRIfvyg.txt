@@ -1,0 +1,11 @@
+POI: 			Matthew_Lillard 
+Youtube ID: 	a0YOcRIfvyg 
+Video length: 	92.2 sec 
+Set (V): 		dev 
+ 
+Matthew_Lillard/a0YOcRIfvyg_0000001 05.8 37.9 
+Matthew_Lillard/a0YOcRIfvyg_0000002 38.9 43.1 
+Matthew_Lillard/a0YOcRIfvyg_0000003 44.6 51.6 
+Matthew_Lillard/a0YOcRIfvyg_0000004 54.2 59.7 
+Matthew_Lillard/a0YOcRIfvyg_0000005 62.7 70.3 
+Matthew_Lillard/a0YOcRIfvyg_0000006 77.0 82.4 

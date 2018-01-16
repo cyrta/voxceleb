@@ -1,0 +1,11 @@
+POI: 			Stan_Lee 
+Youtube ID: 	l22d2RKPGlM 
+Video length: 	141.6 sec 
+Set (V): 		dev 
+ 
+Stan_Lee/l22d2RKPGlM_0000001 31.7 39.2 
+Stan_Lee/l22d2RKPGlM_0000002 47.2 52.6 
+Stan_Lee/l22d2RKPGlM_0000003 54.6 64.3 
+Stan_Lee/l22d2RKPGlM_0000004 66.8 73.8 
+Stan_Lee/l22d2RKPGlM_0000005 107.3 111.7 
+Stan_Lee/l22d2RKPGlM_0000006 122.8 131.6 

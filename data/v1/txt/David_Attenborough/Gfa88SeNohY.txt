@@ -1,0 +1,8 @@
+POI: 			David_Attenborough 
+Youtube ID: 	Gfa88SeNohY 
+Video length: 	142.7 sec 
+Set (V): 		dev 
+ 
+David_Attenborough/Gfa88SeNohY_0000001 57.0 63.8 
+David_Attenborough/Gfa88SeNohY_0000002 67.5 72.1 
+David_Attenborough/Gfa88SeNohY_0000003 123.0 131.5 

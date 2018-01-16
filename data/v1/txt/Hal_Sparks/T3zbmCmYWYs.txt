@@ -1,0 +1,8 @@
+POI: 			Hal_Sparks 
+Youtube ID: 	T3zbmCmYWYs 
+Video length: 	196.5 sec 
+Set (V): 		dev 
+ 
+Hal_Sparks/T3zbmCmYWYs_0000001 04.2 12.5 
+Hal_Sparks/T3zbmCmYWYs_0000002 13.0 17.9 
+Hal_Sparks/T3zbmCmYWYs_0000003 168.8 173.4 

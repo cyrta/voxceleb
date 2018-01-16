@@ -1,0 +1,7 @@
+POI: 			Lorde 
+Youtube ID: 	4IsjGOURx20 
+Video length: 	1154.5 sec 
+Set (V): 		dev 
+ 
+Lorde/4IsjGOURx20_0000001 511.6 516.1 
+Lorde/4IsjGOURx20_0000002 891.4 903.3 

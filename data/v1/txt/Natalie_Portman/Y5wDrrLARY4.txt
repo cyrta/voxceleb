@@ -1,0 +1,8 @@
+POI: 			Natalie_Portman 
+Youtube ID: 	Y5wDrrLARY4 
+Video length: 	207.5 sec 
+Set (V): 		dev 
+ 
+Natalie_Portman/Y5wDrrLARY4_0000001 64.0 76.0 
+Natalie_Portman/Y5wDrrLARY4_0000002 103.3 108.8 
+Natalie_Portman/Y5wDrrLARY4_0000003 123.9 130.2 

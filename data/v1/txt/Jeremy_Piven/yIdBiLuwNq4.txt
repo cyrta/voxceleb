@@ -1,0 +1,10 @@
+POI: 			Jeremy_Piven 
+Youtube ID: 	yIdBiLuwNq4 
+Video length: 	276.5 sec 
+Set (V): 		dev 
+ 
+Jeremy_Piven/yIdBiLuwNq4_0000001 20.1 33.5 
+Jeremy_Piven/yIdBiLuwNq4_0000002 40.9 49.2 
+Jeremy_Piven/yIdBiLuwNq4_0000003 51.4 64.0 
+Jeremy_Piven/yIdBiLuwNq4_0000004 89.4 106.0 
+Jeremy_Piven/yIdBiLuwNq4_0000005 152.1 159.4 

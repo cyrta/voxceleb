@@ -1,0 +1,14 @@
+POI: 			Tom_Hooper 
+Youtube ID: 	MMhcJNyYklY 
+Video length: 	277.8 sec 
+Set (V): 		dev 
+ 
+Tom_Hooper/MMhcJNyYklY_0000001 11.6 22.8 
+Tom_Hooper/MMhcJNyYklY_0000002 35.7 43.8 
+Tom_Hooper/MMhcJNyYklY_0000003 81.1 87.9 
+Tom_Hooper/MMhcJNyYklY_0000004 88.5 92.5 
+Tom_Hooper/MMhcJNyYklY_0000005 101.8 108.1 
+Tom_Hooper/MMhcJNyYklY_0000006 108.2 112.2 
+Tom_Hooper/MMhcJNyYklY_0000007 113.4 118.1 
+Tom_Hooper/MMhcJNyYklY_0000008 163.6 172.3 
+Tom_Hooper/MMhcJNyYklY_0000009 209.6 218.6 

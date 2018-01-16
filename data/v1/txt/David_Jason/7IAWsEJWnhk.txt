@@ -1,0 +1,18 @@
+POI: 			David_Jason 
+Youtube ID: 	7IAWsEJWnhk 
+Video length: 	457.5 sec 
+Set (V): 		dev 
+ 
+David_Jason/7IAWsEJWnhk_0000001 38.2 44.8 
+David_Jason/7IAWsEJWnhk_0000002 55.5 63.6 
+David_Jason/7IAWsEJWnhk_0000003 77.7 88.4 
+David_Jason/7IAWsEJWnhk_0000004 101.4 105.5 
+David_Jason/7IAWsEJWnhk_0000005 136.6 146.5 
+David_Jason/7IAWsEJWnhk_0000006 147.6 168.4 
+David_Jason/7IAWsEJWnhk_0000007 190.2 196.8 
+David_Jason/7IAWsEJWnhk_0000008 211.5 220.8 
+David_Jason/7IAWsEJWnhk_0000009 237.7 251.7 
+David_Jason/7IAWsEJWnhk_0000010 278.2 292.8 
+David_Jason/7IAWsEJWnhk_0000011 349.0 354.0 
+David_Jason/7IAWsEJWnhk_0000012 354.1 385.8 
+David_Jason/7IAWsEJWnhk_0000013 409.3 447.2 

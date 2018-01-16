@@ -1,0 +1,30 @@
+POI: 			Jack_Reynor 
+Youtube ID: 	t2b-CAsCbkc 
+Video length: 	548.9 sec 
+Set (V): 		dev 
+ 
+Jack_Reynor/t2b-CAsCbkc_0000001 26.0 34.6 
+Jack_Reynor/t2b-CAsCbkc_0000002 53.1 57.7 
+Jack_Reynor/t2b-CAsCbkc_0000003 76.7 83.4 
+Jack_Reynor/t2b-CAsCbkc_0000004 86.1 98.0 
+Jack_Reynor/t2b-CAsCbkc_0000005 98.5 105.0 
+Jack_Reynor/t2b-CAsCbkc_0000006 128.6 138.7 
+Jack_Reynor/t2b-CAsCbkc_0000007 161.1 172.9 
+Jack_Reynor/t2b-CAsCbkc_0000008 191.1 202.4 
+Jack_Reynor/t2b-CAsCbkc_0000009 219.0 223.2 
+Jack_Reynor/t2b-CAsCbkc_0000010 223.9 247.7 
+Jack_Reynor/t2b-CAsCbkc_0000011 260.1 277.4 
+Jack_Reynor/t2b-CAsCbkc_0000012 278.8 286.1 
+Jack_Reynor/t2b-CAsCbkc_0000013 306.4 310.7 
+Jack_Reynor/t2b-CAsCbkc_0000014 323.4 328.5 
+Jack_Reynor/t2b-CAsCbkc_0000015 329.3 341.8 
+Jack_Reynor/t2b-CAsCbkc_0000016 354.4 361.8 
+Jack_Reynor/t2b-CAsCbkc_0000017 363.4 371.2 
+Jack_Reynor/t2b-CAsCbkc_0000018 372.4 376.8 
+Jack_Reynor/t2b-CAsCbkc_0000019 392.9 401.6 
+Jack_Reynor/t2b-CAsCbkc_0000020 428.8 436.1 
+Jack_Reynor/t2b-CAsCbkc_0000021 443.6 453.5 
+Jack_Reynor/t2b-CAsCbkc_0000022 453.9 462.6 
+Jack_Reynor/t2b-CAsCbkc_0000023 484.9 493.0 
+Jack_Reynor/t2b-CAsCbkc_0000024 497.9 505.7 
+Jack_Reynor/t2b-CAsCbkc_0000025 505.9 515.8 

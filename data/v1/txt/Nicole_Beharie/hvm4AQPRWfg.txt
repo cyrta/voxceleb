@@ -1,0 +1,9 @@
+POI: 			Nicole_Beharie 
+Youtube ID: 	hvm4AQPRWfg 
+Video length: 	115.4 sec 
+Set (V): 		dev 
+ 
+Nicole_Beharie/hvm4AQPRWfg_0000001 31.4 38.8 
+Nicole_Beharie/hvm4AQPRWfg_0000002 41.8 50.8 
+Nicole_Beharie/hvm4AQPRWfg_0000003 51.6 55.5 
+Nicole_Beharie/hvm4AQPRWfg_0000004 56.6 63.2 

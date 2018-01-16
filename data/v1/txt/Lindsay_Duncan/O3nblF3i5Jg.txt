@@ -1,0 +1,15 @@
+POI: 			Lindsay_Duncan 
+Youtube ID: 	O3nblF3i5Jg 
+Video length: 	194.9 sec 
+Set (V): 		dev 
+ 
+Lindsay_Duncan/O3nblF3i5Jg_0000001 70.6 77.1 
+Lindsay_Duncan/O3nblF3i5Jg_0000002 91.2 96.5 
+Lindsay_Duncan/O3nblF3i5Jg_0000003 97.8 107.2 
+Lindsay_Duncan/O3nblF3i5Jg_0000004 108.0 114.3 
+Lindsay_Duncan/O3nblF3i5Jg_0000005 115.1 124.6 
+Lindsay_Duncan/O3nblF3i5Jg_0000006 124.8 133.7 
+Lindsay_Duncan/O3nblF3i5Jg_0000007 149.3 158.6 
+Lindsay_Duncan/O3nblF3i5Jg_0000008 160.9 169.2 
+Lindsay_Duncan/O3nblF3i5Jg_0000009 172.7 177.9 
+Lindsay_Duncan/O3nblF3i5Jg_0000010 179.2 185.9 

@@ -1,0 +1,15 @@
+POI: 			John_Rhys-Davies 
+Youtube ID: 	5C-aA3-PpmY 
+Video length: 	315.8 sec 
+Set (V): 		dev 
+ 
+John_Rhys-Davies/5C-aA3-PpmY_0000001 25.8 30.4 
+John_Rhys-Davies/5C-aA3-PpmY_0000002 32.0 39.7 
+John_Rhys-Davies/5C-aA3-PpmY_0000003 40.5 48.4 
+John_Rhys-Davies/5C-aA3-PpmY_0000004 50.0 57.9 
+John_Rhys-Davies/5C-aA3-PpmY_0000005 89.9 94.7 
+John_Rhys-Davies/5C-aA3-PpmY_0000006 122.8 127.0 
+John_Rhys-Davies/5C-aA3-PpmY_0000007 144.2 152.0 
+John_Rhys-Davies/5C-aA3-PpmY_0000008 213.4 218.9 
+John_Rhys-Davies/5C-aA3-PpmY_0000009 248.5 254.4 
+John_Rhys-Davies/5C-aA3-PpmY_0000010 278.9 285.8 

@@ -1,0 +1,8 @@
+POI: 			Kathryn_Joosten 
+Youtube ID: 	JDdwIUyxedc 
+Video length: 	39.3 sec 
+Set (V): 		dev 
+ 
+Kathryn_Joosten/JDdwIUyxedc_0000001 01.2 09.5 
+Kathryn_Joosten/JDdwIUyxedc_0000002 09.9 30.0 
+Kathryn_Joosten/JDdwIUyxedc_0000003 30.7 37.6 

@@ -1,0 +1,13 @@
+POI: 			Ronda_Rousey 
+Youtube ID: 	iwCdv9iR8P8 
+Video length: 	377.9 sec 
+Set (V): 		dev 
+ 
+Ronda_Rousey/iwCdv9iR8P8_0000001 18.3 24.0 
+Ronda_Rousey/iwCdv9iR8P8_0000002 29.0 34.3 
+Ronda_Rousey/iwCdv9iR8P8_0000003 84.9 95.0 
+Ronda_Rousey/iwCdv9iR8P8_0000004 106.5 110.8 
+Ronda_Rousey/iwCdv9iR8P8_0000005 123.4 127.6 
+Ronda_Rousey/iwCdv9iR8P8_0000006 258.4 272.3 
+Ronda_Rousey/iwCdv9iR8P8_0000007 273.4 278.8 
+Ronda_Rousey/iwCdv9iR8P8_0000008 284.9 305.3 

@@ -1,0 +1,10 @@
+POI: 			Ricky_Gervais 
+Youtube ID: 	nfIBEJYZG7o 
+Video length: 	926.6 sec 
+Set (V): 		dev 
+ 
+Ricky_Gervais/nfIBEJYZG7o_0000001 214.6 220.2 
+Ricky_Gervais/nfIBEJYZG7o_0000002 464.8 469.4 
+Ricky_Gervais/nfIBEJYZG7o_0000003 587.0 592.6 
+Ricky_Gervais/nfIBEJYZG7o_0000004 654.7 659.0 
+Ricky_Gervais/nfIBEJYZG7o_0000005 801.7 812.2 

@@ -1,0 +1,15 @@
+POI: 			Michael_Madsen 
+Youtube ID: 	KujATLKiZzE 
+Video length: 	666.5 sec 
+Set (V): 		dev 
+ 
+Michael_Madsen/KujATLKiZzE_0000001 119.9 125.4 
+Michael_Madsen/KujATLKiZzE_0000002 172.0 176.6 
+Michael_Madsen/KujATLKiZzE_0000003 253.6 259.2 
+Michael_Madsen/KujATLKiZzE_0000004 424.0 429.1 
+Michael_Madsen/KujATLKiZzE_0000005 461.9 466.1 
+Michael_Madsen/KujATLKiZzE_0000006 461.8 466.0 
+Michael_Madsen/KujATLKiZzE_0000007 466.9 471.6 
+Michael_Madsen/KujATLKiZzE_0000008 474.8 482.8 
+Michael_Madsen/KujATLKiZzE_0000009 582.0 586.0 
+Michael_Madsen/KujATLKiZzE_0000010 606.2 611.8 

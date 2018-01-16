@@ -1,0 +1,8 @@
+POI: 			Johnny_Galecki 
+Youtube ID: 	vDNYvfk1_74 
+Video length: 	70.3 sec 
+Set (V): 		dev 
+ 
+Johnny_Galecki/vDNYvfk1_74_0000001 18.0 23.4 
+Johnny_Galecki/vDNYvfk1_74_0000002 31.6 41.5 
+Johnny_Galecki/vDNYvfk1_74_0000003 47.0 51.6 

@@ -1,0 +1,11 @@
+POI: 			Tom_Kenny 
+Youtube ID: 	HW7UgFv7aB8 
+Video length: 	91.3 sec 
+Set (V): 		dev 
+ 
+Tom_Kenny/HW7UgFv7aB8_0000001 00.7 05.5 
+Tom_Kenny/HW7UgFv7aB8_0000002 10.0 25.8 
+Tom_Kenny/HW7UgFv7aB8_0000003 31.6 44.0 
+Tom_Kenny/HW7UgFv7aB8_0000004 46.2 55.7 
+Tom_Kenny/HW7UgFv7aB8_0000005 64.4 74.9 
+Tom_Kenny/HW7UgFv7aB8_0000006 82.7 89.0 

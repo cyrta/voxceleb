@@ -1,0 +1,18 @@
+POI: 			Tom_Arnold 
+Youtube ID: 	3n01kmZExmA 
+Video length: 	318.5 sec 
+Set (V): 		dev 
+ 
+Tom_Arnold/3n01kmZExmA_0000001 24.9 29.7 
+Tom_Arnold/3n01kmZExmA_0000002 70.8 106.4 
+Tom_Arnold/3n01kmZExmA_0000003 119.1 126.1 
+Tom_Arnold/3n01kmZExmA_0000004 126.5 131.5 
+Tom_Arnold/3n01kmZExmA_0000005 133.2 155.2 
+Tom_Arnold/3n01kmZExmA_0000006 155.5 160.2 
+Tom_Arnold/3n01kmZExmA_0000007 160.3 168.3 
+Tom_Arnold/3n01kmZExmA_0000008 185.2 197.1 
+Tom_Arnold/3n01kmZExmA_0000009 199.0 214.4 
+Tom_Arnold/3n01kmZExmA_0000010 215.0 227.6 
+Tom_Arnold/3n01kmZExmA_0000011 236.3 266.4 
+Tom_Arnold/3n01kmZExmA_0000012 270.5 280.4 
+Tom_Arnold/3n01kmZExmA_0000013 281.3 303.4 

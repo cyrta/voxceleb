@@ -1,0 +1,26 @@
+POI: 			Ernest_Borgnine 
+Youtube ID: 	2cAiIYHfon0 
+Video length: 	357.6 sec 
+Set (V): 		test 
+ 
+Ernest_Borgnine/2cAiIYHfon0_0000001 14.6 18.8 
+Ernest_Borgnine/2cAiIYHfon0_0000002 26.9 34.3 
+Ernest_Borgnine/2cAiIYHfon0_0000003 34.7 56.6 
+Ernest_Borgnine/2cAiIYHfon0_0000004 72.9 78.1 
+Ernest_Borgnine/2cAiIYHfon0_0000005 80.8 103.0 
+Ernest_Borgnine/2cAiIYHfon0_0000006 108.6 113.1 
+Ernest_Borgnine/2cAiIYHfon0_0000007 117.8 125.8 
+Ernest_Borgnine/2cAiIYHfon0_0000008 125.8 132.8 
+Ernest_Borgnine/2cAiIYHfon0_0000009 138.3 145.6 
+Ernest_Borgnine/2cAiIYHfon0_0000010 146.9 166.8 
+Ernest_Borgnine/2cAiIYHfon0_0000011 176.1 180.8 
+Ernest_Borgnine/2cAiIYHfon0_0000012 189.8 201.6 
+Ernest_Borgnine/2cAiIYHfon0_0000013 212.7 219.6 
+Ernest_Borgnine/2cAiIYHfon0_0000014 220.6 228.4 
+Ernest_Borgnine/2cAiIYHfon0_0000015 245.4 259.2 
+Ernest_Borgnine/2cAiIYHfon0_0000016 265.3 272.4 
+Ernest_Borgnine/2cAiIYHfon0_0000017 273.3 288.0 
+Ernest_Borgnine/2cAiIYHfon0_0000018 288.1 305.8 
+Ernest_Borgnine/2cAiIYHfon0_0000019 310.0 316.2 
+Ernest_Borgnine/2cAiIYHfon0_0000020 316.5 329.9 
+Ernest_Borgnine/2cAiIYHfon0_0000021 330.1 341.0 

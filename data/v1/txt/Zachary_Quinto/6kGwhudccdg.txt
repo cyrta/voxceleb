@@ -1,0 +1,12 @@
+POI: 			Zachary_Quinto 
+Youtube ID: 	6kGwhudccdg 
+Video length: 	379.2 sec 
+Set (V): 		dev 
+ 
+Zachary_Quinto/6kGwhudccdg_0000001 76.6 88.6 
+Zachary_Quinto/6kGwhudccdg_0000002 160.2 165.4 
+Zachary_Quinto/6kGwhudccdg_0000003 276.8 282.6 
+Zachary_Quinto/6kGwhudccdg_0000004 319.1 330.6 
+Zachary_Quinto/6kGwhudccdg_0000005 345.1 350.8 
+Zachary_Quinto/6kGwhudccdg_0000006 353.0 361.4 
+Zachary_Quinto/6kGwhudccdg_0000007 363.7 369.4 

@@ -1,0 +1,8 @@
+POI: 			Sean_Bean 
+Youtube ID: 	GNZtScLzRb0 
+Video length: 	332.5 sec 
+Set (V): 		dev 
+ 
+Sean_Bean/GNZtScLzRb0_0000001 109.1 113.4 
+Sean_Bean/GNZtScLzRb0_0000002 118.9 124.8 
+Sean_Bean/GNZtScLzRb0_0000003 212.2 220.0 

@@ -1,0 +1,13 @@
+POI: 			Rosie_Huntington-Whiteley 
+Youtube ID: 	JFiZ2Omf_9c 
+Video length: 	320.3 sec 
+Set (V): 		dev 
+ 
+Rosie_Huntington-Whiteley/JFiZ2Omf_9c_0000001 74.8 81.4 
+Rosie_Huntington-Whiteley/JFiZ2Omf_9c_0000002 123.6 140.8 
+Rosie_Huntington-Whiteley/JFiZ2Omf_9c_0000003 152.3 158.2 
+Rosie_Huntington-Whiteley/JFiZ2Omf_9c_0000004 212.1 224.2 
+Rosie_Huntington-Whiteley/JFiZ2Omf_9c_0000005 225.3 231.5 
+Rosie_Huntington-Whiteley/JFiZ2Omf_9c_0000006 243.1 247.5 
+Rosie_Huntington-Whiteley/JFiZ2Omf_9c_0000007 248.3 256.4 
+Rosie_Huntington-Whiteley/JFiZ2Omf_9c_0000008 285.0 294.5 

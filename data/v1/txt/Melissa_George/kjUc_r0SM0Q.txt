@@ -1,0 +1,15 @@
+POI: 			Melissa_George 
+Youtube ID: 	kjUc_r0SM0Q 
+Video length: 	147.1 sec 
+Set (V): 		dev 
+ 
+Melissa_George/kjUc_r0SM0Q_0000001 13.1 19.7 
+Melissa_George/kjUc_r0SM0Q_0000002 32.7 45.3 
+Melissa_George/kjUc_r0SM0Q_0000003 46.3 53.4 
+Melissa_George/kjUc_r0SM0Q_0000004 61.0 67.2 
+Melissa_George/kjUc_r0SM0Q_0000005 72.5 77.4 
+Melissa_George/kjUc_r0SM0Q_0000006 86.0 95.6 
+Melissa_George/kjUc_r0SM0Q_0000007 96.6 100.6 
+Melissa_George/kjUc_r0SM0Q_0000008 106.4 114.2 
+Melissa_George/kjUc_r0SM0Q_0000009 127.1 134.1 
+Melissa_George/kjUc_r0SM0Q_0000010 137.4 141.4 

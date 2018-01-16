@@ -1,0 +1,19 @@
+POI: 			Chris_Pine 
+Youtube ID: 	QdXGKUfhe2Y 
+Video length: 	482.8 sec 
+Set (V): 		dev 
+ 
+Chris_Pine/QdXGKUfhe2Y_0000001 90.5 95.4 
+Chris_Pine/QdXGKUfhe2Y_0000002 100.3 110.3 
+Chris_Pine/QdXGKUfhe2Y_0000003 111.0 116.3 
+Chris_Pine/QdXGKUfhe2Y_0000004 117.3 128.0 
+Chris_Pine/QdXGKUfhe2Y_0000005 128.3 149.8 
+Chris_Pine/QdXGKUfhe2Y_0000006 150.6 158.7 
+Chris_Pine/QdXGKUfhe2Y_0000007 159.6 167.1 
+Chris_Pine/QdXGKUfhe2Y_0000008 286.1 295.6 
+Chris_Pine/QdXGKUfhe2Y_0000009 384.0 389.4 
+Chris_Pine/QdXGKUfhe2Y_0000010 393.1 408.8 
+Chris_Pine/QdXGKUfhe2Y_0000011 409.8 416.0 
+Chris_Pine/QdXGKUfhe2Y_0000012 416.4 420.8 
+Chris_Pine/QdXGKUfhe2Y_0000013 425.2 430.5 
+Chris_Pine/QdXGKUfhe2Y_0000014 431.0 471.2 

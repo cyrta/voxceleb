@@ -1,0 +1,18 @@
+POI: 			Joanna_Krupa 
+Youtube ID: 	HBD_X09Ydhs 
+Video length: 	672.6 sec 
+Set (V): 		dev 
+ 
+Joanna_Krupa/HBD_X09Ydhs_0000001 97.6 102.1 
+Joanna_Krupa/HBD_X09Ydhs_0000002 121.8 129.8 
+Joanna_Krupa/HBD_X09Ydhs_0000003 182.3 188.7 
+Joanna_Krupa/HBD_X09Ydhs_0000004 195.3 206.9 
+Joanna_Krupa/HBD_X09Ydhs_0000005 260.2 264.3 
+Joanna_Krupa/HBD_X09Ydhs_0000006 325.5 334.0 
+Joanna_Krupa/HBD_X09Ydhs_0000007 346.7 350.7 
+Joanna_Krupa/HBD_X09Ydhs_0000008 357.4 361.6 
+Joanna_Krupa/HBD_X09Ydhs_0000009 441.2 447.0 
+Joanna_Krupa/HBD_X09Ydhs_0000010 451.4 458.0 
+Joanna_Krupa/HBD_X09Ydhs_0000011 488.1 493.6 
+Joanna_Krupa/HBD_X09Ydhs_0000012 510.9 520.2 
+Joanna_Krupa/HBD_X09Ydhs_0000013 616.4 623.9 

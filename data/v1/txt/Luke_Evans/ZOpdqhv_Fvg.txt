@@ -1,0 +1,10 @@
+POI: 			Luke_Evans 
+Youtube ID: 	ZOpdqhv_Fvg 
+Video length: 	1325.1 sec 
+Set (V): 		dev 
+ 
+Luke_Evans/ZOpdqhv_Fvg_0000001 624.2 628.3 
+Luke_Evans/ZOpdqhv_Fvg_0000002 751.7 759.2 
+Luke_Evans/ZOpdqhv_Fvg_0000003 909.8 918.6 
+Luke_Evans/ZOpdqhv_Fvg_0000004 1194.8 1202.2 
+Luke_Evans/ZOpdqhv_Fvg_0000005 1203.0 1209.1 

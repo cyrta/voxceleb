@@ -1,0 +1,13 @@
+POI: 			Stefanie_Powers 
+Youtube ID: 	GTZ-1kP_N2o 
+Video length: 	139.4 sec 
+Set (V): 		dev 
+ 
+Stefanie_Powers/GTZ-1kP_N2o_0000001 03.8 13.6 
+Stefanie_Powers/GTZ-1kP_N2o_0000002 14.8 19.7 
+Stefanie_Powers/GTZ-1kP_N2o_0000003 25.2 36.6 
+Stefanie_Powers/GTZ-1kP_N2o_0000004 37.4 41.7 
+Stefanie_Powers/GTZ-1kP_N2o_0000005 42.3 49.6 
+Stefanie_Powers/GTZ-1kP_N2o_0000006 49.8 55.4 
+Stefanie_Powers/GTZ-1kP_N2o_0000007 68.4 74.9 
+Stefanie_Powers/GTZ-1kP_N2o_0000008 90.9 123.6 

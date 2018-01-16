@@ -1,0 +1,11 @@
+POI: 			Daniel_Tosh 
+Youtube ID: 	W0wU3Zb3S50 
+Video length: 	494.9 sec 
+Set (V): 		dev 
+ 
+Daniel_Tosh/W0wU3Zb3S50_0000001 45.2 53.7 
+Daniel_Tosh/W0wU3Zb3S50_0000002 57.0 66.7 
+Daniel_Tosh/W0wU3Zb3S50_0000003 78.9 96.2 
+Daniel_Tosh/W0wU3Zb3S50_0000004 96.4 107.9 
+Daniel_Tosh/W0wU3Zb3S50_0000005 109.6 119.3 
+Daniel_Tosh/W0wU3Zb3S50_0000006 126.1 134.2 

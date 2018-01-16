@@ -1,0 +1,14 @@
+POI: 			Dyan_Cannon 
+Youtube ID: 	PtKKHxzzRis 
+Video length: 	591.0 sec 
+Set (V): 		dev 
+ 
+Dyan_Cannon/PtKKHxzzRis_0000001 71.0 77.1 
+Dyan_Cannon/PtKKHxzzRis_0000002 77.3 83.0 
+Dyan_Cannon/PtKKHxzzRis_0000003 165.2 172.6 
+Dyan_Cannon/PtKKHxzzRis_0000004 207.3 217.4 
+Dyan_Cannon/PtKKHxzzRis_0000005 380.0 385.7 
+Dyan_Cannon/PtKKHxzzRis_0000006 448.6 452.6 
+Dyan_Cannon/PtKKHxzzRis_0000007 453.4 459.6 
+Dyan_Cannon/PtKKHxzzRis_0000008 495.0 502.2 
+Dyan_Cannon/PtKKHxzzRis_0000009 528.6 534.6 

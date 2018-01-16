@@ -1,0 +1,10 @@
+POI: 			Seth_Meyers 
+Youtube ID: 	G2RxeZu7NXM 
+Video length: 	247.1 sec 
+Set (V): 		dev 
+ 
+Seth_Meyers/G2RxeZu7NXM_0000001 01.8 20.7 
+Seth_Meyers/G2RxeZu7NXM_0000002 49.0 53.3 
+Seth_Meyers/G2RxeZu7NXM_0000003 118.9 125.0 
+Seth_Meyers/G2RxeZu7NXM_0000004 153.8 159.7 
+Seth_Meyers/G2RxeZu7NXM_0000005 198.6 203.0 

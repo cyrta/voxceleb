@@ -1,0 +1,8 @@
+POI: 			Aneurin_Barnard 
+Youtube ID: 	oLg8qORJ8LU 
+Video length: 	151.4 sec 
+Set (V): 		dev 
+ 
+Aneurin_Barnard/oLg8qORJ8LU_0000001 42.8 53.6 
+Aneurin_Barnard/oLg8qORJ8LU_0000002 98.1 102.9 
+Aneurin_Barnard/oLg8qORJ8LU_0000003 118.1 123.0 

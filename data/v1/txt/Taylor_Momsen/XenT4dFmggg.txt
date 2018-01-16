@@ -1,0 +1,24 @@
+POI: 			Taylor_Momsen 
+Youtube ID: 	XenT4dFmggg 
+Video length: 	1541.4 sec 
+Set (V): 		dev 
+ 
+Taylor_Momsen/XenT4dFmggg_0000001 21.8 28.0 
+Taylor_Momsen/XenT4dFmggg_0000002 156.1 161.1 
+Taylor_Momsen/XenT4dFmggg_0000003 655.2 661.3 
+Taylor_Momsen/XenT4dFmggg_0000004 1131.0 1138.0 
+Taylor_Momsen/XenT4dFmggg_0000005 1194.6 1199.6 
+Taylor_Momsen/XenT4dFmggg_0000006 1201.2 1207.3 
+Taylor_Momsen/XenT4dFmggg_0000007 1210.4 1217.2 
+Taylor_Momsen/XenT4dFmggg_0000008 1220.2 1225.4 
+Taylor_Momsen/XenT4dFmggg_0000009 1232.4 1236.4 
+Taylor_Momsen/XenT4dFmggg_0000010 1237.8 1244.2 
+Taylor_Momsen/XenT4dFmggg_0000011 1246.1 1257.2 
+Taylor_Momsen/XenT4dFmggg_0000012 1258.1 1271.7 
+Taylor_Momsen/XenT4dFmggg_0000013 1290.7 1295.4 
+Taylor_Momsen/XenT4dFmggg_0000014 1297.4 1304.6 
+Taylor_Momsen/XenT4dFmggg_0000015 1306.9 1313.3 
+Taylor_Momsen/XenT4dFmggg_0000016 1319.8 1327.2 
+Taylor_Momsen/XenT4dFmggg_0000017 1329.4 1334.8 
+Taylor_Momsen/XenT4dFmggg_0000018 1349.6 1355.2 
+Taylor_Momsen/XenT4dFmggg_0000019 1358.6 1363.5 

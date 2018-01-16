@@ -1,0 +1,7 @@
+POI: 			Patrick_Swayze 
+Youtube ID: 	WUql_moh67o 
+Video length: 	552.3 sec 
+Set (V): 		dev 
+ 
+Patrick_Swayze/WUql_moh67o_0000001 294.0 304.9 
+Patrick_Swayze/WUql_moh67o_0000002 329.2 334.2 

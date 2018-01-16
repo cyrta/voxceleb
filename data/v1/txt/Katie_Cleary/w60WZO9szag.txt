@@ -1,0 +1,9 @@
+POI: 			Katie_Cleary 
+Youtube ID: 	w60WZO9szag 
+Video length: 	165.7 sec 
+Set (V): 		dev 
+ 
+Katie_Cleary/w60WZO9szag_0000001 02.7 09.0 
+Katie_Cleary/w60WZO9szag_0000002 32.8 44.2 
+Katie_Cleary/w60WZO9szag_0000003 46.6 52.4 
+Katie_Cleary/w60WZO9szag_0000004 58.8 70.6 

@@ -1,0 +1,24 @@
+POI: 			Neal_McDonough 
+Youtube ID: 	NUk38DIt-r8 
+Video length: 	300.1 sec 
+Set (V): 		dev 
+ 
+Neal_McDonough/NUk38DIt-r8_0000001 09.9 14.2 
+Neal_McDonough/NUk38DIt-r8_0000002 27.3 31.3 
+Neal_McDonough/NUk38DIt-r8_0000003 36.3 44.8 
+Neal_McDonough/NUk38DIt-r8_0000004 63.4 70.8 
+Neal_McDonough/NUk38DIt-r8_0000005 71.0 75.4 
+Neal_McDonough/NUk38DIt-r8_0000006 75.8 81.6 
+Neal_McDonough/NUk38DIt-r8_0000007 85.8 98.3 
+Neal_McDonough/NUk38DIt-r8_0000008 99.0 116.9 
+Neal_McDonough/NUk38DIt-r8_0000009 125.9 132.5 
+Neal_McDonough/NUk38DIt-r8_0000010 134.8 149.4 
+Neal_McDonough/NUk38DIt-r8_0000011 162.5 172.6 
+Neal_McDonough/NUk38DIt-r8_0000012 174.8 188.3 
+Neal_McDonough/NUk38DIt-r8_0000013 189.0 195.6 
+Neal_McDonough/NUk38DIt-r8_0000014 206.6 226.3 
+Neal_McDonough/NUk38DIt-r8_0000015 236.1 248.4 
+Neal_McDonough/NUk38DIt-r8_0000016 249.8 257.6 
+Neal_McDonough/NUk38DIt-r8_0000017 280.0 284.8 
+Neal_McDonough/NUk38DIt-r8_0000018 285.5 297.0 
+Neal_McDonough/NUk38DIt-r8_0000019 279.9 284.6 

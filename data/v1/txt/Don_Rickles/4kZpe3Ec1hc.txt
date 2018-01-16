@@ -1,0 +1,9 @@
+POI: 			Don_Rickles 
+Youtube ID: 	4kZpe3Ec1hc 
+Video length: 	1052.6 sec 
+Set (V): 		dev 
+ 
+Don_Rickles/4kZpe3Ec1hc_0000001 358.4 364.9 
+Don_Rickles/4kZpe3Ec1hc_0000002 574.6 580.8 
+Don_Rickles/4kZpe3Ec1hc_0000003 581.6 587.8 
+Don_Rickles/4kZpe3Ec1hc_0000004 956.9 963.8 

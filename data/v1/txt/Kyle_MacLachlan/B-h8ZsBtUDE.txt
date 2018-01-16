@@ -1,0 +1,15 @@
+POI: 			Kyle_MacLachlan 
+Youtube ID: 	B-h8ZsBtUDE 
+Video length: 	925.6 sec 
+Set (V): 		dev 
+ 
+Kyle_MacLachlan/B-h8ZsBtUDE_0000001 589.8 598.7 
+Kyle_MacLachlan/B-h8ZsBtUDE_0000002 603.1 608.7 
+Kyle_MacLachlan/B-h8ZsBtUDE_0000003 609.6 615.4 
+Kyle_MacLachlan/B-h8ZsBtUDE_0000004 652.8 659.9 
+Kyle_MacLachlan/B-h8ZsBtUDE_0000005 660.0 664.0 
+Kyle_MacLachlan/B-h8ZsBtUDE_0000006 698.8 704.6 
+Kyle_MacLachlan/B-h8ZsBtUDE_0000007 724.1 732.8 
+Kyle_MacLachlan/B-h8ZsBtUDE_0000008 809.4 819.2 
+Kyle_MacLachlan/B-h8ZsBtUDE_0000009 877.9 882.0 
+Kyle_MacLachlan/B-h8ZsBtUDE_0000010 887.1 892.5 

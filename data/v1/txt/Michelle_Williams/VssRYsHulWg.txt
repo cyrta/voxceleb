@@ -1,0 +1,7 @@
+POI: 			Michelle_Williams 
+Youtube ID: 	VssRYsHulWg 
+Video length: 	161.4 sec 
+Set (V): 		dev 
+ 
+Michelle_Williams/VssRYsHulWg_0000001 37.0 48.8 
+Michelle_Williams/VssRYsHulWg_0000002 51.5 55.9 

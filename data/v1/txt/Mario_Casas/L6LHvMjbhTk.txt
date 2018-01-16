@@ -1,0 +1,11 @@
+POI: 			Mario_Casas 
+Youtube ID: 	L6LHvMjbhTk 
+Video length: 	648.5 sec 
+Set (V): 		dev 
+ 
+Mario_Casas/L6LHvMjbhTk_0000001 78.6 82.7 
+Mario_Casas/L6LHvMjbhTk_0000002 168.4 172.5 
+Mario_Casas/L6LHvMjbhTk_0000003 288.8 296.6 
+Mario_Casas/L6LHvMjbhTk_0000004 330.7 337.1 
+Mario_Casas/L6LHvMjbhTk_0000005 460.3 465.3 
+Mario_Casas/L6LHvMjbhTk_0000006 582.4 588.5 

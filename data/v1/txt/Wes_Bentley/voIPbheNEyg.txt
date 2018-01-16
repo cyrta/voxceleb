@@ -1,0 +1,16 @@
+POI: 			Wes_Bentley 
+Youtube ID: 	voIPbheNEyg 
+Video length: 	206.7 sec 
+Set (V): 		dev 
+ 
+Wes_Bentley/voIPbheNEyg_0000001 25.1 32.7 
+Wes_Bentley/voIPbheNEyg_0000002 40.5 45.9 
+Wes_Bentley/voIPbheNEyg_0000003 49.4 56.2 
+Wes_Bentley/voIPbheNEyg_0000004 57.4 62.0 
+Wes_Bentley/voIPbheNEyg_0000005 66.1 74.0 
+Wes_Bentley/voIPbheNEyg_0000006 99.1 104.3 
+Wes_Bentley/voIPbheNEyg_0000007 104.6 127.2 
+Wes_Bentley/voIPbheNEyg_0000008 134.5 139.7 
+Wes_Bentley/voIPbheNEyg_0000009 179.7 186.5 
+Wes_Bentley/voIPbheNEyg_0000010 187.7 194.1 
+Wes_Bentley/voIPbheNEyg_0000011 196.6 202.4 

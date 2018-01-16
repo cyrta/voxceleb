@@ -1,0 +1,13 @@
+POI: 			Andrew_Dice_Clay 
+Youtube ID: 	hEnGRr7qNUY 
+Video length: 	667.1 sec 
+Set (V): 		dev 
+ 
+Andrew_Dice_Clay/hEnGRr7qNUY_0000001 100.3 104.5 
+Andrew_Dice_Clay/hEnGRr7qNUY_0000002 191.0 197.6 
+Andrew_Dice_Clay/hEnGRr7qNUY_0000003 202.7 210.8 
+Andrew_Dice_Clay/hEnGRr7qNUY_0000004 242.5 254.0 
+Andrew_Dice_Clay/hEnGRr7qNUY_0000005 265.8 272.8 
+Andrew_Dice_Clay/hEnGRr7qNUY_0000006 285.8 290.8 
+Andrew_Dice_Clay/hEnGRr7qNUY_0000007 430.9 435.3 
+Andrew_Dice_Clay/hEnGRr7qNUY_0000008 436.9 444.8 

@@ -1,0 +1,29 @@
+POI: 			Alison_Arngrim 
+Youtube ID: 	TAIgNJGh_lE 
+Video length: 	845.0 sec 
+Set (V): 		dev 
+ 
+Alison_Arngrim/TAIgNJGh_lE_0000001 48.0 52.6 
+Alison_Arngrim/TAIgNJGh_lE_0000002 148.6 155.0 
+Alison_Arngrim/TAIgNJGh_lE_0000003 171.8 176.6 
+Alison_Arngrim/TAIgNJGh_lE_0000004 195.6 202.4 
+Alison_Arngrim/TAIgNJGh_lE_0000005 217.8 231.6 
+Alison_Arngrim/TAIgNJGh_lE_0000006 231.8 242.0 
+Alison_Arngrim/TAIgNJGh_lE_0000007 253.3 259.6 
+Alison_Arngrim/TAIgNJGh_lE_0000008 265.2 269.1 
+Alison_Arngrim/TAIgNJGh_lE_0000009 269.6 276.3 
+Alison_Arngrim/TAIgNJGh_lE_0000010 337.4 353.0 
+Alison_Arngrim/TAIgNJGh_lE_0000011 358.8 363.1 
+Alison_Arngrim/TAIgNJGh_lE_0000012 363.4 370.0 
+Alison_Arngrim/TAIgNJGh_lE_0000013 373.9 379.2 
+Alison_Arngrim/TAIgNJGh_lE_0000014 402.8 408.9 
+Alison_Arngrim/TAIgNJGh_lE_0000015 425.8 434.8 
+Alison_Arngrim/TAIgNJGh_lE_0000016 474.6 482.9 
+Alison_Arngrim/TAIgNJGh_lE_0000017 512.2 527.1 
+Alison_Arngrim/TAIgNJGh_lE_0000018 532.0 545.1 
+Alison_Arngrim/TAIgNJGh_lE_0000019 563.2 568.7 
+Alison_Arngrim/TAIgNJGh_lE_0000020 636.2 643.7 
+Alison_Arngrim/TAIgNJGh_lE_0000021 652.0 662.0 
+Alison_Arngrim/TAIgNJGh_lE_0000022 757.3 761.6 
+Alison_Arngrim/TAIgNJGh_lE_0000023 773.7 778.8 
+Alison_Arngrim/TAIgNJGh_lE_0000024 808.6 814.7 

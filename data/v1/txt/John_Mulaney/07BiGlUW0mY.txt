@@ -1,0 +1,22 @@
+POI: 			John_Mulaney 
+Youtube ID: 	07BiGlUW0mY 
+Video length: 	297.5 sec 
+Set (V): 		dev 
+ 
+John_Mulaney/07BiGlUW0mY_0000001 21.6 34.6 
+John_Mulaney/07BiGlUW0mY_0000002 35.4 47.0 
+John_Mulaney/07BiGlUW0mY_0000003 57.0 68.9 
+John_Mulaney/07BiGlUW0mY_0000004 69.2 78.7 
+John_Mulaney/07BiGlUW0mY_0000005 87.6 92.8 
+John_Mulaney/07BiGlUW0mY_0000006 96.2 109.6 
+John_Mulaney/07BiGlUW0mY_0000007 128.8 133.2 
+John_Mulaney/07BiGlUW0mY_0000008 133.6 151.7 
+John_Mulaney/07BiGlUW0mY_0000009 152.6 163.2 
+John_Mulaney/07BiGlUW0mY_0000010 173.2 177.4 
+John_Mulaney/07BiGlUW0mY_0000011 179.2 192.1 
+John_Mulaney/07BiGlUW0mY_0000012 194.6 202.0 
+John_Mulaney/07BiGlUW0mY_0000013 217.8 230.8 
+John_Mulaney/07BiGlUW0mY_0000014 233.1 240.4 
+John_Mulaney/07BiGlUW0mY_0000015 251.1 258.1 
+John_Mulaney/07BiGlUW0mY_0000016 261.6 266.1 
+John_Mulaney/07BiGlUW0mY_0000017 286.0 291.4 

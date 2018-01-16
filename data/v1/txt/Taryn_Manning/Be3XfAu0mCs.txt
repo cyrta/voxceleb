@@ -1,0 +1,11 @@
+POI: 			Taryn_Manning 
+Youtube ID: 	Be3XfAu0mCs 
+Video length: 	342.0 sec 
+Set (V): 		dev 
+ 
+Taryn_Manning/Be3XfAu0mCs_0000001 78.2 86.6 
+Taryn_Manning/Be3XfAu0mCs_0000002 87.6 93.5 
+Taryn_Manning/Be3XfAu0mCs_0000003 104.8 113.7 
+Taryn_Manning/Be3XfAu0mCs_0000004 115.4 119.9 
+Taryn_Manning/Be3XfAu0mCs_0000005 184.6 204.6 
+Taryn_Manning/Be3XfAu0mCs_0000006 206.7 212.2 

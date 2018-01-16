@@ -1,0 +1,11 @@
+POI: 			Eric_Braeden 
+Youtube ID: 	oTRparDs-84 
+Video length: 	159.0 sec 
+Set (V): 		test 
+ 
+Eric_Braeden/oTRparDs-84_0000001 22.4 27.6 
+Eric_Braeden/oTRparDs-84_0000002 46.1 50.5 
+Eric_Braeden/oTRparDs-84_0000003 51.9 60.4 
+Eric_Braeden/oTRparDs-84_0000004 63.4 68.7 
+Eric_Braeden/oTRparDs-84_0000005 115.0 120.6 
+Eric_Braeden/oTRparDs-84_0000006 134.0 139.1 

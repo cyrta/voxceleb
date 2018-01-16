@@ -1,0 +1,13 @@
+POI: 			Katherine_Heigl 
+Youtube ID: 	Pxh-ihSUOTk 
+Video length: 	603.0 sec 
+Set (V): 		dev 
+ 
+Katherine_Heigl/Pxh-ihSUOTk_0000001 31.8 36.8 
+Katherine_Heigl/Pxh-ihSUOTk_0000002 55.8 63.8 
+Katherine_Heigl/Pxh-ihSUOTk_0000003 71.2 79.9 
+Katherine_Heigl/Pxh-ihSUOTk_0000004 92.4 99.4 
+Katherine_Heigl/Pxh-ihSUOTk_0000005 224.4 247.4 
+Katherine_Heigl/Pxh-ihSUOTk_0000006 249.4 256.6 
+Katherine_Heigl/Pxh-ihSUOTk_0000007 273.6 277.6 
+Katherine_Heigl/Pxh-ihSUOTk_0000008 283.6 288.0 

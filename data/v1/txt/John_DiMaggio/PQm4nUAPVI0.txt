@@ -1,0 +1,13 @@
+POI: 			John_DiMaggio 
+Youtube ID: 	PQm4nUAPVI0 
+Video length: 	128.7 sec 
+Set (V): 		dev 
+ 
+John_DiMaggio/PQm4nUAPVI0_0000001 07.9 16.5 
+John_DiMaggio/PQm4nUAPVI0_0000002 41.3 47.5 
+John_DiMaggio/PQm4nUAPVI0_0000003 65.4 74.8 
+John_DiMaggio/PQm4nUAPVI0_0000004 81.3 87.7 
+John_DiMaggio/PQm4nUAPVI0_0000005 94.2 100.1 
+John_DiMaggio/PQm4nUAPVI0_0000006 73.9 81.0 
+John_DiMaggio/PQm4nUAPVI0_0000007 81.7 106.0 
+John_DiMaggio/PQm4nUAPVI0_0000008 110.4 120.2 

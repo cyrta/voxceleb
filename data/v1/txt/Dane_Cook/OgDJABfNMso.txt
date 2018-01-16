@@ -1,0 +1,7 @@
+POI: 			Dane_Cook 
+Youtube ID: 	OgDJABfNMso 
+Video length: 	457.5 sec 
+Set (V): 		dev 
+ 
+Dane_Cook/OgDJABfNMso_0000001 260.1 264.5 
+Dane_Cook/OgDJABfNMso_0000002 296.0 300.0 

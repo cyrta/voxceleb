@@ -1,0 +1,10 @@
+POI: 			Rebel_Wilson 
+Youtube ID: 	ZD8u8azCFUg 
+Video length: 	196.2 sec 
+Set (V): 		dev 
+ 
+Rebel_Wilson/ZD8u8azCFUg_0000001 24.4 28.4 
+Rebel_Wilson/ZD8u8azCFUg_0000002 57.7 65.0 
+Rebel_Wilson/ZD8u8azCFUg_0000003 143.1 149.5 
+Rebel_Wilson/ZD8u8azCFUg_0000004 159.9 164.2 
+Rebel_Wilson/ZD8u8azCFUg_0000005 164.6 173.4 

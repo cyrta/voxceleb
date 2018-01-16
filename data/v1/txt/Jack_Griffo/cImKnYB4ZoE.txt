@@ -1,0 +1,9 @@
+POI: 			Jack_Griffo 
+Youtube ID: 	cImKnYB4ZoE 
+Video length: 	821.5 sec 
+Set (V): 		dev 
+ 
+Jack_Griffo/cImKnYB4ZoE_0000001 344.4 350.3 
+Jack_Griffo/cImKnYB4ZoE_0000002 353.2 360.3 
+Jack_Griffo/cImKnYB4ZoE_0000003 362.3 368.0 
+Jack_Griffo/cImKnYB4ZoE_0000004 605.5 611.1 

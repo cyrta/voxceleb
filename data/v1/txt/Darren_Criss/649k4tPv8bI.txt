@@ -1,0 +1,10 @@
+POI: 			Darren_Criss 
+Youtube ID: 	649k4tPv8bI 
+Video length: 	257.4 sec 
+Set (V): 		dev 
+ 
+Darren_Criss/649k4tPv8bI_0000001 79.2 93.4 
+Darren_Criss/649k4tPv8bI_0000002 100.6 106.6 
+Darren_Criss/649k4tPv8bI_0000003 127.3 145.2 
+Darren_Criss/649k4tPv8bI_0000004 159.3 168.8 
+Darren_Criss/649k4tPv8bI_0000005 174.1 179.0 

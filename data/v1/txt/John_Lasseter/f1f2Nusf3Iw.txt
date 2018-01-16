@@ -1,0 +1,28 @@
+POI: 			John_Lasseter 
+Youtube ID: 	f1f2Nusf3Iw 
+Video length: 	474.6 sec 
+Set (V): 		dev 
+ 
+John_Lasseter/f1f2Nusf3Iw_0000001 56.2 65.6 
+John_Lasseter/f1f2Nusf3Iw_0000002 67.6 89.2 
+John_Lasseter/f1f2Nusf3Iw_0000003 89.8 100.1 
+John_Lasseter/f1f2Nusf3Iw_0000004 107.8 111.8 
+John_Lasseter/f1f2Nusf3Iw_0000005 113.1 128.5 
+John_Lasseter/f1f2Nusf3Iw_0000006 131.6 150.1 
+John_Lasseter/f1f2Nusf3Iw_0000007 151.3 162.9 
+John_Lasseter/f1f2Nusf3Iw_0000008 209.9 226.4 
+John_Lasseter/f1f2Nusf3Iw_0000009 233.8 255.2 
+John_Lasseter/f1f2Nusf3Iw_0000010 255.4 268.4 
+John_Lasseter/f1f2Nusf3Iw_0000011 274.6 280.8 
+John_Lasseter/f1f2Nusf3Iw_0000012 281.3 288.7 
+John_Lasseter/f1f2Nusf3Iw_0000013 331.7 342.4 
+John_Lasseter/f1f2Nusf3Iw_0000014 343.4 371.7 
+John_Lasseter/f1f2Nusf3Iw_0000015 374.0 378.0 
+John_Lasseter/f1f2Nusf3Iw_0000016 373.6 378.0 
+John_Lasseter/f1f2Nusf3Iw_0000017 379.1 385.6 
+John_Lasseter/f1f2Nusf3Iw_0000018 391.8 398.4 
+John_Lasseter/f1f2Nusf3Iw_0000019 406.0 411.9 
+John_Lasseter/f1f2Nusf3Iw_0000020 417.8 430.0 
+John_Lasseter/f1f2Nusf3Iw_0000021 430.1 455.1 
+John_Lasseter/f1f2Nusf3Iw_0000022 455.6 460.0 
+John_Lasseter/f1f2Nusf3Iw_0000023 460.4 468.0 

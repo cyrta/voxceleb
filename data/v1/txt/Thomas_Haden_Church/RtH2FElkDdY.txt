@@ -1,0 +1,8 @@
+POI: 			Thomas_Haden_Church 
+Youtube ID: 	RtH2FElkDdY 
+Video length: 	256.8 sec 
+Set (V): 		dev 
+ 
+Thomas_Haden_Church/RtH2FElkDdY_0000001 92.7 103.7 
+Thomas_Haden_Church/RtH2FElkDdY_0000002 103.8 107.8 
+Thomas_Haden_Church/RtH2FElkDdY_0000003 231.4 237.7 

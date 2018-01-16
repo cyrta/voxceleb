@@ -1,0 +1,11 @@
+POI: 			Eric_Roberts 
+Youtube ID: 	0mtJFC7OJv4 
+Video length: 	233.3 sec 
+Set (V): 		test 
+ 
+Eric_Roberts/0mtJFC7OJv4_0000001 17.8 25.1 
+Eric_Roberts/0mtJFC7OJv4_0000002 88.4 93.0 
+Eric_Roberts/0mtJFC7OJv4_0000003 97.4 110.4 
+Eric_Roberts/0mtJFC7OJv4_0000004 121.6 132.0 
+Eric_Roberts/0mtJFC7OJv4_0000005 167.7 171.7 
+Eric_Roberts/0mtJFC7OJv4_0000006 206.3 210.7 

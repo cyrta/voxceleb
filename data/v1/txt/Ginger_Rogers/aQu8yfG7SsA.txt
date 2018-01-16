@@ -1,0 +1,11 @@
+POI: 			Ginger_Rogers 
+Youtube ID: 	aQu8yfG7SsA 
+Video length: 	493.8 sec 
+Set (V): 		dev 
+ 
+Ginger_Rogers/aQu8yfG7SsA_0000001 53.4 57.7 
+Ginger_Rogers/aQu8yfG7SsA_0000002 94.7 98.7 
+Ginger_Rogers/aQu8yfG7SsA_0000003 128.7 133.6 
+Ginger_Rogers/aQu8yfG7SsA_0000004 193.0 197.2 
+Ginger_Rogers/aQu8yfG7SsA_0000005 200.7 209.0 
+Ginger_Rogers/aQu8yfG7SsA_0000006 419.6 423.6 

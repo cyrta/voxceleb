@@ -1,0 +1,7 @@
+POI: 			Eugene_Levy 
+Youtube ID: 	CaR6c7RO7Dc 
+Video length: 	193.5 sec 
+Set (V): 		test 
+ 
+Eugene_Levy/CaR6c7RO7Dc_0000001 106.2 111.0 
+Eugene_Levy/CaR6c7RO7Dc_0000002 147.3 154.4 

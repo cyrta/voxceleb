@@ -1,0 +1,15 @@
+POI: 			James_Nesbitt 
+Youtube ID: 	nNgIsHT482g 
+Video length: 	211.0 sec 
+Set (V): 		dev 
+ 
+James_Nesbitt/nNgIsHT482g_0000001 15.3 44.0 
+James_Nesbitt/nNgIsHT482g_0000002 62.7 69.3 
+James_Nesbitt/nNgIsHT482g_0000003 72.6 78.1 
+James_Nesbitt/nNgIsHT482g_0000004 67.8 78.2 
+James_Nesbitt/nNgIsHT482g_0000005 107.3 119.3 
+James_Nesbitt/nNgIsHT482g_0000006 127.0 135.4 
+James_Nesbitt/nNgIsHT482g_0000007 143.8 150.0 
+James_Nesbitt/nNgIsHT482g_0000008 162.2 168.9 
+James_Nesbitt/nNgIsHT482g_0000009 169.8 178.3 
+James_Nesbitt/nNgIsHT482g_0000010 195.6 208.0 

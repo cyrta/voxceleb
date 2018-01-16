@@ -1,0 +1,20 @@
+POI: 			Jordin_Sparks 
+Youtube ID: 	YQrji3q_Rt8 
+Video length: 	425.1 sec 
+Set (V): 		dev 
+ 
+Jordin_Sparks/YQrji3q_Rt8_0000001 76.0 80.5 
+Jordin_Sparks/YQrji3q_Rt8_0000002 80.9 94.1 
+Jordin_Sparks/YQrji3q_Rt8_0000003 98.2 102.5 
+Jordin_Sparks/YQrji3q_Rt8_0000004 103.9 116.0 
+Jordin_Sparks/YQrji3q_Rt8_0000005 125.4 138.4 
+Jordin_Sparks/YQrji3q_Rt8_0000006 138.8 147.7 
+Jordin_Sparks/YQrji3q_Rt8_0000007 147.9 168.2 
+Jordin_Sparks/YQrji3q_Rt8_0000008 215.2 252.0 
+Jordin_Sparks/YQrji3q_Rt8_0000009 259.7 264.4 
+Jordin_Sparks/YQrji3q_Rt8_0000010 244.4 251.9 
+Jordin_Sparks/YQrji3q_Rt8_0000011 255.5 269.4 
+Jordin_Sparks/YQrji3q_Rt8_0000012 298.6 313.7 
+Jordin_Sparks/YQrji3q_Rt8_0000013 327.4 332.6 
+Jordin_Sparks/YQrji3q_Rt8_0000014 318.9 348.7 
+Jordin_Sparks/YQrji3q_Rt8_0000015 349.4 354.4 

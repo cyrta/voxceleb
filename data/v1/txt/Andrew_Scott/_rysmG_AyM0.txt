@@ -1,0 +1,14 @@
+POI: 			Andrew_Scott 
+Youtube ID: 	_rysmG_AyM0 
+Video length: 	609.4 sec 
+Set (V): 		dev 
+ 
+Andrew_Scott/_rysmG_AyM0_0000001 92.6 97.4 
+Andrew_Scott/_rysmG_AyM0_0000002 98.2 104.7 
+Andrew_Scott/_rysmG_AyM0_0000003 211.3 217.0 
+Andrew_Scott/_rysmG_AyM0_0000004 259.7 273.1 
+Andrew_Scott/_rysmG_AyM0_0000005 326.4 332.6 
+Andrew_Scott/_rysmG_AyM0_0000006 333.6 338.2 
+Andrew_Scott/_rysmG_AyM0_0000007 365.0 372.7 
+Andrew_Scott/_rysmG_AyM0_0000008 429.6 437.3 
+Andrew_Scott/_rysmG_AyM0_0000009 441.5 445.5 

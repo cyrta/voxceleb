@@ -1,0 +1,11 @@
+POI: 			Samira_Wiley 
+Youtube ID: 	N46ixf6_Qcg 
+Video length: 	209.2 sec 
+Set (V): 		dev 
+ 
+Samira_Wiley/N46ixf6_Qcg_0000001 19.9 29.3 
+Samira_Wiley/N46ixf6_Qcg_0000002 36.3 43.4 
+Samira_Wiley/N46ixf6_Qcg_0000003 54.1 58.8 
+Samira_Wiley/N46ixf6_Qcg_0000004 77.9 82.0 
+Samira_Wiley/N46ixf6_Qcg_0000005 114.9 120.1 
+Samira_Wiley/N46ixf6_Qcg_0000006 126.3 130.8 

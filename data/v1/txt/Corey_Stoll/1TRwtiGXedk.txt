@@ -1,0 +1,23 @@
+POI: 			Corey_Stoll 
+Youtube ID: 	1TRwtiGXedk 
+Video length: 	518.3 sec 
+Set (V): 		dev 
+ 
+Corey_Stoll/1TRwtiGXedk_0000001 68.8 73.1 
+Corey_Stoll/1TRwtiGXedk_0000002 80.0 85.7 
+Corey_Stoll/1TRwtiGXedk_0000003 87.0 94.4 
+Corey_Stoll/1TRwtiGXedk_0000004 171.4 182.4 
+Corey_Stoll/1TRwtiGXedk_0000005 182.9 191.1 
+Corey_Stoll/1TRwtiGXedk_0000006 191.8 197.9 
+Corey_Stoll/1TRwtiGXedk_0000007 206.6 210.6 
+Corey_Stoll/1TRwtiGXedk_0000008 214.6 219.0 
+Corey_Stoll/1TRwtiGXedk_0000009 259.0 265.2 
+Corey_Stoll/1TRwtiGXedk_0000010 270.5 278.7 
+Corey_Stoll/1TRwtiGXedk_0000011 383.5 387.7 
+Corey_Stoll/1TRwtiGXedk_0000012 460.4 467.8 
+Corey_Stoll/1TRwtiGXedk_0000013 468.7 473.3 
+Corey_Stoll/1TRwtiGXedk_0000014 482.4 489.0 
+Corey_Stoll/1TRwtiGXedk_0000015 493.5 498.8 
+Corey_Stoll/1TRwtiGXedk_0000016 499.0 505.6 
+Corey_Stoll/1TRwtiGXedk_0000017 506.2 516.0 
+Corey_Stoll/1TRwtiGXedk_0000018 480.8 485.8 

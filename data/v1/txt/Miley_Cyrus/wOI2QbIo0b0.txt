@@ -1,0 +1,13 @@
+POI: 			Miley_Cyrus 
+Youtube ID: 	wOI2QbIo0b0 
+Video length: 	322.8 sec 
+Set (V): 		dev 
+ 
+Miley_Cyrus/wOI2QbIo0b0_0000001 62.9 68.7 
+Miley_Cyrus/wOI2QbIo0b0_0000002 109.2 114.0 
+Miley_Cyrus/wOI2QbIo0b0_0000003 146.1 151.1 
+Miley_Cyrus/wOI2QbIo0b0_0000004 153.5 158.9 
+Miley_Cyrus/wOI2QbIo0b0_0000005 165.0 171.8 
+Miley_Cyrus/wOI2QbIo0b0_0000006 215.2 224.6 
+Miley_Cyrus/wOI2QbIo0b0_0000007 267.8 275.8 
+Miley_Cyrus/wOI2QbIo0b0_0000008 282.5 294.9 

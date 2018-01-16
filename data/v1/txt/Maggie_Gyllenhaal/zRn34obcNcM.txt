@@ -1,0 +1,12 @@
+POI: 			Maggie_Gyllenhaal 
+Youtube ID: 	zRn34obcNcM 
+Video length: 	289.0 sec 
+Set (V): 		dev 
+ 
+Maggie_Gyllenhaal/zRn34obcNcM_0000001 92.9 103.9 
+Maggie_Gyllenhaal/zRn34obcNcM_0000002 118.2 127.2 
+Maggie_Gyllenhaal/zRn34obcNcM_0000003 132.6 139.5 
+Maggie_Gyllenhaal/zRn34obcNcM_0000004 175.0 179.3 
+Maggie_Gyllenhaal/zRn34obcNcM_0000005 186.2 190.7 
+Maggie_Gyllenhaal/zRn34obcNcM_0000006 214.7 222.6 
+Maggie_Gyllenhaal/zRn34obcNcM_0000007 223.3 229.2 

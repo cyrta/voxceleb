@@ -1,0 +1,13 @@
+POI: 			Taylor_Kitsch 
+Youtube ID: 	ETE7mC72m10 
+Video length: 	310.4 sec 
+Set (V): 		dev 
+ 
+Taylor_Kitsch/ETE7mC72m10_0000001 79.0 90.3 
+Taylor_Kitsch/ETE7mC72m10_0000002 96.0 109.2 
+Taylor_Kitsch/ETE7mC72m10_0000003 121.8 127.7 
+Taylor_Kitsch/ETE7mC72m10_0000004 191.3 198.6 
+Taylor_Kitsch/ETE7mC72m10_0000005 237.6 242.6 
+Taylor_Kitsch/ETE7mC72m10_0000006 248.4 253.0 
+Taylor_Kitsch/ETE7mC72m10_0000007 253.2 261.4 
+Taylor_Kitsch/ETE7mC72m10_0000008 262.4 266.4 

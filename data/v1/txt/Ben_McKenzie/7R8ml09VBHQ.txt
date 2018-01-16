@@ -1,0 +1,10 @@
+POI: 			Ben_McKenzie 
+Youtube ID: 	7R8ml09VBHQ 
+Video length: 	450.1 sec 
+Set (V): 		dev 
+ 
+Ben_McKenzie/7R8ml09VBHQ_0000001 02.4 09.0 
+Ben_McKenzie/7R8ml09VBHQ_0000002 50.4 54.6 
+Ben_McKenzie/7R8ml09VBHQ_0000003 154.2 160.3 
+Ben_McKenzie/7R8ml09VBHQ_0000004 183.1 190.8 
+Ben_McKenzie/7R8ml09VBHQ_0000005 322.2 326.9 

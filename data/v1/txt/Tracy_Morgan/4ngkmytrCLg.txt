@@ -1,0 +1,7 @@
+POI: 			Tracy_Morgan 
+Youtube ID: 	4ngkmytrCLg 
+Video length: 	233.9 sec 
+Set (V): 		dev 
+ 
+Tracy_Morgan/4ngkmytrCLg_0000001 74.6 78.7 
+Tracy_Morgan/4ngkmytrCLg_0000002 81.4 86.0 

@@ -1,0 +1,19 @@
+POI: 			John_Lasseter 
+Youtube ID: 	tOCdtQl3jfw 
+Video length: 	272.1 sec 
+Set (V): 		dev 
+ 
+John_Lasseter/tOCdtQl3jfw_0000001 09.4 19.6 
+John_Lasseter/tOCdtQl3jfw_0000002 21.0 26.7 
+John_Lasseter/tOCdtQl3jfw_0000003 37.2 42.7 
+John_Lasseter/tOCdtQl3jfw_0000004 49.0 58.8 
+John_Lasseter/tOCdtQl3jfw_0000005 81.1 86.9 
+John_Lasseter/tOCdtQl3jfw_0000006 89.1 114.5 
+John_Lasseter/tOCdtQl3jfw_0000007 115.4 122.3 
+John_Lasseter/tOCdtQl3jfw_0000008 122.4 127.0 
+John_Lasseter/tOCdtQl3jfw_0000009 161.1 169.2 
+John_Lasseter/tOCdtQl3jfw_0000010 169.7 179.2 
+John_Lasseter/tOCdtQl3jfw_0000011 181.1 186.8 
+John_Lasseter/tOCdtQl3jfw_0000012 189.3 203.0 
+John_Lasseter/tOCdtQl3jfw_0000013 205.1 211.3 
+John_Lasseter/tOCdtQl3jfw_0000014 213.3 227.9 

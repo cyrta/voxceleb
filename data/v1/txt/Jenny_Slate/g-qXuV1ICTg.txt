@@ -1,0 +1,16 @@
+POI: 			Jenny_Slate 
+Youtube ID: 	g-qXuV1ICTg 
+Video length: 	166.6 sec 
+Set (V): 		dev 
+ 
+Jenny_Slate/g-qXuV1ICTg_0000001 08.5 19.8 
+Jenny_Slate/g-qXuV1ICTg_0000002 20.2 29.0 
+Jenny_Slate/g-qXuV1ICTg_0000003 38.2 46.3 
+Jenny_Slate/g-qXuV1ICTg_0000004 52.5 65.7 
+Jenny_Slate/g-qXuV1ICTg_0000005 65.8 72.1 
+Jenny_Slate/g-qXuV1ICTg_0000006 78.9 100.5 
+Jenny_Slate/g-qXuV1ICTg_0000007 105.2 112.8 
+Jenny_Slate/g-qXuV1ICTg_0000008 114.7 118.9 
+Jenny_Slate/g-qXuV1ICTg_0000009 124.4 136.8 
+Jenny_Slate/g-qXuV1ICTg_0000010 137.0 141.1 
+Jenny_Slate/g-qXuV1ICTg_0000011 141.2 153.4 

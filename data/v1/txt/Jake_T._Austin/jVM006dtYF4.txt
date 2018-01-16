@@ -1,0 +1,15 @@
+POI: 			Jake_T._Austin 
+Youtube ID: 	jVM006dtYF4 
+Video length: 	621.9 sec 
+Set (V): 		dev 
+ 
+Jake_T._Austin/jVM006dtYF4_0000001 35.6 40.2 
+Jake_T._Austin/jVM006dtYF4_0000002 180.3 185.2 
+Jake_T._Austin/jVM006dtYF4_0000003 191.6 197.1 
+Jake_T._Austin/jVM006dtYF4_0000004 198.6 203.7 
+Jake_T._Austin/jVM006dtYF4_0000005 205.6 210.2 
+Jake_T._Austin/jVM006dtYF4_0000006 210.4 218.2 
+Jake_T._Austin/jVM006dtYF4_0000007 231.2 237.4 
+Jake_T._Austin/jVM006dtYF4_0000008 361.9 366.9 
+Jake_T._Austin/jVM006dtYF4_0000009 376.6 382.2 
+Jake_T._Austin/jVM006dtYF4_0000010 521.3 526.7 

@@ -1,0 +1,12 @@
+POI: 			Eva_Green 
+Youtube ID: 	C3AhSlYJd3w 
+Video length: 	132.3 sec 
+Set (V): 		test 
+ 
+Eva_Green/C3AhSlYJd3w_0000001 11.9 16.5 
+Eva_Green/C3AhSlYJd3w_0000002 17.8 34.6 
+Eva_Green/C3AhSlYJd3w_0000003 35.6 44.1 
+Eva_Green/C3AhSlYJd3w_0000004 60.2 68.3 
+Eva_Green/C3AhSlYJd3w_0000005 69.8 76.0 
+Eva_Green/C3AhSlYJd3w_0000006 77.4 86.2 
+Eva_Green/C3AhSlYJd3w_0000007 105.8 127.8 

@@ -1,0 +1,9 @@
+POI: 			Michael_Copon 
+Youtube ID: 	aAIHtaC7Ses 
+Video length: 	63.3 sec 
+Set (V): 		dev 
+ 
+Michael_Copon/aAIHtaC7Ses_0000001 17.8 22.4 
+Michael_Copon/aAIHtaC7Ses_0000002 24.5 34.6 
+Michael_Copon/aAIHtaC7Ses_0000003 34.8 40.7 
+Michael_Copon/aAIHtaC7Ses_0000004 43.1 54.7 

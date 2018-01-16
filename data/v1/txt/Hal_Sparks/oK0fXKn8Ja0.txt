@@ -1,0 +1,15 @@
+POI: 			Hal_Sparks 
+Youtube ID: 	oK0fXKn8Ja0 
+Video length: 	240.1 sec 
+Set (V): 		dev 
+ 
+Hal_Sparks/oK0fXKn8Ja0_0000001 50.6 76.8 
+Hal_Sparks/oK0fXKn8Ja0_0000002 84.6 90.6 
+Hal_Sparks/oK0fXKn8Ja0_0000003 118.1 124.5 
+Hal_Sparks/oK0fXKn8Ja0_0000004 127.1 135.1 
+Hal_Sparks/oK0fXKn8Ja0_0000005 143.4 148.9 
+Hal_Sparks/oK0fXKn8Ja0_0000006 159.3 163.8 
+Hal_Sparks/oK0fXKn8Ja0_0000007 166.5 173.6 
+Hal_Sparks/oK0fXKn8Ja0_0000008 199.0 204.6 
+Hal_Sparks/oK0fXKn8Ja0_0000009 206.5 211.4 
+Hal_Sparks/oK0fXKn8Ja0_0000010 223.8 230.0 

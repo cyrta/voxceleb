@@ -1,0 +1,7 @@
+POI: 			Tom_Arnold 
+Youtube ID: 	3dGGjLYvnZ8 
+Video length: 	232.3 sec 
+Set (V): 		dev 
+ 
+Tom_Arnold/3dGGjLYvnZ8_0000001 84.2 90.7 
+Tom_Arnold/3dGGjLYvnZ8_0000002 125.8 133.8 

@@ -1,0 +1,10 @@
+POI: 			Diego_Klattenhoff 
+Youtube ID: 	uX5eoSngyt0 
+Video length: 	262.5 sec 
+Set (V): 		dev 
+ 
+Diego_Klattenhoff/uX5eoSngyt0_0000001 87.3 95.0 
+Diego_Klattenhoff/uX5eoSngyt0_0000002 96.5 101.4 
+Diego_Klattenhoff/uX5eoSngyt0_0000003 163.3 171.4 
+Diego_Klattenhoff/uX5eoSngyt0_0000004 177.8 186.9 
+Diego_Klattenhoff/uX5eoSngyt0_0000005 212.2 225.6 

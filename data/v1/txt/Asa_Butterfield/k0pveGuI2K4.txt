@@ -1,0 +1,19 @@
+POI: 			Asa_Butterfield 
+Youtube ID: 	k0pveGuI2K4 
+Video length: 	309.4 sec 
+Set (V): 		dev 
+ 
+Asa_Butterfield/k0pveGuI2K4_0000001 38.2 43.2 
+Asa_Butterfield/k0pveGuI2K4_0000002 48.8 52.9 
+Asa_Butterfield/k0pveGuI2K4_0000003 57.0 61.4 
+Asa_Butterfield/k0pveGuI2K4_0000004 65.7 70.7 
+Asa_Butterfield/k0pveGuI2K4_0000005 77.7 86.7 
+Asa_Butterfield/k0pveGuI2K4_0000006 99.6 104.4 
+Asa_Butterfield/k0pveGuI2K4_0000007 106.6 112.1 
+Asa_Butterfield/k0pveGuI2K4_0000008 155.8 165.4 
+Asa_Butterfield/k0pveGuI2K4_0000009 166.7 178.7 
+Asa_Butterfield/k0pveGuI2K4_0000010 205.6 212.4 
+Asa_Butterfield/k0pveGuI2K4_0000011 226.4 230.8 
+Asa_Butterfield/k0pveGuI2K4_0000012 263.2 271.9 
+Asa_Butterfield/k0pveGuI2K4_0000013 276.4 285.8 
+Asa_Butterfield/k0pveGuI2K4_0000014 290.0 297.4 

@@ -1,0 +1,9 @@
+POI: 			Brian_Dennehy 
+Youtube ID: 	zjfFEgVmoA8 
+Video length: 	359.4 sec 
+Set (V): 		dev 
+ 
+Brian_Dennehy/zjfFEgVmoA8_0000001 140.3 145.8 
+Brian_Dennehy/zjfFEgVmoA8_0000002 278.0 283.1 
+Brian_Dennehy/zjfFEgVmoA8_0000003 301.0 305.0 
+Brian_Dennehy/zjfFEgVmoA8_0000004 324.6 329.3 

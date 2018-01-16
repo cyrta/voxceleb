@@ -1,0 +1,9 @@
+POI: 			Shiloh_Fernandez 
+Youtube ID: 	YikbTBtwWLE 
+Video length: 	236.4 sec 
+Set (V): 		dev 
+ 
+Shiloh_Fernandez/YikbTBtwWLE_0000001 59.0 66.6 
+Shiloh_Fernandez/YikbTBtwWLE_0000002 69.8 74.1 
+Shiloh_Fernandez/YikbTBtwWLE_0000003 175.2 179.6 
+Shiloh_Fernandez/YikbTBtwWLE_0000004 180.3 194.9 

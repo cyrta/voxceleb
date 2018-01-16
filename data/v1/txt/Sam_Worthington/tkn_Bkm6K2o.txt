@@ -1,0 +1,14 @@
+POI: 			Sam_Worthington 
+Youtube ID: 	tkn_Bkm6K2o 
+Video length: 	226.3 sec 
+Set (V): 		dev 
+ 
+Sam_Worthington/tkn_Bkm6K2o_0000001 13.2 23.2 
+Sam_Worthington/tkn_Bkm6K2o_0000002 28.8 49.5 
+Sam_Worthington/tkn_Bkm6K2o_0000003 53.9 60.0 
+Sam_Worthington/tkn_Bkm6K2o_0000004 94.8 100.8 
+Sam_Worthington/tkn_Bkm6K2o_0000005 130.0 148.3 
+Sam_Worthington/tkn_Bkm6K2o_0000006 158.1 162.4 
+Sam_Worthington/tkn_Bkm6K2o_0000007 166.9 171.0 
+Sam_Worthington/tkn_Bkm6K2o_0000008 186.0 202.0 
+Sam_Worthington/tkn_Bkm6K2o_0000009 203.4 209.9 

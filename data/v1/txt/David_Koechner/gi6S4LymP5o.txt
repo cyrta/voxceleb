@@ -1,0 +1,11 @@
+POI: 			David_Koechner 
+Youtube ID: 	gi6S4LymP5o 
+Video length: 	212.2 sec 
+Set (V): 		dev 
+ 
+David_Koechner/gi6S4LymP5o_0000001 07.6 12.3 
+David_Koechner/gi6S4LymP5o_0000002 15.6 24.8 
+David_Koechner/gi6S4LymP5o_0000003 58.4 64.6 
+David_Koechner/gi6S4LymP5o_0000004 64.6 68.8 
+David_Koechner/gi6S4LymP5o_0000005 142.2 146.8 
+David_Koechner/gi6S4LymP5o_0000006 148.2 157.8 

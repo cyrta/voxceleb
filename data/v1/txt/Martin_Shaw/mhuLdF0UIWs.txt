@@ -1,0 +1,16 @@
+POI: 			Martin_Shaw 
+Youtube ID: 	mhuLdF0UIWs 
+Video length: 	226.1 sec 
+Set (V): 		dev 
+ 
+Martin_Shaw/mhuLdF0UIWs_0000001 30.1 35.0 
+Martin_Shaw/mhuLdF0UIWs_0000002 55.4 61.4 
+Martin_Shaw/mhuLdF0UIWs_0000003 78.4 83.1 
+Martin_Shaw/mhuLdF0UIWs_0000004 85.4 90.7 
+Martin_Shaw/mhuLdF0UIWs_0000005 97.4 113.0 
+Martin_Shaw/mhuLdF0UIWs_0000006 140.6 153.3 
+Martin_Shaw/mhuLdF0UIWs_0000007 157.0 164.4 
+Martin_Shaw/mhuLdF0UIWs_0000008 177.9 182.0 
+Martin_Shaw/mhuLdF0UIWs_0000009 183.0 187.8 
+Martin_Shaw/mhuLdF0UIWs_0000010 189.0 195.3 
+Martin_Shaw/mhuLdF0UIWs_0000011 205.7 212.7 

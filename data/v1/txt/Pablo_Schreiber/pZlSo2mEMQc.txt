@@ -1,0 +1,8 @@
+POI: 			Pablo_Schreiber 
+Youtube ID: 	pZlSo2mEMQc 
+Video length: 	137.3 sec 
+Set (V): 		dev 
+ 
+Pablo_Schreiber/pZlSo2mEMQc_0000001 17.4 23.2 
+Pablo_Schreiber/pZlSo2mEMQc_0000002 59.4 66.2 
+Pablo_Schreiber/pZlSo2mEMQc_0000003 66.5 81.7 

@@ -1,0 +1,15 @@
+POI: 			Dylan_McDermott 
+Youtube ID: 	FGwsY_XS2QM 
+Video length: 	203.9 sec 
+Set (V): 		dev 
+ 
+Dylan_McDermott/FGwsY_XS2QM_0000001 16.0 22.0 
+Dylan_McDermott/FGwsY_XS2QM_0000002 24.3 35.3 
+Dylan_McDermott/FGwsY_XS2QM_0000003 46.4 56.3 
+Dylan_McDermott/FGwsY_XS2QM_0000004 67.3 77.2 
+Dylan_McDermott/FGwsY_XS2QM_0000005 91.8 115.3 
+Dylan_McDermott/FGwsY_XS2QM_0000006 126.5 134.4 
+Dylan_McDermott/FGwsY_XS2QM_0000007 145.5 157.6 
+Dylan_McDermott/FGwsY_XS2QM_0000008 161.3 167.0 
+Dylan_McDermott/FGwsY_XS2QM_0000009 167.1 172.7 
+Dylan_McDermott/FGwsY_XS2QM_0000010 189.3 199.7 

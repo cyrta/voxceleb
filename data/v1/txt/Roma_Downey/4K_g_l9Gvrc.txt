@@ -1,0 +1,11 @@
+POI: 			Roma_Downey 
+Youtube ID: 	4K_g_l9Gvrc 
+Video length: 	872.8 sec 
+Set (V): 		dev 
+ 
+Roma_Downey/4K_g_l9Gvrc_0000001 177.8 185.3 
+Roma_Downey/4K_g_l9Gvrc_0000002 242.4 251.1 
+Roma_Downey/4K_g_l9Gvrc_0000003 437.2 450.5 
+Roma_Downey/4K_g_l9Gvrc_0000004 484.5 491.6 
+Roma_Downey/4K_g_l9Gvrc_0000005 614.6 621.2 
+Roma_Downey/4K_g_l9Gvrc_0000006 632.2 638.4 

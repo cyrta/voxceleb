@@ -1,0 +1,12 @@
+POI: 			Tracy_Morgan 
+Youtube ID: 	uQktnuVnEQI 
+Video length: 	315.8 sec 
+Set (V): 		dev 
+ 
+Tracy_Morgan/uQktnuVnEQI_0000001 56.6 64.6 
+Tracy_Morgan/uQktnuVnEQI_0000002 69.1 73.4 
+Tracy_Morgan/uQktnuVnEQI_0000003 76.5 91.2 
+Tracy_Morgan/uQktnuVnEQI_0000004 96.2 102.2 
+Tracy_Morgan/uQktnuVnEQI_0000005 134.0 140.5 
+Tracy_Morgan/uQktnuVnEQI_0000006 173.9 179.3 
+Tracy_Morgan/uQktnuVnEQI_0000007 206.6 215.9 

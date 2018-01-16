@@ -1,0 +1,18 @@
+POI: 			Mira_Furlan 
+Youtube ID: 	FQ0rnbBMCqQ 
+Video length: 	391.1 sec 
+Set (V): 		dev 
+ 
+Mira_Furlan/FQ0rnbBMCqQ_0000001 34.0 45.3 
+Mira_Furlan/FQ0rnbBMCqQ_0000002 46.3 57.4 
+Mira_Furlan/FQ0rnbBMCqQ_0000003 115.8 127.3 
+Mira_Furlan/FQ0rnbBMCqQ_0000004 144.7 151.8 
+Mira_Furlan/FQ0rnbBMCqQ_0000005 177.3 183.6 
+Mira_Furlan/FQ0rnbBMCqQ_0000006 189.9 197.0 
+Mira_Furlan/FQ0rnbBMCqQ_0000007 206.1 212.7 
+Mira_Furlan/FQ0rnbBMCqQ_0000008 213.7 218.1 
+Mira_Furlan/FQ0rnbBMCqQ_0000009 232.6 237.8 
+Mira_Furlan/FQ0rnbBMCqQ_0000010 238.1 245.2 
+Mira_Furlan/FQ0rnbBMCqQ_0000011 263.6 271.5 
+Mira_Furlan/FQ0rnbBMCqQ_0000012 325.5 331.4 
+Mira_Furlan/FQ0rnbBMCqQ_0000013 339.4 345.7 

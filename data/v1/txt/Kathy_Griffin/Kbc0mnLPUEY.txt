@@ -1,0 +1,18 @@
+POI: 			Kathy_Griffin 
+Youtube ID: 	Kbc0mnLPUEY 
+Video length: 	900.1 sec 
+Set (V): 		dev 
+ 
+Kathy_Griffin/Kbc0mnLPUEY_0000001 112.0 120.6 
+Kathy_Griffin/Kbc0mnLPUEY_0000002 136.2 144.3 
+Kathy_Griffin/Kbc0mnLPUEY_0000003 207.3 225.1 
+Kathy_Griffin/Kbc0mnLPUEY_0000004 245.7 251.7 
+Kathy_Griffin/Kbc0mnLPUEY_0000005 305.2 311.6 
+Kathy_Griffin/Kbc0mnLPUEY_0000006 376.0 393.5 
+Kathy_Griffin/Kbc0mnLPUEY_0000007 412.8 423.0 
+Kathy_Griffin/Kbc0mnLPUEY_0000008 423.4 429.8 
+Kathy_Griffin/Kbc0mnLPUEY_0000009 430.5 435.6 
+Kathy_Griffin/Kbc0mnLPUEY_0000010 436.4 447.9 
+Kathy_Griffin/Kbc0mnLPUEY_0000011 448.2 457.8 
+Kathy_Griffin/Kbc0mnLPUEY_0000012 809.2 818.6 
+Kathy_Griffin/Kbc0mnLPUEY_0000013 821.6 826.7 

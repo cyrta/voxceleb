@@ -1,0 +1,7 @@
+POI: 			Drake_Bell 
+Youtube ID: 	pn1yulnZpKA 
+Video length: 	122.9 sec 
+Set (V): 		dev 
+ 
+Drake_Bell/pn1yulnZpKA_0000001 32.2 36.2 
+Drake_Bell/pn1yulnZpKA_0000002 70.6 74.9 

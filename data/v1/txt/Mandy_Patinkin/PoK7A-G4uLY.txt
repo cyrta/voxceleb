@@ -1,0 +1,28 @@
+POI: 			Mandy_Patinkin 
+Youtube ID: 	PoK7A-G4uLY 
+Video length: 	599.6 sec 
+Set (V): 		dev 
+ 
+Mandy_Patinkin/PoK7A-G4uLY_0000001 10.0 17.0 
+Mandy_Patinkin/PoK7A-G4uLY_0000002 30.3 40.0 
+Mandy_Patinkin/PoK7A-G4uLY_0000003 43.2 63.8 
+Mandy_Patinkin/PoK7A-G4uLY_0000004 73.2 82.7 
+Mandy_Patinkin/PoK7A-G4uLY_0000005 99.1 122.7 
+Mandy_Patinkin/PoK7A-G4uLY_0000006 132.3 141.8 
+Mandy_Patinkin/PoK7A-G4uLY_0000007 168.2 175.4 
+Mandy_Patinkin/PoK7A-G4uLY_0000008 183.9 196.2 
+Mandy_Patinkin/PoK7A-G4uLY_0000009 197.4 207.3 
+Mandy_Patinkin/PoK7A-G4uLY_0000010 214.4 239.2 
+Mandy_Patinkin/PoK7A-G4uLY_0000011 242.6 250.6 
+Mandy_Patinkin/PoK7A-G4uLY_0000012 258.0 263.5 
+Mandy_Patinkin/PoK7A-G4uLY_0000013 264.1 271.9 
+Mandy_Patinkin/PoK7A-G4uLY_0000014 277.5 283.0 
+Mandy_Patinkin/PoK7A-G4uLY_0000015 290.6 296.8 
+Mandy_Patinkin/PoK7A-G4uLY_0000016 301.7 309.0 
+Mandy_Patinkin/PoK7A-G4uLY_0000017 312.3 320.7 
+Mandy_Patinkin/PoK7A-G4uLY_0000018 412.1 421.9 
+Mandy_Patinkin/PoK7A-G4uLY_0000019 426.2 432.1 
+Mandy_Patinkin/PoK7A-G4uLY_0000020 468.6 478.8 
+Mandy_Patinkin/PoK7A-G4uLY_0000021 516.9 538.8 
+Mandy_Patinkin/PoK7A-G4uLY_0000022 556.0 565.8 
+Mandy_Patinkin/PoK7A-G4uLY_0000023 566.0 589.2 

@@ -1,0 +1,8 @@
+POI: 			Nathan_Fillion 
+Youtube ID: 	MVSx16ZC32Q 
+Video length: 	737.6 sec 
+Set (V): 		dev 
+ 
+Nathan_Fillion/MVSx16ZC32Q_0000001 381.6 388.0 
+Nathan_Fillion/MVSx16ZC32Q_0000002 434.8 439.2 
+Nathan_Fillion/MVSx16ZC32Q_0000003 465.7 472.8 

@@ -1,0 +1,11 @@
+POI: 			Matthew_Morrison 
+Youtube ID: 	LwcwxNVZln4 
+Video length: 	375.5 sec 
+Set (V): 		dev 
+ 
+Matthew_Morrison/LwcwxNVZln4_0000001 45.7 71.3 
+Matthew_Morrison/LwcwxNVZln4_0000002 72.0 80.6 
+Matthew_Morrison/LwcwxNVZln4_0000003 118.6 123.8 
+Matthew_Morrison/LwcwxNVZln4_0000004 130.5 135.5 
+Matthew_Morrison/LwcwxNVZln4_0000005 157.1 174.1 
+Matthew_Morrison/LwcwxNVZln4_0000006 326.0 345.4 

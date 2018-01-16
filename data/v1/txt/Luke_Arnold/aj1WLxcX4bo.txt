@@ -1,0 +1,16 @@
+POI: 			Luke_Arnold 
+Youtube ID: 	aj1WLxcX4bo 
+Video length: 	195.7 sec 
+Set (V): 		dev 
+ 
+Luke_Arnold/aj1WLxcX4bo_0000001 06.8 38.2 
+Luke_Arnold/aj1WLxcX4bo_0000002 43.2 72.0 
+Luke_Arnold/aj1WLxcX4bo_0000003 82.5 87.7 
+Luke_Arnold/aj1WLxcX4bo_0000004 87.8 95.6 
+Luke_Arnold/aj1WLxcX4bo_0000005 95.8 104.3 
+Luke_Arnold/aj1WLxcX4bo_0000006 65.2 72.3 
+Luke_Arnold/aj1WLxcX4bo_0000007 104.4 111.9 
+Luke_Arnold/aj1WLxcX4bo_0000008 121.4 152.9 
+Luke_Arnold/aj1WLxcX4bo_0000009 160.5 167.9 
+Luke_Arnold/aj1WLxcX4bo_0000010 168.0 184.9 
+Luke_Arnold/aj1WLxcX4bo_0000011 185.1 189.4 

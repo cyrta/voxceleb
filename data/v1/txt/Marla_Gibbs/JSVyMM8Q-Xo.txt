@@ -1,0 +1,12 @@
+POI: 			Marla_Gibbs 
+Youtube ID: 	JSVyMM8Q-Xo 
+Video length: 	161.3 sec 
+Set (V): 		dev 
+ 
+Marla_Gibbs/JSVyMM8Q-Xo_0000001 17.7 22.4 
+Marla_Gibbs/JSVyMM8Q-Xo_0000002 23.6 30.8 
+Marla_Gibbs/JSVyMM8Q-Xo_0000003 32.3 39.5 
+Marla_Gibbs/JSVyMM8Q-Xo_0000004 51.8 85.0 
+Marla_Gibbs/JSVyMM8Q-Xo_0000005 99.3 103.9 
+Marla_Gibbs/JSVyMM8Q-Xo_0000006 104.1 112.0 
+Marla_Gibbs/JSVyMM8Q-Xo_0000007 112.9 129.2 

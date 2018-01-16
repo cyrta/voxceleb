@@ -1,0 +1,39 @@
+POI: 			Pooja_Kumar 
+Youtube ID: 	LOMuDrC-yKw 
+Video length: 	760.6 sec 
+Set (V): 		dev 
+ 
+Pooja_Kumar/LOMuDrC-yKw_0000001 62.3 68.7 
+Pooja_Kumar/LOMuDrC-yKw_0000002 69.3 74.8 
+Pooja_Kumar/LOMuDrC-yKw_0000003 86.1 92.2 
+Pooja_Kumar/LOMuDrC-yKw_0000004 111.6 128.1 
+Pooja_Kumar/LOMuDrC-yKw_0000005 140.6 157.4 
+Pooja_Kumar/LOMuDrC-yKw_0000006 170.3 175.9 
+Pooja_Kumar/LOMuDrC-yKw_0000007 190.6 197.7 
+Pooja_Kumar/LOMuDrC-yKw_0000008 200.0 207.5 
+Pooja_Kumar/LOMuDrC-yKw_0000009 208.2 224.3 
+Pooja_Kumar/LOMuDrC-yKw_0000010 242.7 246.7 
+Pooja_Kumar/LOMuDrC-yKw_0000011 277.7 281.9 
+Pooja_Kumar/LOMuDrC-yKw_0000012 282.4 287.2 
+Pooja_Kumar/LOMuDrC-yKw_0000013 329.6 340.7 
+Pooja_Kumar/LOMuDrC-yKw_0000014 380.2 400.0 
+Pooja_Kumar/LOMuDrC-yKw_0000015 413.3 430.7 
+Pooja_Kumar/LOMuDrC-yKw_0000016 431.5 441.1 
+Pooja_Kumar/LOMuDrC-yKw_0000017 441.4 448.1 
+Pooja_Kumar/LOMuDrC-yKw_0000018 456.8 466.9 
+Pooja_Kumar/LOMuDrC-yKw_0000019 468.4 486.2 
+Pooja_Kumar/LOMuDrC-yKw_0000020 487.9 492.8 
+Pooja_Kumar/LOMuDrC-yKw_0000021 493.8 503.3 
+Pooja_Kumar/LOMuDrC-yKw_0000022 505.0 515.5 
+Pooja_Kumar/LOMuDrC-yKw_0000023 518.0 522.1 
+Pooja_Kumar/LOMuDrC-yKw_0000024 542.4 547.3 
+Pooja_Kumar/LOMuDrC-yKw_0000025 555.5 560.1 
+Pooja_Kumar/LOMuDrC-yKw_0000026 560.8 566.1 
+Pooja_Kumar/LOMuDrC-yKw_0000027 580.2 586.4 
+Pooja_Kumar/LOMuDrC-yKw_0000028 586.6 596.8 
+Pooja_Kumar/LOMuDrC-yKw_0000029 662.0 680.0 
+Pooja_Kumar/LOMuDrC-yKw_0000030 681.0 685.2 
+Pooja_Kumar/LOMuDrC-yKw_0000031 697.1 703.5 
+Pooja_Kumar/LOMuDrC-yKw_0000032 704.5 709.2 
+Pooja_Kumar/LOMuDrC-yKw_0000033 724.8 730.0 
+Pooja_Kumar/LOMuDrC-yKw_0000034 737.6 743.0 

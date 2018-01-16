@@ -1,0 +1,16 @@
+POI: 			Laura_Haddock 
+Youtube ID: 	LE3KIah-zAU 
+Video length: 	185.3 sec 
+Set (V): 		dev 
+ 
+Laura_Haddock/LE3KIah-zAU_0000001 24.5 38.2 
+Laura_Haddock/LE3KIah-zAU_0000002 39.3 48.1 
+Laura_Haddock/LE3KIah-zAU_0000003 49.5 57.5 
+Laura_Haddock/LE3KIah-zAU_0000004 71.5 81.0 
+Laura_Haddock/LE3KIah-zAU_0000005 82.3 87.0 
+Laura_Haddock/LE3KIah-zAU_0000006 93.2 98.6 
+Laura_Haddock/LE3KIah-zAU_0000007 118.3 124.0 
+Laura_Haddock/LE3KIah-zAU_0000008 124.6 131.0 
+Laura_Haddock/LE3KIah-zAU_0000009 129.3 138.0 
+Laura_Haddock/LE3KIah-zAU_0000010 153.1 158.3 
+Laura_Haddock/LE3KIah-zAU_0000011 163.4 177.0 

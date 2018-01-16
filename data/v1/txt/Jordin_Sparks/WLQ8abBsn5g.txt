@@ -1,0 +1,9 @@
+POI: 			Jordin_Sparks 
+Youtube ID: 	WLQ8abBsn5g 
+Video length: 	588.8 sec 
+Set (V): 		dev 
+ 
+Jordin_Sparks/WLQ8abBsn5g_0000001 133.0 137.9 
+Jordin_Sparks/WLQ8abBsn5g_0000002 371.4 375.6 
+Jordin_Sparks/WLQ8abBsn5g_0000003 417.8 424.9 
+Jordin_Sparks/WLQ8abBsn5g_0000004 562.6 567.5 

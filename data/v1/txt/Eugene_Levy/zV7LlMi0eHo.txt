@@ -1,0 +1,19 @@
+POI: 			Eugene_Levy 
+Youtube ID: 	zV7LlMi0eHo 
+Video length: 	1851.1 sec 
+Set (V): 		test 
+ 
+Eugene_Levy/zV7LlMi0eHo_0000001 327.0 331.4 
+Eugene_Levy/zV7LlMi0eHo_0000002 332.6 359.6 
+Eugene_Levy/zV7LlMi0eHo_0000003 402.8 407.0 
+Eugene_Levy/zV7LlMi0eHo_0000004 910.6 917.4 
+Eugene_Levy/zV7LlMi0eHo_0000005 942.2 949.2 
+Eugene_Levy/zV7LlMi0eHo_0000006 950.0 957.3 
+Eugene_Levy/zV7LlMi0eHo_0000007 1173.8 1184.5 
+Eugene_Levy/zV7LlMi0eHo_0000008 1187.7 1195.4 
+Eugene_Levy/zV7LlMi0eHo_0000009 1197.8 1207.0 
+Eugene_Levy/zV7LlMi0eHo_0000010 1328.1 1332.7 
+Eugene_Levy/zV7LlMi0eHo_0000011 1524.0 1536.4 
+Eugene_Levy/zV7LlMi0eHo_0000012 1536.8 1544.2 
+Eugene_Levy/zV7LlMi0eHo_0000013 1659.7 1664.2 
+Eugene_Levy/zV7LlMi0eHo_0000014 1665.6 1677.8 

@@ -1,0 +1,14 @@
+POI: 			Caitriona_Balfe 
+Youtube ID: 	KGC4PrKm28Y 
+Video length: 	841.0 sec 
+Set (V): 		dev 
+ 
+Caitriona_Balfe/KGC4PrKm28Y_0000001 108.9 123.4 
+Caitriona_Balfe/KGC4PrKm28Y_0000002 180.2 200.7 
+Caitriona_Balfe/KGC4PrKm28Y_0000003 263.7 271.9 
+Caitriona_Balfe/KGC4PrKm28Y_0000004 568.5 577.0 
+Caitriona_Balfe/KGC4PrKm28Y_0000005 577.2 582.6 
+Caitriona_Balfe/KGC4PrKm28Y_0000006 587.6 597.4 
+Caitriona_Balfe/KGC4PrKm28Y_0000007 701.1 705.8 
+Caitriona_Balfe/KGC4PrKm28Y_0000008 705.9 721.9 
+Caitriona_Balfe/KGC4PrKm28Y_0000009 772.0 790.9 

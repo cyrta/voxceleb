@@ -1,0 +1,9 @@
+POI: 			Pablo_Schreiber 
+Youtube ID: 	_MgqzVHL-IE 
+Video length: 	307.1 sec 
+Set (V): 		dev 
+ 
+Pablo_Schreiber/_MgqzVHL-IE_0000001 22.6 34.4 
+Pablo_Schreiber/_MgqzVHL-IE_0000002 89.8 106.7 
+Pablo_Schreiber/_MgqzVHL-IE_0000003 236.1 241.1 
+Pablo_Schreiber/_MgqzVHL-IE_0000004 267.8 283.9 

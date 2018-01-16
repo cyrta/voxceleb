@@ -1,0 +1,9 @@
+POI: 			Marc_Webb 
+Youtube ID: 	S80D1V-OUDs 
+Video length: 	53.1 sec 
+Set (V): 		dev 
+ 
+Marc_Webb/S80D1V-OUDs_0000001 11.0 16.9 
+Marc_Webb/S80D1V-OUDs_0000002 20.7 31.1 
+Marc_Webb/S80D1V-OUDs_0000003 33.3 37.6 
+Marc_Webb/S80D1V-OUDs_0000004 40.2 45.7 

@@ -1,0 +1,10 @@
+POI: 			Amber_Riley 
+Youtube ID: 	BAPeI1cVhlw 
+Video length: 	285.2 sec 
+Set (V): 		dev 
+ 
+Amber_Riley/BAPeI1cVhlw_0000001 30.4 38.8 
+Amber_Riley/BAPeI1cVhlw_0000002 110.1 121.2 
+Amber_Riley/BAPeI1cVhlw_0000003 135.5 141.5 
+Amber_Riley/BAPeI1cVhlw_0000004 197.5 228.4 
+Amber_Riley/BAPeI1cVhlw_0000005 228.7 235.4 

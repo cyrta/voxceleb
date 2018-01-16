@@ -1,0 +1,10 @@
+POI: 			Dan_Stevens 
+Youtube ID: 	47rS9Ao_QWM 
+Video length: 	211.7 sec 
+Set (V): 		dev 
+ 
+Dan_Stevens/47rS9Ao_QWM_0000001 45.9 50.8 
+Dan_Stevens/47rS9Ao_QWM_0000002 52.3 58.0 
+Dan_Stevens/47rS9Ao_QWM_0000003 77.9 85.5 
+Dan_Stevens/47rS9Ao_QWM_0000004 87.6 92.5 
+Dan_Stevens/47rS9Ao_QWM_0000005 181.9 190.4 

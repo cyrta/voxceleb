@@ -1,0 +1,9 @@
+POI: 			Miranda_Richardson 
+Youtube ID: 	2OnbVgKt9Nc 
+Video length: 	144.2 sec 
+Set (V): 		dev 
+ 
+Miranda_Richardson/2OnbVgKt9Nc_0000001 24.1 29.0 
+Miranda_Richardson/2OnbVgKt9Nc_0000002 51.2 57.0 
+Miranda_Richardson/2OnbVgKt9Nc_0000003 62.7 69.9 
+Miranda_Richardson/2OnbVgKt9Nc_0000004 117.2 122.6 

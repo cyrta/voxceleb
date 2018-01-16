@@ -1,0 +1,10 @@
+POI: 			Candice_Accola 
+Youtube ID: 	0CFBZSwkY0U 
+Video length: 	138.1 sec 
+Set (V): 		dev 
+ 
+Candice_Accola/0CFBZSwkY0U_0000001 18.3 22.8 
+Candice_Accola/0CFBZSwkY0U_0000002 53.5 61.1 
+Candice_Accola/0CFBZSwkY0U_0000003 85.0 89.4 
+Candice_Accola/0CFBZSwkY0U_0000004 81.4 85.9 
+Candice_Accola/0CFBZSwkY0U_0000005 119.6 125.3 

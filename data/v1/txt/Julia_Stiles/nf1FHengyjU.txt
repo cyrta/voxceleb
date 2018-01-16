@@ -1,0 +1,11 @@
+POI: 			Julia_Stiles 
+Youtube ID: 	nf1FHengyjU 
+Video length: 	370.4 sec 
+Set (V): 		dev 
+ 
+Julia_Stiles/nf1FHengyjU_0000001 98.6 105.2 
+Julia_Stiles/nf1FHengyjU_0000002 131.6 136.6 
+Julia_Stiles/nf1FHengyjU_0000003 138.6 148.0 
+Julia_Stiles/nf1FHengyjU_0000004 165.7 173.1 
+Julia_Stiles/nf1FHengyjU_0000005 198.3 204.3 
+Julia_Stiles/nf1FHengyjU_0000006 220.3 228.6 

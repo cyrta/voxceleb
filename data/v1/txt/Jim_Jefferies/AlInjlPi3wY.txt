@@ -1,0 +1,22 @@
+POI: 			Jim_Jefferies 
+Youtube ID: 	AlInjlPi3wY 
+Video length: 	509.2 sec 
+Set (V): 		dev 
+ 
+Jim_Jefferies/AlInjlPi3wY_0000001 16.0 24.8 
+Jim_Jefferies/AlInjlPi3wY_0000002 29.1 33.7 
+Jim_Jefferies/AlInjlPi3wY_0000003 34.2 38.5 
+Jim_Jefferies/AlInjlPi3wY_0000004 39.5 48.8 
+Jim_Jefferies/AlInjlPi3wY_0000005 51.7 59.3 
+Jim_Jefferies/AlInjlPi3wY_0000006 89.7 94.0 
+Jim_Jefferies/AlInjlPi3wY_0000007 103.0 109.4 
+Jim_Jefferies/AlInjlPi3wY_0000008 117.9 122.9 
+Jim_Jefferies/AlInjlPi3wY_0000009 142.0 146.9 
+Jim_Jefferies/AlInjlPi3wY_0000010 154.5 163.6 
+Jim_Jefferies/AlInjlPi3wY_0000011 164.8 169.5 
+Jim_Jefferies/AlInjlPi3wY_0000012 172.6 181.8 
+Jim_Jefferies/AlInjlPi3wY_0000013 221.9 227.4 
+Jim_Jefferies/AlInjlPi3wY_0000014 248.8 255.7 
+Jim_Jefferies/AlInjlPi3wY_0000015 256.9 269.0 
+Jim_Jefferies/AlInjlPi3wY_0000016 287.3 294.5 
+Jim_Jefferies/AlInjlPi3wY_0000017 393.6 402.6 

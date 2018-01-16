@@ -1,0 +1,7 @@
+POI: 			Diogo_Morgado 
+Youtube ID: 	LHjeT4hc23Y 
+Video length: 	304.2 sec 
+Set (V): 		dev 
+ 
+Diogo_Morgado/LHjeT4hc23Y_0000001 89.1 103.0 
+Diogo_Morgado/LHjeT4hc23Y_0000002 105.0 116.1 

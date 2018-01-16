@@ -1,0 +1,10 @@
+POI: 			NeNe_Leakes 
+Youtube ID: 	N4yL1rsFZYE 
+Video length: 	180.2 sec 
+Set (V): 		dev 
+ 
+NeNe_Leakes/N4yL1rsFZYE_0000001 50.8 66.1 
+NeNe_Leakes/N4yL1rsFZYE_0000002 83.3 95.6 
+NeNe_Leakes/N4yL1rsFZYE_0000003 99.4 109.1 
+NeNe_Leakes/N4yL1rsFZYE_0000004 151.0 161.3 
+NeNe_Leakes/N4yL1rsFZYE_0000005 167.9 173.1 

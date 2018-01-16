@@ -1,0 +1,24 @@
+POI: 			Carrie_Underwood 
+Youtube ID: 	Z-bPrDRGq2w 
+Video length: 	494.7 sec 
+Set (V): 		dev 
+ 
+Carrie_Underwood/Z-bPrDRGq2w_0000001 24.0 28.5 
+Carrie_Underwood/Z-bPrDRGq2w_0000002 29.4 37.9 
+Carrie_Underwood/Z-bPrDRGq2w_0000003 90.5 94.8 
+Carrie_Underwood/Z-bPrDRGq2w_0000004 125.9 131.6 
+Carrie_Underwood/Z-bPrDRGq2w_0000005 152.2 161.4 
+Carrie_Underwood/Z-bPrDRGq2w_0000006 161.6 165.6 
+Carrie_Underwood/Z-bPrDRGq2w_0000007 185.1 189.2 
+Carrie_Underwood/Z-bPrDRGq2w_0000008 199.6 203.8 
+Carrie_Underwood/Z-bPrDRGq2w_0000009 224.8 230.8 
+Carrie_Underwood/Z-bPrDRGq2w_0000010 251.8 257.8 
+Carrie_Underwood/Z-bPrDRGq2w_0000011 316.3 321.1 
+Carrie_Underwood/Z-bPrDRGq2w_0000012 348.4 353.8 
+Carrie_Underwood/Z-bPrDRGq2w_0000013 375.4 379.8 
+Carrie_Underwood/Z-bPrDRGq2w_0000014 395.0 399.4 
+Carrie_Underwood/Z-bPrDRGq2w_0000015 411.6 415.9 
+Carrie_Underwood/Z-bPrDRGq2w_0000016 423.2 430.4 
+Carrie_Underwood/Z-bPrDRGq2w_0000017 439.1 444.5 
+Carrie_Underwood/Z-bPrDRGq2w_0000018 462.4 470.5 
+Carrie_Underwood/Z-bPrDRGq2w_0000019 478.6 484.2 

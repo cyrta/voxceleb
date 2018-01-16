@@ -1,0 +1,12 @@
+POI: 			Kate_Beckinsale 
+Youtube ID: 	HFGv1A6oFko 
+Video length: 	1838.4 sec 
+Set (V): 		dev 
+ 
+Kate_Beckinsale/HFGv1A6oFko_0000001 41.7 49.2 
+Kate_Beckinsale/HFGv1A6oFko_0000002 137.6 144.7 
+Kate_Beckinsale/HFGv1A6oFko_0000003 154.7 159.2 
+Kate_Beckinsale/HFGv1A6oFko_0000004 171.0 176.9 
+Kate_Beckinsale/HFGv1A6oFko_0000005 232.8 237.0 
+Kate_Beckinsale/HFGv1A6oFko_0000006 316.5 331.7 
+Kate_Beckinsale/HFGv1A6oFko_0000007 651.8 656.9 

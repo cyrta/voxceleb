@@ -1,0 +1,8 @@
+POI: 			Kellan_Lutz 
+Youtube ID: 	oyu9wUMbuqA 
+Video length: 	128.9 sec 
+Set (V): 		dev 
+ 
+Kellan_Lutz/oyu9wUMbuqA_0000001 24.5 30.1 
+Kellan_Lutz/oyu9wUMbuqA_0000002 46.6 50.8 
+Kellan_Lutz/oyu9wUMbuqA_0000003 89.0 98.2 

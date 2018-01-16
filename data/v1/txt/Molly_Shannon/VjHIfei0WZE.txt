@@ -1,0 +1,10 @@
+POI: 			Molly_Shannon 
+Youtube ID: 	VjHIfei0WZE 
+Video length: 	241.9 sec 
+Set (V): 		dev 
+ 
+Molly_Shannon/VjHIfei0WZE_0000001 14.0 18.0 
+Molly_Shannon/VjHIfei0WZE_0000002 49.8 57.9 
+Molly_Shannon/VjHIfei0WZE_0000003 73.7 77.6 
+Molly_Shannon/VjHIfei0WZE_0000004 104.0 108.2 
+Molly_Shannon/VjHIfei0WZE_0000005 185.8 190.7 

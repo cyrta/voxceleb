@@ -1,0 +1,23 @@
+POI: 			Geri_Halliwell 
+Youtube ID: 	eTChefitvmA 
+Video length: 	875.8 sec 
+Set (V): 		dev 
+ 
+Geri_Halliwell/eTChefitvmA_0000001 123.3 130.5 
+Geri_Halliwell/eTChefitvmA_0000002 137.4 144.8 
+Geri_Halliwell/eTChefitvmA_0000003 177.5 183.9 
+Geri_Halliwell/eTChefitvmA_0000004 189.5 195.5 
+Geri_Halliwell/eTChefitvmA_0000005 201.9 207.8 
+Geri_Halliwell/eTChefitvmA_0000006 276.2 281.2 
+Geri_Halliwell/eTChefitvmA_0000007 284.1 291.8 
+Geri_Halliwell/eTChefitvmA_0000008 301.8 306.4 
+Geri_Halliwell/eTChefitvmA_0000009 321.9 326.0 
+Geri_Halliwell/eTChefitvmA_0000010 344.0 349.7 
+Geri_Halliwell/eTChefitvmA_0000011 492.6 498.8 
+Geri_Halliwell/eTChefitvmA_0000012 501.7 506.3 
+Geri_Halliwell/eTChefitvmA_0000013 517.4 521.7 
+Geri_Halliwell/eTChefitvmA_0000014 596.4 600.6 
+Geri_Halliwell/eTChefitvmA_0000015 703.7 712.5 
+Geri_Halliwell/eTChefitvmA_0000016 719.1 723.8 
+Geri_Halliwell/eTChefitvmA_0000017 749.8 756.8 
+Geri_Halliwell/eTChefitvmA_0000018 760.9 768.7 

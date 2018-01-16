@@ -1,0 +1,10 @@
+POI: 			Jorja_Fox 
+Youtube ID: 	FGg3C3BGjgE 
+Video length: 	76.7 sec 
+Set (V): 		dev 
+ 
+Jorja_Fox/FGg3C3BGjgE_0000001 23.0 27.4 
+Jorja_Fox/FGg3C3BGjgE_0000002 29.1 39.2 
+Jorja_Fox/FGg3C3BGjgE_0000003 43.1 52.0 
+Jorja_Fox/FGg3C3BGjgE_0000004 56.1 61.3 
+Jorja_Fox/FGg3C3BGjgE_0000005 61.6 68.4 

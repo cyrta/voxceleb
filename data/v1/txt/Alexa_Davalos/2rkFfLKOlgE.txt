@@ -1,0 +1,7 @@
+POI: 			Alexa_Davalos 
+Youtube ID: 	2rkFfLKOlgE 
+Video length: 	158.4 sec 
+Set (V): 		dev 
+ 
+Alexa_Davalos/2rkFfLKOlgE_0000001 12.4 18.3 
+Alexa_Davalos/2rkFfLKOlgE_0000002 101.4 110.0 

@@ -1,0 +1,7 @@
+POI: 			Sam_Neill 
+Youtube ID: 	nC9RayLkslI 
+Video length: 	379.5 sec 
+Set (V): 		dev 
+ 
+Sam_Neill/nC9RayLkslI_0000001 144.3 148.5 
+Sam_Neill/nC9RayLkslI_0000002 198.5 202.9 

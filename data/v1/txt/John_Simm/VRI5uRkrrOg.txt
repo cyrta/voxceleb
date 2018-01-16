@@ -1,0 +1,18 @@
+POI: 			John_Simm 
+Youtube ID: 	VRI5uRkrrOg 
+Video length: 	409.1 sec 
+Set (V): 		dev 
+ 
+John_Simm/VRI5uRkrrOg_0000001 55.8 60.1 
+John_Simm/VRI5uRkrrOg_0000002 65.3 70.9 
+John_Simm/VRI5uRkrrOg_0000003 80.0 86.6 
+John_Simm/VRI5uRkrrOg_0000004 103.9 108.6 
+John_Simm/VRI5uRkrrOg_0000005 113.3 121.0 
+John_Simm/VRI5uRkrrOg_0000006 169.8 175.1 
+John_Simm/VRI5uRkrrOg_0000007 184.4 190.2 
+John_Simm/VRI5uRkrrOg_0000008 195.7 201.8 
+John_Simm/VRI5uRkrrOg_0000009 230.6 237.4 
+John_Simm/VRI5uRkrrOg_0000010 242.5 247.6 
+John_Simm/VRI5uRkrrOg_0000011 279.8 290.1 
+John_Simm/VRI5uRkrrOg_0000012 309.4 319.3 
+John_Simm/VRI5uRkrrOg_0000013 317.3 322.7 

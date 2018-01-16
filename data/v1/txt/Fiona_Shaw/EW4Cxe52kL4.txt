@@ -1,0 +1,7 @@
+POI: 			Fiona_Shaw 
+Youtube ID: 	EW4Cxe52kL4 
+Video length: 	694.2 sec 
+Set (V): 		dev 
+ 
+Fiona_Shaw/EW4Cxe52kL4_0000001 292.8 298.4 
+Fiona_Shaw/EW4Cxe52kL4_0000002 570.6 574.9 

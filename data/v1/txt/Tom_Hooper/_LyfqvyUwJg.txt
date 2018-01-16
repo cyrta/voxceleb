@@ -1,0 +1,8 @@
+POI: 			Tom_Hooper 
+Youtube ID: 	_LyfqvyUwJg 
+Video length: 	70.2 sec 
+Set (V): 		dev 
+ 
+Tom_Hooper/_LyfqvyUwJg_0000001 14.7 21.2 
+Tom_Hooper/_LyfqvyUwJg_0000002 35.0 43.8 
+Tom_Hooper/_LyfqvyUwJg_0000003 48.3 68.6 

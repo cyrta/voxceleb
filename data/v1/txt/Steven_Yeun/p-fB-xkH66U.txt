@@ -1,0 +1,10 @@
+POI: 			Steven_Yeun 
+Youtube ID: 	p-fB-xkH66U 
+Video length: 	310.7 sec 
+Set (V): 		dev 
+ 
+Steven_Yeun/p-fB-xkH66U_0000001 37.4 42.8 
+Steven_Yeun/p-fB-xkH66U_0000002 77.6 85.8 
+Steven_Yeun/p-fB-xkH66U_0000003 99.2 104.4 
+Steven_Yeun/p-fB-xkH66U_0000004 182.5 194.9 
+Steven_Yeun/p-fB-xkH66U_0000005 197.6 204.2 

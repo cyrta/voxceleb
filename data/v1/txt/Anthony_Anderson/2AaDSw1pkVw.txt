@@ -1,0 +1,9 @@
+POI: 			Anthony_Anderson 
+Youtube ID: 	2AaDSw1pkVw 
+Video length: 	353.6 sec 
+Set (V): 		dev 
+ 
+Anthony_Anderson/2AaDSw1pkVw_0000001 67.2 72.2 
+Anthony_Anderson/2AaDSw1pkVw_0000002 142.1 147.2 
+Anthony_Anderson/2AaDSw1pkVw_0000003 207.2 215.0 
+Anthony_Anderson/2AaDSw1pkVw_0000004 266.6 273.1 

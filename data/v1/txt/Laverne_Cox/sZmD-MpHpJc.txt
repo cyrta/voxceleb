@@ -1,0 +1,9 @@
+POI: 			Laverne_Cox 
+Youtube ID: 	sZmD-MpHpJc 
+Video length: 	189.3 sec 
+Set (V): 		dev 
+ 
+Laverne_Cox/sZmD-MpHpJc_0000001 92.6 98.4 
+Laverne_Cox/sZmD-MpHpJc_0000002 103.5 109.1 
+Laverne_Cox/sZmD-MpHpJc_0000003 123.7 129.5 
+Laverne_Cox/sZmD-MpHpJc_0000004 150.9 162.6 

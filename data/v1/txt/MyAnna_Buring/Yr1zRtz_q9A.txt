@@ -1,0 +1,24 @@
+POI: 			MyAnna_Buring 
+Youtube ID: 	Yr1zRtz_q9A 
+Video length: 	645.2 sec 
+Set (V): 		dev 
+ 
+MyAnna_Buring/Yr1zRtz_q9A_0000001 200.3 215.7 
+MyAnna_Buring/Yr1zRtz_q9A_0000002 216.2 224.3 
+MyAnna_Buring/Yr1zRtz_q9A_0000003 226.2 238.0 
+MyAnna_Buring/Yr1zRtz_q9A_0000004 242.0 246.6 
+MyAnna_Buring/Yr1zRtz_q9A_0000005 281.7 288.5 
+MyAnna_Buring/Yr1zRtz_q9A_0000006 295.0 299.5 
+MyAnna_Buring/Yr1zRtz_q9A_0000007 302.6 308.2 
+MyAnna_Buring/Yr1zRtz_q9A_0000008 308.6 315.6 
+MyAnna_Buring/Yr1zRtz_q9A_0000009 315.7 325.9 
+MyAnna_Buring/Yr1zRtz_q9A_0000010 340.0 344.4 
+MyAnna_Buring/Yr1zRtz_q9A_0000011 345.2 349.5 
+MyAnna_Buring/Yr1zRtz_q9A_0000012 349.8 363.4 
+MyAnna_Buring/Yr1zRtz_q9A_0000013 363.8 372.4 
+MyAnna_Buring/Yr1zRtz_q9A_0000014 377.3 387.6 
+MyAnna_Buring/Yr1zRtz_q9A_0000015 388.1 393.0 
+MyAnna_Buring/Yr1zRtz_q9A_0000016 393.7 400.3 
+MyAnna_Buring/Yr1zRtz_q9A_0000017 400.7 405.0 
+MyAnna_Buring/Yr1zRtz_q9A_0000018 586.9 593.3 
+MyAnna_Buring/Yr1zRtz_q9A_0000019 599.1 610.4 

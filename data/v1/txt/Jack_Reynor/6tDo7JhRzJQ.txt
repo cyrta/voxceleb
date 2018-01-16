@@ -1,0 +1,15 @@
+POI: 			Jack_Reynor 
+Youtube ID: 	6tDo7JhRzJQ 
+Video length: 	499.1 sec 
+Set (V): 		dev 
+ 
+Jack_Reynor/6tDo7JhRzJQ_0000001 12.0 21.9 
+Jack_Reynor/6tDo7JhRzJQ_0000002 32.3 37.4 
+Jack_Reynor/6tDo7JhRzJQ_0000003 48.5 56.1 
+Jack_Reynor/6tDo7JhRzJQ_0000004 130.0 134.4 
+Jack_Reynor/6tDo7JhRzJQ_0000005 196.4 203.5 
+Jack_Reynor/6tDo7JhRzJQ_0000006 247.5 262.8 
+Jack_Reynor/6tDo7JhRzJQ_0000007 397.8 408.4 
+Jack_Reynor/6tDo7JhRzJQ_0000008 408.8 421.2 
+Jack_Reynor/6tDo7JhRzJQ_0000009 436.7 440.8 
+Jack_Reynor/6tDo7JhRzJQ_0000010 442.2 448.9 

@@ -1,0 +1,10 @@
+POI: 			Kenan_Thompson 
+Youtube ID: 	9sFz9UM10jk 
+Video length: 	450.2 sec 
+Set (V): 		dev 
+ 
+Kenan_Thompson/9sFz9UM10jk_0000001 117.7 122.8 
+Kenan_Thompson/9sFz9UM10jk_0000002 131.2 145.6 
+Kenan_Thompson/9sFz9UM10jk_0000003 186.2 191.7 
+Kenan_Thompson/9sFz9UM10jk_0000004 346.6 352.5 
+Kenan_Thompson/9sFz9UM10jk_0000005 352.6 359.4 

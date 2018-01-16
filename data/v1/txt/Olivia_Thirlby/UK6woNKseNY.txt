@@ -1,0 +1,7 @@
+POI: 			Olivia_Thirlby 
+Youtube ID: 	UK6woNKseNY 
+Video length: 	245.2 sec 
+Set (V): 		dev 
+ 
+Olivia_Thirlby/UK6woNKseNY_0000001 228.0 232.5 
+Olivia_Thirlby/UK6woNKseNY_0000002 227.3 233.0 

@@ -1,0 +1,11 @@
+POI: 			Ansel_Elgort 
+Youtube ID: 	M8iVA4NOujU 
+Video length: 	364.7 sec 
+Set (V): 		dev 
+ 
+Ansel_Elgort/M8iVA4NOujU_0000001 222.7 229.6 
+Ansel_Elgort/M8iVA4NOujU_0000002 233.6 243.0 
+Ansel_Elgort/M8iVA4NOujU_0000003 243.8 249.6 
+Ansel_Elgort/M8iVA4NOujU_0000004 249.8 257.7 
+Ansel_Elgort/M8iVA4NOujU_0000005 270.4 275.1 
+Ansel_Elgort/M8iVA4NOujU_0000006 276.2 290.4 

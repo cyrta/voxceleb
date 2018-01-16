@@ -1,0 +1,9 @@
+POI: 			Oscar_Isaac 
+Youtube ID: 	FX9xYyyuPBE 
+Video length: 	236.8 sec 
+Set (V): 		dev 
+ 
+Oscar_Isaac/FX9xYyyuPBE_0000001 51.6 58.1 
+Oscar_Isaac/FX9xYyyuPBE_0000002 58.7 64.9 
+Oscar_Isaac/FX9xYyyuPBE_0000003 127.2 139.3 
+Oscar_Isaac/FX9xYyyuPBE_0000004 215.1 222.1 

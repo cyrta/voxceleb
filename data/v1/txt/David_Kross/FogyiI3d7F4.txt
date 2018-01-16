@@ -1,0 +1,7 @@
+POI: 			David_Kross 
+Youtube ID: 	FogyiI3d7F4 
+Video length: 	96.2 sec 
+Set (V): 		dev 
+ 
+David_Kross/FogyiI3d7F4_0000001 15.4 19.8 
+David_Kross/FogyiI3d7F4_0000002 33.8 46.0 

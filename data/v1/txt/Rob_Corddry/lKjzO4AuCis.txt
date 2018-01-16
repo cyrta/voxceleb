@@ -1,0 +1,8 @@
+POI: 			Rob_Corddry 
+Youtube ID: 	lKjzO4AuCis 
+Video length: 	236.0 sec 
+Set (V): 		dev 
+ 
+Rob_Corddry/lKjzO4AuCis_0000001 21.0 34.2 
+Rob_Corddry/lKjzO4AuCis_0000002 173.3 197.0 
+Rob_Corddry/lKjzO4AuCis_0000003 213.1 218.2 

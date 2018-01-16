@@ -1,0 +1,13 @@
+POI: 			John_Oliver 
+Youtube ID: 	tNCaDHNSfW4 
+Video length: 	440.5 sec 
+Set (V): 		dev 
+ 
+John_Oliver/tNCaDHNSfW4_0000001 51.4 56.4 
+John_Oliver/tNCaDHNSfW4_0000002 106.3 111.2 
+John_Oliver/tNCaDHNSfW4_0000003 154.0 159.0 
+John_Oliver/tNCaDHNSfW4_0000004 199.1 210.0 
+John_Oliver/tNCaDHNSfW4_0000005 218.3 224.2 
+John_Oliver/tNCaDHNSfW4_0000006 257.9 268.2 
+John_Oliver/tNCaDHNSfW4_0000007 318.5 327.4 
+John_Oliver/tNCaDHNSfW4_0000008 328.6 333.0 

@@ -1,0 +1,9 @@
+POI: 			Sanaa_Lathan 
+Youtube ID: 	IkmVKsgdCSQ 
+Video length: 	189.4 sec 
+Set (V): 		dev 
+ 
+Sanaa_Lathan/IkmVKsgdCSQ_0000001 26.0 33.3 
+Sanaa_Lathan/IkmVKsgdCSQ_0000002 122.4 128.1 
+Sanaa_Lathan/IkmVKsgdCSQ_0000003 128.4 141.5 
+Sanaa_Lathan/IkmVKsgdCSQ_0000004 164.5 172.6 

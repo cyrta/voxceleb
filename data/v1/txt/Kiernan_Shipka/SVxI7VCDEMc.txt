@@ -1,0 +1,13 @@
+POI: 			Kiernan_Shipka 
+Youtube ID: 	SVxI7VCDEMc 
+Video length: 	151.7 sec 
+Set (V): 		dev 
+ 
+Kiernan_Shipka/SVxI7VCDEMc_0000001 09.4 13.6 
+Kiernan_Shipka/SVxI7VCDEMc_0000002 23.2 39.9 
+Kiernan_Shipka/SVxI7VCDEMc_0000003 42.4 46.4 
+Kiernan_Shipka/SVxI7VCDEMc_0000004 49.0 54.0 
+Kiernan_Shipka/SVxI7VCDEMc_0000005 58.1 65.6 
+Kiernan_Shipka/SVxI7VCDEMc_0000006 66.3 82.5 
+Kiernan_Shipka/SVxI7VCDEMc_0000007 93.0 97.5 
+Kiernan_Shipka/SVxI7VCDEMc_0000008 99.7 124.7 

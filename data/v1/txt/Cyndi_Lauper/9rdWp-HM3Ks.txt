@@ -1,0 +1,10 @@
+POI: 			Cyndi_Lauper 
+Youtube ID: 	9rdWp-HM3Ks 
+Video length: 	281.4 sec 
+Set (V): 		dev 
+ 
+Cyndi_Lauper/9rdWp-HM3Ks_0000001 02.7 07.5 
+Cyndi_Lauper/9rdWp-HM3Ks_0000002 70.3 75.7 
+Cyndi_Lauper/9rdWp-HM3Ks_0000003 106.5 125.6 
+Cyndi_Lauper/9rdWp-HM3Ks_0000004 177.2 184.0 
+Cyndi_Lauper/9rdWp-HM3Ks_0000005 233.5 239.3 

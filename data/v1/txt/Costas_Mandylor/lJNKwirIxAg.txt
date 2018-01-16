@@ -1,0 +1,21 @@
+POI: 			Costas_Mandylor 
+Youtube ID: 	lJNKwirIxAg 
+Video length: 	319.8 sec 
+Set (V): 		dev 
+ 
+Costas_Mandylor/lJNKwirIxAg_0000001 09.0 14.6 
+Costas_Mandylor/lJNKwirIxAg_0000002 21.1 30.4 
+Costas_Mandylor/lJNKwirIxAg_0000003 57.9 77.7 
+Costas_Mandylor/lJNKwirIxAg_0000004 78.4 88.2 
+Costas_Mandylor/lJNKwirIxAg_0000005 88.5 99.4 
+Costas_Mandylor/lJNKwirIxAg_0000006 127.4 136.4 
+Costas_Mandylor/lJNKwirIxAg_0000007 148.1 154.2 
+Costas_Mandylor/lJNKwirIxAg_0000008 165.5 170.3 
+Costas_Mandylor/lJNKwirIxAg_0000009 176.9 181.7 
+Costas_Mandylor/lJNKwirIxAg_0000010 192.7 196.8 
+Costas_Mandylor/lJNKwirIxAg_0000011 198.4 206.1 
+Costas_Mandylor/lJNKwirIxAg_0000012 206.8 212.2 
+Costas_Mandylor/lJNKwirIxAg_0000013 216.3 223.5 
+Costas_Mandylor/lJNKwirIxAg_0000014 258.0 263.5 
+Costas_Mandylor/lJNKwirIxAg_0000015 287.7 294.5 
+Costas_Mandylor/lJNKwirIxAg_0000016 300.3 307.3 

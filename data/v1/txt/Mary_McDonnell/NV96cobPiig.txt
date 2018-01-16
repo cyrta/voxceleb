@@ -1,0 +1,12 @@
+POI: 			Mary_McDonnell 
+Youtube ID: 	NV96cobPiig 
+Video length: 	1091.7 sec 
+Set (V): 		dev 
+ 
+Mary_McDonnell/NV96cobPiig_0000001 625.4 632.2 
+Mary_McDonnell/NV96cobPiig_0000002 632.8 638.4 
+Mary_McDonnell/NV96cobPiig_0000003 639.2 645.4 
+Mary_McDonnell/NV96cobPiig_0000004 686.2 694.5 
+Mary_McDonnell/NV96cobPiig_0000005 696.6 712.0 
+Mary_McDonnell/NV96cobPiig_0000006 712.1 719.6 
+Mary_McDonnell/NV96cobPiig_0000007 722.9 729.8 

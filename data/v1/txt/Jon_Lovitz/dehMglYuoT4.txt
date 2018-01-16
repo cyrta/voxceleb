@@ -1,0 +1,10 @@
+POI: 			Jon_Lovitz 
+Youtube ID: 	dehMglYuoT4 
+Video length: 	122.3 sec 
+Set (V): 		dev 
+ 
+Jon_Lovitz/dehMglYuoT4_0000001 18.6 43.2 
+Jon_Lovitz/dehMglYuoT4_0000002 50.7 63.0 
+Jon_Lovitz/dehMglYuoT4_0000003 69.2 79.7 
+Jon_Lovitz/dehMglYuoT4_0000004 88.0 97.6 
+Jon_Lovitz/dehMglYuoT4_0000005 106.6 120.8 

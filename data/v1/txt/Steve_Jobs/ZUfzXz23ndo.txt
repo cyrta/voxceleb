@@ -1,0 +1,19 @@
+POI: 			Steve_Jobs 
+Youtube ID: 	ZUfzXz23ndo 
+Video length: 	343.9 sec 
+Set (V): 		dev 
+ 
+Steve_Jobs/ZUfzXz23ndo_0000001 11.4 21.7 
+Steve_Jobs/ZUfzXz23ndo_0000002 25.2 35.6 
+Steve_Jobs/ZUfzXz23ndo_0000003 39.4 52.3 
+Steve_Jobs/ZUfzXz23ndo_0000004 61.3 73.5 
+Steve_Jobs/ZUfzXz23ndo_0000005 74.5 82.0 
+Steve_Jobs/ZUfzXz23ndo_0000006 82.8 89.3 
+Steve_Jobs/ZUfzXz23ndo_0000007 89.4 97.7 
+Steve_Jobs/ZUfzXz23ndo_0000008 98.4 111.4 
+Steve_Jobs/ZUfzXz23ndo_0000009 129.0 137.5 
+Steve_Jobs/ZUfzXz23ndo_0000010 138.2 149.2 
+Steve_Jobs/ZUfzXz23ndo_0000011 157.5 163.7 
+Steve_Jobs/ZUfzXz23ndo_0000012 218.9 223.6 
+Steve_Jobs/ZUfzXz23ndo_0000013 227.2 238.7 
+Steve_Jobs/ZUfzXz23ndo_0000014 293.0 297.9 

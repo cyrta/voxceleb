@@ -1,0 +1,17 @@
+POI: 			Randeep_Hooda 
+Youtube ID: 	RFfFOkaYMTU 
+Video length: 	315.1 sec 
+Set (V): 		dev 
+ 
+Randeep_Hooda/RFfFOkaYMTU_0000001 40.0 50.4 
+Randeep_Hooda/RFfFOkaYMTU_0000002 51.8 58.1 
+Randeep_Hooda/RFfFOkaYMTU_0000003 65.7 70.7 
+Randeep_Hooda/RFfFOkaYMTU_0000004 72.4 84.2 
+Randeep_Hooda/RFfFOkaYMTU_0000005 108.3 113.2 
+Randeep_Hooda/RFfFOkaYMTU_0000006 124.0 130.9 
+Randeep_Hooda/RFfFOkaYMTU_0000007 136.6 142.9 
+Randeep_Hooda/RFfFOkaYMTU_0000008 157.1 162.2 
+Randeep_Hooda/RFfFOkaYMTU_0000009 173.6 178.3 
+Randeep_Hooda/RFfFOkaYMTU_0000010 224.0 230.0 
+Randeep_Hooda/RFfFOkaYMTU_0000011 246.6 251.0 
+Randeep_Hooda/RFfFOkaYMTU_0000012 271.8 278.5 

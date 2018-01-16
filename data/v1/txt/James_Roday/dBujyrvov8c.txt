@@ -1,0 +1,10 @@
+POI: 			James_Roday 
+Youtube ID: 	dBujyrvov8c 
+Video length: 	284.8 sec 
+Set (V): 		dev 
+ 
+James_Roday/dBujyrvov8c_0000001 54.9 60.5 
+James_Roday/dBujyrvov8c_0000002 63.4 67.9 
+James_Roday/dBujyrvov8c_0000003 68.5 72.7 
+James_Roday/dBujyrvov8c_0000004 192.6 196.7 
+James_Roday/dBujyrvov8c_0000005 223.4 232.2 

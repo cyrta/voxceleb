@@ -1,0 +1,10 @@
+POI: 			Erik_Estrada 
+Youtube ID: 	f5eaTNf7-io 
+Video length: 	531.2 sec 
+Set (V): 		test 
+ 
+Erik_Estrada/f5eaTNf7-io_0000001 252.0 256.4 
+Erik_Estrada/f5eaTNf7-io_0000002 282.8 289.9 
+Erik_Estrada/f5eaTNf7-io_0000003 305.4 312.2 
+Erik_Estrada/f5eaTNf7-io_0000004 378.9 388.3 
+Erik_Estrada/f5eaTNf7-io_0000005 477.8 486.5 

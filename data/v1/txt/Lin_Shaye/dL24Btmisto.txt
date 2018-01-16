@@ -1,0 +1,8 @@
+POI: 			Lin_Shaye 
+Youtube ID: 	dL24Btmisto 
+Video length: 	333.5 sec 
+Set (V): 		dev 
+ 
+Lin_Shaye/dL24Btmisto_0000001 111.6 125.2 
+Lin_Shaye/dL24Btmisto_0000002 121.9 126.9 
+Lin_Shaye/dL24Btmisto_0000003 182.7 188.9 

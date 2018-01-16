@@ -1,0 +1,16 @@
+POI: 			Tom_Bergeron 
+Youtube ID: 	ZT8VRzK65iY 
+Video length: 	151.7 sec 
+Set (V): 		dev 
+ 
+Tom_Bergeron/ZT8VRzK65iY_0000001 08.3 14.2 
+Tom_Bergeron/ZT8VRzK65iY_0000002 17.5 35.8 
+Tom_Bergeron/ZT8VRzK65iY_0000003 38.4 46.2 
+Tom_Bergeron/ZT8VRzK65iY_0000004 50.8 62.6 
+Tom_Bergeron/ZT8VRzK65iY_0000005 64.0 75.7 
+Tom_Bergeron/ZT8VRzK65iY_0000006 79.9 87.9 
+Tom_Bergeron/ZT8VRzK65iY_0000007 94.4 116.4 
+Tom_Bergeron/ZT8VRzK65iY_0000008 116.4 122.5 
+Tom_Bergeron/ZT8VRzK65iY_0000009 123.2 130.3 
+Tom_Bergeron/ZT8VRzK65iY_0000010 131.4 137.0 
+Tom_Bergeron/ZT8VRzK65iY_0000011 137.8 142.0 

@@ -1,0 +1,8 @@
+POI: 			Kyle_Richards 
+Youtube ID: 	JqQCK_8taS8 
+Video length: 	306.9 sec 
+Set (V): 		dev 
+ 
+Kyle_Richards/JqQCK_8taS8_0000001 47.8 55.5 
+Kyle_Richards/JqQCK_8taS8_0000002 114.9 125.7 
+Kyle_Richards/JqQCK_8taS8_0000003 142.9 150.5 

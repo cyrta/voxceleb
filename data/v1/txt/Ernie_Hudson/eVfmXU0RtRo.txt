@@ -1,0 +1,13 @@
+POI: 			Ernie_Hudson 
+Youtube ID: 	eVfmXU0RtRo 
+Video length: 	400.5 sec 
+Set (V): 		test 
+ 
+Ernie_Hudson/eVfmXU0RtRo_0000001 51.6 56.1 
+Ernie_Hudson/eVfmXU0RtRo_0000002 61.9 66.2 
+Ernie_Hudson/eVfmXU0RtRo_0000003 71.3 76.5 
+Ernie_Hudson/eVfmXU0RtRo_0000004 138.6 142.6 
+Ernie_Hudson/eVfmXU0RtRo_0000005 184.1 190.7 
+Ernie_Hudson/eVfmXU0RtRo_0000006 217.2 223.4 
+Ernie_Hudson/eVfmXU0RtRo_0000007 333.8 338.1 
+Ernie_Hudson/eVfmXU0RtRo_0000008 355.6 361.0 

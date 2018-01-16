@@ -1,0 +1,9 @@
+POI: 			Tamsin_Greig 
+Youtube ID: 	sl6hC9Tt9iA 
+Video length: 	457.7 sec 
+Set (V): 		dev 
+ 
+Tamsin_Greig/sl6hC9Tt9iA_0000001 12.6 16.6 
+Tamsin_Greig/sl6hC9Tt9iA_0000002 47.1 51.4 
+Tamsin_Greig/sl6hC9Tt9iA_0000003 103.8 109.0 
+Tamsin_Greig/sl6hC9Tt9iA_0000004 151.2 158.0 

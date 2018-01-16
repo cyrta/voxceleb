@@ -1,0 +1,18 @@
+POI: 			Helena_Bonham_Carter 
+Youtube ID: 	I-hQFm_ezgA 
+Video length: 	255.6 sec 
+Set (V): 		dev 
+ 
+Helena_Bonham_Carter/I-hQFm_ezgA_0000001 53.0 60.1 
+Helena_Bonham_Carter/I-hQFm_ezgA_0000002 80.8 91.4 
+Helena_Bonham_Carter/I-hQFm_ezgA_0000003 91.6 96.4 
+Helena_Bonham_Carter/I-hQFm_ezgA_0000004 97.6 107.4 
+Helena_Bonham_Carter/I-hQFm_ezgA_0000005 135.4 148.2 
+Helena_Bonham_Carter/I-hQFm_ezgA_0000006 149.0 170.9 
+Helena_Bonham_Carter/I-hQFm_ezgA_0000007 173.7 181.2 
+Helena_Bonham_Carter/I-hQFm_ezgA_0000008 188.6 198.4 
+Helena_Bonham_Carter/I-hQFm_ezgA_0000009 204.9 215.0 
+Helena_Bonham_Carter/I-hQFm_ezgA_0000010 215.8 221.0 
+Helena_Bonham_Carter/I-hQFm_ezgA_0000011 228.5 232.4 
+Helena_Bonham_Carter/I-hQFm_ezgA_0000012 233.0 237.2 
+Helena_Bonham_Carter/I-hQFm_ezgA_0000013 237.8 243.1 

@@ -1,0 +1,11 @@
+POI: 			Timothy_Spall 
+Youtube ID: 	SvxGcZYYZ9g 
+Video length: 	144.3 sec 
+Set (V): 		dev 
+ 
+Timothy_Spall/SvxGcZYYZ9g_0000001 07.2 14.6 
+Timothy_Spall/SvxGcZYYZ9g_0000002 33.5 41.4 
+Timothy_Spall/SvxGcZYYZ9g_0000003 45.9 58.8 
+Timothy_Spall/SvxGcZYYZ9g_0000004 64.3 71.1 
+Timothy_Spall/SvxGcZYYZ9g_0000005 84.9 90.4 
+Timothy_Spall/SvxGcZYYZ9g_0000006 102.2 108.1 

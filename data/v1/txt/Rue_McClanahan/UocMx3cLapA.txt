@@ -1,0 +1,8 @@
+POI: 			Rue_McClanahan 
+Youtube ID: 	UocMx3cLapA 
+Video length: 	308.1 sec 
+Set (V): 		dev 
+ 
+Rue_McClanahan/UocMx3cLapA_0000001 228.0 233.4 
+Rue_McClanahan/UocMx3cLapA_0000002 251.4 258.6 
+Rue_McClanahan/UocMx3cLapA_0000003 292.3 297.6 

@@ -1,0 +1,7 @@
+POI: 			Kelly_Monaco 
+Youtube ID: 	MTUCTBcZwOs 
+Video length: 	408.4 sec 
+Set (V): 		dev 
+ 
+Kelly_Monaco/MTUCTBcZwOs_0000001 140.9 153.2 
+Kelly_Monaco/MTUCTBcZwOs_0000002 240.7 248.2 

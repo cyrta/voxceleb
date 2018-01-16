@@ -1,0 +1,10 @@
+POI: 			Gilles_Marini 
+Youtube ID: 	gdS156IsqgE 
+Video length: 	356.9 sec 
+Set (V): 		dev 
+ 
+Gilles_Marini/gdS156IsqgE_0000001 08.0 12.2 
+Gilles_Marini/gdS156IsqgE_0000002 59.4 65.4 
+Gilles_Marini/gdS156IsqgE_0000003 225.0 230.0 
+Gilles_Marini/gdS156IsqgE_0000004 230.4 236.1 
+Gilles_Marini/gdS156IsqgE_0000005 236.6 240.6 

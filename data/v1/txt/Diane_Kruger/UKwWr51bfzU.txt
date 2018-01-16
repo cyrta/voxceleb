@@ -1,0 +1,13 @@
+POI: 			Diane_Kruger 
+Youtube ID: 	UKwWr51bfzU 
+Video length: 	317.8 sec 
+Set (V): 		dev 
+ 
+Diane_Kruger/UKwWr51bfzU_0000001 78.6 82.8 
+Diane_Kruger/UKwWr51bfzU_0000002 83.7 94.0 
+Diane_Kruger/UKwWr51bfzU_0000003 101.0 112.6 
+Diane_Kruger/UKwWr51bfzU_0000004 113.2 131.2 
+Diane_Kruger/UKwWr51bfzU_0000005 132.1 136.4 
+Diane_Kruger/UKwWr51bfzU_0000006 206.0 211.7 
+Diane_Kruger/UKwWr51bfzU_0000007 212.3 217.9 
+Diane_Kruger/UKwWr51bfzU_0000008 258.4 268.3 

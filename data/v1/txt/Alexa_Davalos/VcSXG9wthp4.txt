@@ -1,0 +1,8 @@
+POI: 			Alexa_Davalos 
+Youtube ID: 	VcSXG9wthp4 
+Video length: 	158.4 sec 
+Set (V): 		dev 
+ 
+Alexa_Davalos/VcSXG9wthp4_0000001 12.2 17.0 
+Alexa_Davalos/VcSXG9wthp4_0000002 17.1 22.2 
+Alexa_Davalos/VcSXG9wthp4_0000003 100.9 110.0 

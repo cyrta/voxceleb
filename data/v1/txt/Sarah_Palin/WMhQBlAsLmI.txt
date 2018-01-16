@@ -1,0 +1,12 @@
+POI: 			Sarah_Palin 
+Youtube ID: 	WMhQBlAsLmI 
+Video length: 	338.9 sec 
+Set (V): 		dev 
+ 
+Sarah_Palin/WMhQBlAsLmI_0000001 74.0 79.2 
+Sarah_Palin/WMhQBlAsLmI_0000002 79.6 87.3 
+Sarah_Palin/WMhQBlAsLmI_0000003 120.6 125.0 
+Sarah_Palin/WMhQBlAsLmI_0000004 182.3 189.0 
+Sarah_Palin/WMhQBlAsLmI_0000005 199.4 205.5 
+Sarah_Palin/WMhQBlAsLmI_0000006 227.5 232.4 
+Sarah_Palin/WMhQBlAsLmI_0000007 234.4 238.9 

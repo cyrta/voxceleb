@@ -1,0 +1,8 @@
+POI: 			Lolo_Jones 
+Youtube ID: 	wushuJ3tfag 
+Video length: 	105.6 sec 
+Set (V): 		dev 
+ 
+Lolo_Jones/wushuJ3tfag_0000001 17.6 22.0 
+Lolo_Jones/wushuJ3tfag_0000002 67.1 74.3 
+Lolo_Jones/wushuJ3tfag_0000003 90.1 98.2 

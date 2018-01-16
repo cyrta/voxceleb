@@ -1,0 +1,7 @@
+POI: 			Molly_Ringwald 
+Youtube ID: 	WTxtPOS8Bi0 
+Video length: 	97.3 sec 
+Set (V): 		dev 
+ 
+Molly_Ringwald/WTxtPOS8Bi0_0000001 11.8 25.0 
+Molly_Ringwald/WTxtPOS8Bi0_0000002 79.2 89.3 

@@ -1,0 +1,9 @@
+POI: 			John_Mulaney 
+Youtube ID: 	TxlwLr4b4E0 
+Video length: 	543.0 sec 
+Set (V): 		dev 
+ 
+John_Mulaney/TxlwLr4b4E0_0000001 284.5 295.0 
+John_Mulaney/TxlwLr4b4E0_0000002 295.1 302.6 
+John_Mulaney/TxlwLr4b4E0_0000003 482.9 493.0 
+John_Mulaney/TxlwLr4b4E0_0000004 515.2 519.6 

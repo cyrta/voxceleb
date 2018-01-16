@@ -1,0 +1,16 @@
+POI: 			Patrick_Dempsey 
+Youtube ID: 	Diyrk9giFvU 
+Video length: 	194.3 sec 
+Set (V): 		dev 
+ 
+Patrick_Dempsey/Diyrk9giFvU_0000001 12.6 17.2 
+Patrick_Dempsey/Diyrk9giFvU_0000002 18.0 22.5 
+Patrick_Dempsey/Diyrk9giFvU_0000003 46.2 51.1 
+Patrick_Dempsey/Diyrk9giFvU_0000004 62.5 66.9 
+Patrick_Dempsey/Diyrk9giFvU_0000005 67.9 73.5 
+Patrick_Dempsey/Diyrk9giFvU_0000006 90.8 95.7 
+Patrick_Dempsey/Diyrk9giFvU_0000007 101.4 106.6 
+Patrick_Dempsey/Diyrk9giFvU_0000008 110.6 114.6 
+Patrick_Dempsey/Diyrk9giFvU_0000009 123.3 129.3 
+Patrick_Dempsey/Diyrk9giFvU_0000010 160.4 165.2 
+Patrick_Dempsey/Diyrk9giFvU_0000011 167.8 173.0 

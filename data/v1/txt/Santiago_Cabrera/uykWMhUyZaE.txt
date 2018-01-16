@@ -1,0 +1,8 @@
+POI: 			Santiago_Cabrera 
+Youtube ID: 	uykWMhUyZaE 
+Video length: 	114.4 sec 
+Set (V): 		dev 
+ 
+Santiago_Cabrera/uykWMhUyZaE_0000001 14.2 20.9 
+Santiago_Cabrera/uykWMhUyZaE_0000002 21.6 31.7 
+Santiago_Cabrera/uykWMhUyZaE_0000003 40.1 49.6 

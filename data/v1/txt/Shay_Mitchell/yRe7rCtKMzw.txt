@@ -1,0 +1,8 @@
+POI: 			Shay_Mitchell 
+Youtube ID: 	yRe7rCtKMzw 
+Video length: 	208.6 sec 
+Set (V): 		dev 
+ 
+Shay_Mitchell/yRe7rCtKMzw_0000001 12.2 19.0 
+Shay_Mitchell/yRe7rCtKMzw_0000002 37.8 42.7 
+Shay_Mitchell/yRe7rCtKMzw_0000003 50.5 62.4 

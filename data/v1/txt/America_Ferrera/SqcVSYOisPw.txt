@@ -1,0 +1,12 @@
+POI: 			America_Ferrera 
+Youtube ID: 	SqcVSYOisPw 
+Video length: 	174.4 sec 
+Set (V): 		dev 
+ 
+America_Ferrera/SqcVSYOisPw_0000001 29.2 41.6 
+America_Ferrera/SqcVSYOisPw_0000002 41.8 50.4 
+America_Ferrera/SqcVSYOisPw_0000003 50.8 60.8 
+America_Ferrera/SqcVSYOisPw_0000004 77.3 84.6 
+America_Ferrera/SqcVSYOisPw_0000005 85.5 94.3 
+America_Ferrera/SqcVSYOisPw_0000006 129.6 138.1 
+America_Ferrera/SqcVSYOisPw_0000007 152.8 163.0 

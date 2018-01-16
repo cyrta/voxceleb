@@ -1,0 +1,8 @@
+POI: 			Meat_Loaf 
+Youtube ID: 	tILCcSbNRDA 
+Video length: 	218.0 sec 
+Set (V): 		dev 
+ 
+Meat_Loaf/tILCcSbNRDA_0000001 115.0 123.0 
+Meat_Loaf/tILCcSbNRDA_0000002 129.1 135.9 
+Meat_Loaf/tILCcSbNRDA_0000003 148.6 152.7 

@@ -1,0 +1,13 @@
+POI: 			Quentin_Tarantino 
+Youtube ID: 	sdD56lUasP8 
+Video length: 	394.4 sec 
+Set (V): 		dev 
+ 
+Quentin_Tarantino/sdD56lUasP8_0000001 96.6 100.8 
+Quentin_Tarantino/sdD56lUasP8_0000002 186.0 190.3 
+Quentin_Tarantino/sdD56lUasP8_0000003 212.0 217.9 
+Quentin_Tarantino/sdD56lUasP8_0000004 231.7 238.0 
+Quentin_Tarantino/sdD56lUasP8_0000005 252.3 263.2 
+Quentin_Tarantino/sdD56lUasP8_0000006 274.3 288.8 
+Quentin_Tarantino/sdD56lUasP8_0000007 301.0 309.9 
+Quentin_Tarantino/sdD56lUasP8_0000008 312.0 316.8 

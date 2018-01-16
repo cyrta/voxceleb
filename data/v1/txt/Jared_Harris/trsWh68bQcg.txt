@@ -1,0 +1,11 @@
+POI: 			Jared_Harris 
+Youtube ID: 	trsWh68bQcg 
+Video length: 	135.2 sec 
+Set (V): 		dev 
+ 
+Jared_Harris/trsWh68bQcg_0000001 19.1 29.2 
+Jared_Harris/trsWh68bQcg_0000002 35.0 45.0 
+Jared_Harris/trsWh68bQcg_0000003 46.0 53.6 
+Jared_Harris/trsWh68bQcg_0000004 76.4 83.6 
+Jared_Harris/trsWh68bQcg_0000005 93.6 98.9 
+Jared_Harris/trsWh68bQcg_0000006 106.6 126.0 

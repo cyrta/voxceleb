@@ -1,0 +1,8 @@
+POI: 			Constance_Zimmer 
+Youtube ID: 	kVr7T2shuOQ 
+Video length: 	308.2 sec 
+Set (V): 		dev 
+ 
+Constance_Zimmer/kVr7T2shuOQ_0000001 85.5 101.4 
+Constance_Zimmer/kVr7T2shuOQ_0000002 101.8 107.7 
+Constance_Zimmer/kVr7T2shuOQ_0000003 176.1 197.5 

@@ -1,0 +1,14 @@
+POI: 			Richard_Hammond 
+Youtube ID: 	U2Zp0G9vNpA 
+Video length: 	595.2 sec 
+Set (V): 		dev 
+ 
+Richard_Hammond/U2Zp0G9vNpA_0000001 106.8 111.1 
+Richard_Hammond/U2Zp0G9vNpA_0000002 175.3 179.4 
+Richard_Hammond/U2Zp0G9vNpA_0000003 208.2 212.2 
+Richard_Hammond/U2Zp0G9vNpA_0000004 259.9 264.1 
+Richard_Hammond/U2Zp0G9vNpA_0000005 275.7 281.4 
+Richard_Hammond/U2Zp0G9vNpA_0000006 360.0 367.2 
+Richard_Hammond/U2Zp0G9vNpA_0000007 379.3 385.3 
+Richard_Hammond/U2Zp0G9vNpA_0000008 467.3 472.1 
+Richard_Hammond/U2Zp0G9vNpA_0000009 493.8 503.7 

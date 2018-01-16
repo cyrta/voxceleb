@@ -1,0 +1,18 @@
+POI: 			Sarah_Hyland 
+Youtube ID: 	FnupGfROpWw 
+Video length: 	260.7 sec 
+Set (V): 		dev 
+ 
+Sarah_Hyland/FnupGfROpWw_0000001 37.8 42.2 
+Sarah_Hyland/FnupGfROpWw_0000002 50.5 54.7 
+Sarah_Hyland/FnupGfROpWw_0000003 55.0 59.5 
+Sarah_Hyland/FnupGfROpWw_0000004 63.3 68.0 
+Sarah_Hyland/FnupGfROpWw_0000005 81.4 88.6 
+Sarah_Hyland/FnupGfROpWw_0000006 109.4 118.8 
+Sarah_Hyland/FnupGfROpWw_0000007 135.4 139.4 
+Sarah_Hyland/FnupGfROpWw_0000008 149.5 161.6 
+Sarah_Hyland/FnupGfROpWw_0000009 161.7 166.2 
+Sarah_Hyland/FnupGfROpWw_0000010 184.8 193.8 
+Sarah_Hyland/FnupGfROpWw_0000011 194.9 208.3 
+Sarah_Hyland/FnupGfROpWw_0000012 214.4 218.5 
+Sarah_Hyland/FnupGfROpWw_0000013 227.9 236.1 

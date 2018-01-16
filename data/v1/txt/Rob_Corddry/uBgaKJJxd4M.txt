@@ -1,0 +1,11 @@
+POI: 			Rob_Corddry 
+Youtube ID: 	uBgaKJJxd4M 
+Video length: 	201.2 sec 
+Set (V): 		dev 
+ 
+Rob_Corddry/uBgaKJJxd4M_0000001 16.4 31.5 
+Rob_Corddry/uBgaKJJxd4M_0000002 33.6 37.6 
+Rob_Corddry/uBgaKJJxd4M_0000003 57.5 81.6 
+Rob_Corddry/uBgaKJJxd4M_0000004 84.4 92.6 
+Rob_Corddry/uBgaKJJxd4M_0000005 160.9 165.4 
+Rob_Corddry/uBgaKJJxd4M_0000006 177.5 186.4 

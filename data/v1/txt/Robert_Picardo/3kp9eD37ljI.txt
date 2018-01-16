@@ -1,0 +1,15 @@
+POI: 			Robert_Picardo 
+Youtube ID: 	3kp9eD37ljI 
+Video length: 	599.4 sec 
+Set (V): 		dev 
+ 
+Robert_Picardo/3kp9eD37ljI_0000001 55.6 61.8 
+Robert_Picardo/3kp9eD37ljI_0000002 62.2 67.8 
+Robert_Picardo/3kp9eD37ljI_0000003 137.5 145.3 
+Robert_Picardo/3kp9eD37ljI_0000004 147.9 153.6 
+Robert_Picardo/3kp9eD37ljI_0000005 216.8 222.9 
+Robert_Picardo/3kp9eD37ljI_0000006 223.1 227.7 
+Robert_Picardo/3kp9eD37ljI_0000007 354.7 358.8 
+Robert_Picardo/3kp9eD37ljI_0000008 506.5 510.5 
+Robert_Picardo/3kp9eD37ljI_0000009 527.1 531.4 
+Robert_Picardo/3kp9eD37ljI_0000010 545.4 550.6 

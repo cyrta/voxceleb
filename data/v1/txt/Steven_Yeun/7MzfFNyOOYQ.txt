@@ -1,0 +1,7 @@
+POI: 			Steven_Yeun 
+Youtube ID: 	7MzfFNyOOYQ 
+Video length: 	114.2 sec 
+Set (V): 		dev 
+ 
+Steven_Yeun/7MzfFNyOOYQ_0000001 94.7 99.2 
+Steven_Yeun/7MzfFNyOOYQ_0000002 99.2 104.3 

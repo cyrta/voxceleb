@@ -1,0 +1,15 @@
+POI: 			Paul_Reubens 
+Youtube ID: 	Dh_X9eY78eM 
+Video length: 	276.5 sec 
+Set (V): 		dev 
+ 
+Paul_Reubens/Dh_X9eY78eM_0000001 46.4 50.8 
+Paul_Reubens/Dh_X9eY78eM_0000002 51.8 59.3 
+Paul_Reubens/Dh_X9eY78eM_0000003 68.2 73.4 
+Paul_Reubens/Dh_X9eY78eM_0000004 82.6 89.2 
+Paul_Reubens/Dh_X9eY78eM_0000005 96.2 100.5 
+Paul_Reubens/Dh_X9eY78eM_0000006 138.1 152.2 
+Paul_Reubens/Dh_X9eY78eM_0000007 199.8 207.3 
+Paul_Reubens/Dh_X9eY78eM_0000008 214.1 219.7 
+Paul_Reubens/Dh_X9eY78eM_0000009 231.2 235.2 
+Paul_Reubens/Dh_X9eY78eM_0000010 236.0 242.5 

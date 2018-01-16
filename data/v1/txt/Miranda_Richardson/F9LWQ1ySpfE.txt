@@ -1,0 +1,20 @@
+POI: 			Miranda_Richardson 
+Youtube ID: 	F9LWQ1ySpfE 
+Video length: 	259.9 sec 
+Set (V): 		dev 
+ 
+Miranda_Richardson/F9LWQ1ySpfE_0000001 19.2 32.1 
+Miranda_Richardson/F9LWQ1ySpfE_0000002 38.7 46.4 
+Miranda_Richardson/F9LWQ1ySpfE_0000003 49.4 54.8 
+Miranda_Richardson/F9LWQ1ySpfE_0000004 54.9 60.2 
+Miranda_Richardson/F9LWQ1ySpfE_0000005 60.3 65.3 
+Miranda_Richardson/F9LWQ1ySpfE_0000006 76.6 91.2 
+Miranda_Richardson/F9LWQ1ySpfE_0000007 91.6 100.0 
+Miranda_Richardson/F9LWQ1ySpfE_0000008 149.4 157.4 
+Miranda_Richardson/F9LWQ1ySpfE_0000009 159.1 165.2 
+Miranda_Richardson/F9LWQ1ySpfE_0000010 172.9 181.8 
+Miranda_Richardson/F9LWQ1ySpfE_0000011 183.9 187.8 
+Miranda_Richardson/F9LWQ1ySpfE_0000012 188.0 196.5 
+Miranda_Richardson/F9LWQ1ySpfE_0000013 201.8 208.2 
+Miranda_Richardson/F9LWQ1ySpfE_0000014 219.0 224.6 
+Miranda_Richardson/F9LWQ1ySpfE_0000015 225.1 240.7 

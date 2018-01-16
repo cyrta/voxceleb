@@ -1,0 +1,14 @@
+POI: 			Jasmine_Guy 
+Youtube ID: 	OkWqjNT8t-s 
+Video length: 	900.1 sec 
+Set (V): 		dev 
+ 
+Jasmine_Guy/OkWqjNT8t-s_0000001 144.8 158.6 
+Jasmine_Guy/OkWqjNT8t-s_0000002 159.4 163.7 
+Jasmine_Guy/OkWqjNT8t-s_0000003 274.8 284.6 
+Jasmine_Guy/OkWqjNT8t-s_0000004 386.3 391.8 
+Jasmine_Guy/OkWqjNT8t-s_0000005 480.7 486.7 
+Jasmine_Guy/OkWqjNT8t-s_0000006 774.6 780.0 
+Jasmine_Guy/OkWqjNT8t-s_0000007 795.3 799.8 
+Jasmine_Guy/OkWqjNT8t-s_0000008 868.5 872.6 
+Jasmine_Guy/OkWqjNT8t-s_0000009 873.5 878.0 

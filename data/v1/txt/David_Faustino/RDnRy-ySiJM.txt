@@ -1,0 +1,8 @@
+POI: 			David_Faustino 
+Youtube ID: 	RDnRy-ySiJM 
+Video length: 	89.9 sec 
+Set (V): 		dev 
+ 
+David_Faustino/RDnRy-ySiJM_0000001 11.9 16.0 
+David_Faustino/RDnRy-ySiJM_0000002 46.2 58.6 
+David_Faustino/RDnRy-ySiJM_0000003 66.8 81.8 

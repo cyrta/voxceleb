@@ -1,0 +1,22 @@
+POI: 			Vince_Gilligan 
+Youtube ID: 	FCbXoQyj_rc 
+Video length: 	656.6 sec 
+Set (V): 		dev 
+ 
+Vince_Gilligan/FCbXoQyj_rc_0000001 51.4 58.2 
+Vince_Gilligan/FCbXoQyj_rc_0000002 71.0 75.2 
+Vince_Gilligan/FCbXoQyj_rc_0000003 173.4 180.9 
+Vince_Gilligan/FCbXoQyj_rc_0000004 181.8 186.6 
+Vince_Gilligan/FCbXoQyj_rc_0000005 186.8 191.8 
+Vince_Gilligan/FCbXoQyj_rc_0000006 193.3 197.7 
+Vince_Gilligan/FCbXoQyj_rc_0000007 197.8 203.0 
+Vince_Gilligan/FCbXoQyj_rc_0000008 197.9 205.2 
+Vince_Gilligan/FCbXoQyj_rc_0000009 245.3 249.8 
+Vince_Gilligan/FCbXoQyj_rc_0000010 350.7 355.1 
+Vince_Gilligan/FCbXoQyj_rc_0000011 362.6 367.9 
+Vince_Gilligan/FCbXoQyj_rc_0000012 531.0 539.6 
+Vince_Gilligan/FCbXoQyj_rc_0000013 558.1 566.0 
+Vince_Gilligan/FCbXoQyj_rc_0000014 568.9 576.1 
+Vince_Gilligan/FCbXoQyj_rc_0000015 568.9 576.0 
+Vince_Gilligan/FCbXoQyj_rc_0000016 579.0 586.6 
+Vince_Gilligan/FCbXoQyj_rc_0000017 587.6 592.8 

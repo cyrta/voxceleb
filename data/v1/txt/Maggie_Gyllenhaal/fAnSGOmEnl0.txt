@@ -1,0 +1,15 @@
+POI: 			Maggie_Gyllenhaal 
+Youtube ID: 	fAnSGOmEnl0 
+Video length: 	239.7 sec 
+Set (V): 		dev 
+ 
+Maggie_Gyllenhaal/fAnSGOmEnl0_0000001 28.6 34.4 
+Maggie_Gyllenhaal/fAnSGOmEnl0_0000002 49.9 58.0 
+Maggie_Gyllenhaal/fAnSGOmEnl0_0000003 58.8 69.1 
+Maggie_Gyllenhaal/fAnSGOmEnl0_0000004 76.0 81.0 
+Maggie_Gyllenhaal/fAnSGOmEnl0_0000005 95.6 105.1 
+Maggie_Gyllenhaal/fAnSGOmEnl0_0000006 109.2 116.6 
+Maggie_Gyllenhaal/fAnSGOmEnl0_0000007 136.0 146.5 
+Maggie_Gyllenhaal/fAnSGOmEnl0_0000008 172.4 181.5 
+Maggie_Gyllenhaal/fAnSGOmEnl0_0000009 182.3 188.0 
+Maggie_Gyllenhaal/fAnSGOmEnl0_0000010 204.6 215.4 

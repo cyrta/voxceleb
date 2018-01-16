@@ -1,0 +1,9 @@
+POI: 			Tom_Ford 
+Youtube ID: 	pmwaRpxCe_k 
+Video length: 	162.7 sec 
+Set (V): 		dev 
+ 
+Tom_Ford/pmwaRpxCe_k_0000001 21.2 30.5 
+Tom_Ford/pmwaRpxCe_k_0000002 32.7 41.4 
+Tom_Ford/pmwaRpxCe_k_0000003 75.2 83.3 
+Tom_Ford/pmwaRpxCe_k_0000004 86.6 95.1 

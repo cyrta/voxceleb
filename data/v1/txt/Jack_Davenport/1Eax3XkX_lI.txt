@@ -1,0 +1,24 @@
+POI: 			Jack_Davenport 
+Youtube ID: 	1Eax3XkX_lI 
+Video length: 	346.3 sec 
+Set (V): 		dev 
+ 
+Jack_Davenport/1Eax3XkX_lI_0000001 29.6 37.1 
+Jack_Davenport/1Eax3XkX_lI_0000002 38.0 44.8 
+Jack_Davenport/1Eax3XkX_lI_0000003 57.5 65.9 
+Jack_Davenport/1Eax3XkX_lI_0000004 68.3 84.0 
+Jack_Davenport/1Eax3XkX_lI_0000005 85.9 100.7 
+Jack_Davenport/1Eax3XkX_lI_0000006 117.5 122.8 
+Jack_Davenport/1Eax3XkX_lI_0000007 123.6 142.6 
+Jack_Davenport/1Eax3XkX_lI_0000008 143.6 157.3 
+Jack_Davenport/1Eax3XkX_lI_0000009 176.5 192.9 
+Jack_Davenport/1Eax3XkX_lI_0000010 204.2 208.9 
+Jack_Davenport/1Eax3XkX_lI_0000011 214.2 218.8 
+Jack_Davenport/1Eax3XkX_lI_0000012 220.2 224.5 
+Jack_Davenport/1Eax3XkX_lI_0000013 224.8 240.0 
+Jack_Davenport/1Eax3XkX_lI_0000014 241.5 249.4 
+Jack_Davenport/1Eax3XkX_lI_0000015 266.7 275.1 
+Jack_Davenport/1Eax3XkX_lI_0000016 276.5 281.6 
+Jack_Davenport/1Eax3XkX_lI_0000017 299.1 306.2 
+Jack_Davenport/1Eax3XkX_lI_0000018 307.0 312.0 
+Jack_Davenport/1Eax3XkX_lI_0000019 313.7 338.7 

@@ -1,0 +1,9 @@
+POI: 			Zachary_Quinto 
+Youtube ID: 	UgnkM5giZpI 
+Video length: 	127.7 sec 
+Set (V): 		dev 
+ 
+Zachary_Quinto/UgnkM5giZpI_0000001 61.9 66.8 
+Zachary_Quinto/UgnkM5giZpI_0000002 68.1 77.9 
+Zachary_Quinto/UgnkM5giZpI_0000003 78.2 93.5 
+Zachary_Quinto/UgnkM5giZpI_0000004 95.3 115.3 

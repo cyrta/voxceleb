@@ -1,0 +1,13 @@
+POI: 			Scott_Speedman 
+Youtube ID: 	21amojCsTJ8 
+Video length: 	297.5 sec 
+Set (V): 		dev 
+ 
+Scott_Speedman/21amojCsTJ8_0000001 19.6 25.9 
+Scott_Speedman/21amojCsTJ8_0000002 74.4 85.4 
+Scott_Speedman/21amojCsTJ8_0000003 106.6 118.2 
+Scott_Speedman/21amojCsTJ8_0000004 138.0 142.2 
+Scott_Speedman/21amojCsTJ8_0000005 219.2 223.8 
+Scott_Speedman/21amojCsTJ8_0000006 251.6 257.6 
+Scott_Speedman/21amojCsTJ8_0000007 262.2 269.1 
+Scott_Speedman/21amojCsTJ8_0000008 273.4 288.0 

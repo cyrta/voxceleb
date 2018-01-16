@@ -1,0 +1,16 @@
+POI: 			Olivia_Wilde 
+Youtube ID: 	RMnf2LXGjQg 
+Video length: 	321.8 sec 
+Set (V): 		dev 
+ 
+Olivia_Wilde/RMnf2LXGjQg_0000001 21.6 32.9 
+Olivia_Wilde/RMnf2LXGjQg_0000002 75.8 79.9 
+Olivia_Wilde/RMnf2LXGjQg_0000003 100.1 104.0 
+Olivia_Wilde/RMnf2LXGjQg_0000004 119.7 133.9 
+Olivia_Wilde/RMnf2LXGjQg_0000005 143.0 147.2 
+Olivia_Wilde/RMnf2LXGjQg_0000006 207.2 213.3 
+Olivia_Wilde/RMnf2LXGjQg_0000007 216.9 224.4 
+Olivia_Wilde/RMnf2LXGjQg_0000008 242.1 261.4 
+Olivia_Wilde/RMnf2LXGjQg_0000009 255.2 261.5 
+Olivia_Wilde/RMnf2LXGjQg_0000010 274.2 285.6 
+Olivia_Wilde/RMnf2LXGjQg_0000011 294.7 301.3 

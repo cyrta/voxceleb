@@ -1,0 +1,10 @@
+POI: 			Terrence_Howard 
+Youtube ID: 	x9LPCMsUS-g 
+Video length: 	191.0 sec 
+Set (V): 		dev 
+ 
+Terrence_Howard/x9LPCMsUS-g_0000001 15.4 22.1 
+Terrence_Howard/x9LPCMsUS-g_0000002 43.8 48.4 
+Terrence_Howard/x9LPCMsUS-g_0000003 76.2 99.3 
+Terrence_Howard/x9LPCMsUS-g_0000004 107.3 131.1 
+Terrence_Howard/x9LPCMsUS-g_0000005 150.0 162.6 

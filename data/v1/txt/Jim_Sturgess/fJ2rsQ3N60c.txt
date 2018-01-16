@@ -1,0 +1,15 @@
+POI: 			Jim_Sturgess 
+Youtube ID: 	fJ2rsQ3N60c 
+Video length: 	410.5 sec 
+Set (V): 		dev 
+ 
+Jim_Sturgess/fJ2rsQ3N60c_0000001 23.0 27.1 
+Jim_Sturgess/fJ2rsQ3N60c_0000002 28.1 37.2 
+Jim_Sturgess/fJ2rsQ3N60c_0000003 70.8 75.2 
+Jim_Sturgess/fJ2rsQ3N60c_0000004 113.2 117.6 
+Jim_Sturgess/fJ2rsQ3N60c_0000005 219.5 224.0 
+Jim_Sturgess/fJ2rsQ3N60c_0000006 255.5 263.2 
+Jim_Sturgess/fJ2rsQ3N60c_0000007 270.0 275.1 
+Jim_Sturgess/fJ2rsQ3N60c_0000008 295.1 299.2 
+Jim_Sturgess/fJ2rsQ3N60c_0000009 360.5 365.0 
+Jim_Sturgess/fJ2rsQ3N60c_0000010 376.8 384.3 

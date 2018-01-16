@@ -1,0 +1,8 @@
+POI: 			Greta_Gerwig 
+Youtube ID: 	Qx6P0UIUxtU 
+Video length: 	127.4 sec 
+Set (V): 		dev 
+ 
+Greta_Gerwig/Qx6P0UIUxtU_0000001 40.4 45.2 
+Greta_Gerwig/Qx6P0UIUxtU_0000002 46.4 57.5 
+Greta_Gerwig/Qx6P0UIUxtU_0000003 57.9 64.3 

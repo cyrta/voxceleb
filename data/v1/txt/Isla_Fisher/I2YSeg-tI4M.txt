@@ -1,0 +1,9 @@
+POI: 			Isla_Fisher 
+Youtube ID: 	I2YSeg-tI4M 
+Video length: 	246.2 sec 
+Set (V): 		dev 
+ 
+Isla_Fisher/I2YSeg-tI4M_0000001 119.2 124.0 
+Isla_Fisher/I2YSeg-tI4M_0000002 143.7 160.3 
+Isla_Fisher/I2YSeg-tI4M_0000003 178.4 185.2 
+Isla_Fisher/I2YSeg-tI4M_0000004 217.8 223.5 

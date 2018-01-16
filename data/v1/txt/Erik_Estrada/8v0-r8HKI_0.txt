@@ -1,0 +1,9 @@
+POI: 			Erik_Estrada 
+Youtube ID: 	8v0-r8HKI_0 
+Video length: 	219.2 sec 
+Set (V): 		test 
+ 
+Erik_Estrada/8v0-r8HKI_0_0000001 85.6 92.5 
+Erik_Estrada/8v0-r8HKI_0_0000002 117.3 127.8 
+Erik_Estrada/8v0-r8HKI_0_0000003 183.7 188.3 
+Erik_Estrada/8v0-r8HKI_0_0000004 195.0 199.2 

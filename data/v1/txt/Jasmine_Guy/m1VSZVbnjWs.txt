@@ -1,0 +1,35 @@
+POI: 			Jasmine_Guy 
+Youtube ID: 	m1VSZVbnjWs 
+Video length: 	694.5 sec 
+Set (V): 		dev 
+ 
+Jasmine_Guy/m1VSZVbnjWs_0000001 00.9 12.8 
+Jasmine_Guy/m1VSZVbnjWs_0000002 14.4 21.6 
+Jasmine_Guy/m1VSZVbnjWs_0000003 23.0 29.6 
+Jasmine_Guy/m1VSZVbnjWs_0000004 14.4 22.4 
+Jasmine_Guy/m1VSZVbnjWs_0000005 37.0 41.1 
+Jasmine_Guy/m1VSZVbnjWs_0000006 43.1 50.0 
+Jasmine_Guy/m1VSZVbnjWs_0000007 55.3 64.2 
+Jasmine_Guy/m1VSZVbnjWs_0000008 66.2 76.0 
+Jasmine_Guy/m1VSZVbnjWs_0000009 76.8 99.0 
+Jasmine_Guy/m1VSZVbnjWs_0000010 110.8 117.0 
+Jasmine_Guy/m1VSZVbnjWs_0000011 153.3 158.9 
+Jasmine_Guy/m1VSZVbnjWs_0000012 159.2 167.8 
+Jasmine_Guy/m1VSZVbnjWs_0000013 168.2 176.1 
+Jasmine_Guy/m1VSZVbnjWs_0000014 178.9 191.5 
+Jasmine_Guy/m1VSZVbnjWs_0000015 196.9 207.4 
+Jasmine_Guy/m1VSZVbnjWs_0000016 210.2 214.6 
+Jasmine_Guy/m1VSZVbnjWs_0000017 214.8 230.6 
+Jasmine_Guy/m1VSZVbnjWs_0000018 230.8 236.2 
+Jasmine_Guy/m1VSZVbnjWs_0000019 302.3 312.2 
+Jasmine_Guy/m1VSZVbnjWs_0000020 322.6 329.1 
+Jasmine_Guy/m1VSZVbnjWs_0000021 366.7 373.2 
+Jasmine_Guy/m1VSZVbnjWs_0000022 379.8 384.0 
+Jasmine_Guy/m1VSZVbnjWs_0000023 397.5 402.5 
+Jasmine_Guy/m1VSZVbnjWs_0000024 403.5 410.6 
+Jasmine_Guy/m1VSZVbnjWs_0000025 411.0 422.8 
+Jasmine_Guy/m1VSZVbnjWs_0000026 453.2 458.1 
+Jasmine_Guy/m1VSZVbnjWs_0000027 555.1 566.8 
+Jasmine_Guy/m1VSZVbnjWs_0000028 573.6 582.4 
+Jasmine_Guy/m1VSZVbnjWs_0000029 583.1 588.6 
+Jasmine_Guy/m1VSZVbnjWs_0000030 625.0 637.1 

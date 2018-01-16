@@ -1,0 +1,7 @@
+POI: 			Celia_Imrie 
+Youtube ID: 	mcdUvW7jpCM 
+Video length: 	94.5 sec 
+Set (V): 		dev 
+ 
+Celia_Imrie/mcdUvW7jpCM_0000001 44.6 48.8 
+Celia_Imrie/mcdUvW7jpCM_0000002 71.0 76.0 

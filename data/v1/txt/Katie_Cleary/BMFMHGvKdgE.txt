@@ -1,0 +1,8 @@
+POI: 			Katie_Cleary 
+Youtube ID: 	BMFMHGvKdgE 
+Video length: 	284.6 sec 
+Set (V): 		dev 
+ 
+Katie_Cleary/BMFMHGvKdgE_0000001 29.7 35.8 
+Katie_Cleary/BMFMHGvKdgE_0000002 74.4 80.2 
+Katie_Cleary/BMFMHGvKdgE_0000003 172.2 176.5 

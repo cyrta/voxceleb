@@ -1,0 +1,8 @@
+POI: 			Emraan_Hashmi 
+Youtube ID: 	k_FB95mWrFc 
+Video length: 	469.2 sec 
+Set (V): 		test 
+ 
+Emraan_Hashmi/k_FB95mWrFc_0000001 225.2 230.0 
+Emraan_Hashmi/k_FB95mWrFc_0000002 261.7 266.0 
+Emraan_Hashmi/k_FB95mWrFc_0000003 414.3 419.8 

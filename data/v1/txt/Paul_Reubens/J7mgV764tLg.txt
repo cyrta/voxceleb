@@ -1,0 +1,11 @@
+POI: 			Paul_Reubens 
+Youtube ID: 	J7mgV764tLg 
+Video length: 	715.2 sec 
+Set (V): 		dev 
+ 
+Paul_Reubens/J7mgV764tLg_0000001 409.4 417.0 
+Paul_Reubens/J7mgV764tLg_0000002 418.8 422.8 
+Paul_Reubens/J7mgV764tLg_0000003 453.5 458.2 
+Paul_Reubens/J7mgV764tLg_0000004 476.8 486.8 
+Paul_Reubens/J7mgV764tLg_0000005 507.4 512.0 
+Paul_Reubens/J7mgV764tLg_0000006 516.8 521.2 

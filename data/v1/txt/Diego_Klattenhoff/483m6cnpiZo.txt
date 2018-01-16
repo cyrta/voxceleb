@@ -1,0 +1,10 @@
+POI: 			Diego_Klattenhoff 
+Youtube ID: 	483m6cnpiZo 
+Video length: 	293.5 sec 
+Set (V): 		dev 
+ 
+Diego_Klattenhoff/483m6cnpiZo_0000001 46.6 58.6 
+Diego_Klattenhoff/483m6cnpiZo_0000002 112.0 116.7 
+Diego_Klattenhoff/483m6cnpiZo_0000003 127.1 138.3 
+Diego_Klattenhoff/483m6cnpiZo_0000004 230.8 239.1 
+Diego_Klattenhoff/483m6cnpiZo_0000005 240.8 245.0 

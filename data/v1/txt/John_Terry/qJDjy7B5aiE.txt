@@ -1,0 +1,7 @@
+POI: 			John_Terry 
+Youtube ID: 	qJDjy7B5aiE 
+Video length: 	216.3 sec 
+Set (V): 		dev 
+ 
+John_Terry/qJDjy7B5aiE_0000001 60.1 79.1 
+John_Terry/qJDjy7B5aiE_0000002 117.2 140.6 

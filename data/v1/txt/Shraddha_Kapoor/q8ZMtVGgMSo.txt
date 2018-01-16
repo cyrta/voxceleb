@@ -1,0 +1,9 @@
+POI: 			Shraddha_Kapoor 
+Youtube ID: 	q8ZMtVGgMSo 
+Video length: 	760.9 sec 
+Set (V): 		dev 
+ 
+Shraddha_Kapoor/q8ZMtVGgMSo_0000001 74.0 79.2 
+Shraddha_Kapoor/q8ZMtVGgMSo_0000002 120.0 124.1 
+Shraddha_Kapoor/q8ZMtVGgMSo_0000003 124.3 133.5 
+Shraddha_Kapoor/q8ZMtVGgMSo_0000004 363.1 369.4 

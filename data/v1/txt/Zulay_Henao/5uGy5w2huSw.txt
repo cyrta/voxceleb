@@ -1,0 +1,7 @@
+POI: 			Zulay_Henao 
+Youtube ID: 	5uGy5w2huSw 
+Video length: 	383.3 sec 
+Set (V): 		dev 
+ 
+Zulay_Henao/5uGy5w2huSw_0000001 123.1 127.1 
+Zulay_Henao/5uGy5w2huSw_0000002 250.1 254.2 

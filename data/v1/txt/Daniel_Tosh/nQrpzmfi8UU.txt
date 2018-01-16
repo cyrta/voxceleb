@@ -1,0 +1,9 @@
+POI: 			Daniel_Tosh 
+Youtube ID: 	nQrpzmfi8UU 
+Video length: 	524.4 sec 
+Set (V): 		dev 
+ 
+Daniel_Tosh/nQrpzmfi8UU_0000001 60.2 67.4 
+Daniel_Tosh/nQrpzmfi8UU_0000002 69.4 91.2 
+Daniel_Tosh/nQrpzmfi8UU_0000003 94.9 118.4 
+Daniel_Tosh/nQrpzmfi8UU_0000004 506.6 512.9 

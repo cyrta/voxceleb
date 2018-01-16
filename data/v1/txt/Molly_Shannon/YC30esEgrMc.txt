@@ -1,0 +1,25 @@
+POI: 			Molly_Shannon 
+Youtube ID: 	YC30esEgrMc 
+Video length: 	408.8 sec 
+Set (V): 		dev 
+ 
+Molly_Shannon/YC30esEgrMc_0000001 10.0 16.7 
+Molly_Shannon/YC30esEgrMc_0000002 17.2 40.1 
+Molly_Shannon/YC30esEgrMc_0000003 58.9 78.1 
+Molly_Shannon/YC30esEgrMc_0000004 78.7 83.2 
+Molly_Shannon/YC30esEgrMc_0000005 83.3 91.4 
+Molly_Shannon/YC30esEgrMc_0000006 92.2 97.6 
+Molly_Shannon/YC30esEgrMc_0000007 103.1 108.6 
+Molly_Shannon/YC30esEgrMc_0000008 135.8 146.5 
+Molly_Shannon/YC30esEgrMc_0000009 147.0 161.6 
+Molly_Shannon/YC30esEgrMc_0000010 163.7 178.2 
+Molly_Shannon/YC30esEgrMc_0000011 191.9 224.5 
+Molly_Shannon/YC30esEgrMc_0000012 233.9 237.9 
+Molly_Shannon/YC30esEgrMc_0000013 238.0 245.5 
+Molly_Shannon/YC30esEgrMc_0000014 265.6 271.4 
+Molly_Shannon/YC30esEgrMc_0000015 308.0 314.9 
+Molly_Shannon/YC30esEgrMc_0000016 315.5 329.2 
+Molly_Shannon/YC30esEgrMc_0000017 329.8 335.2 
+Molly_Shannon/YC30esEgrMc_0000018 347.8 363.5 
+Molly_Shannon/YC30esEgrMc_0000019 364.5 371.9 
+Molly_Shannon/YC30esEgrMc_0000020 372.8 378.6 

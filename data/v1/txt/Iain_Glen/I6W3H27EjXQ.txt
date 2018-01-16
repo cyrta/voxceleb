@@ -1,0 +1,8 @@
+POI: 			Iain_Glen 
+Youtube ID: 	I6W3H27EjXQ 
+Video length: 	81.2 sec 
+Set (V): 		dev 
+ 
+Iain_Glen/I6W3H27EjXQ_0000001 15.3 19.2 
+Iain_Glen/I6W3H27EjXQ_0000002 34.6 40.0 
+Iain_Glen/I6W3H27EjXQ_0000003 52.9 58.8 

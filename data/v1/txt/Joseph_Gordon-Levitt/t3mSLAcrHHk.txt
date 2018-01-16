@@ -1,0 +1,8 @@
+POI: 			Joseph_Gordon-Levitt 
+Youtube ID: 	t3mSLAcrHHk 
+Video length: 	193.1 sec 
+Set (V): 		dev 
+ 
+Joseph_Gordon-Levitt/t3mSLAcrHHk_0000001 33.7 38.8 
+Joseph_Gordon-Levitt/t3mSLAcrHHk_0000002 128.2 133.7 
+Joseph_Gordon-Levitt/t3mSLAcrHHk_0000003 138.6 143.1 

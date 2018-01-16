@@ -1,0 +1,13 @@
+POI: 			Dylan_Moran 
+Youtube ID: 	ojsBqIWFXDA 
+Video length: 	447.2 sec 
+Set (V): 		dev 
+ 
+Dylan_Moran/ojsBqIWFXDA_0000001 21.8 28.2 
+Dylan_Moran/ojsBqIWFXDA_0000002 71.4 77.2 
+Dylan_Moran/ojsBqIWFXDA_0000003 111.8 116.7 
+Dylan_Moran/ojsBqIWFXDA_0000004 170.1 177.4 
+Dylan_Moran/ojsBqIWFXDA_0000005 215.4 220.6 
+Dylan_Moran/ojsBqIWFXDA_0000006 255.2 259.2 
+Dylan_Moran/ojsBqIWFXDA_0000007 303.7 308.3 
+Dylan_Moran/ojsBqIWFXDA_0000008 383.3 387.8 

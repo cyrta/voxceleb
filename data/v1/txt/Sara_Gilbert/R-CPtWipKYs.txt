@@ -1,0 +1,7 @@
+POI: 			Sara_Gilbert 
+Youtube ID: 	R-CPtWipKYs 
+Video length: 	519.7 sec 
+Set (V): 		dev 
+ 
+Sara_Gilbert/R-CPtWipKYs_0000001 265.3 272.4 
+Sara_Gilbert/R-CPtWipKYs_0000002 431.4 436.3 

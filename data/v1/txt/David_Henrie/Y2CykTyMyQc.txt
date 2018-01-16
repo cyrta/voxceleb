@@ -1,0 +1,13 @@
+POI: 			David_Henrie 
+Youtube ID: 	Y2CykTyMyQc 
+Video length: 	223.5 sec 
+Set (V): 		dev 
+ 
+David_Henrie/Y2CykTyMyQc_0000001 32.4 37.5 
+David_Henrie/Y2CykTyMyQc_0000002 52.2 56.5 
+David_Henrie/Y2CykTyMyQc_0000003 64.6 69.8 
+David_Henrie/Y2CykTyMyQc_0000004 84.7 97.9 
+David_Henrie/Y2CykTyMyQc_0000005 123.3 132.6 
+David_Henrie/Y2CykTyMyQc_0000006 134.3 140.0 
+David_Henrie/Y2CykTyMyQc_0000007 147.6 152.2 
+David_Henrie/Y2CykTyMyQc_0000008 154.7 159.3 

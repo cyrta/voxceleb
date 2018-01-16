@@ -1,0 +1,10 @@
+POI: 			Mario_Lopez 
+Youtube ID: 	jQnql_1gbXA 
+Video length: 	298.4 sec 
+Set (V): 		dev 
+ 
+Mario_Lopez/jQnql_1gbXA_0000001 06.8 17.8 
+Mario_Lopez/jQnql_1gbXA_0000002 41.0 50.8 
+Mario_Lopez/jQnql_1gbXA_0000003 67.0 72.2 
+Mario_Lopez/jQnql_1gbXA_0000004 118.0 124.2 
+Mario_Lopez/jQnql_1gbXA_0000005 130.2 134.3 

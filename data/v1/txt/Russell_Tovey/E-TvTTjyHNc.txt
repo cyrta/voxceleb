@@ -1,0 +1,9 @@
+POI: 			Russell_Tovey 
+Youtube ID: 	E-TvTTjyHNc 
+Video length: 	90.3 sec 
+Set (V): 		dev 
+ 
+Russell_Tovey/E-TvTTjyHNc_0000001 18.1 28.3 
+Russell_Tovey/E-TvTTjyHNc_0000002 32.7 39.5 
+Russell_Tovey/E-TvTTjyHNc_0000003 43.1 58.8 
+Russell_Tovey/E-TvTTjyHNc_0000004 67.6 72.1 

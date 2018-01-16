@@ -1,0 +1,8 @@
+POI: 			Alex_Borstein 
+Youtube ID: 	vkHXIe40wns 
+Video length: 	313.1 sec 
+Set (V): 		dev 
+ 
+Alex_Borstein/vkHXIe40wns_0000001 131.4 135.8 
+Alex_Borstein/vkHXIe40wns_0000002 151.5 155.7 
+Alex_Borstein/vkHXIe40wns_0000003 244.8 259.4 

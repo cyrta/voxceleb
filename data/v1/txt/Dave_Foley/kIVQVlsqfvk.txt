@@ -1,0 +1,13 @@
+POI: 			Dave_Foley 
+Youtube ID: 	kIVQVlsqfvk 
+Video length: 	451.4 sec 
+Set (V): 		dev 
+ 
+Dave_Foley/kIVQVlsqfvk_0000001 130.9 142.5 
+Dave_Foley/kIVQVlsqfvk_0000002 144.8 152.4 
+Dave_Foley/kIVQVlsqfvk_0000003 154.3 158.4 
+Dave_Foley/kIVQVlsqfvk_0000004 174.3 178.4 
+Dave_Foley/kIVQVlsqfvk_0000005 204.2 209.0 
+Dave_Foley/kIVQVlsqfvk_0000006 209.1 213.8 
+Dave_Foley/kIVQVlsqfvk_0000007 400.0 403.9 
+Dave_Foley/kIVQVlsqfvk_0000008 411.0 419.2 

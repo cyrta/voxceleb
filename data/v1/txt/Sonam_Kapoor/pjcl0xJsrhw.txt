@@ -1,0 +1,13 @@
+POI: 			Sonam_Kapoor 
+Youtube ID: 	pjcl0xJsrhw 
+Video length: 	426.7 sec 
+Set (V): 		dev 
+ 
+Sonam_Kapoor/pjcl0xJsrhw_0000001 34.2 40.9 
+Sonam_Kapoor/pjcl0xJsrhw_0000002 182.5 192.3 
+Sonam_Kapoor/pjcl0xJsrhw_0000003 194.4 200.1 
+Sonam_Kapoor/pjcl0xJsrhw_0000004 203.2 215.9 
+Sonam_Kapoor/pjcl0xJsrhw_0000005 256.7 260.9 
+Sonam_Kapoor/pjcl0xJsrhw_0000006 299.9 305.2 
+Sonam_Kapoor/pjcl0xJsrhw_0000007 316.5 321.2 
+Sonam_Kapoor/pjcl0xJsrhw_0000008 391.0 399.7 

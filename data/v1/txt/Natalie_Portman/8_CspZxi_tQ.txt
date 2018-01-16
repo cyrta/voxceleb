@@ -1,0 +1,9 @@
+POI: 			Natalie_Portman 
+Youtube ID: 	8_CspZxi_tQ 
+Video length: 	582.9 sec 
+Set (V): 		dev 
+ 
+Natalie_Portman/8_CspZxi_tQ_0000001 79.0 84.1 
+Natalie_Portman/8_CspZxi_tQ_0000002 107.4 113.0 
+Natalie_Portman/8_CspZxi_tQ_0000003 165.3 173.6 
+Natalie_Portman/8_CspZxi_tQ_0000004 410.4 420.3 

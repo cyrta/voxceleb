@@ -1,0 +1,10 @@
+POI: 			Bill_Nighy 
+Youtube ID: 	YBq9shl7oWs 
+Video length: 	476.5 sec 
+Set (V): 		dev 
+ 
+Bill_Nighy/YBq9shl7oWs_0000001 122.9 130.0 
+Bill_Nighy/YBq9shl7oWs_0000002 135.3 139.7 
+Bill_Nighy/YBq9shl7oWs_0000003 342.4 348.9 
+Bill_Nighy/YBq9shl7oWs_0000004 352.0 359.4 
+Bill_Nighy/YBq9shl7oWs_0000005 360.1 364.3 

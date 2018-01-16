@@ -1,0 +1,9 @@
+POI: 			Vanessa_Marcil 
+Youtube ID: 	2CLD6CbszTU 
+Video length: 	683.2 sec 
+Set (V): 		dev 
+ 
+Vanessa_Marcil/2CLD6CbszTU_0000001 336.8 341.4 
+Vanessa_Marcil/2CLD6CbszTU_0000002 390.8 397.2 
+Vanessa_Marcil/2CLD6CbszTU_0000003 458.8 464.8 
+Vanessa_Marcil/2CLD6CbszTU_0000004 664.2 671.0 

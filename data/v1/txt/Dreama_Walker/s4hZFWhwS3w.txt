@@ -1,0 +1,9 @@
+POI: 			Dreama_Walker 
+Youtube ID: 	s4hZFWhwS3w 
+Video length: 	164.0 sec 
+Set (V): 		dev 
+ 
+Dreama_Walker/s4hZFWhwS3w_0000001 05.3 47.6 
+Dreama_Walker/s4hZFWhwS3w_0000002 83.8 118.0 
+Dreama_Walker/s4hZFWhwS3w_0000003 120.4 139.9 
+Dreama_Walker/s4hZFWhwS3w_0000004 140.6 157.4 

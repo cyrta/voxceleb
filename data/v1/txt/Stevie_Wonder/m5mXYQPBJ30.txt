@@ -1,0 +1,8 @@
+POI: 			Stevie_Wonder 
+Youtube ID: 	m5mXYQPBJ30 
+Video length: 	424.4 sec 
+Set (V): 		dev 
+ 
+Stevie_Wonder/m5mXYQPBJ30_0000001 238.1 245.0 
+Stevie_Wonder/m5mXYQPBJ30_0000002 273.7 278.2 
+Stevie_Wonder/m5mXYQPBJ30_0000003 280.1 284.4 

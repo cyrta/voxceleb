@@ -1,0 +1,7 @@
+POI: 			Amy_Poehler 
+Youtube ID: 	0gaIk-T8tcM 
+Video length: 	192.0 sec 
+Set (V): 		dev 
+ 
+Amy_Poehler/0gaIk-T8tcM_0000001 106.2 116.2 
+Amy_Poehler/0gaIk-T8tcM_0000002 147.7 152.0 

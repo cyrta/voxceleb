@@ -1,0 +1,9 @@
+POI: 			Monica_Raymund 
+Youtube ID: 	iJAIEfblr7M 
+Video length: 	156.8 sec 
+Set (V): 		dev 
+ 
+Monica_Raymund/iJAIEfblr7M_0000001 06.9 17.0 
+Monica_Raymund/iJAIEfblr7M_0000002 21.7 34.4 
+Monica_Raymund/iJAIEfblr7M_0000003 39.0 47.5 
+Monica_Raymund/iJAIEfblr7M_0000004 56.6 65.3 

@@ -1,0 +1,13 @@
+POI: 			Jeffrey_Donovan 
+Youtube ID: 	S_JZR39yXEI 
+Video length: 	891.3 sec 
+Set (V): 		dev 
+ 
+Jeffrey_Donovan/S_JZR39yXEI_0000001 156.9 163.9 
+Jeffrey_Donovan/S_JZR39yXEI_0000002 164.6 169.5 
+Jeffrey_Donovan/S_JZR39yXEI_0000003 307.1 313.5 
+Jeffrey_Donovan/S_JZR39yXEI_0000004 516.8 523.8 
+Jeffrey_Donovan/S_JZR39yXEI_0000005 692.7 708.0 
+Jeffrey_Donovan/S_JZR39yXEI_0000006 708.9 720.0 
+Jeffrey_Donovan/S_JZR39yXEI_0000007 721.0 738.3 
+Jeffrey_Donovan/S_JZR39yXEI_0000008 738.8 750.0 

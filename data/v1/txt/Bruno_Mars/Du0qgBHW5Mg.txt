@@ -1,0 +1,8 @@
+POI: 			Bruno_Mars 
+Youtube ID: 	Du0qgBHW5Mg 
+Video length: 	471.2 sec 
+Set (V): 		dev 
+ 
+Bruno_Mars/Du0qgBHW5Mg_0000001 113.8 122.9 
+Bruno_Mars/Du0qgBHW5Mg_0000002 319.6 324.2 
+Bruno_Mars/Du0qgBHW5Mg_0000003 370.6 375.2 

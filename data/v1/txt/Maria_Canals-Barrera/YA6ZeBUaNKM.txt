@@ -1,0 +1,9 @@
+POI: 			Maria_Canals-Barrera 
+Youtube ID: 	YA6ZeBUaNKM 
+Video length: 	258.1 sec 
+Set (V): 		dev 
+ 
+Maria_Canals-Barrera/YA6ZeBUaNKM_0000001 38.1 42.3 
+Maria_Canals-Barrera/YA6ZeBUaNKM_0000002 163.5 177.1 
+Maria_Canals-Barrera/YA6ZeBUaNKM_0000003 201.4 205.5 
+Maria_Canals-Barrera/YA6ZeBUaNKM_0000004 247.1 251.3 

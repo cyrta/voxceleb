@@ -1,0 +1,10 @@
+POI: 			James_Cosmo 
+Youtube ID: 	mmbRbKmIZiQ 
+Video length: 	209.4 sec 
+Set (V): 		dev 
+ 
+James_Cosmo/mmbRbKmIZiQ_0000001 12.4 18.8 
+James_Cosmo/mmbRbKmIZiQ_0000002 30.7 41.7 
+James_Cosmo/mmbRbKmIZiQ_0000003 50.9 55.6 
+James_Cosmo/mmbRbKmIZiQ_0000004 56.6 61.5 
+James_Cosmo/mmbRbKmIZiQ_0000005 66.5 74.7 

@@ -1,0 +1,15 @@
+POI: 			Heidi_Montag 
+Youtube ID: 	IbD6hZ2CI3E 
+Video length: 	253.5 sec 
+Set (V): 		dev 
+ 
+Heidi_Montag/IbD6hZ2CI3E_0000001 37.4 67.1 
+Heidi_Montag/IbD6hZ2CI3E_0000002 73.4 89.1 
+Heidi_Montag/IbD6hZ2CI3E_0000003 106.3 114.4 
+Heidi_Montag/IbD6hZ2CI3E_0000004 124.5 128.8 
+Heidi_Montag/IbD6hZ2CI3E_0000005 133.7 141.0 
+Heidi_Montag/IbD6hZ2CI3E_0000006 170.0 182.3 
+Heidi_Montag/IbD6hZ2CI3E_0000007 190.6 205.9 
+Heidi_Montag/IbD6hZ2CI3E_0000008 214.5 220.5 
+Heidi_Montag/IbD6hZ2CI3E_0000009 222.8 230.4 
+Heidi_Montag/IbD6hZ2CI3E_0000010 243.8 248.8 

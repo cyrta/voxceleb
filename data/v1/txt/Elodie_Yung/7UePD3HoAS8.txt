@@ -1,0 +1,12 @@
+POI: 			Elodie_Yung 
+Youtube ID: 	7UePD3HoAS8 
+Video length: 	162.2 sec 
+Set (V): 		test 
+ 
+Elodie_Yung/7UePD3HoAS8_0000001 07.1 18.3 
+Elodie_Yung/7UePD3HoAS8_0000002 38.0 42.1 
+Elodie_Yung/7UePD3HoAS8_0000003 46.6 57.1 
+Elodie_Yung/7UePD3HoAS8_0000004 58.6 70.5 
+Elodie_Yung/7UePD3HoAS8_0000005 97.0 113.9 
+Elodie_Yung/7UePD3HoAS8_0000006 118.2 132.5 
+Elodie_Yung/7UePD3HoAS8_0000007 134.8 139.0 

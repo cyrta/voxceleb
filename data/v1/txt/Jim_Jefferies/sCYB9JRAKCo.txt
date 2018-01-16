@@ -1,0 +1,7 @@
+POI: 			Jim_Jefferies 
+Youtube ID: 	sCYB9JRAKCo 
+Video length: 	186.9 sec 
+Set (V): 		dev 
+ 
+Jim_Jefferies/sCYB9JRAKCo_0000001 22.6 26.5 
+Jim_Jefferies/sCYB9JRAKCo_0000002 130.0 136.3 

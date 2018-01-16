@@ -1,0 +1,10 @@
+POI: 			Janet_Jackson 
+Youtube ID: 	fP1lWQ4Rxtg 
+Video length: 	577.9 sec 
+Set (V): 		dev 
+ 
+Janet_Jackson/fP1lWQ4Rxtg_0000001 126.2 130.7 
+Janet_Jackson/fP1lWQ4Rxtg_0000002 266.5 272.0 
+Janet_Jackson/fP1lWQ4Rxtg_0000003 331.7 335.7 
+Janet_Jackson/fP1lWQ4Rxtg_0000004 344.3 349.2 
+Janet_Jackson/fP1lWQ4Rxtg_0000005 448.3 452.9 

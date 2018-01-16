@@ -1,0 +1,19 @@
+POI: 			Jim_Caviezel 
+Youtube ID: 	WGRRruByjho 
+Video length: 	764.3 sec 
+Set (V): 		dev 
+ 
+Jim_Caviezel/WGRRruByjho_0000001 163.5 171.2 
+Jim_Caviezel/WGRRruByjho_0000002 236.6 241.2 
+Jim_Caviezel/WGRRruByjho_0000003 297.5 302.0 
+Jim_Caviezel/WGRRruByjho_0000004 355.5 364.3 
+Jim_Caviezel/WGRRruByjho_0000005 382.8 388.4 
+Jim_Caviezel/WGRRruByjho_0000006 428.8 433.6 
+Jim_Caviezel/WGRRruByjho_0000007 439.9 449.1 
+Jim_Caviezel/WGRRruByjho_0000008 477.4 487.8 
+Jim_Caviezel/WGRRruByjho_0000009 587.6 591.6 
+Jim_Caviezel/WGRRruByjho_0000010 600.5 606.0 
+Jim_Caviezel/WGRRruByjho_0000011 643.1 647.7 
+Jim_Caviezel/WGRRruByjho_0000012 649.4 654.0 
+Jim_Caviezel/WGRRruByjho_0000013 656.2 665.8 
+Jim_Caviezel/WGRRruByjho_0000014 716.3 722.0 

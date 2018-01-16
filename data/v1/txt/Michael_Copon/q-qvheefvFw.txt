@@ -1,0 +1,8 @@
+POI: 			Michael_Copon 
+Youtube ID: 	q-qvheefvFw 
+Video length: 	73.4 sec 
+Set (V): 		dev 
+ 
+Michael_Copon/q-qvheefvFw_0000001 16.5 35.6 
+Michael_Copon/q-qvheefvFw_0000002 40.6 49.7 
+Michael_Copon/q-qvheefvFw_0000003 58.2 71.0 

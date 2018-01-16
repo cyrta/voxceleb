@@ -1,0 +1,6 @@
+POI: 			John_Oliver 
+Youtube ID: 	rbjSzw6OR6I 
+Video length: 	167.4 sec 
+Set (V): 		dev 
+ 
+John_Oliver/rbjSzw6OR6I_0000001 54.4 58.4 

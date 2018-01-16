@@ -1,0 +1,8 @@
+POI: 			Alice_Eve 
+Youtube ID: 	XBnhi1cQtX4 
+Video length: 	172.3 sec 
+Set (V): 		dev 
+ 
+Alice_Eve/XBnhi1cQtX4_0000001 00.8 09.8 
+Alice_Eve/XBnhi1cQtX4_0000002 111.7 115.7 
+Alice_Eve/XBnhi1cQtX4_0000003 148.4 155.8 

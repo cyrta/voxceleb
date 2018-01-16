@@ -1,0 +1,11 @@
+POI: 			Thomas_Dekker 
+Youtube ID: 	HXx29sf4VYs 
+Video length: 	243.8 sec 
+Set (V): 		dev 
+ 
+Thomas_Dekker/HXx29sf4VYs_0000001 06.8 11.8 
+Thomas_Dekker/HXx29sf4VYs_0000002 20.0 26.8 
+Thomas_Dekker/HXx29sf4VYs_0000003 30.5 35.4 
+Thomas_Dekker/HXx29sf4VYs_0000004 35.8 40.2 
+Thomas_Dekker/HXx29sf4VYs_0000005 48.6 54.5 
+Thomas_Dekker/HXx29sf4VYs_0000006 163.8 169.4 

@@ -1,0 +1,22 @@
+POI: 			Meat_Loaf 
+Youtube ID: 	LXCX-_P-Icc 
+Video length: 	345.8 sec 
+Set (V): 		dev 
+ 
+Meat_Loaf/LXCX-_P-Icc_0000001 41.9 49.0 
+Meat_Loaf/LXCX-_P-Icc_0000002 67.5 73.6 
+Meat_Loaf/LXCX-_P-Icc_0000003 75.7 81.0 
+Meat_Loaf/LXCX-_P-Icc_0000004 85.3 100.3 
+Meat_Loaf/LXCX-_P-Icc_0000005 113.4 119.9 
+Meat_Loaf/LXCX-_P-Icc_0000006 121.4 127.5 
+Meat_Loaf/LXCX-_P-Icc_0000007 153.0 158.4 
+Meat_Loaf/LXCX-_P-Icc_0000008 175.0 183.4 
+Meat_Loaf/LXCX-_P-Icc_0000009 215.6 225.2 
+Meat_Loaf/LXCX-_P-Icc_0000010 232.9 244.6 
+Meat_Loaf/LXCX-_P-Icc_0000011 245.5 249.6 
+Meat_Loaf/LXCX-_P-Icc_0000012 252.7 267.4 
+Meat_Loaf/LXCX-_P-Icc_0000013 275.6 283.1 
+Meat_Loaf/LXCX-_P-Icc_0000014 284.4 290.0 
+Meat_Loaf/LXCX-_P-Icc_0000015 290.7 297.6 
+Meat_Loaf/LXCX-_P-Icc_0000016 308.4 313.6 
+Meat_Loaf/LXCX-_P-Icc_0000017 314.1 322.1 

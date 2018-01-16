@@ -1,0 +1,13 @@
+POI: 			Anthony_Mackie 
+Youtube ID: 	SR2wM4c5JJw 
+Video length: 	235.7 sec 
+Set (V): 		dev 
+ 
+Anthony_Mackie/SR2wM4c5JJw_0000001 07.0 30.1 
+Anthony_Mackie/SR2wM4c5JJw_0000002 39.2 62.6 
+Anthony_Mackie/SR2wM4c5JJw_0000003 63.2 80.4 
+Anthony_Mackie/SR2wM4c5JJw_0000004 93.8 109.1 
+Anthony_Mackie/SR2wM4c5JJw_0000005 109.8 115.3 
+Anthony_Mackie/SR2wM4c5JJw_0000006 154.0 168.7 
+Anthony_Mackie/SR2wM4c5JJw_0000007 173.6 191.1 
+Anthony_Mackie/SR2wM4c5JJw_0000008 202.0 231.8 

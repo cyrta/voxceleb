@@ -1,0 +1,13 @@
+POI: 			Tom_Bergeron 
+Youtube ID: 	VTnur1vb0u4 
+Video length: 	95.3 sec 
+Set (V): 		dev 
+ 
+Tom_Bergeron/VTnur1vb0u4_0000001 06.0 12.1 
+Tom_Bergeron/VTnur1vb0u4_0000002 13.0 17.9 
+Tom_Bergeron/VTnur1vb0u4_0000003 19.2 27.9 
+Tom_Bergeron/VTnur1vb0u4_0000004 30.2 47.9 
+Tom_Bergeron/VTnur1vb0u4_0000005 52.2 58.5 
+Tom_Bergeron/VTnur1vb0u4_0000006 58.6 68.2 
+Tom_Bergeron/VTnur1vb0u4_0000007 68.6 73.2 
+Tom_Bergeron/VTnur1vb0u4_0000008 74.9 81.8 

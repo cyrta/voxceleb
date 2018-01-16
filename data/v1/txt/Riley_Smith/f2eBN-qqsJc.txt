@@ -1,0 +1,14 @@
+POI: 			Riley_Smith 
+Youtube ID: 	f2eBN-qqsJc 
+Video length: 	314.2 sec 
+Set (V): 		dev 
+ 
+Riley_Smith/f2eBN-qqsJc_0000001 37.3 65.1 
+Riley_Smith/f2eBN-qqsJc_0000002 75.5 89.5 
+Riley_Smith/f2eBN-qqsJc_0000003 123.4 139.2 
+Riley_Smith/f2eBN-qqsJc_0000004 155.3 175.5 
+Riley_Smith/f2eBN-qqsJc_0000005 209.3 218.6 
+Riley_Smith/f2eBN-qqsJc_0000006 240.5 253.4 
+Riley_Smith/f2eBN-qqsJc_0000007 262.1 268.3 
+Riley_Smith/f2eBN-qqsJc_0000008 276.2 280.3 
+Riley_Smith/f2eBN-qqsJc_0000009 297.3 301.5 

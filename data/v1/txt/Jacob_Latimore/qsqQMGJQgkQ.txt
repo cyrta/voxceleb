@@ -1,0 +1,8 @@
+POI: 			Jacob_Latimore 
+Youtube ID: 	qsqQMGJQgkQ 
+Video length: 	147.0 sec 
+Set (V): 		dev 
+ 
+Jacob_Latimore/qsqQMGJQgkQ_0000001 45.6 51.2 
+Jacob_Latimore/qsqQMGJQgkQ_0000002 62.5 68.7 
+Jacob_Latimore/qsqQMGJQgkQ_0000003 78.4 85.3 

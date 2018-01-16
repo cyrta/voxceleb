@@ -1,0 +1,11 @@
+POI: 			Idina_Menzel 
+Youtube ID: 	r5yA9_luTIs 
+Video length: 	279.0 sec 
+Set (V): 		dev 
+ 
+Idina_Menzel/r5yA9_luTIs_0000001 16.6 22.2 
+Idina_Menzel/r5yA9_luTIs_0000002 68.2 74.4 
+Idina_Menzel/r5yA9_luTIs_0000003 92.1 96.2 
+Idina_Menzel/r5yA9_luTIs_0000004 112.6 116.7 
+Idina_Menzel/r5yA9_luTIs_0000005 169.6 175.8 
+Idina_Menzel/r5yA9_luTIs_0000006 186.8 191.0 

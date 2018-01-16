@@ -1,0 +1,23 @@
+POI: 			Joel_Edgerton 
+Youtube ID: 	boT-tx6ApH8 
+Video length: 	395.6 sec 
+Set (V): 		dev 
+ 
+Joel_Edgerton/boT-tx6ApH8_0000001 16.6 21.3 
+Joel_Edgerton/boT-tx6ApH8_0000002 60.0 67.3 
+Joel_Edgerton/boT-tx6ApH8_0000003 69.6 75.5 
+Joel_Edgerton/boT-tx6ApH8_0000004 75.7 80.6 
+Joel_Edgerton/boT-tx6ApH8_0000005 83.6 88.6 
+Joel_Edgerton/boT-tx6ApH8_0000006 90.9 98.2 
+Joel_Edgerton/boT-tx6ApH8_0000007 102.4 109.3 
+Joel_Edgerton/boT-tx6ApH8_0000008 133.6 138.8 
+Joel_Edgerton/boT-tx6ApH8_0000009 142.4 147.4 
+Joel_Edgerton/boT-tx6ApH8_0000010 164.1 176.8 
+Joel_Edgerton/boT-tx6ApH8_0000011 177.4 186.3 
+Joel_Edgerton/boT-tx6ApH8_0000012 207.6 212.8 
+Joel_Edgerton/boT-tx6ApH8_0000013 223.2 228.3 
+Joel_Edgerton/boT-tx6ApH8_0000014 269.2 277.9 
+Joel_Edgerton/boT-tx6ApH8_0000015 305.5 311.0 
+Joel_Edgerton/boT-tx6ApH8_0000016 318.0 326.0 
+Joel_Edgerton/boT-tx6ApH8_0000017 304.9 317.0 
+Joel_Edgerton/boT-tx6ApH8_0000018 359.1 363.6 

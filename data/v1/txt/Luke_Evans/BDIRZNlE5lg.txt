@@ -1,0 +1,17 @@
+POI: 			Luke_Evans 
+Youtube ID: 	BDIRZNlE5lg 
+Video length: 	223.5 sec 
+Set (V): 		dev 
+ 
+Luke_Evans/BDIRZNlE5lg_0000001 24.1 28.7 
+Luke_Evans/BDIRZNlE5lg_0000002 38.9 52.0 
+Luke_Evans/BDIRZNlE5lg_0000003 52.7 63.1 
+Luke_Evans/BDIRZNlE5lg_0000004 64.9 73.7 
+Luke_Evans/BDIRZNlE5lg_0000005 78.3 95.1 
+Luke_Evans/BDIRZNlE5lg_0000006 98.5 105.8 
+Luke_Evans/BDIRZNlE5lg_0000007 107.6 117.6 
+Luke_Evans/BDIRZNlE5lg_0000008 136.0 140.8 
+Luke_Evans/BDIRZNlE5lg_0000009 141.1 149.4 
+Luke_Evans/BDIRZNlE5lg_0000010 152.0 159.7 
+Luke_Evans/BDIRZNlE5lg_0000011 164.4 195.1 
+Luke_Evans/BDIRZNlE5lg_0000012 195.7 203.9 

@@ -1,0 +1,11 @@
+POI: 			James_Cosmo 
+Youtube ID: 	VO8eeqczRps 
+Video length: 	331.4 sec 
+Set (V): 		dev 
+ 
+James_Cosmo/VO8eeqczRps_0000001 38.2 42.5 
+James_Cosmo/VO8eeqczRps_0000002 45.0 54.4 
+James_Cosmo/VO8eeqczRps_0000003 140.3 144.5 
+James_Cosmo/VO8eeqczRps_0000004 168.9 173.5 
+James_Cosmo/VO8eeqczRps_0000005 198.5 203.3 
+James_Cosmo/VO8eeqczRps_0000006 277.3 286.6 

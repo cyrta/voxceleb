@@ -1,0 +1,11 @@
+POI: 			Kathryn_McCormick 
+Youtube ID: 	t-hda5CF5ik 
+Video length: 	387.0 sec 
+Set (V): 		dev 
+ 
+Kathryn_McCormick/t-hda5CF5ik_0000001 51.1 59.6 
+Kathryn_McCormick/t-hda5CF5ik_0000002 59.9 95.4 
+Kathryn_McCormick/t-hda5CF5ik_0000003 204.8 211.0 
+Kathryn_McCormick/t-hda5CF5ik_0000004 339.1 348.4 
+Kathryn_McCormick/t-hda5CF5ik_0000005 353.7 364.2 
+Kathryn_McCormick/t-hda5CF5ik_0000006 366.0 377.0 

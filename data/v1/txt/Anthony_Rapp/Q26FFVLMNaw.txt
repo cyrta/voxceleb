@@ -1,0 +1,11 @@
+POI: 			Anthony_Rapp 
+Youtube ID: 	Q26FFVLMNaw 
+Video length: 	219.1 sec 
+Set (V): 		dev 
+ 
+Anthony_Rapp/Q26FFVLMNaw_0000001 26.5 31.6 
+Anthony_Rapp/Q26FFVLMNaw_0000002 47.7 53.1 
+Anthony_Rapp/Q26FFVLMNaw_0000003 69.9 74.7 
+Anthony_Rapp/Q26FFVLMNaw_0000004 107.0 112.4 
+Anthony_Rapp/Q26FFVLMNaw_0000005 113.4 117.6 
+Anthony_Rapp/Q26FFVLMNaw_0000006 131.5 136.5 

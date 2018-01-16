@@ -1,0 +1,12 @@
+POI: 			Kathy_Griffin 
+Youtube ID: 	T5fZBaunGvo 
+Video length: 	274.6 sec 
+Set (V): 		dev 
+ 
+Kathy_Griffin/T5fZBaunGvo_0000001 29.3 37.5 
+Kathy_Griffin/T5fZBaunGvo_0000002 51.3 67.4 
+Kathy_Griffin/T5fZBaunGvo_0000003 102.7 122.8 
+Kathy_Griffin/T5fZBaunGvo_0000004 163.8 169.8 
+Kathy_Griffin/T5fZBaunGvo_0000005 188.6 197.0 
+Kathy_Griffin/T5fZBaunGvo_0000006 225.6 236.6 
+Kathy_Griffin/T5fZBaunGvo_0000007 234.4 243.1 

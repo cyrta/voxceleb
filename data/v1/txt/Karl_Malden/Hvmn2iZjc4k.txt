@@ -1,0 +1,16 @@
+POI: 			Karl_Malden 
+Youtube ID: 	Hvmn2iZjc4k 
+Video length: 	846.5 sec 
+Set (V): 		dev 
+ 
+Karl_Malden/Hvmn2iZjc4k_0000001 75.0 81.1 
+Karl_Malden/Hvmn2iZjc4k_0000002 138.3 143.5 
+Karl_Malden/Hvmn2iZjc4k_0000003 176.5 182.9 
+Karl_Malden/Hvmn2iZjc4k_0000004 278.2 282.2 
+Karl_Malden/Hvmn2iZjc4k_0000005 392.2 397.1 
+Karl_Malden/Hvmn2iZjc4k_0000006 439.1 448.8 
+Karl_Malden/Hvmn2iZjc4k_0000007 564.0 569.6 
+Karl_Malden/Hvmn2iZjc4k_0000008 601.4 608.9 
+Karl_Malden/Hvmn2iZjc4k_0000009 776.6 780.7 
+Karl_Malden/Hvmn2iZjc4k_0000010 782.0 787.6 
+Karl_Malden/Hvmn2iZjc4k_0000011 788.7 796.1 

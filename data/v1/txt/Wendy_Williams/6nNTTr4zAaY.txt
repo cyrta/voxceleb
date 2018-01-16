@@ -1,0 +1,9 @@
+POI: 			Wendy_Williams 
+Youtube ID: 	6nNTTr4zAaY 
+Video length: 	368.5 sec 
+Set (V): 		dev 
+ 
+Wendy_Williams/6nNTTr4zAaY_0000001 101.3 109.5 
+Wendy_Williams/6nNTTr4zAaY_0000002 188.5 195.6 
+Wendy_Williams/6nNTTr4zAaY_0000003 228.7 233.1 
+Wendy_Williams/6nNTTr4zAaY_0000004 277.8 283.3 

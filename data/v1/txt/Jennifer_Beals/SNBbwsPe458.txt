@@ -1,0 +1,9 @@
+POI: 			Jennifer_Beals 
+Youtube ID: 	SNBbwsPe458 
+Video length: 	322.6 sec 
+Set (V): 		dev 
+ 
+Jennifer_Beals/SNBbwsPe458_0000001 22.6 38.4 
+Jennifer_Beals/SNBbwsPe458_0000002 38.9 50.7 
+Jennifer_Beals/SNBbwsPe458_0000003 50.8 58.8 
+Jennifer_Beals/SNBbwsPe458_0000004 62.4 74.6 

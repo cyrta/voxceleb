@@ -1,0 +1,7 @@
+POI: 			Holliday_Grainger 
+Youtube ID: 	M6GbNGZ7Vqw 
+Video length: 	386.6 sec 
+Set (V): 		dev 
+ 
+Holliday_Grainger/M6GbNGZ7Vqw_0000001 25.5 34.3 
+Holliday_Grainger/M6GbNGZ7Vqw_0000002 34.7 43.9 

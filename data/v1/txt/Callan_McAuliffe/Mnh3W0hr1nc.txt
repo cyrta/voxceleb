@@ -1,0 +1,10 @@
+POI: 			Callan_McAuliffe 
+Youtube ID: 	Mnh3W0hr1nc 
+Video length: 	104.2 sec 
+Set (V): 		dev 
+ 
+Callan_McAuliffe/Mnh3W0hr1nc_0000001 03.2 16.0 
+Callan_McAuliffe/Mnh3W0hr1nc_0000002 26.0 36.8 
+Callan_McAuliffe/Mnh3W0hr1nc_0000003 37.3 42.7 
+Callan_McAuliffe/Mnh3W0hr1nc_0000004 61.9 70.2 
+Callan_McAuliffe/Mnh3W0hr1nc_0000005 70.9 78.4 

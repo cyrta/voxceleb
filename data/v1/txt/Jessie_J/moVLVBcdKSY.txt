@@ -1,0 +1,12 @@
+POI: 			Jessie_J 
+Youtube ID: 	moVLVBcdKSY 
+Video length: 	272.1 sec 
+Set (V): 		dev 
+ 
+Jessie_J/moVLVBcdKSY_0000001 92.5 98.4 
+Jessie_J/moVLVBcdKSY_0000002 114.8 127.7 
+Jessie_J/moVLVBcdKSY_0000003 129.2 133.4 
+Jessie_J/moVLVBcdKSY_0000004 140.1 145.2 
+Jessie_J/moVLVBcdKSY_0000005 156.4 164.4 
+Jessie_J/moVLVBcdKSY_0000006 236.1 243.4 
+Jessie_J/moVLVBcdKSY_0000007 244.6 254.2 

@@ -1,0 +1,14 @@
+POI: 			David_Suchet 
+Youtube ID: 	CBxvRA9b6zg 
+Video length: 	386.2 sec 
+Set (V): 		dev 
+ 
+David_Suchet/CBxvRA9b6zg_0000001 40.5 45.3 
+David_Suchet/CBxvRA9b6zg_0000002 121.3 131.2 
+David_Suchet/CBxvRA9b6zg_0000003 216.9 222.0 
+David_Suchet/CBxvRA9b6zg_0000004 258.6 264.5 
+David_Suchet/CBxvRA9b6zg_0000005 275.4 282.7 
+David_Suchet/CBxvRA9b6zg_0000006 318.8 336.5 
+David_Suchet/CBxvRA9b6zg_0000007 339.4 344.8 
+David_Suchet/CBxvRA9b6zg_0000008 346.8 360.0 
+David_Suchet/CBxvRA9b6zg_0000009 360.9 366.9 

@@ -1,0 +1,9 @@
+POI: 			Miranda_Cosgrove 
+Youtube ID: 	bE8J8GuA_tg 
+Video length: 	370.7 sec 
+Set (V): 		dev 
+ 
+Miranda_Cosgrove/bE8J8GuA_tg_0000001 110.5 115.8 
+Miranda_Cosgrove/bE8J8GuA_tg_0000002 230.8 237.7 
+Miranda_Cosgrove/bE8J8GuA_tg_0000003 257.2 266.1 
+Miranda_Cosgrove/bE8J8GuA_tg_0000004 276.1 280.3 

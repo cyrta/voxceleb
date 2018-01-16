@@ -1,0 +1,11 @@
+POI: 			Diablo_Cody 
+Youtube ID: 	F-pcVFInWKI 
+Video length: 	625.4 sec 
+Set (V): 		dev 
+ 
+Diablo_Cody/F-pcVFInWKI_0000001 80.5 84.8 
+Diablo_Cody/F-pcVFInWKI_0000002 172.0 176.6 
+Diablo_Cody/F-pcVFInWKI_0000003 256.4 262.8 
+Diablo_Cody/F-pcVFInWKI_0000004 336.4 341.5 
+Diablo_Cody/F-pcVFInWKI_0000005 412.5 417.0 
+Diablo_Cody/F-pcVFInWKI_0000006 430.4 434.6 

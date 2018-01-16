@@ -1,0 +1,9 @@
+POI: 			Tyler_James_Williams 
+Youtube ID: 	Y9t7s7u8mEc 
+Video length: 	202.6 sec 
+Set (V): 		dev 
+ 
+Tyler_James_Williams/Y9t7s7u8mEc_0000001 38.4 43.3 
+Tyler_James_Williams/Y9t7s7u8mEc_0000002 62.1 67.0 
+Tyler_James_Williams/Y9t7s7u8mEc_0000003 73.0 103.9 
+Tyler_James_Williams/Y9t7s7u8mEc_0000004 158.6 165.8 

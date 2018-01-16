@@ -1,0 +1,9 @@
+POI: 			Kat_Dennings 
+Youtube ID: 	CXB75u6GA40 
+Video length: 	495.0 sec 
+Set (V): 		dev 
+ 
+Kat_Dennings/CXB75u6GA40_0000001 68.7 75.1 
+Kat_Dennings/CXB75u6GA40_0000002 89.9 94.3 
+Kat_Dennings/CXB75u6GA40_0000003 252.2 261.4 
+Kat_Dennings/CXB75u6GA40_0000004 463.8 468.6 

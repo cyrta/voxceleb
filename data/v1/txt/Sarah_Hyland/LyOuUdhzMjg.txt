@@ -1,0 +1,7 @@
+POI: 			Sarah_Hyland 
+Youtube ID: 	LyOuUdhzMjg 
+Video length: 	370.2 sec 
+Set (V): 		dev 
+ 
+Sarah_Hyland/LyOuUdhzMjg_0000001 190.9 199.4 
+Sarah_Hyland/LyOuUdhzMjg_0000002 245.6 249.8 

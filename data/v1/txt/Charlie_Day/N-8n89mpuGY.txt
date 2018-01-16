@@ -1,0 +1,9 @@
+POI: 			Charlie_Day 
+Youtube ID: 	N-8n89mpuGY 
+Video length: 	238.1 sec 
+Set (V): 		dev 
+ 
+Charlie_Day/N-8n89mpuGY_0000001 24.2 29.4 
+Charlie_Day/N-8n89mpuGY_0000002 24.1 29.1 
+Charlie_Day/N-8n89mpuGY_0000003 113.9 136.1 
+Charlie_Day/N-8n89mpuGY_0000004 153.7 160.3 

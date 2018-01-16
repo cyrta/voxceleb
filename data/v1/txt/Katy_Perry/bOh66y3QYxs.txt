@@ -1,0 +1,6 @@
+POI: 			Katy_Perry 
+Youtube ID: 	bOh66y3QYxs 
+Video length: 	366.1 sec 
+Set (V): 		dev 
+ 
+Katy_Perry/bOh66y3QYxs_0000001 138.6 145.6 

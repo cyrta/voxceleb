@@ -1,0 +1,15 @@
+POI: 			Taylor_Lautner 
+Youtube ID: 	MYu-RWdIEuc 
+Video length: 	224.5 sec 
+Set (V): 		dev 
+ 
+Taylor_Lautner/MYu-RWdIEuc_0000001 06.9 18.5 
+Taylor_Lautner/MYu-RWdIEuc_0000002 19.1 27.3 
+Taylor_Lautner/MYu-RWdIEuc_0000003 22.3 26.8 
+Taylor_Lautner/MYu-RWdIEuc_0000004 42.8 59.8 
+Taylor_Lautner/MYu-RWdIEuc_0000005 110.3 121.9 
+Taylor_Lautner/MYu-RWdIEuc_0000006 134.2 152.5 
+Taylor_Lautner/MYu-RWdIEuc_0000007 166.1 176.2 
+Taylor_Lautner/MYu-RWdIEuc_0000008 176.4 181.0 
+Taylor_Lautner/MYu-RWdIEuc_0000009 195.3 199.4 
+Taylor_Lautner/MYu-RWdIEuc_0000010 201.8 222.2 

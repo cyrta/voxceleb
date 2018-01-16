@@ -1,0 +1,7 @@
+POI: 			Will_Forte 
+Youtube ID: 	mbJXRLEO6uI 
+Video length: 	264.5 sec 
+Set (V): 		dev 
+ 
+Will_Forte/mbJXRLEO6uI_0000001 57.4 62.6 
+Will_Forte/mbJXRLEO6uI_0000002 170.0 174.6 

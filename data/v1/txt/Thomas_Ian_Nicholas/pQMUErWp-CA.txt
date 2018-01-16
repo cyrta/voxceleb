@@ -1,0 +1,40 @@
+POI: 			Thomas_Ian_Nicholas 
+Youtube ID: 	pQMUErWp-CA 
+Video length: 	975.6 sec 
+Set (V): 		dev 
+ 
+Thomas_Ian_Nicholas/pQMUErWp-CA_0000001 28.4 36.9 
+Thomas_Ian_Nicholas/pQMUErWp-CA_0000002 37.6 48.8 
+Thomas_Ian_Nicholas/pQMUErWp-CA_0000003 73.7 117.6 
+Thomas_Ian_Nicholas/pQMUErWp-CA_0000004 125.5 132.4 
+Thomas_Ian_Nicholas/pQMUErWp-CA_0000005 178.6 182.6 
+Thomas_Ian_Nicholas/pQMUErWp-CA_0000006 184.0 218.2 
+Thomas_Ian_Nicholas/pQMUErWp-CA_0000007 233.8 237.9 
+Thomas_Ian_Nicholas/pQMUErWp-CA_0000008 238.6 243.5 
+Thomas_Ian_Nicholas/pQMUErWp-CA_0000009 284.2 307.9 
+Thomas_Ian_Nicholas/pQMUErWp-CA_0000010 308.9 338.5 
+Thomas_Ian_Nicholas/pQMUErWp-CA_0000011 348.2 370.6 
+Thomas_Ian_Nicholas/pQMUErWp-CA_0000012 379.0 388.2 
+Thomas_Ian_Nicholas/pQMUErWp-CA_0000013 390.1 401.3 
+Thomas_Ian_Nicholas/pQMUErWp-CA_0000014 419.8 425.8 
+Thomas_Ian_Nicholas/pQMUErWp-CA_0000015 443.5 448.1 
+Thomas_Ian_Nicholas/pQMUErWp-CA_0000016 459.4 485.6 
+Thomas_Ian_Nicholas/pQMUErWp-CA_0000017 496.0 526.9 
+Thomas_Ian_Nicholas/pQMUErWp-CA_0000018 539.8 553.3 
+Thomas_Ian_Nicholas/pQMUErWp-CA_0000019 561.0 565.9 
+Thomas_Ian_Nicholas/pQMUErWp-CA_0000020 574.6 604.4 
+Thomas_Ian_Nicholas/pQMUErWp-CA_0000021 613.9 633.4 
+Thomas_Ian_Nicholas/pQMUErWp-CA_0000022 633.9 640.9 
+Thomas_Ian_Nicholas/pQMUErWp-CA_0000023 660.7 679.8 
+Thomas_Ian_Nicholas/pQMUErWp-CA_0000024 682.0 692.0 
+Thomas_Ian_Nicholas/pQMUErWp-CA_0000025 696.5 704.0 
+Thomas_Ian_Nicholas/pQMUErWp-CA_0000026 715.1 724.4 
+Thomas_Ian_Nicholas/pQMUErWp-CA_0000027 734.6 749.8 
+Thomas_Ian_Nicholas/pQMUErWp-CA_0000028 750.3 754.5 
+Thomas_Ian_Nicholas/pQMUErWp-CA_0000029 787.9 811.9 
+Thomas_Ian_Nicholas/pQMUErWp-CA_0000030 827.6 836.7 
+Thomas_Ian_Nicholas/pQMUErWp-CA_0000031 839.2 851.1 
+Thomas_Ian_Nicholas/pQMUErWp-CA_0000032 851.8 862.8 
+Thomas_Ian_Nicholas/pQMUErWp-CA_0000033 864.6 869.3 
+Thomas_Ian_Nicholas/pQMUErWp-CA_0000034 889.7 898.3 
+Thomas_Ian_Nicholas/pQMUErWp-CA_0000035 899.0 916.7 

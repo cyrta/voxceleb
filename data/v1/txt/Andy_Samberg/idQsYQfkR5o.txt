@@ -1,0 +1,7 @@
+POI: 			Andy_Samberg 
+Youtube ID: 	idQsYQfkR5o 
+Video length: 	299.7 sec 
+Set (V): 		dev 
+ 
+Andy_Samberg/idQsYQfkR5o_0000001 49.7 65.2 
+Andy_Samberg/idQsYQfkR5o_0000002 280.5 295.5 

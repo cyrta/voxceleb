@@ -1,0 +1,13 @@
+POI: 			Emily_Atack 
+Youtube ID: 	iPZGPcrYIZs 
+Video length: 	187.3 sec 
+Set (V): 		test 
+ 
+Emily_Atack/iPZGPcrYIZs_0000001 07.7 13.5 
+Emily_Atack/iPZGPcrYIZs_0000002 19.8 33.0 
+Emily_Atack/iPZGPcrYIZs_0000003 34.7 63.4 
+Emily_Atack/iPZGPcrYIZs_0000004 73.8 78.2 
+Emily_Atack/iPZGPcrYIZs_0000005 82.8 108.6 
+Emily_Atack/iPZGPcrYIZs_0000006 111.9 132.0 
+Emily_Atack/iPZGPcrYIZs_0000007 135.4 139.4 
+Emily_Atack/iPZGPcrYIZs_0000008 145.6 153.2 

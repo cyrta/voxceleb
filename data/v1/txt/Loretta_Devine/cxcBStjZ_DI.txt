@@ -1,0 +1,9 @@
+POI: 			Loretta_Devine 
+Youtube ID: 	cxcBStjZ_DI 
+Video length: 	108.4 sec 
+Set (V): 		dev 
+ 
+Loretta_Devine/cxcBStjZ_DI_0000001 42.3 47.6 
+Loretta_Devine/cxcBStjZ_DI_0000002 56.0 60.2 
+Loretta_Devine/cxcBStjZ_DI_0000003 70.5 77.4 
+Loretta_Devine/cxcBStjZ_DI_0000004 81.5 87.2 

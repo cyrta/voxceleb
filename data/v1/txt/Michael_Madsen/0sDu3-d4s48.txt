@@ -1,0 +1,8 @@
+POI: 			Michael_Madsen 
+Youtube ID: 	0sDu3-d4s48 
+Video length: 	587.6 sec 
+Set (V): 		dev 
+ 
+Michael_Madsen/0sDu3-d4s48_0000001 225.2 229.5 
+Michael_Madsen/0sDu3-d4s48_0000002 382.4 386.8 
+Michael_Madsen/0sDu3-d4s48_0000003 531.4 535.7 

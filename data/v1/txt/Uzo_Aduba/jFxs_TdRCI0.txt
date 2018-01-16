@@ -1,0 +1,21 @@
+POI: 			Uzo_Aduba 
+Youtube ID: 	jFxs_TdRCI0 
+Video length: 	329.7 sec 
+Set (V): 		dev 
+ 
+Uzo_Aduba/jFxs_TdRCI0_0000001 62.2 67.9 
+Uzo_Aduba/jFxs_TdRCI0_0000002 75.0 79.6 
+Uzo_Aduba/jFxs_TdRCI0_0000003 95.7 102.9 
+Uzo_Aduba/jFxs_TdRCI0_0000004 104.3 112.9 
+Uzo_Aduba/jFxs_TdRCI0_0000005 113.5 120.4 
+Uzo_Aduba/jFxs_TdRCI0_0000006 149.2 153.9 
+Uzo_Aduba/jFxs_TdRCI0_0000007 212.7 217.2 
+Uzo_Aduba/jFxs_TdRCI0_0000008 227.3 237.0 
+Uzo_Aduba/jFxs_TdRCI0_0000009 128.1 132.6 
+Uzo_Aduba/jFxs_TdRCI0_0000010 133.6 139.0 
+Uzo_Aduba/jFxs_TdRCI0_0000011 145.6 153.9 
+Uzo_Aduba/jFxs_TdRCI0_0000012 162.0 169.0 
+Uzo_Aduba/jFxs_TdRCI0_0000013 241.7 249.1 
+Uzo_Aduba/jFxs_TdRCI0_0000014 287.6 294.2 
+Uzo_Aduba/jFxs_TdRCI0_0000015 294.3 301.4 
+Uzo_Aduba/jFxs_TdRCI0_0000016 313.2 317.2 

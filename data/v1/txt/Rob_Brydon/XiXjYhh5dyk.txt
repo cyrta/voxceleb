@@ -1,0 +1,8 @@
+POI: 			Rob_Brydon 
+Youtube ID: 	XiXjYhh5dyk 
+Video length: 	233.9 sec 
+Set (V): 		dev 
+ 
+Rob_Brydon/XiXjYhh5dyk_0000001 102.1 107.2 
+Rob_Brydon/XiXjYhh5dyk_0000002 184.1 188.1 
+Rob_Brydon/XiXjYhh5dyk_0000003 197.7 201.9 

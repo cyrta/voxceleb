@@ -1,0 +1,11 @@
+POI: 			Reece_Ritchie 
+Youtube ID: 	AL-yE60Tt1o 
+Video length: 	260.8 sec 
+Set (V): 		dev 
+ 
+Reece_Ritchie/AL-yE60Tt1o_0000001 72.2 79.1 
+Reece_Ritchie/AL-yE60Tt1o_0000002 79.8 84.1 
+Reece_Ritchie/AL-yE60Tt1o_0000003 84.8 90.8 
+Reece_Ritchie/AL-yE60Tt1o_0000004 188.8 196.2 
+Reece_Ritchie/AL-yE60Tt1o_0000005 196.6 204.0 
+Reece_Ritchie/AL-yE60Tt1o_0000006 206.2 217.2 

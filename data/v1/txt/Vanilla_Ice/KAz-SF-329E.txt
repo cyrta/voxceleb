@@ -1,0 +1,16 @@
+POI: 			Vanilla_Ice 
+Youtube ID: 	KAz-SF-329E 
+Video length: 	565.8 sec 
+Set (V): 		dev 
+ 
+Vanilla_Ice/KAz-SF-329E_0000001 76.6 85.0 
+Vanilla_Ice/KAz-SF-329E_0000002 190.8 196.2 
+Vanilla_Ice/KAz-SF-329E_0000003 258.8 263.0 
+Vanilla_Ice/KAz-SF-329E_0000004 272.9 278.9 
+Vanilla_Ice/KAz-SF-329E_0000005 279.0 284.3 
+Vanilla_Ice/KAz-SF-329E_0000006 311.4 316.4 
+Vanilla_Ice/KAz-SF-329E_0000007 476.8 484.3 
+Vanilla_Ice/KAz-SF-329E_0000008 484.7 490.3 
+Vanilla_Ice/KAz-SF-329E_0000009 505.0 509.3 
+Vanilla_Ice/KAz-SF-329E_0000010 509.8 523.2 
+Vanilla_Ice/KAz-SF-329E_0000011 526.1 531.3 

@@ -1,0 +1,7 @@
+POI: 			Vicky_McClure 
+Youtube ID: 	E50E58jQzQU 
+Video length: 	194.8 sec 
+Set (V): 		dev 
+ 
+Vicky_McClure/E50E58jQzQU_0000001 110.3 120.6 
+Vicky_McClure/E50E58jQzQU_0000002 130.5 135.7 

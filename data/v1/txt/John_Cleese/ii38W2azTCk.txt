@@ -1,0 +1,13 @@
+POI: 			John_Cleese 
+Youtube ID: 	ii38W2azTCk 
+Video length: 	724.9 sec 
+Set (V): 		dev 
+ 
+John_Cleese/ii38W2azTCk_0000001 118.1 123.4 
+John_Cleese/ii38W2azTCk_0000002 148.5 152.6 
+John_Cleese/ii38W2azTCk_0000003 159.3 164.4 
+John_Cleese/ii38W2azTCk_0000004 336.2 342.2 
+John_Cleese/ii38W2azTCk_0000005 383.9 394.7 
+John_Cleese/ii38W2azTCk_0000006 397.8 404.2 
+John_Cleese/ii38W2azTCk_0000007 585.8 593.7 
+John_Cleese/ii38W2azTCk_0000008 688.2 692.7 

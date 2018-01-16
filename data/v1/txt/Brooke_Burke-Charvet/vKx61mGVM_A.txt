@@ -1,0 +1,13 @@
+POI: 			Brooke_Burke-Charvet 
+Youtube ID: 	vKx61mGVM_A 
+Video length: 	367.5 sec 
+Set (V): 		dev 
+ 
+Brooke_Burke-Charvet/vKx61mGVM_A_0000001 22.4 39.9 
+Brooke_Burke-Charvet/vKx61mGVM_A_0000002 75.4 82.2 
+Brooke_Burke-Charvet/vKx61mGVM_A_0000003 118.4 122.4 
+Brooke_Burke-Charvet/vKx61mGVM_A_0000004 142.0 148.9 
+Brooke_Burke-Charvet/vKx61mGVM_A_0000005 245.0 249.3 
+Brooke_Burke-Charvet/vKx61mGVM_A_0000006 258.3 264.4 
+Brooke_Burke-Charvet/vKx61mGVM_A_0000007 315.5 320.2 
+Brooke_Burke-Charvet/vKx61mGVM_A_0000008 352.4 356.7 

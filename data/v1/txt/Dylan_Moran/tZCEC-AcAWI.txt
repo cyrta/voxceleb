@@ -1,0 +1,9 @@
+POI: 			Dylan_Moran 
+Youtube ID: 	tZCEC-AcAWI 
+Video length: 	200.5 sec 
+Set (V): 		dev 
+ 
+Dylan_Moran/tZCEC-AcAWI_0000001 98.2 106.3 
+Dylan_Moran/tZCEC-AcAWI_0000002 126.6 138.4 
+Dylan_Moran/tZCEC-AcAWI_0000003 144.8 153.0 
+Dylan_Moran/tZCEC-AcAWI_0000004 161.6 168.6 

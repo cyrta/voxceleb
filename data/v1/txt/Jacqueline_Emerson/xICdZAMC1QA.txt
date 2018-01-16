@@ -1,0 +1,8 @@
+POI: 			Jacqueline_Emerson 
+Youtube ID: 	xICdZAMC1QA 
+Video length: 	536.5 sec 
+Set (V): 		dev 
+ 
+Jacqueline_Emerson/xICdZAMC1QA_0000001 58.2 62.4 
+Jacqueline_Emerson/xICdZAMC1QA_0000002 67.0 91.4 
+Jacqueline_Emerson/xICdZAMC1QA_0000003 250.0 256.6 

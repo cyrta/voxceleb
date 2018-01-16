@@ -1,0 +1,8 @@
+POI: 			Dana_Delany 
+Youtube ID: 	L-ltfAiM1PQ 
+Video length: 	427.9 sec 
+Set (V): 		dev 
+ 
+Dana_Delany/L-ltfAiM1PQ_0000001 133.0 140.8 
+Dana_Delany/L-ltfAiM1PQ_0000002 141.6 150.1 
+Dana_Delany/L-ltfAiM1PQ_0000003 219.0 225.3 

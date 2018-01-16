@@ -1,0 +1,8 @@
+POI: 			Kierston_Wareing 
+Youtube ID: 	bfKHqPiatF4 
+Video length: 	104.2 sec 
+Set (V): 		dev 
+ 
+Kierston_Wareing/bfKHqPiatF4_0000001 39.2 44.0 
+Kierston_Wareing/bfKHqPiatF4_0000002 58.4 66.8 
+Kierston_Wareing/bfKHqPiatF4_0000003 73.6 79.7 

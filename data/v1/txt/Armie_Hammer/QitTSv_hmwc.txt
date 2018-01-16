@@ -1,0 +1,10 @@
+POI: 			Armie_Hammer 
+Youtube ID: 	QitTSv_hmwc 
+Video length: 	495.8 sec 
+Set (V): 		dev 
+ 
+Armie_Hammer/QitTSv_hmwc_0000001 200.5 209.9 
+Armie_Hammer/QitTSv_hmwc_0000002 214.4 225.0 
+Armie_Hammer/QitTSv_hmwc_0000003 225.9 230.0 
+Armie_Hammer/QitTSv_hmwc_0000004 390.2 394.5 
+Armie_Hammer/QitTSv_hmwc_0000005 465.6 474.3 

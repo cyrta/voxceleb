@@ -1,0 +1,14 @@
+POI: 			Aidan_Turner 
+Youtube ID: 	hgB5ziAudzU 
+Video length: 	865.0 sec 
+Set (V): 		dev 
+ 
+Aidan_Turner/hgB5ziAudzU_0000001 177.3 184.2 
+Aidan_Turner/hgB5ziAudzU_0000002 201.9 213.0 
+Aidan_Turner/hgB5ziAudzU_0000003 223.2 242.7 
+Aidan_Turner/hgB5ziAudzU_0000004 276.6 294.2 
+Aidan_Turner/hgB5ziAudzU_0000005 295.0 299.1 
+Aidan_Turner/hgB5ziAudzU_0000006 300.3 311.3 
+Aidan_Turner/hgB5ziAudzU_0000007 312.0 316.3 
+Aidan_Turner/hgB5ziAudzU_0000008 316.9 324.5 
+Aidan_Turner/hgB5ziAudzU_0000009 632.2 655.0 

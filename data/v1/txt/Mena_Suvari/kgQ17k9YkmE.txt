@@ -1,0 +1,7 @@
+POI: 			Mena_Suvari 
+Youtube ID: 	kgQ17k9YkmE 
+Video length: 	56.1 sec 
+Set (V): 		dev 
+ 
+Mena_Suvari/kgQ17k9YkmE_0000001 20.5 25.6 
+Mena_Suvari/kgQ17k9YkmE_0000002 30.2 39.2 

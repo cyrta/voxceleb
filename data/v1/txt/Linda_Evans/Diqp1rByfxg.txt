@@ -1,0 +1,16 @@
+POI: 			Linda_Evans 
+Youtube ID: 	Diqp1rByfxg 
+Video length: 	314.1 sec 
+Set (V): 		dev 
+ 
+Linda_Evans/Diqp1rByfxg_0000001 08.5 23.0 
+Linda_Evans/Diqp1rByfxg_0000002 41.7 49.1 
+Linda_Evans/Diqp1rByfxg_0000003 61.8 67.7 
+Linda_Evans/Diqp1rByfxg_0000004 68.7 77.5 
+Linda_Evans/Diqp1rByfxg_0000005 123.1 128.1 
+Linda_Evans/Diqp1rByfxg_0000006 130.7 136.2 
+Linda_Evans/Diqp1rByfxg_0000007 143.8 148.9 
+Linda_Evans/Diqp1rByfxg_0000008 215.6 221.1 
+Linda_Evans/Diqp1rByfxg_0000009 230.4 235.3 
+Linda_Evans/Diqp1rByfxg_0000010 279.0 285.4 
+Linda_Evans/Diqp1rByfxg_0000011 301.9 308.4 

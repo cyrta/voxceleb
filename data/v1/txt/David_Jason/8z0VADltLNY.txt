@@ -1,0 +1,13 @@
+POI: 			David_Jason 
+Youtube ID: 	8z0VADltLNY 
+Video length: 	450.1 sec 
+Set (V): 		dev 
+ 
+David_Jason/8z0VADltLNY_0000001 49.2 53.8 
+David_Jason/8z0VADltLNY_0000002 65.3 73.0 
+David_Jason/8z0VADltLNY_0000003 134.3 143.9 
+David_Jason/8z0VADltLNY_0000004 146.4 153.1 
+David_Jason/8z0VADltLNY_0000005 161.2 168.8 
+David_Jason/8z0VADltLNY_0000006 172.8 178.0 
+David_Jason/8z0VADltLNY_0000007 279.0 286.6 
+David_Jason/8z0VADltLNY_0000008 301.4 311.3 

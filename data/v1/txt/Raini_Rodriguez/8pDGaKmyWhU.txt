@@ -1,0 +1,19 @@
+POI: 			Raini_Rodriguez 
+Youtube ID: 	8pDGaKmyWhU 
+Video length: 	261.7 sec 
+Set (V): 		dev 
+ 
+Raini_Rodriguez/8pDGaKmyWhU_0000001 22.2 27.1 
+Raini_Rodriguez/8pDGaKmyWhU_0000002 27.4 37.6 
+Raini_Rodriguez/8pDGaKmyWhU_0000003 42.7 51.4 
+Raini_Rodriguez/8pDGaKmyWhU_0000004 60.9 66.0 
+Raini_Rodriguez/8pDGaKmyWhU_0000005 92.2 100.4 
+Raini_Rodriguez/8pDGaKmyWhU_0000006 114.6 118.6 
+Raini_Rodriguez/8pDGaKmyWhU_0000007 130.2 141.9 
+Raini_Rodriguez/8pDGaKmyWhU_0000008 173.7 181.9 
+Raini_Rodriguez/8pDGaKmyWhU_0000009 185.2 192.3 
+Raini_Rodriguez/8pDGaKmyWhU_0000010 193.4 198.3 
+Raini_Rodriguez/8pDGaKmyWhU_0000011 176.0 181.9 
+Raini_Rodriguez/8pDGaKmyWhU_0000012 185.2 192.0 
+Raini_Rodriguez/8pDGaKmyWhU_0000013 223.8 236.4 
+Raini_Rodriguez/8pDGaKmyWhU_0000014 242.8 250.8 

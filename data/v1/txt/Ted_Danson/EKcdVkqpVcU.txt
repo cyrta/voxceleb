@@ -1,0 +1,6 @@
+POI: 			Ted_Danson 
+Youtube ID: 	EKcdVkqpVcU 
+Video length: 	123.9 sec 
+Set (V): 		dev 
+ 
+Ted_Danson/EKcdVkqpVcU_0000001 12.0 16.5 

@@ -1,0 +1,11 @@
+POI: 			Felicia_Day 
+Youtube ID: 	K3V0L6XL5ew 
+Video length: 	228.4 sec 
+Set (V): 		dev 
+ 
+Felicia_Day/K3V0L6XL5ew_0000001 06.7 22.2 
+Felicia_Day/K3V0L6XL5ew_0000002 54.0 60.7 
+Felicia_Day/K3V0L6XL5ew_0000003 122.6 128.4 
+Felicia_Day/K3V0L6XL5ew_0000004 154.4 165.0 
+Felicia_Day/K3V0L6XL5ew_0000005 185.7 199.1 
+Felicia_Day/K3V0L6XL5ew_0000006 201.3 209.5 

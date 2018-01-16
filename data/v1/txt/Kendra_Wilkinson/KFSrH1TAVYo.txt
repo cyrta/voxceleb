@@ -1,0 +1,13 @@
+POI: 			Kendra_Wilkinson 
+Youtube ID: 	KFSrH1TAVYo 
+Video length: 	435.7 sec 
+Set (V): 		dev 
+ 
+Kendra_Wilkinson/KFSrH1TAVYo_0000001 34.4 39.2 
+Kendra_Wilkinson/KFSrH1TAVYo_0000002 42.8 47.6 
+Kendra_Wilkinson/KFSrH1TAVYo_0000003 73.5 81.1 
+Kendra_Wilkinson/KFSrH1TAVYo_0000004 90.1 100.0 
+Kendra_Wilkinson/KFSrH1TAVYo_0000005 100.5 108.5 
+Kendra_Wilkinson/KFSrH1TAVYo_0000006 109.5 114.9 
+Kendra_Wilkinson/KFSrH1TAVYo_0000007 160.4 164.7 
+Kendra_Wilkinson/KFSrH1TAVYo_0000008 357.7 363.6 

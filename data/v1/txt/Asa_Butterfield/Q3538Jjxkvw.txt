@@ -1,0 +1,19 @@
+POI: 			Asa_Butterfield 
+Youtube ID: 	Q3538Jjxkvw 
+Video length: 	323.3 sec 
+Set (V): 		dev 
+ 
+Asa_Butterfield/Q3538Jjxkvw_0000001 11.8 23.4 
+Asa_Butterfield/Q3538Jjxkvw_0000002 31.1 36.0 
+Asa_Butterfield/Q3538Jjxkvw_0000003 31.1 36.7 
+Asa_Butterfield/Q3538Jjxkvw_0000004 45.1 49.2 
+Asa_Butterfield/Q3538Jjxkvw_0000005 83.6 96.1 
+Asa_Butterfield/Q3538Jjxkvw_0000006 112.2 116.9 
+Asa_Butterfield/Q3538Jjxkvw_0000007 126.6 135.4 
+Asa_Butterfield/Q3538Jjxkvw_0000008 136.5 141.9 
+Asa_Butterfield/Q3538Jjxkvw_0000009 205.3 215.0 
+Asa_Butterfield/Q3538Jjxkvw_0000010 215.1 223.0 
+Asa_Butterfield/Q3538Jjxkvw_0000011 247.4 253.2 
+Asa_Butterfield/Q3538Jjxkvw_0000012 253.5 260.0 
+Asa_Butterfield/Q3538Jjxkvw_0000013 282.4 286.4 
+Asa_Butterfield/Q3538Jjxkvw_0000014 290.4 297.8 

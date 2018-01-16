@@ -1,0 +1,9 @@
+POI: 			Goran_Visnjic 
+Youtube ID: 	LT-BNQKA9NU 
+Video length: 	92.3 sec 
+Set (V): 		dev 
+ 
+Goran_Visnjic/LT-BNQKA9NU_0000001 45.9 50.2 
+Goran_Visnjic/LT-BNQKA9NU_0000002 51.2 59.5 
+Goran_Visnjic/LT-BNQKA9NU_0000003 62.4 70.0 
+Goran_Visnjic/LT-BNQKA9NU_0000004 72.9 80.6 

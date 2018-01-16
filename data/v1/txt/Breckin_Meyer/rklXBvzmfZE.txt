@@ -1,0 +1,11 @@
+POI: 			Breckin_Meyer 
+Youtube ID: 	rklXBvzmfZE 
+Video length: 	515.8 sec 
+Set (V): 		dev 
+ 
+Breckin_Meyer/rklXBvzmfZE_0000001 71.1 90.9 
+Breckin_Meyer/rklXBvzmfZE_0000002 93.1 100.2 
+Breckin_Meyer/rklXBvzmfZE_0000003 282.8 287.3 
+Breckin_Meyer/rklXBvzmfZE_0000004 290.9 299.1 
+Breckin_Meyer/rklXBvzmfZE_0000005 404.0 409.4 
+Breckin_Meyer/rklXBvzmfZE_0000006 413.0 417.5 

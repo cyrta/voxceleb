@@ -1,0 +1,27 @@
+POI: 			Thomas_Ian_Nicholas 
+Youtube ID: 	ZLUG261s9R4 
+Video length: 	290.2 sec 
+Set (V): 		dev 
+ 
+Thomas_Ian_Nicholas/ZLUG261s9R4_0000001 08.3 29.7 
+Thomas_Ian_Nicholas/ZLUG261s9R4_0000002 32.7 38.7 
+Thomas_Ian_Nicholas/ZLUG261s9R4_0000003 41.2 48.6 
+Thomas_Ian_Nicholas/ZLUG261s9R4_0000004 48.8 60.1 
+Thomas_Ian_Nicholas/ZLUG261s9R4_0000005 63.4 67.6 
+Thomas_Ian_Nicholas/ZLUG261s9R4_0000006 73.6 78.1 
+Thomas_Ian_Nicholas/ZLUG261s9R4_0000007 83.8 96.0 
+Thomas_Ian_Nicholas/ZLUG261s9R4_0000008 96.1 109.3 
+Thomas_Ian_Nicholas/ZLUG261s9R4_0000009 109.7 115.5 
+Thomas_Ian_Nicholas/ZLUG261s9R4_0000010 61.0 78.1 
+Thomas_Ian_Nicholas/ZLUG261s9R4_0000011 121.1 127.8 
+Thomas_Ian_Nicholas/ZLUG261s9R4_0000012 129.8 139.1 
+Thomas_Ian_Nicholas/ZLUG261s9R4_0000013 143.8 170.1 
+Thomas_Ian_Nicholas/ZLUG261s9R4_0000014 170.7 177.6 
+Thomas_Ian_Nicholas/ZLUG261s9R4_0000015 177.8 186.8 
+Thomas_Ian_Nicholas/ZLUG261s9R4_0000016 190.0 212.5 
+Thomas_Ian_Nicholas/ZLUG261s9R4_0000017 214.0 222.8 
+Thomas_Ian_Nicholas/ZLUG261s9R4_0000018 228.7 249.1 
+Thomas_Ian_Nicholas/ZLUG261s9R4_0000019 251.6 263.0 
+Thomas_Ian_Nicholas/ZLUG261s9R4_0000020 263.2 268.4 
+Thomas_Ian_Nicholas/ZLUG261s9R4_0000021 269.0 273.0 
+Thomas_Ian_Nicholas/ZLUG261s9R4_0000022 278.2 283.4 

@@ -1,0 +1,8 @@
+POI: 			Tracy_Morgan 
+Youtube ID: 	saOFO86_BCw 
+Video length: 	245.3 sec 
+Set (V): 		dev 
+ 
+Tracy_Morgan/saOFO86_BCw_0000001 73.3 78.6 
+Tracy_Morgan/saOFO86_BCw_0000002 136.3 145.1 
+Tracy_Morgan/saOFO86_BCw_0000003 188.5 194.8 

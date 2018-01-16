@@ -1,0 +1,12 @@
+POI: 			Shay_Mitchell 
+Youtube ID: 	fdRUShyNuE8 
+Video length: 	225.4 sec 
+Set (V): 		dev 
+ 
+Shay_Mitchell/fdRUShyNuE8_0000001 20.9 35.0 
+Shay_Mitchell/fdRUShyNuE8_0000002 48.2 67.7 
+Shay_Mitchell/fdRUShyNuE8_0000003 75.6 86.2 
+Shay_Mitchell/fdRUShyNuE8_0000004 106.8 128.9 
+Shay_Mitchell/fdRUShyNuE8_0000005 138.2 165.3 
+Shay_Mitchell/fdRUShyNuE8_0000006 171.0 184.4 
+Shay_Mitchell/fdRUShyNuE8_0000007 197.7 209.0 

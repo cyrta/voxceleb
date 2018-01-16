@@ -1,0 +1,26 @@
+POI: 			Sarah_Wayne_Callies 
+Youtube ID: 	bW17H-OTZqg 
+Video length: 	402.5 sec 
+Set (V): 		dev 
+ 
+Sarah_Wayne_Callies/bW17H-OTZqg_0000001 23.6 28.4 
+Sarah_Wayne_Callies/bW17H-OTZqg_0000002 31.8 38.6 
+Sarah_Wayne_Callies/bW17H-OTZqg_0000003 40.2 58.0 
+Sarah_Wayne_Callies/bW17H-OTZqg_0000004 95.1 99.8 
+Sarah_Wayne_Callies/bW17H-OTZqg_0000005 108.0 112.1 
+Sarah_Wayne_Callies/bW17H-OTZqg_0000006 120.6 128.0 
+Sarah_Wayne_Callies/bW17H-OTZqg_0000007 156.1 162.9 
+Sarah_Wayne_Callies/bW17H-OTZqg_0000008 165.8 174.4 
+Sarah_Wayne_Callies/bW17H-OTZqg_0000009 178.2 184.1 
+Sarah_Wayne_Callies/bW17H-OTZqg_0000010 186.0 194.0 
+Sarah_Wayne_Callies/bW17H-OTZqg_0000011 204.2 209.0 
+Sarah_Wayne_Callies/bW17H-OTZqg_0000012 210.6 214.8 
+Sarah_Wayne_Callies/bW17H-OTZqg_0000013 220.6 226.3 
+Sarah_Wayne_Callies/bW17H-OTZqg_0000014 231.1 237.6 
+Sarah_Wayne_Callies/bW17H-OTZqg_0000015 242.1 246.3 
+Sarah_Wayne_Callies/bW17H-OTZqg_0000016 272.1 276.9 
+Sarah_Wayne_Callies/bW17H-OTZqg_0000017 280.6 287.8 
+Sarah_Wayne_Callies/bW17H-OTZqg_0000018 295.8 301.0 
+Sarah_Wayne_Callies/bW17H-OTZqg_0000019 353.6 362.8 
+Sarah_Wayne_Callies/bW17H-OTZqg_0000020 376.6 381.0 
+Sarah_Wayne_Callies/bW17H-OTZqg_0000021 384.3 390.4 

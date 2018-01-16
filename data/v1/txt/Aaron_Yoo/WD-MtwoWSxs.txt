@@ -1,0 +1,14 @@
+POI: 			Aaron_Yoo 
+Youtube ID: 	WD-MtwoWSxs 
+Video length: 	461.5 sec 
+Set (V): 		dev 
+ 
+Aaron_Yoo/WD-MtwoWSxs_0000001 272.0 277.5 
+Aaron_Yoo/WD-MtwoWSxs_0000002 283.2 289.7 
+Aaron_Yoo/WD-MtwoWSxs_0000003 293.6 299.1 
+Aaron_Yoo/WD-MtwoWSxs_0000004 300.2 308.2 
+Aaron_Yoo/WD-MtwoWSxs_0000005 314.0 332.6 
+Aaron_Yoo/WD-MtwoWSxs_0000006 349.1 364.2 
+Aaron_Yoo/WD-MtwoWSxs_0000007 368.4 380.8 
+Aaron_Yoo/WD-MtwoWSxs_0000008 386.9 393.3 
+Aaron_Yoo/WD-MtwoWSxs_0000009 424.8 433.4 

@@ -1,0 +1,15 @@
+POI: 			Carolyn_Hennesy 
+Youtube ID: 	WNax7CKZXVU 
+Video length: 	369.8 sec 
+Set (V): 		dev 
+ 
+Carolyn_Hennesy/WNax7CKZXVU_0000001 43.7 50.5 
+Carolyn_Hennesy/WNax7CKZXVU_0000002 56.6 62.5 
+Carolyn_Hennesy/WNax7CKZXVU_0000003 94.0 100.6 
+Carolyn_Hennesy/WNax7CKZXVU_0000004 103.2 107.3 
+Carolyn_Hennesy/WNax7CKZXVU_0000005 137.5 145.8 
+Carolyn_Hennesy/WNax7CKZXVU_0000006 150.8 156.3 
+Carolyn_Hennesy/WNax7CKZXVU_0000007 190.5 195.2 
+Carolyn_Hennesy/WNax7CKZXVU_0000008 196.6 203.6 
+Carolyn_Hennesy/WNax7CKZXVU_0000009 211.6 216.0 
+Carolyn_Hennesy/WNax7CKZXVU_0000010 221.9 229.0 

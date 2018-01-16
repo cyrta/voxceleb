@@ -1,0 +1,12 @@
+POI: 			Jason_Clarke 
+Youtube ID: 	Zacvqi_R0DM 
+Video length: 	416.7 sec 
+Set (V): 		dev 
+ 
+Jason_Clarke/Zacvqi_R0DM_0000001 15.2 20.4 
+Jason_Clarke/Zacvqi_R0DM_0000002 24.2 30.8 
+Jason_Clarke/Zacvqi_R0DM_0000003 61.6 72.2 
+Jason_Clarke/Zacvqi_R0DM_0000004 74.9 81.6 
+Jason_Clarke/Zacvqi_R0DM_0000005 114.8 125.2 
+Jason_Clarke/Zacvqi_R0DM_0000006 227.0 232.7 
+Jason_Clarke/Zacvqi_R0DM_0000007 240.4 249.6 

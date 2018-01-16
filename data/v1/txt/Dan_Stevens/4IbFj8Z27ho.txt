@@ -1,0 +1,13 @@
+POI: 			Dan_Stevens 
+Youtube ID: 	4IbFj8Z27ho 
+Video length: 	246.5 sec 
+Set (V): 		dev 
+ 
+Dan_Stevens/4IbFj8Z27ho_0000001 15.4 32.3 
+Dan_Stevens/4IbFj8Z27ho_0000002 83.1 94.3 
+Dan_Stevens/4IbFj8Z27ho_0000003 94.6 109.6 
+Dan_Stevens/4IbFj8Z27ho_0000004 111.4 117.2 
+Dan_Stevens/4IbFj8Z27ho_0000005 134.7 139.7 
+Dan_Stevens/4IbFj8Z27ho_0000006 167.7 173.9 
+Dan_Stevens/4IbFj8Z27ho_0000007 178.6 183.2 
+Dan_Stevens/4IbFj8Z27ho_0000008 213.3 218.0 

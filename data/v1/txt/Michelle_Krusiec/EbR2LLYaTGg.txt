@@ -1,0 +1,11 @@
+POI: 			Michelle_Krusiec 
+Youtube ID: 	EbR2LLYaTGg 
+Video length: 	131.1 sec 
+Set (V): 		dev 
+ 
+Michelle_Krusiec/EbR2LLYaTGg_0000001 10.8 16.3 
+Michelle_Krusiec/EbR2LLYaTGg_0000002 21.5 26.2 
+Michelle_Krusiec/EbR2LLYaTGg_0000003 43.4 49.1 
+Michelle_Krusiec/EbR2LLYaTGg_0000004 64.2 68.4 
+Michelle_Krusiec/EbR2LLYaTGg_0000005 76.6 85.9 
+Michelle_Krusiec/EbR2LLYaTGg_0000006 103.1 110.1 

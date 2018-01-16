@@ -1,0 +1,16 @@
+POI: 			Wentworth_Miller 
+Youtube ID: 	UdtAnDd6_S0 
+Video length: 	242.1 sec 
+Set (V): 		dev 
+ 
+Wentworth_Miller/UdtAnDd6_S0_0000001 90.4 106.3 
+Wentworth_Miller/UdtAnDd6_S0_0000002 113.8 119.8 
+Wentworth_Miller/UdtAnDd6_S0_0000003 120.0 124.8 
+Wentworth_Miller/UdtAnDd6_S0_0000004 129.0 138.4 
+Wentworth_Miller/UdtAnDd6_S0_0000005 140.5 147.8 
+Wentworth_Miller/UdtAnDd6_S0_0000006 148.0 166.5 
+Wentworth_Miller/UdtAnDd6_S0_0000007 171.0 177.1 
+Wentworth_Miller/UdtAnDd6_S0_0000008 178.5 184.5 
+Wentworth_Miller/UdtAnDd6_S0_0000009 186.3 206.3 
+Wentworth_Miller/UdtAnDd6_S0_0000010 215.4 222.1 
+Wentworth_Miller/UdtAnDd6_S0_0000011 223.2 235.8 

@@ -1,0 +1,10 @@
+POI: 			Alex_Trebek 
+Youtube ID: 	6gC4DEnwYkY 
+Video length: 	129.4 sec 
+Set (V): 		dev 
+ 
+Alex_Trebek/6gC4DEnwYkY_0000001 08.3 41.8 
+Alex_Trebek/6gC4DEnwYkY_0000002 42.7 66.2 
+Alex_Trebek/6gC4DEnwYkY_0000003 66.9 92.8 
+Alex_Trebek/6gC4DEnwYkY_0000004 99.0 105.4 
+Alex_Trebek/6gC4DEnwYkY_0000005 106.1 110.8 

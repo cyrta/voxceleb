@@ -1,0 +1,10 @@
+POI: 			Charlotte_Gainsbourg 
+Youtube ID: 	Sr1q5NvHYdM 
+Video length: 	374.2 sec 
+Set (V): 		dev 
+ 
+Charlotte_Gainsbourg/Sr1q5NvHYdM_0000001 19.8 25.8 
+Charlotte_Gainsbourg/Sr1q5NvHYdM_0000002 225.0 230.5 
+Charlotte_Gainsbourg/Sr1q5NvHYdM_0000003 311.9 325.5 
+Charlotte_Gainsbourg/Sr1q5NvHYdM_0000004 328.8 333.4 
+Charlotte_Gainsbourg/Sr1q5NvHYdM_0000005 356.6 362.5 

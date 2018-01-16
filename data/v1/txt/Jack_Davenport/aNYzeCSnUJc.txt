@@ -1,0 +1,9 @@
+POI: 			Jack_Davenport 
+Youtube ID: 	aNYzeCSnUJc 
+Video length: 	242.1 sec 
+Set (V): 		dev 
+ 
+Jack_Davenport/aNYzeCSnUJc_0000001 53.4 57.4 
+Jack_Davenport/aNYzeCSnUJc_0000002 52.9 57.8 
+Jack_Davenport/aNYzeCSnUJc_0000003 164.6 168.5 
+Jack_Davenport/aNYzeCSnUJc_0000004 226.4 230.9 

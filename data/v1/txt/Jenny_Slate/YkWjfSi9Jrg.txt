@@ -1,0 +1,20 @@
+POI: 			Jenny_Slate 
+Youtube ID: 	YkWjfSi9Jrg 
+Video length: 	415.8 sec 
+Set (V): 		dev 
+ 
+Jenny_Slate/YkWjfSi9Jrg_0000001 65.0 89.7 
+Jenny_Slate/YkWjfSi9Jrg_0000002 96.7 100.8 
+Jenny_Slate/YkWjfSi9Jrg_0000003 122.4 132.6 
+Jenny_Slate/YkWjfSi9Jrg_0000004 133.3 142.4 
+Jenny_Slate/YkWjfSi9Jrg_0000005 143.5 151.7 
+Jenny_Slate/YkWjfSi9Jrg_0000006 202.5 209.2 
+Jenny_Slate/YkWjfSi9Jrg_0000007 224.5 239.6 
+Jenny_Slate/YkWjfSi9Jrg_0000008 246.8 255.7 
+Jenny_Slate/YkWjfSi9Jrg_0000009 271.8 279.4 
+Jenny_Slate/YkWjfSi9Jrg_0000010 286.0 290.5 
+Jenny_Slate/YkWjfSi9Jrg_0000011 299.8 307.3 
+Jenny_Slate/YkWjfSi9Jrg_0000012 344.4 352.3 
+Jenny_Slate/YkWjfSi9Jrg_0000013 361.0 366.8 
+Jenny_Slate/YkWjfSi9Jrg_0000014 373.5 377.5 
+Jenny_Slate/YkWjfSi9Jrg_0000015 379.6 387.3 

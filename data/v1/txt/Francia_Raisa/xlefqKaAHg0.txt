@@ -1,0 +1,12 @@
+POI: 			Francia_Raisa 
+Youtube ID: 	xlefqKaAHg0 
+Video length: 	177.3 sec 
+Set (V): 		dev 
+ 
+Francia_Raisa/xlefqKaAHg0_0000001 33.9 54.7 
+Francia_Raisa/xlefqKaAHg0_0000002 82.1 89.2 
+Francia_Raisa/xlefqKaAHg0_0000003 89.8 96.4 
+Francia_Raisa/xlefqKaAHg0_0000004 96.6 104.0 
+Francia_Raisa/xlefqKaAHg0_0000005 117.0 134.9 
+Francia_Raisa/xlefqKaAHg0_0000006 153.6 159.4 
+Francia_Raisa/xlefqKaAHg0_0000007 159.7 167.6 

@@ -1,0 +1,9 @@
+POI: 			Chris_Pine 
+Youtube ID: 	Y5JA85Feaac 
+Video length: 	218.3 sec 
+Set (V): 		dev 
+ 
+Chris_Pine/Y5JA85Feaac_0000001 52.8 56.9 
+Chris_Pine/Y5JA85Feaac_0000002 117.3 122.5 
+Chris_Pine/Y5JA85Feaac_0000003 129.9 134.9 
+Chris_Pine/Y5JA85Feaac_0000004 137.7 144.8 

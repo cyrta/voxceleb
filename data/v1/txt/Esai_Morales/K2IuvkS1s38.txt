@@ -1,0 +1,8 @@
+POI: 			Esai_Morales 
+Youtube ID: 	K2IuvkS1s38 
+Video length: 	172.6 sec 
+Set (V): 		test 
+ 
+Esai_Morales/K2IuvkS1s38_0000001 63.6 72.2 
+Esai_Morales/K2IuvkS1s38_0000002 94.2 99.2 
+Esai_Morales/K2IuvkS1s38_0000003 99.5 104.1 

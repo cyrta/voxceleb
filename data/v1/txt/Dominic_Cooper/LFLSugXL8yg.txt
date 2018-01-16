@@ -1,0 +1,10 @@
+POI: 			Dominic_Cooper 
+Youtube ID: 	LFLSugXL8yg 
+Video length: 	317.5 sec 
+Set (V): 		dev 
+ 
+Dominic_Cooper/LFLSugXL8yg_0000001 52.2 61.8 
+Dominic_Cooper/LFLSugXL8yg_0000002 88.1 95.9 
+Dominic_Cooper/LFLSugXL8yg_0000003 105.6 119.1 
+Dominic_Cooper/LFLSugXL8yg_0000004 122.4 130.2 
+Dominic_Cooper/LFLSugXL8yg_0000005 130.6 137.6 

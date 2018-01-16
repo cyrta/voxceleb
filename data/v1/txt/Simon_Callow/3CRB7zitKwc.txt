@@ -1,0 +1,15 @@
+POI: 			Simon_Callow 
+Youtube ID: 	3CRB7zitKwc 
+Video length: 	469.7 sec 
+Set (V): 		dev 
+ 
+Simon_Callow/3CRB7zitKwc_0000001 28.1 33.1 
+Simon_Callow/3CRB7zitKwc_0000002 35.4 54.3 
+Simon_Callow/3CRB7zitKwc_0000003 69.0 77.9 
+Simon_Callow/3CRB7zitKwc_0000004 84.0 89.2 
+Simon_Callow/3CRB7zitKwc_0000005 151.2 163.9 
+Simon_Callow/3CRB7zitKwc_0000006 227.4 235.8 
+Simon_Callow/3CRB7zitKwc_0000007 241.3 251.1 
+Simon_Callow/3CRB7zitKwc_0000008 260.8 281.6 
+Simon_Callow/3CRB7zitKwc_0000009 340.4 349.6 
+Simon_Callow/3CRB7zitKwc_0000010 363.4 447.1 

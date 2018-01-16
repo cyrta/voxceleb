@@ -1,0 +1,16 @@
+POI: 			Diane_Kruger 
+Youtube ID: 	PYswSsBw8vI 
+Video length: 	284.2 sec 
+Set (V): 		dev 
+ 
+Diane_Kruger/PYswSsBw8vI_0000001 47.1 55.8 
+Diane_Kruger/PYswSsBw8vI_0000002 59.9 65.5 
+Diane_Kruger/PYswSsBw8vI_0000003 67.0 72.8 
+Diane_Kruger/PYswSsBw8vI_0000004 77.1 87.2 
+Diane_Kruger/PYswSsBw8vI_0000005 88.3 93.5 
+Diane_Kruger/PYswSsBw8vI_0000006 95.4 102.2 
+Diane_Kruger/PYswSsBw8vI_0000007 102.9 110.1 
+Diane_Kruger/PYswSsBw8vI_0000008 207.9 212.2 
+Diane_Kruger/PYswSsBw8vI_0000009 218.8 227.1 
+Diane_Kruger/PYswSsBw8vI_0000010 232.0 237.3 
+Diane_Kruger/PYswSsBw8vI_0000011 247.8 252.7 

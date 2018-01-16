@@ -1,0 +1,9 @@
+POI: 			Richard_Hammond 
+Youtube ID: 	pTsY8rnd-gM 
+Video length: 	153.2 sec 
+Set (V): 		dev 
+ 
+Richard_Hammond/pTsY8rnd-gM_0000001 23.1 28.4 
+Richard_Hammond/pTsY8rnd-gM_0000002 30.8 37.6 
+Richard_Hammond/pTsY8rnd-gM_0000003 93.4 98.7 
+Richard_Hammond/pTsY8rnd-gM_0000004 125.6 132.5 

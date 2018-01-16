@@ -1,0 +1,15 @@
+POI: 			Will_Poulter 
+Youtube ID: 	HqqLQgVZktQ 
+Video length: 	491.0 sec 
+Set (V): 		dev 
+ 
+Will_Poulter/HqqLQgVZktQ_0000001 167.3 174.8 
+Will_Poulter/HqqLQgVZktQ_0000002 217.3 224.1 
+Will_Poulter/HqqLQgVZktQ_0000003 243.4 267.6 
+Will_Poulter/HqqLQgVZktQ_0000004 267.9 279.0 
+Will_Poulter/HqqLQgVZktQ_0000005 204.6 211.8 
+Will_Poulter/HqqLQgVZktQ_0000006 224.6 229.7 
+Will_Poulter/HqqLQgVZktQ_0000007 229.8 243.5 
+Will_Poulter/HqqLQgVZktQ_0000008 367.6 399.7 
+Will_Poulter/HqqLQgVZktQ_0000009 398.2 403.1 
+Will_Poulter/HqqLQgVZktQ_0000010 405.0 409.0 

@@ -1,0 +1,18 @@
+POI: 			Todd_Lasance 
+Youtube ID: 	xC13lYgV4tI 
+Video length: 	848.5 sec 
+Set (V): 		dev 
+ 
+Todd_Lasance/xC13lYgV4tI_0000001 226.5 235.2 
+Todd_Lasance/xC13lYgV4tI_0000002 295.4 300.4 
+Todd_Lasance/xC13lYgV4tI_0000003 305.9 311.9 
+Todd_Lasance/xC13lYgV4tI_0000004 318.3 324.1 
+Todd_Lasance/xC13lYgV4tI_0000005 400.1 411.9 
+Todd_Lasance/xC13lYgV4tI_0000006 464.1 471.3 
+Todd_Lasance/xC13lYgV4tI_0000007 514.7 519.2 
+Todd_Lasance/xC13lYgV4tI_0000008 519.6 524.6 
+Todd_Lasance/xC13lYgV4tI_0000009 601.0 605.9 
+Todd_Lasance/xC13lYgV4tI_0000010 609.1 618.7 
+Todd_Lasance/xC13lYgV4tI_0000011 646.4 650.6 
+Todd_Lasance/xC13lYgV4tI_0000012 653.7 661.8 
+Todd_Lasance/xC13lYgV4tI_0000013 810.2 817.2 

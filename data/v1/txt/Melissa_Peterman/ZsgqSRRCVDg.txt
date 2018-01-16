@@ -1,0 +1,11 @@
+POI: 			Melissa_Peterman 
+Youtube ID: 	ZsgqSRRCVDg 
+Video length: 	273.4 sec 
+Set (V): 		dev 
+ 
+Melissa_Peterman/ZsgqSRRCVDg_0000001 46.0 51.9 
+Melissa_Peterman/ZsgqSRRCVDg_0000002 63.9 71.3 
+Melissa_Peterman/ZsgqSRRCVDg_0000003 90.6 95.8 
+Melissa_Peterman/ZsgqSRRCVDg_0000004 180.8 188.2 
+Melissa_Peterman/ZsgqSRRCVDg_0000005 183.7 188.8 
+Melissa_Peterman/ZsgqSRRCVDg_0000006 213.3 218.0 

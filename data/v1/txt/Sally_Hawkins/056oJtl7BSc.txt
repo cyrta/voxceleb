@@ -1,0 +1,7 @@
+POI: 			Sally_Hawkins 
+Youtube ID: 	056oJtl7BSc 
+Video length: 	372.0 sec 
+Set (V): 		dev 
+ 
+Sally_Hawkins/056oJtl7BSc_0000001 167.2 173.4 
+Sally_Hawkins/056oJtl7BSc_0000002 177.0 186.6 

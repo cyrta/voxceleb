@@ -1,0 +1,13 @@
+POI: 			Andy_Richter 
+Youtube ID: 	ioRwx4bik4c 
+Video length: 	184.7 sec 
+Set (V): 		dev 
+ 
+Andy_Richter/ioRwx4bik4c_0000001 04.0 12.2 
+Andy_Richter/ioRwx4bik4c_0000002 12.4 21.1 
+Andy_Richter/ioRwx4bik4c_0000003 25.6 30.4 
+Andy_Richter/ioRwx4bik4c_0000004 57.4 64.5 
+Andy_Richter/ioRwx4bik4c_0000005 81.1 96.5 
+Andy_Richter/ioRwx4bik4c_0000006 118.1 128.0 
+Andy_Richter/ioRwx4bik4c_0000007 136.0 145.4 
+Andy_Richter/ioRwx4bik4c_0000008 152.5 159.7 

@@ -1,0 +1,9 @@
+POI: 			Andy_Richter 
+Youtube ID: 	WOuie8BINPo 
+Video length: 	764.0 sec 
+Set (V): 		dev 
+ 
+Andy_Richter/WOuie8BINPo_0000001 156.5 162.7 
+Andy_Richter/WOuie8BINPo_0000002 306.9 313.4 
+Andy_Richter/WOuie8BINPo_0000003 417.1 423.3 
+Andy_Richter/WOuie8BINPo_0000004 699.6 719.0 

@@ -1,0 +1,10 @@
+POI: 			Laverne_Cox 
+Youtube ID: 	ADdg6YZPYPQ 
+Video length: 	713.6 sec 
+Set (V): 		dev 
+ 
+Laverne_Cox/ADdg6YZPYPQ_0000001 133.3 144.8 
+Laverne_Cox/ADdg6YZPYPQ_0000002 184.8 190.4 
+Laverne_Cox/ADdg6YZPYPQ_0000003 243.5 250.6 
+Laverne_Cox/ADdg6YZPYPQ_0000004 424.7 430.0 
+Laverne_Cox/ADdg6YZPYPQ_0000005 497.2 503.5 

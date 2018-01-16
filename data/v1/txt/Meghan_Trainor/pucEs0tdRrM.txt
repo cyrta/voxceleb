@@ -1,0 +1,7 @@
+POI: 			Meghan_Trainor 
+Youtube ID: 	pucEs0tdRrM 
+Video length: 	173.3 sec 
+Set (V): 		dev 
+ 
+Meghan_Trainor/pucEs0tdRrM_0000001 59.1 63.8 
+Meghan_Trainor/pucEs0tdRrM_0000002 64.9 73.0 

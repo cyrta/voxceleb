@@ -1,0 +1,8 @@
+POI: 			Taryn_Manning 
+Youtube ID: 	zwqCA1s5bGk 
+Video length: 	152.6 sec 
+Set (V): 		dev 
+ 
+Taryn_Manning/zwqCA1s5bGk_0000001 32.5 41.5 
+Taryn_Manning/zwqCA1s5bGk_0000002 119.5 127.8 
+Taryn_Manning/zwqCA1s5bGk_0000003 131.5 139.7 

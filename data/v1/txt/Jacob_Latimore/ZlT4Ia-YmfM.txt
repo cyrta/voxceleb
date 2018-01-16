@@ -1,0 +1,8 @@
+POI: 			Jacob_Latimore 
+Youtube ID: 	ZlT4Ia-YmfM 
+Video length: 	212.3 sec 
+Set (V): 		dev 
+ 
+Jacob_Latimore/ZlT4Ia-YmfM_0000001 84.2 89.3 
+Jacob_Latimore/ZlT4Ia-YmfM_0000002 125.7 131.1 
+Jacob_Latimore/ZlT4Ia-YmfM_0000003 189.7 196.4 

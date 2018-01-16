@@ -1,0 +1,8 @@
+POI: 			Ken_Jeong 
+Youtube ID: 	Av4GEWxhfF0 
+Video length: 	114.9 sec 
+Set (V): 		dev 
+ 
+Ken_Jeong/Av4GEWxhfF0_0000001 23.7 30.8 
+Ken_Jeong/Av4GEWxhfF0_0000002 44.7 49.0 
+Ken_Jeong/Av4GEWxhfF0_0000003 54.2 63.1 

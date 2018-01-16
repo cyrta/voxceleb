@@ -1,0 +1,18 @@
+POI: 			Dreama_Walker 
+Youtube ID: 	c3BejIvJgJQ 
+Video length: 	271.9 sec 
+Set (V): 		dev 
+ 
+Dreama_Walker/c3BejIvJgJQ_0000001 13.1 18.2 
+Dreama_Walker/c3BejIvJgJQ_0000002 38.3 57.3 
+Dreama_Walker/c3BejIvJgJQ_0000003 60.1 65.1 
+Dreama_Walker/c3BejIvJgJQ_0000004 70.8 77.3 
+Dreama_Walker/c3BejIvJgJQ_0000005 90.5 112.0 
+Dreama_Walker/c3BejIvJgJQ_0000006 123.4 140.8 
+Dreama_Walker/c3BejIvJgJQ_0000007 136.6 144.3 
+Dreama_Walker/c3BejIvJgJQ_0000008 147.7 152.2 
+Dreama_Walker/c3BejIvJgJQ_0000009 165.1 188.0 
+Dreama_Walker/c3BejIvJgJQ_0000010 190.1 194.2 
+Dreama_Walker/c3BejIvJgJQ_0000011 202.8 221.3 
+Dreama_Walker/c3BejIvJgJQ_0000012 231.1 241.6 
+Dreama_Walker/c3BejIvJgJQ_0000013 242.8 253.2 

@@ -1,0 +1,11 @@
+POI: 			Vince_Gilligan 
+Youtube ID: 	lVQGcW_y3sQ 
+Video length: 	667.3 sec 
+Set (V): 		dev 
+ 
+Vince_Gilligan/lVQGcW_y3sQ_0000001 246.1 250.3 
+Vince_Gilligan/lVQGcW_y3sQ_0000002 370.9 383.8 
+Vince_Gilligan/lVQGcW_y3sQ_0000003 418.0 437.9 
+Vince_Gilligan/lVQGcW_y3sQ_0000004 438.3 447.6 
+Vince_Gilligan/lVQGcW_y3sQ_0000005 457.9 463.0 
+Vince_Gilligan/lVQGcW_y3sQ_0000006 636.2 645.0 

@@ -1,0 +1,7 @@
+POI: 			Brett_Davern 
+Youtube ID: 	LGTcAlSu2OA 
+Video length: 	3968.8 sec 
+Set (V): 		dev 
+ 
+Brett_Davern/LGTcAlSu2OA_0000001 289.0 297.8 
+Brett_Davern/LGTcAlSu2OA_0000002 1527.8 1534.3 

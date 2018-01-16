@@ -1,0 +1,8 @@
+POI: 			Armand_Assante 
+Youtube ID: 	cAlwX11RaDU 
+Video length: 	231.5 sec 
+Set (V): 		dev 
+ 
+Armand_Assante/cAlwX11RaDU_0000001 13.9 18.6 
+Armand_Assante/cAlwX11RaDU_0000002 20.9 25.2 
+Armand_Assante/cAlwX11RaDU_0000003 25.4 33.6 

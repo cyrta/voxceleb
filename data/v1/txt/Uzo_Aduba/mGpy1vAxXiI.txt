@@ -1,0 +1,8 @@
+POI: 			Uzo_Aduba 
+Youtube ID: 	mGpy1vAxXiI 
+Video length: 	418.2 sec 
+Set (V): 		dev 
+ 
+Uzo_Aduba/mGpy1vAxXiI_0000001 88.8 93.3 
+Uzo_Aduba/mGpy1vAxXiI_0000002 125.8 131.5 
+Uzo_Aduba/mGpy1vAxXiI_0000003 352.8 358.1 

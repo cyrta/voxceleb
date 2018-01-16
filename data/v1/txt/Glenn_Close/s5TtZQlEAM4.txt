@@ -1,0 +1,8 @@
+POI: 			Glenn_Close 
+Youtube ID: 	s5TtZQlEAM4 
+Video length: 	127.8 sec 
+Set (V): 		dev 
+ 
+Glenn_Close/s5TtZQlEAM4_0000001 15.5 22.4 
+Glenn_Close/s5TtZQlEAM4_0000002 24.4 34.5 
+Glenn_Close/s5TtZQlEAM4_0000003 38.5 49.4 

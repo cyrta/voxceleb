@@ -1,0 +1,10 @@
+POI: 			Aaron_Tveit 
+Youtube ID: 	BOAd7pybyZw 
+Video length: 	223.8 sec 
+Set (V): 		dev 
+ 
+Aaron_Tveit/BOAd7pybyZw_0000001 32.4 42.9 
+Aaron_Tveit/BOAd7pybyZw_0000002 153.2 159.8 
+Aaron_Tveit/BOAd7pybyZw_0000003 177.5 192.1 
+Aaron_Tveit/BOAd7pybyZw_0000004 193.2 198.0 
+Aaron_Tveit/BOAd7pybyZw_0000005 198.3 204.1 

@@ -1,0 +1,19 @@
+POI: 			Dominic_Cooper 
+Youtube ID: 	kKhcmBH8c4w 
+Video length: 	385.0 sec 
+Set (V): 		dev 
+ 
+Dominic_Cooper/kKhcmBH8c4w_0000001 12.0 22.4 
+Dominic_Cooper/kKhcmBH8c4w_0000002 26.6 36.2 
+Dominic_Cooper/kKhcmBH8c4w_0000003 49.6 61.9 
+Dominic_Cooper/kKhcmBH8c4w_0000004 108.6 117.0 
+Dominic_Cooper/kKhcmBH8c4w_0000005 121.8 130.1 
+Dominic_Cooper/kKhcmBH8c4w_0000006 145.4 154.1 
+Dominic_Cooper/kKhcmBH8c4w_0000007 155.3 163.2 
+Dominic_Cooper/kKhcmBH8c4w_0000008 189.5 201.3 
+Dominic_Cooper/kKhcmBH8c4w_0000009 206.5 211.6 
+Dominic_Cooper/kKhcmBH8c4w_0000010 219.3 232.3 
+Dominic_Cooper/kKhcmBH8c4w_0000011 253.6 259.9 
+Dominic_Cooper/kKhcmBH8c4w_0000012 265.7 277.3 
+Dominic_Cooper/kKhcmBH8c4w_0000013 290.6 297.5 
+Dominic_Cooper/kKhcmBH8c4w_0000014 308.4 317.4 

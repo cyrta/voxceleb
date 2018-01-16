@@ -1,0 +1,18 @@
+POI: 			Martin_Shaw 
+Youtube ID: 	4FaZ-vG9L2k 
+Video length: 	367.9 sec 
+Set (V): 		dev 
+ 
+Martin_Shaw/4FaZ-vG9L2k_0000001 27.2 32.8 
+Martin_Shaw/4FaZ-vG9L2k_0000002 33.7 44.6 
+Martin_Shaw/4FaZ-vG9L2k_0000003 46.5 52.2 
+Martin_Shaw/4FaZ-vG9L2k_0000004 104.3 114.7 
+Martin_Shaw/4FaZ-vG9L2k_0000005 136.6 144.5 
+Martin_Shaw/4FaZ-vG9L2k_0000006 145.4 168.8 
+Martin_Shaw/4FaZ-vG9L2k_0000007 173.1 177.9 
+Martin_Shaw/4FaZ-vG9L2k_0000008 190.1 205.4 
+Martin_Shaw/4FaZ-vG9L2k_0000009 245.8 251.1 
+Martin_Shaw/4FaZ-vG9L2k_0000010 261.7 272.6 
+Martin_Shaw/4FaZ-vG9L2k_0000011 278.8 290.1 
+Martin_Shaw/4FaZ-vG9L2k_0000012 313.6 318.6 
+Martin_Shaw/4FaZ-vG9L2k_0000013 332.4 336.9 

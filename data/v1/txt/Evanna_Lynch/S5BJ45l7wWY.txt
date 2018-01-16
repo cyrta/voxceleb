@@ -1,0 +1,9 @@
+POI: 			Evanna_Lynch 
+Youtube ID: 	S5BJ45l7wWY 
+Video length: 	67.0 sec 
+Set (V): 		test 
+ 
+Evanna_Lynch/S5BJ45l7wWY_0000001 12.4 18.1 
+Evanna_Lynch/S5BJ45l7wWY_0000002 28.8 33.4 
+Evanna_Lynch/S5BJ45l7wWY_0000003 40.2 45.5 
+Evanna_Lynch/S5BJ45l7wWY_0000004 49.6 58.2 

@@ -1,0 +1,16 @@
+POI: 			Nick_Kroll 
+Youtube ID: 	RyzLr52ZpdA 
+Video length: 	215.9 sec 
+Set (V): 		dev 
+ 
+Nick_Kroll/RyzLr52ZpdA_0000001 16.4 20.7 
+Nick_Kroll/RyzLr52ZpdA_0000002 34.6 39.6 
+Nick_Kroll/RyzLr52ZpdA_0000003 40.0 45.0 
+Nick_Kroll/RyzLr52ZpdA_0000004 81.1 86.7 
+Nick_Kroll/RyzLr52ZpdA_0000005 93.6 112.4 
+Nick_Kroll/RyzLr52ZpdA_0000006 116.1 122.5 
+Nick_Kroll/RyzLr52ZpdA_0000007 149.9 155.8 
+Nick_Kroll/RyzLr52ZpdA_0000008 155.9 161.2 
+Nick_Kroll/RyzLr52ZpdA_0000009 174.2 180.6 
+Nick_Kroll/RyzLr52ZpdA_0000010 187.8 194.9 
+Nick_Kroll/RyzLr52ZpdA_0000011 195.8 202.2 

@@ -1,0 +1,18 @@
+POI: 			Domhnall_Gleeson 
+Youtube ID: 	MmxfNnHqtJc 
+Video length: 	351.9 sec 
+Set (V): 		dev 
+ 
+Domhnall_Gleeson/MmxfNnHqtJc_0000001 13.1 23.5 
+Domhnall_Gleeson/MmxfNnHqtJc_0000002 40.5 45.0 
+Domhnall_Gleeson/MmxfNnHqtJc_0000003 45.9 59.0 
+Domhnall_Gleeson/MmxfNnHqtJc_0000004 76.6 87.5 
+Domhnall_Gleeson/MmxfNnHqtJc_0000005 88.2 99.4 
+Domhnall_Gleeson/MmxfNnHqtJc_0000006 103.8 114.0 
+Domhnall_Gleeson/MmxfNnHqtJc_0000007 127.8 143.6 
+Domhnall_Gleeson/MmxfNnHqtJc_0000008 168.4 172.9 
+Domhnall_Gleeson/MmxfNnHqtJc_0000009 206.8 218.1 
+Domhnall_Gleeson/MmxfNnHqtJc_0000010 244.1 249.0 
+Domhnall_Gleeson/MmxfNnHqtJc_0000011 278.3 305.8 
+Domhnall_Gleeson/MmxfNnHqtJc_0000012 313.2 322.1 
+Domhnall_Gleeson/MmxfNnHqtJc_0000013 327.2 334.0 

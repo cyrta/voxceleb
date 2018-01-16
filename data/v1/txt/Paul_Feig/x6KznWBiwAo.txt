@@ -1,0 +1,10 @@
+POI: 			Paul_Feig 
+Youtube ID: 	x6KznWBiwAo 
+Video length: 	354.5 sec 
+Set (V): 		dev 
+ 
+Paul_Feig/x6KznWBiwAo_0000001 02.6 12.4 
+Paul_Feig/x6KznWBiwAo_0000002 20.1 24.2 
+Paul_Feig/x6KznWBiwAo_0000003 187.1 197.8 
+Paul_Feig/x6KznWBiwAo_0000004 257.7 261.8 
+Paul_Feig/x6KznWBiwAo_0000005 266.2 286.5 

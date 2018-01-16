@@ -1,0 +1,7 @@
+POI: 			Missi_Pyle 
+Youtube ID: 	tuSWaZW6_JM 
+Video length: 	309.9 sec 
+Set (V): 		dev 
+ 
+Missi_Pyle/tuSWaZW6_JM_0000001 112.1 119.5 
+Missi_Pyle/tuSWaZW6_JM_0000002 144.8 150.8 

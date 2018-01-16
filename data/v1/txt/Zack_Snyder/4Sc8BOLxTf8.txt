@@ -1,0 +1,8 @@
+POI: 			Zack_Snyder 
+Youtube ID: 	4Sc8BOLxTf8 
+Video length: 	437.0 sec 
+Set (V): 		dev 
+ 
+Zack_Snyder/4Sc8BOLxTf8_0000001 33.0 43.6 
+Zack_Snyder/4Sc8BOLxTf8_0000002 61.6 65.7 
+Zack_Snyder/4Sc8BOLxTf8_0000003 406.6 411.4 

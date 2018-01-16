@@ -1,0 +1,45 @@
+POI: 			Vincent_Cassel 
+Youtube ID: 	A1GAgLHgRgM 
+Video length: 	1097.3 sec 
+Set (V): 		dev 
+ 
+Vincent_Cassel/A1GAgLHgRgM_0000001 46.2 52.9 
+Vincent_Cassel/A1GAgLHgRgM_0000002 83.9 88.5 
+Vincent_Cassel/A1GAgLHgRgM_0000003 133.6 140.2 
+Vincent_Cassel/A1GAgLHgRgM_0000004 183.2 187.2 
+Vincent_Cassel/A1GAgLHgRgM_0000005 198.4 204.7 
+Vincent_Cassel/A1GAgLHgRgM_0000006 212.6 225.3 
+Vincent_Cassel/A1GAgLHgRgM_0000007 225.4 230.2 
+Vincent_Cassel/A1GAgLHgRgM_0000008 232.5 238.2 
+Vincent_Cassel/A1GAgLHgRgM_0000009 273.0 279.0 
+Vincent_Cassel/A1GAgLHgRgM_0000010 291.0 296.5 
+Vincent_Cassel/A1GAgLHgRgM_0000011 302.0 306.0 
+Vincent_Cassel/A1GAgLHgRgM_0000012 347.6 352.9 
+Vincent_Cassel/A1GAgLHgRgM_0000013 370.8 375.6 
+Vincent_Cassel/A1GAgLHgRgM_0000014 381.4 386.5 
+Vincent_Cassel/A1GAgLHgRgM_0000015 409.6 419.2 
+Vincent_Cassel/A1GAgLHgRgM_0000016 429.8 438.4 
+Vincent_Cassel/A1GAgLHgRgM_0000017 474.5 482.4 
+Vincent_Cassel/A1GAgLHgRgM_0000018 488.2 492.8 
+Vincent_Cassel/A1GAgLHgRgM_0000019 558.8 569.8 
+Vincent_Cassel/A1GAgLHgRgM_0000020 570.0 577.8 
+Vincent_Cassel/A1GAgLHgRgM_0000021 618.2 622.7 
+Vincent_Cassel/A1GAgLHgRgM_0000022 623.0 629.4 
+Vincent_Cassel/A1GAgLHgRgM_0000023 637.6 643.5 
+Vincent_Cassel/A1GAgLHgRgM_0000024 656.0 664.6 
+Vincent_Cassel/A1GAgLHgRgM_0000025 711.6 716.0 
+Vincent_Cassel/A1GAgLHgRgM_0000026 719.0 730.2 
+Vincent_Cassel/A1GAgLHgRgM_0000027 735.6 741.2 
+Vincent_Cassel/A1GAgLHgRgM_0000028 798.0 805.2 
+Vincent_Cassel/A1GAgLHgRgM_0000029 825.6 832.7 
+Vincent_Cassel/A1GAgLHgRgM_0000030 871.9 878.3 
+Vincent_Cassel/A1GAgLHgRgM_0000031 882.8 894.0 
+Vincent_Cassel/A1GAgLHgRgM_0000032 921.3 927.1 
+Vincent_Cassel/A1GAgLHgRgM_0000033 939.4 944.8 
+Vincent_Cassel/A1GAgLHgRgM_0000034 947.1 955.4 
+Vincent_Cassel/A1GAgLHgRgM_0000035 957.4 962.4 
+Vincent_Cassel/A1GAgLHgRgM_0000036 978.6 985.7 
+Vincent_Cassel/A1GAgLHgRgM_0000037 1008.8 1018.1 
+Vincent_Cassel/A1GAgLHgRgM_0000038 1027.3 1034.3 
+Vincent_Cassel/A1GAgLHgRgM_0000039 1035.4 1042.4 
+Vincent_Cassel/A1GAgLHgRgM_0000040 1048.4 1054.5 

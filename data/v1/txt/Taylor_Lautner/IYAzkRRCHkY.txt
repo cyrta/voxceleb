@@ -1,0 +1,19 @@
+POI: 			Taylor_Lautner 
+Youtube ID: 	IYAzkRRCHkY 
+Video length: 	259.3 sec 
+Set (V): 		dev 
+ 
+Taylor_Lautner/IYAzkRRCHkY_0000001 12.2 19.4 
+Taylor_Lautner/IYAzkRRCHkY_0000002 20.0 25.0 
+Taylor_Lautner/IYAzkRRCHkY_0000003 44.2 48.8 
+Taylor_Lautner/IYAzkRRCHkY_0000004 78.0 82.8 
+Taylor_Lautner/IYAzkRRCHkY_0000005 91.1 99.9 
+Taylor_Lautner/IYAzkRRCHkY_0000006 113.4 119.8 
+Taylor_Lautner/IYAzkRRCHkY_0000007 138.3 146.4 
+Taylor_Lautner/IYAzkRRCHkY_0000008 146.9 152.1 
+Taylor_Lautner/IYAzkRRCHkY_0000009 160.8 168.4 
+Taylor_Lautner/IYAzkRRCHkY_0000010 169.4 174.1 
+Taylor_Lautner/IYAzkRRCHkY_0000011 201.9 220.7 
+Taylor_Lautner/IYAzkRRCHkY_0000012 228.6 233.5 
+Taylor_Lautner/IYAzkRRCHkY_0000013 234.4 238.7 
+Taylor_Lautner/IYAzkRRCHkY_0000014 249.2 257.6 

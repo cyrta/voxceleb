@@ -1,0 +1,9 @@
+POI: 			Jordan_Gavaris 
+Youtube ID: 	_1bLQIv79QA 
+Video length: 	128.8 sec 
+Set (V): 		dev 
+ 
+Jordan_Gavaris/_1bLQIv79QA_0000001 09.2 53.2 
+Jordan_Gavaris/_1bLQIv79QA_0000002 77.2 86.8 
+Jordan_Gavaris/_1bLQIv79QA_0000003 87.4 94.3 
+Jordan_Gavaris/_1bLQIv79QA_0000004 97.1 120.0 

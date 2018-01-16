@@ -1,0 +1,13 @@
+POI: 			Sam_Palladio 
+Youtube ID: 	q67_o3levYY 
+Video length: 	245.5 sec 
+Set (V): 		dev 
+ 
+Sam_Palladio/q67_o3levYY_0000001 52.8 57.6 
+Sam_Palladio/q67_o3levYY_0000002 118.9 128.8 
+Sam_Palladio/q67_o3levYY_0000003 129.8 135.8 
+Sam_Palladio/q67_o3levYY_0000004 175.6 183.3 
+Sam_Palladio/q67_o3levYY_0000005 184.7 190.1 
+Sam_Palladio/q67_o3levYY_0000006 194.1 198.4 
+Sam_Palladio/q67_o3levYY_0000007 217.7 225.7 
+Sam_Palladio/q67_o3levYY_0000008 225.8 232.7 

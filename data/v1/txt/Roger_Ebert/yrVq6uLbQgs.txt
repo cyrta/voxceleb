@@ -1,0 +1,8 @@
+POI: 			Roger_Ebert 
+Youtube ID: 	yrVq6uLbQgs 
+Video length: 	284.4 sec 
+Set (V): 		dev 
+ 
+Roger_Ebert/yrVq6uLbQgs_0000001 207.6 216.2 
+Roger_Ebert/yrVq6uLbQgs_0000002 219.8 239.9 
+Roger_Ebert/yrVq6uLbQgs_0000003 246.8 256.6 

@@ -1,0 +1,17 @@
+POI: 			Mark_Gatiss 
+Youtube ID: 	RAy_AWTdZtg 
+Video length: 	2075.1 sec 
+Set (V): 		dev 
+ 
+Mark_Gatiss/RAy_AWTdZtg_0000001 110.7 119.6 
+Mark_Gatiss/RAy_AWTdZtg_0000002 198.4 203.3 
+Mark_Gatiss/RAy_AWTdZtg_0000003 586.0 590.4 
+Mark_Gatiss/RAy_AWTdZtg_0000004 830.0 835.6 
+Mark_Gatiss/RAy_AWTdZtg_0000005 1047.2 1054.9 
+Mark_Gatiss/RAy_AWTdZtg_0000006 1175.7 1181.4 
+Mark_Gatiss/RAy_AWTdZtg_0000007 1293.6 1297.8 
+Mark_Gatiss/RAy_AWTdZtg_0000008 1431.0 1435.2 
+Mark_Gatiss/RAy_AWTdZtg_0000009 1468.3 1476.9 
+Mark_Gatiss/RAy_AWTdZtg_0000010 1562.4 1569.5 
+Mark_Gatiss/RAy_AWTdZtg_0000011 1664.7 1670.7 
+Mark_Gatiss/RAy_AWTdZtg_0000012 1832.4 1839.4 

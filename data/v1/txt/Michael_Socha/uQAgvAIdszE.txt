@@ -1,0 +1,7 @@
+POI: 			Michael_Socha 
+Youtube ID: 	uQAgvAIdszE 
+Video length: 	145.9 sec 
+Set (V): 		dev 
+ 
+Michael_Socha/uQAgvAIdszE_0000001 122.2 127.1 
+Michael_Socha/uQAgvAIdszE_0000002 137.0 144.0 

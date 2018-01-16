@@ -1,0 +1,12 @@
+POI: 			Jessie_J 
+Youtube ID: 	Z-WkoAMFa0s 
+Video length: 	240.1 sec 
+Set (V): 		dev 
+ 
+Jessie_J/Z-WkoAMFa0s_0000001 42.2 47.4 
+Jessie_J/Z-WkoAMFa0s_0000002 73.6 78.8 
+Jessie_J/Z-WkoAMFa0s_0000003 98.6 103.8 
+Jessie_J/Z-WkoAMFa0s_0000004 139.1 152.4 
+Jessie_J/Z-WkoAMFa0s_0000005 156.7 165.0 
+Jessie_J/Z-WkoAMFa0s_0000006 175.2 189.5 
+Jessie_J/Z-WkoAMFa0s_0000007 205.1 212.2 

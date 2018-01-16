@@ -1,0 +1,8 @@
+POI: 			Miranda_Richardson 
+Youtube ID: 	izhucNz7vlM 
+Video length: 	226.2 sec 
+Set (V): 		dev 
+ 
+Miranda_Richardson/izhucNz7vlM_0000001 67.5 80.8 
+Miranda_Richardson/izhucNz7vlM_0000002 84.6 91.2 
+Miranda_Richardson/izhucNz7vlM_0000003 101.5 107.7 

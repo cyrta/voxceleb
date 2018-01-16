@@ -1,0 +1,7 @@
+POI: 			Chazz_Palminteri 
+Youtube ID: 	6JT84QLtKsI 
+Video length: 	128.2 sec 
+Set (V): 		dev 
+ 
+Chazz_Palminteri/6JT84QLtKsI_0000001 45.0 49.2 
+Chazz_Palminteri/6JT84QLtKsI_0000002 65.7 70.8 

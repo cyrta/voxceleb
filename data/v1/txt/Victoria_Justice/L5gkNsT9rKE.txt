@@ -1,0 +1,11 @@
+POI: 			Victoria_Justice 
+Youtube ID: 	L5gkNsT9rKE 
+Video length: 	307.4 sec 
+Set (V): 		dev 
+ 
+Victoria_Justice/L5gkNsT9rKE_0000001 35.0 39.6 
+Victoria_Justice/L5gkNsT9rKE_0000002 79.1 87.7 
+Victoria_Justice/L5gkNsT9rKE_0000003 125.5 130.4 
+Victoria_Justice/L5gkNsT9rKE_0000004 131.6 136.6 
+Victoria_Justice/L5gkNsT9rKE_0000005 243.7 262.2 
+Victoria_Justice/L5gkNsT9rKE_0000006 262.8 269.4 

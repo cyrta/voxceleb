@@ -1,0 +1,46 @@
+POI: 			Tom_Hiddleston 
+Youtube ID: 	nIZxVTu_1W8 
+Video length: 	1804.7 sec 
+Set (V): 		dev 
+ 
+Tom_Hiddleston/nIZxVTu_1W8_0000001 45.9 52.2 
+Tom_Hiddleston/nIZxVTu_1W8_0000002 52.7 57.3 
+Tom_Hiddleston/nIZxVTu_1W8_0000003 71.0 82.6 
+Tom_Hiddleston/nIZxVTu_1W8_0000004 200.4 213.1 
+Tom_Hiddleston/nIZxVTu_1W8_0000005 214.2 220.9 
+Tom_Hiddleston/nIZxVTu_1W8_0000006 222.2 246.2 
+Tom_Hiddleston/nIZxVTu_1W8_0000007 287.9 301.4 
+Tom_Hiddleston/nIZxVTu_1W8_0000008 301.6 307.2 
+Tom_Hiddleston/nIZxVTu_1W8_0000009 307.8 317.8 
+Tom_Hiddleston/nIZxVTu_1W8_0000010 318.1 324.5 
+Tom_Hiddleston/nIZxVTu_1W8_0000011 328.3 333.8 
+Tom_Hiddleston/nIZxVTu_1W8_0000012 339.3 343.6 
+Tom_Hiddleston/nIZxVTu_1W8_0000013 368.8 373.0 
+Tom_Hiddleston/nIZxVTu_1W8_0000014 447.6 452.3 
+Tom_Hiddleston/nIZxVTu_1W8_0000015 453.0 466.8 
+Tom_Hiddleston/nIZxVTu_1W8_0000016 467.6 477.4 
+Tom_Hiddleston/nIZxVTu_1W8_0000017 542.7 558.6 
+Tom_Hiddleston/nIZxVTu_1W8_0000018 561.0 567.3 
+Tom_Hiddleston/nIZxVTu_1W8_0000019 664.5 683.2 
+Tom_Hiddleston/nIZxVTu_1W8_0000020 684.6 695.8 
+Tom_Hiddleston/nIZxVTu_1W8_0000021 703.5 720.4 
+Tom_Hiddleston/nIZxVTu_1W8_0000022 720.7 726.0 
+Tom_Hiddleston/nIZxVTu_1W8_0000023 734.0 738.4 
+Tom_Hiddleston/nIZxVTu_1W8_0000024 916.4 923.2 
+Tom_Hiddleston/nIZxVTu_1W8_0000025 971.0 977.8 
+Tom_Hiddleston/nIZxVTu_1W8_0000026 980.3 984.8 
+Tom_Hiddleston/nIZxVTu_1W8_0000027 987.7 993.4 
+Tom_Hiddleston/nIZxVTu_1W8_0000028 1029.1 1036.2 
+Tom_Hiddleston/nIZxVTu_1W8_0000029 1040.5 1050.1 
+Tom_Hiddleston/nIZxVTu_1W8_0000030 1054.7 1059.1 
+Tom_Hiddleston/nIZxVTu_1W8_0000031 1061.0 1075.6 
+Tom_Hiddleston/nIZxVTu_1W8_0000032 1077.4 1085.2 
+Tom_Hiddleston/nIZxVTu_1W8_0000033 1237.6 1245.0 
+Tom_Hiddleston/nIZxVTu_1W8_0000034 1250.8 1257.3 
+Tom_Hiddleston/nIZxVTu_1W8_0000035 1265.8 1273.1 
+Tom_Hiddleston/nIZxVTu_1W8_0000036 1361.6 1369.5 
+Tom_Hiddleston/nIZxVTu_1W8_0000037 1373.6 1381.1 
+Tom_Hiddleston/nIZxVTu_1W8_0000038 1587.0 1592.5 
+Tom_Hiddleston/nIZxVTu_1W8_0000039 1744.2 1748.6 
+Tom_Hiddleston/nIZxVTu_1W8_0000040 1757.4 1761.6 
+Tom_Hiddleston/nIZxVTu_1W8_0000041 1762.5 1767.3 

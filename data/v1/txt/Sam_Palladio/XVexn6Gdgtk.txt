@@ -1,0 +1,9 @@
+POI: 			Sam_Palladio 
+Youtube ID: 	XVexn6Gdgtk 
+Video length: 	196.5 sec 
+Set (V): 		dev 
+ 
+Sam_Palladio/XVexn6Gdgtk_0000001 54.6 74.1 
+Sam_Palladio/XVexn6Gdgtk_0000002 76.2 81.9 
+Sam_Palladio/XVexn6Gdgtk_0000003 82.3 86.9 
+Sam_Palladio/XVexn6Gdgtk_0000004 90.4 97.4 

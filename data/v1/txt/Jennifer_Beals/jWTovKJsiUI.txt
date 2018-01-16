@@ -1,0 +1,7 @@
+POI: 			Jennifer_Beals 
+Youtube ID: 	jWTovKJsiUI 
+Video length: 	100.6 sec 
+Set (V): 		dev 
+ 
+Jennifer_Beals/jWTovKJsiUI_0000001 19.7 27.9 
+Jennifer_Beals/jWTovKJsiUI_0000002 66.2 75.7 

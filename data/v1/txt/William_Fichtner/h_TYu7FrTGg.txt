@@ -1,0 +1,8 @@
+POI: 			William_Fichtner 
+Youtube ID: 	h_TYu7FrTGg 
+Video length: 	213.8 sec 
+Set (V): 		dev 
+ 
+William_Fichtner/h_TYu7FrTGg_0000001 61.8 65.8 
+William_Fichtner/h_TYu7FrTGg_0000002 96.8 104.4 
+William_Fichtner/h_TYu7FrTGg_0000003 116.6 123.2 

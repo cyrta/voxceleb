@@ -1,0 +1,9 @@
+POI: 			Vincent_Cassel 
+Youtube ID: 	fNTxmze98cs 
+Video length: 	165.0 sec 
+Set (V): 		dev 
+ 
+Vincent_Cassel/fNTxmze98cs_0000001 21.0 42.1 
+Vincent_Cassel/fNTxmze98cs_0000002 55.0 59.8 
+Vincent_Cassel/fNTxmze98cs_0000003 103.8 112.1 
+Vincent_Cassel/fNTxmze98cs_0000004 120.7 125.2 

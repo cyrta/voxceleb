@@ -1,0 +1,7 @@
+POI: 			Farrah_Abraham 
+Youtube ID: 	aa7uWdFziJc 
+Video length: 	396.3 sec 
+Set (V): 		dev 
+ 
+Farrah_Abraham/aa7uWdFziJc_0000001 102.5 108.0 
+Farrah_Abraham/aa7uWdFziJc_0000002 281.3 289.7 

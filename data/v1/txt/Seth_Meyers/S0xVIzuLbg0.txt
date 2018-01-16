@@ -1,0 +1,7 @@
+POI: 			Seth_Meyers 
+Youtube ID: 	S0xVIzuLbg0 
+Video length: 	123.8 sec 
+Set (V): 		dev 
+ 
+Seth_Meyers/S0xVIzuLbg0_0000001 21.2 25.9 
+Seth_Meyers/S0xVIzuLbg0_0000002 91.2 95.3 

@@ -1,0 +1,12 @@
+POI: 			Sonja_Sohn 
+Youtube ID: 	fs_d9uaD2WM 
+Video length: 	267.2 sec 
+Set (V): 		dev 
+ 
+Sonja_Sohn/fs_d9uaD2WM_0000001 67.9 73.8 
+Sonja_Sohn/fs_d9uaD2WM_0000002 76.1 82.0 
+Sonja_Sohn/fs_d9uaD2WM_0000003 119.6 125.0 
+Sonja_Sohn/fs_d9uaD2WM_0000004 126.6 134.1 
+Sonja_Sohn/fs_d9uaD2WM_0000005 146.8 156.9 
+Sonja_Sohn/fs_d9uaD2WM_0000006 161.7 167.0 
+Sonja_Sohn/fs_d9uaD2WM_0000007 227.0 231.6 

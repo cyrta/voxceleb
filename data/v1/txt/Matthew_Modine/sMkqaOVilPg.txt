@@ -1,0 +1,7 @@
+POI: 			Matthew_Modine 
+Youtube ID: 	sMkqaOVilPg 
+Video length: 	206.0 sec 
+Set (V): 		dev 
+ 
+Matthew_Modine/sMkqaOVilPg_0000001 74.4 81.7 
+Matthew_Modine/sMkqaOVilPg_0000002 83.8 92.9 

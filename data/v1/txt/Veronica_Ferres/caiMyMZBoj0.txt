@@ -1,0 +1,12 @@
+POI: 			Veronica_Ferres 
+Youtube ID: 	caiMyMZBoj0 
+Video length: 	861.7 sec 
+Set (V): 		dev 
+ 
+Veronica_Ferres/caiMyMZBoj0_0000001 187.0 193.4 
+Veronica_Ferres/caiMyMZBoj0_0000002 368.0 373.2 
+Veronica_Ferres/caiMyMZBoj0_0000003 373.9 386.1 
+Veronica_Ferres/caiMyMZBoj0_0000004 419.7 432.5 
+Veronica_Ferres/caiMyMZBoj0_0000005 483.0 490.2 
+Veronica_Ferres/caiMyMZBoj0_0000006 493.0 497.4 
+Veronica_Ferres/caiMyMZBoj0_0000007 522.2 526.5 

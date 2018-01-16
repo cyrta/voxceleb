@@ -1,0 +1,10 @@
+POI: 			Aaron_Yoo 
+Youtube ID: 	WMh3ye5tBsE 
+Video length: 	173.9 sec 
+Set (V): 		dev 
+ 
+Aaron_Yoo/WMh3ye5tBsE_0000001 57.0 61.8 
+Aaron_Yoo/WMh3ye5tBsE_0000002 131.7 138.0 
+Aaron_Yoo/WMh3ye5tBsE_0000003 138.7 143.0 
+Aaron_Yoo/WMh3ye5tBsE_0000004 146.3 159.8 
+Aaron_Yoo/WMh3ye5tBsE_0000005 160.9 169.4 

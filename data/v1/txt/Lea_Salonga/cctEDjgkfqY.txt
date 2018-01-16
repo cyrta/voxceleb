@@ -1,0 +1,25 @@
+POI: 			Lea_Salonga 
+Youtube ID: 	cctEDjgkfqY 
+Video length: 	636.3 sec 
+Set (V): 		dev 
+ 
+Lea_Salonga/cctEDjgkfqY_0000001 05.7 12.5 
+Lea_Salonga/cctEDjgkfqY_0000002 84.6 89.1 
+Lea_Salonga/cctEDjgkfqY_0000003 112.2 116.8 
+Lea_Salonga/cctEDjgkfqY_0000004 170.0 179.9 
+Lea_Salonga/cctEDjgkfqY_0000005 196.0 202.4 
+Lea_Salonga/cctEDjgkfqY_0000006 213.7 222.6 
+Lea_Salonga/cctEDjgkfqY_0000007 223.7 233.7 
+Lea_Salonga/cctEDjgkfqY_0000008 249.4 254.2 
+Lea_Salonga/cctEDjgkfqY_0000009 255.5 259.7 
+Lea_Salonga/cctEDjgkfqY_0000010 262.0 281.4 
+Lea_Salonga/cctEDjgkfqY_0000011 296.4 301.4 
+Lea_Salonga/cctEDjgkfqY_0000012 423.6 428.8 
+Lea_Salonga/cctEDjgkfqY_0000013 470.3 474.4 
+Lea_Salonga/cctEDjgkfqY_0000014 486.6 495.3 
+Lea_Salonga/cctEDjgkfqY_0000015 504.9 512.8 
+Lea_Salonga/cctEDjgkfqY_0000016 514.9 519.5 
+Lea_Salonga/cctEDjgkfqY_0000017 537.4 544.1 
+Lea_Salonga/cctEDjgkfqY_0000018 582.2 588.7 
+Lea_Salonga/cctEDjgkfqY_0000019 590.1 594.3 
+Lea_Salonga/cctEDjgkfqY_0000020 622.2 630.3 

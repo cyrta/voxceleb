@@ -1,0 +1,9 @@
+POI: 			Alan_Tudyk 
+Youtube ID: 	67pFKWwyJ20 
+Video length: 	547.1 sec 
+Set (V): 		dev 
+ 
+Alan_Tudyk/67pFKWwyJ20_0000001 50.6 58.4 
+Alan_Tudyk/67pFKWwyJ20_0000002 87.4 96.9 
+Alan_Tudyk/67pFKWwyJ20_0000003 196.2 201.5 
+Alan_Tudyk/67pFKWwyJ20_0000004 280.6 285.0 

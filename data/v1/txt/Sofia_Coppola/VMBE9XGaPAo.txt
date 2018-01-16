@@ -1,0 +1,16 @@
+POI: 			Sofia_Coppola 
+Youtube ID: 	VMBE9XGaPAo 
+Video length: 	314.1 sec 
+Set (V): 		dev 
+ 
+Sofia_Coppola/VMBE9XGaPAo_0000001 48.8 54.5 
+Sofia_Coppola/VMBE9XGaPAo_0000002 55.9 60.0 
+Sofia_Coppola/VMBE9XGaPAo_0000003 60.2 68.8 
+Sofia_Coppola/VMBE9XGaPAo_0000004 84.2 91.6 
+Sofia_Coppola/VMBE9XGaPAo_0000005 132.4 146.4 
+Sofia_Coppola/VMBE9XGaPAo_0000006 170.0 174.6 
+Sofia_Coppola/VMBE9XGaPAo_0000007 206.6 215.0 
+Sofia_Coppola/VMBE9XGaPAo_0000008 221.0 225.5 
+Sofia_Coppola/VMBE9XGaPAo_0000009 236.1 241.7 
+Sofia_Coppola/VMBE9XGaPAo_0000010 242.1 247.9 
+Sofia_Coppola/VMBE9XGaPAo_0000011 260.0 272.4 

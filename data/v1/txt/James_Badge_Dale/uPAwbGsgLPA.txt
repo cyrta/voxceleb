@@ -1,0 +1,7 @@
+POI: 			James_Badge_Dale 
+Youtube ID: 	uPAwbGsgLPA 
+Video length: 	164.4 sec 
+Set (V): 		dev 
+ 
+James_Badge_Dale/uPAwbGsgLPA_0000001 55.7 61.2 
+James_Badge_Dale/uPAwbGsgLPA_0000002 139.0 148.9 

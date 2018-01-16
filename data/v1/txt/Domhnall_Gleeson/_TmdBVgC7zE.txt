@@ -1,0 +1,13 @@
+POI: 			Domhnall_Gleeson 
+Youtube ID: 	_TmdBVgC7zE 
+Video length: 	591.1 sec 
+Set (V): 		dev 
+ 
+Domhnall_Gleeson/_TmdBVgC7zE_0000001 84.4 96.1 
+Domhnall_Gleeson/_TmdBVgC7zE_0000002 108.4 119.1 
+Domhnall_Gleeson/_TmdBVgC7zE_0000003 254.0 261.7 
+Domhnall_Gleeson/_TmdBVgC7zE_0000004 299.6 311.6 
+Domhnall_Gleeson/_TmdBVgC7zE_0000005 312.8 318.1 
+Domhnall_Gleeson/_TmdBVgC7zE_0000006 553.4 559.2 
+Domhnall_Gleeson/_TmdBVgC7zE_0000007 561.2 571.7 
+Domhnall_Gleeson/_TmdBVgC7zE_0000008 577.0 582.2 

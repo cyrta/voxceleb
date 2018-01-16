@@ -1,0 +1,11 @@
+POI: 			Gillian_Jacobs 
+Youtube ID: 	3j5n_FdTUg4 
+Video length: 	249.1 sec 
+Set (V): 		dev 
+ 
+Gillian_Jacobs/3j5n_FdTUg4_0000001 43.0 55.2 
+Gillian_Jacobs/3j5n_FdTUg4_0000002 99.2 105.3 
+Gillian_Jacobs/3j5n_FdTUg4_0000003 126.2 131.1 
+Gillian_Jacobs/3j5n_FdTUg4_0000004 165.1 172.1 
+Gillian_Jacobs/3j5n_FdTUg4_0000005 182.2 187.0 
+Gillian_Jacobs/3j5n_FdTUg4_0000006 204.2 208.5 

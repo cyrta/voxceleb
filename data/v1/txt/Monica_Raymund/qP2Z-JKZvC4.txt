@@ -1,0 +1,7 @@
+POI: 			Monica_Raymund 
+Youtube ID: 	qP2Z-JKZvC4 
+Video length: 	291.5 sec 
+Set (V): 		dev 
+ 
+Monica_Raymund/qP2Z-JKZvC4_0000001 175.8 183.6 
+Monica_Raymund/qP2Z-JKZvC4_0000002 184.0 188.2 

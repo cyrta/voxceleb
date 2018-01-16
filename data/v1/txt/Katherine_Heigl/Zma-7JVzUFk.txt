@@ -1,0 +1,16 @@
+POI: 			Katherine_Heigl 
+Youtube ID: 	Zma-7JVzUFk 
+Video length: 	221.2 sec 
+Set (V): 		dev 
+ 
+Katherine_Heigl/Zma-7JVzUFk_0000001 04.6 09.2 
+Katherine_Heigl/Zma-7JVzUFk_0000002 09.7 18.6 
+Katherine_Heigl/Zma-7JVzUFk_0000003 24.6 28.8 
+Katherine_Heigl/Zma-7JVzUFk_0000004 36.1 46.4 
+Katherine_Heigl/Zma-7JVzUFk_0000005 47.0 52.9 
+Katherine_Heigl/Zma-7JVzUFk_0000006 54.7 58.9 
+Katherine_Heigl/Zma-7JVzUFk_0000007 59.3 65.0 
+Katherine_Heigl/Zma-7JVzUFk_0000008 105.9 116.2 
+Katherine_Heigl/Zma-7JVzUFk_0000009 123.9 134.3 
+Katherine_Heigl/Zma-7JVzUFk_0000010 134.7 157.8 
+Katherine_Heigl/Zma-7JVzUFk_0000011 165.2 171.6 

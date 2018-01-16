@@ -1,0 +1,7 @@
+POI: 			Jeffrey_Donovan 
+Youtube ID: 	AE21MWJ1THk 
+Video length: 	195.1 sec 
+Set (V): 		dev 
+ 
+Jeffrey_Donovan/AE21MWJ1THk_0000001 77.9 83.0 
+Jeffrey_Donovan/AE21MWJ1THk_0000002 121.4 130.8 

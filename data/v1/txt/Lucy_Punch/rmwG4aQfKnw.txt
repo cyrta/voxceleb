@@ -1,0 +1,12 @@
+POI: 			Lucy_Punch 
+Youtube ID: 	rmwG4aQfKnw 
+Video length: 	225.0 sec 
+Set (V): 		dev 
+ 
+Lucy_Punch/rmwG4aQfKnw_0000001 19.1 24.1 
+Lucy_Punch/rmwG4aQfKnw_0000002 31.2 37.6 
+Lucy_Punch/rmwG4aQfKnw_0000003 65.9 75.4 
+Lucy_Punch/rmwG4aQfKnw_0000004 76.9 84.8 
+Lucy_Punch/rmwG4aQfKnw_0000005 99.3 109.1 
+Lucy_Punch/rmwG4aQfKnw_0000006 151.8 162.5 
+Lucy_Punch/rmwG4aQfKnw_0000007 201.4 209.0 

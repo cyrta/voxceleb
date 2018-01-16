@@ -1,0 +1,18 @@
+POI: 			Elle_Fanning 
+Youtube ID: 	Qkll9n7U5ak 
+Video length: 	249.5 sec 
+Set (V): 		test 
+ 
+Elle_Fanning/Qkll9n7U5ak_0000001 19.3 25.2 
+Elle_Fanning/Qkll9n7U5ak_0000002 25.4 30.4 
+Elle_Fanning/Qkll9n7U5ak_0000003 50.0 54.1 
+Elle_Fanning/Qkll9n7U5ak_0000004 57.1 62.6 
+Elle_Fanning/Qkll9n7U5ak_0000005 72.8 86.3 
+Elle_Fanning/Qkll9n7U5ak_0000006 89.6 93.7 
+Elle_Fanning/Qkll9n7U5ak_0000007 101.0 106.4 
+Elle_Fanning/Qkll9n7U5ak_0000008 109.9 127.6 
+Elle_Fanning/Qkll9n7U5ak_0000009 139.0 144.8 
+Elle_Fanning/Qkll9n7U5ak_0000010 150.0 155.8 
+Elle_Fanning/Qkll9n7U5ak_0000011 157.7 171.9 
+Elle_Fanning/Qkll9n7U5ak_0000012 228.9 235.8 
+Elle_Fanning/Qkll9n7U5ak_0000013 240.2 246.1 

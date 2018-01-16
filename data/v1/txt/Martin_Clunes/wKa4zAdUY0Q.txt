@@ -1,0 +1,15 @@
+POI: 			Martin_Clunes 
+Youtube ID: 	wKa4zAdUY0Q 
+Video length: 	624.0 sec 
+Set (V): 		dev 
+ 
+Martin_Clunes/wKa4zAdUY0Q_0000001 80.6 85.8 
+Martin_Clunes/wKa4zAdUY0Q_0000002 93.5 98.4 
+Martin_Clunes/wKa4zAdUY0Q_0000003 98.6 103.5 
+Martin_Clunes/wKa4zAdUY0Q_0000004 210.3 217.4 
+Martin_Clunes/wKa4zAdUY0Q_0000005 393.4 397.7 
+Martin_Clunes/wKa4zAdUY0Q_0000006 449.4 454.0 
+Martin_Clunes/wKa4zAdUY0Q_0000007 454.6 461.0 
+Martin_Clunes/wKa4zAdUY0Q_0000008 475.1 479.5 
+Martin_Clunes/wKa4zAdUY0Q_0000009 493.1 503.1 
+Martin_Clunes/wKa4zAdUY0Q_0000010 564.1 571.8 

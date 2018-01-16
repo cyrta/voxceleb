@@ -1,0 +1,7 @@
+POI: 			Cassandra_Peterson 
+Youtube ID: 	HyrtUmfcXAI 
+Video length: 	432.3 sec 
+Set (V): 		dev 
+ 
+Cassandra_Peterson/HyrtUmfcXAI_0000001 138.1 144.2 
+Cassandra_Peterson/HyrtUmfcXAI_0000002 154.0 159.1 

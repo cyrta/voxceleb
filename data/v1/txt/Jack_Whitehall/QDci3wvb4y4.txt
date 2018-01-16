@@ -1,0 +1,11 @@
+POI: 			Jack_Whitehall 
+Youtube ID: 	QDci3wvb4y4 
+Video length: 	183.7 sec 
+Set (V): 		dev 
+ 
+Jack_Whitehall/QDci3wvb4y4_0000001 22.8 33.6 
+Jack_Whitehall/QDci3wvb4y4_0000002 81.2 89.5 
+Jack_Whitehall/QDci3wvb4y4_0000003 101.7 107.9 
+Jack_Whitehall/QDci3wvb4y4_0000004 118.9 127.1 
+Jack_Whitehall/QDci3wvb4y4_0000005 155.6 159.6 
+Jack_Whitehall/QDci3wvb4y4_0000006 165.8 175.4 

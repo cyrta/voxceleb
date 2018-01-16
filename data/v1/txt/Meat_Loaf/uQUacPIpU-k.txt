@@ -1,0 +1,13 @@
+POI: 			Meat_Loaf 
+Youtube ID: 	uQUacPIpU-k 
+Video length: 	235.4 sec 
+Set (V): 		dev 
+ 
+Meat_Loaf/uQUacPIpU-k_0000001 15.0 20.1 
+Meat_Loaf/uQUacPIpU-k_0000002 60.7 77.4 
+Meat_Loaf/uQUacPIpU-k_0000003 78.5 91.3 
+Meat_Loaf/uQUacPIpU-k_0000004 118.8 123.9 
+Meat_Loaf/uQUacPIpU-k_0000005 124.3 128.3 
+Meat_Loaf/uQUacPIpU-k_0000006 177.0 193.2 
+Meat_Loaf/uQUacPIpU-k_0000007 199.0 203.4 
+Meat_Loaf/uQUacPIpU-k_0000008 209.0 213.0 

@@ -1,0 +1,7 @@
+POI: 			Gemma_Arterton 
+Youtube ID: 	8iKa4ZJXV9s 
+Video length: 	308.5 sec 
+Set (V): 		dev 
+ 
+Gemma_Arterton/8iKa4ZJXV9s_0000001 50.8 56.4 
+Gemma_Arterton/8iKa4ZJXV9s_0000002 64.5 69.5 

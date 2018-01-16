@@ -1,0 +1,9 @@
+POI: 			Elle_Fanning 
+Youtube ID: 	4TtOX8dgtYI 
+Video length: 	276.8 sec 
+Set (V): 		test 
+ 
+Elle_Fanning/4TtOX8dgtYI_0000001 65.6 70.4 
+Elle_Fanning/4TtOX8dgtYI_0000002 135.9 156.4 
+Elle_Fanning/4TtOX8dgtYI_0000003 170.1 185.1 
+Elle_Fanning/4TtOX8dgtYI_0000004 196.5 202.6 

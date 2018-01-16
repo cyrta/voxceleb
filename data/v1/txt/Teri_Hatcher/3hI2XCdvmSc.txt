@@ -1,0 +1,7 @@
+POI: 			Teri_Hatcher 
+Youtube ID: 	3hI2XCdvmSc 
+Video length: 	216.7 sec 
+Set (V): 		dev 
+ 
+Teri_Hatcher/3hI2XCdvmSc_0000001 105.7 110.4 
+Teri_Hatcher/3hI2XCdvmSc_0000002 117.4 130.1 

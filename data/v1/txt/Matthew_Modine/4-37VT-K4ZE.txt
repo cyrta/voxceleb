@@ -1,0 +1,15 @@
+POI: 			Matthew_Modine 
+Youtube ID: 	4-37VT-K4ZE 
+Video length: 	409.4 sec 
+Set (V): 		dev 
+ 
+Matthew_Modine/4-37VT-K4ZE_0000001 12.4 27.2 
+Matthew_Modine/4-37VT-K4ZE_0000002 209.0 232.1 
+Matthew_Modine/4-37VT-K4ZE_0000003 232.8 242.4 
+Matthew_Modine/4-37VT-K4ZE_0000004 243.7 267.8 
+Matthew_Modine/4-37VT-K4ZE_0000005 268.7 274.7 
+Matthew_Modine/4-37VT-K4ZE_0000006 295.8 343.6 
+Matthew_Modine/4-37VT-K4ZE_0000007 344.6 350.5 
+Matthew_Modine/4-37VT-K4ZE_0000008 351.4 383.8 
+Matthew_Modine/4-37VT-K4ZE_0000009 385.9 391.0 
+Matthew_Modine/4-37VT-K4ZE_0000010 392.9 404.6 

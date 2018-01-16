@@ -1,0 +1,8 @@
+POI: 			Jemaine_Clement 
+Youtube ID: 	LT04aYyJMnM 
+Video length: 	321.6 sec 
+Set (V): 		dev 
+ 
+Jemaine_Clement/LT04aYyJMnM_0000001 82.2 88.4 
+Jemaine_Clement/LT04aYyJMnM_0000002 92.1 96.1 
+Jemaine_Clement/LT04aYyJMnM_0000003 135.4 139.8 

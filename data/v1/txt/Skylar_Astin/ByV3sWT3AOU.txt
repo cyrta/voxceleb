@@ -1,0 +1,9 @@
+POI: 			Skylar_Astin 
+Youtube ID: 	ByV3sWT3AOU 
+Video length: 	132.0 sec 
+Set (V): 		dev 
+ 
+Skylar_Astin/ByV3sWT3AOU_0000001 46.8 51.6 
+Skylar_Astin/ByV3sWT3AOU_0000002 55.0 59.9 
+Skylar_Astin/ByV3sWT3AOU_0000003 113.3 117.8 
+Skylar_Astin/ByV3sWT3AOU_0000004 120.0 124.4 

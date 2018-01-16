@@ -1,0 +1,7 @@
+POI: 			Luke_Arnold 
+Youtube ID: 	5bVVJGuQ_3Q 
+Video length: 	492.2 sec 
+Set (V): 		dev 
+ 
+Luke_Arnold/5bVVJGuQ_3Q_0000001 351.9 356.9 
+Luke_Arnold/5bVVJGuQ_3Q_0000002 357.2 365.4 

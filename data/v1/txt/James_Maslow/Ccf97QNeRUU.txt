@@ -1,0 +1,15 @@
+POI: 			James_Maslow 
+Youtube ID: 	Ccf97QNeRUU 
+Video length: 	157.8 sec 
+Set (V): 		dev 
+ 
+James_Maslow/Ccf97QNeRUU_0000001 09.7 14.8 
+James_Maslow/Ccf97QNeRUU_0000002 22.7 28.8 
+James_Maslow/Ccf97QNeRUU_0000003 29.2 46.6 
+James_Maslow/Ccf97QNeRUU_0000004 47.0 52.1 
+James_Maslow/Ccf97QNeRUU_0000005 71.2 92.1 
+James_Maslow/Ccf97QNeRUU_0000006 98.1 104.5 
+James_Maslow/Ccf97QNeRUU_0000007 115.8 121.5 
+James_Maslow/Ccf97QNeRUU_0000008 63.9 75.7 
+James_Maslow/Ccf97QNeRUU_0000009 132.9 138.5 
+James_Maslow/Ccf97QNeRUU_0000010 144.8 150.2 

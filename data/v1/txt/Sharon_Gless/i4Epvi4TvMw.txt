@@ -1,0 +1,8 @@
+POI: 			Sharon_Gless 
+Youtube ID: 	i4Epvi4TvMw 
+Video length: 	424.9 sec 
+Set (V): 		dev 
+ 
+Sharon_Gless/i4Epvi4TvMw_0000001 49.0 55.0 
+Sharon_Gless/i4Epvi4TvMw_0000002 72.0 76.0 
+Sharon_Gless/i4Epvi4TvMw_0000003 258.4 262.8 

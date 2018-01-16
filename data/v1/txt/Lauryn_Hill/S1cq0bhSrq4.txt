@@ -1,0 +1,47 @@
+POI: 			Lauryn_Hill 
+Youtube ID: 	S1cq0bhSrq4 
+Video length: 	1364.6 sec 
+Set (V): 		dev 
+ 
+Lauryn_Hill/S1cq0bhSrq4_0000001 300.7 305.7 
+Lauryn_Hill/S1cq0bhSrq4_0000002 369.9 375.4 
+Lauryn_Hill/S1cq0bhSrq4_0000003 438.6 443.5 
+Lauryn_Hill/S1cq0bhSrq4_0000004 449.4 454.1 
+Lauryn_Hill/S1cq0bhSrq4_0000005 455.3 463.4 
+Lauryn_Hill/S1cq0bhSrq4_0000006 682.6 691.1 
+Lauryn_Hill/S1cq0bhSrq4_0000007 712.2 717.1 
+Lauryn_Hill/S1cq0bhSrq4_0000008 758.1 762.2 
+Lauryn_Hill/S1cq0bhSrq4_0000009 779.2 790.8 
+Lauryn_Hill/S1cq0bhSrq4_0000010 795.4 800.4 
+Lauryn_Hill/S1cq0bhSrq4_0000011 807.2 814.9 
+Lauryn_Hill/S1cq0bhSrq4_0000012 823.6 828.1 
+Lauryn_Hill/S1cq0bhSrq4_0000013 844.2 848.4 
+Lauryn_Hill/S1cq0bhSrq4_0000014 848.8 880.2 
+Lauryn_Hill/S1cq0bhSrq4_0000015 891.7 902.4 
+Lauryn_Hill/S1cq0bhSrq4_0000016 903.8 915.2 
+Lauryn_Hill/S1cq0bhSrq4_0000017 916.2 923.2 
+Lauryn_Hill/S1cq0bhSrq4_0000018 923.6 931.7 
+Lauryn_Hill/S1cq0bhSrq4_0000019 943.4 948.1 
+Lauryn_Hill/S1cq0bhSrq4_0000020 948.6 953.2 
+Lauryn_Hill/S1cq0bhSrq4_0000021 957.7 964.0 
+Lauryn_Hill/S1cq0bhSrq4_0000022 968.6 972.7 
+Lauryn_Hill/S1cq0bhSrq4_0000023 1002.1 1007.5 
+Lauryn_Hill/S1cq0bhSrq4_0000024 1011.6 1018.8 
+Lauryn_Hill/S1cq0bhSrq4_0000025 1027.4 1032.8 
+Lauryn_Hill/S1cq0bhSrq4_0000026 1035.2 1049.0 
+Lauryn_Hill/S1cq0bhSrq4_0000027 1088.9 1103.0 
+Lauryn_Hill/S1cq0bhSrq4_0000028 1105.2 1112.2 
+Lauryn_Hill/S1cq0bhSrq4_0000029 1117.6 1126.3 
+Lauryn_Hill/S1cq0bhSrq4_0000030 1127.4 1134.4 
+Lauryn_Hill/S1cq0bhSrq4_0000031 1134.7 1146.6 
+Lauryn_Hill/S1cq0bhSrq4_0000032 1161.7 1172.2 
+Lauryn_Hill/S1cq0bhSrq4_0000033 1189.6 1198.0 
+Lauryn_Hill/S1cq0bhSrq4_0000034 1213.6 1218.6 
+Lauryn_Hill/S1cq0bhSrq4_0000035 1222.4 1228.4 
+Lauryn_Hill/S1cq0bhSrq4_0000036 1232.6 1244.5 
+Lauryn_Hill/S1cq0bhSrq4_0000037 1247.1 1257.7 
+Lauryn_Hill/S1cq0bhSrq4_0000038 1270.0 1274.0 
+Lauryn_Hill/S1cq0bhSrq4_0000039 1276.5 1280.9 
+Lauryn_Hill/S1cq0bhSrq4_0000040 1284.0 1291.2 
+Lauryn_Hill/S1cq0bhSrq4_0000041 1292.0 1298.6 
+Lauryn_Hill/S1cq0bhSrq4_0000042 1341.5 1349.5 

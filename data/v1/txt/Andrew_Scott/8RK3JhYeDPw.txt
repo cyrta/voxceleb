@@ -1,0 +1,12 @@
+POI: 			Andrew_Scott 
+Youtube ID: 	8RK3JhYeDPw 
+Video length: 	144.6 sec 
+Set (V): 		dev 
+ 
+Andrew_Scott/8RK3JhYeDPw_0000001 13.4 17.7 
+Andrew_Scott/8RK3JhYeDPw_0000002 19.7 30.9 
+Andrew_Scott/8RK3JhYeDPw_0000003 44.4 58.9 
+Andrew_Scott/8RK3JhYeDPw_0000004 63.0 72.5 
+Andrew_Scott/8RK3JhYeDPw_0000005 82.4 104.4 
+Andrew_Scott/8RK3JhYeDPw_0000006 116.0 126.8 
+Andrew_Scott/8RK3JhYeDPw_0000007 130.1 134.8 

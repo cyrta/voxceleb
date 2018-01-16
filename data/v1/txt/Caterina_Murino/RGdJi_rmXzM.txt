@@ -1,0 +1,11 @@
+POI: 			Caterina_Murino 
+Youtube ID: 	RGdJi_rmXzM 
+Video length: 	116.0 sec 
+Set (V): 		dev 
+ 
+Caterina_Murino/RGdJi_rmXzM_0000001 19.6 33.7 
+Caterina_Murino/RGdJi_rmXzM_0000002 54.9 59.8 
+Caterina_Murino/RGdJi_rmXzM_0000003 60.0 64.0 
+Caterina_Murino/RGdJi_rmXzM_0000004 84.3 89.2 
+Caterina_Murino/RGdJi_rmXzM_0000005 89.5 97.0 
+Caterina_Murino/RGdJi_rmXzM_0000006 103.5 107.6 

@@ -1,0 +1,9 @@
+POI: 			Eric_Braeden 
+Youtube ID: 	KMM3INYWEeY 
+Video length: 	201.3 sec 
+Set (V): 		test 
+ 
+Eric_Braeden/KMM3INYWEeY_0000001 86.0 100.0 
+Eric_Braeden/KMM3INYWEeY_0000002 100.3 105.2 
+Eric_Braeden/KMM3INYWEeY_0000003 161.1 166.9 
+Eric_Braeden/KMM3INYWEeY_0000004 187.6 195.5 

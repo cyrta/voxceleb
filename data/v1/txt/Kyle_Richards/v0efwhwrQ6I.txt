@@ -1,0 +1,16 @@
+POI: 			Kyle_Richards 
+Youtube ID: 	v0efwhwrQ6I 
+Video length: 	247.1 sec 
+Set (V): 		dev 
+ 
+Kyle_Richards/v0efwhwrQ6I_0000001 56.8 64.4 
+Kyle_Richards/v0efwhwrQ6I_0000002 67.4 72.8 
+Kyle_Richards/v0efwhwrQ6I_0000003 87.8 97.3 
+Kyle_Richards/v0efwhwrQ6I_0000004 101.8 106.8 
+Kyle_Richards/v0efwhwrQ6I_0000005 115.7 120.4 
+Kyle_Richards/v0efwhwrQ6I_0000006 125.8 130.5 
+Kyle_Richards/v0efwhwrQ6I_0000007 135.5 146.9 
+Kyle_Richards/v0efwhwrQ6I_0000008 149.4 155.9 
+Kyle_Richards/v0efwhwrQ6I_0000009 157.1 166.1 
+Kyle_Richards/v0efwhwrQ6I_0000010 174.9 188.6 
+Kyle_Richards/v0efwhwrQ6I_0000011 191.1 211.8 

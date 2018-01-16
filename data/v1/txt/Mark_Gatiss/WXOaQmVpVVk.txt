@@ -1,0 +1,18 @@
+POI: 			Mark_Gatiss 
+Youtube ID: 	WXOaQmVpVVk 
+Video length: 	397.9 sec 
+Set (V): 		dev 
+ 
+Mark_Gatiss/WXOaQmVpVVk_0000001 69.4 73.6 
+Mark_Gatiss/WXOaQmVpVVk_0000002 73.7 87.0 
+Mark_Gatiss/WXOaQmVpVVk_0000003 105.8 110.4 
+Mark_Gatiss/WXOaQmVpVVk_0000004 126.1 130.9 
+Mark_Gatiss/WXOaQmVpVVk_0000005 134.0 142.0 
+Mark_Gatiss/WXOaQmVpVVk_0000006 143.5 150.0 
+Mark_Gatiss/WXOaQmVpVVk_0000007 234.4 241.1 
+Mark_Gatiss/WXOaQmVpVVk_0000008 247.0 251.0 
+Mark_Gatiss/WXOaQmVpVVk_0000009 256.8 262.1 
+Mark_Gatiss/WXOaQmVpVVk_0000010 264.2 271.4 
+Mark_Gatiss/WXOaQmVpVVk_0000011 284.3 292.0 
+Mark_Gatiss/WXOaQmVpVVk_0000012 292.8 299.1 
+Mark_Gatiss/WXOaQmVpVVk_0000013 345.6 350.6 

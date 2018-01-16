@@ -1,0 +1,7 @@
+POI: 			Brit_Marling 
+Youtube ID: 	N-Gn7ZYH3YQ 
+Video length: 	584.8 sec 
+Set (V): 		dev 
+ 
+Brit_Marling/N-Gn7ZYH3YQ_0000001 303.3 310.0 
+Brit_Marling/N-Gn7ZYH3YQ_0000002 538.5 544.3 

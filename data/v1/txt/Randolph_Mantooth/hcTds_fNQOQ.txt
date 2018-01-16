@@ -1,0 +1,22 @@
+POI: 			Randolph_Mantooth 
+Youtube ID: 	hcTds_fNQOQ 
+Video length: 	278.0 sec 
+Set (V): 		dev 
+ 
+Randolph_Mantooth/hcTds_fNQOQ_0000001 28.8 71.2 
+Randolph_Mantooth/hcTds_fNQOQ_0000002 71.6 76.1 
+Randolph_Mantooth/hcTds_fNQOQ_0000003 88.3 94.2 
+Randolph_Mantooth/hcTds_fNQOQ_0000004 94.7 101.7 
+Randolph_Mantooth/hcTds_fNQOQ_0000005 102.8 120.3 
+Randolph_Mantooth/hcTds_fNQOQ_0000006 121.1 125.0 
+Randolph_Mantooth/hcTds_fNQOQ_0000007 130.0 135.4 
+Randolph_Mantooth/hcTds_fNQOQ_0000008 144.0 153.6 
+Randolph_Mantooth/hcTds_fNQOQ_0000009 158.0 162.0 
+Randolph_Mantooth/hcTds_fNQOQ_0000010 163.2 170.4 
+Randolph_Mantooth/hcTds_fNQOQ_0000011 171.4 175.6 
+Randolph_Mantooth/hcTds_fNQOQ_0000012 188.4 192.9 
+Randolph_Mantooth/hcTds_fNQOQ_0000013 196.5 204.9 
+Randolph_Mantooth/hcTds_fNQOQ_0000014 207.9 219.7 
+Randolph_Mantooth/hcTds_fNQOQ_0000015 226.6 234.0 
+Randolph_Mantooth/hcTds_fNQOQ_0000016 237.3 248.6 
+Randolph_Mantooth/hcTds_fNQOQ_0000017 253.7 261.0 

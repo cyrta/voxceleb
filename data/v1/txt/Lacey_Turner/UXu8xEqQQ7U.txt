@@ -1,0 +1,12 @@
+POI: 			Lacey_Turner 
+Youtube ID: 	UXu8xEqQQ7U 
+Video length: 	253.4 sec 
+Set (V): 		dev 
+ 
+Lacey_Turner/UXu8xEqQQ7U_0000001 12.2 21.9 
+Lacey_Turner/UXu8xEqQQ7U_0000002 64.0 68.2 
+Lacey_Turner/UXu8xEqQQ7U_0000003 120.1 127.5 
+Lacey_Turner/UXu8xEqQQ7U_0000004 133.3 137.4 
+Lacey_Turner/UXu8xEqQQ7U_0000005 162.0 166.2 
+Lacey_Turner/UXu8xEqQQ7U_0000006 170.7 186.8 
+Lacey_Turner/UXu8xEqQQ7U_0000007 241.1 246.6 

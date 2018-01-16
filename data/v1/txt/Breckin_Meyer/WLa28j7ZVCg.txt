@@ -1,0 +1,10 @@
+POI: 			Breckin_Meyer 
+Youtube ID: 	WLa28j7ZVCg 
+Video length: 	289.1 sec 
+Set (V): 		dev 
+ 
+Breckin_Meyer/WLa28j7ZVCg_0000001 24.3 33.6 
+Breckin_Meyer/WLa28j7ZVCg_0000002 35.4 41.8 
+Breckin_Meyer/WLa28j7ZVCg_0000003 59.8 65.7 
+Breckin_Meyer/WLa28j7ZVCg_0000004 66.7 78.8 
+Breckin_Meyer/WLa28j7ZVCg_0000005 123.9 129.3 

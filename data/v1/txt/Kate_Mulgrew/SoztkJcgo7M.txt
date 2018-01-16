@@ -1,0 +1,7 @@
+POI: 			Kate_Mulgrew 
+Youtube ID: 	SoztkJcgo7M 
+Video length: 	195.6 sec 
+Set (V): 		dev 
+ 
+Kate_Mulgrew/SoztkJcgo7M_0000001 34.8 44.2 
+Kate_Mulgrew/SoztkJcgo7M_0000002 184.0 188.4 

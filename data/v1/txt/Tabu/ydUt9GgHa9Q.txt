@@ -1,0 +1,11 @@
+POI: 			Tabu 
+Youtube ID: 	ydUt9GgHa9Q 
+Video length: 	468.3 sec 
+Set (V): 		dev 
+ 
+Tabu/ydUt9GgHa9Q_0000001 262.4 269.8 
+Tabu/ydUt9GgHa9Q_0000002 308.3 312.3 
+Tabu/ydUt9GgHa9Q_0000003 315.8 325.0 
+Tabu/ydUt9GgHa9Q_0000004 392.0 396.2 
+Tabu/ydUt9GgHa9Q_0000005 401.6 408.7 
+Tabu/ydUt9GgHa9Q_0000006 429.1 434.4 

@@ -1,0 +1,19 @@
+POI: 			Greta_Gerwig 
+Youtube ID: 	CtsD5RCCZwM 
+Video length: 	272.4 sec 
+Set (V): 		dev 
+ 
+Greta_Gerwig/CtsD5RCCZwM_0000001 24.2 40.3 
+Greta_Gerwig/CtsD5RCCZwM_0000002 40.6 44.9 
+Greta_Gerwig/CtsD5RCCZwM_0000003 49.6 54.4 
+Greta_Gerwig/CtsD5RCCZwM_0000004 69.9 76.1 
+Greta_Gerwig/CtsD5RCCZwM_0000005 78.1 95.7 
+Greta_Gerwig/CtsD5RCCZwM_0000006 104.7 126.8 
+Greta_Gerwig/CtsD5RCCZwM_0000007 132.2 140.2 
+Greta_Gerwig/CtsD5RCCZwM_0000008 141.2 147.4 
+Greta_Gerwig/CtsD5RCCZwM_0000009 171.7 176.4 
+Greta_Gerwig/CtsD5RCCZwM_0000010 176.8 193.2 
+Greta_Gerwig/CtsD5RCCZwM_0000011 194.3 201.0 
+Greta_Gerwig/CtsD5RCCZwM_0000012 203.5 223.3 
+Greta_Gerwig/CtsD5RCCZwM_0000013 238.6 249.0 
+Greta_Gerwig/CtsD5RCCZwM_0000014 250.0 263.9 

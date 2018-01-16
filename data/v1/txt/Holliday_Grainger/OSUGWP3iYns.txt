@@ -1,0 +1,24 @@
+POI: 			Holliday_Grainger 
+Youtube ID: 	OSUGWP3iYns 
+Video length: 	286.9 sec 
+Set (V): 		dev 
+ 
+Holliday_Grainger/OSUGWP3iYns_0000001 08.7 12.8 
+Holliday_Grainger/OSUGWP3iYns_0000002 19.0 26.6 
+Holliday_Grainger/OSUGWP3iYns_0000003 39.4 44.8 
+Holliday_Grainger/OSUGWP3iYns_0000004 46.2 50.7 
+Holliday_Grainger/OSUGWP3iYns_0000005 51.0 61.5 
+Holliday_Grainger/OSUGWP3iYns_0000006 62.4 66.5 
+Holliday_Grainger/OSUGWP3iYns_0000007 71.1 85.1 
+Holliday_Grainger/OSUGWP3iYns_0000008 101.8 113.4 
+Holliday_Grainger/OSUGWP3iYns_0000009 114.2 126.2 
+Holliday_Grainger/OSUGWP3iYns_0000010 126.7 137.1 
+Holliday_Grainger/OSUGWP3iYns_0000011 159.1 169.9 
+Holliday_Grainger/OSUGWP3iYns_0000012 171.9 183.6 
+Holliday_Grainger/OSUGWP3iYns_0000013 184.2 189.0 
+Holliday_Grainger/OSUGWP3iYns_0000014 189.9 195.5 
+Holliday_Grainger/OSUGWP3iYns_0000015 210.8 215.4 
+Holliday_Grainger/OSUGWP3iYns_0000016 215.6 221.7 
+Holliday_Grainger/OSUGWP3iYns_0000017 235.5 259.1 
+Holliday_Grainger/OSUGWP3iYns_0000018 260.0 273.7 
+Holliday_Grainger/OSUGWP3iYns_0000019 280.4 284.3 

@@ -1,0 +1,25 @@
+POI: 			Tom_Bergeron 
+Youtube ID: 	cu11S_2dNyA 
+Video length: 	337.5 sec 
+Set (V): 		dev 
+ 
+Tom_Bergeron/cu11S_2dNyA_0000001 07.4 12.1 
+Tom_Bergeron/cu11S_2dNyA_0000002 14.3 31.2 
+Tom_Bergeron/cu11S_2dNyA_0000003 32.1 43.6 
+Tom_Bergeron/cu11S_2dNyA_0000004 46.9 61.2 
+Tom_Bergeron/cu11S_2dNyA_0000005 62.3 74.1 
+Tom_Bergeron/cu11S_2dNyA_0000006 77.4 85.8 
+Tom_Bergeron/cu11S_2dNyA_0000007 86.4 92.2 
+Tom_Bergeron/cu11S_2dNyA_0000008 93.1 102.9 
+Tom_Bergeron/cu11S_2dNyA_0000009 103.2 114.4 
+Tom_Bergeron/cu11S_2dNyA_0000010 128.8 140.4 
+Tom_Bergeron/cu11S_2dNyA_0000011 141.1 151.1 
+Tom_Bergeron/cu11S_2dNyA_0000012 151.2 166.5 
+Tom_Bergeron/cu11S_2dNyA_0000013 171.6 179.6 
+Tom_Bergeron/cu11S_2dNyA_0000014 185.8 192.9 
+Tom_Bergeron/cu11S_2dNyA_0000015 193.3 220.9 
+Tom_Bergeron/cu11S_2dNyA_0000016 228.4 248.8 
+Tom_Bergeron/cu11S_2dNyA_0000017 249.2 255.8 
+Tom_Bergeron/cu11S_2dNyA_0000018 257.8 279.0 
+Tom_Bergeron/cu11S_2dNyA_0000019 286.3 308.1 
+Tom_Bergeron/cu11S_2dNyA_0000020 314.8 327.8 

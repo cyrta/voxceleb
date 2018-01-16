@@ -1,0 +1,10 @@
+POI: 			Jason_David_Frank 
+Youtube ID: 	geGhd7y9X6A 
+Video length: 	271.3 sec 
+Set (V): 		dev 
+ 
+Jason_David_Frank/geGhd7y9X6A_0000001 70.6 80.7 
+Jason_David_Frank/geGhd7y9X6A_0000002 81.0 95.3 
+Jason_David_Frank/geGhd7y9X6A_0000003 139.9 145.6 
+Jason_David_Frank/geGhd7y9X6A_0000004 218.6 224.0 
+Jason_David_Frank/geGhd7y9X6A_0000005 251.1 255.8 

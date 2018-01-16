@@ -1,0 +1,10 @@
+POI: 			Janet_McTeer 
+Youtube ID: 	ZMBRV73S-os 
+Video length: 	251.6 sec 
+Set (V): 		dev 
+ 
+Janet_McTeer/ZMBRV73S-os_0000001 45.2 50.9 
+Janet_McTeer/ZMBRV73S-os_0000002 61.7 70.1 
+Janet_McTeer/ZMBRV73S-os_0000003 102.1 107.4 
+Janet_McTeer/ZMBRV73S-os_0000004 222.1 228.0 
+Janet_McTeer/ZMBRV73S-os_0000005 228.4 235.6 

@@ -1,0 +1,16 @@
+POI: 			Richard_E._Grant 
+Youtube ID: 	CwXXFrjmfAY 
+Video length: 	535.9 sec 
+Set (V): 		dev 
+ 
+Richard_E._Grant/CwXXFrjmfAY_0000001 68.5 74.4 
+Richard_E._Grant/CwXXFrjmfAY_0000002 166.8 171.2 
+Richard_E._Grant/CwXXFrjmfAY_0000003 171.5 185.4 
+Richard_E._Grant/CwXXFrjmfAY_0000004 213.9 218.7 
+Richard_E._Grant/CwXXFrjmfAY_0000005 220.4 230.8 
+Richard_E._Grant/CwXXFrjmfAY_0000006 343.5 354.3 
+Richard_E._Grant/CwXXFrjmfAY_0000007 381.2 385.9 
+Richard_E._Grant/CwXXFrjmfAY_0000008 418.8 424.9 
+Richard_E._Grant/CwXXFrjmfAY_0000009 461.6 472.5 
+Richard_E._Grant/CwXXFrjmfAY_0000010 493.9 499.3 
+Richard_E._Grant/CwXXFrjmfAY_0000011 500.0 504.9 

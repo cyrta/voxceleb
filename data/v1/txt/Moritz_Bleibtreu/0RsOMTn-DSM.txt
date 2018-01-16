@@ -1,0 +1,26 @@
+POI: 			Moritz_Bleibtreu 
+Youtube ID: 	0RsOMTn-DSM 
+Video length: 	427.1 sec 
+Set (V): 		dev 
+ 
+Moritz_Bleibtreu/0RsOMTn-DSM_0000001 09.8 14.5 
+Moritz_Bleibtreu/0RsOMTn-DSM_0000002 17.4 23.8 
+Moritz_Bleibtreu/0RsOMTn-DSM_0000003 33.4 40.9 
+Moritz_Bleibtreu/0RsOMTn-DSM_0000004 84.3 103.2 
+Moritz_Bleibtreu/0RsOMTn-DSM_0000005 135.1 146.4 
+Moritz_Bleibtreu/0RsOMTn-DSM_0000006 160.6 167.6 
+Moritz_Bleibtreu/0RsOMTn-DSM_0000007 169.8 178.5 
+Moritz_Bleibtreu/0RsOMTn-DSM_0000008 185.5 194.4 
+Moritz_Bleibtreu/0RsOMTn-DSM_0000009 196.8 201.4 
+Moritz_Bleibtreu/0RsOMTn-DSM_0000010 203.3 207.9 
+Moritz_Bleibtreu/0RsOMTn-DSM_0000011 212.8 220.6 
+Moritz_Bleibtreu/0RsOMTn-DSM_0000012 253.6 259.3 
+Moritz_Bleibtreu/0RsOMTn-DSM_0000013 259.4 263.5 
+Moritz_Bleibtreu/0RsOMTn-DSM_0000014 264.4 276.8 
+Moritz_Bleibtreu/0RsOMTn-DSM_0000015 283.7 292.8 
+Moritz_Bleibtreu/0RsOMTn-DSM_0000016 336.8 344.4 
+Moritz_Bleibtreu/0RsOMTn-DSM_0000017 345.0 353.6 
+Moritz_Bleibtreu/0RsOMTn-DSM_0000018 358.1 371.8 
+Moritz_Bleibtreu/0RsOMTn-DSM_0000019 375.3 379.6 
+Moritz_Bleibtreu/0RsOMTn-DSM_0000020 382.1 387.7 
+Moritz_Bleibtreu/0RsOMTn-DSM_0000021 388.2 398.7 

@@ -1,0 +1,9 @@
+POI: 			Eric_Dane 
+Youtube ID: 	ywZWrIt52KQ 
+Video length: 	162.3 sec 
+Set (V): 		test 
+ 
+Eric_Dane/ywZWrIt52KQ_0000001 36.4 43.2 
+Eric_Dane/ywZWrIt52KQ_0000002 77.5 84.8 
+Eric_Dane/ywZWrIt52KQ_0000003 87.8 92.8 
+Eric_Dane/ywZWrIt52KQ_0000004 136.6 140.5 

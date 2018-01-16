@@ -1,0 +1,6 @@
+POI: 			Bruno_Mars 
+Youtube ID: 	GXndCUKQbB0 
+Video length: 	223.9 sec 
+Set (V): 		dev 
+ 
+Bruno_Mars/GXndCUKQbB0_0000001 110.7 117.9 

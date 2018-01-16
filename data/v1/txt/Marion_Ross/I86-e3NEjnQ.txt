@@ -1,0 +1,12 @@
+POI: 			Marion_Ross 
+Youtube ID: 	I86-e3NEjnQ 
+Video length: 	459.9 sec 
+Set (V): 		dev 
+ 
+Marion_Ross/I86-e3NEjnQ_0000001 125.0 133.1 
+Marion_Ross/I86-e3NEjnQ_0000002 145.8 152.5 
+Marion_Ross/I86-e3NEjnQ_0000003 172.7 184.5 
+Marion_Ross/I86-e3NEjnQ_0000004 196.8 202.0 
+Marion_Ross/I86-e3NEjnQ_0000005 213.7 222.1 
+Marion_Ross/I86-e3NEjnQ_0000006 272.1 284.8 
+Marion_Ross/I86-e3NEjnQ_0000007 384.8 391.0 

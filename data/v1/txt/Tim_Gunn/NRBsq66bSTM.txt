@@ -1,0 +1,8 @@
+POI: 			Tim_Gunn 
+Youtube ID: 	NRBsq66bSTM 
+Video length: 	264.7 sec 
+Set (V): 		dev 
+ 
+Tim_Gunn/NRBsq66bSTM_0000001 41.7 47.3 
+Tim_Gunn/NRBsq66bSTM_0000002 169.3 173.4 
+Tim_Gunn/NRBsq66bSTM_0000003 187.4 191.4 

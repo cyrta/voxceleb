@@ -1,0 +1,14 @@
+POI: 			Patrick_Dempsey 
+Youtube ID: 	qNHY7j8uIdc 
+Video length: 	582.3 sec 
+Set (V): 		dev 
+ 
+Patrick_Dempsey/qNHY7j8uIdc_0000001 129.2 143.8 
+Patrick_Dempsey/qNHY7j8uIdc_0000002 166.5 177.2 
+Patrick_Dempsey/qNHY7j8uIdc_0000003 227.0 232.4 
+Patrick_Dempsey/qNHY7j8uIdc_0000004 264.2 268.2 
+Patrick_Dempsey/qNHY7j8uIdc_0000005 299.8 304.9 
+Patrick_Dempsey/qNHY7j8uIdc_0000006 305.9 310.5 
+Patrick_Dempsey/qNHY7j8uIdc_0000007 327.3 333.7 
+Patrick_Dempsey/qNHY7j8uIdc_0000008 385.9 403.7 
+Patrick_Dempsey/qNHY7j8uIdc_0000009 525.6 536.1 

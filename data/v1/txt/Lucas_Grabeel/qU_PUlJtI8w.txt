@@ -1,0 +1,8 @@
+POI: 			Lucas_Grabeel 
+Youtube ID: 	qU_PUlJtI8w 
+Video length: 	288.8 sec 
+Set (V): 		dev 
+ 
+Lucas_Grabeel/qU_PUlJtI8w_0000001 93.0 97.6 
+Lucas_Grabeel/qU_PUlJtI8w_0000002 98.8 109.4 
+Lucas_Grabeel/qU_PUlJtI8w_0000003 247.6 260.4 

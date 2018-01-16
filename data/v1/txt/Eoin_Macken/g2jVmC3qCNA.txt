@@ -1,0 +1,13 @@
+POI: 			Eoin_Macken 
+Youtube ID: 	g2jVmC3qCNA 
+Video length: 	190.6 sec 
+Set (V): 		test 
+ 
+Eoin_Macken/g2jVmC3qCNA_0000001 09.3 29.8 
+Eoin_Macken/g2jVmC3qCNA_0000002 37.0 46.2 
+Eoin_Macken/g2jVmC3qCNA_0000003 78.8 92.5 
+Eoin_Macken/g2jVmC3qCNA_0000004 93.1 98.8 
+Eoin_Macken/g2jVmC3qCNA_0000005 113.1 117.8 
+Eoin_Macken/g2jVmC3qCNA_0000006 132.2 136.6 
+Eoin_Macken/g2jVmC3qCNA_0000007 160.7 173.9 
+Eoin_Macken/g2jVmC3qCNA_0000008 174.0 178.1 

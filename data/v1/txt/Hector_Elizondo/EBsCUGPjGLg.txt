@@ -1,0 +1,7 @@
+POI: 			Hector_Elizondo 
+Youtube ID: 	EBsCUGPjGLg 
+Video length: 	101.1 sec 
+Set (V): 		dev 
+ 
+Hector_Elizondo/EBsCUGPjGLg_0000001 20.7 27.0 
+Hector_Elizondo/EBsCUGPjGLg_0000002 91.9 97.0 

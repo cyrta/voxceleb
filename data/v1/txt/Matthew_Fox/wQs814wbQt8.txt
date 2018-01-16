@@ -1,0 +1,15 @@
+POI: 			Matthew_Fox 
+Youtube ID: 	wQs814wbQt8 
+Video length: 	251.0 sec 
+Set (V): 		dev 
+ 
+Matthew_Fox/wQs814wbQt8_0000001 34.3 39.0 
+Matthew_Fox/wQs814wbQt8_0000002 39.6 48.7 
+Matthew_Fox/wQs814wbQt8_0000003 90.5 104.8 
+Matthew_Fox/wQs814wbQt8_0000004 120.0 124.3 
+Matthew_Fox/wQs814wbQt8_0000005 124.6 130.8 
+Matthew_Fox/wQs814wbQt8_0000006 131.2 137.0 
+Matthew_Fox/wQs814wbQt8_0000007 149.0 153.4 
+Matthew_Fox/wQs814wbQt8_0000008 153.6 161.4 
+Matthew_Fox/wQs814wbQt8_0000009 161.7 168.4 
+Matthew_Fox/wQs814wbQt8_0000010 190.2 202.7 

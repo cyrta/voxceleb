@@ -1,0 +1,18 @@
+POI: 			Garrett_Hedlund 
+Youtube ID: 	wCYGls_Gib8 
+Video length: 	334.0 sec 
+Set (V): 		dev 
+ 
+Garrett_Hedlund/wCYGls_Gib8_0000001 58.6 63.8 
+Garrett_Hedlund/wCYGls_Gib8_0000002 64.0 72.3 
+Garrett_Hedlund/wCYGls_Gib8_0000003 124.1 130.0 
+Garrett_Hedlund/wCYGls_Gib8_0000004 131.2 143.4 
+Garrett_Hedlund/wCYGls_Gib8_0000005 147.2 151.9 
+Garrett_Hedlund/wCYGls_Gib8_0000006 152.4 156.4 
+Garrett_Hedlund/wCYGls_Gib8_0000007 157.4 163.8 
+Garrett_Hedlund/wCYGls_Gib8_0000008 187.3 191.4 
+Garrett_Hedlund/wCYGls_Gib8_0000009 223.1 228.0 
+Garrett_Hedlund/wCYGls_Gib8_0000010 231.8 236.4 
+Garrett_Hedlund/wCYGls_Gib8_0000011 237.6 243.3 
+Garrett_Hedlund/wCYGls_Gib8_0000012 247.3 258.3 
+Garrett_Hedlund/wCYGls_Gib8_0000013 289.2 301.3 

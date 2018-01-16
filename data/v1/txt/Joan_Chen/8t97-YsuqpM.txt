@@ -1,0 +1,17 @@
+POI: 			Joan_Chen 
+Youtube ID: 	8t97-YsuqpM 
+Video length: 	248.2 sec 
+Set (V): 		dev 
+ 
+Joan_Chen/8t97-YsuqpM_0000001 09.6 16.7 
+Joan_Chen/8t97-YsuqpM_0000002 17.6 27.0 
+Joan_Chen/8t97-YsuqpM_0000003 36.7 44.4 
+Joan_Chen/8t97-YsuqpM_0000004 46.6 60.1 
+Joan_Chen/8t97-YsuqpM_0000005 76.5 96.3 
+Joan_Chen/8t97-YsuqpM_0000006 131.7 137.8 
+Joan_Chen/8t97-YsuqpM_0000007 141.5 148.1 
+Joan_Chen/8t97-YsuqpM_0000008 169.8 174.4 
+Joan_Chen/8t97-YsuqpM_0000009 180.9 188.2 
+Joan_Chen/8t97-YsuqpM_0000010 188.8 193.5 
+Joan_Chen/8t97-YsuqpM_0000011 194.4 199.6 
+Joan_Chen/8t97-YsuqpM_0000012 228.2 232.7 

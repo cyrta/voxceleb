@@ -1,0 +1,12 @@
+POI: 			Heike_Makatsch 
+Youtube ID: 	whAMYBtW8BE 
+Video length: 	302.2 sec 
+Set (V): 		dev 
+ 
+Heike_Makatsch/whAMYBtW8BE_0000001 04.8 10.2 
+Heike_Makatsch/whAMYBtW8BE_0000002 10.6 26.2 
+Heike_Makatsch/whAMYBtW8BE_0000003 35.3 43.1 
+Heike_Makatsch/whAMYBtW8BE_0000004 99.7 113.2 
+Heike_Makatsch/whAMYBtW8BE_0000005 142.1 148.1 
+Heike_Makatsch/whAMYBtW8BE_0000006 174.2 179.0 
+Heike_Makatsch/whAMYBtW8BE_0000007 179.9 189.7 

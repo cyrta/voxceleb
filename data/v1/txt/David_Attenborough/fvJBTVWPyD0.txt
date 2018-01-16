@@ -1,0 +1,8 @@
+POI: 			David_Attenborough 
+Youtube ID: 	fvJBTVWPyD0 
+Video length: 	237.0 sec 
+Set (V): 		dev 
+ 
+David_Attenborough/fvJBTVWPyD0_0000001 163.0 171.8 
+David_Attenborough/fvJBTVWPyD0_0000002 184.6 189.3 
+David_Attenborough/fvJBTVWPyD0_0000003 212.1 219.0 

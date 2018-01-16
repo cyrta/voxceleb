@@ -1,0 +1,14 @@
+POI: 			Matthew_Macfadyen 
+Youtube ID: 	Y1HPPaDIOiY 
+Video length: 	374.7 sec 
+Set (V): 		dev 
+ 
+Matthew_Macfadyen/Y1HPPaDIOiY_0000001 27.2 33.0 
+Matthew_Macfadyen/Y1HPPaDIOiY_0000002 70.4 86.0 
+Matthew_Macfadyen/Y1HPPaDIOiY_0000003 86.8 92.1 
+Matthew_Macfadyen/Y1HPPaDIOiY_0000004 233.9 237.9 
+Matthew_Macfadyen/Y1HPPaDIOiY_0000005 239.5 246.7 
+Matthew_Macfadyen/Y1HPPaDIOiY_0000006 260.6 267.9 
+Matthew_Macfadyen/Y1HPPaDIOiY_0000007 298.0 302.1 
+Matthew_Macfadyen/Y1HPPaDIOiY_0000008 336.8 342.0 
+Matthew_Macfadyen/Y1HPPaDIOiY_0000009 349.2 355.0 

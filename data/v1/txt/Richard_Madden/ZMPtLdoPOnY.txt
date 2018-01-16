@@ -1,0 +1,10 @@
+POI: 			Richard_Madden 
+Youtube ID: 	ZMPtLdoPOnY 
+Video length: 	97.8 sec 
+Set (V): 		dev 
+ 
+Richard_Madden/ZMPtLdoPOnY_0000001 39.1 44.2 
+Richard_Madden/ZMPtLdoPOnY_0000002 46.2 53.8 
+Richard_Madden/ZMPtLdoPOnY_0000003 61.9 72.2 
+Richard_Madden/ZMPtLdoPOnY_0000004 74.6 78.7 
+Richard_Madden/ZMPtLdoPOnY_0000005 82.2 88.3 

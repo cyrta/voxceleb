@@ -1,0 +1,11 @@
+POI: 			Kylie_Minogue 
+Youtube ID: 	TuaGHhexG9U 
+Video length: 	675.0 sec 
+Set (V): 		dev 
+ 
+Kylie_Minogue/TuaGHhexG9U_0000001 193.8 202.6 
+Kylie_Minogue/TuaGHhexG9U_0000002 263.3 268.6 
+Kylie_Minogue/TuaGHhexG9U_0000003 308.4 312.8 
+Kylie_Minogue/TuaGHhexG9U_0000004 405.3 416.0 
+Kylie_Minogue/TuaGHhexG9U_0000005 555.4 565.1 
+Kylie_Minogue/TuaGHhexG9U_0000006 636.6 641.5 

@@ -1,0 +1,9 @@
+POI: 			Sarah_Bolger 
+Youtube ID: 	tZvqWls_HEM 
+Video length: 	107.1 sec 
+Set (V): 		dev 
+ 
+Sarah_Bolger/tZvqWls_HEM_0000001 22.4 32.0 
+Sarah_Bolger/tZvqWls_HEM_0000002 51.3 56.8 
+Sarah_Bolger/tZvqWls_HEM_0000003 57.1 62.2 
+Sarah_Bolger/tZvqWls_HEM_0000004 65.3 73.8 

@@ -1,0 +1,11 @@
+POI: 			Jane_Badler 
+Youtube ID: 	u426EMdOKBg 
+Video length: 	191.7 sec 
+Set (V): 		dev 
+ 
+Jane_Badler/u426EMdOKBg_0000001 21.7 29.4 
+Jane_Badler/u426EMdOKBg_0000002 40.8 46.3 
+Jane_Badler/u426EMdOKBg_0000003 59.7 65.8 
+Jane_Badler/u426EMdOKBg_0000004 101.5 116.6 
+Jane_Badler/u426EMdOKBg_0000005 157.8 166.7 
+Jane_Badler/u426EMdOKBg_0000006 169.1 175.8 

@@ -1,0 +1,14 @@
+POI: 			John_Oliver 
+Youtube ID: 	08fn9p13-Zw 
+Video length: 	287.4 sec 
+Set (V): 		dev 
+ 
+John_Oliver/08fn9p13-Zw_0000001 17.8 28.6 
+John_Oliver/08fn9p13-Zw_0000002 42.0 47.4 
+John_Oliver/08fn9p13-Zw_0000003 86.6 92.6 
+John_Oliver/08fn9p13-Zw_0000004 112.3 118.8 
+John_Oliver/08fn9p13-Zw_0000005 127.0 135.4 
+John_Oliver/08fn9p13-Zw_0000006 158.4 168.2 
+John_Oliver/08fn9p13-Zw_0000007 198.8 204.6 
+John_Oliver/08fn9p13-Zw_0000008 218.9 230.7 
+John_Oliver/08fn9p13-Zw_0000009 232.2 239.1 

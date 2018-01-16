@@ -1,0 +1,13 @@
+POI: 			Maria_Canals-Barrera 
+Youtube ID: 	gT6RzG6jEIE 
+Video length: 	280.1 sec 
+Set (V): 		dev 
+ 
+Maria_Canals-Barrera/gT6RzG6jEIE_0000001 39.0 44.3 
+Maria_Canals-Barrera/gT6RzG6jEIE_0000002 44.5 49.6 
+Maria_Canals-Barrera/gT6RzG6jEIE_0000003 87.8 92.1 
+Maria_Canals-Barrera/gT6RzG6jEIE_0000004 182.6 189.9 
+Maria_Canals-Barrera/gT6RzG6jEIE_0000005 206.3 216.1 
+Maria_Canals-Barrera/gT6RzG6jEIE_0000006 216.9 220.8 
+Maria_Canals-Barrera/gT6RzG6jEIE_0000007 221.5 226.0 
+Maria_Canals-Barrera/gT6RzG6jEIE_0000008 227.2 231.4 

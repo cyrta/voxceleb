@@ -1,0 +1,12 @@
+POI: 			Kendra_Wilkinson 
+Youtube ID: 	8e8HcfV15Ro 
+Video length: 	127.0 sec 
+Set (V): 		dev 
+ 
+Kendra_Wilkinson/8e8HcfV15Ro_0000001 11.0 20.0 
+Kendra_Wilkinson/8e8HcfV15Ro_0000002 31.0 45.5 
+Kendra_Wilkinson/8e8HcfV15Ro_0000003 53.6 57.8 
+Kendra_Wilkinson/8e8HcfV15Ro_0000004 63.7 79.1 
+Kendra_Wilkinson/8e8HcfV15Ro_0000005 80.2 86.5 
+Kendra_Wilkinson/8e8HcfV15Ro_0000006 91.9 99.3 
+Kendra_Wilkinson/8e8HcfV15Ro_0000007 100.5 109.3 

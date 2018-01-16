@@ -1,0 +1,25 @@
+POI: 			Nancy_Cartwright 
+Youtube ID: 	3OorK7HJaSk 
+Video length: 	571.6 sec 
+Set (V): 		dev 
+ 
+Nancy_Cartwright/3OorK7HJaSk_0000001 15.8 20.0 
+Nancy_Cartwright/3OorK7HJaSk_0000002 23.6 43.7 
+Nancy_Cartwright/3OorK7HJaSk_0000003 154.0 162.7 
+Nancy_Cartwright/3OorK7HJaSk_0000004 163.5 175.2 
+Nancy_Cartwright/3OorK7HJaSk_0000005 183.1 187.8 
+Nancy_Cartwright/3OorK7HJaSk_0000006 215.3 222.2 
+Nancy_Cartwright/3OorK7HJaSk_0000007 222.7 234.6 
+Nancy_Cartwright/3OorK7HJaSk_0000008 281.4 287.2 
+Nancy_Cartwright/3OorK7HJaSk_0000009 323.2 327.4 
+Nancy_Cartwright/3OorK7HJaSk_0000010 345.0 350.1 
+Nancy_Cartwright/3OorK7HJaSk_0000011 358.1 367.0 
+Nancy_Cartwright/3OorK7HJaSk_0000012 388.7 405.2 
+Nancy_Cartwright/3OorK7HJaSk_0000013 422.5 430.4 
+Nancy_Cartwright/3OorK7HJaSk_0000014 441.5 455.3 
+Nancy_Cartwright/3OorK7HJaSk_0000015 461.3 466.4 
+Nancy_Cartwright/3OorK7HJaSk_0000016 466.8 473.2 
+Nancy_Cartwright/3OorK7HJaSk_0000017 474.4 480.0 
+Nancy_Cartwright/3OorK7HJaSk_0000018 497.6 505.8 
+Nancy_Cartwright/3OorK7HJaSk_0000019 509.8 527.0 
+Nancy_Cartwright/3OorK7HJaSk_0000020 535.3 540.4 

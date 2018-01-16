@@ -1,0 +1,11 @@
+POI: 			Matt_Lanter 
+Youtube ID: 	doq4kSRWCRI 
+Video length: 	164.8 sec 
+Set (V): 		dev 
+ 
+Matt_Lanter/doq4kSRWCRI_0000001 14.3 19.1 
+Matt_Lanter/doq4kSRWCRI_0000002 56.4 60.8 
+Matt_Lanter/doq4kSRWCRI_0000003 71.8 76.3 
+Matt_Lanter/doq4kSRWCRI_0000004 77.1 81.4 
+Matt_Lanter/doq4kSRWCRI_0000005 85.0 91.9 
+Matt_Lanter/doq4kSRWCRI_0000006 146.2 151.4 

@@ -1,0 +1,7 @@
+POI: 			Kathy_Griffin 
+Youtube ID: 	GAvmNQ4JRfM 
+Video length: 	355.3 sec 
+Set (V): 		dev 
+ 
+Kathy_Griffin/GAvmNQ4JRfM_0000001 119.8 124.3 
+Kathy_Griffin/GAvmNQ4JRfM_0000002 179.2 184.7 

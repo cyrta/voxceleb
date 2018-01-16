@@ -1,0 +1,9 @@
+POI: 			Don_Rickles 
+Youtube ID: 	cQWwBlrwaOw 
+Video length: 	658.2 sec 
+Set (V): 		dev 
+ 
+Don_Rickles/cQWwBlrwaOw_0000001 214.1 219.8 
+Don_Rickles/cQWwBlrwaOw_0000002 352.2 357.4 
+Don_Rickles/cQWwBlrwaOw_0000003 411.0 415.8 
+Don_Rickles/cQWwBlrwaOw_0000004 607.4 612.4 

@@ -1,0 +1,14 @@
+POI: 			Monica_Raymund 
+Youtube ID: 	5h5NmY820_M 
+Video length: 	197.3 sec 
+Set (V): 		dev 
+ 
+Monica_Raymund/5h5NmY820_M_0000001 01.9 18.1 
+Monica_Raymund/5h5NmY820_M_0000002 20.7 26.6 
+Monica_Raymund/5h5NmY820_M_0000003 27.1 31.2 
+Monica_Raymund/5h5NmY820_M_0000004 58.7 67.4 
+Monica_Raymund/5h5NmY820_M_0000005 68.0 73.2 
+Monica_Raymund/5h5NmY820_M_0000006 73.8 79.2 
+Monica_Raymund/5h5NmY820_M_0000007 85.8 98.3 
+Monica_Raymund/5h5NmY820_M_0000008 120.8 129.0 
+Monica_Raymund/5h5NmY820_M_0000009 129.8 137.8 

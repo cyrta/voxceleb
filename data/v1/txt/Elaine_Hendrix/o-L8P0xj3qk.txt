@@ -1,0 +1,8 @@
+POI: 			Elaine_Hendrix 
+Youtube ID: 	o-L8P0xj3qk 
+Video length: 	170.9 sec 
+Set (V): 		test 
+ 
+Elaine_Hendrix/o-L8P0xj3qk_0000001 77.5 85.6 
+Elaine_Hendrix/o-L8P0xj3qk_0000002 92.2 96.6 
+Elaine_Hendrix/o-L8P0xj3qk_0000003 152.4 156.5 

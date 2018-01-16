@@ -1,0 +1,12 @@
+POI: 			Sonja_Sohn 
+Youtube ID: 	1L5CPDDjVbI 
+Video length: 	224.7 sec 
+Set (V): 		dev 
+ 
+Sonja_Sohn/1L5CPDDjVbI_0000001 37.8 42.6 
+Sonja_Sohn/1L5CPDDjVbI_0000002 49.6 54.0 
+Sonja_Sohn/1L5CPDDjVbI_0000003 75.8 79.7 
+Sonja_Sohn/1L5CPDDjVbI_0000004 108.7 115.7 
+Sonja_Sohn/1L5CPDDjVbI_0000005 117.7 122.6 
+Sonja_Sohn/1L5CPDDjVbI_0000006 123.4 127.6 
+Sonja_Sohn/1L5CPDDjVbI_0000007 145.7 152.2 

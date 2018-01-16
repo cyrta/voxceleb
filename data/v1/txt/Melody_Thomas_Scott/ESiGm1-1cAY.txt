@@ -1,0 +1,8 @@
+POI: 			Melody_Thomas_Scott 
+Youtube ID: 	ESiGm1-1cAY 
+Video length: 	176.8 sec 
+Set (V): 		dev 
+ 
+Melody_Thomas_Scott/ESiGm1-1cAY_0000001 80.3 85.6 
+Melody_Thomas_Scott/ESiGm1-1cAY_0000002 148.6 154.6 
+Melody_Thomas_Scott/ESiGm1-1cAY_0000003 165.7 172.8 

@@ -1,0 +1,28 @@
+POI: 			Loretta_Swit 
+Youtube ID: 	aCsiXrxJ3H0 
+Video length: 	435.3 sec 
+Set (V): 		dev 
+ 
+Loretta_Swit/aCsiXrxJ3H0_0000001 07.3 12.3 
+Loretta_Swit/aCsiXrxJ3H0_0000002 20.3 34.1 
+Loretta_Swit/aCsiXrxJ3H0_0000003 51.3 56.0 
+Loretta_Swit/aCsiXrxJ3H0_0000004 75.2 87.0 
+Loretta_Swit/aCsiXrxJ3H0_0000005 121.2 126.4 
+Loretta_Swit/aCsiXrxJ3H0_0000006 142.6 146.9 
+Loretta_Swit/aCsiXrxJ3H0_0000007 164.8 174.7 
+Loretta_Swit/aCsiXrxJ3H0_0000008 178.3 182.5 
+Loretta_Swit/aCsiXrxJ3H0_0000009 187.0 191.4 
+Loretta_Swit/aCsiXrxJ3H0_0000010 203.1 211.2 
+Loretta_Swit/aCsiXrxJ3H0_0000011 213.0 217.7 
+Loretta_Swit/aCsiXrxJ3H0_0000012 220.7 225.3 
+Loretta_Swit/aCsiXrxJ3H0_0000013 228.0 232.9 
+Loretta_Swit/aCsiXrxJ3H0_0000014 234.3 238.8 
+Loretta_Swit/aCsiXrxJ3H0_0000015 239.3 245.4 
+Loretta_Swit/aCsiXrxJ3H0_0000016 259.9 265.8 
+Loretta_Swit/aCsiXrxJ3H0_0000017 269.0 274.8 
+Loretta_Swit/aCsiXrxJ3H0_0000018 280.9 285.1 
+Loretta_Swit/aCsiXrxJ3H0_0000019 351.2 356.8 
+Loretta_Swit/aCsiXrxJ3H0_0000020 377.2 382.7 
+Loretta_Swit/aCsiXrxJ3H0_0000021 384.5 388.8 
+Loretta_Swit/aCsiXrxJ3H0_0000022 391.9 399.6 
+Loretta_Swit/aCsiXrxJ3H0_0000023 415.8 420.6 

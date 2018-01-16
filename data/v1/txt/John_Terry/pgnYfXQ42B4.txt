@@ -1,0 +1,9 @@
+POI: 			John_Terry 
+Youtube ID: 	pgnYfXQ42B4 
+Video length: 	178.5 sec 
+Set (V): 		dev 
+ 
+John_Terry/pgnYfXQ42B4_0000001 94.7 110.7 
+John_Terry/pgnYfXQ42B4_0000002 119.8 127.5 
+John_Terry/pgnYfXQ42B4_0000003 128.8 133.5 
+John_Terry/pgnYfXQ42B4_0000004 134.2 138.6 

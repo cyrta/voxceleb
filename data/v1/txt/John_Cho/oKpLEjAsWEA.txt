@@ -1,0 +1,7 @@
+POI: 			John_Cho 
+Youtube ID: 	oKpLEjAsWEA 
+Video length: 	164.3 sec 
+Set (V): 		dev 
+ 
+John_Cho/oKpLEjAsWEA_0000001 25.7 29.8 
+John_Cho/oKpLEjAsWEA_0000002 32.8 36.8 

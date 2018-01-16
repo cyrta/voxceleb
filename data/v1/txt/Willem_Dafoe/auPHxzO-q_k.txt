@@ -1,0 +1,9 @@
+POI: 			Willem_Dafoe 
+Youtube ID: 	auPHxzO-q_k 
+Video length: 	62.4 sec 
+Set (V): 		dev 
+ 
+Willem_Dafoe/auPHxzO-q_k_0000001 01.2 05.4 
+Willem_Dafoe/auPHxzO-q_k_0000002 10.2 14.5 
+Willem_Dafoe/auPHxzO-q_k_0000003 17.0 22.0 
+Willem_Dafoe/auPHxzO-q_k_0000004 28.0 33.4 

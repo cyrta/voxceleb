@@ -1,0 +1,8 @@
+POI: 			Russell_Tovey 
+Youtube ID: 	Ffi4WT8O6nU 
+Video length: 	95.4 sec 
+Set (V): 		dev 
+ 
+Russell_Tovey/Ffi4WT8O6nU_0000001 07.8 12.2 
+Russell_Tovey/Ffi4WT8O6nU_0000002 50.8 55.4 
+Russell_Tovey/Ffi4WT8O6nU_0000003 79.2 86.6 

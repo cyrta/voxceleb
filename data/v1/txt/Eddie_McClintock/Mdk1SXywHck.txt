@@ -1,0 +1,29 @@
+POI: 			Eddie_McClintock 
+Youtube ID: 	Mdk1SXywHck 
+Video length: 	403.3 sec 
+Set (V): 		test 
+ 
+Eddie_McClintock/Mdk1SXywHck_0000001 04.0 18.4 
+Eddie_McClintock/Mdk1SXywHck_0000002 22.4 29.1 
+Eddie_McClintock/Mdk1SXywHck_0000003 30.0 40.3 
+Eddie_McClintock/Mdk1SXywHck_0000004 48.9 54.3 
+Eddie_McClintock/Mdk1SXywHck_0000005 55.9 69.2 
+Eddie_McClintock/Mdk1SXywHck_0000006 73.5 78.0 
+Eddie_McClintock/Mdk1SXywHck_0000007 89.0 94.8 
+Eddie_McClintock/Mdk1SXywHck_0000008 105.6 119.3 
+Eddie_McClintock/Mdk1SXywHck_0000009 130.9 140.9 
+Eddie_McClintock/Mdk1SXywHck_0000010 151.9 156.0 
+Eddie_McClintock/Mdk1SXywHck_0000011 168.2 174.4 
+Eddie_McClintock/Mdk1SXywHck_0000012 177.6 181.8 
+Eddie_McClintock/Mdk1SXywHck_0000013 182.8 190.6 
+Eddie_McClintock/Mdk1SXywHck_0000014 191.2 197.8 
+Eddie_McClintock/Mdk1SXywHck_0000015 233.4 241.3 
+Eddie_McClintock/Mdk1SXywHck_0000016 253.5 259.6 
+Eddie_McClintock/Mdk1SXywHck_0000017 265.4 270.0 
+Eddie_McClintock/Mdk1SXywHck_0000018 287.2 292.1 
+Eddie_McClintock/Mdk1SXywHck_0000019 310.0 319.7 
+Eddie_McClintock/Mdk1SXywHck_0000020 321.8 329.6 
+Eddie_McClintock/Mdk1SXywHck_0000021 339.6 351.5 
+Eddie_McClintock/Mdk1SXywHck_0000022 354.9 364.5 
+Eddie_McClintock/Mdk1SXywHck_0000023 365.2 380.1 
+Eddie_McClintock/Mdk1SXywHck_0000024 387.9 395.4 

@@ -1,0 +1,10 @@
+POI: 			Ginnifer_Goodwin 
+Youtube ID: 	M4BiiMo2Xqw 
+Video length: 	180.1 sec 
+Set (V): 		dev 
+ 
+Ginnifer_Goodwin/M4BiiMo2Xqw_0000001 10.0 25.2 
+Ginnifer_Goodwin/M4BiiMo2Xqw_0000002 28.4 34.4 
+Ginnifer_Goodwin/M4BiiMo2Xqw_0000003 35.0 43.6 
+Ginnifer_Goodwin/M4BiiMo2Xqw_0000004 151.8 162.2 
+Ginnifer_Goodwin/M4BiiMo2Xqw_0000005 168.4 178.2 

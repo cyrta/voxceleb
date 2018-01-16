@@ -1,0 +1,25 @@
+POI: 			Natalie_Portman 
+Youtube ID: 	WUdNhuEUjr0 
+Video length: 	590.9 sec 
+Set (V): 		dev 
+ 
+Natalie_Portman/WUdNhuEUjr0_0000001 05.6 10.2 
+Natalie_Portman/WUdNhuEUjr0_0000002 11.0 16.6 
+Natalie_Portman/WUdNhuEUjr0_0000003 18.8 25.2 
+Natalie_Portman/WUdNhuEUjr0_0000004 48.7 61.5 
+Natalie_Portman/WUdNhuEUjr0_0000005 162.5 171.8 
+Natalie_Portman/WUdNhuEUjr0_0000006 211.2 215.8 
+Natalie_Portman/WUdNhuEUjr0_0000007 219.7 227.9 
+Natalie_Portman/WUdNhuEUjr0_0000008 228.8 234.7 
+Natalie_Portman/WUdNhuEUjr0_0000009 245.4 276.6 
+Natalie_Portman/WUdNhuEUjr0_0000010 295.8 302.9 
+Natalie_Portman/WUdNhuEUjr0_0000011 311.4 318.6 
+Natalie_Portman/WUdNhuEUjr0_0000012 354.3 361.7 
+Natalie_Portman/WUdNhuEUjr0_0000013 377.8 382.1 
+Natalie_Portman/WUdNhuEUjr0_0000014 382.7 395.3 
+Natalie_Portman/WUdNhuEUjr0_0000015 414.5 433.5 
+Natalie_Portman/WUdNhuEUjr0_0000016 435.1 441.1 
+Natalie_Portman/WUdNhuEUjr0_0000017 442.5 459.6 
+Natalie_Portman/WUdNhuEUjr0_0000018 485.2 500.8 
+Natalie_Portman/WUdNhuEUjr0_0000019 535.2 540.0 
+Natalie_Portman/WUdNhuEUjr0_0000020 557.2 563.0 

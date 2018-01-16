@@ -1,0 +1,11 @@
+POI: 			Rob_Riggle 
+Youtube ID: 	_M-AnFs7E_4 
+Video length: 	593.4 sec 
+Set (V): 		dev 
+ 
+Rob_Riggle/_M-AnFs7E_4_0000001 208.6 212.7 
+Rob_Riggle/_M-AnFs7E_4_0000002 267.6 276.5 
+Rob_Riggle/_M-AnFs7E_4_0000003 297.5 302.6 
+Rob_Riggle/_M-AnFs7E_4_0000004 315.2 320.6 
+Rob_Riggle/_M-AnFs7E_4_0000005 473.4 477.8 
+Rob_Riggle/_M-AnFs7E_4_0000006 491.2 495.5 

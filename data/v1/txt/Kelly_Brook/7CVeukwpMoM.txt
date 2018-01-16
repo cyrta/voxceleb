@@ -1,0 +1,12 @@
+POI: 			Kelly_Brook 
+Youtube ID: 	7CVeukwpMoM 
+Video length: 	546.9 sec 
+Set (V): 		dev 
+ 
+Kelly_Brook/7CVeukwpMoM_0000001 60.2 66.0 
+Kelly_Brook/7CVeukwpMoM_0000002 137.7 147.3 
+Kelly_Brook/7CVeukwpMoM_0000003 153.4 164.0 
+Kelly_Brook/7CVeukwpMoM_0000004 242.4 253.4 
+Kelly_Brook/7CVeukwpMoM_0000005 406.6 424.0 
+Kelly_Brook/7CVeukwpMoM_0000006 441.4 446.0 
+Kelly_Brook/7CVeukwpMoM_0000007 446.7 452.0 

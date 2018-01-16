@@ -1,0 +1,9 @@
+POI: 			Diane_Keaton 
+Youtube ID: 	mtuUlAVgt1k 
+Video length: 	227.7 sec 
+Set (V): 		dev 
+ 
+Diane_Keaton/mtuUlAVgt1k_0000001 30.0 36.2 
+Diane_Keaton/mtuUlAVgt1k_0000002 39.9 45.4 
+Diane_Keaton/mtuUlAVgt1k_0000003 66.1 74.9 
+Diane_Keaton/mtuUlAVgt1k_0000004 75.3 81.3 

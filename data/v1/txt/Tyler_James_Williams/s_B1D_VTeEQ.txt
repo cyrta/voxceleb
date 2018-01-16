@@ -1,0 +1,15 @@
+POI: 			Tyler_James_Williams 
+Youtube ID: 	s_B1D_VTeEQ 
+Video length: 	680.3 sec 
+Set (V): 		dev 
+ 
+Tyler_James_Williams/s_B1D_VTeEQ_0000001 95.3 99.7 
+Tyler_James_Williams/s_B1D_VTeEQ_0000002 118.6 122.6 
+Tyler_James_Williams/s_B1D_VTeEQ_0000003 134.6 140.3 
+Tyler_James_Williams/s_B1D_VTeEQ_0000004 140.7 151.2 
+Tyler_James_Williams/s_B1D_VTeEQ_0000005 289.8 297.5 
+Tyler_James_Williams/s_B1D_VTeEQ_0000006 321.4 332.0 
+Tyler_James_Williams/s_B1D_VTeEQ_0000007 547.2 552.9 
+Tyler_James_Williams/s_B1D_VTeEQ_0000008 560.8 578.9 
+Tyler_James_Williams/s_B1D_VTeEQ_0000009 581.6 615.0 
+Tyler_James_Williams/s_B1D_VTeEQ_0000010 610.9 615.0 

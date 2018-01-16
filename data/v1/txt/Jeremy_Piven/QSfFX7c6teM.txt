@@ -1,0 +1,19 @@
+POI: 			Jeremy_Piven 
+Youtube ID: 	QSfFX7c6teM 
+Video length: 	216.1 sec 
+Set (V): 		dev 
+ 
+Jeremy_Piven/QSfFX7c6teM_0000001 09.4 17.0 
+Jeremy_Piven/QSfFX7c6teM_0000002 18.9 36.1 
+Jeremy_Piven/QSfFX7c6teM_0000003 42.7 53.4 
+Jeremy_Piven/QSfFX7c6teM_0000004 53.7 60.0 
+Jeremy_Piven/QSfFX7c6teM_0000005 60.7 69.6 
+Jeremy_Piven/QSfFX7c6teM_0000006 69.9 75.7 
+Jeremy_Piven/QSfFX7c6teM_0000007 95.8 102.8 
+Jeremy_Piven/QSfFX7c6teM_0000008 116.6 123.3 
+Jeremy_Piven/QSfFX7c6teM_0000009 132.8 145.1 
+Jeremy_Piven/QSfFX7c6teM_0000010 158.5 165.2 
+Jeremy_Piven/QSfFX7c6teM_0000011 166.1 171.9 
+Jeremy_Piven/QSfFX7c6teM_0000012 173.2 182.2 
+Jeremy_Piven/QSfFX7c6teM_0000013 182.4 187.1 
+Jeremy_Piven/QSfFX7c6teM_0000014 205.5 209.8 

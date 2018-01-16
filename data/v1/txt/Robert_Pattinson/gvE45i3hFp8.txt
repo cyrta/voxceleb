@@ -1,0 +1,8 @@
+POI: 			Robert_Pattinson 
+Youtube ID: 	gvE45i3hFp8 
+Video length: 	606.5 sec 
+Set (V): 		dev 
+ 
+Robert_Pattinson/gvE45i3hFp8_0000001 568.5 574.0 
+Robert_Pattinson/gvE45i3hFp8_0000002 578.2 583.4 
+Robert_Pattinson/gvE45i3hFp8_0000003 584.4 591.4 

@@ -1,0 +1,8 @@
+POI: 			Nathan_Fillion 
+Youtube ID: 	H7vDoqzaka4 
+Video length: 	79.9 sec 
+Set (V): 		dev 
+ 
+Nathan_Fillion/H7vDoqzaka4_0000001 09.0 27.7 
+Nathan_Fillion/H7vDoqzaka4_0000002 36.0 40.4 
+Nathan_Fillion/H7vDoqzaka4_0000003 42.4 52.4 

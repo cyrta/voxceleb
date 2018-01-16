@@ -1,0 +1,7 @@
+POI: 			Jet_Li 
+Youtube ID: 	lEz7GaIlSy8 
+Video length: 	574.8 sec 
+Set (V): 		dev 
+ 
+Jet_Li/lEz7GaIlSy8_0000001 57.8 62.0 
+Jet_Li/lEz7GaIlSy8_0000002 410.8 415.3 

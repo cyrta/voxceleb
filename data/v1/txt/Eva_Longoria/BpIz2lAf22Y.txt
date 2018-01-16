@@ -1,0 +1,7 @@
+POI: 			Eva_Longoria 
+Youtube ID: 	BpIz2lAf22Y 
+Video length: 	71.1 sec 
+Set (V): 		test 
+ 
+Eva_Longoria/BpIz2lAf22Y_0000001 14.0 23.7 
+Eva_Longoria/BpIz2lAf22Y_0000002 28.0 33.4 

@@ -1,0 +1,8 @@
+POI: 			Kyle_Richards 
+Youtube ID: 	yAikMwl870Q 
+Video length: 	93.5 sec 
+Set (V): 		dev 
+ 
+Kyle_Richards/yAikMwl870Q_0000001 15.6 21.4 
+Kyle_Richards/yAikMwl870Q_0000002 22.0 27.4 
+Kyle_Richards/yAikMwl870Q_0000003 33.5 40.9 

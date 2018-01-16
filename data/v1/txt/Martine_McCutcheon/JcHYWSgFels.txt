@@ -1,0 +1,10 @@
+POI: 			Martine_McCutcheon 
+Youtube ID: 	JcHYWSgFels 
+Video length: 	425.1 sec 
+Set (V): 		dev 
+ 
+Martine_McCutcheon/JcHYWSgFels_0000001 55.2 59.6 
+Martine_McCutcheon/JcHYWSgFels_0000002 63.4 67.5 
+Martine_McCutcheon/JcHYWSgFels_0000003 209.9 215.9 
+Martine_McCutcheon/JcHYWSgFels_0000004 288.4 310.9 
+Martine_McCutcheon/JcHYWSgFels_0000005 394.4 399.1 

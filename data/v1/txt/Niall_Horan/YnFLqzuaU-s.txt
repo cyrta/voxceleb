@@ -1,0 +1,8 @@
+POI: 			Niall_Horan 
+Youtube ID: 	YnFLqzuaU-s 
+Video length: 	109.5 sec 
+Set (V): 		dev 
+ 
+Niall_Horan/YnFLqzuaU-s_0000001 17.4 21.9 
+Niall_Horan/YnFLqzuaU-s_0000002 32.1 36.1 
+Niall_Horan/YnFLqzuaU-s_0000003 69.1 76.8 

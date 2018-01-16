@@ -1,0 +1,8 @@
+POI: 			Michael_Bay 
+Youtube ID: 	GX4UxV1wsKA 
+Video length: 	144.2 sec 
+Set (V): 		dev 
+ 
+Michael_Bay/GX4UxV1wsKA_0000001 39.2 45.9 
+Michael_Bay/GX4UxV1wsKA_0000002 56.8 61.6 
+Michael_Bay/GX4UxV1wsKA_0000003 68.3 76.0 

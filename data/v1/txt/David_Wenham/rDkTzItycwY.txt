@@ -1,0 +1,15 @@
+POI: 			David_Wenham 
+Youtube ID: 	rDkTzItycwY 
+Video length: 	169.0 sec 
+Set (V): 		dev 
+ 
+David_Wenham/rDkTzItycwY_0000001 06.4 10.5 
+David_Wenham/rDkTzItycwY_0000002 11.8 25.4 
+David_Wenham/rDkTzItycwY_0000003 35.5 40.2 
+David_Wenham/rDkTzItycwY_0000004 41.2 45.7 
+David_Wenham/rDkTzItycwY_0000005 54.9 58.9 
+David_Wenham/rDkTzItycwY_0000006 70.8 85.7 
+David_Wenham/rDkTzItycwY_0000007 86.8 93.0 
+David_Wenham/rDkTzItycwY_0000008 109.6 119.2 
+David_Wenham/rDkTzItycwY_0000009 124.1 129.1 
+David_Wenham/rDkTzItycwY_0000010 157.2 165.6 

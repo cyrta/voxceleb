@@ -1,0 +1,9 @@
+POI: 			David_Tennant 
+Youtube ID: 	GKmschnepXg 
+Video length: 	532.3 sec 
+Set (V): 		dev 
+ 
+David_Tennant/GKmschnepXg_0000001 73.2 82.4 
+David_Tennant/GKmschnepXg_0000002 90.3 96.7 
+David_Tennant/GKmschnepXg_0000003 140.8 145.0 
+David_Tennant/GKmschnepXg_0000004 244.2 250.6 

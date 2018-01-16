@@ -1,0 +1,13 @@
+POI: 			Sharlto_Copley 
+Youtube ID: 	lWdjTJn6fs4 
+Video length: 	187.2 sec 
+Set (V): 		dev 
+ 
+Sharlto_Copley/lWdjTJn6fs4_0000001 10.0 17.0 
+Sharlto_Copley/lWdjTJn6fs4_0000002 19.1 23.7 
+Sharlto_Copley/lWdjTJn6fs4_0000003 34.7 44.6 
+Sharlto_Copley/lWdjTJn6fs4_0000004 54.8 59.0 
+Sharlto_Copley/lWdjTJn6fs4_0000005 74.0 84.1 
+Sharlto_Copley/lWdjTJn6fs4_0000006 97.0 117.1 
+Sharlto_Copley/lWdjTJn6fs4_0000007 156.2 161.0 
+Sharlto_Copley/lWdjTJn6fs4_0000008 161.7 166.7 

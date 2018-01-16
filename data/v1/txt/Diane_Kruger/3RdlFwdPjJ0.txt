@@ -1,0 +1,12 @@
+POI: 			Diane_Kruger 
+Youtube ID: 	3RdlFwdPjJ0 
+Video length: 	329.3 sec 
+Set (V): 		dev 
+ 
+Diane_Kruger/3RdlFwdPjJ0_0000001 05.1 10.2 
+Diane_Kruger/3RdlFwdPjJ0_0000002 61.5 67.0 
+Diane_Kruger/3RdlFwdPjJ0_0000003 88.8 94.0 
+Diane_Kruger/3RdlFwdPjJ0_0000004 179.3 184.4 
+Diane_Kruger/3RdlFwdPjJ0_0000005 255.1 260.1 
+Diane_Kruger/3RdlFwdPjJ0_0000006 298.2 303.8 
+Diane_Kruger/3RdlFwdPjJ0_0000007 320.5 326.0 

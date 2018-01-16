@@ -1,0 +1,24 @@
+POI: 			Ryan_Potter 
+Youtube ID: 	2-oTcAnX35w 
+Video length: 	1707.3 sec 
+Set (V): 		dev 
+ 
+Ryan_Potter/2-oTcAnX35w_0000001 185.0 190.7 
+Ryan_Potter/2-oTcAnX35w_0000002 438.1 442.7 
+Ryan_Potter/2-oTcAnX35w_0000003 487.5 492.0 
+Ryan_Potter/2-oTcAnX35w_0000004 737.2 743.2 
+Ryan_Potter/2-oTcAnX35w_0000005 795.1 801.4 
+Ryan_Potter/2-oTcAnX35w_0000006 1035.9 1041.0 
+Ryan_Potter/2-oTcAnX35w_0000007 1186.8 1190.9 
+Ryan_Potter/2-oTcAnX35w_0000008 1331.7 1338.2 
+Ryan_Potter/2-oTcAnX35w_0000009 1343.5 1347.8 
+Ryan_Potter/2-oTcAnX35w_0000010 1369.6 1378.4 
+Ryan_Potter/2-oTcAnX35w_0000011 1392.0 1399.0 
+Ryan_Potter/2-oTcAnX35w_0000012 1405.9 1410.9 
+Ryan_Potter/2-oTcAnX35w_0000013 1428.4 1433.9 
+Ryan_Potter/2-oTcAnX35w_0000014 1529.5 1541.7 
+Ryan_Potter/2-oTcAnX35w_0000015 1577.7 1583.3 
+Ryan_Potter/2-oTcAnX35w_0000016 1601.4 1607.4 
+Ryan_Potter/2-oTcAnX35w_0000017 1637.2 1642.4 
+Ryan_Potter/2-oTcAnX35w_0000018 1667.4 1671.8 
+Ryan_Potter/2-oTcAnX35w_0000019 1678.9 1683.2 

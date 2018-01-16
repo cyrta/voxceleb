@@ -1,0 +1,7 @@
+POI: 			John_Krasinski 
+Youtube ID: 	5B_hr45FtZY 
+Video length: 	79.4 sec 
+Set (V): 		dev 
+ 
+John_Krasinski/5B_hr45FtZY_0000001 20.2 24.2 
+John_Krasinski/5B_hr45FtZY_0000002 24.3 32.6 

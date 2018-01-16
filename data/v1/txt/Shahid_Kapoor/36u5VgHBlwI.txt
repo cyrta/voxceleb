@@ -1,0 +1,18 @@
+POI: 			Shahid_Kapoor 
+Youtube ID: 	36u5VgHBlwI 
+Video length: 	391.7 sec 
+Set (V): 		dev 
+ 
+Shahid_Kapoor/36u5VgHBlwI_0000001 71.1 80.2 
+Shahid_Kapoor/36u5VgHBlwI_0000002 105.4 114.1 
+Shahid_Kapoor/36u5VgHBlwI_0000003 147.8 152.0 
+Shahid_Kapoor/36u5VgHBlwI_0000004 182.0 186.9 
+Shahid_Kapoor/36u5VgHBlwI_0000005 207.9 214.3 
+Shahid_Kapoor/36u5VgHBlwI_0000006 227.7 235.3 
+Shahid_Kapoor/36u5VgHBlwI_0000007 249.5 256.3 
+Shahid_Kapoor/36u5VgHBlwI_0000008 273.6 283.0 
+Shahid_Kapoor/36u5VgHBlwI_0000009 286.1 292.9 
+Shahid_Kapoor/36u5VgHBlwI_0000010 314.9 320.4 
+Shahid_Kapoor/36u5VgHBlwI_0000011 324.6 334.8 
+Shahid_Kapoor/36u5VgHBlwI_0000012 338.6 343.4 
+Shahid_Kapoor/36u5VgHBlwI_0000013 376.4 380.8 

@@ -1,0 +1,8 @@
+POI: 			Marion_Cotillard 
+Youtube ID: 	Gx7cKF9Nqco 
+Video length: 	253.3 sec 
+Set (V): 		dev 
+ 
+Marion_Cotillard/Gx7cKF9Nqco_0000001 85.7 90.0 
+Marion_Cotillard/Gx7cKF9Nqco_0000002 142.4 147.7 
+Marion_Cotillard/Gx7cKF9Nqco_0000003 188.4 200.1 

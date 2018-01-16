@@ -1,0 +1,8 @@
+POI: 			Jeremy_Sisto 
+Youtube ID: 	OkV1X28zyWo 
+Video length: 	217.2 sec 
+Set (V): 		dev 
+ 
+Jeremy_Sisto/OkV1X28zyWo_0000001 105.2 110.2 
+Jeremy_Sisto/OkV1X28zyWo_0000002 114.4 120.6 
+Jeremy_Sisto/OkV1X28zyWo_0000003 204.2 209.4 

@@ -1,0 +1,20 @@
+POI: 			Joss_Whedon 
+Youtube ID: 	aS3nFVNKAlQ 
+Video length: 	360.8 sec 
+Set (V): 		dev 
+ 
+Joss_Whedon/aS3nFVNKAlQ_0000001 04.3 08.6 
+Joss_Whedon/aS3nFVNKAlQ_0000002 89.7 96.4 
+Joss_Whedon/aS3nFVNKAlQ_0000003 101.2 107.0 
+Joss_Whedon/aS3nFVNKAlQ_0000004 113.9 119.7 
+Joss_Whedon/aS3nFVNKAlQ_0000005 153.4 160.1 
+Joss_Whedon/aS3nFVNKAlQ_0000006 162.9 167.2 
+Joss_Whedon/aS3nFVNKAlQ_0000007 222.6 231.6 
+Joss_Whedon/aS3nFVNKAlQ_0000008 231.8 239.9 
+Joss_Whedon/aS3nFVNKAlQ_0000009 240.9 247.0 
+Joss_Whedon/aS3nFVNKAlQ_0000010 268.3 273.0 
+Joss_Whedon/aS3nFVNKAlQ_0000011 278.5 283.6 
+Joss_Whedon/aS3nFVNKAlQ_0000012 289.8 296.0 
+Joss_Whedon/aS3nFVNKAlQ_0000013 296.2 306.9 
+Joss_Whedon/aS3nFVNKAlQ_0000014 322.3 326.7 
+Joss_Whedon/aS3nFVNKAlQ_0000015 330.8 337.4 

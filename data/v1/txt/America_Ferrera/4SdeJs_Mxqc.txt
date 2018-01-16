@@ -1,0 +1,13 @@
+POI: 			America_Ferrera 
+Youtube ID: 	4SdeJs_Mxqc 
+Video length: 	276.9 sec 
+Set (V): 		dev 
+ 
+America_Ferrera/4SdeJs_Mxqc_0000001 20.9 26.7 
+America_Ferrera/4SdeJs_Mxqc_0000002 68.7 72.8 
+America_Ferrera/4SdeJs_Mxqc_0000003 101.6 106.5 
+America_Ferrera/4SdeJs_Mxqc_0000004 147.2 152.8 
+America_Ferrera/4SdeJs_Mxqc_0000005 157.6 164.6 
+America_Ferrera/4SdeJs_Mxqc_0000006 164.7 169.4 
+America_Ferrera/4SdeJs_Mxqc_0000007 204.1 224.4 
+America_Ferrera/4SdeJs_Mxqc_0000008 246.3 253.0 

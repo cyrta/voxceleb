@@ -1,0 +1,10 @@
+POI: 			Rowan_Atkinson 
+Youtube ID: 	qw_huqaBkoc 
+Video length: 	183.7 sec 
+Set (V): 		dev 
+ 
+Rowan_Atkinson/qw_huqaBkoc_0000001 20.6 27.0 
+Rowan_Atkinson/qw_huqaBkoc_0000002 37.6 43.3 
+Rowan_Atkinson/qw_huqaBkoc_0000003 78.7 82.8 
+Rowan_Atkinson/qw_huqaBkoc_0000004 91.6 99.4 
+Rowan_Atkinson/qw_huqaBkoc_0000005 128.9 133.2 

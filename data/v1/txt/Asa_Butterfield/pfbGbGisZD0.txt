@@ -1,0 +1,16 @@
+POI: 			Asa_Butterfield 
+Youtube ID: 	pfbGbGisZD0 
+Video length: 	196.4 sec 
+Set (V): 		dev 
+ 
+Asa_Butterfield/pfbGbGisZD0_0000001 45.6 49.7 
+Asa_Butterfield/pfbGbGisZD0_0000002 50.4 57.7 
+Asa_Butterfield/pfbGbGisZD0_0000003 78.1 84.8 
+Asa_Butterfield/pfbGbGisZD0_0000004 101.0 106.1 
+Asa_Butterfield/pfbGbGisZD0_0000005 120.0 127.9 
+Asa_Butterfield/pfbGbGisZD0_0000006 129.2 133.2 
+Asa_Butterfield/pfbGbGisZD0_0000007 146.9 151.9 
+Asa_Butterfield/pfbGbGisZD0_0000008 152.3 162.4 
+Asa_Butterfield/pfbGbGisZD0_0000009 167.5 171.9 
+Asa_Butterfield/pfbGbGisZD0_0000010 172.9 184.2 
+Asa_Butterfield/pfbGbGisZD0_0000011 184.8 190.2 

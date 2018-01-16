@@ -1,0 +1,20 @@
+POI: 			Eoin_Macken 
+Youtube ID: 	rZQMeH1FCvM 
+Video length: 	456.2 sec 
+Set (V): 		test 
+ 
+Eoin_Macken/rZQMeH1FCvM_0000001 92.5 96.6 
+Eoin_Macken/rZQMeH1FCvM_0000002 112.7 121.7 
+Eoin_Macken/rZQMeH1FCvM_0000003 122.6 130.5 
+Eoin_Macken/rZQMeH1FCvM_0000004 149.9 164.0 
+Eoin_Macken/rZQMeH1FCvM_0000005 164.2 170.3 
+Eoin_Macken/rZQMeH1FCvM_0000006 182.8 187.8 
+Eoin_Macken/rZQMeH1FCvM_0000007 197.6 202.9 
+Eoin_Macken/rZQMeH1FCvM_0000008 214.8 218.8 
+Eoin_Macken/rZQMeH1FCvM_0000009 301.0 309.6 
+Eoin_Macken/rZQMeH1FCvM_0000010 323.2 327.2 
+Eoin_Macken/rZQMeH1FCvM_0000011 331.6 337.2 
+Eoin_Macken/rZQMeH1FCvM_0000012 345.0 354.9 
+Eoin_Macken/rZQMeH1FCvM_0000013 355.4 360.4 
+Eoin_Macken/rZQMeH1FCvM_0000014 362.0 374.1 
+Eoin_Macken/rZQMeH1FCvM_0000015 405.1 409.8 

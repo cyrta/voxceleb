@@ -1,0 +1,18 @@
+POI: 			Thomas_Haden_Church 
+Youtube ID: 	Lo85M34sDQM 
+Video length: 	228.6 sec 
+Set (V): 		dev 
+ 
+Thomas_Haden_Church/Lo85M34sDQM_0000001 10.2 16.5 
+Thomas_Haden_Church/Lo85M34sDQM_0000002 22.9 27.6 
+Thomas_Haden_Church/Lo85M34sDQM_0000003 37.6 44.3 
+Thomas_Haden_Church/Lo85M34sDQM_0000004 48.6 54.2 
+Thomas_Haden_Church/Lo85M34sDQM_0000005 34.6 48.5 
+Thomas_Haden_Church/Lo85M34sDQM_0000006 48.8 56.4 
+Thomas_Haden_Church/Lo85M34sDQM_0000007 71.4 76.4 
+Thomas_Haden_Church/Lo85M34sDQM_0000008 80.4 87.2 
+Thomas_Haden_Church/Lo85M34sDQM_0000009 175.4 179.9 
+Thomas_Haden_Church/Lo85M34sDQM_0000010 182.5 186.6 
+Thomas_Haden_Church/Lo85M34sDQM_0000011 187.5 191.5 
+Thomas_Haden_Church/Lo85M34sDQM_0000012 199.1 207.3 
+Thomas_Haden_Church/Lo85M34sDQM_0000013 211.7 220.5 

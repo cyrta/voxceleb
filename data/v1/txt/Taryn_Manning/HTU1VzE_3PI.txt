@@ -1,0 +1,15 @@
+POI: 			Taryn_Manning 
+Youtube ID: 	HTU1VzE_3PI 
+Video length: 	428.3 sec 
+Set (V): 		dev 
+ 
+Taryn_Manning/HTU1VzE_3PI_0000001 67.9 71.9 
+Taryn_Manning/HTU1VzE_3PI_0000002 72.4 77.3 
+Taryn_Manning/HTU1VzE_3PI_0000003 79.4 85.2 
+Taryn_Manning/HTU1VzE_3PI_0000004 147.8 153.7 
+Taryn_Manning/HTU1VzE_3PI_0000005 154.6 160.4 
+Taryn_Manning/HTU1VzE_3PI_0000006 190.4 198.7 
+Taryn_Manning/HTU1VzE_3PI_0000007 207.8 228.9 
+Taryn_Manning/HTU1VzE_3PI_0000008 256.3 262.0 
+Taryn_Manning/HTU1VzE_3PI_0000009 312.4 319.4 
+Taryn_Manning/HTU1VzE_3PI_0000010 323.5 329.3 

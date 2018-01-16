@@ -1,0 +1,10 @@
+POI: 			John_Turturro 
+Youtube ID: 	pXcmHhHdzSA 
+Video length: 	209.3 sec 
+Set (V): 		dev 
+ 
+John_Turturro/pXcmHhHdzSA_0000001 11.5 18.2 
+John_Turturro/pXcmHhHdzSA_0000002 22.2 31.4 
+John_Turturro/pXcmHhHdzSA_0000003 56.2 63.6 
+John_Turturro/pXcmHhHdzSA_0000004 74.5 78.5 
+John_Turturro/pXcmHhHdzSA_0000005 80.2 87.9 

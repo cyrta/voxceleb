@@ -1,0 +1,13 @@
+POI: 			Gordon_Ramsay 
+Youtube ID: 	xaHgJd-W-3E 
+Video length: 	624.9 sec 
+Set (V): 		dev 
+ 
+Gordon_Ramsay/xaHgJd-W-3E_0000001 152.2 156.3 
+Gordon_Ramsay/xaHgJd-W-3E_0000002 212.6 216.6 
+Gordon_Ramsay/xaHgJd-W-3E_0000003 282.0 288.0 
+Gordon_Ramsay/xaHgJd-W-3E_0000004 307.8 313.1 
+Gordon_Ramsay/xaHgJd-W-3E_0000005 382.9 393.8 
+Gordon_Ramsay/xaHgJd-W-3E_0000006 421.6 425.6 
+Gordon_Ramsay/xaHgJd-W-3E_0000007 450.2 457.8 
+Gordon_Ramsay/xaHgJd-W-3E_0000008 527.7 534.2 

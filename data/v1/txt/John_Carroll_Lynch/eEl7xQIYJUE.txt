@@ -1,0 +1,9 @@
+POI: 			John_Carroll_Lynch 
+Youtube ID: 	eEl7xQIYJUE 
+Video length: 	164.4 sec 
+Set (V): 		dev 
+ 
+John_Carroll_Lynch/eEl7xQIYJUE_0000001 32.3 38.6 
+John_Carroll_Lynch/eEl7xQIYJUE_0000002 39.0 47.4 
+John_Carroll_Lynch/eEl7xQIYJUE_0000003 97.9 104.4 
+John_Carroll_Lynch/eEl7xQIYJUE_0000004 105.5 110.4 

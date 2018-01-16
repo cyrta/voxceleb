@@ -1,0 +1,9 @@
+POI: 			Kelly_Macdonald 
+Youtube ID: 	utU_KyCUSVM 
+Video length: 	466.5 sec 
+Set (V): 		dev 
+ 
+Kelly_Macdonald/utU_KyCUSVM_0000001 134.4 138.5 
+Kelly_Macdonald/utU_KyCUSVM_0000002 204.5 210.2 
+Kelly_Macdonald/utU_KyCUSVM_0000003 276.1 280.8 
+Kelly_Macdonald/utU_KyCUSVM_0000004 307.9 312.9 

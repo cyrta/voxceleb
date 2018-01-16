@@ -1,0 +1,12 @@
+POI: 			Iwan_Rheon 
+Youtube ID: 	u9hixno49Q4 
+Video length: 	190.2 sec 
+Set (V): 		dev 
+ 
+Iwan_Rheon/u9hixno49Q4_0000001 19.6 23.8 
+Iwan_Rheon/u9hixno49Q4_0000002 49.9 54.9 
+Iwan_Rheon/u9hixno49Q4_0000003 55.4 62.3 
+Iwan_Rheon/u9hixno49Q4_0000004 85.9 90.9 
+Iwan_Rheon/u9hixno49Q4_0000005 97.1 104.7 
+Iwan_Rheon/u9hixno49Q4_0000006 142.0 147.7 
+Iwan_Rheon/u9hixno49Q4_0000007 179.7 184.8 

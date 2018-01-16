@@ -1,0 +1,12 @@
+POI: 			Ruta_Lee 
+Youtube ID: 	qEt_AQMPq2Q 
+Video length: 	664.4 sec 
+Set (V): 		dev 
+ 
+Ruta_Lee/qEt_AQMPq2Q_0000001 92.0 97.8 
+Ruta_Lee/qEt_AQMPq2Q_0000002 150.7 160.8 
+Ruta_Lee/qEt_AQMPq2Q_0000003 362.8 368.2 
+Ruta_Lee/qEt_AQMPq2Q_0000004 522.6 530.0 
+Ruta_Lee/qEt_AQMPq2Q_0000005 537.6 547.2 
+Ruta_Lee/qEt_AQMPq2Q_0000006 559.6 571.8 
+Ruta_Lee/qEt_AQMPq2Q_0000007 593.4 600.1 

@@ -1,0 +1,10 @@
+POI: 			Melissa_Peterman 
+Youtube ID: 	3haMzIAETvo 
+Video length: 	396.3 sec 
+Set (V): 		dev 
+ 
+Melissa_Peterman/3haMzIAETvo_0000001 46.4 50.5 
+Melissa_Peterman/3haMzIAETvo_0000002 110.2 115.3 
+Melissa_Peterman/3haMzIAETvo_0000003 127.9 134.3 
+Melissa_Peterman/3haMzIAETvo_0000004 169.2 180.4 
+Melissa_Peterman/3haMzIAETvo_0000005 194.3 205.6 

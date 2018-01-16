@@ -1,0 +1,15 @@
+POI: 			James_Lipton 
+Youtube ID: 	YfyCa1jY89E 
+Video length: 	1717.5 sec 
+Set (V): 		dev 
+ 
+James_Lipton/YfyCa1jY89E_0000001 254.2 258.7 
+James_Lipton/YfyCa1jY89E_0000002 391.8 397.8 
+James_Lipton/YfyCa1jY89E_0000003 422.8 428.3 
+James_Lipton/YfyCa1jY89E_0000004 430.0 434.6 
+James_Lipton/YfyCa1jY89E_0000005 439.8 447.5 
+James_Lipton/YfyCa1jY89E_0000006 497.8 505.3 
+James_Lipton/YfyCa1jY89E_0000007 719.8 724.8 
+James_Lipton/YfyCa1jY89E_0000008 733.4 738.8 
+James_Lipton/YfyCa1jY89E_0000009 922.5 927.0 
+James_Lipton/YfyCa1jY89E_0000010 992.5 1001.0 

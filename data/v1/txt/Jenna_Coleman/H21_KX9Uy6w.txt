@@ -1,0 +1,12 @@
+POI: 			Jenna_Coleman 
+Youtube ID: 	H21_KX9Uy6w 
+Video length: 	302.7 sec 
+Set (V): 		dev 
+ 
+Jenna_Coleman/H21_KX9Uy6w_0000001 27.3 31.9 
+Jenna_Coleman/H21_KX9Uy6w_0000002 44.4 51.3 
+Jenna_Coleman/H21_KX9Uy6w_0000003 56.5 60.5 
+Jenna_Coleman/H21_KX9Uy6w_0000004 47.5 51.7 
+Jenna_Coleman/H21_KX9Uy6w_0000005 166.8 171.0 
+Jenna_Coleman/H21_KX9Uy6w_0000006 190.6 196.1 
+Jenna_Coleman/H21_KX9Uy6w_0000007 224.6 237.3 

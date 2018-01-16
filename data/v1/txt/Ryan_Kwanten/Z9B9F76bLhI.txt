@@ -1,0 +1,7 @@
+POI: 			Ryan_Kwanten 
+Youtube ID: 	Z9B9F76bLhI 
+Video length: 	185.6 sec 
+Set (V): 		dev 
+ 
+Ryan_Kwanten/Z9B9F76bLhI_0000001 65.3 75.7 
+Ryan_Kwanten/Z9B9F76bLhI_0000002 99.2 104.0 

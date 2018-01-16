@@ -1,0 +1,9 @@
+POI: 			Florence_Henderson 
+Youtube ID: 	343cJK8TIF8 
+Video length: 	117.5 sec 
+Set (V): 		dev 
+ 
+Florence_Henderson/343cJK8TIF8_0000001 06.6 13.4 
+Florence_Henderson/343cJK8TIF8_0000002 23.5 27.6 
+Florence_Henderson/343cJK8TIF8_0000003 45.9 55.4 
+Florence_Henderson/343cJK8TIF8_0000004 107.1 111.5 

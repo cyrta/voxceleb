@@ -1,0 +1,9 @@
+POI: 			John_Goodman 
+Youtube ID: 	4CiHuisRQqA 
+Video length: 	256.0 sec 
+Set (V): 		dev 
+ 
+John_Goodman/4CiHuisRQqA_0000001 57.0 62.6 
+John_Goodman/4CiHuisRQqA_0000002 73.1 77.8 
+John_Goodman/4CiHuisRQqA_0000003 160.7 165.3 
+John_Goodman/4CiHuisRQqA_0000004 202.0 209.1 

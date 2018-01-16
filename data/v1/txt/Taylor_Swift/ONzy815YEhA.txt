@@ -1,0 +1,21 @@
+POI: 			Taylor_Swift 
+Youtube ID: 	ONzy815YEhA 
+Video length: 	1316.4 sec 
+Set (V): 		dev 
+ 
+Taylor_Swift/ONzy815YEhA_0000001 193.1 203.1 
+Taylor_Swift/ONzy815YEhA_0000002 234.6 247.0 
+Taylor_Swift/ONzy815YEhA_0000003 252.7 258.1 
+Taylor_Swift/ONzy815YEhA_0000004 319.9 327.6 
+Taylor_Swift/ONzy815YEhA_0000005 368.1 374.0 
+Taylor_Swift/ONzy815YEhA_0000006 374.4 378.7 
+Taylor_Swift/ONzy815YEhA_0000007 545.8 552.2 
+Taylor_Swift/ONzy815YEhA_0000008 815.2 819.5 
+Taylor_Swift/ONzy815YEhA_0000009 821.8 825.8 
+Taylor_Swift/ONzy815YEhA_0000010 831.7 846.5 
+Taylor_Swift/ONzy815YEhA_0000011 915.2 925.4 
+Taylor_Swift/ONzy815YEhA_0000012 957.0 962.0 
+Taylor_Swift/ONzy815YEhA_0000013 980.8 986.1 
+Taylor_Swift/ONzy815YEhA_0000014 991.3 1003.8 
+Taylor_Swift/ONzy815YEhA_0000015 1050.0 1061.7 
+Taylor_Swift/ONzy815YEhA_0000016 1155.4 1160.7 

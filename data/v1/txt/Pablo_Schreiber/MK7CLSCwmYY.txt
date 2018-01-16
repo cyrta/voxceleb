@@ -1,0 +1,9 @@
+POI: 			Pablo_Schreiber 
+Youtube ID: 	MK7CLSCwmYY 
+Video length: 	353.4 sec 
+Set (V): 		dev 
+ 
+Pablo_Schreiber/MK7CLSCwmYY_0000001 122.3 126.8 
+Pablo_Schreiber/MK7CLSCwmYY_0000002 179.2 184.4 
+Pablo_Schreiber/MK7CLSCwmYY_0000003 261.3 267.2 
+Pablo_Schreiber/MK7CLSCwmYY_0000004 281.0 285.9 

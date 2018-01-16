@@ -1,0 +1,7 @@
+POI: 			Zachary_Quinto 
+Youtube ID: 	crXBCiBX-bU 
+Video length: 	140.3 sec 
+Set (V): 		dev 
+ 
+Zachary_Quinto/crXBCiBX-bU_0000001 32.8 37.1 
+Zachary_Quinto/crXBCiBX-bU_0000002 37.8 45.7 

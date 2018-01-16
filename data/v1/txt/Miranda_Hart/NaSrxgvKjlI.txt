@@ -1,0 +1,8 @@
+POI: 			Miranda_Hart 
+Youtube ID: 	NaSrxgvKjlI 
+Video length: 	170.3 sec 
+Set (V): 		dev 
+ 
+Miranda_Hart/NaSrxgvKjlI_0000001 35.4 39.6 
+Miranda_Hart/NaSrxgvKjlI_0000002 92.9 96.8 
+Miranda_Hart/NaSrxgvKjlI_0000003 100.1 112.9 

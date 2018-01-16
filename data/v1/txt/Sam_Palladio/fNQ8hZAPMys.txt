@@ -1,0 +1,10 @@
+POI: 			Sam_Palladio 
+Youtube ID: 	fNQ8hZAPMys 
+Video length: 	279.6 sec 
+Set (V): 		dev 
+ 
+Sam_Palladio/fNQ8hZAPMys_0000001 28.2 38.1 
+Sam_Palladio/fNQ8hZAPMys_0000002 47.7 54.7 
+Sam_Palladio/fNQ8hZAPMys_0000003 87.2 98.4 
+Sam_Palladio/fNQ8hZAPMys_0000004 99.4 104.7 
+Sam_Palladio/fNQ8hZAPMys_0000005 114.2 120.4 

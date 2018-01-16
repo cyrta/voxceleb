@@ -1,0 +1,7 @@
+POI: 			Tim_Burton 
+Youtube ID: 	NQpu-teG8Kk 
+Video length: 	260.1 sec 
+Set (V): 		dev 
+ 
+Tim_Burton/NQpu-teG8Kk_0000001 67.2 71.5 
+Tim_Burton/NQpu-teG8Kk_0000002 169.3 173.4 

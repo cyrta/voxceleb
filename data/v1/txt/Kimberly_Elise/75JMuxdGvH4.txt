@@ -1,0 +1,20 @@
+POI: 			Kimberly_Elise 
+Youtube ID: 	75JMuxdGvH4 
+Video length: 	351.6 sec 
+Set (V): 		dev 
+ 
+Kimberly_Elise/75JMuxdGvH4_0000001 00.8 05.9 
+Kimberly_Elise/75JMuxdGvH4_0000002 12.1 16.8 
+Kimberly_Elise/75JMuxdGvH4_0000003 31.0 35.0 
+Kimberly_Elise/75JMuxdGvH4_0000004 75.8 107.8 
+Kimberly_Elise/75JMuxdGvH4_0000005 108.2 118.8 
+Kimberly_Elise/75JMuxdGvH4_0000006 119.2 124.1 
+Kimberly_Elise/75JMuxdGvH4_0000007 124.2 128.8 
+Kimberly_Elise/75JMuxdGvH4_0000008 153.0 171.5 
+Kimberly_Elise/75JMuxdGvH4_0000009 177.5 198.9 
+Kimberly_Elise/75JMuxdGvH4_0000010 199.3 212.1 
+Kimberly_Elise/75JMuxdGvH4_0000011 217.0 245.6 
+Kimberly_Elise/75JMuxdGvH4_0000012 248.4 252.4 
+Kimberly_Elise/75JMuxdGvH4_0000013 257.7 276.7 
+Kimberly_Elise/75JMuxdGvH4_0000014 279.6 287.6 
+Kimberly_Elise/75JMuxdGvH4_0000015 309.8 330.5 

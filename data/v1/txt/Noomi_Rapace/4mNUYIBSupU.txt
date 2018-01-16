@@ -1,0 +1,11 @@
+POI: 			Noomi_Rapace 
+Youtube ID: 	4mNUYIBSupU 
+Video length: 	124.2 sec 
+Set (V): 		dev 
+ 
+Noomi_Rapace/4mNUYIBSupU_0000001 13.4 17.6 
+Noomi_Rapace/4mNUYIBSupU_0000002 34.6 49.0 
+Noomi_Rapace/4mNUYIBSupU_0000003 61.3 65.4 
+Noomi_Rapace/4mNUYIBSupU_0000004 84.2 89.6 
+Noomi_Rapace/4mNUYIBSupU_0000005 90.3 99.9 
+Noomi_Rapace/4mNUYIBSupU_0000006 115.8 120.3 

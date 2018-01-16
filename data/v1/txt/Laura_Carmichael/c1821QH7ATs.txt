@@ -1,0 +1,11 @@
+POI: 			Laura_Carmichael 
+Youtube ID: 	c1821QH7ATs 
+Video length: 	142.7 sec 
+Set (V): 		dev 
+ 
+Laura_Carmichael/c1821QH7ATs_0000001 37.0 53.4 
+Laura_Carmichael/c1821QH7ATs_0000002 70.3 77.8 
+Laura_Carmichael/c1821QH7ATs_0000003 78.8 83.9 
+Laura_Carmichael/c1821QH7ATs_0000004 88.7 95.2 
+Laura_Carmichael/c1821QH7ATs_0000005 106.7 112.7 
+Laura_Carmichael/c1821QH7ATs_0000006 115.4 125.5 

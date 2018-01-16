@@ -1,0 +1,11 @@
+POI: 			Dylan_Moran 
+Youtube ID: 	0vc2JwLCGyg 
+Video length: 	447.0 sec 
+Set (V): 		dev 
+ 
+Dylan_Moran/0vc2JwLCGyg_0000001 118.3 123.4 
+Dylan_Moran/0vc2JwLCGyg_0000002 150.2 154.8 
+Dylan_Moran/0vc2JwLCGyg_0000003 221.9 226.4 
+Dylan_Moran/0vc2JwLCGyg_0000004 318.0 322.2 
+Dylan_Moran/0vc2JwLCGyg_0000005 323.6 329.2 
+Dylan_Moran/0vc2JwLCGyg_0000006 406.0 411.4 

@@ -1,0 +1,12 @@
+POI: 			Jared_Harris 
+Youtube ID: 	UPNWaPIhm_Y 
+Video length: 	269.5 sec 
+Set (V): 		dev 
+ 
+Jared_Harris/UPNWaPIhm_Y_0000001 39.5 47.5 
+Jared_Harris/UPNWaPIhm_Y_0000002 66.2 70.4 
+Jared_Harris/UPNWaPIhm_Y_0000003 87.5 93.2 
+Jared_Harris/UPNWaPIhm_Y_0000004 175.4 179.8 
+Jared_Harris/UPNWaPIhm_Y_0000005 222.3 226.8 
+Jared_Harris/UPNWaPIhm_Y_0000006 248.4 253.2 
+Jared_Harris/UPNWaPIhm_Y_0000007 253.6 261.9 

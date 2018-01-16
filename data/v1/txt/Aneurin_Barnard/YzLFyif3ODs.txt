@@ -1,0 +1,9 @@
+POI: 			Aneurin_Barnard 
+Youtube ID: 	YzLFyif3ODs 
+Video length: 	242.4 sec 
+Set (V): 		dev 
+ 
+Aneurin_Barnard/YzLFyif3ODs_0000001 48.4 52.9 
+Aneurin_Barnard/YzLFyif3ODs_0000002 84.9 98.0 
+Aneurin_Barnard/YzLFyif3ODs_0000003 179.2 184.0 
+Aneurin_Barnard/YzLFyif3ODs_0000004 193.0 198.7 

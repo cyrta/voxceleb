@@ -1,0 +1,47 @@
+POI: 			Bruce_Boxleitner 
+Youtube ID: 	WXTLEWvPsqU 
+Video length: 	912.4 sec 
+Set (V): 		dev 
+ 
+Bruce_Boxleitner/WXTLEWvPsqU_0000001 32.0 38.4 
+Bruce_Boxleitner/WXTLEWvPsqU_0000002 46.6 51.6 
+Bruce_Boxleitner/WXTLEWvPsqU_0000003 60.3 66.6 
+Bruce_Boxleitner/WXTLEWvPsqU_0000004 68.6 78.4 
+Bruce_Boxleitner/WXTLEWvPsqU_0000005 80.3 84.3 
+Bruce_Boxleitner/WXTLEWvPsqU_0000006 89.3 95.2 
+Bruce_Boxleitner/WXTLEWvPsqU_0000007 96.1 104.3 
+Bruce_Boxleitner/WXTLEWvPsqU_0000008 104.5 111.5 
+Bruce_Boxleitner/WXTLEWvPsqU_0000009 113.3 118.2 
+Bruce_Boxleitner/WXTLEWvPsqU_0000010 123.3 128.8 
+Bruce_Boxleitner/WXTLEWvPsqU_0000011 181.3 188.1 
+Bruce_Boxleitner/WXTLEWvPsqU_0000012 199.7 203.8 
+Bruce_Boxleitner/WXTLEWvPsqU_0000013 208.8 213.7 
+Bruce_Boxleitner/WXTLEWvPsqU_0000014 216.8 222.3 
+Bruce_Boxleitner/WXTLEWvPsqU_0000015 225.6 231.7 
+Bruce_Boxleitner/WXTLEWvPsqU_0000016 257.1 263.4 
+Bruce_Boxleitner/WXTLEWvPsqU_0000017 273.4 281.5 
+Bruce_Boxleitner/WXTLEWvPsqU_0000018 300.2 304.2 
+Bruce_Boxleitner/WXTLEWvPsqU_0000019 321.9 335.0 
+Bruce_Boxleitner/WXTLEWvPsqU_0000020 335.2 342.9 
+Bruce_Boxleitner/WXTLEWvPsqU_0000021 348.7 355.1 
+Bruce_Boxleitner/WXTLEWvPsqU_0000022 380.7 385.2 
+Bruce_Boxleitner/WXTLEWvPsqU_0000023 395.2 400.8 
+Bruce_Boxleitner/WXTLEWvPsqU_0000024 428.9 433.4 
+Bruce_Boxleitner/WXTLEWvPsqU_0000025 437.4 447.4 
+Bruce_Boxleitner/WXTLEWvPsqU_0000026 451.0 460.9 
+Bruce_Boxleitner/WXTLEWvPsqU_0000027 467.5 472.0 
+Bruce_Boxleitner/WXTLEWvPsqU_0000028 485.2 490.1 
+Bruce_Boxleitner/WXTLEWvPsqU_0000029 491.5 497.7 
+Bruce_Boxleitner/WXTLEWvPsqU_0000030 505.4 511.1 
+Bruce_Boxleitner/WXTLEWvPsqU_0000031 559.8 564.5 
+Bruce_Boxleitner/WXTLEWvPsqU_0000032 565.6 569.8 
+Bruce_Boxleitner/WXTLEWvPsqU_0000033 576.8 581.7 
+Bruce_Boxleitner/WXTLEWvPsqU_0000034 615.8 619.8 
+Bruce_Boxleitner/WXTLEWvPsqU_0000035 765.9 770.6 
+Bruce_Boxleitner/WXTLEWvPsqU_0000036 775.0 779.7 
+Bruce_Boxleitner/WXTLEWvPsqU_0000037 785.4 790.5 
+Bruce_Boxleitner/WXTLEWvPsqU_0000038 824.1 842.5 
+Bruce_Boxleitner/WXTLEWvPsqU_0000039 865.8 872.2 
+Bruce_Boxleitner/WXTLEWvPsqU_0000040 872.6 880.9 
+Bruce_Boxleitner/WXTLEWvPsqU_0000041 881.5 886.2 
+Bruce_Boxleitner/WXTLEWvPsqU_0000042 894.7 901.3 

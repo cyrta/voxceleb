@@ -1,0 +1,11 @@
+POI: 			Rami_Malek 
+Youtube ID: 	HFdimV67lyA 
+Video length: 	339.4 sec 
+Set (V): 		dev 
+ 
+Rami_Malek/HFdimV67lyA_0000001 38.8 49.3 
+Rami_Malek/HFdimV67lyA_0000002 94.6 98.6 
+Rami_Malek/HFdimV67lyA_0000003 107.6 112.6 
+Rami_Malek/HFdimV67lyA_0000004 143.0 147.3 
+Rami_Malek/HFdimV67lyA_0000005 161.6 165.9 
+Rami_Malek/HFdimV67lyA_0000006 300.1 306.4 

@@ -1,0 +1,17 @@
+POI: 			Phyllis_Diller 
+Youtube ID: 	slntsV-5z4U 
+Video length: 	174.8 sec 
+Set (V): 		dev 
+ 
+Phyllis_Diller/slntsV-5z4U_0000001 06.1 10.4 
+Phyllis_Diller/slntsV-5z4U_0000002 26.3 30.5 
+Phyllis_Diller/slntsV-5z4U_0000003 31.1 37.6 
+Phyllis_Diller/slntsV-5z4U_0000004 41.8 46.8 
+Phyllis_Diller/slntsV-5z4U_0000005 49.8 72.1 
+Phyllis_Diller/slntsV-5z4U_0000006 77.1 87.5 
+Phyllis_Diller/slntsV-5z4U_0000007 89.1 93.1 
+Phyllis_Diller/slntsV-5z4U_0000008 96.0 101.3 
+Phyllis_Diller/slntsV-5z4U_0000009 101.7 114.4 
+Phyllis_Diller/slntsV-5z4U_0000010 119.0 124.2 
+Phyllis_Diller/slntsV-5z4U_0000011 131.3 136.2 
+Phyllis_Diller/slntsV-5z4U_0000012 150.1 157.4 

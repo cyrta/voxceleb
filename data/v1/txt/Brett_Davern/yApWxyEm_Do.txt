@@ -1,0 +1,8 @@
+POI: 			Brett_Davern 
+Youtube ID: 	yApWxyEm_Do 
+Video length: 	629.7 sec 
+Set (V): 		dev 
+ 
+Brett_Davern/yApWxyEm_Do_0000001 00.8 04.9 
+Brett_Davern/yApWxyEm_Do_0000002 290.9 296.7 
+Brett_Davern/yApWxyEm_Do_0000003 506.8 510.8 

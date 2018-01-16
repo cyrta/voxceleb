@@ -1,0 +1,13 @@
+POI: 			Viggo_Mortensen 
+Youtube ID: 	ZaWQnpToL8s 
+Video length: 	631.1 sec 
+Set (V): 		dev 
+ 
+Viggo_Mortensen/ZaWQnpToL8s_0000001 311.0 319.2 
+Viggo_Mortensen/ZaWQnpToL8s_0000002 394.1 410.4 
+Viggo_Mortensen/ZaWQnpToL8s_0000003 450.2 455.4 
+Viggo_Mortensen/ZaWQnpToL8s_0000004 473.3 478.5 
+Viggo_Mortensen/ZaWQnpToL8s_0000005 479.4 484.3 
+Viggo_Mortensen/ZaWQnpToL8s_0000006 503.3 513.9 
+Viggo_Mortensen/ZaWQnpToL8s_0000007 524.0 530.1 
+Viggo_Mortensen/ZaWQnpToL8s_0000008 530.2 534.2 

@@ -1,0 +1,8 @@
+POI: 			James_Woods 
+Youtube ID: 	wbKrBgAZgmI 
+Video length: 	128.1 sec 
+Set (V): 		dev 
+ 
+James_Woods/wbKrBgAZgmI_0000001 37.8 42.7 
+James_Woods/wbKrBgAZgmI_0000002 64.4 74.8 
+James_Woods/wbKrBgAZgmI_0000003 109.1 113.2 

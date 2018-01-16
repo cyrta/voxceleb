@@ -1,0 +1,12 @@
+POI: 			Rob_Riggle 
+Youtube ID: 	gNzHI6OmKpY 
+Video length: 	250.1 sec 
+Set (V): 		dev 
+ 
+Rob_Riggle/gNzHI6OmKpY_0000001 54.1 60.9 
+Rob_Riggle/gNzHI6OmKpY_0000002 67.6 83.7 
+Rob_Riggle/gNzHI6OmKpY_0000003 148.4 152.8 
+Rob_Riggle/gNzHI6OmKpY_0000004 155.0 161.6 
+Rob_Riggle/gNzHI6OmKpY_0000005 162.4 168.6 
+Rob_Riggle/gNzHI6OmKpY_0000006 173.8 178.0 
+Rob_Riggle/gNzHI6OmKpY_0000007 178.8 192.1 

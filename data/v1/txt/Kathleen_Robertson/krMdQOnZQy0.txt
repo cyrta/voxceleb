@@ -1,0 +1,9 @@
+POI: 			Kathleen_Robertson 
+Youtube ID: 	krMdQOnZQy0 
+Video length: 	263.8 sec 
+Set (V): 		dev 
+ 
+Kathleen_Robertson/krMdQOnZQy0_0000001 40.0 44.7 
+Kathleen_Robertson/krMdQOnZQy0_0000002 130.0 138.4 
+Kathleen_Robertson/krMdQOnZQy0_0000003 179.2 184.8 
+Kathleen_Robertson/krMdQOnZQy0_0000004 187.3 192.7 

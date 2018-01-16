@@ -1,0 +1,8 @@
+POI: 			Dawn_Wells 
+Youtube ID: 	746K5NHwYmA 
+Video length: 	284.8 sec 
+Set (V): 		dev 
+ 
+Dawn_Wells/746K5NHwYmA_0000001 49.3 61.8 
+Dawn_Wells/746K5NHwYmA_0000002 128.8 133.9 
+Dawn_Wells/746K5NHwYmA_0000003 134.0 140.5 

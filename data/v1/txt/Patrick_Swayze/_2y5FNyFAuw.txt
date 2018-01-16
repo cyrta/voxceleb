@@ -1,0 +1,13 @@
+POI: 			Patrick_Swayze 
+Youtube ID: 	_2y5FNyFAuw 
+Video length: 	2415.6 sec 
+Set (V): 		dev 
+ 
+Patrick_Swayze/_2y5FNyFAuw_0000001 778.6 789.7 
+Patrick_Swayze/_2y5FNyFAuw_0000002 813.5 819.1 
+Patrick_Swayze/_2y5FNyFAuw_0000003 1189.0 1195.4 
+Patrick_Swayze/_2y5FNyFAuw_0000004 1248.6 1252.9 
+Patrick_Swayze/_2y5FNyFAuw_0000005 1262.6 1267.0 
+Patrick_Swayze/_2y5FNyFAuw_0000006 1350.0 1354.0 
+Patrick_Swayze/_2y5FNyFAuw_0000007 1996.2 2001.1 
+Patrick_Swayze/_2y5FNyFAuw_0000008 2030.4 2034.6 

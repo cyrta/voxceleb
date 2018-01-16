@@ -1,0 +1,10 @@
+POI: 			Tamer_Hassan 
+Youtube ID: 	zUDhBADZQ4I 
+Video length: 	1169.6 sec 
+Set (V): 		dev 
+ 
+Tamer_Hassan/zUDhBADZQ4I_0000001 453.0 459.5 
+Tamer_Hassan/zUDhBADZQ4I_0000002 760.2 764.4 
+Tamer_Hassan/zUDhBADZQ4I_0000003 827.2 832.8 
+Tamer_Hassan/zUDhBADZQ4I_0000004 902.3 906.6 
+Tamer_Hassan/zUDhBADZQ4I_0000005 948.9 953.1 

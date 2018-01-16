@@ -1,0 +1,14 @@
+POI: 			Shay_Mitchell 
+Youtube ID: 	Y7hkep4mkX8 
+Video length: 	309.8 sec 
+Set (V): 		dev 
+ 
+Shay_Mitchell/Y7hkep4mkX8_0000001 63.1 70.3 
+Shay_Mitchell/Y7hkep4mkX8_0000002 71.6 80.8 
+Shay_Mitchell/Y7hkep4mkX8_0000003 99.8 104.1 
+Shay_Mitchell/Y7hkep4mkX8_0000004 121.1 127.2 
+Shay_Mitchell/Y7hkep4mkX8_0000005 130.8 140.0 
+Shay_Mitchell/Y7hkep4mkX8_0000006 190.0 198.1 
+Shay_Mitchell/Y7hkep4mkX8_0000007 213.5 219.8 
+Shay_Mitchell/Y7hkep4mkX8_0000008 240.0 252.4 
+Shay_Mitchell/Y7hkep4mkX8_0000009 254.2 260.0 

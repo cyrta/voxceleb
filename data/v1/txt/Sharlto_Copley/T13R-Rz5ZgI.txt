@@ -1,0 +1,14 @@
+POI: 			Sharlto_Copley 
+Youtube ID: 	T13R-Rz5ZgI 
+Video length: 	148.2 sec 
+Set (V): 		dev 
+ 
+Sharlto_Copley/T13R-Rz5ZgI_0000001 03.5 08.2 
+Sharlto_Copley/T13R-Rz5ZgI_0000002 09.0 13.2 
+Sharlto_Copley/T13R-Rz5ZgI_0000003 16.0 21.8 
+Sharlto_Copley/T13R-Rz5ZgI_0000004 29.8 47.7 
+Sharlto_Copley/T13R-Rz5ZgI_0000005 50.9 62.0 
+Sharlto_Copley/T13R-Rz5ZgI_0000006 65.9 83.9 
+Sharlto_Copley/T13R-Rz5ZgI_0000007 89.3 94.4 
+Sharlto_Copley/T13R-Rz5ZgI_0000008 94.8 100.8 
+Sharlto_Copley/T13R-Rz5ZgI_0000009 120.8 131.5 

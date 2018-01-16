@@ -1,0 +1,13 @@
+POI: 			Woody_Harrelson 
+Youtube ID: 	jLhbxKoivQU 
+Video length: 	230.7 sec 
+Set (V): 		dev 
+ 
+Woody_Harrelson/jLhbxKoivQU_0000001 41.5 46.8 
+Woody_Harrelson/jLhbxKoivQU_0000002 48.4 54.0 
+Woody_Harrelson/jLhbxKoivQU_0000003 64.2 69.1 
+Woody_Harrelson/jLhbxKoivQU_0000004 71.9 76.1 
+Woody_Harrelson/jLhbxKoivQU_0000005 104.8 109.8 
+Woody_Harrelson/jLhbxKoivQU_0000006 116.2 121.5 
+Woody_Harrelson/jLhbxKoivQU_0000007 147.3 151.4 
+Woody_Harrelson/jLhbxKoivQU_0000008 164.3 176.2 

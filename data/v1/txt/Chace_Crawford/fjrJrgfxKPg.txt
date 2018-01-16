@@ -1,0 +1,10 @@
+POI: 			Chace_Crawford 
+Youtube ID: 	fjrJrgfxKPg 
+Video length: 	304.5 sec 
+Set (V): 		dev 
+ 
+Chace_Crawford/fjrJrgfxKPg_0000001 37.3 50.4 
+Chace_Crawford/fjrJrgfxKPg_0000002 76.8 83.0 
+Chace_Crawford/fjrJrgfxKPg_0000003 148.2 156.7 
+Chace_Crawford/fjrJrgfxKPg_0000004 156.8 161.4 
+Chace_Crawford/fjrJrgfxKPg_0000005 185.7 194.2 

@@ -1,0 +1,10 @@
+POI: 			Laura_Dern 
+Youtube ID: 	E4BTtMKTJ9g 
+Video length: 	372.1 sec 
+Set (V): 		dev 
+ 
+Laura_Dern/E4BTtMKTJ9g_0000001 65.7 83.4 
+Laura_Dern/E4BTtMKTJ9g_0000002 216.2 224.5 
+Laura_Dern/E4BTtMKTJ9g_0000003 225.2 235.9 
+Laura_Dern/E4BTtMKTJ9g_0000004 267.3 283.3 
+Laura_Dern/E4BTtMKTJ9g_0000005 283.6 302.3 

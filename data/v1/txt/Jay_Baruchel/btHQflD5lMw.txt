@@ -1,0 +1,13 @@
+POI: 			Jay_Baruchel 
+Youtube ID: 	btHQflD5lMw 
+Video length: 	375.4 sec 
+Set (V): 		dev 
+ 
+Jay_Baruchel/btHQflD5lMw_0000001 61.8 66.7 
+Jay_Baruchel/btHQflD5lMw_0000002 188.3 192.5 
+Jay_Baruchel/btHQflD5lMw_0000003 217.6 227.1 
+Jay_Baruchel/btHQflD5lMw_0000004 230.9 238.3 
+Jay_Baruchel/btHQflD5lMw_0000005 238.8 244.6 
+Jay_Baruchel/btHQflD5lMw_0000006 249.6 257.7 
+Jay_Baruchel/btHQflD5lMw_0000007 262.4 270.2 
+Jay_Baruchel/btHQflD5lMw_0000008 360.8 364.8 

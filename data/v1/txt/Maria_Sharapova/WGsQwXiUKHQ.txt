@@ -1,0 +1,9 @@
+POI: 			Maria_Sharapova 
+Youtube ID: 	WGsQwXiUKHQ 
+Video length: 	112.5 sec 
+Set (V): 		dev 
+ 
+Maria_Sharapova/WGsQwXiUKHQ_0000001 09.0 13.0 
+Maria_Sharapova/WGsQwXiUKHQ_0000002 19.0 24.1 
+Maria_Sharapova/WGsQwXiUKHQ_0000003 29.6 34.0 
+Maria_Sharapova/WGsQwXiUKHQ_0000004 35.6 42.1 

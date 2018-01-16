@@ -1,0 +1,12 @@
+POI: 			Whitney_Cummings 
+Youtube ID: 	HDEg5eXfSoc 
+Video length: 	204.6 sec 
+Set (V): 		dev 
+ 
+Whitney_Cummings/HDEg5eXfSoc_0000001 13.0 23.3 
+Whitney_Cummings/HDEg5eXfSoc_0000002 37.3 59.8 
+Whitney_Cummings/HDEg5eXfSoc_0000003 60.0 70.6 
+Whitney_Cummings/HDEg5eXfSoc_0000004 108.3 116.3 
+Whitney_Cummings/HDEg5eXfSoc_0000005 117.9 125.0 
+Whitney_Cummings/HDEg5eXfSoc_0000006 125.4 129.9 
+Whitney_Cummings/HDEg5eXfSoc_0000007 165.0 173.2 

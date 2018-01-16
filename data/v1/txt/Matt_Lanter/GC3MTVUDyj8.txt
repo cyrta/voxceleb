@@ -1,0 +1,12 @@
+POI: 			Matt_Lanter 
+Youtube ID: 	GC3MTVUDyj8 
+Video length: 	407.2 sec 
+Set (V): 		dev 
+ 
+Matt_Lanter/GC3MTVUDyj8_0000001 200.1 206.8 
+Matt_Lanter/GC3MTVUDyj8_0000002 209.5 221.6 
+Matt_Lanter/GC3MTVUDyj8_0000003 223.6 265.1 
+Matt_Lanter/GC3MTVUDyj8_0000004 283.3 323.0 
+Matt_Lanter/GC3MTVUDyj8_0000005 324.1 333.1 
+Matt_Lanter/GC3MTVUDyj8_0000006 350.3 364.7 
+Matt_Lanter/GC3MTVUDyj8_0000007 390.5 401.6 

@@ -1,0 +1,11 @@
+POI: 			Evanna_Lynch 
+Youtube ID: 	sLv-3TCu2fE 
+Video length: 	295.2 sec 
+Set (V): 		test 
+ 
+Evanna_Lynch/sLv-3TCu2fE_0000001 31.6 36.4 
+Evanna_Lynch/sLv-3TCu2fE_0000002 83.9 93.1 
+Evanna_Lynch/sLv-3TCu2fE_0000003 109.0 118.4 
+Evanna_Lynch/sLv-3TCu2fE_0000004 130.2 136.2 
+Evanna_Lynch/sLv-3TCu2fE_0000005 146.4 152.2 
+Evanna_Lynch/sLv-3TCu2fE_0000006 255.1 259.9 

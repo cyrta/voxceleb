@@ -1,0 +1,19 @@
+POI: 			Ricky_Gervais 
+Youtube ID: 	ogNaMdCIea4 
+Video length: 	742.3 sec 
+Set (V): 		dev 
+ 
+Ricky_Gervais/ogNaMdCIea4_0000001 190.8 195.1 
+Ricky_Gervais/ogNaMdCIea4_0000002 222.2 228.8 
+Ricky_Gervais/ogNaMdCIea4_0000003 265.7 270.4 
+Ricky_Gervais/ogNaMdCIea4_0000004 307.3 312.0 
+Ricky_Gervais/ogNaMdCIea4_0000005 341.2 347.6 
+Ricky_Gervais/ogNaMdCIea4_0000006 349.2 355.9 
+Ricky_Gervais/ogNaMdCIea4_0000007 532.2 559.9 
+Ricky_Gervais/ogNaMdCIea4_0000008 560.2 581.6 
+Ricky_Gervais/ogNaMdCIea4_0000009 587.3 596.6 
+Ricky_Gervais/ogNaMdCIea4_0000010 596.8 609.3 
+Ricky_Gervais/ogNaMdCIea4_0000011 633.3 638.7 
+Ricky_Gervais/ogNaMdCIea4_0000012 641.8 656.2 
+Ricky_Gervais/ogNaMdCIea4_0000013 674.8 680.9 
+Ricky_Gervais/ogNaMdCIea4_0000014 695.6 699.9 

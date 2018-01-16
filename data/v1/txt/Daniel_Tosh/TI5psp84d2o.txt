@@ -1,0 +1,7 @@
+POI: 			Daniel_Tosh 
+Youtube ID: 	TI5psp84d2o 
+Video length: 	312.3 sec 
+Set (V): 		dev 
+ 
+Daniel_Tosh/TI5psp84d2o_0000001 25.0 29.0 
+Daniel_Tosh/TI5psp84d2o_0000002 131.2 135.4 

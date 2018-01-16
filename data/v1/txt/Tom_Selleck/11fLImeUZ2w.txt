@@ -1,0 +1,13 @@
+POI: 			Tom_Selleck 
+Youtube ID: 	11fLImeUZ2w 
+Video length: 	691.7 sec 
+Set (V): 		dev 
+ 
+Tom_Selleck/11fLImeUZ2w_0000001 274.0 279.3 
+Tom_Selleck/11fLImeUZ2w_0000002 355.0 361.4 
+Tom_Selleck/11fLImeUZ2w_0000003 378.6 384.5 
+Tom_Selleck/11fLImeUZ2w_0000004 384.6 388.7 
+Tom_Selleck/11fLImeUZ2w_0000005 493.1 497.9 
+Tom_Selleck/11fLImeUZ2w_0000006 505.7 515.6 
+Tom_Selleck/11fLImeUZ2w_0000007 523.0 529.0 
+Tom_Selleck/11fLImeUZ2w_0000008 623.8 632.8 

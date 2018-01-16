@@ -1,0 +1,14 @@
+POI: 			Jon_Huertas 
+Youtube ID: 	JA6t4hu9gGY 
+Video length: 	183.3 sec 
+Set (V): 		dev 
+ 
+Jon_Huertas/JA6t4hu9gGY_0000001 08.1 21.2 
+Jon_Huertas/JA6t4hu9gGY_0000002 30.6 35.3 
+Jon_Huertas/JA6t4hu9gGY_0000003 35.4 40.4 
+Jon_Huertas/JA6t4hu9gGY_0000004 51.3 55.8 
+Jon_Huertas/JA6t4hu9gGY_0000005 55.9 65.0 
+Jon_Huertas/JA6t4hu9gGY_0000006 76.0 80.2 
+Jon_Huertas/JA6t4hu9gGY_0000007 103.5 113.5 
+Jon_Huertas/JA6t4hu9gGY_0000008 122.7 127.6 
+Jon_Huertas/JA6t4hu9gGY_0000009 170.6 176.0 

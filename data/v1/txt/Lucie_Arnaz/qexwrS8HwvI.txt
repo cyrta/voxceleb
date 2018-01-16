@@ -1,0 +1,12 @@
+POI: 			Lucie_Arnaz 
+Youtube ID: 	qexwrS8HwvI 
+Video length: 	147.8 sec 
+Set (V): 		dev 
+ 
+Lucie_Arnaz/qexwrS8HwvI_0000001 01.2 28.0 
+Lucie_Arnaz/qexwrS8HwvI_0000002 28.4 38.7 
+Lucie_Arnaz/qexwrS8HwvI_0000003 41.9 47.6 
+Lucie_Arnaz/qexwrS8HwvI_0000004 49.0 54.4 
+Lucie_Arnaz/qexwrS8HwvI_0000005 49.0 54.4 
+Lucie_Arnaz/qexwrS8HwvI_0000006 69.6 74.4 
+Lucie_Arnaz/qexwrS8HwvI_0000007 78.0 117.1 

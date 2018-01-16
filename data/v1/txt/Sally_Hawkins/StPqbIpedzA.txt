@@ -1,0 +1,9 @@
+POI: 			Sally_Hawkins 
+Youtube ID: 	StPqbIpedzA 
+Video length: 	148.8 sec 
+Set (V): 		dev 
+ 
+Sally_Hawkins/StPqbIpedzA_0000001 16.4 21.9 
+Sally_Hawkins/StPqbIpedzA_0000002 101.0 105.1 
+Sally_Hawkins/StPqbIpedzA_0000003 121.0 128.1 
+Sally_Hawkins/StPqbIpedzA_0000004 140.8 145.2 

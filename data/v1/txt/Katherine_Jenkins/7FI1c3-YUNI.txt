@@ -1,0 +1,9 @@
+POI: 			Katherine_Jenkins 
+Youtube ID: 	7FI1c3-YUNI 
+Video length: 	196.0 sec 
+Set (V): 		dev 
+ 
+Katherine_Jenkins/7FI1c3-YUNI_0000001 86.2 96.9 
+Katherine_Jenkins/7FI1c3-YUNI_0000002 124.6 144.4 
+Katherine_Jenkins/7FI1c3-YUNI_0000003 171.5 180.8 
+Katherine_Jenkins/7FI1c3-YUNI_0000004 181.7 186.9 

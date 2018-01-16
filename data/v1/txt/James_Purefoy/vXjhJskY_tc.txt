@@ -1,0 +1,8 @@
+POI: 			James_Purefoy 
+Youtube ID: 	vXjhJskY_tc 
+Video length: 	189.8 sec 
+Set (V): 		dev 
+ 
+James_Purefoy/vXjhJskY_tc_0000001 104.1 108.3 
+James_Purefoy/vXjhJskY_tc_0000002 130.2 134.9 
+James_Purefoy/vXjhJskY_tc_0000003 166.5 171.0 

@@ -1,0 +1,14 @@
+POI: 			Forest_Whitaker 
+Youtube ID: 	wFfQaIPHkJU 
+Video length: 	145.5 sec 
+Set (V): 		dev 
+ 
+Forest_Whitaker/wFfQaIPHkJU_0000001 04.3 09.5 
+Forest_Whitaker/wFfQaIPHkJU_0000002 22.3 29.8 
+Forest_Whitaker/wFfQaIPHkJU_0000003 30.1 43.8 
+Forest_Whitaker/wFfQaIPHkJU_0000004 48.9 53.5 
+Forest_Whitaker/wFfQaIPHkJU_0000005 55.6 70.3 
+Forest_Whitaker/wFfQaIPHkJU_0000006 71.6 77.8 
+Forest_Whitaker/wFfQaIPHkJU_0000007 79.2 94.7 
+Forest_Whitaker/wFfQaIPHkJU_0000008 99.6 114.5 
+Forest_Whitaker/wFfQaIPHkJU_0000009 137.9 144.0 

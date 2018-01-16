@@ -1,0 +1,14 @@
+POI: 			John_Gallagher_Jr. 
+Youtube ID: 	mQ5sEqaJNPM 
+Video length: 	449.5 sec 
+Set (V): 		dev 
+ 
+John_Gallagher_Jr./mQ5sEqaJNPM_0000001 101.2 106.8 
+John_Gallagher_Jr./mQ5sEqaJNPM_0000002 116.9 123.5 
+John_Gallagher_Jr./mQ5sEqaJNPM_0000003 132.9 137.1 
+John_Gallagher_Jr./mQ5sEqaJNPM_0000004 137.4 149.2 
+John_Gallagher_Jr./mQ5sEqaJNPM_0000005 149.9 162.9 
+John_Gallagher_Jr./mQ5sEqaJNPM_0000006 254.4 258.6 
+John_Gallagher_Jr./mQ5sEqaJNPM_0000007 261.3 276.7 
+John_Gallagher_Jr./mQ5sEqaJNPM_0000008 279.9 293.0 
+John_Gallagher_Jr./mQ5sEqaJNPM_0000009 427.2 431.4 

@@ -1,0 +1,9 @@
+POI: 			William_Levy 
+Youtube ID: 	p3Rxtx-GeXM 
+Video length: 	202.9 sec 
+Set (V): 		dev 
+ 
+William_Levy/p3Rxtx-GeXM_0000001 26.3 30.8 
+William_Levy/p3Rxtx-GeXM_0000002 35.7 43.4 
+William_Levy/p3Rxtx-GeXM_0000003 46.8 54.2 
+William_Levy/p3Rxtx-GeXM_0000004 70.4 76.5 

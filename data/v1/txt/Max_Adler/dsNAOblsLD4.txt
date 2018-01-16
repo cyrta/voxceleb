@@ -1,0 +1,9 @@
+POI: 			Max_Adler 
+Youtube ID: 	dsNAOblsLD4 
+Video length: 	387.1 sec 
+Set (V): 		dev 
+ 
+Max_Adler/dsNAOblsLD4_0000001 85.4 93.0 
+Max_Adler/dsNAOblsLD4_0000002 100.5 115.4 
+Max_Adler/dsNAOblsLD4_0000003 123.2 145.3 
+Max_Adler/dsNAOblsLD4_0000004 278.9 289.8 

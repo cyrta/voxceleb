@@ -1,0 +1,27 @@
+POI: 			Patton_Oswalt 
+Youtube ID: 	TCTm9AZF_Xs 
+Video length: 	334.0 sec 
+Set (V): 		dev 
+ 
+Patton_Oswalt/TCTm9AZF_Xs_0000001 00.7 05.4 
+Patton_Oswalt/TCTm9AZF_Xs_0000002 09.8 30.6 
+Patton_Oswalt/TCTm9AZF_Xs_0000003 36.9 45.6 
+Patton_Oswalt/TCTm9AZF_Xs_0000004 45.9 51.3 
+Patton_Oswalt/TCTm9AZF_Xs_0000005 51.5 55.8 
+Patton_Oswalt/TCTm9AZF_Xs_0000006 57.7 67.4 
+Patton_Oswalt/TCTm9AZF_Xs_0000007 67.8 73.6 
+Patton_Oswalt/TCTm9AZF_Xs_0000008 86.2 99.6 
+Patton_Oswalt/TCTm9AZF_Xs_0000009 100.2 104.8 
+Patton_Oswalt/TCTm9AZF_Xs_0000010 105.6 123.5 
+Patton_Oswalt/TCTm9AZF_Xs_0000011 126.3 134.9 
+Patton_Oswalt/TCTm9AZF_Xs_0000012 139.7 163.9 
+Patton_Oswalt/TCTm9AZF_Xs_0000013 169.2 204.7 
+Patton_Oswalt/TCTm9AZF_Xs_0000014 206.4 212.0 
+Patton_Oswalt/TCTm9AZF_Xs_0000015 217.1 242.5 
+Patton_Oswalt/TCTm9AZF_Xs_0000016 246.9 252.3 
+Patton_Oswalt/TCTm9AZF_Xs_0000017 252.5 258.8 
+Patton_Oswalt/TCTm9AZF_Xs_0000018 262.2 266.4 
+Patton_Oswalt/TCTm9AZF_Xs_0000019 266.6 277.6 
+Patton_Oswalt/TCTm9AZF_Xs_0000020 282.1 298.4 
+Patton_Oswalt/TCTm9AZF_Xs_0000021 306.5 315.7 
+Patton_Oswalt/TCTm9AZF_Xs_0000022 321.1 331.4 

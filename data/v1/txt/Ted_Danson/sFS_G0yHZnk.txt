@@ -1,0 +1,8 @@
+POI: 			Ted_Danson 
+Youtube ID: 	sFS_G0yHZnk 
+Video length: 	455.7 sec 
+Set (V): 		dev 
+ 
+Ted_Danson/sFS_G0yHZnk_0000001 190.8 197.6 
+Ted_Danson/sFS_G0yHZnk_0000002 322.0 326.2 
+Ted_Danson/sFS_G0yHZnk_0000003 373.5 377.6 

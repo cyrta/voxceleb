@@ -1,0 +1,23 @@
+POI: 			Jesse_Williams 
+Youtube ID: 	esjxfXCELsg 
+Video length: 	287.2 sec 
+Set (V): 		dev 
+ 
+Jesse_Williams/esjxfXCELsg_0000001 04.2 16.7 
+Jesse_Williams/esjxfXCELsg_0000002 26.0 30.1 
+Jesse_Williams/esjxfXCELsg_0000003 43.2 47.5 
+Jesse_Williams/esjxfXCELsg_0000004 48.2 54.7 
+Jesse_Williams/esjxfXCELsg_0000005 71.5 76.3 
+Jesse_Williams/esjxfXCELsg_0000006 76.6 84.5 
+Jesse_Williams/esjxfXCELsg_0000007 86.4 94.6 
+Jesse_Williams/esjxfXCELsg_0000008 101.4 108.4 
+Jesse_Williams/esjxfXCELsg_0000009 116.8 122.7 
+Jesse_Williams/esjxfXCELsg_0000010 123.2 143.4 
+Jesse_Williams/esjxfXCELsg_0000011 159.8 168.6 
+Jesse_Williams/esjxfXCELsg_0000012 184.7 197.7 
+Jesse_Williams/esjxfXCELsg_0000013 203.2 209.2 
+Jesse_Williams/esjxfXCELsg_0000014 209.6 214.3 
+Jesse_Williams/esjxfXCELsg_0000015 235.4 241.2 
+Jesse_Williams/esjxfXCELsg_0000016 244.4 249.3 
+Jesse_Williams/esjxfXCELsg_0000017 255.4 260.6 
+Jesse_Williams/esjxfXCELsg_0000018 262.1 284.7 

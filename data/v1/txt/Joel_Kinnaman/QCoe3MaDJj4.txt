@@ -1,0 +1,11 @@
+POI: 			Joel_Kinnaman 
+Youtube ID: 	QCoe3MaDJj4 
+Video length: 	195.0 sec 
+Set (V): 		dev 
+ 
+Joel_Kinnaman/QCoe3MaDJj4_0000001 12.6 17.7 
+Joel_Kinnaman/QCoe3MaDJj4_0000002 31.5 46.5 
+Joel_Kinnaman/QCoe3MaDJj4_0000003 47.4 51.9 
+Joel_Kinnaman/QCoe3MaDJj4_0000004 52.8 59.3 
+Joel_Kinnaman/QCoe3MaDJj4_0000005 134.0 150.4 
+Joel_Kinnaman/QCoe3MaDJj4_0000006 185.6 191.7 

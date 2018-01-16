@@ -1,0 +1,8 @@
+POI: 			Robbie_Kay 
+Youtube ID: 	rK6kJ-vwFVU 
+Video length: 	121.4 sec 
+Set (V): 		dev 
+ 
+Robbie_Kay/rK6kJ-vwFVU_0000001 27.4 31.6 
+Robbie_Kay/rK6kJ-vwFVU_0000002 95.4 99.5 
+Robbie_Kay/rK6kJ-vwFVU_0000003 100.1 107.2 

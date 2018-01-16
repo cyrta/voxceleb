@@ -1,0 +1,7 @@
+POI: 			Eric_Roberts 
+Youtube ID: 	3vnz4Iy5fMg 
+Video length: 	260.8 sec 
+Set (V): 		test 
+ 
+Eric_Roberts/3vnz4Iy5fMg_0000001 136.6 142.6 
+Eric_Roberts/3vnz4Iy5fMg_0000002 186.1 190.2 

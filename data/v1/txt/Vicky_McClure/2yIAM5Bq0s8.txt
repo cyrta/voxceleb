@@ -1,0 +1,9 @@
+POI: 			Vicky_McClure 
+Youtube ID: 	2yIAM5Bq0s8 
+Video length: 	266.8 sec 
+Set (V): 		dev 
+ 
+Vicky_McClure/2yIAM5Bq0s8_0000001 79.1 86.2 
+Vicky_McClure/2yIAM5Bq0s8_0000002 103.8 110.8 
+Vicky_McClure/2yIAM5Bq0s8_0000003 113.2 118.1 
+Vicky_McClure/2yIAM5Bq0s8_0000004 184.1 188.9 

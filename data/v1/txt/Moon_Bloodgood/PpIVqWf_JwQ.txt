@@ -1,0 +1,12 @@
+POI: 			Moon_Bloodgood 
+Youtube ID: 	PpIVqWf_JwQ 
+Video length: 	1103.5 sec 
+Set (V): 		dev 
+ 
+Moon_Bloodgood/PpIVqWf_JwQ_0000001 76.2 81.1 
+Moon_Bloodgood/PpIVqWf_JwQ_0000002 343.0 348.2 
+Moon_Bloodgood/PpIVqWf_JwQ_0000003 370.4 375.5 
+Moon_Bloodgood/PpIVqWf_JwQ_0000004 423.7 433.1 
+Moon_Bloodgood/PpIVqWf_JwQ_0000005 445.8 450.8 
+Moon_Bloodgood/PpIVqWf_JwQ_0000006 451.4 458.4 
+Moon_Bloodgood/PpIVqWf_JwQ_0000007 495.7 505.0 

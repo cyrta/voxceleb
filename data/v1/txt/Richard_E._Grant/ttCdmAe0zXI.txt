@@ -1,0 +1,32 @@
+POI: 			Richard_E._Grant 
+Youtube ID: 	ttCdmAe0zXI 
+Video length: 	714.7 sec 
+Set (V): 		dev 
+ 
+Richard_E._Grant/ttCdmAe0zXI_0000001 34.3 40.8 
+Richard_E._Grant/ttCdmAe0zXI_0000002 61.1 71.3 
+Richard_E._Grant/ttCdmAe0zXI_0000003 154.9 168.3 
+Richard_E._Grant/ttCdmAe0zXI_0000004 168.5 173.0 
+Richard_E._Grant/ttCdmAe0zXI_0000005 168.7 174.6 
+Richard_E._Grant/ttCdmAe0zXI_0000006 179.0 183.2 
+Richard_E._Grant/ttCdmAe0zXI_0000007 237.4 247.5 
+Richard_E._Grant/ttCdmAe0zXI_0000008 265.7 271.1 
+Richard_E._Grant/ttCdmAe0zXI_0000009 285.8 291.2 
+Richard_E._Grant/ttCdmAe0zXI_0000010 292.2 296.6 
+Richard_E._Grant/ttCdmAe0zXI_0000011 316.9 321.9 
+Richard_E._Grant/ttCdmAe0zXI_0000012 322.0 332.8 
+Richard_E._Grant/ttCdmAe0zXI_0000013 322.1 332.8 
+Richard_E._Grant/ttCdmAe0zXI_0000014 349.0 353.3 
+Richard_E._Grant/ttCdmAe0zXI_0000015 381.0 385.0 
+Richard_E._Grant/ttCdmAe0zXI_0000016 409.0 415.3 
+Richard_E._Grant/ttCdmAe0zXI_0000017 424.7 432.0 
+Richard_E._Grant/ttCdmAe0zXI_0000018 451.1 457.6 
+Richard_E._Grant/ttCdmAe0zXI_0000019 462.0 467.4 
+Richard_E._Grant/ttCdmAe0zXI_0000020 500.2 504.6 
+Richard_E._Grant/ttCdmAe0zXI_0000021 523.4 528.6 
+Richard_E._Grant/ttCdmAe0zXI_0000022 535.5 539.9 
+Richard_E._Grant/ttCdmAe0zXI_0000023 540.1 550.0 
+Richard_E._Grant/ttCdmAe0zXI_0000024 564.5 570.6 
+Richard_E._Grant/ttCdmAe0zXI_0000025 594.0 599.3 
+Richard_E._Grant/ttCdmAe0zXI_0000026 605.6 612.6 
+Richard_E._Grant/ttCdmAe0zXI_0000027 647.8 652.8 

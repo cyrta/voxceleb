@@ -1,0 +1,17 @@
+POI: 			John_Mulaney 
+Youtube ID: 	ButlizwQXnU 
+Video length: 	411.4 sec 
+Set (V): 		dev 
+ 
+John_Mulaney/ButlizwQXnU_0000001 09.5 18.8 
+John_Mulaney/ButlizwQXnU_0000002 30.5 35.4 
+John_Mulaney/ButlizwQXnU_0000003 40.4 46.7 
+John_Mulaney/ButlizwQXnU_0000004 55.4 61.4 
+John_Mulaney/ButlizwQXnU_0000005 91.5 100.7 
+John_Mulaney/ButlizwQXnU_0000006 117.2 122.0 
+John_Mulaney/ButlizwQXnU_0000007 248.8 254.4 
+John_Mulaney/ButlizwQXnU_0000008 262.6 268.8 
+John_Mulaney/ButlizwQXnU_0000009 300.6 305.1 
+John_Mulaney/ButlizwQXnU_0000010 333.9 342.8 
+John_Mulaney/ButlizwQXnU_0000011 352.6 360.8 
+John_Mulaney/ButlizwQXnU_0000012 371.7 378.1 

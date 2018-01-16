@@ -1,0 +1,9 @@
+POI: 			Maya_Rudolph 
+Youtube ID: 	1T86GGtHuwc 
+Video length: 	146.1 sec 
+Set (V): 		dev 
+ 
+Maya_Rudolph/1T86GGtHuwc_0000001 27.0 35.0 
+Maya_Rudolph/1T86GGtHuwc_0000002 43.3 52.2 
+Maya_Rudolph/1T86GGtHuwc_0000003 56.5 78.6 
+Maya_Rudolph/1T86GGtHuwc_0000004 115.1 121.2 

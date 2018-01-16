@@ -1,0 +1,15 @@
+POI: 			Sofia_Coppola 
+Youtube ID: 	9FAdvYmDljU 
+Video length: 	518.1 sec 
+Set (V): 		dev 
+ 
+Sofia_Coppola/9FAdvYmDljU_0000001 82.3 94.3 
+Sofia_Coppola/9FAdvYmDljU_0000002 117.2 122.4 
+Sofia_Coppola/9FAdvYmDljU_0000003 123.7 128.6 
+Sofia_Coppola/9FAdvYmDljU_0000004 145.0 151.2 
+Sofia_Coppola/9FAdvYmDljU_0000005 169.8 178.3 
+Sofia_Coppola/9FAdvYmDljU_0000006 190.0 196.6 
+Sofia_Coppola/9FAdvYmDljU_0000007 209.4 214.8 
+Sofia_Coppola/9FAdvYmDljU_0000008 245.7 250.2 
+Sofia_Coppola/9FAdvYmDljU_0000009 278.2 284.4 
+Sofia_Coppola/9FAdvYmDljU_0000010 305.8 317.9 

@@ -1,0 +1,13 @@
+POI: 			Michaela_Conlin 
+Youtube ID: 	K8EJzugtHJ8 
+Video length: 	142.5 sec 
+Set (V): 		dev 
+ 
+Michaela_Conlin/K8EJzugtHJ8_0000001 06.8 13.6 
+Michaela_Conlin/K8EJzugtHJ8_0000002 15.5 33.3 
+Michaela_Conlin/K8EJzugtHJ8_0000003 37.4 48.8 
+Michaela_Conlin/K8EJzugtHJ8_0000004 49.3 69.0 
+Michaela_Conlin/K8EJzugtHJ8_0000005 72.1 92.0 
+Michaela_Conlin/K8EJzugtHJ8_0000006 92.8 98.9 
+Michaela_Conlin/K8EJzugtHJ8_0000007 110.0 115.1 
+Michaela_Conlin/K8EJzugtHJ8_0000008 117.6 140.2 

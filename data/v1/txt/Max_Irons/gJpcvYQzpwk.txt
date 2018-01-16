@@ -1,0 +1,9 @@
+POI: 			Max_Irons 
+Youtube ID: 	gJpcvYQzpwk 
+Video length: 	192.3 sec 
+Set (V): 		dev 
+ 
+Max_Irons/gJpcvYQzpwk_0000001 72.4 79.8 
+Max_Irons/gJpcvYQzpwk_0000002 127.2 132.1 
+Max_Irons/gJpcvYQzpwk_0000003 150.4 154.7 
+Max_Irons/gJpcvYQzpwk_0000004 156.8 161.5 

@@ -1,0 +1,15 @@
+POI: 			Tom_Bergeron 
+Youtube ID: 	SZaaaWjpZA4 
+Video length: 	134.8 sec 
+Set (V): 		dev 
+ 
+Tom_Bergeron/SZaaaWjpZA4_0000001 06.5 15.6 
+Tom_Bergeron/SZaaaWjpZA4_0000002 24.2 31.3 
+Tom_Bergeron/SZaaaWjpZA4_0000003 35.2 42.9 
+Tom_Bergeron/SZaaaWjpZA4_0000004 43.3 57.2 
+Tom_Bergeron/SZaaaWjpZA4_0000005 57.5 69.3 
+Tom_Bergeron/SZaaaWjpZA4_0000006 71.6 78.1 
+Tom_Bergeron/SZaaaWjpZA4_0000007 80.0 84.8 
+Tom_Bergeron/SZaaaWjpZA4_0000008 85.7 97.2 
+Tom_Bergeron/SZaaaWjpZA4_0000009 97.7 108.2 
+Tom_Bergeron/SZaaaWjpZA4_0000010 112.6 120.5 

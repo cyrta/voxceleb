@@ -1,0 +1,9 @@
+POI: 			Kenya_Moore 
+Youtube ID: 	GrMoTZTHH-E 
+Video length: 	123.7 sec 
+Set (V): 		dev 
+ 
+Kenya_Moore/GrMoTZTHH-E_0000001 24.6 30.2 
+Kenya_Moore/GrMoTZTHH-E_0000002 55.3 69.4 
+Kenya_Moore/GrMoTZTHH-E_0000003 86.4 97.8 
+Kenya_Moore/GrMoTZTHH-E_0000004 102.0 106.8 

@@ -1,0 +1,26 @@
+POI: 			Moon_Bloodgood 
+Youtube ID: 	cfG-zOBnY8Y 
+Video length: 	1388.5 sec 
+Set (V): 		dev 
+ 
+Moon_Bloodgood/cfG-zOBnY8Y_0000001 26.8 37.7 
+Moon_Bloodgood/cfG-zOBnY8Y_0000002 39.8 55.2 
+Moon_Bloodgood/cfG-zOBnY8Y_0000003 74.5 83.6 
+Moon_Bloodgood/cfG-zOBnY8Y_0000004 85.4 97.3 
+Moon_Bloodgood/cfG-zOBnY8Y_0000005 250.2 254.6 
+Moon_Bloodgood/cfG-zOBnY8Y_0000006 353.1 362.2 
+Moon_Bloodgood/cfG-zOBnY8Y_0000007 367.4 373.7 
+Moon_Bloodgood/cfG-zOBnY8Y_0000008 375.2 383.4 
+Moon_Bloodgood/cfG-zOBnY8Y_0000009 607.4 612.4 
+Moon_Bloodgood/cfG-zOBnY8Y_0000010 612.7 618.7 
+Moon_Bloodgood/cfG-zOBnY8Y_0000011 624.2 633.7 
+Moon_Bloodgood/cfG-zOBnY8Y_0000012 634.1 643.0 
+Moon_Bloodgood/cfG-zOBnY8Y_0000013 794.7 804.7 
+Moon_Bloodgood/cfG-zOBnY8Y_0000014 876.9 883.8 
+Moon_Bloodgood/cfG-zOBnY8Y_0000015 915.0 919.3 
+Moon_Bloodgood/cfG-zOBnY8Y_0000016 992.4 1006.3 
+Moon_Bloodgood/cfG-zOBnY8Y_0000017 1008.2 1027.0 
+Moon_Bloodgood/cfG-zOBnY8Y_0000018 1043.9 1049.1 
+Moon_Bloodgood/cfG-zOBnY8Y_0000019 1050.2 1057.2 
+Moon_Bloodgood/cfG-zOBnY8Y_0000020 1276.2 1280.3 
+Moon_Bloodgood/cfG-zOBnY8Y_0000021 1368.8 1377.4 

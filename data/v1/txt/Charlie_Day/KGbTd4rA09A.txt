@@ -1,0 +1,7 @@
+POI: 			Charlie_Day 
+Youtube ID: 	KGbTd4rA09A 
+Video length: 	268.1 sec 
+Set (V): 		dev 
+ 
+Charlie_Day/KGbTd4rA09A_0000001 105.6 118.5 
+Charlie_Day/KGbTd4rA09A_0000002 119.9 124.0 

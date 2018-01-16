@@ -1,0 +1,7 @@
+POI: 			Kate_Mulgrew 
+Youtube ID: 	gjhhc_lr-3E 
+Video length: 	148.3 sec 
+Set (V): 		dev 
+ 
+Kate_Mulgrew/gjhhc_lr-3E_0000001 30.6 34.7 
+Kate_Mulgrew/gjhhc_lr-3E_0000002 97.1 103.0 

@@ -1,0 +1,15 @@
+POI: 			Richard_Madden 
+Youtube ID: 	2qctGWGchvc 
+Video length: 	842.4 sec 
+Set (V): 		dev 
+ 
+Richard_Madden/2qctGWGchvc_0000001 227.9 234.3 
+Richard_Madden/2qctGWGchvc_0000002 234.7 246.5 
+Richard_Madden/2qctGWGchvc_0000003 264.0 269.3 
+Richard_Madden/2qctGWGchvc_0000004 269.7 276.8 
+Richard_Madden/2qctGWGchvc_0000005 279.2 283.3 
+Richard_Madden/2qctGWGchvc_0000006 283.6 290.5 
+Richard_Madden/2qctGWGchvc_0000007 347.8 353.3 
+Richard_Madden/2qctGWGchvc_0000008 354.3 362.0 
+Richard_Madden/2qctGWGchvc_0000009 373.9 381.1 
+Richard_Madden/2qctGWGchvc_0000010 381.5 399.2 

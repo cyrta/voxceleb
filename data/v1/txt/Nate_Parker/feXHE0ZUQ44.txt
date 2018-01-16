@@ -1,0 +1,14 @@
+POI: 			Nate_Parker 
+Youtube ID: 	feXHE0ZUQ44 
+Video length: 	354.9 sec 
+Set (V): 		dev 
+ 
+Nate_Parker/feXHE0ZUQ44_0000001 66.5 85.6 
+Nate_Parker/feXHE0ZUQ44_0000002 86.5 109.0 
+Nate_Parker/feXHE0ZUQ44_0000003 110.1 117.5 
+Nate_Parker/feXHE0ZUQ44_0000004 118.8 131.0 
+Nate_Parker/feXHE0ZUQ44_0000005 131.5 136.1 
+Nate_Parker/feXHE0ZUQ44_0000006 136.8 142.6 
+Nate_Parker/feXHE0ZUQ44_0000007 238.8 245.3 
+Nate_Parker/feXHE0ZUQ44_0000008 245.4 292.2 
+Nate_Parker/feXHE0ZUQ44_0000009 301.3 336.4 

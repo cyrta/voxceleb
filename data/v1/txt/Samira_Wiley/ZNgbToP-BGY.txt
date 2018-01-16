@@ -1,0 +1,10 @@
+POI: 			Samira_Wiley 
+Youtube ID: 	ZNgbToP-BGY 
+Video length: 	277.9 sec 
+Set (V): 		dev 
+ 
+Samira_Wiley/ZNgbToP-BGY_0000001 89.2 94.0 
+Samira_Wiley/ZNgbToP-BGY_0000002 94.3 100.0 
+Samira_Wiley/ZNgbToP-BGY_0000003 102.5 108.2 
+Samira_Wiley/ZNgbToP-BGY_0000004 110.4 117.6 
+Samira_Wiley/ZNgbToP-BGY_0000005 153.2 157.3 

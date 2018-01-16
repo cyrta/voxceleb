@@ -1,0 +1,11 @@
+POI: 			Steven_Berkoff 
+Youtube ID: 	0hQYDwSjLyU 
+Video length: 	125.1 sec 
+Set (V): 		dev 
+ 
+Steven_Berkoff/0hQYDwSjLyU_0000001 09.2 17.4 
+Steven_Berkoff/0hQYDwSjLyU_0000002 26.9 34.4 
+Steven_Berkoff/0hQYDwSjLyU_0000003 65.3 78.7 
+Steven_Berkoff/0hQYDwSjLyU_0000004 85.3 90.3 
+Steven_Berkoff/0hQYDwSjLyU_0000005 91.2 98.3 
+Steven_Berkoff/0hQYDwSjLyU_0000006 111.5 120.8 

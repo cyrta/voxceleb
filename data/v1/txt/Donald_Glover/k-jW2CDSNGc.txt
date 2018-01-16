@@ -1,0 +1,13 @@
+POI: 			Donald_Glover 
+Youtube ID: 	k-jW2CDSNGc 
+Video length: 	302.7 sec 
+Set (V): 		dev 
+ 
+Donald_Glover/k-jW2CDSNGc_0000001 53.0 62.1 
+Donald_Glover/k-jW2CDSNGc_0000002 69.3 74.0 
+Donald_Glover/k-jW2CDSNGc_0000003 143.6 147.6 
+Donald_Glover/k-jW2CDSNGc_0000004 151.4 157.4 
+Donald_Glover/k-jW2CDSNGc_0000005 177.0 189.7 
+Donald_Glover/k-jW2CDSNGc_0000006 214.9 226.1 
+Donald_Glover/k-jW2CDSNGc_0000007 240.4 244.7 
+Donald_Glover/k-jW2CDSNGc_0000008 257.3 263.9 

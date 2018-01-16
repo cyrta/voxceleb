@@ -1,0 +1,7 @@
+POI: 			Nicole_Scherzinger 
+Youtube ID: 	CLTQ2dyTYoI 
+Video length: 	226.5 sec 
+Set (V): 		dev 
+ 
+Nicole_Scherzinger/CLTQ2dyTYoI_0000001 117.9 126.9 
+Nicole_Scherzinger/CLTQ2dyTYoI_0000002 141.8 146.4 

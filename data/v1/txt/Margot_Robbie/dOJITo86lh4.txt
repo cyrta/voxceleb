@@ -1,0 +1,10 @@
+POI: 			Margot_Robbie 
+Youtube ID: 	dOJITo86lh4 
+Video length: 	323.3 sec 
+Set (V): 		dev 
+ 
+Margot_Robbie/dOJITo86lh4_0000001 87.2 91.2 
+Margot_Robbie/dOJITo86lh4_0000002 165.2 175.0 
+Margot_Robbie/dOJITo86lh4_0000003 254.6 262.0 
+Margot_Robbie/dOJITo86lh4_0000004 262.6 268.8 
+Margot_Robbie/dOJITo86lh4_0000005 296.2 300.3 

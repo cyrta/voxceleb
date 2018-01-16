@@ -1,0 +1,11 @@
+POI: 			Kevin_McHale 
+Youtube ID: 	K8n5QaTfmUk 
+Video length: 	242.2 sec 
+Set (V): 		dev 
+ 
+Kevin_McHale/K8n5QaTfmUk_0000001 33.4 47.7 
+Kevin_McHale/K8n5QaTfmUk_0000002 82.7 99.2 
+Kevin_McHale/K8n5QaTfmUk_0000003 109.6 115.8 
+Kevin_McHale/K8n5QaTfmUk_0000004 116.0 126.6 
+Kevin_McHale/K8n5QaTfmUk_0000005 228.0 232.4 
+Kevin_McHale/K8n5QaTfmUk_0000006 233.4 237.7 

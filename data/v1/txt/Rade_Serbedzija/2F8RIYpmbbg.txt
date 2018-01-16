@@ -1,0 +1,26 @@
+POI: 			Rade_Serbedzija 
+Youtube ID: 	2F8RIYpmbbg 
+Video length: 	1393.4 sec 
+Set (V): 		dev 
+ 
+Rade_Serbedzija/2F8RIYpmbbg_0000001 43.4 47.5 
+Rade_Serbedzija/2F8RIYpmbbg_0000002 50.2 55.5 
+Rade_Serbedzija/2F8RIYpmbbg_0000003 56.4 61.3 
+Rade_Serbedzija/2F8RIYpmbbg_0000004 66.5 71.4 
+Rade_Serbedzija/2F8RIYpmbbg_0000005 115.4 119.8 
+Rade_Serbedzija/2F8RIYpmbbg_0000006 166.6 172.5 
+Rade_Serbedzija/2F8RIYpmbbg_0000007 178.3 185.0 
+Rade_Serbedzija/2F8RIYpmbbg_0000008 210.7 214.8 
+Rade_Serbedzija/2F8RIYpmbbg_0000009 229.4 233.9 
+Rade_Serbedzija/2F8RIYpmbbg_0000010 377.6 382.0 
+Rade_Serbedzija/2F8RIYpmbbg_0000011 395.5 403.3 
+Rade_Serbedzija/2F8RIYpmbbg_0000012 403.9 408.1 
+Rade_Serbedzija/2F8RIYpmbbg_0000013 459.3 464.7 
+Rade_Serbedzija/2F8RIYpmbbg_0000014 470.8 476.1 
+Rade_Serbedzija/2F8RIYpmbbg_0000015 492.8 496.8 
+Rade_Serbedzija/2F8RIYpmbbg_0000016 516.8 521.6 
+Rade_Serbedzija/2F8RIYpmbbg_0000017 522.7 527.9 
+Rade_Serbedzija/2F8RIYpmbbg_0000018 555.0 561.2 
+Rade_Serbedzija/2F8RIYpmbbg_0000019 777.6 783.7 
+Rade_Serbedzija/2F8RIYpmbbg_0000020 912.9 918.2 
+Rade_Serbedzija/2F8RIYpmbbg_0000021 1023.6 1027.6 

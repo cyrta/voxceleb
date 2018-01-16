@@ -1,0 +1,22 @@
+POI: 			Mariel_Hemingway 
+Youtube ID: 	rOjzriDO1S0 
+Video length: 	302.6 sec 
+Set (V): 		dev 
+ 
+Mariel_Hemingway/rOjzriDO1S0_0000001 10.8 18.6 
+Mariel_Hemingway/rOjzriDO1S0_0000002 20.4 27.5 
+Mariel_Hemingway/rOjzriDO1S0_0000003 35.1 44.0 
+Mariel_Hemingway/rOjzriDO1S0_0000004 50.7 55.1 
+Mariel_Hemingway/rOjzriDO1S0_0000005 58.8 63.2 
+Mariel_Hemingway/rOjzriDO1S0_0000006 64.2 69.4 
+Mariel_Hemingway/rOjzriDO1S0_0000007 70.4 75.9 
+Mariel_Hemingway/rOjzriDO1S0_0000008 81.1 86.4 
+Mariel_Hemingway/rOjzriDO1S0_0000009 92.3 97.6 
+Mariel_Hemingway/rOjzriDO1S0_0000010 102.6 107.8 
+Mariel_Hemingway/rOjzriDO1S0_0000011 111.8 118.4 
+Mariel_Hemingway/rOjzriDO1S0_0000012 120.4 128.0 
+Mariel_Hemingway/rOjzriDO1S0_0000013 154.7 166.4 
+Mariel_Hemingway/rOjzriDO1S0_0000014 175.0 180.0 
+Mariel_Hemingway/rOjzriDO1S0_0000015 219.7 231.0 
+Mariel_Hemingway/rOjzriDO1S0_0000016 243.5 257.4 
+Mariel_Hemingway/rOjzriDO1S0_0000017 276.1 281.4 

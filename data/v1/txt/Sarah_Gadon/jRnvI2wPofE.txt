@@ -1,0 +1,23 @@
+POI: 			Sarah_Gadon 
+Youtube ID: 	jRnvI2wPofE 
+Video length: 	304.0 sec 
+Set (V): 		dev 
+ 
+Sarah_Gadon/jRnvI2wPofE_0000001 05.4 09.9 
+Sarah_Gadon/jRnvI2wPofE_0000002 16.5 21.8 
+Sarah_Gadon/jRnvI2wPofE_0000003 23.7 28.8 
+Sarah_Gadon/jRnvI2wPofE_0000004 31.9 44.2 
+Sarah_Gadon/jRnvI2wPofE_0000005 47.5 58.9 
+Sarah_Gadon/jRnvI2wPofE_0000006 59.2 64.4 
+Sarah_Gadon/jRnvI2wPofE_0000007 76.1 93.0 
+Sarah_Gadon/jRnvI2wPofE_0000008 93.3 110.3 
+Sarah_Gadon/jRnvI2wPofE_0000009 116.7 121.1 
+Sarah_Gadon/jRnvI2wPofE_0000010 122.5 128.9 
+Sarah_Gadon/jRnvI2wPofE_0000011 131.8 141.6 
+Sarah_Gadon/jRnvI2wPofE_0000012 144.0 149.4 
+Sarah_Gadon/jRnvI2wPofE_0000013 151.0 157.4 
+Sarah_Gadon/jRnvI2wPofE_0000014 158.4 166.0 
+Sarah_Gadon/jRnvI2wPofE_0000015 167.6 196.2 
+Sarah_Gadon/jRnvI2wPofE_0000016 213.5 219.8 
+Sarah_Gadon/jRnvI2wPofE_0000017 226.5 231.5 
+Sarah_Gadon/jRnvI2wPofE_0000018 238.7 247.3 

@@ -1,0 +1,9 @@
+POI: 			Kate_Flannery 
+Youtube ID: 	7VW6w_Uz_kg 
+Video length: 	156.5 sec 
+Set (V): 		dev 
+ 
+Kate_Flannery/7VW6w_Uz_kg_0000001 06.2 10.8 
+Kate_Flannery/7VW6w_Uz_kg_0000002 14.6 20.2 
+Kate_Flannery/7VW6w_Uz_kg_0000003 21.7 36.8 
+Kate_Flannery/7VW6w_Uz_kg_0000004 101.5 105.8 

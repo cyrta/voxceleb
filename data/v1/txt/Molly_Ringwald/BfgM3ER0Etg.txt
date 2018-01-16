@@ -1,0 +1,20 @@
+POI: 			Molly_Ringwald 
+Youtube ID: 	BfgM3ER0Etg 
+Video length: 	398.0 sec 
+Set (V): 		dev 
+ 
+Molly_Ringwald/BfgM3ER0Etg_0000001 39.8 44.6 
+Molly_Ringwald/BfgM3ER0Etg_0000002 49.8 89.4 
+Molly_Ringwald/BfgM3ER0Etg_0000003 91.8 105.8 
+Molly_Ringwald/BfgM3ER0Etg_0000004 115.6 122.0 
+Molly_Ringwald/BfgM3ER0Etg_0000005 124.4 139.6 
+Molly_Ringwald/BfgM3ER0Etg_0000006 146.8 153.1 
+Molly_Ringwald/BfgM3ER0Etg_0000007 155.5 169.0 
+Molly_Ringwald/BfgM3ER0Etg_0000008 172.5 177.4 
+Molly_Ringwald/BfgM3ER0Etg_0000009 186.4 194.5 
+Molly_Ringwald/BfgM3ER0Etg_0000010 197.0 201.0 
+Molly_Ringwald/BfgM3ER0Etg_0000011 205.4 227.6 
+Molly_Ringwald/BfgM3ER0Etg_0000012 233.7 252.0 
+Molly_Ringwald/BfgM3ER0Etg_0000013 254.7 259.0 
+Molly_Ringwald/BfgM3ER0Etg_0000014 259.7 270.1 
+Molly_Ringwald/BfgM3ER0Etg_0000015 281.8 302.8 

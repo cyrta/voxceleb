@@ -1,0 +1,15 @@
+POI: 			Chris_Martin 
+Youtube ID: 	uyf9ULOqyp0 
+Video length: 	1010.8 sec 
+Set (V): 		dev 
+ 
+Chris_Martin/uyf9ULOqyp0_0000001 352.9 364.0 
+Chris_Martin/uyf9ULOqyp0_0000002 366.1 378.3 
+Chris_Martin/uyf9ULOqyp0_0000003 384.4 388.4 
+Chris_Martin/uyf9ULOqyp0_0000004 391.8 395.8 
+Chris_Martin/uyf9ULOqyp0_0000005 549.8 554.1 
+Chris_Martin/uyf9ULOqyp0_0000006 589.4 593.4 
+Chris_Martin/uyf9ULOqyp0_0000007 722.3 731.6 
+Chris_Martin/uyf9ULOqyp0_0000008 739.0 743.0 
+Chris_Martin/uyf9ULOqyp0_0000009 750.0 759.6 
+Chris_Martin/uyf9ULOqyp0_0000010 759.9 768.8 

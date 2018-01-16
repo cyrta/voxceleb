@@ -1,0 +1,15 @@
+POI: 			Chris_Messina 
+Youtube ID: 	3HtCjGNERKQ 
+Video length: 	298.0 sec 
+Set (V): 		dev 
+ 
+Chris_Messina/3HtCjGNERKQ_0000001 12.2 18.5 
+Chris_Messina/3HtCjGNERKQ_0000002 18.8 30.9 
+Chris_Messina/3HtCjGNERKQ_0000003 31.2 49.0 
+Chris_Messina/3HtCjGNERKQ_0000004 115.7 119.9 
+Chris_Messina/3HtCjGNERKQ_0000005 128.9 133.2 
+Chris_Messina/3HtCjGNERKQ_0000006 142.9 149.4 
+Chris_Messina/3HtCjGNERKQ_0000007 187.3 194.4 
+Chris_Messina/3HtCjGNERKQ_0000008 224.9 242.5 
+Chris_Messina/3HtCjGNERKQ_0000009 251.9 276.6 
+Chris_Messina/3HtCjGNERKQ_0000010 277.2 286.4 

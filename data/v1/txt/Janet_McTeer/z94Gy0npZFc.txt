@@ -1,0 +1,14 @@
+POI: 			Janet_McTeer 
+Youtube ID: 	z94Gy0npZFc 
+Video length: 	203.5 sec 
+Set (V): 		dev 
+ 
+Janet_McTeer/z94Gy0npZFc_0000001 28.7 38.0 
+Janet_McTeer/z94Gy0npZFc_0000002 41.7 54.9 
+Janet_McTeer/z94Gy0npZFc_0000003 66.3 74.7 
+Janet_McTeer/z94Gy0npZFc_0000004 47.7 54.8 
+Janet_McTeer/z94Gy0npZFc_0000005 120.4 129.5 
+Janet_McTeer/z94Gy0npZFc_0000006 140.7 149.7 
+Janet_McTeer/z94Gy0npZFc_0000007 150.2 155.1 
+Janet_McTeer/z94Gy0npZFc_0000008 157.7 162.4 
+Janet_McTeer/z94Gy0npZFc_0000009 176.5 186.6 

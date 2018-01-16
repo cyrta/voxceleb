@@ -1,0 +1,17 @@
+POI: 			Josh_Brolin 
+Youtube ID: 	EK-mIWZ1hWI 
+Video length: 	541.1 sec 
+Set (V): 		dev 
+ 
+Josh_Brolin/EK-mIWZ1hWI_0000001 41.4 46.7 
+Josh_Brolin/EK-mIWZ1hWI_0000002 50.0 54.6 
+Josh_Brolin/EK-mIWZ1hWI_0000003 55.6 61.4 
+Josh_Brolin/EK-mIWZ1hWI_0000004 50.5 55.1 
+Josh_Brolin/EK-mIWZ1hWI_0000005 68.5 83.8 
+Josh_Brolin/EK-mIWZ1hWI_0000006 93.4 98.6 
+Josh_Brolin/EK-mIWZ1hWI_0000007 153.6 167.6 
+Josh_Brolin/EK-mIWZ1hWI_0000008 169.6 184.5 
+Josh_Brolin/EK-mIWZ1hWI_0000009 361.0 365.3 
+Josh_Brolin/EK-mIWZ1hWI_0000010 377.5 384.0 
+Josh_Brolin/EK-mIWZ1hWI_0000011 388.2 393.0 
+Josh_Brolin/EK-mIWZ1hWI_0000012 397.5 402.6 

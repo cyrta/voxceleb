@@ -1,0 +1,11 @@
+POI: 			Andre_Braugher 
+Youtube ID: 	p5AJtU5gclc 
+Video length: 	191.8 sec 
+Set (V): 		dev 
+ 
+Andre_Braugher/p5AJtU5gclc_0000001 39.2 46.4 
+Andre_Braugher/p5AJtU5gclc_0000002 50.9 70.4 
+Andre_Braugher/p5AJtU5gclc_0000003 70.6 77.9 
+Andre_Braugher/p5AJtU5gclc_0000004 104.4 116.3 
+Andre_Braugher/p5AJtU5gclc_0000005 109.0 114.1 
+Andre_Braugher/p5AJtU5gclc_0000006 142.3 149.4 

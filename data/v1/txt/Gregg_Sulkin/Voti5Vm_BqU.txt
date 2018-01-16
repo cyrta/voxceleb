@@ -1,0 +1,9 @@
+POI: 			Gregg_Sulkin 
+Youtube ID: 	Voti5Vm_BqU 
+Video length: 	189.3 sec 
+Set (V): 		dev 
+ 
+Gregg_Sulkin/Voti5Vm_BqU_0000001 103.7 108.1 
+Gregg_Sulkin/Voti5Vm_BqU_0000002 133.6 138.2 
+Gregg_Sulkin/Voti5Vm_BqU_0000003 165.4 170.6 
+Gregg_Sulkin/Voti5Vm_BqU_0000004 173.9 184.4 

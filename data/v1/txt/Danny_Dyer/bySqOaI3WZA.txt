@@ -1,0 +1,9 @@
+POI: 			Danny_Dyer 
+Youtube ID: 	bySqOaI3WZA 
+Video length: 	445.3 sec 
+Set (V): 		dev 
+ 
+Danny_Dyer/bySqOaI3WZA_0000001 30.8 36.1 
+Danny_Dyer/bySqOaI3WZA_0000002 83.5 88.2 
+Danny_Dyer/bySqOaI3WZA_0000003 340.9 345.4 
+Danny_Dyer/bySqOaI3WZA_0000004 361.0 365.4 

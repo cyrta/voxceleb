@@ -1,0 +1,7 @@
+POI: 			Dan_Fogler 
+Youtube ID: 	RrpShuuKEV8 
+Video length: 	251.0 sec 
+Set (V): 		dev 
+ 
+Dan_Fogler/RrpShuuKEV8_0000001 100.2 107.7 
+Dan_Fogler/RrpShuuKEV8_0000002 108.5 114.0 

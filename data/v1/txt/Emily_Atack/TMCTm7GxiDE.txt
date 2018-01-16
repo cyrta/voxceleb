@@ -1,0 +1,15 @@
+POI: 			Emily_Atack 
+Youtube ID: 	TMCTm7GxiDE 
+Video length: 	231.8 sec 
+Set (V): 		test 
+ 
+Emily_Atack/TMCTm7GxiDE_0000001 07.2 18.6 
+Emily_Atack/TMCTm7GxiDE_0000002 21.1 28.2 
+Emily_Atack/TMCTm7GxiDE_0000003 37.5 62.6 
+Emily_Atack/TMCTm7GxiDE_0000004 69.3 83.2 
+Emily_Atack/TMCTm7GxiDE_0000005 103.8 116.0 
+Emily_Atack/TMCTm7GxiDE_0000006 107.4 111.8 
+Emily_Atack/TMCTm7GxiDE_0000007 118.4 129.0 
+Emily_Atack/TMCTm7GxiDE_0000008 138.4 143.2 
+Emily_Atack/TMCTm7GxiDE_0000009 176.0 181.6 
+Emily_Atack/TMCTm7GxiDE_0000010 215.8 226.0 

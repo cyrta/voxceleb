@@ -1,0 +1,14 @@
+POI: 			Michelle_Dockery 
+Youtube ID: 	qpEPc2KJNjc 
+Video length: 	2644.9 sec 
+Set (V): 		dev 
+ 
+Michelle_Dockery/qpEPc2KJNjc_0000001 125.7 130.2 
+Michelle_Dockery/qpEPc2KJNjc_0000002 247.0 250.9 
+Michelle_Dockery/qpEPc2KJNjc_0000003 254.2 260.9 
+Michelle_Dockery/qpEPc2KJNjc_0000004 631.3 638.4 
+Michelle_Dockery/qpEPc2KJNjc_0000005 654.4 663.0 
+Michelle_Dockery/qpEPc2KJNjc_0000006 667.0 672.3 
+Michelle_Dockery/qpEPc2KJNjc_0000007 673.4 681.7 
+Michelle_Dockery/qpEPc2KJNjc_0000008 2085.3 2094.1 
+Michelle_Dockery/qpEPc2KJNjc_0000009 2579.6 2584.6 

@@ -1,0 +1,12 @@
+POI: 			Michael_Cera 
+Youtube ID: 	eUP09A1lg0E 
+Video length: 	575.1 sec 
+Set (V): 		dev 
+ 
+Michael_Cera/eUP09A1lg0E_0000001 45.8 52.0 
+Michael_Cera/eUP09A1lg0E_0000002 52.8 56.9 
+Michael_Cera/eUP09A1lg0E_0000003 125.4 130.2 
+Michael_Cera/eUP09A1lg0E_0000004 134.7 139.0 
+Michael_Cera/eUP09A1lg0E_0000005 139.9 146.2 
+Michael_Cera/eUP09A1lg0E_0000006 146.3 151.8 
+Michael_Cera/eUP09A1lg0E_0000007 314.3 318.3 

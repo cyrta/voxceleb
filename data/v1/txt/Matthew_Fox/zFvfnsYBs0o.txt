@@ -1,0 +1,8 @@
+POI: 			Matthew_Fox 
+Youtube ID: 	zFvfnsYBs0o 
+Video length: 	593.6 sec 
+Set (V): 		dev 
+ 
+Matthew_Fox/zFvfnsYBs0o_0000001 53.8 62.2 
+Matthew_Fox/zFvfnsYBs0o_0000002 142.8 146.8 
+Matthew_Fox/zFvfnsYBs0o_0000003 413.9 419.1 

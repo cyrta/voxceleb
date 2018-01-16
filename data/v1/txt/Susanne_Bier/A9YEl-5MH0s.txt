@@ -1,0 +1,8 @@
+POI: 			Susanne_Bier 
+Youtube ID: 	A9YEl-5MH0s 
+Video length: 	48.9 sec 
+Set (V): 		dev 
+ 
+Susanne_Bier/A9YEl-5MH0s_0000001 10.6 16.7 
+Susanne_Bier/A9YEl-5MH0s_0000002 21.6 26.9 
+Susanne_Bier/A9YEl-5MH0s_0000003 27.3 33.8 

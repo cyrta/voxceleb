@@ -1,0 +1,10 @@
+POI: 			Peter_Capaldi 
+Youtube ID: 	OIsyWh4cFVA 
+Video length: 	293.6 sec 
+Set (V): 		dev 
+ 
+Peter_Capaldi/OIsyWh4cFVA_0000001 65.2 70.6 
+Peter_Capaldi/OIsyWh4cFVA_0000002 113.8 118.6 
+Peter_Capaldi/OIsyWh4cFVA_0000003 181.8 186.5 
+Peter_Capaldi/OIsyWh4cFVA_0000004 188.4 193.4 
+Peter_Capaldi/OIsyWh4cFVA_0000005 251.9 259.4 

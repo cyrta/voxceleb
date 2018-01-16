@@ -1,0 +1,8 @@
+POI: 			Cliff_Curtis 
+Youtube ID: 	KA1jCGwdxn4 
+Video length: 	276.9 sec 
+Set (V): 		dev 
+ 
+Cliff_Curtis/KA1jCGwdxn4_0000001 84.7 93.4 
+Cliff_Curtis/KA1jCGwdxn4_0000002 94.0 107.1 
+Cliff_Curtis/KA1jCGwdxn4_0000003 193.2 213.0 

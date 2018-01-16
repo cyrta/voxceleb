@@ -1,0 +1,10 @@
+POI: 			Rachel_Dratch 
+Youtube ID: 	bAb3d5xss1M 
+Video length: 	559.2 sec 
+Set (V): 		dev 
+ 
+Rachel_Dratch/bAb3d5xss1M_0000001 233.6 244.8 
+Rachel_Dratch/bAb3d5xss1M_0000002 266.1 272.2 
+Rachel_Dratch/bAb3d5xss1M_0000003 293.3 298.5 
+Rachel_Dratch/bAb3d5xss1M_0000004 309.2 313.2 
+Rachel_Dratch/bAb3d5xss1M_0000005 423.5 435.8 

@@ -1,0 +1,8 @@
+POI: 			Carrie_Underwood 
+Youtube ID: 	m12HTgY-Z2Y 
+Video length: 	151.0 sec 
+Set (V): 		dev 
+ 
+Carrie_Underwood/m12HTgY-Z2Y_0000001 41.3 45.4 
+Carrie_Underwood/m12HTgY-Z2Y_0000002 56.4 64.7 
+Carrie_Underwood/m12HTgY-Z2Y_0000003 95.8 102.2 

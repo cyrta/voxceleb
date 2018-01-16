@@ -1,0 +1,12 @@
+POI: 			Pablo_Schreiber 
+Youtube ID: 	K1WZZyTytGU 
+Video length: 	384.4 sec 
+Set (V): 		dev 
+ 
+Pablo_Schreiber/K1WZZyTytGU_0000001 80.4 87.1 
+Pablo_Schreiber/K1WZZyTytGU_0000002 88.9 109.2 
+Pablo_Schreiber/K1WZZyTytGU_0000003 109.3 121.0 
+Pablo_Schreiber/K1WZZyTytGU_0000004 218.2 228.1 
+Pablo_Schreiber/K1WZZyTytGU_0000005 228.5 251.4 
+Pablo_Schreiber/K1WZZyTytGU_0000006 291.1 312.5 
+Pablo_Schreiber/K1WZZyTytGU_0000007 314.5 320.6 

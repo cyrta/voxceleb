@@ -1,0 +1,11 @@
+POI: 			Jack_Reynor 
+Youtube ID: 	AwNym48WkdU 
+Video length: 	107.7 sec 
+Set (V): 		dev 
+ 
+Jack_Reynor/AwNym48WkdU_0000001 06.3 11.3 
+Jack_Reynor/AwNym48WkdU_0000002 42.0 47.3 
+Jack_Reynor/AwNym48WkdU_0000003 58.8 63.3 
+Jack_Reynor/AwNym48WkdU_0000004 70.8 75.8 
+Jack_Reynor/AwNym48WkdU_0000005 78.3 85.7 
+Jack_Reynor/AwNym48WkdU_0000006 89.0 104.4 

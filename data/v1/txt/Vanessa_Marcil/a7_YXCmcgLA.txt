@@ -1,0 +1,14 @@
+POI: 			Vanessa_Marcil 
+Youtube ID: 	a7_YXCmcgLA 
+Video length: 	549.7 sec 
+Set (V): 		dev 
+ 
+Vanessa_Marcil/a7_YXCmcgLA_0000001 228.0 240.2 
+Vanessa_Marcil/a7_YXCmcgLA_0000002 240.4 247.3 
+Vanessa_Marcil/a7_YXCmcgLA_0000003 249.4 255.2 
+Vanessa_Marcil/a7_YXCmcgLA_0000004 259.3 267.2 
+Vanessa_Marcil/a7_YXCmcgLA_0000005 291.5 296.6 
+Vanessa_Marcil/a7_YXCmcgLA_0000006 345.7 354.0 
+Vanessa_Marcil/a7_YXCmcgLA_0000007 430.6 436.7 
+Vanessa_Marcil/a7_YXCmcgLA_0000008 438.9 444.6 
+Vanessa_Marcil/a7_YXCmcgLA_0000009 446.6 454.9 

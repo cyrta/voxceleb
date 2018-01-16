@@ -1,0 +1,10 @@
+POI: 			Meghan_Trainor 
+Youtube ID: 	K_kMfHoyj28 
+Video length: 	483.4 sec 
+Set (V): 		dev 
+ 
+Meghan_Trainor/K_kMfHoyj28_0000001 57.8 62.7 
+Meghan_Trainor/K_kMfHoyj28_0000002 128.8 134.3 
+Meghan_Trainor/K_kMfHoyj28_0000003 141.1 146.9 
+Meghan_Trainor/K_kMfHoyj28_0000004 256.2 263.2 
+Meghan_Trainor/K_kMfHoyj28_0000005 430.1 434.8 

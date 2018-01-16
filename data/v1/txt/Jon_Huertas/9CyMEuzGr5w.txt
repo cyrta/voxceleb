@@ -1,0 +1,11 @@
+POI: 			Jon_Huertas 
+Youtube ID: 	9CyMEuzGr5w 
+Video length: 	118.7 sec 
+Set (V): 		dev 
+ 
+Jon_Huertas/9CyMEuzGr5w_0000001 01.8 07.2 
+Jon_Huertas/9CyMEuzGr5w_0000002 07.9 12.9 
+Jon_Huertas/9CyMEuzGr5w_0000003 14.3 20.0 
+Jon_Huertas/9CyMEuzGr5w_0000004 51.2 55.5 
+Jon_Huertas/9CyMEuzGr5w_0000005 81.4 88.7 
+Jon_Huertas/9CyMEuzGr5w_0000006 106.3 112.8 

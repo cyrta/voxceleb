@@ -1,0 +1,15 @@
+POI: 			Matthew_Morrison 
+Youtube ID: 	Ey9BFZlkWyE 
+Video length: 	174.3 sec 
+Set (V): 		dev 
+ 
+Matthew_Morrison/Ey9BFZlkWyE_0000001 52.5 56.9 
+Matthew_Morrison/Ey9BFZlkWyE_0000002 59.9 73.1 
+Matthew_Morrison/Ey9BFZlkWyE_0000003 73.6 79.0 
+Matthew_Morrison/Ey9BFZlkWyE_0000004 79.9 88.2 
+Matthew_Morrison/Ey9BFZlkWyE_0000005 100.9 111.3 
+Matthew_Morrison/Ey9BFZlkWyE_0000006 117.8 130.3 
+Matthew_Morrison/Ey9BFZlkWyE_0000007 131.3 138.4 
+Matthew_Morrison/Ey9BFZlkWyE_0000008 141.8 145.9 
+Matthew_Morrison/Ey9BFZlkWyE_0000009 149.3 154.5 
+Matthew_Morrison/Ey9BFZlkWyE_0000010 159.2 167.2 

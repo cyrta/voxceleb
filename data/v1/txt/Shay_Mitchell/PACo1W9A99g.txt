@@ -1,0 +1,10 @@
+POI: 			Shay_Mitchell 
+Youtube ID: 	PACo1W9A99g 
+Video length: 	375.2 sec 
+Set (V): 		dev 
+ 
+Shay_Mitchell/PACo1W9A99g_0000001 71.5 78.2 
+Shay_Mitchell/PACo1W9A99g_0000002 134.4 144.6 
+Shay_Mitchell/PACo1W9A99g_0000003 169.9 181.8 
+Shay_Mitchell/PACo1W9A99g_0000004 301.8 309.7 
+Shay_Mitchell/PACo1W9A99g_0000005 310.3 321.6 

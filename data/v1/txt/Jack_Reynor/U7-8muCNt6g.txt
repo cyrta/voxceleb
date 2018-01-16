@@ -1,0 +1,24 @@
+POI: 			Jack_Reynor 
+Youtube ID: 	U7-8muCNt6g 
+Video length: 	435.0 sec 
+Set (V): 		dev 
+ 
+Jack_Reynor/U7-8muCNt6g_0000001 07.7 14.5 
+Jack_Reynor/U7-8muCNt6g_0000002 22.9 30.4 
+Jack_Reynor/U7-8muCNt6g_0000003 90.6 102.6 
+Jack_Reynor/U7-8muCNt6g_0000004 104.5 109.6 
+Jack_Reynor/U7-8muCNt6g_0000005 111.4 125.4 
+Jack_Reynor/U7-8muCNt6g_0000006 125.8 129.9 
+Jack_Reynor/U7-8muCNt6g_0000007 157.0 166.5 
+Jack_Reynor/U7-8muCNt6g_0000008 172.7 179.8 
+Jack_Reynor/U7-8muCNt6g_0000009 198.1 203.2 
+Jack_Reynor/U7-8muCNt6g_0000010 210.2 216.8 
+Jack_Reynor/U7-8muCNt6g_0000011 237.2 243.8 
+Jack_Reynor/U7-8muCNt6g_0000012 252.3 258.2 
+Jack_Reynor/U7-8muCNt6g_0000013 265.4 274.6 
+Jack_Reynor/U7-8muCNt6g_0000014 287.8 293.0 
+Jack_Reynor/U7-8muCNt6g_0000015 306.2 311.4 
+Jack_Reynor/U7-8muCNt6g_0000016 314.4 318.9 
+Jack_Reynor/U7-8muCNt6g_0000017 337.1 344.8 
+Jack_Reynor/U7-8muCNt6g_0000018 382.5 401.9 
+Jack_Reynor/U7-8muCNt6g_0000019 402.1 409.0 

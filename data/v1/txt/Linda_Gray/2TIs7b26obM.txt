@@ -1,0 +1,14 @@
+POI: 			Linda_Gray 
+Youtube ID: 	2TIs7b26obM 
+Video length: 	458.6 sec 
+Set (V): 		dev 
+ 
+Linda_Gray/2TIs7b26obM_0000001 109.4 117.1 
+Linda_Gray/2TIs7b26obM_0000002 159.4 166.5 
+Linda_Gray/2TIs7b26obM_0000003 171.5 176.8 
+Linda_Gray/2TIs7b26obM_0000004 182.0 191.6 
+Linda_Gray/2TIs7b26obM_0000005 227.8 232.7 
+Linda_Gray/2TIs7b26obM_0000006 237.4 242.1 
+Linda_Gray/2TIs7b26obM_0000007 340.2 348.4 
+Linda_Gray/2TIs7b26obM_0000008 354.6 358.8 
+Linda_Gray/2TIs7b26obM_0000009 369.6 374.0 

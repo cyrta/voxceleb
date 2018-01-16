@@ -1,0 +1,9 @@
+POI: 			Josh_Radnor 
+Youtube ID: 	mIBmLTflrmw 
+Video length: 	331.9 sec 
+Set (V): 		dev 
+ 
+Josh_Radnor/mIBmLTflrmw_0000001 39.2 43.5 
+Josh_Radnor/mIBmLTflrmw_0000002 85.6 91.2 
+Josh_Radnor/mIBmLTflrmw_0000003 244.4 249.5 
+Josh_Radnor/mIBmLTflrmw_0000004 261.9 268.0 

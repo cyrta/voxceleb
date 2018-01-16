@@ -1,0 +1,12 @@
+POI: 			Jeremy_Clarkson 
+Youtube ID: 	r_2ZsMFY0fg 
+Video length: 	255.8 sec 
+Set (V): 		dev 
+ 
+Jeremy_Clarkson/r_2ZsMFY0fg_0000001 24.3 31.6 
+Jeremy_Clarkson/r_2ZsMFY0fg_0000002 39.9 47.3 
+Jeremy_Clarkson/r_2ZsMFY0fg_0000003 86.1 92.3 
+Jeremy_Clarkson/r_2ZsMFY0fg_0000004 202.4 209.1 
+Jeremy_Clarkson/r_2ZsMFY0fg_0000005 216.7 221.8 
+Jeremy_Clarkson/r_2ZsMFY0fg_0000006 230.3 236.2 
+Jeremy_Clarkson/r_2ZsMFY0fg_0000007 236.2 244.3 

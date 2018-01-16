@@ -1,0 +1,7 @@
+POI: 			Lisa_Kudrow 
+Youtube ID: 	n-SHWsKqnKM 
+Video length: 	457.6 sec 
+Set (V): 		dev 
+ 
+Lisa_Kudrow/n-SHWsKqnKM_0000001 351.0 356.0 
+Lisa_Kudrow/n-SHWsKqnKM_0000002 364.8 369.4 

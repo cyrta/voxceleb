@@ -1,0 +1,10 @@
+POI: 			Hans_Zimmer 
+Youtube ID: 	83oKG3W58ik 
+Video length: 	893.7 sec 
+Set (V): 		dev 
+ 
+Hans_Zimmer/83oKG3W58ik_0000001 363.8 373.3 
+Hans_Zimmer/83oKG3W58ik_0000002 476.4 480.4 
+Hans_Zimmer/83oKG3W58ik_0000003 481.4 486.4 
+Hans_Zimmer/83oKG3W58ik_0000004 862.6 868.3 
+Hans_Zimmer/83oKG3W58ik_0000005 868.8 873.6 

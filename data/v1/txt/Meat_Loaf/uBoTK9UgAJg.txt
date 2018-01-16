@@ -1,0 +1,18 @@
+POI: 			Meat_Loaf 
+Youtube ID: 	uBoTK9UgAJg 
+Video length: 	363.5 sec 
+Set (V): 		dev 
+ 
+Meat_Loaf/uBoTK9UgAJg_0000001 14.4 22.4 
+Meat_Loaf/uBoTK9UgAJg_0000002 35.3 42.9 
+Meat_Loaf/uBoTK9UgAJg_0000003 54.4 59.6 
+Meat_Loaf/uBoTK9UgAJg_0000004 71.2 75.5 
+Meat_Loaf/uBoTK9UgAJg_0000005 85.5 95.1 
+Meat_Loaf/uBoTK9UgAJg_0000006 102.1 106.4 
+Meat_Loaf/uBoTK9UgAJg_0000007 106.6 111.7 
+Meat_Loaf/uBoTK9UgAJg_0000008 121.4 131.0 
+Meat_Loaf/uBoTK9UgAJg_0000009 140.7 145.1 
+Meat_Loaf/uBoTK9UgAJg_0000010 216.3 222.0 
+Meat_Loaf/uBoTK9UgAJg_0000011 222.6 229.4 
+Meat_Loaf/uBoTK9UgAJg_0000012 236.7 240.8 
+Meat_Loaf/uBoTK9UgAJg_0000013 330.0 338.4 

@@ -1,0 +1,9 @@
+POI: 			Jim_Sturgess 
+Youtube ID: 	TCSjqRz9Fx4 
+Video length: 	92.9 sec 
+Set (V): 		dev 
+ 
+Jim_Sturgess/TCSjqRz9Fx4_0000001 39.4 43.7 
+Jim_Sturgess/TCSjqRz9Fx4_0000002 57.8 62.5 
+Jim_Sturgess/TCSjqRz9Fx4_0000003 66.3 76.3 
+Jim_Sturgess/TCSjqRz9Fx4_0000004 77.1 88.2 

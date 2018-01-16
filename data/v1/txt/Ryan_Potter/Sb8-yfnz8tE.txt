@@ -1,0 +1,8 @@
+POI: 			Ryan_Potter 
+Youtube ID: 	Sb8-yfnz8tE 
+Video length: 	245.0 sec 
+Set (V): 		dev 
+ 
+Ryan_Potter/Sb8-yfnz8tE_0000001 59.6 68.0 
+Ryan_Potter/Sb8-yfnz8tE_0000002 73.4 85.1 
+Ryan_Potter/Sb8-yfnz8tE_0000003 85.8 97.7 

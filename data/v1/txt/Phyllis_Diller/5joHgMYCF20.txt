@@ -1,0 +1,12 @@
+POI: 			Phyllis_Diller 
+Youtube ID: 	5joHgMYCF20 
+Video length: 	404.6 sec 
+Set (V): 		dev 
+ 
+Phyllis_Diller/5joHgMYCF20_0000001 289.5 293.4 
+Phyllis_Diller/5joHgMYCF20_0000002 294.0 299.9 
+Phyllis_Diller/5joHgMYCF20_0000003 328.4 341.0 
+Phyllis_Diller/5joHgMYCF20_0000004 341.2 348.1 
+Phyllis_Diller/5joHgMYCF20_0000005 350.4 354.9 
+Phyllis_Diller/5joHgMYCF20_0000006 375.6 381.4 
+Phyllis_Diller/5joHgMYCF20_0000007 394.5 399.9 

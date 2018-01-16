@@ -1,0 +1,12 @@
+POI: 			Bobby_Cannavale 
+Youtube ID: 	fmcGvzR2Ur0 
+Video length: 	305.4 sec 
+Set (V): 		dev 
+ 
+Bobby_Cannavale/fmcGvzR2Ur0_0000001 22.5 27.2 
+Bobby_Cannavale/fmcGvzR2Ur0_0000002 45.9 63.7 
+Bobby_Cannavale/fmcGvzR2Ur0_0000003 70.4 87.4 
+Bobby_Cannavale/fmcGvzR2Ur0_0000004 104.5 112.4 
+Bobby_Cannavale/fmcGvzR2Ur0_0000005 121.0 128.0 
+Bobby_Cannavale/fmcGvzR2Ur0_0000006 129.1 142.2 
+Bobby_Cannavale/fmcGvzR2Ur0_0000007 142.5 155.2 

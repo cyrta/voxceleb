@@ -1,0 +1,11 @@
+POI: 			Ruth_Jones 
+Youtube ID: 	Asca3x3EBnA 
+Video length: 	249.0 sec 
+Set (V): 		dev 
+ 
+Ruth_Jones/Asca3x3EBnA_0000001 19.9 23.9 
+Ruth_Jones/Asca3x3EBnA_0000002 29.4 34.7 
+Ruth_Jones/Asca3x3EBnA_0000003 53.2 59.1 
+Ruth_Jones/Asca3x3EBnA_0000004 109.6 114.2 
+Ruth_Jones/Asca3x3EBnA_0000005 130.6 136.5 
+Ruth_Jones/Asca3x3EBnA_0000006 208.5 213.5 

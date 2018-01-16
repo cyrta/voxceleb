@@ -1,0 +1,11 @@
+POI: 			Eric_Braeden 
+Youtube ID: 	gETtCLtu1jA 
+Video length: 	744.1 sec 
+Set (V): 		test 
+ 
+Eric_Braeden/gETtCLtu1jA_0000001 49.9 56.0 
+Eric_Braeden/gETtCLtu1jA_0000002 375.0 379.2 
+Eric_Braeden/gETtCLtu1jA_0000003 566.7 571.4 
+Eric_Braeden/gETtCLtu1jA_0000004 601.0 607.2 
+Eric_Braeden/gETtCLtu1jA_0000005 653.6 658.3 
+Eric_Braeden/gETtCLtu1jA_0000006 698.0 703.7 

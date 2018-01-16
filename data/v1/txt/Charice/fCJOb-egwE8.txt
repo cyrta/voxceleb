@@ -1,0 +1,7 @@
+POI: 			Charice 
+Youtube ID: 	fCJOb-egwE8 
+Video length: 	140.0 sec 
+Set (V): 		dev 
+ 
+Charice/fCJOb-egwE8_0000001 36.2 41.5 
+Charice/fCJOb-egwE8_0000002 93.9 98.7 

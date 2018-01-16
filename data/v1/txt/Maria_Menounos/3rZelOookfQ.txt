@@ -1,0 +1,7 @@
+POI: 			Maria_Menounos 
+Youtube ID: 	3rZelOookfQ 
+Video length: 	220.0 sec 
+Set (V): 		dev 
+ 
+Maria_Menounos/3rZelOookfQ_0000001 104.4 112.0 
+Maria_Menounos/3rZelOookfQ_0000002 146.4 157.3 

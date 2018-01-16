@@ -1,0 +1,7 @@
+POI: 			Sam_Riley 
+Youtube ID: 	3ZH_VYhAHQk 
+Video length: 	130.0 sec 
+Set (V): 		dev 
+ 
+Sam_Riley/3ZH_VYhAHQk_0000001 35.3 40.8 
+Sam_Riley/3ZH_VYhAHQk_0000002 85.4 91.4 

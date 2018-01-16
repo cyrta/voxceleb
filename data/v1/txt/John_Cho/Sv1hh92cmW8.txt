@@ -1,0 +1,10 @@
+POI: 			John_Cho 
+Youtube ID: 	Sv1hh92cmW8 
+Video length: 	346.0 sec 
+Set (V): 		dev 
+ 
+John_Cho/Sv1hh92cmW8_0000001 115.4 126.5 
+John_Cho/Sv1hh92cmW8_0000002 202.7 208.5 
+John_Cho/Sv1hh92cmW8_0000003 208.9 214.0 
+John_Cho/Sv1hh92cmW8_0000004 215.9 224.3 
+John_Cho/Sv1hh92cmW8_0000005 225.1 235.6 

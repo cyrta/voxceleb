@@ -1,0 +1,9 @@
+POI: 			Tyler_Hoechlin 
+Youtube ID: 	me6FYq7-pi4 
+Video length: 	487.3 sec 
+Set (V): 		dev 
+ 
+Tyler_Hoechlin/me6FYq7-pi4_0000001 92.5 96.7 
+Tyler_Hoechlin/me6FYq7-pi4_0000002 295.2 300.4 
+Tyler_Hoechlin/me6FYq7-pi4_0000003 301.4 305.6 
+Tyler_Hoechlin/me6FYq7-pi4_0000004 418.4 422.4 

@@ -1,0 +1,9 @@
+POI: 			David_Cassidy 
+Youtube ID: 	TFHXYjtytiw 
+Video length: 	276.3 sec 
+Set (V): 		dev 
+ 
+David_Cassidy/TFHXYjtytiw_0000001 26.4 30.6 
+David_Cassidy/TFHXYjtytiw_0000002 115.6 120.0 
+David_Cassidy/TFHXYjtytiw_0000003 122.0 131.7 
+David_Cassidy/TFHXYjtytiw_0000004 137.1 142.8 

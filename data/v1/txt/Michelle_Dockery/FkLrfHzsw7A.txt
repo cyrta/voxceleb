@@ -1,0 +1,7 @@
+POI: 			Michelle_Dockery 
+Youtube ID: 	FkLrfHzsw7A 
+Video length: 	94.0 sec 
+Set (V): 		dev 
+ 
+Michelle_Dockery/FkLrfHzsw7A_0000001 56.7 60.6 
+Michelle_Dockery/FkLrfHzsw7A_0000002 79.5 86.1 

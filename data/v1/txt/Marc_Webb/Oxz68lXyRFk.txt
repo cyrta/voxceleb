@@ -1,0 +1,20 @@
+POI: 			Marc_Webb 
+Youtube ID: 	Oxz68lXyRFk 
+Video length: 	282.0 sec 
+Set (V): 		dev 
+ 
+Marc_Webb/Oxz68lXyRFk_0000001 25.1 40.5 
+Marc_Webb/Oxz68lXyRFk_0000002 57.4 71.4 
+Marc_Webb/Oxz68lXyRFk_0000003 79.0 89.0 
+Marc_Webb/Oxz68lXyRFk_0000004 108.8 135.4 
+Marc_Webb/Oxz68lXyRFk_0000005 136.4 143.6 
+Marc_Webb/Oxz68lXyRFk_0000006 165.2 172.3 
+Marc_Webb/Oxz68lXyRFk_0000007 172.4 178.1 
+Marc_Webb/Oxz68lXyRFk_0000008 179.6 183.9 
+Marc_Webb/Oxz68lXyRFk_0000009 185.5 191.7 
+Marc_Webb/Oxz68lXyRFk_0000010 192.4 197.9 
+Marc_Webb/Oxz68lXyRFk_0000011 198.7 205.2 
+Marc_Webb/Oxz68lXyRFk_0000012 218.0 228.6 
+Marc_Webb/Oxz68lXyRFk_0000013 229.7 237.5 
+Marc_Webb/Oxz68lXyRFk_0000014 250.1 254.7 
+Marc_Webb/Oxz68lXyRFk_0000015 255.9 261.9 

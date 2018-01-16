@@ -1,0 +1,10 @@
+POI: 			Brendan_Gleeson 
+Youtube ID: 	mDgvbn-DbxE 
+Video length: 	116.5 sec 
+Set (V): 		dev 
+ 
+Brendan_Gleeson/mDgvbn-DbxE_0000001 37.9 42.5 
+Brendan_Gleeson/mDgvbn-DbxE_0000002 50.7 56.7 
+Brendan_Gleeson/mDgvbn-DbxE_0000003 59.1 65.3 
+Brendan_Gleeson/mDgvbn-DbxE_0000004 66.0 73.6 
+Brendan_Gleeson/mDgvbn-DbxE_0000005 74.6 80.7 

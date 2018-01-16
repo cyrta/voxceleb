@@ -1,0 +1,10 @@
+POI: 			Sheridan_Smith 
+Youtube ID: 	U5BGWkSxPLk 
+Video length: 	518.3 sec 
+Set (V): 		dev 
+ 
+Sheridan_Smith/U5BGWkSxPLk_0000001 89.2 93.7 
+Sheridan_Smith/U5BGWkSxPLk_0000002 107.6 113.8 
+Sheridan_Smith/U5BGWkSxPLk_0000003 122.2 126.9 
+Sheridan_Smith/U5BGWkSxPLk_0000004 205.1 209.3 
+Sheridan_Smith/U5BGWkSxPLk_0000005 240.0 246.2 

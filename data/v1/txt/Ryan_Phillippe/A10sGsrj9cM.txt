@@ -1,0 +1,10 @@
+POI: 			Ryan_Phillippe 
+Youtube ID: 	A10sGsrj9cM 
+Video length: 	296.4 sec 
+Set (V): 		dev 
+ 
+Ryan_Phillippe/A10sGsrj9cM_0000001 62.8 69.1 
+Ryan_Phillippe/A10sGsrj9cM_0000002 114.0 126.8 
+Ryan_Phillippe/A10sGsrj9cM_0000003 153.1 157.9 
+Ryan_Phillippe/A10sGsrj9cM_0000004 189.9 210.2 
+Ryan_Phillippe/A10sGsrj9cM_0000005 226.1 231.0 

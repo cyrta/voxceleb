@@ -1,0 +1,16 @@
+POI: 			Stephen_Colbert 
+Youtube ID: 	Z2QLoGc6pjc 
+Video length: 	614.4 sec 
+Set (V): 		dev 
+ 
+Stephen_Colbert/Z2QLoGc6pjc_0000001 129.4 137.8 
+Stephen_Colbert/Z2QLoGc6pjc_0000002 199.6 203.8 
+Stephen_Colbert/Z2QLoGc6pjc_0000003 310.4 318.8 
+Stephen_Colbert/Z2QLoGc6pjc_0000004 319.6 331.4 
+Stephen_Colbert/Z2QLoGc6pjc_0000005 346.3 352.9 
+Stephen_Colbert/Z2QLoGc6pjc_0000006 371.2 376.8 
+Stephen_Colbert/Z2QLoGc6pjc_0000007 378.1 384.8 
+Stephen_Colbert/Z2QLoGc6pjc_0000008 395.0 403.8 
+Stephen_Colbert/Z2QLoGc6pjc_0000009 441.0 445.5 
+Stephen_Colbert/Z2QLoGc6pjc_0000010 460.8 469.6 
+Stephen_Colbert/Z2QLoGc6pjc_0000011 559.0 564.8 

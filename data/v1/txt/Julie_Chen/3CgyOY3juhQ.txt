@@ -1,0 +1,9 @@
+POI: 			Julie_Chen 
+Youtube ID: 	3CgyOY3juhQ 
+Video length: 	256.7 sec 
+Set (V): 		dev 
+ 
+Julie_Chen/3CgyOY3juhQ_0000001 22.9 29.0 
+Julie_Chen/3CgyOY3juhQ_0000002 89.3 93.9 
+Julie_Chen/3CgyOY3juhQ_0000003 145.4 153.6 
+Julie_Chen/3CgyOY3juhQ_0000004 226.7 230.7 

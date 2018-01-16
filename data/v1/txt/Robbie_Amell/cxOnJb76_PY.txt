@@ -1,0 +1,11 @@
+POI: 			Robbie_Amell 
+Youtube ID: 	cxOnJb76_PY 
+Video length: 	476.8 sec 
+Set (V): 		dev 
+ 
+Robbie_Amell/cxOnJb76_PY_0000001 95.2 108.5 
+Robbie_Amell/cxOnJb76_PY_0000002 131.5 143.3 
+Robbie_Amell/cxOnJb76_PY_0000003 249.6 257.7 
+Robbie_Amell/cxOnJb76_PY_0000004 377.1 381.5 
+Robbie_Amell/cxOnJb76_PY_0000005 403.0 409.0 
+Robbie_Amell/cxOnJb76_PY_0000006 412.5 423.9 

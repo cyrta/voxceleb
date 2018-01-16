@@ -1,0 +1,9 @@
+POI: 			Rowan_Atkinson 
+Youtube ID: 	59VcvL1a8oI 
+Video length: 	1421.2 sec 
+Set (V): 		dev 
+ 
+Rowan_Atkinson/59VcvL1a8oI_0000001 1327.1 1332.2 
+Rowan_Atkinson/59VcvL1a8oI_0000002 1380.2 1386.2 
+Rowan_Atkinson/59VcvL1a8oI_0000003 1394.8 1405.0 
+Rowan_Atkinson/59VcvL1a8oI_0000004 1405.5 1410.0 

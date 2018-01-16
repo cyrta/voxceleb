@@ -1,0 +1,9 @@
+POI: 			Steve_Martin 
+Youtube ID: 	PKNO7mHIC9M 
+Video length: 	602.7 sec 
+Set (V): 		dev 
+ 
+Steve_Martin/PKNO7mHIC9M_0000001 61.0 67.7 
+Steve_Martin/PKNO7mHIC9M_0000002 154.7 164.4 
+Steve_Martin/PKNO7mHIC9M_0000003 244.7 249.6 
+Steve_Martin/PKNO7mHIC9M_0000004 255.2 277.4 

@@ -1,0 +1,9 @@
+POI: 			Michael_Weatherly 
+Youtube ID: 	glkBvHfe3MM 
+Video length: 	284.2 sec 
+Set (V): 		dev 
+ 
+Michael_Weatherly/glkBvHfe3MM_0000001 101.1 105.1 
+Michael_Weatherly/glkBvHfe3MM_0000002 154.6 162.7 
+Michael_Weatherly/glkBvHfe3MM_0000003 208.3 214.2 
+Michael_Weatherly/glkBvHfe3MM_0000004 219.0 230.7 

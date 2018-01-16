@@ -1,0 +1,23 @@
+POI: 			Blake_Shelton 
+Youtube ID: 	sh6J3wEmceA 
+Video length: 	490.9 sec 
+Set (V): 		dev 
+ 
+Blake_Shelton/sh6J3wEmceA_0000001 39.2 51.0 
+Blake_Shelton/sh6J3wEmceA_0000002 61.7 68.3 
+Blake_Shelton/sh6J3wEmceA_0000003 94.3 101.2 
+Blake_Shelton/sh6J3wEmceA_0000004 107.8 112.2 
+Blake_Shelton/sh6J3wEmceA_0000005 116.5 121.0 
+Blake_Shelton/sh6J3wEmceA_0000006 156.4 163.5 
+Blake_Shelton/sh6J3wEmceA_0000007 165.2 173.0 
+Blake_Shelton/sh6J3wEmceA_0000008 219.8 234.1 
+Blake_Shelton/sh6J3wEmceA_0000009 280.2 291.0 
+Blake_Shelton/sh6J3wEmceA_0000010 293.0 302.9 
+Blake_Shelton/sh6J3wEmceA_0000011 309.1 319.6 
+Blake_Shelton/sh6J3wEmceA_0000012 319.8 330.2 
+Blake_Shelton/sh6J3wEmceA_0000013 346.0 351.2 
+Blake_Shelton/sh6J3wEmceA_0000014 351.4 356.6 
+Blake_Shelton/sh6J3wEmceA_0000015 358.7 364.1 
+Blake_Shelton/sh6J3wEmceA_0000016 365.0 371.0 
+Blake_Shelton/sh6J3wEmceA_0000017 374.0 391.4 
+Blake_Shelton/sh6J3wEmceA_0000018 416.8 422.6 

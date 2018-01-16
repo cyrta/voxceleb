@@ -1,0 +1,11 @@
+POI: 			Mary_McDonnell 
+Youtube ID: 	n5YhXxlTcwE 
+Video length: 	226.6 sec 
+Set (V): 		dev 
+ 
+Mary_McDonnell/n5YhXxlTcwE_0000001 78.3 83.5 
+Mary_McDonnell/n5YhXxlTcwE_0000002 127.0 131.0 
+Mary_McDonnell/n5YhXxlTcwE_0000003 139.7 145.8 
+Mary_McDonnell/n5YhXxlTcwE_0000004 158.3 163.0 
+Mary_McDonnell/n5YhXxlTcwE_0000005 172.0 177.4 
+Mary_McDonnell/n5YhXxlTcwE_0000006 177.4 181.6 

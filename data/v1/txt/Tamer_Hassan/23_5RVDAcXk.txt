@@ -1,0 +1,11 @@
+POI: 			Tamer_Hassan 
+Youtube ID: 	23_5RVDAcXk 
+Video length: 	180.0 sec 
+Set (V): 		dev 
+ 
+Tamer_Hassan/23_5RVDAcXk_0000001 44.8 50.7 
+Tamer_Hassan/23_5RVDAcXk_0000002 77.4 84.6 
+Tamer_Hassan/23_5RVDAcXk_0000003 87.4 96.7 
+Tamer_Hassan/23_5RVDAcXk_0000004 96.8 101.0 
+Tamer_Hassan/23_5RVDAcXk_0000005 116.2 120.7 
+Tamer_Hassan/23_5RVDAcXk_0000006 140.6 150.8 

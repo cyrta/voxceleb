@@ -1,0 +1,36 @@
+POI: 			Marilu_Henner 
+Youtube ID: 	JPgm7gLCYSU 
+Video length: 	531.2 sec 
+Set (V): 		dev 
+ 
+Marilu_Henner/JPgm7gLCYSU_0000001 07.0 13.4 
+Marilu_Henner/JPgm7gLCYSU_0000002 14.3 20.6 
+Marilu_Henner/JPgm7gLCYSU_0000003 23.8 28.7 
+Marilu_Henner/JPgm7gLCYSU_0000004 35.3 67.4 
+Marilu_Henner/JPgm7gLCYSU_0000005 73.1 80.3 
+Marilu_Henner/JPgm7gLCYSU_0000006 82.8 106.8 
+Marilu_Henner/JPgm7gLCYSU_0000007 107.4 112.0 
+Marilu_Henner/JPgm7gLCYSU_0000008 113.8 125.5 
+Marilu_Henner/JPgm7gLCYSU_0000009 127.7 140.8 
+Marilu_Henner/JPgm7gLCYSU_0000010 141.7 154.8 
+Marilu_Henner/JPgm7gLCYSU_0000011 159.1 187.8 
+Marilu_Henner/JPgm7gLCYSU_0000012 192.1 246.2 
+Marilu_Henner/JPgm7gLCYSU_0000013 248.0 259.1 
+Marilu_Henner/JPgm7gLCYSU_0000014 259.6 273.2 
+Marilu_Henner/JPgm7gLCYSU_0000015 273.5 284.4 
+Marilu_Henner/JPgm7gLCYSU_0000016 288.6 301.2 
+Marilu_Henner/JPgm7gLCYSU_0000017 303.3 310.0 
+Marilu_Henner/JPgm7gLCYSU_0000018 312.0 322.2 
+Marilu_Henner/JPgm7gLCYSU_0000019 326.0 333.7 
+Marilu_Henner/JPgm7gLCYSU_0000020 335.6 341.9 
+Marilu_Henner/JPgm7gLCYSU_0000021 344.2 363.4 
+Marilu_Henner/JPgm7gLCYSU_0000022 373.7 388.2 
+Marilu_Henner/JPgm7gLCYSU_0000023 390.1 394.6 
+Marilu_Henner/JPgm7gLCYSU_0000024 399.6 406.3 
+Marilu_Henner/JPgm7gLCYSU_0000025 408.3 434.2 
+Marilu_Henner/JPgm7gLCYSU_0000026 434.4 440.0 
+Marilu_Henner/JPgm7gLCYSU_0000027 442.0 458.6 
+Marilu_Henner/JPgm7gLCYSU_0000028 460.6 465.8 
+Marilu_Henner/JPgm7gLCYSU_0000029 471.0 475.0 
+Marilu_Henner/JPgm7gLCYSU_0000030 480.6 484.8 
+Marilu_Henner/JPgm7gLCYSU_0000031 486.8 503.5 

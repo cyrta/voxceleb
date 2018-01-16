@@ -1,0 +1,16 @@
+POI: 			Ralph_Macchio 
+Youtube ID: 	IYYcnhGJlPI 
+Video length: 	218.6 sec 
+Set (V): 		dev 
+ 
+Ralph_Macchio/IYYcnhGJlPI_0000001 08.1 12.6 
+Ralph_Macchio/IYYcnhGJlPI_0000002 40.8 53.7 
+Ralph_Macchio/IYYcnhGJlPI_0000003 56.8 73.3 
+Ralph_Macchio/IYYcnhGJlPI_0000004 73.8 89.0 
+Ralph_Macchio/IYYcnhGJlPI_0000005 101.1 122.0 
+Ralph_Macchio/IYYcnhGJlPI_0000006 123.6 128.2 
+Ralph_Macchio/IYYcnhGJlPI_0000007 129.7 134.9 
+Ralph_Macchio/IYYcnhGJlPI_0000008 145.4 166.8 
+Ralph_Macchio/IYYcnhGJlPI_0000009 175.6 182.7 
+Ralph_Macchio/IYYcnhGJlPI_0000010 183.7 189.1 
+Ralph_Macchio/IYYcnhGJlPI_0000011 196.0 206.2 

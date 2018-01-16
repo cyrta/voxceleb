@@ -1,0 +1,39 @@
+POI: 			Robert_Davi 
+Youtube ID: 	IXZKoUzkvc0 
+Video length: 	922.4 sec 
+Set (V): 		dev 
+ 
+Robert_Davi/IXZKoUzkvc0_0000001 50.2 57.5 
+Robert_Davi/IXZKoUzkvc0_0000002 65.7 71.0 
+Robert_Davi/IXZKoUzkvc0_0000003 85.2 89.6 
+Robert_Davi/IXZKoUzkvc0_0000004 119.4 127.2 
+Robert_Davi/IXZKoUzkvc0_0000005 144.2 157.5 
+Robert_Davi/IXZKoUzkvc0_0000006 199.3 204.2 
+Robert_Davi/IXZKoUzkvc0_0000007 215.6 227.1 
+Robert_Davi/IXZKoUzkvc0_0000008 231.2 237.0 
+Robert_Davi/IXZKoUzkvc0_0000009 257.8 262.6 
+Robert_Davi/IXZKoUzkvc0_0000010 264.6 271.0 
+Robert_Davi/IXZKoUzkvc0_0000011 291.8 304.4 
+Robert_Davi/IXZKoUzkvc0_0000012 319.4 325.7 
+Robert_Davi/IXZKoUzkvc0_0000013 327.5 332.7 
+Robert_Davi/IXZKoUzkvc0_0000014 363.8 367.9 
+Robert_Davi/IXZKoUzkvc0_0000015 371.9 380.5 
+Robert_Davi/IXZKoUzkvc0_0000016 381.6 385.7 
+Robert_Davi/IXZKoUzkvc0_0000017 386.9 391.4 
+Robert_Davi/IXZKoUzkvc0_0000018 427.5 433.2 
+Robert_Davi/IXZKoUzkvc0_0000019 433.9 442.6 
+Robert_Davi/IXZKoUzkvc0_0000020 449.8 455.0 
+Robert_Davi/IXZKoUzkvc0_0000021 456.4 479.0 
+Robert_Davi/IXZKoUzkvc0_0000022 504.7 511.6 
+Robert_Davi/IXZKoUzkvc0_0000023 513.8 519.2 
+Robert_Davi/IXZKoUzkvc0_0000024 550.0 566.6 
+Robert_Davi/IXZKoUzkvc0_0000025 578.8 601.4 
+Robert_Davi/IXZKoUzkvc0_0000026 604.0 612.6 
+Robert_Davi/IXZKoUzkvc0_0000027 667.2 671.7 
+Robert_Davi/IXZKoUzkvc0_0000028 704.5 709.9 
+Robert_Davi/IXZKoUzkvc0_0000029 727.0 732.6 
+Robert_Davi/IXZKoUzkvc0_0000030 776.8 789.3 
+Robert_Davi/IXZKoUzkvc0_0000031 790.6 803.4 
+Robert_Davi/IXZKoUzkvc0_0000032 805.4 816.6 
+Robert_Davi/IXZKoUzkvc0_0000033 825.4 842.0 
+Robert_Davi/IXZKoUzkvc0_0000034 878.3 884.1 

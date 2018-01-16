@@ -1,0 +1,13 @@
+POI: 			Lin_Shaye 
+Youtube ID: 	mLvRpEJ90Vs 
+Video length: 	216.5 sec 
+Set (V): 		dev 
+ 
+Lin_Shaye/mLvRpEJ90Vs_0000001 05.7 21.8 
+Lin_Shaye/mLvRpEJ90Vs_0000002 41.2 48.8 
+Lin_Shaye/mLvRpEJ90Vs_0000003 58.2 66.4 
+Lin_Shaye/mLvRpEJ90Vs_0000004 68.1 106.6 
+Lin_Shaye/mLvRpEJ90Vs_0000005 116.0 120.9 
+Lin_Shaye/mLvRpEJ90Vs_0000006 127.9 134.9 
+Lin_Shaye/mLvRpEJ90Vs_0000007 135.8 154.8 
+Lin_Shaye/mLvRpEJ90Vs_0000008 139.7 168.4 

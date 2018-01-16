@@ -1,0 +1,7 @@
+POI: 			Joel_McHale 
+Youtube ID: 	GH6eN9hi2l4 
+Video length: 	207.8 sec 
+Set (V): 		dev 
+ 
+Joel_McHale/GH6eN9hi2l4_0000001 122.4 133.9 
+Joel_McHale/GH6eN9hi2l4_0000002 154.4 160.1 

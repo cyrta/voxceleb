@@ -1,0 +1,8 @@
+POI: 			Freida_Pinto 
+Youtube ID: 	zo4Uv-dchPQ 
+Video length: 	305.4 sec 
+Set (V): 		dev 
+ 
+Freida_Pinto/zo4Uv-dchPQ_0000001 47.2 51.7 
+Freida_Pinto/zo4Uv-dchPQ_0000002 161.0 165.9 
+Freida_Pinto/zo4Uv-dchPQ_0000003 216.6 223.0 

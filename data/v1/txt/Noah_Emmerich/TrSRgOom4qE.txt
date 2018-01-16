@@ -1,0 +1,30 @@
+POI: 			Noah_Emmerich 
+Youtube ID: 	TrSRgOom4qE 
+Video length: 	806.9 sec 
+Set (V): 		dev 
+ 
+Noah_Emmerich/TrSRgOom4qE_0000001 62.0 84.2 
+Noah_Emmerich/TrSRgOom4qE_0000002 85.2 89.8 
+Noah_Emmerich/TrSRgOom4qE_0000003 111.0 115.8 
+Noah_Emmerich/TrSRgOom4qE_0000004 146.3 168.0 
+Noah_Emmerich/TrSRgOom4qE_0000005 177.5 183.1 
+Noah_Emmerich/TrSRgOom4qE_0000006 200.1 204.8 
+Noah_Emmerich/TrSRgOom4qE_0000007 225.2 232.0 
+Noah_Emmerich/TrSRgOom4qE_0000008 232.8 243.0 
+Noah_Emmerich/TrSRgOom4qE_0000009 285.2 309.2 
+Noah_Emmerich/TrSRgOom4qE_0000010 332.5 347.7 
+Noah_Emmerich/TrSRgOom4qE_0000011 347.8 354.0 
+Noah_Emmerich/TrSRgOom4qE_0000012 354.2 359.4 
+Noah_Emmerich/TrSRgOom4qE_0000013 401.4 419.4 
+Noah_Emmerich/TrSRgOom4qE_0000014 439.7 471.2 
+Noah_Emmerich/TrSRgOom4qE_0000015 477.7 483.9 
+Noah_Emmerich/TrSRgOom4qE_0000016 510.2 524.0 
+Noah_Emmerich/TrSRgOom4qE_0000017 584.1 605.1 
+Noah_Emmerich/TrSRgOom4qE_0000018 617.0 634.1 
+Noah_Emmerich/TrSRgOom4qE_0000019 666.9 682.4 
+Noah_Emmerich/TrSRgOom4qE_0000020 683.3 688.7 
+Noah_Emmerich/TrSRgOom4qE_0000021 705.0 709.0 
+Noah_Emmerich/TrSRgOom4qE_0000022 712.9 717.6 
+Noah_Emmerich/TrSRgOom4qE_0000023 718.3 727.4 
+Noah_Emmerich/TrSRgOom4qE_0000024 747.5 753.6 
+Noah_Emmerich/TrSRgOom4qE_0000025 765.0 774.8 

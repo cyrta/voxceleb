@@ -1,0 +1,7 @@
+POI: 			Ginger_Rogers 
+Youtube ID: 	wCXCy9Xdn_4 
+Video length: 	854.9 sec 
+Set (V): 		dev 
+ 
+Ginger_Rogers/wCXCy9Xdn_4_0000001 199.1 209.9 
+Ginger_Rogers/wCXCy9Xdn_4_0000002 583.5 593.4 

@@ -1,0 +1,9 @@
+POI: 			Susanne_Bier 
+Youtube ID: 	hWcWZ-f3EPg 
+Video length: 	1345.1 sec 
+Set (V): 		dev 
+ 
+Susanne_Bier/hWcWZ-f3EPg_0000001 83.4 87.6 
+Susanne_Bier/hWcWZ-f3EPg_0000002 685.0 689.6 
+Susanne_Bier/hWcWZ-f3EPg_0000003 1051.2 1056.0 
+Susanne_Bier/hWcWZ-f3EPg_0000004 1202.9 1216.0 

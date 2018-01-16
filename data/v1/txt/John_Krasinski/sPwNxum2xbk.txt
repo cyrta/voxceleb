@@ -1,0 +1,7 @@
+POI: 			John_Krasinski 
+Youtube ID: 	sPwNxum2xbk 
+Video length: 	197.5 sec 
+Set (V): 		dev 
+ 
+John_Krasinski/sPwNxum2xbk_0000001 34.6 41.8 
+John_Krasinski/sPwNxum2xbk_0000002 45.4 63.6 

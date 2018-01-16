@@ -1,0 +1,14 @@
+POI: 			Emraan_Hashmi 
+Youtube ID: 	v6MWr5UAZ94 
+Video length: 	1114.2 sec 
+Set (V): 		test 
+ 
+Emraan_Hashmi/v6MWr5UAZ94_0000001 193.2 197.3 
+Emraan_Hashmi/v6MWr5UAZ94_0000002 206.6 218.9 
+Emraan_Hashmi/v6MWr5UAZ94_0000003 251.2 259.6 
+Emraan_Hashmi/v6MWr5UAZ94_0000004 293.8 297.8 
+Emraan_Hashmi/v6MWr5UAZ94_0000005 329.1 336.1 
+Emraan_Hashmi/v6MWr5UAZ94_0000006 337.1 341.6 
+Emraan_Hashmi/v6MWr5UAZ94_0000007 389.3 394.3 
+Emraan_Hashmi/v6MWr5UAZ94_0000008 619.3 624.1 
+Emraan_Hashmi/v6MWr5UAZ94_0000009 661.0 668.5 

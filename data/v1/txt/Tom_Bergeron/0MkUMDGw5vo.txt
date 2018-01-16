@@ -1,0 +1,19 @@
+POI: 			Tom_Bergeron 
+Youtube ID: 	0MkUMDGw5vo 
+Video length: 	234.3 sec 
+Set (V): 		dev 
+ 
+Tom_Bergeron/0MkUMDGw5vo_0000001 15.4 23.4 
+Tom_Bergeron/0MkUMDGw5vo_0000002 24.8 33.1 
+Tom_Bergeron/0MkUMDGw5vo_0000003 39.0 43.2 
+Tom_Bergeron/0MkUMDGw5vo_0000004 44.2 50.6 
+Tom_Bergeron/0MkUMDGw5vo_0000005 38.1 43.0 
+Tom_Bergeron/0MkUMDGw5vo_0000006 55.0 96.0 
+Tom_Bergeron/0MkUMDGw5vo_0000007 98.4 104.8 
+Tom_Bergeron/0MkUMDGw5vo_0000008 123.9 129.1 
+Tom_Bergeron/0MkUMDGw5vo_0000009 132.9 137.8 
+Tom_Bergeron/0MkUMDGw5vo_0000010 143.6 149.2 
+Tom_Bergeron/0MkUMDGw5vo_0000011 151.2 160.6 
+Tom_Bergeron/0MkUMDGw5vo_0000012 166.6 175.2 
+Tom_Bergeron/0MkUMDGw5vo_0000013 184.2 192.6 
+Tom_Bergeron/0MkUMDGw5vo_0000014 195.6 221.6 

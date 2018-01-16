@@ -1,0 +1,10 @@
+POI: 			Joanna_Lumley 
+Youtube ID: 	t_0Mp0iqVyA 
+Video length: 	892.8 sec 
+Set (V): 		dev 
+ 
+Joanna_Lumley/t_0Mp0iqVyA_0000001 257.6 263.1 
+Joanna_Lumley/t_0Mp0iqVyA_0000002 292.6 299.0 
+Joanna_Lumley/t_0Mp0iqVyA_0000003 668.4 674.4 
+Joanna_Lumley/t_0Mp0iqVyA_0000004 758.1 762.6 
+Joanna_Lumley/t_0Mp0iqVyA_0000005 819.4 826.0 

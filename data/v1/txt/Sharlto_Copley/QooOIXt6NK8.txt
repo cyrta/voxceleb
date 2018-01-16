@@ -1,0 +1,14 @@
+POI: 			Sharlto_Copley 
+Youtube ID: 	QooOIXt6NK8 
+Video length: 	288.8 sec 
+Set (V): 		dev 
+ 
+Sharlto_Copley/QooOIXt6NK8_0000001 25.2 32.6 
+Sharlto_Copley/QooOIXt6NK8_0000002 41.8 53.4 
+Sharlto_Copley/QooOIXt6NK8_0000003 67.1 76.4 
+Sharlto_Copley/QooOIXt6NK8_0000004 131.8 138.7 
+Sharlto_Copley/QooOIXt6NK8_0000005 147.2 160.4 
+Sharlto_Copley/QooOIXt6NK8_0000006 186.4 202.9 
+Sharlto_Copley/QooOIXt6NK8_0000007 234.0 243.0 
+Sharlto_Copley/QooOIXt6NK8_0000008 266.9 276.7 
+Sharlto_Copley/QooOIXt6NK8_0000009 278.8 283.5 

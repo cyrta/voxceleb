@@ -1,0 +1,8 @@
+POI: 			Julianne_Nicholson 
+Youtube ID: 	OZhMNV8M268 
+Video length: 	256.4 sec 
+Set (V): 		dev 
+ 
+Julianne_Nicholson/OZhMNV8M268_0000001 06.9 20.7 
+Julianne_Nicholson/OZhMNV8M268_0000002 21.6 40.4 
+Julianne_Nicholson/OZhMNV8M268_0000003 161.0 166.1 

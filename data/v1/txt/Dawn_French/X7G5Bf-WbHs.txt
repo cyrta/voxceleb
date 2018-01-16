@@ -1,0 +1,7 @@
+POI: 			Dawn_French 
+Youtube ID: 	X7G5Bf-WbHs 
+Video length: 	44.4 sec 
+Set (V): 		dev 
+ 
+Dawn_French/X7G5Bf-WbHs_0000001 01.3 05.6 
+Dawn_French/X7G5Bf-WbHs_0000002 09.8 14.6 

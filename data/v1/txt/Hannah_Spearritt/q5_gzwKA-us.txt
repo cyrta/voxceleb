@@ -1,0 +1,12 @@
+POI: 			Hannah_Spearritt 
+Youtube ID: 	q5_gzwKA-us 
+Video length: 	278.9 sec 
+Set (V): 		dev 
+ 
+Hannah_Spearritt/q5_gzwKA-us_0000001 30.2 44.2 
+Hannah_Spearritt/q5_gzwKA-us_0000002 45.2 52.8 
+Hannah_Spearritt/q5_gzwKA-us_0000003 78.8 90.0 
+Hannah_Spearritt/q5_gzwKA-us_0000004 150.0 154.8 
+Hannah_Spearritt/q5_gzwKA-us_0000005 174.9 178.9 
+Hannah_Spearritt/q5_gzwKA-us_0000006 196.3 202.2 
+Hannah_Spearritt/q5_gzwKA-us_0000007 226.0 231.2 

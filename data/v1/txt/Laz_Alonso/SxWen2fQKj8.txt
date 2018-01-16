@@ -1,0 +1,13 @@
+POI: 			Laz_Alonso 
+Youtube ID: 	SxWen2fQKj8 
+Video length: 	123.4 sec 
+Set (V): 		dev 
+ 
+Laz_Alonso/SxWen2fQKj8_0000001 04.4 20.5 
+Laz_Alonso/SxWen2fQKj8_0000002 33.3 44.3 
+Laz_Alonso/SxWen2fQKj8_0000003 45.9 54.6 
+Laz_Alonso/SxWen2fQKj8_0000004 73.2 77.7 
+Laz_Alonso/SxWen2fQKj8_0000005 77.9 84.0 
+Laz_Alonso/SxWen2fQKj8_0000006 89.8 97.4 
+Laz_Alonso/SxWen2fQKj8_0000007 104.6 112.5 
+Laz_Alonso/SxWen2fQKj8_0000008 113.3 119.8 

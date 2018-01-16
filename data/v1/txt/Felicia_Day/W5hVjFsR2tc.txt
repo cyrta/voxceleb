@@ -1,0 +1,14 @@
+POI: 			Felicia_Day 
+Youtube ID: 	W5hVjFsR2tc 
+Video length: 	146.7 sec 
+Set (V): 		dev 
+ 
+Felicia_Day/W5hVjFsR2tc_0000001 02.7 27.3 
+Felicia_Day/W5hVjFsR2tc_0000002 27.5 34.3 
+Felicia_Day/W5hVjFsR2tc_0000003 39.4 43.4 
+Felicia_Day/W5hVjFsR2tc_0000004 45.2 61.4 
+Felicia_Day/W5hVjFsR2tc_0000005 85.8 89.8 
+Felicia_Day/W5hVjFsR2tc_0000006 92.2 98.0 
+Felicia_Day/W5hVjFsR2tc_0000007 98.7 103.8 
+Felicia_Day/W5hVjFsR2tc_0000008 107.7 116.8 
+Felicia_Day/W5hVjFsR2tc_0000009 129.6 138.7 

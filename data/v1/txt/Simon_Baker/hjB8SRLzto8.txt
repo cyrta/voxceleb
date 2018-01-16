@@ -1,0 +1,10 @@
+POI: 			Simon_Baker 
+Youtube ID: 	hjB8SRLzto8 
+Video length: 	458.9 sec 
+Set (V): 		dev 
+ 
+Simon_Baker/hjB8SRLzto8_0000001 156.1 161.6 
+Simon_Baker/hjB8SRLzto8_0000002 189.4 195.0 
+Simon_Baker/hjB8SRLzto8_0000003 197.2 211.9 
+Simon_Baker/hjB8SRLzto8_0000004 348.5 353.6 
+Simon_Baker/hjB8SRLzto8_0000005 357.8 371.4 

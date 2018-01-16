@@ -1,0 +1,7 @@
+POI: 			Riz_Ahmed 
+Youtube ID: 	ATD04lvq4dk 
+Video length: 	337.1 sec 
+Set (V): 		dev 
+ 
+Riz_Ahmed/ATD04lvq4dk_0000001 50.6 59.9 
+Riz_Ahmed/ATD04lvq4dk_0000002 65.1 70.4 

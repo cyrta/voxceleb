@@ -1,0 +1,9 @@
+POI: 			Glenn_Close 
+Youtube ID: 	mPN_lNdF05s 
+Video length: 	671.2 sec 
+Set (V): 		dev 
+ 
+Glenn_Close/mPN_lNdF05s_0000001 182.6 187.5 
+Glenn_Close/mPN_lNdF05s_0000002 222.5 228.0 
+Glenn_Close/mPN_lNdF05s_0000003 276.1 282.2 
+Glenn_Close/mPN_lNdF05s_0000004 286.2 290.8 

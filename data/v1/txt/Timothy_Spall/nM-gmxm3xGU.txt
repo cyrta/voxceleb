@@ -1,0 +1,23 @@
+POI: 			Timothy_Spall 
+Youtube ID: 	nM-gmxm3xGU 
+Video length: 	497.3 sec 
+Set (V): 		dev 
+ 
+Timothy_Spall/nM-gmxm3xGU_0000001 110.4 115.4 
+Timothy_Spall/nM-gmxm3xGU_0000002 156.0 160.6 
+Timothy_Spall/nM-gmxm3xGU_0000003 167.8 172.8 
+Timothy_Spall/nM-gmxm3xGU_0000004 174.6 179.8 
+Timothy_Spall/nM-gmxm3xGU_0000005 185.3 190.6 
+Timothy_Spall/nM-gmxm3xGU_0000006 191.2 208.5 
+Timothy_Spall/nM-gmxm3xGU_0000007 221.2 237.5 
+Timothy_Spall/nM-gmxm3xGU_0000008 238.2 242.4 
+Timothy_Spall/nM-gmxm3xGU_0000009 243.2 248.9 
+Timothy_Spall/nM-gmxm3xGU_0000010 284.1 289.2 
+Timothy_Spall/nM-gmxm3xGU_0000011 299.2 305.9 
+Timothy_Spall/nM-gmxm3xGU_0000012 314.1 318.2 
+Timothy_Spall/nM-gmxm3xGU_0000013 322.3 331.1 
+Timothy_Spall/nM-gmxm3xGU_0000014 341.9 354.3 
+Timothy_Spall/nM-gmxm3xGU_0000015 354.7 364.0 
+Timothy_Spall/nM-gmxm3xGU_0000016 367.3 374.2 
+Timothy_Spall/nM-gmxm3xGU_0000017 378.6 384.7 
+Timothy_Spall/nM-gmxm3xGU_0000018 368.8 374.2 

@@ -1,0 +1,9 @@
+POI: 			Elle_Fanning 
+Youtube ID: 	mYc2BIS0zWU 
+Video length: 	124.2 sec 
+Set (V): 		test 
+ 
+Elle_Fanning/mYc2BIS0zWU_0000001 65.2 74.3 
+Elle_Fanning/mYc2BIS0zWU_0000002 77.8 83.1 
+Elle_Fanning/mYc2BIS0zWU_0000003 85.2 89.4 
+Elle_Fanning/mYc2BIS0zWU_0000004 92.7 104.0 

@@ -1,0 +1,15 @@
+POI: 			Danica_McKellar 
+Youtube ID: 	ng2JL3qhovU 
+Video length: 	724.1 sec 
+Set (V): 		dev 
+ 
+Danica_McKellar/ng2JL3qhovU_0000001 39.8 44.1 
+Danica_McKellar/ng2JL3qhovU_0000002 122.8 127.6 
+Danica_McKellar/ng2JL3qhovU_0000003 424.9 432.5 
+Danica_McKellar/ng2JL3qhovU_0000004 518.2 522.6 
+Danica_McKellar/ng2JL3qhovU_0000005 566.5 572.8 
+Danica_McKellar/ng2JL3qhovU_0000006 621.0 626.6 
+Danica_McKellar/ng2JL3qhovU_0000007 649.3 660.6 
+Danica_McKellar/ng2JL3qhovU_0000008 680.4 686.4 
+Danica_McKellar/ng2JL3qhovU_0000009 689.0 693.3 
+Danica_McKellar/ng2JL3qhovU_0000010 709.8 715.2 

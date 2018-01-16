@@ -1,0 +1,19 @@
+POI: 			Kevin_Bacon 
+Youtube ID: 	sCY_q1rxNio 
+Video length: 	510.1 sec 
+Set (V): 		dev 
+ 
+Kevin_Bacon/sCY_q1rxNio_0000001 84.2 88.3 
+Kevin_Bacon/sCY_q1rxNio_0000002 89.3 99.0 
+Kevin_Bacon/sCY_q1rxNio_0000003 113.2 118.1 
+Kevin_Bacon/sCY_q1rxNio_0000004 134.4 143.9 
+Kevin_Bacon/sCY_q1rxNio_0000005 234.2 238.2 
+Kevin_Bacon/sCY_q1rxNio_0000006 263.2 269.4 
+Kevin_Bacon/sCY_q1rxNio_0000007 276.6 281.5 
+Kevin_Bacon/sCY_q1rxNio_0000008 281.6 296.3 
+Kevin_Bacon/sCY_q1rxNio_0000009 298.7 303.4 
+Kevin_Bacon/sCY_q1rxNio_0000010 306.1 314.3 
+Kevin_Bacon/sCY_q1rxNio_0000011 327.0 336.0 
+Kevin_Bacon/sCY_q1rxNio_0000012 342.1 347.2 
+Kevin_Bacon/sCY_q1rxNio_0000013 374.2 379.5 
+Kevin_Bacon/sCY_q1rxNio_0000014 382.4 394.5 

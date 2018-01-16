@@ -1,0 +1,9 @@
+POI: 			Jon_Lovitz 
+Youtube ID: 	yOIuMM7OkL8 
+Video length: 	67.7 sec 
+Set (V): 		dev 
+ 
+Jon_Lovitz/yOIuMM7OkL8_0000001 00.8 08.6 
+Jon_Lovitz/yOIuMM7OkL8_0000002 19.2 27.6 
+Jon_Lovitz/yOIuMM7OkL8_0000003 28.6 38.6 
+Jon_Lovitz/yOIuMM7OkL8_0000004 52.2 62.7 

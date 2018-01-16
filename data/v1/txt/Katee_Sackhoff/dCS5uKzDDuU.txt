@@ -1,0 +1,17 @@
+POI: 			Katee_Sackhoff 
+Youtube ID: 	dCS5uKzDDuU 
+Video length: 	402.2 sec 
+Set (V): 		dev 
+ 
+Katee_Sackhoff/dCS5uKzDDuU_0000001 15.9 24.5 
+Katee_Sackhoff/dCS5uKzDDuU_0000002 66.0 72.7 
+Katee_Sackhoff/dCS5uKzDDuU_0000003 112.4 120.1 
+Katee_Sackhoff/dCS5uKzDDuU_0000004 132.3 140.8 
+Katee_Sackhoff/dCS5uKzDDuU_0000005 176.6 180.8 
+Katee_Sackhoff/dCS5uKzDDuU_0000006 181.0 193.7 
+Katee_Sackhoff/dCS5uKzDDuU_0000007 222.0 231.6 
+Katee_Sackhoff/dCS5uKzDDuU_0000008 302.4 313.6 
+Katee_Sackhoff/dCS5uKzDDuU_0000009 317.7 325.3 
+Katee_Sackhoff/dCS5uKzDDuU_0000010 337.3 342.1 
+Katee_Sackhoff/dCS5uKzDDuU_0000011 358.6 372.2 
+Katee_Sackhoff/dCS5uKzDDuU_0000012 373.0 390.0 

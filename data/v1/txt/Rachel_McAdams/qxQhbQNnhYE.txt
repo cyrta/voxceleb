@@ -1,0 +1,9 @@
+POI: 			Rachel_McAdams 
+Youtube ID: 	qxQhbQNnhYE 
+Video length: 	453.9 sec 
+Set (V): 		dev 
+ 
+Rachel_McAdams/qxQhbQNnhYE_0000001 178.6 190.3 
+Rachel_McAdams/qxQhbQNnhYE_0000002 207.5 212.2 
+Rachel_McAdams/qxQhbQNnhYE_0000003 212.8 221.3 
+Rachel_McAdams/qxQhbQNnhYE_0000004 432.8 442.7 

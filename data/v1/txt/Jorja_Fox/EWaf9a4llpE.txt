@@ -1,0 +1,8 @@
+POI: 			Jorja_Fox 
+Youtube ID: 	EWaf9a4llpE 
+Video length: 	392.7 sec 
+Set (V): 		dev 
+ 
+Jorja_Fox/EWaf9a4llpE_0000001 72.4 78.8 
+Jorja_Fox/EWaf9a4llpE_0000002 117.3 121.6 
+Jorja_Fox/EWaf9a4llpE_0000003 301.7 307.0 

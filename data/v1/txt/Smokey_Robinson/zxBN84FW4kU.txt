@@ -1,0 +1,12 @@
+POI: 			Smokey_Robinson 
+Youtube ID: 	zxBN84FW4kU 
+Video length: 	385.9 sec 
+Set (V): 		dev 
+ 
+Smokey_Robinson/zxBN84FW4kU_0000001 16.4 21.9 
+Smokey_Robinson/zxBN84FW4kU_0000002 116.0 120.1 
+Smokey_Robinson/zxBN84FW4kU_0000003 172.3 181.7 
+Smokey_Robinson/zxBN84FW4kU_0000004 240.0 244.8 
+Smokey_Robinson/zxBN84FW4kU_0000005 330.0 334.7 
+Smokey_Robinson/zxBN84FW4kU_0000006 355.4 360.6 
+Smokey_Robinson/zxBN84FW4kU_0000007 369.5 374.5 

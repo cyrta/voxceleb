@@ -1,0 +1,8 @@
+POI: 			Meredith_Baxter 
+Youtube ID: 	78qYS9Da15I 
+Video length: 	127.6 sec 
+Set (V): 		dev 
+ 
+Meredith_Baxter/78qYS9Da15I_0000001 13.9 19.8 
+Meredith_Baxter/78qYS9Da15I_0000002 32.4 38.9 
+Meredith_Baxter/78qYS9Da15I_0000003 70.4 74.9 

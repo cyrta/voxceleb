@@ -1,0 +1,13 @@
+POI: 			Lorenza_Izzo 
+Youtube ID: 	OJe3i5D-vis 
+Video length: 	309.1 sec 
+Set (V): 		dev 
+ 
+Lorenza_Izzo/OJe3i5D-vis_0000001 112.5 122.7 
+Lorenza_Izzo/OJe3i5D-vis_0000002 124.0 134.4 
+Lorenza_Izzo/OJe3i5D-vis_0000003 135.2 145.2 
+Lorenza_Izzo/OJe3i5D-vis_0000004 146.8 155.8 
+Lorenza_Izzo/OJe3i5D-vis_0000005 169.9 198.8 
+Lorenza_Izzo/OJe3i5D-vis_0000006 201.2 211.6 
+Lorenza_Izzo/OJe3i5D-vis_0000007 213.4 217.9 
+Lorenza_Izzo/OJe3i5D-vis_0000008 292.9 302.7 

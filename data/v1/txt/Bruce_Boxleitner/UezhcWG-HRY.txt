@@ -1,0 +1,10 @@
+POI: 			Bruce_Boxleitner 
+Youtube ID: 	UezhcWG-HRY 
+Video length: 	352.7 sec 
+Set (V): 		dev 
+ 
+Bruce_Boxleitner/UezhcWG-HRY_0000001 62.4 84.8 
+Bruce_Boxleitner/UezhcWG-HRY_0000002 87.0 93.7 
+Bruce_Boxleitner/UezhcWG-HRY_0000003 94.0 112.0 
+Bruce_Boxleitner/UezhcWG-HRY_0000004 116.9 136.0 
+Bruce_Boxleitner/UezhcWG-HRY_0000005 138.7 147.6 

@@ -1,0 +1,14 @@
+POI: 			Ray_Winstone 
+Youtube ID: 	7imHXVJbyWg 
+Video length: 	177.9 sec 
+Set (V): 		dev 
+ 
+Ray_Winstone/7imHXVJbyWg_0000001 16.8 21.0 
+Ray_Winstone/7imHXVJbyWg_0000002 21.5 27.2 
+Ray_Winstone/7imHXVJbyWg_0000003 35.6 41.0 
+Ray_Winstone/7imHXVJbyWg_0000004 39.8 44.9 
+Ray_Winstone/7imHXVJbyWg_0000005 45.5 51.8 
+Ray_Winstone/7imHXVJbyWg_0000006 118.5 130.8 
+Ray_Winstone/7imHXVJbyWg_0000007 136.6 141.2 
+Ray_Winstone/7imHXVJbyWg_0000008 144.5 149.9 
+Ray_Winstone/7imHXVJbyWg_0000009 159.3 164.0 

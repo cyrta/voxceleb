@@ -1,0 +1,10 @@
+POI: 			Brian_Dennehy 
+Youtube ID: 	6cRPPn9OzXI 
+Video length: 	196.2 sec 
+Set (V): 		dev 
+ 
+Brian_Dennehy/6cRPPn9OzXI_0000001 126.7 132.5 
+Brian_Dennehy/6cRPPn9OzXI_0000002 139.6 145.5 
+Brian_Dennehy/6cRPPn9OzXI_0000003 160.4 164.9 
+Brian_Dennehy/6cRPPn9OzXI_0000004 179.8 185.9 
+Brian_Dennehy/6cRPPn9OzXI_0000005 188.3 192.3 

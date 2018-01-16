@@ -1,0 +1,13 @@
+POI: 			David_Jason 
+Youtube ID: 	1sBRrJ6Pu0c 
+Video length: 	215.2 sec 
+Set (V): 		dev 
+ 
+David_Jason/1sBRrJ6Pu0c_0000001 48.9 55.4 
+David_Jason/1sBRrJ6Pu0c_0000002 63.5 68.4 
+David_Jason/1sBRrJ6Pu0c_0000003 65.9 79.3 
+David_Jason/1sBRrJ6Pu0c_0000004 97.3 102.4 
+David_Jason/1sBRrJ6Pu0c_0000005 106.4 112.4 
+David_Jason/1sBRrJ6Pu0c_0000006 115.9 124.6 
+David_Jason/1sBRrJ6Pu0c_0000007 141.7 149.2 
+David_Jason/1sBRrJ6Pu0c_0000008 193.7 197.8 

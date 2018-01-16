@@ -1,0 +1,10 @@
+POI: 			Kellan_Lutz 
+Youtube ID: 	iXdHSCHOcO8 
+Video length: 	189.9 sec 
+Set (V): 		dev 
+ 
+Kellan_Lutz/iXdHSCHOcO8_0000001 28.4 37.4 
+Kellan_Lutz/iXdHSCHOcO8_0000002 41.5 46.0 
+Kellan_Lutz/iXdHSCHOcO8_0000003 76.2 88.6 
+Kellan_Lutz/iXdHSCHOcO8_0000004 93.0 97.2 
+Kellan_Lutz/iXdHSCHOcO8_0000005 147.1 151.9 

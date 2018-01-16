@@ -1,0 +1,8 @@
+POI: 			Lotte_Verbeek 
+Youtube ID: 	md82-5oULWo 
+Video length: 	349.1 sec 
+Set (V): 		dev 
+ 
+Lotte_Verbeek/md82-5oULWo_0000001 32.5 37.9 
+Lotte_Verbeek/md82-5oULWo_0000002 70.5 74.7 
+Lotte_Verbeek/md82-5oULWo_0000003 191.8 196.7 

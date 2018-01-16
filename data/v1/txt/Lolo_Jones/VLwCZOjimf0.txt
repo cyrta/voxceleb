@@ -1,0 +1,7 @@
+POI: 			Lolo_Jones 
+Youtube ID: 	VLwCZOjimf0 
+Video length: 	51.9 sec 
+Set (V): 		dev 
+ 
+Lolo_Jones/VLwCZOjimf0_0000001 19.9 32.6 
+Lolo_Jones/VLwCZOjimf0_0000002 38.6 45.3 

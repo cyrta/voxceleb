@@ -1,0 +1,9 @@
+POI: 			Robert_Picardo 
+Youtube ID: 	rwsNSCdMVDg 
+Video length: 	203.3 sec 
+Set (V): 		dev 
+ 
+Robert_Picardo/rwsNSCdMVDg_0000001 61.6 68.5 
+Robert_Picardo/rwsNSCdMVDg_0000002 77.8 87.1 
+Robert_Picardo/rwsNSCdMVDg_0000003 97.1 102.2 
+Robert_Picardo/rwsNSCdMVDg_0000004 115.6 122.8 

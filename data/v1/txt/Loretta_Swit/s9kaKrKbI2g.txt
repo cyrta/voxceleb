@@ -1,0 +1,12 @@
+POI: 			Loretta_Swit 
+Youtube ID: 	s9kaKrKbI2g 
+Video length: 	131.2 sec 
+Set (V): 		dev 
+ 
+Loretta_Swit/s9kaKrKbI2g_0000001 21.4 28.9 
+Loretta_Swit/s9kaKrKbI2g_0000002 41.8 47.4 
+Loretta_Swit/s9kaKrKbI2g_0000003 48.4 54.3 
+Loretta_Swit/s9kaKrKbI2g_0000004 66.2 80.5 
+Loretta_Swit/s9kaKrKbI2g_0000005 91.4 97.9 
+Loretta_Swit/s9kaKrKbI2g_0000006 99.6 104.1 
+Loretta_Swit/s9kaKrKbI2g_0000007 110.8 119.9 

@@ -1,0 +1,11 @@
+POI: 			Donnie_Yen 
+Youtube ID: 	eCAvuDDKX50 
+Video length: 	256.6 sec 
+Set (V): 		dev 
+ 
+Donnie_Yen/eCAvuDDKX50_0000001 43.4 50.8 
+Donnie_Yen/eCAvuDDKX50_0000002 71.3 79.0 
+Donnie_Yen/eCAvuDDKX50_0000003 127.8 134.4 
+Donnie_Yen/eCAvuDDKX50_0000004 135.6 141.3 
+Donnie_Yen/eCAvuDDKX50_0000005 151.5 157.3 
+Donnie_Yen/eCAvuDDKX50_0000006 202.7 209.4 

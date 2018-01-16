@@ -1,0 +1,19 @@
+POI: 			Kelly_Rutherford 
+Youtube ID: 	codgtqUEAbc 
+Video length: 	392.3 sec 
+Set (V): 		dev 
+ 
+Kelly_Rutherford/codgtqUEAbc_0000001 143.8 148.0 
+Kelly_Rutherford/codgtqUEAbc_0000002 159.8 165.5 
+Kelly_Rutherford/codgtqUEAbc_0000003 176.4 184.9 
+Kelly_Rutherford/codgtqUEAbc_0000004 190.9 204.9 
+Kelly_Rutherford/codgtqUEAbc_0000005 210.4 226.1 
+Kelly_Rutherford/codgtqUEAbc_0000006 226.8 231.0 
+Kelly_Rutherford/codgtqUEAbc_0000007 240.8 267.5 
+Kelly_Rutherford/codgtqUEAbc_0000008 288.3 294.1 
+Kelly_Rutherford/codgtqUEAbc_0000009 294.6 308.7 
+Kelly_Rutherford/codgtqUEAbc_0000010 320.8 327.5 
+Kelly_Rutherford/codgtqUEAbc_0000011 333.5 340.9 
+Kelly_Rutherford/codgtqUEAbc_0000012 341.5 349.6 
+Kelly_Rutherford/codgtqUEAbc_0000013 357.5 365.0 
+Kelly_Rutherford/codgtqUEAbc_0000014 371.1 380.8 

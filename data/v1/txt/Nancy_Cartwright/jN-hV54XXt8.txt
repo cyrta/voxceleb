@@ -1,0 +1,9 @@
+POI: 			Nancy_Cartwright 
+Youtube ID: 	jN-hV54XXt8 
+Video length: 	286.7 sec 
+Set (V): 		dev 
+ 
+Nancy_Cartwright/jN-hV54XXt8_0000001 69.2 75.3 
+Nancy_Cartwright/jN-hV54XXt8_0000002 136.5 140.7 
+Nancy_Cartwright/jN-hV54XXt8_0000003 149.3 154.4 
+Nancy_Cartwright/jN-hV54XXt8_0000004 205.3 210.4 

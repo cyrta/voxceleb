@@ -1,0 +1,10 @@
+POI: 			Jennifer_Carpenter 
+Youtube ID: 	0tM5FxYyEF0 
+Video length: 	109.9 sec 
+Set (V): 		dev 
+ 
+Jennifer_Carpenter/0tM5FxYyEF0_0000001 07.8 17.7 
+Jennifer_Carpenter/0tM5FxYyEF0_0000002 17.9 22.7 
+Jennifer_Carpenter/0tM5FxYyEF0_0000003 27.3 35.6 
+Jennifer_Carpenter/0tM5FxYyEF0_0000004 48.2 64.3 
+Jennifer_Carpenter/0tM5FxYyEF0_0000005 64.4 71.2 

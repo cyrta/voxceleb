@@ -1,0 +1,13 @@
+POI: 			Stefanie_Powers 
+Youtube ID: 	IrEtrjDedX4 
+Video length: 	457.6 sec 
+Set (V): 		dev 
+ 
+Stefanie_Powers/IrEtrjDedX4_0000001 110.1 121.9 
+Stefanie_Powers/IrEtrjDedX4_0000002 161.2 167.9 
+Stefanie_Powers/IrEtrjDedX4_0000003 187.6 192.5 
+Stefanie_Powers/IrEtrjDedX4_0000004 263.6 269.6 
+Stefanie_Powers/IrEtrjDedX4_0000005 292.8 300.5 
+Stefanie_Powers/IrEtrjDedX4_0000006 344.8 353.6 
+Stefanie_Powers/IrEtrjDedX4_0000007 378.0 387.6 
+Stefanie_Powers/IrEtrjDedX4_0000008 410.8 436.8 

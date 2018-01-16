@@ -1,0 +1,11 @@
+POI: 			Om_Puri 
+Youtube ID: 	LjZQYwe2tIU 
+Video length: 	1728.5 sec 
+Set (V): 		dev 
+ 
+Om_Puri/LjZQYwe2tIU_0000001 564.7 569.3 
+Om_Puri/LjZQYwe2tIU_0000002 758.4 762.4 
+Om_Puri/LjZQYwe2tIU_0000003 776.2 780.3 
+Om_Puri/LjZQYwe2tIU_0000004 824.3 829.0 
+Om_Puri/LjZQYwe2tIU_0000005 839.4 843.6 
+Om_Puri/LjZQYwe2tIU_0000006 849.5 854.8 

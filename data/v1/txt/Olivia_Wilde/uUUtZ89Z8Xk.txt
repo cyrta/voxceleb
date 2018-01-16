@@ -1,0 +1,13 @@
+POI: 			Olivia_Wilde 
+Youtube ID: 	uUUtZ89Z8Xk 
+Video length: 	157.6 sec 
+Set (V): 		dev 
+ 
+Olivia_Wilde/uUUtZ89Z8Xk_0000001 27.1 31.9 
+Olivia_Wilde/uUUtZ89Z8Xk_0000002 32.6 38.6 
+Olivia_Wilde/uUUtZ89Z8Xk_0000003 58.3 64.4 
+Olivia_Wilde/uUUtZ89Z8Xk_0000004 74.9 84.0 
+Olivia_Wilde/uUUtZ89Z8Xk_0000005 90.2 103.9 
+Olivia_Wilde/uUUtZ89Z8Xk_0000006 109.0 114.4 
+Olivia_Wilde/uUUtZ89Z8Xk_0000007 125.6 133.0 
+Olivia_Wilde/uUUtZ89Z8Xk_0000008 135.5 156.2 

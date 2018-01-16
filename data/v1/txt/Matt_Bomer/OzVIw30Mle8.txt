@@ -1,0 +1,14 @@
+POI: 			Matt_Bomer 
+Youtube ID: 	OzVIw30Mle8 
+Video length: 	425.2 sec 
+Set (V): 		dev 
+ 
+Matt_Bomer/OzVIw30Mle8_0000001 08.9 16.5 
+Matt_Bomer/OzVIw30Mle8_0000002 44.4 53.5 
+Matt_Bomer/OzVIw30Mle8_0000003 54.0 63.6 
+Matt_Bomer/OzVIw30Mle8_0000004 78.0 82.0 
+Matt_Bomer/OzVIw30Mle8_0000005 211.8 222.0 
+Matt_Bomer/OzVIw30Mle8_0000006 229.7 234.7 
+Matt_Bomer/OzVIw30Mle8_0000007 274.8 281.6 
+Matt_Bomer/OzVIw30Mle8_0000008 320.6 327.8 
+Matt_Bomer/OzVIw30Mle8_0000009 344.1 348.8 

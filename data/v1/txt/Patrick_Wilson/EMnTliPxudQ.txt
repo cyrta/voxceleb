@@ -1,0 +1,32 @@
+POI: 			Patrick_Wilson 
+Youtube ID: 	EMnTliPxudQ 
+Video length: 	362.9 sec 
+Set (V): 		dev 
+ 
+Patrick_Wilson/EMnTliPxudQ_0000001 06.1 25.4 
+Patrick_Wilson/EMnTliPxudQ_0000002 26.4 45.2 
+Patrick_Wilson/EMnTliPxudQ_0000003 54.5 58.8 
+Patrick_Wilson/EMnTliPxudQ_0000004 63.7 81.6 
+Patrick_Wilson/EMnTliPxudQ_0000005 82.5 92.8 
+Patrick_Wilson/EMnTliPxudQ_0000006 98.6 118.5 
+Patrick_Wilson/EMnTliPxudQ_0000007 119.7 137.9 
+Patrick_Wilson/EMnTliPxudQ_0000008 138.3 145.8 
+Patrick_Wilson/EMnTliPxudQ_0000009 146.0 152.1 
+Patrick_Wilson/EMnTliPxudQ_0000010 154.0 160.2 
+Patrick_Wilson/EMnTliPxudQ_0000011 160.9 166.2 
+Patrick_Wilson/EMnTliPxudQ_0000012 177.1 189.8 
+Patrick_Wilson/EMnTliPxudQ_0000013 190.2 209.0 
+Patrick_Wilson/EMnTliPxudQ_0000014 210.9 224.3 
+Patrick_Wilson/EMnTliPxudQ_0000015 235.7 243.9 
+Patrick_Wilson/EMnTliPxudQ_0000016 244.5 269.3 
+Patrick_Wilson/EMnTliPxudQ_0000017 199.6 224.6 
+Patrick_Wilson/EMnTliPxudQ_0000018 235.0 242.5 
+Patrick_Wilson/EMnTliPxudQ_0000019 256.4 273.9 
+Patrick_Wilson/EMnTliPxudQ_0000020 288.7 296.2 
+Patrick_Wilson/EMnTliPxudQ_0000021 297.1 327.7 
+Patrick_Wilson/EMnTliPxudQ_0000022 331.1 336.4 
+Patrick_Wilson/EMnTliPxudQ_0000023 337.4 352.0 
+Patrick_Wilson/EMnTliPxudQ_0000024 276.0 280.4 
+Patrick_Wilson/EMnTliPxudQ_0000025 285.1 291.6 
+Patrick_Wilson/EMnTliPxudQ_0000026 301.9 312.1 
+Patrick_Wilson/EMnTliPxudQ_0000027 354.5 359.6 

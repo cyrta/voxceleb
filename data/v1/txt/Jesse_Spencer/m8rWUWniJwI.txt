@@ -1,0 +1,11 @@
+POI: 			Jesse_Spencer 
+Youtube ID: 	m8rWUWniJwI 
+Video length: 	254.2 sec 
+Set (V): 		dev 
+ 
+Jesse_Spencer/m8rWUWniJwI_0000001 40.2 46.0 
+Jesse_Spencer/m8rWUWniJwI_0000002 113.4 118.4 
+Jesse_Spencer/m8rWUWniJwI_0000003 119.8 125.7 
+Jesse_Spencer/m8rWUWniJwI_0000004 131.6 157.4 
+Jesse_Spencer/m8rWUWniJwI_0000005 162.0 168.0 
+Jesse_Spencer/m8rWUWniJwI_0000006 180.6 185.1 

@@ -1,0 +1,10 @@
+POI: 			Nicole_Scherzinger 
+Youtube ID: 	8kh1R5KjuhA 
+Video length: 	402.6 sec 
+Set (V): 		dev 
+ 
+Nicole_Scherzinger/8kh1R5KjuhA_0000001 34.2 40.2 
+Nicole_Scherzinger/8kh1R5KjuhA_0000002 67.6 78.1 
+Nicole_Scherzinger/8kh1R5KjuhA_0000003 128.5 132.6 
+Nicole_Scherzinger/8kh1R5KjuhA_0000004 209.0 218.0 
+Nicole_Scherzinger/8kh1R5KjuhA_0000005 348.0 354.4 

@@ -1,0 +1,8 @@
+POI: 			Iwan_Rheon 
+Youtube ID: 	fQo27V00Uoc 
+Video length: 	343.3 sec 
+Set (V): 		dev 
+ 
+Iwan_Rheon/fQo27V00Uoc_0000001 89.2 94.3 
+Iwan_Rheon/fQo27V00Uoc_0000002 153.0 157.7 
+Iwan_Rheon/fQo27V00Uoc_0000003 265.2 274.4 

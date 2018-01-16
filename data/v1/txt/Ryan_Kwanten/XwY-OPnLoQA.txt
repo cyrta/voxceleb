@@ -1,0 +1,13 @@
+POI: 			Ryan_Kwanten 
+Youtube ID: 	XwY-OPnLoQA 
+Video length: 	321.8 sec 
+Set (V): 		dev 
+ 
+Ryan_Kwanten/XwY-OPnLoQA_0000001 99.4 103.8 
+Ryan_Kwanten/XwY-OPnLoQA_0000002 130.8 135.0 
+Ryan_Kwanten/XwY-OPnLoQA_0000003 139.7 146.9 
+Ryan_Kwanten/XwY-OPnLoQA_0000004 218.6 227.0 
+Ryan_Kwanten/XwY-OPnLoQA_0000005 231.1 249.7 
+Ryan_Kwanten/XwY-OPnLoQA_0000006 253.6 258.7 
+Ryan_Kwanten/XwY-OPnLoQA_0000007 283.0 287.8 
+Ryan_Kwanten/XwY-OPnLoQA_0000008 291.9 302.8 

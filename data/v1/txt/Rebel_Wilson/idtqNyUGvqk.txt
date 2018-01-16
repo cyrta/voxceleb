@@ -1,0 +1,10 @@
+POI: 			Rebel_Wilson 
+Youtube ID: 	idtqNyUGvqk 
+Video length: 	336.4 sec 
+Set (V): 		dev 
+ 
+Rebel_Wilson/idtqNyUGvqk_0000001 60.0 67.2 
+Rebel_Wilson/idtqNyUGvqk_0000002 76.4 81.7 
+Rebel_Wilson/idtqNyUGvqk_0000003 83.2 92.4 
+Rebel_Wilson/idtqNyUGvqk_0000004 201.5 207.5 
+Rebel_Wilson/idtqNyUGvqk_0000005 211.0 216.7 

@@ -1,0 +1,21 @@
+POI: 			Tom_Arnold 
+Youtube ID: 	aSW5tSWg4wk 
+Video length: 	328.5 sec 
+Set (V): 		dev 
+ 
+Tom_Arnold/aSW5tSWg4wk_0000001 51.2 55.3 
+Tom_Arnold/aSW5tSWg4wk_0000002 59.3 64.6 
+Tom_Arnold/aSW5tSWg4wk_0000003 91.3 98.6 
+Tom_Arnold/aSW5tSWg4wk_0000004 99.5 106.8 
+Tom_Arnold/aSW5tSWg4wk_0000005 110.4 120.2 
+Tom_Arnold/aSW5tSWg4wk_0000006 129.4 133.8 
+Tom_Arnold/aSW5tSWg4wk_0000007 170.7 176.2 
+Tom_Arnold/aSW5tSWg4wk_0000008 203.5 210.1 
+Tom_Arnold/aSW5tSWg4wk_0000009 212.2 216.2 
+Tom_Arnold/aSW5tSWg4wk_0000010 230.4 234.9 
+Tom_Arnold/aSW5tSWg4wk_0000011 256.8 262.8 
+Tom_Arnold/aSW5tSWg4wk_0000012 266.8 270.9 
+Tom_Arnold/aSW5tSWg4wk_0000013 271.2 276.4 
+Tom_Arnold/aSW5tSWg4wk_0000014 280.8 286.1 
+Tom_Arnold/aSW5tSWg4wk_0000015 291.1 300.2 
+Tom_Arnold/aSW5tSWg4wk_0000016 308.6 314.8 

@@ -1,0 +1,7 @@
+POI: 			Guy_Pearce 
+Youtube ID: 	njnlvOsrsqA 
+Video length: 	317.2 sec 
+Set (V): 		dev 
+ 
+Guy_Pearce/njnlvOsrsqA_0000001 163.3 169.7 
+Guy_Pearce/njnlvOsrsqA_0000002 170.5 177.9 

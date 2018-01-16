@@ -1,0 +1,12 @@
+POI: 			Heather_Graham 
+Youtube ID: 	35-qPdnh8BY 
+Video length: 	545.9 sec 
+Set (V): 		dev 
+ 
+Heather_Graham/35-qPdnh8BY_0000001 201.5 212.8 
+Heather_Graham/35-qPdnh8BY_0000002 248.0 257.0 
+Heather_Graham/35-qPdnh8BY_0000003 290.6 297.7 
+Heather_Graham/35-qPdnh8BY_0000004 352.3 358.8 
+Heather_Graham/35-qPdnh8BY_0000005 385.6 390.4 
+Heather_Graham/35-qPdnh8BY_0000006 519.2 526.0 
+Heather_Graham/35-qPdnh8BY_0000007 526.7 530.8 

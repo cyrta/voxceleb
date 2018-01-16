@@ -1,0 +1,11 @@
+POI: 			Patrick_Swayze 
+Youtube ID: 	b3Oc6PeTk9A 
+Video length: 	101.4 sec 
+Set (V): 		dev 
+ 
+Patrick_Swayze/b3Oc6PeTk9A_0000001 05.4 14.1 
+Patrick_Swayze/b3Oc6PeTk9A_0000002 23.9 28.8 
+Patrick_Swayze/b3Oc6PeTk9A_0000003 30.8 42.6 
+Patrick_Swayze/b3Oc6PeTk9A_0000004 45.0 56.7 
+Patrick_Swayze/b3Oc6PeTk9A_0000005 72.2 79.5 
+Patrick_Swayze/b3Oc6PeTk9A_0000006 83.3 94.5 

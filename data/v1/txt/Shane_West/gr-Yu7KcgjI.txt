@@ -1,0 +1,12 @@
+POI: 			Shane_West 
+Youtube ID: 	gr-Yu7KcgjI 
+Video length: 	248.6 sec 
+Set (V): 		dev 
+ 
+Shane_West/gr-Yu7KcgjI_0000001 55.7 72.9 
+Shane_West/gr-Yu7KcgjI_0000002 109.5 116.8 
+Shane_West/gr-Yu7KcgjI_0000003 117.1 125.6 
+Shane_West/gr-Yu7KcgjI_0000004 147.4 151.5 
+Shane_West/gr-Yu7KcgjI_0000005 157.4 161.7 
+Shane_West/gr-Yu7KcgjI_0000006 206.4 212.2 
+Shane_West/gr-Yu7KcgjI_0000007 218.2 235.8 

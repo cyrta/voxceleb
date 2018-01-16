@@ -1,0 +1,9 @@
+POI: 			Joss_Stone 
+Youtube ID: 	f19fqFRmmJ4 
+Video length: 	575.5 sec 
+Set (V): 		dev 
+ 
+Joss_Stone/f19fqFRmmJ4_0000001 56.5 65.8 
+Joss_Stone/f19fqFRmmJ4_0000002 69.4 80.9 
+Joss_Stone/f19fqFRmmJ4_0000003 195.8 201.9 
+Joss_Stone/f19fqFRmmJ4_0000004 227.5 235.9 

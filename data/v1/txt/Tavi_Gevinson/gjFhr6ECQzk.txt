@@ -1,0 +1,12 @@
+POI: 			Tavi_Gevinson 
+Youtube ID: 	gjFhr6ECQzk 
+Video length: 	147.4 sec 
+Set (V): 		dev 
+ 
+Tavi_Gevinson/gjFhr6ECQzk_0000001 17.5 25.0 
+Tavi_Gevinson/gjFhr6ECQzk_0000002 26.0 34.0 
+Tavi_Gevinson/gjFhr6ECQzk_0000003 50.6 56.6 
+Tavi_Gevinson/gjFhr6ECQzk_0000004 67.6 73.9 
+Tavi_Gevinson/gjFhr6ECQzk_0000005 74.7 81.1 
+Tavi_Gevinson/gjFhr6ECQzk_0000006 84.8 91.8 
+Tavi_Gevinson/gjFhr6ECQzk_0000007 115.4 123.9 

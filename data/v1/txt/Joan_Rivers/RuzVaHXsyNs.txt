@@ -1,0 +1,6 @@
+POI: 			Joan_Rivers 
+Youtube ID: 	RuzVaHXsyNs 
+Video length: 	2480.1 sec 
+Set (V): 		dev 
+ 
+Joan_Rivers/RuzVaHXsyNs_0000001 2291.0 2295.1 

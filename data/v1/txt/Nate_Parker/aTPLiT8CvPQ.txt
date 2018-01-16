@@ -1,0 +1,22 @@
+POI: 			Nate_Parker 
+Youtube ID: 	aTPLiT8CvPQ 
+Video length: 	307.7 sec 
+Set (V): 		dev 
+ 
+Nate_Parker/aTPLiT8CvPQ_0000001 21.4 34.6 
+Nate_Parker/aTPLiT8CvPQ_0000002 34.7 38.9 
+Nate_Parker/aTPLiT8CvPQ_0000003 39.4 47.2 
+Nate_Parker/aTPLiT8CvPQ_0000004 47.4 63.9 
+Nate_Parker/aTPLiT8CvPQ_0000005 49.8 63.9 
+Nate_Parker/aTPLiT8CvPQ_0000006 97.5 104.2 
+Nate_Parker/aTPLiT8CvPQ_0000007 107.8 115.9 
+Nate_Parker/aTPLiT8CvPQ_0000008 124.8 131.8 
+Nate_Parker/aTPLiT8CvPQ_0000009 132.1 161.7 
+Nate_Parker/aTPLiT8CvPQ_0000010 162.2 186.0 
+Nate_Parker/aTPLiT8CvPQ_0000011 186.1 191.2 
+Nate_Parker/aTPLiT8CvPQ_0000012 231.3 242.3 
+Nate_Parker/aTPLiT8CvPQ_0000013 243.0 251.3 
+Nate_Parker/aTPLiT8CvPQ_0000014 251.5 272.4 
+Nate_Parker/aTPLiT8CvPQ_0000015 274.5 278.5 
+Nate_Parker/aTPLiT8CvPQ_0000016 278.7 290.4 
+Nate_Parker/aTPLiT8CvPQ_0000017 291.6 306.2 

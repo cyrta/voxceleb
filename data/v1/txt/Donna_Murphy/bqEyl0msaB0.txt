@@ -1,0 +1,18 @@
+POI: 			Donna_Murphy 
+Youtube ID: 	bqEyl0msaB0 
+Video length: 	252.6 sec 
+Set (V): 		dev 
+ 
+Donna_Murphy/bqEyl0msaB0_0000001 30.9 35.7 
+Donna_Murphy/bqEyl0msaB0_0000002 40.4 44.5 
+Donna_Murphy/bqEyl0msaB0_0000003 45.4 51.8 
+Donna_Murphy/bqEyl0msaB0_0000004 61.2 65.2 
+Donna_Murphy/bqEyl0msaB0_0000005 71.2 75.6 
+Donna_Murphy/bqEyl0msaB0_0000006 84.0 90.3 
+Donna_Murphy/bqEyl0msaB0_0000007 112.2 124.1 
+Donna_Murphy/bqEyl0msaB0_0000008 147.4 159.5 
+Donna_Murphy/bqEyl0msaB0_0000009 167.3 177.6 
+Donna_Murphy/bqEyl0msaB0_0000010 183.6 187.6 
+Donna_Murphy/bqEyl0msaB0_0000011 188.4 195.8 
+Donna_Murphy/bqEyl0msaB0_0000012 209.4 213.4 
+Donna_Murphy/bqEyl0msaB0_0000013 216.6 235.4 

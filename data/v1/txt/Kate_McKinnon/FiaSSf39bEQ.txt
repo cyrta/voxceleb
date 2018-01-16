@@ -1,0 +1,7 @@
+POI: 			Kate_McKinnon 
+Youtube ID: 	FiaSSf39bEQ 
+Video length: 	207.8 sec 
+Set (V): 		dev 
+ 
+Kate_McKinnon/FiaSSf39bEQ_0000001 119.2 125.1 
+Kate_McKinnon/FiaSSf39bEQ_0000002 189.2 193.4 

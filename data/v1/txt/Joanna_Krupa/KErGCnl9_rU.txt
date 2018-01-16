@@ -1,0 +1,9 @@
+POI: 			Joanna_Krupa 
+Youtube ID: 	KErGCnl9_rU 
+Video length: 	102.0 sec 
+Set (V): 		dev 
+ 
+Joanna_Krupa/KErGCnl9_rU_0000001 20.0 29.4 
+Joanna_Krupa/KErGCnl9_rU_0000002 57.4 65.5 
+Joanna_Krupa/KErGCnl9_rU_0000003 71.6 75.8 
+Joanna_Krupa/KErGCnl9_rU_0000004 79.7 85.9 

@@ -1,0 +1,7 @@
+POI: 			Stanley_Tucci 
+Youtube ID: 	Vu_b7oVd1zQ 
+Video length: 	298.6 sec 
+Set (V): 		dev 
+ 
+Stanley_Tucci/Vu_b7oVd1zQ_0000001 227.6 232.6 
+Stanley_Tucci/Vu_b7oVd1zQ_0000002 268.4 277.4 

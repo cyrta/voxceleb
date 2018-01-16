@@ -1,0 +1,12 @@
+POI: 			Fred_Williamson 
+Youtube ID: 	GtUep_eTQ7U 
+Video length: 	253.9 sec 
+Set (V): 		dev 
+ 
+Fred_Williamson/GtUep_eTQ7U_0000001 38.0 53.9 
+Fred_Williamson/GtUep_eTQ7U_0000002 59.6 64.0 
+Fred_Williamson/GtUep_eTQ7U_0000003 64.5 72.1 
+Fred_Williamson/GtUep_eTQ7U_0000004 134.5 140.1 
+Fred_Williamson/GtUep_eTQ7U_0000005 158.2 168.0 
+Fred_Williamson/GtUep_eTQ7U_0000006 175.2 181.6 
+Fred_Williamson/GtUep_eTQ7U_0000007 222.5 228.7 

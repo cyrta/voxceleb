@@ -1,0 +1,10 @@
+POI: 			Rhys_Ifans 
+Youtube ID: 	RbDos3-ASX4 
+Video length: 	280.9 sec 
+Set (V): 		dev 
+ 
+Rhys_Ifans/RbDos3-ASX4_0000001 71.9 81.8 
+Rhys_Ifans/RbDos3-ASX4_0000002 82.8 92.8 
+Rhys_Ifans/RbDos3-ASX4_0000003 128.8 140.0 
+Rhys_Ifans/RbDos3-ASX4_0000004 188.8 196.1 
+Rhys_Ifans/RbDos3-ASX4_0000005 214.0 218.7 

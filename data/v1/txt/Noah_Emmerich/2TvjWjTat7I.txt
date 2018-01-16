@@ -1,0 +1,10 @@
+POI: 			Noah_Emmerich 
+Youtube ID: 	2TvjWjTat7I 
+Video length: 	636.8 sec 
+Set (V): 		dev 
+ 
+Noah_Emmerich/2TvjWjTat7I_0000001 536.0 541.6 
+Noah_Emmerich/2TvjWjTat7I_0000002 543.0 548.0 
+Noah_Emmerich/2TvjWjTat7I_0000003 548.3 552.3 
+Noah_Emmerich/2TvjWjTat7I_0000004 587.7 594.0 
+Noah_Emmerich/2TvjWjTat7I_0000005 594.8 600.4 

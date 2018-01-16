@@ -1,0 +1,7 @@
+POI: 			Teri_Hatcher 
+Youtube ID: 	5Mk-rp4AiKg 
+Video length: 	157.4 sec 
+Set (V): 		dev 
+ 
+Teri_Hatcher/5Mk-rp4AiKg_0000001 38.2 45.0 
+Teri_Hatcher/5Mk-rp4AiKg_0000002 116.2 126.3 

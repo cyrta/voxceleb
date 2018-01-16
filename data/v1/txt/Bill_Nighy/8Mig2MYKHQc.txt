@@ -1,0 +1,13 @@
+POI: 			Bill_Nighy 
+Youtube ID: 	8Mig2MYKHQc 
+Video length: 	188.7 sec 
+Set (V): 		dev 
+ 
+Bill_Nighy/8Mig2MYKHQc_0000001 55.6 60.4 
+Bill_Nighy/8Mig2MYKHQc_0000002 61.2 67.8 
+Bill_Nighy/8Mig2MYKHQc_0000003 94.1 100.2 
+Bill_Nighy/8Mig2MYKHQc_0000004 114.4 130.2 
+Bill_Nighy/8Mig2MYKHQc_0000005 132.4 142.7 
+Bill_Nighy/8Mig2MYKHQc_0000006 143.4 147.8 
+Bill_Nighy/8Mig2MYKHQc_0000007 148.6 154.0 
+Bill_Nighy/8Mig2MYKHQc_0000008 154.6 185.9 

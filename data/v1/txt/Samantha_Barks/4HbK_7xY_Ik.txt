@@ -1,0 +1,12 @@
+POI: 			Samantha_Barks 
+Youtube ID: 	4HbK_7xY_Ik 
+Video length: 	484.8 sec 
+Set (V): 		dev 
+ 
+Samantha_Barks/4HbK_7xY_Ik_0000001 147.1 167.3 
+Samantha_Barks/4HbK_7xY_Ik_0000002 167.6 173.6 
+Samantha_Barks/4HbK_7xY_Ik_0000003 182.7 203.8 
+Samantha_Barks/4HbK_7xY_Ik_0000004 375.5 390.2 
+Samantha_Barks/4HbK_7xY_Ik_0000005 391.2 404.4 
+Samantha_Barks/4HbK_7xY_Ik_0000006 407.6 413.6 
+Samantha_Barks/4HbK_7xY_Ik_0000007 433.6 438.1 

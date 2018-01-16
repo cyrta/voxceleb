@@ -1,0 +1,15 @@
+POI: 			Dustin_Milligan 
+Youtube ID: 	DcAhTUKXx9I 
+Video length: 	454.7 sec 
+Set (V): 		dev 
+ 
+Dustin_Milligan/DcAhTUKXx9I_0000001 38.1 49.1 
+Dustin_Milligan/DcAhTUKXx9I_0000002 51.8 57.8 
+Dustin_Milligan/DcAhTUKXx9I_0000003 82.4 87.4 
+Dustin_Milligan/DcAhTUKXx9I_0000004 188.6 194.4 
+Dustin_Milligan/DcAhTUKXx9I_0000005 214.2 221.4 
+Dustin_Milligan/DcAhTUKXx9I_0000006 300.6 313.4 
+Dustin_Milligan/DcAhTUKXx9I_0000007 316.0 327.9 
+Dustin_Milligan/DcAhTUKXx9I_0000008 360.4 364.8 
+Dustin_Milligan/DcAhTUKXx9I_0000009 392.7 398.8 
+Dustin_Milligan/DcAhTUKXx9I_0000010 405.9 413.8 

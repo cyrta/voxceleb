@@ -1,0 +1,11 @@
+POI: 			Rob_Dyrdek 
+Youtube ID: 	2SgemIGrUos 
+Video length: 	289.9 sec 
+Set (V): 		dev 
+ 
+Rob_Dyrdek/2SgemIGrUos_0000001 41.9 47.0 
+Rob_Dyrdek/2SgemIGrUos_0000002 90.9 95.5 
+Rob_Dyrdek/2SgemIGrUos_0000003 202.2 206.8 
+Rob_Dyrdek/2SgemIGrUos_0000004 230.8 235.1 
+Rob_Dyrdek/2SgemIGrUos_0000005 261.0 266.2 
+Rob_Dyrdek/2SgemIGrUos_0000006 273.8 277.7 

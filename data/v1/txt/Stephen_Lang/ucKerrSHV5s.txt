@@ -1,0 +1,17 @@
+POI: 			Stephen_Lang 
+Youtube ID: 	ucKerrSHV5s 
+Video length: 	387.3 sec 
+Set (V): 		dev 
+ 
+Stephen_Lang/ucKerrSHV5s_0000001 71.7 83.3 
+Stephen_Lang/ucKerrSHV5s_0000002 100.8 115.6 
+Stephen_Lang/ucKerrSHV5s_0000003 121.2 132.4 
+Stephen_Lang/ucKerrSHV5s_0000004 132.7 144.1 
+Stephen_Lang/ucKerrSHV5s_0000005 174.8 180.9 
+Stephen_Lang/ucKerrSHV5s_0000006 193.2 198.6 
+Stephen_Lang/ucKerrSHV5s_0000007 203.2 210.0 
+Stephen_Lang/ucKerrSHV5s_0000008 210.2 215.0 
+Stephen_Lang/ucKerrSHV5s_0000009 217.2 222.1 
+Stephen_Lang/ucKerrSHV5s_0000010 222.7 242.4 
+Stephen_Lang/ucKerrSHV5s_0000011 255.2 264.4 
+Stephen_Lang/ucKerrSHV5s_0000012 350.8 357.2 

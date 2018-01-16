@@ -1,0 +1,7 @@
+POI: 			Max_Adler 
+Youtube ID: 	eplMw-b3UPE 
+Video length: 	146.9 sec 
+Set (V): 		dev 
+ 
+Max_Adler/eplMw-b3UPE_0000001 19.4 23.7 
+Max_Adler/eplMw-b3UPE_0000002 50.0 54.4 

@@ -1,0 +1,25 @@
+POI: 			Jon_Favreau 
+Youtube ID: 	BePzrXLRLOk 
+Video length: 	490.7 sec 
+Set (V): 		dev 
+ 
+Jon_Favreau/BePzrXLRLOk_0000001 01.7 24.6 
+Jon_Favreau/BePzrXLRLOk_0000002 25.6 34.6 
+Jon_Favreau/BePzrXLRLOk_0000003 35.5 46.9 
+Jon_Favreau/BePzrXLRLOk_0000004 47.8 55.8 
+Jon_Favreau/BePzrXLRLOk_0000005 61.0 76.3 
+Jon_Favreau/BePzrXLRLOk_0000006 83.4 99.0 
+Jon_Favreau/BePzrXLRLOk_0000007 99.9 112.2 
+Jon_Favreau/BePzrXLRLOk_0000008 113.4 141.3 
+Jon_Favreau/BePzrXLRLOk_0000009 141.7 149.2 
+Jon_Favreau/BePzrXLRLOk_0000010 235.9 262.3 
+Jon_Favreau/BePzrXLRLOk_0000011 262.9 290.2 
+Jon_Favreau/BePzrXLRLOk_0000012 292.2 305.2 
+Jon_Favreau/BePzrXLRLOk_0000013 367.9 375.4 
+Jon_Favreau/BePzrXLRLOk_0000014 377.2 386.0 
+Jon_Favreau/BePzrXLRLOk_0000015 387.1 406.8 
+Jon_Favreau/BePzrXLRLOk_0000016 407.3 411.6 
+Jon_Favreau/BePzrXLRLOk_0000017 415.0 447.6 
+Jon_Favreau/BePzrXLRLOk_0000018 448.4 452.6 
+Jon_Favreau/BePzrXLRLOk_0000019 455.2 468.9 
+Jon_Favreau/BePzrXLRLOk_0000020 469.9 488.6 

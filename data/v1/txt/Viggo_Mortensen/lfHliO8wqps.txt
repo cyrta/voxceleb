@@ -1,0 +1,8 @@
+POI: 			Viggo_Mortensen 
+Youtube ID: 	lfHliO8wqps 
+Video length: 	138.6 sec 
+Set (V): 		dev 
+ 
+Viggo_Mortensen/lfHliO8wqps_0000001 08.2 13.2 
+Viggo_Mortensen/lfHliO8wqps_0000002 13.9 20.7 
+Viggo_Mortensen/lfHliO8wqps_0000003 31.8 39.2 

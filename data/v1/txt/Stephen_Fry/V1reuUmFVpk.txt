@@ -1,0 +1,9 @@
+POI: 			Stephen_Fry 
+Youtube ID: 	V1reuUmFVpk 
+Video length: 	187.8 sec 
+Set (V): 		dev 
+ 
+Stephen_Fry/V1reuUmFVpk_0000001 55.2 59.9 
+Stephen_Fry/V1reuUmFVpk_0000002 68.0 76.5 
+Stephen_Fry/V1reuUmFVpk_0000003 123.7 127.7 
+Stephen_Fry/V1reuUmFVpk_0000004 163.6 169.8 

@@ -1,0 +1,15 @@
+POI: 			Leonor_Watling 
+Youtube ID: 	FpOP7dwvIYU 
+Video length: 	1828.6 sec 
+Set (V): 		dev 
+ 
+Leonor_Watling/FpOP7dwvIYU_0000001 133.6 138.5 
+Leonor_Watling/FpOP7dwvIYU_0000002 165.1 169.4 
+Leonor_Watling/FpOP7dwvIYU_0000003 291.8 296.8 
+Leonor_Watling/FpOP7dwvIYU_0000004 299.3 309.4 
+Leonor_Watling/FpOP7dwvIYU_0000005 362.4 366.6 
+Leonor_Watling/FpOP7dwvIYU_0000006 391.5 395.6 
+Leonor_Watling/FpOP7dwvIYU_0000007 797.3 801.9 
+Leonor_Watling/FpOP7dwvIYU_0000008 1484.5 1489.8 
+Leonor_Watling/FpOP7dwvIYU_0000009 1755.1 1761.5 
+Leonor_Watling/FpOP7dwvIYU_0000010 1777.2 1781.4 

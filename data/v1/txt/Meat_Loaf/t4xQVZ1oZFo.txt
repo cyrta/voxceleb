@@ -1,0 +1,7 @@
+POI: 			Meat_Loaf 
+Youtube ID: 	t4xQVZ1oZFo 
+Video length: 	176.4 sec 
+Set (V): 		dev 
+ 
+Meat_Loaf/t4xQVZ1oZFo_0000001 68.8 74.0 
+Meat_Loaf/t4xQVZ1oZFo_0000002 76.4 80.6 

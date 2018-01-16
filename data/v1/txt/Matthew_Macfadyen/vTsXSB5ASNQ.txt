@@ -1,0 +1,15 @@
+POI: 			Matthew_Macfadyen 
+Youtube ID: 	vTsXSB5ASNQ 
+Video length: 	243.7 sec 
+Set (V): 		dev 
+ 
+Matthew_Macfadyen/vTsXSB5ASNQ_0000001 07.2 14.1 
+Matthew_Macfadyen/vTsXSB5ASNQ_0000002 24.6 28.8 
+Matthew_Macfadyen/vTsXSB5ASNQ_0000003 32.8 40.8 
+Matthew_Macfadyen/vTsXSB5ASNQ_0000004 52.0 56.5 
+Matthew_Macfadyen/vTsXSB5ASNQ_0000005 80.1 86.2 
+Matthew_Macfadyen/vTsXSB5ASNQ_0000006 103.0 108.4 
+Matthew_Macfadyen/vTsXSB5ASNQ_0000007 149.3 157.8 
+Matthew_Macfadyen/vTsXSB5ASNQ_0000008 171.9 180.1 
+Matthew_Macfadyen/vTsXSB5ASNQ_0000009 198.8 205.2 
+Matthew_Macfadyen/vTsXSB5ASNQ_0000010 227.4 233.8 

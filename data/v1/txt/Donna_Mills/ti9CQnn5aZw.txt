@@ -1,0 +1,21 @@
+POI: 			Donna_Mills 
+Youtube ID: 	ti9CQnn5aZw 
+Video length: 	522.6 sec 
+Set (V): 		dev 
+ 
+Donna_Mills/ti9CQnn5aZw_0000001 66.6 73.8 
+Donna_Mills/ti9CQnn5aZw_0000002 81.2 87.8 
+Donna_Mills/ti9CQnn5aZw_0000003 106.7 121.5 
+Donna_Mills/ti9CQnn5aZw_0000004 125.8 129.8 
+Donna_Mills/ti9CQnn5aZw_0000005 131.0 138.9 
+Donna_Mills/ti9CQnn5aZw_0000006 215.1 221.2 
+Donna_Mills/ti9CQnn5aZw_0000007 357.4 374.9 
+Donna_Mills/ti9CQnn5aZw_0000008 376.0 380.4 
+Donna_Mills/ti9CQnn5aZw_0000009 392.2 397.2 
+Donna_Mills/ti9CQnn5aZw_0000010 398.2 408.2 
+Donna_Mills/ti9CQnn5aZw_0000011 411.5 417.7 
+Donna_Mills/ti9CQnn5aZw_0000012 428.5 433.4 
+Donna_Mills/ti9CQnn5aZw_0000013 436.9 444.6 
+Donna_Mills/ti9CQnn5aZw_0000014 479.9 492.9 
+Donna_Mills/ti9CQnn5aZw_0000015 506.9 512.5 
+Donna_Mills/ti9CQnn5aZw_0000016 513.5 520.0 

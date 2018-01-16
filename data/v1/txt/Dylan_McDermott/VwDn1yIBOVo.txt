@@ -1,0 +1,8 @@
+POI: 			Dylan_McDermott 
+Youtube ID: 	VwDn1yIBOVo 
+Video length: 	163.7 sec 
+Set (V): 		dev 
+ 
+Dylan_McDermott/VwDn1yIBOVo_0000001 63.5 69.3 
+Dylan_McDermott/VwDn1yIBOVo_0000002 73.4 78.3 
+Dylan_McDermott/VwDn1yIBOVo_0000003 121.7 126.3 

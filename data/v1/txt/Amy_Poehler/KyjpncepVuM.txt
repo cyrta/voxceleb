@@ -1,0 +1,15 @@
+POI: 			Amy_Poehler 
+Youtube ID: 	KyjpncepVuM 
+Video length: 	421.7 sec 
+Set (V): 		dev 
+ 
+Amy_Poehler/KyjpncepVuM_0000001 120.8 125.4 
+Amy_Poehler/KyjpncepVuM_0000002 129.1 135.9 
+Amy_Poehler/KyjpncepVuM_0000003 162.8 169.1 
+Amy_Poehler/KyjpncepVuM_0000004 183.4 190.2 
+Amy_Poehler/KyjpncepVuM_0000005 200.5 206.0 
+Amy_Poehler/KyjpncepVuM_0000006 214.6 219.0 
+Amy_Poehler/KyjpncepVuM_0000007 260.5 265.0 
+Amy_Poehler/KyjpncepVuM_0000008 352.1 360.3 
+Amy_Poehler/KyjpncepVuM_0000009 377.8 385.8 
+Amy_Poehler/KyjpncepVuM_0000010 399.4 406.9 

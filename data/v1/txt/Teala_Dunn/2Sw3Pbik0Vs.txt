@@ -1,0 +1,14 @@
+POI: 			Teala_Dunn 
+Youtube ID: 	2Sw3Pbik0Vs 
+Video length: 	358.8 sec 
+Set (V): 		dev 
+ 
+Teala_Dunn/2Sw3Pbik0Vs_0000001 27.4 31.8 
+Teala_Dunn/2Sw3Pbik0Vs_0000002 163.0 168.1 
+Teala_Dunn/2Sw3Pbik0Vs_0000003 180.8 186.6 
+Teala_Dunn/2Sw3Pbik0Vs_0000004 188.0 193.8 
+Teala_Dunn/2Sw3Pbik0Vs_0000005 213.2 218.7 
+Teala_Dunn/2Sw3Pbik0Vs_0000006 230.8 235.2 
+Teala_Dunn/2Sw3Pbik0Vs_0000007 248.5 256.3 
+Teala_Dunn/2Sw3Pbik0Vs_0000008 279.2 288.2 
+Teala_Dunn/2Sw3Pbik0Vs_0000009 338.6 343.8 

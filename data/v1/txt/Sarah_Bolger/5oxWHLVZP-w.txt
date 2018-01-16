@@ -1,0 +1,10 @@
+POI: 			Sarah_Bolger 
+Youtube ID: 	5oxWHLVZP-w 
+Video length: 	240.1 sec 
+Set (V): 		dev 
+ 
+Sarah_Bolger/5oxWHLVZP-w_0000001 47.0 51.5 
+Sarah_Bolger/5oxWHLVZP-w_0000002 121.1 131.6 
+Sarah_Bolger/5oxWHLVZP-w_0000003 139.6 145.0 
+Sarah_Bolger/5oxWHLVZP-w_0000004 191.1 198.6 
+Sarah_Bolger/5oxWHLVZP-w_0000005 224.2 230.2 

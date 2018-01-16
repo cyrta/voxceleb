@@ -1,0 +1,8 @@
+POI: 			Jesse_McCartney 
+Youtube ID: 	vHcFQl8xXhQ 
+Video length: 	241.2 sec 
+Set (V): 		dev 
+ 
+Jesse_McCartney/vHcFQl8xXhQ_0000001 39.9 44.7 
+Jesse_McCartney/vHcFQl8xXhQ_0000002 44.8 54.4 
+Jesse_McCartney/vHcFQl8xXhQ_0000003 56.4 63.1 

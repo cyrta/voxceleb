@@ -1,0 +1,11 @@
+POI: 			Sarah_Hyland 
+Youtube ID: 	7BcUpVPxYs8 
+Video length: 	444.7 sec 
+Set (V): 		dev 
+ 
+Sarah_Hyland/7BcUpVPxYs8_0000001 37.0 49.5 
+Sarah_Hyland/7BcUpVPxYs8_0000002 54.6 68.0 
+Sarah_Hyland/7BcUpVPxYs8_0000003 69.0 75.8 
+Sarah_Hyland/7BcUpVPxYs8_0000004 76.0 80.5 
+Sarah_Hyland/7BcUpVPxYs8_0000005 165.8 203.0 
+Sarah_Hyland/7BcUpVPxYs8_0000006 203.8 215.2 

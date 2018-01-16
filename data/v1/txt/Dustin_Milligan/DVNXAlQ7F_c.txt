@@ -1,0 +1,8 @@
+POI: 			Dustin_Milligan 
+Youtube ID: 	DVNXAlQ7F_c 
+Video length: 	477.3 sec 
+Set (V): 		dev 
+ 
+Dustin_Milligan/DVNXAlQ7F_c_0000001 48.3 61.1 
+Dustin_Milligan/DVNXAlQ7F_c_0000002 229.6 233.8 
+Dustin_Milligan/DVNXAlQ7F_c_0000003 263.8 290.2 

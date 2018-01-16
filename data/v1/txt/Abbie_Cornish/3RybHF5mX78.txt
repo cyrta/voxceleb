@@ -1,0 +1,7 @@
+POI: 			Abbie_Cornish 
+Youtube ID: 	3RybHF5mX78 
+Video length: 	256.8 sec 
+Set (V): 		dev 
+ 
+Abbie_Cornish/3RybHF5mX78_0000001 116.7 121.2 
+Abbie_Cornish/3RybHF5mX78_0000002 234.5 238.5 

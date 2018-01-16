@@ -1,0 +1,13 @@
+POI: 			Rob_Brydon 
+Youtube ID: 	yS_Te7SIBEg 
+Video length: 	381.3 sec 
+Set (V): 		dev 
+ 
+Rob_Brydon/yS_Te7SIBEg_0000001 62.7 67.6 
+Rob_Brydon/yS_Te7SIBEg_0000002 67.8 83.8 
+Rob_Brydon/yS_Te7SIBEg_0000003 164.5 174.1 
+Rob_Brydon/yS_Te7SIBEg_0000004 246.8 251.0 
+Rob_Brydon/yS_Te7SIBEg_0000005 261.0 268.2 
+Rob_Brydon/yS_Te7SIBEg_0000006 274.8 281.1 
+Rob_Brydon/yS_Te7SIBEg_0000007 329.4 334.8 
+Rob_Brydon/yS_Te7SIBEg_0000008 348.4 355.0 

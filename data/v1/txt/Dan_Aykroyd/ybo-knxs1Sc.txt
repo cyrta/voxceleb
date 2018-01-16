@@ -1,0 +1,16 @@
+POI: 			Dan_Aykroyd 
+Youtube ID: 	ybo-knxs1Sc 
+Video length: 	681.4 sec 
+Set (V): 		dev 
+ 
+Dan_Aykroyd/ybo-knxs1Sc_0000001 139.7 143.9 
+Dan_Aykroyd/ybo-knxs1Sc_0000002 162.6 169.8 
+Dan_Aykroyd/ybo-knxs1Sc_0000003 189.4 194.0 
+Dan_Aykroyd/ybo-knxs1Sc_0000004 216.2 222.7 
+Dan_Aykroyd/ybo-knxs1Sc_0000005 232.3 237.2 
+Dan_Aykroyd/ybo-knxs1Sc_0000006 331.8 339.4 
+Dan_Aykroyd/ybo-knxs1Sc_0000007 372.4 378.5 
+Dan_Aykroyd/ybo-knxs1Sc_0000008 505.7 512.9 
+Dan_Aykroyd/ybo-knxs1Sc_0000009 556.7 560.8 
+Dan_Aykroyd/ybo-knxs1Sc_0000010 601.6 607.1 
+Dan_Aykroyd/ybo-knxs1Sc_0000011 647.8 655.8 

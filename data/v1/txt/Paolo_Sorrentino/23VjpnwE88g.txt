@@ -1,0 +1,8 @@
+POI: 			Paolo_Sorrentino 
+Youtube ID: 	23VjpnwE88g 
+Video length: 	76.2 sec 
+Set (V): 		dev 
+ 
+Paolo_Sorrentino/23VjpnwE88g_0000001 12.1 23.6 
+Paolo_Sorrentino/23VjpnwE88g_0000002 24.8 32.0 
+Paolo_Sorrentino/23VjpnwE88g_0000003 40.0 44.8 

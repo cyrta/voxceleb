@@ -1,0 +1,9 @@
+POI: 			Daniel_Craig 
+Youtube ID: 	uNO8DynLFZo 
+Video length: 	240.9 sec 
+Set (V): 		dev 
+ 
+Daniel_Craig/uNO8DynLFZo_0000001 78.7 90.7 
+Daniel_Craig/uNO8DynLFZo_0000002 128.1 143.4 
+Daniel_Craig/uNO8DynLFZo_0000003 188.8 193.3 
+Daniel_Craig/uNO8DynLFZo_0000004 195.7 202.6 

@@ -1,0 +1,7 @@
+POI: 			James_Woods 
+Youtube ID: 	IsUL_neyqvs 
+Video length: 	130.6 sec 
+Set (V): 		dev 
+ 
+James_Woods/IsUL_neyqvs_0000001 15.5 23.8 
+James_Woods/IsUL_neyqvs_0000002 106.6 112.5 

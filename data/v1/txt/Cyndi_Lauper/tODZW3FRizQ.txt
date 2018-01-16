@@ -1,0 +1,18 @@
+POI: 			Cyndi_Lauper 
+Youtube ID: 	tODZW3FRizQ 
+Video length: 	348.1 sec 
+Set (V): 		dev 
+ 
+Cyndi_Lauper/tODZW3FRizQ_0000001 08.4 14.8 
+Cyndi_Lauper/tODZW3FRizQ_0000002 22.6 29.2 
+Cyndi_Lauper/tODZW3FRizQ_0000003 49.6 60.6 
+Cyndi_Lauper/tODZW3FRizQ_0000004 79.4 84.6 
+Cyndi_Lauper/tODZW3FRizQ_0000005 124.1 129.5 
+Cyndi_Lauper/tODZW3FRizQ_0000006 137.7 143.1 
+Cyndi_Lauper/tODZW3FRizQ_0000007 147.4 154.1 
+Cyndi_Lauper/tODZW3FRizQ_0000008 156.8 162.1 
+Cyndi_Lauper/tODZW3FRizQ_0000009 167.2 173.9 
+Cyndi_Lauper/tODZW3FRizQ_0000010 247.1 253.2 
+Cyndi_Lauper/tODZW3FRizQ_0000011 278.2 287.7 
+Cyndi_Lauper/tODZW3FRizQ_0000012 292.9 299.6 
+Cyndi_Lauper/tODZW3FRizQ_0000013 307.2 311.2 

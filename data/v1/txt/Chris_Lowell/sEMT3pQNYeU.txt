@@ -1,0 +1,7 @@
+POI: 			Chris_Lowell 
+Youtube ID: 	sEMT3pQNYeU 
+Video length: 	174.9 sec 
+Set (V): 		dev 
+ 
+Chris_Lowell/sEMT3pQNYeU_0000001 54.9 60.4 
+Chris_Lowell/sEMT3pQNYeU_0000002 96.6 101.9 

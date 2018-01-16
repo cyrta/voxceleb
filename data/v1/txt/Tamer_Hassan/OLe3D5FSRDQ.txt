@@ -1,0 +1,9 @@
+POI: 			Tamer_Hassan 
+Youtube ID: 	OLe3D5FSRDQ 
+Video length: 	327.3 sec 
+Set (V): 		dev 
+ 
+Tamer_Hassan/OLe3D5FSRDQ_0000001 117.2 122.8 
+Tamer_Hassan/OLe3D5FSRDQ_0000002 128.0 133.5 
+Tamer_Hassan/OLe3D5FSRDQ_0000003 152.9 157.4 
+Tamer_Hassan/OLe3D5FSRDQ_0000004 291.4 301.6 

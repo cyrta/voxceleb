@@ -1,0 +1,9 @@
+POI: 			Alain_Delon 
+Youtube ID: 	XYGmvRZiNNg 
+Video length: 	743.5 sec 
+Set (V): 		dev 
+ 
+Alain_Delon/XYGmvRZiNNg_0000001 195.4 200.0 
+Alain_Delon/XYGmvRZiNNg_0000002 247.5 252.2 
+Alain_Delon/XYGmvRZiNNg_0000003 630.7 636.0 
+Alain_Delon/XYGmvRZiNNg_0000004 649.7 655.1 

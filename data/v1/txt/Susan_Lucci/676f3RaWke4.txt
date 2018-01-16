@@ -1,0 +1,13 @@
+POI: 			Susan_Lucci 
+Youtube ID: 	676f3RaWke4 
+Video length: 	118.2 sec 
+Set (V): 		dev 
+ 
+Susan_Lucci/676f3RaWke4_0000001 06.4 12.8 
+Susan_Lucci/676f3RaWke4_0000002 14.6 23.3 
+Susan_Lucci/676f3RaWke4_0000003 24.3 32.1 
+Susan_Lucci/676f3RaWke4_0000004 37.8 43.3 
+Susan_Lucci/676f3RaWke4_0000005 45.8 53.9 
+Susan_Lucci/676f3RaWke4_0000006 58.0 82.0 
+Susan_Lucci/676f3RaWke4_0000007 92.3 98.4 
+Susan_Lucci/676f3RaWke4_0000008 100.7 106.6 

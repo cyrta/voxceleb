@@ -1,0 +1,21 @@
+POI: 			Miriam_Margolyes 
+Youtube ID: 	ZDhc1MlYFYM 
+Video length: 	366.4 sec 
+Set (V): 		dev 
+ 
+Miriam_Margolyes/ZDhc1MlYFYM_0000001 20.8 26.0 
+Miriam_Margolyes/ZDhc1MlYFYM_0000002 62.7 72.6 
+Miriam_Margolyes/ZDhc1MlYFYM_0000003 79.2 84.4 
+Miriam_Margolyes/ZDhc1MlYFYM_0000004 90.9 98.5 
+Miriam_Margolyes/ZDhc1MlYFYM_0000005 107.7 116.1 
+Miriam_Margolyes/ZDhc1MlYFYM_0000006 125.0 129.6 
+Miriam_Margolyes/ZDhc1MlYFYM_0000007 135.8 141.7 
+Miriam_Margolyes/ZDhc1MlYFYM_0000008 149.1 158.8 
+Miriam_Margolyes/ZDhc1MlYFYM_0000009 178.2 186.4 
+Miriam_Margolyes/ZDhc1MlYFYM_0000010 220.1 227.2 
+Miriam_Margolyes/ZDhc1MlYFYM_0000011 235.1 243.5 
+Miriam_Margolyes/ZDhc1MlYFYM_0000012 258.2 275.2 
+Miriam_Margolyes/ZDhc1MlYFYM_0000013 289.1 297.3 
+Miriam_Margolyes/ZDhc1MlYFYM_0000014 307.5 311.5 
+Miriam_Margolyes/ZDhc1MlYFYM_0000015 312.6 317.0 
+Miriam_Margolyes/ZDhc1MlYFYM_0000016 335.7 343.0 

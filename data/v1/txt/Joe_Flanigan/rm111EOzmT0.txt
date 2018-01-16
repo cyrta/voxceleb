@@ -1,0 +1,13 @@
+POI: 			Joe_Flanigan 
+Youtube ID: 	rm111EOzmT0 
+Video length: 	106.5 sec 
+Set (V): 		dev 
+ 
+Joe_Flanigan/rm111EOzmT0_0000001 13.3 18.6 
+Joe_Flanigan/rm111EOzmT0_0000002 30.2 36.2 
+Joe_Flanigan/rm111EOzmT0_0000003 37.6 42.9 
+Joe_Flanigan/rm111EOzmT0_0000004 47.0 51.6 
+Joe_Flanigan/rm111EOzmT0_0000005 53.2 60.3 
+Joe_Flanigan/rm111EOzmT0_0000006 63.1 79.2 
+Joe_Flanigan/rm111EOzmT0_0000007 83.6 92.1 
+Joe_Flanigan/rm111EOzmT0_0000008 94.2 99.7 

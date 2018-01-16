@@ -1,0 +1,9 @@
+POI: 			Rico_Rodriguez 
+Youtube ID: 	Exb1fH3m2dw 
+Video length: 	209.6 sec 
+Set (V): 		dev 
+ 
+Rico_Rodriguez/Exb1fH3m2dw_0000001 81.5 100.2 
+Rico_Rodriguez/Exb1fH3m2dw_0000002 105.2 115.1 
+Rico_Rodriguez/Exb1fH3m2dw_0000003 125.8 130.6 
+Rico_Rodriguez/Exb1fH3m2dw_0000004 182.1 192.4 

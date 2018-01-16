@@ -1,0 +1,9 @@
+POI: 			Tom_Arnold 
+Youtube ID: 	X6jAdwM_PVg 
+Video length: 	202.7 sec 
+Set (V): 		dev 
+ 
+Tom_Arnold/X6jAdwM_PVg_0000001 76.9 83.8 
+Tom_Arnold/X6jAdwM_PVg_0000002 86.5 97.0 
+Tom_Arnold/X6jAdwM_PVg_0000003 119.9 150.8 
+Tom_Arnold/X6jAdwM_PVg_0000004 170.7 174.8 

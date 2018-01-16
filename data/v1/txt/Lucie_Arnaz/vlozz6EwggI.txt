@@ -1,0 +1,18 @@
+POI: 			Lucie_Arnaz 
+Youtube ID: 	vlozz6EwggI 
+Video length: 	360.1 sec 
+Set (V): 		dev 
+ 
+Lucie_Arnaz/vlozz6EwggI_0000001 41.6 55.9 
+Lucie_Arnaz/vlozz6EwggI_0000002 58.1 62.6 
+Lucie_Arnaz/vlozz6EwggI_0000003 64.8 85.8 
+Lucie_Arnaz/vlozz6EwggI_0000004 120.8 125.5 
+Lucie_Arnaz/vlozz6EwggI_0000005 126.0 133.6 
+Lucie_Arnaz/vlozz6EwggI_0000006 183.6 189.2 
+Lucie_Arnaz/vlozz6EwggI_0000007 202.5 220.0 
+Lucie_Arnaz/vlozz6EwggI_0000008 246.4 257.9 
+Lucie_Arnaz/vlozz6EwggI_0000009 269.2 281.0 
+Lucie_Arnaz/vlozz6EwggI_0000010 281.1 285.5 
+Lucie_Arnaz/vlozz6EwggI_0000011 287.7 293.6 
+Lucie_Arnaz/vlozz6EwggI_0000012 296.5 300.8 
+Lucie_Arnaz/vlozz6EwggI_0000013 309.1 329.3 

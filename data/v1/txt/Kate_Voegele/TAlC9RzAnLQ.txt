@@ -1,0 +1,21 @@
+POI: 			Kate_Voegele 
+Youtube ID: 	TAlC9RzAnLQ 
+Video length: 	257.6 sec 
+Set (V): 		dev 
+ 
+Kate_Voegele/TAlC9RzAnLQ_0000001 22.5 28.1 
+Kate_Voegele/TAlC9RzAnLQ_0000002 35.9 41.8 
+Kate_Voegele/TAlC9RzAnLQ_0000003 44.3 49.9 
+Kate_Voegele/TAlC9RzAnLQ_0000004 59.2 70.2 
+Kate_Voegele/TAlC9RzAnLQ_0000005 74.2 84.0 
+Kate_Voegele/TAlC9RzAnLQ_0000006 89.7 95.0 
+Kate_Voegele/TAlC9RzAnLQ_0000007 100.3 105.7 
+Kate_Voegele/TAlC9RzAnLQ_0000008 108.2 118.7 
+Kate_Voegele/TAlC9RzAnLQ_0000009 119.3 123.9 
+Kate_Voegele/TAlC9RzAnLQ_0000010 132.0 136.7 
+Kate_Voegele/TAlC9RzAnLQ_0000011 144.1 153.7 
+Kate_Voegele/TAlC9RzAnLQ_0000012 171.8 181.8 
+Kate_Voegele/TAlC9RzAnLQ_0000013 212.1 219.2 
+Kate_Voegele/TAlC9RzAnLQ_0000014 221.2 234.5 
+Kate_Voegele/TAlC9RzAnLQ_0000015 236.7 241.0 
+Kate_Voegele/TAlC9RzAnLQ_0000016 243.2 252.7 

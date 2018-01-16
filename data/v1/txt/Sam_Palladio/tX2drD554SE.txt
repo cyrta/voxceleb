@@ -1,0 +1,7 @@
+POI: 			Sam_Palladio 
+Youtube ID: 	tX2drD554SE 
+Video length: 	139.2 sec 
+Set (V): 		dev 
+ 
+Sam_Palladio/tX2drD554SE_0000001 81.3 88.1 
+Sam_Palladio/tX2drD554SE_0000002 93.6 100.8 

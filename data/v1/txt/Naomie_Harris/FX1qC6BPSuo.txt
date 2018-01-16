@@ -1,0 +1,8 @@
+POI: 			Naomie_Harris 
+Youtube ID: 	FX1qC6BPSuo 
+Video length: 	240.5 sec 
+Set (V): 		dev 
+ 
+Naomie_Harris/FX1qC6BPSuo_0000001 46.1 56.5 
+Naomie_Harris/FX1qC6BPSuo_0000002 120.3 134.9 
+Naomie_Harris/FX1qC6BPSuo_0000003 197.4 204.5 

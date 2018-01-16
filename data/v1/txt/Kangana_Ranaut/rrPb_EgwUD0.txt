@@ -1,0 +1,42 @@
+POI: 			Kangana_Ranaut 
+Youtube ID: 	rrPb_EgwUD0 
+Video length: 	925.1 sec 
+Set (V): 		dev 
+ 
+Kangana_Ranaut/rrPb_EgwUD0_0000001 28.9 34.9 
+Kangana_Ranaut/rrPb_EgwUD0_0000002 42.7 53.8 
+Kangana_Ranaut/rrPb_EgwUD0_0000003 60.0 65.1 
+Kangana_Ranaut/rrPb_EgwUD0_0000004 79.7 89.0 
+Kangana_Ranaut/rrPb_EgwUD0_0000005 107.4 114.1 
+Kangana_Ranaut/rrPb_EgwUD0_0000006 127.0 134.7 
+Kangana_Ranaut/rrPb_EgwUD0_0000007 155.1 186.5 
+Kangana_Ranaut/rrPb_EgwUD0_0000008 200.0 205.3 
+Kangana_Ranaut/rrPb_EgwUD0_0000009 207.8 219.9 
+Kangana_Ranaut/rrPb_EgwUD0_0000010 227.7 245.6 
+Kangana_Ranaut/rrPb_EgwUD0_0000011 254.6 262.4 
+Kangana_Ranaut/rrPb_EgwUD0_0000012 266.7 276.2 
+Kangana_Ranaut/rrPb_EgwUD0_0000013 285.1 289.5 
+Kangana_Ranaut/rrPb_EgwUD0_0000014 294.8 304.5 
+Kangana_Ranaut/rrPb_EgwUD0_0000015 352.7 366.6 
+Kangana_Ranaut/rrPb_EgwUD0_0000016 391.7 396.5 
+Kangana_Ranaut/rrPb_EgwUD0_0000017 396.8 404.0 
+Kangana_Ranaut/rrPb_EgwUD0_0000018 440.3 445.9 
+Kangana_Ranaut/rrPb_EgwUD0_0000019 468.9 474.9 
+Kangana_Ranaut/rrPb_EgwUD0_0000020 535.4 540.5 
+Kangana_Ranaut/rrPb_EgwUD0_0000021 545.2 551.2 
+Kangana_Ranaut/rrPb_EgwUD0_0000022 556.0 566.9 
+Kangana_Ranaut/rrPb_EgwUD0_0000023 570.7 580.0 
+Kangana_Ranaut/rrPb_EgwUD0_0000024 585.8 589.8 
+Kangana_Ranaut/rrPb_EgwUD0_0000025 591.6 596.0 
+Kangana_Ranaut/rrPb_EgwUD0_0000026 601.1 607.1 
+Kangana_Ranaut/rrPb_EgwUD0_0000027 652.4 656.4 
+Kangana_Ranaut/rrPb_EgwUD0_0000028 661.2 666.9 
+Kangana_Ranaut/rrPb_EgwUD0_0000029 682.3 696.2 
+Kangana_Ranaut/rrPb_EgwUD0_0000030 700.2 712.6 
+Kangana_Ranaut/rrPb_EgwUD0_0000031 749.1 753.0 
+Kangana_Ranaut/rrPb_EgwUD0_0000032 757.0 767.0 
+Kangana_Ranaut/rrPb_EgwUD0_0000033 773.2 780.2 
+Kangana_Ranaut/rrPb_EgwUD0_0000034 785.3 789.6 
+Kangana_Ranaut/rrPb_EgwUD0_0000035 796.5 806.1 
+Kangana_Ranaut/rrPb_EgwUD0_0000036 868.0 874.0 
+Kangana_Ranaut/rrPb_EgwUD0_0000037 878.8 883.5 

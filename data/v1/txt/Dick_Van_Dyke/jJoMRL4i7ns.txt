@@ -1,0 +1,9 @@
+POI: 			Dick_Van_Dyke 
+Youtube ID: 	jJoMRL4i7ns 
+Video length: 	301.2 sec 
+Set (V): 		dev 
+ 
+Dick_Van_Dyke/jJoMRL4i7ns_0000001 09.9 15.4 
+Dick_Van_Dyke/jJoMRL4i7ns_0000002 30.7 35.9 
+Dick_Van_Dyke/jJoMRL4i7ns_0000003 191.0 199.6 
+Dick_Van_Dyke/jJoMRL4i7ns_0000004 216.0 222.2 

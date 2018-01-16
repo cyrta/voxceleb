@@ -1,0 +1,8 @@
+POI: 			David_Schwimmer 
+Youtube ID: 	irgRDcGRBQw 
+Video length: 	394.2 sec 
+Set (V): 		dev 
+ 
+David_Schwimmer/irgRDcGRBQw_0000001 177.2 181.4 
+David_Schwimmer/irgRDcGRBQw_0000002 196.6 200.9 
+David_Schwimmer/irgRDcGRBQw_0000003 268.1 272.9 

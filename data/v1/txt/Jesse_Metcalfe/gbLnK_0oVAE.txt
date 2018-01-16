@@ -1,0 +1,7 @@
+POI: 			Jesse_Metcalfe 
+Youtube ID: 	gbLnK_0oVAE 
+Video length: 	369.2 sec 
+Set (V): 		dev 
+ 
+Jesse_Metcalfe/gbLnK_0oVAE_0000001 110.2 122.3 
+Jesse_Metcalfe/gbLnK_0oVAE_0000002 122.7 136.6 

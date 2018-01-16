@@ -1,0 +1,8 @@
+POI: 			Samantha_Barks 
+Youtube ID: 	H2GVbLy-DPU 
+Video length: 	330.0 sec 
+Set (V): 		dev 
+ 
+Samantha_Barks/H2GVbLy-DPU_0000001 62.1 68.4 
+Samantha_Barks/H2GVbLy-DPU_0000002 73.2 80.1 
+Samantha_Barks/H2GVbLy-DPU_0000003 138.1 146.1 

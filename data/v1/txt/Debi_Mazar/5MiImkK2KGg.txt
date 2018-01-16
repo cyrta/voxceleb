@@ -1,0 +1,8 @@
+POI: 			Debi_Mazar 
+Youtube ID: 	5MiImkK2KGg 
+Video length: 	579.8 sec 
+Set (V): 		dev 
+ 
+Debi_Mazar/5MiImkK2KGg_0000001 30.4 34.4 
+Debi_Mazar/5MiImkK2KGg_0000002 134.6 138.7 
+Debi_Mazar/5MiImkK2KGg_0000003 400.5 407.4 

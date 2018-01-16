@@ -1,0 +1,7 @@
+POI: 			Cliff_Curtis 
+Youtube ID: 	VRdz5xzahHI 
+Video length: 	25.3 sec 
+Set (V): 		dev 
+ 
+Cliff_Curtis/VRdz5xzahHI_0000001 12.4 17.0 
+Cliff_Curtis/VRdz5xzahHI_0000002 17.6 23.9 

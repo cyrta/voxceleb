@@ -1,0 +1,11 @@
+POI: 			Katee_Sackhoff 
+Youtube ID: 	pOU-WsQ0dNw 
+Video length: 	292.9 sec 
+Set (V): 		dev 
+ 
+Katee_Sackhoff/pOU-WsQ0dNw_0000001 29.9 37.6 
+Katee_Sackhoff/pOU-WsQ0dNw_0000002 52.3 57.2 
+Katee_Sackhoff/pOU-WsQ0dNw_0000003 92.7 97.6 
+Katee_Sackhoff/pOU-WsQ0dNw_0000004 172.3 180.4 
+Katee_Sackhoff/pOU-WsQ0dNw_0000005 226.8 231.5 
+Katee_Sackhoff/pOU-WsQ0dNw_0000006 238.1 250.0 

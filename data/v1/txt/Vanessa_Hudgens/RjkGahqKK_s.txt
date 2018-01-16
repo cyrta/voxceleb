@@ -1,0 +1,9 @@
+POI: 			Vanessa_Hudgens 
+Youtube ID: 	RjkGahqKK_s 
+Video length: 	131.1 sec 
+Set (V): 		dev 
+ 
+Vanessa_Hudgens/RjkGahqKK_s_0000001 33.0 43.1 
+Vanessa_Hudgens/RjkGahqKK_s_0000002 57.4 64.5 
+Vanessa_Hudgens/RjkGahqKK_s_0000003 64.8 69.7 
+Vanessa_Hudgens/RjkGahqKK_s_0000004 113.7 118.7 

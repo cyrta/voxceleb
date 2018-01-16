@@ -1,0 +1,13 @@
+POI: 			Alexa_Davalos 
+Youtube ID: 	9WnvD4UqG9U 
+Video length: 	238.8 sec 
+Set (V): 		dev 
+ 
+Alexa_Davalos/9WnvD4UqG9U_0000001 41.0 52.0 
+Alexa_Davalos/9WnvD4UqG9U_0000002 94.1 103.8 
+Alexa_Davalos/9WnvD4UqG9U_0000003 110.6 122.6 
+Alexa_Davalos/9WnvD4UqG9U_0000004 149.2 154.1 
+Alexa_Davalos/9WnvD4UqG9U_0000005 155.2 161.1 
+Alexa_Davalos/9WnvD4UqG9U_0000006 176.7 189.9 
+Alexa_Davalos/9WnvD4UqG9U_0000007 191.1 195.5 
+Alexa_Davalos/9WnvD4UqG9U_0000008 208.2 218.1 

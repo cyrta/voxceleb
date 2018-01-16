@@ -1,0 +1,16 @@
+POI: 			Josh_Groban 
+Youtube ID: 	h3o1WMujvNU 
+Video length: 	783.1 sec 
+Set (V): 		dev 
+ 
+Josh_Groban/h3o1WMujvNU_0000001 130.0 134.4 
+Josh_Groban/h3o1WMujvNU_0000002 163.0 171.6 
+Josh_Groban/h3o1WMujvNU_0000003 280.0 288.8 
+Josh_Groban/h3o1WMujvNU_0000004 315.1 323.0 
+Josh_Groban/h3o1WMujvNU_0000005 334.6 339.1 
+Josh_Groban/h3o1WMujvNU_0000006 444.0 459.9 
+Josh_Groban/h3o1WMujvNU_0000007 535.9 563.8 
+Josh_Groban/h3o1WMujvNU_0000008 568.3 576.4 
+Josh_Groban/h3o1WMujvNU_0000009 587.5 593.0 
+Josh_Groban/h3o1WMujvNU_0000010 641.4 670.8 
+Josh_Groban/h3o1WMujvNU_0000011 732.0 741.0 

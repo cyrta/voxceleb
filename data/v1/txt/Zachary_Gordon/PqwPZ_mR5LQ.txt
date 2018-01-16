@@ -1,0 +1,9 @@
+POI: 			Zachary_Gordon 
+Youtube ID: 	PqwPZ_mR5LQ 
+Video length: 	156.8 sec 
+Set (V): 		dev 
+ 
+Zachary_Gordon/PqwPZ_mR5LQ_0000001 11.5 22.4 
+Zachary_Gordon/PqwPZ_mR5LQ_0000002 105.8 110.9 
+Zachary_Gordon/PqwPZ_mR5LQ_0000003 111.3 125.3 
+Zachary_Gordon/PqwPZ_mR5LQ_0000004 142.2 153.8 

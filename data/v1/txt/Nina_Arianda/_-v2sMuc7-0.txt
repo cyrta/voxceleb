@@ -1,0 +1,32 @@
+POI: 			Nina_Arianda 
+Youtube ID: 	_-v2sMuc7-0 
+Video length: 	1125.3 sec 
+Set (V): 		dev 
+ 
+Nina_Arianda/_-v2sMuc7-0_0000001 56.5 61.5 
+Nina_Arianda/_-v2sMuc7-0_0000002 67.2 71.8 
+Nina_Arianda/_-v2sMuc7-0_0000003 109.0 113.5 
+Nina_Arianda/_-v2sMuc7-0_0000004 126.6 135.2 
+Nina_Arianda/_-v2sMuc7-0_0000005 167.0 172.4 
+Nina_Arianda/_-v2sMuc7-0_0000006 181.4 197.4 
+Nina_Arianda/_-v2sMuc7-0_0000007 277.2 284.8 
+Nina_Arianda/_-v2sMuc7-0_0000008 324.1 334.5 
+Nina_Arianda/_-v2sMuc7-0_0000009 399.3 406.2 
+Nina_Arianda/_-v2sMuc7-0_0000010 418.7 422.8 
+Nina_Arianda/_-v2sMuc7-0_0000011 518.6 524.2 
+Nina_Arianda/_-v2sMuc7-0_0000012 556.1 560.4 
+Nina_Arianda/_-v2sMuc7-0_0000013 649.1 653.0 
+Nina_Arianda/_-v2sMuc7-0_0000014 655.4 679.3 
+Nina_Arianda/_-v2sMuc7-0_0000015 697.2 709.9 
+Nina_Arianda/_-v2sMuc7-0_0000016 714.6 719.3 
+Nina_Arianda/_-v2sMuc7-0_0000017 738.6 745.3 
+Nina_Arianda/_-v2sMuc7-0_0000018 760.5 765.5 
+Nina_Arianda/_-v2sMuc7-0_0000019 818.3 828.4 
+Nina_Arianda/_-v2sMuc7-0_0000020 828.5 833.2 
+Nina_Arianda/_-v2sMuc7-0_0000021 858.1 862.4 
+Nina_Arianda/_-v2sMuc7-0_0000022 909.8 916.0 
+Nina_Arianda/_-v2sMuc7-0_0000023 959.9 969.6 
+Nina_Arianda/_-v2sMuc7-0_0000024 1020.4 1028.1 
+Nina_Arianda/_-v2sMuc7-0_0000025 1030.7 1036.8 
+Nina_Arianda/_-v2sMuc7-0_0000026 1053.2 1058.8 
+Nina_Arianda/_-v2sMuc7-0_0000027 1076.2 1085.8 

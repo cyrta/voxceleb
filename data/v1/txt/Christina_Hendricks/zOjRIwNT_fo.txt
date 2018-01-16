@@ -1,0 +1,7 @@
+POI: 			Christina_Hendricks 
+Youtube ID: 	zOjRIwNT_fo 
+Video length: 	405.1 sec 
+Set (V): 		dev 
+ 
+Christina_Hendricks/zOjRIwNT_fo_0000001 128.4 133.8 
+Christina_Hendricks/zOjRIwNT_fo_0000002 135.3 140.2 

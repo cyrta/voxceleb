@@ -1,0 +1,12 @@
+POI: 			Alan_Cumming 
+Youtube ID: 	SmRgQiUvBPY 
+Video length: 	147.8 sec 
+Set (V): 		dev 
+ 
+Alan_Cumming/SmRgQiUvBPY_0000001 22.9 26.9 
+Alan_Cumming/SmRgQiUvBPY_0000002 34.7 40.5 
+Alan_Cumming/SmRgQiUvBPY_0000003 41.9 48.8 
+Alan_Cumming/SmRgQiUvBPY_0000004 50.7 56.1 
+Alan_Cumming/SmRgQiUvBPY_0000005 117.0 122.2 
+Alan_Cumming/SmRgQiUvBPY_0000006 126.8 131.0 
+Alan_Cumming/SmRgQiUvBPY_0000007 137.1 141.1 

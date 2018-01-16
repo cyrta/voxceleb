@@ -1,0 +1,9 @@
+POI: 			Corbin_Bleu 
+Youtube ID: 	mYG0HYHWXTc 
+Video length: 	49.8 sec 
+Set (V): 		dev 
+ 
+Corbin_Bleu/mYG0HYHWXTc_0000001 06.2 14.4 
+Corbin_Bleu/mYG0HYHWXTc_0000002 24.9 30.2 
+Corbin_Bleu/mYG0HYHWXTc_0000003 32.2 38.4 
+Corbin_Bleu/mYG0HYHWXTc_0000004 42.8 46.9 

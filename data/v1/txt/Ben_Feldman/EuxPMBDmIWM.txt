@@ -1,0 +1,9 @@
+POI: 			Ben_Feldman 
+Youtube ID: 	EuxPMBDmIWM 
+Video length: 	357.5 sec 
+Set (V): 		dev 
+ 
+Ben_Feldman/EuxPMBDmIWM_0000001 46.8 62.8 
+Ben_Feldman/EuxPMBDmIWM_0000002 122.0 128.0 
+Ben_Feldman/EuxPMBDmIWM_0000003 128.3 132.2 
+Ben_Feldman/EuxPMBDmIWM_0000004 172.7 179.7 

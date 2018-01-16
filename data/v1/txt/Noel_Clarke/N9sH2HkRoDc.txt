@@ -1,0 +1,13 @@
+POI: 			Noel_Clarke 
+Youtube ID: 	N9sH2HkRoDc 
+Video length: 	252.5 sec 
+Set (V): 		dev 
+ 
+Noel_Clarke/N9sH2HkRoDc_0000001 06.2 14.1 
+Noel_Clarke/N9sH2HkRoDc_0000002 39.2 47.4 
+Noel_Clarke/N9sH2HkRoDc_0000003 60.8 74.6 
+Noel_Clarke/N9sH2HkRoDc_0000004 96.7 101.9 
+Noel_Clarke/N9sH2HkRoDc_0000005 107.3 116.4 
+Noel_Clarke/N9sH2HkRoDc_0000006 135.2 144.6 
+Noel_Clarke/N9sH2HkRoDc_0000007 217.1 227.7 
+Noel_Clarke/N9sH2HkRoDc_0000008 231.7 241.0 

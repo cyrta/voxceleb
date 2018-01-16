@@ -1,0 +1,15 @@
+POI: 			John_Barrowman 
+Youtube ID: 	AiAMl597ZVw 
+Video length: 	409.4 sec 
+Set (V): 		dev 
+ 
+John_Barrowman/AiAMl597ZVw_0000001 13.4 39.0 
+John_Barrowman/AiAMl597ZVw_0000002 96.3 103.6 
+John_Barrowman/AiAMl597ZVw_0000003 163.8 173.3 
+John_Barrowman/AiAMl597ZVw_0000004 176.8 183.2 
+John_Barrowman/AiAMl597ZVw_0000005 185.0 190.6 
+John_Barrowman/AiAMl597ZVw_0000006 191.6 214.2 
+John_Barrowman/AiAMl597ZVw_0000007 254.6 273.3 
+John_Barrowman/AiAMl597ZVw_0000008 322.2 328.2 
+John_Barrowman/AiAMl597ZVw_0000009 330.0 340.6 
+John_Barrowman/AiAMl597ZVw_0000010 342.8 350.8 

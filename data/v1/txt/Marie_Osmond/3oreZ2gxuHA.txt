@@ -1,0 +1,9 @@
+POI: 			Marie_Osmond 
+Youtube ID: 	3oreZ2gxuHA 
+Video length: 	223.4 sec 
+Set (V): 		dev 
+ 
+Marie_Osmond/3oreZ2gxuHA_0000001 33.6 42.4 
+Marie_Osmond/3oreZ2gxuHA_0000002 56.2 72.0 
+Marie_Osmond/3oreZ2gxuHA_0000003 162.9 175.4 
+Marie_Osmond/3oreZ2gxuHA_0000004 176.4 181.4 

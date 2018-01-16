@@ -1,0 +1,7 @@
+POI: 			Lena_Horne 
+Youtube ID: 	d236wm-e0Fc 
+Video length: 	92.5 sec 
+Set (V): 		dev 
+ 
+Lena_Horne/d236wm-e0Fc_0000001 35.7 46.0 
+Lena_Horne/d236wm-e0Fc_0000002 76.3 81.5 

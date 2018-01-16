@@ -1,0 +1,14 @@
+POI: 			Jamel_Debbouze 
+Youtube ID: 	24fV557DawY 
+Video length: 	1727.5 sec 
+Set (V): 		dev 
+ 
+Jamel_Debbouze/24fV557DawY_0000001 262.1 267.0 
+Jamel_Debbouze/24fV557DawY_0000002 480.3 485.1 
+Jamel_Debbouze/24fV557DawY_0000003 798.3 803.0 
+Jamel_Debbouze/24fV557DawY_0000004 910.7 917.1 
+Jamel_Debbouze/24fV557DawY_0000005 1166.9 1170.9 
+Jamel_Debbouze/24fV557DawY_0000006 1244.3 1248.2 
+Jamel_Debbouze/24fV557DawY_0000007 1373.7 1381.0 
+Jamel_Debbouze/24fV557DawY_0000008 1575.4 1579.9 
+Jamel_Debbouze/24fV557DawY_0000009 1610.6 1616.4 

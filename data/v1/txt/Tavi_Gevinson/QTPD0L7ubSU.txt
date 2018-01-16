@@ -1,0 +1,12 @@
+POI: 			Tavi_Gevinson 
+Youtube ID: 	QTPD0L7ubSU 
+Video length: 	337.8 sec 
+Set (V): 		dev 
+ 
+Tavi_Gevinson/QTPD0L7ubSU_0000001 71.6 80.6 
+Tavi_Gevinson/QTPD0L7ubSU_0000002 121.1 127.7 
+Tavi_Gevinson/QTPD0L7ubSU_0000003 132.1 137.9 
+Tavi_Gevinson/QTPD0L7ubSU_0000004 205.1 226.5 
+Tavi_Gevinson/QTPD0L7ubSU_0000005 275.4 283.4 
+Tavi_Gevinson/QTPD0L7ubSU_0000006 284.7 291.1 
+Tavi_Gevinson/QTPD0L7ubSU_0000007 294.5 302.8 

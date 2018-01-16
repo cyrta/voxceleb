@@ -1,0 +1,14 @@
+POI: 			Serinda_Swan 
+Youtube ID: 	GThuqPE_TSw 
+Video length: 	428.5 sec 
+Set (V): 		dev 
+ 
+Serinda_Swan/GThuqPE_TSw_0000001 04.1 08.9 
+Serinda_Swan/GThuqPE_TSw_0000002 63.3 90.2 
+Serinda_Swan/GThuqPE_TSw_0000003 178.4 190.0 
+Serinda_Swan/GThuqPE_TSw_0000004 243.8 248.1 
+Serinda_Swan/GThuqPE_TSw_0000005 271.0 280.5 
+Serinda_Swan/GThuqPE_TSw_0000006 280.7 286.1 
+Serinda_Swan/GThuqPE_TSw_0000007 306.8 311.7 
+Serinda_Swan/GThuqPE_TSw_0000008 322.3 338.5 
+Serinda_Swan/GThuqPE_TSw_0000009 360.2 369.7 

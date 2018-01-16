@@ -1,0 +1,7 @@
+POI: 			Oscar_Isaac 
+Youtube ID: 	UKFktbl2SjQ 
+Video length: 	123.3 sec 
+Set (V): 		dev 
+ 
+Oscar_Isaac/UKFktbl2SjQ_0000001 16.6 25.4 
+Oscar_Isaac/UKFktbl2SjQ_0000002 57.1 66.9 

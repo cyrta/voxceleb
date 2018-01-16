@@ -1,0 +1,13 @@
+POI: 			Miranda_Hart 
+Youtube ID: 	qTyiB76WaNU 
+Video length: 	297.2 sec 
+Set (V): 		dev 
+ 
+Miranda_Hart/qTyiB76WaNU_0000001 33.0 37.7 
+Miranda_Hart/qTyiB76WaNU_0000002 46.0 50.8 
+Miranda_Hart/qTyiB76WaNU_0000003 54.5 59.2 
+Miranda_Hart/qTyiB76WaNU_0000004 106.7 112.6 
+Miranda_Hart/qTyiB76WaNU_0000005 154.5 160.9 
+Miranda_Hart/qTyiB76WaNU_0000006 219.8 226.2 
+Miranda_Hart/qTyiB76WaNU_0000007 235.8 249.3 
+Miranda_Hart/qTyiB76WaNU_0000008 256.0 260.8 

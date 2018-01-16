@@ -1,0 +1,33 @@
+POI: 			Tom_Bergeron 
+Youtube ID: 	dKRkdFGAnu4 
+Video length: 	571.9 sec 
+Set (V): 		dev 
+ 
+Tom_Bergeron/dKRkdFGAnu4_0000001 08.2 14.9 
+Tom_Bergeron/dKRkdFGAnu4_0000002 15.0 24.5 
+Tom_Bergeron/dKRkdFGAnu4_0000003 25.5 30.0 
+Tom_Bergeron/dKRkdFGAnu4_0000004 30.3 64.2 
+Tom_Bergeron/dKRkdFGAnu4_0000005 170.8 175.2 
+Tom_Bergeron/dKRkdFGAnu4_0000006 175.5 212.8 
+Tom_Bergeron/dKRkdFGAnu4_0000007 228.7 233.5 
+Tom_Bergeron/dKRkdFGAnu4_0000008 239.0 245.6 
+Tom_Bergeron/dKRkdFGAnu4_0000009 246.0 262.6 
+Tom_Bergeron/dKRkdFGAnu4_0000010 274.1 280.9 
+Tom_Bergeron/dKRkdFGAnu4_0000011 282.0 287.9 
+Tom_Bergeron/dKRkdFGAnu4_0000012 288.6 293.0 
+Tom_Bergeron/dKRkdFGAnu4_0000013 293.3 298.9 
+Tom_Bergeron/dKRkdFGAnu4_0000014 307.1 315.7 
+Tom_Bergeron/dKRkdFGAnu4_0000015 317.8 322.2 
+Tom_Bergeron/dKRkdFGAnu4_0000016 333.6 346.6 
+Tom_Bergeron/dKRkdFGAnu4_0000017 347.3 353.6 
+Tom_Bergeron/dKRkdFGAnu4_0000018 358.0 366.5 
+Tom_Bergeron/dKRkdFGAnu4_0000019 368.9 384.2 
+Tom_Bergeron/dKRkdFGAnu4_0000020 386.7 392.0 
+Tom_Bergeron/dKRkdFGAnu4_0000021 394.5 400.6 
+Tom_Bergeron/dKRkdFGAnu4_0000022 401.2 409.6 
+Tom_Bergeron/dKRkdFGAnu4_0000023 412.5 417.7 
+Tom_Bergeron/dKRkdFGAnu4_0000024 477.3 491.4 
+Tom_Bergeron/dKRkdFGAnu4_0000025 502.6 514.0 
+Tom_Bergeron/dKRkdFGAnu4_0000026 517.5 524.5 
+Tom_Bergeron/dKRkdFGAnu4_0000027 525.2 545.4 
+Tom_Bergeron/dKRkdFGAnu4_0000028 547.3 562.5 

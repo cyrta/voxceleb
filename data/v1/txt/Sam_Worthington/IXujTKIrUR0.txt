@@ -1,0 +1,13 @@
+POI: 			Sam_Worthington 
+Youtube ID: 	IXujTKIrUR0 
+Video length: 	177.4 sec 
+Set (V): 		dev 
+ 
+Sam_Worthington/IXujTKIrUR0_0000001 06.9 13.0 
+Sam_Worthington/IXujTKIrUR0_0000002 17.2 22.7 
+Sam_Worthington/IXujTKIrUR0_0000003 35.4 43.6 
+Sam_Worthington/IXujTKIrUR0_0000004 48.5 52.5 
+Sam_Worthington/IXujTKIrUR0_0000005 88.3 94.7 
+Sam_Worthington/IXujTKIrUR0_0000006 105.6 111.2 
+Sam_Worthington/IXujTKIrUR0_0000007 135.6 141.8 
+Sam_Worthington/IXujTKIrUR0_0000008 142.4 150.2 

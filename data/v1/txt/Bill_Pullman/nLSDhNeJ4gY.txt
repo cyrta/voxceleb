@@ -1,0 +1,7 @@
+POI: 			Bill_Pullman 
+Youtube ID: 	nLSDhNeJ4gY 
+Video length: 	136.4 sec 
+Set (V): 		dev 
+ 
+Bill_Pullman/nLSDhNeJ4gY_0000001 50.0 58.0 
+Bill_Pullman/nLSDhNeJ4gY_0000002 110.0 114.6 

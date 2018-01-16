@@ -1,0 +1,41 @@
+POI: 			Seth_Meyers 
+Youtube ID: 	LBbZOk8mrio 
+Video length: 	670.2 sec 
+Set (V): 		dev 
+ 
+Seth_Meyers/LBbZOk8mrio_0000001 45.6 51.3 
+Seth_Meyers/LBbZOk8mrio_0000002 67.7 73.6 
+Seth_Meyers/LBbZOk8mrio_0000003 87.0 91.4 
+Seth_Meyers/LBbZOk8mrio_0000004 93.3 101.5 
+Seth_Meyers/LBbZOk8mrio_0000005 102.9 113.6 
+Seth_Meyers/LBbZOk8mrio_0000006 129.0 140.6 
+Seth_Meyers/LBbZOk8mrio_0000007 142.5 151.2 
+Seth_Meyers/LBbZOk8mrio_0000008 160.8 172.6 
+Seth_Meyers/LBbZOk8mrio_0000009 144.2 149.2 
+Seth_Meyers/LBbZOk8mrio_0000010 211.7 222.1 
+Seth_Meyers/LBbZOk8mrio_0000011 222.6 236.4 
+Seth_Meyers/LBbZOk8mrio_0000012 251.5 260.2 
+Seth_Meyers/LBbZOk8mrio_0000013 262.1 270.2 
+Seth_Meyers/LBbZOk8mrio_0000014 271.2 276.3 
+Seth_Meyers/LBbZOk8mrio_0000015 278.7 290.0 
+Seth_Meyers/LBbZOk8mrio_0000016 291.9 300.8 
+Seth_Meyers/LBbZOk8mrio_0000017 306.9 321.6 
+Seth_Meyers/LBbZOk8mrio_0000018 323.6 337.4 
+Seth_Meyers/LBbZOk8mrio_0000019 361.4 366.2 
+Seth_Meyers/LBbZOk8mrio_0000020 368.0 386.7 
+Seth_Meyers/LBbZOk8mrio_0000021 418.2 422.2 
+Seth_Meyers/LBbZOk8mrio_0000022 448.3 462.4 
+Seth_Meyers/LBbZOk8mrio_0000023 464.6 483.5 
+Seth_Meyers/LBbZOk8mrio_0000024 491.9 496.1 
+Seth_Meyers/LBbZOk8mrio_0000025 497.4 505.1 
+Seth_Meyers/LBbZOk8mrio_0000026 524.9 529.2 
+Seth_Meyers/LBbZOk8mrio_0000027 530.3 547.3 
+Seth_Meyers/LBbZOk8mrio_0000028 552.9 557.8 
+Seth_Meyers/LBbZOk8mrio_0000029 558.7 568.8 
+Seth_Meyers/LBbZOk8mrio_0000030 580.2 587.0 
+Seth_Meyers/LBbZOk8mrio_0000031 592.0 599.3 
+Seth_Meyers/LBbZOk8mrio_0000032 602.8 612.2 
+Seth_Meyers/LBbZOk8mrio_0000033 625.4 629.5 
+Seth_Meyers/LBbZOk8mrio_0000034 631.5 637.9 
+Seth_Meyers/LBbZOk8mrio_0000035 640.3 645.8 
+Seth_Meyers/LBbZOk8mrio_0000036 646.2 652.8 

@@ -1,0 +1,8 @@
+POI: 			Michael_Mando 
+Youtube ID: 	S753_dggyiQ 
+Video length: 	223.6 sec 
+Set (V): 		dev 
+ 
+Michael_Mando/S753_dggyiQ_0000001 37.9 42.5 
+Michael_Mando/S753_dggyiQ_0000002 88.0 98.9 
+Michael_Mando/S753_dggyiQ_0000003 135.4 141.3 

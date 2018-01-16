@@ -1,0 +1,14 @@
+POI: 			Marie_Avgeropoulos 
+Youtube ID: 	pJC6GcdY_00 
+Video length: 	129.4 sec 
+Set (V): 		dev 
+ 
+Marie_Avgeropoulos/pJC6GcdY_00_0000001 08.7 26.7 
+Marie_Avgeropoulos/pJC6GcdY_00_0000002 44.4 51.0 
+Marie_Avgeropoulos/pJC6GcdY_00_0000003 52.8 58.8 
+Marie_Avgeropoulos/pJC6GcdY_00_0000004 61.0 73.6 
+Marie_Avgeropoulos/pJC6GcdY_00_0000005 74.2 79.4 
+Marie_Avgeropoulos/pJC6GcdY_00_0000006 79.8 95.4 
+Marie_Avgeropoulos/pJC6GcdY_00_0000007 100.3 109.7 
+Marie_Avgeropoulos/pJC6GcdY_00_0000008 110.4 114.8 
+Marie_Avgeropoulos/pJC6GcdY_00_0000009 122.6 127.8 

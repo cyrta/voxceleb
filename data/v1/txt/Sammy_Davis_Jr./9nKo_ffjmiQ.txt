@@ -1,0 +1,14 @@
+POI: 			Sammy_Davis_Jr. 
+Youtube ID: 	9nKo_ffjmiQ 
+Video length: 	412.8 sec 
+Set (V): 		dev 
+ 
+Sammy_Davis_Jr./9nKo_ffjmiQ_0000001 179.2 184.0 
+Sammy_Davis_Jr./9nKo_ffjmiQ_0000002 184.7 188.7 
+Sammy_Davis_Jr./9nKo_ffjmiQ_0000003 204.8 211.3 
+Sammy_Davis_Jr./9nKo_ffjmiQ_0000004 218.5 222.8 
+Sammy_Davis_Jr./9nKo_ffjmiQ_0000005 227.2 233.6 
+Sammy_Davis_Jr./9nKo_ffjmiQ_0000006 260.0 267.6 
+Sammy_Davis_Jr./9nKo_ffjmiQ_0000007 221.2 227.0 
+Sammy_Davis_Jr./9nKo_ffjmiQ_0000008 330.0 334.4 
+Sammy_Davis_Jr./9nKo_ffjmiQ_0000009 343.0 347.7 

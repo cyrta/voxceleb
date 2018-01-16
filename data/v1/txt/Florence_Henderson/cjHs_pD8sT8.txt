@@ -1,0 +1,8 @@
+POI: 			Florence_Henderson 
+Youtube ID: 	cjHs_pD8sT8 
+Video length: 	260.0 sec 
+Set (V): 		dev 
+ 
+Florence_Henderson/cjHs_pD8sT8_0000001 26.6 31.0 
+Florence_Henderson/cjHs_pD8sT8_0000002 66.0 72.4 
+Florence_Henderson/cjHs_pD8sT8_0000003 225.6 229.8 

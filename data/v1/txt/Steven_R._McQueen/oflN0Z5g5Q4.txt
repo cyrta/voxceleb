@@ -1,0 +1,12 @@
+POI: 			Steven_R._McQueen 
+Youtube ID: 	oflN0Z5g5Q4 
+Video length: 	362.0 sec 
+Set (V): 		dev 
+ 
+Steven_R._McQueen/oflN0Z5g5Q4_0000001 51.5 65.1 
+Steven_R._McQueen/oflN0Z5g5Q4_0000002 144.8 154.9 
+Steven_R._McQueen/oflN0Z5g5Q4_0000003 213.9 224.9 
+Steven_R._McQueen/oflN0Z5g5Q4_0000004 246.4 251.0 
+Steven_R._McQueen/oflN0Z5g5Q4_0000005 269.8 274.2 
+Steven_R._McQueen/oflN0Z5g5Q4_0000006 278.1 287.2 
+Steven_R._McQueen/oflN0Z5g5Q4_0000007 306.2 311.0 

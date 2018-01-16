@@ -1,0 +1,11 @@
+POI: 			Ryan_Phillippe 
+Youtube ID: 	99T8k82MmfM 
+Video length: 	525.6 sec 
+Set (V): 		dev 
+ 
+Ryan_Phillippe/99T8k82MmfM_0000001 83.5 93.9 
+Ryan_Phillippe/99T8k82MmfM_0000002 107.1 112.9 
+Ryan_Phillippe/99T8k82MmfM_0000003 250.5 259.6 
+Ryan_Phillippe/99T8k82MmfM_0000004 268.9 273.2 
+Ryan_Phillippe/99T8k82MmfM_0000005 324.6 328.7 
+Ryan_Phillippe/99T8k82MmfM_0000006 340.3 345.4 

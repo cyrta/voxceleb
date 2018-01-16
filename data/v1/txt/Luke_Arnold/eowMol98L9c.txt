@@ -1,0 +1,9 @@
+POI: 			Luke_Arnold 
+Youtube ID: 	eowMol98L9c 
+Video length: 	460.0 sec 
+Set (V): 		dev 
+ 
+Luke_Arnold/eowMol98L9c_0000001 07.6 12.5 
+Luke_Arnold/eowMol98L9c_0000002 24.6 32.6 
+Luke_Arnold/eowMol98L9c_0000003 33.3 38.9 
+Luke_Arnold/eowMol98L9c_0000004 39.0 46.4 

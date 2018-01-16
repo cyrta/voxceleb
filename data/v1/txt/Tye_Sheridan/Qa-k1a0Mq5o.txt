@@ -1,0 +1,7 @@
+POI: 			Tye_Sheridan 
+Youtube ID: 	Qa-k1a0Mq5o 
+Video length: 	348.1 sec 
+Set (V): 		dev 
+ 
+Tye_Sheridan/Qa-k1a0Mq5o_0000001 68.6 73.0 
+Tye_Sheridan/Qa-k1a0Mq5o_0000002 77.9 86.5 

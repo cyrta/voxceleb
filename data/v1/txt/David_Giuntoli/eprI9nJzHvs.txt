@@ -1,0 +1,7 @@
+POI: 			David_Giuntoli 
+Youtube ID: 	eprI9nJzHvs 
+Video length: 	431.6 sec 
+Set (V): 		dev 
+ 
+David_Giuntoli/eprI9nJzHvs_0000001 122.4 126.4 
+David_Giuntoli/eprI9nJzHvs_0000002 267.9 271.9 

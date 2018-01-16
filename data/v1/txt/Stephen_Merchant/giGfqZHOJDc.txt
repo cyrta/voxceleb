@@ -1,0 +1,7 @@
+POI: 			Stephen_Merchant 
+Youtube ID: 	giGfqZHOJDc 
+Video length: 	598.3 sec 
+Set (V): 		dev 
+ 
+Stephen_Merchant/giGfqZHOJDc_0000001 20.1 25.5 
+Stephen_Merchant/giGfqZHOJDc_0000002 389.8 393.8 

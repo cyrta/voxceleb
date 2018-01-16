@@ -1,0 +1,13 @@
+POI: 			Paul_Giamatti 
+Youtube ID: 	89N4_lTCdow 
+Video length: 	560.3 sec 
+Set (V): 		dev 
+ 
+Paul_Giamatti/89N4_lTCdow_0000001 198.7 208.9 
+Paul_Giamatti/89N4_lTCdow_0000002 209.4 213.7 
+Paul_Giamatti/89N4_lTCdow_0000003 228.9 238.8 
+Paul_Giamatti/89N4_lTCdow_0000004 270.8 275.2 
+Paul_Giamatti/89N4_lTCdow_0000005 297.3 302.3 
+Paul_Giamatti/89N4_lTCdow_0000006 367.9 372.0 
+Paul_Giamatti/89N4_lTCdow_0000007 489.8 494.3 
+Paul_Giamatti/89N4_lTCdow_0000008 526.7 530.9 

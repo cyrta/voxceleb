@@ -1,0 +1,13 @@
+POI: 			Ezra_Miller 
+Youtube ID: 	pwfqGqgezH4 
+Video length: 	539.7 sec 
+Set (V): 		test 
+ 
+Ezra_Miller/pwfqGqgezH4_0000001 80.7 86.1 
+Ezra_Miller/pwfqGqgezH4_0000002 104.0 113.2 
+Ezra_Miller/pwfqGqgezH4_0000003 124.4 129.3 
+Ezra_Miller/pwfqGqgezH4_0000004 152.3 157.0 
+Ezra_Miller/pwfqGqgezH4_0000005 266.2 271.2 
+Ezra_Miller/pwfqGqgezH4_0000006 283.7 288.6 
+Ezra_Miller/pwfqGqgezH4_0000007 297.3 302.2 
+Ezra_Miller/pwfqGqgezH4_0000008 391.1 397.9 

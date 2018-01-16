@@ -1,0 +1,30 @@
+POI: 			Jonathan_Jackson 
+Youtube ID: 	U5tuzm1A7BY 
+Video length: 	543.9 sec 
+Set (V): 		dev 
+ 
+Jonathan_Jackson/U5tuzm1A7BY_0000001 87.3 91.3 
+Jonathan_Jackson/U5tuzm1A7BY_0000002 122.8 127.6 
+Jonathan_Jackson/U5tuzm1A7BY_0000003 151.4 156.7 
+Jonathan_Jackson/U5tuzm1A7BY_0000004 188.0 192.6 
+Jonathan_Jackson/U5tuzm1A7BY_0000005 196.4 203.1 
+Jonathan_Jackson/U5tuzm1A7BY_0000006 217.2 222.1 
+Jonathan_Jackson/U5tuzm1A7BY_0000007 223.3 227.6 
+Jonathan_Jackson/U5tuzm1A7BY_0000008 229.0 233.5 
+Jonathan_Jackson/U5tuzm1A7BY_0000009 234.3 238.8 
+Jonathan_Jackson/U5tuzm1A7BY_0000010 268.1 272.6 
+Jonathan_Jackson/U5tuzm1A7BY_0000011 274.8 280.8 
+Jonathan_Jackson/U5tuzm1A7BY_0000012 283.3 293.0 
+Jonathan_Jackson/U5tuzm1A7BY_0000013 309.1 313.1 
+Jonathan_Jackson/U5tuzm1A7BY_0000014 322.6 329.3 
+Jonathan_Jackson/U5tuzm1A7BY_0000015 344.4 349.1 
+Jonathan_Jackson/U5tuzm1A7BY_0000016 307.7 316.6 
+Jonathan_Jackson/U5tuzm1A7BY_0000017 324.4 329.4 
+Jonathan_Jackson/U5tuzm1A7BY_0000018 344.4 349.2 
+Jonathan_Jackson/U5tuzm1A7BY_0000019 354.9 360.7 
+Jonathan_Jackson/U5tuzm1A7BY_0000020 361.6 366.2 
+Jonathan_Jackson/U5tuzm1A7BY_0000021 377.0 382.0 
+Jonathan_Jackson/U5tuzm1A7BY_0000022 401.9 407.2 
+Jonathan_Jackson/U5tuzm1A7BY_0000023 419.6 423.9 
+Jonathan_Jackson/U5tuzm1A7BY_0000024 445.3 450.1 
+Jonathan_Jackson/U5tuzm1A7BY_0000025 508.5 513.0 

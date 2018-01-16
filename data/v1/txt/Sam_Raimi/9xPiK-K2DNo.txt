@@ -1,0 +1,18 @@
+POI: 			Sam_Raimi 
+Youtube ID: 	9xPiK-K2DNo 
+Video length: 	274.9 sec 
+Set (V): 		dev 
+ 
+Sam_Raimi/9xPiK-K2DNo_0000001 31.6 39.9 
+Sam_Raimi/9xPiK-K2DNo_0000002 60.3 76.8 
+Sam_Raimi/9xPiK-K2DNo_0000003 88.7 105.4 
+Sam_Raimi/9xPiK-K2DNo_0000004 108.0 112.9 
+Sam_Raimi/9xPiK-K2DNo_0000005 129.3 135.8 
+Sam_Raimi/9xPiK-K2DNo_0000006 139.5 153.0 
+Sam_Raimi/9xPiK-K2DNo_0000007 163.0 171.8 
+Sam_Raimi/9xPiK-K2DNo_0000008 172.0 177.2 
+Sam_Raimi/9xPiK-K2DNo_0000009 177.8 187.2 
+Sam_Raimi/9xPiK-K2DNo_0000010 187.2 194.8 
+Sam_Raimi/9xPiK-K2DNo_0000011 211.7 233.7 
+Sam_Raimi/9xPiK-K2DNo_0000012 238.0 259.5 
+Sam_Raimi/9xPiK-K2DNo_0000013 260.5 269.6 

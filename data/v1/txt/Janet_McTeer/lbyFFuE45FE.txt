@@ -1,0 +1,13 @@
+POI: 			Janet_McTeer 
+Youtube ID: 	lbyFFuE45FE 
+Video length: 	181.2 sec 
+Set (V): 		dev 
+ 
+Janet_McTeer/lbyFFuE45FE_0000001 63.6 69.7 
+Janet_McTeer/lbyFFuE45FE_0000002 71.7 78.6 
+Janet_McTeer/lbyFFuE45FE_0000003 80.2 87.4 
+Janet_McTeer/lbyFFuE45FE_0000004 93.7 101.8 
+Janet_McTeer/lbyFFuE45FE_0000005 107.4 127.1 
+Janet_McTeer/lbyFFuE45FE_0000006 131.8 137.5 
+Janet_McTeer/lbyFFuE45FE_0000007 143.1 148.4 
+Janet_McTeer/lbyFFuE45FE_0000008 148.7 153.8 

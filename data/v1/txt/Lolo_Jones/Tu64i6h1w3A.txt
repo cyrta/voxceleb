@@ -1,0 +1,7 @@
+POI: 			Lolo_Jones 
+Youtube ID: 	Tu64i6h1w3A 
+Video length: 	98.2 sec 
+Set (V): 		dev 
+ 
+Lolo_Jones/Tu64i6h1w3A_0000001 58.5 65.4 
+Lolo_Jones/Tu64i6h1w3A_0000002 82.3 88.7 

@@ -1,0 +1,12 @@
+POI: 			Domhnall_Gleeson 
+Youtube ID: 	8RUXl2UPi_8 
+Video length: 	564.9 sec 
+Set (V): 		dev 
+ 
+Domhnall_Gleeson/8RUXl2UPi_8_0000001 66.6 71.0 
+Domhnall_Gleeson/8RUXl2UPi_8_0000002 209.0 216.5 
+Domhnall_Gleeson/8RUXl2UPi_8_0000003 209.0 213.2 
+Domhnall_Gleeson/8RUXl2UPi_8_0000004 426.6 430.5 
+Domhnall_Gleeson/8RUXl2UPi_8_0000005 431.2 435.4 
+Domhnall_Gleeson/8RUXl2UPi_8_0000006 435.8 441.1 
+Domhnall_Gleeson/8RUXl2UPi_8_0000007 513.5 519.8 

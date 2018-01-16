@@ -1,0 +1,23 @@
+POI: 			Eddie_Izzard 
+Youtube ID: 	ZpPPaMazpf0 
+Video length: 	471.2 sec 
+Set (V): 		test 
+ 
+Eddie_Izzard/ZpPPaMazpf0_0000001 08.9 17.9 
+Eddie_Izzard/ZpPPaMazpf0_0000002 32.7 40.1 
+Eddie_Izzard/ZpPPaMazpf0_0000003 64.7 70.9 
+Eddie_Izzard/ZpPPaMazpf0_0000004 90.6 105.6 
+Eddie_Izzard/ZpPPaMazpf0_0000005 126.1 134.7 
+Eddie_Izzard/ZpPPaMazpf0_0000006 135.7 141.2 
+Eddie_Izzard/ZpPPaMazpf0_0000007 152.4 161.7 
+Eddie_Izzard/ZpPPaMazpf0_0000008 182.9 188.4 
+Eddie_Izzard/ZpPPaMazpf0_0000009 189.1 195.6 
+Eddie_Izzard/ZpPPaMazpf0_0000010 219.6 225.0 
+Eddie_Izzard/ZpPPaMazpf0_0000011 227.0 232.0 
+Eddie_Izzard/ZpPPaMazpf0_0000012 242.5 248.8 
+Eddie_Izzard/ZpPPaMazpf0_0000013 262.2 268.3 
+Eddie_Izzard/ZpPPaMazpf0_0000014 290.5 296.3 
+Eddie_Izzard/ZpPPaMazpf0_0000015 298.6 303.3 
+Eddie_Izzard/ZpPPaMazpf0_0000016 303.4 316.7 
+Eddie_Izzard/ZpPPaMazpf0_0000017 317.6 327.6 
+Eddie_Izzard/ZpPPaMazpf0_0000018 328.6 334.0 

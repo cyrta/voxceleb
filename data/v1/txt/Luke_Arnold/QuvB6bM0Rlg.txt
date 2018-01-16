@@ -1,0 +1,9 @@
+POI: 			Luke_Arnold 
+Youtube ID: 	QuvB6bM0Rlg 
+Video length: 	527.9 sec 
+Set (V): 		dev 
+ 
+Luke_Arnold/QuvB6bM0Rlg_0000001 277.7 284.7 
+Luke_Arnold/QuvB6bM0Rlg_0000002 292.8 297.2 
+Luke_Arnold/QuvB6bM0Rlg_0000003 304.1 319.7 
+Luke_Arnold/QuvB6bM0Rlg_0000004 469.0 473.8 

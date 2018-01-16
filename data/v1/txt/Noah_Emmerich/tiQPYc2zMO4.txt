@@ -1,0 +1,10 @@
+POI: 			Noah_Emmerich 
+Youtube ID: 	tiQPYc2zMO4 
+Video length: 	3588.2 sec 
+Set (V): 		dev 
+ 
+Noah_Emmerich/tiQPYc2zMO4_0000001 795.2 804.4 
+Noah_Emmerich/tiQPYc2zMO4_0000002 1205.5 1225.6 
+Noah_Emmerich/tiQPYc2zMO4_0000003 1231.9 1242.6 
+Noah_Emmerich/tiQPYc2zMO4_0000004 1948.7 1955.2 
+Noah_Emmerich/tiQPYc2zMO4_0000005 2981.2 2990.6 

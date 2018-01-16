@@ -1,0 +1,7 @@
+POI: 			Debi_Mazar 
+Youtube ID: 	WNlIsX2B1AM 
+Video length: 	404.8 sec 
+Set (V): 		dev 
+ 
+Debi_Mazar/WNlIsX2B1AM_0000001 102.3 107.2 
+Debi_Mazar/WNlIsX2B1AM_0000002 282.8 293.0 

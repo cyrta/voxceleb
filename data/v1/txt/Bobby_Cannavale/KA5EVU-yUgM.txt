@@ -1,0 +1,7 @@
+POI: 			Bobby_Cannavale 
+Youtube ID: 	KA5EVU-yUgM 
+Video length: 	707.7 sec 
+Set (V): 		dev 
+ 
+Bobby_Cannavale/KA5EVU-yUgM_0000001 538.1 542.3 
+Bobby_Cannavale/KA5EVU-yUgM_0000002 560.4 568.9 

@@ -1,0 +1,7 @@
+POI: 			Tamsin_Greig 
+Youtube ID: 	m9aEe9ZUKPs 
+Video length: 	2318.2 sec 
+Set (V): 		dev 
+ 
+Tamsin_Greig/m9aEe9ZUKPs_0000001 551.3 559.7 
+Tamsin_Greig/m9aEe9ZUKPs_0000002 1149.9 1155.9 

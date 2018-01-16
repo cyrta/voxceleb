@@ -1,0 +1,12 @@
+POI: 			Ben_McKenzie 
+Youtube ID: 	NJmVcW3DrtY 
+Video length: 	283.6 sec 
+Set (V): 		dev 
+ 
+Ben_McKenzie/NJmVcW3DrtY_0000001 17.1 21.5 
+Ben_McKenzie/NJmVcW3DrtY_0000002 86.6 91.4 
+Ben_McKenzie/NJmVcW3DrtY_0000003 96.1 104.4 
+Ben_McKenzie/NJmVcW3DrtY_0000004 133.5 138.9 
+Ben_McKenzie/NJmVcW3DrtY_0000005 146.2 156.6 
+Ben_McKenzie/NJmVcW3DrtY_0000006 247.0 251.0 
+Ben_McKenzie/NJmVcW3DrtY_0000007 256.7 262.1 

@@ -1,0 +1,8 @@
+POI: 			Marcia_Gay_Harden 
+Youtube ID: 	xlAks2GuBjo 
+Video length: 	237.8 sec 
+Set (V): 		dev 
+ 
+Marcia_Gay_Harden/xlAks2GuBjo_0000001 165.8 173.3 
+Marcia_Gay_Harden/xlAks2GuBjo_0000002 179.3 186.5 
+Marcia_Gay_Harden/xlAks2GuBjo_0000003 193.4 197.9 

@@ -1,0 +1,19 @@
+POI: 			James_Cosmo 
+Youtube ID: 	gTjI-uphq4s 
+Video length: 	294.4 sec 
+Set (V): 		dev 
+ 
+James_Cosmo/gTjI-uphq4s_0000001 36.3 57.0 
+James_Cosmo/gTjI-uphq4s_0000002 59.9 76.7 
+James_Cosmo/gTjI-uphq4s_0000003 87.8 96.2 
+James_Cosmo/gTjI-uphq4s_0000004 103.0 109.1 
+James_Cosmo/gTjI-uphq4s_0000005 116.0 121.3 
+James_Cosmo/gTjI-uphq4s_0000006 133.0 138.8 
+James_Cosmo/gTjI-uphq4s_0000007 140.2 147.4 
+James_Cosmo/gTjI-uphq4s_0000008 173.4 185.4 
+James_Cosmo/gTjI-uphq4s_0000009 188.8 202.7 
+James_Cosmo/gTjI-uphq4s_0000010 219.2 223.7 
+James_Cosmo/gTjI-uphq4s_0000011 223.9 234.4 
+James_Cosmo/gTjI-uphq4s_0000012 240.4 270.5 
+James_Cosmo/gTjI-uphq4s_0000013 274.9 282.9 
+James_Cosmo/gTjI-uphq4s_0000014 283.1 289.6 

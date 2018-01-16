@@ -1,0 +1,8 @@
+POI: 			Natalia_Tena 
+Youtube ID: 	NeBp_ZnsyP0 
+Video length: 	126.0 sec 
+Set (V): 		dev 
+ 
+Natalia_Tena/NeBp_ZnsyP0_0000001 14.5 21.8 
+Natalia_Tena/NeBp_ZnsyP0_0000002 23.8 30.6 
+Natalia_Tena/NeBp_ZnsyP0_0000003 53.8 58.3 

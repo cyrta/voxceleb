@@ -1,0 +1,8 @@
+POI: 			Bill_Pullman 
+Youtube ID: 	GyfPsbugTDc 
+Video length: 	198.0 sec 
+Set (V): 		dev 
+ 
+Bill_Pullman/GyfPsbugTDc_0000001 59.6 64.8 
+Bill_Pullman/GyfPsbugTDc_0000002 83.5 101.6 
+Bill_Pullman/GyfPsbugTDc_0000003 164.5 175.7 

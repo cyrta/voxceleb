@@ -1,0 +1,12 @@
+POI: 			Tatyana_Ali 
+Youtube ID: 	PnBL88Vnb10 
+Video length: 	1033.3 sec 
+Set (V): 		dev 
+ 
+Tatyana_Ali/PnBL88Vnb10_0000001 117.8 122.5 
+Tatyana_Ali/PnBL88Vnb10_0000002 123.0 130.7 
+Tatyana_Ali/PnBL88Vnb10_0000003 287.4 296.5 
+Tatyana_Ali/PnBL88Vnb10_0000004 610.5 614.5 
+Tatyana_Ali/PnBL88Vnb10_0000005 619.7 627.2 
+Tatyana_Ali/PnBL88Vnb10_0000006 935.0 942.2 
+Tatyana_Ali/PnBL88Vnb10_0000007 976.8 985.4 

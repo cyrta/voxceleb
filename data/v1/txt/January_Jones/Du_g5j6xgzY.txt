@@ -1,0 +1,9 @@
+POI: 			January_Jones 
+Youtube ID: 	Du_g5j6xgzY 
+Video length: 	288.2 sec 
+Set (V): 		dev 
+ 
+January_Jones/Du_g5j6xgzY_0000001 93.8 99.1 
+January_Jones/Du_g5j6xgzY_0000002 106.0 113.0 
+January_Jones/Du_g5j6xgzY_0000003 223.3 227.5 
+January_Jones/Du_g5j6xgzY_0000004 231.7 239.7 

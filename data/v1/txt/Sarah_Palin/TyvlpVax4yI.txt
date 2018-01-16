@@ -1,0 +1,7 @@
+POI: 			Sarah_Palin 
+Youtube ID: 	TyvlpVax4yI 
+Video length: 	244.2 sec 
+Set (V): 		dev 
+ 
+Sarah_Palin/TyvlpVax4yI_0000001 163.2 172.6 
+Sarah_Palin/TyvlpVax4yI_0000002 202.8 214.0 

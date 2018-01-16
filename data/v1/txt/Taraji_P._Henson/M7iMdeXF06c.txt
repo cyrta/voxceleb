@@ -1,0 +1,9 @@
+POI: 			Taraji_P._Henson 
+Youtube ID: 	M7iMdeXF06c 
+Video length: 	129.9 sec 
+Set (V): 		dev 
+ 
+Taraji_P._Henson/M7iMdeXF06c_0000001 29.2 35.0 
+Taraji_P._Henson/M7iMdeXF06c_0000002 46.1 50.9 
+Taraji_P._Henson/M7iMdeXF06c_0000003 97.0 112.4 
+Taraji_P._Henson/M7iMdeXF06c_0000004 112.6 120.9 

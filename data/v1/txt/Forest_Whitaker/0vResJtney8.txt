@@ -1,0 +1,13 @@
+POI: 			Forest_Whitaker 
+Youtube ID: 	0vResJtney8 
+Video length: 	290.5 sec 
+Set (V): 		dev 
+ 
+Forest_Whitaker/0vResJtney8_0000001 74.0 98.9 
+Forest_Whitaker/0vResJtney8_0000002 99.1 103.7 
+Forest_Whitaker/0vResJtney8_0000003 191.4 197.6 
+Forest_Whitaker/0vResJtney8_0000004 199.8 210.2 
+Forest_Whitaker/0vResJtney8_0000005 211.7 233.1 
+Forest_Whitaker/0vResJtney8_0000006 253.4 262.3 
+Forest_Whitaker/0vResJtney8_0000007 263.3 270.4 
+Forest_Whitaker/0vResJtney8_0000008 270.7 277.3 

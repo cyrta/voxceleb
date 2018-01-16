@@ -1,0 +1,9 @@
+POI: 			Bruno_Ganz 
+Youtube ID: 	49-fXRn0TXM 
+Video length: 	587.9 sec 
+Set (V): 		dev 
+ 
+Bruno_Ganz/49-fXRn0TXM_0000001 95.8 100.1 
+Bruno_Ganz/49-fXRn0TXM_0000002 279.6 284.4 
+Bruno_Ganz/49-fXRn0TXM_0000003 302.8 307.2 
+Bruno_Ganz/49-fXRn0TXM_0000004 356.1 361.4 

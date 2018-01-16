@@ -1,0 +1,20 @@
+POI: 			Michael_Jai_White 
+Youtube ID: 	2etUa2I_2Kc 
+Video length: 	484.9 sec 
+Set (V): 		dev 
+ 
+Michael_Jai_White/2etUa2I_2Kc_0000001 60.8 67.8 
+Michael_Jai_White/2etUa2I_2Kc_0000002 174.7 179.8 
+Michael_Jai_White/2etUa2I_2Kc_0000003 186.9 191.1 
+Michael_Jai_White/2etUa2I_2Kc_0000004 221.3 228.6 
+Michael_Jai_White/2etUa2I_2Kc_0000005 275.8 281.0 
+Michael_Jai_White/2etUa2I_2Kc_0000006 333.4 339.1 
+Michael_Jai_White/2etUa2I_2Kc_0000007 373.1 377.2 
+Michael_Jai_White/2etUa2I_2Kc_0000008 377.9 383.2 
+Michael_Jai_White/2etUa2I_2Kc_0000009 410.4 418.4 
+Michael_Jai_White/2etUa2I_2Kc_0000010 427.2 435.1 
+Michael_Jai_White/2etUa2I_2Kc_0000011 435.8 440.4 
+Michael_Jai_White/2etUa2I_2Kc_0000012 447.6 454.9 
+Michael_Jai_White/2etUa2I_2Kc_0000013 456.7 461.2 
+Michael_Jai_White/2etUa2I_2Kc_0000014 463.4 467.8 
+Michael_Jai_White/2etUa2I_2Kc_0000015 473.2 478.0 

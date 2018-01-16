@@ -1,0 +1,9 @@
+POI: 			Jeremy_Piven 
+Youtube ID: 	Xvq5_ga6ESw 
+Video length: 	208.0 sec 
+Set (V): 		dev 
+ 
+Jeremy_Piven/Xvq5_ga6ESw_0000001 70.4 80.8 
+Jeremy_Piven/Xvq5_ga6ESw_0000002 129.3 140.3 
+Jeremy_Piven/Xvq5_ga6ESw_0000003 153.2 160.0 
+Jeremy_Piven/Xvq5_ga6ESw_0000004 167.8 185.0 

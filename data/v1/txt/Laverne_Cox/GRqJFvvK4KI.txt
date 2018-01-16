@@ -1,0 +1,12 @@
+POI: 			Laverne_Cox 
+Youtube ID: 	GRqJFvvK4KI 
+Video length: 	283.1 sec 
+Set (V): 		dev 
+ 
+Laverne_Cox/GRqJFvvK4KI_0000001 100.9 156.2 
+Laverne_Cox/GRqJFvvK4KI_0000002 202.2 207.8 
+Laverne_Cox/GRqJFvvK4KI_0000003 213.0 225.8 
+Laverne_Cox/GRqJFvvK4KI_0000004 202.2 215.2 
+Laverne_Cox/GRqJFvvK4KI_0000005 227.6 234.3 
+Laverne_Cox/GRqJFvvK4KI_0000006 232.4 236.4 
+Laverne_Cox/GRqJFvvK4KI_0000007 239.5 246.3 

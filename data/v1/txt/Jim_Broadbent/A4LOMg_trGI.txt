@@ -1,0 +1,11 @@
+POI: 			Jim_Broadbent 
+Youtube ID: 	A4LOMg_trGI 
+Video length: 	2084.5 sec 
+Set (V): 		dev 
+ 
+Jim_Broadbent/A4LOMg_trGI_0000001 102.9 109.1 
+Jim_Broadbent/A4LOMg_trGI_0000002 776.6 781.7 
+Jim_Broadbent/A4LOMg_trGI_0000003 1659.6 1671.4 
+Jim_Broadbent/A4LOMg_trGI_0000004 1672.2 1676.5 
+Jim_Broadbent/A4LOMg_trGI_0000005 1752.4 1756.5 
+Jim_Broadbent/A4LOMg_trGI_0000006 2021.2 2031.8 

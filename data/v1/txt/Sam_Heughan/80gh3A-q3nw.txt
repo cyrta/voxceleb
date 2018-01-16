@@ -1,0 +1,9 @@
+POI: 			Sam_Heughan 
+Youtube ID: 	80gh3A-q3nw 
+Video length: 	864.2 sec 
+Set (V): 		dev 
+ 
+Sam_Heughan/80gh3A-q3nw_0000001 65.8 71.5 
+Sam_Heughan/80gh3A-q3nw_0000002 499.8 509.2 
+Sam_Heughan/80gh3A-q3nw_0000003 547.3 556.8 
+Sam_Heughan/80gh3A-q3nw_0000004 809.9 815.8 

@@ -1,0 +1,11 @@
+POI: 			Donnie_Yen 
+Youtube ID: 	rBCZAnz1iAs 
+Video length: 	295.1 sec 
+Set (V): 		dev 
+ 
+Donnie_Yen/rBCZAnz1iAs_0000001 70.4 77.6 
+Donnie_Yen/rBCZAnz1iAs_0000002 87.4 93.0 
+Donnie_Yen/rBCZAnz1iAs_0000003 99.2 103.7 
+Donnie_Yen/rBCZAnz1iAs_0000004 120.3 124.4 
+Donnie_Yen/rBCZAnz1iAs_0000005 172.6 176.8 
+Donnie_Yen/rBCZAnz1iAs_0000006 192.2 209.8 

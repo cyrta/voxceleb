@@ -1,0 +1,11 @@
+POI: 			Zoe_Saldana 
+Youtube ID: 	1oQOlPEQvfo 
+Video length: 	269.5 sec 
+Set (V): 		dev 
+ 
+Zoe_Saldana/1oQOlPEQvfo_0000001 113.5 118.8 
+Zoe_Saldana/1oQOlPEQvfo_0000002 135.8 145.7 
+Zoe_Saldana/1oQOlPEQvfo_0000003 146.0 152.1 
+Zoe_Saldana/1oQOlPEQvfo_0000004 152.6 158.0 
+Zoe_Saldana/1oQOlPEQvfo_0000005 163.0 170.4 
+Zoe_Saldana/1oQOlPEQvfo_0000006 184.5 193.6 

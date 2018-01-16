@@ -1,0 +1,8 @@
+POI: 			Daniel_Auteuil 
+Youtube ID: 	b9MEr7Cnt9M 
+Video length: 	226.4 sec 
+Set (V): 		dev 
+ 
+Daniel_Auteuil/b9MEr7Cnt9M_0000001 106.2 110.6 
+Daniel_Auteuil/b9MEr7Cnt9M_0000002 130.2 134.6 
+Daniel_Auteuil/b9MEr7Cnt9M_0000003 148.6 153.4 

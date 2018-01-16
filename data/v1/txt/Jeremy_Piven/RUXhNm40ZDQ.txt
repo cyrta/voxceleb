@@ -1,0 +1,10 @@
+POI: 			Jeremy_Piven 
+Youtube ID: 	RUXhNm40ZDQ 
+Video length: 	187.6 sec 
+Set (V): 		dev 
+ 
+Jeremy_Piven/RUXhNm40ZDQ_0000001 42.1 47.9 
+Jeremy_Piven/RUXhNm40ZDQ_0000002 67.1 73.8 
+Jeremy_Piven/RUXhNm40ZDQ_0000003 104.6 111.7 
+Jeremy_Piven/RUXhNm40ZDQ_0000004 149.8 156.6 
+Jeremy_Piven/RUXhNm40ZDQ_0000005 171.0 178.2 

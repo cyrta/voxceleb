@@ -1,0 +1,11 @@
+POI: 			Sonam_Kapoor 
+Youtube ID: 	6geoWeYvFFw 
+Video length: 	325.3 sec 
+Set (V): 		dev 
+ 
+Sonam_Kapoor/6geoWeYvFFw_0000001 03.8 10.4 
+Sonam_Kapoor/6geoWeYvFFw_0000002 115.4 120.3 
+Sonam_Kapoor/6geoWeYvFFw_0000003 133.7 146.5 
+Sonam_Kapoor/6geoWeYvFFw_0000004 152.3 161.4 
+Sonam_Kapoor/6geoWeYvFFw_0000005 168.3 181.4 
+Sonam_Kapoor/6geoWeYvFFw_0000006 317.2 321.8 

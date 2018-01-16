@@ -1,0 +1,12 @@
+POI: 			Andy_Samberg 
+Youtube ID: 	GEGjkuLUETA 
+Video length: 	551.6 sec 
+Set (V): 		dev 
+ 
+Andy_Samberg/GEGjkuLUETA_0000001 42.0 60.0 
+Andy_Samberg/GEGjkuLUETA_0000002 64.7 69.6 
+Andy_Samberg/GEGjkuLUETA_0000003 369.7 379.8 
+Andy_Samberg/GEGjkuLUETA_0000004 388.1 392.6 
+Andy_Samberg/GEGjkuLUETA_0000005 475.7 485.4 
+Andy_Samberg/GEGjkuLUETA_0000006 485.9 489.8 
+Andy_Samberg/GEGjkuLUETA_0000007 526.2 536.1 

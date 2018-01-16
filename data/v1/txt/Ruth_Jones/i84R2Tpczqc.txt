@@ -1,0 +1,10 @@
+POI: 			Ruth_Jones 
+Youtube ID: 	i84R2Tpczqc 
+Video length: 	403.5 sec 
+Set (V): 		dev 
+ 
+Ruth_Jones/i84R2Tpczqc_0000001 154.6 159.6 
+Ruth_Jones/i84R2Tpczqc_0000002 210.6 217.1 
+Ruth_Jones/i84R2Tpczqc_0000003 250.4 255.0 
+Ruth_Jones/i84R2Tpczqc_0000004 303.1 309.1 
+Ruth_Jones/i84R2Tpczqc_0000005 319.1 324.5 

@@ -1,0 +1,12 @@
+POI: 			Martin_Kove 
+Youtube ID: 	mFwEMRLEku0 
+Video length: 	201.5 sec 
+Set (V): 		dev 
+ 
+Martin_Kove/mFwEMRLEku0_0000001 28.6 40.6 
+Martin_Kove/mFwEMRLEku0_0000002 43.4 48.6 
+Martin_Kove/mFwEMRLEku0_0000003 55.9 59.9 
+Martin_Kove/mFwEMRLEku0_0000004 72.7 90.8 
+Martin_Kove/mFwEMRLEku0_0000005 114.6 122.3 
+Martin_Kove/mFwEMRLEku0_0000006 122.5 128.1 
+Martin_Kove/mFwEMRLEku0_0000007 194.2 199.1 

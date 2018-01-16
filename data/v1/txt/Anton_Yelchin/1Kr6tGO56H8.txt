@@ -1,0 +1,9 @@
+POI: 			Anton_Yelchin 
+Youtube ID: 	1Kr6tGO56H8 
+Video length: 	70.6 sec 
+Set (V): 		dev 
+ 
+Anton_Yelchin/1Kr6tGO56H8_0000001 10.4 20.4 
+Anton_Yelchin/1Kr6tGO56H8_0000002 31.8 37.2 
+Anton_Yelchin/1Kr6tGO56H8_0000003 38.7 42.8 
+Anton_Yelchin/1Kr6tGO56H8_0000004 52.6 61.1 

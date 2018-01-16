@@ -1,0 +1,12 @@
+POI: 			Danny_McBride 
+Youtube ID: 	0huX9bSWsvo 
+Video length: 	130.4 sec 
+Set (V): 		dev 
+ 
+Danny_McBride/0huX9bSWsvo_0000001 08.9 13.6 
+Danny_McBride/0huX9bSWsvo_0000002 28.0 32.7 
+Danny_McBride/0huX9bSWsvo_0000003 46.9 52.0 
+Danny_McBride/0huX9bSWsvo_0000004 54.0 58.2 
+Danny_McBride/0huX9bSWsvo_0000005 73.0 78.4 
+Danny_McBride/0huX9bSWsvo_0000006 94.2 99.9 
+Danny_McBride/0huX9bSWsvo_0000007 100.4 105.5 

@@ -1,0 +1,10 @@
+POI: 			Sean_Bean 
+Youtube ID: 	VShzTpCA89s 
+Video length: 	366.1 sec 
+Set (V): 		dev 
+ 
+Sean_Bean/VShzTpCA89s_0000001 210.0 214.9 
+Sean_Bean/VShzTpCA89s_0000002 224.1 228.2 
+Sean_Bean/VShzTpCA89s_0000003 298.8 303.5 
+Sean_Bean/VShzTpCA89s_0000004 311.4 315.5 
+Sean_Bean/VShzTpCA89s_0000005 347.8 353.2 

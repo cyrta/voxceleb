@@ -1,0 +1,13 @@
+POI: 			Kate_McKinnon 
+Youtube ID: 	9PNU1IdK58g 
+Video length: 	213.5 sec 
+Set (V): 		dev 
+ 
+Kate_McKinnon/9PNU1IdK58g_0000001 07.8 16.8 
+Kate_McKinnon/9PNU1IdK58g_0000002 25.7 30.9 
+Kate_McKinnon/9PNU1IdK58g_0000003 31.3 42.1 
+Kate_McKinnon/9PNU1IdK58g_0000004 62.4 72.6 
+Kate_McKinnon/9PNU1IdK58g_0000005 121.0 128.2 
+Kate_McKinnon/9PNU1IdK58g_0000006 132.4 136.8 
+Kate_McKinnon/9PNU1IdK58g_0000007 137.4 144.0 
+Kate_McKinnon/9PNU1IdK58g_0000008 169.6 175.2 

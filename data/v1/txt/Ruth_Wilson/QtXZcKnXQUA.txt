@@ -1,0 +1,13 @@
+POI: 			Ruth_Wilson 
+Youtube ID: 	QtXZcKnXQUA 
+Video length: 	336.1 sec 
+Set (V): 		dev 
+ 
+Ruth_Wilson/QtXZcKnXQUA_0000001 89.6 96.1 
+Ruth_Wilson/QtXZcKnXQUA_0000002 168.7 172.7 
+Ruth_Wilson/QtXZcKnXQUA_0000003 173.0 186.2 
+Ruth_Wilson/QtXZcKnXQUA_0000004 187.2 201.5 
+Ruth_Wilson/QtXZcKnXQUA_0000005 238.1 243.9 
+Ruth_Wilson/QtXZcKnXQUA_0000006 248.8 253.6 
+Ruth_Wilson/QtXZcKnXQUA_0000007 306.3 311.4 
+Ruth_Wilson/QtXZcKnXQUA_0000008 315.1 325.1 

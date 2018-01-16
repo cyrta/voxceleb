@@ -1,0 +1,9 @@
+POI: 			Joe_Flanigan 
+Youtube ID: 	r6DCadLKJYI 
+Video length: 	570.1 sec 
+Set (V): 		dev 
+ 
+Joe_Flanigan/r6DCadLKJYI_0000001 101.8 107.0 
+Joe_Flanigan/r6DCadLKJYI_0000002 128.2 132.3 
+Joe_Flanigan/r6DCadLKJYI_0000003 203.6 208.6 
+Joe_Flanigan/r6DCadLKJYI_0000004 499.7 507.0 

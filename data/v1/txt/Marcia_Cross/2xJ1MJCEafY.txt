@@ -1,0 +1,14 @@
+POI: 			Marcia_Cross 
+Youtube ID: 	2xJ1MJCEafY 
+Video length: 	393.5 sec 
+Set (V): 		dev 
+ 
+Marcia_Cross/2xJ1MJCEafY_0000001 32.7 36.9 
+Marcia_Cross/2xJ1MJCEafY_0000002 57.0 67.2 
+Marcia_Cross/2xJ1MJCEafY_0000003 142.8 148.4 
+Marcia_Cross/2xJ1MJCEafY_0000004 190.3 199.6 
+Marcia_Cross/2xJ1MJCEafY_0000005 212.5 227.2 
+Marcia_Cross/2xJ1MJCEafY_0000006 231.9 236.9 
+Marcia_Cross/2xJ1MJCEafY_0000007 300.4 305.6 
+Marcia_Cross/2xJ1MJCEafY_0000008 305.9 310.7 
+Marcia_Cross/2xJ1MJCEafY_0000009 326.6 336.2 

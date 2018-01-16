@@ -1,0 +1,10 @@
+POI: 			Steve_Jobs 
+Youtube ID: 	f60dheI4ARg 
+Video length: 	146.1 sec 
+Set (V): 		dev 
+ 
+Steve_Jobs/f60dheI4ARg_0000001 47.1 52.5 
+Steve_Jobs/f60dheI4ARg_0000002 62.9 70.1 
+Steve_Jobs/f60dheI4ARg_0000003 94.8 101.7 
+Steve_Jobs/f60dheI4ARg_0000004 119.6 125.4 
+Steve_Jobs/f60dheI4ARg_0000005 125.9 134.9 

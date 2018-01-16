@@ -1,0 +1,9 @@
+POI: 			Jenny_Slate 
+Youtube ID: 	GR6uSFZnjAw 
+Video length: 	329.0 sec 
+Set (V): 		dev 
+ 
+Jenny_Slate/GR6uSFZnjAw_0000001 124.7 134.6 
+Jenny_Slate/GR6uSFZnjAw_0000002 135.7 141.4 
+Jenny_Slate/GR6uSFZnjAw_0000003 178.8 183.6 
+Jenny_Slate/GR6uSFZnjAw_0000004 266.4 273.3 

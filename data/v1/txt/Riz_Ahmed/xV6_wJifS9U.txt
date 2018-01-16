@@ -1,0 +1,7 @@
+POI: 			Riz_Ahmed 
+Youtube ID: 	xV6_wJifS9U 
+Video length: 	125.2 sec 
+Set (V): 		dev 
+ 
+Riz_Ahmed/xV6_wJifS9U_0000001 61.1 69.4 
+Riz_Ahmed/xV6_wJifS9U_0000002 72.9 77.6 

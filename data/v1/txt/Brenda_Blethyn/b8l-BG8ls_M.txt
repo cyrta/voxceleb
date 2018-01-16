@@ -1,0 +1,10 @@
+POI: 			Brenda_Blethyn 
+Youtube ID: 	b8l-BG8ls_M 
+Video length: 	265.7 sec 
+Set (V): 		dev 
+ 
+Brenda_Blethyn/b8l-BG8ls_M_0000001 12.0 18.8 
+Brenda_Blethyn/b8l-BG8ls_M_0000002 41.8 46.3 
+Brenda_Blethyn/b8l-BG8ls_M_0000003 63.8 78.3 
+Brenda_Blethyn/b8l-BG8ls_M_0000004 160.0 168.3 
+Brenda_Blethyn/b8l-BG8ls_M_0000005 178.6 183.2 

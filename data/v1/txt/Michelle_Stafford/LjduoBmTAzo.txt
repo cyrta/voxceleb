@@ -1,0 +1,8 @@
+POI: 			Michelle_Stafford 
+Youtube ID: 	LjduoBmTAzo 
+Video length: 	318.5 sec 
+Set (V): 		dev 
+ 
+Michelle_Stafford/LjduoBmTAzo_0000001 132.2 137.5 
+Michelle_Stafford/LjduoBmTAzo_0000002 142.6 150.2 
+Michelle_Stafford/LjduoBmTAzo_0000003 287.0 291.4 

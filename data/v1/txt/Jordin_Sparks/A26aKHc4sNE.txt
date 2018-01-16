@@ -1,0 +1,10 @@
+POI: 			Jordin_Sparks 
+Youtube ID: 	A26aKHc4sNE 
+Video length: 	471.6 sec 
+Set (V): 		dev 
+ 
+Jordin_Sparks/A26aKHc4sNE_0000001 267.7 274.4 
+Jordin_Sparks/A26aKHc4sNE_0000002 274.6 302.2 
+Jordin_Sparks/A26aKHc4sNE_0000003 304.1 312.3 
+Jordin_Sparks/A26aKHc4sNE_0000004 339.0 351.5 
+Jordin_Sparks/A26aKHc4sNE_0000005 353.6 383.8 

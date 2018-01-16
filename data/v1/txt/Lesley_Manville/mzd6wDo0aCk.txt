@@ -1,0 +1,9 @@
+POI: 			Lesley_Manville 
+Youtube ID: 	mzd6wDo0aCk 
+Video length: 	103.3 sec 
+Set (V): 		dev 
+ 
+Lesley_Manville/mzd6wDo0aCk_0000001 09.4 45.3 
+Lesley_Manville/mzd6wDo0aCk_0000002 49.0 58.3 
+Lesley_Manville/mzd6wDo0aCk_0000003 60.5 75.4 
+Lesley_Manville/mzd6wDo0aCk_0000004 83.8 97.7 

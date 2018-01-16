@@ -1,0 +1,13 @@
+POI: 			Maria_Sharapova 
+Youtube ID: 	GTF51f0BxQ4 
+Video length: 	354.6 sec 
+Set (V): 		dev 
+ 
+Maria_Sharapova/GTF51f0BxQ4_0000001 141.9 146.1 
+Maria_Sharapova/GTF51f0BxQ4_0000002 150.8 155.3 
+Maria_Sharapova/GTF51f0BxQ4_0000003 191.9 196.4 
+Maria_Sharapova/GTF51f0BxQ4_0000004 207.0 212.2 
+Maria_Sharapova/GTF51f0BxQ4_0000005 244.1 249.8 
+Maria_Sharapova/GTF51f0BxQ4_0000006 250.8 258.7 
+Maria_Sharapova/GTF51f0BxQ4_0000007 268.3 272.3 
+Maria_Sharapova/GTF51f0BxQ4_0000008 274.4 282.0 

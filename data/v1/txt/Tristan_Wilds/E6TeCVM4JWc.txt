@@ -1,0 +1,10 @@
+POI: 			Tristan_Wilds 
+Youtube ID: 	E6TeCVM4JWc 
+Video length: 	202.4 sec 
+Set (V): 		dev 
+ 
+Tristan_Wilds/E6TeCVM4JWc_0000001 64.0 71.0 
+Tristan_Wilds/E6TeCVM4JWc_0000002 72.5 83.7 
+Tristan_Wilds/E6TeCVM4JWc_0000003 92.9 97.7 
+Tristan_Wilds/E6TeCVM4JWc_0000004 101.2 107.7 
+Tristan_Wilds/E6TeCVM4JWc_0000005 125.6 132.7 

@@ -1,0 +1,15 @@
+POI: 			Amanda_Seyfried 
+Youtube ID: 	mcpkLfUBzeU 
+Video length: 	304.8 sec 
+Set (V): 		dev 
+ 
+Amanda_Seyfried/mcpkLfUBzeU_0000001 35.0 39.6 
+Amanda_Seyfried/mcpkLfUBzeU_0000002 50.9 60.4 
+Amanda_Seyfried/mcpkLfUBzeU_0000003 90.0 106.7 
+Amanda_Seyfried/mcpkLfUBzeU_0000004 120.2 127.0 
+Amanda_Seyfried/mcpkLfUBzeU_0000005 133.1 147.3 
+Amanda_Seyfried/mcpkLfUBzeU_0000006 182.7 189.4 
+Amanda_Seyfried/mcpkLfUBzeU_0000007 200.5 205.4 
+Amanda_Seyfried/mcpkLfUBzeU_0000008 244.1 250.3 
+Amanda_Seyfried/mcpkLfUBzeU_0000009 261.3 270.2 
+Amanda_Seyfried/mcpkLfUBzeU_0000010 286.8 291.0 

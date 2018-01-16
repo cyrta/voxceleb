@@ -1,0 +1,16 @@
+POI: 			Abigail_Spencer 
+Youtube ID: 	CFwSMiMzoiA 
+Video length: 	350.9 sec 
+Set (V): 		dev 
+ 
+Abigail_Spencer/CFwSMiMzoiA_0000001 13.3 27.8 
+Abigail_Spencer/CFwSMiMzoiA_0000002 31.9 44.8 
+Abigail_Spencer/CFwSMiMzoiA_0000003 78.8 88.9 
+Abigail_Spencer/CFwSMiMzoiA_0000004 121.3 132.4 
+Abigail_Spencer/CFwSMiMzoiA_0000005 135.1 144.8 
+Abigail_Spencer/CFwSMiMzoiA_0000006 182.0 190.7 
+Abigail_Spencer/CFwSMiMzoiA_0000007 190.8 195.7 
+Abigail_Spencer/CFwSMiMzoiA_0000008 216.1 236.7 
+Abigail_Spencer/CFwSMiMzoiA_0000009 236.9 250.9 
+Abigail_Spencer/CFwSMiMzoiA_0000010 252.0 261.8 
+Abigail_Spencer/CFwSMiMzoiA_0000011 265.4 270.4 

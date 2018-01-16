@@ -1,0 +1,12 @@
+POI: 			Odeya_Rush 
+Youtube ID: 	dyVn5lOWfx4 
+Video length: 	728.5 sec 
+Set (V): 		dev 
+ 
+Odeya_Rush/dyVn5lOWfx4_0000001 04.5 10.3 
+Odeya_Rush/dyVn5lOWfx4_0000002 108.9 112.8 
+Odeya_Rush/dyVn5lOWfx4_0000003 263.8 268.0 
+Odeya_Rush/dyVn5lOWfx4_0000004 271.2 275.7 
+Odeya_Rush/dyVn5lOWfx4_0000005 276.3 292.0 
+Odeya_Rush/dyVn5lOWfx4_0000006 450.7 455.0 
+Odeya_Rush/dyVn5lOWfx4_0000007 501.7 509.6 

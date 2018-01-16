@@ -1,0 +1,9 @@
+POI: 			Harvey_Keitel 
+Youtube ID: 	L8CwXjHnd7Q 
+Video length: 	497.2 sec 
+Set (V): 		dev 
+ 
+Harvey_Keitel/L8CwXjHnd7Q_0000001 125.9 132.4 
+Harvey_Keitel/L8CwXjHnd7Q_0000002 134.1 138.2 
+Harvey_Keitel/L8CwXjHnd7Q_0000003 140.6 146.2 
+Harvey_Keitel/L8CwXjHnd7Q_0000004 176.0 180.6 

@@ -1,0 +1,7 @@
+POI: 			Debi_Mazar 
+Youtube ID: 	5kdw_bOW-nc 
+Video length: 	145.0 sec 
+Set (V): 		dev 
+ 
+Debi_Mazar/5kdw_bOW-nc_0000001 95.7 103.8 
+Debi_Mazar/5kdw_bOW-nc_0000002 133.8 143.6 

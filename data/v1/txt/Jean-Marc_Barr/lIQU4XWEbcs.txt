@@ -1,0 +1,10 @@
+POI: 			Jean-Marc_Barr 
+Youtube ID: 	lIQU4XWEbcs 
+Video length: 	1743.3 sec 
+Set (V): 		dev 
+ 
+Jean-Marc_Barr/lIQU4XWEbcs_0000001 104.2 111.4 
+Jean-Marc_Barr/lIQU4XWEbcs_0000002 124.5 129.3 
+Jean-Marc_Barr/lIQU4XWEbcs_0000003 522.0 528.3 
+Jean-Marc_Barr/lIQU4XWEbcs_0000004 547.0 551.5 
+Jean-Marc_Barr/lIQU4XWEbcs_0000005 1088.1 1093.4 

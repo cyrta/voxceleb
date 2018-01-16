@@ -1,0 +1,10 @@
+POI: 			Matthew_Macfadyen 
+Youtube ID: 	qYj8ju0bE-A 
+Video length: 	205.1 sec 
+Set (V): 		dev 
+ 
+Matthew_Macfadyen/qYj8ju0bE-A_0000001 12.2 16.4 
+Matthew_Macfadyen/qYj8ju0bE-A_0000002 37.6 41.7 
+Matthew_Macfadyen/qYj8ju0bE-A_0000003 117.1 122.9 
+Matthew_Macfadyen/qYj8ju0bE-A_0000004 129.2 137.8 
+Matthew_Macfadyen/qYj8ju0bE-A_0000005 158.0 165.6 

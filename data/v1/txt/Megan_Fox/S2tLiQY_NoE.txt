@@ -1,0 +1,20 @@
+POI: 			Megan_Fox 
+Youtube ID: 	S2tLiQY_NoE 
+Video length: 	590.1 sec 
+Set (V): 		dev 
+ 
+Megan_Fox/S2tLiQY_NoE_0000001 16.9 27.6 
+Megan_Fox/S2tLiQY_NoE_0000002 66.1 72.0 
+Megan_Fox/S2tLiQY_NoE_0000003 72.5 78.9 
+Megan_Fox/S2tLiQY_NoE_0000004 86.3 98.9 
+Megan_Fox/S2tLiQY_NoE_0000005 120.3 133.0 
+Megan_Fox/S2tLiQY_NoE_0000006 138.2 144.8 
+Megan_Fox/S2tLiQY_NoE_0000007 165.7 178.8 
+Megan_Fox/S2tLiQY_NoE_0000008 194.8 200.9 
+Megan_Fox/S2tLiQY_NoE_0000009 210.9 217.6 
+Megan_Fox/S2tLiQY_NoE_0000010 345.5 365.1 
+Megan_Fox/S2tLiQY_NoE_0000011 376.0 383.6 
+Megan_Fox/S2tLiQY_NoE_0000012 472.8 478.6 
+Megan_Fox/S2tLiQY_NoE_0000013 478.8 487.1 
+Megan_Fox/S2tLiQY_NoE_0000014 500.9 507.5 
+Megan_Fox/S2tLiQY_NoE_0000015 518.1 527.1 

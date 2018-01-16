@@ -1,0 +1,11 @@
+POI: 			Joanne_Froggatt 
+Youtube ID: 	JdF402D4-KU 
+Video length: 	127.8 sec 
+Set (V): 		dev 
+ 
+Joanne_Froggatt/JdF402D4-KU_0000001 17.8 22.3 
+Joanne_Froggatt/JdF402D4-KU_0000002 22.5 45.3 
+Joanne_Froggatt/JdF402D4-KU_0000003 59.7 74.8 
+Joanne_Froggatt/JdF402D4-KU_0000004 82.5 88.9 
+Joanne_Froggatt/JdF402D4-KU_0000005 89.9 95.7 
+Joanne_Froggatt/JdF402D4-KU_0000006 97.9 107.6 

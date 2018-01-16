@@ -1,0 +1,11 @@
+POI: 			Tamala_Jones 
+Youtube ID: 	lWGSIuUF9lE 
+Video length: 	127.1 sec 
+Set (V): 		dev 
+ 
+Tamala_Jones/lWGSIuUF9lE_0000001 19.2 27.2 
+Tamala_Jones/lWGSIuUF9lE_0000002 31.1 35.4 
+Tamala_Jones/lWGSIuUF9lE_0000003 37.0 59.2 
+Tamala_Jones/lWGSIuUF9lE_0000004 60.0 71.8 
+Tamala_Jones/lWGSIuUF9lE_0000005 72.2 108.6 
+Tamala_Jones/lWGSIuUF9lE_0000006 109.9 120.4 

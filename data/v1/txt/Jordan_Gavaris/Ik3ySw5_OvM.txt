@@ -1,0 +1,11 @@
+POI: 			Jordan_Gavaris 
+Youtube ID: 	Ik3ySw5_OvM 
+Video length: 	180.5 sec 
+Set (V): 		dev 
+ 
+Jordan_Gavaris/Ik3ySw5_OvM_0000001 00.7 06.4 
+Jordan_Gavaris/Ik3ySw5_OvM_0000002 17.0 26.7 
+Jordan_Gavaris/Ik3ySw5_OvM_0000003 65.6 73.8 
+Jordan_Gavaris/Ik3ySw5_OvM_0000004 80.6 90.0 
+Jordan_Gavaris/Ik3ySw5_OvM_0000005 95.1 105.2 
+Jordan_Gavaris/Ik3ySw5_OvM_0000006 104.9 109.4 

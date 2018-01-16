@@ -1,0 +1,8 @@
+POI: 			James_Roday 
+Youtube ID: 	Zo_QB-OtuyA 
+Video length: 	335.4 sec 
+Set (V): 		dev 
+ 
+James_Roday/Zo_QB-OtuyA_0000001 169.6 173.8 
+James_Roday/Zo_QB-OtuyA_0000002 174.3 181.9 
+James_Roday/Zo_QB-OtuyA_0000003 223.1 227.6 

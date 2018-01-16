@@ -1,0 +1,24 @@
+POI: 			Will_Poulter 
+Youtube ID: 	NzkV5Ct5L6A 
+Video length: 	310.6 sec 
+Set (V): 		dev 
+ 
+Will_Poulter/NzkV5Ct5L6A_0000001 21.4 39.5 
+Will_Poulter/NzkV5Ct5L6A_0000002 54.9 66.4 
+Will_Poulter/NzkV5Ct5L6A_0000003 69.4 73.7 
+Will_Poulter/NzkV5Ct5L6A_0000004 86.9 100.0 
+Will_Poulter/NzkV5Ct5L6A_0000005 100.4 105.0 
+Will_Poulter/NzkV5Ct5L6A_0000006 119.2 124.8 
+Will_Poulter/NzkV5Ct5L6A_0000007 124.9 129.5 
+Will_Poulter/NzkV5Ct5L6A_0000008 130.2 134.7 
+Will_Poulter/NzkV5Ct5L6A_0000009 135.4 141.3 
+Will_Poulter/NzkV5Ct5L6A_0000010 159.0 167.6 
+Will_Poulter/NzkV5Ct5L6A_0000011 174.3 179.3 
+Will_Poulter/NzkV5Ct5L6A_0000012 179.9 184.5 
+Will_Poulter/NzkV5Ct5L6A_0000013 196.5 200.8 
+Will_Poulter/NzkV5Ct5L6A_0000014 202.1 209.1 
+Will_Poulter/NzkV5Ct5L6A_0000015 209.5 227.4 
+Will_Poulter/NzkV5Ct5L6A_0000016 236.8 241.8 
+Will_Poulter/NzkV5Ct5L6A_0000017 237.6 245.5 
+Will_Poulter/NzkV5Ct5L6A_0000018 256.0 266.9 
+Will_Poulter/NzkV5Ct5L6A_0000019 285.5 295.6 

@@ -1,0 +1,8 @@
+POI: 			Eddie_McClintock 
+Youtube ID: 	UBMwbGlSLLg 
+Video length: 	93.6 sec 
+Set (V): 		test 
+ 
+Eddie_McClintock/UBMwbGlSLLg_0000001 08.8 29.2 
+Eddie_McClintock/UBMwbGlSLLg_0000002 29.4 34.6 
+Eddie_McClintock/UBMwbGlSLLg_0000003 37.3 41.6 

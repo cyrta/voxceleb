@@ -1,0 +1,9 @@
+POI: 			Xavier_Samuel 
+Youtube ID: 	dRbaSN2-vLQ 
+Video length: 	197.3 sec 
+Set (V): 		dev 
+ 
+Xavier_Samuel/dRbaSN2-vLQ_0000001 150.5 154.5 
+Xavier_Samuel/dRbaSN2-vLQ_0000002 159.5 163.7 
+Xavier_Samuel/dRbaSN2-vLQ_0000003 163.8 169.2 
+Xavier_Samuel/dRbaSN2-vLQ_0000004 185.5 195.2 

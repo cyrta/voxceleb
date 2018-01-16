@@ -1,0 +1,9 @@
+POI: 			Kristen_Stewart 
+Youtube ID: 	T2HhEC7XyaM 
+Video length: 	190.5 sec 
+Set (V): 		dev 
+ 
+Kristen_Stewart/T2HhEC7XyaM_0000001 49.8 55.7 
+Kristen_Stewart/T2HhEC7XyaM_0000002 115.9 122.8 
+Kristen_Stewart/T2HhEC7XyaM_0000003 127.6 135.8 
+Kristen_Stewart/T2HhEC7XyaM_0000004 147.1 152.4 

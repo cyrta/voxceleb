@@ -1,0 +1,7 @@
+POI: 			Vincent_Martella 
+Youtube ID: 	wtrDuQcGeHA 
+Video length: 	155.6 sec 
+Set (V): 		dev 
+ 
+Vincent_Martella/wtrDuQcGeHA_0000001 25.2 31.9 
+Vincent_Martella/wtrDuQcGeHA_0000002 109.0 118.9 

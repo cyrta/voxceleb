@@ -1,0 +1,16 @@
+POI: 			Toby_Stephens 
+Youtube ID: 	FVwo6M2RXGE 
+Video length: 	161.2 sec 
+Set (V): 		dev 
+ 
+Toby_Stephens/FVwo6M2RXGE_0000001 05.9 13.5 
+Toby_Stephens/FVwo6M2RXGE_0000002 13.6 26.1 
+Toby_Stephens/FVwo6M2RXGE_0000003 33.2 47.8 
+Toby_Stephens/FVwo6M2RXGE_0000004 48.3 59.2 
+Toby_Stephens/FVwo6M2RXGE_0000005 60.0 65.0 
+Toby_Stephens/FVwo6M2RXGE_0000006 69.4 73.7 
+Toby_Stephens/FVwo6M2RXGE_0000007 78.6 87.3 
+Toby_Stephens/FVwo6M2RXGE_0000008 93.0 102.1 
+Toby_Stephens/FVwo6M2RXGE_0000009 112.7 120.1 
+Toby_Stephens/FVwo6M2RXGE_0000010 142.2 146.4 
+Toby_Stephens/FVwo6M2RXGE_0000011 146.8 152.2 

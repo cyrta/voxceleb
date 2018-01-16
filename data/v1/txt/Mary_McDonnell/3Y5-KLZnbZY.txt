@@ -1,0 +1,7 @@
+POI: 			Mary_McDonnell 
+Youtube ID: 	3Y5-KLZnbZY 
+Video length: 	471.7 sec 
+Set (V): 		dev 
+ 
+Mary_McDonnell/3Y5-KLZnbZY_0000001 80.2 87.0 
+Mary_McDonnell/3Y5-KLZnbZY_0000002 227.4 231.6 

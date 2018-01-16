@@ -1,0 +1,12 @@
+POI: 			Eddie_Izzard 
+Youtube ID: 	E50E5hbggyM 
+Video length: 	2363.0 sec 
+Set (V): 		test 
+ 
+Eddie_Izzard/E50E5hbggyM_0000001 1178.8 1183.0 
+Eddie_Izzard/E50E5hbggyM_0000002 1228.1 1236.3 
+Eddie_Izzard/E50E5hbggyM_0000003 1320.1 1329.3 
+Eddie_Izzard/E50E5hbggyM_0000004 1345.9 1351.9 
+Eddie_Izzard/E50E5hbggyM_0000005 1429.8 1435.0 
+Eddie_Izzard/E50E5hbggyM_0000006 1490.7 1498.8 
+Eddie_Izzard/E50E5hbggyM_0000007 1504.6 1510.0 

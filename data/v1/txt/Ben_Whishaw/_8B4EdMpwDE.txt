@@ -1,0 +1,8 @@
+POI: 			Ben_Whishaw 
+Youtube ID: 	_8B4EdMpwDE 
+Video length: 	143.9 sec 
+Set (V): 		dev 
+ 
+Ben_Whishaw/_8B4EdMpwDE_0000001 58.7 63.0 
+Ben_Whishaw/_8B4EdMpwDE_0000002 87.0 91.2 
+Ben_Whishaw/_8B4EdMpwDE_0000003 109.4 114.9 

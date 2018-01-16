@@ -1,0 +1,7 @@
+POI: 			Dustin_Milligan 
+Youtube ID: 	2M0WliAJOxQ 
+Video length: 	386.6 sec 
+Set (V): 		dev 
+ 
+Dustin_Milligan/2M0WliAJOxQ_0000001 98.0 102.5 
+Dustin_Milligan/2M0WliAJOxQ_0000002 276.6 280.8 

@@ -1,0 +1,10 @@
+POI: 			Timothy_Spall 
+Youtube ID: 	Pfx_J-Xt1Vc 
+Video length: 	583.3 sec 
+Set (V): 		dev 
+ 
+Timothy_Spall/Pfx_J-Xt1Vc_0000001 137.8 143.4 
+Timothy_Spall/Pfx_J-Xt1Vc_0000002 155.6 161.0 
+Timothy_Spall/Pfx_J-Xt1Vc_0000003 162.3 169.2 
+Timothy_Spall/Pfx_J-Xt1Vc_0000004 190.4 194.8 
+Timothy_Spall/Pfx_J-Xt1Vc_0000005 207.4 211.7 

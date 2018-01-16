@@ -1,0 +1,8 @@
+POI: 			Roshon_Fegan 
+Youtube ID: 	A6WL_aIRdnA 
+Video length: 	127.0 sec 
+Set (V): 		dev 
+ 
+Roshon_Fegan/A6WL_aIRdnA_0000001 56.6 62.6 
+Roshon_Fegan/A6WL_aIRdnA_0000002 105.4 115.6 
+Roshon_Fegan/A6WL_aIRdnA_0000003 116.4 120.8 

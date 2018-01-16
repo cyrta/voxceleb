@@ -1,0 +1,15 @@
+POI: 			Joseph_Gordon-Levitt 
+Youtube ID: 	1MNbrgPasLA 
+Video length: 	580.9 sec 
+Set (V): 		dev 
+ 
+Joseph_Gordon-Levitt/1MNbrgPasLA_0000001 62.8 69.5 
+Joseph_Gordon-Levitt/1MNbrgPasLA_0000002 184.4 189.4 
+Joseph_Gordon-Levitt/1MNbrgPasLA_0000003 196.8 202.6 
+Joseph_Gordon-Levitt/1MNbrgPasLA_0000004 209.2 219.0 
+Joseph_Gordon-Levitt/1MNbrgPasLA_0000005 232.1 236.5 
+Joseph_Gordon-Levitt/1MNbrgPasLA_0000006 238.8 249.2 
+Joseph_Gordon-Levitt/1MNbrgPasLA_0000007 414.9 420.5 
+Joseph_Gordon-Levitt/1MNbrgPasLA_0000008 442.4 446.6 
+Joseph_Gordon-Levitt/1MNbrgPasLA_0000009 543.5 547.5 
+Joseph_Gordon-Levitt/1MNbrgPasLA_0000010 549.5 559.6 

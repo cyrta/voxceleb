@@ -1,0 +1,11 @@
+POI: 			Jesse_Williams 
+Youtube ID: 	L8EmleIJyMQ 
+Video length: 	143.6 sec 
+Set (V): 		dev 
+ 
+Jesse_Williams/L8EmleIJyMQ_0000001 19.5 24.2 
+Jesse_Williams/L8EmleIJyMQ_0000002 64.6 82.2 
+Jesse_Williams/L8EmleIJyMQ_0000003 93.2 99.4 
+Jesse_Williams/L8EmleIJyMQ_0000004 101.1 105.8 
+Jesse_Williams/L8EmleIJyMQ_0000005 108.0 115.1 
+Jesse_Williams/L8EmleIJyMQ_0000006 119.1 126.5 

@@ -1,0 +1,9 @@
+POI: 			Lavell_Crawford 
+Youtube ID: 	JSEPgmbLYn4 
+Video length: 	133.6 sec 
+Set (V): 		dev 
+ 
+Lavell_Crawford/JSEPgmbLYn4_0000001 36.5 45.9 
+Lavell_Crawford/JSEPgmbLYn4_0000002 47.3 52.5 
+Lavell_Crawford/JSEPgmbLYn4_0000003 83.2 89.0 
+Lavell_Crawford/JSEPgmbLYn4_0000004 97.1 102.8 

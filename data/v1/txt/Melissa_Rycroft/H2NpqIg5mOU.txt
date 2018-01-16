@@ -1,0 +1,9 @@
+POI: 			Melissa_Rycroft 
+Youtube ID: 	H2NpqIg5mOU 
+Video length: 	197.9 sec 
+Set (V): 		dev 
+ 
+Melissa_Rycroft/H2NpqIg5mOU_0000001 64.4 68.5 
+Melissa_Rycroft/H2NpqIg5mOU_0000002 74.7 79.6 
+Melissa_Rycroft/H2NpqIg5mOU_0000003 167.0 172.3 
+Melissa_Rycroft/H2NpqIg5mOU_0000004 172.8 178.7 

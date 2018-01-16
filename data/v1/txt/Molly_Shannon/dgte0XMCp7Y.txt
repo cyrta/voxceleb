@@ -1,0 +1,14 @@
+POI: 			Molly_Shannon 
+Youtube ID: 	dgte0XMCp7Y 
+Video length: 	308.7 sec 
+Set (V): 		dev 
+ 
+Molly_Shannon/dgte0XMCp7Y_0000001 39.0 43.7 
+Molly_Shannon/dgte0XMCp7Y_0000002 81.8 92.8 
+Molly_Shannon/dgte0XMCp7Y_0000003 98.4 105.5 
+Molly_Shannon/dgte0XMCp7Y_0000004 143.7 149.8 
+Molly_Shannon/dgte0XMCp7Y_0000005 149.9 155.5 
+Molly_Shannon/dgte0XMCp7Y_0000006 168.1 175.5 
+Molly_Shannon/dgte0XMCp7Y_0000007 220.3 225.4 
+Molly_Shannon/dgte0XMCp7Y_0000008 226.1 230.9 
+Molly_Shannon/dgte0XMCp7Y_0000009 266.2 273.8 

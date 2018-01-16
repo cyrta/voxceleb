@@ -1,0 +1,11 @@
+POI: 			John_Hawkes 
+Youtube ID: 	TMvAzyaWCxQ 
+Video length: 	740.6 sec 
+Set (V): 		dev 
+ 
+John_Hawkes/TMvAzyaWCxQ_0000001 65.1 72.1 
+John_Hawkes/TMvAzyaWCxQ_0000002 73.3 81.4 
+John_Hawkes/TMvAzyaWCxQ_0000003 84.8 89.1 
+John_Hawkes/TMvAzyaWCxQ_0000004 174.2 181.4 
+John_Hawkes/TMvAzyaWCxQ_0000005 184.8 190.2 
+John_Hawkes/TMvAzyaWCxQ_0000006 232.4 236.6 

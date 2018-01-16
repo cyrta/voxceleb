@@ -1,0 +1,9 @@
+POI: 			Mariel_Hemingway 
+Youtube ID: 	ZcAZijxiTTY 
+Video length: 	272.6 sec 
+Set (V): 		dev 
+ 
+Mariel_Hemingway/ZcAZijxiTTY_0000001 57.0 66.0 
+Mariel_Hemingway/ZcAZijxiTTY_0000002 91.5 95.5 
+Mariel_Hemingway/ZcAZijxiTTY_0000003 177.8 192.0 
+Mariel_Hemingway/ZcAZijxiTTY_0000004 219.2 226.3 

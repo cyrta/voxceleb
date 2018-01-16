@@ -1,0 +1,13 @@
+POI: 			Sam_Riley 
+Youtube ID: 	MEYAgM-vxMY 
+Video length: 	502.1 sec 
+Set (V): 		dev 
+ 
+Sam_Riley/MEYAgM-vxMY_0000001 107.8 112.8 
+Sam_Riley/MEYAgM-vxMY_0000002 117.0 125.1 
+Sam_Riley/MEYAgM-vxMY_0000003 224.3 230.7 
+Sam_Riley/MEYAgM-vxMY_0000004 232.7 238.3 
+Sam_Riley/MEYAgM-vxMY_0000005 267.0 272.9 
+Sam_Riley/MEYAgM-vxMY_0000006 277.2 282.2 
+Sam_Riley/MEYAgM-vxMY_0000007 282.7 286.6 
+Sam_Riley/MEYAgM-vxMY_0000008 289.0 294.0 

@@ -1,0 +1,10 @@
+POI: 			Kate_McKinnon 
+Youtube ID: 	okV2xQtjXSM 
+Video length: 	293.9 sec 
+Set (V): 		dev 
+ 
+Kate_McKinnon/okV2xQtjXSM_0000001 56.6 63.5 
+Kate_McKinnon/okV2xQtjXSM_0000002 101.5 109.0 
+Kate_McKinnon/okV2xQtjXSM_0000003 172.6 179.0 
+Kate_McKinnon/okV2xQtjXSM_0000004 191.0 197.2 
+Kate_McKinnon/okV2xQtjXSM_0000005 199.9 206.0 

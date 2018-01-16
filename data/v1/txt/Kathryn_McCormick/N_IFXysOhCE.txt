@@ -1,0 +1,14 @@
+POI: 			Kathryn_McCormick 
+Youtube ID: 	N_IFXysOhCE 
+Video length: 	220.3 sec 
+Set (V): 		dev 
+ 
+Kathryn_McCormick/N_IFXysOhCE_0000001 08.6 12.7 
+Kathryn_McCormick/N_IFXysOhCE_0000002 13.4 20.2 
+Kathryn_McCormick/N_IFXysOhCE_0000003 21.1 27.7 
+Kathryn_McCormick/N_IFXysOhCE_0000004 68.0 73.7 
+Kathryn_McCormick/N_IFXysOhCE_0000005 74.4 80.5 
+Kathryn_McCormick/N_IFXysOhCE_0000006 89.8 99.7 
+Kathryn_McCormick/N_IFXysOhCE_0000007 183.0 190.2 
+Kathryn_McCormick/N_IFXysOhCE_0000008 190.5 198.2 
+Kathryn_McCormick/N_IFXysOhCE_0000009 204.8 214.2 

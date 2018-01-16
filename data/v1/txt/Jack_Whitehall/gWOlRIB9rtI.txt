@@ -1,0 +1,13 @@
+POI: 			Jack_Whitehall 
+Youtube ID: 	gWOlRIB9rtI 
+Video length: 	914.5 sec 
+Set (V): 		dev 
+ 
+Jack_Whitehall/gWOlRIB9rtI_0000001 462.1 471.5 
+Jack_Whitehall/gWOlRIB9rtI_0000002 554.0 560.8 
+Jack_Whitehall/gWOlRIB9rtI_0000003 636.1 643.4 
+Jack_Whitehall/gWOlRIB9rtI_0000004 674.3 682.7 
+Jack_Whitehall/gWOlRIB9rtI_0000005 725.9 732.6 
+Jack_Whitehall/gWOlRIB9rtI_0000006 758.5 762.8 
+Jack_Whitehall/gWOlRIB9rtI_0000007 805.8 809.9 
+Jack_Whitehall/gWOlRIB9rtI_0000008 859.2 867.5 

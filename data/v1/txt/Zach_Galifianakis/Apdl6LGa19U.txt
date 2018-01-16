@@ -1,0 +1,8 @@
+POI: 			Zach_Galifianakis 
+Youtube ID: 	Apdl6LGa19U 
+Video length: 	257.0 sec 
+Set (V): 		dev 
+ 
+Zach_Galifianakis/Apdl6LGa19U_0000001 19.6 23.6 
+Zach_Galifianakis/Apdl6LGa19U_0000002 73.0 80.7 
+Zach_Galifianakis/Apdl6LGa19U_0000003 121.9 127.0 

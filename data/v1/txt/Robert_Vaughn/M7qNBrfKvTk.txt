@@ -1,0 +1,7 @@
+POI: 			Robert_Vaughn 
+Youtube ID: 	M7qNBrfKvTk 
+Video length: 	107.6 sec 
+Set (V): 		dev 
+ 
+Robert_Vaughn/M7qNBrfKvTk_0000001 24.6 30.3 
+Robert_Vaughn/M7qNBrfKvTk_0000002 54.2 61.7 

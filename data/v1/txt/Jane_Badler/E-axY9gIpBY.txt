@@ -1,0 +1,15 @@
+POI: 			Jane_Badler 
+Youtube ID: 	E-axY9gIpBY 
+Video length: 	346.9 sec 
+Set (V): 		dev 
+ 
+Jane_Badler/E-axY9gIpBY_0000001 55.3 69.2 
+Jane_Badler/E-axY9gIpBY_0000002 69.7 73.8 
+Jane_Badler/E-axY9gIpBY_0000003 114.7 121.0 
+Jane_Badler/E-axY9gIpBY_0000004 123.4 138.0 
+Jane_Badler/E-axY9gIpBY_0000005 138.4 151.8 
+Jane_Badler/E-axY9gIpBY_0000006 167.2 182.5 
+Jane_Badler/E-axY9gIpBY_0000007 171.1 183.8 
+Jane_Badler/E-axY9gIpBY_0000008 185.8 189.8 
+Jane_Badler/E-axY9gIpBY_0000009 184.6 189.8 
+Jane_Badler/E-axY9gIpBY_0000010 265.8 281.4 

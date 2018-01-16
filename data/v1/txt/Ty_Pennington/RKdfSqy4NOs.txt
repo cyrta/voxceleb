@@ -1,0 +1,17 @@
+POI: 			Ty_Pennington 
+Youtube ID: 	RKdfSqy4NOs 
+Video length: 	380.6 sec 
+Set (V): 		dev 
+ 
+Ty_Pennington/RKdfSqy4NOs_0000001 34.1 50.6 
+Ty_Pennington/RKdfSqy4NOs_0000002 72.6 84.8 
+Ty_Pennington/RKdfSqy4NOs_0000003 103.9 123.6 
+Ty_Pennington/RKdfSqy4NOs_0000004 130.2 153.9 
+Ty_Pennington/RKdfSqy4NOs_0000005 192.1 204.2 
+Ty_Pennington/RKdfSqy4NOs_0000006 204.6 213.3 
+Ty_Pennington/RKdfSqy4NOs_0000007 224.0 253.4 
+Ty_Pennington/RKdfSqy4NOs_0000008 254.1 259.3 
+Ty_Pennington/RKdfSqy4NOs_0000009 261.2 274.4 
+Ty_Pennington/RKdfSqy4NOs_0000010 276.2 281.3 
+Ty_Pennington/RKdfSqy4NOs_0000011 291.6 302.0 
+Ty_Pennington/RKdfSqy4NOs_0000012 333.3 343.9 

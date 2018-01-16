@@ -1,0 +1,15 @@
+POI: 			Michael_Jai_White 
+Youtube ID: 	HjT6cU-lHNM 
+Video length: 	224.5 sec 
+Set (V): 		dev 
+ 
+Michael_Jai_White/HjT6cU-lHNM_0000001 06.2 24.6 
+Michael_Jai_White/HjT6cU-lHNM_0000002 35.4 40.4 
+Michael_Jai_White/HjT6cU-lHNM_0000003 40.5 49.6 
+Michael_Jai_White/HjT6cU-lHNM_0000004 49.8 54.1 
+Michael_Jai_White/HjT6cU-lHNM_0000005 60.4 66.2 
+Michael_Jai_White/HjT6cU-lHNM_0000006 75.0 92.2 
+Michael_Jai_White/HjT6cU-lHNM_0000007 104.9 111.8 
+Michael_Jai_White/HjT6cU-lHNM_0000008 157.9 166.6 
+Michael_Jai_White/HjT6cU-lHNM_0000009 178.3 200.3 
+Michael_Jai_White/HjT6cU-lHNM_0000010 205.4 216.3 

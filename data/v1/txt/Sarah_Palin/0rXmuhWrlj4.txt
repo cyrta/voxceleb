@@ -1,0 +1,12 @@
+POI: 			Sarah_Palin 
+Youtube ID: 	0rXmuhWrlj4 
+Video length: 	124.7 sec 
+Set (V): 		dev 
+ 
+Sarah_Palin/0rXmuhWrlj4_0000001 07.7 13.1 
+Sarah_Palin/0rXmuhWrlj4_0000002 13.4 23.7 
+Sarah_Palin/0rXmuhWrlj4_0000003 27.7 38.2 
+Sarah_Palin/0rXmuhWrlj4_0000004 48.1 59.3 
+Sarah_Palin/0rXmuhWrlj4_0000005 68.5 92.9 
+Sarah_Palin/0rXmuhWrlj4_0000006 97.5 107.8 
+Sarah_Palin/0rXmuhWrlj4_0000007 108.8 119.8 

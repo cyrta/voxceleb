@@ -1,0 +1,13 @@
+POI: 			Ernest_Borgnine 
+Youtube ID: 	TMBdUkVfwOg 
+Video length: 	383.1 sec 
+Set (V): 		test 
+ 
+Ernest_Borgnine/TMBdUkVfwOg_0000001 81.5 100.8 
+Ernest_Borgnine/TMBdUkVfwOg_0000002 158.4 180.8 
+Ernest_Borgnine/TMBdUkVfwOg_0000003 199.0 214.1 
+Ernest_Borgnine/TMBdUkVfwOg_0000004 244.0 248.6 
+Ernest_Borgnine/TMBdUkVfwOg_0000005 267.9 274.7 
+Ernest_Borgnine/TMBdUkVfwOg_0000006 297.8 305.9 
+Ernest_Borgnine/TMBdUkVfwOg_0000007 307.8 319.6 
+Ernest_Borgnine/TMBdUkVfwOg_0000008 338.7 342.8 

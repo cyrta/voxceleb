@@ -1,0 +1,18 @@
+POI: 			Tom_Hiddleston 
+Youtube ID: 	pVTHfsWj964 
+Video length: 	230.4 sec 
+Set (V): 		dev 
+ 
+Tom_Hiddleston/pVTHfsWj964_0000001 03.0 07.0 
+Tom_Hiddleston/pVTHfsWj964_0000002 14.4 19.8 
+Tom_Hiddleston/pVTHfsWj964_0000003 20.0 26.7 
+Tom_Hiddleston/pVTHfsWj964_0000004 31.9 39.2 
+Tom_Hiddleston/pVTHfsWj964_0000005 40.6 47.5 
+Tom_Hiddleston/pVTHfsWj964_0000006 49.3 62.0 
+Tom_Hiddleston/pVTHfsWj964_0000007 75.4 87.5 
+Tom_Hiddleston/pVTHfsWj964_0000008 91.6 109.6 
+Tom_Hiddleston/pVTHfsWj964_0000009 137.7 142.2 
+Tom_Hiddleston/pVTHfsWj964_0000010 143.8 160.3 
+Tom_Hiddleston/pVTHfsWj964_0000011 182.4 196.5 
+Tom_Hiddleston/pVTHfsWj964_0000012 208.4 216.1 
+Tom_Hiddleston/pVTHfsWj964_0000013 216.6 229.0 

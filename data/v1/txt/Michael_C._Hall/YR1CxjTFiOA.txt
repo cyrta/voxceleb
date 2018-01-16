@@ -1,0 +1,12 @@
+POI: 			Michael_C._Hall 
+Youtube ID: 	YR1CxjTFiOA 
+Video length: 	270.8 sec 
+Set (V): 		dev 
+ 
+Michael_C._Hall/YR1CxjTFiOA_0000001 100.0 107.0 
+Michael_C._Hall/YR1CxjTFiOA_0000002 110.3 117.0 
+Michael_C._Hall/YR1CxjTFiOA_0000003 117.2 121.3 
+Michael_C._Hall/YR1CxjTFiOA_0000004 124.1 130.2 
+Michael_C._Hall/YR1CxjTFiOA_0000005 130.4 134.7 
+Michael_C._Hall/YR1CxjTFiOA_0000006 180.1 185.4 
+Michael_C._Hall/YR1CxjTFiOA_0000007 206.1 211.3 

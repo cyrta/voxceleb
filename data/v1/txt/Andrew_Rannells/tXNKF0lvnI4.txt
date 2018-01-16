@@ -1,0 +1,7 @@
+POI: 			Andrew_Rannells 
+Youtube ID: 	tXNKF0lvnI4 
+Video length: 	353.4 sec 
+Set (V): 		dev 
+ 
+Andrew_Rannells/tXNKF0lvnI4_0000001 166.0 172.7 
+Andrew_Rannells/tXNKF0lvnI4_0000002 276.5 284.8 

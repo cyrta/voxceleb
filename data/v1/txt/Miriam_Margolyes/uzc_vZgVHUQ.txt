@@ -1,0 +1,8 @@
+POI: 			Miriam_Margolyes 
+Youtube ID: 	uzc_vZgVHUQ 
+Video length: 	901.7 sec 
+Set (V): 		dev 
+ 
+Miriam_Margolyes/uzc_vZgVHUQ_0000001 603.0 611.7 
+Miriam_Margolyes/uzc_vZgVHUQ_0000002 694.4 700.8 
+Miriam_Margolyes/uzc_vZgVHUQ_0000003 751.2 755.2 

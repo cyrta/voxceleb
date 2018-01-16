@@ -1,0 +1,12 @@
+POI: 			Karla_Souza 
+Youtube ID: 	i4sD55W4c04 
+Video length: 	353.1 sec 
+Set (V): 		dev 
+ 
+Karla_Souza/i4sD55W4c04_0000001 68.1 74.4 
+Karla_Souza/i4sD55W4c04_0000002 180.2 184.9 
+Karla_Souza/i4sD55W4c04_0000003 195.1 200.3 
+Karla_Souza/i4sD55W4c04_0000004 219.2 228.5 
+Karla_Souza/i4sD55W4c04_0000005 268.9 273.4 
+Karla_Souza/i4sD55W4c04_0000006 290.6 296.8 
+Karla_Souza/i4sD55W4c04_0000007 311.0 315.6 

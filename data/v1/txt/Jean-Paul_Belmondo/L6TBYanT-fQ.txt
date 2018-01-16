@@ -1,0 +1,9 @@
+POI: 			Jean-Paul_Belmondo 
+Youtube ID: 	L6TBYanT-fQ 
+Video length: 	159.2 sec 
+Set (V): 		dev 
+ 
+Jean-Paul_Belmondo/L6TBYanT-fQ_0000001 03.7 08.0 
+Jean-Paul_Belmondo/L6TBYanT-fQ_0000002 12.6 22.6 
+Jean-Paul_Belmondo/L6TBYanT-fQ_0000003 85.2 103.8 
+Jean-Paul_Belmondo/L6TBYanT-fQ_0000004 138.1 142.4 

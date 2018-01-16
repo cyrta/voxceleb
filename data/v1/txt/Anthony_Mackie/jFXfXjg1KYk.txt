@@ -1,0 +1,8 @@
+POI: 			Anthony_Mackie 
+Youtube ID: 	jFXfXjg1KYk 
+Video length: 	892.3 sec 
+Set (V): 		dev 
+ 
+Anthony_Mackie/jFXfXjg1KYk_0000001 488.5 492.5 
+Anthony_Mackie/jFXfXjg1KYk_0000002 623.8 628.0 
+Anthony_Mackie/jFXfXjg1KYk_0000003 629.0 636.2 

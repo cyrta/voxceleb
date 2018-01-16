@@ -1,0 +1,18 @@
+POI: 			Amanda_Seyfried 
+Youtube ID: 	HBF8LIr8RG4 
+Video length: 	605.4 sec 
+Set (V): 		dev 
+ 
+Amanda_Seyfried/HBF8LIr8RG4_0000001 78.0 82.6 
+Amanda_Seyfried/HBF8LIr8RG4_0000002 88.0 94.0 
+Amanda_Seyfried/HBF8LIr8RG4_0000003 114.6 121.2 
+Amanda_Seyfried/HBF8LIr8RG4_0000004 182.6 186.8 
+Amanda_Seyfried/HBF8LIr8RG4_0000005 187.9 193.2 
+Amanda_Seyfried/HBF8LIr8RG4_0000006 230.0 245.8 
+Amanda_Seyfried/HBF8LIr8RG4_0000007 310.1 316.0 
+Amanda_Seyfried/HBF8LIr8RG4_0000008 317.7 323.7 
+Amanda_Seyfried/HBF8LIr8RG4_0000009 336.2 342.0 
+Amanda_Seyfried/HBF8LIr8RG4_0000010 362.0 375.2 
+Amanda_Seyfried/HBF8LIr8RG4_0000011 386.5 391.0 
+Amanda_Seyfried/HBF8LIr8RG4_0000012 438.0 444.3 
+Amanda_Seyfried/HBF8LIr8RG4_0000013 552.9 565.8 

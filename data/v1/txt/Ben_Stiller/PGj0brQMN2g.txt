@@ -1,0 +1,11 @@
+POI: 			Ben_Stiller 
+Youtube ID: 	PGj0brQMN2g 
+Video length: 	288.4 sec 
+Set (V): 		dev 
+ 
+Ben_Stiller/PGj0brQMN2g_0000001 15.2 25.0 
+Ben_Stiller/PGj0brQMN2g_0000002 25.4 29.5 
+Ben_Stiller/PGj0brQMN2g_0000003 56.4 62.0 
+Ben_Stiller/PGj0brQMN2g_0000004 78.0 92.8 
+Ben_Stiller/PGj0brQMN2g_0000005 128.6 133.4 
+Ben_Stiller/PGj0brQMN2g_0000006 232.6 236.8 

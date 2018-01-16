@@ -1,0 +1,21 @@
+POI: 			Terence_Stamp 
+Youtube ID: 	bIniTxjkSKU 
+Video length: 	598.2 sec 
+Set (V): 		dev 
+ 
+Terence_Stamp/bIniTxjkSKU_0000001 73.1 77.5 
+Terence_Stamp/bIniTxjkSKU_0000002 83.3 88.9 
+Terence_Stamp/bIniTxjkSKU_0000003 118.3 122.6 
+Terence_Stamp/bIniTxjkSKU_0000004 157.3 162.2 
+Terence_Stamp/bIniTxjkSKU_0000005 206.8 212.5 
+Terence_Stamp/bIniTxjkSKU_0000006 221.3 227.3 
+Terence_Stamp/bIniTxjkSKU_0000007 293.4 297.8 
+Terence_Stamp/bIniTxjkSKU_0000008 305.7 310.4 
+Terence_Stamp/bIniTxjkSKU_0000009 325.4 331.3 
+Terence_Stamp/bIniTxjkSKU_0000010 365.0 369.6 
+Terence_Stamp/bIniTxjkSKU_0000011 443.0 454.5 
+Terence_Stamp/bIniTxjkSKU_0000012 461.2 465.9 
+Terence_Stamp/bIniTxjkSKU_0000013 478.5 488.2 
+Terence_Stamp/bIniTxjkSKU_0000014 499.1 504.1 
+Terence_Stamp/bIniTxjkSKU_0000015 505.5 511.0 
+Terence_Stamp/bIniTxjkSKU_0000016 546.6 554.2 

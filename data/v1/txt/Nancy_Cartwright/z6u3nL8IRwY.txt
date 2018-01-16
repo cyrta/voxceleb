@@ -1,0 +1,16 @@
+POI: 			Nancy_Cartwright 
+Youtube ID: 	z6u3nL8IRwY 
+Video length: 	260.2 sec 
+Set (V): 		dev 
+ 
+Nancy_Cartwright/z6u3nL8IRwY_0000001 01.0 06.4 
+Nancy_Cartwright/z6u3nL8IRwY_0000002 13.2 25.2 
+Nancy_Cartwright/z6u3nL8IRwY_0000003 55.5 63.1 
+Nancy_Cartwright/z6u3nL8IRwY_0000004 98.8 111.3 
+Nancy_Cartwright/z6u3nL8IRwY_0000005 115.4 129.2 
+Nancy_Cartwright/z6u3nL8IRwY_0000006 141.1 145.6 
+Nancy_Cartwright/z6u3nL8IRwY_0000007 147.2 160.3 
+Nancy_Cartwright/z6u3nL8IRwY_0000008 164.1 168.4 
+Nancy_Cartwright/z6u3nL8IRwY_0000009 188.0 198.2 
+Nancy_Cartwright/z6u3nL8IRwY_0000010 216.7 227.0 
+Nancy_Cartwright/z6u3nL8IRwY_0000011 235.9 243.0 

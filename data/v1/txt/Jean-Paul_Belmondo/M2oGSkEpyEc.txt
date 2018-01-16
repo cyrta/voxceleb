@@ -1,0 +1,9 @@
+POI: 			Jean-Paul_Belmondo 
+Youtube ID: 	M2oGSkEpyEc 
+Video length: 	495.0 sec 
+Set (V): 		dev 
+ 
+Jean-Paul_Belmondo/M2oGSkEpyEc_0000001 135.7 141.2 
+Jean-Paul_Belmondo/M2oGSkEpyEc_0000002 261.5 265.9 
+Jean-Paul_Belmondo/M2oGSkEpyEc_0000003 280.8 285.2 
+Jean-Paul_Belmondo/M2oGSkEpyEc_0000004 481.4 487.2 

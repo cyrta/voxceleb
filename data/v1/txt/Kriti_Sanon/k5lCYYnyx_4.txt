@@ -1,0 +1,11 @@
+POI: 			Kriti_Sanon 
+Youtube ID: 	k5lCYYnyx_4 
+Video length: 	210.0 sec 
+Set (V): 		dev 
+ 
+Kriti_Sanon/k5lCYYnyx_4_0000001 48.7 58.7 
+Kriti_Sanon/k5lCYYnyx_4_0000002 67.2 81.7 
+Kriti_Sanon/k5lCYYnyx_4_0000003 95.8 100.0 
+Kriti_Sanon/k5lCYYnyx_4_0000004 102.4 107.4 
+Kriti_Sanon/k5lCYYnyx_4_0000005 122.9 129.6 
+Kriti_Sanon/k5lCYYnyx_4_0000006 171.2 175.3 

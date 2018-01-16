@@ -1,0 +1,8 @@
+POI: 			Drew_Carey 
+Youtube ID: 	lY2376yLZKQ 
+Video length: 	94.0 sec 
+Set (V): 		dev 
+ 
+Drew_Carey/lY2376yLZKQ_0000001 29.4 36.5 
+Drew_Carey/lY2376yLZKQ_0000002 53.4 58.6 
+Drew_Carey/lY2376yLZKQ_0000003 72.6 81.2 

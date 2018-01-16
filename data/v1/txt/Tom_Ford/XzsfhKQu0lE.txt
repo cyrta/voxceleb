@@ -1,0 +1,10 @@
+POI: 			Tom_Ford 
+Youtube ID: 	XzsfhKQu0lE 
+Video length: 	287.0 sec 
+Set (V): 		dev 
+ 
+Tom_Ford/XzsfhKQu0lE_0000001 46.8 52.2 
+Tom_Ford/XzsfhKQu0lE_0000002 99.4 119.8 
+Tom_Ford/XzsfhKQu0lE_0000003 120.8 132.0 
+Tom_Ford/XzsfhKQu0lE_0000004 202.0 208.2 
+Tom_Ford/XzsfhKQu0lE_0000005 208.4 215.1 

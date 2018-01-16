@@ -1,0 +1,19 @@
+POI: 			Josh_Groban 
+Youtube ID: 	EBky_CbiZHI 
+Video length: 	444.8 sec 
+Set (V): 		dev 
+ 
+Josh_Groban/EBky_CbiZHI_0000001 65.6 77.4 
+Josh_Groban/EBky_CbiZHI_0000002 98.9 105.5 
+Josh_Groban/EBky_CbiZHI_0000003 112.3 121.6 
+Josh_Groban/EBky_CbiZHI_0000004 166.5 173.3 
+Josh_Groban/EBky_CbiZHI_0000005 173.9 181.6 
+Josh_Groban/EBky_CbiZHI_0000006 189.2 194.8 
+Josh_Groban/EBky_CbiZHI_0000007 201.7 215.0 
+Josh_Groban/EBky_CbiZHI_0000008 238.0 250.2 
+Josh_Groban/EBky_CbiZHI_0000009 259.2 269.6 
+Josh_Groban/EBky_CbiZHI_0000010 319.3 330.6 
+Josh_Groban/EBky_CbiZHI_0000011 353.5 370.5 
+Josh_Groban/EBky_CbiZHI_0000012 378.4 403.8 
+Josh_Groban/EBky_CbiZHI_0000013 410.4 420.0 
+Josh_Groban/EBky_CbiZHI_0000014 426.8 434.4 

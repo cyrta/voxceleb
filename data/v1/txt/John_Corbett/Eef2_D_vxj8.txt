@@ -1,0 +1,11 @@
+POI: 			John_Corbett 
+Youtube ID: 	Eef2_D_vxj8 
+Video length: 	184.9 sec 
+Set (V): 		dev 
+ 
+John_Corbett/Eef2_D_vxj8_0000001 41.2 46.0 
+John_Corbett/Eef2_D_vxj8_0000002 109.4 115.0 
+John_Corbett/Eef2_D_vxj8_0000003 123.8 131.4 
+John_Corbett/Eef2_D_vxj8_0000004 135.9 141.5 
+John_Corbett/Eef2_D_vxj8_0000005 143.1 147.9 
+John_Corbett/Eef2_D_vxj8_0000006 149.8 169.5 

@@ -1,0 +1,21 @@
+POI: 			Margot_Robbie 
+Youtube ID: 	ekPA6uovOis 
+Video length: 	866.2 sec 
+Set (V): 		dev 
+ 
+Margot_Robbie/ekPA6uovOis_0000001 55.2 61.1 
+Margot_Robbie/ekPA6uovOis_0000002 61.7 66.9 
+Margot_Robbie/ekPA6uovOis_0000003 67.4 73.6 
+Margot_Robbie/ekPA6uovOis_0000004 115.9 128.8 
+Margot_Robbie/ekPA6uovOis_0000005 291.0 299.1 
+Margot_Robbie/ekPA6uovOis_0000006 301.9 309.7 
+Margot_Robbie/ekPA6uovOis_0000007 350.7 356.2 
+Margot_Robbie/ekPA6uovOis_0000008 357.7 363.7 
+Margot_Robbie/ekPA6uovOis_0000009 369.8 373.8 
+Margot_Robbie/ekPA6uovOis_0000010 434.8 441.4 
+Margot_Robbie/ekPA6uovOis_0000011 444.0 450.7 
+Margot_Robbie/ekPA6uovOis_0000012 457.7 463.3 
+Margot_Robbie/ekPA6uovOis_0000013 648.2 656.6 
+Margot_Robbie/ekPA6uovOis_0000014 677.7 684.0 
+Margot_Robbie/ekPA6uovOis_0000015 729.8 739.5 
+Margot_Robbie/ekPA6uovOis_0000016 794.0 806.1 

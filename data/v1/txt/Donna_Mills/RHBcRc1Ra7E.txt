@@ -1,0 +1,18 @@
+POI: 			Donna_Mills 
+Youtube ID: 	RHBcRc1Ra7E 
+Video length: 	523.2 sec 
+Set (V): 		dev 
+ 
+Donna_Mills/RHBcRc1Ra7E_0000001 31.3 35.7 
+Donna_Mills/RHBcRc1Ra7E_0000002 47.0 65.0 
+Donna_Mills/RHBcRc1Ra7E_0000003 72.2 85.9 
+Donna_Mills/RHBcRc1Ra7E_0000004 227.2 240.0 
+Donna_Mills/RHBcRc1Ra7E_0000005 278.4 293.4 
+Donna_Mills/RHBcRc1Ra7E_0000006 320.4 327.5 
+Donna_Mills/RHBcRc1Ra7E_0000007 331.6 336.7 
+Donna_Mills/RHBcRc1Ra7E_0000008 370.9 376.2 
+Donna_Mills/RHBcRc1Ra7E_0000009 396.4 406.4 
+Donna_Mills/RHBcRc1Ra7E_0000010 415.7 423.0 
+Donna_Mills/RHBcRc1Ra7E_0000011 428.8 436.0 
+Donna_Mills/RHBcRc1Ra7E_0000012 472.1 481.1 
+Donna_Mills/RHBcRc1Ra7E_0000013 485.8 494.0 

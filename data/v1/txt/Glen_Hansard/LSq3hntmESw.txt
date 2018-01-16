@@ -1,0 +1,15 @@
+POI: 			Glen_Hansard 
+Youtube ID: 	LSq3hntmESw 
+Video length: 	518.3 sec 
+Set (V): 		dev 
+ 
+Glen_Hansard/LSq3hntmESw_0000001 33.7 38.8 
+Glen_Hansard/LSq3hntmESw_0000002 43.6 51.5 
+Glen_Hansard/LSq3hntmESw_0000003 57.4 62.0 
+Glen_Hansard/LSq3hntmESw_0000004 101.7 108.2 
+Glen_Hansard/LSq3hntmESw_0000005 118.3 122.3 
+Glen_Hansard/LSq3hntmESw_0000006 187.3 193.7 
+Glen_Hansard/LSq3hntmESw_0000007 205.8 219.2 
+Glen_Hansard/LSq3hntmESw_0000008 317.5 331.5 
+Glen_Hansard/LSq3hntmESw_0000009 409.6 421.2 
+Glen_Hansard/LSq3hntmESw_0000010 462.0 469.3 

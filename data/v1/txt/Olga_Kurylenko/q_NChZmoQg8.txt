@@ -1,0 +1,24 @@
+POI: 			Olga_Kurylenko 
+Youtube ID: 	q_NChZmoQg8 
+Video length: 	426.3 sec 
+Set (V): 		dev 
+ 
+Olga_Kurylenko/q_NChZmoQg8_0000001 23.8 30.0 
+Olga_Kurylenko/q_NChZmoQg8_0000002 36.0 40.8 
+Olga_Kurylenko/q_NChZmoQg8_0000003 55.1 66.3 
+Olga_Kurylenko/q_NChZmoQg8_0000004 66.5 72.8 
+Olga_Kurylenko/q_NChZmoQg8_0000005 73.4 78.2 
+Olga_Kurylenko/q_NChZmoQg8_0000006 91.6 110.9 
+Olga_Kurylenko/q_NChZmoQg8_0000007 127.6 133.0 
+Olga_Kurylenko/q_NChZmoQg8_0000008 134.6 154.0 
+Olga_Kurylenko/q_NChZmoQg8_0000009 161.3 198.6 
+Olga_Kurylenko/q_NChZmoQg8_0000010 214.6 229.3 
+Olga_Kurylenko/q_NChZmoQg8_0000011 235.9 241.5 
+Olga_Kurylenko/q_NChZmoQg8_0000012 261.3 277.8 
+Olga_Kurylenko/q_NChZmoQg8_0000013 278.7 283.4 
+Olga_Kurylenko/q_NChZmoQg8_0000014 285.8 306.8 
+Olga_Kurylenko/q_NChZmoQg8_0000015 308.3 313.9 
+Olga_Kurylenko/q_NChZmoQg8_0000016 315.8 321.0 
+Olga_Kurylenko/q_NChZmoQg8_0000017 351.4 365.4 
+Olga_Kurylenko/q_NChZmoQg8_0000018 370.6 375.5 
+Olga_Kurylenko/q_NChZmoQg8_0000019 399.1 406.4 

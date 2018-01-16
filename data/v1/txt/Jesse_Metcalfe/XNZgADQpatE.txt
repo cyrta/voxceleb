@@ -1,0 +1,17 @@
+POI: 			Jesse_Metcalfe 
+Youtube ID: 	XNZgADQpatE 
+Video length: 	381.7 sec 
+Set (V): 		dev 
+ 
+Jesse_Metcalfe/XNZgADQpatE_0000001 115.4 120.4 
+Jesse_Metcalfe/XNZgADQpatE_0000002 120.5 125.3 
+Jesse_Metcalfe/XNZgADQpatE_0000003 134.6 142.2 
+Jesse_Metcalfe/XNZgADQpatE_0000004 165.2 172.0 
+Jesse_Metcalfe/XNZgADQpatE_0000005 227.8 236.2 
+Jesse_Metcalfe/XNZgADQpatE_0000006 236.6 244.2 
+Jesse_Metcalfe/XNZgADQpatE_0000007 251.2 260.3 
+Jesse_Metcalfe/XNZgADQpatE_0000008 272.8 282.9 
+Jesse_Metcalfe/XNZgADQpatE_0000009 288.2 303.6 
+Jesse_Metcalfe/XNZgADQpatE_0000010 330.1 338.5 
+Jesse_Metcalfe/XNZgADQpatE_0000011 339.6 357.4 
+Jesse_Metcalfe/XNZgADQpatE_0000012 353.8 358.4 

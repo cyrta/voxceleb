@@ -1,0 +1,8 @@
+POI: 			Anthony_Rapp 
+Youtube ID: 	wg3IDpS8Pjk 
+Video length: 	412.6 sec 
+Set (V): 		dev 
+ 
+Anthony_Rapp/wg3IDpS8Pjk_0000001 159.9 174.0 
+Anthony_Rapp/wg3IDpS8Pjk_0000002 174.8 194.2 
+Anthony_Rapp/wg3IDpS8Pjk_0000003 196.5 201.6 

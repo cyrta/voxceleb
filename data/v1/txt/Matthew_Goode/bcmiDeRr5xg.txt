@@ -1,0 +1,20 @@
+POI: 			Matthew_Goode 
+Youtube ID: 	bcmiDeRr5xg 
+Video length: 	415.7 sec 
+Set (V): 		dev 
+ 
+Matthew_Goode/bcmiDeRr5xg_0000001 49.0 53.5 
+Matthew_Goode/bcmiDeRr5xg_0000002 61.1 65.6 
+Matthew_Goode/bcmiDeRr5xg_0000003 83.4 106.4 
+Matthew_Goode/bcmiDeRr5xg_0000004 166.3 170.8 
+Matthew_Goode/bcmiDeRr5xg_0000005 173.4 187.9 
+Matthew_Goode/bcmiDeRr5xg_0000006 198.2 210.4 
+Matthew_Goode/bcmiDeRr5xg_0000007 249.9 256.5 
+Matthew_Goode/bcmiDeRr5xg_0000008 257.3 262.3 
+Matthew_Goode/bcmiDeRr5xg_0000009 264.3 276.7 
+Matthew_Goode/bcmiDeRr5xg_0000010 280.0 284.6 
+Matthew_Goode/bcmiDeRr5xg_0000011 290.0 309.9 
+Matthew_Goode/bcmiDeRr5xg_0000012 333.6 337.6 
+Matthew_Goode/bcmiDeRr5xg_0000013 358.1 371.0 
+Matthew_Goode/bcmiDeRr5xg_0000014 371.3 388.2 
+Matthew_Goode/bcmiDeRr5xg_0000015 388.4 406.8 

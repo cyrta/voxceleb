@@ -1,0 +1,10 @@
+POI: 			Derek_Theler 
+Youtube ID: 	WgPGCEQDRGo 
+Video length: 	286.6 sec 
+Set (V): 		dev 
+ 
+Derek_Theler/WgPGCEQDRGo_0000001 66.6 71.2 
+Derek_Theler/WgPGCEQDRGo_0000002 102.4 108.4 
+Derek_Theler/WgPGCEQDRGo_0000003 133.6 141.4 
+Derek_Theler/WgPGCEQDRGo_0000004 178.5 184.0 
+Derek_Theler/WgPGCEQDRGo_0000005 240.8 245.4 

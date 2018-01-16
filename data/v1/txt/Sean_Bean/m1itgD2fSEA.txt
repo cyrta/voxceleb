@@ -1,0 +1,8 @@
+POI: 			Sean_Bean 
+Youtube ID: 	m1itgD2fSEA 
+Video length: 	149.4 sec 
+Set (V): 		dev 
+ 
+Sean_Bean/m1itgD2fSEA_0000001 62.2 67.1 
+Sean_Bean/m1itgD2fSEA_0000002 68.9 73.3 
+Sean_Bean/m1itgD2fSEA_0000003 102.3 106.8 

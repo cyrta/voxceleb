@@ -1,0 +1,16 @@
+POI: 			Lea_Thompson 
+Youtube ID: 	cc_U4QV8aco 
+Video length: 	234.5 sec 
+Set (V): 		dev 
+ 
+Lea_Thompson/cc_U4QV8aco_0000001 05.5 09.8 
+Lea_Thompson/cc_U4QV8aco_0000002 10.4 15.5 
+Lea_Thompson/cc_U4QV8aco_0000003 19.6 27.8 
+Lea_Thompson/cc_U4QV8aco_0000004 37.9 49.4 
+Lea_Thompson/cc_U4QV8aco_0000005 54.8 62.0 
+Lea_Thompson/cc_U4QV8aco_0000006 64.4 70.0 
+Lea_Thompson/cc_U4QV8aco_0000007 64.4 70.8 
+Lea_Thompson/cc_U4QV8aco_0000008 120.2 124.4 
+Lea_Thompson/cc_U4QV8aco_0000009 133.4 141.0 
+Lea_Thompson/cc_U4QV8aco_0000010 141.8 150.4 
+Lea_Thompson/cc_U4QV8aco_0000011 133.3 150.4 

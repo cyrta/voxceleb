@@ -1,0 +1,11 @@
+POI: 			Walton_Goggins 
+Youtube ID: 	Yn1pBF_L7ks 
+Video length: 	256.5 sec 
+Set (V): 		dev 
+ 
+Walton_Goggins/Yn1pBF_L7ks_0000001 55.4 60.5 
+Walton_Goggins/Yn1pBF_L7ks_0000002 63.2 67.3 
+Walton_Goggins/Yn1pBF_L7ks_0000003 76.4 87.9 
+Walton_Goggins/Yn1pBF_L7ks_0000004 99.2 104.2 
+Walton_Goggins/Yn1pBF_L7ks_0000005 105.2 128.4 
+Walton_Goggins/Yn1pBF_L7ks_0000006 133.7 140.1 

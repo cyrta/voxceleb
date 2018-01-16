@@ -1,0 +1,11 @@
+POI: 			Alan_Rickman 
+Youtube ID: 	GNs98HaOCVA 
+Video length: 	180.4 sec 
+Set (V): 		dev 
+ 
+Alan_Rickman/GNs98HaOCVA_0000001 28.3 35.2 
+Alan_Rickman/GNs98HaOCVA_0000002 38.2 47.8 
+Alan_Rickman/GNs98HaOCVA_0000003 63.2 68.5 
+Alan_Rickman/GNs98HaOCVA_0000004 84.7 93.6 
+Alan_Rickman/GNs98HaOCVA_0000005 128.4 133.1 
+Alan_Rickman/GNs98HaOCVA_0000006 133.7 140.6 

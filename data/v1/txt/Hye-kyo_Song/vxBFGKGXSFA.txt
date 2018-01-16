@@ -1,0 +1,12 @@
+POI: 			Hye-kyo_Song 
+Youtube ID: 	vxBFGKGXSFA 
+Video length: 	365.0 sec 
+Set (V): 		dev 
+ 
+Hye-kyo_Song/vxBFGKGXSFA_0000001 180.7 185.4 
+Hye-kyo_Song/vxBFGKGXSFA_0000002 214.4 219.2 
+Hye-kyo_Song/vxBFGKGXSFA_0000003 235.6 239.9 
+Hye-kyo_Song/vxBFGKGXSFA_0000004 282.6 288.6 
+Hye-kyo_Song/vxBFGKGXSFA_0000005 310.3 317.6 
+Hye-kyo_Song/vxBFGKGXSFA_0000006 346.1 351.2 
+Hye-kyo_Song/vxBFGKGXSFA_0000007 351.4 355.8 

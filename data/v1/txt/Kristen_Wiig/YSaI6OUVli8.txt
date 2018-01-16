@@ -1,0 +1,10 @@
+POI: 			Kristen_Wiig 
+Youtube ID: 	YSaI6OUVli8 
+Video length: 	217.4 sec 
+Set (V): 		dev 
+ 
+Kristen_Wiig/YSaI6OUVli8_0000001 20.9 27.2 
+Kristen_Wiig/YSaI6OUVli8_0000002 40.1 52.6 
+Kristen_Wiig/YSaI6OUVli8_0000003 54.2 59.4 
+Kristen_Wiig/YSaI6OUVli8_0000004 103.6 107.8 
+Kristen_Wiig/YSaI6OUVli8_0000005 172.3 186.0 

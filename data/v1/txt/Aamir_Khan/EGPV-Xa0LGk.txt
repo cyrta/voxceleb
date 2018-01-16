@@ -1,0 +1,14 @@
+POI: 			Aamir_Khan 
+Youtube ID: 	EGPV-Xa0LGk 
+Video length: 	2996.8 sec 
+Set (V): 		dev 
+ 
+Aamir_Khan/EGPV-Xa0LGk_0000001 299.4 304.3 
+Aamir_Khan/EGPV-Xa0LGk_0000002 339.7 343.8 
+Aamir_Khan/EGPV-Xa0LGk_0000003 789.3 793.8 
+Aamir_Khan/EGPV-Xa0LGk_0000004 909.4 914.7 
+Aamir_Khan/EGPV-Xa0LGk_0000005 1499.0 1504.5 
+Aamir_Khan/EGPV-Xa0LGk_0000006 1545.0 1550.4 
+Aamir_Khan/EGPV-Xa0LGk_0000007 2501.7 2506.0 
+Aamir_Khan/EGPV-Xa0LGk_0000008 2518.2 2522.7 
+Aamir_Khan/EGPV-Xa0LGk_0000009 2780.4 2788.4 

@@ -1,0 +1,10 @@
+POI: 			Lisa_Edelstein 
+Youtube ID: 	JcTkUAcSoRA 
+Video length: 	145.3 sec 
+Set (V): 		dev 
+ 
+Lisa_Edelstein/JcTkUAcSoRA_0000001 10.5 18.6 
+Lisa_Edelstein/JcTkUAcSoRA_0000002 46.0 54.4 
+Lisa_Edelstein/JcTkUAcSoRA_0000003 59.3 72.0 
+Lisa_Edelstein/JcTkUAcSoRA_0000004 81.6 88.6 
+Lisa_Edelstein/JcTkUAcSoRA_0000005 89.8 113.2 

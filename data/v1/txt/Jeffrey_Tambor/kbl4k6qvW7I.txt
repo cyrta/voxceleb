@@ -1,0 +1,7 @@
+POI: 			Jeffrey_Tambor 
+Youtube ID: 	kbl4k6qvW7I 
+Video length: 	2392.2 sec 
+Set (V): 		dev 
+ 
+Jeffrey_Tambor/kbl4k6qvW7I_0000001 1409.1 1416.1 
+Jeffrey_Tambor/kbl4k6qvW7I_0000002 1649.9 1654.0 

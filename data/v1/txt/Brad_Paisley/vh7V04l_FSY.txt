@@ -1,0 +1,11 @@
+POI: 			Brad_Paisley 
+Youtube ID: 	vh7V04l_FSY 
+Video length: 	242.4 sec 
+Set (V): 		dev 
+ 
+Brad_Paisley/vh7V04l_FSY_0000001 43.6 51.6 
+Brad_Paisley/vh7V04l_FSY_0000002 64.3 70.6 
+Brad_Paisley/vh7V04l_FSY_0000003 108.2 116.1 
+Brad_Paisley/vh7V04l_FSY_0000004 174.3 179.8 
+Brad_Paisley/vh7V04l_FSY_0000005 191.8 197.3 
+Brad_Paisley/vh7V04l_FSY_0000006 214.0 220.2 

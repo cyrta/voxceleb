@@ -1,0 +1,9 @@
+POI: 			Kate_Flannery 
+Youtube ID: 	r8qP0ySZLOU 
+Video length: 	429.5 sec 
+Set (V): 		dev 
+ 
+Kate_Flannery/r8qP0ySZLOU_0000001 271.1 276.0 
+Kate_Flannery/r8qP0ySZLOU_0000002 336.2 341.0 
+Kate_Flannery/r8qP0ySZLOU_0000003 345.3 353.9 
+Kate_Flannery/r8qP0ySZLOU_0000004 393.4 403.6 

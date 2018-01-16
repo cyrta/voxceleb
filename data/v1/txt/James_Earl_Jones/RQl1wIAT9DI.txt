@@ -1,0 +1,10 @@
+POI: 			James_Earl_Jones 
+Youtube ID: 	RQl1wIAT9DI 
+Video length: 	2384.8 sec 
+Set (V): 		dev 
+ 
+James_Earl_Jones/RQl1wIAT9DI_0000001 1403.5 1408.5 
+James_Earl_Jones/RQl1wIAT9DI_0000002 1638.0 1644.5 
+James_Earl_Jones/RQl1wIAT9DI_0000003 1847.7 1854.2 
+James_Earl_Jones/RQl1wIAT9DI_0000004 1880.2 1887.1 
+James_Earl_Jones/RQl1wIAT9DI_0000005 2202.6 2208.3 

@@ -1,0 +1,18 @@
+POI: 			Hilary_Swank 
+Youtube ID: 	hwrjhN4ZVBw 
+Video length: 	240.4 sec 
+Set (V): 		dev 
+ 
+Hilary_Swank/hwrjhN4ZVBw_0000001 08.8 23.9 
+Hilary_Swank/hwrjhN4ZVBw_0000002 27.8 40.0 
+Hilary_Swank/hwrjhN4ZVBw_0000003 43.3 59.2 
+Hilary_Swank/hwrjhN4ZVBw_0000004 71.4 87.3 
+Hilary_Swank/hwrjhN4ZVBw_0000005 87.9 96.1 
+Hilary_Swank/hwrjhN4ZVBw_0000006 114.2 124.4 
+Hilary_Swank/hwrjhN4ZVBw_0000007 124.8 128.9 
+Hilary_Swank/hwrjhN4ZVBw_0000008 134.1 139.8 
+Hilary_Swank/hwrjhN4ZVBw_0000009 152.3 164.5 
+Hilary_Swank/hwrjhN4ZVBw_0000010 164.6 171.8 
+Hilary_Swank/hwrjhN4ZVBw_0000011 179.0 193.3 
+Hilary_Swank/hwrjhN4ZVBw_0000012 204.7 209.3 
+Hilary_Swank/hwrjhN4ZVBw_0000013 211.4 237.8 

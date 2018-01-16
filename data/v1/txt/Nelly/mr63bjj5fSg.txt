@@ -1,0 +1,9 @@
+POI: 			Nelly 
+Youtube ID: 	mr63bjj5fSg 
+Video length: 	372.5 sec 
+Set (V): 		dev 
+ 
+Nelly/mr63bjj5fSg_0000001 91.9 96.9 
+Nelly/mr63bjj5fSg_0000002 262.3 266.8 
+Nelly/mr63bjj5fSg_0000003 287.4 295.7 
+Nelly/mr63bjj5fSg_0000004 344.6 353.3 

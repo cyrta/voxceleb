@@ -1,0 +1,21 @@
+POI: 			Olga_Kurylenko 
+Youtube ID: 	6sXoJmhGbVE 
+Video length: 	255.3 sec 
+Set (V): 		dev 
+ 
+Olga_Kurylenko/6sXoJmhGbVE_0000001 06.0 11.5 
+Olga_Kurylenko/6sXoJmhGbVE_0000002 11.7 22.4 
+Olga_Kurylenko/6sXoJmhGbVE_0000003 22.8 32.2 
+Olga_Kurylenko/6sXoJmhGbVE_0000004 35.2 39.2 
+Olga_Kurylenko/6sXoJmhGbVE_0000005 41.6 48.2 
+Olga_Kurylenko/6sXoJmhGbVE_0000006 49.6 55.6 
+Olga_Kurylenko/6sXoJmhGbVE_0000007 57.7 75.2 
+Olga_Kurylenko/6sXoJmhGbVE_0000008 85.5 114.6 
+Olga_Kurylenko/6sXoJmhGbVE_0000009 116.2 125.4 
+Olga_Kurylenko/6sXoJmhGbVE_0000010 127.2 134.2 
+Olga_Kurylenko/6sXoJmhGbVE_0000011 136.8 141.4 
+Olga_Kurylenko/6sXoJmhGbVE_0000012 142.4 148.2 
+Olga_Kurylenko/6sXoJmhGbVE_0000013 149.0 177.2 
+Olga_Kurylenko/6sXoJmhGbVE_0000014 178.6 189.0 
+Olga_Kurylenko/6sXoJmhGbVE_0000015 177.0 234.4 
+Olga_Kurylenko/6sXoJmhGbVE_0000016 239.4 249.1 

@@ -1,0 +1,13 @@
+POI: 			Jennifer_Carpenter 
+Youtube ID: 	lxnIlNoVxes 
+Video length: 	262.8 sec 
+Set (V): 		dev 
+ 
+Jennifer_Carpenter/lxnIlNoVxes_0000001 33.5 37.7 
+Jennifer_Carpenter/lxnIlNoVxes_0000002 71.6 77.5 
+Jennifer_Carpenter/lxnIlNoVxes_0000003 78.0 82.3 
+Jennifer_Carpenter/lxnIlNoVxes_0000004 87.6 93.9 
+Jennifer_Carpenter/lxnIlNoVxes_0000005 126.0 130.5 
+Jennifer_Carpenter/lxnIlNoVxes_0000006 165.0 169.2 
+Jennifer_Carpenter/lxnIlNoVxes_0000007 201.6 208.7 
+Jennifer_Carpenter/lxnIlNoVxes_0000008 217.4 223.4 

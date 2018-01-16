@@ -1,0 +1,7 @@
+POI: 			Bill_Pullman 
+Youtube ID: 	nXqz7PC_d2g 
+Video length: 	187.9 sec 
+Set (V): 		dev 
+ 
+Bill_Pullman/nXqz7PC_d2g_0000001 171.4 176.6 
+Bill_Pullman/nXqz7PC_d2g_0000002 177.2 181.5 

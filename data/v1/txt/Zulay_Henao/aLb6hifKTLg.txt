@@ -1,0 +1,11 @@
+POI: 			Zulay_Henao 
+Youtube ID: 	aLb6hifKTLg 
+Video length: 	189.6 sec 
+Set (V): 		dev 
+ 
+Zulay_Henao/aLb6hifKTLg_0000001 12.7 16.9 
+Zulay_Henao/aLb6hifKTLg_0000002 17.4 26.5 
+Zulay_Henao/aLb6hifKTLg_0000003 42.3 52.0 
+Zulay_Henao/aLb6hifKTLg_0000004 59.1 63.1 
+Zulay_Henao/aLb6hifKTLg_0000005 81.4 97.9 
+Zulay_Henao/aLb6hifKTLg_0000006 99.4 105.2 

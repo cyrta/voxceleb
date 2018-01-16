@@ -1,0 +1,10 @@
+POI: 			Jesse_McCartney 
+Youtube ID: 	oXcWl4LkVN0 
+Video length: 	241.2 sec 
+Set (V): 		dev 
+ 
+Jesse_McCartney/oXcWl4LkVN0_0000001 01.7 05.9 
+Jesse_McCartney/oXcWl4LkVN0_0000002 06.4 12.1 
+Jesse_McCartney/oXcWl4LkVN0_0000003 39.9 44.7 
+Jesse_McCartney/oXcWl4LkVN0_0000004 44.8 54.4 
+Jesse_McCartney/oXcWl4LkVN0_0000005 55.2 61.9 

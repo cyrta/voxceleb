@@ -1,0 +1,9 @@
+POI: 			Richard_Kind 
+Youtube ID: 	5FoDnOj2-Is 
+Video length: 	286.1 sec 
+Set (V): 		dev 
+ 
+Richard_Kind/5FoDnOj2-Is_0000001 26.0 33.4 
+Richard_Kind/5FoDnOj2-Is_0000002 43.0 47.0 
+Richard_Kind/5FoDnOj2-Is_0000003 62.0 69.4 
+Richard_Kind/5FoDnOj2-Is_0000004 256.5 261.6 

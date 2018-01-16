@@ -1,0 +1,14 @@
+POI: 			Danica_McKellar 
+Youtube ID: 	xOabYQHvrtY 
+Video length: 	173.7 sec 
+Set (V): 		dev 
+ 
+Danica_McKellar/xOabYQHvrtY_0000001 26.6 37.0 
+Danica_McKellar/xOabYQHvrtY_0000002 37.7 42.0 
+Danica_McKellar/xOabYQHvrtY_0000003 45.8 62.3 
+Danica_McKellar/xOabYQHvrtY_0000004 71.8 76.7 
+Danica_McKellar/xOabYQHvrtY_0000005 86.2 93.2 
+Danica_McKellar/xOabYQHvrtY_0000006 100.1 107.4 
+Danica_McKellar/xOabYQHvrtY_0000007 135.2 145.4 
+Danica_McKellar/xOabYQHvrtY_0000008 145.5 149.6 
+Danica_McKellar/xOabYQHvrtY_0000009 165.2 169.2 

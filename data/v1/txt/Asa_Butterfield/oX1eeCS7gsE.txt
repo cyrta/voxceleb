@@ -1,0 +1,20 @@
+POI: 			Asa_Butterfield 
+Youtube ID: 	oX1eeCS7gsE 
+Video length: 	330.7 sec 
+Set (V): 		dev 
+ 
+Asa_Butterfield/oX1eeCS7gsE_0000001 41.7 49.6 
+Asa_Butterfield/oX1eeCS7gsE_0000002 70.2 75.0 
+Asa_Butterfield/oX1eeCS7gsE_0000003 75.8 84.2 
+Asa_Butterfield/oX1eeCS7gsE_0000004 88.4 94.0 
+Asa_Butterfield/oX1eeCS7gsE_0000005 108.1 119.5 
+Asa_Butterfield/oX1eeCS7gsE_0000006 120.0 129.4 
+Asa_Butterfield/oX1eeCS7gsE_0000007 129.5 134.8 
+Asa_Butterfield/oX1eeCS7gsE_0000008 150.8 159.9 
+Asa_Butterfield/oX1eeCS7gsE_0000009 164.6 180.1 
+Asa_Butterfield/oX1eeCS7gsE_0000010 194.6 203.7 
+Asa_Butterfield/oX1eeCS7gsE_0000011 241.1 247.5 
+Asa_Butterfield/oX1eeCS7gsE_0000012 247.6 258.1 
+Asa_Butterfield/oX1eeCS7gsE_0000013 258.4 268.1 
+Asa_Butterfield/oX1eeCS7gsE_0000014 285.8 293.2 
+Asa_Butterfield/oX1eeCS7gsE_0000015 293.7 309.3 

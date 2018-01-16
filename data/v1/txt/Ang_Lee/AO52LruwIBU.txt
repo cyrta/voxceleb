@@ -1,0 +1,9 @@
+POI: 			Ang_Lee 
+Youtube ID: 	AO52LruwIBU 
+Video length: 	539.2 sec 
+Set (V): 		dev 
+ 
+Ang_Lee/AO52LruwIBU_0000001 152.5 156.6 
+Ang_Lee/AO52LruwIBU_0000002 228.0 234.2 
+Ang_Lee/AO52LruwIBU_0000003 247.7 253.8 
+Ang_Lee/AO52LruwIBU_0000004 463.4 468.5 

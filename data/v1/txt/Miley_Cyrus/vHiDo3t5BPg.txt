@@ -1,0 +1,7 @@
+POI: 			Miley_Cyrus 
+Youtube ID: 	vHiDo3t5BPg 
+Video length: 	308.0 sec 
+Set (V): 		dev 
+ 
+Miley_Cyrus/vHiDo3t5BPg_0000001 137.8 143.3 
+Miley_Cyrus/vHiDo3t5BPg_0000002 154.5 168.9 

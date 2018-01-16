@@ -1,0 +1,11 @@
+POI: 			Taylor_Swift 
+Youtube ID: 	vBgiDYBCuxY 
+Video length: 	127.3 sec 
+Set (V): 		dev 
+ 
+Taylor_Swift/vBgiDYBCuxY_0000001 08.0 16.6 
+Taylor_Swift/vBgiDYBCuxY_0000002 23.3 33.1 
+Taylor_Swift/vBgiDYBCuxY_0000003 37.6 42.8 
+Taylor_Swift/vBgiDYBCuxY_0000004 60.5 66.9 
+Taylor_Swift/vBgiDYBCuxY_0000005 86.4 96.7 
+Taylor_Swift/vBgiDYBCuxY_0000006 108.1 117.1 

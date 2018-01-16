@@ -1,0 +1,9 @@
+POI: 			Lisa_Whelchel 
+Youtube ID: 	wHW9A87cnn4 
+Video length: 	150.2 sec 
+Set (V): 		dev 
+ 
+Lisa_Whelchel/wHW9A87cnn4_0000001 01.0 06.2 
+Lisa_Whelchel/wHW9A87cnn4_0000002 12.7 24.2 
+Lisa_Whelchel/wHW9A87cnn4_0000003 29.7 36.8 
+Lisa_Whelchel/wHW9A87cnn4_0000004 77.5 93.1 

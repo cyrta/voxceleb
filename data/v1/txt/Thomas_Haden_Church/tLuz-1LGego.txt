@@ -1,0 +1,12 @@
+POI: 			Thomas_Haden_Church 
+Youtube ID: 	tLuz-1LGego 
+Video length: 	132.8 sec 
+Set (V): 		dev 
+ 
+Thomas_Haden_Church/tLuz-1LGego_0000001 07.4 21.0 
+Thomas_Haden_Church/tLuz-1LGego_0000002 26.5 30.6 
+Thomas_Haden_Church/tLuz-1LGego_0000003 40.0 47.0 
+Thomas_Haden_Church/tLuz-1LGego_0000004 52.8 57.1 
+Thomas_Haden_Church/tLuz-1LGego_0000005 66.9 73.2 
+Thomas_Haden_Church/tLuz-1LGego_0000006 86.2 91.6 
+Thomas_Haden_Church/tLuz-1LGego_0000007 99.6 104.3 

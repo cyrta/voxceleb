@@ -1,0 +1,12 @@
+POI: 			Vincent_Pastore 
+Youtube ID: 	R0lyqkDqzu4 
+Video length: 	1059.1 sec 
+Set (V): 		dev 
+ 
+Vincent_Pastore/R0lyqkDqzu4_0000001 79.4 83.8 
+Vincent_Pastore/R0lyqkDqzu4_0000002 173.0 180.4 
+Vincent_Pastore/R0lyqkDqzu4_0000003 208.8 213.0 
+Vincent_Pastore/R0lyqkDqzu4_0000004 214.6 220.6 
+Vincent_Pastore/R0lyqkDqzu4_0000005 368.7 373.0 
+Vincent_Pastore/R0lyqkDqzu4_0000006 374.6 379.3 
+Vincent_Pastore/R0lyqkDqzu4_0000007 732.4 737.8 

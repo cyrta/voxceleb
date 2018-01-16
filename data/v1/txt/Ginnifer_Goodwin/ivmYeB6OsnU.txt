@@ -1,0 +1,10 @@
+POI: 			Ginnifer_Goodwin 
+Youtube ID: 	ivmYeB6OsnU 
+Video length: 	143.1 sec 
+Set (V): 		dev 
+ 
+Ginnifer_Goodwin/ivmYeB6OsnU_0000001 20.0 25.6 
+Ginnifer_Goodwin/ivmYeB6OsnU_0000002 26.9 32.2 
+Ginnifer_Goodwin/ivmYeB6OsnU_0000003 40.4 45.2 
+Ginnifer_Goodwin/ivmYeB6OsnU_0000004 71.1 76.2 
+Ginnifer_Goodwin/ivmYeB6OsnU_0000005 106.2 113.7 

@@ -1,0 +1,10 @@
+POI: 			Rooney_Mara 
+Youtube ID: 	495hZb5GQc4 
+Video length: 	252.8 sec 
+Set (V): 		dev 
+ 
+Rooney_Mara/495hZb5GQc4_0000001 15.8 20.6 
+Rooney_Mara/495hZb5GQc4_0000002 67.2 75.1 
+Rooney_Mara/495hZb5GQc4_0000003 124.9 131.0 
+Rooney_Mara/495hZb5GQc4_0000004 180.6 185.9 
+Rooney_Mara/495hZb5GQc4_0000005 243.4 248.1 

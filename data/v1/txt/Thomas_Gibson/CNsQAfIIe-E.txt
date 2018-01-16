@@ -1,0 +1,8 @@
+POI: 			Thomas_Gibson 
+Youtube ID: 	CNsQAfIIe-E 
+Video length: 	51.9 sec 
+Set (V): 		dev 
+ 
+Thomas_Gibson/CNsQAfIIe-E_0000001 26.1 30.7 
+Thomas_Gibson/CNsQAfIIe-E_0000002 36.2 42.6 
+Thomas_Gibson/CNsQAfIIe-E_0000003 45.6 49.6 

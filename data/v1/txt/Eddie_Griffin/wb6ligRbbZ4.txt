@@ -1,0 +1,15 @@
+POI: 			Eddie_Griffin 
+Youtube ID: 	wb6ligRbbZ4 
+Video length: 	209.0 sec 
+Set (V): 		test 
+ 
+Eddie_Griffin/wb6ligRbbZ4_0000001 68.2 72.7 
+Eddie_Griffin/wb6ligRbbZ4_0000002 73.1 88.4 
+Eddie_Griffin/wb6ligRbbZ4_0000003 123.2 131.8 
+Eddie_Griffin/wb6ligRbbZ4_0000004 136.7 145.1 
+Eddie_Griffin/wb6ligRbbZ4_0000005 153.4 157.9 
+Eddie_Griffin/wb6ligRbbZ4_0000006 170.0 175.2 
+Eddie_Griffin/wb6ligRbbZ4_0000007 183.4 188.9 
+Eddie_Griffin/wb6ligRbbZ4_0000008 156.3 162.2 
+Eddie_Griffin/wb6ligRbbZ4_0000009 168.7 175.2 
+Eddie_Griffin/wb6ligRbbZ4_0000010 183.4 187.7 

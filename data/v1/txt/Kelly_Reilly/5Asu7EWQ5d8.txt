@@ -1,0 +1,27 @@
+POI: 			Kelly_Reilly 
+Youtube ID: 	5Asu7EWQ5d8 
+Video length: 	415.1 sec 
+Set (V): 		dev 
+ 
+Kelly_Reilly/5Asu7EWQ5d8_0000001 20.1 25.9 
+Kelly_Reilly/5Asu7EWQ5d8_0000002 30.8 45.4 
+Kelly_Reilly/5Asu7EWQ5d8_0000003 69.5 77.9 
+Kelly_Reilly/5Asu7EWQ5d8_0000004 78.1 87.1 
+Kelly_Reilly/5Asu7EWQ5d8_0000005 117.6 128.4 
+Kelly_Reilly/5Asu7EWQ5d8_0000006 153.5 159.7 
+Kelly_Reilly/5Asu7EWQ5d8_0000007 160.1 170.1 
+Kelly_Reilly/5Asu7EWQ5d8_0000008 197.1 201.8 
+Kelly_Reilly/5Asu7EWQ5d8_0000009 207.2 217.2 
+Kelly_Reilly/5Asu7EWQ5d8_0000010 217.5 230.4 
+Kelly_Reilly/5Asu7EWQ5d8_0000011 233.5 237.5 
+Kelly_Reilly/5Asu7EWQ5d8_0000012 274.1 279.7 
+Kelly_Reilly/5Asu7EWQ5d8_0000013 281.7 288.2 
+Kelly_Reilly/5Asu7EWQ5d8_0000014 288.9 294.1 
+Kelly_Reilly/5Asu7EWQ5d8_0000015 296.0 305.9 
+Kelly_Reilly/5Asu7EWQ5d8_0000016 332.0 337.0 
+Kelly_Reilly/5Asu7EWQ5d8_0000017 338.7 352.4 
+Kelly_Reilly/5Asu7EWQ5d8_0000018 352.8 357.0 
+Kelly_Reilly/5Asu7EWQ5d8_0000019 362.2 370.3 
+Kelly_Reilly/5Asu7EWQ5d8_0000020 371.9 384.2 
+Kelly_Reilly/5Asu7EWQ5d8_0000021 384.3 390.0 
+Kelly_Reilly/5Asu7EWQ5d8_0000022 394.4 401.6 

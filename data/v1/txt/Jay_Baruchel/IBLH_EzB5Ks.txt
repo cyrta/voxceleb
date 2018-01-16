@@ -1,0 +1,9 @@
+POI: 			Jay_Baruchel 
+Youtube ID: 	IBLH_EzB5Ks 
+Video length: 	505.8 sec 
+Set (V): 		dev 
+ 
+Jay_Baruchel/IBLH_EzB5Ks_0000001 81.5 89.0 
+Jay_Baruchel/IBLH_EzB5Ks_0000002 93.7 102.4 
+Jay_Baruchel/IBLH_EzB5Ks_0000003 284.8 290.1 
+Jay_Baruchel/IBLH_EzB5Ks_0000004 440.8 446.0 

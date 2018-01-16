@@ -1,0 +1,9 @@
+POI: 			David_Tennant 
+Youtube ID: 	q5Ln-h_EvgY 
+Video length: 	328.5 sec 
+Set (V): 		dev 
+ 
+David_Tennant/q5Ln-h_EvgY_0000001 71.9 77.1 
+David_Tennant/q5Ln-h_EvgY_0000002 77.8 81.9 
+David_Tennant/q5Ln-h_EvgY_0000003 83.6 87.7 
+David_Tennant/q5Ln-h_EvgY_0000004 88.8 100.8 

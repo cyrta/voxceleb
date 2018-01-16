@@ -1,0 +1,6 @@
+POI: 			Dick_Van_Dyke 
+Youtube ID: 	UIBikkUNrv0 
+Video length: 	640.9 sec 
+Set (V): 		dev 
+ 
+Dick_Van_Dyke/UIBikkUNrv0_0000001 295.0 303.9 

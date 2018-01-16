@@ -1,0 +1,9 @@
+POI: 			Stan_Lee 
+Youtube ID: 	hZxopmozzh8 
+Video length: 	276.7 sec 
+Set (V): 		dev 
+ 
+Stan_Lee/hZxopmozzh8_0000001 40.5 46.2 
+Stan_Lee/hZxopmozzh8_0000002 95.9 104.7 
+Stan_Lee/hZxopmozzh8_0000003 218.1 225.7 
+Stan_Lee/hZxopmozzh8_0000004 258.8 263.5 

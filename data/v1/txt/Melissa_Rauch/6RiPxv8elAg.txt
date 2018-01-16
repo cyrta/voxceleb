@@ -1,0 +1,13 @@
+POI: 			Melissa_Rauch 
+Youtube ID: 	6RiPxv8elAg 
+Video length: 	279.1 sec 
+Set (V): 		dev 
+ 
+Melissa_Rauch/6RiPxv8elAg_0000001 129.2 133.7 
+Melissa_Rauch/6RiPxv8elAg_0000002 139.7 147.1 
+Melissa_Rauch/6RiPxv8elAg_0000003 197.6 203.4 
+Melissa_Rauch/6RiPxv8elAg_0000004 211.9 218.2 
+Melissa_Rauch/6RiPxv8elAg_0000005 223.4 228.0 
+Melissa_Rauch/6RiPxv8elAg_0000006 228.6 233.1 
+Melissa_Rauch/6RiPxv8elAg_0000007 233.2 240.9 
+Melissa_Rauch/6RiPxv8elAg_0000008 263.0 268.8 

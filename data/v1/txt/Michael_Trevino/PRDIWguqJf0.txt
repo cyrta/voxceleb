@@ -1,0 +1,8 @@
+POI: 			Michael_Trevino 
+Youtube ID: 	PRDIWguqJf0 
+Video length: 	324.9 sec 
+Set (V): 		dev 
+ 
+Michael_Trevino/PRDIWguqJf0_0000001 100.3 104.4 
+Michael_Trevino/PRDIWguqJf0_0000002 162.1 170.6 
+Michael_Trevino/PRDIWguqJf0_0000003 175.8 191.1 

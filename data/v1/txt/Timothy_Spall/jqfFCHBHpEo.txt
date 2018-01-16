@@ -1,0 +1,14 @@
+POI: 			Timothy_Spall 
+Youtube ID: 	jqfFCHBHpEo 
+Video length: 	2657.9 sec 
+Set (V): 		dev 
+ 
+Timothy_Spall/jqfFCHBHpEo_0000001 1580.9 1585.4 
+Timothy_Spall/jqfFCHBHpEo_0000002 1600.6 1605.8 
+Timothy_Spall/jqfFCHBHpEo_0000003 1606.4 1614.0 
+Timothy_Spall/jqfFCHBHpEo_0000004 1641.6 1649.2 
+Timothy_Spall/jqfFCHBHpEo_0000005 1816.6 1824.8 
+Timothy_Spall/jqfFCHBHpEo_0000006 1842.2 1846.2 
+Timothy_Spall/jqfFCHBHpEo_0000007 1846.7 1852.2 
+Timothy_Spall/jqfFCHBHpEo_0000008 1883.3 1888.6 
+Timothy_Spall/jqfFCHBHpEo_0000009 1922.3 1926.6 

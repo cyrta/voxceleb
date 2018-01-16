@@ -1,0 +1,13 @@
+POI: 			Padma_Lakshmi 
+Youtube ID: 	HmOIU5keaZw 
+Video length: 	225.7 sec 
+Set (V): 		dev 
+ 
+Padma_Lakshmi/HmOIU5keaZw_0000001 72.6 78.3 
+Padma_Lakshmi/HmOIU5keaZw_0000002 78.9 83.5 
+Padma_Lakshmi/HmOIU5keaZw_0000003 147.1 151.4 
+Padma_Lakshmi/HmOIU5keaZw_0000004 153.7 164.0 
+Padma_Lakshmi/HmOIU5keaZw_0000005 206.5 210.7 
+Padma_Lakshmi/HmOIU5keaZw_0000006 211.4 216.8 
+Padma_Lakshmi/HmOIU5keaZw_0000007 206.5 210.6 
+Padma_Lakshmi/HmOIU5keaZw_0000008 211.6 217.3 

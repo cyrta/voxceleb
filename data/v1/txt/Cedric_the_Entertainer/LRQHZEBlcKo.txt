@@ -1,0 +1,10 @@
+POI: 			Cedric_the_Entertainer 
+Youtube ID: 	LRQHZEBlcKo 
+Video length: 	221.5 sec 
+Set (V): 		dev 
+ 
+Cedric_the_Entertainer/LRQHZEBlcKo_0000001 38.7 48.2 
+Cedric_the_Entertainer/LRQHZEBlcKo_0000002 50.2 63.4 
+Cedric_the_Entertainer/LRQHZEBlcKo_0000003 65.4 69.4 
+Cedric_the_Entertainer/LRQHZEBlcKo_0000004 125.5 143.1 
+Cedric_the_Entertainer/LRQHZEBlcKo_0000005 143.6 155.6 

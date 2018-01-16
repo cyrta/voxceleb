@@ -1,0 +1,16 @@
+POI: 			Toby_Stephens 
+Youtube ID: 	LAHad7VLKXw 
+Video length: 	322.3 sec 
+Set (V): 		dev 
+ 
+Toby_Stephens/LAHad7VLKXw_0000001 48.1 56.6 
+Toby_Stephens/LAHad7VLKXw_0000002 58.6 90.6 
+Toby_Stephens/LAHad7VLKXw_0000003 91.2 97.2 
+Toby_Stephens/LAHad7VLKXw_0000004 98.0 106.6 
+Toby_Stephens/LAHad7VLKXw_0000005 121.2 127.3 
+Toby_Stephens/LAHad7VLKXw_0000006 133.8 153.9 
+Toby_Stephens/LAHad7VLKXw_0000007 154.8 164.9 
+Toby_Stephens/LAHad7VLKXw_0000008 215.1 220.0 
+Toby_Stephens/LAHad7VLKXw_0000009 250.0 263.6 
+Toby_Stephens/LAHad7VLKXw_0000010 264.2 270.7 
+Toby_Stephens/LAHad7VLKXw_0000011 272.2 289.4 

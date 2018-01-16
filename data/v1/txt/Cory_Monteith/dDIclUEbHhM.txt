@@ -1,0 +1,15 @@
+POI: 			Cory_Monteith 
+Youtube ID: 	dDIclUEbHhM 
+Video length: 	202.2 sec 
+Set (V): 		dev 
+ 
+Cory_Monteith/dDIclUEbHhM_0000001 37.5 47.5 
+Cory_Monteith/dDIclUEbHhM_0000002 47.8 56.1 
+Cory_Monteith/dDIclUEbHhM_0000003 65.3 73.8 
+Cory_Monteith/dDIclUEbHhM_0000004 100.2 104.3 
+Cory_Monteith/dDIclUEbHhM_0000005 107.7 115.4 
+Cory_Monteith/dDIclUEbHhM_0000006 123.5 131.6 
+Cory_Monteith/dDIclUEbHhM_0000007 135.9 150.1 
+Cory_Monteith/dDIclUEbHhM_0000008 178.8 182.9 
+Cory_Monteith/dDIclUEbHhM_0000009 184.0 188.0 
+Cory_Monteith/dDIclUEbHhM_0000010 189.6 195.7 

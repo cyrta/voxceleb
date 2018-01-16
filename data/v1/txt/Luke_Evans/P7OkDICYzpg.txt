@@ -1,0 +1,17 @@
+POI: 			Luke_Evans 
+Youtube ID: 	P7OkDICYzpg 
+Video length: 	344.9 sec 
+Set (V): 		dev 
+ 
+Luke_Evans/P7OkDICYzpg_0000001 30.0 46.6 
+Luke_Evans/P7OkDICYzpg_0000002 70.8 87.8 
+Luke_Evans/P7OkDICYzpg_0000003 91.2 100.6 
+Luke_Evans/P7OkDICYzpg_0000004 130.4 175.7 
+Luke_Evans/P7OkDICYzpg_0000005 194.4 206.5 
+Luke_Evans/P7OkDICYzpg_0000006 209.9 215.9 
+Luke_Evans/P7OkDICYzpg_0000007 216.8 227.2 
+Luke_Evans/P7OkDICYzpg_0000008 241.6 246.1 
+Luke_Evans/P7OkDICYzpg_0000009 287.3 297.4 
+Luke_Evans/P7OkDICYzpg_0000010 300.8 307.6 
+Luke_Evans/P7OkDICYzpg_0000011 308.4 317.1 
+Luke_Evans/P7OkDICYzpg_0000012 321.2 326.8 

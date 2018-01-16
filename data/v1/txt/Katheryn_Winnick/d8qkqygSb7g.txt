@@ -1,0 +1,15 @@
+POI: 			Katheryn_Winnick 
+Youtube ID: 	d8qkqygSb7g 
+Video length: 	267.8 sec 
+Set (V): 		dev 
+ 
+Katheryn_Winnick/d8qkqygSb7g_0000001 38.3 49.8 
+Katheryn_Winnick/d8qkqygSb7g_0000002 50.7 60.2 
+Katheryn_Winnick/d8qkqygSb7g_0000003 82.7 91.0 
+Katheryn_Winnick/d8qkqygSb7g_0000004 93.0 108.9 
+Katheryn_Winnick/d8qkqygSb7g_0000005 173.6 178.3 
+Katheryn_Winnick/d8qkqygSb7g_0000006 181.9 185.9 
+Katheryn_Winnick/d8qkqygSb7g_0000007 187.3 194.2 
+Katheryn_Winnick/d8qkqygSb7g_0000008 196.5 200.4 
+Katheryn_Winnick/d8qkqygSb7g_0000009 200.8 207.4 
+Katheryn_Winnick/d8qkqygSb7g_0000010 210.2 217.4 

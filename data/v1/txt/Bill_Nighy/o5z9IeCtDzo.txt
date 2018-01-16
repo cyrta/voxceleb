@@ -1,0 +1,21 @@
+POI: 			Bill_Nighy 
+Youtube ID: 	o5z9IeCtDzo 
+Video length: 	622.3 sec 
+Set (V): 		dev 
+ 
+Bill_Nighy/o5z9IeCtDzo_0000001 19.0 23.3 
+Bill_Nighy/o5z9IeCtDzo_0000002 32.2 36.4 
+Bill_Nighy/o5z9IeCtDzo_0000003 64.7 70.6 
+Bill_Nighy/o5z9IeCtDzo_0000004 73.7 80.9 
+Bill_Nighy/o5z9IeCtDzo_0000005 134.9 155.6 
+Bill_Nighy/o5z9IeCtDzo_0000006 191.0 195.7 
+Bill_Nighy/o5z9IeCtDzo_0000007 222.1 227.0 
+Bill_Nighy/o5z9IeCtDzo_0000008 238.3 246.2 
+Bill_Nighy/o5z9IeCtDzo_0000009 249.4 253.4 
+Bill_Nighy/o5z9IeCtDzo_0000010 296.7 313.7 
+Bill_Nighy/o5z9IeCtDzo_0000011 315.2 328.3 
+Bill_Nighy/o5z9IeCtDzo_0000012 341.8 347.6 
+Bill_Nighy/o5z9IeCtDzo_0000013 376.0 385.3 
+Bill_Nighy/o5z9IeCtDzo_0000014 389.0 393.1 
+Bill_Nighy/o5z9IeCtDzo_0000015 409.8 417.4 
+Bill_Nighy/o5z9IeCtDzo_0000016 421.8 429.8 

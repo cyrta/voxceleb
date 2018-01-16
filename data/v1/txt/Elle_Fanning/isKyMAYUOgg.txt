@@ -1,0 +1,17 @@
+POI: 			Elle_Fanning 
+Youtube ID: 	isKyMAYUOgg 
+Video length: 	545.2 sec 
+Set (V): 		test 
+ 
+Elle_Fanning/isKyMAYUOgg_0000001 14.5 22.8 
+Elle_Fanning/isKyMAYUOgg_0000002 23.2 31.3 
+Elle_Fanning/isKyMAYUOgg_0000003 32.2 48.5 
+Elle_Fanning/isKyMAYUOgg_0000004 49.3 53.4 
+Elle_Fanning/isKyMAYUOgg_0000005 171.5 176.8 
+Elle_Fanning/isKyMAYUOgg_0000006 177.2 185.4 
+Elle_Fanning/isKyMAYUOgg_0000007 185.4 198.6 
+Elle_Fanning/isKyMAYUOgg_0000008 288.6 295.5 
+Elle_Fanning/isKyMAYUOgg_0000009 297.8 304.2 
+Elle_Fanning/isKyMAYUOgg_0000010 418.2 424.1 
+Elle_Fanning/isKyMAYUOgg_0000011 425.0 438.6 
+Elle_Fanning/isKyMAYUOgg_0000012 448.4 468.8 

@@ -1,0 +1,15 @@
+POI: 			Michael_Bay 
+Youtube ID: 	9OJw8eqHlME 
+Video length: 	239.1 sec 
+Set (V): 		dev 
+ 
+Michael_Bay/9OJw8eqHlME_0000001 45.8 55.5 
+Michael_Bay/9OJw8eqHlME_0000002 60.6 66.6 
+Michael_Bay/9OJw8eqHlME_0000003 68.8 81.8 
+Michael_Bay/9OJw8eqHlME_0000004 90.7 94.7 
+Michael_Bay/9OJw8eqHlME_0000005 115.4 119.4 
+Michael_Bay/9OJw8eqHlME_0000006 159.8 183.6 
+Michael_Bay/9OJw8eqHlME_0000007 184.3 189.6 
+Michael_Bay/9OJw8eqHlME_0000008 202.5 207.8 
+Michael_Bay/9OJw8eqHlME_0000009 219.6 225.0 
+Michael_Bay/9OJw8eqHlME_0000010 230.4 235.0 

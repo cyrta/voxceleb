@@ -1,0 +1,12 @@
+POI: 			Andrew_Rannells 
+Youtube ID: 	vIB-ZChYy3w 
+Video length: 	462.2 sec 
+Set (V): 		dev 
+ 
+Andrew_Rannells/vIB-ZChYy3w_0000001 89.0 102.0 
+Andrew_Rannells/vIB-ZChYy3w_0000002 124.5 137.7 
+Andrew_Rannells/vIB-ZChYy3w_0000003 138.2 151.5 
+Andrew_Rannells/vIB-ZChYy3w_0000004 175.5 181.2 
+Andrew_Rannells/vIB-ZChYy3w_0000005 321.2 338.8 
+Andrew_Rannells/vIB-ZChYy3w_0000006 402.4 408.0 
+Andrew_Rannells/vIB-ZChYy3w_0000007 409.0 423.8 

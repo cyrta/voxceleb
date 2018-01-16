@@ -1,0 +1,9 @@
+POI: 			Caterina_Murino 
+Youtube ID: 	deBzvQVMbrE 
+Video length: 	166.2 sec 
+Set (V): 		dev 
+ 
+Caterina_Murino/deBzvQVMbrE_0000001 52.7 57.0 
+Caterina_Murino/deBzvQVMbrE_0000002 58.0 65.2 
+Caterina_Murino/deBzvQVMbrE_0000003 82.8 87.2 
+Caterina_Murino/deBzvQVMbrE_0000004 99.7 111.4 

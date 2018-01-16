@@ -1,0 +1,7 @@
+POI: 			Harry_Connick_Jr. 
+Youtube ID: 	KT7B07WFWyM 
+Video length: 	280.6 sec 
+Set (V): 		dev 
+ 
+Harry_Connick_Jr./KT7B07WFWyM_0000001 195.0 205.5 
+Harry_Connick_Jr./KT7B07WFWyM_0000002 238.7 245.2 

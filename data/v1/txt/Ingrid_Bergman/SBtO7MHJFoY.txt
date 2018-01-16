@@ -1,0 +1,9 @@
+POI: 			Ingrid_Bergman 
+Youtube ID: 	SBtO7MHJFoY 
+Video length: 	143.5 sec 
+Set (V): 		dev 
+ 
+Ingrid_Bergman/SBtO7MHJFoY_0000001 21.6 32.8 
+Ingrid_Bergman/SBtO7MHJFoY_0000002 54.2 61.0 
+Ingrid_Bergman/SBtO7MHJFoY_0000003 84.8 93.0 
+Ingrid_Bergman/SBtO7MHJFoY_0000004 101.1 105.2 

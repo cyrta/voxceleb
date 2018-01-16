@@ -1,0 +1,10 @@
+POI: 			Audra_McDonald 
+Youtube ID: 	jq_OYw1X3CE 
+Video length: 	415.3 sec 
+Set (V): 		dev 
+ 
+Audra_McDonald/jq_OYw1X3CE_0000001 35.5 40.2 
+Audra_McDonald/jq_OYw1X3CE_0000002 94.9 99.0 
+Audra_McDonald/jq_OYw1X3CE_0000003 106.0 117.1 
+Audra_McDonald/jq_OYw1X3CE_0000004 146.7 150.9 
+Audra_McDonald/jq_OYw1X3CE_0000005 157.1 168.2 

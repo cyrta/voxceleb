@@ -1,0 +1,7 @@
+POI: 			Cyndi_Lauper 
+Youtube ID: 	dvSuGMLT7ho 
+Video length: 	361.5 sec 
+Set (V): 		dev 
+ 
+Cyndi_Lauper/dvSuGMLT7ho_0000001 49.6 58.4 
+Cyndi_Lauper/dvSuGMLT7ho_0000002 129.1 133.5 

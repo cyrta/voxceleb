@@ -1,0 +1,19 @@
+POI: 			Aidan_Turner 
+Youtube ID: 	SCFgvk0Sm24 
+Video length: 	251.8 sec 
+Set (V): 		dev 
+ 
+Aidan_Turner/SCFgvk0Sm24_0000001 14.6 20.2 
+Aidan_Turner/SCFgvk0Sm24_0000002 24.2 28.5 
+Aidan_Turner/SCFgvk0Sm24_0000003 38.6 52.4 
+Aidan_Turner/SCFgvk0Sm24_0000004 72.8 77.8 
+Aidan_Turner/SCFgvk0Sm24_0000005 96.2 105.5 
+Aidan_Turner/SCFgvk0Sm24_0000006 111.1 115.6 
+Aidan_Turner/SCFgvk0Sm24_0000007 137.4 143.9 
+Aidan_Turner/SCFgvk0Sm24_0000008 153.9 158.3 
+Aidan_Turner/SCFgvk0Sm24_0000009 177.1 182.6 
+Aidan_Turner/SCFgvk0Sm24_0000010 197.3 205.2 
+Aidan_Turner/SCFgvk0Sm24_0000011 206.7 212.6 
+Aidan_Turner/SCFgvk0Sm24_0000012 201.8 212.7 
+Aidan_Turner/SCFgvk0Sm24_0000013 231.9 236.4 
+Aidan_Turner/SCFgvk0Sm24_0000014 237.3 243.7 

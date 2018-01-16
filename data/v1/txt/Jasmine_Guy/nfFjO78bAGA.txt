@@ -1,0 +1,12 @@
+POI: 			Jasmine_Guy 
+Youtube ID: 	nfFjO78bAGA 
+Video length: 	447.1 sec 
+Set (V): 		dev 
+ 
+Jasmine_Guy/nfFjO78bAGA_0000001 248.8 253.0 
+Jasmine_Guy/nfFjO78bAGA_0000002 255.6 259.7 
+Jasmine_Guy/nfFjO78bAGA_0000003 264.0 268.5 
+Jasmine_Guy/nfFjO78bAGA_0000004 283.4 287.5 
+Jasmine_Guy/nfFjO78bAGA_0000005 289.8 299.6 
+Jasmine_Guy/nfFjO78bAGA_0000006 341.2 345.6 
+Jasmine_Guy/nfFjO78bAGA_0000007 350.9 355.8 

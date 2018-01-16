@@ -1,0 +1,13 @@
+POI: 			Rob_Dyrdek 
+Youtube ID: 	8uxJ3sBk3mQ 
+Video length: 	344.9 sec 
+Set (V): 		dev 
+ 
+Rob_Dyrdek/8uxJ3sBk3mQ_0000001 82.6 87.3 
+Rob_Dyrdek/8uxJ3sBk3mQ_0000002 96.7 105.4 
+Rob_Dyrdek/8uxJ3sBk3mQ_0000003 118.7 127.6 
+Rob_Dyrdek/8uxJ3sBk3mQ_0000004 181.7 188.1 
+Rob_Dyrdek/8uxJ3sBk3mQ_0000005 218.2 224.6 
+Rob_Dyrdek/8uxJ3sBk3mQ_0000006 232.2 237.2 
+Rob_Dyrdek/8uxJ3sBk3mQ_0000007 238.2 243.0 
+Rob_Dyrdek/8uxJ3sBk3mQ_0000008 281.8 287.4 

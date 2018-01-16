@@ -1,0 +1,13 @@
+POI: 			Vincent_Cassel 
+Youtube ID: 	zllrin1EFKY 
+Video length: 	915.5 sec 
+Set (V): 		dev 
+ 
+Vincent_Cassel/zllrin1EFKY_0000001 269.7 274.1 
+Vincent_Cassel/zllrin1EFKY_0000002 307.0 314.7 
+Vincent_Cassel/zllrin1EFKY_0000003 329.0 333.8 
+Vincent_Cassel/zllrin1EFKY_0000004 377.2 386.0 
+Vincent_Cassel/zllrin1EFKY_0000005 437.0 441.1 
+Vincent_Cassel/zllrin1EFKY_0000006 516.9 521.2 
+Vincent_Cassel/zllrin1EFKY_0000007 573.8 578.1 
+Vincent_Cassel/zllrin1EFKY_0000008 598.0 602.7 

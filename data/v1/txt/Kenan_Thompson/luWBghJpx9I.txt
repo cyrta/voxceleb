@@ -1,0 +1,8 @@
+POI: 			Kenan_Thompson 
+Youtube ID: 	luWBghJpx9I 
+Video length: 	260.6 sec 
+Set (V): 		dev 
+ 
+Kenan_Thompson/luWBghJpx9I_0000001 71.8 77.1 
+Kenan_Thompson/luWBghJpx9I_0000002 109.7 115.4 
+Kenan_Thompson/luWBghJpx9I_0000003 127.6 132.2 

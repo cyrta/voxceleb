@@ -1,0 +1,7 @@
+POI: 			Dougray_Scott 
+Youtube ID: 	okD_wumWrVs 
+Video length: 	38.1 sec 
+Set (V): 		dev 
+ 
+Dougray_Scott/okD_wumWrVs_0000001 12.4 21.8 
+Dougray_Scott/okD_wumWrVs_0000002 26.5 31.2 

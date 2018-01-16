@@ -1,0 +1,8 @@
+POI: 			Douglas_Booth 
+Youtube ID: 	WHbVPmguvbE 
+Video length: 	218.6 sec 
+Set (V): 		dev 
+ 
+Douglas_Booth/WHbVPmguvbE_0000001 120.6 128.1 
+Douglas_Booth/WHbVPmguvbE_0000002 130.2 146.7 
+Douglas_Booth/WHbVPmguvbE_0000003 147.8 151.8 

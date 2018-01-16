@@ -1,0 +1,7 @@
+POI: 			Joel_McHale 
+Youtube ID: 	Fbv65ayrJaU 
+Video length: 	642.8 sec 
+Set (V): 		dev 
+ 
+Joel_McHale/Fbv65ayrJaU_0000001 224.1 232.1 
+Joel_McHale/Fbv65ayrJaU_0000002 300.6 304.8 

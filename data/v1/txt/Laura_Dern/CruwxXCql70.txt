@@ -1,0 +1,9 @@
+POI: 			Laura_Dern 
+Youtube ID: 	CruwxXCql70 
+Video length: 	274.1 sec 
+Set (V): 		dev 
+ 
+Laura_Dern/CruwxXCql70_0000001 170.4 174.8 
+Laura_Dern/CruwxXCql70_0000002 182.6 195.1 
+Laura_Dern/CruwxXCql70_0000003 242.4 260.4 
+Laura_Dern/CruwxXCql70_0000004 261.1 266.2 

@@ -1,0 +1,15 @@
+POI: 			Andrew_Garfield 
+Youtube ID: 	jO4Zg8_s1S4 
+Video length: 	451.0 sec 
+Set (V): 		dev 
+ 
+Andrew_Garfield/jO4Zg8_s1S4_0000001 239.2 253.7 
+Andrew_Garfield/jO4Zg8_s1S4_0000002 254.8 260.0 
+Andrew_Garfield/jO4Zg8_s1S4_0000003 260.4 272.1 
+Andrew_Garfield/jO4Zg8_s1S4_0000004 273.3 278.8 
+Andrew_Garfield/jO4Zg8_s1S4_0000005 316.8 323.3 
+Andrew_Garfield/jO4Zg8_s1S4_0000006 363.9 371.8 
+Andrew_Garfield/jO4Zg8_s1S4_0000007 371.9 379.0 
+Andrew_Garfield/jO4Zg8_s1S4_0000008 385.6 389.6 
+Andrew_Garfield/jO4Zg8_s1S4_0000009 399.8 404.4 
+Andrew_Garfield/jO4Zg8_s1S4_0000010 415.4 421.6 

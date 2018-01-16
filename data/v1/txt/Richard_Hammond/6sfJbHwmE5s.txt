@@ -1,0 +1,7 @@
+POI: 			Richard_Hammond 
+Youtube ID: 	6sfJbHwmE5s 
+Video length: 	447.6 sec 
+Set (V): 		dev 
+ 
+Richard_Hammond/6sfJbHwmE5s_0000001 110.9 115.8 
+Richard_Hammond/6sfJbHwmE5s_0000002 140.6 148.5 

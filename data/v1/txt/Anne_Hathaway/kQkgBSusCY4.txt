@@ -1,0 +1,22 @@
+POI: 			Anne_Hathaway 
+Youtube ID: 	kQkgBSusCY4 
+Video length: 	253.2 sec 
+Set (V): 		dev 
+ 
+Anne_Hathaway/kQkgBSusCY4_0000001 05.1 11.6 
+Anne_Hathaway/kQkgBSusCY4_0000002 17.6 52.9 
+Anne_Hathaway/kQkgBSusCY4_0000003 64.6 73.4 
+Anne_Hathaway/kQkgBSusCY4_0000004 78.0 89.1 
+Anne_Hathaway/kQkgBSusCY4_0000005 100.3 117.5 
+Anne_Hathaway/kQkgBSusCY4_0000006 90.2 108.2 
+Anne_Hathaway/kQkgBSusCY4_0000007 108.6 122.1 
+Anne_Hathaway/kQkgBSusCY4_0000008 129.0 133.3 
+Anne_Hathaway/kQkgBSusCY4_0000009 133.6 138.4 
+Anne_Hathaway/kQkgBSusCY4_0000010 139.2 156.6 
+Anne_Hathaway/kQkgBSusCY4_0000011 157.0 166.6 
+Anne_Hathaway/kQkgBSusCY4_0000012 167.4 173.1 
+Anne_Hathaway/kQkgBSusCY4_0000013 173.8 183.1 
+Anne_Hathaway/kQkgBSusCY4_0000014 188.8 194.7 
+Anne_Hathaway/kQkgBSusCY4_0000015 200.5 208.1 
+Anne_Hathaway/kQkgBSusCY4_0000016 214.1 226.8 
+Anne_Hathaway/kQkgBSusCY4_0000017 240.8 248.4 

@@ -1,0 +1,10 @@
+POI: 			Amitabh_Bachchan 
+Youtube ID: 	bVnFhUi19mg 
+Video length: 	2083.2 sec 
+Set (V): 		dev 
+ 
+Amitabh_Bachchan/bVnFhUi19mg_0000001 231.6 236.3 
+Amitabh_Bachchan/bVnFhUi19mg_0000002 833.0 836.9 
+Amitabh_Bachchan/bVnFhUi19mg_0000003 1134.2 1139.4 
+Amitabh_Bachchan/bVnFhUi19mg_0000004 1405.8 1411.7 
+Amitabh_Bachchan/bVnFhUi19mg_0000005 2039.6 2049.0 

@@ -1,0 +1,9 @@
+POI: 			Derek_Theler 
+Youtube ID: 	17eLAkRf-q4 
+Video length: 	115.6 sec 
+Set (V): 		dev 
+ 
+Derek_Theler/17eLAkRf-q4_0000001 45.8 51.2 
+Derek_Theler/17eLAkRf-q4_0000002 55.8 65.2 
+Derek_Theler/17eLAkRf-q4_0000003 81.1 86.8 
+Derek_Theler/17eLAkRf-q4_0000004 100.7 106.1 

@@ -1,0 +1,10 @@
+POI: 			Tyler_Blackburn 
+Youtube ID: 	L7BQr17-rjQ 
+Video length: 	438.7 sec 
+Set (V): 		dev 
+ 
+Tyler_Blackburn/L7BQr17-rjQ_0000001 78.5 83.2 
+Tyler_Blackburn/L7BQr17-rjQ_0000002 83.4 87.7 
+Tyler_Blackburn/L7BQr17-rjQ_0000003 120.2 131.0 
+Tyler_Blackburn/L7BQr17-rjQ_0000004 287.4 292.0 
+Tyler_Blackburn/L7BQr17-rjQ_0000005 368.9 374.0 

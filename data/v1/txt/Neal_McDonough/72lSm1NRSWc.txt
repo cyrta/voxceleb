@@ -1,0 +1,8 @@
+POI: 			Neal_McDonough 
+Youtube ID: 	72lSm1NRSWc 
+Video length: 	85.4 sec 
+Set (V): 		dev 
+ 
+Neal_McDonough/72lSm1NRSWc_0000001 29.6 34.3 
+Neal_McDonough/72lSm1NRSWc_0000002 34.7 38.9 
+Neal_McDonough/72lSm1NRSWc_0000003 59.6 67.8 

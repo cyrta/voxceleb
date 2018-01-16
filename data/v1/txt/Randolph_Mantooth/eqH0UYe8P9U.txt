@@ -1,0 +1,26 @@
+POI: 			Randolph_Mantooth 
+Youtube ID: 	eqH0UYe8P9U 
+Video length: 	420.6 sec 
+Set (V): 		dev 
+ 
+Randolph_Mantooth/eqH0UYe8P9U_0000001 47.3 52.6 
+Randolph_Mantooth/eqH0UYe8P9U_0000002 54.1 58.3 
+Randolph_Mantooth/eqH0UYe8P9U_0000003 61.2 66.0 
+Randolph_Mantooth/eqH0UYe8P9U_0000004 153.5 157.4 
+Randolph_Mantooth/eqH0UYe8P9U_0000005 158.4 164.5 
+Randolph_Mantooth/eqH0UYe8P9U_0000006 168.3 174.9 
+Randolph_Mantooth/eqH0UYe8P9U_0000007 225.4 234.5 
+Randolph_Mantooth/eqH0UYe8P9U_0000008 235.2 243.8 
+Randolph_Mantooth/eqH0UYe8P9U_0000009 244.5 260.9 
+Randolph_Mantooth/eqH0UYe8P9U_0000010 263.2 283.4 
+Randolph_Mantooth/eqH0UYe8P9U_0000011 284.4 290.6 
+Randolph_Mantooth/eqH0UYe8P9U_0000012 291.4 326.2 
+Randolph_Mantooth/eqH0UYe8P9U_0000013 328.1 337.0 
+Randolph_Mantooth/eqH0UYe8P9U_0000014 338.4 343.3 
+Randolph_Mantooth/eqH0UYe8P9U_0000015 343.6 358.2 
+Randolph_Mantooth/eqH0UYe8P9U_0000016 358.6 362.7 
+Randolph_Mantooth/eqH0UYe8P9U_0000017 363.7 369.2 
+Randolph_Mantooth/eqH0UYe8P9U_0000018 369.6 377.3 
+Randolph_Mantooth/eqH0UYe8P9U_0000019 389.6 399.6 
+Randolph_Mantooth/eqH0UYe8P9U_0000020 400.8 406.5 
+Randolph_Mantooth/eqH0UYe8P9U_0000021 406.8 411.0 

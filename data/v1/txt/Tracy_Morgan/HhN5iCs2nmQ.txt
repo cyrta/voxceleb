@@ -1,0 +1,7 @@
+POI: 			Tracy_Morgan 
+Youtube ID: 	HhN5iCs2nmQ 
+Video length: 	154.3 sec 
+Set (V): 		dev 
+ 
+Tracy_Morgan/HhN5iCs2nmQ_0000001 64.6 69.1 
+Tracy_Morgan/HhN5iCs2nmQ_0000002 69.3 74.8 

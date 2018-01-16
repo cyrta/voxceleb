@@ -1,0 +1,18 @@
+POI: 			Jason_Bateman 
+Youtube ID: 	3ABi7N0ImkM 
+Video length: 	229.0 sec 
+Set (V): 		dev 
+ 
+Jason_Bateman/3ABi7N0ImkM_0000001 14.0 22.5 
+Jason_Bateman/3ABi7N0ImkM_0000002 26.4 32.1 
+Jason_Bateman/3ABi7N0ImkM_0000003 52.7 60.0 
+Jason_Bateman/3ABi7N0ImkM_0000004 60.9 72.7 
+Jason_Bateman/3ABi7N0ImkM_0000005 74.0 80.5 
+Jason_Bateman/3ABi7N0ImkM_0000006 85.2 89.5 
+Jason_Bateman/3ABi7N0ImkM_0000007 110.8 121.4 
+Jason_Bateman/3ABi7N0ImkM_0000008 125.4 133.3 
+Jason_Bateman/3ABi7N0ImkM_0000009 167.6 172.8 
+Jason_Bateman/3ABi7N0ImkM_0000010 173.0 177.2 
+Jason_Bateman/3ABi7N0ImkM_0000011 178.4 182.8 
+Jason_Bateman/3ABi7N0ImkM_0000012 183.1 209.5 
+Jason_Bateman/3ABi7N0ImkM_0000013 218.2 227.6 

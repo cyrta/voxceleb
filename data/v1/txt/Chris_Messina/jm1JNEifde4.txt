@@ -1,0 +1,8 @@
+POI: 			Chris_Messina 
+Youtube ID: 	jm1JNEifde4 
+Video length: 	70.8 sec 
+Set (V): 		dev 
+ 
+Chris_Messina/jm1JNEifde4_0000001 02.5 06.6 
+Chris_Messina/jm1JNEifde4_0000002 09.1 13.4 
+Chris_Messina/jm1JNEifde4_0000003 42.6 49.0 

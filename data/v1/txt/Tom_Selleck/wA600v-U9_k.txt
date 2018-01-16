@@ -1,0 +1,7 @@
+POI: 			Tom_Selleck 
+Youtube ID: 	wA600v-U9_k 
+Video length: 	223.4 sec 
+Set (V): 		dev 
+ 
+Tom_Selleck/wA600v-U9_k_0000001 63.8 70.2 
+Tom_Selleck/wA600v-U9_k_0000002 172.2 176.5 

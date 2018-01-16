@@ -1,0 +1,21 @@
+POI: 			Chadwick_Boseman 
+Youtube ID: 	G9lL7PEKcBs 
+Video length: 	438.9 sec 
+Set (V): 		dev 
+ 
+Chadwick_Boseman/G9lL7PEKcBs_0000001 68.4 73.8 
+Chadwick_Boseman/G9lL7PEKcBs_0000002 74.8 79.3 
+Chadwick_Boseman/G9lL7PEKcBs_0000003 101.7 105.8 
+Chadwick_Boseman/G9lL7PEKcBs_0000004 129.9 134.3 
+Chadwick_Boseman/G9lL7PEKcBs_0000005 135.5 139.6 
+Chadwick_Boseman/G9lL7PEKcBs_0000006 179.4 185.4 
+Chadwick_Boseman/G9lL7PEKcBs_0000007 221.5 226.9 
+Chadwick_Boseman/G9lL7PEKcBs_0000008 243.7 252.9 
+Chadwick_Boseman/G9lL7PEKcBs_0000009 255.0 263.6 
+Chadwick_Boseman/G9lL7PEKcBs_0000010 271.4 276.7 
+Chadwick_Boseman/G9lL7PEKcBs_0000011 277.8 286.8 
+Chadwick_Boseman/G9lL7PEKcBs_0000012 287.6 292.0 
+Chadwick_Boseman/G9lL7PEKcBs_0000013 297.3 304.1 
+Chadwick_Boseman/G9lL7PEKcBs_0000014 333.5 338.6 
+Chadwick_Boseman/G9lL7PEKcBs_0000015 349.5 359.2 
+Chadwick_Boseman/G9lL7PEKcBs_0000016 404.5 414.2 

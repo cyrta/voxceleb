@@ -1,0 +1,10 @@
+POI: 			Reggie_Lee 
+Youtube ID: 	FhS2Dli9xgU 
+Video length: 	224.8 sec 
+Set (V): 		dev 
+ 
+Reggie_Lee/FhS2Dli9xgU_0000001 12.1 19.3 
+Reggie_Lee/FhS2Dli9xgU_0000002 25.7 35.9 
+Reggie_Lee/FhS2Dli9xgU_0000003 97.7 102.2 
+Reggie_Lee/FhS2Dli9xgU_0000004 139.9 146.6 
+Reggie_Lee/FhS2Dli9xgU_0000005 158.0 162.6 

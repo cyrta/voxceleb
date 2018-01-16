@@ -1,0 +1,21 @@
+POI: 			Ron_Perlman 
+Youtube ID: 	gQgj-fB7jzw 
+Video length: 	352.3 sec 
+Set (V): 		dev 
+ 
+Ron_Perlman/gQgj-fB7jzw_0000001 35.8 40.7 
+Ron_Perlman/gQgj-fB7jzw_0000002 51.3 55.8 
+Ron_Perlman/gQgj-fB7jzw_0000003 61.5 66.5 
+Ron_Perlman/gQgj-fB7jzw_0000004 69.6 77.7 
+Ron_Perlman/gQgj-fB7jzw_0000005 121.0 131.9 
+Ron_Perlman/gQgj-fB7jzw_0000006 147.6 153.1 
+Ron_Perlman/gQgj-fB7jzw_0000007 187.6 192.4 
+Ron_Perlman/gQgj-fB7jzw_0000008 199.2 205.8 
+Ron_Perlman/gQgj-fB7jzw_0000009 217.0 223.4 
+Ron_Perlman/gQgj-fB7jzw_0000010 224.3 230.2 
+Ron_Perlman/gQgj-fB7jzw_0000011 240.9 251.3 
+Ron_Perlman/gQgj-fB7jzw_0000012 274.2 278.4 
+Ron_Perlman/gQgj-fB7jzw_0000013 279.2 287.7 
+Ron_Perlman/gQgj-fB7jzw_0000014 302.4 306.6 
+Ron_Perlman/gQgj-fB7jzw_0000015 310.5 317.2 
+Ron_Perlman/gQgj-fB7jzw_0000016 330.2 338.3 

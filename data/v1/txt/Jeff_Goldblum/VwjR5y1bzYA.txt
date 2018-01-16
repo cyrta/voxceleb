@@ -1,0 +1,11 @@
+POI: 			Jeff_Goldblum 
+Youtube ID: 	VwjR5y1bzYA 
+Video length: 	495.0 sec 
+Set (V): 		dev 
+ 
+Jeff_Goldblum/VwjR5y1bzYA_0000001 190.3 195.0 
+Jeff_Goldblum/VwjR5y1bzYA_0000002 221.5 228.7 
+Jeff_Goldblum/VwjR5y1bzYA_0000003 375.7 389.0 
+Jeff_Goldblum/VwjR5y1bzYA_0000004 423.8 436.2 
+Jeff_Goldblum/VwjR5y1bzYA_0000005 438.2 447.2 
+Jeff_Goldblum/VwjR5y1bzYA_0000006 456.9 461.8 

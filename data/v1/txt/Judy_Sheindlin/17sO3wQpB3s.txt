@@ -1,0 +1,9 @@
+POI: 			Judy_Sheindlin 
+Youtube ID: 	17sO3wQpB3s 
+Video length: 	83.4 sec 
+Set (V): 		dev 
+ 
+Judy_Sheindlin/17sO3wQpB3s_0000001 29.7 41.0 
+Judy_Sheindlin/17sO3wQpB3s_0000002 44.6 50.2 
+Judy_Sheindlin/17sO3wQpB3s_0000003 51.2 60.6 
+Judy_Sheindlin/17sO3wQpB3s_0000004 65.0 69.0 

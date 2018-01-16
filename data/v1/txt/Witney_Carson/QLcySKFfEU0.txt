@@ -1,0 +1,15 @@
+POI: 			Witney_Carson 
+Youtube ID: 	QLcySKFfEU0 
+Video length: 	207.5 sec 
+Set (V): 		dev 
+ 
+Witney_Carson/QLcySKFfEU0_0000001 27.0 36.6 
+Witney_Carson/QLcySKFfEU0_0000002 43.2 55.2 
+Witney_Carson/QLcySKFfEU0_0000003 59.6 65.3 
+Witney_Carson/QLcySKFfEU0_0000004 71.4 79.6 
+Witney_Carson/QLcySKFfEU0_0000005 86.0 92.8 
+Witney_Carson/QLcySKFfEU0_0000006 111.6 120.6 
+Witney_Carson/QLcySKFfEU0_0000007 121.2 126.6 
+Witney_Carson/QLcySKFfEU0_0000008 135.3 141.4 
+Witney_Carson/QLcySKFfEU0_0000009 156.4 167.2 
+Witney_Carson/QLcySKFfEU0_0000010 177.6 195.2 

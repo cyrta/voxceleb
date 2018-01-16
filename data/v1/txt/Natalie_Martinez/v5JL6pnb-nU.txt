@@ -1,0 +1,16 @@
+POI: 			Natalie_Martinez 
+Youtube ID: 	v5JL6pnb-nU 
+Video length: 	632.8 sec 
+Set (V): 		dev 
+ 
+Natalie_Martinez/v5JL6pnb-nU_0000001 84.9 95.4 
+Natalie_Martinez/v5JL6pnb-nU_0000002 119.3 125.4 
+Natalie_Martinez/v5JL6pnb-nU_0000003 139.5 144.6 
+Natalie_Martinez/v5JL6pnb-nU_0000004 212.7 225.8 
+Natalie_Martinez/v5JL6pnb-nU_0000005 259.0 263.2 
+Natalie_Martinez/v5JL6pnb-nU_0000006 284.1 295.0 
+Natalie_Martinez/v5JL6pnb-nU_0000007 344.5 350.8 
+Natalie_Martinez/v5JL6pnb-nU_0000008 355.4 361.6 
+Natalie_Martinez/v5JL6pnb-nU_0000009 436.2 458.5 
+Natalie_Martinez/v5JL6pnb-nU_0000010 475.9 482.6 
+Natalie_Martinez/v5JL6pnb-nU_0000011 556.0 562.1 

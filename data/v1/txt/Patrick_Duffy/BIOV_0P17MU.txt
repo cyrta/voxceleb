@@ -1,0 +1,7 @@
+POI: 			Patrick_Duffy 
+Youtube ID: 	BIOV_0P17MU 
+Video length: 	841.8 sec 
+Set (V): 		dev 
+ 
+Patrick_Duffy/BIOV_0P17MU_0000001 358.9 364.6 
+Patrick_Duffy/BIOV_0P17MU_0000002 802.2 808.6 

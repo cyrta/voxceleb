@@ -1,0 +1,9 @@
+POI: 			Marie_Osmond 
+Youtube ID: 	h_x8cDWO9y4 
+Video length: 	106.2 sec 
+Set (V): 		dev 
+ 
+Marie_Osmond/h_x8cDWO9y4_0000001 14.7 24.2 
+Marie_Osmond/h_x8cDWO9y4_0000002 24.4 43.4 
+Marie_Osmond/h_x8cDWO9y4_0000003 47.6 62.6 
+Marie_Osmond/h_x8cDWO9y4_0000004 66.5 74.2 

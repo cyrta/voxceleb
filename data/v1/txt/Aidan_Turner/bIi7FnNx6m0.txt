@@ -1,0 +1,19 @@
+POI: 			Aidan_Turner 
+Youtube ID: 	bIi7FnNx6m0 
+Video length: 	353.5 sec 
+Set (V): 		dev 
+ 
+Aidan_Turner/bIi7FnNx6m0_0000001 16.0 21.2 
+Aidan_Turner/bIi7FnNx6m0_0000002 33.3 55.1 
+Aidan_Turner/bIi7FnNx6m0_0000003 61.7 79.0 
+Aidan_Turner/bIi7FnNx6m0_0000004 107.4 112.0 
+Aidan_Turner/bIi7FnNx6m0_0000005 165.2 170.3 
+Aidan_Turner/bIi7FnNx6m0_0000006 172.3 176.5 
+Aidan_Turner/bIi7FnNx6m0_0000007 178.1 186.6 
+Aidan_Turner/bIi7FnNx6m0_0000008 213.3 220.8 
+Aidan_Turner/bIi7FnNx6m0_0000009 221.8 226.0 
+Aidan_Turner/bIi7FnNx6m0_0000010 237.5 243.8 
+Aidan_Turner/bIi7FnNx6m0_0000011 250.6 259.8 
+Aidan_Turner/bIi7FnNx6m0_0000012 304.1 314.8 
+Aidan_Turner/bIi7FnNx6m0_0000013 318.2 333.6 
+Aidan_Turner/bIi7FnNx6m0_0000014 333.7 342.8 

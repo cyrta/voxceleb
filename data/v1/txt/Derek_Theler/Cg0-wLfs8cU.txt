@@ -1,0 +1,8 @@
+POI: 			Derek_Theler 
+Youtube ID: 	Cg0-wLfs8cU 
+Video length: 	140.0 sec 
+Set (V): 		dev 
+ 
+Derek_Theler/Cg0-wLfs8cU_0000001 34.6 38.6 
+Derek_Theler/Cg0-wLfs8cU_0000002 72.8 81.2 
+Derek_Theler/Cg0-wLfs8cU_0000003 108.1 125.3 

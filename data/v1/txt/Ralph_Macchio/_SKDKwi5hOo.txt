@@ -1,0 +1,12 @@
+POI: 			Ralph_Macchio 
+Youtube ID: 	_SKDKwi5hOo 
+Video length: 	290.3 sec 
+Set (V): 		dev 
+ 
+Ralph_Macchio/_SKDKwi5hOo_0000001 44.6 59.7 
+Ralph_Macchio/_SKDKwi5hOo_0000002 88.2 92.8 
+Ralph_Macchio/_SKDKwi5hOo_0000003 100.9 128.6 
+Ralph_Macchio/_SKDKwi5hOo_0000004 138.8 146.6 
+Ralph_Macchio/_SKDKwi5hOo_0000005 181.9 186.3 
+Ralph_Macchio/_SKDKwi5hOo_0000006 197.0 209.3 
+Ralph_Macchio/_SKDKwi5hOo_0000007 211.1 230.6 

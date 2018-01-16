@@ -1,0 +1,8 @@
+POI: 			David_Oyelowo 
+Youtube ID: 	4AFIHtea8Co 
+Video length: 	54.7 sec 
+Set (V): 		dev 
+ 
+David_Oyelowo/4AFIHtea8Co_0000001 15.0 19.3 
+David_Oyelowo/4AFIHtea8Co_0000002 19.7 28.2 
+David_Oyelowo/4AFIHtea8Co_0000003 31.4 36.3 

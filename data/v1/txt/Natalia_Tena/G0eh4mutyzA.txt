@@ -1,0 +1,11 @@
+POI: 			Natalia_Tena 
+Youtube ID: 	G0eh4mutyzA 
+Video length: 	321.5 sec 
+Set (V): 		dev 
+ 
+Natalia_Tena/G0eh4mutyzA_0000001 113.3 118.1 
+Natalia_Tena/G0eh4mutyzA_0000002 173.3 178.3 
+Natalia_Tena/G0eh4mutyzA_0000003 182.2 192.0 
+Natalia_Tena/G0eh4mutyzA_0000004 262.2 267.4 
+Natalia_Tena/G0eh4mutyzA_0000005 270.1 280.6 
+Natalia_Tena/G0eh4mutyzA_0000006 281.2 289.7 

@@ -1,0 +1,15 @@
+POI: 			Callan_McAuliffe 
+Youtube ID: 	EAOGiHWJVEk 
+Video length: 	276.7 sec 
+Set (V): 		dev 
+ 
+Callan_McAuliffe/EAOGiHWJVEk_0000001 50.4 54.4 
+Callan_McAuliffe/EAOGiHWJVEk_0000002 75.8 82.4 
+Callan_McAuliffe/EAOGiHWJVEk_0000003 93.6 98.0 
+Callan_McAuliffe/EAOGiHWJVEk_0000004 105.9 115.3 
+Callan_McAuliffe/EAOGiHWJVEk_0000005 126.0 133.4 
+Callan_McAuliffe/EAOGiHWJVEk_0000006 145.4 153.1 
+Callan_McAuliffe/EAOGiHWJVEk_0000007 164.4 195.4 
+Callan_McAuliffe/EAOGiHWJVEk_0000008 205.0 212.2 
+Callan_McAuliffe/EAOGiHWJVEk_0000009 219.8 224.6 
+Callan_McAuliffe/EAOGiHWJVEk_0000010 231.2 236.4 

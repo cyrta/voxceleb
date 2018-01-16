@@ -1,0 +1,9 @@
+POI: 			Linda_Cardellini 
+Youtube ID: 	iW20Q80vrPQ 
+Video length: 	93.3 sec 
+Set (V): 		dev 
+ 
+Linda_Cardellini/iW20Q80vrPQ_0000001 03.3 07.9 
+Linda_Cardellini/iW20Q80vrPQ_0000002 12.5 17.7 
+Linda_Cardellini/iW20Q80vrPQ_0000003 28.3 32.6 
+Linda_Cardellini/iW20Q80vrPQ_0000004 49.8 57.4 

@@ -1,0 +1,11 @@
+POI: 			Nicole_Richie 
+Youtube ID: 	9Y9M67MAbvg 
+Video length: 	349.1 sec 
+Set (V): 		dev 
+ 
+Nicole_Richie/9Y9M67MAbvg_0000001 47.1 51.3 
+Nicole_Richie/9Y9M67MAbvg_0000002 79.3 86.0 
+Nicole_Richie/9Y9M67MAbvg_0000003 126.4 131.6 
+Nicole_Richie/9Y9M67MAbvg_0000004 190.1 198.0 
+Nicole_Richie/9Y9M67MAbvg_0000005 306.4 311.7 
+Nicole_Richie/9Y9M67MAbvg_0000006 320.5 324.9 

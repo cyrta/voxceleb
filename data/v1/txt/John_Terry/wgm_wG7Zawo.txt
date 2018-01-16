@@ -1,0 +1,9 @@
+POI: 			John_Terry 
+Youtube ID: 	wgm_wG7Zawo 
+Video length: 	309.3 sec 
+Set (V): 		dev 
+ 
+John_Terry/wgm_wG7Zawo_0000001 90.2 95.0 
+John_Terry/wgm_wG7Zawo_0000002 185.6 190.7 
+John_Terry/wgm_wG7Zawo_0000003 281.3 286.6 
+John_Terry/wgm_wG7Zawo_0000004 299.0 307.4 

@@ -1,0 +1,7 @@
+POI: 			Geena_Davis 
+Youtube ID: 	Uf6TKEODnrY 
+Video length: 	630.0 sec 
+Set (V): 		dev 
+ 
+Geena_Davis/Uf6TKEODnrY_0000001 177.3 182.2 
+Geena_Davis/Uf6TKEODnrY_0000002 550.3 557.8 

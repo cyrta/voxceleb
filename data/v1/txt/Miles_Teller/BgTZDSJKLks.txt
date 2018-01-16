@@ -1,0 +1,9 @@
+POI: 			Miles_Teller 
+Youtube ID: 	BgTZDSJKLks 
+Video length: 	216.2 sec 
+Set (V): 		dev 
+ 
+Miles_Teller/BgTZDSJKLks_0000001 10.8 17.6 
+Miles_Teller/BgTZDSJKLks_0000002 115.5 127.0 
+Miles_Teller/BgTZDSJKLks_0000003 152.9 166.1 
+Miles_Teller/BgTZDSJKLks_0000004 167.1 178.3 

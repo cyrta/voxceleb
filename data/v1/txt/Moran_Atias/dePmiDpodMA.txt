@@ -1,0 +1,22 @@
+POI: 			Moran_Atias 
+Youtube ID: 	dePmiDpodMA 
+Video length: 	618.6 sec 
+Set (V): 		dev 
+ 
+Moran_Atias/dePmiDpodMA_0000001 134.2 150.6 
+Moran_Atias/dePmiDpodMA_0000002 153.3 161.8 
+Moran_Atias/dePmiDpodMA_0000003 164.2 171.0 
+Moran_Atias/dePmiDpodMA_0000004 172.4 186.9 
+Moran_Atias/dePmiDpodMA_0000005 191.2 195.7 
+Moran_Atias/dePmiDpodMA_0000006 220.2 224.4 
+Moran_Atias/dePmiDpodMA_0000007 225.3 232.5 
+Moran_Atias/dePmiDpodMA_0000008 233.4 252.7 
+Moran_Atias/dePmiDpodMA_0000009 255.6 261.8 
+Moran_Atias/dePmiDpodMA_0000010 262.4 278.3 
+Moran_Atias/dePmiDpodMA_0000011 489.4 493.8 
+Moran_Atias/dePmiDpodMA_0000012 502.4 509.4 
+Moran_Atias/dePmiDpodMA_0000013 514.1 518.3 
+Moran_Atias/dePmiDpodMA_0000014 520.7 529.8 
+Moran_Atias/dePmiDpodMA_0000015 581.6 587.4 
+Moran_Atias/dePmiDpodMA_0000016 589.2 604.6 
+Moran_Atias/dePmiDpodMA_0000017 609.8 614.0 

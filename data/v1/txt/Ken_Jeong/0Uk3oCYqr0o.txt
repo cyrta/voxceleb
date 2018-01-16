@@ -1,0 +1,14 @@
+POI: 			Ken_Jeong 
+Youtube ID: 	0Uk3oCYqr0o 
+Video length: 	736.4 sec 
+Set (V): 		dev 
+ 
+Ken_Jeong/0Uk3oCYqr0o_0000001 242.8 247.7 
+Ken_Jeong/0Uk3oCYqr0o_0000002 281.4 286.8 
+Ken_Jeong/0Uk3oCYqr0o_0000003 306.0 311.7 
+Ken_Jeong/0Uk3oCYqr0o_0000004 318.7 322.8 
+Ken_Jeong/0Uk3oCYqr0o_0000005 428.1 432.8 
+Ken_Jeong/0Uk3oCYqr0o_0000006 512.9 524.7 
+Ken_Jeong/0Uk3oCYqr0o_0000007 531.0 537.4 
+Ken_Jeong/0Uk3oCYqr0o_0000008 576.2 581.8 
+Ken_Jeong/0Uk3oCYqr0o_0000009 605.1 616.4 

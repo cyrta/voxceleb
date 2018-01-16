@@ -1,0 +1,9 @@
+POI: 			Giovanni_Ribisi 
+Youtube ID: 	1fEstHvng0w 
+Video length: 	141.7 sec 
+Set (V): 		dev 
+ 
+Giovanni_Ribisi/1fEstHvng0w_0000001 08.2 13.0 
+Giovanni_Ribisi/1fEstHvng0w_0000002 20.5 25.0 
+Giovanni_Ribisi/1fEstHvng0w_0000003 28.4 32.6 
+Giovanni_Ribisi/1fEstHvng0w_0000004 70.2 76.0 

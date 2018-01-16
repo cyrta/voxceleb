@@ -1,0 +1,9 @@
+POI: 			Wesley_Snipes 
+Youtube ID: 	TTXQZ9x4fLs 
+Video length: 	597.6 sec 
+Set (V): 		dev 
+ 
+Wesley_Snipes/TTXQZ9x4fLs_0000001 102.3 108.7 
+Wesley_Snipes/TTXQZ9x4fLs_0000002 109.9 114.7 
+Wesley_Snipes/TTXQZ9x4fLs_0000003 281.2 288.7 
+Wesley_Snipes/TTXQZ9x4fLs_0000004 544.8 554.0 

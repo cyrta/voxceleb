@@ -1,0 +1,14 @@
+POI: 			James_Frain 
+Youtube ID: 	ZOD7Sci418A 
+Video length: 	258.7 sec 
+Set (V): 		dev 
+ 
+James_Frain/ZOD7Sci418A_0000001 39.2 44.8 
+James_Frain/ZOD7Sci418A_0000002 54.0 66.8 
+James_Frain/ZOD7Sci418A_0000003 87.8 92.0 
+James_Frain/ZOD7Sci418A_0000004 93.0 102.1 
+James_Frain/ZOD7Sci418A_0000005 114.6 120.0 
+James_Frain/ZOD7Sci418A_0000006 121.0 127.1 
+James_Frain/ZOD7Sci418A_0000007 154.2 164.1 
+James_Frain/ZOD7Sci418A_0000008 170.8 177.3 
+James_Frain/ZOD7Sci418A_0000009 208.0 219.4 

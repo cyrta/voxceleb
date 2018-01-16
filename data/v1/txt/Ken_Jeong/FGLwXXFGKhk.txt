@@ -1,0 +1,7 @@
+POI: 			Ken_Jeong 
+Youtube ID: 	FGLwXXFGKhk 
+Video length: 	428.1 sec 
+Set (V): 		dev 
+ 
+Ken_Jeong/FGLwXXFGKhk_0000001 232.8 236.9 
+Ken_Jeong/FGLwXXFGKhk_0000002 267.1 272.5 

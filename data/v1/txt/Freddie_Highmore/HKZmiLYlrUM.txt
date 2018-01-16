@@ -1,0 +1,7 @@
+POI: 			Freddie_Highmore 
+Youtube ID: 	HKZmiLYlrUM 
+Video length: 	88.4 sec 
+Set (V): 		dev 
+ 
+Freddie_Highmore/HKZmiLYlrUM_0000001 43.3 48.2 
+Freddie_Highmore/HKZmiLYlrUM_0000002 82.3 86.8 

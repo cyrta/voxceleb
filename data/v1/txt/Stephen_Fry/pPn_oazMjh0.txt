@@ -1,0 +1,10 @@
+POI: 			Stephen_Fry 
+Youtube ID: 	pPn_oazMjh0 
+Video length: 	310.9 sec 
+Set (V): 		dev 
+ 
+Stephen_Fry/pPn_oazMjh0_0000001 63.5 68.8 
+Stephen_Fry/pPn_oazMjh0_0000002 69.2 74.7 
+Stephen_Fry/pPn_oazMjh0_0000003 178.2 186.9 
+Stephen_Fry/pPn_oazMjh0_0000004 231.9 237.3 
+Stephen_Fry/pPn_oazMjh0_0000005 242.1 248.4 

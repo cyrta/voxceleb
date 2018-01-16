@@ -1,0 +1,16 @@
+POI: 			John_Amos 
+Youtube ID: 	xhYt6596Jag 
+Video length: 	168.9 sec 
+Set (V): 		dev 
+ 
+John_Amos/xhYt6596Jag_0000001 06.5 11.0 
+John_Amos/xhYt6596Jag_0000002 26.9 31.7 
+John_Amos/xhYt6596Jag_0000003 36.7 48.7 
+John_Amos/xhYt6596Jag_0000004 49.2 53.9 
+John_Amos/xhYt6596Jag_0000005 60.6 68.4 
+John_Amos/xhYt6596Jag_0000006 82.1 86.6 
+John_Amos/xhYt6596Jag_0000007 96.7 101.4 
+John_Amos/xhYt6596Jag_0000008 106.0 111.9 
+John_Amos/xhYt6596Jag_0000009 113.9 118.0 
+John_Amos/xhYt6596Jag_0000010 120.2 130.8 
+John_Amos/xhYt6596Jag_0000011 132.4 140.2 

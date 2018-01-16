@@ -1,0 +1,17 @@
+POI: 			Gloria_Steinem 
+Youtube ID: 	TFIZ9vWg6EE 
+Video length: 	271.6 sec 
+Set (V): 		dev 
+ 
+Gloria_Steinem/TFIZ9vWg6EE_0000001 01.6 06.2 
+Gloria_Steinem/TFIZ9vWg6EE_0000002 14.4 25.6 
+Gloria_Steinem/TFIZ9vWg6EE_0000003 62.8 68.8 
+Gloria_Steinem/TFIZ9vWg6EE_0000004 94.9 101.4 
+Gloria_Steinem/TFIZ9vWg6EE_0000005 116.0 122.4 
+Gloria_Steinem/TFIZ9vWg6EE_0000006 139.1 148.5 
+Gloria_Steinem/TFIZ9vWg6EE_0000007 153.0 157.6 
+Gloria_Steinem/TFIZ9vWg6EE_0000008 163.4 167.5 
+Gloria_Steinem/TFIZ9vWg6EE_0000009 174.2 182.2 
+Gloria_Steinem/TFIZ9vWg6EE_0000010 208.8 214.6 
+Gloria_Steinem/TFIZ9vWg6EE_0000011 247.0 254.3 
+Gloria_Steinem/TFIZ9vWg6EE_0000012 259.8 266.0 

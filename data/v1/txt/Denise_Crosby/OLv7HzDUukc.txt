@@ -1,0 +1,14 @@
+POI: 			Denise_Crosby 
+Youtube ID: 	OLv7HzDUukc 
+Video length: 	307.4 sec 
+Set (V): 		dev 
+ 
+Denise_Crosby/OLv7HzDUukc_0000001 67.1 73.5 
+Denise_Crosby/OLv7HzDUukc_0000002 83.9 88.0 
+Denise_Crosby/OLv7HzDUukc_0000003 99.0 105.2 
+Denise_Crosby/OLv7HzDUukc_0000004 110.0 119.2 
+Denise_Crosby/OLv7HzDUukc_0000005 120.0 124.2 
+Denise_Crosby/OLv7HzDUukc_0000006 133.9 144.2 
+Denise_Crosby/OLv7HzDUukc_0000007 190.3 194.8 
+Denise_Crosby/OLv7HzDUukc_0000008 242.9 248.0 
+Denise_Crosby/OLv7HzDUukc_0000009 248.7 253.0 

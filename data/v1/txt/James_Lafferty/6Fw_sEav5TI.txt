@@ -1,0 +1,12 @@
+POI: 			James_Lafferty 
+Youtube ID: 	6Fw_sEav5TI 
+Video length: 	299.8 sec 
+Set (V): 		dev 
+ 
+James_Lafferty/6Fw_sEav5TI_0000001 10.0 15.2 
+James_Lafferty/6Fw_sEav5TI_0000002 22.6 27.3 
+James_Lafferty/6Fw_sEav5TI_0000003 86.9 92.8 
+James_Lafferty/6Fw_sEav5TI_0000004 126.1 132.1 
+James_Lafferty/6Fw_sEav5TI_0000005 204.1 208.3 
+James_Lafferty/6Fw_sEav5TI_0000006 237.0 242.2 
+James_Lafferty/6Fw_sEav5TI_0000007 273.8 278.4 

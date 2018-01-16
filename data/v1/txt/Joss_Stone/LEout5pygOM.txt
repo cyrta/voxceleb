@@ -1,0 +1,11 @@
+POI: 			Joss_Stone 
+Youtube ID: 	LEout5pygOM 
+Video length: 	444.5 sec 
+Set (V): 		dev 
+ 
+Joss_Stone/LEout5pygOM_0000001 215.5 239.2 
+Joss_Stone/LEout5pygOM_0000002 340.5 349.3 
+Joss_Stone/LEout5pygOM_0000003 365.8 371.1 
+Joss_Stone/LEout5pygOM_0000004 377.4 388.9 
+Joss_Stone/LEout5pygOM_0000005 400.0 404.3 
+Joss_Stone/LEout5pygOM_0000006 417.5 424.5 

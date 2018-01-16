@@ -1,0 +1,16 @@
+POI: 			Alex_Trebek 
+Youtube ID: 	p3nwMpIe3pg 
+Video length: 	1026.6 sec 
+Set (V): 		dev 
+ 
+Alex_Trebek/p3nwMpIe3pg_0000001 188.6 195.6 
+Alex_Trebek/p3nwMpIe3pg_0000002 407.0 411.2 
+Alex_Trebek/p3nwMpIe3pg_0000003 419.3 423.8 
+Alex_Trebek/p3nwMpIe3pg_0000004 555.5 560.1 
+Alex_Trebek/p3nwMpIe3pg_0000005 571.6 577.0 
+Alex_Trebek/p3nwMpIe3pg_0000006 590.9 597.5 
+Alex_Trebek/p3nwMpIe3pg_0000007 604.0 608.7 
+Alex_Trebek/p3nwMpIe3pg_0000008 609.5 613.6 
+Alex_Trebek/p3nwMpIe3pg_0000009 804.9 808.9 
+Alex_Trebek/p3nwMpIe3pg_0000010 809.7 815.1 
+Alex_Trebek/p3nwMpIe3pg_0000011 809.7 814.9 

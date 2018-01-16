@@ -1,0 +1,8 @@
+POI: 			Jordan_Gavaris 
+Youtube ID: 	m6sEK58bZvU 
+Video length: 	158.8 sec 
+Set (V): 		dev 
+ 
+Jordan_Gavaris/m6sEK58bZvU_0000001 61.6 67.2 
+Jordan_Gavaris/m6sEK58bZvU_0000002 89.1 93.6 
+Jordan_Gavaris/m6sEK58bZvU_0000003 136.2 146.4 

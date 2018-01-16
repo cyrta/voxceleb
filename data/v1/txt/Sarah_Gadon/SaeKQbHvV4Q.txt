@@ -1,0 +1,11 @@
+POI: 			Sarah_Gadon 
+Youtube ID: 	SaeKQbHvV4Q 
+Video length: 	609.3 sec 
+Set (V): 		dev 
+ 
+Sarah_Gadon/SaeKQbHvV4Q_0000001 41.1 52.8 
+Sarah_Gadon/SaeKQbHvV4Q_0000002 53.4 62.0 
+Sarah_Gadon/SaeKQbHvV4Q_0000003 154.4 171.4 
+Sarah_Gadon/SaeKQbHvV4Q_0000004 172.9 180.5 
+Sarah_Gadon/SaeKQbHvV4Q_0000005 425.7 429.7 
+Sarah_Gadon/SaeKQbHvV4Q_0000006 431.7 468.9 

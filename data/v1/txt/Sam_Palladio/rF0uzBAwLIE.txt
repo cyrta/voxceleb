@@ -1,0 +1,10 @@
+POI: 			Sam_Palladio 
+Youtube ID: 	rF0uzBAwLIE 
+Video length: 	357.0 sec 
+Set (V): 		dev 
+ 
+Sam_Palladio/rF0uzBAwLIE_0000001 58.2 63.4 
+Sam_Palladio/rF0uzBAwLIE_0000002 72.6 79.5 
+Sam_Palladio/rF0uzBAwLIE_0000003 82.6 94.8 
+Sam_Palladio/rF0uzBAwLIE_0000004 97.8 106.3 
+Sam_Palladio/rF0uzBAwLIE_0000005 138.1 145.9 

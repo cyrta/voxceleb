@@ -1,0 +1,33 @@
+POI: 			Marla_Gibbs 
+Youtube ID: 	DCMWL-rM_jY 
+Video length: 	313.3 sec 
+Set (V): 		dev 
+ 
+Marla_Gibbs/DCMWL-rM_jY_0000001 06.0 10.3 
+Marla_Gibbs/DCMWL-rM_jY_0000002 14.8 18.9 
+Marla_Gibbs/DCMWL-rM_jY_0000003 19.3 27.9 
+Marla_Gibbs/DCMWL-rM_jY_0000004 29.0 40.5 
+Marla_Gibbs/DCMWL-rM_jY_0000005 41.0 53.6 
+Marla_Gibbs/DCMWL-rM_jY_0000006 58.8 65.9 
+Marla_Gibbs/DCMWL-rM_jY_0000007 78.4 83.0 
+Marla_Gibbs/DCMWL-rM_jY_0000008 102.2 107.4 
+Marla_Gibbs/DCMWL-rM_jY_0000009 107.6 130.2 
+Marla_Gibbs/DCMWL-rM_jY_0000010 130.7 135.4 
+Marla_Gibbs/DCMWL-rM_jY_0000011 137.6 150.9 
+Marla_Gibbs/DCMWL-rM_jY_0000012 151.7 159.8 
+Marla_Gibbs/DCMWL-rM_jY_0000013 164.4 168.9 
+Marla_Gibbs/DCMWL-rM_jY_0000014 170.1 175.6 
+Marla_Gibbs/DCMWL-rM_jY_0000015 186.0 192.0 
+Marla_Gibbs/DCMWL-rM_jY_0000016 193.1 200.3 
+Marla_Gibbs/DCMWL-rM_jY_0000017 201.4 211.5 
+Marla_Gibbs/DCMWL-rM_jY_0000018 212.6 216.8 
+Marla_Gibbs/DCMWL-rM_jY_0000019 218.7 224.0 
+Marla_Gibbs/DCMWL-rM_jY_0000020 226.7 231.1 
+Marla_Gibbs/DCMWL-rM_jY_0000021 234.1 243.2 
+Marla_Gibbs/DCMWL-rM_jY_0000022 106.6 111.0 
+Marla_Gibbs/DCMWL-rM_jY_0000023 253.6 259.4 
+Marla_Gibbs/DCMWL-rM_jY_0000024 264.2 271.4 
+Marla_Gibbs/DCMWL-rM_jY_0000025 272.4 278.4 
+Marla_Gibbs/DCMWL-rM_jY_0000026 280.3 286.4 
+Marla_Gibbs/DCMWL-rM_jY_0000027 287.0 294.3 
+Marla_Gibbs/DCMWL-rM_jY_0000028 299.1 304.2 

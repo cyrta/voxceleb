@@ -1,0 +1,9 @@
+POI: 			Marisa_Miller 
+Youtube ID: 	clYPbCcTl2M 
+Video length: 	178.5 sec 
+Set (V): 		dev 
+ 
+Marisa_Miller/clYPbCcTl2M_0000001 42.9 72.8 
+Marisa_Miller/clYPbCcTl2M_0000002 80.2 102.4 
+Marisa_Miller/clYPbCcTl2M_0000003 124.8 142.1 
+Marisa_Miller/clYPbCcTl2M_0000004 142.2 146.5 

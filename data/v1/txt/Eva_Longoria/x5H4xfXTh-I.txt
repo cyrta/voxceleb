@@ -1,0 +1,7 @@
+POI: 			Eva_Longoria 
+Youtube ID: 	x5H4xfXTh-I 
+Video length: 	163.4 sec 
+Set (V): 		test 
+ 
+Eva_Longoria/x5H4xfXTh-I_0000001 37.8 43.2 
+Eva_Longoria/x5H4xfXTh-I_0000002 70.9 76.5 

@@ -1,0 +1,14 @@
+POI: 			Seth_Rogen 
+Youtube ID: 	RJKreNUqluw 
+Video length: 	757.5 sec 
+Set (V): 		dev 
+ 
+Seth_Rogen/RJKreNUqluw_0000001 108.6 114.1 
+Seth_Rogen/RJKreNUqluw_0000002 126.7 133.8 
+Seth_Rogen/RJKreNUqluw_0000003 178.5 183.6 
+Seth_Rogen/RJKreNUqluw_0000004 271.3 279.6 
+Seth_Rogen/RJKreNUqluw_0000005 280.1 284.4 
+Seth_Rogen/RJKreNUqluw_0000006 410.0 414.1 
+Seth_Rogen/RJKreNUqluw_0000007 418.5 423.8 
+Seth_Rogen/RJKreNUqluw_0000008 548.9 556.0 
+Seth_Rogen/RJKreNUqluw_0000009 572.6 578.0 

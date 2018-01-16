@@ -1,0 +1,12 @@
+POI: 			Matt_Bomer 
+Youtube ID: 	FEjsPtowvcI 
+Video length: 	113.3 sec 
+Set (V): 		dev 
+ 
+Matt_Bomer/FEjsPtowvcI_0000001 07.4 29.6 
+Matt_Bomer/FEjsPtowvcI_0000002 31.0 38.8 
+Matt_Bomer/FEjsPtowvcI_0000003 39.7 48.1 
+Matt_Bomer/FEjsPtowvcI_0000004 51.8 71.3 
+Matt_Bomer/FEjsPtowvcI_0000005 72.0 78.6 
+Matt_Bomer/FEjsPtowvcI_0000006 82.2 90.6 
+Matt_Bomer/FEjsPtowvcI_0000007 98.4 109.4 

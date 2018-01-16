@@ -1,0 +1,22 @@
+POI: 			Vicky_McClure 
+Youtube ID: 	REYyARrlYbI 
+Video length: 	309.3 sec 
+Set (V): 		dev 
+ 
+Vicky_McClure/REYyARrlYbI_0000001 06.7 15.0 
+Vicky_McClure/REYyARrlYbI_0000002 38.9 46.0 
+Vicky_McClure/REYyARrlYbI_0000003 59.8 68.0 
+Vicky_McClure/REYyARrlYbI_0000004 70.6 77.1 
+Vicky_McClure/REYyARrlYbI_0000005 88.2 93.2 
+Vicky_McClure/REYyARrlYbI_0000006 103.8 109.2 
+Vicky_McClure/REYyARrlYbI_0000007 115.2 133.6 
+Vicky_McClure/REYyARrlYbI_0000008 133.9 138.4 
+Vicky_McClure/REYyARrlYbI_0000009 157.2 161.9 
+Vicky_McClure/REYyARrlYbI_0000010 162.5 168.6 
+Vicky_McClure/REYyARrlYbI_0000011 180.1 184.7 
+Vicky_McClure/REYyARrlYbI_0000012 198.2 204.9 
+Vicky_McClure/REYyARrlYbI_0000013 207.0 218.3 
+Vicky_McClure/REYyARrlYbI_0000014 220.9 228.4 
+Vicky_McClure/REYyARrlYbI_0000015 229.2 234.1 
+Vicky_McClure/REYyARrlYbI_0000016 257.4 261.9 
+Vicky_McClure/REYyARrlYbI_0000017 263.8 283.2 

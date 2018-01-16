@@ -1,0 +1,10 @@
+POI: 			Shraddha_Kapoor 
+Youtube ID: 	uM_RQOmCVxo 
+Video length: 	460.5 sec 
+Set (V): 		dev 
+ 
+Shraddha_Kapoor/uM_RQOmCVxo_0000001 234.9 242.8 
+Shraddha_Kapoor/uM_RQOmCVxo_0000002 249.7 254.0 
+Shraddha_Kapoor/uM_RQOmCVxo_0000003 306.4 311.0 
+Shraddha_Kapoor/uM_RQOmCVxo_0000004 368.4 374.4 
+Shraddha_Kapoor/uM_RQOmCVxo_0000005 426.0 432.6 

@@ -1,0 +1,8 @@
+POI: 			Adam_Copeland 
+Youtube ID: 	UzGMFpIv-ss 
+Video length: 	78.8 sec 
+Set (V): 		dev 
+ 
+Adam_Copeland/UzGMFpIv-ss_0000001 09.9 34.1 
+Adam_Copeland/UzGMFpIv-ss_0000002 39.6 56.6 
+Adam_Copeland/UzGMFpIv-ss_0000003 58.1 64.8 

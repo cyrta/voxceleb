@@ -1,0 +1,25 @@
+POI: 			Amaury_Nolasco 
+Youtube ID: 	vVKV04EwOEc 
+Video length: 	319.0 sec 
+Set (V): 		dev 
+ 
+Amaury_Nolasco/vVKV04EwOEc_0000001 17.4 28.4 
+Amaury_Nolasco/vVKV04EwOEc_0000002 29.0 38.4 
+Amaury_Nolasco/vVKV04EwOEc_0000003 43.3 51.7 
+Amaury_Nolasco/vVKV04EwOEc_0000004 52.5 56.5 
+Amaury_Nolasco/vVKV04EwOEc_0000005 57.7 67.0 
+Amaury_Nolasco/vVKV04EwOEc_0000006 77.0 84.0 
+Amaury_Nolasco/vVKV04EwOEc_0000007 95.1 106.9 
+Amaury_Nolasco/vVKV04EwOEc_0000008 110.4 117.2 
+Amaury_Nolasco/vVKV04EwOEc_0000009 119.5 125.2 
+Amaury_Nolasco/vVKV04EwOEc_0000010 143.9 159.8 
+Amaury_Nolasco/vVKV04EwOEc_0000011 166.3 171.0 
+Amaury_Nolasco/vVKV04EwOEc_0000012 171.1 176.5 
+Amaury_Nolasco/vVKV04EwOEc_0000013 176.6 184.9 
+Amaury_Nolasco/vVKV04EwOEc_0000014 209.6 213.8 
+Amaury_Nolasco/vVKV04EwOEc_0000015 227.2 249.5 
+Amaury_Nolasco/vVKV04EwOEc_0000016 250.9 261.4 
+Amaury_Nolasco/vVKV04EwOEc_0000017 265.4 274.4 
+Amaury_Nolasco/vVKV04EwOEc_0000018 275.4 281.4 
+Amaury_Nolasco/vVKV04EwOEc_0000019 285.4 301.3 
+Amaury_Nolasco/vVKV04EwOEc_0000020 306.7 314.4 

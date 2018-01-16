@@ -1,0 +1,8 @@
+POI: 			Michael_Madsen 
+Youtube ID: 	2chYvjARbqI 
+Video length: 	283.9 sec 
+Set (V): 		dev 
+ 
+Michael_Madsen/2chYvjARbqI_0000001 17.2 22.2 
+Michael_Madsen/2chYvjARbqI_0000002 23.1 27.2 
+Michael_Madsen/2chYvjARbqI_0000003 53.7 62.5 

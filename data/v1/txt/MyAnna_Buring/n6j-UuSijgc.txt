@@ -1,0 +1,23 @@
+POI: 			MyAnna_Buring 
+Youtube ID: 	n6j-UuSijgc 
+Video length: 	363.3 sec 
+Set (V): 		dev 
+ 
+MyAnna_Buring/n6j-UuSijgc_0000001 14.2 50.0 
+MyAnna_Buring/n6j-UuSijgc_0000002 73.8 99.7 
+MyAnna_Buring/n6j-UuSijgc_0000003 103.0 107.9 
+MyAnna_Buring/n6j-UuSijgc_0000004 124.4 147.4 
+MyAnna_Buring/n6j-UuSijgc_0000005 148.1 152.4 
+MyAnna_Buring/n6j-UuSijgc_0000006 153.0 164.4 
+MyAnna_Buring/n6j-UuSijgc_0000007 167.3 183.6 
+MyAnna_Buring/n6j-UuSijgc_0000008 184.4 193.3 
+MyAnna_Buring/n6j-UuSijgc_0000009 206.2 212.3 
+MyAnna_Buring/n6j-UuSijgc_0000010 213.9 220.4 
+MyAnna_Buring/n6j-UuSijgc_0000011 220.5 235.2 
+MyAnna_Buring/n6j-UuSijgc_0000012 235.2 245.4 
+MyAnna_Buring/n6j-UuSijgc_0000013 245.6 264.8 
+MyAnna_Buring/n6j-UuSijgc_0000014 282.6 291.8 
+MyAnna_Buring/n6j-UuSijgc_0000015 302.6 309.0 
+MyAnna_Buring/n6j-UuSijgc_0000016 309.5 315.0 
+MyAnna_Buring/n6j-UuSijgc_0000017 318.8 334.0 
+MyAnna_Buring/n6j-UuSijgc_0000018 343.6 356.3 

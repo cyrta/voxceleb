@@ -1,0 +1,20 @@
+POI: 			Douglas_Booth 
+Youtube ID: 	iy8TtnhkE4o 
+Video length: 	370.5 sec 
+Set (V): 		dev 
+ 
+Douglas_Booth/iy8TtnhkE4o_0000001 35.2 48.6 
+Douglas_Booth/iy8TtnhkE4o_0000002 49.3 55.6 
+Douglas_Booth/iy8TtnhkE4o_0000003 73.9 86.0 
+Douglas_Booth/iy8TtnhkE4o_0000004 110.6 122.4 
+Douglas_Booth/iy8TtnhkE4o_0000005 146.0 150.0 
+Douglas_Booth/iy8TtnhkE4o_0000006 175.9 196.0 
+Douglas_Booth/iy8TtnhkE4o_0000007 211.4 216.6 
+Douglas_Booth/iy8TtnhkE4o_0000008 217.2 221.1 
+Douglas_Booth/iy8TtnhkE4o_0000009 226.0 234.1 
+Douglas_Booth/iy8TtnhkE4o_0000010 235.6 248.9 
+Douglas_Booth/iy8TtnhkE4o_0000011 270.2 275.9 
+Douglas_Booth/iy8TtnhkE4o_0000012 300.8 308.0 
+Douglas_Booth/iy8TtnhkE4o_0000013 308.1 314.4 
+Douglas_Booth/iy8TtnhkE4o_0000014 316.4 335.9 
+Douglas_Booth/iy8TtnhkE4o_0000015 354.8 361.2 

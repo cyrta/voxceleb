@@ -1,0 +1,8 @@
+POI: 			Eoin_Macken 
+Youtube ID: 	CvoEw4AJj6c 
+Video length: 	71.0 sec 
+Set (V): 		test 
+ 
+Eoin_Macken/CvoEw4AJj6c_0000001 06.0 11.1 
+Eoin_Macken/CvoEw4AJj6c_0000002 28.0 32.3 
+Eoin_Macken/CvoEw4AJj6c_0000003 36.2 46.6 

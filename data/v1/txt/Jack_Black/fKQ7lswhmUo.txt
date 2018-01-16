@@ -1,0 +1,14 @@
+POI: 			Jack_Black 
+Youtube ID: 	fKQ7lswhmUo 
+Video length: 	219.0 sec 
+Set (V): 		dev 
+ 
+Jack_Black/fKQ7lswhmUo_0000001 27.2 39.9 
+Jack_Black/fKQ7lswhmUo_0000002 64.8 72.9 
+Jack_Black/fKQ7lswhmUo_0000003 76.8 85.6 
+Jack_Black/fKQ7lswhmUo_0000004 101.1 105.1 
+Jack_Black/fKQ7lswhmUo_0000005 121.7 130.4 
+Jack_Black/fKQ7lswhmUo_0000006 134.9 144.2 
+Jack_Black/fKQ7lswhmUo_0000007 148.6 153.4 
+Jack_Black/fKQ7lswhmUo_0000008 161.6 174.3 
+Jack_Black/fKQ7lswhmUo_0000009 175.8 185.0 

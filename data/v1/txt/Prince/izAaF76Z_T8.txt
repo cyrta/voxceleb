@@ -1,0 +1,11 @@
+POI: 			Prince 
+Youtube ID: 	izAaF76Z_T8 
+Video length: 	330.5 sec 
+Set (V): 		dev 
+ 
+Prince/izAaF76Z_T8_0000001 83.0 95.6 
+Prince/izAaF76Z_T8_0000002 95.8 104.6 
+Prince/izAaF76Z_T8_0000003 136.3 141.6 
+Prince/izAaF76Z_T8_0000004 141.8 146.6 
+Prince/izAaF76Z_T8_0000005 167.9 174.1 
+Prince/izAaF76Z_T8_0000006 220.6 229.0 

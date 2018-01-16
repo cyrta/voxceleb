@@ -1,0 +1,30 @@
+POI: 			James_Cosmo 
+Youtube ID: 	uR5vNHfIDbw 
+Video length: 	443.8 sec 
+Set (V): 		dev 
+ 
+James_Cosmo/uR5vNHfIDbw_0000001 15.2 33.5 
+James_Cosmo/uR5vNHfIDbw_0000002 49.6 54.8 
+James_Cosmo/uR5vNHfIDbw_0000003 55.3 68.1 
+James_Cosmo/uR5vNHfIDbw_0000004 73.8 84.6 
+James_Cosmo/uR5vNHfIDbw_0000005 89.2 98.6 
+James_Cosmo/uR5vNHfIDbw_0000006 110.7 122.0 
+James_Cosmo/uR5vNHfIDbw_0000007 126.6 131.4 
+James_Cosmo/uR5vNHfIDbw_0000008 148.4 164.0 
+James_Cosmo/uR5vNHfIDbw_0000009 170.7 179.9 
+James_Cosmo/uR5vNHfIDbw_0000010 180.1 198.6 
+James_Cosmo/uR5vNHfIDbw_0000011 201.4 206.5 
+James_Cosmo/uR5vNHfIDbw_0000012 218.4 225.7 
+James_Cosmo/uR5vNHfIDbw_0000013 233.2 238.1 
+James_Cosmo/uR5vNHfIDbw_0000014 226.4 231.2 
+James_Cosmo/uR5vNHfIDbw_0000015 233.9 239.7 
+James_Cosmo/uR5vNHfIDbw_0000016 269.8 279.5 
+James_Cosmo/uR5vNHfIDbw_0000017 288.1 296.2 
+James_Cosmo/uR5vNHfIDbw_0000018 326.9 332.3 
+James_Cosmo/uR5vNHfIDbw_0000019 343.7 349.9 
+James_Cosmo/uR5vNHfIDbw_0000020 352.3 362.4 
+James_Cosmo/uR5vNHfIDbw_0000021 362.9 369.6 
+James_Cosmo/uR5vNHfIDbw_0000022 380.5 386.0 
+James_Cosmo/uR5vNHfIDbw_0000023 386.7 394.4 
+James_Cosmo/uR5vNHfIDbw_0000024 414.6 419.0 
+James_Cosmo/uR5vNHfIDbw_0000025 431.6 436.7 

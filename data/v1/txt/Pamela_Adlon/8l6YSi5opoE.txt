@@ -1,0 +1,13 @@
+POI: 			Pamela_Adlon 
+Youtube ID: 	8l6YSi5opoE 
+Video length: 	169.7 sec 
+Set (V): 		dev 
+ 
+Pamela_Adlon/8l6YSi5opoE_0000001 01.1 05.2 
+Pamela_Adlon/8l6YSi5opoE_0000002 20.2 24.7 
+Pamela_Adlon/8l6YSi5opoE_0000003 40.5 47.5 
+Pamela_Adlon/8l6YSi5opoE_0000004 57.9 63.8 
+Pamela_Adlon/8l6YSi5opoE_0000005 92.1 98.0 
+Pamela_Adlon/8l6YSi5opoE_0000006 98.5 109.5 
+Pamela_Adlon/8l6YSi5opoE_0000007 126.9 131.6 
+Pamela_Adlon/8l6YSi5opoE_0000008 141.2 153.0 

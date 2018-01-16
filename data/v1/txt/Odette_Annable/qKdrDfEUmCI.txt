@@ -1,0 +1,11 @@
+POI: 			Odette_Annable 
+Youtube ID: 	qKdrDfEUmCI 
+Video length: 	313.2 sec 
+Set (V): 		dev 
+ 
+Odette_Annable/qKdrDfEUmCI_0000001 66.1 70.2 
+Odette_Annable/qKdrDfEUmCI_0000002 76.9 81.0 
+Odette_Annable/qKdrDfEUmCI_0000003 94.8 98.9 
+Odette_Annable/qKdrDfEUmCI_0000004 132.3 140.2 
+Odette_Annable/qKdrDfEUmCI_0000005 231.4 238.7 
+Odette_Annable/qKdrDfEUmCI_0000006 256.9 263.2 

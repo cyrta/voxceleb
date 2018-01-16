@@ -1,0 +1,11 @@
+POI: 			Yeardley_Smith 
+Youtube ID: 	dartGgfH2dc 
+Video length: 	122.7 sec 
+Set (V): 		dev 
+ 
+Yeardley_Smith/dartGgfH2dc_0000001 01.2 05.2 
+Yeardley_Smith/dartGgfH2dc_0000002 24.1 28.6 
+Yeardley_Smith/dartGgfH2dc_0000003 41.9 50.3 
+Yeardley_Smith/dartGgfH2dc_0000004 70.5 76.2 
+Yeardley_Smith/dartGgfH2dc_0000005 81.3 89.6 
+Yeardley_Smith/dartGgfH2dc_0000006 90.7 96.7 

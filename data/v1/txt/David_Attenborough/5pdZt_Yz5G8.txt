@@ -1,0 +1,13 @@
+POI: 			David_Attenborough 
+Youtube ID: 	5pdZt_Yz5G8 
+Video length: 	716.7 sec 
+Set (V): 		dev 
+ 
+David_Attenborough/5pdZt_Yz5G8_0000001 126.5 130.5 
+David_Attenborough/5pdZt_Yz5G8_0000002 135.8 141.7 
+David_Attenborough/5pdZt_Yz5G8_0000003 454.2 459.6 
+David_Attenborough/5pdZt_Yz5G8_0000004 492.6 497.9 
+David_Attenborough/5pdZt_Yz5G8_0000005 512.4 517.4 
+David_Attenborough/5pdZt_Yz5G8_0000006 541.4 545.7 
+David_Attenborough/5pdZt_Yz5G8_0000007 661.7 666.3 
+David_Attenborough/5pdZt_Yz5G8_0000008 691.4 697.0 

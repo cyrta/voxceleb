@@ -1,0 +1,10 @@
+POI: 			Linda_Gray 
+Youtube ID: 	eEp-5h9r52k 
+Video length: 	243.9 sec 
+Set (V): 		dev 
+ 
+Linda_Gray/eEp-5h9r52k_0000001 37.3 43.4 
+Linda_Gray/eEp-5h9r52k_0000002 47.6 51.6 
+Linda_Gray/eEp-5h9r52k_0000003 124.7 128.8 
+Linda_Gray/eEp-5h9r52k_0000004 173.6 179.0 
+Linda_Gray/eEp-5h9r52k_0000005 202.1 207.8 

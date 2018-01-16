@@ -1,0 +1,26 @@
+POI: 			Rachel_McAdams 
+Youtube ID: 	dn1JNgHzyZg 
+Video length: 	391.6 sec 
+Set (V): 		dev 
+ 
+Rachel_McAdams/dn1JNgHzyZg_0000001 12.4 36.5 
+Rachel_McAdams/dn1JNgHzyZg_0000002 50.2 71.6 
+Rachel_McAdams/dn1JNgHzyZg_0000003 86.4 103.9 
+Rachel_McAdams/dn1JNgHzyZg_0000004 115.3 122.7 
+Rachel_McAdams/dn1JNgHzyZg_0000005 125.8 139.0 
+Rachel_McAdams/dn1JNgHzyZg_0000006 139.2 147.2 
+Rachel_McAdams/dn1JNgHzyZg_0000007 148.3 157.9 
+Rachel_McAdams/dn1JNgHzyZg_0000008 173.5 202.0 
+Rachel_McAdams/dn1JNgHzyZg_0000009 203.0 208.5 
+Rachel_McAdams/dn1JNgHzyZg_0000010 227.1 232.4 
+Rachel_McAdams/dn1JNgHzyZg_0000011 233.1 248.8 
+Rachel_McAdams/dn1JNgHzyZg_0000012 244.6 258.8 
+Rachel_McAdams/dn1JNgHzyZg_0000013 267.3 274.9 
+Rachel_McAdams/dn1JNgHzyZg_0000014 275.7 283.1 
+Rachel_McAdams/dn1JNgHzyZg_0000015 297.9 308.4 
+Rachel_McAdams/dn1JNgHzyZg_0000016 310.2 316.2 
+Rachel_McAdams/dn1JNgHzyZg_0000017 318.4 323.5 
+Rachel_McAdams/dn1JNgHzyZg_0000018 334.8 341.1 
+Rachel_McAdams/dn1JNgHzyZg_0000019 356.6 360.8 
+Rachel_McAdams/dn1JNgHzyZg_0000020 308.8 323.5 
+Rachel_McAdams/dn1JNgHzyZg_0000021 334.8 341.2 

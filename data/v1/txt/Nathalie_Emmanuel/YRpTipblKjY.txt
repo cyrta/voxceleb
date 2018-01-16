@@ -1,0 +1,10 @@
+POI: 			Nathalie_Emmanuel 
+Youtube ID: 	YRpTipblKjY 
+Video length: 	358.5 sec 
+Set (V): 		dev 
+ 
+Nathalie_Emmanuel/YRpTipblKjY_0000001 113.1 119.6 
+Nathalie_Emmanuel/YRpTipblKjY_0000002 119.9 125.2 
+Nathalie_Emmanuel/YRpTipblKjY_0000003 131.7 136.2 
+Nathalie_Emmanuel/YRpTipblKjY_0000004 136.5 141.1 
+Nathalie_Emmanuel/YRpTipblKjY_0000005 143.9 149.1 

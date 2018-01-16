@@ -1,0 +1,7 @@
+POI: 			David_Schwimmer 
+Youtube ID: 	7UGQqMcW8tE 
+Video length: 	119.9 sec 
+Set (V): 		dev 
+ 
+David_Schwimmer/7UGQqMcW8tE_0000001 11.0 15.6 
+David_Schwimmer/7UGQqMcW8tE_0000002 56.4 62.1 

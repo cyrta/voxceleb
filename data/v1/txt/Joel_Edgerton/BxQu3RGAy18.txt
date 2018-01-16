@@ -1,0 +1,15 @@
+POI: 			Joel_Edgerton 
+Youtube ID: 	BxQu3RGAy18 
+Video length: 	258.6 sec 
+Set (V): 		dev 
+ 
+Joel_Edgerton/BxQu3RGAy18_0000001 12.1 30.7 
+Joel_Edgerton/BxQu3RGAy18_0000002 31.6 42.3 
+Joel_Edgerton/BxQu3RGAy18_0000003 45.7 50.3 
+Joel_Edgerton/BxQu3RGAy18_0000004 65.2 73.8 
+Joel_Edgerton/BxQu3RGAy18_0000005 140.4 145.5 
+Joel_Edgerton/BxQu3RGAy18_0000006 179.3 186.6 
+Joel_Edgerton/BxQu3RGAy18_0000007 187.2 193.4 
+Joel_Edgerton/BxQu3RGAy18_0000008 198.4 209.3 
+Joel_Edgerton/BxQu3RGAy18_0000009 228.2 243.3 
+Joel_Edgerton/BxQu3RGAy18_0000010 246.0 251.3 

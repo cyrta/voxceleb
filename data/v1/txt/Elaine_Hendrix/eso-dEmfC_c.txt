@@ -1,0 +1,11 @@
+POI: 			Elaine_Hendrix 
+Youtube ID: 	eso-dEmfC_c 
+Video length: 	369.0 sec 
+Set (V): 		test 
+ 
+Elaine_Hendrix/eso-dEmfC_c_0000001 80.2 86.7 
+Elaine_Hendrix/eso-dEmfC_c_0000002 169.5 177.0 
+Elaine_Hendrix/eso-dEmfC_c_0000003 204.4 217.7 
+Elaine_Hendrix/eso-dEmfC_c_0000004 233.0 242.2 
+Elaine_Hendrix/eso-dEmfC_c_0000005 259.1 274.3 
+Elaine_Hendrix/eso-dEmfC_c_0000006 356.6 360.9 

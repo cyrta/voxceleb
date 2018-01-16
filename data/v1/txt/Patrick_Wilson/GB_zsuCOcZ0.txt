@@ -1,0 +1,11 @@
+POI: 			Patrick_Wilson 
+Youtube ID: 	GB_zsuCOcZ0 
+Video length: 	278.5 sec 
+Set (V): 		dev 
+ 
+Patrick_Wilson/GB_zsuCOcZ0_0000001 61.9 109.4 
+Patrick_Wilson/GB_zsuCOcZ0_0000002 76.6 109.5 
+Patrick_Wilson/GB_zsuCOcZ0_0000003 155.9 160.8 
+Patrick_Wilson/GB_zsuCOcZ0_0000004 168.2 213.4 
+Patrick_Wilson/GB_zsuCOcZ0_0000005 213.7 237.4 
+Patrick_Wilson/GB_zsuCOcZ0_0000006 251.4 264.9 

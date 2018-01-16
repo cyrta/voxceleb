@@ -1,0 +1,7 @@
+POI: 			James_Purefoy 
+Youtube ID: 	6jMa7Bzz32s 
+Video length: 	73.7 sec 
+Set (V): 		dev 
+ 
+James_Purefoy/6jMa7Bzz32s_0000001 24.5 33.1 
+James_Purefoy/6jMa7Bzz32s_0000002 33.4 39.8 

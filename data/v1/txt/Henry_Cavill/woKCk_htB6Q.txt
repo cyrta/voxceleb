@@ -1,0 +1,10 @@
+POI: 			Henry_Cavill 
+Youtube ID: 	woKCk_htB6Q 
+Video length: 	149.7 sec 
+Set (V): 		dev 
+ 
+Henry_Cavill/woKCk_htB6Q_0000001 43.6 53.9 
+Henry_Cavill/woKCk_htB6Q_0000002 62.1 82.6 
+Henry_Cavill/woKCk_htB6Q_0000003 84.9 91.6 
+Henry_Cavill/woKCk_htB6Q_0000004 101.0 107.4 
+Henry_Cavill/woKCk_htB6Q_0000005 109.2 117.3 

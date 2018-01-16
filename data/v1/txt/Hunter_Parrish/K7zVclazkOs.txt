@@ -1,0 +1,11 @@
+POI: 			Hunter_Parrish 
+Youtube ID: 	K7zVclazkOs 
+Video length: 	390.8 sec 
+Set (V): 		dev 
+ 
+Hunter_Parrish/K7zVclazkOs_0000001 198.5 203.4 
+Hunter_Parrish/K7zVclazkOs_0000002 204.4 210.5 
+Hunter_Parrish/K7zVclazkOs_0000003 224.5 231.1 
+Hunter_Parrish/K7zVclazkOs_0000004 290.6 295.6 
+Hunter_Parrish/K7zVclazkOs_0000005 299.3 306.8 
+Hunter_Parrish/K7zVclazkOs_0000006 333.9 338.3 

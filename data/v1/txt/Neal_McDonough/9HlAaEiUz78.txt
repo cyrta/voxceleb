@@ -1,0 +1,19 @@
+POI: 			Neal_McDonough 
+Youtube ID: 	9HlAaEiUz78 
+Video length: 	222.1 sec 
+Set (V): 		dev 
+ 
+Neal_McDonough/9HlAaEiUz78_0000001 03.1 10.4 
+Neal_McDonough/9HlAaEiUz78_0000002 12.1 22.5 
+Neal_McDonough/9HlAaEiUz78_0000003 23.3 34.4 
+Neal_McDonough/9HlAaEiUz78_0000004 35.2 42.5 
+Neal_McDonough/9HlAaEiUz78_0000005 44.2 55.5 
+Neal_McDonough/9HlAaEiUz78_0000006 80.0 96.0 
+Neal_McDonough/9HlAaEiUz78_0000007 105.8 110.1 
+Neal_McDonough/9HlAaEiUz78_0000008 137.6 141.8 
+Neal_McDonough/9HlAaEiUz78_0000009 143.4 147.5 
+Neal_McDonough/9HlAaEiUz78_0000010 155.9 162.9 
+Neal_McDonough/9HlAaEiUz78_0000011 164.0 168.4 
+Neal_McDonough/9HlAaEiUz78_0000012 172.5 176.9 
+Neal_McDonough/9HlAaEiUz78_0000013 182.0 189.7 
+Neal_McDonough/9HlAaEiUz78_0000014 214.4 219.4 

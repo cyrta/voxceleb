@@ -1,0 +1,12 @@
+POI: 			Gloria_Steinem 
+Youtube ID: 	fvDz-WCUv20 
+Video length: 	159.2 sec 
+Set (V): 		dev 
+ 
+Gloria_Steinem/fvDz-WCUv20_0000001 07.6 13.3 
+Gloria_Steinem/fvDz-WCUv20_0000002 30.0 41.6 
+Gloria_Steinem/fvDz-WCUv20_0000003 75.1 81.6 
+Gloria_Steinem/fvDz-WCUv20_0000004 85.1 90.0 
+Gloria_Steinem/fvDz-WCUv20_0000005 94.7 100.5 
+Gloria_Steinem/fvDz-WCUv20_0000006 105.0 109.2 
+Gloria_Steinem/fvDz-WCUv20_0000007 109.5 127.4 

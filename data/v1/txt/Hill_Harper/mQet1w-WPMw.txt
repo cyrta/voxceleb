@@ -1,0 +1,8 @@
+POI: 			Hill_Harper 
+Youtube ID: 	mQet1w-WPMw 
+Video length: 	298.6 sec 
+Set (V): 		dev 
+ 
+Hill_Harper/mQet1w-WPMw_0000001 36.2 59.4 
+Hill_Harper/mQet1w-WPMw_0000002 71.6 79.4 
+Hill_Harper/mQet1w-WPMw_0000003 178.6 203.2 

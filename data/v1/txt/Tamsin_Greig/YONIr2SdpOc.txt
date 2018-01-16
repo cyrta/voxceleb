@@ -1,0 +1,13 @@
+POI: 			Tamsin_Greig 
+Youtube ID: 	YONIr2SdpOc 
+Video length: 	197.5 sec 
+Set (V): 		dev 
+ 
+Tamsin_Greig/YONIr2SdpOc_0000001 14.0 22.0 
+Tamsin_Greig/YONIr2SdpOc_0000002 30.0 47.9 
+Tamsin_Greig/YONIr2SdpOc_0000003 75.7 82.5 
+Tamsin_Greig/YONIr2SdpOc_0000004 96.1 105.7 
+Tamsin_Greig/YONIr2SdpOc_0000005 122.2 129.2 
+Tamsin_Greig/YONIr2SdpOc_0000006 129.6 145.1 
+Tamsin_Greig/YONIr2SdpOc_0000007 146.1 154.3 
+Tamsin_Greig/YONIr2SdpOc_0000008 167.4 184.8 

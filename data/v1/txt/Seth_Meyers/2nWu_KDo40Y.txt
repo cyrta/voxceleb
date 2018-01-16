@@ -1,0 +1,11 @@
+POI: 			Seth_Meyers 
+Youtube ID: 	2nWu_KDo40Y 
+Video length: 	143.9 sec 
+Set (V): 		dev 
+ 
+Seth_Meyers/2nWu_KDo40Y_0000001 29.4 49.2 
+Seth_Meyers/2nWu_KDo40Y_0000002 58.2 63.3 
+Seth_Meyers/2nWu_KDo40Y_0000003 83.2 88.6 
+Seth_Meyers/2nWu_KDo40Y_0000004 104.5 109.1 
+Seth_Meyers/2nWu_KDo40Y_0000005 119.0 124.4 
+Seth_Meyers/2nWu_KDo40Y_0000006 125.6 136.2 

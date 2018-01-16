@@ -1,0 +1,8 @@
+POI: 			John_Hurt 
+Youtube ID: 	kRbatJ3U2Yo 
+Video length: 	600.1 sec 
+Set (V): 		dev 
+ 
+John_Hurt/kRbatJ3U2Yo_0000001 309.2 313.4 
+John_Hurt/kRbatJ3U2Yo_0000002 335.8 341.3 
+John_Hurt/kRbatJ3U2Yo_0000003 571.2 575.8 

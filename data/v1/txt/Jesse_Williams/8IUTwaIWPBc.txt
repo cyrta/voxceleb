@@ -1,0 +1,16 @@
+POI: 			Jesse_Williams 
+Youtube ID: 	8IUTwaIWPBc 
+Video length: 	497.8 sec 
+Set (V): 		dev 
+ 
+Jesse_Williams/8IUTwaIWPBc_0000001 82.6 86.6 
+Jesse_Williams/8IUTwaIWPBc_0000002 215.5 220.0 
+Jesse_Williams/8IUTwaIWPBc_0000003 246.4 253.0 
+Jesse_Williams/8IUTwaIWPBc_0000004 261.3 269.1 
+Jesse_Williams/8IUTwaIWPBc_0000005 288.1 294.6 
+Jesse_Williams/8IUTwaIWPBc_0000006 317.6 323.0 
+Jesse_Williams/8IUTwaIWPBc_0000007 331.2 335.2 
+Jesse_Williams/8IUTwaIWPBc_0000008 352.0 361.0 
+Jesse_Williams/8IUTwaIWPBc_0000009 417.6 427.4 
+Jesse_Williams/8IUTwaIWPBc_0000010 430.2 435.6 
+Jesse_Williams/8IUTwaIWPBc_0000011 445.8 460.7 

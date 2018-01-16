@@ -1,0 +1,8 @@
+POI: 			Jesse_Spencer 
+Youtube ID: 	B4DJ5R2umn0 
+Video length: 	292.2 sec 
+Set (V): 		dev 
+ 
+Jesse_Spencer/B4DJ5R2umn0_0000001 37.7 45.6 
+Jesse_Spencer/B4DJ5R2umn0_0000002 46.4 51.3 
+Jesse_Spencer/B4DJ5R2umn0_0000003 164.7 170.5 

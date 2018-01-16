@@ -1,0 +1,15 @@
+POI: 			Michelle_Monaghan 
+Youtube ID: 	BxcAEIROumI 
+Video length: 	301.7 sec 
+Set (V): 		dev 
+ 
+Michelle_Monaghan/BxcAEIROumI_0000001 15.0 24.8 
+Michelle_Monaghan/BxcAEIROumI_0000002 25.5 34.4 
+Michelle_Monaghan/BxcAEIROumI_0000003 51.8 63.0 
+Michelle_Monaghan/BxcAEIROumI_0000004 89.8 103.9 
+Michelle_Monaghan/BxcAEIROumI_0000005 104.0 109.7 
+Michelle_Monaghan/BxcAEIROumI_0000006 120.0 130.1 
+Michelle_Monaghan/BxcAEIROumI_0000007 155.8 175.4 
+Michelle_Monaghan/BxcAEIROumI_0000008 194.5 198.6 
+Michelle_Monaghan/BxcAEIROumI_0000009 221.6 226.4 
+Michelle_Monaghan/BxcAEIROumI_0000010 229.7 237.3 

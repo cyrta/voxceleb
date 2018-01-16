@@ -1,0 +1,13 @@
+POI: 			Bethany_Mota 
+Youtube ID: 	YS9RP-SBTXY 
+Video length: 	206.3 sec 
+Set (V): 		dev 
+ 
+Bethany_Mota/YS9RP-SBTXY_0000001 14.9 29.8 
+Bethany_Mota/YS9RP-SBTXY_0000002 36.1 51.9 
+Bethany_Mota/YS9RP-SBTXY_0000003 55.0 59.2 
+Bethany_Mota/YS9RP-SBTXY_0000004 69.8 82.4 
+Bethany_Mota/YS9RP-SBTXY_0000005 95.8 126.2 
+Bethany_Mota/YS9RP-SBTXY_0000006 136.6 148.1 
+Bethany_Mota/YS9RP-SBTXY_0000007 158.4 184.9 
+Bethany_Mota/YS9RP-SBTXY_0000008 189.7 199.0 

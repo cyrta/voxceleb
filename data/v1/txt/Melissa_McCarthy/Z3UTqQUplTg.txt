@@ -1,0 +1,8 @@
+POI: 			Melissa_McCarthy 
+Youtube ID: 	Z3UTqQUplTg 
+Video length: 	314.8 sec 
+Set (V): 		dev 
+ 
+Melissa_McCarthy/Z3UTqQUplTg_0000001 247.5 252.0 
+Melissa_McCarthy/Z3UTqQUplTg_0000002 260.6 283.4 
+Melissa_McCarthy/Z3UTqQUplTg_0000003 284.3 291.7 

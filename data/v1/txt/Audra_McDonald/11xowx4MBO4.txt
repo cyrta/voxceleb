@@ -1,0 +1,7 @@
+POI: 			Audra_McDonald 
+Youtube ID: 	11xowx4MBO4 
+Video length: 	393.4 sec 
+Set (V): 		dev 
+ 
+Audra_McDonald/11xowx4MBO4_0000001 112.0 124.8 
+Audra_McDonald/11xowx4MBO4_0000002 244.1 259.6 

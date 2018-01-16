@@ -1,0 +1,15 @@
+POI: 			Nicki_Minaj 
+Youtube ID: 	QoBuwHOOPpk 
+Video length: 	894.7 sec 
+Set (V): 		dev 
+ 
+Nicki_Minaj/QoBuwHOOPpk_0000001 175.8 180.6 
+Nicki_Minaj/QoBuwHOOPpk_0000002 534.6 543.6 
+Nicki_Minaj/QoBuwHOOPpk_0000003 578.3 586.9 
+Nicki_Minaj/QoBuwHOOPpk_0000004 603.3 607.8 
+Nicki_Minaj/QoBuwHOOPpk_0000005 624.3 628.8 
+Nicki_Minaj/QoBuwHOOPpk_0000006 629.6 635.8 
+Nicki_Minaj/QoBuwHOOPpk_0000007 678.1 683.5 
+Nicki_Minaj/QoBuwHOOPpk_0000008 724.4 729.1 
+Nicki_Minaj/QoBuwHOOPpk_0000009 821.7 827.8 
+Nicki_Minaj/QoBuwHOOPpk_0000010 850.1 856.8 

@@ -1,0 +1,8 @@
+POI: 			Taylor_Swift 
+Youtube ID: 	OClBSWFNFTQ 
+Video length: 	182.3 sec 
+Set (V): 		dev 
+ 
+Taylor_Swift/OClBSWFNFTQ_0000001 35.7 42.8 
+Taylor_Swift/OClBSWFNFTQ_0000002 43.4 47.4 
+Taylor_Swift/OClBSWFNFTQ_0000003 140.6 146.7 

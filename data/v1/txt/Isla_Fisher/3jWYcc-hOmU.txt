@@ -1,0 +1,16 @@
+POI: 			Isla_Fisher 
+Youtube ID: 	3jWYcc-hOmU 
+Video length: 	1615.8 sec 
+Set (V): 		dev 
+ 
+Isla_Fisher/3jWYcc-hOmU_0000001 135.5 149.2 
+Isla_Fisher/3jWYcc-hOmU_0000002 221.2 227.8 
+Isla_Fisher/3jWYcc-hOmU_0000003 231.4 237.6 
+Isla_Fisher/3jWYcc-hOmU_0000004 260.7 268.4 
+Isla_Fisher/3jWYcc-hOmU_0000005 268.7 277.3 
+Isla_Fisher/3jWYcc-hOmU_0000006 280.4 285.2 
+Isla_Fisher/3jWYcc-hOmU_0000007 936.4 948.5 
+Isla_Fisher/3jWYcc-hOmU_0000008 1011.0 1018.8 
+Isla_Fisher/3jWYcc-hOmU_0000009 1225.5 1240.9 
+Isla_Fisher/3jWYcc-hOmU_0000010 1248.9 1253.8 
+Isla_Fisher/3jWYcc-hOmU_0000011 1535.0 1552.9 

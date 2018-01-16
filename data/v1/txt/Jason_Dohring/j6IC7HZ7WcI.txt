@@ -1,0 +1,8 @@
+POI: 			Jason_Dohring 
+Youtube ID: 	j6IC7HZ7WcI 
+Video length: 	147.5 sec 
+Set (V): 		dev 
+ 
+Jason_Dohring/j6IC7HZ7WcI_0000001 18.8 29.4 
+Jason_Dohring/j6IC7HZ7WcI_0000002 101.2 110.9 
+Jason_Dohring/j6IC7HZ7WcI_0000003 113.4 118.6 

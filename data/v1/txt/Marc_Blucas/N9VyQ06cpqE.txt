@@ -1,0 +1,11 @@
+POI: 			Marc_Blucas 
+Youtube ID: 	N9VyQ06cpqE 
+Video length: 	110.9 sec 
+Set (V): 		dev 
+ 
+Marc_Blucas/N9VyQ06cpqE_0000001 05.1 18.1 
+Marc_Blucas/N9VyQ06cpqE_0000002 22.1 30.8 
+Marc_Blucas/N9VyQ06cpqE_0000003 32.6 39.8 
+Marc_Blucas/N9VyQ06cpqE_0000004 40.9 45.9 
+Marc_Blucas/N9VyQ06cpqE_0000005 48.0 53.6 
+Marc_Blucas/N9VyQ06cpqE_0000006 47.6 56.3 

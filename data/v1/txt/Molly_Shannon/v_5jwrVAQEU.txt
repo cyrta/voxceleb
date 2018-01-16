@@ -1,0 +1,18 @@
+POI: 			Molly_Shannon 
+Youtube ID: 	v_5jwrVAQEU 
+Video length: 	357.6 sec 
+Set (V): 		dev 
+ 
+Molly_Shannon/v_5jwrVAQEU_0000001 09.4 16.4 
+Molly_Shannon/v_5jwrVAQEU_0000002 23.0 28.9 
+Molly_Shannon/v_5jwrVAQEU_0000003 42.0 46.3 
+Molly_Shannon/v_5jwrVAQEU_0000004 55.6 61.4 
+Molly_Shannon/v_5jwrVAQEU_0000005 67.2 75.4 
+Molly_Shannon/v_5jwrVAQEU_0000006 93.2 97.4 
+Molly_Shannon/v_5jwrVAQEU_0000007 104.5 110.3 
+Molly_Shannon/v_5jwrVAQEU_0000008 127.8 136.2 
+Molly_Shannon/v_5jwrVAQEU_0000009 184.2 189.8 
+Molly_Shannon/v_5jwrVAQEU_0000010 197.0 204.6 
+Molly_Shannon/v_5jwrVAQEU_0000011 326.0 330.3 
+Molly_Shannon/v_5jwrVAQEU_0000012 331.0 336.3 
+Molly_Shannon/v_5jwrVAQEU_0000013 345.4 350.2 

@@ -1,0 +1,8 @@
+POI: 			Patrick_Dempsey 
+Youtube ID: 	6tlDIUcrQK8 
+Video length: 	423.2 sec 
+Set (V): 		dev 
+ 
+Patrick_Dempsey/6tlDIUcrQK8_0000001 194.7 204.6 
+Patrick_Dempsey/6tlDIUcrQK8_0000002 242.5 249.0 
+Patrick_Dempsey/6tlDIUcrQK8_0000003 272.2 278.1 

@@ -1,0 +1,7 @@
+POI: 			Ben_Stiller 
+Youtube ID: 	Rpx1WpY_Arw 
+Video length: 	495.4 sec 
+Set (V): 		dev 
+ 
+Ben_Stiller/Rpx1WpY_Arw_0000001 344.8 349.9 
+Ben_Stiller/Rpx1WpY_Arw_0000002 398.0 403.9 

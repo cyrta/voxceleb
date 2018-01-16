@@ -1,0 +1,8 @@
+POI: 			Ron_Livingston 
+Youtube ID: 	vl82karKo-I 
+Video length: 	450.5 sec 
+Set (V): 		dev 
+ 
+Ron_Livingston/vl82karKo-I_0000001 301.2 305.8 
+Ron_Livingston/vl82karKo-I_0000002 313.6 317.8 
+Ron_Livingston/vl82karKo-I_0000003 323.7 329.8 

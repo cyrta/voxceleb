@@ -1,0 +1,10 @@
+POI: 			Laz_Alonso 
+Youtube ID: 	P0sCEEpU6_E 
+Video length: 	318.5 sec 
+Set (V): 		dev 
+ 
+Laz_Alonso/P0sCEEpU6_E_0000001 38.2 42.6 
+Laz_Alonso/P0sCEEpU6_E_0000002 60.8 82.6 
+Laz_Alonso/P0sCEEpU6_E_0000003 216.8 221.4 
+Laz_Alonso/P0sCEEpU6_E_0000004 253.4 266.6 
+Laz_Alonso/P0sCEEpU6_E_0000005 285.9 300.5 

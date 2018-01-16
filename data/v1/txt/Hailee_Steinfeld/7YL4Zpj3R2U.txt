@@ -1,0 +1,11 @@
+POI: 			Hailee_Steinfeld 
+Youtube ID: 	7YL4Zpj3R2U 
+Video length: 	481.1 sec 
+Set (V): 		dev 
+ 
+Hailee_Steinfeld/7YL4Zpj3R2U_0000001 184.2 190.2 
+Hailee_Steinfeld/7YL4Zpj3R2U_0000002 264.6 269.0 
+Hailee_Steinfeld/7YL4Zpj3R2U_0000003 330.5 338.4 
+Hailee_Steinfeld/7YL4Zpj3R2U_0000004 346.7 357.1 
+Hailee_Steinfeld/7YL4Zpj3R2U_0000005 359.4 371.4 
+Hailee_Steinfeld/7YL4Zpj3R2U_0000006 429.4 462.2 

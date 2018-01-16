@@ -1,0 +1,8 @@
+POI: 			Farrah_Abraham 
+Youtube ID: 	DIyOTNHvD1U 
+Video length: 	297.1 sec 
+Set (V): 		dev 
+ 
+Farrah_Abraham/DIyOTNHvD1U_0000001 62.7 67.2 
+Farrah_Abraham/DIyOTNHvD1U_0000002 108.1 113.1 
+Farrah_Abraham/DIyOTNHvD1U_0000003 173.9 181.2 

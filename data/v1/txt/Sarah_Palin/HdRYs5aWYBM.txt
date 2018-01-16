@@ -1,0 +1,13 @@
+POI: 			Sarah_Palin 
+Youtube ID: 	HdRYs5aWYBM 
+Video length: 	296.7 sec 
+Set (V): 		dev 
+ 
+Sarah_Palin/HdRYs5aWYBM_0000001 64.8 74.8 
+Sarah_Palin/HdRYs5aWYBM_0000002 92.2 97.1 
+Sarah_Palin/HdRYs5aWYBM_0000003 109.4 115.5 
+Sarah_Palin/HdRYs5aWYBM_0000004 196.5 209.6 
+Sarah_Palin/HdRYs5aWYBM_0000005 214.7 224.6 
+Sarah_Palin/HdRYs5aWYBM_0000006 231.9 244.8 
+Sarah_Palin/HdRYs5aWYBM_0000007 251.2 259.4 
+Sarah_Palin/HdRYs5aWYBM_0000008 264.1 268.9 

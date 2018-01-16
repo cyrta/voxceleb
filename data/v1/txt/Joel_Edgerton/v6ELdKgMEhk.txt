@@ -1,0 +1,15 @@
+POI: 			Joel_Edgerton 
+Youtube ID: 	v6ELdKgMEhk 
+Video length: 	334.9 sec 
+Set (V): 		dev 
+ 
+Joel_Edgerton/v6ELdKgMEhk_0000001 25.5 34.3 
+Joel_Edgerton/v6ELdKgMEhk_0000002 34.7 38.8 
+Joel_Edgerton/v6ELdKgMEhk_0000003 195.2 206.2 
+Joel_Edgerton/v6ELdKgMEhk_0000004 208.6 215.7 
+Joel_Edgerton/v6ELdKgMEhk_0000005 219.0 225.2 
+Joel_Edgerton/v6ELdKgMEhk_0000006 266.8 271.4 
+Joel_Edgerton/v6ELdKgMEhk_0000007 273.7 284.1 
+Joel_Edgerton/v6ELdKgMEhk_0000008 287.3 292.6 
+Joel_Edgerton/v6ELdKgMEhk_0000009 299.4 304.8 
+Joel_Edgerton/v6ELdKgMEhk_0000010 305.4 328.0 

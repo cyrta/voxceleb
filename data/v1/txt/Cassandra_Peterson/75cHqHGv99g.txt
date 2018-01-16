@@ -1,0 +1,11 @@
+POI: 			Cassandra_Peterson 
+Youtube ID: 	75cHqHGv99g 
+Video length: 	132.6 sec 
+Set (V): 		dev 
+ 
+Cassandra_Peterson/75cHqHGv99g_0000001 12.8 18.7 
+Cassandra_Peterson/75cHqHGv99g_0000002 42.6 48.6 
+Cassandra_Peterson/75cHqHGv99g_0000003 53.8 59.0 
+Cassandra_Peterson/75cHqHGv99g_0000004 61.0 65.0 
+Cassandra_Peterson/75cHqHGv99g_0000005 80.4 90.0 
+Cassandra_Peterson/75cHqHGv99g_0000006 113.8 125.4 

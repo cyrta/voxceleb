@@ -1,0 +1,28 @@
+POI: 			Hector_Elizondo 
+Youtube ID: 	ZuZjcnBaVaw 
+Video length: 	514.2 sec 
+Set (V): 		dev 
+ 
+Hector_Elizondo/ZuZjcnBaVaw_0000001 15.7 21.2 
+Hector_Elizondo/ZuZjcnBaVaw_0000002 28.9 37.0 
+Hector_Elizondo/ZuZjcnBaVaw_0000003 48.2 53.6 
+Hector_Elizondo/ZuZjcnBaVaw_0000004 76.5 82.4 
+Hector_Elizondo/ZuZjcnBaVaw_0000005 83.6 91.3 
+Hector_Elizondo/ZuZjcnBaVaw_0000006 109.2 120.1 
+Hector_Elizondo/ZuZjcnBaVaw_0000007 172.8 179.2 
+Hector_Elizondo/ZuZjcnBaVaw_0000008 183.8 191.9 
+Hector_Elizondo/ZuZjcnBaVaw_0000009 202.8 220.5 
+Hector_Elizondo/ZuZjcnBaVaw_0000010 260.3 268.0 
+Hector_Elizondo/ZuZjcnBaVaw_0000011 291.6 299.4 
+Hector_Elizondo/ZuZjcnBaVaw_0000012 319.0 323.5 
+Hector_Elizondo/ZuZjcnBaVaw_0000013 327.5 335.2 
+Hector_Elizondo/ZuZjcnBaVaw_0000014 336.2 349.9 
+Hector_Elizondo/ZuZjcnBaVaw_0000015 360.8 366.5 
+Hector_Elizondo/ZuZjcnBaVaw_0000016 389.8 399.4 
+Hector_Elizondo/ZuZjcnBaVaw_0000017 374.1 381.1 
+Hector_Elizondo/ZuZjcnBaVaw_0000018 405.0 409.2 
+Hector_Elizondo/ZuZjcnBaVaw_0000019 426.5 432.2 
+Hector_Elizondo/ZuZjcnBaVaw_0000020 433.1 439.2 
+Hector_Elizondo/ZuZjcnBaVaw_0000021 473.6 478.6 
+Hector_Elizondo/ZuZjcnBaVaw_0000022 478.8 484.1 
+Hector_Elizondo/ZuZjcnBaVaw_0000023 484.2 491.7 

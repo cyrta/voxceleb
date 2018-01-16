@@ -1,0 +1,7 @@
+POI: 			Tom_Selleck 
+Youtube ID: 	8G_G6HqlFkE 
+Video length: 	298.9 sec 
+Set (V): 		dev 
+ 
+Tom_Selleck/8G_G6HqlFkE_0000001 151.0 163.3 
+Tom_Selleck/8G_G6HqlFkE_0000002 246.5 252.3 

@@ -1,0 +1,14 @@
+POI: 			Jamie-Lynn_Sigler 
+Youtube ID: 	D9QQLL29VpY 
+Video length: 	363.6 sec 
+Set (V): 		dev 
+ 
+Jamie-Lynn_Sigler/D9QQLL29VpY_0000001 26.9 41.3 
+Jamie-Lynn_Sigler/D9QQLL29VpY_0000002 47.0 64.4 
+Jamie-Lynn_Sigler/D9QQLL29VpY_0000003 137.7 146.6 
+Jamie-Lynn_Sigler/D9QQLL29VpY_0000004 150.9 161.5 
+Jamie-Lynn_Sigler/D9QQLL29VpY_0000005 188.2 200.6 
+Jamie-Lynn_Sigler/D9QQLL29VpY_0000006 203.4 209.5 
+Jamie-Lynn_Sigler/D9QQLL29VpY_0000007 218.4 230.5 
+Jamie-Lynn_Sigler/D9QQLL29VpY_0000008 231.2 243.3 
+Jamie-Lynn_Sigler/D9QQLL29VpY_0000009 254.8 268.8 

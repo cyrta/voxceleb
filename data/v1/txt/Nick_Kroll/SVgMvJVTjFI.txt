@@ -1,0 +1,7 @@
+POI: 			Nick_Kroll 
+Youtube ID: 	SVgMvJVTjFI 
+Video length: 	221.4 sec 
+Set (V): 		dev 
+ 
+Nick_Kroll/SVgMvJVTjFI_0000001 26.7 32.9 
+Nick_Kroll/SVgMvJVTjFI_0000002 39.8 44.7 

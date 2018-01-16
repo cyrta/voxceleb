@@ -1,0 +1,19 @@
+POI: 			Ken_Jeong 
+Youtube ID: 	bLXip7ZI2Pc 
+Video length: 	725.5 sec 
+Set (V): 		dev 
+ 
+Ken_Jeong/bLXip7ZI2Pc_0000001 145.8 149.8 
+Ken_Jeong/bLXip7ZI2Pc_0000002 152.2 156.5 
+Ken_Jeong/bLXip7ZI2Pc_0000003 173.4 190.4 
+Ken_Jeong/bLXip7ZI2Pc_0000004 200.9 208.0 
+Ken_Jeong/bLXip7ZI2Pc_0000005 217.5 233.9 
+Ken_Jeong/bLXip7ZI2Pc_0000006 248.2 252.1 
+Ken_Jeong/bLXip7ZI2Pc_0000007 313.2 317.3 
+Ken_Jeong/bLXip7ZI2Pc_0000008 341.3 346.1 
+Ken_Jeong/bLXip7ZI2Pc_0000009 381.4 395.4 
+Ken_Jeong/bLXip7ZI2Pc_0000010 453.5 462.8 
+Ken_Jeong/bLXip7ZI2Pc_0000011 463.8 470.8 
+Ken_Jeong/bLXip7ZI2Pc_0000012 511.1 515.1 
+Ken_Jeong/bLXip7ZI2Pc_0000013 585.3 596.1 
+Ken_Jeong/bLXip7ZI2Pc_0000014 684.8 689.6 

@@ -1,0 +1,9 @@
+POI: 			Nicki_Minaj 
+Youtube ID: 	RIYy5TZOYso 
+Video length: 	357.7 sec 
+Set (V): 		dev 
+ 
+Nicki_Minaj/RIYy5TZOYso_0000001 130.5 136.3 
+Nicki_Minaj/RIYy5TZOYso_0000002 150.1 159.1 
+Nicki_Minaj/RIYy5TZOYso_0000003 189.2 195.9 
+Nicki_Minaj/RIYy5TZOYso_0000004 328.1 337.4 

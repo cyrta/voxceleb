@@ -1,0 +1,14 @@
+POI: 			MyAnna_Buring 
+Youtube ID: 	s9SNfXvBVNE 
+Video length: 	608.2 sec 
+Set (V): 		dev 
+ 
+MyAnna_Buring/s9SNfXvBVNE_0000001 74.7 81.2 
+MyAnna_Buring/s9SNfXvBVNE_0000002 88.4 93.7 
+MyAnna_Buring/s9SNfXvBVNE_0000003 109.6 116.7 
+MyAnna_Buring/s9SNfXvBVNE_0000004 228.3 232.8 
+MyAnna_Buring/s9SNfXvBVNE_0000005 234.8 241.5 
+MyAnna_Buring/s9SNfXvBVNE_0000006 248.5 257.3 
+MyAnna_Buring/s9SNfXvBVNE_0000007 258.3 264.5 
+MyAnna_Buring/s9SNfXvBVNE_0000008 354.0 358.9 
+MyAnna_Buring/s9SNfXvBVNE_0000009 406.4 410.3 

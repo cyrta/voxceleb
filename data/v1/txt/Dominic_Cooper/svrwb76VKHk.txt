@@ -1,0 +1,8 @@
+POI: 			Dominic_Cooper 
+Youtube ID: 	svrwb76VKHk 
+Video length: 	298.0 sec 
+Set (V): 		dev 
+ 
+Dominic_Cooper/svrwb76VKHk_0000001 37.0 43.5 
+Dominic_Cooper/svrwb76VKHk_0000002 149.6 165.4 
+Dominic_Cooper/svrwb76VKHk_0000003 268.8 273.4 

@@ -1,0 +1,7 @@
+POI: 			Kate_McKinnon 
+Youtube ID: 	XUVp-L52t-Q 
+Video length: 	281.4 sec 
+Set (V): 		dev 
+ 
+Kate_McKinnon/XUVp-L52t-Q_0000001 106.8 110.8 
+Kate_McKinnon/XUVp-L52t-Q_0000002 226.3 232.7 

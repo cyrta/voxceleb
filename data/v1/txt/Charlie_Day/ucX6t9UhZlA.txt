@@ -1,0 +1,15 @@
+POI: 			Charlie_Day 
+Youtube ID: 	ucX6t9UhZlA 
+Video length: 	190.5 sec 
+Set (V): 		dev 
+ 
+Charlie_Day/ucX6t9UhZlA_0000001 11.7 26.7 
+Charlie_Day/ucX6t9UhZlA_0000002 45.9 58.2 
+Charlie_Day/ucX6t9UhZlA_0000003 58.8 66.0 
+Charlie_Day/ucX6t9UhZlA_0000004 70.2 75.6 
+Charlie_Day/ucX6t9UhZlA_0000005 77.0 83.2 
+Charlie_Day/ucX6t9UhZlA_0000006 102.9 107.6 
+Charlie_Day/ucX6t9UhZlA_0000007 108.7 113.9 
+Charlie_Day/ucX6t9UhZlA_0000008 118.8 132.4 
+Charlie_Day/ucX6t9UhZlA_0000009 108.4 121.7 
+Charlie_Day/ucX6t9UhZlA_0000010 149.7 154.5 

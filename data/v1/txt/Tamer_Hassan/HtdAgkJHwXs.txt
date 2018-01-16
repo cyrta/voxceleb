@@ -1,0 +1,15 @@
+POI: 			Tamer_Hassan 
+Youtube ID: 	HtdAgkJHwXs 
+Video length: 	470.4 sec 
+Set (V): 		dev 
+ 
+Tamer_Hassan/HtdAgkJHwXs_0000001 59.7 67.4 
+Tamer_Hassan/HtdAgkJHwXs_0000002 86.5 90.6 
+Tamer_Hassan/HtdAgkJHwXs_0000003 184.6 189.8 
+Tamer_Hassan/HtdAgkJHwXs_0000004 203.0 208.1 
+Tamer_Hassan/HtdAgkJHwXs_0000005 255.7 264.2 
+Tamer_Hassan/HtdAgkJHwXs_0000006 290.0 296.8 
+Tamer_Hassan/HtdAgkJHwXs_0000007 356.9 367.3 
+Tamer_Hassan/HtdAgkJHwXs_0000008 368.3 372.9 
+Tamer_Hassan/HtdAgkJHwXs_0000009 373.8 381.1 
+Tamer_Hassan/HtdAgkJHwXs_0000010 426.6 431.9 

@@ -1,0 +1,20 @@
+POI: 			Sam_Riley 
+Youtube ID: 	oiTK8ntPH_0 
+Video length: 	302.2 sec 
+Set (V): 		dev 
+ 
+Sam_Riley/oiTK8ntPH_0_0000001 15.0 20.2 
+Sam_Riley/oiTK8ntPH_0_0000002 56.0 60.9 
+Sam_Riley/oiTK8ntPH_0_0000003 62.5 66.6 
+Sam_Riley/oiTK8ntPH_0_0000004 80.2 87.3 
+Sam_Riley/oiTK8ntPH_0_0000005 87.8 99.4 
+Sam_Riley/oiTK8ntPH_0_0000006 123.2 128.3 
+Sam_Riley/oiTK8ntPH_0_0000007 128.5 134.4 
+Sam_Riley/oiTK8ntPH_0_0000008 175.2 181.9 
+Sam_Riley/oiTK8ntPH_0_0000009 182.1 187.2 
+Sam_Riley/oiTK8ntPH_0_0000010 220.2 232.0 
+Sam_Riley/oiTK8ntPH_0_0000011 232.5 238.2 
+Sam_Riley/oiTK8ntPH_0_0000012 245.5 249.8 
+Sam_Riley/oiTK8ntPH_0_0000013 261.8 272.8 
+Sam_Riley/oiTK8ntPH_0_0000014 273.9 278.4 
+Sam_Riley/oiTK8ntPH_0_0000015 279.4 286.2 

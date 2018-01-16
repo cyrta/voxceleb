@@ -1,0 +1,11 @@
+POI: 			Neil_deGrasse_Tyson 
+Youtube ID: 	g7OMgsD7T74 
+Video length: 	269.4 sec 
+Set (V): 		dev 
+ 
+Neil_deGrasse_Tyson/g7OMgsD7T74_0000001 122.0 127.6 
+Neil_deGrasse_Tyson/g7OMgsD7T74_0000002 128.3 135.0 
+Neil_deGrasse_Tyson/g7OMgsD7T74_0000003 136.4 144.2 
+Neil_deGrasse_Tyson/g7OMgsD7T74_0000004 211.0 216.7 
+Neil_deGrasse_Tyson/g7OMgsD7T74_0000005 225.2 231.2 
+Neil_deGrasse_Tyson/g7OMgsD7T74_0000006 242.2 252.0 

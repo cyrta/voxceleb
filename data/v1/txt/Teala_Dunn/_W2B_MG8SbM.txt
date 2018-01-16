@@ -1,0 +1,9 @@
+POI: 			Teala_Dunn 
+Youtube ID: 	_W2B_MG8SbM 
+Video length: 	163.7 sec 
+Set (V): 		dev 
+ 
+Teala_Dunn/_W2B_MG8SbM_0000001 41.2 50.8 
+Teala_Dunn/_W2B_MG8SbM_0000002 53.2 64.0 
+Teala_Dunn/_W2B_MG8SbM_0000003 75.8 81.7 
+Teala_Dunn/_W2B_MG8SbM_0000004 124.6 142.4 

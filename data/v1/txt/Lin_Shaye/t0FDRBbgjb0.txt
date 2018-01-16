@@ -1,0 +1,8 @@
+POI: 			Lin_Shaye 
+Youtube ID: 	t0FDRBbgjb0 
+Video length: 	324.2 sec 
+Set (V): 		dev 
+ 
+Lin_Shaye/t0FDRBbgjb0_0000001 104.2 109.8 
+Lin_Shaye/t0FDRBbgjb0_0000002 170.1 174.6 
+Lin_Shaye/t0FDRBbgjb0_0000003 194.1 200.5 

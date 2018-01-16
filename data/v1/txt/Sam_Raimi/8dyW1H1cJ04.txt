@@ -1,0 +1,8 @@
+POI: 			Sam_Raimi 
+Youtube ID: 	8dyW1H1cJ04 
+Video length: 	258.5 sec 
+Set (V): 		dev 
+ 
+Sam_Raimi/8dyW1H1cJ04_0000001 34.4 51.0 
+Sam_Raimi/8dyW1H1cJ04_0000002 188.1 203.5 
+Sam_Raimi/8dyW1H1cJ04_0000003 203.6 222.7 

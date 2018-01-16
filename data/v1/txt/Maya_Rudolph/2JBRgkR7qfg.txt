@@ -1,0 +1,23 @@
+POI: 			Maya_Rudolph 
+Youtube ID: 	2JBRgkR7qfg 
+Video length: 	255.9 sec 
+Set (V): 		dev 
+ 
+Maya_Rudolph/2JBRgkR7qfg_0000001 12.2 16.4 
+Maya_Rudolph/2JBRgkR7qfg_0000002 17.8 33.1 
+Maya_Rudolph/2JBRgkR7qfg_0000003 49.5 54.6 
+Maya_Rudolph/2JBRgkR7qfg_0000004 55.2 62.5 
+Maya_Rudolph/2JBRgkR7qfg_0000005 63.5 68.0 
+Maya_Rudolph/2JBRgkR7qfg_0000006 70.4 79.8 
+Maya_Rudolph/2JBRgkR7qfg_0000007 80.1 87.7 
+Maya_Rudolph/2JBRgkR7qfg_0000008 101.0 106.6 
+Maya_Rudolph/2JBRgkR7qfg_0000009 110.0 117.2 
+Maya_Rudolph/2JBRgkR7qfg_0000010 118.0 122.9 
+Maya_Rudolph/2JBRgkR7qfg_0000011 123.6 139.1 
+Maya_Rudolph/2JBRgkR7qfg_0000012 151.2 155.9 
+Maya_Rudolph/2JBRgkR7qfg_0000013 158.5 169.7 
+Maya_Rudolph/2JBRgkR7qfg_0000014 173.8 180.6 
+Maya_Rudolph/2JBRgkR7qfg_0000015 189.6 195.4 
+Maya_Rudolph/2JBRgkR7qfg_0000016 198.0 204.4 
+Maya_Rudolph/2JBRgkR7qfg_0000017 208.6 215.0 
+Maya_Rudolph/2JBRgkR7qfg_0000018 229.6 242.8 

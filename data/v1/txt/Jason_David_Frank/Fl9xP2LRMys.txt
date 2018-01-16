@@ -1,0 +1,15 @@
+POI: 			Jason_David_Frank 
+Youtube ID: 	Fl9xP2LRMys 
+Video length: 	503.7 sec 
+Set (V): 		dev 
+ 
+Jason_David_Frank/Fl9xP2LRMys_0000001 50.5 54.9 
+Jason_David_Frank/Fl9xP2LRMys_0000002 61.3 65.7 
+Jason_David_Frank/Fl9xP2LRMys_0000003 68.9 73.8 
+Jason_David_Frank/Fl9xP2LRMys_0000004 94.4 101.6 
+Jason_David_Frank/Fl9xP2LRMys_0000005 155.7 159.8 
+Jason_David_Frank/Fl9xP2LRMys_0000006 230.2 234.4 
+Jason_David_Frank/Fl9xP2LRMys_0000007 250.1 254.7 
+Jason_David_Frank/Fl9xP2LRMys_0000008 266.3 270.6 
+Jason_David_Frank/Fl9xP2LRMys_0000009 410.8 415.8 
+Jason_David_Frank/Fl9xP2LRMys_0000010 451.6 461.2 

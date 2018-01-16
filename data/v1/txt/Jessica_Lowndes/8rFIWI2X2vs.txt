@@ -1,0 +1,11 @@
+POI: 			Jessica_Lowndes 
+Youtube ID: 	8rFIWI2X2vs 
+Video length: 	243.4 sec 
+Set (V): 		dev 
+ 
+Jessica_Lowndes/8rFIWI2X2vs_0000001 24.5 33.4 
+Jessica_Lowndes/8rFIWI2X2vs_0000002 108.2 112.4 
+Jessica_Lowndes/8rFIWI2X2vs_0000003 129.7 150.1 
+Jessica_Lowndes/8rFIWI2X2vs_0000004 196.0 201.2 
+Jessica_Lowndes/8rFIWI2X2vs_0000005 203.3 208.1 
+Jessica_Lowndes/8rFIWI2X2vs_0000006 219.3 227.0 

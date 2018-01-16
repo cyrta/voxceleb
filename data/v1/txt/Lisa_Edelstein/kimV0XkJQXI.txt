@@ -1,0 +1,7 @@
+POI: 			Lisa_Edelstein 
+Youtube ID: 	kimV0XkJQXI 
+Video length: 	227.0 sec 
+Set (V): 		dev 
+ 
+Lisa_Edelstein/kimV0XkJQXI_0000001 134.8 144.0 
+Lisa_Edelstein/kimV0XkJQXI_0000002 175.5 180.0 

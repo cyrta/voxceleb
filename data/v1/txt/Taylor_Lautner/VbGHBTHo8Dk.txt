@@ -1,0 +1,11 @@
+POI: 			Taylor_Lautner 
+Youtube ID: 	VbGHBTHo8Dk 
+Video length: 	232.6 sec 
+Set (V): 		dev 
+ 
+Taylor_Lautner/VbGHBTHo8Dk_0000001 47.5 53.3 
+Taylor_Lautner/VbGHBTHo8Dk_0000002 57.0 62.7 
+Taylor_Lautner/VbGHBTHo8Dk_0000003 95.8 101.3 
+Taylor_Lautner/VbGHBTHo8Dk_0000004 149.7 160.4 
+Taylor_Lautner/VbGHBTHo8Dk_0000005 205.9 213.5 
+Taylor_Lautner/VbGHBTHo8Dk_0000006 216.0 222.0 

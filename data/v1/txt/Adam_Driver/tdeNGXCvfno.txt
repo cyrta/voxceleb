@@ -1,0 +1,15 @@
+POI: 			Adam_Driver 
+Youtube ID: 	tdeNGXCvfno 
+Video length: 	285.4 sec 
+Set (V): 		dev 
+ 
+Adam_Driver/tdeNGXCvfno_0000001 40.9 47.5 
+Adam_Driver/tdeNGXCvfno_0000002 58.2 64.9 
+Adam_Driver/tdeNGXCvfno_0000003 67.6 73.6 
+Adam_Driver/tdeNGXCvfno_0000004 111.6 122.4 
+Adam_Driver/tdeNGXCvfno_0000005 187.8 194.2 
+Adam_Driver/tdeNGXCvfno_0000006 195.2 199.7 
+Adam_Driver/tdeNGXCvfno_0000007 226.6 235.6 
+Adam_Driver/tdeNGXCvfno_0000008 235.7 245.8 
+Adam_Driver/tdeNGXCvfno_0000009 256.9 274.4 
+Adam_Driver/tdeNGXCvfno_0000010 275.3 280.4 

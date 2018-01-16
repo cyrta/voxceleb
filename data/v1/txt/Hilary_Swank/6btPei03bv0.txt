@@ -1,0 +1,26 @@
+POI: 			Hilary_Swank 
+Youtube ID: 	6btPei03bv0 
+Video length: 	341.7 sec 
+Set (V): 		dev 
+ 
+Hilary_Swank/6btPei03bv0_0000001 05.4 09.5 
+Hilary_Swank/6btPei03bv0_0000002 09.7 20.0 
+Hilary_Swank/6btPei03bv0_0000003 22.6 40.3 
+Hilary_Swank/6btPei03bv0_0000004 42.0 48.4 
+Hilary_Swank/6btPei03bv0_0000005 52.0 60.5 
+Hilary_Swank/6btPei03bv0_0000006 65.6 73.8 
+Hilary_Swank/6btPei03bv0_0000007 74.9 80.6 
+Hilary_Swank/6btPei03bv0_0000008 85.9 92.0 
+Hilary_Swank/6btPei03bv0_0000009 94.5 107.1 
+Hilary_Swank/6btPei03bv0_0000010 113.1 117.6 
+Hilary_Swank/6btPei03bv0_0000011 118.5 122.8 
+Hilary_Swank/6btPei03bv0_0000012 127.6 139.1 
+Hilary_Swank/6btPei03bv0_0000013 140.8 149.2 
+Hilary_Swank/6btPei03bv0_0000014 150.4 162.4 
+Hilary_Swank/6btPei03bv0_0000015 234.7 243.9 
+Hilary_Swank/6btPei03bv0_0000016 245.7 259.7 
+Hilary_Swank/6btPei03bv0_0000017 262.0 286.0 
+Hilary_Swank/6btPei03bv0_0000018 290.4 297.1 
+Hilary_Swank/6btPei03bv0_0000019 302.2 307.1 
+Hilary_Swank/6btPei03bv0_0000020 308.0 313.8 
+Hilary_Swank/6btPei03bv0_0000021 323.5 328.2 

@@ -1,0 +1,24 @@
+POI: 			Zachary_Gordon 
+Youtube ID: 	fE2iWoYjjH8 
+Video length: 	603.6 sec 
+Set (V): 		dev 
+ 
+Zachary_Gordon/fE2iWoYjjH8_0000001 35.1 47.3 
+Zachary_Gordon/fE2iWoYjjH8_0000002 72.2 82.0 
+Zachary_Gordon/fE2iWoYjjH8_0000003 99.3 119.4 
+Zachary_Gordon/fE2iWoYjjH8_0000004 138.3 142.8 
+Zachary_Gordon/fE2iWoYjjH8_0000005 187.3 192.6 
+Zachary_Gordon/fE2iWoYjjH8_0000006 193.6 200.5 
+Zachary_Gordon/fE2iWoYjjH8_0000007 203.7 223.2 
+Zachary_Gordon/fE2iWoYjjH8_0000008 226.3 230.9 
+Zachary_Gordon/fE2iWoYjjH8_0000009 231.1 237.6 
+Zachary_Gordon/fE2iWoYjjH8_0000010 320.0 337.7 
+Zachary_Gordon/fE2iWoYjjH8_0000011 340.4 347.8 
+Zachary_Gordon/fE2iWoYjjH8_0000012 350.0 360.0 
+Zachary_Gordon/fE2iWoYjjH8_0000013 399.6 407.1 
+Zachary_Gordon/fE2iWoYjjH8_0000014 465.6 470.5 
+Zachary_Gordon/fE2iWoYjjH8_0000015 475.2 489.8 
+Zachary_Gordon/fE2iWoYjjH8_0000016 506.3 514.7 
+Zachary_Gordon/fE2iWoYjjH8_0000017 515.2 523.7 
+Zachary_Gordon/fE2iWoYjjH8_0000018 542.2 548.1 
+Zachary_Gordon/fE2iWoYjjH8_0000019 550.0 561.7 

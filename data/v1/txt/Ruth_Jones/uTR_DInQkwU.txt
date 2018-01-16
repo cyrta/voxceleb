@@ -1,0 +1,8 @@
+POI: 			Ruth_Jones 
+Youtube ID: 	uTR_DInQkwU 
+Video length: 	502.9 sec 
+Set (V): 		dev 
+ 
+Ruth_Jones/uTR_DInQkwU_0000001 316.6 321.8 
+Ruth_Jones/uTR_DInQkwU_0000002 333.7 343.8 
+Ruth_Jones/uTR_DInQkwU_0000003 397.6 401.6 

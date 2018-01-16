@@ -1,0 +1,12 @@
+POI: 			Dan_Aykroyd 
+Youtube ID: 	vyQKj4XbL0I 
+Video length: 	479.0 sec 
+Set (V): 		dev 
+ 
+Dan_Aykroyd/vyQKj4XbL0I_0000001 64.4 71.9 
+Dan_Aykroyd/vyQKj4XbL0I_0000002 77.4 84.8 
+Dan_Aykroyd/vyQKj4XbL0I_0000003 86.0 96.7 
+Dan_Aykroyd/vyQKj4XbL0I_0000004 98.1 104.2 
+Dan_Aykroyd/vyQKj4XbL0I_0000005 341.7 346.1 
+Dan_Aykroyd/vyQKj4XbL0I_0000006 348.6 363.6 
+Dan_Aykroyd/vyQKj4XbL0I_0000007 365.3 370.5 

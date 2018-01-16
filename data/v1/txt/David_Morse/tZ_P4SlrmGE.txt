@@ -1,0 +1,10 @@
+POI: 			David_Morse 
+Youtube ID: 	tZ_P4SlrmGE 
+Video length: 	275.8 sec 
+Set (V): 		dev 
+ 
+David_Morse/tZ_P4SlrmGE_0000001 125.8 130.2 
+David_Morse/tZ_P4SlrmGE_0000002 139.8 146.0 
+David_Morse/tZ_P4SlrmGE_0000003 186.0 192.1 
+David_Morse/tZ_P4SlrmGE_0000004 193.8 198.1 
+David_Morse/tZ_P4SlrmGE_0000005 213.1 219.8 

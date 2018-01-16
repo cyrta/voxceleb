@@ -1,0 +1,11 @@
+POI: 			Cliff_Curtis 
+Youtube ID: 	qMtdk3brYVM 
+Video length: 	295.4 sec 
+Set (V): 		dev 
+ 
+Cliff_Curtis/qMtdk3brYVM_0000001 43.8 49.1 
+Cliff_Curtis/qMtdk3brYVM_0000002 112.0 127.6 
+Cliff_Curtis/qMtdk3brYVM_0000003 144.1 149.8 
+Cliff_Curtis/qMtdk3brYVM_0000004 229.6 241.8 
+Cliff_Curtis/qMtdk3brYVM_0000005 253.4 261.6 
+Cliff_Curtis/qMtdk3brYVM_0000006 268.5 282.8 

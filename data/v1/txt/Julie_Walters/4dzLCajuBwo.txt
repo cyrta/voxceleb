@@ -1,0 +1,9 @@
+POI: 			Julie_Walters 
+Youtube ID: 	4dzLCajuBwo 
+Video length: 	209.5 sec 
+Set (V): 		dev 
+ 
+Julie_Walters/4dzLCajuBwo_0000001 05.0 29.8 
+Julie_Walters/4dzLCajuBwo_0000002 68.6 73.4 
+Julie_Walters/4dzLCajuBwo_0000003 180.7 188.7 
+Julie_Walters/4dzLCajuBwo_0000004 181.3 188.7 

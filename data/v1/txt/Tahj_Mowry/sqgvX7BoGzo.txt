@@ -1,0 +1,12 @@
+POI: 			Tahj_Mowry 
+Youtube ID: 	sqgvX7BoGzo 
+Video length: 	199.3 sec 
+Set (V): 		dev 
+ 
+Tahj_Mowry/sqgvX7BoGzo_0000001 23.5 30.2 
+Tahj_Mowry/sqgvX7BoGzo_0000002 60.1 64.4 
+Tahj_Mowry/sqgvX7BoGzo_0000003 92.1 105.6 
+Tahj_Mowry/sqgvX7BoGzo_0000004 109.4 125.8 
+Tahj_Mowry/sqgvX7BoGzo_0000005 142.3 150.2 
+Tahj_Mowry/sqgvX7BoGzo_0000006 157.9 164.7 
+Tahj_Mowry/sqgvX7BoGzo_0000007 165.4 170.9 

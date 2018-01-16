@@ -1,0 +1,15 @@
+POI: 			Rik_Mayall 
+Youtube ID: 	ReNGN7x03Rs 
+Video length: 	307.9 sec 
+Set (V): 		dev 
+ 
+Rik_Mayall/ReNGN7x03Rs_0000001 98.0 108.2 
+Rik_Mayall/ReNGN7x03Rs_0000002 139.6 143.7 
+Rik_Mayall/ReNGN7x03Rs_0000003 145.6 154.7 
+Rik_Mayall/ReNGN7x03Rs_0000004 158.4 164.9 
+Rik_Mayall/ReNGN7x03Rs_0000005 171.6 176.2 
+Rik_Mayall/ReNGN7x03Rs_0000006 182.2 186.6 
+Rik_Mayall/ReNGN7x03Rs_0000007 192.0 196.7 
+Rik_Mayall/ReNGN7x03Rs_0000008 204.6 211.9 
+Rik_Mayall/ReNGN7x03Rs_0000009 224.8 230.6 
+Rik_Mayall/ReNGN7x03Rs_0000010 230.9 235.2 

@@ -1,0 +1,9 @@
+POI: 			Robert_Picardo 
+Youtube ID: 	IKLjRxVx6nk 
+Video length: 	534.3 sec 
+Set (V): 		dev 
+ 
+Robert_Picardo/IKLjRxVx6nk_0000001 67.2 72.7 
+Robert_Picardo/IKLjRxVx6nk_0000002 75.6 81.2 
+Robert_Picardo/IKLjRxVx6nk_0000003 123.2 127.7 
+Robert_Picardo/IKLjRxVx6nk_0000004 473.1 477.8 

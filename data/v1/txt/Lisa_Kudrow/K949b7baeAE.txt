@@ -1,0 +1,10 @@
+POI: 			Lisa_Kudrow 
+Youtube ID: 	K949b7baeAE 
+Video length: 	611.3 sec 
+Set (V): 		dev 
+ 
+Lisa_Kudrow/K949b7baeAE_0000001 244.9 252.0 
+Lisa_Kudrow/K949b7baeAE_0000002 356.6 367.7 
+Lisa_Kudrow/K949b7baeAE_0000003 438.9 444.6 
+Lisa_Kudrow/K949b7baeAE_0000004 482.1 486.6 
+Lisa_Kudrow/K949b7baeAE_0000005 547.7 554.5 

@@ -1,0 +1,12 @@
+POI: 			Asa_Butterfield 
+Youtube ID: 	1TmvLk8sB-g 
+Video length: 	135.3 sec 
+Set (V): 		dev 
+ 
+Asa_Butterfield/1TmvLk8sB-g_0000001 32.0 36.0 
+Asa_Butterfield/1TmvLk8sB-g_0000002 38.8 43.4 
+Asa_Butterfield/1TmvLk8sB-g_0000003 58.8 63.3 
+Asa_Butterfield/1TmvLk8sB-g_0000004 69.1 74.1 
+Asa_Butterfield/1TmvLk8sB-g_0000005 88.4 98.2 
+Asa_Butterfield/1TmvLk8sB-g_0000006 98.8 103.2 
+Asa_Butterfield/1TmvLk8sB-g_0000007 111.4 117.3 

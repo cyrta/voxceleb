@@ -1,0 +1,7 @@
+POI: 			Andrew_Garfield 
+Youtube ID: 	cFG9BcBbTQ8 
+Video length: 	124.1 sec 
+Set (V): 		dev 
+ 
+Andrew_Garfield/cFG9BcBbTQ8_0000001 42.0 47.6 
+Andrew_Garfield/cFG9BcBbTQ8_0000002 52.1 57.6 

@@ -1,0 +1,22 @@
+POI: 			Amitabh_Bachchan 
+Youtube ID: 	UDF1uu1iWyA 
+Video length: 	413.5 sec 
+Set (V): 		dev 
+ 
+Amitabh_Bachchan/UDF1uu1iWyA_0000001 35.4 41.3 
+Amitabh_Bachchan/UDF1uu1iWyA_0000002 42.2 48.1 
+Amitabh_Bachchan/UDF1uu1iWyA_0000003 50.5 55.4 
+Amitabh_Bachchan/UDF1uu1iWyA_0000004 78.2 83.3 
+Amitabh_Bachchan/UDF1uu1iWyA_0000005 84.1 88.7 
+Amitabh_Bachchan/UDF1uu1iWyA_0000006 116.9 122.6 
+Amitabh_Bachchan/UDF1uu1iWyA_0000007 124.6 131.4 
+Amitabh_Bachchan/UDF1uu1iWyA_0000008 160.6 171.3 
+Amitabh_Bachchan/UDF1uu1iWyA_0000009 182.0 189.4 
+Amitabh_Bachchan/UDF1uu1iWyA_0000010 196.8 201.3 
+Amitabh_Bachchan/UDF1uu1iWyA_0000011 239.1 244.2 
+Amitabh_Bachchan/UDF1uu1iWyA_0000012 253.2 257.3 
+Amitabh_Bachchan/UDF1uu1iWyA_0000013 265.5 273.4 
+Amitabh_Bachchan/UDF1uu1iWyA_0000014 274.7 281.2 
+Amitabh_Bachchan/UDF1uu1iWyA_0000015 284.2 291.2 
+Amitabh_Bachchan/UDF1uu1iWyA_0000016 297.2 305.4 
+Amitabh_Bachchan/UDF1uu1iWyA_0000017 322.9 330.6 

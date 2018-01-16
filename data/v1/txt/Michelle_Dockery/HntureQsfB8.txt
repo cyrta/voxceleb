@@ -1,0 +1,8 @@
+POI: 			Michelle_Dockery 
+Youtube ID: 	HntureQsfB8 
+Video length: 	384.0 sec 
+Set (V): 		dev 
+ 
+Michelle_Dockery/HntureQsfB8_0000001 104.0 111.9 
+Michelle_Dockery/HntureQsfB8_0000002 117.4 122.6 
+Michelle_Dockery/HntureQsfB8_0000003 322.6 326.6 

@@ -1,0 +1,14 @@
+POI: 			Jason_Earles 
+Youtube ID: 	kWJBSuuqnwE 
+Video length: 	558.6 sec 
+Set (V): 		dev 
+ 
+Jason_Earles/kWJBSuuqnwE_0000001 139.7 147.7 
+Jason_Earles/kWJBSuuqnwE_0000002 206.0 213.0 
+Jason_Earles/kWJBSuuqnwE_0000003 317.8 331.9 
+Jason_Earles/kWJBSuuqnwE_0000004 333.8 338.4 
+Jason_Earles/kWJBSuuqnwE_0000005 338.6 347.7 
+Jason_Earles/kWJBSuuqnwE_0000006 352.9 360.7 
+Jason_Earles/kWJBSuuqnwE_0000007 361.4 368.4 
+Jason_Earles/kWJBSuuqnwE_0000008 397.6 402.9 
+Jason_Earles/kWJBSuuqnwE_0000009 403.4 410.1 

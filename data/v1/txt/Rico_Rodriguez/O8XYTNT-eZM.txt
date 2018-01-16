@@ -1,0 +1,8 @@
+POI: 			Rico_Rodriguez 
+Youtube ID: 	O8XYTNT-eZM 
+Video length: 	284.9 sec 
+Set (V): 		dev 
+ 
+Rico_Rodriguez/O8XYTNT-eZM_0000001 115.6 125.3 
+Rico_Rodriguez/O8XYTNT-eZM_0000002 158.9 174.5 
+Rico_Rodriguez/O8XYTNT-eZM_0000003 225.5 233.4 

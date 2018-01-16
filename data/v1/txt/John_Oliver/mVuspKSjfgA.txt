@@ -1,0 +1,7 @@
+POI: 			John_Oliver 
+Youtube ID: 	mVuspKSjfgA 
+Video length: 	400.6 sec 
+Set (V): 		dev 
+ 
+John_Oliver/mVuspKSjfgA_0000001 80.8 86.3 
+John_Oliver/mVuspKSjfgA_0000002 352.3 356.4 

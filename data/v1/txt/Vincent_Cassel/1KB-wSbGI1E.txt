@@ -1,0 +1,7 @@
+POI: 			Vincent_Cassel 
+Youtube ID: 	1KB-wSbGI1E 
+Video length: 	340.3 sec 
+Set (V): 		dev 
+ 
+Vincent_Cassel/1KB-wSbGI1E_0000001 74.4 80.7 
+Vincent_Cassel/1KB-wSbGI1E_0000002 87.2 92.7 

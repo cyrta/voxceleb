@@ -1,0 +1,15 @@
+POI: 			Willem_Dafoe 
+Youtube ID: 	F5MTYp0sI2w 
+Video length: 	621.6 sec 
+Set (V): 		dev 
+ 
+Willem_Dafoe/F5MTYp0sI2w_0000001 225.1 247.8 
+Willem_Dafoe/F5MTYp0sI2w_0000002 248.1 253.5 
+Willem_Dafoe/F5MTYp0sI2w_0000003 274.8 283.2 
+Willem_Dafoe/F5MTYp0sI2w_0000004 283.4 288.0 
+Willem_Dafoe/F5MTYp0sI2w_0000005 334.0 339.9 
+Willem_Dafoe/F5MTYp0sI2w_0000006 340.0 355.4 
+Willem_Dafoe/F5MTYp0sI2w_0000007 429.5 445.2 
+Willem_Dafoe/F5MTYp0sI2w_0000008 446.1 470.7 
+Willem_Dafoe/F5MTYp0sI2w_0000009 471.5 476.4 
+Willem_Dafoe/F5MTYp0sI2w_0000010 505.4 519.4 

@@ -1,0 +1,8 @@
+POI: 			John_Hurt 
+Youtube ID: 	ngyp79107ks 
+Video length: 	212.8 sec 
+Set (V): 		dev 
+ 
+John_Hurt/ngyp79107ks_0000001 121.5 126.7 
+John_Hurt/ngyp79107ks_0000002 129.0 133.0 
+John_Hurt/ngyp79107ks_0000003 135.3 143.5 

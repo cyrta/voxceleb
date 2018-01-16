@@ -1,0 +1,8 @@
+POI: 			David_Suchet 
+Youtube ID: 	hph_x7U7ZVY 
+Video length: 	102.7 sec 
+Set (V): 		dev 
+ 
+David_Suchet/hph_x7U7ZVY_0000001 08.2 13.0 
+David_Suchet/hph_x7U7ZVY_0000002 44.7 52.7 
+David_Suchet/hph_x7U7ZVY_0000003 89.4 95.6 

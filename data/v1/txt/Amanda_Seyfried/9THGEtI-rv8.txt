@@ -1,0 +1,23 @@
+POI: 			Amanda_Seyfried 
+Youtube ID: 	9THGEtI-rv8 
+Video length: 	1768.8 sec 
+Set (V): 		dev 
+ 
+Amanda_Seyfried/9THGEtI-rv8_0000001 56.5 61.0 
+Amanda_Seyfried/9THGEtI-rv8_0000002 102.6 108.6 
+Amanda_Seyfried/9THGEtI-rv8_0000003 186.3 190.9 
+Amanda_Seyfried/9THGEtI-rv8_0000004 596.5 605.1 
+Amanda_Seyfried/9THGEtI-rv8_0000005 684.8 693.9 
+Amanda_Seyfried/9THGEtI-rv8_0000006 760.0 764.2 
+Amanda_Seyfried/9THGEtI-rv8_0000007 880.1 884.2 
+Amanda_Seyfried/9THGEtI-rv8_0000008 889.2 896.1 
+Amanda_Seyfried/9THGEtI-rv8_0000009 959.3 964.0 
+Amanda_Seyfried/9THGEtI-rv8_0000010 1056.8 1061.4 
+Amanda_Seyfried/9THGEtI-rv8_0000011 1085.5 1094.2 
+Amanda_Seyfried/9THGEtI-rv8_0000012 1129.1 1133.2 
+Amanda_Seyfried/9THGEtI-rv8_0000013 1213.0 1218.2 
+Amanda_Seyfried/9THGEtI-rv8_0000014 1247.0 1251.8 
+Amanda_Seyfried/9THGEtI-rv8_0000015 1316.3 1321.2 
+Amanda_Seyfried/9THGEtI-rv8_0000016 1500.0 1504.1 
+Amanda_Seyfried/9THGEtI-rv8_0000017 1561.9 1568.0 
+Amanda_Seyfried/9THGEtI-rv8_0000018 1720.8 1725.6 

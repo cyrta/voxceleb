@@ -1,0 +1,15 @@
+POI: 			Jake_T._Austin 
+Youtube ID: 	a238Xlpr4LE 
+Video length: 	215.8 sec 
+Set (V): 		dev 
+ 
+Jake_T._Austin/a238Xlpr4LE_0000001 28.5 40.7 
+Jake_T._Austin/a238Xlpr4LE_0000002 49.9 64.7 
+Jake_T._Austin/a238Xlpr4LE_0000003 73.4 81.5 
+Jake_T._Austin/a238Xlpr4LE_0000004 87.9 94.2 
+Jake_T._Austin/a238Xlpr4LE_0000005 80.0 84.0 
+Jake_T._Austin/a238Xlpr4LE_0000006 104.8 112.9 
+Jake_T._Austin/a238Xlpr4LE_0000007 113.0 119.4 
+Jake_T._Austin/a238Xlpr4LE_0000008 125.9 130.0 
+Jake_T._Austin/a238Xlpr4LE_0000009 167.7 172.2 
+Jake_T._Austin/a238Xlpr4LE_0000010 190.9 202.6 

@@ -1,0 +1,12 @@
+POI: 			Patrick_Duffy 
+Youtube ID: 	y_DxEsYv6TE 
+Video length: 	184.8 sec 
+Set (V): 		dev 
+ 
+Patrick_Duffy/y_DxEsYv6TE_0000001 12.8 20.0 
+Patrick_Duffy/y_DxEsYv6TE_0000002 32.0 37.6 
+Patrick_Duffy/y_DxEsYv6TE_0000003 39.5 45.8 
+Patrick_Duffy/y_DxEsYv6TE_0000004 76.2 82.0 
+Patrick_Duffy/y_DxEsYv6TE_0000005 130.6 135.3 
+Patrick_Duffy/y_DxEsYv6TE_0000006 160.6 166.6 
+Patrick_Duffy/y_DxEsYv6TE_0000007 173.9 180.2 

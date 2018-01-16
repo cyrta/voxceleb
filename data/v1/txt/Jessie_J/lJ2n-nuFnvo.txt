@@ -1,0 +1,14 @@
+POI: 			Jessie_J 
+Youtube ID: 	lJ2n-nuFnvo 
+Video length: 	730.0 sec 
+Set (V): 		dev 
+ 
+Jessie_J/lJ2n-nuFnvo_0000001 25.3 32.6 
+Jessie_J/lJ2n-nuFnvo_0000002 58.9 63.0 
+Jessie_J/lJ2n-nuFnvo_0000003 237.5 241.8 
+Jessie_J/lJ2n-nuFnvo_0000004 260.1 266.0 
+Jessie_J/lJ2n-nuFnvo_0000005 268.9 274.2 
+Jessie_J/lJ2n-nuFnvo_0000006 389.9 397.9 
+Jessie_J/lJ2n-nuFnvo_0000007 418.5 426.3 
+Jessie_J/lJ2n-nuFnvo_0000008 434.8 447.1 
+Jessie_J/lJ2n-nuFnvo_0000009 458.6 465.4 

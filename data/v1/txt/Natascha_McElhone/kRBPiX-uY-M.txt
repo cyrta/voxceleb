@@ -1,0 +1,18 @@
+POI: 			Natascha_McElhone 
+Youtube ID: 	kRBPiX-uY-M 
+Video length: 	223.1 sec 
+Set (V): 		dev 
+ 
+Natascha_McElhone/kRBPiX-uY-M_0000001 03.8 10.2 
+Natascha_McElhone/kRBPiX-uY-M_0000002 11.5 54.6 
+Natascha_McElhone/kRBPiX-uY-M_0000003 55.8 60.2 
+Natascha_McElhone/kRBPiX-uY-M_0000004 70.6 87.1 
+Natascha_McElhone/kRBPiX-uY-M_0000005 89.0 95.4 
+Natascha_McElhone/kRBPiX-uY-M_0000006 118.7 124.0 
+Natascha_McElhone/kRBPiX-uY-M_0000007 124.3 129.3 
+Natascha_McElhone/kRBPiX-uY-M_0000008 148.2 154.5 
+Natascha_McElhone/kRBPiX-uY-M_0000009 160.5 166.1 
+Natascha_McElhone/kRBPiX-uY-M_0000010 178.4 183.9 
+Natascha_McElhone/kRBPiX-uY-M_0000011 186.1 190.8 
+Natascha_McElhone/kRBPiX-uY-M_0000012 199.8 204.1 
+Natascha_McElhone/kRBPiX-uY-M_0000013 209.4 217.4 

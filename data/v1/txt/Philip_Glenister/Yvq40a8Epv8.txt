@@ -1,0 +1,9 @@
+POI: 			Philip_Glenister 
+Youtube ID: 	Yvq40a8Epv8 
+Video length: 	106.6 sec 
+Set (V): 		dev 
+ 
+Philip_Glenister/Yvq40a8Epv8_0000001 39.7 44.8 
+Philip_Glenister/Yvq40a8Epv8_0000002 47.6 55.7 
+Philip_Glenister/Yvq40a8Epv8_0000003 78.0 82.6 
+Philip_Glenister/Yvq40a8Epv8_0000004 86.7 92.4 

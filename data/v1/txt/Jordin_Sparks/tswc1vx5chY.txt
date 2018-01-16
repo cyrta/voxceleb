@@ -1,0 +1,15 @@
+POI: 			Jordin_Sparks 
+Youtube ID: 	tswc1vx5chY 
+Video length: 	311.7 sec 
+Set (V): 		dev 
+ 
+Jordin_Sparks/tswc1vx5chY_0000001 82.7 105.2 
+Jordin_Sparks/tswc1vx5chY_0000002 126.0 133.0 
+Jordin_Sparks/tswc1vx5chY_0000003 139.8 155.3 
+Jordin_Sparks/tswc1vx5chY_0000004 156.2 164.2 
+Jordin_Sparks/tswc1vx5chY_0000005 207.9 216.9 
+Jordin_Sparks/tswc1vx5chY_0000006 231.6 248.6 
+Jordin_Sparks/tswc1vx5chY_0000007 249.5 262.7 
+Jordin_Sparks/tswc1vx5chY_0000008 271.2 284.6 
+Jordin_Sparks/tswc1vx5chY_0000009 285.2 289.2 
+Jordin_Sparks/tswc1vx5chY_0000010 291.9 301.2 

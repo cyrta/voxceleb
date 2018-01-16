@@ -1,0 +1,9 @@
+POI: 			Drew_Roy 
+Youtube ID: 	K5x93gzGSlA 
+Video length: 	120.8 sec 
+Set (V): 		dev 
+ 
+Drew_Roy/K5x93gzGSlA_0000001 11.9 17.7 
+Drew_Roy/K5x93gzGSlA_0000002 18.2 32.5 
+Drew_Roy/K5x93gzGSlA_0000003 74.6 78.7 
+Drew_Roy/K5x93gzGSlA_0000004 86.6 92.8 

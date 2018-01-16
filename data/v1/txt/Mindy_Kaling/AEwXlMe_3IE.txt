@@ -1,0 +1,8 @@
+POI: 			Mindy_Kaling 
+Youtube ID: 	AEwXlMe_3IE 
+Video length: 	219.5 sec 
+Set (V): 		dev 
+ 
+Mindy_Kaling/AEwXlMe_3IE_0000001 42.0 46.2 
+Mindy_Kaling/AEwXlMe_3IE_0000002 114.8 119.0 
+Mindy_Kaling/AEwXlMe_3IE_0000003 124.8 129.6 

@@ -1,0 +1,8 @@
+POI: 			Kristen_Stewart 
+Youtube ID: 	ko_EpFVrw4w 
+Video length: 	282.4 sec 
+Set (V): 		dev 
+ 
+Kristen_Stewart/ko_EpFVrw4w_0000001 32.2 39.2 
+Kristen_Stewart/ko_EpFVrw4w_0000002 84.4 88.9 
+Kristen_Stewart/ko_EpFVrw4w_0000003 180.4 192.5 

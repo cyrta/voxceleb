@@ -1,0 +1,19 @@
+POI: 			Vanessa_Marcil 
+Youtube ID: 	Qu-BZPXLBLA 
+Video length: 	345.3 sec 
+Set (V): 		dev 
+ 
+Vanessa_Marcil/Qu-BZPXLBLA_0000001 37.6 42.2 
+Vanessa_Marcil/Qu-BZPXLBLA_0000002 43.4 50.2 
+Vanessa_Marcil/Qu-BZPXLBLA_0000003 87.4 100.2 
+Vanessa_Marcil/Qu-BZPXLBLA_0000004 103.4 107.7 
+Vanessa_Marcil/Qu-BZPXLBLA_0000005 110.1 114.1 
+Vanessa_Marcil/Qu-BZPXLBLA_0000006 114.4 118.6 
+Vanessa_Marcil/Qu-BZPXLBLA_0000007 119.1 127.1 
+Vanessa_Marcil/Qu-BZPXLBLA_0000008 131.8 136.6 
+Vanessa_Marcil/Qu-BZPXLBLA_0000009 234.0 247.4 
+Vanessa_Marcil/Qu-BZPXLBLA_0000010 248.2 255.5 
+Vanessa_Marcil/Qu-BZPXLBLA_0000011 259.8 268.8 
+Vanessa_Marcil/Qu-BZPXLBLA_0000012 269.0 276.1 
+Vanessa_Marcil/Qu-BZPXLBLA_0000013 321.6 326.0 
+Vanessa_Marcil/Qu-BZPXLBLA_0000014 326.2 330.8 

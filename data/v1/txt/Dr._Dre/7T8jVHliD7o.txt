@@ -1,0 +1,14 @@
+POI: 			Dr._Dre 
+Youtube ID: 	7T8jVHliD7o 
+Video length: 	170.3 sec 
+Set (V): 		dev 
+ 
+Dr._Dre/7T8jVHliD7o_0000001 10.7 15.8 
+Dr._Dre/7T8jVHliD7o_0000002 24.0 28.5 
+Dr._Dre/7T8jVHliD7o_0000003 43.9 56.0 
+Dr._Dre/7T8jVHliD7o_0000004 58.4 64.1 
+Dr._Dre/7T8jVHliD7o_0000005 67.9 72.1 
+Dr._Dre/7T8jVHliD7o_0000006 74.7 82.0 
+Dr._Dre/7T8jVHliD7o_0000007 98.8 107.0 
+Dr._Dre/7T8jVHliD7o_0000008 107.1 111.9 
+Dr._Dre/7T8jVHliD7o_0000009 112.5 137.4 

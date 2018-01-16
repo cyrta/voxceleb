@@ -1,0 +1,12 @@
+POI: 			Laura_Haddock 
+Youtube ID: 	yjq275mPdeY 
+Video length: 	495.1 sec 
+Set (V): 		dev 
+ 
+Laura_Haddock/yjq275mPdeY_0000001 68.0 73.1 
+Laura_Haddock/yjq275mPdeY_0000002 73.5 77.6 
+Laura_Haddock/yjq275mPdeY_0000003 83.3 87.3 
+Laura_Haddock/yjq275mPdeY_0000004 87.7 92.2 
+Laura_Haddock/yjq275mPdeY_0000005 382.7 386.8 
+Laura_Haddock/yjq275mPdeY_0000006 391.3 395.4 
+Laura_Haddock/yjq275mPdeY_0000007 409.4 419.6 

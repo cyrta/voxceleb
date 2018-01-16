@@ -1,0 +1,8 @@
+POI: 			Linda_Evans 
+Youtube ID: 	B-veiVxyYLg 
+Video length: 	238.8 sec 
+Set (V): 		dev 
+ 
+Linda_Evans/B-veiVxyYLg_0000001 107.0 117.6 
+Linda_Evans/B-veiVxyYLg_0000002 201.9 221.5 
+Linda_Evans/B-veiVxyYLg_0000003 229.5 236.2 

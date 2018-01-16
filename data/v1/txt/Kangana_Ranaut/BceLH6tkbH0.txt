@@ -1,0 +1,26 @@
+POI: 			Kangana_Ranaut 
+Youtube ID: 	BceLH6tkbH0 
+Video length: 	1415.1 sec 
+Set (V): 		dev 
+ 
+Kangana_Ranaut/BceLH6tkbH0_0000001 225.8 249.1 
+Kangana_Ranaut/BceLH6tkbH0_0000002 255.3 282.8 
+Kangana_Ranaut/BceLH6tkbH0_0000003 289.7 300.7 
+Kangana_Ranaut/BceLH6tkbH0_0000004 333.0 362.6 
+Kangana_Ranaut/BceLH6tkbH0_0000005 462.8 467.8 
+Kangana_Ranaut/BceLH6tkbH0_0000006 478.4 491.5 
+Kangana_Ranaut/BceLH6tkbH0_0000007 505.6 520.5 
+Kangana_Ranaut/BceLH6tkbH0_0000008 524.8 530.6 
+Kangana_Ranaut/BceLH6tkbH0_0000009 729.8 739.2 
+Kangana_Ranaut/BceLH6tkbH0_0000010 759.5 781.7 
+Kangana_Ranaut/BceLH6tkbH0_0000011 811.8 816.5 
+Kangana_Ranaut/BceLH6tkbH0_0000012 825.0 832.5 
+Kangana_Ranaut/BceLH6tkbH0_0000013 983.6 990.8 
+Kangana_Ranaut/BceLH6tkbH0_0000014 1000.4 1018.2 
+Kangana_Ranaut/BceLH6tkbH0_0000015 1078.0 1086.2 
+Kangana_Ranaut/BceLH6tkbH0_0000016 1093.5 1098.2 
+Kangana_Ranaut/BceLH6tkbH0_0000017 1104.9 1115.5 
+Kangana_Ranaut/BceLH6tkbH0_0000018 1166.0 1181.1 
+Kangana_Ranaut/BceLH6tkbH0_0000019 1195.0 1208.1 
+Kangana_Ranaut/BceLH6tkbH0_0000020 1220.4 1232.2 
+Kangana_Ranaut/BceLH6tkbH0_0000021 1387.8 1394.2 

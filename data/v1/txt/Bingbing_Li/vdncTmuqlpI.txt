@@ -1,0 +1,12 @@
+POI: 			Bingbing_Li 
+Youtube ID: 	vdncTmuqlpI 
+Video length: 	160.4 sec 
+Set (V): 		dev 
+ 
+Bingbing_Li/vdncTmuqlpI_0000001 16.2 21.8 
+Bingbing_Li/vdncTmuqlpI_0000002 24.9 29.6 
+Bingbing_Li/vdncTmuqlpI_0000003 51.9 59.4 
+Bingbing_Li/vdncTmuqlpI_0000004 62.3 66.5 
+Bingbing_Li/vdncTmuqlpI_0000005 88.6 97.3 
+Bingbing_Li/vdncTmuqlpI_0000006 105.2 109.1 
+Bingbing_Li/vdncTmuqlpI_0000007 138.4 143.2 

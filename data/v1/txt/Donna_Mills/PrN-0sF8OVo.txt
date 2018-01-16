@@ -1,0 +1,10 @@
+POI: 			Donna_Mills 
+Youtube ID: 	PrN-0sF8OVo 
+Video length: 	397.6 sec 
+Set (V): 		dev 
+ 
+Donna_Mills/PrN-0sF8OVo_0000001 79.7 84.9 
+Donna_Mills/PrN-0sF8OVo_0000002 183.9 188.3 
+Donna_Mills/PrN-0sF8OVo_0000003 199.1 204.4 
+Donna_Mills/PrN-0sF8OVo_0000004 247.4 255.4 
+Donna_Mills/PrN-0sF8OVo_0000005 338.9 351.0 

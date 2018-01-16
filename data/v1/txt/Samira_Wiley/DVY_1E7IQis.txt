@@ -1,0 +1,9 @@
+POI: 			Samira_Wiley 
+Youtube ID: 	DVY_1E7IQis 
+Video length: 	366.2 sec 
+Set (V): 		dev 
+ 
+Samira_Wiley/DVY_1E7IQis_0000001 161.6 168.5 
+Samira_Wiley/DVY_1E7IQis_0000002 215.2 220.6 
+Samira_Wiley/DVY_1E7IQis_0000003 221.6 236.8 
+Samira_Wiley/DVY_1E7IQis_0000004 320.6 325.2 

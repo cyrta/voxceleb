@@ -1,0 +1,9 @@
+POI: 			Kaya_Scodelario 
+Youtube ID: 	wImrFMaIsLA 
+Video length: 	90.5 sec 
+Set (V): 		dev 
+ 
+Kaya_Scodelario/wImrFMaIsLA_0000001 08.6 20.5 
+Kaya_Scodelario/wImrFMaIsLA_0000002 27.2 35.3 
+Kaya_Scodelario/wImrFMaIsLA_0000003 42.0 58.1 
+Kaya_Scodelario/wImrFMaIsLA_0000004 63.7 80.6 

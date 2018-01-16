@@ -1,0 +1,9 @@
+POI: 			Jillian_Harris 
+Youtube ID: 	kCewpp7MZ1o 
+Video length: 	138.7 sec 
+Set (V): 		dev 
+ 
+Jillian_Harris/kCewpp7MZ1o_0000001 28.3 39.7 
+Jillian_Harris/kCewpp7MZ1o_0000002 42.5 47.9 
+Jillian_Harris/kCewpp7MZ1o_0000003 86.2 97.3 
+Jillian_Harris/kCewpp7MZ1o_0000004 126.0 133.8 

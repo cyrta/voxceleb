@@ -1,0 +1,9 @@
+POI: 			Maria_Bamford 
+Youtube ID: 	ja3XIBEItAE 
+Video length: 	454.2 sec 
+Set (V): 		dev 
+ 
+Maria_Bamford/ja3XIBEItAE_0000001 79.1 83.6 
+Maria_Bamford/ja3XIBEItAE_0000002 235.4 240.4 
+Maria_Bamford/ja3XIBEItAE_0000003 336.2 340.2 
+Maria_Bamford/ja3XIBEItAE_0000004 417.5 422.2 

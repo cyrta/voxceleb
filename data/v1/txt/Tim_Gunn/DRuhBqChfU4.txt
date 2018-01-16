@@ -1,0 +1,22 @@
+POI: 			Tim_Gunn 
+Youtube ID: 	DRuhBqChfU4 
+Video length: 	549.3 sec 
+Set (V): 		dev 
+ 
+Tim_Gunn/DRuhBqChfU4_0000001 117.3 130.4 
+Tim_Gunn/DRuhBqChfU4_0000002 132.0 146.1 
+Tim_Gunn/DRuhBqChfU4_0000003 180.0 186.8 
+Tim_Gunn/DRuhBqChfU4_0000004 192.1 202.6 
+Tim_Gunn/DRuhBqChfU4_0000005 204.0 210.8 
+Tim_Gunn/DRuhBqChfU4_0000006 211.2 222.6 
+Tim_Gunn/DRuhBqChfU4_0000007 262.4 268.4 
+Tim_Gunn/DRuhBqChfU4_0000008 269.0 272.9 
+Tim_Gunn/DRuhBqChfU4_0000009 282.2 291.1 
+Tim_Gunn/DRuhBqChfU4_0000010 292.3 297.1 
+Tim_Gunn/DRuhBqChfU4_0000011 323.9 333.5 
+Tim_Gunn/DRuhBqChfU4_0000012 337.7 342.8 
+Tim_Gunn/DRuhBqChfU4_0000013 352.8 357.1 
+Tim_Gunn/DRuhBqChfU4_0000014 386.8 401.8 
+Tim_Gunn/DRuhBqChfU4_0000015 420.2 424.4 
+Tim_Gunn/DRuhBqChfU4_0000016 523.5 534.6 
+Tim_Gunn/DRuhBqChfU4_0000017 538.2 544.5 

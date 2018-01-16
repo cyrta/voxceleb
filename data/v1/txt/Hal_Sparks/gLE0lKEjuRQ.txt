@@ -1,0 +1,12 @@
+POI: 			Hal_Sparks 
+Youtube ID: 	gLE0lKEjuRQ 
+Video length: 	220.0 sec 
+Set (V): 		dev 
+ 
+Hal_Sparks/gLE0lKEjuRQ_0000001 40.6 47.4 
+Hal_Sparks/gLE0lKEjuRQ_0000002 48.0 55.8 
+Hal_Sparks/gLE0lKEjuRQ_0000003 68.6 74.3 
+Hal_Sparks/gLE0lKEjuRQ_0000004 74.8 82.0 
+Hal_Sparks/gLE0lKEjuRQ_0000005 93.5 102.3 
+Hal_Sparks/gLE0lKEjuRQ_0000006 159.7 163.8 
+Hal_Sparks/gLE0lKEjuRQ_0000007 164.5 170.6 

@@ -1,0 +1,15 @@
+POI: 			Ludacris 
+Youtube ID: 	HGMspfvDyXY 
+Video length: 	447.8 sec 
+Set (V): 		dev 
+ 
+Ludacris/HGMspfvDyXY_0000001 95.1 99.2 
+Ludacris/HGMspfvDyXY_0000002 120.7 128.6 
+Ludacris/HGMspfvDyXY_0000003 142.0 146.2 
+Ludacris/HGMspfvDyXY_0000004 157.5 163.3 
+Ludacris/HGMspfvDyXY_0000005 164.2 168.4 
+Ludacris/HGMspfvDyXY_0000006 194.9 201.2 
+Ludacris/HGMspfvDyXY_0000007 262.6 266.9 
+Ludacris/HGMspfvDyXY_0000008 309.0 313.6 
+Ludacris/HGMspfvDyXY_0000009 314.2 322.9 
+Ludacris/HGMspfvDyXY_0000010 425.0 429.0 

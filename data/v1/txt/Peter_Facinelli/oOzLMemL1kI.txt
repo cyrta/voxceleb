@@ -1,0 +1,10 @@
+POI: 			Peter_Facinelli 
+Youtube ID: 	oOzLMemL1kI 
+Video length: 	241.2 sec 
+Set (V): 		dev 
+ 
+Peter_Facinelli/oOzLMemL1kI_0000001 48.8 53.4 
+Peter_Facinelli/oOzLMemL1kI_0000002 54.3 64.8 
+Peter_Facinelli/oOzLMemL1kI_0000003 73.3 84.1 
+Peter_Facinelli/oOzLMemL1kI_0000004 172.2 176.8 
+Peter_Facinelli/oOzLMemL1kI_0000005 187.3 195.9 

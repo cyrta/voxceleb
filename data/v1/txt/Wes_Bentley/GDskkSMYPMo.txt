@@ -1,0 +1,11 @@
+POI: 			Wes_Bentley 
+Youtube ID: 	GDskkSMYPMo 
+Video length: 	141.2 sec 
+Set (V): 		dev 
+ 
+Wes_Bentley/GDskkSMYPMo_0000001 28.9 39.6 
+Wes_Bentley/GDskkSMYPMo_0000002 44.9 55.8 
+Wes_Bentley/GDskkSMYPMo_0000003 56.8 63.0 
+Wes_Bentley/GDskkSMYPMo_0000004 63.9 73.0 
+Wes_Bentley/GDskkSMYPMo_0000005 94.0 103.2 
+Wes_Bentley/GDskkSMYPMo_0000006 114.0 121.1 

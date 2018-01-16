@@ -1,0 +1,25 @@
+POI: 			Jack_Black 
+Youtube ID: 	bIlTn73gfNA 
+Video length: 	290.9 sec 
+Set (V): 		dev 
+ 
+Jack_Black/bIlTn73gfNA_0000001 00.9 05.0 
+Jack_Black/bIlTn73gfNA_0000002 13.5 18.4 
+Jack_Black/bIlTn73gfNA_0000003 26.3 33.0 
+Jack_Black/bIlTn73gfNA_0000004 40.4 48.2 
+Jack_Black/bIlTn73gfNA_0000005 63.7 69.8 
+Jack_Black/bIlTn73gfNA_0000006 97.7 102.8 
+Jack_Black/bIlTn73gfNA_0000007 154.0 160.2 
+Jack_Black/bIlTn73gfNA_0000008 163.0 168.4 
+Jack_Black/bIlTn73gfNA_0000009 174.0 182.5 
+Jack_Black/bIlTn73gfNA_0000010 186.5 191.7 
+Jack_Black/bIlTn73gfNA_0000011 154.1 160.3 
+Jack_Black/bIlTn73gfNA_0000012 160.4 170.6 
+Jack_Black/bIlTn73gfNA_0000013 173.9 192.1 
+Jack_Black/bIlTn73gfNA_0000014 194.2 200.2 
+Jack_Black/bIlTn73gfNA_0000015 203.2 209.1 
+Jack_Black/bIlTn73gfNA_0000016 223.0 227.6 
+Jack_Black/bIlTn73gfNA_0000017 228.3 234.8 
+Jack_Black/bIlTn73gfNA_0000018 254.2 261.9 
+Jack_Black/bIlTn73gfNA_0000019 263.4 267.6 
+Jack_Black/bIlTn73gfNA_0000020 275.8 284.9 

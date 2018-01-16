@@ -1,0 +1,20 @@
+POI: 			Nicole_Scherzinger 
+Youtube ID: 	uHAyussbdSo 
+Video length: 	304.5 sec 
+Set (V): 		dev 
+ 
+Nicole_Scherzinger/uHAyussbdSo_0000001 11.2 27.0 
+Nicole_Scherzinger/uHAyussbdSo_0000002 83.2 91.6 
+Nicole_Scherzinger/uHAyussbdSo_0000003 92.8 96.8 
+Nicole_Scherzinger/uHAyussbdSo_0000004 103.6 109.4 
+Nicole_Scherzinger/uHAyussbdSo_0000005 140.7 147.0 
+Nicole_Scherzinger/uHAyussbdSo_0000006 160.2 165.0 
+Nicole_Scherzinger/uHAyussbdSo_0000007 169.2 176.4 
+Nicole_Scherzinger/uHAyussbdSo_0000008 177.0 185.0 
+Nicole_Scherzinger/uHAyussbdSo_0000009 189.5 195.6 
+Nicole_Scherzinger/uHAyussbdSo_0000010 227.3 234.5 
+Nicole_Scherzinger/uHAyussbdSo_0000011 240.4 245.0 
+Nicole_Scherzinger/uHAyussbdSo_0000012 245.3 253.1 
+Nicole_Scherzinger/uHAyussbdSo_0000013 266.4 279.2 
+Nicole_Scherzinger/uHAyussbdSo_0000014 280.4 285.6 
+Nicole_Scherzinger/uHAyussbdSo_0000015 286.3 302.7 

@@ -1,0 +1,10 @@
+POI: 			Michelle_Williams 
+Youtube ID: 	UqPnmx8p6NI 
+Video length: 	225.5 sec 
+Set (V): 		dev 
+ 
+Michelle_Williams/UqPnmx8p6NI_0000001 85.8 97.8 
+Michelle_Williams/UqPnmx8p6NI_0000002 101.7 130.3 
+Michelle_Williams/UqPnmx8p6NI_0000003 192.3 196.7 
+Michelle_Williams/UqPnmx8p6NI_0000004 198.8 204.7 
+Michelle_Williams/UqPnmx8p6NI_0000005 207.8 219.8 

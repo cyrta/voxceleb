@@ -1,0 +1,8 @@
+POI: 			Jennifer_Esposito 
+Youtube ID: 	I80qfqnGsDQ 
+Video length: 	87.2 sec 
+Set (V): 		dev 
+ 
+Jennifer_Esposito/I80qfqnGsDQ_0000001 19.7 24.2 
+Jennifer_Esposito/I80qfqnGsDQ_0000002 31.4 37.7 
+Jennifer_Esposito/I80qfqnGsDQ_0000003 51.4 57.4 

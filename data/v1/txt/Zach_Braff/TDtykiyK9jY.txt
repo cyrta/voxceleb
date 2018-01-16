@@ -1,0 +1,7 @@
+POI: 			Zach_Braff 
+Youtube ID: 	TDtykiyK9jY 
+Video length: 	311.0 sec 
+Set (V): 		dev 
+ 
+Zach_Braff/TDtykiyK9jY_0000001 14.3 21.0 
+Zach_Braff/TDtykiyK9jY_0000002 21.2 29.5 

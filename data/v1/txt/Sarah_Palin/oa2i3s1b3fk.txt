@@ -1,0 +1,17 @@
+POI: 			Sarah_Palin 
+Youtube ID: 	oa2i3s1b3fk 
+Video length: 	393.2 sec 
+Set (V): 		dev 
+ 
+Sarah_Palin/oa2i3s1b3fk_0000001 34.8 47.0 
+Sarah_Palin/oa2i3s1b3fk_0000002 101.5 119.7 
+Sarah_Palin/oa2i3s1b3fk_0000003 200.5 205.9 
+Sarah_Palin/oa2i3s1b3fk_0000004 211.8 217.0 
+Sarah_Palin/oa2i3s1b3fk_0000005 273.2 288.1 
+Sarah_Palin/oa2i3s1b3fk_0000006 276.8 281.2 
+Sarah_Palin/oa2i3s1b3fk_0000007 290.2 298.5 
+Sarah_Palin/oa2i3s1b3fk_0000008 310.0 315.7 
+Sarah_Palin/oa2i3s1b3fk_0000009 316.6 322.9 
+Sarah_Palin/oa2i3s1b3fk_0000010 310.4 319.0 
+Sarah_Palin/oa2i3s1b3fk_0000011 329.4 341.6 
+Sarah_Palin/oa2i3s1b3fk_0000012 354.0 367.9 

@@ -1,0 +1,7 @@
+POI: 			Johnny_Galecki 
+Youtube ID: 	HPqb1cRyGWY 
+Video length: 	333.1 sec 
+Set (V): 		dev 
+ 
+Johnny_Galecki/HPqb1cRyGWY_0000001 59.7 65.3 
+Johnny_Galecki/HPqb1cRyGWY_0000002 306.2 315.8 

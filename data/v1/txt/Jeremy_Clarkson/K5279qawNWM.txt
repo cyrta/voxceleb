@@ -1,0 +1,13 @@
+POI: 			Jeremy_Clarkson 
+Youtube ID: 	K5279qawNWM 
+Video length: 	1368.0 sec 
+Set (V): 		dev 
+ 
+Jeremy_Clarkson/K5279qawNWM_0000001 170.2 174.4 
+Jeremy_Clarkson/K5279qawNWM_0000002 1008.0 1016.0 
+Jeremy_Clarkson/K5279qawNWM_0000003 1068.3 1073.8 
+Jeremy_Clarkson/K5279qawNWM_0000004 1106.0 1112.1 
+Jeremy_Clarkson/K5279qawNWM_0000005 1146.0 1154.8 
+Jeremy_Clarkson/K5279qawNWM_0000006 1160.7 1165.3 
+Jeremy_Clarkson/K5279qawNWM_0000007 1185.6 1189.8 
+Jeremy_Clarkson/K5279qawNWM_0000008 1195.3 1205.0 

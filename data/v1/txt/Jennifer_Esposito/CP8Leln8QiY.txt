@@ -1,0 +1,12 @@
+POI: 			Jennifer_Esposito 
+Youtube ID: 	CP8Leln8QiY 
+Video length: 	286.7 sec 
+Set (V): 		dev 
+ 
+Jennifer_Esposito/CP8Leln8QiY_0000001 03.2 07.2 
+Jennifer_Esposito/CP8Leln8QiY_0000002 09.1 13.3 
+Jennifer_Esposito/CP8Leln8QiY_0000003 15.8 22.0 
+Jennifer_Esposito/CP8Leln8QiY_0000004 121.2 129.0 
+Jennifer_Esposito/CP8Leln8QiY_0000005 129.5 140.3 
+Jennifer_Esposito/CP8Leln8QiY_0000006 243.4 248.8 
+Jennifer_Esposito/CP8Leln8QiY_0000007 250.1 254.7 

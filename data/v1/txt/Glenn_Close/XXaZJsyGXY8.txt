@@ -1,0 +1,8 @@
+POI: 			Glenn_Close 
+Youtube ID: 	XXaZJsyGXY8 
+Video length: 	892.4 sec 
+Set (V): 		dev 
+ 
+Glenn_Close/XXaZJsyGXY8_0000001 242.5 247.9 
+Glenn_Close/XXaZJsyGXY8_0000002 261.2 265.4 
+Glenn_Close/XXaZJsyGXY8_0000003 356.0 360.7 

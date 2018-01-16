@@ -1,0 +1,10 @@
+POI: 			Lucy_Hale 
+Youtube ID: 	YFIT2nLb13I 
+Video length: 	291.5 sec 
+Set (V): 		dev 
+ 
+Lucy_Hale/YFIT2nLb13I_0000001 45.6 53.3 
+Lucy_Hale/YFIT2nLb13I_0000002 70.5 76.2 
+Lucy_Hale/YFIT2nLb13I_0000003 187.7 192.5 
+Lucy_Hale/YFIT2nLb13I_0000004 214.6 219.8 
+Lucy_Hale/YFIT2nLb13I_0000005 266.3 270.6 

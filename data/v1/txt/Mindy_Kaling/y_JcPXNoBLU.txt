@@ -1,0 +1,12 @@
+POI: 			Mindy_Kaling 
+Youtube ID: 	y_JcPXNoBLU 
+Video length: 	305.9 sec 
+Set (V): 		dev 
+ 
+Mindy_Kaling/y_JcPXNoBLU_0000001 59.3 76.1 
+Mindy_Kaling/y_JcPXNoBLU_0000002 78.2 87.8 
+Mindy_Kaling/y_JcPXNoBLU_0000003 89.0 96.4 
+Mindy_Kaling/y_JcPXNoBLU_0000004 105.4 118.6 
+Mindy_Kaling/y_JcPXNoBLU_0000005 129.1 134.8 
+Mindy_Kaling/y_JcPXNoBLU_0000006 138.8 145.1 
+Mindy_Kaling/y_JcPXNoBLU_0000007 150.8 162.0 

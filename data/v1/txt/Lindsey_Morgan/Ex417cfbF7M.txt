@@ -1,0 +1,8 @@
+POI: 			Lindsey_Morgan 
+Youtube ID: 	Ex417cfbF7M 
+Video length: 	410.9 sec 
+Set (V): 		dev 
+ 
+Lindsey_Morgan/Ex417cfbF7M_0000001 18.1 27.3 
+Lindsey_Morgan/Ex417cfbF7M_0000002 42.1 50.0 
+Lindsey_Morgan/Ex417cfbF7M_0000003 55.2 63.1 

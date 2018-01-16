@@ -1,0 +1,8 @@
+POI: 			Miranda_Cosgrove 
+Youtube ID: 	IzWNi0jedBo 
+Video length: 	275.0 sec 
+Set (V): 		dev 
+ 
+Miranda_Cosgrove/IzWNi0jedBo_0000001 185.2 191.0 
+Miranda_Cosgrove/IzWNi0jedBo_0000002 222.2 226.3 
+Miranda_Cosgrove/IzWNi0jedBo_0000003 249.8 254.0 

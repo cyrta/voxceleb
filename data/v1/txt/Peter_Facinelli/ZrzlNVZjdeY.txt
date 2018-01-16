@@ -1,0 +1,10 @@
+POI: 			Peter_Facinelli 
+Youtube ID: 	ZrzlNVZjdeY 
+Video length: 	361.7 sec 
+Set (V): 		dev 
+ 
+Peter_Facinelli/ZrzlNVZjdeY_0000001 53.8 63.8 
+Peter_Facinelli/ZrzlNVZjdeY_0000002 147.8 152.2 
+Peter_Facinelli/ZrzlNVZjdeY_0000003 159.7 164.6 
+Peter_Facinelli/ZrzlNVZjdeY_0000004 196.7 208.3 
+Peter_Facinelli/ZrzlNVZjdeY_0000005 209.2 214.0 

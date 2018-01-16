@@ -1,0 +1,7 @@
+POI: 			Alex_Borstein 
+Youtube ID: 	0rBA5VVzI1I 
+Video length: 	265.8 sec 
+Set (V): 		dev 
+ 
+Alex_Borstein/0rBA5VVzI1I_0000001 60.6 66.8 
+Alex_Borstein/0rBA5VVzI1I_0000002 149.4 153.8 

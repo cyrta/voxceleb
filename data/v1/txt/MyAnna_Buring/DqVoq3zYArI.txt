@@ -1,0 +1,8 @@
+POI: 			MyAnna_Buring 
+Youtube ID: 	DqVoq3zYArI 
+Video length: 	155.3 sec 
+Set (V): 		dev 
+ 
+MyAnna_Buring/DqVoq3zYArI_0000001 35.2 39.7 
+MyAnna_Buring/DqVoq3zYArI_0000002 40.0 46.8 
+MyAnna_Buring/DqVoq3zYArI_0000003 83.4 89.4 

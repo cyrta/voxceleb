@@ -1,0 +1,13 @@
+POI: 			Guillaume_Canet 
+Youtube ID: 	BKPkyXW03rE 
+Video length: 	556.7 sec 
+Set (V): 		dev 
+ 
+Guillaume_Canet/BKPkyXW03rE_0000001 247.1 253.9 
+Guillaume_Canet/BKPkyXW03rE_0000002 262.8 267.5 
+Guillaume_Canet/BKPkyXW03rE_0000003 271.9 278.0 
+Guillaume_Canet/BKPkyXW03rE_0000004 290.7 297.6 
+Guillaume_Canet/BKPkyXW03rE_0000005 489.5 493.9 
+Guillaume_Canet/BKPkyXW03rE_0000006 502.2 509.4 
+Guillaume_Canet/BKPkyXW03rE_0000007 510.0 518.3 
+Guillaume_Canet/BKPkyXW03rE_0000008 533.9 539.3 

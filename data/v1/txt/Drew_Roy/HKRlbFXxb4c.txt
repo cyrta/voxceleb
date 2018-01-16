@@ -1,0 +1,7 @@
+POI: 			Drew_Roy 
+Youtube ID: 	HKRlbFXxb4c 
+Video length: 	182.6 sec 
+Set (V): 		dev 
+ 
+Drew_Roy/HKRlbFXxb4c_0000001 100.1 105.4 
+Drew_Roy/HKRlbFXxb4c_0000002 138.5 146.2 

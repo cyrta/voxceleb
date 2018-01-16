@@ -1,0 +1,8 @@
+POI: 			Iwan_Rheon 
+Youtube ID: 	APTGBlwUe90 
+Video length: 	100.8 sec 
+Set (V): 		dev 
+ 
+Iwan_Rheon/APTGBlwUe90_0000001 15.0 19.2 
+Iwan_Rheon/APTGBlwUe90_0000002 24.2 30.3 
+Iwan_Rheon/APTGBlwUe90_0000003 70.7 76.7 

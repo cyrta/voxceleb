@@ -1,0 +1,11 @@
+POI: 			Hugh_Dancy 
+Youtube ID: 	JlQ-wkUDUeg 
+Video length: 	1183.9 sec 
+Set (V): 		dev 
+ 
+Hugh_Dancy/JlQ-wkUDUeg_0000001 118.2 122.5 
+Hugh_Dancy/JlQ-wkUDUeg_0000002 168.4 173.0 
+Hugh_Dancy/JlQ-wkUDUeg_0000003 581.2 585.2 
+Hugh_Dancy/JlQ-wkUDUeg_0000004 711.2 716.1 
+Hugh_Dancy/JlQ-wkUDUeg_0000005 806.4 812.4 
+Hugh_Dancy/JlQ-wkUDUeg_0000006 1062.1 1068.3 

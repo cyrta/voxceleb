@@ -1,0 +1,12 @@
+POI: 			John_Noble 
+Youtube ID: 	KaLDSNkCZFM 
+Video length: 	149.9 sec 
+Set (V): 		dev 
+ 
+John_Noble/KaLDSNkCZFM_0000001 09.7 41.5 
+John_Noble/KaLDSNkCZFM_0000002 42.5 48.3 
+John_Noble/KaLDSNkCZFM_0000003 57.9 62.9 
+John_Noble/KaLDSNkCZFM_0000004 68.5 72.8 
+John_Noble/KaLDSNkCZFM_0000005 84.0 99.7 
+John_Noble/KaLDSNkCZFM_0000006 119.0 132.7 
+John_Noble/KaLDSNkCZFM_0000007 136.5 144.1 

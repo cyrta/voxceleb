@@ -1,0 +1,8 @@
+POI: 			Matt_Bomer 
+Youtube ID: 	CPLvBwr9K4M 
+Video length: 	193.5 sec 
+Set (V): 		dev 
+ 
+Matt_Bomer/CPLvBwr9K4M_0000001 71.5 78.3 
+Matt_Bomer/CPLvBwr9K4M_0000002 128.9 135.9 
+Matt_Bomer/CPLvBwr9K4M_0000003 161.2 166.0 

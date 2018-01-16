@@ -1,0 +1,14 @@
+POI: 			Brendan_Gleeson 
+Youtube ID: 	6muTvtnnOAg 
+Video length: 	376.2 sec 
+Set (V): 		dev 
+ 
+Brendan_Gleeson/6muTvtnnOAg_0000001 29.8 34.3 
+Brendan_Gleeson/6muTvtnnOAg_0000002 148.2 155.4 
+Brendan_Gleeson/6muTvtnnOAg_0000003 162.8 167.3 
+Brendan_Gleeson/6muTvtnnOAg_0000004 179.8 190.6 
+Brendan_Gleeson/6muTvtnnOAg_0000005 271.6 276.1 
+Brendan_Gleeson/6muTvtnnOAg_0000006 283.6 289.1 
+Brendan_Gleeson/6muTvtnnOAg_0000007 289.9 305.3 
+Brendan_Gleeson/6muTvtnnOAg_0000008 313.4 329.2 
+Brendan_Gleeson/6muTvtnnOAg_0000009 345.1 358.7 

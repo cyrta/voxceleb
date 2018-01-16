@@ -1,0 +1,9 @@
+POI: 			Callan_McAuliffe 
+Youtube ID: 	NjBQTTczPhs 
+Video length: 	323.2 sec 
+Set (V): 		dev 
+ 
+Callan_McAuliffe/NjBQTTczPhs_0000001 107.6 114.0 
+Callan_McAuliffe/NjBQTTczPhs_0000002 114.1 118.4 
+Callan_McAuliffe/NjBQTTczPhs_0000003 140.9 157.8 
+Callan_McAuliffe/NjBQTTczPhs_0000004 160.0 175.1 

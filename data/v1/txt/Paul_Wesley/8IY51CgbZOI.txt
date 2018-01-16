@@ -1,0 +1,10 @@
+POI: 			Paul_Wesley 
+Youtube ID: 	8IY51CgbZOI 
+Video length: 	355.7 sec 
+Set (V): 		dev 
+ 
+Paul_Wesley/8IY51CgbZOI_0000001 88.0 92.7 
+Paul_Wesley/8IY51CgbZOI_0000002 141.4 147.8 
+Paul_Wesley/8IY51CgbZOI_0000003 159.0 167.4 
+Paul_Wesley/8IY51CgbZOI_0000004 269.8 275.4 
+Paul_Wesley/8IY51CgbZOI_0000005 324.8 330.2 

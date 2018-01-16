@@ -1,0 +1,7 @@
+POI: 			Anne_Hathaway 
+Youtube ID: 	nliuibEp-xo 
+Video length: 	135.7 sec 
+Set (V): 		dev 
+ 
+Anne_Hathaway/nliuibEp-xo_0000001 32.3 36.9 
+Anne_Hathaway/nliuibEp-xo_0000002 52.0 56.7 

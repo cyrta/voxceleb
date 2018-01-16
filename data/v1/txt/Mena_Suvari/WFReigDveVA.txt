@@ -1,0 +1,8 @@
+POI: 			Mena_Suvari 
+Youtube ID: 	WFReigDveVA 
+Video length: 	67.0 sec 
+Set (V): 		dev 
+ 
+Mena_Suvari/WFReigDveVA_0000001 12.1 17.4 
+Mena_Suvari/WFReigDveVA_0000002 32.7 37.6 
+Mena_Suvari/WFReigDveVA_0000003 45.8 50.6 

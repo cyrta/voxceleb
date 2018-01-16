@@ -1,0 +1,12 @@
+POI: 			Jennette_McCurdy 
+Youtube ID: 	WUCFUpYeXwU 
+Video length: 	308.2 sec 
+Set (V): 		dev 
+ 
+Jennette_McCurdy/WUCFUpYeXwU_0000001 61.2 70.7 
+Jennette_McCurdy/WUCFUpYeXwU_0000002 82.2 88.2 
+Jennette_McCurdy/WUCFUpYeXwU_0000003 104.4 109.6 
+Jennette_McCurdy/WUCFUpYeXwU_0000004 112.3 118.2 
+Jennette_McCurdy/WUCFUpYeXwU_0000005 132.6 145.0 
+Jennette_McCurdy/WUCFUpYeXwU_0000006 270.0 275.0 
+Jennette_McCurdy/WUCFUpYeXwU_0000007 297.2 301.9 

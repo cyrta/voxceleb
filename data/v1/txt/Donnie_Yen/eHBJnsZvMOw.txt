@@ -1,0 +1,10 @@
+POI: 			Donnie_Yen 
+Youtube ID: 	eHBJnsZvMOw 
+Video length: 	259.6 sec 
+Set (V): 		dev 
+ 
+Donnie_Yen/eHBJnsZvMOw_0000001 46.7 53.5 
+Donnie_Yen/eHBJnsZvMOw_0000002 145.8 152.4 
+Donnie_Yen/eHBJnsZvMOw_0000003 180.9 188.1 
+Donnie_Yen/eHBJnsZvMOw_0000004 199.0 209.4 
+Donnie_Yen/eHBJnsZvMOw_0000005 210.6 215.7 

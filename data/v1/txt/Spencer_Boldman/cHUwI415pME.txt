@@ -1,0 +1,7 @@
+POI: 			Spencer_Boldman 
+Youtube ID: 	cHUwI415pME 
+Video length: 	209.4 sec 
+Set (V): 		dev 
+ 
+Spencer_Boldman/cHUwI415pME_0000001 24.0 31.4 
+Spencer_Boldman/cHUwI415pME_0000002 111.0 122.2 

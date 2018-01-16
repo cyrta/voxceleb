@@ -1,0 +1,9 @@
+POI: 			Kate_Walsh 
+Youtube ID: 	XdzuYV7L4H4 
+Video length: 	367.4 sec 
+Set (V): 		dev 
+ 
+Kate_Walsh/XdzuYV7L4H4_0000001 188.7 193.7 
+Kate_Walsh/XdzuYV7L4H4_0000002 239.0 248.3 
+Kate_Walsh/XdzuYV7L4H4_0000003 267.5 280.4 
+Kate_Walsh/XdzuYV7L4H4_0000004 348.7 353.2 

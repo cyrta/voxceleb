@@ -1,0 +1,11 @@
+POI: 			Callan_McAuliffe 
+Youtube ID: 	qlxNFRdGIrQ 
+Video length: 	140.9 sec 
+Set (V): 		dev 
+ 
+Callan_McAuliffe/qlxNFRdGIrQ_0000001 37.2 43.1 
+Callan_McAuliffe/qlxNFRdGIrQ_0000002 48.8 56.8 
+Callan_McAuliffe/qlxNFRdGIrQ_0000003 60.2 72.5 
+Callan_McAuliffe/qlxNFRdGIrQ_0000004 80.4 85.1 
+Callan_McAuliffe/qlxNFRdGIrQ_0000005 87.2 94.5 
+Callan_McAuliffe/qlxNFRdGIrQ_0000006 102.8 119.8 

@@ -1,0 +1,10 @@
+POI: 			Danny_McBride 
+Youtube ID: 	m-6MRrS3rRE 
+Video length: 	335.1 sec 
+Set (V): 		dev 
+ 
+Danny_McBride/m-6MRrS3rRE_0000001 195.2 199.9 
+Danny_McBride/m-6MRrS3rRE_0000002 203.0 207.0 
+Danny_McBride/m-6MRrS3rRE_0000003 275.1 279.5 
+Danny_McBride/m-6MRrS3rRE_0000004 282.4 287.7 
+Danny_McBride/m-6MRrS3rRE_0000005 290.5 294.6 

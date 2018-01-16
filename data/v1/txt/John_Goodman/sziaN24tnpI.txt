@@ -1,0 +1,7 @@
+POI: 			John_Goodman 
+Youtube ID: 	sziaN24tnpI 
+Video length: 	279.0 sec 
+Set (V): 		dev 
+ 
+John_Goodman/sziaN24tnpI_0000001 165.5 169.7 
+John_Goodman/sziaN24tnpI_0000002 174.1 181.3 

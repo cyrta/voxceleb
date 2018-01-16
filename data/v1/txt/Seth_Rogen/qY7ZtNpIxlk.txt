@@ -1,0 +1,8 @@
+POI: 			Seth_Rogen 
+Youtube ID: 	qY7ZtNpIxlk 
+Video length: 	510.9 sec 
+Set (V): 		dev 
+ 
+Seth_Rogen/qY7ZtNpIxlk_0000001 308.8 313.2 
+Seth_Rogen/qY7ZtNpIxlk_0000002 317.0 321.8 
+Seth_Rogen/qY7ZtNpIxlk_0000003 361.6 366.3 

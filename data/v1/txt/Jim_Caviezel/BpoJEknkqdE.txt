@@ -1,0 +1,9 @@
+POI: 			Jim_Caviezel 
+Youtube ID: 	BpoJEknkqdE 
+Video length: 	304.3 sec 
+Set (V): 		dev 
+ 
+Jim_Caviezel/BpoJEknkqdE_0000001 45.1 56.4 
+Jim_Caviezel/BpoJEknkqdE_0000002 62.6 67.0 
+Jim_Caviezel/BpoJEknkqdE_0000003 67.6 74.5 
+Jim_Caviezel/BpoJEknkqdE_0000004 257.8 262.3 

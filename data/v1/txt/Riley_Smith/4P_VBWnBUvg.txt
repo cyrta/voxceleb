@@ -1,0 +1,7 @@
+POI: 			Riley_Smith 
+Youtube ID: 	4P_VBWnBUvg 
+Video length: 	441.2 sec 
+Set (V): 		dev 
+ 
+Riley_Smith/4P_VBWnBUvg_0000001 52.7 56.9 
+Riley_Smith/4P_VBWnBUvg_0000002 65.8 70.0 

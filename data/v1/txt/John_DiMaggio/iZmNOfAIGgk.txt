@@ -1,0 +1,11 @@
+POI: 			John_DiMaggio 
+Youtube ID: 	iZmNOfAIGgk 
+Video length: 	181.3 sec 
+Set (V): 		dev 
+ 
+John_DiMaggio/iZmNOfAIGgk_0000001 61.3 65.5 
+John_DiMaggio/iZmNOfAIGgk_0000002 85.0 91.1 
+John_DiMaggio/iZmNOfAIGgk_0000003 109.6 113.6 
+John_DiMaggio/iZmNOfAIGgk_0000004 114.4 121.0 
+John_DiMaggio/iZmNOfAIGgk_0000005 135.0 140.1 
+John_DiMaggio/iZmNOfAIGgk_0000006 151.8 155.8 

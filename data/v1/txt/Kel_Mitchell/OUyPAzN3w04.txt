@@ -1,0 +1,9 @@
+POI: 			Kel_Mitchell 
+Youtube ID: 	OUyPAzN3w04 
+Video length: 	167.5 sec 
+Set (V): 		dev 
+ 
+Kel_Mitchell/OUyPAzN3w04_0000001 27.7 32.7 
+Kel_Mitchell/OUyPAzN3w04_0000002 57.0 62.9 
+Kel_Mitchell/OUyPAzN3w04_0000003 69.4 83.0 
+Kel_Mitchell/OUyPAzN3w04_0000004 122.5 128.2 

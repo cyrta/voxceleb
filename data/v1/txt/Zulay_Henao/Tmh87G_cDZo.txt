@@ -1,0 +1,9 @@
+POI: 			Zulay_Henao 
+Youtube ID: 	Tmh87G_cDZo 
+Video length: 	537.1 sec 
+Set (V): 		dev 
+ 
+Zulay_Henao/Tmh87G_cDZo_0000001 39.9 43.8 
+Zulay_Henao/Tmh87G_cDZo_0000002 64.2 68.4 
+Zulay_Henao/Tmh87G_cDZo_0000003 91.8 96.4 
+Zulay_Henao/Tmh87G_cDZo_0000004 115.0 119.2 

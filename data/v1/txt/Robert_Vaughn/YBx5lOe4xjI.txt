@@ -1,0 +1,13 @@
+POI: 			Robert_Vaughn 
+Youtube ID: 	YBx5lOe4xjI 
+Video length: 	236.9 sec 
+Set (V): 		dev 
+ 
+Robert_Vaughn/YBx5lOe4xjI_0000001 18.0 25.0 
+Robert_Vaughn/YBx5lOe4xjI_0000002 25.3 37.9 
+Robert_Vaughn/YBx5lOe4xjI_0000003 38.4 45.1 
+Robert_Vaughn/YBx5lOe4xjI_0000004 48.3 55.4 
+Robert_Vaughn/YBx5lOe4xjI_0000005 108.9 115.0 
+Robert_Vaughn/YBx5lOe4xjI_0000006 127.2 159.7 
+Robert_Vaughn/YBx5lOe4xjI_0000007 163.6 169.8 
+Robert_Vaughn/YBx5lOe4xjI_0000008 171.8 177.3 

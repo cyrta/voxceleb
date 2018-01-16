@@ -1,0 +1,9 @@
+POI: 			Michelle_Williams 
+Youtube ID: 	X2QgagJlKFk 
+Video length: 	206.8 sec 
+Set (V): 		dev 
+ 
+Michelle_Williams/X2QgagJlKFk_0000001 41.3 45.9 
+Michelle_Williams/X2QgagJlKFk_0000002 78.2 97.9 
+Michelle_Williams/X2QgagJlKFk_0000003 98.7 103.5 
+Michelle_Williams/X2QgagJlKFk_0000004 120.8 131.7 

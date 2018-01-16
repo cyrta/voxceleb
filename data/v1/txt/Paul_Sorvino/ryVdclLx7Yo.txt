@@ -1,0 +1,7 @@
+POI: 			Paul_Sorvino 
+Youtube ID: 	ryVdclLx7Yo 
+Video length: 	535.0 sec 
+Set (V): 		dev 
+ 
+Paul_Sorvino/ryVdclLx7Yo_0000001 307.6 313.6 
+Paul_Sorvino/ryVdclLx7Yo_0000002 315.9 320.6 

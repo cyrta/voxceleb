@@ -1,0 +1,13 @@
+POI: 			Nelly 
+Youtube ID: 	Ly8VS-1WuUs 
+Video length: 	473.4 sec 
+Set (V): 		dev 
+ 
+Nelly/Ly8VS-1WuUs_0000001 88.7 96.8 
+Nelly/Ly8VS-1WuUs_0000002 176.5 189.8 
+Nelly/Ly8VS-1WuUs_0000003 196.3 202.8 
+Nelly/Ly8VS-1WuUs_0000004 203.2 209.7 
+Nelly/Ly8VS-1WuUs_0000005 253.6 259.8 
+Nelly/Ly8VS-1WuUs_0000006 276.1 281.7 
+Nelly/Ly8VS-1WuUs_0000007 294.8 300.0 
+Nelly/Ly8VS-1WuUs_0000008 319.0 324.6 

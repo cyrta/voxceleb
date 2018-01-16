@@ -1,0 +1,12 @@
+POI: 			Rooney_Mara 
+Youtube ID: 	TK75ryR2cuI 
+Video length: 	410.1 sec 
+Set (V): 		dev 
+ 
+Rooney_Mara/TK75ryR2cuI_0000001 82.6 87.6 
+Rooney_Mara/TK75ryR2cuI_0000002 89.2 97.2 
+Rooney_Mara/TK75ryR2cuI_0000003 100.9 104.9 
+Rooney_Mara/TK75ryR2cuI_0000004 118.2 124.7 
+Rooney_Mara/TK75ryR2cuI_0000005 140.2 144.9 
+Rooney_Mara/TK75ryR2cuI_0000006 267.4 273.4 
+Rooney_Mara/TK75ryR2cuI_0000007 283.2 287.4 

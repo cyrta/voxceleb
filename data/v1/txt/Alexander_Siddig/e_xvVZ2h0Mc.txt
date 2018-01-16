@@ -1,0 +1,9 @@
+POI: 			Alexander_Siddig 
+Youtube ID: 	e_xvVZ2h0Mc 
+Video length: 	90.0 sec 
+Set (V): 		dev 
+ 
+Alexander_Siddig/e_xvVZ2h0Mc_0000001 15.2 21.0 
+Alexander_Siddig/e_xvVZ2h0Mc_0000002 30.8 36.8 
+Alexander_Siddig/e_xvVZ2h0Mc_0000003 45.9 52.5 
+Alexander_Siddig/e_xvVZ2h0Mc_0000004 52.6 69.1 

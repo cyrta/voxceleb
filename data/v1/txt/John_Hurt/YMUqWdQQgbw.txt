@@ -1,0 +1,6 @@
+POI: 			John_Hurt 
+Youtube ID: 	YMUqWdQQgbw 
+Video length: 	833.7 sec 
+Set (V): 		dev 
+ 
+John_Hurt/YMUqWdQQgbw_0000001 380.9 385.1 

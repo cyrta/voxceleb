@@ -1,0 +1,11 @@
+POI: 			Katey_Sagal 
+Youtube ID: 	cy_dxjr3CrY 
+Video length: 	189.0 sec 
+Set (V): 		dev 
+ 
+Katey_Sagal/cy_dxjr3CrY_0000001 20.2 53.0 
+Katey_Sagal/cy_dxjr3CrY_0000002 63.5 84.6 
+Katey_Sagal/cy_dxjr3CrY_0000003 97.2 102.2 
+Katey_Sagal/cy_dxjr3CrY_0000004 104.7 108.7 
+Katey_Sagal/cy_dxjr3CrY_0000005 130.6 135.0 
+Katey_Sagal/cy_dxjr3CrY_0000006 137.5 146.0 

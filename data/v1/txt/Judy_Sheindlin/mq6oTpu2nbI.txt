@@ -1,0 +1,23 @@
+POI: 			Judy_Sheindlin 
+Youtube ID: 	mq6oTpu2nbI 
+Video length: 	236.6 sec 
+Set (V): 		dev 
+ 
+Judy_Sheindlin/mq6oTpu2nbI_0000001 14.4 28.8 
+Judy_Sheindlin/mq6oTpu2nbI_0000002 41.7 47.1 
+Judy_Sheindlin/mq6oTpu2nbI_0000003 61.0 69.2 
+Judy_Sheindlin/mq6oTpu2nbI_0000004 78.1 86.3 
+Judy_Sheindlin/mq6oTpu2nbI_0000005 93.4 100.4 
+Judy_Sheindlin/mq6oTpu2nbI_0000006 102.1 107.9 
+Judy_Sheindlin/mq6oTpu2nbI_0000007 117.8 121.8 
+Judy_Sheindlin/mq6oTpu2nbI_0000008 123.5 130.5 
+Judy_Sheindlin/mq6oTpu2nbI_0000009 152.9 164.6 
+Judy_Sheindlin/mq6oTpu2nbI_0000010 166.0 170.0 
+Judy_Sheindlin/mq6oTpu2nbI_0000011 117.6 121.7 
+Judy_Sheindlin/mq6oTpu2nbI_0000012 123.5 140.2 
+Judy_Sheindlin/mq6oTpu2nbI_0000013 140.3 149.3 
+Judy_Sheindlin/mq6oTpu2nbI_0000014 152.9 170.2 
+Judy_Sheindlin/mq6oTpu2nbI_0000015 171.8 180.3 
+Judy_Sheindlin/mq6oTpu2nbI_0000016 186.4 193.8 
+Judy_Sheindlin/mq6oTpu2nbI_0000017 206.0 217.3 
+Judy_Sheindlin/mq6oTpu2nbI_0000018 218.7 222.7 

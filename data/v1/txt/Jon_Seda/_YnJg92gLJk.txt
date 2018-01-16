@@ -1,0 +1,11 @@
+POI: 			Jon_Seda 
+Youtube ID: 	_YnJg92gLJk 
+Video length: 	94.0 sec 
+Set (V): 		dev 
+ 
+Jon_Seda/_YnJg92gLJk_0000001 08.7 16.0 
+Jon_Seda/_YnJg92gLJk_0000002 29.8 34.8 
+Jon_Seda/_YnJg92gLJk_0000003 47.8 52.3 
+Jon_Seda/_YnJg92gLJk_0000004 61.1 67.2 
+Jon_Seda/_YnJg92gLJk_0000005 67.5 73.2 
+Jon_Seda/_YnJg92gLJk_0000006 82.2 88.4 

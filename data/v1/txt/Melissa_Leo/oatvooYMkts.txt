@@ -1,0 +1,12 @@
+POI: 			Melissa_Leo 
+Youtube ID: 	oatvooYMkts 
+Video length: 	168.6 sec 
+Set (V): 		dev 
+ 
+Melissa_Leo/oatvooYMkts_0000001 05.0 32.0 
+Melissa_Leo/oatvooYMkts_0000002 48.1 59.0 
+Melissa_Leo/oatvooYMkts_0000003 66.9 71.8 
+Melissa_Leo/oatvooYMkts_0000004 72.9 79.0 
+Melissa_Leo/oatvooYMkts_0000005 80.0 87.1 
+Melissa_Leo/oatvooYMkts_0000006 123.1 131.8 
+Melissa_Leo/oatvooYMkts_0000007 141.6 151.3 

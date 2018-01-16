@@ -1,0 +1,9 @@
+POI: 			Tracey_Gold 
+Youtube ID: 	c7bYy_vHs_k 
+Video length: 	340.2 sec 
+Set (V): 		dev 
+ 
+Tracey_Gold/c7bYy_vHs_k_0000001 107.1 121.8 
+Tracey_Gold/c7bYy_vHs_k_0000002 146.8 152.3 
+Tracey_Gold/c7bYy_vHs_k_0000003 168.3 172.5 
+Tracey_Gold/c7bYy_vHs_k_0000004 310.3 317.3 

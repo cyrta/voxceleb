@@ -1,0 +1,7 @@
+POI: 			Michelle_Williams 
+Youtube ID: 	STV_UN0dM5k 
+Video length: 	466.2 sec 
+Set (V): 		dev 
+ 
+Michelle_Williams/STV_UN0dM5k_0000001 435.9 440.6 
+Michelle_Williams/STV_UN0dM5k_0000002 442.6 449.7 

@@ -1,0 +1,18 @@
+POI: 			Louis_C.K. 
+Youtube ID: 	KZvs-3dDdgo 
+Video length: 	359.7 sec 
+Set (V): 		dev 
+ 
+Louis_C.K./KZvs-3dDdgo_0000001 81.1 86.5 
+Louis_C.K./KZvs-3dDdgo_0000002 94.2 101.8 
+Louis_C.K./KZvs-3dDdgo_0000003 107.2 114.4 
+Louis_C.K./KZvs-3dDdgo_0000004 145.1 150.5 
+Louis_C.K./KZvs-3dDdgo_0000005 151.2 164.0 
+Louis_C.K./KZvs-3dDdgo_0000006 158.7 165.4 
+Louis_C.K./KZvs-3dDdgo_0000007 182.7 194.0 
+Louis_C.K./KZvs-3dDdgo_0000008 213.1 217.5 
+Louis_C.K./KZvs-3dDdgo_0000009 227.1 232.8 
+Louis_C.K./KZvs-3dDdgo_0000010 233.4 240.0 
+Louis_C.K./KZvs-3dDdgo_0000011 254.4 262.9 
+Louis_C.K./KZvs-3dDdgo_0000012 281.8 287.1 
+Louis_C.K./KZvs-3dDdgo_0000013 325.4 341.5 

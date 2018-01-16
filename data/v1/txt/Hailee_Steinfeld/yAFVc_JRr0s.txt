@@ -1,0 +1,8 @@
+POI: 			Hailee_Steinfeld 
+Youtube ID: 	yAFVc_JRr0s 
+Video length: 	182.2 sec 
+Set (V): 		dev 
+ 
+Hailee_Steinfeld/yAFVc_JRr0s_0000001 26.1 36.3 
+Hailee_Steinfeld/yAFVc_JRr0s_0000002 47.0 51.2 
+Hailee_Steinfeld/yAFVc_JRr0s_0000003 58.7 63.1 

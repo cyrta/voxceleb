@@ -1,0 +1,14 @@
+POI: 			Paul_Gross 
+Youtube ID: 	wBIbG_DXapA 
+Video length: 	412.7 sec 
+Set (V): 		dev 
+ 
+Paul_Gross/wBIbG_DXapA_0000001 109.3 114.2 
+Paul_Gross/wBIbG_DXapA_0000002 114.9 121.0 
+Paul_Gross/wBIbG_DXapA_0000003 142.0 147.4 
+Paul_Gross/wBIbG_DXapA_0000004 183.7 193.9 
+Paul_Gross/wBIbG_DXapA_0000005 203.1 213.7 
+Paul_Gross/wBIbG_DXapA_0000006 346.3 352.2 
+Paul_Gross/wBIbG_DXapA_0000007 354.6 359.3 
+Paul_Gross/wBIbG_DXapA_0000008 359.7 365.0 
+Paul_Gross/wBIbG_DXapA_0000009 373.0 377.4 

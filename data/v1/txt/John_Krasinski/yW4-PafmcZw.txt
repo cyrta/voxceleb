@@ -1,0 +1,14 @@
+POI: 			John_Krasinski 
+Youtube ID: 	yW4-PafmcZw 
+Video length: 	247.4 sec 
+Set (V): 		dev 
+ 
+John_Krasinski/yW4-PafmcZw_0000001 09.2 28.0 
+John_Krasinski/yW4-PafmcZw_0000002 34.2 52.2 
+John_Krasinski/yW4-PafmcZw_0000003 58.1 79.8 
+John_Krasinski/yW4-PafmcZw_0000004 92.3 98.8 
+John_Krasinski/yW4-PafmcZw_0000005 104.3 128.4 
+John_Krasinski/yW4-PafmcZw_0000006 142.7 152.0 
+John_Krasinski/yW4-PafmcZw_0000007 152.9 156.9 
+John_Krasinski/yW4-PafmcZw_0000008 188.8 203.3 
+John_Krasinski/yW4-PafmcZw_0000009 208.2 238.0 

@@ -1,0 +1,7 @@
+POI: 			James_Maslow 
+Youtube ID: 	vgg9WDbnQd8 
+Video length: 	51.6 sec 
+Set (V): 		dev 
+ 
+James_Maslow/vgg9WDbnQd8_0000001 16.6 23.0 
+James_Maslow/vgg9WDbnQd8_0000002 26.4 32.0 

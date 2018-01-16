@@ -1,0 +1,7 @@
+POI: 			Michael_Shannon 
+Youtube ID: 	pWBBMwLFRb8 
+Video length: 	190.2 sec 
+Set (V): 		dev 
+ 
+Michael_Shannon/pWBBMwLFRb8_0000001 40.8 45.8 
+Michael_Shannon/pWBBMwLFRb8_0000002 62.9 73.5 

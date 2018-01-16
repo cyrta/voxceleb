@@ -1,0 +1,16 @@
+POI: 			Martin_Henderson 
+Youtube ID: 	9T-RW9V_q4U 
+Video length: 	269.1 sec 
+Set (V): 		dev 
+ 
+Martin_Henderson/9T-RW9V_q4U_0000001 57.1 67.7 
+Martin_Henderson/9T-RW9V_q4U_0000002 70.6 77.9 
+Martin_Henderson/9T-RW9V_q4U_0000003 78.3 84.8 
+Martin_Henderson/9T-RW9V_q4U_0000004 92.7 97.9 
+Martin_Henderson/9T-RW9V_q4U_0000005 99.0 104.3 
+Martin_Henderson/9T-RW9V_q4U_0000006 118.4 129.8 
+Martin_Henderson/9T-RW9V_q4U_0000007 130.0 140.6 
+Martin_Henderson/9T-RW9V_q4U_0000008 145.2 164.3 
+Martin_Henderson/9T-RW9V_q4U_0000009 170.4 175.7 
+Martin_Henderson/9T-RW9V_q4U_0000010 200.1 205.9 
+Martin_Henderson/9T-RW9V_q4U_0000011 207.4 225.1 

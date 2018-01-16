@@ -1,0 +1,9 @@
+POI: 			Rob_Dyrdek 
+Youtube ID: 	SwIKvvl2qTk 
+Video length: 	230.7 sec 
+Set (V): 		dev 
+ 
+Rob_Dyrdek/SwIKvvl2qTk_0000001 17.3 23.0 
+Rob_Dyrdek/SwIKvvl2qTk_0000002 26.5 30.8 
+Rob_Dyrdek/SwIKvvl2qTk_0000003 41.4 48.2 
+Rob_Dyrdek/SwIKvvl2qTk_0000004 111.8 117.7 

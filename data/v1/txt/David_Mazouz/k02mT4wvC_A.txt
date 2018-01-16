@@ -1,0 +1,8 @@
+POI: 			David_Mazouz 
+Youtube ID: 	k02mT4wvC_A 
+Video length: 	124.0 sec 
+Set (V): 		dev 
+ 
+David_Mazouz/k02mT4wvC_A_0000001 31.7 35.8 
+David_Mazouz/k02mT4wvC_A_0000002 38.7 43.2 
+David_Mazouz/k02mT4wvC_A_0000003 76.0 83.0 

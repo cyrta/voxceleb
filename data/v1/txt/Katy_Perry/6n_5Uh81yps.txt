@@ -1,0 +1,15 @@
+POI: 			Katy_Perry 
+Youtube ID: 	6n_5Uh81yps 
+Video length: 	385.6 sec 
+Set (V): 		dev 
+ 
+Katy_Perry/6n_5Uh81yps_0000001 31.7 37.9 
+Katy_Perry/6n_5Uh81yps_0000002 57.7 62.0 
+Katy_Perry/6n_5Uh81yps_0000003 82.3 89.4 
+Katy_Perry/6n_5Uh81yps_0000004 121.0 127.2 
+Katy_Perry/6n_5Uh81yps_0000005 141.9 148.1 
+Katy_Perry/6n_5Uh81yps_0000006 150.4 158.0 
+Katy_Perry/6n_5Uh81yps_0000007 204.3 208.4 
+Katy_Perry/6n_5Uh81yps_0000008 210.9 217.3 
+Katy_Perry/6n_5Uh81yps_0000009 296.8 310.1 
+Katy_Perry/6n_5Uh81yps_0000010 359.0 365.0 

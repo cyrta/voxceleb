@@ -1,0 +1,12 @@
+POI: 			Andrew_Rannells 
+Youtube ID: 	o2dH0PG9T_0 
+Video length: 	292.2 sec 
+Set (V): 		dev 
+ 
+Andrew_Rannells/o2dH0PG9T_0_0000001 97.1 105.9 
+Andrew_Rannells/o2dH0PG9T_0_0000002 113.1 117.1 
+Andrew_Rannells/o2dH0PG9T_0_0000003 154.1 161.9 
+Andrew_Rannells/o2dH0PG9T_0_0000004 192.8 199.7 
+Andrew_Rannells/o2dH0PG9T_0_0000005 231.3 235.9 
+Andrew_Rannells/o2dH0PG9T_0_0000006 236.7 241.0 
+Andrew_Rannells/o2dH0PG9T_0_0000007 245.9 250.1 

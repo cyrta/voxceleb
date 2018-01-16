@@ -1,0 +1,7 @@
+POI: 			David_Henrie 
+Youtube ID: 	jD22LAH-ZXU 
+Video length: 	216.7 sec 
+Set (V): 		dev 
+ 
+David_Henrie/jD22LAH-ZXU_0000001 38.8 44.4 
+David_Henrie/jD22LAH-ZXU_0000002 62.0 66.0 

@@ -1,0 +1,10 @@
+POI: 			Andrew_Rannells 
+Youtube ID: 	SSDW1YbXk6A 
+Video length: 	133.8 sec 
+Set (V): 		dev 
+ 
+Andrew_Rannells/SSDW1YbXk6A_0000001 50.6 58.5 
+Andrew_Rannells/SSDW1YbXk6A_0000002 58.8 68.9 
+Andrew_Rannells/SSDW1YbXk6A_0000003 88.5 94.9 
+Andrew_Rannells/SSDW1YbXk6A_0000004 96.7 106.2 
+Andrew_Rannells/SSDW1YbXk6A_0000005 106.6 117.7 

@@ -1,0 +1,8 @@
+POI: 			Misha_Collins 
+Youtube ID: 	t8Q-cdmEsZY 
+Video length: 	208.2 sec 
+Set (V): 		dev 
+ 
+Misha_Collins/t8Q-cdmEsZY_0000001 31.8 36.4 
+Misha_Collins/t8Q-cdmEsZY_0000002 94.0 99.5 
+Misha_Collins/t8Q-cdmEsZY_0000003 169.2 178.0 

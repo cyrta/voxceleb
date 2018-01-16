@@ -1,0 +1,9 @@
+POI: 			Josh_Groban 
+Youtube ID: 	dv390BjS73E 
+Video length: 	117.3 sec 
+Set (V): 		dev 
+ 
+Josh_Groban/dv390BjS73E_0000001 61.2 67.2 
+Josh_Groban/dv390BjS73E_0000002 75.4 79.5 
+Josh_Groban/dv390BjS73E_0000003 88.6 102.0 
+Josh_Groban/dv390BjS73E_0000004 102.2 116.0 

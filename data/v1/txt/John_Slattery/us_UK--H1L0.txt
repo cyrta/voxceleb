@@ -1,0 +1,8 @@
+POI: 			John_Slattery 
+Youtube ID: 	us_UK--H1L0 
+Video length: 	195.3 sec 
+Set (V): 		dev 
+ 
+John_Slattery/us_UK--H1L0_0000001 125.0 130.8 
+John_Slattery/us_UK--H1L0_0000002 137.6 146.2 
+John_Slattery/us_UK--H1L0_0000003 147.8 152.6 

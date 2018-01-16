@@ -1,0 +1,8 @@
+POI: 			Ken_Marino 
+Youtube ID: 	Hyzl8482nfY 
+Video length: 	138.1 sec 
+Set (V): 		dev 
+ 
+Ken_Marino/Hyzl8482nfY_0000001 30.9 37.0 
+Ken_Marino/Hyzl8482nfY_0000002 101.5 106.2 
+Ken_Marino/Hyzl8482nfY_0000003 117.6 126.2 

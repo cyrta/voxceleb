@@ -1,0 +1,13 @@
+POI: 			Jillian_Michaels 
+Youtube ID: 	DyJd8FxfYcg 
+Video length: 	296.6 sec 
+Set (V): 		dev 
+ 
+Jillian_Michaels/DyJd8FxfYcg_0000001 45.1 50.8 
+Jillian_Michaels/DyJd8FxfYcg_0000002 53.0 61.6 
+Jillian_Michaels/DyJd8FxfYcg_0000003 82.0 86.6 
+Jillian_Michaels/DyJd8FxfYcg_0000004 134.2 143.6 
+Jillian_Michaels/DyJd8FxfYcg_0000005 164.5 169.5 
+Jillian_Michaels/DyJd8FxfYcg_0000006 185.4 189.8 
+Jillian_Michaels/DyJd8FxfYcg_0000007 226.9 239.8 
+Jillian_Michaels/DyJd8FxfYcg_0000008 268.6 277.6 

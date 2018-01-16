@@ -1,0 +1,12 @@
+POI: 			Tatiana_Maslany 
+Youtube ID: 	kRslGIxh5ms 
+Video length: 	233.6 sec 
+Set (V): 		dev 
+ 
+Tatiana_Maslany/kRslGIxh5ms_0000001 25.8 36.2 
+Tatiana_Maslany/kRslGIxh5ms_0000002 84.8 89.6 
+Tatiana_Maslany/kRslGIxh5ms_0000003 95.1 115.7 
+Tatiana_Maslany/kRslGIxh5ms_0000004 115.8 132.2 
+Tatiana_Maslany/kRslGIxh5ms_0000005 169.0 176.2 
+Tatiana_Maslany/kRslGIxh5ms_0000006 199.3 212.5 
+Tatiana_Maslany/kRslGIxh5ms_0000007 213.3 218.3 

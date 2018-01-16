@@ -1,0 +1,18 @@
+POI: 			Willem_Dafoe 
+Youtube ID: 	bbqPJCnn-50 
+Video length: 	221.3 sec 
+Set (V): 		dev 
+ 
+Willem_Dafoe/bbqPJCnn-50_0000001 23.1 38.5 
+Willem_Dafoe/bbqPJCnn-50_0000002 39.7 44.0 
+Willem_Dafoe/bbqPJCnn-50_0000003 44.3 49.8 
+Willem_Dafoe/bbqPJCnn-50_0000004 60.2 65.4 
+Willem_Dafoe/bbqPJCnn-50_0000005 65.5 72.3 
+Willem_Dafoe/bbqPJCnn-50_0000006 72.6 81.2 
+Willem_Dafoe/bbqPJCnn-50_0000007 87.4 92.1 
+Willem_Dafoe/bbqPJCnn-50_0000008 109.0 120.7 
+Willem_Dafoe/bbqPJCnn-50_0000009 129.9 137.2 
+Willem_Dafoe/bbqPJCnn-50_0000010 145.2 151.6 
+Willem_Dafoe/bbqPJCnn-50_0000011 165.8 181.4 
+Willem_Dafoe/bbqPJCnn-50_0000012 183.6 187.8 
+Willem_Dafoe/bbqPJCnn-50_0000013 193.1 211.7 

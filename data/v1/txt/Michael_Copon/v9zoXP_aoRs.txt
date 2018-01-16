@@ -1,0 +1,9 @@
+POI: 			Michael_Copon 
+Youtube ID: 	v9zoXP_aoRs 
+Video length: 	129.2 sec 
+Set (V): 		dev 
+ 
+Michael_Copon/v9zoXP_aoRs_0000001 30.5 34.7 
+Michael_Copon/v9zoXP_aoRs_0000002 36.9 52.5 
+Michael_Copon/v9zoXP_aoRs_0000003 71.4 76.4 
+Michael_Copon/v9zoXP_aoRs_0000004 106.6 113.2 

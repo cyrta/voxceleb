@@ -1,0 +1,9 @@
+POI: 			Sung_Kang 
+Youtube ID: 	YsRnVri8pvw 
+Video length: 	127.5 sec 
+Set (V): 		dev 
+ 
+Sung_Kang/YsRnVri8pvw_0000001 33.8 39.5 
+Sung_Kang/YsRnVri8pvw_0000002 39.7 49.5 
+Sung_Kang/YsRnVri8pvw_0000003 58.2 64.0 
+Sung_Kang/YsRnVri8pvw_0000004 94.7 100.0 

@@ -1,0 +1,8 @@
+POI: 			Roma_Downey 
+Youtube ID: 	NXL_c9pwixQ 
+Video length: 	216.3 sec 
+Set (V): 		dev 
+ 
+Roma_Downey/NXL_c9pwixQ_0000001 93.4 98.3 
+Roma_Downey/NXL_c9pwixQ_0000002 100.1 132.8 
+Roma_Downey/NXL_c9pwixQ_0000003 155.4 211.8 

@@ -1,0 +1,13 @@
+POI: 			Uzo_Aduba 
+Youtube ID: 	L8aRiQFMfQo 
+Video length: 	105.6 sec 
+Set (V): 		dev 
+ 
+Uzo_Aduba/L8aRiQFMfQo_0000001 09.4 14.5 
+Uzo_Aduba/L8aRiQFMfQo_0000002 15.0 19.2 
+Uzo_Aduba/L8aRiQFMfQo_0000003 19.3 31.7 
+Uzo_Aduba/L8aRiQFMfQo_0000004 32.1 42.1 
+Uzo_Aduba/L8aRiQFMfQo_0000005 42.4 54.0 
+Uzo_Aduba/L8aRiQFMfQo_0000006 59.6 64.6 
+Uzo_Aduba/L8aRiQFMfQo_0000007 66.4 80.4 
+Uzo_Aduba/L8aRiQFMfQo_0000008 82.9 87.8 

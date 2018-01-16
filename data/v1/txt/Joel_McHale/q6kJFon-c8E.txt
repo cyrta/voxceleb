@@ -1,0 +1,7 @@
+POI: 			Joel_McHale 
+Youtube ID: 	q6kJFon-c8E 
+Video length: 	623.1 sec 
+Set (V): 		dev 
+ 
+Joel_McHale/q6kJFon-c8E_0000001 275.8 279.8 
+Joel_McHale/q6kJFon-c8E_0000002 594.6 599.0 

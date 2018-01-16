@@ -1,0 +1,8 @@
+POI: 			Chris_Martin 
+Youtube ID: 	HrlvOk052PM 
+Video length: 	483.9 sec 
+Set (V): 		dev 
+ 
+Chris_Martin/HrlvOk052PM_0000001 60.0 64.9 
+Chris_Martin/HrlvOk052PM_0000002 353.7 357.9 
+Chris_Martin/HrlvOk052PM_0000003 388.0 392.6 

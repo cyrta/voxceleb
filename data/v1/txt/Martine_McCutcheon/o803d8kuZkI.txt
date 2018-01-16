@@ -1,0 +1,12 @@
+POI: 			Martine_McCutcheon 
+Youtube ID: 	o803d8kuZkI 
+Video length: 	135.7 sec 
+Set (V): 		dev 
+ 
+Martine_McCutcheon/o803d8kuZkI_0000001 29.7 39.8 
+Martine_McCutcheon/o803d8kuZkI_0000002 42.4 49.2 
+Martine_McCutcheon/o803d8kuZkI_0000003 54.4 78.7 
+Martine_McCutcheon/o803d8kuZkI_0000004 82.5 87.0 
+Martine_McCutcheon/o803d8kuZkI_0000005 102.6 116.1 
+Martine_McCutcheon/o803d8kuZkI_0000006 117.4 122.8 
+Martine_McCutcheon/o803d8kuZkI_0000007 125.4 130.4 

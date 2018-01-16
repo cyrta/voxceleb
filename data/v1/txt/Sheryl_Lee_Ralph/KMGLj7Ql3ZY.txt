@@ -1,0 +1,10 @@
+POI: 			Sheryl_Lee_Ralph 
+Youtube ID: 	KMGLj7Ql3ZY 
+Video length: 	608.4 sec 
+Set (V): 		dev 
+ 
+Sheryl_Lee_Ralph/KMGLj7Ql3ZY_0000001 196.6 207.2 
+Sheryl_Lee_Ralph/KMGLj7Ql3ZY_0000002 220.5 225.9 
+Sheryl_Lee_Ralph/KMGLj7Ql3ZY_0000003 258.2 265.9 
+Sheryl_Lee_Ralph/KMGLj7Ql3ZY_0000004 334.5 345.5 
+Sheryl_Lee_Ralph/KMGLj7Ql3ZY_0000005 350.8 356.8 

@@ -1,0 +1,6 @@
+POI: 			Stephen_Colbert 
+Youtube ID: 	4vMCbXdWEnw 
+Video length: 	572.2 sec 
+Set (V): 		dev 
+ 
+Stephen_Colbert/4vMCbXdWEnw_0000001 143.5 147.9 

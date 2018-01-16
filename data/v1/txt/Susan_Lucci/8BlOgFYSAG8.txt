@@ -1,0 +1,13 @@
+POI: 			Susan_Lucci 
+Youtube ID: 	8BlOgFYSAG8 
+Video length: 	763.3 sec 
+Set (V): 		dev 
+ 
+Susan_Lucci/8BlOgFYSAG8_0000001 113.4 119.4 
+Susan_Lucci/8BlOgFYSAG8_0000002 154.0 163.8 
+Susan_Lucci/8BlOgFYSAG8_0000003 176.0 180.4 
+Susan_Lucci/8BlOgFYSAG8_0000004 202.7 207.5 
+Susan_Lucci/8BlOgFYSAG8_0000005 208.1 222.4 
+Susan_Lucci/8BlOgFYSAG8_0000006 259.5 270.4 
+Susan_Lucci/8BlOgFYSAG8_0000007 329.7 333.9 
+Susan_Lucci/8BlOgFYSAG8_0000008 340.6 345.7 

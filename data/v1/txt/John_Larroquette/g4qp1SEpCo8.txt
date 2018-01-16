@@ -1,0 +1,7 @@
+POI: 			John_Larroquette 
+Youtube ID: 	g4qp1SEpCo8 
+Video length: 	77.2 sec 
+Set (V): 		dev 
+ 
+John_Larroquette/g4qp1SEpCo8_0000001 34.2 38.3 
+John_Larroquette/g4qp1SEpCo8_0000002 43.6 49.6 

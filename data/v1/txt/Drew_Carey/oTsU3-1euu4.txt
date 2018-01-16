@@ -1,0 +1,15 @@
+POI: 			Drew_Carey 
+Youtube ID: 	oTsU3-1euu4 
+Video length: 	253.2 sec 
+Set (V): 		dev 
+ 
+Drew_Carey/oTsU3-1euu4_0000001 26.2 30.9 
+Drew_Carey/oTsU3-1euu4_0000002 38.8 48.2 
+Drew_Carey/oTsU3-1euu4_0000003 60.6 66.4 
+Drew_Carey/oTsU3-1euu4_0000004 68.8 73.8 
+Drew_Carey/oTsU3-1euu4_0000005 77.8 82.3 
+Drew_Carey/oTsU3-1euu4_0000006 98.4 103.1 
+Drew_Carey/oTsU3-1euu4_0000007 116.3 120.3 
+Drew_Carey/oTsU3-1euu4_0000008 147.7 157.4 
+Drew_Carey/oTsU3-1euu4_0000009 158.1 164.0 
+Drew_Carey/oTsU3-1euu4_0000010 170.0 176.9 

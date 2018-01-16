@@ -1,0 +1,7 @@
+POI: 			Diego_Klattenhoff 
+Youtube ID: 	v1kzk7zfEuc 
+Video length: 	129.4 sec 
+Set (V): 		dev 
+ 
+Diego_Klattenhoff/v1kzk7zfEuc_0000001 17.2 22.4 
+Diego_Klattenhoff/v1kzk7zfEuc_0000002 71.9 76.0 

@@ -1,0 +1,8 @@
+POI: 			Audra_McDonald 
+Youtube ID: 	zTpHJivc9V4 
+Video length: 	702.7 sec 
+Set (V): 		dev 
+ 
+Audra_McDonald/zTpHJivc9V4_0000001 146.0 155.4 
+Audra_McDonald/zTpHJivc9V4_0000002 293.5 308.5 
+Audra_McDonald/zTpHJivc9V4_0000003 434.8 446.8 

@@ -1,0 +1,10 @@
+POI: 			Kathryn_Joosten 
+Youtube ID: 	I_UK-4zeruI 
+Video length: 	97.1 sec 
+Set (V): 		dev 
+ 
+Kathryn_Joosten/I_UK-4zeruI_0000001 06.2 10.9 
+Kathryn_Joosten/I_UK-4zeruI_0000002 11.2 20.7 
+Kathryn_Joosten/I_UK-4zeruI_0000003 22.0 61.2 
+Kathryn_Joosten/I_UK-4zeruI_0000004 61.4 78.5 
+Kathryn_Joosten/I_UK-4zeruI_0000005 78.8 87.1 

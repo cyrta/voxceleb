@@ -1,0 +1,19 @@
+POI: 			Jacob_Latimore 
+Youtube ID: 	qyRPFNiPvJs 
+Video length: 	247.6 sec 
+Set (V): 		dev 
+ 
+Jacob_Latimore/qyRPFNiPvJs_0000001 13.3 18.9 
+Jacob_Latimore/qyRPFNiPvJs_0000002 19.0 28.2 
+Jacob_Latimore/qyRPFNiPvJs_0000003 40.5 46.6 
+Jacob_Latimore/qyRPFNiPvJs_0000004 48.9 71.9 
+Jacob_Latimore/qyRPFNiPvJs_0000005 72.2 78.6 
+Jacob_Latimore/qyRPFNiPvJs_0000006 89.2 112.2 
+Jacob_Latimore/qyRPFNiPvJs_0000007 121.0 126.5 
+Jacob_Latimore/qyRPFNiPvJs_0000008 95.9 126.5 
+Jacob_Latimore/qyRPFNiPvJs_0000009 128.6 134.4 
+Jacob_Latimore/qyRPFNiPvJs_0000010 135.0 141.9 
+Jacob_Latimore/qyRPFNiPvJs_0000011 142.6 151.4 
+Jacob_Latimore/qyRPFNiPvJs_0000012 152.0 156.4 
+Jacob_Latimore/qyRPFNiPvJs_0000013 190.2 218.7 
+Jacob_Latimore/qyRPFNiPvJs_0000014 219.2 240.2 

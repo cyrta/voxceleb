@@ -1,0 +1,10 @@
+POI: 			Lucy_Punch 
+Youtube ID: 	LvSyaJV0_VM 
+Video length: 	185.8 sec 
+Set (V): 		dev 
+ 
+Lucy_Punch/LvSyaJV0_VM_0000001 38.1 43.0 
+Lucy_Punch/LvSyaJV0_VM_0000002 43.1 50.1 
+Lucy_Punch/LvSyaJV0_VM_0000003 50.2 55.1 
+Lucy_Punch/LvSyaJV0_VM_0000004 75.0 79.3 
+Lucy_Punch/LvSyaJV0_VM_0000005 139.4 146.8 

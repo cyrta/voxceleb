@@ -1,0 +1,8 @@
+POI: 			John_Goodman 
+Youtube ID: 	RsO1Qonw-ko 
+Video length: 	114.3 sec 
+Set (V): 		dev 
+ 
+John_Goodman/RsO1Qonw-ko_0000001 49.0 58.0 
+John_Goodman/RsO1Qonw-ko_0000002 60.1 65.3 
+John_Goodman/RsO1Qonw-ko_0000003 92.2 105.1 

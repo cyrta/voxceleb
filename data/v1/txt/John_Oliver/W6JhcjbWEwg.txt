@@ -1,0 +1,10 @@
+POI: 			John_Oliver 
+Youtube ID: 	W6JhcjbWEwg 
+Video length: 	401.5 sec 
+Set (V): 		dev 
+ 
+John_Oliver/W6JhcjbWEwg_0000001 07.1 13.2 
+John_Oliver/W6JhcjbWEwg_0000002 57.0 66.4 
+John_Oliver/W6JhcjbWEwg_0000003 123.2 131.6 
+John_Oliver/W6JhcjbWEwg_0000004 156.8 164.8 
+John_Oliver/W6JhcjbWEwg_0000005 197.0 202.2 

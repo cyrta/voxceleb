@@ -1,0 +1,13 @@
+POI: 			Jay_Baruchel 
+Youtube ID: 	wETrjn121kk 
+Video length: 	284.9 sec 
+Set (V): 		dev 
+ 
+Jay_Baruchel/wETrjn121kk_0000001 44.0 52.6 
+Jay_Baruchel/wETrjn121kk_0000002 65.8 74.8 
+Jay_Baruchel/wETrjn121kk_0000003 101.4 105.7 
+Jay_Baruchel/wETrjn121kk_0000004 126.4 132.2 
+Jay_Baruchel/wETrjn121kk_0000005 137.4 142.2 
+Jay_Baruchel/wETrjn121kk_0000006 131.9 136.1 
+Jay_Baruchel/wETrjn121kk_0000007 198.9 207.7 
+Jay_Baruchel/wETrjn121kk_0000008 211.1 215.3 

@@ -1,0 +1,12 @@
+POI: 			Kate_Mansi 
+Youtube ID: 	RX3bucPI_gg 
+Video length: 	560.1 sec 
+Set (V): 		dev 
+ 
+Kate_Mansi/RX3bucPI_gg_0000001 144.7 149.7 
+Kate_Mansi/RX3bucPI_gg_0000002 334.9 340.0 
+Kate_Mansi/RX3bucPI_gg_0000003 340.8 348.6 
+Kate_Mansi/RX3bucPI_gg_0000004 397.5 402.6 
+Kate_Mansi/RX3bucPI_gg_0000005 484.9 490.8 
+Kate_Mansi/RX3bucPI_gg_0000006 492.1 505.8 
+Kate_Mansi/RX3bucPI_gg_0000007 506.0 511.4 

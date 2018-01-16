@@ -1,0 +1,10 @@
+POI: 			Holliday_Grainger 
+Youtube ID: 	_l9sUYDOG_0 
+Video length: 	119.2 sec 
+Set (V): 		dev 
+ 
+Holliday_Grainger/_l9sUYDOG_0_0000001 10.0 17.9 
+Holliday_Grainger/_l9sUYDOG_0_0000002 24.9 35.6 
+Holliday_Grainger/_l9sUYDOG_0_0000003 52.7 61.7 
+Holliday_Grainger/_l9sUYDOG_0_0000004 63.0 71.8 
+Holliday_Grainger/_l9sUYDOG_0_0000005 100.9 106.6 

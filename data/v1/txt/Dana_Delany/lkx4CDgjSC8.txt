@@ -1,0 +1,7 @@
+POI: 			Dana_Delany 
+Youtube ID: 	lkx4CDgjSC8 
+Video length: 	251.7 sec 
+Set (V): 		dev 
+ 
+Dana_Delany/lkx4CDgjSC8_0000001 24.2 28.2 
+Dana_Delany/lkx4CDgjSC8_0000002 219.4 230.8 

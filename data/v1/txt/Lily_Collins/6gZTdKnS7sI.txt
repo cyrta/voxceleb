@@ -1,0 +1,11 @@
+POI: 			Lily_Collins 
+Youtube ID: 	6gZTdKnS7sI 
+Video length: 	287.6 sec 
+Set (V): 		dev 
+ 
+Lily_Collins/6gZTdKnS7sI_0000001 82.2 96.3 
+Lily_Collins/6gZTdKnS7sI_0000002 114.6 120.1 
+Lily_Collins/6gZTdKnS7sI_0000003 132.6 138.4 
+Lily_Collins/6gZTdKnS7sI_0000004 164.4 169.4 
+Lily_Collins/6gZTdKnS7sI_0000005 192.0 196.2 
+Lily_Collins/6gZTdKnS7sI_0000006 241.7 246.4 

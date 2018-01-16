@@ -1,0 +1,18 @@
+POI: 			Stephen_Lang 
+Youtube ID: 	Xb2SbhY0FDY 
+Video length: 	213.8 sec 
+Set (V): 		dev 
+ 
+Stephen_Lang/Xb2SbhY0FDY_0000001 17.9 24.1 
+Stephen_Lang/Xb2SbhY0FDY_0000002 26.4 34.4 
+Stephen_Lang/Xb2SbhY0FDY_0000003 35.5 41.6 
+Stephen_Lang/Xb2SbhY0FDY_0000004 42.2 50.7 
+Stephen_Lang/Xb2SbhY0FDY_0000005 54.4 69.9 
+Stephen_Lang/Xb2SbhY0FDY_0000006 79.1 88.1 
+Stephen_Lang/Xb2SbhY0FDY_0000007 89.4 96.0 
+Stephen_Lang/Xb2SbhY0FDY_0000008 96.6 107.2 
+Stephen_Lang/Xb2SbhY0FDY_0000009 108.0 113.8 
+Stephen_Lang/Xb2SbhY0FDY_0000010 154.0 168.9 
+Stephen_Lang/Xb2SbhY0FDY_0000011 169.7 173.7 
+Stephen_Lang/Xb2SbhY0FDY_0000012 175.3 200.6 
+Stephen_Lang/Xb2SbhY0FDY_0000013 202.9 209.7 

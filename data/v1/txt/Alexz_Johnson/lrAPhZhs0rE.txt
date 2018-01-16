@@ -1,0 +1,11 @@
+POI: 			Alexz_Johnson 
+Youtube ID: 	lrAPhZhs0rE 
+Video length: 	104.3 sec 
+Set (V): 		dev 
+ 
+Alexz_Johnson/lrAPhZhs0rE_0000001 01.0 08.0 
+Alexz_Johnson/lrAPhZhs0rE_0000002 09.3 16.6 
+Alexz_Johnson/lrAPhZhs0rE_0000003 31.2 38.3 
+Alexz_Johnson/lrAPhZhs0rE_0000004 73.3 79.3 
+Alexz_Johnson/lrAPhZhs0rE_0000005 81.1 86.7 
+Alexz_Johnson/lrAPhZhs0rE_0000006 88.9 93.1 

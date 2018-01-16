@@ -1,0 +1,13 @@
+POI: 			Brit_Marling 
+Youtube ID: 	vYeUCJ1iPYI 
+Video length: 	336.2 sec 
+Set (V): 		dev 
+ 
+Brit_Marling/vYeUCJ1iPYI_0000001 85.2 97.9 
+Brit_Marling/vYeUCJ1iPYI_0000002 112.7 117.4 
+Brit_Marling/vYeUCJ1iPYI_0000003 156.8 173.8 
+Brit_Marling/vYeUCJ1iPYI_0000004 190.8 203.5 
+Brit_Marling/vYeUCJ1iPYI_0000005 203.9 210.9 
+Brit_Marling/vYeUCJ1iPYI_0000006 246.2 259.4 
+Brit_Marling/vYeUCJ1iPYI_0000007 276.9 283.2 
+Brit_Marling/vYeUCJ1iPYI_0000008 300.1 314.9 

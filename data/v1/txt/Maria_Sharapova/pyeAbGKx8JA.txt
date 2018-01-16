@@ -1,0 +1,7 @@
+POI: 			Maria_Sharapova 
+Youtube ID: 	pyeAbGKx8JA 
+Video length: 	308.9 sec 
+Set (V): 		dev 
+ 
+Maria_Sharapova/pyeAbGKx8JA_0000001 51.8 59.0 
+Maria_Sharapova/pyeAbGKx8JA_0000002 264.1 274.0 

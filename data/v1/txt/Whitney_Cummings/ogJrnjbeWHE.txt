@@ -1,0 +1,9 @@
+POI: 			Whitney_Cummings 
+Youtube ID: 	ogJrnjbeWHE 
+Video length: 	102.1 sec 
+Set (V): 		dev 
+ 
+Whitney_Cummings/ogJrnjbeWHE_0000001 21.9 29.4 
+Whitney_Cummings/ogJrnjbeWHE_0000002 31.5 37.9 
+Whitney_Cummings/ogJrnjbeWHE_0000003 40.8 54.6 
+Whitney_Cummings/ogJrnjbeWHE_0000004 63.7 69.2 

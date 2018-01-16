@@ -1,0 +1,13 @@
+POI: 			Katie_Aselton 
+Youtube ID: 	Olo3HVAMD0Y 
+Video length: 	180.4 sec 
+Set (V): 		dev 
+ 
+Katie_Aselton/Olo3HVAMD0Y_0000001 17.2 25.3 
+Katie_Aselton/Olo3HVAMD0Y_0000002 27.6 33.0 
+Katie_Aselton/Olo3HVAMD0Y_0000003 33.6 41.2 
+Katie_Aselton/Olo3HVAMD0Y_0000004 49.2 54.8 
+Katie_Aselton/Olo3HVAMD0Y_0000005 55.2 70.3 
+Katie_Aselton/Olo3HVAMD0Y_0000006 74.2 83.7 
+Katie_Aselton/Olo3HVAMD0Y_0000007 86.0 90.5 
+Katie_Aselton/Olo3HVAMD0Y_0000008 122.4 126.6 

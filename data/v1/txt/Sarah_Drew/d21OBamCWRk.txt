@@ -1,0 +1,7 @@
+POI: 			Sarah_Drew 
+Youtube ID: 	d21OBamCWRk 
+Video length: 	298.3 sec 
+Set (V): 		dev 
+ 
+Sarah_Drew/d21OBamCWRk_0000001 28.3 34.7 
+Sarah_Drew/d21OBamCWRk_0000002 38.5 43.8 

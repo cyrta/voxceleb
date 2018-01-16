@@ -1,0 +1,9 @@
+POI: 			Sean_Maher 
+Youtube ID: 	4xsoYH5I7MA 
+Video length: 	208.8 sec 
+Set (V): 		dev 
+ 
+Sean_Maher/4xsoYH5I7MA_0000001 45.1 50.1 
+Sean_Maher/4xsoYH5I7MA_0000002 55.9 60.4 
+Sean_Maher/4xsoYH5I7MA_0000003 148.5 154.1 
+Sean_Maher/4xsoYH5I7MA_0000004 161.0 167.3 

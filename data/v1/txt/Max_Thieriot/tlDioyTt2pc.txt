@@ -1,0 +1,15 @@
+POI: 			Max_Thieriot 
+Youtube ID: 	tlDioyTt2pc 
+Video length: 	285.4 sec 
+Set (V): 		dev 
+ 
+Max_Thieriot/tlDioyTt2pc_0000001 00.8 06.5 
+Max_Thieriot/tlDioyTt2pc_0000002 09.2 15.0 
+Max_Thieriot/tlDioyTt2pc_0000003 19.0 23.9 
+Max_Thieriot/tlDioyTt2pc_0000004 29.4 38.0 
+Max_Thieriot/tlDioyTt2pc_0000005 56.4 62.8 
+Max_Thieriot/tlDioyTt2pc_0000006 187.2 193.1 
+Max_Thieriot/tlDioyTt2pc_0000007 242.1 246.3 
+Max_Thieriot/tlDioyTt2pc_0000008 219.7 224.2 
+Max_Thieriot/tlDioyTt2pc_0000009 237.0 241.0 
+Max_Thieriot/tlDioyTt2pc_0000010 259.7 264.6 

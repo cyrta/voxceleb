@@ -1,0 +1,7 @@
+POI: 			Gilles_Marini 
+Youtube ID: 	S1EWztcS8OE 
+Video length: 	34.2 sec 
+Set (V): 		dev 
+ 
+Gilles_Marini/S1EWztcS8OE_0000001 08.5 14.6 
+Gilles_Marini/S1EWztcS8OE_0000002 18.2 25.0 

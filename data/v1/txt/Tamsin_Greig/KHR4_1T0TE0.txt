@@ -1,0 +1,10 @@
+POI: 			Tamsin_Greig 
+Youtube ID: 	KHR4_1T0TE0 
+Video length: 	116.5 sec 
+Set (V): 		dev 
+ 
+Tamsin_Greig/KHR4_1T0TE0_0000001 36.6 43.2 
+Tamsin_Greig/KHR4_1T0TE0_0000002 44.4 51.8 
+Tamsin_Greig/KHR4_1T0TE0_0000003 55.0 60.4 
+Tamsin_Greig/KHR4_1T0TE0_0000004 70.3 76.4 
+Tamsin_Greig/KHR4_1T0TE0_0000005 77.6 83.6 

@@ -1,0 +1,7 @@
+POI: 			David_Morse 
+Youtube ID: 	6ruGThyKSTs 
+Video length: 	273.5 sec 
+Set (V): 		dev 
+ 
+David_Morse/6ruGThyKSTs_0000001 69.4 78.6 
+David_Morse/6ruGThyKSTs_0000002 194.9 199.8 

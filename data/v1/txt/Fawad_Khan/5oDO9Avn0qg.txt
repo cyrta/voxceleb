@@ -1,0 +1,12 @@
+POI: 			Fawad_Khan 
+Youtube ID: 	5oDO9Avn0qg 
+Video length: 	304.6 sec 
+Set (V): 		dev 
+ 
+Fawad_Khan/5oDO9Avn0qg_0000001 26.9 39.0 
+Fawad_Khan/5oDO9Avn0qg_0000002 39.2 55.0 
+Fawad_Khan/5oDO9Avn0qg_0000003 61.4 66.6 
+Fawad_Khan/5oDO9Avn0qg_0000004 91.1 107.6 
+Fawad_Khan/5oDO9Avn0qg_0000005 138.7 149.0 
+Fawad_Khan/5oDO9Avn0qg_0000006 222.7 228.2 
+Fawad_Khan/5oDO9Avn0qg_0000007 234.6 241.9 

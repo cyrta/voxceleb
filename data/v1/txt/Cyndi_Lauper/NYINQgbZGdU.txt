@@ -1,0 +1,7 @@
+POI: 			Cyndi_Lauper 
+Youtube ID: 	NYINQgbZGdU 
+Video length: 	229.0 sec 
+Set (V): 		dev 
+ 
+Cyndi_Lauper/NYINQgbZGdU_0000001 141.8 145.8 
+Cyndi_Lauper/NYINQgbZGdU_0000002 179.9 196.7 

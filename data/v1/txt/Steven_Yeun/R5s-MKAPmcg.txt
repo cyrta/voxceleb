@@ -1,0 +1,7 @@
+POI: 			Steven_Yeun 
+Youtube ID: 	R5s-MKAPmcg 
+Video length: 	196.6 sec 
+Set (V): 		dev 
+ 
+Steven_Yeun/R5s-MKAPmcg_0000001 17.0 32.1 
+Steven_Yeun/R5s-MKAPmcg_0000002 104.8 113.2 

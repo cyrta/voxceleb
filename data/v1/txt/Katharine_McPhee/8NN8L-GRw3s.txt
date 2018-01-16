@@ -1,0 +1,8 @@
+POI: 			Katharine_McPhee 
+Youtube ID: 	8NN8L-GRw3s 
+Video length: 	1157.1 sec 
+Set (V): 		dev 
+ 
+Katharine_McPhee/8NN8L-GRw3s_0000001 206.1 211.7 
+Katharine_McPhee/8NN8L-GRw3s_0000002 491.7 501.9 
+Katharine_McPhee/8NN8L-GRw3s_0000003 592.7 598.4 

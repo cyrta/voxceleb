@@ -1,0 +1,47 @@
+POI: 			Roma_Downey 
+Youtube ID: 	kzDj459isyI 
+Video length: 	711.2 sec 
+Set (V): 		dev 
+ 
+Roma_Downey/kzDj459isyI_0000001 12.3 28.4 
+Roma_Downey/kzDj459isyI_0000002 46.1 51.6 
+Roma_Downey/kzDj459isyI_0000003 57.1 66.9 
+Roma_Downey/kzDj459isyI_0000004 71.3 77.0 
+Roma_Downey/kzDj459isyI_0000005 81.8 95.1 
+Roma_Downey/kzDj459isyI_0000006 95.4 109.9 
+Roma_Downey/kzDj459isyI_0000007 111.8 116.9 
+Roma_Downey/kzDj459isyI_0000008 126.0 143.9 
+Roma_Downey/kzDj459isyI_0000009 155.8 178.7 
+Roma_Downey/kzDj459isyI_0000010 186.8 218.6 
+Roma_Downey/kzDj459isyI_0000011 223.7 228.0 
+Roma_Downey/kzDj459isyI_0000012 232.0 237.0 
+Roma_Downey/kzDj459isyI_0000013 241.1 246.6 
+Roma_Downey/kzDj459isyI_0000014 255.6 274.6 
+Roma_Downey/kzDj459isyI_0000015 298.6 308.3 
+Roma_Downey/kzDj459isyI_0000016 312.1 323.0 
+Roma_Downey/kzDj459isyI_0000017 328.0 332.6 
+Roma_Downey/kzDj459isyI_0000018 333.7 339.0 
+Roma_Downey/kzDj459isyI_0000019 340.8 344.9 
+Roma_Downey/kzDj459isyI_0000020 352.5 361.8 
+Roma_Downey/kzDj459isyI_0000021 369.8 376.9 
+Roma_Downey/kzDj459isyI_0000022 377.5 403.6 
+Roma_Downey/kzDj459isyI_0000023 406.3 411.2 
+Roma_Downey/kzDj459isyI_0000024 411.5 417.0 
+Roma_Downey/kzDj459isyI_0000025 422.6 432.6 
+Roma_Downey/kzDj459isyI_0000026 435.6 457.3 
+Roma_Downey/kzDj459isyI_0000027 478.8 483.4 
+Roma_Downey/kzDj459isyI_0000028 484.7 496.1 
+Roma_Downey/kzDj459isyI_0000029 500.3 515.4 
+Roma_Downey/kzDj459isyI_0000030 524.1 532.0 
+Roma_Downey/kzDj459isyI_0000031 545.0 565.2 
+Roma_Downey/kzDj459isyI_0000032 569.6 576.9 
+Roma_Downey/kzDj459isyI_0000033 577.6 582.1 
+Roma_Downey/kzDj459isyI_0000034 582.4 592.0 
+Roma_Downey/kzDj459isyI_0000035 597.4 608.4 
+Roma_Downey/kzDj459isyI_0000036 620.4 629.5 
+Roma_Downey/kzDj459isyI_0000037 641.8 657.1 
+Roma_Downey/kzDj459isyI_0000038 657.7 663.8 
+Roma_Downey/kzDj459isyI_0000039 665.8 669.8 
+Roma_Downey/kzDj459isyI_0000040 675.9 683.8 
+Roma_Downey/kzDj459isyI_0000041 689.0 693.6 
+Roma_Downey/kzDj459isyI_0000042 697.5 702.4 

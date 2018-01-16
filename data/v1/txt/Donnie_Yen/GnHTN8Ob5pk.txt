@@ -1,0 +1,15 @@
+POI: 			Donnie_Yen 
+Youtube ID: 	GnHTN8Ob5pk 
+Video length: 	268.9 sec 
+Set (V): 		dev 
+ 
+Donnie_Yen/GnHTN8Ob5pk_0000001 25.8 30.8 
+Donnie_Yen/GnHTN8Ob5pk_0000002 34.0 40.1 
+Donnie_Yen/GnHTN8Ob5pk_0000003 64.3 70.2 
+Donnie_Yen/GnHTN8Ob5pk_0000004 119.7 126.8 
+Donnie_Yen/GnHTN8Ob5pk_0000005 131.2 142.4 
+Donnie_Yen/GnHTN8Ob5pk_0000006 193.1 199.5 
+Donnie_Yen/GnHTN8Ob5pk_0000007 212.7 219.5 
+Donnie_Yen/GnHTN8Ob5pk_0000008 220.4 225.3 
+Donnie_Yen/GnHTN8Ob5pk_0000009 234.8 240.0 
+Donnie_Yen/GnHTN8Ob5pk_0000010 245.1 250.2 

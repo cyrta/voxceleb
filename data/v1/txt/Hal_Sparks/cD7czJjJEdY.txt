@@ -1,0 +1,9 @@
+POI: 			Hal_Sparks 
+Youtube ID: 	cD7czJjJEdY 
+Video length: 	482.2 sec 
+Set (V): 		dev 
+ 
+Hal_Sparks/cD7czJjJEdY_0000001 34.1 43.2 
+Hal_Sparks/cD7czJjJEdY_0000002 278.6 286.7 
+Hal_Sparks/cD7czJjJEdY_0000003 286.9 302.8 
+Hal_Sparks/cD7czJjJEdY_0000004 303.1 307.8 

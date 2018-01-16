@@ -1,0 +1,8 @@
+POI: 			John_Simm 
+Youtube ID: 	Vh1HvXHIzqI 
+Video length: 	282.2 sec 
+Set (V): 		dev 
+ 
+John_Simm/Vh1HvXHIzqI_0000001 67.6 74.5 
+John_Simm/Vh1HvXHIzqI_0000002 100.2 104.4 
+John_Simm/Vh1HvXHIzqI_0000003 179.4 192.2 

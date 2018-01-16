@@ -1,0 +1,10 @@
+POI: 			Caroline_Rhea 
+Youtube ID: 	pxUF7wuXtMQ 
+Video length: 	1256.0 sec 
+Set (V): 		dev 
+ 
+Caroline_Rhea/pxUF7wuXtMQ_0000001 34.0 38.6 
+Caroline_Rhea/pxUF7wuXtMQ_0000002 120.6 126.6 
+Caroline_Rhea/pxUF7wuXtMQ_0000003 139.7 143.8 
+Caroline_Rhea/pxUF7wuXtMQ_0000004 120.4 126.8 
+Caroline_Rhea/pxUF7wuXtMQ_0000005 680.2 685.3 

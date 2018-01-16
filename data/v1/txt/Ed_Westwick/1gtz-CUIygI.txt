@@ -1,0 +1,26 @@
+POI: 			Ed_Westwick 
+Youtube ID: 	1gtz-CUIygI 
+Video length: 	494.7 sec 
+Set (V): 		test 
+ 
+Ed_Westwick/1gtz-CUIygI_0000001 03.7 09.5 
+Ed_Westwick/1gtz-CUIygI_0000002 10.6 15.8 
+Ed_Westwick/1gtz-CUIygI_0000003 17.8 22.6 
+Ed_Westwick/1gtz-CUIygI_0000004 34.7 43.3 
+Ed_Westwick/1gtz-CUIygI_0000005 53.7 58.2 
+Ed_Westwick/1gtz-CUIygI_0000006 98.6 112.5 
+Ed_Westwick/1gtz-CUIygI_0000007 124.3 129.4 
+Ed_Westwick/1gtz-CUIygI_0000008 203.0 208.1 
+Ed_Westwick/1gtz-CUIygI_0000009 212.9 219.0 
+Ed_Westwick/1gtz-CUIygI_0000010 260.3 265.0 
+Ed_Westwick/1gtz-CUIygI_0000011 265.8 271.9 
+Ed_Westwick/1gtz-CUIygI_0000012 284.5 290.0 
+Ed_Westwick/1gtz-CUIygI_0000013 323.2 332.4 
+Ed_Westwick/1gtz-CUIygI_0000014 347.7 357.1 
+Ed_Westwick/1gtz-CUIygI_0000015 357.9 362.7 
+Ed_Westwick/1gtz-CUIygI_0000016 363.0 368.3 
+Ed_Westwick/1gtz-CUIygI_0000017 378.0 382.8 
+Ed_Westwick/1gtz-CUIygI_0000018 401.2 406.0 
+Ed_Westwick/1gtz-CUIygI_0000019 433.8 440.6 
+Ed_Westwick/1gtz-CUIygI_0000020 453.9 458.2 
+Ed_Westwick/1gtz-CUIygI_0000021 484.9 488.9 

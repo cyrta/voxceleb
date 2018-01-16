@@ -1,0 +1,12 @@
+POI: 			Marc_Webb 
+Youtube ID: 	BPo0LbY1D0E 
+Video length: 	201.7 sec 
+Set (V): 		dev 
+ 
+Marc_Webb/BPo0LbY1D0E_0000001 40.3 44.9 
+Marc_Webb/BPo0LbY1D0E_0000002 64.6 70.2 
+Marc_Webb/BPo0LbY1D0E_0000003 78.0 83.4 
+Marc_Webb/BPo0LbY1D0E_0000004 107.8 113.3 
+Marc_Webb/BPo0LbY1D0E_0000005 155.9 161.4 
+Marc_Webb/BPo0LbY1D0E_0000006 169.0 174.6 
+Marc_Webb/BPo0LbY1D0E_0000007 183.0 188.8 

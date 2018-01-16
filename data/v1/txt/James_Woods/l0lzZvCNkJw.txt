@@ -1,0 +1,28 @@
+POI: 			James_Woods 
+Youtube ID: 	l0lzZvCNkJw 
+Video length: 	413.4 sec 
+Set (V): 		dev 
+ 
+James_Woods/l0lzZvCNkJw_0000001 17.8 35.6 
+James_Woods/l0lzZvCNkJw_0000002 38.8 73.5 
+James_Woods/l0lzZvCNkJw_0000003 74.7 79.4 
+James_Woods/l0lzZvCNkJw_0000004 81.4 86.0 
+James_Woods/l0lzZvCNkJw_0000005 89.4 104.7 
+James_Woods/l0lzZvCNkJw_0000006 108.0 120.8 
+James_Woods/l0lzZvCNkJw_0000007 130.2 138.6 
+James_Woods/l0lzZvCNkJw_0000008 144.2 150.2 
+James_Woods/l0lzZvCNkJw_0000009 153.6 168.4 
+James_Woods/l0lzZvCNkJw_0000010 189.8 194.0 
+James_Woods/l0lzZvCNkJw_0000011 194.5 200.9 
+James_Woods/l0lzZvCNkJw_0000012 206.1 219.6 
+James_Woods/l0lzZvCNkJw_0000013 220.6 231.4 
+James_Woods/l0lzZvCNkJw_0000014 259.7 269.0 
+James_Woods/l0lzZvCNkJw_0000015 276.0 280.8 
+James_Woods/l0lzZvCNkJw_0000016 291.4 297.2 
+James_Woods/l0lzZvCNkJw_0000017 303.1 308.2 
+James_Woods/l0lzZvCNkJw_0000018 311.4 316.2 
+James_Woods/l0lzZvCNkJw_0000019 325.5 332.8 
+James_Woods/l0lzZvCNkJw_0000020 351.3 361.4 
+James_Woods/l0lzZvCNkJw_0000021 361.5 371.3 
+James_Woods/l0lzZvCNkJw_0000022 378.7 385.2 
+James_Woods/l0lzZvCNkJw_0000023 385.3 398.4 

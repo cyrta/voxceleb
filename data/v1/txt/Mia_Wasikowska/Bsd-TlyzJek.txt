@@ -1,0 +1,8 @@
+POI: 			Mia_Wasikowska 
+Youtube ID: 	Bsd-TlyzJek 
+Video length: 	155.5 sec 
+Set (V): 		dev 
+ 
+Mia_Wasikowska/Bsd-TlyzJek_0000001 31.3 37.8 
+Mia_Wasikowska/Bsd-TlyzJek_0000002 77.3 81.4 
+Mia_Wasikowska/Bsd-TlyzJek_0000003 104.1 114.5 

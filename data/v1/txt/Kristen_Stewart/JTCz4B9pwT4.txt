@@ -1,0 +1,19 @@
+POI: 			Kristen_Stewart 
+Youtube ID: 	JTCz4B9pwT4 
+Video length: 	252.8 sec 
+Set (V): 		dev 
+ 
+Kristen_Stewart/JTCz4B9pwT4_0000001 29.2 34.4 
+Kristen_Stewart/JTCz4B9pwT4_0000002 39.8 44.6 
+Kristen_Stewart/JTCz4B9pwT4_0000003 44.7 50.6 
+Kristen_Stewart/JTCz4B9pwT4_0000004 63.3 73.3 
+Kristen_Stewart/JTCz4B9pwT4_0000005 93.2 97.2 
+Kristen_Stewart/JTCz4B9pwT4_0000006 106.2 113.3 
+Kristen_Stewart/JTCz4B9pwT4_0000007 116.9 130.2 
+Kristen_Stewart/JTCz4B9pwT4_0000008 134.2 140.5 
+Kristen_Stewart/JTCz4B9pwT4_0000009 141.0 149.2 
+Kristen_Stewart/JTCz4B9pwT4_0000010 149.8 159.1 
+Kristen_Stewart/JTCz4B9pwT4_0000011 199.3 207.6 
+Kristen_Stewart/JTCz4B9pwT4_0000012 208.4 222.3 
+Kristen_Stewart/JTCz4B9pwT4_0000013 223.0 227.1 
+Kristen_Stewart/JTCz4B9pwT4_0000014 228.5 240.8 

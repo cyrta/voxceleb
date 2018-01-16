@@ -1,0 +1,9 @@
+POI: 			Tom_Bergeron 
+Youtube ID: 	mUWjJu3wem4 
+Video length: 	246.8 sec 
+Set (V): 		dev 
+ 
+Tom_Bergeron/mUWjJu3wem4_0000001 52.2 65.4 
+Tom_Bergeron/mUWjJu3wem4_0000002 82.7 95.2 
+Tom_Bergeron/mUWjJu3wem4_0000003 123.5 136.1 
+Tom_Bergeron/mUWjJu3wem4_0000004 167.0 172.0 

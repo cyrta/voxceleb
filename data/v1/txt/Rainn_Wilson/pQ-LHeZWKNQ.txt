@@ -1,0 +1,18 @@
+POI: 			Rainn_Wilson 
+Youtube ID: 	pQ-LHeZWKNQ 
+Video length: 	455.0 sec 
+Set (V): 		dev 
+ 
+Rainn_Wilson/pQ-LHeZWKNQ_0000001 18.6 29.6 
+Rainn_Wilson/pQ-LHeZWKNQ_0000002 30.4 34.6 
+Rainn_Wilson/pQ-LHeZWKNQ_0000003 38.5 46.0 
+Rainn_Wilson/pQ-LHeZWKNQ_0000004 46.9 55.2 
+Rainn_Wilson/pQ-LHeZWKNQ_0000005 66.4 70.8 
+Rainn_Wilson/pQ-LHeZWKNQ_0000006 201.6 217.0 
+Rainn_Wilson/pQ-LHeZWKNQ_0000007 217.3 225.0 
+Rainn_Wilson/pQ-LHeZWKNQ_0000008 231.6 261.2 
+Rainn_Wilson/pQ-LHeZWKNQ_0000009 327.3 334.1 
+Rainn_Wilson/pQ-LHeZWKNQ_0000010 338.0 354.9 
+Rainn_Wilson/pQ-LHeZWKNQ_0000011 363.5 368.1 
+Rainn_Wilson/pQ-LHeZWKNQ_0000012 410.6 426.5 
+Rainn_Wilson/pQ-LHeZWKNQ_0000013 427.0 445.7 

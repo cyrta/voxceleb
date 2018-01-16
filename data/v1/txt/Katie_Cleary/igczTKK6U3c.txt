@@ -1,0 +1,9 @@
+POI: 			Katie_Cleary 
+Youtube ID: 	igczTKK6U3c 
+Video length: 	276.5 sec 
+Set (V): 		dev 
+ 
+Katie_Cleary/igczTKK6U3c_0000001 40.8 45.3 
+Katie_Cleary/igczTKK6U3c_0000002 63.0 68.4 
+Katie_Cleary/igczTKK6U3c_0000003 129.4 133.6 
+Katie_Cleary/igczTKK6U3c_0000004 186.4 191.2 

@@ -1,0 +1,9 @@
+POI: 			Eva_Longoria 
+Youtube ID: 	bLrL6c37TYI 
+Video length: 	459.8 sec 
+Set (V): 		test 
+ 
+Eva_Longoria/bLrL6c37TYI_0000001 182.2 188.1 
+Eva_Longoria/bLrL6c37TYI_0000002 194.9 200.0 
+Eva_Longoria/bLrL6c37TYI_0000003 272.4 282.5 
+Eva_Longoria/bLrL6c37TYI_0000004 340.0 344.0 

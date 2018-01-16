@@ -1,0 +1,20 @@
+POI: 			Janice_Dickinson 
+Youtube ID: 	xOy8cCOLA7w 
+Video length: 	376.1 sec 
+Set (V): 		dev 
+ 
+Janice_Dickinson/xOy8cCOLA7w_0000001 24.6 43.9 
+Janice_Dickinson/xOy8cCOLA7w_0000002 48.2 52.4 
+Janice_Dickinson/xOy8cCOLA7w_0000003 54.4 58.6 
+Janice_Dickinson/xOy8cCOLA7w_0000004 59.1 68.6 
+Janice_Dickinson/xOy8cCOLA7w_0000005 141.6 156.0 
+Janice_Dickinson/xOy8cCOLA7w_0000006 186.1 192.7 
+Janice_Dickinson/xOy8cCOLA7w_0000007 242.0 248.0 
+Janice_Dickinson/xOy8cCOLA7w_0000008 248.3 254.0 
+Janice_Dickinson/xOy8cCOLA7w_0000009 256.4 261.6 
+Janice_Dickinson/xOy8cCOLA7w_0000010 264.4 276.0 
+Janice_Dickinson/xOy8cCOLA7w_0000011 282.2 288.6 
+Janice_Dickinson/xOy8cCOLA7w_0000012 298.4 304.1 
+Janice_Dickinson/xOy8cCOLA7w_0000013 306.2 321.7 
+Janice_Dickinson/xOy8cCOLA7w_0000014 322.9 332.0 
+Janice_Dickinson/xOy8cCOLA7w_0000015 363.7 374.6 

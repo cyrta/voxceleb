@@ -1,0 +1,11 @@
+POI: 			Jason_Segel 
+Youtube ID: 	zlA21R3geKE 
+Video length: 	301.8 sec 
+Set (V): 		dev 
+ 
+Jason_Segel/zlA21R3geKE_0000001 33.0 42.8 
+Jason_Segel/zlA21R3geKE_0000002 59.4 63.7 
+Jason_Segel/zlA21R3geKE_0000003 73.5 84.4 
+Jason_Segel/zlA21R3geKE_0000004 85.3 90.1 
+Jason_Segel/zlA21R3geKE_0000005 160.6 164.6 
+Jason_Segel/zlA21R3geKE_0000006 190.0 209.5 

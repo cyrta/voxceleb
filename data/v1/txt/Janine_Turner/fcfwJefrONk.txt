@@ -1,0 +1,12 @@
+POI: 			Janine_Turner 
+Youtube ID: 	fcfwJefrONk 
+Video length: 	180.6 sec 
+Set (V): 		dev 
+ 
+Janine_Turner/fcfwJefrONk_0000001 23.4 31.0 
+Janine_Turner/fcfwJefrONk_0000002 62.2 81.0 
+Janine_Turner/fcfwJefrONk_0000003 82.2 86.9 
+Janine_Turner/fcfwJefrONk_0000004 103.5 109.7 
+Janine_Turner/fcfwJefrONk_0000005 111.7 120.2 
+Janine_Turner/fcfwJefrONk_0000006 122.6 126.9 
+Janine_Turner/fcfwJefrONk_0000007 134.1 162.7 

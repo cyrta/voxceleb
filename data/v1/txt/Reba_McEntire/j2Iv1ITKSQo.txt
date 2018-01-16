@@ -1,0 +1,9 @@
+POI: 			Reba_McEntire 
+Youtube ID: 	j2Iv1ITKSQo 
+Video length: 	221.5 sec 
+Set (V): 		dev 
+ 
+Reba_McEntire/j2Iv1ITKSQo_0000001 112.6 125.2 
+Reba_McEntire/j2Iv1ITKSQo_0000002 129.6 141.6 
+Reba_McEntire/j2Iv1ITKSQo_0000003 179.4 195.3 
+Reba_McEntire/j2Iv1ITKSQo_0000004 212.0 217.2 

@@ -1,0 +1,7 @@
+POI: 			Anthony_Anderson 
+Youtube ID: 	P5v6-KG_WHo 
+Video length: 	130.5 sec 
+Set (V): 		dev 
+ 
+Anthony_Anderson/P5v6-KG_WHo_0000001 17.8 24.8 
+Anthony_Anderson/P5v6-KG_WHo_0000002 108.1 112.6 

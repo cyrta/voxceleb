@@ -1,0 +1,7 @@
+POI: 			Kim_Raver 
+Youtube ID: 	aRQIoCWjiyg 
+Video length: 	262.7 sec 
+Set (V): 		dev 
+ 
+Kim_Raver/aRQIoCWjiyg_0000001 92.0 96.7 
+Kim_Raver/aRQIoCWjiyg_0000002 115.7 123.1 

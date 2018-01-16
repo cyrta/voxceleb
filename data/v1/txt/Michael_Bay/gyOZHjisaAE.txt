@@ -1,0 +1,23 @@
+POI: 			Michael_Bay 
+Youtube ID: 	gyOZHjisaAE 
+Video length: 	334.6 sec 
+Set (V): 		dev 
+ 
+Michael_Bay/gyOZHjisaAE_0000001 14.6 25.1 
+Michael_Bay/gyOZHjisaAE_0000002 27.2 49.0 
+Michael_Bay/gyOZHjisaAE_0000003 58.1 65.5 
+Michael_Bay/gyOZHjisaAE_0000004 69.6 75.4 
+Michael_Bay/gyOZHjisaAE_0000005 93.6 98.1 
+Michael_Bay/gyOZHjisaAE_0000006 128.4 132.4 
+Michael_Bay/gyOZHjisaAE_0000007 141.4 158.6 
+Michael_Bay/gyOZHjisaAE_0000008 212.9 218.6 
+Michael_Bay/gyOZHjisaAE_0000009 220.8 225.6 
+Michael_Bay/gyOZHjisaAE_0000010 229.5 234.2 
+Michael_Bay/gyOZHjisaAE_0000011 240.2 244.7 
+Michael_Bay/gyOZHjisaAE_0000012 252.7 257.5 
+Michael_Bay/gyOZHjisaAE_0000013 261.6 265.6 
+Michael_Bay/gyOZHjisaAE_0000014 266.2 274.3 
+Michael_Bay/gyOZHjisaAE_0000015 277.4 284.2 
+Michael_Bay/gyOZHjisaAE_0000016 305.6 310.2 
+Michael_Bay/gyOZHjisaAE_0000017 314.4 319.5 
+Michael_Bay/gyOZHjisaAE_0000018 320.0 328.9 

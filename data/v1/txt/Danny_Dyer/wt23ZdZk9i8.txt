@@ -1,0 +1,32 @@
+POI: 			Danny_Dyer 
+Youtube ID: 	wt23ZdZk9i8 
+Video length: 	1124.6 sec 
+Set (V): 		dev 
+ 
+Danny_Dyer/wt23ZdZk9i8_0000001 107.6 111.8 
+Danny_Dyer/wt23ZdZk9i8_0000002 178.8 183.2 
+Danny_Dyer/wt23ZdZk9i8_0000003 200.4 208.0 
+Danny_Dyer/wt23ZdZk9i8_0000004 213.3 217.5 
+Danny_Dyer/wt23ZdZk9i8_0000005 315.9 330.2 
+Danny_Dyer/wt23ZdZk9i8_0000006 357.8 365.2 
+Danny_Dyer/wt23ZdZk9i8_0000007 371.2 376.5 
+Danny_Dyer/wt23ZdZk9i8_0000008 402.6 407.4 
+Danny_Dyer/wt23ZdZk9i8_0000009 408.2 413.4 
+Danny_Dyer/wt23ZdZk9i8_0000010 421.9 428.6 
+Danny_Dyer/wt23ZdZk9i8_0000011 453.3 459.2 
+Danny_Dyer/wt23ZdZk9i8_0000012 467.0 473.0 
+Danny_Dyer/wt23ZdZk9i8_0000013 481.2 488.8 
+Danny_Dyer/wt23ZdZk9i8_0000014 510.1 518.7 
+Danny_Dyer/wt23ZdZk9i8_0000015 525.6 530.7 
+Danny_Dyer/wt23ZdZk9i8_0000016 551.0 555.4 
+Danny_Dyer/wt23ZdZk9i8_0000017 562.6 568.8 
+Danny_Dyer/wt23ZdZk9i8_0000018 589.1 594.7 
+Danny_Dyer/wt23ZdZk9i8_0000019 674.7 680.6 
+Danny_Dyer/wt23ZdZk9i8_0000020 730.8 738.6 
+Danny_Dyer/wt23ZdZk9i8_0000021 798.4 809.5 
+Danny_Dyer/wt23ZdZk9i8_0000022 845.2 852.3 
+Danny_Dyer/wt23ZdZk9i8_0000023 886.4 892.2 
+Danny_Dyer/wt23ZdZk9i8_0000024 923.4 929.0 
+Danny_Dyer/wt23ZdZk9i8_0000025 971.9 976.0 
+Danny_Dyer/wt23ZdZk9i8_0000026 992.3 996.2 
+Danny_Dyer/wt23ZdZk9i8_0000027 1063.6 1067.8 

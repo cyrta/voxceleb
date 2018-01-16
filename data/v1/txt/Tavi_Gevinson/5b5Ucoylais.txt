@@ -1,0 +1,9 @@
+POI: 			Tavi_Gevinson 
+Youtube ID: 	5b5Ucoylais 
+Video length: 	374.0 sec 
+Set (V): 		dev 
+ 
+Tavi_Gevinson/5b5Ucoylais_0000001 151.1 155.4 
+Tavi_Gevinson/5b5Ucoylais_0000002 227.2 234.6 
+Tavi_Gevinson/5b5Ucoylais_0000003 269.5 278.6 
+Tavi_Gevinson/5b5Ucoylais_0000004 349.6 356.2 

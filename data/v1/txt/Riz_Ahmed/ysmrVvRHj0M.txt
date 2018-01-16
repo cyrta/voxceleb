@@ -1,0 +1,9 @@
+POI: 			Riz_Ahmed 
+Youtube ID: 	ysmrVvRHj0M 
+Video length: 	269.5 sec 
+Set (V): 		dev 
+ 
+Riz_Ahmed/ysmrVvRHj0M_0000001 43.2 49.9 
+Riz_Ahmed/ysmrVvRHj0M_0000002 185.5 190.7 
+Riz_Ahmed/ysmrVvRHj0M_0000003 192.5 201.1 
+Riz_Ahmed/ysmrVvRHj0M_0000004 207.6 213.3 

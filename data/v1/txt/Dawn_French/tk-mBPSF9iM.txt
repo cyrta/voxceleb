@@ -1,0 +1,7 @@
+POI: 			Dawn_French 
+Youtube ID: 	tk-mBPSF9iM 
+Video length: 	209.1 sec 
+Set (V): 		dev 
+ 
+Dawn_French/tk-mBPSF9iM_0000001 141.3 146.7 
+Dawn_French/tk-mBPSF9iM_0000002 161.8 167.0 

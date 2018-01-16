@@ -1,0 +1,7 @@
+POI: 			Robert_Carlyle 
+Youtube ID: 	R02ht3pt_40 
+Video length: 	276.0 sec 
+Set (V): 		dev 
+ 
+Robert_Carlyle/R02ht3pt_40_0000001 39.6 43.6 
+Robert_Carlyle/R02ht3pt_40_0000002 52.5 57.0 

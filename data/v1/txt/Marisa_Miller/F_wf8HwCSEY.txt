@@ -1,0 +1,9 @@
+POI: 			Marisa_Miller 
+Youtube ID: 	F_wf8HwCSEY 
+Video length: 	481.0 sec 
+Set (V): 		dev 
+ 
+Marisa_Miller/F_wf8HwCSEY_0000001 129.9 144.2 
+Marisa_Miller/F_wf8HwCSEY_0000002 241.7 257.4 
+Marisa_Miller/F_wf8HwCSEY_0000003 416.0 423.3 
+Marisa_Miller/F_wf8HwCSEY_0000004 435.8 443.3 

@@ -1,0 +1,10 @@
+POI: 			Rhys_Ifans 
+Youtube ID: 	pN_fVLh1uGU 
+Video length: 	131.8 sec 
+Set (V): 		dev 
+ 
+Rhys_Ifans/pN_fVLh1uGU_0000001 22.3 29.1 
+Rhys_Ifans/pN_fVLh1uGU_0000002 31.7 43.4 
+Rhys_Ifans/pN_fVLh1uGU_0000003 50.6 60.0 
+Rhys_Ifans/pN_fVLh1uGU_0000004 61.0 69.3 
+Rhys_Ifans/pN_fVLh1uGU_0000005 84.8 90.6 

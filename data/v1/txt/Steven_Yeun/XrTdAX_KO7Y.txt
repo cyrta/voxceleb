@@ -1,0 +1,9 @@
+POI: 			Steven_Yeun 
+Youtube ID: 	XrTdAX_KO7Y 
+Video length: 	386.7 sec 
+Set (V): 		dev 
+ 
+Steven_Yeun/XrTdAX_KO7Y_0000001 142.9 149.9 
+Steven_Yeun/XrTdAX_KO7Y_0000002 175.4 179.6 
+Steven_Yeun/XrTdAX_KO7Y_0000003 182.7 190.5 
+Steven_Yeun/XrTdAX_KO7Y_0000004 225.5 231.4 

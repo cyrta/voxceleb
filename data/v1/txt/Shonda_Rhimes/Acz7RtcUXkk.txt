@@ -1,0 +1,10 @@
+POI: 			Shonda_Rhimes 
+Youtube ID: 	Acz7RtcUXkk 
+Video length: 	222.1 sec 
+Set (V): 		dev 
+ 
+Shonda_Rhimes/Acz7RtcUXkk_0000001 96.1 102.1 
+Shonda_Rhimes/Acz7RtcUXkk_0000002 131.9 136.0 
+Shonda_Rhimes/Acz7RtcUXkk_0000003 166.2 174.6 
+Shonda_Rhimes/Acz7RtcUXkk_0000004 179.1 183.7 
+Shonda_Rhimes/Acz7RtcUXkk_0000005 186.0 191.1 

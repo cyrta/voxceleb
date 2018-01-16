@@ -1,0 +1,7 @@
+POI: 			Tim_Burton 
+Youtube ID: 	clu6s7DfJnA 
+Video length: 	403.3 sec 
+Set (V): 		dev 
+ 
+Tim_Burton/clu6s7DfJnA_0000001 277.4 294.0 
+Tim_Burton/clu6s7DfJnA_0000002 330.3 335.1 

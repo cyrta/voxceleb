@@ -1,0 +1,10 @@
+POI: 			Marion_Cotillard 
+Youtube ID: 	SzlEc25rcR0 
+Video length: 	382.7 sec 
+Set (V): 		dev 
+ 
+Marion_Cotillard/SzlEc25rcR0_0000001 70.6 83.4 
+Marion_Cotillard/SzlEc25rcR0_0000002 119.2 124.1 
+Marion_Cotillard/SzlEc25rcR0_0000003 171.4 176.9 
+Marion_Cotillard/SzlEc25rcR0_0000004 333.2 341.4 
+Marion_Cotillard/SzlEc25rcR0_0000005 344.8 352.8 

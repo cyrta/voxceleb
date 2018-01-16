@@ -1,0 +1,18 @@
+POI: 			Aaron_Tveit 
+Youtube ID: 	JKMfqmjUwMU 
+Video length: 	413.0 sec 
+Set (V): 		dev 
+ 
+Aaron_Tveit/JKMfqmjUwMU_0000001 104.6 108.6 
+Aaron_Tveit/JKMfqmjUwMU_0000002 110.4 115.9 
+Aaron_Tveit/JKMfqmjUwMU_0000003 148.5 153.5 
+Aaron_Tveit/JKMfqmjUwMU_0000004 163.6 179.6 
+Aaron_Tveit/JKMfqmjUwMU_0000005 187.9 195.3 
+Aaron_Tveit/JKMfqmjUwMU_0000006 202.2 235.1 
+Aaron_Tveit/JKMfqmjUwMU_0000007 276.8 280.9 
+Aaron_Tveit/JKMfqmjUwMU_0000008 283.1 287.9 
+Aaron_Tveit/JKMfqmjUwMU_0000009 313.1 337.6 
+Aaron_Tveit/JKMfqmjUwMU_0000010 354.0 358.4 
+Aaron_Tveit/JKMfqmjUwMU_0000011 360.7 368.2 
+Aaron_Tveit/JKMfqmjUwMU_0000012 369.1 378.5 
+Aaron_Tveit/JKMfqmjUwMU_0000013 380.0 386.0 

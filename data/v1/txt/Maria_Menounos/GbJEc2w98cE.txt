@@ -1,0 +1,25 @@
+POI: 			Maria_Menounos 
+Youtube ID: 	GbJEc2w98cE 
+Video length: 	577.1 sec 
+Set (V): 		dev 
+ 
+Maria_Menounos/GbJEc2w98cE_0000001 109.6 115.4 
+Maria_Menounos/GbJEc2w98cE_0000002 116.0 130.0 
+Maria_Menounos/GbJEc2w98cE_0000003 130.2 138.4 
+Maria_Menounos/GbJEc2w98cE_0000004 159.6 165.7 
+Maria_Menounos/GbJEc2w98cE_0000005 166.0 209.5 
+Maria_Menounos/GbJEc2w98cE_0000006 209.7 221.9 
+Maria_Menounos/GbJEc2w98cE_0000007 222.6 239.1 
+Maria_Menounos/GbJEc2w98cE_0000008 256.6 261.5 
+Maria_Menounos/GbJEc2w98cE_0000009 262.0 266.1 
+Maria_Menounos/GbJEc2w98cE_0000010 266.6 307.8 
+Maria_Menounos/GbJEc2w98cE_0000011 312.1 329.8 
+Maria_Menounos/GbJEc2w98cE_0000012 341.0 400.5 
+Maria_Menounos/GbJEc2w98cE_0000013 407.1 429.4 
+Maria_Menounos/GbJEc2w98cE_0000014 432.9 445.8 
+Maria_Menounos/GbJEc2w98cE_0000015 447.4 461.8 
+Maria_Menounos/GbJEc2w98cE_0000016 472.6 479.4 
+Maria_Menounos/GbJEc2w98cE_0000017 480.0 486.4 
+Maria_Menounos/GbJEc2w98cE_0000018 496.0 513.4 
+Maria_Menounos/GbJEc2w98cE_0000019 513.7 537.4 
+Maria_Menounos/GbJEc2w98cE_0000020 557.2 561.6 

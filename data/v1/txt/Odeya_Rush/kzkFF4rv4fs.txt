@@ -1,0 +1,8 @@
+POI: 			Odeya_Rush 
+Youtube ID: 	kzkFF4rv4fs 
+Video length: 	181.7 sec 
+Set (V): 		dev 
+ 
+Odeya_Rush/kzkFF4rv4fs_0000001 50.4 54.8 
+Odeya_Rush/kzkFF4rv4fs_0000002 109.1 113.2 
+Odeya_Rush/kzkFF4rv4fs_0000003 131.9 136.5 

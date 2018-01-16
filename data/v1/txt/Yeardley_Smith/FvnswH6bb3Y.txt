@@ -1,0 +1,11 @@
+POI: 			Yeardley_Smith 
+Youtube ID: 	FvnswH6bb3Y 
+Video length: 	327.9 sec 
+Set (V): 		dev 
+ 
+Yeardley_Smith/FvnswH6bb3Y_0000001 01.1 05.0 
+Yeardley_Smith/FvnswH6bb3Y_0000002 42.5 47.2 
+Yeardley_Smith/FvnswH6bb3Y_0000003 247.2 251.4 
+Yeardley_Smith/FvnswH6bb3Y_0000004 261.3 266.7 
+Yeardley_Smith/FvnswH6bb3Y_0000005 281.6 288.4 
+Yeardley_Smith/FvnswH6bb3Y_0000006 291.3 296.4 

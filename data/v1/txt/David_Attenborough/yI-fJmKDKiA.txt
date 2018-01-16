@@ -1,0 +1,10 @@
+POI: 			David_Attenborough 
+Youtube ID: 	yI-fJmKDKiA 
+Video length: 	763.8 sec 
+Set (V): 		dev 
+ 
+David_Attenborough/yI-fJmKDKiA_0000001 375.3 381.6 
+David_Attenborough/yI-fJmKDKiA_0000002 417.8 422.1 
+David_Attenborough/yI-fJmKDKiA_0000003 463.6 473.5 
+David_Attenborough/yI-fJmKDKiA_0000004 531.6 538.1 
+David_Attenborough/yI-fJmKDKiA_0000005 559.6 565.5 

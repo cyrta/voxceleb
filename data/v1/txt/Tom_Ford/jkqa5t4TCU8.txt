@@ -1,0 +1,15 @@
+POI: 			Tom_Ford 
+Youtube ID: 	jkqa5t4TCU8 
+Video length: 	217.2 sec 
+Set (V): 		dev 
+ 
+Tom_Ford/jkqa5t4TCU8_0000001 27.6 32.6 
+Tom_Ford/jkqa5t4TCU8_0000002 33.3 46.2 
+Tom_Ford/jkqa5t4TCU8_0000003 51.0 64.4 
+Tom_Ford/jkqa5t4TCU8_0000004 101.9 109.0 
+Tom_Ford/jkqa5t4TCU8_0000005 112.6 124.9 
+Tom_Ford/jkqa5t4TCU8_0000006 128.8 133.2 
+Tom_Ford/jkqa5t4TCU8_0000007 138.4 150.4 
+Tom_Ford/jkqa5t4TCU8_0000008 156.8 166.9 
+Tom_Ford/jkqa5t4TCU8_0000009 168.6 181.6 
+Tom_Ford/jkqa5t4TCU8_0000010 185.5 194.4 

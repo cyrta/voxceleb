@@ -1,0 +1,11 @@
+POI: 			Zach_Galifianakis 
+Youtube ID: 	1iOMOrqGesE 
+Video length: 	277.1 sec 
+Set (V): 		dev 
+ 
+Zach_Galifianakis/1iOMOrqGesE_0000001 30.5 35.3 
+Zach_Galifianakis/1iOMOrqGesE_0000002 35.8 41.8 
+Zach_Galifianakis/1iOMOrqGesE_0000003 76.7 85.2 
+Zach_Galifianakis/1iOMOrqGesE_0000004 147.9 152.2 
+Zach_Galifianakis/1iOMOrqGesE_0000005 154.4 158.6 
+Zach_Galifianakis/1iOMOrqGesE_0000006 206.8 213.4 

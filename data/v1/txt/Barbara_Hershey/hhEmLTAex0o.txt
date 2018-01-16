@@ -1,0 +1,7 @@
+POI: 			Barbara_Hershey 
+Youtube ID: 	hhEmLTAex0o 
+Video length: 	299.0 sec 
+Set (V): 		dev 
+ 
+Barbara_Hershey/hhEmLTAex0o_0000001 58.2 63.6 
+Barbara_Hershey/hhEmLTAex0o_0000002 65.1 69.8 

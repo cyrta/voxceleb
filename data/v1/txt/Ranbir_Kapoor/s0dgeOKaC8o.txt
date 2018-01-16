@@ -1,0 +1,11 @@
+POI: 			Ranbir_Kapoor 
+Youtube ID: 	s0dgeOKaC8o 
+Video length: 	3320.7 sec 
+Set (V): 		dev 
+ 
+Ranbir_Kapoor/s0dgeOKaC8o_0000001 254.1 258.4 
+Ranbir_Kapoor/s0dgeOKaC8o_0000002 918.1 923.5 
+Ranbir_Kapoor/s0dgeOKaC8o_0000003 1943.5 1948.2 
+Ranbir_Kapoor/s0dgeOKaC8o_0000004 2460.5 2464.4 
+Ranbir_Kapoor/s0dgeOKaC8o_0000005 3050.2 3054.2 
+Ranbir_Kapoor/s0dgeOKaC8o_0000006 3156.9 3163.1 

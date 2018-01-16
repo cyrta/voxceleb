@@ -1,0 +1,11 @@
+POI: 			Julia_Stiles 
+Youtube ID: 	XOFqHZFupaY 
+Video length: 	183.6 sec 
+Set (V): 		dev 
+ 
+Julia_Stiles/XOFqHZFupaY_0000001 09.7 23.0 
+Julia_Stiles/XOFqHZFupaY_0000002 23.8 47.8 
+Julia_Stiles/XOFqHZFupaY_0000003 56.9 63.4 
+Julia_Stiles/XOFqHZFupaY_0000004 76.9 124.4 
+Julia_Stiles/XOFqHZFupaY_0000005 134.2 138.8 
+Julia_Stiles/XOFqHZFupaY_0000006 139.9 144.5 

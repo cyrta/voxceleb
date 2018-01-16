@@ -1,0 +1,16 @@
+POI: 			Lily_Cole 
+Youtube ID: 	S4Fkeq5qCfU 
+Video length: 	488.9 sec 
+Set (V): 		dev 
+ 
+Lily_Cole/S4Fkeq5qCfU_0000001 155.0 159.4 
+Lily_Cole/S4Fkeq5qCfU_0000002 159.6 165.1 
+Lily_Cole/S4Fkeq5qCfU_0000003 167.7 182.7 
+Lily_Cole/S4Fkeq5qCfU_0000004 186.6 192.1 
+Lily_Cole/S4Fkeq5qCfU_0000005 193.1 205.7 
+Lily_Cole/S4Fkeq5qCfU_0000006 334.4 341.9 
+Lily_Cole/S4Fkeq5qCfU_0000007 345.3 349.3 
+Lily_Cole/S4Fkeq5qCfU_0000008 353.1 366.4 
+Lily_Cole/S4Fkeq5qCfU_0000009 366.5 376.1 
+Lily_Cole/S4Fkeq5qCfU_0000010 382.3 390.4 
+Lily_Cole/S4Fkeq5qCfU_0000011 395.9 403.4 

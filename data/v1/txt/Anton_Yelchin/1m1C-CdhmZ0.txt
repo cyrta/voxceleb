@@ -1,0 +1,17 @@
+POI: 			Anton_Yelchin 
+Youtube ID: 	1m1C-CdhmZ0 
+Video length: 	432.4 sec 
+Set (V): 		dev 
+ 
+Anton_Yelchin/1m1C-CdhmZ0_0000001 20.2 26.3 
+Anton_Yelchin/1m1C-CdhmZ0_0000002 61.6 66.2 
+Anton_Yelchin/1m1C-CdhmZ0_0000003 113.0 117.8 
+Anton_Yelchin/1m1C-CdhmZ0_0000004 172.3 183.0 
+Anton_Yelchin/1m1C-CdhmZ0_0000005 192.4 197.8 
+Anton_Yelchin/1m1C-CdhmZ0_0000006 221.0 225.8 
+Anton_Yelchin/1m1C-CdhmZ0_0000007 226.8 234.5 
+Anton_Yelchin/1m1C-CdhmZ0_0000008 234.7 242.2 
+Anton_Yelchin/1m1C-CdhmZ0_0000009 243.8 250.6 
+Anton_Yelchin/1m1C-CdhmZ0_0000010 331.1 335.5 
+Anton_Yelchin/1m1C-CdhmZ0_0000011 374.1 378.8 
+Anton_Yelchin/1m1C-CdhmZ0_0000012 409.7 413.9 

@@ -1,0 +1,8 @@
+POI: 			Katherine_Heigl 
+Youtube ID: 	mCuqdb6Prfc 
+Video length: 	184.1 sec 
+Set (V): 		dev 
+ 
+Katherine_Heigl/mCuqdb6Prfc_0000001 126.7 134.5 
+Katherine_Heigl/mCuqdb6Prfc_0000002 136.7 152.9 
+Katherine_Heigl/mCuqdb6Prfc_0000003 153.2 171.0 

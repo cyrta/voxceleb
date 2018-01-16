@@ -1,0 +1,8 @@
+POI: 			Zachary_Gordon 
+Youtube ID: 	shuLTydf6VE 
+Video length: 	121.7 sec 
+Set (V): 		dev 
+ 
+Zachary_Gordon/shuLTydf6VE_0000001 45.9 52.6 
+Zachary_Gordon/shuLTydf6VE_0000002 67.6 73.2 
+Zachary_Gordon/shuLTydf6VE_0000003 74.2 81.3 

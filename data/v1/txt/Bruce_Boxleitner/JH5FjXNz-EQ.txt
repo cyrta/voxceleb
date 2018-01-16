@@ -1,0 +1,10 @@
+POI: 			Bruce_Boxleitner 
+Youtube ID: 	JH5FjXNz-EQ 
+Video length: 	214.2 sec 
+Set (V): 		dev 
+ 
+Bruce_Boxleitner/JH5FjXNz-EQ_0000001 10.7 15.6 
+Bruce_Boxleitner/JH5FjXNz-EQ_0000002 27.0 31.0 
+Bruce_Boxleitner/JH5FjXNz-EQ_0000003 59.5 72.1 
+Bruce_Boxleitner/JH5FjXNz-EQ_0000004 117.8 122.2 
+Bruce_Boxleitner/JH5FjXNz-EQ_0000005 187.4 194.1 

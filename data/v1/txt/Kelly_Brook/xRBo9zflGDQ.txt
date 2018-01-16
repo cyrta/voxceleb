@@ -1,0 +1,7 @@
+POI: 			Kelly_Brook 
+Youtube ID: 	xRBo9zflGDQ 
+Video length: 	45.0 sec 
+Set (V): 		dev 
+ 
+Kelly_Brook/xRBo9zflGDQ_0000001 10.6 16.3 
+Kelly_Brook/xRBo9zflGDQ_0000002 17.4 21.8 

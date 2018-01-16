@@ -1,0 +1,11 @@
+POI: 			Kathryn_McCormick 
+Youtube ID: 	fn0s6Me9Lb8 
+Video length: 	571.5 sec 
+Set (V): 		dev 
+ 
+Kathryn_McCormick/fn0s6Me9Lb8_0000001 139.1 144.9 
+Kathryn_McCormick/fn0s6Me9Lb8_0000002 145.1 159.2 
+Kathryn_McCormick/fn0s6Me9Lb8_0000003 368.7 374.3 
+Kathryn_McCormick/fn0s6Me9Lb8_0000004 375.5 398.8 
+Kathryn_McCormick/fn0s6Me9Lb8_0000005 517.8 523.9 
+Kathryn_McCormick/fn0s6Me9Lb8_0000006 561.9 568.3 

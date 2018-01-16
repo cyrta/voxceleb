@@ -1,0 +1,10 @@
+POI: 			Paul_Gross 
+Youtube ID: 	nh7WttWKniI 
+Video length: 	1412.2 sec 
+Set (V): 		dev 
+ 
+Paul_Gross/nh7WttWKniI_0000001 153.8 161.2 
+Paul_Gross/nh7WttWKniI_0000002 256.2 260.3 
+Paul_Gross/nh7WttWKniI_0000003 319.4 325.8 
+Paul_Gross/nh7WttWKniI_0000004 337.1 341.7 
+Paul_Gross/nh7WttWKniI_0000005 350.6 354.7 

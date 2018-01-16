@@ -1,0 +1,15 @@
+POI: 			Lou_Diamond_Phillips 
+Youtube ID: 	cydHbANANcU 
+Video length: 	196.2 sec 
+Set (V): 		dev 
+ 
+Lou_Diamond_Phillips/cydHbANANcU_0000001 18.2 24.6 
+Lou_Diamond_Phillips/cydHbANANcU_0000002 24.7 39.4 
+Lou_Diamond_Phillips/cydHbANANcU_0000003 41.2 53.8 
+Lou_Diamond_Phillips/cydHbANANcU_0000004 64.0 84.6 
+Lou_Diamond_Phillips/cydHbANANcU_0000005 94.2 100.2 
+Lou_Diamond_Phillips/cydHbANANcU_0000006 104.6 109.4 
+Lou_Diamond_Phillips/cydHbANANcU_0000007 108.3 118.4 
+Lou_Diamond_Phillips/cydHbANANcU_0000008 152.7 156.8 
+Lou_Diamond_Phillips/cydHbANANcU_0000009 166.4 170.5 
+Lou_Diamond_Phillips/cydHbANANcU_0000010 173.6 177.7 

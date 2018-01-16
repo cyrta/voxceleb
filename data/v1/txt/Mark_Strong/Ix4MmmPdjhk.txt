@@ -1,0 +1,17 @@
+POI: 			Mark_Strong 
+Youtube ID: 	Ix4MmmPdjhk 
+Video length: 	282.6 sec 
+Set (V): 		dev 
+ 
+Mark_Strong/Ix4MmmPdjhk_0000001 17.8 24.2 
+Mark_Strong/Ix4MmmPdjhk_0000002 24.5 49.2 
+Mark_Strong/Ix4MmmPdjhk_0000003 55.6 74.9 
+Mark_Strong/Ix4MmmPdjhk_0000004 82.6 102.2 
+Mark_Strong/Ix4MmmPdjhk_0000005 110.6 114.6 
+Mark_Strong/Ix4MmmPdjhk_0000006 119.4 130.5 
+Mark_Strong/Ix4MmmPdjhk_0000007 138.8 162.3 
+Mark_Strong/Ix4MmmPdjhk_0000008 162.4 189.9 
+Mark_Strong/Ix4MmmPdjhk_0000009 191.4 197.0 
+Mark_Strong/Ix4MmmPdjhk_0000010 199.0 204.4 
+Mark_Strong/Ix4MmmPdjhk_0000011 214.6 242.9 
+Mark_Strong/Ix4MmmPdjhk_0000012 252.6 263.1 

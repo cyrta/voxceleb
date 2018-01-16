@@ -1,0 +1,13 @@
+POI: 			Cindy_Williams 
+Youtube ID: 	plDhnFBVzpk 
+Video length: 	122.6 sec 
+Set (V): 		dev 
+ 
+Cindy_Williams/plDhnFBVzpk_0000001 13.4 23.5 
+Cindy_Williams/plDhnFBVzpk_0000002 29.2 35.6 
+Cindy_Williams/plDhnFBVzpk_0000003 36.6 44.9 
+Cindy_Williams/plDhnFBVzpk_0000004 50.5 60.4 
+Cindy_Williams/plDhnFBVzpk_0000005 61.0 72.0 
+Cindy_Williams/plDhnFBVzpk_0000006 79.2 91.1 
+Cindy_Williams/plDhnFBVzpk_0000007 94.2 105.2 
+Cindy_Williams/plDhnFBVzpk_0000008 106.2 112.8 

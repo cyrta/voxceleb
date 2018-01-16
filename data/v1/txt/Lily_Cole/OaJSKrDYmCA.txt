@@ -1,0 +1,10 @@
+POI: 			Lily_Cole 
+Youtube ID: 	OaJSKrDYmCA 
+Video length: 	189.7 sec 
+Set (V): 		dev 
+ 
+Lily_Cole/OaJSKrDYmCA_0000001 10.8 26.9 
+Lily_Cole/OaJSKrDYmCA_0000002 34.2 53.7 
+Lily_Cole/OaJSKrDYmCA_0000003 61.2 87.7 
+Lily_Cole/OaJSKrDYmCA_0000004 95.6 116.7 
+Lily_Cole/OaJSKrDYmCA_0000005 122.6 132.4 

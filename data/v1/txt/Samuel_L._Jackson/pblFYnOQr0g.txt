@@ -1,0 +1,7 @@
+POI: 			Samuel_L._Jackson 
+Youtube ID: 	pblFYnOQr0g 
+Video length: 	220.5 sec 
+Set (V): 		dev 
+ 
+Samuel_L._Jackson/pblFYnOQr0g_0000001 110.2 115.5 
+Samuel_L._Jackson/pblFYnOQr0g_0000002 123.0 129.5 

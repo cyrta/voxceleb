@@ -1,0 +1,8 @@
+POI: 			Jennifer_Saunders 
+Youtube ID: 	kqm9lNFWswU 
+Video length: 	818.8 sec 
+Set (V): 		dev 
+ 
+Jennifer_Saunders/kqm9lNFWswU_0000001 285.8 301.4 
+Jennifer_Saunders/kqm9lNFWswU_0000002 314.2 320.0 
+Jennifer_Saunders/kqm9lNFWswU_0000003 320.5 330.3 

@@ -1,0 +1,10 @@
+POI: 			Ezra_Miller 
+Youtube ID: 	0cYFdtyWVds 
+Video length: 	260.5 sec 
+Set (V): 		test 
+ 
+Ezra_Miller/0cYFdtyWVds_0000001 23.6 28.4 
+Ezra_Miller/0cYFdtyWVds_0000002 95.5 110.3 
+Ezra_Miller/0cYFdtyWVds_0000003 110.6 123.1 
+Ezra_Miller/0cYFdtyWVds_0000004 137.2 174.5 
+Ezra_Miller/0cYFdtyWVds_0000005 182.2 188.6 

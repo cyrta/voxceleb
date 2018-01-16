@@ -1,0 +1,15 @@
+POI: 			Bonnie_Wright 
+Youtube ID: 	TKKUJDaDMB8 
+Video length: 	227.8 sec 
+Set (V): 		dev 
+ 
+Bonnie_Wright/TKKUJDaDMB8_0000001 12.5 28.4 
+Bonnie_Wright/TKKUJDaDMB8_0000002 44.1 58.6 
+Bonnie_Wright/TKKUJDaDMB8_0000003 63.2 72.6 
+Bonnie_Wright/TKKUJDaDMB8_0000004 74.8 84.1 
+Bonnie_Wright/TKKUJDaDMB8_0000005 109.9 115.3 
+Bonnie_Wright/TKKUJDaDMB8_0000006 115.7 121.2 
+Bonnie_Wright/TKKUJDaDMB8_0000007 121.4 152.8 
+Bonnie_Wright/TKKUJDaDMB8_0000008 171.1 181.4 
+Bonnie_Wright/TKKUJDaDMB8_0000009 182.2 204.1 
+Bonnie_Wright/TKKUJDaDMB8_0000010 208.8 224.2 

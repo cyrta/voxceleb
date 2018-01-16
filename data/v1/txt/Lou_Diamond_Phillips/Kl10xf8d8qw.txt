@@ -1,0 +1,24 @@
+POI: 			Lou_Diamond_Phillips 
+Youtube ID: 	Kl10xf8d8qw 
+Video length: 	616.6 sec 
+Set (V): 		dev 
+ 
+Lou_Diamond_Phillips/Kl10xf8d8qw_0000001 19.0 23.0 
+Lou_Diamond_Phillips/Kl10xf8d8qw_0000002 42.2 72.5 
+Lou_Diamond_Phillips/Kl10xf8d8qw_0000003 74.5 85.0 
+Lou_Diamond_Phillips/Kl10xf8d8qw_0000004 96.0 138.9 
+Lou_Diamond_Phillips/Kl10xf8d8qw_0000005 147.3 161.8 
+Lou_Diamond_Phillips/Kl10xf8d8qw_0000006 163.3 174.8 
+Lou_Diamond_Phillips/Kl10xf8d8qw_0000007 200.4 240.2 
+Lou_Diamond_Phillips/Kl10xf8d8qw_0000008 242.2 255.3 
+Lou_Diamond_Phillips/Kl10xf8d8qw_0000009 274.6 298.0 
+Lou_Diamond_Phillips/Kl10xf8d8qw_0000010 300.0 323.6 
+Lou_Diamond_Phillips/Kl10xf8d8qw_0000011 339.0 354.3 
+Lou_Diamond_Phillips/Kl10xf8d8qw_0000012 357.6 368.7 
+Lou_Diamond_Phillips/Kl10xf8d8qw_0000013 398.9 415.2 
+Lou_Diamond_Phillips/Kl10xf8d8qw_0000014 417.7 422.6 
+Lou_Diamond_Phillips/Kl10xf8d8qw_0000015 425.3 450.5 
+Lou_Diamond_Phillips/Kl10xf8d8qw_0000016 459.8 487.8 
+Lou_Diamond_Phillips/Kl10xf8d8qw_0000017 493.1 517.9 
+Lou_Diamond_Phillips/Kl10xf8d8qw_0000018 536.0 573.3 
+Lou_Diamond_Phillips/Kl10xf8d8qw_0000019 573.5 608.5 

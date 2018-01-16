@@ -1,0 +1,13 @@
+POI: 			Luc_Besson 
+Youtube ID: 	klFA2RG3UxY 
+Video length: 	227.1 sec 
+Set (V): 		dev 
+ 
+Luc_Besson/klFA2RG3UxY_0000001 21.4 25.9 
+Luc_Besson/klFA2RG3UxY_0000002 71.1 75.9 
+Luc_Besson/klFA2RG3UxY_0000003 105.9 111.3 
+Luc_Besson/klFA2RG3UxY_0000004 122.0 127.7 
+Luc_Besson/klFA2RG3UxY_0000005 139.7 148.0 
+Luc_Besson/klFA2RG3UxY_0000006 185.9 190.0 
+Luc_Besson/klFA2RG3UxY_0000007 200.5 206.8 
+Luc_Besson/klFA2RG3UxY_0000008 210.9 214.8 

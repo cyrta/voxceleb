@@ -1,0 +1,16 @@
+POI: 			Joanna_Lumley 
+Youtube ID: 	RW5LjMtVyn4 
+Video length: 	363.6 sec 
+Set (V): 		dev 
+ 
+Joanna_Lumley/RW5LjMtVyn4_0000001 94.4 99.2 
+Joanna_Lumley/RW5LjMtVyn4_0000002 110.1 117.2 
+Joanna_Lumley/RW5LjMtVyn4_0000003 124.4 128.8 
+Joanna_Lumley/RW5LjMtVyn4_0000004 145.5 157.6 
+Joanna_Lumley/RW5LjMtVyn4_0000005 162.1 167.6 
+Joanna_Lumley/RW5LjMtVyn4_0000006 168.7 176.2 
+Joanna_Lumley/RW5LjMtVyn4_0000007 177.0 181.5 
+Joanna_Lumley/RW5LjMtVyn4_0000008 175.8 181.7 
+Joanna_Lumley/RW5LjMtVyn4_0000009 263.5 272.2 
+Joanna_Lumley/RW5LjMtVyn4_0000010 275.4 280.8 
+Joanna_Lumley/RW5LjMtVyn4_0000011 355.1 361.9 

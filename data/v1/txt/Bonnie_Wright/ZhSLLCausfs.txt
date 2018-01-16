@@ -1,0 +1,9 @@
+POI: 			Bonnie_Wright 
+Youtube ID: 	ZhSLLCausfs 
+Video length: 	83.0 sec 
+Set (V): 		dev 
+ 
+Bonnie_Wright/ZhSLLCausfs_0000001 18.4 25.1 
+Bonnie_Wright/ZhSLLCausfs_0000002 45.8 52.2 
+Bonnie_Wright/ZhSLLCausfs_0000003 56.1 60.8 
+Bonnie_Wright/ZhSLLCausfs_0000004 66.7 72.2 

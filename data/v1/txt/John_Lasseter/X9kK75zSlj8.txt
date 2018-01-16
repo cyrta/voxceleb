@@ -1,0 +1,7 @@
+POI: 			John_Lasseter 
+Youtube ID: 	X9kK75zSlj8 
+Video length: 	205.9 sec 
+Set (V): 		dev 
+ 
+John_Lasseter/X9kK75zSlj8_0000001 80.2 92.2 
+John_Lasseter/X9kK75zSlj8_0000002 96.0 102.3 

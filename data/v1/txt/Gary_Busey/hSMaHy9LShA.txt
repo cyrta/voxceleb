@@ -1,0 +1,7 @@
+POI: 			Gary_Busey 
+Youtube ID: 	hSMaHy9LShA 
+Video length: 	575.1 sec 
+Set (V): 		dev 
+ 
+Gary_Busey/hSMaHy9LShA_0000001 58.4 62.6 
+Gary_Busey/hSMaHy9LShA_0000002 64.7 69.4 

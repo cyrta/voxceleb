@@ -1,0 +1,11 @@
+POI: 			Tamera_Mowry-Housley 
+Youtube ID: 	Ne9_Lr3SReI 
+Video length: 	439.0 sec 
+Set (V): 		dev 
+ 
+Tamera_Mowry-Housley/Ne9_Lr3SReI_0000001 23.2 28.0 
+Tamera_Mowry-Housley/Ne9_Lr3SReI_0000002 30.8 37.6 
+Tamera_Mowry-Housley/Ne9_Lr3SReI_0000003 49.9 63.1 
+Tamera_Mowry-Housley/Ne9_Lr3SReI_0000004 226.3 232.2 
+Tamera_Mowry-Housley/Ne9_Lr3SReI_0000005 233.2 238.7 
+Tamera_Mowry-Housley/Ne9_Lr3SReI_0000006 389.3 403.4 

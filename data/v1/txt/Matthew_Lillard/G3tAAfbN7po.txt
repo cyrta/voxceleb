@@ -1,0 +1,11 @@
+POI: 			Matthew_Lillard 
+Youtube ID: 	G3tAAfbN7po 
+Video length: 	241.0 sec 
+Set (V): 		dev 
+ 
+Matthew_Lillard/G3tAAfbN7po_0000001 33.8 38.4 
+Matthew_Lillard/G3tAAfbN7po_0000002 39.2 46.5 
+Matthew_Lillard/G3tAAfbN7po_0000003 83.4 94.7 
+Matthew_Lillard/G3tAAfbN7po_0000004 97.9 102.1 
+Matthew_Lillard/G3tAAfbN7po_0000005 130.3 136.0 
+Matthew_Lillard/G3tAAfbN7po_0000006 138.0 147.6 

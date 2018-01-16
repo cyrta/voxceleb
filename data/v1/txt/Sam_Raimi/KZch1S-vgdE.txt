@@ -1,0 +1,9 @@
+POI: 			Sam_Raimi 
+Youtube ID: 	KZch1S-vgdE 
+Video length: 	190.9 sec 
+Set (V): 		dev 
+ 
+Sam_Raimi/KZch1S-vgdE_0000001 49.3 54.0 
+Sam_Raimi/KZch1S-vgdE_0000002 67.9 74.2 
+Sam_Raimi/KZch1S-vgdE_0000003 122.6 127.6 
+Sam_Raimi/KZch1S-vgdE_0000004 146.1 151.0 

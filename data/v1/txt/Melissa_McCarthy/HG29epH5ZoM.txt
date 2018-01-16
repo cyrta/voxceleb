@@ -1,0 +1,10 @@
+POI: 			Melissa_McCarthy 
+Youtube ID: 	HG29epH5ZoM 
+Video length: 	140.6 sec 
+Set (V): 		dev 
+ 
+Melissa_McCarthy/HG29epH5ZoM_0000001 04.7 09.5 
+Melissa_McCarthy/HG29epH5ZoM_0000002 55.4 60.8 
+Melissa_McCarthy/HG29epH5ZoM_0000003 61.6 69.0 
+Melissa_McCarthy/HG29epH5ZoM_0000004 94.5 99.7 
+Melissa_McCarthy/HG29epH5ZoM_0000005 119.8 123.9 

@@ -1,0 +1,8 @@
+POI: 			Josh_Henderson 
+Youtube ID: 	RyuaM-XvpJg 
+Video length: 	135.7 sec 
+Set (V): 		dev 
+ 
+Josh_Henderson/RyuaM-XvpJg_0000001 14.3 23.8 
+Josh_Henderson/RyuaM-XvpJg_0000002 101.6 105.6 
+Josh_Henderson/RyuaM-XvpJg_0000003 111.3 122.1 

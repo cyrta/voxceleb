@@ -1,0 +1,8 @@
+POI: 			Naseeruddin_Shah 
+Youtube ID: 	ch1WvFNOL50 
+Video length: 	811.5 sec 
+Set (V): 		dev 
+ 
+Naseeruddin_Shah/ch1WvFNOL50_0000001 211.4 215.4 
+Naseeruddin_Shah/ch1WvFNOL50_0000002 348.1 354.4 
+Naseeruddin_Shah/ch1WvFNOL50_0000003 360.1 365.6 

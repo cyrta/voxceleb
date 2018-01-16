@@ -1,0 +1,21 @@
+POI: 			Kid_Rock 
+Youtube ID: 	xG_tys7Wrxg 
+Video length: 	427.8 sec 
+Set (V): 		dev 
+ 
+Kid_Rock/xG_tys7Wrxg_0000001 65.7 75.6 
+Kid_Rock/xG_tys7Wrxg_0000002 112.9 125.6 
+Kid_Rock/xG_tys7Wrxg_0000003 139.4 145.7 
+Kid_Rock/xG_tys7Wrxg_0000004 157.8 164.0 
+Kid_Rock/xG_tys7Wrxg_0000005 204.1 208.9 
+Kid_Rock/xG_tys7Wrxg_0000006 215.6 222.0 
+Kid_Rock/xG_tys7Wrxg_0000007 223.4 231.9 
+Kid_Rock/xG_tys7Wrxg_0000008 239.8 244.4 
+Kid_Rock/xG_tys7Wrxg_0000009 252.4 259.8 
+Kid_Rock/xG_tys7Wrxg_0000010 267.5 272.8 
+Kid_Rock/xG_tys7Wrxg_0000011 287.3 297.8 
+Kid_Rock/xG_tys7Wrxg_0000012 315.4 320.7 
+Kid_Rock/xG_tys7Wrxg_0000013 334.6 339.5 
+Kid_Rock/xG_tys7Wrxg_0000014 348.9 355.7 
+Kid_Rock/xG_tys7Wrxg_0000015 371.6 384.6 
+Kid_Rock/xG_tys7Wrxg_0000016 402.6 410.7 

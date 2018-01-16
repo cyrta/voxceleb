@@ -1,0 +1,7 @@
+POI: 			Jack_Black 
+Youtube ID: 	gWaL_146fAU 
+Video length: 	215.1 sec 
+Set (V): 		dev 
+ 
+Jack_Black/gWaL_146fAU_0000001 101.8 106.8 
+Jack_Black/gWaL_146fAU_0000002 141.6 148.6 

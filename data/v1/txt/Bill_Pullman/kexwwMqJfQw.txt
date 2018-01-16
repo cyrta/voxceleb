@@ -1,0 +1,11 @@
+POI: 			Bill_Pullman 
+Youtube ID: 	kexwwMqJfQw 
+Video length: 	404.2 sec 
+Set (V): 		dev 
+ 
+Bill_Pullman/kexwwMqJfQw_0000001 60.9 67.7 
+Bill_Pullman/kexwwMqJfQw_0000002 70.0 74.6 
+Bill_Pullman/kexwwMqJfQw_0000003 85.2 91.3 
+Bill_Pullman/kexwwMqJfQw_0000004 210.2 214.6 
+Bill_Pullman/kexwwMqJfQw_0000005 221.7 228.4 
+Bill_Pullman/kexwwMqJfQw_0000006 229.0 234.2 

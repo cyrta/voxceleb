@@ -1,0 +1,18 @@
+POI: 			John_Hurt 
+Youtube ID: 	lWMAutzsfeo 
+Video length: 	344.7 sec 
+Set (V): 		dev 
+ 
+John_Hurt/lWMAutzsfeo_0000001 69.6 74.4 
+John_Hurt/lWMAutzsfeo_0000002 75.6 84.2 
+John_Hurt/lWMAutzsfeo_0000003 90.9 99.0 
+John_Hurt/lWMAutzsfeo_0000004 119.4 129.0 
+John_Hurt/lWMAutzsfeo_0000005 135.9 139.9 
+John_Hurt/lWMAutzsfeo_0000006 140.8 147.5 
+John_Hurt/lWMAutzsfeo_0000007 167.0 172.6 
+John_Hurt/lWMAutzsfeo_0000008 174.2 179.2 
+John_Hurt/lWMAutzsfeo_0000009 201.3 210.3 
+John_Hurt/lWMAutzsfeo_0000010 225.9 241.4 
+John_Hurt/lWMAutzsfeo_0000011 241.7 251.4 
+John_Hurt/lWMAutzsfeo_0000012 279.4 283.8 
+John_Hurt/lWMAutzsfeo_0000013 295.8 300.0 

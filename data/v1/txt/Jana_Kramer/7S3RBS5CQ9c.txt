@@ -1,0 +1,10 @@
+POI: 			Jana_Kramer 
+Youtube ID: 	7S3RBS5CQ9c 
+Video length: 	95.7 sec 
+Set (V): 		dev 
+ 
+Jana_Kramer/7S3RBS5CQ9c_0000001 10.9 16.2 
+Jana_Kramer/7S3RBS5CQ9c_0000002 16.8 21.4 
+Jana_Kramer/7S3RBS5CQ9c_0000003 29.6 35.8 
+Jana_Kramer/7S3RBS5CQ9c_0000004 48.7 54.9 
+Jana_Kramer/7S3RBS5CQ9c_0000005 59.4 66.1 

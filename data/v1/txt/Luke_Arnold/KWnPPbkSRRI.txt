@@ -1,0 +1,8 @@
+POI: 			Luke_Arnold 
+Youtube ID: 	KWnPPbkSRRI 
+Video length: 	702.9 sec 
+Set (V): 		dev 
+ 
+Luke_Arnold/KWnPPbkSRRI_0000001 99.7 107.0 
+Luke_Arnold/KWnPPbkSRRI_0000002 652.7 657.5 
+Luke_Arnold/KWnPPbkSRRI_0000003 663.6 667.9 

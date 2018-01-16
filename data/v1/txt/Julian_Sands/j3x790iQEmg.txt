@@ -1,0 +1,20 @@
+POI: 			Julian_Sands 
+Youtube ID: 	j3x790iQEmg 
+Video length: 	285.8 sec 
+Set (V): 		dev 
+ 
+Julian_Sands/j3x790iQEmg_0000001 12.2 16.5 
+Julian_Sands/j3x790iQEmg_0000002 17.3 25.7 
+Julian_Sands/j3x790iQEmg_0000003 36.0 54.5 
+Julian_Sands/j3x790iQEmg_0000004 54.8 64.5 
+Julian_Sands/j3x790iQEmg_0000005 82.7 87.7 
+Julian_Sands/j3x790iQEmg_0000006 88.9 95.3 
+Julian_Sands/j3x790iQEmg_0000007 106.4 111.7 
+Julian_Sands/j3x790iQEmg_0000008 113.7 125.8 
+Julian_Sands/j3x790iQEmg_0000009 146.0 163.0 
+Julian_Sands/j3x790iQEmg_0000010 179.5 188.6 
+Julian_Sands/j3x790iQEmg_0000011 189.8 197.4 
+Julian_Sands/j3x790iQEmg_0000012 218.6 223.7 
+Julian_Sands/j3x790iQEmg_0000013 229.1 238.9 
+Julian_Sands/j3x790iQEmg_0000014 252.4 257.0 
+Julian_Sands/j3x790iQEmg_0000015 257.3 265.8 

@@ -1,0 +1,10 @@
+POI: 			Ezra_Miller 
+Youtube ID: 	GyJHpVQmcvc 
+Video length: 	271.2 sec 
+Set (V): 		test 
+ 
+Ezra_Miller/GyJHpVQmcvc_0000001 69.1 73.7 
+Ezra_Miller/GyJHpVQmcvc_0000002 138.8 148.8 
+Ezra_Miller/GyJHpVQmcvc_0000003 178.8 183.6 
+Ezra_Miller/GyJHpVQmcvc_0000004 186.8 192.0 
+Ezra_Miller/GyJHpVQmcvc_0000005 209.8 214.1 

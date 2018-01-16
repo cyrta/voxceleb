@@ -1,0 +1,9 @@
+POI: 			Gary_Busey 
+Youtube ID: 	lIHPlKJvozo 
+Video length: 	286.6 sec 
+Set (V): 		dev 
+ 
+Gary_Busey/lIHPlKJvozo_0000001 111.0 117.4 
+Gary_Busey/lIHPlKJvozo_0000002 161.8 170.4 
+Gary_Busey/lIHPlKJvozo_0000003 222.2 226.6 
+Gary_Busey/lIHPlKJvozo_0000004 248.8 253.5 

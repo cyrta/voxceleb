@@ -1,0 +1,17 @@
+POI: 			Bruce_Boxleitner 
+Youtube ID: 	8-h0flG-2sI 
+Video length: 	690.2 sec 
+Set (V): 		dev 
+ 
+Bruce_Boxleitner/8-h0flG-2sI_0000001 107.7 117.7 
+Bruce_Boxleitner/8-h0flG-2sI_0000002 119.6 124.0 
+Bruce_Boxleitner/8-h0flG-2sI_0000003 131.6 136.3 
+Bruce_Boxleitner/8-h0flG-2sI_0000004 142.6 151.2 
+Bruce_Boxleitner/8-h0flG-2sI_0000005 163.3 167.5 
+Bruce_Boxleitner/8-h0flG-2sI_0000006 211.5 217.2 
+Bruce_Boxleitner/8-h0flG-2sI_0000007 266.4 276.4 
+Bruce_Boxleitner/8-h0flG-2sI_0000008 278.2 286.8 
+Bruce_Boxleitner/8-h0flG-2sI_0000009 422.1 427.3 
+Bruce_Boxleitner/8-h0flG-2sI_0000010 456.6 462.0 
+Bruce_Boxleitner/8-h0flG-2sI_0000011 536.0 541.2 
+Bruce_Boxleitner/8-h0flG-2sI_0000012 571.6 581.9 

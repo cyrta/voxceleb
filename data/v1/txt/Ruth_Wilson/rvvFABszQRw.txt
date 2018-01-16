@@ -1,0 +1,8 @@
+POI: 			Ruth_Wilson 
+Youtube ID: 	rvvFABszQRw 
+Video length: 	87.8 sec 
+Set (V): 		dev 
+ 
+Ruth_Wilson/rvvFABszQRw_0000001 16.4 26.9 
+Ruth_Wilson/rvvFABszQRw_0000002 41.5 48.9 
+Ruth_Wilson/rvvFABszQRw_0000003 49.5 56.2 

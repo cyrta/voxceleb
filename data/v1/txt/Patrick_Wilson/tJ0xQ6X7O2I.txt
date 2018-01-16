@@ -1,0 +1,19 @@
+POI: 			Patrick_Wilson 
+Youtube ID: 	tJ0xQ6X7O2I 
+Video length: 	484.0 sec 
+Set (V): 		dev 
+ 
+Patrick_Wilson/tJ0xQ6X7O2I_0000001 32.9 40.0 
+Patrick_Wilson/tJ0xQ6X7O2I_0000002 42.0 64.6 
+Patrick_Wilson/tJ0xQ6X7O2I_0000003 61.8 66.6 
+Patrick_Wilson/tJ0xQ6X7O2I_0000004 68.6 72.6 
+Patrick_Wilson/tJ0xQ6X7O2I_0000005 212.2 216.3 
+Patrick_Wilson/tJ0xQ6X7O2I_0000006 227.9 232.6 
+Patrick_Wilson/tJ0xQ6X7O2I_0000007 240.5 244.5 
+Patrick_Wilson/tJ0xQ6X7O2I_0000008 252.2 274.9 
+Patrick_Wilson/tJ0xQ6X7O2I_0000009 276.0 292.2 
+Patrick_Wilson/tJ0xQ6X7O2I_0000010 296.7 301.4 
+Patrick_Wilson/tJ0xQ6X7O2I_0000011 324.8 331.1 
+Patrick_Wilson/tJ0xQ6X7O2I_0000012 333.2 337.4 
+Patrick_Wilson/tJ0xQ6X7O2I_0000013 337.7 342.5 
+Patrick_Wilson/tJ0xQ6X7O2I_0000014 345.4 351.6 

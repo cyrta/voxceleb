@@ -1,0 +1,10 @@
+POI: 			Doutzen_Kroes 
+Youtube ID: 	XkqeqRHMz5Q 
+Video length: 	263.0 sec 
+Set (V): 		dev 
+ 
+Doutzen_Kroes/XkqeqRHMz5Q_0000001 34.4 41.0 
+Doutzen_Kroes/XkqeqRHMz5Q_0000002 112.6 119.2 
+Doutzen_Kroes/XkqeqRHMz5Q_0000003 129.1 136.2 
+Doutzen_Kroes/XkqeqRHMz5Q_0000004 137.9 143.3 
+Doutzen_Kroes/XkqeqRHMz5Q_0000005 166.5 171.2 

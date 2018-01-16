@@ -1,0 +1,44 @@
+POI: 			Guillaume_Canet 
+Youtube ID: 	1C2dwye3Jzk 
+Video length: 	856.0 sec 
+Set (V): 		dev 
+ 
+Guillaume_Canet/1C2dwye3Jzk_0000001 50.4 56.0 
+Guillaume_Canet/1C2dwye3Jzk_0000002 75.7 80.2 
+Guillaume_Canet/1C2dwye3Jzk_0000003 107.0 111.8 
+Guillaume_Canet/1C2dwye3Jzk_0000004 113.3 118.4 
+Guillaume_Canet/1C2dwye3Jzk_0000005 139.9 143.9 
+Guillaume_Canet/1C2dwye3Jzk_0000006 152.8 158.3 
+Guillaume_Canet/1C2dwye3Jzk_0000007 164.5 171.2 
+Guillaume_Canet/1C2dwye3Jzk_0000008 172.4 181.6 
+Guillaume_Canet/1C2dwye3Jzk_0000009 182.3 189.1 
+Guillaume_Canet/1C2dwye3Jzk_0000010 237.2 243.5 
+Guillaume_Canet/1C2dwye3Jzk_0000011 246.1 257.5 
+Guillaume_Canet/1C2dwye3Jzk_0000012 259.6 263.9 
+Guillaume_Canet/1C2dwye3Jzk_0000013 283.8 289.1 
+Guillaume_Canet/1C2dwye3Jzk_0000014 291.0 295.9 
+Guillaume_Canet/1C2dwye3Jzk_0000015 303.4 308.7 
+Guillaume_Canet/1C2dwye3Jzk_0000016 332.9 337.7 
+Guillaume_Canet/1C2dwye3Jzk_0000017 348.5 356.2 
+Guillaume_Canet/1C2dwye3Jzk_0000018 386.8 394.8 
+Guillaume_Canet/1C2dwye3Jzk_0000019 399.3 403.3 
+Guillaume_Canet/1C2dwye3Jzk_0000020 407.5 412.2 
+Guillaume_Canet/1C2dwye3Jzk_0000021 446.6 454.0 
+Guillaume_Canet/1C2dwye3Jzk_0000022 480.8 485.2 
+Guillaume_Canet/1C2dwye3Jzk_0000023 500.2 505.3 
+Guillaume_Canet/1C2dwye3Jzk_0000024 500.1 505.5 
+Guillaume_Canet/1C2dwye3Jzk_0000025 577.3 582.6 
+Guillaume_Canet/1C2dwye3Jzk_0000026 582.8 590.6 
+Guillaume_Canet/1C2dwye3Jzk_0000027 611.6 617.2 
+Guillaume_Canet/1C2dwye3Jzk_0000028 642.2 648.2 
+Guillaume_Canet/1C2dwye3Jzk_0000029 675.9 680.7 
+Guillaume_Canet/1C2dwye3Jzk_0000030 703.0 710.0 
+Guillaume_Canet/1C2dwye3Jzk_0000031 713.0 718.2 
+Guillaume_Canet/1C2dwye3Jzk_0000032 730.8 735.2 
+Guillaume_Canet/1C2dwye3Jzk_0000033 745.2 750.9 
+Guillaume_Canet/1C2dwye3Jzk_0000034 758.0 764.8 
+Guillaume_Canet/1C2dwye3Jzk_0000035 778.6 787.5 
+Guillaume_Canet/1C2dwye3Jzk_0000036 787.6 793.6 
+Guillaume_Canet/1C2dwye3Jzk_0000037 799.8 806.8 
+Guillaume_Canet/1C2dwye3Jzk_0000038 809.8 822.1 
+Guillaume_Canet/1C2dwye3Jzk_0000039 840.7 852.2 

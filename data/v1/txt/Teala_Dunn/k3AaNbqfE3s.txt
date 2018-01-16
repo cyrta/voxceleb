@@ -1,0 +1,15 @@
+POI: 			Teala_Dunn 
+Youtube ID: 	k3AaNbqfE3s 
+Video length: 	350.2 sec 
+Set (V): 		dev 
+ 
+Teala_Dunn/k3AaNbqfE3s_0000001 68.4 72.6 
+Teala_Dunn/k3AaNbqfE3s_0000002 69.5 75.7 
+Teala_Dunn/k3AaNbqfE3s_0000003 79.9 86.8 
+Teala_Dunn/k3AaNbqfE3s_0000004 87.0 91.4 
+Teala_Dunn/k3AaNbqfE3s_0000005 107.5 114.5 
+Teala_Dunn/k3AaNbqfE3s_0000006 114.7 126.1 
+Teala_Dunn/k3AaNbqfE3s_0000007 133.7 141.3 
+Teala_Dunn/k3AaNbqfE3s_0000008 173.7 177.8 
+Teala_Dunn/k3AaNbqfE3s_0000009 288.7 294.0 
+Teala_Dunn/k3AaNbqfE3s_0000010 306.7 313.5 

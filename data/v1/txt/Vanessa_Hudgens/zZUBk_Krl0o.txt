@@ -1,0 +1,9 @@
+POI: 			Vanessa_Hudgens 
+Youtube ID: 	zZUBk_Krl0o 
+Video length: 	393.8 sec 
+Set (V): 		dev 
+ 
+Vanessa_Hudgens/zZUBk_Krl0o_0000001 175.4 179.4 
+Vanessa_Hudgens/zZUBk_Krl0o_0000002 290.1 294.5 
+Vanessa_Hudgens/zZUBk_Krl0o_0000003 340.4 344.6 
+Vanessa_Hudgens/zZUBk_Krl0o_0000004 356.3 363.6 

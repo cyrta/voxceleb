@@ -1,0 +1,8 @@
+POI: 			Manish_Dayal 
+Youtube ID: 	QsfiRqCMsUs 
+Video length: 	267.8 sec 
+Set (V): 		dev 
+ 
+Manish_Dayal/QsfiRqCMsUs_0000001 36.2 49.0 
+Manish_Dayal/QsfiRqCMsUs_0000002 144.4 149.0 
+Manish_Dayal/QsfiRqCMsUs_0000003 237.0 245.7 

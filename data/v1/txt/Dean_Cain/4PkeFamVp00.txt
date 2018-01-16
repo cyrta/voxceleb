@@ -1,0 +1,11 @@
+POI: 			Dean_Cain 
+Youtube ID: 	4PkeFamVp00 
+Video length: 	163.8 sec 
+Set (V): 		dev 
+ 
+Dean_Cain/4PkeFamVp00_0000001 14.8 55.8 
+Dean_Cain/4PkeFamVp00_0000002 56.6 80.6 
+Dean_Cain/4PkeFamVp00_0000003 90.0 109.8 
+Dean_Cain/4PkeFamVp00_0000004 110.0 127.8 
+Dean_Cain/4PkeFamVp00_0000005 128.6 138.1 
+Dean_Cain/4PkeFamVp00_0000006 139.2 146.0 

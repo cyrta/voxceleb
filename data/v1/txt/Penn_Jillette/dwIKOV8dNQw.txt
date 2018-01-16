@@ -1,0 +1,9 @@
+POI: 			Penn_Jillette 
+Youtube ID: 	dwIKOV8dNQw 
+Video length: 	352.0 sec 
+Set (V): 		dev 
+ 
+Penn_Jillette/dwIKOV8dNQw_0000001 145.4 151.0 
+Penn_Jillette/dwIKOV8dNQw_0000002 251.7 257.5 
+Penn_Jillette/dwIKOV8dNQw_0000003 282.2 288.2 
+Penn_Jillette/dwIKOV8dNQw_0000004 289.6 301.8 

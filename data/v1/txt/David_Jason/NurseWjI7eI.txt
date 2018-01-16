@@ -1,0 +1,12 @@
+POI: 			David_Jason 
+Youtube ID: 	NurseWjI7eI 
+Video length: 	148.4 sec 
+Set (V): 		dev 
+ 
+David_Jason/NurseWjI7eI_0000001 12.4 16.9 
+David_Jason/NurseWjI7eI_0000002 38.5 52.8 
+David_Jason/NurseWjI7eI_0000003 62.0 75.0 
+David_Jason/NurseWjI7eI_0000004 81.2 87.6 
+David_Jason/NurseWjI7eI_0000005 93.4 102.3 
+David_Jason/NurseWjI7eI_0000006 104.6 114.6 
+David_Jason/NurseWjI7eI_0000007 106.6 111.7 

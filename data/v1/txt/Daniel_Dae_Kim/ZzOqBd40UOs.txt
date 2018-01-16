@@ -1,0 +1,13 @@
+POI: 			Daniel_Dae_Kim 
+Youtube ID: 	ZzOqBd40UOs 
+Video length: 	188.5 sec 
+Set (V): 		dev 
+ 
+Daniel_Dae_Kim/ZzOqBd40UOs_0000001 10.0 23.9 
+Daniel_Dae_Kim/ZzOqBd40UOs_0000002 25.5 36.4 
+Daniel_Dae_Kim/ZzOqBd40UOs_0000003 56.1 71.4 
+Daniel_Dae_Kim/ZzOqBd40UOs_0000004 74.5 90.1 
+Daniel_Dae_Kim/ZzOqBd40UOs_0000005 90.8 97.0 
+Daniel_Dae_Kim/ZzOqBd40UOs_0000006 107.0 113.4 
+Daniel_Dae_Kim/ZzOqBd40UOs_0000007 114.6 123.8 
+Daniel_Dae_Kim/ZzOqBd40UOs_0000008 125.1 135.4 

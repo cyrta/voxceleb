@@ -1,0 +1,13 @@
+POI: 			Sheryl_Lee_Ralph 
+Youtube ID: 	D8RBqNpoqUM 
+Video length: 	1267.5 sec 
+Set (V): 		dev 
+ 
+Sheryl_Lee_Ralph/D8RBqNpoqUM_0000001 79.4 88.2 
+Sheryl_Lee_Ralph/D8RBqNpoqUM_0000002 160.8 167.5 
+Sheryl_Lee_Ralph/D8RBqNpoqUM_0000003 204.6 209.0 
+Sheryl_Lee_Ralph/D8RBqNpoqUM_0000004 383.2 391.2 
+Sheryl_Lee_Ralph/D8RBqNpoqUM_0000005 463.8 468.0 
+Sheryl_Lee_Ralph/D8RBqNpoqUM_0000006 1032.2 1037.6 
+Sheryl_Lee_Ralph/D8RBqNpoqUM_0000007 1050.1 1055.5 
+Sheryl_Lee_Ralph/D8RBqNpoqUM_0000008 1098.2 1103.5 

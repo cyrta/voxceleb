@@ -1,0 +1,39 @@
+POI: 			Arden_Cho 
+Youtube ID: 	vqs1ZvoJ4XY 
+Video length: 	530.7 sec 
+Set (V): 		dev 
+ 
+Arden_Cho/vqs1ZvoJ4XY_0000001 03.3 08.6 
+Arden_Cho/vqs1ZvoJ4XY_0000002 10.8 16.8 
+Arden_Cho/vqs1ZvoJ4XY_0000003 17.0 44.8 
+Arden_Cho/vqs1ZvoJ4XY_0000004 46.8 69.0 
+Arden_Cho/vqs1ZvoJ4XY_0000005 71.2 97.8 
+Arden_Cho/vqs1ZvoJ4XY_0000006 115.2 124.2 
+Arden_Cho/vqs1ZvoJ4XY_0000007 125.3 131.4 
+Arden_Cho/vqs1ZvoJ4XY_0000008 132.4 136.8 
+Arden_Cho/vqs1ZvoJ4XY_0000009 143.2 147.3 
+Arden_Cho/vqs1ZvoJ4XY_0000010 150.8 157.2 
+Arden_Cho/vqs1ZvoJ4XY_0000011 164.2 171.0 
+Arden_Cho/vqs1ZvoJ4XY_0000012 198.0 204.4 
+Arden_Cho/vqs1ZvoJ4XY_0000013 206.1 210.4 
+Arden_Cho/vqs1ZvoJ4XY_0000014 210.6 216.3 
+Arden_Cho/vqs1ZvoJ4XY_0000015 217.3 221.7 
+Arden_Cho/vqs1ZvoJ4XY_0000016 237.6 248.0 
+Arden_Cho/vqs1ZvoJ4XY_0000017 248.1 254.0 
+Arden_Cho/vqs1ZvoJ4XY_0000018 255.8 272.1 
+Arden_Cho/vqs1ZvoJ4XY_0000019 272.9 277.5 
+Arden_Cho/vqs1ZvoJ4XY_0000020 277.9 284.7 
+Arden_Cho/vqs1ZvoJ4XY_0000021 287.6 292.0 
+Arden_Cho/vqs1ZvoJ4XY_0000022 294.4 298.4 
+Arden_Cho/vqs1ZvoJ4XY_0000023 298.9 305.6 
+Arden_Cho/vqs1ZvoJ4XY_0000024 308.8 312.7 
+Arden_Cho/vqs1ZvoJ4XY_0000025 316.8 337.8 
+Arden_Cho/vqs1ZvoJ4XY_0000026 340.8 379.5 
+Arden_Cho/vqs1ZvoJ4XY_0000027 383.7 388.3 
+Arden_Cho/vqs1ZvoJ4XY_0000028 388.5 402.3 
+Arden_Cho/vqs1ZvoJ4XY_0000029 405.7 410.2 
+Arden_Cho/vqs1ZvoJ4XY_0000030 418.6 436.5 
+Arden_Cho/vqs1ZvoJ4XY_0000031 439.2 463.1 
+Arden_Cho/vqs1ZvoJ4XY_0000032 482.7 487.2 
+Arden_Cho/vqs1ZvoJ4XY_0000033 490.9 495.2 
+Arden_Cho/vqs1ZvoJ4XY_0000034 499.2 503.5 

@@ -1,0 +1,11 @@
+POI: 			Scott_Porter 
+Youtube ID: 	V_ypE_hVsQM 
+Video length: 	228.1 sec 
+Set (V): 		dev 
+ 
+Scott_Porter/V_ypE_hVsQM_0000001 41.9 49.2 
+Scott_Porter/V_ypE_hVsQM_0000002 72.7 78.1 
+Scott_Porter/V_ypE_hVsQM_0000003 80.2 87.8 
+Scott_Porter/V_ypE_hVsQM_0000004 100.6 105.6 
+Scott_Porter/V_ypE_hVsQM_0000005 112.1 117.8 
+Scott_Porter/V_ypE_hVsQM_0000006 122.9 133.4 

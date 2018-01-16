@@ -1,0 +1,8 @@
+POI: 			Elaine_Cassidy 
+Youtube ID: 	NXjT3732Ekg 
+Video length: 	98.3 sec 
+Set (V): 		test 
+ 
+Elaine_Cassidy/NXjT3732Ekg_0000001 43.7 47.7 
+Elaine_Cassidy/NXjT3732Ekg_0000002 68.1 72.3 
+Elaine_Cassidy/NXjT3732Ekg_0000003 72.9 76.9 

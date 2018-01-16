@@ -1,0 +1,20 @@
+POI: 			Megan_Fox 
+Youtube ID: 	0JCaspBzgN4 
+Video length: 	287.0 sec 
+Set (V): 		dev 
+ 
+Megan_Fox/0JCaspBzgN4_0000001 02.3 09.4 
+Megan_Fox/0JCaspBzgN4_0000002 10.6 15.7 
+Megan_Fox/0JCaspBzgN4_0000003 24.7 29.5 
+Megan_Fox/0JCaspBzgN4_0000004 41.0 46.6 
+Megan_Fox/0JCaspBzgN4_0000005 47.6 53.8 
+Megan_Fox/0JCaspBzgN4_0000006 54.8 63.1 
+Megan_Fox/0JCaspBzgN4_0000007 75.1 80.9 
+Megan_Fox/0JCaspBzgN4_0000008 96.1 106.9 
+Megan_Fox/0JCaspBzgN4_0000009 110.9 115.3 
+Megan_Fox/0JCaspBzgN4_0000010 134.0 159.0 
+Megan_Fox/0JCaspBzgN4_0000011 173.2 195.1 
+Megan_Fox/0JCaspBzgN4_0000012 210.1 243.7 
+Megan_Fox/0JCaspBzgN4_0000013 248.3 252.7 
+Megan_Fox/0JCaspBzgN4_0000014 260.0 273.3 
+Megan_Fox/0JCaspBzgN4_0000015 273.9 283.6 

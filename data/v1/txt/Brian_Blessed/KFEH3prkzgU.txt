@@ -1,0 +1,8 @@
+POI: 			Brian_Blessed 
+Youtube ID: 	KFEH3prkzgU 
+Video length: 	447.0 sec 
+Set (V): 		dev 
+ 
+Brian_Blessed/KFEH3prkzgU_0000001 344.8 357.2 
+Brian_Blessed/KFEH3prkzgU_0000002 394.3 399.8 
+Brian_Blessed/KFEH3prkzgU_0000003 403.9 410.2 

@@ -1,0 +1,14 @@
+POI: 			Bill_Pullman 
+Youtube ID: 	XeHHlBNWA1Y 
+Video length: 	346.3 sec 
+Set (V): 		dev 
+ 
+Bill_Pullman/XeHHlBNWA1Y_0000001 31.8 44.4 
+Bill_Pullman/XeHHlBNWA1Y_0000002 45.8 56.2 
+Bill_Pullman/XeHHlBNWA1Y_0000003 145.7 162.2 
+Bill_Pullman/XeHHlBNWA1Y_0000004 183.4 207.4 
+Bill_Pullman/XeHHlBNWA1Y_0000005 216.3 220.4 
+Bill_Pullman/XeHHlBNWA1Y_0000006 228.0 233.8 
+Bill_Pullman/XeHHlBNWA1Y_0000007 235.7 239.8 
+Bill_Pullman/XeHHlBNWA1Y_0000008 309.6 314.8 
+Bill_Pullman/XeHHlBNWA1Y_0000009 317.6 324.2 

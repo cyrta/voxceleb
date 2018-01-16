@@ -1,0 +1,8 @@
+POI: 			Jamel_Debbouze 
+Youtube ID: 	1oKPxKrhMRU 
+Video length: 	112.5 sec 
+Set (V): 		dev 
+ 
+Jamel_Debbouze/1oKPxKrhMRU_0000001 12.9 21.1 
+Jamel_Debbouze/1oKPxKrhMRU_0000002 21.7 27.5 
+Jamel_Debbouze/1oKPxKrhMRU_0000003 38.2 42.4 

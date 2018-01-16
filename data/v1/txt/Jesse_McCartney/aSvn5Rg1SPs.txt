@@ -1,0 +1,19 @@
+POI: 			Jesse_McCartney 
+Youtube ID: 	aSvn5Rg1SPs 
+Video length: 	354.2 sec 
+Set (V): 		dev 
+ 
+Jesse_McCartney/aSvn5Rg1SPs_0000001 21.6 25.9 
+Jesse_McCartney/aSvn5Rg1SPs_0000002 74.6 78.7 
+Jesse_McCartney/aSvn5Rg1SPs_0000003 121.2 129.4 
+Jesse_McCartney/aSvn5Rg1SPs_0000004 157.0 163.0 
+Jesse_McCartney/aSvn5Rg1SPs_0000005 178.3 183.9 
+Jesse_McCartney/aSvn5Rg1SPs_0000006 190.7 196.4 
+Jesse_McCartney/aSvn5Rg1SPs_0000007 214.9 219.3 
+Jesse_McCartney/aSvn5Rg1SPs_0000008 221.6 226.5 
+Jesse_McCartney/aSvn5Rg1SPs_0000009 233.3 237.4 
+Jesse_McCartney/aSvn5Rg1SPs_0000010 244.6 251.4 
+Jesse_McCartney/aSvn5Rg1SPs_0000011 258.0 263.0 
+Jesse_McCartney/aSvn5Rg1SPs_0000012 265.3 270.7 
+Jesse_McCartney/aSvn5Rg1SPs_0000013 327.0 334.8 
+Jesse_McCartney/aSvn5Rg1SPs_0000014 337.2 347.2 

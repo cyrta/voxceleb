@@ -1,0 +1,7 @@
+POI: 			Chris_Pine 
+Youtube ID: 	luzCujYmef4 
+Video length: 	259.4 sec 
+Set (V): 		dev 
+ 
+Chris_Pine/luzCujYmef4_0000001 160.4 175.7 
+Chris_Pine/luzCujYmef4_0000002 176.1 200.3 

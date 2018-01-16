@@ -1,0 +1,15 @@
+POI: 			Kenya_Moore 
+Youtube ID: 	6IjTx0tJO6k 
+Video length: 	135.3 sec 
+Set (V): 		dev 
+ 
+Kenya_Moore/6IjTx0tJO6k_0000001 18.8 27.6 
+Kenya_Moore/6IjTx0tJO6k_0000002 36.6 41.6 
+Kenya_Moore/6IjTx0tJO6k_0000003 43.6 48.1 
+Kenya_Moore/6IjTx0tJO6k_0000004 50.6 57.5 
+Kenya_Moore/6IjTx0tJO6k_0000005 67.8 80.1 
+Kenya_Moore/6IjTx0tJO6k_0000006 82.2 86.8 
+Kenya_Moore/6IjTx0tJO6k_0000007 88.8 98.0 
+Kenya_Moore/6IjTx0tJO6k_0000008 104.8 109.1 
+Kenya_Moore/6IjTx0tJO6k_0000009 114.8 118.9 
+Kenya_Moore/6IjTx0tJO6k_0000010 121.1 126.6 

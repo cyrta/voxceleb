@@ -1,0 +1,20 @@
+POI: 			Martin_Shaw 
+Youtube ID: 	cEBM_wQStZw 
+Video length: 	508.3 sec 
+Set (V): 		dev 
+ 
+Martin_Shaw/cEBM_wQStZw_0000001 53.5 59.3 
+Martin_Shaw/cEBM_wQStZw_0000002 71.9 79.8 
+Martin_Shaw/cEBM_wQStZw_0000003 116.7 125.6 
+Martin_Shaw/cEBM_wQStZw_0000004 170.6 175.8 
+Martin_Shaw/cEBM_wQStZw_0000005 183.6 189.1 
+Martin_Shaw/cEBM_wQStZw_0000006 197.6 206.4 
+Martin_Shaw/cEBM_wQStZw_0000007 206.8 211.6 
+Martin_Shaw/cEBM_wQStZw_0000008 244.1 252.4 
+Martin_Shaw/cEBM_wQStZw_0000009 263.2 269.6 
+Martin_Shaw/cEBM_wQStZw_0000010 273.7 278.3 
+Martin_Shaw/cEBM_wQStZw_0000011 295.1 299.2 
+Martin_Shaw/cEBM_wQStZw_0000012 308.9 317.1 
+Martin_Shaw/cEBM_wQStZw_0000013 318.8 325.8 
+Martin_Shaw/cEBM_wQStZw_0000014 338.4 343.3 
+Martin_Shaw/cEBM_wQStZw_0000015 392.9 398.3 

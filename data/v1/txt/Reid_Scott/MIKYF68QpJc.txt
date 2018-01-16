@@ -1,0 +1,11 @@
+POI: 			Reid_Scott 
+Youtube ID: 	MIKYF68QpJc 
+Video length: 	181.0 sec 
+Set (V): 		dev 
+ 
+Reid_Scott/MIKYF68QpJc_0000001 25.7 31.5 
+Reid_Scott/MIKYF68QpJc_0000002 49.3 62.0 
+Reid_Scott/MIKYF68QpJc_0000003 85.9 90.5 
+Reid_Scott/MIKYF68QpJc_0000004 91.0 95.8 
+Reid_Scott/MIKYF68QpJc_0000005 113.2 117.8 
+Reid_Scott/MIKYF68QpJc_0000006 121.9 126.9 

@@ -1,0 +1,14 @@
+POI: 			Eugene_Levy 
+Youtube ID: 	0TJ9sdJiDvA 
+Video length: 	365.0 sec 
+Set (V): 		test 
+ 
+Eugene_Levy/0TJ9sdJiDvA_0000001 156.1 166.9 
+Eugene_Levy/0TJ9sdJiDvA_0000002 175.7 187.5 
+Eugene_Levy/0TJ9sdJiDvA_0000003 188.4 195.4 
+Eugene_Levy/0TJ9sdJiDvA_0000004 202.1 216.0 
+Eugene_Levy/0TJ9sdJiDvA_0000005 216.4 229.7 
+Eugene_Levy/0TJ9sdJiDvA_0000006 245.3 249.5 
+Eugene_Levy/0TJ9sdJiDvA_0000007 251.6 258.0 
+Eugene_Levy/0TJ9sdJiDvA_0000008 258.6 268.9 
+Eugene_Levy/0TJ9sdJiDvA_0000009 270.0 280.4 

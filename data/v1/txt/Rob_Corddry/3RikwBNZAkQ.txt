@@ -1,0 +1,8 @@
+POI: 			Rob_Corddry 
+Youtube ID: 	3RikwBNZAkQ 
+Video length: 	431.5 sec 
+Set (V): 		dev 
+ 
+Rob_Corddry/3RikwBNZAkQ_0000001 249.6 255.6 
+Rob_Corddry/3RikwBNZAkQ_0000002 257.0 261.6 
+Rob_Corddry/3RikwBNZAkQ_0000003 262.4 268.0 

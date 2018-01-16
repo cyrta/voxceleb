@@ -1,0 +1,10 @@
+POI: 			Miley_Cyrus 
+Youtube ID: 	YO0y3zhMTHs 
+Video length: 	400.6 sec 
+Set (V): 		dev 
+ 
+Miley_Cyrus/YO0y3zhMTHs_0000001 84.6 97.2 
+Miley_Cyrus/YO0y3zhMTHs_0000002 255.6 279.7 
+Miley_Cyrus/YO0y3zhMTHs_0000003 302.4 310.4 
+Miley_Cyrus/YO0y3zhMTHs_0000004 311.3 321.1 
+Miley_Cyrus/YO0y3zhMTHs_0000005 360.9 371.6 

@@ -1,0 +1,7 @@
+POI: 			Walton_Goggins 
+Youtube ID: 	eHEO9j-gdDM 
+Video length: 	251.7 sec 
+Set (V): 		dev 
+ 
+Walton_Goggins/eHEO9j-gdDM_0000001 62.9 72.0 
+Walton_Goggins/eHEO9j-gdDM_0000002 74.7 92.6 

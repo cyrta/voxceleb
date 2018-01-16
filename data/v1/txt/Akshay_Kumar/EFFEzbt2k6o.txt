@@ -1,0 +1,8 @@
+POI: 			Akshay_Kumar 
+Youtube ID: 	EFFEzbt2k6o 
+Video length: 	1431.8 sec 
+Set (V): 		dev 
+ 
+Akshay_Kumar/EFFEzbt2k6o_0000001 237.5 246.0 
+Akshay_Kumar/EFFEzbt2k6o_0000002 277.4 287.5 
+Akshay_Kumar/EFFEzbt2k6o_0000003 1249.4 1255.4 

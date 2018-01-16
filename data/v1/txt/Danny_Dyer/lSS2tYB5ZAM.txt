@@ -1,0 +1,8 @@
+POI: 			Danny_Dyer 
+Youtube ID: 	lSS2tYB5ZAM 
+Video length: 	772.2 sec 
+Set (V): 		dev 
+ 
+Danny_Dyer/lSS2tYB5ZAM_0000001 53.4 57.3 
+Danny_Dyer/lSS2tYB5ZAM_0000002 69.2 75.3 
+Danny_Dyer/lSS2tYB5ZAM_0000003 414.0 418.1 

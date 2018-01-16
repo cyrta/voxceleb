@@ -1,0 +1,7 @@
+POI: 			Kylie_Minogue 
+Youtube ID: 	JZpljUVFevQ 
+Video length: 	216.5 sec 
+Set (V): 		dev 
+ 
+Kylie_Minogue/JZpljUVFevQ_0000001 04.9 09.1 
+Kylie_Minogue/JZpljUVFevQ_0000002 19.5 30.3 

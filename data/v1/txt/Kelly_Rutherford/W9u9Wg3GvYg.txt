@@ -1,0 +1,11 @@
+POI: 			Kelly_Rutherford 
+Youtube ID: 	W9u9Wg3GvYg 
+Video length: 	321.8 sec 
+Set (V): 		dev 
+ 
+Kelly_Rutherford/W9u9Wg3GvYg_0000001 60.2 78.6 
+Kelly_Rutherford/W9u9Wg3GvYg_0000002 79.8 94.6 
+Kelly_Rutherford/W9u9Wg3GvYg_0000003 109.4 124.7 
+Kelly_Rutherford/W9u9Wg3GvYg_0000004 210.3 218.5 
+Kelly_Rutherford/W9u9Wg3GvYg_0000005 222.8 229.5 
+Kelly_Rutherford/W9u9Wg3GvYg_0000006 258.5 267.8 

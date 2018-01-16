@@ -1,0 +1,13 @@
+POI: 			Alan_Rickman 
+Youtube ID: 	RSb9_Za3hw8 
+Video length: 	595.7 sec 
+Set (V): 		dev 
+ 
+Alan_Rickman/RSb9_Za3hw8_0000001 84.4 89.0 
+Alan_Rickman/RSb9_Za3hw8_0000002 127.9 133.3 
+Alan_Rickman/RSb9_Za3hw8_0000003 283.6 289.0 
+Alan_Rickman/RSb9_Za3hw8_0000004 374.9 381.6 
+Alan_Rickman/RSb9_Za3hw8_0000005 410.8 416.0 
+Alan_Rickman/RSb9_Za3hw8_0000006 466.1 470.4 
+Alan_Rickman/RSb9_Za3hw8_0000007 535.8 540.5 
+Alan_Rickman/RSb9_Za3hw8_0000008 581.2 585.1 

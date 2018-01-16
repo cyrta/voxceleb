@@ -1,0 +1,13 @@
+POI: 			Lauryn_Hill 
+Youtube ID: 	ybf-LQB_C-I 
+Video length: 	247.9 sec 
+Set (V): 		dev 
+ 
+Lauryn_Hill/ybf-LQB_C-I_0000001 14.4 20.7 
+Lauryn_Hill/ybf-LQB_C-I_0000002 35.0 40.2 
+Lauryn_Hill/ybf-LQB_C-I_0000003 43.2 48.6 
+Lauryn_Hill/ybf-LQB_C-I_0000004 140.0 157.9 
+Lauryn_Hill/ybf-LQB_C-I_0000005 161.2 175.8 
+Lauryn_Hill/ybf-LQB_C-I_0000006 205.6 211.0 
+Lauryn_Hill/ybf-LQB_C-I_0000007 213.0 220.2 
+Lauryn_Hill/ybf-LQB_C-I_0000008 221.2 229.4 

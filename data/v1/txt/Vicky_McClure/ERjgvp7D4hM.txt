@@ -1,0 +1,8 @@
+POI: 			Vicky_McClure 
+Youtube ID: 	ERjgvp7D4hM 
+Video length: 	181.0 sec 
+Set (V): 		dev 
+ 
+Vicky_McClure/ERjgvp7D4hM_0000001 86.8 100.6 
+Vicky_McClure/ERjgvp7D4hM_0000002 127.1 133.2 
+Vicky_McClure/ERjgvp7D4hM_0000003 143.6 152.4 

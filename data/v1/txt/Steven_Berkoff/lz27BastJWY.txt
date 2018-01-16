@@ -1,0 +1,13 @@
+POI: 			Steven_Berkoff 
+Youtube ID: 	lz27BastJWY 
+Video length: 	237.9 sec 
+Set (V): 		dev 
+ 
+Steven_Berkoff/lz27BastJWY_0000001 05.7 15.0 
+Steven_Berkoff/lz27BastJWY_0000002 13.0 23.6 
+Steven_Berkoff/lz27BastJWY_0000003 44.5 50.9 
+Steven_Berkoff/lz27BastJWY_0000004 65.2 71.6 
+Steven_Berkoff/lz27BastJWY_0000005 88.8 106.6 
+Steven_Berkoff/lz27BastJWY_0000006 155.6 165.9 
+Steven_Berkoff/lz27BastJWY_0000007 168.1 172.2 
+Steven_Berkoff/lz27BastJWY_0000008 230.9 236.3 

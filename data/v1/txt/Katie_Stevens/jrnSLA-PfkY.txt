@@ -1,0 +1,8 @@
+POI: 			Katie_Stevens 
+Youtube ID: 	jrnSLA-PfkY 
+Video length: 	102.8 sec 
+Set (V): 		dev 
+ 
+Katie_Stevens/jrnSLA-PfkY_0000001 13.9 18.4 
+Katie_Stevens/jrnSLA-PfkY_0000002 18.9 23.0 
+Katie_Stevens/jrnSLA-PfkY_0000003 45.4 50.7 

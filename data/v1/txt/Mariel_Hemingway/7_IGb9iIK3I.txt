@@ -1,0 +1,7 @@
+POI: 			Mariel_Hemingway 
+Youtube ID: 	7_IGb9iIK3I 
+Video length: 	207.1 sec 
+Set (V): 		dev 
+ 
+Mariel_Hemingway/7_IGb9iIK3I_0000001 22.1 28.5 
+Mariel_Hemingway/7_IGb9iIK3I_0000002 141.4 149.4 

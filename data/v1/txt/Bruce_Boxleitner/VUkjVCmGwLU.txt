@@ -1,0 +1,12 @@
+POI: 			Bruce_Boxleitner 
+Youtube ID: 	VUkjVCmGwLU 
+Video length: 	253.3 sec 
+Set (V): 		dev 
+ 
+Bruce_Boxleitner/VUkjVCmGwLU_0000001 44.4 56.0 
+Bruce_Boxleitner/VUkjVCmGwLU_0000002 94.2 98.8 
+Bruce_Boxleitner/VUkjVCmGwLU_0000003 115.9 119.9 
+Bruce_Boxleitner/VUkjVCmGwLU_0000004 129.1 140.5 
+Bruce_Boxleitner/VUkjVCmGwLU_0000005 141.3 151.4 
+Bruce_Boxleitner/VUkjVCmGwLU_0000006 182.9 191.0 
+Bruce_Boxleitner/VUkjVCmGwLU_0000007 201.9 206.4 

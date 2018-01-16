@@ -1,0 +1,10 @@
+POI: 			Kodi_Smit-McPhee 
+Youtube ID: 	ibXYnQZp8Lc 
+Video length: 	203.3 sec 
+Set (V): 		dev 
+ 
+Kodi_Smit-McPhee/ibXYnQZp8Lc_0000001 20.4 24.7 
+Kodi_Smit-McPhee/ibXYnQZp8Lc_0000002 40.2 45.3 
+Kodi_Smit-McPhee/ibXYnQZp8Lc_0000003 46.2 51.0 
+Kodi_Smit-McPhee/ibXYnQZp8Lc_0000004 55.2 65.4 
+Kodi_Smit-McPhee/ibXYnQZp8Lc_0000005 89.8 94.1 

@@ -1,0 +1,8 @@
+POI: 			Kyle_Richards 
+Youtube ID: 	TNzx5wfOYcc 
+Video length: 	244.0 sec 
+Set (V): 		dev 
+ 
+Kyle_Richards/TNzx5wfOYcc_0000001 70.8 76.8 
+Kyle_Richards/TNzx5wfOYcc_0000002 92.4 97.8 
+Kyle_Richards/TNzx5wfOYcc_0000003 107.1 111.5 

@@ -1,0 +1,8 @@
+POI: 			Milla_Jovovich 
+Youtube ID: 	3pcHjH0SbSA 
+Video length: 	354.1 sec 
+Set (V): 		dev 
+ 
+Milla_Jovovich/3pcHjH0SbSA_0000001 44.1 49.4 
+Milla_Jovovich/3pcHjH0SbSA_0000002 89.0 93.0 
+Milla_Jovovich/3pcHjH0SbSA_0000003 160.6 166.2 

@@ -1,0 +1,7 @@
+POI: 			Dan_Stevens 
+Youtube ID: 	iXqWWiFBaUI 
+Video length: 	125.8 sec 
+Set (V): 		dev 
+ 
+Dan_Stevens/iXqWWiFBaUI_0000001 09.2 13.2 
+Dan_Stevens/iXqWWiFBaUI_0000002 85.0 89.0 

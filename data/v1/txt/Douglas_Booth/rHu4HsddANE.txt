@@ -1,0 +1,11 @@
+POI: 			Douglas_Booth 
+Youtube ID: 	rHu4HsddANE 
+Video length: 	321.8 sec 
+Set (V): 		dev 
+ 
+Douglas_Booth/rHu4HsddANE_0000001 22.8 44.4 
+Douglas_Booth/rHu4HsddANE_0000002 116.1 122.5 
+Douglas_Booth/rHu4HsddANE_0000003 155.8 160.9 
+Douglas_Booth/rHu4HsddANE_0000004 234.6 251.3 
+Douglas_Booth/rHu4HsddANE_0000005 252.1 257.7 
+Douglas_Booth/rHu4HsddANE_0000006 270.6 276.9 

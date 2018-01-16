@@ -1,0 +1,21 @@
+POI: 			Michael_Socha 
+Youtube ID: 	S-Jw1A7w3uU 
+Video length: 	318.8 sec 
+Set (V): 		dev 
+ 
+Michael_Socha/S-Jw1A7w3uU_0000001 16.3 20.4 
+Michael_Socha/S-Jw1A7w3uU_0000002 31.6 38.1 
+Michael_Socha/S-Jw1A7w3uU_0000003 65.8 73.2 
+Michael_Socha/S-Jw1A7w3uU_0000004 81.5 95.2 
+Michael_Socha/S-Jw1A7w3uU_0000005 125.5 134.0 
+Michael_Socha/S-Jw1A7w3uU_0000006 134.2 138.9 
+Michael_Socha/S-Jw1A7w3uU_0000007 150.0 154.0 
+Michael_Socha/S-Jw1A7w3uU_0000008 155.3 161.4 
+Michael_Socha/S-Jw1A7w3uU_0000009 189.6 195.6 
+Michael_Socha/S-Jw1A7w3uU_0000010 195.9 210.1 
+Michael_Socha/S-Jw1A7w3uU_0000011 222.4 231.4 
+Michael_Socha/S-Jw1A7w3uU_0000012 232.4 236.5 
+Michael_Socha/S-Jw1A7w3uU_0000013 242.4 246.3 
+Michael_Socha/S-Jw1A7w3uU_0000014 248.2 254.2 
+Michael_Socha/S-Jw1A7w3uU_0000015 277.9 296.2 
+Michael_Socha/S-Jw1A7w3uU_0000016 307.0 311.2 

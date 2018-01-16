@@ -1,0 +1,24 @@
+POI: 			David_Henrie 
+Youtube ID: 	grMy4DxVtzA 
+Video length: 	791.2 sec 
+Set (V): 		dev 
+ 
+David_Henrie/grMy4DxVtzA_0000001 65.9 79.9 
+David_Henrie/grMy4DxVtzA_0000002 80.2 85.3 
+David_Henrie/grMy4DxVtzA_0000003 94.8 100.6 
+David_Henrie/grMy4DxVtzA_0000004 115.4 121.3 
+David_Henrie/grMy4DxVtzA_0000005 131.5 146.2 
+David_Henrie/grMy4DxVtzA_0000006 204.4 209.1 
+David_Henrie/grMy4DxVtzA_0000007 255.9 260.2 
+David_Henrie/grMy4DxVtzA_0000008 277.0 283.0 
+David_Henrie/grMy4DxVtzA_0000009 303.7 310.1 
+David_Henrie/grMy4DxVtzA_0000010 333.8 342.0 
+David_Henrie/grMy4DxVtzA_0000011 412.4 419.4 
+David_Henrie/grMy4DxVtzA_0000012 422.6 429.4 
+David_Henrie/grMy4DxVtzA_0000013 457.6 462.7 
+David_Henrie/grMy4DxVtzA_0000014 479.1 497.8 
+David_Henrie/grMy4DxVtzA_0000015 504.7 508.8 
+David_Henrie/grMy4DxVtzA_0000016 561.6 570.7 
+David_Henrie/grMy4DxVtzA_0000017 576.3 582.3 
+David_Henrie/grMy4DxVtzA_0000018 586.4 598.8 
+David_Henrie/grMy4DxVtzA_0000019 645.7 649.8 

@@ -1,0 +1,12 @@
+POI: 			Robert_Pattinson 
+Youtube ID: 	RiF0vNHe4vM 
+Video length: 	317.9 sec 
+Set (V): 		dev 
+ 
+Robert_Pattinson/RiF0vNHe4vM_0000001 29.6 34.6 
+Robert_Pattinson/RiF0vNHe4vM_0000002 64.7 68.9 
+Robert_Pattinson/RiF0vNHe4vM_0000003 75.9 81.3 
+Robert_Pattinson/RiF0vNHe4vM_0000004 215.8 220.4 
+Robert_Pattinson/RiF0vNHe4vM_0000005 259.2 269.5 
+Robert_Pattinson/RiF0vNHe4vM_0000006 295.2 305.0 
+Robert_Pattinson/RiF0vNHe4vM_0000007 308.2 312.9 

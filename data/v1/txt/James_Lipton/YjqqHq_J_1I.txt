@@ -1,0 +1,12 @@
+POI: 			James_Lipton 
+Youtube ID: 	YjqqHq_J_1I 
+Video length: 	432.0 sec 
+Set (V): 		dev 
+ 
+James_Lipton/YjqqHq_J_1I_0000001 78.2 82.5 
+James_Lipton/YjqqHq_J_1I_0000002 171.8 176.6 
+James_Lipton/YjqqHq_J_1I_0000003 200.2 207.0 
+James_Lipton/YjqqHq_J_1I_0000004 225.5 231.8 
+James_Lipton/YjqqHq_J_1I_0000005 323.3 328.4 
+James_Lipton/YjqqHq_J_1I_0000006 358.8 365.1 
+James_Lipton/YjqqHq_J_1I_0000007 416.5 422.9 

@@ -1,0 +1,9 @@
+POI: 			David_Letterman 
+Youtube ID: 	maBjr0yPfu4 
+Video length: 	624.4 sec 
+Set (V): 		dev 
+ 
+David_Letterman/maBjr0yPfu4_0000001 23.1 29.2 
+David_Letterman/maBjr0yPfu4_0000002 33.7 38.5 
+David_Letterman/maBjr0yPfu4_0000003 53.6 59.9 
+David_Letterman/maBjr0yPfu4_0000004 417.0 421.5 

@@ -1,0 +1,8 @@
+POI: 			Zoe_Saldana 
+Youtube ID: 	JQlWvNL3hZU 
+Video length: 	234.5 sec 
+Set (V): 		dev 
+ 
+Zoe_Saldana/JQlWvNL3hZU_0000001 69.8 76.1 
+Zoe_Saldana/JQlWvNL3hZU_0000002 80.1 91.8 
+Zoe_Saldana/JQlWvNL3hZU_0000003 92.0 101.6 

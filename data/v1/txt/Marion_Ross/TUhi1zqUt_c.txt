@@ -1,0 +1,8 @@
+POI: 			Marion_Ross 
+Youtube ID: 	TUhi1zqUt_c 
+Video length: 	118.2 sec 
+Set (V): 		dev 
+ 
+Marion_Ross/TUhi1zqUt_c_0000001 06.8 17.2 
+Marion_Ross/TUhi1zqUt_c_0000002 29.2 40.0 
+Marion_Ross/TUhi1zqUt_c_0000003 44.9 51.6 

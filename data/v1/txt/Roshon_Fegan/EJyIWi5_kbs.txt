@@ -1,0 +1,14 @@
+POI: 			Roshon_Fegan 
+Youtube ID: 	EJyIWi5_kbs 
+Video length: 	428.2 sec 
+Set (V): 		dev 
+ 
+Roshon_Fegan/EJyIWi5_kbs_0000001 29.6 45.9 
+Roshon_Fegan/EJyIWi5_kbs_0000002 84.3 90.5 
+Roshon_Fegan/EJyIWi5_kbs_0000003 92.3 98.8 
+Roshon_Fegan/EJyIWi5_kbs_0000004 133.7 145.4 
+Roshon_Fegan/EJyIWi5_kbs_0000005 154.1 161.3 
+Roshon_Fegan/EJyIWi5_kbs_0000006 172.6 184.6 
+Roshon_Fegan/EJyIWi5_kbs_0000007 257.6 268.6 
+Roshon_Fegan/EJyIWi5_kbs_0000008 270.8 278.8 
+Roshon_Fegan/EJyIWi5_kbs_0000009 363.2 377.0 

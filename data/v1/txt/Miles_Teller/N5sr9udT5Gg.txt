@@ -1,0 +1,11 @@
+POI: 			Miles_Teller 
+Youtube ID: 	N5sr9udT5Gg 
+Video length: 	182.8 sec 
+Set (V): 		dev 
+ 
+Miles_Teller/N5sr9udT5Gg_0000001 30.9 35.8 
+Miles_Teller/N5sr9udT5Gg_0000002 57.9 64.6 
+Miles_Teller/N5sr9udT5Gg_0000003 64.8 71.6 
+Miles_Teller/N5sr9udT5Gg_0000004 115.8 121.2 
+Miles_Teller/N5sr9udT5Gg_0000005 131.9 136.2 
+Miles_Teller/N5sr9udT5Gg_0000006 154.0 159.3 

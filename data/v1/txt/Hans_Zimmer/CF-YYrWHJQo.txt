@@ -1,0 +1,8 @@
+POI: 			Hans_Zimmer 
+Youtube ID: 	CF-YYrWHJQo 
+Video length: 	122.4 sec 
+Set (V): 		dev 
+ 
+Hans_Zimmer/CF-YYrWHJQo_0000001 13.5 18.0 
+Hans_Zimmer/CF-YYrWHJQo_0000002 88.9 93.0 
+Hans_Zimmer/CF-YYrWHJQo_0000003 111.1 118.2 

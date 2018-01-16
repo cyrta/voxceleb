@@ -1,0 +1,14 @@
+POI: 			Karl_Malden 
+Youtube ID: 	X7e-s5Ukoos 
+Video length: 	419.4 sec 
+Set (V): 		dev 
+ 
+Karl_Malden/X7e-s5Ukoos_0000001 72.5 83.7 
+Karl_Malden/X7e-s5Ukoos_0000002 84.3 94.1 
+Karl_Malden/X7e-s5Ukoos_0000003 126.4 138.0 
+Karl_Malden/X7e-s5Ukoos_0000004 159.8 175.9 
+Karl_Malden/X7e-s5Ukoos_0000005 176.6 187.9 
+Karl_Malden/X7e-s5Ukoos_0000006 188.5 199.4 
+Karl_Malden/X7e-s5Ukoos_0000007 280.4 288.0 
+Karl_Malden/X7e-s5Ukoos_0000008 350.3 355.6 
+Karl_Malden/X7e-s5Ukoos_0000009 365.3 373.1 

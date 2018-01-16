@@ -1,0 +1,11 @@
+POI: 			Peter_Capaldi 
+Youtube ID: 	lauwf8lVepk 
+Video length: 	208.8 sec 
+Set (V): 		dev 
+ 
+Peter_Capaldi/lauwf8lVepk_0000001 16.0 22.6 
+Peter_Capaldi/lauwf8lVepk_0000002 40.7 51.5 
+Peter_Capaldi/lauwf8lVepk_0000003 60.4 65.6 
+Peter_Capaldi/lauwf8lVepk_0000004 89.0 93.4 
+Peter_Capaldi/lauwf8lVepk_0000005 111.5 123.7 
+Peter_Capaldi/lauwf8lVepk_0000006 159.6 173.8 

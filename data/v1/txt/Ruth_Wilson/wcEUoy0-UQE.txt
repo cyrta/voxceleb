@@ -1,0 +1,13 @@
+POI: 			Ruth_Wilson 
+Youtube ID: 	wcEUoy0-UQE 
+Video length: 	486.8 sec 
+Set (V): 		dev 
+ 
+Ruth_Wilson/wcEUoy0-UQE_0000001 94.7 101.1 
+Ruth_Wilson/wcEUoy0-UQE_0000002 104.5 110.1 
+Ruth_Wilson/wcEUoy0-UQE_0000003 129.0 133.7 
+Ruth_Wilson/wcEUoy0-UQE_0000004 206.2 212.8 
+Ruth_Wilson/wcEUoy0-UQE_0000005 291.3 298.9 
+Ruth_Wilson/wcEUoy0-UQE_0000006 403.7 407.7 
+Ruth_Wilson/wcEUoy0-UQE_0000007 414.0 419.5 
+Ruth_Wilson/wcEUoy0-UQE_0000008 458.1 463.2 

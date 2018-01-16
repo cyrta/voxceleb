@@ -1,0 +1,7 @@
+POI: 			Kevin_McHale 
+Youtube ID: 	gPscP-D1L8c 
+Video length: 	178.7 sec 
+Set (V): 		dev 
+ 
+Kevin_McHale/gPscP-D1L8c_0000001 50.2 68.5 
+Kevin_McHale/gPscP-D1L8c_0000002 111.2 137.8 

@@ -1,0 +1,7 @@
+POI: 			Melissa_Leo 
+Youtube ID: 	QWJbf6K_uGY 
+Video length: 	112.7 sec 
+Set (V): 		dev 
+ 
+Melissa_Leo/QWJbf6K_uGY_0000001 02.5 11.3 
+Melissa_Leo/QWJbf6K_uGY_0000002 55.4 64.8 

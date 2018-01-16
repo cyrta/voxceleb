@@ -1,0 +1,10 @@
+POI: 			Dawn_Wells 
+Youtube ID: 	B7mFl5d7Km4 
+Video length: 	136.2 sec 
+Set (V): 		dev 
+ 
+Dawn_Wells/B7mFl5d7Km4_0000001 36.9 45.6 
+Dawn_Wells/B7mFl5d7Km4_0000002 60.6 70.4 
+Dawn_Wells/B7mFl5d7Km4_0000003 72.2 77.6 
+Dawn_Wells/B7mFl5d7Km4_0000004 85.3 93.7 
+Dawn_Wells/B7mFl5d7Km4_0000005 96.8 103.9 

@@ -1,0 +1,9 @@
+POI: 			Amber_Riley 
+Youtube ID: 	ADhV0i2cn2M 
+Video length: 	107.5 sec 
+Set (V): 		dev 
+ 
+Amber_Riley/ADhV0i2cn2M_0000001 18.8 23.4 
+Amber_Riley/ADhV0i2cn2M_0000002 46.4 50.6 
+Amber_Riley/ADhV0i2cn2M_0000003 80.1 85.5 
+Amber_Riley/ADhV0i2cn2M_0000004 86.0 91.2 

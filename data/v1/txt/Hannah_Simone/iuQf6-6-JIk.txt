@@ -1,0 +1,8 @@
+POI: 			Hannah_Simone 
+Youtube ID: 	iuQf6-6-JIk 
+Video length: 	269.3 sec 
+Set (V): 		dev 
+ 
+Hannah_Simone/iuQf6-6-JIk_0000001 60.2 65.6 
+Hannah_Simone/iuQf6-6-JIk_0000002 107.4 112.9 
+Hannah_Simone/iuQf6-6-JIk_0000003 203.8 208.5 

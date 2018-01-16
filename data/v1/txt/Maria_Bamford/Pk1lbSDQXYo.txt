@@ -1,0 +1,10 @@
+POI: 			Maria_Bamford 
+Youtube ID: 	Pk1lbSDQXYo 
+Video length: 	284.7 sec 
+Set (V): 		dev 
+ 
+Maria_Bamford/Pk1lbSDQXYo_0000001 128.5 132.5 
+Maria_Bamford/Pk1lbSDQXYo_0000002 133.0 141.0 
+Maria_Bamford/Pk1lbSDQXYo_0000003 177.6 182.0 
+Maria_Bamford/Pk1lbSDQXYo_0000004 196.2 202.5 
+Maria_Bamford/Pk1lbSDQXYo_0000005 229.8 234.5 

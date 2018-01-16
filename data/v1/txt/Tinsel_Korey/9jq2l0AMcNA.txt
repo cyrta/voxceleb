@@ -1,0 +1,24 @@
+POI: 			Tinsel_Korey 
+Youtube ID: 	9jq2l0AMcNA 
+Video length: 	754.9 sec 
+Set (V): 		dev 
+ 
+Tinsel_Korey/9jq2l0AMcNA_0000001 41.6 64.3 
+Tinsel_Korey/9jq2l0AMcNA_0000002 67.3 75.9 
+Tinsel_Korey/9jq2l0AMcNA_0000003 77.3 88.1 
+Tinsel_Korey/9jq2l0AMcNA_0000004 119.8 127.6 
+Tinsel_Korey/9jq2l0AMcNA_0000005 128.3 143.5 
+Tinsel_Korey/9jq2l0AMcNA_0000006 173.7 179.4 
+Tinsel_Korey/9jq2l0AMcNA_0000007 179.6 184.3 
+Tinsel_Korey/9jq2l0AMcNA_0000008 200.8 216.6 
+Tinsel_Korey/9jq2l0AMcNA_0000009 238.0 247.4 
+Tinsel_Korey/9jq2l0AMcNA_0000010 278.1 282.9 
+Tinsel_Korey/9jq2l0AMcNA_0000011 365.0 378.5 
+Tinsel_Korey/9jq2l0AMcNA_0000012 425.3 430.7 
+Tinsel_Korey/9jq2l0AMcNA_0000013 463.8 482.0 
+Tinsel_Korey/9jq2l0AMcNA_0000014 516.7 520.8 
+Tinsel_Korey/9jq2l0AMcNA_0000015 543.6 552.0 
+Tinsel_Korey/9jq2l0AMcNA_0000016 567.3 571.9 
+Tinsel_Korey/9jq2l0AMcNA_0000017 588.4 596.3 
+Tinsel_Korey/9jq2l0AMcNA_0000018 639.7 645.6 
+Tinsel_Korey/9jq2l0AMcNA_0000019 709.8 718.8 

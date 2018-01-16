@@ -1,0 +1,14 @@
+POI: 			Alexandra_Roach 
+Youtube ID: 	AHBTiWG5A-Q 
+Video length: 	299.0 sec 
+Set (V): 		dev 
+ 
+Alexandra_Roach/AHBTiWG5A-Q_0000001 49.9 70.0 
+Alexandra_Roach/AHBTiWG5A-Q_0000002 81.1 93.2 
+Alexandra_Roach/AHBTiWG5A-Q_0000003 94.0 108.1 
+Alexandra_Roach/AHBTiWG5A-Q_0000004 124.0 144.6 
+Alexandra_Roach/AHBTiWG5A-Q_0000005 153.2 165.6 
+Alexandra_Roach/AHBTiWG5A-Q_0000006 166.0 173.1 
+Alexandra_Roach/AHBTiWG5A-Q_0000007 173.6 178.0 
+Alexandra_Roach/AHBTiWG5A-Q_0000008 193.7 214.4 
+Alexandra_Roach/AHBTiWG5A-Q_0000009 240.4 254.3 

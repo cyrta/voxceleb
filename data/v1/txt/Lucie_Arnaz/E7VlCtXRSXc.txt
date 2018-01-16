@@ -1,0 +1,21 @@
+POI: 			Lucie_Arnaz 
+Youtube ID: 	E7VlCtXRSXc 
+Video length: 	288.5 sec 
+Set (V): 		dev 
+ 
+Lucie_Arnaz/E7VlCtXRSXc_0000001 01.2 14.1 
+Lucie_Arnaz/E7VlCtXRSXc_0000002 15.9 20.7 
+Lucie_Arnaz/E7VlCtXRSXc_0000003 22.0 28.3 
+Lucie_Arnaz/E7VlCtXRSXc_0000004 43.4 56.3 
+Lucie_Arnaz/E7VlCtXRSXc_0000005 57.2 62.0 
+Lucie_Arnaz/E7VlCtXRSXc_0000006 62.7 75.1 
+Lucie_Arnaz/E7VlCtXRSXc_0000007 22.1 28.4 
+Lucie_Arnaz/E7VlCtXRSXc_0000008 87.8 102.5 
+Lucie_Arnaz/E7VlCtXRSXc_0000009 120.1 128.7 
+Lucie_Arnaz/E7VlCtXRSXc_0000010 144.6 151.7 
+Lucie_Arnaz/E7VlCtXRSXc_0000011 156.0 161.2 
+Lucie_Arnaz/E7VlCtXRSXc_0000012 165.3 172.6 
+Lucie_Arnaz/E7VlCtXRSXc_0000013 208.6 214.6 
+Lucie_Arnaz/E7VlCtXRSXc_0000014 237.7 244.7 
+Lucie_Arnaz/E7VlCtXRSXc_0000015 245.6 265.0 
+Lucie_Arnaz/E7VlCtXRSXc_0000016 265.2 272.8 

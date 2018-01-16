@@ -1,0 +1,28 @@
+POI: 			Bill_Nighy 
+Youtube ID: 	sdf5l_qGIK8 
+Video length: 	323.3 sec 
+Set (V): 		dev 
+ 
+Bill_Nighy/sdf5l_qGIK8_0000001 08.3 13.2 
+Bill_Nighy/sdf5l_qGIK8_0000002 16.2 20.2 
+Bill_Nighy/sdf5l_qGIK8_0000003 23.5 30.3 
+Bill_Nighy/sdf5l_qGIK8_0000004 56.8 62.0 
+Bill_Nighy/sdf5l_qGIK8_0000005 65.8 69.8 
+Bill_Nighy/sdf5l_qGIK8_0000006 73.0 82.1 
+Bill_Nighy/sdf5l_qGIK8_0000007 83.0 96.5 
+Bill_Nighy/sdf5l_qGIK8_0000008 50.3 55.4 
+Bill_Nighy/sdf5l_qGIK8_0000009 56.3 62.0 
+Bill_Nighy/sdf5l_qGIK8_0000010 110.4 116.0 
+Bill_Nighy/sdf5l_qGIK8_0000011 129.2 133.2 
+Bill_Nighy/sdf5l_qGIK8_0000012 145.5 149.6 
+Bill_Nighy/sdf5l_qGIK8_0000013 163.3 169.2 
+Bill_Nighy/sdf5l_qGIK8_0000014 169.6 179.0 
+Bill_Nighy/sdf5l_qGIK8_0000015 182.0 192.2 
+Bill_Nighy/sdf5l_qGIK8_0000016 196.8 204.6 
+Bill_Nighy/sdf5l_qGIK8_0000017 204.8 209.9 
+Bill_Nighy/sdf5l_qGIK8_0000018 213.0 217.1 
+Bill_Nighy/sdf5l_qGIK8_0000019 232.6 240.2 
+Bill_Nighy/sdf5l_qGIK8_0000020 243.5 250.5 
+Bill_Nighy/sdf5l_qGIK8_0000021 257.6 262.8 
+Bill_Nighy/sdf5l_qGIK8_0000022 267.6 273.0 
+Bill_Nighy/sdf5l_qGIK8_0000023 273.4 279.6 

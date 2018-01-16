@@ -1,0 +1,24 @@
+POI: 			Mindy_Kaling 
+Youtube ID: 	TEcDrsqajOA 
+Video length: 	294.4 sec 
+Set (V): 		dev 
+ 
+Mindy_Kaling/TEcDrsqajOA_0000001 08.0 12.0 
+Mindy_Kaling/TEcDrsqajOA_0000002 26.9 31.6 
+Mindy_Kaling/TEcDrsqajOA_0000003 36.4 41.0 
+Mindy_Kaling/TEcDrsqajOA_0000004 41.1 54.1 
+Mindy_Kaling/TEcDrsqajOA_0000005 61.8 66.2 
+Mindy_Kaling/TEcDrsqajOA_0000006 67.2 73.7 
+Mindy_Kaling/TEcDrsqajOA_0000007 73.8 79.4 
+Mindy_Kaling/TEcDrsqajOA_0000008 107.5 112.6 
+Mindy_Kaling/TEcDrsqajOA_0000009 113.4 121.8 
+Mindy_Kaling/TEcDrsqajOA_0000010 107.4 112.4 
+Mindy_Kaling/TEcDrsqajOA_0000011 133.8 140.0 
+Mindy_Kaling/TEcDrsqajOA_0000012 144.3 153.5 
+Mindy_Kaling/TEcDrsqajOA_0000013 161.0 168.5 
+Mindy_Kaling/TEcDrsqajOA_0000014 168.7 174.1 
+Mindy_Kaling/TEcDrsqajOA_0000015 175.8 183.0 
+Mindy_Kaling/TEcDrsqajOA_0000016 190.0 196.8 
+Mindy_Kaling/TEcDrsqajOA_0000017 214.0 218.8 
+Mindy_Kaling/TEcDrsqajOA_0000018 224.2 229.1 
+Mindy_Kaling/TEcDrsqajOA_0000019 243.2 248.4 

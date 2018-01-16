@@ -1,0 +1,8 @@
+POI: 			Rhys_Ifans 
+Youtube ID: 	Z2B78980tt4 
+Video length: 	182.9 sec 
+Set (V): 		dev 
+ 
+Rhys_Ifans/Z2B78980tt4_0000001 60.0 64.5 
+Rhys_Ifans/Z2B78980tt4_0000002 121.5 128.2 
+Rhys_Ifans/Z2B78980tt4_0000003 149.4 156.1 

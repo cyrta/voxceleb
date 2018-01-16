@@ -1,0 +1,7 @@
+POI: 			Wendell_Pierce 
+Youtube ID: 	EWVd8qVp4RM 
+Video length: 	87.2 sec 
+Set (V): 		dev 
+ 
+Wendell_Pierce/EWVd8qVp4RM_0000001 10.0 15.2 
+Wendell_Pierce/EWVd8qVp4RM_0000002 46.7 52.6 

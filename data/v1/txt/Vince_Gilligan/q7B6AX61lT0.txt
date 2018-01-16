@@ -1,0 +1,14 @@
+POI: 			Vince_Gilligan 
+Youtube ID: 	q7B6AX61lT0 
+Video length: 	142.9 sec 
+Set (V): 		dev 
+ 
+Vince_Gilligan/q7B6AX61lT0_0000001 06.5 10.9 
+Vince_Gilligan/q7B6AX61lT0_0000002 11.8 38.2 
+Vince_Gilligan/q7B6AX61lT0_0000003 38.6 52.2 
+Vince_Gilligan/q7B6AX61lT0_0000004 58.2 64.1 
+Vince_Gilligan/q7B6AX61lT0_0000005 64.4 80.8 
+Vince_Gilligan/q7B6AX61lT0_0000006 81.4 90.6 
+Vince_Gilligan/q7B6AX61lT0_0000007 91.9 96.3 
+Vince_Gilligan/q7B6AX61lT0_0000008 99.0 111.7 
+Vince_Gilligan/q7B6AX61lT0_0000009 112.7 124.9 

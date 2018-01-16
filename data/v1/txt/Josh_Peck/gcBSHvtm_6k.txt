@@ -1,0 +1,9 @@
+POI: 			Josh_Peck 
+Youtube ID: 	gcBSHvtm_6k 
+Video length: 	226.5 sec 
+Set (V): 		dev 
+ 
+Josh_Peck/gcBSHvtm_6k_0000001 80.1 84.9 
+Josh_Peck/gcBSHvtm_6k_0000002 85.7 94.8 
+Josh_Peck/gcBSHvtm_6k_0000003 95.3 109.7 
+Josh_Peck/gcBSHvtm_6k_0000004 175.6 188.4 

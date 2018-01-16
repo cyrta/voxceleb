@@ -1,0 +1,11 @@
+POI: 			Keegan_Allen 
+Youtube ID: 	5gvVrjkKwSY 
+Video length: 	1031.5 sec 
+Set (V): 		dev 
+ 
+Keegan_Allen/5gvVrjkKwSY_0000001 196.4 205.5 
+Keegan_Allen/5gvVrjkKwSY_0000002 226.7 231.6 
+Keegan_Allen/5gvVrjkKwSY_0000003 226.5 231.6 
+Keegan_Allen/5gvVrjkKwSY_0000004 462.9 468.0 
+Keegan_Allen/5gvVrjkKwSY_0000005 754.8 762.3 
+Keegan_Allen/5gvVrjkKwSY_0000006 792.7 798.9 

@@ -1,0 +1,13 @@
+POI: 			Jenna_Fischer 
+Youtube ID: 	YB8gcGTMFGw 
+Video length: 	160.2 sec 
+Set (V): 		dev 
+ 
+Jenna_Fischer/YB8gcGTMFGw_0000001 05.6 21.7 
+Jenna_Fischer/YB8gcGTMFGw_0000002 25.4 35.3 
+Jenna_Fischer/YB8gcGTMFGw_0000003 35.9 58.6 
+Jenna_Fischer/YB8gcGTMFGw_0000004 62.0 74.5 
+Jenna_Fischer/YB8gcGTMFGw_0000005 75.2 99.6 
+Jenna_Fischer/YB8gcGTMFGw_0000006 100.6 123.2 
+Jenna_Fischer/YB8gcGTMFGw_0000007 126.8 142.8 
+Jenna_Fischer/YB8gcGTMFGw_0000008 144.6 156.2 

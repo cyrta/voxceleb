@@ -1,0 +1,23 @@
+POI: 			Samira_Wiley 
+Youtube ID: 	oMIapWVlN8g 
+Video length: 	4591.5 sec 
+Set (V): 		dev 
+ 
+Samira_Wiley/oMIapWVlN8g_0000001 384.5 391.8 
+Samira_Wiley/oMIapWVlN8g_0000002 397.4 414.1 
+Samira_Wiley/oMIapWVlN8g_0000003 414.2 419.5 
+Samira_Wiley/oMIapWVlN8g_0000004 1960.0 1966.7 
+Samira_Wiley/oMIapWVlN8g_0000005 1966.9 1974.0 
+Samira_Wiley/oMIapWVlN8g_0000006 1984.8 1991.4 
+Samira_Wiley/oMIapWVlN8g_0000007 1996.3 2006.0 
+Samira_Wiley/oMIapWVlN8g_0000008 2035.3 2048.1 
+Samira_Wiley/oMIapWVlN8g_0000009 2049.9 2069.0 
+Samira_Wiley/oMIapWVlN8g_0000010 2086.2 2119.6 
+Samira_Wiley/oMIapWVlN8g_0000011 3036.4 3052.6 
+Samira_Wiley/oMIapWVlN8g_0000012 3425.2 3440.2 
+Samira_Wiley/oMIapWVlN8g_0000013 3966.7 3976.1 
+Samira_Wiley/oMIapWVlN8g_0000014 3981.8 3987.9 
+Samira_Wiley/oMIapWVlN8g_0000015 3989.1 3996.4 
+Samira_Wiley/oMIapWVlN8g_0000016 4011.7 4017.6 
+Samira_Wiley/oMIapWVlN8g_0000017 4018.5 4034.4 
+Samira_Wiley/oMIapWVlN8g_0000018 4037.2 4047.0 

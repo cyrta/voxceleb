@@ -1,0 +1,9 @@
+POI: 			David_Lyons 
+Youtube ID: 	TK6Q44caxrQ 
+Video length: 	142.6 sec 
+Set (V): 		dev 
+ 
+David_Lyons/TK6Q44caxrQ_0000001 22.9 27.6 
+David_Lyons/TK6Q44caxrQ_0000002 86.5 91.0 
+David_Lyons/TK6Q44caxrQ_0000003 110.2 114.6 
+David_Lyons/TK6Q44caxrQ_0000004 125.1 129.8 

@@ -1,0 +1,12 @@
+POI: 			Martine_McCutcheon 
+Youtube ID: 	bNcFWoqfiJQ 
+Video length: 	174.9 sec 
+Set (V): 		dev 
+ 
+Martine_McCutcheon/bNcFWoqfiJQ_0000001 04.7 10.4 
+Martine_McCutcheon/bNcFWoqfiJQ_0000002 19.6 24.7 
+Martine_McCutcheon/bNcFWoqfiJQ_0000003 28.8 33.7 
+Martine_McCutcheon/bNcFWoqfiJQ_0000004 49.8 54.6 
+Martine_McCutcheon/bNcFWoqfiJQ_0000005 62.4 68.8 
+Martine_McCutcheon/bNcFWoqfiJQ_0000006 147.9 154.6 
+Martine_McCutcheon/bNcFWoqfiJQ_0000007 166.1 173.4 

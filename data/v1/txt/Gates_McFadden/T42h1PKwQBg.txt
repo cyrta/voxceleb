@@ -1,0 +1,16 @@
+POI: 			Gates_McFadden 
+Youtube ID: 	T42h1PKwQBg 
+Video length: 	455.0 sec 
+Set (V): 		dev 
+ 
+Gates_McFadden/T42h1PKwQBg_0000001 80.8 89.8 
+Gates_McFadden/T42h1PKwQBg_0000002 96.8 101.0 
+Gates_McFadden/T42h1PKwQBg_0000003 133.9 140.2 
+Gates_McFadden/T42h1PKwQBg_0000004 151.6 155.7 
+Gates_McFadden/T42h1PKwQBg_0000005 239.6 245.8 
+Gates_McFadden/T42h1PKwQBg_0000006 285.4 294.9 
+Gates_McFadden/T42h1PKwQBg_0000007 297.3 305.5 
+Gates_McFadden/T42h1PKwQBg_0000008 346.4 351.1 
+Gates_McFadden/T42h1PKwQBg_0000009 361.7 366.2 
+Gates_McFadden/T42h1PKwQBg_0000010 395.2 401.5 
+Gates_McFadden/T42h1PKwQBg_0000011 402.2 408.0 

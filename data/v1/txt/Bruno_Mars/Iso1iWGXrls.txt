@@ -1,0 +1,15 @@
+POI: 			Bruno_Mars 
+Youtube ID: 	Iso1iWGXrls 
+Video length: 	613.6 sec 
+Set (V): 		dev 
+ 
+Bruno_Mars/Iso1iWGXrls_0000001 127.1 136.9 
+Bruno_Mars/Iso1iWGXrls_0000002 164.2 174.6 
+Bruno_Mars/Iso1iWGXrls_0000003 257.4 263.3 
+Bruno_Mars/Iso1iWGXrls_0000004 298.8 303.4 
+Bruno_Mars/Iso1iWGXrls_0000005 323.5 336.6 
+Bruno_Mars/Iso1iWGXrls_0000006 353.2 358.8 
+Bruno_Mars/Iso1iWGXrls_0000007 383.9 391.9 
+Bruno_Mars/Iso1iWGXrls_0000008 481.8 487.4 
+Bruno_Mars/Iso1iWGXrls_0000009 493.1 498.6 
+Bruno_Mars/Iso1iWGXrls_0000010 513.7 525.0 

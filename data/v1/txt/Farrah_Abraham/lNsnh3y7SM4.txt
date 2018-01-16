@@ -1,0 +1,9 @@
+POI: 			Farrah_Abraham 
+Youtube ID: 	lNsnh3y7SM4 
+Video length: 	148.6 sec 
+Set (V): 		dev 
+ 
+Farrah_Abraham/lNsnh3y7SM4_0000001 18.7 25.2 
+Farrah_Abraham/lNsnh3y7SM4_0000002 26.7 33.8 
+Farrah_Abraham/lNsnh3y7SM4_0000003 29.8 38.8 
+Farrah_Abraham/lNsnh3y7SM4_0000004 78.2 83.0 

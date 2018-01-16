@@ -1,0 +1,36 @@
+POI: 			Jillian_Harris 
+Youtube ID: 	V5MSKuwJVso 
+Video length: 	543.8 sec 
+Set (V): 		dev 
+ 
+Jillian_Harris/V5MSKuwJVso_0000001 25.5 45.6 
+Jillian_Harris/V5MSKuwJVso_0000002 52.0 65.9 
+Jillian_Harris/V5MSKuwJVso_0000003 78.3 85.9 
+Jillian_Harris/V5MSKuwJVso_0000004 88.0 100.1 
+Jillian_Harris/V5MSKuwJVso_0000005 106.7 115.6 
+Jillian_Harris/V5MSKuwJVso_0000006 120.8 124.9 
+Jillian_Harris/V5MSKuwJVso_0000007 138.3 148.1 
+Jillian_Harris/V5MSKuwJVso_0000008 158.9 164.5 
+Jillian_Harris/V5MSKuwJVso_0000009 182.8 199.5 
+Jillian_Harris/V5MSKuwJVso_0000010 201.8 211.8 
+Jillian_Harris/V5MSKuwJVso_0000011 217.3 222.1 
+Jillian_Harris/V5MSKuwJVso_0000012 225.3 235.4 
+Jillian_Harris/V5MSKuwJVso_0000013 237.4 245.6 
+Jillian_Harris/V5MSKuwJVso_0000014 247.9 254.6 
+Jillian_Harris/V5MSKuwJVso_0000015 261.0 267.9 
+Jillian_Harris/V5MSKuwJVso_0000016 270.2 274.8 
+Jillian_Harris/V5MSKuwJVso_0000017 277.4 283.6 
+Jillian_Harris/V5MSKuwJVso_0000018 286.3 293.7 
+Jillian_Harris/V5MSKuwJVso_0000019 296.1 302.8 
+Jillian_Harris/V5MSKuwJVso_0000020 318.1 331.0 
+Jillian_Harris/V5MSKuwJVso_0000021 342.8 350.0 
+Jillian_Harris/V5MSKuwJVso_0000022 352.0 357.9 
+Jillian_Harris/V5MSKuwJVso_0000023 361.0 366.1 
+Jillian_Harris/V5MSKuwJVso_0000024 373.6 384.5 
+Jillian_Harris/V5MSKuwJVso_0000025 387.5 406.4 
+Jillian_Harris/V5MSKuwJVso_0000026 401.0 406.2 
+Jillian_Harris/V5MSKuwJVso_0000027 408.3 417.6 
+Jillian_Harris/V5MSKuwJVso_0000028 418.9 434.8 
+Jillian_Harris/V5MSKuwJVso_0000029 451.9 465.8 
+Jillian_Harris/V5MSKuwJVso_0000030 478.9 485.3 
+Jillian_Harris/V5MSKuwJVso_0000031 521.5 529.2 

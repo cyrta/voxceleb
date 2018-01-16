@@ -1,0 +1,8 @@
+POI: 			Tye_Sheridan 
+Youtube ID: 	Dt4f_fZUhO0 
+Video length: 	348.4 sec 
+Set (V): 		dev 
+ 
+Tye_Sheridan/Dt4f_fZUhO0_0000001 213.8 218.1 
+Tye_Sheridan/Dt4f_fZUhO0_0000002 225.2 229.6 
+Tye_Sheridan/Dt4f_fZUhO0_0000003 230.8 237.0 

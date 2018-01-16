@@ -1,0 +1,27 @@
+POI: 			Russell_Peters 
+Youtube ID: 	8vujq5IUBFA 
+Video length: 	725.6 sec 
+Set (V): 		dev 
+ 
+Russell_Peters/8vujq5IUBFA_0000001 66.6 70.7 
+Russell_Peters/8vujq5IUBFA_0000002 105.0 109.7 
+Russell_Peters/8vujq5IUBFA_0000003 137.6 141.9 
+Russell_Peters/8vujq5IUBFA_0000004 143.4 154.8 
+Russell_Peters/8vujq5IUBFA_0000005 155.0 159.7 
+Russell_Peters/8vujq5IUBFA_0000006 177.9 182.5 
+Russell_Peters/8vujq5IUBFA_0000007 184.7 191.4 
+Russell_Peters/8vujq5IUBFA_0000008 258.7 269.3 
+Russell_Peters/8vujq5IUBFA_0000009 271.6 279.3 
+Russell_Peters/8vujq5IUBFA_0000010 279.8 283.9 
+Russell_Peters/8vujq5IUBFA_0000011 295.6 305.3 
+Russell_Peters/8vujq5IUBFA_0000012 370.5 381.6 
+Russell_Peters/8vujq5IUBFA_0000013 396.7 401.9 
+Russell_Peters/8vujq5IUBFA_0000014 456.9 460.8 
+Russell_Peters/8vujq5IUBFA_0000015 479.9 484.6 
+Russell_Peters/8vujq5IUBFA_0000016 494.7 499.5 
+Russell_Peters/8vujq5IUBFA_0000017 510.6 515.3 
+Russell_Peters/8vujq5IUBFA_0000018 603.2 610.7 
+Russell_Peters/8vujq5IUBFA_0000019 620.8 625.8 
+Russell_Peters/8vujq5IUBFA_0000020 644.2 650.5 
+Russell_Peters/8vujq5IUBFA_0000021 666.7 672.1 
+Russell_Peters/8vujq5IUBFA_0000022 693.0 698.7 

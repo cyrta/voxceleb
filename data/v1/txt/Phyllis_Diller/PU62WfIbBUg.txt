@@ -1,0 +1,17 @@
+POI: 			Phyllis_Diller 
+Youtube ID: 	PU62WfIbBUg 
+Video length: 	345.9 sec 
+Set (V): 		dev 
+ 
+Phyllis_Diller/PU62WfIbBUg_0000001 23.6 29.2 
+Phyllis_Diller/PU62WfIbBUg_0000002 45.7 52.6 
+Phyllis_Diller/PU62WfIbBUg_0000003 65.6 82.5 
+Phyllis_Diller/PU62WfIbBUg_0000004 91.3 97.8 
+Phyllis_Diller/PU62WfIbBUg_0000005 130.3 143.4 
+Phyllis_Diller/PU62WfIbBUg_0000006 156.6 161.0 
+Phyllis_Diller/PU62WfIbBUg_0000007 161.1 170.0 
+Phyllis_Diller/PU62WfIbBUg_0000008 170.6 174.6 
+Phyllis_Diller/PU62WfIbBUg_0000009 246.4 259.0 
+Phyllis_Diller/PU62WfIbBUg_0000010 266.3 270.7 
+Phyllis_Diller/PU62WfIbBUg_0000011 276.8 281.8 
+Phyllis_Diller/PU62WfIbBUg_0000012 318.3 324.1 

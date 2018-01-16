@@ -1,0 +1,26 @@
+POI: 			Tye_Sheridan 
+Youtube ID: 	zcY-LCer9dQ 
+Video length: 	1435.9 sec 
+Set (V): 		dev 
+ 
+Tye_Sheridan/zcY-LCer9dQ_0000001 30.7 37.3 
+Tye_Sheridan/zcY-LCer9dQ_0000002 86.1 90.1 
+Tye_Sheridan/zcY-LCer9dQ_0000003 203.7 207.7 
+Tye_Sheridan/zcY-LCer9dQ_0000004 358.1 363.3 
+Tye_Sheridan/zcY-LCer9dQ_0000005 384.6 392.8 
+Tye_Sheridan/zcY-LCer9dQ_0000006 434.8 440.6 
+Tye_Sheridan/zcY-LCer9dQ_0000007 482.5 486.6 
+Tye_Sheridan/zcY-LCer9dQ_0000008 487.4 493.3 
+Tye_Sheridan/zcY-LCer9dQ_0000009 505.1 510.8 
+Tye_Sheridan/zcY-LCer9dQ_0000010 592.8 599.4 
+Tye_Sheridan/zcY-LCer9dQ_0000011 711.1 717.0 
+Tye_Sheridan/zcY-LCer9dQ_0000012 718.5 724.8 
+Tye_Sheridan/zcY-LCer9dQ_0000013 837.6 842.5 
+Tye_Sheridan/zcY-LCer9dQ_0000014 867.2 878.6 
+Tye_Sheridan/zcY-LCer9dQ_0000015 893.9 898.4 
+Tye_Sheridan/zcY-LCer9dQ_0000016 1042.5 1046.6 
+Tye_Sheridan/zcY-LCer9dQ_0000017 1192.1 1197.2 
+Tye_Sheridan/zcY-LCer9dQ_0000018 1248.4 1252.9 
+Tye_Sheridan/zcY-LCer9dQ_0000019 1272.6 1279.5 
+Tye_Sheridan/zcY-LCer9dQ_0000020 1353.1 1359.1 
+Tye_Sheridan/zcY-LCer9dQ_0000021 1419.3 1426.3 

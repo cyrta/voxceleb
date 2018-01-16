@@ -1,0 +1,11 @@
+POI: 			Doutzen_Kroes 
+Youtube ID: 	JYInvL2x9rU 
+Video length: 	179.5 sec 
+Set (V): 		dev 
+ 
+Doutzen_Kroes/JYInvL2x9rU_0000001 60.1 64.9 
+Doutzen_Kroes/JYInvL2x9rU_0000002 66.0 71.5 
+Doutzen_Kroes/JYInvL2x9rU_0000003 73.0 77.3 
+Doutzen_Kroes/JYInvL2x9rU_0000004 87.3 92.3 
+Doutzen_Kroes/JYInvL2x9rU_0000005 94.8 99.2 
+Doutzen_Kroes/JYInvL2x9rU_0000006 109.9 114.3 

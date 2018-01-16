@@ -1,0 +1,9 @@
+POI: 			Blake_Michael 
+Youtube ID: 	koAtdlykfps 
+Video length: 	193.8 sec 
+Set (V): 		dev 
+ 
+Blake_Michael/koAtdlykfps_0000001 09.0 19.2 
+Blake_Michael/koAtdlykfps_0000002 37.0 42.5 
+Blake_Michael/koAtdlykfps_0000003 50.7 64.4 
+Blake_Michael/koAtdlykfps_0000004 67.2 72.7 

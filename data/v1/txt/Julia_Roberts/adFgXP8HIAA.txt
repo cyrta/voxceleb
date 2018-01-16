@@ -1,0 +1,16 @@
+POI: 			Julia_Roberts 
+Youtube ID: 	adFgXP8HIAA 
+Video length: 	291.6 sec 
+Set (V): 		dev 
+ 
+Julia_Roberts/adFgXP8HIAA_0000001 32.0 41.4 
+Julia_Roberts/adFgXP8HIAA_0000002 76.2 86.9 
+Julia_Roberts/adFgXP8HIAA_0000003 110.1 118.6 
+Julia_Roberts/adFgXP8HIAA_0000004 123.4 132.1 
+Julia_Roberts/adFgXP8HIAA_0000005 138.0 148.2 
+Julia_Roberts/adFgXP8HIAA_0000006 161.4 169.0 
+Julia_Roberts/adFgXP8HIAA_0000007 174.1 188.3 
+Julia_Roberts/adFgXP8HIAA_0000008 189.3 197.3 
+Julia_Roberts/adFgXP8HIAA_0000009 210.4 215.6 
+Julia_Roberts/adFgXP8HIAA_0000010 224.0 230.4 
+Julia_Roberts/adFgXP8HIAA_0000011 238.6 249.5 

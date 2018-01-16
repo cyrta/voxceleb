@@ -1,0 +1,7 @@
+POI: 			Alex_Pettyfer 
+Youtube ID: 	f2JB1W90k4o 
+Video length: 	558.0 sec 
+Set (V): 		dev 
+ 
+Alex_Pettyfer/f2JB1W90k4o_0000001 301.2 306.8 
+Alex_Pettyfer/f2JB1W90k4o_0000002 307.2 313.6 

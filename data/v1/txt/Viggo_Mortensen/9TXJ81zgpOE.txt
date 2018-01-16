@@ -1,0 +1,9 @@
+POI: 			Viggo_Mortensen 
+Youtube ID: 	9TXJ81zgpOE 
+Video length: 	206.8 sec 
+Set (V): 		dev 
+ 
+Viggo_Mortensen/9TXJ81zgpOE_0000001 98.1 104.2 
+Viggo_Mortensen/9TXJ81zgpOE_0000002 128.1 144.1 
+Viggo_Mortensen/9TXJ81zgpOE_0000003 150.4 155.8 
+Viggo_Mortensen/9TXJ81zgpOE_0000004 185.4 192.3 

@@ -1,0 +1,13 @@
+POI: 			Tilda_Swinton 
+Youtube ID: 	tT2onYjtb-4 
+Video length: 	144.0 sec 
+Set (V): 		dev 
+ 
+Tilda_Swinton/tT2onYjtb-4_0000001 16.4 22.0 
+Tilda_Swinton/tT2onYjtb-4_0000002 22.4 38.4 
+Tilda_Swinton/tT2onYjtb-4_0000003 40.2 44.6 
+Tilda_Swinton/tT2onYjtb-4_0000004 52.9 57.5 
+Tilda_Swinton/tT2onYjtb-4_0000005 57.8 63.2 
+Tilda_Swinton/tT2onYjtb-4_0000006 77.3 82.3 
+Tilda_Swinton/tT2onYjtb-4_0000007 89.1 125.2 
+Tilda_Swinton/tT2onYjtb-4_0000008 125.8 132.4 

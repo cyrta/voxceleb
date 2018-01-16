@@ -1,0 +1,15 @@
+POI: 			Derek_Theler 
+Youtube ID: 	LOnbkIq5VDY 
+Video length: 	340.7 sec 
+Set (V): 		dev 
+ 
+Derek_Theler/LOnbkIq5VDY_0000001 34.6 67.2 
+Derek_Theler/LOnbkIq5VDY_0000002 82.8 100.0 
+Derek_Theler/LOnbkIq5VDY_0000003 105.4 129.1 
+Derek_Theler/LOnbkIq5VDY_0000004 140.2 173.2 
+Derek_Theler/LOnbkIq5VDY_0000005 184.0 199.4 
+Derek_Theler/LOnbkIq5VDY_0000006 212.8 241.4 
+Derek_Theler/LOnbkIq5VDY_0000007 252.9 260.6 
+Derek_Theler/LOnbkIq5VDY_0000008 261.8 280.4 
+Derek_Theler/LOnbkIq5VDY_0000009 267.7 294.8 
+Derek_Theler/LOnbkIq5VDY_0000010 307.1 317.5 

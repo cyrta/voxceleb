@@ -1,0 +1,17 @@
+POI: 			Josh_Henderson 
+Youtube ID: 	vm7TQNQec34 
+Video length: 	231.0 sec 
+Set (V): 		dev 
+ 
+Josh_Henderson/vm7TQNQec34_0000001 11.9 17.4 
+Josh_Henderson/vm7TQNQec34_0000002 18.3 24.8 
+Josh_Henderson/vm7TQNQec34_0000003 25.5 31.4 
+Josh_Henderson/vm7TQNQec34_0000004 33.5 38.0 
+Josh_Henderson/vm7TQNQec34_0000005 53.3 59.1 
+Josh_Henderson/vm7TQNQec34_0000006 60.2 64.4 
+Josh_Henderson/vm7TQNQec34_0000007 66.6 70.9 
+Josh_Henderson/vm7TQNQec34_0000008 72.1 82.7 
+Josh_Henderson/vm7TQNQec34_0000009 143.0 150.1 
+Josh_Henderson/vm7TQNQec34_0000010 153.8 158.3 
+Josh_Henderson/vm7TQNQec34_0000011 176.2 182.4 
+Josh_Henderson/vm7TQNQec34_0000012 192.1 197.4 

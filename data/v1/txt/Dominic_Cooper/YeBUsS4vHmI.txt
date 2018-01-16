@@ -1,0 +1,13 @@
+POI: 			Dominic_Cooper 
+Youtube ID: 	YeBUsS4vHmI 
+Video length: 	205.0 sec 
+Set (V): 		dev 
+ 
+Dominic_Cooper/YeBUsS4vHmI_0000001 06.2 13.3 
+Dominic_Cooper/YeBUsS4vHmI_0000002 26.0 30.0 
+Dominic_Cooper/YeBUsS4vHmI_0000003 41.3 45.7 
+Dominic_Cooper/YeBUsS4vHmI_0000004 58.4 63.0 
+Dominic_Cooper/YeBUsS4vHmI_0000005 66.5 70.8 
+Dominic_Cooper/YeBUsS4vHmI_0000006 123.1 129.3 
+Dominic_Cooper/YeBUsS4vHmI_0000007 131.5 138.0 
+Dominic_Cooper/YeBUsS4vHmI_0000008 146.2 150.4 

@@ -1,0 +1,16 @@
+POI: 			Kate_Mara 
+Youtube ID: 	PDfBidpJ5Jc 
+Video length: 	194.5 sec 
+Set (V): 		dev 
+ 
+Kate_Mara/PDfBidpJ5Jc_0000001 08.7 13.6 
+Kate_Mara/PDfBidpJ5Jc_0000002 16.8 23.2 
+Kate_Mara/PDfBidpJ5Jc_0000003 36.1 46.2 
+Kate_Mara/PDfBidpJ5Jc_0000004 46.4 56.0 
+Kate_Mara/PDfBidpJ5Jc_0000005 72.4 81.7 
+Kate_Mara/PDfBidpJ5Jc_0000006 96.6 101.8 
+Kate_Mara/PDfBidpJ5Jc_0000007 106.2 115.5 
+Kate_Mara/PDfBidpJ5Jc_0000008 127.1 132.7 
+Kate_Mara/PDfBidpJ5Jc_0000009 147.0 152.8 
+Kate_Mara/PDfBidpJ5Jc_0000010 163.7 169.0 
+Kate_Mara/PDfBidpJ5Jc_0000011 181.8 185.9 

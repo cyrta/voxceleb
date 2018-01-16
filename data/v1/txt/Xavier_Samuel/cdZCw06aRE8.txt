@@ -1,0 +1,16 @@
+POI: 			Xavier_Samuel 
+Youtube ID: 	cdZCw06aRE8 
+Video length: 	432.9 sec 
+Set (V): 		dev 
+ 
+Xavier_Samuel/cdZCw06aRE8_0000001 13.4 17.8 
+Xavier_Samuel/cdZCw06aRE8_0000002 175.6 181.0 
+Xavier_Samuel/cdZCw06aRE8_0000003 186.7 191.2 
+Xavier_Samuel/cdZCw06aRE8_0000004 191.5 200.2 
+Xavier_Samuel/cdZCw06aRE8_0000005 234.0 238.0 
+Xavier_Samuel/cdZCw06aRE8_0000006 310.3 314.3 
+Xavier_Samuel/cdZCw06aRE8_0000007 352.3 357.5 
+Xavier_Samuel/cdZCw06aRE8_0000008 357.7 363.2 
+Xavier_Samuel/cdZCw06aRE8_0000009 365.4 370.5 
+Xavier_Samuel/cdZCw06aRE8_0000010 374.4 381.0 
+Xavier_Samuel/cdZCw06aRE8_0000011 384.5 390.8 

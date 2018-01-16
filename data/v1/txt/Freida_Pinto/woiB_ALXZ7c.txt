@@ -1,0 +1,10 @@
+POI: 			Freida_Pinto 
+Youtube ID: 	woiB_ALXZ7c 
+Video length: 	164.9 sec 
+Set (V): 		dev 
+ 
+Freida_Pinto/woiB_ALXZ7c_0000001 36.2 42.1 
+Freida_Pinto/woiB_ALXZ7c_0000002 70.6 74.7 
+Freida_Pinto/woiB_ALXZ7c_0000003 90.0 110.1 
+Freida_Pinto/woiB_ALXZ7c_0000004 133.3 138.3 
+Freida_Pinto/woiB_ALXZ7c_0000005 141.0 148.1 

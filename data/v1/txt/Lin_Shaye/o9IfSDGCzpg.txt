@@ -1,0 +1,9 @@
+POI: 			Lin_Shaye 
+Youtube ID: 	o9IfSDGCzpg 
+Video length: 	239.1 sec 
+Set (V): 		dev 
+ 
+Lin_Shaye/o9IfSDGCzpg_0000001 51.0 55.6 
+Lin_Shaye/o9IfSDGCzpg_0000002 73.7 80.8 
+Lin_Shaye/o9IfSDGCzpg_0000003 133.6 138.2 
+Lin_Shaye/o9IfSDGCzpg_0000004 142.8 149.8 

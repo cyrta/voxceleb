@@ -1,0 +1,11 @@
+POI: 			Della_Reese 
+Youtube ID: 	KT5x2E6oJ4s 
+Video length: 	105.8 sec 
+Set (V): 		dev 
+ 
+Della_Reese/KT5x2E6oJ4s_0000001 06.5 13.1 
+Della_Reese/KT5x2E6oJ4s_0000002 15.7 30.9 
+Della_Reese/KT5x2E6oJ4s_0000003 42.0 49.3 
+Della_Reese/KT5x2E6oJ4s_0000004 50.6 54.8 
+Della_Reese/KT5x2E6oJ4s_0000005 59.2 64.0 
+Della_Reese/KT5x2E6oJ4s_0000006 64.7 77.1 

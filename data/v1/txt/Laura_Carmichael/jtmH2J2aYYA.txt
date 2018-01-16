@@ -1,0 +1,13 @@
+POI: 			Laura_Carmichael 
+Youtube ID: 	jtmH2J2aYYA 
+Video length: 	270.8 sec 
+Set (V): 		dev 
+ 
+Laura_Carmichael/jtmH2J2aYYA_0000001 18.5 27.4 
+Laura_Carmichael/jtmH2J2aYYA_0000002 51.9 56.5 
+Laura_Carmichael/jtmH2J2aYYA_0000003 60.6 65.1 
+Laura_Carmichael/jtmH2J2aYYA_0000004 73.6 80.8 
+Laura_Carmichael/jtmH2J2aYYA_0000005 90.2 94.2 
+Laura_Carmichael/jtmH2J2aYYA_0000006 107.3 113.4 
+Laura_Carmichael/jtmH2J2aYYA_0000007 128.4 136.9 
+Laura_Carmichael/jtmH2J2aYYA_0000008 210.9 215.6 

@@ -1,0 +1,19 @@
+POI: 			Eric_Braeden 
+Youtube ID: 	1l9B0dz7gjc 
+Video length: 	295.8 sec 
+Set (V): 		test 
+ 
+Eric_Braeden/1l9B0dz7gjc_0000001 13.7 20.3 
+Eric_Braeden/1l9B0dz7gjc_0000002 50.1 56.2 
+Eric_Braeden/1l9B0dz7gjc_0000003 67.9 73.4 
+Eric_Braeden/1l9B0dz7gjc_0000004 73.8 88.7 
+Eric_Braeden/1l9B0dz7gjc_0000005 98.8 103.3 
+Eric_Braeden/1l9B0dz7gjc_0000006 103.7 115.7 
+Eric_Braeden/1l9B0dz7gjc_0000007 126.5 132.2 
+Eric_Braeden/1l9B0dz7gjc_0000008 160.3 176.8 
+Eric_Braeden/1l9B0dz7gjc_0000009 187.6 191.6 
+Eric_Braeden/1l9B0dz7gjc_0000010 205.0 211.6 
+Eric_Braeden/1l9B0dz7gjc_0000011 212.0 221.7 
+Eric_Braeden/1l9B0dz7gjc_0000012 231.1 235.6 
+Eric_Braeden/1l9B0dz7gjc_0000013 239.6 243.7 
+Eric_Braeden/1l9B0dz7gjc_0000014 273.5 277.6 

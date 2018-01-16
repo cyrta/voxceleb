@@ -1,0 +1,7 @@
+POI: 			Doutzen_Kroes 
+Youtube ID: 	IQ0yBIiCLCQ 
+Video length: 	172.4 sec 
+Set (V): 		dev 
+ 
+Doutzen_Kroes/IQ0yBIiCLCQ_0000001 68.8 73.2 
+Doutzen_Kroes/IQ0yBIiCLCQ_0000002 123.2 129.5 

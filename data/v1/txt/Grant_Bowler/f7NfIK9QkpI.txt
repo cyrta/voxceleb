@@ -1,0 +1,7 @@
+POI: 			Grant_Bowler 
+Youtube ID: 	f7NfIK9QkpI 
+Video length: 	187.9 sec 
+Set (V): 		dev 
+ 
+Grant_Bowler/f7NfIK9QkpI_0000001 56.6 61.5 
+Grant_Bowler/f7NfIK9QkpI_0000002 66.3 71.2 

@@ -1,0 +1,6 @@
+POI: 			Hill_Harper 
+Youtube ID: 	7lCDkTifwf4 
+Video length: 	900.3 sec 
+Set (V): 		dev 
+ 
+Hill_Harper/7lCDkTifwf4_0000001 529.0 533.0 

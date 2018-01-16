@@ -1,0 +1,8 @@
+POI: 			Kenya_Moore 
+Youtube ID: 	689Dj4V1pCg 
+Video length: 	305.3 sec 
+Set (V): 		dev 
+ 
+Kenya_Moore/689Dj4V1pCg_0000001 132.9 143.3 
+Kenya_Moore/689Dj4V1pCg_0000002 203.4 210.4 
+Kenya_Moore/689Dj4V1pCg_0000003 231.4 241.6 

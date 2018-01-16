@@ -1,0 +1,12 @@
+POI: 			Kelly_Macdonald 
+Youtube ID: 	mmqis4logQY 
+Video length: 	478.2 sec 
+Set (V): 		dev 
+ 
+Kelly_Macdonald/mmqis4logQY_0000001 53.9 58.7 
+Kelly_Macdonald/mmqis4logQY_0000002 114.5 120.7 
+Kelly_Macdonald/mmqis4logQY_0000003 234.7 243.3 
+Kelly_Macdonald/mmqis4logQY_0000004 244.0 248.8 
+Kelly_Macdonald/mmqis4logQY_0000005 299.8 306.3 
+Kelly_Macdonald/mmqis4logQY_0000006 307.2 312.7 
+Kelly_Macdonald/mmqis4logQY_0000007 437.3 443.1 

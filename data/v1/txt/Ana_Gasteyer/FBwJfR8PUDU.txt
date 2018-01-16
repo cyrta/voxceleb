@@ -1,0 +1,10 @@
+POI: 			Ana_Gasteyer 
+Youtube ID: 	FBwJfR8PUDU 
+Video length: 	94.2 sec 
+Set (V): 		dev 
+ 
+Ana_Gasteyer/FBwJfR8PUDU_0000001 29.1 37.0 
+Ana_Gasteyer/FBwJfR8PUDU_0000002 50.6 56.0 
+Ana_Gasteyer/FBwJfR8PUDU_0000003 56.6 60.6 
+Ana_Gasteyer/FBwJfR8PUDU_0000004 68.0 75.6 
+Ana_Gasteyer/FBwJfR8PUDU_0000005 78.2 83.6 

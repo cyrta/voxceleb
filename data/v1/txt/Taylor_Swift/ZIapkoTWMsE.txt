@@ -1,0 +1,21 @@
+POI: 			Taylor_Swift 
+Youtube ID: 	ZIapkoTWMsE 
+Video length: 	581.8 sec 
+Set (V): 		dev 
+ 
+Taylor_Swift/ZIapkoTWMsE_0000001 09.0 17.8 
+Taylor_Swift/ZIapkoTWMsE_0000002 49.9 56.5 
+Taylor_Swift/ZIapkoTWMsE_0000003 106.0 114.0 
+Taylor_Swift/ZIapkoTWMsE_0000004 187.3 191.9 
+Taylor_Swift/ZIapkoTWMsE_0000005 203.4 208.6 
+Taylor_Swift/ZIapkoTWMsE_0000006 217.7 239.6 
+Taylor_Swift/ZIapkoTWMsE_0000007 253.6 260.9 
+Taylor_Swift/ZIapkoTWMsE_0000008 261.9 266.0 
+Taylor_Swift/ZIapkoTWMsE_0000009 313.8 323.2 
+Taylor_Swift/ZIapkoTWMsE_0000010 327.0 335.2 
+Taylor_Swift/ZIapkoTWMsE_0000011 349.2 356.9 
+Taylor_Swift/ZIapkoTWMsE_0000012 364.3 373.2 
+Taylor_Swift/ZIapkoTWMsE_0000013 396.3 404.8 
+Taylor_Swift/ZIapkoTWMsE_0000014 452.4 457.0 
+Taylor_Swift/ZIapkoTWMsE_0000015 475.7 486.4 
+Taylor_Swift/ZIapkoTWMsE_0000016 492.2 498.7 

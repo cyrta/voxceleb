@@ -1,0 +1,9 @@
+POI: 			David_Wenham 
+Youtube ID: 	nFsLS0Dtij8 
+Video length: 	150.2 sec 
+Set (V): 		dev 
+ 
+David_Wenham/nFsLS0Dtij8_0000001 03.4 08.5 
+David_Wenham/nFsLS0Dtij8_0000002 75.6 83.0 
+David_Wenham/nFsLS0Dtij8_0000003 88.2 94.7 
+David_Wenham/nFsLS0Dtij8_0000004 111.8 116.1 

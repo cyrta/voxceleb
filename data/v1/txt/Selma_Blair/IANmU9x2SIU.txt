@@ -1,0 +1,8 @@
+POI: 			Selma_Blair 
+Youtube ID: 	IANmU9x2SIU 
+Video length: 	148.9 sec 
+Set (V): 		dev 
+ 
+Selma_Blair/IANmU9x2SIU_0000001 24.7 31.2 
+Selma_Blair/IANmU9x2SIU_0000002 33.4 37.6 
+Selma_Blair/IANmU9x2SIU_0000003 47.2 52.2 

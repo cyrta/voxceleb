@@ -1,0 +1,18 @@
+POI: 			Marilu_Henner 
+Youtube ID: 	y6motEnPmb4 
+Video length: 	275.5 sec 
+Set (V): 		dev 
+ 
+Marilu_Henner/y6motEnPmb4_0000001 06.5 52.7 
+Marilu_Henner/y6motEnPmb4_0000002 54.8 70.7 
+Marilu_Henner/y6motEnPmb4_0000003 71.2 80.2 
+Marilu_Henner/y6motEnPmb4_0000004 97.7 111.0 
+Marilu_Henner/y6motEnPmb4_0000005 65.6 100.0 
+Marilu_Henner/y6motEnPmb4_0000006 113.5 117.8 
+Marilu_Henner/y6motEnPmb4_0000007 118.8 139.8 
+Marilu_Henner/y6motEnPmb4_0000008 141.7 146.2 
+Marilu_Henner/y6motEnPmb4_0000009 148.2 157.1 
+Marilu_Henner/y6motEnPmb4_0000010 159.4 178.3 
+Marilu_Henner/y6motEnPmb4_0000011 180.4 202.7 
+Marilu_Henner/y6motEnPmb4_0000012 204.8 232.9 
+Marilu_Henner/y6motEnPmb4_0000013 234.2 258.6 

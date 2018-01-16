@@ -1,0 +1,7 @@
+POI: 			Anton_Yelchin 
+Youtube ID: 	eOMg04iKdKU 
+Video length: 	348.8 sec 
+Set (V): 		dev 
+ 
+Anton_Yelchin/eOMg04iKdKU_0000001 49.5 55.0 
+Anton_Yelchin/eOMg04iKdKU_0000002 176.7 182.0 

@@ -1,0 +1,15 @@
+POI: 			Nathalie_Emmanuel 
+Youtube ID: 	27nwjOANs78 
+Video length: 	266.5 sec 
+Set (V): 		dev 
+ 
+Nathalie_Emmanuel/27nwjOANs78_0000001 53.1 57.2 
+Nathalie_Emmanuel/27nwjOANs78_0000002 63.3 67.7 
+Nathalie_Emmanuel/27nwjOANs78_0000003 73.2 78.7 
+Nathalie_Emmanuel/27nwjOANs78_0000004 103.6 111.6 
+Nathalie_Emmanuel/27nwjOANs78_0000005 113.4 119.6 
+Nathalie_Emmanuel/27nwjOANs78_0000006 125.6 130.7 
+Nathalie_Emmanuel/27nwjOANs78_0000007 167.6 180.4 
+Nathalie_Emmanuel/27nwjOANs78_0000008 198.7 203.5 
+Nathalie_Emmanuel/27nwjOANs78_0000009 221.4 226.1 
+Nathalie_Emmanuel/27nwjOANs78_0000010 254.5 259.3 

@@ -1,0 +1,27 @@
+POI: 			William_Fichtner 
+Youtube ID: 	5PNDuB9nW-0 
+Video length: 	390.4 sec 
+Set (V): 		dev 
+ 
+William_Fichtner/5PNDuB9nW-0_0000001 18.1 25.1 
+William_Fichtner/5PNDuB9nW-0_0000002 25.6 43.9 
+William_Fichtner/5PNDuB9nW-0_0000003 45.2 51.0 
+William_Fichtner/5PNDuB9nW-0_0000004 51.4 60.5 
+William_Fichtner/5PNDuB9nW-0_0000005 64.6 69.8 
+William_Fichtner/5PNDuB9nW-0_0000006 85.4 89.6 
+William_Fichtner/5PNDuB9nW-0_0000007 92.2 99.7 
+William_Fichtner/5PNDuB9nW-0_0000008 114.6 127.7 
+William_Fichtner/5PNDuB9nW-0_0000009 130.6 134.8 
+William_Fichtner/5PNDuB9nW-0_0000010 135.5 146.6 
+William_Fichtner/5PNDuB9nW-0_0000011 148.2 153.9 
+William_Fichtner/5PNDuB9nW-0_0000012 220.0 229.3 
+William_Fichtner/5PNDuB9nW-0_0000013 229.7 234.9 
+William_Fichtner/5PNDuB9nW-0_0000014 235.6 240.4 
+William_Fichtner/5PNDuB9nW-0_0000015 256.7 262.4 
+William_Fichtner/5PNDuB9nW-0_0000016 287.7 294.4 
+William_Fichtner/5PNDuB9nW-0_0000017 297.4 301.7 
+William_Fichtner/5PNDuB9nW-0_0000018 303.8 312.6 
+William_Fichtner/5PNDuB9nW-0_0000019 320.6 327.4 
+William_Fichtner/5PNDuB9nW-0_0000020 335.9 345.7 
+William_Fichtner/5PNDuB9nW-0_0000021 348.2 352.5 
+William_Fichtner/5PNDuB9nW-0_0000022 365.6 369.6 

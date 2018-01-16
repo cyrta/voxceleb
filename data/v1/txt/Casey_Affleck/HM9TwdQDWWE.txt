@@ -1,0 +1,7 @@
+POI: 			Casey_Affleck 
+Youtube ID: 	HM9TwdQDWWE 
+Video length: 	135.7 sec 
+Set (V): 		dev 
+ 
+Casey_Affleck/HM9TwdQDWWE_0000001 46.5 65.0 
+Casey_Affleck/HM9TwdQDWWE_0000002 65.7 72.2 

@@ -1,0 +1,19 @@
+POI: 			Miriam_Margolyes 
+Youtube ID: 	GCYGS0UZjTU 
+Video length: 	499.9 sec 
+Set (V): 		dev 
+ 
+Miriam_Margolyes/GCYGS0UZjTU_0000001 65.9 70.0 
+Miriam_Margolyes/GCYGS0UZjTU_0000002 147.6 161.6 
+Miriam_Margolyes/GCYGS0UZjTU_0000003 174.6 183.4 
+Miriam_Margolyes/GCYGS0UZjTU_0000004 184.4 193.3 
+Miriam_Margolyes/GCYGS0UZjTU_0000005 217.9 233.8 
+Miriam_Margolyes/GCYGS0UZjTU_0000006 246.4 252.7 
+Miriam_Margolyes/GCYGS0UZjTU_0000007 258.0 267.4 
+Miriam_Margolyes/GCYGS0UZjTU_0000008 307.4 318.7 
+Miriam_Margolyes/GCYGS0UZjTU_0000009 321.0 325.6 
+Miriam_Margolyes/GCYGS0UZjTU_0000010 339.9 345.8 
+Miriam_Margolyes/GCYGS0UZjTU_0000011 367.9 384.3 
+Miriam_Margolyes/GCYGS0UZjTU_0000012 422.6 427.7 
+Miriam_Margolyes/GCYGS0UZjTU_0000013 437.4 448.0 
+Miriam_Margolyes/GCYGS0UZjTU_0000014 452.7 458.4 

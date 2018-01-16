@@ -1,0 +1,8 @@
+POI: 			Marla_Gibbs 
+Youtube ID: 	Fg6lBL8kueQ 
+Video length: 	398.3 sec 
+Set (V): 		dev 
+ 
+Marla_Gibbs/Fg6lBL8kueQ_0000001 98.0 105.8 
+Marla_Gibbs/Fg6lBL8kueQ_0000002 200.4 215.1 
+Marla_Gibbs/Fg6lBL8kueQ_0000003 309.1 315.0 

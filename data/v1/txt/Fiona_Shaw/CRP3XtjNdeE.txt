@@ -1,0 +1,17 @@
+POI: 			Fiona_Shaw 
+Youtube ID: 	CRP3XtjNdeE 
+Video length: 	378.9 sec 
+Set (V): 		dev 
+ 
+Fiona_Shaw/CRP3XtjNdeE_0000001 81.2 85.3 
+Fiona_Shaw/CRP3XtjNdeE_0000002 98.7 104.6 
+Fiona_Shaw/CRP3XtjNdeE_0000003 116.6 122.5 
+Fiona_Shaw/CRP3XtjNdeE_0000004 137.5 143.6 
+Fiona_Shaw/CRP3XtjNdeE_0000005 154.4 161.2 
+Fiona_Shaw/CRP3XtjNdeE_0000006 165.6 170.6 
+Fiona_Shaw/CRP3XtjNdeE_0000007 180.3 201.9 
+Fiona_Shaw/CRP3XtjNdeE_0000008 206.1 212.2 
+Fiona_Shaw/CRP3XtjNdeE_0000009 217.3 226.0 
+Fiona_Shaw/CRP3XtjNdeE_0000010 265.2 276.8 
+Fiona_Shaw/CRP3XtjNdeE_0000011 303.5 309.3 
+Fiona_Shaw/CRP3XtjNdeE_0000012 323.4 331.0 

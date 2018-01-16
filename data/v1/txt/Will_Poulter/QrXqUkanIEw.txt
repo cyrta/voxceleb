@@ -1,0 +1,11 @@
+POI: 			Will_Poulter 
+Youtube ID: 	QrXqUkanIEw 
+Video length: 	67.7 sec 
+Set (V): 		dev 
+ 
+Will_Poulter/QrXqUkanIEw_0000001 06.9 12.4 
+Will_Poulter/QrXqUkanIEw_0000002 12.5 21.2 
+Will_Poulter/QrXqUkanIEw_0000003 22.8 31.0 
+Will_Poulter/QrXqUkanIEw_0000004 39.4 49.8 
+Will_Poulter/QrXqUkanIEw_0000005 46.6 53.8 
+Will_Poulter/QrXqUkanIEw_0000006 58.3 62.6 

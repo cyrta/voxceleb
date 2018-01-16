@@ -1,0 +1,8 @@
+POI: 			John_Hurt 
+Youtube ID: 	uNXcl-AE8TA 
+Video length: 	131.0 sec 
+Set (V): 		dev 
+ 
+John_Hurt/uNXcl-AE8TA_0000001 21.2 25.6 
+John_Hurt/uNXcl-AE8TA_0000002 38.8 43.4 
+John_Hurt/uNXcl-AE8TA_0000003 66.1 75.5 

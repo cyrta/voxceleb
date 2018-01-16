@@ -1,0 +1,11 @@
+POI: 			Kevin_Bacon 
+Youtube ID: 	nO2lrNeZ8HE 
+Video length: 	1764.4 sec 
+Set (V): 		dev 
+ 
+Kevin_Bacon/nO2lrNeZ8HE_0000001 1114.5 1119.2 
+Kevin_Bacon/nO2lrNeZ8HE_0000002 1128.9 1137.2 
+Kevin_Bacon/nO2lrNeZ8HE_0000003 1540.5 1546.2 
+Kevin_Bacon/nO2lrNeZ8HE_0000004 1593.1 1601.0 
+Kevin_Bacon/nO2lrNeZ8HE_0000005 1614.6 1620.0 
+Kevin_Bacon/nO2lrNeZ8HE_0000006 1702.8 1708.7 

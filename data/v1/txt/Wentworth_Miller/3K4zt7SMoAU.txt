@@ -1,0 +1,9 @@
+POI: 			Wentworth_Miller 
+Youtube ID: 	3K4zt7SMoAU 
+Video length: 	319.8 sec 
+Set (V): 		dev 
+ 
+Wentworth_Miller/3K4zt7SMoAU_0000001 108.6 113.0 
+Wentworth_Miller/3K4zt7SMoAU_0000002 153.7 159.6 
+Wentworth_Miller/3K4zt7SMoAU_0000003 222.0 228.2 
+Wentworth_Miller/3K4zt7SMoAU_0000004 233.0 237.8 

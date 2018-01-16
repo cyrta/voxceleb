@@ -1,0 +1,8 @@
+POI: 			Gillian_Jacobs 
+Youtube ID: 	ZxQHr7G-Y14 
+Video length: 	836.8 sec 
+Set (V): 		dev 
+ 
+Gillian_Jacobs/ZxQHr7G-Y14_0000001 270.8 274.8 
+Gillian_Jacobs/ZxQHr7G-Y14_0000002 431.0 435.0 
+Gillian_Jacobs/ZxQHr7G-Y14_0000003 523.4 528.2 

@@ -1,0 +1,16 @@
+POI: 			Jonathan_Jackson 
+Youtube ID: 	nbVt_OJTSAw 
+Video length: 	209.8 sec 
+Set (V): 		dev 
+ 
+Jonathan_Jackson/nbVt_OJTSAw_0000001 11.1 16.6 
+Jonathan_Jackson/nbVt_OJTSAw_0000002 18.1 28.4 
+Jonathan_Jackson/nbVt_OJTSAw_0000003 44.8 49.0 
+Jonathan_Jackson/nbVt_OJTSAw_0000004 57.8 61.9 
+Jonathan_Jackson/nbVt_OJTSAw_0000005 68.0 73.6 
+Jonathan_Jackson/nbVt_OJTSAw_0000006 82.1 92.2 
+Jonathan_Jackson/nbVt_OJTSAw_0000007 110.9 116.2 
+Jonathan_Jackson/nbVt_OJTSAw_0000008 142.2 146.3 
+Jonathan_Jackson/nbVt_OJTSAw_0000009 155.1 172.1 
+Jonathan_Jackson/nbVt_OJTSAw_0000010 175.2 181.0 
+Jonathan_Jackson/nbVt_OJTSAw_0000011 198.4 203.4 

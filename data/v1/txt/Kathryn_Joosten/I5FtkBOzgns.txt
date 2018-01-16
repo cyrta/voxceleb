@@ -1,0 +1,11 @@
+POI: 			Kathryn_Joosten 
+Youtube ID: 	I5FtkBOzgns 
+Video length: 	203.6 sec 
+Set (V): 		dev 
+ 
+Kathryn_Joosten/I5FtkBOzgns_0000001 55.5 65.4 
+Kathryn_Joosten/I5FtkBOzgns_0000002 74.9 79.0 
+Kathryn_Joosten/I5FtkBOzgns_0000003 93.5 101.9 
+Kathryn_Joosten/I5FtkBOzgns_0000004 138.8 143.1 
+Kathryn_Joosten/I5FtkBOzgns_0000005 158.3 163.2 
+Kathryn_Joosten/I5FtkBOzgns_0000006 174.4 181.3 

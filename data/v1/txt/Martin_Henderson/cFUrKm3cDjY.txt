@@ -1,0 +1,19 @@
+POI: 			Martin_Henderson 
+Youtube ID: 	cFUrKm3cDjY 
+Video length: 	226.3 sec 
+Set (V): 		dev 
+ 
+Martin_Henderson/cFUrKm3cDjY_0000001 17.0 24.7 
+Martin_Henderson/cFUrKm3cDjY_0000002 28.6 33.0 
+Martin_Henderson/cFUrKm3cDjY_0000003 35.7 40.3 
+Martin_Henderson/cFUrKm3cDjY_0000004 43.0 57.9 
+Martin_Henderson/cFUrKm3cDjY_0000005 59.8 65.8 
+Martin_Henderson/cFUrKm3cDjY_0000006 66.7 70.9 
+Martin_Henderson/cFUrKm3cDjY_0000007 71.6 80.9 
+Martin_Henderson/cFUrKm3cDjY_0000008 91.0 96.4 
+Martin_Henderson/cFUrKm3cDjY_0000009 100.0 108.2 
+Martin_Henderson/cFUrKm3cDjY_0000010 114.3 118.6 
+Martin_Henderson/cFUrKm3cDjY_0000011 120.6 127.8 
+Martin_Henderson/cFUrKm3cDjY_0000012 147.2 151.3 
+Martin_Henderson/cFUrKm3cDjY_0000013 204.5 208.9 
+Martin_Henderson/cFUrKm3cDjY_0000014 214.6 221.7 

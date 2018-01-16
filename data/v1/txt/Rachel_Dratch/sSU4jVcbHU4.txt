@@ -1,0 +1,12 @@
+POI: 			Rachel_Dratch 
+Youtube ID: 	sSU4jVcbHU4 
+Video length: 	2088.5 sec 
+Set (V): 		dev 
+ 
+Rachel_Dratch/sSU4jVcbHU4_0000001 41.0 51.3 
+Rachel_Dratch/sSU4jVcbHU4_0000002 280.6 288.8 
+Rachel_Dratch/sSU4jVcbHU4_0000003 289.5 295.5 
+Rachel_Dratch/sSU4jVcbHU4_0000004 504.0 510.0 
+Rachel_Dratch/sSU4jVcbHU4_0000005 683.1 689.5 
+Rachel_Dratch/sSU4jVcbHU4_0000006 1020.2 1025.2 
+Rachel_Dratch/sSU4jVcbHU4_0000007 1290.2 1295.4 

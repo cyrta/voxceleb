@@ -1,0 +1,25 @@
+POI: 			Richard_E._Grant 
+Youtube ID: 	MPZgVXkmqug 
+Video length: 	320.3 sec 
+Set (V): 		dev 
+ 
+Richard_E._Grant/MPZgVXkmqug_0000001 26.2 31.0 
+Richard_E._Grant/MPZgVXkmqug_0000002 58.9 66.2 
+Richard_E._Grant/MPZgVXkmqug_0000003 66.6 70.8 
+Richard_E._Grant/MPZgVXkmqug_0000004 73.0 82.3 
+Richard_E._Grant/MPZgVXkmqug_0000005 83.5 91.0 
+Richard_E._Grant/MPZgVXkmqug_0000006 91.5 99.3 
+Richard_E._Grant/MPZgVXkmqug_0000007 99.9 107.4 
+Richard_E._Grant/MPZgVXkmqug_0000008 107.8 128.0 
+Richard_E._Grant/MPZgVXkmqug_0000009 166.7 173.6 
+Richard_E._Grant/MPZgVXkmqug_0000010 174.5 179.4 
+Richard_E._Grant/MPZgVXkmqug_0000011 180.3 184.4 
+Richard_E._Grant/MPZgVXkmqug_0000012 185.3 189.5 
+Richard_E._Grant/MPZgVXkmqug_0000013 190.2 203.0 
+Richard_E._Grant/MPZgVXkmqug_0000014 203.2 209.0 
+Richard_E._Grant/MPZgVXkmqug_0000015 226.8 231.5 
+Richard_E._Grant/MPZgVXkmqug_0000016 232.7 236.6 
+Richard_E._Grant/MPZgVXkmqug_0000017 237.1 246.8 
+Richard_E._Grant/MPZgVXkmqug_0000018 247.5 261.4 
+Richard_E._Grant/MPZgVXkmqug_0000019 268.4 282.9 
+Richard_E._Grant/MPZgVXkmqug_0000020 291.2 306.8 

@@ -1,0 +1,9 @@
+POI: 			Cher 
+Youtube ID: 	V6mz8TBA9wo 
+Video length: 	437.5 sec 
+Set (V): 		dev 
+ 
+Cher/V6mz8TBA9wo_0000001 138.0 144.1 
+Cher/V6mz8TBA9wo_0000002 147.6 152.1 
+Cher/V6mz8TBA9wo_0000003 360.7 365.1 
+Cher/V6mz8TBA9wo_0000004 376.3 380.7 

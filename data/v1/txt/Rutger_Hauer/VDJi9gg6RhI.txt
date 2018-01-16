@@ -1,0 +1,22 @@
+POI: 			Rutger_Hauer 
+Youtube ID: 	VDJi9gg6RhI 
+Video length: 	625.2 sec 
+Set (V): 		dev 
+ 
+Rutger_Hauer/VDJi9gg6RhI_0000001 67.2 75.5 
+Rutger_Hauer/VDJi9gg6RhI_0000002 102.9 107.4 
+Rutger_Hauer/VDJi9gg6RhI_0000003 137.7 141.7 
+Rutger_Hauer/VDJi9gg6RhI_0000004 161.8 169.6 
+Rutger_Hauer/VDJi9gg6RhI_0000005 216.8 230.0 
+Rutger_Hauer/VDJi9gg6RhI_0000006 234.9 238.8 
+Rutger_Hauer/VDJi9gg6RhI_0000007 248.9 260.9 
+Rutger_Hauer/VDJi9gg6RhI_0000008 312.2 316.6 
+Rutger_Hauer/VDJi9gg6RhI_0000009 370.7 375.5 
+Rutger_Hauer/VDJi9gg6RhI_0000010 427.7 432.0 
+Rutger_Hauer/VDJi9gg6RhI_0000011 460.6 467.7 
+Rutger_Hauer/VDJi9gg6RhI_0000012 499.2 503.6 
+Rutger_Hauer/VDJi9gg6RhI_0000013 532.8 538.2 
+Rutger_Hauer/VDJi9gg6RhI_0000014 541.8 546.4 
+Rutger_Hauer/VDJi9gg6RhI_0000015 567.4 574.3 
+Rutger_Hauer/VDJi9gg6RhI_0000016 574.5 584.7 
+Rutger_Hauer/VDJi9gg6RhI_0000017 590.2 598.0 

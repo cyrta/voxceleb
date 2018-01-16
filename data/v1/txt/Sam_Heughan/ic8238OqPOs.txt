@@ -1,0 +1,8 @@
+POI: 			Sam_Heughan 
+Youtube ID: 	ic8238OqPOs 
+Video length: 	384.9 sec 
+Set (V): 		dev 
+ 
+Sam_Heughan/ic8238OqPOs_0000001 162.3 169.8 
+Sam_Heughan/ic8238OqPOs_0000002 262.6 269.5 
+Sam_Heughan/ic8238OqPOs_0000003 276.0 280.4 

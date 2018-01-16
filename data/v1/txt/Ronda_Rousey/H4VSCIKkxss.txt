@@ -1,0 +1,20 @@
+POI: 			Ronda_Rousey 
+Youtube ID: 	H4VSCIKkxss 
+Video length: 	388.0 sec 
+Set (V): 		dev 
+ 
+Ronda_Rousey/H4VSCIKkxss_0000001 19.6 27.4 
+Ronda_Rousey/H4VSCIKkxss_0000002 27.5 31.8 
+Ronda_Rousey/H4VSCIKkxss_0000003 67.9 76.2 
+Ronda_Rousey/H4VSCIKkxss_0000004 90.4 96.3 
+Ronda_Rousey/H4VSCIKkxss_0000005 96.8 102.1 
+Ronda_Rousey/H4VSCIKkxss_0000006 132.3 142.2 
+Ronda_Rousey/H4VSCIKkxss_0000007 212.7 222.2 
+Ronda_Rousey/H4VSCIKkxss_0000008 225.1 231.7 
+Ronda_Rousey/H4VSCIKkxss_0000009 253.3 262.7 
+Ronda_Rousey/H4VSCIKkxss_0000010 265.2 288.6 
+Ronda_Rousey/H4VSCIKkxss_0000011 312.8 325.8 
+Ronda_Rousey/H4VSCIKkxss_0000012 328.7 332.9 
+Ronda_Rousey/H4VSCIKkxss_0000013 361.0 365.6 
+Ronda_Rousey/H4VSCIKkxss_0000014 366.9 371.3 
+Ronda_Rousey/H4VSCIKkxss_0000015 375.6 379.6 

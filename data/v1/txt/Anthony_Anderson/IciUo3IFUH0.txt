@@ -1,0 +1,9 @@
+POI: 			Anthony_Anderson 
+Youtube ID: 	IciUo3IFUH0 
+Video length: 	157.7 sec 
+Set (V): 		dev 
+ 
+Anthony_Anderson/IciUo3IFUH0_0000001 15.4 40.7 
+Anthony_Anderson/IciUo3IFUH0_0000002 55.4 65.9 
+Anthony_Anderson/IciUo3IFUH0_0000003 118.5 124.6 
+Anthony_Anderson/IciUo3IFUH0_0000004 130.6 136.8 

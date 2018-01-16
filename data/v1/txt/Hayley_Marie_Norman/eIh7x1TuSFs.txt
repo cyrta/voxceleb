@@ -1,0 +1,13 @@
+POI: 			Hayley_Marie_Norman 
+Youtube ID: 	eIh7x1TuSFs 
+Video length: 	246.8 sec 
+Set (V): 		dev 
+ 
+Hayley_Marie_Norman/eIh7x1TuSFs_0000001 15.0 20.1 
+Hayley_Marie_Norman/eIh7x1TuSFs_0000002 22.0 32.9 
+Hayley_Marie_Norman/eIh7x1TuSFs_0000003 38.0 60.3 
+Hayley_Marie_Norman/eIh7x1TuSFs_0000004 66.2 75.2 
+Hayley_Marie_Norman/eIh7x1TuSFs_0000005 145.8 168.6 
+Hayley_Marie_Norman/eIh7x1TuSFs_0000006 170.4 177.8 
+Hayley_Marie_Norman/eIh7x1TuSFs_0000007 181.1 196.3 
+Hayley_Marie_Norman/eIh7x1TuSFs_0000008 227.9 232.0 

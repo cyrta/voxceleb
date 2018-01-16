@@ -1,0 +1,10 @@
+POI: 			Sean_Connery 
+Youtube ID: 	Xvkbs6xYM94 
+Video length: 	189.3 sec 
+Set (V): 		dev 
+ 
+Sean_Connery/Xvkbs6xYM94_0000001 15.6 19.6 
+Sean_Connery/Xvkbs6xYM94_0000002 21.8 26.2 
+Sean_Connery/Xvkbs6xYM94_0000003 43.9 47.9 
+Sean_Connery/Xvkbs6xYM94_0000004 63.8 67.8 
+Sean_Connery/Xvkbs6xYM94_0000005 74.1 78.4 

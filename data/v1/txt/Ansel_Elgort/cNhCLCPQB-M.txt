@@ -1,0 +1,9 @@
+POI: 			Ansel_Elgort 
+Youtube ID: 	cNhCLCPQB-M 
+Video length: 	353.7 sec 
+Set (V): 		dev 
+ 
+Ansel_Elgort/cNhCLCPQB-M_0000001 138.0 142.2 
+Ansel_Elgort/cNhCLCPQB-M_0000002 142.8 146.8 
+Ansel_Elgort/cNhCLCPQB-M_0000003 150.6 155.7 
+Ansel_Elgort/cNhCLCPQB-M_0000004 282.5 287.9 

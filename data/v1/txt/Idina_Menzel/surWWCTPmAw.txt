@@ -1,0 +1,15 @@
+POI: 			Idina_Menzel 
+Youtube ID: 	surWWCTPmAw 
+Video length: 	530.3 sec 
+Set (V): 		dev 
+ 
+Idina_Menzel/surWWCTPmAw_0000001 71.4 77.7 
+Idina_Menzel/surWWCTPmAw_0000002 89.1 94.1 
+Idina_Menzel/surWWCTPmAw_0000003 189.4 203.4 
+Idina_Menzel/surWWCTPmAw_0000004 220.2 227.0 
+Idina_Menzel/surWWCTPmAw_0000005 227.8 235.4 
+Idina_Menzel/surWWCTPmAw_0000006 235.6 242.2 
+Idina_Menzel/surWWCTPmAw_0000007 356.5 362.4 
+Idina_Menzel/surWWCTPmAw_0000008 367.4 375.3 
+Idina_Menzel/surWWCTPmAw_0000009 385.9 393.2 
+Idina_Menzel/surWWCTPmAw_0000010 415.1 437.0 

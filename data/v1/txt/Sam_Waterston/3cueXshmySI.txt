@@ -1,0 +1,15 @@
+POI: 			Sam_Waterston 
+Youtube ID: 	3cueXshmySI 
+Video length: 	288.6 sec 
+Set (V): 		dev 
+ 
+Sam_Waterston/3cueXshmySI_0000001 113.4 123.8 
+Sam_Waterston/3cueXshmySI_0000002 125.2 129.8 
+Sam_Waterston/3cueXshmySI_0000003 130.6 141.5 
+Sam_Waterston/3cueXshmySI_0000004 134.0 141.4 
+Sam_Waterston/3cueXshmySI_0000005 164.0 173.7 
+Sam_Waterston/3cueXshmySI_0000006 182.0 193.4 
+Sam_Waterston/3cueXshmySI_0000007 204.8 209.7 
+Sam_Waterston/3cueXshmySI_0000008 217.9 230.1 
+Sam_Waterston/3cueXshmySI_0000009 237.1 241.5 
+Sam_Waterston/3cueXshmySI_0000010 241.9 255.7 

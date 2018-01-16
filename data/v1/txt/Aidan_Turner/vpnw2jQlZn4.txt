@@ -1,0 +1,13 @@
+POI: 			Aidan_Turner 
+Youtube ID: 	vpnw2jQlZn4 
+Video length: 	335.9 sec 
+Set (V): 		dev 
+ 
+Aidan_Turner/vpnw2jQlZn4_0000001 39.9 52.0 
+Aidan_Turner/vpnw2jQlZn4_0000002 60.8 71.3 
+Aidan_Turner/vpnw2jQlZn4_0000003 91.6 98.2 
+Aidan_Turner/vpnw2jQlZn4_0000004 147.7 153.1 
+Aidan_Turner/vpnw2jQlZn4_0000005 209.2 218.0 
+Aidan_Turner/vpnw2jQlZn4_0000006 236.0 242.9 
+Aidan_Turner/vpnw2jQlZn4_0000007 272.1 285.0 
+Aidan_Turner/vpnw2jQlZn4_0000008 292.3 309.2 

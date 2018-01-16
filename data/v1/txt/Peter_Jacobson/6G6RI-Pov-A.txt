@@ -1,0 +1,7 @@
+POI: 			Peter_Jacobson 
+Youtube ID: 	6G6RI-Pov-A 
+Video length: 	165.3 sec 
+Set (V): 		dev 
+ 
+Peter_Jacobson/6G6RI-Pov-A_0000001 77.5 91.2 
+Peter_Jacobson/6G6RI-Pov-A_0000002 103.4 116.6 

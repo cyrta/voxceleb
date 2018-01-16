@@ -1,0 +1,12 @@
+POI: 			Cindy_Williams 
+Youtube ID: 	k4MsXDAahO4 
+Video length: 	129.1 sec 
+Set (V): 		dev 
+ 
+Cindy_Williams/k4MsXDAahO4_0000001 10.1 19.2 
+Cindy_Williams/k4MsXDAahO4_0000002 26.4 39.8 
+Cindy_Williams/k4MsXDAahO4_0000003 40.6 45.4 
+Cindy_Williams/k4MsXDAahO4_0000004 46.1 80.2 
+Cindy_Williams/k4MsXDAahO4_0000005 82.4 92.5 
+Cindy_Williams/k4MsXDAahO4_0000006 93.4 97.7 
+Cindy_Williams/k4MsXDAahO4_0000007 110.5 114.9 

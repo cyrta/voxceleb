@@ -1,0 +1,7 @@
+POI: 			Paul_Giamatti 
+Youtube ID: 	YwAByB9XlTs 
+Video length: 	401.1 sec 
+Set (V): 		dev 
+ 
+Paul_Giamatti/YwAByB9XlTs_0000001 278.7 283.5 
+Paul_Giamatti/YwAByB9XlTs_0000002 313.8 317.9 

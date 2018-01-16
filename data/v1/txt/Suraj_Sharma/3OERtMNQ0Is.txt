@@ -1,0 +1,11 @@
+POI: 			Suraj_Sharma 
+Youtube ID: 	3OERtMNQ0Is 
+Video length: 	542.7 sec 
+Set (V): 		dev 
+ 
+Suraj_Sharma/3OERtMNQ0Is_0000001 71.2 77.5 
+Suraj_Sharma/3OERtMNQ0Is_0000002 89.3 98.0 
+Suraj_Sharma/3OERtMNQ0Is_0000003 299.2 305.5 
+Suraj_Sharma/3OERtMNQ0Is_0000004 326.1 331.5 
+Suraj_Sharma/3OERtMNQ0Is_0000005 339.4 344.4 
+Suraj_Sharma/3OERtMNQ0Is_0000006 359.0 364.3 

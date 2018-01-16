@@ -1,0 +1,7 @@
+POI: 			Eleanor_Tomlinson 
+Youtube ID: 	XtwIcZPYN_8 
+Video length: 	477.8 sec 
+Set (V): 		test 
+ 
+Eleanor_Tomlinson/XtwIcZPYN_8_0000001 85.2 91.2 
+Eleanor_Tomlinson/XtwIcZPYN_8_0000002 385.9 395.9 

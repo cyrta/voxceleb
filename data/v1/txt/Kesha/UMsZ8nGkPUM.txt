@@ -1,0 +1,10 @@
+POI: 			Kesha 
+Youtube ID: 	UMsZ8nGkPUM 
+Video length: 	242.0 sec 
+Set (V): 		dev 
+ 
+Kesha/UMsZ8nGkPUM_0000001 16.8 24.5 
+Kesha/UMsZ8nGkPUM_0000002 25.2 29.3 
+Kesha/UMsZ8nGkPUM_0000003 37.0 40.9 
+Kesha/UMsZ8nGkPUM_0000004 41.8 49.6 
+Kesha/UMsZ8nGkPUM_0000005 212.0 218.6 

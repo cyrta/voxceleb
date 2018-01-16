@@ -1,0 +1,36 @@
+POI: 			Meat_Loaf 
+Youtube ID: 	CWtlsidCW0w 
+Video length: 	529.7 sec 
+Set (V): 		dev 
+ 
+Meat_Loaf/CWtlsidCW0w_0000001 09.3 15.2 
+Meat_Loaf/CWtlsidCW0w_0000002 15.3 19.3 
+Meat_Loaf/CWtlsidCW0w_0000003 34.3 38.4 
+Meat_Loaf/CWtlsidCW0w_0000004 45.0 55.3 
+Meat_Loaf/CWtlsidCW0w_0000005 67.0 71.2 
+Meat_Loaf/CWtlsidCW0w_0000006 94.1 98.7 
+Meat_Loaf/CWtlsidCW0w_0000007 103.2 107.2 
+Meat_Loaf/CWtlsidCW0w_0000008 107.7 113.5 
+Meat_Loaf/CWtlsidCW0w_0000009 114.3 118.3 
+Meat_Loaf/CWtlsidCW0w_0000010 121.2 126.8 
+Meat_Loaf/CWtlsidCW0w_0000011 130.2 135.2 
+Meat_Loaf/CWtlsidCW0w_0000012 140.5 145.7 
+Meat_Loaf/CWtlsidCW0w_0000013 146.6 150.6 
+Meat_Loaf/CWtlsidCW0w_0000014 151.6 156.0 
+Meat_Loaf/CWtlsidCW0w_0000015 190.7 194.8 
+Meat_Loaf/CWtlsidCW0w_0000016 202.8 207.8 
+Meat_Loaf/CWtlsidCW0w_0000017 214.8 219.0 
+Meat_Loaf/CWtlsidCW0w_0000018 256.3 267.6 
+Meat_Loaf/CWtlsidCW0w_0000019 299.5 304.2 
+Meat_Loaf/CWtlsidCW0w_0000020 305.6 314.4 
+Meat_Loaf/CWtlsidCW0w_0000021 314.7 323.4 
+Meat_Loaf/CWtlsidCW0w_0000022 340.3 344.9 
+Meat_Loaf/CWtlsidCW0w_0000023 365.3 374.7 
+Meat_Loaf/CWtlsidCW0w_0000024 406.3 412.0 
+Meat_Loaf/CWtlsidCW0w_0000025 413.4 417.8 
+Meat_Loaf/CWtlsidCW0w_0000026 443.7 452.3 
+Meat_Loaf/CWtlsidCW0w_0000027 463.2 469.0 
+Meat_Loaf/CWtlsidCW0w_0000028 469.2 475.7 
+Meat_Loaf/CWtlsidCW0w_0000029 484.6 489.6 
+Meat_Loaf/CWtlsidCW0w_0000030 490.4 494.8 
+Meat_Loaf/CWtlsidCW0w_0000031 496.6 507.8 

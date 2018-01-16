@@ -1,0 +1,23 @@
+POI: 			Miriam_Margolyes 
+Youtube ID: 	NJ4WFWsgj3M 
+Video length: 	607.7 sec 
+Set (V): 		dev 
+ 
+Miriam_Margolyes/NJ4WFWsgj3M_0000001 52.4 59.8 
+Miriam_Margolyes/NJ4WFWsgj3M_0000002 95.1 100.1 
+Miriam_Margolyes/NJ4WFWsgj3M_0000003 120.7 124.9 
+Miriam_Margolyes/NJ4WFWsgj3M_0000004 141.8 146.2 
+Miriam_Margolyes/NJ4WFWsgj3M_0000005 146.7 157.8 
+Miriam_Margolyes/NJ4WFWsgj3M_0000006 178.0 184.8 
+Miriam_Margolyes/NJ4WFWsgj3M_0000007 225.5 235.0 
+Miriam_Margolyes/NJ4WFWsgj3M_0000008 281.2 290.8 
+Miriam_Margolyes/NJ4WFWsgj3M_0000009 341.8 346.0 
+Miriam_Margolyes/NJ4WFWsgj3M_0000010 356.3 361.4 
+Miriam_Margolyes/NJ4WFWsgj3M_0000011 366.7 372.2 
+Miriam_Margolyes/NJ4WFWsgj3M_0000012 372.3 377.2 
+Miriam_Margolyes/NJ4WFWsgj3M_0000013 385.8 392.5 
+Miriam_Margolyes/NJ4WFWsgj3M_0000014 397.0 401.4 
+Miriam_Margolyes/NJ4WFWsgj3M_0000015 471.0 478.4 
+Miriam_Margolyes/NJ4WFWsgj3M_0000016 507.7 515.0 
+Miriam_Margolyes/NJ4WFWsgj3M_0000017 519.2 529.2 
+Miriam_Margolyes/NJ4WFWsgj3M_0000018 536.6 548.2 

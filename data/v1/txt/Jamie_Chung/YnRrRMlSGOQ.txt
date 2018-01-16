@@ -1,0 +1,13 @@
+POI: 			Jamie_Chung 
+Youtube ID: 	YnRrRMlSGOQ 
+Video length: 	496.0 sec 
+Set (V): 		dev 
+ 
+Jamie_Chung/YnRrRMlSGOQ_0000001 05.1 10.5 
+Jamie_Chung/YnRrRMlSGOQ_0000002 69.2 74.2 
+Jamie_Chung/YnRrRMlSGOQ_0000003 80.7 86.0 
+Jamie_Chung/YnRrRMlSGOQ_0000004 109.8 118.7 
+Jamie_Chung/YnRrRMlSGOQ_0000005 169.7 178.9 
+Jamie_Chung/YnRrRMlSGOQ_0000006 201.5 208.5 
+Jamie_Chung/YnRrRMlSGOQ_0000007 221.1 225.6 
+Jamie_Chung/YnRrRMlSGOQ_0000008 234.0 239.8 

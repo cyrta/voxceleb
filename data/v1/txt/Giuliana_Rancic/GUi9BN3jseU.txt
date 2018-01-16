@@ -1,0 +1,8 @@
+POI: 			Giuliana_Rancic 
+Youtube ID: 	GUi9BN3jseU 
+Video length: 	292.0 sec 
+Set (V): 		dev 
+ 
+Giuliana_Rancic/GUi9BN3jseU_0000001 48.6 53.9 
+Giuliana_Rancic/GUi9BN3jseU_0000002 165.8 182.8 
+Giuliana_Rancic/GUi9BN3jseU_0000003 183.8 195.2 

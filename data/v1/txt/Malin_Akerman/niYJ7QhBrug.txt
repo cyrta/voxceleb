@@ -1,0 +1,13 @@
+POI: 			Malin_Akerman 
+Youtube ID: 	niYJ7QhBrug 
+Video length: 	234.5 sec 
+Set (V): 		dev 
+ 
+Malin_Akerman/niYJ7QhBrug_0000001 06.2 21.4 
+Malin_Akerman/niYJ7QhBrug_0000002 23.6 31.9 
+Malin_Akerman/niYJ7QhBrug_0000003 66.2 75.5 
+Malin_Akerman/niYJ7QhBrug_0000004 84.3 88.6 
+Malin_Akerman/niYJ7QhBrug_0000005 92.7 97.4 
+Malin_Akerman/niYJ7QhBrug_0000006 103.9 117.2 
+Malin_Akerman/niYJ7QhBrug_0000007 209.3 216.2 
+Malin_Akerman/niYJ7QhBrug_0000008 216.4 221.0 

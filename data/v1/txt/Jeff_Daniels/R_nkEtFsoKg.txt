@@ -1,0 +1,10 @@
+POI: 			Jeff_Daniels 
+Youtube ID: 	R_nkEtFsoKg 
+Video length: 	267.1 sec 
+Set (V): 		dev 
+ 
+Jeff_Daniels/R_nkEtFsoKg_0000001 113.6 122.2 
+Jeff_Daniels/R_nkEtFsoKg_0000002 178.7 182.9 
+Jeff_Daniels/R_nkEtFsoKg_0000003 183.5 188.9 
+Jeff_Daniels/R_nkEtFsoKg_0000004 193.8 199.0 
+Jeff_Daniels/R_nkEtFsoKg_0000005 249.4 255.7 

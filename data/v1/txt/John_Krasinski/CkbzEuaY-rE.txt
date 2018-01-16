@@ -1,0 +1,17 @@
+POI: 			John_Krasinski 
+Youtube ID: 	CkbzEuaY-rE 
+Video length: 	336.3 sec 
+Set (V): 		dev 
+ 
+John_Krasinski/CkbzEuaY-rE_0000001 29.0 48.0 
+John_Krasinski/CkbzEuaY-rE_0000002 59.7 66.3 
+John_Krasinski/CkbzEuaY-rE_0000003 67.1 71.1 
+John_Krasinski/CkbzEuaY-rE_0000004 80.5 87.9 
+John_Krasinski/CkbzEuaY-rE_0000005 98.8 105.7 
+John_Krasinski/CkbzEuaY-rE_0000006 142.5 146.7 
+John_Krasinski/CkbzEuaY-rE_0000007 157.3 167.8 
+John_Krasinski/CkbzEuaY-rE_0000008 168.3 173.6 
+John_Krasinski/CkbzEuaY-rE_0000009 179.5 186.1 
+John_Krasinski/CkbzEuaY-rE_0000010 212.6 221.4 
+John_Krasinski/CkbzEuaY-rE_0000011 244.9 274.3 
+John_Krasinski/CkbzEuaY-rE_0000012 307.7 317.8 

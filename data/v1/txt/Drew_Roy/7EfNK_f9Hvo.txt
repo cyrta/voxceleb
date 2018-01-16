@@ -1,0 +1,15 @@
+POI: 			Drew_Roy 
+Youtube ID: 	7EfNK_f9Hvo 
+Video length: 	257.8 sec 
+Set (V): 		dev 
+ 
+Drew_Roy/7EfNK_f9Hvo_0000001 04.9 12.3 
+Drew_Roy/7EfNK_f9Hvo_0000002 15.8 28.7 
+Drew_Roy/7EfNK_f9Hvo_0000003 29.0 46.0 
+Drew_Roy/7EfNK_f9Hvo_0000004 46.1 60.7 
+Drew_Roy/7EfNK_f9Hvo_0000005 128.0 132.0 
+Drew_Roy/7EfNK_f9Hvo_0000006 144.2 164.2 
+Drew_Roy/7EfNK_f9Hvo_0000007 171.6 187.2 
+Drew_Roy/7EfNK_f9Hvo_0000008 197.3 204.0 
+Drew_Roy/7EfNK_f9Hvo_0000009 204.2 230.2 
+Drew_Roy/7EfNK_f9Hvo_0000010 239.7 252.2 

@@ -1,0 +1,7 @@
+POI: 			Michelle_Monaghan 
+Youtube ID: 	OJMFRm5GZ0U 
+Video length: 	245.5 sec 
+Set (V): 		dev 
+ 
+Michelle_Monaghan/OJMFRm5GZ0U_0000001 74.3 106.1 
+Michelle_Monaghan/OJMFRm5GZ0U_0000002 106.4 128.7 

@@ -1,0 +1,10 @@
+POI: 			Pamela_Adlon 
+Youtube ID: 	7m3Xie-VdBE 
+Video length: 	216.1 sec 
+Set (V): 		dev 
+ 
+Pamela_Adlon/7m3Xie-VdBE_0000001 49.4 57.0 
+Pamela_Adlon/7m3Xie-VdBE_0000002 94.1 99.4 
+Pamela_Adlon/7m3Xie-VdBE_0000003 104.1 114.4 
+Pamela_Adlon/7m3Xie-VdBE_0000004 117.7 141.7 
+Pamela_Adlon/7m3Xie-VdBE_0000005 167.8 172.0 

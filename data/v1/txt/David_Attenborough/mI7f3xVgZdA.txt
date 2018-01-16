@@ -1,0 +1,8 @@
+POI: 			David_Attenborough 
+Youtube ID: 	mI7f3xVgZdA 
+Video length: 	272.8 sec 
+Set (V): 		dev 
+ 
+David_Attenborough/mI7f3xVgZdA_0000001 119.2 134.0 
+David_Attenborough/mI7f3xVgZdA_0000002 165.5 169.7 
+David_Attenborough/mI7f3xVgZdA_0000003 237.4 243.8 

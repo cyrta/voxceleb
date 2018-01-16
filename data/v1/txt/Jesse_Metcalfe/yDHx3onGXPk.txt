@@ -1,0 +1,7 @@
+POI: 			Jesse_Metcalfe 
+Youtube ID: 	yDHx3onGXPk 
+Video length: 	80.8 sec 
+Set (V): 		dev 
+ 
+Jesse_Metcalfe/yDHx3onGXPk_0000001 12.3 24.1 
+Jesse_Metcalfe/yDHx3onGXPk_0000002 30.3 53.3 

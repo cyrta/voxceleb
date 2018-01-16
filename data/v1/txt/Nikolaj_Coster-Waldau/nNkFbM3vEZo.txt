@@ -1,0 +1,12 @@
+POI: 			Nikolaj_Coster-Waldau 
+Youtube ID: 	nNkFbM3vEZo 
+Video length: 	159.3 sec 
+Set (V): 		dev 
+ 
+Nikolaj_Coster-Waldau/nNkFbM3vEZo_0000001 10.3 14.3 
+Nikolaj_Coster-Waldau/nNkFbM3vEZo_0000002 15.2 20.9 
+Nikolaj_Coster-Waldau/nNkFbM3vEZo_0000003 22.2 30.8 
+Nikolaj_Coster-Waldau/nNkFbM3vEZo_0000004 43.6 49.6 
+Nikolaj_Coster-Waldau/nNkFbM3vEZo_0000005 58.4 63.4 
+Nikolaj_Coster-Waldau/nNkFbM3vEZo_0000006 86.8 97.6 
+Nikolaj_Coster-Waldau/nNkFbM3vEZo_0000007 130.4 137.1 

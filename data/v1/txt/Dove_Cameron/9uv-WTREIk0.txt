@@ -1,0 +1,13 @@
+POI: 			Dove_Cameron 
+Youtube ID: 	9uv-WTREIk0 
+Video length: 	171.4 sec 
+Set (V): 		dev 
+ 
+Dove_Cameron/9uv-WTREIk0_0000001 26.6 38.1 
+Dove_Cameron/9uv-WTREIk0_0000002 73.4 78.2 
+Dove_Cameron/9uv-WTREIk0_0000003 97.0 104.4 
+Dove_Cameron/9uv-WTREIk0_0000004 104.9 109.2 
+Dove_Cameron/9uv-WTREIk0_0000005 109.8 119.2 
+Dove_Cameron/9uv-WTREIk0_0000006 122.9 129.9 
+Dove_Cameron/9uv-WTREIk0_0000007 137.6 144.6 
+Dove_Cameron/9uv-WTREIk0_0000008 145.4 150.3 

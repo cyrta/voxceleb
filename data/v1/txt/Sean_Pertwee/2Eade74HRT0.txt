@@ -1,0 +1,7 @@
+POI: 			Sean_Pertwee 
+Youtube ID: 	2Eade74HRT0 
+Video length: 	126.1 sec 
+Set (V): 		dev 
+ 
+Sean_Pertwee/2Eade74HRT0_0000001 19.7 24.1 
+Sean_Pertwee/2Eade74HRT0_0000002 112.4 122.8 

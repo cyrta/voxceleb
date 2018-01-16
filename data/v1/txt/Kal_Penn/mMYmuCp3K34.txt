@@ -1,0 +1,7 @@
+POI: 			Kal_Penn 
+Youtube ID: 	mMYmuCp3K34 
+Video length: 	395.9 sec 
+Set (V): 		dev 
+ 
+Kal_Penn/mMYmuCp3K34_0000001 27.5 34.3 
+Kal_Penn/mMYmuCp3K34_0000002 199.1 203.5 

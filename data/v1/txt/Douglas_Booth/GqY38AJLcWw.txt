@@ -1,0 +1,7 @@
+POI: 			Douglas_Booth 
+Youtube ID: 	GqY38AJLcWw 
+Video length: 	257.3 sec 
+Set (V): 		dev 
+ 
+Douglas_Booth/GqY38AJLcWw_0000001 41.1 45.3 
+Douglas_Booth/GqY38AJLcWw_0000002 114.2 118.3 

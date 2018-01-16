@@ -1,0 +1,10 @@
+POI: 			Marla_Gibbs 
+Youtube ID: 	P53H4MrGkKA 
+Video length: 	103.8 sec 
+Set (V): 		dev 
+ 
+Marla_Gibbs/P53H4MrGkKA_0000001 09.3 14.4 
+Marla_Gibbs/P53H4MrGkKA_0000002 16.4 33.1 
+Marla_Gibbs/P53H4MrGkKA_0000003 33.9 41.7 
+Marla_Gibbs/P53H4MrGkKA_0000004 54.6 73.6 
+Marla_Gibbs/P53H4MrGkKA_0000005 84.9 94.7 

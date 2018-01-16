@@ -1,0 +1,10 @@
+POI: 			Gwendoline_Christie 
+Youtube ID: 	byeu95XwLiM 
+Video length: 	268.7 sec 
+Set (V): 		dev 
+ 
+Gwendoline_Christie/byeu95XwLiM_0000001 82.2 90.2 
+Gwendoline_Christie/byeu95XwLiM_0000002 96.8 101.8 
+Gwendoline_Christie/byeu95XwLiM_0000003 101.9 107.9 
+Gwendoline_Christie/byeu95XwLiM_0000004 111.6 121.3 
+Gwendoline_Christie/byeu95XwLiM_0000005 144.2 150.8 

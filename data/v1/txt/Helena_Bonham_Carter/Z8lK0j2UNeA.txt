@@ -1,0 +1,14 @@
+POI: 			Helena_Bonham_Carter 
+Youtube ID: 	Z8lK0j2UNeA 
+Video length: 	216.4 sec 
+Set (V): 		dev 
+ 
+Helena_Bonham_Carter/Z8lK0j2UNeA_0000001 23.8 33.2 
+Helena_Bonham_Carter/Z8lK0j2UNeA_0000002 43.0 47.7 
+Helena_Bonham_Carter/Z8lK0j2UNeA_0000003 52.1 58.2 
+Helena_Bonham_Carter/Z8lK0j2UNeA_0000004 58.3 68.1 
+Helena_Bonham_Carter/Z8lK0j2UNeA_0000005 68.3 72.4 
+Helena_Bonham_Carter/Z8lK0j2UNeA_0000006 81.8 91.1 
+Helena_Bonham_Carter/Z8lK0j2UNeA_0000007 95.3 103.3 
+Helena_Bonham_Carter/Z8lK0j2UNeA_0000008 133.1 138.9 
+Helena_Bonham_Carter/Z8lK0j2UNeA_0000009 155.0 162.1 

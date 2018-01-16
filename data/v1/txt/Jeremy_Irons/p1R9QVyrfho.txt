@@ -1,0 +1,9 @@
+POI: 			Jeremy_Irons 
+Youtube ID: 	p1R9QVyrfho 
+Video length: 	131.7 sec 
+Set (V): 		dev 
+ 
+Jeremy_Irons/p1R9QVyrfho_0000001 37.4 43.4 
+Jeremy_Irons/p1R9QVyrfho_0000002 56.7 63.3 
+Jeremy_Irons/p1R9QVyrfho_0000003 74.2 78.9 
+Jeremy_Irons/p1R9QVyrfho_0000004 96.8 108.2 

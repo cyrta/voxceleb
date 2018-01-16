@@ -1,0 +1,7 @@
+POI: 			Katey_Sagal 
+Youtube ID: 	4LTKjHQ_kQ8 
+Video length: 	2291.0 sec 
+Set (V): 		dev 
+ 
+Katey_Sagal/4LTKjHQ_kQ8_0000001 1289.2 1293.2 
+Katey_Sagal/4LTKjHQ_kQ8_0000002 1435.0 1443.0 

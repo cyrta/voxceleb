@@ -1,0 +1,18 @@
+POI: 			Michael_C._Hall 
+Youtube ID: 	8TjA2edAv8E 
+Video length: 	639.6 sec 
+Set (V): 		dev 
+ 
+Michael_C._Hall/8TjA2edAv8E_0000001 91.4 96.6 
+Michael_C._Hall/8TjA2edAv8E_0000002 102.0 108.9 
+Michael_C._Hall/8TjA2edAv8E_0000003 117.4 122.6 
+Michael_C._Hall/8TjA2edAv8E_0000004 122.6 129.4 
+Michael_C._Hall/8TjA2edAv8E_0000005 173.7 178.8 
+Michael_C._Hall/8TjA2edAv8E_0000006 323.5 327.8 
+Michael_C._Hall/8TjA2edAv8E_0000007 333.0 338.0 
+Michael_C._Hall/8TjA2edAv8E_0000008 356.0 361.3 
+Michael_C._Hall/8TjA2edAv8E_0000009 382.6 388.1 
+Michael_C._Hall/8TjA2edAv8E_0000010 401.5 410.7 
+Michael_C._Hall/8TjA2edAv8E_0000011 418.2 424.4 
+Michael_C._Hall/8TjA2edAv8E_0000012 451.7 456.7 
+Michael_C._Hall/8TjA2edAv8E_0000013 612.7 617.3 

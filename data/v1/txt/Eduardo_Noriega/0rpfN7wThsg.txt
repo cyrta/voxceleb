@@ -1,0 +1,11 @@
+POI: 			Eduardo_Noriega 
+Youtube ID: 	0rpfN7wThsg 
+Video length: 	102.1 sec 
+Set (V): 		test 
+ 
+Eduardo_Noriega/0rpfN7wThsg_0000001 07.0 11.2 
+Eduardo_Noriega/0rpfN7wThsg_0000002 14.6 23.2 
+Eduardo_Noriega/0rpfN7wThsg_0000003 32.4 37.7 
+Eduardo_Noriega/0rpfN7wThsg_0000004 66.8 71.0 
+Eduardo_Noriega/0rpfN7wThsg_0000005 80.9 88.5 
+Eduardo_Noriega/0rpfN7wThsg_0000006 89.8 94.4 

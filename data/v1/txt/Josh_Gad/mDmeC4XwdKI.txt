@@ -1,0 +1,7 @@
+POI: 			Josh_Gad 
+Youtube ID: 	mDmeC4XwdKI 
+Video length: 	221.0 sec 
+Set (V): 		dev 
+ 
+Josh_Gad/mDmeC4XwdKI_0000001 45.2 52.6 
+Josh_Gad/mDmeC4XwdKI_0000002 129.8 138.4 

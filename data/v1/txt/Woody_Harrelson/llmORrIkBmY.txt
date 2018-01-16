@@ -1,0 +1,24 @@
+POI: 			Woody_Harrelson 
+Youtube ID: 	llmORrIkBmY 
+Video length: 	627.2 sec 
+Set (V): 		dev 
+ 
+Woody_Harrelson/llmORrIkBmY_0000001 28.9 35.8 
+Woody_Harrelson/llmORrIkBmY_0000002 36.8 46.5 
+Woody_Harrelson/llmORrIkBmY_0000003 73.8 81.4 
+Woody_Harrelson/llmORrIkBmY_0000004 87.1 98.0 
+Woody_Harrelson/llmORrIkBmY_0000005 100.2 111.7 
+Woody_Harrelson/llmORrIkBmY_0000006 144.2 149.7 
+Woody_Harrelson/llmORrIkBmY_0000007 153.3 158.4 
+Woody_Harrelson/llmORrIkBmY_0000008 263.0 267.4 
+Woody_Harrelson/llmORrIkBmY_0000009 307.0 314.0 
+Woody_Harrelson/llmORrIkBmY_0000010 316.0 321.6 
+Woody_Harrelson/llmORrIkBmY_0000011 337.4 346.6 
+Woody_Harrelson/llmORrIkBmY_0000012 387.5 396.4 
+Woody_Harrelson/llmORrIkBmY_0000013 399.4 408.0 
+Woody_Harrelson/llmORrIkBmY_0000014 409.2 414.2 
+Woody_Harrelson/llmORrIkBmY_0000015 459.8 466.7 
+Woody_Harrelson/llmORrIkBmY_0000016 471.9 478.4 
+Woody_Harrelson/llmORrIkBmY_0000017 486.4 495.4 
+Woody_Harrelson/llmORrIkBmY_0000018 496.4 510.5 
+Woody_Harrelson/llmORrIkBmY_0000019 512.0 516.8 

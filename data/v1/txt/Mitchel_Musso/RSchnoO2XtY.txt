@@ -1,0 +1,16 @@
+POI: 			Mitchel_Musso 
+Youtube ID: 	RSchnoO2XtY 
+Video length: 	211.7 sec 
+Set (V): 		dev 
+ 
+Mitchel_Musso/RSchnoO2XtY_0000001 17.1 23.0 
+Mitchel_Musso/RSchnoO2XtY_0000002 25.0 33.3 
+Mitchel_Musso/RSchnoO2XtY_0000003 35.1 39.2 
+Mitchel_Musso/RSchnoO2XtY_0000004 41.1 45.4 
+Mitchel_Musso/RSchnoO2XtY_0000005 55.1 59.2 
+Mitchel_Musso/RSchnoO2XtY_0000006 65.4 70.4 
+Mitchel_Musso/RSchnoO2XtY_0000007 110.2 119.3 
+Mitchel_Musso/RSchnoO2XtY_0000008 122.4 128.3 
+Mitchel_Musso/RSchnoO2XtY_0000009 149.1 153.4 
+Mitchel_Musso/RSchnoO2XtY_0000010 158.7 163.3 
+Mitchel_Musso/RSchnoO2XtY_0000011 178.0 183.9 

@@ -1,0 +1,7 @@
+POI: 			January_Jones 
+Youtube ID: 	SFY9HuvhD90 
+Video length: 	40.2 sec 
+Set (V): 		dev 
+ 
+January_Jones/SFY9HuvhD90_0000001 10.2 15.0 
+January_Jones/SFY9HuvhD90_0000002 16.2 31.8 

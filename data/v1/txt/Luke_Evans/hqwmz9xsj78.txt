@@ -1,0 +1,8 @@
+POI: 			Luke_Evans 
+Youtube ID: 	hqwmz9xsj78 
+Video length: 	631.8 sec 
+Set (V): 		dev 
+ 
+Luke_Evans/hqwmz9xsj78_0000001 111.9 116.1 
+Luke_Evans/hqwmz9xsj78_0000002 202.7 210.1 
+Luke_Evans/hqwmz9xsj78_0000003 216.8 220.9 

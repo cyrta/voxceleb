@@ -1,0 +1,17 @@
+POI: 			Kenny_Rogers 
+Youtube ID: 	fJfNJ8T2ECw 
+Video length: 	318.5 sec 
+Set (V): 		dev 
+ 
+Kenny_Rogers/fJfNJ8T2ECw_0000001 03.8 19.0 
+Kenny_Rogers/fJfNJ8T2ECw_0000002 20.8 27.6 
+Kenny_Rogers/fJfNJ8T2ECw_0000003 49.1 58.0 
+Kenny_Rogers/fJfNJ8T2ECw_0000004 58.5 89.0 
+Kenny_Rogers/fJfNJ8T2ECw_0000005 104.2 109.0 
+Kenny_Rogers/fJfNJ8T2ECw_0000006 117.9 132.4 
+Kenny_Rogers/fJfNJ8T2ECw_0000007 147.6 160.2 
+Kenny_Rogers/fJfNJ8T2ECw_0000008 170.4 179.3 
+Kenny_Rogers/fJfNJ8T2ECw_0000009 207.6 227.9 
+Kenny_Rogers/fJfNJ8T2ECw_0000010 236.8 242.4 
+Kenny_Rogers/fJfNJ8T2ECw_0000011 245.5 269.3 
+Kenny_Rogers/fJfNJ8T2ECw_0000012 270.0 274.3 

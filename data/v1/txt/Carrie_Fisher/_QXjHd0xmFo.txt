@@ -1,0 +1,18 @@
+POI: 			Carrie_Fisher 
+Youtube ID: 	_QXjHd0xmFo 
+Video length: 	370.8 sec 
+Set (V): 		dev 
+ 
+Carrie_Fisher/_QXjHd0xmFo_0000001 19.4 26.8 
+Carrie_Fisher/_QXjHd0xmFo_0000002 30.7 35.2 
+Carrie_Fisher/_QXjHd0xmFo_0000003 135.5 139.6 
+Carrie_Fisher/_QXjHd0xmFo_0000004 149.0 155.3 
+Carrie_Fisher/_QXjHd0xmFo_0000005 157.7 166.2 
+Carrie_Fisher/_QXjHd0xmFo_0000006 167.2 172.2 
+Carrie_Fisher/_QXjHd0xmFo_0000007 202.2 207.0 
+Carrie_Fisher/_QXjHd0xmFo_0000008 215.1 224.1 
+Carrie_Fisher/_QXjHd0xmFo_0000009 224.9 231.8 
+Carrie_Fisher/_QXjHd0xmFo_0000010 236.9 241.9 
+Carrie_Fisher/_QXjHd0xmFo_0000011 332.0 337.1 
+Carrie_Fisher/_QXjHd0xmFo_0000012 354.7 361.6 
+Carrie_Fisher/_QXjHd0xmFo_0000013 363.8 368.4 

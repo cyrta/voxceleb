@@ -1,0 +1,12 @@
+POI: 			Marilu_Henner 
+Youtube ID: 	yh2UvVMM0Cs 
+Video length: 	162.2 sec 
+Set (V): 		dev 
+ 
+Marilu_Henner/yh2UvVMM0Cs_0000001 10.0 16.8 
+Marilu_Henner/yh2UvVMM0Cs_0000002 17.6 38.2 
+Marilu_Henner/yh2UvVMM0Cs_0000003 39.2 43.7 
+Marilu_Henner/yh2UvVMM0Cs_0000004 50.7 59.8 
+Marilu_Henner/yh2UvVMM0Cs_0000005 63.3 88.6 
+Marilu_Henner/yh2UvVMM0Cs_0000006 90.4 126.5 
+Marilu_Henner/yh2UvVMM0Cs_0000007 131.5 148.5 

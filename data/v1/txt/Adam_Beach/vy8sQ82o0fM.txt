@@ -1,0 +1,12 @@
+POI: 			Adam_Beach 
+Youtube ID: 	vy8sQ82o0fM 
+Video length: 	549.3 sec 
+Set (V): 		dev 
+ 
+Adam_Beach/vy8sQ82o0fM_0000001 161.6 166.4 
+Adam_Beach/vy8sQ82o0fM_0000002 209.8 215.4 
+Adam_Beach/vy8sQ82o0fM_0000003 253.7 258.8 
+Adam_Beach/vy8sQ82o0fM_0000004 281.9 287.5 
+Adam_Beach/vy8sQ82o0fM_0000005 298.1 303.5 
+Adam_Beach/vy8sQ82o0fM_0000006 388.8 393.7 
+Adam_Beach/vy8sQ82o0fM_0000007 514.3 518.7 

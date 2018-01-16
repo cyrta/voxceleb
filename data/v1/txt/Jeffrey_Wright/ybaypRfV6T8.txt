@@ -1,0 +1,8 @@
+POI: 			Jeffrey_Wright 
+Youtube ID: 	ybaypRfV6T8 
+Video length: 	157.9 sec 
+Set (V): 		dev 
+ 
+Jeffrey_Wright/ybaypRfV6T8_0000001 104.6 119.4 
+Jeffrey_Wright/ybaypRfV6T8_0000002 128.2 132.6 
+Jeffrey_Wright/ybaypRfV6T8_0000003 144.0 151.6 

@@ -1,0 +1,9 @@
+POI: 			Vincent_Pastore 
+Youtube ID: 	kf1ELZhWtEM 
+Video length: 	185.8 sec 
+Set (V): 		dev 
+ 
+Vincent_Pastore/kf1ELZhWtEM_0000001 49.5 54.1 
+Vincent_Pastore/kf1ELZhWtEM_0000002 87.4 92.5 
+Vincent_Pastore/kf1ELZhWtEM_0000003 118.6 123.6 
+Vincent_Pastore/kf1ELZhWtEM_0000004 152.9 157.2 

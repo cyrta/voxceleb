@@ -1,0 +1,16 @@
+POI: 			Hope_Solo 
+Youtube ID: 	owg96_aXQcw 
+Video length: 	344.0 sec 
+Set (V): 		dev 
+ 
+Hope_Solo/owg96_aXQcw_0000001 17.1 36.0 
+Hope_Solo/owg96_aXQcw_0000002 94.4 100.7 
+Hope_Solo/owg96_aXQcw_0000003 102.0 115.4 
+Hope_Solo/owg96_aXQcw_0000004 115.5 135.0 
+Hope_Solo/owg96_aXQcw_0000005 166.0 171.7 
+Hope_Solo/owg96_aXQcw_0000006 187.0 194.0 
+Hope_Solo/owg96_aXQcw_0000007 194.0 201.0 
+Hope_Solo/owg96_aXQcw_0000008 201.0 207.9 
+Hope_Solo/owg96_aXQcw_0000009 208.4 229.8 
+Hope_Solo/owg96_aXQcw_0000010 309.3 314.0 
+Hope_Solo/owg96_aXQcw_0000011 315.4 328.6 

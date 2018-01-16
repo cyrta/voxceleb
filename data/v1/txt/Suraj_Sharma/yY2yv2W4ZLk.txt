@@ -1,0 +1,14 @@
+POI: 			Suraj_Sharma 
+Youtube ID: 	yY2yv2W4ZLk 
+Video length: 	643.5 sec 
+Set (V): 		dev 
+ 
+Suraj_Sharma/yY2yv2W4ZLk_0000001 46.1 75.0 
+Suraj_Sharma/yY2yv2W4ZLk_0000002 75.9 81.1 
+Suraj_Sharma/yY2yv2W4ZLk_0000003 159.1 167.7 
+Suraj_Sharma/yY2yv2W4ZLk_0000004 169.0 176.5 
+Suraj_Sharma/yY2yv2W4ZLk_0000005 185.4 190.8 
+Suraj_Sharma/yY2yv2W4ZLk_0000006 421.4 444.3 
+Suraj_Sharma/yY2yv2W4ZLk_0000007 445.3 456.8 
+Suraj_Sharma/yY2yv2W4ZLk_0000008 461.0 467.3 
+Suraj_Sharma/yY2yv2W4ZLk_0000009 490.8 497.4 

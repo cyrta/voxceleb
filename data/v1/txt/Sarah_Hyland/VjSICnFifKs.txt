@@ -1,0 +1,9 @@
+POI: 			Sarah_Hyland 
+Youtube ID: 	VjSICnFifKs 
+Video length: 	314.8 sec 
+Set (V): 		dev 
+ 
+Sarah_Hyland/VjSICnFifKs_0000001 81.9 87.5 
+Sarah_Hyland/VjSICnFifKs_0000002 123.7 138.0 
+Sarah_Hyland/VjSICnFifKs_0000003 152.2 162.8 
+Sarah_Hyland/VjSICnFifKs_0000004 210.1 219.6 

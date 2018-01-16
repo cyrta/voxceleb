@@ -1,0 +1,10 @@
+POI: 			Scott_Bakula 
+Youtube ID: 	QsXUHg-4UJo 
+Video length: 	119.0 sec 
+Set (V): 		dev 
+ 
+Scott_Bakula/QsXUHg-4UJo_0000001 05.0 12.2 
+Scott_Bakula/QsXUHg-4UJo_0000002 15.3 25.6 
+Scott_Bakula/QsXUHg-4UJo_0000003 31.0 38.0 
+Scott_Bakula/QsXUHg-4UJo_0000004 39.9 49.2 
+Scott_Bakula/QsXUHg-4UJo_0000005 78.2 91.2 

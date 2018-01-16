@@ -1,0 +1,13 @@
+POI: 			Alan_Alda 
+Youtube ID: 	miCK2SKm3XE 
+Video length: 	103.4 sec 
+Set (V): 		dev 
+ 
+Alan_Alda/miCK2SKm3XE_0000001 03.8 09.1 
+Alan_Alda/miCK2SKm3XE_0000002 10.2 16.6 
+Alan_Alda/miCK2SKm3XE_0000003 19.8 24.2 
+Alan_Alda/miCK2SKm3XE_0000004 46.9 53.9 
+Alan_Alda/miCK2SKm3XE_0000005 67.6 73.6 
+Alan_Alda/miCK2SKm3XE_0000006 74.4 82.0 
+Alan_Alda/miCK2SKm3XE_0000007 83.8 93.2 
+Alan_Alda/miCK2SKm3XE_0000008 94.1 98.2 

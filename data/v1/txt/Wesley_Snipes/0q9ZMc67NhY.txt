@@ -1,0 +1,16 @@
+POI: 			Wesley_Snipes 
+Youtube ID: 	0q9ZMc67NhY 
+Video length: 	299.7 sec 
+Set (V): 		dev 
+ 
+Wesley_Snipes/0q9ZMc67NhY_0000001 26.6 43.0 
+Wesley_Snipes/0q9ZMc67NhY_0000002 62.4 70.0 
+Wesley_Snipes/0q9ZMc67NhY_0000003 131.4 144.6 
+Wesley_Snipes/0q9ZMc67NhY_0000004 150.4 163.6 
+Wesley_Snipes/0q9ZMc67NhY_0000005 180.1 187.6 
+Wesley_Snipes/0q9ZMc67NhY_0000006 188.1 197.7 
+Wesley_Snipes/0q9ZMc67NhY_0000007 217.0 222.2 
+Wesley_Snipes/0q9ZMc67NhY_0000008 257.3 268.9 
+Wesley_Snipes/0q9ZMc67NhY_0000009 269.7 274.8 
+Wesley_Snipes/0q9ZMc67NhY_0000010 275.7 283.5 
+Wesley_Snipes/0q9ZMc67NhY_0000011 284.8 288.9 

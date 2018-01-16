@@ -1,0 +1,20 @@
+POI: 			Costas_Mandylor 
+Youtube ID: 	IlhmVLEwysA 
+Video length: 	334.8 sec 
+Set (V): 		dev 
+ 
+Costas_Mandylor/IlhmVLEwysA_0000001 19.3 28.0 
+Costas_Mandylor/IlhmVLEwysA_0000002 29.7 35.4 
+Costas_Mandylor/IlhmVLEwysA_0000003 35.8 43.7 
+Costas_Mandylor/IlhmVLEwysA_0000004 56.4 62.1 
+Costas_Mandylor/IlhmVLEwysA_0000005 143.4 149.9 
+Costas_Mandylor/IlhmVLEwysA_0000006 154.8 159.2 
+Costas_Mandylor/IlhmVLEwysA_0000007 178.6 184.3 
+Costas_Mandylor/IlhmVLEwysA_0000008 188.2 193.6 
+Costas_Mandylor/IlhmVLEwysA_0000009 193.7 198.5 
+Costas_Mandylor/IlhmVLEwysA_0000010 214.9 225.1 
+Costas_Mandylor/IlhmVLEwysA_0000011 237.0 242.7 
+Costas_Mandylor/IlhmVLEwysA_0000012 251.3 260.3 
+Costas_Mandylor/IlhmVLEwysA_0000013 268.5 282.3 
+Costas_Mandylor/IlhmVLEwysA_0000014 298.6 302.7 
+Costas_Mandylor/IlhmVLEwysA_0000015 310.0 314.4 

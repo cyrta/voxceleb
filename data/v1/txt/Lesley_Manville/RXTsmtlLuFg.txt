@@ -1,0 +1,23 @@
+POI: 			Lesley_Manville 
+Youtube ID: 	RXTsmtlLuFg 
+Video length: 	295.3 sec 
+Set (V): 		dev 
+ 
+Lesley_Manville/RXTsmtlLuFg_0000001 20.1 24.7 
+Lesley_Manville/RXTsmtlLuFg_0000002 30.9 38.4 
+Lesley_Manville/RXTsmtlLuFg_0000003 41.7 47.8 
+Lesley_Manville/RXTsmtlLuFg_0000004 48.9 57.8 
+Lesley_Manville/RXTsmtlLuFg_0000005 58.6 71.2 
+Lesley_Manville/RXTsmtlLuFg_0000006 78.0 82.4 
+Lesley_Manville/RXTsmtlLuFg_0000007 87.5 101.6 
+Lesley_Manville/RXTsmtlLuFg_0000008 102.4 107.8 
+Lesley_Manville/RXTsmtlLuFg_0000009 109.2 116.9 
+Lesley_Manville/RXTsmtlLuFg_0000010 117.5 131.7 
+Lesley_Manville/RXTsmtlLuFg_0000011 149.3 160.9 
+Lesley_Manville/RXTsmtlLuFg_0000012 165.5 171.9 
+Lesley_Manville/RXTsmtlLuFg_0000013 178.9 198.7 
+Lesley_Manville/RXTsmtlLuFg_0000014 199.2 206.7 
+Lesley_Manville/RXTsmtlLuFg_0000015 226.1 236.6 
+Lesley_Manville/RXTsmtlLuFg_0000016 238.9 243.4 
+Lesley_Manville/RXTsmtlLuFg_0000017 252.4 257.4 
+Lesley_Manville/RXTsmtlLuFg_0000018 263.8 287.5 

@@ -1,0 +1,8 @@
+POI: 			Will_Forte 
+Youtube ID: 	zUS-PhubqKI 
+Video length: 	196.7 sec 
+Set (V): 		dev 
+ 
+Will_Forte/zUS-PhubqKI_0000001 42.8 59.4 
+Will_Forte/zUS-PhubqKI_0000002 65.7 78.7 
+Will_Forte/zUS-PhubqKI_0000003 79.9 86.9 

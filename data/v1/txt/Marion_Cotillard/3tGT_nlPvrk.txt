@@ -1,0 +1,7 @@
+POI: 			Marion_Cotillard 
+Youtube ID: 	3tGT_nlPvrk 
+Video length: 	231.9 sec 
+Set (V): 		dev 
+ 
+Marion_Cotillard/3tGT_nlPvrk_0000001 156.7 162.0 
+Marion_Cotillard/3tGT_nlPvrk_0000002 171.8 177.4 

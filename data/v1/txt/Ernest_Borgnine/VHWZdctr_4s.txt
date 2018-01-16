@@ -1,0 +1,17 @@
+POI: 			Ernest_Borgnine 
+Youtube ID: 	VHWZdctr_4s 
+Video length: 	358.5 sec 
+Set (V): 		test 
+ 
+Ernest_Borgnine/VHWZdctr_4s_0000001 102.8 107.0 
+Ernest_Borgnine/VHWZdctr_4s_0000002 195.8 201.2 
+Ernest_Borgnine/VHWZdctr_4s_0000003 202.2 207.7 
+Ernest_Borgnine/VHWZdctr_4s_0000004 220.8 226.4 
+Ernest_Borgnine/VHWZdctr_4s_0000005 231.7 238.9 
+Ernest_Borgnine/VHWZdctr_4s_0000006 263.7 270.3 
+Ernest_Borgnine/VHWZdctr_4s_0000007 271.4 277.6 
+Ernest_Borgnine/VHWZdctr_4s_0000008 278.7 284.2 
+Ernest_Borgnine/VHWZdctr_4s_0000009 286.6 293.4 
+Ernest_Borgnine/VHWZdctr_4s_0000010 296.2 300.2 
+Ernest_Borgnine/VHWZdctr_4s_0000011 305.1 311.2 
+Ernest_Borgnine/VHWZdctr_4s_0000012 313.6 323.4 

@@ -1,0 +1,11 @@
+POI: 			Kaya_Scodelario 
+Youtube ID: 	79ebpjuEEUk 
+Video length: 	338.9 sec 
+Set (V): 		dev 
+ 
+Kaya_Scodelario/79ebpjuEEUk_0000001 144.6 149.4 
+Kaya_Scodelario/79ebpjuEEUk_0000002 204.4 209.3 
+Kaya_Scodelario/79ebpjuEEUk_0000003 254.9 262.3 
+Kaya_Scodelario/79ebpjuEEUk_0000004 262.5 271.3 
+Kaya_Scodelario/79ebpjuEEUk_0000005 292.1 296.8 
+Kaya_Scodelario/79ebpjuEEUk_0000006 310.6 316.2 

@@ -1,0 +1,10 @@
+POI: 			Miranda_Richardson 
+Youtube ID: 	PHV4oAg30DA 
+Video length: 	105.2 sec 
+Set (V): 		dev 
+ 
+Miranda_Richardson/PHV4oAg30DA_0000001 01.1 11.1 
+Miranda_Richardson/PHV4oAg30DA_0000002 23.6 28.4 
+Miranda_Richardson/PHV4oAg30DA_0000003 37.6 42.8 
+Miranda_Richardson/PHV4oAg30DA_0000004 50.5 59.4 
+Miranda_Richardson/PHV4oAg30DA_0000005 61.2 67.9 

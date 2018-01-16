@@ -1,0 +1,8 @@
+POI: 			Hailee_Steinfeld 
+Youtube ID: 	QvyHeys4CFI 
+Video length: 	430.5 sec 
+Set (V): 		dev 
+ 
+Hailee_Steinfeld/QvyHeys4CFI_0000001 141.1 145.0 
+Hailee_Steinfeld/QvyHeys4CFI_0000002 145.2 149.5 
+Hailee_Steinfeld/QvyHeys4CFI_0000003 214.6 224.4 

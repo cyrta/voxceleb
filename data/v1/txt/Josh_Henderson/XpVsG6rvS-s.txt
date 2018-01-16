@@ -1,0 +1,14 @@
+POI: 			Josh_Henderson 
+Youtube ID: 	XpVsG6rvS-s 
+Video length: 	339.7 sec 
+Set (V): 		dev 
+ 
+Josh_Henderson/XpVsG6rvS-s_0000001 51.5 66.6 
+Josh_Henderson/XpVsG6rvS-s_0000002 85.2 92.4 
+Josh_Henderson/XpVsG6rvS-s_0000003 102.7 117.5 
+Josh_Henderson/XpVsG6rvS-s_0000004 119.6 133.9 
+Josh_Henderson/XpVsG6rvS-s_0000005 178.5 182.6 
+Josh_Henderson/XpVsG6rvS-s_0000006 184.4 190.6 
+Josh_Henderson/XpVsG6rvS-s_0000007 273.2 277.9 
+Josh_Henderson/XpVsG6rvS-s_0000008 280.3 287.4 
+Josh_Henderson/XpVsG6rvS-s_0000009 289.2 303.2 

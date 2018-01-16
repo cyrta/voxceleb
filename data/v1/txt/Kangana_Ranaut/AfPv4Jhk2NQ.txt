@@ -1,0 +1,9 @@
+POI: 			Kangana_Ranaut 
+Youtube ID: 	AfPv4Jhk2NQ 
+Video length: 	725.6 sec 
+Set (V): 		dev 
+ 
+Kangana_Ranaut/AfPv4Jhk2NQ_0000001 210.2 216.0 
+Kangana_Ranaut/AfPv4Jhk2NQ_0000002 359.1 363.2 
+Kangana_Ranaut/AfPv4Jhk2NQ_0000003 515.8 529.2 
+Kangana_Ranaut/AfPv4Jhk2NQ_0000004 554.3 559.3 

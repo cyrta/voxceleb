@@ -1,0 +1,7 @@
+POI: 			Sharlto_Copley 
+Youtube ID: 	ZS3RlkEFFXU 
+Video length: 	124.2 sec 
+Set (V): 		dev 
+ 
+Sharlto_Copley/ZS3RlkEFFXU_0000001 79.8 88.4 
+Sharlto_Copley/ZS3RlkEFFXU_0000002 88.5 94.7 

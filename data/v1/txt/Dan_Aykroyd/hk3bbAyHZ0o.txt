@@ -1,0 +1,9 @@
+POI: 			Dan_Aykroyd 
+Youtube ID: 	hk3bbAyHZ0o 
+Video length: 	160.1 sec 
+Set (V): 		dev 
+ 
+Dan_Aykroyd/hk3bbAyHZ0o_0000001 35.8 43.7 
+Dan_Aykroyd/hk3bbAyHZ0o_0000002 48.4 53.1 
+Dan_Aykroyd/hk3bbAyHZ0o_0000003 77.0 85.0 
+Dan_Aykroyd/hk3bbAyHZ0o_0000004 91.4 99.7 

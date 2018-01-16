@@ -1,0 +1,10 @@
+POI: 			Kate_Mara 
+Youtube ID: 	8IIwLtU_XrQ 
+Video length: 	190.9 sec 
+Set (V): 		dev 
+ 
+Kate_Mara/8IIwLtU_XrQ_0000001 51.0 61.0 
+Kate_Mara/8IIwLtU_XrQ_0000002 61.6 66.3 
+Kate_Mara/8IIwLtU_XrQ_0000003 66.6 77.6 
+Kate_Mara/8IIwLtU_XrQ_0000004 111.5 118.6 
+Kate_Mara/8IIwLtU_XrQ_0000005 172.4 187.6 

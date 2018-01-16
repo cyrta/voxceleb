@@ -1,0 +1,9 @@
+POI: 			Michael_Mando 
+Youtube ID: 	UMI64Tx-Xwg 
+Video length: 	881.6 sec 
+Set (V): 		dev 
+ 
+Michael_Mando/UMI64Tx-Xwg_0000001 263.4 270.1 
+Michael_Mando/UMI64Tx-Xwg_0000002 367.2 374.9 
+Michael_Mando/UMI64Tx-Xwg_0000003 472.2 476.3 
+Michael_Mando/UMI64Tx-Xwg_0000004 680.0 684.3 

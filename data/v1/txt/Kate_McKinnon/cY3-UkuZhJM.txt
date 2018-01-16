@@ -1,0 +1,12 @@
+POI: 			Kate_McKinnon 
+Youtube ID: 	cY3-UkuZhJM 
+Video length: 	423.9 sec 
+Set (V): 		dev 
+ 
+Kate_McKinnon/cY3-UkuZhJM_0000001 117.1 124.4 
+Kate_McKinnon/cY3-UkuZhJM_0000002 150.0 158.4 
+Kate_McKinnon/cY3-UkuZhJM_0000003 168.6 173.2 
+Kate_McKinnon/cY3-UkuZhJM_0000004 213.8 219.9 
+Kate_McKinnon/cY3-UkuZhJM_0000005 220.6 224.6 
+Kate_McKinnon/cY3-UkuZhJM_0000006 225.0 232.5 
+Kate_McKinnon/cY3-UkuZhJM_0000007 308.6 315.0 

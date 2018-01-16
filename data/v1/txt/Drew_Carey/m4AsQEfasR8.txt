@@ -1,0 +1,7 @@
+POI: 			Drew_Carey 
+Youtube ID: 	m4AsQEfasR8 
+Video length: 	83.4 sec 
+Set (V): 		dev 
+ 
+Drew_Carey/m4AsQEfasR8_0000001 01.1 11.3 
+Drew_Carey/m4AsQEfasR8_0000002 70.7 76.2 

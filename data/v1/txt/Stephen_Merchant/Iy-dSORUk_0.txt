@@ -1,0 +1,9 @@
+POI: 			Stephen_Merchant 
+Youtube ID: 	Iy-dSORUk_0 
+Video length: 	665.3 sec 
+Set (V): 		dev 
+ 
+Stephen_Merchant/Iy-dSORUk_0_0000001 127.0 131.2 
+Stephen_Merchant/Iy-dSORUk_0_0000002 601.7 607.6 
+Stephen_Merchant/Iy-dSORUk_0_0000003 623.2 628.1 
+Stephen_Merchant/Iy-dSORUk_0_0000004 635.3 639.6 

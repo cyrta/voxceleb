@@ -1,0 +1,13 @@
+POI: 			Maria_Menounos 
+Youtube ID: 	HKt85OQbrBk 
+Video length: 	291.2 sec 
+Set (V): 		dev 
+ 
+Maria_Menounos/HKt85OQbrBk_0000001 08.8 25.8 
+Maria_Menounos/HKt85OQbrBk_0000002 26.2 37.0 
+Maria_Menounos/HKt85OQbrBk_0000003 37.9 76.5 
+Maria_Menounos/HKt85OQbrBk_0000004 76.6 83.2 
+Maria_Menounos/HKt85OQbrBk_0000005 95.1 139.2 
+Maria_Menounos/HKt85OQbrBk_0000006 157.8 197.3 
+Maria_Menounos/HKt85OQbrBk_0000007 204.4 262.2 
+Maria_Menounos/HKt85OQbrBk_0000008 271.8 278.5 

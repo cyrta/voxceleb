@@ -1,0 +1,13 @@
+POI: 			Kelly_Macdonald 
+Youtube ID: 	dUwbMQZfmgk 
+Video length: 	284.3 sec 
+Set (V): 		dev 
+ 
+Kelly_Macdonald/dUwbMQZfmgk_0000001 28.6 37.2 
+Kelly_Macdonald/dUwbMQZfmgk_0000002 39.7 46.9 
+Kelly_Macdonald/dUwbMQZfmgk_0000003 70.4 77.0 
+Kelly_Macdonald/dUwbMQZfmgk_0000004 83.6 87.9 
+Kelly_Macdonald/dUwbMQZfmgk_0000005 89.0 100.5 
+Kelly_Macdonald/dUwbMQZfmgk_0000006 109.6 121.3 
+Kelly_Macdonald/dUwbMQZfmgk_0000007 186.3 192.6 
+Kelly_Macdonald/dUwbMQZfmgk_0000008 212.2 217.9 

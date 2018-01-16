@@ -1,0 +1,7 @@
+POI: 			Sean_Pertwee 
+Youtube ID: 	fpmDY1hQ-SI 
+Video length: 	92.2 sec 
+Set (V): 		dev 
+ 
+Sean_Pertwee/fpmDY1hQ-SI_0000001 46.0 57.8 
+Sean_Pertwee/fpmDY1hQ-SI_0000002 61.4 67.1 

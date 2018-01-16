@@ -1,0 +1,9 @@
+POI: 			Megan_Fox 
+Youtube ID: 	l1s5awTotwI 
+Video length: 	245.4 sec 
+Set (V): 		dev 
+ 
+Megan_Fox/l1s5awTotwI_0000001 56.8 62.2 
+Megan_Fox/l1s5awTotwI_0000002 97.7 102.6 
+Megan_Fox/l1s5awTotwI_0000003 105.1 109.4 
+Megan_Fox/l1s5awTotwI_0000004 147.2 151.2 

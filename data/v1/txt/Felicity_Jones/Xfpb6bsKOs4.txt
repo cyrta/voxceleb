@@ -1,0 +1,14 @@
+POI: 			Felicity_Jones 
+Youtube ID: 	Xfpb6bsKOs4 
+Video length: 	2470.3 sec 
+Set (V): 		dev 
+ 
+Felicity_Jones/Xfpb6bsKOs4_0000001 218.0 222.0 
+Felicity_Jones/Xfpb6bsKOs4_0000002 502.0 507.1 
+Felicity_Jones/Xfpb6bsKOs4_0000003 576.1 587.2 
+Felicity_Jones/Xfpb6bsKOs4_0000004 589.8 595.7 
+Felicity_Jones/Xfpb6bsKOs4_0000005 594.8 598.9 
+Felicity_Jones/Xfpb6bsKOs4_0000006 1342.1 1350.4 
+Felicity_Jones/Xfpb6bsKOs4_0000007 1365.8 1370.9 
+Felicity_Jones/Xfpb6bsKOs4_0000008 1385.0 1393.0 
+Felicity_Jones/Xfpb6bsKOs4_0000009 2025.4 2029.6 

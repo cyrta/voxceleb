@@ -1,0 +1,20 @@
+POI: 			Drake_Bell 
+Youtube ID: 	QOkW-8a89eU 
+Video length: 	447.7 sec 
+Set (V): 		dev 
+ 
+Drake_Bell/QOkW-8a89eU_0000001 13.1 18.1 
+Drake_Bell/QOkW-8a89eU_0000002 20.6 25.3 
+Drake_Bell/QOkW-8a89eU_0000003 40.6 47.0 
+Drake_Bell/QOkW-8a89eU_0000004 68.4 74.1 
+Drake_Bell/QOkW-8a89eU_0000005 88.5 92.5 
+Drake_Bell/QOkW-8a89eU_0000006 162.8 173.7 
+Drake_Bell/QOkW-8a89eU_0000007 180.2 184.8 
+Drake_Bell/QOkW-8a89eU_0000008 188.8 194.9 
+Drake_Bell/QOkW-8a89eU_0000009 195.6 200.4 
+Drake_Bell/QOkW-8a89eU_0000010 251.2 255.9 
+Drake_Bell/QOkW-8a89eU_0000011 260.2 281.8 
+Drake_Bell/QOkW-8a89eU_0000012 308.8 320.0 
+Drake_Bell/QOkW-8a89eU_0000013 352.3 359.2 
+Drake_Bell/QOkW-8a89eU_0000014 360.9 369.0 
+Drake_Bell/QOkW-8a89eU_0000015 411.6 416.7 

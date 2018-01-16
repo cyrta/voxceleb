@@ -1,0 +1,12 @@
+POI: 			John_Krasinski 
+Youtube ID: 	e-GVLnCx_BE 
+Video length: 	291.7 sec 
+Set (V): 		dev 
+ 
+John_Krasinski/e-GVLnCx_BE_0000001 35.7 41.8 
+John_Krasinski/e-GVLnCx_BE_0000002 60.4 64.9 
+John_Krasinski/e-GVLnCx_BE_0000003 111.2 115.4 
+John_Krasinski/e-GVLnCx_BE_0000004 118.5 126.1 
+John_Krasinski/e-GVLnCx_BE_0000005 143.9 151.8 
+John_Krasinski/e-GVLnCx_BE_0000006 182.1 194.9 
+John_Krasinski/e-GVLnCx_BE_0000007 242.2 251.8 

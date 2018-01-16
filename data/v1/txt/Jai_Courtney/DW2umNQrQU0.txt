@@ -1,0 +1,8 @@
+POI: 			Jai_Courtney 
+Youtube ID: 	DW2umNQrQU0 
+Video length: 	325.3 sec 
+Set (V): 		dev 
+ 
+Jai_Courtney/DW2umNQrQU0_0000001 95.9 102.7 
+Jai_Courtney/DW2umNQrQU0_0000002 204.6 209.8 
+Jai_Courtney/DW2umNQrQU0_0000003 246.2 255.0 

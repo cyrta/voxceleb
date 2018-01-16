@@ -1,0 +1,12 @@
+POI: 			Blair_Underwood 
+Youtube ID: 	Az5Riw7zEVg 
+Video length: 	210.6 sec 
+Set (V): 		dev 
+ 
+Blair_Underwood/Az5Riw7zEVg_0000001 55.7 71.7 
+Blair_Underwood/Az5Riw7zEVg_0000002 80.8 86.9 
+Blair_Underwood/Az5Riw7zEVg_0000003 93.9 101.3 
+Blair_Underwood/Az5Riw7zEVg_0000004 110.4 117.4 
+Blair_Underwood/Az5Riw7zEVg_0000005 117.8 128.8 
+Blair_Underwood/Az5Riw7zEVg_0000006 141.3 150.0 
+Blair_Underwood/Az5Riw7zEVg_0000007 150.1 155.1 

@@ -1,0 +1,8 @@
+POI: 			Stephen_Merchant 
+Youtube ID: 	R04AOcgKLkg 
+Video length: 	456.8 sec 
+Set (V): 		dev 
+ 
+Stephen_Merchant/R04AOcgKLkg_0000001 91.9 96.5 
+Stephen_Merchant/R04AOcgKLkg_0000002 148.2 154.7 
+Stephen_Merchant/R04AOcgKLkg_0000003 416.4 423.2 

@@ -1,0 +1,6 @@
+POI: 			Bruno_Mars 
+Youtube ID: 	om7V9YYMe9U 
+Video length: 	704.3 sec 
+Set (V): 		dev 
+ 
+Bruno_Mars/om7V9YYMe9U_0000001 96.0 100.5 

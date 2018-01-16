@@ -1,0 +1,8 @@
+POI: 			Judy_Sheindlin 
+Youtube ID: 	YwuQvM7sp5Q 
+Video length: 	260.2 sec 
+Set (V): 		dev 
+ 
+Judy_Sheindlin/YwuQvM7sp5Q_0000001 98.2 103.4 
+Judy_Sheindlin/YwuQvM7sp5Q_0000002 221.3 226.2 
+Judy_Sheindlin/YwuQvM7sp5Q_0000003 237.6 244.8 

@@ -1,0 +1,11 @@
+POI: 			Retta 
+Youtube ID: 	QilNIHzeyms 
+Video length: 	209.3 sec 
+Set (V): 		dev 
+ 
+Retta/QilNIHzeyms_0000001 33.0 38.6 
+Retta/QilNIHzeyms_0000002 62.5 68.6 
+Retta/QilNIHzeyms_0000003 69.3 73.4 
+Retta/QilNIHzeyms_0000004 112.5 118.0 
+Retta/QilNIHzeyms_0000005 125.2 141.1 
+Retta/QilNIHzeyms_0000006 160.7 164.8 

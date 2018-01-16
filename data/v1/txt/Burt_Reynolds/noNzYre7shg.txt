@@ -1,0 +1,8 @@
+POI: 			Burt_Reynolds 
+Youtube ID: 	noNzYre7shg 
+Video length: 	213.1 sec 
+Set (V): 		dev 
+ 
+Burt_Reynolds/noNzYre7shg_0000001 61.9 66.2 
+Burt_Reynolds/noNzYre7shg_0000002 69.7 73.6 
+Burt_Reynolds/noNzYre7shg_0000003 89.1 93.6 

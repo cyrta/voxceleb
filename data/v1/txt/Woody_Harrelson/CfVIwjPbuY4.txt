@@ -1,0 +1,33 @@
+POI: 			Woody_Harrelson 
+Youtube ID: 	CfVIwjPbuY4 
+Video length: 	399.2 sec 
+Set (V): 		dev 
+ 
+Woody_Harrelson/CfVIwjPbuY4_0000001 03.0 18.6 
+Woody_Harrelson/CfVIwjPbuY4_0000002 27.6 59.9 
+Woody_Harrelson/CfVIwjPbuY4_0000003 60.0 66.0 
+Woody_Harrelson/CfVIwjPbuY4_0000004 66.3 72.9 
+Woody_Harrelson/CfVIwjPbuY4_0000005 82.3 87.4 
+Woody_Harrelson/CfVIwjPbuY4_0000006 90.7 96.7 
+Woody_Harrelson/CfVIwjPbuY4_0000007 97.1 104.5 
+Woody_Harrelson/CfVIwjPbuY4_0000008 99.0 105.0 
+Woody_Harrelson/CfVIwjPbuY4_0000009 112.7 118.1 
+Woody_Harrelson/CfVIwjPbuY4_0000010 122.0 127.5 
+Woody_Harrelson/CfVIwjPbuY4_0000011 134.0 162.2 
+Woody_Harrelson/CfVIwjPbuY4_0000012 161.6 167.8 
+Woody_Harrelson/CfVIwjPbuY4_0000013 168.5 183.2 
+Woody_Harrelson/CfVIwjPbuY4_0000014 184.7 196.0 
+Woody_Harrelson/CfVIwjPbuY4_0000015 198.8 206.0 
+Woody_Harrelson/CfVIwjPbuY4_0000016 212.4 220.4 
+Woody_Harrelson/CfVIwjPbuY4_0000017 225.5 235.4 
+Woody_Harrelson/CfVIwjPbuY4_0000018 238.5 245.4 
+Woody_Harrelson/CfVIwjPbuY4_0000019 246.0 250.2 
+Woody_Harrelson/CfVIwjPbuY4_0000020 251.8 268.0 
+Woody_Harrelson/CfVIwjPbuY4_0000021 269.8 281.4 
+Woody_Harrelson/CfVIwjPbuY4_0000022 287.0 312.9 
+Woody_Harrelson/CfVIwjPbuY4_0000023 316.0 323.2 
+Woody_Harrelson/CfVIwjPbuY4_0000024 325.1 333.5 
+Woody_Harrelson/CfVIwjPbuY4_0000025 335.9 342.9 
+Woody_Harrelson/CfVIwjPbuY4_0000026 346.2 366.2 
+Woody_Harrelson/CfVIwjPbuY4_0000027 366.6 371.7 
+Woody_Harrelson/CfVIwjPbuY4_0000028 378.0 390.5 

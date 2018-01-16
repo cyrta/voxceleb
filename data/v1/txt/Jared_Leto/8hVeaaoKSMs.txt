@@ -1,0 +1,15 @@
+POI: 			Jared_Leto 
+Youtube ID: 	8hVeaaoKSMs 
+Video length: 	532.9 sec 
+Set (V): 		dev 
+ 
+Jared_Leto/8hVeaaoKSMs_0000001 78.6 83.2 
+Jared_Leto/8hVeaaoKSMs_0000002 86.2 94.6 
+Jared_Leto/8hVeaaoKSMs_0000003 119.6 124.5 
+Jared_Leto/8hVeaaoKSMs_0000004 137.0 143.2 
+Jared_Leto/8hVeaaoKSMs_0000005 355.5 361.6 
+Jared_Leto/8hVeaaoKSMs_0000006 378.1 387.2 
+Jared_Leto/8hVeaaoKSMs_0000007 391.7 405.7 
+Jared_Leto/8hVeaaoKSMs_0000008 455.8 463.8 
+Jared_Leto/8hVeaaoKSMs_0000009 496.0 502.8 
+Jared_Leto/8hVeaaoKSMs_0000010 503.7 510.2 

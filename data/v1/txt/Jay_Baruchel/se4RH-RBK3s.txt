@@ -1,0 +1,15 @@
+POI: 			Jay_Baruchel 
+Youtube ID: 	se4RH-RBK3s 
+Video length: 	736.9 sec 
+Set (V): 		dev 
+ 
+Jay_Baruchel/se4RH-RBK3s_0000001 152.3 158.3 
+Jay_Baruchel/se4RH-RBK3s_0000002 165.1 169.1 
+Jay_Baruchel/se4RH-RBK3s_0000003 231.6 237.5 
+Jay_Baruchel/se4RH-RBK3s_0000004 416.0 420.3 
+Jay_Baruchel/se4RH-RBK3s_0000005 445.7 450.6 
+Jay_Baruchel/se4RH-RBK3s_0000006 476.2 481.0 
+Jay_Baruchel/se4RH-RBK3s_0000007 574.5 579.1 
+Jay_Baruchel/se4RH-RBK3s_0000008 592.6 596.8 
+Jay_Baruchel/se4RH-RBK3s_0000009 687.0 692.4 
+Jay_Baruchel/se4RH-RBK3s_0000010 693.8 699.5 

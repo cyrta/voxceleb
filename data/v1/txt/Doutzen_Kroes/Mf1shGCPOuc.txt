@@ -1,0 +1,19 @@
+POI: 			Doutzen_Kroes 
+Youtube ID: 	Mf1shGCPOuc 
+Video length: 	473.7 sec 
+Set (V): 		dev 
+ 
+Doutzen_Kroes/Mf1shGCPOuc_0000001 35.2 46.5 
+Doutzen_Kroes/Mf1shGCPOuc_0000002 148.5 157.3 
+Doutzen_Kroes/Mf1shGCPOuc_0000003 160.8 164.8 
+Doutzen_Kroes/Mf1shGCPOuc_0000004 176.8 182.7 
+Doutzen_Kroes/Mf1shGCPOuc_0000005 183.3 188.9 
+Doutzen_Kroes/Mf1shGCPOuc_0000006 198.6 204.3 
+Doutzen_Kroes/Mf1shGCPOuc_0000007 208.2 214.5 
+Doutzen_Kroes/Mf1shGCPOuc_0000008 215.0 224.8 
+Doutzen_Kroes/Mf1shGCPOuc_0000009 237.1 247.2 
+Doutzen_Kroes/Mf1shGCPOuc_0000010 247.4 255.0 
+Doutzen_Kroes/Mf1shGCPOuc_0000011 259.4 272.6 
+Doutzen_Kroes/Mf1shGCPOuc_0000012 370.2 374.6 
+Doutzen_Kroes/Mf1shGCPOuc_0000013 413.6 420.5 
+Doutzen_Kroes/Mf1shGCPOuc_0000014 464.7 469.2 

@@ -1,0 +1,12 @@
+POI: 			Rami_Malek 
+Youtube ID: 	nKirqMKrsso 
+Video length: 	459.0 sec 
+Set (V): 		dev 
+ 
+Rami_Malek/nKirqMKrsso_0000001 129.0 137.0 
+Rami_Malek/nKirqMKrsso_0000002 166.8 183.4 
+Rami_Malek/nKirqMKrsso_0000003 184.2 197.1 
+Rami_Malek/nKirqMKrsso_0000004 232.9 244.8 
+Rami_Malek/nKirqMKrsso_0000005 245.7 261.0 
+Rami_Malek/nKirqMKrsso_0000006 303.3 308.3 
+Rami_Malek/nKirqMKrsso_0000007 343.8 356.5 

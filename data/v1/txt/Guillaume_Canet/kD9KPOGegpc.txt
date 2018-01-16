@@ -1,0 +1,34 @@
+POI: 			Guillaume_Canet 
+Youtube ID: 	kD9KPOGegpc 
+Video length: 	3290.5 sec 
+Set (V): 		dev 
+ 
+Guillaume_Canet/kD9KPOGegpc_0000001 134.0 138.1 
+Guillaume_Canet/kD9KPOGegpc_0000002 138.7 144.7 
+Guillaume_Canet/kD9KPOGegpc_0000003 455.2 460.1 
+Guillaume_Canet/kD9KPOGegpc_0000004 460.4 464.9 
+Guillaume_Canet/kD9KPOGegpc_0000005 470.7 475.0 
+Guillaume_Canet/kD9KPOGegpc_0000006 631.3 635.7 
+Guillaume_Canet/kD9KPOGegpc_0000007 692.0 699.2 
+Guillaume_Canet/kD9KPOGegpc_0000008 728.2 732.3 
+Guillaume_Canet/kD9KPOGegpc_0000009 792.6 797.8 
+Guillaume_Canet/kD9KPOGegpc_0000010 840.6 847.0 
+Guillaume_Canet/kD9KPOGegpc_0000011 1058.6 1065.5 
+Guillaume_Canet/kD9KPOGegpc_0000012 1126.5 1131.0 
+Guillaume_Canet/kD9KPOGegpc_0000013 1416.7 1421.6 
+Guillaume_Canet/kD9KPOGegpc_0000014 1974.4 1981.1 
+Guillaume_Canet/kD9KPOGegpc_0000015 2131.7 2137.5 
+Guillaume_Canet/kD9KPOGegpc_0000016 2154.4 2159.2 
+Guillaume_Canet/kD9KPOGegpc_0000017 2162.0 2169.7 
+Guillaume_Canet/kD9KPOGegpc_0000018 2174.4 2182.3 
+Guillaume_Canet/kD9KPOGegpc_0000019 2189.8 2193.8 
+Guillaume_Canet/kD9KPOGegpc_0000020 2195.4 2199.9 
+Guillaume_Canet/kD9KPOGegpc_0000021 2249.9 2254.8 
+Guillaume_Canet/kD9KPOGegpc_0000022 2543.2 2547.6 
+Guillaume_Canet/kD9KPOGegpc_0000023 2660.8 2665.3 
+Guillaume_Canet/kD9KPOGegpc_0000024 2672.7 2677.1 
+Guillaume_Canet/kD9KPOGegpc_0000025 2871.9 2877.2 
+Guillaume_Canet/kD9KPOGegpc_0000026 2921.2 2925.3 
+Guillaume_Canet/kD9KPOGegpc_0000027 2986.3 2990.5 
+Guillaume_Canet/kD9KPOGegpc_0000028 3012.0 3016.0 
+Guillaume_Canet/kD9KPOGegpc_0000029 3194.0 3201.1 

@@ -1,0 +1,20 @@
+POI: 			Seth_MacFarlane 
+Youtube ID: 	rKURWCicyQU 
+Video length: 	416.0 sec 
+Set (V): 		dev 
+ 
+Seth_MacFarlane/rKURWCicyQU_0000001 15.6 25.2 
+Seth_MacFarlane/rKURWCicyQU_0000002 26.6 33.6 
+Seth_MacFarlane/rKURWCicyQU_0000003 34.4 46.0 
+Seth_MacFarlane/rKURWCicyQU_0000004 56.0 61.5 
+Seth_MacFarlane/rKURWCicyQU_0000005 116.2 133.8 
+Seth_MacFarlane/rKURWCicyQU_0000006 134.0 141.0 
+Seth_MacFarlane/rKURWCicyQU_0000007 204.6 208.8 
+Seth_MacFarlane/rKURWCicyQU_0000008 216.0 223.0 
+Seth_MacFarlane/rKURWCicyQU_0000009 223.7 240.6 
+Seth_MacFarlane/rKURWCicyQU_0000010 241.8 249.9 
+Seth_MacFarlane/rKURWCicyQU_0000011 278.3 294.6 
+Seth_MacFarlane/rKURWCicyQU_0000012 308.1 313.0 
+Seth_MacFarlane/rKURWCicyQU_0000013 314.4 325.6 
+Seth_MacFarlane/rKURWCicyQU_0000014 326.3 332.1 
+Seth_MacFarlane/rKURWCicyQU_0000015 386.6 392.6 

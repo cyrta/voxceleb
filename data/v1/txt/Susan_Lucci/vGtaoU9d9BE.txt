@@ -1,0 +1,15 @@
+POI: 			Susan_Lucci 
+Youtube ID: 	vGtaoU9d9BE 
+Video length: 	225.7 sec 
+Set (V): 		dev 
+ 
+Susan_Lucci/vGtaoU9d9BE_0000001 08.5 20.0 
+Susan_Lucci/vGtaoU9d9BE_0000002 21.6 34.4 
+Susan_Lucci/vGtaoU9d9BE_0000003 43.8 50.3 
+Susan_Lucci/vGtaoU9d9BE_0000004 50.5 63.6 
+Susan_Lucci/vGtaoU9d9BE_0000005 100.9 120.0 
+Susan_Lucci/vGtaoU9d9BE_0000006 131.5 139.4 
+Susan_Lucci/vGtaoU9d9BE_0000007 147.6 152.7 
+Susan_Lucci/vGtaoU9d9BE_0000008 163.8 170.3 
+Susan_Lucci/vGtaoU9d9BE_0000009 170.5 175.0 
+Susan_Lucci/vGtaoU9d9BE_0000010 191.3 199.2 

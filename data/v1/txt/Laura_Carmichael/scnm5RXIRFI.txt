@@ -1,0 +1,9 @@
+POI: 			Laura_Carmichael 
+Youtube ID: 	scnm5RXIRFI 
+Video length: 	338.7 sec 
+Set (V): 		dev 
+ 
+Laura_Carmichael/scnm5RXIRFI_0000001 72.1 77.0 
+Laura_Carmichael/scnm5RXIRFI_0000002 132.2 140.5 
+Laura_Carmichael/scnm5RXIRFI_0000003 225.2 229.5 
+Laura_Carmichael/scnm5RXIRFI_0000004 305.9 313.2 

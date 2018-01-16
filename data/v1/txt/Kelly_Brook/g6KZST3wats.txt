@@ -1,0 +1,13 @@
+POI: 			Kelly_Brook 
+Youtube ID: 	g6KZST3wats 
+Video length: 	156.8 sec 
+Set (V): 		dev 
+ 
+Kelly_Brook/g6KZST3wats_0000001 14.8 24.5 
+Kelly_Brook/g6KZST3wats_0000002 39.2 51.9 
+Kelly_Brook/g6KZST3wats_0000003 52.0 60.4 
+Kelly_Brook/g6KZST3wats_0000004 78.6 86.4 
+Kelly_Brook/g6KZST3wats_0000005 96.2 117.7 
+Kelly_Brook/g6KZST3wats_0000006 117.8 124.0 
+Kelly_Brook/g6KZST3wats_0000007 129.4 136.1 
+Kelly_Brook/g6KZST3wats_0000008 136.8 145.8 

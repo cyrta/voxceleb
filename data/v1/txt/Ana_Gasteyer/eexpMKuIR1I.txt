@@ -1,0 +1,21 @@
+POI: 			Ana_Gasteyer 
+Youtube ID: 	eexpMKuIR1I 
+Video length: 	227.9 sec 
+Set (V): 		dev 
+ 
+Ana_Gasteyer/eexpMKuIR1I_0000001 15.8 26.4 
+Ana_Gasteyer/eexpMKuIR1I_0000002 28.6 34.6 
+Ana_Gasteyer/eexpMKuIR1I_0000003 36.7 45.6 
+Ana_Gasteyer/eexpMKuIR1I_0000004 48.8 52.8 
+Ana_Gasteyer/eexpMKuIR1I_0000005 55.4 62.0 
+Ana_Gasteyer/eexpMKuIR1I_0000006 62.8 69.3 
+Ana_Gasteyer/eexpMKuIR1I_0000007 77.9 85.7 
+Ana_Gasteyer/eexpMKuIR1I_0000008 87.2 91.4 
+Ana_Gasteyer/eexpMKuIR1I_0000009 116.5 123.6 
+Ana_Gasteyer/eexpMKuIR1I_0000010 124.3 133.4 
+Ana_Gasteyer/eexpMKuIR1I_0000011 141.0 147.8 
+Ana_Gasteyer/eexpMKuIR1I_0000012 151.2 156.6 
+Ana_Gasteyer/eexpMKuIR1I_0000013 171.3 182.4 
+Ana_Gasteyer/eexpMKuIR1I_0000014 183.7 191.2 
+Ana_Gasteyer/eexpMKuIR1I_0000015 192.6 204.0 
+Ana_Gasteyer/eexpMKuIR1I_0000016 208.3 218.6 

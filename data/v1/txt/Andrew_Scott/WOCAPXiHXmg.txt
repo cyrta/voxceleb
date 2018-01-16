@@ -1,0 +1,15 @@
+POI: 			Andrew_Scott 
+Youtube ID: 	WOCAPXiHXmg 
+Video length: 	332.5 sec 
+Set (V): 		dev 
+ 
+Andrew_Scott/WOCAPXiHXmg_0000001 42.3 47.4 
+Andrew_Scott/WOCAPXiHXmg_0000002 55.3 61.0 
+Andrew_Scott/WOCAPXiHXmg_0000003 81.9 92.5 
+Andrew_Scott/WOCAPXiHXmg_0000004 127.6 133.6 
+Andrew_Scott/WOCAPXiHXmg_0000005 135.3 139.3 
+Andrew_Scott/WOCAPXiHXmg_0000006 159.1 164.1 
+Andrew_Scott/WOCAPXiHXmg_0000007 184.3 190.0 
+Andrew_Scott/WOCAPXiHXmg_0000008 195.6 200.5 
+Andrew_Scott/WOCAPXiHXmg_0000009 205.6 211.0 
+Andrew_Scott/WOCAPXiHXmg_0000010 211.9 216.6 

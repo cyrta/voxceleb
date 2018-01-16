@@ -1,0 +1,11 @@
+POI: 			Sidse_Babett_Knudsen 
+Youtube ID: 	ZNKLBosKZcw 
+Video length: 	500.2 sec 
+Set (V): 		dev 
+ 
+Sidse_Babett_Knudsen/ZNKLBosKZcw_0000001 73.2 78.0 
+Sidse_Babett_Knudsen/ZNKLBosKZcw_0000002 79.0 85.7 
+Sidse_Babett_Knudsen/ZNKLBosKZcw_0000003 96.6 102.9 
+Sidse_Babett_Knudsen/ZNKLBosKZcw_0000004 185.3 190.3 
+Sidse_Babett_Knudsen/ZNKLBosKZcw_0000005 306.9 311.4 
+Sidse_Babett_Knudsen/ZNKLBosKZcw_0000006 418.8 423.3 

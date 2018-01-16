@@ -1,0 +1,16 @@
+POI: 			Jordin_Sparks 
+Youtube ID: 	axZRnqlotPI 
+Video length: 	876.8 sec 
+Set (V): 		dev 
+ 
+Jordin_Sparks/axZRnqlotPI_0000001 27.6 36.2 
+Jordin_Sparks/axZRnqlotPI_0000002 36.4 43.1 
+Jordin_Sparks/axZRnqlotPI_0000003 123.2 139.2 
+Jordin_Sparks/axZRnqlotPI_0000004 140.0 157.8 
+Jordin_Sparks/axZRnqlotPI_0000005 163.0 174.5 
+Jordin_Sparks/axZRnqlotPI_0000006 301.5 321.8 
+Jordin_Sparks/axZRnqlotPI_0000007 432.3 437.7 
+Jordin_Sparks/axZRnqlotPI_0000008 443.2 475.3 
+Jordin_Sparks/axZRnqlotPI_0000009 525.6 559.9 
+Jordin_Sparks/axZRnqlotPI_0000010 671.9 685.9 
+Jordin_Sparks/axZRnqlotPI_0000011 690.8 696.8 

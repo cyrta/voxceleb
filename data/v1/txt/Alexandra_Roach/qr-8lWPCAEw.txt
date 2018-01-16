@@ -1,0 +1,12 @@
+POI: 			Alexandra_Roach 
+Youtube ID: 	qr-8lWPCAEw 
+Video length: 	335.5 sec 
+Set (V): 		dev 
+ 
+Alexandra_Roach/qr-8lWPCAEw_0000001 63.4 73.6 
+Alexandra_Roach/qr-8lWPCAEw_0000002 74.7 92.5 
+Alexandra_Roach/qr-8lWPCAEw_0000003 141.4 164.2 
+Alexandra_Roach/qr-8lWPCAEw_0000004 177.1 191.5 
+Alexandra_Roach/qr-8lWPCAEw_0000005 206.3 219.1 
+Alexandra_Roach/qr-8lWPCAEw_0000006 219.3 236.4 
+Alexandra_Roach/qr-8lWPCAEw_0000007 247.0 273.9 

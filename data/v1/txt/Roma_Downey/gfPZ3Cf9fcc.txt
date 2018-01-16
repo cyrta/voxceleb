@@ -1,0 +1,14 @@
+POI: 			Roma_Downey 
+Youtube ID: 	gfPZ3Cf9fcc 
+Video length: 	388.4 sec 
+Set (V): 		dev 
+ 
+Roma_Downey/gfPZ3Cf9fcc_0000001 152.1 157.0 
+Roma_Downey/gfPZ3Cf9fcc_0000002 159.1 163.2 
+Roma_Downey/gfPZ3Cf9fcc_0000003 175.9 188.5 
+Roma_Downey/gfPZ3Cf9fcc_0000004 198.8 204.3 
+Roma_Downey/gfPZ3Cf9fcc_0000005 218.8 227.0 
+Roma_Downey/gfPZ3Cf9fcc_0000006 249.0 260.8 
+Roma_Downey/gfPZ3Cf9fcc_0000007 287.4 292.7 
+Roma_Downey/gfPZ3Cf9fcc_0000008 303.6 307.8 
+Roma_Downey/gfPZ3Cf9fcc_0000009 317.5 333.5 

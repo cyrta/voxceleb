@@ -1,0 +1,11 @@
+POI: 			Chadwick_Boseman 
+Youtube ID: 	ZQFSedwxeSc 
+Video length: 	353.2 sec 
+Set (V): 		dev 
+ 
+Chadwick_Boseman/ZQFSedwxeSc_0000001 124.5 133.0 
+Chadwick_Boseman/ZQFSedwxeSc_0000002 151.3 156.0 
+Chadwick_Boseman/ZQFSedwxeSc_0000003 156.4 163.9 
+Chadwick_Boseman/ZQFSedwxeSc_0000004 288.3 295.0 
+Chadwick_Boseman/ZQFSedwxeSc_0000005 321.9 327.0 
+Chadwick_Boseman/ZQFSedwxeSc_0000006 327.9 332.7 

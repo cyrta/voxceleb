@@ -1,0 +1,7 @@
+POI: 			Rutger_Hauer 
+Youtube ID: 	Z1zdpkOSB2E 
+Video length: 	226.1 sec 
+Set (V): 		dev 
+ 
+Rutger_Hauer/Z1zdpkOSB2E_0000001 111.4 116.1 
+Rutger_Hauer/Z1zdpkOSB2E_0000002 126.8 131.4 

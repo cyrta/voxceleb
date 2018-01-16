@@ -1,0 +1,7 @@
+POI: 			Richard_Dean_Anderson 
+Youtube ID: 	0d2OTlAD3kU 
+Video length: 	37.1 sec 
+Set (V): 		dev 
+ 
+Richard_Dean_Anderson/0d2OTlAD3kU_0000001 14.5 20.8 
+Richard_Dean_Anderson/0d2OTlAD3kU_0000002 25.0 31.8 

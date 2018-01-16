@@ -1,0 +1,9 @@
+POI: 			Shane_West 
+Youtube ID: 	b84qQ0CXbRs 
+Video length: 	379.4 sec 
+Set (V): 		dev 
+ 
+Shane_West/b84qQ0CXbRs_0000001 12.6 16.8 
+Shane_West/b84qQ0CXbRs_0000002 70.7 77.1 
+Shane_West/b84qQ0CXbRs_0000003 221.9 226.8 
+Shane_West/b84qQ0CXbRs_0000004 244.6 253.8 

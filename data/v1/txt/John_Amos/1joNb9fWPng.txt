@@ -1,0 +1,27 @@
+POI: 			John_Amos 
+Youtube ID: 	1joNb9fWPng 
+Video length: 	315.6 sec 
+Set (V): 		dev 
+ 
+John_Amos/1joNb9fWPng_0000001 10.4 14.4 
+John_Amos/1joNb9fWPng_0000002 14.9 24.0 
+John_Amos/1joNb9fWPng_0000003 29.8 37.2 
+John_Amos/1joNb9fWPng_0000004 43.1 49.7 
+John_Amos/1joNb9fWPng_0000005 51.4 59.2 
+John_Amos/1joNb9fWPng_0000006 62.8 67.6 
+John_Amos/1joNb9fWPng_0000007 74.8 87.2 
+John_Amos/1joNb9fWPng_0000008 92.7 102.2 
+John_Amos/1joNb9fWPng_0000009 104.0 116.3 
+John_Amos/1joNb9fWPng_0000010 117.1 125.6 
+John_Amos/1joNb9fWPng_0000011 128.1 136.2 
+John_Amos/1joNb9fWPng_0000012 141.1 145.8 
+John_Amos/1joNb9fWPng_0000013 165.6 181.8 
+John_Amos/1joNb9fWPng_0000014 183.2 190.9 
+John_Amos/1joNb9fWPng_0000015 196.2 200.6 
+John_Amos/1joNb9fWPng_0000016 207.2 213.3 
+John_Amos/1joNb9fWPng_0000017 214.1 226.2 
+John_Amos/1joNb9fWPng_0000018 228.8 233.4 
+John_Amos/1joNb9fWPng_0000019 244.9 249.0 
+John_Amos/1joNb9fWPng_0000020 256.0 275.4 
+John_Amos/1joNb9fWPng_0000021 277.7 281.9 
+John_Amos/1joNb9fWPng_0000022 286.2 294.2 

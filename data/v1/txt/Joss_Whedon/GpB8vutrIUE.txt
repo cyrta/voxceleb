@@ -1,0 +1,20 @@
+POI: 			Joss_Whedon 
+Youtube ID: 	GpB8vutrIUE 
+Video length: 	337.1 sec 
+Set (V): 		dev 
+ 
+Joss_Whedon/GpB8vutrIUE_0000001 05.3 15.0 
+Joss_Whedon/GpB8vutrIUE_0000002 20.5 26.2 
+Joss_Whedon/GpB8vutrIUE_0000003 30.5 38.4 
+Joss_Whedon/GpB8vutrIUE_0000004 67.8 72.1 
+Joss_Whedon/GpB8vutrIUE_0000005 67.8 74.4 
+Joss_Whedon/GpB8vutrIUE_0000006 76.2 114.4 
+Joss_Whedon/GpB8vutrIUE_0000007 137.6 150.4 
+Joss_Whedon/GpB8vutrIUE_0000008 152.5 172.6 
+Joss_Whedon/GpB8vutrIUE_0000009 209.5 217.3 
+Joss_Whedon/GpB8vutrIUE_0000010 246.8 253.7 
+Joss_Whedon/GpB8vutrIUE_0000011 259.0 274.0 
+Joss_Whedon/GpB8vutrIUE_0000012 274.8 286.0 
+Joss_Whedon/GpB8vutrIUE_0000013 297.1 308.6 
+Joss_Whedon/GpB8vutrIUE_0000014 311.4 322.4 
+Joss_Whedon/GpB8vutrIUE_0000015 322.6 333.4 

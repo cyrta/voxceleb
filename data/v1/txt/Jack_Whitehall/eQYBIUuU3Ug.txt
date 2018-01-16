@@ -1,0 +1,26 @@
+POI: 			Jack_Whitehall 
+Youtube ID: 	eQYBIUuU3Ug 
+Video length: 	348.9 sec 
+Set (V): 		dev 
+ 
+Jack_Whitehall/eQYBIUuU3Ug_0000001 04.9 10.1 
+Jack_Whitehall/eQYBIUuU3Ug_0000002 11.5 20.8 
+Jack_Whitehall/eQYBIUuU3Ug_0000003 32.9 46.4 
+Jack_Whitehall/eQYBIUuU3Ug_0000004 47.2 54.4 
+Jack_Whitehall/eQYBIUuU3Ug_0000005 59.8 65.8 
+Jack_Whitehall/eQYBIUuU3Ug_0000006 67.8 83.4 
+Jack_Whitehall/eQYBIUuU3Ug_0000007 88.7 94.2 
+Jack_Whitehall/eQYBIUuU3Ug_0000008 101.8 110.2 
+Jack_Whitehall/eQYBIUuU3Ug_0000009 119.9 133.7 
+Jack_Whitehall/eQYBIUuU3Ug_0000010 136.8 140.8 
+Jack_Whitehall/eQYBIUuU3Ug_0000011 146.9 157.9 
+Jack_Whitehall/eQYBIUuU3Ug_0000012 158.8 181.4 
+Jack_Whitehall/eQYBIUuU3Ug_0000013 182.3 188.1 
+Jack_Whitehall/eQYBIUuU3Ug_0000014 218.4 234.0 
+Jack_Whitehall/eQYBIUuU3Ug_0000015 234.8 241.4 
+Jack_Whitehall/eQYBIUuU3Ug_0000016 245.2 250.5 
+Jack_Whitehall/eQYBIUuU3Ug_0000017 250.7 256.2 
+Jack_Whitehall/eQYBIUuU3Ug_0000018 257.4 266.2 
+Jack_Whitehall/eQYBIUuU3Ug_0000019 269.3 277.3 
+Jack_Whitehall/eQYBIUuU3Ug_0000020 284.0 298.8 
+Jack_Whitehall/eQYBIUuU3Ug_0000021 305.7 321.6 

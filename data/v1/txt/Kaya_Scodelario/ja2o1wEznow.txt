@@ -1,0 +1,15 @@
+POI: 			Kaya_Scodelario 
+Youtube ID: 	ja2o1wEznow 
+Video length: 	245.2 sec 
+Set (V): 		dev 
+ 
+Kaya_Scodelario/ja2o1wEznow_0000001 13.9 25.4 
+Kaya_Scodelario/ja2o1wEznow_0000002 29.4 34.6 
+Kaya_Scodelario/ja2o1wEznow_0000003 47.0 52.2 
+Kaya_Scodelario/ja2o1wEznow_0000004 57.8 71.0 
+Kaya_Scodelario/ja2o1wEznow_0000005 73.0 82.4 
+Kaya_Scodelario/ja2o1wEznow_0000006 98.0 102.5 
+Kaya_Scodelario/ja2o1wEznow_0000007 111.6 120.9 
+Kaya_Scodelario/ja2o1wEznow_0000008 155.2 159.3 
+Kaya_Scodelario/ja2o1wEznow_0000009 167.8 172.0 
+Kaya_Scodelario/ja2o1wEznow_0000010 196.2 208.9 

@@ -1,0 +1,9 @@
+POI: 			Steve_Harvey 
+Youtube ID: 	y6jH7aduVak 
+Video length: 	1136.0 sec 
+Set (V): 		dev 
+ 
+Steve_Harvey/y6jH7aduVak_0000001 323.5 327.8 
+Steve_Harvey/y6jH7aduVak_0000002 568.8 573.2 
+Steve_Harvey/y6jH7aduVak_0000003 576.4 580.6 
+Steve_Harvey/y6jH7aduVak_0000004 599.7 607.3 

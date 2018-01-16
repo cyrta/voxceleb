@@ -1,0 +1,10 @@
+POI: 			Zachary_Quinto 
+Youtube ID: 	T5VqQSfzmHo 
+Video length: 	215.6 sec 
+Set (V): 		dev 
+ 
+Zachary_Quinto/T5VqQSfzmHo_0000001 26.6 41.2 
+Zachary_Quinto/T5VqQSfzmHo_0000002 177.4 181.7 
+Zachary_Quinto/T5VqQSfzmHo_0000003 184.2 188.8 
+Zachary_Quinto/T5VqQSfzmHo_0000004 189.8 195.9 
+Zachary_Quinto/T5VqQSfzmHo_0000005 196.8 204.3 

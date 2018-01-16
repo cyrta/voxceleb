@@ -1,0 +1,14 @@
+POI: 			Tom_Hooper 
+Youtube ID: 	QS4kZoEGTLk 
+Video length: 	274.1 sec 
+Set (V): 		dev 
+ 
+Tom_Hooper/QS4kZoEGTLk_0000001 46.9 52.2 
+Tom_Hooper/QS4kZoEGTLk_0000002 105.6 109.7 
+Tom_Hooper/QS4kZoEGTLk_0000003 128.6 133.5 
+Tom_Hooper/QS4kZoEGTLk_0000004 134.2 140.0 
+Tom_Hooper/QS4kZoEGTLk_0000005 140.8 146.0 
+Tom_Hooper/QS4kZoEGTLk_0000006 178.1 183.0 
+Tom_Hooper/QS4kZoEGTLk_0000007 221.5 228.2 
+Tom_Hooper/QS4kZoEGTLk_0000008 228.7 234.6 
+Tom_Hooper/QS4kZoEGTLk_0000009 235.3 240.7 

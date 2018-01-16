@@ -1,0 +1,7 @@
+POI: 			Shonda_Rhimes 
+Youtube ID: 	Uud38zrOMRI 
+Video length: 	151.1 sec 
+Set (V): 		dev 
+ 
+Shonda_Rhimes/Uud38zrOMRI_0000001 39.4 52.1 
+Shonda_Rhimes/Uud38zrOMRI_0000002 96.6 107.5 

@@ -1,0 +1,8 @@
+POI: 			Andrew_Dice_Clay 
+Youtube ID: 	0w7eBiu0Zak 
+Video length: 	423.1 sec 
+Set (V): 		dev 
+ 
+Andrew_Dice_Clay/0w7eBiu0Zak_0000001 272.0 276.3 
+Andrew_Dice_Clay/0w7eBiu0Zak_0000002 341.6 345.7 
+Andrew_Dice_Clay/0w7eBiu0Zak_0000003 355.1 359.4 

@@ -1,0 +1,7 @@
+POI: 			Michelle_Stafford 
+Youtube ID: 	hUmy-eu_OVI 
+Video length: 	1712.6 sec 
+Set (V): 		dev 
+ 
+Michelle_Stafford/hUmy-eu_OVI_0000001 287.5 291.7 
+Michelle_Stafford/hUmy-eu_OVI_0000002 686.5 690.5 

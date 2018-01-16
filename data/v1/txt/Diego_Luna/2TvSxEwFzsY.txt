@@ -1,0 +1,10 @@
+POI: 			Diego_Luna 
+Youtube ID: 	2TvSxEwFzsY 
+Video length: 	185.4 sec 
+Set (V): 		dev 
+ 
+Diego_Luna/2TvSxEwFzsY_0000001 57.8 66.7 
+Diego_Luna/2TvSxEwFzsY_0000002 70.2 75.3 
+Diego_Luna/2TvSxEwFzsY_0000003 76.9 82.9 
+Diego_Luna/2TvSxEwFzsY_0000004 141.8 151.4 
+Diego_Luna/2TvSxEwFzsY_0000005 151.9 157.9 

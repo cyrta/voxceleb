@@ -1,0 +1,8 @@
+POI: 			Mira_Furlan 
+Youtube ID: 	W3sMMX8ZTTk 
+Video length: 	351.1 sec 
+Set (V): 		dev 
+ 
+Mira_Furlan/W3sMMX8ZTTk_0000001 58.8 64.0 
+Mira_Furlan/W3sMMX8ZTTk_0000002 133.9 139.6 
+Mira_Furlan/W3sMMX8ZTTk_0000003 155.4 159.5 

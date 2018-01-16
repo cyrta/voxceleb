@@ -1,0 +1,10 @@
+POI: 			Andrea_Riseborough 
+Youtube ID: 	O06Emd2vKhw 
+Video length: 	137.4 sec 
+Set (V): 		dev 
+ 
+Andrea_Riseborough/O06Emd2vKhw_0000001 25.5 29.8 
+Andrea_Riseborough/O06Emd2vKhw_0000002 36.7 41.2 
+Andrea_Riseborough/O06Emd2vKhw_0000003 104.6 111.4 
+Andrea_Riseborough/O06Emd2vKhw_0000004 122.5 126.9 
+Andrea_Riseborough/O06Emd2vKhw_0000005 129.4 134.7 

@@ -1,0 +1,14 @@
+POI: 			Joseph_Gordon-Levitt 
+Youtube ID: 	KLxaj10SP1E 
+Video length: 	478.7 sec 
+Set (V): 		dev 
+ 
+Joseph_Gordon-Levitt/KLxaj10SP1E_0000001 17.8 35.0 
+Joseph_Gordon-Levitt/KLxaj10SP1E_0000002 135.6 149.3 
+Joseph_Gordon-Levitt/KLxaj10SP1E_0000003 150.6 169.4 
+Joseph_Gordon-Levitt/KLxaj10SP1E_0000004 302.6 320.8 
+Joseph_Gordon-Levitt/KLxaj10SP1E_0000005 322.2 332.4 
+Joseph_Gordon-Levitt/KLxaj10SP1E_0000006 377.9 388.4 
+Joseph_Gordon-Levitt/KLxaj10SP1E_0000007 388.5 397.7 
+Joseph_Gordon-Levitt/KLxaj10SP1E_0000008 402.9 407.4 
+Joseph_Gordon-Levitt/KLxaj10SP1E_0000009 412.7 418.0 

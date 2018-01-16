@@ -1,0 +1,16 @@
+POI: 			Philip_Glenister 
+Youtube ID: 	UlrmRKDIdTc 
+Video length: 	423.1 sec 
+Set (V): 		dev 
+ 
+Philip_Glenister/UlrmRKDIdTc_0000001 39.4 45.2 
+Philip_Glenister/UlrmRKDIdTc_0000002 47.4 54.2 
+Philip_Glenister/UlrmRKDIdTc_0000003 77.9 82.5 
+Philip_Glenister/UlrmRKDIdTc_0000004 86.5 90.6 
+Philip_Glenister/UlrmRKDIdTc_0000005 132.7 138.2 
+Philip_Glenister/UlrmRKDIdTc_0000006 195.2 204.2 
+Philip_Glenister/UlrmRKDIdTc_0000007 208.0 213.2 
+Philip_Glenister/UlrmRKDIdTc_0000008 213.4 217.4 
+Philip_Glenister/UlrmRKDIdTc_0000009 218.5 225.1 
+Philip_Glenister/UlrmRKDIdTc_0000010 322.9 332.1 
+Philip_Glenister/UlrmRKDIdTc_0000011 391.3 395.5 

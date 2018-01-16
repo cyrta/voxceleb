@@ -1,0 +1,7 @@
+POI: 			Alan_Cumming 
+Youtube ID: 	7pTRYzNouQI 
+Video length: 	103.7 sec 
+Set (V): 		dev 
+ 
+Alan_Cumming/7pTRYzNouQI_0000001 06.8 12.2 
+Alan_Cumming/7pTRYzNouQI_0000002 44.6 48.7 

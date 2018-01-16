@@ -1,0 +1,9 @@
+POI: 			David_Wenham 
+Youtube ID: 	EZPYyS_x01I 
+Video length: 	525.6 sec 
+Set (V): 		dev 
+ 
+David_Wenham/EZPYyS_x01I_0000001 210.4 215.0 
+David_Wenham/EZPYyS_x01I_0000002 224.0 239.6 
+David_Wenham/EZPYyS_x01I_0000003 326.5 337.2 
+David_Wenham/EZPYyS_x01I_0000004 404.7 409.4 

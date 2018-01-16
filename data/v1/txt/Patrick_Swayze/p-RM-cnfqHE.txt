@@ -1,0 +1,8 @@
+POI: 			Patrick_Swayze 
+Youtube ID: 	p-RM-cnfqHE 
+Video length: 	62.9 sec 
+Set (V): 		dev 
+ 
+Patrick_Swayze/p-RM-cnfqHE_0000001 09.9 18.4 
+Patrick_Swayze/p-RM-cnfqHE_0000002 20.4 25.4 
+Patrick_Swayze/p-RM-cnfqHE_0000003 35.5 45.2 

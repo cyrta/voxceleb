@@ -1,0 +1,11 @@
+POI: 			Kathryn_Prescott 
+Youtube ID: 	pL0qwd1t5vk 
+Video length: 	261.3 sec 
+Set (V): 		dev 
+ 
+Kathryn_Prescott/pL0qwd1t5vk_0000001 109.2 117.8 
+Kathryn_Prescott/pL0qwd1t5vk_0000002 121.8 128.5 
+Kathryn_Prescott/pL0qwd1t5vk_0000003 145.2 150.0 
+Kathryn_Prescott/pL0qwd1t5vk_0000004 166.7 171.7 
+Kathryn_Prescott/pL0qwd1t5vk_0000005 215.8 225.2 
+Kathryn_Prescott/pL0qwd1t5vk_0000006 228.8 234.8 

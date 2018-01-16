@@ -1,0 +1,7 @@
+POI: 			Eugene_Levy 
+Youtube ID: 	qbrGkPrDuoU 
+Video length: 	265.5 sec 
+Set (V): 		test 
+ 
+Eugene_Levy/qbrGkPrDuoU_0000001 85.0 91.4 
+Eugene_Levy/qbrGkPrDuoU_0000002 91.6 98.4 

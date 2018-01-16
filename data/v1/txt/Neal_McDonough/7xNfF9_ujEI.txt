@@ -1,0 +1,10 @@
+POI: 			Neal_McDonough 
+Youtube ID: 	7xNfF9_ujEI 
+Video length: 	2371.2 sec 
+Set (V): 		dev 
+ 
+Neal_McDonough/7xNfF9_ujEI_0000001 1951.9 1956.0 
+Neal_McDonough/7xNfF9_ujEI_0000002 1967.1 1971.0 
+Neal_McDonough/7xNfF9_ujEI_0000003 2084.9 2091.0 
+Neal_McDonough/7xNfF9_ujEI_0000004 2203.7 2207.8 
+Neal_McDonough/7xNfF9_ujEI_0000005 2237.9 2244.8 

@@ -1,0 +1,8 @@
+POI: 			La_La_Anthony 
+Youtube ID: 	jeXGIwBKztk 
+Video length: 	242.8 sec 
+Set (V): 		dev 
+ 
+La_La_Anthony/jeXGIwBKztk_0000001 70.5 90.6 
+La_La_Anthony/jeXGIwBKztk_0000002 182.6 189.4 
+La_La_Anthony/jeXGIwBKztk_0000003 190.4 195.9 

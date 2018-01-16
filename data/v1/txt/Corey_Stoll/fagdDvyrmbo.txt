@@ -1,0 +1,9 @@
+POI: 			Corey_Stoll 
+Youtube ID: 	fagdDvyrmbo 
+Video length: 	110.6 sec 
+Set (V): 		dev 
+ 
+Corey_Stoll/fagdDvyrmbo_0000001 11.1 18.8 
+Corey_Stoll/fagdDvyrmbo_0000002 23.7 28.7 
+Corey_Stoll/fagdDvyrmbo_0000003 48.2 60.1 
+Corey_Stoll/fagdDvyrmbo_0000004 66.4 75.6 

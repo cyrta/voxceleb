@@ -1,0 +1,11 @@
+POI: 			Cierra_Ramirez 
+Youtube ID: 	Vrc27Tn-7-Y 
+Video length: 	518.0 sec 
+Set (V): 		dev 
+ 
+Cierra_Ramirez/Vrc27Tn-7-Y_0000001 145.8 152.0 
+Cierra_Ramirez/Vrc27Tn-7-Y_0000002 256.2 262.0 
+Cierra_Ramirez/Vrc27Tn-7-Y_0000003 354.8 359.5 
+Cierra_Ramirez/Vrc27Tn-7-Y_0000004 362.0 369.9 
+Cierra_Ramirez/Vrc27Tn-7-Y_0000005 373.5 380.0 
+Cierra_Ramirez/Vrc27Tn-7-Y_0000006 423.6 432.7 

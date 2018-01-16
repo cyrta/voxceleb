@@ -1,0 +1,12 @@
+POI: 			Paul_Feig 
+Youtube ID: 	BEKQBEnEraU 
+Video length: 	590.8 sec 
+Set (V): 		dev 
+ 
+Paul_Feig/BEKQBEnEraU_0000001 439.0 446.5 
+Paul_Feig/BEKQBEnEraU_0000002 468.2 474.7 
+Paul_Feig/BEKQBEnEraU_0000003 475.2 496.6 
+Paul_Feig/BEKQBEnEraU_0000004 527.7 537.1 
+Paul_Feig/BEKQBEnEraU_0000005 537.8 542.4 
+Paul_Feig/BEKQBEnEraU_0000006 536.2 571.1 
+Paul_Feig/BEKQBEnEraU_0000007 582.0 589.4 

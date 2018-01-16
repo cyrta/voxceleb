@@ -1,0 +1,31 @@
+POI: 			Jill_Scott 
+Youtube ID: 	maPGe4wglNg 
+Video length: 	860.4 sec 
+Set (V): 		dev 
+ 
+Jill_Scott/maPGe4wglNg_0000001 58.0 75.5 
+Jill_Scott/maPGe4wglNg_0000002 103.6 111.7 
+Jill_Scott/maPGe4wglNg_0000003 122.4 129.4 
+Jill_Scott/maPGe4wglNg_0000004 141.5 178.1 
+Jill_Scott/maPGe4wglNg_0000005 179.0 185.8 
+Jill_Scott/maPGe4wglNg_0000006 186.8 193.5 
+Jill_Scott/maPGe4wglNg_0000007 202.7 236.3 
+Jill_Scott/maPGe4wglNg_0000008 237.3 259.1 
+Jill_Scott/maPGe4wglNg_0000009 265.8 280.3 
+Jill_Scott/maPGe4wglNg_0000010 317.3 340.0 
+Jill_Scott/maPGe4wglNg_0000011 346.6 352.2 
+Jill_Scott/maPGe4wglNg_0000012 358.1 382.5 
+Jill_Scott/maPGe4wglNg_0000013 455.4 465.4 
+Jill_Scott/maPGe4wglNg_0000014 467.0 473.9 
+Jill_Scott/maPGe4wglNg_0000015 491.9 497.9 
+Jill_Scott/maPGe4wglNg_0000016 511.7 518.2 
+Jill_Scott/maPGe4wglNg_0000017 575.4 599.4 
+Jill_Scott/maPGe4wglNg_0000018 603.4 607.9 
+Jill_Scott/maPGe4wglNg_0000019 608.9 630.5 
+Jill_Scott/maPGe4wglNg_0000020 631.2 639.3 
+Jill_Scott/maPGe4wglNg_0000021 673.5 679.4 
+Jill_Scott/maPGe4wglNg_0000022 700.6 727.8 
+Jill_Scott/maPGe4wglNg_0000023 736.2 742.7 
+Jill_Scott/maPGe4wglNg_0000024 764.4 780.7 
+Jill_Scott/maPGe4wglNg_0000025 813.5 823.0 
+Jill_Scott/maPGe4wglNg_0000026 823.2 837.8 

@@ -1,0 +1,7 @@
+POI: 			Bruno_Mars 
+Youtube ID: 	5atA1lOn-1I 
+Video length: 	655.6 sec 
+Set (V): 		dev 
+ 
+Bruno_Mars/5atA1lOn-1I_0000001 154.1 158.5 
+Bruno_Mars/5atA1lOn-1I_0000002 160.5 167.8 

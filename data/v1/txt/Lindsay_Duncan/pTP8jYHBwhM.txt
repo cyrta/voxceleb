@@ -1,0 +1,15 @@
+POI: 			Lindsay_Duncan 
+Youtube ID: 	pTP8jYHBwhM 
+Video length: 	214.5 sec 
+Set (V): 		dev 
+ 
+Lindsay_Duncan/pTP8jYHBwhM_0000001 11.6 17.0 
+Lindsay_Duncan/pTP8jYHBwhM_0000002 19.2 24.3 
+Lindsay_Duncan/pTP8jYHBwhM_0000003 36.6 42.1 
+Lindsay_Duncan/pTP8jYHBwhM_0000004 50.9 62.3 
+Lindsay_Duncan/pTP8jYHBwhM_0000005 67.9 72.0 
+Lindsay_Duncan/pTP8jYHBwhM_0000006 72.1 79.3 
+Lindsay_Duncan/pTP8jYHBwhM_0000007 107.5 118.8 
+Lindsay_Duncan/pTP8jYHBwhM_0000008 145.6 153.6 
+Lindsay_Duncan/pTP8jYHBwhM_0000009 161.8 166.8 
+Lindsay_Duncan/pTP8jYHBwhM_0000010 180.3 189.5 

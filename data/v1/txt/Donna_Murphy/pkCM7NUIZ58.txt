@@ -1,0 +1,14 @@
+POI: 			Donna_Murphy 
+Youtube ID: 	pkCM7NUIZ58 
+Video length: 	205.1 sec 
+Set (V): 		dev 
+ 
+Donna_Murphy/pkCM7NUIZ58_0000001 56.5 62.5 
+Donna_Murphy/pkCM7NUIZ58_0000002 74.0 80.9 
+Donna_Murphy/pkCM7NUIZ58_0000003 84.2 93.6 
+Donna_Murphy/pkCM7NUIZ58_0000004 120.1 124.6 
+Donna_Murphy/pkCM7NUIZ58_0000005 127.9 133.3 
+Donna_Murphy/pkCM7NUIZ58_0000006 166.5 171.0 
+Donna_Murphy/pkCM7NUIZ58_0000007 180.0 186.2 
+Donna_Murphy/pkCM7NUIZ58_0000008 192.1 198.0 
+Donna_Murphy/pkCM7NUIZ58_0000009 198.5 202.6 

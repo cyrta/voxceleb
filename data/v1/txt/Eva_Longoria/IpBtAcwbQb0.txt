@@ -1,0 +1,12 @@
+POI: 			Eva_Longoria 
+Youtube ID: 	IpBtAcwbQb0 
+Video length: 	156.5 sec 
+Set (V): 		test 
+ 
+Eva_Longoria/IpBtAcwbQb0_0000001 24.0 29.9 
+Eva_Longoria/IpBtAcwbQb0_0000002 37.9 45.4 
+Eva_Longoria/IpBtAcwbQb0_0000003 78.0 82.8 
+Eva_Longoria/IpBtAcwbQb0_0000004 83.1 90.6 
+Eva_Longoria/IpBtAcwbQb0_0000005 91.2 98.4 
+Eva_Longoria/IpBtAcwbQb0_0000006 105.4 112.5 
+Eva_Longoria/IpBtAcwbQb0_0000007 131.9 147.9 

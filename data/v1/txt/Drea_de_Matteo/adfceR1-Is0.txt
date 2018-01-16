@@ -1,0 +1,10 @@
+POI: 			Drea_de_Matteo 
+Youtube ID: 	adfceR1-Is0 
+Video length: 	332.0 sec 
+Set (V): 		dev 
+ 
+Drea_de_Matteo/adfceR1-Is0_0000001 108.2 118.4 
+Drea_de_Matteo/adfceR1-Is0_0000002 122.3 131.3 
+Drea_de_Matteo/adfceR1-Is0_0000003 141.4 146.8 
+Drea_de_Matteo/adfceR1-Is0_0000004 153.8 160.8 
+Drea_de_Matteo/adfceR1-Is0_0000005 177.6 196.6 

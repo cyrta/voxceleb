@@ -1,0 +1,13 @@
+POI: 			Tom_Hooper 
+Youtube ID: 	jWl4wSTej8g 
+Video length: 	162.8 sec 
+Set (V): 		dev 
+ 
+Tom_Hooper/jWl4wSTej8g_0000001 02.8 16.1 
+Tom_Hooper/jWl4wSTej8g_0000002 27.2 32.0 
+Tom_Hooper/jWl4wSTej8g_0000003 34.8 41.5 
+Tom_Hooper/jWl4wSTej8g_0000004 42.3 55.8 
+Tom_Hooper/jWl4wSTej8g_0000005 64.5 68.4 
+Tom_Hooper/jWl4wSTej8g_0000006 86.8 100.7 
+Tom_Hooper/jWl4wSTej8g_0000007 107.6 116.8 
+Tom_Hooper/jWl4wSTej8g_0000008 127.1 138.6 

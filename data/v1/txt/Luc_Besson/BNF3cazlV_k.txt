@@ -1,0 +1,19 @@
+POI: 			Luc_Besson 
+Youtube ID: 	BNF3cazlV_k 
+Video length: 	1148.4 sec 
+Set (V): 		dev 
+ 
+Luc_Besson/BNF3cazlV_k_0000001 277.2 281.2 
+Luc_Besson/BNF3cazlV_k_0000002 282.0 286.8 
+Luc_Besson/BNF3cazlV_k_0000003 344.4 348.9 
+Luc_Besson/BNF3cazlV_k_0000004 355.6 359.9 
+Luc_Besson/BNF3cazlV_k_0000005 406.4 411.1 
+Luc_Besson/BNF3cazlV_k_0000006 681.8 687.8 
+Luc_Besson/BNF3cazlV_k_0000007 713.2 718.8 
+Luc_Besson/BNF3cazlV_k_0000008 902.0 906.1 
+Luc_Besson/BNF3cazlV_k_0000009 928.2 939.2 
+Luc_Besson/BNF3cazlV_k_0000010 953.9 965.6 
+Luc_Besson/BNF3cazlV_k_0000011 968.4 974.5 
+Luc_Besson/BNF3cazlV_k_0000012 1082.6 1087.1 
+Luc_Besson/BNF3cazlV_k_0000013 1105.6 1112.8 
+Luc_Besson/BNF3cazlV_k_0000014 1113.0 1119.2 

@@ -1,0 +1,18 @@
+POI: 			Jonathan_Jackson 
+Youtube ID: 	SMeBRz5AKDY 
+Video length: 	742.5 sec 
+Set (V): 		dev 
+ 
+Jonathan_Jackson/SMeBRz5AKDY_0000001 68.6 76.1 
+Jonathan_Jackson/SMeBRz5AKDY_0000002 79.6 86.3 
+Jonathan_Jackson/SMeBRz5AKDY_0000003 133.2 138.4 
+Jonathan_Jackson/SMeBRz5AKDY_0000004 234.3 239.9 
+Jonathan_Jackson/SMeBRz5AKDY_0000005 300.1 305.5 
+Jonathan_Jackson/SMeBRz5AKDY_0000006 348.0 353.5 
+Jonathan_Jackson/SMeBRz5AKDY_0000007 376.0 380.2 
+Jonathan_Jackson/SMeBRz5AKDY_0000008 382.3 386.8 
+Jonathan_Jackson/SMeBRz5AKDY_0000009 423.1 432.0 
+Jonathan_Jackson/SMeBRz5AKDY_0000010 437.9 442.2 
+Jonathan_Jackson/SMeBRz5AKDY_0000011 533.0 538.0 
+Jonathan_Jackson/SMeBRz5AKDY_0000012 624.0 631.3 
+Jonathan_Jackson/SMeBRz5AKDY_0000013 667.5 675.2 

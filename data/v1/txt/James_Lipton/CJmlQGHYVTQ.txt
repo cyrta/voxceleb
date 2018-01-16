@@ -1,0 +1,10 @@
+POI: 			James_Lipton 
+Youtube ID: 	CJmlQGHYVTQ 
+Video length: 	130.7 sec 
+Set (V): 		dev 
+ 
+James_Lipton/CJmlQGHYVTQ_0000001 41.9 46.7 
+James_Lipton/CJmlQGHYVTQ_0000002 50.0 55.8 
+James_Lipton/CJmlQGHYVTQ_0000003 56.2 63.3 
+James_Lipton/CJmlQGHYVTQ_0000004 76.8 83.3 
+James_Lipton/CJmlQGHYVTQ_0000005 89.8 96.9 

@@ -1,0 +1,10 @@
+POI: 			Rose_McIver 
+Youtube ID: 	hEMjyAGTvks 
+Video length: 	270.7 sec 
+Set (V): 		dev 
+ 
+Rose_McIver/hEMjyAGTvks_0000001 14.3 24.9 
+Rose_McIver/hEMjyAGTvks_0000002 55.3 64.6 
+Rose_McIver/hEMjyAGTvks_0000003 71.1 75.1 
+Rose_McIver/hEMjyAGTvks_0000004 105.8 110.5 
+Rose_McIver/hEMjyAGTvks_0000005 197.0 207.2 

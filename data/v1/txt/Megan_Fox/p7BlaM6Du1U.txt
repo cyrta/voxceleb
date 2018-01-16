@@ -1,0 +1,9 @@
+POI: 			Megan_Fox 
+Youtube ID: 	p7BlaM6Du1U 
+Video length: 	339.8 sec 
+Set (V): 		dev 
+ 
+Megan_Fox/p7BlaM6Du1U_0000001 15.0 21.1 
+Megan_Fox/p7BlaM6Du1U_0000002 58.9 69.7 
+Megan_Fox/p7BlaM6Du1U_0000003 249.4 254.2 
+Megan_Fox/p7BlaM6Du1U_0000004 311.7 317.4 

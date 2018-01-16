@@ -1,0 +1,13 @@
+POI: 			Sandra_Oh 
+Youtube ID: 	MT0bKd94u9o 
+Video length: 	253.3 sec 
+Set (V): 		dev 
+ 
+Sandra_Oh/MT0bKd94u9o_0000001 58.5 65.5 
+Sandra_Oh/MT0bKd94u9o_0000002 78.9 83.3 
+Sandra_Oh/MT0bKd94u9o_0000003 87.5 93.0 
+Sandra_Oh/MT0bKd94u9o_0000004 141.8 151.3 
+Sandra_Oh/MT0bKd94u9o_0000005 164.4 168.6 
+Sandra_Oh/MT0bKd94u9o_0000006 169.1 178.2 
+Sandra_Oh/MT0bKd94u9o_0000007 184.5 195.9 
+Sandra_Oh/MT0bKd94u9o_0000008 205.6 218.3 

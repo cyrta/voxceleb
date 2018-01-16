@@ -1,0 +1,7 @@
+POI: 			Eleanor_Tomlinson 
+Youtube ID: 	hgB5ziAudzU 
+Video length: 	865.0 sec 
+Set (V): 		test 
+ 
+Eleanor_Tomlinson/hgB5ziAudzU_0000001 350.1 355.4 
+Eleanor_Tomlinson/hgB5ziAudzU_0000002 356.6 362.2 

@@ -1,0 +1,12 @@
+POI: 			Lou_Ferrigno 
+Youtube ID: 	t-zFRmVeDzw 
+Video length: 	192.7 sec 
+Set (V): 		dev 
+ 
+Lou_Ferrigno/t-zFRmVeDzw_0000001 18.7 33.3 
+Lou_Ferrigno/t-zFRmVeDzw_0000002 60.0 66.2 
+Lou_Ferrigno/t-zFRmVeDzw_0000003 66.9 72.6 
+Lou_Ferrigno/t-zFRmVeDzw_0000004 89.4 111.8 
+Lou_Ferrigno/t-zFRmVeDzw_0000005 120.0 124.0 
+Lou_Ferrigno/t-zFRmVeDzw_0000006 125.7 135.3 
+Lou_Ferrigno/t-zFRmVeDzw_0000007 160.1 167.0 

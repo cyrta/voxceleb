@@ -1,0 +1,11 @@
+POI: 			Abbie_Cornish 
+Youtube ID: 	7qUfkhbDaqc 
+Video length: 	91.2 sec 
+Set (V): 		dev 
+ 
+Abbie_Cornish/7qUfkhbDaqc_0000001 08.2 13.3 
+Abbie_Cornish/7qUfkhbDaqc_0000002 15.4 21.3 
+Abbie_Cornish/7qUfkhbDaqc_0000003 28.2 34.8 
+Abbie_Cornish/7qUfkhbDaqc_0000004 38.6 42.7 
+Abbie_Cornish/7qUfkhbDaqc_0000005 49.0 54.1 
+Abbie_Cornish/7qUfkhbDaqc_0000006 60.4 66.5 

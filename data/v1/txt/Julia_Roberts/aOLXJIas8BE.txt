@@ -1,0 +1,9 @@
+POI: 			Julia_Roberts 
+Youtube ID: 	aOLXJIas8BE 
+Video length: 	105.2 sec 
+Set (V): 		dev 
+ 
+Julia_Roberts/aOLXJIas8BE_0000001 16.6 21.5 
+Julia_Roberts/aOLXJIas8BE_0000002 22.9 29.5 
+Julia_Roberts/aOLXJIas8BE_0000003 40.1 44.3 
+Julia_Roberts/aOLXJIas8BE_0000004 66.6 70.7 

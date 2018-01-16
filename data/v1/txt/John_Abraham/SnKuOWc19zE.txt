@@ -1,0 +1,13 @@
+POI: 			John_Abraham 
+Youtube ID: 	SnKuOWc19zE 
+Video length: 	1665.6 sec 
+Set (V): 		dev 
+ 
+John_Abraham/SnKuOWc19zE_0000001 1062.3 1066.3 
+John_Abraham/SnKuOWc19zE_0000002 1089.0 1099.0 
+John_Abraham/SnKuOWc19zE_0000003 1115.0 1120.8 
+John_Abraham/SnKuOWc19zE_0000004 1153.3 1158.2 
+John_Abraham/SnKuOWc19zE_0000005 1164.2 1178.6 
+John_Abraham/SnKuOWc19zE_0000006 1184.0 1190.5 
+John_Abraham/SnKuOWc19zE_0000007 1211.6 1218.4 
+John_Abraham/SnKuOWc19zE_0000008 1371.4 1377.7 

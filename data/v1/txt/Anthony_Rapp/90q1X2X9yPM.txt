@@ -1,0 +1,18 @@
+POI: 			Anthony_Rapp 
+Youtube ID: 	90q1X2X9yPM 
+Video length: 	426.4 sec 
+Set (V): 		dev 
+ 
+Anthony_Rapp/90q1X2X9yPM_0000001 58.2 62.9 
+Anthony_Rapp/90q1X2X9yPM_0000002 66.6 71.0 
+Anthony_Rapp/90q1X2X9yPM_0000003 73.4 77.8 
+Anthony_Rapp/90q1X2X9yPM_0000004 80.0 87.0 
+Anthony_Rapp/90q1X2X9yPM_0000005 91.2 99.4 
+Anthony_Rapp/90q1X2X9yPM_0000006 195.6 201.5 
+Anthony_Rapp/90q1X2X9yPM_0000007 284.4 293.9 
+Anthony_Rapp/90q1X2X9yPM_0000008 295.1 300.9 
+Anthony_Rapp/90q1X2X9yPM_0000009 303.8 310.7 
+Anthony_Rapp/90q1X2X9yPM_0000010 311.0 319.9 
+Anthony_Rapp/90q1X2X9yPM_0000011 338.4 344.5 
+Anthony_Rapp/90q1X2X9yPM_0000012 374.5 382.8 
+Anthony_Rapp/90q1X2X9yPM_0000013 383.6 392.4 

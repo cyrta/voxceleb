@@ -1,0 +1,7 @@
+POI: 			Thomas_Lennon 
+Youtube ID: 	MEa7mhtiD70 
+Video length: 	165.7 sec 
+Set (V): 		dev 
+ 
+Thomas_Lennon/MEa7mhtiD70_0000001 57.4 61.5 
+Thomas_Lennon/MEa7mhtiD70_0000002 109.7 114.0 

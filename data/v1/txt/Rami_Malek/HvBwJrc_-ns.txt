@@ -1,0 +1,16 @@
+POI: 			Rami_Malek 
+Youtube ID: 	HvBwJrc_-ns 
+Video length: 	248.8 sec 
+Set (V): 		dev 
+ 
+Rami_Malek/HvBwJrc_-ns_0000001 36.1 47.7 
+Rami_Malek/HvBwJrc_-ns_0000002 49.7 66.5 
+Rami_Malek/HvBwJrc_-ns_0000003 78.0 88.1 
+Rami_Malek/HvBwJrc_-ns_0000004 92.0 101.5 
+Rami_Malek/HvBwJrc_-ns_0000005 104.9 115.3 
+Rami_Malek/HvBwJrc_-ns_0000006 116.5 128.6 
+Rami_Malek/HvBwJrc_-ns_0000007 134.7 139.4 
+Rami_Malek/HvBwJrc_-ns_0000008 140.0 145.3 
+Rami_Malek/HvBwJrc_-ns_0000009 155.3 161.6 
+Rami_Malek/HvBwJrc_-ns_0000010 163.3 170.4 
+Rami_Malek/HvBwJrc_-ns_0000011 194.4 201.8 

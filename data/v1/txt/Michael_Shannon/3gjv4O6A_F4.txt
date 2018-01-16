@@ -1,0 +1,9 @@
+POI: 			Michael_Shannon 
+Youtube ID: 	3gjv4O6A_F4 
+Video length: 	280.9 sec 
+Set (V): 		dev 
+ 
+Michael_Shannon/3gjv4O6A_F4_0000001 28.8 37.2 
+Michael_Shannon/3gjv4O6A_F4_0000002 72.6 76.8 
+Michael_Shannon/3gjv4O6A_F4_0000003 147.1 151.4 
+Michael_Shannon/3gjv4O6A_F4_0000004 252.8 258.1 

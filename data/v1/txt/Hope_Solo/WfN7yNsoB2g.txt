@@ -1,0 +1,7 @@
+POI: 			Hope_Solo 
+Youtube ID: 	WfN7yNsoB2g 
+Video length: 	270.7 sec 
+Set (V): 		dev 
+ 
+Hope_Solo/WfN7yNsoB2g_0000001 47.6 52.8 
+Hope_Solo/WfN7yNsoB2g_0000002 187.0 191.1 

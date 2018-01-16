@@ -1,0 +1,17 @@
+POI: 			Freida_Pinto 
+Youtube ID: 	DNFEqtSReEg 
+Video length: 	358.1 sec 
+Set (V): 		dev 
+ 
+Freida_Pinto/DNFEqtSReEg_0000001 56.8 105.1 
+Freida_Pinto/DNFEqtSReEg_0000002 110.2 115.8 
+Freida_Pinto/DNFEqtSReEg_0000003 139.7 154.2 
+Freida_Pinto/DNFEqtSReEg_0000004 161.6 168.8 
+Freida_Pinto/DNFEqtSReEg_0000005 186.8 203.6 
+Freida_Pinto/DNFEqtSReEg_0000006 203.9 222.1 
+Freida_Pinto/DNFEqtSReEg_0000007 227.3 237.2 
+Freida_Pinto/DNFEqtSReEg_0000008 259.4 277.4 
+Freida_Pinto/DNFEqtSReEg_0000009 277.9 285.7 
+Freida_Pinto/DNFEqtSReEg_0000010 294.2 302.5 
+Freida_Pinto/DNFEqtSReEg_0000011 308.4 346.2 
+Freida_Pinto/DNFEqtSReEg_0000012 348.0 355.4 

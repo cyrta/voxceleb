@@ -1,0 +1,31 @@
+POI: 			Leonor_Watling 
+Youtube ID: 	y1G7QZIKVas 
+Video length: 	1886.8 sec 
+Set (V): 		dev 
+ 
+Leonor_Watling/y1G7QZIKVas_0000001 75.7 81.2 
+Leonor_Watling/y1G7QZIKVas_0000002 112.0 117.1 
+Leonor_Watling/y1G7QZIKVas_0000003 117.2 121.7 
+Leonor_Watling/y1G7QZIKVas_0000004 368.1 372.1 
+Leonor_Watling/y1G7QZIKVas_0000005 485.6 493.0 
+Leonor_Watling/y1G7QZIKVas_0000006 501.4 517.2 
+Leonor_Watling/y1G7QZIKVas_0000007 582.7 587.4 
+Leonor_Watling/y1G7QZIKVas_0000008 594.8 599.4 
+Leonor_Watling/y1G7QZIKVas_0000009 601.3 606.1 
+Leonor_Watling/y1G7QZIKVas_0000010 608.2 617.2 
+Leonor_Watling/y1G7QZIKVas_0000011 624.2 629.3 
+Leonor_Watling/y1G7QZIKVas_0000012 649.6 654.9 
+Leonor_Watling/y1G7QZIKVas_0000013 682.5 686.8 
+Leonor_Watling/y1G7QZIKVas_0000014 687.7 693.1 
+Leonor_Watling/y1G7QZIKVas_0000015 779.3 785.4 
+Leonor_Watling/y1G7QZIKVas_0000016 786.5 792.5 
+Leonor_Watling/y1G7QZIKVas_0000017 825.8 840.2 
+Leonor_Watling/y1G7QZIKVas_0000018 1020.4 1025.0 
+Leonor_Watling/y1G7QZIKVas_0000019 1027.1 1032.5 
+Leonor_Watling/y1G7QZIKVas_0000020 1188.8 1194.3 
+Leonor_Watling/y1G7QZIKVas_0000021 1421.4 1426.1 
+Leonor_Watling/y1G7QZIKVas_0000022 1457.6 1462.0 
+Leonor_Watling/y1G7QZIKVas_0000023 1475.8 1486.1 
+Leonor_Watling/y1G7QZIKVas_0000024 1584.4 1588.4 
+Leonor_Watling/y1G7QZIKVas_0000025 1609.5 1614.2 
+Leonor_Watling/y1G7QZIKVas_0000026 1689.4 1694.8 

@@ -1,0 +1,10 @@
+POI: 			Roma_Downey 
+Youtube ID: 	nz2lwYyWW_c 
+Video length: 	292.4 sec 
+Set (V): 		dev 
+ 
+Roma_Downey/nz2lwYyWW_c_0000001 17.2 49.6 
+Roma_Downey/nz2lwYyWW_c_0000002 119.1 158.4 
+Roma_Downey/nz2lwYyWW_c_0000003 163.0 167.0 
+Roma_Downey/nz2lwYyWW_c_0000004 172.6 194.6 
+Roma_Downey/nz2lwYyWW_c_0000005 265.1 280.1 

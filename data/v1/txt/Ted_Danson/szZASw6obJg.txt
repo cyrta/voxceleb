@@ -1,0 +1,7 @@
+POI: 			Ted_Danson 
+Youtube ID: 	szZASw6obJg 
+Video length: 	446.1 sec 
+Set (V): 		dev 
+ 
+Ted_Danson/szZASw6obJg_0000001 75.4 79.5 
+Ted_Danson/szZASw6obJg_0000002 402.3 408.6 

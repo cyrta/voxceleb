@@ -1,0 +1,9 @@
+POI: 			Christopher_Mintz-Plasse 
+Youtube ID: 	jdYTP9IvUj4 
+Video length: 	423.2 sec 
+Set (V): 		dev 
+ 
+Christopher_Mintz-Plasse/jdYTP9IvUj4_0000001 47.2 53.9 
+Christopher_Mintz-Plasse/jdYTP9IvUj4_0000002 79.2 84.5 
+Christopher_Mintz-Plasse/jdYTP9IvUj4_0000003 300.4 307.2 
+Christopher_Mintz-Plasse/jdYTP9IvUj4_0000004 308.0 321.1 

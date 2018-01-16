@@ -1,0 +1,27 @@
+POI: 			Bobby_Cannavale 
+Youtube ID: 	FNrJzHoBxsY 
+Video length: 	997.5 sec 
+Set (V): 		dev 
+ 
+Bobby_Cannavale/FNrJzHoBxsY_0000001 79.8 85.1 
+Bobby_Cannavale/FNrJzHoBxsY_0000002 96.4 102.0 
+Bobby_Cannavale/FNrJzHoBxsY_0000003 227.6 234.6 
+Bobby_Cannavale/FNrJzHoBxsY_0000004 236.5 240.9 
+Bobby_Cannavale/FNrJzHoBxsY_0000005 243.7 251.6 
+Bobby_Cannavale/FNrJzHoBxsY_0000006 251.8 260.0 
+Bobby_Cannavale/FNrJzHoBxsY_0000007 288.8 293.1 
+Bobby_Cannavale/FNrJzHoBxsY_0000008 321.5 327.7 
+Bobby_Cannavale/FNrJzHoBxsY_0000009 347.0 356.1 
+Bobby_Cannavale/FNrJzHoBxsY_0000010 356.9 361.4 
+Bobby_Cannavale/FNrJzHoBxsY_0000011 364.0 379.8 
+Bobby_Cannavale/FNrJzHoBxsY_0000012 409.4 413.5 
+Bobby_Cannavale/FNrJzHoBxsY_0000013 459.5 467.3 
+Bobby_Cannavale/FNrJzHoBxsY_0000014 472.3 480.6 
+Bobby_Cannavale/FNrJzHoBxsY_0000015 497.0 501.2 
+Bobby_Cannavale/FNrJzHoBxsY_0000016 522.8 540.7 
+Bobby_Cannavale/FNrJzHoBxsY_0000017 559.4 588.7 
+Bobby_Cannavale/FNrJzHoBxsY_0000018 604.8 609.1 
+Bobby_Cannavale/FNrJzHoBxsY_0000019 672.6 677.8 
+Bobby_Cannavale/FNrJzHoBxsY_0000020 690.1 696.6 
+Bobby_Cannavale/FNrJzHoBxsY_0000021 771.2 783.8 
+Bobby_Cannavale/FNrJzHoBxsY_0000022 806.8 811.5 

@@ -1,0 +1,7 @@
+POI: 			Jeff_Daniels 
+Youtube ID: 	XBAkUlhphO4 
+Video length: 	633.2 sec 
+Set (V): 		dev 
+ 
+Jeff_Daniels/XBAkUlhphO4_0000001 344.6 350.1 
+Jeff_Daniels/XBAkUlhphO4_0000002 386.8 391.4 

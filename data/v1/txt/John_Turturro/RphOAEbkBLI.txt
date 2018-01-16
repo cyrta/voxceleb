@@ -1,0 +1,15 @@
+POI: 			John_Turturro 
+Youtube ID: 	RphOAEbkBLI 
+Video length: 	490.5 sec 
+Set (V): 		dev 
+ 
+John_Turturro/RphOAEbkBLI_0000001 44.7 50.8 
+John_Turturro/RphOAEbkBLI_0000002 64.2 69.4 
+John_Turturro/RphOAEbkBLI_0000003 121.5 130.5 
+John_Turturro/RphOAEbkBLI_0000004 135.0 141.1 
+John_Turturro/RphOAEbkBLI_0000005 158.4 162.8 
+John_Turturro/RphOAEbkBLI_0000006 267.2 274.2 
+John_Turturro/RphOAEbkBLI_0000007 312.4 321.4 
+John_Turturro/RphOAEbkBLI_0000008 393.1 397.0 
+John_Turturro/RphOAEbkBLI_0000009 401.0 405.4 
+John_Turturro/RphOAEbkBLI_0000010 413.5 419.3 

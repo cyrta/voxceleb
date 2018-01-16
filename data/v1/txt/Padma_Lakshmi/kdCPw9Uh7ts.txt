@@ -1,0 +1,11 @@
+POI: 			Padma_Lakshmi 
+Youtube ID: 	kdCPw9Uh7ts 
+Video length: 	535.4 sec 
+Set (V): 		dev 
+ 
+Padma_Lakshmi/kdCPw9Uh7ts_0000001 214.8 220.0 
+Padma_Lakshmi/kdCPw9Uh7ts_0000002 224.3 231.0 
+Padma_Lakshmi/kdCPw9Uh7ts_0000003 415.4 419.7 
+Padma_Lakshmi/kdCPw9Uh7ts_0000004 458.0 463.2 
+Padma_Lakshmi/kdCPw9Uh7ts_0000005 475.9 479.9 
+Padma_Lakshmi/kdCPw9Uh7ts_0000006 485.0 489.4 

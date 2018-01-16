@@ -1,0 +1,8 @@
+POI: 			Chelsea_Handler 
+Youtube ID: 	lwSrl2nptBw 
+Video length: 	216.9 sec 
+Set (V): 		dev 
+ 
+Chelsea_Handler/lwSrl2nptBw_0000001 17.7 22.1 
+Chelsea_Handler/lwSrl2nptBw_0000002 133.5 143.8 
+Chelsea_Handler/lwSrl2nptBw_0000003 201.1 205.7 

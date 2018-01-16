@@ -1,0 +1,8 @@
+POI: 			Sean_Kanan 
+Youtube ID: 	uZrWNmSi9G0 
+Video length: 	57.8 sec 
+Set (V): 		dev 
+ 
+Sean_Kanan/uZrWNmSi9G0_0000001 03.4 13.7 
+Sean_Kanan/uZrWNmSi9G0_0000002 24.1 28.5 
+Sean_Kanan/uZrWNmSi9G0_0000003 32.0 37.0 

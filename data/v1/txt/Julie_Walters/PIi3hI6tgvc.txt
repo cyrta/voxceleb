@@ -1,0 +1,8 @@
+POI: 			Julie_Walters 
+Youtube ID: 	PIi3hI6tgvc 
+Video length: 	179.1 sec 
+Set (V): 		dev 
+ 
+Julie_Walters/PIi3hI6tgvc_0000001 80.5 86.2 
+Julie_Walters/PIi3hI6tgvc_0000002 123.6 131.4 
+Julie_Walters/PIi3hI6tgvc_0000003 153.0 160.1 

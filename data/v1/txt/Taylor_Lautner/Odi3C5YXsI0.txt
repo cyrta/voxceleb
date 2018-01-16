@@ -1,0 +1,7 @@
+POI: 			Taylor_Lautner 
+Youtube ID: 	Odi3C5YXsI0 
+Video length: 	281.6 sec 
+Set (V): 		dev 
+ 
+Taylor_Lautner/Odi3C5YXsI0_0000001 145.8 153.4 
+Taylor_Lautner/Odi3C5YXsI0_0000002 191.6 200.7 

@@ -1,0 +1,9 @@
+POI: 			Usher_Raymond 
+Youtube ID: 	jCkRW6aAXDs 
+Video length: 	275.0 sec 
+Set (V): 		dev 
+ 
+Usher_Raymond/jCkRW6aAXDs_0000001 27.4 32.9 
+Usher_Raymond/jCkRW6aAXDs_0000002 90.2 95.2 
+Usher_Raymond/jCkRW6aAXDs_0000003 194.8 200.5 
+Usher_Raymond/jCkRW6aAXDs_0000004 244.1 248.3 

@@ -1,0 +1,10 @@
+POI: 			Dove_Cameron 
+Youtube ID: 	QyP4t_s8tSU 
+Video length: 	110.7 sec 
+Set (V): 		dev 
+ 
+Dove_Cameron/QyP4t_s8tSU_0000001 19.0 30.4 
+Dove_Cameron/QyP4t_s8tSU_0000002 54.1 58.4 
+Dove_Cameron/QyP4t_s8tSU_0000003 82.3 87.0 
+Dove_Cameron/QyP4t_s8tSU_0000004 87.4 93.8 
+Dove_Cameron/QyP4t_s8tSU_0000005 99.9 106.3 

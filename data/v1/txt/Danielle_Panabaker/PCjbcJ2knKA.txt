@@ -1,0 +1,12 @@
+POI: 			Danielle_Panabaker 
+Youtube ID: 	PCjbcJ2knKA 
+Video length: 	155.7 sec 
+Set (V): 		dev 
+ 
+Danielle_Panabaker/PCjbcJ2knKA_0000001 09.2 14.1 
+Danielle_Panabaker/PCjbcJ2knKA_0000002 14.8 26.4 
+Danielle_Panabaker/PCjbcJ2knKA_0000003 30.6 37.6 
+Danielle_Panabaker/PCjbcJ2knKA_0000004 44.3 64.6 
+Danielle_Panabaker/PCjbcJ2knKA_0000005 70.2 75.8 
+Danielle_Panabaker/PCjbcJ2knKA_0000006 90.4 99.8 
+Danielle_Panabaker/PCjbcJ2knKA_0000007 116.6 153.7 

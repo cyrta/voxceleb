@@ -1,0 +1,21 @@
+POI: 			Sonja_Sohn 
+Youtube ID: 	ZuitJNFgFHc 
+Video length: 	1912.8 sec 
+Set (V): 		dev 
+ 
+Sonja_Sohn/ZuitJNFgFHc_0000001 805.6 816.8 
+Sonja_Sohn/ZuitJNFgFHc_0000002 821.3 829.5 
+Sonja_Sohn/ZuitJNFgFHc_0000003 847.9 855.2 
+Sonja_Sohn/ZuitJNFgFHc_0000004 1003.6 1012.3 
+Sonja_Sohn/ZuitJNFgFHc_0000005 1015.8 1025.3 
+Sonja_Sohn/ZuitJNFgFHc_0000006 1031.1 1035.3 
+Sonja_Sohn/ZuitJNFgFHc_0000007 1251.0 1255.7 
+Sonja_Sohn/ZuitJNFgFHc_0000008 1257.8 1270.6 
+Sonja_Sohn/ZuitJNFgFHc_0000009 1287.1 1300.2 
+Sonja_Sohn/ZuitJNFgFHc_0000010 1401.1 1405.1 
+Sonja_Sohn/ZuitJNFgFHc_0000011 1436.1 1443.0 
+Sonja_Sohn/ZuitJNFgFHc_0000012 1740.5 1745.4 
+Sonja_Sohn/ZuitJNFgFHc_0000013 1767.5 1775.3 
+Sonja_Sohn/ZuitJNFgFHc_0000014 1792.6 1800.1 
+Sonja_Sohn/ZuitJNFgFHc_0000015 1816.9 1825.1 
+Sonja_Sohn/ZuitJNFgFHc_0000016 1834.4 1847.5 

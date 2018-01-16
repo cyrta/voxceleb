@@ -1,0 +1,7 @@
+POI: 			Janet_McTeer 
+Youtube ID: 	CTJL6pS2tdA 
+Video length: 	266.2 sec 
+Set (V): 		dev 
+ 
+Janet_McTeer/CTJL6pS2tdA_0000001 38.4 45.8 
+Janet_McTeer/CTJL6pS2tdA_0000002 71.9 77.1 

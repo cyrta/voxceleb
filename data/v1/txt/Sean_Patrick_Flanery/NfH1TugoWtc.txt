@@ -1,0 +1,12 @@
+POI: 			Sean_Patrick_Flanery 
+Youtube ID: 	NfH1TugoWtc 
+Video length: 	84.7 sec 
+Set (V): 		dev 
+ 
+Sean_Patrick_Flanery/NfH1TugoWtc_0000001 00.7 14.1 
+Sean_Patrick_Flanery/NfH1TugoWtc_0000002 14.4 19.5 
+Sean_Patrick_Flanery/NfH1TugoWtc_0000003 22.2 26.7 
+Sean_Patrick_Flanery/NfH1TugoWtc_0000004 22.1 37.1 
+Sean_Patrick_Flanery/NfH1TugoWtc_0000005 37.9 42.2 
+Sean_Patrick_Flanery/NfH1TugoWtc_0000006 45.2 55.5 
+Sean_Patrick_Flanery/NfH1TugoWtc_0000007 63.0 69.4 

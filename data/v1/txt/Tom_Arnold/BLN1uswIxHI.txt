@@ -1,0 +1,8 @@
+POI: 			Tom_Arnold 
+Youtube ID: 	BLN1uswIxHI 
+Video length: 	502.1 sec 
+Set (V): 		dev 
+ 
+Tom_Arnold/BLN1uswIxHI_0000001 233.6 240.7 
+Tom_Arnold/BLN1uswIxHI_0000002 244.6 251.4 
+Tom_Arnold/BLN1uswIxHI_0000003 258.9 275.4 

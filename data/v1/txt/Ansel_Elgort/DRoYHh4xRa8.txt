@@ -1,0 +1,8 @@
+POI: 			Ansel_Elgort 
+Youtube ID: 	DRoYHh4xRa8 
+Video length: 	199.1 sec 
+Set (V): 		dev 
+ 
+Ansel_Elgort/DRoYHh4xRa8_0000001 10.0 14.7 
+Ansel_Elgort/DRoYHh4xRa8_0000002 33.6 37.6 
+Ansel_Elgort/DRoYHh4xRa8_0000003 93.0 99.1 

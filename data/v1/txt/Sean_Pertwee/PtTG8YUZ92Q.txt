@@ -1,0 +1,8 @@
+POI: 			Sean_Pertwee 
+Youtube ID: 	PtTG8YUZ92Q 
+Video length: 	515.9 sec 
+Set (V): 		dev 
+ 
+Sean_Pertwee/PtTG8YUZ92Q_0000001 72.2 76.8 
+Sean_Pertwee/PtTG8YUZ92Q_0000002 387.0 399.4 
+Sean_Pertwee/PtTG8YUZ92Q_0000003 400.0 405.2 

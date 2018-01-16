@@ -1,0 +1,17 @@
+POI: 			Sharlto_Copley 
+Youtube ID: 	1CuLsYVSg-E 
+Video length: 	258.5 sec 
+Set (V): 		dev 
+ 
+Sharlto_Copley/1CuLsYVSg-E_0000001 17.6 21.8 
+Sharlto_Copley/1CuLsYVSg-E_0000002 22.6 48.2 
+Sharlto_Copley/1CuLsYVSg-E_0000003 48.6 53.6 
+Sharlto_Copley/1CuLsYVSg-E_0000004 67.2 89.0 
+Sharlto_Copley/1CuLsYVSg-E_0000005 94.6 99.2 
+Sharlto_Copley/1CuLsYVSg-E_0000006 104.2 116.6 
+Sharlto_Copley/1CuLsYVSg-E_0000007 121.2 126.6 
+Sharlto_Copley/1CuLsYVSg-E_0000008 139.6 150.1 
+Sharlto_Copley/1CuLsYVSg-E_0000009 151.9 158.6 
+Sharlto_Copley/1CuLsYVSg-E_0000010 159.4 191.8 
+Sharlto_Copley/1CuLsYVSg-E_0000011 210.7 235.1 
+Sharlto_Copley/1CuLsYVSg-E_0000012 240.3 250.6 

@@ -1,0 +1,15 @@
+POI: 			Adam_Driver 
+Youtube ID: 	Mki-3pJgdMw 
+Video length: 	221.9 sec 
+Set (V): 		dev 
+ 
+Adam_Driver/Mki-3pJgdMw_0000001 10.1 16.7 
+Adam_Driver/Mki-3pJgdMw_0000002 39.0 48.8 
+Adam_Driver/Mki-3pJgdMw_0000003 67.7 72.8 
+Adam_Driver/Mki-3pJgdMw_0000004 104.0 111.8 
+Adam_Driver/Mki-3pJgdMw_0000005 123.2 131.6 
+Adam_Driver/Mki-3pJgdMw_0000006 132.6 140.7 
+Adam_Driver/Mki-3pJgdMw_0000007 143.2 153.6 
+Adam_Driver/Mki-3pJgdMw_0000008 167.6 172.3 
+Adam_Driver/Mki-3pJgdMw_0000009 188.5 197.3 
+Adam_Driver/Mki-3pJgdMw_0000010 198.7 206.3 

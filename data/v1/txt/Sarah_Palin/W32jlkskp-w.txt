@@ -1,0 +1,10 @@
+POI: 			Sarah_Palin 
+Youtube ID: 	W32jlkskp-w 
+Video length: 	553.2 sec 
+Set (V): 		dev 
+ 
+Sarah_Palin/W32jlkskp-w_0000001 102.6 120.0 
+Sarah_Palin/W32jlkskp-w_0000002 168.3 174.9 
+Sarah_Palin/W32jlkskp-w_0000003 255.8 264.3 
+Sarah_Palin/W32jlkskp-w_0000004 326.3 333.0 
+Sarah_Palin/W32jlkskp-w_0000005 426.9 435.5 

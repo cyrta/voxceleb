@@ -1,0 +1,8 @@
+POI: 			Charles_S._Dutton 
+Youtube ID: 	SaEbiRYY_is 
+Video length: 	356.4 sec 
+Set (V): 		dev 
+ 
+Charles_S._Dutton/SaEbiRYY_is_0000001 239.0 245.7 
+Charles_S._Dutton/SaEbiRYY_is_0000002 246.2 250.9 
+Charles_S._Dutton/SaEbiRYY_is_0000003 255.3 269.5 

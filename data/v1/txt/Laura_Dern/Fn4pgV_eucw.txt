@@ -1,0 +1,21 @@
+POI: 			Laura_Dern 
+Youtube ID: 	Fn4pgV_eucw 
+Video length: 	601.2 sec 
+Set (V): 		dev 
+ 
+Laura_Dern/Fn4pgV_eucw_0000001 05.4 25.6 
+Laura_Dern/Fn4pgV_eucw_0000002 26.8 31.5 
+Laura_Dern/Fn4pgV_eucw_0000003 42.4 46.7 
+Laura_Dern/Fn4pgV_eucw_0000004 48.1 53.6 
+Laura_Dern/Fn4pgV_eucw_0000005 59.8 66.0 
+Laura_Dern/Fn4pgV_eucw_0000006 66.2 71.2 
+Laura_Dern/Fn4pgV_eucw_0000007 72.4 88.0 
+Laura_Dern/Fn4pgV_eucw_0000008 129.1 140.8 
+Laura_Dern/Fn4pgV_eucw_0000009 145.4 161.6 
+Laura_Dern/Fn4pgV_eucw_0000010 182.9 190.0 
+Laura_Dern/Fn4pgV_eucw_0000011 204.1 208.3 
+Laura_Dern/Fn4pgV_eucw_0000012 290.1 297.5 
+Laura_Dern/Fn4pgV_eucw_0000013 301.4 324.6 
+Laura_Dern/Fn4pgV_eucw_0000014 367.3 372.2 
+Laura_Dern/Fn4pgV_eucw_0000015 377.9 388.2 
+Laura_Dern/Fn4pgV_eucw_0000016 546.8 567.4 

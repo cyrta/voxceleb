@@ -1,0 +1,7 @@
+POI: 			Diane_Keaton 
+Youtube ID: 	Z-BcJDa90EY 
+Video length: 	349.8 sec 
+Set (V): 		dev 
+ 
+Diane_Keaton/Z-BcJDa90EY_0000001 281.9 286.4 
+Diane_Keaton/Z-BcJDa90EY_0000002 305.0 316.1 

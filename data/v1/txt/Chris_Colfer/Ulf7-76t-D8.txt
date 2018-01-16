@@ -1,0 +1,18 @@
+POI: 			Chris_Colfer 
+Youtube ID: 	Ulf7-76t-D8 
+Video length: 	204.9 sec 
+Set (V): 		dev 
+ 
+Chris_Colfer/Ulf7-76t-D8_0000001 04.8 20.6 
+Chris_Colfer/Ulf7-76t-D8_0000002 27.4 43.4 
+Chris_Colfer/Ulf7-76t-D8_0000003 46.6 55.0 
+Chris_Colfer/Ulf7-76t-D8_0000004 59.3 66.3 
+Chris_Colfer/Ulf7-76t-D8_0000005 77.5 82.4 
+Chris_Colfer/Ulf7-76t-D8_0000006 83.1 111.6 
+Chris_Colfer/Ulf7-76t-D8_0000007 111.9 116.8 
+Chris_Colfer/Ulf7-76t-D8_0000008 131.5 139.3 
+Chris_Colfer/Ulf7-76t-D8_0000009 145.0 149.1 
+Chris_Colfer/Ulf7-76t-D8_0000010 149.5 154.3 
+Chris_Colfer/Ulf7-76t-D8_0000011 160.4 166.0 
+Chris_Colfer/Ulf7-76t-D8_0000012 175.4 180.2 
+Chris_Colfer/Ulf7-76t-D8_0000013 182.3 192.7 

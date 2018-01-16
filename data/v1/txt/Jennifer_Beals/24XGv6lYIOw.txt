@@ -1,0 +1,12 @@
+POI: 			Jennifer_Beals 
+Youtube ID: 	24XGv6lYIOw 
+Video length: 	1076.0 sec 
+Set (V): 		dev 
+ 
+Jennifer_Beals/24XGv6lYIOw_0000001 140.2 144.5 
+Jennifer_Beals/24XGv6lYIOw_0000002 145.9 158.3 
+Jennifer_Beals/24XGv6lYIOw_0000003 161.9 167.8 
+Jennifer_Beals/24XGv6lYIOw_0000004 302.6 318.8 
+Jennifer_Beals/24XGv6lYIOw_0000005 336.2 358.8 
+Jennifer_Beals/24XGv6lYIOw_0000006 450.6 457.7 
+Jennifer_Beals/24XGv6lYIOw_0000007 468.3 474.4 

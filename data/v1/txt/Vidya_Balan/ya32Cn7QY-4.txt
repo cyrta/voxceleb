@@ -1,0 +1,11 @@
+POI: 			Vidya_Balan 
+Youtube ID: 	ya32Cn7QY-4 
+Video length: 	255.1 sec 
+Set (V): 		dev 
+ 
+Vidya_Balan/ya32Cn7QY-4_0000001 57.2 69.6 
+Vidya_Balan/ya32Cn7QY-4_0000002 99.7 108.6 
+Vidya_Balan/ya32Cn7QY-4_0000003 132.2 139.1 
+Vidya_Balan/ya32Cn7QY-4_0000004 142.6 152.8 
+Vidya_Balan/ya32Cn7QY-4_0000005 154.7 161.8 
+Vidya_Balan/ya32Cn7QY-4_0000006 221.9 230.5 

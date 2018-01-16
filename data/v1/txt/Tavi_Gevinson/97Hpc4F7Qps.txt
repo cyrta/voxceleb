@@ -1,0 +1,8 @@
+POI: 			Tavi_Gevinson 
+Youtube ID: 	97Hpc4F7Qps 
+Video length: 	342.1 sec 
+Set (V): 		dev 
+ 
+Tavi_Gevinson/97Hpc4F7Qps_0000001 53.4 58.2 
+Tavi_Gevinson/97Hpc4F7Qps_0000002 87.5 91.8 
+Tavi_Gevinson/97Hpc4F7Qps_0000003 238.0 242.4 

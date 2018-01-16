@@ -1,0 +1,10 @@
+POI: 			Sung_Kang 
+Youtube ID: 	X-ijU5ChfqY 
+Video length: 	283.1 sec 
+Set (V): 		dev 
+ 
+Sung_Kang/X-ijU5ChfqY_0000001 80.5 85.4 
+Sung_Kang/X-ijU5ChfqY_0000002 86.2 90.4 
+Sung_Kang/X-ijU5ChfqY_0000003 90.6 104.5 
+Sung_Kang/X-ijU5ChfqY_0000004 215.3 222.8 
+Sung_Kang/X-ijU5ChfqY_0000005 223.6 228.6 

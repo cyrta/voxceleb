@@ -1,0 +1,7 @@
+POI: 			Cyndi_Lauper 
+Youtube ID: 	uy060zakGSk 
+Video length: 	216.5 sec 
+Set (V): 		dev 
+ 
+Cyndi_Lauper/uy060zakGSk_0000001 101.7 105.7 
+Cyndi_Lauper/uy060zakGSk_0000002 107.3 111.5 

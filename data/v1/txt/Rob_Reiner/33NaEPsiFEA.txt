@@ -1,0 +1,9 @@
+POI: 			Rob_Reiner 
+Youtube ID: 	33NaEPsiFEA 
+Video length: 	178.7 sec 
+Set (V): 		dev 
+ 
+Rob_Reiner/33NaEPsiFEA_0000001 37.0 49.7 
+Rob_Reiner/33NaEPsiFEA_0000002 55.5 68.7 
+Rob_Reiner/33NaEPsiFEA_0000003 127.0 134.0 
+Rob_Reiner/33NaEPsiFEA_0000004 134.4 143.4 

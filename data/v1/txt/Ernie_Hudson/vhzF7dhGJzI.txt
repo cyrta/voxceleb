@@ -1,0 +1,13 @@
+POI: 			Ernie_Hudson 
+Youtube ID: 	vhzF7dhGJzI 
+Video length: 	1647.0 sec 
+Set (V): 		test 
+ 
+Ernie_Hudson/vhzF7dhGJzI_0000001 868.2 873.9 
+Ernie_Hudson/vhzF7dhGJzI_0000002 878.3 882.8 
+Ernie_Hudson/vhzF7dhGJzI_0000003 951.0 956.8 
+Ernie_Hudson/vhzF7dhGJzI_0000004 974.2 979.8 
+Ernie_Hudson/vhzF7dhGJzI_0000005 1052.4 1056.6 
+Ernie_Hudson/vhzF7dhGJzI_0000006 1100.4 1109.5 
+Ernie_Hudson/vhzF7dhGJzI_0000007 1111.2 1116.7 
+Ernie_Hudson/vhzF7dhGJzI_0000008 1337.0 1343.0 

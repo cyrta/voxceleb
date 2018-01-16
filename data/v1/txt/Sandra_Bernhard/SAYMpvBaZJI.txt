@@ -1,0 +1,9 @@
+POI: 			Sandra_Bernhard 
+Youtube ID: 	SAYMpvBaZJI 
+Video length: 	125.4 sec 
+Set (V): 		dev 
+ 
+Sandra_Bernhard/SAYMpvBaZJI_0000001 37.1 41.5 
+Sandra_Bernhard/SAYMpvBaZJI_0000002 46.0 53.4 
+Sandra_Bernhard/SAYMpvBaZJI_0000003 71.8 76.5 
+Sandra_Bernhard/SAYMpvBaZJI_0000004 100.1 104.6 

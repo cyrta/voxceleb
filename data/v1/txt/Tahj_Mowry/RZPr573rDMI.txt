@@ -1,0 +1,8 @@
+POI: 			Tahj_Mowry 
+Youtube ID: 	RZPr573rDMI 
+Video length: 	73.2 sec 
+Set (V): 		dev 
+ 
+Tahj_Mowry/RZPr573rDMI_0000001 13.0 21.3 
+Tahj_Mowry/RZPr573rDMI_0000002 30.6 34.6 
+Tahj_Mowry/RZPr573rDMI_0000003 48.3 53.2 

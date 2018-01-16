@@ -1,0 +1,11 @@
+POI: 			Miranda_Hart 
+Youtube ID: 	VX3HpmgNqjA 
+Video length: 	159.9 sec 
+Set (V): 		dev 
+ 
+Miranda_Hart/VX3HpmgNqjA_0000001 44.6 51.9 
+Miranda_Hart/VX3HpmgNqjA_0000002 58.3 63.6 
+Miranda_Hart/VX3HpmgNqjA_0000003 80.0 86.4 
+Miranda_Hart/VX3HpmgNqjA_0000004 98.1 108.2 
+Miranda_Hart/VX3HpmgNqjA_0000005 143.1 147.7 
+Miranda_Hart/VX3HpmgNqjA_0000006 149.3 153.7 

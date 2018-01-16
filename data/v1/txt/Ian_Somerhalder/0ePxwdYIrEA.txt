@@ -1,0 +1,13 @@
+POI: 			Ian_Somerhalder 
+Youtube ID: 	0ePxwdYIrEA 
+Video length: 	208.8 sec 
+Set (V): 		dev 
+ 
+Ian_Somerhalder/0ePxwdYIrEA_0000001 20.4 25.3 
+Ian_Somerhalder/0ePxwdYIrEA_0000002 34.8 39.0 
+Ian_Somerhalder/0ePxwdYIrEA_0000003 104.1 110.3 
+Ian_Somerhalder/0ePxwdYIrEA_0000004 113.3 123.5 
+Ian_Somerhalder/0ePxwdYIrEA_0000005 125.5 130.1 
+Ian_Somerhalder/0ePxwdYIrEA_0000006 161.3 165.8 
+Ian_Somerhalder/0ePxwdYIrEA_0000007 166.6 172.3 
+Ian_Somerhalder/0ePxwdYIrEA_0000008 187.1 191.2 

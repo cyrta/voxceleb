@@ -1,0 +1,8 @@
+POI: 			Mathieu_Kassovitz 
+Youtube ID: 	QVGDZ468XSs 
+Video length: 	432.4 sec 
+Set (V): 		dev 
+ 
+Mathieu_Kassovitz/QVGDZ468XSs_0000001 255.8 260.1 
+Mathieu_Kassovitz/QVGDZ468XSs_0000002 268.6 275.7 
+Mathieu_Kassovitz/QVGDZ468XSs_0000003 327.9 332.4 

@@ -1,0 +1,14 @@
+POI: 			Vincent_Martella 
+Youtube ID: 	8En2-feGZrc 
+Video length: 	138.9 sec 
+Set (V): 		dev 
+ 
+Vincent_Martella/8En2-feGZrc_0000001 05.3 09.8 
+Vincent_Martella/8En2-feGZrc_0000002 12.3 18.5 
+Vincent_Martella/8En2-feGZrc_0000003 22.8 28.4 
+Vincent_Martella/8En2-feGZrc_0000004 30.6 43.6 
+Vincent_Martella/8En2-feGZrc_0000005 44.5 49.8 
+Vincent_Martella/8En2-feGZrc_0000006 53.2 72.2 
+Vincent_Martella/8En2-feGZrc_0000007 72.3 85.6 
+Vincent_Martella/8En2-feGZrc_0000008 92.1 98.6 
+Vincent_Martella/8En2-feGZrc_0000009 99.1 104.0 

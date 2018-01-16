@@ -1,0 +1,7 @@
+POI: 			Hector_Elizondo 
+Youtube ID: 	1JEYP-d6h0M 
+Video length: 	119.0 sec 
+Set (V): 		dev 
+ 
+Hector_Elizondo/1JEYP-d6h0M_0000001 40.4 46.2 
+Hector_Elizondo/1JEYP-d6h0M_0000002 48.5 57.3 

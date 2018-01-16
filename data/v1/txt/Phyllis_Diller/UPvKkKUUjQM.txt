@@ -1,0 +1,13 @@
+POI: 			Phyllis_Diller 
+Youtube ID: 	UPvKkKUUjQM 
+Video length: 	378.7 sec 
+Set (V): 		dev 
+ 
+Phyllis_Diller/UPvKkKUUjQM_0000001 03.1 08.2 
+Phyllis_Diller/UPvKkKUUjQM_0000002 15.7 20.8 
+Phyllis_Diller/UPvKkKUUjQM_0000003 21.0 28.3 
+Phyllis_Diller/UPvKkKUUjQM_0000004 70.0 77.8 
+Phyllis_Diller/UPvKkKUUjQM_0000005 120.5 127.4 
+Phyllis_Diller/UPvKkKUUjQM_0000006 252.2 261.3 
+Phyllis_Diller/UPvKkKUUjQM_0000007 325.8 329.9 
+Phyllis_Diller/UPvKkKUUjQM_0000008 372.4 377.0 

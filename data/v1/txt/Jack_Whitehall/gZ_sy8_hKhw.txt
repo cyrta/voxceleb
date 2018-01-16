@@ -1,0 +1,7 @@
+POI: 			Jack_Whitehall 
+Youtube ID: 	gZ_sy8_hKhw 
+Video length: 	624.8 sec 
+Set (V): 		dev 
+ 
+Jack_Whitehall/gZ_sy8_hKhw_0000001 321.5 325.5 
+Jack_Whitehall/gZ_sy8_hKhw_0000002 471.4 476.1 

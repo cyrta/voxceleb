@@ -1,0 +1,11 @@
+POI: 			Dermot_Mulroney 
+Youtube ID: 	DqEE5_ACPjk 
+Video length: 	264.5 sec 
+Set (V): 		dev 
+ 
+Dermot_Mulroney/DqEE5_ACPjk_0000001 32.2 40.9 
+Dermot_Mulroney/DqEE5_ACPjk_0000002 132.1 139.4 
+Dermot_Mulroney/DqEE5_ACPjk_0000003 144.4 158.7 
+Dermot_Mulroney/DqEE5_ACPjk_0000004 160.0 164.6 
+Dermot_Mulroney/DqEE5_ACPjk_0000005 175.1 186.8 
+Dermot_Mulroney/DqEE5_ACPjk_0000006 194.3 202.8 

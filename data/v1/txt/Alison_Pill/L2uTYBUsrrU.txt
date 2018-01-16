@@ -1,0 +1,16 @@
+POI: 			Alison_Pill 
+Youtube ID: 	L2uTYBUsrrU 
+Video length: 	294.8 sec 
+Set (V): 		dev 
+ 
+Alison_Pill/L2uTYBUsrrU_0000001 29.1 43.2 
+Alison_Pill/L2uTYBUsrrU_0000002 52.7 76.1 
+Alison_Pill/L2uTYBUsrrU_0000003 77.4 84.1 
+Alison_Pill/L2uTYBUsrrU_0000004 86.1 108.7 
+Alison_Pill/L2uTYBUsrrU_0000005 128.3 147.5 
+Alison_Pill/L2uTYBUsrrU_0000006 148.6 166.6 
+Alison_Pill/L2uTYBUsrrU_0000007 179.8 185.9 
+Alison_Pill/L2uTYBUsrrU_0000008 188.8 196.3 
+Alison_Pill/L2uTYBUsrrU_0000009 196.8 222.8 
+Alison_Pill/L2uTYBUsrrU_0000010 240.2 264.9 
+Alison_Pill/L2uTYBUsrrU_0000011 268.3 272.9 

@@ -1,0 +1,14 @@
+POI: 			Forest_Whitaker 
+Youtube ID: 	YOPr_LZwEOU 
+Video length: 	1523.5 sec 
+Set (V): 		dev 
+ 
+Forest_Whitaker/YOPr_LZwEOU_0000001 932.4 936.8 
+Forest_Whitaker/YOPr_LZwEOU_0000002 942.6 947.5 
+Forest_Whitaker/YOPr_LZwEOU_0000003 959.7 971.2 
+Forest_Whitaker/YOPr_LZwEOU_0000004 1078.2 1085.8 
+Forest_Whitaker/YOPr_LZwEOU_0000005 1127.8 1147.2 
+Forest_Whitaker/YOPr_LZwEOU_0000006 1148.2 1154.0 
+Forest_Whitaker/YOPr_LZwEOU_0000007 1285.9 1290.7 
+Forest_Whitaker/YOPr_LZwEOU_0000008 1401.4 1408.4 
+Forest_Whitaker/YOPr_LZwEOU_0000009 1422.0 1427.6 

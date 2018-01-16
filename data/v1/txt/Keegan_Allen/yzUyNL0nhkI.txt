@@ -1,0 +1,14 @@
+POI: 			Keegan_Allen 
+Youtube ID: 	yzUyNL0nhkI 
+Video length: 	213.6 sec 
+Set (V): 		dev 
+ 
+Keegan_Allen/yzUyNL0nhkI_0000001 01.0 05.5 
+Keegan_Allen/yzUyNL0nhkI_0000002 42.4 57.6 
+Keegan_Allen/yzUyNL0nhkI_0000003 58.5 69.3 
+Keegan_Allen/yzUyNL0nhkI_0000004 87.5 96.4 
+Keegan_Allen/yzUyNL0nhkI_0000005 106.8 116.1 
+Keegan_Allen/yzUyNL0nhkI_0000006 144.4 154.2 
+Keegan_Allen/yzUyNL0nhkI_0000007 156.1 160.2 
+Keegan_Allen/yzUyNL0nhkI_0000008 160.6 171.8 
+Keegan_Allen/yzUyNL0nhkI_0000009 179.9 188.0 

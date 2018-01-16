@@ -1,0 +1,8 @@
+POI: 			Sara_Ramirez 
+Youtube ID: 	AduPL_uCggw 
+Video length: 	223.5 sec 
+Set (V): 		dev 
+ 
+Sara_Ramirez/AduPL_uCggw_0000001 59.6 65.5 
+Sara_Ramirez/AduPL_uCggw_0000002 92.0 99.1 
+Sara_Ramirez/AduPL_uCggw_0000003 196.6 200.8 

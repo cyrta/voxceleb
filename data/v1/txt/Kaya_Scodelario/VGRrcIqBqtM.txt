@@ -1,0 +1,11 @@
+POI: 			Kaya_Scodelario 
+Youtube ID: 	VGRrcIqBqtM 
+Video length: 	934.3 sec 
+Set (V): 		dev 
+ 
+Kaya_Scodelario/VGRrcIqBqtM_0000001 70.2 75.2 
+Kaya_Scodelario/VGRrcIqBqtM_0000002 77.5 83.7 
+Kaya_Scodelario/VGRrcIqBqtM_0000003 277.2 283.1 
+Kaya_Scodelario/VGRrcIqBqtM_0000004 593.1 599.6 
+Kaya_Scodelario/VGRrcIqBqtM_0000005 760.6 766.3 
+Kaya_Scodelario/VGRrcIqBqtM_0000006 773.5 778.2 

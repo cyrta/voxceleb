@@ -1,0 +1,7 @@
+POI: 			Linda_Cardellini 
+Youtube ID: 	4u_8naGXc2E 
+Video length: 	83.4 sec 
+Set (V): 		dev 
+ 
+Linda_Cardellini/4u_8naGXc2E_0000001 32.0 38.1 
+Linda_Cardellini/4u_8naGXc2E_0000002 42.8 46.8 

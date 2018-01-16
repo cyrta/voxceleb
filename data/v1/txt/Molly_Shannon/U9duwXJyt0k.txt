@@ -1,0 +1,27 @@
+POI: 			Molly_Shannon 
+Youtube ID: 	U9duwXJyt0k 
+Video length: 	441.5 sec 
+Set (V): 		dev 
+ 
+Molly_Shannon/U9duwXJyt0k_0000001 29.2 34.0 
+Molly_Shannon/U9duwXJyt0k_0000002 36.2 47.8 
+Molly_Shannon/U9duwXJyt0k_0000003 49.4 62.2 
+Molly_Shannon/U9duwXJyt0k_0000004 81.0 97.5 
+Molly_Shannon/U9duwXJyt0k_0000005 111.5 127.8 
+Molly_Shannon/U9duwXJyt0k_0000006 154.9 180.8 
+Molly_Shannon/U9duwXJyt0k_0000007 177.3 181.6 
+Molly_Shannon/U9duwXJyt0k_0000008 184.4 194.3 
+Molly_Shannon/U9duwXJyt0k_0000009 204.2 213.3 
+Molly_Shannon/U9duwXJyt0k_0000010 234.4 255.7 
+Molly_Shannon/U9duwXJyt0k_0000011 254.4 266.3 
+Molly_Shannon/U9duwXJyt0k_0000012 293.5 303.3 
+Molly_Shannon/U9duwXJyt0k_0000013 303.8 307.9 
+Molly_Shannon/U9duwXJyt0k_0000014 309.2 319.8 
+Molly_Shannon/U9duwXJyt0k_0000015 320.7 325.6 
+Molly_Shannon/U9duwXJyt0k_0000016 329.8 345.6 
+Molly_Shannon/U9duwXJyt0k_0000017 345.8 351.0 
+Molly_Shannon/U9duwXJyt0k_0000018 362.9 374.1 
+Molly_Shannon/U9duwXJyt0k_0000019 375.2 379.6 
+Molly_Shannon/U9duwXJyt0k_0000020 367.3 381.0 
+Molly_Shannon/U9duwXJyt0k_0000021 396.9 413.7 
+Molly_Shannon/U9duwXJyt0k_0000022 415.2 420.0 

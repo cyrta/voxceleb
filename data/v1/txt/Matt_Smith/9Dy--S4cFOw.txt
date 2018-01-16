@@ -1,0 +1,19 @@
+POI: 			Matt_Smith 
+Youtube ID: 	9Dy--S4cFOw 
+Video length: 	535.0 sec 
+Set (V): 		dev 
+ 
+Matt_Smith/9Dy--S4cFOw_0000001 36.2 41.4 
+Matt_Smith/9Dy--S4cFOw_0000002 46.1 51.2 
+Matt_Smith/9Dy--S4cFOw_0000003 63.2 68.1 
+Matt_Smith/9Dy--S4cFOw_0000004 104.9 112.5 
+Matt_Smith/9Dy--S4cFOw_0000005 205.4 210.4 
+Matt_Smith/9Dy--S4cFOw_0000006 211.3 217.2 
+Matt_Smith/9Dy--S4cFOw_0000007 217.5 222.1 
+Matt_Smith/9Dy--S4cFOw_0000008 272.4 278.6 
+Matt_Smith/9Dy--S4cFOw_0000009 336.1 342.8 
+Matt_Smith/9Dy--S4cFOw_0000010 352.3 357.4 
+Matt_Smith/9Dy--S4cFOw_0000011 399.6 403.8 
+Matt_Smith/9Dy--S4cFOw_0000012 404.7 411.5 
+Matt_Smith/9Dy--S4cFOw_0000013 412.2 416.6 
+Matt_Smith/9Dy--S4cFOw_0000014 425.2 431.4 

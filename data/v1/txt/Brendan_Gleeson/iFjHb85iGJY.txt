@@ -1,0 +1,42 @@
+POI: 			Brendan_Gleeson 
+Youtube ID: 	iFjHb85iGJY 
+Video length: 	622.2 sec 
+Set (V): 		dev 
+ 
+Brendan_Gleeson/iFjHb85iGJY_0000001 22.9 27.8 
+Brendan_Gleeson/iFjHb85iGJY_0000002 31.1 35.2 
+Brendan_Gleeson/iFjHb85iGJY_0000003 40.0 50.9 
+Brendan_Gleeson/iFjHb85iGJY_0000004 51.0 62.8 
+Brendan_Gleeson/iFjHb85iGJY_0000005 81.0 87.2 
+Brendan_Gleeson/iFjHb85iGJY_0000006 107.4 114.8 
+Brendan_Gleeson/iFjHb85iGJY_0000007 117.7 123.4 
+Brendan_Gleeson/iFjHb85iGJY_0000008 124.8 147.9 
+Brendan_Gleeson/iFjHb85iGJY_0000009 151.2 158.6 
+Brendan_Gleeson/iFjHb85iGJY_0000010 160.7 165.6 
+Brendan_Gleeson/iFjHb85iGJY_0000011 166.9 185.2 
+Brendan_Gleeson/iFjHb85iGJY_0000012 187.9 192.3 
+Brendan_Gleeson/iFjHb85iGJY_0000013 192.4 198.2 
+Brendan_Gleeson/iFjHb85iGJY_0000014 199.9 212.2 
+Brendan_Gleeson/iFjHb85iGJY_0000015 222.7 238.4 
+Brendan_Gleeson/iFjHb85iGJY_0000016 260.8 267.4 
+Brendan_Gleeson/iFjHb85iGJY_0000017 276.9 296.3 
+Brendan_Gleeson/iFjHb85iGJY_0000018 296.7 301.1 
+Brendan_Gleeson/iFjHb85iGJY_0000019 315.6 337.3 
+Brendan_Gleeson/iFjHb85iGJY_0000020 338.9 347.0 
+Brendan_Gleeson/iFjHb85iGJY_0000021 354.0 363.4 
+Brendan_Gleeson/iFjHb85iGJY_0000022 365.1 379.4 
+Brendan_Gleeson/iFjHb85iGJY_0000023 380.8 385.4 
+Brendan_Gleeson/iFjHb85iGJY_0000024 388.8 407.7 
+Brendan_Gleeson/iFjHb85iGJY_0000025 413.5 420.0 
+Brendan_Gleeson/iFjHb85iGJY_0000026 429.9 434.6 
+Brendan_Gleeson/iFjHb85iGJY_0000027 434.9 442.8 
+Brendan_Gleeson/iFjHb85iGJY_0000028 447.6 461.6 
+Brendan_Gleeson/iFjHb85iGJY_0000029 462.4 468.7 
+Brendan_Gleeson/iFjHb85iGJY_0000030 468.8 476.9 
+Brendan_Gleeson/iFjHb85iGJY_0000031 493.1 506.6 
+Brendan_Gleeson/iFjHb85iGJY_0000032 536.4 544.4 
+Brendan_Gleeson/iFjHb85iGJY_0000033 554.8 562.5 
+Brendan_Gleeson/iFjHb85iGJY_0000034 564.8 569.2 
+Brendan_Gleeson/iFjHb85iGJY_0000035 571.4 577.3 
+Brendan_Gleeson/iFjHb85iGJY_0000036 580.4 598.4 
+Brendan_Gleeson/iFjHb85iGJY_0000037 598.8 607.8 

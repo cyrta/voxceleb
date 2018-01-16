@@ -1,0 +1,10 @@
+POI: 			Kesha 
+Youtube ID: 	30wqV3AjjiY 
+Video length: 	315.2 sec 
+Set (V): 		dev 
+ 
+Kesha/30wqV3AjjiY_0000001 42.8 49.7 
+Kesha/30wqV3AjjiY_0000002 121.0 130.3 
+Kesha/30wqV3AjjiY_0000003 187.8 191.8 
+Kesha/30wqV3AjjiY_0000004 196.6 200.9 
+Kesha/30wqV3AjjiY_0000005 261.3 269.8 

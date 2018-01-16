@@ -1,0 +1,9 @@
+POI: 			Eric_Dane 
+Youtube ID: 	S9FeIMntmUE 
+Video length: 	448.3 sec 
+Set (V): 		test 
+ 
+Eric_Dane/S9FeIMntmUE_0000001 165.9 170.4 
+Eric_Dane/S9FeIMntmUE_0000002 170.7 175.4 
+Eric_Dane/S9FeIMntmUE_0000003 371.2 375.7 
+Eric_Dane/S9FeIMntmUE_0000004 384.6 392.9 

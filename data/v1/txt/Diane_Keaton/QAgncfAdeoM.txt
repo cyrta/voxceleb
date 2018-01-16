@@ -1,0 +1,9 @@
+POI: 			Diane_Keaton 
+Youtube ID: 	QAgncfAdeoM 
+Video length: 	318.9 sec 
+Set (V): 		dev 
+ 
+Diane_Keaton/QAgncfAdeoM_0000001 158.1 164.9 
+Diane_Keaton/QAgncfAdeoM_0000002 180.4 185.0 
+Diane_Keaton/QAgncfAdeoM_0000003 189.7 196.7 
+Diane_Keaton/QAgncfAdeoM_0000004 288.6 300.5 

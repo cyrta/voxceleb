@@ -1,0 +1,9 @@
+POI: 			Jaime_Winstone 
+Youtube ID: 	WDo_jz_PwNQ 
+Video length: 	117.7 sec 
+Set (V): 		dev 
+ 
+Jaime_Winstone/WDo_jz_PwNQ_0000001 41.8 46.8 
+Jaime_Winstone/WDo_jz_PwNQ_0000002 63.8 69.1 
+Jaime_Winstone/WDo_jz_PwNQ_0000003 75.2 82.0 
+Jaime_Winstone/WDo_jz_PwNQ_0000004 95.4 100.7 

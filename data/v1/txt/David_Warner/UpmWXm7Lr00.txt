@@ -1,0 +1,20 @@
+POI: 			David_Warner 
+Youtube ID: 	UpmWXm7Lr00 
+Video length: 	904.2 sec 
+Set (V): 		dev 
+ 
+David_Warner/UpmWXm7Lr00_0000001 51.6 69.4 
+David_Warner/UpmWXm7Lr00_0000002 75.4 82.7 
+David_Warner/UpmWXm7Lr00_0000003 91.7 102.2 
+David_Warner/UpmWXm7Lr00_0000004 133.6 143.7 
+David_Warner/UpmWXm7Lr00_0000005 155.8 160.2 
+David_Warner/UpmWXm7Lr00_0000006 187.5 203.4 
+David_Warner/UpmWXm7Lr00_0000007 209.5 215.5 
+David_Warner/UpmWXm7Lr00_0000008 235.8 247.6 
+David_Warner/UpmWXm7Lr00_0000009 273.9 281.3 
+David_Warner/UpmWXm7Lr00_0000010 366.1 373.2 
+David_Warner/UpmWXm7Lr00_0000011 375.5 388.2 
+David_Warner/UpmWXm7Lr00_0000012 395.0 404.0 
+David_Warner/UpmWXm7Lr00_0000013 603.6 608.5 
+David_Warner/UpmWXm7Lr00_0000014 613.4 622.7 
+David_Warner/UpmWXm7Lr00_0000015 622.9 627.1 

@@ -1,0 +1,22 @@
+POI: 			James_Badge_Dale 
+Youtube ID: 	JBqbd46360Q 
+Video length: 	249.2 sec 
+Set (V): 		dev 
+ 
+James_Badge_Dale/JBqbd46360Q_0000001 23.8 28.8 
+James_Badge_Dale/JBqbd46360Q_0000002 48.2 55.2 
+James_Badge_Dale/JBqbd46360Q_0000003 56.6 65.0 
+James_Badge_Dale/JBqbd46360Q_0000004 67.0 74.3 
+James_Badge_Dale/JBqbd46360Q_0000005 74.5 86.0 
+James_Badge_Dale/JBqbd46360Q_0000006 83.7 89.1 
+James_Badge_Dale/JBqbd46360Q_0000007 95.9 102.2 
+James_Badge_Dale/JBqbd46360Q_0000008 103.5 108.9 
+James_Badge_Dale/JBqbd46360Q_0000009 109.1 120.9 
+James_Badge_Dale/JBqbd46360Q_0000010 122.8 127.0 
+James_Badge_Dale/JBqbd46360Q_0000011 129.3 136.4 
+James_Badge_Dale/JBqbd46360Q_0000012 138.2 142.2 
+James_Badge_Dale/JBqbd46360Q_0000013 155.2 159.3 
+James_Badge_Dale/JBqbd46360Q_0000014 166.0 178.0 
+James_Badge_Dale/JBqbd46360Q_0000015 180.2 194.4 
+James_Badge_Dale/JBqbd46360Q_0000016 195.2 199.8 
+James_Badge_Dale/JBqbd46360Q_0000017 218.6 244.6 

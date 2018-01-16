@@ -1,0 +1,18 @@
+POI: 			Marc_Webb 
+Youtube ID: 	rotTnpEUm9M 
+Video length: 	224.4 sec 
+Set (V): 		dev 
+ 
+Marc_Webb/rotTnpEUm9M_0000001 21.4 33.9 
+Marc_Webb/rotTnpEUm9M_0000002 47.8 56.0 
+Marc_Webb/rotTnpEUm9M_0000003 61.8 69.3 
+Marc_Webb/rotTnpEUm9M_0000004 72.1 77.7 
+Marc_Webb/rotTnpEUm9M_0000005 78.5 82.6 
+Marc_Webb/rotTnpEUm9M_0000006 88.6 97.2 
+Marc_Webb/rotTnpEUm9M_0000007 151.8 158.6 
+Marc_Webb/rotTnpEUm9M_0000008 175.8 182.1 
+Marc_Webb/rotTnpEUm9M_0000009 183.4 187.7 
+Marc_Webb/rotTnpEUm9M_0000010 190.0 194.0 
+Marc_Webb/rotTnpEUm9M_0000011 194.3 201.8 
+Marc_Webb/rotTnpEUm9M_0000012 202.0 208.2 
+Marc_Webb/rotTnpEUm9M_0000013 211.8 219.6 

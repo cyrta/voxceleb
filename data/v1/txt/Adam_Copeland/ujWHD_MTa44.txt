@@ -1,0 +1,29 @@
+POI: 			Adam_Copeland 
+Youtube ID: 	ujWHD_MTa44 
+Video length: 	1391.0 sec 
+Set (V): 		dev 
+ 
+Adam_Copeland/ujWHD_MTa44_0000001 111.7 117.6 
+Adam_Copeland/ujWHD_MTa44_0000002 138.4 147.0 
+Adam_Copeland/ujWHD_MTa44_0000003 165.0 172.3 
+Adam_Copeland/ujWHD_MTa44_0000004 203.9 212.6 
+Adam_Copeland/ujWHD_MTa44_0000005 214.8 225.2 
+Adam_Copeland/ujWHD_MTa44_0000006 282.4 288.7 
+Adam_Copeland/ujWHD_MTa44_0000007 373.4 381.6 
+Adam_Copeland/ujWHD_MTa44_0000008 648.1 665.8 
+Adam_Copeland/ujWHD_MTa44_0000009 706.8 712.8 
+Adam_Copeland/ujWHD_MTa44_0000010 718.2 723.6 
+Adam_Copeland/ujWHD_MTa44_0000011 766.3 775.5 
+Adam_Copeland/ujWHD_MTa44_0000012 838.6 845.5 
+Adam_Copeland/ujWHD_MTa44_0000013 850.7 854.8 
+Adam_Copeland/ujWHD_MTa44_0000014 855.3 863.7 
+Adam_Copeland/ujWHD_MTa44_0000015 943.4 951.9 
+Adam_Copeland/ujWHD_MTa44_0000016 980.1 988.5 
+Adam_Copeland/ujWHD_MTa44_0000017 1012.8 1017.8 
+Adam_Copeland/ujWHD_MTa44_0000018 1030.0 1036.6 
+Adam_Copeland/ujWHD_MTa44_0000019 1040.7 1051.8 
+Adam_Copeland/ujWHD_MTa44_0000020 1114.0 1125.0 
+Adam_Copeland/ujWHD_MTa44_0000021 1152.9 1160.5 
+Adam_Copeland/ujWHD_MTa44_0000022 1202.4 1207.9 
+Adam_Copeland/ujWHD_MTa44_0000023 1279.4 1283.4 
+Adam_Copeland/ujWHD_MTa44_0000024 1339.5 1350.4 

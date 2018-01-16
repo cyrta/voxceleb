@@ -1,0 +1,18 @@
+POI: 			Max_Adler 
+Youtube ID: 	x6dPzB2O0Jg 
+Video length: 	314.9 sec 
+Set (V): 		dev 
+ 
+Max_Adler/x6dPzB2O0Jg_0000001 24.9 35.1 
+Max_Adler/x6dPzB2O0Jg_0000002 71.5 76.1 
+Max_Adler/x6dPzB2O0Jg_0000003 82.0 86.7 
+Max_Adler/x6dPzB2O0Jg_0000004 120.3 134.8 
+Max_Adler/x6dPzB2O0Jg_0000005 146.5 152.1 
+Max_Adler/x6dPzB2O0Jg_0000006 152.8 160.0 
+Max_Adler/x6dPzB2O0Jg_0000007 171.1 184.3 
+Max_Adler/x6dPzB2O0Jg_0000008 197.6 220.3 
+Max_Adler/x6dPzB2O0Jg_0000009 228.2 237.0 
+Max_Adler/x6dPzB2O0Jg_0000010 246.4 252.6 
+Max_Adler/x6dPzB2O0Jg_0000011 258.5 265.8 
+Max_Adler/x6dPzB2O0Jg_0000012 279.3 283.8 
+Max_Adler/x6dPzB2O0Jg_0000013 305.8 309.9 

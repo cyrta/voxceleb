@@ -1,0 +1,8 @@
+POI: 			Marilu_Henner 
+Youtube ID: 	9sBVSwnOa5k 
+Video length: 	453.5 sec 
+Set (V): 		dev 
+ 
+Marilu_Henner/9sBVSwnOa5k_0000001 160.1 165.8 
+Marilu_Henner/9sBVSwnOa5k_0000002 177.4 181.4 
+Marilu_Henner/9sBVSwnOa5k_0000003 374.4 380.6 

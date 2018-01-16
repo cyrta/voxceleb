@@ -1,0 +1,11 @@
+POI: 			Adam_Brody 
+Youtube ID: 	ik0addgjsVM 
+Video length: 	287.6 sec 
+Set (V): 		dev 
+ 
+Adam_Brody/ik0addgjsVM_0000001 31.7 36.5 
+Adam_Brody/ik0addgjsVM_0000002 124.5 131.2 
+Adam_Brody/ik0addgjsVM_0000003 137.0 142.2 
+Adam_Brody/ik0addgjsVM_0000004 217.4 223.1 
+Adam_Brody/ik0addgjsVM_0000005 224.9 231.1 
+Adam_Brody/ik0addgjsVM_0000006 247.3 252.6 

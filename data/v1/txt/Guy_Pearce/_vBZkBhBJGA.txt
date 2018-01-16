@@ -1,0 +1,7 @@
+POI: 			Guy_Pearce 
+Youtube ID: 	_vBZkBhBJGA 
+Video length: 	58.6 sec 
+Set (V): 		dev 
+ 
+Guy_Pearce/_vBZkBhBJGA_0000001 22.0 30.8 
+Guy_Pearce/_vBZkBhBJGA_0000002 32.0 41.1 

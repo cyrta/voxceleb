@@ -1,0 +1,11 @@
+POI: 			Tim_Minchin 
+Youtube ID: 	FOTW8RlxIXs 
+Video length: 	507.0 sec 
+Set (V): 		dev 
+ 
+Tim_Minchin/FOTW8RlxIXs_0000001 277.5 293.6 
+Tim_Minchin/FOTW8RlxIXs_0000002 304.8 309.5 
+Tim_Minchin/FOTW8RlxIXs_0000003 377.4 382.8 
+Tim_Minchin/FOTW8RlxIXs_0000004 389.1 398.7 
+Tim_Minchin/FOTW8RlxIXs_0000005 408.7 419.8 
+Tim_Minchin/FOTW8RlxIXs_0000006 424.3 428.4 

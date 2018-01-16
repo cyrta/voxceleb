@@ -1,0 +1,11 @@
+POI: 			Grant_Bowler 
+Youtube ID: 	4-O7wgsDUH4 
+Video length: 	328.6 sec 
+Set (V): 		dev 
+ 
+Grant_Bowler/4-O7wgsDUH4_0000001 59.3 65.3 
+Grant_Bowler/4-O7wgsDUH4_0000002 115.6 126.5 
+Grant_Bowler/4-O7wgsDUH4_0000003 246.1 251.3 
+Grant_Bowler/4-O7wgsDUH4_0000004 283.5 290.0 
+Grant_Bowler/4-O7wgsDUH4_0000005 291.0 300.0 
+Grant_Bowler/4-O7wgsDUH4_0000006 301.0 311.5 

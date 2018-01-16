@@ -1,0 +1,13 @@
+POI: 			Darren_Criss 
+Youtube ID: 	f1rYlKU1bTQ 
+Video length: 	641.9 sec 
+Set (V): 		dev 
+ 
+Darren_Criss/f1rYlKU1bTQ_0000001 244.5 249.0 
+Darren_Criss/f1rYlKU1bTQ_0000002 267.8 272.1 
+Darren_Criss/f1rYlKU1bTQ_0000003 279.1 283.5 
+Darren_Criss/f1rYlKU1bTQ_0000004 523.3 536.6 
+Darren_Criss/f1rYlKU1bTQ_0000005 543.3 547.4 
+Darren_Criss/f1rYlKU1bTQ_0000006 557.6 564.1 
+Darren_Criss/f1rYlKU1bTQ_0000007 566.2 570.7 
+Darren_Criss/f1rYlKU1bTQ_0000008 629.2 634.9 

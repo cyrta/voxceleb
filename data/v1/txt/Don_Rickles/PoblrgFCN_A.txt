@@ -1,0 +1,19 @@
+POI: 			Don_Rickles 
+Youtube ID: 	PoblrgFCN_A 
+Video length: 	1592.1 sec 
+Set (V): 		dev 
+ 
+Don_Rickles/PoblrgFCN_A_0000001 516.9 521.4 
+Don_Rickles/PoblrgFCN_A_0000002 523.8 528.9 
+Don_Rickles/PoblrgFCN_A_0000003 563.5 572.4 
+Don_Rickles/PoblrgFCN_A_0000004 751.1 757.4 
+Don_Rickles/PoblrgFCN_A_0000005 760.9 768.0 
+Don_Rickles/PoblrgFCN_A_0000006 962.6 972.0 
+Don_Rickles/PoblrgFCN_A_0000007 988.6 993.0 
+Don_Rickles/PoblrgFCN_A_0000008 1051.2 1071.5 
+Don_Rickles/PoblrgFCN_A_0000009 1146.1 1159.8 
+Don_Rickles/PoblrgFCN_A_0000010 1161.6 1165.6 
+Don_Rickles/PoblrgFCN_A_0000011 1442.2 1464.1 
+Don_Rickles/PoblrgFCN_A_0000012 1470.7 1476.6 
+Don_Rickles/PoblrgFCN_A_0000013 1513.7 1519.8 
+Don_Rickles/PoblrgFCN_A_0000014 1541.4 1547.2 

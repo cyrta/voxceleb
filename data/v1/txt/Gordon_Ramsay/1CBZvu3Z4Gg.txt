@@ -1,0 +1,8 @@
+POI: 			Gordon_Ramsay 
+Youtube ID: 	1CBZvu3Z4Gg 
+Video length: 	517.3 sec 
+Set (V): 		dev 
+ 
+Gordon_Ramsay/1CBZvu3Z4Gg_0000001 67.6 73.5 
+Gordon_Ramsay/1CBZvu3Z4Gg_0000002 107.6 112.4 
+Gordon_Ramsay/1CBZvu3Z4Gg_0000003 329.0 333.0 

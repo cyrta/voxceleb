@@ -1,0 +1,9 @@
+POI: 			Ronda_Rousey 
+Youtube ID: 	1hmfzFh56Vo 
+Video length: 	155.2 sec 
+Set (V): 		dev 
+ 
+Ronda_Rousey/1hmfzFh56Vo_0000001 36.6 41.9 
+Ronda_Rousey/1hmfzFh56Vo_0000002 63.1 67.7 
+Ronda_Rousey/1hmfzFh56Vo_0000003 87.6 91.6 
+Ronda_Rousey/1hmfzFh56Vo_0000004 107.4 117.6 

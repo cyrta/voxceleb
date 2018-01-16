@@ -1,0 +1,16 @@
+POI: 			Eddie_Kaye_Thomas 
+Youtube ID: 	89UnsytX6Y8 
+Video length: 	552.8 sec 
+Set (V): 		test 
+ 
+Eddie_Kaye_Thomas/89UnsytX6Y8_0000001 00.7 05.1 
+Eddie_Kaye_Thomas/89UnsytX6Y8_0000002 05.4 09.8 
+Eddie_Kaye_Thomas/89UnsytX6Y8_0000003 87.2 92.4 
+Eddie_Kaye_Thomas/89UnsytX6Y8_0000004 171.1 177.2 
+Eddie_Kaye_Thomas/89UnsytX6Y8_0000005 183.0 193.6 
+Eddie_Kaye_Thomas/89UnsytX6Y8_0000006 248.0 253.5 
+Eddie_Kaye_Thomas/89UnsytX6Y8_0000007 265.6 270.0 
+Eddie_Kaye_Thomas/89UnsytX6Y8_0000008 325.1 329.7 
+Eddie_Kaye_Thomas/89UnsytX6Y8_0000009 364.5 370.0 
+Eddie_Kaye_Thomas/89UnsytX6Y8_0000010 378.8 383.0 
+Eddie_Kaye_Thomas/89UnsytX6Y8_0000011 401.2 405.6 

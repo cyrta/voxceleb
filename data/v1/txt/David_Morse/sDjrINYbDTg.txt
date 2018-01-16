@@ -1,0 +1,7 @@
+POI: 			David_Morse 
+Youtube ID: 	sDjrINYbDTg 
+Video length: 	258.1 sec 
+Set (V): 		dev 
+ 
+David_Morse/sDjrINYbDTg_0000001 104.6 109.0 
+David_Morse/sDjrINYbDTg_0000002 222.0 226.2 

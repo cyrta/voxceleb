@@ -1,0 +1,9 @@
+POI: 			Karla_Souza 
+Youtube ID: 	LEIM6EDwVn0 
+Video length: 	538.7 sec 
+Set (V): 		dev 
+ 
+Karla_Souza/LEIM6EDwVn0_0000001 120.7 125.2 
+Karla_Souza/LEIM6EDwVn0_0000002 250.1 258.1 
+Karla_Souza/LEIM6EDwVn0_0000003 292.7 297.7 
+Karla_Souza/LEIM6EDwVn0_0000004 371.5 377.4 

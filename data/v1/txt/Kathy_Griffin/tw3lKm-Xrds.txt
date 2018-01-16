@@ -1,0 +1,30 @@
+POI: 			Kathy_Griffin 
+Youtube ID: 	tw3lKm-Xrds 
+Video length: 	1447.8 sec 
+Set (V): 		dev 
+ 
+Kathy_Griffin/tw3lKm-Xrds_0000001 37.0 42.6 
+Kathy_Griffin/tw3lKm-Xrds_0000002 254.0 262.8 
+Kathy_Griffin/tw3lKm-Xrds_0000003 263.3 269.4 
+Kathy_Griffin/tw3lKm-Xrds_0000004 269.5 274.8 
+Kathy_Griffin/tw3lKm-Xrds_0000005 422.5 427.4 
+Kathy_Griffin/tw3lKm-Xrds_0000006 435.5 445.8 
+Kathy_Griffin/tw3lKm-Xrds_0000007 454.7 460.0 
+Kathy_Griffin/tw3lKm-Xrds_0000008 462.5 468.7 
+Kathy_Griffin/tw3lKm-Xrds_0000009 551.0 555.8 
+Kathy_Griffin/tw3lKm-Xrds_0000010 559.2 573.3 
+Kathy_Griffin/tw3lKm-Xrds_0000011 578.6 590.2 
+Kathy_Griffin/tw3lKm-Xrds_0000012 592.1 597.0 
+Kathy_Griffin/tw3lKm-Xrds_0000013 630.9 635.2 
+Kathy_Griffin/tw3lKm-Xrds_0000014 635.6 639.6 
+Kathy_Griffin/tw3lKm-Xrds_0000015 639.8 651.1 
+Kathy_Griffin/tw3lKm-Xrds_0000016 655.9 666.2 
+Kathy_Griffin/tw3lKm-Xrds_0000017 738.8 743.3 
+Kathy_Griffin/tw3lKm-Xrds_0000018 836.4 842.1 
+Kathy_Griffin/tw3lKm-Xrds_0000019 957.3 976.1 
+Kathy_Griffin/tw3lKm-Xrds_0000020 1050.5 1054.5 
+Kathy_Griffin/tw3lKm-Xrds_0000021 1065.2 1071.2 
+Kathy_Griffin/tw3lKm-Xrds_0000022 1286.4 1291.4 
+Kathy_Griffin/tw3lKm-Xrds_0000023 1291.5 1298.9 
+Kathy_Griffin/tw3lKm-Xrds_0000024 1302.8 1307.2 
+Kathy_Griffin/tw3lKm-Xrds_0000025 1415.9 1423.7 

@@ -1,0 +1,17 @@
+POI: 			Nicole_Richie 
+Youtube ID: 	eMPW2YlLPwg 
+Video length: 	296.3 sec 
+Set (V): 		dev 
+ 
+Nicole_Richie/eMPW2YlLPwg_0000001 10.9 30.2 
+Nicole_Richie/eMPW2YlLPwg_0000002 36.1 41.6 
+Nicole_Richie/eMPW2YlLPwg_0000003 49.4 57.5 
+Nicole_Richie/eMPW2YlLPwg_0000004 95.6 102.1 
+Nicole_Richie/eMPW2YlLPwg_0000005 106.8 117.2 
+Nicole_Richie/eMPW2YlLPwg_0000006 132.4 136.8 
+Nicole_Richie/eMPW2YlLPwg_0000007 137.2 145.2 
+Nicole_Richie/eMPW2YlLPwg_0000008 149.0 153.0 
+Nicole_Richie/eMPW2YlLPwg_0000009 169.3 177.0 
+Nicole_Richie/eMPW2YlLPwg_0000010 181.2 194.8 
+Nicole_Richie/eMPW2YlLPwg_0000011 195.2 205.8 
+Nicole_Richie/eMPW2YlLPwg_0000012 215.8 235.8 

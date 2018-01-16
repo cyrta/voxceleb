@@ -1,0 +1,8 @@
+POI: 			Dominic_Cooper 
+Youtube ID: 	BxQaAPLaeGU 
+Video length: 	181.8 sec 
+Set (V): 		dev 
+ 
+Dominic_Cooper/BxQaAPLaeGU_0000001 75.2 81.4 
+Dominic_Cooper/BxQaAPLaeGU_0000002 84.5 88.5 
+Dominic_Cooper/BxQaAPLaeGU_0000003 101.8 110.2 

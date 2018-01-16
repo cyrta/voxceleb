@@ -1,0 +1,9 @@
+POI: 			David_Morrissey 
+Youtube ID: 	SbgiijvUuzA 
+Video length: 	76.3 sec 
+Set (V): 		dev 
+ 
+David_Morrissey/SbgiijvUuzA_0000001 01.6 17.5 
+David_Morrissey/SbgiijvUuzA_0000002 30.6 35.2 
+David_Morrissey/SbgiijvUuzA_0000003 45.7 52.6 
+David_Morrissey/SbgiijvUuzA_0000004 56.6 64.4 

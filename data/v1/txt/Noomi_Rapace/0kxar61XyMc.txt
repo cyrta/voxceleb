@@ -1,0 +1,9 @@
+POI: 			Noomi_Rapace 
+Youtube ID: 	0kxar61XyMc 
+Video length: 	425.6 sec 
+Set (V): 		dev 
+ 
+Noomi_Rapace/0kxar61XyMc_0000001 42.8 47.8 
+Noomi_Rapace/0kxar61XyMc_0000002 193.8 200.0 
+Noomi_Rapace/0kxar61XyMc_0000003 298.8 306.0 
+Noomi_Rapace/0kxar61XyMc_0000004 383.5 388.2 

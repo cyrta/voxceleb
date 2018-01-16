@@ -1,0 +1,25 @@
+POI: 			Jon_Lovitz 
+Youtube ID: 	CmA6pw8S6cA 
+Video length: 	647.8 sec 
+Set (V): 		dev 
+ 
+Jon_Lovitz/CmA6pw8S6cA_0000001 72.9 79.2 
+Jon_Lovitz/CmA6pw8S6cA_0000002 113.1 121.1 
+Jon_Lovitz/CmA6pw8S6cA_0000003 149.3 160.6 
+Jon_Lovitz/CmA6pw8S6cA_0000004 185.8 196.6 
+Jon_Lovitz/CmA6pw8S6cA_0000005 214.3 226.5 
+Jon_Lovitz/CmA6pw8S6cA_0000006 242.0 248.2 
+Jon_Lovitz/CmA6pw8S6cA_0000007 260.3 268.9 
+Jon_Lovitz/CmA6pw8S6cA_0000008 279.8 283.9 
+Jon_Lovitz/CmA6pw8S6cA_0000009 317.2 324.9 
+Jon_Lovitz/CmA6pw8S6cA_0000010 329.1 340.0 
+Jon_Lovitz/CmA6pw8S6cA_0000011 392.5 404.0 
+Jon_Lovitz/CmA6pw8S6cA_0000012 408.9 413.6 
+Jon_Lovitz/CmA6pw8S6cA_0000013 481.3 485.7 
+Jon_Lovitz/CmA6pw8S6cA_0000014 498.7 504.2 
+Jon_Lovitz/CmA6pw8S6cA_0000015 530.8 543.2 
+Jon_Lovitz/CmA6pw8S6cA_0000016 557.5 561.9 
+Jon_Lovitz/CmA6pw8S6cA_0000017 591.3 595.6 
+Jon_Lovitz/CmA6pw8S6cA_0000018 596.6 601.3 
+Jon_Lovitz/CmA6pw8S6cA_0000019 622.0 627.4 
+Jon_Lovitz/CmA6pw8S6cA_0000020 633.8 638.6 

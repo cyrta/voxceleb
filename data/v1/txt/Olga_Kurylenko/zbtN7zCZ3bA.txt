@@ -1,0 +1,7 @@
+POI: 			Olga_Kurylenko 
+Youtube ID: 	zbtN7zCZ3bA 
+Video length: 	197.6 sec 
+Set (V): 		dev 
+ 
+Olga_Kurylenko/zbtN7zCZ3bA_0000001 139.5 143.5 
+Olga_Kurylenko/zbtN7zCZ3bA_0000002 167.2 173.2 

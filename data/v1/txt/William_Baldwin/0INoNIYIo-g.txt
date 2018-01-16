@@ -1,0 +1,19 @@
+POI: 			William_Baldwin 
+Youtube ID: 	0INoNIYIo-g 
+Video length: 	353.9 sec 
+Set (V): 		dev 
+ 
+William_Baldwin/0INoNIYIo-g_0000001 43.2 48.0 
+William_Baldwin/0INoNIYIo-g_0000002 65.6 72.8 
+William_Baldwin/0INoNIYIo-g_0000003 72.9 77.5 
+William_Baldwin/0INoNIYIo-g_0000004 140.6 145.4 
+William_Baldwin/0INoNIYIo-g_0000005 146.1 150.5 
+William_Baldwin/0INoNIYIo-g_0000006 156.4 171.3 
+William_Baldwin/0INoNIYIo-g_0000007 171.6 184.2 
+William_Baldwin/0INoNIYIo-g_0000008 278.5 284.1 
+William_Baldwin/0INoNIYIo-g_0000009 285.6 293.0 
+William_Baldwin/0INoNIYIo-g_0000010 295.1 299.4 
+William_Baldwin/0INoNIYIo-g_0000011 302.6 307.9 
+William_Baldwin/0INoNIYIo-g_0000012 314.7 319.4 
+William_Baldwin/0INoNIYIo-g_0000013 321.1 331.0 
+William_Baldwin/0INoNIYIo-g_0000014 333.7 344.6 

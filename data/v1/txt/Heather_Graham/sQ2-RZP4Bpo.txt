@@ -1,0 +1,8 @@
+POI: 			Heather_Graham 
+Youtube ID: 	sQ2-RZP4Bpo 
+Video length: 	49.9 sec 
+Set (V): 		dev 
+ 
+Heather_Graham/sQ2-RZP4Bpo_0000001 08.0 16.3 
+Heather_Graham/sQ2-RZP4Bpo_0000002 17.4 22.1 
+Heather_Graham/sQ2-RZP4Bpo_0000003 30.9 44.3 

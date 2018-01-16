@@ -1,0 +1,18 @@
+POI: 			Wes_Bentley 
+Youtube ID: 	Isj87T3vdCY 
+Video length: 	622.6 sec 
+Set (V): 		dev 
+ 
+Wes_Bentley/Isj87T3vdCY_0000001 40.4 49.3 
+Wes_Bentley/Isj87T3vdCY_0000002 59.4 64.3 
+Wes_Bentley/Isj87T3vdCY_0000003 136.3 144.6 
+Wes_Bentley/Isj87T3vdCY_0000004 192.6 196.9 
+Wes_Bentley/Isj87T3vdCY_0000005 212.1 217.0 
+Wes_Bentley/Isj87T3vdCY_0000006 221.1 226.4 
+Wes_Bentley/Isj87T3vdCY_0000007 239.5 250.7 
+Wes_Bentley/Isj87T3vdCY_0000008 265.3 278.0 
+Wes_Bentley/Isj87T3vdCY_0000009 285.4 294.6 
+Wes_Bentley/Isj87T3vdCY_0000010 305.2 309.7 
+Wes_Bentley/Isj87T3vdCY_0000011 335.8 340.6 
+Wes_Bentley/Isj87T3vdCY_0000012 342.2 347.7 
+Wes_Bentley/Isj87T3vdCY_0000013 355.6 368.1 

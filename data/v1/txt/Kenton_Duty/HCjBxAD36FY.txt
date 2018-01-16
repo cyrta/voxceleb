@@ -1,0 +1,11 @@
+POI: 			Kenton_Duty 
+Youtube ID: 	HCjBxAD36FY 
+Video length: 	242.9 sec 
+Set (V): 		dev 
+ 
+Kenton_Duty/HCjBxAD36FY_0000001 35.7 40.1 
+Kenton_Duty/HCjBxAD36FY_0000002 44.1 51.1 
+Kenton_Duty/HCjBxAD36FY_0000003 91.5 96.8 
+Kenton_Duty/HCjBxAD36FY_0000004 93.0 98.1 
+Kenton_Duty/HCjBxAD36FY_0000005 151.7 156.4 
+Kenton_Duty/HCjBxAD36FY_0000006 158.4 163.8 

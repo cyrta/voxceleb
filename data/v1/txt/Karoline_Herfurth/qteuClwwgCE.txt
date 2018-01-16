@@ -1,0 +1,14 @@
+POI: 			Karoline_Herfurth 
+Youtube ID: 	qteuClwwgCE 
+Video length: 	256.7 sec 
+Set (V): 		dev 
+ 
+Karoline_Herfurth/qteuClwwgCE_0000001 56.5 60.8 
+Karoline_Herfurth/qteuClwwgCE_0000002 70.0 75.4 
+Karoline_Herfurth/qteuClwwgCE_0000003 85.0 90.0 
+Karoline_Herfurth/qteuClwwgCE_0000004 108.6 116.1 
+Karoline_Herfurth/qteuClwwgCE_0000005 118.0 123.9 
+Karoline_Herfurth/qteuClwwgCE_0000006 129.6 135.0 
+Karoline_Herfurth/qteuClwwgCE_0000007 140.0 146.6 
+Karoline_Herfurth/qteuClwwgCE_0000008 164.2 169.0 
+Karoline_Herfurth/qteuClwwgCE_0000009 192.0 196.4 

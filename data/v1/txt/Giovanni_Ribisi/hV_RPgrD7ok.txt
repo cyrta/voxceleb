@@ -1,0 +1,9 @@
+POI: 			Giovanni_Ribisi 
+Youtube ID: 	hV_RPgrD7ok 
+Video length: 	292.8 sec 
+Set (V): 		dev 
+ 
+Giovanni_Ribisi/hV_RPgrD7ok_0000001 34.7 38.7 
+Giovanni_Ribisi/hV_RPgrD7ok_0000002 40.7 45.2 
+Giovanni_Ribisi/hV_RPgrD7ok_0000003 112.7 118.3 
+Giovanni_Ribisi/hV_RPgrD7ok_0000004 161.4 166.0 

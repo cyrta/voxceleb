@@ -1,0 +1,7 @@
+POI: 			Aidan_Turner 
+Youtube ID: 	PnSNt2F59-U 
+Video length: 	109.3 sec 
+Set (V): 		dev 
+ 
+Aidan_Turner/PnSNt2F59-U_0000001 42.4 49.1 
+Aidan_Turner/PnSNt2F59-U_0000002 63.7 69.3 

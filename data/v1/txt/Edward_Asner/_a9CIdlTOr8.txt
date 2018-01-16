@@ -1,0 +1,9 @@
+POI: 			Edward_Asner 
+Youtube ID: 	_a9CIdlTOr8 
+Video length: 	400.2 sec 
+Set (V): 		test 
+ 
+Edward_Asner/_a9CIdlTOr8_0000001 127.6 134.8 
+Edward_Asner/_a9CIdlTOr8_0000002 221.2 225.4 
+Edward_Asner/_a9CIdlTOr8_0000003 275.1 279.7 
+Edward_Asner/_a9CIdlTOr8_0000004 355.9 359.9 

@@ -1,0 +1,11 @@
+POI: 			Glen_Hansard 
+Youtube ID: 	kCaWolx38Ck 
+Video length: 	213.1 sec 
+Set (V): 		dev 
+ 
+Glen_Hansard/kCaWolx38Ck_0000001 39.4 56.1 
+Glen_Hansard/kCaWolx38Ck_0000002 57.4 71.8 
+Glen_Hansard/kCaWolx38Ck_0000003 92.1 101.4 
+Glen_Hansard/kCaWolx38Ck_0000004 101.8 108.5 
+Glen_Hansard/kCaWolx38Ck_0000005 109.5 122.4 
+Glen_Hansard/kCaWolx38Ck_0000006 190.1 195.9 

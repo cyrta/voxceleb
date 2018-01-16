@@ -1,0 +1,28 @@
+POI: 			Josh_Radnor 
+Youtube ID: 	0wahQ9RoF04 
+Video length: 	530.9 sec 
+Set (V): 		dev 
+ 
+Josh_Radnor/0wahQ9RoF04_0000001 29.2 33.7 
+Josh_Radnor/0wahQ9RoF04_0000002 34.4 42.5 
+Josh_Radnor/0wahQ9RoF04_0000003 57.9 65.8 
+Josh_Radnor/0wahQ9RoF04_0000004 78.2 87.3 
+Josh_Radnor/0wahQ9RoF04_0000005 122.8 142.2 
+Josh_Radnor/0wahQ9RoF04_0000006 143.2 154.6 
+Josh_Radnor/0wahQ9RoF04_0000007 155.2 163.7 
+Josh_Radnor/0wahQ9RoF04_0000008 174.9 203.2 
+Josh_Radnor/0wahQ9RoF04_0000009 203.9 208.7 
+Josh_Radnor/0wahQ9RoF04_0000010 209.7 225.0 
+Josh_Radnor/0wahQ9RoF04_0000011 235.4 243.9 
+Josh_Radnor/0wahQ9RoF04_0000012 244.2 258.2 
+Josh_Radnor/0wahQ9RoF04_0000013 301.8 310.2 
+Josh_Radnor/0wahQ9RoF04_0000014 314.1 339.8 
+Josh_Radnor/0wahQ9RoF04_0000015 340.7 346.3 
+Josh_Radnor/0wahQ9RoF04_0000016 347.0 360.0 
+Josh_Radnor/0wahQ9RoF04_0000017 340.7 347.3 
+Josh_Radnor/0wahQ9RoF04_0000018 385.2 394.9 
+Josh_Radnor/0wahQ9RoF04_0000019 399.9 407.9 
+Josh_Radnor/0wahQ9RoF04_0000020 399.9 407.1 
+Josh_Radnor/0wahQ9RoF04_0000021 440.7 447.0 
+Josh_Radnor/0wahQ9RoF04_0000022 447.5 457.2 
+Josh_Radnor/0wahQ9RoF04_0000023 464.8 513.7 

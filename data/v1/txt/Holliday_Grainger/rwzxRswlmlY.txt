@@ -1,0 +1,14 @@
+POI: 			Holliday_Grainger 
+Youtube ID: 	rwzxRswlmlY 
+Video length: 	629.2 sec 
+Set (V): 		dev 
+ 
+Holliday_Grainger/rwzxRswlmlY_0000001 115.1 119.3 
+Holliday_Grainger/rwzxRswlmlY_0000002 170.8 175.4 
+Holliday_Grainger/rwzxRswlmlY_0000003 250.0 254.3 
+Holliday_Grainger/rwzxRswlmlY_0000004 319.5 326.5 
+Holliday_Grainger/rwzxRswlmlY_0000005 342.5 346.7 
+Holliday_Grainger/rwzxRswlmlY_0000006 361.8 369.3 
+Holliday_Grainger/rwzxRswlmlY_0000007 412.2 417.6 
+Holliday_Grainger/rwzxRswlmlY_0000008 468.7 477.0 
+Holliday_Grainger/rwzxRswlmlY_0000009 572.0 580.4 

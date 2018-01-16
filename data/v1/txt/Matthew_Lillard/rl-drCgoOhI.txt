@@ -1,0 +1,8 @@
+POI: 			Matthew_Lillard 
+Youtube ID: 	rl-drCgoOhI 
+Video length: 	101.5 sec 
+Set (V): 		dev 
+ 
+Matthew_Lillard/rl-drCgoOhI_0000001 23.4 29.8 
+Matthew_Lillard/rl-drCgoOhI_0000002 34.2 39.2 
+Matthew_Lillard/rl-drCgoOhI_0000003 71.6 77.1 

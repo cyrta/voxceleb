@@ -1,0 +1,14 @@
+POI: 			Matt_Dallas 
+Youtube ID: 	KXg3ggjuGns 
+Video length: 	222.5 sec 
+Set (V): 		dev 
+ 
+Matt_Dallas/KXg3ggjuGns_0000001 34.4 42.1 
+Matt_Dallas/KXg3ggjuGns_0000002 42.7 51.6 
+Matt_Dallas/KXg3ggjuGns_0000003 69.0 83.1 
+Matt_Dallas/KXg3ggjuGns_0000004 91.9 102.4 
+Matt_Dallas/KXg3ggjuGns_0000005 105.5 113.3 
+Matt_Dallas/KXg3ggjuGns_0000006 121.1 127.2 
+Matt_Dallas/KXg3ggjuGns_0000007 131.6 152.3 
+Matt_Dallas/KXg3ggjuGns_0000008 153.2 163.0 
+Matt_Dallas/KXg3ggjuGns_0000009 166.5 198.4 

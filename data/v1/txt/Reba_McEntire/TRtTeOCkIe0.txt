@@ -1,0 +1,10 @@
+POI: 			Reba_McEntire 
+Youtube ID: 	TRtTeOCkIe0 
+Video length: 	455.9 sec 
+Set (V): 		dev 
+ 
+Reba_McEntire/TRtTeOCkIe0_0000001 50.1 54.4 
+Reba_McEntire/TRtTeOCkIe0_0000002 75.1 80.3 
+Reba_McEntire/TRtTeOCkIe0_0000003 124.9 130.6 
+Reba_McEntire/TRtTeOCkIe0_0000004 150.0 154.7 
+Reba_McEntire/TRtTeOCkIe0_0000005 162.5 168.5 

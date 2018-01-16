@@ -1,0 +1,9 @@
+POI: 			Mena_Suvari 
+Youtube ID: 	hcVl3iM9s7g 
+Video length: 	300.2 sec 
+Set (V): 		dev 
+ 
+Mena_Suvari/hcVl3iM9s7g_0000001 183.4 187.8 
+Mena_Suvari/hcVl3iM9s7g_0000002 187.9 194.1 
+Mena_Suvari/hcVl3iM9s7g_0000003 203.4 207.3 
+Mena_Suvari/hcVl3iM9s7g_0000004 209.1 213.8 

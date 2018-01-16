@@ -1,0 +1,9 @@
+POI: 			Taylor_Lautner 
+Youtube ID: 	5Oa2Y8M5jQc 
+Video length: 	302.7 sec 
+Set (V): 		dev 
+ 
+Taylor_Lautner/5Oa2Y8M5jQc_0000001 151.0 155.4 
+Taylor_Lautner/5Oa2Y8M5jQc_0000002 223.3 238.2 
+Taylor_Lautner/5Oa2Y8M5jQc_0000003 239.3 243.5 
+Taylor_Lautner/5Oa2Y8M5jQc_0000004 245.1 249.9 

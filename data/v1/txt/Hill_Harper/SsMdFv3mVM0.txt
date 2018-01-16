@@ -1,0 +1,8 @@
+POI: 			Hill_Harper 
+Youtube ID: 	SsMdFv3mVM0 
+Video length: 	214.5 sec 
+Set (V): 		dev 
+ 
+Hill_Harper/SsMdFv3mVM0_0000001 12.4 18.4 
+Hill_Harper/SsMdFv3mVM0_0000002 52.5 57.3 
+Hill_Harper/SsMdFv3mVM0_0000003 64.3 77.0 

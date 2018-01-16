@@ -1,0 +1,12 @@
+POI: 			Peter_Coyote 
+Youtube ID: 	bPDKer0tXnA 
+Video length: 	404.7 sec 
+Set (V): 		dev 
+ 
+Peter_Coyote/bPDKer0tXnA_0000001 37.8 47.6 
+Peter_Coyote/bPDKer0tXnA_0000002 116.0 120.5 
+Peter_Coyote/bPDKer0tXnA_0000003 232.0 241.7 
+Peter_Coyote/bPDKer0tXnA_0000004 307.5 312.8 
+Peter_Coyote/bPDKer0tXnA_0000005 317.3 323.0 
+Peter_Coyote/bPDKer0tXnA_0000006 323.5 331.5 
+Peter_Coyote/bPDKer0tXnA_0000007 332.3 336.4 

@@ -1,0 +1,8 @@
+POI: 			Jenna_Fischer 
+Youtube ID: 	xh2D9QJGiow 
+Video length: 	60.3 sec 
+Set (V): 		dev 
+ 
+Jenna_Fischer/xh2D9QJGiow_0000001 01.4 09.9 
+Jenna_Fischer/xh2D9QJGiow_0000002 16.2 40.5 
+Jenna_Fischer/xh2D9QJGiow_0000003 43.9 58.6 

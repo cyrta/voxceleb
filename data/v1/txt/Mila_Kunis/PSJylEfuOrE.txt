@@ -1,0 +1,8 @@
+POI: 			Mila_Kunis 
+Youtube ID: 	PSJylEfuOrE 
+Video length: 	265.0 sec 
+Set (V): 		dev 
+ 
+Mila_Kunis/PSJylEfuOrE_0000001 51.2 61.8 
+Mila_Kunis/PSJylEfuOrE_0000002 67.1 72.4 
+Mila_Kunis/PSJylEfuOrE_0000003 105.0 109.5 

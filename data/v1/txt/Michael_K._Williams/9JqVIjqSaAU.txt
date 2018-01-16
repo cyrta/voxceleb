@@ -1,0 +1,9 @@
+POI: 			Michael_K._Williams 
+Youtube ID: 	9JqVIjqSaAU 
+Video length: 	106.7 sec 
+Set (V): 		dev 
+ 
+Michael_K._Williams/9JqVIjqSaAU_0000001 26.3 34.5 
+Michael_K._Williams/9JqVIjqSaAU_0000002 36.3 40.6 
+Michael_K._Williams/9JqVIjqSaAU_0000003 48.0 56.3 
+Michael_K._Williams/9JqVIjqSaAU_0000004 69.4 78.7 

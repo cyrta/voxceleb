@@ -1,0 +1,14 @@
+POI: 			Reid_Scott 
+Youtube ID: 	qZaFndIf2ww 
+Video length: 	253.9 sec 
+Set (V): 		dev 
+ 
+Reid_Scott/qZaFndIf2ww_0000001 67.8 80.1 
+Reid_Scott/qZaFndIf2ww_0000002 101.2 106.5 
+Reid_Scott/qZaFndIf2ww_0000003 113.9 129.5 
+Reid_Scott/qZaFndIf2ww_0000004 129.6 136.9 
+Reid_Scott/qZaFndIf2ww_0000005 137.1 141.2 
+Reid_Scott/qZaFndIf2ww_0000006 158.4 165.6 
+Reid_Scott/qZaFndIf2ww_0000007 169.0 177.2 
+Reid_Scott/qZaFndIf2ww_0000008 178.6 184.4 
+Reid_Scott/qZaFndIf2ww_0000009 194.1 201.1 

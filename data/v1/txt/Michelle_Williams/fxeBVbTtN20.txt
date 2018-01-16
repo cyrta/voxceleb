@@ -1,0 +1,15 @@
+POI: 			Michelle_Williams 
+Youtube ID: 	fxeBVbTtN20 
+Video length: 	248.5 sec 
+Set (V): 		dev 
+ 
+Michelle_Williams/fxeBVbTtN20_0000001 37.7 50.3 
+Michelle_Williams/fxeBVbTtN20_0000002 50.5 58.0 
+Michelle_Williams/fxeBVbTtN20_0000003 67.2 74.8 
+Michelle_Williams/fxeBVbTtN20_0000004 141.7 149.0 
+Michelle_Williams/fxeBVbTtN20_0000005 182.2 190.5 
+Michelle_Williams/fxeBVbTtN20_0000006 191.7 197.6 
+Michelle_Williams/fxeBVbTtN20_0000007 198.3 203.8 
+Michelle_Williams/fxeBVbTtN20_0000008 206.8 212.7 
+Michelle_Williams/fxeBVbTtN20_0000009 213.7 218.0 
+Michelle_Williams/fxeBVbTtN20_0000010 219.0 226.1 

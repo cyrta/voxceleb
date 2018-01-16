@@ -1,0 +1,15 @@
+POI: 			Steven_Yeun 
+Youtube ID: 	JEbXJ_32CbA 
+Video length: 	168.0 sec 
+Set (V): 		dev 
+ 
+Steven_Yeun/JEbXJ_32CbA_0000001 18.0 25.6 
+Steven_Yeun/JEbXJ_32CbA_0000002 27.6 45.7 
+Steven_Yeun/JEbXJ_32CbA_0000003 48.6 53.2 
+Steven_Yeun/JEbXJ_32CbA_0000004 53.5 61.0 
+Steven_Yeun/JEbXJ_32CbA_0000005 63.6 74.2 
+Steven_Yeun/JEbXJ_32CbA_0000006 95.4 104.8 
+Steven_Yeun/JEbXJ_32CbA_0000007 110.3 115.5 
+Steven_Yeun/JEbXJ_32CbA_0000008 138.7 142.8 
+Steven_Yeun/JEbXJ_32CbA_0000009 143.5 151.3 
+Steven_Yeun/JEbXJ_32CbA_0000010 157.7 163.8 

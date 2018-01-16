@@ -1,0 +1,11 @@
+POI: 			Kellan_Lutz 
+Youtube ID: 	pKu03mxA25k 
+Video length: 	284.0 sec 
+Set (V): 		dev 
+ 
+Kellan_Lutz/pKu03mxA25k_0000001 41.0 47.8 
+Kellan_Lutz/pKu03mxA25k_0000002 49.0 57.8 
+Kellan_Lutz/pKu03mxA25k_0000003 159.2 164.2 
+Kellan_Lutz/pKu03mxA25k_0000004 164.8 177.8 
+Kellan_Lutz/pKu03mxA25k_0000005 179.3 190.6 
+Kellan_Lutz/pKu03mxA25k_0000006 191.6 197.2 

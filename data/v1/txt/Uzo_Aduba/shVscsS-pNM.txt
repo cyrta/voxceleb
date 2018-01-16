@@ -1,0 +1,13 @@
+POI: 			Uzo_Aduba 
+Youtube ID: 	shVscsS-pNM 
+Video length: 	314.9 sec 
+Set (V): 		dev 
+ 
+Uzo_Aduba/shVscsS-pNM_0000001 24.2 31.0 
+Uzo_Aduba/shVscsS-pNM_0000002 31.1 44.9 
+Uzo_Aduba/shVscsS-pNM_0000003 50.4 58.9 
+Uzo_Aduba/shVscsS-pNM_0000004 169.7 176.7 
+Uzo_Aduba/shVscsS-pNM_0000005 180.9 185.8 
+Uzo_Aduba/shVscsS-pNM_0000006 189.4 195.8 
+Uzo_Aduba/shVscsS-pNM_0000007 237.9 248.9 
+Uzo_Aduba/shVscsS-pNM_0000008 265.0 270.9 

@@ -1,0 +1,9 @@
+POI: 			Seann_William_Scott 
+Youtube ID: 	sduESYpj2-I 
+Video length: 	151.8 sec 
+Set (V): 		dev 
+ 
+Seann_William_Scott/sduESYpj2-I_0000001 17.1 21.2 
+Seann_William_Scott/sduESYpj2-I_0000002 27.6 33.8 
+Seann_William_Scott/sduESYpj2-I_0000003 35.9 40.2 
+Seann_William_Scott/sduESYpj2-I_0000004 52.4 58.8 

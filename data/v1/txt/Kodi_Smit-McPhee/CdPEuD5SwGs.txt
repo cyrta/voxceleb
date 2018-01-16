@@ -1,0 +1,10 @@
+POI: 			Kodi_Smit-McPhee 
+Youtube ID: 	CdPEuD5SwGs 
+Video length: 	588.6 sec 
+Set (V): 		dev 
+ 
+Kodi_Smit-McPhee/CdPEuD5SwGs_0000001 81.1 86.5 
+Kodi_Smit-McPhee/CdPEuD5SwGs_0000002 282.7 287.6 
+Kodi_Smit-McPhee/CdPEuD5SwGs_0000003 445.4 453.2 
+Kodi_Smit-McPhee/CdPEuD5SwGs_0000004 454.5 464.6 
+Kodi_Smit-McPhee/CdPEuD5SwGs_0000005 457.3 465.6 

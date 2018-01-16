@@ -1,0 +1,8 @@
+POI: 			Alan_Rickman 
+Youtube ID: 	ySyCG2CLErY 
+Video length: 	1581.9 sec 
+Set (V): 		dev 
+ 
+Alan_Rickman/ySyCG2CLErY_0000001 780.4 784.6 
+Alan_Rickman/ySyCG2CLErY_0000002 862.0 866.1 
+Alan_Rickman/ySyCG2CLErY_0000003 1061.6 1065.8 

@@ -1,0 +1,10 @@
+POI: 			Jason_Segel 
+Youtube ID: 	TgHIzYLm68I 
+Video length: 	272.6 sec 
+Set (V): 		dev 
+ 
+Jason_Segel/TgHIzYLm68I_0000001 77.0 102.2 
+Jason_Segel/TgHIzYLm68I_0000002 105.0 113.6 
+Jason_Segel/TgHIzYLm68I_0000003 187.4 202.1 
+Jason_Segel/TgHIzYLm68I_0000004 221.8 226.0 
+Jason_Segel/TgHIzYLm68I_0000005 229.4 240.0 

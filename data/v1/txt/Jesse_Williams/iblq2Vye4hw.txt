@@ -1,0 +1,8 @@
+POI: 			Jesse_Williams 
+Youtube ID: 	iblq2Vye4hw 
+Video length: 	128.6 sec 
+Set (V): 		dev 
+ 
+Jesse_Williams/iblq2Vye4hw_0000001 64.6 78.8 
+Jesse_Williams/iblq2Vye4hw_0000002 100.7 106.3 
+Jesse_Williams/iblq2Vye4hw_0000003 110.8 115.7 

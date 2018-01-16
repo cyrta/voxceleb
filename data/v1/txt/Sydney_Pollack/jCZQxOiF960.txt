@@ -1,0 +1,21 @@
+POI: 			Sydney_Pollack 
+Youtube ID: 	jCZQxOiF960 
+Video length: 	334.7 sec 
+Set (V): 		dev 
+ 
+Sydney_Pollack/jCZQxOiF960_0000001 21.2 41.6 
+Sydney_Pollack/jCZQxOiF960_0000002 42.5 48.2 
+Sydney_Pollack/jCZQxOiF960_0000003 82.8 88.7 
+Sydney_Pollack/jCZQxOiF960_0000004 89.3 96.7 
+Sydney_Pollack/jCZQxOiF960_0000005 99.6 104.7 
+Sydney_Pollack/jCZQxOiF960_0000006 137.7 151.6 
+Sydney_Pollack/jCZQxOiF960_0000007 155.2 161.1 
+Sydney_Pollack/jCZQxOiF960_0000008 165.1 175.9 
+Sydney_Pollack/jCZQxOiF960_0000009 177.1 182.7 
+Sydney_Pollack/jCZQxOiF960_0000010 231.8 239.1 
+Sydney_Pollack/jCZQxOiF960_0000011 241.1 245.9 
+Sydney_Pollack/jCZQxOiF960_0000012 248.0 260.2 
+Sydney_Pollack/jCZQxOiF960_0000013 271.8 280.7 
+Sydney_Pollack/jCZQxOiF960_0000014 281.0 285.6 
+Sydney_Pollack/jCZQxOiF960_0000015 286.9 302.3 
+Sydney_Pollack/jCZQxOiF960_0000016 307.5 318.4 

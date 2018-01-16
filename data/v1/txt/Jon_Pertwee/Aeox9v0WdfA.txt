@@ -1,0 +1,19 @@
+POI: 			Jon_Pertwee 
+Youtube ID: 	Aeox9v0WdfA 
+Video length: 	760.6 sec 
+Set (V): 		dev 
+ 
+Jon_Pertwee/Aeox9v0WdfA_0000001 44.5 54.6 
+Jon_Pertwee/Aeox9v0WdfA_0000002 85.8 90.2 
+Jon_Pertwee/Aeox9v0WdfA_0000003 95.6 107.5 
+Jon_Pertwee/Aeox9v0WdfA_0000004 136.8 141.0 
+Jon_Pertwee/Aeox9v0WdfA_0000005 257.1 266.3 
+Jon_Pertwee/Aeox9v0WdfA_0000006 272.1 279.7 
+Jon_Pertwee/Aeox9v0WdfA_0000007 383.4 396.8 
+Jon_Pertwee/Aeox9v0WdfA_0000008 462.1 473.2 
+Jon_Pertwee/Aeox9v0WdfA_0000009 473.4 487.8 
+Jon_Pertwee/Aeox9v0WdfA_0000010 488.0 493.6 
+Jon_Pertwee/Aeox9v0WdfA_0000011 497.6 502.8 
+Jon_Pertwee/Aeox9v0WdfA_0000012 523.0 529.4 
+Jon_Pertwee/Aeox9v0WdfA_0000013 550.4 555.8 
+Jon_Pertwee/Aeox9v0WdfA_0000014 550.4 554.4 

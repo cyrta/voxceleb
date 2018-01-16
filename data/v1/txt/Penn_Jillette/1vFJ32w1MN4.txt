@@ -1,0 +1,21 @@
+POI: 			Penn_Jillette 
+Youtube ID: 	1vFJ32w1MN4 
+Video length: 	259.1 sec 
+Set (V): 		dev 
+ 
+Penn_Jillette/1vFJ32w1MN4_0000001 17.6 30.6 
+Penn_Jillette/1vFJ32w1MN4_0000002 36.0 48.1 
+Penn_Jillette/1vFJ32w1MN4_0000003 65.7 71.5 
+Penn_Jillette/1vFJ32w1MN4_0000004 72.5 81.1 
+Penn_Jillette/1vFJ32w1MN4_0000005 81.2 86.9 
+Penn_Jillette/1vFJ32w1MN4_0000006 110.2 118.0 
+Penn_Jillette/1vFJ32w1MN4_0000007 121.0 129.0 
+Penn_Jillette/1vFJ32w1MN4_0000008 137.6 142.2 
+Penn_Jillette/1vFJ32w1MN4_0000009 146.6 155.2 
+Penn_Jillette/1vFJ32w1MN4_0000010 158.4 162.4 
+Penn_Jillette/1vFJ32w1MN4_0000011 163.5 171.9 
+Penn_Jillette/1vFJ32w1MN4_0000012 179.4 185.1 
+Penn_Jillette/1vFJ32w1MN4_0000013 212.1 218.3 
+Penn_Jillette/1vFJ32w1MN4_0000014 224.0 230.5 
+Penn_Jillette/1vFJ32w1MN4_0000015 234.6 240.9 
+Penn_Jillette/1vFJ32w1MN4_0000016 241.0 246.9 

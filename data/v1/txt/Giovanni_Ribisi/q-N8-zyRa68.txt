@@ -1,0 +1,19 @@
+POI: 			Giovanni_Ribisi 
+Youtube ID: 	q-N8-zyRa68 
+Video length: 	290.0 sec 
+Set (V): 		dev 
+ 
+Giovanni_Ribisi/q-N8-zyRa68_0000001 29.7 33.9 
+Giovanni_Ribisi/q-N8-zyRa68_0000002 43.2 49.8 
+Giovanni_Ribisi/q-N8-zyRa68_0000003 91.5 99.0 
+Giovanni_Ribisi/q-N8-zyRa68_0000004 101.6 105.7 
+Giovanni_Ribisi/q-N8-zyRa68_0000005 108.7 112.7 
+Giovanni_Ribisi/q-N8-zyRa68_0000006 113.7 121.5 
+Giovanni_Ribisi/q-N8-zyRa68_0000007 127.9 134.5 
+Giovanni_Ribisi/q-N8-zyRa68_0000008 155.4 162.9 
+Giovanni_Ribisi/q-N8-zyRa68_0000009 173.8 178.8 
+Giovanni_Ribisi/q-N8-zyRa68_0000010 157.7 162.9 
+Giovanni_Ribisi/q-N8-zyRa68_0000011 195.8 201.5 
+Giovanni_Ribisi/q-N8-zyRa68_0000012 216.2 220.4 
+Giovanni_Ribisi/q-N8-zyRa68_0000013 232.2 238.0 
+Giovanni_Ribisi/q-N8-zyRa68_0000014 252.5 259.6 

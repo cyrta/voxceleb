@@ -1,0 +1,9 @@
+POI: 			Kevin_Bacon 
+Youtube ID: 	WQ8Z0B9Bs88 
+Video length: 	153.6 sec 
+Set (V): 		dev 
+ 
+Kevin_Bacon/WQ8Z0B9Bs88_0000001 70.8 74.8 
+Kevin_Bacon/WQ8Z0B9Bs88_0000002 110.2 114.3 
+Kevin_Bacon/WQ8Z0B9Bs88_0000003 122.4 128.4 
+Kevin_Bacon/WQ8Z0B9Bs88_0000004 130.9 136.2 

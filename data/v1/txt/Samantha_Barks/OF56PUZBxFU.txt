@@ -1,0 +1,9 @@
+POI: 			Samantha_Barks 
+Youtube ID: 	OF56PUZBxFU 
+Video length: 	84.2 sec 
+Set (V): 		dev 
+ 
+Samantha_Barks/OF56PUZBxFU_0000001 25.1 30.2 
+Samantha_Barks/OF56PUZBxFU_0000002 30.2 39.0 
+Samantha_Barks/OF56PUZBxFU_0000003 43.9 49.9 
+Samantha_Barks/OF56PUZBxFU_0000004 51.7 66.2 

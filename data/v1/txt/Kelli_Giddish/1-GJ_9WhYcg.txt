@@ -1,0 +1,12 @@
+POI: 			Kelli_Giddish 
+Youtube ID: 	1-GJ_9WhYcg 
+Video length: 	84.4 sec 
+Set (V): 		dev 
+ 
+Kelli_Giddish/1-GJ_9WhYcg_0000001 08.2 19.5 
+Kelli_Giddish/1-GJ_9WhYcg_0000002 24.0 30.5 
+Kelli_Giddish/1-GJ_9WhYcg_0000003 33.0 45.4 
+Kelli_Giddish/1-GJ_9WhYcg_0000004 47.2 53.0 
+Kelli_Giddish/1-GJ_9WhYcg_0000005 53.2 57.3 
+Kelli_Giddish/1-GJ_9WhYcg_0000006 63.9 69.4 
+Kelli_Giddish/1-GJ_9WhYcg_0000007 73.8 80.2 

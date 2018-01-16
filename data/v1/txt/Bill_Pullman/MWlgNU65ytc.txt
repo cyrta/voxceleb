@@ -1,0 +1,19 @@
+POI: 			Bill_Pullman 
+Youtube ID: 	MWlgNU65ytc 
+Video length: 	313.1 sec 
+Set (V): 		dev 
+ 
+Bill_Pullman/MWlgNU65ytc_0000001 60.8 70.5 
+Bill_Pullman/MWlgNU65ytc_0000002 75.2 79.6 
+Bill_Pullman/MWlgNU65ytc_0000003 80.1 86.3 
+Bill_Pullman/MWlgNU65ytc_0000004 87.3 93.0 
+Bill_Pullman/MWlgNU65ytc_0000005 179.3 183.4 
+Bill_Pullman/MWlgNU65ytc_0000006 184.5 189.1 
+Bill_Pullman/MWlgNU65ytc_0000007 199.7 205.3 
+Bill_Pullman/MWlgNU65ytc_0000008 222.5 227.8 
+Bill_Pullman/MWlgNU65ytc_0000009 235.0 243.4 
+Bill_Pullman/MWlgNU65ytc_0000010 244.2 248.9 
+Bill_Pullman/MWlgNU65ytc_0000011 249.6 254.0 
+Bill_Pullman/MWlgNU65ytc_0000012 254.9 260.4 
+Bill_Pullman/MWlgNU65ytc_0000013 261.0 270.1 
+Bill_Pullman/MWlgNU65ytc_0000014 270.8 277.5 

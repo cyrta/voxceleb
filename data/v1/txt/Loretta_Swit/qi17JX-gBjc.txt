@@ -1,0 +1,20 @@
+POI: 			Loretta_Swit 
+Youtube ID: 	qi17JX-gBjc 
+Video length: 	216.5 sec 
+Set (V): 		dev 
+ 
+Loretta_Swit/qi17JX-gBjc_0000001 16.3 20.3 
+Loretta_Swit/qi17JX-gBjc_0000002 27.7 32.5 
+Loretta_Swit/qi17JX-gBjc_0000003 39.2 46.0 
+Loretta_Swit/qi17JX-gBjc_0000004 50.3 57.4 
+Loretta_Swit/qi17JX-gBjc_0000005 60.0 64.5 
+Loretta_Swit/qi17JX-gBjc_0000006 66.7 79.1 
+Loretta_Swit/qi17JX-gBjc_0000007 85.2 98.3 
+Loretta_Swit/qi17JX-gBjc_0000008 113.3 117.3 
+Loretta_Swit/qi17JX-gBjc_0000009 121.7 126.0 
+Loretta_Swit/qi17JX-gBjc_0000010 126.6 132.8 
+Loretta_Swit/qi17JX-gBjc_0000011 133.6 139.5 
+Loretta_Swit/qi17JX-gBjc_0000012 151.0 155.3 
+Loretta_Swit/qi17JX-gBjc_0000013 176.4 180.8 
+Loretta_Swit/qi17JX-gBjc_0000014 181.6 187.7 
+Loretta_Swit/qi17JX-gBjc_0000015 190.5 195.9 

@@ -1,0 +1,21 @@
+POI: 			Robert_Picardo 
+Youtube ID: 	HJXq9nglre4 
+Video length: 	567.7 sec 
+Set (V): 		dev 
+ 
+Robert_Picardo/HJXq9nglre4_0000001 44.0 52.9 
+Robert_Picardo/HJXq9nglre4_0000002 53.2 57.8 
+Robert_Picardo/HJXq9nglre4_0000003 92.0 96.0 
+Robert_Picardo/HJXq9nglre4_0000004 104.3 110.3 
+Robert_Picardo/HJXq9nglre4_0000005 110.6 116.1 
+Robert_Picardo/HJXq9nglre4_0000006 150.1 155.5 
+Robert_Picardo/HJXq9nglre4_0000007 173.3 179.8 
+Robert_Picardo/HJXq9nglre4_0000008 180.1 192.8 
+Robert_Picardo/HJXq9nglre4_0000009 216.8 223.2 
+Robert_Picardo/HJXq9nglre4_0000010 280.4 286.0 
+Robert_Picardo/HJXq9nglre4_0000011 378.6 388.1 
+Robert_Picardo/HJXq9nglre4_0000012 389.1 394.2 
+Robert_Picardo/HJXq9nglre4_0000013 398.4 402.8 
+Robert_Picardo/HJXq9nglre4_0000014 426.6 438.0 
+Robert_Picardo/HJXq9nglre4_0000015 447.6 453.0 
+Robert_Picardo/HJXq9nglre4_0000016 503.3 513.2 

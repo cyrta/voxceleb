@@ -1,0 +1,7 @@
+POI: 			James_Lipton 
+Youtube ID: 	cVF6S-BDM6k 
+Video length: 	485.1 sec 
+Set (V): 		dev 
+ 
+James_Lipton/cVF6S-BDM6k_0000001 106.0 112.9 
+James_Lipton/cVF6S-BDM6k_0000002 139.9 144.1 

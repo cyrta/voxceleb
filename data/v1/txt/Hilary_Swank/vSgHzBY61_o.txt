@@ -1,0 +1,13 @@
+POI: 			Hilary_Swank 
+Youtube ID: 	vSgHzBY61_o 
+Video length: 	139.9 sec 
+Set (V): 		dev 
+ 
+Hilary_Swank/vSgHzBY61_o_0000001 63.0 67.9 
+Hilary_Swank/vSgHzBY61_o_0000002 69.8 78.3 
+Hilary_Swank/vSgHzBY61_o_0000003 84.9 92.7 
+Hilary_Swank/vSgHzBY61_o_0000004 96.2 105.5 
+Hilary_Swank/vSgHzBY61_o_0000005 106.7 114.4 
+Hilary_Swank/vSgHzBY61_o_0000006 116.4 123.4 
+Hilary_Swank/vSgHzBY61_o_0000007 124.4 132.4 
+Hilary_Swank/vSgHzBY61_o_0000008 133.4 138.5 

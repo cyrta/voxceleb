@@ -1,0 +1,10 @@
+POI: 			James_Frain 
+Youtube ID: 	sezhmCve6as 
+Video length: 	242.7 sec 
+Set (V): 		dev 
+ 
+James_Frain/sezhmCve6as_0000001 142.0 149.7 
+James_Frain/sezhmCve6as_0000002 152.3 159.9 
+James_Frain/sezhmCve6as_0000003 160.4 166.0 
+James_Frain/sezhmCve6as_0000004 175.9 183.2 
+James_Frain/sezhmCve6as_0000005 186.4 193.4 

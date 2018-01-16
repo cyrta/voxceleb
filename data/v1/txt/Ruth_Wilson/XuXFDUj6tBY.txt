@@ -1,0 +1,14 @@
+POI: 			Ruth_Wilson 
+Youtube ID: 	XuXFDUj6tBY 
+Video length: 	188.8 sec 
+Set (V): 		dev 
+ 
+Ruth_Wilson/XuXFDUj6tBY_0000001 16.0 24.2 
+Ruth_Wilson/XuXFDUj6tBY_0000002 24.9 32.0 
+Ruth_Wilson/XuXFDUj6tBY_0000003 39.0 58.2 
+Ruth_Wilson/XuXFDUj6tBY_0000004 64.5 73.0 
+Ruth_Wilson/XuXFDUj6tBY_0000005 85.4 100.2 
+Ruth_Wilson/XuXFDUj6tBY_0000006 109.2 119.6 
+Ruth_Wilson/XuXFDUj6tBY_0000007 119.7 126.8 
+Ruth_Wilson/XuXFDUj6tBY_0000008 134.4 158.5 
+Ruth_Wilson/XuXFDUj6tBY_0000009 165.2 172.5 

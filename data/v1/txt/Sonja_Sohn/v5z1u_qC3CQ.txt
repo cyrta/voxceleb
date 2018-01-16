@@ -1,0 +1,14 @@
+POI: 			Sonja_Sohn 
+Youtube ID: 	v5z1u_qC3CQ 
+Video length: 	164.1 sec 
+Set (V): 		dev 
+ 
+Sonja_Sohn/v5z1u_qC3CQ_0000001 38.4 44.3 
+Sonja_Sohn/v5z1u_qC3CQ_0000002 47.9 68.5 
+Sonja_Sohn/v5z1u_qC3CQ_0000003 71.6 77.2 
+Sonja_Sohn/v5z1u_qC3CQ_0000004 99.2 108.1 
+Sonja_Sohn/v5z1u_qC3CQ_0000005 109.9 121.6 
+Sonja_Sohn/v5z1u_qC3CQ_0000006 122.1 127.2 
+Sonja_Sohn/v5z1u_qC3CQ_0000007 128.6 134.1 
+Sonja_Sohn/v5z1u_qC3CQ_0000008 138.4 143.2 
+Sonja_Sohn/v5z1u_qC3CQ_0000009 147.3 157.2 

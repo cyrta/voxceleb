@@ -1,0 +1,9 @@
+POI: 			Jeremy_Piven 
+Youtube ID: 	Hg0oxxkIAe4 
+Video length: 	369.3 sec 
+Set (V): 		dev 
+ 
+Jeremy_Piven/Hg0oxxkIAe4_0000001 83.4 87.3 
+Jeremy_Piven/Hg0oxxkIAe4_0000002 186.4 197.0 
+Jeremy_Piven/Hg0oxxkIAe4_0000003 224.9 229.8 
+Jeremy_Piven/Hg0oxxkIAe4_0000004 263.0 268.3 

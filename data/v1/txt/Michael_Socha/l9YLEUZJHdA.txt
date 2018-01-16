@@ -1,0 +1,9 @@
+POI: 			Michael_Socha 
+Youtube ID: 	l9YLEUZJHdA 
+Video length: 	355.0 sec 
+Set (V): 		dev 
+ 
+Michael_Socha/l9YLEUZJHdA_0000001 106.6 111.0 
+Michael_Socha/l9YLEUZJHdA_0000002 271.7 279.0 
+Michael_Socha/l9YLEUZJHdA_0000003 283.7 288.0 
+Michael_Socha/l9YLEUZJHdA_0000004 322.3 328.4 

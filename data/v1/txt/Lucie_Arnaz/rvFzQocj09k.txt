@@ -1,0 +1,30 @@
+POI: 			Lucie_Arnaz 
+Youtube ID: 	rvFzQocj09k 
+Video length: 	327.0 sec 
+Set (V): 		dev 
+ 
+Lucie_Arnaz/rvFzQocj09k_0000001 02.2 07.8 
+Lucie_Arnaz/rvFzQocj09k_0000002 09.2 15.0 
+Lucie_Arnaz/rvFzQocj09k_0000003 21.4 25.6 
+Lucie_Arnaz/rvFzQocj09k_0000004 26.2 51.5 
+Lucie_Arnaz/rvFzQocj09k_0000005 58.1 62.8 
+Lucie_Arnaz/rvFzQocj09k_0000006 64.3 69.0 
+Lucie_Arnaz/rvFzQocj09k_0000007 69.6 77.1 
+Lucie_Arnaz/rvFzQocj09k_0000008 77.3 87.6 
+Lucie_Arnaz/rvFzQocj09k_0000009 97.4 103.9 
+Lucie_Arnaz/rvFzQocj09k_0000010 116.7 122.1 
+Lucie_Arnaz/rvFzQocj09k_0000011 123.0 128.0 
+Lucie_Arnaz/rvFzQocj09k_0000012 123.1 128.0 
+Lucie_Arnaz/rvFzQocj09k_0000013 128.6 140.6 
+Lucie_Arnaz/rvFzQocj09k_0000014 150.7 156.0 
+Lucie_Arnaz/rvFzQocj09k_0000015 161.0 167.1 
+Lucie_Arnaz/rvFzQocj09k_0000016 172.6 182.8 
+Lucie_Arnaz/rvFzQocj09k_0000017 186.8 192.4 
+Lucie_Arnaz/rvFzQocj09k_0000018 194.4 201.4 
+Lucie_Arnaz/rvFzQocj09k_0000019 202.2 215.3 
+Lucie_Arnaz/rvFzQocj09k_0000020 221.1 238.1 
+Lucie_Arnaz/rvFzQocj09k_0000021 238.5 259.0 
+Lucie_Arnaz/rvFzQocj09k_0000022 260.8 264.9 
+Lucie_Arnaz/rvFzQocj09k_0000023 265.9 269.9 
+Lucie_Arnaz/rvFzQocj09k_0000024 274.7 288.2 
+Lucie_Arnaz/rvFzQocj09k_0000025 302.8 307.2 

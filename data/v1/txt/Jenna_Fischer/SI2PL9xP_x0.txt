@@ -1,0 +1,14 @@
+POI: 			Jenna_Fischer 
+Youtube ID: 	SI2PL9xP_x0 
+Video length: 	221.9 sec 
+Set (V): 		dev 
+ 
+Jenna_Fischer/SI2PL9xP_x0_0000001 25.4 31.8 
+Jenna_Fischer/SI2PL9xP_x0_0000002 71.4 76.4 
+Jenna_Fischer/SI2PL9xP_x0_0000003 76.6 81.3 
+Jenna_Fischer/SI2PL9xP_x0_0000004 113.4 121.1 
+Jenna_Fischer/SI2PL9xP_x0_0000005 121.5 128.8 
+Jenna_Fischer/SI2PL9xP_x0_0000006 130.9 137.8 
+Jenna_Fischer/SI2PL9xP_x0_0000007 146.8 155.8 
+Jenna_Fischer/SI2PL9xP_x0_0000008 158.4 162.5 
+Jenna_Fischer/SI2PL9xP_x0_0000009 203.0 212.3 

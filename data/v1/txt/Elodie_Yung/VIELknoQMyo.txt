@@ -1,0 +1,7 @@
+POI: 			Elodie_Yung 
+Youtube ID: 	VIELknoQMyo 
+Video length: 	216.1 sec 
+Set (V): 		test 
+ 
+Elodie_Yung/VIELknoQMyo_0000001 187.7 194.1 
+Elodie_Yung/VIELknoQMyo_0000002 197.0 208.9 

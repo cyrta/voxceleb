@@ -1,0 +1,10 @@
+POI: 			Jeremy_Shada 
+Youtube ID: 	t9bTNjv_ofs 
+Video length: 	339.9 sec 
+Set (V): 		dev 
+ 
+Jeremy_Shada/t9bTNjv_ofs_0000001 36.5 41.4 
+Jeremy_Shada/t9bTNjv_ofs_0000002 54.3 59.0 
+Jeremy_Shada/t9bTNjv_ofs_0000003 77.5 85.4 
+Jeremy_Shada/t9bTNjv_ofs_0000004 144.6 153.7 
+Jeremy_Shada/t9bTNjv_ofs_0000005 259.0 265.4 

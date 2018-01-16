@@ -1,0 +1,8 @@
+POI: 			John_Hurt 
+Youtube ID: 	eHA75wM0vFU 
+Video length: 	249.5 sec 
+Set (V): 		dev 
+ 
+John_Hurt/eHA75wM0vFU_0000001 08.8 13.7 
+John_Hurt/eHA75wM0vFU_0000002 109.5 119.3 
+John_Hurt/eHA75wM0vFU_0000003 174.8 181.2 

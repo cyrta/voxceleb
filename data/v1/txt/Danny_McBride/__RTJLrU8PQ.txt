@@ -1,0 +1,10 @@
+POI: 			Danny_McBride 
+Youtube ID: 	__RTJLrU8PQ 
+Video length: 	260.3 sec 
+Set (V): 		dev 
+ 
+Danny_McBride/__RTJLrU8PQ_0000001 15.7 22.6 
+Danny_McBride/__RTJLrU8PQ_0000002 23.2 30.0 
+Danny_McBride/__RTJLrU8PQ_0000003 67.7 83.3 
+Danny_McBride/__RTJLrU8PQ_0000004 104.7 108.9 
+Danny_McBride/__RTJLrU8PQ_0000005 215.0 220.0 

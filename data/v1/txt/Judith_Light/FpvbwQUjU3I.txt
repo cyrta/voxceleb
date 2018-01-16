@@ -1,0 +1,19 @@
+POI: 			Judith_Light 
+Youtube ID: 	FpvbwQUjU3I 
+Video length: 	245.4 sec 
+Set (V): 		dev 
+ 
+Judith_Light/FpvbwQUjU3I_0000001 06.9 12.3 
+Judith_Light/FpvbwQUjU3I_0000002 15.0 21.7 
+Judith_Light/FpvbwQUjU3I_0000003 22.6 27.6 
+Judith_Light/FpvbwQUjU3I_0000004 34.0 54.2 
+Judith_Light/FpvbwQUjU3I_0000005 58.0 63.2 
+Judith_Light/FpvbwQUjU3I_0000006 48.8 59.9 
+Judith_Light/FpvbwQUjU3I_0000007 85.2 90.4 
+Judith_Light/FpvbwQUjU3I_0000008 113.6 124.4 
+Judith_Light/FpvbwQUjU3I_0000009 150.4 157.4 
+Judith_Light/FpvbwQUjU3I_0000010 158.1 175.6 
+Judith_Light/FpvbwQUjU3I_0000011 176.3 184.1 
+Judith_Light/FpvbwQUjU3I_0000012 184.7 197.0 
+Judith_Light/FpvbwQUjU3I_0000013 202.0 214.2 
+Judith_Light/FpvbwQUjU3I_0000014 232.6 242.7 

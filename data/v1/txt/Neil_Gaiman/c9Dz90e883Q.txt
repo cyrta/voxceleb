@@ -1,0 +1,11 @@
+POI: 			Neil_Gaiman 
+Youtube ID: 	c9Dz90e883Q 
+Video length: 	293.6 sec 
+Set (V): 		dev 
+ 
+Neil_Gaiman/c9Dz90e883Q_0000001 72.2 82.6 
+Neil_Gaiman/c9Dz90e883Q_0000002 122.6 127.8 
+Neil_Gaiman/c9Dz90e883Q_0000003 127.9 132.8 
+Neil_Gaiman/c9Dz90e883Q_0000004 209.5 219.1 
+Neil_Gaiman/c9Dz90e883Q_0000005 258.9 263.1 
+Neil_Gaiman/c9Dz90e883Q_0000006 264.2 275.1 

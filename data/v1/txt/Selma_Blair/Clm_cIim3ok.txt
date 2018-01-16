@@ -1,0 +1,17 @@
+POI: 			Selma_Blair 
+Youtube ID: 	Clm_cIim3ok 
+Video length: 	301.4 sec 
+Set (V): 		dev 
+ 
+Selma_Blair/Clm_cIim3ok_0000001 72.8 77.9 
+Selma_Blair/Clm_cIim3ok_0000002 78.4 94.2 
+Selma_Blair/Clm_cIim3ok_0000003 98.6 107.7 
+Selma_Blair/Clm_cIim3ok_0000004 107.8 126.4 
+Selma_Blair/Clm_cIim3ok_0000005 144.9 152.9 
+Selma_Blair/Clm_cIim3ok_0000006 153.4 163.7 
+Selma_Blair/Clm_cIim3ok_0000007 172.3 177.6 
+Selma_Blair/Clm_cIim3ok_0000008 190.2 207.0 
+Selma_Blair/Clm_cIim3ok_0000009 226.2 235.2 
+Selma_Blair/Clm_cIim3ok_0000010 240.1 247.4 
+Selma_Blair/Clm_cIim3ok_0000011 262.2 271.5 
+Selma_Blair/Clm_cIim3ok_0000012 283.9 299.2 

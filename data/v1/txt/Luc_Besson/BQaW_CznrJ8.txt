@@ -1,0 +1,10 @@
+POI: 			Luc_Besson 
+Youtube ID: 	BQaW_CznrJ8 
+Video length: 	202.5 sec 
+Set (V): 		dev 
+ 
+Luc_Besson/BQaW_CznrJ8_0000001 42.6 46.7 
+Luc_Besson/BQaW_CznrJ8_0000002 64.5 69.4 
+Luc_Besson/BQaW_CznrJ8_0000003 106.0 113.8 
+Luc_Besson/BQaW_CznrJ8_0000004 163.2 169.6 
+Luc_Besson/BQaW_CznrJ8_0000005 185.2 192.3 

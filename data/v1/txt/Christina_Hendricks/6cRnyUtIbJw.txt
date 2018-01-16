@@ -1,0 +1,28 @@
+POI: 			Christina_Hendricks 
+Youtube ID: 	6cRnyUtIbJw 
+Video length: 	350.1 sec 
+Set (V): 		dev 
+ 
+Christina_Hendricks/6cRnyUtIbJw_0000001 20.6 38.2 
+Christina_Hendricks/6cRnyUtIbJw_0000002 38.4 42.9 
+Christina_Hendricks/6cRnyUtIbJw_0000003 45.7 51.4 
+Christina_Hendricks/6cRnyUtIbJw_0000004 52.0 58.4 
+Christina_Hendricks/6cRnyUtIbJw_0000005 72.3 76.4 
+Christina_Hendricks/6cRnyUtIbJw_0000006 76.8 94.9 
+Christina_Hendricks/6cRnyUtIbJw_0000007 83.8 104.3 
+Christina_Hendricks/6cRnyUtIbJw_0000008 104.9 113.0 
+Christina_Hendricks/6cRnyUtIbJw_0000009 134.0 144.0 
+Christina_Hendricks/6cRnyUtIbJw_0000010 145.7 155.7 
+Christina_Hendricks/6cRnyUtIbJw_0000011 167.3 175.6 
+Christina_Hendricks/6cRnyUtIbJw_0000012 175.8 182.9 
+Christina_Hendricks/6cRnyUtIbJw_0000013 207.3 214.9 
+Christina_Hendricks/6cRnyUtIbJw_0000014 224.5 229.4 
+Christina_Hendricks/6cRnyUtIbJw_0000015 242.0 249.8 
+Christina_Hendricks/6cRnyUtIbJw_0000016 264.9 271.9 
+Christina_Hendricks/6cRnyUtIbJw_0000017 272.0 277.3 
+Christina_Hendricks/6cRnyUtIbJw_0000018 277.5 282.2 
+Christina_Hendricks/6cRnyUtIbJw_0000019 289.0 295.2 
+Christina_Hendricks/6cRnyUtIbJw_0000020 299.3 310.2 
+Christina_Hendricks/6cRnyUtIbJw_0000021 312.3 319.4 
+Christina_Hendricks/6cRnyUtIbJw_0000022 320.3 328.0 
+Christina_Hendricks/6cRnyUtIbJw_0000023 319.1 332.4 

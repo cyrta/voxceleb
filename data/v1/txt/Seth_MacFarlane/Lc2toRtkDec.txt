@@ -1,0 +1,8 @@
+POI: 			Seth_MacFarlane 
+Youtube ID: 	Lc2toRtkDec 
+Video length: 	325.2 sec 
+Set (V): 		dev 
+ 
+Seth_MacFarlane/Lc2toRtkDec_0000001 64.2 70.2 
+Seth_MacFarlane/Lc2toRtkDec_0000002 72.3 76.2 
+Seth_MacFarlane/Lc2toRtkDec_0000003 250.1 255.5 

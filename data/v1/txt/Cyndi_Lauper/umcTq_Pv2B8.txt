@@ -1,0 +1,7 @@
+POI: 			Cyndi_Lauper 
+Youtube ID: 	umcTq_Pv2B8 
+Video length: 	805.5 sec 
+Set (V): 		dev 
+ 
+Cyndi_Lauper/umcTq_Pv2B8_0000001 359.6 366.6 
+Cyndi_Lauper/umcTq_Pv2B8_0000002 367.0 371.2 

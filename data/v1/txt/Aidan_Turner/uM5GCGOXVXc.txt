@@ -1,0 +1,8 @@
+POI: 			Aidan_Turner 
+Youtube ID: 	uM5GCGOXVXc 
+Video length: 	874.6 sec 
+Set (V): 		dev 
+ 
+Aidan_Turner/uM5GCGOXVXc_0000001 180.0 184.3 
+Aidan_Turner/uM5GCGOXVXc_0000002 550.2 555.2 
+Aidan_Turner/uM5GCGOXVXc_0000003 698.6 704.4 

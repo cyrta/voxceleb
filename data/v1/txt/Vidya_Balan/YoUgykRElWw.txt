@@ -1,0 +1,18 @@
+POI: 			Vidya_Balan 
+Youtube ID: 	YoUgykRElWw 
+Video length: 	420.5 sec 
+Set (V): 		dev 
+ 
+Vidya_Balan/YoUgykRElWw_0000001 46.6 54.0 
+Vidya_Balan/YoUgykRElWw_0000002 58.8 65.3 
+Vidya_Balan/YoUgykRElWw_0000003 67.4 72.2 
+Vidya_Balan/YoUgykRElWw_0000004 129.9 135.0 
+Vidya_Balan/YoUgykRElWw_0000005 146.3 150.8 
+Vidya_Balan/YoUgykRElWw_0000006 186.8 199.0 
+Vidya_Balan/YoUgykRElWw_0000007 203.8 208.1 
+Vidya_Balan/YoUgykRElWw_0000008 209.0 216.1 
+Vidya_Balan/YoUgykRElWw_0000009 223.4 230.2 
+Vidya_Balan/YoUgykRElWw_0000010 238.8 243.1 
+Vidya_Balan/YoUgykRElWw_0000011 271.4 280.4 
+Vidya_Balan/YoUgykRElWw_0000012 283.2 288.0 
+Vidya_Balan/YoUgykRElWw_0000013 291.3 300.4 

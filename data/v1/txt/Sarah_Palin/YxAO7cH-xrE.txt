@@ -1,0 +1,26 @@
+POI: 			Sarah_Palin 
+Youtube ID: 	YxAO7cH-xrE 
+Video length: 	626.8 sec 
+Set (V): 		dev 
+ 
+Sarah_Palin/YxAO7cH-xrE_0000001 15.6 26.8 
+Sarah_Palin/YxAO7cH-xrE_0000002 72.4 91.0 
+Sarah_Palin/YxAO7cH-xrE_0000003 114.8 121.2 
+Sarah_Palin/YxAO7cH-xrE_0000004 125.6 137.2 
+Sarah_Palin/YxAO7cH-xrE_0000005 157.0 177.4 
+Sarah_Palin/YxAO7cH-xrE_0000006 190.0 198.2 
+Sarah_Palin/YxAO7cH-xrE_0000007 208.0 212.6 
+Sarah_Palin/YxAO7cH-xrE_0000008 221.2 235.0 
+Sarah_Palin/YxAO7cH-xrE_0000009 249.7 253.7 
+Sarah_Palin/YxAO7cH-xrE_0000010 263.4 277.1 
+Sarah_Palin/YxAO7cH-xrE_0000011 277.6 294.3 
+Sarah_Palin/YxAO7cH-xrE_0000012 314.5 338.1 
+Sarah_Palin/YxAO7cH-xrE_0000013 350.5 369.7 
+Sarah_Palin/YxAO7cH-xrE_0000014 381.2 427.2 
+Sarah_Palin/YxAO7cH-xrE_0000015 431.7 442.9 
+Sarah_Palin/YxAO7cH-xrE_0000016 465.2 487.8 
+Sarah_Palin/YxAO7cH-xrE_0000017 492.4 508.1 
+Sarah_Palin/YxAO7cH-xrE_0000018 517.1 522.9 
+Sarah_Palin/YxAO7cH-xrE_0000019 533.0 557.6 
+Sarah_Palin/YxAO7cH-xrE_0000020 576.6 592.8 
+Sarah_Palin/YxAO7cH-xrE_0000021 592.9 618.9 

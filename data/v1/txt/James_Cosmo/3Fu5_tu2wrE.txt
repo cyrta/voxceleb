@@ -1,0 +1,38 @@
+POI: 			James_Cosmo 
+Youtube ID: 	3Fu5_tu2wrE 
+Video length: 	554.9 sec 
+Set (V): 		dev 
+ 
+James_Cosmo/3Fu5_tu2wrE_0000001 15.2 22.0 
+James_Cosmo/3Fu5_tu2wrE_0000002 25.4 34.2 
+James_Cosmo/3Fu5_tu2wrE_0000003 34.7 41.6 
+James_Cosmo/3Fu5_tu2wrE_0000004 53.8 61.2 
+James_Cosmo/3Fu5_tu2wrE_0000005 61.6 72.1 
+James_Cosmo/3Fu5_tu2wrE_0000006 88.4 97.0 
+James_Cosmo/3Fu5_tu2wrE_0000007 109.2 117.8 
+James_Cosmo/3Fu5_tu2wrE_0000008 129.9 134.6 
+James_Cosmo/3Fu5_tu2wrE_0000009 134.8 148.0 
+James_Cosmo/3Fu5_tu2wrE_0000010 155.6 161.5 
+James_Cosmo/3Fu5_tu2wrE_0000011 161.8 167.1 
+James_Cosmo/3Fu5_tu2wrE_0000012 173.2 184.1 
+James_Cosmo/3Fu5_tu2wrE_0000013 200.5 214.2 
+James_Cosmo/3Fu5_tu2wrE_0000014 227.8 234.8 
+James_Cosmo/3Fu5_tu2wrE_0000015 235.0 242.5 
+James_Cosmo/3Fu5_tu2wrE_0000016 244.8 252.6 
+James_Cosmo/3Fu5_tu2wrE_0000017 265.7 280.3 
+James_Cosmo/3Fu5_tu2wrE_0000018 284.0 288.6 
+James_Cosmo/3Fu5_tu2wrE_0000019 294.6 306.0 
+James_Cosmo/3Fu5_tu2wrE_0000020 316.4 336.9 
+James_Cosmo/3Fu5_tu2wrE_0000021 343.4 348.6 
+James_Cosmo/3Fu5_tu2wrE_0000022 350.1 355.6 
+James_Cosmo/3Fu5_tu2wrE_0000023 356.4 360.6 
+James_Cosmo/3Fu5_tu2wrE_0000024 369.0 377.7 
+James_Cosmo/3Fu5_tu2wrE_0000025 380.0 385.3 
+James_Cosmo/3Fu5_tu2wrE_0000026 398.5 404.5 
+James_Cosmo/3Fu5_tu2wrE_0000027 409.4 419.5 
+James_Cosmo/3Fu5_tu2wrE_0000028 431.9 441.7 
+James_Cosmo/3Fu5_tu2wrE_0000029 450.2 455.6 
+James_Cosmo/3Fu5_tu2wrE_0000030 457.9 464.0 
+James_Cosmo/3Fu5_tu2wrE_0000031 466.2 470.4 
+James_Cosmo/3Fu5_tu2wrE_0000032 501.5 511.5 
+James_Cosmo/3Fu5_tu2wrE_0000033 525.2 532.4 

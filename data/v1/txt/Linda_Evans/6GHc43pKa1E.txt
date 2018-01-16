@@ -1,0 +1,16 @@
+POI: 			Linda_Evans 
+Youtube ID: 	6GHc43pKa1E 
+Video length: 	1293.0 sec 
+Set (V): 		dev 
+ 
+Linda_Evans/6GHc43pKa1E_0000001 260.0 267.3 
+Linda_Evans/6GHc43pKa1E_0000002 482.2 488.9 
+Linda_Evans/6GHc43pKa1E_0000003 509.4 513.4 
+Linda_Evans/6GHc43pKa1E_0000004 521.8 527.0 
+Linda_Evans/6GHc43pKa1E_0000005 622.4 627.0 
+Linda_Evans/6GHc43pKa1E_0000006 732.1 736.2 
+Linda_Evans/6GHc43pKa1E_0000007 740.1 747.8 
+Linda_Evans/6GHc43pKa1E_0000008 753.6 758.1 
+Linda_Evans/6GHc43pKa1E_0000009 920.2 926.7 
+Linda_Evans/6GHc43pKa1E_0000010 936.9 942.2 
+Linda_Evans/6GHc43pKa1E_0000011 1007.3 1011.3 

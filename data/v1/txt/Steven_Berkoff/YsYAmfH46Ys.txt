@@ -1,0 +1,12 @@
+POI: 			Steven_Berkoff 
+Youtube ID: 	YsYAmfH46Ys 
+Video length: 	226.4 sec 
+Set (V): 		dev 
+ 
+Steven_Berkoff/YsYAmfH46Ys_0000001 00.8 06.0 
+Steven_Berkoff/YsYAmfH46Ys_0000002 08.1 22.4 
+Steven_Berkoff/YsYAmfH46Ys_0000003 34.0 39.9 
+Steven_Berkoff/YsYAmfH46Ys_0000004 43.0 47.2 
+Steven_Berkoff/YsYAmfH46Ys_0000005 72.0 79.6 
+Steven_Berkoff/YsYAmfH46Ys_0000006 91.3 101.7 
+Steven_Berkoff/YsYAmfH46Ys_0000007 130.6 136.0 

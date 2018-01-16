@@ -1,0 +1,11 @@
+POI: 			Sophie_Okonedo 
+Youtube ID: 	Llh8doz7sWM 
+Video length: 	266.8 sec 
+Set (V): 		dev 
+ 
+Sophie_Okonedo/Llh8doz7sWM_0000001 158.4 163.0 
+Sophie_Okonedo/Llh8doz7sWM_0000002 180.7 186.0 
+Sophie_Okonedo/Llh8doz7sWM_0000003 198.6 204.0 
+Sophie_Okonedo/Llh8doz7sWM_0000004 208.6 212.8 
+Sophie_Okonedo/Llh8doz7sWM_0000005 225.1 230.8 
+Sophie_Okonedo/Llh8doz7sWM_0000006 233.8 239.4 

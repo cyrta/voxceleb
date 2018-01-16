@@ -1,0 +1,9 @@
+POI: 			Kate_McKinnon 
+Youtube ID: 	7NVTRsptFAs 
+Video length: 	98.1 sec 
+Set (V): 		dev 
+ 
+Kate_McKinnon/7NVTRsptFAs_0000001 02.0 06.8 
+Kate_McKinnon/7NVTRsptFAs_0000002 37.0 44.7 
+Kate_McKinnon/7NVTRsptFAs_0000003 47.0 57.4 
+Kate_McKinnon/7NVTRsptFAs_0000004 65.4 70.6 

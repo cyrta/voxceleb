@@ -1,0 +1,10 @@
+POI: 			Phyllis_Diller 
+Youtube ID: 	5js1Z5Ex9Vw 
+Video length: 	84.1 sec 
+Set (V): 		dev 
+ 
+Phyllis_Diller/5js1Z5Ex9Vw_0000001 06.1 13.9 
+Phyllis_Diller/5js1Z5Ex9Vw_0000002 18.9 34.2 
+Phyllis_Diller/5js1Z5Ex9Vw_0000003 44.2 51.5 
+Phyllis_Diller/5js1Z5Ex9Vw_0000004 54.4 67.0 
+Phyllis_Diller/5js1Z5Ex9Vw_0000005 68.7 73.7 

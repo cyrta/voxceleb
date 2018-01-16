@@ -1,0 +1,11 @@
+POI: 			Nancy_Cartwright 
+Youtube ID: 	tzHipovxZXU 
+Video length: 	129.5 sec 
+Set (V): 		dev 
+ 
+Nancy_Cartwright/tzHipovxZXU_0000001 08.9 15.2 
+Nancy_Cartwright/tzHipovxZXU_0000002 15.8 47.1 
+Nancy_Cartwright/tzHipovxZXU_0000003 50.6 56.8 
+Nancy_Cartwright/tzHipovxZXU_0000004 71.7 83.9 
+Nancy_Cartwright/tzHipovxZXU_0000005 84.0 98.4 
+Nancy_Cartwright/tzHipovxZXU_0000006 99.4 112.6 

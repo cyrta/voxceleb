@@ -1,0 +1,15 @@
+POI: 			Tim_Minchin 
+Youtube ID: 	wIJOP-JLrdQ 
+Video length: 	440.7 sec 
+Set (V): 		dev 
+ 
+Tim_Minchin/wIJOP-JLrdQ_0000001 111.7 127.7 
+Tim_Minchin/wIJOP-JLrdQ_0000002 132.6 139.6 
+Tim_Minchin/wIJOP-JLrdQ_0000003 166.8 175.1 
+Tim_Minchin/wIJOP-JLrdQ_0000004 193.3 212.4 
+Tim_Minchin/wIJOP-JLrdQ_0000005 276.4 282.7 
+Tim_Minchin/wIJOP-JLrdQ_0000006 328.4 333.1 
+Tim_Minchin/wIJOP-JLrdQ_0000007 337.2 342.5 
+Tim_Minchin/wIJOP-JLrdQ_0000008 415.0 420.0 
+Tim_Minchin/wIJOP-JLrdQ_0000009 430.1 434.1 
+Tim_Minchin/wIJOP-JLrdQ_0000010 435.0 439.1 

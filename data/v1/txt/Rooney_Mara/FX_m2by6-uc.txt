@@ -1,0 +1,18 @@
+POI: 			Rooney_Mara 
+Youtube ID: 	FX_m2by6-uc 
+Video length: 	269.2 sec 
+Set (V): 		dev 
+ 
+Rooney_Mara/FX_m2by6-uc_0000001 19.0 24.4 
+Rooney_Mara/FX_m2by6-uc_0000002 35.4 44.3 
+Rooney_Mara/FX_m2by6-uc_0000003 46.9 55.0 
+Rooney_Mara/FX_m2by6-uc_0000004 73.3 78.2 
+Rooney_Mara/FX_m2by6-uc_0000005 78.4 86.4 
+Rooney_Mara/FX_m2by6-uc_0000006 90.9 104.1 
+Rooney_Mara/FX_m2by6-uc_0000007 122.4 132.8 
+Rooney_Mara/FX_m2by6-uc_0000008 135.9 146.8 
+Rooney_Mara/FX_m2by6-uc_0000009 148.6 154.5 
+Rooney_Mara/FX_m2by6-uc_0000010 176.4 184.5 
+Rooney_Mara/FX_m2by6-uc_0000011 185.1 193.5 
+Rooney_Mara/FX_m2by6-uc_0000012 229.4 238.6 
+Rooney_Mara/FX_m2by6-uc_0000013 240.1 250.6 

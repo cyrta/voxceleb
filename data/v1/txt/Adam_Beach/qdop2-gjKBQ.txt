@@ -1,0 +1,7 @@
+POI: 			Adam_Beach 
+Youtube ID: 	qdop2-gjKBQ 
+Video length: 	170.8 sec 
+Set (V): 		dev 
+ 
+Adam_Beach/qdop2-gjKBQ_0000001 27.4 31.8 
+Adam_Beach/qdop2-gjKBQ_0000002 136.2 143.8 

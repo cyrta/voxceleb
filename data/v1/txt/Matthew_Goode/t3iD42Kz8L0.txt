@@ -1,0 +1,20 @@
+POI: 			Matthew_Goode 
+Youtube ID: 	t3iD42Kz8L0 
+Video length: 	237.4 sec 
+Set (V): 		dev 
+ 
+Matthew_Goode/t3iD42Kz8L0_0000001 13.8 20.9 
+Matthew_Goode/t3iD42Kz8L0_0000002 24.2 44.2 
+Matthew_Goode/t3iD42Kz8L0_0000003 49.4 55.5 
+Matthew_Goode/t3iD42Kz8L0_0000004 58.2 63.4 
+Matthew_Goode/t3iD42Kz8L0_0000005 64.3 74.9 
+Matthew_Goode/t3iD42Kz8L0_0000006 77.0 87.0 
+Matthew_Goode/t3iD42Kz8L0_0000007 87.1 100.6 
+Matthew_Goode/t3iD42Kz8L0_0000008 124.6 128.7 
+Matthew_Goode/t3iD42Kz8L0_0000009 137.1 150.1 
+Matthew_Goode/t3iD42Kz8L0_0000010 151.1 157.9 
+Matthew_Goode/t3iD42Kz8L0_0000011 160.0 167.7 
+Matthew_Goode/t3iD42Kz8L0_0000012 173.7 187.0 
+Matthew_Goode/t3iD42Kz8L0_0000013 198.7 206.0 
+Matthew_Goode/t3iD42Kz8L0_0000014 206.6 221.0 
+Matthew_Goode/t3iD42Kz8L0_0000015 221.3 235.9 

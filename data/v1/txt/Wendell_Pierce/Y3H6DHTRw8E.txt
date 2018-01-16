@@ -1,0 +1,12 @@
+POI: 			Wendell_Pierce 
+Youtube ID: 	Y3H6DHTRw8E 
+Video length: 	183.0 sec 
+Set (V): 		dev 
+ 
+Wendell_Pierce/Y3H6DHTRw8E_0000001 03.3 09.9 
+Wendell_Pierce/Y3H6DHTRw8E_0000002 22.2 31.7 
+Wendell_Pierce/Y3H6DHTRw8E_0000003 45.9 50.3 
+Wendell_Pierce/Y3H6DHTRw8E_0000004 58.8 75.0 
+Wendell_Pierce/Y3H6DHTRw8E_0000005 85.7 91.2 
+Wendell_Pierce/Y3H6DHTRw8E_0000006 144.0 149.1 
+Wendell_Pierce/Y3H6DHTRw8E_0000007 158.2 165.1 

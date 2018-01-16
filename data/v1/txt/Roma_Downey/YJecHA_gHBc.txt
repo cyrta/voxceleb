@@ -1,0 +1,16 @@
+POI: 			Roma_Downey 
+Youtube ID: 	YJecHA_gHBc 
+Video length: 	701.5 sec 
+Set (V): 		dev 
+ 
+Roma_Downey/YJecHA_gHBc_0000001 75.3 93.5 
+Roma_Downey/YJecHA_gHBc_0000002 160.6 165.5 
+Roma_Downey/YJecHA_gHBc_0000003 165.8 192.4 
+Roma_Downey/YJecHA_gHBc_0000004 347.6 358.2 
+Roma_Downey/YJecHA_gHBc_0000005 361.8 393.5 
+Roma_Downey/YJecHA_gHBc_0000006 518.8 532.5 
+Roma_Downey/YJecHA_gHBc_0000007 533.1 547.4 
+Roma_Downey/YJecHA_gHBc_0000008 598.1 603.3 
+Roma_Downey/YJecHA_gHBc_0000009 604.3 622.2 
+Roma_Downey/YJecHA_gHBc_0000010 623.0 635.8 
+Roma_Downey/YJecHA_gHBc_0000011 637.6 647.7 

@@ -1,0 +1,7 @@
+POI: 			Lea_Michele 
+Youtube ID: 	USWq-C6QtM8 
+Video length: 	81.1 sec 
+Set (V): 		dev 
+ 
+Lea_Michele/USWq-C6QtM8_0000001 43.1 49.8 
+Lea_Michele/USWq-C6QtM8_0000002 54.9 70.4 

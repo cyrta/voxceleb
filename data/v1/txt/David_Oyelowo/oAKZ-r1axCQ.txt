@@ -1,0 +1,10 @@
+POI: 			David_Oyelowo 
+Youtube ID: 	oAKZ-r1axCQ 
+Video length: 	196.3 sec 
+Set (V): 		dev 
+ 
+David_Oyelowo/oAKZ-r1axCQ_0000001 21.4 44.9 
+David_Oyelowo/oAKZ-r1axCQ_0000002 51.4 55.8 
+David_Oyelowo/oAKZ-r1axCQ_0000003 63.0 68.3 
+David_Oyelowo/oAKZ-r1axCQ_0000004 161.8 166.4 
+David_Oyelowo/oAKZ-r1axCQ_0000005 177.8 182.1 

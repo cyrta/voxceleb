@@ -1,0 +1,36 @@
+POI: 			David_Cassidy 
+Youtube ID: 	EKIF0zKoyss 
+Video length: 	713.5 sec 
+Set (V): 		dev 
+ 
+David_Cassidy/EKIF0zKoyss_0000001 07.3 15.0 
+David_Cassidy/EKIF0zKoyss_0000002 16.0 24.1 
+David_Cassidy/EKIF0zKoyss_0000003 36.1 42.0 
+David_Cassidy/EKIF0zKoyss_0000004 43.0 48.3 
+David_Cassidy/EKIF0zKoyss_0000005 53.0 63.8 
+David_Cassidy/EKIF0zKoyss_0000006 77.9 85.0 
+David_Cassidy/EKIF0zKoyss_0000007 100.9 107.2 
+David_Cassidy/EKIF0zKoyss_0000008 142.0 146.3 
+David_Cassidy/EKIF0zKoyss_0000009 148.2 153.3 
+David_Cassidy/EKIF0zKoyss_0000010 192.2 197.8 
+David_Cassidy/EKIF0zKoyss_0000011 199.8 206.4 
+David_Cassidy/EKIF0zKoyss_0000012 207.6 218.3 
+David_Cassidy/EKIF0zKoyss_0000013 221.9 227.0 
+David_Cassidy/EKIF0zKoyss_0000014 228.1 243.8 
+David_Cassidy/EKIF0zKoyss_0000015 244.1 249.3 
+David_Cassidy/EKIF0zKoyss_0000016 250.3 255.9 
+David_Cassidy/EKIF0zKoyss_0000017 256.7 267.1 
+David_Cassidy/EKIF0zKoyss_0000018 289.2 295.4 
+David_Cassidy/EKIF0zKoyss_0000019 313.6 319.0 
+David_Cassidy/EKIF0zKoyss_0000020 401.3 405.3 
+David_Cassidy/EKIF0zKoyss_0000021 407.3 412.2 
+David_Cassidy/EKIF0zKoyss_0000022 413.4 421.2 
+David_Cassidy/EKIF0zKoyss_0000023 441.5 457.0 
+David_Cassidy/EKIF0zKoyss_0000024 480.2 489.6 
+David_Cassidy/EKIF0zKoyss_0000025 496.3 501.5 
+David_Cassidy/EKIF0zKoyss_0000026 520.4 526.4 
+David_Cassidy/EKIF0zKoyss_0000027 549.7 554.4 
+David_Cassidy/EKIF0zKoyss_0000028 561.1 568.5 
+David_Cassidy/EKIF0zKoyss_0000029 598.8 614.7 
+David_Cassidy/EKIF0zKoyss_0000030 615.7 622.2 
+David_Cassidy/EKIF0zKoyss_0000031 695.2 701.4 

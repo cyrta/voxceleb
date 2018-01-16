@@ -1,0 +1,7 @@
+POI: 			Cedric_the_Entertainer 
+Youtube ID: 	0Igryfy5pZI 
+Video length: 	447.9 sec 
+Set (V): 		dev 
+ 
+Cedric_the_Entertainer/0Igryfy5pZI_0000001 362.3 375.5 
+Cedric_the_Entertainer/0Igryfy5pZI_0000002 386.4 396.0 

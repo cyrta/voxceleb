@@ -1,0 +1,11 @@
+POI: 			Thomas_Lennon 
+Youtube ID: 	NelZvzwQkuQ 
+Video length: 	217.2 sec 
+Set (V): 		dev 
+ 
+Thomas_Lennon/NelZvzwQkuQ_0000001 15.6 19.6 
+Thomas_Lennon/NelZvzwQkuQ_0000002 40.0 45.6 
+Thomas_Lennon/NelZvzwQkuQ_0000003 55.4 59.8 
+Thomas_Lennon/NelZvzwQkuQ_0000004 135.8 140.8 
+Thomas_Lennon/NelZvzwQkuQ_0000005 156.2 161.3 
+Thomas_Lennon/NelZvzwQkuQ_0000006 182.3 189.0 

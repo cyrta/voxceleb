@@ -1,0 +1,8 @@
+POI: 			Yeardley_Smith 
+Youtube ID: 	sv4SlQ7f9hA 
+Video length: 	223.1 sec 
+Set (V): 		dev 
+ 
+Yeardley_Smith/sv4SlQ7f9hA_0000001 19.2 23.4 
+Yeardley_Smith/sv4SlQ7f9hA_0000002 33.8 38.2 
+Yeardley_Smith/sv4SlQ7f9hA_0000003 43.7 50.7 

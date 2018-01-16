@@ -1,0 +1,22 @@
+POI: 			Ingrid_Bergman 
+Youtube ID: 	oo-5gmzicow 
+Video length: 	595.6 sec 
+Set (V): 		dev 
+ 
+Ingrid_Bergman/oo-5gmzicow_0000001 36.6 46.7 
+Ingrid_Bergman/oo-5gmzicow_0000002 47.2 52.1 
+Ingrid_Bergman/oo-5gmzicow_0000003 48.4 52.9 
+Ingrid_Bergman/oo-5gmzicow_0000004 67.4 71.8 
+Ingrid_Bergman/oo-5gmzicow_0000005 97.0 101.2 
+Ingrid_Bergman/oo-5gmzicow_0000006 141.4 148.5 
+Ingrid_Bergman/oo-5gmzicow_0000007 148.7 154.0 
+Ingrid_Bergman/oo-5gmzicow_0000008 161.9 173.1 
+Ingrid_Bergman/oo-5gmzicow_0000009 175.2 182.6 
+Ingrid_Bergman/oo-5gmzicow_0000010 383.6 390.7 
+Ingrid_Bergman/oo-5gmzicow_0000011 447.4 453.6 
+Ingrid_Bergman/oo-5gmzicow_0000012 463.9 471.2 
+Ingrid_Bergman/oo-5gmzicow_0000013 503.8 508.7 
+Ingrid_Bergman/oo-5gmzicow_0000014 509.2 514.9 
+Ingrid_Bergman/oo-5gmzicow_0000015 529.3 534.8 
+Ingrid_Bergman/oo-5gmzicow_0000016 559.9 567.6 
+Ingrid_Bergman/oo-5gmzicow_0000017 568.1 572.8 

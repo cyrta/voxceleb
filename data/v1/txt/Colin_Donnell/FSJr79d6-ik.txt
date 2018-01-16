@@ -1,0 +1,11 @@
+POI: 			Colin_Donnell 
+Youtube ID: 	FSJr79d6-ik 
+Video length: 	87.9 sec 
+Set (V): 		dev 
+ 
+Colin_Donnell/FSJr79d6-ik_0000001 00.9 09.5 
+Colin_Donnell/FSJr79d6-ik_0000002 10.4 14.4 
+Colin_Donnell/FSJr79d6-ik_0000003 16.7 25.4 
+Colin_Donnell/FSJr79d6-ik_0000004 34.9 43.2 
+Colin_Donnell/FSJr79d6-ik_0000005 47.8 52.5 
+Colin_Donnell/FSJr79d6-ik_0000006 53.0 73.6 

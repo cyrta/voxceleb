@@ -1,0 +1,9 @@
+POI: 			Kevin_McHale 
+Youtube ID: 	TdOHP4MLoHE 
+Video length: 	167.9 sec 
+Set (V): 		dev 
+ 
+Kevin_McHale/TdOHP4MLoHE_0000001 13.9 19.8 
+Kevin_McHale/TdOHP4MLoHE_0000002 20.3 24.5 
+Kevin_McHale/TdOHP4MLoHE_0000003 25.3 43.6 
+Kevin_McHale/TdOHP4MLoHE_0000004 44.5 54.8 

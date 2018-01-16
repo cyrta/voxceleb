@@ -1,0 +1,7 @@
+POI: 			Jorge_Garcia 
+Youtube ID: 	ehNU4x8DTDU 
+Video length: 	164.8 sec 
+Set (V): 		dev 
+ 
+Jorge_Garcia/ehNU4x8DTDU_0000001 07.0 11.4 
+Jorge_Garcia/ehNU4x8DTDU_0000002 11.5 20.2 

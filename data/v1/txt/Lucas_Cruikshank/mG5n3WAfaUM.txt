@@ -1,0 +1,9 @@
+POI: 			Lucas_Cruikshank 
+Youtube ID: 	mG5n3WAfaUM 
+Video length: 	180.1 sec 
+Set (V): 		dev 
+ 
+Lucas_Cruikshank/mG5n3WAfaUM_0000001 26.1 32.9 
+Lucas_Cruikshank/mG5n3WAfaUM_0000002 55.5 62.0 
+Lucas_Cruikshank/mG5n3WAfaUM_0000003 87.4 91.4 
+Lucas_Cruikshank/mG5n3WAfaUM_0000004 122.1 129.1 

@@ -1,0 +1,9 @@
+POI: 			Ken_Marino 
+Youtube ID: 	rHNR2aSM2XE 
+Video length: 	207.1 sec 
+Set (V): 		dev 
+ 
+Ken_Marino/rHNR2aSM2XE_0000001 35.2 41.4 
+Ken_Marino/rHNR2aSM2XE_0000002 46.7 55.2 
+Ken_Marino/rHNR2aSM2XE_0000003 56.2 62.6 
+Ken_Marino/rHNR2aSM2XE_0000004 75.6 87.1 

@@ -1,0 +1,8 @@
+POI: 			Jeremy_Clarkson 
+Youtube ID: 	HJx5JpNR4mo 
+Video length: 	95.4 sec 
+Set (V): 		dev 
+ 
+Jeremy_Clarkson/HJx5JpNR4mo_0000001 11.0 17.5 
+Jeremy_Clarkson/HJx5JpNR4mo_0000002 39.2 45.0 
+Jeremy_Clarkson/HJx5JpNR4mo_0000003 78.8 83.2 

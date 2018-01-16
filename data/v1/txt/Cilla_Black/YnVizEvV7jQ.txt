@@ -1,0 +1,34 @@
+POI: 			Cilla_Black 
+Youtube ID: 	YnVizEvV7jQ 
+Video length: 	867.0 sec 
+Set (V): 		dev 
+ 
+Cilla_Black/YnVizEvV7jQ_0000001 75.8 81.3 
+Cilla_Black/YnVizEvV7jQ_0000002 111.1 119.0 
+Cilla_Black/YnVizEvV7jQ_0000003 190.4 194.6 
+Cilla_Black/YnVizEvV7jQ_0000004 202.7 207.2 
+Cilla_Black/YnVizEvV7jQ_0000005 235.5 243.8 
+Cilla_Black/YnVizEvV7jQ_0000006 244.0 249.8 
+Cilla_Black/YnVizEvV7jQ_0000007 261.2 265.7 
+Cilla_Black/YnVizEvV7jQ_0000008 289.0 297.4 
+Cilla_Black/YnVizEvV7jQ_0000009 298.2 303.6 
+Cilla_Black/YnVizEvV7jQ_0000010 351.6 355.9 
+Cilla_Black/YnVizEvV7jQ_0000011 395.7 404.9 
+Cilla_Black/YnVizEvV7jQ_0000012 424.2 436.3 
+Cilla_Black/YnVizEvV7jQ_0000013 439.9 444.7 
+Cilla_Black/YnVizEvV7jQ_0000014 464.2 480.2 
+Cilla_Black/YnVizEvV7jQ_0000015 481.3 492.7 
+Cilla_Black/YnVizEvV7jQ_0000016 531.4 536.2 
+Cilla_Black/YnVizEvV7jQ_0000017 562.2 566.6 
+Cilla_Black/YnVizEvV7jQ_0000018 572.5 586.9 
+Cilla_Black/YnVizEvV7jQ_0000019 587.9 593.0 
+Cilla_Black/YnVizEvV7jQ_0000020 664.7 671.4 
+Cilla_Black/YnVizEvV7jQ_0000021 698.5 702.5 
+Cilla_Black/YnVizEvV7jQ_0000022 707.8 730.4 
+Cilla_Black/YnVizEvV7jQ_0000023 731.5 735.7 
+Cilla_Black/YnVizEvV7jQ_0000024 752.3 759.8 
+Cilla_Black/YnVizEvV7jQ_0000025 761.3 766.8 
+Cilla_Black/YnVizEvV7jQ_0000026 793.2 798.8 
+Cilla_Black/YnVizEvV7jQ_0000027 800.1 810.6 
+Cilla_Black/YnVizEvV7jQ_0000028 828.4 837.4 
+Cilla_Black/YnVizEvV7jQ_0000029 837.6 844.9 

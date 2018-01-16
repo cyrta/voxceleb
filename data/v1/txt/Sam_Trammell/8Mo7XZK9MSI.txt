@@ -1,0 +1,9 @@
+POI: 			Sam_Trammell 
+Youtube ID: 	8Mo7XZK9MSI 
+Video length: 	57.7 sec 
+Set (V): 		dev 
+ 
+Sam_Trammell/8Mo7XZK9MSI_0000001 12.0 18.2 
+Sam_Trammell/8Mo7XZK9MSI_0000002 21.1 25.1 
+Sam_Trammell/8Mo7XZK9MSI_0000003 25.6 35.9 
+Sam_Trammell/8Mo7XZK9MSI_0000004 36.1 46.8 

@@ -1,0 +1,10 @@
+POI: 			Cote_de_Pablo 
+Youtube ID: 	voeW2uBTzLk 
+Video length: 	192.7 sec 
+Set (V): 		dev 
+ 
+Cote_de_Pablo/voeW2uBTzLk_0000001 25.9 37.9 
+Cote_de_Pablo/voeW2uBTzLk_0000002 38.5 61.2 
+Cote_de_Pablo/voeW2uBTzLk_0000003 165.4 171.6 
+Cote_de_Pablo/voeW2uBTzLk_0000004 172.6 177.4 
+Cote_de_Pablo/voeW2uBTzLk_0000005 182.2 186.3 

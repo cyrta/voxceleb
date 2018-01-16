@@ -1,0 +1,12 @@
+POI: 			Candice_Patton 
+Youtube ID: 	5cCOrJUBaug 
+Video length: 	312.9 sec 
+Set (V): 		dev 
+ 
+Candice_Patton/5cCOrJUBaug_0000001 17.0 22.6 
+Candice_Patton/5cCOrJUBaug_0000002 25.5 53.8 
+Candice_Patton/5cCOrJUBaug_0000003 54.2 63.8 
+Candice_Patton/5cCOrJUBaug_0000004 72.2 108.3 
+Candice_Patton/5cCOrJUBaug_0000005 144.7 149.6 
+Candice_Patton/5cCOrJUBaug_0000006 237.9 262.3 
+Candice_Patton/5cCOrJUBaug_0000007 263.4 301.2 

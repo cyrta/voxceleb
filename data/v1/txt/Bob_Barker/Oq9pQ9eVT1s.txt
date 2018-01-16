@@ -1,0 +1,8 @@
+POI: 			Bob_Barker 
+Youtube ID: 	Oq9pQ9eVT1s 
+Video length: 	97.2 sec 
+Set (V): 		dev 
+ 
+Bob_Barker/Oq9pQ9eVT1s_0000001 08.8 12.7 
+Bob_Barker/Oq9pQ9eVT1s_0000002 13.9 27.2 
+Bob_Barker/Oq9pQ9eVT1s_0000003 50.1 86.0 

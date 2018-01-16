@@ -1,0 +1,41 @@
+POI: 			Karla_Souza 
+Youtube ID: 	tf35jUK3IqU 
+Video length: 	659.4 sec 
+Set (V): 		dev 
+ 
+Karla_Souza/tf35jUK3IqU_0000001 17.5 25.6 
+Karla_Souza/tf35jUK3IqU_0000002 26.0 34.0 
+Karla_Souza/tf35jUK3IqU_0000003 38.8 49.1 
+Karla_Souza/tf35jUK3IqU_0000004 50.2 54.6 
+Karla_Souza/tf35jUK3IqU_0000005 55.9 61.3 
+Karla_Souza/tf35jUK3IqU_0000006 69.5 77.9 
+Karla_Souza/tf35jUK3IqU_0000007 95.0 102.2 
+Karla_Souza/tf35jUK3IqU_0000008 111.3 119.0 
+Karla_Souza/tf35jUK3IqU_0000009 119.6 125.8 
+Karla_Souza/tf35jUK3IqU_0000010 129.4 143.6 
+Karla_Souza/tf35jUK3IqU_0000011 144.6 154.0 
+Karla_Souza/tf35jUK3IqU_0000012 156.8 160.9 
+Karla_Souza/tf35jUK3IqU_0000013 169.0 173.7 
+Karla_Souza/tf35jUK3IqU_0000014 174.0 180.2 
+Karla_Souza/tf35jUK3IqU_0000015 180.5 186.8 
+Karla_Souza/tf35jUK3IqU_0000016 321.8 328.4 
+Karla_Souza/tf35jUK3IqU_0000017 331.7 370.4 
+Karla_Souza/tf35jUK3IqU_0000018 370.6 382.3 
+Karla_Souza/tf35jUK3IqU_0000019 386.0 393.4 
+Karla_Souza/tf35jUK3IqU_0000020 394.0 400.8 
+Karla_Souza/tf35jUK3IqU_0000021 461.0 468.3 
+Karla_Souza/tf35jUK3IqU_0000022 474.9 483.6 
+Karla_Souza/tf35jUK3IqU_0000023 484.6 495.0 
+Karla_Souza/tf35jUK3IqU_0000024 496.2 506.7 
+Karla_Souza/tf35jUK3IqU_0000025 507.2 512.5 
+Karla_Souza/tf35jUK3IqU_0000026 515.2 519.6 
+Karla_Souza/tf35jUK3IqU_0000027 520.5 529.0 
+Karla_Souza/tf35jUK3IqU_0000028 529.2 540.1 
+Karla_Souza/tf35jUK3IqU_0000029 543.8 549.4 
+Karla_Souza/tf35jUK3IqU_0000030 549.6 555.5 
+Karla_Souza/tf35jUK3IqU_0000031 560.5 570.1 
+Karla_Souza/tf35jUK3IqU_0000032 574.3 578.7 
+Karla_Souza/tf35jUK3IqU_0000033 583.3 592.2 
+Karla_Souza/tf35jUK3IqU_0000034 593.2 597.3 
+Karla_Souza/tf35jUK3IqU_0000035 598.4 604.9 
+Karla_Souza/tf35jUK3IqU_0000036 619.9 630.6 

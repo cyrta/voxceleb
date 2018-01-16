@@ -1,0 +1,9 @@
+POI: 			Stephen_Merchant 
+Youtube ID: 	NxXE5DzybTI 
+Video length: 	765.3 sec 
+Set (V): 		dev 
+ 
+Stephen_Merchant/NxXE5DzybTI_0000001 169.3 173.7 
+Stephen_Merchant/NxXE5DzybTI_0000002 357.2 362.0 
+Stephen_Merchant/NxXE5DzybTI_0000003 494.0 503.2 
+Stephen_Merchant/NxXE5DzybTI_0000004 703.4 707.6 

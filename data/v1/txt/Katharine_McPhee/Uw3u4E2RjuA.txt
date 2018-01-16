@@ -1,0 +1,19 @@
+POI: 			Katharine_McPhee 
+Youtube ID: 	Uw3u4E2RjuA 
+Video length: 	380.2 sec 
+Set (V): 		dev 
+ 
+Katharine_McPhee/Uw3u4E2RjuA_0000001 20.8 29.8 
+Katharine_McPhee/Uw3u4E2RjuA_0000002 74.1 90.4 
+Katharine_McPhee/Uw3u4E2RjuA_0000003 127.9 132.0 
+Katharine_McPhee/Uw3u4E2RjuA_0000004 158.2 164.6 
+Katharine_McPhee/Uw3u4E2RjuA_0000005 180.0 195.1 
+Katharine_McPhee/Uw3u4E2RjuA_0000006 212.0 225.3 
+Katharine_McPhee/Uw3u4E2RjuA_0000007 230.8 250.4 
+Katharine_McPhee/Uw3u4E2RjuA_0000008 259.2 272.9 
+Katharine_McPhee/Uw3u4E2RjuA_0000009 270.0 274.4 
+Katharine_McPhee/Uw3u4E2RjuA_0000010 285.1 301.8 
+Katharine_McPhee/Uw3u4E2RjuA_0000011 302.8 312.5 
+Katharine_McPhee/Uw3u4E2RjuA_0000012 312.9 329.6 
+Katharine_McPhee/Uw3u4E2RjuA_0000013 343.0 363.5 
+Katharine_McPhee/Uw3u4E2RjuA_0000014 364.9 370.2 

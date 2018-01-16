@@ -1,0 +1,8 @@
+POI: 			Sam_Neill 
+Youtube ID: 	i0H01miS64M 
+Video length: 	293.0 sec 
+Set (V): 		dev 
+ 
+Sam_Neill/i0H01miS64M_0000001 19.1 26.2 
+Sam_Neill/i0H01miS64M_0000002 98.2 102.3 
+Sam_Neill/i0H01miS64M_0000003 103.0 108.4 

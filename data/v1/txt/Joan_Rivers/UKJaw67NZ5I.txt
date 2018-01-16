@@ -1,0 +1,11 @@
+POI: 			Joan_Rivers 
+Youtube ID: 	UKJaw67NZ5I 
+Video length: 	598.0 sec 
+Set (V): 		dev 
+ 
+Joan_Rivers/UKJaw67NZ5I_0000001 138.4 144.1 
+Joan_Rivers/UKJaw67NZ5I_0000002 173.4 179.9 
+Joan_Rivers/UKJaw67NZ5I_0000003 187.1 196.7 
+Joan_Rivers/UKJaw67NZ5I_0000004 238.7 243.8 
+Joan_Rivers/UKJaw67NZ5I_0000005 292.1 297.1 
+Joan_Rivers/UKJaw67NZ5I_0000006 307.2 314.2 

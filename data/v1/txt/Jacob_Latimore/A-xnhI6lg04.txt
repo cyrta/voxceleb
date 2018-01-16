@@ -1,0 +1,12 @@
+POI: 			Jacob_Latimore 
+Youtube ID: 	A-xnhI6lg04 
+Video length: 	464.8 sec 
+Set (V): 		dev 
+ 
+Jacob_Latimore/A-xnhI6lg04_0000001 71.2 83.2 
+Jacob_Latimore/A-xnhI6lg04_0000002 83.7 88.1 
+Jacob_Latimore/A-xnhI6lg04_0000003 93.7 101.1 
+Jacob_Latimore/A-xnhI6lg04_0000004 139.8 147.2 
+Jacob_Latimore/A-xnhI6lg04_0000005 172.2 177.6 
+Jacob_Latimore/A-xnhI6lg04_0000006 202.4 207.2 
+Jacob_Latimore/A-xnhI6lg04_0000007 311.2 316.9 

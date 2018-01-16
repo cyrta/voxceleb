@@ -1,0 +1,46 @@
+POI: 			Natalie_Dormer 
+Youtube ID: 	G3QojmXtMM4 
+Video length: 	1229.9 sec 
+Set (V): 		dev 
+ 
+Natalie_Dormer/G3QojmXtMM4_0000001 26.7 37.4 
+Natalie_Dormer/G3QojmXtMM4_0000002 38.3 42.8 
+Natalie_Dormer/G3QojmXtMM4_0000003 55.4 69.2 
+Natalie_Dormer/G3QojmXtMM4_0000004 111.2 116.6 
+Natalie_Dormer/G3QojmXtMM4_0000005 153.7 161.8 
+Natalie_Dormer/G3QojmXtMM4_0000006 165.4 170.4 
+Natalie_Dormer/G3QojmXtMM4_0000007 191.5 198.6 
+Natalie_Dormer/G3QojmXtMM4_0000008 207.9 231.1 
+Natalie_Dormer/G3QojmXtMM4_0000009 233.2 240.8 
+Natalie_Dormer/G3QojmXtMM4_0000010 255.0 264.4 
+Natalie_Dormer/G3QojmXtMM4_0000011 287.8 305.0 
+Natalie_Dormer/G3QojmXtMM4_0000012 306.6 311.7 
+Natalie_Dormer/G3QojmXtMM4_0000013 314.0 322.0 
+Natalie_Dormer/G3QojmXtMM4_0000014 369.4 385.8 
+Natalie_Dormer/G3QojmXtMM4_0000015 387.2 392.2 
+Natalie_Dormer/G3QojmXtMM4_0000016 397.1 402.1 
+Natalie_Dormer/G3QojmXtMM4_0000017 417.3 424.4 
+Natalie_Dormer/G3QojmXtMM4_0000018 445.4 451.6 
+Natalie_Dormer/G3QojmXtMM4_0000019 458.1 464.2 
+Natalie_Dormer/G3QojmXtMM4_0000020 464.4 469.1 
+Natalie_Dormer/G3QojmXtMM4_0000021 469.9 482.3 
+Natalie_Dormer/G3QojmXtMM4_0000022 484.6 490.1 
+Natalie_Dormer/G3QojmXtMM4_0000023 500.8 506.2 
+Natalie_Dormer/G3QojmXtMM4_0000024 521.1 527.6 
+Natalie_Dormer/G3QojmXtMM4_0000025 556.0 561.5 
+Natalie_Dormer/G3QojmXtMM4_0000026 638.7 654.8 
+Natalie_Dormer/G3QojmXtMM4_0000027 659.8 664.5 
+Natalie_Dormer/G3QojmXtMM4_0000028 714.2 728.2 
+Natalie_Dormer/G3QojmXtMM4_0000029 749.9 754.8 
+Natalie_Dormer/G3QojmXtMM4_0000030 772.5 779.0 
+Natalie_Dormer/G3QojmXtMM4_0000031 823.5 832.8 
+Natalie_Dormer/G3QojmXtMM4_0000032 837.7 844.4 
+Natalie_Dormer/G3QojmXtMM4_0000033 837.0 844.4 
+Natalie_Dormer/G3QojmXtMM4_0000034 935.8 939.7 
+Natalie_Dormer/G3QojmXtMM4_0000035 977.6 984.6 
+Natalie_Dormer/G3QojmXtMM4_0000036 1033.8 1065.4 
+Natalie_Dormer/G3QojmXtMM4_0000037 1074.0 1083.8 
+Natalie_Dormer/G3QojmXtMM4_0000038 1139.5 1145.3 
+Natalie_Dormer/G3QojmXtMM4_0000039 1165.7 1171.0 
+Natalie_Dormer/G3QojmXtMM4_0000040 1191.5 1200.4 
+Natalie_Dormer/G3QojmXtMM4_0000041 1208.5 1212.6 

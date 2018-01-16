@@ -1,0 +1,14 @@
+POI: 			Janeane_Garofalo 
+Youtube ID: 	t7N-KiJD2kE 
+Video length: 	307.9 sec 
+Set (V): 		dev 
+ 
+Janeane_Garofalo/t7N-KiJD2kE_0000001 54.8 58.9 
+Janeane_Garofalo/t7N-KiJD2kE_0000002 75.0 90.5 
+Janeane_Garofalo/t7N-KiJD2kE_0000003 91.6 99.5 
+Janeane_Garofalo/t7N-KiJD2kE_0000004 152.4 158.1 
+Janeane_Garofalo/t7N-KiJD2kE_0000005 168.4 174.8 
+Janeane_Garofalo/t7N-KiJD2kE_0000006 193.4 197.5 
+Janeane_Garofalo/t7N-KiJD2kE_0000007 199.5 204.2 
+Janeane_Garofalo/t7N-KiJD2kE_0000008 225.8 230.9 
+Janeane_Garofalo/t7N-KiJD2kE_0000009 293.1 300.9 

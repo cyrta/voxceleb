@@ -1,0 +1,6 @@
+POI: 			Amy_Schumer 
+Youtube ID: 	0nmNcnBybAE 
+Video length: 	383.3 sec 
+Set (V): 		dev 
+ 
+Amy_Schumer/0nmNcnBybAE_0000001 66.9 86.5 

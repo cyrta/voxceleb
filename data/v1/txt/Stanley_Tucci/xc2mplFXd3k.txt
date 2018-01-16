@@ -1,0 +1,9 @@
+POI: 			Stanley_Tucci 
+Youtube ID: 	xc2mplFXd3k 
+Video length: 	2281.3 sec 
+Set (V): 		dev 
+ 
+Stanley_Tucci/xc2mplFXd3k_0000001 389.0 394.2 
+Stanley_Tucci/xc2mplFXd3k_0000002 1128.1 1133.8 
+Stanley_Tucci/xc2mplFXd3k_0000003 1142.0 1150.3 
+Stanley_Tucci/xc2mplFXd3k_0000004 1156.7 1161.4 

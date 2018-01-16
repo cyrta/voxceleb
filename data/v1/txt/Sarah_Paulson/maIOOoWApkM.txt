@@ -1,0 +1,7 @@
+POI: 			Sarah_Paulson 
+Youtube ID: 	maIOOoWApkM 
+Video length: 	690.7 sec 
+Set (V): 		dev 
+ 
+Sarah_Paulson/maIOOoWApkM_0000001 297.7 303.9 
+Sarah_Paulson/maIOOoWApkM_0000002 495.0 507.7 

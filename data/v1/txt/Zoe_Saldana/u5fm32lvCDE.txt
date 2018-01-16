@@ -1,0 +1,11 @@
+POI: 			Zoe_Saldana 
+Youtube ID: 	u5fm32lvCDE 
+Video length: 	427.2 sec 
+Set (V): 		dev 
+ 
+Zoe_Saldana/u5fm32lvCDE_0000001 27.4 33.5 
+Zoe_Saldana/u5fm32lvCDE_0000002 53.0 57.5 
+Zoe_Saldana/u5fm32lvCDE_0000003 185.8 193.1 
+Zoe_Saldana/u5fm32lvCDE_0000004 193.9 199.1 
+Zoe_Saldana/u5fm32lvCDE_0000005 201.5 207.7 
+Zoe_Saldana/u5fm32lvCDE_0000006 218.2 223.8 

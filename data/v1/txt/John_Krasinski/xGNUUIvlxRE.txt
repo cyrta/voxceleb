@@ -1,0 +1,8 @@
+POI: 			John_Krasinski 
+Youtube ID: 	xGNUUIvlxRE 
+Video length: 	268.9 sec 
+Set (V): 		dev 
+ 
+John_Krasinski/xGNUUIvlxRE_0000001 166.2 170.2 
+John_Krasinski/xGNUUIvlxRE_0000002 171.2 188.6 
+John_Krasinski/xGNUUIvlxRE_0000003 188.7 197.0 

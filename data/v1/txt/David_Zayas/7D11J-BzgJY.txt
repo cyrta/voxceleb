@@ -1,0 +1,9 @@
+POI: 			David_Zayas 
+Youtube ID: 	7D11J-BzgJY 
+Video length: 	112.5 sec 
+Set (V): 		dev 
+ 
+David_Zayas/7D11J-BzgJY_0000001 70.3 74.3 
+David_Zayas/7D11J-BzgJY_0000002 75.0 79.8 
+David_Zayas/7D11J-BzgJY_0000003 80.0 84.8 
+David_Zayas/7D11J-BzgJY_0000004 85.8 99.0 

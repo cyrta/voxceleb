@@ -1,0 +1,13 @@
+POI: 			Colin_Donnell 
+Youtube ID: 	dayYnmiq2ug 
+Video length: 	265.4 sec 
+Set (V): 		dev 
+ 
+Colin_Donnell/dayYnmiq2ug_0000001 50.0 54.6 
+Colin_Donnell/dayYnmiq2ug_0000002 55.1 67.4 
+Colin_Donnell/dayYnmiq2ug_0000003 104.8 125.1 
+Colin_Donnell/dayYnmiq2ug_0000004 148.0 157.9 
+Colin_Donnell/dayYnmiq2ug_0000005 158.2 174.9 
+Colin_Donnell/dayYnmiq2ug_0000006 212.7 217.4 
+Colin_Donnell/dayYnmiq2ug_0000007 218.5 223.6 
+Colin_Donnell/dayYnmiq2ug_0000008 224.3 229.7 

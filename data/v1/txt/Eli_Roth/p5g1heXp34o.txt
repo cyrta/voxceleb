@@ -1,0 +1,15 @@
+POI: 			Eli_Roth 
+Youtube ID: 	p5g1heXp34o 
+Video length: 	271.0 sec 
+Set (V): 		test 
+ 
+Eli_Roth/p5g1heXp34o_0000001 14.6 31.0 
+Eli_Roth/p5g1heXp34o_0000002 36.7 94.2 
+Eli_Roth/p5g1heXp34o_0000003 106.3 125.7 
+Eli_Roth/p5g1heXp34o_0000004 125.9 138.4 
+Eli_Roth/p5g1heXp34o_0000005 149.6 157.8 
+Eli_Roth/p5g1heXp34o_0000006 161.0 168.6 
+Eli_Roth/p5g1heXp34o_0000007 168.8 180.4 
+Eli_Roth/p5g1heXp34o_0000008 182.7 200.2 
+Eli_Roth/p5g1heXp34o_0000009 201.0 225.1 
+Eli_Roth/p5g1heXp34o_0000010 225.8 235.7 

@@ -1,0 +1,13 @@
+POI: 			Alexandra_Daddario 
+Youtube ID: 	nF24FJjgd2A 
+Video length: 	243.4 sec 
+Set (V): 		dev 
+ 
+Alexandra_Daddario/nF24FJjgd2A_0000001 55.2 62.7 
+Alexandra_Daddario/nF24FJjgd2A_0000002 69.2 79.1 
+Alexandra_Daddario/nF24FJjgd2A_0000003 89.1 93.7 
+Alexandra_Daddario/nF24FJjgd2A_0000004 112.5 122.0 
+Alexandra_Daddario/nF24FJjgd2A_0000005 122.3 136.2 
+Alexandra_Daddario/nF24FJjgd2A_0000006 149.0 165.8 
+Alexandra_Daddario/nF24FJjgd2A_0000007 171.3 185.3 
+Alexandra_Daddario/nF24FJjgd2A_0000008 209.0 219.9 

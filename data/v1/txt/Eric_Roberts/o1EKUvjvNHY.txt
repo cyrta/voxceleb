@@ -1,0 +1,15 @@
+POI: 			Eric_Roberts 
+Youtube ID: 	o1EKUvjvNHY 
+Video length: 	310.2 sec 
+Set (V): 		test 
+ 
+Eric_Roberts/o1EKUvjvNHY_0000001 64.1 72.6 
+Eric_Roberts/o1EKUvjvNHY_0000002 75.6 83.2 
+Eric_Roberts/o1EKUvjvNHY_0000003 85.8 91.2 
+Eric_Roberts/o1EKUvjvNHY_0000004 149.2 153.2 
+Eric_Roberts/o1EKUvjvNHY_0000005 157.7 163.1 
+Eric_Roberts/o1EKUvjvNHY_0000006 177.9 183.0 
+Eric_Roberts/o1EKUvjvNHY_0000007 198.2 205.8 
+Eric_Roberts/o1EKUvjvNHY_0000008 218.5 231.3 
+Eric_Roberts/o1EKUvjvNHY_0000009 236.8 241.1 
+Eric_Roberts/o1EKUvjvNHY_0000010 252.3 256.9 

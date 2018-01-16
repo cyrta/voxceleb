@@ -1,0 +1,8 @@
+POI: 			Mary_McDonnell 
+Youtube ID: 	lIeF-u4tCpw 
+Video length: 	72.1 sec 
+Set (V): 		dev 
+ 
+Mary_McDonnell/lIeF-u4tCpw_0000001 06.0 11.2 
+Mary_McDonnell/lIeF-u4tCpw_0000002 13.2 19.5 
+Mary_McDonnell/lIeF-u4tCpw_0000003 56.0 69.8 

@@ -1,0 +1,20 @@
+POI: 			Marc_Webb 
+Youtube ID: 	5bngNSXQuoQ 
+Video length: 	537.9 sec 
+Set (V): 		dev 
+ 
+Marc_Webb/5bngNSXQuoQ_0000001 75.3 80.0 
+Marc_Webb/5bngNSXQuoQ_0000002 82.2 88.5 
+Marc_Webb/5bngNSXQuoQ_0000003 96.6 102.6 
+Marc_Webb/5bngNSXQuoQ_0000004 103.7 109.7 
+Marc_Webb/5bngNSXQuoQ_0000005 124.4 133.8 
+Marc_Webb/5bngNSXQuoQ_0000006 154.1 159.6 
+Marc_Webb/5bngNSXQuoQ_0000007 171.5 177.3 
+Marc_Webb/5bngNSXQuoQ_0000008 180.1 185.2 
+Marc_Webb/5bngNSXQuoQ_0000009 344.2 349.1 
+Marc_Webb/5bngNSXQuoQ_0000010 350.2 354.7 
+Marc_Webb/5bngNSXQuoQ_0000011 352.7 357.6 
+Marc_Webb/5bngNSXQuoQ_0000012 360.8 373.7 
+Marc_Webb/5bngNSXQuoQ_0000013 375.4 379.6 
+Marc_Webb/5bngNSXQuoQ_0000014 436.7 441.7 
+Marc_Webb/5bngNSXQuoQ_0000015 442.1 448.4 

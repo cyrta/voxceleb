@@ -1,0 +1,8 @@
+POI: 			Tim_Burton 
+Youtube ID: 	Cl6ymkucHAs 
+Video length: 	223.9 sec 
+Set (V): 		dev 
+ 
+Tim_Burton/Cl6ymkucHAs_0000001 23.0 29.2 
+Tim_Burton/Cl6ymkucHAs_0000002 144.1 148.3 
+Tim_Burton/Cl6ymkucHAs_0000003 183.9 188.7 

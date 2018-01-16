@@ -1,0 +1,11 @@
+POI: 			Jai_Courtney 
+Youtube ID: 	SsVylETXptc 
+Video length: 	329.4 sec 
+Set (V): 		dev 
+ 
+Jai_Courtney/SsVylETXptc_0000001 73.9 92.8 
+Jai_Courtney/SsVylETXptc_0000002 127.3 133.9 
+Jai_Courtney/SsVylETXptc_0000003 177.9 182.4 
+Jai_Courtney/SsVylETXptc_0000004 230.0 236.0 
+Jai_Courtney/SsVylETXptc_0000005 286.4 295.3 
+Jai_Courtney/SsVylETXptc_0000006 296.3 300.5 

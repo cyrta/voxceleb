@@ -1,0 +1,15 @@
+POI: 			David_Morrissey 
+Youtube ID: 	A2byah01VPg 
+Video length: 	265.9 sec 
+Set (V): 		dev 
+ 
+David_Morrissey/A2byah01VPg_0000001 56.3 82.7 
+David_Morrissey/A2byah01VPg_0000002 87.6 106.1 
+David_Morrissey/A2byah01VPg_0000003 114.7 120.1 
+David_Morrissey/A2byah01VPg_0000004 129.2 138.0 
+David_Morrissey/A2byah01VPg_0000005 140.7 157.5 
+David_Morrissey/A2byah01VPg_0000006 165.3 169.6 
+David_Morrissey/A2byah01VPg_0000007 191.8 202.2 
+David_Morrissey/A2byah01VPg_0000008 212.8 218.6 
+David_Morrissey/A2byah01VPg_0000009 221.2 244.8 
+David_Morrissey/A2byah01VPg_0000010 246.1 251.6 

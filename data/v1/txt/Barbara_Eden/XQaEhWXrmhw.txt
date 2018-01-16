@@ -1,0 +1,12 @@
+POI: 			Barbara_Eden 
+Youtube ID: 	XQaEhWXrmhw 
+Video length: 	616.9 sec 
+Set (V): 		dev 
+ 
+Barbara_Eden/XQaEhWXrmhw_0000001 138.5 143.1 
+Barbara_Eden/XQaEhWXrmhw_0000002 176.4 183.7 
+Barbara_Eden/XQaEhWXrmhw_0000003 293.9 300.0 
+Barbara_Eden/XQaEhWXrmhw_0000004 345.7 350.3 
+Barbara_Eden/XQaEhWXrmhw_0000005 373.2 380.1 
+Barbara_Eden/XQaEhWXrmhw_0000006 392.2 397.0 
+Barbara_Eden/XQaEhWXrmhw_0000007 407.0 426.0 

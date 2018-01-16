@@ -1,0 +1,22 @@
+POI: 			Miranda_Richardson 
+Youtube ID: 	58nN00hr508 
+Video length: 	298.2 sec 
+Set (V): 		dev 
+ 
+Miranda_Richardson/58nN00hr508_0000001 18.6 23.8 
+Miranda_Richardson/58nN00hr508_0000002 28.2 32.8 
+Miranda_Richardson/58nN00hr508_0000003 51.1 55.2 
+Miranda_Richardson/58nN00hr508_0000004 58.1 66.4 
+Miranda_Richardson/58nN00hr508_0000005 71.4 75.5 
+Miranda_Richardson/58nN00hr508_0000006 76.0 80.2 
+Miranda_Richardson/58nN00hr508_0000007 82.3 86.5 
+Miranda_Richardson/58nN00hr508_0000008 87.1 97.7 
+Miranda_Richardson/58nN00hr508_0000009 115.8 128.8 
+Miranda_Richardson/58nN00hr508_0000010 141.3 147.3 
+Miranda_Richardson/58nN00hr508_0000011 160.2 187.7 
+Miranda_Richardson/58nN00hr508_0000012 189.7 195.8 
+Miranda_Richardson/58nN00hr508_0000013 196.7 200.9 
+Miranda_Richardson/58nN00hr508_0000014 217.3 226.2 
+Miranda_Richardson/58nN00hr508_0000015 228.3 242.5 
+Miranda_Richardson/58nN00hr508_0000016 247.0 252.8 
+Miranda_Richardson/58nN00hr508_0000017 272.2 286.5 

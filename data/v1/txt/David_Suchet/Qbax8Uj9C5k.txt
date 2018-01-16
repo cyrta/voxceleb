@@ -1,0 +1,9 @@
+POI: 			David_Suchet 
+Youtube ID: 	Qbax8Uj9C5k 
+Video length: 	102.8 sec 
+Set (V): 		dev 
+ 
+David_Suchet/Qbax8Uj9C5k_0000001 08.4 13.2 
+David_Suchet/Qbax8Uj9C5k_0000002 44.7 52.6 
+David_Suchet/Qbax8Uj9C5k_0000003 73.0 78.5 
+David_Suchet/Qbax8Uj9C5k_0000004 89.4 95.4 

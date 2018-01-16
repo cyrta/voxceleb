@@ -1,0 +1,8 @@
+POI: 			Ryan_Kwanten 
+Youtube ID: 	BaaptWEOQBc 
+Video length: 	124.7 sec 
+Set (V): 		dev 
+ 
+Ryan_Kwanten/BaaptWEOQBc_0000001 51.2 55.2 
+Ryan_Kwanten/BaaptWEOQBc_0000002 65.0 70.4 
+Ryan_Kwanten/BaaptWEOQBc_0000003 96.8 103.2 

@@ -1,0 +1,10 @@
+POI: 			Brett_Davern 
+Youtube ID: 	F_LzPRjwV_0 
+Video length: 	123.7 sec 
+Set (V): 		dev 
+ 
+Brett_Davern/F_LzPRjwV_0_0000001 22.9 28.2 
+Brett_Davern/F_LzPRjwV_0_0000002 29.0 36.0 
+Brett_Davern/F_LzPRjwV_0_0000003 37.3 47.4 
+Brett_Davern/F_LzPRjwV_0_0000004 57.1 62.2 
+Brett_Davern/F_LzPRjwV_0_0000005 106.9 115.3 

@@ -1,0 +1,16 @@
+POI: 			Jennifer_Saunders 
+Youtube ID: 	AvrggYMZD10 
+Video length: 	1009.3 sec 
+Set (V): 		dev 
+ 
+Jennifer_Saunders/AvrggYMZD10_0000001 393.4 398.4 
+Jennifer_Saunders/AvrggYMZD10_0000002 415.6 420.7 
+Jennifer_Saunders/AvrggYMZD10_0000003 467.6 472.8 
+Jennifer_Saunders/AvrggYMZD10_0000004 523.9 529.0 
+Jennifer_Saunders/AvrggYMZD10_0000005 555.8 560.2 
+Jennifer_Saunders/AvrggYMZD10_0000006 658.6 664.6 
+Jennifer_Saunders/AvrggYMZD10_0000007 754.4 758.8 
+Jennifer_Saunders/AvrggYMZD10_0000008 771.0 779.2 
+Jennifer_Saunders/AvrggYMZD10_0000009 785.8 796.8 
+Jennifer_Saunders/AvrggYMZD10_0000010 843.3 851.4 
+Jennifer_Saunders/AvrggYMZD10_0000011 911.2 918.8 

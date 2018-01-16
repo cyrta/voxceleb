@@ -1,0 +1,9 @@
+POI: 			Eleanor_Tomlinson 
+Youtube ID: 	Tf6tGc30MVM 
+Video length: 	314.3 sec 
+Set (V): 		test 
+ 
+Eleanor_Tomlinson/Tf6tGc30MVM_0000001 121.3 125.2 
+Eleanor_Tomlinson/Tf6tGc30MVM_0000002 125.5 132.1 
+Eleanor_Tomlinson/Tf6tGc30MVM_0000003 213.0 220.0 
+Eleanor_Tomlinson/Tf6tGc30MVM_0000004 280.7 296.6 

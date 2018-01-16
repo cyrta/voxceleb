@@ -1,0 +1,15 @@
+POI: 			Jeffrey_Tambor 
+Youtube ID: 	8Bto4IColtU 
+Video length: 	185.7 sec 
+Set (V): 		dev 
+ 
+Jeffrey_Tambor/8Bto4IColtU_0000001 12.5 29.9 
+Jeffrey_Tambor/8Bto4IColtU_0000002 30.1 34.4 
+Jeffrey_Tambor/8Bto4IColtU_0000003 69.1 74.7 
+Jeffrey_Tambor/8Bto4IColtU_0000004 91.8 96.6 
+Jeffrey_Tambor/8Bto4IColtU_0000005 98.0 102.7 
+Jeffrey_Tambor/8Bto4IColtU_0000006 127.6 132.1 
+Jeffrey_Tambor/8Bto4IColtU_0000007 132.2 137.3 
+Jeffrey_Tambor/8Bto4IColtU_0000008 139.0 143.0 
+Jeffrey_Tambor/8Bto4IColtU_0000009 143.5 149.1 
+Jeffrey_Tambor/8Bto4IColtU_0000010 167.2 171.8 

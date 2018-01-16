@@ -1,0 +1,17 @@
+POI: 			Holliday_Grainger 
+Youtube ID: 	R9MnSbVgqjs 
+Video length: 	241.1 sec 
+Set (V): 		dev 
+ 
+Holliday_Grainger/R9MnSbVgqjs_0000001 14.8 24.4 
+Holliday_Grainger/R9MnSbVgqjs_0000002 29.5 37.1 
+Holliday_Grainger/R9MnSbVgqjs_0000003 51.0 56.0 
+Holliday_Grainger/R9MnSbVgqjs_0000004 56.5 63.9 
+Holliday_Grainger/R9MnSbVgqjs_0000005 86.4 92.0 
+Holliday_Grainger/R9MnSbVgqjs_0000006 93.0 103.2 
+Holliday_Grainger/R9MnSbVgqjs_0000007 105.8 113.1 
+Holliday_Grainger/R9MnSbVgqjs_0000008 143.3 148.4 
+Holliday_Grainger/R9MnSbVgqjs_0000009 174.1 179.0 
+Holliday_Grainger/R9MnSbVgqjs_0000010 182.1 186.2 
+Holliday_Grainger/R9MnSbVgqjs_0000011 210.2 215.9 
+Holliday_Grainger/R9MnSbVgqjs_0000012 218.2 225.8 

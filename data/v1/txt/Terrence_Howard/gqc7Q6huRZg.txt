@@ -1,0 +1,16 @@
+POI: 			Terrence_Howard 
+Youtube ID: 	gqc7Q6huRZg 
+Video length: 	211.6 sec 
+Set (V): 		dev 
+ 
+Terrence_Howard/gqc7Q6huRZg_0000001 21.3 35.0 
+Terrence_Howard/gqc7Q6huRZg_0000002 40.4 54.2 
+Terrence_Howard/gqc7Q6huRZg_0000003 55.3 63.2 
+Terrence_Howard/gqc7Q6huRZg_0000004 64.0 74.0 
+Terrence_Howard/gqc7Q6huRZg_0000005 92.4 100.5 
+Terrence_Howard/gqc7Q6huRZg_0000006 103.1 107.6 
+Terrence_Howard/gqc7Q6huRZg_0000007 108.3 122.6 
+Terrence_Howard/gqc7Q6huRZg_0000008 129.1 137.0 
+Terrence_Howard/gqc7Q6huRZg_0000009 145.2 154.8 
+Terrence_Howard/gqc7Q6huRZg_0000010 155.8 168.6 
+Terrence_Howard/gqc7Q6huRZg_0000011 175.4 208.9 

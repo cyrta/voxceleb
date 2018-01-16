@@ -1,0 +1,8 @@
+POI: 			Roma_Downey 
+Youtube ID: 	Lac6z5aKqTI 
+Video length: 	273.1 sec 
+Set (V): 		dev 
+ 
+Roma_Downey/Lac6z5aKqTI_0000001 82.4 86.8 
+Roma_Downey/Lac6z5aKqTI_0000002 113.9 118.0 
+Roma_Downey/Lac6z5aKqTI_0000003 237.6 249.9 

@@ -1,0 +1,12 @@
+POI: 			Matthew_Morrison 
+Youtube ID: 	9tFeMr459a8 
+Video length: 	225.3 sec 
+Set (V): 		dev 
+ 
+Matthew_Morrison/9tFeMr459a8_0000001 11.6 16.7 
+Matthew_Morrison/9tFeMr459a8_0000002 80.2 84.5 
+Matthew_Morrison/9tFeMr459a8_0000003 85.8 91.6 
+Matthew_Morrison/9tFeMr459a8_0000004 104.3 108.5 
+Matthew_Morrison/9tFeMr459a8_0000005 147.6 151.5 
+Matthew_Morrison/9tFeMr459a8_0000006 154.0 164.1 
+Matthew_Morrison/9tFeMr459a8_0000007 193.3 207.9 

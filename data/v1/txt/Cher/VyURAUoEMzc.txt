@@ -1,0 +1,8 @@
+POI: 			Cher 
+Youtube ID: 	VyURAUoEMzc 
+Video length: 	150.3 sec 
+Set (V): 		dev 
+ 
+Cher/VyURAUoEMzc_0000001 50.0 54.9 
+Cher/VyURAUoEMzc_0000002 95.6 102.0 
+Cher/VyURAUoEMzc_0000003 109.4 113.9 

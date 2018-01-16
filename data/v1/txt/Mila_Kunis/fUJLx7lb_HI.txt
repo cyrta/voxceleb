@@ -1,0 +1,22 @@
+POI: 			Mila_Kunis 
+Youtube ID: 	fUJLx7lb_HI 
+Video length: 	560.5 sec 
+Set (V): 		dev 
+ 
+Mila_Kunis/fUJLx7lb_HI_0000001 105.8 110.0 
+Mila_Kunis/fUJLx7lb_HI_0000002 167.4 186.6 
+Mila_Kunis/fUJLx7lb_HI_0000003 194.5 201.8 
+Mila_Kunis/fUJLx7lb_HI_0000004 215.0 223.8 
+Mila_Kunis/fUJLx7lb_HI_0000005 237.9 245.9 
+Mila_Kunis/fUJLx7lb_HI_0000006 279.2 284.5 
+Mila_Kunis/fUJLx7lb_HI_0000007 293.8 298.0 
+Mila_Kunis/fUJLx7lb_HI_0000008 304.4 309.5 
+Mila_Kunis/fUJLx7lb_HI_0000009 317.7 322.6 
+Mila_Kunis/fUJLx7lb_HI_0000010 338.6 344.0 
+Mila_Kunis/fUJLx7lb_HI_0000011 358.3 368.4 
+Mila_Kunis/fUJLx7lb_HI_0000012 414.6 420.0 
+Mila_Kunis/fUJLx7lb_HI_0000013 422.4 427.3 
+Mila_Kunis/fUJLx7lb_HI_0000014 478.9 490.5 
+Mila_Kunis/fUJLx7lb_HI_0000015 500.0 506.4 
+Mila_Kunis/fUJLx7lb_HI_0000016 507.2 512.3 
+Mila_Kunis/fUJLx7lb_HI_0000017 539.0 543.2 

@@ -1,0 +1,9 @@
+POI: 			Nathalie_Emmanuel 
+Youtube ID: 	Nrc7pA23i4Y 
+Video length: 	308.0 sec 
+Set (V): 		dev 
+ 
+Nathalie_Emmanuel/Nrc7pA23i4Y_0000001 60.9 66.2 
+Nathalie_Emmanuel/Nrc7pA23i4Y_0000002 91.9 99.6 
+Nathalie_Emmanuel/Nrc7pA23i4Y_0000003 127.7 135.7 
+Nathalie_Emmanuel/Nrc7pA23i4Y_0000004 278.9 283.2 

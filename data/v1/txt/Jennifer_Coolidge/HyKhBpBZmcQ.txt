@@ -1,0 +1,7 @@
+POI: 			Jennifer_Coolidge 
+Youtube ID: 	HyKhBpBZmcQ 
+Video length: 	94.9 sec 
+Set (V): 		dev 
+ 
+Jennifer_Coolidge/HyKhBpBZmcQ_0000001 27.2 35.8 
+Jennifer_Coolidge/HyKhBpBZmcQ_0000002 78.3 89.4 

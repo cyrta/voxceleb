@@ -1,0 +1,7 @@
+POI: 			Shane_West 
+Youtube ID: 	d_13_TZtaUM 
+Video length: 	204.3 sec 
+Set (V): 		dev 
+ 
+Shane_West/d_13_TZtaUM_0000001 34.9 40.6 
+Shane_West/d_13_TZtaUM_0000002 95.1 99.5 

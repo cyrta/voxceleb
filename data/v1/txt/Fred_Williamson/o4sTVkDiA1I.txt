@@ -1,0 +1,29 @@
+POI: 			Fred_Williamson 
+Youtube ID: 	o4sTVkDiA1I 
+Video length: 	2405.3 sec 
+Set (V): 		dev 
+ 
+Fred_Williamson/o4sTVkDiA1I_0000001 07.0 17.7 
+Fred_Williamson/o4sTVkDiA1I_0000002 156.7 161.2 
+Fred_Williamson/o4sTVkDiA1I_0000003 177.4 188.5 
+Fred_Williamson/o4sTVkDiA1I_0000004 221.2 225.4 
+Fred_Williamson/o4sTVkDiA1I_0000005 361.2 365.2 
+Fred_Williamson/o4sTVkDiA1I_0000006 411.3 416.6 
+Fred_Williamson/o4sTVkDiA1I_0000007 919.6 924.1 
+Fred_Williamson/o4sTVkDiA1I_0000008 962.8 967.1 
+Fred_Williamson/o4sTVkDiA1I_0000009 988.9 995.8 
+Fred_Williamson/o4sTVkDiA1I_0000010 1060.9 1067.9 
+Fred_Williamson/o4sTVkDiA1I_0000011 1146.1 1151.4 
+Fred_Williamson/o4sTVkDiA1I_0000012 1154.5 1160.4 
+Fred_Williamson/o4sTVkDiA1I_0000013 1301.6 1309.2 
+Fred_Williamson/o4sTVkDiA1I_0000014 1405.2 1409.9 
+Fred_Williamson/o4sTVkDiA1I_0000015 1412.9 1417.1 
+Fred_Williamson/o4sTVkDiA1I_0000016 1491.8 1497.8 
+Fred_Williamson/o4sTVkDiA1I_0000017 1510.4 1515.2 
+Fred_Williamson/o4sTVkDiA1I_0000018 1580.8 1585.7 
+Fred_Williamson/o4sTVkDiA1I_0000019 2251.2 2256.4 
+Fred_Williamson/o4sTVkDiA1I_0000020 2271.9 2276.5 
+Fred_Williamson/o4sTVkDiA1I_0000021 2278.2 2290.2 
+Fred_Williamson/o4sTVkDiA1I_0000022 2291.1 2299.6 
+Fred_Williamson/o4sTVkDiA1I_0000023 2300.4 2319.2 
+Fred_Williamson/o4sTVkDiA1I_0000024 2360.5 2366.0 

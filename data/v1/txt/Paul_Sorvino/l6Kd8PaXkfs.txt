@@ -1,0 +1,11 @@
+POI: 			Paul_Sorvino 
+Youtube ID: 	l6Kd8PaXkfs 
+Video length: 	330.9 sec 
+Set (V): 		dev 
+ 
+Paul_Sorvino/l6Kd8PaXkfs_0000001 21.6 26.2 
+Paul_Sorvino/l6Kd8PaXkfs_0000002 29.3 39.2 
+Paul_Sorvino/l6Kd8PaXkfs_0000003 126.1 131.4 
+Paul_Sorvino/l6Kd8PaXkfs_0000004 139.8 146.0 
+Paul_Sorvino/l6Kd8PaXkfs_0000005 153.2 158.4 
+Paul_Sorvino/l6Kd8PaXkfs_0000006 164.1 170.6 

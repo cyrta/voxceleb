@@ -1,0 +1,13 @@
+POI: 			Teri_Hatcher 
+Youtube ID: 	kvZbwRuCR2E 
+Video length: 	390.3 sec 
+Set (V): 		dev 
+ 
+Teri_Hatcher/kvZbwRuCR2E_0000001 58.6 65.2 
+Teri_Hatcher/kvZbwRuCR2E_0000002 69.2 74.8 
+Teri_Hatcher/kvZbwRuCR2E_0000003 79.9 93.2 
+Teri_Hatcher/kvZbwRuCR2E_0000004 230.5 235.4 
+Teri_Hatcher/kvZbwRuCR2E_0000005 286.1 291.2 
+Teri_Hatcher/kvZbwRuCR2E_0000006 292.2 299.3 
+Teri_Hatcher/kvZbwRuCR2E_0000007 305.9 312.5 
+Teri_Hatcher/kvZbwRuCR2E_0000008 374.7 384.5 

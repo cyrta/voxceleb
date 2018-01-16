@@ -1,0 +1,8 @@
+POI: 			Ryan_Phillippe 
+Youtube ID: 	Ra3XTQrE3V8 
+Video length: 	193.3 sec 
+Set (V): 		dev 
+ 
+Ryan_Phillippe/Ra3XTQrE3V8_0000001 106.5 118.0 
+Ryan_Phillippe/Ra3XTQrE3V8_0000002 142.0 160.9 
+Ryan_Phillippe/Ra3XTQrE3V8_0000003 178.3 191.8 

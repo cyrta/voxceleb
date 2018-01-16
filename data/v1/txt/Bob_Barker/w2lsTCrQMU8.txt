@@ -1,0 +1,7 @@
+POI: 			Bob_Barker 
+Youtube ID: 	w2lsTCrQMU8 
+Video length: 	209.8 sec 
+Set (V): 		dev 
+ 
+Bob_Barker/w2lsTCrQMU8_0000001 108.4 113.3 
+Bob_Barker/w2lsTCrQMU8_0000002 145.0 149.2 

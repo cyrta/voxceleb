@@ -1,0 +1,11 @@
+POI: 			Anthony_Anderson 
+Youtube ID: 	4afhAqDdYTs 
+Video length: 	208.3 sec 
+Set (V): 		dev 
+ 
+Anthony_Anderson/4afhAqDdYTs_0000001 59.6 74.5 
+Anthony_Anderson/4afhAqDdYTs_0000002 74.8 80.2 
+Anthony_Anderson/4afhAqDdYTs_0000003 126.6 132.6 
+Anthony_Anderson/4afhAqDdYTs_0000004 139.3 149.1 
+Anthony_Anderson/4afhAqDdYTs_0000005 171.2 175.8 
+Anthony_Anderson/4afhAqDdYTs_0000006 178.0 182.5 

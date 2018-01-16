@@ -1,0 +1,7 @@
+POI: 			Doutzen_Kroes 
+Youtube ID: 	kvbNABH7Vg4 
+Video length: 	470.1 sec 
+Set (V): 		dev 
+ 
+Doutzen_Kroes/kvbNABH7Vg4_0000001 269.1 273.8 
+Doutzen_Kroes/kvbNABH7Vg4_0000002 303.1 307.2 

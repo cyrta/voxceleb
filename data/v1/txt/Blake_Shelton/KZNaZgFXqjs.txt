@@ -1,0 +1,13 @@
+POI: 			Blake_Shelton 
+Youtube ID: 	KZNaZgFXqjs 
+Video length: 	613.0 sec 
+Set (V): 		dev 
+ 
+Blake_Shelton/KZNaZgFXqjs_0000001 113.6 118.0 
+Blake_Shelton/KZNaZgFXqjs_0000002 176.8 190.3 
+Blake_Shelton/KZNaZgFXqjs_0000003 235.4 240.6 
+Blake_Shelton/KZNaZgFXqjs_0000004 251.2 257.6 
+Blake_Shelton/KZNaZgFXqjs_0000005 349.8 359.0 
+Blake_Shelton/KZNaZgFXqjs_0000006 432.1 449.6 
+Blake_Shelton/KZNaZgFXqjs_0000007 538.0 543.2 
+Blake_Shelton/KZNaZgFXqjs_0000008 569.8 576.9 

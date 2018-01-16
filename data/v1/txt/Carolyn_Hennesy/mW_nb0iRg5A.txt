@@ -1,0 +1,9 @@
+POI: 			Carolyn_Hennesy 
+Youtube ID: 	mW_nb0iRg5A 
+Video length: 	408.7 sec 
+Set (V): 		dev 
+ 
+Carolyn_Hennesy/mW_nb0iRg5A_0000001 152.0 160.4 
+Carolyn_Hennesy/mW_nb0iRg5A_0000002 230.2 235.8 
+Carolyn_Hennesy/mW_nb0iRg5A_0000003 250.6 254.6 
+Carolyn_Hennesy/mW_nb0iRg5A_0000004 254.8 259.8 

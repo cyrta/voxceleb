@@ -1,0 +1,16 @@
+POI: 			Sam_Worthington 
+Youtube ID: 	DlKHRXhFKnA 
+Video length: 	316.6 sec 
+Set (V): 		dev 
+ 
+Sam_Worthington/DlKHRXhFKnA_0000001 33.9 40.7 
+Sam_Worthington/DlKHRXhFKnA_0000002 42.6 53.5 
+Sam_Worthington/DlKHRXhFKnA_0000003 75.4 80.7 
+Sam_Worthington/DlKHRXhFKnA_0000004 81.8 86.8 
+Sam_Worthington/DlKHRXhFKnA_0000005 87.8 95.9 
+Sam_Worthington/DlKHRXhFKnA_0000006 112.5 121.4 
+Sam_Worthington/DlKHRXhFKnA_0000007 121.6 126.2 
+Sam_Worthington/DlKHRXhFKnA_0000008 136.0 140.7 
+Sam_Worthington/DlKHRXhFKnA_0000009 225.0 229.5 
+Sam_Worthington/DlKHRXhFKnA_0000010 243.1 256.2 
+Sam_Worthington/DlKHRXhFKnA_0000011 256.4 261.1 

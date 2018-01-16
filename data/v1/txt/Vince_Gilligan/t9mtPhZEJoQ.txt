@@ -1,0 +1,38 @@
+POI: 			Vince_Gilligan 
+Youtube ID: 	t9mtPhZEJoQ 
+Video length: 	591.5 sec 
+Set (V): 		dev 
+ 
+Vince_Gilligan/t9mtPhZEJoQ_0000001 10.8 15.9 
+Vince_Gilligan/t9mtPhZEJoQ_0000002 17.5 24.9 
+Vince_Gilligan/t9mtPhZEJoQ_0000003 29.4 34.8 
+Vince_Gilligan/t9mtPhZEJoQ_0000004 35.2 40.1 
+Vince_Gilligan/t9mtPhZEJoQ_0000005 50.6 71.4 
+Vince_Gilligan/t9mtPhZEJoQ_0000006 76.4 82.6 
+Vince_Gilligan/t9mtPhZEJoQ_0000007 82.8 100.1 
+Vince_Gilligan/t9mtPhZEJoQ_0000008 100.8 118.4 
+Vince_Gilligan/t9mtPhZEJoQ_0000009 119.0 129.1 
+Vince_Gilligan/t9mtPhZEJoQ_0000010 129.4 136.0 
+Vince_Gilligan/t9mtPhZEJoQ_0000011 141.6 147.7 
+Vince_Gilligan/t9mtPhZEJoQ_0000012 150.9 162.7 
+Vince_Gilligan/t9mtPhZEJoQ_0000013 163.9 177.4 
+Vince_Gilligan/t9mtPhZEJoQ_0000014 180.1 189.3 
+Vince_Gilligan/t9mtPhZEJoQ_0000015 192.0 199.9 
+Vince_Gilligan/t9mtPhZEJoQ_0000016 204.2 208.2 
+Vince_Gilligan/t9mtPhZEJoQ_0000017 211.5 219.0 
+Vince_Gilligan/t9mtPhZEJoQ_0000018 223.1 237.5 
+Vince_Gilligan/t9mtPhZEJoQ_0000019 244.0 280.4 
+Vince_Gilligan/t9mtPhZEJoQ_0000020 286.2 292.9 
+Vince_Gilligan/t9mtPhZEJoQ_0000021 295.8 303.3 
+Vince_Gilligan/t9mtPhZEJoQ_0000022 325.6 359.2 
+Vince_Gilligan/t9mtPhZEJoQ_0000023 366.9 378.5 
+Vince_Gilligan/t9mtPhZEJoQ_0000024 380.9 389.2 
+Vince_Gilligan/t9mtPhZEJoQ_0000025 390.7 400.4 
+Vince_Gilligan/t9mtPhZEJoQ_0000026 401.2 415.5 
+Vince_Gilligan/t9mtPhZEJoQ_0000027 417.6 427.0 
+Vince_Gilligan/t9mtPhZEJoQ_0000028 430.0 434.9 
+Vince_Gilligan/t9mtPhZEJoQ_0000029 441.7 458.7 
+Vince_Gilligan/t9mtPhZEJoQ_0000030 459.8 472.3 
+Vince_Gilligan/t9mtPhZEJoQ_0000031 473.1 477.2 
+Vince_Gilligan/t9mtPhZEJoQ_0000032 568.1 577.4 
+Vince_Gilligan/t9mtPhZEJoQ_0000033 577.6 589.7 

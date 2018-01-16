@@ -1,0 +1,14 @@
+POI: 			Michelle_Dockery 
+Youtube ID: 	DN2hCXoR_4Y 
+Video length: 	294.3 sec 
+Set (V): 		dev 
+ 
+Michelle_Dockery/DN2hCXoR_4Y_0000001 32.4 37.8 
+Michelle_Dockery/DN2hCXoR_4Y_0000002 52.9 60.9 
+Michelle_Dockery/DN2hCXoR_4Y_0000003 65.0 89.0 
+Michelle_Dockery/DN2hCXoR_4Y_0000004 93.4 97.4 
+Michelle_Dockery/DN2hCXoR_4Y_0000005 102.4 112.5 
+Michelle_Dockery/DN2hCXoR_4Y_0000006 113.2 122.1 
+Michelle_Dockery/DN2hCXoR_4Y_0000007 126.2 131.2 
+Michelle_Dockery/DN2hCXoR_4Y_0000008 142.0 154.2 
+Michelle_Dockery/DN2hCXoR_4Y_0000009 168.9 178.0 

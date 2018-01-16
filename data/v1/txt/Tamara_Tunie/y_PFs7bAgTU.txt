@@ -1,0 +1,14 @@
+POI: 			Tamara_Tunie 
+Youtube ID: 	y_PFs7bAgTU 
+Video length: 	182.2 sec 
+Set (V): 		dev 
+ 
+Tamara_Tunie/y_PFs7bAgTU_0000001 13.5 25.8 
+Tamara_Tunie/y_PFs7bAgTU_0000002 26.7 33.2 
+Tamara_Tunie/y_PFs7bAgTU_0000003 35.5 63.7 
+Tamara_Tunie/y_PFs7bAgTU_0000004 68.2 83.7 
+Tamara_Tunie/y_PFs7bAgTU_0000005 84.6 89.2 
+Tamara_Tunie/y_PFs7bAgTU_0000006 89.6 94.6 
+Tamara_Tunie/y_PFs7bAgTU_0000007 101.8 107.4 
+Tamara_Tunie/y_PFs7bAgTU_0000008 128.2 135.6 
+Tamara_Tunie/y_PFs7bAgTU_0000009 156.6 168.5 

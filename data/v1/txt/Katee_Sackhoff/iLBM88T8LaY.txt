@@ -1,0 +1,14 @@
+POI: 			Katee_Sackhoff 
+Youtube ID: 	iLBM88T8LaY 
+Video length: 	293.3 sec 
+Set (V): 		dev 
+ 
+Katee_Sackhoff/iLBM88T8LaY_0000001 19.9 26.8 
+Katee_Sackhoff/iLBM88T8LaY_0000002 48.7 58.4 
+Katee_Sackhoff/iLBM88T8LaY_0000003 70.8 76.6 
+Katee_Sackhoff/iLBM88T8LaY_0000004 109.8 124.0 
+Katee_Sackhoff/iLBM88T8LaY_0000005 135.6 142.8 
+Katee_Sackhoff/iLBM88T8LaY_0000006 145.2 158.4 
+Katee_Sackhoff/iLBM88T8LaY_0000007 238.0 247.0 
+Katee_Sackhoff/iLBM88T8LaY_0000008 249.4 254.0 
+Katee_Sackhoff/iLBM88T8LaY_0000009 268.3 272.9 

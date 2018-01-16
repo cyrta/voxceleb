@@ -1,0 +1,9 @@
+POI: 			Ben_Stiller 
+Youtube ID: 	0Oj7sdw3Hjo 
+Video length: 	237.2 sec 
+Set (V): 		dev 
+ 
+Ben_Stiller/0Oj7sdw3Hjo_0000001 41.7 50.7 
+Ben_Stiller/0Oj7sdw3Hjo_0000002 72.0 76.5 
+Ben_Stiller/0Oj7sdw3Hjo_0000003 171.0 176.2 
+Ben_Stiller/0Oj7sdw3Hjo_0000004 183.4 190.2 

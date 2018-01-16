@@ -1,0 +1,11 @@
+POI: 			Edgar_Wright 
+Youtube ID: 	CAhGBfTmCHw 
+Video length: 	160.9 sec 
+Set (V): 		test 
+ 
+Edgar_Wright/CAhGBfTmCHw_0000001 26.0 31.9 
+Edgar_Wright/CAhGBfTmCHw_0000002 37.2 42.4 
+Edgar_Wright/CAhGBfTmCHw_0000003 57.2 89.0 
+Edgar_Wright/CAhGBfTmCHw_0000004 89.5 115.1 
+Edgar_Wright/CAhGBfTmCHw_0000005 131.1 141.7 
+Edgar_Wright/CAhGBfTmCHw_0000006 147.6 152.2 

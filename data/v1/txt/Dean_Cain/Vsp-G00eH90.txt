@@ -1,0 +1,10 @@
+POI: 			Dean_Cain 
+Youtube ID: 	Vsp-G00eH90 
+Video length: 	157.9 sec 
+Set (V): 		dev 
+ 
+Dean_Cain/Vsp-G00eH90_0000001 54.8 63.7 
+Dean_Cain/Vsp-G00eH90_0000002 72.4 77.6 
+Dean_Cain/Vsp-G00eH90_0000003 77.8 87.4 
+Dean_Cain/Vsp-G00eH90_0000004 93.2 99.3 
+Dean_Cain/Vsp-G00eH90_0000005 113.9 123.8 

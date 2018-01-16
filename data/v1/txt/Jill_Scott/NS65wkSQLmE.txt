@@ -1,0 +1,13 @@
+POI: 			Jill_Scott 
+Youtube ID: 	NS65wkSQLmE 
+Video length: 	324.5 sec 
+Set (V): 		dev 
+ 
+Jill_Scott/NS65wkSQLmE_0000001 27.2 32.8 
+Jill_Scott/NS65wkSQLmE_0000002 88.0 95.0 
+Jill_Scott/NS65wkSQLmE_0000003 134.0 138.8 
+Jill_Scott/NS65wkSQLmE_0000004 189.2 193.5 
+Jill_Scott/NS65wkSQLmE_0000005 238.4 246.4 
+Jill_Scott/NS65wkSQLmE_0000006 272.5 279.0 
+Jill_Scott/NS65wkSQLmE_0000007 286.4 290.7 
+Jill_Scott/NS65wkSQLmE_0000008 290.8 295.0 

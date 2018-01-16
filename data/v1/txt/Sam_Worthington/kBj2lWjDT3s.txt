@@ -1,0 +1,14 @@
+POI: 			Sam_Worthington 
+Youtube ID: 	kBj2lWjDT3s 
+Video length: 	367.3 sec 
+Set (V): 		dev 
+ 
+Sam_Worthington/kBj2lWjDT3s_0000001 49.6 57.6 
+Sam_Worthington/kBj2lWjDT3s_0000002 120.8 125.5 
+Sam_Worthington/kBj2lWjDT3s_0000003 127.5 131.6 
+Sam_Worthington/kBj2lWjDT3s_0000004 165.6 171.7 
+Sam_Worthington/kBj2lWjDT3s_0000005 172.3 176.5 
+Sam_Worthington/kBj2lWjDT3s_0000006 240.2 245.4 
+Sam_Worthington/kBj2lWjDT3s_0000007 274.2 280.2 
+Sam_Worthington/kBj2lWjDT3s_0000008 325.8 329.8 
+Sam_Worthington/kBj2lWjDT3s_0000009 351.8 357.4 

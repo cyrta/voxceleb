@@ -1,0 +1,11 @@
+POI: 			Phyllis_Diller 
+Youtube ID: 	pM85tGzCmdI 
+Video length: 	92.1 sec 
+Set (V): 		dev 
+ 
+Phyllis_Diller/pM85tGzCmdI_0000001 11.5 19.5 
+Phyllis_Diller/pM85tGzCmdI_0000002 30.0 34.9 
+Phyllis_Diller/pM85tGzCmdI_0000003 35.5 40.1 
+Phyllis_Diller/pM85tGzCmdI_0000004 41.7 45.9 
+Phyllis_Diller/pM85tGzCmdI_0000005 53.4 62.7 
+Phyllis_Diller/pM85tGzCmdI_0000006 76.0 81.8 

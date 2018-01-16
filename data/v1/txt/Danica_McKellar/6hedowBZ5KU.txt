@@ -1,0 +1,9 @@
+POI: 			Danica_McKellar 
+Youtube ID: 	6hedowBZ5KU 
+Video length: 	528.1 sec 
+Set (V): 		dev 
+ 
+Danica_McKellar/6hedowBZ5KU_0000001 238.9 245.7 
+Danica_McKellar/6hedowBZ5KU_0000002 388.4 393.6 
+Danica_McKellar/6hedowBZ5KU_0000003 394.5 399.9 
+Danica_McKellar/6hedowBZ5KU_0000004 425.1 440.6 

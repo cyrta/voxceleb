@@ -1,0 +1,7 @@
+POI: 			Dane_Cook 
+Youtube ID: 	qeidJYa5-KE 
+Video length: 	439.0 sec 
+Set (V): 		dev 
+ 
+Dane_Cook/qeidJYa5-KE_0000001 262.9 270.4 
+Dane_Cook/qeidJYa5-KE_0000002 271.4 276.8 

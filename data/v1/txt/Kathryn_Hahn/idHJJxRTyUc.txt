@@ -1,0 +1,20 @@
+POI: 			Kathryn_Hahn 
+Youtube ID: 	idHJJxRTyUc 
+Video length: 	377.7 sec 
+Set (V): 		dev 
+ 
+Kathryn_Hahn/idHJJxRTyUc_0000001 30.1 41.9 
+Kathryn_Hahn/idHJJxRTyUc_0000002 44.6 56.7 
+Kathryn_Hahn/idHJJxRTyUc_0000003 64.2 72.4 
+Kathryn_Hahn/idHJJxRTyUc_0000004 74.8 89.5 
+Kathryn_Hahn/idHJJxRTyUc_0000005 106.6 115.4 
+Kathryn_Hahn/idHJJxRTyUc_0000006 116.4 122.9 
+Kathryn_Hahn/idHJJxRTyUc_0000007 126.2 134.0 
+Kathryn_Hahn/idHJJxRTyUc_0000008 134.4 139.4 
+Kathryn_Hahn/idHJJxRTyUc_0000009 141.5 151.8 
+Kathryn_Hahn/idHJJxRTyUc_0000010 153.8 161.4 
+Kathryn_Hahn/idHJJxRTyUc_0000011 175.2 183.2 
+Kathryn_Hahn/idHJJxRTyUc_0000012 259.2 271.7 
+Kathryn_Hahn/idHJJxRTyUc_0000013 272.4 277.0 
+Kathryn_Hahn/idHJJxRTyUc_0000014 278.0 291.6 
+Kathryn_Hahn/idHJJxRTyUc_0000015 323.1 345.6 

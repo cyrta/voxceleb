@@ -1,0 +1,17 @@
+POI: 			Jim_Sturgess 
+Youtube ID: 	nkzVdeDZG2E 
+Video length: 	144.2 sec 
+Set (V): 		dev 
+ 
+Jim_Sturgess/nkzVdeDZG2E_0000001 06.4 19.2 
+Jim_Sturgess/nkzVdeDZG2E_0000002 22.9 27.9 
+Jim_Sturgess/nkzVdeDZG2E_0000003 30.6 43.0 
+Jim_Sturgess/nkzVdeDZG2E_0000004 46.5 51.6 
+Jim_Sturgess/nkzVdeDZG2E_0000005 53.5 59.2 
+Jim_Sturgess/nkzVdeDZG2E_0000006 61.5 67.4 
+Jim_Sturgess/nkzVdeDZG2E_0000007 69.5 74.1 
+Jim_Sturgess/nkzVdeDZG2E_0000008 83.2 87.5 
+Jim_Sturgess/nkzVdeDZG2E_0000009 89.5 95.0 
+Jim_Sturgess/nkzVdeDZG2E_0000010 97.2 106.9 
+Jim_Sturgess/nkzVdeDZG2E_0000011 115.4 119.5 
+Jim_Sturgess/nkzVdeDZG2E_0000012 122.5 138.5 

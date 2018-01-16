@@ -1,0 +1,12 @@
+POI: 			David_Jason 
+Youtube ID: 	tUSN9wuFO8Y 
+Video length: 	152.8 sec 
+Set (V): 		dev 
+ 
+David_Jason/tUSN9wuFO8Y_0000001 14.1 18.7 
+David_Jason/tUSN9wuFO8Y_0000002 39.4 44.0 
+David_Jason/tUSN9wuFO8Y_0000003 50.8 59.4 
+David_Jason/tUSN9wuFO8Y_0000004 73.1 80.2 
+David_Jason/tUSN9wuFO8Y_0000005 95.4 102.9 
+David_Jason/tUSN9wuFO8Y_0000006 109.3 113.7 
+David_Jason/tUSN9wuFO8Y_0000007 122.8 126.8 

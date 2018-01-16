@@ -1,0 +1,9 @@
+POI: 			Cory_Monteith 
+Youtube ID: 	1zrH6ibIHPI 
+Video length: 	111.4 sec 
+Set (V): 		dev 
+ 
+Cory_Monteith/1zrH6ibIHPI_0000001 15.5 21.0 
+Cory_Monteith/1zrH6ibIHPI_0000002 46.7 53.1 
+Cory_Monteith/1zrH6ibIHPI_0000003 67.4 74.6 
+Cory_Monteith/1zrH6ibIHPI_0000004 78.8 85.6 

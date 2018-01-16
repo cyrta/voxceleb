@@ -1,0 +1,13 @@
+POI: 			Peter_Berg 
+Youtube ID: 	gU1cjKnfFxM 
+Video length: 	272.2 sec 
+Set (V): 		dev 
+ 
+Peter_Berg/gU1cjKnfFxM_0000001 37.0 51.1 
+Peter_Berg/gU1cjKnfFxM_0000002 52.2 97.2 
+Peter_Berg/gU1cjKnfFxM_0000003 110.4 129.8 
+Peter_Berg/gU1cjKnfFxM_0000004 130.4 137.1 
+Peter_Berg/gU1cjKnfFxM_0000005 140.7 179.2 
+Peter_Berg/gU1cjKnfFxM_0000006 185.9 193.4 
+Peter_Berg/gU1cjKnfFxM_0000007 193.9 257.1 
+Peter_Berg/gU1cjKnfFxM_0000008 257.5 262.2 

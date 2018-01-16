@@ -1,0 +1,17 @@
+POI: 			Ezra_Miller 
+Youtube ID: 	e-IdJ8a4gy4 
+Video length: 	322.3 sec 
+Set (V): 		test 
+ 
+Ezra_Miller/e-IdJ8a4gy4_0000001 29.7 34.0 
+Ezra_Miller/e-IdJ8a4gy4_0000002 39.0 44.1 
+Ezra_Miller/e-IdJ8a4gy4_0000003 45.2 52.1 
+Ezra_Miller/e-IdJ8a4gy4_0000004 79.4 92.4 
+Ezra_Miller/e-IdJ8a4gy4_0000005 95.6 106.2 
+Ezra_Miller/e-IdJ8a4gy4_0000006 115.5 124.4 
+Ezra_Miller/e-IdJ8a4gy4_0000007 178.8 185.6 
+Ezra_Miller/e-IdJ8a4gy4_0000008 187.3 198.7 
+Ezra_Miller/e-IdJ8a4gy4_0000009 208.0 239.9 
+Ezra_Miller/e-IdJ8a4gy4_0000010 247.8 252.3 
+Ezra_Miller/e-IdJ8a4gy4_0000011 256.8 266.6 
+Ezra_Miller/e-IdJ8a4gy4_0000012 293.0 300.0 

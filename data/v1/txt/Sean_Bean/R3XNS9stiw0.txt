@@ -1,0 +1,9 @@
+POI: 			Sean_Bean 
+Youtube ID: 	R3XNS9stiw0 
+Video length: 	221.8 sec 
+Set (V): 		dev 
+ 
+Sean_Bean/R3XNS9stiw0_0000001 17.8 22.6 
+Sean_Bean/R3XNS9stiw0_0000002 74.0 78.2 
+Sean_Bean/R3XNS9stiw0_0000003 106.5 114.6 
+Sean_Bean/R3XNS9stiw0_0000004 191.3 202.3 

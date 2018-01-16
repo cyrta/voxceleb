@@ -1,0 +1,15 @@
+POI: 			David_Cassidy 
+Youtube ID: 	Vvyi8Od56aU 
+Video length: 	341.7 sec 
+Set (V): 		dev 
+ 
+David_Cassidy/Vvyi8Od56aU_0000001 34.4 42.6 
+David_Cassidy/Vvyi8Od56aU_0000002 53.8 61.3 
+David_Cassidy/Vvyi8Od56aU_0000003 62.3 66.6 
+David_Cassidy/Vvyi8Od56aU_0000004 67.1 72.0 
+David_Cassidy/Vvyi8Od56aU_0000005 104.9 110.4 
+David_Cassidy/Vvyi8Od56aU_0000006 132.6 142.8 
+David_Cassidy/Vvyi8Od56aU_0000007 148.1 155.2 
+David_Cassidy/Vvyi8Od56aU_0000008 155.8 161.2 
+David_Cassidy/Vvyi8Od56aU_0000009 218.3 223.2 
+David_Cassidy/Vvyi8Od56aU_0000010 223.9 228.0 

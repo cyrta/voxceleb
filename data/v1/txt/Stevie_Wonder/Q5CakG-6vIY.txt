@@ -1,0 +1,12 @@
+POI: 			Stevie_Wonder 
+Youtube ID: 	Q5CakG-6vIY 
+Video length: 	309.3 sec 
+Set (V): 		dev 
+ 
+Stevie_Wonder/Q5CakG-6vIY_0000001 135.8 145.7 
+Stevie_Wonder/Q5CakG-6vIY_0000002 207.2 212.6 
+Stevie_Wonder/Q5CakG-6vIY_0000003 212.8 222.0 
+Stevie_Wonder/Q5CakG-6vIY_0000004 222.1 229.0 
+Stevie_Wonder/Q5CakG-6vIY_0000005 233.5 238.4 
+Stevie_Wonder/Q5CakG-6vIY_0000006 237.1 243.5 
+Stevie_Wonder/Q5CakG-6vIY_0000007 264.8 276.6 

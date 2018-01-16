@@ -1,0 +1,14 @@
+POI: 			Rainn_Wilson 
+Youtube ID: 	NnnWPJUTufU 
+Video length: 	326.7 sec 
+Set (V): 		dev 
+ 
+Rainn_Wilson/NnnWPJUTufU_0000001 96.4 107.9 
+Rainn_Wilson/NnnWPJUTufU_0000002 108.6 116.2 
+Rainn_Wilson/NnnWPJUTufU_0000003 117.6 121.6 
+Rainn_Wilson/NnnWPJUTufU_0000004 178.5 202.7 
+Rainn_Wilson/NnnWPJUTufU_0000005 203.0 242.5 
+Rainn_Wilson/NnnWPJUTufU_0000006 243.2 249.4 
+Rainn_Wilson/NnnWPJUTufU_0000007 251.2 261.5 
+Rainn_Wilson/NnnWPJUTufU_0000008 283.5 295.3 
+Rainn_Wilson/NnnWPJUTufU_0000009 296.7 314.2 

@@ -1,0 +1,10 @@
+POI: 			Janina_Gavankar 
+Youtube ID: 	DG8G6w-rdxU 
+Video length: 	184.1 sec 
+Set (V): 		dev 
+ 
+Janina_Gavankar/DG8G6w-rdxU_0000001 24.6 28.6 
+Janina_Gavankar/DG8G6w-rdxU_0000002 43.8 50.0 
+Janina_Gavankar/DG8G6w-rdxU_0000003 70.5 78.8 
+Janina_Gavankar/DG8G6w-rdxU_0000004 80.8 86.2 
+Janina_Gavankar/DG8G6w-rdxU_0000005 169.4 174.6 

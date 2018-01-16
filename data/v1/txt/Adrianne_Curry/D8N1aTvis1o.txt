@@ -1,0 +1,10 @@
+POI: 			Adrianne_Curry 
+Youtube ID: 	D8N1aTvis1o 
+Video length: 	251.5 sec 
+Set (V): 		dev 
+ 
+Adrianne_Curry/D8N1aTvis1o_0000001 161.0 168.4 
+Adrianne_Curry/D8N1aTvis1o_0000002 179.3 183.6 
+Adrianne_Curry/D8N1aTvis1o_0000003 186.2 193.9 
+Adrianne_Curry/D8N1aTvis1o_0000004 226.8 231.2 
+Adrianne_Curry/D8N1aTvis1o_0000005 233.4 238.0 

@@ -1,0 +1,11 @@
+POI: 			Alex_Borstein 
+Youtube ID: 	5mucAt4RCJs 
+Video length: 	138.2 sec 
+Set (V): 		dev 
+ 
+Alex_Borstein/5mucAt4RCJs_0000001 23.2 29.0 
+Alex_Borstein/5mucAt4RCJs_0000002 47.0 55.5 
+Alex_Borstein/5mucAt4RCJs_0000003 64.3 70.9 
+Alex_Borstein/5mucAt4RCJs_0000004 76.4 87.7 
+Alex_Borstein/5mucAt4RCJs_0000005 95.2 102.9 
+Alex_Borstein/5mucAt4RCJs_0000006 103.7 121.6 

@@ -1,0 +1,9 @@
+POI: 			Gary_Busey 
+Youtube ID: 	ShyGjPLecTU 
+Video length: 	236.2 sec 
+Set (V): 		dev 
+ 
+Gary_Busey/ShyGjPLecTU_0000001 45.0 50.9 
+Gary_Busey/ShyGjPLecTU_0000002 68.0 74.9 
+Gary_Busey/ShyGjPLecTU_0000003 193.1 197.2 
+Gary_Busey/ShyGjPLecTU_0000004 198.6 210.2 

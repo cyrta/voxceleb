@@ -1,0 +1,19 @@
+POI: 			America_Ferrera 
+Youtube ID: 	VbvQ_Iy8Wwk 
+Video length: 	315.0 sec 
+Set (V): 		dev 
+ 
+America_Ferrera/VbvQ_Iy8Wwk_0000001 14.0 19.6 
+America_Ferrera/VbvQ_Iy8Wwk_0000002 39.6 48.4 
+America_Ferrera/VbvQ_Iy8Wwk_0000003 77.9 83.4 
+America_Ferrera/VbvQ_Iy8Wwk_0000004 111.5 122.8 
+America_Ferrera/VbvQ_Iy8Wwk_0000005 123.8 131.8 
+America_Ferrera/VbvQ_Iy8Wwk_0000006 133.8 139.0 
+America_Ferrera/VbvQ_Iy8Wwk_0000007 173.7 178.4 
+America_Ferrera/VbvQ_Iy8Wwk_0000008 176.0 180.8 
+America_Ferrera/VbvQ_Iy8Wwk_0000009 194.8 198.8 
+America_Ferrera/VbvQ_Iy8Wwk_0000010 200.5 205.3 
+America_Ferrera/VbvQ_Iy8Wwk_0000011 211.1 219.1 
+America_Ferrera/VbvQ_Iy8Wwk_0000012 251.5 261.6 
+America_Ferrera/VbvQ_Iy8Wwk_0000013 270.6 275.0 
+America_Ferrera/VbvQ_Iy8Wwk_0000014 276.9 283.0 

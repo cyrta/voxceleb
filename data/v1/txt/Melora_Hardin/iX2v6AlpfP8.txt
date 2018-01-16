@@ -1,0 +1,16 @@
+POI: 			Melora_Hardin 
+Youtube ID: 	iX2v6AlpfP8 
+Video length: 	440.1 sec 
+Set (V): 		dev 
+ 
+Melora_Hardin/iX2v6AlpfP8_0000001 26.1 31.5 
+Melora_Hardin/iX2v6AlpfP8_0000002 35.2 44.1 
+Melora_Hardin/iX2v6AlpfP8_0000003 69.5 78.1 
+Melora_Hardin/iX2v6AlpfP8_0000004 202.8 215.5 
+Melora_Hardin/iX2v6AlpfP8_0000005 215.9 221.8 
+Melora_Hardin/iX2v6AlpfP8_0000006 222.8 235.4 
+Melora_Hardin/iX2v6AlpfP8_0000007 293.0 297.7 
+Melora_Hardin/iX2v6AlpfP8_0000008 316.2 324.2 
+Melora_Hardin/iX2v6AlpfP8_0000009 361.2 365.5 
+Melora_Hardin/iX2v6AlpfP8_0000010 400.8 405.1 
+Melora_Hardin/iX2v6AlpfP8_0000011 419.4 434.1 

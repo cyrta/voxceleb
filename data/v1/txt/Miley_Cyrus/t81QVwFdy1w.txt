@@ -1,0 +1,16 @@
+POI: 			Miley_Cyrus 
+Youtube ID: 	t81QVwFdy1w 
+Video length: 	469.1 sec 
+Set (V): 		dev 
+ 
+Miley_Cyrus/t81QVwFdy1w_0000001 74.1 79.4 
+Miley_Cyrus/t81QVwFdy1w_0000002 93.6 103.5 
+Miley_Cyrus/t81QVwFdy1w_0000003 123.2 129.4 
+Miley_Cyrus/t81QVwFdy1w_0000004 164.4 169.1 
+Miley_Cyrus/t81QVwFdy1w_0000005 190.1 197.0 
+Miley_Cyrus/t81QVwFdy1w_0000006 231.8 245.0 
+Miley_Cyrus/t81QVwFdy1w_0000007 294.5 298.5 
+Miley_Cyrus/t81QVwFdy1w_0000008 319.7 334.9 
+Miley_Cyrus/t81QVwFdy1w_0000009 338.6 345.4 
+Miley_Cyrus/t81QVwFdy1w_0000010 349.6 359.2 
+Miley_Cyrus/t81QVwFdy1w_0000011 438.2 450.7 

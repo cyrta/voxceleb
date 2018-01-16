@@ -1,0 +1,13 @@
+POI: 			Randolph_Mantooth 
+Youtube ID: 	XyfW55mT-1w 
+Video length: 	533.2 sec 
+Set (V): 		dev 
+ 
+Randolph_Mantooth/XyfW55mT-1w_0000001 35.1 45.5 
+Randolph_Mantooth/XyfW55mT-1w_0000002 65.9 75.7 
+Randolph_Mantooth/XyfW55mT-1w_0000003 196.1 201.5 
+Randolph_Mantooth/XyfW55mT-1w_0000004 212.1 218.2 
+Randolph_Mantooth/XyfW55mT-1w_0000005 249.5 262.8 
+Randolph_Mantooth/XyfW55mT-1w_0000006 264.4 275.2 
+Randolph_Mantooth/XyfW55mT-1w_0000007 298.5 304.6 
+Randolph_Mantooth/XyfW55mT-1w_0000008 399.4 412.0 

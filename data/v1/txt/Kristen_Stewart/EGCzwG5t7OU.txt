@@ -1,0 +1,18 @@
+POI: 			Kristen_Stewart 
+Youtube ID: 	EGCzwG5t7OU 
+Video length: 	373.1 sec 
+Set (V): 		dev 
+ 
+Kristen_Stewart/EGCzwG5t7OU_0000001 49.3 60.4 
+Kristen_Stewart/EGCzwG5t7OU_0000002 63.6 68.4 
+Kristen_Stewart/EGCzwG5t7OU_0000003 75.6 79.9 
+Kristen_Stewart/EGCzwG5t7OU_0000004 107.1 111.1 
+Kristen_Stewart/EGCzwG5t7OU_0000005 111.8 117.4 
+Kristen_Stewart/EGCzwG5t7OU_0000006 125.0 133.8 
+Kristen_Stewart/EGCzwG5t7OU_0000007 184.7 192.6 
+Kristen_Stewart/EGCzwG5t7OU_0000008 195.0 201.5 
+Kristen_Stewart/EGCzwG5t7OU_0000009 209.1 213.3 
+Kristen_Stewart/EGCzwG5t7OU_0000010 231.4 236.6 
+Kristen_Stewart/EGCzwG5t7OU_0000011 253.4 259.0 
+Kristen_Stewart/EGCzwG5t7OU_0000012 338.4 343.2 
+Kristen_Stewart/EGCzwG5t7OU_0000013 354.3 358.5 

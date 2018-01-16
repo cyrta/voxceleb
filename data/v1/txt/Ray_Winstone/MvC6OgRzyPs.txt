@@ -1,0 +1,11 @@
+POI: 			Ray_Winstone 
+Youtube ID: 	MvC6OgRzyPs 
+Video length: 	184.9 sec 
+Set (V): 		dev 
+ 
+Ray_Winstone/MvC6OgRzyPs_0000001 18.8 23.9 
+Ray_Winstone/MvC6OgRzyPs_0000002 39.0 44.0 
+Ray_Winstone/MvC6OgRzyPs_0000003 54.8 62.7 
+Ray_Winstone/MvC6OgRzyPs_0000004 63.4 76.0 
+Ray_Winstone/MvC6OgRzyPs_0000005 122.4 127.4 
+Ray_Winstone/MvC6OgRzyPs_0000006 141.6 145.8 

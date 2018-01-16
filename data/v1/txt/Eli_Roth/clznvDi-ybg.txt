@@ -1,0 +1,24 @@
+POI: 			Eli_Roth 
+Youtube ID: 	clznvDi-ybg 
+Video length: 	684.0 sec 
+Set (V): 		test 
+ 
+Eli_Roth/clznvDi-ybg_0000001 60.3 64.6 
+Eli_Roth/clznvDi-ybg_0000002 107.0 116.3 
+Eli_Roth/clznvDi-ybg_0000003 118.3 144.1 
+Eli_Roth/clznvDi-ybg_0000004 219.9 224.1 
+Eli_Roth/clznvDi-ybg_0000005 224.3 228.5 
+Eli_Roth/clznvDi-ybg_0000006 246.2 253.8 
+Eli_Roth/clznvDi-ybg_0000007 306.5 333.7 
+Eli_Roth/clznvDi-ybg_0000008 335.5 342.6 
+Eli_Roth/clznvDi-ybg_0000009 344.4 351.4 
+Eli_Roth/clznvDi-ybg_0000010 361.2 368.2 
+Eli_Roth/clznvDi-ybg_0000011 379.9 391.8 
+Eli_Roth/clznvDi-ybg_0000012 395.2 405.4 
+Eli_Roth/clznvDi-ybg_0000013 458.6 464.7 
+Eli_Roth/clznvDi-ybg_0000014 514.8 521.0 
+Eli_Roth/clznvDi-ybg_0000015 590.3 595.4 
+Eli_Roth/clznvDi-ybg_0000016 595.6 612.0 
+Eli_Roth/clznvDi-ybg_0000017 643.9 656.2 
+Eli_Roth/clznvDi-ybg_0000018 660.9 666.8 
+Eli_Roth/clznvDi-ybg_0000019 669.0 674.2 

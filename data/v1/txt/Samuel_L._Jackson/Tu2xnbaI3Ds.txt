@@ -1,0 +1,11 @@
+POI: 			Samuel_L._Jackson 
+Youtube ID: 	Tu2xnbaI3Ds 
+Video length: 	212.2 sec 
+Set (V): 		dev 
+ 
+Samuel_L._Jackson/Tu2xnbaI3Ds_0000001 29.4 45.9 
+Samuel_L._Jackson/Tu2xnbaI3Ds_0000002 89.7 98.3 
+Samuel_L._Jackson/Tu2xnbaI3Ds_0000003 112.2 117.2 
+Samuel_L._Jackson/Tu2xnbaI3Ds_0000004 122.5 137.0 
+Samuel_L._Jackson/Tu2xnbaI3Ds_0000005 137.6 142.7 
+Samuel_L._Jackson/Tu2xnbaI3Ds_0000006 171.0 175.7 

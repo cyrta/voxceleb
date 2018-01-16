@@ -1,0 +1,8 @@
+POI: 			Guillaume_Canet 
+Youtube ID: 	jpEQRexFVSk 
+Video length: 	183.1 sec 
+Set (V): 		dev 
+ 
+Guillaume_Canet/jpEQRexFVSk_0000001 95.2 104.7 
+Guillaume_Canet/jpEQRexFVSk_0000002 137.8 147.0 
+Guillaume_Canet/jpEQRexFVSk_0000003 158.0 162.6 

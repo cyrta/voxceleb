@@ -1,0 +1,18 @@
+POI: 			Chris_Hemsworth 
+Youtube ID: 	gQzEhko6nYs 
+Video length: 	301.4 sec 
+Set (V): 		dev 
+ 
+Chris_Hemsworth/gQzEhko6nYs_0000001 39.6 44.2 
+Chris_Hemsworth/gQzEhko6nYs_0000002 44.8 48.8 
+Chris_Hemsworth/gQzEhko6nYs_0000003 71.9 83.2 
+Chris_Hemsworth/gQzEhko6nYs_0000004 115.2 128.7 
+Chris_Hemsworth/gQzEhko6nYs_0000005 135.9 143.5 
+Chris_Hemsworth/gQzEhko6nYs_0000006 157.9 171.7 
+Chris_Hemsworth/gQzEhko6nYs_0000007 172.3 180.1 
+Chris_Hemsworth/gQzEhko6nYs_0000008 180.8 188.4 
+Chris_Hemsworth/gQzEhko6nYs_0000009 198.0 203.2 
+Chris_Hemsworth/gQzEhko6nYs_0000010 206.8 212.2 
+Chris_Hemsworth/gQzEhko6nYs_0000011 217.1 221.9 
+Chris_Hemsworth/gQzEhko6nYs_0000012 229.0 245.7 
+Chris_Hemsworth/gQzEhko6nYs_0000013 248.0 256.4 

@@ -1,0 +1,10 @@
+POI: 			Willem_Dafoe 
+Youtube ID: 	IrbHTmhUrGY 
+Video length: 	216.6 sec 
+Set (V): 		dev 
+ 
+Willem_Dafoe/IrbHTmhUrGY_0000001 16.9 23.0 
+Willem_Dafoe/IrbHTmhUrGY_0000002 89.2 93.4 
+Willem_Dafoe/IrbHTmhUrGY_0000003 115.3 120.8 
+Willem_Dafoe/IrbHTmhUrGY_0000004 134.5 139.6 
+Willem_Dafoe/IrbHTmhUrGY_0000005 203.1 207.2 

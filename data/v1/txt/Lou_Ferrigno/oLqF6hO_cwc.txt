@@ -1,0 +1,16 @@
+POI: 			Lou_Ferrigno 
+Youtube ID: 	oLqF6hO_cwc 
+Video length: 	403.4 sec 
+Set (V): 		dev 
+ 
+Lou_Ferrigno/oLqF6hO_cwc_0000001 06.0 12.5 
+Lou_Ferrigno/oLqF6hO_cwc_0000002 57.8 65.0 
+Lou_Ferrigno/oLqF6hO_cwc_0000003 75.6 85.8 
+Lou_Ferrigno/oLqF6hO_cwc_0000004 109.3 113.6 
+Lou_Ferrigno/oLqF6hO_cwc_0000005 125.3 130.6 
+Lou_Ferrigno/oLqF6hO_cwc_0000006 139.1 144.4 
+Lou_Ferrigno/oLqF6hO_cwc_0000007 159.2 164.6 
+Lou_Ferrigno/oLqF6hO_cwc_0000008 194.7 201.8 
+Lou_Ferrigno/oLqF6hO_cwc_0000009 274.8 280.2 
+Lou_Ferrigno/oLqF6hO_cwc_0000010 336.1 341.1 
+Lou_Ferrigno/oLqF6hO_cwc_0000011 342.6 350.8 

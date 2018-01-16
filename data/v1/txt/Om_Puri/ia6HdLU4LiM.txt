@@ -1,0 +1,11 @@
+POI: 			Om_Puri 
+Youtube ID: 	ia6HdLU4LiM 
+Video length: 	1049.8 sec 
+Set (V): 		dev 
+ 
+Om_Puri/ia6HdLU4LiM_0000001 155.8 160.2 
+Om_Puri/ia6HdLU4LiM_0000002 251.4 258.8 
+Om_Puri/ia6HdLU4LiM_0000003 302.9 307.1 
+Om_Puri/ia6HdLU4LiM_0000004 316.9 322.0 
+Om_Puri/ia6HdLU4LiM_0000005 396.2 402.0 
+Om_Puri/ia6HdLU4LiM_0000006 555.5 559.5 

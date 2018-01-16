@@ -1,0 +1,17 @@
+POI: 			Ray_Winstone 
+Youtube ID: 	REw1gCAsZYI 
+Video length: 	479.4 sec 
+Set (V): 		dev 
+ 
+Ray_Winstone/REw1gCAsZYI_0000001 83.9 88.6 
+Ray_Winstone/REw1gCAsZYI_0000002 94.4 101.1 
+Ray_Winstone/REw1gCAsZYI_0000003 134.7 142.4 
+Ray_Winstone/REw1gCAsZYI_0000004 153.3 159.2 
+Ray_Winstone/REw1gCAsZYI_0000005 167.6 174.5 
+Ray_Winstone/REw1gCAsZYI_0000006 238.5 247.3 
+Ray_Winstone/REw1gCAsZYI_0000007 262.6 268.8 
+Ray_Winstone/REw1gCAsZYI_0000008 290.5 295.0 
+Ray_Winstone/REw1gCAsZYI_0000009 314.0 318.2 
+Ray_Winstone/REw1gCAsZYI_0000010 337.9 343.2 
+Ray_Winstone/REw1gCAsZYI_0000011 349.9 354.6 
+Ray_Winstone/REw1gCAsZYI_0000012 367.8 376.9 

@@ -1,0 +1,7 @@
+POI: 			Jack_Lemmon 
+Youtube ID: 	FjD4hSN2Efk 
+Video length: 	183.7 sec 
+Set (V): 		dev 
+ 
+Jack_Lemmon/FjD4hSN2Efk_0000001 07.8 19.9 
+Jack_Lemmon/FjD4hSN2Efk_0000002 21.3 28.1 

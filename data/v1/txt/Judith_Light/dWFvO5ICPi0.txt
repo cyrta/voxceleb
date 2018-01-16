@@ -1,0 +1,17 @@
+POI: 			Judith_Light 
+Youtube ID: 	dWFvO5ICPi0 
+Video length: 	330.1 sec 
+Set (V): 		dev 
+ 
+Judith_Light/dWFvO5ICPi0_0000001 104.3 112.6 
+Judith_Light/dWFvO5ICPi0_0000002 112.8 117.3 
+Judith_Light/dWFvO5ICPi0_0000003 126.7 136.2 
+Judith_Light/dWFvO5ICPi0_0000004 158.7 163.5 
+Judith_Light/dWFvO5ICPi0_0000005 165.2 169.7 
+Judith_Light/dWFvO5ICPi0_0000006 221.0 235.8 
+Judith_Light/dWFvO5ICPi0_0000007 236.7 241.3 
+Judith_Light/dWFvO5ICPi0_0000008 213.8 219.0 
+Judith_Light/dWFvO5ICPi0_0000009 252.8 257.1 
+Judith_Light/dWFvO5ICPi0_0000010 286.1 293.0 
+Judith_Light/dWFvO5ICPi0_0000011 303.6 311.4 
+Judith_Light/dWFvO5ICPi0_0000012 311.6 320.2 

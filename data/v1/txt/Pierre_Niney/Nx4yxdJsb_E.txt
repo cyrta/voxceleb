@@ -1,0 +1,14 @@
+POI: 			Pierre_Niney 
+Youtube ID: 	Nx4yxdJsb_E 
+Video length: 	756.2 sec 
+Set (V): 		dev 
+ 
+Pierre_Niney/Nx4yxdJsb_E_0000001 106.3 111.1 
+Pierre_Niney/Nx4yxdJsb_E_0000002 161.7 166.3 
+Pierre_Niney/Nx4yxdJsb_E_0000003 266.2 270.4 
+Pierre_Niney/Nx4yxdJsb_E_0000004 273.5 277.8 
+Pierre_Niney/Nx4yxdJsb_E_0000005 477.3 482.2 
+Pierre_Niney/Nx4yxdJsb_E_0000006 493.1 498.1 
+Pierre_Niney/Nx4yxdJsb_E_0000007 510.3 515.3 
+Pierre_Niney/Nx4yxdJsb_E_0000008 571.9 576.0 
+Pierre_Niney/Nx4yxdJsb_E_0000009 591.0 595.5 

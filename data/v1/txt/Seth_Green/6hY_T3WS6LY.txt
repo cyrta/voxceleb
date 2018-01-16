@@ -1,0 +1,9 @@
+POI: 			Seth_Green 
+Youtube ID: 	6hY_T3WS6LY 
+Video length: 	129.0 sec 
+Set (V): 		dev 
+ 
+Seth_Green/6hY_T3WS6LY_0000001 21.0 25.0 
+Seth_Green/6hY_T3WS6LY_0000002 34.8 45.0 
+Seth_Green/6hY_T3WS6LY_0000003 65.8 71.0 
+Seth_Green/6hY_T3WS6LY_0000004 71.4 79.3 

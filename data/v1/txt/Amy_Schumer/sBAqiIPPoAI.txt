@@ -1,0 +1,10 @@
+POI: 			Amy_Schumer 
+Youtube ID: 	sBAqiIPPoAI 
+Video length: 	256.7 sec 
+Set (V): 		dev 
+ 
+Amy_Schumer/sBAqiIPPoAI_0000001 77.8 82.7 
+Amy_Schumer/sBAqiIPPoAI_0000002 98.0 103.5 
+Amy_Schumer/sBAqiIPPoAI_0000003 115.2 122.6 
+Amy_Schumer/sBAqiIPPoAI_0000004 165.7 170.8 
+Amy_Schumer/sBAqiIPPoAI_0000005 228.9 235.5 

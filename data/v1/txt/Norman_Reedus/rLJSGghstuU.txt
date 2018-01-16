@@ -1,0 +1,7 @@
+POI: 			Norman_Reedus 
+Youtube ID: 	rLJSGghstuU 
+Video length: 	204.1 sec 
+Set (V): 		dev 
+ 
+Norman_Reedus/rLJSGghstuU_0000001 26.6 46.2 
+Norman_Reedus/rLJSGghstuU_0000002 156.6 197.1 

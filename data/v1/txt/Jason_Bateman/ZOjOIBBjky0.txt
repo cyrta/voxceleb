@@ -1,0 +1,9 @@
+POI: 			Jason_Bateman 
+Youtube ID: 	ZOjOIBBjky0 
+Video length: 	333.5 sec 
+Set (V): 		dev 
+ 
+Jason_Bateman/ZOjOIBBjky0_0000001 57.6 63.0 
+Jason_Bateman/ZOjOIBBjky0_0000002 71.0 84.3 
+Jason_Bateman/ZOjOIBBjky0_0000003 144.8 155.4 
+Jason_Bateman/ZOjOIBBjky0_0000004 248.9 253.0 

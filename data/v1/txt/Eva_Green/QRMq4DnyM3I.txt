@@ -1,0 +1,10 @@
+POI: 			Eva_Green 
+Youtube ID: 	QRMq4DnyM3I 
+Video length: 	243.5 sec 
+Set (V): 		test 
+ 
+Eva_Green/QRMq4DnyM3I_0000001 17.3 24.4 
+Eva_Green/QRMq4DnyM3I_0000002 75.2 80.2 
+Eva_Green/QRMq4DnyM3I_0000003 110.9 117.0 
+Eva_Green/QRMq4DnyM3I_0000004 131.2 137.0 
+Eva_Green/QRMq4DnyM3I_0000005 147.8 152.5 

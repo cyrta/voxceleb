@@ -1,0 +1,8 @@
+POI: 			Nick_Kroll 
+Youtube ID: 	naXb08aZhuA 
+Video length: 	363.0 sec 
+Set (V): 		dev 
+ 
+Nick_Kroll/naXb08aZhuA_0000001 343.2 353.6 
+Nick_Kroll/naXb08aZhuA_0000002 324.9 330.6 
+Nick_Kroll/naXb08aZhuA_0000003 330.9 335.2 

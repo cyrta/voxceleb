@@ -1,0 +1,8 @@
+POI: 			Ryan_Kwanten 
+Youtube ID: 	PRbxFvz5kxI 
+Video length: 	496.5 sec 
+Set (V): 		dev 
+ 
+Ryan_Kwanten/PRbxFvz5kxI_0000001 227.9 233.4 
+Ryan_Kwanten/PRbxFvz5kxI_0000002 379.2 386.3 
+Ryan_Kwanten/PRbxFvz5kxI_0000003 404.9 414.2 

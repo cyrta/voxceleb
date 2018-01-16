@@ -1,0 +1,14 @@
+POI: 			Don_Rickles 
+Youtube ID: 	WE20Bfjezbw 
+Video length: 	275.6 sec 
+Set (V): 		dev 
+ 
+Don_Rickles/WE20Bfjezbw_0000001 44.0 54.4 
+Don_Rickles/WE20Bfjezbw_0000002 54.8 68.8 
+Don_Rickles/WE20Bfjezbw_0000003 69.5 75.5 
+Don_Rickles/WE20Bfjezbw_0000004 87.0 97.2 
+Don_Rickles/WE20Bfjezbw_0000005 107.4 111.4 
+Don_Rickles/WE20Bfjezbw_0000006 133.9 154.0 
+Don_Rickles/WE20Bfjezbw_0000007 175.2 194.7 
+Don_Rickles/WE20Bfjezbw_0000008 195.4 203.2 
+Don_Rickles/WE20Bfjezbw_0000009 221.1 225.4 

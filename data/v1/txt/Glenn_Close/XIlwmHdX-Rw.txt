@@ -1,0 +1,16 @@
+POI: 			Glenn_Close 
+Youtube ID: 	XIlwmHdX-Rw 
+Video length: 	407.2 sec 
+Set (V): 		dev 
+ 
+Glenn_Close/XIlwmHdX-Rw_0000001 67.7 72.6 
+Glenn_Close/XIlwmHdX-Rw_0000002 73.9 85.5 
+Glenn_Close/XIlwmHdX-Rw_0000003 194.6 201.5 
+Glenn_Close/XIlwmHdX-Rw_0000004 223.2 227.6 
+Glenn_Close/XIlwmHdX-Rw_0000005 262.5 271.8 
+Glenn_Close/XIlwmHdX-Rw_0000006 285.3 292.0 
+Glenn_Close/XIlwmHdX-Rw_0000007 308.8 315.1 
+Glenn_Close/XIlwmHdX-Rw_0000008 317.0 326.6 
+Glenn_Close/XIlwmHdX-Rw_0000009 330.6 338.7 
+Glenn_Close/XIlwmHdX-Rw_0000010 378.0 389.0 
+Glenn_Close/XIlwmHdX-Rw_0000011 389.1 395.9 

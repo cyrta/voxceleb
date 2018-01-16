@@ -1,0 +1,9 @@
+POI: 			Phyllis_Diller 
+Youtube ID: 	R1DxitJzVrw 
+Video length: 	84.1 sec 
+Set (V): 		dev 
+ 
+Phyllis_Diller/R1DxitJzVrw_0000001 10.5 15.4 
+Phyllis_Diller/R1DxitJzVrw_0000002 25.1 29.0 
+Phyllis_Diller/R1DxitJzVrw_0000003 29.9 38.9 
+Phyllis_Diller/R1DxitJzVrw_0000004 57.4 67.0 

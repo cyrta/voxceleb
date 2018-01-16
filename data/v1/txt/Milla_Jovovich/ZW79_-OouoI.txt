@@ -1,0 +1,11 @@
+POI: 			Milla_Jovovich 
+Youtube ID: 	ZW79_-OouoI 
+Video length: 	401.2 sec 
+Set (V): 		dev 
+ 
+Milla_Jovovich/ZW79_-OouoI_0000001 10.2 14.6 
+Milla_Jovovich/ZW79_-OouoI_0000002 128.7 135.6 
+Milla_Jovovich/ZW79_-OouoI_0000003 182.5 186.8 
+Milla_Jovovich/ZW79_-OouoI_0000004 187.8 192.4 
+Milla_Jovovich/ZW79_-OouoI_0000005 224.0 231.9 
+Milla_Jovovich/ZW79_-OouoI_0000006 235.8 240.4 

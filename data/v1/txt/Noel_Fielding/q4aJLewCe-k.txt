@@ -1,0 +1,44 @@
+POI: 			Noel_Fielding 
+Youtube ID: 	q4aJLewCe-k 
+Video length: 	2118.4 sec 
+Set (V): 		dev 
+ 
+Noel_Fielding/q4aJLewCe-k_0000001 72.1 77.9 
+Noel_Fielding/q4aJLewCe-k_0000002 414.1 421.8 
+Noel_Fielding/q4aJLewCe-k_0000003 422.6 426.8 
+Noel_Fielding/q4aJLewCe-k_0000004 490.3 494.6 
+Noel_Fielding/q4aJLewCe-k_0000005 543.6 548.1 
+Noel_Fielding/q4aJLewCe-k_0000006 550.8 558.3 
+Noel_Fielding/q4aJLewCe-k_0000007 569.8 575.5 
+Noel_Fielding/q4aJLewCe-k_0000008 615.6 620.6 
+Noel_Fielding/q4aJLewCe-k_0000009 750.0 757.8 
+Noel_Fielding/q4aJLewCe-k_0000010 760.2 764.8 
+Noel_Fielding/q4aJLewCe-k_0000011 768.8 774.8 
+Noel_Fielding/q4aJLewCe-k_0000012 823.4 827.9 
+Noel_Fielding/q4aJLewCe-k_0000013 871.5 877.1 
+Noel_Fielding/q4aJLewCe-k_0000014 877.3 881.4 
+Noel_Fielding/q4aJLewCe-k_0000015 890.1 895.9 
+Noel_Fielding/q4aJLewCe-k_0000016 898.5 902.6 
+Noel_Fielding/q4aJLewCe-k_0000017 934.9 940.7 
+Noel_Fielding/q4aJLewCe-k_0000018 972.0 976.0 
+Noel_Fielding/q4aJLewCe-k_0000019 977.0 986.7 
+Noel_Fielding/q4aJLewCe-k_0000020 998.5 1004.5 
+Noel_Fielding/q4aJLewCe-k_0000021 1059.7 1065.9 
+Noel_Fielding/q4aJLewCe-k_0000022 1066.2 1070.4 
+Noel_Fielding/q4aJLewCe-k_0000023 1147.5 1154.0 
+Noel_Fielding/q4aJLewCe-k_0000024 1252.0 1260.6 
+Noel_Fielding/q4aJLewCe-k_0000025 1449.0 1456.3 
+Noel_Fielding/q4aJLewCe-k_0000026 1474.8 1485.1 
+Noel_Fielding/q4aJLewCe-k_0000027 1509.6 1514.2 
+Noel_Fielding/q4aJLewCe-k_0000028 1532.0 1539.0 
+Noel_Fielding/q4aJLewCe-k_0000029 1682.4 1687.2 
+Noel_Fielding/q4aJLewCe-k_0000030 1721.6 1727.4 
+Noel_Fielding/q4aJLewCe-k_0000031 1742.8 1758.8 
+Noel_Fielding/q4aJLewCe-k_0000032 1761.3 1769.0 
+Noel_Fielding/q4aJLewCe-k_0000033 1789.7 1797.7 
+Noel_Fielding/q4aJLewCe-k_0000034 1801.7 1809.2 
+Noel_Fielding/q4aJLewCe-k_0000035 1801.8 1805.9 
+Noel_Fielding/q4aJLewCe-k_0000036 1821.8 1835.2 
+Noel_Fielding/q4aJLewCe-k_0000037 1863.8 1869.0 
+Noel_Fielding/q4aJLewCe-k_0000038 1871.3 1883.5 
+Noel_Fielding/q4aJLewCe-k_0000039 1884.4 1889.0 

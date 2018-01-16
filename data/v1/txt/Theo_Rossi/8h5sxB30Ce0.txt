@@ -1,0 +1,8 @@
+POI: 			Theo_Rossi 
+Youtube ID: 	8h5sxB30Ce0 
+Video length: 	302.7 sec 
+Set (V): 		dev 
+ 
+Theo_Rossi/8h5sxB30Ce0_0000001 163.4 172.1 
+Theo_Rossi/8h5sxB30Ce0_0000002 175.4 179.4 
+Theo_Rossi/8h5sxB30Ce0_0000003 182.6 186.8 

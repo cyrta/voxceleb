@@ -1,0 +1,8 @@
+POI: 			Michelle_Krusiec 
+Youtube ID: 	CIDzDVVJahA 
+Video length: 	190.8 sec 
+Set (V): 		dev 
+ 
+Michelle_Krusiec/CIDzDVVJahA_0000001 00.9 08.0 
+Michelle_Krusiec/CIDzDVVJahA_0000002 169.2 174.4 
+Michelle_Krusiec/CIDzDVVJahA_0000003 179.8 184.1 

@@ -1,0 +1,12 @@
+POI: 			Anne_Hathaway 
+Youtube ID: 	_LM5EC_TczE 
+Video length: 	456.3 sec 
+Set (V): 		dev 
+ 
+Anne_Hathaway/_LM5EC_TczE_0000001 98.7 103.1 
+Anne_Hathaway/_LM5EC_TczE_0000002 167.2 175.8 
+Anne_Hathaway/_LM5EC_TczE_0000003 179.0 196.4 
+Anne_Hathaway/_LM5EC_TczE_0000004 217.2 226.1 
+Anne_Hathaway/_LM5EC_TczE_0000005 297.6 306.9 
+Anne_Hathaway/_LM5EC_TczE_0000006 311.0 317.7 
+Anne_Hathaway/_LM5EC_TczE_0000007 410.8 415.6 

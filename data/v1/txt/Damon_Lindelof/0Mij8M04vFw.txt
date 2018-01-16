@@ -1,0 +1,14 @@
+POI: 			Damon_Lindelof 
+Youtube ID: 	0Mij8M04vFw 
+Video length: 	453.4 sec 
+Set (V): 		dev 
+ 
+Damon_Lindelof/0Mij8M04vFw_0000001 21.4 59.3 
+Damon_Lindelof/0Mij8M04vFw_0000002 77.4 130.1 
+Damon_Lindelof/0Mij8M04vFw_0000003 144.7 185.4 
+Damon_Lindelof/0Mij8M04vFw_0000004 200.6 252.1 
+Damon_Lindelof/0Mij8M04vFw_0000005 273.8 327.0 
+Damon_Lindelof/0Mij8M04vFw_0000006 328.8 343.5 
+Damon_Lindelof/0Mij8M04vFw_0000007 344.1 351.2 
+Damon_Lindelof/0Mij8M04vFw_0000008 366.5 428.9 
+Damon_Lindelof/0Mij8M04vFw_0000009 432.8 436.8 

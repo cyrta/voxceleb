@@ -1,0 +1,19 @@
+POI: 			Martin_Henderson 
+Youtube ID: 	iOvWub_nAHk 
+Video length: 	222.5 sec 
+Set (V): 		dev 
+ 
+Martin_Henderson/iOvWub_nAHk_0000001 11.4 19.3 
+Martin_Henderson/iOvWub_nAHk_0000002 21.6 27.2 
+Martin_Henderson/iOvWub_nAHk_0000003 29.5 35.0 
+Martin_Henderson/iOvWub_nAHk_0000004 37.6 50.6 
+Martin_Henderson/iOvWub_nAHk_0000005 52.6 60.4 
+Martin_Henderson/iOvWub_nAHk_0000006 61.2 69.8 
+Martin_Henderson/iOvWub_nAHk_0000007 70.6 75.4 
+Martin_Henderson/iOvWub_nAHk_0000008 79.0 87.9 
+Martin_Henderson/iOvWub_nAHk_0000009 88.0 100.5 
+Martin_Henderson/iOvWub_nAHk_0000010 108.7 116.0 
+Martin_Henderson/iOvWub_nAHk_0000011 128.1 133.6 
+Martin_Henderson/iOvWub_nAHk_0000012 151.6 160.2 
+Martin_Henderson/iOvWub_nAHk_0000013 165.1 172.4 
+Martin_Henderson/iOvWub_nAHk_0000014 175.1 184.1 

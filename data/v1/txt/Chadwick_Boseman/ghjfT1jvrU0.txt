@@ -1,0 +1,32 @@
+POI: 			Chadwick_Boseman 
+Youtube ID: 	ghjfT1jvrU0 
+Video length: 	420.3 sec 
+Set (V): 		dev 
+ 
+Chadwick_Boseman/ghjfT1jvrU0_0000001 21.2 25.4 
+Chadwick_Boseman/ghjfT1jvrU0_0000002 26.4 32.1 
+Chadwick_Boseman/ghjfT1jvrU0_0000003 46.9 57.5 
+Chadwick_Boseman/ghjfT1jvrU0_0000004 62.2 66.7 
+Chadwick_Boseman/ghjfT1jvrU0_0000005 67.6 76.1 
+Chadwick_Boseman/ghjfT1jvrU0_0000006 76.8 83.5 
+Chadwick_Boseman/ghjfT1jvrU0_0000007 91.0 96.0 
+Chadwick_Boseman/ghjfT1jvrU0_0000008 105.1 113.6 
+Chadwick_Boseman/ghjfT1jvrU0_0000009 118.1 123.0 
+Chadwick_Boseman/ghjfT1jvrU0_0000010 127.9 132.1 
+Chadwick_Boseman/ghjfT1jvrU0_0000011 137.9 151.8 
+Chadwick_Boseman/ghjfT1jvrU0_0000012 159.2 163.4 
+Chadwick_Boseman/ghjfT1jvrU0_0000013 167.3 171.8 
+Chadwick_Boseman/ghjfT1jvrU0_0000014 212.4 219.9 
+Chadwick_Boseman/ghjfT1jvrU0_0000015 220.4 224.4 
+Chadwick_Boseman/ghjfT1jvrU0_0000016 225.4 230.6 
+Chadwick_Boseman/ghjfT1jvrU0_0000017 235.1 241.2 
+Chadwick_Boseman/ghjfT1jvrU0_0000018 266.4 276.8 
+Chadwick_Boseman/ghjfT1jvrU0_0000019 285.9 294.2 
+Chadwick_Boseman/ghjfT1jvrU0_0000020 300.2 308.4 
+Chadwick_Boseman/ghjfT1jvrU0_0000021 277.4 282.5 
+Chadwick_Boseman/ghjfT1jvrU0_0000022 285.8 295.4 
+Chadwick_Boseman/ghjfT1jvrU0_0000023 296.2 305.2 
+Chadwick_Boseman/ghjfT1jvrU0_0000024 338.1 343.4 
+Chadwick_Boseman/ghjfT1jvrU0_0000025 360.8 366.5 
+Chadwick_Boseman/ghjfT1jvrU0_0000026 367.2 375.2 
+Chadwick_Boseman/ghjfT1jvrU0_0000027 385.0 404.8 

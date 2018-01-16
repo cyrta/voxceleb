@@ -1,0 +1,12 @@
+POI: 			Wim_Wenders 
+Youtube ID: 	R8XW46joUE0 
+Video length: 	516.9 sec 
+Set (V): 		dev 
+ 
+Wim_Wenders/R8XW46joUE0_0000001 116.5 121.1 
+Wim_Wenders/R8XW46joUE0_0000002 198.4 207.0 
+Wim_Wenders/R8XW46joUE0_0000003 248.7 252.9 
+Wim_Wenders/R8XW46joUE0_0000004 321.6 327.9 
+Wim_Wenders/R8XW46joUE0_0000005 331.4 337.2 
+Wim_Wenders/R8XW46joUE0_0000006 449.1 454.0 
+Wim_Wenders/R8XW46joUE0_0000007 476.3 480.3 

@@ -1,0 +1,10 @@
+POI: 			Stephen_Lang 
+Youtube ID: 	qGeNx18N2x4 
+Video length: 	337.9 sec 
+Set (V): 		dev 
+ 
+Stephen_Lang/qGeNx18N2x4_0000001 70.0 78.2 
+Stephen_Lang/qGeNx18N2x4_0000002 158.8 163.0 
+Stephen_Lang/qGeNx18N2x4_0000003 188.7 197.6 
+Stephen_Lang/qGeNx18N2x4_0000004 215.8 225.7 
+Stephen_Lang/qGeNx18N2x4_0000005 293.5 297.7 

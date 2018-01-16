@@ -1,0 +1,17 @@
+POI: 			Suzanne_Pleshette 
+Youtube ID: 	T3EbBQWmzSI 
+Video length: 	167.3 sec 
+Set (V): 		dev 
+ 
+Suzanne_Pleshette/T3EbBQWmzSI_0000001 07.4 15.5 
+Suzanne_Pleshette/T3EbBQWmzSI_0000002 24.9 32.3 
+Suzanne_Pleshette/T3EbBQWmzSI_0000003 48.2 52.9 
+Suzanne_Pleshette/T3EbBQWmzSI_0000004 56.5 71.2 
+Suzanne_Pleshette/T3EbBQWmzSI_0000005 71.6 77.4 
+Suzanne_Pleshette/T3EbBQWmzSI_0000006 78.3 83.4 
+Suzanne_Pleshette/T3EbBQWmzSI_0000007 99.6 108.8 
+Suzanne_Pleshette/T3EbBQWmzSI_0000008 115.6 121.3 
+Suzanne_Pleshette/T3EbBQWmzSI_0000009 127.0 133.9 
+Suzanne_Pleshette/T3EbBQWmzSI_0000010 114.6 122.6 
+Suzanne_Pleshette/T3EbBQWmzSI_0000011 142.8 148.9 
+Suzanne_Pleshette/T3EbBQWmzSI_0000012 150.2 157.7 

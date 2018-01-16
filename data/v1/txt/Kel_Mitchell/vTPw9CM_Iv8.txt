@@ -1,0 +1,14 @@
+POI: 			Kel_Mitchell 
+Youtube ID: 	vTPw9CM_Iv8 
+Video length: 	3289.3 sec 
+Set (V): 		dev 
+ 
+Kel_Mitchell/vTPw9CM_Iv8_0000001 357.2 362.6 
+Kel_Mitchell/vTPw9CM_Iv8_0000002 691.9 696.2 
+Kel_Mitchell/vTPw9CM_Iv8_0000003 1026.8 1031.2 
+Kel_Mitchell/vTPw9CM_Iv8_0000004 1680.1 1685.0 
+Kel_Mitchell/vTPw9CM_Iv8_0000005 1894.4 1904.4 
+Kel_Mitchell/vTPw9CM_Iv8_0000006 2046.3 2051.0 
+Kel_Mitchell/vTPw9CM_Iv8_0000007 2178.0 2183.5 
+Kel_Mitchell/vTPw9CM_Iv8_0000008 2991.7 2995.6 
+Kel_Mitchell/vTPw9CM_Iv8_0000009 2997.5 3004.5 

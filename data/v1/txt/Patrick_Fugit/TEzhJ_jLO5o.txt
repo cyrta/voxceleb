@@ -1,0 +1,14 @@
+POI: 			Patrick_Fugit 
+Youtube ID: 	TEzhJ_jLO5o 
+Video length: 	2156.5 sec 
+Set (V): 		dev 
+ 
+Patrick_Fugit/TEzhJ_jLO5o_0000001 304.2 316.9 
+Patrick_Fugit/TEzhJ_jLO5o_0000002 991.6 997.1 
+Patrick_Fugit/TEzhJ_jLO5o_0000003 998.1 1012.9 
+Patrick_Fugit/TEzhJ_jLO5o_0000004 1279.5 1291.3 
+Patrick_Fugit/TEzhJ_jLO5o_0000005 1310.5 1325.5 
+Patrick_Fugit/TEzhJ_jLO5o_0000006 1327.8 1334.0 
+Patrick_Fugit/TEzhJ_jLO5o_0000007 1334.7 1340.0 
+Patrick_Fugit/TEzhJ_jLO5o_0000008 2105.4 2113.2 
+Patrick_Fugit/TEzhJ_jLO5o_0000009 2133.0 2139.2 

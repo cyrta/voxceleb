@@ -1,0 +1,9 @@
+POI: 			Barbara_Eden 
+Youtube ID: 	DFom3CKuX70 
+Video length: 	189.8 sec 
+Set (V): 		dev 
+ 
+Barbara_Eden/DFom3CKuX70_0000001 27.8 32.2 
+Barbara_Eden/DFom3CKuX70_0000002 90.1 103.1 
+Barbara_Eden/DFom3CKuX70_0000003 123.6 144.5 
+Barbara_Eden/DFom3CKuX70_0000004 145.2 150.8 

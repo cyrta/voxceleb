@@ -1,0 +1,21 @@
+POI: 			Bingbing_Li 
+Youtube ID: 	A9Y9c1GI6co 
+Video length: 	307.5 sec 
+Set (V): 		dev 
+ 
+Bingbing_Li/A9Y9c1GI6co_0000001 26.3 31.7 
+Bingbing_Li/A9Y9c1GI6co_0000002 32.6 38.4 
+Bingbing_Li/A9Y9c1GI6co_0000003 48.2 72.1 
+Bingbing_Li/A9Y9c1GI6co_0000004 73.0 85.3 
+Bingbing_Li/A9Y9c1GI6co_0000005 86.8 99.6 
+Bingbing_Li/A9Y9c1GI6co_0000006 100.3 109.4 
+Bingbing_Li/A9Y9c1GI6co_0000007 114.8 122.4 
+Bingbing_Li/A9Y9c1GI6co_0000008 144.6 169.6 
+Bingbing_Li/A9Y9c1GI6co_0000009 176.0 182.4 
+Bingbing_Li/A9Y9c1GI6co_0000010 182.9 187.4 
+Bingbing_Li/A9Y9c1GI6co_0000011 188.9 200.0 
+Bingbing_Li/A9Y9c1GI6co_0000012 222.7 227.9 
+Bingbing_Li/A9Y9c1GI6co_0000013 251.4 269.4 
+Bingbing_Li/A9Y9c1GI6co_0000014 272.3 280.3 
+Bingbing_Li/A9Y9c1GI6co_0000015 281.5 286.0 
+Bingbing_Li/A9Y9c1GI6co_0000016 287.3 293.2 

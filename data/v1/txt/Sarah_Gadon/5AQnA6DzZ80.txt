@@ -1,0 +1,7 @@
+POI: 			Sarah_Gadon 
+Youtube ID: 	5AQnA6DzZ80 
+Video length: 	85.9 sec 
+Set (V): 		dev 
+ 
+Sarah_Gadon/5AQnA6DzZ80_0000001 27.9 39.5 
+Sarah_Gadon/5AQnA6DzZ80_0000002 67.9 72.5 

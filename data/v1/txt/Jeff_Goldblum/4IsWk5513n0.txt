@@ -1,0 +1,13 @@
+POI: 			Jeff_Goldblum 
+Youtube ID: 	4IsWk5513n0 
+Video length: 	422.6 sec 
+Set (V): 		dev 
+ 
+Jeff_Goldblum/4IsWk5513n0_0000001 54.5 60.3 
+Jeff_Goldblum/4IsWk5513n0_0000002 111.4 115.8 
+Jeff_Goldblum/4IsWk5513n0_0000003 128.8 138.8 
+Jeff_Goldblum/4IsWk5513n0_0000004 178.5 183.4 
+Jeff_Goldblum/4IsWk5513n0_0000005 225.4 232.7 
+Jeff_Goldblum/4IsWk5513n0_0000006 247.8 253.2 
+Jeff_Goldblum/4IsWk5513n0_0000007 263.2 275.5 
+Jeff_Goldblum/4IsWk5513n0_0000008 325.6 333.8 

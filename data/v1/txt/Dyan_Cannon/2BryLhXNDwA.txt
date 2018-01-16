@@ -1,0 +1,8 @@
+POI: 			Dyan_Cannon 
+Youtube ID: 	2BryLhXNDwA 
+Video length: 	483.6 sec 
+Set (V): 		dev 
+ 
+Dyan_Cannon/2BryLhXNDwA_0000001 33.6 40.0 
+Dyan_Cannon/2BryLhXNDwA_0000002 41.0 45.7 
+Dyan_Cannon/2BryLhXNDwA_0000003 182.2 187.4 

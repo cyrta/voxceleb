@@ -1,0 +1,19 @@
+POI: 			Thomas_Dekker 
+Youtube ID: 	4dxgOvp3Gy4 
+Video length: 	340.9 sec 
+Set (V): 		dev 
+ 
+Thomas_Dekker/4dxgOvp3Gy4_0000001 33.8 46.0 
+Thomas_Dekker/4dxgOvp3Gy4_0000002 64.4 79.0 
+Thomas_Dekker/4dxgOvp3Gy4_0000003 85.1 92.0 
+Thomas_Dekker/4dxgOvp3Gy4_0000004 95.1 99.9 
+Thomas_Dekker/4dxgOvp3Gy4_0000005 102.2 114.2 
+Thomas_Dekker/4dxgOvp3Gy4_0000006 116.2 125.0 
+Thomas_Dekker/4dxgOvp3Gy4_0000007 135.0 140.0 
+Thomas_Dekker/4dxgOvp3Gy4_0000008 152.5 161.1 
+Thomas_Dekker/4dxgOvp3Gy4_0000009 161.2 166.4 
+Thomas_Dekker/4dxgOvp3Gy4_0000010 166.9 177.6 
+Thomas_Dekker/4dxgOvp3Gy4_0000011 192.5 200.0 
+Thomas_Dekker/4dxgOvp3Gy4_0000012 214.5 221.6 
+Thomas_Dekker/4dxgOvp3Gy4_0000013 231.2 240.6 
+Thomas_Dekker/4dxgOvp3Gy4_0000014 276.0 294.4 

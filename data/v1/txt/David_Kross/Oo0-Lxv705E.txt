@@ -1,0 +1,13 @@
+POI: 			David_Kross 
+Youtube ID: 	Oo0-Lxv705E 
+Video length: 	225.8 sec 
+Set (V): 		dev 
+ 
+David_Kross/Oo0-Lxv705E_0000001 54.1 58.7 
+David_Kross/Oo0-Lxv705E_0000002 59.8 65.9 
+David_Kross/Oo0-Lxv705E_0000003 130.1 135.6 
+David_Kross/Oo0-Lxv705E_0000004 145.1 149.3 
+David_Kross/Oo0-Lxv705E_0000005 156.5 162.0 
+David_Kross/Oo0-Lxv705E_0000006 163.2 168.3 
+David_Kross/Oo0-Lxv705E_0000007 177.1 181.0 
+David_Kross/Oo0-Lxv705E_0000008 184.4 192.2 

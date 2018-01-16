@@ -1,0 +1,28 @@
+POI: 			Eddie_Izzard 
+Youtube ID: 	prqT1CcDqMc 
+Video length: 	612.4 sec 
+Set (V): 		test 
+ 
+Eddie_Izzard/prqT1CcDqMc_0000001 56.1 63.8 
+Eddie_Izzard/prqT1CcDqMc_0000002 74.8 81.4 
+Eddie_Izzard/prqT1CcDqMc_0000003 100.2 113.4 
+Eddie_Izzard/prqT1CcDqMc_0000004 121.9 126.2 
+Eddie_Izzard/prqT1CcDqMc_0000005 129.0 133.8 
+Eddie_Izzard/prqT1CcDqMc_0000006 135.6 142.0 
+Eddie_Izzard/prqT1CcDqMc_0000007 230.5 240.8 
+Eddie_Izzard/prqT1CcDqMc_0000008 243.0 250.7 
+Eddie_Izzard/prqT1CcDqMc_0000009 291.4 300.1 
+Eddie_Izzard/prqT1CcDqMc_0000010 304.7 313.6 
+Eddie_Izzard/prqT1CcDqMc_0000011 316.2 322.0 
+Eddie_Izzard/prqT1CcDqMc_0000012 328.6 336.1 
+Eddie_Izzard/prqT1CcDqMc_0000013 368.2 379.6 
+Eddie_Izzard/prqT1CcDqMc_0000014 383.6 389.6 
+Eddie_Izzard/prqT1CcDqMc_0000015 393.0 398.0 
+Eddie_Izzard/prqT1CcDqMc_0000016 401.2 405.8 
+Eddie_Izzard/prqT1CcDqMc_0000017 441.4 446.2 
+Eddie_Izzard/prqT1CcDqMc_0000018 460.9 465.0 
+Eddie_Izzard/prqT1CcDqMc_0000019 492.8 500.5 
+Eddie_Izzard/prqT1CcDqMc_0000020 539.6 544.3 
+Eddie_Izzard/prqT1CcDqMc_0000021 547.4 552.2 
+Eddie_Izzard/prqT1CcDqMc_0000022 567.6 573.1 
+Eddie_Izzard/prqT1CcDqMc_0000023 582.2 586.2 

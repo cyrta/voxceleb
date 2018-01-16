@@ -1,0 +1,8 @@
+POI: 			Meghan_Trainor 
+Youtube ID: 	IqubwBpQO_k 
+Video length: 	478.8 sec 
+Set (V): 		dev 
+ 
+Meghan_Trainor/IqubwBpQO_k_0000001 73.8 83.2 
+Meghan_Trainor/IqubwBpQO_k_0000002 85.5 89.6 
+Meghan_Trainor/IqubwBpQO_k_0000003 314.4 319.6 

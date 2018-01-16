@@ -1,0 +1,22 @@
+POI: 			Luc_Besson 
+Youtube ID: 	nduTj_-BiF4 
+Video length: 	400.2 sec 
+Set (V): 		dev 
+ 
+Luc_Besson/nduTj_-BiF4_0000001 51.3 58.9 
+Luc_Besson/nduTj_-BiF4_0000002 65.1 69.3 
+Luc_Besson/nduTj_-BiF4_0000003 70.0 74.1 
+Luc_Besson/nduTj_-BiF4_0000004 76.8 81.9 
+Luc_Besson/nduTj_-BiF4_0000005 82.8 87.8 
+Luc_Besson/nduTj_-BiF4_0000006 128.0 133.1 
+Luc_Besson/nduTj_-BiF4_0000007 143.0 155.7 
+Luc_Besson/nduTj_-BiF4_0000008 160.6 178.7 
+Luc_Besson/nduTj_-BiF4_0000009 180.6 185.4 
+Luc_Besson/nduTj_-BiF4_0000010 187.3 191.5 
+Luc_Besson/nduTj_-BiF4_0000011 192.0 196.5 
+Luc_Besson/nduTj_-BiF4_0000012 242.3 248.7 
+Luc_Besson/nduTj_-BiF4_0000013 249.4 254.6 
+Luc_Besson/nduTj_-BiF4_0000014 269.8 274.0 
+Luc_Besson/nduTj_-BiF4_0000015 280.7 284.8 
+Luc_Besson/nduTj_-BiF4_0000016 358.6 363.0 
+Luc_Besson/nduTj_-BiF4_0000017 389.5 396.3 

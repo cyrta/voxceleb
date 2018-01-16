@@ -1,0 +1,8 @@
+POI: 			Thomas_Jane 
+Youtube ID: 	Z5d7NvD9W_k 
+Video length: 	388.5 sec 
+Set (V): 		dev 
+ 
+Thomas_Jane/Z5d7NvD9W_k_0000001 184.1 189.0 
+Thomas_Jane/Z5d7NvD9W_k_0000002 195.8 200.0 
+Thomas_Jane/Z5d7NvD9W_k_0000003 216.6 222.1 

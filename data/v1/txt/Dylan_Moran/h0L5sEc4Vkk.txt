@@ -1,0 +1,11 @@
+POI: 			Dylan_Moran 
+Youtube ID: 	h0L5sEc4Vkk 
+Video length: 	339.9 sec 
+Set (V): 		dev 
+ 
+Dylan_Moran/h0L5sEc4Vkk_0000001 60.9 66.4 
+Dylan_Moran/h0L5sEc4Vkk_0000002 69.0 76.2 
+Dylan_Moran/h0L5sEc4Vkk_0000003 87.1 92.2 
+Dylan_Moran/h0L5sEc4Vkk_0000004 127.6 136.6 
+Dylan_Moran/h0L5sEc4Vkk_0000005 197.9 202.5 
+Dylan_Moran/h0L5sEc4Vkk_0000006 266.3 270.3 

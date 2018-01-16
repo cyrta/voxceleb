@@ -1,0 +1,21 @@
+POI: 			John_Lloyd_Young 
+Youtube ID: 	YzTywnDy028 
+Video length: 	917.6 sec 
+Set (V): 		dev 
+ 
+John_Lloyd_Young/YzTywnDy028_0000001 103.8 108.8 
+John_Lloyd_Young/YzTywnDy028_0000002 356.2 361.5 
+John_Lloyd_Young/YzTywnDy028_0000003 478.3 490.1 
+John_Lloyd_Young/YzTywnDy028_0000004 591.3 596.9 
+John_Lloyd_Young/YzTywnDy028_0000005 597.8 605.0 
+John_Lloyd_Young/YzTywnDy028_0000006 605.8 616.7 
+John_Lloyd_Young/YzTywnDy028_0000007 622.5 629.9 
+John_Lloyd_Young/YzTywnDy028_0000008 630.7 637.4 
+John_Lloyd_Young/YzTywnDy028_0000009 645.4 652.2 
+John_Lloyd_Young/YzTywnDy028_0000010 734.4 745.6 
+John_Lloyd_Young/YzTywnDy028_0000011 746.4 750.5 
+John_Lloyd_Young/YzTywnDy028_0000012 754.4 766.1 
+John_Lloyd_Young/YzTywnDy028_0000013 787.3 795.2 
+John_Lloyd_Young/YzTywnDy028_0000014 678.9 684.4 
+John_Lloyd_Young/YzTywnDy028_0000015 705.7 714.8 
+John_Lloyd_Young/YzTywnDy028_0000016 856.3 860.9 

@@ -1,0 +1,20 @@
+POI: 			Shahid_Kapoor 
+Youtube ID: 	HmhdsvtScUU 
+Video length: 	757.1 sec 
+Set (V): 		dev 
+ 
+Shahid_Kapoor/HmhdsvtScUU_0000001 54.4 63.3 
+Shahid_Kapoor/HmhdsvtScUU_0000002 63.5 72.2 
+Shahid_Kapoor/HmhdsvtScUU_0000003 74.4 83.2 
+Shahid_Kapoor/HmhdsvtScUU_0000004 91.4 103.4 
+Shahid_Kapoor/HmhdsvtScUU_0000005 148.0 153.2 
+Shahid_Kapoor/HmhdsvtScUU_0000006 177.4 182.8 
+Shahid_Kapoor/HmhdsvtScUU_0000007 183.8 189.7 
+Shahid_Kapoor/HmhdsvtScUU_0000008 197.1 202.2 
+Shahid_Kapoor/HmhdsvtScUU_0000009 245.8 255.2 
+Shahid_Kapoor/HmhdsvtScUU_0000010 343.8 349.4 
+Shahid_Kapoor/HmhdsvtScUU_0000011 391.0 395.5 
+Shahid_Kapoor/HmhdsvtScUU_0000012 567.6 573.0 
+Shahid_Kapoor/HmhdsvtScUU_0000013 574.0 578.9 
+Shahid_Kapoor/HmhdsvtScUU_0000014 648.0 655.6 
+Shahid_Kapoor/HmhdsvtScUU_0000015 715.8 721.7 

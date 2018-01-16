@@ -1,0 +1,7 @@
+POI: 			Sarah_Hyland 
+Youtube ID: 	Dn3TklowuNU 
+Video length: 	564.6 sec 
+Set (V): 		dev 
+ 
+Sarah_Hyland/Dn3TklowuNU_0000001 243.6 248.0 
+Sarah_Hyland/Dn3TklowuNU_0000002 375.1 381.5 

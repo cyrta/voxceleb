@@ -1,0 +1,8 @@
+POI: 			Jennifer_Carpenter 
+Youtube ID: 	MkIKWnsrfYg 
+Video length: 	529.8 sec 
+Set (V): 		dev 
+ 
+Jennifer_Carpenter/MkIKWnsrfYg_0000001 115.6 119.8 
+Jennifer_Carpenter/MkIKWnsrfYg_0000002 165.2 169.6 
+Jennifer_Carpenter/MkIKWnsrfYg_0000003 379.0 387.0 

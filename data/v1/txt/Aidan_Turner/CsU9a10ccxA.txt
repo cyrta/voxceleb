@@ -1,0 +1,7 @@
+POI: 			Aidan_Turner 
+Youtube ID: 	CsU9a10ccxA 
+Video length: 	625.2 sec 
+Set (V): 		dev 
+ 
+Aidan_Turner/CsU9a10ccxA_0000001 300.2 305.5 
+Aidan_Turner/CsU9a10ccxA_0000002 442.3 448.2 

@@ -1,0 +1,8 @@
+POI: 			Mamie_Gummer 
+Youtube ID: 	tDPEeMe4aVg 
+Video length: 	276.3 sec 
+Set (V): 		dev 
+ 
+Mamie_Gummer/tDPEeMe4aVg_0000001 42.0 49.4 
+Mamie_Gummer/tDPEeMe4aVg_0000002 172.0 177.3 
+Mamie_Gummer/tDPEeMe4aVg_0000003 246.4 250.6 

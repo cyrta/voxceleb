@@ -1,0 +1,10 @@
+POI: 			Sarah_Palin 
+Youtube ID: 	Z75QSExE0jU 
+Video length: 	154.5 sec 
+Set (V): 		dev 
+ 
+Sarah_Palin/Z75QSExE0jU_0000001 20.3 24.6 
+Sarah_Palin/Z75QSExE0jU_0000002 24.8 46.1 
+Sarah_Palin/Z75QSExE0jU_0000003 64.3 68.8 
+Sarah_Palin/Z75QSExE0jU_0000004 78.3 98.2 
+Sarah_Palin/Z75QSExE0jU_0000005 137.1 149.2 

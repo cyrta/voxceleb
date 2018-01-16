@@ -1,0 +1,18 @@
+POI: 			Steven_Bauer 
+Youtube ID: 	FeALlm36XLM 
+Video length: 	483.3 sec 
+Set (V): 		dev 
+ 
+Steven_Bauer/FeALlm36XLM_0000001 160.5 166.4 
+Steven_Bauer/FeALlm36XLM_0000002 168.4 174.8 
+Steven_Bauer/FeALlm36XLM_0000003 177.2 182.9 
+Steven_Bauer/FeALlm36XLM_0000004 183.6 189.2 
+Steven_Bauer/FeALlm36XLM_0000005 189.5 193.7 
+Steven_Bauer/FeALlm36XLM_0000006 195.6 199.8 
+Steven_Bauer/FeALlm36XLM_0000007 214.4 218.8 
+Steven_Bauer/FeALlm36XLM_0000008 278.8 284.4 
+Steven_Bauer/FeALlm36XLM_0000009 285.6 290.8 
+Steven_Bauer/FeALlm36XLM_0000010 369.4 378.9 
+Steven_Bauer/FeALlm36XLM_0000011 432.6 436.9 
+Steven_Bauer/FeALlm36XLM_0000012 456.8 462.2 
+Steven_Bauer/FeALlm36XLM_0000013 463.8 470.4 

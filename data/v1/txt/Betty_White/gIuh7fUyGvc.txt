@@ -1,0 +1,7 @@
+POI: 			Betty_White 
+Youtube ID: 	gIuh7fUyGvc 
+Video length: 	309.7 sec 
+Set (V): 		dev 
+ 
+Betty_White/gIuh7fUyGvc_0000001 27.2 32.2 
+Betty_White/gIuh7fUyGvc_0000002 40.3 45.4 

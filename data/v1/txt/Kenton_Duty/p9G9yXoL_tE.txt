@@ -1,0 +1,8 @@
+POI: 			Kenton_Duty 
+Youtube ID: 	p9G9yXoL_tE 
+Video length: 	93.0 sec 
+Set (V): 		dev 
+ 
+Kenton_Duty/p9G9yXoL_tE_0000001 10.1 15.3 
+Kenton_Duty/p9G9yXoL_tE_0000002 17.2 25.7 
+Kenton_Duty/p9G9yXoL_tE_0000003 54.1 58.9 

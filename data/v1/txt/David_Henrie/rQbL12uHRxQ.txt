@@ -1,0 +1,7 @@
+POI: 			David_Henrie 
+Youtube ID: 	rQbL12uHRxQ 
+Video length: 	302.4 sec 
+Set (V): 		dev 
+ 
+David_Henrie/rQbL12uHRxQ_0000001 134.6 149.3 
+David_Henrie/rQbL12uHRxQ_0000002 239.4 246.2 

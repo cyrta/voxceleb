@@ -1,0 +1,8 @@
+POI: 			Todd_Lasance 
+Youtube ID: 	naHQuye3MA8 
+Video length: 	272.3 sec 
+Set (V): 		dev 
+ 
+Todd_Lasance/naHQuye3MA8_0000001 194.2 204.2 
+Todd_Lasance/naHQuye3MA8_0000002 227.8 235.8 
+Todd_Lasance/naHQuye3MA8_0000003 259.3 263.4 

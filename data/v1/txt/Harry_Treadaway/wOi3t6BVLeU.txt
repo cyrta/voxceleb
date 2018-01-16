@@ -1,0 +1,7 @@
+POI: 			Harry_Treadaway 
+Youtube ID: 	wOi3t6BVLeU 
+Video length: 	128.1 sec 
+Set (V): 		dev 
+ 
+Harry_Treadaway/wOi3t6BVLeU_0000001 67.6 74.4 
+Harry_Treadaway/wOi3t6BVLeU_0000002 81.8 87.2 

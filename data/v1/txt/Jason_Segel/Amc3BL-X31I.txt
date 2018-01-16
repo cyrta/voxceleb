@@ -1,0 +1,8 @@
+POI: 			Jason_Segel 
+Youtube ID: 	Amc3BL-X31I 
+Video length: 	229.5 sec 
+Set (V): 		dev 
+ 
+Jason_Segel/Amc3BL-X31I_0000001 138.1 142.2 
+Jason_Segel/Amc3BL-X31I_0000002 142.3 152.1 
+Jason_Segel/Amc3BL-X31I_0000003 156.2 167.0 

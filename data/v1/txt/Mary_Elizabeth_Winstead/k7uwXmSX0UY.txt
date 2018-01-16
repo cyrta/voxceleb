@@ -1,0 +1,12 @@
+POI: 			Mary_Elizabeth_Winstead 
+Youtube ID: 	k7uwXmSX0UY 
+Video length: 	230.2 sec 
+Set (V): 		dev 
+ 
+Mary_Elizabeth_Winstead/k7uwXmSX0UY_0000001 25.6 46.5 
+Mary_Elizabeth_Winstead/k7uwXmSX0UY_0000002 108.0 123.5 
+Mary_Elizabeth_Winstead/k7uwXmSX0UY_0000003 159.8 169.7 
+Mary_Elizabeth_Winstead/k7uwXmSX0UY_0000004 170.7 176.3 
+Mary_Elizabeth_Winstead/k7uwXmSX0UY_0000005 190.5 200.0 
+Mary_Elizabeth_Winstead/k7uwXmSX0UY_0000006 202.4 207.1 
+Mary_Elizabeth_Winstead/k7uwXmSX0UY_0000007 189.4 217.9 

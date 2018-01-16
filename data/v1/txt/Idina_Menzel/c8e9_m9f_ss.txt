@@ -1,0 +1,10 @@
+POI: 			Idina_Menzel 
+Youtube ID: 	c8e9_m9f_ss 
+Video length: 	297.5 sec 
+Set (V): 		dev 
+ 
+Idina_Menzel/c8e9_m9f_ss_0000001 88.0 96.4 
+Idina_Menzel/c8e9_m9f_ss_0000002 122.8 127.3 
+Idina_Menzel/c8e9_m9f_ss_0000003 202.9 210.1 
+Idina_Menzel/c8e9_m9f_ss_0000004 222.1 229.3 
+Idina_Menzel/c8e9_m9f_ss_0000005 232.7 237.7 

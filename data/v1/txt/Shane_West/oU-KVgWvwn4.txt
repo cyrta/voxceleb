@@ -1,0 +1,7 @@
+POI: 			Shane_West 
+Youtube ID: 	oU-KVgWvwn4 
+Video length: 	859.5 sec 
+Set (V): 		dev 
+ 
+Shane_West/oU-KVgWvwn4_0000001 367.0 375.0 
+Shane_West/oU-KVgWvwn4_0000002 572.4 581.1 

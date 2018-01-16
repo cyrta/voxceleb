@@ -1,0 +1,7 @@
+POI: 			Dana_Delany 
+Youtube ID: 	0OniOYEgQOE 
+Video length: 	200.1 sec 
+Set (V): 		dev 
+ 
+Dana_Delany/0OniOYEgQOE_0000001 33.8 51.3 
+Dana_Delany/0OniOYEgQOE_0000002 53.3 59.1 

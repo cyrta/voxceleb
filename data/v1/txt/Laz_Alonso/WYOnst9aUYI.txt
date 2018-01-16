@@ -1,0 +1,9 @@
+POI: 			Laz_Alonso 
+Youtube ID: 	WYOnst9aUYI 
+Video length: 	337.8 sec 
+Set (V): 		dev 
+ 
+Laz_Alonso/WYOnst9aUYI_0000001 63.2 70.6 
+Laz_Alonso/WYOnst9aUYI_0000002 134.7 153.4 
+Laz_Alonso/WYOnst9aUYI_0000003 154.0 174.8 
+Laz_Alonso/WYOnst9aUYI_0000004 182.2 194.8 

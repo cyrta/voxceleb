@@ -1,0 +1,17 @@
+POI: 			Julianne_Hough 
+Youtube ID: 	piI767rWc8E 
+Video length: 	2434.7 sec 
+Set (V): 		dev 
+ 
+Julianne_Hough/piI767rWc8E_0000001 51.5 58.8 
+Julianne_Hough/piI767rWc8E_0000002 63.3 67.4 
+Julianne_Hough/piI767rWc8E_0000003 353.5 367.1 
+Julianne_Hough/piI767rWc8E_0000004 426.3 432.2 
+Julianne_Hough/piI767rWc8E_0000005 653.4 658.7 
+Julianne_Hough/piI767rWc8E_0000006 976.0 980.3 
+Julianne_Hough/piI767rWc8E_0000007 2273.4 2280.0 
+Julianne_Hough/piI767rWc8E_0000008 2284.0 2288.9 
+Julianne_Hough/piI767rWc8E_0000009 2289.1 2295.2 
+Julianne_Hough/piI767rWc8E_0000010 2295.4 2299.6 
+Julianne_Hough/piI767rWc8E_0000011 2356.4 2367.3 
+Julianne_Hough/piI767rWc8E_0000012 2371.8 2375.9 

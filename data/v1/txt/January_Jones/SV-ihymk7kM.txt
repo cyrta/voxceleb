@@ -1,0 +1,16 @@
+POI: 			January_Jones 
+Youtube ID: 	SV-ihymk7kM 
+Video length: 	226.4 sec 
+Set (V): 		dev 
+ 
+January_Jones/SV-ihymk7kM_0000001 20.1 24.7 
+January_Jones/SV-ihymk7kM_0000002 33.6 39.2 
+January_Jones/SV-ihymk7kM_0000003 68.3 76.0 
+January_Jones/SV-ihymk7kM_0000004 86.5 91.2 
+January_Jones/SV-ihymk7kM_0000005 93.3 107.6 
+January_Jones/SV-ihymk7kM_0000006 114.3 123.8 
+January_Jones/SV-ihymk7kM_0000007 152.7 158.0 
+January_Jones/SV-ihymk7kM_0000008 161.2 167.3 
+January_Jones/SV-ihymk7kM_0000009 169.6 174.0 
+January_Jones/SV-ihymk7kM_0000010 181.5 189.9 
+January_Jones/SV-ihymk7kM_0000011 201.1 210.0 

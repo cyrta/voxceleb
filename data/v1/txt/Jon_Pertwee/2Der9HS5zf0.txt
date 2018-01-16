@@ -1,0 +1,12 @@
+POI: 			Jon_Pertwee 
+Youtube ID: 	2Der9HS5zf0 
+Video length: 	476.3 sec 
+Set (V): 		dev 
+ 
+Jon_Pertwee/2Der9HS5zf0_0000001 58.0 73.7 
+Jon_Pertwee/2Der9HS5zf0_0000002 124.5 131.2 
+Jon_Pertwee/2Der9HS5zf0_0000003 185.2 192.3 
+Jon_Pertwee/2Der9HS5zf0_0000004 278.3 283.0 
+Jon_Pertwee/2Der9HS5zf0_0000005 302.9 307.6 
+Jon_Pertwee/2Der9HS5zf0_0000006 325.7 330.3 
+Jon_Pertwee/2Der9HS5zf0_0000007 341.6 347.6 

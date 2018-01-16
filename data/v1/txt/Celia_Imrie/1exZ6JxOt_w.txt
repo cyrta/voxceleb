@@ -1,0 +1,8 @@
+POI: 			Celia_Imrie 
+Youtube ID: 	1exZ6JxOt_w 
+Video length: 	470.6 sec 
+Set (V): 		dev 
+ 
+Celia_Imrie/1exZ6JxOt_w_0000001 306.7 311.1 
+Celia_Imrie/1exZ6JxOt_w_0000002 351.4 357.2 
+Celia_Imrie/1exZ6JxOt_w_0000003 424.2 431.4 

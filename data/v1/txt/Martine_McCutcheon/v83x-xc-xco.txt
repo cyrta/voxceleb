@@ -1,0 +1,8 @@
+POI: 			Martine_McCutcheon 
+Youtube ID: 	v83x-xc-xco 
+Video length: 	148.6 sec 
+Set (V): 		dev 
+ 
+Martine_McCutcheon/v83x-xc-xco_0000001 12.9 20.0 
+Martine_McCutcheon/v83x-xc-xco_0000002 28.0 34.5 
+Martine_McCutcheon/v83x-xc-xco_0000003 43.9 50.7 

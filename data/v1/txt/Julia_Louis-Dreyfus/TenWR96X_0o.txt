@@ -1,0 +1,9 @@
+POI: 			Julia_Louis-Dreyfus 
+Youtube ID: 	TenWR96X_0o 
+Video length: 	309.8 sec 
+Set (V): 		dev 
+ 
+Julia_Louis-Dreyfus/TenWR96X_0o_0000001 55.8 61.8 
+Julia_Louis-Dreyfus/TenWR96X_0o_0000002 69.8 73.8 
+Julia_Louis-Dreyfus/TenWR96X_0o_0000003 95.5 104.1 
+Julia_Louis-Dreyfus/TenWR96X_0o_0000004 272.8 277.4 

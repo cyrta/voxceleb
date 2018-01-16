@@ -1,0 +1,7 @@
+POI: 			Susan_Lucci 
+Youtube ID: 	gs72O6fwyT8 
+Video length: 	563.5 sec 
+Set (V): 		dev 
+ 
+Susan_Lucci/gs72O6fwyT8_0000001 162.4 166.4 
+Susan_Lucci/gs72O6fwyT8_0000002 303.7 307.9 

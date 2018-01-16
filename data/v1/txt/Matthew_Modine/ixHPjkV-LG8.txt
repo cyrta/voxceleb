@@ -1,0 +1,27 @@
+POI: 			Matthew_Modine 
+Youtube ID: 	ixHPjkV-LG8 
+Video length: 	455.0 sec 
+Set (V): 		dev 
+ 
+Matthew_Modine/ixHPjkV-LG8_0000001 11.5 18.8 
+Matthew_Modine/ixHPjkV-LG8_0000002 21.1 27.4 
+Matthew_Modine/ixHPjkV-LG8_0000003 28.8 35.6 
+Matthew_Modine/ixHPjkV-LG8_0000004 38.1 42.2 
+Matthew_Modine/ixHPjkV-LG8_0000005 42.5 51.6 
+Matthew_Modine/ixHPjkV-LG8_0000006 55.1 59.1 
+Matthew_Modine/ixHPjkV-LG8_0000007 59.3 71.6 
+Matthew_Modine/ixHPjkV-LG8_0000008 72.0 77.9 
+Matthew_Modine/ixHPjkV-LG8_0000009 86.7 107.3 
+Matthew_Modine/ixHPjkV-LG8_0000010 112.3 122.0 
+Matthew_Modine/ixHPjkV-LG8_0000011 155.4 161.0 
+Matthew_Modine/ixHPjkV-LG8_0000012 161.6 167.3 
+Matthew_Modine/ixHPjkV-LG8_0000013 189.0 197.3 
+Matthew_Modine/ixHPjkV-LG8_0000014 210.2 219.5 
+Matthew_Modine/ixHPjkV-LG8_0000015 226.9 231.3 
+Matthew_Modine/ixHPjkV-LG8_0000016 231.8 245.6 
+Matthew_Modine/ixHPjkV-LG8_0000017 257.4 265.6 
+Matthew_Modine/ixHPjkV-LG8_0000018 274.1 288.6 
+Matthew_Modine/ixHPjkV-LG8_0000019 290.0 300.0 
+Matthew_Modine/ixHPjkV-LG8_0000020 309.4 316.1 
+Matthew_Modine/ixHPjkV-LG8_0000021 344.7 350.9 
+Matthew_Modine/ixHPjkV-LG8_0000022 368.4 376.7 

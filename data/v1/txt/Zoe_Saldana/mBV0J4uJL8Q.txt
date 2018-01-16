@@ -1,0 +1,13 @@
+POI: 			Zoe_Saldana 
+Youtube ID: 	mBV0J4uJL8Q 
+Video length: 	222.7 sec 
+Set (V): 		dev 
+ 
+Zoe_Saldana/mBV0J4uJL8Q_0000001 10.8 21.8 
+Zoe_Saldana/mBV0J4uJL8Q_0000002 28.8 35.2 
+Zoe_Saldana/mBV0J4uJL8Q_0000003 40.9 48.6 
+Zoe_Saldana/mBV0J4uJL8Q_0000004 68.6 73.2 
+Zoe_Saldana/mBV0J4uJL8Q_0000005 110.5 124.8 
+Zoe_Saldana/mBV0J4uJL8Q_0000006 126.6 134.9 
+Zoe_Saldana/mBV0J4uJL8Q_0000007 139.9 150.5 
+Zoe_Saldana/mBV0J4uJL8Q_0000008 167.9 182.9 

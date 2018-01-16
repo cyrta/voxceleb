@@ -1,0 +1,7 @@
+POI: 			Amanda_Seyfried 
+Youtube ID: 	3t-RnqGXDrM 
+Video length: 	314.8 sec 
+Set (V): 		dev 
+ 
+Amanda_Seyfried/3t-RnqGXDrM_0000001 76.6 82.6 
+Amanda_Seyfried/3t-RnqGXDrM_0000002 107.6 111.6 

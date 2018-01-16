@@ -1,0 +1,7 @@
+POI: 			Kate_Voegele 
+Youtube ID: 	MN-qNRq2pUE 
+Video length: 	426.2 sec 
+Set (V): 		dev 
+ 
+Kate_Voegele/MN-qNRq2pUE_0000001 49.4 56.8 
+Kate_Voegele/MN-qNRq2pUE_0000002 130.8 140.6 

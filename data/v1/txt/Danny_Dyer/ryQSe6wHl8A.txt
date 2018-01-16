@@ -1,0 +1,18 @@
+POI: 			Danny_Dyer 
+Youtube ID: 	ryQSe6wHl8A 
+Video length: 	1154.3 sec 
+Set (V): 		dev 
+ 
+Danny_Dyer/ryQSe6wHl8A_0000001 222.9 236.5 
+Danny_Dyer/ryQSe6wHl8A_0000002 242.8 252.9 
+Danny_Dyer/ryQSe6wHl8A_0000003 335.6 342.7 
+Danny_Dyer/ryQSe6wHl8A_0000004 387.5 399.0 
+Danny_Dyer/ryQSe6wHl8A_0000005 399.6 410.4 
+Danny_Dyer/ryQSe6wHl8A_0000006 433.1 442.2 
+Danny_Dyer/ryQSe6wHl8A_0000007 517.2 522.5 
+Danny_Dyer/ryQSe6wHl8A_0000008 572.2 576.8 
+Danny_Dyer/ryQSe6wHl8A_0000009 577.4 581.7 
+Danny_Dyer/ryQSe6wHl8A_0000010 640.0 644.5 
+Danny_Dyer/ryQSe6wHl8A_0000011 659.2 670.1 
+Danny_Dyer/ryQSe6wHl8A_0000012 684.1 689.3 
+Danny_Dyer/ryQSe6wHl8A_0000013 1109.2 1113.6 

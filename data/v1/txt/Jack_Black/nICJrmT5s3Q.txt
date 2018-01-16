@@ -1,0 +1,19 @@
+POI: 			Jack_Black 
+Youtube ID: 	nICJrmT5s3Q 
+Video length: 	231.5 sec 
+Set (V): 		dev 
+ 
+Jack_Black/nICJrmT5s3Q_0000001 10.7 17.1 
+Jack_Black/nICJrmT5s3Q_0000002 18.1 22.1 
+Jack_Black/nICJrmT5s3Q_0000003 27.8 42.9 
+Jack_Black/nICJrmT5s3Q_0000004 45.9 52.8 
+Jack_Black/nICJrmT5s3Q_0000005 68.6 72.7 
+Jack_Black/nICJrmT5s3Q_0000006 73.5 81.9 
+Jack_Black/nICJrmT5s3Q_0000007 99.8 104.5 
+Jack_Black/nICJrmT5s3Q_0000008 111.0 118.2 
+Jack_Black/nICJrmT5s3Q_0000009 129.2 141.0 
+Jack_Black/nICJrmT5s3Q_0000010 143.4 147.6 
+Jack_Black/nICJrmT5s3Q_0000011 152.5 161.5 
+Jack_Black/nICJrmT5s3Q_0000012 173.8 180.6 
+Jack_Black/nICJrmT5s3Q_0000013 182.9 187.0 
+Jack_Black/nICJrmT5s3Q_0000014 188.6 196.4 

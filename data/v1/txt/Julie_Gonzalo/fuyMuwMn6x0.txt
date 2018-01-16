@@ -1,0 +1,19 @@
+POI: 			Julie_Gonzalo 
+Youtube ID: 	fuyMuwMn6x0 
+Video length: 	243.3 sec 
+Set (V): 		dev 
+ 
+Julie_Gonzalo/fuyMuwMn6x0_0000001 09.3 34.0 
+Julie_Gonzalo/fuyMuwMn6x0_0000002 34.8 40.4 
+Julie_Gonzalo/fuyMuwMn6x0_0000003 65.0 71.4 
+Julie_Gonzalo/fuyMuwMn6x0_0000004 80.3 105.8 
+Julie_Gonzalo/fuyMuwMn6x0_0000005 106.5 110.4 
+Julie_Gonzalo/fuyMuwMn6x0_0000006 138.5 155.2 
+Julie_Gonzalo/fuyMuwMn6x0_0000007 155.5 163.2 
+Julie_Gonzalo/fuyMuwMn6x0_0000008 163.9 173.4 
+Julie_Gonzalo/fuyMuwMn6x0_0000009 178.2 185.7 
+Julie_Gonzalo/fuyMuwMn6x0_0000010 186.3 198.5 
+Julie_Gonzalo/fuyMuwMn6x0_0000011 199.4 206.3 
+Julie_Gonzalo/fuyMuwMn6x0_0000012 208.0 212.7 
+Julie_Gonzalo/fuyMuwMn6x0_0000013 213.4 223.5 
+Julie_Gonzalo/fuyMuwMn6x0_0000014 228.8 235.5 

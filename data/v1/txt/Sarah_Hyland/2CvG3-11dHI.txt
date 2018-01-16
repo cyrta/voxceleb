@@ -1,0 +1,15 @@
+POI: 			Sarah_Hyland 
+Youtube ID: 	2CvG3-11dHI 
+Video length: 	264.9 sec 
+Set (V): 		dev 
+ 
+Sarah_Hyland/2CvG3-11dHI_0000001 24.5 50.6 
+Sarah_Hyland/2CvG3-11dHI_0000002 51.0 60.4 
+Sarah_Hyland/2CvG3-11dHI_0000003 65.1 76.0 
+Sarah_Hyland/2CvG3-11dHI_0000004 82.8 101.8 
+Sarah_Hyland/2CvG3-11dHI_0000005 107.4 122.3 
+Sarah_Hyland/2CvG3-11dHI_0000006 140.1 161.5 
+Sarah_Hyland/2CvG3-11dHI_0000007 167.2 178.0 
+Sarah_Hyland/2CvG3-11dHI_0000008 193.7 198.4 
+Sarah_Hyland/2CvG3-11dHI_0000009 206.6 216.0 
+Sarah_Hyland/2CvG3-11dHI_0000010 236.6 249.2 

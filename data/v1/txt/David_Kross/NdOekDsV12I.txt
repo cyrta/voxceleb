@@ -1,0 +1,9 @@
+POI: 			David_Kross 
+Youtube ID: 	NdOekDsV12I 
+Video length: 	134.3 sec 
+Set (V): 		dev 
+ 
+David_Kross/NdOekDsV12I_0000001 29.4 34.7 
+David_Kross/NdOekDsV12I_0000002 59.4 65.7 
+David_Kross/NdOekDsV12I_0000003 101.7 108.5 
+David_Kross/NdOekDsV12I_0000004 108.7 114.8 

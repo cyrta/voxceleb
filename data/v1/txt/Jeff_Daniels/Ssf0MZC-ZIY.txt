@@ -1,0 +1,8 @@
+POI: 			Jeff_Daniels 
+Youtube ID: 	Ssf0MZC-ZIY 
+Video length: 	192.3 sec 
+Set (V): 		dev 
+ 
+Jeff_Daniels/Ssf0MZC-ZIY_0000001 18.0 25.6 
+Jeff_Daniels/Ssf0MZC-ZIY_0000002 144.3 159.4 
+Jeff_Daniels/Ssf0MZC-ZIY_0000003 174.3 186.3 

@@ -1,0 +1,16 @@
+POI: 			Rob_Reiner 
+Youtube ID: 	p5qFkL8yVuI 
+Video length: 	505.1 sec 
+Set (V): 		dev 
+ 
+Rob_Reiner/p5qFkL8yVuI_0000001 12.4 19.6 
+Rob_Reiner/p5qFkL8yVuI_0000002 67.3 73.8 
+Rob_Reiner/p5qFkL8yVuI_0000003 87.1 99.6 
+Rob_Reiner/p5qFkL8yVuI_0000004 138.1 142.5 
+Rob_Reiner/p5qFkL8yVuI_0000005 206.2 215.1 
+Rob_Reiner/p5qFkL8yVuI_0000006 232.1 240.6 
+Rob_Reiner/p5qFkL8yVuI_0000007 241.4 258.5 
+Rob_Reiner/p5qFkL8yVuI_0000008 282.9 287.2 
+Rob_Reiner/p5qFkL8yVuI_0000009 306.2 315.7 
+Rob_Reiner/p5qFkL8yVuI_0000010 375.2 379.9 
+Rob_Reiner/p5qFkL8yVuI_0000011 451.4 455.8 

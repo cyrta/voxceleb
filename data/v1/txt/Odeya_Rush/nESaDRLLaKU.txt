@@ -1,0 +1,7 @@
+POI: 			Odeya_Rush 
+Youtube ID: 	nESaDRLLaKU 
+Video length: 	212.4 sec 
+Set (V): 		dev 
+ 
+Odeya_Rush/nESaDRLLaKU_0000001 56.6 60.8 
+Odeya_Rush/nESaDRLLaKU_0000002 125.4 132.8 

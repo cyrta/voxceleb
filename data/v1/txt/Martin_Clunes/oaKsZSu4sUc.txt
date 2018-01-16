@@ -1,0 +1,19 @@
+POI: 			Martin_Clunes 
+Youtube ID: 	oaKsZSu4sUc 
+Video length: 	247.6 sec 
+Set (V): 		dev 
+ 
+Martin_Clunes/oaKsZSu4sUc_0000001 22.0 26.2 
+Martin_Clunes/oaKsZSu4sUc_0000002 27.0 47.5 
+Martin_Clunes/oaKsZSu4sUc_0000003 54.6 59.0 
+Martin_Clunes/oaKsZSu4sUc_0000004 59.7 64.4 
+Martin_Clunes/oaKsZSu4sUc_0000005 93.0 102.0 
+Martin_Clunes/oaKsZSu4sUc_0000006 102.4 108.9 
+Martin_Clunes/oaKsZSu4sUc_0000007 113.6 122.3 
+Martin_Clunes/oaKsZSu4sUc_0000008 132.1 137.4 
+Martin_Clunes/oaKsZSu4sUc_0000009 138.4 145.0 
+Martin_Clunes/oaKsZSu4sUc_0000010 163.1 173.6 
+Martin_Clunes/oaKsZSu4sUc_0000011 191.2 200.6 
+Martin_Clunes/oaKsZSu4sUc_0000012 219.4 224.3 
+Martin_Clunes/oaKsZSu4sUc_0000013 228.5 234.2 
+Martin_Clunes/oaKsZSu4sUc_0000014 235.0 246.0 

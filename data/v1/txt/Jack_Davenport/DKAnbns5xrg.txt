@@ -1,0 +1,9 @@
+POI: 			Jack_Davenport 
+Youtube ID: 	DKAnbns5xrg 
+Video length: 	77.8 sec 
+Set (V): 		dev 
+ 
+Jack_Davenport/DKAnbns5xrg_0000001 00.7 06.6 
+Jack_Davenport/DKAnbns5xrg_0000002 20.6 26.3 
+Jack_Davenport/DKAnbns5xrg_0000003 29.0 39.1 
+Jack_Davenport/DKAnbns5xrg_0000004 57.2 61.4 

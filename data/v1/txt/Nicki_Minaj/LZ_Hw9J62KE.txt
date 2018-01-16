@@ -1,0 +1,7 @@
+POI: 			Nicki_Minaj 
+Youtube ID: 	LZ_Hw9J62KE 
+Video length: 	151.5 sec 
+Set (V): 		dev 
+ 
+Nicki_Minaj/LZ_Hw9J62KE_0000001 57.4 65.2 
+Nicki_Minaj/LZ_Hw9J62KE_0000002 117.6 122.1 

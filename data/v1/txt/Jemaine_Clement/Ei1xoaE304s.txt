@@ -1,0 +1,13 @@
+POI: 			Jemaine_Clement 
+Youtube ID: 	Ei1xoaE304s 
+Video length: 	187.3 sec 
+Set (V): 		dev 
+ 
+Jemaine_Clement/Ei1xoaE304s_0000001 01.6 10.6 
+Jemaine_Clement/Ei1xoaE304s_0000002 12.2 17.5 
+Jemaine_Clement/Ei1xoaE304s_0000003 20.9 26.3 
+Jemaine_Clement/Ei1xoaE304s_0000004 37.9 45.6 
+Jemaine_Clement/Ei1xoaE304s_0000005 95.6 101.9 
+Jemaine_Clement/Ei1xoaE304s_0000006 117.0 122.7 
+Jemaine_Clement/Ei1xoaE304s_0000007 146.3 150.9 
+Jemaine_Clement/Ei1xoaE304s_0000008 154.9 160.8 

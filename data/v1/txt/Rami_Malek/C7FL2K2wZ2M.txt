@@ -1,0 +1,9 @@
+POI: 			Rami_Malek 
+Youtube ID: 	C7FL2K2wZ2M 
+Video length: 	322.9 sec 
+Set (V): 		dev 
+ 
+Rami_Malek/C7FL2K2wZ2M_0000001 01.2 06.7 
+Rami_Malek/C7FL2K2wZ2M_0000002 133.4 140.4 
+Rami_Malek/C7FL2K2wZ2M_0000003 189.8 204.7 
+Rami_Malek/C7FL2K2wZ2M_0000004 259.2 263.4 

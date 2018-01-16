@@ -1,0 +1,18 @@
+POI: 			Nana_Visitor 
+Youtube ID: 	zT3ZVpWWUqA 
+Video length: 	302.0 sec 
+Set (V): 		dev 
+ 
+Nana_Visitor/zT3ZVpWWUqA_0000001 25.8 30.9 
+Nana_Visitor/zT3ZVpWWUqA_0000002 32.7 36.8 
+Nana_Visitor/zT3ZVpWWUqA_0000003 41.0 46.6 
+Nana_Visitor/zT3ZVpWWUqA_0000004 55.3 59.8 
+Nana_Visitor/zT3ZVpWWUqA_0000005 60.4 66.6 
+Nana_Visitor/zT3ZVpWWUqA_0000006 75.9 86.9 
+Nana_Visitor/zT3ZVpWWUqA_0000007 100.2 107.8 
+Nana_Visitor/zT3ZVpWWUqA_0000008 121.7 126.4 
+Nana_Visitor/zT3ZVpWWUqA_0000009 138.0 145.4 
+Nana_Visitor/zT3ZVpWWUqA_0000010 163.8 168.7 
+Nana_Visitor/zT3ZVpWWUqA_0000011 169.0 178.8 
+Nana_Visitor/zT3ZVpWWUqA_0000012 195.8 200.9 
+Nana_Visitor/zT3ZVpWWUqA_0000013 204.8 216.5 

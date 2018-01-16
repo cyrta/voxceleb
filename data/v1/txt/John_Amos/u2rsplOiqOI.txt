@@ -1,0 +1,12 @@
+POI: 			John_Amos 
+Youtube ID: 	u2rsplOiqOI 
+Video length: 	136.3 sec 
+Set (V): 		dev 
+ 
+John_Amos/u2rsplOiqOI_0000001 17.9 24.8 
+John_Amos/u2rsplOiqOI_0000002 25.2 39.2 
+John_Amos/u2rsplOiqOI_0000003 48.5 57.1 
+John_Amos/u2rsplOiqOI_0000004 60.8 73.3 
+John_Amos/u2rsplOiqOI_0000005 79.4 84.6 
+John_Amos/u2rsplOiqOI_0000006 85.6 98.2 
+John_Amos/u2rsplOiqOI_0000007 101.1 122.6 

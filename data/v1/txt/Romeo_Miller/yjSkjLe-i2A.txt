@@ -1,0 +1,7 @@
+POI: 			Romeo_Miller 
+Youtube ID: 	yjSkjLe-i2A 
+Video length: 	138.1 sec 
+Set (V): 		dev 
+ 
+Romeo_Miller/yjSkjLe-i2A_0000001 79.3 85.0 
+Romeo_Miller/yjSkjLe-i2A_0000002 117.3 131.2 

@@ -1,0 +1,29 @@
+POI: 			Wentworth_Miller 
+Youtube ID: 	0Yic3-oW6r8 
+Video length: 	600.1 sec 
+Set (V): 		dev 
+ 
+Wentworth_Miller/0Yic3-oW6r8_0000001 45.3 49.8 
+Wentworth_Miller/0Yic3-oW6r8_0000002 54.4 60.0 
+Wentworth_Miller/0Yic3-oW6r8_0000003 71.7 76.4 
+Wentworth_Miller/0Yic3-oW6r8_0000004 111.5 120.4 
+Wentworth_Miller/0Yic3-oW6r8_0000005 122.8 126.9 
+Wentworth_Miller/0Yic3-oW6r8_0000006 249.9 256.4 
+Wentworth_Miller/0Yic3-oW6r8_0000007 261.1 279.8 
+Wentworth_Miller/0Yic3-oW6r8_0000008 291.1 295.4 
+Wentworth_Miller/0Yic3-oW6r8_0000009 296.0 300.8 
+Wentworth_Miller/0Yic3-oW6r8_0000010 313.1 319.4 
+Wentworth_Miller/0Yic3-oW6r8_0000011 319.5 326.8 
+Wentworth_Miller/0Yic3-oW6r8_0000012 326.9 335.1 
+Wentworth_Miller/0Yic3-oW6r8_0000013 338.2 344.8 
+Wentworth_Miller/0Yic3-oW6r8_0000014 362.2 369.0 
+Wentworth_Miller/0Yic3-oW6r8_0000015 388.9 393.6 
+Wentworth_Miller/0Yic3-oW6r8_0000016 394.4 405.8 
+Wentworth_Miller/0Yic3-oW6r8_0000017 453.2 473.6 
+Wentworth_Miller/0Yic3-oW6r8_0000018 476.2 483.4 
+Wentworth_Miller/0Yic3-oW6r8_0000019 499.2 522.5 
+Wentworth_Miller/0Yic3-oW6r8_0000020 523.6 535.7 
+Wentworth_Miller/0Yic3-oW6r8_0000021 556.4 565.8 
+Wentworth_Miller/0Yic3-oW6r8_0000022 566.8 573.2 
+Wentworth_Miller/0Yic3-oW6r8_0000023 576.2 580.8 
+Wentworth_Miller/0Yic3-oW6r8_0000024 586.9 595.2 

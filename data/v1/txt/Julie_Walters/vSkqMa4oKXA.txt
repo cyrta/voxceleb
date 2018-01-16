@@ -1,0 +1,24 @@
+POI: 			Julie_Walters 
+Youtube ID: 	vSkqMa4oKXA 
+Video length: 	350.7 sec 
+Set (V): 		dev 
+ 
+Julie_Walters/vSkqMa4oKXA_0000001 10.7 24.0 
+Julie_Walters/vSkqMa4oKXA_0000002 30.2 38.7 
+Julie_Walters/vSkqMa4oKXA_0000003 41.2 55.2 
+Julie_Walters/vSkqMa4oKXA_0000004 55.8 59.8 
+Julie_Walters/vSkqMa4oKXA_0000005 61.7 77.4 
+Julie_Walters/vSkqMa4oKXA_0000006 89.9 98.0 
+Julie_Walters/vSkqMa4oKXA_0000007 102.5 107.1 
+Julie_Walters/vSkqMa4oKXA_0000008 111.7 132.6 
+Julie_Walters/vSkqMa4oKXA_0000009 173.5 190.5 
+Julie_Walters/vSkqMa4oKXA_0000010 199.8 205.9 
+Julie_Walters/vSkqMa4oKXA_0000011 206.7 214.0 
+Julie_Walters/vSkqMa4oKXA_0000012 223.2 230.7 
+Julie_Walters/vSkqMa4oKXA_0000013 235.1 243.1 
+Julie_Walters/vSkqMa4oKXA_0000014 249.4 263.5 
+Julie_Walters/vSkqMa4oKXA_0000015 268.2 272.6 
+Julie_Walters/vSkqMa4oKXA_0000016 282.1 286.5 
+Julie_Walters/vSkqMa4oKXA_0000017 294.9 302.5 
+Julie_Walters/vSkqMa4oKXA_0000018 304.3 313.7 
+Julie_Walters/vSkqMa4oKXA_0000019 319.7 333.4 

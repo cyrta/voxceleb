@@ -1,0 +1,8 @@
+POI: 			Elle_Fanning 
+Youtube ID: 	yAe_ZhyWdnI 
+Video length: 	90.2 sec 
+Set (V): 		test 
+ 
+Elle_Fanning/yAe_ZhyWdnI_0000001 12.0 19.8 
+Elle_Fanning/yAe_ZhyWdnI_0000002 23.1 33.5 
+Elle_Fanning/yAe_ZhyWdnI_0000003 33.6 41.3 

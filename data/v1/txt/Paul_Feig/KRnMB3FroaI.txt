@@ -1,0 +1,18 @@
+POI: 			Paul_Feig 
+Youtube ID: 	KRnMB3FroaI 
+Video length: 	283.0 sec 
+Set (V): 		dev 
+ 
+Paul_Feig/KRnMB3FroaI_0000001 32.1 40.7 
+Paul_Feig/KRnMB3FroaI_0000002 41.7 50.6 
+Paul_Feig/KRnMB3FroaI_0000003 53.8 70.2 
+Paul_Feig/KRnMB3FroaI_0000004 72.5 83.8 
+Paul_Feig/KRnMB3FroaI_0000005 97.4 105.3 
+Paul_Feig/KRnMB3FroaI_0000006 107.1 112.2 
+Paul_Feig/KRnMB3FroaI_0000007 118.0 124.0 
+Paul_Feig/KRnMB3FroaI_0000008 167.2 174.3 
+Paul_Feig/KRnMB3FroaI_0000009 202.5 220.6 
+Paul_Feig/KRnMB3FroaI_0000010 221.9 226.0 
+Paul_Feig/KRnMB3FroaI_0000011 246.8 263.5 
+Paul_Feig/KRnMB3FroaI_0000012 261.8 266.0 
+Paul_Feig/KRnMB3FroaI_0000013 266.0 273.2 

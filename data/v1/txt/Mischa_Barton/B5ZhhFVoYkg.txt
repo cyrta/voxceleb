@@ -1,0 +1,8 @@
+POI: 			Mischa_Barton 
+Youtube ID: 	B5ZhhFVoYkg 
+Video length: 	295.0 sec 
+Set (V): 		dev 
+ 
+Mischa_Barton/B5ZhhFVoYkg_0000001 213.5 219.7 
+Mischa_Barton/B5ZhhFVoYkg_0000002 248.0 256.5 
+Mischa_Barton/B5ZhhFVoYkg_0000003 269.6 278.2 

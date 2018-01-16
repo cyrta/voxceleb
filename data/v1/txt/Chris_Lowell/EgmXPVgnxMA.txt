@@ -1,0 +1,10 @@
+POI: 			Chris_Lowell 
+Youtube ID: 	EgmXPVgnxMA 
+Video length: 	471.6 sec 
+Set (V): 		dev 
+ 
+Chris_Lowell/EgmXPVgnxMA_0000001 86.9 93.3 
+Chris_Lowell/EgmXPVgnxMA_0000002 194.4 199.2 
+Chris_Lowell/EgmXPVgnxMA_0000003 200.3 209.0 
+Chris_Lowell/EgmXPVgnxMA_0000004 212.7 218.0 
+Chris_Lowell/EgmXPVgnxMA_0000005 266.2 270.6 

@@ -1,0 +1,10 @@
+POI: 			Oscar_Isaac 
+Youtube ID: 	n7N17DN8wRk 
+Video length: 	236.1 sec 
+Set (V): 		dev 
+ 
+Oscar_Isaac/n7N17DN8wRk_0000001 53.5 59.1 
+Oscar_Isaac/n7N17DN8wRk_0000002 87.4 93.1 
+Oscar_Isaac/n7N17DN8wRk_0000003 111.0 130.7 
+Oscar_Isaac/n7N17DN8wRk_0000004 148.2 154.0 
+Oscar_Isaac/n7N17DN8wRk_0000005 156.2 162.5 

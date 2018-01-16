@@ -1,0 +1,10 @@
+POI: 			Randeep_Hooda 
+Youtube ID: 	3z_KK_JmQQ4 
+Video length: 	193.3 sec 
+Set (V): 		dev 
+ 
+Randeep_Hooda/3z_KK_JmQQ4_0000001 83.8 91.9 
+Randeep_Hooda/3z_KK_JmQQ4_0000002 118.4 124.8 
+Randeep_Hooda/3z_KK_JmQQ4_0000003 169.9 174.4 
+Randeep_Hooda/3z_KK_JmQQ4_0000004 176.5 182.0 
+Randeep_Hooda/3z_KK_JmQQ4_0000005 187.1 191.3 

@@ -1,0 +1,9 @@
+POI: 			Linda_Cardellini 
+Youtube ID: 	qWOQFKSMHB4 
+Video length: 	537.1 sec 
+Set (V): 		dev 
+ 
+Linda_Cardellini/qWOQFKSMHB4_0000001 78.2 84.0 
+Linda_Cardellini/qWOQFKSMHB4_0000002 244.3 254.1 
+Linda_Cardellini/qWOQFKSMHB4_0000003 268.4 274.2 
+Linda_Cardellini/qWOQFKSMHB4_0000004 389.9 394.6 

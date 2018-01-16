@@ -1,0 +1,11 @@
+POI: 			Tracy_Morgan 
+Youtube ID: 	aq7tkMSInys 
+Video length: 	548.3 sec 
+Set (V): 		dev 
+ 
+Tracy_Morgan/aq7tkMSInys_0000001 322.3 331.3 
+Tracy_Morgan/aq7tkMSInys_0000002 348.6 355.7 
+Tracy_Morgan/aq7tkMSInys_0000003 371.7 377.3 
+Tracy_Morgan/aq7tkMSInys_0000004 390.7 395.6 
+Tracy_Morgan/aq7tkMSInys_0000005 405.1 417.8 
+Tracy_Morgan/aq7tkMSInys_0000006 421.4 427.6 

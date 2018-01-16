@@ -1,0 +1,14 @@
+POI: 			Erin_Andrews 
+Youtube ID: 	IwB3vu418E4 
+Video length: 	244.8 sec 
+Set (V): 		test 
+ 
+Erin_Andrews/IwB3vu418E4_0000001 02.2 13.1 
+Erin_Andrews/IwB3vu418E4_0000002 32.3 37.4 
+Erin_Andrews/IwB3vu418E4_0000003 45.2 50.9 
+Erin_Andrews/IwB3vu418E4_0000004 57.6 62.2 
+Erin_Andrews/IwB3vu418E4_0000005 64.3 68.6 
+Erin_Andrews/IwB3vu418E4_0000006 86.6 92.9 
+Erin_Andrews/IwB3vu418E4_0000007 100.8 105.3 
+Erin_Andrews/IwB3vu418E4_0000008 149.2 162.4 
+Erin_Andrews/IwB3vu418E4_0000009 168.7 174.3 

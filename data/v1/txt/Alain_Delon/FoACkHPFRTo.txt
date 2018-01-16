@@ -1,0 +1,9 @@
+POI: 			Alain_Delon 
+Youtube ID: 	FoACkHPFRTo 
+Video length: 	1017.9 sec 
+Set (V): 		dev 
+ 
+Alain_Delon/FoACkHPFRTo_0000001 294.7 298.7 
+Alain_Delon/FoACkHPFRTo_0000002 750.1 756.4 
+Alain_Delon/FoACkHPFRTo_0000003 901.9 911.3 
+Alain_Delon/FoACkHPFRTo_0000004 933.1 942.2 

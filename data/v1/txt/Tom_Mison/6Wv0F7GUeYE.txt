@@ -1,0 +1,7 @@
+POI: 			Tom_Mison 
+Youtube ID: 	6Wv0F7GUeYE 
+Video length: 	122.6 sec 
+Set (V): 		dev 
+ 
+Tom_Mison/6Wv0F7GUeYE_0000001 22.9 31.6 
+Tom_Mison/6Wv0F7GUeYE_0000002 50.3 56.5 

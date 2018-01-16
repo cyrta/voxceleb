@@ -1,0 +1,17 @@
+POI: 			Zack_Snyder 
+Youtube ID: 	wr95FbaxgKU 
+Video length: 	226.2 sec 
+Set (V): 		dev 
+ 
+Zack_Snyder/wr95FbaxgKU_0000001 17.4 29.4 
+Zack_Snyder/wr95FbaxgKU_0000002 64.5 80.9 
+Zack_Snyder/wr95FbaxgKU_0000003 86.2 93.3 
+Zack_Snyder/wr95FbaxgKU_0000004 95.5 99.8 
+Zack_Snyder/wr95FbaxgKU_0000005 115.6 126.5 
+Zack_Snyder/wr95FbaxgKU_0000006 127.4 134.7 
+Zack_Snyder/wr95FbaxgKU_0000007 135.3 140.1 
+Zack_Snyder/wr95FbaxgKU_0000008 140.8 151.4 
+Zack_Snyder/wr95FbaxgKU_0000009 164.3 178.4 
+Zack_Snyder/wr95FbaxgKU_0000010 181.8 188.9 
+Zack_Snyder/wr95FbaxgKU_0000011 190.9 197.1 
+Zack_Snyder/wr95FbaxgKU_0000012 198.8 206.1 

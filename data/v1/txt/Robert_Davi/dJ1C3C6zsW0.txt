@@ -1,0 +1,8 @@
+POI: 			Robert_Davi 
+Youtube ID: 	dJ1C3C6zsW0 
+Video length: 	666.8 sec 
+Set (V): 		dev 
+ 
+Robert_Davi/dJ1C3C6zsW0_0000001 152.6 157.4 
+Robert_Davi/dJ1C3C6zsW0_0000002 301.3 307.4 
+Robert_Davi/dJ1C3C6zsW0_0000003 408.1 412.3 

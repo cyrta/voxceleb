@@ -1,0 +1,17 @@
+POI: 			Fred_Williamson 
+Youtube ID: 	n8VLoG1dTWM 
+Video length: 	297.5 sec 
+Set (V): 		dev 
+ 
+Fred_Williamson/n8VLoG1dTWM_0000001 45.2 50.0 
+Fred_Williamson/n8VLoG1dTWM_0000002 57.2 77.1 
+Fred_Williamson/n8VLoG1dTWM_0000003 87.5 91.8 
+Fred_Williamson/n8VLoG1dTWM_0000004 93.7 133.6 
+Fred_Williamson/n8VLoG1dTWM_0000005 156.7 177.0 
+Fred_Williamson/n8VLoG1dTWM_0000006 185.6 213.7 
+Fred_Williamson/n8VLoG1dTWM_0000007 215.1 229.5 
+Fred_Williamson/n8VLoG1dTWM_0000008 243.1 247.6 
+Fred_Williamson/n8VLoG1dTWM_0000009 251.0 256.9 
+Fred_Williamson/n8VLoG1dTWM_0000010 268.7 273.8 
+Fred_Williamson/n8VLoG1dTWM_0000011 274.1 279.2 
+Fred_Williamson/n8VLoG1dTWM_0000012 279.3 286.0 

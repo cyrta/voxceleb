@@ -1,0 +1,7 @@
+POI: 			Kevin_McHale 
+Youtube ID: 	kzsEviC1AiQ 
+Video length: 	435.0 sec 
+Set (V): 		dev 
+ 
+Kevin_McHale/kzsEviC1AiQ_0000001 164.0 168.5 
+Kevin_McHale/kzsEviC1AiQ_0000002 234.5 238.6 

@@ -1,0 +1,8 @@
+POI: 			Marc_Webb 
+Youtube ID: 	eq1ngThRaQ8 
+Video length: 	53.2 sec 
+Set (V): 		dev 
+ 
+Marc_Webb/eq1ngThRaQ8_0000001 05.4 09.8 
+Marc_Webb/eq1ngThRaQ8_0000002 28.9 37.8 
+Marc_Webb/eq1ngThRaQ8_0000003 42.1 51.3 

@@ -1,0 +1,32 @@
+POI: 			Amitabh_Bachchan 
+Youtube ID: 	qXAm-ptqIIg 
+Video length: 	1271.4 sec 
+Set (V): 		dev 
+ 
+Amitabh_Bachchan/qXAm-ptqIIg_0000001 82.3 94.2 
+Amitabh_Bachchan/qXAm-ptqIIg_0000002 102.4 107.2 
+Amitabh_Bachchan/qXAm-ptqIIg_0000003 112.7 116.9 
+Amitabh_Bachchan/qXAm-ptqIIg_0000004 233.9 240.3 
+Amitabh_Bachchan/qXAm-ptqIIg_0000005 242.2 246.4 
+Amitabh_Bachchan/qXAm-ptqIIg_0000006 248.7 254.2 
+Amitabh_Bachchan/qXAm-ptqIIg_0000007 255.9 260.9 
+Amitabh_Bachchan/qXAm-ptqIIg_0000008 327.8 332.6 
+Amitabh_Bachchan/qXAm-ptqIIg_0000009 352.9 359.6 
+Amitabh_Bachchan/qXAm-ptqIIg_0000010 383.5 388.2 
+Amitabh_Bachchan/qXAm-ptqIIg_0000011 396.0 407.8 
+Amitabh_Bachchan/qXAm-ptqIIg_0000012 470.3 475.8 
+Amitabh_Bachchan/qXAm-ptqIIg_0000013 527.6 533.0 
+Amitabh_Bachchan/qXAm-ptqIIg_0000014 535.4 541.5 
+Amitabh_Bachchan/qXAm-ptqIIg_0000015 546.8 551.6 
+Amitabh_Bachchan/qXAm-ptqIIg_0000016 596.4 604.8 
+Amitabh_Bachchan/qXAm-ptqIIg_0000017 607.6 615.0 
+Amitabh_Bachchan/qXAm-ptqIIg_0000018 615.2 626.2 
+Amitabh_Bachchan/qXAm-ptqIIg_0000019 637.7 642.1 
+Amitabh_Bachchan/qXAm-ptqIIg_0000020 654.1 658.6 
+Amitabh_Bachchan/qXAm-ptqIIg_0000021 669.7 675.1 
+Amitabh_Bachchan/qXAm-ptqIIg_0000022 703.9 708.4 
+Amitabh_Bachchan/qXAm-ptqIIg_0000023 861.5 866.5 
+Amitabh_Bachchan/qXAm-ptqIIg_0000024 1011.7 1015.7 
+Amitabh_Bachchan/qXAm-ptqIIg_0000025 1021.1 1030.5 
+Amitabh_Bachchan/qXAm-ptqIIg_0000026 1051.1 1055.2 
+Amitabh_Bachchan/qXAm-ptqIIg_0000027 1137.5 1144.2 

@@ -1,0 +1,9 @@
+POI: 			Will_Arnett 
+Youtube ID: 	e-OpDY6qg84 
+Video length: 	267.7 sec 
+Set (V): 		dev 
+ 
+Will_Arnett/e-OpDY6qg84_0000001 23.6 30.3 
+Will_Arnett/e-OpDY6qg84_0000002 90.6 96.0 
+Will_Arnett/e-OpDY6qg84_0000003 163.5 168.6 
+Will_Arnett/e-OpDY6qg84_0000004 201.0 209.4 

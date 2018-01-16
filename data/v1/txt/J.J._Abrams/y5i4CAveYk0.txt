@@ -1,0 +1,27 @@
+POI: 			J.J._Abrams 
+Youtube ID: 	y5i4CAveYk0 
+Video length: 	343.6 sec 
+Set (V): 		dev 
+ 
+J.J._Abrams/y5i4CAveYk0_0000001 10.4 21.7 
+J.J._Abrams/y5i4CAveYk0_0000002 23.6 29.6 
+J.J._Abrams/y5i4CAveYk0_0000003 30.3 37.5 
+J.J._Abrams/y5i4CAveYk0_0000004 48.1 54.3 
+J.J._Abrams/y5i4CAveYk0_0000005 62.7 71.0 
+J.J._Abrams/y5i4CAveYk0_0000006 83.2 93.1 
+J.J._Abrams/y5i4CAveYk0_0000007 105.8 109.9 
+J.J._Abrams/y5i4CAveYk0_0000008 116.2 122.8 
+J.J._Abrams/y5i4CAveYk0_0000009 136.0 142.2 
+J.J._Abrams/y5i4CAveYk0_0000010 145.8 150.8 
+J.J._Abrams/y5i4CAveYk0_0000011 160.2 166.4 
+J.J._Abrams/y5i4CAveYk0_0000012 181.6 190.2 
+J.J._Abrams/y5i4CAveYk0_0000013 214.2 221.8 
+J.J._Abrams/y5i4CAveYk0_0000014 221.9 244.2 
+J.J._Abrams/y5i4CAveYk0_0000015 256.9 262.4 
+J.J._Abrams/y5i4CAveYk0_0000016 263.3 267.9 
+J.J._Abrams/y5i4CAveYk0_0000017 273.9 278.7 
+J.J._Abrams/y5i4CAveYk0_0000018 284.8 293.7 
+J.J._Abrams/y5i4CAveYk0_0000019 297.4 304.6 
+J.J._Abrams/y5i4CAveYk0_0000020 307.7 319.6 
+J.J._Abrams/y5i4CAveYk0_0000021 325.1 329.2 
+J.J._Abrams/y5i4CAveYk0_0000022 333.3 338.9 

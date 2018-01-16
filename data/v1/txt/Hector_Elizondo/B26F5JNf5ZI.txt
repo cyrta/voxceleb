@@ -1,0 +1,8 @@
+POI: 			Hector_Elizondo 
+Youtube ID: 	B26F5JNf5ZI 
+Video length: 	243.2 sec 
+Set (V): 		dev 
+ 
+Hector_Elizondo/B26F5JNf5ZI_0000001 24.6 40.8 
+Hector_Elizondo/B26F5JNf5ZI_0000002 41.0 52.3 
+Hector_Elizondo/B26F5JNf5ZI_0000003 125.0 129.5 

@@ -1,0 +1,8 @@
+POI: 			Andrew_Garfield 
+Youtube ID: 	K8AKNDcREjk 
+Video length: 	219.4 sec 
+Set (V): 		dev 
+ 
+Andrew_Garfield/K8AKNDcREjk_0000001 64.3 69.3 
+Andrew_Garfield/K8AKNDcREjk_0000002 154.1 162.4 
+Andrew_Garfield/K8AKNDcREjk_0000003 162.9 171.4 

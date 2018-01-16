@@ -1,0 +1,15 @@
+POI: 			Dawn_French 
+Youtube ID: 	B5EVNvjGTI8 
+Video length: 	315.3 sec 
+Set (V): 		dev 
+ 
+Dawn_French/B5EVNvjGTI8_0000001 60.7 70.7 
+Dawn_French/B5EVNvjGTI8_0000002 74.1 82.0 
+Dawn_French/B5EVNvjGTI8_0000003 89.4 97.3 
+Dawn_French/B5EVNvjGTI8_0000004 106.6 111.1 
+Dawn_French/B5EVNvjGTI8_0000005 168.0 173.4 
+Dawn_French/B5EVNvjGTI8_0000006 177.0 187.3 
+Dawn_French/B5EVNvjGTI8_0000007 238.2 247.5 
+Dawn_French/B5EVNvjGTI8_0000008 266.4 278.2 
+Dawn_French/B5EVNvjGTI8_0000009 282.4 287.9 
+Dawn_French/B5EVNvjGTI8_0000010 304.8 312.9 

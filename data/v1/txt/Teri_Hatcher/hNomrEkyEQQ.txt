@@ -1,0 +1,10 @@
+POI: 			Teri_Hatcher 
+Youtube ID: 	hNomrEkyEQQ 
+Video length: 	659.2 sec 
+Set (V): 		dev 
+ 
+Teri_Hatcher/hNomrEkyEQQ_0000001 436.9 443.0 
+Teri_Hatcher/hNomrEkyEQQ_0000002 564.3 575.7 
+Teri_Hatcher/hNomrEkyEQQ_0000003 578.0 590.4 
+Teri_Hatcher/hNomrEkyEQQ_0000004 609.6 616.2 
+Teri_Hatcher/hNomrEkyEQQ_0000005 619.3 624.6 

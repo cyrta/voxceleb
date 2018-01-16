@@ -1,0 +1,12 @@
+POI: 			Reece_Ritchie 
+Youtube ID: 	o_KZwBIZhqY 
+Video length: 	130.5 sec 
+Set (V): 		dev 
+ 
+Reece_Ritchie/o_KZwBIZhqY_0000001 06.7 33.2 
+Reece_Ritchie/o_KZwBIZhqY_0000002 35.9 49.8 
+Reece_Ritchie/o_KZwBIZhqY_0000003 50.2 61.8 
+Reece_Ritchie/o_KZwBIZhqY_0000004 65.9 85.5 
+Reece_Ritchie/o_KZwBIZhqY_0000005 86.1 92.1 
+Reece_Ritchie/o_KZwBIZhqY_0000006 103.3 110.1 
+Reece_Ritchie/o_KZwBIZhqY_0000007 111.1 116.0 

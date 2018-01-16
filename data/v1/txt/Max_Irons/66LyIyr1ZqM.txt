@@ -1,0 +1,11 @@
+POI: 			Max_Irons 
+Youtube ID: 	66LyIyr1ZqM 
+Video length: 	337.7 sec 
+Set (V): 		dev 
+ 
+Max_Irons/66LyIyr1ZqM_0000001 49.7 57.2 
+Max_Irons/66LyIyr1ZqM_0000002 142.0 150.1 
+Max_Irons/66LyIyr1ZqM_0000003 153.3 157.5 
+Max_Irons/66LyIyr1ZqM_0000004 232.7 239.4 
+Max_Irons/66LyIyr1ZqM_0000005 243.7 251.0 
+Max_Irons/66LyIyr1ZqM_0000006 291.2 296.2 

@@ -1,0 +1,9 @@
+POI: 			Jacob_Latimore 
+Youtube ID: 	Wcbla_23dW4 
+Video length: 	152.2 sec 
+Set (V): 		dev 
+ 
+Jacob_Latimore/Wcbla_23dW4_0000001 68.6 73.0 
+Jacob_Latimore/Wcbla_23dW4_0000002 75.0 84.9 
+Jacob_Latimore/Wcbla_23dW4_0000003 94.8 99.2 
+Jacob_Latimore/Wcbla_23dW4_0000004 101.2 108.4 

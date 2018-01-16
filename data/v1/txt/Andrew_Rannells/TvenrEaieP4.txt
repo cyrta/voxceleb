@@ -1,0 +1,14 @@
+POI: 			Andrew_Rannells 
+Youtube ID: 	TvenrEaieP4 
+Video length: 	388.7 sec 
+Set (V): 		dev 
+ 
+Andrew_Rannells/TvenrEaieP4_0000001 51.6 59.4 
+Andrew_Rannells/TvenrEaieP4_0000002 74.7 91.2 
+Andrew_Rannells/TvenrEaieP4_0000003 122.4 128.9 
+Andrew_Rannells/TvenrEaieP4_0000004 146.5 153.8 
+Andrew_Rannells/TvenrEaieP4_0000005 228.1 245.5 
+Andrew_Rannells/TvenrEaieP4_0000006 250.0 276.5 
+Andrew_Rannells/TvenrEaieP4_0000007 307.9 315.4 
+Andrew_Rannells/TvenrEaieP4_0000008 332.1 342.5 
+Andrew_Rannells/TvenrEaieP4_0000009 355.7 373.4 

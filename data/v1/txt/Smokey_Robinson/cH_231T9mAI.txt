@@ -1,0 +1,39 @@
+POI: 			Smokey_Robinson 
+Youtube ID: 	cH_231T9mAI 
+Video length: 	628.8 sec 
+Set (V): 		dev 
+ 
+Smokey_Robinson/cH_231T9mAI_0000001 26.5 33.2 
+Smokey_Robinson/cH_231T9mAI_0000002 34.8 40.6 
+Smokey_Robinson/cH_231T9mAI_0000003 41.5 66.4 
+Smokey_Robinson/cH_231T9mAI_0000004 75.3 83.3 
+Smokey_Robinson/cH_231T9mAI_0000005 83.9 93.0 
+Smokey_Robinson/cH_231T9mAI_0000006 93.2 97.4 
+Smokey_Robinson/cH_231T9mAI_0000007 102.4 106.4 
+Smokey_Robinson/cH_231T9mAI_0000008 108.8 115.3 
+Smokey_Robinson/cH_231T9mAI_0000009 123.0 146.6 
+Smokey_Robinson/cH_231T9mAI_0000010 146.9 159.7 
+Smokey_Robinson/cH_231T9mAI_0000011 172.4 179.4 
+Smokey_Robinson/cH_231T9mAI_0000012 160.4 166.6 
+Smokey_Robinson/cH_231T9mAI_0000013 166.9 181.3 
+Smokey_Robinson/cH_231T9mAI_0000014 190.6 196.8 
+Smokey_Robinson/cH_231T9mAI_0000015 197.1 202.9 
+Smokey_Robinson/cH_231T9mAI_0000016 211.8 219.8 
+Smokey_Robinson/cH_231T9mAI_0000017 236.3 270.2 
+Smokey_Robinson/cH_231T9mAI_0000018 282.0 286.8 
+Smokey_Robinson/cH_231T9mAI_0000019 292.6 305.2 
+Smokey_Robinson/cH_231T9mAI_0000020 305.7 316.1 
+Smokey_Robinson/cH_231T9mAI_0000021 316.5 326.1 
+Smokey_Robinson/cH_231T9mAI_0000022 290.3 296.0 
+Smokey_Robinson/cH_231T9mAI_0000023 345.0 349.3 
+Smokey_Robinson/cH_231T9mAI_0000024 350.5 387.6 
+Smokey_Robinson/cH_231T9mAI_0000025 393.5 441.9 
+Smokey_Robinson/cH_231T9mAI_0000026 442.4 458.6 
+Smokey_Robinson/cH_231T9mAI_0000027 464.4 475.8 
+Smokey_Robinson/cH_231T9mAI_0000028 479.8 490.4 
+Smokey_Robinson/cH_231T9mAI_0000029 494.1 507.5 
+Smokey_Robinson/cH_231T9mAI_0000030 508.5 517.0 
+Smokey_Robinson/cH_231T9mAI_0000031 530.6 537.0 
+Smokey_Robinson/cH_231T9mAI_0000032 545.3 565.6 
+Smokey_Robinson/cH_231T9mAI_0000033 581.8 606.9 
+Smokey_Robinson/cH_231T9mAI_0000034 607.4 614.3 

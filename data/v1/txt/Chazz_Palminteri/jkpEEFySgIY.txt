@@ -1,0 +1,17 @@
+POI: 			Chazz_Palminteri 
+Youtube ID: 	jkpEEFySgIY 
+Video length: 	206.3 sec 
+Set (V): 		dev 
+ 
+Chazz_Palminteri/jkpEEFySgIY_0000001 15.3 19.4 
+Chazz_Palminteri/jkpEEFySgIY_0000002 19.9 25.3 
+Chazz_Palminteri/jkpEEFySgIY_0000003 38.6 48.4 
+Chazz_Palminteri/jkpEEFySgIY_0000004 48.8 53.4 
+Chazz_Palminteri/jkpEEFySgIY_0000005 53.6 79.5 
+Chazz_Palminteri/jkpEEFySgIY_0000006 95.4 120.4 
+Chazz_Palminteri/jkpEEFySgIY_0000007 120.7 128.6 
+Chazz_Palminteri/jkpEEFySgIY_0000008 130.4 138.3 
+Chazz_Palminteri/jkpEEFySgIY_0000009 139.1 151.1 
+Chazz_Palminteri/jkpEEFySgIY_0000010 152.0 160.8 
+Chazz_Palminteri/jkpEEFySgIY_0000011 169.8 174.7 
+Chazz_Palminteri/jkpEEFySgIY_0000012 184.1 190.0 

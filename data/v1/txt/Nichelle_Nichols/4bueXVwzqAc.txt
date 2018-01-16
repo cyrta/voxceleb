@@ -1,0 +1,8 @@
+POI: 			Nichelle_Nichols 
+Youtube ID: 	4bueXVwzqAc 
+Video length: 	417.4 sec 
+Set (V): 		dev 
+ 
+Nichelle_Nichols/4bueXVwzqAc_0000001 276.0 282.3 
+Nichelle_Nichols/4bueXVwzqAc_0000002 283.0 292.5 
+Nichelle_Nichols/4bueXVwzqAc_0000003 298.2 307.6 

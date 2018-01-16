@@ -1,0 +1,7 @@
+POI: 			Grant_Bowler 
+Youtube ID: 	l0-n-aTv5to 
+Video length: 	133.4 sec 
+Set (V): 		dev 
+ 
+Grant_Bowler/l0-n-aTv5to_0000001 38.2 43.8 
+Grant_Bowler/l0-n-aTv5to_0000002 61.8 68.8 

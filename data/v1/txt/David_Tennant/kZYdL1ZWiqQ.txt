@@ -1,0 +1,10 @@
+POI: 			David_Tennant 
+Youtube ID: 	kZYdL1ZWiqQ 
+Video length: 	155.5 sec 
+Set (V): 		dev 
+ 
+David_Tennant/kZYdL1ZWiqQ_0000001 27.4 34.2 
+David_Tennant/kZYdL1ZWiqQ_0000002 37.3 42.5 
+David_Tennant/kZYdL1ZWiqQ_0000003 73.7 80.7 
+David_Tennant/kZYdL1ZWiqQ_0000004 121.8 133.3 
+David_Tennant/kZYdL1ZWiqQ_0000005 139.2 148.6 

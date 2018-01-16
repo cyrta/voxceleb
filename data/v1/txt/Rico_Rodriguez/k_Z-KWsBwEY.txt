@@ -1,0 +1,24 @@
+POI: 			Rico_Rodriguez 
+Youtube ID: 	k_Z-KWsBwEY 
+Video length: 	431.6 sec 
+Set (V): 		dev 
+ 
+Rico_Rodriguez/k_Z-KWsBwEY_0000001 43.7 56.9 
+Rico_Rodriguez/k_Z-KWsBwEY_0000002 59.3 64.1 
+Rico_Rodriguez/k_Z-KWsBwEY_0000003 74.5 85.3 
+Rico_Rodriguez/k_Z-KWsBwEY_0000004 101.1 113.5 
+Rico_Rodriguez/k_Z-KWsBwEY_0000005 128.0 138.2 
+Rico_Rodriguez/k_Z-KWsBwEY_0000006 138.7 144.0 
+Rico_Rodriguez/k_Z-KWsBwEY_0000007 156.4 189.4 
+Rico_Rodriguez/k_Z-KWsBwEY_0000008 190.4 206.0 
+Rico_Rodriguez/k_Z-KWsBwEY_0000009 226.8 254.3 
+Rico_Rodriguez/k_Z-KWsBwEY_0000010 254.6 259.0 
+Rico_Rodriguez/k_Z-KWsBwEY_0000011 276.5 281.1 
+Rico_Rodriguez/k_Z-KWsBwEY_0000012 281.2 291.1 
+Rico_Rodriguez/k_Z-KWsBwEY_0000013 291.2 298.9 
+Rico_Rodriguez/k_Z-KWsBwEY_0000014 291.3 299.0 
+Rico_Rodriguez/k_Z-KWsBwEY_0000015 300.0 304.1 
+Rico_Rodriguez/k_Z-KWsBwEY_0000016 319.2 335.9 
+Rico_Rodriguez/k_Z-KWsBwEY_0000017 336.2 341.2 
+Rico_Rodriguez/k_Z-KWsBwEY_0000018 353.9 374.0 
+Rico_Rodriguez/k_Z-KWsBwEY_0000019 374.2 383.8 

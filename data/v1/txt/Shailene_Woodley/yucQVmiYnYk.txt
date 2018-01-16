@@ -1,0 +1,16 @@
+POI: 			Shailene_Woodley 
+Youtube ID: 	yucQVmiYnYk 
+Video length: 	272.0 sec 
+Set (V): 		dev 
+ 
+Shailene_Woodley/yucQVmiYnYk_0000001 45.4 56.8 
+Shailene_Woodley/yucQVmiYnYk_0000002 59.4 73.3 
+Shailene_Woodley/yucQVmiYnYk_0000003 78.8 90.9 
+Shailene_Woodley/yucQVmiYnYk_0000004 111.4 137.7 
+Shailene_Woodley/yucQVmiYnYk_0000005 139.4 149.3 
+Shailene_Woodley/yucQVmiYnYk_0000006 168.5 187.8 
+Shailene_Woodley/yucQVmiYnYk_0000007 188.4 194.8 
+Shailene_Woodley/yucQVmiYnYk_0000008 196.8 201.3 
+Shailene_Woodley/yucQVmiYnYk_0000009 214.0 227.9 
+Shailene_Woodley/yucQVmiYnYk_0000010 228.0 245.0 
+Shailene_Woodley/yucQVmiYnYk_0000011 245.2 253.4 

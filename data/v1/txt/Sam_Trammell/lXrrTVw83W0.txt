@@ -1,0 +1,11 @@
+POI: 			Sam_Trammell 
+Youtube ID: 	lXrrTVw83W0 
+Video length: 	361.8 sec 
+Set (V): 		dev 
+ 
+Sam_Trammell/lXrrTVw83W0_0000001 13.2 17.3 
+Sam_Trammell/lXrrTVw83W0_0000002 18.5 24.7 
+Sam_Trammell/lXrrTVw83W0_0000003 40.7 48.1 
+Sam_Trammell/lXrrTVw83W0_0000004 178.3 193.1 
+Sam_Trammell/lXrrTVw83W0_0000005 193.3 201.2 
+Sam_Trammell/lXrrTVw83W0_0000006 249.5 255.5 

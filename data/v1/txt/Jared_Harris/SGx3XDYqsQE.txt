@@ -1,0 +1,12 @@
+POI: 			Jared_Harris 
+Youtube ID: 	SGx3XDYqsQE 
+Video length: 	285.7 sec 
+Set (V): 		dev 
+ 
+Jared_Harris/SGx3XDYqsQE_0000001 13.9 20.2 
+Jared_Harris/SGx3XDYqsQE_0000002 20.4 29.2 
+Jared_Harris/SGx3XDYqsQE_0000003 68.0 72.0 
+Jared_Harris/SGx3XDYqsQE_0000004 221.9 232.0 
+Jared_Harris/SGx3XDYqsQE_0000005 234.0 243.2 
+Jared_Harris/SGx3XDYqsQE_0000006 246.2 256.1 
+Jared_Harris/SGx3XDYqsQE_0000007 256.4 266.4 

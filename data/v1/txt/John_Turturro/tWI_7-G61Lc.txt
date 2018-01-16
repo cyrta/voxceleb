@@ -1,0 +1,7 @@
+POI: 			John_Turturro 
+Youtube ID: 	tWI_7-G61Lc 
+Video length: 	140.0 sec 
+Set (V): 		dev 
+ 
+John_Turturro/tWI_7-G61Lc_0000001 57.3 61.6 
+John_Turturro/tWI_7-G61Lc_0000002 113.3 121.5 

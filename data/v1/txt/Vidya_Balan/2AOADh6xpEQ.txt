@@ -1,0 +1,17 @@
+POI: 			Vidya_Balan 
+Youtube ID: 	2AOADh6xpEQ 
+Video length: 	483.7 sec 
+Set (V): 		dev 
+ 
+Vidya_Balan/2AOADh6xpEQ_0000001 20.4 28.6 
+Vidya_Balan/2AOADh6xpEQ_0000002 29.6 34.0 
+Vidya_Balan/2AOADh6xpEQ_0000003 71.8 76.8 
+Vidya_Balan/2AOADh6xpEQ_0000004 84.7 89.4 
+Vidya_Balan/2AOADh6xpEQ_0000005 89.5 95.2 
+Vidya_Balan/2AOADh6xpEQ_0000006 118.5 122.8 
+Vidya_Balan/2AOADh6xpEQ_0000007 164.2 172.8 
+Vidya_Balan/2AOADh6xpEQ_0000008 209.2 218.7 
+Vidya_Balan/2AOADh6xpEQ_0000009 254.8 259.7 
+Vidya_Balan/2AOADh6xpEQ_0000010 329.8 334.1 
+Vidya_Balan/2AOADh6xpEQ_0000011 379.5 385.8 
+Vidya_Balan/2AOADh6xpEQ_0000012 404.4 413.9 

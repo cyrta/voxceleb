@@ -1,0 +1,9 @@
+POI: 			Doutzen_Kroes 
+Youtube ID: 	9B4niFCNjFU 
+Video length: 	194.6 sec 
+Set (V): 		dev 
+ 
+Doutzen_Kroes/9B4niFCNjFU_0000001 25.6 32.4 
+Doutzen_Kroes/9B4niFCNjFU_0000002 40.2 49.0 
+Doutzen_Kroes/9B4niFCNjFU_0000003 66.4 71.2 
+Doutzen_Kroes/9B4niFCNjFU_0000004 108.6 125.2 

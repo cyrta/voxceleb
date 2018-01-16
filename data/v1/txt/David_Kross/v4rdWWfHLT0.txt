@@ -1,0 +1,8 @@
+POI: 			David_Kross 
+Youtube ID: 	v4rdWWfHLT0 
+Video length: 	39.4 sec 
+Set (V): 		dev 
+ 
+David_Kross/v4rdWWfHLT0_0000001 10.3 14.8 
+David_Kross/v4rdWWfHLT0_0000002 18.6 23.0 
+David_Kross/v4rdWWfHLT0_0000003 25.8 32.9 

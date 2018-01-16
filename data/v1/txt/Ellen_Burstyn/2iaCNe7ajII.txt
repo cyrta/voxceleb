@@ -1,0 +1,10 @@
+POI: 			Ellen_Burstyn 
+Youtube ID: 	2iaCNe7ajII 
+Video length: 	251.2 sec 
+Set (V): 		test 
+ 
+Ellen_Burstyn/2iaCNe7ajII_0000001 64.6 69.0 
+Ellen_Burstyn/2iaCNe7ajII_0000002 153.6 158.2 
+Ellen_Burstyn/2iaCNe7ajII_0000003 175.8 180.4 
+Ellen_Burstyn/2iaCNe7ajII_0000004 147.1 153.0 
+Ellen_Burstyn/2iaCNe7ajII_0000005 175.8 180.6 

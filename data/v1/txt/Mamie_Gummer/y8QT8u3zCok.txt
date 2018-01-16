@@ -1,0 +1,11 @@
+POI: 			Mamie_Gummer 
+Youtube ID: 	y8QT8u3zCok 
+Video length: 	407.0 sec 
+Set (V): 		dev 
+ 
+Mamie_Gummer/y8QT8u3zCok_0000001 297.9 303.1 
+Mamie_Gummer/y8QT8u3zCok_0000002 303.4 314.7 
+Mamie_Gummer/y8QT8u3zCok_0000003 314.9 327.8 
+Mamie_Gummer/y8QT8u3zCok_0000004 364.4 368.9 
+Mamie_Gummer/y8QT8u3zCok_0000005 382.0 389.5 
+Mamie_Gummer/y8QT8u3zCok_0000006 393.2 401.9 

@@ -1,0 +1,11 @@
+POI: 			Natalie_Martinez 
+Youtube ID: 	SvWzBeMht2M 
+Video length: 	509.2 sec 
+Set (V): 		dev 
+ 
+Natalie_Martinez/SvWzBeMht2M_0000001 155.8 163.2 
+Natalie_Martinez/SvWzBeMht2M_0000002 163.4 178.1 
+Natalie_Martinez/SvWzBeMht2M_0000003 178.7 196.2 
+Natalie_Martinez/SvWzBeMht2M_0000004 405.0 425.6 
+Natalie_Martinez/SvWzBeMht2M_0000005 426.4 440.3 
+Natalie_Martinez/SvWzBeMht2M_0000006 442.2 449.0 

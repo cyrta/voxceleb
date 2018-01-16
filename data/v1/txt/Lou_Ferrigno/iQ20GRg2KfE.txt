@@ -1,0 +1,9 @@
+POI: 			Lou_Ferrigno 
+Youtube ID: 	iQ20GRg2KfE 
+Video length: 	125.5 sec 
+Set (V): 		dev 
+ 
+Lou_Ferrigno/iQ20GRg2KfE_0000001 37.0 44.9 
+Lou_Ferrigno/iQ20GRg2KfE_0000002 59.6 65.2 
+Lou_Ferrigno/iQ20GRg2KfE_0000003 89.6 99.6 
+Lou_Ferrigno/iQ20GRg2KfE_0000004 108.7 113.9 

@@ -1,0 +1,12 @@
+POI: 			Robbie_Amell 
+Youtube ID: 	RRPGP1nA_Cg 
+Video length: 	152.5 sec 
+Set (V): 		dev 
+ 
+Robbie_Amell/RRPGP1nA_Cg_0000001 18.7 33.9 
+Robbie_Amell/RRPGP1nA_Cg_0000002 34.0 39.2 
+Robbie_Amell/RRPGP1nA_Cg_0000003 41.2 45.8 
+Robbie_Amell/RRPGP1nA_Cg_0000004 74.8 79.3 
+Robbie_Amell/RRPGP1nA_Cg_0000005 81.3 87.0 
+Robbie_Amell/RRPGP1nA_Cg_0000006 88.2 107.9 
+Robbie_Amell/RRPGP1nA_Cg_0000007 108.8 126.6 

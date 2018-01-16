@@ -1,0 +1,7 @@
+POI: 			Eric_Dane 
+Youtube ID: 	vHpJ0TSVKZs 
+Video length: 	186.9 sec 
+Set (V): 		test 
+ 
+Eric_Dane/vHpJ0TSVKZs_0000001 103.4 109.2 
+Eric_Dane/vHpJ0TSVKZs_0000002 119.4 124.4 

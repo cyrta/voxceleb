@@ -1,0 +1,12 @@
+POI: 			Richard_Madden 
+Youtube ID: 	OIMjmaeRaBw 
+Video length: 	275.7 sec 
+Set (V): 		dev 
+ 
+Richard_Madden/OIMjmaeRaBw_0000001 57.8 62.8 
+Richard_Madden/OIMjmaeRaBw_0000002 110.2 124.3 
+Richard_Madden/OIMjmaeRaBw_0000003 124.5 131.6 
+Richard_Madden/OIMjmaeRaBw_0000004 147.7 152.4 
+Richard_Madden/OIMjmaeRaBw_0000005 152.9 158.0 
+Richard_Madden/OIMjmaeRaBw_0000006 161.3 171.8 
+Richard_Madden/OIMjmaeRaBw_0000007 222.2 226.4 

@@ -1,0 +1,15 @@
+POI: 			Martin_Shaw 
+Youtube ID: 	OLBIidU12bM 
+Video length: 	165.1 sec 
+Set (V): 		dev 
+ 
+Martin_Shaw/OLBIidU12bM_0000001 04.2 09.9 
+Martin_Shaw/OLBIidU12bM_0000002 14.6 25.1 
+Martin_Shaw/OLBIidU12bM_0000003 07.5 19.5 
+Martin_Shaw/OLBIidU12bM_0000004 59.4 64.2 
+Martin_Shaw/OLBIidU12bM_0000005 69.7 77.0 
+Martin_Shaw/OLBIidU12bM_0000006 77.3 92.2 
+Martin_Shaw/OLBIidU12bM_0000007 95.1 102.3 
+Martin_Shaw/OLBIidU12bM_0000008 103.2 107.4 
+Martin_Shaw/OLBIidU12bM_0000009 114.5 126.2 
+Martin_Shaw/OLBIidU12bM_0000010 138.0 143.2 

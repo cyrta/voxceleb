@@ -1,0 +1,8 @@
+POI: 			Bobby_Cannavale 
+Youtube ID: 	q1mNeW_BrSw 
+Video length: 	144.2 sec 
+Set (V): 		dev 
+ 
+Bobby_Cannavale/q1mNeW_BrSw_0000001 22.5 28.5 
+Bobby_Cannavale/q1mNeW_BrSw_0000002 84.2 90.1 
+Bobby_Cannavale/q1mNeW_BrSw_0000003 80.8 85.0 

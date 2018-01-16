@@ -1,0 +1,8 @@
+POI: 			Jack_Griffo 
+Youtube ID: 	OWSAS0wjiFs 
+Video length: 	77.8 sec 
+Set (V): 		dev 
+ 
+Jack_Griffo/OWSAS0wjiFs_0000001 14.3 25.9 
+Jack_Griffo/OWSAS0wjiFs_0000002 30.5 35.8 
+Jack_Griffo/OWSAS0wjiFs_0000003 44.5 49.6 

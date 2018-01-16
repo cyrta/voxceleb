@@ -1,0 +1,19 @@
+POI: 			Taylor_Kitsch 
+Youtube ID: 	Kz6-ml8dJ4I 
+Video length: 	223.9 sec 
+Set (V): 		dev 
+ 
+Taylor_Kitsch/Kz6-ml8dJ4I_0000001 19.2 24.8 
+Taylor_Kitsch/Kz6-ml8dJ4I_0000002 25.8 41.4 
+Taylor_Kitsch/Kz6-ml8dJ4I_0000003 55.8 61.8 
+Taylor_Kitsch/Kz6-ml8dJ4I_0000004 64.4 77.1 
+Taylor_Kitsch/Kz6-ml8dJ4I_0000005 77.6 91.5 
+Taylor_Kitsch/Kz6-ml8dJ4I_0000006 97.3 102.5 
+Taylor_Kitsch/Kz6-ml8dJ4I_0000007 102.8 107.0 
+Taylor_Kitsch/Kz6-ml8dJ4I_0000008 107.8 112.3 
+Taylor_Kitsch/Kz6-ml8dJ4I_0000009 139.9 144.7 
+Taylor_Kitsch/Kz6-ml8dJ4I_0000010 153.0 160.5 
+Taylor_Kitsch/Kz6-ml8dJ4I_0000011 170.7 180.0 
+Taylor_Kitsch/Kz6-ml8dJ4I_0000012 188.1 192.9 
+Taylor_Kitsch/Kz6-ml8dJ4I_0000013 195.5 201.8 
+Taylor_Kitsch/Kz6-ml8dJ4I_0000014 205.2 220.9 

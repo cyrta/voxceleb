@@ -1,0 +1,8 @@
+POI: 			Jack_Davenport 
+Youtube ID: 	MaQ1kkH8bY4 
+Video length: 	515.3 sec 
+Set (V): 		dev 
+ 
+Jack_Davenport/MaQ1kkH8bY4_0000001 159.3 187.5 
+Jack_Davenport/MaQ1kkH8bY4_0000002 190.6 194.6 
+Jack_Davenport/MaQ1kkH8bY4_0000003 205.4 216.6 

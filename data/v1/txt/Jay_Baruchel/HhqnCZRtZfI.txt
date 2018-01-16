@@ -1,0 +1,12 @@
+POI: 			Jay_Baruchel 
+Youtube ID: 	HhqnCZRtZfI 
+Video length: 	282.4 sec 
+Set (V): 		dev 
+ 
+Jay_Baruchel/HhqnCZRtZfI_0000001 27.4 32.8 
+Jay_Baruchel/HhqnCZRtZfI_0000002 50.5 56.5 
+Jay_Baruchel/HhqnCZRtZfI_0000003 85.9 91.0 
+Jay_Baruchel/HhqnCZRtZfI_0000004 125.2 131.0 
+Jay_Baruchel/HhqnCZRtZfI_0000005 142.6 149.1 
+Jay_Baruchel/HhqnCZRtZfI_0000006 153.8 157.8 
+Jay_Baruchel/HhqnCZRtZfI_0000007 270.2 274.3 

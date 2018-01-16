@@ -1,0 +1,8 @@
+POI: 			Jennifer_Carpenter 
+Youtube ID: 	dpE7SYVtFgs 
+Video length: 	429.9 sec 
+Set (V): 		dev 
+ 
+Jennifer_Carpenter/dpE7SYVtFgs_0000001 220.1 226.7 
+Jennifer_Carpenter/dpE7SYVtFgs_0000002 247.4 255.7 
+Jennifer_Carpenter/dpE7SYVtFgs_0000003 360.6 367.5 

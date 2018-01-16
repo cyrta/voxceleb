@@ -1,0 +1,8 @@
+POI: 			David_Koechner 
+Youtube ID: 	DHzdCNxtLDg 
+Video length: 	54.8 sec 
+Set (V): 		dev 
+ 
+David_Koechner/DHzdCNxtLDg_0000001 08.4 13.0 
+David_Koechner/DHzdCNxtLDg_0000002 13.6 19.7 
+David_Koechner/DHzdCNxtLDg_0000003 26.8 53.2 

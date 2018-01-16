@@ -1,0 +1,24 @@
+POI: 			Greer_Garson 
+Youtube ID: 	8irGzD7h_PE 
+Video length: 	622.1 sec 
+Set (V): 		dev 
+ 
+Greer_Garson/8irGzD7h_PE_0000001 126.1 133.8 
+Greer_Garson/8irGzD7h_PE_0000002 147.0 151.5 
+Greer_Garson/8irGzD7h_PE_0000003 152.6 157.4 
+Greer_Garson/8irGzD7h_PE_0000004 172.6 182.8 
+Greer_Garson/8irGzD7h_PE_0000005 184.3 192.4 
+Greer_Garson/8irGzD7h_PE_0000006 250.5 254.8 
+Greer_Garson/8irGzD7h_PE_0000007 265.2 271.6 
+Greer_Garson/8irGzD7h_PE_0000008 280.0 285.2 
+Greer_Garson/8irGzD7h_PE_0000009 288.8 297.1 
+Greer_Garson/8irGzD7h_PE_0000010 299.4 304.0 
+Greer_Garson/8irGzD7h_PE_0000011 324.2 332.7 
+Greer_Garson/8irGzD7h_PE_0000012 362.7 369.6 
+Greer_Garson/8irGzD7h_PE_0000013 421.4 428.4 
+Greer_Garson/8irGzD7h_PE_0000014 434.7 443.1 
+Greer_Garson/8irGzD7h_PE_0000015 445.2 449.6 
+Greer_Garson/8irGzD7h_PE_0000016 453.2 457.2 
+Greer_Garson/8irGzD7h_PE_0000017 519.2 524.3 
+Greer_Garson/8irGzD7h_PE_0000018 584.1 589.3 
+Greer_Garson/8irGzD7h_PE_0000019 592.1 596.2 

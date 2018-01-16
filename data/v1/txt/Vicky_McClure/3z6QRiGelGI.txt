@@ -1,0 +1,12 @@
+POI: 			Vicky_McClure 
+Youtube ID: 	3z6QRiGelGI 
+Video length: 	179.3 sec 
+Set (V): 		dev 
+ 
+Vicky_McClure/3z6QRiGelGI_0000001 07.4 15.4 
+Vicky_McClure/3z6QRiGelGI_0000002 16.3 20.3 
+Vicky_McClure/3z6QRiGelGI_0000003 20.6 25.8 
+Vicky_McClure/3z6QRiGelGI_0000004 41.5 48.1 
+Vicky_McClure/3z6QRiGelGI_0000005 80.5 85.4 
+Vicky_McClure/3z6QRiGelGI_0000006 113.1 120.2 
+Vicky_McClure/3z6QRiGelGI_0000007 124.6 130.2 

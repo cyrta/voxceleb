@@ -1,0 +1,13 @@
+POI: 			Kim_Zolciak-Biermann 
+Youtube ID: 	JGseQwOqOhA 
+Video length: 	165.7 sec 
+Set (V): 		dev 
+ 
+Kim_Zolciak-Biermann/JGseQwOqOhA_0000001 01.1 08.7 
+Kim_Zolciak-Biermann/JGseQwOqOhA_0000002 08.8 16.1 
+Kim_Zolciak-Biermann/JGseQwOqOhA_0000003 16.3 50.0 
+Kim_Zolciak-Biermann/JGseQwOqOhA_0000004 76.8 82.3 
+Kim_Zolciak-Biermann/JGseQwOqOhA_0000005 82.5 106.8 
+Kim_Zolciak-Biermann/JGseQwOqOhA_0000006 109.4 113.7 
+Kim_Zolciak-Biermann/JGseQwOqOhA_0000007 120.0 125.7 
+Kim_Zolciak-Biermann/JGseQwOqOhA_0000008 125.9 146.3 

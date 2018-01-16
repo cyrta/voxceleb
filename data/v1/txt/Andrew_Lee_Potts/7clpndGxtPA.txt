@@ -1,0 +1,16 @@
+POI: 			Andrew_Lee_Potts 
+Youtube ID: 	7clpndGxtPA 
+Video length: 	165.3 sec 
+Set (V): 		dev 
+ 
+Andrew_Lee_Potts/7clpndGxtPA_0000001 08.0 17.6 
+Andrew_Lee_Potts/7clpndGxtPA_0000002 17.8 30.1 
+Andrew_Lee_Potts/7clpndGxtPA_0000003 30.7 38.6 
+Andrew_Lee_Potts/7clpndGxtPA_0000004 40.6 46.9 
+Andrew_Lee_Potts/7clpndGxtPA_0000005 47.7 60.8 
+Andrew_Lee_Potts/7clpndGxtPA_0000006 61.5 81.2 
+Andrew_Lee_Potts/7clpndGxtPA_0000007 85.4 96.2 
+Andrew_Lee_Potts/7clpndGxtPA_0000008 96.4 119.7 
+Andrew_Lee_Potts/7clpndGxtPA_0000009 121.5 128.0 
+Andrew_Lee_Potts/7clpndGxtPA_0000010 128.7 141.2 
+Andrew_Lee_Potts/7clpndGxtPA_0000011 145.6 159.8 

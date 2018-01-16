@@ -1,0 +1,7 @@
+POI: 			Michael_Cera 
+Youtube ID: 	7DDauZk6s-M 
+Video length: 	229.5 sec 
+Set (V): 		dev 
+ 
+Michael_Cera/7DDauZk6s-M_0000001 25.0 31.7 
+Michael_Cera/7DDauZk6s-M_0000002 36.8 41.3 

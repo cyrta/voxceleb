@@ -1,0 +1,18 @@
+POI: 			Barbara_Eden 
+Youtube ID: 	mKOmIJhv7nA 
+Video length: 	202.6 sec 
+Set (V): 		dev 
+ 
+Barbara_Eden/mKOmIJhv7nA_0000001 10.4 20.4 
+Barbara_Eden/mKOmIJhv7nA_0000002 14.8 23.3 
+Barbara_Eden/mKOmIJhv7nA_0000003 24.1 31.8 
+Barbara_Eden/mKOmIJhv7nA_0000004 45.5 57.0 
+Barbara_Eden/mKOmIJhv7nA_0000005 59.0 72.0 
+Barbara_Eden/mKOmIJhv7nA_0000006 98.5 103.4 
+Barbara_Eden/mKOmIJhv7nA_0000007 104.2 112.0 
+Barbara_Eden/mKOmIJhv7nA_0000008 139.2 158.0 
+Barbara_Eden/mKOmIJhv7nA_0000009 158.9 164.3 
+Barbara_Eden/mKOmIJhv7nA_0000010 165.5 172.5 
+Barbara_Eden/mKOmIJhv7nA_0000011 178.3 185.4 
+Barbara_Eden/mKOmIJhv7nA_0000012 186.0 192.4 
+Barbara_Eden/mKOmIJhv7nA_0000013 143.2 147.2 

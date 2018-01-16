@@ -1,0 +1,14 @@
+POI: 			Blake_Michael 
+Youtube ID: 	l6k-pbyr11w 
+Video length: 	201.5 sec 
+Set (V): 		dev 
+ 
+Blake_Michael/l6k-pbyr11w_0000001 11.0 21.6 
+Blake_Michael/l6k-pbyr11w_0000002 28.4 34.6 
+Blake_Michael/l6k-pbyr11w_0000003 70.4 83.6 
+Blake_Michael/l6k-pbyr11w_0000004 92.5 98.7 
+Blake_Michael/l6k-pbyr11w_0000005 92.3 113.8 
+Blake_Michael/l6k-pbyr11w_0000006 101.6 116.2 
+Blake_Michael/l6k-pbyr11w_0000007 118.4 127.9 
+Blake_Michael/l6k-pbyr11w_0000008 159.3 165.1 
+Blake_Michael/l6k-pbyr11w_0000009 178.8 189.2 

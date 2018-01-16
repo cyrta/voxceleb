@@ -1,0 +1,7 @@
+POI: 			Nicole_Richie 
+Youtube ID: 	q6-hRv4KiHQ 
+Video length: 	561.8 sec 
+Set (V): 		dev 
+ 
+Nicole_Richie/q6-hRv4KiHQ_0000001 121.3 129.7 
+Nicole_Richie/q6-hRv4KiHQ_0000002 243.5 247.9 

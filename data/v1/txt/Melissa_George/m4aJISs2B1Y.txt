@@ -1,0 +1,13 @@
+POI: 			Melissa_George 
+Youtube ID: 	m4aJISs2B1Y 
+Video length: 	274.3 sec 
+Set (V): 		dev 
+ 
+Melissa_George/m4aJISs2B1Y_0000001 12.1 31.4 
+Melissa_George/m4aJISs2B1Y_0000002 41.0 48.4 
+Melissa_George/m4aJISs2B1Y_0000003 48.8 78.4 
+Melissa_George/m4aJISs2B1Y_0000004 92.7 116.6 
+Melissa_George/m4aJISs2B1Y_0000005 121.2 131.0 
+Melissa_George/m4aJISs2B1Y_0000006 187.2 214.4 
+Melissa_George/m4aJISs2B1Y_0000007 215.5 219.6 
+Melissa_George/m4aJISs2B1Y_0000008 228.3 240.2 

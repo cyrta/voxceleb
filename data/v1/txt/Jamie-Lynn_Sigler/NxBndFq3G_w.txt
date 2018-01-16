@@ -1,0 +1,10 @@
+POI: 			Jamie-Lynn_Sigler 
+Youtube ID: 	NxBndFq3G_w 
+Video length: 	125.7 sec 
+Set (V): 		dev 
+ 
+Jamie-Lynn_Sigler/NxBndFq3G_w_0000001 13.7 18.8 
+Jamie-Lynn_Sigler/NxBndFq3G_w_0000002 23.3 32.5 
+Jamie-Lynn_Sigler/NxBndFq3G_w_0000003 37.5 52.9 
+Jamie-Lynn_Sigler/NxBndFq3G_w_0000004 63.0 74.3 
+Jamie-Lynn_Sigler/NxBndFq3G_w_0000005 75.1 107.7 

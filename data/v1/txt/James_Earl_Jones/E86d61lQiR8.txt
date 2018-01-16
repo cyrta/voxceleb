@@ -1,0 +1,7 @@
+POI: 			James_Earl_Jones 
+Youtube ID: 	E86d61lQiR8 
+Video length: 	155.2 sec 
+Set (V): 		dev 
+ 
+James_Earl_Jones/E86d61lQiR8_0000001 95.8 101.3 
+James_Earl_Jones/E86d61lQiR8_0000002 123.7 128.8 

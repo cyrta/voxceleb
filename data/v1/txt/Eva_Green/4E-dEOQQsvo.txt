@@ -1,0 +1,12 @@
+POI: 			Eva_Green 
+Youtube ID: 	4E-dEOQQsvo 
+Video length: 	432.2 sec 
+Set (V): 		test 
+ 
+Eva_Green/4E-dEOQQsvo_0000001 109.8 113.8 
+Eva_Green/4E-dEOQQsvo_0000002 283.7 294.8 
+Eva_Green/4E-dEOQQsvo_0000003 295.4 314.1 
+Eva_Green/4E-dEOQQsvo_0000004 320.8 330.6 
+Eva_Green/4E-dEOQQsvo_0000005 351.0 358.1 
+Eva_Green/4E-dEOQQsvo_0000006 359.3 368.1 
+Eva_Green/4E-dEOQQsvo_0000007 371.0 379.0 

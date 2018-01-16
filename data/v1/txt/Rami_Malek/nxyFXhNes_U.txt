@@ -1,0 +1,28 @@
+POI: 			Rami_Malek 
+Youtube ID: 	nxyFXhNes_U 
+Video length: 	447.0 sec 
+Set (V): 		dev 
+ 
+Rami_Malek/nxyFXhNes_U_0000001 34.6 44.6 
+Rami_Malek/nxyFXhNes_U_0000002 50.1 63.4 
+Rami_Malek/nxyFXhNes_U_0000003 75.0 82.4 
+Rami_Malek/nxyFXhNes_U_0000004 105.0 109.3 
+Rami_Malek/nxyFXhNes_U_0000005 114.7 123.4 
+Rami_Malek/nxyFXhNes_U_0000006 124.9 135.5 
+Rami_Malek/nxyFXhNes_U_0000007 149.5 155.6 
+Rami_Malek/nxyFXhNes_U_0000008 177.2 193.9 
+Rami_Malek/nxyFXhNes_U_0000009 203.8 213.6 
+Rami_Malek/nxyFXhNes_U_0000010 215.0 223.7 
+Rami_Malek/nxyFXhNes_U_0000011 225.0 230.3 
+Rami_Malek/nxyFXhNes_U_0000012 244.8 261.4 
+Rami_Malek/nxyFXhNes_U_0000013 329.7 337.7 
+Rami_Malek/nxyFXhNes_U_0000014 338.4 346.5 
+Rami_Malek/nxyFXhNes_U_0000015 347.4 358.2 
+Rami_Malek/nxyFXhNes_U_0000016 363.2 368.4 
+Rami_Malek/nxyFXhNes_U_0000017 368.8 373.8 
+Rami_Malek/nxyFXhNes_U_0000018 373.9 387.6 
+Rami_Malek/nxyFXhNes_U_0000019 388.0 392.4 
+Rami_Malek/nxyFXhNes_U_0000020 380.3 387.2 
+Rami_Malek/nxyFXhNes_U_0000021 394.2 401.4 
+Rami_Malek/nxyFXhNes_U_0000022 401.8 409.2 
+Rami_Malek/nxyFXhNes_U_0000023 424.3 438.7 

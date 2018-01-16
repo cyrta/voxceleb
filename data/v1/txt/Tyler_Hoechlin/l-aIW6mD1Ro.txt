@@ -1,0 +1,10 @@
+POI: 			Tyler_Hoechlin 
+Youtube ID: 	l-aIW6mD1Ro 
+Video length: 	392.4 sec 
+Set (V): 		dev 
+ 
+Tyler_Hoechlin/l-aIW6mD1Ro_0000001 62.8 68.2 
+Tyler_Hoechlin/l-aIW6mD1Ro_0000002 70.8 74.9 
+Tyler_Hoechlin/l-aIW6mD1Ro_0000003 249.3 253.8 
+Tyler_Hoechlin/l-aIW6mD1Ro_0000004 350.6 355.1 
+Tyler_Hoechlin/l-aIW6mD1Ro_0000005 361.9 372.5 

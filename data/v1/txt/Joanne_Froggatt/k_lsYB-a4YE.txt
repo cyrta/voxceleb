@@ -1,0 +1,10 @@
+POI: 			Joanne_Froggatt 
+Youtube ID: 	k_lsYB-a4YE 
+Video length: 	145.8 sec 
+Set (V): 		dev 
+ 
+Joanne_Froggatt/k_lsYB-a4YE_0000001 22.6 33.3 
+Joanne_Froggatt/k_lsYB-a4YE_0000002 33.6 40.2 
+Joanne_Froggatt/k_lsYB-a4YE_0000003 68.2 87.9 
+Joanne_Froggatt/k_lsYB-a4YE_0000004 89.7 93.8 
+Joanne_Froggatt/k_lsYB-a4YE_0000005 103.0 111.9 

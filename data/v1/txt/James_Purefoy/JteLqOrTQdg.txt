@@ -1,0 +1,23 @@
+POI: 			James_Purefoy 
+Youtube ID: 	JteLqOrTQdg 
+Video length: 	365.2 sec 
+Set (V): 		dev 
+ 
+James_Purefoy/JteLqOrTQdg_0000001 17.5 29.3 
+James_Purefoy/JteLqOrTQdg_0000002 29.4 48.1 
+James_Purefoy/JteLqOrTQdg_0000003 48.9 73.2 
+James_Purefoy/JteLqOrTQdg_0000004 89.6 97.8 
+James_Purefoy/JteLqOrTQdg_0000005 115.0 120.5 
+James_Purefoy/JteLqOrTQdg_0000006 130.4 138.2 
+James_Purefoy/JteLqOrTQdg_0000007 146.9 160.7 
+James_Purefoy/JteLqOrTQdg_0000008 182.0 186.0 
+James_Purefoy/JteLqOrTQdg_0000009 192.8 205.0 
+James_Purefoy/JteLqOrTQdg_0000010 205.2 237.5 
+James_Purefoy/JteLqOrTQdg_0000011 250.0 256.9 
+James_Purefoy/JteLqOrTQdg_0000012 261.1 265.0 
+James_Purefoy/JteLqOrTQdg_0000013 270.8 279.7 
+James_Purefoy/JteLqOrTQdg_0000014 280.5 287.1 
+James_Purefoy/JteLqOrTQdg_0000015 298.4 307.4 
+James_Purefoy/JteLqOrTQdg_0000016 314.3 324.2 
+James_Purefoy/JteLqOrTQdg_0000017 325.0 330.7 
+James_Purefoy/JteLqOrTQdg_0000018 332.6 343.4 

@@ -1,0 +1,6 @@
+POI: 			Janet_Jackson 
+Youtube ID: 	0y27qcxJIJY 
+Video length: 	252.7 sec 
+Set (V): 		dev 
+ 
+Janet_Jackson/0y27qcxJIJY_0000001 50.7 60.0 

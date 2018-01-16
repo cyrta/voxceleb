@@ -1,0 +1,33 @@
+POI: 			Peter_Jackson 
+Youtube ID: 	Aj9jsh2G3j0 
+Video length: 	765.8 sec 
+Set (V): 		dev 
+ 
+Peter_Jackson/Aj9jsh2G3j0_0000001 89.2 100.5 
+Peter_Jackson/Aj9jsh2G3j0_0000002 102.3 108.0 
+Peter_Jackson/Aj9jsh2G3j0_0000003 109.2 113.5 
+Peter_Jackson/Aj9jsh2G3j0_0000004 137.5 143.7 
+Peter_Jackson/Aj9jsh2G3j0_0000005 146.5 151.6 
+Peter_Jackson/Aj9jsh2G3j0_0000006 154.2 159.0 
+Peter_Jackson/Aj9jsh2G3j0_0000007 164.3 172.8 
+Peter_Jackson/Aj9jsh2G3j0_0000008 180.2 185.1 
+Peter_Jackson/Aj9jsh2G3j0_0000009 194.1 198.7 
+Peter_Jackson/Aj9jsh2G3j0_0000010 199.2 217.0 
+Peter_Jackson/Aj9jsh2G3j0_0000011 223.6 229.8 
+Peter_Jackson/Aj9jsh2G3j0_0000012 239.9 246.3 
+Peter_Jackson/Aj9jsh2G3j0_0000013 261.9 267.6 
+Peter_Jackson/Aj9jsh2G3j0_0000014 337.6 345.8 
+Peter_Jackson/Aj9jsh2G3j0_0000015 346.9 351.9 
+Peter_Jackson/Aj9jsh2G3j0_0000016 428.1 432.6 
+Peter_Jackson/Aj9jsh2G3j0_0000017 436.2 443.0 
+Peter_Jackson/Aj9jsh2G3j0_0000018 444.1 452.8 
+Peter_Jackson/Aj9jsh2G3j0_0000019 464.0 468.4 
+Peter_Jackson/Aj9jsh2G3j0_0000020 479.6 484.2 
+Peter_Jackson/Aj9jsh2G3j0_0000021 510.2 517.9 
+Peter_Jackson/Aj9jsh2G3j0_0000022 530.4 536.0 
+Peter_Jackson/Aj9jsh2G3j0_0000023 549.1 555.8 
+Peter_Jackson/Aj9jsh2G3j0_0000024 575.0 591.5 
+Peter_Jackson/Aj9jsh2G3j0_0000025 607.3 617.9 
+Peter_Jackson/Aj9jsh2G3j0_0000026 652.1 672.2 
+Peter_Jackson/Aj9jsh2G3j0_0000027 672.4 683.0 
+Peter_Jackson/Aj9jsh2G3j0_0000028 688.4 693.9 

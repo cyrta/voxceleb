@@ -1,0 +1,13 @@
+POI: 			Derek_Theler 
+Youtube ID: 	Gdc9C7Qx7HA 
+Video length: 	238.9 sec 
+Set (V): 		dev 
+ 
+Derek_Theler/Gdc9C7Qx7HA_0000001 26.5 44.2 
+Derek_Theler/Gdc9C7Qx7HA_0000002 63.3 70.9 
+Derek_Theler/Gdc9C7Qx7HA_0000003 71.5 76.4 
+Derek_Theler/Gdc9C7Qx7HA_0000004 76.5 81.2 
+Derek_Theler/Gdc9C7Qx7HA_0000005 82.4 89.7 
+Derek_Theler/Gdc9C7Qx7HA_0000006 112.8 121.8 
+Derek_Theler/Gdc9C7Qx7HA_0000007 169.6 180.3 
+Derek_Theler/Gdc9C7Qx7HA_0000008 222.5 226.8 

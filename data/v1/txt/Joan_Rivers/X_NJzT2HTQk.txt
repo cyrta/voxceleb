@@ -1,0 +1,9 @@
+POI: 			Joan_Rivers 
+Youtube ID: 	X_NJzT2HTQk 
+Video length: 	239.3 sec 
+Set (V): 		dev 
+ 
+Joan_Rivers/X_NJzT2HTQk_0000001 34.4 47.5 
+Joan_Rivers/X_NJzT2HTQk_0000002 49.0 53.2 
+Joan_Rivers/X_NJzT2HTQk_0000003 166.4 179.7 
+Joan_Rivers/X_NJzT2HTQk_0000004 181.2 185.4 

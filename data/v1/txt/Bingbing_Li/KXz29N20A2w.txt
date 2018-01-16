@@ -1,0 +1,11 @@
+POI: 			Bingbing_Li 
+Youtube ID: 	KXz29N20A2w 
+Video length: 	120.1 sec 
+Set (V): 		dev 
+ 
+Bingbing_Li/KXz29N20A2w_0000001 12.6 19.0 
+Bingbing_Li/KXz29N20A2w_0000002 24.3 28.3 
+Bingbing_Li/KXz29N20A2w_0000003 28.4 34.1 
+Bingbing_Li/KXz29N20A2w_0000004 52.2 61.7 
+Bingbing_Li/KXz29N20A2w_0000005 66.5 73.2 
+Bingbing_Li/KXz29N20A2w_0000006 80.6 84.8 

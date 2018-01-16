@@ -1,0 +1,16 @@
+POI: 			Stephen_Lang 
+Youtube ID: 	UIbmfNmrTJo 
+Video length: 	184.7 sec 
+Set (V): 		dev 
+ 
+Stephen_Lang/UIbmfNmrTJo_0000001 16.3 25.9 
+Stephen_Lang/UIbmfNmrTJo_0000002 26.9 37.4 
+Stephen_Lang/UIbmfNmrTJo_0000003 51.6 59.1 
+Stephen_Lang/UIbmfNmrTJo_0000004 59.9 64.4 
+Stephen_Lang/UIbmfNmrTJo_0000005 65.8 72.8 
+Stephen_Lang/UIbmfNmrTJo_0000006 91.7 98.3 
+Stephen_Lang/UIbmfNmrTJo_0000007 100.5 106.6 
+Stephen_Lang/UIbmfNmrTJo_0000008 115.2 123.8 
+Stephen_Lang/UIbmfNmrTJo_0000009 141.0 145.5 
+Stephen_Lang/UIbmfNmrTJo_0000010 154.8 161.9 
+Stephen_Lang/UIbmfNmrTJo_0000011 175.3 183.0 

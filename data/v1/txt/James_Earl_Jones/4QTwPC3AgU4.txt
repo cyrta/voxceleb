@@ -1,0 +1,8 @@
+POI: 			James_Earl_Jones 
+Youtube ID: 	4QTwPC3AgU4 
+Video length: 	85.1 sec 
+Set (V): 		dev 
+ 
+James_Earl_Jones/4QTwPC3AgU4_0000001 26.3 30.8 
+James_Earl_Jones/4QTwPC3AgU4_0000002 46.1 52.1 
+James_Earl_Jones/4QTwPC3AgU4_0000003 71.9 76.0 

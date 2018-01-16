@@ -1,0 +1,15 @@
+POI: 			Pat_Monahan 
+Youtube ID: 	3CURAxQwy3E 
+Video length: 	153.7 sec 
+Set (V): 		dev 
+ 
+Pat_Monahan/3CURAxQwy3E_0000001 06.6 12.4 
+Pat_Monahan/3CURAxQwy3E_0000002 18.0 27.7 
+Pat_Monahan/3CURAxQwy3E_0000003 33.2 38.6 
+Pat_Monahan/3CURAxQwy3E_0000004 43.2 49.1 
+Pat_Monahan/3CURAxQwy3E_0000005 54.5 64.3 
+Pat_Monahan/3CURAxQwy3E_0000006 76.0 85.6 
+Pat_Monahan/3CURAxQwy3E_0000007 87.8 99.8 
+Pat_Monahan/3CURAxQwy3E_0000008 102.3 110.0 
+Pat_Monahan/3CURAxQwy3E_0000009 115.5 132.0 
+Pat_Monahan/3CURAxQwy3E_0000010 135.0 141.9 

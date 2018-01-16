@@ -1,0 +1,7 @@
+POI: 			David_Kross 
+Youtube ID: 	kVOYw96WvIk 
+Video length: 	58.1 sec 
+Set (V): 		dev 
+ 
+David_Kross/kVOYw96WvIk_0000001 27.3 34.0 
+David_Kross/kVOYw96WvIk_0000002 37.4 46.0 

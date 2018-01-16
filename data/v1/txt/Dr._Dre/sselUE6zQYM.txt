@@ -1,0 +1,12 @@
+POI: 			Dr._Dre 
+Youtube ID: 	sselUE6zQYM 
+Video length: 	319.1 sec 
+Set (V): 		dev 
+ 
+Dr._Dre/sselUE6zQYM_0000001 37.9 43.9 
+Dr._Dre/sselUE6zQYM_0000002 97.4 102.0 
+Dr._Dre/sselUE6zQYM_0000003 172.7 182.8 
+Dr._Dre/sselUE6zQYM_0000004 212.6 222.0 
+Dr._Dre/sselUE6zQYM_0000005 291.3 297.0 
+Dr._Dre/sselUE6zQYM_0000006 297.2 305.6 
+Dr._Dre/sselUE6zQYM_0000007 307.6 316.8 

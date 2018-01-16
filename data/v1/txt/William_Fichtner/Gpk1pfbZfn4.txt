@@ -1,0 +1,30 @@
+POI: 			William_Fichtner 
+Youtube ID: 	Gpk1pfbZfn4 
+Video length: 	405.9 sec 
+Set (V): 		dev 
+ 
+William_Fichtner/Gpk1pfbZfn4_0000001 11.7 21.2 
+William_Fichtner/Gpk1pfbZfn4_0000002 24.1 29.3 
+William_Fichtner/Gpk1pfbZfn4_0000003 29.9 36.2 
+William_Fichtner/Gpk1pfbZfn4_0000004 37.3 47.9 
+William_Fichtner/Gpk1pfbZfn4_0000005 64.3 81.2 
+William_Fichtner/Gpk1pfbZfn4_0000006 82.6 88.6 
+William_Fichtner/Gpk1pfbZfn4_0000007 96.5 104.9 
+William_Fichtner/Gpk1pfbZfn4_0000008 107.4 121.6 
+William_Fichtner/Gpk1pfbZfn4_0000009 125.4 139.0 
+William_Fichtner/Gpk1pfbZfn4_0000010 142.8 149.4 
+William_Fichtner/Gpk1pfbZfn4_0000011 154.6 167.4 
+William_Fichtner/Gpk1pfbZfn4_0000012 175.7 180.7 
+William_Fichtner/Gpk1pfbZfn4_0000013 181.5 190.2 
+William_Fichtner/Gpk1pfbZfn4_0000014 198.5 211.3 
+William_Fichtner/Gpk1pfbZfn4_0000015 212.0 216.6 
+William_Fichtner/Gpk1pfbZfn4_0000016 224.2 229.3 
+William_Fichtner/Gpk1pfbZfn4_0000017 234.9 242.3 
+William_Fichtner/Gpk1pfbZfn4_0000018 244.7 251.1 
+William_Fichtner/Gpk1pfbZfn4_0000019 254.6 262.0 
+William_Fichtner/Gpk1pfbZfn4_0000020 262.2 277.2 
+William_Fichtner/Gpk1pfbZfn4_0000021 296.1 300.4 
+William_Fichtner/Gpk1pfbZfn4_0000022 300.7 324.8 
+William_Fichtner/Gpk1pfbZfn4_0000023 325.2 337.9 
+William_Fichtner/Gpk1pfbZfn4_0000024 338.1 342.3 
+William_Fichtner/Gpk1pfbZfn4_0000025 345.6 377.8 

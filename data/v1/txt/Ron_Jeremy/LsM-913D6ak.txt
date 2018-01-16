@@ -1,0 +1,8 @@
+POI: 			Ron_Jeremy 
+Youtube ID: 	LsM-913D6ak 
+Video length: 	178.9 sec 
+Set (V): 		dev 
+ 
+Ron_Jeremy/LsM-913D6ak_0000001 108.4 115.0 
+Ron_Jeremy/LsM-913D6ak_0000002 123.8 128.3 
+Ron_Jeremy/LsM-913D6ak_0000003 137.7 143.0 

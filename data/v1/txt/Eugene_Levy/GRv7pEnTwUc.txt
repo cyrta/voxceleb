@@ -1,0 +1,11 @@
+POI: 			Eugene_Levy 
+Youtube ID: 	GRv7pEnTwUc 
+Video length: 	243.7 sec 
+Set (V): 		test 
+ 
+Eugene_Levy/GRv7pEnTwUc_0000001 24.1 29.7 
+Eugene_Levy/GRv7pEnTwUc_0000002 41.3 45.9 
+Eugene_Levy/GRv7pEnTwUc_0000003 51.6 64.2 
+Eugene_Levy/GRv7pEnTwUc_0000004 123.4 128.4 
+Eugene_Levy/GRv7pEnTwUc_0000005 165.3 185.7 
+Eugene_Levy/GRv7pEnTwUc_0000006 186.4 191.7 

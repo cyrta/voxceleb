@@ -1,0 +1,11 @@
+POI: 			Paloma_Faith 
+Youtube ID: 	O7rDPaujfto 
+Video length: 	184.3 sec 
+Set (V): 		dev 
+ 
+Paloma_Faith/O7rDPaujfto_0000001 09.9 15.0 
+Paloma_Faith/O7rDPaujfto_0000002 36.4 44.1 
+Paloma_Faith/O7rDPaujfto_0000003 67.2 79.3 
+Paloma_Faith/O7rDPaujfto_0000004 68.4 73.3 
+Paloma_Faith/O7rDPaujfto_0000005 85.7 90.4 
+Paloma_Faith/O7rDPaujfto_0000006 91.1 97.6 

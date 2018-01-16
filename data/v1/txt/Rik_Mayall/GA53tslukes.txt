@@ -1,0 +1,27 @@
+POI: 			Rik_Mayall 
+Youtube ID: 	GA53tslukes 
+Video length: 	559.4 sec 
+Set (V): 		dev 
+ 
+Rik_Mayall/GA53tslukes_0000001 56.2 71.9 
+Rik_Mayall/GA53tslukes_0000002 74.4 92.8 
+Rik_Mayall/GA53tslukes_0000003 96.3 100.4 
+Rik_Mayall/GA53tslukes_0000004 111.4 116.6 
+Rik_Mayall/GA53tslukes_0000005 120.5 126.4 
+Rik_Mayall/GA53tslukes_0000006 139.8 143.9 
+Rik_Mayall/GA53tslukes_0000007 157.6 181.8 
+Rik_Mayall/GA53tslukes_0000008 185.6 197.5 
+Rik_Mayall/GA53tslukes_0000009 216.9 225.0 
+Rik_Mayall/GA53tslukes_0000010 230.3 238.1 
+Rik_Mayall/GA53tslukes_0000011 238.7 243.8 
+Rik_Mayall/GA53tslukes_0000012 253.0 258.7 
+Rik_Mayall/GA53tslukes_0000013 269.1 276.5 
+Rik_Mayall/GA53tslukes_0000014 323.6 331.1 
+Rik_Mayall/GA53tslukes_0000015 338.0 346.0 
+Rik_Mayall/GA53tslukes_0000016 379.6 387.5 
+Rik_Mayall/GA53tslukes_0000017 397.0 409.2 
+Rik_Mayall/GA53tslukes_0000018 443.5 449.1 
+Rik_Mayall/GA53tslukes_0000019 451.2 456.0 
+Rik_Mayall/GA53tslukes_0000020 480.3 486.0 
+Rik_Mayall/GA53tslukes_0000021 486.4 491.8 
+Rik_Mayall/GA53tslukes_0000022 506.7 514.6 

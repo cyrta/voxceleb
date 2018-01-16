@@ -1,0 +1,14 @@
+POI: 			Dr._Dre 
+Youtube ID: 	nz7zk4O5ti4 
+Video length: 	362.8 sec 
+Set (V): 		dev 
+ 
+Dr._Dre/nz7zk4O5ti4_0000001 43.7 55.7 
+Dr._Dre/nz7zk4O5ti4_0000002 57.6 62.7 
+Dr._Dre/nz7zk4O5ti4_0000003 133.5 137.6 
+Dr._Dre/nz7zk4O5ti4_0000004 141.0 149.2 
+Dr._Dre/nz7zk4O5ti4_0000005 150.1 157.8 
+Dr._Dre/nz7zk4O5ti4_0000006 201.7 207.0 
+Dr._Dre/nz7zk4O5ti4_0000007 227.4 236.8 
+Dr._Dre/nz7zk4O5ti4_0000008 292.9 297.3 
+Dr._Dre/nz7zk4O5ti4_0000009 347.0 353.3 

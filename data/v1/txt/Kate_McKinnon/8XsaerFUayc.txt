@@ -1,0 +1,8 @@
+POI: 			Kate_McKinnon 
+Youtube ID: 	8XsaerFUayc 
+Video length: 	302.9 sec 
+Set (V): 		dev 
+ 
+Kate_McKinnon/8XsaerFUayc_0000001 128.6 135.6 
+Kate_McKinnon/8XsaerFUayc_0000002 159.2 165.0 
+Kate_McKinnon/8XsaerFUayc_0000003 224.4 232.2 

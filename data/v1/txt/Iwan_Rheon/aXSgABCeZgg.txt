@@ -1,0 +1,8 @@
+POI: 			Iwan_Rheon 
+Youtube ID: 	aXSgABCeZgg 
+Video length: 	275.3 sec 
+Set (V): 		dev 
+ 
+Iwan_Rheon/aXSgABCeZgg_0000001 42.2 47.2 
+Iwan_Rheon/aXSgABCeZgg_0000002 155.9 161.2 
+Iwan_Rheon/aXSgABCeZgg_0000003 242.0 246.7 

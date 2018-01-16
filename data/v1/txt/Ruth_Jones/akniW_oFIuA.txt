@@ -1,0 +1,13 @@
+POI: 			Ruth_Jones 
+Youtube ID: 	akniW_oFIuA 
+Video length: 	156.3 sec 
+Set (V): 		dev 
+ 
+Ruth_Jones/akniW_oFIuA_0000001 00.7 07.5 
+Ruth_Jones/akniW_oFIuA_0000002 09.9 19.4 
+Ruth_Jones/akniW_oFIuA_0000003 46.2 52.0 
+Ruth_Jones/akniW_oFIuA_0000004 57.7 61.9 
+Ruth_Jones/akniW_oFIuA_0000005 73.8 84.0 
+Ruth_Jones/akniW_oFIuA_0000006 93.6 108.8 
+Ruth_Jones/akniW_oFIuA_0000007 129.4 135.9 
+Ruth_Jones/akniW_oFIuA_0000008 137.4 145.9 

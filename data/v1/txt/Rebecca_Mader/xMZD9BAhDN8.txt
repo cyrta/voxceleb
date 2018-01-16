@@ -1,0 +1,8 @@
+POI: 			Rebecca_Mader 
+Youtube ID: 	xMZD9BAhDN8 
+Video length: 	572.1 sec 
+Set (V): 		dev 
+ 
+Rebecca_Mader/xMZD9BAhDN8_0000001 167.5 176.0 
+Rebecca_Mader/xMZD9BAhDN8_0000002 184.2 190.3 
+Rebecca_Mader/xMZD9BAhDN8_0000003 191.3 196.8 

@@ -1,0 +1,14 @@
+POI: 			Julia_Louis-Dreyfus 
+Youtube ID: 	r2fSMUmIHAs 
+Video length: 	169.8 sec 
+Set (V): 		dev 
+ 
+Julia_Louis-Dreyfus/r2fSMUmIHAs_0000001 06.5 14.5 
+Julia_Louis-Dreyfus/r2fSMUmIHAs_0000002 23.0 37.4 
+Julia_Louis-Dreyfus/r2fSMUmIHAs_0000003 42.4 57.2 
+Julia_Louis-Dreyfus/r2fSMUmIHAs_0000004 63.8 73.1 
+Julia_Louis-Dreyfus/r2fSMUmIHAs_0000005 75.6 82.5 
+Julia_Louis-Dreyfus/r2fSMUmIHAs_0000006 96.4 101.1 
+Julia_Louis-Dreyfus/r2fSMUmIHAs_0000007 118.8 131.9 
+Julia_Louis-Dreyfus/r2fSMUmIHAs_0000008 141.9 150.2 
+Julia_Louis-Dreyfus/r2fSMUmIHAs_0000009 151.0 155.1 

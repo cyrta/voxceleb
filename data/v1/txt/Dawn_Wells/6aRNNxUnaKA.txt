@@ -1,0 +1,10 @@
+POI: 			Dawn_Wells 
+Youtube ID: 	6aRNNxUnaKA 
+Video length: 	431.4 sec 
+Set (V): 		dev 
+ 
+Dawn_Wells/6aRNNxUnaKA_0000001 93.4 108.0 
+Dawn_Wells/6aRNNxUnaKA_0000002 135.3 141.9 
+Dawn_Wells/6aRNNxUnaKA_0000003 251.8 255.8 
+Dawn_Wells/6aRNNxUnaKA_0000004 272.7 292.9 
+Dawn_Wells/6aRNNxUnaKA_0000005 335.0 342.1 

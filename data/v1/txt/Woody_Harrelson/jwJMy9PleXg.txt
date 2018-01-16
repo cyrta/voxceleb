@@ -1,0 +1,10 @@
+POI: 			Woody_Harrelson 
+Youtube ID: 	jwJMy9PleXg 
+Video length: 	116.4 sec 
+Set (V): 		dev 
+ 
+Woody_Harrelson/jwJMy9PleXg_0000001 21.5 26.6 
+Woody_Harrelson/jwJMy9PleXg_0000002 36.2 41.4 
+Woody_Harrelson/jwJMy9PleXg_0000003 44.6 49.4 
+Woody_Harrelson/jwJMy9PleXg_0000004 59.3 66.0 
+Woody_Harrelson/jwJMy9PleXg_0000005 90.3 100.8 

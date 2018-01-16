@@ -1,0 +1,7 @@
+POI: 			Tamara_Taylor 
+Youtube ID: 	NimzACFO1L0 
+Video length: 	208.1 sec 
+Set (V): 		dev 
+ 
+Tamara_Taylor/NimzACFO1L0_0000001 35.2 48.6 
+Tamara_Taylor/NimzACFO1L0_0000002 48.9 56.5 

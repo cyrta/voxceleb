@@ -1,0 +1,12 @@
+POI: 			Akshay_Kumar 
+Youtube ID: 	Q7aBwU0ZeUk 
+Video length: 	1359.1 sec 
+Set (V): 		dev 
+ 
+Akshay_Kumar/Q7aBwU0ZeUk_0000001 137.5 143.0 
+Akshay_Kumar/Q7aBwU0ZeUk_0000002 347.2 351.4 
+Akshay_Kumar/Q7aBwU0ZeUk_0000003 410.8 415.4 
+Akshay_Kumar/Q7aBwU0ZeUk_0000004 468.8 473.2 
+Akshay_Kumar/Q7aBwU0ZeUk_0000005 604.3 608.6 
+Akshay_Kumar/Q7aBwU0ZeUk_0000006 741.4 747.8 
+Akshay_Kumar/Q7aBwU0ZeUk_0000007 834.0 838.2 

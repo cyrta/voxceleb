@@ -1,0 +1,7 @@
+POI: 			Mark_Sheppard 
+Youtube ID: 	ytM-I69pwU8 
+Video length: 	137.2 sec 
+Set (V): 		dev 
+ 
+Mark_Sheppard/ytM-I69pwU8_0000001 102.2 106.6 
+Mark_Sheppard/ytM-I69pwU8_0000002 117.5 122.9 

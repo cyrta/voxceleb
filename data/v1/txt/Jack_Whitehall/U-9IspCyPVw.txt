@@ -1,0 +1,15 @@
+POI: 			Jack_Whitehall 
+Youtube ID: 	U-9IspCyPVw 
+Video length: 	1770.2 sec 
+Set (V): 		dev 
+ 
+Jack_Whitehall/U-9IspCyPVw_0000001 75.4 84.1 
+Jack_Whitehall/U-9IspCyPVw_0000002 92.2 99.2 
+Jack_Whitehall/U-9IspCyPVw_0000003 110.2 116.4 
+Jack_Whitehall/U-9IspCyPVw_0000004 124.7 135.2 
+Jack_Whitehall/U-9IspCyPVw_0000005 145.8 152.1 
+Jack_Whitehall/U-9IspCyPVw_0000006 153.1 165.1 
+Jack_Whitehall/U-9IspCyPVw_0000007 193.0 197.8 
+Jack_Whitehall/U-9IspCyPVw_0000008 202.1 211.2 
+Jack_Whitehall/U-9IspCyPVw_0000009 215.2 224.3 
+Jack_Whitehall/U-9IspCyPVw_0000010 954.0 960.1 

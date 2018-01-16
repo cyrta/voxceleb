@@ -1,0 +1,13 @@
+POI: 			Rob_Corddry 
+Youtube ID: 	nEMU8ivCfSM 
+Video length: 	248.7 sec 
+Set (V): 		dev 
+ 
+Rob_Corddry/nEMU8ivCfSM_0000001 46.6 52.5 
+Rob_Corddry/nEMU8ivCfSM_0000002 70.1 77.8 
+Rob_Corddry/nEMU8ivCfSM_0000003 82.5 87.3 
+Rob_Corddry/nEMU8ivCfSM_0000004 105.7 110.4 
+Rob_Corddry/nEMU8ivCfSM_0000005 127.4 134.8 
+Rob_Corddry/nEMU8ivCfSM_0000006 139.1 143.6 
+Rob_Corddry/nEMU8ivCfSM_0000007 148.6 170.7 
+Rob_Corddry/nEMU8ivCfSM_0000008 231.5 241.2 

@@ -1,0 +1,8 @@
+POI: 			Uzo_Aduba 
+Youtube ID: 	C_Yw2UQyKR0 
+Video length: 	239.1 sec 
+Set (V): 		dev 
+ 
+Uzo_Aduba/C_Yw2UQyKR0_0000001 46.3 50.6 
+Uzo_Aduba/C_Yw2UQyKR0_0000002 57.6 62.1 
+Uzo_Aduba/C_Yw2UQyKR0_0000003 172.2 176.3 

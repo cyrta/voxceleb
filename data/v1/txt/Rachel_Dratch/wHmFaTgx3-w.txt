@@ -1,0 +1,8 @@
+POI: 			Rachel_Dratch 
+Youtube ID: 	wHmFaTgx3-w 
+Video length: 	210.8 sec 
+Set (V): 		dev 
+ 
+Rachel_Dratch/wHmFaTgx3-w_0000001 35.7 45.9 
+Rachel_Dratch/wHmFaTgx3-w_0000002 150.9 157.0 
+Rachel_Dratch/wHmFaTgx3-w_0000003 162.0 166.9 

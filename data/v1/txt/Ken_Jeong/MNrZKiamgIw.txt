@@ -1,0 +1,7 @@
+POI: 			Ken_Jeong 
+Youtube ID: 	MNrZKiamgIw 
+Video length: 	249.1 sec 
+Set (V): 		dev 
+ 
+Ken_Jeong/MNrZKiamgIw_0000001 08.3 16.9 
+Ken_Jeong/MNrZKiamgIw_0000002 18.8 28.6 

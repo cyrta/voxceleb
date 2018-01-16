@@ -1,0 +1,8 @@
+POI: 			Lin_Shaye 
+Youtube ID: 	ugBD8-FlBh0 
+Video length: 	127.3 sec 
+Set (V): 		dev 
+ 
+Lin_Shaye/ugBD8-FlBh0_0000001 09.9 19.4 
+Lin_Shaye/ugBD8-FlBh0_0000002 60.2 65.0 
+Lin_Shaye/ugBD8-FlBh0_0000003 103.4 114.2 

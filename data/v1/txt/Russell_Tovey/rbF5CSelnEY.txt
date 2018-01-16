@@ -1,0 +1,12 @@
+POI: 			Russell_Tovey 
+Youtube ID: 	rbF5CSelnEY 
+Video length: 	159.4 sec 
+Set (V): 		dev 
+ 
+Russell_Tovey/rbF5CSelnEY_0000001 14.2 22.2 
+Russell_Tovey/rbF5CSelnEY_0000002 42.1 46.7 
+Russell_Tovey/rbF5CSelnEY_0000003 52.9 63.4 
+Russell_Tovey/rbF5CSelnEY_0000004 64.0 69.4 
+Russell_Tovey/rbF5CSelnEY_0000005 88.2 95.4 
+Russell_Tovey/rbF5CSelnEY_0000006 99.6 106.0 
+Russell_Tovey/rbF5CSelnEY_0000007 129.5 136.7 

@@ -1,0 +1,14 @@
+POI: 			Rebecca_Mader 
+Youtube ID: 	sJ7jPwLCPwk 
+Video length: 	208.0 sec 
+Set (V): 		dev 
+ 
+Rebecca_Mader/sJ7jPwLCPwk_0000001 11.1 21.4 
+Rebecca_Mader/sJ7jPwLCPwk_0000002 24.1 36.0 
+Rebecca_Mader/sJ7jPwLCPwk_0000003 43.2 67.9 
+Rebecca_Mader/sJ7jPwLCPwk_0000004 86.7 98.8 
+Rebecca_Mader/sJ7jPwLCPwk_0000005 101.2 117.5 
+Rebecca_Mader/sJ7jPwLCPwk_0000006 142.5 148.8 
+Rebecca_Mader/sJ7jPwLCPwk_0000007 150.1 154.4 
+Rebecca_Mader/sJ7jPwLCPwk_0000008 161.9 173.8 
+Rebecca_Mader/sJ7jPwLCPwk_0000009 174.6 183.6 

@@ -1,0 +1,14 @@
+POI: 			Kenya_Moore 
+Youtube ID: 	z-LX6kzlHVQ 
+Video length: 	254.1 sec 
+Set (V): 		dev 
+ 
+Kenya_Moore/z-LX6kzlHVQ_0000001 41.4 49.9 
+Kenya_Moore/z-LX6kzlHVQ_0000002 97.5 103.1 
+Kenya_Moore/z-LX6kzlHVQ_0000003 116.9 120.9 
+Kenya_Moore/z-LX6kzlHVQ_0000004 129.5 134.4 
+Kenya_Moore/z-LX6kzlHVQ_0000005 139.4 145.0 
+Kenya_Moore/z-LX6kzlHVQ_0000006 151.5 157.7 
+Kenya_Moore/z-LX6kzlHVQ_0000007 181.2 201.3 
+Kenya_Moore/z-LX6kzlHVQ_0000008 214.5 222.2 
+Kenya_Moore/z-LX6kzlHVQ_0000009 228.3 236.2 

@@ -1,0 +1,8 @@
+POI: 			Fred_Williamson 
+Youtube ID: 	BrGOt8rWY1A 
+Video length: 	188.7 sec 
+Set (V): 		dev 
+ 
+Fred_Williamson/BrGOt8rWY1A_0000001 152.1 158.0 
+Fred_Williamson/BrGOt8rWY1A_0000002 154.0 158.4 
+Fred_Williamson/BrGOt8rWY1A_0000003 172.8 178.5 

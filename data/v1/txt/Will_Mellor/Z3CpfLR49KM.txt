@@ -1,0 +1,9 @@
+POI: 			Will_Mellor 
+Youtube ID: 	Z3CpfLR49KM 
+Video length: 	501.7 sec 
+Set (V): 		dev 
+ 
+Will_Mellor/Z3CpfLR49KM_0000001 235.9 241.2 
+Will_Mellor/Z3CpfLR49KM_0000002 274.6 290.2 
+Will_Mellor/Z3CpfLR49KM_0000003 298.6 306.4 
+Will_Mellor/Z3CpfLR49KM_0000004 307.0 313.2 

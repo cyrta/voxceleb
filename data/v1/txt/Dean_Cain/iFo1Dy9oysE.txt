@@ -1,0 +1,10 @@
+POI: 			Dean_Cain 
+Youtube ID: 	iFo1Dy9oysE 
+Video length: 	299.0 sec 
+Set (V): 		dev 
+ 
+Dean_Cain/iFo1Dy9oysE_0000001 56.2 60.5 
+Dean_Cain/iFo1Dy9oysE_0000002 70.6 81.8 
+Dean_Cain/iFo1Dy9oysE_0000003 110.9 114.9 
+Dean_Cain/iFo1Dy9oysE_0000004 181.6 197.1 
+Dean_Cain/iFo1Dy9oysE_0000005 257.2 262.2 

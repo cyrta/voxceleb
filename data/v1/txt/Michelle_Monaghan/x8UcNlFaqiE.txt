@@ -1,0 +1,10 @@
+POI: 			Michelle_Monaghan 
+Youtube ID: 	x8UcNlFaqiE 
+Video length: 	229.9 sec 
+Set (V): 		dev 
+ 
+Michelle_Monaghan/x8UcNlFaqiE_0000001 57.8 65.4 
+Michelle_Monaghan/x8UcNlFaqiE_0000002 77.6 82.9 
+Michelle_Monaghan/x8UcNlFaqiE_0000003 134.6 139.0 
+Michelle_Monaghan/x8UcNlFaqiE_0000004 145.9 150.4 
+Michelle_Monaghan/x8UcNlFaqiE_0000005 200.7 207.6 

@@ -1,0 +1,11 @@
+POI: 			Audrina_Patridge 
+Youtube ID: 	Jx-DV-F13DQ 
+Video length: 	305.7 sec 
+Set (V): 		dev 
+ 
+Audrina_Patridge/Jx-DV-F13DQ_0000001 36.6 40.9 
+Audrina_Patridge/Jx-DV-F13DQ_0000002 41.4 46.8 
+Audrina_Patridge/Jx-DV-F13DQ_0000003 98.5 103.4 
+Audrina_Patridge/Jx-DV-F13DQ_0000004 149.8 154.0 
+Audrina_Patridge/Jx-DV-F13DQ_0000005 154.9 165.1 
+Audrina_Patridge/Jx-DV-F13DQ_0000006 213.2 218.0 

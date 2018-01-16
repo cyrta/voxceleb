@@ -1,0 +1,14 @@
+POI: 			Zach_Galifianakis 
+Youtube ID: 	DISuxOzx2Ac 
+Video length: 	271.6 sec 
+Set (V): 		dev 
+ 
+Zach_Galifianakis/DISuxOzx2Ac_0000001 54.1 65.2 
+Zach_Galifianakis/DISuxOzx2Ac_0000002 72.3 80.1 
+Zach_Galifianakis/DISuxOzx2Ac_0000003 82.7 87.5 
+Zach_Galifianakis/DISuxOzx2Ac_0000004 96.9 105.5 
+Zach_Galifianakis/DISuxOzx2Ac_0000005 148.4 153.1 
+Zach_Galifianakis/DISuxOzx2Ac_0000006 186.4 190.9 
+Zach_Galifianakis/DISuxOzx2Ac_0000007 197.9 203.4 
+Zach_Galifianakis/DISuxOzx2Ac_0000008 227.6 233.3 
+Zach_Galifianakis/DISuxOzx2Ac_0000009 238.8 251.6 

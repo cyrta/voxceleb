@@ -1,0 +1,8 @@
+POI: 			Ryan_Phillippe 
+Youtube ID: 	MKFqfUNnwoI 
+Video length: 	432.5 sec 
+Set (V): 		dev 
+ 
+Ryan_Phillippe/MKFqfUNnwoI_0000001 70.7 79.8 
+Ryan_Phillippe/MKFqfUNnwoI_0000002 156.9 163.6 
+Ryan_Phillippe/MKFqfUNnwoI_0000003 330.8 335.9 

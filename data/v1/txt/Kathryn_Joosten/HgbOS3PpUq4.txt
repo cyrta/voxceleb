@@ -1,0 +1,17 @@
+POI: 			Kathryn_Joosten 
+Youtube ID: 	HgbOS3PpUq4 
+Video length: 	205.9 sec 
+Set (V): 		dev 
+ 
+Kathryn_Joosten/HgbOS3PpUq4_0000001 06.3 15.8 
+Kathryn_Joosten/HgbOS3PpUq4_0000002 20.8 25.4 
+Kathryn_Joosten/HgbOS3PpUq4_0000003 27.8 31.9 
+Kathryn_Joosten/HgbOS3PpUq4_0000004 33.0 44.3 
+Kathryn_Joosten/HgbOS3PpUq4_0000005 49.1 55.3 
+Kathryn_Joosten/HgbOS3PpUq4_0000006 60.8 76.3 
+Kathryn_Joosten/HgbOS3PpUq4_0000007 81.3 85.7 
+Kathryn_Joosten/HgbOS3PpUq4_0000008 101.7 114.4 
+Kathryn_Joosten/HgbOS3PpUq4_0000009 116.5 122.6 
+Kathryn_Joosten/HgbOS3PpUq4_0000010 123.0 127.5 
+Kathryn_Joosten/HgbOS3PpUq4_0000011 135.1 154.0 
+Kathryn_Joosten/HgbOS3PpUq4_0000012 161.1 192.8 

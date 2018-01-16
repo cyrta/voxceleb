@@ -1,0 +1,16 @@
+POI: 			Jillian_Michaels 
+Youtube ID: 	5JTgeBLrkUc 
+Video length: 	407.6 sec 
+Set (V): 		dev 
+ 
+Jillian_Michaels/5JTgeBLrkUc_0000001 53.6 76.9 
+Jillian_Michaels/5JTgeBLrkUc_0000002 100.4 105.0 
+Jillian_Michaels/5JTgeBLrkUc_0000003 112.0 117.6 
+Jillian_Michaels/5JTgeBLrkUc_0000004 118.2 126.6 
+Jillian_Michaels/5JTgeBLrkUc_0000005 126.9 141.5 
+Jillian_Michaels/5JTgeBLrkUc_0000006 144.7 149.0 
+Jillian_Michaels/5JTgeBLrkUc_0000007 166.1 180.3 
+Jillian_Michaels/5JTgeBLrkUc_0000008 200.3 204.7 
+Jillian_Michaels/5JTgeBLrkUc_0000009 284.7 294.7 
+Jillian_Michaels/5JTgeBLrkUc_0000010 294.9 309.2 
+Jillian_Michaels/5JTgeBLrkUc_0000011 340.6 346.0 

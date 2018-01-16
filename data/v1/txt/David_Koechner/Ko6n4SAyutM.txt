@@ -1,0 +1,18 @@
+POI: 			David_Koechner 
+Youtube ID: 	Ko6n4SAyutM 
+Video length: 	223.2 sec 
+Set (V): 		dev 
+ 
+David_Koechner/Ko6n4SAyutM_0000001 14.8 21.0 
+David_Koechner/Ko6n4SAyutM_0000002 21.4 26.7 
+David_Koechner/Ko6n4SAyutM_0000003 28.5 35.7 
+David_Koechner/Ko6n4SAyutM_0000004 50.0 55.8 
+David_Koechner/Ko6n4SAyutM_0000005 56.5 61.4 
+David_Koechner/Ko6n4SAyutM_0000006 62.3 68.8 
+David_Koechner/Ko6n4SAyutM_0000007 76.0 82.6 
+David_Koechner/Ko6n4SAyutM_0000008 110.9 116.3 
+David_Koechner/Ko6n4SAyutM_0000009 118.3 125.4 
+David_Koechner/Ko6n4SAyutM_0000010 152.4 158.3 
+David_Koechner/Ko6n4SAyutM_0000011 161.0 167.5 
+David_Koechner/Ko6n4SAyutM_0000012 187.8 203.2 
+David_Koechner/Ko6n4SAyutM_0000013 210.5 218.9 

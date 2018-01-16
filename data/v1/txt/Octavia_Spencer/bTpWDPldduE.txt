@@ -1,0 +1,12 @@
+POI: 			Octavia_Spencer 
+Youtube ID: 	bTpWDPldduE 
+Video length: 	513.8 sec 
+Set (V): 		dev 
+ 
+Octavia_Spencer/bTpWDPldduE_0000001 91.5 95.5 
+Octavia_Spencer/bTpWDPldduE_0000002 144.3 149.7 
+Octavia_Spencer/bTpWDPldduE_0000003 159.6 169.4 
+Octavia_Spencer/bTpWDPldduE_0000004 230.0 247.0 
+Octavia_Spencer/bTpWDPldduE_0000005 303.2 309.6 
+Octavia_Spencer/bTpWDPldduE_0000006 429.6 444.0 
+Octavia_Spencer/bTpWDPldduE_0000007 444.5 457.0 

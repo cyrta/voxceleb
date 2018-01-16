@@ -1,0 +1,17 @@
+POI: 			Goran_Visnjic 
+Youtube ID: 	HS5QiWHdHmA 
+Video length: 	495.3 sec 
+Set (V): 		dev 
+ 
+Goran_Visnjic/HS5QiWHdHmA_0000001 41.0 45.6 
+Goran_Visnjic/HS5QiWHdHmA_0000002 89.9 94.5 
+Goran_Visnjic/HS5QiWHdHmA_0000003 106.5 111.3 
+Goran_Visnjic/HS5QiWHdHmA_0000004 116.2 123.5 
+Goran_Visnjic/HS5QiWHdHmA_0000005 162.0 167.1 
+Goran_Visnjic/HS5QiWHdHmA_0000006 262.2 269.9 
+Goran_Visnjic/HS5QiWHdHmA_0000007 299.9 306.2 
+Goran_Visnjic/HS5QiWHdHmA_0000008 341.2 346.0 
+Goran_Visnjic/HS5QiWHdHmA_0000009 361.8 367.9 
+Goran_Visnjic/HS5QiWHdHmA_0000010 378.6 383.2 
+Goran_Visnjic/HS5QiWHdHmA_0000011 398.7 402.8 
+Goran_Visnjic/HS5QiWHdHmA_0000012 421.5 428.9 

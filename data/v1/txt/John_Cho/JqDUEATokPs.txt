@@ -1,0 +1,7 @@
+POI: 			John_Cho 
+Youtube ID: 	JqDUEATokPs 
+Video length: 	218.0 sec 
+Set (V): 		dev 
+ 
+John_Cho/JqDUEATokPs_0000001 100.4 105.9 
+John_Cho/JqDUEATokPs_0000002 106.2 113.1 

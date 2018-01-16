@@ -1,0 +1,17 @@
+POI: 			Darren_Criss 
+Youtube ID: 	sdfbFoI5DBA 
+Video length: 	488.6 sec 
+Set (V): 		dev 
+ 
+Darren_Criss/sdfbFoI5DBA_0000001 43.4 52.3 
+Darren_Criss/sdfbFoI5DBA_0000002 102.7 114.7 
+Darren_Criss/sdfbFoI5DBA_0000003 142.1 162.4 
+Darren_Criss/sdfbFoI5DBA_0000004 164.5 172.4 
+Darren_Criss/sdfbFoI5DBA_0000005 243.4 251.5 
+Darren_Criss/sdfbFoI5DBA_0000006 252.9 257.5 
+Darren_Criss/sdfbFoI5DBA_0000007 271.2 277.5 
+Darren_Criss/sdfbFoI5DBA_0000008 338.1 353.2 
+Darren_Criss/sdfbFoI5DBA_0000009 366.7 371.8 
+Darren_Criss/sdfbFoI5DBA_0000010 376.5 384.4 
+Darren_Criss/sdfbFoI5DBA_0000011 397.6 402.2 
+Darren_Criss/sdfbFoI5DBA_0000012 402.3 411.4 

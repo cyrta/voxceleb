@@ -1,0 +1,8 @@
+POI: 			Steven_Yeun 
+Youtube ID: 	Dc1lchgI5WY 
+Video length: 	160.3 sec 
+Set (V): 		dev 
+ 
+Steven_Yeun/Dc1lchgI5WY_0000001 29.8 47.7 
+Steven_Yeun/Dc1lchgI5WY_0000002 100.5 105.1 
+Steven_Yeun/Dc1lchgI5WY_0000003 128.8 140.4 

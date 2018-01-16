@@ -1,0 +1,20 @@
+POI: 			Jared_Leto 
+Youtube ID: 	qEuTj523uCo 
+Video length: 	521.1 sec 
+Set (V): 		dev 
+ 
+Jared_Leto/qEuTj523uCo_0000001 110.8 117.2 
+Jared_Leto/qEuTj523uCo_0000002 169.0 175.6 
+Jared_Leto/qEuTj523uCo_0000003 182.0 188.4 
+Jared_Leto/qEuTj523uCo_0000004 200.4 210.0 
+Jared_Leto/qEuTj523uCo_0000005 237.1 244.4 
+Jared_Leto/qEuTj523uCo_0000006 249.0 254.1 
+Jared_Leto/qEuTj523uCo_0000007 289.8 294.4 
+Jared_Leto/qEuTj523uCo_0000008 297.8 303.1 
+Jared_Leto/qEuTj523uCo_0000009 307.7 315.1 
+Jared_Leto/qEuTj523uCo_0000010 322.0 329.3 
+Jared_Leto/qEuTj523uCo_0000011 351.9 359.0 
+Jared_Leto/qEuTj523uCo_0000012 367.4 371.4 
+Jared_Leto/qEuTj523uCo_0000013 396.9 408.5 
+Jared_Leto/qEuTj523uCo_0000014 412.0 420.0 
+Jared_Leto/qEuTj523uCo_0000015 511.0 516.6 

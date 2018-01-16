@@ -1,0 +1,8 @@
+POI: 			Robert_Carlyle 
+Youtube ID: 	q1AI24Y2joo 
+Video length: 	209.1 sec 
+Set (V): 		dev 
+ 
+Robert_Carlyle/q1AI24Y2joo_0000001 36.5 45.4 
+Robert_Carlyle/q1AI24Y2joo_0000002 136.0 145.1 
+Robert_Carlyle/q1AI24Y2joo_0000003 178.4 183.8 

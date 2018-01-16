@@ -1,0 +1,8 @@
+POI: 			Stanley_Tucci 
+Youtube ID: 	2w4D4iv7WDY 
+Video length: 	75.2 sec 
+Set (V): 		dev 
+ 
+Stanley_Tucci/2w4D4iv7WDY_0000001 06.7 11.8 
+Stanley_Tucci/2w4D4iv7WDY_0000002 14.8 20.7 
+Stanley_Tucci/2w4D4iv7WDY_0000003 33.9 38.6 

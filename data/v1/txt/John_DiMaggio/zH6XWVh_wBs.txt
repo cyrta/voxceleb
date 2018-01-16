@@ -1,0 +1,17 @@
+POI: 			John_DiMaggio 
+Youtube ID: 	zH6XWVh_wBs 
+Video length: 	455.8 sec 
+Set (V): 		dev 
+ 
+John_DiMaggio/zH6XWVh_wBs_0000001 68.9 74.3 
+John_DiMaggio/zH6XWVh_wBs_0000002 84.4 91.8 
+John_DiMaggio/zH6XWVh_wBs_0000003 176.8 183.8 
+John_DiMaggio/zH6XWVh_wBs_0000004 202.7 207.8 
+John_DiMaggio/zH6XWVh_wBs_0000005 213.4 218.0 
+John_DiMaggio/zH6XWVh_wBs_0000006 265.6 270.7 
+John_DiMaggio/zH6XWVh_wBs_0000007 315.5 320.1 
+John_DiMaggio/zH6XWVh_wBs_0000008 340.0 353.2 
+John_DiMaggio/zH6XWVh_wBs_0000009 370.7 376.4 
+John_DiMaggio/zH6XWVh_wBs_0000010 378.6 383.5 
+John_DiMaggio/zH6XWVh_wBs_0000011 405.8 411.9 
+John_DiMaggio/zH6XWVh_wBs_0000012 414.0 422.0 

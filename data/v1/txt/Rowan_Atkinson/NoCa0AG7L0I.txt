@@ -1,0 +1,7 @@
+POI: 			Rowan_Atkinson 
+Youtube ID: 	NoCa0AG7L0I 
+Video length: 	232.3 sec 
+Set (V): 		dev 
+ 
+Rowan_Atkinson/NoCa0AG7L0I_0000001 13.4 17.6 
+Rowan_Atkinson/NoCa0AG7L0I_0000002 66.8 70.8 

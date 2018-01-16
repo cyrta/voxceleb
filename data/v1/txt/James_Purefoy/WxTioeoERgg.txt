@@ -1,0 +1,11 @@
+POI: 			James_Purefoy 
+Youtube ID: 	WxTioeoERgg 
+Video length: 	408.5 sec 
+Set (V): 		dev 
+ 
+James_Purefoy/WxTioeoERgg_0000001 140.1 146.7 
+James_Purefoy/WxTioeoERgg_0000002 153.2 157.3 
+James_Purefoy/WxTioeoERgg_0000003 179.7 184.6 
+James_Purefoy/WxTioeoERgg_0000004 241.8 246.3 
+James_Purefoy/WxTioeoERgg_0000005 322.8 326.8 
+James_Purefoy/WxTioeoERgg_0000006 383.0 388.1 

@@ -1,0 +1,9 @@
+POI: 			Jesse_McCartney 
+Youtube ID: 	ybNJku49p3c 
+Video length: 	308.3 sec 
+Set (V): 		dev 
+ 
+Jesse_McCartney/ybNJku49p3c_0000001 92.7 103.9 
+Jesse_McCartney/ybNJku49p3c_0000002 128.6 133.0 
+Jesse_McCartney/ybNJku49p3c_0000003 137.3 142.9 
+Jesse_McCartney/ybNJku49p3c_0000004 257.8 262.7 

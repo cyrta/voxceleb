@@ -1,0 +1,9 @@
+POI: 			Keegan_Allen 
+Youtube ID: 	Exk1RLqQd6g 
+Video length: 	605.6 sec 
+Set (V): 		dev 
+ 
+Keegan_Allen/Exk1RLqQd6g_0000001 281.1 287.0 
+Keegan_Allen/Exk1RLqQd6g_0000002 303.4 307.6 
+Keegan_Allen/Exk1RLqQd6g_0000003 362.4 367.6 
+Keegan_Allen/Exk1RLqQd6g_0000004 400.6 405.8 

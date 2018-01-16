@@ -1,0 +1,7 @@
+POI: 			Smokey_Robinson 
+Youtube ID: 	g53UeZjIYT8 
+Video length: 	29.8 sec 
+Set (V): 		dev 
+ 
+Smokey_Robinson/g53UeZjIYT8_0000001 03.2 22.9 
+Smokey_Robinson/g53UeZjIYT8_0000002 24.0 28.3 

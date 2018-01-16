@@ -1,0 +1,15 @@
+POI: 			Patrick_Wilson 
+Youtube ID: 	AJBEA5-4AyU 
+Video length: 	163.0 sec 
+Set (V): 		dev 
+ 
+Patrick_Wilson/AJBEA5-4AyU_0000001 16.9 37.5 
+Patrick_Wilson/AJBEA5-4AyU_0000002 48.8 53.2 
+Patrick_Wilson/AJBEA5-4AyU_0000003 58.4 79.6 
+Patrick_Wilson/AJBEA5-4AyU_0000004 98.3 105.1 
+Patrick_Wilson/AJBEA5-4AyU_0000005 105.2 109.5 
+Patrick_Wilson/AJBEA5-4AyU_0000006 110.2 122.5 
+Patrick_Wilson/AJBEA5-4AyU_0000007 124.4 129.9 
+Patrick_Wilson/AJBEA5-4AyU_0000008 132.0 138.6 
+Patrick_Wilson/AJBEA5-4AyU_0000009 142.6 151.9 
+Patrick_Wilson/AJBEA5-4AyU_0000010 152.6 158.4 

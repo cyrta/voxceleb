@@ -1,0 +1,12 @@
+POI: 			Peter_Berg 
+Youtube ID: 	Qu0HiiKvGQ0 
+Video length: 	381.4 sec 
+Set (V): 		dev 
+ 
+Peter_Berg/Qu0HiiKvGQ0_0000001 27.5 50.6 
+Peter_Berg/Qu0HiiKvGQ0_0000002 87.5 98.8 
+Peter_Berg/Qu0HiiKvGQ0_0000003 170.1 174.9 
+Peter_Berg/Qu0HiiKvGQ0_0000004 207.8 214.2 
+Peter_Berg/Qu0HiiKvGQ0_0000005 263.4 270.0 
+Peter_Berg/Qu0HiiKvGQ0_0000006 354.0 359.2 
+Peter_Berg/Qu0HiiKvGQ0_0000007 359.7 364.8 

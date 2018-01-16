@@ -1,0 +1,9 @@
+POI: 			David_Koechner 
+Youtube ID: 	9Q-U4nnZmjo 
+Video length: 	242.6 sec 
+Set (V): 		dev 
+ 
+David_Koechner/9Q-U4nnZmjo_0000001 67.8 76.0 
+David_Koechner/9Q-U4nnZmjo_0000002 173.3 197.2 
+David_Koechner/9Q-U4nnZmjo_0000003 199.0 203.9 
+David_Koechner/9Q-U4nnZmjo_0000004 212.1 220.6 

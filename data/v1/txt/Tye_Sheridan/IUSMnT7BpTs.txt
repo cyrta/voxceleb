@@ -1,0 +1,7 @@
+POI: 			Tye_Sheridan 
+Youtube ID: 	IUSMnT7BpTs 
+Video length: 	114.7 sec 
+Set (V): 		dev 
+ 
+Tye_Sheridan/IUSMnT7BpTs_0000001 54.7 58.8 
+Tye_Sheridan/IUSMnT7BpTs_0000002 89.6 95.7 

@@ -1,0 +1,10 @@
+POI: 			Lizzy_Caplan 
+Youtube ID: 	fa6piXJo-3s 
+Video length: 	580.2 sec 
+Set (V): 		dev 
+ 
+Lizzy_Caplan/fa6piXJo-3s_0000001 78.8 92.8 
+Lizzy_Caplan/fa6piXJo-3s_0000002 280.8 289.2 
+Lizzy_Caplan/fa6piXJo-3s_0000003 439.6 445.8 
+Lizzy_Caplan/fa6piXJo-3s_0000004 553.9 562.1 
+Lizzy_Caplan/fa6piXJo-3s_0000005 564.0 568.4 

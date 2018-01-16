@@ -1,0 +1,7 @@
+POI: 			Alan_Alda 
+Youtube ID: 	nW-4wrt332E 
+Video length: 	297.9 sec 
+Set (V): 		dev 
+ 
+Alan_Alda/nW-4wrt332E_0000001 67.8 72.1 
+Alan_Alda/nW-4wrt332E_0000002 233.8 237.7 

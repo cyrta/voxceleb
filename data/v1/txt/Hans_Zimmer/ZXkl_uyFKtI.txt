@@ -1,0 +1,10 @@
+POI: 			Hans_Zimmer 
+Youtube ID: 	ZXkl_uyFKtI 
+Video length: 	106.0 sec 
+Set (V): 		dev 
+ 
+Hans_Zimmer/ZXkl_uyFKtI_0000001 09.6 14.3 
+Hans_Zimmer/ZXkl_uyFKtI_0000002 15.8 33.9 
+Hans_Zimmer/ZXkl_uyFKtI_0000003 39.0 46.0 
+Hans_Zimmer/ZXkl_uyFKtI_0000004 56.3 66.4 
+Hans_Zimmer/ZXkl_uyFKtI_0000005 84.3 97.8 

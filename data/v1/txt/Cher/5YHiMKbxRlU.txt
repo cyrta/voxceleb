@@ -1,0 +1,8 @@
+POI: 			Cher 
+Youtube ID: 	5YHiMKbxRlU 
+Video length: 	892.7 sec 
+Set (V): 		dev 
+ 
+Cher/5YHiMKbxRlU_0000001 137.6 143.4 
+Cher/5YHiMKbxRlU_0000002 503.8 508.3 
+Cher/5YHiMKbxRlU_0000003 641.5 647.8 

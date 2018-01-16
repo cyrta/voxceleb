@@ -1,0 +1,12 @@
+POI: 			Andrew_Garfield 
+Youtube ID: 	s7mQ1tWSNcg 
+Video length: 	358.5 sec 
+Set (V): 		dev 
+ 
+Andrew_Garfield/s7mQ1tWSNcg_0000001 30.8 35.0 
+Andrew_Garfield/s7mQ1tWSNcg_0000002 79.2 83.6 
+Andrew_Garfield/s7mQ1tWSNcg_0000003 80.4 84.4 
+Andrew_Garfield/s7mQ1tWSNcg_0000004 104.7 110.5 
+Andrew_Garfield/s7mQ1tWSNcg_0000005 119.0 133.6 
+Andrew_Garfield/s7mQ1tWSNcg_0000006 195.2 202.8 
+Andrew_Garfield/s7mQ1tWSNcg_0000007 253.3 258.4 

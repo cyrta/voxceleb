@@ -1,0 +1,9 @@
+POI: 			Lin_Shaye 
+Youtube ID: 	ipxtzd1cPAI 
+Video length: 	442.0 sec 
+Set (V): 		dev 
+ 
+Lin_Shaye/ipxtzd1cPAI_0000001 85.7 92.0 
+Lin_Shaye/ipxtzd1cPAI_0000002 98.1 105.0 
+Lin_Shaye/ipxtzd1cPAI_0000003 224.4 233.6 
+Lin_Shaye/ipxtzd1cPAI_0000004 317.8 330.9 

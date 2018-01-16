@@ -1,0 +1,13 @@
+POI: 			Ed_Westwick 
+Youtube ID: 	PfcJLmkhGbk 
+Video length: 	273.7 sec 
+Set (V): 		test 
+ 
+Ed_Westwick/PfcJLmkhGbk_0000001 38.2 43.0 
+Ed_Westwick/PfcJLmkhGbk_0000002 57.7 65.2 
+Ed_Westwick/PfcJLmkhGbk_0000003 133.2 137.5 
+Ed_Westwick/PfcJLmkhGbk_0000004 155.9 160.2 
+Ed_Westwick/PfcJLmkhGbk_0000005 165.2 170.0 
+Ed_Westwick/PfcJLmkhGbk_0000006 171.3 175.5 
+Ed_Westwick/PfcJLmkhGbk_0000007 241.4 246.8 
+Ed_Westwick/PfcJLmkhGbk_0000008 253.5 260.6 

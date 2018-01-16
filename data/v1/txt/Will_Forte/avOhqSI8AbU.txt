@@ -1,0 +1,20 @@
+POI: 			Will_Forte 
+Youtube ID: 	avOhqSI8AbU 
+Video length: 	382.7 sec 
+Set (V): 		dev 
+ 
+Will_Forte/avOhqSI8AbU_0000001 53.6 65.8 
+Will_Forte/avOhqSI8AbU_0000002 106.3 112.2 
+Will_Forte/avOhqSI8AbU_0000003 117.4 131.8 
+Will_Forte/avOhqSI8AbU_0000004 132.9 140.9 
+Will_Forte/avOhqSI8AbU_0000005 143.4 150.6 
+Will_Forte/avOhqSI8AbU_0000006 150.9 163.4 
+Will_Forte/avOhqSI8AbU_0000007 205.0 216.0 
+Will_Forte/avOhqSI8AbU_0000008 217.4 231.1 
+Will_Forte/avOhqSI8AbU_0000009 231.9 241.6 
+Will_Forte/avOhqSI8AbU_0000010 246.6 259.7 
+Will_Forte/avOhqSI8AbU_0000011 262.0 273.3 
+Will_Forte/avOhqSI8AbU_0000012 278.4 282.4 
+Will_Forte/avOhqSI8AbU_0000013 303.8 319.0 
+Will_Forte/avOhqSI8AbU_0000014 335.6 343.4 
+Will_Forte/avOhqSI8AbU_0000015 360.4 369.1 

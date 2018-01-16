@@ -1,0 +1,10 @@
+POI: 			James_Purefoy 
+Youtube ID: 	wpz1m2XmgNM 
+Video length: 	204.0 sec 
+Set (V): 		dev 
+ 
+James_Purefoy/wpz1m2XmgNM_0000001 11.6 16.2 
+James_Purefoy/wpz1m2XmgNM_0000002 19.6 27.7 
+James_Purefoy/wpz1m2XmgNM_0000003 76.0 83.4 
+James_Purefoy/wpz1m2XmgNM_0000004 99.4 105.3 
+James_Purefoy/wpz1m2XmgNM_0000005 167.4 172.8 

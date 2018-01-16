@@ -1,0 +1,11 @@
+POI: 			Kristen_Schaal 
+Youtube ID: 	NKiaKaYSPZw 
+Video length: 	188.2 sec 
+Set (V): 		dev 
+ 
+Kristen_Schaal/NKiaKaYSPZw_0000001 63.4 74.9 
+Kristen_Schaal/NKiaKaYSPZw_0000002 101.1 108.0 
+Kristen_Schaal/NKiaKaYSPZw_0000003 125.9 131.4 
+Kristen_Schaal/NKiaKaYSPZw_0000004 132.2 137.3 
+Kristen_Schaal/NKiaKaYSPZw_0000005 150.0 154.6 
+Kristen_Schaal/NKiaKaYSPZw_0000006 168.9 172.9 

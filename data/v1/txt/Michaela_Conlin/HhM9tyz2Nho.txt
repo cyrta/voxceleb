@@ -1,0 +1,13 @@
+POI: 			Michaela_Conlin 
+Youtube ID: 	HhM9tyz2Nho 
+Video length: 	1025.7 sec 
+Set (V): 		dev 
+ 
+Michaela_Conlin/HhM9tyz2Nho_0000001 215.6 222.1 
+Michaela_Conlin/HhM9tyz2Nho_0000002 303.4 310.1 
+Michaela_Conlin/HhM9tyz2Nho_0000003 523.3 529.2 
+Michaela_Conlin/HhM9tyz2Nho_0000004 571.5 576.4 
+Michaela_Conlin/HhM9tyz2Nho_0000005 606.8 617.5 
+Michaela_Conlin/HhM9tyz2Nho_0000006 837.8 842.9 
+Michaela_Conlin/HhM9tyz2Nho_0000007 855.1 860.0 
+Michaela_Conlin/HhM9tyz2Nho_0000008 870.4 876.5 

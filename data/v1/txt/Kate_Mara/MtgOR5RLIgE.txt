@@ -1,0 +1,9 @@
+POI: 			Kate_Mara 
+Youtube ID: 	MtgOR5RLIgE 
+Video length: 	406.8 sec 
+Set (V): 		dev 
+ 
+Kate_Mara/MtgOR5RLIgE_0000001 85.6 93.5 
+Kate_Mara/MtgOR5RLIgE_0000002 167.9 173.2 
+Kate_Mara/MtgOR5RLIgE_0000003 181.3 197.4 
+Kate_Mara/MtgOR5RLIgE_0000004 373.0 380.9 

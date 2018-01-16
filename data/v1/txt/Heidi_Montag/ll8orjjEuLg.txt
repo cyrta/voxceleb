@@ -1,0 +1,7 @@
+POI: 			Heidi_Montag 
+Youtube ID: 	ll8orjjEuLg 
+Video length: 	342.8 sec 
+Set (V): 		dev 
+ 
+Heidi_Montag/ll8orjjEuLg_0000001 66.8 70.8 
+Heidi_Montag/ll8orjjEuLg_0000002 124.8 129.0 

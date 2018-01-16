@@ -1,0 +1,7 @@
+POI: 			Miriam_Margolyes 
+Youtube ID: 	1Bi1fN83rEg 
+Video length: 	360.1 sec 
+Set (V): 		dev 
+ 
+Miriam_Margolyes/1Bi1fN83rEg_0000001 298.8 310.9 
+Miriam_Margolyes/1Bi1fN83rEg_0000002 315.3 320.8 

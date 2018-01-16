@@ -1,0 +1,8 @@
+POI: 			Mario_Lopez 
+Youtube ID: 	veGIQ7p2ZSk 
+Video length: 	231.9 sec 
+Set (V): 		dev 
+ 
+Mario_Lopez/veGIQ7p2ZSk_0000001 15.6 36.1 
+Mario_Lopez/veGIQ7p2ZSk_0000002 67.4 77.6 
+Mario_Lopez/veGIQ7p2ZSk_0000003 158.7 164.6 

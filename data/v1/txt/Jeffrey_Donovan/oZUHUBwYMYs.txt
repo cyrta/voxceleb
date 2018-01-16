@@ -1,0 +1,13 @@
+POI: 			Jeffrey_Donovan 
+Youtube ID: 	oZUHUBwYMYs 
+Video length: 	169.9 sec 
+Set (V): 		dev 
+ 
+Jeffrey_Donovan/oZUHUBwYMYs_0000001 22.8 34.9 
+Jeffrey_Donovan/oZUHUBwYMYs_0000002 36.1 43.3 
+Jeffrey_Donovan/oZUHUBwYMYs_0000003 55.8 67.7 
+Jeffrey_Donovan/oZUHUBwYMYs_0000004 79.0 86.6 
+Jeffrey_Donovan/oZUHUBwYMYs_0000005 93.6 102.6 
+Jeffrey_Donovan/oZUHUBwYMYs_0000006 109.6 113.8 
+Jeffrey_Donovan/oZUHUBwYMYs_0000007 118.0 124.0 
+Jeffrey_Donovan/oZUHUBwYMYs_0000008 161.2 165.7 

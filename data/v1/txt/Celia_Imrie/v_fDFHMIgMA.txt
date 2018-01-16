@@ -1,0 +1,7 @@
+POI: 			Celia_Imrie 
+Youtube ID: 	v_fDFHMIgMA 
+Video length: 	175.1 sec 
+Set (V): 		dev 
+ 
+Celia_Imrie/v_fDFHMIgMA_0000001 110.0 115.0 
+Celia_Imrie/v_fDFHMIgMA_0000002 125.8 134.9 

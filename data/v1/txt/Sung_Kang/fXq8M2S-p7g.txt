@@ -1,0 +1,19 @@
+POI: 			Sung_Kang 
+Youtube ID: 	fXq8M2S-p7g 
+Video length: 	536.7 sec 
+Set (V): 		dev 
+ 
+Sung_Kang/fXq8M2S-p7g_0000001 14.0 19.2 
+Sung_Kang/fXq8M2S-p7g_0000002 20.4 26.5 
+Sung_Kang/fXq8M2S-p7g_0000003 26.6 30.7 
+Sung_Kang/fXq8M2S-p7g_0000004 31.6 35.6 
+Sung_Kang/fXq8M2S-p7g_0000005 41.0 51.8 
+Sung_Kang/fXq8M2S-p7g_0000006 52.0 59.0 
+Sung_Kang/fXq8M2S-p7g_0000007 63.1 67.6 
+Sung_Kang/fXq8M2S-p7g_0000008 68.2 72.3 
+Sung_Kang/fXq8M2S-p7g_0000009 81.6 86.5 
+Sung_Kang/fXq8M2S-p7g_0000010 335.4 340.3 
+Sung_Kang/fXq8M2S-p7g_0000011 345.0 349.2 
+Sung_Kang/fXq8M2S-p7g_0000012 355.0 359.5 
+Sung_Kang/fXq8M2S-p7g_0000013 470.7 475.9 
+Sung_Kang/fXq8M2S-p7g_0000014 478.6 483.4 

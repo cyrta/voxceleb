@@ -1,0 +1,17 @@
+POI: 			Hannah_Simone 
+Youtube ID: 	uFf4JHXuSpE 
+Video length: 	171.9 sec 
+Set (V): 		dev 
+ 
+Hannah_Simone/uFf4JHXuSpE_0000001 14.5 22.6 
+Hannah_Simone/uFf4JHXuSpE_0000002 27.7 39.7 
+Hannah_Simone/uFf4JHXuSpE_0000003 46.1 53.0 
+Hannah_Simone/uFf4JHXuSpE_0000004 63.2 72.6 
+Hannah_Simone/uFf4JHXuSpE_0000005 72.7 78.8 
+Hannah_Simone/uFf4JHXuSpE_0000006 79.1 84.1 
+Hannah_Simone/uFf4JHXuSpE_0000007 92.0 97.7 
+Hannah_Simone/uFf4JHXuSpE_0000008 106.8 113.2 
+Hannah_Simone/uFf4JHXuSpE_0000009 119.8 129.5 
+Hannah_Simone/uFf4JHXuSpE_0000010 133.8 138.3 
+Hannah_Simone/uFf4JHXuSpE_0000011 143.1 149.3 
+Hannah_Simone/uFf4JHXuSpE_0000012 151.6 160.9 

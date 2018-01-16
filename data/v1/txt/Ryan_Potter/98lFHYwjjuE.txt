@@ -1,0 +1,9 @@
+POI: 			Ryan_Potter 
+Youtube ID: 	98lFHYwjjuE 
+Video length: 	237.5 sec 
+Set (V): 		dev 
+ 
+Ryan_Potter/98lFHYwjjuE_0000001 111.6 115.7 
+Ryan_Potter/98lFHYwjjuE_0000002 120.5 125.1 
+Ryan_Potter/98lFHYwjjuE_0000003 130.7 139.4 
+Ryan_Potter/98lFHYwjjuE_0000004 122.2 128.1 

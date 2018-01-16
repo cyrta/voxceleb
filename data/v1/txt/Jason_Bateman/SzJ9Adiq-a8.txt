@@ -1,0 +1,7 @@
+POI: 			Jason_Bateman 
+Youtube ID: 	SzJ9Adiq-a8 
+Video length: 	262.3 sec 
+Set (V): 		dev 
+ 
+Jason_Bateman/SzJ9Adiq-a8_0000001 27.4 41.0 
+Jason_Bateman/SzJ9Adiq-a8_0000002 44.0 60.0 

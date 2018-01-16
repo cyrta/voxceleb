@@ -1,0 +1,15 @@
+POI: 			Natalie_Zea 
+Youtube ID: 	x23ZBcvVu3I 
+Video length: 	290.8 sec 
+Set (V): 		dev 
+ 
+Natalie_Zea/x23ZBcvVu3I_0000001 56.8 62.6 
+Natalie_Zea/x23ZBcvVu3I_0000002 66.0 70.1 
+Natalie_Zea/x23ZBcvVu3I_0000003 94.4 102.9 
+Natalie_Zea/x23ZBcvVu3I_0000004 130.0 152.8 
+Natalie_Zea/x23ZBcvVu3I_0000005 160.8 165.5 
+Natalie_Zea/x23ZBcvVu3I_0000006 189.8 196.4 
+Natalie_Zea/x23ZBcvVu3I_0000007 235.7 241.4 
+Natalie_Zea/x23ZBcvVu3I_0000008 242.1 249.1 
+Natalie_Zea/x23ZBcvVu3I_0000009 253.7 259.4 
+Natalie_Zea/x23ZBcvVu3I_0000010 268.9 274.2 

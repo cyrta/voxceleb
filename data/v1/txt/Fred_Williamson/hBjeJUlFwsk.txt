@@ -1,0 +1,9 @@
+POI: 			Fred_Williamson 
+Youtube ID: 	hBjeJUlFwsk 
+Video length: 	491.0 sec 
+Set (V): 		dev 
+ 
+Fred_Williamson/hBjeJUlFwsk_0000001 266.9 271.3 
+Fred_Williamson/hBjeJUlFwsk_0000002 274.8 280.2 
+Fred_Williamson/hBjeJUlFwsk_0000003 282.7 287.7 
+Fred_Williamson/hBjeJUlFwsk_0000004 338.0 344.2 

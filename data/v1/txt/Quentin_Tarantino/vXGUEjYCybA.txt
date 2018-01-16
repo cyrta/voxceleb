@@ -1,0 +1,9 @@
+POI: 			Quentin_Tarantino 
+Youtube ID: 	vXGUEjYCybA 
+Video length: 	837.3 sec 
+Set (V): 		dev 
+ 
+Quentin_Tarantino/vXGUEjYCybA_0000001 47.0 52.3 
+Quentin_Tarantino/vXGUEjYCybA_0000002 341.8 347.5 
+Quentin_Tarantino/vXGUEjYCybA_0000003 394.4 398.7 
+Quentin_Tarantino/vXGUEjYCybA_0000004 437.2 442.2 

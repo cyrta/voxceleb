@@ -1,0 +1,7 @@
+POI: 			Leslie_Mann 
+Youtube ID: 	KavJCGM_peg 
+Video length: 	105.2 sec 
+Set (V): 		dev 
+ 
+Leslie_Mann/KavJCGM_peg_0000001 18.0 22.5 
+Leslie_Mann/KavJCGM_peg_0000002 27.6 31.8 

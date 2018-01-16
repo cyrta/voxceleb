@@ -1,0 +1,28 @@
+POI: 			Mark_Webber 
+Youtube ID: 	KBoZPittRt4 
+Video length: 	320.0 sec 
+Set (V): 		dev 
+ 
+Mark_Webber/KBoZPittRt4_0000001 02.9 08.1 
+Mark_Webber/KBoZPittRt4_0000002 10.4 27.6 
+Mark_Webber/KBoZPittRt4_0000003 31.6 42.2 
+Mark_Webber/KBoZPittRt4_0000004 44.6 49.2 
+Mark_Webber/KBoZPittRt4_0000005 53.2 57.8 
+Mark_Webber/KBoZPittRt4_0000006 59.7 73.6 
+Mark_Webber/KBoZPittRt4_0000007 77.7 82.6 
+Mark_Webber/KBoZPittRt4_0000008 88.8 93.0 
+Mark_Webber/KBoZPittRt4_0000009 94.3 118.2 
+Mark_Webber/KBoZPittRt4_0000010 122.6 129.4 
+Mark_Webber/KBoZPittRt4_0000011 130.4 135.3 
+Mark_Webber/KBoZPittRt4_0000012 140.8 149.8 
+Mark_Webber/KBoZPittRt4_0000013 152.5 162.7 
+Mark_Webber/KBoZPittRt4_0000014 163.4 169.8 
+Mark_Webber/KBoZPittRt4_0000015 179.4 188.8 
+Mark_Webber/KBoZPittRt4_0000016 190.7 201.1 
+Mark_Webber/KBoZPittRt4_0000017 207.3 231.3 
+Mark_Webber/KBoZPittRt4_0000018 239.2 244.4 
+Mark_Webber/KBoZPittRt4_0000019 245.0 252.8 
+Mark_Webber/KBoZPittRt4_0000020 255.3 262.2 
+Mark_Webber/KBoZPittRt4_0000021 267.0 273.7 
+Mark_Webber/KBoZPittRt4_0000022 274.6 280.8 
+Mark_Webber/KBoZPittRt4_0000023 296.6 318.3 

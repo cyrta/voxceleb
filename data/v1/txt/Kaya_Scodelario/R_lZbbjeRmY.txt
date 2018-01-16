@@ -1,0 +1,9 @@
+POI: 			Kaya_Scodelario 
+Youtube ID: 	R_lZbbjeRmY 
+Video length: 	230.9 sec 
+Set (V): 		dev 
+ 
+Kaya_Scodelario/R_lZbbjeRmY_0000001 78.4 82.6 
+Kaya_Scodelario/R_lZbbjeRmY_0000002 138.7 143.0 
+Kaya_Scodelario/R_lZbbjeRmY_0000003 146.9 162.9 
+Kaya_Scodelario/R_lZbbjeRmY_0000004 187.4 192.4 

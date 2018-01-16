@@ -1,0 +1,11 @@
+POI: 			Charlie_Day 
+Youtube ID: 	8an--OL80DE 
+Video length: 	259.1 sec 
+Set (V): 		dev 
+ 
+Charlie_Day/8an--OL80DE_0000001 20.0 25.2 
+Charlie_Day/8an--OL80DE_0000002 120.6 133.0 
+Charlie_Day/8an--OL80DE_0000003 162.9 180.1 
+Charlie_Day/8an--OL80DE_0000004 211.1 217.0 
+Charlie_Day/8an--OL80DE_0000005 234.8 240.2 
+Charlie_Day/8an--OL80DE_0000006 241.7 250.2 

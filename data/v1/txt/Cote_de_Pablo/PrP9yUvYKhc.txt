@@ -1,0 +1,11 @@
+POI: 			Cote_de_Pablo 
+Youtube ID: 	PrP9yUvYKhc 
+Video length: 	212.5 sec 
+Set (V): 		dev 
+ 
+Cote_de_Pablo/PrP9yUvYKhc_0000001 00.7 05.6 
+Cote_de_Pablo/PrP9yUvYKhc_0000002 65.7 80.7 
+Cote_de_Pablo/PrP9yUvYKhc_0000003 85.6 89.5 
+Cote_de_Pablo/PrP9yUvYKhc_0000004 90.4 111.6 
+Cote_de_Pablo/PrP9yUvYKhc_0000005 168.0 177.5 
+Cote_de_Pablo/PrP9yUvYKhc_0000006 190.3 197.4 

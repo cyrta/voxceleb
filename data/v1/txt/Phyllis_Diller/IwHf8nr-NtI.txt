@@ -1,0 +1,11 @@
+POI: 			Phyllis_Diller 
+Youtube ID: 	IwHf8nr-NtI 
+Video length: 	525.5 sec 
+Set (V): 		dev 
+ 
+Phyllis_Diller/IwHf8nr-NtI_0000001 293.4 297.4 
+Phyllis_Diller/IwHf8nr-NtI_0000002 299.6 304.3 
+Phyllis_Diller/IwHf8nr-NtI_0000003 370.5 375.8 
+Phyllis_Diller/IwHf8nr-NtI_0000004 381.6 386.8 
+Phyllis_Diller/IwHf8nr-NtI_0000005 450.9 454.8 
+Phyllis_Diller/IwHf8nr-NtI_0000006 484.7 489.1 

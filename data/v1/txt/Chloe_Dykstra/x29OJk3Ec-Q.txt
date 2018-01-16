@@ -1,0 +1,11 @@
+POI: 			Chloe_Dykstra 
+Youtube ID: 	x29OJk3Ec-Q 
+Video length: 	314.6 sec 
+Set (V): 		dev 
+ 
+Chloe_Dykstra/x29OJk3Ec-Q_0000001 07.3 12.6 
+Chloe_Dykstra/x29OJk3Ec-Q_0000002 70.3 79.5 
+Chloe_Dykstra/x29OJk3Ec-Q_0000003 129.3 135.6 
+Chloe_Dykstra/x29OJk3Ec-Q_0000004 141.0 145.6 
+Chloe_Dykstra/x29OJk3Ec-Q_0000005 211.4 219.4 
+Chloe_Dykstra/x29OJk3Ec-Q_0000006 232.7 241.2 

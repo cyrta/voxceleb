@@ -1,0 +1,11 @@
+POI: 			Jordana_Brewster 
+Youtube ID: 	oFMUGSqqoW4 
+Video length: 	156.3 sec 
+Set (V): 		dev 
+ 
+Jordana_Brewster/oFMUGSqqoW4_0000001 13.0 20.4 
+Jordana_Brewster/oFMUGSqqoW4_0000002 20.6 26.4 
+Jordana_Brewster/oFMUGSqqoW4_0000003 35.9 40.2 
+Jordana_Brewster/oFMUGSqqoW4_0000004 43.3 47.3 
+Jordana_Brewster/oFMUGSqqoW4_0000005 60.8 64.9 
+Jordana_Brewster/oFMUGSqqoW4_0000006 106.2 113.7 

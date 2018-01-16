@@ -1,0 +1,7 @@
+POI: 			Derek_Mears 
+Youtube ID: 	pduELNv8lIw 
+Video length: 	82.5 sec 
+Set (V): 		dev 
+ 
+Derek_Mears/pduELNv8lIw_0000001 11.3 22.0 
+Derek_Mears/pduELNv8lIw_0000002 24.2 28.8 

@@ -1,0 +1,15 @@
+POI: 			Kelly_Monaco 
+Youtube ID: 	B3j9eLvH_BU 
+Video length: 	331.3 sec 
+Set (V): 		dev 
+ 
+Kelly_Monaco/B3j9eLvH_BU_0000001 91.3 99.2 
+Kelly_Monaco/B3j9eLvH_BU_0000002 111.1 139.4 
+Kelly_Monaco/B3j9eLvH_BU_0000003 172.5 180.9 
+Kelly_Monaco/B3j9eLvH_BU_0000004 197.9 204.2 
+Kelly_Monaco/B3j9eLvH_BU_0000005 223.5 255.0 
+Kelly_Monaco/B3j9eLvH_BU_0000006 262.4 267.2 
+Kelly_Monaco/B3j9eLvH_BU_0000007 277.8 292.2 
+Kelly_Monaco/B3j9eLvH_BU_0000008 293.2 298.8 
+Kelly_Monaco/B3j9eLvH_BU_0000009 299.8 311.3 
+Kelly_Monaco/B3j9eLvH_BU_0000010 307.6 319.2 

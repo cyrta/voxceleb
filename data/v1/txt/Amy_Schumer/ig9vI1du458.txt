@@ -1,0 +1,10 @@
+POI: 			Amy_Schumer 
+Youtube ID: 	ig9vI1du458 
+Video length: 	535.0 sec 
+Set (V): 		dev 
+ 
+Amy_Schumer/ig9vI1du458_0000001 106.7 111.5 
+Amy_Schumer/ig9vI1du458_0000002 225.1 231.1 
+Amy_Schumer/ig9vI1du458_0000003 284.6 291.0 
+Amy_Schumer/ig9vI1du458_0000004 436.5 441.7 
+Amy_Schumer/ig9vI1du458_0000005 454.6 459.1 

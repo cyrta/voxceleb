@@ -1,0 +1,12 @@
+POI: 			Katharine_McPhee 
+Youtube ID: 	1ZHfeEHP8is 
+Video length: 	388.3 sec 
+Set (V): 		dev 
+ 
+Katharine_McPhee/1ZHfeEHP8is_0000001 127.3 138.5 
+Katharine_McPhee/1ZHfeEHP8is_0000002 138.8 143.8 
+Katharine_McPhee/1ZHfeEHP8is_0000003 148.3 169.8 
+Katharine_McPhee/1ZHfeEHP8is_0000004 192.3 201.8 
+Katharine_McPhee/1ZHfeEHP8is_0000005 283.3 309.4 
+Katharine_McPhee/1ZHfeEHP8is_0000006 321.6 328.0 
+Katharine_McPhee/1ZHfeEHP8is_0000007 335.8 343.4 

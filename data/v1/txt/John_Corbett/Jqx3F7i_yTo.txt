@@ -1,0 +1,36 @@
+POI: 			John_Corbett 
+Youtube ID: 	Jqx3F7i_yTo 
+Video length: 	1623.6 sec 
+Set (V): 		dev 
+ 
+John_Corbett/Jqx3F7i_yTo_0000001 120.6 127.6 
+John_Corbett/Jqx3F7i_yTo_0000002 127.9 138.0 
+John_Corbett/Jqx3F7i_yTo_0000003 139.4 146.4 
+John_Corbett/Jqx3F7i_yTo_0000004 147.5 158.0 
+John_Corbett/Jqx3F7i_yTo_0000005 159.7 164.7 
+John_Corbett/Jqx3F7i_yTo_0000006 155.0 160.6 
+John_Corbett/Jqx3F7i_yTo_0000007 187.6 195.4 
+John_Corbett/Jqx3F7i_yTo_0000008 204.4 208.7 
+John_Corbett/Jqx3F7i_yTo_0000009 216.3 220.8 
+John_Corbett/Jqx3F7i_yTo_0000010 228.9 235.0 
+John_Corbett/Jqx3F7i_yTo_0000011 236.5 246.8 
+John_Corbett/Jqx3F7i_yTo_0000012 327.3 337.1 
+John_Corbett/Jqx3F7i_yTo_0000013 342.9 348.7 
+John_Corbett/Jqx3F7i_yTo_0000014 372.2 377.5 
+John_Corbett/Jqx3F7i_yTo_0000015 378.3 383.3 
+John_Corbett/Jqx3F7i_yTo_0000016 384.7 396.5 
+John_Corbett/Jqx3F7i_yTo_0000017 404.6 423.4 
+John_Corbett/Jqx3F7i_yTo_0000018 428.6 436.1 
+John_Corbett/Jqx3F7i_yTo_0000019 631.0 647.8 
+John_Corbett/Jqx3F7i_yTo_0000020 648.4 653.2 
+John_Corbett/Jqx3F7i_yTo_0000021 747.0 751.6 
+John_Corbett/Jqx3F7i_yTo_0000022 751.7 759.6 
+John_Corbett/Jqx3F7i_yTo_0000023 760.4 768.3 
+John_Corbett/Jqx3F7i_yTo_0000024 780.0 785.0 
+John_Corbett/Jqx3F7i_yTo_0000025 789.6 795.0 
+John_Corbett/Jqx3F7i_yTo_0000026 796.9 803.7 
+John_Corbett/Jqx3F7i_yTo_0000027 907.7 913.3 
+John_Corbett/Jqx3F7i_yTo_0000028 921.8 931.2 
+John_Corbett/Jqx3F7i_yTo_0000029 974.7 981.8 
+John_Corbett/Jqx3F7i_yTo_0000030 1231.4 1238.6 
+John_Corbett/Jqx3F7i_yTo_0000031 1361.8 1368.0 

@@ -1,0 +1,14 @@
+POI: 			Kirsten_Vangsness 
+Youtube ID: 	OMPZh5Evapo 
+Video length: 	1269.1 sec 
+Set (V): 		dev 
+ 
+Kirsten_Vangsness/OMPZh5Evapo_0000001 300.4 304.6 
+Kirsten_Vangsness/OMPZh5Evapo_0000002 341.4 345.5 
+Kirsten_Vangsness/OMPZh5Evapo_0000003 396.8 404.2 
+Kirsten_Vangsness/OMPZh5Evapo_0000004 404.8 409.6 
+Kirsten_Vangsness/OMPZh5Evapo_0000005 437.8 442.0 
+Kirsten_Vangsness/OMPZh5Evapo_0000006 485.8 491.1 
+Kirsten_Vangsness/OMPZh5Evapo_0000007 522.3 526.3 
+Kirsten_Vangsness/OMPZh5Evapo_0000008 575.4 581.6 
+Kirsten_Vangsness/OMPZh5Evapo_0000009 590.9 595.1 

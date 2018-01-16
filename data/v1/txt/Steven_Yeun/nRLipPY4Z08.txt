@@ -1,0 +1,7 @@
+POI: 			Steven_Yeun 
+Youtube ID: 	nRLipPY4Z08 
+Video length: 	94.5 sec 
+Set (V): 		dev 
+ 
+Steven_Yeun/nRLipPY4Z08_0000001 27.6 46.1 
+Steven_Yeun/nRLipPY4Z08_0000002 46.7 52.9 

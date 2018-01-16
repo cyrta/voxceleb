@@ -1,0 +1,10 @@
+POI: 			Iain_Glen 
+Youtube ID: 	puxVc_XHG-I 
+Video length: 	150.5 sec 
+Set (V): 		dev 
+ 
+Iain_Glen/puxVc_XHG-I_0000001 34.4 42.4 
+Iain_Glen/puxVc_XHG-I_0000002 58.2 62.8 
+Iain_Glen/puxVc_XHG-I_0000003 65.0 71.4 
+Iain_Glen/puxVc_XHG-I_0000004 77.4 82.9 
+Iain_Glen/puxVc_XHG-I_0000005 140.1 144.8 

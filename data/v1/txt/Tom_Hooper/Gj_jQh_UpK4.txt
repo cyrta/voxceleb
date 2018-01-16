@@ -1,0 +1,8 @@
+POI: 			Tom_Hooper 
+Youtube ID: 	Gj_jQh_UpK4 
+Video length: 	185.7 sec 
+Set (V): 		dev 
+ 
+Tom_Hooper/Gj_jQh_UpK4_0000001 46.1 51.1 
+Tom_Hooper/Gj_jQh_UpK4_0000002 101.2 105.6 
+Tom_Hooper/Gj_jQh_UpK4_0000003 147.1 154.4 

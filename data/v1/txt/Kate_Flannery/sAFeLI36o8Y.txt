@@ -1,0 +1,23 @@
+POI: 			Kate_Flannery 
+Youtube ID: 	sAFeLI36o8Y 
+Video length: 	464.2 sec 
+Set (V): 		dev 
+ 
+Kate_Flannery/sAFeLI36o8Y_0000001 81.9 89.8 
+Kate_Flannery/sAFeLI36o8Y_0000002 105.9 110.1 
+Kate_Flannery/sAFeLI36o8Y_0000003 110.9 115.6 
+Kate_Flannery/sAFeLI36o8Y_0000004 139.3 150.1 
+Kate_Flannery/sAFeLI36o8Y_0000005 172.3 194.9 
+Kate_Flannery/sAFeLI36o8Y_0000006 196.8 204.4 
+Kate_Flannery/sAFeLI36o8Y_0000007 244.7 255.2 
+Kate_Flannery/sAFeLI36o8Y_0000008 266.2 279.8 
+Kate_Flannery/sAFeLI36o8Y_0000009 272.4 279.6 
+Kate_Flannery/sAFeLI36o8Y_0000010 281.8 288.0 
+Kate_Flannery/sAFeLI36o8Y_0000011 309.9 314.7 
+Kate_Flannery/sAFeLI36o8Y_0000012 315.6 320.5 
+Kate_Flannery/sAFeLI36o8Y_0000013 340.2 346.0 
+Kate_Flannery/sAFeLI36o8Y_0000014 346.2 351.8 
+Kate_Flannery/sAFeLI36o8Y_0000015 352.5 360.2 
+Kate_Flannery/sAFeLI36o8Y_0000016 362.2 375.6 
+Kate_Flannery/sAFeLI36o8Y_0000017 393.8 400.2 
+Kate_Flannery/sAFeLI36o8Y_0000018 430.7 441.9 

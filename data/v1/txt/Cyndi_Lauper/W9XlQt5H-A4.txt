@@ -1,0 +1,14 @@
+POI: 			Cyndi_Lauper 
+Youtube ID: 	W9XlQt5H-A4 
+Video length: 	450.8 sec 
+Set (V): 		dev 
+ 
+Cyndi_Lauper/W9XlQt5H-A4_0000001 113.2 123.5 
+Cyndi_Lauper/W9XlQt5H-A4_0000002 151.0 159.8 
+Cyndi_Lauper/W9XlQt5H-A4_0000003 208.8 213.1 
+Cyndi_Lauper/W9XlQt5H-A4_0000004 218.0 222.2 
+Cyndi_Lauper/W9XlQt5H-A4_0000005 330.8 342.6 
+Cyndi_Lauper/W9XlQt5H-A4_0000006 360.6 366.4 
+Cyndi_Lauper/W9XlQt5H-A4_0000007 371.6 380.8 
+Cyndi_Lauper/W9XlQt5H-A4_0000008 386.4 390.4 
+Cyndi_Lauper/W9XlQt5H-A4_0000009 409.6 417.2 

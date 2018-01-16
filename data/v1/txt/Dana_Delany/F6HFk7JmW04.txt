@@ -1,0 +1,9 @@
+POI: 			Dana_Delany 
+Youtube ID: 	F6HFk7JmW04 
+Video length: 	600.7 sec 
+Set (V): 		dev 
+ 
+Dana_Delany/F6HFk7JmW04_0000001 482.1 487.7 
+Dana_Delany/F6HFk7JmW04_0000002 528.8 534.5 
+Dana_Delany/F6HFk7JmW04_0000003 550.0 555.0 
+Dana_Delany/F6HFk7JmW04_0000004 559.6 566.2 

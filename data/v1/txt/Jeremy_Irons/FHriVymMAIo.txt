@@ -1,0 +1,17 @@
+POI: 			Jeremy_Irons 
+Youtube ID: 	FHriVymMAIo 
+Video length: 	415.5 sec 
+Set (V): 		dev 
+ 
+Jeremy_Irons/FHriVymMAIo_0000001 55.9 61.6 
+Jeremy_Irons/FHriVymMAIo_0000002 61.9 66.1 
+Jeremy_Irons/FHriVymMAIo_0000003 101.3 105.8 
+Jeremy_Irons/FHriVymMAIo_0000004 106.5 110.6 
+Jeremy_Irons/FHriVymMAIo_0000005 139.3 144.1 
+Jeremy_Irons/FHriVymMAIo_0000006 169.3 174.2 
+Jeremy_Irons/FHriVymMAIo_0000007 216.9 221.6 
+Jeremy_Irons/FHriVymMAIo_0000008 226.5 237.8 
+Jeremy_Irons/FHriVymMAIo_0000009 256.5 260.6 
+Jeremy_Irons/FHriVymMAIo_0000010 319.9 327.9 
+Jeremy_Irons/FHriVymMAIo_0000011 343.8 349.0 
+Jeremy_Irons/FHriVymMAIo_0000012 388.5 392.6 

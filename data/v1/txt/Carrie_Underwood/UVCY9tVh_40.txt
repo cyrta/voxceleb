@@ -1,0 +1,8 @@
+POI: 			Carrie_Underwood 
+Youtube ID: 	UVCY9tVh_40 
+Video length: 	89.3 sec 
+Set (V): 		dev 
+ 
+Carrie_Underwood/UVCY9tVh_40_0000001 12.5 16.5 
+Carrie_Underwood/UVCY9tVh_40_0000002 19.0 25.2 
+Carrie_Underwood/UVCY9tVh_40_0000003 50.8 66.2 

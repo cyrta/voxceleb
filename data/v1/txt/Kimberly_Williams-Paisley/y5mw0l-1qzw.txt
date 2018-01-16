@@ -1,0 +1,9 @@
+POI: 			Kimberly_Williams-Paisley 
+Youtube ID: 	y5mw0l-1qzw 
+Video length: 	213.2 sec 
+Set (V): 		dev 
+ 
+Kimberly_Williams-Paisley/y5mw0l-1qzw_0000001 15.3 21.6 
+Kimberly_Williams-Paisley/y5mw0l-1qzw_0000002 59.4 67.8 
+Kimberly_Williams-Paisley/y5mw0l-1qzw_0000003 74.8 79.2 
+Kimberly_Williams-Paisley/y5mw0l-1qzw_0000004 111.1 160.3 

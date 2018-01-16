@@ -1,0 +1,13 @@
+POI: 			Martin_Kove 
+Youtube ID: 	cdCElOB0NuU 
+Video length: 	133.5 sec 
+Set (V): 		dev 
+ 
+Martin_Kove/cdCElOB0NuU_0000001 09.7 13.7 
+Martin_Kove/cdCElOB0NuU_0000002 17.3 28.1 
+Martin_Kove/cdCElOB0NuU_0000003 51.2 60.7 
+Martin_Kove/cdCElOB0NuU_0000004 74.2 84.1 
+Martin_Kove/cdCElOB0NuU_0000005 85.4 93.2 
+Martin_Kove/cdCElOB0NuU_0000006 96.4 105.6 
+Martin_Kove/cdCElOB0NuU_0000007 108.6 115.0 
+Martin_Kove/cdCElOB0NuU_0000008 115.9 120.4 

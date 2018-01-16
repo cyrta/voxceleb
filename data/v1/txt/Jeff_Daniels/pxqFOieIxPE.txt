@@ -1,0 +1,10 @@
+POI: 			Jeff_Daniels 
+Youtube ID: 	pxqFOieIxPE 
+Video length: 	2384.8 sec 
+Set (V): 		dev 
+ 
+Jeff_Daniels/pxqFOieIxPE_0000001 909.6 916.1 
+Jeff_Daniels/pxqFOieIxPE_0000002 922.0 926.0 
+Jeff_Daniels/pxqFOieIxPE_0000003 927.0 931.7 
+Jeff_Daniels/pxqFOieIxPE_0000004 1096.1 1100.7 
+Jeff_Daniels/pxqFOieIxPE_0000005 1405.0 1409.2 

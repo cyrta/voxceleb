@@ -1,0 +1,7 @@
+POI: 			Jeff_Goldblum 
+Youtube ID: 	ozkEy-SKnK0 
+Video length: 	700.2 sec 
+Set (V): 		dev 
+ 
+Jeff_Goldblum/ozkEy-SKnK0_0000001 463.1 467.7 
+Jeff_Goldblum/ozkEy-SKnK0_0000002 499.0 503.5 

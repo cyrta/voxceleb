@@ -1,0 +1,11 @@
+POI: 			Zoe_Saldana 
+Youtube ID: 	zmB5RzGgANo 
+Video length: 	444.9 sec 
+Set (V): 		dev 
+ 
+Zoe_Saldana/zmB5RzGgANo_0000001 24.3 31.2 
+Zoe_Saldana/zmB5RzGgANo_0000002 31.4 36.2 
+Zoe_Saldana/zmB5RzGgANo_0000003 39.2 44.3 
+Zoe_Saldana/zmB5RzGgANo_0000004 44.8 49.7 
+Zoe_Saldana/zmB5RzGgANo_0000005 180.8 190.4 
+Zoe_Saldana/zmB5RzGgANo_0000006 319.0 327.5 

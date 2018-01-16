@@ -1,0 +1,7 @@
+POI: 			Regina_Hall 
+Youtube ID: 	QXWsnscCJLI 
+Video length: 	265.6 sec 
+Set (V): 		dev 
+ 
+Regina_Hall/QXWsnscCJLI_0000001 22.9 28.0 
+Regina_Hall/QXWsnscCJLI_0000002 48.5 54.8 

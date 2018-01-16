@@ -1,0 +1,11 @@
+POI: 			Mathilda_May 
+Youtube ID: 	COVj_gcQxto 
+Video length: 	610.8 sec 
+Set (V): 		dev 
+ 
+Mathilda_May/COVj_gcQxto_0000001 85.9 90.0 
+Mathilda_May/COVj_gcQxto_0000002 129.7 135.5 
+Mathilda_May/COVj_gcQxto_0000003 165.2 170.9 
+Mathilda_May/COVj_gcQxto_0000004 201.4 205.4 
+Mathilda_May/COVj_gcQxto_0000005 225.5 232.7 
+Mathilda_May/COVj_gcQxto_0000006 293.4 298.1 

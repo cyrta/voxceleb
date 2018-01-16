@@ -1,0 +1,18 @@
+POI: 			Louis_Theroux 
+Youtube ID: 	gtfHs3X8Uqg 
+Video length: 	362.7 sec 
+Set (V): 		dev 
+ 
+Louis_Theroux/gtfHs3X8Uqg_0000001 50.0 55.7 
+Louis_Theroux/gtfHs3X8Uqg_0000002 56.5 61.8 
+Louis_Theroux/gtfHs3X8Uqg_0000003 84.0 89.0 
+Louis_Theroux/gtfHs3X8Uqg_0000004 104.8 108.9 
+Louis_Theroux/gtfHs3X8Uqg_0000005 126.2 142.2 
+Louis_Theroux/gtfHs3X8Uqg_0000006 153.7 161.7 
+Louis_Theroux/gtfHs3X8Uqg_0000007 197.8 202.0 
+Louis_Theroux/gtfHs3X8Uqg_0000008 205.7 226.0 
+Louis_Theroux/gtfHs3X8Uqg_0000009 233.5 238.7 
+Louis_Theroux/gtfHs3X8Uqg_0000010 252.3 269.2 
+Louis_Theroux/gtfHs3X8Uqg_0000011 275.6 292.3 
+Louis_Theroux/gtfHs3X8Uqg_0000012 308.8 314.6 
+Louis_Theroux/gtfHs3X8Uqg_0000013 315.1 330.3 

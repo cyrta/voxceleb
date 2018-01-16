@@ -1,0 +1,8 @@
+POI: 			Olivia_Williams 
+Youtube ID: 	gOJIiIqoV9s 
+Video length: 	186.2 sec 
+Set (V): 		dev 
+ 
+Olivia_Williams/gOJIiIqoV9s_0000001 48.3 53.7 
+Olivia_Williams/gOJIiIqoV9s_0000002 96.4 102.1 
+Olivia_Williams/gOJIiIqoV9s_0000003 115.5 120.5 

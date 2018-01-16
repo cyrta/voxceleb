@@ -1,0 +1,7 @@
+POI: 			Nina_Hoss 
+Youtube ID: 	ooVhS11lAp0 
+Video length: 	395.4 sec 
+Set (V): 		dev 
+ 
+Nina_Hoss/ooVhS11lAp0_0000001 15.8 20.8 
+Nina_Hoss/ooVhS11lAp0_0000002 56.4 61.5 

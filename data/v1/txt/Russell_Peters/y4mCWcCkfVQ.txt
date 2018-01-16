@@ -1,0 +1,16 @@
+POI: 			Russell_Peters 
+Youtube ID: 	y4mCWcCkfVQ 
+Video length: 	183.3 sec 
+Set (V): 		dev 
+ 
+Russell_Peters/y4mCWcCkfVQ_0000001 27.5 32.4 
+Russell_Peters/y4mCWcCkfVQ_0000002 33.4 38.2 
+Russell_Peters/y4mCWcCkfVQ_0000003 44.0 48.6 
+Russell_Peters/y4mCWcCkfVQ_0000004 68.2 78.6 
+Russell_Peters/y4mCWcCkfVQ_0000005 90.6 103.1 
+Russell_Peters/y4mCWcCkfVQ_0000006 111.4 118.5 
+Russell_Peters/y4mCWcCkfVQ_0000007 119.0 123.8 
+Russell_Peters/y4mCWcCkfVQ_0000008 125.6 143.2 
+Russell_Peters/y4mCWcCkfVQ_0000009 143.9 148.5 
+Russell_Peters/y4mCWcCkfVQ_0000010 155.6 161.2 
+Russell_Peters/y4mCWcCkfVQ_0000011 162.5 170.2 

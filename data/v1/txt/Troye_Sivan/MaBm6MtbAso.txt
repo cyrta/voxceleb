@@ -1,0 +1,8 @@
+POI: 			Troye_Sivan 
+Youtube ID: 	MaBm6MtbAso 
+Video length: 	243.0 sec 
+Set (V): 		dev 
+ 
+Troye_Sivan/MaBm6MtbAso_0000001 25.4 30.0 
+Troye_Sivan/MaBm6MtbAso_0000002 54.4 58.9 
+Troye_Sivan/MaBm6MtbAso_0000003 219.2 224.2 

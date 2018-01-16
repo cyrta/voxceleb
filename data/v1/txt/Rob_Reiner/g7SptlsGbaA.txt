@@ -1,0 +1,13 @@
+POI: 			Rob_Reiner 
+Youtube ID: 	g7SptlsGbaA 
+Video length: 	492.5 sec 
+Set (V): 		dev 
+ 
+Rob_Reiner/g7SptlsGbaA_0000001 194.7 200.1 
+Rob_Reiner/g7SptlsGbaA_0000002 267.1 271.0 
+Rob_Reiner/g7SptlsGbaA_0000003 304.5 309.3 
+Rob_Reiner/g7SptlsGbaA_0000004 321.3 325.4 
+Rob_Reiner/g7SptlsGbaA_0000005 407.1 411.3 
+Rob_Reiner/g7SptlsGbaA_0000006 419.8 429.4 
+Rob_Reiner/g7SptlsGbaA_0000007 455.7 463.0 
+Rob_Reiner/g7SptlsGbaA_0000008 465.2 475.7 

@@ -1,0 +1,8 @@
+POI: 			Jenna_Fischer 
+Youtube ID: 	tqNfzOZmGvc 
+Video length: 	65.9 sec 
+Set (V): 		dev 
+ 
+Jenna_Fischer/tqNfzOZmGvc_0000001 01.1 23.2 
+Jenna_Fischer/tqNfzOZmGvc_0000002 28.1 40.5 
+Jenna_Fischer/tqNfzOZmGvc_0000003 45.0 63.3 

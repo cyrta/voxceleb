@@ -1,0 +1,8 @@
+POI: 			Colin_Donnell 
+Youtube ID: 	_abYzIob9dY 
+Video length: 	140.1 sec 
+Set (V): 		dev 
+ 
+Colin_Donnell/_abYzIob9dY_0000001 41.5 48.0 
+Colin_Donnell/_abYzIob9dY_0000002 104.0 108.6 
+Colin_Donnell/_abYzIob9dY_0000003 110.4 115.4 

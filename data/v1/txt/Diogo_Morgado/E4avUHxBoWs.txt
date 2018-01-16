@@ -1,0 +1,20 @@
+POI: 			Diogo_Morgado 
+Youtube ID: 	E4avUHxBoWs 
+Video length: 	656.4 sec 
+Set (V): 		dev 
+ 
+Diogo_Morgado/E4avUHxBoWs_0000001 176.6 186.9 
+Diogo_Morgado/E4avUHxBoWs_0000002 193.6 197.6 
+Diogo_Morgado/E4avUHxBoWs_0000003 248.4 262.1 
+Diogo_Morgado/E4avUHxBoWs_0000004 273.6 278.1 
+Diogo_Morgado/E4avUHxBoWs_0000005 297.5 304.3 
+Diogo_Morgado/E4avUHxBoWs_0000006 355.1 362.2 
+Diogo_Morgado/E4avUHxBoWs_0000007 367.2 371.4 
+Diogo_Morgado/E4avUHxBoWs_0000008 388.3 405.1 
+Diogo_Morgado/E4avUHxBoWs_0000009 454.1 458.6 
+Diogo_Morgado/E4avUHxBoWs_0000010 463.9 468.1 
+Diogo_Morgado/E4avUHxBoWs_0000011 491.0 503.6 
+Diogo_Morgado/E4avUHxBoWs_0000012 539.0 545.9 
+Diogo_Morgado/E4avUHxBoWs_0000013 546.5 554.1 
+Diogo_Morgado/E4avUHxBoWs_0000014 619.0 624.2 
+Diogo_Morgado/E4avUHxBoWs_0000015 632.4 637.8 

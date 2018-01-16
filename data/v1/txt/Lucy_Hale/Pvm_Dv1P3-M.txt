@@ -1,0 +1,10 @@
+POI: 			Lucy_Hale 
+Youtube ID: 	Pvm_Dv1P3-M 
+Video length: 	115.8 sec 
+Set (V): 		dev 
+ 
+Lucy_Hale/Pvm_Dv1P3-M_0000001 07.6 28.2 
+Lucy_Hale/Pvm_Dv1P3-M_0000002 31.8 47.5 
+Lucy_Hale/Pvm_Dv1P3-M_0000003 50.7 54.8 
+Lucy_Hale/Pvm_Dv1P3-M_0000004 56.1 61.8 
+Lucy_Hale/Pvm_Dv1P3-M_0000005 62.4 66.7 

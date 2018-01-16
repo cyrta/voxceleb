@@ -1,0 +1,8 @@
+POI: 			Diane_Kruger 
+Youtube ID: 	C5iZn8D-qzc 
+Video length: 	240.4 sec 
+Set (V): 		dev 
+ 
+Diane_Kruger/C5iZn8D-qzc_0000001 52.9 58.3 
+Diane_Kruger/C5iZn8D-qzc_0000002 65.0 71.0 
+Diane_Kruger/C5iZn8D-qzc_0000003 95.0 101.8 

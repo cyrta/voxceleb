@@ -1,0 +1,26 @@
+POI: 			Sharlto_Copley 
+Youtube ID: 	KJqT0CPgSt0 
+Video length: 	354.4 sec 
+Set (V): 		dev 
+ 
+Sharlto_Copley/KJqT0CPgSt0_0000001 07.9 15.5 
+Sharlto_Copley/KJqT0CPgSt0_0000002 15.6 20.2 
+Sharlto_Copley/KJqT0CPgSt0_0000003 26.6 31.8 
+Sharlto_Copley/KJqT0CPgSt0_0000004 36.2 45.9 
+Sharlto_Copley/KJqT0CPgSt0_0000005 46.2 59.9 
+Sharlto_Copley/KJqT0CPgSt0_0000006 63.7 106.8 
+Sharlto_Copley/KJqT0CPgSt0_0000007 112.6 117.9 
+Sharlto_Copley/KJqT0CPgSt0_0000008 118.2 140.1 
+Sharlto_Copley/KJqT0CPgSt0_0000009 143.6 157.3 
+Sharlto_Copley/KJqT0CPgSt0_0000010 157.7 168.8 
+Sharlto_Copley/KJqT0CPgSt0_0000011 169.0 199.0 
+Sharlto_Copley/KJqT0CPgSt0_0000012 204.5 221.0 
+Sharlto_Copley/KJqT0CPgSt0_0000013 221.9 235.0 
+Sharlto_Copley/KJqT0CPgSt0_0000014 235.6 244.2 
+Sharlto_Copley/KJqT0CPgSt0_0000015 248.5 257.2 
+Sharlto_Copley/KJqT0CPgSt0_0000016 269.8 291.6 
+Sharlto_Copley/KJqT0CPgSt0_0000017 292.2 297.6 
+Sharlto_Copley/KJqT0CPgSt0_0000018 298.2 305.7 
+Sharlto_Copley/KJqT0CPgSt0_0000019 306.2 319.7 
+Sharlto_Copley/KJqT0CPgSt0_0000020 323.1 332.0 
+Sharlto_Copley/KJqT0CPgSt0_0000021 333.0 346.4 

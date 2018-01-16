@@ -1,0 +1,11 @@
+POI: 			Greta_Gerwig 
+Youtube ID: 	j_y1oI3Xt-g 
+Video length: 	247.0 sec 
+Set (V): 		dev 
+ 
+Greta_Gerwig/j_y1oI3Xt-g_0000001 52.2 64.6 
+Greta_Gerwig/j_y1oI3Xt-g_0000002 77.0 87.0 
+Greta_Gerwig/j_y1oI3Xt-g_0000003 89.5 99.8 
+Greta_Gerwig/j_y1oI3Xt-g_0000004 171.4 177.3 
+Greta_Gerwig/j_y1oI3Xt-g_0000005 183.2 188.8 
+Greta_Gerwig/j_y1oI3Xt-g_0000006 225.8 234.7 

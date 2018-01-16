@@ -1,0 +1,12 @@
+POI: 			Jason_Mantzoukas 
+Youtube ID: 	Wfn3cbUIfLo 
+Video length: 	201.0 sec 
+Set (V): 		dev 
+ 
+Jason_Mantzoukas/Wfn3cbUIfLo_0000001 32.2 42.0 
+Jason_Mantzoukas/Wfn3cbUIfLo_0000002 42.3 47.3 
+Jason_Mantzoukas/Wfn3cbUIfLo_0000003 49.8 54.2 
+Jason_Mantzoukas/Wfn3cbUIfLo_0000004 63.0 72.5 
+Jason_Mantzoukas/Wfn3cbUIfLo_0000005 92.1 97.9 
+Jason_Mantzoukas/Wfn3cbUIfLo_0000006 133.3 137.4 
+Jason_Mantzoukas/Wfn3cbUIfLo_0000007 164.3 178.4 

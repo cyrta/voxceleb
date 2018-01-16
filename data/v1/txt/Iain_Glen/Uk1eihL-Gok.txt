@@ -1,0 +1,8 @@
+POI: 			Iain_Glen 
+Youtube ID: 	Uk1eihL-Gok 
+Video length: 	150.1 sec 
+Set (V): 		dev 
+ 
+Iain_Glen/Uk1eihL-Gok_0000001 54.1 61.9 
+Iain_Glen/Uk1eihL-Gok_0000002 119.9 124.4 
+Iain_Glen/Uk1eihL-Gok_0000003 125.9 131.6 

@@ -1,0 +1,8 @@
+POI: 			Daniel_Dae_Kim 
+Youtube ID: 	Or1D6fNKtnA 
+Video length: 	310.3 sec 
+Set (V): 		dev 
+ 
+Daniel_Dae_Kim/Or1D6fNKtnA_0000001 153.1 157.5 
+Daniel_Dae_Kim/Or1D6fNKtnA_0000002 198.8 203.1 
+Daniel_Dae_Kim/Or1D6fNKtnA_0000003 210.0 214.3 

@@ -1,0 +1,6 @@
+POI: 			Brian_Cox 
+Youtube ID: 	87zd_BGY4UU 
+Video length: 	266.8 sec 
+Set (V): 		dev 
+ 
+Brian_Cox/87zd_BGY4UU_0000001 138.3 143.0 

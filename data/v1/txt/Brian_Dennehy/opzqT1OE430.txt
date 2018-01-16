@@ -1,0 +1,10 @@
+POI: 			Brian_Dennehy 
+Youtube ID: 	opzqT1OE430 
+Video length: 	301.5 sec 
+Set (V): 		dev 
+ 
+Brian_Dennehy/opzqT1OE430_0000001 143.4 151.8 
+Brian_Dennehy/opzqT1OE430_0000002 172.4 179.4 
+Brian_Dennehy/opzqT1OE430_0000003 183.2 187.9 
+Brian_Dennehy/opzqT1OE430_0000004 220.0 226.6 
+Brian_Dennehy/opzqT1OE430_0000005 227.2 237.8 

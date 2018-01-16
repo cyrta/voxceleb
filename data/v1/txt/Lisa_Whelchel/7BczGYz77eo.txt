@@ -1,0 +1,11 @@
+POI: 			Lisa_Whelchel 
+Youtube ID: 	7BczGYz77eo 
+Video length: 	96.1 sec 
+Set (V): 		dev 
+ 
+Lisa_Whelchel/7BczGYz77eo_0000001 05.4 17.2 
+Lisa_Whelchel/7BczGYz77eo_0000002 19.4 39.6 
+Lisa_Whelchel/7BczGYz77eo_0000003 46.7 57.0 
+Lisa_Whelchel/7BczGYz77eo_0000004 59.4 67.1 
+Lisa_Whelchel/7BczGYz77eo_0000005 67.9 72.0 
+Lisa_Whelchel/7BczGYz77eo_0000006 73.3 77.8 

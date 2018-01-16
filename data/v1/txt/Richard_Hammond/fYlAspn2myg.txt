@@ -1,0 +1,8 @@
+POI: 			Richard_Hammond 
+Youtube ID: 	fYlAspn2myg 
+Video length: 	785.1 sec 
+Set (V): 		dev 
+ 
+Richard_Hammond/fYlAspn2myg_0000001 344.4 348.4 
+Richard_Hammond/fYlAspn2myg_0000002 543.0 548.2 
+Richard_Hammond/fYlAspn2myg_0000003 636.7 646.8 

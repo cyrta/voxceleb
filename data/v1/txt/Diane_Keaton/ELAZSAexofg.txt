@@ -1,0 +1,18 @@
+POI: 			Diane_Keaton 
+Youtube ID: 	ELAZSAexofg 
+Video length: 	760.1 sec 
+Set (V): 		dev 
+ 
+Diane_Keaton/ELAZSAexofg_0000001 233.7 238.6 
+Diane_Keaton/ELAZSAexofg_0000002 247.6 252.2 
+Diane_Keaton/ELAZSAexofg_0000003 365.0 369.9 
+Diane_Keaton/ELAZSAexofg_0000004 380.2 385.1 
+Diane_Keaton/ELAZSAexofg_0000005 408.6 415.9 
+Diane_Keaton/ELAZSAexofg_0000006 466.3 477.8 
+Diane_Keaton/ELAZSAexofg_0000007 485.4 491.4 
+Diane_Keaton/ELAZSAexofg_0000008 550.3 556.2 
+Diane_Keaton/ELAZSAexofg_0000009 590.9 597.6 
+Diane_Keaton/ELAZSAexofg_0000010 610.5 618.5 
+Diane_Keaton/ELAZSAexofg_0000011 665.6 670.5 
+Diane_Keaton/ELAZSAexofg_0000012 724.8 738.4 
+Diane_Keaton/ELAZSAexofg_0000013 743.7 748.1 

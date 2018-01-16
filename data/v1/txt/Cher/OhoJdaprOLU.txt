@@ -1,0 +1,10 @@
+POI: 			Cher 
+Youtube ID: 	OhoJdaprOLU 
+Video length: 	551.7 sec 
+Set (V): 		dev 
+ 
+Cher/OhoJdaprOLU_0000001 432.5 438.3 
+Cher/OhoJdaprOLU_0000002 445.2 453.1 
+Cher/OhoJdaprOLU_0000003 474.3 479.9 
+Cher/OhoJdaprOLU_0000004 486.5 490.8 
+Cher/OhoJdaprOLU_0000005 493.8 498.8 

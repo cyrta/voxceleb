@@ -1,0 +1,13 @@
+POI: 			Russell_Tovey 
+Youtube ID: 	WY1wZyPAEoA 
+Video length: 	182.4 sec 
+Set (V): 		dev 
+ 
+Russell_Tovey/WY1wZyPAEoA_0000001 03.7 17.9 
+Russell_Tovey/WY1wZyPAEoA_0000002 34.3 51.6 
+Russell_Tovey/WY1wZyPAEoA_0000003 56.9 66.1 
+Russell_Tovey/WY1wZyPAEoA_0000004 75.1 88.0 
+Russell_Tovey/WY1wZyPAEoA_0000005 91.5 106.0 
+Russell_Tovey/WY1wZyPAEoA_0000006 107.7 126.6 
+Russell_Tovey/WY1wZyPAEoA_0000007 136.2 164.8 
+Russell_Tovey/WY1wZyPAEoA_0000008 168.5 177.0 

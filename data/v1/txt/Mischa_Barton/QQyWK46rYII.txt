@@ -1,0 +1,17 @@
+POI: 			Mischa_Barton 
+Youtube ID: 	QQyWK46rYII 
+Video length: 	608.8 sec 
+Set (V): 		dev 
+ 
+Mischa_Barton/QQyWK46rYII_0000001 38.2 42.9 
+Mischa_Barton/QQyWK46rYII_0000002 55.6 66.0 
+Mischa_Barton/QQyWK46rYII_0000003 73.8 86.1 
+Mischa_Barton/QQyWK46rYII_0000004 100.2 110.0 
+Mischa_Barton/QQyWK46rYII_0000005 121.3 132.8 
+Mischa_Barton/QQyWK46rYII_0000006 154.6 165.4 
+Mischa_Barton/QQyWK46rYII_0000007 175.4 181.5 
+Mischa_Barton/QQyWK46rYII_0000008 320.9 328.1 
+Mischa_Barton/QQyWK46rYII_0000009 382.1 389.0 
+Mischa_Barton/QQyWK46rYII_0000010 395.9 406.8 
+Mischa_Barton/QQyWK46rYII_0000011 508.5 513.7 
+Mischa_Barton/QQyWK46rYII_0000012 518.8 524.2 

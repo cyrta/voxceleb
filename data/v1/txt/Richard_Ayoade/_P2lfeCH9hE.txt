@@ -1,0 +1,10 @@
+POI: 			Richard_Ayoade 
+Youtube ID: 	_P2lfeCH9hE 
+Video length: 	120.3 sec 
+Set (V): 		dev 
+ 
+Richard_Ayoade/_P2lfeCH9hE_0000001 03.2 11.7 
+Richard_Ayoade/_P2lfeCH9hE_0000002 24.0 30.8 
+Richard_Ayoade/_P2lfeCH9hE_0000003 44.9 49.0 
+Richard_Ayoade/_P2lfeCH9hE_0000004 74.3 90.5 
+Richard_Ayoade/_P2lfeCH9hE_0000005 90.9 99.4 

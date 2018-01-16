@@ -1,0 +1,15 @@
+POI: 			Michael_Trevino 
+Youtube ID: 	tW3Eag_NPXY 
+Video length: 	436.8 sec 
+Set (V): 		dev 
+ 
+Michael_Trevino/tW3Eag_NPXY_0000001 68.5 77.3 
+Michael_Trevino/tW3Eag_NPXY_0000002 83.1 89.5 
+Michael_Trevino/tW3Eag_NPXY_0000003 107.8 113.0 
+Michael_Trevino/tW3Eag_NPXY_0000004 161.1 166.1 
+Michael_Trevino/tW3Eag_NPXY_0000005 172.0 177.2 
+Michael_Trevino/tW3Eag_NPXY_0000006 191.7 196.0 
+Michael_Trevino/tW3Eag_NPXY_0000007 246.0 250.3 
+Michael_Trevino/tW3Eag_NPXY_0000008 370.7 375.2 
+Michael_Trevino/tW3Eag_NPXY_0000009 377.5 381.9 
+Michael_Trevino/tW3Eag_NPXY_0000010 418.9 427.8 

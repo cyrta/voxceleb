@@ -1,0 +1,10 @@
+POI: 			Vidya_Balan 
+Youtube ID: 	GuFgYdt1szI 
+Video length: 	466.1 sec 
+Set (V): 		dev 
+ 
+Vidya_Balan/GuFgYdt1szI_0000001 99.6 104.0 
+Vidya_Balan/GuFgYdt1szI_0000002 273.0 279.8 
+Vidya_Balan/GuFgYdt1szI_0000003 337.0 341.4 
+Vidya_Balan/GuFgYdt1szI_0000004 350.7 355.6 
+Vidya_Balan/GuFgYdt1szI_0000005 427.4 431.6 

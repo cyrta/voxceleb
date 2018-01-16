@@ -1,0 +1,13 @@
+POI: 			Brian_Blessed 
+Youtube ID: 	52Ee7ElSKMo 
+Video length: 	269.2 sec 
+Set (V): 		dev 
+ 
+Brian_Blessed/52Ee7ElSKMo_0000001 110.7 123.7 
+Brian_Blessed/52Ee7ElSKMo_0000002 127.6 133.8 
+Brian_Blessed/52Ee7ElSKMo_0000003 137.6 149.2 
+Brian_Blessed/52Ee7ElSKMo_0000004 149.5 158.4 
+Brian_Blessed/52Ee7ElSKMo_0000005 162.7 168.2 
+Brian_Blessed/52Ee7ElSKMo_0000006 200.2 205.6 
+Brian_Blessed/52Ee7ElSKMo_0000007 210.7 218.6 
+Brian_Blessed/52Ee7ElSKMo_0000008 219.2 228.1 

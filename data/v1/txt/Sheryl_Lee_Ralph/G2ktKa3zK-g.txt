@@ -1,0 +1,8 @@
+POI: 			Sheryl_Lee_Ralph 
+Youtube ID: 	G2ktKa3zK-g 
+Video length: 	81.2 sec 
+Set (V): 		dev 
+ 
+Sheryl_Lee_Ralph/G2ktKa3zK-g_0000001 19.1 24.2 
+Sheryl_Lee_Ralph/G2ktKa3zK-g_0000002 24.3 35.7 
+Sheryl_Lee_Ralph/G2ktKa3zK-g_0000003 58.2 64.1 

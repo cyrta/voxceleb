@@ -1,0 +1,33 @@
+POI: 			Marla_Gibbs 
+Youtube ID: 	6sdguNXxtBc 
+Video length: 	377.0 sec 
+Set (V): 		dev 
+ 
+Marla_Gibbs/6sdguNXxtBc_0000001 07.0 11.0 
+Marla_Gibbs/6sdguNXxtBc_0000002 28.2 32.5 
+Marla_Gibbs/6sdguNXxtBc_0000003 34.2 40.1 
+Marla_Gibbs/6sdguNXxtBc_0000004 44.5 56.0 
+Marla_Gibbs/6sdguNXxtBc_0000005 56.8 61.9 
+Marla_Gibbs/6sdguNXxtBc_0000006 62.7 73.7 
+Marla_Gibbs/6sdguNXxtBc_0000007 74.8 79.0 
+Marla_Gibbs/6sdguNXxtBc_0000008 79.4 85.0 
+Marla_Gibbs/6sdguNXxtBc_0000009 86.1 92.0 
+Marla_Gibbs/6sdguNXxtBc_0000010 93.3 102.2 
+Marla_Gibbs/6sdguNXxtBc_0000011 113.7 126.2 
+Marla_Gibbs/6sdguNXxtBc_0000012 152.7 159.1 
+Marla_Gibbs/6sdguNXxtBc_0000013 169.0 173.4 
+Marla_Gibbs/6sdguNXxtBc_0000014 177.5 182.8 
+Marla_Gibbs/6sdguNXxtBc_0000015 184.4 189.2 
+Marla_Gibbs/6sdguNXxtBc_0000016 189.6 194.9 
+Marla_Gibbs/6sdguNXxtBc_0000017 205.2 211.0 
+Marla_Gibbs/6sdguNXxtBc_0000018 216.4 225.6 
+Marla_Gibbs/6sdguNXxtBc_0000019 232.7 238.3 
+Marla_Gibbs/6sdguNXxtBc_0000020 239.6 254.8 
+Marla_Gibbs/6sdguNXxtBc_0000021 257.4 262.0 
+Marla_Gibbs/6sdguNXxtBc_0000022 268.2 276.1 
+Marla_Gibbs/6sdguNXxtBc_0000023 276.4 283.6 
+Marla_Gibbs/6sdguNXxtBc_0000024 287.1 303.8 
+Marla_Gibbs/6sdguNXxtBc_0000025 320.9 326.7 
+Marla_Gibbs/6sdguNXxtBc_0000026 326.9 334.4 
+Marla_Gibbs/6sdguNXxtBc_0000027 336.7 341.7 
+Marla_Gibbs/6sdguNXxtBc_0000028 342.2 366.2 

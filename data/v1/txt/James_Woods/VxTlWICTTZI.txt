@@ -1,0 +1,7 @@
+POI: 			James_Woods 
+Youtube ID: 	VxTlWICTTZI 
+Video length: 	529.9 sec 
+Set (V): 		dev 
+ 
+James_Woods/VxTlWICTTZI_0000001 73.4 77.5 
+James_Woods/VxTlWICTTZI_0000002 225.6 229.9 

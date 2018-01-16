@@ -1,0 +1,15 @@
+POI: 			Paul_Wesley 
+Youtube ID: 	DbEBXtWCs6o 
+Video length: 	355.2 sec 
+Set (V): 		dev 
+ 
+Paul_Wesley/DbEBXtWCs6o_0000001 138.6 155.4 
+Paul_Wesley/DbEBXtWCs6o_0000002 181.3 185.2 
+Paul_Wesley/DbEBXtWCs6o_0000003 187.2 210.5 
+Paul_Wesley/DbEBXtWCs6o_0000004 218.5 224.2 
+Paul_Wesley/DbEBXtWCs6o_0000005 228.7 232.8 
+Paul_Wesley/DbEBXtWCs6o_0000006 235.1 239.1 
+Paul_Wesley/DbEBXtWCs6o_0000007 259.4 274.0 
+Paul_Wesley/DbEBXtWCs6o_0000008 274.8 279.8 
+Paul_Wesley/DbEBXtWCs6o_0000009 281.9 302.5 
+Paul_Wesley/DbEBXtWCs6o_0000010 326.9 335.4 

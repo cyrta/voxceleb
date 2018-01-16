@@ -1,0 +1,26 @@
+POI: 			Vince_Gilligan 
+Youtube ID: 	zWE8NG5oSOA 
+Video length: 	266.9 sec 
+Set (V): 		dev 
+ 
+Vince_Gilligan/zWE8NG5oSOA_0000001 16.8 24.0 
+Vince_Gilligan/zWE8NG5oSOA_0000002 27.7 39.4 
+Vince_Gilligan/zWE8NG5oSOA_0000003 40.3 52.6 
+Vince_Gilligan/zWE8NG5oSOA_0000004 53.1 63.5 
+Vince_Gilligan/zWE8NG5oSOA_0000005 66.6 72.8 
+Vince_Gilligan/zWE8NG5oSOA_0000006 74.1 81.1 
+Vince_Gilligan/zWE8NG5oSOA_0000007 81.2 90.7 
+Vince_Gilligan/zWE8NG5oSOA_0000008 98.7 119.7 
+Vince_Gilligan/zWE8NG5oSOA_0000009 121.5 137.3 
+Vince_Gilligan/zWE8NG5oSOA_0000010 138.6 143.8 
+Vince_Gilligan/zWE8NG5oSOA_0000011 145.4 150.9 
+Vince_Gilligan/zWE8NG5oSOA_0000012 163.5 180.5 
+Vince_Gilligan/zWE8NG5oSOA_0000013 181.7 188.4 
+Vince_Gilligan/zWE8NG5oSOA_0000014 189.6 193.7 
+Vince_Gilligan/zWE8NG5oSOA_0000015 194.7 199.6 
+Vince_Gilligan/zWE8NG5oSOA_0000016 199.8 214.7 
+Vince_Gilligan/zWE8NG5oSOA_0000017 215.7 224.8 
+Vince_Gilligan/zWE8NG5oSOA_0000018 226.4 236.6 
+Vince_Gilligan/zWE8NG5oSOA_0000019 233.3 238.0 
+Vince_Gilligan/zWE8NG5oSOA_0000020 241.5 252.2 
+Vince_Gilligan/zWE8NG5oSOA_0000021 253.0 257.8 

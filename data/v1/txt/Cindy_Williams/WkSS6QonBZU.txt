@@ -1,0 +1,10 @@
+POI: 			Cindy_Williams 
+Youtube ID: 	WkSS6QonBZU 
+Video length: 	89.6 sec 
+Set (V): 		dev 
+ 
+Cindy_Williams/WkSS6QonBZU_0000001 07.9 14.9 
+Cindy_Williams/WkSS6QonBZU_0000002 19.1 39.8 
+Cindy_Williams/WkSS6QonBZU_0000003 44.1 51.3 
+Cindy_Williams/WkSS6QonBZU_0000004 52.2 64.4 
+Cindy_Williams/WkSS6QonBZU_0000005 65.2 79.8 

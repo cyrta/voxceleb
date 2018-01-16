@@ -1,0 +1,8 @@
+POI: 			Hilarie_Burton 
+Youtube ID: 	PK1IYDFkSxo 
+Video length: 	208.8 sec 
+Set (V): 		dev 
+ 
+Hilarie_Burton/PK1IYDFkSxo_0000001 66.3 71.0 
+Hilarie_Burton/PK1IYDFkSxo_0000002 87.9 92.1 
+Hilarie_Burton/PK1IYDFkSxo_0000003 97.3 101.6 

@@ -1,0 +1,8 @@
+POI: 			Jeffrey_Donovan 
+Youtube ID: 	uxa9kbKYMnM 
+Video length: 	259.7 sec 
+Set (V): 		dev 
+ 
+Jeffrey_Donovan/uxa9kbKYMnM_0000001 197.7 212.9 
+Jeffrey_Donovan/uxa9kbKYMnM_0000002 221.1 235.6 
+Jeffrey_Donovan/uxa9kbKYMnM_0000003 242.2 254.3 

@@ -1,0 +1,19 @@
+POI: 			Blake_Shelton 
+Youtube ID: 	vb_ESQJnvPI 
+Video length: 	492.4 sec 
+Set (V): 		dev 
+ 
+Blake_Shelton/vb_ESQJnvPI_0000001 65.2 80.1 
+Blake_Shelton/vb_ESQJnvPI_0000002 83.5 88.7 
+Blake_Shelton/vb_ESQJnvPI_0000003 95.8 106.1 
+Blake_Shelton/vb_ESQJnvPI_0000004 113.6 117.7 
+Blake_Shelton/vb_ESQJnvPI_0000005 134.6 143.8 
+Blake_Shelton/vb_ESQJnvPI_0000006 145.2 153.4 
+Blake_Shelton/vb_ESQJnvPI_0000007 155.1 159.8 
+Blake_Shelton/vb_ESQJnvPI_0000008 165.8 171.1 
+Blake_Shelton/vb_ESQJnvPI_0000009 171.4 175.6 
+Blake_Shelton/vb_ESQJnvPI_0000010 180.0 186.2 
+Blake_Shelton/vb_ESQJnvPI_0000011 201.2 205.2 
+Blake_Shelton/vb_ESQJnvPI_0000012 207.0 212.2 
+Blake_Shelton/vb_ESQJnvPI_0000013 233.4 237.7 
+Blake_Shelton/vb_ESQJnvPI_0000014 240.4 246.9 

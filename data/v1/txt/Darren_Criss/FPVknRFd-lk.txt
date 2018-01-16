@@ -1,0 +1,14 @@
+POI: 			Darren_Criss 
+Youtube ID: 	FPVknRFd-lk 
+Video length: 	537.0 sec 
+Set (V): 		dev 
+ 
+Darren_Criss/FPVknRFd-lk_0000001 139.1 144.6 
+Darren_Criss/FPVknRFd-lk_0000002 146.4 152.9 
+Darren_Criss/FPVknRFd-lk_0000003 168.9 175.2 
+Darren_Criss/FPVknRFd-lk_0000004 230.8 245.8 
+Darren_Criss/FPVknRFd-lk_0000005 246.3 250.4 
+Darren_Criss/FPVknRFd-lk_0000006 306.9 322.8 
+Darren_Criss/FPVknRFd-lk_0000007 469.9 478.8 
+Darren_Criss/FPVknRFd-lk_0000008 482.4 494.7 
+Darren_Criss/FPVknRFd-lk_0000009 496.8 503.0 

@@ -1,0 +1,10 @@
+POI: 			Sean_Bean 
+Youtube ID: 	yel3Y1KqTZ8 
+Video length: 	609.3 sec 
+Set (V): 		dev 
+ 
+Sean_Bean/yel3Y1KqTZ8_0000001 114.0 120.0 
+Sean_Bean/yel3Y1KqTZ8_0000002 128.7 134.6 
+Sean_Bean/yel3Y1KqTZ8_0000003 145.4 153.6 
+Sean_Bean/yel3Y1KqTZ8_0000004 154.4 160.3 
+Sean_Bean/yel3Y1KqTZ8_0000005 191.2 201.0 

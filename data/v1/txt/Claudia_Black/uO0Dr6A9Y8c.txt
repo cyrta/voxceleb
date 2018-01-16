@@ -1,0 +1,40 @@
+POI: 			Claudia_Black 
+Youtube ID: 	uO0Dr6A9Y8c 
+Video length: 	521.5 sec 
+Set (V): 		dev 
+ 
+Claudia_Black/uO0Dr6A9Y8c_0000001 32.1 38.6 
+Claudia_Black/uO0Dr6A9Y8c_0000002 48.6 54.3 
+Claudia_Black/uO0Dr6A9Y8c_0000003 54.6 65.1 
+Claudia_Black/uO0Dr6A9Y8c_0000004 70.7 77.5 
+Claudia_Black/uO0Dr6A9Y8c_0000005 79.7 97.6 
+Claudia_Black/uO0Dr6A9Y8c_0000006 98.0 102.8 
+Claudia_Black/uO0Dr6A9Y8c_0000007 103.0 107.8 
+Claudia_Black/uO0Dr6A9Y8c_0000008 109.6 114.4 
+Claudia_Black/uO0Dr6A9Y8c_0000009 119.6 124.4 
+Claudia_Black/uO0Dr6A9Y8c_0000010 128.4 133.1 
+Claudia_Black/uO0Dr6A9Y8c_0000011 128.0 133.1 
+Claudia_Black/uO0Dr6A9Y8c_0000012 133.7 139.0 
+Claudia_Black/uO0Dr6A9Y8c_0000013 139.3 145.2 
+Claudia_Black/uO0Dr6A9Y8c_0000014 164.7 169.9 
+Claudia_Black/uO0Dr6A9Y8c_0000015 192.0 196.7 
+Claudia_Black/uO0Dr6A9Y8c_0000016 201.1 214.4 
+Claudia_Black/uO0Dr6A9Y8c_0000017 219.7 239.6 
+Claudia_Black/uO0Dr6A9Y8c_0000018 244.4 250.9 
+Claudia_Black/uO0Dr6A9Y8c_0000019 256.6 261.0 
+Claudia_Black/uO0Dr6A9Y8c_0000020 289.7 295.2 
+Claudia_Black/uO0Dr6A9Y8c_0000021 296.1 300.2 
+Claudia_Black/uO0Dr6A9Y8c_0000022 302.4 306.5 
+Claudia_Black/uO0Dr6A9Y8c_0000023 311.4 319.2 
+Claudia_Black/uO0Dr6A9Y8c_0000024 340.8 345.0 
+Claudia_Black/uO0Dr6A9Y8c_0000025 354.6 361.7 
+Claudia_Black/uO0Dr6A9Y8c_0000026 367.1 386.7 
+Claudia_Black/uO0Dr6A9Y8c_0000027 388.2 393.4 
+Claudia_Black/uO0Dr6A9Y8c_0000028 395.2 407.9 
+Claudia_Black/uO0Dr6A9Y8c_0000029 421.8 429.9 
+Claudia_Black/uO0Dr6A9Y8c_0000030 430.4 434.4 
+Claudia_Black/uO0Dr6A9Y8c_0000031 448.9 454.8 
+Claudia_Black/uO0Dr6A9Y8c_0000032 463.4 471.6 
+Claudia_Black/uO0Dr6A9Y8c_0000033 488.6 493.4 
+Claudia_Black/uO0Dr6A9Y8c_0000034 494.4 501.0 
+Claudia_Black/uO0Dr6A9Y8c_0000035 514.2 518.8 

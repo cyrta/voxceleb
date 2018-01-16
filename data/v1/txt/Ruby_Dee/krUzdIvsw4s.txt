@@ -1,0 +1,15 @@
+POI: 			Ruby_Dee 
+Youtube ID: 	krUzdIvsw4s 
+Video length: 	1154.6 sec 
+Set (V): 		dev 
+ 
+Ruby_Dee/krUzdIvsw4s_0000001 550.0 554.1 
+Ruby_Dee/krUzdIvsw4s_0000002 803.2 809.4 
+Ruby_Dee/krUzdIvsw4s_0000003 829.2 838.4 
+Ruby_Dee/krUzdIvsw4s_0000004 842.8 847.4 
+Ruby_Dee/krUzdIvsw4s_0000005 868.4 877.0 
+Ruby_Dee/krUzdIvsw4s_0000006 885.3 892.2 
+Ruby_Dee/krUzdIvsw4s_0000007 941.7 978.0 
+Ruby_Dee/krUzdIvsw4s_0000008 993.8 998.0 
+Ruby_Dee/krUzdIvsw4s_0000009 1020.3 1033.0 
+Ruby_Dee/krUzdIvsw4s_0000010 1052.1 1057.8 

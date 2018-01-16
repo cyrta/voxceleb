@@ -1,0 +1,10 @@
+POI: 			Lindsay_Duncan 
+Youtube ID: 	X_DbF3_kFnM 
+Video length: 	107.2 sec 
+Set (V): 		dev 
+ 
+Lindsay_Duncan/X_DbF3_kFnM_0000001 13.4 18.1 
+Lindsay_Duncan/X_DbF3_kFnM_0000002 36.8 44.6 
+Lindsay_Duncan/X_DbF3_kFnM_0000003 69.2 80.5 
+Lindsay_Duncan/X_DbF3_kFnM_0000004 83.6 89.7 
+Lindsay_Duncan/X_DbF3_kFnM_0000005 92.5 98.6 

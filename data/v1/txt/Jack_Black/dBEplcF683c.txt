@@ -1,0 +1,11 @@
+POI: 			Jack_Black 
+Youtube ID: 	dBEplcF683c 
+Video length: 	168.8 sec 
+Set (V): 		dev 
+ 
+Jack_Black/dBEplcF683c_0000001 10.6 21.7 
+Jack_Black/dBEplcF683c_0000002 45.7 57.6 
+Jack_Black/dBEplcF683c_0000003 80.5 95.4 
+Jack_Black/dBEplcF683c_0000004 112.4 125.2 
+Jack_Black/dBEplcF683c_0000005 126.4 133.2 
+Jack_Black/dBEplcF683c_0000006 142.4 148.0 

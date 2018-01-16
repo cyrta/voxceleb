@@ -1,0 +1,11 @@
+POI: 			Jake_Abel 
+Youtube ID: 	6PEwu4gRTFE 
+Video length: 	492.3 sec 
+Set (V): 		dev 
+ 
+Jake_Abel/6PEwu4gRTFE_0000001 15.7 21.1 
+Jake_Abel/6PEwu4gRTFE_0000002 81.4 86.1 
+Jake_Abel/6PEwu4gRTFE_0000003 174.7 179.2 
+Jake_Abel/6PEwu4gRTFE_0000004 248.7 257.0 
+Jake_Abel/6PEwu4gRTFE_0000005 414.5 420.4 
+Jake_Abel/6PEwu4gRTFE_0000006 424.3 429.3 

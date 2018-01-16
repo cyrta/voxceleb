@@ -1,0 +1,8 @@
+POI: 			Selma_Blair 
+Youtube ID: 	LqkTYNarCKc 
+Video length: 	234.3 sec 
+Set (V): 		dev 
+ 
+Selma_Blair/LqkTYNarCKc_0000001 24.2 29.0 
+Selma_Blair/LqkTYNarCKc_0000002 58.6 64.7 
+Selma_Blair/LqkTYNarCKc_0000003 156.8 160.8 

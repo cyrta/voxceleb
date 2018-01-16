@@ -1,0 +1,12 @@
+POI: 			Paloma_Faith 
+Youtube ID: 	hQYQaqkXgSI 
+Video length: 	468.0 sec 
+Set (V): 		dev 
+ 
+Paloma_Faith/hQYQaqkXgSI_0000001 72.1 76.2 
+Paloma_Faith/hQYQaqkXgSI_0000002 118.6 125.0 
+Paloma_Faith/hQYQaqkXgSI_0000003 169.9 180.0 
+Paloma_Faith/hQYQaqkXgSI_0000004 275.8 280.9 
+Paloma_Faith/hQYQaqkXgSI_0000005 281.3 285.6 
+Paloma_Faith/hQYQaqkXgSI_0000006 294.3 300.8 
+Paloma_Faith/hQYQaqkXgSI_0000007 395.7 400.7 

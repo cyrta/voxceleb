@@ -1,0 +1,8 @@
+POI: 			Michael_Madsen 
+Youtube ID: 	0NP2DovmcGo 
+Video length: 	92.4 sec 
+Set (V): 		dev 
+ 
+Michael_Madsen/0NP2DovmcGo_0000001 06.6 16.2 
+Michael_Madsen/0NP2DovmcGo_0000002 49.7 67.9 
+Michael_Madsen/0NP2DovmcGo_0000003 82.4 86.6 

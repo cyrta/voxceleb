@@ -1,0 +1,17 @@
+POI: 			Matthew_Modine 
+Youtube ID: 	G9BNoF7zB1Q 
+Video length: 	239.4 sec 
+Set (V): 		dev 
+ 
+Matthew_Modine/G9BNoF7zB1Q_0000001 10.7 15.8 
+Matthew_Modine/G9BNoF7zB1Q_0000002 18.1 28.2 
+Matthew_Modine/G9BNoF7zB1Q_0000003 48.8 54.7 
+Matthew_Modine/G9BNoF7zB1Q_0000004 56.8 64.2 
+Matthew_Modine/G9BNoF7zB1Q_0000005 96.2 103.8 
+Matthew_Modine/G9BNoF7zB1Q_0000006 105.3 114.0 
+Matthew_Modine/G9BNoF7zB1Q_0000007 118.4 139.7 
+Matthew_Modine/G9BNoF7zB1Q_0000008 141.4 151.4 
+Matthew_Modine/G9BNoF7zB1Q_0000009 151.6 157.1 
+Matthew_Modine/G9BNoF7zB1Q_0000010 162.6 167.8 
+Matthew_Modine/G9BNoF7zB1Q_0000011 184.9 193.7 
+Matthew_Modine/G9BNoF7zB1Q_0000012 202.7 210.4 

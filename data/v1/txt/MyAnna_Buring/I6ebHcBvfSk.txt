@@ -1,0 +1,9 @@
+POI: 			MyAnna_Buring 
+Youtube ID: 	I6ebHcBvfSk 
+Video length: 	311.2 sec 
+Set (V): 		dev 
+ 
+MyAnna_Buring/I6ebHcBvfSk_0000001 209.2 215.5 
+MyAnna_Buring/I6ebHcBvfSk_0000002 216.3 222.6 
+MyAnna_Buring/I6ebHcBvfSk_0000003 223.5 227.8 
+MyAnna_Buring/I6ebHcBvfSk_0000004 234.8 248.2 

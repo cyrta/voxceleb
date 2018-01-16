@@ -1,0 +1,7 @@
+POI: 			Grant_Bowler 
+Youtube ID: 	Te-7ERYr-kI 
+Video length: 	34.5 sec 
+Set (V): 		dev 
+ 
+Grant_Bowler/Te-7ERYr-kI_0000001 14.8 19.6 
+Grant_Bowler/Te-7ERYr-kI_0000002 20.6 26.4 

@@ -1,0 +1,14 @@
+POI: 			Sara_Ramirez 
+Youtube ID: 	MkJyBzF9aJc 
+Video length: 	636.1 sec 
+Set (V): 		dev 
+ 
+Sara_Ramirez/MkJyBzF9aJc_0000001 142.3 155.8 
+Sara_Ramirez/MkJyBzF9aJc_0000002 157.0 162.3 
+Sara_Ramirez/MkJyBzF9aJc_0000003 260.0 293.2 
+Sara_Ramirez/MkJyBzF9aJc_0000004 293.5 301.6 
+Sara_Ramirez/MkJyBzF9aJc_0000005 369.8 387.2 
+Sara_Ramirez/MkJyBzF9aJc_0000006 389.0 415.0 
+Sara_Ramirez/MkJyBzF9aJc_0000007 480.0 487.3 
+Sara_Ramirez/MkJyBzF9aJc_0000008 517.9 531.2 
+Sara_Ramirez/MkJyBzF9aJc_0000009 531.6 538.2 

@@ -1,0 +1,8 @@
+POI: 			Don_Rickles 
+Youtube ID: 	LfU_FL8e6c8 
+Video length: 	66.1 sec 
+Set (V): 		dev 
+ 
+Don_Rickles/LfU_FL8e6c8_0000001 15.1 19.2 
+Don_Rickles/LfU_FL8e6c8_0000002 19.4 24.8 
+Don_Rickles/LfU_FL8e6c8_0000003 25.8 40.6 

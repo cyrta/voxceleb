@@ -1,0 +1,8 @@
+POI: 			Jake_Johnson 
+Youtube ID: 	U_JojDiiAJw 
+Video length: 	578.7 sec 
+Set (V): 		dev 
+ 
+Jake_Johnson/U_JojDiiAJw_0000001 236.0 242.0 
+Jake_Johnson/U_JojDiiAJw_0000002 268.5 273.6 
+Jake_Johnson/U_JojDiiAJw_0000003 350.8 358.6 

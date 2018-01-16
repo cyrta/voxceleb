@@ -1,0 +1,12 @@
+POI: 			Robert_Sheehan 
+Youtube ID: 	B5-g7AWjMCA 
+Video length: 	286.1 sec 
+Set (V): 		dev 
+ 
+Robert_Sheehan/B5-g7AWjMCA_0000001 21.5 27.6 
+Robert_Sheehan/B5-g7AWjMCA_0000002 29.7 41.9 
+Robert_Sheehan/B5-g7AWjMCA_0000003 48.7 58.8 
+Robert_Sheehan/B5-g7AWjMCA_0000004 63.8 68.8 
+Robert_Sheehan/B5-g7AWjMCA_0000005 72.1 87.6 
+Robert_Sheehan/B5-g7AWjMCA_0000006 156.4 161.2 
+Robert_Sheehan/B5-g7AWjMCA_0000007 174.9 185.4 

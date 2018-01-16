@@ -1,0 +1,10 @@
+POI: 			Taylor_Swift 
+Youtube ID: 	P-TFhUq3otQ 
+Video length: 	375.8 sec 
+Set (V): 		dev 
+ 
+Taylor_Swift/P-TFhUq3otQ_0000001 96.2 101.3 
+Taylor_Swift/P-TFhUq3otQ_0000002 165.2 170.1 
+Taylor_Swift/P-TFhUq3otQ_0000003 170.3 179.3 
+Taylor_Swift/P-TFhUq3otQ_0000004 273.8 280.8 
+Taylor_Swift/P-TFhUq3otQ_0000005 323.8 329.6 

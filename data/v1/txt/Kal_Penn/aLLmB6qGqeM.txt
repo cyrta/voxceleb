@@ -1,0 +1,8 @@
+POI: 			Kal_Penn 
+Youtube ID: 	aLLmB6qGqeM 
+Video length: 	80.1 sec 
+Set (V): 		dev 
+ 
+Kal_Penn/aLLmB6qGqeM_0000001 01.4 07.1 
+Kal_Penn/aLLmB6qGqeM_0000002 23.7 40.9 
+Kal_Penn/aLLmB6qGqeM_0000003 44.2 54.4 

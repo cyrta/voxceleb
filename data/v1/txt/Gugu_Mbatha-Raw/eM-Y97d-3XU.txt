@@ -1,0 +1,15 @@
+POI: 			Gugu_Mbatha-Raw 
+Youtube ID: 	eM-Y97d-3XU 
+Video length: 	359.9 sec 
+Set (V): 		dev 
+ 
+Gugu_Mbatha-Raw/eM-Y97d-3XU_0000001 102.4 108.0 
+Gugu_Mbatha-Raw/eM-Y97d-3XU_0000002 133.3 139.0 
+Gugu_Mbatha-Raw/eM-Y97d-3XU_0000003 155.0 160.6 
+Gugu_Mbatha-Raw/eM-Y97d-3XU_0000004 169.3 173.4 
+Gugu_Mbatha-Raw/eM-Y97d-3XU_0000005 204.6 210.0 
+Gugu_Mbatha-Raw/eM-Y97d-3XU_0000006 209.7 214.1 
+Gugu_Mbatha-Raw/eM-Y97d-3XU_0000007 231.0 239.0 
+Gugu_Mbatha-Raw/eM-Y97d-3XU_0000008 277.8 283.1 
+Gugu_Mbatha-Raw/eM-Y97d-3XU_0000009 308.2 312.8 
+Gugu_Mbatha-Raw/eM-Y97d-3XU_0000010 326.4 331.6 

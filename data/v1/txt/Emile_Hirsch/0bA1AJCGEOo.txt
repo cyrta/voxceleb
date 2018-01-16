@@ -1,0 +1,9 @@
+POI: 			Emile_Hirsch 
+Youtube ID: 	0bA1AJCGEOo 
+Video length: 	210.3 sec 
+Set (V): 		test 
+ 
+Emile_Hirsch/0bA1AJCGEOo_0000001 137.2 143.9 
+Emile_Hirsch/0bA1AJCGEOo_0000002 165.4 170.6 
+Emile_Hirsch/0bA1AJCGEOo_0000003 171.4 189.0 
+Emile_Hirsch/0bA1AJCGEOo_0000004 189.3 193.7 

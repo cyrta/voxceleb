@@ -1,0 +1,9 @@
+POI: 			Russell_Tovey 
+Youtube ID: 	QVqyGBRMedE 
+Video length: 	733.9 sec 
+Set (V): 		dev 
+ 
+Russell_Tovey/QVqyGBRMedE_0000001 506.3 510.3 
+Russell_Tovey/QVqyGBRMedE_0000002 527.1 532.1 
+Russell_Tovey/QVqyGBRMedE_0000003 588.3 592.8 
+Russell_Tovey/QVqyGBRMedE_0000004 600.4 609.5 

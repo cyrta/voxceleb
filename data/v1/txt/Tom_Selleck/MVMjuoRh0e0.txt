@@ -1,0 +1,12 @@
+POI: 			Tom_Selleck 
+Youtube ID: 	MVMjuoRh0e0 
+Video length: 	360.3 sec 
+Set (V): 		dev 
+ 
+Tom_Selleck/MVMjuoRh0e0_0000001 84.8 91.4 
+Tom_Selleck/MVMjuoRh0e0_0000002 151.2 156.7 
+Tom_Selleck/MVMjuoRh0e0_0000003 157.3 162.3 
+Tom_Selleck/MVMjuoRh0e0_0000004 188.5 193.9 
+Tom_Selleck/MVMjuoRh0e0_0000005 267.4 274.5 
+Tom_Selleck/MVMjuoRh0e0_0000006 286.0 292.4 
+Tom_Selleck/MVMjuoRh0e0_0000007 302.8 311.0 

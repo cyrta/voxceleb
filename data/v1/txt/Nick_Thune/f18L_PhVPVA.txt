@@ -1,0 +1,10 @@
+POI: 			Nick_Thune 
+Youtube ID: 	f18L_PhVPVA 
+Video length: 	195.4 sec 
+Set (V): 		dev 
+ 
+Nick_Thune/f18L_PhVPVA_0000001 29.8 33.9 
+Nick_Thune/f18L_PhVPVA_0000002 45.9 51.5 
+Nick_Thune/f18L_PhVPVA_0000003 65.4 70.4 
+Nick_Thune/f18L_PhVPVA_0000004 90.4 96.0 
+Nick_Thune/f18L_PhVPVA_0000005 126.2 131.6 

@@ -1,0 +1,9 @@
+POI: 			Alexandra_Daddario 
+Youtube ID: 	mLjtx9dP0os 
+Video length: 	105.8 sec 
+Set (V): 		dev 
+ 
+Alexandra_Daddario/mLjtx9dP0os_0000001 02.5 16.0 
+Alexandra_Daddario/mLjtx9dP0os_0000002 16.6 29.9 
+Alexandra_Daddario/mLjtx9dP0os_0000003 30.8 39.5 
+Alexandra_Daddario/mLjtx9dP0os_0000004 67.6 100.2 

@@ -1,0 +1,11 @@
+POI: 			Hilary_Swank 
+Youtube ID: 	Up8GPGc99Cc 
+Video length: 	369.4 sec 
+Set (V): 		dev 
+ 
+Hilary_Swank/Up8GPGc99Cc_0000001 104.4 110.6 
+Hilary_Swank/Up8GPGc99Cc_0000002 162.8 173.4 
+Hilary_Swank/Up8GPGc99Cc_0000003 263.6 275.8 
+Hilary_Swank/Up8GPGc99Cc_0000004 287.9 297.4 
+Hilary_Swank/Up8GPGc99Cc_0000005 318.0 325.6 
+Hilary_Swank/Up8GPGc99Cc_0000006 331.3 338.2 

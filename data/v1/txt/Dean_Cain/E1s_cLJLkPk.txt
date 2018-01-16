@@ -1,0 +1,12 @@
+POI: 			Dean_Cain 
+Youtube ID: 	E1s_cLJLkPk 
+Video length: 	281.5 sec 
+Set (V): 		dev 
+ 
+Dean_Cain/E1s_cLJLkPk_0000001 36.2 42.8 
+Dean_Cain/E1s_cLJLkPk_0000002 155.4 162.6 
+Dean_Cain/E1s_cLJLkPk_0000003 166.7 175.5 
+Dean_Cain/E1s_cLJLkPk_0000004 184.4 199.0 
+Dean_Cain/E1s_cLJLkPk_0000005 208.9 218.0 
+Dean_Cain/E1s_cLJLkPk_0000006 225.5 232.8 
+Dean_Cain/E1s_cLJLkPk_0000007 240.8 247.0 

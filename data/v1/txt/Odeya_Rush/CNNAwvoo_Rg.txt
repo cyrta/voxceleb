@@ -1,0 +1,7 @@
+POI: 			Odeya_Rush 
+Youtube ID: 	CNNAwvoo_Rg 
+Video length: 	212.4 sec 
+Set (V): 		dev 
+ 
+Odeya_Rush/CNNAwvoo_Rg_0000001 56.4 60.9 
+Odeya_Rush/CNNAwvoo_Rg_0000002 125.4 132.9 

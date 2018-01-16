@@ -1,0 +1,30 @@
+POI: 			Carrie_Fisher 
+Youtube ID: 	wSvoGvXQZug 
+Video length: 	1660.6 sec 
+Set (V): 		dev 
+ 
+Carrie_Fisher/wSvoGvXQZug_0000001 191.2 196.4 
+Carrie_Fisher/wSvoGvXQZug_0000002 334.8 339.2 
+Carrie_Fisher/wSvoGvXQZug_0000003 410.2 417.4 
+Carrie_Fisher/wSvoGvXQZug_0000004 512.5 517.3 
+Carrie_Fisher/wSvoGvXQZug_0000005 637.6 642.6 
+Carrie_Fisher/wSvoGvXQZug_0000006 645.2 650.6 
+Carrie_Fisher/wSvoGvXQZug_0000007 743.9 748.0 
+Carrie_Fisher/wSvoGvXQZug_0000008 794.4 799.9 
+Carrie_Fisher/wSvoGvXQZug_0000009 816.3 823.1 
+Carrie_Fisher/wSvoGvXQZug_0000010 859.0 863.1 
+Carrie_Fisher/wSvoGvXQZug_0000011 903.0 907.3 
+Carrie_Fisher/wSvoGvXQZug_0000012 909.4 914.7 
+Carrie_Fisher/wSvoGvXQZug_0000013 1045.6 1051.9 
+Carrie_Fisher/wSvoGvXQZug_0000014 1147.6 1153.2 
+Carrie_Fisher/wSvoGvXQZug_0000015 1170.0 1175.4 
+Carrie_Fisher/wSvoGvXQZug_0000016 1196.4 1201.0 
+Carrie_Fisher/wSvoGvXQZug_0000017 1201.2 1206.1 
+Carrie_Fisher/wSvoGvXQZug_0000018 1250.1 1256.3 
+Carrie_Fisher/wSvoGvXQZug_0000019 1263.5 1267.8 
+Carrie_Fisher/wSvoGvXQZug_0000020 1292.2 1297.9 
+Carrie_Fisher/wSvoGvXQZug_0000021 1301.9 1307.4 
+Carrie_Fisher/wSvoGvXQZug_0000022 1354.2 1359.6 
+Carrie_Fisher/wSvoGvXQZug_0000023 1362.9 1369.2 
+Carrie_Fisher/wSvoGvXQZug_0000024 1373.9 1382.2 
+Carrie_Fisher/wSvoGvXQZug_0000025 1547.3 1552.3 

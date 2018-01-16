@@ -1,0 +1,8 @@
+POI: 			Alex_Borstein 
+Youtube ID: 	TuftZsOgdzs 
+Video length: 	239.8 sec 
+Set (V): 		dev 
+ 
+Alex_Borstein/TuftZsOgdzs_0000001 44.6 49.9 
+Alex_Borstein/TuftZsOgdzs_0000002 192.8 199.2 
+Alex_Borstein/TuftZsOgdzs_0000003 202.6 212.2 

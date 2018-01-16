@@ -1,0 +1,8 @@
+POI: 			Bingbing_Li 
+Youtube ID: 	G2hhy20mZ2M 
+Video length: 	93.7 sec 
+Set (V): 		dev 
+ 
+Bingbing_Li/G2hhy20mZ2M_0000001 39.5 43.5 
+Bingbing_Li/G2hhy20mZ2M_0000002 47.9 52.2 
+Bingbing_Li/G2hhy20mZ2M_0000003 60.4 68.5 

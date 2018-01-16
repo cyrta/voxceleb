@@ -1,0 +1,16 @@
+POI: 			Kelli_Berglund 
+Youtube ID: 	m37-njPAVV0 
+Video length: 	291.8 sec 
+Set (V): 		dev 
+ 
+Kelli_Berglund/m37-njPAVV0_0000001 38.0 46.6 
+Kelli_Berglund/m37-njPAVV0_0000002 53.6 61.0 
+Kelli_Berglund/m37-njPAVV0_0000003 72.7 77.3 
+Kelli_Berglund/m37-njPAVV0_0000004 77.4 82.6 
+Kelli_Berglund/m37-njPAVV0_0000005 74.3 79.0 
+Kelli_Berglund/m37-njPAVV0_0000006 108.9 115.0 
+Kelli_Berglund/m37-njPAVV0_0000007 137.5 141.8 
+Kelli_Berglund/m37-njPAVV0_0000008 143.9 148.2 
+Kelli_Berglund/m37-njPAVV0_0000009 152.2 156.9 
+Kelli_Berglund/m37-njPAVV0_0000010 178.7 183.4 
+Kelli_Berglund/m37-njPAVV0_0000011 236.2 243.6 

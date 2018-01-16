@@ -1,0 +1,8 @@
+POI: 			Steven_Yeun 
+Youtube ID: 	vZ_GgIiFdKE 
+Video length: 	139.8 sec 
+Set (V): 		dev 
+ 
+Steven_Yeun/vZ_GgIiFdKE_0000001 14.8 27.0 
+Steven_Yeun/vZ_GgIiFdKE_0000002 90.3 102.0 
+Steven_Yeun/vZ_GgIiFdKE_0000003 102.1 108.4 

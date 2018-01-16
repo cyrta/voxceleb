@@ -1,0 +1,8 @@
+POI: 			Mitchel_Musso 
+Youtube ID: 	Po7gcb3-uQk 
+Video length: 	96.6 sec 
+Set (V): 		dev 
+ 
+Mitchel_Musso/Po7gcb3-uQk_0000001 27.2 33.8 
+Mitchel_Musso/Po7gcb3-uQk_0000002 45.4 51.4 
+Mitchel_Musso/Po7gcb3-uQk_0000003 55.4 68.5 

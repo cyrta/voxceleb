@@ -1,0 +1,12 @@
+POI: 			Victoria_Rowell 
+Youtube ID: 	3yANsJPsZzM 
+Video length: 	535.2 sec 
+Set (V): 		dev 
+ 
+Victoria_Rowell/3yANsJPsZzM_0000001 72.6 85.6 
+Victoria_Rowell/3yANsJPsZzM_0000002 301.1 307.1 
+Victoria_Rowell/3yANsJPsZzM_0000003 307.3 317.6 
+Victoria_Rowell/3yANsJPsZzM_0000004 348.1 354.7 
+Victoria_Rowell/3yANsJPsZzM_0000005 403.9 408.0 
+Victoria_Rowell/3yANsJPsZzM_0000006 412.3 428.8 
+Victoria_Rowell/3yANsJPsZzM_0000007 487.5 505.3 

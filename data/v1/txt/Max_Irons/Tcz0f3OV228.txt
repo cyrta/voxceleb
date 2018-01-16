@@ -1,0 +1,7 @@
+POI: 			Max_Irons 
+Youtube ID: 	Tcz0f3OV228 
+Video length: 	194.0 sec 
+Set (V): 		dev 
+ 
+Max_Irons/Tcz0f3OV228_0000001 69.3 75.6 
+Max_Irons/Tcz0f3OV228_0000002 85.0 103.7 

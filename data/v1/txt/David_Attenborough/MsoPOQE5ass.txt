@@ -1,0 +1,7 @@
+POI: 			David_Attenborough 
+Youtube ID: 	MsoPOQE5ass 
+Video length: 	307.9 sec 
+Set (V): 		dev 
+ 
+David_Attenborough/MsoPOQE5ass_0000001 163.4 181.7 
+David_Attenborough/MsoPOQE5ass_0000002 218.5 225.9 

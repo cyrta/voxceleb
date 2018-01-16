@@ -1,0 +1,19 @@
+POI: 			Mariel_Hemingway 
+Youtube ID: 	R-zmdjPiXYA 
+Video length: 	342.5 sec 
+Set (V): 		dev 
+ 
+Mariel_Hemingway/R-zmdjPiXYA_0000001 32.0 37.2 
+Mariel_Hemingway/R-zmdjPiXYA_0000002 37.8 47.6 
+Mariel_Hemingway/R-zmdjPiXYA_0000003 66.2 85.1 
+Mariel_Hemingway/R-zmdjPiXYA_0000004 97.5 106.2 
+Mariel_Hemingway/R-zmdjPiXYA_0000005 109.4 120.4 
+Mariel_Hemingway/R-zmdjPiXYA_0000006 122.2 129.6 
+Mariel_Hemingway/R-zmdjPiXYA_0000007 130.0 138.8 
+Mariel_Hemingway/R-zmdjPiXYA_0000008 147.4 153.8 
+Mariel_Hemingway/R-zmdjPiXYA_0000009 156.6 169.1 
+Mariel_Hemingway/R-zmdjPiXYA_0000010 176.0 191.0 
+Mariel_Hemingway/R-zmdjPiXYA_0000011 193.9 214.2 
+Mariel_Hemingway/R-zmdjPiXYA_0000012 222.7 228.0 
+Mariel_Hemingway/R-zmdjPiXYA_0000013 277.2 286.7 
+Mariel_Hemingway/R-zmdjPiXYA_0000014 328.1 333.1 

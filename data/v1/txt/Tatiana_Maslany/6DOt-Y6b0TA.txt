@@ -1,0 +1,10 @@
+POI: 			Tatiana_Maslany 
+Youtube ID: 	6DOt-Y6b0TA 
+Video length: 	1020.3 sec 
+Set (V): 		dev 
+ 
+Tatiana_Maslany/6DOt-Y6b0TA_0000001 388.2 393.3 
+Tatiana_Maslany/6DOt-Y6b0TA_0000002 745.6 753.1 
+Tatiana_Maslany/6DOt-Y6b0TA_0000003 887.1 897.4 
+Tatiana_Maslany/6DOt-Y6b0TA_0000004 934.8 941.9 
+Tatiana_Maslany/6DOt-Y6b0TA_0000005 942.0 946.6 

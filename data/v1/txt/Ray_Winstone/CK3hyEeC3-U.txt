@@ -1,0 +1,7 @@
+POI: 			Ray_Winstone 
+Youtube ID: 	CK3hyEeC3-U 
+Video length: 	83.4 sec 
+Set (V): 		dev 
+ 
+Ray_Winstone/CK3hyEeC3-U_0000001 19.0 23.4 
+Ray_Winstone/CK3hyEeC3-U_0000002 38.9 43.4 

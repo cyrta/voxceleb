@@ -1,0 +1,24 @@
+POI: 			Nichelle_Nichols 
+Youtube ID: 	3hKKkGhEDoU 
+Video length: 	650.0 sec 
+Set (V): 		dev 
+ 
+Nichelle_Nichols/3hKKkGhEDoU_0000001 24.3 29.0 
+Nichelle_Nichols/3hKKkGhEDoU_0000002 90.8 97.6 
+Nichelle_Nichols/3hKKkGhEDoU_0000003 104.8 109.9 
+Nichelle_Nichols/3hKKkGhEDoU_0000004 122.6 128.7 
+Nichelle_Nichols/3hKKkGhEDoU_0000005 161.1 172.7 
+Nichelle_Nichols/3hKKkGhEDoU_0000006 192.2 198.9 
+Nichelle_Nichols/3hKKkGhEDoU_0000007 217.1 221.6 
+Nichelle_Nichols/3hKKkGhEDoU_0000008 246.5 253.6 
+Nichelle_Nichols/3hKKkGhEDoU_0000009 270.4 276.2 
+Nichelle_Nichols/3hKKkGhEDoU_0000010 306.7 311.5 
+Nichelle_Nichols/3hKKkGhEDoU_0000011 336.1 341.5 
+Nichelle_Nichols/3hKKkGhEDoU_0000012 355.3 359.6 
+Nichelle_Nichols/3hKKkGhEDoU_0000013 368.0 373.9 
+Nichelle_Nichols/3hKKkGhEDoU_0000014 379.7 384.0 
+Nichelle_Nichols/3hKKkGhEDoU_0000015 396.0 400.4 
+Nichelle_Nichols/3hKKkGhEDoU_0000016 411.8 417.3 
+Nichelle_Nichols/3hKKkGhEDoU_0000017 483.4 498.0 
+Nichelle_Nichols/3hKKkGhEDoU_0000018 507.0 512.5 
+Nichelle_Nichols/3hKKkGhEDoU_0000019 567.7 572.0 

@@ -1,0 +1,12 @@
+POI: 			Eugene_Levy 
+Youtube ID: 	FJOvOooCIvs 
+Video length: 	525.8 sec 
+Set (V): 		test 
+ 
+Eugene_Levy/FJOvOooCIvs_0000001 133.1 138.1 
+Eugene_Levy/FJOvOooCIvs_0000002 140.4 144.8 
+Eugene_Levy/FJOvOooCIvs_0000003 153.3 167.6 
+Eugene_Levy/FJOvOooCIvs_0000004 189.4 202.3 
+Eugene_Levy/FJOvOooCIvs_0000005 265.2 273.8 
+Eugene_Levy/FJOvOooCIvs_0000006 418.3 424.8 
+Eugene_Levy/FJOvOooCIvs_0000007 487.8 495.4 

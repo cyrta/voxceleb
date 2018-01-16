@@ -1,0 +1,9 @@
+POI: 			Ricky_Gervais 
+Youtube ID: 	DPDPVItsdg8 
+Video length: 	314.7 sec 
+Set (V): 		dev 
+ 
+Ricky_Gervais/DPDPVItsdg8_0000001 03.7 17.2 
+Ricky_Gervais/DPDPVItsdg8_0000002 77.6 85.8 
+Ricky_Gervais/DPDPVItsdg8_0000003 144.5 152.9 
+Ricky_Gervais/DPDPVItsdg8_0000004 168.3 172.4 

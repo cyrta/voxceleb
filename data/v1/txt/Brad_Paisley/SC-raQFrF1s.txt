@@ -1,0 +1,7 @@
+POI: 			Brad_Paisley 
+Youtube ID: 	SC-raQFrF1s 
+Video length: 	155.3 sec 
+Set (V): 		dev 
+ 
+Brad_Paisley/SC-raQFrF1s_0000001 59.9 63.8 
+Brad_Paisley/SC-raQFrF1s_0000002 112.4 117.3 

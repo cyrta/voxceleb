@@ -1,0 +1,12 @@
+POI: 			Elaine_Cassidy 
+Youtube ID: 	YcIZDAhexy8 
+Video length: 	169.3 sec 
+Set (V): 		test 
+ 
+Elaine_Cassidy/YcIZDAhexy8_0000001 03.4 10.0 
+Elaine_Cassidy/YcIZDAhexy8_0000002 28.8 42.0 
+Elaine_Cassidy/YcIZDAhexy8_0000003 53.4 62.7 
+Elaine_Cassidy/YcIZDAhexy8_0000004 63.2 87.2 
+Elaine_Cassidy/YcIZDAhexy8_0000005 106.6 111.0 
+Elaine_Cassidy/YcIZDAhexy8_0000006 112.0 130.3 
+Elaine_Cassidy/YcIZDAhexy8_0000007 145.6 162.9 

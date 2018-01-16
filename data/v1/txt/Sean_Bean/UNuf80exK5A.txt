@@ -1,0 +1,9 @@
+POI: 			Sean_Bean 
+Youtube ID: 	UNuf80exK5A 
+Video length: 	244.0 sec 
+Set (V): 		dev 
+ 
+Sean_Bean/UNuf80exK5A_0000001 57.3 65.6 
+Sean_Bean/UNuf80exK5A_0000002 113.9 119.4 
+Sean_Bean/UNuf80exK5A_0000003 134.5 139.7 
+Sean_Bean/UNuf80exK5A_0000004 201.7 205.7 

@@ -1,0 +1,7 @@
+POI: 			Robert_Vaughn 
+Youtube ID: 	CyZLomw2YYk 
+Video length: 	121.6 sec 
+Set (V): 		dev 
+ 
+Robert_Vaughn/CyZLomw2YYk_0000001 44.0 48.8 
+Robert_Vaughn/CyZLomw2YYk_0000002 57.2 62.2 

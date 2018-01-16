@@ -1,0 +1,7 @@
+POI: 			Joan_Rivers 
+Youtube ID: 	MHSGdLrqDCw 
+Video length: 	1243.1 sec 
+Set (V): 		dev 
+ 
+Joan_Rivers/MHSGdLrqDCw_0000001 309.5 315.8 
+Joan_Rivers/MHSGdLrqDCw_0000002 895.4 900.3 

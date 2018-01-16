@@ -1,0 +1,9 @@
+POI: 			Lou_Diamond_Phillips 
+Youtube ID: 	Jgnu-VryFno 
+Video length: 	191.4 sec 
+Set (V): 		dev 
+ 
+Lou_Diamond_Phillips/Jgnu-VryFno_0000001 44.2 48.6 
+Lou_Diamond_Phillips/Jgnu-VryFno_0000002 109.3 115.6 
+Lou_Diamond_Phillips/Jgnu-VryFno_0000003 115.4 129.2 
+Lou_Diamond_Phillips/Jgnu-VryFno_0000004 136.7 143.3 

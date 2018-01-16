@@ -1,0 +1,7 @@
+POI: 			Pete_Wentz 
+Youtube ID: 	K8OmJwAttBM 
+Video length: 	167.2 sec 
+Set (V): 		dev 
+ 
+Pete_Wentz/K8OmJwAttBM_0000001 44.9 50.0 
+Pete_Wentz/K8OmJwAttBM_0000002 53.0 57.6 

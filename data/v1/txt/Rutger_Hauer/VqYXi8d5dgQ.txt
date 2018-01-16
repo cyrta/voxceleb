@@ -1,0 +1,12 @@
+POI: 			Rutger_Hauer 
+Youtube ID: 	VqYXi8d5dgQ 
+Video length: 	697.9 sec 
+Set (V): 		dev 
+ 
+Rutger_Hauer/VqYXi8d5dgQ_0000001 102.4 109.6 
+Rutger_Hauer/VqYXi8d5dgQ_0000002 114.4 118.8 
+Rutger_Hauer/VqYXi8d5dgQ_0000003 142.0 155.0 
+Rutger_Hauer/VqYXi8d5dgQ_0000004 320.3 324.5 
+Rutger_Hauer/VqYXi8d5dgQ_0000005 463.6 467.6 
+Rutger_Hauer/VqYXi8d5dgQ_0000006 596.0 608.1 
+Rutger_Hauer/VqYXi8d5dgQ_0000007 648.2 656.4 

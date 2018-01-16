@@ -1,0 +1,10 @@
+POI: 			Nicki_Minaj 
+Youtube ID: 	WFz33N048eo 
+Video length: 	668.7 sec 
+Set (V): 		dev 
+ 
+Nicki_Minaj/WFz33N048eo_0000001 70.1 75.2 
+Nicki_Minaj/WFz33N048eo_0000002 76.4 84.6 
+Nicki_Minaj/WFz33N048eo_0000003 165.2 169.2 
+Nicki_Minaj/WFz33N048eo_0000004 471.8 476.3 
+Nicki_Minaj/WFz33N048eo_0000005 500.9 509.6 

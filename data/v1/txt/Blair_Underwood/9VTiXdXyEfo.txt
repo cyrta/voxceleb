@@ -1,0 +1,8 @@
+POI: 			Blair_Underwood 
+Youtube ID: 	9VTiXdXyEfo 
+Video length: 	117.0 sec 
+Set (V): 		dev 
+ 
+Blair_Underwood/9VTiXdXyEfo_0000001 20.1 30.0 
+Blair_Underwood/9VTiXdXyEfo_0000002 35.7 41.0 
+Blair_Underwood/9VTiXdXyEfo_0000003 62.3 67.0 

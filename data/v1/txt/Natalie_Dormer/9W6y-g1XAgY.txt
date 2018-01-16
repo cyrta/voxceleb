@@ -1,0 +1,12 @@
+POI: 			Natalie_Dormer 
+Youtube ID: 	9W6y-g1XAgY 
+Video length: 	647.1 sec 
+Set (V): 		dev 
+ 
+Natalie_Dormer/9W6y-g1XAgY_0000001 108.7 115.9 
+Natalie_Dormer/9W6y-g1XAgY_0000002 127.8 135.2 
+Natalie_Dormer/9W6y-g1XAgY_0000003 137.3 144.8 
+Natalie_Dormer/9W6y-g1XAgY_0000004 147.0 152.9 
+Natalie_Dormer/9W6y-g1XAgY_0000005 248.3 256.2 
+Natalie_Dormer/9W6y-g1XAgY_0000006 372.6 376.6 
+Natalie_Dormer/9W6y-g1XAgY_0000007 548.5 556.6 

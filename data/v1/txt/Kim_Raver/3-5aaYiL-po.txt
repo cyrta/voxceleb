@@ -1,0 +1,17 @@
+POI: 			Kim_Raver 
+Youtube ID: 	3-5aaYiL-po 
+Video length: 	151.8 sec 
+Set (V): 		dev 
+ 
+Kim_Raver/3-5aaYiL-po_0000001 06.2 15.8 
+Kim_Raver/3-5aaYiL-po_0000002 16.3 26.9 
+Kim_Raver/3-5aaYiL-po_0000003 30.4 38.6 
+Kim_Raver/3-5aaYiL-po_0000004 39.2 43.1 
+Kim_Raver/3-5aaYiL-po_0000005 50.5 57.4 
+Kim_Raver/3-5aaYiL-po_0000006 70.1 76.4 
+Kim_Raver/3-5aaYiL-po_0000007 82.8 88.6 
+Kim_Raver/3-5aaYiL-po_0000008 90.4 99.9 
+Kim_Raver/3-5aaYiL-po_0000009 105.5 116.0 
+Kim_Raver/3-5aaYiL-po_0000010 125.1 131.4 
+Kim_Raver/3-5aaYiL-po_0000011 133.2 140.4 
+Kim_Raver/3-5aaYiL-po_0000012 141.4 149.7 

@@ -1,0 +1,10 @@
+POI: 			Karl_Malden 
+Youtube ID: 	tbShrwwH250 
+Video length: 	233.4 sec 
+Set (V): 		dev 
+ 
+Karl_Malden/tbShrwwH250_0000001 33.3 41.0 
+Karl_Malden/tbShrwwH250_0000002 50.1 64.8 
+Karl_Malden/tbShrwwH250_0000003 159.8 163.9 
+Karl_Malden/tbShrwwH250_0000004 174.7 181.9 
+Karl_Malden/tbShrwwH250_0000005 204.6 210.7 

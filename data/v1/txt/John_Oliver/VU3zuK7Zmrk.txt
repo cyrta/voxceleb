@@ -1,0 +1,15 @@
+POI: 			John_Oliver 
+Youtube ID: 	VU3zuK7Zmrk 
+Video length: 	232.9 sec 
+Set (V): 		dev 
+ 
+John_Oliver/VU3zuK7Zmrk_0000001 03.3 08.0 
+John_Oliver/VU3zuK7Zmrk_0000002 28.3 33.6 
+John_Oliver/VU3zuK7Zmrk_0000003 40.0 45.4 
+John_Oliver/VU3zuK7Zmrk_0000004 55.9 63.6 
+John_Oliver/VU3zuK7Zmrk_0000005 69.1 79.7 
+John_Oliver/VU3zuK7Zmrk_0000006 81.8 90.4 
+John_Oliver/VU3zuK7Zmrk_0000007 137.0 141.2 
+John_Oliver/VU3zuK7Zmrk_0000008 143.1 148.8 
+John_Oliver/VU3zuK7Zmrk_0000009 161.9 167.3 
+John_Oliver/VU3zuK7Zmrk_0000010 168.2 181.6 

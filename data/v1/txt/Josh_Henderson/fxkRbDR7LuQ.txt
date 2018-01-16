@@ -1,0 +1,10 @@
+POI: 			Josh_Henderson 
+Youtube ID: 	fxkRbDR7LuQ 
+Video length: 	493.2 sec 
+Set (V): 		dev 
+ 
+Josh_Henderson/fxkRbDR7LuQ_0000001 116.2 121.8 
+Josh_Henderson/fxkRbDR7LuQ_0000002 122.0 147.5 
+Josh_Henderson/fxkRbDR7LuQ_0000003 149.5 153.7 
+Josh_Henderson/fxkRbDR7LuQ_0000004 296.3 301.6 
+Josh_Henderson/fxkRbDR7LuQ_0000005 302.0 309.0 

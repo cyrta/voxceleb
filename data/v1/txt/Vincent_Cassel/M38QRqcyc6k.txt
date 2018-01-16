@@ -1,0 +1,13 @@
+POI: 			Vincent_Cassel 
+Youtube ID: 	M38QRqcyc6k 
+Video length: 	185.7 sec 
+Set (V): 		dev 
+ 
+Vincent_Cassel/M38QRqcyc6k_0000001 31.8 40.0 
+Vincent_Cassel/M38QRqcyc6k_0000002 42.0 47.5 
+Vincent_Cassel/M38QRqcyc6k_0000003 47.6 53.6 
+Vincent_Cassel/M38QRqcyc6k_0000004 57.4 63.8 
+Vincent_Cassel/M38QRqcyc6k_0000005 71.4 76.7 
+Vincent_Cassel/M38QRqcyc6k_0000006 81.0 86.6 
+Vincent_Cassel/M38QRqcyc6k_0000007 92.2 106.5 
+Vincent_Cassel/M38QRqcyc6k_0000008 107.2 118.0 

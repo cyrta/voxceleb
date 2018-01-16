@@ -1,0 +1,8 @@
+POI: 			Teala_Dunn 
+Youtube ID: 	qs2kTWLxi0s 
+Video length: 	112.6 sec 
+Set (V): 		dev 
+ 
+Teala_Dunn/qs2kTWLxi0s_0000001 54.6 59.0 
+Teala_Dunn/qs2kTWLxi0s_0000002 74.0 78.8 
+Teala_Dunn/qs2kTWLxi0s_0000003 81.4 86.2 

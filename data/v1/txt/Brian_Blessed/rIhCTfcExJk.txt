@@ -1,0 +1,22 @@
+POI: 			Brian_Blessed 
+Youtube ID: 	rIhCTfcExJk 
+Video length: 	345.3 sec 
+Set (V): 		dev 
+ 
+Brian_Blessed/rIhCTfcExJk_0000001 30.2 36.1 
+Brian_Blessed/rIhCTfcExJk_0000002 40.6 46.9 
+Brian_Blessed/rIhCTfcExJk_0000003 47.7 53.2 
+Brian_Blessed/rIhCTfcExJk_0000004 71.8 77.5 
+Brian_Blessed/rIhCTfcExJk_0000005 78.3 104.6 
+Brian_Blessed/rIhCTfcExJk_0000006 115.6 119.6 
+Brian_Blessed/rIhCTfcExJk_0000007 131.2 141.6 
+Brian_Blessed/rIhCTfcExJk_0000008 120.5 125.0 
+Brian_Blessed/rIhCTfcExJk_0000009 131.2 136.6 
+Brian_Blessed/rIhCTfcExJk_0000010 158.1 171.9 
+Brian_Blessed/rIhCTfcExJk_0000011 211.3 222.1 
+Brian_Blessed/rIhCTfcExJk_0000012 227.8 241.0 
+Brian_Blessed/rIhCTfcExJk_0000013 246.7 261.8 
+Brian_Blessed/rIhCTfcExJk_0000014 270.8 280.6 
+Brian_Blessed/rIhCTfcExJk_0000015 281.3 287.5 
+Brian_Blessed/rIhCTfcExJk_0000016 308.4 318.0 
+Brian_Blessed/rIhCTfcExJk_0000017 318.2 324.5 

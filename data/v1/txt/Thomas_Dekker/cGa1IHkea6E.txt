@@ -1,0 +1,7 @@
+POI: 			Thomas_Dekker 
+Youtube ID: 	cGa1IHkea6E 
+Video length: 	302.4 sec 
+Set (V): 		dev 
+ 
+Thomas_Dekker/cGa1IHkea6E_0000001 55.0 59.6 
+Thomas_Dekker/cGa1IHkea6E_0000002 60.5 64.6 

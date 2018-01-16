@@ -1,0 +1,13 @@
+POI: 			Michael_Bay 
+Youtube ID: 	PI0I7fC_21g 
+Video length: 	249.7 sec 
+Set (V): 		dev 
+ 
+Michael_Bay/PI0I7fC_21g_0000001 13.1 18.8 
+Michael_Bay/PI0I7fC_21g_0000002 37.9 50.9 
+Michael_Bay/PI0I7fC_21g_0000003 56.4 60.6 
+Michael_Bay/PI0I7fC_21g_0000004 83.4 88.5 
+Michael_Bay/PI0I7fC_21g_0000005 90.4 94.6 
+Michael_Bay/PI0I7fC_21g_0000006 127.2 137.3 
+Michael_Bay/PI0I7fC_21g_0000007 200.9 206.2 
+Michael_Bay/PI0I7fC_21g_0000008 207.4 223.0 

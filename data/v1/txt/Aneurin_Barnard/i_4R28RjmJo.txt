@@ -1,0 +1,8 @@
+POI: 			Aneurin_Barnard 
+Youtube ID: 	i_4R28RjmJo 
+Video length: 	217.9 sec 
+Set (V): 		dev 
+ 
+Aneurin_Barnard/i_4R28RjmJo_0000001 27.6 38.6 
+Aneurin_Barnard/i_4R28RjmJo_0000002 65.6 72.3 
+Aneurin_Barnard/i_4R28RjmJo_0000003 145.3 151.2 

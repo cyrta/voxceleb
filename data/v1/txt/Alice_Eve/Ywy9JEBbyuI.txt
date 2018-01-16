@@ -1,0 +1,10 @@
+POI: 			Alice_Eve 
+Youtube ID: 	Ywy9JEBbyuI 
+Video length: 	179.7 sec 
+Set (V): 		dev 
+ 
+Alice_Eve/Ywy9JEBbyuI_0000001 17.6 21.6 
+Alice_Eve/Ywy9JEBbyuI_0000002 33.3 39.3 
+Alice_Eve/Ywy9JEBbyuI_0000003 60.3 66.0 
+Alice_Eve/Ywy9JEBbyuI_0000004 66.6 81.3 
+Alice_Eve/Ywy9JEBbyuI_0000005 89.8 95.9 

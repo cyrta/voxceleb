@@ -1,0 +1,9 @@
+POI: 			Michael_Cera 
+Youtube ID: 	M5nwGpC7Lyw 
+Video length: 	91.0 sec 
+Set (V): 		dev 
+ 
+Michael_Cera/M5nwGpC7Lyw_0000001 17.6 22.2 
+Michael_Cera/M5nwGpC7Lyw_0000002 63.8 69.1 
+Michael_Cera/M5nwGpC7Lyw_0000003 69.9 75.4 
+Michael_Cera/M5nwGpC7Lyw_0000004 77.8 82.3 

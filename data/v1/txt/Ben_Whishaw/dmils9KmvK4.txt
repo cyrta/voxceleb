@@ -1,0 +1,10 @@
+POI: 			Ben_Whishaw 
+Youtube ID: 	dmils9KmvK4 
+Video length: 	206.4 sec 
+Set (V): 		dev 
+ 
+Ben_Whishaw/dmils9KmvK4_0000001 72.4 76.8 
+Ben_Whishaw/dmils9KmvK4_0000002 84.8 91.1 
+Ben_Whishaw/dmils9KmvK4_0000003 96.6 101.7 
+Ben_Whishaw/dmils9KmvK4_0000004 136.0 141.4 
+Ben_Whishaw/dmils9KmvK4_0000005 163.1 169.7 

@@ -1,0 +1,17 @@
+POI: 			Marc_Forster 
+Youtube ID: 	XvpHkF5nksk 
+Video length: 	235.3 sec 
+Set (V): 		dev 
+ 
+Marc_Forster/XvpHkF5nksk_0000001 21.6 30.8 
+Marc_Forster/XvpHkF5nksk_0000002 39.2 47.4 
+Marc_Forster/XvpHkF5nksk_0000003 62.2 66.4 
+Marc_Forster/XvpHkF5nksk_0000004 70.1 76.1 
+Marc_Forster/XvpHkF5nksk_0000005 78.6 82.9 
+Marc_Forster/XvpHkF5nksk_0000006 91.8 101.2 
+Marc_Forster/XvpHkF5nksk_0000007 102.9 114.0 
+Marc_Forster/XvpHkF5nksk_0000008 116.4 125.7 
+Marc_Forster/XvpHkF5nksk_0000009 130.5 144.0 
+Marc_Forster/XvpHkF5nksk_0000010 155.4 167.6 
+Marc_Forster/XvpHkF5nksk_0000011 172.2 189.6 
+Marc_Forster/XvpHkF5nksk_0000012 223.8 233.6 

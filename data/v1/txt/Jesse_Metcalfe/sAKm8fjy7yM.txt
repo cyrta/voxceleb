@@ -1,0 +1,10 @@
+POI: 			Jesse_Metcalfe 
+Youtube ID: 	sAKm8fjy7yM 
+Video length: 	272.6 sec 
+Set (V): 		dev 
+ 
+Jesse_Metcalfe/sAKm8fjy7yM_0000001 16.1 28.4 
+Jesse_Metcalfe/sAKm8fjy7yM_0000002 33.6 39.2 
+Jesse_Metcalfe/sAKm8fjy7yM_0000003 50.4 57.3 
+Jesse_Metcalfe/sAKm8fjy7yM_0000004 188.7 199.7 
+Jesse_Metcalfe/sAKm8fjy7yM_0000005 202.2 210.0 

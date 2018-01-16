@@ -1,0 +1,9 @@
+POI: 			Johnny_Galecki 
+Youtube ID: 	3UiYDvMfNIE 
+Video length: 	366.2 sec 
+Set (V): 		dev 
+ 
+Johnny_Galecki/3UiYDvMfNIE_0000001 277.8 283.6 
+Johnny_Galecki/3UiYDvMfNIE_0000002 290.4 294.8 
+Johnny_Galecki/3UiYDvMfNIE_0000003 303.8 308.8 
+Johnny_Galecki/3UiYDvMfNIE_0000004 320.7 326.6 

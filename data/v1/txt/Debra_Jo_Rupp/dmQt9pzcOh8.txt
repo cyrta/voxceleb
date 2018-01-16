@@ -1,0 +1,12 @@
+POI: 			Debra_Jo_Rupp 
+Youtube ID: 	dmQt9pzcOh8 
+Video length: 	1178.5 sec 
+Set (V): 		dev 
+ 
+Debra_Jo_Rupp/dmQt9pzcOh8_0000001 558.8 564.0 
+Debra_Jo_Rupp/dmQt9pzcOh8_0000002 565.3 571.0 
+Debra_Jo_Rupp/dmQt9pzcOh8_0000003 621.6 628.1 
+Debra_Jo_Rupp/dmQt9pzcOh8_0000004 648.0 656.0 
+Debra_Jo_Rupp/dmQt9pzcOh8_0000005 656.9 662.8 
+Debra_Jo_Rupp/dmQt9pzcOh8_0000006 663.5 672.0 
+Debra_Jo_Rupp/dmQt9pzcOh8_0000007 672.3 676.3 

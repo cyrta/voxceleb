@@ -1,0 +1,8 @@
+POI: 			Anthony_Anderson 
+Youtube ID: 	2ZdivKBpMqY 
+Video length: 	367.3 sec 
+Set (V): 		dev 
+ 
+Anthony_Anderson/2ZdivKBpMqY_0000001 106.5 113.9 
+Anthony_Anderson/2ZdivKBpMqY_0000002 118.8 124.3 
+Anthony_Anderson/2ZdivKBpMqY_0000003 167.8 182.6 

@@ -1,0 +1,7 @@
+POI: 			Bill_Nighy 
+Youtube ID: 	xNrN_jNaJtg 
+Video length: 	219.2 sec 
+Set (V): 		dev 
+ 
+Bill_Nighy/xNrN_jNaJtg_0000001 34.2 39.0 
+Bill_Nighy/xNrN_jNaJtg_0000002 131.6 136.2 

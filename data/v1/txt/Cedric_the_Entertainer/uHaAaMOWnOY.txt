@@ -1,0 +1,12 @@
+POI: 			Cedric_the_Entertainer 
+Youtube ID: 	uHaAaMOWnOY 
+Video length: 	598.6 sec 
+Set (V): 		dev 
+ 
+Cedric_the_Entertainer/uHaAaMOWnOY_0000001 47.1 52.5 
+Cedric_the_Entertainer/uHaAaMOWnOY_0000002 187.2 191.7 
+Cedric_the_Entertainer/uHaAaMOWnOY_0000003 195.1 202.5 
+Cedric_the_Entertainer/uHaAaMOWnOY_0000004 204.7 210.0 
+Cedric_the_Entertainer/uHaAaMOWnOY_0000005 342.8 347.3 
+Cedric_the_Entertainer/uHaAaMOWnOY_0000006 365.4 370.4 
+Cedric_the_Entertainer/uHaAaMOWnOY_0000007 415.0 423.7 

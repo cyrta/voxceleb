@@ -1,0 +1,10 @@
+POI: 			Jon_Seda 
+Youtube ID: 	S2XDCa6pzhw 
+Video length: 	186.4 sec 
+Set (V): 		dev 
+ 
+Jon_Seda/S2XDCa6pzhw_0000001 46.5 51.8 
+Jon_Seda/S2XDCa6pzhw_0000002 92.3 97.4 
+Jon_Seda/S2XDCa6pzhw_0000003 119.9 124.6 
+Jon_Seda/S2XDCa6pzhw_0000004 159.5 168.8 
+Jon_Seda/S2XDCa6pzhw_0000005 169.0 175.4 

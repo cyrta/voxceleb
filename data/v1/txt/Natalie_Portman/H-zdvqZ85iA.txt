@@ -1,0 +1,8 @@
+POI: 			Natalie_Portman 
+Youtube ID: 	H-zdvqZ85iA 
+Video length: 	1469.1 sec 
+Set (V): 		dev 
+ 
+Natalie_Portman/H-zdvqZ85iA_0000001 206.2 210.4 
+Natalie_Portman/H-zdvqZ85iA_0000002 952.5 957.3 
+Natalie_Portman/H-zdvqZ85iA_0000003 1182.7 1186.7 

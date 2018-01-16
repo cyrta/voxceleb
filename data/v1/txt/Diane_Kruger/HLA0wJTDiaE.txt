@@ -1,0 +1,10 @@
+POI: 			Diane_Kruger 
+Youtube ID: 	HLA0wJTDiaE 
+Video length: 	261.6 sec 
+Set (V): 		dev 
+ 
+Diane_Kruger/HLA0wJTDiaE_0000001 103.7 125.8 
+Diane_Kruger/HLA0wJTDiaE_0000002 126.1 139.4 
+Diane_Kruger/HLA0wJTDiaE_0000003 145.2 152.9 
+Diane_Kruger/HLA0wJTDiaE_0000004 197.4 215.4 
+Diane_Kruger/HLA0wJTDiaE_0000005 225.4 238.0 

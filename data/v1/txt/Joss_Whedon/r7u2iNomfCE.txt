@@ -1,0 +1,9 @@
+POI: 			Joss_Whedon 
+Youtube ID: 	r7u2iNomfCE 
+Video length: 	279.0 sec 
+Set (V): 		dev 
+ 
+Joss_Whedon/r7u2iNomfCE_0000001 42.2 46.8 
+Joss_Whedon/r7u2iNomfCE_0000002 115.7 123.9 
+Joss_Whedon/r7u2iNomfCE_0000003 148.1 152.2 
+Joss_Whedon/r7u2iNomfCE_0000004 232.1 236.9 

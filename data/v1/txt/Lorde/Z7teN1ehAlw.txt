@@ -1,0 +1,9 @@
+POI: 			Lorde 
+Youtube ID: 	Z7teN1ehAlw 
+Video length: 	332.8 sec 
+Set (V): 		dev 
+ 
+Lorde/Z7teN1ehAlw_0000001 80.7 89.2 
+Lorde/Z7teN1ehAlw_0000002 106.2 111.2 
+Lorde/Z7teN1ehAlw_0000003 208.4 213.8 
+Lorde/Z7teN1ehAlw_0000004 252.5 257.0 

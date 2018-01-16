@@ -1,0 +1,12 @@
+POI: 			Katey_Sagal 
+Youtube ID: 	Ef97sS2evek 
+Video length: 	281.3 sec 
+Set (V): 		dev 
+ 
+Katey_Sagal/Ef97sS2evek_0000001 27.6 39.1 
+Katey_Sagal/Ef97sS2evek_0000002 61.0 69.2 
+Katey_Sagal/Ef97sS2evek_0000003 84.7 90.3 
+Katey_Sagal/Ef97sS2evek_0000004 100.3 111.1 
+Katey_Sagal/Ef97sS2evek_0000005 111.8 116.9 
+Katey_Sagal/Ef97sS2evek_0000006 132.3 162.0 
+Katey_Sagal/Ef97sS2evek_0000007 172.2 176.2 

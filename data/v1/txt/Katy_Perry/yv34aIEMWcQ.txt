@@ -1,0 +1,11 @@
+POI: 			Katy_Perry 
+Youtube ID: 	yv34aIEMWcQ 
+Video length: 	290.1 sec 
+Set (V): 		dev 
+ 
+Katy_Perry/yv34aIEMWcQ_0000001 40.7 46.2 
+Katy_Perry/yv34aIEMWcQ_0000002 93.2 98.3 
+Katy_Perry/yv34aIEMWcQ_0000003 102.7 109.5 
+Katy_Perry/yv34aIEMWcQ_0000004 118.4 123.2 
+Katy_Perry/yv34aIEMWcQ_0000005 180.4 190.2 
+Katy_Perry/yv34aIEMWcQ_0000006 195.8 213.8 

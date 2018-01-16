@@ -1,0 +1,11 @@
+POI: 			Bobby_Cannavale 
+Youtube ID: 	8_fIhKj5qqI 
+Video length: 	262.1 sec 
+Set (V): 		dev 
+ 
+Bobby_Cannavale/8_fIhKj5qqI_0000001 34.6 41.1 
+Bobby_Cannavale/8_fIhKj5qqI_0000002 48.5 60.6 
+Bobby_Cannavale/8_fIhKj5qqI_0000003 141.2 153.2 
+Bobby_Cannavale/8_fIhKj5qqI_0000004 162.8 170.4 
+Bobby_Cannavale/8_fIhKj5qqI_0000005 221.5 228.0 
+Bobby_Cannavale/8_fIhKj5qqI_0000006 229.2 233.9 

@@ -1,0 +1,7 @@
+POI: 			James_Maslow 
+Youtube ID: 	pl2WNMeHd3I 
+Video length: 	436.1 sec 
+Set (V): 		dev 
+ 
+James_Maslow/pl2WNMeHd3I_0000001 88.0 93.2 
+James_Maslow/pl2WNMeHd3I_0000002 397.0 401.2 

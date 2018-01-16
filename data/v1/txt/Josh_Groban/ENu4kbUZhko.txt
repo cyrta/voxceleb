@@ -1,0 +1,8 @@
+POI: 			Josh_Groban 
+Youtube ID: 	ENu4kbUZhko 
+Video length: 	595.9 sec 
+Set (V): 		dev 
+ 
+Josh_Groban/ENu4kbUZhko_0000001 15.0 24.2 
+Josh_Groban/ENu4kbUZhko_0000002 310.8 317.7 
+Josh_Groban/ENu4kbUZhko_0000003 332.7 338.9 

@@ -1,0 +1,15 @@
+POI: 			Smokey_Robinson 
+Youtube ID: 	UfIsKIYGfPQ 
+Video length: 	517.5 sec 
+Set (V): 		dev 
+ 
+Smokey_Robinson/UfIsKIYGfPQ_0000001 363.5 368.2 
+Smokey_Robinson/UfIsKIYGfPQ_0000002 368.8 379.6 
+Smokey_Robinson/UfIsKIYGfPQ_0000003 382.0 388.3 
+Smokey_Robinson/UfIsKIYGfPQ_0000004 393.9 399.2 
+Smokey_Robinson/UfIsKIYGfPQ_0000005 413.2 420.4 
+Smokey_Robinson/UfIsKIYGfPQ_0000006 420.5 429.6 
+Smokey_Robinson/UfIsKIYGfPQ_0000007 438.0 443.6 
+Smokey_Robinson/UfIsKIYGfPQ_0000008 443.7 490.3 
+Smokey_Robinson/UfIsKIYGfPQ_0000009 480.1 495.7 
+Smokey_Robinson/UfIsKIYGfPQ_0000010 497.5 502.3 

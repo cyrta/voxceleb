@@ -1,0 +1,8 @@
+POI: 			Holliday_Grainger 
+Youtube ID: 	q4s0M2lP_RE 
+Video length: 	149.1 sec 
+Set (V): 		dev 
+ 
+Holliday_Grainger/q4s0M2lP_RE_0000001 18.7 23.4 
+Holliday_Grainger/q4s0M2lP_RE_0000002 86.8 90.8 
+Holliday_Grainger/q4s0M2lP_RE_0000003 91.6 97.0 

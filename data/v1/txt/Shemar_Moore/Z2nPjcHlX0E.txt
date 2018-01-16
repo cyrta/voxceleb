@@ -1,0 +1,11 @@
+POI: 			Shemar_Moore 
+Youtube ID: 	Z2nPjcHlX0E 
+Video length: 	276.2 sec 
+Set (V): 		dev 
+ 
+Shemar_Moore/Z2nPjcHlX0E_0000001 12.4 16.8 
+Shemar_Moore/Z2nPjcHlX0E_0000002 34.1 39.7 
+Shemar_Moore/Z2nPjcHlX0E_0000003 106.8 111.0 
+Shemar_Moore/Z2nPjcHlX0E_0000004 121.7 126.0 
+Shemar_Moore/Z2nPjcHlX0E_0000005 203.7 208.0 
+Shemar_Moore/Z2nPjcHlX0E_0000006 220.7 224.7 

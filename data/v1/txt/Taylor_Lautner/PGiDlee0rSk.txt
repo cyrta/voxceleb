@@ -1,0 +1,9 @@
+POI: 			Taylor_Lautner 
+Youtube ID: 	PGiDlee0rSk 
+Video length: 	332.7 sec 
+Set (V): 		dev 
+ 
+Taylor_Lautner/PGiDlee0rSk_0000001 184.9 192.9 
+Taylor_Lautner/PGiDlee0rSk_0000002 188.8 192.8 
+Taylor_Lautner/PGiDlee0rSk_0000003 206.2 213.6 
+Taylor_Lautner/PGiDlee0rSk_0000004 285.6 295.0 

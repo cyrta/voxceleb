@@ -1,0 +1,12 @@
+POI: 			Casey_Wilson 
+Youtube ID: 	rYMn4S5dCTk 
+Video length: 	391.1 sec 
+Set (V): 		dev 
+ 
+Casey_Wilson/rYMn4S5dCTk_0000001 68.0 74.2 
+Casey_Wilson/rYMn4S5dCTk_0000002 224.4 234.6 
+Casey_Wilson/rYMn4S5dCTk_0000003 247.2 254.6 
+Casey_Wilson/rYMn4S5dCTk_0000004 275.0 279.1 
+Casey_Wilson/rYMn4S5dCTk_0000005 291.1 298.2 
+Casey_Wilson/rYMn4S5dCTk_0000006 300.0 306.2 
+Casey_Wilson/rYMn4S5dCTk_0000007 339.7 350.4 

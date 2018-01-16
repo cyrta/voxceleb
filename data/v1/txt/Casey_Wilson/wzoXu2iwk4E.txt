@@ -1,0 +1,16 @@
+POI: 			Casey_Wilson 
+Youtube ID: 	wzoXu2iwk4E 
+Video length: 	185.5 sec 
+Set (V): 		dev 
+ 
+Casey_Wilson/wzoXu2iwk4E_0000001 17.8 24.1 
+Casey_Wilson/wzoXu2iwk4E_0000002 24.6 34.5 
+Casey_Wilson/wzoXu2iwk4E_0000003 41.1 45.4 
+Casey_Wilson/wzoXu2iwk4E_0000004 51.2 64.4 
+Casey_Wilson/wzoXu2iwk4E_0000005 72.5 77.0 
+Casey_Wilson/wzoXu2iwk4E_0000006 84.0 88.9 
+Casey_Wilson/wzoXu2iwk4E_0000007 89.8 94.6 
+Casey_Wilson/wzoXu2iwk4E_0000008 96.8 100.8 
+Casey_Wilson/wzoXu2iwk4E_0000009 101.4 110.7 
+Casey_Wilson/wzoXu2iwk4E_0000010 118.3 124.6 
+Casey_Wilson/wzoXu2iwk4E_0000011 148.2 153.6 

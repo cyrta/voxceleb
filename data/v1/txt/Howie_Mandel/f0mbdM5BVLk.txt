@@ -1,0 +1,7 @@
+POI: 			Howie_Mandel 
+Youtube ID: 	f0mbdM5BVLk 
+Video length: 	734.3 sec 
+Set (V): 		dev 
+ 
+Howie_Mandel/f0mbdM5BVLk_0000001 59.2 64.2 
+Howie_Mandel/f0mbdM5BVLk_0000002 429.0 434.6 

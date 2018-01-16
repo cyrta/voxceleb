@@ -1,0 +1,32 @@
+POI: 			Mathieu_Kassovitz 
+Youtube ID: 	UhPJY0Be1K8 
+Video length: 	466.4 sec 
+Set (V): 		dev 
+ 
+Mathieu_Kassovitz/UhPJY0Be1K8_0000001 06.4 19.5 
+Mathieu_Kassovitz/UhPJY0Be1K8_0000002 49.8 56.8 
+Mathieu_Kassovitz/UhPJY0Be1K8_0000003 58.2 75.2 
+Mathieu_Kassovitz/UhPJY0Be1K8_0000004 75.6 82.6 
+Mathieu_Kassovitz/UhPJY0Be1K8_0000005 84.1 88.8 
+Mathieu_Kassovitz/UhPJY0Be1K8_0000006 111.8 121.8 
+Mathieu_Kassovitz/UhPJY0Be1K8_0000007 122.7 129.8 
+Mathieu_Kassovitz/UhPJY0Be1K8_0000008 154.5 159.0 
+Mathieu_Kassovitz/UhPJY0Be1K8_0000009 174.8 185.0 
+Mathieu_Kassovitz/UhPJY0Be1K8_0000010 191.1 199.5 
+Mathieu_Kassovitz/UhPJY0Be1K8_0000011 214.0 234.0 
+Mathieu_Kassovitz/UhPJY0Be1K8_0000012 237.3 242.5 
+Mathieu_Kassovitz/UhPJY0Be1K8_0000013 246.2 264.2 
+Mathieu_Kassovitz/UhPJY0Be1K8_0000014 267.1 271.1 
+Mathieu_Kassovitz/UhPJY0Be1K8_0000015 300.7 304.8 
+Mathieu_Kassovitz/UhPJY0Be1K8_0000016 305.7 310.5 
+Mathieu_Kassovitz/UhPJY0Be1K8_0000017 313.6 322.5 
+Mathieu_Kassovitz/UhPJY0Be1K8_0000018 328.1 337.5 
+Mathieu_Kassovitz/UhPJY0Be1K8_0000019 340.4 348.8 
+Mathieu_Kassovitz/UhPJY0Be1K8_0000020 384.2 389.4 
+Mathieu_Kassovitz/UhPJY0Be1K8_0000021 389.8 404.9 
+Mathieu_Kassovitz/UhPJY0Be1K8_0000022 409.1 414.9 
+Mathieu_Kassovitz/UhPJY0Be1K8_0000023 416.0 429.3 
+Mathieu_Kassovitz/UhPJY0Be1K8_0000024 432.5 436.9 
+Mathieu_Kassovitz/UhPJY0Be1K8_0000025 448.8 455.4 
+Mathieu_Kassovitz/UhPJY0Be1K8_0000026 424.5 429.4 
+Mathieu_Kassovitz/UhPJY0Be1K8_0000027 432.6 436.9 

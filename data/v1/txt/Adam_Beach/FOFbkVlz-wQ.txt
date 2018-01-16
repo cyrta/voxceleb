@@ -1,0 +1,7 @@
+POI: 			Adam_Beach 
+Youtube ID: 	FOFbkVlz-wQ 
+Video length: 	138.5 sec 
+Set (V): 		dev 
+ 
+Adam_Beach/FOFbkVlz-wQ_0000001 09.7 19.8 
+Adam_Beach/FOFbkVlz-wQ_0000002 37.2 47.8 

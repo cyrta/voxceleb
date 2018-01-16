@@ -1,0 +1,10 @@
+POI: 			Rami_Malek 
+Youtube ID: 	u83DArXRm3I 
+Video length: 	172.3 sec 
+Set (V): 		dev 
+ 
+Rami_Malek/u83DArXRm3I_0000001 19.0 23.5 
+Rami_Malek/u83DArXRm3I_0000002 50.1 55.8 
+Rami_Malek/u83DArXRm3I_0000003 67.1 71.0 
+Rami_Malek/u83DArXRm3I_0000004 120.3 140.0 
+Rami_Malek/u83DArXRm3I_0000005 141.0 146.6 

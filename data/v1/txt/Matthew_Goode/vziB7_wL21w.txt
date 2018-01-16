@@ -1,0 +1,18 @@
+POI: 			Matthew_Goode 
+Youtube ID: 	vziB7_wL21w 
+Video length: 	359.0 sec 
+Set (V): 		dev 
+ 
+Matthew_Goode/vziB7_wL21w_0000001 05.3 12.2 
+Matthew_Goode/vziB7_wL21w_0000002 16.2 22.0 
+Matthew_Goode/vziB7_wL21w_0000003 64.5 68.6 
+Matthew_Goode/vziB7_wL21w_0000004 77.7 81.8 
+Matthew_Goode/vziB7_wL21w_0000005 82.2 88.6 
+Matthew_Goode/vziB7_wL21w_0000006 95.0 102.0 
+Matthew_Goode/vziB7_wL21w_0000007 111.6 115.9 
+Matthew_Goode/vziB7_wL21w_0000008 167.6 178.4 
+Matthew_Goode/vziB7_wL21w_0000009 185.6 190.0 
+Matthew_Goode/vziB7_wL21w_0000010 195.5 199.4 
+Matthew_Goode/vziB7_wL21w_0000011 246.3 257.9 
+Matthew_Goode/vziB7_wL21w_0000012 309.0 321.5 
+Matthew_Goode/vziB7_wL21w_0000013 329.5 334.4 

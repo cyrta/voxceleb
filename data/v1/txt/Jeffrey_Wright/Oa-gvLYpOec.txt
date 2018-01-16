@@ -1,0 +1,44 @@
+POI: 			Jeffrey_Wright 
+Youtube ID: 	Oa-gvLYpOec 
+Video length: 	520.2 sec 
+Set (V): 		dev 
+ 
+Jeffrey_Wright/Oa-gvLYpOec_0000001 08.2 17.6 
+Jeffrey_Wright/Oa-gvLYpOec_0000002 20.5 26.8 
+Jeffrey_Wright/Oa-gvLYpOec_0000003 30.2 45.8 
+Jeffrey_Wright/Oa-gvLYpOec_0000004 49.0 55.5 
+Jeffrey_Wright/Oa-gvLYpOec_0000005 53.7 59.1 
+Jeffrey_Wright/Oa-gvLYpOec_0000006 69.7 73.8 
+Jeffrey_Wright/Oa-gvLYpOec_0000007 87.3 91.9 
+Jeffrey_Wright/Oa-gvLYpOec_0000008 94.2 101.4 
+Jeffrey_Wright/Oa-gvLYpOec_0000009 104.0 116.2 
+Jeffrey_Wright/Oa-gvLYpOec_0000010 114.9 123.5 
+Jeffrey_Wright/Oa-gvLYpOec_0000011 130.2 136.5 
+Jeffrey_Wright/Oa-gvLYpOec_0000012 143.1 148.9 
+Jeffrey_Wright/Oa-gvLYpOec_0000013 150.2 154.5 
+Jeffrey_Wright/Oa-gvLYpOec_0000014 155.6 165.0 
+Jeffrey_Wright/Oa-gvLYpOec_0000015 165.3 179.3 
+Jeffrey_Wright/Oa-gvLYpOec_0000016 182.1 190.4 
+Jeffrey_Wright/Oa-gvLYpOec_0000017 191.2 195.7 
+Jeffrey_Wright/Oa-gvLYpOec_0000018 208.8 215.5 
+Jeffrey_Wright/Oa-gvLYpOec_0000019 223.7 228.8 
+Jeffrey_Wright/Oa-gvLYpOec_0000020 229.1 237.9 
+Jeffrey_Wright/Oa-gvLYpOec_0000021 216.3 220.5 
+Jeffrey_Wright/Oa-gvLYpOec_0000022 261.5 269.3 
+Jeffrey_Wright/Oa-gvLYpOec_0000023 279.4 284.5 
+Jeffrey_Wright/Oa-gvLYpOec_0000024 285.6 292.1 
+Jeffrey_Wright/Oa-gvLYpOec_0000025 309.1 315.5 
+Jeffrey_Wright/Oa-gvLYpOec_0000026 315.7 320.8 
+Jeffrey_Wright/Oa-gvLYpOec_0000027 322.2 337.2 
+Jeffrey_Wright/Oa-gvLYpOec_0000028 352.2 360.6 
+Jeffrey_Wright/Oa-gvLYpOec_0000029 387.0 391.3 
+Jeffrey_Wright/Oa-gvLYpOec_0000030 414.2 420.4 
+Jeffrey_Wright/Oa-gvLYpOec_0000031 424.3 430.0 
+Jeffrey_Wright/Oa-gvLYpOec_0000032 430.6 438.3 
+Jeffrey_Wright/Oa-gvLYpOec_0000033 439.6 443.6 
+Jeffrey_Wright/Oa-gvLYpOec_0000034 444.0 449.6 
+Jeffrey_Wright/Oa-gvLYpOec_0000035 449.8 454.0 
+Jeffrey_Wright/Oa-gvLYpOec_0000036 454.6 472.6 
+Jeffrey_Wright/Oa-gvLYpOec_0000037 472.7 476.7 
+Jeffrey_Wright/Oa-gvLYpOec_0000038 490.6 494.6 
+Jeffrey_Wright/Oa-gvLYpOec_0000039 503.0 513.3 

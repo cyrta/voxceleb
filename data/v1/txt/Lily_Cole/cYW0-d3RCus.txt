@@ -1,0 +1,13 @@
+POI: 			Lily_Cole 
+Youtube ID: 	cYW0-d3RCus 
+Video length: 	184.3 sec 
+Set (V): 		dev 
+ 
+Lily_Cole/cYW0-d3RCus_0000001 15.0 22.2 
+Lily_Cole/cYW0-d3RCus_0000002 22.5 26.9 
+Lily_Cole/cYW0-d3RCus_0000003 33.6 39.6 
+Lily_Cole/cYW0-d3RCus_0000004 45.0 51.3 
+Lily_Cole/cYW0-d3RCus_0000005 55.9 73.5 
+Lily_Cole/cYW0-d3RCus_0000006 82.2 95.1 
+Lily_Cole/cYW0-d3RCus_0000007 100.5 107.3 
+Lily_Cole/cYW0-d3RCus_0000008 112.8 137.7 

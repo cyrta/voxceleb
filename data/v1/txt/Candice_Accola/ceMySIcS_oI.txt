@@ -1,0 +1,9 @@
+POI: 			Candice_Accola 
+Youtube ID: 	ceMySIcS_oI 
+Video length: 	527.0 sec 
+Set (V): 		dev 
+ 
+Candice_Accola/ceMySIcS_oI_0000001 103.9 108.2 
+Candice_Accola/ceMySIcS_oI_0000002 237.9 246.3 
+Candice_Accola/ceMySIcS_oI_0000003 313.5 318.1 
+Candice_Accola/ceMySIcS_oI_0000004 376.3 383.8 

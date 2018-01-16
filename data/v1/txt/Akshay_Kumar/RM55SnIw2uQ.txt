@@ -1,0 +1,13 @@
+POI: 			Akshay_Kumar 
+Youtube ID: 	RM55SnIw2uQ 
+Video length: 	901.6 sec 
+Set (V): 		dev 
+ 
+Akshay_Kumar/RM55SnIw2uQ_0000001 46.5 56.0 
+Akshay_Kumar/RM55SnIw2uQ_0000002 464.8 479.0 
+Akshay_Kumar/RM55SnIw2uQ_0000003 495.6 502.0 
+Akshay_Kumar/RM55SnIw2uQ_0000004 513.4 524.0 
+Akshay_Kumar/RM55SnIw2uQ_0000005 551.4 555.4 
+Akshay_Kumar/RM55SnIw2uQ_0000006 556.3 564.9 
+Akshay_Kumar/RM55SnIw2uQ_0000007 796.7 804.0 
+Akshay_Kumar/RM55SnIw2uQ_0000008 837.6 849.7 

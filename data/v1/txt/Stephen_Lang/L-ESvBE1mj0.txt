@@ -1,0 +1,16 @@
+POI: 			Stephen_Lang 
+Youtube ID: 	L-ESvBE1mj0 
+Video length: 	203.8 sec 
+Set (V): 		dev 
+ 
+Stephen_Lang/L-ESvBE1mj0_0000001 16.8 24.6 
+Stephen_Lang/L-ESvBE1mj0_0000002 26.4 37.4 
+Stephen_Lang/L-ESvBE1mj0_0000003 51.3 58.9 
+Stephen_Lang/L-ESvBE1mj0_0000004 59.7 64.7 
+Stephen_Lang/L-ESvBE1mj0_0000005 66.3 72.8 
+Stephen_Lang/L-ESvBE1mj0_0000006 91.7 98.2 
+Stephen_Lang/L-ESvBE1mj0_0000007 99.2 106.7 
+Stephen_Lang/L-ESvBE1mj0_0000008 112.3 124.0 
+Stephen_Lang/L-ESvBE1mj0_0000009 141.1 145.4 
+Stephen_Lang/L-ESvBE1mj0_0000010 155.0 162.0 
+Stephen_Lang/L-ESvBE1mj0_0000011 175.4 183.0 

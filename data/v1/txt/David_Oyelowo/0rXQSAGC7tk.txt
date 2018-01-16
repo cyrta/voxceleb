@@ -1,0 +1,12 @@
+POI: 			David_Oyelowo 
+Youtube ID: 	0rXQSAGC7tk 
+Video length: 	453.9 sec 
+Set (V): 		dev 
+ 
+David_Oyelowo/0rXQSAGC7tk_0000001 69.6 75.0 
+David_Oyelowo/0rXQSAGC7tk_0000002 100.8 111.0 
+David_Oyelowo/0rXQSAGC7tk_0000003 115.0 123.3 
+David_Oyelowo/0rXQSAGC7tk_0000004 179.0 185.8 
+David_Oyelowo/0rXQSAGC7tk_0000005 294.6 315.7 
+David_Oyelowo/0rXQSAGC7tk_0000006 323.4 342.9 
+David_Oyelowo/0rXQSAGC7tk_0000007 355.1 363.8 

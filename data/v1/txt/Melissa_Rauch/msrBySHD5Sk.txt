@@ -1,0 +1,13 @@
+POI: 			Melissa_Rauch 
+Youtube ID: 	msrBySHD5Sk 
+Video length: 	221.2 sec 
+Set (V): 		dev 
+ 
+Melissa_Rauch/msrBySHD5Sk_0000001 00.8 27.6 
+Melissa_Rauch/msrBySHD5Sk_0000002 30.3 35.1 
+Melissa_Rauch/msrBySHD5Sk_0000003 45.5 50.6 
+Melissa_Rauch/msrBySHD5Sk_0000004 52.4 95.4 
+Melissa_Rauch/msrBySHD5Sk_0000005 104.8 124.1 
+Melissa_Rauch/msrBySHD5Sk_0000006 124.2 182.8 
+Melissa_Rauch/msrBySHD5Sk_0000007 192.1 204.5 
+Melissa_Rauch/msrBySHD5Sk_0000008 204.7 219.8 

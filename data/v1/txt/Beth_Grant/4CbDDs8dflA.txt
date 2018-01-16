@@ -1,0 +1,8 @@
+POI: 			Beth_Grant 
+Youtube ID: 	4CbDDs8dflA 
+Video length: 	266.1 sec 
+Set (V): 		dev 
+ 
+Beth_Grant/4CbDDs8dflA_0000001 37.2 49.2 
+Beth_Grant/4CbDDs8dflA_0000002 115.1 128.3 
+Beth_Grant/4CbDDs8dflA_0000003 252.2 259.8 

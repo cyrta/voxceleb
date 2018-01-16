@@ -1,0 +1,25 @@
+POI: 			Tom_Bergeron 
+Youtube ID: 	9nC6y4_v1O8 
+Video length: 	259.3 sec 
+Set (V): 		dev 
+ 
+Tom_Bergeron/9nC6y4_v1O8_0000001 05.9 10.9 
+Tom_Bergeron/9nC6y4_v1O8_0000002 12.8 28.3 
+Tom_Bergeron/9nC6y4_v1O8_0000003 29.0 51.9 
+Tom_Bergeron/9nC6y4_v1O8_0000004 56.0 61.6 
+Tom_Bergeron/9nC6y4_v1O8_0000005 61.8 66.7 
+Tom_Bergeron/9nC6y4_v1O8_0000006 70.6 78.1 
+Tom_Bergeron/9nC6y4_v1O8_0000007 78.4 84.0 
+Tom_Bergeron/9nC6y4_v1O8_0000008 85.0 91.1 
+Tom_Bergeron/9nC6y4_v1O8_0000009 93.1 100.8 
+Tom_Bergeron/9nC6y4_v1O8_0000010 101.9 118.9 
+Tom_Bergeron/9nC6y4_v1O8_0000011 119.2 135.9 
+Tom_Bergeron/9nC6y4_v1O8_0000012 137.6 142.8 
+Tom_Bergeron/9nC6y4_v1O8_0000013 144.2 154.3 
+Tom_Bergeron/9nC6y4_v1O8_0000014 156.2 173.0 
+Tom_Bergeron/9nC6y4_v1O8_0000015 175.2 187.0 
+Tom_Bergeron/9nC6y4_v1O8_0000016 206.5 213.0 
+Tom_Bergeron/9nC6y4_v1O8_0000017 191.6 197.2 
+Tom_Bergeron/9nC6y4_v1O8_0000018 197.9 211.6 
+Tom_Bergeron/9nC6y4_v1O8_0000019 217.7 231.2 
+Tom_Bergeron/9nC6y4_v1O8_0000020 236.8 246.5 

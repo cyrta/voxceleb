@@ -1,0 +1,13 @@
+POI: 			Roger_Ebert 
+Youtube ID: 	j-Myo6u306M 
+Video length: 	356.8 sec 
+Set (V): 		dev 
+ 
+Roger_Ebert/j-Myo6u306M_0000001 36.9 52.3 
+Roger_Ebert/j-Myo6u306M_0000002 76.6 84.7 
+Roger_Ebert/j-Myo6u306M_0000003 121.1 135.9 
+Roger_Ebert/j-Myo6u306M_0000004 144.0 149.8 
+Roger_Ebert/j-Myo6u306M_0000005 154.3 169.6 
+Roger_Ebert/j-Myo6u306M_0000006 253.7 261.8 
+Roger_Ebert/j-Myo6u306M_0000007 280.6 303.9 
+Roger_Ebert/j-Myo6u306M_0000008 334.0 349.4 

@@ -1,0 +1,22 @@
+POI: 			Elodie_Yung 
+Youtube ID: 	sf4uMnkYFG8 
+Video length: 	435.3 sec 
+Set (V): 		test 
+ 
+Elodie_Yung/sf4uMnkYFG8_0000001 35.8 46.2 
+Elodie_Yung/sf4uMnkYFG8_0000002 46.4 52.0 
+Elodie_Yung/sf4uMnkYFG8_0000003 55.6 67.4 
+Elodie_Yung/sf4uMnkYFG8_0000004 72.2 87.1 
+Elodie_Yung/sf4uMnkYFG8_0000005 88.1 97.6 
+Elodie_Yung/sf4uMnkYFG8_0000006 119.9 130.8 
+Elodie_Yung/sf4uMnkYFG8_0000007 140.8 149.8 
+Elodie_Yung/sf4uMnkYFG8_0000008 153.1 166.1 
+Elodie_Yung/sf4uMnkYFG8_0000009 184.0 195.4 
+Elodie_Yung/sf4uMnkYFG8_0000010 195.8 221.6 
+Elodie_Yung/sf4uMnkYFG8_0000011 236.2 247.7 
+Elodie_Yung/sf4uMnkYFG8_0000012 258.3 262.4 
+Elodie_Yung/sf4uMnkYFG8_0000013 276.8 321.4 
+Elodie_Yung/sf4uMnkYFG8_0000014 336.6 343.0 
+Elodie_Yung/sf4uMnkYFG8_0000015 344.9 349.9 
+Elodie_Yung/sf4uMnkYFG8_0000016 352.5 359.4 
+Elodie_Yung/sf4uMnkYFG8_0000017 383.6 394.4 

@@ -1,0 +1,10 @@
+POI: 			Wendy_Williams 
+Youtube ID: 	r4zJUzfLnGw 
+Video length: 	693.3 sec 
+Set (V): 		dev 
+ 
+Wendy_Williams/r4zJUzfLnGw_0000001 05.6 09.5 
+Wendy_Williams/r4zJUzfLnGw_0000002 184.5 188.5 
+Wendy_Williams/r4zJUzfLnGw_0000003 213.1 217.6 
+Wendy_Williams/r4zJUzfLnGw_0000004 250.8 268.1 
+Wendy_Williams/r4zJUzfLnGw_0000005 370.1 379.6 

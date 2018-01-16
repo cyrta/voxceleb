@@ -1,0 +1,11 @@
+POI: 			Jessie_J 
+Youtube ID: 	S86BrmeYhzg 
+Video length: 	554.8 sec 
+Set (V): 		dev 
+ 
+Jessie_J/S86BrmeYhzg_0000001 51.3 59.7 
+Jessie_J/S86BrmeYhzg_0000002 328.7 334.7 
+Jessie_J/S86BrmeYhzg_0000003 351.7 361.5 
+Jessie_J/S86BrmeYhzg_0000004 397.3 406.3 
+Jessie_J/S86BrmeYhzg_0000005 507.0 512.4 
+Jessie_J/S86BrmeYhzg_0000006 520.6 526.0 

@@ -1,0 +1,14 @@
+POI: 			Sarah_Gadon 
+Youtube ID: 	nioUNKV0uZc 
+Video length: 	230.7 sec 
+Set (V): 		dev 
+ 
+Sarah_Gadon/nioUNKV0uZc_0000001 62.1 72.3 
+Sarah_Gadon/nioUNKV0uZc_0000002 80.2 85.2 
+Sarah_Gadon/nioUNKV0uZc_0000003 151.6 168.5 
+Sarah_Gadon/nioUNKV0uZc_0000004 173.1 177.6 
+Sarah_Gadon/nioUNKV0uZc_0000005 178.1 182.1 
+Sarah_Gadon/nioUNKV0uZc_0000006 182.6 187.5 
+Sarah_Gadon/nioUNKV0uZc_0000007 192.3 197.1 
+Sarah_Gadon/nioUNKV0uZc_0000008 199.4 204.4 
+Sarah_Gadon/nioUNKV0uZc_0000009 213.0 220.4 

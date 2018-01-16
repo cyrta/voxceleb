@@ -1,0 +1,9 @@
+POI: 			Misha_Collins 
+Youtube ID: 	wDrsl-bPnaw 
+Video length: 	235.7 sec 
+Set (V): 		dev 
+ 
+Misha_Collins/wDrsl-bPnaw_0000001 88.1 97.6 
+Misha_Collins/wDrsl-bPnaw_0000002 99.7 106.2 
+Misha_Collins/wDrsl-bPnaw_0000003 106.4 112.0 
+Misha_Collins/wDrsl-bPnaw_0000004 114.3 121.6 

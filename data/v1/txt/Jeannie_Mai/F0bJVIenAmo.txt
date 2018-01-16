@@ -1,0 +1,43 @@
+POI: 			Jeannie_Mai 
+Youtube ID: 	F0bJVIenAmo 
+Video length: 	3085.6 sec 
+Set (V): 		dev 
+ 
+Jeannie_Mai/F0bJVIenAmo_0000001 88.6 99.1 
+Jeannie_Mai/F0bJVIenAmo_0000002 122.6 126.6 
+Jeannie_Mai/F0bJVIenAmo_0000003 145.0 150.0 
+Jeannie_Mai/F0bJVIenAmo_0000004 197.0 201.0 
+Jeannie_Mai/F0bJVIenAmo_0000005 218.0 225.1 
+Jeannie_Mai/F0bJVIenAmo_0000006 297.2 307.6 
+Jeannie_Mai/F0bJVIenAmo_0000007 326.0 337.7 
+Jeannie_Mai/F0bJVIenAmo_0000008 434.8 439.2 
+Jeannie_Mai/F0bJVIenAmo_0000009 439.6 456.6 
+Jeannie_Mai/F0bJVIenAmo_0000010 459.8 464.0 
+Jeannie_Mai/F0bJVIenAmo_0000011 506.4 510.6 
+Jeannie_Mai/F0bJVIenAmo_0000012 517.2 521.2 
+Jeannie_Mai/F0bJVIenAmo_0000013 527.3 532.0 
+Jeannie_Mai/F0bJVIenAmo_0000014 551.7 556.0 
+Jeannie_Mai/F0bJVIenAmo_0000015 570.2 576.4 
+Jeannie_Mai/F0bJVIenAmo_0000016 597.6 602.2 
+Jeannie_Mai/F0bJVIenAmo_0000017 631.2 635.4 
+Jeannie_Mai/F0bJVIenAmo_0000018 676.0 680.4 
+Jeannie_Mai/F0bJVIenAmo_0000019 694.0 701.4 
+Jeannie_Mai/F0bJVIenAmo_0000020 722.6 727.0 
+Jeannie_Mai/F0bJVIenAmo_0000021 753.0 758.2 
+Jeannie_Mai/F0bJVIenAmo_0000022 803.8 807.8 
+Jeannie_Mai/F0bJVIenAmo_0000023 815.5 821.8 
+Jeannie_Mai/F0bJVIenAmo_0000024 829.8 836.0 
+Jeannie_Mai/F0bJVIenAmo_0000025 837.0 847.0 
+Jeannie_Mai/F0bJVIenAmo_0000026 889.0 900.0 
+Jeannie_Mai/F0bJVIenAmo_0000027 918.0 932.0 
+Jeannie_Mai/F0bJVIenAmo_0000028 948.9 961.3 
+Jeannie_Mai/F0bJVIenAmo_0000029 972.1 978.1 
+Jeannie_Mai/F0bJVIenAmo_0000030 983.4 990.6 
+Jeannie_Mai/F0bJVIenAmo_0000031 1015.8 1032.2 
+Jeannie_Mai/F0bJVIenAmo_0000032 1048.5 1053.9 
+Jeannie_Mai/F0bJVIenAmo_0000033 1060.3 1079.4 
+Jeannie_Mai/F0bJVIenAmo_0000034 1469.9 1474.6 
+Jeannie_Mai/F0bJVIenAmo_0000035 1497.3 1506.1 
+Jeannie_Mai/F0bJVIenAmo_0000036 1697.8 1703.0 
+Jeannie_Mai/F0bJVIenAmo_0000037 2214.1 2218.2 
+Jeannie_Mai/F0bJVIenAmo_0000038 2356.2 2361.0 

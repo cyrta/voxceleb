@@ -1,0 +1,9 @@
+POI: 			Jeffrey_Tambor 
+Youtube ID: 	6-9ZLfEQDVo 
+Video length: 	614.7 sec 
+Set (V): 		dev 
+ 
+Jeffrey_Tambor/6-9ZLfEQDVo_0000001 256.4 268.6 
+Jeffrey_Tambor/6-9ZLfEQDVo_0000002 282.0 286.6 
+Jeffrey_Tambor/6-9ZLfEQDVo_0000003 300.2 307.1 
+Jeffrey_Tambor/6-9ZLfEQDVo_0000004 536.8 543.9 

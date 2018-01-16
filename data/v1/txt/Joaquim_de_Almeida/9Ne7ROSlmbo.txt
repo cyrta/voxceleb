@@ -1,0 +1,44 @@
+POI: 			Joaquim_de_Almeida 
+Youtube ID: 	9Ne7ROSlmbo 
+Video length: 	612.3 sec 
+Set (V): 		dev 
+ 
+Joaquim_de_Almeida/9Ne7ROSlmbo_0000001 21.6 28.2 
+Joaquim_de_Almeida/9Ne7ROSlmbo_0000002 35.2 41.7 
+Joaquim_de_Almeida/9Ne7ROSlmbo_0000003 47.4 57.7 
+Joaquim_de_Almeida/9Ne7ROSlmbo_0000004 57.8 67.5 
+Joaquim_de_Almeida/9Ne7ROSlmbo_0000005 81.2 86.8 
+Joaquim_de_Almeida/9Ne7ROSlmbo_0000006 87.0 93.0 
+Joaquim_de_Almeida/9Ne7ROSlmbo_0000007 93.1 101.4 
+Joaquim_de_Almeida/9Ne7ROSlmbo_0000008 101.4 112.7 
+Joaquim_de_Almeida/9Ne7ROSlmbo_0000009 120.8 126.7 
+Joaquim_de_Almeida/9Ne7ROSlmbo_0000010 133.4 149.2 
+Joaquim_de_Almeida/9Ne7ROSlmbo_0000011 149.8 158.6 
+Joaquim_de_Almeida/9Ne7ROSlmbo_0000012 158.7 164.4 
+Joaquim_de_Almeida/9Ne7ROSlmbo_0000013 178.3 194.4 
+Joaquim_de_Almeida/9Ne7ROSlmbo_0000014 201.9 211.6 
+Joaquim_de_Almeida/9Ne7ROSlmbo_0000015 213.6 217.6 
+Joaquim_de_Almeida/9Ne7ROSlmbo_0000016 232.8 245.6 
+Joaquim_de_Almeida/9Ne7ROSlmbo_0000017 245.8 253.4 
+Joaquim_de_Almeida/9Ne7ROSlmbo_0000018 267.5 274.5 
+Joaquim_de_Almeida/9Ne7ROSlmbo_0000019 275.5 292.0 
+Joaquim_de_Almeida/9Ne7ROSlmbo_0000020 315.9 321.5 
+Joaquim_de_Almeida/9Ne7ROSlmbo_0000021 327.5 336.0 
+Joaquim_de_Almeida/9Ne7ROSlmbo_0000022 338.9 350.6 
+Joaquim_de_Almeida/9Ne7ROSlmbo_0000023 351.2 359.0 
+Joaquim_de_Almeida/9Ne7ROSlmbo_0000024 362.1 369.9 
+Joaquim_de_Almeida/9Ne7ROSlmbo_0000025 370.4 376.2 
+Joaquim_de_Almeida/9Ne7ROSlmbo_0000026 388.8 397.2 
+Joaquim_de_Almeida/9Ne7ROSlmbo_0000027 403.6 409.3 
+Joaquim_de_Almeida/9Ne7ROSlmbo_0000028 412.7 429.2 
+Joaquim_de_Almeida/9Ne7ROSlmbo_0000029 434.0 439.3 
+Joaquim_de_Almeida/9Ne7ROSlmbo_0000030 451.8 457.2 
+Joaquim_de_Almeida/9Ne7ROSlmbo_0000031 463.3 467.9 
+Joaquim_de_Almeida/9Ne7ROSlmbo_0000032 477.8 485.7 
+Joaquim_de_Almeida/9Ne7ROSlmbo_0000033 524.2 537.3 
+Joaquim_de_Almeida/9Ne7ROSlmbo_0000034 541.8 545.9 
+Joaquim_de_Almeida/9Ne7ROSlmbo_0000035 546.0 552.7 
+Joaquim_de_Almeida/9Ne7ROSlmbo_0000036 559.2 566.2 
+Joaquim_de_Almeida/9Ne7ROSlmbo_0000037 568.2 572.8 
+Joaquim_de_Almeida/9Ne7ROSlmbo_0000038 579.8 584.5 
+Joaquim_de_Almeida/9Ne7ROSlmbo_0000039 589.0 594.3 

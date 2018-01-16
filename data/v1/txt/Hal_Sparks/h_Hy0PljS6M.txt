@@ -1,0 +1,13 @@
+POI: 			Hal_Sparks 
+Youtube ID: 	h_Hy0PljS6M 
+Video length: 	378.1 sec 
+Set (V): 		dev 
+ 
+Hal_Sparks/h_Hy0PljS6M_0000001 24.4 42.5 
+Hal_Sparks/h_Hy0PljS6M_0000002 42.9 52.0 
+Hal_Sparks/h_Hy0PljS6M_0000003 53.8 66.6 
+Hal_Sparks/h_Hy0PljS6M_0000004 99.9 111.7 
+Hal_Sparks/h_Hy0PljS6M_0000005 153.4 164.6 
+Hal_Sparks/h_Hy0PljS6M_0000006 166.8 175.3 
+Hal_Sparks/h_Hy0PljS6M_0000007 175.6 188.6 
+Hal_Sparks/h_Hy0PljS6M_0000008 207.0 213.0 

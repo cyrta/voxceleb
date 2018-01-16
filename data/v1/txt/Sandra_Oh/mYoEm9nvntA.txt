@@ -1,0 +1,14 @@
+POI: 			Sandra_Oh 
+Youtube ID: 	mYoEm9nvntA 
+Video length: 	913.0 sec 
+Set (V): 		dev 
+ 
+Sandra_Oh/mYoEm9nvntA_0000001 37.5 41.9 
+Sandra_Oh/mYoEm9nvntA_0000002 137.6 142.4 
+Sandra_Oh/mYoEm9nvntA_0000003 164.4 168.7 
+Sandra_Oh/mYoEm9nvntA_0000004 467.1 472.6 
+Sandra_Oh/mYoEm9nvntA_0000005 504.0 510.9 
+Sandra_Oh/mYoEm9nvntA_0000006 532.8 537.4 
+Sandra_Oh/mYoEm9nvntA_0000007 720.4 725.2 
+Sandra_Oh/mYoEm9nvntA_0000008 775.3 779.8 
+Sandra_Oh/mYoEm9nvntA_0000009 798.8 803.0 

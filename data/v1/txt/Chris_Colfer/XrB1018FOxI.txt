@@ -1,0 +1,8 @@
+POI: 			Chris_Colfer 
+Youtube ID: 	XrB1018FOxI 
+Video length: 	216.0 sec 
+Set (V): 		dev 
+ 
+Chris_Colfer/XrB1018FOxI_0000001 30.0 34.0 
+Chris_Colfer/XrB1018FOxI_0000002 56.2 63.8 
+Chris_Colfer/XrB1018FOxI_0000003 165.6 170.8 

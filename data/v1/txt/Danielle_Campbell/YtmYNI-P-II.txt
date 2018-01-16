@@ -1,0 +1,12 @@
+POI: 			Danielle_Campbell 
+Youtube ID: 	YtmYNI-P-II 
+Video length: 	769.0 sec 
+Set (V): 		dev 
+ 
+Danielle_Campbell/YtmYNI-P-II_0000001 56.5 61.6 
+Danielle_Campbell/YtmYNI-P-II_0000002 115.6 123.0 
+Danielle_Campbell/YtmYNI-P-II_0000003 145.4 153.4 
+Danielle_Campbell/YtmYNI-P-II_0000004 177.7 196.7 
+Danielle_Campbell/YtmYNI-P-II_0000005 392.6 396.8 
+Danielle_Campbell/YtmYNI-P-II_0000006 735.1 739.6 
+Danielle_Campbell/YtmYNI-P-II_0000007 740.3 749.0 

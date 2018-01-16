@@ -1,0 +1,14 @@
+POI: 			Kristen_Bell 
+Youtube ID: 	gZwwaTAe_W0 
+Video length: 	425.0 sec 
+Set (V): 		dev 
+ 
+Kristen_Bell/gZwwaTAe_W0_0000001 31.0 38.4 
+Kristen_Bell/gZwwaTAe_W0_0000002 74.7 80.8 
+Kristen_Bell/gZwwaTAe_W0_0000003 194.7 199.1 
+Kristen_Bell/gZwwaTAe_W0_0000004 206.4 212.0 
+Kristen_Bell/gZwwaTAe_W0_0000005 239.8 246.0 
+Kristen_Bell/gZwwaTAe_W0_0000006 273.6 280.2 
+Kristen_Bell/gZwwaTAe_W0_0000007 293.2 302.3 
+Kristen_Bell/gZwwaTAe_W0_0000008 304.3 309.6 
+Kristen_Bell/gZwwaTAe_W0_0000009 327.2 338.1 

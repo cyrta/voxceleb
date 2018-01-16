@@ -1,0 +1,11 @@
+POI: 			Marc_Forster 
+Youtube ID: 	mO7wl7C1QZI 
+Video length: 	547.0 sec 
+Set (V): 		dev 
+ 
+Marc_Forster/mO7wl7C1QZI_0000001 25.5 29.9 
+Marc_Forster/mO7wl7C1QZI_0000002 119.8 125.3 
+Marc_Forster/mO7wl7C1QZI_0000003 263.6 273.6 
+Marc_Forster/mO7wl7C1QZI_0000004 274.1 280.6 
+Marc_Forster/mO7wl7C1QZI_0000005 319.1 323.2 
+Marc_Forster/mO7wl7C1QZI_0000006 500.3 515.7 

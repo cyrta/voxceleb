@@ -1,0 +1,13 @@
+POI: 			Janet_Jackson 
+Youtube ID: 	SEmg1tdUmGM 
+Video length: 	791.0 sec 
+Set (V): 		dev 
+ 
+Janet_Jackson/SEmg1tdUmGM_0000001 88.4 92.3 
+Janet_Jackson/SEmg1tdUmGM_0000002 378.3 382.7 
+Janet_Jackson/SEmg1tdUmGM_0000003 419.5 423.6 
+Janet_Jackson/SEmg1tdUmGM_0000004 491.2 498.0 
+Janet_Jackson/SEmg1tdUmGM_0000005 521.4 528.3 
+Janet_Jackson/SEmg1tdUmGM_0000006 538.0 541.9 
+Janet_Jackson/SEmg1tdUmGM_0000007 576.8 586.3 
+Janet_Jackson/SEmg1tdUmGM_0000008 588.8 594.4 

@@ -1,0 +1,14 @@
+POI: 			Samantha_Barks 
+Youtube ID: 	ttM_RuPsbS8 
+Video length: 	199.9 sec 
+Set (V): 		dev 
+ 
+Samantha_Barks/ttM_RuPsbS8_0000001 19.7 23.8 
+Samantha_Barks/ttM_RuPsbS8_0000002 24.9 36.0 
+Samantha_Barks/ttM_RuPsbS8_0000003 37.3 47.9 
+Samantha_Barks/ttM_RuPsbS8_0000004 48.4 54.8 
+Samantha_Barks/ttM_RuPsbS8_0000005 60.0 67.1 
+Samantha_Barks/ttM_RuPsbS8_0000006 74.5 111.7 
+Samantha_Barks/ttM_RuPsbS8_0000007 137.0 153.4 
+Samantha_Barks/ttM_RuPsbS8_0000008 144.0 153.5 
+Samantha_Barks/ttM_RuPsbS8_0000009 169.9 192.1 

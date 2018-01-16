@@ -1,0 +1,12 @@
+POI: 			Marie_Osmond 
+Youtube ID: 	eG6pQulY59E 
+Video length: 	138.9 sec 
+Set (V): 		dev 
+ 
+Marie_Osmond/eG6pQulY59E_0000001 45.6 52.4 
+Marie_Osmond/eG6pQulY59E_0000002 54.5 60.2 
+Marie_Osmond/eG6pQulY59E_0000003 63.6 68.5 
+Marie_Osmond/eG6pQulY59E_0000004 73.9 79.8 
+Marie_Osmond/eG6pQulY59E_0000005 82.2 88.8 
+Marie_Osmond/eG6pQulY59E_0000006 99.4 103.6 
+Marie_Osmond/eG6pQulY59E_0000007 104.0 118.7 

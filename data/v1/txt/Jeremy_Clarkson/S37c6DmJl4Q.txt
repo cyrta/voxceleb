@@ -1,0 +1,10 @@
+POI: 			Jeremy_Clarkson 
+Youtube ID: 	S37c6DmJl4Q 
+Video length: 	600.1 sec 
+Set (V): 		dev 
+ 
+Jeremy_Clarkson/S37c6DmJl4Q_0000001 143.9 148.0 
+Jeremy_Clarkson/S37c6DmJl4Q_0000002 148.8 153.2 
+Jeremy_Clarkson/S37c6DmJl4Q_0000003 290.3 299.0 
+Jeremy_Clarkson/S37c6DmJl4Q_0000004 376.6 380.6 
+Jeremy_Clarkson/S37c6DmJl4Q_0000005 471.6 476.2 

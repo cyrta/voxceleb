@@ -1,0 +1,15 @@
+POI: 			Anthony_Rapp 
+Youtube ID: 	89eYkpcvuqo 
+Video length: 	299.4 sec 
+Set (V): 		dev 
+ 
+Anthony_Rapp/89eYkpcvuqo_0000001 118.1 124.6 
+Anthony_Rapp/89eYkpcvuqo_0000002 126.3 137.0 
+Anthony_Rapp/89eYkpcvuqo_0000003 166.1 176.2 
+Anthony_Rapp/89eYkpcvuqo_0000004 176.4 180.8 
+Anthony_Rapp/89eYkpcvuqo_0000005 186.0 193.4 
+Anthony_Rapp/89eYkpcvuqo_0000006 195.4 199.8 
+Anthony_Rapp/89eYkpcvuqo_0000007 202.4 207.2 
+Anthony_Rapp/89eYkpcvuqo_0000008 219.9 225.2 
+Anthony_Rapp/89eYkpcvuqo_0000009 232.8 237.1 
+Anthony_Rapp/89eYkpcvuqo_0000010 273.6 278.1 

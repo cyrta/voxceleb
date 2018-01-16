@@ -1,0 +1,7 @@
+POI: 			Joel_McHale 
+Youtube ID: 	8P70Eo7uKmw 
+Video length: 	153.7 sec 
+Set (V): 		dev 
+ 
+Joel_McHale/8P70Eo7uKmw_0000001 97.3 101.3 
+Joel_McHale/8P70Eo7uKmw_0000002 125.0 129.4 

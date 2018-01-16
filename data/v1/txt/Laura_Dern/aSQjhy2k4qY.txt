@@ -1,0 +1,19 @@
+POI: 			Laura_Dern 
+Youtube ID: 	aSQjhy2k4qY 
+Video length: 	333.0 sec 
+Set (V): 		dev 
+ 
+Laura_Dern/aSQjhy2k4qY_0000001 21.5 25.9 
+Laura_Dern/aSQjhy2k4qY_0000002 29.0 39.4 
+Laura_Dern/aSQjhy2k4qY_0000003 40.4 50.5 
+Laura_Dern/aSQjhy2k4qY_0000004 53.8 61.7 
+Laura_Dern/aSQjhy2k4qY_0000005 89.2 99.6 
+Laura_Dern/aSQjhy2k4qY_0000006 139.0 148.3 
+Laura_Dern/aSQjhy2k4qY_0000007 161.4 183.0 
+Laura_Dern/aSQjhy2k4qY_0000008 186.4 193.5 
+Laura_Dern/aSQjhy2k4qY_0000009 213.9 219.1 
+Laura_Dern/aSQjhy2k4qY_0000010 219.3 231.8 
+Laura_Dern/aSQjhy2k4qY_0000011 235.8 245.9 
+Laura_Dern/aSQjhy2k4qY_0000012 251.8 271.7 
+Laura_Dern/aSQjhy2k4qY_0000013 278.4 285.9 
+Laura_Dern/aSQjhy2k4qY_0000014 293.6 299.4 

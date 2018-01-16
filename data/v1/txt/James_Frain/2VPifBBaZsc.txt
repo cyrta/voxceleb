@@ -1,0 +1,7 @@
+POI: 			James_Frain 
+Youtube ID: 	2VPifBBaZsc 
+Video length: 	297.2 sec 
+Set (V): 		dev 
+ 
+James_Frain/2VPifBBaZsc_0000001 206.9 210.9 
+James_Frain/2VPifBBaZsc_0000002 252.0 257.3 

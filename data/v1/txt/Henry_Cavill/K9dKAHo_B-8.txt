@@ -1,0 +1,9 @@
+POI: 			Henry_Cavill 
+Youtube ID: 	K9dKAHo_B-8 
+Video length: 	468.1 sec 
+Set (V): 		dev 
+ 
+Henry_Cavill/K9dKAHo_B-8_0000001 59.8 65.8 
+Henry_Cavill/K9dKAHo_B-8_0000002 149.8 154.0 
+Henry_Cavill/K9dKAHo_B-8_0000003 155.1 172.6 
+Henry_Cavill/K9dKAHo_B-8_0000004 302.4 311.9 

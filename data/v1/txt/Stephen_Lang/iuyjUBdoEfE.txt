@@ -1,0 +1,15 @@
+POI: 			Stephen_Lang 
+Youtube ID: 	iuyjUBdoEfE 
+Video length: 	229.2 sec 
+Set (V): 		dev 
+ 
+Stephen_Lang/iuyjUBdoEfE_0000001 29.4 36.0 
+Stephen_Lang/iuyjUBdoEfE_0000002 36.3 49.5 
+Stephen_Lang/iuyjUBdoEfE_0000003 57.6 64.4 
+Stephen_Lang/iuyjUBdoEfE_0000004 64.6 72.6 
+Stephen_Lang/iuyjUBdoEfE_0000005 80.7 89.5 
+Stephen_Lang/iuyjUBdoEfE_0000006 118.2 127.8 
+Stephen_Lang/iuyjUBdoEfE_0000007 128.0 139.2 
+Stephen_Lang/iuyjUBdoEfE_0000008 160.0 165.1 
+Stephen_Lang/iuyjUBdoEfE_0000009 174.0 181.2 
+Stephen_Lang/iuyjUBdoEfE_0000010 199.6 207.3 

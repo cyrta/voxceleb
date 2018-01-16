@@ -1,0 +1,12 @@
+POI: 			Martin_Kove 
+Youtube ID: 	VB7sZ6phd1w 
+Video length: 	235.2 sec 
+Set (V): 		dev 
+ 
+Martin_Kove/VB7sZ6phd1w_0000001 59.1 63.4 
+Martin_Kove/VB7sZ6phd1w_0000002 64.7 69.0 
+Martin_Kove/VB7sZ6phd1w_0000003 129.5 134.1 
+Martin_Kove/VB7sZ6phd1w_0000004 142.6 147.0 
+Martin_Kove/VB7sZ6phd1w_0000005 170.0 173.9 
+Martin_Kove/VB7sZ6phd1w_0000006 175.1 181.2 
+Martin_Kove/VB7sZ6phd1w_0000007 186.4 196.3 

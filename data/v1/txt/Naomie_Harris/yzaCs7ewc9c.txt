@@ -1,0 +1,8 @@
+POI: 			Naomie_Harris 
+Youtube ID: 	yzaCs7ewc9c 
+Video length: 	420.8 sec 
+Set (V): 		dev 
+ 
+Naomie_Harris/yzaCs7ewc9c_0000001 96.9 110.4 
+Naomie_Harris/yzaCs7ewc9c_0000002 292.4 304.5 
+Naomie_Harris/yzaCs7ewc9c_0000003 344.2 351.5 

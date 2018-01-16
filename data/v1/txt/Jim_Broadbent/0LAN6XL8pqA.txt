@@ -1,0 +1,14 @@
+POI: 			Jim_Broadbent 
+Youtube ID: 	0LAN6XL8pqA 
+Video length: 	212.3 sec 
+Set (V): 		dev 
+ 
+Jim_Broadbent/0LAN6XL8pqA_0000001 02.6 11.0 
+Jim_Broadbent/0LAN6XL8pqA_0000002 11.7 32.9 
+Jim_Broadbent/0LAN6XL8pqA_0000003 116.5 121.4 
+Jim_Broadbent/0LAN6XL8pqA_0000004 127.3 135.7 
+Jim_Broadbent/0LAN6XL8pqA_0000005 139.6 147.1 
+Jim_Broadbent/0LAN6XL8pqA_0000006 147.9 153.3 
+Jim_Broadbent/0LAN6XL8pqA_0000007 154.3 162.6 
+Jim_Broadbent/0LAN6XL8pqA_0000008 162.8 171.7 
+Jim_Broadbent/0LAN6XL8pqA_0000009 193.4 198.8 

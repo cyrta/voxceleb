@@ -1,0 +1,14 @@
+POI: 			Jake_Johnson 
+Youtube ID: 	1wqsLG0T27I 
+Video length: 	525.2 sec 
+Set (V): 		dev 
+ 
+Jake_Johnson/1wqsLG0T27I_0000001 47.2 52.5 
+Jake_Johnson/1wqsLG0T27I_0000002 57.2 66.1 
+Jake_Johnson/1wqsLG0T27I_0000003 103.6 108.6 
+Jake_Johnson/1wqsLG0T27I_0000004 198.8 203.3 
+Jake_Johnson/1wqsLG0T27I_0000005 292.4 298.4 
+Jake_Johnson/1wqsLG0T27I_0000006 375.0 380.1 
+Jake_Johnson/1wqsLG0T27I_0000007 463.4 475.7 
+Jake_Johnson/1wqsLG0T27I_0000008 483.7 495.6 
+Jake_Johnson/1wqsLG0T27I_0000009 500.9 507.7 

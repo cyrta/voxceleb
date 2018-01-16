@@ -1,0 +1,7 @@
+POI: 			Jean-Paul_Belmondo 
+Youtube ID: 	zHblC1-Yp2M 
+Video length: 	510.4 sec 
+Set (V): 		dev 
+ 
+Jean-Paul_Belmondo/zHblC1-Yp2M_0000001 275.9 280.0 
+Jean-Paul_Belmondo/zHblC1-Yp2M_0000002 360.2 364.7 

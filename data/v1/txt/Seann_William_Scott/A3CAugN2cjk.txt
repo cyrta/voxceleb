@@ -1,0 +1,11 @@
+POI: 			Seann_William_Scott 
+Youtube ID: 	A3CAugN2cjk 
+Video length: 	178.8 sec 
+Set (V): 		dev 
+ 
+Seann_William_Scott/A3CAugN2cjk_0000001 41.9 51.8 
+Seann_William_Scott/A3CAugN2cjk_0000002 80.0 88.4 
+Seann_William_Scott/A3CAugN2cjk_0000003 120.0 130.3 
+Seann_William_Scott/A3CAugN2cjk_0000004 133.3 140.2 
+Seann_William_Scott/A3CAugN2cjk_0000005 145.7 149.7 
+Seann_William_Scott/A3CAugN2cjk_0000006 159.6 165.4 

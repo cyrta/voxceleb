@@ -1,0 +1,8 @@
+POI: 			David_Zayas 
+Youtube ID: 	Ilxs5bnc1U4 
+Video length: 	36.0 sec 
+Set (V): 		dev 
+ 
+David_Zayas/Ilxs5bnc1U4_0000001 00.7 12.2 
+David_Zayas/Ilxs5bnc1U4_0000002 13.0 27.4 
+David_Zayas/Ilxs5bnc1U4_0000003 28.1 34.4 

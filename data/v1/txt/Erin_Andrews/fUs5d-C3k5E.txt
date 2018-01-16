@@ -1,0 +1,7 @@
+POI: 			Erin_Andrews 
+Youtube ID: 	fUs5d-C3k5E 
+Video length: 	236.5 sec 
+Set (V): 		test 
+ 
+Erin_Andrews/fUs5d-C3k5E_0000001 169.3 173.7 
+Erin_Andrews/fUs5d-C3k5E_0000002 208.7 218.9 

@@ -1,0 +1,7 @@
+POI: 			Ingrid_Bergman 
+Youtube ID: 	WKpuunhqWk4 
+Video length: 	236.4 sec 
+Set (V): 		dev 
+ 
+Ingrid_Bergman/WKpuunhqWk4_0000001 96.6 103.0 
+Ingrid_Bergman/WKpuunhqWk4_0000002 192.6 206.9 

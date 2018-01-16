@@ -1,0 +1,9 @@
+POI: 			Billie_Joe_Armstrong 
+Youtube ID: 	J4X3IQCM4xM 
+Video length: 	4636.3 sec 
+Set (V): 		dev 
+ 
+Billie_Joe_Armstrong/J4X3IQCM4xM_0000001 3339.6 3347.0 
+Billie_Joe_Armstrong/J4X3IQCM4xM_0000002 3516.2 3521.9 
+Billie_Joe_Armstrong/J4X3IQCM4xM_0000003 3524.4 3531.6 
+Billie_Joe_Armstrong/J4X3IQCM4xM_0000004 4589.5 4595.7 

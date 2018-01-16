@@ -1,0 +1,13 @@
+POI: 			Daniel_Craig 
+Youtube ID: 	qlbGFctM1wU 
+Video length: 	523.8 sec 
+Set (V): 		dev 
+ 
+Daniel_Craig/qlbGFctM1wU_0000001 163.5 171.4 
+Daniel_Craig/qlbGFctM1wU_0000002 176.8 184.3 
+Daniel_Craig/qlbGFctM1wU_0000003 227.6 234.5 
+Daniel_Craig/qlbGFctM1wU_0000004 269.2 273.2 
+Daniel_Craig/qlbGFctM1wU_0000005 283.2 288.9 
+Daniel_Craig/qlbGFctM1wU_0000006 428.7 434.0 
+Daniel_Craig/qlbGFctM1wU_0000007 461.1 468.4 
+Daniel_Craig/qlbGFctM1wU_0000008 488.3 493.0 

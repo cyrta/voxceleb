@@ -1,0 +1,13 @@
+POI: 			Rebel_Wilson 
+Youtube ID: 	ObewI1lwtfY 
+Video length: 	353.8 sec 
+Set (V): 		dev 
+ 
+Rebel_Wilson/ObewI1lwtfY_0000001 81.9 94.6 
+Rebel_Wilson/ObewI1lwtfY_0000002 95.7 102.2 
+Rebel_Wilson/ObewI1lwtfY_0000003 177.2 182.2 
+Rebel_Wilson/ObewI1lwtfY_0000004 208.0 216.9 
+Rebel_Wilson/ObewI1lwtfY_0000005 271.3 276.4 
+Rebel_Wilson/ObewI1lwtfY_0000006 283.4 288.3 
+Rebel_Wilson/ObewI1lwtfY_0000007 288.8 292.8 
+Rebel_Wilson/ObewI1lwtfY_0000008 293.8 300.3 

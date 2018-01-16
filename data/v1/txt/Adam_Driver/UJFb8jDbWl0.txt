@@ -1,0 +1,19 @@
+POI: 			Adam_Driver 
+Youtube ID: 	UJFb8jDbWl0 
+Video length: 	607.4 sec 
+Set (V): 		dev 
+ 
+Adam_Driver/UJFb8jDbWl0_0000001 64.6 70.2 
+Adam_Driver/UJFb8jDbWl0_0000002 87.2 93.2 
+Adam_Driver/UJFb8jDbWl0_0000003 132.2 139.4 
+Adam_Driver/UJFb8jDbWl0_0000004 140.8 146.4 
+Adam_Driver/UJFb8jDbWl0_0000005 152.4 165.7 
+Adam_Driver/UJFb8jDbWl0_0000006 166.2 171.4 
+Adam_Driver/UJFb8jDbWl0_0000007 172.5 183.2 
+Adam_Driver/UJFb8jDbWl0_0000008 217.2 223.2 
+Adam_Driver/UJFb8jDbWl0_0000009 234.7 239.0 
+Adam_Driver/UJFb8jDbWl0_0000010 283.1 297.1 
+Adam_Driver/UJFb8jDbWl0_0000011 302.2 311.5 
+Adam_Driver/UJFb8jDbWl0_0000012 421.2 431.8 
+Adam_Driver/UJFb8jDbWl0_0000013 434.0 443.9 
+Adam_Driver/UJFb8jDbWl0_0000014 451.5 458.7 

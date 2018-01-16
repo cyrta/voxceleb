@@ -1,0 +1,8 @@
+POI: 			Ralf_Little 
+Youtube ID: 	VPJ4On1iNTE 
+Video length: 	197.2 sec 
+Set (V): 		dev 
+ 
+Ralf_Little/VPJ4On1iNTE_0000001 80.5 85.4 
+Ralf_Little/VPJ4On1iNTE_0000002 161.3 170.2 
+Ralf_Little/VPJ4On1iNTE_0000003 172.1 179.6 

@@ -1,0 +1,10 @@
+POI: 			Scott_Speedman 
+Youtube ID: 	K9lMKF2-R-I 
+Video length: 	390.4 sec 
+Set (V): 		dev 
+ 
+Scott_Speedman/K9lMKF2-R-I_0000001 58.4 64.1 
+Scott_Speedman/K9lMKF2-R-I_0000002 76.6 81.2 
+Scott_Speedman/K9lMKF2-R-I_0000003 90.3 94.8 
+Scott_Speedman/K9lMKF2-R-I_0000004 286.5 294.0 
+Scott_Speedman/K9lMKF2-R-I_0000005 323.1 329.7 

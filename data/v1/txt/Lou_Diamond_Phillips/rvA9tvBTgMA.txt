@@ -1,0 +1,26 @@
+POI: 			Lou_Diamond_Phillips 
+Youtube ID: 	rvA9tvBTgMA 
+Video length: 	634.1 sec 
+Set (V): 		dev 
+ 
+Lou_Diamond_Phillips/rvA9tvBTgMA_0000001 138.5 143.4 
+Lou_Diamond_Phillips/rvA9tvBTgMA_0000002 150.9 157.3 
+Lou_Diamond_Phillips/rvA9tvBTgMA_0000003 163.9 170.6 
+Lou_Diamond_Phillips/rvA9tvBTgMA_0000004 177.0 181.2 
+Lou_Diamond_Phillips/rvA9tvBTgMA_0000005 197.7 205.2 
+Lou_Diamond_Phillips/rvA9tvBTgMA_0000006 205.4 225.5 
+Lou_Diamond_Phillips/rvA9tvBTgMA_0000007 238.6 242.7 
+Lou_Diamond_Phillips/rvA9tvBTgMA_0000008 246.5 254.1 
+Lou_Diamond_Phillips/rvA9tvBTgMA_0000009 260.4 269.6 
+Lou_Diamond_Phillips/rvA9tvBTgMA_0000010 310.3 314.7 
+Lou_Diamond_Phillips/rvA9tvBTgMA_0000011 322.2 327.5 
+Lou_Diamond_Phillips/rvA9tvBTgMA_0000012 362.5 369.3 
+Lou_Diamond_Phillips/rvA9tvBTgMA_0000013 371.4 376.7 
+Lou_Diamond_Phillips/rvA9tvBTgMA_0000014 386.3 398.0 
+Lou_Diamond_Phillips/rvA9tvBTgMA_0000015 401.2 406.7 
+Lou_Diamond_Phillips/rvA9tvBTgMA_0000016 409.9 417.2 
+Lou_Diamond_Phillips/rvA9tvBTgMA_0000017 444.8 457.6 
+Lou_Diamond_Phillips/rvA9tvBTgMA_0000018 482.0 492.0 
+Lou_Diamond_Phillips/rvA9tvBTgMA_0000019 495.3 506.4 
+Lou_Diamond_Phillips/rvA9tvBTgMA_0000020 528.9 547.4 
+Lou_Diamond_Phillips/rvA9tvBTgMA_0000021 583.5 619.6 

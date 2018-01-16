@@ -1,0 +1,12 @@
+POI: 			Emile_Hirsch 
+Youtube ID: 	zii-zlYDpGc 
+Video length: 	317.6 sec 
+Set (V): 		test 
+ 
+Emile_Hirsch/zii-zlYDpGc_0000001 93.5 98.0 
+Emile_Hirsch/zii-zlYDpGc_0000002 98.3 102.7 
+Emile_Hirsch/zii-zlYDpGc_0000003 104.9 109.8 
+Emile_Hirsch/zii-zlYDpGc_0000004 175.8 182.2 
+Emile_Hirsch/zii-zlYDpGc_0000005 194.3 198.8 
+Emile_Hirsch/zii-zlYDpGc_0000006 229.4 233.6 
+Emile_Hirsch/zii-zlYDpGc_0000007 250.3 254.6 

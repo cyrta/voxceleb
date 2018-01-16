@@ -1,0 +1,11 @@
+POI: 			Kym_Whitley 
+Youtube ID: 	oUiSeIRwzCs 
+Video length: 	563.7 sec 
+Set (V): 		dev 
+ 
+Kym_Whitley/oUiSeIRwzCs_0000001 41.5 46.0 
+Kym_Whitley/oUiSeIRwzCs_0000002 68.7 81.2 
+Kym_Whitley/oUiSeIRwzCs_0000003 91.1 98.7 
+Kym_Whitley/oUiSeIRwzCs_0000004 179.2 184.4 
+Kym_Whitley/oUiSeIRwzCs_0000005 444.7 449.1 
+Kym_Whitley/oUiSeIRwzCs_0000006 528.8 533.2 

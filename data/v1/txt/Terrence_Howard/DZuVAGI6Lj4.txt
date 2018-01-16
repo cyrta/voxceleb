@@ -1,0 +1,17 @@
+POI: 			Terrence_Howard 
+Youtube ID: 	DZuVAGI6Lj4 
+Video length: 	374.4 sec 
+Set (V): 		dev 
+ 
+Terrence_Howard/DZuVAGI6Lj4_0000001 55.9 76.4 
+Terrence_Howard/DZuVAGI6Lj4_0000002 99.1 106.3 
+Terrence_Howard/DZuVAGI6Lj4_0000003 132.9 151.6 
+Terrence_Howard/DZuVAGI6Lj4_0000004 152.5 157.2 
+Terrence_Howard/DZuVAGI6Lj4_0000005 162.3 175.4 
+Terrence_Howard/DZuVAGI6Lj4_0000006 188.0 199.3 
+Terrence_Howard/DZuVAGI6Lj4_0000007 200.5 221.3 
+Terrence_Howard/DZuVAGI6Lj4_0000008 222.4 252.9 
+Terrence_Howard/DZuVAGI6Lj4_0000009 278.2 297.5 
+Terrence_Howard/DZuVAGI6Lj4_0000010 308.4 313.8 
+Terrence_Howard/DZuVAGI6Lj4_0000011 315.5 331.3 
+Terrence_Howard/DZuVAGI6Lj4_0000012 332.6 346.9 

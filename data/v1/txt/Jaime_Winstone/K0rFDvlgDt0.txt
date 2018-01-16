@@ -1,0 +1,23 @@
+POI: 			Jaime_Winstone 
+Youtube ID: 	K0rFDvlgDt0 
+Video length: 	261.9 sec 
+Set (V): 		dev 
+ 
+Jaime_Winstone/K0rFDvlgDt0_0000001 08.8 14.4 
+Jaime_Winstone/K0rFDvlgDt0_0000002 16.9 21.3 
+Jaime_Winstone/K0rFDvlgDt0_0000003 31.2 36.1 
+Jaime_Winstone/K0rFDvlgDt0_0000004 43.2 53.2 
+Jaime_Winstone/K0rFDvlgDt0_0000005 54.7 62.6 
+Jaime_Winstone/K0rFDvlgDt0_0000006 86.4 90.7 
+Jaime_Winstone/K0rFDvlgDt0_0000007 91.7 100.2 
+Jaime_Winstone/K0rFDvlgDt0_0000008 101.2 107.4 
+Jaime_Winstone/K0rFDvlgDt0_0000009 69.6 80.9 
+Jaime_Winstone/K0rFDvlgDt0_0000010 86.4 90.4 
+Jaime_Winstone/K0rFDvlgDt0_0000011 114.2 119.8 
+Jaime_Winstone/K0rFDvlgDt0_0000012 129.6 135.8 
+Jaime_Winstone/K0rFDvlgDt0_0000013 157.1 165.0 
+Jaime_Winstone/K0rFDvlgDt0_0000014 182.5 188.6 
+Jaime_Winstone/K0rFDvlgDt0_0000015 195.4 201.7 
+Jaime_Winstone/K0rFDvlgDt0_0000016 212.2 216.4 
+Jaime_Winstone/K0rFDvlgDt0_0000017 219.2 223.9 
+Jaime_Winstone/K0rFDvlgDt0_0000018 251.8 259.1 

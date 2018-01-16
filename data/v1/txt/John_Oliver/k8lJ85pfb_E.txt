@@ -1,0 +1,13 @@
+POI: 			John_Oliver 
+Youtube ID: 	k8lJ85pfb_E 
+Video length: 	565.6 sec 
+Set (V): 		dev 
+ 
+John_Oliver/k8lJ85pfb_E_0000001 42.8 47.1 
+John_Oliver/k8lJ85pfb_E_0000002 63.7 69.8 
+John_Oliver/k8lJ85pfb_E_0000003 117.8 127.7 
+John_Oliver/k8lJ85pfb_E_0000004 253.1 260.7 
+John_Oliver/k8lJ85pfb_E_0000005 274.0 285.5 
+John_Oliver/k8lJ85pfb_E_0000006 333.2 338.3 
+John_Oliver/k8lJ85pfb_E_0000007 363.8 378.5 
+John_Oliver/k8lJ85pfb_E_0000008 434.2 441.5 

@@ -1,0 +1,14 @@
+POI: 			Damon_Lindelof 
+Youtube ID: 	zRLjy2nL_4w 
+Video length: 	259.5 sec 
+Set (V): 		dev 
+ 
+Damon_Lindelof/zRLjy2nL_4w_0000001 76.3 80.4 
+Damon_Lindelof/zRLjy2nL_4w_0000002 80.7 108.2 
+Damon_Lindelof/zRLjy2nL_4w_0000003 113.5 117.4 
+Damon_Lindelof/zRLjy2nL_4w_0000004 133.9 160.4 
+Damon_Lindelof/zRLjy2nL_4w_0000005 184.6 200.9 
+Damon_Lindelof/zRLjy2nL_4w_0000006 201.5 206.5 
+Damon_Lindelof/zRLjy2nL_4w_0000007 201.1 208.4 
+Damon_Lindelof/zRLjy2nL_4w_0000008 208.9 213.7 
+Damon_Lindelof/zRLjy2nL_4w_0000009 217.0 225.9 

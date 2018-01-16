@@ -1,0 +1,17 @@
+POI: 			Edward_Asner 
+Youtube ID: 	R_h7875g_PI 
+Video length: 	228.4 sec 
+Set (V): 		test 
+ 
+Edward_Asner/R_h7875g_PI_0000001 23.0 27.4 
+Edward_Asner/R_h7875g_PI_0000002 69.9 74.4 
+Edward_Asner/R_h7875g_PI_0000003 79.4 86.2 
+Edward_Asner/R_h7875g_PI_0000004 23.0 27.4 
+Edward_Asner/R_h7875g_PI_0000005 69.9 74.7 
+Edward_Asner/R_h7875g_PI_0000006 79.4 86.2 
+Edward_Asner/R_h7875g_PI_0000007 109.0 113.2 
+Edward_Asner/R_h7875g_PI_0000008 115.3 120.6 
+Edward_Asner/R_h7875g_PI_0000009 132.4 136.8 
+Edward_Asner/R_h7875g_PI_0000010 157.8 163.1 
+Edward_Asner/R_h7875g_PI_0000011 195.4 203.4 
+Edward_Asner/R_h7875g_PI_0000012 216.6 220.7 

@@ -1,0 +1,10 @@
+POI: 			Marie_Avgeropoulos 
+Youtube ID: 	PIhqs9IMvpw 
+Video length: 	297.5 sec 
+Set (V): 		dev 
+ 
+Marie_Avgeropoulos/PIhqs9IMvpw_0000001 129.2 134.7 
+Marie_Avgeropoulos/PIhqs9IMvpw_0000002 153.1 158.6 
+Marie_Avgeropoulos/PIhqs9IMvpw_0000003 160.1 169.8 
+Marie_Avgeropoulos/PIhqs9IMvpw_0000004 175.5 180.0 
+Marie_Avgeropoulos/PIhqs9IMvpw_0000005 193.1 202.7 

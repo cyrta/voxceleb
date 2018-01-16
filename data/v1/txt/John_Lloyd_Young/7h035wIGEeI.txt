@@ -1,0 +1,12 @@
+POI: 			John_Lloyd_Young 
+Youtube ID: 	7h035wIGEeI 
+Video length: 	504.7 sec 
+Set (V): 		dev 
+ 
+John_Lloyd_Young/7h035wIGEeI_0000001 59.8 67.3 
+John_Lloyd_Young/7h035wIGEeI_0000002 75.0 85.9 
+John_Lloyd_Young/7h035wIGEeI_0000003 272.9 279.9 
+John_Lloyd_Young/7h035wIGEeI_0000004 333.1 339.8 
+John_Lloyd_Young/7h035wIGEeI_0000005 450.4 455.8 
+John_Lloyd_Young/7h035wIGEeI_0000006 485.5 491.7 
+John_Lloyd_Young/7h035wIGEeI_0000007 496.2 500.6 

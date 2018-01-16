@@ -1,0 +1,7 @@
+POI: 			Tom_Arnold 
+Youtube ID: 	4yxaRgkJ_eA 
+Video length: 	197.1 sec 
+Set (V): 		dev 
+ 
+Tom_Arnold/4yxaRgkJ_eA_0000001 28.8 32.8 
+Tom_Arnold/4yxaRgkJ_eA_0000002 163.8 168.1 

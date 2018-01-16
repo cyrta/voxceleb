@@ -1,0 +1,12 @@
+POI: 			Paget_Brewster 
+Youtube ID: 	N6LtIGBSLmw 
+Video length: 	275.5 sec 
+Set (V): 		dev 
+ 
+Paget_Brewster/N6LtIGBSLmw_0000001 96.0 118.5 
+Paget_Brewster/N6LtIGBSLmw_0000002 119.2 127.2 
+Paget_Brewster/N6LtIGBSLmw_0000003 128.7 132.8 
+Paget_Brewster/N6LtIGBSLmw_0000004 173.7 178.9 
+Paget_Brewster/N6LtIGBSLmw_0000005 203.6 210.0 
+Paget_Brewster/N6LtIGBSLmw_0000006 210.3 230.7 
+Paget_Brewster/N6LtIGBSLmw_0000007 231.2 241.0 

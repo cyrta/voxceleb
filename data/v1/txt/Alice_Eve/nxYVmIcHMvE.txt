@@ -1,0 +1,11 @@
+POI: 			Alice_Eve 
+Youtube ID: 	nxYVmIcHMvE 
+Video length: 	210.4 sec 
+Set (V): 		dev 
+ 
+Alice_Eve/nxYVmIcHMvE_0000001 17.7 22.8 
+Alice_Eve/nxYVmIcHMvE_0000002 25.6 32.7 
+Alice_Eve/nxYVmIcHMvE_0000003 81.0 93.4 
+Alice_Eve/nxYVmIcHMvE_0000004 94.0 105.3 
+Alice_Eve/nxYVmIcHMvE_0000005 123.3 128.1 
+Alice_Eve/nxYVmIcHMvE_0000006 177.0 198.8 

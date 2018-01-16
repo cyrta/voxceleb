@@ -1,0 +1,8 @@
+POI: 			Casey_Wilson 
+Youtube ID: 	m9ickUcplmo 
+Video length: 	213.0 sec 
+Set (V): 		dev 
+ 
+Casey_Wilson/m9ickUcplmo_0000001 22.4 33.6 
+Casey_Wilson/m9ickUcplmo_0000002 78.2 92.9 
+Casey_Wilson/m9ickUcplmo_0000003 145.8 151.6 

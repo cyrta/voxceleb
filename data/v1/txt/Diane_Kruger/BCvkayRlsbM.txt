@@ -1,0 +1,14 @@
+POI: 			Diane_Kruger 
+Youtube ID: 	BCvkayRlsbM 
+Video length: 	584.1 sec 
+Set (V): 		dev 
+ 
+Diane_Kruger/BCvkayRlsbM_0000001 69.3 77.7 
+Diane_Kruger/BCvkayRlsbM_0000002 104.2 108.2 
+Diane_Kruger/BCvkayRlsbM_0000003 138.6 142.9 
+Diane_Kruger/BCvkayRlsbM_0000004 160.4 164.9 
+Diane_Kruger/BCvkayRlsbM_0000005 208.4 212.7 
+Diane_Kruger/BCvkayRlsbM_0000006 221.8 226.3 
+Diane_Kruger/BCvkayRlsbM_0000007 246.8 251.7 
+Diane_Kruger/BCvkayRlsbM_0000008 256.3 261.9 
+Diane_Kruger/BCvkayRlsbM_0000009 422.6 436.4 

@@ -1,0 +1,14 @@
+POI: 			Eddie_Izzard 
+Youtube ID: 	gHPh9j7lc58 
+Video length: 	438.3 sec 
+Set (V): 		test 
+ 
+Eddie_Izzard/gHPh9j7lc58_0000001 171.6 180.2 
+Eddie_Izzard/gHPh9j7lc58_0000002 195.0 201.0 
+Eddie_Izzard/gHPh9j7lc58_0000003 206.8 211.6 
+Eddie_Izzard/gHPh9j7lc58_0000004 266.4 275.7 
+Eddie_Izzard/gHPh9j7lc58_0000005 337.3 341.4 
+Eddie_Izzard/gHPh9j7lc58_0000006 341.7 349.2 
+Eddie_Izzard/gHPh9j7lc58_0000007 359.0 376.8 
+Eddie_Izzard/gHPh9j7lc58_0000008 392.1 398.2 
+Eddie_Izzard/gHPh9j7lc58_0000009 405.1 416.5 

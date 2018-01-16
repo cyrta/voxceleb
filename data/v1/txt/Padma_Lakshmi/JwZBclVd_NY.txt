@@ -1,0 +1,7 @@
+POI: 			Padma_Lakshmi 
+Youtube ID: 	JwZBclVd_NY 
+Video length: 	66.4 sec 
+Set (V): 		dev 
+ 
+Padma_Lakshmi/JwZBclVd_NY_0000001 48.0 54.6 
+Padma_Lakshmi/JwZBclVd_NY_0000002 54.7 61.0 

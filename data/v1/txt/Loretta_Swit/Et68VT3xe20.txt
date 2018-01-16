@@ -1,0 +1,19 @@
+POI: 			Loretta_Swit 
+Youtube ID: 	Et68VT3xe20 
+Video length: 	239.3 sec 
+Set (V): 		dev 
+ 
+Loretta_Swit/Et68VT3xe20_0000001 06.3 10.7 
+Loretta_Swit/Et68VT3xe20_0000002 24.0 29.8 
+Loretta_Swit/Et68VT3xe20_0000003 31.9 36.0 
+Loretta_Swit/Et68VT3xe20_0000004 40.4 45.1 
+Loretta_Swit/Et68VT3xe20_0000005 69.9 78.4 
+Loretta_Swit/Et68VT3xe20_0000006 86.3 93.6 
+Loretta_Swit/Et68VT3xe20_0000007 103.8 115.3 
+Loretta_Swit/Et68VT3xe20_0000008 143.8 150.2 
+Loretta_Swit/Et68VT3xe20_0000009 171.4 177.7 
+Loretta_Swit/Et68VT3xe20_0000010 178.8 184.0 
+Loretta_Swit/Et68VT3xe20_0000011 199.8 204.8 
+Loretta_Swit/Et68VT3xe20_0000012 211.2 215.4 
+Loretta_Swit/Et68VT3xe20_0000013 215.9 220.4 
+Loretta_Swit/Et68VT3xe20_0000014 221.1 226.2 

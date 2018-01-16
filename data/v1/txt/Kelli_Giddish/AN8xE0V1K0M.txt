@@ -1,0 +1,9 @@
+POI: 			Kelli_Giddish 
+Youtube ID: 	AN8xE0V1K0M 
+Video length: 	225.3 sec 
+Set (V): 		dev 
+ 
+Kelli_Giddish/AN8xE0V1K0M_0000001 54.2 70.4 
+Kelli_Giddish/AN8xE0V1K0M_0000002 111.4 116.8 
+Kelli_Giddish/AN8xE0V1K0M_0000003 118.8 125.3 
+Kelli_Giddish/AN8xE0V1K0M_0000004 129.8 139.8 

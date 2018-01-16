@@ -1,0 +1,8 @@
+POI: 			Andy_Richter 
+Youtube ID: 	HrXyBT3ktys 
+Video length: 	100.2 sec 
+Set (V): 		dev 
+ 
+Andy_Richter/HrXyBT3ktys_0000001 26.2 30.5 
+Andy_Richter/HrXyBT3ktys_0000002 58.4 64.9 
+Andy_Richter/HrXyBT3ktys_0000003 65.9 71.2 

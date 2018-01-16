@@ -1,0 +1,11 @@
+POI: 			Melissa_McCarthy 
+Youtube ID: 	cbsrP_YOlnk 
+Video length: 	244.1 sec 
+Set (V): 		dev 
+ 
+Melissa_McCarthy/cbsrP_YOlnk_0000001 14.4 19.8 
+Melissa_McCarthy/cbsrP_YOlnk_0000002 34.2 46.0 
+Melissa_McCarthy/cbsrP_YOlnk_0000003 48.5 59.7 
+Melissa_McCarthy/cbsrP_YOlnk_0000004 118.2 125.0 
+Melissa_McCarthy/cbsrP_YOlnk_0000005 211.2 215.4 
+Melissa_McCarthy/cbsrP_YOlnk_0000006 221.8 227.1 

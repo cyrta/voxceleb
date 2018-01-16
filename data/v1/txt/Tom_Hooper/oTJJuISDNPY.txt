@@ -1,0 +1,12 @@
+POI: 			Tom_Hooper 
+Youtube ID: 	oTJJuISDNPY 
+Video length: 	377.8 sec 
+Set (V): 		dev 
+ 
+Tom_Hooper/oTJJuISDNPY_0000001 46.4 61.4 
+Tom_Hooper/oTJJuISDNPY_0000002 72.0 85.3 
+Tom_Hooper/oTJJuISDNPY_0000003 200.1 204.1 
+Tom_Hooper/oTJJuISDNPY_0000004 204.2 214.1 
+Tom_Hooper/oTJJuISDNPY_0000005 261.0 277.7 
+Tom_Hooper/oTJJuISDNPY_0000006 300.7 310.8 
+Tom_Hooper/oTJJuISDNPY_0000007 317.1 356.8 

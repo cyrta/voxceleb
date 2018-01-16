@@ -1,0 +1,8 @@
+POI: 			Sophie_Okonedo 
+Youtube ID: 	ZAEWzjG2-C8 
+Video length: 	107.8 sec 
+Set (V): 		dev 
+ 
+Sophie_Okonedo/ZAEWzjG2-C8_0000001 30.8 38.8 
+Sophie_Okonedo/ZAEWzjG2-C8_0000002 67.8 74.4 
+Sophie_Okonedo/ZAEWzjG2-C8_0000003 98.6 104.0 

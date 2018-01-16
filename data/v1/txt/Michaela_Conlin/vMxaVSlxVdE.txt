@@ -1,0 +1,17 @@
+POI: 			Michaela_Conlin 
+Youtube ID: 	vMxaVSlxVdE 
+Video length: 	259.0 sec 
+Set (V): 		dev 
+ 
+Michaela_Conlin/vMxaVSlxVdE_0000001 25.0 31.9 
+Michaela_Conlin/vMxaVSlxVdE_0000002 34.9 47.6 
+Michaela_Conlin/vMxaVSlxVdE_0000003 51.1 56.6 
+Michaela_Conlin/vMxaVSlxVdE_0000004 62.6 71.4 
+Michaela_Conlin/vMxaVSlxVdE_0000005 88.3 109.0 
+Michaela_Conlin/vMxaVSlxVdE_0000006 125.3 141.8 
+Michaela_Conlin/vMxaVSlxVdE_0000007 151.3 162.2 
+Michaela_Conlin/vMxaVSlxVdE_0000008 162.9 167.9 
+Michaela_Conlin/vMxaVSlxVdE_0000009 173.2 183.9 
+Michaela_Conlin/vMxaVSlxVdE_0000010 207.2 216.6 
+Michaela_Conlin/vMxaVSlxVdE_0000011 218.8 234.5 
+Michaela_Conlin/vMxaVSlxVdE_0000012 238.6 244.9 

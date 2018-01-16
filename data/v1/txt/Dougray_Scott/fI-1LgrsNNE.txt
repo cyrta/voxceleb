@@ -1,0 +1,29 @@
+POI: 			Dougray_Scott 
+Youtube ID: 	fI-1LgrsNNE 
+Video length: 	382.5 sec 
+Set (V): 		dev 
+ 
+Dougray_Scott/fI-1LgrsNNE_0000001 13.0 17.5 
+Dougray_Scott/fI-1LgrsNNE_0000002 19.4 35.0 
+Dougray_Scott/fI-1LgrsNNE_0000003 52.1 72.5 
+Dougray_Scott/fI-1LgrsNNE_0000004 73.3 91.4 
+Dougray_Scott/fI-1LgrsNNE_0000005 109.9 121.2 
+Dougray_Scott/fI-1LgrsNNE_0000006 121.6 133.6 
+Dougray_Scott/fI-1LgrsNNE_0000007 135.7 140.1 
+Dougray_Scott/fI-1LgrsNNE_0000008 144.7 149.4 
+Dougray_Scott/fI-1LgrsNNE_0000009 163.2 167.6 
+Dougray_Scott/fI-1LgrsNNE_0000010 168.2 173.8 
+Dougray_Scott/fI-1LgrsNNE_0000011 174.4 178.5 
+Dougray_Scott/fI-1LgrsNNE_0000012 179.0 184.8 
+Dougray_Scott/fI-1LgrsNNE_0000013 191.3 195.5 
+Dougray_Scott/fI-1LgrsNNE_0000014 213.0 219.8 
+Dougray_Scott/fI-1LgrsNNE_0000015 222.2 226.6 
+Dougray_Scott/fI-1LgrsNNE_0000016 235.6 241.6 
+Dougray_Scott/fI-1LgrsNNE_0000017 272.6 277.1 
+Dougray_Scott/fI-1LgrsNNE_0000018 277.4 282.3 
+Dougray_Scott/fI-1LgrsNNE_0000019 283.2 288.3 
+Dougray_Scott/fI-1LgrsNNE_0000020 271.6 276.8 
+Dougray_Scott/fI-1LgrsNNE_0000021 291.7 299.2 
+Dougray_Scott/fI-1LgrsNNE_0000022 304.4 308.8 
+Dougray_Scott/fI-1LgrsNNE_0000023 322.9 326.9 
+Dougray_Scott/fI-1LgrsNNE_0000024 331.7 338.9 

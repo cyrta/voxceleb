@@ -1,0 +1,11 @@
+POI: 			Fiona_Shaw 
+Youtube ID: 	bjjdrlIVrmQ 
+Video length: 	418.9 sec 
+Set (V): 		dev 
+ 
+Fiona_Shaw/bjjdrlIVrmQ_0000001 94.1 105.3 
+Fiona_Shaw/bjjdrlIVrmQ_0000002 168.5 186.6 
+Fiona_Shaw/bjjdrlIVrmQ_0000003 297.6 301.8 
+Fiona_Shaw/bjjdrlIVrmQ_0000004 306.0 310.2 
+Fiona_Shaw/bjjdrlIVrmQ_0000005 336.4 345.2 
+Fiona_Shaw/bjjdrlIVrmQ_0000006 398.0 411.9 

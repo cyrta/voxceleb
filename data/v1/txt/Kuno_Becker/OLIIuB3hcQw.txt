@@ -1,0 +1,12 @@
+POI: 			Kuno_Becker 
+Youtube ID: 	OLIIuB3hcQw 
+Video length: 	158.0 sec 
+Set (V): 		dev 
+ 
+Kuno_Becker/OLIIuB3hcQw_0000001 29.2 34.6 
+Kuno_Becker/OLIIuB3hcQw_0000002 35.4 39.9 
+Kuno_Becker/OLIIuB3hcQw_0000003 56.5 62.2 
+Kuno_Becker/OLIIuB3hcQw_0000004 78.2 85.8 
+Kuno_Becker/OLIIuB3hcQw_0000005 106.8 115.9 
+Kuno_Becker/OLIIuB3hcQw_0000006 129.2 134.4 
+Kuno_Becker/OLIIuB3hcQw_0000007 146.0 151.4 

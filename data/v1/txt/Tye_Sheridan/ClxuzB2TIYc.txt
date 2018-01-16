@@ -1,0 +1,7 @@
+POI: 			Tye_Sheridan 
+Youtube ID: 	ClxuzB2TIYc 
+Video length: 	585.0 sec 
+Set (V): 		dev 
+ 
+Tye_Sheridan/ClxuzB2TIYc_0000001 247.2 251.9 
+Tye_Sheridan/ClxuzB2TIYc_0000002 402.6 409.0 

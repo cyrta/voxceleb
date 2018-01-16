@@ -1,0 +1,7 @@
+POI: 			Kathryn_Hahn 
+Youtube ID: 	2_EwfVuIfUA 
+Video length: 	96.2 sec 
+Set (V): 		dev 
+ 
+Kathryn_Hahn/2_EwfVuIfUA_0000001 50.0 54.1 
+Kathryn_Hahn/2_EwfVuIfUA_0000002 62.4 67.2 

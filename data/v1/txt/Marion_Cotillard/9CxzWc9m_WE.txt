@@ -1,0 +1,7 @@
+POI: 			Marion_Cotillard 
+Youtube ID: 	9CxzWc9m_WE 
+Video length: 	265.4 sec 
+Set (V): 		dev 
+ 
+Marion_Cotillard/9CxzWc9m_WE_0000001 25.1 29.8 
+Marion_Cotillard/9CxzWc9m_WE_0000002 169.7 174.2 

@@ -1,0 +1,11 @@
+POI: 			Gwendoline_Christie 
+Youtube ID: 	6laEbyC0yxg 
+Video length: 	187.1 sec 
+Set (V): 		dev 
+ 
+Gwendoline_Christie/6laEbyC0yxg_0000001 28.7 35.4 
+Gwendoline_Christie/6laEbyC0yxg_0000002 37.2 71.2 
+Gwendoline_Christie/6laEbyC0yxg_0000003 99.2 103.5 
+Gwendoline_Christie/6laEbyC0yxg_0000004 123.6 128.8 
+Gwendoline_Christie/6laEbyC0yxg_0000005 143.6 154.8 
+Gwendoline_Christie/6laEbyC0yxg_0000006 156.7 184.2 

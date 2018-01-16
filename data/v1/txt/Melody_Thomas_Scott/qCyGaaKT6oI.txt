@@ -1,0 +1,17 @@
+POI: 			Melody_Thomas_Scott 
+Youtube ID: 	qCyGaaKT6oI 
+Video length: 	601.1 sec 
+Set (V): 		dev 
+ 
+Melody_Thomas_Scott/qCyGaaKT6oI_0000001 155.4 159.9 
+Melody_Thomas_Scott/qCyGaaKT6oI_0000002 160.1 165.2 
+Melody_Thomas_Scott/qCyGaaKT6oI_0000003 176.8 180.9 
+Melody_Thomas_Scott/qCyGaaKT6oI_0000004 188.9 193.3 
+Melody_Thomas_Scott/qCyGaaKT6oI_0000005 236.3 251.0 
+Melody_Thomas_Scott/qCyGaaKT6oI_0000006 298.1 304.0 
+Melody_Thomas_Scott/qCyGaaKT6oI_0000007 346.5 350.9 
+Melody_Thomas_Scott/qCyGaaKT6oI_0000008 427.2 436.3 
+Melody_Thomas_Scott/qCyGaaKT6oI_0000009 443.1 453.3 
+Melody_Thomas_Scott/qCyGaaKT6oI_0000010 501.8 507.4 
+Melody_Thomas_Scott/qCyGaaKT6oI_0000011 519.3 525.6 
+Melody_Thomas_Scott/qCyGaaKT6oI_0000012 525.7 530.3 

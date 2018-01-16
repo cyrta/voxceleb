@@ -1,0 +1,12 @@
+POI: 			Aidan_Turner 
+Youtube ID: 	pdTdefdQ_QI 
+Video length: 	193.8 sec 
+Set (V): 		dev 
+ 
+Aidan_Turner/pdTdefdQ_QI_0000001 60.6 64.7 
+Aidan_Turner/pdTdefdQ_QI_0000002 65.7 72.4 
+Aidan_Turner/pdTdefdQ_QI_0000003 80.4 88.0 
+Aidan_Turner/pdTdefdQ_QI_0000004 102.9 117.3 
+Aidan_Turner/pdTdefdQ_QI_0000005 127.8 148.3 
+Aidan_Turner/pdTdefdQ_QI_0000006 156.2 161.3 
+Aidan_Turner/pdTdefdQ_QI_0000007 163.6 171.5 

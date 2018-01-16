@@ -1,0 +1,8 @@
+POI: 			Anthony_Mackie 
+Youtube ID: 	QyQue37MP3Y 
+Video length: 	186.8 sec 
+Set (V): 		dev 
+ 
+Anthony_Mackie/QyQue37MP3Y_0000001 10.8 17.8 
+Anthony_Mackie/QyQue37MP3Y_0000002 83.0 87.0 
+Anthony_Mackie/QyQue37MP3Y_0000003 124.2 130.0 

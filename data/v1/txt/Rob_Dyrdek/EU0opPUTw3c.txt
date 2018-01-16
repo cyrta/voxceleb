@@ -1,0 +1,7 @@
+POI: 			Rob_Dyrdek 
+Youtube ID: 	EU0opPUTw3c 
+Video length: 	127.1 sec 
+Set (V): 		dev 
+ 
+Rob_Dyrdek/EU0opPUTw3c_0000001 56.6 64.4 
+Rob_Dyrdek/EU0opPUTw3c_0000002 100.9 110.4 

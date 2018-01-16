@@ -1,0 +1,27 @@
+POI: 			Michelle_Keegan 
+Youtube ID: 	WVQYsmh0Vl8 
+Video length: 	636.5 sec 
+Set (V): 		dev 
+ 
+Michelle_Keegan/WVQYsmh0Vl8_0000001 78.7 102.3 
+Michelle_Keegan/WVQYsmh0Vl8_0000002 103.4 112.8 
+Michelle_Keegan/WVQYsmh0Vl8_0000003 119.6 156.2 
+Michelle_Keegan/WVQYsmh0Vl8_0000004 168.1 186.0 
+Michelle_Keegan/WVQYsmh0Vl8_0000005 194.2 214.8 
+Michelle_Keegan/WVQYsmh0Vl8_0000006 240.5 261.4 
+Michelle_Keegan/WVQYsmh0Vl8_0000007 271.4 275.7 
+Michelle_Keegan/WVQYsmh0Vl8_0000008 275.8 283.6 
+Michelle_Keegan/WVQYsmh0Vl8_0000009 301.9 313.8 
+Michelle_Keegan/WVQYsmh0Vl8_0000010 340.7 350.6 
+Michelle_Keegan/WVQYsmh0Vl8_0000011 363.9 374.0 
+Michelle_Keegan/WVQYsmh0Vl8_0000012 388.0 405.2 
+Michelle_Keegan/WVQYsmh0Vl8_0000013 409.0 434.6 
+Michelle_Keegan/WVQYsmh0Vl8_0000014 447.5 453.6 
+Michelle_Keegan/WVQYsmh0Vl8_0000015 453.7 464.6 
+Michelle_Keegan/WVQYsmh0Vl8_0000016 464.8 479.2 
+Michelle_Keegan/WVQYsmh0Vl8_0000017 485.3 503.4 
+Michelle_Keegan/WVQYsmh0Vl8_0000018 503.7 511.4 
+Michelle_Keegan/WVQYsmh0Vl8_0000019 521.1 546.7 
+Michelle_Keegan/WVQYsmh0Vl8_0000020 552.6 574.6 
+Michelle_Keegan/WVQYsmh0Vl8_0000021 579.4 595.3 
+Michelle_Keegan/WVQYsmh0Vl8_0000022 617.0 622.2 

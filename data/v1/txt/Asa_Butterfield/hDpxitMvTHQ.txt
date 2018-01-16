@@ -1,0 +1,12 @@
+POI: 			Asa_Butterfield 
+Youtube ID: 	hDpxitMvTHQ 
+Video length: 	189.4 sec 
+Set (V): 		dev 
+ 
+Asa_Butterfield/hDpxitMvTHQ_0000001 13.6 18.3 
+Asa_Butterfield/hDpxitMvTHQ_0000002 41.8 47.3 
+Asa_Butterfield/hDpxitMvTHQ_0000003 51.9 61.0 
+Asa_Butterfield/hDpxitMvTHQ_0000004 61.2 65.5 
+Asa_Butterfield/hDpxitMvTHQ_0000005 103.6 108.7 
+Asa_Butterfield/hDpxitMvTHQ_0000006 152.7 157.8 
+Asa_Butterfield/hDpxitMvTHQ_0000007 169.0 174.1 

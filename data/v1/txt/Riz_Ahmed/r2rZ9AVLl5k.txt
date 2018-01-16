@@ -1,0 +1,12 @@
+POI: 			Riz_Ahmed 
+Youtube ID: 	r2rZ9AVLl5k 
+Video length: 	154.0 sec 
+Set (V): 		dev 
+ 
+Riz_Ahmed/r2rZ9AVLl5k_0000001 32.8 42.2 
+Riz_Ahmed/r2rZ9AVLl5k_0000002 44.1 51.4 
+Riz_Ahmed/r2rZ9AVLl5k_0000003 52.2 57.1 
+Riz_Ahmed/r2rZ9AVLl5k_0000004 76.1 85.2 
+Riz_Ahmed/r2rZ9AVLl5k_0000005 85.3 98.7 
+Riz_Ahmed/r2rZ9AVLl5k_0000006 101.8 110.5 
+Riz_Ahmed/r2rZ9AVLl5k_0000007 110.9 116.2 

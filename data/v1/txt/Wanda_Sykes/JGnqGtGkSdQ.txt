@@ -1,0 +1,9 @@
+POI: 			Wanda_Sykes 
+Youtube ID: 	JGnqGtGkSdQ 
+Video length: 	86.6 sec 
+Set (V): 		dev 
+ 
+Wanda_Sykes/JGnqGtGkSdQ_0000001 04.8 09.7 
+Wanda_Sykes/JGnqGtGkSdQ_0000002 21.7 27.4 
+Wanda_Sykes/JGnqGtGkSdQ_0000003 45.8 53.3 
+Wanda_Sykes/JGnqGtGkSdQ_0000004 63.8 79.6 

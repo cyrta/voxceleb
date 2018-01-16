@@ -1,0 +1,18 @@
+POI: 			Mathieu_Kassovitz 
+Youtube ID: 	MDl_OYOZA9M 
+Video length: 	645.4 sec 
+Set (V): 		dev 
+ 
+Mathieu_Kassovitz/MDl_OYOZA9M_0000001 240.2 245.6 
+Mathieu_Kassovitz/MDl_OYOZA9M_0000002 298.7 305.5 
+Mathieu_Kassovitz/MDl_OYOZA9M_0000003 311.6 317.9 
+Mathieu_Kassovitz/MDl_OYOZA9M_0000004 329.7 336.7 
+Mathieu_Kassovitz/MDl_OYOZA9M_0000005 343.1 354.4 
+Mathieu_Kassovitz/MDl_OYOZA9M_0000006 377.0 383.0 
+Mathieu_Kassovitz/MDl_OYOZA9M_0000007 393.7 403.1 
+Mathieu_Kassovitz/MDl_OYOZA9M_0000008 440.8 446.9 
+Mathieu_Kassovitz/MDl_OYOZA9M_0000009 481.9 486.2 
+Mathieu_Kassovitz/MDl_OYOZA9M_0000010 508.2 513.3 
+Mathieu_Kassovitz/MDl_OYOZA9M_0000011 607.8 612.3 
+Mathieu_Kassovitz/MDl_OYOZA9M_0000012 617.0 622.8 
+Mathieu_Kassovitz/MDl_OYOZA9M_0000013 623.3 635.9 

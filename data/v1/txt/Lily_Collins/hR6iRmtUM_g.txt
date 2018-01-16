@@ -1,0 +1,8 @@
+POI: 			Lily_Collins 
+Youtube ID: 	hR6iRmtUM_g 
+Video length: 	250.4 sec 
+Set (V): 		dev 
+ 
+Lily_Collins/hR6iRmtUM_g_0000001 99.8 108.4 
+Lily_Collins/hR6iRmtUM_g_0000002 130.9 137.8 
+Lily_Collins/hR6iRmtUM_g_0000003 201.0 207.7 

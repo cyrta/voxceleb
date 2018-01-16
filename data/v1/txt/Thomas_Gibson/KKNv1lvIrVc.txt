@@ -1,0 +1,9 @@
+POI: 			Thomas_Gibson 
+Youtube ID: 	KKNv1lvIrVc 
+Video length: 	276.9 sec 
+Set (V): 		dev 
+ 
+Thomas_Gibson/KKNv1lvIrVc_0000001 20.9 27.4 
+Thomas_Gibson/KKNv1lvIrVc_0000002 121.0 128.4 
+Thomas_Gibson/KKNv1lvIrVc_0000003 178.1 183.9 
+Thomas_Gibson/KKNv1lvIrVc_0000004 208.5 220.7 

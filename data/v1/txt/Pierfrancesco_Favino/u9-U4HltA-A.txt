@@ -1,0 +1,8 @@
+POI: 			Pierfrancesco_Favino 
+Youtube ID: 	u9-U4HltA-A 
+Video length: 	186.8 sec 
+Set (V): 		dev 
+ 
+Pierfrancesco_Favino/u9-U4HltA-A_0000001 44.3 49.2 
+Pierfrancesco_Favino/u9-U4HltA-A_0000002 54.7 59.2 
+Pierfrancesco_Favino/u9-U4HltA-A_0000003 60.0 65.2 

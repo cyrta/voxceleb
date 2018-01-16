@@ -1,0 +1,14 @@
+POI: 			Dove_Cameron 
+Youtube ID: 	zNe0DZDSwU0 
+Video length: 	287.2 sec 
+Set (V): 		dev 
+ 
+Dove_Cameron/zNe0DZDSwU0_0000001 44.7 50.1 
+Dove_Cameron/zNe0DZDSwU0_0000002 61.3 66.2 
+Dove_Cameron/zNe0DZDSwU0_0000003 73.9 83.6 
+Dove_Cameron/zNe0DZDSwU0_0000004 98.1 102.2 
+Dove_Cameron/zNe0DZDSwU0_0000005 115.4 119.5 
+Dove_Cameron/zNe0DZDSwU0_0000006 115.0 124.0 
+Dove_Cameron/zNe0DZDSwU0_0000007 135.1 146.9 
+Dove_Cameron/zNe0DZDSwU0_0000008 182.6 192.8 
+Dove_Cameron/zNe0DZDSwU0_0000009 219.7 224.9 

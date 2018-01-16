@@ -1,0 +1,13 @@
+POI: 			Samantha_Barks 
+Youtube ID: 	noB1BoL5vT8 
+Video length: 	313.2 sec 
+Set (V): 		dev 
+ 
+Samantha_Barks/noB1BoL5vT8_0000001 54.9 74.3 
+Samantha_Barks/noB1BoL5vT8_0000002 75.3 83.0 
+Samantha_Barks/noB1BoL5vT8_0000003 112.2 116.9 
+Samantha_Barks/noB1BoL5vT8_0000004 117.6 122.0 
+Samantha_Barks/noB1BoL5vT8_0000005 123.2 130.2 
+Samantha_Barks/noB1BoL5vT8_0000006 225.9 230.0 
+Samantha_Barks/noB1BoL5vT8_0000007 242.7 254.4 
+Samantha_Barks/noB1BoL5vT8_0000008 271.4 276.5 

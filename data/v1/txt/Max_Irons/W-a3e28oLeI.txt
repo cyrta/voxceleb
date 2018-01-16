@@ -1,0 +1,9 @@
+POI: 			Max_Irons 
+Youtube ID: 	W-a3e28oLeI 
+Video length: 	433.2 sec 
+Set (V): 		dev 
+ 
+Max_Irons/W-a3e28oLeI_0000001 29.0 33.4 
+Max_Irons/W-a3e28oLeI_0000002 87.1 93.0 
+Max_Irons/W-a3e28oLeI_0000003 103.2 107.5 
+Max_Irons/W-a3e28oLeI_0000004 190.2 194.2 

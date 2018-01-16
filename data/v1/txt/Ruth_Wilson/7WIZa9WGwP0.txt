@@ -1,0 +1,11 @@
+POI: 			Ruth_Wilson 
+Youtube ID: 	7WIZa9WGwP0 
+Video length: 	293.3 sec 
+Set (V): 		dev 
+ 
+Ruth_Wilson/7WIZa9WGwP0_0000001 24.2 30.8 
+Ruth_Wilson/7WIZa9WGwP0_0000002 44.9 50.2 
+Ruth_Wilson/7WIZa9WGwP0_0000003 103.1 107.1 
+Ruth_Wilson/7WIZa9WGwP0_0000004 180.1 186.1 
+Ruth_Wilson/7WIZa9WGwP0_0000005 229.2 235.8 
+Ruth_Wilson/7WIZa9WGwP0_0000006 240.0 246.1 

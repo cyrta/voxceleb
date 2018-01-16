@@ -1,0 +1,11 @@
+POI: 			Scott_Speedman 
+Youtube ID: 	CdYDTiK33l4 
+Video length: 	351.5 sec 
+Set (V): 		dev 
+ 
+Scott_Speedman/CdYDTiK33l4_0000001 113.4 118.0 
+Scott_Speedman/CdYDTiK33l4_0000002 134.8 142.4 
+Scott_Speedman/CdYDTiK33l4_0000003 151.5 157.8 
+Scott_Speedman/CdYDTiK33l4_0000004 158.0 167.1 
+Scott_Speedman/CdYDTiK33l4_0000005 170.0 176.6 
+Scott_Speedman/CdYDTiK33l4_0000006 177.4 186.8 

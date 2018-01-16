@@ -1,0 +1,7 @@
+POI: 			Regina_Hall 
+Youtube ID: 	Xo0b4f0UVEA 
+Video length: 	270.8 sec 
+Set (V): 		dev 
+ 
+Regina_Hall/Xo0b4f0UVEA_0000001 72.5 76.9 
+Regina_Hall/Xo0b4f0UVEA_0000002 149.1 155.3 

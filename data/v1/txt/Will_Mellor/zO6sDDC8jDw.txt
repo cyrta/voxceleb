@@ -1,0 +1,12 @@
+POI: 			Will_Mellor 
+Youtube ID: 	zO6sDDC8jDw 
+Video length: 	284.9 sec 
+Set (V): 		dev 
+ 
+Will_Mellor/zO6sDDC8jDw_0000001 14.4 19.6 
+Will_Mellor/zO6sDDC8jDw_0000002 47.4 58.1 
+Will_Mellor/zO6sDDC8jDw_0000003 62.8 71.2 
+Will_Mellor/zO6sDDC8jDw_0000004 88.2 96.1 
+Will_Mellor/zO6sDDC8jDw_0000005 139.0 147.9 
+Will_Mellor/zO6sDDC8jDw_0000006 152.4 159.4 
+Will_Mellor/zO6sDDC8jDw_0000007 244.5 252.0 

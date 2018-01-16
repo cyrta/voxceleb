@@ -1,0 +1,21 @@
+POI: 			Alan_Cumming 
+Youtube ID: 	rMhAG-q3Y3s 
+Video length: 	716.4 sec 
+Set (V): 		dev 
+ 
+Alan_Cumming/rMhAG-q3Y3s_0000001 99.6 104.1 
+Alan_Cumming/rMhAG-q3Y3s_0000002 110.2 114.4 
+Alan_Cumming/rMhAG-q3Y3s_0000003 131.2 136.8 
+Alan_Cumming/rMhAG-q3Y3s_0000004 158.7 174.9 
+Alan_Cumming/rMhAG-q3Y3s_0000005 182.9 186.9 
+Alan_Cumming/rMhAG-q3Y3s_0000006 236.4 242.4 
+Alan_Cumming/rMhAG-q3Y3s_0000007 276.0 284.9 
+Alan_Cumming/rMhAG-q3Y3s_0000008 344.4 349.5 
+Alan_Cumming/rMhAG-q3Y3s_0000009 433.6 439.1 
+Alan_Cumming/rMhAG-q3Y3s_0000010 497.9 502.1 
+Alan_Cumming/rMhAG-q3Y3s_0000011 523.0 526.9 
+Alan_Cumming/rMhAG-q3Y3s_0000012 527.0 531.2 
+Alan_Cumming/rMhAG-q3Y3s_0000013 550.4 554.4 
+Alan_Cumming/rMhAG-q3Y3s_0000014 574.6 580.1 
+Alan_Cumming/rMhAG-q3Y3s_0000015 671.5 677.1 
+Alan_Cumming/rMhAG-q3Y3s_0000016 691.0 702.4 

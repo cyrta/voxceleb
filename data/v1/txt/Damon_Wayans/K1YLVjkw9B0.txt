@@ -1,0 +1,8 @@
+POI: 			Damon_Wayans 
+Youtube ID: 	K1YLVjkw9B0 
+Video length: 	203.5 sec 
+Set (V): 		dev 
+ 
+Damon_Wayans/K1YLVjkw9B0_0000001 93.0 98.0 
+Damon_Wayans/K1YLVjkw9B0_0000002 121.4 126.5 
+Damon_Wayans/K1YLVjkw9B0_0000003 167.7 172.3 

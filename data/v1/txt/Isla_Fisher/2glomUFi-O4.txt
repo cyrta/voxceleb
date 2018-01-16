@@ -1,0 +1,9 @@
+POI: 			Isla_Fisher 
+Youtube ID: 	2glomUFi-O4 
+Video length: 	461.9 sec 
+Set (V): 		dev 
+ 
+Isla_Fisher/2glomUFi-O4_0000001 62.6 67.0 
+Isla_Fisher/2glomUFi-O4_0000002 142.0 149.3 
+Isla_Fisher/2glomUFi-O4_0000003 303.1 307.1 
+Isla_Fisher/2glomUFi-O4_0000004 308.2 321.0 

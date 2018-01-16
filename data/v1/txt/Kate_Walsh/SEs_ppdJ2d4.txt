@@ -1,0 +1,8 @@
+POI: 			Kate_Walsh 
+Youtube ID: 	SEs_ppdJ2d4 
+Video length: 	93.9 sec 
+Set (V): 		dev 
+ 
+Kate_Walsh/SEs_ppdJ2d4_0000001 11.1 19.7 
+Kate_Walsh/SEs_ppdJ2d4_0000002 26.2 33.2 
+Kate_Walsh/SEs_ppdJ2d4_0000003 51.8 60.4 

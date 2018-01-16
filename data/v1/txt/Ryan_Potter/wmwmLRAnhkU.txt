@@ -1,0 +1,9 @@
+POI: 			Ryan_Potter 
+Youtube ID: 	wmwmLRAnhkU 
+Video length: 	200.8 sec 
+Set (V): 		dev 
+ 
+Ryan_Potter/wmwmLRAnhkU_0000001 54.0 66.9 
+Ryan_Potter/wmwmLRAnhkU_0000002 68.4 72.4 
+Ryan_Potter/wmwmLRAnhkU_0000003 109.9 125.0 
+Ryan_Potter/wmwmLRAnhkU_0000004 132.7 143.7 

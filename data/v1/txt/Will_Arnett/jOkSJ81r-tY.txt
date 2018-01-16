@@ -1,0 +1,8 @@
+POI: 			Will_Arnett 
+Youtube ID: 	jOkSJ81r-tY 
+Video length: 	183.4 sec 
+Set (V): 		dev 
+ 
+Will_Arnett/jOkSJ81r-tY_0000001 51.8 56.1 
+Will_Arnett/jOkSJ81r-tY_0000002 85.1 91.6 
+Will_Arnett/jOkSJ81r-tY_0000003 114.7 118.9 

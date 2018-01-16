@@ -1,0 +1,9 @@
+POI: 			Sheryl_Lee_Ralph 
+Youtube ID: 	kawhuWLsxxk 
+Video length: 	109.6 sec 
+Set (V): 		dev 
+ 
+Sheryl_Lee_Ralph/kawhuWLsxxk_0000001 20.5 27.0 
+Sheryl_Lee_Ralph/kawhuWLsxxk_0000002 38.5 44.1 
+Sheryl_Lee_Ralph/kawhuWLsxxk_0000003 58.8 63.4 
+Sheryl_Lee_Ralph/kawhuWLsxxk_0000004 75.7 80.7 

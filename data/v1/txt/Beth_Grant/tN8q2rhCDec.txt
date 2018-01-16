@@ -1,0 +1,10 @@
+POI: 			Beth_Grant 
+Youtube ID: 	tN8q2rhCDec 
+Video length: 	75.8 sec 
+Set (V): 		dev 
+ 
+Beth_Grant/tN8q2rhCDec_0000001 01.2 05.2 
+Beth_Grant/tN8q2rhCDec_0000002 09.9 38.6 
+Beth_Grant/tN8q2rhCDec_0000003 44.0 50.8 
+Beth_Grant/tN8q2rhCDec_0000004 56.2 63.2 
+Beth_Grant/tN8q2rhCDec_0000005 63.7 67.7 

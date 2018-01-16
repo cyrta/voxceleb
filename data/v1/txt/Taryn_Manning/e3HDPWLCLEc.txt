@@ -1,0 +1,7 @@
+POI: 			Taryn_Manning 
+Youtube ID: 	e3HDPWLCLEc 
+Video length: 	175.0 sec 
+Set (V): 		dev 
+ 
+Taryn_Manning/e3HDPWLCLEc_0000001 19.9 24.6 
+Taryn_Manning/e3HDPWLCLEc_0000002 60.8 68.1 

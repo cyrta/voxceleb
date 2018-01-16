@@ -1,0 +1,13 @@
+POI: 			Maria_Menounos 
+Youtube ID: 	Kwp9TNN6gLU 
+Video length: 	393.2 sec 
+Set (V): 		dev 
+ 
+Maria_Menounos/Kwp9TNN6gLU_0000001 155.0 159.7 
+Maria_Menounos/Kwp9TNN6gLU_0000002 198.7 204.6 
+Maria_Menounos/Kwp9TNN6gLU_0000003 215.0 225.8 
+Maria_Menounos/Kwp9TNN6gLU_0000004 253.2 262.2 
+Maria_Menounos/Kwp9TNN6gLU_0000005 266.2 274.7 
+Maria_Menounos/Kwp9TNN6gLU_0000006 305.3 313.4 
+Maria_Menounos/Kwp9TNN6gLU_0000007 318.9 327.1 
+Maria_Menounos/Kwp9TNN6gLU_0000008 342.4 347.5 

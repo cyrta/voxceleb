@@ -1,0 +1,9 @@
+POI: 			Nathalie_Emmanuel 
+Youtube ID: 	iRo3ny2aksA 
+Video length: 	421.5 sec 
+Set (V): 		dev 
+ 
+Nathalie_Emmanuel/iRo3ny2aksA_0000001 122.8 129.2 
+Nathalie_Emmanuel/iRo3ny2aksA_0000002 129.6 138.7 
+Nathalie_Emmanuel/iRo3ny2aksA_0000003 141.2 146.0 
+Nathalie_Emmanuel/iRo3ny2aksA_0000004 146.4 151.0 

@@ -1,0 +1,15 @@
+POI: 			Jenny_Slate 
+Youtube ID: 	cI3rumD76zo 
+Video length: 	248.8 sec 
+Set (V): 		dev 
+ 
+Jenny_Slate/cI3rumD76zo_0000001 18.7 30.8 
+Jenny_Slate/cI3rumD76zo_0000002 42.5 49.3 
+Jenny_Slate/cI3rumD76zo_0000003 51.6 57.5 
+Jenny_Slate/cI3rumD76zo_0000004 75.3 89.4 
+Jenny_Slate/cI3rumD76zo_0000005 102.9 110.0 
+Jenny_Slate/cI3rumD76zo_0000006 111.4 115.8 
+Jenny_Slate/cI3rumD76zo_0000007 131.2 135.2 
+Jenny_Slate/cI3rumD76zo_0000008 172.3 192.1 
+Jenny_Slate/cI3rumD76zo_0000009 196.1 203.3 
+Jenny_Slate/cI3rumD76zo_0000010 208.0 213.9 

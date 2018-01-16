@@ -1,0 +1,7 @@
+POI: 			Paul_Giamatti 
+Youtube ID: 	dzCIG5YuVj0 
+Video length: 	119.7 sec 
+Set (V): 		dev 
+ 
+Paul_Giamatti/dzCIG5YuVj0_0000001 21.6 29.8 
+Paul_Giamatti/dzCIG5YuVj0_0000002 62.9 68.6 

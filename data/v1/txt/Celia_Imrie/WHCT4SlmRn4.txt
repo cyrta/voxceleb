@@ -1,0 +1,17 @@
+POI: 			Celia_Imrie 
+Youtube ID: 	WHCT4SlmRn4 
+Video length: 	286.1 sec 
+Set (V): 		dev 
+ 
+Celia_Imrie/WHCT4SlmRn4_0000001 14.9 19.2 
+Celia_Imrie/WHCT4SlmRn4_0000002 33.2 38.8 
+Celia_Imrie/WHCT4SlmRn4_0000003 49.9 57.0 
+Celia_Imrie/WHCT4SlmRn4_0000004 84.0 96.6 
+Celia_Imrie/WHCT4SlmRn4_0000005 104.7 110.5 
+Celia_Imrie/WHCT4SlmRn4_0000006 146.6 150.6 
+Celia_Imrie/WHCT4SlmRn4_0000007 161.9 166.3 
+Celia_Imrie/WHCT4SlmRn4_0000008 174.8 179.0 
+Celia_Imrie/WHCT4SlmRn4_0000009 179.2 186.8 
+Celia_Imrie/WHCT4SlmRn4_0000010 194.2 202.5 
+Celia_Imrie/WHCT4SlmRn4_0000011 226.9 237.6 
+Celia_Imrie/WHCT4SlmRn4_0000012 253.4 258.9 

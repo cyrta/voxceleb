@@ -1,0 +1,7 @@
+POI: 			John_Larroquette 
+Youtube ID: 	BRomimUy1f0 
+Video length: 	777.4 sec 
+Set (V): 		dev 
+ 
+John_Larroquette/BRomimUy1f0_0000001 217.8 224.2 
+John_Larroquette/BRomimUy1f0_0000002 400.9 407.1 

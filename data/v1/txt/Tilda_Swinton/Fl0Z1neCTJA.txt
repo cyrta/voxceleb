@@ -1,0 +1,38 @@
+POI: 			Tilda_Swinton 
+Youtube ID: 	Fl0Z1neCTJA 
+Video length: 	491.9 sec 
+Set (V): 		dev 
+ 
+Tilda_Swinton/Fl0Z1neCTJA_0000001 06.1 12.3 
+Tilda_Swinton/Fl0Z1neCTJA_0000002 26.7 42.1 
+Tilda_Swinton/Fl0Z1neCTJA_0000003 47.5 55.0 
+Tilda_Swinton/Fl0Z1neCTJA_0000004 55.7 73.1 
+Tilda_Swinton/Fl0Z1neCTJA_0000005 73.9 81.6 
+Tilda_Swinton/Fl0Z1neCTJA_0000006 82.4 89.9 
+Tilda_Swinton/Fl0Z1neCTJA_0000007 90.3 98.6 
+Tilda_Swinton/Fl0Z1neCTJA_0000008 101.2 112.4 
+Tilda_Swinton/Fl0Z1neCTJA_0000009 113.0 120.2 
+Tilda_Swinton/Fl0Z1neCTJA_0000010 120.6 125.7 
+Tilda_Swinton/Fl0Z1neCTJA_0000011 137.6 145.4 
+Tilda_Swinton/Fl0Z1neCTJA_0000012 151.8 167.2 
+Tilda_Swinton/Fl0Z1neCTJA_0000013 162.8 169.4 
+Tilda_Swinton/Fl0Z1neCTJA_0000014 175.9 182.1 
+Tilda_Swinton/Fl0Z1neCTJA_0000015 183.2 200.0 
+Tilda_Swinton/Fl0Z1neCTJA_0000016 203.6 212.3 
+Tilda_Swinton/Fl0Z1neCTJA_0000017 238.1 256.4 
+Tilda_Swinton/Fl0Z1neCTJA_0000018 273.5 288.8 
+Tilda_Swinton/Fl0Z1neCTJA_0000019 289.2 294.0 
+Tilda_Swinton/Fl0Z1neCTJA_0000020 297.0 324.3 
+Tilda_Swinton/Fl0Z1neCTJA_0000021 324.9 330.8 
+Tilda_Swinton/Fl0Z1neCTJA_0000022 331.1 339.6 
+Tilda_Swinton/Fl0Z1neCTJA_0000023 341.0 346.5 
+Tilda_Swinton/Fl0Z1neCTJA_0000024 347.3 370.7 
+Tilda_Swinton/Fl0Z1neCTJA_0000025 375.6 389.5 
+Tilda_Swinton/Fl0Z1neCTJA_0000026 391.4 404.2 
+Tilda_Swinton/Fl0Z1neCTJA_0000027 411.4 423.7 
+Tilda_Swinton/Fl0Z1neCTJA_0000028 441.9 446.8 
+Tilda_Swinton/Fl0Z1neCTJA_0000029 447.4 459.8 
+Tilda_Swinton/Fl0Z1neCTJA_0000030 462.5 470.5 
+Tilda_Swinton/Fl0Z1neCTJA_0000031 454.7 459.8 
+Tilda_Swinton/Fl0Z1neCTJA_0000032 461.4 470.5 
+Tilda_Swinton/Fl0Z1neCTJA_0000033 474.5 485.3 

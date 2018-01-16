@@ -1,0 +1,12 @@
+POI: 			Reba_McEntire 
+Youtube ID: 	jCjAnwcxTDQ 
+Video length: 	196.2 sec 
+Set (V): 		dev 
+ 
+Reba_McEntire/jCjAnwcxTDQ_0000001 35.5 47.6 
+Reba_McEntire/jCjAnwcxTDQ_0000002 58.8 72.5 
+Reba_McEntire/jCjAnwcxTDQ_0000003 78.6 86.4 
+Reba_McEntire/jCjAnwcxTDQ_0000004 96.9 108.4 
+Reba_McEntire/jCjAnwcxTDQ_0000005 135.5 143.8 
+Reba_McEntire/jCjAnwcxTDQ_0000006 155.1 164.8 
+Reba_McEntire/jCjAnwcxTDQ_0000007 167.5 175.1 

@@ -1,0 +1,12 @@
+POI: 			John_Hodgman 
+Youtube ID: 	X15Tv6ECKgU 
+Video length: 	185.2 sec 
+Set (V): 		dev 
+ 
+John_Hodgman/X15Tv6ECKgU_0000001 24.8 29.2 
+John_Hodgman/X15Tv6ECKgU_0000002 43.6 50.8 
+John_Hodgman/X15Tv6ECKgU_0000003 51.0 62.4 
+John_Hodgman/X15Tv6ECKgU_0000004 95.0 99.7 
+John_Hodgman/X15Tv6ECKgU_0000005 99.8 104.8 
+John_Hodgman/X15Tv6ECKgU_0000006 117.1 126.2 
+John_Hodgman/X15Tv6ECKgU_0000007 148.9 157.9 

@@ -1,0 +1,10 @@
+POI: 			Dylan_Moran 
+Youtube ID: 	cyIgvrAXNmU 
+Video length: 	371.9 sec 
+Set (V): 		dev 
+ 
+Dylan_Moran/cyIgvrAXNmU_0000001 23.2 32.4 
+Dylan_Moran/cyIgvrAXNmU_0000002 36.5 41.2 
+Dylan_Moran/cyIgvrAXNmU_0000003 49.5 54.8 
+Dylan_Moran/cyIgvrAXNmU_0000004 135.0 140.4 
+Dylan_Moran/cyIgvrAXNmU_0000005 304.6 311.6 

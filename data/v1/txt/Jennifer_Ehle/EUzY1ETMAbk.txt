@@ -1,0 +1,7 @@
+POI: 			Jennifer_Ehle 
+Youtube ID: 	EUzY1ETMAbk 
+Video length: 	126.2 sec 
+Set (V): 		dev 
+ 
+Jennifer_Ehle/EUzY1ETMAbk_0000001 43.2 49.8 
+Jennifer_Ehle/EUzY1ETMAbk_0000002 58.7 69.0 

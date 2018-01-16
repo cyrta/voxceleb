@@ -1,0 +1,12 @@
+POI: 			Tye_Sheridan 
+Youtube ID: 	53UoFCVS_D0 
+Video length: 	130.9 sec 
+Set (V): 		dev 
+ 
+Tye_Sheridan/53UoFCVS_D0_0000001 09.0 14.6 
+Tye_Sheridan/53UoFCVS_D0_0000002 16.3 24.8 
+Tye_Sheridan/53UoFCVS_D0_0000003 29.1 34.2 
+Tye_Sheridan/53UoFCVS_D0_0000004 35.5 43.6 
+Tye_Sheridan/53UoFCVS_D0_0000005 56.0 69.5 
+Tye_Sheridan/53UoFCVS_D0_0000006 74.0 82.4 
+Tye_Sheridan/53UoFCVS_D0_0000007 99.6 105.6 

@@ -1,0 +1,9 @@
+POI: 			Scott_Speedman 
+Youtube ID: 	a43QFaTbsuw 
+Video length: 	186.7 sec 
+Set (V): 		dev 
+ 
+Scott_Speedman/a43QFaTbsuw_0000001 111.8 121.6 
+Scott_Speedman/a43QFaTbsuw_0000002 137.7 148.1 
+Scott_Speedman/a43QFaTbsuw_0000003 158.4 164.2 
+Scott_Speedman/a43QFaTbsuw_0000004 164.6 171.4 

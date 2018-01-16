@@ -1,0 +1,10 @@
+POI: 			Michael_Socha 
+Youtube ID: 	QNIRGaSOcYI 
+Video length: 	178.7 sec 
+Set (V): 		dev 
+ 
+Michael_Socha/QNIRGaSOcYI_0000001 14.7 20.7 
+Michael_Socha/QNIRGaSOcYI_0000002 45.0 53.4 
+Michael_Socha/QNIRGaSOcYI_0000003 62.2 69.7 
+Michael_Socha/QNIRGaSOcYI_0000004 107.9 115.8 
+Michael_Socha/QNIRGaSOcYI_0000005 129.6 139.6 

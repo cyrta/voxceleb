@@ -1,0 +1,8 @@
+POI: 			Maria_Sharapova 
+Youtube ID: 	KlAMNsfJlJQ 
+Video length: 	276.7 sec 
+Set (V): 		dev 
+ 
+Maria_Sharapova/KlAMNsfJlJQ_0000001 74.7 78.7 
+Maria_Sharapova/KlAMNsfJlJQ_0000002 105.8 110.9 
+Maria_Sharapova/KlAMNsfJlJQ_0000003 240.9 246.0 

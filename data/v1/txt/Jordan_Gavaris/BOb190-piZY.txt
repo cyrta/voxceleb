@@ -1,0 +1,8 @@
+POI: 			Jordan_Gavaris 
+Youtube ID: 	BOb190-piZY 
+Video length: 	123.4 sec 
+Set (V): 		dev 
+ 
+Jordan_Gavaris/BOb190-piZY_0000001 62.2 71.4 
+Jordan_Gavaris/BOb190-piZY_0000002 86.3 90.8 
+Jordan_Gavaris/BOb190-piZY_0000003 116.0 121.5 

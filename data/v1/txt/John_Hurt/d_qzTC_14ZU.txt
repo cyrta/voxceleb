@@ -1,0 +1,13 @@
+POI: 			John_Hurt 
+Youtube ID: 	d_qzTC_14ZU 
+Video length: 	571.1 sec 
+Set (V): 		dev 
+ 
+John_Hurt/d_qzTC_14ZU_0000001 85.2 89.6 
+John_Hurt/d_qzTC_14ZU_0000002 92.0 111.6 
+John_Hurt/d_qzTC_14ZU_0000003 158.4 163.8 
+John_Hurt/d_qzTC_14ZU_0000004 167.1 176.7 
+John_Hurt/d_qzTC_14ZU_0000005 177.0 181.2 
+John_Hurt/d_qzTC_14ZU_0000006 373.8 381.8 
+John_Hurt/d_qzTC_14ZU_0000007 382.4 387.0 
+John_Hurt/d_qzTC_14ZU_0000008 464.4 476.8 

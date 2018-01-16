@@ -1,0 +1,10 @@
+POI: 			Thomas_Lennon 
+Youtube ID: 	nE6uOZHE1bQ 
+Video length: 	256.1 sec 
+Set (V): 		dev 
+ 
+Thomas_Lennon/nE6uOZHE1bQ_0000001 45.3 50.1 
+Thomas_Lennon/nE6uOZHE1bQ_0000002 54.4 58.8 
+Thomas_Lennon/nE6uOZHE1bQ_0000003 121.3 128.6 
+Thomas_Lennon/nE6uOZHE1bQ_0000004 174.2 178.7 
+Thomas_Lennon/nE6uOZHE1bQ_0000005 188.6 196.4 

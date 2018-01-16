@@ -1,0 +1,12 @@
+POI: 			Jeremy_Clarkson 
+Youtube ID: 	eZimKt-kU8s 
+Video length: 	388.2 sec 
+Set (V): 		dev 
+ 
+Jeremy_Clarkson/eZimKt-kU8s_0000001 88.7 93.8 
+Jeremy_Clarkson/eZimKt-kU8s_0000002 161.6 170.2 
+Jeremy_Clarkson/eZimKt-kU8s_0000003 223.5 232.6 
+Jeremy_Clarkson/eZimKt-kU8s_0000004 272.2 280.6 
+Jeremy_Clarkson/eZimKt-kU8s_0000005 335.2 339.7 
+Jeremy_Clarkson/eZimKt-kU8s_0000006 354.6 359.4 
+Jeremy_Clarkson/eZimKt-kU8s_0000007 377.0 381.5 

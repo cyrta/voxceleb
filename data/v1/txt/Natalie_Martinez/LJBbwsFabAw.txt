@@ -1,0 +1,8 @@
+POI: 			Natalie_Martinez 
+Youtube ID: 	LJBbwsFabAw 
+Video length: 	213.6 sec 
+Set (V): 		dev 
+ 
+Natalie_Martinez/LJBbwsFabAw_0000001 63.0 70.3 
+Natalie_Martinez/LJBbwsFabAw_0000002 73.8 108.8 
+Natalie_Martinez/LJBbwsFabAw_0000003 176.3 188.5 

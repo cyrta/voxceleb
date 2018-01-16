@@ -1,0 +1,21 @@
+POI: 			Kevin_Smith 
+Youtube ID: 	msSyAnuw614 
+Video length: 	600.3 sec 
+Set (V): 		dev 
+ 
+Kevin_Smith/msSyAnuw614_0000001 46.8 52.2 
+Kevin_Smith/msSyAnuw614_0000002 66.7 73.4 
+Kevin_Smith/msSyAnuw614_0000003 147.7 151.7 
+Kevin_Smith/msSyAnuw614_0000004 151.8 158.4 
+Kevin_Smith/msSyAnuw614_0000005 244.4 249.9 
+Kevin_Smith/msSyAnuw614_0000006 257.7 266.3 
+Kevin_Smith/msSyAnuw614_0000007 342.0 350.3 
+Kevin_Smith/msSyAnuw614_0000008 348.7 362.0 
+Kevin_Smith/msSyAnuw614_0000009 382.3 387.2 
+Kevin_Smith/msSyAnuw614_0000010 396.2 402.3 
+Kevin_Smith/msSyAnuw614_0000011 406.0 419.7 
+Kevin_Smith/msSyAnuw614_0000012 424.5 428.8 
+Kevin_Smith/msSyAnuw614_0000013 435.7 439.7 
+Kevin_Smith/msSyAnuw614_0000014 523.9 531.9 
+Kevin_Smith/msSyAnuw614_0000015 547.2 551.8 
+Kevin_Smith/msSyAnuw614_0000016 569.3 574.2 

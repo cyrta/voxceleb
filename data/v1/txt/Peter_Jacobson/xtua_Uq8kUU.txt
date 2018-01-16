@@ -1,0 +1,23 @@
+POI: 			Peter_Jacobson 
+Youtube ID: 	xtua_Uq8kUU 
+Video length: 	313.9 sec 
+Set (V): 		dev 
+ 
+Peter_Jacobson/xtua_Uq8kUU_0000001 22.4 30.2 
+Peter_Jacobson/xtua_Uq8kUU_0000002 44.7 56.2 
+Peter_Jacobson/xtua_Uq8kUU_0000003 87.6 95.4 
+Peter_Jacobson/xtua_Uq8kUU_0000004 97.6 117.6 
+Peter_Jacobson/xtua_Uq8kUU_0000005 119.4 129.4 
+Peter_Jacobson/xtua_Uq8kUU_0000006 132.0 140.0 
+Peter_Jacobson/xtua_Uq8kUU_0000007 142.2 151.8 
+Peter_Jacobson/xtua_Uq8kUU_0000008 162.7 170.1 
+Peter_Jacobson/xtua_Uq8kUU_0000009 181.5 199.6 
+Peter_Jacobson/xtua_Uq8kUU_0000010 200.6 206.2 
+Peter_Jacobson/xtua_Uq8kUU_0000011 206.4 216.4 
+Peter_Jacobson/xtua_Uq8kUU_0000012 229.0 240.7 
+Peter_Jacobson/xtua_Uq8kUU_0000013 243.2 248.8 
+Peter_Jacobson/xtua_Uq8kUU_0000014 251.0 260.1 
+Peter_Jacobson/xtua_Uq8kUU_0000015 260.6 271.5 
+Peter_Jacobson/xtua_Uq8kUU_0000016 294.5 300.6 
+Peter_Jacobson/xtua_Uq8kUU_0000017 283.2 293.1 
+Peter_Jacobson/xtua_Uq8kUU_0000018 305.5 310.0 

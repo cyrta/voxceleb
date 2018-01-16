@@ -1,0 +1,7 @@
+POI: 			Rob_Dyrdek 
+Youtube ID: 	P8YddShCTD4 
+Video length: 	89.7 sec 
+Set (V): 		dev 
+ 
+Rob_Dyrdek/P8YddShCTD4_0000001 41.1 45.3 
+Rob_Dyrdek/P8YddShCTD4_0000002 67.8 74.3 

@@ -1,0 +1,10 @@
+POI: 			David_Jason 
+Youtube ID: 	zsTt7m7U_w4 
+Video length: 	149.7 sec 
+Set (V): 		dev 
+ 
+David_Jason/zsTt7m7U_w4_0000001 18.9 23.3 
+David_Jason/zsTt7m7U_w4_0000002 28.6 41.4 
+David_Jason/zsTt7m7U_w4_0000003 65.1 73.0 
+David_Jason/zsTt7m7U_w4_0000004 96.4 101.0 
+David_Jason/zsTt7m7U_w4_0000005 111.0 126.3 

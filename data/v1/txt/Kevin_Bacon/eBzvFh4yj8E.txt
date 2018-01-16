@@ -1,0 +1,7 @@
+POI: 			Kevin_Bacon 
+Youtube ID: 	eBzvFh4yj8E 
+Video length: 	148.8 sec 
+Set (V): 		dev 
+ 
+Kevin_Bacon/eBzvFh4yj8E_0000001 17.3 24.3 
+Kevin_Bacon/eBzvFh4yj8E_0000002 50.6 61.6 

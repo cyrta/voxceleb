@@ -1,0 +1,27 @@
+POI: 			Kathie_Lee_Gifford 
+Youtube ID: 	4tlCKgb3LvU 
+Video length: 	524.5 sec 
+Set (V): 		dev 
+ 
+Kathie_Lee_Gifford/4tlCKgb3LvU_0000001 03.7 16.9 
+Kathie_Lee_Gifford/4tlCKgb3LvU_0000002 17.9 34.8 
+Kathie_Lee_Gifford/4tlCKgb3LvU_0000003 74.1 97.8 
+Kathie_Lee_Gifford/4tlCKgb3LvU_0000004 103.6 114.3 
+Kathie_Lee_Gifford/4tlCKgb3LvU_0000005 119.5 124.8 
+Kathie_Lee_Gifford/4tlCKgb3LvU_0000006 125.1 130.2 
+Kathie_Lee_Gifford/4tlCKgb3LvU_0000007 130.7 144.4 
+Kathie_Lee_Gifford/4tlCKgb3LvU_0000008 144.6 158.8 
+Kathie_Lee_Gifford/4tlCKgb3LvU_0000009 159.1 175.7 
+Kathie_Lee_Gifford/4tlCKgb3LvU_0000010 176.6 192.4 
+Kathie_Lee_Gifford/4tlCKgb3LvU_0000011 194.2 225.1 
+Kathie_Lee_Gifford/4tlCKgb3LvU_0000012 225.5 235.1 
+Kathie_Lee_Gifford/4tlCKgb3LvU_0000013 235.3 264.0 
+Kathie_Lee_Gifford/4tlCKgb3LvU_0000014 270.9 284.4 
+Kathie_Lee_Gifford/4tlCKgb3LvU_0000015 287.7 320.5 
+Kathie_Lee_Gifford/4tlCKgb3LvU_0000016 321.0 330.4 
+Kathie_Lee_Gifford/4tlCKgb3LvU_0000017 332.7 339.2 
+Kathie_Lee_Gifford/4tlCKgb3LvU_0000018 341.4 373.0 
+Kathie_Lee_Gifford/4tlCKgb3LvU_0000019 373.3 410.8 
+Kathie_Lee_Gifford/4tlCKgb3LvU_0000020 414.3 426.3 
+Kathie_Lee_Gifford/4tlCKgb3LvU_0000021 430.6 437.2 
+Kathie_Lee_Gifford/4tlCKgb3LvU_0000022 430.0 435.8 

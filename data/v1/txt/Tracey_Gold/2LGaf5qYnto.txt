@@ -1,0 +1,25 @@
+POI: 			Tracey_Gold 
+Youtube ID: 	2LGaf5qYnto 
+Video length: 	640.0 sec 
+Set (V): 		dev 
+ 
+Tracey_Gold/2LGaf5qYnto_0000001 72.0 77.0 
+Tracey_Gold/2LGaf5qYnto_0000002 77.8 84.2 
+Tracey_Gold/2LGaf5qYnto_0000003 148.7 156.4 
+Tracey_Gold/2LGaf5qYnto_0000004 213.8 218.1 
+Tracey_Gold/2LGaf5qYnto_0000005 222.5 228.4 
+Tracey_Gold/2LGaf5qYnto_0000006 299.9 320.1 
+Tracey_Gold/2LGaf5qYnto_0000007 321.7 326.4 
+Tracey_Gold/2LGaf5qYnto_0000008 327.0 332.1 
+Tracey_Gold/2LGaf5qYnto_0000009 332.6 367.0 
+Tracey_Gold/2LGaf5qYnto_0000010 368.5 376.9 
+Tracey_Gold/2LGaf5qYnto_0000011 378.0 383.2 
+Tracey_Gold/2LGaf5qYnto_0000012 386.2 398.6 
+Tracey_Gold/2LGaf5qYnto_0000013 405.1 413.6 
+Tracey_Gold/2LGaf5qYnto_0000014 424.2 428.8 
+Tracey_Gold/2LGaf5qYnto_0000015 439.0 462.4 
+Tracey_Gold/2LGaf5qYnto_0000016 467.4 475.8 
+Tracey_Gold/2LGaf5qYnto_0000017 562.0 566.3 
+Tracey_Gold/2LGaf5qYnto_0000018 569.8 576.2 
+Tracey_Gold/2LGaf5qYnto_0000019 576.5 585.6 
+Tracey_Gold/2LGaf5qYnto_0000020 588.8 592.8 

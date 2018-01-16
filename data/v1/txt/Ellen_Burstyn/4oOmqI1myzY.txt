@@ -1,0 +1,7 @@
+POI: 			Ellen_Burstyn 
+Youtube ID: 	4oOmqI1myzY 
+Video length: 	60.1 sec 
+Set (V): 		test 
+ 
+Ellen_Burstyn/4oOmqI1myzY_0000001 06.1 11.9 
+Ellen_Burstyn/4oOmqI1myzY_0000002 15.2 29.2 

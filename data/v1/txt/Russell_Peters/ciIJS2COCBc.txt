@@ -1,0 +1,11 @@
+POI: 			Russell_Peters 
+Youtube ID: 	ciIJS2COCBc 
+Video length: 	256.7 sec 
+Set (V): 		dev 
+ 
+Russell_Peters/ciIJS2COCBc_0000001 43.0 47.3 
+Russell_Peters/ciIJS2COCBc_0000002 80.7 85.7 
+Russell_Peters/ciIJS2COCBc_0000003 113.9 122.6 
+Russell_Peters/ciIJS2COCBc_0000004 148.4 152.7 
+Russell_Peters/ciIJS2COCBc_0000005 206.3 211.8 
+Russell_Peters/ciIJS2COCBc_0000006 241.3 255.0 

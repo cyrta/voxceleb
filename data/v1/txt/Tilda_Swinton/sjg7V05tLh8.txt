@@ -1,0 +1,15 @@
+POI: 			Tilda_Swinton 
+Youtube ID: 	sjg7V05tLh8 
+Video length: 	269.7 sec 
+Set (V): 		dev 
+ 
+Tilda_Swinton/sjg7V05tLh8_0000001 48.5 58.1 
+Tilda_Swinton/sjg7V05tLh8_0000002 76.6 80.7 
+Tilda_Swinton/sjg7V05tLh8_0000003 80.9 86.5 
+Tilda_Swinton/sjg7V05tLh8_0000004 87.8 95.6 
+Tilda_Swinton/sjg7V05tLh8_0000005 141.7 157.3 
+Tilda_Swinton/sjg7V05tLh8_0000006 163.9 190.1 
+Tilda_Swinton/sjg7V05tLh8_0000007 195.4 204.4 
+Tilda_Swinton/sjg7V05tLh8_0000008 205.6 210.8 
+Tilda_Swinton/sjg7V05tLh8_0000009 212.8 220.8 
+Tilda_Swinton/sjg7V05tLh8_0000010 227.5 231.5 

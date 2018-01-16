@@ -1,0 +1,8 @@
+POI: 			Anthony_Mackie 
+Youtube ID: 	Q2Wse5mdLiE 
+Video length: 	196.0 sec 
+Set (V): 		dev 
+ 
+Anthony_Mackie/Q2Wse5mdLiE_0000001 34.8 39.4 
+Anthony_Mackie/Q2Wse5mdLiE_0000002 81.8 86.0 
+Anthony_Mackie/Q2Wse5mdLiE_0000003 137.9 141.8 

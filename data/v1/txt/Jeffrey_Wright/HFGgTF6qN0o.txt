@@ -1,0 +1,8 @@
+POI: 			Jeffrey_Wright 
+Youtube ID: 	HFGgTF6qN0o 
+Video length: 	86.2 sec 
+Set (V): 		dev 
+ 
+Jeffrey_Wright/HFGgTF6qN0o_0000001 17.6 22.4 
+Jeffrey_Wright/HFGgTF6qN0o_0000002 22.5 29.8 
+Jeffrey_Wright/HFGgTF6qN0o_0000003 55.2 59.8 

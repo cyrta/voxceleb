@@ -1,0 +1,17 @@
+POI: 			Patton_Oswalt 
+Youtube ID: 	VDjXBwkTaG8 
+Video length: 	233.9 sec 
+Set (V): 		dev 
+ 
+Patton_Oswalt/VDjXBwkTaG8_0000001 21.4 25.4 
+Patton_Oswalt/VDjXBwkTaG8_0000002 39.5 44.2 
+Patton_Oswalt/VDjXBwkTaG8_0000003 44.8 54.8 
+Patton_Oswalt/VDjXBwkTaG8_0000004 62.7 74.3 
+Patton_Oswalt/VDjXBwkTaG8_0000005 78.8 87.7 
+Patton_Oswalt/VDjXBwkTaG8_0000006 101.4 109.0 
+Patton_Oswalt/VDjXBwkTaG8_0000007 118.0 124.1 
+Patton_Oswalt/VDjXBwkTaG8_0000008 141.6 148.6 
+Patton_Oswalt/VDjXBwkTaG8_0000009 153.3 171.9 
+Patton_Oswalt/VDjXBwkTaG8_0000010 172.7 185.2 
+Patton_Oswalt/VDjXBwkTaG8_0000011 189.3 194.3 
+Patton_Oswalt/VDjXBwkTaG8_0000012 221.0 229.4 

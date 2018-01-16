@@ -1,0 +1,7 @@
+POI: 			Don_Rickles 
+Youtube ID: 	PjeXTCdGGXM 
+Video length: 	382.5 sec 
+Set (V): 		dev 
+ 
+Don_Rickles/PjeXTCdGGXM_0000001 154.2 159.6 
+Don_Rickles/PjeXTCdGGXM_0000002 235.8 241.2 

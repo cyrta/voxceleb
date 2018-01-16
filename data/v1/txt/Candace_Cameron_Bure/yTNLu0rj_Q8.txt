@@ -1,0 +1,11 @@
+POI: 			Candace_Cameron_Bure 
+Youtube ID: 	yTNLu0rj_Q8 
+Video length: 	148.6 sec 
+Set (V): 		dev 
+ 
+Candace_Cameron_Bure/yTNLu0rj_Q8_0000001 17.3 25.7 
+Candace_Cameron_Bure/yTNLu0rj_Q8_0000002 38.8 45.4 
+Candace_Cameron_Bure/yTNLu0rj_Q8_0000003 50.9 55.4 
+Candace_Cameron_Bure/yTNLu0rj_Q8_0000004 59.0 73.1 
+Candace_Cameron_Bure/yTNLu0rj_Q8_0000005 89.6 107.5 
+Candace_Cameron_Bure/yTNLu0rj_Q8_0000006 128.8 141.0 

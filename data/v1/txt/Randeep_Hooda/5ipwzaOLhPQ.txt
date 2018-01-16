@@ -1,0 +1,9 @@
+POI: 			Randeep_Hooda 
+Youtube ID: 	5ipwzaOLhPQ 
+Video length: 	280.7 sec 
+Set (V): 		dev 
+ 
+Randeep_Hooda/5ipwzaOLhPQ_0000001 217.0 224.8 
+Randeep_Hooda/5ipwzaOLhPQ_0000002 226.5 230.8 
+Randeep_Hooda/5ipwzaOLhPQ_0000003 248.8 254.4 
+Randeep_Hooda/5ipwzaOLhPQ_0000004 260.2 271.8 

@@ -1,0 +1,18 @@
+POI: 			Jaime_Winstone 
+Youtube ID: 	1hEvqYi9kkk 
+Video length: 	181.2 sec 
+Set (V): 		dev 
+ 
+Jaime_Winstone/1hEvqYi9kkk_0000001 24.0 32.0 
+Jaime_Winstone/1hEvqYi9kkk_0000002 43.4 49.1 
+Jaime_Winstone/1hEvqYi9kkk_0000003 53.9 59.1 
+Jaime_Winstone/1hEvqYi9kkk_0000004 59.9 64.0 
+Jaime_Winstone/1hEvqYi9kkk_0000005 82.2 90.6 
+Jaime_Winstone/1hEvqYi9kkk_0000006 91.2 101.2 
+Jaime_Winstone/1hEvqYi9kkk_0000007 103.4 109.0 
+Jaime_Winstone/1hEvqYi9kkk_0000008 109.1 116.7 
+Jaime_Winstone/1hEvqYi9kkk_0000009 126.6 131.2 
+Jaime_Winstone/1hEvqYi9kkk_0000010 137.0 142.0 
+Jaime_Winstone/1hEvqYi9kkk_0000011 142.9 152.2 
+Jaime_Winstone/1hEvqYi9kkk_0000012 156.5 162.8 
+Jaime_Winstone/1hEvqYi9kkk_0000013 171.8 176.7 

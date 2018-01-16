@@ -1,0 +1,11 @@
+POI: 			Joe_Flanigan 
+Youtube ID: 	HBOvoe31cCo 
+Video length: 	77.8 sec 
+Set (V): 		dev 
+ 
+Joe_Flanigan/HBOvoe31cCo_0000001 13.9 22.3 
+Joe_Flanigan/HBOvoe31cCo_0000002 23.4 27.4 
+Joe_Flanigan/HBOvoe31cCo_0000003 28.2 40.5 
+Joe_Flanigan/HBOvoe31cCo_0000004 45.8 50.7 
+Joe_Flanigan/HBOvoe31cCo_0000005 51.6 62.2 
+Joe_Flanigan/HBOvoe31cCo_0000006 66.2 72.3 

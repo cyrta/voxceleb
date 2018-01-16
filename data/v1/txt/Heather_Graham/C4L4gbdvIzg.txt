@@ -1,0 +1,12 @@
+POI: 			Heather_Graham 
+Youtube ID: 	C4L4gbdvIzg 
+Video length: 	335.5 sec 
+Set (V): 		dev 
+ 
+Heather_Graham/C4L4gbdvIzg_0000001 70.7 86.1 
+Heather_Graham/C4L4gbdvIzg_0000002 105.7 111.2 
+Heather_Graham/C4L4gbdvIzg_0000003 137.9 157.5 
+Heather_Graham/C4L4gbdvIzg_0000004 169.5 178.6 
+Heather_Graham/C4L4gbdvIzg_0000005 199.6 203.7 
+Heather_Graham/C4L4gbdvIzg_0000006 246.5 259.5 
+Heather_Graham/C4L4gbdvIzg_0000007 277.8 282.8 

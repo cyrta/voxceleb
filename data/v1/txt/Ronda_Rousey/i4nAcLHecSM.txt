@@ -1,0 +1,28 @@
+POI: 			Ronda_Rousey 
+Youtube ID: 	i4nAcLHecSM 
+Video length: 	388.9 sec 
+Set (V): 		dev 
+ 
+Ronda_Rousey/i4nAcLHecSM_0000001 13.2 17.3 
+Ronda_Rousey/i4nAcLHecSM_0000002 32.4 39.2 
+Ronda_Rousey/i4nAcLHecSM_0000003 39.9 44.7 
+Ronda_Rousey/i4nAcLHecSM_0000004 62.7 68.2 
+Ronda_Rousey/i4nAcLHecSM_0000005 96.8 101.4 
+Ronda_Rousey/i4nAcLHecSM_0000006 105.1 116.1 
+Ronda_Rousey/i4nAcLHecSM_0000007 118.2 128.7 
+Ronda_Rousey/i4nAcLHecSM_0000008 149.5 165.2 
+Ronda_Rousey/i4nAcLHecSM_0000009 187.3 193.3 
+Ronda_Rousey/i4nAcLHecSM_0000010 198.6 202.8 
+Ronda_Rousey/i4nAcLHecSM_0000011 214.8 219.1 
+Ronda_Rousey/i4nAcLHecSM_0000012 223.6 232.9 
+Ronda_Rousey/i4nAcLHecSM_0000013 234.3 241.8 
+Ronda_Rousey/i4nAcLHecSM_0000014 244.4 257.7 
+Ronda_Rousey/i4nAcLHecSM_0000015 260.9 265.3 
+Ronda_Rousey/i4nAcLHecSM_0000016 266.7 271.3 
+Ronda_Rousey/i4nAcLHecSM_0000017 287.8 292.0 
+Ronda_Rousey/i4nAcLHecSM_0000018 298.1 305.7 
+Ronda_Rousey/i4nAcLHecSM_0000019 307.5 321.9 
+Ronda_Rousey/i4nAcLHecSM_0000020 329.6 337.3 
+Ronda_Rousey/i4nAcLHecSM_0000021 358.7 364.6 
+Ronda_Rousey/i4nAcLHecSM_0000022 370.9 375.5 
+Ronda_Rousey/i4nAcLHecSM_0000023 380.0 385.9 

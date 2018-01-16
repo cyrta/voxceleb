@@ -1,0 +1,35 @@
+POI: 			Nelly_Furtado 
+Youtube ID: 	KK6k_PziFI8 
+Video length: 	557.0 sec 
+Set (V): 		dev 
+ 
+Nelly_Furtado/KK6k_PziFI8_0000001 15.1 19.6 
+Nelly_Furtado/KK6k_PziFI8_0000002 23.6 28.0 
+Nelly_Furtado/KK6k_PziFI8_0000003 35.4 46.8 
+Nelly_Furtado/KK6k_PziFI8_0000004 49.4 54.5 
+Nelly_Furtado/KK6k_PziFI8_0000005 59.9 77.0 
+Nelly_Furtado/KK6k_PziFI8_0000006 78.2 82.6 
+Nelly_Furtado/KK6k_PziFI8_0000007 82.7 100.9 
+Nelly_Furtado/KK6k_PziFI8_0000008 108.0 125.7 
+Nelly_Furtado/KK6k_PziFI8_0000009 126.0 133.0 
+Nelly_Furtado/KK6k_PziFI8_0000010 135.5 140.6 
+Nelly_Furtado/KK6k_PziFI8_0000011 146.2 177.7 
+Nelly_Furtado/KK6k_PziFI8_0000012 179.1 201.3 
+Nelly_Furtado/KK6k_PziFI8_0000013 228.8 266.0 
+Nelly_Furtado/KK6k_PziFI8_0000014 266.6 280.0 
+Nelly_Furtado/KK6k_PziFI8_0000015 290.4 295.8 
+Nelly_Furtado/KK6k_PziFI8_0000016 305.2 313.4 
+Nelly_Furtado/KK6k_PziFI8_0000017 318.0 328.2 
+Nelly_Furtado/KK6k_PziFI8_0000018 339.6 350.5 
+Nelly_Furtado/KK6k_PziFI8_0000019 351.2 367.1 
+Nelly_Furtado/KK6k_PziFI8_0000020 380.8 384.8 
+Nelly_Furtado/KK6k_PziFI8_0000021 385.8 396.4 
+Nelly_Furtado/KK6k_PziFI8_0000022 402.2 410.7 
+Nelly_Furtado/KK6k_PziFI8_0000023 419.2 426.4 
+Nelly_Furtado/KK6k_PziFI8_0000024 436.3 443.6 
+Nelly_Furtado/KK6k_PziFI8_0000025 447.1 456.5 
+Nelly_Furtado/KK6k_PziFI8_0000026 467.9 474.1 
+Nelly_Furtado/KK6k_PziFI8_0000027 475.4 480.5 
+Nelly_Furtado/KK6k_PziFI8_0000028 498.5 502.9 
+Nelly_Furtado/KK6k_PziFI8_0000029 518.7 523.5 
+Nelly_Furtado/KK6k_PziFI8_0000030 523.9 540.6 

@@ -1,0 +1,24 @@
+POI: 			Irrfan_Khan 
+Youtube ID: 	WqPniXc7PxY 
+Video length: 	871.6 sec 
+Set (V): 		dev 
+ 
+Irrfan_Khan/WqPniXc7PxY_0000001 00.8 10.1 
+Irrfan_Khan/WqPniXc7PxY_0000002 30.1 34.5 
+Irrfan_Khan/WqPniXc7PxY_0000003 46.0 50.8 
+Irrfan_Khan/WqPniXc7PxY_0000004 62.4 73.6 
+Irrfan_Khan/WqPniXc7PxY_0000005 205.5 211.5 
+Irrfan_Khan/WqPniXc7PxY_0000006 213.4 217.7 
+Irrfan_Khan/WqPniXc7PxY_0000007 220.1 225.1 
+Irrfan_Khan/WqPniXc7PxY_0000008 226.1 233.8 
+Irrfan_Khan/WqPniXc7PxY_0000009 257.6 261.9 
+Irrfan_Khan/WqPniXc7PxY_0000010 271.2 279.4 
+Irrfan_Khan/WqPniXc7PxY_0000011 449.8 455.0 
+Irrfan_Khan/WqPniXc7PxY_0000012 547.9 557.4 
+Irrfan_Khan/WqPniXc7PxY_0000013 643.4 655.8 
+Irrfan_Khan/WqPniXc7PxY_0000014 691.0 695.0 
+Irrfan_Khan/WqPniXc7PxY_0000015 698.8 704.5 
+Irrfan_Khan/WqPniXc7PxY_0000016 788.6 796.2 
+Irrfan_Khan/WqPniXc7PxY_0000017 815.0 822.1 
+Irrfan_Khan/WqPniXc7PxY_0000018 823.0 828.8 
+Irrfan_Khan/WqPniXc7PxY_0000019 853.6 860.0 

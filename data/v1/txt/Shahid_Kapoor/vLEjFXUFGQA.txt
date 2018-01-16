@@ -1,0 +1,11 @@
+POI: 			Shahid_Kapoor 
+Youtube ID: 	vLEjFXUFGQA 
+Video length: 	1165.7 sec 
+Set (V): 		dev 
+ 
+Shahid_Kapoor/vLEjFXUFGQA_0000001 37.7 44.8 
+Shahid_Kapoor/vLEjFXUFGQA_0000002 615.2 620.6 
+Shahid_Kapoor/vLEjFXUFGQA_0000003 627.8 632.6 
+Shahid_Kapoor/vLEjFXUFGQA_0000004 663.9 668.8 
+Shahid_Kapoor/vLEjFXUFGQA_0000005 683.3 688.0 
+Shahid_Kapoor/vLEjFXUFGQA_0000006 696.2 701.7 

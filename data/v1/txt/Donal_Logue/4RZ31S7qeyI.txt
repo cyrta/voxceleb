@@ -1,0 +1,11 @@
+POI: 			Donal_Logue 
+Youtube ID: 	4RZ31S7qeyI 
+Video length: 	173.5 sec 
+Set (V): 		dev 
+ 
+Donal_Logue/4RZ31S7qeyI_0000001 34.2 41.3 
+Donal_Logue/4RZ31S7qeyI_0000002 56.6 61.4 
+Donal_Logue/4RZ31S7qeyI_0000003 63.9 68.3 
+Donal_Logue/4RZ31S7qeyI_0000004 85.9 91.7 
+Donal_Logue/4RZ31S7qeyI_0000005 107.7 113.2 
+Donal_Logue/4RZ31S7qeyI_0000006 115.4 124.6 

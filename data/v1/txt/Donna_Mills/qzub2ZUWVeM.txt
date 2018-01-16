@@ -1,0 +1,18 @@
+POI: 			Donna_Mills 
+Youtube ID: 	qzub2ZUWVeM 
+Video length: 	461.6 sec 
+Set (V): 		dev 
+ 
+Donna_Mills/qzub2ZUWVeM_0000001 36.8 54.3 
+Donna_Mills/qzub2ZUWVeM_0000002 63.5 75.8 
+Donna_Mills/qzub2ZUWVeM_0000003 116.8 121.8 
+Donna_Mills/qzub2ZUWVeM_0000004 122.1 127.9 
+Donna_Mills/qzub2ZUWVeM_0000005 129.2 136.0 
+Donna_Mills/qzub2ZUWVeM_0000006 265.6 271.0 
+Donna_Mills/qzub2ZUWVeM_0000007 275.3 279.5 
+Donna_Mills/qzub2ZUWVeM_0000008 325.8 331.5 
+Donna_Mills/qzub2ZUWVeM_0000009 362.1 366.4 
+Donna_Mills/qzub2ZUWVeM_0000010 366.9 372.8 
+Donna_Mills/qzub2ZUWVeM_0000011 377.9 386.8 
+Donna_Mills/qzub2ZUWVeM_0000012 407.1 416.0 
+Donna_Mills/qzub2ZUWVeM_0000013 438.3 444.6 

@@ -1,0 +1,8 @@
+POI: 			Evanna_Lynch 
+Youtube ID: 	igRoN6MXsWo 
+Video length: 	94.6 sec 
+Set (V): 		test 
+ 
+Evanna_Lynch/igRoN6MXsWo_0000001 42.0 46.9 
+Evanna_Lynch/igRoN6MXsWo_0000002 57.4 61.6 
+Evanna_Lynch/igRoN6MXsWo_0000003 69.1 73.5 

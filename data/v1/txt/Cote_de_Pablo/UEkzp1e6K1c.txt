@@ -1,0 +1,8 @@
+POI: 			Cote_de_Pablo 
+Youtube ID: 	UEkzp1e6K1c 
+Video length: 	372.8 sec 
+Set (V): 		dev 
+ 
+Cote_de_Pablo/UEkzp1e6K1c_0000001 151.8 157.6 
+Cote_de_Pablo/UEkzp1e6K1c_0000002 172.0 178.8 
+Cote_de_Pablo/UEkzp1e6K1c_0000003 202.1 206.8 

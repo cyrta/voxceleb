@@ -1,0 +1,20 @@
+POI: 			Silas_Weir_Mitchell 
+Youtube ID: 	J9lhAAa_avk 
+Video length: 	179.1 sec 
+Set (V): 		dev 
+ 
+Silas_Weir_Mitchell/J9lhAAa_avk_0000001 14.0 20.2 
+Silas_Weir_Mitchell/J9lhAAa_avk_0000002 32.8 40.0 
+Silas_Weir_Mitchell/J9lhAAa_avk_0000003 44.1 48.6 
+Silas_Weir_Mitchell/J9lhAAa_avk_0000004 55.9 63.5 
+Silas_Weir_Mitchell/J9lhAAa_avk_0000005 69.0 78.1 
+Silas_Weir_Mitchell/J9lhAAa_avk_0000006 79.1 83.6 
+Silas_Weir_Mitchell/J9lhAAa_avk_0000007 85.8 97.4 
+Silas_Weir_Mitchell/J9lhAAa_avk_0000008 89.4 98.0 
+Silas_Weir_Mitchell/J9lhAAa_avk_0000009 102.0 107.3 
+Silas_Weir_Mitchell/J9lhAAa_avk_0000010 114.9 121.4 
+Silas_Weir_Mitchell/J9lhAAa_avk_0000011 132.4 140.2 
+Silas_Weir_Mitchell/J9lhAAa_avk_0000012 141.4 151.7 
+Silas_Weir_Mitchell/J9lhAAa_avk_0000013 155.6 161.9 
+Silas_Weir_Mitchell/J9lhAAa_avk_0000014 163.2 169.6 
+Silas_Weir_Mitchell/J9lhAAa_avk_0000015 171.2 176.4 

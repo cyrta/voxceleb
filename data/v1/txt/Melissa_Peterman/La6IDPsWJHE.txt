@@ -1,0 +1,20 @@
+POI: 			Melissa_Peterman 
+Youtube ID: 	La6IDPsWJHE 
+Video length: 	365.3 sec 
+Set (V): 		dev 
+ 
+Melissa_Peterman/La6IDPsWJHE_0000001 10.9 28.2 
+Melissa_Peterman/La6IDPsWJHE_0000002 48.3 57.8 
+Melissa_Peterman/La6IDPsWJHE_0000003 70.2 76.2 
+Melissa_Peterman/La6IDPsWJHE_0000004 80.8 87.0 
+Melissa_Peterman/La6IDPsWJHE_0000005 102.0 107.6 
+Melissa_Peterman/La6IDPsWJHE_0000006 108.0 112.7 
+Melissa_Peterman/La6IDPsWJHE_0000007 134.5 153.1 
+Melissa_Peterman/La6IDPsWJHE_0000008 155.1 160.5 
+Melissa_Peterman/La6IDPsWJHE_0000009 164.7 173.2 
+Melissa_Peterman/La6IDPsWJHE_0000010 173.8 177.7 
+Melissa_Peterman/La6IDPsWJHE_0000011 193.7 197.7 
+Melissa_Peterman/La6IDPsWJHE_0000012 201.7 226.4 
+Melissa_Peterman/La6IDPsWJHE_0000013 232.7 236.8 
+Melissa_Peterman/La6IDPsWJHE_0000014 237.2 242.1 
+Melissa_Peterman/La6IDPsWJHE_0000015 276.2 300.9 

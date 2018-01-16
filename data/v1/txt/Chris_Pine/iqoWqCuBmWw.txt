@@ -1,0 +1,8 @@
+POI: 			Chris_Pine 
+Youtube ID: 	iqoWqCuBmWw 
+Video length: 	269.9 sec 
+Set (V): 		dev 
+ 
+Chris_Pine/iqoWqCuBmWw_0000001 14.7 23.5 
+Chris_Pine/iqoWqCuBmWw_0000002 109.6 119.7 
+Chris_Pine/iqoWqCuBmWw_0000003 120.4 128.3 

@@ -1,0 +1,11 @@
+POI: 			Cedric_the_Entertainer 
+Youtube ID: 	JXnslFeWgVc 
+Video length: 	332.3 sec 
+Set (V): 		dev 
+ 
+Cedric_the_Entertainer/JXnslFeWgVc_0000001 87.1 92.2 
+Cedric_the_Entertainer/JXnslFeWgVc_0000002 94.4 99.3 
+Cedric_the_Entertainer/JXnslFeWgVc_0000003 170.0 185.9 
+Cedric_the_Entertainer/JXnslFeWgVc_0000004 234.8 242.4 
+Cedric_the_Entertainer/JXnslFeWgVc_0000005 253.8 258.8 
+Cedric_the_Entertainer/JXnslFeWgVc_0000006 304.5 310.2 

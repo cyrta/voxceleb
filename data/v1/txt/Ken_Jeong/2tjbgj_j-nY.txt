@@ -1,0 +1,10 @@
+POI: 			Ken_Jeong 
+Youtube ID: 	2tjbgj_j-nY 
+Video length: 	74.3 sec 
+Set (V): 		dev 
+ 
+Ken_Jeong/2tjbgj_j-nY_0000001 10.6 15.0 
+Ken_Jeong/2tjbgj_j-nY_0000002 36.0 41.6 
+Ken_Jeong/2tjbgj_j-nY_0000003 42.6 48.1 
+Ken_Jeong/2tjbgj_j-nY_0000004 52.8 60.4 
+Ken_Jeong/2tjbgj_j-nY_0000005 60.0 64.7 

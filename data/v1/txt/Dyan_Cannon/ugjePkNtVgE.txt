@@ -1,0 +1,14 @@
+POI: 			Dyan_Cannon 
+Youtube ID: 	ugjePkNtVgE 
+Video length: 	4732.9 sec 
+Set (V): 		dev 
+ 
+Dyan_Cannon/ugjePkNtVgE_0000001 710.8 717.7 
+Dyan_Cannon/ugjePkNtVgE_0000002 752.9 763.4 
+Dyan_Cannon/ugjePkNtVgE_0000003 934.2 938.9 
+Dyan_Cannon/ugjePkNtVgE_0000004 1082.8 1089.1 
+Dyan_Cannon/ugjePkNtVgE_0000005 3763.1 3769.1 
+Dyan_Cannon/ugjePkNtVgE_0000006 3803.9 3814.2 
+Dyan_Cannon/ugjePkNtVgE_0000007 3814.5 3819.3 
+Dyan_Cannon/ugjePkNtVgE_0000008 4100.0 4110.7 
+Dyan_Cannon/ugjePkNtVgE_0000009 4133.0 4139.9 

@@ -1,0 +1,11 @@
+POI: 			Guillaume_Canet 
+Youtube ID: 	rXuQDi5A0kI 
+Video length: 	106.4 sec 
+Set (V): 		dev 
+ 
+Guillaume_Canet/rXuQDi5A0kI_0000001 14.3 18.6 
+Guillaume_Canet/rXuQDi5A0kI_0000002 19.3 26.4 
+Guillaume_Canet/rXuQDi5A0kI_0000003 33.2 37.2 
+Guillaume_Canet/rXuQDi5A0kI_0000004 48.6 56.8 
+Guillaume_Canet/rXuQDi5A0kI_0000005 68.1 73.7 
+Guillaume_Canet/rXuQDi5A0kI_0000006 86.5 90.5 

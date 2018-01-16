@@ -1,0 +1,9 @@
+POI: 			Melody_Thomas_Scott 
+Youtube ID: 	z5_ZEt9c-IQ 
+Video length: 	170.0 sec 
+Set (V): 		dev 
+ 
+Melody_Thomas_Scott/z5_ZEt9c-IQ_0000001 18.7 23.1 
+Melody_Thomas_Scott/z5_ZEt9c-IQ_0000002 76.1 83.2 
+Melody_Thomas_Scott/z5_ZEt9c-IQ_0000003 137.6 148.2 
+Melody_Thomas_Scott/z5_ZEt9c-IQ_0000004 159.3 164.9 

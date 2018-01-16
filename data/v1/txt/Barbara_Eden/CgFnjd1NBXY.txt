@@ -1,0 +1,13 @@
+POI: 			Barbara_Eden 
+Youtube ID: 	CgFnjd1NBXY 
+Video length: 	84.5 sec 
+Set (V): 		dev 
+ 
+Barbara_Eden/CgFnjd1NBXY_0000001 00.7 05.4 
+Barbara_Eden/CgFnjd1NBXY_0000002 06.4 11.2 
+Barbara_Eden/CgFnjd1NBXY_0000003 11.5 20.2 
+Barbara_Eden/CgFnjd1NBXY_0000004 22.2 27.1 
+Barbara_Eden/CgFnjd1NBXY_0000005 27.8 32.3 
+Barbara_Eden/CgFnjd1NBXY_0000006 32.7 41.3 
+Barbara_Eden/CgFnjd1NBXY_0000007 49.2 64.0 
+Barbara_Eden/CgFnjd1NBXY_0000008 65.0 70.9 

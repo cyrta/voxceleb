@@ -1,0 +1,24 @@
+POI: 			Mark_Strong 
+Youtube ID: 	SCiUzeUrjR4 
+Video length: 	590.3 sec 
+Set (V): 		dev 
+ 
+Mark_Strong/SCiUzeUrjR4_0000001 15.6 27.4 
+Mark_Strong/SCiUzeUrjR4_0000002 150.2 155.5 
+Mark_Strong/SCiUzeUrjR4_0000003 178.6 182.6 
+Mark_Strong/SCiUzeUrjR4_0000004 190.5 201.2 
+Mark_Strong/SCiUzeUrjR4_0000005 201.8 212.9 
+Mark_Strong/SCiUzeUrjR4_0000006 300.8 311.2 
+Mark_Strong/SCiUzeUrjR4_0000007 324.7 332.4 
+Mark_Strong/SCiUzeUrjR4_0000008 333.0 339.9 
+Mark_Strong/SCiUzeUrjR4_0000009 346.2 351.9 
+Mark_Strong/SCiUzeUrjR4_0000010 405.7 410.3 
+Mark_Strong/SCiUzeUrjR4_0000011 426.1 432.6 
+Mark_Strong/SCiUzeUrjR4_0000012 443.2 449.4 
+Mark_Strong/SCiUzeUrjR4_0000013 450.5 454.5 
+Mark_Strong/SCiUzeUrjR4_0000014 485.8 496.4 
+Mark_Strong/SCiUzeUrjR4_0000015 498.6 503.0 
+Mark_Strong/SCiUzeUrjR4_0000016 505.5 510.8 
+Mark_Strong/SCiUzeUrjR4_0000017 511.5 518.1 
+Mark_Strong/SCiUzeUrjR4_0000018 532.2 538.6 
+Mark_Strong/SCiUzeUrjR4_0000019 561.1 565.2 

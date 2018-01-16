@@ -1,0 +1,15 @@
+POI: 			Brian_Cox 
+Youtube ID: 	CSccnpSWefs 
+Video length: 	1335.5 sec 
+Set (V): 		dev 
+ 
+Brian_Cox/CSccnpSWefs_0000001 213.2 224.0 
+Brian_Cox/CSccnpSWefs_0000002 229.7 278.8 
+Brian_Cox/CSccnpSWefs_0000003 284.2 291.1 
+Brian_Cox/CSccnpSWefs_0000004 306.6 316.9 
+Brian_Cox/CSccnpSWefs_0000005 690.6 696.8 
+Brian_Cox/CSccnpSWefs_0000006 705.0 725.9 
+Brian_Cox/CSccnpSWefs_0000007 1057.8 1069.6 
+Brian_Cox/CSccnpSWefs_0000008 1078.8 1083.0 
+Brian_Cox/CSccnpSWefs_0000009 1087.0 1112.5 
+Brian_Cox/CSccnpSWefs_0000010 1112.8 1122.0 

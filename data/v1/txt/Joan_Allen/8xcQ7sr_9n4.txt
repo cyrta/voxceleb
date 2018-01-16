@@ -1,0 +1,9 @@
+POI: 			Joan_Allen 
+Youtube ID: 	8xcQ7sr_9n4 
+Video length: 	240.6 sec 
+Set (V): 		dev 
+ 
+Joan_Allen/8xcQ7sr_9n4_0000001 28.9 33.7 
+Joan_Allen/8xcQ7sr_9n4_0000002 124.4 143.1 
+Joan_Allen/8xcQ7sr_9n4_0000003 186.8 191.7 
+Joan_Allen/8xcQ7sr_9n4_0000004 196.5 209.7 

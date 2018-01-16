@@ -1,0 +1,14 @@
+POI: 			Steve_Burton 
+Youtube ID: 	erI18eJIi6o 
+Video length: 	614.4 sec 
+Set (V): 		dev 
+ 
+Steve_Burton/erI18eJIi6o_0000001 11.2 22.5 
+Steve_Burton/erI18eJIi6o_0000002 101.2 107.0 
+Steve_Burton/erI18eJIi6o_0000003 107.4 116.4 
+Steve_Burton/erI18eJIi6o_0000004 148.2 158.8 
+Steve_Burton/erI18eJIi6o_0000005 183.7 188.5 
+Steve_Burton/erI18eJIi6o_0000006 203.4 207.4 
+Steve_Burton/erI18eJIi6o_0000007 497.3 502.1 
+Steve_Burton/erI18eJIi6o_0000008 514.8 519.2 
+Steve_Burton/erI18eJIi6o_0000009 519.5 524.8 

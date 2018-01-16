@@ -1,0 +1,13 @@
+POI: 			Matthew_Fox 
+Youtube ID: 	FqSS8v7bpbk 
+Video length: 	294.5 sec 
+Set (V): 		dev 
+ 
+Matthew_Fox/FqSS8v7bpbk_0000001 46.1 54.9 
+Matthew_Fox/FqSS8v7bpbk_0000002 74.1 81.0 
+Matthew_Fox/FqSS8v7bpbk_0000003 106.9 118.4 
+Matthew_Fox/FqSS8v7bpbk_0000004 118.7 125.3 
+Matthew_Fox/FqSS8v7bpbk_0000005 125.8 144.1 
+Matthew_Fox/FqSS8v7bpbk_0000006 216.2 235.3 
+Matthew_Fox/FqSS8v7bpbk_0000007 235.6 242.9 
+Matthew_Fox/FqSS8v7bpbk_0000008 250.5 264.6 

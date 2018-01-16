@@ -1,0 +1,10 @@
+POI: 			Tim_Daly 
+Youtube ID: 	i-jDw1UWl24 
+Video length: 	276.8 sec 
+Set (V): 		dev 
+ 
+Tim_Daly/i-jDw1UWl24_0000001 76.5 83.8 
+Tim_Daly/i-jDw1UWl24_0000002 124.5 132.4 
+Tim_Daly/i-jDw1UWl24_0000003 191.9 199.8 
+Tim_Daly/i-jDw1UWl24_0000004 200.6 205.2 
+Tim_Daly/i-jDw1UWl24_0000005 206.1 214.1 

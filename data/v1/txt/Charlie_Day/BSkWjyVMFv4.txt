@@ -1,0 +1,7 @@
+POI: 			Charlie_Day 
+Youtube ID: 	BSkWjyVMFv4 
+Video length: 	240.0 sec 
+Set (V): 		dev 
+ 
+Charlie_Day/BSkWjyVMFv4_0000001 118.4 125.7 
+Charlie_Day/BSkWjyVMFv4_0000002 126.7 135.3 

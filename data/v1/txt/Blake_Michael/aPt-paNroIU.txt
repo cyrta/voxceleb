@@ -1,0 +1,8 @@
+POI: 			Blake_Michael 
+Youtube ID: 	aPt-paNroIU 
+Video length: 	216.5 sec 
+Set (V): 		dev 
+ 
+Blake_Michael/aPt-paNroIU_0000001 40.7 48.4 
+Blake_Michael/aPt-paNroIU_0000002 50.8 60.1 
+Blake_Michael/aPt-paNroIU_0000003 138.9 148.2 

@@ -1,0 +1,7 @@
+POI: 			Maria_Menounos 
+Youtube ID: 	NuxG77OS58s 
+Video length: 	340.8 sec 
+Set (V): 		dev 
+ 
+Maria_Menounos/NuxG77OS58s_0000001 55.1 59.9 
+Maria_Menounos/NuxG77OS58s_0000002 173.6 180.0 

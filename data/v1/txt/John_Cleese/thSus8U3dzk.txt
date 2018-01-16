@@ -1,0 +1,8 @@
+POI: 			John_Cleese 
+Youtube ID: 	thSus8U3dzk 
+Video length: 	734.2 sec 
+Set (V): 		dev 
+ 
+John_Cleese/thSus8U3dzk_0000001 408.5 413.2 
+John_Cleese/thSus8U3dzk_0000002 433.7 439.4 
+John_Cleese/thSus8U3dzk_0000003 627.6 632.6 

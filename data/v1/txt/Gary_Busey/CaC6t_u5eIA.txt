@@ -1,0 +1,10 @@
+POI: 			Gary_Busey 
+Youtube ID: 	CaC6t_u5eIA 
+Video length: 	360.0 sec 
+Set (V): 		dev 
+ 
+Gary_Busey/CaC6t_u5eIA_0000001 28.8 33.2 
+Gary_Busey/CaC6t_u5eIA_0000002 101.6 107.0 
+Gary_Busey/CaC6t_u5eIA_0000003 218.9 222.9 
+Gary_Busey/CaC6t_u5eIA_0000004 234.9 239.6 
+Gary_Busey/CaC6t_u5eIA_0000005 252.2 259.9 

@@ -1,0 +1,11 @@
+POI: 			Lea_Michele 
+Youtube ID: 	nmdEiAKvmlE 
+Video length: 	634.2 sec 
+Set (V): 		dev 
+ 
+Lea_Michele/nmdEiAKvmlE_0000001 76.6 83.7 
+Lea_Michele/nmdEiAKvmlE_0000002 393.1 398.5 
+Lea_Michele/nmdEiAKvmlE_0000003 427.5 432.6 
+Lea_Michele/nmdEiAKvmlE_0000004 433.6 438.4 
+Lea_Michele/nmdEiAKvmlE_0000005 438.6 442.9 
+Lea_Michele/nmdEiAKvmlE_0000006 535.8 540.0 

@@ -1,0 +1,10 @@
+POI: 			Kenan_Thompson 
+Youtube ID: 	7LobdgeQ9rE 
+Video length: 	167.1 sec 
+Set (V): 		dev 
+ 
+Kenan_Thompson/7LobdgeQ9rE_0000001 17.6 23.7 
+Kenan_Thompson/7LobdgeQ9rE_0000002 51.4 61.5 
+Kenan_Thompson/7LobdgeQ9rE_0000003 77.4 85.0 
+Kenan_Thompson/7LobdgeQ9rE_0000004 109.8 120.7 
+Kenan_Thompson/7LobdgeQ9rE_0000005 130.7 139.7 

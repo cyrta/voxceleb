@@ -1,0 +1,11 @@
+POI: 			Julianne_Nicholson 
+Youtube ID: 	MaOkEVTg8pE 
+Video length: 	180.1 sec 
+Set (V): 		dev 
+ 
+Julianne_Nicholson/MaOkEVTg8pE_0000001 11.4 20.8 
+Julianne_Nicholson/MaOkEVTg8pE_0000002 21.8 40.4 
+Julianne_Nicholson/MaOkEVTg8pE_0000003 133.8 143.8 
+Julianne_Nicholson/MaOkEVTg8pE_0000004 144.4 152.6 
+Julianne_Nicholson/MaOkEVTg8pE_0000005 157.0 166.0 
+Julianne_Nicholson/MaOkEVTg8pE_0000006 166.4 171.2 

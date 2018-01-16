@@ -1,0 +1,11 @@
+POI: 			Chloe_Dykstra 
+Youtube ID: 	81LUckMu7qI 
+Video length: 	394.6 sec 
+Set (V): 		dev 
+ 
+Chloe_Dykstra/81LUckMu7qI_0000001 35.1 39.8 
+Chloe_Dykstra/81LUckMu7qI_0000002 42.9 47.0 
+Chloe_Dykstra/81LUckMu7qI_0000003 91.0 98.8 
+Chloe_Dykstra/81LUckMu7qI_0000004 267.8 272.4 
+Chloe_Dykstra/81LUckMu7qI_0000005 297.4 302.4 
+Chloe_Dykstra/81LUckMu7qI_0000006 352.2 357.6 

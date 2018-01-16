@@ -1,0 +1,15 @@
+POI: 			Michael_Cera 
+Youtube ID: 	FuJgSCtw2VA 
+Video length: 	686.4 sec 
+Set (V): 		dev 
+ 
+Michael_Cera/FuJgSCtw2VA_0000001 64.7 72.1 
+Michael_Cera/FuJgSCtw2VA_0000002 204.0 209.2 
+Michael_Cera/FuJgSCtw2VA_0000003 254.0 258.1 
+Michael_Cera/FuJgSCtw2VA_0000004 265.1 269.3 
+Michael_Cera/FuJgSCtw2VA_0000005 310.2 319.4 
+Michael_Cera/FuJgSCtw2VA_0000006 333.2 338.0 
+Michael_Cera/FuJgSCtw2VA_0000007 342.8 355.8 
+Michael_Cera/FuJgSCtw2VA_0000008 375.8 380.0 
+Michael_Cera/FuJgSCtw2VA_0000009 537.7 542.2 
+Michael_Cera/FuJgSCtw2VA_0000010 603.7 609.2 

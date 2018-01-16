@@ -1,0 +1,17 @@
+POI: 			Aaron_Yoo 
+Youtube ID: 	38_N-A-QOUo 
+Video length: 	203.4 sec 
+Set (V): 		dev 
+ 
+Aaron_Yoo/38_N-A-QOUo_0000001 34.7 40.0 
+Aaron_Yoo/38_N-A-QOUo_0000002 90.1 94.6 
+Aaron_Yoo/38_N-A-QOUo_0000003 101.4 108.4 
+Aaron_Yoo/38_N-A-QOUo_0000004 118.0 124.2 
+Aaron_Yoo/38_N-A-QOUo_0000005 129.4 134.8 
+Aaron_Yoo/38_N-A-QOUo_0000006 126.0 134.8 
+Aaron_Yoo/38_N-A-QOUo_0000007 154.9 159.4 
+Aaron_Yoo/38_N-A-QOUo_0000008 164.5 170.1 
+Aaron_Yoo/38_N-A-QOUo_0000009 172.7 181.0 
+Aaron_Yoo/38_N-A-QOUo_0000010 184.4 191.2 
+Aaron_Yoo/38_N-A-QOUo_0000011 181.1 190.6 
+Aaron_Yoo/38_N-A-QOUo_0000012 192.1 198.1 

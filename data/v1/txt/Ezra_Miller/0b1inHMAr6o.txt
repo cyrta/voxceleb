@@ -1,0 +1,16 @@
+POI: 			Ezra_Miller 
+Youtube ID: 	0b1inHMAr6o 
+Video length: 	324.7 sec 
+Set (V): 		test 
+ 
+Ezra_Miller/0b1inHMAr6o_0000001 42.2 50.9 
+Ezra_Miller/0b1inHMAr6o_0000002 100.0 114.8 
+Ezra_Miller/0b1inHMAr6o_0000003 115.9 120.0 
+Ezra_Miller/0b1inHMAr6o_0000004 126.1 138.6 
+Ezra_Miller/0b1inHMAr6o_0000005 142.0 160.8 
+Ezra_Miller/0b1inHMAr6o_0000006 165.3 172.0 
+Ezra_Miller/0b1inHMAr6o_0000007 174.3 179.6 
+Ezra_Miller/0b1inHMAr6o_0000008 213.0 217.6 
+Ezra_Miller/0b1inHMAr6o_0000009 223.3 230.2 
+Ezra_Miller/0b1inHMAr6o_0000010 231.2 253.1 
+Ezra_Miller/0b1inHMAr6o_0000011 288.5 293.5 

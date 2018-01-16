@@ -1,0 +1,18 @@
+POI: 			Billie_Joe_Armstrong 
+Youtube ID: 	deEg-M6fEWE 
+Video length: 	1606.9 sec 
+Set (V): 		dev 
+ 
+Billie_Joe_Armstrong/deEg-M6fEWE_0000001 105.6 120.1 
+Billie_Joe_Armstrong/deEg-M6fEWE_0000002 126.0 133.2 
+Billie_Joe_Armstrong/deEg-M6fEWE_0000003 255.6 260.7 
+Billie_Joe_Armstrong/deEg-M6fEWE_0000004 273.5 280.5 
+Billie_Joe_Armstrong/deEg-M6fEWE_0000005 432.6 436.8 
+Billie_Joe_Armstrong/deEg-M6fEWE_0000006 504.6 509.4 
+Billie_Joe_Armstrong/deEg-M6fEWE_0000007 729.9 734.7 
+Billie_Joe_Armstrong/deEg-M6fEWE_0000008 743.5 750.0 
+Billie_Joe_Armstrong/deEg-M6fEWE_0000009 755.1 762.6 
+Billie_Joe_Armstrong/deEg-M6fEWE_0000010 860.2 869.0 
+Billie_Joe_Armstrong/deEg-M6fEWE_0000011 1035.1 1047.4 
+Billie_Joe_Armstrong/deEg-M6fEWE_0000012 1215.0 1222.8 
+Billie_Joe_Armstrong/deEg-M6fEWE_0000013 1384.8 1391.0 

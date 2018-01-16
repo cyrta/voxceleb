@@ -1,0 +1,8 @@
+POI: 			Marilu_Henner 
+Youtube ID: 	k6Z33mhgQ60 
+Video length: 	184.6 sec 
+Set (V): 		dev 
+ 
+Marilu_Henner/k6Z33mhgQ60_0000001 28.8 35.8 
+Marilu_Henner/k6Z33mhgQ60_0000002 83.8 88.3 
+Marilu_Henner/k6Z33mhgQ60_0000003 116.7 124.6 

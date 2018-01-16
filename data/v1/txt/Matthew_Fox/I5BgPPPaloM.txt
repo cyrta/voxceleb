@@ -1,0 +1,7 @@
+POI: 			Matthew_Fox 
+Youtube ID: 	I5BgPPPaloM 
+Video length: 	212.4 sec 
+Set (V): 		dev 
+ 
+Matthew_Fox/I5BgPPPaloM_0000001 71.4 75.4 
+Matthew_Fox/I5BgPPPaloM_0000002 79.2 83.2 

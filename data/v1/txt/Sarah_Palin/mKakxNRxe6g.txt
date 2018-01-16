@@ -1,0 +1,15 @@
+POI: 			Sarah_Palin 
+Youtube ID: 	mKakxNRxe6g 
+Video length: 	318.4 sec 
+Set (V): 		dev 
+ 
+Sarah_Palin/mKakxNRxe6g_0000001 14.6 33.4 
+Sarah_Palin/mKakxNRxe6g_0000002 33.9 59.0 
+Sarah_Palin/mKakxNRxe6g_0000003 59.8 65.8 
+Sarah_Palin/mKakxNRxe6g_0000004 67.8 103.2 
+Sarah_Palin/mKakxNRxe6g_0000005 205.6 214.7 
+Sarah_Palin/mKakxNRxe6g_0000006 221.7 232.9 
+Sarah_Palin/mKakxNRxe6g_0000007 238.0 246.2 
+Sarah_Palin/mKakxNRxe6g_0000008 247.1 283.9 
+Sarah_Palin/mKakxNRxe6g_0000009 288.0 303.1 
+Sarah_Palin/mKakxNRxe6g_0000010 305.0 312.0 

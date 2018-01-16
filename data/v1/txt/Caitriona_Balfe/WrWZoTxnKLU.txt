@@ -1,0 +1,9 @@
+POI: 			Caitriona_Balfe 
+Youtube ID: 	WrWZoTxnKLU 
+Video length: 	161.7 sec 
+Set (V): 		dev 
+ 
+Caitriona_Balfe/WrWZoTxnKLU_0000001 23.4 41.4 
+Caitriona_Balfe/WrWZoTxnKLU_0000002 94.4 105.4 
+Caitriona_Balfe/WrWZoTxnKLU_0000003 109.8 114.3 
+Caitriona_Balfe/WrWZoTxnKLU_0000004 125.1 130.5 

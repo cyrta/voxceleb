@@ -1,0 +1,18 @@
+POI: 			Tom_Hiddleston 
+Youtube ID: 	TxlOclgMFfk 
+Video length: 	896.4 sec 
+Set (V): 		dev 
+ 
+Tom_Hiddleston/TxlOclgMFfk_0000001 43.6 48.0 
+Tom_Hiddleston/TxlOclgMFfk_0000002 58.8 63.0 
+Tom_Hiddleston/TxlOclgMFfk_0000003 64.6 85.6 
+Tom_Hiddleston/TxlOclgMFfk_0000004 87.7 92.4 
+Tom_Hiddleston/TxlOclgMFfk_0000005 93.6 107.6 
+Tom_Hiddleston/TxlOclgMFfk_0000006 109.7 119.6 
+Tom_Hiddleston/TxlOclgMFfk_0000007 163.4 167.9 
+Tom_Hiddleston/TxlOclgMFfk_0000008 170.7 175.4 
+Tom_Hiddleston/TxlOclgMFfk_0000009 186.3 192.0 
+Tom_Hiddleston/TxlOclgMFfk_0000010 193.0 214.2 
+Tom_Hiddleston/TxlOclgMFfk_0000011 214.7 221.3 
+Tom_Hiddleston/TxlOclgMFfk_0000012 237.6 247.8 
+Tom_Hiddleston/TxlOclgMFfk_0000013 249.0 259.9 

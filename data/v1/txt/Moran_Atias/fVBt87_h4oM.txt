@@ -1,0 +1,21 @@
+POI: 			Moran_Atias 
+Youtube ID: 	fVBt87_h4oM 
+Video length: 	277.9 sec 
+Set (V): 		dev 
+ 
+Moran_Atias/fVBt87_h4oM_0000001 24.9 34.9 
+Moran_Atias/fVBt87_h4oM_0000002 43.5 54.3 
+Moran_Atias/fVBt87_h4oM_0000003 56.0 62.7 
+Moran_Atias/fVBt87_h4oM_0000004 63.3 68.2 
+Moran_Atias/fVBt87_h4oM_0000005 68.3 75.6 
+Moran_Atias/fVBt87_h4oM_0000006 90.3 94.6 
+Moran_Atias/fVBt87_h4oM_0000007 95.7 109.2 
+Moran_Atias/fVBt87_h4oM_0000008 112.4 117.8 
+Moran_Atias/fVBt87_h4oM_0000009 119.3 125.8 
+Moran_Atias/fVBt87_h4oM_0000010 126.0 135.5 
+Moran_Atias/fVBt87_h4oM_0000011 147.4 159.2 
+Moran_Atias/fVBt87_h4oM_0000012 160.2 165.0 
+Moran_Atias/fVBt87_h4oM_0000013 170.3 188.7 
+Moran_Atias/fVBt87_h4oM_0000014 188.8 199.0 
+Moran_Atias/fVBt87_h4oM_0000015 224.4 244.4 
+Moran_Atias/fVBt87_h4oM_0000016 245.5 250.4 

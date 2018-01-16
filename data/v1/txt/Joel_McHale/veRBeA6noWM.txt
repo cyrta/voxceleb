@@ -1,0 +1,7 @@
+POI: 			Joel_McHale 
+Youtube ID: 	veRBeA6noWM 
+Video length: 	198.7 sec 
+Set (V): 		dev 
+ 
+Joel_McHale/veRBeA6noWM_0000001 175.7 180.5 
+Joel_McHale/veRBeA6noWM_0000002 181.5 190.9 

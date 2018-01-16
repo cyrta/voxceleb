@@ -1,0 +1,10 @@
+POI: 			Katherine_Heigl 
+Youtube ID: 	YIEBxZxaUVM 
+Video length: 	320.4 sec 
+Set (V): 		dev 
+ 
+Katherine_Heigl/YIEBxZxaUVM_0000001 65.0 74.1 
+Katherine_Heigl/YIEBxZxaUVM_0000002 110.4 121.2 
+Katherine_Heigl/YIEBxZxaUVM_0000003 121.9 126.0 
+Katherine_Heigl/YIEBxZxaUVM_0000004 232.0 239.1 
+Katherine_Heigl/YIEBxZxaUVM_0000005 250.8 264.1 

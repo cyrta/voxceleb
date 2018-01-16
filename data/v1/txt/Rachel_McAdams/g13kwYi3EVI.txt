@@ -1,0 +1,9 @@
+POI: 			Rachel_McAdams 
+Youtube ID: 	g13kwYi3EVI 
+Video length: 	529.0 sec 
+Set (V): 		dev 
+ 
+Rachel_McAdams/g13kwYi3EVI_0000001 81.4 89.2 
+Rachel_McAdams/g13kwYi3EVI_0000002 425.0 429.4 
+Rachel_McAdams/g13kwYi3EVI_0000003 445.4 450.4 
+Rachel_McAdams/g13kwYi3EVI_0000004 498.4 503.4 

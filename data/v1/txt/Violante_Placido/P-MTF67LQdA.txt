@@ -1,0 +1,15 @@
+POI: 			Violante_Placido 
+Youtube ID: 	P-MTF67LQdA 
+Video length: 	233.2 sec 
+Set (V): 		dev 
+ 
+Violante_Placido/P-MTF67LQdA_0000001 10.0 20.3 
+Violante_Placido/P-MTF67LQdA_0000002 31.6 38.3 
+Violante_Placido/P-MTF67LQdA_0000003 41.2 49.7 
+Violante_Placido/P-MTF67LQdA_0000004 54.0 58.6 
+Violante_Placido/P-MTF67LQdA_0000005 97.2 106.9 
+Violante_Placido/P-MTF67LQdA_0000006 110.2 115.9 
+Violante_Placido/P-MTF67LQdA_0000007 116.5 126.8 
+Violante_Placido/P-MTF67LQdA_0000008 134.3 144.4 
+Violante_Placido/P-MTF67LQdA_0000009 173.3 185.5 
+Violante_Placido/P-MTF67LQdA_0000010 186.2 195.1 

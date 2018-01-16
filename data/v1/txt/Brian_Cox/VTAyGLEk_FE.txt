@@ -1,0 +1,8 @@
+POI: 			Brian_Cox 
+Youtube ID: 	VTAyGLEk_FE 
+Video length: 	229.7 sec 
+Set (V): 		dev 
+ 
+Brian_Cox/VTAyGLEk_FE_0000001 13.3 17.9 
+Brian_Cox/VTAyGLEk_FE_0000002 54.1 59.9 
+Brian_Cox/VTAyGLEk_FE_0000003 64.8 72.5 

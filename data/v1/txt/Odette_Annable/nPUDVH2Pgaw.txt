@@ -1,0 +1,13 @@
+POI: 			Odette_Annable 
+Youtube ID: 	nPUDVH2Pgaw 
+Video length: 	274.4 sec 
+Set (V): 		dev 
+ 
+Odette_Annable/nPUDVH2Pgaw_0000001 32.8 39.7 
+Odette_Annable/nPUDVH2Pgaw_0000002 40.1 60.3 
+Odette_Annable/nPUDVH2Pgaw_0000003 119.5 138.0 
+Odette_Annable/nPUDVH2Pgaw_0000004 138.4 147.3 
+Odette_Annable/nPUDVH2Pgaw_0000005 170.3 175.6 
+Odette_Annable/nPUDVH2Pgaw_0000006 175.9 183.5 
+Odette_Annable/nPUDVH2Pgaw_0000007 230.0 234.4 
+Odette_Annable/nPUDVH2Pgaw_0000008 242.7 248.1 

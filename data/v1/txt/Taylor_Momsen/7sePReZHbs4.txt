@@ -1,0 +1,11 @@
+POI: 			Taylor_Momsen 
+Youtube ID: 	7sePReZHbs4 
+Video length: 	344.5 sec 
+Set (V): 		dev 
+ 
+Taylor_Momsen/7sePReZHbs4_0000001 43.3 50.7 
+Taylor_Momsen/7sePReZHbs4_0000002 140.0 144.1 
+Taylor_Momsen/7sePReZHbs4_0000003 144.9 152.2 
+Taylor_Momsen/7sePReZHbs4_0000004 204.6 209.2 
+Taylor_Momsen/7sePReZHbs4_0000005 301.2 307.4 
+Taylor_Momsen/7sePReZHbs4_0000006 309.2 313.6 

@@ -1,0 +1,11 @@
+POI: 			Charice 
+Youtube ID: 	6MR4tIkDTpg 
+Video length: 	160.9 sec 
+Set (V): 		dev 
+ 
+Charice/6MR4tIkDTpg_0000001 34.0 39.2 
+Charice/6MR4tIkDTpg_0000002 67.3 76.2 
+Charice/6MR4tIkDTpg_0000003 97.6 102.0 
+Charice/6MR4tIkDTpg_0000004 116.7 127.3 
+Charice/6MR4tIkDTpg_0000005 137.8 141.9 
+Charice/6MR4tIkDTpg_0000006 142.1 151.0 

@@ -1,0 +1,8 @@
+POI: 			Chadwick_Boseman 
+Youtube ID: 	s8hICHCU8Co 
+Video length: 	145.1 sec 
+Set (V): 		dev 
+ 
+Chadwick_Boseman/s8hICHCU8Co_0000001 67.2 72.4 
+Chadwick_Boseman/s8hICHCU8Co_0000002 73.6 78.1 
+Chadwick_Boseman/s8hICHCU8Co_0000003 85.6 90.3 

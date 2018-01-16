@@ -1,0 +1,8 @@
+POI: 			Cierra_Ramirez 
+Youtube ID: 	JNzlBsnCUtQ 
+Video length: 	280.7 sec 
+Set (V): 		dev 
+ 
+Cierra_Ramirez/JNzlBsnCUtQ_0000001 22.0 26.3 
+Cierra_Ramirez/JNzlBsnCUtQ_0000002 42.4 46.8 
+Cierra_Ramirez/JNzlBsnCUtQ_0000003 123.0 127.5 

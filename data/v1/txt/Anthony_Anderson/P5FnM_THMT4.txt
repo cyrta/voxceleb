@@ -1,0 +1,7 @@
+POI: 			Anthony_Anderson 
+Youtube ID: 	P5FnM_THMT4 
+Video length: 	112.7 sec 
+Set (V): 		dev 
+ 
+Anthony_Anderson/P5FnM_THMT4_0000001 60.2 64.7 
+Anthony_Anderson/P5FnM_THMT4_0000002 77.2 84.7 

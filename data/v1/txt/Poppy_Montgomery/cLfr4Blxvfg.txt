@@ -1,0 +1,7 @@
+POI: 			Poppy_Montgomery 
+Youtube ID: 	cLfr4Blxvfg 
+Video length: 	96.0 sec 
+Set (V): 		dev 
+ 
+Poppy_Montgomery/cLfr4Blxvfg_0000001 37.2 41.5 
+Poppy_Montgomery/cLfr4Blxvfg_0000002 77.8 84.8 

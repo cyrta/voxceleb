@@ -1,0 +1,7 @@
+POI: 			John_DiMaggio 
+Youtube ID: 	IHc7ILzNO2E 
+Video length: 	89.3 sec 
+Set (V): 		dev 
+ 
+John_DiMaggio/IHc7ILzNO2E_0000001 23.2 27.8 
+John_DiMaggio/IHc7ILzNO2E_0000002 76.4 80.9 

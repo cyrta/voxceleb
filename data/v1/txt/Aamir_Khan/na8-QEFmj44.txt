@@ -1,0 +1,10 @@
+POI: 			Aamir_Khan 
+Youtube ID: 	na8-QEFmj44 
+Video length: 	850.0 sec 
+Set (V): 		dev 
+ 
+Aamir_Khan/na8-QEFmj44_0000001 76.9 82.3 
+Aamir_Khan/na8-QEFmj44_0000002 223.2 229.7 
+Aamir_Khan/na8-QEFmj44_0000003 275.7 279.9 
+Aamir_Khan/na8-QEFmj44_0000004 421.0 425.0 
+Aamir_Khan/na8-QEFmj44_0000005 807.3 812.0 

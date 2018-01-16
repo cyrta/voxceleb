@@ -1,0 +1,8 @@
+POI: 			John_Noble 
+Youtube ID: 	7khYlyyOlUA 
+Video length: 	599.8 sec 
+Set (V): 		dev 
+ 
+John_Noble/7khYlyyOlUA_0000001 54.7 59.2 
+John_Noble/7khYlyyOlUA_0000002 200.9 206.8 
+John_Noble/7khYlyyOlUA_0000003 310.4 315.5 

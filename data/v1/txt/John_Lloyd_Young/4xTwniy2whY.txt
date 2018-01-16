@@ -1,0 +1,9 @@
+POI: 			John_Lloyd_Young 
+Youtube ID: 	4xTwniy2whY 
+Video length: 	469.8 sec 
+Set (V): 		dev 
+ 
+John_Lloyd_Young/4xTwniy2whY_0000001 184.0 189.6 
+John_Lloyd_Young/4xTwniy2whY_0000002 257.4 263.9 
+John_Lloyd_Young/4xTwniy2whY_0000003 312.7 324.0 
+John_Lloyd_Young/4xTwniy2whY_0000004 324.9 329.6 

@@ -1,0 +1,14 @@
+POI: 			Abigail_Breslin 
+Youtube ID: 	HxfxcxUXPDA 
+Video length: 	273.3 sec 
+Set (V): 		dev 
+ 
+Abigail_Breslin/HxfxcxUXPDA_0000001 05.8 13.6 
+Abigail_Breslin/HxfxcxUXPDA_0000002 28.3 34.9 
+Abigail_Breslin/HxfxcxUXPDA_0000003 36.2 41.8 
+Abigail_Breslin/HxfxcxUXPDA_0000004 42.8 58.7 
+Abigail_Breslin/HxfxcxUXPDA_0000005 60.6 71.7 
+Abigail_Breslin/HxfxcxUXPDA_0000006 133.3 144.0 
+Abigail_Breslin/HxfxcxUXPDA_0000007 172.7 185.6 
+Abigail_Breslin/HxfxcxUXPDA_0000008 190.0 200.1 
+Abigail_Breslin/HxfxcxUXPDA_0000009 202.0 208.8 

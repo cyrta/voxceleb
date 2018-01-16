@@ -1,0 +1,9 @@
+POI: 			Kristen_Johnston 
+Youtube ID: 	rZAeOj7-2QA 
+Video length: 	367.9 sec 
+Set (V): 		dev 
+ 
+Kristen_Johnston/rZAeOj7-2QA_0000001 102.4 111.8 
+Kristen_Johnston/rZAeOj7-2QA_0000002 231.8 236.1 
+Kristen_Johnston/rZAeOj7-2QA_0000003 256.6 265.1 
+Kristen_Johnston/rZAeOj7-2QA_0000004 300.2 306.4 

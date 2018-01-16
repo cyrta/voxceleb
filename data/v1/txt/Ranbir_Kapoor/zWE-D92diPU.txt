@@ -1,0 +1,22 @@
+POI: 			Ranbir_Kapoor 
+Youtube ID: 	zWE-D92diPU 
+Video length: 	537.1 sec 
+Set (V): 		dev 
+ 
+Ranbir_Kapoor/zWE-D92diPU_0000001 48.5 57.9 
+Ranbir_Kapoor/zWE-D92diPU_0000002 74.8 78.8 
+Ranbir_Kapoor/zWE-D92diPU_0000003 91.4 98.3 
+Ranbir_Kapoor/zWE-D92diPU_0000004 140.8 146.9 
+Ranbir_Kapoor/zWE-D92diPU_0000005 150.4 156.9 
+Ranbir_Kapoor/zWE-D92diPU_0000006 160.2 166.6 
+Ranbir_Kapoor/zWE-D92diPU_0000007 216.4 222.8 
+Ranbir_Kapoor/zWE-D92diPU_0000008 272.9 277.3 
+Ranbir_Kapoor/zWE-D92diPU_0000009 322.5 330.4 
+Ranbir_Kapoor/zWE-D92diPU_0000010 334.5 348.1 
+Ranbir_Kapoor/zWE-D92diPU_0000011 360.8 365.2 
+Ranbir_Kapoor/zWE-D92diPU_0000012 371.8 379.0 
+Ranbir_Kapoor/zWE-D92diPU_0000013 404.4 410.2 
+Ranbir_Kapoor/zWE-D92diPU_0000014 419.8 426.5 
+Ranbir_Kapoor/zWE-D92diPU_0000015 456.4 460.7 
+Ranbir_Kapoor/zWE-D92diPU_0000016 464.7 469.5 
+Ranbir_Kapoor/zWE-D92diPU_0000017 484.5 492.6 

@@ -1,0 +1,14 @@
+POI: 			Michael_Trevino 
+Youtube ID: 	B4KPQcYg_xc 
+Video length: 	299.3 sec 
+Set (V): 		dev 
+ 
+Michael_Trevino/B4KPQcYg_xc_0000001 20.8 26.2 
+Michael_Trevino/B4KPQcYg_xc_0000002 32.8 36.8 
+Michael_Trevino/B4KPQcYg_xc_0000003 44.3 49.5 
+Michael_Trevino/B4KPQcYg_xc_0000004 50.4 70.6 
+Michael_Trevino/B4KPQcYg_xc_0000005 74.8 79.1 
+Michael_Trevino/B4KPQcYg_xc_0000006 137.9 142.6 
+Michael_Trevino/B4KPQcYg_xc_0000007 165.4 170.3 
+Michael_Trevino/B4KPQcYg_xc_0000008 189.6 195.2 
+Michael_Trevino/B4KPQcYg_xc_0000009 252.3 263.4 

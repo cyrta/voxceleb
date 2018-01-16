@@ -1,0 +1,12 @@
+POI: 			Alfre_Woodard 
+Youtube ID: 	xnz5zJt0ggU 
+Video length: 	249.5 sec 
+Set (V): 		dev 
+ 
+Alfre_Woodard/xnz5zJt0ggU_0000001 29.5 34.7 
+Alfre_Woodard/xnz5zJt0ggU_0000002 56.2 64.2 
+Alfre_Woodard/xnz5zJt0ggU_0000003 64.6 73.7 
+Alfre_Woodard/xnz5zJt0ggU_0000004 77.9 89.4 
+Alfre_Woodard/xnz5zJt0ggU_0000005 117.3 122.4 
+Alfre_Woodard/xnz5zJt0ggU_0000006 189.8 195.3 
+Alfre_Woodard/xnz5zJt0ggU_0000007 204.4 213.1 

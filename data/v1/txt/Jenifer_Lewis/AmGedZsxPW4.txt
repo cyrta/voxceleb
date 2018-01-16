@@ -1,0 +1,10 @@
+POI: 			Jenifer_Lewis 
+Youtube ID: 	AmGedZsxPW4 
+Video length: 	2399.5 sec 
+Set (V): 		dev 
+ 
+Jenifer_Lewis/AmGedZsxPW4_0000001 598.0 602.3 
+Jenifer_Lewis/AmGedZsxPW4_0000002 712.5 716.8 
+Jenifer_Lewis/AmGedZsxPW4_0000003 1215.5 1220.3 
+Jenifer_Lewis/AmGedZsxPW4_0000004 1407.7 1415.0 
+Jenifer_Lewis/AmGedZsxPW4_0000005 2073.4 2077.6 

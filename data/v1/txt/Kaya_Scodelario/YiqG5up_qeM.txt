@@ -1,0 +1,10 @@
+POI: 			Kaya_Scodelario 
+Youtube ID: 	YiqG5up_qeM 
+Video length: 	270.1 sec 
+Set (V): 		dev 
+ 
+Kaya_Scodelario/YiqG5up_qeM_0000001 17.3 25.9 
+Kaya_Scodelario/YiqG5up_qeM_0000002 28.1 32.7 
+Kaya_Scodelario/YiqG5up_qeM_0000003 33.4 52.1 
+Kaya_Scodelario/YiqG5up_qeM_0000004 63.0 76.8 
+Kaya_Scodelario/YiqG5up_qeM_0000005 78.4 84.7 

@@ -1,0 +1,19 @@
+POI: 			Gloria_Steinem 
+Youtube ID: 	nQZLZ8uoddE 
+Video length: 	1100.9 sec 
+Set (V): 		dev 
+ 
+Gloria_Steinem/nQZLZ8uoddE_0000001 256.0 266.5 
+Gloria_Steinem/nQZLZ8uoddE_0000002 302.4 307.1 
+Gloria_Steinem/nQZLZ8uoddE_0000003 345.0 351.4 
+Gloria_Steinem/nQZLZ8uoddE_0000004 351.8 356.8 
+Gloria_Steinem/nQZLZ8uoddE_0000005 361.2 365.8 
+Gloria_Steinem/nQZLZ8uoddE_0000006 417.1 421.3 
+Gloria_Steinem/nQZLZ8uoddE_0000007 437.1 442.0 
+Gloria_Steinem/nQZLZ8uoddE_0000008 445.8 455.3 
+Gloria_Steinem/nQZLZ8uoddE_0000009 481.6 488.2 
+Gloria_Steinem/nQZLZ8uoddE_0000010 639.1 653.3 
+Gloria_Steinem/nQZLZ8uoddE_0000011 657.4 661.4 
+Gloria_Steinem/nQZLZ8uoddE_0000012 806.2 811.4 
+Gloria_Steinem/nQZLZ8uoddE_0000013 891.7 899.0 
+Gloria_Steinem/nQZLZ8uoddE_0000014 962.7 967.1 

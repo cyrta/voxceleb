@@ -1,0 +1,20 @@
+POI: 			Meredith_Baxter 
+Youtube ID: 	iRfu_rotO_c 
+Video length: 	509.0 sec 
+Set (V): 		dev 
+ 
+Meredith_Baxter/iRfu_rotO_c_0000001 33.5 43.2 
+Meredith_Baxter/iRfu_rotO_c_0000002 53.9 60.1 
+Meredith_Baxter/iRfu_rotO_c_0000003 104.4 112.5 
+Meredith_Baxter/iRfu_rotO_c_0000004 114.1 134.7 
+Meredith_Baxter/iRfu_rotO_c_0000005 191.6 199.9 
+Meredith_Baxter/iRfu_rotO_c_0000006 212.4 222.9 
+Meredith_Baxter/iRfu_rotO_c_0000007 249.9 260.7 
+Meredith_Baxter/iRfu_rotO_c_0000008 268.6 273.9 
+Meredith_Baxter/iRfu_rotO_c_0000009 284.1 289.5 
+Meredith_Baxter/iRfu_rotO_c_0000010 289.8 297.2 
+Meredith_Baxter/iRfu_rotO_c_0000011 331.4 342.8 
+Meredith_Baxter/iRfu_rotO_c_0000012 343.4 352.2 
+Meredith_Baxter/iRfu_rotO_c_0000013 393.2 399.3 
+Meredith_Baxter/iRfu_rotO_c_0000014 408.7 414.8 
+Meredith_Baxter/iRfu_rotO_c_0000015 430.1 437.0 

@@ -1,0 +1,8 @@
+POI: 			T.J._Miller 
+Youtube ID: 	B2hpD4X7xb4 
+Video length: 	100.5 sec 
+Set (V): 		dev 
+ 
+T.J._Miller/B2hpD4X7xb4_0000001 15.0 23.7 
+T.J._Miller/B2hpD4X7xb4_0000002 35.3 43.2 
+T.J._Miller/B2hpD4X7xb4_0000003 81.7 89.2 

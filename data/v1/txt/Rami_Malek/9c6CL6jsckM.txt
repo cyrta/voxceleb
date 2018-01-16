@@ -1,0 +1,11 @@
+POI: 			Rami_Malek 
+Youtube ID: 	9c6CL6jsckM 
+Video length: 	120.8 sec 
+Set (V): 		dev 
+ 
+Rami_Malek/9c6CL6jsckM_0000001 34.0 41.2 
+Rami_Malek/9c6CL6jsckM_0000002 59.0 64.4 
+Rami_Malek/9c6CL6jsckM_0000003 65.4 69.5 
+Rami_Malek/9c6CL6jsckM_0000004 74.3 79.1 
+Rami_Malek/9c6CL6jsckM_0000005 91.4 98.0 
+Rami_Malek/9c6CL6jsckM_0000006 99.2 103.3 

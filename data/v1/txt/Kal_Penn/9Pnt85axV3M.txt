@@ -1,0 +1,7 @@
+POI: 			Kal_Penn 
+Youtube ID: 	9Pnt85axV3M 
+Video length: 	449.8 sec 
+Set (V): 		dev 
+ 
+Kal_Penn/9Pnt85axV3M_0000001 247.0 251.8 
+Kal_Penn/9Pnt85axV3M_0000002 257.4 263.0 

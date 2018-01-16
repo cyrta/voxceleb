@@ -1,0 +1,13 @@
+POI: 			Bingbing_Li 
+Youtube ID: 	PVXn3GgCzkY 
+Video length: 	420.3 sec 
+Set (V): 		dev 
+ 
+Bingbing_Li/PVXn3GgCzkY_0000001 29.8 43.8 
+Bingbing_Li/PVXn3GgCzkY_0000002 47.2 53.5 
+Bingbing_Li/PVXn3GgCzkY_0000003 81.4 86.9 
+Bingbing_Li/PVXn3GgCzkY_0000004 143.0 152.6 
+Bingbing_Li/PVXn3GgCzkY_0000005 158.3 162.8 
+Bingbing_Li/PVXn3GgCzkY_0000006 168.2 173.6 
+Bingbing_Li/PVXn3GgCzkY_0000007 208.5 220.2 
+Bingbing_Li/PVXn3GgCzkY_0000008 232.9 239.1 

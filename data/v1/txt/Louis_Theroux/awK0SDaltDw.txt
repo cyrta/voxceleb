@@ -1,0 +1,16 @@
+POI: 			Louis_Theroux 
+Youtube ID: 	awK0SDaltDw 
+Video length: 	530.2 sec 
+Set (V): 		dev 
+ 
+Louis_Theroux/awK0SDaltDw_0000001 90.2 97.6 
+Louis_Theroux/awK0SDaltDw_0000002 98.6 105.0 
+Louis_Theroux/awK0SDaltDw_0000003 105.1 113.6 
+Louis_Theroux/awK0SDaltDw_0000004 128.3 158.4 
+Louis_Theroux/awK0SDaltDw_0000005 166.9 174.3 
+Louis_Theroux/awK0SDaltDw_0000006 176.4 183.9 
+Louis_Theroux/awK0SDaltDw_0000007 187.6 204.2 
+Louis_Theroux/awK0SDaltDw_0000008 275.0 345.8 
+Louis_Theroux/awK0SDaltDw_0000009 384.1 393.0 
+Louis_Theroux/awK0SDaltDw_0000010 475.9 481.4 
+Louis_Theroux/awK0SDaltDw_0000011 482.2 497.5 

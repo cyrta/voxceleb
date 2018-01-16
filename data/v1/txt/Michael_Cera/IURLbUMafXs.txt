@@ -1,0 +1,11 @@
+POI: 			Michael_Cera 
+Youtube ID: 	IURLbUMafXs 
+Video length: 	100.7 sec 
+Set (V): 		dev 
+ 
+Michael_Cera/IURLbUMafXs_0000001 40.2 48.0 
+Michael_Cera/IURLbUMafXs_0000002 48.1 53.6 
+Michael_Cera/IURLbUMafXs_0000003 53.9 64.1 
+Michael_Cera/IURLbUMafXs_0000004 68.5 79.7 
+Michael_Cera/IURLbUMafXs_0000005 82.4 91.4 
+Michael_Cera/IURLbUMafXs_0000006 92.9 99.2 

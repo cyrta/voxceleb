@@ -1,0 +1,8 @@
+POI: 			Chris_Hemsworth 
+Youtube ID: 	i1KkMJ-T5So 
+Video length: 	146.4 sec 
+Set (V): 		dev 
+ 
+Chris_Hemsworth/i1KkMJ-T5So_0000001 27.5 34.2 
+Chris_Hemsworth/i1KkMJ-T5So_0000002 50.0 61.5 
+Chris_Hemsworth/i1KkMJ-T5So_0000003 110.0 118.7 

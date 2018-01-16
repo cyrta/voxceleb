@@ -1,0 +1,9 @@
+POI: 			Jimmy_Fallon 
+Youtube ID: 	SPh_raqO_A0 
+Video length: 	296.1 sec 
+Set (V): 		dev 
+ 
+Jimmy_Fallon/SPh_raqO_A0_0000001 19.8 24.6 
+Jimmy_Fallon/SPh_raqO_A0_0000002 244.8 249.3 
+Jimmy_Fallon/SPh_raqO_A0_0000003 264.6 268.8 
+Jimmy_Fallon/SPh_raqO_A0_0000004 269.0 274.4 

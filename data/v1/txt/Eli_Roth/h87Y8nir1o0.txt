@@ -1,0 +1,13 @@
+POI: 			Eli_Roth 
+Youtube ID: 	h87Y8nir1o0 
+Video length: 	547.7 sec 
+Set (V): 		test 
+ 
+Eli_Roth/h87Y8nir1o0_0000001 56.0 60.9 
+Eli_Roth/h87Y8nir1o0_0000002 63.8 68.8 
+Eli_Roth/h87Y8nir1o0_0000003 83.8 91.5 
+Eli_Roth/h87Y8nir1o0_0000004 104.4 110.2 
+Eli_Roth/h87Y8nir1o0_0000005 374.9 379.5 
+Eli_Roth/h87Y8nir1o0_0000006 393.4 400.1 
+Eli_Roth/h87Y8nir1o0_0000007 495.8 503.3 
+Eli_Roth/h87Y8nir1o0_0000008 503.7 522.8 

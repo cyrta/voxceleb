@@ -1,0 +1,8 @@
+POI: 			Kelli_Williams 
+Youtube ID: 	NChIJizTqgo 
+Video length: 	105.2 sec 
+Set (V): 		dev 
+ 
+Kelli_Williams/NChIJizTqgo_0000001 15.8 20.2 
+Kelli_Williams/NChIJizTqgo_0000002 50.8 55.9 
+Kelli_Williams/NChIJizTqgo_0000003 87.6 93.0 

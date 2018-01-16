@@ -1,0 +1,8 @@
+POI: 			Kenan_Thompson 
+Youtube ID: 	MrTCpn7gt9E 
+Video length: 	55.2 sec 
+Set (V): 		dev 
+ 
+Kenan_Thompson/MrTCpn7gt9E_0000001 02.0 08.9 
+Kenan_Thompson/MrTCpn7gt9E_0000002 28.1 33.6 
+Kenan_Thompson/MrTCpn7gt9E_0000003 43.5 49.7 

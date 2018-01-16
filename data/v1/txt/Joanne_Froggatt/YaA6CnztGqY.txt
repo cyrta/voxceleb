@@ -1,0 +1,8 @@
+POI: 			Joanne_Froggatt 
+Youtube ID: 	YaA6CnztGqY 
+Video length: 	60.2 sec 
+Set (V): 		dev 
+ 
+Joanne_Froggatt/YaA6CnztGqY_0000001 06.0 10.1 
+Joanne_Froggatt/YaA6CnztGqY_0000002 19.2 33.2 
+Joanne_Froggatt/YaA6CnztGqY_0000003 42.5 48.7 

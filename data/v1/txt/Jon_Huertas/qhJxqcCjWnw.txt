@@ -1,0 +1,10 @@
+POI: 			Jon_Huertas 
+Youtube ID: 	qhJxqcCjWnw 
+Video length: 	301.4 sec 
+Set (V): 		dev 
+ 
+Jon_Huertas/qhJxqcCjWnw_0000001 38.6 46.4 
+Jon_Huertas/qhJxqcCjWnw_0000002 13.8 20.1 
+Jon_Huertas/qhJxqcCjWnw_0000003 20.2 25.6 
+Jon_Huertas/qhJxqcCjWnw_0000004 114.4 119.0 
+Jon_Huertas/qhJxqcCjWnw_0000005 147.4 160.2 

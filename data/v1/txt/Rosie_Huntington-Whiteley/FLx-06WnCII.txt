@@ -1,0 +1,8 @@
+POI: 			Rosie_Huntington-Whiteley 
+Youtube ID: 	FLx-06WnCII 
+Video length: 	232.5 sec 
+Set (V): 		dev 
+ 
+Rosie_Huntington-Whiteley/FLx-06WnCII_0000001 44.8 49.6 
+Rosie_Huntington-Whiteley/FLx-06WnCII_0000002 64.7 72.0 
+Rosie_Huntington-Whiteley/FLx-06WnCII_0000003 203.6 216.7 

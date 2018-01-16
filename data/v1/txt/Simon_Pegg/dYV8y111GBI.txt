@@ -1,0 +1,10 @@
+POI: 			Simon_Pegg 
+Youtube ID: 	dYV8y111GBI 
+Video length: 	259.0 sec 
+Set (V): 		dev 
+ 
+Simon_Pegg/dYV8y111GBI_0000001 48.5 53.5 
+Simon_Pegg/dYV8y111GBI_0000002 81.1 93.1 
+Simon_Pegg/dYV8y111GBI_0000003 133.8 141.6 
+Simon_Pegg/dYV8y111GBI_0000004 147.2 157.5 
+Simon_Pegg/dYV8y111GBI_0000005 223.0 229.0 

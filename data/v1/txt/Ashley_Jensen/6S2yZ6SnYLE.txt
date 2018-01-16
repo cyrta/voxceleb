@@ -1,0 +1,9 @@
+POI: 			Ashley_Jensen 
+Youtube ID: 	6S2yZ6SnYLE 
+Video length: 	155.8 sec 
+Set (V): 		dev 
+ 
+Ashley_Jensen/6S2yZ6SnYLE_0000001 03.9 11.2 
+Ashley_Jensen/6S2yZ6SnYLE_0000002 29.4 44.8 
+Ashley_Jensen/6S2yZ6SnYLE_0000003 73.8 82.7 
+Ashley_Jensen/6S2yZ6SnYLE_0000004 92.3 101.2 

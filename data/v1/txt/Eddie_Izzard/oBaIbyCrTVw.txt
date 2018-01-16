@@ -1,0 +1,15 @@
+POI: 			Eddie_Izzard 
+Youtube ID: 	oBaIbyCrTVw 
+Video length: 	645.3 sec 
+Set (V): 		test 
+ 
+Eddie_Izzard/oBaIbyCrTVw_0000001 104.2 111.6 
+Eddie_Izzard/oBaIbyCrTVw_0000002 111.9 119.9 
+Eddie_Izzard/oBaIbyCrTVw_0000003 290.9 300.3 
+Eddie_Izzard/oBaIbyCrTVw_0000004 327.6 334.2 
+Eddie_Izzard/oBaIbyCrTVw_0000005 338.7 343.2 
+Eddie_Izzard/oBaIbyCrTVw_0000006 420.4 424.8 
+Eddie_Izzard/oBaIbyCrTVw_0000007 542.3 547.2 
+Eddie_Izzard/oBaIbyCrTVw_0000008 548.4 552.7 
+Eddie_Izzard/oBaIbyCrTVw_0000009 605.6 610.8 
+Eddie_Izzard/oBaIbyCrTVw_0000010 613.6 620.2 

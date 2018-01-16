@@ -1,0 +1,8 @@
+POI: 			Rebecca_Mader 
+Youtube ID: 	YMIghR1C0w0 
+Video length: 	233.8 sec 
+Set (V): 		dev 
+ 
+Rebecca_Mader/YMIghR1C0w0_0000001 41.7 50.1 
+Rebecca_Mader/YMIghR1C0w0_0000002 50.4 62.0 
+Rebecca_Mader/YMIghR1C0w0_0000003 190.3 195.9 

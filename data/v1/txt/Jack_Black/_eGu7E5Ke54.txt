@@ -1,0 +1,8 @@
+POI: 			Jack_Black 
+Youtube ID: 	_eGu7E5Ke54 
+Video length: 	316.3 sec 
+Set (V): 		dev 
+ 
+Jack_Black/_eGu7E5Ke54_0000001 218.4 224.0 
+Jack_Black/_eGu7E5Ke54_0000002 232.0 236.3 
+Jack_Black/_eGu7E5Ke54_0000003 264.2 269.5 

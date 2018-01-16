@@ -1,0 +1,16 @@
+POI: 			Hans_Zimmer 
+Youtube ID: 	3wfBtn8_nP8 
+Video length: 	290.0 sec 
+Set (V): 		dev 
+ 
+Hans_Zimmer/3wfBtn8_nP8_0000001 90.0 94.8 
+Hans_Zimmer/3wfBtn8_nP8_0000002 103.4 117.0 
+Hans_Zimmer/3wfBtn8_nP8_0000003 118.2 125.6 
+Hans_Zimmer/3wfBtn8_nP8_0000004 126.4 131.2 
+Hans_Zimmer/3wfBtn8_nP8_0000005 145.3 151.3 
+Hans_Zimmer/3wfBtn8_nP8_0000006 153.9 159.2 
+Hans_Zimmer/3wfBtn8_nP8_0000007 162.8 168.3 
+Hans_Zimmer/3wfBtn8_nP8_0000008 178.6 185.0 
+Hans_Zimmer/3wfBtn8_nP8_0000009 209.5 219.1 
+Hans_Zimmer/3wfBtn8_nP8_0000010 239.7 244.2 
+Hans_Zimmer/3wfBtn8_nP8_0000011 252.8 270.3 

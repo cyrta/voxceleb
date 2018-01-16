@@ -1,0 +1,40 @@
+POI: 			Alex_Kingston 
+Youtube ID: 	ccbXWh4og34 
+Video length: 	555.7 sec 
+Set (V): 		dev 
+ 
+Alex_Kingston/ccbXWh4og34_0000001 09.4 18.7 
+Alex_Kingston/ccbXWh4og34_0000002 19.6 26.0 
+Alex_Kingston/ccbXWh4og34_0000003 28.0 38.0 
+Alex_Kingston/ccbXWh4og34_0000004 38.6 43.8 
+Alex_Kingston/ccbXWh4og34_0000005 48.7 58.1 
+Alex_Kingston/ccbXWh4og34_0000006 59.8 92.8 
+Alex_Kingston/ccbXWh4og34_0000007 108.0 114.8 
+Alex_Kingston/ccbXWh4og34_0000008 115.4 119.4 
+Alex_Kingston/ccbXWh4og34_0000009 126.1 131.2 
+Alex_Kingston/ccbXWh4og34_0000010 131.8 144.8 
+Alex_Kingston/ccbXWh4og34_0000011 146.0 151.2 
+Alex_Kingston/ccbXWh4og34_0000012 161.3 173.2 
+Alex_Kingston/ccbXWh4og34_0000013 174.2 179.9 
+Alex_Kingston/ccbXWh4og34_0000014 185.0 192.1 
+Alex_Kingston/ccbXWh4og34_0000015 192.6 199.0 
+Alex_Kingston/ccbXWh4og34_0000016 204.1 210.1 
+Alex_Kingston/ccbXWh4og34_0000017 210.5 215.2 
+Alex_Kingston/ccbXWh4og34_0000018 216.0 236.9 
+Alex_Kingston/ccbXWh4og34_0000019 238.2 249.7 
+Alex_Kingston/ccbXWh4og34_0000020 253.1 257.3 
+Alex_Kingston/ccbXWh4og34_0000021 264.0 279.1 
+Alex_Kingston/ccbXWh4og34_0000022 280.4 287.3 
+Alex_Kingston/ccbXWh4og34_0000023 287.4 295.2 
+Alex_Kingston/ccbXWh4og34_0000024 308.3 327.8 
+Alex_Kingston/ccbXWh4og34_0000025 337.6 377.3 
+Alex_Kingston/ccbXWh4og34_0000026 377.6 385.8 
+Alex_Kingston/ccbXWh4og34_0000027 393.4 428.7 
+Alex_Kingston/ccbXWh4og34_0000028 429.8 438.3 
+Alex_Kingston/ccbXWh4og34_0000029 441.3 451.9 
+Alex_Kingston/ccbXWh4og34_0000030 452.5 461.9 
+Alex_Kingston/ccbXWh4og34_0000031 467.6 478.1 
+Alex_Kingston/ccbXWh4og34_0000032 480.9 509.0 
+Alex_Kingston/ccbXWh4og34_0000033 516.2 521.5 
+Alex_Kingston/ccbXWh4og34_0000034 522.4 529.4 
+Alex_Kingston/ccbXWh4og34_0000035 535.8 540.4 

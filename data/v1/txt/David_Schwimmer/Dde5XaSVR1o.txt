@@ -1,0 +1,13 @@
+POI: 			David_Schwimmer 
+Youtube ID: 	Dde5XaSVR1o 
+Video length: 	190.3 sec 
+Set (V): 		dev 
+ 
+David_Schwimmer/Dde5XaSVR1o_0000001 30.2 37.3 
+David_Schwimmer/Dde5XaSVR1o_0000002 54.9 60.2 
+David_Schwimmer/Dde5XaSVR1o_0000003 93.1 100.1 
+David_Schwimmer/Dde5XaSVR1o_0000004 110.1 114.6 
+David_Schwimmer/Dde5XaSVR1o_0000005 135.6 145.8 
+David_Schwimmer/Dde5XaSVR1o_0000006 146.5 152.3 
+David_Schwimmer/Dde5XaSVR1o_0000007 165.8 170.6 
+David_Schwimmer/Dde5XaSVR1o_0000008 171.2 182.4 

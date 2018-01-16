@@ -1,0 +1,14 @@
+POI: 			Terrence_Howard 
+Youtube ID: 	VU3fkD-QqPw 
+Video length: 	250.3 sec 
+Set (V): 		dev 
+ 
+Terrence_Howard/VU3fkD-QqPw_0000001 84.3 91.2 
+Terrence_Howard/VU3fkD-QqPw_0000002 92.1 113.4 
+Terrence_Howard/VU3fkD-QqPw_0000003 113.7 118.6 
+Terrence_Howard/VU3fkD-QqPw_0000004 119.3 127.5 
+Terrence_Howard/VU3fkD-QqPw_0000005 98.8 105.3 
+Terrence_Howard/VU3fkD-QqPw_0000006 192.1 200.9 
+Terrence_Howard/VU3fkD-QqPw_0000007 207.5 212.8 
+Terrence_Howard/VU3fkD-QqPw_0000008 226.0 231.9 
+Terrence_Howard/VU3fkD-QqPw_0000009 232.9 237.7 

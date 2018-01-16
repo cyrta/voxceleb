@@ -1,0 +1,23 @@
+POI: 			Amitabh_Bachchan 
+Youtube ID: 	xcGtfOT57-M 
+Video length: 	757.3 sec 
+Set (V): 		dev 
+ 
+Amitabh_Bachchan/xcGtfOT57-M_0000001 49.6 53.6 
+Amitabh_Bachchan/xcGtfOT57-M_0000002 57.0 62.0 
+Amitabh_Bachchan/xcGtfOT57-M_0000003 64.3 70.2 
+Amitabh_Bachchan/xcGtfOT57-M_0000004 78.6 84.8 
+Amitabh_Bachchan/xcGtfOT57-M_0000005 175.8 180.4 
+Amitabh_Bachchan/xcGtfOT57-M_0000006 183.9 190.0 
+Amitabh_Bachchan/xcGtfOT57-M_0000007 217.2 224.2 
+Amitabh_Bachchan/xcGtfOT57-M_0000008 235.0 239.0 
+Amitabh_Bachchan/xcGtfOT57-M_0000009 252.5 256.5 
+Amitabh_Bachchan/xcGtfOT57-M_0000010 402.4 408.9 
+Amitabh_Bachchan/xcGtfOT57-M_0000011 444.7 449.6 
+Amitabh_Bachchan/xcGtfOT57-M_0000012 466.8 471.0 
+Amitabh_Bachchan/xcGtfOT57-M_0000013 570.2 578.8 
+Amitabh_Bachchan/xcGtfOT57-M_0000014 590.4 594.6 
+Amitabh_Bachchan/xcGtfOT57-M_0000015 610.2 620.5 
+Amitabh_Bachchan/xcGtfOT57-M_0000016 668.8 675.2 
+Amitabh_Bachchan/xcGtfOT57-M_0000017 713.2 718.2 
+Amitabh_Bachchan/xcGtfOT57-M_0000018 731.6 737.0 

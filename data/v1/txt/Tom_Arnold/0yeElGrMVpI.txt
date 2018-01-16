@@ -1,0 +1,11 @@
+POI: 			Tom_Arnold 
+Youtube ID: 	0yeElGrMVpI 
+Video length: 	101.0 sec 
+Set (V): 		dev 
+ 
+Tom_Arnold/0yeElGrMVpI_0000001 12.7 17.0 
+Tom_Arnold/0yeElGrMVpI_0000002 17.5 23.8 
+Tom_Arnold/0yeElGrMVpI_0000003 23.9 29.2 
+Tom_Arnold/0yeElGrMVpI_0000004 50.5 58.2 
+Tom_Arnold/0yeElGrMVpI_0000005 69.9 75.0 
+Tom_Arnold/0yeElGrMVpI_0000006 91.5 95.7 

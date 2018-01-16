@@ -1,0 +1,14 @@
+POI: 			Chadwick_Boseman 
+Youtube ID: 	kwLrVcQTeEQ 
+Video length: 	236.9 sec 
+Set (V): 		dev 
+ 
+Chadwick_Boseman/kwLrVcQTeEQ_0000001 44.1 55.4 
+Chadwick_Boseman/kwLrVcQTeEQ_0000002 92.6 96.8 
+Chadwick_Boseman/kwLrVcQTeEQ_0000003 101.4 117.5 
+Chadwick_Boseman/kwLrVcQTeEQ_0000004 117.8 122.0 
+Chadwick_Boseman/kwLrVcQTeEQ_0000005 149.9 154.0 
+Chadwick_Boseman/kwLrVcQTeEQ_0000006 155.2 159.6 
+Chadwick_Boseman/kwLrVcQTeEQ_0000007 182.6 187.7 
+Chadwick_Boseman/kwLrVcQTeEQ_0000008 189.1 197.7 
+Chadwick_Boseman/kwLrVcQTeEQ_0000009 197.8 203.9 

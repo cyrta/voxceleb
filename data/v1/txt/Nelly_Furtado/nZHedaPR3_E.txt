@@ -1,0 +1,8 @@
+POI: 			Nelly_Furtado 
+Youtube ID: 	nZHedaPR3_E 
+Video length: 	280.5 sec 
+Set (V): 		dev 
+ 
+Nelly_Furtado/nZHedaPR3_E_0000001 154.8 160.2 
+Nelly_Furtado/nZHedaPR3_E_0000002 182.6 188.0 
+Nelly_Furtado/nZHedaPR3_E_0000003 235.4 244.7 

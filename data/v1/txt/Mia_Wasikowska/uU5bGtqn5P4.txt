@@ -1,0 +1,7 @@
+POI: 			Mia_Wasikowska 
+Youtube ID: 	uU5bGtqn5P4 
+Video length: 	238.0 sec 
+Set (V): 		dev 
+ 
+Mia_Wasikowska/uU5bGtqn5P4_0000001 115.1 122.4 
+Mia_Wasikowska/uU5bGtqn5P4_0000002 127.6 131.7 

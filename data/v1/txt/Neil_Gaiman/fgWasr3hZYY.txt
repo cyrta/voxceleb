@@ -1,0 +1,18 @@
+POI: 			Neil_Gaiman 
+Youtube ID: 	fgWasr3hZYY 
+Video length: 	248.3 sec 
+Set (V): 		dev 
+ 
+Neil_Gaiman/fgWasr3hZYY_0000001 48.6 76.8 
+Neil_Gaiman/fgWasr3hZYY_0000002 79.8 88.4 
+Neil_Gaiman/fgWasr3hZYY_0000003 89.1 93.3 
+Neil_Gaiman/fgWasr3hZYY_0000004 94.5 104.2 
+Neil_Gaiman/fgWasr3hZYY_0000005 125.5 131.3 
+Neil_Gaiman/fgWasr3hZYY_0000006 140.7 147.8 
+Neil_Gaiman/fgWasr3hZYY_0000007 149.4 153.7 
+Neil_Gaiman/fgWasr3hZYY_0000008 161.6 167.2 
+Neil_Gaiman/fgWasr3hZYY_0000009 169.0 174.5 
+Neil_Gaiman/fgWasr3hZYY_0000010 175.3 186.9 
+Neil_Gaiman/fgWasr3hZYY_0000011 205.6 211.7 
+Neil_Gaiman/fgWasr3hZYY_0000012 212.2 218.2 
+Neil_Gaiman/fgWasr3hZYY_0000013 232.4 239.2 

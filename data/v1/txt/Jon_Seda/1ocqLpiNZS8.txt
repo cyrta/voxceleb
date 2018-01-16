@@ -1,0 +1,11 @@
+POI: 			Jon_Seda 
+Youtube ID: 	1ocqLpiNZS8 
+Video length: 	397.0 sec 
+Set (V): 		dev 
+ 
+Jon_Seda/1ocqLpiNZS8_0000001 88.3 94.9 
+Jon_Seda/1ocqLpiNZS8_0000002 140.3 145.2 
+Jon_Seda/1ocqLpiNZS8_0000003 146.0 150.4 
+Jon_Seda/1ocqLpiNZS8_0000004 162.5 166.9 
+Jon_Seda/1ocqLpiNZS8_0000005 176.6 188.0 
+Jon_Seda/1ocqLpiNZS8_0000006 238.1 243.6 

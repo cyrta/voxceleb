@@ -1,0 +1,8 @@
+POI: 			Phyllis_Diller 
+Youtube ID: 	rzkkVbHqEHQ 
+Video length: 	513.6 sec 
+Set (V): 		dev 
+ 
+Phyllis_Diller/rzkkVbHqEHQ_0000001 67.4 72.0 
+Phyllis_Diller/rzkkVbHqEHQ_0000002 131.4 138.0 
+Phyllis_Diller/rzkkVbHqEHQ_0000003 443.4 447.6 

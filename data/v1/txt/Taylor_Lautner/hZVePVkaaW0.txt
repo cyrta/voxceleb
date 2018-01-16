@@ -1,0 +1,10 @@
+POI: 			Taylor_Lautner 
+Youtube ID: 	hZVePVkaaW0 
+Video length: 	651.2 sec 
+Set (V): 		dev 
+ 
+Taylor_Lautner/hZVePVkaaW0_0000001 195.1 199.3 
+Taylor_Lautner/hZVePVkaaW0_0000002 260.4 264.8 
+Taylor_Lautner/hZVePVkaaW0_0000003 398.7 403.7 
+Taylor_Lautner/hZVePVkaaW0_0000004 431.6 436.4 
+Taylor_Lautner/hZVePVkaaW0_0000005 436.6 442.3 

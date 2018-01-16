@@ -1,0 +1,8 @@
+POI: 			Melissa_McCarthy 
+Youtube ID: 	0_vzaalCBP0 
+Video length: 	140.3 sec 
+Set (V): 		dev 
+ 
+Melissa_McCarthy/0_vzaalCBP0_0000001 09.3 19.2 
+Melissa_McCarthy/0_vzaalCBP0_0000002 55.4 63.2 
+Melissa_McCarthy/0_vzaalCBP0_0000003 95.0 99.0 

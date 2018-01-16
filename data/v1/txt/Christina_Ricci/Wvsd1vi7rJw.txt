@@ -1,0 +1,15 @@
+POI: 			Christina_Ricci 
+Youtube ID: 	Wvsd1vi7rJw 
+Video length: 	770.6 sec 
+Set (V): 		dev 
+ 
+Christina_Ricci/Wvsd1vi7rJw_0000001 57.1 61.8 
+Christina_Ricci/Wvsd1vi7rJw_0000002 61.9 74.4 
+Christina_Ricci/Wvsd1vi7rJw_0000003 91.6 103.9 
+Christina_Ricci/Wvsd1vi7rJw_0000004 106.4 110.6 
+Christina_Ricci/Wvsd1vi7rJw_0000005 234.0 247.6 
+Christina_Ricci/Wvsd1vi7rJw_0000006 248.2 253.0 
+Christina_Ricci/Wvsd1vi7rJw_0000007 254.1 259.2 
+Christina_Ricci/Wvsd1vi7rJw_0000008 306.2 313.6 
+Christina_Ricci/Wvsd1vi7rJw_0000009 437.4 441.9 
+Christina_Ricci/Wvsd1vi7rJw_0000010 473.3 479.7 

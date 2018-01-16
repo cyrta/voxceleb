@@ -1,0 +1,8 @@
+POI: 			Reece_Ritchie 
+Youtube ID: 	lCdg4EVdSI4 
+Video length: 	578.3 sec 
+Set (V): 		dev 
+ 
+Reece_Ritchie/lCdg4EVdSI4_0000001 331.0 351.3 
+Reece_Ritchie/lCdg4EVdSI4_0000002 351.8 363.6 
+Reece_Ritchie/lCdg4EVdSI4_0000003 418.1 427.5 

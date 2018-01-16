@@ -1,0 +1,13 @@
+POI: 			Garry_Marshall 
+Youtube ID: 	NuokWhpheSk 
+Video length: 	143.6 sec 
+Set (V): 		dev 
+ 
+Garry_Marshall/NuokWhpheSk_0000001 06.1 25.2 
+Garry_Marshall/NuokWhpheSk_0000002 25.6 33.6 
+Garry_Marshall/NuokWhpheSk_0000003 42.4 48.8 
+Garry_Marshall/NuokWhpheSk_0000004 49.4 85.3 
+Garry_Marshall/NuokWhpheSk_0000005 86.0 90.3 
+Garry_Marshall/NuokWhpheSk_0000006 99.5 103.7 
+Garry_Marshall/NuokWhpheSk_0000007 117.6 124.8 
+Garry_Marshall/NuokWhpheSk_0000008 125.6 131.1 

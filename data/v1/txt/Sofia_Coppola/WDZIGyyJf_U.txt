@@ -1,0 +1,11 @@
+POI: 			Sofia_Coppola 
+Youtube ID: 	WDZIGyyJf_U 
+Video length: 	319.6 sec 
+Set (V): 		dev 
+ 
+Sofia_Coppola/WDZIGyyJf_U_0000001 90.2 96.7 
+Sofia_Coppola/WDZIGyyJf_U_0000002 116.4 125.4 
+Sofia_Coppola/WDZIGyyJf_U_0000003 129.9 134.4 
+Sofia_Coppola/WDZIGyyJf_U_0000004 140.4 147.6 
+Sofia_Coppola/WDZIGyyJf_U_0000005 163.9 172.0 
+Sofia_Coppola/WDZIGyyJf_U_0000006 275.0 279.2 

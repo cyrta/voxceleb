@@ -1,0 +1,11 @@
+POI: 			Pat_Monahan 
+Youtube ID: 	C9opBeG6sLc 
+Video length: 	328.0 sec 
+Set (V): 		dev 
+ 
+Pat_Monahan/C9opBeG6sLc_0000001 112.0 118.8 
+Pat_Monahan/C9opBeG6sLc_0000002 127.9 133.1 
+Pat_Monahan/C9opBeG6sLc_0000003 136.0 150.7 
+Pat_Monahan/C9opBeG6sLc_0000004 166.1 170.8 
+Pat_Monahan/C9opBeG6sLc_0000005 186.4 191.1 
+Pat_Monahan/C9opBeG6sLc_0000006 235.9 240.2 

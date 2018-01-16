@@ -1,0 +1,9 @@
+POI: 			Luke_Newberry 
+Youtube ID: 	rLWbcgmfJok 
+Video length: 	162.9 sec 
+Set (V): 		dev 
+ 
+Luke_Newberry/rLWbcgmfJok_0000001 24.5 37.5 
+Luke_Newberry/rLWbcgmfJok_0000002 72.3 76.6 
+Luke_Newberry/rLWbcgmfJok_0000003 92.0 96.2 
+Luke_Newberry/rLWbcgmfJok_0000004 133.6 138.8 

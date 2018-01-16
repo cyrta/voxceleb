@@ -1,0 +1,12 @@
+POI: 			Kenton_Duty 
+Youtube ID: 	cLssGSsPn7I 
+Video length: 	255.7 sec 
+Set (V): 		dev 
+ 
+Kenton_Duty/cLssGSsPn7I_0000001 52.4 57.2 
+Kenton_Duty/cLssGSsPn7I_0000002 149.2 153.1 
+Kenton_Duty/cLssGSsPn7I_0000003 164.7 177.8 
+Kenton_Duty/cLssGSsPn7I_0000004 193.2 199.6 
+Kenton_Duty/cLssGSsPn7I_0000005 200.1 207.4 
+Kenton_Duty/cLssGSsPn7I_0000006 208.2 214.0 
+Kenton_Duty/cLssGSsPn7I_0000007 215.0 220.4 

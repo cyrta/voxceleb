@@ -1,0 +1,7 @@
+POI: 			Jay_Baruchel 
+Youtube ID: 	qxRxH8ksD4E 
+Video length: 	252.0 sec 
+Set (V): 		dev 
+ 
+Jay_Baruchel/qxRxH8ksD4E_0000001 93.9 98.2 
+Jay_Baruchel/qxRxH8ksD4E_0000002 211.4 216.4 

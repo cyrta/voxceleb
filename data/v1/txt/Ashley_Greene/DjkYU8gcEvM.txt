@@ -1,0 +1,17 @@
+POI: 			Ashley_Greene 
+Youtube ID: 	DjkYU8gcEvM 
+Video length: 	300.6 sec 
+Set (V): 		dev 
+ 
+Ashley_Greene/DjkYU8gcEvM_0000001 49.0 61.8 
+Ashley_Greene/DjkYU8gcEvM_0000002 62.0 67.0 
+Ashley_Greene/DjkYU8gcEvM_0000003 80.6 86.8 
+Ashley_Greene/DjkYU8gcEvM_0000004 106.8 114.0 
+Ashley_Greene/DjkYU8gcEvM_0000005 142.5 167.2 
+Ashley_Greene/DjkYU8gcEvM_0000006 174.3 190.7 
+Ashley_Greene/DjkYU8gcEvM_0000007 191.4 209.3 
+Ashley_Greene/DjkYU8gcEvM_0000008 209.4 213.9 
+Ashley_Greene/DjkYU8gcEvM_0000009 221.0 241.3 
+Ashley_Greene/DjkYU8gcEvM_0000010 242.3 251.3 
+Ashley_Greene/DjkYU8gcEvM_0000011 258.6 266.9 
+Ashley_Greene/DjkYU8gcEvM_0000012 267.2 273.2 

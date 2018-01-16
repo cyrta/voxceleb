@@ -1,0 +1,10 @@
+POI: 			Simon_Pegg 
+Youtube ID: 	WRz3IEURCTQ 
+Video length: 	529.7 sec 
+Set (V): 		dev 
+ 
+Simon_Pegg/WRz3IEURCTQ_0000001 68.0 73.0 
+Simon_Pegg/WRz3IEURCTQ_0000002 185.2 190.8 
+Simon_Pegg/WRz3IEURCTQ_0000003 202.9 207.2 
+Simon_Pegg/WRz3IEURCTQ_0000004 372.3 377.8 
+Simon_Pegg/WRz3IEURCTQ_0000005 382.0 390.1 

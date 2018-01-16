@@ -1,0 +1,15 @@
+POI: 			Max_Schneider 
+Youtube ID: 	2WD4NIXbLjI 
+Video length: 	248.2 sec 
+Set (V): 		dev 
+ 
+Max_Schneider/2WD4NIXbLjI_0000001 12.0 16.6 
+Max_Schneider/2WD4NIXbLjI_0000002 49.6 59.2 
+Max_Schneider/2WD4NIXbLjI_0000003 73.4 81.1 
+Max_Schneider/2WD4NIXbLjI_0000004 87.6 93.7 
+Max_Schneider/2WD4NIXbLjI_0000005 94.4 106.5 
+Max_Schneider/2WD4NIXbLjI_0000006 114.6 124.7 
+Max_Schneider/2WD4NIXbLjI_0000007 128.4 134.0 
+Max_Schneider/2WD4NIXbLjI_0000008 140.8 151.4 
+Max_Schneider/2WD4NIXbLjI_0000009 208.7 213.2 
+Max_Schneider/2WD4NIXbLjI_0000010 222.3 226.8 

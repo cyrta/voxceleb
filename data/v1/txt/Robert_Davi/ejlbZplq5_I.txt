@@ -1,0 +1,9 @@
+POI: 			Robert_Davi 
+Youtube ID: 	ejlbZplq5_I 
+Video length: 	3570.1 sec 
+Set (V): 		dev 
+ 
+Robert_Davi/ejlbZplq5_I_0000001 3118.6 3126.7 
+Robert_Davi/ejlbZplq5_I_0000002 3143.6 3148.0 
+Robert_Davi/ejlbZplq5_I_0000003 3189.7 3196.3 
+Robert_Davi/ejlbZplq5_I_0000004 3409.5 3413.8 

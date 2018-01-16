@@ -1,0 +1,27 @@
+POI: 			Sam_Riley 
+Youtube ID: 	sknkKBfvikY 
+Video length: 	510.1 sec 
+Set (V): 		dev 
+ 
+Sam_Riley/sknkKBfvikY_0000001 19.1 23.8 
+Sam_Riley/sknkKBfvikY_0000002 25.5 30.9 
+Sam_Riley/sknkKBfvikY_0000003 38.4 42.9 
+Sam_Riley/sknkKBfvikY_0000004 63.8 68.9 
+Sam_Riley/sknkKBfvikY_0000005 69.8 75.2 
+Sam_Riley/sknkKBfvikY_0000006 79.0 84.0 
+Sam_Riley/sknkKBfvikY_0000007 84.8 92.2 
+Sam_Riley/sknkKBfvikY_0000008 122.5 131.0 
+Sam_Riley/sknkKBfvikY_0000009 151.1 158.0 
+Sam_Riley/sknkKBfvikY_0000010 198.0 203.4 
+Sam_Riley/sknkKBfvikY_0000011 207.2 212.8 
+Sam_Riley/sknkKBfvikY_0000012 228.4 233.5 
+Sam_Riley/sknkKBfvikY_0000013 280.1 289.4 
+Sam_Riley/sknkKBfvikY_0000014 291.3 298.0 
+Sam_Riley/sknkKBfvikY_0000015 317.4 323.2 
+Sam_Riley/sknkKBfvikY_0000016 324.0 329.7 
+Sam_Riley/sknkKBfvikY_0000017 377.6 382.5 
+Sam_Riley/sknkKBfvikY_0000018 387.4 394.4 
+Sam_Riley/sknkKBfvikY_0000019 407.6 416.4 
+Sam_Riley/sknkKBfvikY_0000020 461.1 468.2 
+Sam_Riley/sknkKBfvikY_0000021 473.1 478.5 
+Sam_Riley/sknkKBfvikY_0000022 482.5 489.6 

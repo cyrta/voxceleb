@@ -1,0 +1,7 @@
+POI: 			Agyness_Deyn 
+Youtube ID: 	LbR3PNHiXms 
+Video length: 	191.5 sec 
+Set (V): 		dev 
+ 
+Agyness_Deyn/LbR3PNHiXms_0000001 135.0 140.7 
+Agyness_Deyn/LbR3PNHiXms_0000002 146.7 151.8 

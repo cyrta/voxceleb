@@ -1,0 +1,9 @@
+POI: 			Nicole_Richie 
+Youtube ID: 	QNdfrAe5Ozs 
+Video length: 	396.6 sec 
+Set (V): 		dev 
+ 
+Nicole_Richie/QNdfrAe5Ozs_0000001 35.6 46.0 
+Nicole_Richie/QNdfrAe5Ozs_0000002 77.5 93.1 
+Nicole_Richie/QNdfrAe5Ozs_0000003 191.4 197.2 
+Nicole_Richie/QNdfrAe5Ozs_0000004 301.2 307.6 

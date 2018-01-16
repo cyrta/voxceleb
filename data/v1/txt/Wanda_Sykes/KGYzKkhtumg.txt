@@ -1,0 +1,13 @@
+POI: 			Wanda_Sykes 
+Youtube ID: 	KGYzKkhtumg 
+Video length: 	299.3 sec 
+Set (V): 		dev 
+ 
+Wanda_Sykes/KGYzKkhtumg_0000001 04.8 10.3 
+Wanda_Sykes/KGYzKkhtumg_0000002 14.6 20.5 
+Wanda_Sykes/KGYzKkhtumg_0000003 46.6 58.2 
+Wanda_Sykes/KGYzKkhtumg_0000004 91.8 97.5 
+Wanda_Sykes/KGYzKkhtumg_0000005 137.2 145.3 
+Wanda_Sykes/KGYzKkhtumg_0000006 178.8 185.2 
+Wanda_Sykes/KGYzKkhtumg_0000007 209.5 213.9 
+Wanda_Sykes/KGYzKkhtumg_0000008 245.6 249.8 

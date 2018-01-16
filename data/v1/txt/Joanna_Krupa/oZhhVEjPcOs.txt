@@ -1,0 +1,12 @@
+POI: 			Joanna_Krupa 
+Youtube ID: 	oZhhVEjPcOs 
+Video length: 	341.1 sec 
+Set (V): 		dev 
+ 
+Joanna_Krupa/oZhhVEjPcOs_0000001 62.0 67.5 
+Joanna_Krupa/oZhhVEjPcOs_0000002 110.5 118.5 
+Joanna_Krupa/oZhhVEjPcOs_0000003 119.0 126.8 
+Joanna_Krupa/oZhhVEjPcOs_0000004 132.3 137.2 
+Joanna_Krupa/oZhhVEjPcOs_0000005 222.1 234.0 
+Joanna_Krupa/oZhhVEjPcOs_0000006 270.2 288.9 
+Joanna_Krupa/oZhhVEjPcOs_0000007 291.1 296.3 

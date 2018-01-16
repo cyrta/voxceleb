@@ -1,0 +1,28 @@
+POI: 			Randeep_Hooda 
+Youtube ID: 	h_vFlQ6YUAU 
+Video length: 	482.1 sec 
+Set (V): 		dev 
+ 
+Randeep_Hooda/h_vFlQ6YUAU_0000001 33.1 37.3 
+Randeep_Hooda/h_vFlQ6YUAU_0000002 42.3 56.6 
+Randeep_Hooda/h_vFlQ6YUAU_0000003 70.4 76.9 
+Randeep_Hooda/h_vFlQ6YUAU_0000004 90.6 100.1 
+Randeep_Hooda/h_vFlQ6YUAU_0000005 109.5 116.5 
+Randeep_Hooda/h_vFlQ6YUAU_0000006 129.7 134.1 
+Randeep_Hooda/h_vFlQ6YUAU_0000007 137.6 157.1 
+Randeep_Hooda/h_vFlQ6YUAU_0000008 159.2 164.2 
+Randeep_Hooda/h_vFlQ6YUAU_0000009 170.4 175.2 
+Randeep_Hooda/h_vFlQ6YUAU_0000010 176.2 184.3 
+Randeep_Hooda/h_vFlQ6YUAU_0000011 187.5 211.8 
+Randeep_Hooda/h_vFlQ6YUAU_0000012 212.7 220.1 
+Randeep_Hooda/h_vFlQ6YUAU_0000013 220.8 233.3 
+Randeep_Hooda/h_vFlQ6YUAU_0000014 246.3 254.4 
+Randeep_Hooda/h_vFlQ6YUAU_0000015 255.0 259.5 
+Randeep_Hooda/h_vFlQ6YUAU_0000016 259.8 264.1 
+Randeep_Hooda/h_vFlQ6YUAU_0000017 278.6 283.0 
+Randeep_Hooda/h_vFlQ6YUAU_0000018 297.6 331.4 
+Randeep_Hooda/h_vFlQ6YUAU_0000019 346.8 353.8 
+Randeep_Hooda/h_vFlQ6YUAU_0000020 357.8 363.0 
+Randeep_Hooda/h_vFlQ6YUAU_0000021 363.9 368.4 
+Randeep_Hooda/h_vFlQ6YUAU_0000022 369.4 381.6 
+Randeep_Hooda/h_vFlQ6YUAU_0000023 424.8 440.6 

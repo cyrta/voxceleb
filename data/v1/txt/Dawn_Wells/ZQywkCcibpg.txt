@@ -1,0 +1,9 @@
+POI: 			Dawn_Wells 
+Youtube ID: 	ZQywkCcibpg 
+Video length: 	93.0 sec 
+Set (V): 		dev 
+ 
+Dawn_Wells/ZQywkCcibpg_0000001 15.0 25.2 
+Dawn_Wells/ZQywkCcibpg_0000002 24.6 40.1 
+Dawn_Wells/ZQywkCcibpg_0000003 41.2 48.6 
+Dawn_Wells/ZQywkCcibpg_0000004 72.6 80.9 

@@ -1,0 +1,12 @@
+POI: 			Jason_Bateman 
+Youtube ID: 	91quSZHJ2_A 
+Video length: 	251.7 sec 
+Set (V): 		dev 
+ 
+Jason_Bateman/91quSZHJ2_A_0000001 15.8 20.8 
+Jason_Bateman/91quSZHJ2_A_0000002 22.1 30.0 
+Jason_Bateman/91quSZHJ2_A_0000003 82.7 88.8 
+Jason_Bateman/91quSZHJ2_A_0000004 110.4 117.6 
+Jason_Bateman/91quSZHJ2_A_0000005 121.5 128.0 
+Jason_Bateman/91quSZHJ2_A_0000006 200.9 205.9 
+Jason_Bateman/91quSZHJ2_A_0000007 218.8 228.4 

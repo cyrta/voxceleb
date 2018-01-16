@@ -1,0 +1,13 @@
+POI: 			Danica_McKellar 
+Youtube ID: 	CM_w8sVauFc 
+Video length: 	294.0 sec 
+Set (V): 		dev 
+ 
+Danica_McKellar/CM_w8sVauFc_0000001 44.2 56.9 
+Danica_McKellar/CM_w8sVauFc_0000002 71.7 77.0 
+Danica_McKellar/CM_w8sVauFc_0000003 108.0 116.8 
+Danica_McKellar/CM_w8sVauFc_0000004 153.0 157.1 
+Danica_McKellar/CM_w8sVauFc_0000005 178.0 186.4 
+Danica_McKellar/CM_w8sVauFc_0000006 201.0 207.4 
+Danica_McKellar/CM_w8sVauFc_0000007 222.9 233.8 
+Danica_McKellar/CM_w8sVauFc_0000008 271.3 287.6 

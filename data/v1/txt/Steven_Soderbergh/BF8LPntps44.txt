@@ -1,0 +1,13 @@
+POI: 			Steven_Soderbergh 
+Youtube ID: 	BF8LPntps44 
+Video length: 	412.6 sec 
+Set (V): 		dev 
+ 
+Steven_Soderbergh/BF8LPntps44_0000001 17.6 23.0 
+Steven_Soderbergh/BF8LPntps44_0000002 70.5 74.5 
+Steven_Soderbergh/BF8LPntps44_0000003 84.4 88.8 
+Steven_Soderbergh/BF8LPntps44_0000004 132.5 137.4 
+Steven_Soderbergh/BF8LPntps44_0000005 180.2 184.4 
+Steven_Soderbergh/BF8LPntps44_0000006 242.6 247.1 
+Steven_Soderbergh/BF8LPntps44_0000007 270.2 280.5 
+Steven_Soderbergh/BF8LPntps44_0000008 384.1 388.6 

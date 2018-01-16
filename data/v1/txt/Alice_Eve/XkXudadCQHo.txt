@@ -1,0 +1,8 @@
+POI: 			Alice_Eve 
+Youtube ID: 	XkXudadCQHo 
+Video length: 	286.1 sec 
+Set (V): 		dev 
+ 
+Alice_Eve/XkXudadCQHo_0000001 52.5 60.0 
+Alice_Eve/XkXudadCQHo_0000002 79.0 83.8 
+Alice_Eve/XkXudadCQHo_0000003 206.2 214.7 

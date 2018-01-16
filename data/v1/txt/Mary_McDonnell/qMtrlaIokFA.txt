@@ -1,0 +1,17 @@
+POI: 			Mary_McDonnell 
+Youtube ID: 	qMtrlaIokFA 
+Video length: 	134.3 sec 
+Set (V): 		dev 
+ 
+Mary_McDonnell/qMtrlaIokFA_0000001 12.8 17.1 
+Mary_McDonnell/qMtrlaIokFA_0000002 17.5 22.6 
+Mary_McDonnell/qMtrlaIokFA_0000003 22.8 32.6 
+Mary_McDonnell/qMtrlaIokFA_0000004 33.2 39.9 
+Mary_McDonnell/qMtrlaIokFA_0000005 43.8 55.9 
+Mary_McDonnell/qMtrlaIokFA_0000006 56.6 64.8 
+Mary_McDonnell/qMtrlaIokFA_0000007 67.0 78.4 
+Mary_McDonnell/qMtrlaIokFA_0000008 79.7 93.4 
+Mary_McDonnell/qMtrlaIokFA_0000009 97.0 103.7 
+Mary_McDonnell/qMtrlaIokFA_0000010 105.1 109.4 
+Mary_McDonnell/qMtrlaIokFA_0000011 110.0 119.3 
+Mary_McDonnell/qMtrlaIokFA_0000012 120.4 125.6 

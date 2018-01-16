@@ -1,0 +1,13 @@
+POI: 			Kenton_Duty 
+Youtube ID: 	zkIP-aUBoBg 
+Video length: 	177.4 sec 
+Set (V): 		dev 
+ 
+Kenton_Duty/zkIP-aUBoBg_0000001 13.7 18.6 
+Kenton_Duty/zkIP-aUBoBg_0000002 26.1 32.7 
+Kenton_Duty/zkIP-aUBoBg_0000003 34.1 38.1 
+Kenton_Duty/zkIP-aUBoBg_0000004 39.4 44.1 
+Kenton_Duty/zkIP-aUBoBg_0000005 65.4 70.6 
+Kenton_Duty/zkIP-aUBoBg_0000006 115.0 128.8 
+Kenton_Duty/zkIP-aUBoBg_0000007 139.4 149.4 
+Kenton_Duty/zkIP-aUBoBg_0000008 150.2 156.0 

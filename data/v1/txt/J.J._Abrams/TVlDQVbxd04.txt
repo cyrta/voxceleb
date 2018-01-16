@@ -1,0 +1,12 @@
+POI: 			J.J._Abrams 
+Youtube ID: 	TVlDQVbxd04 
+Video length: 	215.8 sec 
+Set (V): 		dev 
+ 
+J.J._Abrams/TVlDQVbxd04_0000001 56.2 62.8 
+J.J._Abrams/TVlDQVbxd04_0000002 65.4 71.2 
+J.J._Abrams/TVlDQVbxd04_0000003 73.3 84.3 
+J.J._Abrams/TVlDQVbxd04_0000004 150.7 158.4 
+J.J._Abrams/TVlDQVbxd04_0000005 163.5 169.3 
+J.J._Abrams/TVlDQVbxd04_0000006 177.7 185.3 
+J.J._Abrams/TVlDQVbxd04_0000007 192.7 198.6 

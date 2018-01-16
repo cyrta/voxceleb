@@ -1,0 +1,12 @@
+POI: 			Kevin_Bacon 
+Youtube ID: 	MaQr-ou0S1s 
+Video length: 	297.9 sec 
+Set (V): 		dev 
+ 
+Kevin_Bacon/MaQr-ou0S1s_0000001 14.8 20.0 
+Kevin_Bacon/MaQr-ou0S1s_0000002 53.8 62.4 
+Kevin_Bacon/MaQr-ou0S1s_0000003 89.0 94.1 
+Kevin_Bacon/MaQr-ou0S1s_0000004 114.2 123.5 
+Kevin_Bacon/MaQr-ou0S1s_0000005 162.6 166.6 
+Kevin_Bacon/MaQr-ou0S1s_0000006 246.7 251.4 
+Kevin_Bacon/MaQr-ou0S1s_0000007 249.3 255.9 

@@ -1,0 +1,24 @@
+POI: 			America_Ferrera 
+Youtube ID: 	ZqPqpEPFQ1M 
+Video length: 	332.3 sec 
+Set (V): 		dev 
+ 
+America_Ferrera/ZqPqpEPFQ1M_0000001 13.3 19.5 
+America_Ferrera/ZqPqpEPFQ1M_0000002 20.5 33.2 
+America_Ferrera/ZqPqpEPFQ1M_0000003 33.4 42.4 
+America_Ferrera/ZqPqpEPFQ1M_0000004 44.9 56.1 
+America_Ferrera/ZqPqpEPFQ1M_0000005 66.4 97.9 
+America_Ferrera/ZqPqpEPFQ1M_0000006 111.3 117.9 
+America_Ferrera/ZqPqpEPFQ1M_0000007 118.3 129.2 
+America_Ferrera/ZqPqpEPFQ1M_0000008 129.8 143.5 
+America_Ferrera/ZqPqpEPFQ1M_0000009 149.8 161.6 
+America_Ferrera/ZqPqpEPFQ1M_0000010 152.3 157.4 
+America_Ferrera/ZqPqpEPFQ1M_0000011 181.7 196.0 
+America_Ferrera/ZqPqpEPFQ1M_0000012 199.3 209.7 
+America_Ferrera/ZqPqpEPFQ1M_0000013 216.1 225.2 
+America_Ferrera/ZqPqpEPFQ1M_0000014 225.9 230.4 
+America_Ferrera/ZqPqpEPFQ1M_0000015 248.2 270.7 
+America_Ferrera/ZqPqpEPFQ1M_0000016 281.5 287.9 
+America_Ferrera/ZqPqpEPFQ1M_0000017 292.4 305.4 
+America_Ferrera/ZqPqpEPFQ1M_0000018 306.3 316.6 
+America_Ferrera/ZqPqpEPFQ1M_0000019 316.8 325.1 

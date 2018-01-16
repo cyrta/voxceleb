@@ -1,0 +1,12 @@
+POI: 			Idina_Menzel 
+Youtube ID: 	Fs_WBr8xYjU 
+Video length: 	150.0 sec 
+Set (V): 		dev 
+ 
+Idina_Menzel/Fs_WBr8xYjU_0000001 15.5 30.8 
+Idina_Menzel/Fs_WBr8xYjU_0000002 39.2 60.8 
+Idina_Menzel/Fs_WBr8xYjU_0000003 61.8 66.8 
+Idina_Menzel/Fs_WBr8xYjU_0000004 74.0 82.2 
+Idina_Menzel/Fs_WBr8xYjU_0000005 87.2 97.8 
+Idina_Menzel/Fs_WBr8xYjU_0000006 100.1 105.1 
+Idina_Menzel/Fs_WBr8xYjU_0000007 106.9 111.0 

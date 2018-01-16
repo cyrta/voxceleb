@@ -1,0 +1,12 @@
+POI: 			Hope_Solo 
+Youtube ID: 	h1lkW2-Y-qI 
+Video length: 	79.0 sec 
+Set (V): 		dev 
+ 
+Hope_Solo/h1lkW2-Y-qI_0000001 14.8 19.3 
+Hope_Solo/h1lkW2-Y-qI_0000002 19.5 24.6 
+Hope_Solo/h1lkW2-Y-qI_0000003 31.5 35.9 
+Hope_Solo/h1lkW2-Y-qI_0000004 36.1 42.7 
+Hope_Solo/h1lkW2-Y-qI_0000005 44.8 49.4 
+Hope_Solo/h1lkW2-Y-qI_0000006 58.9 64.2 
+Hope_Solo/h1lkW2-Y-qI_0000007 65.0 74.7 

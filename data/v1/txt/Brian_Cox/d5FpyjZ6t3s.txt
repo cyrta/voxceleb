@@ -1,0 +1,17 @@
+POI: 			Brian_Cox 
+Youtube ID: 	d5FpyjZ6t3s 
+Video length: 	1260.2 sec 
+Set (V): 		dev 
+ 
+Brian_Cox/d5FpyjZ6t3s_0000001 115.9 122.8 
+Brian_Cox/d5FpyjZ6t3s_0000002 123.4 127.8 
+Brian_Cox/d5FpyjZ6t3s_0000003 132.1 136.8 
+Brian_Cox/d5FpyjZ6t3s_0000004 172.8 180.1 
+Brian_Cox/d5FpyjZ6t3s_0000005 192.0 197.6 
+Brian_Cox/d5FpyjZ6t3s_0000006 911.1 916.5 
+Brian_Cox/d5FpyjZ6t3s_0000007 942.6 947.9 
+Brian_Cox/d5FpyjZ6t3s_0000008 969.4 974.3 
+Brian_Cox/d5FpyjZ6t3s_0000009 979.9 984.6 
+Brian_Cox/d5FpyjZ6t3s_0000010 1000.6 1005.3 
+Brian_Cox/d5FpyjZ6t3s_0000011 1010.2 1017.0 
+Brian_Cox/d5FpyjZ6t3s_0000012 1128.6 1135.6 

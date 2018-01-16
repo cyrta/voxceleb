@@ -1,0 +1,7 @@
+POI: 			Miriam_Margolyes 
+Youtube ID: 	NFcP3TegCZI 
+Video length: 	545.0 sec 
+Set (V): 		dev 
+ 
+Miriam_Margolyes/NFcP3TegCZI_0000001 99.6 103.6 
+Miriam_Margolyes/NFcP3TegCZI_0000002 410.2 418.2 

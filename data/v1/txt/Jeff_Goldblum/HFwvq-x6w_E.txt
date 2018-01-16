@@ -1,0 +1,12 @@
+POI: 			Jeff_Goldblum 
+Youtube ID: 	HFwvq-x6w_E 
+Video length: 	201.6 sec 
+Set (V): 		dev 
+ 
+Jeff_Goldblum/HFwvq-x6w_E_0000001 28.6 35.1 
+Jeff_Goldblum/HFwvq-x6w_E_0000002 90.6 94.8 
+Jeff_Goldblum/HFwvq-x6w_E_0000003 107.7 112.6 
+Jeff_Goldblum/HFwvq-x6w_E_0000004 129.0 134.4 
+Jeff_Goldblum/HFwvq-x6w_E_0000005 153.0 158.3 
+Jeff_Goldblum/HFwvq-x6w_E_0000006 159.9 165.8 
+Jeff_Goldblum/HFwvq-x6w_E_0000007 167.7 190.2 

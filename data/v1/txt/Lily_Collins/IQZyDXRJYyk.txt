@@ -1,0 +1,7 @@
+POI: 			Lily_Collins 
+Youtube ID: 	IQZyDXRJYyk 
+Video length: 	333.8 sec 
+Set (V): 		dev 
+ 
+Lily_Collins/IQZyDXRJYyk_0000001 282.0 293.6 
+Lily_Collins/IQZyDXRJYyk_0000002 312.8 318.6 

@@ -1,0 +1,7 @@
+POI: 			Kuno_Becker 
+Youtube ID: 	A6KADpSlbt0 
+Video length: 	184.8 sec 
+Set (V): 		dev 
+ 
+Kuno_Becker/A6KADpSlbt0_0000001 31.2 35.5 
+Kuno_Becker/A6KADpSlbt0_0000002 120.3 124.6 

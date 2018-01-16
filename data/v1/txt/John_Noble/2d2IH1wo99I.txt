@@ -1,0 +1,11 @@
+POI: 			John_Noble 
+Youtube ID: 	2d2IH1wo99I 
+Video length: 	186.6 sec 
+Set (V): 		dev 
+ 
+John_Noble/2d2IH1wo99I_0000001 17.2 21.4 
+John_Noble/2d2IH1wo99I_0000002 53.2 59.3 
+John_Noble/2d2IH1wo99I_0000003 82.9 94.6 
+John_Noble/2d2IH1wo99I_0000004 98.7 106.0 
+John_Noble/2d2IH1wo99I_0000005 116.7 121.9 
+John_Noble/2d2IH1wo99I_0000006 161.4 168.7 

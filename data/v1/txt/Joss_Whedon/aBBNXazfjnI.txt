@@ -1,0 +1,15 @@
+POI: 			Joss_Whedon 
+Youtube ID: 	aBBNXazfjnI 
+Video length: 	335.6 sec 
+Set (V): 		dev 
+ 
+Joss_Whedon/aBBNXazfjnI_0000001 20.3 29.3 
+Joss_Whedon/aBBNXazfjnI_0000002 29.6 39.3 
+Joss_Whedon/aBBNXazfjnI_0000003 105.1 123.4 
+Joss_Whedon/aBBNXazfjnI_0000004 126.7 139.9 
+Joss_Whedon/aBBNXazfjnI_0000005 257.4 262.4 
+Joss_Whedon/aBBNXazfjnI_0000006 263.4 273.8 
+Joss_Whedon/aBBNXazfjnI_0000007 274.9 281.9 
+Joss_Whedon/aBBNXazfjnI_0000008 296.7 307.0 
+Joss_Whedon/aBBNXazfjnI_0000009 307.8 311.8 
+Joss_Whedon/aBBNXazfjnI_0000010 312.3 319.9 

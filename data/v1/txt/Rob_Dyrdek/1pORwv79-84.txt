@@ -1,0 +1,7 @@
+POI: 			Rob_Dyrdek 
+Youtube ID: 	1pORwv79-84 
+Video length: 	223.2 sec 
+Set (V): 		dev 
+ 
+Rob_Dyrdek/1pORwv79-84_0000001 81.7 86.2 
+Rob_Dyrdek/1pORwv79-84_0000002 122.6 130.6 

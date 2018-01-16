@@ -1,0 +1,7 @@
+POI: 			January_Jones 
+Youtube ID: 	8MABgjwgMsk 
+Video length: 	118.2 sec 
+Set (V): 		dev 
+ 
+January_Jones/8MABgjwgMsk_0000001 26.6 33.2 
+January_Jones/8MABgjwgMsk_0000002 69.0 73.5 

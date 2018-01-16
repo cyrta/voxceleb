@@ -1,0 +1,8 @@
+POI: 			Sam_Riley 
+Youtube ID: 	xrszpbdyE2s 
+Video length: 	101.4 sec 
+Set (V): 		dev 
+ 
+Sam_Riley/xrszpbdyE2s_0000001 24.0 28.0 
+Sam_Riley/xrszpbdyE2s_0000002 51.1 55.1 
+Sam_Riley/xrszpbdyE2s_0000003 72.2 77.8 

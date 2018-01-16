@@ -1,0 +1,22 @@
+POI: 			Kelly_Reilly 
+Youtube ID: 	EZdv-nVlG3g 
+Video length: 	615.8 sec 
+Set (V): 		dev 
+ 
+Kelly_Reilly/EZdv-nVlG3g_0000001 40.8 46.0 
+Kelly_Reilly/EZdv-nVlG3g_0000002 48.6 54.2 
+Kelly_Reilly/EZdv-nVlG3g_0000003 62.1 67.7 
+Kelly_Reilly/EZdv-nVlG3g_0000004 76.3 90.0 
+Kelly_Reilly/EZdv-nVlG3g_0000005 182.2 187.3 
+Kelly_Reilly/EZdv-nVlG3g_0000006 187.9 192.8 
+Kelly_Reilly/EZdv-nVlG3g_0000007 193.9 199.6 
+Kelly_Reilly/EZdv-nVlG3g_0000008 200.6 205.1 
+Kelly_Reilly/EZdv-nVlG3g_0000009 207.6 217.1 
+Kelly_Reilly/EZdv-nVlG3g_0000010 282.9 289.2 
+Kelly_Reilly/EZdv-nVlG3g_0000011 304.9 313.8 
+Kelly_Reilly/EZdv-nVlG3g_0000012 315.2 330.0 
+Kelly_Reilly/EZdv-nVlG3g_0000013 331.4 336.7 
+Kelly_Reilly/EZdv-nVlG3g_0000014 339.6 347.0 
+Kelly_Reilly/EZdv-nVlG3g_0000015 372.6 380.0 
+Kelly_Reilly/EZdv-nVlG3g_0000016 552.7 572.1 
+Kelly_Reilly/EZdv-nVlG3g_0000017 579.2 592.3 

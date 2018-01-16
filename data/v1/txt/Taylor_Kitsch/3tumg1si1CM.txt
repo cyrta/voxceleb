@@ -1,0 +1,11 @@
+POI: 			Taylor_Kitsch 
+Youtube ID: 	3tumg1si1CM 
+Video length: 	145.6 sec 
+Set (V): 		dev 
+ 
+Taylor_Kitsch/3tumg1si1CM_0000001 18.6 28.8 
+Taylor_Kitsch/3tumg1si1CM_0000002 29.2 43.9 
+Taylor_Kitsch/3tumg1si1CM_0000003 50.2 75.5 
+Taylor_Kitsch/3tumg1si1CM_0000004 80.3 90.8 
+Taylor_Kitsch/3tumg1si1CM_0000005 91.0 102.7 
+Taylor_Kitsch/3tumg1si1CM_0000006 116.8 134.6 

@@ -1,0 +1,7 @@
+POI: 			Corbin_Bleu 
+Youtube ID: 	IsSJJFFJWfE 
+Video length: 	492.3 sec 
+Set (V): 		dev 
+ 
+Corbin_Bleu/IsSJJFFJWfE_0000001 167.9 177.5 
+Corbin_Bleu/IsSJJFFJWfE_0000002 244.2 250.9 

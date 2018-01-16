@@ -1,0 +1,12 @@
+POI: 			Paul_Sorvino 
+Youtube ID: 	3xPaDrhMR60 
+Video length: 	546.5 sec 
+Set (V): 		dev 
+ 
+Paul_Sorvino/3xPaDrhMR60_0000001 62.9 72.7 
+Paul_Sorvino/3xPaDrhMR60_0000002 242.4 247.2 
+Paul_Sorvino/3xPaDrhMR60_0000003 249.8 254.9 
+Paul_Sorvino/3xPaDrhMR60_0000004 314.2 322.5 
+Paul_Sorvino/3xPaDrhMR60_0000005 328.2 342.2 
+Paul_Sorvino/3xPaDrhMR60_0000006 350.1 354.4 
+Paul_Sorvino/3xPaDrhMR60_0000007 433.3 440.1 

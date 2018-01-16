@@ -1,0 +1,7 @@
+POI: 			Olivia_Thirlby 
+Youtube ID: 	3k8CsHKIEGE 
+Video length: 	185.7 sec 
+Set (V): 		dev 
+ 
+Olivia_Thirlby/3k8CsHKIEGE_0000001 89.5 94.2 
+Olivia_Thirlby/3k8CsHKIEGE_0000002 111.4 117.6 

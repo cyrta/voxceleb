@@ -1,0 +1,11 @@
+POI: 			Nelly_Furtado 
+Youtube ID: 	Jh6ui6erf7c 
+Video length: 	185.4 sec 
+Set (V): 		dev 
+ 
+Nelly_Furtado/Jh6ui6erf7c_0000001 37.9 47.3 
+Nelly_Furtado/Jh6ui6erf7c_0000002 70.2 77.8 
+Nelly_Furtado/Jh6ui6erf7c_0000003 109.8 113.8 
+Nelly_Furtado/Jh6ui6erf7c_0000004 114.0 127.4 
+Nelly_Furtado/Jh6ui6erf7c_0000005 129.0 144.6 
+Nelly_Furtado/Jh6ui6erf7c_0000006 148.0 153.7 

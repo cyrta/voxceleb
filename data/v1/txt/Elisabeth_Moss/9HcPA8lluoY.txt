@@ -1,0 +1,10 @@
+POI: 			Elisabeth_Moss 
+Youtube ID: 	9HcPA8lluoY 
+Video length: 	133.7 sec 
+Set (V): 		test 
+ 
+Elisabeth_Moss/9HcPA8lluoY_0000001 30.2 34.8 
+Elisabeth_Moss/9HcPA8lluoY_0000002 42.4 47.4 
+Elisabeth_Moss/9HcPA8lluoY_0000003 60.1 64.6 
+Elisabeth_Moss/9HcPA8lluoY_0000004 115.1 119.7 
+Elisabeth_Moss/9HcPA8lluoY_0000005 122.3 126.3 

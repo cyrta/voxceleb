@@ -1,0 +1,11 @@
+POI: 			Scott_Speedman 
+Youtube ID: 	mDv_dDjO9n4 
+Video length: 	372.2 sec 
+Set (V): 		dev 
+ 
+Scott_Speedman/mDv_dDjO9n4_0000001 85.2 94.7 
+Scott_Speedman/mDv_dDjO9n4_0000002 97.2 102.3 
+Scott_Speedman/mDv_dDjO9n4_0000003 227.0 234.6 
+Scott_Speedman/mDv_dDjO9n4_0000004 269.2 275.9 
+Scott_Speedman/mDv_dDjO9n4_0000005 297.2 307.5 
+Scott_Speedman/mDv_dDjO9n4_0000006 338.8 345.9 

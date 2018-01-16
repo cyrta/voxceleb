@@ -1,0 +1,14 @@
+POI: 			Matt_Smith 
+Youtube ID: 	Zog-6SrGxE0 
+Video length: 	341.5 sec 
+Set (V): 		dev 
+ 
+Matt_Smith/Zog-6SrGxE0_0000001 14.6 28.0 
+Matt_Smith/Zog-6SrGxE0_0000002 37.3 42.0 
+Matt_Smith/Zog-6SrGxE0_0000003 83.7 91.3 
+Matt_Smith/Zog-6SrGxE0_0000004 99.0 103.6 
+Matt_Smith/Zog-6SrGxE0_0000005 148.8 155.8 
+Matt_Smith/Zog-6SrGxE0_0000006 156.5 161.0 
+Matt_Smith/Zog-6SrGxE0_0000007 161.6 166.2 
+Matt_Smith/Zog-6SrGxE0_0000008 202.4 206.8 
+Matt_Smith/Zog-6SrGxE0_0000009 323.4 328.0 

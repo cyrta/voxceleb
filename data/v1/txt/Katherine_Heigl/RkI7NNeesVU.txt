@@ -1,0 +1,11 @@
+POI: 			Katherine_Heigl 
+Youtube ID: 	RkI7NNeesVU 
+Video length: 	244.3 sec 
+Set (V): 		dev 
+ 
+Katherine_Heigl/RkI7NNeesVU_0000001 78.8 84.9 
+Katherine_Heigl/RkI7NNeesVU_0000002 99.7 106.0 
+Katherine_Heigl/RkI7NNeesVU_0000003 135.4 142.9 
+Katherine_Heigl/RkI7NNeesVU_0000004 161.3 167.6 
+Katherine_Heigl/RkI7NNeesVU_0000005 173.0 182.1 
+Katherine_Heigl/RkI7NNeesVU_0000006 182.4 188.5 

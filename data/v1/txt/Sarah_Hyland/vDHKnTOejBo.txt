@@ -1,0 +1,10 @@
+POI: 			Sarah_Hyland 
+Youtube ID: 	vDHKnTOejBo 
+Video length: 	360.2 sec 
+Set (V): 		dev 
+ 
+Sarah_Hyland/vDHKnTOejBo_0000001 224.0 228.7 
+Sarah_Hyland/vDHKnTOejBo_0000002 249.3 255.6 
+Sarah_Hyland/vDHKnTOejBo_0000003 292.2 298.3 
+Sarah_Hyland/vDHKnTOejBo_0000004 299.2 305.3 
+Sarah_Hyland/vDHKnTOejBo_0000005 311.1 327.2 

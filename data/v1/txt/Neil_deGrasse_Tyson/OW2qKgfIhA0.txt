@@ -1,0 +1,35 @@
+POI: 			Neil_deGrasse_Tyson 
+Youtube ID: 	OW2qKgfIhA0 
+Video length: 	647.9 sec 
+Set (V): 		dev 
+ 
+Neil_deGrasse_Tyson/OW2qKgfIhA0_0000001 33.1 39.6 
+Neil_deGrasse_Tyson/OW2qKgfIhA0_0000002 43.1 55.7 
+Neil_deGrasse_Tyson/OW2qKgfIhA0_0000003 62.2 68.8 
+Neil_deGrasse_Tyson/OW2qKgfIhA0_0000004 73.5 79.3 
+Neil_deGrasse_Tyson/OW2qKgfIhA0_0000005 96.5 104.4 
+Neil_deGrasse_Tyson/OW2qKgfIhA0_0000006 105.0 116.6 
+Neil_deGrasse_Tyson/OW2qKgfIhA0_0000007 117.6 128.5 
+Neil_deGrasse_Tyson/OW2qKgfIhA0_0000008 141.8 150.9 
+Neil_deGrasse_Tyson/OW2qKgfIhA0_0000009 151.0 157.5 
+Neil_deGrasse_Tyson/OW2qKgfIhA0_0000010 173.8 177.9 
+Neil_deGrasse_Tyson/OW2qKgfIhA0_0000011 219.2 223.6 
+Neil_deGrasse_Tyson/OW2qKgfIhA0_0000012 225.2 229.2 
+Neil_deGrasse_Tyson/OW2qKgfIhA0_0000013 229.6 239.0 
+Neil_deGrasse_Tyson/OW2qKgfIhA0_0000014 251.0 257.5 
+Neil_deGrasse_Tyson/OW2qKgfIhA0_0000015 293.6 298.4 
+Neil_deGrasse_Tyson/OW2qKgfIhA0_0000016 304.3 311.9 
+Neil_deGrasse_Tyson/OW2qKgfIhA0_0000017 314.6 329.6 
+Neil_deGrasse_Tyson/OW2qKgfIhA0_0000018 350.7 356.5 
+Neil_deGrasse_Tyson/OW2qKgfIhA0_0000019 356.8 363.4 
+Neil_deGrasse_Tyson/OW2qKgfIhA0_0000020 369.6 382.3 
+Neil_deGrasse_Tyson/OW2qKgfIhA0_0000021 393.7 398.4 
+Neil_deGrasse_Tyson/OW2qKgfIhA0_0000022 399.5 404.3 
+Neil_deGrasse_Tyson/OW2qKgfIhA0_0000023 408.2 414.4 
+Neil_deGrasse_Tyson/OW2qKgfIhA0_0000024 425.3 434.5 
+Neil_deGrasse_Tyson/OW2qKgfIhA0_0000025 435.2 450.2 
+Neil_deGrasse_Tyson/OW2qKgfIhA0_0000026 451.2 455.4 
+Neil_deGrasse_Tyson/OW2qKgfIhA0_0000027 557.0 561.6 
+Neil_deGrasse_Tyson/OW2qKgfIhA0_0000028 580.1 586.3 
+Neil_deGrasse_Tyson/OW2qKgfIhA0_0000029 606.6 611.8 
+Neil_deGrasse_Tyson/OW2qKgfIhA0_0000030 616.2 626.8 

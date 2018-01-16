@@ -1,0 +1,11 @@
+POI: 			Oona_Chaplin 
+Youtube ID: 	pKl5T4VQvHQ 
+Video length: 	263.3 sec 
+Set (V): 		dev 
+ 
+Oona_Chaplin/pKl5T4VQvHQ_0000001 78.5 88.8 
+Oona_Chaplin/pKl5T4VQvHQ_0000002 105.9 112.2 
+Oona_Chaplin/pKl5T4VQvHQ_0000003 124.5 129.4 
+Oona_Chaplin/pKl5T4VQvHQ_0000004 143.6 152.5 
+Oona_Chaplin/pKl5T4VQvHQ_0000005 211.9 222.9 
+Oona_Chaplin/pKl5T4VQvHQ_0000006 227.0 247.5 

@@ -1,0 +1,8 @@
+POI: 			Andy_Samberg 
+Youtube ID: 	hiODZaExuTk 
+Video length: 	484.7 sec 
+Set (V): 		dev 
+ 
+Andy_Samberg/hiODZaExuTk_0000001 253.0 267.7 
+Andy_Samberg/hiODZaExuTk_0000002 276.1 280.6 
+Andy_Samberg/hiODZaExuTk_0000003 353.9 361.1 

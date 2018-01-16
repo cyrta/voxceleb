@@ -1,0 +1,14 @@
+POI: 			Robert_Carlyle 
+Youtube ID: 	o0YTEWPP3o0 
+Video length: 	369.9 sec 
+Set (V): 		dev 
+ 
+Robert_Carlyle/o0YTEWPP3o0_0000001 73.7 80.9 
+Robert_Carlyle/o0YTEWPP3o0_0000002 143.8 149.1 
+Robert_Carlyle/o0YTEWPP3o0_0000003 170.2 176.6 
+Robert_Carlyle/o0YTEWPP3o0_0000004 211.0 215.4 
+Robert_Carlyle/o0YTEWPP3o0_0000005 277.6 283.0 
+Robert_Carlyle/o0YTEWPP3o0_0000006 314.2 320.5 
+Robert_Carlyle/o0YTEWPP3o0_0000007 329.6 335.5 
+Robert_Carlyle/o0YTEWPP3o0_0000008 341.1 345.2 
+Robert_Carlyle/o0YTEWPP3o0_0000009 348.1 353.5 

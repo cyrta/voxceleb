@@ -1,0 +1,11 @@
+POI: 			Amanda_Seyfried 
+Youtube ID: 	airbUybc41Y 
+Video length: 	245.7 sec 
+Set (V): 		dev 
+ 
+Amanda_Seyfried/airbUybc41Y_0000001 19.2 26.7 
+Amanda_Seyfried/airbUybc41Y_0000002 152.0 162.2 
+Amanda_Seyfried/airbUybc41Y_0000003 162.3 179.7 
+Amanda_Seyfried/airbUybc41Y_0000004 181.7 190.6 
+Amanda_Seyfried/airbUybc41Y_0000005 194.1 200.3 
+Amanda_Seyfried/airbUybc41Y_0000006 201.2 206.6 

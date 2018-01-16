@@ -1,0 +1,13 @@
+POI: 			Shailene_Woodley 
+Youtube ID: 	izUuTR2UM20 
+Video length: 	189.6 sec 
+Set (V): 		dev 
+ 
+Shailene_Woodley/izUuTR2UM20_0000001 48.6 63.9 
+Shailene_Woodley/izUuTR2UM20_0000002 64.8 82.2 
+Shailene_Woodley/izUuTR2UM20_0000003 82.9 87.5 
+Shailene_Woodley/izUuTR2UM20_0000004 94.2 104.9 
+Shailene_Woodley/izUuTR2UM20_0000005 105.0 113.4 
+Shailene_Woodley/izUuTR2UM20_0000006 127.9 138.6 
+Shailene_Woodley/izUuTR2UM20_0000007 143.3 159.3 
+Shailene_Woodley/izUuTR2UM20_0000008 160.0 164.4 

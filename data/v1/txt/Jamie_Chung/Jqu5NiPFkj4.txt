@@ -1,0 +1,8 @@
+POI: 			Jamie_Chung 
+Youtube ID: 	Jqu5NiPFkj4 
+Video length: 	238.8 sec 
+Set (V): 		dev 
+ 
+Jamie_Chung/Jqu5NiPFkj4_0000001 48.7 60.4 
+Jamie_Chung/Jqu5NiPFkj4_0000002 103.2 110.5 
+Jamie_Chung/Jqu5NiPFkj4_0000003 110.9 115.3 

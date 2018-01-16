@@ -1,0 +1,11 @@
+POI: 			Dylan_McDermott 
+Youtube ID: 	yHE4-gOiHRo 
+Video length: 	200.3 sec 
+Set (V): 		dev 
+ 
+Dylan_McDermott/yHE4-gOiHRo_0000001 01.0 06.1 
+Dylan_McDermott/yHE4-gOiHRo_0000002 06.2 11.3 
+Dylan_McDermott/yHE4-gOiHRo_0000003 16.0 25.0 
+Dylan_McDermott/yHE4-gOiHRo_0000004 25.2 31.4 
+Dylan_McDermott/yHE4-gOiHRo_0000005 34.2 40.6 
+Dylan_McDermott/yHE4-gOiHRo_0000006 50.2 55.6 

@@ -1,0 +1,22 @@
+POI: 			Carrie_Fisher 
+Youtube ID: 	LwPx4t-1vdg 
+Video length: 	514.0 sec 
+Set (V): 		dev 
+ 
+Carrie_Fisher/LwPx4t-1vdg_0000001 23.8 28.9 
+Carrie_Fisher/LwPx4t-1vdg_0000002 32.8 38.1 
+Carrie_Fisher/LwPx4t-1vdg_0000003 41.6 46.7 
+Carrie_Fisher/LwPx4t-1vdg_0000004 47.1 52.5 
+Carrie_Fisher/LwPx4t-1vdg_0000005 55.8 64.9 
+Carrie_Fisher/LwPx4t-1vdg_0000006 103.1 109.2 
+Carrie_Fisher/LwPx4t-1vdg_0000007 120.6 124.5 
+Carrie_Fisher/LwPx4t-1vdg_0000008 198.3 202.7 
+Carrie_Fisher/LwPx4t-1vdg_0000009 249.2 254.4 
+Carrie_Fisher/LwPx4t-1vdg_0000010 255.1 261.4 
+Carrie_Fisher/LwPx4t-1vdg_0000011 279.3 283.6 
+Carrie_Fisher/LwPx4t-1vdg_0000012 336.4 342.3 
+Carrie_Fisher/LwPx4t-1vdg_0000013 358.1 363.6 
+Carrie_Fisher/LwPx4t-1vdg_0000014 363.4 371.0 
+Carrie_Fisher/LwPx4t-1vdg_0000015 422.1 427.6 
+Carrie_Fisher/LwPx4t-1vdg_0000016 440.0 449.6 
+Carrie_Fisher/LwPx4t-1vdg_0000017 481.1 485.6 

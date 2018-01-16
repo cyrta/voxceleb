@@ -1,0 +1,15 @@
+POI: 			Colin_Donnell 
+Youtube ID: 	RtsCEeF0Wls 
+Video length: 	519.1 sec 
+Set (V): 		dev 
+ 
+Colin_Donnell/RtsCEeF0Wls_0000001 40.7 45.7 
+Colin_Donnell/RtsCEeF0Wls_0000002 75.4 83.6 
+Colin_Donnell/RtsCEeF0Wls_0000003 144.8 149.5 
+Colin_Donnell/RtsCEeF0Wls_0000004 200.3 205.1 
+Colin_Donnell/RtsCEeF0Wls_0000005 211.5 216.8 
+Colin_Donnell/RtsCEeF0Wls_0000006 310.0 314.2 
+Colin_Donnell/RtsCEeF0Wls_0000007 315.0 319.2 
+Colin_Donnell/RtsCEeF0Wls_0000008 321.8 328.8 
+Colin_Donnell/RtsCEeF0Wls_0000009 490.3 499.6 
+Colin_Donnell/RtsCEeF0Wls_0000010 508.2 513.5 

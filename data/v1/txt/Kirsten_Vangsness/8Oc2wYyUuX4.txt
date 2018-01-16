@@ -1,0 +1,9 @@
+POI: 			Kirsten_Vangsness 
+Youtube ID: 	8Oc2wYyUuX4 
+Video length: 	113.5 sec 
+Set (V): 		dev 
+ 
+Kirsten_Vangsness/8Oc2wYyUuX4_0000001 00.7 06.1 
+Kirsten_Vangsness/8Oc2wYyUuX4_0000002 08.6 26.5 
+Kirsten_Vangsness/8Oc2wYyUuX4_0000003 27.5 32.0 
+Kirsten_Vangsness/8Oc2wYyUuX4_0000004 32.8 89.0 

@@ -1,0 +1,8 @@
+POI: 			Jorge_Garcia 
+Youtube ID: 	18Y0QfdVl2I 
+Video length: 	185.2 sec 
+Set (V): 		dev 
+ 
+Jorge_Garcia/18Y0QfdVl2I_0000001 31.1 38.0 
+Jorge_Garcia/18Y0QfdVl2I_0000002 78.4 86.0 
+Jorge_Garcia/18Y0QfdVl2I_0000003 110.8 114.9 

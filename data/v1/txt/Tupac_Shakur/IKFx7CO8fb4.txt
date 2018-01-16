@@ -1,0 +1,8 @@
+POI: 			Tupac_Shakur 
+Youtube ID: 	IKFx7CO8fb4 
+Video length: 	2603.2 sec 
+Set (V): 		dev 
+ 
+Tupac_Shakur/IKFx7CO8fb4_0000001 366.0 371.8 
+Tupac_Shakur/IKFx7CO8fb4_0000002 2220.4 2224.7 
+Tupac_Shakur/IKFx7CO8fb4_0000003 2485.2 2489.4 

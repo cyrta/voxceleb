@@ -1,0 +1,18 @@
+POI: 			Jesse_Metcalfe 
+Youtube ID: 	zuK6vrZwBs0 
+Video length: 	509.6 sec 
+Set (V): 		dev 
+ 
+Jesse_Metcalfe/zuK6vrZwBs0_0000001 38.4 45.2 
+Jesse_Metcalfe/zuK6vrZwBs0_0000002 38.6 43.8 
+Jesse_Metcalfe/zuK6vrZwBs0_0000003 111.8 118.0 
+Jesse_Metcalfe/zuK6vrZwBs0_0000004 119.5 124.2 
+Jesse_Metcalfe/zuK6vrZwBs0_0000005 159.0 163.4 
+Jesse_Metcalfe/zuK6vrZwBs0_0000006 193.1 198.4 
+Jesse_Metcalfe/zuK6vrZwBs0_0000007 258.4 268.4 
+Jesse_Metcalfe/zuK6vrZwBs0_0000008 306.8 312.2 
+Jesse_Metcalfe/zuK6vrZwBs0_0000009 319.0 323.2 
+Jesse_Metcalfe/zuK6vrZwBs0_0000010 440.2 459.5 
+Jesse_Metcalfe/zuK6vrZwBs0_0000011 462.6 471.0 
+Jesse_Metcalfe/zuK6vrZwBs0_0000012 472.8 479.1 
+Jesse_Metcalfe/zuK6vrZwBs0_0000013 486.0 491.2 

@@ -1,0 +1,45 @@
+POI: 			Andrew_Garfield 
+Youtube ID: 	qaAeXlQcn2k 
+Video length: 	1963.3 sec 
+Set (V): 		dev 
+ 
+Andrew_Garfield/qaAeXlQcn2k_0000001 178.4 190.4 
+Andrew_Garfield/qaAeXlQcn2k_0000002 191.7 203.2 
+Andrew_Garfield/qaAeXlQcn2k_0000003 211.4 219.0 
+Andrew_Garfield/qaAeXlQcn2k_0000004 219.6 230.4 
+Andrew_Garfield/qaAeXlQcn2k_0000005 332.4 343.7 
+Andrew_Garfield/qaAeXlQcn2k_0000006 344.1 348.7 
+Andrew_Garfield/qaAeXlQcn2k_0000007 575.8 582.9 
+Andrew_Garfield/qaAeXlQcn2k_0000008 583.6 593.1 
+Andrew_Garfield/qaAeXlQcn2k_0000009 594.0 599.3 
+Andrew_Garfield/qaAeXlQcn2k_0000010 600.3 615.8 
+Andrew_Garfield/qaAeXlQcn2k_0000011 627.0 636.1 
+Andrew_Garfield/qaAeXlQcn2k_0000012 636.7 646.0 
+Andrew_Garfield/qaAeXlQcn2k_0000013 856.9 871.6 
+Andrew_Garfield/qaAeXlQcn2k_0000014 873.5 881.4 
+Andrew_Garfield/qaAeXlQcn2k_0000015 883.2 892.4 
+Andrew_Garfield/qaAeXlQcn2k_0000016 893.1 907.9 
+Andrew_Garfield/qaAeXlQcn2k_0000017 908.5 920.0 
+Andrew_Garfield/qaAeXlQcn2k_0000018 922.0 931.1 
+Andrew_Garfield/qaAeXlQcn2k_0000019 931.2 957.6 
+Andrew_Garfield/qaAeXlQcn2k_0000020 959.5 981.4 
+Andrew_Garfield/qaAeXlQcn2k_0000021 983.8 994.4 
+Andrew_Garfield/qaAeXlQcn2k_0000022 998.2 1008.6 
+Andrew_Garfield/qaAeXlQcn2k_0000023 1252.5 1259.2 
+Andrew_Garfield/qaAeXlQcn2k_0000024 1259.4 1264.3 
+Andrew_Garfield/qaAeXlQcn2k_0000025 1265.1 1272.3 
+Andrew_Garfield/qaAeXlQcn2k_0000026 1273.0 1281.4 
+Andrew_Garfield/qaAeXlQcn2k_0000027 1281.7 1296.3 
+Andrew_Garfield/qaAeXlQcn2k_0000028 1302.8 1317.1 
+Andrew_Garfield/qaAeXlQcn2k_0000029 1319.2 1325.6 
+Andrew_Garfield/qaAeXlQcn2k_0000030 1329.4 1333.6 
+Andrew_Garfield/qaAeXlQcn2k_0000031 1339.0 1346.0 
+Andrew_Garfield/qaAeXlQcn2k_0000032 1357.8 1362.0 
+Andrew_Garfield/qaAeXlQcn2k_0000033 1501.0 1512.3 
+Andrew_Garfield/qaAeXlQcn2k_0000034 1514.6 1520.6 
+Andrew_Garfield/qaAeXlQcn2k_0000035 1523.4 1531.0 
+Andrew_Garfield/qaAeXlQcn2k_0000036 1564.4 1569.4 
+Andrew_Garfield/qaAeXlQcn2k_0000037 1756.2 1765.7 
+Andrew_Garfield/qaAeXlQcn2k_0000038 1769.2 1775.0 
+Andrew_Garfield/qaAeXlQcn2k_0000039 1883.2 1889.8 
+Andrew_Garfield/qaAeXlQcn2k_0000040 1890.3 1898.6 

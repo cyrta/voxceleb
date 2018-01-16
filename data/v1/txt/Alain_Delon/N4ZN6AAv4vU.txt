@@ -1,0 +1,8 @@
+POI: 			Alain_Delon 
+Youtube ID: 	N4ZN6AAv4vU 
+Video length: 	443.3 sec 
+Set (V): 		dev 
+ 
+Alain_Delon/N4ZN6AAv4vU_0000001 94.6 100.8 
+Alain_Delon/N4ZN6AAv4vU_0000002 111.9 116.1 
+Alain_Delon/N4ZN6AAv4vU_0000003 192.4 196.6 

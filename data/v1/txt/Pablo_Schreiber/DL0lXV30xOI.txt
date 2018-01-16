@@ -1,0 +1,10 @@
+POI: 			Pablo_Schreiber 
+Youtube ID: 	DL0lXV30xOI 
+Video length: 	95.9 sec 
+Set (V): 		dev 
+ 
+Pablo_Schreiber/DL0lXV30xOI_0000001 17.8 22.1 
+Pablo_Schreiber/DL0lXV30xOI_0000002 25.0 31.9 
+Pablo_Schreiber/DL0lXV30xOI_0000003 34.2 42.4 
+Pablo_Schreiber/DL0lXV30xOI_0000004 49.7 58.1 
+Pablo_Schreiber/DL0lXV30xOI_0000005 59.2 64.8 

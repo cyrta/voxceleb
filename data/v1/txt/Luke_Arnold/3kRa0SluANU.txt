@@ -1,0 +1,10 @@
+POI: 			Luke_Arnold 
+Youtube ID: 	3kRa0SluANU 
+Video length: 	248.3 sec 
+Set (V): 		dev 
+ 
+Luke_Arnold/3kRa0SluANU_0000001 66.6 79.7 
+Luke_Arnold/3kRa0SluANU_0000002 155.4 163.4 
+Luke_Arnold/3kRa0SluANU_0000003 167.1 171.8 
+Luke_Arnold/3kRa0SluANU_0000004 176.1 189.6 
+Luke_Arnold/3kRa0SluANU_0000005 192.7 198.1 

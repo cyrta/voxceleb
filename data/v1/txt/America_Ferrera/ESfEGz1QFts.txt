@@ -1,0 +1,13 @@
+POI: 			America_Ferrera 
+Youtube ID: 	ESfEGz1QFts 
+Video length: 	349.7 sec 
+Set (V): 		dev 
+ 
+America_Ferrera/ESfEGz1QFts_0000001 16.0 21.5 
+America_Ferrera/ESfEGz1QFts_0000002 38.4 43.0 
+America_Ferrera/ESfEGz1QFts_0000003 55.8 66.8 
+America_Ferrera/ESfEGz1QFts_0000004 92.3 109.5 
+America_Ferrera/ESfEGz1QFts_0000005 122.8 136.9 
+America_Ferrera/ESfEGz1QFts_0000006 150.6 156.5 
+America_Ferrera/ESfEGz1QFts_0000007 157.5 164.7 
+America_Ferrera/ESfEGz1QFts_0000008 306.6 315.0 

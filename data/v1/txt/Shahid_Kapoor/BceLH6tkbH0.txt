@@ -1,0 +1,13 @@
+POI: 			Shahid_Kapoor 
+Youtube ID: 	BceLH6tkbH0 
+Video length: 	1415.1 sec 
+Set (V): 		dev 
+ 
+Shahid_Kapoor/BceLH6tkbH0_0000001 103.6 111.0 
+Shahid_Kapoor/BceLH6tkbH0_0000002 117.3 124.6 
+Shahid_Kapoor/BceLH6tkbH0_0000003 133.2 142.3 
+Shahid_Kapoor/BceLH6tkbH0_0000004 163.4 174.5 
+Shahid_Kapoor/BceLH6tkbH0_0000005 615.2 620.3 
+Shahid_Kapoor/BceLH6tkbH0_0000006 628.7 633.7 
+Shahid_Kapoor/BceLH6tkbH0_0000007 664.5 673.5 
+Shahid_Kapoor/BceLH6tkbH0_0000008 928.5 932.9 

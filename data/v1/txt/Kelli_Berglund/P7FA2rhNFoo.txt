@@ -1,0 +1,11 @@
+POI: 			Kelli_Berglund 
+Youtube ID: 	P7FA2rhNFoo 
+Video length: 	230.9 sec 
+Set (V): 		dev 
+ 
+Kelli_Berglund/P7FA2rhNFoo_0000001 48.8 60.0 
+Kelli_Berglund/P7FA2rhNFoo_0000002 71.4 76.2 
+Kelli_Berglund/P7FA2rhNFoo_0000003 107.1 111.2 
+Kelli_Berglund/P7FA2rhNFoo_0000004 130.6 137.2 
+Kelli_Berglund/P7FA2rhNFoo_0000005 138.1 147.8 
+Kelli_Berglund/P7FA2rhNFoo_0000006 188.7 202.4 

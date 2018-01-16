@@ -1,0 +1,18 @@
+POI: 			Suzanne_Pleshette 
+Youtube ID: 	Ao-AU5v682Y 
+Video length: 	195.0 sec 
+Set (V): 		dev 
+ 
+Suzanne_Pleshette/Ao-AU5v682Y_0000001 24.2 30.4 
+Suzanne_Pleshette/Ao-AU5v682Y_0000002 37.7 45.2 
+Suzanne_Pleshette/Ao-AU5v682Y_0000003 46.5 51.7 
+Suzanne_Pleshette/Ao-AU5v682Y_0000004 66.2 70.8 
+Suzanne_Pleshette/Ao-AU5v682Y_0000005 77.4 85.3 
+Suzanne_Pleshette/Ao-AU5v682Y_0000006 88.9 95.3 
+Suzanne_Pleshette/Ao-AU5v682Y_0000007 102.4 108.9 
+Suzanne_Pleshette/Ao-AU5v682Y_0000008 111.2 115.8 
+Suzanne_Pleshette/Ao-AU5v682Y_0000009 118.6 126.3 
+Suzanne_Pleshette/Ao-AU5v682Y_0000010 131.5 138.2 
+Suzanne_Pleshette/Ao-AU5v682Y_0000011 145.9 154.3 
+Suzanne_Pleshette/Ao-AU5v682Y_0000012 155.3 160.2 
+Suzanne_Pleshette/Ao-AU5v682Y_0000013 161.6 172.3 

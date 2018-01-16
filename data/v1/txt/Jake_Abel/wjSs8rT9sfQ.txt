@@ -1,0 +1,15 @@
+POI: 			Jake_Abel 
+Youtube ID: 	wjSs8rT9sfQ 
+Video length: 	395.8 sec 
+Set (V): 		dev 
+ 
+Jake_Abel/wjSs8rT9sfQ_0000001 61.0 65.1 
+Jake_Abel/wjSs8rT9sfQ_0000002 122.7 130.4 
+Jake_Abel/wjSs8rT9sfQ_0000003 145.4 150.1 
+Jake_Abel/wjSs8rT9sfQ_0000004 151.0 166.6 
+Jake_Abel/wjSs8rT9sfQ_0000005 182.1 188.8 
+Jake_Abel/wjSs8rT9sfQ_0000006 204.8 210.2 
+Jake_Abel/wjSs8rT9sfQ_0000007 220.8 226.8 
+Jake_Abel/wjSs8rT9sfQ_0000008 263.5 268.2 
+Jake_Abel/wjSs8rT9sfQ_0000009 317.9 328.8 
+Jake_Abel/wjSs8rT9sfQ_0000010 331.1 339.4 

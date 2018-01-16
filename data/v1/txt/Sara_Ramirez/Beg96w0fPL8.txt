@@ -1,0 +1,20 @@
+POI: 			Sara_Ramirez 
+Youtube ID: 	Beg96w0fPL8 
+Video length: 	236.5 sec 
+Set (V): 		dev 
+ 
+Sara_Ramirez/Beg96w0fPL8_0000001 07.1 12.5 
+Sara_Ramirez/Beg96w0fPL8_0000002 30.8 46.2 
+Sara_Ramirez/Beg96w0fPL8_0000003 46.4 50.7 
+Sara_Ramirez/Beg96w0fPL8_0000004 52.1 63.8 
+Sara_Ramirez/Beg96w0fPL8_0000005 65.7 75.8 
+Sara_Ramirez/Beg96w0fPL8_0000006 86.7 94.5 
+Sara_Ramirez/Beg96w0fPL8_0000007 95.0 99.2 
+Sara_Ramirez/Beg96w0fPL8_0000008 101.9 106.4 
+Sara_Ramirez/Beg96w0fPL8_0000009 108.0 131.0 
+Sara_Ramirez/Beg96w0fPL8_0000010 144.0 151.1 
+Sara_Ramirez/Beg96w0fPL8_0000011 165.2 174.7 
+Sara_Ramirez/Beg96w0fPL8_0000012 183.8 191.9 
+Sara_Ramirez/Beg96w0fPL8_0000013 194.0 202.7 
+Sara_Ramirez/Beg96w0fPL8_0000014 204.3 218.5 
+Sara_Ramirez/Beg96w0fPL8_0000015 230.5 234.7 

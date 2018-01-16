@@ -1,0 +1,11 @@
+POI: 			Andre_Braugher 
+Youtube ID: 	L-Z9OI-WwoY 
+Video length: 	207.1 sec 
+Set (V): 		dev 
+ 
+Andre_Braugher/L-Z9OI-WwoY_0000001 95.1 107.5 
+Andre_Braugher/L-Z9OI-WwoY_0000002 131.2 137.8 
+Andre_Braugher/L-Z9OI-WwoY_0000003 139.2 143.6 
+Andre_Braugher/L-Z9OI-WwoY_0000004 144.5 162.4 
+Andre_Braugher/L-Z9OI-WwoY_0000005 144.5 150.9 
+Andre_Braugher/L-Z9OI-WwoY_0000006 166.0 170.2 

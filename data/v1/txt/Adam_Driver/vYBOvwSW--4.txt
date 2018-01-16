@@ -1,0 +1,14 @@
+POI: 			Adam_Driver 
+Youtube ID: 	vYBOvwSW--4 
+Video length: 	245.5 sec 
+Set (V): 		dev 
+ 
+Adam_Driver/vYBOvwSW--4_0000001 55.6 60.9 
+Adam_Driver/vYBOvwSW--4_0000002 61.2 68.0 
+Adam_Driver/vYBOvwSW--4_0000003 71.5 77.4 
+Adam_Driver/vYBOvwSW--4_0000004 93.4 98.0 
+Adam_Driver/vYBOvwSW--4_0000005 134.9 149.2 
+Adam_Driver/vYBOvwSW--4_0000006 161.6 179.2 
+Adam_Driver/vYBOvwSW--4_0000007 185.6 197.0 
+Adam_Driver/vYBOvwSW--4_0000008 197.3 206.4 
+Adam_Driver/vYBOvwSW--4_0000009 208.0 218.0 

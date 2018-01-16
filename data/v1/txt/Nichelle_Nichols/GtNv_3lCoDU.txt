@@ -1,0 +1,8 @@
+POI: 			Nichelle_Nichols 
+Youtube ID: 	GtNv_3lCoDU 
+Video length: 	311.1 sec 
+Set (V): 		dev 
+ 
+Nichelle_Nichols/GtNv_3lCoDU_0000001 94.8 99.7 
+Nichelle_Nichols/GtNv_3lCoDU_0000002 120.1 126.2 
+Nichelle_Nichols/GtNv_3lCoDU_0000003 215.2 221.6 

@@ -1,0 +1,16 @@
+POI: 			Kelly_Brook 
+Youtube ID: 	ZpaTMxc-S-c 
+Video length: 	251.2 sec 
+Set (V): 		dev 
+ 
+Kelly_Brook/ZpaTMxc-S-c_0000001 36.2 41.1 
+Kelly_Brook/ZpaTMxc-S-c_0000002 48.4 58.7 
+Kelly_Brook/ZpaTMxc-S-c_0000003 64.1 70.0 
+Kelly_Brook/ZpaTMxc-S-c_0000004 88.7 95.6 
+Kelly_Brook/ZpaTMxc-S-c_0000005 101.8 106.1 
+Kelly_Brook/ZpaTMxc-S-c_0000006 110.1 114.8 
+Kelly_Brook/ZpaTMxc-S-c_0000007 118.9 132.2 
+Kelly_Brook/ZpaTMxc-S-c_0000008 162.5 170.5 
+Kelly_Brook/ZpaTMxc-S-c_0000009 189.3 194.7 
+Kelly_Brook/ZpaTMxc-S-c_0000010 195.6 203.0 
+Kelly_Brook/ZpaTMxc-S-c_0000011 217.9 224.0 

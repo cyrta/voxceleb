@@ -1,0 +1,8 @@
+POI: 			Reece_Ritchie 
+Youtube ID: 	v0xMt1r5tCE 
+Video length: 	425.0 sec 
+Set (V): 		dev 
+ 
+Reece_Ritchie/v0xMt1r5tCE_0000001 84.0 93.0 
+Reece_Ritchie/v0xMt1r5tCE_0000002 143.0 154.3 
+Reece_Ritchie/v0xMt1r5tCE_0000003 234.5 257.2 

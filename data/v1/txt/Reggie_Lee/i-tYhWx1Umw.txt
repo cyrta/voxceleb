@@ -1,0 +1,8 @@
+POI: 			Reggie_Lee 
+Youtube ID: 	i-tYhWx1Umw 
+Video length: 	288.3 sec 
+Set (V): 		dev 
+ 
+Reggie_Lee/i-tYhWx1Umw_0000001 96.7 101.4 
+Reggie_Lee/i-tYhWx1Umw_0000002 196.6 201.1 
+Reggie_Lee/i-tYhWx1Umw_0000003 235.4 240.2 

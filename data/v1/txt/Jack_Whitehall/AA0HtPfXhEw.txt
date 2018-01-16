@@ -1,0 +1,9 @@
+POI: 			Jack_Whitehall 
+Youtube ID: 	AA0HtPfXhEw 
+Video length: 	903.2 sec 
+Set (V): 		dev 
+ 
+Jack_Whitehall/AA0HtPfXhEw_0000001 55.5 60.5 
+Jack_Whitehall/AA0HtPfXhEw_0000002 96.1 100.6 
+Jack_Whitehall/AA0HtPfXhEw_0000003 179.9 184.2 
+Jack_Whitehall/AA0HtPfXhEw_0000004 346.4 350.9 

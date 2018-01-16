@@ -1,0 +1,10 @@
+POI: 			Cindy_Williams 
+Youtube ID: 	Mv8yqWjcl3s 
+Video length: 	141.3 sec 
+Set (V): 		dev 
+ 
+Cindy_Williams/Mv8yqWjcl3s_0000001 71.0 75.8 
+Cindy_Williams/Mv8yqWjcl3s_0000002 76.0 83.3 
+Cindy_Williams/Mv8yqWjcl3s_0000003 85.2 90.6 
+Cindy_Williams/Mv8yqWjcl3s_0000004 102.4 118.5 
+Cindy_Williams/Mv8yqWjcl3s_0000005 119.0 131.5 

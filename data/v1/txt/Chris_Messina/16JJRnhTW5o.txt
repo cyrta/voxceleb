@@ -1,0 +1,7 @@
+POI: 			Chris_Messina 
+Youtube ID: 	16JJRnhTW5o 
+Video length: 	75.5 sec 
+Set (V): 		dev 
+ 
+Chris_Messina/16JJRnhTW5o_0000001 11.7 21.6 
+Chris_Messina/16JJRnhTW5o_0000002 42.2 48.4 

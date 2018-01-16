@@ -1,0 +1,7 @@
+POI: 			Robert_Pattinson 
+Youtube ID: 	eCmleIgAoag 
+Video length: 	278.2 sec 
+Set (V): 		dev 
+ 
+Robert_Pattinson/eCmleIgAoag_0000001 198.0 211.0 
+Robert_Pattinson/eCmleIgAoag_0000002 212.2 216.8 

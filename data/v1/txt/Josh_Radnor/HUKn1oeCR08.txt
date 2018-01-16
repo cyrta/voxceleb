@@ -1,0 +1,8 @@
+POI: 			Josh_Radnor 
+Youtube ID: 	HUKn1oeCR08 
+Video length: 	407.0 sec 
+Set (V): 		dev 
+ 
+Josh_Radnor/HUKn1oeCR08_0000001 67.3 73.7 
+Josh_Radnor/HUKn1oeCR08_0000002 130.4 134.6 
+Josh_Radnor/HUKn1oeCR08_0000003 145.8 153.2 

@@ -1,0 +1,7 @@
+POI: 			Moon_Bloodgood 
+Youtube ID: 	y1Plkeb4rws 
+Video length: 	749.6 sec 
+Set (V): 		dev 
+ 
+Moon_Bloodgood/y1Plkeb4rws_0000001 97.2 103.6 
+Moon_Bloodgood/y1Plkeb4rws_0000002 511.0 519.9 

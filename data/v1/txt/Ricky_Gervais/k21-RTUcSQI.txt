@@ -1,0 +1,22 @@
+POI: 			Ricky_Gervais 
+Youtube ID: 	k21-RTUcSQI 
+Video length: 	349.6 sec 
+Set (V): 		dev 
+ 
+Ricky_Gervais/k21-RTUcSQI_0000001 26.4 33.5 
+Ricky_Gervais/k21-RTUcSQI_0000002 37.7 62.4 
+Ricky_Gervais/k21-RTUcSQI_0000003 62.7 81.2 
+Ricky_Gervais/k21-RTUcSQI_0000004 82.7 90.9 
+Ricky_Gervais/k21-RTUcSQI_0000005 92.0 107.0 
+Ricky_Gervais/k21-RTUcSQI_0000006 61.2 80.6 
+Ricky_Gervais/k21-RTUcSQI_0000007 80.7 91.3 
+Ricky_Gervais/k21-RTUcSQI_0000008 131.9 141.2 
+Ricky_Gervais/k21-RTUcSQI_0000009 144.5 156.8 
+Ricky_Gervais/k21-RTUcSQI_0000010 164.4 169.2 
+Ricky_Gervais/k21-RTUcSQI_0000011 179.8 188.0 
+Ricky_Gervais/k21-RTUcSQI_0000012 190.0 197.7 
+Ricky_Gervais/k21-RTUcSQI_0000013 200.9 215.2 
+Ricky_Gervais/k21-RTUcSQI_0000014 216.0 222.2 
+Ricky_Gervais/k21-RTUcSQI_0000015 223.7 246.5 
+Ricky_Gervais/k21-RTUcSQI_0000016 268.7 278.6 
+Ricky_Gervais/k21-RTUcSQI_0000017 279.2 319.6 

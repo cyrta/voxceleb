@@ -1,0 +1,18 @@
+POI: 			Karan_Brar 
+Youtube ID: 	tFc4EciiEPU 
+Video length: 	247.8 sec 
+Set (V): 		dev 
+ 
+Karan_Brar/tFc4EciiEPU_0000001 07.9 12.2 
+Karan_Brar/tFc4EciiEPU_0000002 14.1 24.0 
+Karan_Brar/tFc4EciiEPU_0000003 39.4 54.6 
+Karan_Brar/tFc4EciiEPU_0000004 66.5 84.8 
+Karan_Brar/tFc4EciiEPU_0000005 87.2 92.2 
+Karan_Brar/tFc4EciiEPU_0000006 117.0 122.4 
+Karan_Brar/tFc4EciiEPU_0000007 126.8 131.5 
+Karan_Brar/tFc4EciiEPU_0000008 155.5 167.9 
+Karan_Brar/tFc4EciiEPU_0000009 170.3 174.6 
+Karan_Brar/tFc4EciiEPU_0000010 178.2 183.4 
+Karan_Brar/tFc4EciiEPU_0000011 183.6 193.8 
+Karan_Brar/tFc4EciiEPU_0000012 209.7 214.6 
+Karan_Brar/tFc4EciiEPU_0000013 222.6 226.9 

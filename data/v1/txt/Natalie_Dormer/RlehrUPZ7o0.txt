@@ -1,0 +1,8 @@
+POI: 			Natalie_Dormer 
+Youtube ID: 	RlehrUPZ7o0 
+Video length: 	575.9 sec 
+Set (V): 		dev 
+ 
+Natalie_Dormer/RlehrUPZ7o0_0000001 22.0 26.6 
+Natalie_Dormer/RlehrUPZ7o0_0000002 221.7 229.6 
+Natalie_Dormer/RlehrUPZ7o0_0000003 276.6 281.8 

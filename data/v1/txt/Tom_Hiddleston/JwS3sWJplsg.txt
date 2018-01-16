@@ -1,0 +1,17 @@
+POI: 			Tom_Hiddleston 
+Youtube ID: 	JwS3sWJplsg 
+Video length: 	290.1 sec 
+Set (V): 		dev 
+ 
+Tom_Hiddleston/JwS3sWJplsg_0000001 22.9 27.9 
+Tom_Hiddleston/JwS3sWJplsg_0000002 28.4 38.7 
+Tom_Hiddleston/JwS3sWJplsg_0000003 35.5 42.8 
+Tom_Hiddleston/JwS3sWJplsg_0000004 54.7 67.4 
+Tom_Hiddleston/JwS3sWJplsg_0000005 76.8 89.6 
+Tom_Hiddleston/JwS3sWJplsg_0000006 90.4 101.1 
+Tom_Hiddleston/JwS3sWJplsg_0000007 107.0 122.5 
+Tom_Hiddleston/JwS3sWJplsg_0000008 122.8 131.0 
+Tom_Hiddleston/JwS3sWJplsg_0000009 156.3 173.4 
+Tom_Hiddleston/JwS3sWJplsg_0000010 203.6 207.8 
+Tom_Hiddleston/JwS3sWJplsg_0000011 208.8 215.6 
+Tom_Hiddleston/JwS3sWJplsg_0000012 237.3 265.4 

@@ -1,0 +1,18 @@
+POI: 			Natalie_Portman 
+Youtube ID: 	lc1yDLHEKT8 
+Video length: 	216.7 sec 
+Set (V): 		dev 
+ 
+Natalie_Portman/lc1yDLHEKT8_0000001 04.5 11.2 
+Natalie_Portman/lc1yDLHEKT8_0000002 13.9 22.2 
+Natalie_Portman/lc1yDLHEKT8_0000003 22.9 31.0 
+Natalie_Portman/lc1yDLHEKT8_0000004 33.9 38.2 
+Natalie_Portman/lc1yDLHEKT8_0000005 45.2 54.9 
+Natalie_Portman/lc1yDLHEKT8_0000006 62.5 67.5 
+Natalie_Portman/lc1yDLHEKT8_0000007 78.6 89.8 
+Natalie_Portman/lc1yDLHEKT8_0000008 91.1 96.8 
+Natalie_Portman/lc1yDLHEKT8_0000009 99.4 129.7 
+Natalie_Portman/lc1yDLHEKT8_0000010 138.1 145.5 
+Natalie_Portman/lc1yDLHEKT8_0000011 146.6 153.3 
+Natalie_Portman/lc1yDLHEKT8_0000012 157.1 164.7 
+Natalie_Portman/lc1yDLHEKT8_0000013 167.1 201.5 

@@ -1,0 +1,8 @@
+POI: 			Alexz_Johnson 
+Youtube ID: 	X01l_M49oJ0 
+Video length: 	613.6 sec 
+Set (V): 		dev 
+ 
+Alexz_Johnson/X01l_M49oJ0_0000001 558.4 563.2 
+Alexz_Johnson/X01l_M49oJ0_0000002 565.3 573.6 
+Alexz_Johnson/X01l_M49oJ0_0000003 574.7 581.3 

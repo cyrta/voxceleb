@@ -1,0 +1,17 @@
+POI: 			Laura_Dern 
+Youtube ID: 	J2Vod4IfvhQ 
+Video length: 	985.0 sec 
+Set (V): 		dev 
+ 
+Laura_Dern/J2Vod4IfvhQ_0000001 649.2 656.8 
+Laura_Dern/J2Vod4IfvhQ_0000002 657.3 661.8 
+Laura_Dern/J2Vod4IfvhQ_0000003 725.9 730.9 
+Laura_Dern/J2Vod4IfvhQ_0000004 732.0 739.5 
+Laura_Dern/J2Vod4IfvhQ_0000005 739.7 760.0 
+Laura_Dern/J2Vod4IfvhQ_0000006 760.6 767.0 
+Laura_Dern/J2Vod4IfvhQ_0000007 783.0 793.0 
+Laura_Dern/J2Vod4IfvhQ_0000008 798.7 805.6 
+Laura_Dern/J2Vod4IfvhQ_0000009 806.9 816.4 
+Laura_Dern/J2Vod4IfvhQ_0000010 860.1 865.4 
+Laura_Dern/J2Vod4IfvhQ_0000011 878.2 885.8 
+Laura_Dern/J2Vod4IfvhQ_0000012 886.5 896.1 

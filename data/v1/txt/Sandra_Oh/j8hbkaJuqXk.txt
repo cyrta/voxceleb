@@ -1,0 +1,10 @@
+POI: 			Sandra_Oh 
+Youtube ID: 	j8hbkaJuqXk 
+Video length: 	131.0 sec 
+Set (V): 		dev 
+ 
+Sandra_Oh/j8hbkaJuqXk_0000001 26.9 32.7 
+Sandra_Oh/j8hbkaJuqXk_0000002 35.6 40.4 
+Sandra_Oh/j8hbkaJuqXk_0000003 83.6 89.6 
+Sandra_Oh/j8hbkaJuqXk_0000004 90.6 96.7 
+Sandra_Oh/j8hbkaJuqXk_0000005 107.8 112.0 

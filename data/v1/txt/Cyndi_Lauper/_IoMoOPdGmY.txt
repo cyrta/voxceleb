@@ -1,0 +1,17 @@
+POI: 			Cyndi_Lauper 
+Youtube ID: 	_IoMoOPdGmY 
+Video length: 	446.5 sec 
+Set (V): 		dev 
+ 
+Cyndi_Lauper/_IoMoOPdGmY_0000001 16.2 20.7 
+Cyndi_Lauper/_IoMoOPdGmY_0000002 41.5 45.9 
+Cyndi_Lauper/_IoMoOPdGmY_0000003 156.7 161.5 
+Cyndi_Lauper/_IoMoOPdGmY_0000004 165.0 172.4 
+Cyndi_Lauper/_IoMoOPdGmY_0000005 181.4 187.5 
+Cyndi_Lauper/_IoMoOPdGmY_0000006 202.0 213.4 
+Cyndi_Lauper/_IoMoOPdGmY_0000007 224.3 229.3 
+Cyndi_Lauper/_IoMoOPdGmY_0000008 243.0 249.0 
+Cyndi_Lauper/_IoMoOPdGmY_0000009 249.8 254.4 
+Cyndi_Lauper/_IoMoOPdGmY_0000010 224.0 231.2 
+Cyndi_Lauper/_IoMoOPdGmY_0000011 231.8 237.8 
+Cyndi_Lauper/_IoMoOPdGmY_0000012 242.8 247.0 

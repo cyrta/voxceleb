@@ -1,0 +1,26 @@
+POI: 			Vanessa_Marcil 
+Youtube ID: 	EQlmpKse4G8 
+Video length: 	600.0 sec 
+Set (V): 		dev 
+ 
+Vanessa_Marcil/EQlmpKse4G8_0000001 92.9 100.2 
+Vanessa_Marcil/EQlmpKse4G8_0000002 101.0 105.5 
+Vanessa_Marcil/EQlmpKse4G8_0000003 109.6 118.5 
+Vanessa_Marcil/EQlmpKse4G8_0000004 113.1 118.5 
+Vanessa_Marcil/EQlmpKse4G8_0000005 174.7 190.2 
+Vanessa_Marcil/EQlmpKse4G8_0000006 208.0 221.8 
+Vanessa_Marcil/EQlmpKse4G8_0000007 274.8 279.2 
+Vanessa_Marcil/EQlmpKse4G8_0000008 284.0 291.2 
+Vanessa_Marcil/EQlmpKse4G8_0000009 298.7 305.0 
+Vanessa_Marcil/EQlmpKse4G8_0000010 316.9 321.5 
+Vanessa_Marcil/EQlmpKse4G8_0000011 322.4 331.0 
+Vanessa_Marcil/EQlmpKse4G8_0000012 357.1 362.1 
+Vanessa_Marcil/EQlmpKse4G8_0000013 362.7 372.8 
+Vanessa_Marcil/EQlmpKse4G8_0000014 373.6 381.9 
+Vanessa_Marcil/EQlmpKse4G8_0000015 407.4 425.8 
+Vanessa_Marcil/EQlmpKse4G8_0000016 426.8 436.2 
+Vanessa_Marcil/EQlmpKse4G8_0000017 444.6 449.4 
+Vanessa_Marcil/EQlmpKse4G8_0000018 454.3 459.1 
+Vanessa_Marcil/EQlmpKse4G8_0000019 472.7 489.4 
+Vanessa_Marcil/EQlmpKse4G8_0000020 490.4 494.7 
+Vanessa_Marcil/EQlmpKse4G8_0000021 552.6 562.7 

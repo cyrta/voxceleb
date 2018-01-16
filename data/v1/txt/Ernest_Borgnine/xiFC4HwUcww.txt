@@ -1,0 +1,19 @@
+POI: 			Ernest_Borgnine 
+Youtube ID: 	xiFC4HwUcww 
+Video length: 	256.4 sec 
+Set (V): 		test 
+ 
+Ernest_Borgnine/xiFC4HwUcww_0000001 13.2 41.7 
+Ernest_Borgnine/xiFC4HwUcww_0000002 43.5 51.7 
+Ernest_Borgnine/xiFC4HwUcww_0000003 52.2 61.0 
+Ernest_Borgnine/xiFC4HwUcww_0000004 61.2 76.5 
+Ernest_Borgnine/xiFC4HwUcww_0000005 85.2 120.9 
+Ernest_Borgnine/xiFC4HwUcww_0000006 122.8 126.8 
+Ernest_Borgnine/xiFC4HwUcww_0000007 127.2 140.6 
+Ernest_Borgnine/xiFC4HwUcww_0000008 143.1 151.6 
+Ernest_Borgnine/xiFC4HwUcww_0000009 156.5 162.8 
+Ernest_Borgnine/xiFC4HwUcww_0000010 165.4 180.2 
+Ernest_Borgnine/xiFC4HwUcww_0000011 185.4 194.9 
+Ernest_Borgnine/xiFC4HwUcww_0000012 197.0 226.3 
+Ernest_Borgnine/xiFC4HwUcww_0000013 216.6 226.4 
+Ernest_Borgnine/xiFC4HwUcww_0000014 226.7 236.1 

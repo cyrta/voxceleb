@@ -1,0 +1,10 @@
+POI: 			Michael_Bay 
+Youtube ID: 	7LCVABlV6rU 
+Video length: 	121.8 sec 
+Set (V): 		dev 
+ 
+Michael_Bay/7LCVABlV6rU_0000001 27.0 37.8 
+Michael_Bay/7LCVABlV6rU_0000002 47.4 54.2 
+Michael_Bay/7LCVABlV6rU_0000003 66.7 71.1 
+Michael_Bay/7LCVABlV6rU_0000004 75.3 81.9 
+Michael_Bay/7LCVABlV6rU_0000005 102.2 107.9 

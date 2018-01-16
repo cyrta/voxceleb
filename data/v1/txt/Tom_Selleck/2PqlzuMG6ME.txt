@@ -1,0 +1,7 @@
+POI: 			Tom_Selleck 
+Youtube ID: 	2PqlzuMG6ME 
+Video length: 	293.1 sec 
+Set (V): 		dev 
+ 
+Tom_Selleck/2PqlzuMG6ME_0000001 50.4 54.6 
+Tom_Selleck/2PqlzuMG6ME_0000002 55.7 59.7 

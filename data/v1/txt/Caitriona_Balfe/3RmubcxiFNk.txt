@@ -1,0 +1,9 @@
+POI: 			Caitriona_Balfe 
+Youtube ID: 	3RmubcxiFNk 
+Video length: 	189.4 sec 
+Set (V): 		dev 
+ 
+Caitriona_Balfe/3RmubcxiFNk_0000001 75.5 85.4 
+Caitriona_Balfe/3RmubcxiFNk_0000002 85.9 91.4 
+Caitriona_Balfe/3RmubcxiFNk_0000003 122.0 127.7 
+Caitriona_Balfe/3RmubcxiFNk_0000004 154.6 168.2 

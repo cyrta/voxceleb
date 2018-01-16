@@ -1,0 +1,7 @@
+POI: 			Oona_Chaplin 
+Youtube ID: 	H_NA9yw_kVE 
+Video length: 	297.9 sec 
+Set (V): 		dev 
+ 
+Oona_Chaplin/H_NA9yw_kVE_0000001 25.0 29.8 
+Oona_Chaplin/H_NA9yw_kVE_0000002 117.6 124.3 

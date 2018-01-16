@@ -1,0 +1,8 @@
+POI: 			Jessie_J 
+Youtube ID: 	Sj3N83apyXY 
+Video length: 	94.0 sec 
+Set (V): 		dev 
+ 
+Jessie_J/Sj3N83apyXY_0000001 16.6 33.0 
+Jessie_J/Sj3N83apyXY_0000002 47.8 54.5 
+Jessie_J/Sj3N83apyXY_0000003 64.1 77.4 

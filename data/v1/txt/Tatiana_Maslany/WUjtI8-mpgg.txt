@@ -1,0 +1,15 @@
+POI: 			Tatiana_Maslany 
+Youtube ID: 	WUjtI8-mpgg 
+Video length: 	415.8 sec 
+Set (V): 		dev 
+ 
+Tatiana_Maslany/WUjtI8-mpgg_0000001 36.9 49.8 
+Tatiana_Maslany/WUjtI8-mpgg_0000002 62.3 72.6 
+Tatiana_Maslany/WUjtI8-mpgg_0000003 83.7 88.3 
+Tatiana_Maslany/WUjtI8-mpgg_0000004 206.8 218.8 
+Tatiana_Maslany/WUjtI8-mpgg_0000005 219.4 223.4 
+Tatiana_Maslany/WUjtI8-mpgg_0000006 223.7 231.4 
+Tatiana_Maslany/WUjtI8-mpgg_0000007 254.3 259.5 
+Tatiana_Maslany/WUjtI8-mpgg_0000008 278.2 282.7 
+Tatiana_Maslany/WUjtI8-mpgg_0000009 283.7 296.0 
+Tatiana_Maslany/WUjtI8-mpgg_0000010 332.6 373.0 

@@ -1,0 +1,8 @@
+POI: 			Rob_Brydon 
+Youtube ID: 	KXR2LQPnNM4 
+Video length: 	161.9 sec 
+Set (V): 		dev 
+ 
+Rob_Brydon/KXR2LQPnNM4_0000001 84.7 94.0 
+Rob_Brydon/KXR2LQPnNM4_0000002 100.4 105.6 
+Rob_Brydon/KXR2LQPnNM4_0000003 132.1 142.8 

@@ -1,0 +1,22 @@
+POI: 			Gina_Carano 
+Youtube ID: 	OB_gxVfXblo 
+Video length: 	639.8 sec 
+Set (V): 		dev 
+ 
+Gina_Carano/OB_gxVfXblo_0000001 61.8 71.8 
+Gina_Carano/OB_gxVfXblo_0000002 162.6 167.2 
+Gina_Carano/OB_gxVfXblo_0000003 212.3 222.2 
+Gina_Carano/OB_gxVfXblo_0000004 225.0 230.0 
+Gina_Carano/OB_gxVfXblo_0000005 286.4 292.0 
+Gina_Carano/OB_gxVfXblo_0000006 330.2 334.7 
+Gina_Carano/OB_gxVfXblo_0000007 374.9 379.7 
+Gina_Carano/OB_gxVfXblo_0000008 400.4 405.0 
+Gina_Carano/OB_gxVfXblo_0000009 405.2 409.5 
+Gina_Carano/OB_gxVfXblo_0000010 419.6 429.5 
+Gina_Carano/OB_gxVfXblo_0000011 482.5 487.1 
+Gina_Carano/OB_gxVfXblo_0000012 509.6 514.6 
+Gina_Carano/OB_gxVfXblo_0000013 556.2 564.8 
+Gina_Carano/OB_gxVfXblo_0000014 577.0 581.8 
+Gina_Carano/OB_gxVfXblo_0000015 582.0 587.5 
+Gina_Carano/OB_gxVfXblo_0000016 588.6 593.5 
+Gina_Carano/OB_gxVfXblo_0000017 594.9 604.1 

@@ -1,0 +1,12 @@
+POI: 			Amitabh_Bachchan 
+Youtube ID: 	6jj7z7rt_9E 
+Video length: 	1561.7 sec 
+Set (V): 		dev 
+ 
+Amitabh_Bachchan/6jj7z7rt_9E_0000001 183.7 189.2 
+Amitabh_Bachchan/6jj7z7rt_9E_0000002 355.4 361.0 
+Amitabh_Bachchan/6jj7z7rt_9E_0000003 402.3 409.7 
+Amitabh_Bachchan/6jj7z7rt_9E_0000004 453.4 459.8 
+Amitabh_Bachchan/6jj7z7rt_9E_0000005 477.1 481.8 
+Amitabh_Bachchan/6jj7z7rt_9E_0000006 843.3 847.5 
+Amitabh_Bachchan/6jj7z7rt_9E_0000007 1440.3 1445.4 

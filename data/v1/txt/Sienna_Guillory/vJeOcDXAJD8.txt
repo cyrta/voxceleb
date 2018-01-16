@@ -1,0 +1,9 @@
+POI: 			Sienna_Guillory 
+Youtube ID: 	vJeOcDXAJD8 
+Video length: 	120.7 sec 
+Set (V): 		dev 
+ 
+Sienna_Guillory/vJeOcDXAJD8_0000001 68.2 72.4 
+Sienna_Guillory/vJeOcDXAJD8_0000002 84.8 90.0 
+Sienna_Guillory/vJeOcDXAJD8_0000003 96.8 110.0 
+Sienna_Guillory/vJeOcDXAJD8_0000004 110.9 117.1 

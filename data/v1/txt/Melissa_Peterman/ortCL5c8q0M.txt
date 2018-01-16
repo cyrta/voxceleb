@@ -1,0 +1,7 @@
+POI: 			Melissa_Peterman 
+Youtube ID: 	ortCL5c8q0M 
+Video length: 	79.2 sec 
+Set (V): 		dev 
+ 
+Melissa_Peterman/ortCL5c8q0M_0000001 33.0 37.0 
+Melissa_Peterman/ortCL5c8q0M_0000002 50.0 54.5 

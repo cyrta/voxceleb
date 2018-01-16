@@ -1,0 +1,30 @@
+POI: 			Pat_Monahan 
+Youtube ID: 	xcXoT1frQr0 
+Video length: 	921.4 sec 
+Set (V): 		dev 
+ 
+Pat_Monahan/xcXoT1frQr0_0000001 43.7 48.9 
+Pat_Monahan/xcXoT1frQr0_0000002 49.8 54.3 
+Pat_Monahan/xcXoT1frQr0_0000003 60.2 67.2 
+Pat_Monahan/xcXoT1frQr0_0000004 159.4 165.4 
+Pat_Monahan/xcXoT1frQr0_0000005 165.8 172.2 
+Pat_Monahan/xcXoT1frQr0_0000006 173.6 180.7 
+Pat_Monahan/xcXoT1frQr0_0000007 308.5 314.1 
+Pat_Monahan/xcXoT1frQr0_0000008 314.9 320.3 
+Pat_Monahan/xcXoT1frQr0_0000009 321.4 328.1 
+Pat_Monahan/xcXoT1frQr0_0000010 332.0 336.8 
+Pat_Monahan/xcXoT1frQr0_0000011 359.8 364.7 
+Pat_Monahan/xcXoT1frQr0_0000012 365.4 371.4 
+Pat_Monahan/xcXoT1frQr0_0000013 438.2 442.6 
+Pat_Monahan/xcXoT1frQr0_0000014 457.1 464.8 
+Pat_Monahan/xcXoT1frQr0_0000015 466.4 473.6 
+Pat_Monahan/xcXoT1frQr0_0000016 548.7 555.6 
+Pat_Monahan/xcXoT1frQr0_0000017 561.2 567.0 
+Pat_Monahan/xcXoT1frQr0_0000018 567.4 572.4 
+Pat_Monahan/xcXoT1frQr0_0000019 572.6 577.0 
+Pat_Monahan/xcXoT1frQr0_0000020 662.5 667.2 
+Pat_Monahan/xcXoT1frQr0_0000021 676.8 684.3 
+Pat_Monahan/xcXoT1frQr0_0000022 764.8 768.9 
+Pat_Monahan/xcXoT1frQr0_0000023 775.8 782.6 
+Pat_Monahan/xcXoT1frQr0_0000024 799.4 803.5 
+Pat_Monahan/xcXoT1frQr0_0000025 888.2 893.2 

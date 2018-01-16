@@ -1,0 +1,9 @@
+POI: 			Felicia_Day 
+Youtube ID: 	zrIc52lvsAU 
+Video length: 	177.2 sec 
+Set (V): 		dev 
+ 
+Felicia_Day/zrIc52lvsAU_0000001 17.0 22.0 
+Felicia_Day/zrIc52lvsAU_0000002 114.8 119.0 
+Felicia_Day/zrIc52lvsAU_0000003 128.5 139.2 
+Felicia_Day/zrIc52lvsAU_0000004 154.0 167.8 

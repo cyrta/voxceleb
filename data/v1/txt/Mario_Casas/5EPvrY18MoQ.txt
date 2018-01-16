@@ -1,0 +1,15 @@
+POI: 			Mario_Casas 
+Youtube ID: 	5EPvrY18MoQ 
+Video length: 	695.2 sec 
+Set (V): 		dev 
+ 
+Mario_Casas/5EPvrY18MoQ_0000001 385.7 390.7 
+Mario_Casas/5EPvrY18MoQ_0000002 394.0 399.2 
+Mario_Casas/5EPvrY18MoQ_0000003 491.5 498.0 
+Mario_Casas/5EPvrY18MoQ_0000004 555.9 560.8 
+Mario_Casas/5EPvrY18MoQ_0000005 561.6 567.4 
+Mario_Casas/5EPvrY18MoQ_0000006 573.4 577.4 
+Mario_Casas/5EPvrY18MoQ_0000007 596.8 606.0 
+Mario_Casas/5EPvrY18MoQ_0000008 606.5 614.5 
+Mario_Casas/5EPvrY18MoQ_0000009 652.3 665.3 
+Mario_Casas/5EPvrY18MoQ_0000010 661.2 667.5 

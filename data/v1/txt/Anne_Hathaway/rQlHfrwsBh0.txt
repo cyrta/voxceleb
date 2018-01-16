@@ -1,0 +1,17 @@
+POI: 			Anne_Hathaway 
+Youtube ID: 	rQlHfrwsBh0 
+Video length: 	487.2 sec 
+Set (V): 		dev 
+ 
+Anne_Hathaway/rQlHfrwsBh0_0000001 95.4 101.8 
+Anne_Hathaway/rQlHfrwsBh0_0000002 102.8 109.0 
+Anne_Hathaway/rQlHfrwsBh0_0000003 137.2 144.2 
+Anne_Hathaway/rQlHfrwsBh0_0000004 154.8 159.0 
+Anne_Hathaway/rQlHfrwsBh0_0000005 195.2 204.4 
+Anne_Hathaway/rQlHfrwsBh0_0000006 321.3 337.0 
+Anne_Hathaway/rQlHfrwsBh0_0000007 341.5 351.3 
+Anne_Hathaway/rQlHfrwsBh0_0000008 357.6 368.9 
+Anne_Hathaway/rQlHfrwsBh0_0000009 370.6 376.0 
+Anne_Hathaway/rQlHfrwsBh0_0000010 399.5 407.0 
+Anne_Hathaway/rQlHfrwsBh0_0000011 408.0 414.6 
+Anne_Hathaway/rQlHfrwsBh0_0000012 424.9 437.7 

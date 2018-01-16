@@ -1,0 +1,10 @@
+POI: 			Stephen_Mangan 
+Youtube ID: 	DuXADQ4Rk5Y 
+Video length: 	281.1 sec 
+Set (V): 		dev 
+ 
+Stephen_Mangan/DuXADQ4Rk5Y_0000001 35.8 42.7 
+Stephen_Mangan/DuXADQ4Rk5Y_0000002 81.2 95.1 
+Stephen_Mangan/DuXADQ4Rk5Y_0000003 187.5 194.8 
+Stephen_Mangan/DuXADQ4Rk5Y_0000004 195.8 200.8 
+Stephen_Mangan/DuXADQ4Rk5Y_0000005 250.0 254.7 

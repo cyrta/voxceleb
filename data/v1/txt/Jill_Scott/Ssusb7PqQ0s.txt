@@ -1,0 +1,9 @@
+POI: 			Jill_Scott 
+Youtube ID: 	Ssusb7PqQ0s 
+Video length: 	540.2 sec 
+Set (V): 		dev 
+ 
+Jill_Scott/Ssusb7PqQ0s_0000001 105.1 112.1 
+Jill_Scott/Ssusb7PqQ0s_0000002 207.1 217.9 
+Jill_Scott/Ssusb7PqQ0s_0000003 251.6 259.0 
+Jill_Scott/Ssusb7PqQ0s_0000004 279.2 284.2 

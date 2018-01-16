@@ -1,0 +1,8 @@
+POI: 			Janet_McTeer 
+Youtube ID: 	obnHSiuXiYA 
+Video length: 	277.9 sec 
+Set (V): 		dev 
+ 
+Janet_McTeer/obnHSiuXiYA_0000001 159.5 167.8 
+Janet_McTeer/obnHSiuXiYA_0000002 207.4 211.6 
+Janet_McTeer/obnHSiuXiYA_0000003 264.3 268.7 

@@ -1,0 +1,7 @@
+POI: 			Will_Arnett 
+Youtube ID: 	0AbKsGKpvS4 
+Video length: 	154.9 sec 
+Set (V): 		dev 
+ 
+Will_Arnett/0AbKsGKpvS4_0000001 16.0 21.5 
+Will_Arnett/0AbKsGKpvS4_0000002 74.1 81.3 

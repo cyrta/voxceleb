@@ -1,0 +1,13 @@
+POI: 			Judy_Sheindlin 
+Youtube ID: 	kOYXEmqkyms 
+Video length: 	402.0 sec 
+Set (V): 		dev 
+ 
+Judy_Sheindlin/kOYXEmqkyms_0000001 96.0 105.5 
+Judy_Sheindlin/kOYXEmqkyms_0000002 129.0 135.5 
+Judy_Sheindlin/kOYXEmqkyms_0000003 146.3 150.5 
+Judy_Sheindlin/kOYXEmqkyms_0000004 151.0 158.0 
+Judy_Sheindlin/kOYXEmqkyms_0000005 182.3 186.9 
+Judy_Sheindlin/kOYXEmqkyms_0000006 270.4 279.9 
+Judy_Sheindlin/kOYXEmqkyms_0000007 316.7 326.2 
+Judy_Sheindlin/kOYXEmqkyms_0000008 349.2 353.8 

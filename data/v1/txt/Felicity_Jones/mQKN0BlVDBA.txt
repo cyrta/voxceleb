@@ -1,0 +1,23 @@
+POI: 			Felicity_Jones 
+Youtube ID: 	mQKN0BlVDBA 
+Video length: 	320.4 sec 
+Set (V): 		dev 
+ 
+Felicity_Jones/mQKN0BlVDBA_0000001 05.9 29.9 
+Felicity_Jones/mQKN0BlVDBA_0000002 40.8 46.4 
+Felicity_Jones/mQKN0BlVDBA_0000003 47.3 54.7 
+Felicity_Jones/mQKN0BlVDBA_0000004 60.6 68.8 
+Felicity_Jones/mQKN0BlVDBA_0000005 69.2 74.0 
+Felicity_Jones/mQKN0BlVDBA_0000006 74.7 82.8 
+Felicity_Jones/mQKN0BlVDBA_0000007 93.1 103.0 
+Felicity_Jones/mQKN0BlVDBA_0000008 109.8 116.9 
+Felicity_Jones/mQKN0BlVDBA_0000009 121.9 128.3 
+Felicity_Jones/mQKN0BlVDBA_0000010 138.9 142.9 
+Felicity_Jones/mQKN0BlVDBA_0000011 148.4 157.0 
+Felicity_Jones/mQKN0BlVDBA_0000012 166.0 175.6 
+Felicity_Jones/mQKN0BlVDBA_0000013 179.3 195.7 
+Felicity_Jones/mQKN0BlVDBA_0000014 202.1 206.4 
+Felicity_Jones/mQKN0BlVDBA_0000015 209.4 218.1 
+Felicity_Jones/mQKN0BlVDBA_0000016 245.1 250.7 
+Felicity_Jones/mQKN0BlVDBA_0000017 261.9 275.2 
+Felicity_Jones/mQKN0BlVDBA_0000018 275.4 294.0 

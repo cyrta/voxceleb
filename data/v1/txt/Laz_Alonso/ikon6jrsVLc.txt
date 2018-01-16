@@ -1,0 +1,17 @@
+POI: 			Laz_Alonso 
+Youtube ID: 	ikon6jrsVLc 
+Video length: 	327.1 sec 
+Set (V): 		dev 
+ 
+Laz_Alonso/ikon6jrsVLc_0000001 13.1 24.7 
+Laz_Alonso/ikon6jrsVLc_0000002 38.9 60.2 
+Laz_Alonso/ikon6jrsVLc_0000003 93.2 98.5 
+Laz_Alonso/ikon6jrsVLc_0000004 139.6 143.8 
+Laz_Alonso/ikon6jrsVLc_0000005 146.1 153.0 
+Laz_Alonso/ikon6jrsVLc_0000006 153.8 159.8 
+Laz_Alonso/ikon6jrsVLc_0000007 161.1 176.4 
+Laz_Alonso/ikon6jrsVLc_0000008 187.0 202.8 
+Laz_Alonso/ikon6jrsVLc_0000009 204.6 224.0 
+Laz_Alonso/ikon6jrsVLc_0000010 226.6 234.3 
+Laz_Alonso/ikon6jrsVLc_0000011 268.0 278.3 
+Laz_Alonso/ikon6jrsVLc_0000012 280.2 320.7 

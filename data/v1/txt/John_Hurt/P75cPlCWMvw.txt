@@ -1,0 +1,17 @@
+POI: 			John_Hurt 
+Youtube ID: 	P75cPlCWMvw 
+Video length: 	594.2 sec 
+Set (V): 		dev 
+ 
+John_Hurt/P75cPlCWMvw_0000001 63.0 68.8 
+John_Hurt/P75cPlCWMvw_0000002 84.6 89.7 
+John_Hurt/P75cPlCWMvw_0000003 154.2 159.4 
+John_Hurt/P75cPlCWMvw_0000004 194.1 200.3 
+John_Hurt/P75cPlCWMvw_0000005 231.0 236.2 
+John_Hurt/P75cPlCWMvw_0000006 237.1 244.2 
+John_Hurt/P75cPlCWMvw_0000007 352.3 372.2 
+John_Hurt/P75cPlCWMvw_0000008 372.8 378.8 
+John_Hurt/P75cPlCWMvw_0000009 396.0 401.2 
+John_Hurt/P75cPlCWMvw_0000010 420.4 426.8 
+John_Hurt/P75cPlCWMvw_0000011 467.0 476.1 
+John_Hurt/P75cPlCWMvw_0000012 500.7 505.1 

@@ -1,0 +1,21 @@
+POI: 			Lou_Ferrigno 
+Youtube ID: 	PM1lSGPBstE 
+Video length: 	594.1 sec 
+Set (V): 		dev 
+ 
+Lou_Ferrigno/PM1lSGPBstE_0000001 10.3 21.9 
+Lou_Ferrigno/PM1lSGPBstE_0000002 49.8 53.9 
+Lou_Ferrigno/PM1lSGPBstE_0000003 161.1 166.5 
+Lou_Ferrigno/PM1lSGPBstE_0000004 192.0 196.1 
+Lou_Ferrigno/PM1lSGPBstE_0000005 230.0 235.5 
+Lou_Ferrigno/PM1lSGPBstE_0000006 236.2 243.8 
+Lou_Ferrigno/PM1lSGPBstE_0000007 249.5 261.2 
+Lou_Ferrigno/PM1lSGPBstE_0000008 294.1 299.2 
+Lou_Ferrigno/PM1lSGPBstE_0000009 328.6 333.9 
+Lou_Ferrigno/PM1lSGPBstE_0000010 371.6 375.9 
+Lou_Ferrigno/PM1lSGPBstE_0000011 412.8 420.1 
+Lou_Ferrigno/PM1lSGPBstE_0000012 444.8 449.4 
+Lou_Ferrigno/PM1lSGPBstE_0000013 482.8 486.8 
+Lou_Ferrigno/PM1lSGPBstE_0000014 510.9 516.9 
+Lou_Ferrigno/PM1lSGPBstE_0000015 534.4 540.2 
+Lou_Ferrigno/PM1lSGPBstE_0000016 551.8 556.1 

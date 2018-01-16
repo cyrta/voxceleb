@@ -1,0 +1,10 @@
+POI: 			Jennifer_Coolidge 
+Youtube ID: 	jIqEzrGz7iM 
+Video length: 	294.5 sec 
+Set (V): 		dev 
+ 
+Jennifer_Coolidge/jIqEzrGz7iM_0000001 103.4 110.0 
+Jennifer_Coolidge/jIqEzrGz7iM_0000002 153.7 161.1 
+Jennifer_Coolidge/jIqEzrGz7iM_0000003 170.9 176.3 
+Jennifer_Coolidge/jIqEzrGz7iM_0000004 180.9 187.4 
+Jennifer_Coolidge/jIqEzrGz7iM_0000005 270.4 277.0 

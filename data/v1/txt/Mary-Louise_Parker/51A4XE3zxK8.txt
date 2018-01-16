@@ -1,0 +1,11 @@
+POI: 			Mary-Louise_Parker 
+Youtube ID: 	51A4XE3zxK8 
+Video length: 	209.5 sec 
+Set (V): 		dev 
+ 
+Mary-Louise_Parker/51A4XE3zxK8_0000001 118.6 126.1 
+Mary-Louise_Parker/51A4XE3zxK8_0000002 134.5 142.1 
+Mary-Louise_Parker/51A4XE3zxK8_0000003 145.4 155.6 
+Mary-Louise_Parker/51A4XE3zxK8_0000004 169.3 176.7 
+Mary-Louise_Parker/51A4XE3zxK8_0000005 178.6 189.3 
+Mary-Louise_Parker/51A4XE3zxK8_0000006 190.4 198.3 

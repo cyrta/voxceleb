@@ -1,0 +1,9 @@
+POI: 			Jordan_Gavaris 
+Youtube ID: 	1NXxgr0dk44 
+Video length: 	509.1 sec 
+Set (V): 		dev 
+ 
+Jordan_Gavaris/1NXxgr0dk44_0000001 243.0 250.8 
+Jordan_Gavaris/1NXxgr0dk44_0000002 259.1 264.6 
+Jordan_Gavaris/1NXxgr0dk44_0000003 279.3 285.3 
+Jordan_Gavaris/1NXxgr0dk44_0000004 301.7 306.9 

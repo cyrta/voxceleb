@@ -1,0 +1,17 @@
+POI: 			Eva_Longoria 
+Youtube ID: 	f8Ms66atECE 
+Video length: 	347.8 sec 
+Set (V): 		test 
+ 
+Eva_Longoria/f8Ms66atECE_0000001 30.8 38.9 
+Eva_Longoria/f8Ms66atECE_0000002 39.2 61.5 
+Eva_Longoria/f8Ms66atECE_0000003 62.4 72.7 
+Eva_Longoria/f8Ms66atECE_0000004 82.2 94.2 
+Eva_Longoria/f8Ms66atECE_0000005 128.8 133.8 
+Eva_Longoria/f8Ms66atECE_0000006 140.7 149.8 
+Eva_Longoria/f8Ms66atECE_0000007 151.6 195.0 
+Eva_Longoria/f8Ms66atECE_0000008 195.4 210.5 
+Eva_Longoria/f8Ms66atECE_0000009 218.0 232.6 
+Eva_Longoria/f8Ms66atECE_0000010 238.2 294.4 
+Eva_Longoria/f8Ms66atECE_0000011 302.3 326.1 
+Eva_Longoria/f8Ms66atECE_0000012 326.8 336.4 

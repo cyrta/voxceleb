@@ -1,0 +1,12 @@
+POI: 			Kate_McKinnon 
+Youtube ID: 	7Z-AUL-spcg 
+Video length: 	138.6 sec 
+Set (V): 		dev 
+ 
+Kate_McKinnon/7Z-AUL-spcg_0000001 02.4 08.3 
+Kate_McKinnon/7Z-AUL-spcg_0000002 28.9 34.6 
+Kate_McKinnon/7Z-AUL-spcg_0000003 47.0 52.5 
+Kate_McKinnon/7Z-AUL-spcg_0000004 72.2 77.0 
+Kate_McKinnon/7Z-AUL-spcg_0000005 84.9 89.3 
+Kate_McKinnon/7Z-AUL-spcg_0000006 106.0 117.7 
+Kate_McKinnon/7Z-AUL-spcg_0000007 127.4 131.9 

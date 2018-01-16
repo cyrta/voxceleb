@@ -1,0 +1,9 @@
+POI: 			Vanilla_Ice 
+Youtube ID: 	Cqcu7n2mgXw 
+Video length: 	382.7 sec 
+Set (V): 		dev 
+ 
+Vanilla_Ice/Cqcu7n2mgXw_0000001 100.7 105.4 
+Vanilla_Ice/Cqcu7n2mgXw_0000002 207.4 213.3 
+Vanilla_Ice/Cqcu7n2mgXw_0000003 322.0 333.0 
+Vanilla_Ice/Cqcu7n2mgXw_0000004 329.0 334.3 

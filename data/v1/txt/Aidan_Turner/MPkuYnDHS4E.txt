@@ -1,0 +1,9 @@
+POI: 			Aidan_Turner 
+Youtube ID: 	MPkuYnDHS4E 
+Video length: 	279.6 sec 
+Set (V): 		dev 
+ 
+Aidan_Turner/MPkuYnDHS4E_0000001 45.1 49.4 
+Aidan_Turner/MPkuYnDHS4E_0000002 62.0 67.5 
+Aidan_Turner/MPkuYnDHS4E_0000003 121.4 127.0 
+Aidan_Turner/MPkuYnDHS4E_0000004 175.0 182.6 

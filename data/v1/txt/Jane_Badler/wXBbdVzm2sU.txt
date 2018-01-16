@@ -1,0 +1,7 @@
+POI: 			Jane_Badler 
+Youtube ID: 	wXBbdVzm2sU 
+Video length: 	205.2 sec 
+Set (V): 		dev 
+ 
+Jane_Badler/wXBbdVzm2sU_0000001 29.5 35.8 
+Jane_Badler/wXBbdVzm2sU_0000002 93.2 106.5 

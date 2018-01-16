@@ -1,0 +1,14 @@
+POI: 			Vince_Gilligan 
+Youtube ID: 	rQlTPXdxjCY 
+Video length: 	841.7 sec 
+Set (V): 		dev 
+ 
+Vince_Gilligan/rQlTPXdxjCY_0000001 51.5 55.8 
+Vince_Gilligan/rQlTPXdxjCY_0000002 92.1 114.4 
+Vince_Gilligan/rQlTPXdxjCY_0000003 149.3 154.6 
+Vince_Gilligan/rQlTPXdxjCY_0000004 241.9 255.4 
+Vince_Gilligan/rQlTPXdxjCY_0000005 293.8 304.5 
+Vince_Gilligan/rQlTPXdxjCY_0000006 351.6 356.1 
+Vince_Gilligan/rQlTPXdxjCY_0000007 453.9 458.3 
+Vince_Gilligan/rQlTPXdxjCY_0000008 465.2 472.6 
+Vince_Gilligan/rQlTPXdxjCY_0000009 728.4 733.1 

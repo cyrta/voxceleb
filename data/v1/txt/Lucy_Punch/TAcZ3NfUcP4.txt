@@ -1,0 +1,9 @@
+POI: 			Lucy_Punch 
+Youtube ID: 	TAcZ3NfUcP4 
+Video length: 	482.4 sec 
+Set (V): 		dev 
+ 
+Lucy_Punch/TAcZ3NfUcP4_0000001 290.6 295.3 
+Lucy_Punch/TAcZ3NfUcP4_0000002 371.9 382.9 
+Lucy_Punch/TAcZ3NfUcP4_0000003 383.6 390.1 
+Lucy_Punch/TAcZ3NfUcP4_0000004 458.1 463.1 

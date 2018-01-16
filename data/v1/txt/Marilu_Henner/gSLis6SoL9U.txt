@@ -1,0 +1,13 @@
+POI: 			Marilu_Henner 
+Youtube ID: 	gSLis6SoL9U 
+Video length: 	587.2 sec 
+Set (V): 		dev 
+ 
+Marilu_Henner/gSLis6SoL9U_0000001 124.9 129.1 
+Marilu_Henner/gSLis6SoL9U_0000002 353.2 358.7 
+Marilu_Henner/gSLis6SoL9U_0000003 422.9 431.2 
+Marilu_Henner/gSLis6SoL9U_0000004 427.3 431.5 
+Marilu_Henner/gSLis6SoL9U_0000005 439.6 444.8 
+Marilu_Henner/gSLis6SoL9U_0000006 508.0 512.9 
+Marilu_Henner/gSLis6SoL9U_0000007 534.2 538.5 
+Marilu_Henner/gSLis6SoL9U_0000008 540.1 544.6 

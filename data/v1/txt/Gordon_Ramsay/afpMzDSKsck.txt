@@ -1,0 +1,12 @@
+POI: 			Gordon_Ramsay 
+Youtube ID: 	afpMzDSKsck 
+Video length: 	174.1 sec 
+Set (V): 		dev 
+ 
+Gordon_Ramsay/afpMzDSKsck_0000001 35.2 41.2 
+Gordon_Ramsay/afpMzDSKsck_0000002 43.0 55.0 
+Gordon_Ramsay/afpMzDSKsck_0000003 56.0 59.9 
+Gordon_Ramsay/afpMzDSKsck_0000004 76.1 93.3 
+Gordon_Ramsay/afpMzDSKsck_0000005 109.2 113.6 
+Gordon_Ramsay/afpMzDSKsck_0000006 125.6 136.6 
+Gordon_Ramsay/afpMzDSKsck_0000007 138.5 145.3 

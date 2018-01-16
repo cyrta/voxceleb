@@ -1,0 +1,8 @@
+POI: 			Tamera_Mowry-Housley 
+Youtube ID: 	2YAkoJAoNos 
+Video length: 	408.8 sec 
+Set (V): 		dev 
+ 
+Tamera_Mowry-Housley/2YAkoJAoNos_0000001 135.4 147.0 
+Tamera_Mowry-Housley/2YAkoJAoNos_0000002 331.1 337.4 
+Tamera_Mowry-Housley/2YAkoJAoNos_0000003 367.5 375.4 

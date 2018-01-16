@@ -1,0 +1,19 @@
+POI: 			Taylor_Momsen 
+Youtube ID: 	uNqxF_kBTKA 
+Video length: 	357.6 sec 
+Set (V): 		dev 
+ 
+Taylor_Momsen/uNqxF_kBTKA_0000001 16.6 25.3 
+Taylor_Momsen/uNqxF_kBTKA_0000002 58.6 62.6 
+Taylor_Momsen/uNqxF_kBTKA_0000003 118.4 127.2 
+Taylor_Momsen/uNqxF_kBTKA_0000004 127.6 132.4 
+Taylor_Momsen/uNqxF_kBTKA_0000005 157.8 162.2 
+Taylor_Momsen/uNqxF_kBTKA_0000006 165.0 173.9 
+Taylor_Momsen/uNqxF_kBTKA_0000007 148.0 152.0 
+Taylor_Momsen/uNqxF_kBTKA_0000008 183.2 187.5 
+Taylor_Momsen/uNqxF_kBTKA_0000009 188.4 195.7 
+Taylor_Momsen/uNqxF_kBTKA_0000010 198.0 205.6 
+Taylor_Momsen/uNqxF_kBTKA_0000011 266.2 270.6 
+Taylor_Momsen/uNqxF_kBTKA_0000012 282.2 288.4 
+Taylor_Momsen/uNqxF_kBTKA_0000013 299.6 305.6 
+Taylor_Momsen/uNqxF_kBTKA_0000014 331.8 336.5 

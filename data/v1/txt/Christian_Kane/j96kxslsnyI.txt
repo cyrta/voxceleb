@@ -1,0 +1,29 @@
+POI: 			Christian_Kane 
+Youtube ID: 	j96kxslsnyI 
+Video length: 	476.3 sec 
+Set (V): 		dev 
+ 
+Christian_Kane/j96kxslsnyI_0000001 12.4 17.9 
+Christian_Kane/j96kxslsnyI_0000002 40.6 51.2 
+Christian_Kane/j96kxslsnyI_0000003 59.1 63.2 
+Christian_Kane/j96kxslsnyI_0000004 65.4 73.9 
+Christian_Kane/j96kxslsnyI_0000005 83.9 88.1 
+Christian_Kane/j96kxslsnyI_0000006 94.4 102.6 
+Christian_Kane/j96kxslsnyI_0000007 116.0 125.3 
+Christian_Kane/j96kxslsnyI_0000008 129.4 137.4 
+Christian_Kane/j96kxslsnyI_0000009 168.0 172.6 
+Christian_Kane/j96kxslsnyI_0000010 183.2 191.5 
+Christian_Kane/j96kxslsnyI_0000011 192.3 199.2 
+Christian_Kane/j96kxslsnyI_0000012 199.7 212.3 
+Christian_Kane/j96kxslsnyI_0000013 212.7 220.1 
+Christian_Kane/j96kxslsnyI_0000014 231.0 239.9 
+Christian_Kane/j96kxslsnyI_0000015 240.7 245.9 
+Christian_Kane/j96kxslsnyI_0000016 249.2 258.3 
+Christian_Kane/j96kxslsnyI_0000017 315.4 337.6 
+Christian_Kane/j96kxslsnyI_0000018 342.8 354.1 
+Christian_Kane/j96kxslsnyI_0000019 354.7 369.1 
+Christian_Kane/j96kxslsnyI_0000020 389.4 394.6 
+Christian_Kane/j96kxslsnyI_0000021 401.5 422.1 
+Christian_Kane/j96kxslsnyI_0000022 425.5 442.5 
+Christian_Kane/j96kxslsnyI_0000023 446.3 452.2 
+Christian_Kane/j96kxslsnyI_0000024 454.6 465.7 

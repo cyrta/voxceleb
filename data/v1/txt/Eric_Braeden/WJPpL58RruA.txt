@@ -1,0 +1,15 @@
+POI: 			Eric_Braeden 
+Youtube ID: 	WJPpL58RruA 
+Video length: 	150.3 sec 
+Set (V): 		test 
+ 
+Eric_Braeden/WJPpL58RruA_0000001 18.2 22.9 
+Eric_Braeden/WJPpL58RruA_0000002 26.1 35.0 
+Eric_Braeden/WJPpL58RruA_0000003 45.4 52.9 
+Eric_Braeden/WJPpL58RruA_0000004 54.2 58.8 
+Eric_Braeden/WJPpL58RruA_0000005 69.9 76.0 
+Eric_Braeden/WJPpL58RruA_0000006 100.0 104.2 
+Eric_Braeden/WJPpL58RruA_0000007 104.5 108.4 
+Eric_Braeden/WJPpL58RruA_0000008 117.6 121.9 
+Eric_Braeden/WJPpL58RruA_0000009 123.0 127.1 
+Eric_Braeden/WJPpL58RruA_0000010 131.6 135.6 

@@ -1,0 +1,11 @@
+POI: 			Don_Rickles 
+Youtube ID: 	pnGsvsAjm30 
+Video length: 	591.0 sec 
+Set (V): 		dev 
+ 
+Don_Rickles/pnGsvsAjm30_0000001 32.6 37.4 
+Don_Rickles/pnGsvsAjm30_0000002 39.9 44.8 
+Don_Rickles/pnGsvsAjm30_0000003 76.6 87.4 
+Don_Rickles/pnGsvsAjm30_0000004 478.8 487.9 
+Don_Rickles/pnGsvsAjm30_0000005 504.7 508.9 
+Don_Rickles/pnGsvsAjm30_0000006 567.3 587.3 

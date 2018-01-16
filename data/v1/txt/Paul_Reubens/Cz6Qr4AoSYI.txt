@@ -1,0 +1,8 @@
+POI: 			Paul_Reubens 
+Youtube ID: 	Cz6Qr4AoSYI 
+Video length: 	41.0 sec 
+Set (V): 		dev 
+ 
+Paul_Reubens/Cz6Qr4AoSYI_0000001 06.0 10.0 
+Paul_Reubens/Cz6Qr4AoSYI_0000002 23.6 27.8 
+Paul_Reubens/Cz6Qr4AoSYI_0000003 28.7 36.9 

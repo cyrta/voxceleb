@@ -1,0 +1,9 @@
+POI: 			Marcia_Gay_Harden 
+Youtube ID: 	0QKWiHI9xnA 
+Video length: 	295.6 sec 
+Set (V): 		dev 
+ 
+Marcia_Gay_Harden/0QKWiHI9xnA_0000001 58.8 75.4 
+Marcia_Gay_Harden/0QKWiHI9xnA_0000002 102.5 109.9 
+Marcia_Gay_Harden/0QKWiHI9xnA_0000003 132.0 138.3 
+Marcia_Gay_Harden/0QKWiHI9xnA_0000004 141.3 147.3 

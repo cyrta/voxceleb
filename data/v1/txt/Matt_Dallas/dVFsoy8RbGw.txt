@@ -1,0 +1,10 @@
+POI: 			Matt_Dallas 
+Youtube ID: 	dVFsoy8RbGw 
+Video length: 	246.6 sec 
+Set (V): 		dev 
+ 
+Matt_Dallas/dVFsoy8RbGw_0000001 44.2 48.6 
+Matt_Dallas/dVFsoy8RbGw_0000002 67.5 75.8 
+Matt_Dallas/dVFsoy8RbGw_0000003 158.4 162.6 
+Matt_Dallas/dVFsoy8RbGw_0000004 187.7 205.6 
+Matt_Dallas/dVFsoy8RbGw_0000005 213.8 224.4 

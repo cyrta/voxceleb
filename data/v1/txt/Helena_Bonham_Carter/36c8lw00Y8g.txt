@@ -1,0 +1,8 @@
+POI: 			Helena_Bonham_Carter 
+Youtube ID: 	36c8lw00Y8g 
+Video length: 	261.6 sec 
+Set (V): 		dev 
+ 
+Helena_Bonham_Carter/36c8lw00Y8g_0000001 84.6 88.8 
+Helena_Bonham_Carter/36c8lw00Y8g_0000002 218.2 223.0 
+Helena_Bonham_Carter/36c8lw00Y8g_0000003 253.4 257.8 

@@ -1,0 +1,20 @@
+POI: 			Martin_Henderson 
+Youtube ID: 	a2gsb5kjf8c 
+Video length: 	277.6 sec 
+Set (V): 		dev 
+ 
+Martin_Henderson/a2gsb5kjf8c_0000001 15.1 20.8 
+Martin_Henderson/a2gsb5kjf8c_0000002 32.5 37.1 
+Martin_Henderson/a2gsb5kjf8c_0000003 52.3 57.2 
+Martin_Henderson/a2gsb5kjf8c_0000004 57.7 75.3 
+Martin_Henderson/a2gsb5kjf8c_0000005 82.2 87.2 
+Martin_Henderson/a2gsb5kjf8c_0000006 95.0 100.2 
+Martin_Henderson/a2gsb5kjf8c_0000007 105.2 111.7 
+Martin_Henderson/a2gsb5kjf8c_0000008 113.6 120.2 
+Martin_Henderson/a2gsb5kjf8c_0000009 124.9 131.1 
+Martin_Henderson/a2gsb5kjf8c_0000010 142.8 160.6 
+Martin_Henderson/a2gsb5kjf8c_0000011 165.0 179.9 
+Martin_Henderson/a2gsb5kjf8c_0000012 198.2 202.3 
+Martin_Henderson/a2gsb5kjf8c_0000013 205.4 209.8 
+Martin_Henderson/a2gsb5kjf8c_0000014 214.0 218.6 
+Martin_Henderson/a2gsb5kjf8c_0000015 223.9 228.9 

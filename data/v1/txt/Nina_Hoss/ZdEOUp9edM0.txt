@@ -1,0 +1,13 @@
+POI: 			Nina_Hoss 
+Youtube ID: 	ZdEOUp9edM0 
+Video length: 	537.7 sec 
+Set (V): 		dev 
+ 
+Nina_Hoss/ZdEOUp9edM0_0000001 39.7 44.3 
+Nina_Hoss/ZdEOUp9edM0_0000002 170.9 176.1 
+Nina_Hoss/ZdEOUp9edM0_0000003 202.7 210.0 
+Nina_Hoss/ZdEOUp9edM0_0000004 250.6 255.6 
+Nina_Hoss/ZdEOUp9edM0_0000005 259.5 263.7 
+Nina_Hoss/ZdEOUp9edM0_0000006 341.0 347.3 
+Nina_Hoss/ZdEOUp9edM0_0000007 411.4 419.9 
+Nina_Hoss/ZdEOUp9edM0_0000008 443.0 447.2 

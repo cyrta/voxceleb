@@ -1,0 +1,8 @@
+POI: 			Sarah_Palin 
+Youtube ID: 	CpAOJox7pHA 
+Video length: 	120.1 sec 
+Set (V): 		dev 
+ 
+Sarah_Palin/CpAOJox7pHA_0000001 72.7 84.4 
+Sarah_Palin/CpAOJox7pHA_0000002 93.5 100.3 
+Sarah_Palin/CpAOJox7pHA_0000003 101.0 105.2 

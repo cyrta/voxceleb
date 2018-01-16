@@ -1,0 +1,43 @@
+POI: 			Tim_Minchin 
+Youtube ID: 	j4avyGkk2T8 
+Video length: 	690.8 sec 
+Set (V): 		dev 
+ 
+Tim_Minchin/j4avyGkk2T8_0000001 33.8 38.3 
+Tim_Minchin/j4avyGkk2T8_0000002 48.1 52.5 
+Tim_Minchin/j4avyGkk2T8_0000003 61.3 66.0 
+Tim_Minchin/j4avyGkk2T8_0000004 68.2 73.9 
+Tim_Minchin/j4avyGkk2T8_0000005 76.1 82.1 
+Tim_Minchin/j4avyGkk2T8_0000006 89.8 95.5 
+Tim_Minchin/j4avyGkk2T8_0000007 102.8 107.7 
+Tim_Minchin/j4avyGkk2T8_0000008 117.5 123.0 
+Tim_Minchin/j4avyGkk2T8_0000009 127.0 133.0 
+Tim_Minchin/j4avyGkk2T8_0000010 142.7 150.2 
+Tim_Minchin/j4avyGkk2T8_0000011 152.4 157.9 
+Tim_Minchin/j4avyGkk2T8_0000012 179.8 190.7 
+Tim_Minchin/j4avyGkk2T8_0000013 204.0 210.4 
+Tim_Minchin/j4avyGkk2T8_0000014 212.6 217.1 
+Tim_Minchin/j4avyGkk2T8_0000015 232.7 250.9 
+Tim_Minchin/j4avyGkk2T8_0000016 256.8 261.3 
+Tim_Minchin/j4avyGkk2T8_0000017 261.4 265.4 
+Tim_Minchin/j4avyGkk2T8_0000018 291.2 296.6 
+Tim_Minchin/j4avyGkk2T8_0000019 321.9 326.0 
+Tim_Minchin/j4avyGkk2T8_0000020 326.2 332.5 
+Tim_Minchin/j4avyGkk2T8_0000021 336.5 341.4 
+Tim_Minchin/j4avyGkk2T8_0000022 392.8 397.8 
+Tim_Minchin/j4avyGkk2T8_0000023 403.7 408.9 
+Tim_Minchin/j4avyGkk2T8_0000024 421.7 426.6 
+Tim_Minchin/j4avyGkk2T8_0000025 432.1 436.6 
+Tim_Minchin/j4avyGkk2T8_0000026 444.9 455.2 
+Tim_Minchin/j4avyGkk2T8_0000027 488.5 497.9 
+Tim_Minchin/j4avyGkk2T8_0000028 502.9 507.4 
+Tim_Minchin/j4avyGkk2T8_0000029 507.8 516.2 
+Tim_Minchin/j4avyGkk2T8_0000030 518.6 535.8 
+Tim_Minchin/j4avyGkk2T8_0000031 563.2 574.2 
+Tim_Minchin/j4avyGkk2T8_0000032 578.4 582.4 
+Tim_Minchin/j4avyGkk2T8_0000033 583.5 588.9 
+Tim_Minchin/j4avyGkk2T8_0000034 596.4 604.9 
+Tim_Minchin/j4avyGkk2T8_0000035 610.3 619.2 
+Tim_Minchin/j4avyGkk2T8_0000036 619.4 624.9 
+Tim_Minchin/j4avyGkk2T8_0000037 637.7 641.9 
+Tim_Minchin/j4avyGkk2T8_0000038 647.7 652.5 

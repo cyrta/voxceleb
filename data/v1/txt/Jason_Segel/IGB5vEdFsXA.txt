@@ -1,0 +1,9 @@
+POI: 			Jason_Segel 
+Youtube ID: 	IGB5vEdFsXA 
+Video length: 	608.6 sec 
+Set (V): 		dev 
+ 
+Jason_Segel/IGB5vEdFsXA_0000001 51.4 56.5 
+Jason_Segel/IGB5vEdFsXA_0000002 145.0 150.1 
+Jason_Segel/IGB5vEdFsXA_0000003 174.4 179.4 
+Jason_Segel/IGB5vEdFsXA_0000004 475.2 480.7 

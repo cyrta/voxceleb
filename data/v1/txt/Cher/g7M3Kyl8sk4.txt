@@ -1,0 +1,11 @@
+POI: 			Cher 
+Youtube ID: 	g7M3Kyl8sk4 
+Video length: 	480.5 sec 
+Set (V): 		dev 
+ 
+Cher/g7M3Kyl8sk4_0000001 93.8 104.5 
+Cher/g7M3Kyl8sk4_0000002 105.4 111.8 
+Cher/g7M3Kyl8sk4_0000003 143.0 153.8 
+Cher/g7M3Kyl8sk4_0000004 293.6 301.1 
+Cher/g7M3Kyl8sk4_0000005 303.2 307.2 
+Cher/g7M3Kyl8sk4_0000006 457.7 463.7 

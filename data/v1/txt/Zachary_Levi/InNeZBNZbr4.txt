@@ -1,0 +1,8 @@
+POI: 			Zachary_Levi 
+Youtube ID: 	InNeZBNZbr4 
+Video length: 	700.8 sec 
+Set (V): 		dev 
+ 
+Zachary_Levi/InNeZBNZbr4_0000001 372.6 377.1 
+Zachary_Levi/InNeZBNZbr4_0000002 379.2 389.4 
+Zachary_Levi/InNeZBNZbr4_0000003 393.1 416.1 

@@ -1,0 +1,7 @@
+POI: 			Lisa_Ray 
+Youtube ID: 	vCsaxQOWCik 
+Video length: 	132.5 sec 
+Set (V): 		dev 
+ 
+Lisa_Ray/vCsaxQOWCik_0000001 56.5 67.2 
+Lisa_Ray/vCsaxQOWCik_0000002 85.1 99.1 

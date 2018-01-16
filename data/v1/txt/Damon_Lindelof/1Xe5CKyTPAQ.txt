@@ -1,0 +1,13 @@
+POI: 			Damon_Lindelof 
+Youtube ID: 	1Xe5CKyTPAQ 
+Video length: 	250.8 sec 
+Set (V): 		dev 
+ 
+Damon_Lindelof/1Xe5CKyTPAQ_0000001 77.0 89.0 
+Damon_Lindelof/1Xe5CKyTPAQ_0000002 93.8 104.1 
+Damon_Lindelof/1Xe5CKyTPAQ_0000003 104.9 109.2 
+Damon_Lindelof/1Xe5CKyTPAQ_0000004 109.4 113.4 
+Damon_Lindelof/1Xe5CKyTPAQ_0000005 130.0 156.4 
+Damon_Lindelof/1Xe5CKyTPAQ_0000006 180.5 202.5 
+Damon_Lindelof/1Xe5CKyTPAQ_0000007 202.6 209.7 
+Damon_Lindelof/1Xe5CKyTPAQ_0000008 213.1 221.9 

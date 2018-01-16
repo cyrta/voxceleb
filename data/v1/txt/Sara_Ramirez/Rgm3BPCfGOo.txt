@@ -1,0 +1,16 @@
+POI: 			Sara_Ramirez 
+Youtube ID: 	Rgm3BPCfGOo 
+Video length: 	530.4 sec 
+Set (V): 		dev 
+ 
+Sara_Ramirez/Rgm3BPCfGOo_0000001 105.4 118.5 
+Sara_Ramirez/Rgm3BPCfGOo_0000002 120.2 124.6 
+Sara_Ramirez/Rgm3BPCfGOo_0000003 223.4 255.8 
+Sara_Ramirez/Rgm3BPCfGOo_0000004 257.4 263.9 
+Sara_Ramirez/Rgm3BPCfGOo_0000005 294.8 302.8 
+Sara_Ramirez/Rgm3BPCfGOo_0000006 333.3 354.2 
+Sara_Ramirez/Rgm3BPCfGOo_0000007 354.4 369.6 
+Sara_Ramirez/Rgm3BPCfGOo_0000008 371.4 377.4 
+Sara_Ramirez/Rgm3BPCfGOo_0000009 443.8 450.7 
+Sara_Ramirez/Rgm3BPCfGOo_0000010 478.9 494.7 
+Sara_Ramirez/Rgm3BPCfGOo_0000011 495.1 501.8 

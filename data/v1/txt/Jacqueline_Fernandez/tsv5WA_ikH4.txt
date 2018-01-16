@@ -1,0 +1,11 @@
+POI: 			Jacqueline_Fernandez 
+Youtube ID: 	tsv5WA_ikH4 
+Video length: 	1004.6 sec 
+Set (V): 		dev 
+ 
+Jacqueline_Fernandez/tsv5WA_ikH4_0000001 222.8 227.9 
+Jacqueline_Fernandez/tsv5WA_ikH4_0000002 228.7 236.6 
+Jacqueline_Fernandez/tsv5WA_ikH4_0000003 337.2 345.2 
+Jacqueline_Fernandez/tsv5WA_ikH4_0000004 379.8 386.5 
+Jacqueline_Fernandez/tsv5WA_ikH4_0000005 511.0 517.5 
+Jacqueline_Fernandez/tsv5WA_ikH4_0000006 983.5 989.3 

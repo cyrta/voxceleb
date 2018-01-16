@@ -1,0 +1,9 @@
+POI: 			Blake_Michael 
+Youtube ID: 	mzPOFJ9s3lc 
+Video length: 	170.8 sec 
+Set (V): 		dev 
+ 
+Blake_Michael/mzPOFJ9s3lc_0000001 34.2 41.0 
+Blake_Michael/mzPOFJ9s3lc_0000002 103.8 111.4 
+Blake_Michael/mzPOFJ9s3lc_0000003 130.9 137.8 
+Blake_Michael/mzPOFJ9s3lc_0000004 143.2 150.8 

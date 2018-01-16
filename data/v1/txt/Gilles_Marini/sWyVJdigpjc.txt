@@ -1,0 +1,9 @@
+POI: 			Gilles_Marini 
+Youtube ID: 	sWyVJdigpjc 
+Video length: 	633.6 sec 
+Set (V): 		dev 
+ 
+Gilles_Marini/sWyVJdigpjc_0000001 159.8 166.4 
+Gilles_Marini/sWyVJdigpjc_0000002 174.3 181.0 
+Gilles_Marini/sWyVJdigpjc_0000003 219.4 224.9 
+Gilles_Marini/sWyVJdigpjc_0000004 341.2 351.0 

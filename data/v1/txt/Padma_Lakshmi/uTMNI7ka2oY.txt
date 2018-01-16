@@ -1,0 +1,17 @@
+POI: 			Padma_Lakshmi 
+Youtube ID: 	uTMNI7ka2oY 
+Video length: 	568.5 sec 
+Set (V): 		dev 
+ 
+Padma_Lakshmi/uTMNI7ka2oY_0000001 40.6 45.4 
+Padma_Lakshmi/uTMNI7ka2oY_0000002 53.8 58.2 
+Padma_Lakshmi/uTMNI7ka2oY_0000003 71.9 76.0 
+Padma_Lakshmi/uTMNI7ka2oY_0000004 84.9 89.4 
+Padma_Lakshmi/uTMNI7ka2oY_0000005 115.0 124.4 
+Padma_Lakshmi/uTMNI7ka2oY_0000006 319.2 326.8 
+Padma_Lakshmi/uTMNI7ka2oY_0000007 337.4 342.0 
+Padma_Lakshmi/uTMNI7ka2oY_0000008 356.4 365.9 
+Padma_Lakshmi/uTMNI7ka2oY_0000009 368.2 378.3 
+Padma_Lakshmi/uTMNI7ka2oY_0000010 380.6 388.8 
+Padma_Lakshmi/uTMNI7ka2oY_0000011 429.2 434.1 
+Padma_Lakshmi/uTMNI7ka2oY_0000012 494.7 499.0 

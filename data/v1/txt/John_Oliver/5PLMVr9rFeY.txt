@@ -1,0 +1,15 @@
+POI: 			John_Oliver 
+Youtube ID: 	5PLMVr9rFeY 
+Video length: 	450.6 sec 
+Set (V): 		dev 
+ 
+John_Oliver/5PLMVr9rFeY_0000001 12.1 18.6 
+John_Oliver/5PLMVr9rFeY_0000002 21.2 30.9 
+John_Oliver/5PLMVr9rFeY_0000003 57.0 70.2 
+John_Oliver/5PLMVr9rFeY_0000004 84.9 89.6 
+John_Oliver/5PLMVr9rFeY_0000005 159.7 164.1 
+John_Oliver/5PLMVr9rFeY_0000006 171.3 175.3 
+John_Oliver/5PLMVr9rFeY_0000007 273.4 283.9 
+John_Oliver/5PLMVr9rFeY_0000008 334.5 338.5 
+John_Oliver/5PLMVr9rFeY_0000009 382.3 387.0 
+John_Oliver/5PLMVr9rFeY_0000010 402.7 408.3 

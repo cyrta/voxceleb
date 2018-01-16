@@ -1,0 +1,26 @@
+POI: 			Thomas_Haden_Church 
+Youtube ID: 	vnqJmyfby6o 
+Video length: 	2498.3 sec 
+Set (V): 		dev 
+ 
+Thomas_Haden_Church/vnqJmyfby6o_0000001 102.5 108.6 
+Thomas_Haden_Church/vnqJmyfby6o_0000002 353.5 360.4 
+Thomas_Haden_Church/vnqJmyfby6o_0000003 369.1 374.7 
+Thomas_Haden_Church/vnqJmyfby6o_0000004 378.2 384.7 
+Thomas_Haden_Church/vnqJmyfby6o_0000005 408.3 412.9 
+Thomas_Haden_Church/vnqJmyfby6o_0000006 519.7 526.6 
+Thomas_Haden_Church/vnqJmyfby6o_0000007 533.6 539.0 
+Thomas_Haden_Church/vnqJmyfby6o_0000008 643.7 647.7 
+Thomas_Haden_Church/vnqJmyfby6o_0000009 1764.6 1773.0 
+Thomas_Haden_Church/vnqJmyfby6o_0000010 1773.7 1777.9 
+Thomas_Haden_Church/vnqJmyfby6o_0000011 1778.8 1784.5 
+Thomas_Haden_Church/vnqJmyfby6o_0000012 1804.6 1813.6 
+Thomas_Haden_Church/vnqJmyfby6o_0000013 1832.1 1836.8 
+Thomas_Haden_Church/vnqJmyfby6o_0000014 1917.6 1925.5 
+Thomas_Haden_Church/vnqJmyfby6o_0000015 1932.3 1938.7 
+Thomas_Haden_Church/vnqJmyfby6o_0000016 1942.8 1951.4 
+Thomas_Haden_Church/vnqJmyfby6o_0000017 1952.1 1956.3 
+Thomas_Haden_Church/vnqJmyfby6o_0000018 1967.2 1971.4 
+Thomas_Haden_Church/vnqJmyfby6o_0000019 2228.4 2238.8 
+Thomas_Haden_Church/vnqJmyfby6o_0000020 2246.2 2253.5 
+Thomas_Haden_Church/vnqJmyfby6o_0000021 2369.6 2376.6 

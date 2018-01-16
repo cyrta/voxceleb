@@ -1,0 +1,7 @@
+POI: 			Rita_Ora 
+Youtube ID: 	6gYws-2PKS8 
+Video length: 	423.1 sec 
+Set (V): 		dev 
+ 
+Rita_Ora/6gYws-2PKS8_0000001 326.1 332.5 
+Rita_Ora/6gYws-2PKS8_0000002 369.9 373.9 

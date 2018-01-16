@@ -1,0 +1,11 @@
+POI: 			Sandra_Bernhard 
+Youtube ID: 	7XZRAPfRc8o 
+Video length: 	4120.2 sec 
+Set (V): 		dev 
+ 
+Sandra_Bernhard/7XZRAPfRc8o_0000001 1279.5 1283.7 
+Sandra_Bernhard/7XZRAPfRc8o_0000002 1723.5 1728.9 
+Sandra_Bernhard/7XZRAPfRc8o_0000003 1755.1 1762.1 
+Sandra_Bernhard/7XZRAPfRc8o_0000004 2070.4 2074.7 
+Sandra_Bernhard/7XZRAPfRc8o_0000005 2128.0 2132.1 
+Sandra_Bernhard/7XZRAPfRc8o_0000006 2280.2 2285.6 

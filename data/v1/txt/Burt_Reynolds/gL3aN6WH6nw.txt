@@ -1,0 +1,9 @@
+POI: 			Burt_Reynolds 
+Youtube ID: 	gL3aN6WH6nw 
+Video length: 	383.8 sec 
+Set (V): 		dev 
+ 
+Burt_Reynolds/gL3aN6WH6nw_0000001 20.3 25.3 
+Burt_Reynolds/gL3aN6WH6nw_0000002 85.6 99.2 
+Burt_Reynolds/gL3aN6WH6nw_0000003 106.1 110.5 
+Burt_Reynolds/gL3aN6WH6nw_0000004 343.6 347.9 

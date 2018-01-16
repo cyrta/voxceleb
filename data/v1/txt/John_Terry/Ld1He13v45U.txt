@@ -1,0 +1,10 @@
+POI: 			John_Terry 
+Youtube ID: 	Ld1He13v45U 
+Video length: 	255.0 sec 
+Set (V): 		dev 
+ 
+John_Terry/Ld1He13v45U_0000001 20.4 38.2 
+John_Terry/Ld1He13v45U_0000002 44.3 65.0 
+John_Terry/Ld1He13v45U_0000003 65.2 72.1 
+John_Terry/Ld1He13v45U_0000004 94.2 99.3 
+John_Terry/Ld1He13v45U_0000005 236.5 242.2 

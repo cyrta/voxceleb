@@ -1,0 +1,9 @@
+POI: 			Shonda_Rhimes 
+Youtube ID: 	URehJMHN6hI 
+Video length: 	126.3 sec 
+Set (V): 		dev 
+ 
+Shonda_Rhimes/URehJMHN6hI_0000001 29.4 35.3 
+Shonda_Rhimes/URehJMHN6hI_0000002 40.5 45.7 
+Shonda_Rhimes/URehJMHN6hI_0000003 61.2 71.1 
+Shonda_Rhimes/URehJMHN6hI_0000004 75.8 80.3 

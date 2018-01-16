@@ -1,0 +1,10 @@
+POI: 			Bridget_Regan 
+Youtube ID: 	Jbq5MoUBaXU 
+Video length: 	267.5 sec 
+Set (V): 		dev 
+ 
+Bridget_Regan/Jbq5MoUBaXU_0000001 60.0 66.6 
+Bridget_Regan/Jbq5MoUBaXU_0000002 79.2 85.8 
+Bridget_Regan/Jbq5MoUBaXU_0000003 151.8 159.1 
+Bridget_Regan/Jbq5MoUBaXU_0000004 160.3 174.7 
+Bridget_Regan/Jbq5MoUBaXU_0000005 226.0 239.3 

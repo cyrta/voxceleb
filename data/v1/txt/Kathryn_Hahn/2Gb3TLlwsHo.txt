@@ -1,0 +1,10 @@
+POI: 			Kathryn_Hahn 
+Youtube ID: 	2Gb3TLlwsHo 
+Video length: 	213.8 sec 
+Set (V): 		dev 
+ 
+Kathryn_Hahn/2Gb3TLlwsHo_0000001 11.7 20.8 
+Kathryn_Hahn/2Gb3TLlwsHo_0000002 21.8 29.0 
+Kathryn_Hahn/2Gb3TLlwsHo_0000003 15.7 34.7 
+Kathryn_Hahn/2Gb3TLlwsHo_0000004 35.1 40.4 
+Kathryn_Hahn/2Gb3TLlwsHo_0000005 43.6 48.9 

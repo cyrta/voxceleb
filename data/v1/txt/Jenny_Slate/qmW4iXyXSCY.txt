@@ -1,0 +1,10 @@
+POI: 			Jenny_Slate 
+Youtube ID: 	qmW4iXyXSCY 
+Video length: 	148.6 sec 
+Set (V): 		dev 
+ 
+Jenny_Slate/qmW4iXyXSCY_0000001 86.6 94.6 
+Jenny_Slate/qmW4iXyXSCY_0000002 95.2 102.8 
+Jenny_Slate/qmW4iXyXSCY_0000003 118.6 124.3 
+Jenny_Slate/qmW4iXyXSCY_0000004 124.8 130.0 
+Jenny_Slate/qmW4iXyXSCY_0000005 132.1 141.7 

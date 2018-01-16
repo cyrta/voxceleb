@@ -1,0 +1,13 @@
+POI: 			Skylar_Astin 
+Youtube ID: 	EEwfRSVWAJU 
+Video length: 	335.0 sec 
+Set (V): 		dev 
+ 
+Skylar_Astin/EEwfRSVWAJU_0000001 43.6 50.3 
+Skylar_Astin/EEwfRSVWAJU_0000002 77.7 82.3 
+Skylar_Astin/EEwfRSVWAJU_0000003 82.8 88.4 
+Skylar_Astin/EEwfRSVWAJU_0000004 95.4 109.9 
+Skylar_Astin/EEwfRSVWAJU_0000005 236.8 248.0 
+Skylar_Astin/EEwfRSVWAJU_0000006 249.0 256.4 
+Skylar_Astin/EEwfRSVWAJU_0000007 262.0 267.6 
+Skylar_Astin/EEwfRSVWAJU_0000008 269.6 274.1 

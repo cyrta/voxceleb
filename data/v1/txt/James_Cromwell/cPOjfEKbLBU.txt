@@ -1,0 +1,9 @@
+POI: 			James_Cromwell 
+Youtube ID: 	cPOjfEKbLBU 
+Video length: 	70.9 sec 
+Set (V): 		dev 
+ 
+James_Cromwell/cPOjfEKbLBU_0000001 18.2 29.3 
+James_Cromwell/cPOjfEKbLBU_0000002 30.3 36.3 
+James_Cromwell/cPOjfEKbLBU_0000003 36.5 45.7 
+James_Cromwell/cPOjfEKbLBU_0000004 63.3 67.8 

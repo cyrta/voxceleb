@@ -1,0 +1,13 @@
+POI: 			Joel_McHale 
+Youtube ID: 	uNKowunXkd8 
+Video length: 	428.8 sec 
+Set (V): 		dev 
+ 
+Joel_McHale/uNKowunXkd8_0000001 79.3 83.4 
+Joel_McHale/uNKowunXkd8_0000002 121.5 125.6 
+Joel_McHale/uNKowunXkd8_0000003 125.8 130.6 
+Joel_McHale/uNKowunXkd8_0000004 177.7 184.1 
+Joel_McHale/uNKowunXkd8_0000005 326.6 333.0 
+Joel_McHale/uNKowunXkd8_0000006 373.7 379.6 
+Joel_McHale/uNKowunXkd8_0000007 380.6 393.5 
+Joel_McHale/uNKowunXkd8_0000008 394.2 400.6 

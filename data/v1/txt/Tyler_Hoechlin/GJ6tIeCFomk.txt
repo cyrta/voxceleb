@@ -1,0 +1,7 @@
+POI: 			Tyler_Hoechlin 
+Youtube ID: 	GJ6tIeCFomk 
+Video length: 	52.1 sec 
+Set (V): 		dev 
+ 
+Tyler_Hoechlin/GJ6tIeCFomk_0000001 10.0 18.4 
+Tyler_Hoechlin/GJ6tIeCFomk_0000002 23.3 36.6 

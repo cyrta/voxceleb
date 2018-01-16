@@ -1,0 +1,17 @@
+POI: 			Sydney_Pollack 
+Youtube ID: 	Uq9pDnls2GY 
+Video length: 	253.9 sec 
+Set (V): 		dev 
+ 
+Sydney_Pollack/Uq9pDnls2GY_0000001 15.2 20.2 
+Sydney_Pollack/Uq9pDnls2GY_0000002 17.0 29.2 
+Sydney_Pollack/Uq9pDnls2GY_0000003 38.0 47.4 
+Sydney_Pollack/Uq9pDnls2GY_0000004 56.2 61.2 
+Sydney_Pollack/Uq9pDnls2GY_0000005 71.8 79.4 
+Sydney_Pollack/Uq9pDnls2GY_0000006 125.2 137.9 
+Sydney_Pollack/Uq9pDnls2GY_0000007 139.6 145.0 
+Sydney_Pollack/Uq9pDnls2GY_0000008 195.7 208.2 
+Sydney_Pollack/Uq9pDnls2GY_0000009 212.5 224.4 
+Sydney_Pollack/Uq9pDnls2GY_0000010 228.7 233.4 
+Sydney_Pollack/Uq9pDnls2GY_0000011 238.0 242.7 
+Sydney_Pollack/Uq9pDnls2GY_0000012 243.8 247.8 

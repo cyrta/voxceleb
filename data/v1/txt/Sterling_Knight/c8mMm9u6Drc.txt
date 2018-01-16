@@ -1,0 +1,12 @@
+POI: 			Sterling_Knight 
+Youtube ID: 	c8mMm9u6Drc 
+Video length: 	96.4 sec 
+Set (V): 		dev 
+ 
+Sterling_Knight/c8mMm9u6Drc_0000001 04.7 08.8 
+Sterling_Knight/c8mMm9u6Drc_0000002 09.1 16.7 
+Sterling_Knight/c8mMm9u6Drc_0000003 22.1 26.8 
+Sterling_Knight/c8mMm9u6Drc_0000004 32.0 39.2 
+Sterling_Knight/c8mMm9u6Drc_0000005 41.5 45.8 
+Sterling_Knight/c8mMm9u6Drc_0000006 48.2 55.5 
+Sterling_Knight/c8mMm9u6Drc_0000007 67.4 77.6 

@@ -1,0 +1,11 @@
+POI: 			Nikolaj_Coster-Waldau 
+Youtube ID: 	YcJq-UXGRNw 
+Video length: 	782.4 sec 
+Set (V): 		dev 
+ 
+Nikolaj_Coster-Waldau/YcJq-UXGRNw_0000001 11.1 17.4 
+Nikolaj_Coster-Waldau/YcJq-UXGRNw_0000002 37.9 42.3 
+Nikolaj_Coster-Waldau/YcJq-UXGRNw_0000003 51.0 58.9 
+Nikolaj_Coster-Waldau/YcJq-UXGRNw_0000004 70.7 78.2 
+Nikolaj_Coster-Waldau/YcJq-UXGRNw_0000005 530.4 536.0 
+Nikolaj_Coster-Waldau/YcJq-UXGRNw_0000006 580.8 585.5 

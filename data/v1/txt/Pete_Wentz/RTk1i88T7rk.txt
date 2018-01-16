@@ -1,0 +1,7 @@
+POI: 			Pete_Wentz 
+Youtube ID: 	RTk1i88T7rk 
+Video length: 	305.4 sec 
+Set (V): 		dev 
+ 
+Pete_Wentz/RTk1i88T7rk_0000001 156.4 163.4 
+Pete_Wentz/RTk1i88T7rk_0000002 211.4 215.7 

@@ -1,0 +1,8 @@
+POI: 			Kate_Beckinsale 
+Youtube ID: 	vIJviEPCOVs 
+Video length: 	239.8 sec 
+Set (V): 		dev 
+ 
+Kate_Beckinsale/vIJviEPCOVs_0000001 35.6 51.1 
+Kate_Beckinsale/vIJviEPCOVs_0000002 54.7 63.5 
+Kate_Beckinsale/vIJviEPCOVs_0000003 135.5 147.4 

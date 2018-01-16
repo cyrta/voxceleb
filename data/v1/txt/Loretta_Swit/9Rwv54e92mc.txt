@@ -1,0 +1,9 @@
+POI: 			Loretta_Swit 
+Youtube ID: 	9Rwv54e92mc 
+Video length: 	264.9 sec 
+Set (V): 		dev 
+ 
+Loretta_Swit/9Rwv54e92mc_0000001 155.0 159.0 
+Loretta_Swit/9Rwv54e92mc_0000002 167.2 171.4 
+Loretta_Swit/9Rwv54e92mc_0000003 172.2 180.5 
+Loretta_Swit/9Rwv54e92mc_0000004 187.8 196.1 

@@ -1,0 +1,9 @@
+POI: 			Carrie_Underwood 
+Youtube ID: 	IF9QPNoRBkA 
+Video length: 	325.0 sec 
+Set (V): 		dev 
+ 
+Carrie_Underwood/IF9QPNoRBkA_0000001 37.1 42.7 
+Carrie_Underwood/IF9QPNoRBkA_0000002 63.4 67.8 
+Carrie_Underwood/IF9QPNoRBkA_0000003 111.6 115.6 
+Carrie_Underwood/IF9QPNoRBkA_0000004 129.9 141.3 

@@ -1,0 +1,10 @@
+POI: 			Michael_C._Hall 
+Youtube ID: 	j9xbx1TE3nM 
+Video length: 	666.1 sec 
+Set (V): 		dev 
+ 
+Michael_C._Hall/j9xbx1TE3nM_0000001 82.7 87.3 
+Michael_C._Hall/j9xbx1TE3nM_0000002 119.0 123.5 
+Michael_C._Hall/j9xbx1TE3nM_0000003 149.2 159.2 
+Michael_C._Hall/j9xbx1TE3nM_0000004 245.2 249.2 
+Michael_C._Hall/j9xbx1TE3nM_0000005 266.0 271.5 

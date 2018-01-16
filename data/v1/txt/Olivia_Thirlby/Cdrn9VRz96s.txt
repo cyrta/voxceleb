@@ -1,0 +1,9 @@
+POI: 			Olivia_Thirlby 
+Youtube ID: 	Cdrn9VRz96s 
+Video length: 	388.8 sec 
+Set (V): 		dev 
+ 
+Olivia_Thirlby/Cdrn9VRz96s_0000001 43.7 49.0 
+Olivia_Thirlby/Cdrn9VRz96s_0000002 50.8 54.8 
+Olivia_Thirlby/Cdrn9VRz96s_0000003 56.9 62.0 
+Olivia_Thirlby/Cdrn9VRz96s_0000004 125.2 138.7 

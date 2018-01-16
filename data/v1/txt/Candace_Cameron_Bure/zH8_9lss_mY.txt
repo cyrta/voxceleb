@@ -1,0 +1,13 @@
+POI: 			Candace_Cameron_Bure 
+Youtube ID: 	zH8_9lss_mY 
+Video length: 	356.7 sec 
+Set (V): 		dev 
+ 
+Candace_Cameron_Bure/zH8_9lss_mY_0000001 30.2 53.2 
+Candace_Cameron_Bure/zH8_9lss_mY_0000002 61.5 72.3 
+Candace_Cameron_Bure/zH8_9lss_mY_0000003 93.4 107.1 
+Candace_Cameron_Bure/zH8_9lss_mY_0000004 107.6 115.5 
+Candace_Cameron_Bure/zH8_9lss_mY_0000005 118.5 126.5 
+Candace_Cameron_Bure/zH8_9lss_mY_0000006 171.7 178.4 
+Candace_Cameron_Bure/zH8_9lss_mY_0000007 202.5 220.4 
+Candace_Cameron_Bure/zH8_9lss_mY_0000008 262.2 274.7 

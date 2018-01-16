@@ -1,0 +1,13 @@
+POI: 			Ruta_Lee 
+Youtube ID: 	UUxkxsxOWk4 
+Video length: 	2886.8 sec 
+Set (V): 		dev 
+ 
+Ruta_Lee/UUxkxsxOWk4_0000001 1816.6 1820.9 
+Ruta_Lee/UUxkxsxOWk4_0000002 1840.7 1847.2 
+Ruta_Lee/UUxkxsxOWk4_0000003 1850.8 1859.9 
+Ruta_Lee/UUxkxsxOWk4_0000004 1860.4 1869.2 
+Ruta_Lee/UUxkxsxOWk4_0000005 1869.7 1875.2 
+Ruta_Lee/UUxkxsxOWk4_0000006 1876.2 1886.1 
+Ruta_Lee/UUxkxsxOWk4_0000007 1887.4 1891.8 
+Ruta_Lee/UUxkxsxOWk4_0000008 1892.0 1896.1 

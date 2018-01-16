@@ -1,0 +1,21 @@
+POI: 			James_Lipton 
+Youtube ID: 	fg3k1tZgaQ0 
+Video length: 	1122.7 sec 
+Set (V): 		dev 
+ 
+James_Lipton/fg3k1tZgaQ0_0000001 89.3 93.4 
+James_Lipton/fg3k1tZgaQ0_0000002 103.8 107.8 
+James_Lipton/fg3k1tZgaQ0_0000003 306.7 312.6 
+James_Lipton/fg3k1tZgaQ0_0000004 337.6 343.3 
+James_Lipton/fg3k1tZgaQ0_0000005 344.8 350.2 
+James_Lipton/fg3k1tZgaQ0_0000006 350.4 358.6 
+James_Lipton/fg3k1tZgaQ0_0000007 413.8 420.1 
+James_Lipton/fg3k1tZgaQ0_0000008 433.4 437.5 
+James_Lipton/fg3k1tZgaQ0_0000009 561.2 565.1 
+James_Lipton/fg3k1tZgaQ0_0000010 620.5 625.2 
+James_Lipton/fg3k1tZgaQ0_0000011 634.6 639.7 
+James_Lipton/fg3k1tZgaQ0_0000012 647.8 656.0 
+James_Lipton/fg3k1tZgaQ0_0000013 699.6 703.8 
+James_Lipton/fg3k1tZgaQ0_0000014 733.4 740.4 
+James_Lipton/fg3k1tZgaQ0_0000015 837.4 841.7 
+James_Lipton/fg3k1tZgaQ0_0000016 907.2 915.8 

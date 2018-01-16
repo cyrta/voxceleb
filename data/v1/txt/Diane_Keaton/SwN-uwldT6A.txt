@@ -1,0 +1,12 @@
+POI: 			Diane_Keaton 
+Youtube ID: 	SwN-uwldT6A 
+Video length: 	129.3 sec 
+Set (V): 		dev 
+ 
+Diane_Keaton/SwN-uwldT6A_0000001 42.0 57.7 
+Diane_Keaton/SwN-uwldT6A_0000002 61.9 68.2 
+Diane_Keaton/SwN-uwldT6A_0000003 73.5 81.8 
+Diane_Keaton/SwN-uwldT6A_0000004 82.3 88.6 
+Diane_Keaton/SwN-uwldT6A_0000005 90.3 94.8 
+Diane_Keaton/SwN-uwldT6A_0000006 90.4 95.0 
+Diane_Keaton/SwN-uwldT6A_0000007 111.2 115.5 

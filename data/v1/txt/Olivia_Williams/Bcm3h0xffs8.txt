@@ -1,0 +1,13 @@
+POI: 			Olivia_Williams 
+Youtube ID: 	Bcm3h0xffs8 
+Video length: 	217.2 sec 
+Set (V): 		dev 
+ 
+Olivia_Williams/Bcm3h0xffs8_0000001 22.0 51.2 
+Olivia_Williams/Bcm3h0xffs8_0000002 64.8 70.9 
+Olivia_Williams/Bcm3h0xffs8_0000003 108.3 115.3 
+Olivia_Williams/Bcm3h0xffs8_0000004 141.3 151.3 
+Olivia_Williams/Bcm3h0xffs8_0000005 160.1 164.5 
+Olivia_Williams/Bcm3h0xffs8_0000006 166.3 172.3 
+Olivia_Williams/Bcm3h0xffs8_0000007 172.7 177.6 
+Olivia_Williams/Bcm3h0xffs8_0000008 178.7 191.3 

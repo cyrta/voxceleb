@@ -1,0 +1,12 @@
+POI: 			Robert_Picardo 
+Youtube ID: 	O6qLnZfCsdE 
+Video length: 	299.8 sec 
+Set (V): 		dev 
+ 
+Robert_Picardo/O6qLnZfCsdE_0000001 116.6 120.8 
+Robert_Picardo/O6qLnZfCsdE_0000002 124.3 129.6 
+Robert_Picardo/O6qLnZfCsdE_0000003 145.9 150.6 
+Robert_Picardo/O6qLnZfCsdE_0000004 150.8 155.6 
+Robert_Picardo/O6qLnZfCsdE_0000005 166.4 178.6 
+Robert_Picardo/O6qLnZfCsdE_0000006 203.2 211.8 
+Robert_Picardo/O6qLnZfCsdE_0000007 231.9 242.6 

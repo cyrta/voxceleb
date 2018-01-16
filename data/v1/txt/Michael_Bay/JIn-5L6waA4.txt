@@ -1,0 +1,11 @@
+POI: 			Michael_Bay 
+Youtube ID: 	JIn-5L6waA4 
+Video length: 	206.6 sec 
+Set (V): 		dev 
+ 
+Michael_Bay/JIn-5L6waA4_0000001 13.4 25.3 
+Michael_Bay/JIn-5L6waA4_0000002 29.6 38.2 
+Michael_Bay/JIn-5L6waA4_0000003 98.8 109.1 
+Michael_Bay/JIn-5L6waA4_0000004 122.3 126.4 
+Michael_Bay/JIn-5L6waA4_0000005 133.5 138.3 
+Michael_Bay/JIn-5L6waA4_0000006 138.8 143.0 

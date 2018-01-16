@@ -1,0 +1,12 @@
+POI: 			Joel_Kinnaman 
+Youtube ID: 	hKC2Ad0Br5w 
+Video length: 	298.0 sec 
+Set (V): 		dev 
+ 
+Joel_Kinnaman/hKC2Ad0Br5w_0000001 10.2 18.2 
+Joel_Kinnaman/hKC2Ad0Br5w_0000002 18.5 35.3 
+Joel_Kinnaman/hKC2Ad0Br5w_0000003 51.2 57.9 
+Joel_Kinnaman/hKC2Ad0Br5w_0000004 180.7 186.9 
+Joel_Kinnaman/hKC2Ad0Br5w_0000005 187.1 192.5 
+Joel_Kinnaman/hKC2Ad0Br5w_0000006 193.5 201.3 
+Joel_Kinnaman/hKC2Ad0Br5w_0000007 273.2 291.9 

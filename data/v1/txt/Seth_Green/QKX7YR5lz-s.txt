@@ -1,0 +1,11 @@
+POI: 			Seth_Green 
+Youtube ID: 	QKX7YR5lz-s 
+Video length: 	179.4 sec 
+Set (V): 		dev 
+ 
+Seth_Green/QKX7YR5lz-s_0000001 28.5 34.1 
+Seth_Green/QKX7YR5lz-s_0000002 35.0 43.7 
+Seth_Green/QKX7YR5lz-s_0000003 53.7 59.3 
+Seth_Green/QKX7YR5lz-s_0000004 59.8 70.0 
+Seth_Green/QKX7YR5lz-s_0000005 112.0 124.2 
+Seth_Green/QKX7YR5lz-s_0000006 130.5 136.3 

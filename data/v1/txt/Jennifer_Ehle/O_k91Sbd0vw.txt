@@ -1,0 +1,9 @@
+POI: 			Jennifer_Ehle 
+Youtube ID: 	O_k91Sbd0vw 
+Video length: 	245.8 sec 
+Set (V): 		dev 
+ 
+Jennifer_Ehle/O_k91Sbd0vw_0000001 17.0 30.1 
+Jennifer_Ehle/O_k91Sbd0vw_0000002 45.3 76.3 
+Jennifer_Ehle/O_k91Sbd0vw_0000003 76.8 90.3 
+Jennifer_Ehle/O_k91Sbd0vw_0000004 100.3 108.9 

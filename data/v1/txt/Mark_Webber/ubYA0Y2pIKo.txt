@@ -1,0 +1,9 @@
+POI: 			Mark_Webber 
+Youtube ID: 	ubYA0Y2pIKo 
+Video length: 	184.6 sec 
+Set (V): 		dev 
+ 
+Mark_Webber/ubYA0Y2pIKo_0000001 45.5 53.4 
+Mark_Webber/ubYA0Y2pIKo_0000002 61.3 67.4 
+Mark_Webber/ubYA0Y2pIKo_0000003 79.8 84.8 
+Mark_Webber/ubYA0Y2pIKo_0000004 154.9 162.0 

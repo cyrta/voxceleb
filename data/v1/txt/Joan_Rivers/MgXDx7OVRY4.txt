@@ -1,0 +1,11 @@
+POI: 			Joan_Rivers 
+Youtube ID: 	MgXDx7OVRY4 
+Video length: 	309.6 sec 
+Set (V): 		dev 
+ 
+Joan_Rivers/MgXDx7OVRY4_0000001 124.2 130.0 
+Joan_Rivers/MgXDx7OVRY4_0000002 180.6 192.1 
+Joan_Rivers/MgXDx7OVRY4_0000003 216.3 224.9 
+Joan_Rivers/MgXDx7OVRY4_0000004 226.0 230.6 
+Joan_Rivers/MgXDx7OVRY4_0000005 230.7 237.2 
+Joan_Rivers/MgXDx7OVRY4_0000006 237.9 245.3 

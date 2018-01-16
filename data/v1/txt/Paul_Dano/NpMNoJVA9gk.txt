@@ -1,0 +1,12 @@
+POI: 			Paul_Dano 
+Youtube ID: 	NpMNoJVA9gk 
+Video length: 	360.2 sec 
+Set (V): 		dev 
+ 
+Paul_Dano/NpMNoJVA9gk_0000001 73.1 77.8 
+Paul_Dano/NpMNoJVA9gk_0000002 104.6 109.4 
+Paul_Dano/NpMNoJVA9gk_0000003 128.9 135.1 
+Paul_Dano/NpMNoJVA9gk_0000004 192.0 200.0 
+Paul_Dano/NpMNoJVA9gk_0000005 202.0 207.0 
+Paul_Dano/NpMNoJVA9gk_0000006 212.0 222.6 
+Paul_Dano/NpMNoJVA9gk_0000007 296.4 305.1 

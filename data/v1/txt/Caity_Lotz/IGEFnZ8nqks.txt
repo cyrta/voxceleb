@@ -1,0 +1,9 @@
+POI: 			Caity_Lotz 
+Youtube ID: 	IGEFnZ8nqks 
+Video length: 	685.7 sec 
+Set (V): 		dev 
+ 
+Caity_Lotz/IGEFnZ8nqks_0000001 64.6 69.8 
+Caity_Lotz/IGEFnZ8nqks_0000002 226.3 233.1 
+Caity_Lotz/IGEFnZ8nqks_0000003 612.1 616.6 
+Caity_Lotz/IGEFnZ8nqks_0000004 669.7 673.8 

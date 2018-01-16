@@ -1,0 +1,15 @@
+POI: 			Sharni_Vinson 
+Youtube ID: 	zXhm8v0cqXc 
+Video length: 	352.2 sec 
+Set (V): 		dev 
+ 
+Sharni_Vinson/zXhm8v0cqXc_0000001 16.6 27.2 
+Sharni_Vinson/zXhm8v0cqXc_0000002 105.2 118.4 
+Sharni_Vinson/zXhm8v0cqXc_0000003 139.8 154.0 
+Sharni_Vinson/zXhm8v0cqXc_0000004 174.3 178.6 
+Sharni_Vinson/zXhm8v0cqXc_0000005 178.9 186.2 
+Sharni_Vinson/zXhm8v0cqXc_0000006 215.4 226.0 
+Sharni_Vinson/zXhm8v0cqXc_0000007 261.0 269.6 
+Sharni_Vinson/zXhm8v0cqXc_0000008 299.2 305.5 
+Sharni_Vinson/zXhm8v0cqXc_0000009 306.8 313.9 
+Sharni_Vinson/zXhm8v0cqXc_0000010 322.5 329.4 

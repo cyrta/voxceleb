@@ -1,0 +1,11 @@
+POI: 			Miranda_Cosgrove 
+Youtube ID: 	yDmlMdgj02k 
+Video length: 	320.2 sec 
+Set (V): 		dev 
+ 
+Miranda_Cosgrove/yDmlMdgj02k_0000001 78.8 95.3 
+Miranda_Cosgrove/yDmlMdgj02k_0000002 114.8 120.6 
+Miranda_Cosgrove/yDmlMdgj02k_0000003 120.7 129.5 
+Miranda_Cosgrove/yDmlMdgj02k_0000004 196.5 205.8 
+Miranda_Cosgrove/yDmlMdgj02k_0000005 206.5 217.8 
+Miranda_Cosgrove/yDmlMdgj02k_0000006 242.4 261.6 

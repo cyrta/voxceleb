@@ -1,0 +1,8 @@
+POI: 			Don_Rickles 
+Youtube ID: 	uSYqgHONcAk 
+Video length: 	733.4 sec 
+Set (V): 		dev 
+ 
+Don_Rickles/uSYqgHONcAk_0000001 325.7 330.7 
+Don_Rickles/uSYqgHONcAk_0000002 472.5 480.3 
+Don_Rickles/uSYqgHONcAk_0000003 710.6 715.0 

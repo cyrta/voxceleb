@@ -1,0 +1,10 @@
+POI: 			Josh_Radnor 
+Youtube ID: 	9AuksVM4-d4 
+Video length: 	312.1 sec 
+Set (V): 		dev 
+ 
+Josh_Radnor/9AuksVM4-d4_0000001 69.8 103.7 
+Josh_Radnor/9AuksVM4-d4_0000002 127.6 132.3 
+Josh_Radnor/9AuksVM4-d4_0000003 164.6 191.0 
+Josh_Radnor/9AuksVM4-d4_0000004 250.4 256.4 
+Josh_Radnor/9AuksVM4-d4_0000005 283.3 292.5 

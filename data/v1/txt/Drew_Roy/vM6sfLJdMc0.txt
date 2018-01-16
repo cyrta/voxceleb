@@ -1,0 +1,14 @@
+POI: 			Drew_Roy 
+Youtube ID: 	vM6sfLJdMc0 
+Video length: 	148.4 sec 
+Set (V): 		dev 
+ 
+Drew_Roy/vM6sfLJdMc0_0000001 03.0 07.6 
+Drew_Roy/vM6sfLJdMc0_0000002 13.6 22.0 
+Drew_Roy/vM6sfLJdMc0_0000003 37.8 42.5 
+Drew_Roy/vM6sfLJdMc0_0000004 43.2 58.3 
+Drew_Roy/vM6sfLJdMc0_0000005 64.4 78.0 
+Drew_Roy/vM6sfLJdMc0_0000006 87.0 91.6 
+Drew_Roy/vM6sfLJdMc0_0000007 92.9 97.2 
+Drew_Roy/vM6sfLJdMc0_0000008 110.9 122.2 
+Drew_Roy/vM6sfLJdMc0_0000009 141.6 146.3 

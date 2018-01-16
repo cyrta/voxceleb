@@ -1,0 +1,13 @@
+POI: 			A.R._Rahman 
+Youtube ID: 	gaQqIoV_aLY 
+Video length: 	564.3 sec 
+Set (V): 		dev 
+ 
+A.R._Rahman/gaQqIoV_aLY_0000001 35.5 40.9 
+A.R._Rahman/gaQqIoV_aLY_0000002 142.8 148.1 
+A.R._Rahman/gaQqIoV_aLY_0000003 228.3 232.4 
+A.R._Rahman/gaQqIoV_aLY_0000004 285.6 295.2 
+A.R._Rahman/gaQqIoV_aLY_0000005 303.5 307.9 
+A.R._Rahman/gaQqIoV_aLY_0000006 395.9 405.0 
+A.R._Rahman/gaQqIoV_aLY_0000007 439.2 443.8 
+A.R._Rahman/gaQqIoV_aLY_0000008 470.9 479.1 

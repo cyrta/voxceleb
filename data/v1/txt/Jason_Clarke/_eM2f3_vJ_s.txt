@@ -1,0 +1,9 @@
+POI: 			Jason_Clarke 
+Youtube ID: 	_eM2f3_vJ_s 
+Video length: 	229.5 sec 
+Set (V): 		dev 
+ 
+Jason_Clarke/_eM2f3_vJ_s_0000001 23.6 29.8 
+Jason_Clarke/_eM2f3_vJ_s_0000002 51.3 55.8 
+Jason_Clarke/_eM2f3_vJ_s_0000003 62.3 68.9 
+Jason_Clarke/_eM2f3_vJ_s_0000004 165.3 171.8 

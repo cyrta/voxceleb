@@ -1,0 +1,12 @@
+POI: 			La_La_Anthony 
+Youtube ID: 	C7eHW_g0ANg 
+Video length: 	310.0 sec 
+Set (V): 		dev 
+ 
+La_La_Anthony/C7eHW_g0ANg_0000001 40.2 65.2 
+La_La_Anthony/C7eHW_g0ANg_0000002 86.5 94.8 
+La_La_Anthony/C7eHW_g0ANg_0000003 106.5 111.6 
+La_La_Anthony/C7eHW_g0ANg_0000004 118.2 128.8 
+La_La_Anthony/C7eHW_g0ANg_0000005 149.2 164.1 
+La_La_Anthony/C7eHW_g0ANg_0000006 183.3 195.0 
+La_La_Anthony/C7eHW_g0ANg_0000007 210.2 216.2 

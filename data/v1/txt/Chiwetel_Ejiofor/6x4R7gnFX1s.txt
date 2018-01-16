@@ -1,0 +1,10 @@
+POI: 			Chiwetel_Ejiofor 
+Youtube ID: 	6x4R7gnFX1s 
+Video length: 	251.0 sec 
+Set (V): 		dev 
+ 
+Chiwetel_Ejiofor/6x4R7gnFX1s_0000001 64.1 68.9 
+Chiwetel_Ejiofor/6x4R7gnFX1s_0000002 86.7 93.8 
+Chiwetel_Ejiofor/6x4R7gnFX1s_0000003 96.5 100.6 
+Chiwetel_Ejiofor/6x4R7gnFX1s_0000004 183.7 194.6 
+Chiwetel_Ejiofor/6x4R7gnFX1s_0000005 196.4 201.7 

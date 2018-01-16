@@ -1,0 +1,20 @@
+POI: 			Ty_Pennington 
+Youtube ID: 	czRkyfPoX0Q 
+Video length: 	866.6 sec 
+Set (V): 		dev 
+ 
+Ty_Pennington/czRkyfPoX0Q_0000001 236.4 247.1 
+Ty_Pennington/czRkyfPoX0Q_0000002 254.5 263.9 
+Ty_Pennington/czRkyfPoX0Q_0000003 295.1 302.8 
+Ty_Pennington/czRkyfPoX0Q_0000004 313.9 328.5 
+Ty_Pennington/czRkyfPoX0Q_0000005 329.2 347.2 
+Ty_Pennington/czRkyfPoX0Q_0000006 363.6 378.3 
+Ty_Pennington/czRkyfPoX0Q_0000007 383.5 387.8 
+Ty_Pennington/czRkyfPoX0Q_0000008 393.3 398.0 
+Ty_Pennington/czRkyfPoX0Q_0000009 444.4 453.4 
+Ty_Pennington/czRkyfPoX0Q_0000010 472.7 477.0 
+Ty_Pennington/czRkyfPoX0Q_0000011 499.6 513.6 
+Ty_Pennington/czRkyfPoX0Q_0000012 522.7 527.7 
+Ty_Pennington/czRkyfPoX0Q_0000013 567.5 577.2 
+Ty_Pennington/czRkyfPoX0Q_0000014 591.0 599.0 
+Ty_Pennington/czRkyfPoX0Q_0000015 825.2 831.4 

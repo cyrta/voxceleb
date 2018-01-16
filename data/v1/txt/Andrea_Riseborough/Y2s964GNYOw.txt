@@ -1,0 +1,11 @@
+POI: 			Andrea_Riseborough 
+Youtube ID: 	Y2s964GNYOw 
+Video length: 	192.2 sec 
+Set (V): 		dev 
+ 
+Andrea_Riseborough/Y2s964GNYOw_0000001 10.8 17.2 
+Andrea_Riseborough/Y2s964GNYOw_0000002 24.3 31.6 
+Andrea_Riseborough/Y2s964GNYOw_0000003 37.4 41.4 
+Andrea_Riseborough/Y2s964GNYOw_0000004 60.7 66.2 
+Andrea_Riseborough/Y2s964GNYOw_0000005 85.0 90.4 
+Andrea_Riseborough/Y2s964GNYOw_0000006 92.6 97.9 

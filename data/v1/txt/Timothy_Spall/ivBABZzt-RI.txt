@@ -1,0 +1,15 @@
+POI: 			Timothy_Spall 
+Youtube ID: 	ivBABZzt-RI 
+Video length: 	162.7 sec 
+Set (V): 		dev 
+ 
+Timothy_Spall/ivBABZzt-RI_0000001 10.6 17.4 
+Timothy_Spall/ivBABZzt-RI_0000002 18.4 22.6 
+Timothy_Spall/ivBABZzt-RI_0000003 28.1 37.7 
+Timothy_Spall/ivBABZzt-RI_0000004 39.9 68.9 
+Timothy_Spall/ivBABZzt-RI_0000005 69.2 74.2 
+Timothy_Spall/ivBABZzt-RI_0000006 83.3 97.1 
+Timothy_Spall/ivBABZzt-RI_0000007 98.2 107.1 
+Timothy_Spall/ivBABZzt-RI_0000008 117.6 131.8 
+Timothy_Spall/ivBABZzt-RI_0000009 137.7 141.6 
+Timothy_Spall/ivBABZzt-RI_0000010 149.0 155.5 

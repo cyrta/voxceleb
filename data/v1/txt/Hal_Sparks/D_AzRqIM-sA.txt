@@ -1,0 +1,7 @@
+POI: 			Hal_Sparks 
+Youtube ID: 	D_AzRqIM-sA 
+Video length: 	193.6 sec 
+Set (V): 		dev 
+ 
+Hal_Sparks/D_AzRqIM-sA_0000001 61.4 94.7 
+Hal_Sparks/D_AzRqIM-sA_0000002 96.3 100.4 

@@ -1,0 +1,11 @@
+POI: 			Mischa_Barton 
+Youtube ID: 	DLEeawJUxmU 
+Video length: 	135.2 sec 
+Set (V): 		dev 
+ 
+Mischa_Barton/DLEeawJUxmU_0000001 23.7 34.6 
+Mischa_Barton/DLEeawJUxmU_0000002 35.2 39.5 
+Mischa_Barton/DLEeawJUxmU_0000003 40.2 48.8 
+Mischa_Barton/DLEeawJUxmU_0000004 55.9 60.2 
+Mischa_Barton/DLEeawJUxmU_0000005 61.6 68.9 
+Mischa_Barton/DLEeawJUxmU_0000006 120.9 128.4 

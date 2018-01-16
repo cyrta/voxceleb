@@ -1,0 +1,7 @@
+POI: 			Constance_Zimmer 
+Youtube ID: 	EObT3VCemI8 
+Video length: 	460.2 sec 
+Set (V): 		dev 
+ 
+Constance_Zimmer/EObT3VCemI8_0000001 58.0 65.2 
+Constance_Zimmer/EObT3VCemI8_0000002 106.1 111.9 

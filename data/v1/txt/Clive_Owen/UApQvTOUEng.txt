@@ -1,0 +1,11 @@
+POI: 			Clive_Owen 
+Youtube ID: 	UApQvTOUEng 
+Video length: 	261.9 sec 
+Set (V): 		dev 
+ 
+Clive_Owen/UApQvTOUEng_0000001 58.2 66.8 
+Clive_Owen/UApQvTOUEng_0000002 68.0 74.1 
+Clive_Owen/UApQvTOUEng_0000003 137.2 141.7 
+Clive_Owen/UApQvTOUEng_0000004 147.3 154.7 
+Clive_Owen/UApQvTOUEng_0000005 155.3 160.7 
+Clive_Owen/UApQvTOUEng_0000006 215.9 238.5 

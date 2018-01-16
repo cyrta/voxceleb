@@ -1,0 +1,15 @@
+POI: 			Eddie_Kaye_Thomas 
+Youtube ID: 	s7vZT3_8Smo 
+Video length: 	565.2 sec 
+Set (V): 		test 
+ 
+Eddie_Kaye_Thomas/s7vZT3_8Smo_0000001 57.0 61.0 
+Eddie_Kaye_Thomas/s7vZT3_8Smo_0000002 119.5 123.6 
+Eddie_Kaye_Thomas/s7vZT3_8Smo_0000003 228.3 234.0 
+Eddie_Kaye_Thomas/s7vZT3_8Smo_0000004 235.4 240.7 
+Eddie_Kaye_Thomas/s7vZT3_8Smo_0000005 244.8 252.3 
+Eddie_Kaye_Thomas/s7vZT3_8Smo_0000006 301.3 306.1 
+Eddie_Kaye_Thomas/s7vZT3_8Smo_0000007 332.5 341.0 
+Eddie_Kaye_Thomas/s7vZT3_8Smo_0000008 383.6 388.2 
+Eddie_Kaye_Thomas/s7vZT3_8Smo_0000009 438.8 444.5 
+Eddie_Kaye_Thomas/s7vZT3_8Smo_0000010 474.0 478.5 

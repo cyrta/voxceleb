@@ -1,0 +1,16 @@
+POI: 			John_Amos 
+Youtube ID: 	tqF9tlo2_Uk 
+Video length: 	158.2 sec 
+Set (V): 		dev 
+ 
+John_Amos/tqF9tlo2_Uk_0000001 18.3 22.9 
+John_Amos/tqF9tlo2_Uk_0000002 28.8 34.6 
+John_Amos/tqF9tlo2_Uk_0000003 39.6 45.7 
+John_Amos/tqF9tlo2_Uk_0000004 48.9 60.6 
+John_Amos/tqF9tlo2_Uk_0000005 62.7 82.2 
+John_Amos/tqF9tlo2_Uk_0000006 83.6 90.0 
+John_Amos/tqF9tlo2_Uk_0000007 91.5 106.5 
+John_Amos/tqF9tlo2_Uk_0000008 109.0 114.9 
+John_Amos/tqF9tlo2_Uk_0000009 119.8 124.4 
+John_Amos/tqF9tlo2_Uk_0000010 125.1 132.3 
+John_Amos/tqF9tlo2_Uk_0000011 133.2 144.2 

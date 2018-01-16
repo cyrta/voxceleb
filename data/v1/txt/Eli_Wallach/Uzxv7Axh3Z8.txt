@@ -1,0 +1,11 @@
+POI: 			Eli_Wallach 
+Youtube ID: 	Uzxv7Axh3Z8 
+Video length: 	1685.8 sec 
+Set (V): 		test 
+ 
+Eli_Wallach/Uzxv7Axh3Z8_0000001 474.9 481.4 
+Eli_Wallach/Uzxv7Axh3Z8_0000002 565.9 571.6 
+Eli_Wallach/Uzxv7Axh3Z8_0000003 608.6 613.8 
+Eli_Wallach/Uzxv7Axh3Z8_0000004 765.9 771.1 
+Eli_Wallach/Uzxv7Axh3Z8_0000005 776.4 783.2 
+Eli_Wallach/Uzxv7Axh3Z8_0000006 787.2 794.3 

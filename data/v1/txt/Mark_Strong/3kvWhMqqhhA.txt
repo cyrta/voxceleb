@@ -1,0 +1,22 @@
+POI: 			Mark_Strong 
+Youtube ID: 	3kvWhMqqhhA 
+Video length: 	318.5 sec 
+Set (V): 		dev 
+ 
+Mark_Strong/3kvWhMqqhhA_0000001 05.7 11.2 
+Mark_Strong/3kvWhMqqhhA_0000002 12.2 29.2 
+Mark_Strong/3kvWhMqqhhA_0000003 52.7 76.3 
+Mark_Strong/3kvWhMqqhhA_0000004 77.5 86.5 
+Mark_Strong/3kvWhMqqhhA_0000005 87.5 97.7 
+Mark_Strong/3kvWhMqqhhA_0000006 98.8 105.3 
+Mark_Strong/3kvWhMqqhhA_0000007 139.7 148.4 
+Mark_Strong/3kvWhMqqhhA_0000008 153.2 158.4 
+Mark_Strong/3kvWhMqqhhA_0000009 167.8 178.2 
+Mark_Strong/3kvWhMqqhhA_0000010 178.9 198.4 
+Mark_Strong/3kvWhMqqhhA_0000011 198.8 209.7 
+Mark_Strong/3kvWhMqqhhA_0000012 210.5 215.1 
+Mark_Strong/3kvWhMqqhhA_0000013 223.3 229.3 
+Mark_Strong/3kvWhMqqhhA_0000014 245.6 262.8 
+Mark_Strong/3kvWhMqqhhA_0000015 284.2 290.5 
+Mark_Strong/3kvWhMqqhhA_0000016 294.0 298.6 
+Mark_Strong/3kvWhMqqhhA_0000017 299.5 315.0 

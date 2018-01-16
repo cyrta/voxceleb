@@ -1,0 +1,8 @@
+POI: 			Miranda_Lambert 
+Youtube ID: 	LFPsbeOytik 
+Video length: 	200.0 sec 
+Set (V): 		dev 
+ 
+Miranda_Lambert/LFPsbeOytik_0000001 21.2 38.1 
+Miranda_Lambert/LFPsbeOytik_0000002 38.3 50.5 
+Miranda_Lambert/LFPsbeOytik_0000003 182.2 190.4 

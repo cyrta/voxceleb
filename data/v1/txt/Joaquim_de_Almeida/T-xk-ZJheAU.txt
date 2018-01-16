@@ -1,0 +1,8 @@
+POI: 			Joaquim_de_Almeida 
+Youtube ID: 	T-xk-ZJheAU 
+Video length: 	100.6 sec 
+Set (V): 		dev 
+ 
+Joaquim_de_Almeida/T-xk-ZJheAU_0000001 04.0 09.3 
+Joaquim_de_Almeida/T-xk-ZJheAU_0000002 32.2 56.0 
+Joaquim_de_Almeida/T-xk-ZJheAU_0000003 57.9 70.4 

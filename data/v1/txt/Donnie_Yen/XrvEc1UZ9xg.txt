@@ -1,0 +1,11 @@
+POI: 			Donnie_Yen 
+Youtube ID: 	XrvEc1UZ9xg 
+Video length: 	392.4 sec 
+Set (V): 		dev 
+ 
+Donnie_Yen/XrvEc1UZ9xg_0000001 147.0 157.1 
+Donnie_Yen/XrvEc1UZ9xg_0000002 168.6 177.1 
+Donnie_Yen/XrvEc1UZ9xg_0000003 182.5 186.8 
+Donnie_Yen/XrvEc1UZ9xg_0000004 189.0 198.7 
+Donnie_Yen/XrvEc1UZ9xg_0000005 258.6 263.4 
+Donnie_Yen/XrvEc1UZ9xg_0000006 273.4 283.3 

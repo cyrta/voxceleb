@@ -1,0 +1,9 @@
+POI: 			Jacqueline_MacInnes_Wood 
+Youtube ID: 	SFUU3KFABKI 
+Video length: 	322.8 sec 
+Set (V): 		dev 
+ 
+Jacqueline_MacInnes_Wood/SFUU3KFABKI_0000001 55.3 60.2 
+Jacqueline_MacInnes_Wood/SFUU3KFABKI_0000002 72.2 93.2 
+Jacqueline_MacInnes_Wood/SFUU3KFABKI_0000003 181.9 225.2 
+Jacqueline_MacInnes_Wood/SFUU3KFABKI_0000004 252.9 267.8 

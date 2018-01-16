@@ -1,0 +1,10 @@
+POI: 			Taylor_Kitsch 
+Youtube ID: 	kPo1JPCa2ws 
+Video length: 	156.3 sec 
+Set (V): 		dev 
+ 
+Taylor_Kitsch/kPo1JPCa2ws_0000001 44.2 52.2 
+Taylor_Kitsch/kPo1JPCa2ws_0000002 53.1 64.6 
+Taylor_Kitsch/kPo1JPCa2ws_0000003 64.8 69.6 
+Taylor_Kitsch/kPo1JPCa2ws_0000004 115.8 121.3 
+Taylor_Kitsch/kPo1JPCa2ws_0000005 128.4 142.0 

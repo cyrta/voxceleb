@@ -1,0 +1,7 @@
+POI: 			Forest_Whitaker 
+Youtube ID: 	gYPprRaM8jA 
+Video length: 	184.7 sec 
+Set (V): 		dev 
+ 
+Forest_Whitaker/gYPprRaM8jA_0000001 13.9 22.4 
+Forest_Whitaker/gYPprRaM8jA_0000002 33.3 52.8 

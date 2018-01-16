@@ -1,0 +1,9 @@
+POI: 			Tom_Hooper 
+Youtube ID: 	9U8QXa7sO3k 
+Video length: 	119.4 sec 
+Set (V): 		dev 
+ 
+Tom_Hooper/9U8QXa7sO3k_0000001 08.8 13.0 
+Tom_Hooper/9U8QXa7sO3k_0000002 17.1 40.4 
+Tom_Hooper/9U8QXa7sO3k_0000003 78.5 85.6 
+Tom_Hooper/9U8QXa7sO3k_0000004 86.3 94.3 

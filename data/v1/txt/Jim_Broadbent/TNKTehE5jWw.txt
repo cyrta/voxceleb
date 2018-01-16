@@ -1,0 +1,13 @@
+POI: 			Jim_Broadbent 
+Youtube ID: 	TNKTehE5jWw 
+Video length: 	136.5 sec 
+Set (V): 		dev 
+ 
+Jim_Broadbent/TNKTehE5jWw_0000001 02.4 08.4 
+Jim_Broadbent/TNKTehE5jWw_0000002 18.0 22.2 
+Jim_Broadbent/TNKTehE5jWw_0000003 31.7 36.0 
+Jim_Broadbent/TNKTehE5jWw_0000004 37.1 44.7 
+Jim_Broadbent/TNKTehE5jWw_0000005 52.0 56.5 
+Jim_Broadbent/TNKTehE5jWw_0000006 69.0 73.3 
+Jim_Broadbent/TNKTehE5jWw_0000007 93.7 97.7 
+Jim_Broadbent/TNKTehE5jWw_0000008 107.2 112.4 

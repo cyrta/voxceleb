@@ -1,0 +1,17 @@
+POI: 			Tamala_Jones 
+Youtube ID: 	W0CwA2OGUeQ 
+Video length: 	306.1 sec 
+Set (V): 		dev 
+ 
+Tamala_Jones/W0CwA2OGUeQ_0000001 35.2 39.8 
+Tamala_Jones/W0CwA2OGUeQ_0000002 40.8 53.0 
+Tamala_Jones/W0CwA2OGUeQ_0000003 54.7 66.0 
+Tamala_Jones/W0CwA2OGUeQ_0000004 70.2 87.7 
+Tamala_Jones/W0CwA2OGUeQ_0000005 92.7 110.6 
+Tamala_Jones/W0CwA2OGUeQ_0000006 115.6 130.1 
+Tamala_Jones/W0CwA2OGUeQ_0000007 137.3 144.4 
+Tamala_Jones/W0CwA2OGUeQ_0000008 157.6 175.0 
+Tamala_Jones/W0CwA2OGUeQ_0000009 175.6 184.1 
+Tamala_Jones/W0CwA2OGUeQ_0000010 185.1 193.4 
+Tamala_Jones/W0CwA2OGUeQ_0000011 272.9 287.5 
+Tamala_Jones/W0CwA2OGUeQ_0000012 291.9 302.6 

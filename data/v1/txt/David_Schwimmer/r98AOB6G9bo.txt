@@ -1,0 +1,11 @@
+POI: 			David_Schwimmer 
+Youtube ID: 	r98AOB6G9bo 
+Video length: 	250.3 sec 
+Set (V): 		dev 
+ 
+David_Schwimmer/r98AOB6G9bo_0000001 57.8 64.4 
+David_Schwimmer/r98AOB6G9bo_0000002 66.2 71.2 
+David_Schwimmer/r98AOB6G9bo_0000003 71.5 79.2 
+David_Schwimmer/r98AOB6G9bo_0000004 100.1 104.8 
+David_Schwimmer/r98AOB6G9bo_0000005 116.8 121.0 
+David_Schwimmer/r98AOB6G9bo_0000006 133.4 138.2 

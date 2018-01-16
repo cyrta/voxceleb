@@ -1,0 +1,12 @@
+POI: 			Mark_Ruffalo 
+Youtube ID: 	Q42dTZ9I1CA 
+Video length: 	117.7 sec 
+Set (V): 		dev 
+ 
+Mark_Ruffalo/Q42dTZ9I1CA_0000001 04.5 09.2 
+Mark_Ruffalo/Q42dTZ9I1CA_0000002 13.6 19.0 
+Mark_Ruffalo/Q42dTZ9I1CA_0000003 25.8 31.5 
+Mark_Ruffalo/Q42dTZ9I1CA_0000004 44.7 49.8 
+Mark_Ruffalo/Q42dTZ9I1CA_0000005 50.6 58.2 
+Mark_Ruffalo/Q42dTZ9I1CA_0000006 65.1 73.5 
+Mark_Ruffalo/Q42dTZ9I1CA_0000007 75.5 103.8 

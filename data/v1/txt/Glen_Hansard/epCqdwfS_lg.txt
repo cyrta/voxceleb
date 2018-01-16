@@ -1,0 +1,8 @@
+POI: 			Glen_Hansard 
+Youtube ID: 	epCqdwfS_lg 
+Video length: 	506.5 sec 
+Set (V): 		dev 
+ 
+Glen_Hansard/epCqdwfS_lg_0000001 119.8 124.3 
+Glen_Hansard/epCqdwfS_lg_0000002 128.6 133.8 
+Glen_Hansard/epCqdwfS_lg_0000003 373.3 378.5 

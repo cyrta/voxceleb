@@ -1,0 +1,15 @@
+POI: 			Theo_Rossi 
+Youtube ID: 	3miCPMqA5aY 
+Video length: 	428.6 sec 
+Set (V): 		dev 
+ 
+Theo_Rossi/3miCPMqA5aY_0000001 69.6 80.2 
+Theo_Rossi/3miCPMqA5aY_0000002 82.9 89.1 
+Theo_Rossi/3miCPMqA5aY_0000003 107.3 113.7 
+Theo_Rossi/3miCPMqA5aY_0000004 122.9 137.2 
+Theo_Rossi/3miCPMqA5aY_0000005 138.1 151.8 
+Theo_Rossi/3miCPMqA5aY_0000006 204.3 226.3 
+Theo_Rossi/3miCPMqA5aY_0000007 328.4 335.6 
+Theo_Rossi/3miCPMqA5aY_0000008 336.7 341.4 
+Theo_Rossi/3miCPMqA5aY_0000009 343.3 351.1 
+Theo_Rossi/3miCPMqA5aY_0000010 362.8 374.9 

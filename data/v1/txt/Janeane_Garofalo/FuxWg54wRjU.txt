@@ -1,0 +1,20 @@
+POI: 			Janeane_Garofalo 
+Youtube ID: 	FuxWg54wRjU 
+Video length: 	553.6 sec 
+Set (V): 		dev 
+ 
+Janeane_Garofalo/FuxWg54wRjU_0000001 125.3 130.2 
+Janeane_Garofalo/FuxWg54wRjU_0000002 138.7 144.6 
+Janeane_Garofalo/FuxWg54wRjU_0000003 168.3 172.5 
+Janeane_Garofalo/FuxWg54wRjU_0000004 180.6 192.2 
+Janeane_Garofalo/FuxWg54wRjU_0000005 201.5 206.0 
+Janeane_Garofalo/FuxWg54wRjU_0000006 300.5 305.4 
+Janeane_Garofalo/FuxWg54wRjU_0000007 318.9 323.5 
+Janeane_Garofalo/FuxWg54wRjU_0000008 344.4 351.0 
+Janeane_Garofalo/FuxWg54wRjU_0000009 358.6 363.1 
+Janeane_Garofalo/FuxWg54wRjU_0000010 376.4 382.7 
+Janeane_Garofalo/FuxWg54wRjU_0000011 412.6 419.8 
+Janeane_Garofalo/FuxWg54wRjU_0000012 438.7 449.0 
+Janeane_Garofalo/FuxWg54wRjU_0000013 475.4 482.2 
+Janeane_Garofalo/FuxWg54wRjU_0000014 489.0 496.8 
+Janeane_Garofalo/FuxWg54wRjU_0000015 523.7 530.2 

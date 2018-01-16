@@ -1,0 +1,15 @@
+POI: 			Susan_Lucci 
+Youtube ID: 	w6-IAfGqdwo 
+Video length: 	145.1 sec 
+Set (V): 		dev 
+ 
+Susan_Lucci/w6-IAfGqdwo_0000001 07.8 19.2 
+Susan_Lucci/w6-IAfGqdwo_0000002 25.0 32.4 
+Susan_Lucci/w6-IAfGqdwo_0000003 40.1 44.4 
+Susan_Lucci/w6-IAfGqdwo_0000004 46.2 50.5 
+Susan_Lucci/w6-IAfGqdwo_0000005 50.9 57.4 
+Susan_Lucci/w6-IAfGqdwo_0000006 59.3 63.6 
+Susan_Lucci/w6-IAfGqdwo_0000007 75.3 84.4 
+Susan_Lucci/w6-IAfGqdwo_0000008 91.8 109.0 
+Susan_Lucci/w6-IAfGqdwo_0000009 110.8 121.6 
+Susan_Lucci/w6-IAfGqdwo_0000010 122.4 131.4 

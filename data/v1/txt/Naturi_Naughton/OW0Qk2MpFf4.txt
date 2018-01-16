@@ -1,0 +1,7 @@
+POI: 			Naturi_Naughton 
+Youtube ID: 	OW0Qk2MpFf4 
+Video length: 	600.5 sec 
+Set (V): 		dev 
+ 
+Naturi_Naughton/OW0Qk2MpFf4_0000001 90.4 98.0 
+Naturi_Naughton/OW0Qk2MpFf4_0000002 222.6 230.6 

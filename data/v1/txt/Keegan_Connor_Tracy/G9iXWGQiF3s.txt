@@ -1,0 +1,10 @@
+POI: 			Keegan_Connor_Tracy 
+Youtube ID: 	G9iXWGQiF3s 
+Video length: 	414.7 sec 
+Set (V): 		dev 
+ 
+Keegan_Connor_Tracy/G9iXWGQiF3s_0000001 174.6 183.3 
+Keegan_Connor_Tracy/G9iXWGQiF3s_0000002 176.6 183.4 
+Keegan_Connor_Tracy/G9iXWGQiF3s_0000003 194.3 205.4 
+Keegan_Connor_Tracy/G9iXWGQiF3s_0000004 289.3 294.3 
+Keegan_Connor_Tracy/G9iXWGQiF3s_0000005 351.5 364.2 

@@ -1,0 +1,9 @@
+POI: 			Fergie 
+Youtube ID: 	T2fP-CyPcv4 
+Video length: 	137.7 sec 
+Set (V): 		dev 
+ 
+Fergie/T2fP-CyPcv4_0000001 26.6 35.6 
+Fergie/T2fP-CyPcv4_0000002 71.3 76.8 
+Fergie/T2fP-CyPcv4_0000003 77.7 82.5 
+Fergie/T2fP-CyPcv4_0000004 87.0 91.6 

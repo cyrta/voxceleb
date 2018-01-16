@@ -1,0 +1,12 @@
+POI: 			Eric_Braeden 
+Youtube ID: 	3BRezdwX-4I 
+Video length: 	247.1 sec 
+Set (V): 		test 
+ 
+Eric_Braeden/3BRezdwX-4I_0000001 136.7 147.4 
+Eric_Braeden/3BRezdwX-4I_0000002 150.9 155.4 
+Eric_Braeden/3BRezdwX-4I_0000003 167.5 171.5 
+Eric_Braeden/3BRezdwX-4I_0000004 180.8 186.8 
+Eric_Braeden/3BRezdwX-4I_0000005 190.8 194.8 
+Eric_Braeden/3BRezdwX-4I_0000006 210.1 214.6 
+Eric_Braeden/3BRezdwX-4I_0000007 223.8 229.2 

@@ -1,0 +1,25 @@
+POI: 			Russell_Peters 
+Youtube ID: 	hKXxiccJx9c 
+Video length: 	800.1 sec 
+Set (V): 		dev 
+ 
+Russell_Peters/hKXxiccJx9c_0000001 164.3 169.0 
+Russell_Peters/hKXxiccJx9c_0000002 193.9 199.3 
+Russell_Peters/hKXxiccJx9c_0000003 220.6 228.0 
+Russell_Peters/hKXxiccJx9c_0000004 282.0 288.1 
+Russell_Peters/hKXxiccJx9c_0000005 330.1 337.0 
+Russell_Peters/hKXxiccJx9c_0000006 338.7 343.8 
+Russell_Peters/hKXxiccJx9c_0000007 355.5 364.2 
+Russell_Peters/hKXxiccJx9c_0000008 370.4 375.7 
+Russell_Peters/hKXxiccJx9c_0000009 398.2 405.7 
+Russell_Peters/hKXxiccJx9c_0000010 409.6 417.2 
+Russell_Peters/hKXxiccJx9c_0000011 445.0 450.2 
+Russell_Peters/hKXxiccJx9c_0000012 466.4 471.3 
+Russell_Peters/hKXxiccJx9c_0000013 501.7 509.5 
+Russell_Peters/hKXxiccJx9c_0000014 538.8 549.0 
+Russell_Peters/hKXxiccJx9c_0000015 550.7 562.3 
+Russell_Peters/hKXxiccJx9c_0000016 615.6 620.0 
+Russell_Peters/hKXxiccJx9c_0000017 638.7 642.8 
+Russell_Peters/hKXxiccJx9c_0000018 643.7 651.0 
+Russell_Peters/hKXxiccJx9c_0000019 669.0 675.1 
+Russell_Peters/hKXxiccJx9c_0000020 721.4 728.5 

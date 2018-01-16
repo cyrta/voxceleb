@@ -1,0 +1,14 @@
+POI: 			Marla_Gibbs 
+Youtube ID: 	3f7Ztg99cXI 
+Video length: 	138.9 sec 
+Set (V): 		dev 
+ 
+Marla_Gibbs/3f7Ztg99cXI_0000001 22.5 35.4 
+Marla_Gibbs/3f7Ztg99cXI_0000002 40.6 46.0 
+Marla_Gibbs/3f7Ztg99cXI_0000003 46.8 59.4 
+Marla_Gibbs/3f7Ztg99cXI_0000004 70.1 76.2 
+Marla_Gibbs/3f7Ztg99cXI_0000005 76.4 84.4 
+Marla_Gibbs/3f7Ztg99cXI_0000006 85.5 90.3 
+Marla_Gibbs/3f7Ztg99cXI_0000007 97.7 102.5 
+Marla_Gibbs/3f7Ztg99cXI_0000008 103.1 107.8 
+Marla_Gibbs/3f7Ztg99cXI_0000009 123.1 128.0 

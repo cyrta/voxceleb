@@ -1,0 +1,7 @@
+POI: 			Zac_Efron 
+Youtube ID: 	HNWmXLB0g0w 
+Video length: 	284.9 sec 
+Set (V): 		dev 
+ 
+Zac_Efron/HNWmXLB0g0w_0000001 203.7 208.0 
+Zac_Efron/HNWmXLB0g0w_0000002 231.5 240.8 

@@ -1,0 +1,8 @@
+POI: 			Sarah_Gadon 
+Youtube ID: 	TwBqmq2wWHE 
+Video length: 	319.3 sec 
+Set (V): 		dev 
+ 
+Sarah_Gadon/TwBqmq2wWHE_0000001 25.1 34.2 
+Sarah_Gadon/TwBqmq2wWHE_0000002 67.0 74.9 
+Sarah_Gadon/TwBqmq2wWHE_0000003 204.0 218.7 

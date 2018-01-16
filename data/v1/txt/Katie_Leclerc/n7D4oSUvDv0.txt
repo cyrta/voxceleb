@@ -1,0 +1,21 @@
+POI: 			Katie_Leclerc 
+Youtube ID: 	n7D4oSUvDv0 
+Video length: 	396.4 sec 
+Set (V): 		dev 
+ 
+Katie_Leclerc/n7D4oSUvDv0_0000001 19.2 31.1 
+Katie_Leclerc/n7D4oSUvDv0_0000002 40.2 50.3 
+Katie_Leclerc/n7D4oSUvDv0_0000003 51.0 57.3 
+Katie_Leclerc/n7D4oSUvDv0_0000004 59.3 76.4 
+Katie_Leclerc/n7D4oSUvDv0_0000005 77.6 86.9 
+Katie_Leclerc/n7D4oSUvDv0_0000006 118.1 137.4 
+Katie_Leclerc/n7D4oSUvDv0_0000007 165.2 178.4 
+Katie_Leclerc/n7D4oSUvDv0_0000008 179.2 187.9 
+Katie_Leclerc/n7D4oSUvDv0_0000009 203.8 217.0 
+Katie_Leclerc/n7D4oSUvDv0_0000010 230.0 235.6 
+Katie_Leclerc/n7D4oSUvDv0_0000011 236.1 240.6 
+Katie_Leclerc/n7D4oSUvDv0_0000012 241.6 248.9 
+Katie_Leclerc/n7D4oSUvDv0_0000013 273.0 277.3 
+Katie_Leclerc/n7D4oSUvDv0_0000014 279.7 290.6 
+Katie_Leclerc/n7D4oSUvDv0_0000015 307.5 311.9 
+Katie_Leclerc/n7D4oSUvDv0_0000016 333.1 351.0 

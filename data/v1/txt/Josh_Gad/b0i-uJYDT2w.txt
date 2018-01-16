@@ -1,0 +1,16 @@
+POI: 			Josh_Gad 
+Youtube ID: 	b0i-uJYDT2w 
+Video length: 	209.6 sec 
+Set (V): 		dev 
+ 
+Josh_Gad/b0i-uJYDT2w_0000001 11.4 17.2 
+Josh_Gad/b0i-uJYDT2w_0000002 36.6 47.0 
+Josh_Gad/b0i-uJYDT2w_0000003 49.8 56.4 
+Josh_Gad/b0i-uJYDT2w_0000004 58.4 65.8 
+Josh_Gad/b0i-uJYDT2w_0000005 91.8 99.0 
+Josh_Gad/b0i-uJYDT2w_0000006 102.9 109.7 
+Josh_Gad/b0i-uJYDT2w_0000007 74.9 79.2 
+Josh_Gad/b0i-uJYDT2w_0000008 114.2 129.2 
+Josh_Gad/b0i-uJYDT2w_0000009 148.8 157.5 
+Josh_Gad/b0i-uJYDT2w_0000010 158.2 166.2 
+Josh_Gad/b0i-uJYDT2w_0000011 188.0 192.3 

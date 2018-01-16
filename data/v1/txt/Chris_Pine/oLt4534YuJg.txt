@@ -1,0 +1,7 @@
+POI: 			Chris_Pine 
+Youtube ID: 	oLt4534YuJg 
+Video length: 	251.5 sec 
+Set (V): 		dev 
+ 
+Chris_Pine/oLt4534YuJg_0000001 148.5 156.0 
+Chris_Pine/oLt4534YuJg_0000002 208.6 212.7 

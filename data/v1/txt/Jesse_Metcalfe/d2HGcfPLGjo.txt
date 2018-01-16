@@ -1,0 +1,12 @@
+POI: 			Jesse_Metcalfe 
+Youtube ID: 	d2HGcfPLGjo 
+Video length: 	271.2 sec 
+Set (V): 		dev 
+ 
+Jesse_Metcalfe/d2HGcfPLGjo_0000001 50.0 57.2 
+Jesse_Metcalfe/d2HGcfPLGjo_0000002 73.8 79.5 
+Jesse_Metcalfe/d2HGcfPLGjo_0000003 100.8 104.8 
+Jesse_Metcalfe/d2HGcfPLGjo_0000004 169.0 173.9 
+Jesse_Metcalfe/d2HGcfPLGjo_0000005 181.7 186.9 
+Jesse_Metcalfe/d2HGcfPLGjo_0000006 213.2 223.2 
+Jesse_Metcalfe/d2HGcfPLGjo_0000007 242.6 248.3 

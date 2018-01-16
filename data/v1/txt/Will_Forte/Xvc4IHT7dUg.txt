@@ -1,0 +1,9 @@
+POI: 			Will_Forte 
+Youtube ID: 	Xvc4IHT7dUg 
+Video length: 	298.5 sec 
+Set (V): 		dev 
+ 
+Will_Forte/Xvc4IHT7dUg_0000001 45.6 50.2 
+Will_Forte/Xvc4IHT7dUg_0000002 120.8 125.8 
+Will_Forte/Xvc4IHT7dUg_0000003 148.2 152.8 
+Will_Forte/Xvc4IHT7dUg_0000004 170.6 179.0 

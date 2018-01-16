@@ -1,0 +1,23 @@
+POI: 			Jennette_McCurdy 
+Youtube ID: 	ssCWAalFYYY 
+Video length: 	287.6 sec 
+Set (V): 		dev 
+ 
+Jennette_McCurdy/ssCWAalFYYY_0000001 31.1 39.2 
+Jennette_McCurdy/ssCWAalFYYY_0000002 39.3 44.3 
+Jennette_McCurdy/ssCWAalFYYY_0000003 47.6 55.0 
+Jennette_McCurdy/ssCWAalFYYY_0000004 55.1 63.7 
+Jennette_McCurdy/ssCWAalFYYY_0000005 66.9 74.4 
+Jennette_McCurdy/ssCWAalFYYY_0000006 76.9 88.6 
+Jennette_McCurdy/ssCWAalFYYY_0000007 93.5 98.1 
+Jennette_McCurdy/ssCWAalFYYY_0000008 99.2 107.8 
+Jennette_McCurdy/ssCWAalFYYY_0000009 117.4 122.8 
+Jennette_McCurdy/ssCWAalFYYY_0000010 123.5 128.1 
+Jennette_McCurdy/ssCWAalFYYY_0000011 133.1 140.4 
+Jennette_McCurdy/ssCWAalFYYY_0000012 150.1 156.0 
+Jennette_McCurdy/ssCWAalFYYY_0000013 158.7 166.0 
+Jennette_McCurdy/ssCWAalFYYY_0000014 168.3 175.2 
+Jennette_McCurdy/ssCWAalFYYY_0000015 189.3 197.0 
+Jennette_McCurdy/ssCWAalFYYY_0000016 208.6 212.8 
+Jennette_McCurdy/ssCWAalFYYY_0000017 233.3 242.1 
+Jennette_McCurdy/ssCWAalFYYY_0000018 254.5 261.0 

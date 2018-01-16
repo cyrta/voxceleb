@@ -1,0 +1,17 @@
+POI: 			Simon_Callow 
+Youtube ID: 	QsrfS2_9Qec 
+Video length: 	209.3 sec 
+Set (V): 		dev 
+ 
+Simon_Callow/QsrfS2_9Qec_0000001 16.1 31.7 
+Simon_Callow/QsrfS2_9Qec_0000002 39.1 48.0 
+Simon_Callow/QsrfS2_9Qec_0000003 65.4 73.5 
+Simon_Callow/QsrfS2_9Qec_0000004 88.4 93.8 
+Simon_Callow/QsrfS2_9Qec_0000005 98.3 103.7 
+Simon_Callow/QsrfS2_9Qec_0000006 108.7 116.7 
+Simon_Callow/QsrfS2_9Qec_0000007 122.0 126.8 
+Simon_Callow/QsrfS2_9Qec_0000008 136.2 141.4 
+Simon_Callow/QsrfS2_9Qec_0000009 151.7 156.9 
+Simon_Callow/QsrfS2_9Qec_0000010 163.6 171.1 
+Simon_Callow/QsrfS2_9Qec_0000011 174.9 180.6 
+Simon_Callow/QsrfS2_9Qec_0000012 185.1 190.0 

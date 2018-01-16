@@ -1,0 +1,9 @@
+POI: 			Kate_Beckinsale 
+Youtube ID: 	9McVwT6Ew9w 
+Video length: 	237.0 sec 
+Set (V): 		dev 
+ 
+Kate_Beckinsale/9McVwT6Ew9w_0000001 23.7 29.6 
+Kate_Beckinsale/9McVwT6Ew9w_0000002 30.4 51.5 
+Kate_Beckinsale/9McVwT6Ew9w_0000003 59.7 70.2 
+Kate_Beckinsale/9McVwT6Ew9w_0000004 114.1 124.3 

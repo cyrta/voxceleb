@@ -1,0 +1,13 @@
+POI: 			Hal_Sparks 
+Youtube ID: 	Svr2wx2nOH0 
+Video length: 	106.7 sec 
+Set (V): 		dev 
+ 
+Hal_Sparks/Svr2wx2nOH0_0000001 03.6 18.3 
+Hal_Sparks/Svr2wx2nOH0_0000002 26.4 32.8 
+Hal_Sparks/Svr2wx2nOH0_0000003 33.2 49.8 
+Hal_Sparks/Svr2wx2nOH0_0000004 50.4 55.0 
+Hal_Sparks/Svr2wx2nOH0_0000005 59.0 67.9 
+Hal_Sparks/Svr2wx2nOH0_0000006 72.0 79.8 
+Hal_Sparks/Svr2wx2nOH0_0000007 72.0 81.6 
+Hal_Sparks/Svr2wx2nOH0_0000008 91.4 101.3 

@@ -1,0 +1,8 @@
+POI: 			Brian_Cox 
+Youtube ID: 	f1exqKysHKA 
+Video length: 	81.3 sec 
+Set (V): 		dev 
+ 
+Brian_Cox/f1exqKysHKA_0000001 07.7 15.4 
+Brian_Cox/f1exqKysHKA_0000002 33.0 37.0 
+Brian_Cox/f1exqKysHKA_0000003 40.3 45.2 

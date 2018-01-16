@@ -1,0 +1,11 @@
+POI: 			Jeremy_Shada 
+Youtube ID: 	NbLp9-dxGjI 
+Video length: 	271.3 sec 
+Set (V): 		dev 
+ 
+Jeremy_Shada/NbLp9-dxGjI_0000001 28.5 32.7 
+Jeremy_Shada/NbLp9-dxGjI_0000002 34.9 39.2 
+Jeremy_Shada/NbLp9-dxGjI_0000003 64.6 72.9 
+Jeremy_Shada/NbLp9-dxGjI_0000004 77.3 82.2 
+Jeremy_Shada/NbLp9-dxGjI_0000005 146.6 150.9 
+Jeremy_Shada/NbLp9-dxGjI_0000006 230.8 235.6 

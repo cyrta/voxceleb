@@ -1,0 +1,8 @@
+POI: 			Ken_Jeong 
+Youtube ID: 	p9wMInJ0-AA 
+Video length: 	150.6 sec 
+Set (V): 		dev 
+ 
+Ken_Jeong/p9wMInJ0-AA_0000001 15.8 22.8 
+Ken_Jeong/p9wMInJ0-AA_0000002 111.5 126.2 
+Ken_Jeong/p9wMInJ0-AA_0000003 124.2 129.6 

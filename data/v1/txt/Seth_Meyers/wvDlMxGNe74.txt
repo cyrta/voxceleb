@@ -1,0 +1,14 @@
+POI: 			Seth_Meyers 
+Youtube ID: 	wvDlMxGNe74 
+Video length: 	330.8 sec 
+Set (V): 		dev 
+ 
+Seth_Meyers/wvDlMxGNe74_0000001 07.7 20.2 
+Seth_Meyers/wvDlMxGNe74_0000002 28.0 36.9 
+Seth_Meyers/wvDlMxGNe74_0000003 38.7 42.6 
+Seth_Meyers/wvDlMxGNe74_0000004 187.1 225.3 
+Seth_Meyers/wvDlMxGNe74_0000005 227.2 232.7 
+Seth_Meyers/wvDlMxGNe74_0000006 261.9 266.4 
+Seth_Meyers/wvDlMxGNe74_0000007 282.1 293.4 
+Seth_Meyers/wvDlMxGNe74_0000008 295.2 299.4 
+Seth_Meyers/wvDlMxGNe74_0000009 310.9 314.9 

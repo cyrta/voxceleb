@@ -1,0 +1,11 @@
+POI: 			Katheryn_Winnick 
+Youtube ID: 	UqxeP060-to 
+Video length: 	629.5 sec 
+Set (V): 		dev 
+ 
+Katheryn_Winnick/UqxeP060-to_0000001 147.3 162.9 
+Katheryn_Winnick/UqxeP060-to_0000002 467.4 472.1 
+Katheryn_Winnick/UqxeP060-to_0000003 479.8 507.7 
+Katheryn_Winnick/UqxeP060-to_0000004 507.9 516.5 
+Katheryn_Winnick/UqxeP060-to_0000005 532.9 537.9 
+Katheryn_Winnick/UqxeP060-to_0000006 550.8 557.8 

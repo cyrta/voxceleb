@@ -1,0 +1,12 @@
+POI: 			Helena_Bonham_Carter 
+Youtube ID: 	NlpCCCaqJ9I 
+Video length: 	351.2 sec 
+Set (V): 		dev 
+ 
+Helena_Bonham_Carter/NlpCCCaqJ9I_0000001 49.1 54.0 
+Helena_Bonham_Carter/NlpCCCaqJ9I_0000002 54.4 59.9 
+Helena_Bonham_Carter/NlpCCCaqJ9I_0000003 112.4 117.0 
+Helena_Bonham_Carter/NlpCCCaqJ9I_0000004 141.3 148.6 
+Helena_Bonham_Carter/NlpCCCaqJ9I_0000005 208.1 212.5 
+Helena_Bonham_Carter/NlpCCCaqJ9I_0000006 231.4 235.4 
+Helena_Bonham_Carter/NlpCCCaqJ9I_0000007 292.4 298.1 

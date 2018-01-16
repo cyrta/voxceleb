@@ -1,0 +1,30 @@
+POI: 			Greer_Garson 
+Youtube ID: 	htGoC9IiAPc 
+Video length: 	467.5 sec 
+Set (V): 		dev 
+ 
+Greer_Garson/htGoC9IiAPc_0000001 04.5 17.5 
+Greer_Garson/htGoC9IiAPc_0000002 18.4 24.3 
+Greer_Garson/htGoC9IiAPc_0000003 29.9 34.7 
+Greer_Garson/htGoC9IiAPc_0000004 51.6 55.8 
+Greer_Garson/htGoC9IiAPc_0000005 57.4 61.8 
+Greer_Garson/htGoC9IiAPc_0000006 69.9 76.4 
+Greer_Garson/htGoC9IiAPc_0000007 83.8 104.7 
+Greer_Garson/htGoC9IiAPc_0000008 133.4 137.5 
+Greer_Garson/htGoC9IiAPc_0000009 144.5 154.3 
+Greer_Garson/htGoC9IiAPc_0000010 188.9 193.5 
+Greer_Garson/htGoC9IiAPc_0000011 201.3 206.1 
+Greer_Garson/htGoC9IiAPc_0000012 208.1 213.6 
+Greer_Garson/htGoC9IiAPc_0000013 215.6 223.0 
+Greer_Garson/htGoC9IiAPc_0000014 224.8 230.5 
+Greer_Garson/htGoC9IiAPc_0000015 235.4 249.1 
+Greer_Garson/htGoC9IiAPc_0000016 259.4 264.3 
+Greer_Garson/htGoC9IiAPc_0000017 289.3 295.0 
+Greer_Garson/htGoC9IiAPc_0000018 333.0 339.9 
+Greer_Garson/htGoC9IiAPc_0000019 350.5 356.2 
+Greer_Garson/htGoC9IiAPc_0000020 366.5 374.6 
+Greer_Garson/htGoC9IiAPc_0000021 376.6 388.2 
+Greer_Garson/htGoC9IiAPc_0000022 403.2 413.3 
+Greer_Garson/htGoC9IiAPc_0000023 417.9 425.4 
+Greer_Garson/htGoC9IiAPc_0000024 430.3 434.5 
+Greer_Garson/htGoC9IiAPc_0000025 442.2 447.6 

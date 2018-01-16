@@ -1,0 +1,12 @@
+POI: 			Tilda_Swinton 
+Youtube ID: 	t8o-REQhclo 
+Video length: 	220.0 sec 
+Set (V): 		dev 
+ 
+Tilda_Swinton/t8o-REQhclo_0000001 25.4 34.5 
+Tilda_Swinton/t8o-REQhclo_0000002 34.7 41.4 
+Tilda_Swinton/t8o-REQhclo_0000003 100.1 106.2 
+Tilda_Swinton/t8o-REQhclo_0000004 111.3 117.9 
+Tilda_Swinton/t8o-REQhclo_0000005 129.0 134.7 
+Tilda_Swinton/t8o-REQhclo_0000006 163.3 178.4 
+Tilda_Swinton/t8o-REQhclo_0000007 181.0 187.0 

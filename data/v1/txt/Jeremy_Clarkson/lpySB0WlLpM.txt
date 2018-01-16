@@ -1,0 +1,10 @@
+POI: 			Jeremy_Clarkson 
+Youtube ID: 	lpySB0WlLpM 
+Video length: 	253.9 sec 
+Set (V): 		dev 
+ 
+Jeremy_Clarkson/lpySB0WlLpM_0000001 28.2 35.6 
+Jeremy_Clarkson/lpySB0WlLpM_0000002 92.8 111.4 
+Jeremy_Clarkson/lpySB0WlLpM_0000003 153.1 158.9 
+Jeremy_Clarkson/lpySB0WlLpM_0000004 177.2 182.4 
+Jeremy_Clarkson/lpySB0WlLpM_0000005 184.1 190.1 

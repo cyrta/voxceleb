@@ -1,0 +1,19 @@
+POI: 			Mary_McDonnell 
+Youtube ID: 	Yh4FbOwv0NU 
+Video length: 	278.4 sec 
+Set (V): 		dev 
+ 
+Mary_McDonnell/Yh4FbOwv0NU_0000001 23.2 30.0 
+Mary_McDonnell/Yh4FbOwv0NU_0000002 32.6 37.9 
+Mary_McDonnell/Yh4FbOwv0NU_0000003 38.8 52.4 
+Mary_McDonnell/Yh4FbOwv0NU_0000004 52.5 57.9 
+Mary_McDonnell/Yh4FbOwv0NU_0000005 73.1 90.4 
+Mary_McDonnell/Yh4FbOwv0NU_0000006 93.3 104.6 
+Mary_McDonnell/Yh4FbOwv0NU_0000007 96.2 104.8 
+Mary_McDonnell/Yh4FbOwv0NU_0000008 132.7 153.0 
+Mary_McDonnell/Yh4FbOwv0NU_0000009 176.7 188.7 
+Mary_McDonnell/Yh4FbOwv0NU_0000010 189.4 195.6 
+Mary_McDonnell/Yh4FbOwv0NU_0000011 198.5 208.4 
+Mary_McDonnell/Yh4FbOwv0NU_0000012 226.6 230.8 
+Mary_McDonnell/Yh4FbOwv0NU_0000013 232.6 245.8 
+Mary_McDonnell/Yh4FbOwv0NU_0000014 248.9 256.8 

@@ -1,0 +1,8 @@
+POI: 			Greta_Gerwig 
+Youtube ID: 	BAmZQzqFHwg 
+Video length: 	735.1 sec 
+Set (V): 		dev 
+ 
+Greta_Gerwig/BAmZQzqFHwg_0000001 227.7 233.0 
+Greta_Gerwig/BAmZQzqFHwg_0000002 252.6 257.3 
+Greta_Gerwig/BAmZQzqFHwg_0000003 555.0 559.1 

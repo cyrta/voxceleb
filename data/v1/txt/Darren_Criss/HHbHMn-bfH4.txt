@@ -1,0 +1,8 @@
+POI: 			Darren_Criss 
+Youtube ID: 	HHbHMn-bfH4 
+Video length: 	152.9 sec 
+Set (V): 		dev 
+ 
+Darren_Criss/HHbHMn-bfH4_0000001 57.8 63.0 
+Darren_Criss/HHbHMn-bfH4_0000002 81.8 98.0 
+Darren_Criss/HHbHMn-bfH4_0000003 101.1 111.8 

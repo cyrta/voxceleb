@@ -1,0 +1,15 @@
+POI: 			Lucas_Cruikshank 
+Youtube ID: 	UvK9oa_fTtA 
+Video length: 	522.1 sec 
+Set (V): 		dev 
+ 
+Lucas_Cruikshank/UvK9oa_fTtA_0000001 20.8 25.1 
+Lucas_Cruikshank/UvK9oa_fTtA_0000002 41.1 45.1 
+Lucas_Cruikshank/UvK9oa_fTtA_0000003 61.7 67.0 
+Lucas_Cruikshank/UvK9oa_fTtA_0000004 75.0 80.5 
+Lucas_Cruikshank/UvK9oa_fTtA_0000005 94.3 104.5 
+Lucas_Cruikshank/UvK9oa_fTtA_0000006 119.0 124.1 
+Lucas_Cruikshank/UvK9oa_fTtA_0000007 189.2 196.7 
+Lucas_Cruikshank/UvK9oa_fTtA_0000008 225.2 234.4 
+Lucas_Cruikshank/UvK9oa_fTtA_0000009 359.6 366.8 
+Lucas_Cruikshank/UvK9oa_fTtA_0000010 393.2 398.8 

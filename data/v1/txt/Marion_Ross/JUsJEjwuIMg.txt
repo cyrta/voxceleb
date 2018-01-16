@@ -1,0 +1,9 @@
+POI: 			Marion_Ross 
+Youtube ID: 	JUsJEjwuIMg 
+Video length: 	331.0 sec 
+Set (V): 		dev 
+ 
+Marion_Ross/JUsJEjwuIMg_0000001 89.7 94.9 
+Marion_Ross/JUsJEjwuIMg_0000002 124.2 129.4 
+Marion_Ross/JUsJEjwuIMg_0000003 145.6 150.2 
+Marion_Ross/JUsJEjwuIMg_0000004 191.4 198.4 

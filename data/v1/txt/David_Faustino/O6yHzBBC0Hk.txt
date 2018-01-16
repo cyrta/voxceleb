@@ -1,0 +1,12 @@
+POI: 			David_Faustino 
+Youtube ID: 	O6yHzBBC0Hk 
+Video length: 	223.8 sec 
+Set (V): 		dev 
+ 
+David_Faustino/O6yHzBBC0Hk_0000001 43.2 51.8 
+David_Faustino/O6yHzBBC0Hk_0000002 80.3 87.0 
+David_Faustino/O6yHzBBC0Hk_0000003 103.8 108.0 
+David_Faustino/O6yHzBBC0Hk_0000004 122.7 127.2 
+David_Faustino/O6yHzBBC0Hk_0000005 146.5 158.3 
+David_Faustino/O6yHzBBC0Hk_0000006 161.0 165.0 
+David_Faustino/O6yHzBBC0Hk_0000007 180.7 189.3 

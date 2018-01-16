@@ -1,0 +1,10 @@
+POI: 			Will_Poulter 
+Youtube ID: 	TaJk-3I0e1w 
+Video length: 	166.5 sec 
+Set (V): 		dev 
+ 
+Will_Poulter/TaJk-3I0e1w_0000001 02.6 08.0 
+Will_Poulter/TaJk-3I0e1w_0000002 28.7 33.3 
+Will_Poulter/TaJk-3I0e1w_0000003 42.6 48.5 
+Will_Poulter/TaJk-3I0e1w_0000004 136.5 140.6 
+Will_Poulter/TaJk-3I0e1w_0000005 150.5 160.8 

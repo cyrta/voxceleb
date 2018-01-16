@@ -1,0 +1,12 @@
+POI: 			Corbin_Bleu 
+Youtube ID: 	fXwfYa_uUZw 
+Video length: 	356.6 sec 
+Set (V): 		dev 
+ 
+Corbin_Bleu/fXwfYa_uUZw_0000001 101.4 105.4 
+Corbin_Bleu/fXwfYa_uUZw_0000002 207.1 212.7 
+Corbin_Bleu/fXwfYa_uUZw_0000003 214.0 218.3 
+Corbin_Bleu/fXwfYa_uUZw_0000004 226.0 235.0 
+Corbin_Bleu/fXwfYa_uUZw_0000005 266.6 276.6 
+Corbin_Bleu/fXwfYa_uUZw_0000006 277.0 281.6 
+Corbin_Bleu/fXwfYa_uUZw_0000007 291.8 296.2 

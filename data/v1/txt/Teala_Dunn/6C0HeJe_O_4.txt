@@ -1,0 +1,9 @@
+POI: 			Teala_Dunn 
+Youtube ID: 	6C0HeJe_O_4 
+Video length: 	109.5 sec 
+Set (V): 		dev 
+ 
+Teala_Dunn/6C0HeJe_O_4_0000001 12.7 16.7 
+Teala_Dunn/6C0HeJe_O_4_0000002 44.4 59.5 
+Teala_Dunn/6C0HeJe_O_4_0000003 81.9 87.8 
+Teala_Dunn/6C0HeJe_O_4_0000004 97.5 103.2 

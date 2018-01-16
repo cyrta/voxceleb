@@ -1,0 +1,11 @@
+POI: 			Shohreh_Aghdashloo 
+Youtube ID: 	vSBm1em2_74 
+Video length: 	87.3 sec 
+Set (V): 		dev 
+ 
+Shohreh_Aghdashloo/vSBm1em2_74_0000001 10.3 14.5 
+Shohreh_Aghdashloo/vSBm1em2_74_0000002 22.7 29.2 
+Shohreh_Aghdashloo/vSBm1em2_74_0000003 33.8 44.5 
+Shohreh_Aghdashloo/vSBm1em2_74_0000004 48.6 59.2 
+Shohreh_Aghdashloo/vSBm1em2_74_0000005 63.1 71.5 
+Shohreh_Aghdashloo/vSBm1em2_74_0000006 71.9 77.1 

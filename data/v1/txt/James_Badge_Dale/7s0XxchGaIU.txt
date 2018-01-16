@@ -1,0 +1,22 @@
+POI: 			James_Badge_Dale 
+Youtube ID: 	7s0XxchGaIU 
+Video length: 	326.4 sec 
+Set (V): 		dev 
+ 
+James_Badge_Dale/7s0XxchGaIU_0000001 18.0 30.2 
+James_Badge_Dale/7s0XxchGaIU_0000002 32.4 59.4 
+James_Badge_Dale/7s0XxchGaIU_0000003 78.6 85.9 
+James_Badge_Dale/7s0XxchGaIU_0000004 88.9 99.0 
+James_Badge_Dale/7s0XxchGaIU_0000005 121.2 130.4 
+James_Badge_Dale/7s0XxchGaIU_0000006 131.4 136.7 
+James_Badge_Dale/7s0XxchGaIU_0000007 137.8 142.8 
+James_Badge_Dale/7s0XxchGaIU_0000008 143.6 147.6 
+James_Badge_Dale/7s0XxchGaIU_0000009 163.5 171.3 
+James_Badge_Dale/7s0XxchGaIU_0000010 207.8 212.0 
+James_Badge_Dale/7s0XxchGaIU_0000011 222.0 227.1 
+James_Badge_Dale/7s0XxchGaIU_0000012 227.4 245.9 
+James_Badge_Dale/7s0XxchGaIU_0000013 247.7 252.7 
+James_Badge_Dale/7s0XxchGaIU_0000014 258.1 269.0 
+James_Badge_Dale/7s0XxchGaIU_0000015 281.8 293.8 
+James_Badge_Dale/7s0XxchGaIU_0000016 294.4 298.7 
+James_Badge_Dale/7s0XxchGaIU_0000017 300.2 307.1 

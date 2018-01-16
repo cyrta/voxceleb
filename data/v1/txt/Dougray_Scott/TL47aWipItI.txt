@@ -1,0 +1,12 @@
+POI: 			Dougray_Scott 
+Youtube ID: 	TL47aWipItI 
+Video length: 	462.1 sec 
+Set (V): 		dev 
+ 
+Dougray_Scott/TL47aWipItI_0000001 23.5 29.0 
+Dougray_Scott/TL47aWipItI_0000002 29.4 37.9 
+Dougray_Scott/TL47aWipItI_0000003 46.4 50.9 
+Dougray_Scott/TL47aWipItI_0000004 73.9 78.0 
+Dougray_Scott/TL47aWipItI_0000005 290.7 294.9 
+Dougray_Scott/TL47aWipItI_0000006 353.2 360.0 
+Dougray_Scott/TL47aWipItI_0000007 389.7 393.9 

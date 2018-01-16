@@ -1,0 +1,30 @@
+POI: 			Akshay_Kumar 
+Youtube ID: 	9tu4uaM0YTc 
+Video length: 	637.4 sec 
+Set (V): 		dev 
+ 
+Akshay_Kumar/9tu4uaM0YTc_0000001 32.9 38.1 
+Akshay_Kumar/9tu4uaM0YTc_0000002 52.4 58.9 
+Akshay_Kumar/9tu4uaM0YTc_0000003 60.0 65.3 
+Akshay_Kumar/9tu4uaM0YTc_0000004 76.5 83.8 
+Akshay_Kumar/9tu4uaM0YTc_0000005 93.0 102.9 
+Akshay_Kumar/9tu4uaM0YTc_0000006 105.3 110.7 
+Akshay_Kumar/9tu4uaM0YTc_0000007 111.8 117.5 
+Akshay_Kumar/9tu4uaM0YTc_0000008 167.1 171.0 
+Akshay_Kumar/9tu4uaM0YTc_0000009 171.8 178.9 
+Akshay_Kumar/9tu4uaM0YTc_0000010 183.2 190.9 
+Akshay_Kumar/9tu4uaM0YTc_0000011 198.2 206.1 
+Akshay_Kumar/9tu4uaM0YTc_0000012 210.5 216.7 
+Akshay_Kumar/9tu4uaM0YTc_0000013 346.1 361.5 
+Akshay_Kumar/9tu4uaM0YTc_0000014 364.2 368.6 
+Akshay_Kumar/9tu4uaM0YTc_0000015 392.2 406.5 
+Akshay_Kumar/9tu4uaM0YTc_0000016 407.2 414.2 
+Akshay_Kumar/9tu4uaM0YTc_0000017 424.0 428.0 
+Akshay_Kumar/9tu4uaM0YTc_0000018 467.1 476.8 
+Akshay_Kumar/9tu4uaM0YTc_0000019 482.6 490.4 
+Akshay_Kumar/9tu4uaM0YTc_0000020 492.6 496.8 
+Akshay_Kumar/9tu4uaM0YTc_0000021 514.2 518.4 
+Akshay_Kumar/9tu4uaM0YTc_0000022 566.4 574.3 
+Akshay_Kumar/9tu4uaM0YTc_0000023 581.8 587.8 
+Akshay_Kumar/9tu4uaM0YTc_0000024 593.4 598.3 
+Akshay_Kumar/9tu4uaM0YTc_0000025 605.9 612.6 

@@ -1,0 +1,13 @@
+POI: 			Susan_Lucci 
+Youtube ID: 	QGbIqFhNg14 
+Video length: 	290.5 sec 
+Set (V): 		dev 
+ 
+Susan_Lucci/QGbIqFhNg14_0000001 85.2 89.8 
+Susan_Lucci/QGbIqFhNg14_0000002 107.1 113.6 
+Susan_Lucci/QGbIqFhNg14_0000003 144.0 160.4 
+Susan_Lucci/QGbIqFhNg14_0000004 161.5 168.7 
+Susan_Lucci/QGbIqFhNg14_0000005 191.0 201.4 
+Susan_Lucci/QGbIqFhNg14_0000006 240.3 250.8 
+Susan_Lucci/QGbIqFhNg14_0000007 267.8 273.4 
+Susan_Lucci/QGbIqFhNg14_0000008 273.8 282.0 

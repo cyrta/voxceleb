@@ -1,0 +1,46 @@
+POI: 			Nina_Hoss 
+Youtube ID: 	kAh-Yd0Rmdw 
+Video length: 	749.0 sec 
+Set (V): 		dev 
+ 
+Nina_Hoss/kAh-Yd0Rmdw_0000001 12.9 17.8 
+Nina_Hoss/kAh-Yd0Rmdw_0000002 18.5 23.8 
+Nina_Hoss/kAh-Yd0Rmdw_0000003 24.1 46.3 
+Nina_Hoss/kAh-Yd0Rmdw_0000004 47.5 64.8 
+Nina_Hoss/kAh-Yd0Rmdw_0000005 65.0 72.8 
+Nina_Hoss/kAh-Yd0Rmdw_0000006 80.6 84.9 
+Nina_Hoss/kAh-Yd0Rmdw_0000007 88.4 100.1 
+Nina_Hoss/kAh-Yd0Rmdw_0000008 105.4 111.6 
+Nina_Hoss/kAh-Yd0Rmdw_0000009 130.4 134.7 
+Nina_Hoss/kAh-Yd0Rmdw_0000010 161.0 165.6 
+Nina_Hoss/kAh-Yd0Rmdw_0000011 197.5 201.8 
+Nina_Hoss/kAh-Yd0Rmdw_0000012 206.7 214.1 
+Nina_Hoss/kAh-Yd0Rmdw_0000013 215.3 220.1 
+Nina_Hoss/kAh-Yd0Rmdw_0000014 222.6 230.9 
+Nina_Hoss/kAh-Yd0Rmdw_0000015 232.7 249.3 
+Nina_Hoss/kAh-Yd0Rmdw_0000016 270.4 275.2 
+Nina_Hoss/kAh-Yd0Rmdw_0000017 280.2 290.2 
+Nina_Hoss/kAh-Yd0Rmdw_0000018 322.1 329.8 
+Nina_Hoss/kAh-Yd0Rmdw_0000019 336.4 345.2 
+Nina_Hoss/kAh-Yd0Rmdw_0000020 361.0 365.4 
+Nina_Hoss/kAh-Yd0Rmdw_0000021 374.1 383.1 
+Nina_Hoss/kAh-Yd0Rmdw_0000022 406.7 415.0 
+Nina_Hoss/kAh-Yd0Rmdw_0000023 421.4 434.2 
+Nina_Hoss/kAh-Yd0Rmdw_0000024 438.3 446.5 
+Nina_Hoss/kAh-Yd0Rmdw_0000025 451.1 455.6 
+Nina_Hoss/kAh-Yd0Rmdw_0000026 457.3 461.3 
+Nina_Hoss/kAh-Yd0Rmdw_0000027 462.4 467.5 
+Nina_Hoss/kAh-Yd0Rmdw_0000028 478.2 485.7 
+Nina_Hoss/kAh-Yd0Rmdw_0000029 497.1 501.9 
+Nina_Hoss/kAh-Yd0Rmdw_0000030 509.9 520.2 
+Nina_Hoss/kAh-Yd0Rmdw_0000031 530.1 536.5 
+Nina_Hoss/kAh-Yd0Rmdw_0000032 539.5 543.9 
+Nina_Hoss/kAh-Yd0Rmdw_0000033 550.1 555.9 
+Nina_Hoss/kAh-Yd0Rmdw_0000034 574.8 580.4 
+Nina_Hoss/kAh-Yd0Rmdw_0000035 609.6 621.7 
+Nina_Hoss/kAh-Yd0Rmdw_0000036 625.6 633.9 
+Nina_Hoss/kAh-Yd0Rmdw_0000037 637.0 642.3 
+Nina_Hoss/kAh-Yd0Rmdw_0000038 658.5 666.7 
+Nina_Hoss/kAh-Yd0Rmdw_0000039 675.2 680.3 
+Nina_Hoss/kAh-Yd0Rmdw_0000040 680.5 694.1 
+Nina_Hoss/kAh-Yd0Rmdw_0000041 714.5 722.6 

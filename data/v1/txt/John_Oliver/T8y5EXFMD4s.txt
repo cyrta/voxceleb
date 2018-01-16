@@ -1,0 +1,11 @@
+POI: 			John_Oliver 
+Youtube ID: 	T8y5EXFMD4s 
+Video length: 	365.3 sec 
+Set (V): 		dev 
+ 
+John_Oliver/T8y5EXFMD4s_0000001 141.0 150.0 
+John_Oliver/T8y5EXFMD4s_0000002 156.9 162.0 
+John_Oliver/T8y5EXFMD4s_0000003 176.0 180.5 
+John_Oliver/T8y5EXFMD4s_0000004 216.6 221.3 
+John_Oliver/T8y5EXFMD4s_0000005 226.8 233.7 
+John_Oliver/T8y5EXFMD4s_0000006 325.5 330.0 

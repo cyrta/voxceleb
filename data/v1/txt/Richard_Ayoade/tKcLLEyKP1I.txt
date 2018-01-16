@@ -1,0 +1,9 @@
+POI: 			Richard_Ayoade 
+Youtube ID: 	tKcLLEyKP1I 
+Video length: 	73.8 sec 
+Set (V): 		dev 
+ 
+Richard_Ayoade/tKcLLEyKP1I_0000001 09.4 13.4 
+Richard_Ayoade/tKcLLEyKP1I_0000002 13.9 20.6 
+Richard_Ayoade/tKcLLEyKP1I_0000003 45.3 53.4 
+Richard_Ayoade/tKcLLEyKP1I_0000004 57.2 64.7 

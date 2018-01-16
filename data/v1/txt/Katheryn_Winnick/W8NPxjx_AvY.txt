@@ -1,0 +1,13 @@
+POI: 			Katheryn_Winnick 
+Youtube ID: 	W8NPxjx_AvY 
+Video length: 	269.0 sec 
+Set (V): 		dev 
+ 
+Katheryn_Winnick/W8NPxjx_AvY_0000001 37.3 43.4 
+Katheryn_Winnick/W8NPxjx_AvY_0000002 55.6 61.1 
+Katheryn_Winnick/W8NPxjx_AvY_0000003 97.8 111.4 
+Katheryn_Winnick/W8NPxjx_AvY_0000004 128.9 159.2 
+Katheryn_Winnick/W8NPxjx_AvY_0000005 164.0 196.4 
+Katheryn_Winnick/W8NPxjx_AvY_0000006 211.4 220.1 
+Katheryn_Winnick/W8NPxjx_AvY_0000007 222.7 235.1 
+Katheryn_Winnick/W8NPxjx_AvY_0000008 243.7 260.6 

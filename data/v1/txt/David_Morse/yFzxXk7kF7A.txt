@@ -1,0 +1,7 @@
+POI: 			David_Morse 
+Youtube ID: 	yFzxXk7kF7A 
+Video length: 	479.7 sec 
+Set (V): 		dev 
+ 
+David_Morse/yFzxXk7kF7A_0000001 19.7 24.0 
+David_Morse/yFzxXk7kF7A_0000002 171.6 175.6 

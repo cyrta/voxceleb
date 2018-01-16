@@ -1,0 +1,13 @@
+POI: 			Emile_Hirsch 
+Youtube ID: 	O-V_sInAw5M 
+Video length: 	326.0 sec 
+Set (V): 		test 
+ 
+Emile_Hirsch/O-V_sInAw5M_0000001 49.2 55.0 
+Emile_Hirsch/O-V_sInAw5M_0000002 79.5 85.0 
+Emile_Hirsch/O-V_sInAw5M_0000003 124.6 133.4 
+Emile_Hirsch/O-V_sInAw5M_0000004 136.4 140.7 
+Emile_Hirsch/O-V_sInAw5M_0000005 145.6 151.9 
+Emile_Hirsch/O-V_sInAw5M_0000006 159.7 171.6 
+Emile_Hirsch/O-V_sInAw5M_0000007 178.5 198.0 
+Emile_Hirsch/O-V_sInAw5M_0000008 244.7 250.0 

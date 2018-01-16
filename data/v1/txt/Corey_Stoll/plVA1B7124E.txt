@@ -1,0 +1,16 @@
+POI: 			Corey_Stoll 
+Youtube ID: 	plVA1B7124E 
+Video length: 	259.4 sec 
+Set (V): 		dev 
+ 
+Corey_Stoll/plVA1B7124E_0000001 09.6 14.4 
+Corey_Stoll/plVA1B7124E_0000002 28.8 34.6 
+Corey_Stoll/plVA1B7124E_0000003 35.0 50.8 
+Corey_Stoll/plVA1B7124E_0000004 51.2 59.2 
+Corey_Stoll/plVA1B7124E_0000005 73.4 79.5 
+Corey_Stoll/plVA1B7124E_0000006 79.7 85.1 
+Corey_Stoll/plVA1B7124E_0000007 86.3 90.4 
+Corey_Stoll/plVA1B7124E_0000008 105.0 113.0 
+Corey_Stoll/plVA1B7124E_0000009 110.4 114.9 
+Corey_Stoll/plVA1B7124E_0000010 128.3 132.3 
+Corey_Stoll/plVA1B7124E_0000011 139.6 148.7 

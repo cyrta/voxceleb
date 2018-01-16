@@ -1,0 +1,10 @@
+POI: 			Sarah_Hyland 
+Youtube ID: 	Cc2-khGmOvI 
+Video length: 	410.5 sec 
+Set (V): 		dev 
+ 
+Sarah_Hyland/Cc2-khGmOvI_0000001 74.2 79.1 
+Sarah_Hyland/Cc2-khGmOvI_0000002 143.2 154.7 
+Sarah_Hyland/Cc2-khGmOvI_0000003 215.3 222.1 
+Sarah_Hyland/Cc2-khGmOvI_0000004 316.2 324.4 
+Sarah_Hyland/Cc2-khGmOvI_0000005 340.5 352.7 

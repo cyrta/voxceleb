@@ -1,0 +1,13 @@
+POI: 			Susanne_Bier 
+Youtube ID: 	4psntpX1A60 
+Video length: 	341.7 sec 
+Set (V): 		dev 
+ 
+Susanne_Bier/4psntpX1A60_0000001 59.8 71.8 
+Susanne_Bier/4psntpX1A60_0000002 82.9 94.5 
+Susanne_Bier/4psntpX1A60_0000003 94.9 100.2 
+Susanne_Bier/4psntpX1A60_0000004 145.1 151.5 
+Susanne_Bier/4psntpX1A60_0000005 152.0 161.8 
+Susanne_Bier/4psntpX1A60_0000006 164.9 171.8 
+Susanne_Bier/4psntpX1A60_0000007 194.4 211.0 
+Susanne_Bier/4psntpX1A60_0000008 212.2 221.0 

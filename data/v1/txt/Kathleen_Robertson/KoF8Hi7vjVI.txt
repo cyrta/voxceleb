@@ -1,0 +1,18 @@
+POI: 			Kathleen_Robertson 
+Youtube ID: 	KoF8Hi7vjVI 
+Video length: 	1689.2 sec 
+Set (V): 		dev 
+ 
+Kathleen_Robertson/KoF8Hi7vjVI_0000001 634.8 643.4 
+Kathleen_Robertson/KoF8Hi7vjVI_0000002 644.1 649.0 
+Kathleen_Robertson/KoF8Hi7vjVI_0000003 649.7 662.3 
+Kathleen_Robertson/KoF8Hi7vjVI_0000004 662.8 680.3 
+Kathleen_Robertson/KoF8Hi7vjVI_0000005 680.8 685.7 
+Kathleen_Robertson/KoF8Hi7vjVI_0000006 688.0 703.7 
+Kathleen_Robertson/KoF8Hi7vjVI_0000007 705.5 711.2 
+Kathleen_Robertson/KoF8Hi7vjVI_0000008 1289.5 1310.4 
+Kathleen_Robertson/KoF8Hi7vjVI_0000009 1312.6 1320.0 
+Kathleen_Robertson/KoF8Hi7vjVI_0000010 1322.7 1330.6 
+Kathleen_Robertson/KoF8Hi7vjVI_0000011 1346.5 1350.6 
+Kathleen_Robertson/KoF8Hi7vjVI_0000012 1340.4 1346.2 
+Kathleen_Robertson/KoF8Hi7vjVI_0000013 1346.3 1354.2 

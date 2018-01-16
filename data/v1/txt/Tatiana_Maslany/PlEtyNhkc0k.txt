@@ -1,0 +1,12 @@
+POI: 			Tatiana_Maslany 
+Youtube ID: 	PlEtyNhkc0k 
+Video length: 	259.0 sec 
+Set (V): 		dev 
+ 
+Tatiana_Maslany/PlEtyNhkc0k_0000001 18.2 22.9 
+Tatiana_Maslany/PlEtyNhkc0k_0000002 31.9 42.2 
+Tatiana_Maslany/PlEtyNhkc0k_0000003 48.8 54.1 
+Tatiana_Maslany/PlEtyNhkc0k_0000004 91.8 99.2 
+Tatiana_Maslany/PlEtyNhkc0k_0000005 99.4 104.2 
+Tatiana_Maslany/PlEtyNhkc0k_0000006 168.6 179.8 
+Tatiana_Maslany/PlEtyNhkc0k_0000007 191.0 199.5 

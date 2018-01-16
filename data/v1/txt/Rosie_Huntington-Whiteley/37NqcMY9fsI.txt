@@ -1,0 +1,13 @@
+POI: 			Rosie_Huntington-Whiteley 
+Youtube ID: 	37NqcMY9fsI 
+Video length: 	114.8 sec 
+Set (V): 		dev 
+ 
+Rosie_Huntington-Whiteley/37NqcMY9fsI_0000001 06.4 15.9 
+Rosie_Huntington-Whiteley/37NqcMY9fsI_0000002 29.2 37.2 
+Rosie_Huntington-Whiteley/37NqcMY9fsI_0000003 37.5 47.8 
+Rosie_Huntington-Whiteley/37NqcMY9fsI_0000004 56.5 68.9 
+Rosie_Huntington-Whiteley/37NqcMY9fsI_0000005 72.5 81.0 
+Rosie_Huntington-Whiteley/37NqcMY9fsI_0000006 81.7 87.7 
+Rosie_Huntington-Whiteley/37NqcMY9fsI_0000007 91.4 96.5 
+Rosie_Huntington-Whiteley/37NqcMY9fsI_0000008 100.9 106.0 

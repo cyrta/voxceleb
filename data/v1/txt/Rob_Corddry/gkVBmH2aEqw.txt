@@ -1,0 +1,11 @@
+POI: 			Rob_Corddry 
+Youtube ID: 	gkVBmH2aEqw 
+Video length: 	329.2 sec 
+Set (V): 		dev 
+ 
+Rob_Corddry/gkVBmH2aEqw_0000001 51.1 55.3 
+Rob_Corddry/gkVBmH2aEqw_0000002 149.0 156.7 
+Rob_Corddry/gkVBmH2aEqw_0000003 190.8 196.2 
+Rob_Corddry/gkVBmH2aEqw_0000004 251.1 274.5 
+Rob_Corddry/gkVBmH2aEqw_0000005 276.7 282.4 
+Rob_Corddry/gkVBmH2aEqw_0000006 286.9 291.0 

@@ -1,0 +1,7 @@
+POI: 			Jon_Huertas 
+Youtube ID: 	FKrQZU3RPuw 
+Video length: 	96.6 sec 
+Set (V): 		dev 
+ 
+Jon_Huertas/FKrQZU3RPuw_0000001 29.2 36.9 
+Jon_Huertas/FKrQZU3RPuw_0000002 49.8 56.7 

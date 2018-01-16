@@ -1,0 +1,9 @@
+POI: 			Randeep_Hooda 
+Youtube ID: 	E3vmxDVWP3Q 
+Video length: 	578.7 sec 
+Set (V): 		dev 
+ 
+Randeep_Hooda/E3vmxDVWP3Q_0000001 82.9 90.0 
+Randeep_Hooda/E3vmxDVWP3Q_0000002 337.0 344.7 
+Randeep_Hooda/E3vmxDVWP3Q_0000003 492.6 498.9 
+Randeep_Hooda/E3vmxDVWP3Q_0000004 500.3 505.7 

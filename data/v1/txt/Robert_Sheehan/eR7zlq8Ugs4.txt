@@ -1,0 +1,13 @@
+POI: 			Robert_Sheehan 
+Youtube ID: 	eR7zlq8Ugs4 
+Video length: 	402.9 sec 
+Set (V): 		dev 
+ 
+Robert_Sheehan/eR7zlq8Ugs4_0000001 25.3 35.0 
+Robert_Sheehan/eR7zlq8Ugs4_0000002 105.3 111.1 
+Robert_Sheehan/eR7zlq8Ugs4_0000003 128.4 135.0 
+Robert_Sheehan/eR7zlq8Ugs4_0000004 139.6 144.0 
+Robert_Sheehan/eR7zlq8Ugs4_0000005 147.7 155.8 
+Robert_Sheehan/eR7zlq8Ugs4_0000006 157.6 162.1 
+Robert_Sheehan/eR7zlq8Ugs4_0000007 311.3 316.0 
+Robert_Sheehan/eR7zlq8Ugs4_0000008 323.3 330.6 

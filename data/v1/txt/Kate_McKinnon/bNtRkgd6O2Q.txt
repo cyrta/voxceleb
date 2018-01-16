@@ -1,0 +1,7 @@
+POI: 			Kate_McKinnon 
+Youtube ID: 	bNtRkgd6O2Q 
+Video length: 	398.2 sec 
+Set (V): 		dev 
+ 
+Kate_McKinnon/bNtRkgd6O2Q_0000001 243.0 257.2 
+Kate_McKinnon/bNtRkgd6O2Q_0000002 343.2 349.1 

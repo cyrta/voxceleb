@@ -1,0 +1,17 @@
+POI: 			Andy_Samberg 
+Youtube ID: 	xKWYozNgnRM 
+Video length: 	556.7 sec 
+Set (V): 		dev 
+ 
+Andy_Samberg/xKWYozNgnRM_0000001 43.6 55.2 
+Andy_Samberg/xKWYozNgnRM_0000002 65.7 71.0 
+Andy_Samberg/xKWYozNgnRM_0000003 118.0 137.8 
+Andy_Samberg/xKWYozNgnRM_0000004 222.8 227.4 
+Andy_Samberg/xKWYozNgnRM_0000005 277.3 281.9 
+Andy_Samberg/xKWYozNgnRM_0000006 317.6 349.2 
+Andy_Samberg/xKWYozNgnRM_0000007 351.1 369.4 
+Andy_Samberg/xKWYozNgnRM_0000008 370.4 385.2 
+Andy_Samberg/xKWYozNgnRM_0000009 421.5 425.5 
+Andy_Samberg/xKWYozNgnRM_0000010 445.6 449.5 
+Andy_Samberg/xKWYozNgnRM_0000011 468.1 475.7 
+Andy_Samberg/xKWYozNgnRM_0000012 498.2 508.7 

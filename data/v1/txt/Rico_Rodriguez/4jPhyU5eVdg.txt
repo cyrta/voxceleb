@@ -1,0 +1,9 @@
+POI: 			Rico_Rodriguez 
+Youtube ID: 	4jPhyU5eVdg 
+Video length: 	130.1 sec 
+Set (V): 		dev 
+ 
+Rico_Rodriguez/4jPhyU5eVdg_0000001 55.5 60.8 
+Rico_Rodriguez/4jPhyU5eVdg_0000002 72.0 77.2 
+Rico_Rodriguez/4jPhyU5eVdg_0000003 101.8 107.9 
+Rico_Rodriguez/4jPhyU5eVdg_0000004 109.9 115.3 

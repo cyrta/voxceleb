@@ -1,0 +1,12 @@
+POI: 			Melissa_Leo 
+Youtube ID: 	pSiI2vWOxwk 
+Video length: 	161.6 sec 
+Set (V): 		dev 
+ 
+Melissa_Leo/pSiI2vWOxwk_0000001 02.4 09.3 
+Melissa_Leo/pSiI2vWOxwk_0000002 10.0 16.3 
+Melissa_Leo/pSiI2vWOxwk_0000003 16.7 24.1 
+Melissa_Leo/pSiI2vWOxwk_0000004 41.0 51.9 
+Melissa_Leo/pSiI2vWOxwk_0000005 102.0 113.6 
+Melissa_Leo/pSiI2vWOxwk_0000006 118.0 127.2 
+Melissa_Leo/pSiI2vWOxwk_0000007 135.3 159.0 

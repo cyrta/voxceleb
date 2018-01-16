@@ -1,0 +1,16 @@
+POI: 			Jesse_Spencer 
+Youtube ID: 	qB8DpLV7VG8 
+Video length: 	190.7 sec 
+Set (V): 		dev 
+ 
+Jesse_Spencer/qB8DpLV7VG8_0000001 05.4 12.5 
+Jesse_Spencer/qB8DpLV7VG8_0000002 29.6 37.2 
+Jesse_Spencer/qB8DpLV7VG8_0000003 37.5 42.3 
+Jesse_Spencer/qB8DpLV7VG8_0000004 89.9 95.8 
+Jesse_Spencer/qB8DpLV7VG8_0000005 97.3 105.3 
+Jesse_Spencer/qB8DpLV7VG8_0000006 106.1 110.3 
+Jesse_Spencer/qB8DpLV7VG8_0000007 113.0 118.9 
+Jesse_Spencer/qB8DpLV7VG8_0000008 126.0 130.7 
+Jesse_Spencer/qB8DpLV7VG8_0000009 137.6 142.9 
+Jesse_Spencer/qB8DpLV7VG8_0000010 145.0 152.2 
+Jesse_Spencer/qB8DpLV7VG8_0000011 160.2 168.8 

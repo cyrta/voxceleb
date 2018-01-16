@@ -1,0 +1,14 @@
+POI: 			Don_Rickles 
+Youtube ID: 	yDfRqZKazS4 
+Video length: 	745.9 sec 
+Set (V): 		dev 
+ 
+Don_Rickles/yDfRqZKazS4_0000001 224.8 229.0 
+Don_Rickles/yDfRqZKazS4_0000002 233.5 239.8 
+Don_Rickles/yDfRqZKazS4_0000003 242.3 247.3 
+Don_Rickles/yDfRqZKazS4_0000004 283.6 290.0 
+Don_Rickles/yDfRqZKazS4_0000005 397.6 402.1 
+Don_Rickles/yDfRqZKazS4_0000006 503.7 513.4 
+Don_Rickles/yDfRqZKazS4_0000007 579.9 586.9 
+Don_Rickles/yDfRqZKazS4_0000008 633.9 639.0 
+Don_Rickles/yDfRqZKazS4_0000009 679.4 685.4 

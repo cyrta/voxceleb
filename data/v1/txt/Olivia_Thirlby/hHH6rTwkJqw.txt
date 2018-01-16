@@ -1,0 +1,8 @@
+POI: 			Olivia_Thirlby 
+Youtube ID: 	hHH6rTwkJqw 
+Video length: 	236.0 sec 
+Set (V): 		dev 
+ 
+Olivia_Thirlby/hHH6rTwkJqw_0000001 128.8 135.3 
+Olivia_Thirlby/hHH6rTwkJqw_0000002 148.6 158.0 
+Olivia_Thirlby/hHH6rTwkJqw_0000003 169.1 176.3 

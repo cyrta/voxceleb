@@ -1,0 +1,15 @@
+POI: 			Zulay_Henao 
+Youtube ID: 	gFfcgOVmiO0 
+Video length: 	339.4 sec 
+Set (V): 		dev 
+ 
+Zulay_Henao/gFfcgOVmiO0_0000001 22.4 37.9 
+Zulay_Henao/gFfcgOVmiO0_0000002 38.8 46.7 
+Zulay_Henao/gFfcgOVmiO0_0000003 47.4 56.6 
+Zulay_Henao/gFfcgOVmiO0_0000004 62.2 67.2 
+Zulay_Henao/gFfcgOVmiO0_0000005 67.8 72.0 
+Zulay_Henao/gFfcgOVmiO0_0000006 132.2 149.7 
+Zulay_Henao/gFfcgOVmiO0_0000007 159.4 165.2 
+Zulay_Henao/gFfcgOVmiO0_0000008 192.1 198.1 
+Zulay_Henao/gFfcgOVmiO0_0000009 252.1 262.4 
+Zulay_Henao/gFfcgOVmiO0_0000010 302.8 312.0 

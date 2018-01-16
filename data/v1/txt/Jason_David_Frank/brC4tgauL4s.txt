@@ -1,0 +1,11 @@
+POI: 			Jason_David_Frank 
+Youtube ID: 	brC4tgauL4s 
+Video length: 	208.2 sec 
+Set (V): 		dev 
+ 
+Jason_David_Frank/brC4tgauL4s_0000001 21.0 25.7 
+Jason_David_Frank/brC4tgauL4s_0000002 35.4 41.0 
+Jason_David_Frank/brC4tgauL4s_0000003 102.2 108.0 
+Jason_David_Frank/brC4tgauL4s_0000004 127.4 136.4 
+Jason_David_Frank/brC4tgauL4s_0000005 151.7 161.4 
+Jason_David_Frank/brC4tgauL4s_0000006 179.4 193.0 

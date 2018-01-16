@@ -1,0 +1,14 @@
+POI: 			Blake_Shelton 
+Youtube ID: 	B5jqlhXWkOo 
+Video length: 	485.1 sec 
+Set (V): 		dev 
+ 
+Blake_Shelton/B5jqlhXWkOo_0000001 316.0 321.6 
+Blake_Shelton/B5jqlhXWkOo_0000002 333.4 342.3 
+Blake_Shelton/B5jqlhXWkOo_0000003 345.4 352.2 
+Blake_Shelton/B5jqlhXWkOo_0000004 366.4 372.1 
+Blake_Shelton/B5jqlhXWkOo_0000005 378.5 382.9 
+Blake_Shelton/B5jqlhXWkOo_0000006 396.0 412.2 
+Blake_Shelton/B5jqlhXWkOo_0000007 443.7 448.2 
+Blake_Shelton/B5jqlhXWkOo_0000008 466.6 472.3 
+Blake_Shelton/B5jqlhXWkOo_0000009 473.0 482.3 

@@ -1,0 +1,14 @@
+POI: 			Denise_Crosby 
+Youtube ID: 	0uY88Vk3jJs 
+Video length: 	350.7 sec 
+Set (V): 		dev 
+ 
+Denise_Crosby/0uY88Vk3jJs_0000001 105.5 109.7 
+Denise_Crosby/0uY88Vk3jJs_0000002 118.2 125.3 
+Denise_Crosby/0uY88Vk3jJs_0000003 128.3 133.1 
+Denise_Crosby/0uY88Vk3jJs_0000004 149.7 154.7 
+Denise_Crosby/0uY88Vk3jJs_0000005 169.6 176.9 
+Denise_Crosby/0uY88Vk3jJs_0000006 197.6 205.1 
+Denise_Crosby/0uY88Vk3jJs_0000007 251.9 267.0 
+Denise_Crosby/0uY88Vk3jJs_0000008 268.9 273.4 
+Denise_Crosby/0uY88Vk3jJs_0000009 305.1 313.5 

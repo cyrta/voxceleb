@@ -1,0 +1,8 @@
+POI: 			David_Mazouz 
+Youtube ID: 	TmcCDVfIPZk 
+Video length: 	2002.6 sec 
+Set (V): 		dev 
+ 
+David_Mazouz/TmcCDVfIPZk_0000001 1106.8 1111.8 
+David_Mazouz/TmcCDVfIPZk_0000002 1600.3 1604.5 
+David_Mazouz/TmcCDVfIPZk_0000003 1949.8 1956.0 

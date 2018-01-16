@@ -1,0 +1,7 @@
+POI: 			James_Frain 
+Youtube ID: 	OH9LPxlax1c 
+Video length: 	110.8 sec 
+Set (V): 		dev 
+ 
+James_Frain/OH9LPxlax1c_0000001 94.5 99.4 
+James_Frain/OH9LPxlax1c_0000002 104.4 108.5 

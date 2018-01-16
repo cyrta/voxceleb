@@ -1,0 +1,15 @@
+POI: 			Karoline_Herfurth 
+Youtube ID: 	jtx_xf_PnhM 
+Video length: 	891.2 sec 
+Set (V): 		dev 
+ 
+Karoline_Herfurth/jtx_xf_PnhM_0000001 131.6 139.2 
+Karoline_Herfurth/jtx_xf_PnhM_0000002 139.3 144.4 
+Karoline_Herfurth/jtx_xf_PnhM_0000003 144.7 151.4 
+Karoline_Herfurth/jtx_xf_PnhM_0000004 224.9 230.5 
+Karoline_Herfurth/jtx_xf_PnhM_0000005 328.7 337.4 
+Karoline_Herfurth/jtx_xf_PnhM_0000006 341.6 346.3 
+Karoline_Herfurth/jtx_xf_PnhM_0000007 349.9 357.8 
+Karoline_Herfurth/jtx_xf_PnhM_0000008 358.2 365.7 
+Karoline_Herfurth/jtx_xf_PnhM_0000009 488.8 496.0 
+Karoline_Herfurth/jtx_xf_PnhM_0000010 685.1 689.4 

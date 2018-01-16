@@ -1,0 +1,12 @@
+POI: 			Peter_Jacobson 
+Youtube ID: 	esW_paVy27g 
+Video length: 	179.3 sec 
+Set (V): 		dev 
+ 
+Peter_Jacobson/esW_paVy27g_0000001 07.4 11.4 
+Peter_Jacobson/esW_paVy27g_0000002 77.3 106.6 
+Peter_Jacobson/esW_paVy27g_0000003 110.0 116.7 
+Peter_Jacobson/esW_paVy27g_0000004 117.1 121.7 
+Peter_Jacobson/esW_paVy27g_0000005 122.0 134.8 
+Peter_Jacobson/esW_paVy27g_0000006 141.0 156.6 
+Peter_Jacobson/esW_paVy27g_0000007 171.5 176.2 

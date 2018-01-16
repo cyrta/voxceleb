@@ -1,0 +1,36 @@
+POI: 			Seth_MacFarlane 
+Youtube ID: 	Lc-PIx3T5Lk 
+Video length: 	678.2 sec 
+Set (V): 		dev 
+ 
+Seth_MacFarlane/Lc-PIx3T5Lk_0000001 11.4 15.4 
+Seth_MacFarlane/Lc-PIx3T5Lk_0000002 24.0 30.7 
+Seth_MacFarlane/Lc-PIx3T5Lk_0000003 32.7 40.4 
+Seth_MacFarlane/Lc-PIx3T5Lk_0000004 40.9 46.9 
+Seth_MacFarlane/Lc-PIx3T5Lk_0000005 77.0 81.4 
+Seth_MacFarlane/Lc-PIx3T5Lk_0000006 24.5 30.7 
+Seth_MacFarlane/Lc-PIx3T5Lk_0000007 32.6 48.9 
+Seth_MacFarlane/Lc-PIx3T5Lk_0000008 54.9 59.4 
+Seth_MacFarlane/Lc-PIx3T5Lk_0000009 59.9 64.6 
+Seth_MacFarlane/Lc-PIx3T5Lk_0000010 65.8 70.8 
+Seth_MacFarlane/Lc-PIx3T5Lk_0000011 77.0 86.1 
+Seth_MacFarlane/Lc-PIx3T5Lk_0000012 87.8 95.3 
+Seth_MacFarlane/Lc-PIx3T5Lk_0000013 95.6 101.1 
+Seth_MacFarlane/Lc-PIx3T5Lk_0000014 103.4 123.4 
+Seth_MacFarlane/Lc-PIx3T5Lk_0000015 124.0 145.7 
+Seth_MacFarlane/Lc-PIx3T5Lk_0000016 150.5 159.1 
+Seth_MacFarlane/Lc-PIx3T5Lk_0000017 240.0 246.8 
+Seth_MacFarlane/Lc-PIx3T5Lk_0000018 247.1 251.8 
+Seth_MacFarlane/Lc-PIx3T5Lk_0000019 405.0 414.5 
+Seth_MacFarlane/Lc-PIx3T5Lk_0000020 441.2 452.6 
+Seth_MacFarlane/Lc-PIx3T5Lk_0000021 458.8 462.9 
+Seth_MacFarlane/Lc-PIx3T5Lk_0000022 467.9 479.7 
+Seth_MacFarlane/Lc-PIx3T5Lk_0000023 486.8 500.5 
+Seth_MacFarlane/Lc-PIx3T5Lk_0000024 502.9 507.9 
+Seth_MacFarlane/Lc-PIx3T5Lk_0000025 508.7 514.2 
+Seth_MacFarlane/Lc-PIx3T5Lk_0000026 517.2 522.6 
+Seth_MacFarlane/Lc-PIx3T5Lk_0000027 528.1 533.8 
+Seth_MacFarlane/Lc-PIx3T5Lk_0000028 615.6 619.8 
+Seth_MacFarlane/Lc-PIx3T5Lk_0000029 621.6 625.8 
+Seth_MacFarlane/Lc-PIx3T5Lk_0000030 629.8 637.1 
+Seth_MacFarlane/Lc-PIx3T5Lk_0000031 639.8 644.8 

@@ -1,0 +1,22 @@
+POI: 			Elisabeth_Moss 
+Youtube ID: 	uArtiTSTnSU 
+Video length: 	374.9 sec 
+Set (V): 		test 
+ 
+Elisabeth_Moss/uArtiTSTnSU_0000001 00.7 12.5 
+Elisabeth_Moss/uArtiTSTnSU_0000002 32.0 40.0 
+Elisabeth_Moss/uArtiTSTnSU_0000003 45.3 50.7 
+Elisabeth_Moss/uArtiTSTnSU_0000004 51.1 64.4 
+Elisabeth_Moss/uArtiTSTnSU_0000005 90.1 94.5 
+Elisabeth_Moss/uArtiTSTnSU_0000006 95.0 105.4 
+Elisabeth_Moss/uArtiTSTnSU_0000007 106.2 115.0 
+Elisabeth_Moss/uArtiTSTnSU_0000008 125.5 133.5 
+Elisabeth_Moss/uArtiTSTnSU_0000009 137.0 141.2 
+Elisabeth_Moss/uArtiTSTnSU_0000010 142.2 147.4 
+Elisabeth_Moss/uArtiTSTnSU_0000011 227.5 232.1 
+Elisabeth_Moss/uArtiTSTnSU_0000012 250.2 257.0 
+Elisabeth_Moss/uArtiTSTnSU_0000013 264.5 272.6 
+Elisabeth_Moss/uArtiTSTnSU_0000014 281.0 286.1 
+Elisabeth_Moss/uArtiTSTnSU_0000015 322.4 330.7 
+Elisabeth_Moss/uArtiTSTnSU_0000016 339.0 354.5 
+Elisabeth_Moss/uArtiTSTnSU_0000017 363.5 372.6 

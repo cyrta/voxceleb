@@ -1,0 +1,13 @@
+POI: 			Anthony_Mackie 
+Youtube ID: 	RHOCAJZQp10 
+Video length: 	281.6 sec 
+Set (V): 		dev 
+ 
+Anthony_Mackie/RHOCAJZQp10_0000001 21.0 33.5 
+Anthony_Mackie/RHOCAJZQp10_0000002 34.3 39.0 
+Anthony_Mackie/RHOCAJZQp10_0000003 42.4 51.9 
+Anthony_Mackie/RHOCAJZQp10_0000004 129.4 134.4 
+Anthony_Mackie/RHOCAJZQp10_0000005 136.1 140.4 
+Anthony_Mackie/RHOCAJZQp10_0000006 145.1 163.4 
+Anthony_Mackie/RHOCAJZQp10_0000007 228.8 234.4 
+Anthony_Mackie/RHOCAJZQp10_0000008 246.7 255.2 

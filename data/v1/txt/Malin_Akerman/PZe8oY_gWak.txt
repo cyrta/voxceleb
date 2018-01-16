@@ -1,0 +1,14 @@
+POI: 			Malin_Akerman 
+Youtube ID: 	PZe8oY_gWak 
+Video length: 	481.9 sec 
+Set (V): 		dev 
+ 
+Malin_Akerman/PZe8oY_gWak_0000001 15.1 35.7 
+Malin_Akerman/PZe8oY_gWak_0000002 40.6 50.6 
+Malin_Akerman/PZe8oY_gWak_0000003 55.3 60.6 
+Malin_Akerman/PZe8oY_gWak_0000004 60.7 68.4 
+Malin_Akerman/PZe8oY_gWak_0000005 229.5 238.7 
+Malin_Akerman/PZe8oY_gWak_0000006 359.8 377.7 
+Malin_Akerman/PZe8oY_gWak_0000007 395.3 406.3 
+Malin_Akerman/PZe8oY_gWak_0000008 401.6 442.4 
+Malin_Akerman/PZe8oY_gWak_0000009 450.2 459.5 

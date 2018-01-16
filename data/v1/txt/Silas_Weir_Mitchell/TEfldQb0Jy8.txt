@@ -1,0 +1,10 @@
+POI: 			Silas_Weir_Mitchell 
+Youtube ID: 	TEfldQb0Jy8 
+Video length: 	158.2 sec 
+Set (V): 		dev 
+ 
+Silas_Weir_Mitchell/TEfldQb0Jy8_0000001 40.4 45.7 
+Silas_Weir_Mitchell/TEfldQb0Jy8_0000002 65.8 71.3 
+Silas_Weir_Mitchell/TEfldQb0Jy8_0000003 105.1 109.2 
+Silas_Weir_Mitchell/TEfldQb0Jy8_0000004 130.9 135.0 
+Silas_Weir_Mitchell/TEfldQb0Jy8_0000005 135.8 140.0 

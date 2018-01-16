@@ -1,0 +1,10 @@
+POI: 			Andrew_Rannells 
+Youtube ID: 	fKDYT4kN1Oo 
+Video length: 	444.7 sec 
+Set (V): 		dev 
+ 
+Andrew_Rannells/fKDYT4kN1Oo_0000001 54.2 59.7 
+Andrew_Rannells/fKDYT4kN1Oo_0000002 61.0 65.6 
+Andrew_Rannells/fKDYT4kN1Oo_0000003 67.0 72.6 
+Andrew_Rannells/fKDYT4kN1Oo_0000004 73.4 81.2 
+Andrew_Rannells/fKDYT4kN1Oo_0000005 303.1 311.3 

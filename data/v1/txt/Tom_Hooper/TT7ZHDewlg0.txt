@@ -1,0 +1,11 @@
+POI: 			Tom_Hooper 
+Youtube ID: 	TT7ZHDewlg0 
+Video length: 	407.7 sec 
+Set (V): 		dev 
+ 
+Tom_Hooper/TT7ZHDewlg0_0000001 23.5 55.1 
+Tom_Hooper/TT7ZHDewlg0_0000002 55.8 63.3 
+Tom_Hooper/TT7ZHDewlg0_0000003 63.7 68.5 
+Tom_Hooper/TT7ZHDewlg0_0000004 211.6 218.5 
+Tom_Hooper/TT7ZHDewlg0_0000005 218.6 238.8 
+Tom_Hooper/TT7ZHDewlg0_0000006 242.2 256.7 

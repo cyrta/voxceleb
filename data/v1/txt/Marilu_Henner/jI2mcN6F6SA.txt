@@ -1,0 +1,25 @@
+POI: 			Marilu_Henner 
+Youtube ID: 	jI2mcN6F6SA 
+Video length: 	381.5 sec 
+Set (V): 		dev 
+ 
+Marilu_Henner/jI2mcN6F6SA_0000001 06.9 37.4 
+Marilu_Henner/jI2mcN6F6SA_0000002 39.3 73.3 
+Marilu_Henner/jI2mcN6F6SA_0000003 83.6 95.5 
+Marilu_Henner/jI2mcN6F6SA_0000004 96.4 131.1 
+Marilu_Henner/jI2mcN6F6SA_0000005 133.1 141.2 
+Marilu_Henner/jI2mcN6F6SA_0000006 141.4 160.9 
+Marilu_Henner/jI2mcN6F6SA_0000007 156.5 176.0 
+Marilu_Henner/jI2mcN6F6SA_0000008 180.6 185.6 
+Marilu_Henner/jI2mcN6F6SA_0000009 186.4 192.8 
+Marilu_Henner/jI2mcN6F6SA_0000010 193.6 206.0 
+Marilu_Henner/jI2mcN6F6SA_0000011 207.8 220.8 
+Marilu_Henner/jI2mcN6F6SA_0000012 227.2 244.2 
+Marilu_Henner/jI2mcN6F6SA_0000013 247.3 268.4 
+Marilu_Henner/jI2mcN6F6SA_0000014 264.0 283.2 
+Marilu_Henner/jI2mcN6F6SA_0000015 285.4 290.5 
+Marilu_Henner/jI2mcN6F6SA_0000016 291.6 297.1 
+Marilu_Henner/jI2mcN6F6SA_0000017 307.6 323.9 
+Marilu_Henner/jI2mcN6F6SA_0000018 288.5 307.4 
+Marilu_Henner/jI2mcN6F6SA_0000019 326.1 334.4 
+Marilu_Henner/jI2mcN6F6SA_0000020 336.2 365.7 

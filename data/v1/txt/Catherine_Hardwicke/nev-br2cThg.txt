@@ -1,0 +1,16 @@
+POI: 			Catherine_Hardwicke 
+Youtube ID: 	nev-br2cThg 
+Video length: 	207.5 sec 
+Set (V): 		dev 
+ 
+Catherine_Hardwicke/nev-br2cThg_0000001 21.5 32.1 
+Catherine_Hardwicke/nev-br2cThg_0000002 32.5 42.4 
+Catherine_Hardwicke/nev-br2cThg_0000003 46.4 51.8 
+Catherine_Hardwicke/nev-br2cThg_0000004 66.6 74.5 
+Catherine_Hardwicke/nev-br2cThg_0000005 75.5 81.8 
+Catherine_Hardwicke/nev-br2cThg_0000006 84.3 92.2 
+Catherine_Hardwicke/nev-br2cThg_0000007 103.4 115.4 
+Catherine_Hardwicke/nev-br2cThg_0000008 117.3 129.3 
+Catherine_Hardwicke/nev-br2cThg_0000009 163.1 172.2 
+Catherine_Hardwicke/nev-br2cThg_0000010 172.8 178.8 
+Catherine_Hardwicke/nev-br2cThg_0000011 125.0 131.7 

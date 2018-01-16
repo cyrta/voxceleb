@@ -1,0 +1,8 @@
+POI: 			Nazanin_Boniadi 
+Youtube ID: 	pxdQOqJTsLs 
+Video length: 	327.3 sec 
+Set (V): 		dev 
+ 
+Nazanin_Boniadi/pxdQOqJTsLs_0000001 92.6 109.6 
+Nazanin_Boniadi/pxdQOqJTsLs_0000002 130.6 139.4 
+Nazanin_Boniadi/pxdQOqJTsLs_0000003 218.8 225.6 

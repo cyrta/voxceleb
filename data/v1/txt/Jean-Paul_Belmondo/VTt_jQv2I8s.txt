@@ -1,0 +1,12 @@
+POI: 			Jean-Paul_Belmondo 
+Youtube ID: 	VTt_jQv2I8s 
+Video length: 	343.9 sec 
+Set (V): 		dev 
+ 
+Jean-Paul_Belmondo/VTt_jQv2I8s_0000001 173.6 181.5 
+Jean-Paul_Belmondo/VTt_jQv2I8s_0000002 182.0 186.2 
+Jean-Paul_Belmondo/VTt_jQv2I8s_0000003 193.7 198.6 
+Jean-Paul_Belmondo/VTt_jQv2I8s_0000004 225.8 231.9 
+Jean-Paul_Belmondo/VTt_jQv2I8s_0000005 242.1 246.9 
+Jean-Paul_Belmondo/VTt_jQv2I8s_0000006 250.8 263.1 
+Jean-Paul_Belmondo/VTt_jQv2I8s_0000007 264.2 269.0 

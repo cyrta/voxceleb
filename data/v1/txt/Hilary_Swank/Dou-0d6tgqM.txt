@@ -1,0 +1,29 @@
+POI: 			Hilary_Swank 
+Youtube ID: 	Dou-0d6tgqM 
+Video length: 	1023.1 sec 
+Set (V): 		dev 
+ 
+Hilary_Swank/Dou-0d6tgqM_0000001 53.0 57.6 
+Hilary_Swank/Dou-0d6tgqM_0000002 65.8 75.0 
+Hilary_Swank/Dou-0d6tgqM_0000003 76.6 82.5 
+Hilary_Swank/Dou-0d6tgqM_0000004 108.8 128.0 
+Hilary_Swank/Dou-0d6tgqM_0000005 134.8 148.3 
+Hilary_Swank/Dou-0d6tgqM_0000006 149.4 156.3 
+Hilary_Swank/Dou-0d6tgqM_0000007 157.5 166.4 
+Hilary_Swank/Dou-0d6tgqM_0000008 285.8 292.8 
+Hilary_Swank/Dou-0d6tgqM_0000009 305.0 310.8 
+Hilary_Swank/Dou-0d6tgqM_0000010 312.1 323.6 
+Hilary_Swank/Dou-0d6tgqM_0000011 343.0 351.4 
+Hilary_Swank/Dou-0d6tgqM_0000012 351.5 357.6 
+Hilary_Swank/Dou-0d6tgqM_0000013 358.2 365.0 
+Hilary_Swank/Dou-0d6tgqM_0000014 602.8 622.9 
+Hilary_Swank/Dou-0d6tgqM_0000015 635.8 648.0 
+Hilary_Swank/Dou-0d6tgqM_0000016 663.6 670.2 
+Hilary_Swank/Dou-0d6tgqM_0000017 676.0 680.4 
+Hilary_Swank/Dou-0d6tgqM_0000018 680.8 685.6 
+Hilary_Swank/Dou-0d6tgqM_0000019 830.6 840.5 
+Hilary_Swank/Dou-0d6tgqM_0000020 841.2 849.9 
+Hilary_Swank/Dou-0d6tgqM_0000021 858.4 869.5 
+Hilary_Swank/Dou-0d6tgqM_0000022 877.3 893.2 
+Hilary_Swank/Dou-0d6tgqM_0000023 895.1 901.6 
+Hilary_Swank/Dou-0d6tgqM_0000024 958.9 979.1 

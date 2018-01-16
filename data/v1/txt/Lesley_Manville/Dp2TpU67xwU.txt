@@ -1,0 +1,12 @@
+POI: 			Lesley_Manville 
+Youtube ID: 	Dp2TpU67xwU 
+Video length: 	337.0 sec 
+Set (V): 		dev 
+ 
+Lesley_Manville/Dp2TpU67xwU_0000001 78.9 95.1 
+Lesley_Manville/Dp2TpU67xwU_0000002 145.6 154.1 
+Lesley_Manville/Dp2TpU67xwU_0000003 179.8 184.7 
+Lesley_Manville/Dp2TpU67xwU_0000004 185.4 204.0 
+Lesley_Manville/Dp2TpU67xwU_0000005 216.9 240.6 
+Lesley_Manville/Dp2TpU67xwU_0000006 241.4 245.7 
+Lesley_Manville/Dp2TpU67xwU_0000007 248.0 254.7 

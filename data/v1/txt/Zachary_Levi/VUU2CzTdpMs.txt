@@ -1,0 +1,23 @@
+POI: 			Zachary_Levi 
+Youtube ID: 	VUU2CzTdpMs 
+Video length: 	304.5 sec 
+Set (V): 		dev 
+ 
+Zachary_Levi/VUU2CzTdpMs_0000001 01.8 19.5 
+Zachary_Levi/VUU2CzTdpMs_0000002 23.6 37.6 
+Zachary_Levi/VUU2CzTdpMs_0000003 39.5 45.0 
+Zachary_Levi/VUU2CzTdpMs_0000004 98.9 104.1 
+Zachary_Levi/VUU2CzTdpMs_0000005 130.4 137.7 
+Zachary_Levi/VUU2CzTdpMs_0000006 146.5 150.9 
+Zachary_Levi/VUU2CzTdpMs_0000007 161.5 166.1 
+Zachary_Levi/VUU2CzTdpMs_0000008 167.2 172.2 
+Zachary_Levi/VUU2CzTdpMs_0000009 174.4 186.7 
+Zachary_Levi/VUU2CzTdpMs_0000010 195.4 205.1 
+Zachary_Levi/VUU2CzTdpMs_0000011 206.3 215.4 
+Zachary_Levi/VUU2CzTdpMs_0000012 219.3 225.3 
+Zachary_Levi/VUU2CzTdpMs_0000013 225.7 237.7 
+Zachary_Levi/VUU2CzTdpMs_0000014 241.3 245.4 
+Zachary_Levi/VUU2CzTdpMs_0000015 257.2 269.9 
+Zachary_Levi/VUU2CzTdpMs_0000016 270.9 279.6 
+Zachary_Levi/VUU2CzTdpMs_0000017 281.6 289.4 
+Zachary_Levi/VUU2CzTdpMs_0000018 291.2 295.4 

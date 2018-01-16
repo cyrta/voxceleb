@@ -1,0 +1,37 @@
+POI: 			Jack_Reynor 
+Youtube ID: 	q5WQ_qjuTJw 
+Video length: 	861.3 sec 
+Set (V): 		dev 
+ 
+Jack_Reynor/q5WQ_qjuTJw_0000001 54.6 61.7 
+Jack_Reynor/q5WQ_qjuTJw_0000002 90.7 103.0 
+Jack_Reynor/q5WQ_qjuTJw_0000003 103.4 109.3 
+Jack_Reynor/q5WQ_qjuTJw_0000004 139.4 144.4 
+Jack_Reynor/q5WQ_qjuTJw_0000005 156.2 161.6 
+Jack_Reynor/q5WQ_qjuTJw_0000006 162.9 176.2 
+Jack_Reynor/q5WQ_qjuTJw_0000007 177.1 181.6 
+Jack_Reynor/q5WQ_qjuTJw_0000008 259.6 278.8 
+Jack_Reynor/q5WQ_qjuTJw_0000009 280.5 287.5 
+Jack_Reynor/q5WQ_qjuTJw_0000010 306.6 316.3 
+Jack_Reynor/q5WQ_qjuTJw_0000011 319.8 333.0 
+Jack_Reynor/q5WQ_qjuTJw_0000012 365.2 382.4 
+Jack_Reynor/q5WQ_qjuTJw_0000013 383.5 393.8 
+Jack_Reynor/q5WQ_qjuTJw_0000014 409.9 416.3 
+Jack_Reynor/q5WQ_qjuTJw_0000015 417.0 425.0 
+Jack_Reynor/q5WQ_qjuTJw_0000016 438.0 444.9 
+Jack_Reynor/q5WQ_qjuTJw_0000017 445.5 452.0 
+Jack_Reynor/q5WQ_qjuTJw_0000018 535.7 542.8 
+Jack_Reynor/q5WQ_qjuTJw_0000019 544.0 558.6 
+Jack_Reynor/q5WQ_qjuTJw_0000020 544.0 554.1 
+Jack_Reynor/q5WQ_qjuTJw_0000021 554.2 558.8 
+Jack_Reynor/q5WQ_qjuTJw_0000022 601.1 605.0 
+Jack_Reynor/q5WQ_qjuTJw_0000023 619.4 623.6 
+Jack_Reynor/q5WQ_qjuTJw_0000024 627.8 632.2 
+Jack_Reynor/q5WQ_qjuTJw_0000025 644.8 654.4 
+Jack_Reynor/q5WQ_qjuTJw_0000026 658.0 665.6 
+Jack_Reynor/q5WQ_qjuTJw_0000027 672.6 684.5 
+Jack_Reynor/q5WQ_qjuTJw_0000028 706.0 725.2 
+Jack_Reynor/q5WQ_qjuTJw_0000029 743.8 748.3 
+Jack_Reynor/q5WQ_qjuTJw_0000030 744.8 750.2 
+Jack_Reynor/q5WQ_qjuTJw_0000031 764.2 782.6 
+Jack_Reynor/q5WQ_qjuTJw_0000032 783.5 792.7 

@@ -1,0 +1,10 @@
+POI: 			Janina_Gavankar 
+Youtube ID: 	bVzrFQ942gg 
+Video length: 	729.6 sec 
+Set (V): 		dev 
+ 
+Janina_Gavankar/bVzrFQ942gg_0000001 75.5 79.7 
+Janina_Gavankar/bVzrFQ942gg_0000002 116.9 123.1 
+Janina_Gavankar/bVzrFQ942gg_0000003 351.1 359.5 
+Janina_Gavankar/bVzrFQ942gg_0000004 415.4 421.2 
+Janina_Gavankar/bVzrFQ942gg_0000005 595.6 600.9 

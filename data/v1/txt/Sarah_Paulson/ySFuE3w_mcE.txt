@@ -1,0 +1,18 @@
+POI: 			Sarah_Paulson 
+Youtube ID: 	ySFuE3w_mcE 
+Video length: 	299.2 sec 
+Set (V): 		dev 
+ 
+Sarah_Paulson/ySFuE3w_mcE_0000001 37.7 44.7 
+Sarah_Paulson/ySFuE3w_mcE_0000002 48.5 54.1 
+Sarah_Paulson/ySFuE3w_mcE_0000003 55.7 59.8 
+Sarah_Paulson/ySFuE3w_mcE_0000004 61.9 69.2 
+Sarah_Paulson/ySFuE3w_mcE_0000005 73.9 79.7 
+Sarah_Paulson/ySFuE3w_mcE_0000006 86.4 95.0 
+Sarah_Paulson/ySFuE3w_mcE_0000007 100.5 108.8 
+Sarah_Paulson/ySFuE3w_mcE_0000008 126.2 131.8 
+Sarah_Paulson/ySFuE3w_mcE_0000009 132.0 138.7 
+Sarah_Paulson/ySFuE3w_mcE_0000010 146.4 152.7 
+Sarah_Paulson/ySFuE3w_mcE_0000011 180.3 190.9 
+Sarah_Paulson/ySFuE3w_mcE_0000012 192.0 198.2 
+Sarah_Paulson/ySFuE3w_mcE_0000013 199.2 220.4 

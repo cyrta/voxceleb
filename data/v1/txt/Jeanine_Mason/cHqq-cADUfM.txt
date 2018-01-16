@@ -1,0 +1,11 @@
+POI: 			Jeanine_Mason 
+Youtube ID: 	cHqq-cADUfM 
+Video length: 	414.0 sec 
+Set (V): 		dev 
+ 
+Jeanine_Mason/cHqq-cADUfM_0000001 78.8 91.8 
+Jeanine_Mason/cHqq-cADUfM_0000002 94.1 98.2 
+Jeanine_Mason/cHqq-cADUfM_0000003 93.1 98.4 
+Jeanine_Mason/cHqq-cADUfM_0000004 212.6 217.3 
+Jeanine_Mason/cHqq-cADUfM_0000005 359.6 363.6 
+Jeanine_Mason/cHqq-cADUfM_0000006 379.6 384.6 

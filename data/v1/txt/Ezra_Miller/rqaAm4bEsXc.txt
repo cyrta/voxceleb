@@ -1,0 +1,17 @@
+POI: 			Ezra_Miller 
+Youtube ID: 	rqaAm4bEsXc 
+Video length: 	332.6 sec 
+Set (V): 		test 
+ 
+Ezra_Miller/rqaAm4bEsXc_0000001 72.8 77.1 
+Ezra_Miller/rqaAm4bEsXc_0000002 87.5 92.3 
+Ezra_Miller/rqaAm4bEsXc_0000003 157.4 162.1 
+Ezra_Miller/rqaAm4bEsXc_0000004 185.4 191.0 
+Ezra_Miller/rqaAm4bEsXc_0000005 203.5 209.0 
+Ezra_Miller/rqaAm4bEsXc_0000006 209.8 214.5 
+Ezra_Miller/rqaAm4bEsXc_0000007 234.5 240.2 
+Ezra_Miller/rqaAm4bEsXc_0000008 241.8 257.0 
+Ezra_Miller/rqaAm4bEsXc_0000009 257.8 266.7 
+Ezra_Miller/rqaAm4bEsXc_0000010 267.5 282.2 
+Ezra_Miller/rqaAm4bEsXc_0000011 288.7 293.6 
+Ezra_Miller/rqaAm4bEsXc_0000012 308.2 312.6 

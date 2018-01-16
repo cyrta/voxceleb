@@ -1,0 +1,11 @@
+POI: 			Rob_Brydon 
+Youtube ID: 	vfjbbp1sQ9o 
+Video length: 	242.2 sec 
+Set (V): 		dev 
+ 
+Rob_Brydon/vfjbbp1sQ9o_0000001 42.0 59.8 
+Rob_Brydon/vfjbbp1sQ9o_0000002 61.8 66.4 
+Rob_Brydon/vfjbbp1sQ9o_0000003 71.2 80.0 
+Rob_Brydon/vfjbbp1sQ9o_0000004 85.5 92.6 
+Rob_Brydon/vfjbbp1sQ9o_0000005 93.3 102.4 
+Rob_Brydon/vfjbbp1sQ9o_0000006 109.9 121.2 

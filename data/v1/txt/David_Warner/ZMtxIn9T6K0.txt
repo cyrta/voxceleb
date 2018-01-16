@@ -1,0 +1,9 @@
+POI: 			David_Warner 
+Youtube ID: 	ZMtxIn9T6K0 
+Video length: 	227.9 sec 
+Set (V): 		dev 
+ 
+David_Warner/ZMtxIn9T6K0_0000001 98.2 102.3 
+David_Warner/ZMtxIn9T6K0_0000002 106.6 112.1 
+David_Warner/ZMtxIn9T6K0_0000003 133.9 139.3 
+David_Warner/ZMtxIn9T6K0_0000004 220.2 224.5 

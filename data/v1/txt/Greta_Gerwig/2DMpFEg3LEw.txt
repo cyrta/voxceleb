@@ -1,0 +1,9 @@
+POI: 			Greta_Gerwig 
+Youtube ID: 	2DMpFEg3LEw 
+Video length: 	826.5 sec 
+Set (V): 		dev 
+ 
+Greta_Gerwig/2DMpFEg3LEw_0000001 147.9 151.9 
+Greta_Gerwig/2DMpFEg3LEw_0000002 518.0 524.8 
+Greta_Gerwig/2DMpFEg3LEw_0000003 592.1 596.8 
+Greta_Gerwig/2DMpFEg3LEw_0000004 728.4 735.4 

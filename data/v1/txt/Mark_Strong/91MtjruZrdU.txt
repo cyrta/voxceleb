@@ -1,0 +1,21 @@
+POI: 			Mark_Strong 
+Youtube ID: 	91MtjruZrdU 
+Video length: 	312.7 sec 
+Set (V): 		dev 
+ 
+Mark_Strong/91MtjruZrdU_0000001 25.4 32.2 
+Mark_Strong/91MtjruZrdU_0000002 55.4 65.9 
+Mark_Strong/91MtjruZrdU_0000003 67.1 76.5 
+Mark_Strong/91MtjruZrdU_0000004 77.4 83.5 
+Mark_Strong/91MtjruZrdU_0000005 113.0 124.4 
+Mark_Strong/91MtjruZrdU_0000006 136.2 145.8 
+Mark_Strong/91MtjruZrdU_0000007 146.4 154.4 
+Mark_Strong/91MtjruZrdU_0000008 157.8 163.0 
+Mark_Strong/91MtjruZrdU_0000009 163.1 177.8 
+Mark_Strong/91MtjruZrdU_0000010 204.1 226.3 
+Mark_Strong/91MtjruZrdU_0000011 229.5 234.1 
+Mark_Strong/91MtjruZrdU_0000012 234.8 241.2 
+Mark_Strong/91MtjruZrdU_0000013 243.3 251.6 
+Mark_Strong/91MtjruZrdU_0000014 256.0 272.5 
+Mark_Strong/91MtjruZrdU_0000015 285.6 294.0 
+Mark_Strong/91MtjruZrdU_0000016 295.9 302.9 

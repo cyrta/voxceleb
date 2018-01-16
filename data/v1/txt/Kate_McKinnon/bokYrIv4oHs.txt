@@ -1,0 +1,9 @@
+POI: 			Kate_McKinnon 
+Youtube ID: 	bokYrIv4oHs 
+Video length: 	149.7 sec 
+Set (V): 		dev 
+ 
+Kate_McKinnon/bokYrIv4oHs_0000001 14.2 18.7 
+Kate_McKinnon/bokYrIv4oHs_0000002 53.4 58.8 
+Kate_McKinnon/bokYrIv4oHs_0000003 75.3 79.5 
+Kate_McKinnon/bokYrIv4oHs_0000004 116.7 121.1 

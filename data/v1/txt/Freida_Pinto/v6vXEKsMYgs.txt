@@ -1,0 +1,9 @@
+POI: 			Freida_Pinto 
+Youtube ID: 	v6vXEKsMYgs 
+Video length: 	161.6 sec 
+Set (V): 		dev 
+ 
+Freida_Pinto/v6vXEKsMYgs_0000001 08.9 14.8 
+Freida_Pinto/v6vXEKsMYgs_0000002 22.2 27.3 
+Freida_Pinto/v6vXEKsMYgs_0000003 46.6 52.6 
+Freida_Pinto/v6vXEKsMYgs_0000004 99.6 114.2 

@@ -1,0 +1,12 @@
+POI: 			Robbie_Kay 
+Youtube ID: 	BxlF0-hQOcI 
+Video length: 	170.8 sec 
+Set (V): 		dev 
+ 
+Robbie_Kay/BxlF0-hQOcI_0000001 28.0 38.4 
+Robbie_Kay/BxlF0-hQOcI_0000002 40.5 44.7 
+Robbie_Kay/BxlF0-hQOcI_0000003 112.0 120.2 
+Robbie_Kay/BxlF0-hQOcI_0000004 122.2 127.6 
+Robbie_Kay/BxlF0-hQOcI_0000005 129.5 138.6 
+Robbie_Kay/BxlF0-hQOcI_0000006 138.7 144.3 
+Robbie_Kay/BxlF0-hQOcI_0000007 148.4 154.8 

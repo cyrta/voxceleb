@@ -1,0 +1,16 @@
+POI: 			Kendra_Wilkinson 
+Youtube ID: 	i_yVjUSOYAA 
+Video length: 	263.8 sec 
+Set (V): 		dev 
+ 
+Kendra_Wilkinson/i_yVjUSOYAA_0000001 19.5 25.5 
+Kendra_Wilkinson/i_yVjUSOYAA_0000002 26.5 31.7 
+Kendra_Wilkinson/i_yVjUSOYAA_0000003 91.7 107.2 
+Kendra_Wilkinson/i_yVjUSOYAA_0000004 109.7 114.8 
+Kendra_Wilkinson/i_yVjUSOYAA_0000005 129.4 146.3 
+Kendra_Wilkinson/i_yVjUSOYAA_0000006 173.6 187.1 
+Kendra_Wilkinson/i_yVjUSOYAA_0000007 187.7 203.5 
+Kendra_Wilkinson/i_yVjUSOYAA_0000008 204.0 211.6 
+Kendra_Wilkinson/i_yVjUSOYAA_0000009 211.8 222.0 
+Kendra_Wilkinson/i_yVjUSOYAA_0000010 228.3 234.7 
+Kendra_Wilkinson/i_yVjUSOYAA_0000011 236.8 246.0 

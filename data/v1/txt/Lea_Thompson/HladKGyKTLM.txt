@@ -1,0 +1,13 @@
+POI: 			Lea_Thompson 
+Youtube ID: 	HladKGyKTLM 
+Video length: 	407.5 sec 
+Set (V): 		dev 
+ 
+Lea_Thompson/HladKGyKTLM_0000001 61.2 67.4 
+Lea_Thompson/HladKGyKTLM_0000002 133.6 138.8 
+Lea_Thompson/HladKGyKTLM_0000003 220.4 227.0 
+Lea_Thompson/HladKGyKTLM_0000004 230.3 239.2 
+Lea_Thompson/HladKGyKTLM_0000005 241.0 260.2 
+Lea_Thompson/HladKGyKTLM_0000006 345.1 362.0 
+Lea_Thompson/HladKGyKTLM_0000007 376.2 381.4 
+Lea_Thompson/HladKGyKTLM_0000008 382.0 390.8 

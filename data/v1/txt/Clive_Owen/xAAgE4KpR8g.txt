@@ -1,0 +1,8 @@
+POI: 			Clive_Owen 
+Youtube ID: 	xAAgE4KpR8g 
+Video length: 	501.3 sec 
+Set (V): 		dev 
+ 
+Clive_Owen/xAAgE4KpR8g_0000001 149.8 154.8 
+Clive_Owen/xAAgE4KpR8g_0000002 278.7 284.9 
+Clive_Owen/xAAgE4KpR8g_0000003 351.7 355.8 

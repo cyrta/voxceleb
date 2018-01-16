@@ -1,0 +1,14 @@
+POI: 			Tom_Ford 
+Youtube ID: 	CgHaffg_hB8 
+Video length: 	309.9 sec 
+Set (V): 		dev 
+ 
+Tom_Ford/CgHaffg_hB8_0000001 26.8 31.6 
+Tom_Ford/CgHaffg_hB8_0000002 33.9 38.5 
+Tom_Ford/CgHaffg_hB8_0000003 109.2 124.0 
+Tom_Ford/CgHaffg_hB8_0000004 135.8 140.0 
+Tom_Ford/CgHaffg_hB8_0000005 142.2 148.4 
+Tom_Ford/CgHaffg_hB8_0000006 156.4 161.9 
+Tom_Ford/CgHaffg_hB8_0000007 176.3 181.8 
+Tom_Ford/CgHaffg_hB8_0000008 211.4 221.3 
+Tom_Ford/CgHaffg_hB8_0000009 240.6 245.8 

@@ -1,0 +1,13 @@
+POI: 			David_Suchet 
+Youtube ID: 	Ogw1EgEdV9g 
+Video length: 	239.5 sec 
+Set (V): 		dev 
+ 
+David_Suchet/Ogw1EgEdV9g_0000001 05.2 25.9 
+David_Suchet/Ogw1EgEdV9g_0000002 31.6 38.9 
+David_Suchet/Ogw1EgEdV9g_0000003 92.7 123.8 
+David_Suchet/Ogw1EgEdV9g_0000004 135.6 152.2 
+David_Suchet/Ogw1EgEdV9g_0000005 168.8 173.2 
+David_Suchet/Ogw1EgEdV9g_0000006 180.4 206.0 
+David_Suchet/Ogw1EgEdV9g_0000007 219.4 228.3 
+David_Suchet/Ogw1EgEdV9g_0000008 230.9 238.0 

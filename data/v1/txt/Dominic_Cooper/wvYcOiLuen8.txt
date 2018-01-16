@@ -1,0 +1,10 @@
+POI: 			Dominic_Cooper 
+Youtube ID: 	wvYcOiLuen8 
+Video length: 	328.6 sec 
+Set (V): 		dev 
+ 
+Dominic_Cooper/wvYcOiLuen8_0000001 106.3 126.2 
+Dominic_Cooper/wvYcOiLuen8_0000002 164.0 181.2 
+Dominic_Cooper/wvYcOiLuen8_0000003 202.5 210.9 
+Dominic_Cooper/wvYcOiLuen8_0000004 237.5 255.3 
+Dominic_Cooper/wvYcOiLuen8_0000005 299.2 304.2 

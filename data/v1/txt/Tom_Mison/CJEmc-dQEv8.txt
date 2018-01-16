@@ -1,0 +1,9 @@
+POI: 			Tom_Mison 
+Youtube ID: 	CJEmc-dQEv8 
+Video length: 	250.2 sec 
+Set (V): 		dev 
+ 
+Tom_Mison/CJEmc-dQEv8_0000001 40.1 46.3 
+Tom_Mison/CJEmc-dQEv8_0000002 79.2 90.8 
+Tom_Mison/CJEmc-dQEv8_0000003 97.0 104.9 
+Tom_Mison/CJEmc-dQEv8_0000004 143.8 148.2 

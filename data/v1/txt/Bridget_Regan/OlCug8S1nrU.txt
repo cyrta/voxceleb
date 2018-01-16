@@ -1,0 +1,12 @@
+POI: 			Bridget_Regan 
+Youtube ID: 	OlCug8S1nrU 
+Video length: 	307.5 sec 
+Set (V): 		dev 
+ 
+Bridget_Regan/OlCug8S1nrU_0000001 25.1 30.5 
+Bridget_Regan/OlCug8S1nrU_0000002 39.5 50.4 
+Bridget_Regan/OlCug8S1nrU_0000003 92.6 97.8 
+Bridget_Regan/OlCug8S1nrU_0000004 125.5 145.0 
+Bridget_Regan/OlCug8S1nrU_0000005 222.2 226.4 
+Bridget_Regan/OlCug8S1nrU_0000006 243.9 248.3 
+Bridget_Regan/OlCug8S1nrU_0000007 254.1 258.1 

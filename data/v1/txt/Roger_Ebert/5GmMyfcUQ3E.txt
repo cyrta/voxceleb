@@ -1,0 +1,10 @@
+POI: 			Roger_Ebert 
+Youtube ID: 	5GmMyfcUQ3E 
+Video length: 	205.7 sec 
+Set (V): 		dev 
+ 
+Roger_Ebert/5GmMyfcUQ3E_0000001 31.4 37.4 
+Roger_Ebert/5GmMyfcUQ3E_0000002 67.0 79.2 
+Roger_Ebert/5GmMyfcUQ3E_0000003 92.5 99.4 
+Roger_Ebert/5GmMyfcUQ3E_0000004 118.2 123.5 
+Roger_Ebert/5GmMyfcUQ3E_0000005 141.0 151.4 

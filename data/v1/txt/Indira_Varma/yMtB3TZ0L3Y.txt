@@ -1,0 +1,13 @@
+POI: 			Indira_Varma 
+Youtube ID: 	yMtB3TZ0L3Y 
+Video length: 	200.9 sec 
+Set (V): 		dev 
+ 
+Indira_Varma/yMtB3TZ0L3Y_0000001 42.9 48.7 
+Indira_Varma/yMtB3TZ0L3Y_0000002 78.1 86.5 
+Indira_Varma/yMtB3TZ0L3Y_0000003 93.8 100.1 
+Indira_Varma/yMtB3TZ0L3Y_0000004 102.4 106.8 
+Indira_Varma/yMtB3TZ0L3Y_0000005 134.4 139.4 
+Indira_Varma/yMtB3TZ0L3Y_0000006 147.4 152.5 
+Indira_Varma/yMtB3TZ0L3Y_0000007 161.7 166.5 
+Indira_Varma/yMtB3TZ0L3Y_0000008 172.2 177.5 

@@ -1,0 +1,11 @@
+POI: 			Robbie_Amell 
+Youtube ID: 	7dscvCXjazE 
+Video length: 	239.8 sec 
+Set (V): 		dev 
+ 
+Robbie_Amell/7dscvCXjazE_0000001 27.5 39.4 
+Robbie_Amell/7dscvCXjazE_0000002 39.7 47.3 
+Robbie_Amell/7dscvCXjazE_0000003 47.8 53.4 
+Robbie_Amell/7dscvCXjazE_0000004 123.4 129.0 
+Robbie_Amell/7dscvCXjazE_0000005 143.7 149.1 
+Robbie_Amell/7dscvCXjazE_0000006 167.0 185.7 

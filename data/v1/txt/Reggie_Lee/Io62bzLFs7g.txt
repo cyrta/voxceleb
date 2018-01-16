@@ -1,0 +1,16 @@
+POI: 			Reggie_Lee 
+Youtube ID: 	Io62bzLFs7g 
+Video length: 	173.2 sec 
+Set (V): 		dev 
+ 
+Reggie_Lee/Io62bzLFs7g_0000001 07.9 12.6 
+Reggie_Lee/Io62bzLFs7g_0000002 16.7 29.1 
+Reggie_Lee/Io62bzLFs7g_0000003 30.0 37.2 
+Reggie_Lee/Io62bzLFs7g_0000004 49.4 62.8 
+Reggie_Lee/Io62bzLFs7g_0000005 64.8 69.5 
+Reggie_Lee/Io62bzLFs7g_0000006 71.3 79.5 
+Reggie_Lee/Io62bzLFs7g_0000007 83.6 101.2 
+Reggie_Lee/Io62bzLFs7g_0000008 99.0 116.2 
+Reggie_Lee/Io62bzLFs7g_0000009 116.9 134.0 
+Reggie_Lee/Io62bzLFs7g_0000010 141.6 150.0 
+Reggie_Lee/Io62bzLFs7g_0000011 155.2 167.0 

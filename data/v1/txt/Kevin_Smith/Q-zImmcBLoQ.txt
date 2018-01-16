@@ -1,0 +1,25 @@
+POI: 			Kevin_Smith 
+Youtube ID: 	Q-zImmcBLoQ 
+Video length: 	557.4 sec 
+Set (V): 		dev 
+ 
+Kevin_Smith/Q-zImmcBLoQ_0000001 93.6 97.6 
+Kevin_Smith/Q-zImmcBLoQ_0000002 100.5 105.1 
+Kevin_Smith/Q-zImmcBLoQ_0000003 106.7 111.4 
+Kevin_Smith/Q-zImmcBLoQ_0000004 114.3 122.2 
+Kevin_Smith/Q-zImmcBLoQ_0000005 135.5 143.5 
+Kevin_Smith/Q-zImmcBLoQ_0000006 151.9 164.5 
+Kevin_Smith/Q-zImmcBLoQ_0000007 165.4 176.8 
+Kevin_Smith/Q-zImmcBLoQ_0000008 177.8 182.3 
+Kevin_Smith/Q-zImmcBLoQ_0000009 192.3 196.5 
+Kevin_Smith/Q-zImmcBLoQ_0000010 197.7 202.1 
+Kevin_Smith/Q-zImmcBLoQ_0000011 267.4 277.2 
+Kevin_Smith/Q-zImmcBLoQ_0000012 277.8 282.2 
+Kevin_Smith/Q-zImmcBLoQ_0000013 292.3 298.2 
+Kevin_Smith/Q-zImmcBLoQ_0000014 307.9 315.3 
+Kevin_Smith/Q-zImmcBLoQ_0000015 309.1 314.3 
+Kevin_Smith/Q-zImmcBLoQ_0000016 323.4 327.7 
+Kevin_Smith/Q-zImmcBLoQ_0000017 332.9 339.2 
+Kevin_Smith/Q-zImmcBLoQ_0000018 390.8 403.7 
+Kevin_Smith/Q-zImmcBLoQ_0000019 408.6 412.6 
+Kevin_Smith/Q-zImmcBLoQ_0000020 433.1 443.3 

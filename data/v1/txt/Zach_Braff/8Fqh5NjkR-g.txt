@@ -1,0 +1,20 @@
+POI: 			Zach_Braff 
+Youtube ID: 	8Fqh5NjkR-g 
+Video length: 	443.7 sec 
+Set (V): 		dev 
+ 
+Zach_Braff/8Fqh5NjkR-g_0000001 58.5 64.7 
+Zach_Braff/8Fqh5NjkR-g_0000002 82.8 87.4 
+Zach_Braff/8Fqh5NjkR-g_0000003 130.0 138.5 
+Zach_Braff/8Fqh5NjkR-g_0000004 151.4 170.5 
+Zach_Braff/8Fqh5NjkR-g_0000005 176.8 183.7 
+Zach_Braff/8Fqh5NjkR-g_0000006 188.4 193.2 
+Zach_Braff/8Fqh5NjkR-g_0000007 214.0 221.3 
+Zach_Braff/8Fqh5NjkR-g_0000008 228.1 234.2 
+Zach_Braff/8Fqh5NjkR-g_0000009 246.0 253.9 
+Zach_Braff/8Fqh5NjkR-g_0000010 260.0 265.8 
+Zach_Braff/8Fqh5NjkR-g_0000011 286.7 292.6 
+Zach_Braff/8Fqh5NjkR-g_0000012 300.0 303.9 
+Zach_Braff/8Fqh5NjkR-g_0000013 328.7 339.7 
+Zach_Braff/8Fqh5NjkR-g_0000014 384.2 390.8 
+Zach_Braff/8Fqh5NjkR-g_0000015 395.9 401.3 

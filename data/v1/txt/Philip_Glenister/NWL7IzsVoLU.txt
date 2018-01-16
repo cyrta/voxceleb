@@ -1,0 +1,7 @@
+POI: 			Philip_Glenister 
+Youtube ID: 	NWL7IzsVoLU 
+Video length: 	134.1 sec 
+Set (V): 		dev 
+ 
+Philip_Glenister/NWL7IzsVoLU_0000001 66.8 72.6 
+Philip_Glenister/NWL7IzsVoLU_0000002 76.2 81.8 

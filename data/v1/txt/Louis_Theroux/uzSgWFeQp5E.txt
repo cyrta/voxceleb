@@ -1,0 +1,23 @@
+POI: 			Louis_Theroux 
+Youtube ID: 	uzSgWFeQp5E 
+Video length: 	425.0 sec 
+Set (V): 		dev 
+ 
+Louis_Theroux/uzSgWFeQp5E_0000001 16.0 21.1 
+Louis_Theroux/uzSgWFeQp5E_0000002 47.6 52.1 
+Louis_Theroux/uzSgWFeQp5E_0000003 52.2 74.7 
+Louis_Theroux/uzSgWFeQp5E_0000004 87.2 91.9 
+Louis_Theroux/uzSgWFeQp5E_0000005 92.8 104.6 
+Louis_Theroux/uzSgWFeQp5E_0000006 111.3 121.3 
+Louis_Theroux/uzSgWFeQp5E_0000007 154.4 170.6 
+Louis_Theroux/uzSgWFeQp5E_0000008 172.1 204.9 
+Louis_Theroux/uzSgWFeQp5E_0000009 206.9 222.6 
+Louis_Theroux/uzSgWFeQp5E_0000010 238.3 243.8 
+Louis_Theroux/uzSgWFeQp5E_0000011 282.4 291.2 
+Louis_Theroux/uzSgWFeQp5E_0000012 309.0 317.1 
+Louis_Theroux/uzSgWFeQp5E_0000013 327.6 340.4 
+Louis_Theroux/uzSgWFeQp5E_0000014 341.6 353.1 
+Louis_Theroux/uzSgWFeQp5E_0000015 358.8 374.3 
+Louis_Theroux/uzSgWFeQp5E_0000016 385.6 394.9 
+Louis_Theroux/uzSgWFeQp5E_0000017 394.0 400.2 
+Louis_Theroux/uzSgWFeQp5E_0000018 405.2 416.3 

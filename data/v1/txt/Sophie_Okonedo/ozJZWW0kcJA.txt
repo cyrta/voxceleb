@@ -1,0 +1,17 @@
+POI: 			Sophie_Okonedo 
+Youtube ID: 	ozJZWW0kcJA 
+Video length: 	500.1 sec 
+Set (V): 		dev 
+ 
+Sophie_Okonedo/ozJZWW0kcJA_0000001 132.6 143.5 
+Sophie_Okonedo/ozJZWW0kcJA_0000002 147.0 158.0 
+Sophie_Okonedo/ozJZWW0kcJA_0000003 166.4 170.8 
+Sophie_Okonedo/ozJZWW0kcJA_0000004 172.9 179.0 
+Sophie_Okonedo/ozJZWW0kcJA_0000005 226.6 233.0 
+Sophie_Okonedo/ozJZWW0kcJA_0000006 307.4 311.6 
+Sophie_Okonedo/ozJZWW0kcJA_0000007 333.9 338.3 
+Sophie_Okonedo/ozJZWW0kcJA_0000008 376.5 385.0 
+Sophie_Okonedo/ozJZWW0kcJA_0000009 412.2 418.2 
+Sophie_Okonedo/ozJZWW0kcJA_0000010 438.2 444.4 
+Sophie_Okonedo/ozJZWW0kcJA_0000011 451.2 456.9 
+Sophie_Okonedo/ozJZWW0kcJA_0000012 470.0 475.2 

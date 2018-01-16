@@ -1,0 +1,9 @@
+POI: 			Armie_Hammer 
+Youtube ID: 	TmIuUqaHFqI 
+Video length: 	205.2 sec 
+Set (V): 		dev 
+ 
+Armie_Hammer/TmIuUqaHFqI_0000001 19.5 37.9 
+Armie_Hammer/TmIuUqaHFqI_0000002 105.5 118.1 
+Armie_Hammer/TmIuUqaHFqI_0000003 121.1 126.2 
+Armie_Hammer/TmIuUqaHFqI_0000004 158.4 174.2 

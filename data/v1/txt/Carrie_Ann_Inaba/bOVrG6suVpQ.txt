@@ -1,0 +1,7 @@
+POI: 			Carrie_Ann_Inaba 
+Youtube ID: 	bOVrG6suVpQ 
+Video length: 	630.0 sec 
+Set (V): 		dev 
+ 
+Carrie_Ann_Inaba/bOVrG6suVpQ_0000001 445.0 463.8 
+Carrie_Ann_Inaba/bOVrG6suVpQ_0000002 463.9 468.2 

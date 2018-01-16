@@ -1,0 +1,9 @@
+POI: 			Amy_Poehler 
+Youtube ID: 	WixPGGRezHw 
+Video length: 	149.0 sec 
+Set (V): 		dev 
+ 
+Amy_Poehler/WixPGGRezHw_0000001 21.3 25.4 
+Amy_Poehler/WixPGGRezHw_0000002 57.8 62.0 
+Amy_Poehler/WixPGGRezHw_0000003 77.3 81.6 
+Amy_Poehler/WixPGGRezHw_0000004 105.7 112.6 

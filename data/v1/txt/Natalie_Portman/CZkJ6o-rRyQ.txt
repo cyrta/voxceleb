@@ -1,0 +1,7 @@
+POI: 			Natalie_Portman 
+Youtube ID: 	CZkJ6o-rRyQ 
+Video length: 	250.5 sec 
+Set (V): 		dev 
+ 
+Natalie_Portman/CZkJ6o-rRyQ_0000001 146.0 151.7 
+Natalie_Portman/CZkJ6o-rRyQ_0000002 172.6 178.6 

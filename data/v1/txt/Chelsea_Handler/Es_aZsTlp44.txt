@@ -1,0 +1,22 @@
+POI: 			Chelsea_Handler 
+Youtube ID: 	Es_aZsTlp44 
+Video length: 	538.6 sec 
+Set (V): 		dev 
+ 
+Chelsea_Handler/Es_aZsTlp44_0000001 27.4 35.9 
+Chelsea_Handler/Es_aZsTlp44_0000002 36.0 41.8 
+Chelsea_Handler/Es_aZsTlp44_0000003 75.1 82.5 
+Chelsea_Handler/Es_aZsTlp44_0000004 82.7 90.8 
+Chelsea_Handler/Es_aZsTlp44_0000005 77.6 82.5 
+Chelsea_Handler/Es_aZsTlp44_0000006 146.2 156.6 
+Chelsea_Handler/Es_aZsTlp44_0000007 165.3 179.2 
+Chelsea_Handler/Es_aZsTlp44_0000008 190.2 195.6 
+Chelsea_Handler/Es_aZsTlp44_0000009 258.8 264.2 
+Chelsea_Handler/Es_aZsTlp44_0000010 264.8 269.2 
+Chelsea_Handler/Es_aZsTlp44_0000011 273.3 287.9 
+Chelsea_Handler/Es_aZsTlp44_0000012 314.9 327.3 
+Chelsea_Handler/Es_aZsTlp44_0000013 332.0 337.5 
+Chelsea_Handler/Es_aZsTlp44_0000014 355.4 364.6 
+Chelsea_Handler/Es_aZsTlp44_0000015 438.1 445.4 
+Chelsea_Handler/Es_aZsTlp44_0000016 445.6 450.2 
+Chelsea_Handler/Es_aZsTlp44_0000017 504.7 512.7 

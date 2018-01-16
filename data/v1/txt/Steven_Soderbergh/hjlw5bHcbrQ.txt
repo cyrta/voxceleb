@@ -1,0 +1,11 @@
+POI: 			Steven_Soderbergh 
+Youtube ID: 	hjlw5bHcbrQ 
+Video length: 	482.2 sec 
+Set (V): 		dev 
+ 
+Steven_Soderbergh/hjlw5bHcbrQ_0000001 132.4 141.2 
+Steven_Soderbergh/hjlw5bHcbrQ_0000002 142.0 146.7 
+Steven_Soderbergh/hjlw5bHcbrQ_0000003 258.2 263.8 
+Steven_Soderbergh/hjlw5bHcbrQ_0000004 264.6 271.8 
+Steven_Soderbergh/hjlw5bHcbrQ_0000005 278.2 285.6 
+Steven_Soderbergh/hjlw5bHcbrQ_0000006 428.8 434.4 

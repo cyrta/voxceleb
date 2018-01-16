@@ -1,0 +1,13 @@
+POI: 			Heidi_Montag 
+Youtube ID: 	6POKNa7L3uM 
+Video length: 	462.6 sec 
+Set (V): 		dev 
+ 
+Heidi_Montag/6POKNa7L3uM_0000001 58.5 64.4 
+Heidi_Montag/6POKNa7L3uM_0000002 69.6 81.4 
+Heidi_Montag/6POKNa7L3uM_0000003 93.5 97.6 
+Heidi_Montag/6POKNa7L3uM_0000004 112.0 118.0 
+Heidi_Montag/6POKNa7L3uM_0000005 176.6 181.2 
+Heidi_Montag/6POKNa7L3uM_0000006 214.3 221.0 
+Heidi_Montag/6POKNa7L3uM_0000007 280.0 289.4 
+Heidi_Montag/6POKNa7L3uM_0000008 343.9 361.7 

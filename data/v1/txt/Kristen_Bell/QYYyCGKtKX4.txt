@@ -1,0 +1,15 @@
+POI: 			Kristen_Bell 
+Youtube ID: 	QYYyCGKtKX4 
+Video length: 	275.2 sec 
+Set (V): 		dev 
+ 
+Kristen_Bell/QYYyCGKtKX4_0000001 23.6 28.7 
+Kristen_Bell/QYYyCGKtKX4_0000002 76.6 81.9 
+Kristen_Bell/QYYyCGKtKX4_0000003 87.6 91.6 
+Kristen_Bell/QYYyCGKtKX4_0000004 116.0 134.0 
+Kristen_Bell/QYYyCGKtKX4_0000005 142.1 149.2 
+Kristen_Bell/QYYyCGKtKX4_0000006 164.6 171.3 
+Kristen_Bell/QYYyCGKtKX4_0000007 173.4 178.0 
+Kristen_Bell/QYYyCGKtKX4_0000008 195.2 202.4 
+Kristen_Bell/QYYyCGKtKX4_0000009 203.3 213.2 
+Kristen_Bell/QYYyCGKtKX4_0000010 249.4 254.4 

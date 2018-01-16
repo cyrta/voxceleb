@@ -1,0 +1,9 @@
+POI: 			Jeremy_Piven 
+Youtube ID: 	IT3TrRotHWo 
+Video length: 	212.3 sec 
+Set (V): 		dev 
+ 
+Jeremy_Piven/IT3TrRotHWo_0000001 68.9 75.4 
+Jeremy_Piven/IT3TrRotHWo_0000002 88.3 94.5 
+Jeremy_Piven/IT3TrRotHWo_0000003 152.0 161.8 
+Jeremy_Piven/IT3TrRotHWo_0000004 193.3 199.0 

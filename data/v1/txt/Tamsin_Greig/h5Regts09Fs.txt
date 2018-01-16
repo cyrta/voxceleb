@@ -1,0 +1,7 @@
+POI: 			Tamsin_Greig 
+Youtube ID: 	h5Regts09Fs 
+Video length: 	169.9 sec 
+Set (V): 		dev 
+ 
+Tamsin_Greig/h5Regts09Fs_0000001 20.8 24.8 
+Tamsin_Greig/h5Regts09Fs_0000002 136.3 143.0 

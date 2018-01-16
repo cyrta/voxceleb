@@ -1,0 +1,13 @@
+POI: 			Ralf_Little 
+Youtube ID: 	Zkznw43Q54Q 
+Video length: 	953.6 sec 
+Set (V): 		dev 
+ 
+Ralf_Little/Zkznw43Q54Q_0000001 151.2 162.0 
+Ralf_Little/Zkznw43Q54Q_0000002 162.7 168.6 
+Ralf_Little/Zkznw43Q54Q_0000003 168.7 173.0 
+Ralf_Little/Zkznw43Q54Q_0000004 173.6 177.9 
+Ralf_Little/Zkznw43Q54Q_0000005 178.2 188.4 
+Ralf_Little/Zkznw43Q54Q_0000006 404.0 436.2 
+Ralf_Little/Zkznw43Q54Q_0000007 587.3 591.4 
+Ralf_Little/Zkznw43Q54Q_0000008 643.6 655.3 

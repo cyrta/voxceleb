@@ -1,0 +1,13 @@
+POI: 			Theo_James 
+Youtube ID: 	9-b6cfguVgI 
+Video length: 	369.4 sec 
+Set (V): 		dev 
+ 
+Theo_James/9-b6cfguVgI_0000001 75.2 83.5 
+Theo_James/9-b6cfguVgI_0000002 122.4 131.6 
+Theo_James/9-b6cfguVgI_0000003 118.5 126.7 
+Theo_James/9-b6cfguVgI_0000004 181.7 205.6 
+Theo_James/9-b6cfguVgI_0000005 204.3 208.9 
+Theo_James/9-b6cfguVgI_0000006 213.2 223.2 
+Theo_James/9-b6cfguVgI_0000007 250.7 263.4 
+Theo_James/9-b6cfguVgI_0000008 274.7 279.3 

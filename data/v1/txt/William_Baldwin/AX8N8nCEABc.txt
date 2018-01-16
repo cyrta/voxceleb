@@ -1,0 +1,7 @@
+POI: 			William_Baldwin 
+Youtube ID: 	AX8N8nCEABc 
+Video length: 	129.7 sec 
+Set (V): 		dev 
+ 
+William_Baldwin/AX8N8nCEABc_0000001 86.9 93.1 
+William_Baldwin/AX8N8nCEABc_0000002 112.7 119.4 

@@ -1,0 +1,13 @@
+POI: 			Carrie_Underwood 
+Youtube ID: 	vjMO-KRTyzQ 
+Video length: 	377.3 sec 
+Set (V): 		dev 
+ 
+Carrie_Underwood/vjMO-KRTyzQ_0000001 62.6 68.0 
+Carrie_Underwood/vjMO-KRTyzQ_0000002 71.5 76.1 
+Carrie_Underwood/vjMO-KRTyzQ_0000003 174.1 179.4 
+Carrie_Underwood/vjMO-KRTyzQ_0000004 189.4 197.0 
+Carrie_Underwood/vjMO-KRTyzQ_0000005 200.8 206.2 
+Carrie_Underwood/vjMO-KRTyzQ_0000006 221.2 225.2 
+Carrie_Underwood/vjMO-KRTyzQ_0000007 259.9 268.9 
+Carrie_Underwood/vjMO-KRTyzQ_0000008 262.9 270.2 

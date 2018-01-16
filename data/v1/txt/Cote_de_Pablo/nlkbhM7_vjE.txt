@@ -1,0 +1,8 @@
+POI: 			Cote_de_Pablo 
+Youtube ID: 	nlkbhM7_vjE 
+Video length: 	270.8 sec 
+Set (V): 		dev 
+ 
+Cote_de_Pablo/nlkbhM7_vjE_0000001 21.5 27.8 
+Cote_de_Pablo/nlkbhM7_vjE_0000002 99.8 105.5 
+Cote_de_Pablo/nlkbhM7_vjE_0000003 110.9 122.6 

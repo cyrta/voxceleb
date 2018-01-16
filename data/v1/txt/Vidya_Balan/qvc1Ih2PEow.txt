@@ -1,0 +1,10 @@
+POI: 			Vidya_Balan 
+Youtube ID: 	qvc1Ih2PEow 
+Video length: 	231.9 sec 
+Set (V): 		dev 
+ 
+Vidya_Balan/qvc1Ih2PEow_0000001 43.0 55.0 
+Vidya_Balan/qvc1Ih2PEow_0000002 60.0 67.3 
+Vidya_Balan/qvc1Ih2PEow_0000003 103.1 109.5 
+Vidya_Balan/qvc1Ih2PEow_0000004 132.2 136.7 
+Vidya_Balan/qvc1Ih2PEow_0000005 209.2 216.0 

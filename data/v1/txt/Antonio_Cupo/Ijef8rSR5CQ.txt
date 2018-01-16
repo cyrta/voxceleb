@@ -1,0 +1,7 @@
+POI: 			Antonio_Cupo 
+Youtube ID: 	Ijef8rSR5CQ 
+Video length: 	225.8 sec 
+Set (V): 		dev 
+ 
+Antonio_Cupo/Ijef8rSR5CQ_0000001 57.5 64.8 
+Antonio_Cupo/Ijef8rSR5CQ_0000002 167.0 174.6 

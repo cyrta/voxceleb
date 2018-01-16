@@ -1,0 +1,11 @@
+POI: 			Anne_Hathaway 
+Youtube ID: 	ut8dzAUnDp4 
+Video length: 	212.1 sec 
+Set (V): 		dev 
+ 
+Anne_Hathaway/ut8dzAUnDp4_0000001 52.7 62.5 
+Anne_Hathaway/ut8dzAUnDp4_0000002 63.1 69.2 
+Anne_Hathaway/ut8dzAUnDp4_0000003 77.9 89.6 
+Anne_Hathaway/ut8dzAUnDp4_0000004 106.0 128.9 
+Anne_Hathaway/ut8dzAUnDp4_0000005 137.5 145.4 
+Anne_Hathaway/ut8dzAUnDp4_0000006 177.4 195.8 

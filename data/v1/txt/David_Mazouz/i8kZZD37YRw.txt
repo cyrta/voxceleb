@@ -1,0 +1,10 @@
+POI: 			David_Mazouz 
+Youtube ID: 	i8kZZD37YRw 
+Video length: 	181.3 sec 
+Set (V): 		dev 
+ 
+David_Mazouz/i8kZZD37YRw_0000001 29.8 34.3 
+David_Mazouz/i8kZZD37YRw_0000002 41.9 54.4 
+David_Mazouz/i8kZZD37YRw_0000003 54.9 59.5 
+David_Mazouz/i8kZZD37YRw_0000004 91.4 97.0 
+David_Mazouz/i8kZZD37YRw_0000005 131.0 137.8 

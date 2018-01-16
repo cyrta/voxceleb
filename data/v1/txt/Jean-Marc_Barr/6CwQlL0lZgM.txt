@@ -1,0 +1,10 @@
+POI: 			Jean-Marc_Barr 
+Youtube ID: 	6CwQlL0lZgM 
+Video length: 	399.8 sec 
+Set (V): 		dev 
+ 
+Jean-Marc_Barr/6CwQlL0lZgM_0000001 161.9 166.7 
+Jean-Marc_Barr/6CwQlL0lZgM_0000002 180.4 184.4 
+Jean-Marc_Barr/6CwQlL0lZgM_0000003 200.4 207.3 
+Jean-Marc_Barr/6CwQlL0lZgM_0000004 308.8 315.1 
+Jean-Marc_Barr/6CwQlL0lZgM_0000005 376.0 380.7 

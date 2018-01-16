@@ -1,0 +1,7 @@
+POI: 			Pablo_Schreiber 
+Youtube ID: 	hu6zu1rWAYw 
+Video length: 	118.5 sec 
+Set (V): 		dev 
+ 
+Pablo_Schreiber/hu6zu1rWAYw_0000001 31.2 36.2 
+Pablo_Schreiber/hu6zu1rWAYw_0000002 81.2 95.4 

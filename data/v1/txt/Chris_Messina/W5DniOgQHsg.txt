@@ -1,0 +1,12 @@
+POI: 			Chris_Messina 
+Youtube ID: 	W5DniOgQHsg 
+Video length: 	272.3 sec 
+Set (V): 		dev 
+ 
+Chris_Messina/W5DniOgQHsg_0000001 32.4 46.0 
+Chris_Messina/W5DniOgQHsg_0000002 79.7 83.8 
+Chris_Messina/W5DniOgQHsg_0000003 88.0 92.6 
+Chris_Messina/W5DniOgQHsg_0000004 93.6 97.6 
+Chris_Messina/W5DniOgQHsg_0000005 152.1 156.6 
+Chris_Messina/W5DniOgQHsg_0000006 178.5 184.4 
+Chris_Messina/W5DniOgQHsg_0000007 222.3 229.1 

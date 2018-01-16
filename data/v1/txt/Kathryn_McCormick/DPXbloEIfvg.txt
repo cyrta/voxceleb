@@ -1,0 +1,7 @@
+POI: 			Kathryn_McCormick 
+Youtube ID: 	DPXbloEIfvg 
+Video length: 	199.5 sec 
+Set (V): 		dev 
+ 
+Kathryn_McCormick/DPXbloEIfvg_0000001 20.0 25.6 
+Kathryn_McCormick/DPXbloEIfvg_0000002 30.8 35.4 

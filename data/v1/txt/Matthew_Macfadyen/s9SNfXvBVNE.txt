@@ -1,0 +1,12 @@
+POI: 			Matthew_Macfadyen 
+Youtube ID: 	s9SNfXvBVNE 
+Video length: 	608.2 sec 
+Set (V): 		dev 
+ 
+Matthew_Macfadyen/s9SNfXvBVNE_0000001 163.9 170.3 
+Matthew_Macfadyen/s9SNfXvBVNE_0000002 192.1 206.0 
+Matthew_Macfadyen/s9SNfXvBVNE_0000003 314.8 319.4 
+Matthew_Macfadyen/s9SNfXvBVNE_0000004 392.9 400.0 
+Matthew_Macfadyen/s9SNfXvBVNE_0000005 442.4 448.0 
+Matthew_Macfadyen/s9SNfXvBVNE_0000006 448.8 462.8 
+Matthew_Macfadyen/s9SNfXvBVNE_0000007 489.4 496.0 

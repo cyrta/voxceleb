@@ -1,0 +1,9 @@
+POI: 			Burt_Reynolds 
+Youtube ID: 	oDAvNaTBG_A 
+Video length: 	830.7 sec 
+Set (V): 		dev 
+ 
+Burt_Reynolds/oDAvNaTBG_A_0000001 596.2 602.6 
+Burt_Reynolds/oDAvNaTBG_A_0000002 602.7 606.9 
+Burt_Reynolds/oDAvNaTBG_A_0000003 607.2 611.2 
+Burt_Reynolds/oDAvNaTBG_A_0000004 780.0 785.2 

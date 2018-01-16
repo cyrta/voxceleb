@@ -1,0 +1,11 @@
+POI: 			Naseeruddin_Shah 
+Youtube ID: 	g5hgDbVpBQY 
+Video length: 	1298.7 sec 
+Set (V): 		dev 
+ 
+Naseeruddin_Shah/g5hgDbVpBQY_0000001 143.6 148.8 
+Naseeruddin_Shah/g5hgDbVpBQY_0000002 367.1 371.6 
+Naseeruddin_Shah/g5hgDbVpBQY_0000003 434.8 438.9 
+Naseeruddin_Shah/g5hgDbVpBQY_0000004 822.0 830.4 
+Naseeruddin_Shah/g5hgDbVpBQY_0000005 1079.7 1086.5 
+Naseeruddin_Shah/g5hgDbVpBQY_0000006 1125.1 1141.1 

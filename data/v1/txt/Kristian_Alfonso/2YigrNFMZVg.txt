@@ -1,0 +1,19 @@
+POI: 			Kristian_Alfonso 
+Youtube ID: 	2YigrNFMZVg 
+Video length: 	416.9 sec 
+Set (V): 		dev 
+ 
+Kristian_Alfonso/2YigrNFMZVg_0000001 65.7 73.1 
+Kristian_Alfonso/2YigrNFMZVg_0000002 107.8 113.2 
+Kristian_Alfonso/2YigrNFMZVg_0000003 135.4 140.0 
+Kristian_Alfonso/2YigrNFMZVg_0000004 160.7 165.2 
+Kristian_Alfonso/2YigrNFMZVg_0000005 170.0 179.7 
+Kristian_Alfonso/2YigrNFMZVg_0000006 204.1 208.3 
+Kristian_Alfonso/2YigrNFMZVg_0000007 214.6 226.2 
+Kristian_Alfonso/2YigrNFMZVg_0000008 230.1 236.6 
+Kristian_Alfonso/2YigrNFMZVg_0000009 258.2 278.9 
+Kristian_Alfonso/2YigrNFMZVg_0000010 284.0 289.0 
+Kristian_Alfonso/2YigrNFMZVg_0000011 307.5 315.2 
+Kristian_Alfonso/2YigrNFMZVg_0000012 316.1 322.0 
+Kristian_Alfonso/2YigrNFMZVg_0000013 328.0 335.2 
+Kristian_Alfonso/2YigrNFMZVg_0000014 348.7 360.0 

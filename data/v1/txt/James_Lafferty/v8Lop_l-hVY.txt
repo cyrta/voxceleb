@@ -1,0 +1,12 @@
+POI: 			James_Lafferty 
+Youtube ID: 	v8Lop_l-hVY 
+Video length: 	114.0 sec 
+Set (V): 		dev 
+ 
+James_Lafferty/v8Lop_l-hVY_0000001 10.6 17.1 
+James_Lafferty/v8Lop_l-hVY_0000002 18.9 26.0 
+James_Lafferty/v8Lop_l-hVY_0000003 43.7 48.1 
+James_Lafferty/v8Lop_l-hVY_0000004 48.7 61.6 
+James_Lafferty/v8Lop_l-hVY_0000005 79.6 84.5 
+James_Lafferty/v8Lop_l-hVY_0000006 84.9 89.6 
+James_Lafferty/v8Lop_l-hVY_0000007 98.0 111.4 

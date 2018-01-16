@@ -1,0 +1,25 @@
+POI: 			James_Lipton 
+Youtube ID: 	Iunc5lXzIVU 
+Video length: 	1143.8 sec 
+Set (V): 		dev 
+ 
+James_Lipton/Iunc5lXzIVU_0000001 09.3 16.1 
+James_Lipton/Iunc5lXzIVU_0000002 56.0 62.7 
+James_Lipton/Iunc5lXzIVU_0000003 68.6 72.8 
+James_Lipton/Iunc5lXzIVU_0000004 100.3 113.0 
+James_Lipton/Iunc5lXzIVU_0000005 146.9 151.7 
+James_Lipton/Iunc5lXzIVU_0000006 152.0 156.4 
+James_Lipton/Iunc5lXzIVU_0000007 190.2 200.1 
+James_Lipton/Iunc5lXzIVU_0000008 222.7 230.0 
+James_Lipton/Iunc5lXzIVU_0000009 304.2 311.0 
+James_Lipton/Iunc5lXzIVU_0000010 334.2 338.2 
+James_Lipton/Iunc5lXzIVU_0000011 416.3 422.0 
+James_Lipton/Iunc5lXzIVU_0000012 440.9 447.1 
+James_Lipton/Iunc5lXzIVU_0000013 510.0 514.3 
+James_Lipton/Iunc5lXzIVU_0000014 555.0 559.2 
+James_Lipton/Iunc5lXzIVU_0000015 603.7 608.9 
+James_Lipton/Iunc5lXzIVU_0000016 656.8 661.0 
+James_Lipton/Iunc5lXzIVU_0000017 764.6 769.9 
+James_Lipton/Iunc5lXzIVU_0000018 839.8 845.6 
+James_Lipton/Iunc5lXzIVU_0000019 990.6 998.6 
+James_Lipton/Iunc5lXzIVU_0000020 1132.2 1136.5 

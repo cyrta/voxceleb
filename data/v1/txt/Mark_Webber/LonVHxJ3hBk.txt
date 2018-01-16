@@ -1,0 +1,25 @@
+POI: 			Mark_Webber 
+Youtube ID: 	LonVHxJ3hBk 
+Video length: 	341.7 sec 
+Set (V): 		dev 
+ 
+Mark_Webber/LonVHxJ3hBk_0000001 08.4 16.3 
+Mark_Webber/LonVHxJ3hBk_0000002 17.6 24.8 
+Mark_Webber/LonVHxJ3hBk_0000003 26.0 46.0 
+Mark_Webber/LonVHxJ3hBk_0000004 49.6 70.7 
+Mark_Webber/LonVHxJ3hBk_0000005 72.1 78.0 
+Mark_Webber/LonVHxJ3hBk_0000006 84.8 90.4 
+Mark_Webber/LonVHxJ3hBk_0000007 90.8 95.7 
+Mark_Webber/LonVHxJ3hBk_0000008 98.4 108.0 
+Mark_Webber/LonVHxJ3hBk_0000009 120.6 127.0 
+Mark_Webber/LonVHxJ3hBk_0000010 129.2 133.4 
+Mark_Webber/LonVHxJ3hBk_0000011 134.0 150.6 
+Mark_Webber/LonVHxJ3hBk_0000012 159.7 187.8 
+Mark_Webber/LonVHxJ3hBk_0000013 195.4 203.9 
+Mark_Webber/LonVHxJ3hBk_0000014 210.1 223.4 
+Mark_Webber/LonVHxJ3hBk_0000015 238.5 248.4 
+Mark_Webber/LonVHxJ3hBk_0000016 252.3 276.6 
+Mark_Webber/LonVHxJ3hBk_0000017 281.8 294.8 
+Mark_Webber/LonVHxJ3hBk_0000018 304.6 317.4 
+Mark_Webber/LonVHxJ3hBk_0000019 317.5 321.8 
+Mark_Webber/LonVHxJ3hBk_0000020 322.6 330.4 

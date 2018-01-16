@@ -1,0 +1,17 @@
+POI: 			Zach_Braff 
+Youtube ID: 	baXSnp3NMjs 
+Video length: 	392.4 sec 
+Set (V): 		dev 
+ 
+Zach_Braff/baXSnp3NMjs_0000001 47.1 57.6 
+Zach_Braff/baXSnp3NMjs_0000002 58.2 64.4 
+Zach_Braff/baXSnp3NMjs_0000003 115.5 135.9 
+Zach_Braff/baXSnp3NMjs_0000004 137.7 143.7 
+Zach_Braff/baXSnp3NMjs_0000005 143.9 181.8 
+Zach_Braff/baXSnp3NMjs_0000006 208.0 230.9 
+Zach_Braff/baXSnp3NMjs_0000007 231.6 264.2 
+Zach_Braff/baXSnp3NMjs_0000008 266.2 277.7 
+Zach_Braff/baXSnp3NMjs_0000009 286.1 302.9 
+Zach_Braff/baXSnp3NMjs_0000010 317.6 332.3 
+Zach_Braff/baXSnp3NMjs_0000011 336.8 345.3 
+Zach_Braff/baXSnp3NMjs_0000012 346.0 367.6 

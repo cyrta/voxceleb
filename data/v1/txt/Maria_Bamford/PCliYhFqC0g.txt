@@ -1,0 +1,8 @@
+POI: 			Maria_Bamford 
+Youtube ID: 	PCliYhFqC0g 
+Video length: 	222.4 sec 
+Set (V): 		dev 
+ 
+Maria_Bamford/PCliYhFqC0g_0000001 65.9 72.1 
+Maria_Bamford/PCliYhFqC0g_0000002 72.2 76.5 
+Maria_Bamford/PCliYhFqC0g_0000003 172.2 184.2 

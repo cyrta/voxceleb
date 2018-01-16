@@ -1,0 +1,12 @@
+POI: 			Richard_Kind 
+Youtube ID: 	W0DjhFMSvK8 
+Video length: 	272.2 sec 
+Set (V): 		dev 
+ 
+Richard_Kind/W0DjhFMSvK8_0000001 18.9 42.2 
+Richard_Kind/W0DjhFMSvK8_0000002 106.4 124.6 
+Richard_Kind/W0DjhFMSvK8_0000003 126.2 132.8 
+Richard_Kind/W0DjhFMSvK8_0000004 132.9 147.2 
+Richard_Kind/W0DjhFMSvK8_0000005 154.0 182.6 
+Richard_Kind/W0DjhFMSvK8_0000006 185.4 189.7 
+Richard_Kind/W0DjhFMSvK8_0000007 194.2 205.4 

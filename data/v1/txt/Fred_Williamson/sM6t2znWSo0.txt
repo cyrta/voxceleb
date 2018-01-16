@@ -1,0 +1,10 @@
+POI: 			Fred_Williamson 
+Youtube ID: 	sM6t2znWSo0 
+Video length: 	731.7 sec 
+Set (V): 		dev 
+ 
+Fred_Williamson/sM6t2znWSo0_0000001 96.7 102.6 
+Fred_Williamson/sM6t2znWSo0_0000002 178.6 183.1 
+Fred_Williamson/sM6t2znWSo0_0000003 317.0 321.0 
+Fred_Williamson/sM6t2znWSo0_0000004 330.3 336.1 
+Fred_Williamson/sM6t2znWSo0_0000005 455.2 459.2 

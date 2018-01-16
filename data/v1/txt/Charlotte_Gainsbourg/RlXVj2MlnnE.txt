@@ -1,0 +1,11 @@
+POI: 			Charlotte_Gainsbourg 
+Youtube ID: 	RlXVj2MlnnE 
+Video length: 	323.3 sec 
+Set (V): 		dev 
+ 
+Charlotte_Gainsbourg/RlXVj2MlnnE_0000001 11.7 15.8 
+Charlotte_Gainsbourg/RlXVj2MlnnE_0000002 57.5 63.8 
+Charlotte_Gainsbourg/RlXVj2MlnnE_0000003 103.1 109.8 
+Charlotte_Gainsbourg/RlXVj2MlnnE_0000004 182.3 187.3 
+Charlotte_Gainsbourg/RlXVj2MlnnE_0000005 273.1 288.9 
+Charlotte_Gainsbourg/RlXVj2MlnnE_0000006 289.3 296.1 

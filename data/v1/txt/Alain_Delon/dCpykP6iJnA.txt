@@ -1,0 +1,8 @@
+POI: 			Alain_Delon 
+Youtube ID: 	dCpykP6iJnA 
+Video length: 	678.4 sec 
+Set (V): 		dev 
+ 
+Alain_Delon/dCpykP6iJnA_0000001 62.9 68.1 
+Alain_Delon/dCpykP6iJnA_0000002 341.0 347.2 
+Alain_Delon/dCpykP6iJnA_0000003 358.2 362.3 

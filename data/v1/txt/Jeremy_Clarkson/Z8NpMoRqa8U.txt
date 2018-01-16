@@ -1,0 +1,7 @@
+POI: 			Jeremy_Clarkson 
+Youtube ID: 	Z8NpMoRqa8U 
+Video length: 	132.3 sec 
+Set (V): 		dev 
+ 
+Jeremy_Clarkson/Z8NpMoRqa8U_0000001 12.8 18.5 
+Jeremy_Clarkson/Z8NpMoRqa8U_0000002 104.4 108.5 

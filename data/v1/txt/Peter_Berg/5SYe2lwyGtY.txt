@@ -1,0 +1,17 @@
+POI: 			Peter_Berg 
+Youtube ID: 	5SYe2lwyGtY 
+Video length: 	329.1 sec 
+Set (V): 		dev 
+ 
+Peter_Berg/5SYe2lwyGtY_0000001 32.2 58.2 
+Peter_Berg/5SYe2lwyGtY_0000002 61.0 68.2 
+Peter_Berg/5SYe2lwyGtY_0000003 68.5 72.7 
+Peter_Berg/5SYe2lwyGtY_0000004 81.2 85.7 
+Peter_Berg/5SYe2lwyGtY_0000005 87.8 117.6 
+Peter_Berg/5SYe2lwyGtY_0000006 119.4 127.4 
+Peter_Berg/5SYe2lwyGtY_0000007 134.4 188.9 
+Peter_Berg/5SYe2lwyGtY_0000008 202.2 271.1 
+Peter_Berg/5SYe2lwyGtY_0000009 271.4 276.3 
+Peter_Berg/5SYe2lwyGtY_0000010 283.7 288.6 
+Peter_Berg/5SYe2lwyGtY_0000011 289.2 301.8 
+Peter_Berg/5SYe2lwyGtY_0000012 305.6 317.4 

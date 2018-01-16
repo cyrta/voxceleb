@@ -1,0 +1,14 @@
+POI: 			Dylan_McDermott 
+Youtube ID: 	JkfveeYh1-8 
+Video length: 	559.5 sec 
+Set (V): 		dev 
+ 
+Dylan_McDermott/JkfveeYh1-8_0000001 81.8 88.5 
+Dylan_McDermott/JkfveeYh1-8_0000002 124.0 132.1 
+Dylan_McDermott/JkfveeYh1-8_0000003 138.0 143.2 
+Dylan_McDermott/JkfveeYh1-8_0000004 168.2 173.0 
+Dylan_McDermott/JkfveeYh1-8_0000005 229.3 234.6 
+Dylan_McDermott/JkfveeYh1-8_0000006 303.5 307.6 
+Dylan_McDermott/JkfveeYh1-8_0000007 375.4 384.2 
+Dylan_McDermott/JkfveeYh1-8_0000008 408.9 413.5 
+Dylan_McDermott/JkfveeYh1-8_0000009 413.7 418.0 

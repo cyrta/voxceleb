@@ -1,0 +1,7 @@
+POI: 			Xavier_Samuel 
+Youtube ID: 	uqJOS2DkgmM 
+Video length: 	78.0 sec 
+Set (V): 		dev 
+ 
+Xavier_Samuel/uqJOS2DkgmM_0000001 13.8 26.8 
+Xavier_Samuel/uqJOS2DkgmM_0000002 34.2 44.5 

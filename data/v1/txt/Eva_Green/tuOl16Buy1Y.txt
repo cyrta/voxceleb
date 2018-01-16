@@ -1,0 +1,11 @@
+POI: 			Eva_Green 
+Youtube ID: 	tuOl16Buy1Y 
+Video length: 	489.8 sec 
+Set (V): 		test 
+ 
+Eva_Green/tuOl16Buy1Y_0000001 27.2 33.9 
+Eva_Green/tuOl16Buy1Y_0000002 62.2 69.1 
+Eva_Green/tuOl16Buy1Y_0000003 80.2 84.2 
+Eva_Green/tuOl16Buy1Y_0000004 203.1 213.0 
+Eva_Green/tuOl16Buy1Y_0000005 364.3 371.5 
+Eva_Green/tuOl16Buy1Y_0000006 435.2 441.9 

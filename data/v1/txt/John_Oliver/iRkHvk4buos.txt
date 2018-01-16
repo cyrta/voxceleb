@@ -1,0 +1,13 @@
+POI: 			John_Oliver 
+Youtube ID: 	iRkHvk4buos 
+Video length: 	427.9 sec 
+Set (V): 		dev 
+ 
+John_Oliver/iRkHvk4buos_0000001 42.0 50.2 
+John_Oliver/iRkHvk4buos_0000002 94.9 99.1 
+John_Oliver/iRkHvk4buos_0000003 135.6 142.1 
+John_Oliver/iRkHvk4buos_0000004 210.3 216.6 
+John_Oliver/iRkHvk4buos_0000005 223.2 227.6 
+John_Oliver/iRkHvk4buos_0000006 240.4 254.2 
+John_Oliver/iRkHvk4buos_0000007 310.0 315.5 
+John_Oliver/iRkHvk4buos_0000008 326.9 331.6 

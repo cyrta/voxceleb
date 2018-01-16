@@ -1,0 +1,7 @@
+POI: 			Avan_Jogia 
+Youtube ID: 	hkvFEFTx-AM 
+Video length: 	282.1 sec 
+Set (V): 		dev 
+ 
+Avan_Jogia/hkvFEFTx-AM_0000001 121.4 126.0 
+Avan_Jogia/hkvFEFTx-AM_0000002 253.1 259.1 

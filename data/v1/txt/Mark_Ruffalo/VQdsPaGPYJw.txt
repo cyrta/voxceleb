@@ -1,0 +1,10 @@
+POI: 			Mark_Ruffalo 
+Youtube ID: 	VQdsPaGPYJw 
+Video length: 	374.9 sec 
+Set (V): 		dev 
+ 
+Mark_Ruffalo/VQdsPaGPYJw_0000001 199.8 204.5 
+Mark_Ruffalo/VQdsPaGPYJw_0000002 242.2 247.2 
+Mark_Ruffalo/VQdsPaGPYJw_0000003 260.0 267.7 
+Mark_Ruffalo/VQdsPaGPYJw_0000004 269.8 283.2 
+Mark_Ruffalo/VQdsPaGPYJw_0000005 349.9 354.2 

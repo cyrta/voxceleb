@@ -1,0 +1,12 @@
+POI: 			Danny_McBride 
+Youtube ID: 	uEJIGuED56c 
+Video length: 	310.6 sec 
+Set (V): 		dev 
+ 
+Danny_McBride/uEJIGuED56c_0000001 01.1 06.2 
+Danny_McBride/uEJIGuED56c_0000002 35.6 41.6 
+Danny_McBride/uEJIGuED56c_0000003 46.3 51.8 
+Danny_McBride/uEJIGuED56c_0000004 70.8 82.1 
+Danny_McBride/uEJIGuED56c_0000005 104.6 109.2 
+Danny_McBride/uEJIGuED56c_0000006 129.8 137.0 
+Danny_McBride/uEJIGuED56c_0000007 146.3 150.4 

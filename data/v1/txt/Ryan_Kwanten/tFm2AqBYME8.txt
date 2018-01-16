@@ -1,0 +1,8 @@
+POI: 			Ryan_Kwanten 
+Youtube ID: 	tFm2AqBYME8 
+Video length: 	211.0 sec 
+Set (V): 		dev 
+ 
+Ryan_Kwanten/tFm2AqBYME8_0000001 60.6 71.0 
+Ryan_Kwanten/tFm2AqBYME8_0000002 117.2 122.7 
+Ryan_Kwanten/tFm2AqBYME8_0000003 144.6 149.4 

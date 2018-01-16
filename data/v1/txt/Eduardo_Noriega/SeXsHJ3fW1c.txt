@@ -1,0 +1,12 @@
+POI: 			Eduardo_Noriega 
+Youtube ID: 	SeXsHJ3fW1c 
+Video length: 	370.4 sec 
+Set (V): 		test 
+ 
+Eduardo_Noriega/SeXsHJ3fW1c_0000001 05.0 13.0 
+Eduardo_Noriega/SeXsHJ3fW1c_0000002 96.0 101.7 
+Eduardo_Noriega/SeXsHJ3fW1c_0000003 131.9 136.9 
+Eduardo_Noriega/SeXsHJ3fW1c_0000004 139.3 147.4 
+Eduardo_Noriega/SeXsHJ3fW1c_0000005 162.2 166.4 
+Eduardo_Noriega/SeXsHJ3fW1c_0000006 244.8 249.4 
+Eduardo_Noriega/SeXsHJ3fW1c_0000007 351.0 361.2 

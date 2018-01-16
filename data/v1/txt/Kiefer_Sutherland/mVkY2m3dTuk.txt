@@ -1,0 +1,9 @@
+POI: 			Kiefer_Sutherland 
+Youtube ID: 	mVkY2m3dTuk 
+Video length: 	187.4 sec 
+Set (V): 		dev 
+ 
+Kiefer_Sutherland/mVkY2m3dTuk_0000001 41.4 45.7 
+Kiefer_Sutherland/mVkY2m3dTuk_0000002 82.5 90.0 
+Kiefer_Sutherland/mVkY2m3dTuk_0000003 111.5 123.1 
+Kiefer_Sutherland/mVkY2m3dTuk_0000004 165.3 170.3 

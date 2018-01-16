@@ -1,0 +1,12 @@
+POI: 			Michael_Trevino 
+Youtube ID: 	Nco9ilvqn_8 
+Video length: 	484.6 sec 
+Set (V): 		dev 
+ 
+Michael_Trevino/Nco9ilvqn_8_0000001 31.2 41.6 
+Michael_Trevino/Nco9ilvqn_8_0000002 108.5 113.0 
+Michael_Trevino/Nco9ilvqn_8_0000003 130.2 135.9 
+Michael_Trevino/Nco9ilvqn_8_0000004 315.5 324.0 
+Michael_Trevino/Nco9ilvqn_8_0000005 355.8 361.4 
+Michael_Trevino/Nco9ilvqn_8_0000006 384.6 388.6 
+Michael_Trevino/Nco9ilvqn_8_0000007 459.0 464.0 

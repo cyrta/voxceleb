@@ -1,0 +1,8 @@
+POI: 			Beth_Grant 
+Youtube ID: 	APmmcQzt2L4 
+Video length: 	169.7 sec 
+Set (V): 		dev 
+ 
+Beth_Grant/APmmcQzt2L4_0000001 46.0 50.6 
+Beth_Grant/APmmcQzt2L4_0000002 114.7 119.3 
+Beth_Grant/APmmcQzt2L4_0000003 131.8 136.0 

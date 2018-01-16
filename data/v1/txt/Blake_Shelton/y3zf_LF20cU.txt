@@ -1,0 +1,20 @@
+POI: 			Blake_Shelton 
+Youtube ID: 	y3zf_LF20cU 
+Video length: 	221.2 sec 
+Set (V): 		dev 
+ 
+Blake_Shelton/y3zf_LF20cU_0000001 15.5 22.0 
+Blake_Shelton/y3zf_LF20cU_0000002 32.6 36.8 
+Blake_Shelton/y3zf_LF20cU_0000003 38.1 48.3 
+Blake_Shelton/y3zf_LF20cU_0000004 49.3 53.6 
+Blake_Shelton/y3zf_LF20cU_0000005 70.2 77.8 
+Blake_Shelton/y3zf_LF20cU_0000006 79.7 86.6 
+Blake_Shelton/y3zf_LF20cU_0000007 87.8 115.2 
+Blake_Shelton/y3zf_LF20cU_0000008 118.8 123.5 
+Blake_Shelton/y3zf_LF20cU_0000009 133.6 138.4 
+Blake_Shelton/y3zf_LF20cU_0000010 139.3 144.3 
+Blake_Shelton/y3zf_LF20cU_0000011 147.5 154.8 
+Blake_Shelton/y3zf_LF20cU_0000012 160.0 165.2 
+Blake_Shelton/y3zf_LF20cU_0000013 174.6 179.0 
+Blake_Shelton/y3zf_LF20cU_0000014 180.6 188.1 
+Blake_Shelton/y3zf_LF20cU_0000015 193.5 207.7 

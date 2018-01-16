@@ -1,0 +1,9 @@
+POI: 			Cameron_Boyce 
+Youtube ID: 	hxbtjnmi2SQ 
+Video length: 	147.4 sec 
+Set (V): 		dev 
+ 
+Cameron_Boyce/hxbtjnmi2SQ_0000001 54.0 58.2 
+Cameron_Boyce/hxbtjnmi2SQ_0000002 68.1 79.6 
+Cameron_Boyce/hxbtjnmi2SQ_0000003 88.4 95.7 
+Cameron_Boyce/hxbtjnmi2SQ_0000004 126.7 142.4 

@@ -1,0 +1,13 @@
+POI: 			J.K._Simmons 
+Youtube ID: 	f6j4OEdTP94 
+Video length: 	248.4 sec 
+Set (V): 		dev 
+ 
+J.K._Simmons/f6j4OEdTP94_0000001 39.1 46.0 
+J.K._Simmons/f6j4OEdTP94_0000002 50.2 63.0 
+J.K._Simmons/f6j4OEdTP94_0000003 86.2 108.0 
+J.K._Simmons/f6j4OEdTP94_0000004 114.3 133.4 
+J.K._Simmons/f6j4OEdTP94_0000005 150.4 157.6 
+J.K._Simmons/f6j4OEdTP94_0000006 160.8 176.7 
+J.K._Simmons/f6j4OEdTP94_0000007 190.7 195.0 
+J.K._Simmons/f6j4OEdTP94_0000008 205.1 229.8 

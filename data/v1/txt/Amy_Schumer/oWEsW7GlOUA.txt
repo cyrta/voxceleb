@@ -1,0 +1,6 @@
+POI: 			Amy_Schumer 
+Youtube ID: 	oWEsW7GlOUA 
+Video length: 	548.3 sec 
+Set (V): 		dev 
+ 
+Amy_Schumer/oWEsW7GlOUA_0000001 520.3 524.6 

@@ -1,0 +1,12 @@
+POI: 			Stanley_Tucci 
+Youtube ID: 	yVUwsrtzyL8 
+Video length: 	230.5 sec 
+Set (V): 		dev 
+ 
+Stanley_Tucci/yVUwsrtzyL8_0000001 15.0 23.8 
+Stanley_Tucci/yVUwsrtzyL8_0000002 60.8 64.8 
+Stanley_Tucci/yVUwsrtzyL8_0000003 110.2 114.2 
+Stanley_Tucci/yVUwsrtzyL8_0000004 134.8 139.1 
+Stanley_Tucci/yVUwsrtzyL8_0000005 149.7 153.7 
+Stanley_Tucci/yVUwsrtzyL8_0000006 158.9 164.9 
+Stanley_Tucci/yVUwsrtzyL8_0000007 184.4 191.7 

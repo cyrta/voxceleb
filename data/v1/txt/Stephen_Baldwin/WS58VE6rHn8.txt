@@ -1,0 +1,9 @@
+POI: 			Stephen_Baldwin 
+Youtube ID: 	WS58VE6rHn8 
+Video length: 	373.7 sec 
+Set (V): 		dev 
+ 
+Stephen_Baldwin/WS58VE6rHn8_0000001 117.0 129.1 
+Stephen_Baldwin/WS58VE6rHn8_0000002 159.1 184.3 
+Stephen_Baldwin/WS58VE6rHn8_0000003 343.2 348.4 
+Stephen_Baldwin/WS58VE6rHn8_0000004 349.1 363.4 

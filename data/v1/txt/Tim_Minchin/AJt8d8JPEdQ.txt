@@ -1,0 +1,15 @@
+POI: 			Tim_Minchin 
+Youtube ID: 	AJt8d8JPEdQ 
+Video length: 	118.8 sec 
+Set (V): 		dev 
+ 
+Tim_Minchin/AJt8d8JPEdQ_0000001 01.7 07.2 
+Tim_Minchin/AJt8d8JPEdQ_0000002 10.6 14.6 
+Tim_Minchin/AJt8d8JPEdQ_0000003 15.8 24.9 
+Tim_Minchin/AJt8d8JPEdQ_0000004 37.9 45.8 
+Tim_Minchin/AJt8d8JPEdQ_0000005 62.7 67.3 
+Tim_Minchin/AJt8d8JPEdQ_0000006 63.3 67.3 
+Tim_Minchin/AJt8d8JPEdQ_0000007 70.0 74.9 
+Tim_Minchin/AJt8d8JPEdQ_0000008 84.6 89.3 
+Tim_Minchin/AJt8d8JPEdQ_0000009 91.8 105.3 
+Tim_Minchin/AJt8d8JPEdQ_0000010 105.9 112.4 

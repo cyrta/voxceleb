@@ -1,0 +1,7 @@
+POI: 			William_Fichtner 
+Youtube ID: 	UZRjm0TM2So 
+Video length: 	396.0 sec 
+Set (V): 		dev 
+ 
+William_Fichtner/UZRjm0TM2So_0000001 64.8 69.5 
+William_Fichtner/UZRjm0TM2So_0000002 99.6 105.7 

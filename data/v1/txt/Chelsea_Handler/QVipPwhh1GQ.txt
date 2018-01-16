@@ -1,0 +1,8 @@
+POI: 			Chelsea_Handler 
+Youtube ID: 	QVipPwhh1GQ 
+Video length: 	424.8 sec 
+Set (V): 		dev 
+ 
+Chelsea_Handler/QVipPwhh1GQ_0000001 02.7 11.5 
+Chelsea_Handler/QVipPwhh1GQ_0000002 20.2 24.6 
+Chelsea_Handler/QVipPwhh1GQ_0000003 26.5 33.9 

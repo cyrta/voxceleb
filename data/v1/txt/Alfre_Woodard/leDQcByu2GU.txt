@@ -1,0 +1,17 @@
+POI: 			Alfre_Woodard 
+Youtube ID: 	leDQcByu2GU 
+Video length: 	292.3 sec 
+Set (V): 		dev 
+ 
+Alfre_Woodard/leDQcByu2GU_0000001 24.6 33.5 
+Alfre_Woodard/leDQcByu2GU_0000002 36.7 43.1 
+Alfre_Woodard/leDQcByu2GU_0000003 46.1 56.4 
+Alfre_Woodard/leDQcByu2GU_0000004 60.6 71.6 
+Alfre_Woodard/leDQcByu2GU_0000005 74.1 81.5 
+Alfre_Woodard/leDQcByu2GU_0000006 85.3 94.7 
+Alfre_Woodard/leDQcByu2GU_0000007 133.4 148.6 
+Alfre_Woodard/leDQcByu2GU_0000008 153.7 158.8 
+Alfre_Woodard/leDQcByu2GU_0000009 239.4 246.2 
+Alfre_Woodard/leDQcByu2GU_0000010 266.4 271.3 
+Alfre_Woodard/leDQcByu2GU_0000011 275.8 280.5 
+Alfre_Woodard/leDQcByu2GU_0000012 283.4 289.2 

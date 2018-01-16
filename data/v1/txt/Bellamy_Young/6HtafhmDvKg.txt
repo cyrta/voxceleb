@@ -1,0 +1,12 @@
+POI: 			Bellamy_Young 
+Youtube ID: 	6HtafhmDvKg 
+Video length: 	595.3 sec 
+Set (V): 		dev 
+ 
+Bellamy_Young/6HtafhmDvKg_0000001 168.9 177.5 
+Bellamy_Young/6HtafhmDvKg_0000002 237.0 244.8 
+Bellamy_Young/6HtafhmDvKg_0000003 337.4 345.6 
+Bellamy_Young/6HtafhmDvKg_0000004 508.8 513.4 
+Bellamy_Young/6HtafhmDvKg_0000005 518.2 523.7 
+Bellamy_Young/6HtafhmDvKg_0000006 537.8 541.8 
+Bellamy_Young/6HtafhmDvKg_0000007 548.4 553.8 

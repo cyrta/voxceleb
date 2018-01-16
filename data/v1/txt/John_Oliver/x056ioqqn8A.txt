@@ -1,0 +1,12 @@
+POI: 			John_Oliver 
+Youtube ID: 	x056ioqqn8A 
+Video length: 	307.5 sec 
+Set (V): 		dev 
+ 
+John_Oliver/x056ioqqn8A_0000001 71.6 78.6 
+John_Oliver/x056ioqqn8A_0000002 89.4 97.6 
+John_Oliver/x056ioqqn8A_0000003 137.8 148.1 
+John_Oliver/x056ioqqn8A_0000004 157.3 162.0 
+John_Oliver/x056ioqqn8A_0000005 177.9 183.6 
+John_Oliver/x056ioqqn8A_0000006 233.6 240.0 
+John_Oliver/x056ioqqn8A_0000007 286.4 292.1 

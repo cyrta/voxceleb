@@ -1,0 +1,11 @@
+POI: 			Molly_Ringwald 
+Youtube ID: 	Jat1jXjU4dg 
+Video length: 	462.2 sec 
+Set (V): 		dev 
+ 
+Molly_Ringwald/Jat1jXjU4dg_0000001 123.4 134.4 
+Molly_Ringwald/Jat1jXjU4dg_0000002 248.2 256.1 
+Molly_Ringwald/Jat1jXjU4dg_0000003 306.0 320.9 
+Molly_Ringwald/Jat1jXjU4dg_0000004 400.6 419.2 
+Molly_Ringwald/Jat1jXjU4dg_0000005 420.4 424.5 
+Molly_Ringwald/Jat1jXjU4dg_0000006 403.1 408.4 

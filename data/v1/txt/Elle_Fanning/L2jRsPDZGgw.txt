@@ -1,0 +1,17 @@
+POI: 			Elle_Fanning 
+Youtube ID: 	L2jRsPDZGgw 
+Video length: 	273.6 sec 
+Set (V): 		test 
+ 
+Elle_Fanning/L2jRsPDZGgw_0000001 18.3 44.5 
+Elle_Fanning/L2jRsPDZGgw_0000002 46.3 53.5 
+Elle_Fanning/L2jRsPDZGgw_0000003 64.3 89.1 
+Elle_Fanning/L2jRsPDZGgw_0000004 102.8 108.9 
+Elle_Fanning/L2jRsPDZGgw_0000005 133.6 139.6 
+Elle_Fanning/L2jRsPDZGgw_0000006 157.3 165.4 
+Elle_Fanning/L2jRsPDZGgw_0000007 165.8 188.0 
+Elle_Fanning/L2jRsPDZGgw_0000008 188.5 196.1 
+Elle_Fanning/L2jRsPDZGgw_0000009 210.1 221.6 
+Elle_Fanning/L2jRsPDZGgw_0000010 238.8 251.8 
+Elle_Fanning/L2jRsPDZGgw_0000011 252.4 257.0 
+Elle_Fanning/L2jRsPDZGgw_0000012 257.6 264.7 

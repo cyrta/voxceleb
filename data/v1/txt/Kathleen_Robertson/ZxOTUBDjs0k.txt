@@ -1,0 +1,9 @@
+POI: 			Kathleen_Robertson 
+Youtube ID: 	ZxOTUBDjs0k 
+Video length: 	200.9 sec 
+Set (V): 		dev 
+ 
+Kathleen_Robertson/ZxOTUBDjs0k_0000001 43.4 48.0 
+Kathleen_Robertson/ZxOTUBDjs0k_0000002 99.6 108.0 
+Kathleen_Robertson/ZxOTUBDjs0k_0000003 135.5 140.6 
+Kathleen_Robertson/ZxOTUBDjs0k_0000004 143.0 148.5 

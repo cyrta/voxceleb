@@ -1,0 +1,7 @@
+POI: 			Todd_Lasance 
+Youtube ID: 	NMEgbZBJEKM 
+Video length: 	158.0 sec 
+Set (V): 		dev 
+ 
+Todd_Lasance/NMEgbZBJEKM_0000001 41.1 58.5 
+Todd_Lasance/NMEgbZBJEKM_0000002 76.6 85.0 

@@ -1,0 +1,7 @@
+POI: 			Lucy_Hale 
+Youtube ID: 	PxtkoUFKdPY 
+Video length: 	128.9 sec 
+Set (V): 		dev 
+ 
+Lucy_Hale/PxtkoUFKdPY_0000001 51.0 58.5 
+Lucy_Hale/PxtkoUFKdPY_0000002 98.4 102.9 

@@ -1,0 +1,9 @@
+POI: 			Jacob_Latimore 
+Youtube ID: 	FiyTw1mHYTY 
+Video length: 	70.1 sec 
+Set (V): 		dev 
+ 
+Jacob_Latimore/FiyTw1mHYTY_0000001 20.6 30.5 
+Jacob_Latimore/FiyTw1mHYTY_0000002 31.6 37.2 
+Jacob_Latimore/FiyTw1mHYTY_0000003 39.6 47.6 
+Jacob_Latimore/FiyTw1mHYTY_0000004 48.3 54.1 

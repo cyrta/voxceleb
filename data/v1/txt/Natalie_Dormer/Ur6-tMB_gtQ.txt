@@ -1,0 +1,8 @@
+POI: 			Natalie_Dormer 
+Youtube ID: 	Ur6-tMB_gtQ 
+Video length: 	369.7 sec 
+Set (V): 		dev 
+ 
+Natalie_Dormer/Ur6-tMB_gtQ_0000001 166.0 173.9 
+Natalie_Dormer/Ur6-tMB_gtQ_0000002 238.8 245.6 
+Natalie_Dormer/Ur6-tMB_gtQ_0000003 311.7 316.2 

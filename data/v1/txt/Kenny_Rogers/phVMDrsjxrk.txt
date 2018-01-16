@@ -1,0 +1,31 @@
+POI: 			Kenny_Rogers 
+Youtube ID: 	phVMDrsjxrk 
+Video length: 	4715.2 sec 
+Set (V): 		dev 
+ 
+Kenny_Rogers/phVMDrsjxrk_0000001 290.3 296.4 
+Kenny_Rogers/phVMDrsjxrk_0000002 326.5 333.6 
+Kenny_Rogers/phVMDrsjxrk_0000003 592.9 597.0 
+Kenny_Rogers/phVMDrsjxrk_0000004 604.3 618.8 
+Kenny_Rogers/phVMDrsjxrk_0000005 970.4 975.5 
+Kenny_Rogers/phVMDrsjxrk_0000006 978.5 992.2 
+Kenny_Rogers/phVMDrsjxrk_0000007 995.1 1008.0 
+Kenny_Rogers/phVMDrsjxrk_0000008 1414.9 1430.1 
+Kenny_Rogers/phVMDrsjxrk_0000009 1796.5 1801.6 
+Kenny_Rogers/phVMDrsjxrk_0000010 1807.7 1812.0 
+Kenny_Rogers/phVMDrsjxrk_0000011 1818.8 1823.3 
+Kenny_Rogers/phVMDrsjxrk_0000012 2245.4 2251.0 
+Kenny_Rogers/phVMDrsjxrk_0000013 2404.0 2408.8 
+Kenny_Rogers/phVMDrsjxrk_0000014 2417.1 2422.7 
+Kenny_Rogers/phVMDrsjxrk_0000015 2427.9 2432.4 
+Kenny_Rogers/phVMDrsjxrk_0000016 2434.1 2438.0 
+Kenny_Rogers/phVMDrsjxrk_0000017 2438.8 2443.4 
+Kenny_Rogers/phVMDrsjxrk_0000018 2740.8 2751.8 
+Kenny_Rogers/phVMDrsjxrk_0000019 3009.6 3015.6 
+Kenny_Rogers/phVMDrsjxrk_0000020 3178.0 3183.8 
+Kenny_Rogers/phVMDrsjxrk_0000021 3396.9 3404.4 
+Kenny_Rogers/phVMDrsjxrk_0000022 3566.6 3572.0 
+Kenny_Rogers/phVMDrsjxrk_0000023 3580.6 3586.2 
+Kenny_Rogers/phVMDrsjxrk_0000024 3646.3 3655.5 
+Kenny_Rogers/phVMDrsjxrk_0000025 3682.2 3690.2 
+Kenny_Rogers/phVMDrsjxrk_0000026 4042.1 4050.0 

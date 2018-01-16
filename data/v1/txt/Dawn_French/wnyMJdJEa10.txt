@@ -1,0 +1,18 @@
+POI: 			Dawn_French 
+Youtube ID: 	wnyMJdJEa10 
+Video length: 	543.5 sec 
+Set (V): 		dev 
+ 
+Dawn_French/wnyMJdJEa10_0000001 77.5 84.3 
+Dawn_French/wnyMJdJEa10_0000002 92.9 97.1 
+Dawn_French/wnyMJdJEa10_0000003 186.2 191.6 
+Dawn_French/wnyMJdJEa10_0000004 278.6 282.7 
+Dawn_French/wnyMJdJEa10_0000005 311.6 317.9 
+Dawn_French/wnyMJdJEa10_0000006 333.9 339.0 
+Dawn_French/wnyMJdJEa10_0000007 343.6 351.4 
+Dawn_French/wnyMJdJEa10_0000008 370.7 382.0 
+Dawn_French/wnyMJdJEa10_0000009 392.7 400.6 
+Dawn_French/wnyMJdJEa10_0000010 442.2 446.6 
+Dawn_French/wnyMJdJEa10_0000011 450.8 459.6 
+Dawn_French/wnyMJdJEa10_0000012 490.9 498.1 
+Dawn_French/wnyMJdJEa10_0000013 515.0 521.4 

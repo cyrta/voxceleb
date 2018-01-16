@@ -1,0 +1,11 @@
+POI: 			John_Slattery 
+Youtube ID: 	7Liq3razkdQ 
+Video length: 	270.9 sec 
+Set (V): 		dev 
+ 
+John_Slattery/7Liq3razkdQ_0000001 39.8 50.0 
+John_Slattery/7Liq3razkdQ_0000002 53.1 64.8 
+John_Slattery/7Liq3razkdQ_0000003 65.9 72.0 
+John_Slattery/7Liq3razkdQ_0000004 130.8 134.9 
+John_Slattery/7Liq3razkdQ_0000005 136.7 144.0 
+John_Slattery/7Liq3razkdQ_0000006 145.7 150.8 

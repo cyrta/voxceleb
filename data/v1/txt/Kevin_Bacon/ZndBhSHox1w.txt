@@ -1,0 +1,16 @@
+POI: 			Kevin_Bacon 
+Youtube ID: 	ZndBhSHox1w 
+Video length: 	529.3 sec 
+Set (V): 		dev 
+ 
+Kevin_Bacon/ZndBhSHox1w_0000001 71.4 79.5 
+Kevin_Bacon/ZndBhSHox1w_0000002 105.3 114.6 
+Kevin_Bacon/ZndBhSHox1w_0000003 179.8 184.6 
+Kevin_Bacon/ZndBhSHox1w_0000004 168.3 172.4 
+Kevin_Bacon/ZndBhSHox1w_0000005 173.4 178.8 
+Kevin_Bacon/ZndBhSHox1w_0000006 372.9 378.3 
+Kevin_Bacon/ZndBhSHox1w_0000007 383.8 388.0 
+Kevin_Bacon/ZndBhSHox1w_0000008 388.6 404.9 
+Kevin_Bacon/ZndBhSHox1w_0000009 422.0 429.3 
+Kevin_Bacon/ZndBhSHox1w_0000010 442.6 453.0 
+Kevin_Bacon/ZndBhSHox1w_0000011 475.1 482.9 

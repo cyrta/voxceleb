@@ -1,0 +1,16 @@
+POI: 			Eugenio_Derbez 
+Youtube ID: 	cpXXdMJuCdw 
+Video length: 	207.2 sec 
+Set (V): 		test 
+ 
+Eugenio_Derbez/cpXXdMJuCdw_0000001 21.7 25.7 
+Eugenio_Derbez/cpXXdMJuCdw_0000002 26.4 43.4 
+Eugenio_Derbez/cpXXdMJuCdw_0000003 53.9 61.9 
+Eugenio_Derbez/cpXXdMJuCdw_0000004 80.3 90.6 
+Eugenio_Derbez/cpXXdMJuCdw_0000005 101.3 105.8 
+Eugenio_Derbez/cpXXdMJuCdw_0000006 107.8 112.7 
+Eugenio_Derbez/cpXXdMJuCdw_0000007 119.2 126.6 
+Eugenio_Derbez/cpXXdMJuCdw_0000008 128.6 132.8 
+Eugenio_Derbez/cpXXdMJuCdw_0000009 137.2 145.5 
+Eugenio_Derbez/cpXXdMJuCdw_0000010 180.2 186.7 
+Eugenio_Derbez/cpXXdMJuCdw_0000011 187.4 205.4 

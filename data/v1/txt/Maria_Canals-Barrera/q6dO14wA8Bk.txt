@@ -1,0 +1,11 @@
+POI: 			Maria_Canals-Barrera 
+Youtube ID: 	q6dO14wA8Bk 
+Video length: 	189.4 sec 
+Set (V): 		dev 
+ 
+Maria_Canals-Barrera/q6dO14wA8Bk_0000001 20.0 28.6 
+Maria_Canals-Barrera/q6dO14wA8Bk_0000002 51.3 57.2 
+Maria_Canals-Barrera/q6dO14wA8Bk_0000003 91.0 96.0 
+Maria_Canals-Barrera/q6dO14wA8Bk_0000004 99.2 103.8 
+Maria_Canals-Barrera/q6dO14wA8Bk_0000005 116.4 124.9 
+Maria_Canals-Barrera/q6dO14wA8Bk_0000006 161.1 167.4 

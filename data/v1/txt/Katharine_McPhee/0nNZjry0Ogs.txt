@@ -1,0 +1,8 @@
+POI: 			Katharine_McPhee 
+Youtube ID: 	0nNZjry0Ogs 
+Video length: 	194.6 sec 
+Set (V): 		dev 
+ 
+Katharine_McPhee/0nNZjry0Ogs_0000001 53.4 69.8 
+Katharine_McPhee/0nNZjry0Ogs_0000002 123.4 130.1 
+Katharine_McPhee/0nNZjry0Ogs_0000003 133.2 145.1 

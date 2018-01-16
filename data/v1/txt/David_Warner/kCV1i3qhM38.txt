@@ -1,0 +1,30 @@
+POI: 			David_Warner 
+Youtube ID: 	kCV1i3qhM38 
+Video length: 	896.2 sec 
+Set (V): 		dev 
+ 
+David_Warner/kCV1i3qhM38_0000001 33.9 38.1 
+David_Warner/kCV1i3qhM38_0000002 38.6 44.9 
+David_Warner/kCV1i3qhM38_0000003 103.1 112.2 
+David_Warner/kCV1i3qhM38_0000004 116.9 122.4 
+David_Warner/kCV1i3qhM38_0000005 128.6 147.4 
+David_Warner/kCV1i3qhM38_0000006 176.3 188.9 
+David_Warner/kCV1i3qhM38_0000007 193.4 218.0 
+David_Warner/kCV1i3qhM38_0000008 236.4 249.6 
+David_Warner/kCV1i3qhM38_0000009 257.5 278.6 
+David_Warner/kCV1i3qhM38_0000010 303.9 326.2 
+David_Warner/kCV1i3qhM38_0000011 353.5 360.9 
+David_Warner/kCV1i3qhM38_0000012 388.4 404.2 
+David_Warner/kCV1i3qhM38_0000013 428.6 435.4 
+David_Warner/kCV1i3qhM38_0000014 460.9 471.4 
+David_Warner/kCV1i3qhM38_0000015 480.3 486.8 
+David_Warner/kCV1i3qhM38_0000016 507.4 520.0 
+David_Warner/kCV1i3qhM38_0000017 538.5 548.4 
+David_Warner/kCV1i3qhM38_0000018 553.2 557.9 
+David_Warner/kCV1i3qhM38_0000019 568.2 572.6 
+David_Warner/kCV1i3qhM38_0000020 647.2 659.1 
+David_Warner/kCV1i3qhM38_0000021 669.3 673.8 
+David_Warner/kCV1i3qhM38_0000022 693.8 715.0 
+David_Warner/kCV1i3qhM38_0000023 777.8 789.6 
+David_Warner/kCV1i3qhM38_0000024 796.9 803.5 
+David_Warner/kCV1i3qhM38_0000025 820.7 832.6 

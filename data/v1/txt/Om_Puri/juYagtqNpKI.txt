@@ -1,0 +1,12 @@
+POI: 			Om_Puri 
+Youtube ID: 	juYagtqNpKI 
+Video length: 	469.7 sec 
+Set (V): 		dev 
+ 
+Om_Puri/juYagtqNpKI_0000001 177.8 183.0 
+Om_Puri/juYagtqNpKI_0000002 198.9 203.6 
+Om_Puri/juYagtqNpKI_0000003 219.0 225.4 
+Om_Puri/juYagtqNpKI_0000004 266.1 270.3 
+Om_Puri/juYagtqNpKI_0000005 275.2 284.8 
+Om_Puri/juYagtqNpKI_0000006 409.6 415.2 
+Om_Puri/juYagtqNpKI_0000007 428.2 432.8 

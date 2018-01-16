@@ -1,0 +1,9 @@
+POI: 			Bill_Pullman 
+Youtube ID: 	HpHOcifSuXM 
+Video length: 	313.6 sec 
+Set (V): 		dev 
+ 
+Bill_Pullman/HpHOcifSuXM_0000001 61.0 65.2 
+Bill_Pullman/HpHOcifSuXM_0000002 184.5 188.6 
+Bill_Pullman/HpHOcifSuXM_0000003 260.9 265.7 
+Bill_Pullman/HpHOcifSuXM_0000004 244.4 248.8 

@@ -1,0 +1,12 @@
+POI: 			Jessie_J 
+Youtube ID: 	RRC-PLIhx_Q 
+Video length: 	401.1 sec 
+Set (V): 		dev 
+ 
+Jessie_J/RRC-PLIhx_Q_0000001 91.6 109.4 
+Jessie_J/RRC-PLIhx_Q_0000002 120.3 133.6 
+Jessie_J/RRC-PLIhx_Q_0000003 137.5 142.4 
+Jessie_J/RRC-PLIhx_Q_0000004 152.2 164.8 
+Jessie_J/RRC-PLIhx_Q_0000005 208.8 214.9 
+Jessie_J/RRC-PLIhx_Q_0000006 263.7 277.7 
+Jessie_J/RRC-PLIhx_Q_0000007 278.1 283.1 

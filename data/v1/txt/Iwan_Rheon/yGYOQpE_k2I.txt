@@ -1,0 +1,12 @@
+POI: 			Iwan_Rheon 
+Youtube ID: 	yGYOQpE_k2I 
+Video length: 	188.3 sec 
+Set (V): 		dev 
+ 
+Iwan_Rheon/yGYOQpE_k2I_0000001 11.2 21.6 
+Iwan_Rheon/yGYOQpE_k2I_0000002 32.8 38.2 
+Iwan_Rheon/yGYOQpE_k2I_0000003 50.3 54.8 
+Iwan_Rheon/yGYOQpE_k2I_0000004 56.5 63.2 
+Iwan_Rheon/yGYOQpE_k2I_0000005 69.2 74.4 
+Iwan_Rheon/yGYOQpE_k2I_0000006 79.7 89.3 
+Iwan_Rheon/yGYOQpE_k2I_0000007 173.1 177.4 

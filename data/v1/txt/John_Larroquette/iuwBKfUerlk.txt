@@ -1,0 +1,41 @@
+POI: 			John_Larroquette 
+Youtube ID: 	iuwBKfUerlk 
+Video length: 	795.4 sec 
+Set (V): 		dev 
+ 
+John_Larroquette/iuwBKfUerlk_0000001 39.1 43.2 
+John_Larroquette/iuwBKfUerlk_0000002 48.7 54.1 
+John_Larroquette/iuwBKfUerlk_0000003 63.0 78.6 
+John_Larroquette/iuwBKfUerlk_0000004 83.6 94.6 
+John_Larroquette/iuwBKfUerlk_0000005 94.9 115.2 
+John_Larroquette/iuwBKfUerlk_0000006 115.3 125.5 
+John_Larroquette/iuwBKfUerlk_0000007 127.4 137.1 
+John_Larroquette/iuwBKfUerlk_0000008 138.9 146.9 
+John_Larroquette/iuwBKfUerlk_0000009 153.9 164.2 
+John_Larroquette/iuwBKfUerlk_0000010 168.7 187.4 
+John_Larroquette/iuwBKfUerlk_0000011 188.4 205.5 
+John_Larroquette/iuwBKfUerlk_0000012 212.7 223.4 
+John_Larroquette/iuwBKfUerlk_0000013 249.0 255.0 
+John_Larroquette/iuwBKfUerlk_0000014 255.2 273.7 
+John_Larroquette/iuwBKfUerlk_0000015 279.0 285.3 
+John_Larroquette/iuwBKfUerlk_0000016 285.7 304.7 
+John_Larroquette/iuwBKfUerlk_0000017 330.4 351.4 
+John_Larroquette/iuwBKfUerlk_0000018 356.1 365.1 
+John_Larroquette/iuwBKfUerlk_0000019 374.5 380.6 
+John_Larroquette/iuwBKfUerlk_0000020 383.5 389.4 
+John_Larroquette/iuwBKfUerlk_0000021 389.9 396.6 
+John_Larroquette/iuwBKfUerlk_0000022 397.1 402.0 
+John_Larroquette/iuwBKfUerlk_0000023 433.4 450.9 
+John_Larroquette/iuwBKfUerlk_0000024 455.7 464.2 
+John_Larroquette/iuwBKfUerlk_0000025 466.2 482.9 
+John_Larroquette/iuwBKfUerlk_0000026 503.2 511.2 
+John_Larroquette/iuwBKfUerlk_0000027 555.3 559.9 
+John_Larroquette/iuwBKfUerlk_0000028 564.8 572.1 
+John_Larroquette/iuwBKfUerlk_0000029 576.8 583.0 
+John_Larroquette/iuwBKfUerlk_0000030 614.8 624.8 
+John_Larroquette/iuwBKfUerlk_0000031 642.1 661.7 
+John_Larroquette/iuwBKfUerlk_0000032 670.8 679.8 
+John_Larroquette/iuwBKfUerlk_0000033 694.9 699.4 
+John_Larroquette/iuwBKfUerlk_0000034 704.9 724.5 
+John_Larroquette/iuwBKfUerlk_0000035 735.0 749.3 
+John_Larroquette/iuwBKfUerlk_0000036 762.6 767.7 

@@ -1,0 +1,7 @@
+POI: 			Andrew_Garfield 
+Youtube ID: 	ImmE-bvauDU 
+Video length: 	238.5 sec 
+Set (V): 		dev 
+ 
+Andrew_Garfield/ImmE-bvauDU_0000001 19.2 23.6 
+Andrew_Garfield/ImmE-bvauDU_0000002 105.9 115.5 

@@ -1,0 +1,12 @@
+POI: 			Patrick_Wilson 
+Youtube ID: 	KltYTRMpADA 
+Video length: 	247.4 sec 
+Set (V): 		dev 
+ 
+Patrick_Wilson/KltYTRMpADA_0000001 23.8 34.2 
+Patrick_Wilson/KltYTRMpADA_0000002 59.4 66.4 
+Patrick_Wilson/KltYTRMpADA_0000003 67.1 81.2 
+Patrick_Wilson/KltYTRMpADA_0000004 83.0 89.0 
+Patrick_Wilson/KltYTRMpADA_0000005 89.6 105.7 
+Patrick_Wilson/KltYTRMpADA_0000006 159.5 167.4 
+Patrick_Wilson/KltYTRMpADA_0000007 184.4 194.0 

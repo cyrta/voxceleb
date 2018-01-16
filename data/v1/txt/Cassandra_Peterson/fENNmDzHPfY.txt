@@ -1,0 +1,9 @@
+POI: 			Cassandra_Peterson 
+Youtube ID: 	fENNmDzHPfY 
+Video length: 	178.0 sec 
+Set (V): 		dev 
+ 
+Cassandra_Peterson/fENNmDzHPfY_0000001 17.8 22.0 
+Cassandra_Peterson/fENNmDzHPfY_0000002 43.4 47.6 
+Cassandra_Peterson/fENNmDzHPfY_0000003 71.3 76.8 
+Cassandra_Peterson/fENNmDzHPfY_0000004 90.1 95.1 

@@ -1,0 +1,18 @@
+POI: 			Denis_Leary 
+Youtube ID: 	b9PF15O4Ero 
+Video length: 	252.9 sec 
+Set (V): 		dev 
+ 
+Denis_Leary/b9PF15O4Ero_0000001 35.3 52.2 
+Denis_Leary/b9PF15O4Ero_0000002 58.0 62.7 
+Denis_Leary/b9PF15O4Ero_0000003 51.9 62.7 
+Denis_Leary/b9PF15O4Ero_0000004 92.8 96.8 
+Denis_Leary/b9PF15O4Ero_0000005 99.5 108.6 
+Denis_Leary/b9PF15O4Ero_0000006 112.6 117.4 
+Denis_Leary/b9PF15O4Ero_0000007 117.5 123.9 
+Denis_Leary/b9PF15O4Ero_0000008 147.8 153.8 
+Denis_Leary/b9PF15O4Ero_0000009 160.4 165.2 
+Denis_Leary/b9PF15O4Ero_0000010 186.2 204.4 
+Denis_Leary/b9PF15O4Ero_0000011 217.2 221.5 
+Denis_Leary/b9PF15O4Ero_0000012 224.1 230.4 
+Denis_Leary/b9PF15O4Ero_0000013 231.0 245.5 

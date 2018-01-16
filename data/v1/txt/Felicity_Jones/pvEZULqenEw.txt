@@ -1,0 +1,25 @@
+POI: 			Felicity_Jones 
+Youtube ID: 	pvEZULqenEw 
+Video length: 	786.3 sec 
+Set (V): 		dev 
+ 
+Felicity_Jones/pvEZULqenEw_0000001 452.2 456.4 
+Felicity_Jones/pvEZULqenEw_0000002 458.5 471.0 
+Felicity_Jones/pvEZULqenEw_0000003 483.3 495.0 
+Felicity_Jones/pvEZULqenEw_0000004 498.0 512.0 
+Felicity_Jones/pvEZULqenEw_0000005 531.1 543.0 
+Felicity_Jones/pvEZULqenEw_0000006 531.2 543.0 
+Felicity_Jones/pvEZULqenEw_0000007 565.3 577.6 
+Felicity_Jones/pvEZULqenEw_0000008 581.6 595.6 
+Felicity_Jones/pvEZULqenEw_0000009 599.3 604.5 
+Felicity_Jones/pvEZULqenEw_0000010 606.2 616.4 
+Felicity_Jones/pvEZULqenEw_0000011 623.2 639.0 
+Felicity_Jones/pvEZULqenEw_0000012 645.5 655.0 
+Felicity_Jones/pvEZULqenEw_0000013 659.3 664.2 
+Felicity_Jones/pvEZULqenEw_0000014 669.9 677.2 
+Felicity_Jones/pvEZULqenEw_0000015 683.6 695.2 
+Felicity_Jones/pvEZULqenEw_0000016 712.4 717.9 
+Felicity_Jones/pvEZULqenEw_0000017 721.2 733.4 
+Felicity_Jones/pvEZULqenEw_0000018 744.0 752.7 
+Felicity_Jones/pvEZULqenEw_0000019 766.5 773.0 
+Felicity_Jones/pvEZULqenEw_0000020 766.5 770.7 

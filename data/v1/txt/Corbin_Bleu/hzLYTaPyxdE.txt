@@ -1,0 +1,7 @@
+POI: 			Corbin_Bleu 
+Youtube ID: 	hzLYTaPyxdE 
+Video length: 	308.3 sec 
+Set (V): 		dev 
+ 
+Corbin_Bleu/hzLYTaPyxdE_0000001 78.8 84.9 
+Corbin_Bleu/hzLYTaPyxdE_0000002 123.0 129.0 

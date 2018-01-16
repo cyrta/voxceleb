@@ -1,0 +1,7 @@
+POI: 			Ralph_Macchio 
+Youtube ID: 	ZWwzw0ReL5I 
+Video length: 	116.4 sec 
+Set (V): 		dev 
+ 
+Ralph_Macchio/ZWwzw0ReL5I_0000001 37.2 42.8 
+Ralph_Macchio/ZWwzw0ReL5I_0000002 67.4 72.3 

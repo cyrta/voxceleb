@@ -1,0 +1,18 @@
+POI: 			Idina_Menzel 
+Youtube ID: 	hNcpyeW879M 
+Video length: 	434.5 sec 
+Set (V): 		dev 
+ 
+Idina_Menzel/hNcpyeW879M_0000001 47.7 53.7 
+Idina_Menzel/hNcpyeW879M_0000002 62.6 68.1 
+Idina_Menzel/hNcpyeW879M_0000003 102.8 107.7 
+Idina_Menzel/hNcpyeW879M_0000004 114.5 120.4 
+Idina_Menzel/hNcpyeW879M_0000005 122.2 127.0 
+Idina_Menzel/hNcpyeW879M_0000006 137.7 142.6 
+Idina_Menzel/hNcpyeW879M_0000007 143.8 148.7 
+Idina_Menzel/hNcpyeW879M_0000008 150.8 157.2 
+Idina_Menzel/hNcpyeW879M_0000009 318.2 325.9 
+Idina_Menzel/hNcpyeW879M_0000010 327.0 339.8 
+Idina_Menzel/hNcpyeW879M_0000011 343.9 350.8 
+Idina_Menzel/hNcpyeW879M_0000012 393.2 402.0 
+Idina_Menzel/hNcpyeW879M_0000013 409.1 416.3 

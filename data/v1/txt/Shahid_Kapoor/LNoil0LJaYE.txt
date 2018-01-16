@@ -1,0 +1,7 @@
+POI: 			Shahid_Kapoor 
+Youtube ID: 	LNoil0LJaYE 
+Video length: 	475.7 sec 
+Set (V): 		dev 
+ 
+Shahid_Kapoor/LNoil0LJaYE_0000001 201.0 205.2 
+Shahid_Kapoor/LNoil0LJaYE_0000002 280.5 285.6 

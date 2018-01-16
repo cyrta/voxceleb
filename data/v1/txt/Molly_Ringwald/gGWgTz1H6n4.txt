@@ -1,0 +1,10 @@
+POI: 			Molly_Ringwald 
+Youtube ID: 	gGWgTz1H6n4 
+Video length: 	1189.3 sec 
+Set (V): 		dev 
+ 
+Molly_Ringwald/gGWgTz1H6n4_0000001 224.5 229.6 
+Molly_Ringwald/gGWgTz1H6n4_0000002 391.8 404.0 
+Molly_Ringwald/gGWgTz1H6n4_0000003 449.7 456.6 
+Molly_Ringwald/gGWgTz1H6n4_0000004 478.5 488.7 
+Molly_Ringwald/gGWgTz1H6n4_0000005 1128.6 1134.8 

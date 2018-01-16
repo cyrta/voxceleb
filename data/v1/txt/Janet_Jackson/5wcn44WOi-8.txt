@@ -1,0 +1,8 @@
+POI: 			Janet_Jackson 
+Youtube ID: 	5wcn44WOi-8 
+Video length: 	900.2 sec 
+Set (V): 		dev 
+ 
+Janet_Jackson/5wcn44WOi-8_0000001 357.1 362.7 
+Janet_Jackson/5wcn44WOi-8_0000002 427.9 432.4 
+Janet_Jackson/5wcn44WOi-8_0000003 768.9 773.3 

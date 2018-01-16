@@ -1,0 +1,9 @@
+POI: 			Jasmine_Guy 
+Youtube ID: 	PJ0cRa91MK4 
+Video length: 	376.4 sec 
+Set (V): 		dev 
+ 
+Jasmine_Guy/PJ0cRa91MK4_0000001 187.0 191.9 
+Jasmine_Guy/PJ0cRa91MK4_0000002 195.5 202.4 
+Jasmine_Guy/PJ0cRa91MK4_0000003 217.7 222.3 
+Jasmine_Guy/PJ0cRa91MK4_0000004 254.2 259.4 

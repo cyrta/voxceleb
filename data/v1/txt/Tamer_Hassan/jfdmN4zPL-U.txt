@@ -1,0 +1,14 @@
+POI: 			Tamer_Hassan 
+Youtube ID: 	jfdmN4zPL-U 
+Video length: 	159.5 sec 
+Set (V): 		dev 
+ 
+Tamer_Hassan/jfdmN4zPL-U_0000001 06.9 13.0 
+Tamer_Hassan/jfdmN4zPL-U_0000002 13.4 24.8 
+Tamer_Hassan/jfdmN4zPL-U_0000003 26.8 36.1 
+Tamer_Hassan/jfdmN4zPL-U_0000004 37.0 58.8 
+Tamer_Hassan/jfdmN4zPL-U_0000005 42.5 47.6 
+Tamer_Hassan/jfdmN4zPL-U_0000006 61.5 75.4 
+Tamer_Hassan/jfdmN4zPL-U_0000007 92.8 102.3 
+Tamer_Hassan/jfdmN4zPL-U_0000008 113.7 147.3 
+Tamer_Hassan/jfdmN4zPL-U_0000009 149.8 154.9 

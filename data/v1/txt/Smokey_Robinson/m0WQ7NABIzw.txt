@@ -1,0 +1,37 @@
+POI: 			Smokey_Robinson 
+Youtube ID: 	m0WQ7NABIzw 
+Video length: 	838.6 sec 
+Set (V): 		dev 
+ 
+Smokey_Robinson/m0WQ7NABIzw_0000001 42.2 47.7 
+Smokey_Robinson/m0WQ7NABIzw_0000002 53.7 58.4 
+Smokey_Robinson/m0WQ7NABIzw_0000003 58.9 64.6 
+Smokey_Robinson/m0WQ7NABIzw_0000004 65.2 85.4 
+Smokey_Robinson/m0WQ7NABIzw_0000005 87.0 115.7 
+Smokey_Robinson/m0WQ7NABIzw_0000006 116.4 136.1 
+Smokey_Robinson/m0WQ7NABIzw_0000007 157.3 161.6 
+Smokey_Robinson/m0WQ7NABIzw_0000008 168.3 173.1 
+Smokey_Robinson/m0WQ7NABIzw_0000009 183.4 190.8 
+Smokey_Robinson/m0WQ7NABIzw_0000010 194.2 202.5 
+Smokey_Robinson/m0WQ7NABIzw_0000011 207.2 212.6 
+Smokey_Robinson/m0WQ7NABIzw_0000012 212.9 219.2 
+Smokey_Robinson/m0WQ7NABIzw_0000013 219.6 224.3 
+Smokey_Robinson/m0WQ7NABIzw_0000014 226.1 231.3 
+Smokey_Robinson/m0WQ7NABIzw_0000015 232.8 237.1 
+Smokey_Robinson/m0WQ7NABIzw_0000016 280.3 285.5 
+Smokey_Robinson/m0WQ7NABIzw_0000017 295.1 302.1 
+Smokey_Robinson/m0WQ7NABIzw_0000018 310.4 319.6 
+Smokey_Robinson/m0WQ7NABIzw_0000019 321.7 340.2 
+Smokey_Robinson/m0WQ7NABIzw_0000020 340.5 344.6 
+Smokey_Robinson/m0WQ7NABIzw_0000021 354.5 360.6 
+Smokey_Robinson/m0WQ7NABIzw_0000022 360.9 366.4 
+Smokey_Robinson/m0WQ7NABIzw_0000023 378.6 384.8 
+Smokey_Robinson/m0WQ7NABIzw_0000024 543.8 551.0 
+Smokey_Robinson/m0WQ7NABIzw_0000025 616.7 632.5 
+Smokey_Robinson/m0WQ7NABIzw_0000026 670.7 678.0 
+Smokey_Robinson/m0WQ7NABIzw_0000027 680.2 684.3 
+Smokey_Robinson/m0WQ7NABIzw_0000028 719.1 729.8 
+Smokey_Robinson/m0WQ7NABIzw_0000029 741.5 746.8 
+Smokey_Robinson/m0WQ7NABIzw_0000030 759.9 768.1 
+Smokey_Robinson/m0WQ7NABIzw_0000031 792.5 801.3 
+Smokey_Robinson/m0WQ7NABIzw_0000032 801.4 808.6 

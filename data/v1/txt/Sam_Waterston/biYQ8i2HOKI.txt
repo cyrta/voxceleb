@@ -1,0 +1,11 @@
+POI: 			Sam_Waterston 
+Youtube ID: 	biYQ8i2HOKI 
+Video length: 	188.4 sec 
+Set (V): 		dev 
+ 
+Sam_Waterston/biYQ8i2HOKI_0000001 35.4 55.0 
+Sam_Waterston/biYQ8i2HOKI_0000002 91.0 104.6 
+Sam_Waterston/biYQ8i2HOKI_0000003 105.0 110.8 
+Sam_Waterston/biYQ8i2HOKI_0000004 131.7 139.4 
+Sam_Waterston/biYQ8i2HOKI_0000005 148.4 153.4 
+Sam_Waterston/biYQ8i2HOKI_0000006 166.8 174.8 

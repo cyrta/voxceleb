@@ -1,0 +1,12 @@
+POI: 			Dawn_French 
+Youtube ID: 	EpBkSkmi6uQ 
+Video length: 	146.6 sec 
+Set (V): 		dev 
+ 
+Dawn_French/EpBkSkmi6uQ_0000001 00.8 05.1 
+Dawn_French/EpBkSkmi6uQ_0000002 05.7 12.2 
+Dawn_French/EpBkSkmi6uQ_0000003 36.7 47.8 
+Dawn_French/EpBkSkmi6uQ_0000004 101.1 109.0 
+Dawn_French/EpBkSkmi6uQ_0000005 109.5 114.3 
+Dawn_French/EpBkSkmi6uQ_0000006 115.4 125.4 
+Dawn_French/EpBkSkmi6uQ_0000007 128.4 137.2 

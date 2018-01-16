@@ -1,0 +1,14 @@
+POI: 			Anne_Hathaway 
+Youtube ID: 	rnj1aWhRNP8 
+Video length: 	310.3 sec 
+Set (V): 		dev 
+ 
+Anne_Hathaway/rnj1aWhRNP8_0000001 09.9 14.0 
+Anne_Hathaway/rnj1aWhRNP8_0000002 30.0 40.9 
+Anne_Hathaway/rnj1aWhRNP8_0000003 52.3 58.4 
+Anne_Hathaway/rnj1aWhRNP8_0000004 156.4 164.1 
+Anne_Hathaway/rnj1aWhRNP8_0000005 174.7 190.6 
+Anne_Hathaway/rnj1aWhRNP8_0000006 205.1 211.8 
+Anne_Hathaway/rnj1aWhRNP8_0000007 227.9 243.1 
+Anne_Hathaway/rnj1aWhRNP8_0000008 241.9 252.3 
+Anne_Hathaway/rnj1aWhRNP8_0000009 257.8 263.9 

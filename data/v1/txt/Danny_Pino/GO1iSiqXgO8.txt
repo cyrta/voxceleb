@@ -1,0 +1,17 @@
+POI: 			Danny_Pino 
+Youtube ID: 	GO1iSiqXgO8 
+Video length: 	251.2 sec 
+Set (V): 		dev 
+ 
+Danny_Pino/GO1iSiqXgO8_0000001 09.0 15.1 
+Danny_Pino/GO1iSiqXgO8_0000002 32.0 36.3 
+Danny_Pino/GO1iSiqXgO8_0000003 48.5 63.2 
+Danny_Pino/GO1iSiqXgO8_0000004 86.5 93.6 
+Danny_Pino/GO1iSiqXgO8_0000005 93.9 99.1 
+Danny_Pino/GO1iSiqXgO8_0000006 111.6 116.9 
+Danny_Pino/GO1iSiqXgO8_0000007 121.8 132.4 
+Danny_Pino/GO1iSiqXgO8_0000008 142.4 155.1 
+Danny_Pino/GO1iSiqXgO8_0000009 177.7 183.2 
+Danny_Pino/GO1iSiqXgO8_0000010 190.7 195.9 
+Danny_Pino/GO1iSiqXgO8_0000011 226.2 230.8 
+Danny_Pino/GO1iSiqXgO8_0000012 236.4 240.6 

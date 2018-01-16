@@ -1,0 +1,18 @@
+POI: 			Linda_Cardellini 
+Youtube ID: 	Z4MgQFTWRSE 
+Video length: 	374.4 sec 
+Set (V): 		dev 
+ 
+Linda_Cardellini/Z4MgQFTWRSE_0000001 45.8 50.1 
+Linda_Cardellini/Z4MgQFTWRSE_0000002 107.5 112.2 
+Linda_Cardellini/Z4MgQFTWRSE_0000003 113.5 144.5 
+Linda_Cardellini/Z4MgQFTWRSE_0000004 160.0 164.6 
+Linda_Cardellini/Z4MgQFTWRSE_0000005 180.6 195.4 
+Linda_Cardellini/Z4MgQFTWRSE_0000006 196.1 212.2 
+Linda_Cardellini/Z4MgQFTWRSE_0000007 219.6 225.6 
+Linda_Cardellini/Z4MgQFTWRSE_0000008 226.3 234.1 
+Linda_Cardellini/Z4MgQFTWRSE_0000009 236.8 251.7 
+Linda_Cardellini/Z4MgQFTWRSE_0000010 253.8 262.1 
+Linda_Cardellini/Z4MgQFTWRSE_0000011 271.5 283.0 
+Linda_Cardellini/Z4MgQFTWRSE_0000012 287.8 297.4 
+Linda_Cardellini/Z4MgQFTWRSE_0000013 308.9 336.4 

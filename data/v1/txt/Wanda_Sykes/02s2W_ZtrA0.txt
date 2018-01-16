@@ -1,0 +1,7 @@
+POI: 			Wanda_Sykes 
+Youtube ID: 	02s2W_ZtrA0 
+Video length: 	107.0 sec 
+Set (V): 		dev 
+ 
+Wanda_Sykes/02s2W_ZtrA0_0000001 09.1 15.3 
+Wanda_Sykes/02s2W_ZtrA0_0000002 16.1 21.7 

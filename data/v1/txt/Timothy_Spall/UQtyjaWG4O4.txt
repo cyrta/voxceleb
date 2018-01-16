@@ -1,0 +1,7 @@
+POI: 			Timothy_Spall 
+Youtube ID: 	UQtyjaWG4O4 
+Video length: 	183.4 sec 
+Set (V): 		dev 
+ 
+Timothy_Spall/UQtyjaWG4O4_0000001 67.4 73.7 
+Timothy_Spall/UQtyjaWG4O4_0000002 134.3 140.2 

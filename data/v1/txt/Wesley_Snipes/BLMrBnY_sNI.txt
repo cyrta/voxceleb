@@ -1,0 +1,13 @@
+POI: 			Wesley_Snipes 
+Youtube ID: 	BLMrBnY_sNI 
+Video length: 	272.8 sec 
+Set (V): 		dev 
+ 
+Wesley_Snipes/BLMrBnY_sNI_0000001 06.9 18.0 
+Wesley_Snipes/BLMrBnY_sNI_0000002 56.3 60.3 
+Wesley_Snipes/BLMrBnY_sNI_0000003 65.5 70.2 
+Wesley_Snipes/BLMrBnY_sNI_0000004 72.1 77.5 
+Wesley_Snipes/BLMrBnY_sNI_0000005 85.0 91.6 
+Wesley_Snipes/BLMrBnY_sNI_0000006 229.3 239.2 
+Wesley_Snipes/BLMrBnY_sNI_0000007 242.4 251.4 
+Wesley_Snipes/BLMrBnY_sNI_0000008 258.8 268.0 

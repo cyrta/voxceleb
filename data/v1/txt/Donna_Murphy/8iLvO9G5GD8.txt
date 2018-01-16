@@ -1,0 +1,7 @@
+POI: 			Donna_Murphy 
+Youtube ID: 	8iLvO9G5GD8 
+Video length: 	217.1 sec 
+Set (V): 		dev 
+ 
+Donna_Murphy/8iLvO9G5GD8_0000001 35.7 42.6 
+Donna_Murphy/8iLvO9G5GD8_0000002 70.6 74.6 

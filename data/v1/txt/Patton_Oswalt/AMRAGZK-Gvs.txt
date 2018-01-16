@@ -1,0 +1,7 @@
+POI: 			Patton_Oswalt 
+Youtube ID: 	AMRAGZK-Gvs 
+Video length: 	233.7 sec 
+Set (V): 		dev 
+ 
+Patton_Oswalt/AMRAGZK-Gvs_0000001 62.3 67.4 
+Patton_Oswalt/AMRAGZK-Gvs_0000002 147.1 151.2 

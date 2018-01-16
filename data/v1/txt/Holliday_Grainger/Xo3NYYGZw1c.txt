@@ -1,0 +1,24 @@
+POI: 			Holliday_Grainger 
+Youtube ID: 	Xo3NYYGZw1c 
+Video length: 	284.2 sec 
+Set (V): 		dev 
+ 
+Holliday_Grainger/Xo3NYYGZw1c_0000001 12.5 17.7 
+Holliday_Grainger/Xo3NYYGZw1c_0000002 17.9 28.4 
+Holliday_Grainger/Xo3NYYGZw1c_0000003 36.4 41.0 
+Holliday_Grainger/Xo3NYYGZw1c_0000004 41.7 46.4 
+Holliday_Grainger/Xo3NYYGZw1c_0000005 49.8 55.1 
+Holliday_Grainger/Xo3NYYGZw1c_0000006 55.4 61.7 
+Holliday_Grainger/Xo3NYYGZw1c_0000007 63.4 74.2 
+Holliday_Grainger/Xo3NYYGZw1c_0000008 84.1 89.2 
+Holliday_Grainger/Xo3NYYGZw1c_0000009 89.6 106.2 
+Holliday_Grainger/Xo3NYYGZw1c_0000010 106.8 120.4 
+Holliday_Grainger/Xo3NYYGZw1c_0000011 129.6 134.8 
+Holliday_Grainger/Xo3NYYGZw1c_0000012 135.4 142.8 
+Holliday_Grainger/Xo3NYYGZw1c_0000013 142.9 146.9 
+Holliday_Grainger/Xo3NYYGZw1c_0000014 156.4 161.7 
+Holliday_Grainger/Xo3NYYGZw1c_0000015 171.1 182.2 
+Holliday_Grainger/Xo3NYYGZw1c_0000016 182.4 187.6 
+Holliday_Grainger/Xo3NYYGZw1c_0000017 187.7 192.5 
+Holliday_Grainger/Xo3NYYGZw1c_0000018 203.6 208.2 
+Holliday_Grainger/Xo3NYYGZw1c_0000019 208.2 213.4 

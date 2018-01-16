@@ -1,0 +1,10 @@
+POI: 			Melissa_Peterman 
+Youtube ID: 	HjgJr9JeCIQ 
+Video length: 	1567.3 sec 
+Set (V): 		dev 
+ 
+Melissa_Peterman/HjgJr9JeCIQ_0000001 276.5 282.0 
+Melissa_Peterman/HjgJr9JeCIQ_0000002 657.2 664.0 
+Melissa_Peterman/HjgJr9JeCIQ_0000003 1511.3 1531.0 
+Melissa_Peterman/HjgJr9JeCIQ_0000004 1533.2 1540.7 
+Melissa_Peterman/HjgJr9JeCIQ_0000005 1542.8 1547.6 

@@ -1,0 +1,8 @@
+POI: 			Garry_Marshall 
+Youtube ID: 	OH47mupHWrY 
+Video length: 	230.4 sec 
+Set (V): 		dev 
+ 
+Garry_Marshall/OH47mupHWrY_0000001 16.0 22.7 
+Garry_Marshall/OH47mupHWrY_0000002 163.7 167.9 
+Garry_Marshall/OH47mupHWrY_0000003 201.6 208.2 

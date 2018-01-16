@@ -1,0 +1,13 @@
+POI: 			Moran_Atias 
+Youtube ID: 	ke3MIAhbK-I 
+Video length: 	186.1 sec 
+Set (V): 		dev 
+ 
+Moran_Atias/ke3MIAhbK-I_0000001 06.8 16.7 
+Moran_Atias/ke3MIAhbK-I_0000002 19.4 29.4 
+Moran_Atias/ke3MIAhbK-I_0000003 57.0 61.8 
+Moran_Atias/ke3MIAhbK-I_0000004 69.2 76.0 
+Moran_Atias/ke3MIAhbK-I_0000005 92.8 101.1 
+Moran_Atias/ke3MIAhbK-I_0000006 116.2 121.9 
+Moran_Atias/ke3MIAhbK-I_0000007 134.6 138.6 
+Moran_Atias/ke3MIAhbK-I_0000008 150.0 154.2 

@@ -1,0 +1,12 @@
+POI: 			Mia_Wasikowska 
+Youtube ID: 	8smMtzyei2A 
+Video length: 	409.4 sec 
+Set (V): 		dev 
+ 
+Mia_Wasikowska/8smMtzyei2A_0000001 27.7 34.1 
+Mia_Wasikowska/8smMtzyei2A_0000002 176.0 192.6 
+Mia_Wasikowska/8smMtzyei2A_0000003 182.4 186.7 
+Mia_Wasikowska/8smMtzyei2A_0000004 240.2 244.9 
+Mia_Wasikowska/8smMtzyei2A_0000005 245.4 255.1 
+Mia_Wasikowska/8smMtzyei2A_0000006 380.2 385.8 
+Mia_Wasikowska/8smMtzyei2A_0000007 386.4 393.1 

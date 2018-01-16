@@ -1,0 +1,14 @@
+POI: 			Josh_Brolin 
+Youtube ID: 	bf4k7UHX7yM 
+Video length: 	251.7 sec 
+Set (V): 		dev 
+ 
+Josh_Brolin/bf4k7UHX7yM_0000001 16.7 31.6 
+Josh_Brolin/bf4k7UHX7yM_0000002 32.4 40.1 
+Josh_Brolin/bf4k7UHX7yM_0000003 40.9 49.2 
+Josh_Brolin/bf4k7UHX7yM_0000004 56.0 60.5 
+Josh_Brolin/bf4k7UHX7yM_0000005 68.9 79.6 
+Josh_Brolin/bf4k7UHX7yM_0000006 85.8 90.0 
+Josh_Brolin/bf4k7UHX7yM_0000007 212.6 217.1 
+Josh_Brolin/bf4k7UHX7yM_0000008 218.8 233.5 
+Josh_Brolin/bf4k7UHX7yM_0000009 239.9 244.2 

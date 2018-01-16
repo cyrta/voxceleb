@@ -1,0 +1,8 @@
+POI: 			Andrew_Garfield 
+Youtube ID: 	yWbMeyYeUXw 
+Video length: 	540.3 sec 
+Set (V): 		dev 
+ 
+Andrew_Garfield/yWbMeyYeUXw_0000001 287.3 293.2 
+Andrew_Garfield/yWbMeyYeUXw_0000002 417.2 423.3 
+Andrew_Garfield/yWbMeyYeUXw_0000003 424.1 431.3 

@@ -1,0 +1,13 @@
+POI: 			Thandie_Newton 
+Youtube ID: 	Eoo7tBT2gQU 
+Video length: 	314.1 sec 
+Set (V): 		dev 
+ 
+Thandie_Newton/Eoo7tBT2gQU_0000001 23.8 37.1 
+Thandie_Newton/Eoo7tBT2gQU_0000002 39.6 51.6 
+Thandie_Newton/Eoo7tBT2gQU_0000003 54.2 65.0 
+Thandie_Newton/Eoo7tBT2gQU_0000004 65.3 70.3 
+Thandie_Newton/Eoo7tBT2gQU_0000005 120.8 126.0 
+Thandie_Newton/Eoo7tBT2gQU_0000006 130.7 138.5 
+Thandie_Newton/Eoo7tBT2gQU_0000007 180.5 206.2 
+Thandie_Newton/Eoo7tBT2gQU_0000008 208.0 215.6 

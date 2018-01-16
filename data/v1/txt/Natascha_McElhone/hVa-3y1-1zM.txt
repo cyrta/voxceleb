@@ -1,0 +1,11 @@
+POI: 			Natascha_McElhone 
+Youtube ID: 	hVa-3y1-1zM 
+Video length: 	115.7 sec 
+Set (V): 		dev 
+ 
+Natascha_McElhone/hVa-3y1-1zM_0000001 17.3 21.9 
+Natascha_McElhone/hVa-3y1-1zM_0000002 22.8 28.5 
+Natascha_McElhone/hVa-3y1-1zM_0000003 28.6 34.3 
+Natascha_McElhone/hVa-3y1-1zM_0000004 63.0 71.6 
+Natascha_McElhone/hVa-3y1-1zM_0000005 77.0 95.0 
+Natascha_McElhone/hVa-3y1-1zM_0000006 98.7 105.3 

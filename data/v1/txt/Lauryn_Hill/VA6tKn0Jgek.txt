@@ -1,0 +1,13 @@
+POI: 			Lauryn_Hill 
+Youtube ID: 	VA6tKn0Jgek 
+Video length: 	814.5 sec 
+Set (V): 		dev 
+ 
+Lauryn_Hill/VA6tKn0Jgek_0000001 101.5 105.7 
+Lauryn_Hill/VA6tKn0Jgek_0000002 106.1 111.4 
+Lauryn_Hill/VA6tKn0Jgek_0000003 309.0 316.0 
+Lauryn_Hill/VA6tKn0Jgek_0000004 329.4 334.4 
+Lauryn_Hill/VA6tKn0Jgek_0000005 583.2 588.0 
+Lauryn_Hill/VA6tKn0Jgek_0000006 748.6 753.6 
+Lauryn_Hill/VA6tKn0Jgek_0000007 761.8 767.4 
+Lauryn_Hill/VA6tKn0Jgek_0000008 767.8 772.3 

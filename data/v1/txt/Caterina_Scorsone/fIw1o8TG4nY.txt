@@ -1,0 +1,8 @@
+POI: 			Caterina_Scorsone 
+Youtube ID: 	fIw1o8TG4nY 
+Video length: 	61.9 sec 
+Set (V): 		dev 
+ 
+Caterina_Scorsone/fIw1o8TG4nY_0000001 18.0 28.0 
+Caterina_Scorsone/fIw1o8TG4nY_0000002 30.0 45.9 
+Caterina_Scorsone/fIw1o8TG4nY_0000003 51.7 57.4 

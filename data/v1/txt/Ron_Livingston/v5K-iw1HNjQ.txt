@@ -1,0 +1,21 @@
+POI: 			Ron_Livingston 
+Youtube ID: 	v5K-iw1HNjQ 
+Video length: 	476.5 sec 
+Set (V): 		dev 
+ 
+Ron_Livingston/v5K-iw1HNjQ_0000001 29.6 44.4 
+Ron_Livingston/v5K-iw1HNjQ_0000002 45.2 51.4 
+Ron_Livingston/v5K-iw1HNjQ_0000003 61.6 67.3 
+Ron_Livingston/v5K-iw1HNjQ_0000004 125.8 129.8 
+Ron_Livingston/v5K-iw1HNjQ_0000005 129.9 144.8 
+Ron_Livingston/v5K-iw1HNjQ_0000006 145.0 151.7 
+Ron_Livingston/v5K-iw1HNjQ_0000007 195.1 201.4 
+Ron_Livingston/v5K-iw1HNjQ_0000008 201.6 208.2 
+Ron_Livingston/v5K-iw1HNjQ_0000009 233.8 243.2 
+Ron_Livingston/v5K-iw1HNjQ_0000010 280.0 285.6 
+Ron_Livingston/v5K-iw1HNjQ_0000011 295.4 302.9 
+Ron_Livingston/v5K-iw1HNjQ_0000012 333.9 338.7 
+Ron_Livingston/v5K-iw1HNjQ_0000013 372.9 378.2 
+Ron_Livingston/v5K-iw1HNjQ_0000014 383.5 391.0 
+Ron_Livingston/v5K-iw1HNjQ_0000015 432.9 442.7 
+Ron_Livingston/v5K-iw1HNjQ_0000016 442.9 448.4 

@@ -1,0 +1,37 @@
+POI: 			Miley_Cyrus 
+Youtube ID: 	hn22gh-kpds 
+Video length: 	471.6 sec 
+Set (V): 		dev 
+ 
+Miley_Cyrus/hn22gh-kpds_0000001 01.4 07.6 
+Miley_Cyrus/hn22gh-kpds_0000002 09.0 14.4 
+Miley_Cyrus/hn22gh-kpds_0000003 15.0 40.6 
+Miley_Cyrus/hn22gh-kpds_0000004 40.7 53.9 
+Miley_Cyrus/hn22gh-kpds_0000005 62.0 66.6 
+Miley_Cyrus/hn22gh-kpds_0000006 66.8 73.4 
+Miley_Cyrus/hn22gh-kpds_0000007 74.2 80.9 
+Miley_Cyrus/hn22gh-kpds_0000008 82.0 89.9 
+Miley_Cyrus/hn22gh-kpds_0000009 57.4 73.6 
+Miley_Cyrus/hn22gh-kpds_0000010 74.2 78.6 
+Miley_Cyrus/hn22gh-kpds_0000011 92.3 114.1 
+Miley_Cyrus/hn22gh-kpds_0000012 116.0 135.6 
+Miley_Cyrus/hn22gh-kpds_0000013 144.6 149.1 
+Miley_Cyrus/hn22gh-kpds_0000014 149.7 167.2 
+Miley_Cyrus/hn22gh-kpds_0000015 176.2 192.2 
+Miley_Cyrus/hn22gh-kpds_0000016 199.6 203.8 
+Miley_Cyrus/hn22gh-kpds_0000017 206.4 226.3 
+Miley_Cyrus/hn22gh-kpds_0000018 230.6 235.0 
+Miley_Cyrus/hn22gh-kpds_0000019 235.5 243.2 
+Miley_Cyrus/hn22gh-kpds_0000020 245.1 249.4 
+Miley_Cyrus/hn22gh-kpds_0000021 251.7 258.0 
+Miley_Cyrus/hn22gh-kpds_0000022 260.2 285.1 
+Miley_Cyrus/hn22gh-kpds_0000023 287.4 296.8 
+Miley_Cyrus/hn22gh-kpds_0000024 303.4 312.0 
+Miley_Cyrus/hn22gh-kpds_0000025 313.1 317.5 
+Miley_Cyrus/hn22gh-kpds_0000026 319.8 328.1 
+Miley_Cyrus/hn22gh-kpds_0000027 331.7 349.4 
+Miley_Cyrus/hn22gh-kpds_0000028 349.4 388.0 
+Miley_Cyrus/hn22gh-kpds_0000029 391.8 400.2 
+Miley_Cyrus/hn22gh-kpds_0000030 398.6 405.3 
+Miley_Cyrus/hn22gh-kpds_0000031 410.2 423.0 
+Miley_Cyrus/hn22gh-kpds_0000032 426.4 469.3 

@@ -1,0 +1,10 @@
+POI: 			Janina_Gavankar 
+Youtube ID: 	Apo4qvE-4cM 
+Video length: 	93.9 sec 
+Set (V): 		dev 
+ 
+Janina_Gavankar/Apo4qvE-4cM_0000001 26.3 31.6 
+Janina_Gavankar/Apo4qvE-4cM_0000002 31.8 38.1 
+Janina_Gavankar/Apo4qvE-4cM_0000003 43.8 48.0 
+Janina_Gavankar/Apo4qvE-4cM_0000004 53.6 61.6 
+Janina_Gavankar/Apo4qvE-4cM_0000005 66.9 72.9 

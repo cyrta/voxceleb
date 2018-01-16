@@ -1,0 +1,18 @@
+POI: 			Jack_Reynor 
+Youtube ID: 	N4q9dIbw68Y 
+Video length: 	473.6 sec 
+Set (V): 		dev 
+ 
+Jack_Reynor/N4q9dIbw68Y_0000001 19.2 23.3 
+Jack_Reynor/N4q9dIbw68Y_0000002 24.0 28.0 
+Jack_Reynor/N4q9dIbw68Y_0000003 171.1 176.9 
+Jack_Reynor/N4q9dIbw68Y_0000004 183.8 191.7 
+Jack_Reynor/N4q9dIbw68Y_0000005 196.1 202.2 
+Jack_Reynor/N4q9dIbw68Y_0000006 307.7 313.6 
+Jack_Reynor/N4q9dIbw68Y_0000007 345.9 352.5 
+Jack_Reynor/N4q9dIbw68Y_0000008 354.8 360.2 
+Jack_Reynor/N4q9dIbw68Y_0000009 363.6 371.4 
+Jack_Reynor/N4q9dIbw68Y_0000010 400.5 404.9 
+Jack_Reynor/N4q9dIbw68Y_0000011 414.9 419.2 
+Jack_Reynor/N4q9dIbw68Y_0000012 421.6 427.4 
+Jack_Reynor/N4q9dIbw68Y_0000013 430.0 434.8 

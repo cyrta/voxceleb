@@ -1,0 +1,13 @@
+POI: 			Kelli_Williams 
+Youtube ID: 	LVFygZCB2hk 
+Video length: 	138.6 sec 
+Set (V): 		dev 
+ 
+Kelli_Williams/LVFygZCB2hk_0000001 05.0 26.6 
+Kelli_Williams/LVFygZCB2hk_0000002 27.6 46.1 
+Kelli_Williams/LVFygZCB2hk_0000003 55.0 61.3 
+Kelli_Williams/LVFygZCB2hk_0000004 64.6 80.7 
+Kelli_Williams/LVFygZCB2hk_0000005 86.4 109.6 
+Kelli_Williams/LVFygZCB2hk_0000006 92.8 109.9 
+Kelli_Williams/LVFygZCB2hk_0000007 110.1 114.5 
+Kelli_Williams/LVFygZCB2hk_0000008 130.7 137.0 

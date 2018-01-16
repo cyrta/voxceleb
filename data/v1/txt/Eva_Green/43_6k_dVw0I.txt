@@ -1,0 +1,7 @@
+POI: 			Eva_Green 
+Youtube ID: 	43_6k_dVw0I 
+Video length: 	123.3 sec 
+Set (V): 		test 
+ 
+Eva_Green/43_6k_dVw0I_0000001 32.9 38.0 
+Eva_Green/43_6k_dVw0I_0000002 114.8 121.9 

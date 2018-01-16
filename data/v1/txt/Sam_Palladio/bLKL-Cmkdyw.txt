@@ -1,0 +1,9 @@
+POI: 			Sam_Palladio 
+Youtube ID: 	bLKL-Cmkdyw 
+Video length: 	282.1 sec 
+Set (V): 		dev 
+ 
+Sam_Palladio/bLKL-Cmkdyw_0000001 31.3 36.6 
+Sam_Palladio/bLKL-Cmkdyw_0000002 99.1 103.1 
+Sam_Palladio/bLKL-Cmkdyw_0000003 112.0 121.7 
+Sam_Palladio/bLKL-Cmkdyw_0000004 161.2 174.9 

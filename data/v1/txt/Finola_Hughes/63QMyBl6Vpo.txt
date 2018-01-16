@@ -1,0 +1,9 @@
+POI: 			Finola_Hughes 
+Youtube ID: 	63QMyBl6Vpo 
+Video length: 	503.1 sec 
+Set (V): 		dev 
+ 
+Finola_Hughes/63QMyBl6Vpo_0000001 26.2 32.4 
+Finola_Hughes/63QMyBl6Vpo_0000002 39.2 44.1 
+Finola_Hughes/63QMyBl6Vpo_0000003 110.5 117.1 
+Finola_Hughes/63QMyBl6Vpo_0000004 249.1 255.2 

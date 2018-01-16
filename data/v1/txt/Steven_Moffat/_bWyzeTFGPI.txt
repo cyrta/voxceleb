@@ -1,0 +1,13 @@
+POI: 			Steven_Moffat 
+Youtube ID: 	_bWyzeTFGPI 
+Video length: 	208.9 sec 
+Set (V): 		dev 
+ 
+Steven_Moffat/_bWyzeTFGPI_0000001 22.7 27.9 
+Steven_Moffat/_bWyzeTFGPI_0000002 33.4 44.6 
+Steven_Moffat/_bWyzeTFGPI_0000003 46.4 56.4 
+Steven_Moffat/_bWyzeTFGPI_0000004 46.4 56.5 
+Steven_Moffat/_bWyzeTFGPI_0000005 71.4 80.3 
+Steven_Moffat/_bWyzeTFGPI_0000006 81.0 95.2 
+Steven_Moffat/_bWyzeTFGPI_0000007 103.4 109.4 
+Steven_Moffat/_bWyzeTFGPI_0000008 110.0 114.3 

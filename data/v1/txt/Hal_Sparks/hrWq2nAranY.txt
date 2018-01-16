@@ -1,0 +1,10 @@
+POI: 			Hal_Sparks 
+Youtube ID: 	hrWq2nAranY 
+Video length: 	209.5 sec 
+Set (V): 		dev 
+ 
+Hal_Sparks/hrWq2nAranY_0000001 62.6 66.7 
+Hal_Sparks/hrWq2nAranY_0000002 68.1 72.2 
+Hal_Sparks/hrWq2nAranY_0000003 133.2 141.4 
+Hal_Sparks/hrWq2nAranY_0000004 145.0 149.6 
+Hal_Sparks/hrWq2nAranY_0000005 150.0 155.4 

@@ -1,0 +1,13 @@
+POI: 			Jack_Reynor 
+Youtube ID: 	Uu6V8_TWD7c 
+Video length: 	194.7 sec 
+Set (V): 		dev 
+ 
+Jack_Reynor/Uu6V8_TWD7c_0000001 13.5 27.0 
+Jack_Reynor/Uu6V8_TWD7c_0000002 34.4 41.8 
+Jack_Reynor/Uu6V8_TWD7c_0000003 46.2 54.4 
+Jack_Reynor/Uu6V8_TWD7c_0000004 66.7 83.4 
+Jack_Reynor/Uu6V8_TWD7c_0000005 96.3 102.0 
+Jack_Reynor/Uu6V8_TWD7c_0000006 107.6 114.8 
+Jack_Reynor/Uu6V8_TWD7c_0000007 130.3 164.2 
+Jack_Reynor/Uu6V8_TWD7c_0000008 171.7 178.8 

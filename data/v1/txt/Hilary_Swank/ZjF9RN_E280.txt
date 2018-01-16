@@ -1,0 +1,17 @@
+POI: 			Hilary_Swank 
+Youtube ID: 	ZjF9RN_E280 
+Video length: 	209.1 sec 
+Set (V): 		dev 
+ 
+Hilary_Swank/ZjF9RN_E280_0000001 00.8 21.0 
+Hilary_Swank/ZjF9RN_E280_0000002 21.6 31.8 
+Hilary_Swank/ZjF9RN_E280_0000003 31.8 38.6 
+Hilary_Swank/ZjF9RN_E280_0000004 40.2 44.9 
+Hilary_Swank/ZjF9RN_E280_0000005 52.2 61.6 
+Hilary_Swank/ZjF9RN_E280_0000006 70.3 76.2 
+Hilary_Swank/ZjF9RN_E280_0000007 77.1 107.0 
+Hilary_Swank/ZjF9RN_E280_0000008 109.4 119.5 
+Hilary_Swank/ZjF9RN_E280_0000009 126.7 136.7 
+Hilary_Swank/ZjF9RN_E280_0000010 138.8 164.6 
+Hilary_Swank/ZjF9RN_E280_0000011 170.8 176.0 
+Hilary_Swank/ZjF9RN_E280_0000012 179.2 184.5 

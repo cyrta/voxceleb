@@ -1,0 +1,13 @@
+POI: 			Jeremy_Piven 
+Youtube ID: 	UWSXvHb_vl4 
+Video length: 	900.2 sec 
+Set (V): 		dev 
+ 
+Jeremy_Piven/UWSXvHb_vl4_0000001 78.0 83.5 
+Jeremy_Piven/UWSXvHb_vl4_0000002 145.8 156.1 
+Jeremy_Piven/UWSXvHb_vl4_0000003 160.3 164.7 
+Jeremy_Piven/UWSXvHb_vl4_0000004 251.4 257.8 
+Jeremy_Piven/UWSXvHb_vl4_0000005 286.4 292.2 
+Jeremy_Piven/UWSXvHb_vl4_0000006 311.4 319.4 
+Jeremy_Piven/UWSXvHb_vl4_0000007 566.0 573.3 
+Jeremy_Piven/UWSXvHb_vl4_0000008 804.8 810.6 

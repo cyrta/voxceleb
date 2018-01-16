@@ -1,0 +1,8 @@
+POI: 			Sean_Connery 
+Youtube ID: 	Xe1JeUtF83s 
+Video length: 	803.7 sec 
+Set (V): 		dev 
+ 
+Sean_Connery/Xe1JeUtF83s_0000001 276.8 282.8 
+Sean_Connery/Xe1JeUtF83s_0000002 566.3 570.3 
+Sean_Connery/Xe1JeUtF83s_0000003 571.9 578.2 

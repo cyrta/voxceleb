@@ -1,0 +1,12 @@
+POI: 			Oliver_Platt 
+Youtube ID: 	opAbUrCKlvE 
+Video length: 	215.5 sec 
+Set (V): 		dev 
+ 
+Oliver_Platt/opAbUrCKlvE_0000001 39.7 45.0 
+Oliver_Platt/opAbUrCKlvE_0000002 121.8 127.5 
+Oliver_Platt/opAbUrCKlvE_0000003 140.2 146.0 
+Oliver_Platt/opAbUrCKlvE_0000004 147.8 157.2 
+Oliver_Platt/opAbUrCKlvE_0000005 164.0 169.2 
+Oliver_Platt/opAbUrCKlvE_0000006 176.9 181.2 
+Oliver_Platt/opAbUrCKlvE_0000007 202.3 209.8 

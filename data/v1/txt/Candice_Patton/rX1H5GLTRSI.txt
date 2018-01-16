@@ -1,0 +1,9 @@
+POI: 			Candice_Patton 
+Youtube ID: 	rX1H5GLTRSI 
+Video length: 	409.9 sec 
+Set (V): 		dev 
+ 
+Candice_Patton/rX1H5GLTRSI_0000001 62.5 67.3 
+Candice_Patton/rX1H5GLTRSI_0000002 211.7 217.3 
+Candice_Patton/rX1H5GLTRSI_0000003 274.8 281.7 
+Candice_Patton/rX1H5GLTRSI_0000004 282.7 287.6 

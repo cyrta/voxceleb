@@ -1,0 +1,39 @@
+POI: 			John_Barrowman 
+Youtube ID: 	qDFfezpjOpI 
+Video length: 	888.0 sec 
+Set (V): 		dev 
+ 
+John_Barrowman/qDFfezpjOpI_0000001 48.7 52.6 
+John_Barrowman/qDFfezpjOpI_0000002 54.6 60.2 
+John_Barrowman/qDFfezpjOpI_0000003 60.3 64.3 
+John_Barrowman/qDFfezpjOpI_0000004 70.6 78.2 
+John_Barrowman/qDFfezpjOpI_0000005 85.0 89.3 
+John_Barrowman/qDFfezpjOpI_0000006 92.6 114.7 
+John_Barrowman/qDFfezpjOpI_0000007 158.4 175.7 
+John_Barrowman/qDFfezpjOpI_0000008 183.1 188.8 
+John_Barrowman/qDFfezpjOpI_0000009 204.4 210.0 
+John_Barrowman/qDFfezpjOpI_0000010 218.6 242.5 
+John_Barrowman/qDFfezpjOpI_0000011 245.5 250.2 
+John_Barrowman/qDFfezpjOpI_0000012 261.2 292.2 
+John_Barrowman/qDFfezpjOpI_0000013 298.5 327.3 
+John_Barrowman/qDFfezpjOpI_0000014 305.6 311.2 
+John_Barrowman/qDFfezpjOpI_0000015 329.4 348.2 
+John_Barrowman/qDFfezpjOpI_0000016 398.6 403.4 
+John_Barrowman/qDFfezpjOpI_0000017 430.5 447.8 
+John_Barrowman/qDFfezpjOpI_0000018 450.6 456.4 
+John_Barrowman/qDFfezpjOpI_0000019 456.8 461.4 
+John_Barrowman/qDFfezpjOpI_0000020 470.6 480.0 
+John_Barrowman/qDFfezpjOpI_0000021 520.5 531.3 
+John_Barrowman/qDFfezpjOpI_0000022 533.3 543.7 
+John_Barrowman/qDFfezpjOpI_0000023 558.4 565.3 
+John_Barrowman/qDFfezpjOpI_0000024 566.6 589.2 
+John_Barrowman/qDFfezpjOpI_0000025 599.6 604.9 
+John_Barrowman/qDFfezpjOpI_0000026 626.6 635.4 
+John_Barrowman/qDFfezpjOpI_0000027 649.0 660.4 
+John_Barrowman/qDFfezpjOpI_0000028 671.6 681.8 
+John_Barrowman/qDFfezpjOpI_0000029 684.7 697.0 
+John_Barrowman/qDFfezpjOpI_0000030 699.7 724.4 
+John_Barrowman/qDFfezpjOpI_0000031 729.9 756.8 
+John_Barrowman/qDFfezpjOpI_0000032 759.9 788.2 
+John_Barrowman/qDFfezpjOpI_0000033 822.4 832.1 
+John_Barrowman/qDFfezpjOpI_0000034 864.1 871.0 

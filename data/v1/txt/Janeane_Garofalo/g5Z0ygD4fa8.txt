@@ -1,0 +1,22 @@
+POI: 			Janeane_Garofalo 
+Youtube ID: 	g5Z0ygD4fa8 
+Video length: 	800.4 sec 
+Set (V): 		dev 
+ 
+Janeane_Garofalo/g5Z0ygD4fa8_0000001 88.1 92.5 
+Janeane_Garofalo/g5Z0ygD4fa8_0000002 114.0 120.8 
+Janeane_Garofalo/g5Z0ygD4fa8_0000003 125.7 134.3 
+Janeane_Garofalo/g5Z0ygD4fa8_0000004 140.6 149.8 
+Janeane_Garofalo/g5Z0ygD4fa8_0000005 154.6 158.8 
+Janeane_Garofalo/g5Z0ygD4fa8_0000006 168.5 178.8 
+Janeane_Garofalo/g5Z0ygD4fa8_0000007 229.4 236.2 
+Janeane_Garofalo/g5Z0ygD4fa8_0000008 245.9 256.9 
+Janeane_Garofalo/g5Z0ygD4fa8_0000009 278.6 287.0 
+Janeane_Garofalo/g5Z0ygD4fa8_0000010 334.8 339.3 
+Janeane_Garofalo/g5Z0ygD4fa8_0000011 369.8 375.5 
+Janeane_Garofalo/g5Z0ygD4fa8_0000012 487.4 491.7 
+Janeane_Garofalo/g5Z0ygD4fa8_0000013 551.3 557.2 
+Janeane_Garofalo/g5Z0ygD4fa8_0000014 570.4 579.0 
+Janeane_Garofalo/g5Z0ygD4fa8_0000015 627.4 632.7 
+Janeane_Garofalo/g5Z0ygD4fa8_0000016 638.8 644.7 
+Janeane_Garofalo/g5Z0ygD4fa8_0000017 672.3 681.0 

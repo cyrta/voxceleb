@@ -1,0 +1,25 @@
+POI: 			Mark_Webber 
+Youtube ID: 	O-q2vAOrt8o 
+Video length: 	316.7 sec 
+Set (V): 		dev 
+ 
+Mark_Webber/O-q2vAOrt8o_0000001 02.2 16.9 
+Mark_Webber/O-q2vAOrt8o_0000002 34.0 43.2 
+Mark_Webber/O-q2vAOrt8o_0000003 49.0 56.1 
+Mark_Webber/O-q2vAOrt8o_0000004 56.3 60.4 
+Mark_Webber/O-q2vAOrt8o_0000005 62.9 69.9 
+Mark_Webber/O-q2vAOrt8o_0000006 71.0 81.4 
+Mark_Webber/O-q2vAOrt8o_0000007 91.9 102.8 
+Mark_Webber/O-q2vAOrt8o_0000008 105.4 113.9 
+Mark_Webber/O-q2vAOrt8o_0000009 119.2 125.7 
+Mark_Webber/O-q2vAOrt8o_0000010 126.6 132.5 
+Mark_Webber/O-q2vAOrt8o_0000011 135.0 144.0 
+Mark_Webber/O-q2vAOrt8o_0000012 144.4 149.7 
+Mark_Webber/O-q2vAOrt8o_0000013 163.4 169.4 
+Mark_Webber/O-q2vAOrt8o_0000014 171.8 185.4 
+Mark_Webber/O-q2vAOrt8o_0000015 190.7 209.7 
+Mark_Webber/O-q2vAOrt8o_0000016 218.7 228.9 
+Mark_Webber/O-q2vAOrt8o_0000017 237.6 251.6 
+Mark_Webber/O-q2vAOrt8o_0000018 258.9 280.4 
+Mark_Webber/O-q2vAOrt8o_0000019 282.9 307.1 
+Mark_Webber/O-q2vAOrt8o_0000020 309.8 315.0 

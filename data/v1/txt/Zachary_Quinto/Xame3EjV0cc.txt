@@ -1,0 +1,25 @@
+POI: 			Zachary_Quinto 
+Youtube ID: 	Xame3EjV0cc 
+Video length: 	443.3 sec 
+Set (V): 		dev 
+ 
+Zachary_Quinto/Xame3EjV0cc_0000001 10.6 23.9 
+Zachary_Quinto/Xame3EjV0cc_0000002 24.3 28.3 
+Zachary_Quinto/Xame3EjV0cc_0000003 50.7 55.4 
+Zachary_Quinto/Xame3EjV0cc_0000004 58.7 63.8 
+Zachary_Quinto/Xame3EjV0cc_0000005 72.6 77.8 
+Zachary_Quinto/Xame3EjV0cc_0000006 203.7 214.4 
+Zachary_Quinto/Xame3EjV0cc_0000007 220.2 225.3 
+Zachary_Quinto/Xame3EjV0cc_0000008 227.7 232.1 
+Zachary_Quinto/Xame3EjV0cc_0000009 307.6 311.6 
+Zachary_Quinto/Xame3EjV0cc_0000010 315.8 327.5 
+Zachary_Quinto/Xame3EjV0cc_0000011 328.4 336.0 
+Zachary_Quinto/Xame3EjV0cc_0000012 337.3 347.4 
+Zachary_Quinto/Xame3EjV0cc_0000013 348.2 353.0 
+Zachary_Quinto/Xame3EjV0cc_0000014 353.8 358.4 
+Zachary_Quinto/Xame3EjV0cc_0000015 380.4 386.1 
+Zachary_Quinto/Xame3EjV0cc_0000016 394.5 400.4 
+Zachary_Quinto/Xame3EjV0cc_0000017 400.4 408.4 
+Zachary_Quinto/Xame3EjV0cc_0000018 413.4 422.7 
+Zachary_Quinto/Xame3EjV0cc_0000019 423.0 432.2 
+Zachary_Quinto/Xame3EjV0cc_0000020 433.1 437.2 

@@ -1,0 +1,10 @@
+POI: 			Maria_Sharapova 
+Youtube ID: 	cCvjRG74PAs 
+Video length: 	154.3 sec 
+Set (V): 		dev 
+ 
+Maria_Sharapova/cCvjRG74PAs_0000001 04.3 21.6 
+Maria_Sharapova/cCvjRG74PAs_0000002 37.1 56.8 
+Maria_Sharapova/cCvjRG74PAs_0000003 56.9 76.8 
+Maria_Sharapova/cCvjRG74PAs_0000004 97.4 110.2 
+Maria_Sharapova/cCvjRG74PAs_0000005 123.1 149.6 

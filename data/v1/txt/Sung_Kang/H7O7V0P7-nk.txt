@@ -1,0 +1,13 @@
+POI: 			Sung_Kang 
+Youtube ID: 	H7O7V0P7-nk 
+Video length: 	162.8 sec 
+Set (V): 		dev 
+ 
+Sung_Kang/H7O7V0P7-nk_0000001 13.8 19.2 
+Sung_Kang/H7O7V0P7-nk_0000002 23.5 29.0 
+Sung_Kang/H7O7V0P7-nk_0000003 36.5 41.4 
+Sung_Kang/H7O7V0P7-nk_0000004 67.3 77.7 
+Sung_Kang/H7O7V0P7-nk_0000005 83.2 97.0 
+Sung_Kang/H7O7V0P7-nk_0000006 101.2 110.2 
+Sung_Kang/H7O7V0P7-nk_0000007 110.4 117.1 
+Sung_Kang/H7O7V0P7-nk_0000008 117.8 122.6 

@@ -1,0 +1,11 @@
+POI: 			Daniel_Auteuil 
+Youtube ID: 	DKTy6fV3GiE 
+Video length: 	195.1 sec 
+Set (V): 		dev 
+ 
+Daniel_Auteuil/DKTy6fV3GiE_0000001 01.0 05.6 
+Daniel_Auteuil/DKTy6fV3GiE_0000002 58.4 62.8 
+Daniel_Auteuil/DKTy6fV3GiE_0000003 68.7 78.2 
+Daniel_Auteuil/DKTy6fV3GiE_0000004 87.3 91.8 
+Daniel_Auteuil/DKTy6fV3GiE_0000005 134.3 141.6 
+Daniel_Auteuil/DKTy6fV3GiE_0000006 144.7 148.9 

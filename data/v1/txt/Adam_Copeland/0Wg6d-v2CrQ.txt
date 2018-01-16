@@ -1,0 +1,13 @@
+POI: 			Adam_Copeland 
+Youtube ID: 	0Wg6d-v2CrQ 
+Video length: 	452.1 sec 
+Set (V): 		dev 
+ 
+Adam_Copeland/0Wg6d-v2CrQ_0000001 57.1 61.3 
+Adam_Copeland/0Wg6d-v2CrQ_0000002 66.3 72.0 
+Adam_Copeland/0Wg6d-v2CrQ_0000003 180.7 184.8 
+Adam_Copeland/0Wg6d-v2CrQ_0000004 186.0 191.6 
+Adam_Copeland/0Wg6d-v2CrQ_0000005 246.7 251.7 
+Adam_Copeland/0Wg6d-v2CrQ_0000006 253.6 258.6 
+Adam_Copeland/0Wg6d-v2CrQ_0000007 320.8 324.9 
+Adam_Copeland/0Wg6d-v2CrQ_0000008 421.7 425.9 

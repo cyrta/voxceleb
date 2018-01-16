@@ -1,0 +1,10 @@
+POI: 			Janice_Dickinson 
+Youtube ID: 	pjNOMA67QXY 
+Video length: 	67.7 sec 
+Set (V): 		dev 
+ 
+Janice_Dickinson/pjNOMA67QXY_0000001 07.8 15.8 
+Janice_Dickinson/pjNOMA67QXY_0000002 20.8 25.6 
+Janice_Dickinson/pjNOMA67QXY_0000003 26.2 38.4 
+Janice_Dickinson/pjNOMA67QXY_0000004 40.2 46.8 
+Janice_Dickinson/pjNOMA67QXY_0000005 50.8 55.3 

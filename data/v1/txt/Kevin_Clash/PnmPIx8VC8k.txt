@@ -1,0 +1,11 @@
+POI: 			Kevin_Clash 
+Youtube ID: 	PnmPIx8VC8k 
+Video length: 	112.3 sec 
+Set (V): 		dev 
+ 
+Kevin_Clash/PnmPIx8VC8k_0000001 15.2 21.6 
+Kevin_Clash/PnmPIx8VC8k_0000002 29.9 34.6 
+Kevin_Clash/PnmPIx8VC8k_0000003 36.2 42.2 
+Kevin_Clash/PnmPIx8VC8k_0000004 51.2 59.3 
+Kevin_Clash/PnmPIx8VC8k_0000005 64.5 84.7 
+Kevin_Clash/PnmPIx8VC8k_0000006 88.5 102.0 

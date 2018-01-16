@@ -1,0 +1,9 @@
+POI: 			Corey_Stoll 
+Youtube ID: 	o8rUIVxn30E 
+Video length: 	158.5 sec 
+Set (V): 		dev 
+ 
+Corey_Stoll/o8rUIVxn30E_0000001 09.9 14.0 
+Corey_Stoll/o8rUIVxn30E_0000002 36.6 42.4 
+Corey_Stoll/o8rUIVxn30E_0000003 99.2 104.2 
+Corey_Stoll/o8rUIVxn30E_0000004 129.6 133.6 

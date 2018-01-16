@@ -1,0 +1,16 @@
+POI: 			Lorde 
+Youtube ID: 	LkKfYIopFtg 
+Video length: 	551.6 sec 
+Set (V): 		dev 
+ 
+Lorde/LkKfYIopFtg_0000001 60.0 64.3 
+Lorde/LkKfYIopFtg_0000002 91.8 96.0 
+Lorde/LkKfYIopFtg_0000003 221.6 226.2 
+Lorde/LkKfYIopFtg_0000004 252.0 256.7 
+Lorde/LkKfYIopFtg_0000005 257.2 263.3 
+Lorde/LkKfYIopFtg_0000006 285.3 291.4 
+Lorde/LkKfYIopFtg_0000007 291.8 296.0 
+Lorde/LkKfYIopFtg_0000008 296.6 308.8 
+Lorde/LkKfYIopFtg_0000009 339.0 343.9 
+Lorde/LkKfYIopFtg_0000010 384.7 388.6 
+Lorde/LkKfYIopFtg_0000011 405.8 411.2 

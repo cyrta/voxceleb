@@ -1,0 +1,10 @@
+POI: 			Lucy_Hale 
+Youtube ID: 	HL909G-L6tM 
+Video length: 	471.8 sec 
+Set (V): 		dev 
+ 
+Lucy_Hale/HL909G-L6tM_0000001 291.7 295.6 
+Lucy_Hale/HL909G-L6tM_0000002 334.5 339.6 
+Lucy_Hale/HL909G-L6tM_0000003 345.8 351.5 
+Lucy_Hale/HL909G-L6tM_0000004 420.0 424.6 
+Lucy_Hale/HL909G-L6tM_0000005 440.4 444.5 

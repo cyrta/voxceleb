@@ -1,0 +1,19 @@
+POI: 			James_Nesbitt 
+Youtube ID: 	mGmr20KJoUU 
+Video length: 	389.2 sec 
+Set (V): 		dev 
+ 
+James_Nesbitt/mGmr20KJoUU_0000001 19.7 37.4 
+James_Nesbitt/mGmr20KJoUU_0000002 46.8 59.2 
+James_Nesbitt/mGmr20KJoUU_0000003 70.8 80.9 
+James_Nesbitt/mGmr20KJoUU_0000004 83.4 95.2 
+James_Nesbitt/mGmr20KJoUU_0000005 112.9 120.8 
+James_Nesbitt/mGmr20KJoUU_0000006 127.5 148.3 
+James_Nesbitt/mGmr20KJoUU_0000007 160.4 171.9 
+James_Nesbitt/mGmr20KJoUU_0000008 181.8 189.6 
+James_Nesbitt/mGmr20KJoUU_0000009 189.8 205.8 
+James_Nesbitt/mGmr20KJoUU_0000010 214.6 220.3 
+James_Nesbitt/mGmr20KJoUU_0000011 252.1 259.0 
+James_Nesbitt/mGmr20KJoUU_0000012 278.4 292.4 
+James_Nesbitt/mGmr20KJoUU_0000013 307.1 315.0 
+James_Nesbitt/mGmr20KJoUU_0000014 366.6 377.0 

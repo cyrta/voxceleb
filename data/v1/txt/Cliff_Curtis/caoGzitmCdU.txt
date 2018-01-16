@@ -1,0 +1,9 @@
+POI: 			Cliff_Curtis 
+Youtube ID: 	caoGzitmCdU 
+Video length: 	194.6 sec 
+Set (V): 		dev 
+ 
+Cliff_Curtis/caoGzitmCdU_0000001 96.6 102.9 
+Cliff_Curtis/caoGzitmCdU_0000002 106.3 111.0 
+Cliff_Curtis/caoGzitmCdU_0000003 112.3 122.0 
+Cliff_Curtis/caoGzitmCdU_0000004 157.1 161.8 

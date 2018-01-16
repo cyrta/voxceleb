@@ -1,0 +1,11 @@
+POI: 			Melora_Hardin 
+Youtube ID: 	C5n6zyycuCo 
+Video length: 	287.4 sec 
+Set (V): 		dev 
+ 
+Melora_Hardin/C5n6zyycuCo_0000001 23.0 27.2 
+Melora_Hardin/C5n6zyycuCo_0000002 38.5 46.7 
+Melora_Hardin/C5n6zyycuCo_0000003 31.7 47.0 
+Melora_Hardin/C5n6zyycuCo_0000004 55.9 62.6 
+Melora_Hardin/C5n6zyycuCo_0000005 214.4 229.6 
+Melora_Hardin/C5n6zyycuCo_0000006 231.5 247.2 

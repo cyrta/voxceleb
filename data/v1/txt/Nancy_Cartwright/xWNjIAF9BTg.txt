@@ -1,0 +1,7 @@
+POI: 			Nancy_Cartwright 
+Youtube ID: 	xWNjIAF9BTg 
+Video length: 	42.3 sec 
+Set (V): 		dev 
+ 
+Nancy_Cartwright/xWNjIAF9BTg_0000001 05.4 13.3 
+Nancy_Cartwright/xWNjIAF9BTg_0000002 26.0 31.4 

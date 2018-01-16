@@ -1,0 +1,8 @@
+POI: 			Miriam_Margolyes 
+Youtube ID: 	ZOZJebAPHHU 
+Video length: 	127.2 sec 
+Set (V): 		dev 
+ 
+Miriam_Margolyes/ZOZJebAPHHU_0000001 36.6 47.5 
+Miriam_Margolyes/ZOZJebAPHHU_0000002 59.5 74.7 
+Miriam_Margolyes/ZOZJebAPHHU_0000003 81.1 87.8 

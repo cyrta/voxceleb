@@ -1,0 +1,7 @@
+POI: 			Anthony_Rapp 
+Youtube ID: 	vpdPhUAPjDQ 
+Video length: 	528.7 sec 
+Set (V): 		dev 
+ 
+Anthony_Rapp/vpdPhUAPjDQ_0000001 229.6 233.7 
+Anthony_Rapp/vpdPhUAPjDQ_0000002 517.3 522.9 

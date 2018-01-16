@@ -1,0 +1,8 @@
+POI: 			Denis_Leary 
+Youtube ID: 	GSCJucPs3EQ 
+Video length: 	190.8 sec 
+Set (V): 		dev 
+ 
+Denis_Leary/GSCJucPs3EQ_0000001 25.7 33.0 
+Denis_Leary/GSCJucPs3EQ_0000002 118.8 127.2 
+Denis_Leary/GSCJucPs3EQ_0000003 127.8 144.7 

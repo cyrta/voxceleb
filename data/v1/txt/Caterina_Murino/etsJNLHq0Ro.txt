@@ -1,0 +1,12 @@
+POI: 			Caterina_Murino 
+Youtube ID: 	etsJNLHq0Ro 
+Video length: 	256.2 sec 
+Set (V): 		dev 
+ 
+Caterina_Murino/etsJNLHq0Ro_0000001 30.2 35.4 
+Caterina_Murino/etsJNLHq0Ro_0000002 51.0 55.1 
+Caterina_Murino/etsJNLHq0Ro_0000003 63.4 68.8 
+Caterina_Murino/etsJNLHq0Ro_0000004 72.4 78.0 
+Caterina_Murino/etsJNLHq0Ro_0000005 84.1 90.3 
+Caterina_Murino/etsJNLHq0Ro_0000006 104.8 113.4 
+Caterina_Murino/etsJNLHq0Ro_0000007 221.6 229.0 

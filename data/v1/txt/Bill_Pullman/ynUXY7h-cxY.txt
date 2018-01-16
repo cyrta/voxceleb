@@ -1,0 +1,10 @@
+POI: 			Bill_Pullman 
+Youtube ID: 	ynUXY7h-cxY 
+Video length: 	376.5 sec 
+Set (V): 		dev 
+ 
+Bill_Pullman/ynUXY7h-cxY_0000001 198.8 204.4 
+Bill_Pullman/ynUXY7h-cxY_0000002 217.9 224.4 
+Bill_Pullman/ynUXY7h-cxY_0000003 237.8 257.6 
+Bill_Pullman/ynUXY7h-cxY_0000004 262.8 273.8 
+Bill_Pullman/ynUXY7h-cxY_0000005 277.5 286.7 

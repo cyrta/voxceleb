@@ -1,0 +1,16 @@
+POI: 			Edward_Asner 
+Youtube ID: 	QOq66XogW3Q 
+Video length: 	259.6 sec 
+Set (V): 		test 
+ 
+Edward_Asner/QOq66XogW3Q_0000001 21.6 26.8 
+Edward_Asner/QOq66XogW3Q_0000002 38.9 43.1 
+Edward_Asner/QOq66XogW3Q_0000003 51.6 58.7 
+Edward_Asner/QOq66XogW3Q_0000004 151.0 157.3 
+Edward_Asner/QOq66XogW3Q_0000005 170.5 176.4 
+Edward_Asner/QOq66XogW3Q_0000006 177.7 181.8 
+Edward_Asner/QOq66XogW3Q_0000007 191.8 195.7 
+Edward_Asner/QOq66XogW3Q_0000008 204.2 208.8 
+Edward_Asner/QOq66XogW3Q_0000009 215.9 221.5 
+Edward_Asner/QOq66XogW3Q_0000010 221.7 226.6 
+Edward_Asner/QOq66XogW3Q_0000011 238.1 242.6 

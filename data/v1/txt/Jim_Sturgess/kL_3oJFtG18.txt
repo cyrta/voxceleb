@@ -1,0 +1,15 @@
+POI: 			Jim_Sturgess 
+Youtube ID: 	kL_3oJFtG18 
+Video length: 	602.2 sec 
+Set (V): 		dev 
+ 
+Jim_Sturgess/kL_3oJFtG18_0000001 75.8 80.4 
+Jim_Sturgess/kL_3oJFtG18_0000002 121.9 134.2 
+Jim_Sturgess/kL_3oJFtG18_0000003 162.1 167.7 
+Jim_Sturgess/kL_3oJFtG18_0000004 227.8 232.6 
+Jim_Sturgess/kL_3oJFtG18_0000005 332.8 340.8 
+Jim_Sturgess/kL_3oJFtG18_0000006 379.4 383.7 
+Jim_Sturgess/kL_3oJFtG18_0000007 415.9 422.1 
+Jim_Sturgess/kL_3oJFtG18_0000008 462.4 468.3 
+Jim_Sturgess/kL_3oJFtG18_0000009 504.1 514.6 
+Jim_Sturgess/kL_3oJFtG18_0000010 568.3 576.2 

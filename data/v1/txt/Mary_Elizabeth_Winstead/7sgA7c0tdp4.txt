@@ -1,0 +1,30 @@
+POI: 			Mary_Elizabeth_Winstead 
+Youtube ID: 	7sgA7c0tdp4 
+Video length: 	1524.7 sec 
+Set (V): 		dev 
+ 
+Mary_Elizabeth_Winstead/7sgA7c0tdp4_0000001 245.1 249.9 
+Mary_Elizabeth_Winstead/7sgA7c0tdp4_0000002 250.4 260.7 
+Mary_Elizabeth_Winstead/7sgA7c0tdp4_0000003 316.2 324.7 
+Mary_Elizabeth_Winstead/7sgA7c0tdp4_0000004 329.3 333.9 
+Mary_Elizabeth_Winstead/7sgA7c0tdp4_0000005 338.3 344.9 
+Mary_Elizabeth_Winstead/7sgA7c0tdp4_0000006 348.3 352.8 
+Mary_Elizabeth_Winstead/7sgA7c0tdp4_0000007 423.2 430.6 
+Mary_Elizabeth_Winstead/7sgA7c0tdp4_0000008 513.6 520.0 
+Mary_Elizabeth_Winstead/7sgA7c0tdp4_0000009 529.5 535.5 
+Mary_Elizabeth_Winstead/7sgA7c0tdp4_0000010 620.2 630.1 
+Mary_Elizabeth_Winstead/7sgA7c0tdp4_0000011 639.4 648.2 
+Mary_Elizabeth_Winstead/7sgA7c0tdp4_0000012 675.9 679.9 
+Mary_Elizabeth_Winstead/7sgA7c0tdp4_0000013 680.1 692.6 
+Mary_Elizabeth_Winstead/7sgA7c0tdp4_0000014 727.6 734.5 
+Mary_Elizabeth_Winstead/7sgA7c0tdp4_0000015 734.8 740.4 
+Mary_Elizabeth_Winstead/7sgA7c0tdp4_0000016 767.8 775.2 
+Mary_Elizabeth_Winstead/7sgA7c0tdp4_0000017 790.0 803.3 
+Mary_Elizabeth_Winstead/7sgA7c0tdp4_0000018 840.7 844.6 
+Mary_Elizabeth_Winstead/7sgA7c0tdp4_0000019 948.0 956.4 
+Mary_Elizabeth_Winstead/7sgA7c0tdp4_0000020 1016.2 1020.9 
+Mary_Elizabeth_Winstead/7sgA7c0tdp4_0000021 1069.4 1080.6 
+Mary_Elizabeth_Winstead/7sgA7c0tdp4_0000022 1081.3 1088.5 
+Mary_Elizabeth_Winstead/7sgA7c0tdp4_0000023 1095.4 1111.5 
+Mary_Elizabeth_Winstead/7sgA7c0tdp4_0000024 1183.7 1188.1 
+Mary_Elizabeth_Winstead/7sgA7c0tdp4_0000025 1190.7 1195.4 

@@ -1,0 +1,14 @@
+POI: 			Tahj_Mowry 
+Youtube ID: 	TrlTVdfWv4M 
+Video length: 	407.0 sec 
+Set (V): 		dev 
+ 
+Tahj_Mowry/TrlTVdfWv4M_0000001 52.3 57.4 
+Tahj_Mowry/TrlTVdfWv4M_0000002 60.9 65.2 
+Tahj_Mowry/TrlTVdfWv4M_0000003 79.3 87.7 
+Tahj_Mowry/TrlTVdfWv4M_0000004 128.0 132.0 
+Tahj_Mowry/TrlTVdfWv4M_0000005 143.8 150.0 
+Tahj_Mowry/TrlTVdfWv4M_0000006 168.7 172.7 
+Tahj_Mowry/TrlTVdfWv4M_0000007 220.2 227.9 
+Tahj_Mowry/TrlTVdfWv4M_0000008 364.7 370.2 
+Tahj_Mowry/TrlTVdfWv4M_0000009 390.0 399.5 

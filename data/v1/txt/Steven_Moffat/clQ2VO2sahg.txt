@@ -1,0 +1,12 @@
+POI: 			Steven_Moffat 
+Youtube ID: 	clQ2VO2sahg 
+Video length: 	241.8 sec 
+Set (V): 		dev 
+ 
+Steven_Moffat/clQ2VO2sahg_0000001 43.7 48.1 
+Steven_Moffat/clQ2VO2sahg_0000002 51.2 60.3 
+Steven_Moffat/clQ2VO2sahg_0000003 90.7 96.8 
+Steven_Moffat/clQ2VO2sahg_0000004 97.0 119.9 
+Steven_Moffat/clQ2VO2sahg_0000005 122.2 127.0 
+Steven_Moffat/clQ2VO2sahg_0000006 129.2 136.5 
+Steven_Moffat/clQ2VO2sahg_0000007 230.6 234.9 

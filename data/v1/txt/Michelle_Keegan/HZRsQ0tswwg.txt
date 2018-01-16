@@ -1,0 +1,7 @@
+POI: 			Michelle_Keegan 
+Youtube ID: 	HZRsQ0tswwg 
+Video length: 	516.9 sec 
+Set (V): 		dev 
+ 
+Michelle_Keegan/HZRsQ0tswwg_0000001 125.6 133.8 
+Michelle_Keegan/HZRsQ0tswwg_0000002 163.5 168.8 

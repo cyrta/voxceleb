@@ -1,0 +1,18 @@
+POI: 			Tilda_Swinton 
+Youtube ID: 	a8dGuQZodtw 
+Video length: 	262.7 sec 
+Set (V): 		dev 
+ 
+Tilda_Swinton/a8dGuQZodtw_0000001 29.0 35.0 
+Tilda_Swinton/a8dGuQZodtw_0000002 38.0 49.0 
+Tilda_Swinton/a8dGuQZodtw_0000003 49.8 55.0 
+Tilda_Swinton/a8dGuQZodtw_0000004 55.6 65.1 
+Tilda_Swinton/a8dGuQZodtw_0000005 99.0 107.1 
+Tilda_Swinton/a8dGuQZodtw_0000006 108.0 112.4 
+Tilda_Swinton/a8dGuQZodtw_0000007 117.2 122.0 
+Tilda_Swinton/a8dGuQZodtw_0000008 126.7 148.0 
+Tilda_Swinton/a8dGuQZodtw_0000009 153.2 158.4 
+Tilda_Swinton/a8dGuQZodtw_0000010 184.1 195.6 
+Tilda_Swinton/a8dGuQZodtw_0000011 201.0 213.4 
+Tilda_Swinton/a8dGuQZodtw_0000012 218.2 230.7 
+Tilda_Swinton/a8dGuQZodtw_0000013 238.4 247.4 

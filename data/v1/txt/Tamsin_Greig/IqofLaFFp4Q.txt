@@ -1,0 +1,7 @@
+POI: 			Tamsin_Greig 
+Youtube ID: 	IqofLaFFp4Q 
+Video length: 	482.1 sec 
+Set (V): 		dev 
+ 
+Tamsin_Greig/IqofLaFFp4Q_0000001 100.0 105.2 
+Tamsin_Greig/IqofLaFFp4Q_0000002 458.6 463.4 

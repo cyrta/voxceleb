@@ -1,0 +1,8 @@
+POI: 			Jennifer_Coolidge 
+Youtube ID: 	HTL8iLI75TY 
+Video length: 	378.9 sec 
+Set (V): 		dev 
+ 
+Jennifer_Coolidge/HTL8iLI75TY_0000001 143.1 148.2 
+Jennifer_Coolidge/HTL8iLI75TY_0000002 150.9 155.2 
+Jennifer_Coolidge/HTL8iLI75TY_0000003 155.6 162.8 

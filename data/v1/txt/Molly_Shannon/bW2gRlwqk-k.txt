@@ -1,0 +1,10 @@
+POI: 			Molly_Shannon 
+Youtube ID: 	bW2gRlwqk-k 
+Video length: 	313.3 sec 
+Set (V): 		dev 
+ 
+Molly_Shannon/bW2gRlwqk-k_0000001 66.8 75.1 
+Molly_Shannon/bW2gRlwqk-k_0000002 145.3 149.4 
+Molly_Shannon/bW2gRlwqk-k_0000003 153.9 167.7 
+Molly_Shannon/bW2gRlwqk-k_0000004 190.8 196.6 
+Molly_Shannon/bW2gRlwqk-k_0000005 277.6 282.0 

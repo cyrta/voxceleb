@@ -1,0 +1,10 @@
+POI: 			Eric_Roberts 
+Youtube ID: 	kWOMY99knWI 
+Video length: 	1514.9 sec 
+Set (V): 		test 
+ 
+Eric_Roberts/kWOMY99knWI_0000001 90.6 95.6 
+Eric_Roberts/kWOMY99knWI_0000002 362.9 379.4 
+Eric_Roberts/kWOMY99knWI_0000003 383.2 387.5 
+Eric_Roberts/kWOMY99knWI_0000004 388.2 393.4 
+Eric_Roberts/kWOMY99knWI_0000005 445.7 456.2 

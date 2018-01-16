@@ -1,0 +1,10 @@
+POI: 			John_Carroll_Lynch 
+Youtube ID: 	03SSllwNkGk 
+Video length: 	268.9 sec 
+Set (V): 		dev 
+ 
+John_Carroll_Lynch/03SSllwNkGk_0000001 10.6 20.9 
+John_Carroll_Lynch/03SSllwNkGk_0000002 21.4 40.4 
+John_Carroll_Lynch/03SSllwNkGk_0000003 41.1 62.6 
+John_Carroll_Lynch/03SSllwNkGk_0000004 194.8 199.7 
+John_Carroll_Lynch/03SSllwNkGk_0000005 204.0 218.6 

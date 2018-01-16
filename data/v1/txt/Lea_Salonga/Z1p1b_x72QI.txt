@@ -1,0 +1,14 @@
+POI: 			Lea_Salonga 
+Youtube ID: 	Z1p1b_x72QI 
+Video length: 	468.7 sec 
+Set (V): 		dev 
+ 
+Lea_Salonga/Z1p1b_x72QI_0000001 35.6 45.2 
+Lea_Salonga/Z1p1b_x72QI_0000002 50.0 59.6 
+Lea_Salonga/Z1p1b_x72QI_0000003 141.2 159.0 
+Lea_Salonga/Z1p1b_x72QI_0000004 165.3 169.5 
+Lea_Salonga/Z1p1b_x72QI_0000005 173.4 180.2 
+Lea_Salonga/Z1p1b_x72QI_0000006 239.4 245.0 
+Lea_Salonga/Z1p1b_x72QI_0000007 247.2 255.4 
+Lea_Salonga/Z1p1b_x72QI_0000008 367.2 381.0 
+Lea_Salonga/Z1p1b_x72QI_0000009 392.5 397.4 

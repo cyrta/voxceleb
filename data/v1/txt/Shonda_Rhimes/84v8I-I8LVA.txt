@@ -1,0 +1,9 @@
+POI: 			Shonda_Rhimes 
+Youtube ID: 	84v8I-I8LVA 
+Video length: 	481.9 sec 
+Set (V): 		dev 
+ 
+Shonda_Rhimes/84v8I-I8LVA_0000001 139.2 144.6 
+Shonda_Rhimes/84v8I-I8LVA_0000002 207.0 212.8 
+Shonda_Rhimes/84v8I-I8LVA_0000003 284.9 289.5 
+Shonda_Rhimes/84v8I-I8LVA_0000004 358.0 364.0 

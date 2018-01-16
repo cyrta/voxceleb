@@ -1,0 +1,12 @@
+POI: 			Ralf_Little 
+Youtube ID: 	WXO_nLiFoxg 
+Video length: 	269.1 sec 
+Set (V): 		dev 
+ 
+Ralf_Little/WXO_nLiFoxg_0000001 77.1 84.2 
+Ralf_Little/WXO_nLiFoxg_0000002 86.4 91.2 
+Ralf_Little/WXO_nLiFoxg_0000003 101.2 106.4 
+Ralf_Little/WXO_nLiFoxg_0000004 132.5 138.3 
+Ralf_Little/WXO_nLiFoxg_0000005 173.8 184.7 
+Ralf_Little/WXO_nLiFoxg_0000006 190.4 195.5 
+Ralf_Little/WXO_nLiFoxg_0000007 221.9 227.4 

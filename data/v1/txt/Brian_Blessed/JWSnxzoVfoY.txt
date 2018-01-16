@@ -1,0 +1,8 @@
+POI: 			Brian_Blessed 
+Youtube ID: 	JWSnxzoVfoY 
+Video length: 	480.1 sec 
+Set (V): 		dev 
+ 
+Brian_Blessed/JWSnxzoVfoY_0000001 258.5 263.4 
+Brian_Blessed/JWSnxzoVfoY_0000002 424.8 431.0 
+Brian_Blessed/JWSnxzoVfoY_0000003 434.9 439.2 

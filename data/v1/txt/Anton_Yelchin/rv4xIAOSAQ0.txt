@@ -1,0 +1,12 @@
+POI: 			Anton_Yelchin 
+Youtube ID: 	rv4xIAOSAQ0 
+Video length: 	337.9 sec 
+Set (V): 		dev 
+ 
+Anton_Yelchin/rv4xIAOSAQ0_0000001 204.4 210.8 
+Anton_Yelchin/rv4xIAOSAQ0_0000002 216.6 225.2 
+Anton_Yelchin/rv4xIAOSAQ0_0000003 235.5 240.6 
+Anton_Yelchin/rv4xIAOSAQ0_0000004 241.6 249.7 
+Anton_Yelchin/rv4xIAOSAQ0_0000005 250.3 255.8 
+Anton_Yelchin/rv4xIAOSAQ0_0000006 255.9 263.2 
+Anton_Yelchin/rv4xIAOSAQ0_0000007 267.7 274.0 

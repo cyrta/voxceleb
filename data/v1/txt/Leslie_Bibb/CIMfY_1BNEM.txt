@@ -1,0 +1,8 @@
+POI: 			Leslie_Bibb 
+Youtube ID: 	CIMfY_1BNEM 
+Video length: 	64.5 sec 
+Set (V): 		dev 
+ 
+Leslie_Bibb/CIMfY_1BNEM_0000001 09.2 13.2 
+Leslie_Bibb/CIMfY_1BNEM_0000002 13.7 19.3 
+Leslie_Bibb/CIMfY_1BNEM_0000003 37.6 48.5 

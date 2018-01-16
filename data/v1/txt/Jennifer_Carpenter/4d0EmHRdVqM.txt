@@ -1,0 +1,11 @@
+POI: 			Jennifer_Carpenter 
+Youtube ID: 	4d0EmHRdVqM 
+Video length: 	291.0 sec 
+Set (V): 		dev 
+ 
+Jennifer_Carpenter/4d0EmHRdVqM_0000001 26.8 36.4 
+Jennifer_Carpenter/4d0EmHRdVqM_0000002 80.4 87.9 
+Jennifer_Carpenter/4d0EmHRdVqM_0000003 130.7 154.1 
+Jennifer_Carpenter/4d0EmHRdVqM_0000004 179.5 184.1 
+Jennifer_Carpenter/4d0EmHRdVqM_0000005 213.5 228.7 
+Jennifer_Carpenter/4d0EmHRdVqM_0000006 248.3 261.6 

@@ -1,0 +1,12 @@
+POI: 			Gordon_Ramsay 
+Youtube ID: 	VPPAEzRvuas 
+Video length: 	429.6 sec 
+Set (V): 		dev 
+ 
+Gordon_Ramsay/VPPAEzRvuas_0000001 60.2 69.8 
+Gordon_Ramsay/VPPAEzRvuas_0000002 81.2 87.2 
+Gordon_Ramsay/VPPAEzRvuas_0000003 93.4 101.4 
+Gordon_Ramsay/VPPAEzRvuas_0000004 108.4 120.1 
+Gordon_Ramsay/VPPAEzRvuas_0000005 120.4 133.1 
+Gordon_Ramsay/VPPAEzRvuas_0000006 142.4 149.9 
+Gordon_Ramsay/VPPAEzRvuas_0000007 171.7 178.4 

@@ -1,0 +1,18 @@
+POI: 			Hope_Solo 
+Youtube ID: 	Kl0odAQseYI 
+Video length: 	634.8 sec 
+Set (V): 		dev 
+ 
+Hope_Solo/Kl0odAQseYI_0000001 47.0 52.7 
+Hope_Solo/Kl0odAQseYI_0000002 75.1 80.0 
+Hope_Solo/Kl0odAQseYI_0000003 103.5 110.2 
+Hope_Solo/Kl0odAQseYI_0000004 138.2 143.1 
+Hope_Solo/Kl0odAQseYI_0000005 145.3 150.1 
+Hope_Solo/Kl0odAQseYI_0000006 158.2 164.2 
+Hope_Solo/Kl0odAQseYI_0000007 229.3 234.4 
+Hope_Solo/Kl0odAQseYI_0000008 284.9 289.5 
+Hope_Solo/Kl0odAQseYI_0000009 348.1 352.9 
+Hope_Solo/Kl0odAQseYI_0000010 496.9 510.6 
+Hope_Solo/Kl0odAQseYI_0000011 538.2 544.3 
+Hope_Solo/Kl0odAQseYI_0000012 556.8 562.4 
+Hope_Solo/Kl0odAQseYI_0000013 600.4 606.7 

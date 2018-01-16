@@ -1,0 +1,11 @@
+POI: 			Eddie_Izzard 
+Youtube ID: 	Ed918auNI0Y 
+Video length: 	715.3 sec 
+Set (V): 		test 
+ 
+Eddie_Izzard/Ed918auNI0Y_0000001 238.5 244.8 
+Eddie_Izzard/Ed918auNI0Y_0000002 328.8 336.4 
+Eddie_Izzard/Ed918auNI0Y_0000003 344.1 348.1 
+Eddie_Izzard/Ed918auNI0Y_0000004 359.0 365.2 
+Eddie_Izzard/Ed918auNI0Y_0000005 365.6 370.5 
+Eddie_Izzard/Ed918auNI0Y_0000006 615.5 623.0 

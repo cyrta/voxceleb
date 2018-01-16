@@ -1,0 +1,8 @@
+POI: 			Julian_Sands 
+Youtube ID: 	uxwfpXi4yqQ 
+Video length: 	87.1 sec 
+Set (V): 		dev 
+ 
+Julian_Sands/uxwfpXi4yqQ_0000001 11.6 29.0 
+Julian_Sands/uxwfpXi4yqQ_0000002 45.1 54.4 
+Julian_Sands/uxwfpXi4yqQ_0000003 55.6 63.2 

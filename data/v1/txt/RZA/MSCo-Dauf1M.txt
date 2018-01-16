@@ -1,0 +1,8 @@
+POI: 			RZA 
+Youtube ID: 	MSCo-Dauf1M 
+Video length: 	249.8 sec 
+Set (V): 		dev 
+ 
+RZA/MSCo-Dauf1M_0000001 60.7 66.4 
+RZA/MSCo-Dauf1M_0000002 107.7 113.7 
+RZA/MSCo-Dauf1M_0000003 150.1 155.0 

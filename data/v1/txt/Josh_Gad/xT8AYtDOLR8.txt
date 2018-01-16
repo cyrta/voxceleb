@@ -1,0 +1,7 @@
+POI: 			Josh_Gad 
+Youtube ID: 	xT8AYtDOLR8 
+Video length: 	285.3 sec 
+Set (V): 		dev 
+ 
+Josh_Gad/xT8AYtDOLR8_0000001 133.8 139.1 
+Josh_Gad/xT8AYtDOLR8_0000002 223.6 227.7 

@@ -1,0 +1,11 @@
+POI: 			Kym_Whitley 
+Youtube ID: 	Hw64vGlyoLk 
+Video length: 	192.4 sec 
+Set (V): 		dev 
+ 
+Kym_Whitley/Hw64vGlyoLk_0000001 39.5 46.9 
+Kym_Whitley/Hw64vGlyoLk_0000002 59.5 72.4 
+Kym_Whitley/Hw64vGlyoLk_0000003 83.0 95.4 
+Kym_Whitley/Hw64vGlyoLk_0000004 96.4 121.4 
+Kym_Whitley/Hw64vGlyoLk_0000005 134.4 161.3 
+Kym_Whitley/Hw64vGlyoLk_0000006 169.8 177.1 

@@ -1,0 +1,16 @@
+POI: 			Iwan_Rheon 
+Youtube ID: 	Ajt28t0tBSo 
+Video length: 	170.9 sec 
+Set (V): 		dev 
+ 
+Iwan_Rheon/Ajt28t0tBSo_0000001 02.5 11.5 
+Iwan_Rheon/Ajt28t0tBSo_0000002 52.0 57.3 
+Iwan_Rheon/Ajt28t0tBSo_0000003 59.7 65.0 
+Iwan_Rheon/Ajt28t0tBSo_0000004 77.0 83.0 
+Iwan_Rheon/Ajt28t0tBSo_0000005 87.4 94.3 
+Iwan_Rheon/Ajt28t0tBSo_0000006 101.6 109.8 
+Iwan_Rheon/Ajt28t0tBSo_0000007 110.6 116.0 
+Iwan_Rheon/Ajt28t0tBSo_0000008 117.4 121.4 
+Iwan_Rheon/Ajt28t0tBSo_0000009 129.8 135.4 
+Iwan_Rheon/Ajt28t0tBSo_0000010 139.8 151.5 
+Iwan_Rheon/Ajt28t0tBSo_0000011 156.8 162.1 

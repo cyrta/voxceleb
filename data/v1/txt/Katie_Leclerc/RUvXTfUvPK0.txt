@@ -1,0 +1,9 @@
+POI: 			Katie_Leclerc 
+Youtube ID: 	RUvXTfUvPK0 
+Video length: 	291.5 sec 
+Set (V): 		dev 
+ 
+Katie_Leclerc/RUvXTfUvPK0_0000001 64.3 68.3 
+Katie_Leclerc/RUvXTfUvPK0_0000002 84.0 94.5 
+Katie_Leclerc/RUvXTfUvPK0_0000003 145.1 151.1 
+Katie_Leclerc/RUvXTfUvPK0_0000004 264.4 271.9 

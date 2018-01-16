@@ -1,0 +1,9 @@
+POI: 			Raoul_Bova 
+Youtube ID: 	R6kkJ58S_Kc 
+Video length: 	518.9 sec 
+Set (V): 		dev 
+ 
+Raoul_Bova/R6kkJ58S_Kc_0000001 262.1 267.3 
+Raoul_Bova/R6kkJ58S_Kc_0000002 268.3 273.2 
+Raoul_Bova/R6kkJ58S_Kc_0000003 302.3 310.4 
+Raoul_Bova/R6kkJ58S_Kc_0000004 383.4 389.1 

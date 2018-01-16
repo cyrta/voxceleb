@@ -1,0 +1,27 @@
+POI: 			Carrie_Underwood 
+Youtube ID: 	h9KoJZqOu1o 
+Video length: 	1257.3 sec 
+Set (V): 		dev 
+ 
+Carrie_Underwood/h9KoJZqOu1o_0000001 74.0 82.2 
+Carrie_Underwood/h9KoJZqOu1o_0000002 103.7 117.1 
+Carrie_Underwood/h9KoJZqOu1o_0000003 154.5 167.1 
+Carrie_Underwood/h9KoJZqOu1o_0000004 256.3 266.1 
+Carrie_Underwood/h9KoJZqOu1o_0000005 330.3 343.6 
+Carrie_Underwood/h9KoJZqOu1o_0000006 382.9 388.9 
+Carrie_Underwood/h9KoJZqOu1o_0000007 452.8 459.4 
+Carrie_Underwood/h9KoJZqOu1o_0000008 478.8 484.1 
+Carrie_Underwood/h9KoJZqOu1o_0000009 484.7 491.3 
+Carrie_Underwood/h9KoJZqOu1o_0000010 548.9 553.3 
+Carrie_Underwood/h9KoJZqOu1o_0000011 569.8 583.2 
+Carrie_Underwood/h9KoJZqOu1o_0000012 640.8 646.4 
+Carrie_Underwood/h9KoJZqOu1o_0000013 676.2 684.6 
+Carrie_Underwood/h9KoJZqOu1o_0000014 748.9 756.0 
+Carrie_Underwood/h9KoJZqOu1o_0000015 795.8 805.8 
+Carrie_Underwood/h9KoJZqOu1o_0000016 889.4 894.5 
+Carrie_Underwood/h9KoJZqOu1o_0000017 912.6 919.2 
+Carrie_Underwood/h9KoJZqOu1o_0000018 919.9 926.5 
+Carrie_Underwood/h9KoJZqOu1o_0000019 998.5 1007.9 
+Carrie_Underwood/h9KoJZqOu1o_0000020 1125.2 1133.2 
+Carrie_Underwood/h9KoJZqOu1o_0000021 1175.4 1188.8 
+Carrie_Underwood/h9KoJZqOu1o_0000022 1228.0 1234.1 

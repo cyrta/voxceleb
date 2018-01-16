@@ -1,0 +1,47 @@
+POI: 			Fred_Williamson 
+Youtube ID: 	SpxA79ojPY4 
+Video length: 	1518.1 sec 
+Set (V): 		dev 
+ 
+Fred_Williamson/SpxA79ojPY4_0000001 215.8 226.4 
+Fred_Williamson/SpxA79ojPY4_0000002 227.5 240.0 
+Fred_Williamson/SpxA79ojPY4_0000003 267.9 278.9 
+Fred_Williamson/SpxA79ojPY4_0000004 287.0 292.6 
+Fred_Williamson/SpxA79ojPY4_0000005 300.9 305.5 
+Fred_Williamson/SpxA79ojPY4_0000006 311.7 320.8 
+Fred_Williamson/SpxA79ojPY4_0000007 367.3 372.2 
+Fred_Williamson/SpxA79ojPY4_0000008 379.8 384.4 
+Fred_Williamson/SpxA79ojPY4_0000009 406.0 412.6 
+Fred_Williamson/SpxA79ojPY4_0000010 416.2 433.8 
+Fred_Williamson/SpxA79ojPY4_0000011 439.3 445.4 
+Fred_Williamson/SpxA79ojPY4_0000012 448.3 452.4 
+Fred_Williamson/SpxA79ojPY4_0000013 470.6 474.7 
+Fred_Williamson/SpxA79ojPY4_0000014 519.5 524.8 
+Fred_Williamson/SpxA79ojPY4_0000015 525.5 539.1 
+Fred_Williamson/SpxA79ojPY4_0000016 540.9 546.7 
+Fred_Williamson/SpxA79ojPY4_0000017 557.3 573.3 
+Fred_Williamson/SpxA79ojPY4_0000018 575.6 583.2 
+Fred_Williamson/SpxA79ojPY4_0000019 584.4 590.7 
+Fred_Williamson/SpxA79ojPY4_0000020 618.2 627.6 
+Fred_Williamson/SpxA79ojPY4_0000021 628.6 632.8 
+Fred_Williamson/SpxA79ojPY4_0000022 633.7 649.1 
+Fred_Williamson/SpxA79ojPY4_0000023 650.3 656.6 
+Fred_Williamson/SpxA79ojPY4_0000024 658.0 662.0 
+Fred_Williamson/SpxA79ojPY4_0000025 691.6 701.2 
+Fred_Williamson/SpxA79ojPY4_0000026 715.7 722.2 
+Fred_Williamson/SpxA79ojPY4_0000027 830.9 841.5 
+Fred_Williamson/SpxA79ojPY4_0000028 842.6 854.2 
+Fred_Williamson/SpxA79ojPY4_0000029 857.7 865.3 
+Fred_Williamson/SpxA79ojPY4_0000030 877.5 882.0 
+Fred_Williamson/SpxA79ojPY4_0000031 882.8 891.8 
+Fred_Williamson/SpxA79ojPY4_0000032 892.8 901.7 
+Fred_Williamson/SpxA79ojPY4_0000033 907.6 913.2 
+Fred_Williamson/SpxA79ojPY4_0000034 913.8 921.2 
+Fred_Williamson/SpxA79ojPY4_0000035 1009.0 1014.1 
+Fred_Williamson/SpxA79ojPY4_0000036 1015.2 1020.8 
+Fred_Williamson/SpxA79ojPY4_0000037 1124.4 1132.1 
+Fred_Williamson/SpxA79ojPY4_0000038 1171.6 1181.2 
+Fred_Williamson/SpxA79ojPY4_0000039 1181.5 1191.0 
+Fred_Williamson/SpxA79ojPY4_0000040 1201.4 1206.0 
+Fred_Williamson/SpxA79ojPY4_0000041 1212.8 1217.1 
+Fred_Williamson/SpxA79ojPY4_0000042 1218.4 1224.5 

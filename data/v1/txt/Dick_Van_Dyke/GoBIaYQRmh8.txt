@@ -1,0 +1,9 @@
+POI: 			Dick_Van_Dyke 
+Youtube ID: 	GoBIaYQRmh8 
+Video length: 	270.1 sec 
+Set (V): 		dev 
+ 
+Dick_Van_Dyke/GoBIaYQRmh8_0000001 77.2 81.6 
+Dick_Van_Dyke/GoBIaYQRmh8_0000002 131.4 142.1 
+Dick_Van_Dyke/GoBIaYQRmh8_0000003 153.5 162.8 
+Dick_Van_Dyke/GoBIaYQRmh8_0000004 197.9 206.0 

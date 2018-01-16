@@ -1,0 +1,9 @@
+POI: 			Paul_Scheer 
+Youtube ID: 	v3ZLiYrOu54 
+Video length: 	147.9 sec 
+Set (V): 		dev 
+ 
+Paul_Scheer/v3ZLiYrOu54_0000001 21.4 34.8 
+Paul_Scheer/v3ZLiYrOu54_0000002 94.7 113.6 
+Paul_Scheer/v3ZLiYrOu54_0000003 117.2 121.8 
+Paul_Scheer/v3ZLiYrOu54_0000004 131.8 143.1 

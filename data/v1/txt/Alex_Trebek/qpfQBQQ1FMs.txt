@@ -1,0 +1,27 @@
+POI: 			Alex_Trebek 
+Youtube ID: 	qpfQBQQ1FMs 
+Video length: 	308.1 sec 
+Set (V): 		dev 
+ 
+Alex_Trebek/qpfQBQQ1FMs_0000001 11.3 15.4 
+Alex_Trebek/qpfQBQQ1FMs_0000002 35.0 39.7 
+Alex_Trebek/qpfQBQQ1FMs_0000003 41.8 48.0 
+Alex_Trebek/qpfQBQQ1FMs_0000004 52.9 61.6 
+Alex_Trebek/qpfQBQQ1FMs_0000005 62.5 80.9 
+Alex_Trebek/qpfQBQQ1FMs_0000006 99.8 104.4 
+Alex_Trebek/qpfQBQQ1FMs_0000007 106.2 111.7 
+Alex_Trebek/qpfQBQQ1FMs_0000008 116.0 124.7 
+Alex_Trebek/qpfQBQQ1FMs_0000009 126.7 133.4 
+Alex_Trebek/qpfQBQQ1FMs_0000010 137.1 143.3 
+Alex_Trebek/qpfQBQQ1FMs_0000011 144.1 152.0 
+Alex_Trebek/qpfQBQQ1FMs_0000012 152.9 160.2 
+Alex_Trebek/qpfQBQQ1FMs_0000013 162.1 167.5 
+Alex_Trebek/qpfQBQQ1FMs_0000014 169.4 178.3 
+Alex_Trebek/qpfQBQQ1FMs_0000015 191.9 204.6 
+Alex_Trebek/qpfQBQQ1FMs_0000016 205.6 213.0 
+Alex_Trebek/qpfQBQQ1FMs_0000017 216.0 223.4 
+Alex_Trebek/qpfQBQQ1FMs_0000018 223.8 231.4 
+Alex_Trebek/qpfQBQQ1FMs_0000019 233.2 245.0 
+Alex_Trebek/qpfQBQQ1FMs_0000020 257.5 268.9 
+Alex_Trebek/qpfQBQQ1FMs_0000021 270.4 280.8 
+Alex_Trebek/qpfQBQQ1FMs_0000022 290.0 300.5 

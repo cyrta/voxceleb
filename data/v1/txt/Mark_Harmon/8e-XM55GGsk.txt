@@ -1,0 +1,25 @@
+POI: 			Mark_Harmon 
+Youtube ID: 	8e-XM55GGsk 
+Video length: 	364.9 sec 
+Set (V): 		dev 
+ 
+Mark_Harmon/8e-XM55GGsk_0000001 05.8 09.8 
+Mark_Harmon/8e-XM55GGsk_0000002 32.4 41.4 
+Mark_Harmon/8e-XM55GGsk_0000003 41.7 59.6 
+Mark_Harmon/8e-XM55GGsk_0000004 64.2 75.1 
+Mark_Harmon/8e-XM55GGsk_0000005 151.3 161.4 
+Mark_Harmon/8e-XM55GGsk_0000006 169.1 175.6 
+Mark_Harmon/8e-XM55GGsk_0000007 175.8 181.5 
+Mark_Harmon/8e-XM55GGsk_0000008 185.9 192.2 
+Mark_Harmon/8e-XM55GGsk_0000009 192.5 210.4 
+Mark_Harmon/8e-XM55GGsk_0000010 216.0 225.9 
+Mark_Harmon/8e-XM55GGsk_0000011 239.4 245.3 
+Mark_Harmon/8e-XM55GGsk_0000012 248.0 253.2 
+Mark_Harmon/8e-XM55GGsk_0000013 254.5 265.4 
+Mark_Harmon/8e-XM55GGsk_0000014 265.7 276.9 
+Mark_Harmon/8e-XM55GGsk_0000015 277.6 282.7 
+Mark_Harmon/8e-XM55GGsk_0000016 283.1 292.2 
+Mark_Harmon/8e-XM55GGsk_0000017 298.0 305.0 
+Mark_Harmon/8e-XM55GGsk_0000018 307.4 313.7 
+Mark_Harmon/8e-XM55GGsk_0000019 348.1 353.9 
+Mark_Harmon/8e-XM55GGsk_0000020 355.5 361.6 

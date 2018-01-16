@@ -1,0 +1,14 @@
+POI: 			Damon_Lindelof 
+Youtube ID: 	jh5StyWuhqA 
+Video length: 	185.3 sec 
+Set (V): 		dev 
+ 
+Damon_Lindelof/jh5StyWuhqA_0000001 19.3 23.6 
+Damon_Lindelof/jh5StyWuhqA_0000002 25.5 47.0 
+Damon_Lindelof/jh5StyWuhqA_0000003 49.1 57.8 
+Damon_Lindelof/jh5StyWuhqA_0000004 59.7 67.6 
+Damon_Lindelof/jh5StyWuhqA_0000005 78.4 84.5 
+Damon_Lindelof/jh5StyWuhqA_0000006 86.0 102.3 
+Damon_Lindelof/jh5StyWuhqA_0000007 114.7 129.0 
+Damon_Lindelof/jh5StyWuhqA_0000008 132.6 178.1 
+Damon_Lindelof/jh5StyWuhqA_0000009 114.7 134.0 

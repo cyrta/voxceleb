@@ -1,0 +1,21 @@
+POI: 			Nichelle_Nichols 
+Youtube ID: 	EBVYy1H_eTM 
+Video length: 	338.2 sec 
+Set (V): 		dev 
+ 
+Nichelle_Nichols/EBVYy1H_eTM_0000001 34.5 40.0 
+Nichelle_Nichols/EBVYy1H_eTM_0000002 50.1 57.4 
+Nichelle_Nichols/EBVYy1H_eTM_0000003 76.3 81.0 
+Nichelle_Nichols/EBVYy1H_eTM_0000004 84.0 92.3 
+Nichelle_Nichols/EBVYy1H_eTM_0000005 98.4 102.7 
+Nichelle_Nichols/EBVYy1H_eTM_0000006 107.1 112.2 
+Nichelle_Nichols/EBVYy1H_eTM_0000007 116.8 122.6 
+Nichelle_Nichols/EBVYy1H_eTM_0000008 170.6 179.4 
+Nichelle_Nichols/EBVYy1H_eTM_0000009 194.0 199.1 
+Nichelle_Nichols/EBVYy1H_eTM_0000010 206.7 216.4 
+Nichelle_Nichols/EBVYy1H_eTM_0000011 217.0 225.5 
+Nichelle_Nichols/EBVYy1H_eTM_0000012 235.4 240.4 
+Nichelle_Nichols/EBVYy1H_eTM_0000013 243.1 247.8 
+Nichelle_Nichols/EBVYy1H_eTM_0000014 274.9 283.6 
+Nichelle_Nichols/EBVYy1H_eTM_0000015 287.5 293.3 
+Nichelle_Nichols/EBVYy1H_eTM_0000016 307.4 313.8 

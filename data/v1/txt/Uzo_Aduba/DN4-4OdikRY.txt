@@ -1,0 +1,8 @@
+POI: 			Uzo_Aduba 
+Youtube ID: 	DN4-4OdikRY 
+Video length: 	339.0 sec 
+Set (V): 		dev 
+ 
+Uzo_Aduba/DN4-4OdikRY_0000001 134.2 138.2 
+Uzo_Aduba/DN4-4OdikRY_0000002 186.6 190.8 
+Uzo_Aduba/DN4-4OdikRY_0000003 229.4 233.8 

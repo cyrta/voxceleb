@@ -1,0 +1,41 @@
+POI: 			Keegan_Allen 
+Youtube ID: 	MYfw_v7Cqcg 
+Video length: 	648.2 sec 
+Set (V): 		dev 
+ 
+Keegan_Allen/MYfw_v7Cqcg_0000001 51.8 58.1 
+Keegan_Allen/MYfw_v7Cqcg_0000002 62.3 68.3 
+Keegan_Allen/MYfw_v7Cqcg_0000003 79.2 84.0 
+Keegan_Allen/MYfw_v7Cqcg_0000004 86.9 94.2 
+Keegan_Allen/MYfw_v7Cqcg_0000005 115.0 122.4 
+Keegan_Allen/MYfw_v7Cqcg_0000006 123.2 127.6 
+Keegan_Allen/MYfw_v7Cqcg_0000007 162.8 179.2 
+Keegan_Allen/MYfw_v7Cqcg_0000008 183.3 191.7 
+Keegan_Allen/MYfw_v7Cqcg_0000009 210.2 215.8 
+Keegan_Allen/MYfw_v7Cqcg_0000010 239.6 244.7 
+Keegan_Allen/MYfw_v7Cqcg_0000011 247.3 252.8 
+Keegan_Allen/MYfw_v7Cqcg_0000012 257.3 274.7 
+Keegan_Allen/MYfw_v7Cqcg_0000013 274.8 279.6 
+Keegan_Allen/MYfw_v7Cqcg_0000014 281.7 286.8 
+Keegan_Allen/MYfw_v7Cqcg_0000015 287.5 292.8 
+Keegan_Allen/MYfw_v7Cqcg_0000016 273.5 281.3 
+Keegan_Allen/MYfw_v7Cqcg_0000017 305.9 310.2 
+Keegan_Allen/MYfw_v7Cqcg_0000018 314.9 319.9 
+Keegan_Allen/MYfw_v7Cqcg_0000019 323.4 331.2 
+Keegan_Allen/MYfw_v7Cqcg_0000020 326.8 331.2 
+Keegan_Allen/MYfw_v7Cqcg_0000021 375.1 379.1 
+Keegan_Allen/MYfw_v7Cqcg_0000022 390.8 403.5 
+Keegan_Allen/MYfw_v7Cqcg_0000023 406.4 422.2 
+Keegan_Allen/MYfw_v7Cqcg_0000024 444.2 452.4 
+Keegan_Allen/MYfw_v7Cqcg_0000025 453.1 465.7 
+Keegan_Allen/MYfw_v7Cqcg_0000026 466.0 474.6 
+Keegan_Allen/MYfw_v7Cqcg_0000027 496.4 505.8 
+Keegan_Allen/MYfw_v7Cqcg_0000028 506.4 515.4 
+Keegan_Allen/MYfw_v7Cqcg_0000029 516.2 521.7 
+Keegan_Allen/MYfw_v7Cqcg_0000030 538.4 558.5 
+Keegan_Allen/MYfw_v7Cqcg_0000031 559.5 564.4 
+Keegan_Allen/MYfw_v7Cqcg_0000032 572.1 577.2 
+Keegan_Allen/MYfw_v7Cqcg_0000033 538.4 558.5 
+Keegan_Allen/MYfw_v7Cqcg_0000034 559.4 566.9 
+Keegan_Allen/MYfw_v7Cqcg_0000035 567.6 574.8 
+Keegan_Allen/MYfw_v7Cqcg_0000036 625.5 642.8 

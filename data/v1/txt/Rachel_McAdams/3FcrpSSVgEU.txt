@@ -1,0 +1,7 @@
+POI: 			Rachel_McAdams 
+Youtube ID: 	3FcrpSSVgEU 
+Video length: 	252.1 sec 
+Set (V): 		dev 
+ 
+Rachel_McAdams/3FcrpSSVgEU_0000001 103.0 110.0 
+Rachel_McAdams/3FcrpSSVgEU_0000002 134.0 142.8 

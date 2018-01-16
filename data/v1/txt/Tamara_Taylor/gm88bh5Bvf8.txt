@@ -1,0 +1,25 @@
+POI: 			Tamara_Taylor 
+Youtube ID: 	gm88bh5Bvf8 
+Video length: 	410.8 sec 
+Set (V): 		dev 
+ 
+Tamara_Taylor/gm88bh5Bvf8_0000001 16.0 23.1 
+Tamara_Taylor/gm88bh5Bvf8_0000002 25.1 29.9 
+Tamara_Taylor/gm88bh5Bvf8_0000003 34.2 50.1 
+Tamara_Taylor/gm88bh5Bvf8_0000004 53.4 59.8 
+Tamara_Taylor/gm88bh5Bvf8_0000005 64.3 80.2 
+Tamara_Taylor/gm88bh5Bvf8_0000006 80.9 86.2 
+Tamara_Taylor/gm88bh5Bvf8_0000007 89.9 100.5 
+Tamara_Taylor/gm88bh5Bvf8_0000008 131.4 137.7 
+Tamara_Taylor/gm88bh5Bvf8_0000009 143.8 165.5 
+Tamara_Taylor/gm88bh5Bvf8_0000010 171.4 176.2 
+Tamara_Taylor/gm88bh5Bvf8_0000011 180.0 189.3 
+Tamara_Taylor/gm88bh5Bvf8_0000012 194.8 216.4 
+Tamara_Taylor/gm88bh5Bvf8_0000013 221.4 239.6 
+Tamara_Taylor/gm88bh5Bvf8_0000014 250.5 256.9 
+Tamara_Taylor/gm88bh5Bvf8_0000015 276.8 285.2 
+Tamara_Taylor/gm88bh5Bvf8_0000016 304.4 311.2 
+Tamara_Taylor/gm88bh5Bvf8_0000017 332.8 348.3 
+Tamara_Taylor/gm88bh5Bvf8_0000018 361.2 381.5 
+Tamara_Taylor/gm88bh5Bvf8_0000019 385.0 397.7 
+Tamara_Taylor/gm88bh5Bvf8_0000020 401.0 405.2 

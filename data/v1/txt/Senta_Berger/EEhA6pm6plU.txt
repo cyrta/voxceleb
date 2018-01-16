@@ -1,0 +1,34 @@
+POI: 			Senta_Berger 
+Youtube ID: 	EEhA6pm6plU 
+Video length: 	609.8 sec 
+Set (V): 		dev 
+ 
+Senta_Berger/EEhA6pm6plU_0000001 18.2 24.3 
+Senta_Berger/EEhA6pm6plU_0000002 24.5 38.4 
+Senta_Berger/EEhA6pm6plU_0000003 39.0 97.0 
+Senta_Berger/EEhA6pm6plU_0000004 97.1 110.2 
+Senta_Berger/EEhA6pm6plU_0000005 103.1 115.3 
+Senta_Berger/EEhA6pm6plU_0000006 116.3 120.9 
+Senta_Berger/EEhA6pm6plU_0000007 118.9 127.4 
+Senta_Berger/EEhA6pm6plU_0000008 136.0 151.0 
+Senta_Berger/EEhA6pm6plU_0000009 154.4 159.3 
+Senta_Berger/EEhA6pm6plU_0000010 186.6 192.7 
+Senta_Berger/EEhA6pm6plU_0000011 201.4 205.6 
+Senta_Berger/EEhA6pm6plU_0000012 212.8 222.6 
+Senta_Berger/EEhA6pm6plU_0000013 228.0 237.2 
+Senta_Berger/EEhA6pm6plU_0000014 316.0 334.8 
+Senta_Berger/EEhA6pm6plU_0000015 335.2 340.0 
+Senta_Berger/EEhA6pm6plU_0000016 340.6 355.5 
+Senta_Berger/EEhA6pm6plU_0000017 363.9 370.1 
+Senta_Berger/EEhA6pm6plU_0000018 370.6 374.8 
+Senta_Berger/EEhA6pm6plU_0000019 375.1 379.4 
+Senta_Berger/EEhA6pm6plU_0000020 415.9 420.9 
+Senta_Berger/EEhA6pm6plU_0000021 422.1 428.5 
+Senta_Berger/EEhA6pm6plU_0000022 368.7 379.3 
+Senta_Berger/EEhA6pm6plU_0000023 380.1 396.8 
+Senta_Berger/EEhA6pm6plU_0000024 397.0 403.9 
+Senta_Berger/EEhA6pm6plU_0000025 405.6 420.6 
+Senta_Berger/EEhA6pm6plU_0000026 436.4 444.0 
+Senta_Berger/EEhA6pm6plU_0000027 457.0 462.3 
+Senta_Berger/EEhA6pm6plU_0000028 467.1 475.0 
+Senta_Berger/EEhA6pm6plU_0000029 561.6 571.7 

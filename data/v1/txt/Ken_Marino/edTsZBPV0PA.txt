@@ -1,0 +1,7 @@
+POI: 			Ken_Marino 
+Youtube ID: 	edTsZBPV0PA 
+Video length: 	137.3 sec 
+Set (V): 		dev 
+ 
+Ken_Marino/edTsZBPV0PA_0000001 28.2 32.8 
+Ken_Marino/edTsZBPV0PA_0000002 73.5 78.8 

@@ -1,0 +1,13 @@
+POI: 			Linda_Evans 
+Youtube ID: 	QlihY_MiYqo 
+Video length: 	884.0 sec 
+Set (V): 		dev 
+ 
+Linda_Evans/QlihY_MiYqo_0000001 248.2 256.3 
+Linda_Evans/QlihY_MiYqo_0000002 282.9 286.9 
+Linda_Evans/QlihY_MiYqo_0000003 390.1 395.0 
+Linda_Evans/QlihY_MiYqo_0000004 396.2 401.8 
+Linda_Evans/QlihY_MiYqo_0000005 425.2 431.2 
+Linda_Evans/QlihY_MiYqo_0000006 673.0 677.3 
+Linda_Evans/QlihY_MiYqo_0000007 684.9 690.8 
+Linda_Evans/QlihY_MiYqo_0000008 795.0 799.6 

@@ -1,0 +1,24 @@
+POI: 			Timothy_Spall 
+Youtube ID: 	9xf3yTAsxCw 
+Video length: 	600.2 sec 
+Set (V): 		dev 
+ 
+Timothy_Spall/9xf3yTAsxCw_0000001 25.5 30.6 
+Timothy_Spall/9xf3yTAsxCw_0000002 30.9 38.0 
+Timothy_Spall/9xf3yTAsxCw_0000003 62.2 70.0 
+Timothy_Spall/9xf3yTAsxCw_0000004 157.7 161.6 
+Timothy_Spall/9xf3yTAsxCw_0000005 168.2 172.8 
+Timothy_Spall/9xf3yTAsxCw_0000006 175.0 181.6 
+Timothy_Spall/9xf3yTAsxCw_0000007 190.7 197.2 
+Timothy_Spall/9xf3yTAsxCw_0000008 272.0 278.7 
+Timothy_Spall/9xf3yTAsxCw_0000009 282.2 289.4 
+Timothy_Spall/9xf3yTAsxCw_0000010 294.3 299.5 
+Timothy_Spall/9xf3yTAsxCw_0000011 300.3 305.4 
+Timothy_Spall/9xf3yTAsxCw_0000012 361.9 367.0 
+Timothy_Spall/9xf3yTAsxCw_0000013 369.3 376.5 
+Timothy_Spall/9xf3yTAsxCw_0000014 383.8 388.7 
+Timothy_Spall/9xf3yTAsxCw_0000015 406.7 411.3 
+Timothy_Spall/9xf3yTAsxCw_0000016 438.5 443.7 
+Timothy_Spall/9xf3yTAsxCw_0000017 443.9 452.2 
+Timothy_Spall/9xf3yTAsxCw_0000018 567.4 574.1 
+Timothy_Spall/9xf3yTAsxCw_0000019 577.8 588.4 

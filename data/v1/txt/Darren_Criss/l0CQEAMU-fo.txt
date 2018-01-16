@@ -1,0 +1,17 @@
+POI: 			Darren_Criss 
+Youtube ID: 	l0CQEAMU-fo 
+Video length: 	591.4 sec 
+Set (V): 		dev 
+ 
+Darren_Criss/l0CQEAMU-fo_0000001 106.0 118.0 
+Darren_Criss/l0CQEAMU-fo_0000002 199.5 207.4 
+Darren_Criss/l0CQEAMU-fo_0000003 216.8 222.9 
+Darren_Criss/l0CQEAMU-fo_0000004 234.5 243.9 
+Darren_Criss/l0CQEAMU-fo_0000005 246.2 250.7 
+Darren_Criss/l0CQEAMU-fo_0000006 281.8 285.8 
+Darren_Criss/l0CQEAMU-fo_0000007 286.0 296.8 
+Darren_Criss/l0CQEAMU-fo_0000008 297.8 304.5 
+Darren_Criss/l0CQEAMU-fo_0000009 365.1 375.1 
+Darren_Criss/l0CQEAMU-fo_0000010 393.2 404.0 
+Darren_Criss/l0CQEAMU-fo_0000011 465.2 469.4 
+Darren_Criss/l0CQEAMU-fo_0000012 544.7 552.9 

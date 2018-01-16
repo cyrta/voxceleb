@@ -1,0 +1,12 @@
+POI: 			Don_Rickles 
+Youtube ID: 	GSUzAuchu7M 
+Video length: 	803.0 sec 
+Set (V): 		dev 
+ 
+Don_Rickles/GSUzAuchu7M_0000001 56.0 61.0 
+Don_Rickles/GSUzAuchu7M_0000002 331.3 336.7 
+Don_Rickles/GSUzAuchu7M_0000003 415.9 425.9 
+Don_Rickles/GSUzAuchu7M_0000004 620.0 627.4 
+Don_Rickles/GSUzAuchu7M_0000005 722.5 726.5 
+Don_Rickles/GSUzAuchu7M_0000006 726.6 744.6 
+Don_Rickles/GSUzAuchu7M_0000007 769.9 777.8 

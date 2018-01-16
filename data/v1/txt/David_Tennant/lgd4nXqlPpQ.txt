@@ -1,0 +1,16 @@
+POI: 			David_Tennant 
+Youtube ID: 	lgd4nXqlPpQ 
+Video length: 	530.2 sec 
+Set (V): 		dev 
+ 
+David_Tennant/lgd4nXqlPpQ_0000001 204.8 209.2 
+David_Tennant/lgd4nXqlPpQ_0000002 223.7 228.3 
+David_Tennant/lgd4nXqlPpQ_0000003 248.0 254.2 
+David_Tennant/lgd4nXqlPpQ_0000004 291.8 296.2 
+David_Tennant/lgd4nXqlPpQ_0000005 381.8 387.0 
+David_Tennant/lgd4nXqlPpQ_0000006 419.5 429.8 
+David_Tennant/lgd4nXqlPpQ_0000007 435.0 439.4 
+David_Tennant/lgd4nXqlPpQ_0000008 439.4 446.9 
+David_Tennant/lgd4nXqlPpQ_0000009 465.4 473.0 
+David_Tennant/lgd4nXqlPpQ_0000010 474.7 494.5 
+David_Tennant/lgd4nXqlPpQ_0000011 495.2 510.4 

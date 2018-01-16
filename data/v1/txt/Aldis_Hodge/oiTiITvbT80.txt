@@ -1,0 +1,7 @@
+POI: 			Aldis_Hodge 
+Youtube ID: 	oiTiITvbT80 
+Video length: 	101.9 sec 
+Set (V): 		dev 
+ 
+Aldis_Hodge/oiTiITvbT80_0000001 30.0 35.6 
+Aldis_Hodge/oiTiITvbT80_0000002 45.6 50.8 

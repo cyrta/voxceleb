@@ -1,0 +1,9 @@
+POI: 			Melissa_Rauch 
+Youtube ID: 	CUuHe9Y7ApI 
+Video length: 	221.6 sec 
+Set (V): 		dev 
+ 
+Melissa_Rauch/CUuHe9Y7ApI_0000001 30.2 43.0 
+Melissa_Rauch/CUuHe9Y7ApI_0000002 44.1 85.3 
+Melissa_Rauch/CUuHe9Y7ApI_0000003 158.4 184.7 
+Melissa_Rauch/CUuHe9Y7ApI_0000004 185.5 190.2 

@@ -1,0 +1,14 @@
+POI: 			Richard_Kind 
+Youtube ID: 	bFWJHHUhV24 
+Video length: 	160.7 sec 
+Set (V): 		dev 
+ 
+Richard_Kind/bFWJHHUhV24_0000001 17.6 21.7 
+Richard_Kind/bFWJHHUhV24_0000002 22.0 29.4 
+Richard_Kind/bFWJHHUhV24_0000003 44.2 49.7 
+Richard_Kind/bFWJHHUhV24_0000004 50.0 54.6 
+Richard_Kind/bFWJHHUhV24_0000005 55.3 65.8 
+Richard_Kind/bFWJHHUhV24_0000006 66.2 83.5 
+Richard_Kind/bFWJHHUhV24_0000007 105.0 111.7 
+Richard_Kind/bFWJHHUhV24_0000008 118.0 145.0 
+Richard_Kind/bFWJHHUhV24_0000009 148.2 155.5 

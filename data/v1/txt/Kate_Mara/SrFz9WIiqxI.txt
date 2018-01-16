@@ -1,0 +1,10 @@
+POI: 			Kate_Mara 
+Youtube ID: 	SrFz9WIiqxI 
+Video length: 	293.8 sec 
+Set (V): 		dev 
+ 
+Kate_Mara/SrFz9WIiqxI_0000001 144.2 155.8 
+Kate_Mara/SrFz9WIiqxI_0000002 157.2 167.5 
+Kate_Mara/SrFz9WIiqxI_0000003 188.3 203.4 
+Kate_Mara/SrFz9WIiqxI_0000004 203.5 219.2 
+Kate_Mara/SrFz9WIiqxI_0000005 219.3 227.7 

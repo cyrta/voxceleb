@@ -1,0 +1,18 @@
+POI: 			Sean_Bean 
+Youtube ID: 	i3Z1Ki4bWEc 
+Video length: 	370.8 sec 
+Set (V): 		dev 
+ 
+Sean_Bean/i3Z1Ki4bWEc_0000001 16.5 20.8 
+Sean_Bean/i3Z1Ki4bWEc_0000002 21.6 26.7 
+Sean_Bean/i3Z1Ki4bWEc_0000003 48.0 53.7 
+Sean_Bean/i3Z1Ki4bWEc_0000004 57.7 62.5 
+Sean_Bean/i3Z1Ki4bWEc_0000005 63.2 67.3 
+Sean_Bean/i3Z1Ki4bWEc_0000006 76.7 83.4 
+Sean_Bean/i3Z1Ki4bWEc_0000007 113.2 120.4 
+Sean_Bean/i3Z1Ki4bWEc_0000008 121.2 126.0 
+Sean_Bean/i3Z1Ki4bWEc_0000009 126.8 135.2 
+Sean_Bean/i3Z1Ki4bWEc_0000010 136.6 143.4 
+Sean_Bean/i3Z1Ki4bWEc_0000011 172.0 183.8 
+Sean_Bean/i3Z1Ki4bWEc_0000012 188.5 199.9 
+Sean_Bean/i3Z1Ki4bWEc_0000013 281.4 287.6 

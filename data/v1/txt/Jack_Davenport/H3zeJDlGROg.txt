@@ -1,0 +1,11 @@
+POI: 			Jack_Davenport 
+Youtube ID: 	H3zeJDlGROg 
+Video length: 	204.6 sec 
+Set (V): 		dev 
+ 
+Jack_Davenport/H3zeJDlGROg_0000001 89.8 97.1 
+Jack_Davenport/H3zeJDlGROg_0000002 102.4 108.2 
+Jack_Davenport/H3zeJDlGROg_0000003 110.6 115.0 
+Jack_Davenport/H3zeJDlGROg_0000004 139.5 143.5 
+Jack_Davenport/H3zeJDlGROg_0000005 145.0 151.3 
+Jack_Davenport/H3zeJDlGROg_0000006 173.1 181.9 

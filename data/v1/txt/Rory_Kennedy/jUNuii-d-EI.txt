@@ -1,0 +1,15 @@
+POI: 			Rory_Kennedy 
+Youtube ID: 	jUNuii-d-EI 
+Video length: 	343.5 sec 
+Set (V): 		dev 
+ 
+Rory_Kennedy/jUNuii-d-EI_0000001 62.9 71.2 
+Rory_Kennedy/jUNuii-d-EI_0000002 73.4 81.7 
+Rory_Kennedy/jUNuii-d-EI_0000003 83.7 90.4 
+Rory_Kennedy/jUNuii-d-EI_0000004 122.4 129.0 
+Rory_Kennedy/jUNuii-d-EI_0000005 131.2 135.7 
+Rory_Kennedy/jUNuii-d-EI_0000006 146.2 150.6 
+Rory_Kennedy/jUNuii-d-EI_0000007 154.4 170.4 
+Rory_Kennedy/jUNuii-d-EI_0000008 171.3 182.5 
+Rory_Kennedy/jUNuii-d-EI_0000009 234.9 240.9 
+Rory_Kennedy/jUNuii-d-EI_0000010 260.4 264.5 

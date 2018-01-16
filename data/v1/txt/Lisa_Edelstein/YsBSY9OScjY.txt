@@ -1,0 +1,12 @@
+POI: 			Lisa_Edelstein 
+Youtube ID: 	YsBSY9OScjY 
+Video length: 	144.8 sec 
+Set (V): 		dev 
+ 
+Lisa_Edelstein/YsBSY9OScjY_0000001 10.3 18.4 
+Lisa_Edelstein/YsBSY9OScjY_0000002 46.0 54.5 
+Lisa_Edelstein/YsBSY9OScjY_0000003 59.1 73.8 
+Lisa_Edelstein/YsBSY9OScjY_0000004 81.7 88.5 
+Lisa_Edelstein/YsBSY9OScjY_0000005 89.3 115.8 
+Lisa_Edelstein/YsBSY9OScjY_0000006 119.2 125.9 
+Lisa_Edelstein/YsBSY9OScjY_0000007 138.7 142.7 

@@ -1,0 +1,9 @@
+POI: 			Jenna_Coleman 
+Youtube ID: 	QDJ68YUfX7A 
+Video length: 	110.9 sec 
+Set (V): 		dev 
+ 
+Jenna_Coleman/QDJ68YUfX7A_0000001 17.2 21.3 
+Jenna_Coleman/QDJ68YUfX7A_0000002 29.2 38.1 
+Jenna_Coleman/QDJ68YUfX7A_0000003 65.3 73.2 
+Jenna_Coleman/QDJ68YUfX7A_0000004 73.8 79.6 

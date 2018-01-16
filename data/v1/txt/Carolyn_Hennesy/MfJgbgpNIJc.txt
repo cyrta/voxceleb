@@ -1,0 +1,9 @@
+POI: 			Carolyn_Hennesy 
+Youtube ID: 	MfJgbgpNIJc 
+Video length: 	213.0 sec 
+Set (V): 		dev 
+ 
+Carolyn_Hennesy/MfJgbgpNIJc_0000001 25.0 33.6 
+Carolyn_Hennesy/MfJgbgpNIJc_0000002 38.2 44.4 
+Carolyn_Hennesy/MfJgbgpNIJc_0000003 87.8 98.7 
+Carolyn_Hennesy/MfJgbgpNIJc_0000004 124.5 129.9 

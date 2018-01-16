@@ -1,0 +1,11 @@
+POI: 			Farrah_Abraham 
+Youtube ID: 	BfgE41cHpWQ 
+Video length: 	595.5 sec 
+Set (V): 		dev 
+ 
+Farrah_Abraham/BfgE41cHpWQ_0000001 227.3 234.8 
+Farrah_Abraham/BfgE41cHpWQ_0000002 258.7 264.8 
+Farrah_Abraham/BfgE41cHpWQ_0000003 317.8 324.6 
+Farrah_Abraham/BfgE41cHpWQ_0000004 347.5 354.8 
+Farrah_Abraham/BfgE41cHpWQ_0000005 358.9 362.8 
+Farrah_Abraham/BfgE41cHpWQ_0000006 478.8 484.7 

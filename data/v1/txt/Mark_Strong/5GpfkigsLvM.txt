@@ -1,0 +1,9 @@
+POI: 			Mark_Strong 
+Youtube ID: 	5GpfkigsLvM 
+Video length: 	238.5 sec 
+Set (V): 		dev 
+ 
+Mark_Strong/5GpfkigsLvM_0000001 68.4 75.2 
+Mark_Strong/5GpfkigsLvM_0000002 103.9 108.8 
+Mark_Strong/5GpfkigsLvM_0000003 104.0 108.9 
+Mark_Strong/5GpfkigsLvM_0000004 134.1 139.4 

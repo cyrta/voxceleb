@@ -1,0 +1,8 @@
+POI: 			Diane_Kruger 
+Youtube ID: 	NXpPpqQ-BmE 
+Video length: 	270.8 sec 
+Set (V): 		dev 
+ 
+Diane_Kruger/NXpPpqQ-BmE_0000001 137.3 143.6 
+Diane_Kruger/NXpPpqQ-BmE_0000002 165.2 170.7 
+Diane_Kruger/NXpPpqQ-BmE_0000003 173.0 177.7 

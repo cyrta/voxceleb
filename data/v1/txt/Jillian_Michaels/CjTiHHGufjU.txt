@@ -1,0 +1,12 @@
+POI: 			Jillian_Michaels 
+Youtube ID: 	CjTiHHGufjU 
+Video length: 	621.5 sec 
+Set (V): 		dev 
+ 
+Jillian_Michaels/CjTiHHGufjU_0000001 71.8 77.7 
+Jillian_Michaels/CjTiHHGufjU_0000002 113.9 126.7 
+Jillian_Michaels/CjTiHHGufjU_0000003 129.3 134.2 
+Jillian_Michaels/CjTiHHGufjU_0000004 207.8 214.3 
+Jillian_Michaels/CjTiHHGufjU_0000005 215.2 225.5 
+Jillian_Michaels/CjTiHHGufjU_0000006 351.2 356.8 
+Jillian_Michaels/CjTiHHGufjU_0000007 371.4 379.4 

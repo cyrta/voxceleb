@@ -1,0 +1,13 @@
+POI: 			Padma_Lakshmi 
+Youtube ID: 	7OEHvRQksvE 
+Video length: 	354.4 sec 
+Set (V): 		dev 
+ 
+Padma_Lakshmi/7OEHvRQksvE_0000001 92.1 100.2 
+Padma_Lakshmi/7OEHvRQksvE_0000002 106.4 120.4 
+Padma_Lakshmi/7OEHvRQksvE_0000003 177.2 184.1 
+Padma_Lakshmi/7OEHvRQksvE_0000004 193.4 202.9 
+Padma_Lakshmi/7OEHvRQksvE_0000005 229.0 233.1 
+Padma_Lakshmi/7OEHvRQksvE_0000006 267.8 277.1 
+Padma_Lakshmi/7OEHvRQksvE_0000007 283.1 294.3 
+Padma_Lakshmi/7OEHvRQksvE_0000008 294.5 299.4 

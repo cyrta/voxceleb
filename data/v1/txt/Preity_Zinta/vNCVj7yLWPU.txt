@@ -1,0 +1,11 @@
+POI: 			Preity_Zinta 
+Youtube ID: 	vNCVj7yLWPU 
+Video length: 	174.9 sec 
+Set (V): 		dev 
+ 
+Preity_Zinta/vNCVj7yLWPU_0000001 34.7 38.8 
+Preity_Zinta/vNCVj7yLWPU_0000002 41.0 45.6 
+Preity_Zinta/vNCVj7yLWPU_0000003 54.7 65.2 
+Preity_Zinta/vNCVj7yLWPU_0000004 76.8 84.9 
+Preity_Zinta/vNCVj7yLWPU_0000005 105.0 109.7 
+Preity_Zinta/vNCVj7yLWPU_0000006 119.6 129.2 

@@ -1,0 +1,9 @@
+POI: 			Jim_Caviezel 
+Youtube ID: 	JFfXY5iiSBM 
+Video length: 	439.1 sec 
+Set (V): 		dev 
+ 
+Jim_Caviezel/JFfXY5iiSBM_0000001 173.9 181.4 
+Jim_Caviezel/JFfXY5iiSBM_0000002 205.6 212.2 
+Jim_Caviezel/JFfXY5iiSBM_0000003 230.2 235.3 
+Jim_Caviezel/JFfXY5iiSBM_0000004 382.4 387.0 

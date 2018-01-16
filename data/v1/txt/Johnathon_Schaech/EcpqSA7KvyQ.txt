@@ -1,0 +1,8 @@
+POI: 			Johnathon_Schaech 
+Youtube ID: 	EcpqSA7KvyQ 
+Video length: 	42.4 sec 
+Set (V): 		dev 
+ 
+Johnathon_Schaech/EcpqSA7KvyQ_0000001 00.7 06.7 
+Johnathon_Schaech/EcpqSA7KvyQ_0000002 08.4 34.8 
+Johnathon_Schaech/EcpqSA7KvyQ_0000003 35.7 40.0 

@@ -1,0 +1,15 @@
+POI: 			John_Oliver 
+Youtube ID: 	QJkiWwMKwSo 
+Video length: 	667.1 sec 
+Set (V): 		dev 
+ 
+John_Oliver/QJkiWwMKwSo_0000001 128.8 141.3 
+John_Oliver/QJkiWwMKwSo_0000002 218.9 222.9 
+John_Oliver/QJkiWwMKwSo_0000003 225.1 230.8 
+John_Oliver/QJkiWwMKwSo_0000004 280.2 285.2 
+John_Oliver/QJkiWwMKwSo_0000005 418.8 422.8 
+John_Oliver/QJkiWwMKwSo_0000006 476.3 480.7 
+John_Oliver/QJkiWwMKwSo_0000007 505.0 509.9 
+John_Oliver/QJkiWwMKwSo_0000008 599.6 603.9 
+John_Oliver/QJkiWwMKwSo_0000009 617.6 623.6 
+John_Oliver/QJkiWwMKwSo_0000010 647.8 653.4 

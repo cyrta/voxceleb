@@ -1,0 +1,19 @@
+POI: 			Elodie_Yung 
+Youtube ID: 	3g9CjhcNEWk 
+Video length: 	256.9 sec 
+Set (V): 		test 
+ 
+Elodie_Yung/3g9CjhcNEWk_0000001 23.5 27.6 
+Elodie_Yung/3g9CjhcNEWk_0000002 28.6 37.2 
+Elodie_Yung/3g9CjhcNEWk_0000003 37.4 48.8 
+Elodie_Yung/3g9CjhcNEWk_0000004 51.8 71.3 
+Elodie_Yung/3g9CjhcNEWk_0000005 71.8 86.2 
+Elodie_Yung/3g9CjhcNEWk_0000006 86.7 92.6 
+Elodie_Yung/3g9CjhcNEWk_0000007 99.4 108.4 
+Elodie_Yung/3g9CjhcNEWk_0000008 109.3 114.2 
+Elodie_Yung/3g9CjhcNEWk_0000009 117.9 125.6 
+Elodie_Yung/3g9CjhcNEWk_0000010 128.2 139.5 
+Elodie_Yung/3g9CjhcNEWk_0000011 160.0 178.5 
+Elodie_Yung/3g9CjhcNEWk_0000012 184.2 193.8 
+Elodie_Yung/3g9CjhcNEWk_0000013 211.9 224.1 
+Elodie_Yung/3g9CjhcNEWk_0000014 227.9 241.3 

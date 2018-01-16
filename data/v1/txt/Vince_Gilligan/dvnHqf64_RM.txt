@@ -1,0 +1,15 @@
+POI: 			Vince_Gilligan 
+Youtube ID: 	dvnHqf64_RM 
+Video length: 	137.0 sec 
+Set (V): 		dev 
+ 
+Vince_Gilligan/dvnHqf64_RM_0000001 06.0 11.2 
+Vince_Gilligan/dvnHqf64_RM_0000002 11.6 16.5 
+Vince_Gilligan/dvnHqf64_RM_0000003 16.8 27.5 
+Vince_Gilligan/dvnHqf64_RM_0000004 29.0 48.3 
+Vince_Gilligan/dvnHqf64_RM_0000005 49.2 55.8 
+Vince_Gilligan/dvnHqf64_RM_0000006 64.1 69.2 
+Vince_Gilligan/dvnHqf64_RM_0000007 70.0 84.9 
+Vince_Gilligan/dvnHqf64_RM_0000008 96.4 101.5 
+Vince_Gilligan/dvnHqf64_RM_0000009 112.4 116.9 
+Vince_Gilligan/dvnHqf64_RM_0000010 118.3 125.6 

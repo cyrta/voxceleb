@@ -1,0 +1,7 @@
+POI: 			Kat_Dennings 
+Youtube ID: 	6THiCDFgeFM 
+Video length: 	180.9 sec 
+Set (V): 		dev 
+ 
+Kat_Dennings/6THiCDFgeFM_0000001 92.4 97.8 
+Kat_Dennings/6THiCDFgeFM_0000002 105.0 109.8 

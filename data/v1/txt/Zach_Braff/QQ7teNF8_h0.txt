@@ -1,0 +1,7 @@
+POI: 			Zach_Braff 
+Youtube ID: 	QQ7teNF8_h0 
+Video length: 	225.3 sec 
+Set (V): 		dev 
+ 
+Zach_Braff/QQ7teNF8_h0_0000001 37.6 64.0 
+Zach_Braff/QQ7teNF8_h0_0000002 65.2 74.9 

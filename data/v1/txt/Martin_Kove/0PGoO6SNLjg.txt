@@ -1,0 +1,8 @@
+POI: 			Martin_Kove 
+Youtube ID: 	0PGoO6SNLjg 
+Video length: 	98.9 sec 
+Set (V): 		dev 
+ 
+Martin_Kove/0PGoO6SNLjg_0000001 32.2 44.2 
+Martin_Kove/0PGoO6SNLjg_0000002 64.8 69.5 
+Martin_Kove/0PGoO6SNLjg_0000003 84.3 93.5 

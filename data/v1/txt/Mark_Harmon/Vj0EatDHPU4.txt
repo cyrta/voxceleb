@@ -1,0 +1,8 @@
+POI: 			Mark_Harmon 
+Youtube ID: 	Vj0EatDHPU4 
+Video length: 	422.6 sec 
+Set (V): 		dev 
+ 
+Mark_Harmon/Vj0EatDHPU4_0000001 231.7 236.4 
+Mark_Harmon/Vj0EatDHPU4_0000002 302.0 308.8 
+Mark_Harmon/Vj0EatDHPU4_0000003 312.0 317.4 

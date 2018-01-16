@@ -1,0 +1,11 @@
+POI: 			Jack_Reynor 
+Youtube ID: 	zSBMRxJOw2w 
+Video length: 	142.1 sec 
+Set (V): 		dev 
+ 
+Jack_Reynor/zSBMRxJOw2w_0000001 13.4 23.8 
+Jack_Reynor/zSBMRxJOw2w_0000002 32.0 37.2 
+Jack_Reynor/zSBMRxJOw2w_0000003 39.0 59.9 
+Jack_Reynor/zSBMRxJOw2w_0000004 77.5 82.0 
+Jack_Reynor/zSBMRxJOw2w_0000005 100.4 105.5 
+Jack_Reynor/zSBMRxJOw2w_0000006 115.4 130.8 

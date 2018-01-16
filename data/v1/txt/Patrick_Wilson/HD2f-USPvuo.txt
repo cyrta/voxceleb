@@ -1,0 +1,13 @@
+POI: 			Patrick_Wilson 
+Youtube ID: 	HD2f-USPvuo 
+Video length: 	232.4 sec 
+Set (V): 		dev 
+ 
+Patrick_Wilson/HD2f-USPvuo_0000001 14.2 21.1 
+Patrick_Wilson/HD2f-USPvuo_0000002 43.9 48.2 
+Patrick_Wilson/HD2f-USPvuo_0000003 72.5 78.6 
+Patrick_Wilson/HD2f-USPvuo_0000004 96.9 102.7 
+Patrick_Wilson/HD2f-USPvuo_0000005 110.7 118.2 
+Patrick_Wilson/HD2f-USPvuo_0000006 140.7 147.1 
+Patrick_Wilson/HD2f-USPvuo_0000007 164.3 170.2 
+Patrick_Wilson/HD2f-USPvuo_0000008 204.5 209.5 

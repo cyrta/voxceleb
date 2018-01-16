@@ -1,0 +1,18 @@
+POI: 			Maria_Canals-Barrera 
+Youtube ID: 	u7qCFBP1nH4 
+Video length: 	283.7 sec 
+Set (V): 		dev 
+ 
+Maria_Canals-Barrera/u7qCFBP1nH4_0000001 13.3 22.8 
+Maria_Canals-Barrera/u7qCFBP1nH4_0000002 35.0 44.4 
+Maria_Canals-Barrera/u7qCFBP1nH4_0000003 48.8 53.4 
+Maria_Canals-Barrera/u7qCFBP1nH4_0000004 91.4 96.0 
+Maria_Canals-Barrera/u7qCFBP1nH4_0000005 115.7 122.7 
+Maria_Canals-Barrera/u7qCFBP1nH4_0000006 124.5 129.9 
+Maria_Canals-Barrera/u7qCFBP1nH4_0000007 130.6 136.3 
+Maria_Canals-Barrera/u7qCFBP1nH4_0000008 138.1 142.1 
+Maria_Canals-Barrera/u7qCFBP1nH4_0000009 150.1 165.9 
+Maria_Canals-Barrera/u7qCFBP1nH4_0000010 175.2 189.8 
+Maria_Canals-Barrera/u7qCFBP1nH4_0000011 193.4 199.0 
+Maria_Canals-Barrera/u7qCFBP1nH4_0000012 229.5 237.8 
+Maria_Canals-Barrera/u7qCFBP1nH4_0000013 262.6 268.4 

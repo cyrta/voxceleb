@@ -1,0 +1,7 @@
+POI: 			John_Corbett 
+Youtube ID: 	hLu9rdJE3Yg 
+Video length: 	46.3 sec 
+Set (V): 		dev 
+ 
+John_Corbett/hLu9rdJE3Yg_0000001 09.2 16.8 
+John_Corbett/hLu9rdJE3Yg_0000002 21.2 32.8 

@@ -1,0 +1,15 @@
+POI: 			Seth_MacFarlane 
+Youtube ID: 	FbPl47tUd4Q 
+Video length: 	469.7 sec 
+Set (V): 		dev 
+ 
+Seth_MacFarlane/FbPl47tUd4Q_0000001 128.8 138.4 
+Seth_MacFarlane/FbPl47tUd4Q_0000002 157.4 170.5 
+Seth_MacFarlane/FbPl47tUd4Q_0000003 171.6 177.8 
+Seth_MacFarlane/FbPl47tUd4Q_0000004 186.5 194.0 
+Seth_MacFarlane/FbPl47tUd4Q_0000005 212.4 218.6 
+Seth_MacFarlane/FbPl47tUd4Q_0000006 294.2 298.6 
+Seth_MacFarlane/FbPl47tUd4Q_0000007 339.6 351.6 
+Seth_MacFarlane/FbPl47tUd4Q_0000008 357.2 362.6 
+Seth_MacFarlane/FbPl47tUd4Q_0000009 416.3 427.0 
+Seth_MacFarlane/FbPl47tUd4Q_0000010 437.3 444.4 

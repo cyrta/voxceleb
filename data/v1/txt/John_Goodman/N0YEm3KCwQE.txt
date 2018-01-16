@@ -1,0 +1,9 @@
+POI: 			John_Goodman 
+Youtube ID: 	N0YEm3KCwQE 
+Video length: 	508.8 sec 
+Set (V): 		dev 
+ 
+John_Goodman/N0YEm3KCwQE_0000001 84.0 90.2 
+John_Goodman/N0YEm3KCwQE_0000002 339.5 344.2 
+John_Goodman/N0YEm3KCwQE_0000003 401.1 405.1 
+John_Goodman/N0YEm3KCwQE_0000004 463.6 468.6 

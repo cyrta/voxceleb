@@ -1,0 +1,10 @@
+POI: 			Rob_Riggle 
+Youtube ID: 	snz1w4jBGGI 
+Video length: 	208.3 sec 
+Set (V): 		dev 
+ 
+Rob_Riggle/snz1w4jBGGI_0000001 17.7 22.0 
+Rob_Riggle/snz1w4jBGGI_0000002 22.6 31.8 
+Rob_Riggle/snz1w4jBGGI_0000003 62.4 69.4 
+Rob_Riggle/snz1w4jBGGI_0000004 133.9 143.0 
+Rob_Riggle/snz1w4jBGGI_0000005 170.8 176.7 

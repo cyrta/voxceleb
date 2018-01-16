@@ -1,0 +1,35 @@
+POI: 			James_Woods 
+Youtube ID: 	kzLMOr5pqiw 
+Video length: 	2196.6 sec 
+Set (V): 		dev 
+ 
+James_Woods/kzLMOr5pqiw_0000001 498.4 505.7 
+James_Woods/kzLMOr5pqiw_0000002 556.9 561.9 
+James_Woods/kzLMOr5pqiw_0000003 689.7 695.7 
+James_Woods/kzLMOr5pqiw_0000004 700.4 705.1 
+James_Woods/kzLMOr5pqiw_0000005 826.0 835.6 
+James_Woods/kzLMOr5pqiw_0000006 885.1 889.5 
+James_Woods/kzLMOr5pqiw_0000007 934.9 939.4 
+James_Woods/kzLMOr5pqiw_0000008 1089.5 1096.9 
+James_Woods/kzLMOr5pqiw_0000009 1107.2 1115.0 
+James_Woods/kzLMOr5pqiw_0000010 1104.3 1115.3 
+James_Woods/kzLMOr5pqiw_0000011 1115.4 1119.7 
+James_Woods/kzLMOr5pqiw_0000012 1140.0 1147.0 
+James_Woods/kzLMOr5pqiw_0000013 1148.6 1161.1 
+James_Woods/kzLMOr5pqiw_0000014 1174.2 1180.2 
+James_Woods/kzLMOr5pqiw_0000015 1211.4 1217.1 
+James_Woods/kzLMOr5pqiw_0000016 1218.0 1222.5 
+James_Woods/kzLMOr5pqiw_0000017 1246.3 1253.3 
+James_Woods/kzLMOr5pqiw_0000018 1315.2 1320.8 
+James_Woods/kzLMOr5pqiw_0000019 1441.9 1446.7 
+James_Woods/kzLMOr5pqiw_0000020 1449.6 1453.9 
+James_Woods/kzLMOr5pqiw_0000021 1454.6 1472.0 
+James_Woods/kzLMOr5pqiw_0000022 1510.8 1515.1 
+James_Woods/kzLMOr5pqiw_0000023 1515.8 1525.0 
+James_Woods/kzLMOr5pqiw_0000024 1540.7 1547.1 
+James_Woods/kzLMOr5pqiw_0000025 1558.7 1571.6 
+James_Woods/kzLMOr5pqiw_0000026 1739.3 1757.2 
+James_Woods/kzLMOr5pqiw_0000027 1795.2 1805.0 
+James_Woods/kzLMOr5pqiw_0000028 1915.0 1920.0 
+James_Woods/kzLMOr5pqiw_0000029 2032.1 2036.3 
+James_Woods/kzLMOr5pqiw_0000030 2039.6 2049.7 

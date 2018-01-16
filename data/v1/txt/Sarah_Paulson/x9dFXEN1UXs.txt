@@ -1,0 +1,15 @@
+POI: 			Sarah_Paulson 
+Youtube ID: 	x9dFXEN1UXs 
+Video length: 	213.6 sec 
+Set (V): 		dev 
+ 
+Sarah_Paulson/x9dFXEN1UXs_0000001 06.0 13.3 
+Sarah_Paulson/x9dFXEN1UXs_0000002 13.8 35.4 
+Sarah_Paulson/x9dFXEN1UXs_0000003 39.4 49.2 
+Sarah_Paulson/x9dFXEN1UXs_0000004 63.4 68.2 
+Sarah_Paulson/x9dFXEN1UXs_0000005 69.3 78.4 
+Sarah_Paulson/x9dFXEN1UXs_0000006 162.2 172.0 
+Sarah_Paulson/x9dFXEN1UXs_0000007 178.8 185.0 
+Sarah_Paulson/x9dFXEN1UXs_0000008 190.3 203.5 
+Sarah_Paulson/x9dFXEN1UXs_0000009 178.8 184.6 
+Sarah_Paulson/x9dFXEN1UXs_0000010 205.7 210.8 

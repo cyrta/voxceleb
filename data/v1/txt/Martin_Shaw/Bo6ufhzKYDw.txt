@@ -1,0 +1,8 @@
+POI: 			Martin_Shaw 
+Youtube ID: 	Bo6ufhzKYDw 
+Video length: 	287.0 sec 
+Set (V): 		dev 
+ 
+Martin_Shaw/Bo6ufhzKYDw_0000001 46.0 51.9 
+Martin_Shaw/Bo6ufhzKYDw_0000002 172.6 176.6 
+Martin_Shaw/Bo6ufhzKYDw_0000003 263.1 268.7 

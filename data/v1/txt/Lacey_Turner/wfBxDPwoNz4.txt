@@ -1,0 +1,9 @@
+POI: 			Lacey_Turner 
+Youtube ID: 	wfBxDPwoNz4 
+Video length: 	512.4 sec 
+Set (V): 		dev 
+ 
+Lacey_Turner/wfBxDPwoNz4_0000001 151.7 157.8 
+Lacey_Turner/wfBxDPwoNz4_0000002 163.0 167.7 
+Lacey_Turner/wfBxDPwoNz4_0000003 180.8 185.6 
+Lacey_Turner/wfBxDPwoNz4_0000004 282.8 288.0 

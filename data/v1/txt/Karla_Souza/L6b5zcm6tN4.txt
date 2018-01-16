@@ -1,0 +1,11 @@
+POI: 			Karla_Souza 
+Youtube ID: 	L6b5zcm6tN4 
+Video length: 	441.6 sec 
+Set (V): 		dev 
+ 
+Karla_Souza/L6b5zcm6tN4_0000001 171.8 177.0 
+Karla_Souza/L6b5zcm6tN4_0000002 203.1 224.3 
+Karla_Souza/L6b5zcm6tN4_0000003 230.1 240.7 
+Karla_Souza/L6b5zcm6tN4_0000004 292.0 300.8 
+Karla_Souza/L6b5zcm6tN4_0000005 301.9 310.0 
+Karla_Souza/L6b5zcm6tN4_0000006 310.4 314.9 

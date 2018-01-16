@@ -1,0 +1,18 @@
+POI: 			Adam_Beach 
+Youtube ID: 	sQIqfA-I_Ew 
+Video length: 	320.5 sec 
+Set (V): 		dev 
+ 
+Adam_Beach/sQIqfA-I_Ew_0000001 54.3 70.6 
+Adam_Beach/sQIqfA-I_Ew_0000002 71.4 81.6 
+Adam_Beach/sQIqfA-I_Ew_0000003 82.4 93.9 
+Adam_Beach/sQIqfA-I_Ew_0000004 117.2 121.8 
+Adam_Beach/sQIqfA-I_Ew_0000005 126.3 134.7 
+Adam_Beach/sQIqfA-I_Ew_0000006 140.4 153.7 
+Adam_Beach/sQIqfA-I_Ew_0000007 171.8 178.5 
+Adam_Beach/sQIqfA-I_Ew_0000008 181.2 193.4 
+Adam_Beach/sQIqfA-I_Ew_0000009 194.0 200.4 
+Adam_Beach/sQIqfA-I_Ew_0000010 209.2 213.6 
+Adam_Beach/sQIqfA-I_Ew_0000011 215.1 228.0 
+Adam_Beach/sQIqfA-I_Ew_0000012 253.9 279.1 
+Adam_Beach/sQIqfA-I_Ew_0000013 283.4 293.2 

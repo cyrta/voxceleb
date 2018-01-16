@@ -1,0 +1,11 @@
+POI: 			Daniel_Auteuil 
+Youtube ID: 	KebqWBNGQH0 
+Video length: 	520.2 sec 
+Set (V): 		dev 
+ 
+Daniel_Auteuil/KebqWBNGQH0_0000001 105.2 111.5 
+Daniel_Auteuil/KebqWBNGQH0_0000002 231.8 236.6 
+Daniel_Auteuil/KebqWBNGQH0_0000003 274.3 282.4 
+Daniel_Auteuil/KebqWBNGQH0_0000004 432.4 440.4 
+Daniel_Auteuil/KebqWBNGQH0_0000005 474.4 483.2 
+Daniel_Auteuil/KebqWBNGQH0_0000006 487.4 491.4 

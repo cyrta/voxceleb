@@ -1,0 +1,16 @@
+POI: 			Ray_Winstone 
+Youtube ID: 	QVvtGN9I9FY 
+Video length: 	217.8 sec 
+Set (V): 		dev 
+ 
+Ray_Winstone/QVvtGN9I9FY_0000001 14.4 26.0 
+Ray_Winstone/QVvtGN9I9FY_0000002 30.5 46.3 
+Ray_Winstone/QVvtGN9I9FY_0000003 50.3 57.4 
+Ray_Winstone/QVvtGN9I9FY_0000004 68.3 81.1 
+Ray_Winstone/QVvtGN9I9FY_0000005 83.1 89.6 
+Ray_Winstone/QVvtGN9I9FY_0000006 90.8 98.7 
+Ray_Winstone/QVvtGN9I9FY_0000007 99.8 110.0 
+Ray_Winstone/QVvtGN9I9FY_0000008 122.9 130.4 
+Ray_Winstone/QVvtGN9I9FY_0000009 132.8 141.9 
+Ray_Winstone/QVvtGN9I9FY_0000010 142.0 174.8 
+Ray_Winstone/QVvtGN9I9FY_0000011 179.8 199.0 

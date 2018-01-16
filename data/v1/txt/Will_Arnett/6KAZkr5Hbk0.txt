@@ -1,0 +1,8 @@
+POI: 			Will_Arnett 
+Youtube ID: 	6KAZkr5Hbk0 
+Video length: 	167.0 sec 
+Set (V): 		dev 
+ 
+Will_Arnett/6KAZkr5Hbk0_0000001 24.0 28.4 
+Will_Arnett/6KAZkr5Hbk0_0000002 52.5 60.4 
+Will_Arnett/6KAZkr5Hbk0_0000003 128.6 143.1 

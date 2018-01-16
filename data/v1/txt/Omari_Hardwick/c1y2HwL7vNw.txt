@@ -1,0 +1,13 @@
+POI: 			Omari_Hardwick 
+Youtube ID: 	c1y2HwL7vNw 
+Video length: 	322.2 sec 
+Set (V): 		dev 
+ 
+Omari_Hardwick/c1y2HwL7vNw_0000001 33.7 38.0 
+Omari_Hardwick/c1y2HwL7vNw_0000002 143.2 147.7 
+Omari_Hardwick/c1y2HwL7vNw_0000003 148.7 160.6 
+Omari_Hardwick/c1y2HwL7vNw_0000004 253.8 258.5 
+Omari_Hardwick/c1y2HwL7vNw_0000005 259.1 264.2 
+Omari_Hardwick/c1y2HwL7vNw_0000006 265.0 273.6 
+Omari_Hardwick/c1y2HwL7vNw_0000007 274.8 281.7 
+Omari_Hardwick/c1y2HwL7vNw_0000008 286.5 299.9 

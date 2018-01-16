@@ -1,0 +1,8 @@
+POI: 			Jonathan_Jackson 
+Youtube ID: 	tzWXnNYGuto 
+Video length: 	120.8 sec 
+Set (V): 		dev 
+ 
+Jonathan_Jackson/tzWXnNYGuto_0000001 47.6 51.5 
+Jonathan_Jackson/tzWXnNYGuto_0000002 84.1 88.1 
+Jonathan_Jackson/tzWXnNYGuto_0000003 113.7 117.7 

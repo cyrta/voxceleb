@@ -1,0 +1,9 @@
+POI: 			Kenan_Thompson 
+Youtube ID: 	Xv6d1TRUALk 
+Video length: 	257.8 sec 
+Set (V): 		dev 
+ 
+Kenan_Thompson/Xv6d1TRUALk_0000001 65.1 72.0 
+Kenan_Thompson/Xv6d1TRUALk_0000002 105.0 109.6 
+Kenan_Thompson/Xv6d1TRUALk_0000003 162.5 168.8 
+Kenan_Thompson/Xv6d1TRUALk_0000004 184.6 189.1 

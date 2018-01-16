@@ -1,0 +1,11 @@
+POI: 			Jennette_McCurdy 
+Youtube ID: 	Rkk6mPKYFoY 
+Video length: 	329.9 sec 
+Set (V): 		dev 
+ 
+Jennette_McCurdy/Rkk6mPKYFoY_0000001 40.0 45.6 
+Jennette_McCurdy/Rkk6mPKYFoY_0000002 120.2 124.6 
+Jennette_McCurdy/Rkk6mPKYFoY_0000003 125.1 129.2 
+Jennette_McCurdy/Rkk6mPKYFoY_0000004 140.7 147.4 
+Jennette_McCurdy/Rkk6mPKYFoY_0000005 161.6 165.8 
+Jennette_McCurdy/Rkk6mPKYFoY_0000006 175.0 183.2 

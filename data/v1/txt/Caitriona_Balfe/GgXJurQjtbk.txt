@@ -1,0 +1,11 @@
+POI: 			Caitriona_Balfe 
+Youtube ID: 	GgXJurQjtbk 
+Video length: 	157.2 sec 
+Set (V): 		dev 
+ 
+Caitriona_Balfe/GgXJurQjtbk_0000001 17.8 22.5 
+Caitriona_Balfe/GgXJurQjtbk_0000002 26.9 44.4 
+Caitriona_Balfe/GgXJurQjtbk_0000003 51.4 75.5 
+Caitriona_Balfe/GgXJurQjtbk_0000004 78.6 106.0 
+Caitriona_Balfe/GgXJurQjtbk_0000005 109.3 135.0 
+Caitriona_Balfe/GgXJurQjtbk_0000006 144.4 151.6 

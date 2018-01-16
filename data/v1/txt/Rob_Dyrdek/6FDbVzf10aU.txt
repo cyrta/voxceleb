@@ -1,0 +1,9 @@
+POI: 			Rob_Dyrdek 
+Youtube ID: 	6FDbVzf10aU 
+Video length: 	404.0 sec 
+Set (V): 		dev 
+ 
+Rob_Dyrdek/6FDbVzf10aU_0000001 218.4 224.7 
+Rob_Dyrdek/6FDbVzf10aU_0000002 274.8 283.6 
+Rob_Dyrdek/6FDbVzf10aU_0000003 356.0 361.7 
+Rob_Dyrdek/6FDbVzf10aU_0000004 379.9 385.2 

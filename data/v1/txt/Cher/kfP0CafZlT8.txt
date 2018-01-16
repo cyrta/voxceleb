@@ -1,0 +1,8 @@
+POI: 			Cher 
+Youtube ID: 	kfP0CafZlT8 
+Video length: 	816.7 sec 
+Set (V): 		dev 
+ 
+Cher/kfP0CafZlT8_0000001 486.0 493.6 
+Cher/kfP0CafZlT8_0000002 639.1 645.3 
+Cher/kfP0CafZlT8_0000003 679.3 685.4 

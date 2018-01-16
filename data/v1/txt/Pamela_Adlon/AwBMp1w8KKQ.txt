@@ -1,0 +1,10 @@
+POI: 			Pamela_Adlon 
+Youtube ID: 	AwBMp1w8KKQ 
+Video length: 	536.6 sec 
+Set (V): 		dev 
+ 
+Pamela_Adlon/AwBMp1w8KKQ_0000001 306.8 315.2 
+Pamela_Adlon/AwBMp1w8KKQ_0000002 318.1 323.9 
+Pamela_Adlon/AwBMp1w8KKQ_0000003 359.9 367.4 
+Pamela_Adlon/AwBMp1w8KKQ_0000004 370.5 380.1 
+Pamela_Adlon/AwBMp1w8KKQ_0000005 392.9 398.3 

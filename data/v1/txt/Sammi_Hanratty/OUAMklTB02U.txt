@@ -1,0 +1,9 @@
+POI: 			Sammi_Hanratty 
+Youtube ID: 	OUAMklTB02U 
+Video length: 	127.3 sec 
+Set (V): 		dev 
+ 
+Sammi_Hanratty/OUAMklTB02U_0000001 14.5 49.3 
+Sammi_Hanratty/OUAMklTB02U_0000002 58.2 62.2 
+Sammi_Hanratty/OUAMklTB02U_0000003 65.0 75.9 
+Sammi_Hanratty/OUAMklTB02U_0000004 115.3 119.4 

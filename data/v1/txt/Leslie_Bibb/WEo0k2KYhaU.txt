@@ -1,0 +1,8 @@
+POI: 			Leslie_Bibb 
+Youtube ID: 	WEo0k2KYhaU 
+Video length: 	121.4 sec 
+Set (V): 		dev 
+ 
+Leslie_Bibb/WEo0k2KYhaU_0000001 53.2 58.3 
+Leslie_Bibb/WEo0k2KYhaU_0000002 62.4 66.8 
+Leslie_Bibb/WEo0k2KYhaU_0000003 77.4 82.3 

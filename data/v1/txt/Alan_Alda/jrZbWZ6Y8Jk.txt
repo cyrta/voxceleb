@@ -1,0 +1,12 @@
+POI: 			Alan_Alda 
+Youtube ID: 	jrZbWZ6Y8Jk 
+Video length: 	127.5 sec 
+Set (V): 		dev 
+ 
+Alan_Alda/jrZbWZ6Y8Jk_0000001 17.7 40.5 
+Alan_Alda/jrZbWZ6Y8Jk_0000002 56.3 60.6 
+Alan_Alda/jrZbWZ6Y8Jk_0000003 61.6 72.9 
+Alan_Alda/jrZbWZ6Y8Jk_0000004 73.8 81.3 
+Alan_Alda/jrZbWZ6Y8Jk_0000005 88.2 94.5 
+Alan_Alda/jrZbWZ6Y8Jk_0000006 102.2 109.6 
+Alan_Alda/jrZbWZ6Y8Jk_0000007 114.5 118.9 

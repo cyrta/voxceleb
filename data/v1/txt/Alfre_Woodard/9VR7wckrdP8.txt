@@ -1,0 +1,10 @@
+POI: 			Alfre_Woodard 
+Youtube ID: 	9VR7wckrdP8 
+Video length: 	433.1 sec 
+Set (V): 		dev 
+ 
+Alfre_Woodard/9VR7wckrdP8_0000001 86.6 90.7 
+Alfre_Woodard/9VR7wckrdP8_0000002 181.5 189.1 
+Alfre_Woodard/9VR7wckrdP8_0000003 196.1 201.6 
+Alfre_Woodard/9VR7wckrdP8_0000004 217.2 222.2 
+Alfre_Woodard/9VR7wckrdP8_0000005 236.4 240.9 

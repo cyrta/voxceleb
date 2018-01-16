@@ -1,0 +1,14 @@
+POI: 			Douglas_Booth 
+Youtube ID: 	z8vUUJW-3nY 
+Video length: 	289.4 sec 
+Set (V): 		dev 
+ 
+Douglas_Booth/z8vUUJW-3nY_0000001 49.1 57.5 
+Douglas_Booth/z8vUUJW-3nY_0000002 59.4 64.2 
+Douglas_Booth/z8vUUJW-3nY_0000003 82.0 86.4 
+Douglas_Booth/z8vUUJW-3nY_0000004 180.5 189.0 
+Douglas_Booth/z8vUUJW-3nY_0000005 202.8 207.8 
+Douglas_Booth/z8vUUJW-3nY_0000006 229.4 238.5 
+Douglas_Booth/z8vUUJW-3nY_0000007 245.0 249.0 
+Douglas_Booth/z8vUUJW-3nY_0000008 251.3 255.6 
+Douglas_Booth/z8vUUJW-3nY_0000009 257.6 265.5 

@@ -1,0 +1,7 @@
+POI: 			Bridget_Regan 
+Youtube ID: 	CtxcwK7C1mE 
+Video length: 	250.0 sec 
+Set (V): 		dev 
+ 
+Bridget_Regan/CtxcwK7C1mE_0000001 192.3 200.1 
+Bridget_Regan/CtxcwK7C1mE_0000002 216.4 220.6 

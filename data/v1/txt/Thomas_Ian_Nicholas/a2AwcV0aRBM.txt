@@ -1,0 +1,9 @@
+POI: 			Thomas_Ian_Nicholas 
+Youtube ID: 	a2AwcV0aRBM 
+Video length: 	969.7 sec 
+Set (V): 		dev 
+ 
+Thomas_Ian_Nicholas/a2AwcV0aRBM_0000001 390.2 394.9 
+Thomas_Ian_Nicholas/a2AwcV0aRBM_0000002 508.8 515.3 
+Thomas_Ian_Nicholas/a2AwcV0aRBM_0000003 544.7 548.8 
+Thomas_Ian_Nicholas/a2AwcV0aRBM_0000004 728.4 733.6 

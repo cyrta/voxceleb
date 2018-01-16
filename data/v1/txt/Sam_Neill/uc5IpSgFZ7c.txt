@@ -1,0 +1,11 @@
+POI: 			Sam_Neill 
+Youtube ID: 	uc5IpSgFZ7c 
+Video length: 	447.7 sec 
+Set (V): 		dev 
+ 
+Sam_Neill/uc5IpSgFZ7c_0000001 125.4 129.8 
+Sam_Neill/uc5IpSgFZ7c_0000002 247.0 251.2 
+Sam_Neill/uc5IpSgFZ7c_0000003 374.2 379.0 
+Sam_Neill/uc5IpSgFZ7c_0000004 394.3 399.6 
+Sam_Neill/uc5IpSgFZ7c_0000005 400.6 406.5 
+Sam_Neill/uc5IpSgFZ7c_0000006 413.2 422.6 

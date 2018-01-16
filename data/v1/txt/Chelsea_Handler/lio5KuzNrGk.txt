@@ -1,0 +1,9 @@
+POI: 			Chelsea_Handler 
+Youtube ID: 	lio5KuzNrGk 
+Video length: 	181.3 sec 
+Set (V): 		dev 
+ 
+Chelsea_Handler/lio5KuzNrGk_0000001 07.9 15.4 
+Chelsea_Handler/lio5KuzNrGk_0000002 79.7 83.7 
+Chelsea_Handler/lio5KuzNrGk_0000003 104.7 114.6 
+Chelsea_Handler/lio5KuzNrGk_0000004 131.7 142.2 

@@ -1,0 +1,16 @@
+POI: 			Wesley_Snipes 
+Youtube ID: 	RCXshrWoK5g 
+Video length: 	293.2 sec 
+Set (V): 		dev 
+ 
+Wesley_Snipes/RCXshrWoK5g_0000001 34.2 40.4 
+Wesley_Snipes/RCXshrWoK5g_0000002 74.0 82.9 
+Wesley_Snipes/RCXshrWoK5g_0000003 84.0 93.5 
+Wesley_Snipes/RCXshrWoK5g_0000004 94.3 101.7 
+Wesley_Snipes/RCXshrWoK5g_0000005 140.6 149.8 
+Wesley_Snipes/RCXshrWoK5g_0000006 160.1 166.1 
+Wesley_Snipes/RCXshrWoK5g_0000007 206.8 211.2 
+Wesley_Snipes/RCXshrWoK5g_0000008 215.5 221.2 
+Wesley_Snipes/RCXshrWoK5g_0000009 229.2 236.8 
+Wesley_Snipes/RCXshrWoK5g_0000010 238.1 248.8 
+Wesley_Snipes/RCXshrWoK5g_0000011 274.7 283.0 

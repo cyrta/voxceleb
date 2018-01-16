@@ -1,0 +1,23 @@
+POI: 			Olivia_Munn 
+Youtube ID: 	KQFyXtrSLhY 
+Video length: 	306.4 sec 
+Set (V): 		dev 
+ 
+Olivia_Munn/KQFyXtrSLhY_0000001 13.0 17.2 
+Olivia_Munn/KQFyXtrSLhY_0000002 17.6 23.3 
+Olivia_Munn/KQFyXtrSLhY_0000003 31.1 41.7 
+Olivia_Munn/KQFyXtrSLhY_0000004 47.1 52.1 
+Olivia_Munn/KQFyXtrSLhY_0000005 52.7 59.0 
+Olivia_Munn/KQFyXtrSLhY_0000006 59.3 84.2 
+Olivia_Munn/KQFyXtrSLhY_0000007 94.8 119.5 
+Olivia_Munn/KQFyXtrSLhY_0000008 120.0 124.1 
+Olivia_Munn/KQFyXtrSLhY_0000009 125.7 130.7 
+Olivia_Munn/KQFyXtrSLhY_0000010 130.9 138.3 
+Olivia_Munn/KQFyXtrSLhY_0000011 153.4 169.8 
+Olivia_Munn/KQFyXtrSLhY_0000012 174.8 181.3 
+Olivia_Munn/KQFyXtrSLhY_0000013 188.9 192.9 
+Olivia_Munn/KQFyXtrSLhY_0000014 193.0 204.3 
+Olivia_Munn/KQFyXtrSLhY_0000015 228.3 248.2 
+Olivia_Munn/KQFyXtrSLhY_0000016 256.9 270.0 
+Olivia_Munn/KQFyXtrSLhY_0000017 278.2 293.2 
+Olivia_Munn/KQFyXtrSLhY_0000018 299.6 303.6 

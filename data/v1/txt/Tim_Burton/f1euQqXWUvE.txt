@@ -1,0 +1,17 @@
+POI: 			Tim_Burton 
+Youtube ID: 	f1euQqXWUvE 
+Video length: 	496.5 sec 
+Set (V): 		dev 
+ 
+Tim_Burton/f1euQqXWUvE_0000001 74.1 78.3 
+Tim_Burton/f1euQqXWUvE_0000002 78.7 84.0 
+Tim_Burton/f1euQqXWUvE_0000003 89.6 94.3 
+Tim_Burton/f1euQqXWUvE_0000004 152.3 158.7 
+Tim_Burton/f1euQqXWUvE_0000005 161.3 166.1 
+Tim_Burton/f1euQqXWUvE_0000006 187.6 194.5 
+Tim_Burton/f1euQqXWUvE_0000007 219.7 224.5 
+Tim_Burton/f1euQqXWUvE_0000008 247.3 254.6 
+Tim_Burton/f1euQqXWUvE_0000009 344.9 355.7 
+Tim_Burton/f1euQqXWUvE_0000010 379.3 386.1 
+Tim_Burton/f1euQqXWUvE_0000011 427.4 434.4 
+Tim_Burton/f1euQqXWUvE_0000012 454.2 458.9 

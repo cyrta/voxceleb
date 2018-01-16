@@ -1,0 +1,8 @@
+POI: 			Drake_Bell 
+Youtube ID: 	3SRMHCjjAKk 
+Video length: 	247.5 sec 
+Set (V): 		dev 
+ 
+Drake_Bell/3SRMHCjjAKk_0000001 46.9 52.0 
+Drake_Bell/3SRMHCjjAKk_0000002 85.5 90.2 
+Drake_Bell/3SRMHCjjAKk_0000003 199.2 204.5 

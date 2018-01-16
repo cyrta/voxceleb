@@ -1,0 +1,15 @@
+POI: 			Cliff_Curtis 
+Youtube ID: 	u4pp0GTj3xo 
+Video length: 	602.2 sec 
+Set (V): 		dev 
+ 
+Cliff_Curtis/u4pp0GTj3xo_0000001 32.4 38.0 
+Cliff_Curtis/u4pp0GTj3xo_0000002 50.6 56.4 
+Cliff_Curtis/u4pp0GTj3xo_0000003 104.8 109.2 
+Cliff_Curtis/u4pp0GTj3xo_0000004 147.0 151.4 
+Cliff_Curtis/u4pp0GTj3xo_0000005 223.4 228.4 
+Cliff_Curtis/u4pp0GTj3xo_0000006 229.8 234.0 
+Cliff_Curtis/u4pp0GTj3xo_0000007 261.0 265.4 
+Cliff_Curtis/u4pp0GTj3xo_0000008 305.5 310.7 
+Cliff_Curtis/u4pp0GTj3xo_0000009 375.0 381.0 
+Cliff_Curtis/u4pp0GTj3xo_0000010 456.6 462.8 

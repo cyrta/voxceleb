@@ -1,0 +1,20 @@
+POI: 			John_Amos 
+Youtube ID: 	Jm36gRGe5bo 
+Video length: 	173.7 sec 
+Set (V): 		dev 
+ 
+John_Amos/Jm36gRGe5bo_0000001 06.6 10.6 
+John_Amos/Jm36gRGe5bo_0000002 11.7 16.2 
+John_Amos/Jm36gRGe5bo_0000003 20.5 24.6 
+John_Amos/Jm36gRGe5bo_0000004 25.4 31.1 
+John_Amos/Jm36gRGe5bo_0000005 36.4 42.6 
+John_Amos/Jm36gRGe5bo_0000006 42.9 49.8 
+John_Amos/Jm36gRGe5bo_0000007 52.0 56.1 
+John_Amos/Jm36gRGe5bo_0000008 59.2 65.5 
+John_Amos/Jm36gRGe5bo_0000009 68.2 74.4 
+John_Amos/Jm36gRGe5bo_0000010 75.0 80.8 
+John_Amos/Jm36gRGe5bo_0000011 80.9 86.6 
+John_Amos/Jm36gRGe5bo_0000012 87.2 100.0 
+John_Amos/Jm36gRGe5bo_0000013 104.5 117.3 
+John_Amos/Jm36gRGe5bo_0000014 130.2 143.8 
+John_Amos/Jm36gRGe5bo_0000015 154.3 160.0 

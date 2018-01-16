@@ -1,0 +1,11 @@
+POI: 			Olivia_Wilde 
+Youtube ID: 	G_ehRQzMOBE 
+Video length: 	242.9 sec 
+Set (V): 		dev 
+ 
+Olivia_Wilde/G_ehRQzMOBE_0000001 38.9 63.4 
+Olivia_Wilde/G_ehRQzMOBE_0000002 69.5 78.4 
+Olivia_Wilde/G_ehRQzMOBE_0000003 131.5 138.7 
+Olivia_Wilde/G_ehRQzMOBE_0000004 166.6 173.9 
+Olivia_Wilde/G_ehRQzMOBE_0000005 183.3 187.7 
+Olivia_Wilde/G_ehRQzMOBE_0000006 203.4 207.6 

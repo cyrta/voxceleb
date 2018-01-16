@@ -1,0 +1,8 @@
+POI: 			John_Slattery 
+Youtube ID: 	HETJmtg5zTw 
+Video length: 	156.6 sec 
+Set (V): 		dev 
+ 
+John_Slattery/HETJmtg5zTw_0000001 26.5 31.2 
+John_Slattery/HETJmtg5zTw_0000002 31.5 70.3 
+John_Slattery/HETJmtg5zTw_0000003 82.5 87.4 

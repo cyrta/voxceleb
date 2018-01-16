@@ -1,0 +1,20 @@
+POI: 			Sterling_Knight 
+Youtube ID: 	gQpPpY2gUHc 
+Video length: 	243.4 sec 
+Set (V): 		dev 
+ 
+Sterling_Knight/gQpPpY2gUHc_0000001 20.5 24.6 
+Sterling_Knight/gQpPpY2gUHc_0000002 24.7 33.4 
+Sterling_Knight/gQpPpY2gUHc_0000003 34.9 40.7 
+Sterling_Knight/gQpPpY2gUHc_0000004 47.5 54.2 
+Sterling_Knight/gQpPpY2gUHc_0000005 95.4 101.7 
+Sterling_Knight/gQpPpY2gUHc_0000006 105.0 110.8 
+Sterling_Knight/gQpPpY2gUHc_0000007 114.1 118.6 
+Sterling_Knight/gQpPpY2gUHc_0000008 118.8 123.1 
+Sterling_Knight/gQpPpY2gUHc_0000009 125.8 137.1 
+Sterling_Knight/gQpPpY2gUHc_0000010 138.9 145.4 
+Sterling_Knight/gQpPpY2gUHc_0000011 152.6 159.7 
+Sterling_Knight/gQpPpY2gUHc_0000012 160.7 167.4 
+Sterling_Knight/gQpPpY2gUHc_0000013 190.0 197.1 
+Sterling_Knight/gQpPpY2gUHc_0000014 207.1 219.6 
+Sterling_Knight/gQpPpY2gUHc_0000015 220.1 231.7 

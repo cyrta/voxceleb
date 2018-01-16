@@ -1,0 +1,12 @@
+POI: 			Julia_Louis-Dreyfus 
+Youtube ID: 	wPh7KMvTPkg 
+Video length: 	140.7 sec 
+Set (V): 		dev 
+ 
+Julia_Louis-Dreyfus/wPh7KMvTPkg_0000001 16.6 23.2 
+Julia_Louis-Dreyfus/wPh7KMvTPkg_0000002 23.4 31.3 
+Julia_Louis-Dreyfus/wPh7KMvTPkg_0000003 41.7 46.4 
+Julia_Louis-Dreyfus/wPh7KMvTPkg_0000004 47.0 59.1 
+Julia_Louis-Dreyfus/wPh7KMvTPkg_0000005 78.6 95.2 
+Julia_Louis-Dreyfus/wPh7KMvTPkg_0000006 96.0 104.0 
+Julia_Louis-Dreyfus/wPh7KMvTPkg_0000007 104.4 115.5 

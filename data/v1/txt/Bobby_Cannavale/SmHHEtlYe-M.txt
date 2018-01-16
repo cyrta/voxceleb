@@ -1,0 +1,11 @@
+POI: 			Bobby_Cannavale 
+Youtube ID: 	SmHHEtlYe-M 
+Video length: 	104.2 sec 
+Set (V): 		dev 
+ 
+Bobby_Cannavale/SmHHEtlYe-M_0000001 12.6 19.6 
+Bobby_Cannavale/SmHHEtlYe-M_0000002 20.6 25.2 
+Bobby_Cannavale/SmHHEtlYe-M_0000003 39.8 44.2 
+Bobby_Cannavale/SmHHEtlYe-M_0000004 44.9 52.2 
+Bobby_Cannavale/SmHHEtlYe-M_0000005 57.0 66.2 
+Bobby_Cannavale/SmHHEtlYe-M_0000006 66.4 71.1 

@@ -1,0 +1,16 @@
+POI: 			David_Lyons 
+Youtube ID: 	BRUQ8X5w1fs 
+Video length: 	550.9 sec 
+Set (V): 		dev 
+ 
+David_Lyons/BRUQ8X5w1fs_0000001 22.5 43.0 
+David_Lyons/BRUQ8X5w1fs_0000002 48.8 59.5 
+David_Lyons/BRUQ8X5w1fs_0000003 112.4 120.4 
+David_Lyons/BRUQ8X5w1fs_0000004 120.6 125.1 
+David_Lyons/BRUQ8X5w1fs_0000005 126.0 138.8 
+David_Lyons/BRUQ8X5w1fs_0000006 169.5 186.6 
+David_Lyons/BRUQ8X5w1fs_0000007 234.7 245.7 
+David_Lyons/BRUQ8X5w1fs_0000008 289.6 298.1 
+David_Lyons/BRUQ8X5w1fs_0000009 425.2 429.2 
+David_Lyons/BRUQ8X5w1fs_0000010 431.9 438.0 
+David_Lyons/BRUQ8X5w1fs_0000011 447.0 464.7 

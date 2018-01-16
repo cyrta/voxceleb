@@ -1,0 +1,10 @@
+POI: 			Shannen_Doherty 
+Youtube ID: 	fQZ7UEmc_kw 
+Video length: 	414.9 sec 
+Set (V): 		dev 
+ 
+Shannen_Doherty/fQZ7UEmc_kw_0000001 96.0 101.6 
+Shannen_Doherty/fQZ7UEmc_kw_0000002 232.3 236.4 
+Shannen_Doherty/fQZ7UEmc_kw_0000003 254.1 263.8 
+Shannen_Doherty/fQZ7UEmc_kw_0000004 264.8 269.8 
+Shannen_Doherty/fQZ7UEmc_kw_0000005 388.3 392.8 

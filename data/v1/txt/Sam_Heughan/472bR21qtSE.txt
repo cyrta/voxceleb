@@ -1,0 +1,11 @@
+POI: 			Sam_Heughan 
+Youtube ID: 	472bR21qtSE 
+Video length: 	622.3 sec 
+Set (V): 		dev 
+ 
+Sam_Heughan/472bR21qtSE_0000001 78.9 84.2 
+Sam_Heughan/472bR21qtSE_0000002 156.4 163.1 
+Sam_Heughan/472bR21qtSE_0000003 206.1 210.3 
+Sam_Heughan/472bR21qtSE_0000004 302.8 314.6 
+Sam_Heughan/472bR21qtSE_0000005 320.9 327.2 
+Sam_Heughan/472bR21qtSE_0000006 451.4 456.2 

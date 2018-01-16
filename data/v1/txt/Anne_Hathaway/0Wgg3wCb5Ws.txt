@@ -1,0 +1,10 @@
+POI: 			Anne_Hathaway 
+Youtube ID: 	0Wgg3wCb5Ws 
+Video length: 	221.5 sec 
+Set (V): 		dev 
+ 
+Anne_Hathaway/0Wgg3wCb5Ws_0000001 39.8 47.1 
+Anne_Hathaway/0Wgg3wCb5Ws_0000002 47.9 57.2 
+Anne_Hathaway/0Wgg3wCb5Ws_0000003 57.3 66.5 
+Anne_Hathaway/0Wgg3wCb5Ws_0000004 67.3 74.9 
+Anne_Hathaway/0Wgg3wCb5Ws_0000005 89.0 100.9 

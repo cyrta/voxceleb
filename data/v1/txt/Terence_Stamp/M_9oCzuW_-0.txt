@@ -1,0 +1,10 @@
+POI: 			Terence_Stamp 
+Youtube ID: 	M_9oCzuW_-0 
+Video length: 	156.6 sec 
+Set (V): 		dev 
+ 
+Terence_Stamp/M_9oCzuW_-0_0000001 13.6 20.4 
+Terence_Stamp/M_9oCzuW_-0_0000002 46.7 55.2 
+Terence_Stamp/M_9oCzuW_-0_0000003 79.3 83.5 
+Terence_Stamp/M_9oCzuW_-0_0000004 89.0 93.4 
+Terence_Stamp/M_9oCzuW_-0_0000005 140.3 155.2 

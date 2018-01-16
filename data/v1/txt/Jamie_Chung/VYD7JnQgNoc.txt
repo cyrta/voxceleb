@@ -1,0 +1,10 @@
+POI: 			Jamie_Chung 
+Youtube ID: 	VYD7JnQgNoc 
+Video length: 	134.3 sec 
+Set (V): 		dev 
+ 
+Jamie_Chung/VYD7JnQgNoc_0000001 21.7 28.2 
+Jamie_Chung/VYD7JnQgNoc_0000002 37.2 42.6 
+Jamie_Chung/VYD7JnQgNoc_0000003 46.6 53.2 
+Jamie_Chung/VYD7JnQgNoc_0000004 53.4 58.9 
+Jamie_Chung/VYD7JnQgNoc_0000005 86.7 99.6 

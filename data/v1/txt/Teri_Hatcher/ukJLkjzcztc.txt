@@ -1,0 +1,19 @@
+POI: 			Teri_Hatcher 
+Youtube ID: 	ukJLkjzcztc 
+Video length: 	288.9 sec 
+Set (V): 		dev 
+ 
+Teri_Hatcher/ukJLkjzcztc_0000001 25.9 57.9 
+Teri_Hatcher/ukJLkjzcztc_0000002 58.1 79.2 
+Teri_Hatcher/ukJLkjzcztc_0000003 104.4 109.1 
+Teri_Hatcher/ukJLkjzcztc_0000004 109.5 116.3 
+Teri_Hatcher/ukJLkjzcztc_0000005 120.9 133.4 
+Teri_Hatcher/ukJLkjzcztc_0000006 140.3 145.5 
+Teri_Hatcher/ukJLkjzcztc_0000007 178.2 191.8 
+Teri_Hatcher/ukJLkjzcztc_0000008 192.4 197.0 
+Teri_Hatcher/ukJLkjzcztc_0000009 197.9 206.6 
+Teri_Hatcher/ukJLkjzcztc_0000010 207.4 215.0 
+Teri_Hatcher/ukJLkjzcztc_0000011 226.4 235.2 
+Teri_Hatcher/ukJLkjzcztc_0000012 238.2 250.3 
+Teri_Hatcher/ukJLkjzcztc_0000013 254.4 260.6 
+Teri_Hatcher/ukJLkjzcztc_0000014 273.0 277.4 

@@ -1,0 +1,9 @@
+POI: 			David_Mazouz 
+Youtube ID: 	FtkUzjpJtbY 
+Video length: 	444.2 sec 
+Set (V): 		dev 
+ 
+David_Mazouz/FtkUzjpJtbY_0000001 85.1 93.8 
+David_Mazouz/FtkUzjpJtbY_0000002 116.9 122.6 
+David_Mazouz/FtkUzjpJtbY_0000003 274.9 278.8 
+David_Mazouz/FtkUzjpJtbY_0000004 367.9 372.8 

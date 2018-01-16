@@ -1,0 +1,13 @@
+POI: 			Kevin_McHale 
+Youtube ID: 	_sYJpjEgzzk 
+Video length: 	445.8 sec 
+Set (V): 		dev 
+ 
+Kevin_McHale/_sYJpjEgzzk_0000001 35.3 39.4 
+Kevin_McHale/_sYJpjEgzzk_0000002 82.0 87.5 
+Kevin_McHale/_sYJpjEgzzk_0000003 113.2 122.3 
+Kevin_McHale/_sYJpjEgzzk_0000004 158.5 169.4 
+Kevin_McHale/_sYJpjEgzzk_0000005 194.6 203.4 
+Kevin_McHale/_sYJpjEgzzk_0000006 242.2 251.8 
+Kevin_McHale/_sYJpjEgzzk_0000007 415.1 420.0 
+Kevin_McHale/_sYJpjEgzzk_0000008 425.8 430.5 

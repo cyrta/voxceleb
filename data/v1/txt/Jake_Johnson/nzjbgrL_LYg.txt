@@ -1,0 +1,7 @@
+POI: 			Jake_Johnson 
+Youtube ID: 	nzjbgrL_LYg 
+Video length: 	129.6 sec 
+Set (V): 		dev 
+ 
+Jake_Johnson/nzjbgrL_LYg_0000001 26.0 31.5 
+Jake_Johnson/nzjbgrL_LYg_0000002 41.4 49.4 

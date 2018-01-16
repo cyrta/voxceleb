@@ -1,0 +1,19 @@
+POI: 			Mark_Webber 
+Youtube ID: 	ffCkm0WA_Tg 
+Video length: 	273.2 sec 
+Set (V): 		dev 
+ 
+Mark_Webber/ffCkm0WA_Tg_0000001 19.6 29.7 
+Mark_Webber/ffCkm0WA_Tg_0000002 47.0 51.8 
+Mark_Webber/ffCkm0WA_Tg_0000003 66.1 71.9 
+Mark_Webber/ffCkm0WA_Tg_0000004 74.5 80.3 
+Mark_Webber/ffCkm0WA_Tg_0000005 84.7 89.0 
+Mark_Webber/ffCkm0WA_Tg_0000006 102.8 108.3 
+Mark_Webber/ffCkm0WA_Tg_0000007 111.3 131.5 
+Mark_Webber/ffCkm0WA_Tg_0000008 152.2 156.8 
+Mark_Webber/ffCkm0WA_Tg_0000009 162.6 170.9 
+Mark_Webber/ffCkm0WA_Tg_0000010 176.0 181.0 
+Mark_Webber/ffCkm0WA_Tg_0000011 199.6 208.2 
+Mark_Webber/ffCkm0WA_Tg_0000012 208.7 216.1 
+Mark_Webber/ffCkm0WA_Tg_0000013 221.6 225.8 
+Mark_Webber/ffCkm0WA_Tg_0000014 237.2 243.3 

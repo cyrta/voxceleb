@@ -1,0 +1,19 @@
+POI: 			Nancy_Cartwright 
+Youtube ID: 	Z4mzqCoNQxo 
+Video length: 	164.9 sec 
+Set (V): 		dev 
+ 
+Nancy_Cartwright/Z4mzqCoNQxo_0000001 09.1 19.1 
+Nancy_Cartwright/Z4mzqCoNQxo_0000002 35.4 42.6 
+Nancy_Cartwright/Z4mzqCoNQxo_0000003 43.5 52.8 
+Nancy_Cartwright/Z4mzqCoNQxo_0000004 55.9 59.9 
+Nancy_Cartwright/Z4mzqCoNQxo_0000005 60.2 68.8 
+Nancy_Cartwright/Z4mzqCoNQxo_0000006 69.6 76.4 
+Nancy_Cartwright/Z4mzqCoNQxo_0000007 94.6 101.3 
+Nancy_Cartwright/Z4mzqCoNQxo_0000008 104.4 110.4 
+Nancy_Cartwright/Z4mzqCoNQxo_0000009 111.4 120.2 
+Nancy_Cartwright/Z4mzqCoNQxo_0000010 133.8 139.6 
+Nancy_Cartwright/Z4mzqCoNQxo_0000011 64.5 68.9 
+Nancy_Cartwright/Z4mzqCoNQxo_0000012 69.1 76.4 
+Nancy_Cartwright/Z4mzqCoNQxo_0000013 94.5 104.1 
+Nancy_Cartwright/Z4mzqCoNQxo_0000014 104.3 121.5 

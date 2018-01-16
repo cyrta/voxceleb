@@ -1,0 +1,13 @@
+POI: 			David_Oyelowo 
+Youtube ID: 	r2ZD3Tmo2Ew 
+Video length: 	256.0 sec 
+Set (V): 		dev 
+ 
+David_Oyelowo/r2ZD3Tmo2Ew_0000001 03.4 07.7 
+David_Oyelowo/r2ZD3Tmo2Ew_0000002 10.6 16.4 
+David_Oyelowo/r2ZD3Tmo2Ew_0000003 22.7 30.2 
+David_Oyelowo/r2ZD3Tmo2Ew_0000004 38.0 52.6 
+David_Oyelowo/r2ZD3Tmo2Ew_0000005 55.0 60.8 
+David_Oyelowo/r2ZD3Tmo2Ew_0000006 162.0 166.7 
+David_Oyelowo/r2ZD3Tmo2Ew_0000007 170.6 188.0 
+David_Oyelowo/r2ZD3Tmo2Ew_0000008 169.0 185.7 

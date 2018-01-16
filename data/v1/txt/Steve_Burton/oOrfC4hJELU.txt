@@ -1,0 +1,8 @@
+POI: 			Steve_Burton 
+Youtube ID: 	oOrfC4hJELU 
+Video length: 	78.8 sec 
+Set (V): 		dev 
+ 
+Steve_Burton/oOrfC4hJELU_0000001 11.3 21.6 
+Steve_Burton/oOrfC4hJELU_0000002 29.3 33.6 
+Steve_Burton/oOrfC4hJELU_0000003 38.3 42.4 

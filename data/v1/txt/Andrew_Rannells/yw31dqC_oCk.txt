@@ -1,0 +1,15 @@
+POI: 			Andrew_Rannells 
+Youtube ID: 	yw31dqC_oCk 
+Video length: 	259.2 sec 
+Set (V): 		dev 
+ 
+Andrew_Rannells/yw31dqC_oCk_0000001 16.0 20.0 
+Andrew_Rannells/yw31dqC_oCk_0000002 37.4 42.9 
+Andrew_Rannells/yw31dqC_oCk_0000003 109.1 123.3 
+Andrew_Rannells/yw31dqC_oCk_0000004 145.7 150.5 
+Andrew_Rannells/yw31dqC_oCk_0000005 155.9 161.1 
+Andrew_Rannells/yw31dqC_oCk_0000006 200.5 204.7 
+Andrew_Rannells/yw31dqC_oCk_0000007 216.0 221.8 
+Andrew_Rannells/yw31dqC_oCk_0000008 223.6 234.8 
+Andrew_Rannells/yw31dqC_oCk_0000009 238.6 244.0 
+Andrew_Rannells/yw31dqC_oCk_0000010 245.8 256.2 

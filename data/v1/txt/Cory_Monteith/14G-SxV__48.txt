@@ -1,0 +1,8 @@
+POI: 			Cory_Monteith 
+Youtube ID: 	14G-SxV__48 
+Video length: 	168.5 sec 
+Set (V): 		dev 
+ 
+Cory_Monteith/14G-SxV__48_0000001 10.8 18.6 
+Cory_Monteith/14G-SxV__48_0000002 66.1 76.8 
+Cory_Monteith/14G-SxV__48_0000003 129.0 135.0 

@@ -1,0 +1,8 @@
+POI: 			Tamala_Jones 
+Youtube ID: 	X31VT0ZWADU 
+Video length: 	165.2 sec 
+Set (V): 		dev 
+ 
+Tamala_Jones/X31VT0ZWADU_0000001 84.6 88.8 
+Tamala_Jones/X31VT0ZWADU_0000002 102.5 126.9 
+Tamala_Jones/X31VT0ZWADU_0000003 148.2 153.4 

@@ -1,0 +1,20 @@
+POI: 			Maria_Bamford 
+Youtube ID: 	ESIjgUlVEP0 
+Video length: 	283.0 sec 
+Set (V): 		dev 
+ 
+Maria_Bamford/ESIjgUlVEP0_0000001 05.3 11.6 
+Maria_Bamford/ESIjgUlVEP0_0000002 13.0 18.8 
+Maria_Bamford/ESIjgUlVEP0_0000003 30.0 37.4 
+Maria_Bamford/ESIjgUlVEP0_0000004 48.4 52.5 
+Maria_Bamford/ESIjgUlVEP0_0000005 57.2 61.2 
+Maria_Bamford/ESIjgUlVEP0_0000006 61.8 65.7 
+Maria_Bamford/ESIjgUlVEP0_0000007 84.2 91.0 
+Maria_Bamford/ESIjgUlVEP0_0000008 142.6 149.5 
+Maria_Bamford/ESIjgUlVEP0_0000009 156.8 164.4 
+Maria_Bamford/ESIjgUlVEP0_0000010 171.3 178.6 
+Maria_Bamford/ESIjgUlVEP0_0000011 192.0 197.2 
+Maria_Bamford/ESIjgUlVEP0_0000012 191.6 197.2 
+Maria_Bamford/ESIjgUlVEP0_0000013 199.4 203.4 
+Maria_Bamford/ESIjgUlVEP0_0000014 207.3 212.6 
+Maria_Bamford/ESIjgUlVEP0_0000015 236.0 245.6 

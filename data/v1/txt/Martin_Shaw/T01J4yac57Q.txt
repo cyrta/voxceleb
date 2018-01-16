@@ -1,0 +1,12 @@
+POI: 			Martin_Shaw 
+Youtube ID: 	T01J4yac57Q 
+Video length: 	491.4 sec 
+Set (V): 		dev 
+ 
+Martin_Shaw/T01J4yac57Q_0000001 27.5 37.6 
+Martin_Shaw/T01J4yac57Q_0000002 96.2 102.8 
+Martin_Shaw/T01J4yac57Q_0000003 234.5 239.9 
+Martin_Shaw/T01J4yac57Q_0000004 245.9 252.6 
+Martin_Shaw/T01J4yac57Q_0000005 379.5 383.5 
+Martin_Shaw/T01J4yac57Q_0000006 391.3 402.6 
+Martin_Shaw/T01J4yac57Q_0000007 407.1 413.2 

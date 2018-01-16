@@ -1,0 +1,10 @@
+POI: 			Melissa_Rauch 
+Youtube ID: 	1qsMNjDkp60 
+Video length: 	182.6 sec 
+Set (V): 		dev 
+ 
+Melissa_Rauch/1qsMNjDkp60_0000001 22.0 31.4 
+Melissa_Rauch/1qsMNjDkp60_0000002 89.1 93.8 
+Melissa_Rauch/1qsMNjDkp60_0000003 96.6 102.0 
+Melissa_Rauch/1qsMNjDkp60_0000004 110.6 122.4 
+Melissa_Rauch/1qsMNjDkp60_0000005 124.8 132.0 

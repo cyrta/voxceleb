@@ -1,0 +1,24 @@
+POI: 			Jane_Badler 
+Youtube ID: 	La9epJX_y54 
+Video length: 	414.5 sec 
+Set (V): 		dev 
+ 
+Jane_Badler/La9epJX_y54_0000001 24.4 36.1 
+Jane_Badler/La9epJX_y54_0000002 38.2 42.5 
+Jane_Badler/La9epJX_y54_0000003 51.2 60.7 
+Jane_Badler/La9epJX_y54_0000004 84.8 89.5 
+Jane_Badler/La9epJX_y54_0000005 98.2 102.5 
+Jane_Badler/La9epJX_y54_0000006 121.0 127.4 
+Jane_Badler/La9epJX_y54_0000007 130.8 134.8 
+Jane_Badler/La9epJX_y54_0000008 135.3 139.3 
+Jane_Badler/La9epJX_y54_0000009 162.7 173.8 
+Jane_Badler/La9epJX_y54_0000010 194.2 200.4 
+Jane_Badler/La9epJX_y54_0000011 202.0 216.8 
+Jane_Badler/La9epJX_y54_0000012 220.2 226.0 
+Jane_Badler/La9epJX_y54_0000013 235.2 248.1 
+Jane_Badler/La9epJX_y54_0000014 257.2 267.6 
+Jane_Badler/La9epJX_y54_0000015 292.1 298.5 
+Jane_Badler/La9epJX_y54_0000016 312.3 328.8 
+Jane_Badler/La9epJX_y54_0000017 344.2 365.4 
+Jane_Badler/La9epJX_y54_0000018 372.0 387.4 
+Jane_Badler/La9epJX_y54_0000019 402.6 406.9 

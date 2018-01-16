@@ -1,0 +1,13 @@
+POI: 			Ronda_Rousey 
+Youtube ID: 	qbv3M389SI0 
+Video length: 	460.1 sec 
+Set (V): 		dev 
+ 
+Ronda_Rousey/qbv3M389SI0_0000001 86.2 90.2 
+Ronda_Rousey/qbv3M389SI0_0000002 98.7 105.4 
+Ronda_Rousey/qbv3M389SI0_0000003 144.7 148.8 
+Ronda_Rousey/qbv3M389SI0_0000004 194.2 199.4 
+Ronda_Rousey/qbv3M389SI0_0000005 220.4 225.8 
+Ronda_Rousey/qbv3M389SI0_0000006 279.6 285.3 
+Ronda_Rousey/qbv3M389SI0_0000007 323.0 329.0 
+Ronda_Rousey/qbv3M389SI0_0000008 341.3 347.4 

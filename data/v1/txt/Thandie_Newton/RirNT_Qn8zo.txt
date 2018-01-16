@@ -1,0 +1,10 @@
+POI: 			Thandie_Newton 
+Youtube ID: 	RirNT_Qn8zo 
+Video length: 	473.7 sec 
+Set (V): 		dev 
+ 
+Thandie_Newton/RirNT_Qn8zo_0000001 92.3 97.5 
+Thandie_Newton/RirNT_Qn8zo_0000002 148.7 159.5 
+Thandie_Newton/RirNT_Qn8zo_0000003 214.6 219.8 
+Thandie_Newton/RirNT_Qn8zo_0000004 225.5 232.7 
+Thandie_Newton/RirNT_Qn8zo_0000005 281.4 288.0 

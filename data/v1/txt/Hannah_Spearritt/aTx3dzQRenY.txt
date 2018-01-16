@@ -1,0 +1,12 @@
+POI: 			Hannah_Spearritt 
+Youtube ID: 	aTx3dzQRenY 
+Video length: 	1055.1 sec 
+Set (V): 		dev 
+ 
+Hannah_Spearritt/aTx3dzQRenY_0000001 35.5 39.9 
+Hannah_Spearritt/aTx3dzQRenY_0000002 92.6 97.6 
+Hannah_Spearritt/aTx3dzQRenY_0000003 222.9 230.0 
+Hannah_Spearritt/aTx3dzQRenY_0000004 575.2 583.3 
+Hannah_Spearritt/aTx3dzQRenY_0000005 592.9 600.5 
+Hannah_Spearritt/aTx3dzQRenY_0000006 702.9 708.6 
+Hannah_Spearritt/aTx3dzQRenY_0000007 721.9 728.0 

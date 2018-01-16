@@ -1,0 +1,7 @@
+POI: 			James_Woods 
+Youtube ID: 	4BAJV_9CUUs 
+Video length: 	265.3 sec 
+Set (V): 		dev 
+ 
+James_Woods/4BAJV_9CUUs_0000001 61.6 73.6 
+James_Woods/4BAJV_9CUUs_0000002 80.3 99.0 

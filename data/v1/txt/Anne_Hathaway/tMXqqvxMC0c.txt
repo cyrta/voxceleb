@@ -1,0 +1,12 @@
+POI: 			Anne_Hathaway 
+Youtube ID: 	tMXqqvxMC0c 
+Video length: 	195.2 sec 
+Set (V): 		dev 
+ 
+Anne_Hathaway/tMXqqvxMC0c_0000001 22.0 35.1 
+Anne_Hathaway/tMXqqvxMC0c_0000002 38.3 51.3 
+Anne_Hathaway/tMXqqvxMC0c_0000003 63.2 71.5 
+Anne_Hathaway/tMXqqvxMC0c_0000004 72.0 77.7 
+Anne_Hathaway/tMXqqvxMC0c_0000005 78.8 84.1 
+Anne_Hathaway/tMXqqvxMC0c_0000006 110.2 134.2 
+Anne_Hathaway/tMXqqvxMC0c_0000007 154.6 172.9 

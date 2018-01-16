@@ -1,0 +1,9 @@
+POI: 			Jonathan_Rhys_Meyers 
+Youtube ID: 	sPZWjloFrg8 
+Video length: 	432.8 sec 
+Set (V): 		dev 
+ 
+Jonathan_Rhys_Meyers/sPZWjloFrg8_0000001 43.2 50.5 
+Jonathan_Rhys_Meyers/sPZWjloFrg8_0000002 195.0 199.3 
+Jonathan_Rhys_Meyers/sPZWjloFrg8_0000003 199.6 204.2 
+Jonathan_Rhys_Meyers/sPZWjloFrg8_0000004 299.9 309.0 

@@ -1,0 +1,10 @@
+POI: 			Eddie_Kaye_Thomas 
+Youtube ID: 	O9xLIdaUG-k 
+Video length: 	376.9 sec 
+Set (V): 		test 
+ 
+Eddie_Kaye_Thomas/O9xLIdaUG-k_0000001 268.4 273.0 
+Eddie_Kaye_Thomas/O9xLIdaUG-k_0000002 284.9 288.9 
+Eddie_Kaye_Thomas/O9xLIdaUG-k_0000003 333.5 338.4 
+Eddie_Kaye_Thomas/O9xLIdaUG-k_0000004 341.0 345.4 
+Eddie_Kaye_Thomas/O9xLIdaUG-k_0000005 347.7 352.7 

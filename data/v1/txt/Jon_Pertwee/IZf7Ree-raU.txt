@@ -1,0 +1,21 @@
+POI: 			Jon_Pertwee 
+Youtube ID: 	IZf7Ree-raU 
+Video length: 	1650.4 sec 
+Set (V): 		dev 
+ 
+Jon_Pertwee/IZf7Ree-raU_0000001 55.7 60.2 
+Jon_Pertwee/IZf7Ree-raU_0000002 73.3 79.9 
+Jon_Pertwee/IZf7Ree-raU_0000003 87.6 94.4 
+Jon_Pertwee/IZf7Ree-raU_0000004 124.8 130.1 
+Jon_Pertwee/IZf7Ree-raU_0000005 158.9 168.1 
+Jon_Pertwee/IZf7Ree-raU_0000006 195.1 221.0 
+Jon_Pertwee/IZf7Ree-raU_0000007 254.9 260.4 
+Jon_Pertwee/IZf7Ree-raU_0000008 395.4 400.4 
+Jon_Pertwee/IZf7Ree-raU_0000009 402.6 407.7 
+Jon_Pertwee/IZf7Ree-raU_0000010 407.9 415.1 
+Jon_Pertwee/IZf7Ree-raU_0000011 424.3 428.5 
+Jon_Pertwee/IZf7Ree-raU_0000012 430.0 439.2 
+Jon_Pertwee/IZf7Ree-raU_0000013 444.1 449.0 
+Jon_Pertwee/IZf7Ree-raU_0000014 1389.7 1395.8 
+Jon_Pertwee/IZf7Ree-raU_0000015 1484.9 1491.7 
+Jon_Pertwee/IZf7Ree-raU_0000016 1545.2 1557.2 

@@ -1,0 +1,17 @@
+POI: 			Darren_Criss 
+Youtube ID: 	ETBcxj0j7Ow 
+Video length: 	1288.0 sec 
+Set (V): 		dev 
+ 
+Darren_Criss/ETBcxj0j7Ow_0000001 21.0 37.8 
+Darren_Criss/ETBcxj0j7Ow_0000002 107.3 111.9 
+Darren_Criss/ETBcxj0j7Ow_0000003 288.2 299.1 
+Darren_Criss/ETBcxj0j7Ow_0000004 315.6 324.0 
+Darren_Criss/ETBcxj0j7Ow_0000005 515.6 539.3 
+Darren_Criss/ETBcxj0j7Ow_0000006 572.4 587.0 
+Darren_Criss/ETBcxj0j7Ow_0000007 645.7 650.2 
+Darren_Criss/ETBcxj0j7Ow_0000008 752.4 756.7 
+Darren_Criss/ETBcxj0j7Ow_0000009 759.6 765.3 
+Darren_Criss/ETBcxj0j7Ow_0000010 819.7 828.9 
+Darren_Criss/ETBcxj0j7Ow_0000011 887.5 892.4 
+Darren_Criss/ETBcxj0j7Ow_0000012 893.6 904.7 

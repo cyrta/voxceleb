@@ -1,0 +1,14 @@
+POI: 			Hector_Elizondo 
+Youtube ID: 	iT_iJfTv1YE 
+Video length: 	293.6 sec 
+Set (V): 		dev 
+ 
+Hector_Elizondo/iT_iJfTv1YE_0000001 50.8 56.6 
+Hector_Elizondo/iT_iJfTv1YE_0000002 97.2 105.4 
+Hector_Elizondo/iT_iJfTv1YE_0000003 107.8 111.9 
+Hector_Elizondo/iT_iJfTv1YE_0000004 142.4 154.8 
+Hector_Elizondo/iT_iJfTv1YE_0000005 166.7 172.3 
+Hector_Elizondo/iT_iJfTv1YE_0000006 186.3 195.7 
+Hector_Elizondo/iT_iJfTv1YE_0000007 225.2 229.9 
+Hector_Elizondo/iT_iJfTv1YE_0000008 225.2 235.0 
+Hector_Elizondo/iT_iJfTv1YE_0000009 261.3 268.8 

@@ -1,0 +1,7 @@
+POI: 			Ken_Jeong 
+Youtube ID: 	mlhwqtBt5s4 
+Video length: 	266.0 sec 
+Set (V): 		dev 
+ 
+Ken_Jeong/mlhwqtBt5s4_0000001 68.2 72.3 
+Ken_Jeong/mlhwqtBt5s4_0000002 75.0 80.5 

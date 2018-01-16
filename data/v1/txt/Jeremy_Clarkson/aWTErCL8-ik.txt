@@ -1,0 +1,12 @@
+POI: 			Jeremy_Clarkson 
+Youtube ID: 	aWTErCL8-ik 
+Video length: 	419.3 sec 
+Set (V): 		dev 
+ 
+Jeremy_Clarkson/aWTErCL8-ik_0000001 17.8 25.9 
+Jeremy_Clarkson/aWTErCL8-ik_0000002 68.1 74.0 
+Jeremy_Clarkson/aWTErCL8-ik_0000003 127.4 137.9 
+Jeremy_Clarkson/aWTErCL8-ik_0000004 183.9 189.8 
+Jeremy_Clarkson/aWTErCL8-ik_0000005 169.1 177.0 
+Jeremy_Clarkson/aWTErCL8-ik_0000006 264.9 269.1 
+Jeremy_Clarkson/aWTErCL8-ik_0000007 282.2 287.8 

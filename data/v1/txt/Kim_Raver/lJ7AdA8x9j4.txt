@@ -1,0 +1,8 @@
+POI: 			Kim_Raver 
+Youtube ID: 	lJ7AdA8x9j4 
+Video length: 	222.8 sec 
+Set (V): 		dev 
+ 
+Kim_Raver/lJ7AdA8x9j4_0000001 89.6 94.0 
+Kim_Raver/lJ7AdA8x9j4_0000002 111.3 118.0 
+Kim_Raver/lJ7AdA8x9j4_0000003 118.2 127.1 

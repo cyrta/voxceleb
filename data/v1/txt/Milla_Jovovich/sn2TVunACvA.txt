@@ -1,0 +1,12 @@
+POI: 			Milla_Jovovich 
+Youtube ID: 	sn2TVunACvA 
+Video length: 	243.5 sec 
+Set (V): 		dev 
+ 
+Milla_Jovovich/sn2TVunACvA_0000001 13.0 17.8 
+Milla_Jovovich/sn2TVunACvA_0000002 23.9 36.0 
+Milla_Jovovich/sn2TVunACvA_0000003 71.0 78.6 
+Milla_Jovovich/sn2TVunACvA_0000004 86.2 97.1 
+Milla_Jovovich/sn2TVunACvA_0000005 137.3 142.1 
+Milla_Jovovich/sn2TVunACvA_0000006 149.0 173.3 
+Milla_Jovovich/sn2TVunACvA_0000007 211.9 217.3 

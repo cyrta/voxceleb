@@ -1,0 +1,8 @@
+POI: 			Janel_Parrish 
+Youtube ID: 	O-m_XpNlB8o 
+Video length: 	139.2 sec 
+Set (V): 		dev 
+ 
+Janel_Parrish/O-m_XpNlB8o_0000001 26.2 33.9 
+Janel_Parrish/O-m_XpNlB8o_0000002 34.9 47.6 
+Janel_Parrish/O-m_XpNlB8o_0000003 78.6 89.5 

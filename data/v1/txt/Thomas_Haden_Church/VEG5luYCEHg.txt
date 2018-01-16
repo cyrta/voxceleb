@@ -1,0 +1,38 @@
+POI: 			Thomas_Haden_Church 
+Youtube ID: 	VEG5luYCEHg 
+Video length: 	1185.1 sec 
+Set (V): 		dev 
+ 
+Thomas_Haden_Church/VEG5luYCEHg_0000001 04.1 14.8 
+Thomas_Haden_Church/VEG5luYCEHg_0000002 15.4 27.0 
+Thomas_Haden_Church/VEG5luYCEHg_0000003 49.1 77.5 
+Thomas_Haden_Church/VEG5luYCEHg_0000004 77.8 108.8 
+Thomas_Haden_Church/VEG5luYCEHg_0000005 152.6 162.8 
+Thomas_Haden_Church/VEG5luYCEHg_0000006 163.6 174.0 
+Thomas_Haden_Church/VEG5luYCEHg_0000007 175.4 180.3 
+Thomas_Haden_Church/VEG5luYCEHg_0000008 182.3 190.2 
+Thomas_Haden_Church/VEG5luYCEHg_0000009 193.5 197.5 
+Thomas_Haden_Church/VEG5luYCEHg_0000010 212.5 225.2 
+Thomas_Haden_Church/VEG5luYCEHg_0000011 225.7 234.5 
+Thomas_Haden_Church/VEG5luYCEHg_0000012 234.8 242.2 
+Thomas_Haden_Church/VEG5luYCEHg_0000013 242.5 262.2 
+Thomas_Haden_Church/VEG5luYCEHg_0000014 264.6 281.8 
+Thomas_Haden_Church/VEG5luYCEHg_0000015 298.0 320.6 
+Thomas_Haden_Church/VEG5luYCEHg_0000016 321.2 332.8 
+Thomas_Haden_Church/VEG5luYCEHg_0000017 314.3 320.7 
+Thomas_Haden_Church/VEG5luYCEHg_0000018 334.6 367.1 
+Thomas_Haden_Church/VEG5luYCEHg_0000019 375.8 406.0 
+Thomas_Haden_Church/VEG5luYCEHg_0000020 407.8 412.3 
+Thomas_Haden_Church/VEG5luYCEHg_0000021 413.0 426.2 
+Thomas_Haden_Church/VEG5luYCEHg_0000022 439.0 452.6 
+Thomas_Haden_Church/VEG5luYCEHg_0000023 458.3 473.6 
+Thomas_Haden_Church/VEG5luYCEHg_0000024 475.8 492.6 
+Thomas_Haden_Church/VEG5luYCEHg_0000025 492.8 504.5 
+Thomas_Haden_Church/VEG5luYCEHg_0000026 522.5 568.0 
+Thomas_Haden_Church/VEG5luYCEHg_0000027 569.2 580.4 
+Thomas_Haden_Church/VEG5luYCEHg_0000028 582.2 602.2 
+Thomas_Haden_Church/VEG5luYCEHg_0000029 602.4 609.4 
+Thomas_Haden_Church/VEG5luYCEHg_0000030 610.3 617.0 
+Thomas_Haden_Church/VEG5luYCEHg_0000031 621.6 638.8 
+Thomas_Haden_Church/VEG5luYCEHg_0000032 639.1 644.8 
+Thomas_Haden_Church/VEG5luYCEHg_0000033 645.7 650.3 

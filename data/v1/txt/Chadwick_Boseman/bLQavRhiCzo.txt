@@ -1,0 +1,17 @@
+POI: 			Chadwick_Boseman 
+Youtube ID: 	bLQavRhiCzo 
+Video length: 	208.2 sec 
+Set (V): 		dev 
+ 
+Chadwick_Boseman/bLQavRhiCzo_0000001 05.9 17.0 
+Chadwick_Boseman/bLQavRhiCzo_0000002 17.4 21.4 
+Chadwick_Boseman/bLQavRhiCzo_0000003 25.9 39.1 
+Chadwick_Boseman/bLQavRhiCzo_0000004 39.2 49.0 
+Chadwick_Boseman/bLQavRhiCzo_0000005 55.6 61.7 
+Chadwick_Boseman/bLQavRhiCzo_0000006 61.8 76.5 
+Chadwick_Boseman/bLQavRhiCzo_0000007 81.7 88.5 
+Chadwick_Boseman/bLQavRhiCzo_0000008 93.3 97.7 
+Chadwick_Boseman/bLQavRhiCzo_0000009 117.6 123.1 
+Chadwick_Boseman/bLQavRhiCzo_0000010 133.8 146.7 
+Chadwick_Boseman/bLQavRhiCzo_0000011 152.9 159.1 
+Chadwick_Boseman/bLQavRhiCzo_0000012 188.9 198.5 

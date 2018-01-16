@@ -1,0 +1,22 @@
+POI: 			Alan_Alda 
+Youtube ID: 	RSevwDj13_g 
+Video length: 	290.1 sec 
+Set (V): 		dev 
+ 
+Alan_Alda/RSevwDj13_g_0000001 14.0 29.9 
+Alan_Alda/RSevwDj13_g_0000002 31.0 35.0 
+Alan_Alda/RSevwDj13_g_0000003 40.9 50.4 
+Alan_Alda/RSevwDj13_g_0000004 52.1 59.2 
+Alan_Alda/RSevwDj13_g_0000005 59.4 71.3 
+Alan_Alda/RSevwDj13_g_0000006 74.3 87.3 
+Alan_Alda/RSevwDj13_g_0000007 96.6 112.0 
+Alan_Alda/RSevwDj13_g_0000008 117.0 123.0 
+Alan_Alda/RSevwDj13_g_0000009 136.2 141.4 
+Alan_Alda/RSevwDj13_g_0000010 144.2 148.9 
+Alan_Alda/RSevwDj13_g_0000011 150.6 159.8 
+Alan_Alda/RSevwDj13_g_0000012 179.2 183.3 
+Alan_Alda/RSevwDj13_g_0000013 192.7 200.8 
+Alan_Alda/RSevwDj13_g_0000014 202.4 206.9 
+Alan_Alda/RSevwDj13_g_0000015 207.2 215.3 
+Alan_Alda/RSevwDj13_g_0000016 231.5 237.1 
+Alan_Alda/RSevwDj13_g_0000017 249.8 258.5 

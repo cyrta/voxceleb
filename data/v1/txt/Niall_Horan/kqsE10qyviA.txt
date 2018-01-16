@@ -1,0 +1,9 @@
+POI: 			Niall_Horan 
+Youtube ID: 	kqsE10qyviA 
+Video length: 	212.5 sec 
+Set (V): 		dev 
+ 
+Niall_Horan/kqsE10qyviA_0000001 24.2 28.2 
+Niall_Horan/kqsE10qyviA_0000002 77.2 81.4 
+Niall_Horan/kqsE10qyviA_0000003 104.4 110.1 
+Niall_Horan/kqsE10qyviA_0000004 117.5 122.4 

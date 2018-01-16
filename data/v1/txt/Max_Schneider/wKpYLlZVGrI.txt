@@ -1,0 +1,12 @@
+POI: 			Max_Schneider 
+Youtube ID: 	wKpYLlZVGrI 
+Video length: 	276.1 sec 
+Set (V): 		dev 
+ 
+Max_Schneider/wKpYLlZVGrI_0000001 32.9 36.9 
+Max_Schneider/wKpYLlZVGrI_0000002 50.4 58.0 
+Max_Schneider/wKpYLlZVGrI_0000003 71.3 76.7 
+Max_Schneider/wKpYLlZVGrI_0000004 123.8 131.0 
+Max_Schneider/wKpYLlZVGrI_0000005 145.0 150.8 
+Max_Schneider/wKpYLlZVGrI_0000006 176.2 181.0 
+Max_Schneider/wKpYLlZVGrI_0000007 250.9 255.4 

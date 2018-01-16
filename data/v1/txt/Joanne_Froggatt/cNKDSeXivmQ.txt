@@ -1,0 +1,41 @@
+POI: 			Joanne_Froggatt 
+Youtube ID: 	cNKDSeXivmQ 
+Video length: 	565.8 sec 
+Set (V): 		dev 
+ 
+Joanne_Froggatt/cNKDSeXivmQ_0000001 44.8 58.1 
+Joanne_Froggatt/cNKDSeXivmQ_0000002 58.3 87.7 
+Joanne_Froggatt/cNKDSeXivmQ_0000003 111.6 141.6 
+Joanne_Froggatt/cNKDSeXivmQ_0000004 143.2 149.0 
+Joanne_Froggatt/cNKDSeXivmQ_0000005 153.5 158.7 
+Joanne_Froggatt/cNKDSeXivmQ_0000006 163.3 170.5 
+Joanne_Froggatt/cNKDSeXivmQ_0000007 171.2 183.2 
+Joanne_Froggatt/cNKDSeXivmQ_0000008 183.6 200.6 
+Joanne_Froggatt/cNKDSeXivmQ_0000009 201.0 207.4 
+Joanne_Froggatt/cNKDSeXivmQ_0000010 207.6 213.6 
+Joanne_Froggatt/cNKDSeXivmQ_0000011 236.2 240.4 
+Joanne_Froggatt/cNKDSeXivmQ_0000012 243.4 253.2 
+Joanne_Froggatt/cNKDSeXivmQ_0000013 258.6 263.2 
+Joanne_Froggatt/cNKDSeXivmQ_0000014 271.8 283.1 
+Joanne_Froggatt/cNKDSeXivmQ_0000015 295.2 299.3 
+Joanne_Froggatt/cNKDSeXivmQ_0000016 321.4 326.7 
+Joanne_Froggatt/cNKDSeXivmQ_0000017 327.5 335.8 
+Joanne_Froggatt/cNKDSeXivmQ_0000018 335.9 343.0 
+Joanne_Froggatt/cNKDSeXivmQ_0000019 346.7 357.6 
+Joanne_Froggatt/cNKDSeXivmQ_0000020 358.0 370.6 
+Joanne_Froggatt/cNKDSeXivmQ_0000021 375.2 382.8 
+Joanne_Froggatt/cNKDSeXivmQ_0000022 385.1 389.8 
+Joanne_Froggatt/cNKDSeXivmQ_0000023 389.9 399.5 
+Joanne_Froggatt/cNKDSeXivmQ_0000024 404.0 418.1 
+Joanne_Froggatt/cNKDSeXivmQ_0000025 418.8 425.3 
+Joanne_Froggatt/cNKDSeXivmQ_0000026 425.4 436.9 
+Joanne_Froggatt/cNKDSeXivmQ_0000027 449.0 455.0 
+Joanne_Froggatt/cNKDSeXivmQ_0000028 468.6 475.3 
+Joanne_Froggatt/cNKDSeXivmQ_0000029 475.5 479.8 
+Joanne_Froggatt/cNKDSeXivmQ_0000030 480.0 486.3 
+Joanne_Froggatt/cNKDSeXivmQ_0000031 487.2 497.1 
+Joanne_Froggatt/cNKDSeXivmQ_0000032 504.6 509.6 
+Joanne_Froggatt/cNKDSeXivmQ_0000033 513.3 526.6 
+Joanne_Froggatt/cNKDSeXivmQ_0000034 526.9 544.7 
+Joanne_Froggatt/cNKDSeXivmQ_0000035 545.1 550.8 
+Joanne_Froggatt/cNKDSeXivmQ_0000036 551.2 557.0 

@@ -1,0 +1,11 @@
+POI: 			Jeff_Goldblum 
+Youtube ID: 	kMqv7cHqPNc 
+Video length: 	666.3 sec 
+Set (V): 		dev 
+ 
+Jeff_Goldblum/kMqv7cHqPNc_0000001 115.6 123.0 
+Jeff_Goldblum/kMqv7cHqPNc_0000002 127.6 132.5 
+Jeff_Goldblum/kMqv7cHqPNc_0000003 134.0 138.5 
+Jeff_Goldblum/kMqv7cHqPNc_0000004 363.8 370.7 
+Jeff_Goldblum/kMqv7cHqPNc_0000005 494.3 498.6 
+Jeff_Goldblum/kMqv7cHqPNc_0000006 503.5 518.1 

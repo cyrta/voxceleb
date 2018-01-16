@@ -1,0 +1,12 @@
+POI: 			Megan_Fox 
+Youtube ID: 	2JJDHVEvEwE 
+Video length: 	220.1 sec 
+Set (V): 		dev 
+ 
+Megan_Fox/2JJDHVEvEwE_0000001 38.3 47.8 
+Megan_Fox/2JJDHVEvEwE_0000002 49.8 55.4 
+Megan_Fox/2JJDHVEvEwE_0000003 68.7 80.4 
+Megan_Fox/2JJDHVEvEwE_0000004 83.1 94.2 
+Megan_Fox/2JJDHVEvEwE_0000005 98.5 103.0 
+Megan_Fox/2JJDHVEvEwE_0000006 118.6 127.2 
+Megan_Fox/2JJDHVEvEwE_0000007 127.4 142.0 

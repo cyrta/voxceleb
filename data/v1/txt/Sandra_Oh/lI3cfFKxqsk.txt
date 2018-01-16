@@ -1,0 +1,14 @@
+POI: 			Sandra_Oh 
+Youtube ID: 	lI3cfFKxqsk 
+Video length: 	360.8 sec 
+Set (V): 		dev 
+ 
+Sandra_Oh/lI3cfFKxqsk_0000001 99.1 103.8 
+Sandra_Oh/lI3cfFKxqsk_0000002 120.4 124.6 
+Sandra_Oh/lI3cfFKxqsk_0000003 131.7 136.2 
+Sandra_Oh/lI3cfFKxqsk_0000004 160.6 169.2 
+Sandra_Oh/lI3cfFKxqsk_0000005 170.3 175.4 
+Sandra_Oh/lI3cfFKxqsk_0000006 195.4 199.7 
+Sandra_Oh/lI3cfFKxqsk_0000007 201.6 206.0 
+Sandra_Oh/lI3cfFKxqsk_0000008 214.6 226.7 
+Sandra_Oh/lI3cfFKxqsk_0000009 319.8 326.3 

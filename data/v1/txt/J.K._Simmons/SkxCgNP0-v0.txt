@@ -1,0 +1,12 @@
+POI: 			J.K._Simmons 
+Youtube ID: 	SkxCgNP0-v0 
+Video length: 	115.4 sec 
+Set (V): 		dev 
+ 
+J.K._Simmons/SkxCgNP0-v0_0000001 13.7 25.8 
+J.K._Simmons/SkxCgNP0-v0_0000002 42.3 48.9 
+J.K._Simmons/SkxCgNP0-v0_0000003 49.4 54.2 
+J.K._Simmons/SkxCgNP0-v0_0000004 54.9 69.8 
+J.K._Simmons/SkxCgNP0-v0_0000005 76.8 88.0 
+J.K._Simmons/SkxCgNP0-v0_0000006 89.1 94.2 
+J.K._Simmons/SkxCgNP0-v0_0000007 96.9 108.2 

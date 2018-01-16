@@ -1,0 +1,11 @@
+POI: 			Rob_Dyrdek 
+Youtube ID: 	2SBlBb7AjyA 
+Video length: 	196.5 sec 
+Set (V): 		dev 
+ 
+Rob_Dyrdek/2SBlBb7AjyA_0000001 54.1 58.4 
+Rob_Dyrdek/2SBlBb7AjyA_0000002 70.6 81.2 
+Rob_Dyrdek/2SBlBb7AjyA_0000003 86.8 90.7 
+Rob_Dyrdek/2SBlBb7AjyA_0000004 153.6 158.6 
+Rob_Dyrdek/2SBlBb7AjyA_0000005 165.1 170.1 
+Rob_Dyrdek/2SBlBb7AjyA_0000006 178.8 185.2 

@@ -1,0 +1,27 @@
+POI: 			Mark_Strong 
+Youtube ID: 	Akpd_eQfOn8 
+Video length: 	417.3 sec 
+Set (V): 		dev 
+ 
+Mark_Strong/Akpd_eQfOn8_0000001 18.4 34.2 
+Mark_Strong/Akpd_eQfOn8_0000002 35.1 39.2 
+Mark_Strong/Akpd_eQfOn8_0000003 47.4 56.4 
+Mark_Strong/Akpd_eQfOn8_0000004 56.9 63.4 
+Mark_Strong/Akpd_eQfOn8_0000005 80.8 90.5 
+Mark_Strong/Akpd_eQfOn8_0000006 90.9 100.4 
+Mark_Strong/Akpd_eQfOn8_0000007 100.9 107.4 
+Mark_Strong/Akpd_eQfOn8_0000008 108.0 127.5 
+Mark_Strong/Akpd_eQfOn8_0000009 135.2 147.9 
+Mark_Strong/Akpd_eQfOn8_0000010 148.6 152.9 
+Mark_Strong/Akpd_eQfOn8_0000011 171.8 183.1 
+Mark_Strong/Akpd_eQfOn8_0000012 183.2 200.3 
+Mark_Strong/Akpd_eQfOn8_0000013 211.2 217.2 
+Mark_Strong/Akpd_eQfOn8_0000014 217.9 236.5 
+Mark_Strong/Akpd_eQfOn8_0000015 237.5 253.6 
+Mark_Strong/Akpd_eQfOn8_0000016 268.6 291.5 
+Mark_Strong/Akpd_eQfOn8_0000017 299.2 308.2 
+Mark_Strong/Akpd_eQfOn8_0000018 347.8 360.0 
+Mark_Strong/Akpd_eQfOn8_0000019 372.4 376.6 
+Mark_Strong/Akpd_eQfOn8_0000020 376.9 383.7 
+Mark_Strong/Akpd_eQfOn8_0000021 386.8 393.5 
+Mark_Strong/Akpd_eQfOn8_0000022 399.7 403.9 

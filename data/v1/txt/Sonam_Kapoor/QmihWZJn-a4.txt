@@ -1,0 +1,15 @@
+POI: 			Sonam_Kapoor 
+Youtube ID: 	QmihWZJn-a4 
+Video length: 	305.6 sec 
+Set (V): 		dev 
+ 
+Sonam_Kapoor/QmihWZJn-a4_0000001 97.1 101.9 
+Sonam_Kapoor/QmihWZJn-a4_0000002 102.0 107.1 
+Sonam_Kapoor/QmihWZJn-a4_0000003 107.9 112.5 
+Sonam_Kapoor/QmihWZJn-a4_0000004 161.8 170.1 
+Sonam_Kapoor/QmihWZJn-a4_0000005 184.1 188.2 
+Sonam_Kapoor/QmihWZJn-a4_0000006 199.2 203.6 
+Sonam_Kapoor/QmihWZJn-a4_0000007 213.8 229.4 
+Sonam_Kapoor/QmihWZJn-a4_0000008 262.8 267.4 
+Sonam_Kapoor/QmihWZJn-a4_0000009 268.4 272.7 
+Sonam_Kapoor/QmihWZJn-a4_0000010 272.8 278.4 

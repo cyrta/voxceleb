@@ -1,0 +1,14 @@
+POI: 			Loretta_Swit 
+Youtube ID: 	ZbLhe8az2ZE 
+Video length: 	487.4 sec 
+Set (V): 		dev 
+ 
+Loretta_Swit/ZbLhe8az2ZE_0000001 59.9 66.1 
+Loretta_Swit/ZbLhe8az2ZE_0000002 66.2 73.0 
+Loretta_Swit/ZbLhe8az2ZE_0000003 87.2 91.4 
+Loretta_Swit/ZbLhe8az2ZE_0000004 91.7 98.4 
+Loretta_Swit/ZbLhe8az2ZE_0000005 122.8 133.9 
+Loretta_Swit/ZbLhe8az2ZE_0000006 172.2 194.7 
+Loretta_Swit/ZbLhe8az2ZE_0000007 200.8 207.5 
+Loretta_Swit/ZbLhe8az2ZE_0000008 207.9 212.2 
+Loretta_Swit/ZbLhe8az2ZE_0000009 221.3 228.8 

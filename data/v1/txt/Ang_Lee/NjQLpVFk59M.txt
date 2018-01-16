@@ -1,0 +1,9 @@
+POI: 			Ang_Lee 
+Youtube ID: 	NjQLpVFk59M 
+Video length: 	227.2 sec 
+Set (V): 		dev 
+ 
+Ang_Lee/NjQLpVFk59M_0000001 122.8 127.8 
+Ang_Lee/NjQLpVFk59M_0000002 128.7 135.2 
+Ang_Lee/NjQLpVFk59M_0000003 185.9 195.2 
+Ang_Lee/NjQLpVFk59M_0000004 216.7 222.4 

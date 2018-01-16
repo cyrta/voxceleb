@@ -1,0 +1,12 @@
+POI: 			Jacqueline_Emerson 
+Youtube ID: 	nDzJ5qunHSg 
+Video length: 	870.5 sec 
+Set (V): 		dev 
+ 
+Jacqueline_Emerson/nDzJ5qunHSg_0000001 17.8 26.0 
+Jacqueline_Emerson/nDzJ5qunHSg_0000002 26.6 51.2 
+Jacqueline_Emerson/nDzJ5qunHSg_0000003 182.9 193.8 
+Jacqueline_Emerson/nDzJ5qunHSg_0000004 306.8 311.5 
+Jacqueline_Emerson/nDzJ5qunHSg_0000005 717.6 725.0 
+Jacqueline_Emerson/nDzJ5qunHSg_0000006 734.4 739.0 
+Jacqueline_Emerson/nDzJ5qunHSg_0000007 760.5 765.2 

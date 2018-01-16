@@ -1,0 +1,7 @@
+POI: 			Jacqueline_Emerson 
+Youtube ID: 	2oI-4H01riU 
+Video length: 	129.5 sec 
+Set (V): 		dev 
+ 
+Jacqueline_Emerson/2oI-4H01riU_0000001 64.4 75.0 
+Jacqueline_Emerson/2oI-4H01riU_0000002 93.9 98.3 

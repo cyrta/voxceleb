@@ -1,0 +1,16 @@
+POI: 			Sean_Connery 
+Youtube ID: 	X-plaXh8N5E 
+Video length: 	445.7 sec 
+Set (V): 		dev 
+ 
+Sean_Connery/X-plaXh8N5E_0000001 38.5 50.1 
+Sean_Connery/X-plaXh8N5E_0000002 62.1 68.5 
+Sean_Connery/X-plaXh8N5E_0000003 142.7 146.8 
+Sean_Connery/X-plaXh8N5E_0000004 155.7 159.7 
+Sean_Connery/X-plaXh8N5E_0000005 236.2 240.6 
+Sean_Connery/X-plaXh8N5E_0000006 342.3 346.5 
+Sean_Connery/X-plaXh8N5E_0000007 373.1 378.2 
+Sean_Connery/X-plaXh8N5E_0000008 388.4 401.3 
+Sean_Connery/X-plaXh8N5E_0000009 409.5 415.8 
+Sean_Connery/X-plaXh8N5E_0000010 421.5 430.6 
+Sean_Connery/X-plaXh8N5E_0000011 432.0 442.4 

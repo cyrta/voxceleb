@@ -1,0 +1,17 @@
+POI: 			Tupac_Shakur 
+Youtube ID: 	kAO3J91CuAg 
+Video length: 	707.6 sec 
+Set (V): 		dev 
+ 
+Tupac_Shakur/kAO3J91CuAg_0000001 87.0 92.4 
+Tupac_Shakur/kAO3J91CuAg_0000002 99.6 108.0 
+Tupac_Shakur/kAO3J91CuAg_0000003 146.9 154.5 
+Tupac_Shakur/kAO3J91CuAg_0000004 188.0 194.5 
+Tupac_Shakur/kAO3J91CuAg_0000005 227.6 237.4 
+Tupac_Shakur/kAO3J91CuAg_0000006 255.5 264.1 
+Tupac_Shakur/kAO3J91CuAg_0000007 288.2 294.8 
+Tupac_Shakur/kAO3J91CuAg_0000008 375.3 383.0 
+Tupac_Shakur/kAO3J91CuAg_0000009 397.2 406.6 
+Tupac_Shakur/kAO3J91CuAg_0000010 408.8 415.0 
+Tupac_Shakur/kAO3J91CuAg_0000011 427.9 443.7 
+Tupac_Shakur/kAO3J91CuAg_0000012 674.3 678.3 

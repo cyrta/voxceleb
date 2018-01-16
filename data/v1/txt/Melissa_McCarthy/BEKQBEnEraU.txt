@@ -1,0 +1,10 @@
+POI: 			Melissa_McCarthy 
+Youtube ID: 	BEKQBEnEraU 
+Video length: 	590.8 sec 
+Set (V): 		dev 
+ 
+Melissa_McCarthy/BEKQBEnEraU_0000001 202.2 210.2 
+Melissa_McCarthy/BEKQBEnEraU_0000002 214.6 228.6 
+Melissa_McCarthy/BEKQBEnEraU_0000003 229.1 233.9 
+Melissa_McCarthy/BEKQBEnEraU_0000004 234.9 250.1 
+Melissa_McCarthy/BEKQBEnEraU_0000005 381.1 425.0 

@@ -1,0 +1,7 @@
+POI: 			Dawn_Wells 
+Youtube ID: 	5cfY-UGA8d4 
+Video length: 	467.6 sec 
+Set (V): 		dev 
+ 
+Dawn_Wells/5cfY-UGA8d4_0000001 172.1 178.4 
+Dawn_Wells/5cfY-UGA8d4_0000002 433.2 446.3 

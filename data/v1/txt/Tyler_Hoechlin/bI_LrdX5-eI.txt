@@ -1,0 +1,17 @@
+POI: 			Tyler_Hoechlin 
+Youtube ID: 	bI_LrdX5-eI 
+Video length: 	348.9 sec 
+Set (V): 		dev 
+ 
+Tyler_Hoechlin/bI_LrdX5-eI_0000001 23.0 29.4 
+Tyler_Hoechlin/bI_LrdX5-eI_0000002 44.2 51.1 
+Tyler_Hoechlin/bI_LrdX5-eI_0000003 71.8 82.5 
+Tyler_Hoechlin/bI_LrdX5-eI_0000004 89.4 98.0 
+Tyler_Hoechlin/bI_LrdX5-eI_0000005 128.4 137.0 
+Tyler_Hoechlin/bI_LrdX5-eI_0000006 139.3 146.8 
+Tyler_Hoechlin/bI_LrdX5-eI_0000007 156.3 189.1 
+Tyler_Hoechlin/bI_LrdX5-eI_0000008 226.2 231.4 
+Tyler_Hoechlin/bI_LrdX5-eI_0000009 255.4 265.0 
+Tyler_Hoechlin/bI_LrdX5-eI_0000010 271.7 279.7 
+Tyler_Hoechlin/bI_LrdX5-eI_0000011 288.0 294.4 
+Tyler_Hoechlin/bI_LrdX5-eI_0000012 316.9 321.8 

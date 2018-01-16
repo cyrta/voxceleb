@@ -1,0 +1,8 @@
+POI: 			Robert_Davi 
+Youtube ID: 	42taHYn0AGs 
+Video length: 	451.7 sec 
+Set (V): 		dev 
+ 
+Robert_Davi/42taHYn0AGs_0000001 63.5 69.4 
+Robert_Davi/42taHYn0AGs_0000002 124.0 128.1 
+Robert_Davi/42taHYn0AGs_0000003 373.4 381.2 

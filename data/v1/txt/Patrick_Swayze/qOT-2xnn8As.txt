@@ -1,0 +1,11 @@
+POI: 			Patrick_Swayze 
+Youtube ID: 	qOT-2xnn8As 
+Video length: 	214.4 sec 
+Set (V): 		dev 
+ 
+Patrick_Swayze/qOT-2xnn8As_0000001 14.4 21.1 
+Patrick_Swayze/qOT-2xnn8As_0000002 22.4 28.7 
+Patrick_Swayze/qOT-2xnn8As_0000003 50.9 57.0 
+Patrick_Swayze/qOT-2xnn8As_0000004 58.6 63.0 
+Patrick_Swayze/qOT-2xnn8As_0000005 130.7 135.0 
+Patrick_Swayze/qOT-2xnn8As_0000006 193.3 202.8 

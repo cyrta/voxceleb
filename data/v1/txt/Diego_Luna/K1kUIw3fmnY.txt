@@ -1,0 +1,22 @@
+POI: 			Diego_Luna 
+Youtube ID: 	K1kUIw3fmnY 
+Video length: 	495.7 sec 
+Set (V): 		dev 
+ 
+Diego_Luna/K1kUIw3fmnY_0000001 29.0 33.5 
+Diego_Luna/K1kUIw3fmnY_0000002 80.6 88.8 
+Diego_Luna/K1kUIw3fmnY_0000003 109.9 114.4 
+Diego_Luna/K1kUIw3fmnY_0000004 158.6 175.9 
+Diego_Luna/K1kUIw3fmnY_0000005 230.6 239.9 
+Diego_Luna/K1kUIw3fmnY_0000006 244.7 256.5 
+Diego_Luna/K1kUIw3fmnY_0000007 304.4 310.8 
+Diego_Luna/K1kUIw3fmnY_0000008 314.4 324.4 
+Diego_Luna/K1kUIw3fmnY_0000009 328.2 334.0 
+Diego_Luna/K1kUIw3fmnY_0000010 342.9 347.5 
+Diego_Luna/K1kUIw3fmnY_0000011 348.1 357.7 
+Diego_Luna/K1kUIw3fmnY_0000012 412.6 418.0 
+Diego_Luna/K1kUIw3fmnY_0000013 421.7 427.8 
+Diego_Luna/K1kUIw3fmnY_0000014 428.9 433.8 
+Diego_Luna/K1kUIw3fmnY_0000015 442.6 447.2 
+Diego_Luna/K1kUIw3fmnY_0000016 449.3 454.0 
+Diego_Luna/K1kUIw3fmnY_0000017 457.2 467.0 

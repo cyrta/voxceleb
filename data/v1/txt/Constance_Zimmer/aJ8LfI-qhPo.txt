@@ -1,0 +1,11 @@
+POI: 			Constance_Zimmer 
+Youtube ID: 	aJ8LfI-qhPo 
+Video length: 	247.8 sec 
+Set (V): 		dev 
+ 
+Constance_Zimmer/aJ8LfI-qhPo_0000001 50.6 60.1 
+Constance_Zimmer/aJ8LfI-qhPo_0000002 60.6 66.6 
+Constance_Zimmer/aJ8LfI-qhPo_0000003 67.5 71.5 
+Constance_Zimmer/aJ8LfI-qhPo_0000004 106.1 111.0 
+Constance_Zimmer/aJ8LfI-qhPo_0000005 119.6 123.9 
+Constance_Zimmer/aJ8LfI-qhPo_0000006 201.2 205.6 

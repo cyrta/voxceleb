@@ -1,0 +1,8 @@
+POI: 			Nathalie_Emmanuel 
+Youtube ID: 	Bq5G6sq3usk 
+Video length: 	166.9 sec 
+Set (V): 		dev 
+ 
+Nathalie_Emmanuel/Bq5G6sq3usk_0000001 10.0 18.3 
+Nathalie_Emmanuel/Bq5G6sq3usk_0000002 19.2 35.2 
+Nathalie_Emmanuel/Bq5G6sq3usk_0000003 42.4 49.8 

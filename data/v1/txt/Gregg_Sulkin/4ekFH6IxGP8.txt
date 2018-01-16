@@ -1,0 +1,10 @@
+POI: 			Gregg_Sulkin 
+Youtube ID: 	4ekFH6IxGP8 
+Video length: 	143.1 sec 
+Set (V): 		dev 
+ 
+Gregg_Sulkin/4ekFH6IxGP8_0000001 16.8 22.6 
+Gregg_Sulkin/4ekFH6IxGP8_0000002 42.8 48.6 
+Gregg_Sulkin/4ekFH6IxGP8_0000003 74.7 79.2 
+Gregg_Sulkin/4ekFH6IxGP8_0000004 99.9 105.5 
+Gregg_Sulkin/4ekFH6IxGP8_0000005 128.8 133.0 

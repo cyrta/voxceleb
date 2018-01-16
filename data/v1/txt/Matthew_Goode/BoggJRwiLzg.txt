@@ -1,0 +1,8 @@
+POI: 			Matthew_Goode 
+Youtube ID: 	BoggJRwiLzg 
+Video length: 	174.7 sec 
+Set (V): 		dev 
+ 
+Matthew_Goode/BoggJRwiLzg_0000001 51.7 57.9 
+Matthew_Goode/BoggJRwiLzg_0000002 84.5 92.2 
+Matthew_Goode/BoggJRwiLzg_0000003 118.6 126.4 

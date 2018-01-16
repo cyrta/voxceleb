@@ -1,0 +1,8 @@
+POI: 			Ginnifer_Goodwin 
+Youtube ID: 	umrG0xwX5i8 
+Video length: 	212.5 sec 
+Set (V): 		dev 
+ 
+Ginnifer_Goodwin/umrG0xwX5i8_0000001 58.5 67.6 
+Ginnifer_Goodwin/umrG0xwX5i8_0000002 102.2 110.6 
+Ginnifer_Goodwin/umrG0xwX5i8_0000003 155.2 159.7 

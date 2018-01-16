@@ -1,0 +1,12 @@
+POI: 			Dawn_Wells 
+Youtube ID: 	KmbJACK2Ykg 
+Video length: 	305.1 sec 
+Set (V): 		dev 
+ 
+Dawn_Wells/KmbJACK2Ykg_0000001 49.1 57.0 
+Dawn_Wells/KmbJACK2Ykg_0000002 70.8 80.2 
+Dawn_Wells/KmbJACK2Ykg_0000003 111.1 141.1 
+Dawn_Wells/KmbJACK2Ykg_0000004 166.0 187.0 
+Dawn_Wells/KmbJACK2Ykg_0000005 213.9 220.3 
+Dawn_Wells/KmbJACK2Ykg_0000006 227.2 232.7 
+Dawn_Wells/KmbJACK2Ykg_0000007 243.0 258.7 

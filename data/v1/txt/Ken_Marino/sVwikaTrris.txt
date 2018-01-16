@@ -1,0 +1,7 @@
+POI: 			Ken_Marino 
+Youtube ID: 	sVwikaTrris 
+Video length: 	324.9 sec 
+Set (V): 		dev 
+ 
+Ken_Marino/sVwikaTrris_0000001 106.4 111.7 
+Ken_Marino/sVwikaTrris_0000002 130.2 134.7 

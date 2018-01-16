@@ -1,0 +1,9 @@
+POI: 			Deidre_Hall 
+Youtube ID: 	gdFX2xL6YGg 
+Video length: 	158.1 sec 
+Set (V): 		dev 
+ 
+Deidre_Hall/gdFX2xL6YGg_0000001 01.9 11.2 
+Deidre_Hall/gdFX2xL6YGg_0000002 28.5 45.2 
+Deidre_Hall/gdFX2xL6YGg_0000003 139.5 144.1 
+Deidre_Hall/gdFX2xL6YGg_0000004 144.7 150.8 

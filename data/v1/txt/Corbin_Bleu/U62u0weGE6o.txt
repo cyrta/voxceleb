@@ -1,0 +1,10 @@
+POI: 			Corbin_Bleu 
+Youtube ID: 	U62u0weGE6o 
+Video length: 	106.2 sec 
+Set (V): 		dev 
+ 
+Corbin_Bleu/U62u0weGE6o_0000001 19.7 25.2 
+Corbin_Bleu/U62u0weGE6o_0000002 61.2 66.2 
+Corbin_Bleu/U62u0weGE6o_0000003 66.7 72.0 
+Corbin_Bleu/U62u0weGE6o_0000004 78.4 97.8 
+Corbin_Bleu/U62u0weGE6o_0000005 97.9 102.5 

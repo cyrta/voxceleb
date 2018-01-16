@@ -1,0 +1,11 @@
+POI: 			Alison_Pill 
+Youtube ID: 	yL1OFF9QXhU 
+Video length: 	537.4 sec 
+Set (V): 		dev 
+ 
+Alison_Pill/yL1OFF9QXhU_0000001 240.7 247.8 
+Alison_Pill/yL1OFF9QXhU_0000002 252.6 259.0 
+Alison_Pill/yL1OFF9QXhU_0000003 259.4 276.7 
+Alison_Pill/yL1OFF9QXhU_0000004 283.6 310.0 
+Alison_Pill/yL1OFF9QXhU_0000005 317.4 321.9 
+Alison_Pill/yL1OFF9QXhU_0000006 327.3 338.6 

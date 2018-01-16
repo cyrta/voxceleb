@@ -1,0 +1,10 @@
+POI: 			Andrea_Riseborough 
+Youtube ID: 	KIpCAyUA-z4 
+Video length: 	188.0 sec 
+Set (V): 		dev 
+ 
+Andrea_Riseborough/KIpCAyUA-z4_0000001 16.0 24.2 
+Andrea_Riseborough/KIpCAyUA-z4_0000002 34.8 47.1 
+Andrea_Riseborough/KIpCAyUA-z4_0000003 54.5 59.6 
+Andrea_Riseborough/KIpCAyUA-z4_0000004 69.1 73.1 
+Andrea_Riseborough/KIpCAyUA-z4_0000005 114.6 121.7 

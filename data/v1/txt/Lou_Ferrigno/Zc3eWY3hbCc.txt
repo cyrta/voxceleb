@@ -1,0 +1,13 @@
+POI: 			Lou_Ferrigno 
+Youtube ID: 	Zc3eWY3hbCc 
+Video length: 	574.7 sec 
+Set (V): 		dev 
+ 
+Lou_Ferrigno/Zc3eWY3hbCc_0000001 89.8 94.2 
+Lou_Ferrigno/Zc3eWY3hbCc_0000002 162.6 170.7 
+Lou_Ferrigno/Zc3eWY3hbCc_0000003 228.8 233.6 
+Lou_Ferrigno/Zc3eWY3hbCc_0000004 264.4 268.4 
+Lou_Ferrigno/Zc3eWY3hbCc_0000005 276.6 283.4 
+Lou_Ferrigno/Zc3eWY3hbCc_0000006 442.7 446.8 
+Lou_Ferrigno/Zc3eWY3hbCc_0000007 497.1 502.2 
+Lou_Ferrigno/Zc3eWY3hbCc_0000008 545.9 550.7 

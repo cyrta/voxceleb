@@ -1,0 +1,8 @@
+POI: 			Theo_James 
+Youtube ID: 	S0rCjk4dheY 
+Video length: 	205.0 sec 
+Set (V): 		dev 
+ 
+Theo_James/S0rCjk4dheY_0000001 49.5 53.9 
+Theo_James/S0rCjk4dheY_0000002 123.5 127.8 
+Theo_James/S0rCjk4dheY_0000003 168.6 172.7 

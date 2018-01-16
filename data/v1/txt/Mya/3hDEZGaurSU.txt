@@ -1,0 +1,8 @@
+POI: 			Mya 
+Youtube ID: 	3hDEZGaurSU 
+Video length: 	382.9 sec 
+Set (V): 		dev 
+ 
+Mya/3hDEZGaurSU_0000001 50.2 59.4 
+Mya/3hDEZGaurSU_0000002 180.0 184.7 
+Mya/3hDEZGaurSU_0000003 188.6 195.4 

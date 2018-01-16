@@ -1,0 +1,8 @@
+POI: 			Taylor_Swift 
+Youtube ID: 	PCClICprMwc 
+Video length: 	317.5 sec 
+Set (V): 		dev 
+ 
+Taylor_Swift/PCClICprMwc_0000001 16.7 23.8 
+Taylor_Swift/PCClICprMwc_0000002 140.7 152.6 
+Taylor_Swift/PCClICprMwc_0000003 174.3 178.9 

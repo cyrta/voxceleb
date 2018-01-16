@@ -1,0 +1,25 @@
+POI: 			Lindsey_Morgan 
+Youtube ID: 	6cz3N6FwPgw 
+Video length: 	1605.0 sec 
+Set (V): 		dev 
+ 
+Lindsey_Morgan/6cz3N6FwPgw_0000001 49.7 55.0 
+Lindsey_Morgan/6cz3N6FwPgw_0000002 109.6 118.9 
+Lindsey_Morgan/6cz3N6FwPgw_0000003 119.4 124.2 
+Lindsey_Morgan/6cz3N6FwPgw_0000004 197.3 205.6 
+Lindsey_Morgan/6cz3N6FwPgw_0000005 207.5 213.3 
+Lindsey_Morgan/6cz3N6FwPgw_0000006 220.6 226.4 
+Lindsey_Morgan/6cz3N6FwPgw_0000007 248.2 253.0 
+Lindsey_Morgan/6cz3N6FwPgw_0000008 308.0 314.0 
+Lindsey_Morgan/6cz3N6FwPgw_0000009 314.5 329.5 
+Lindsey_Morgan/6cz3N6FwPgw_0000010 331.0 337.4 
+Lindsey_Morgan/6cz3N6FwPgw_0000011 354.0 359.8 
+Lindsey_Morgan/6cz3N6FwPgw_0000012 878.2 883.3 
+Lindsey_Morgan/6cz3N6FwPgw_0000013 885.6 892.1 
+Lindsey_Morgan/6cz3N6FwPgw_0000014 1068.8 1073.2 
+Lindsey_Morgan/6cz3N6FwPgw_0000015 1071.5 1075.8 
+Lindsey_Morgan/6cz3N6FwPgw_0000016 1079.4 1087.3 
+Lindsey_Morgan/6cz3N6FwPgw_0000017 1093.4 1100.2 
+Lindsey_Morgan/6cz3N6FwPgw_0000018 1105.5 1112.2 
+Lindsey_Morgan/6cz3N6FwPgw_0000019 1115.9 1120.2 
+Lindsey_Morgan/6cz3N6FwPgw_0000020 1374.8 1379.1 

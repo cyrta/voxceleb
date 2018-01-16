@@ -1,0 +1,15 @@
+POI: 			William_Fichtner 
+Youtube ID: 	V8V_5kFvKBI 
+Video length: 	166.2 sec 
+Set (V): 		dev 
+ 
+William_Fichtner/V8V_5kFvKBI_0000001 05.4 11.0 
+William_Fichtner/V8V_5kFvKBI_0000002 17.6 28.8 
+William_Fichtner/V8V_5kFvKBI_0000003 30.4 38.9 
+William_Fichtner/V8V_5kFvKBI_0000004 52.5 60.7 
+William_Fichtner/V8V_5kFvKBI_0000005 69.5 74.4 
+William_Fichtner/V8V_5kFvKBI_0000006 77.7 96.0 
+William_Fichtner/V8V_5kFvKBI_0000007 97.0 103.5 
+William_Fichtner/V8V_5kFvKBI_0000008 130.3 141.4 
+William_Fichtner/V8V_5kFvKBI_0000009 142.3 150.1 
+William_Fichtner/V8V_5kFvKBI_0000010 153.3 160.3 

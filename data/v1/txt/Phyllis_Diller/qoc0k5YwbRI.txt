@@ -1,0 +1,43 @@
+POI: 			Phyllis_Diller 
+Youtube ID: 	qoc0k5YwbRI 
+Video length: 	1160.8 sec 
+Set (V): 		dev 
+ 
+Phyllis_Diller/qoc0k5YwbRI_0000001 156.2 160.5 
+Phyllis_Diller/qoc0k5YwbRI_0000002 160.8 165.0 
+Phyllis_Diller/qoc0k5YwbRI_0000003 173.8 191.7 
+Phyllis_Diller/qoc0k5YwbRI_0000004 232.0 243.8 
+Phyllis_Diller/qoc0k5YwbRI_0000005 248.0 252.8 
+Phyllis_Diller/qoc0k5YwbRI_0000006 261.4 276.0 
+Phyllis_Diller/qoc0k5YwbRI_0000007 304.7 310.7 
+Phyllis_Diller/qoc0k5YwbRI_0000008 314.3 319.7 
+Phyllis_Diller/qoc0k5YwbRI_0000009 398.3 405.4 
+Phyllis_Diller/qoc0k5YwbRI_0000010 489.9 494.8 
+Phyllis_Diller/qoc0k5YwbRI_0000011 495.0 507.9 
+Phyllis_Diller/qoc0k5YwbRI_0000012 540.2 553.0 
+Phyllis_Diller/qoc0k5YwbRI_0000013 590.6 596.0 
+Phyllis_Diller/qoc0k5YwbRI_0000014 627.8 633.2 
+Phyllis_Diller/qoc0k5YwbRI_0000015 665.9 670.8 
+Phyllis_Diller/qoc0k5YwbRI_0000016 725.8 742.1 
+Phyllis_Diller/qoc0k5YwbRI_0000017 742.6 749.4 
+Phyllis_Diller/qoc0k5YwbRI_0000018 786.0 790.1 
+Phyllis_Diller/qoc0k5YwbRI_0000019 793.9 807.8 
+Phyllis_Diller/qoc0k5YwbRI_0000020 808.3 821.6 
+Phyllis_Diller/qoc0k5YwbRI_0000021 838.4 848.4 
+Phyllis_Diller/qoc0k5YwbRI_0000022 859.8 864.2 
+Phyllis_Diller/qoc0k5YwbRI_0000023 864.7 870.7 
+Phyllis_Diller/qoc0k5YwbRI_0000024 876.4 882.2 
+Phyllis_Diller/qoc0k5YwbRI_0000025 886.9 893.9 
+Phyllis_Diller/qoc0k5YwbRI_0000026 908.0 913.2 
+Phyllis_Diller/qoc0k5YwbRI_0000027 917.0 922.2 
+Phyllis_Diller/qoc0k5YwbRI_0000028 947.8 954.7 
+Phyllis_Diller/qoc0k5YwbRI_0000029 967.0 971.8 
+Phyllis_Diller/qoc0k5YwbRI_0000030 976.5 980.8 
+Phyllis_Diller/qoc0k5YwbRI_0000031 988.7 995.6 
+Phyllis_Diller/qoc0k5YwbRI_0000032 1001.5 1011.4 
+Phyllis_Diller/qoc0k5YwbRI_0000033 1027.2 1031.4 
+Phyllis_Diller/qoc0k5YwbRI_0000034 1036.2 1044.8 
+Phyllis_Diller/qoc0k5YwbRI_0000035 1084.4 1090.7 
+Phyllis_Diller/qoc0k5YwbRI_0000036 1110.8 1117.3 
+Phyllis_Diller/qoc0k5YwbRI_0000037 1119.3 1131.0 
+Phyllis_Diller/qoc0k5YwbRI_0000038 1131.2 1142.4 

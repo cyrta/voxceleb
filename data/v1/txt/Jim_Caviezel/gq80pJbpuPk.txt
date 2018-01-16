@@ -1,0 +1,9 @@
+POI: 			Jim_Caviezel 
+Youtube ID: 	gq80pJbpuPk 
+Video length: 	201.8 sec 
+Set (V): 		dev 
+ 
+Jim_Caviezel/gq80pJbpuPk_0000001 28.5 33.1 
+Jim_Caviezel/gq80pJbpuPk_0000002 42.2 47.2 
+Jim_Caviezel/gq80pJbpuPk_0000003 139.9 143.9 
+Jim_Caviezel/gq80pJbpuPk_0000004 161.5 170.0 

@@ -1,0 +1,14 @@
+POI: 			Rhys_Darby 
+Youtube ID: 	qSSfnPaIY70 
+Video length: 	313.9 sec 
+Set (V): 		dev 
+ 
+Rhys_Darby/qSSfnPaIY70_0000001 34.4 40.3 
+Rhys_Darby/qSSfnPaIY70_0000002 88.8 97.7 
+Rhys_Darby/qSSfnPaIY70_0000003 130.8 135.2 
+Rhys_Darby/qSSfnPaIY70_0000004 143.2 149.6 
+Rhys_Darby/qSSfnPaIY70_0000005 149.7 154.8 
+Rhys_Darby/qSSfnPaIY70_0000006 138.7 142.8 
+Rhys_Darby/qSSfnPaIY70_0000007 191.2 198.7 
+Rhys_Darby/qSSfnPaIY70_0000008 220.4 227.0 
+Rhys_Darby/qSSfnPaIY70_0000009 256.0 261.2 

@@ -1,0 +1,10 @@
+POI: 			Lin_Shaye 
+Youtube ID: 	fgv7HjTZvMk 
+Video length: 	292.7 sec 
+Set (V): 		dev 
+ 
+Lin_Shaye/fgv7HjTZvMk_0000001 09.0 35.1 
+Lin_Shaye/fgv7HjTZvMk_0000002 45.5 50.5 
+Lin_Shaye/fgv7HjTZvMk_0000003 177.5 195.6 
+Lin_Shaye/fgv7HjTZvMk_0000004 200.3 209.2 
+Lin_Shaye/fgv7HjTZvMk_0000005 260.7 282.7 

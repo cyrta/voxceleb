@@ -1,0 +1,17 @@
+POI: 			Gilles_Marini 
+Youtube ID: 	ylLusLP--Ak 
+Video length: 	315.0 sec 
+Set (V): 		dev 
+ 
+Gilles_Marini/ylLusLP--Ak_0000001 28.0 36.2 
+Gilles_Marini/ylLusLP--Ak_0000002 63.8 73.0 
+Gilles_Marini/ylLusLP--Ak_0000003 95.8 101.6 
+Gilles_Marini/ylLusLP--Ak_0000004 102.9 108.4 
+Gilles_Marini/ylLusLP--Ak_0000005 119.9 133.9 
+Gilles_Marini/ylLusLP--Ak_0000006 141.6 149.4 
+Gilles_Marini/ylLusLP--Ak_0000007 166.4 173.0 
+Gilles_Marini/ylLusLP--Ak_0000008 174.6 180.3 
+Gilles_Marini/ylLusLP--Ak_0000009 181.6 193.4 
+Gilles_Marini/ylLusLP--Ak_0000010 203.1 217.9 
+Gilles_Marini/ylLusLP--Ak_0000011 259.8 268.0 
+Gilles_Marini/ylLusLP--Ak_0000012 300.3 306.4 

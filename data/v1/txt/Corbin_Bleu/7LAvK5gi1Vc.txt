@@ -1,0 +1,8 @@
+POI: 			Corbin_Bleu 
+Youtube ID: 	7LAvK5gi1Vc 
+Video length: 	143.5 sec 
+Set (V): 		dev 
+ 
+Corbin_Bleu/7LAvK5gi1Vc_0000001 14.8 19.7 
+Corbin_Bleu/7LAvK5gi1Vc_0000002 47.2 59.6 
+Corbin_Bleu/7LAvK5gi1Vc_0000003 128.2 139.3 

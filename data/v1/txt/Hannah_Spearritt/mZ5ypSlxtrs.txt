@@ -1,0 +1,11 @@
+POI: 			Hannah_Spearritt 
+Youtube ID: 	mZ5ypSlxtrs 
+Video length: 	147.4 sec 
+Set (V): 		dev 
+ 
+Hannah_Spearritt/mZ5ypSlxtrs_0000001 14.4 20.3 
+Hannah_Spearritt/mZ5ypSlxtrs_0000002 23.0 35.5 
+Hannah_Spearritt/mZ5ypSlxtrs_0000003 42.1 50.5 
+Hannah_Spearritt/mZ5ypSlxtrs_0000004 54.2 77.8 
+Hannah_Spearritt/mZ5ypSlxtrs_0000005 87.5 95.6 
+Hannah_Spearritt/mZ5ypSlxtrs_0000006 96.7 112.2 

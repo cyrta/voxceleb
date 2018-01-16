@@ -1,0 +1,16 @@
+POI: 			Domhnall_Gleeson 
+Youtube ID: 	0cNcbENYe10 
+Video length: 	234.0 sec 
+Set (V): 		dev 
+ 
+Domhnall_Gleeson/0cNcbENYe10_0000001 10.0 47.0 
+Domhnall_Gleeson/0cNcbENYe10_0000002 63.4 74.2 
+Domhnall_Gleeson/0cNcbENYe10_0000003 74.6 88.5 
+Domhnall_Gleeson/0cNcbENYe10_0000004 122.8 135.4 
+Domhnall_Gleeson/0cNcbENYe10_0000005 136.4 144.5 
+Domhnall_Gleeson/0cNcbENYe10_0000006 154.9 159.3 
+Domhnall_Gleeson/0cNcbENYe10_0000007 160.7 169.7 
+Domhnall_Gleeson/0cNcbENYe10_0000008 170.0 175.4 
+Domhnall_Gleeson/0cNcbENYe10_0000009 175.8 183.4 
+Domhnall_Gleeson/0cNcbENYe10_0000010 206.3 217.7 
+Domhnall_Gleeson/0cNcbENYe10_0000011 218.3 223.2 

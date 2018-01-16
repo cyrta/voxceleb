@@ -1,0 +1,9 @@
+POI: 			Billie_Joe_Armstrong 
+Youtube ID: 	V3H_zP_2dWk 
+Video length: 	86.6 sec 
+Set (V): 		dev 
+ 
+Billie_Joe_Armstrong/V3H_zP_2dWk_0000001 10.9 21.8 
+Billie_Joe_Armstrong/V3H_zP_2dWk_0000002 35.4 42.0 
+Billie_Joe_Armstrong/V3H_zP_2dWk_0000003 42.4 46.9 
+Billie_Joe_Armstrong/V3H_zP_2dWk_0000004 47.0 56.7 

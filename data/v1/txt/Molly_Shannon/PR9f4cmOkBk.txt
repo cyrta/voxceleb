@@ -1,0 +1,13 @@
+POI: 			Molly_Shannon 
+Youtube ID: 	PR9f4cmOkBk 
+Video length: 	310.5 sec 
+Set (V): 		dev 
+ 
+Molly_Shannon/PR9f4cmOkBk_0000001 64.1 68.2 
+Molly_Shannon/PR9f4cmOkBk_0000002 74.0 82.8 
+Molly_Shannon/PR9f4cmOkBk_0000003 98.8 108.7 
+Molly_Shannon/PR9f4cmOkBk_0000004 124.2 128.8 
+Molly_Shannon/PR9f4cmOkBk_0000005 154.0 162.6 
+Molly_Shannon/PR9f4cmOkBk_0000006 200.0 205.5 
+Molly_Shannon/PR9f4cmOkBk_0000007 210.6 218.0 
+Molly_Shannon/PR9f4cmOkBk_0000008 250.6 256.0 

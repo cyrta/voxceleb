@@ -1,0 +1,29 @@
+POI: 			Glen_Hansard 
+Youtube ID: 	uKukhDYVBb4 
+Video length: 	1096.3 sec 
+Set (V): 		dev 
+ 
+Glen_Hansard/uKukhDYVBb4_0000001 175.3 180.6 
+Glen_Hansard/uKukhDYVBb4_0000002 187.2 200.6 
+Glen_Hansard/uKukhDYVBb4_0000003 200.8 212.6 
+Glen_Hansard/uKukhDYVBb4_0000004 216.9 221.8 
+Glen_Hansard/uKukhDYVBb4_0000005 231.6 235.6 
+Glen_Hansard/uKukhDYVBb4_0000006 248.5 272.0 
+Glen_Hansard/uKukhDYVBb4_0000007 297.2 302.3 
+Glen_Hansard/uKukhDYVBb4_0000008 447.2 451.8 
+Glen_Hansard/uKukhDYVBb4_0000009 468.9 473.0 
+Glen_Hansard/uKukhDYVBb4_0000010 504.6 510.2 
+Glen_Hansard/uKukhDYVBb4_0000011 517.5 541.5 
+Glen_Hansard/uKukhDYVBb4_0000012 546.3 554.9 
+Glen_Hansard/uKukhDYVBb4_0000013 555.6 559.9 
+Glen_Hansard/uKukhDYVBb4_0000014 614.6 623.4 
+Glen_Hansard/uKukhDYVBb4_0000015 666.7 679.6 
+Glen_Hansard/uKukhDYVBb4_0000016 733.8 748.8 
+Glen_Hansard/uKukhDYVBb4_0000017 749.7 758.0 
+Glen_Hansard/uKukhDYVBb4_0000018 768.9 773.0 
+Glen_Hansard/uKukhDYVBb4_0000019 774.2 794.3 
+Glen_Hansard/uKukhDYVBb4_0000020 814.1 821.8 
+Glen_Hansard/uKukhDYVBb4_0000021 919.5 923.5 
+Glen_Hansard/uKukhDYVBb4_0000022 1000.5 1007.6 
+Glen_Hansard/uKukhDYVBb4_0000023 1011.9 1022.4 
+Glen_Hansard/uKukhDYVBb4_0000024 1028.0 1041.6 

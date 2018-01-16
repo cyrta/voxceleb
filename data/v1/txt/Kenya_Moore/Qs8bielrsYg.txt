@@ -1,0 +1,9 @@
+POI: 			Kenya_Moore 
+Youtube ID: 	Qs8bielrsYg 
+Video length: 	470.5 sec 
+Set (V): 		dev 
+ 
+Kenya_Moore/Qs8bielrsYg_0000001 73.1 80.2 
+Kenya_Moore/Qs8bielrsYg_0000002 156.8 163.6 
+Kenya_Moore/Qs8bielrsYg_0000003 180.0 189.8 
+Kenya_Moore/Qs8bielrsYg_0000004 272.2 282.4 

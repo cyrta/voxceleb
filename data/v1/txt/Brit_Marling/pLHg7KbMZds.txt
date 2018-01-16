@@ -1,0 +1,24 @@
+POI: 			Brit_Marling 
+Youtube ID: 	pLHg7KbMZds 
+Video length: 	391.7 sec 
+Set (V): 		dev 
+ 
+Brit_Marling/pLHg7KbMZds_0000001 34.4 43.8 
+Brit_Marling/pLHg7KbMZds_0000002 48.5 53.1 
+Brit_Marling/pLHg7KbMZds_0000003 55.8 61.1 
+Brit_Marling/pLHg7KbMZds_0000004 66.4 82.0 
+Brit_Marling/pLHg7KbMZds_0000005 86.5 92.0 
+Brit_Marling/pLHg7KbMZds_0000006 129.7 139.6 
+Brit_Marling/pLHg7KbMZds_0000007 143.7 165.8 
+Brit_Marling/pLHg7KbMZds_0000008 171.6 181.2 
+Brit_Marling/pLHg7KbMZds_0000009 181.5 189.9 
+Brit_Marling/pLHg7KbMZds_0000010 215.1 223.6 
+Brit_Marling/pLHg7KbMZds_0000011 224.0 252.7 
+Brit_Marling/pLHg7KbMZds_0000012 271.4 285.0 
+Brit_Marling/pLHg7KbMZds_0000013 287.2 294.4 
+Brit_Marling/pLHg7KbMZds_0000014 294.6 299.3 
+Brit_Marling/pLHg7KbMZds_0000015 299.6 308.3 
+Brit_Marling/pLHg7KbMZds_0000016 311.8 316.8 
+Brit_Marling/pLHg7KbMZds_0000017 332.3 357.8 
+Brit_Marling/pLHg7KbMZds_0000018 359.9 367.8 
+Brit_Marling/pLHg7KbMZds_0000019 369.6 375.9 

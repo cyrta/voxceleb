@@ -1,0 +1,16 @@
+POI: 			Raoul_Bova 
+Youtube ID: 	UXOshzm2w84 
+Video length: 	419.1 sec 
+Set (V): 		dev 
+ 
+Raoul_Bova/UXOshzm2w84_0000001 72.3 78.9 
+Raoul_Bova/UXOshzm2w84_0000002 81.4 98.3 
+Raoul_Bova/UXOshzm2w84_0000003 98.5 112.8 
+Raoul_Bova/UXOshzm2w84_0000004 113.8 120.3 
+Raoul_Bova/UXOshzm2w84_0000005 120.4 140.8 
+Raoul_Bova/UXOshzm2w84_0000006 142.1 149.1 
+Raoul_Bova/UXOshzm2w84_0000007 151.3 176.2 
+Raoul_Bova/UXOshzm2w84_0000008 218.2 232.2 
+Raoul_Bova/UXOshzm2w84_0000009 243.3 262.1 
+Raoul_Bova/UXOshzm2w84_0000010 262.2 267.6 
+Raoul_Bova/UXOshzm2w84_0000011 268.5 288.2 

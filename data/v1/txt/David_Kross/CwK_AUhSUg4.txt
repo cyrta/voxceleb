@@ -1,0 +1,8 @@
+POI: 			David_Kross 
+Youtube ID: 	CwK_AUhSUg4 
+Video length: 	580.3 sec 
+Set (V): 		dev 
+ 
+David_Kross/CwK_AUhSUg4_0000001 298.7 303.7 
+David_Kross/CwK_AUhSUg4_0000002 304.2 308.3 
+David_Kross/CwK_AUhSUg4_0000003 360.5 366.4 

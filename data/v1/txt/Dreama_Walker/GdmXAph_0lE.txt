@@ -1,0 +1,9 @@
+POI: 			Dreama_Walker 
+Youtube ID: 	GdmXAph_0lE 
+Video length: 	132.5 sec 
+Set (V): 		dev 
+ 
+Dreama_Walker/GdmXAph_0lE_0000001 28.7 34.2 
+Dreama_Walker/GdmXAph_0lE_0000002 41.1 47.0 
+Dreama_Walker/GdmXAph_0lE_0000003 70.6 76.0 
+Dreama_Walker/GdmXAph_0lE_0000004 108.5 113.4 

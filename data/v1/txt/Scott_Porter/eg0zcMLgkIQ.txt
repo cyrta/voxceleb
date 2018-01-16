@@ -1,0 +1,9 @@
+POI: 			Scott_Porter 
+Youtube ID: 	eg0zcMLgkIQ 
+Video length: 	287.4 sec 
+Set (V): 		dev 
+ 
+Scott_Porter/eg0zcMLgkIQ_0000001 145.3 150.6 
+Scott_Porter/eg0zcMLgkIQ_0000002 166.2 172.0 
+Scott_Porter/eg0zcMLgkIQ_0000003 178.0 182.0 
+Scott_Porter/eg0zcMLgkIQ_0000004 214.0 223.1 

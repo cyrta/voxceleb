@@ -1,0 +1,15 @@
+POI: 			Laura_Benanti 
+Youtube ID: 	XivpV9krbqw 
+Video length: 	199.9 sec 
+Set (V): 		dev 
+ 
+Laura_Benanti/XivpV9krbqw_0000001 05.7 13.8 
+Laura_Benanti/XivpV9krbqw_0000002 43.6 48.0 
+Laura_Benanti/XivpV9krbqw_0000003 51.6 56.2 
+Laura_Benanti/XivpV9krbqw_0000004 68.0 83.0 
+Laura_Benanti/XivpV9krbqw_0000005 95.4 119.6 
+Laura_Benanti/XivpV9krbqw_0000006 128.6 132.6 
+Laura_Benanti/XivpV9krbqw_0000007 135.9 141.1 
+Laura_Benanti/XivpV9krbqw_0000008 141.5 149.2 
+Laura_Benanti/XivpV9krbqw_0000009 153.8 160.7 
+Laura_Benanti/XivpV9krbqw_0000010 170.4 182.4 

@@ -1,0 +1,8 @@
+POI: 			Allison_Williams 
+Youtube ID: 	1csoxtWaisM 
+Video length: 	296.9 sec 
+Set (V): 		dev 
+ 
+Allison_Williams/1csoxtWaisM_0000001 251.0 261.1 
+Allison_Williams/1csoxtWaisM_0000002 262.0 279.0 
+Allison_Williams/1csoxtWaisM_0000003 279.2 288.4 

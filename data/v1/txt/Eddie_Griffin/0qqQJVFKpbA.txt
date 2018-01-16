@@ -1,0 +1,11 @@
+POI: 			Eddie_Griffin 
+Youtube ID: 	0qqQJVFKpbA 
+Video length: 	469.9 sec 
+Set (V): 		test 
+ 
+Eddie_Griffin/0qqQJVFKpbA_0000001 136.8 141.6 
+Eddie_Griffin/0qqQJVFKpbA_0000002 151.0 156.5 
+Eddie_Griffin/0qqQJVFKpbA_0000003 156.9 175.0 
+Eddie_Griffin/0qqQJVFKpbA_0000004 247.8 252.2 
+Eddie_Griffin/0qqQJVFKpbA_0000005 254.5 261.8 
+Eddie_Griffin/0qqQJVFKpbA_0000006 281.8 286.2 

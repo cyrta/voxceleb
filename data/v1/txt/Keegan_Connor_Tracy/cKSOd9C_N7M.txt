@@ -1,0 +1,9 @@
+POI: 			Keegan_Connor_Tracy 
+Youtube ID: 	cKSOd9C_N7M 
+Video length: 	442.5 sec 
+Set (V): 		dev 
+ 
+Keegan_Connor_Tracy/cKSOd9C_N7M_0000001 232.1 237.4 
+Keegan_Connor_Tracy/cKSOd9C_N7M_0000002 237.6 247.2 
+Keegan_Connor_Tracy/cKSOd9C_N7M_0000003 251.3 257.1 
+Keegan_Connor_Tracy/cKSOd9C_N7M_0000004 411.4 415.6 

@@ -1,0 +1,13 @@
+POI: 			Oliver_Platt 
+Youtube ID: 	B1dfsHgQx58 
+Video length: 	128.8 sec 
+Set (V): 		dev 
+ 
+Oliver_Platt/B1dfsHgQx58_0000001 26.5 30.8 
+Oliver_Platt/B1dfsHgQx58_0000002 32.1 38.5 
+Oliver_Platt/B1dfsHgQx58_0000003 53.3 58.1 
+Oliver_Platt/B1dfsHgQx58_0000004 71.4 76.9 
+Oliver_Platt/B1dfsHgQx58_0000005 83.3 92.8 
+Oliver_Platt/B1dfsHgQx58_0000006 93.6 99.2 
+Oliver_Platt/B1dfsHgQx58_0000007 100.9 107.9 
+Oliver_Platt/B1dfsHgQx58_0000008 110.4 121.3 

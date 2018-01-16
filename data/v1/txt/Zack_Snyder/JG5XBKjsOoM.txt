@@ -1,0 +1,7 @@
+POI: 			Zack_Snyder 
+Youtube ID: 	JG5XBKjsOoM 
+Video length: 	241.6 sec 
+Set (V): 		dev 
+ 
+Zack_Snyder/JG5XBKjsOoM_0000001 77.2 82.5 
+Zack_Snyder/JG5XBKjsOoM_0000002 146.0 151.2 

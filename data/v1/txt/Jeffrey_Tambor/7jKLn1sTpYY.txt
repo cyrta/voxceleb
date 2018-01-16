@@ -1,0 +1,15 @@
+POI: 			Jeffrey_Tambor 
+Youtube ID: 	7jKLn1sTpYY 
+Video length: 	132.1 sec 
+Set (V): 		dev 
+ 
+Jeffrey_Tambor/7jKLn1sTpYY_0000001 06.2 12.6 
+Jeffrey_Tambor/7jKLn1sTpYY_0000002 21.3 25.5 
+Jeffrey_Tambor/7jKLn1sTpYY_0000003 28.1 32.6 
+Jeffrey_Tambor/7jKLn1sTpYY_0000004 34.5 38.5 
+Jeffrey_Tambor/7jKLn1sTpYY_0000005 39.8 43.7 
+Jeffrey_Tambor/7jKLn1sTpYY_0000006 49.5 53.7 
+Jeffrey_Tambor/7jKLn1sTpYY_0000007 57.9 62.5 
+Jeffrey_Tambor/7jKLn1sTpYY_0000008 72.8 78.9 
+Jeffrey_Tambor/7jKLn1sTpYY_0000009 91.9 104.2 
+Jeffrey_Tambor/7jKLn1sTpYY_0000010 104.4 115.5 

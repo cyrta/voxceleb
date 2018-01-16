@@ -1,0 +1,13 @@
+POI: 			David_Faustino 
+Youtube ID: 	ThNVw3w0WpA 
+Video length: 	219.6 sec 
+Set (V): 		dev 
+ 
+David_Faustino/ThNVw3w0WpA_0000001 56.8 68.9 
+David_Faustino/ThNVw3w0WpA_0000002 71.9 76.8 
+David_Faustino/ThNVw3w0WpA_0000003 86.6 94.7 
+David_Faustino/ThNVw3w0WpA_0000004 120.5 130.6 
+David_Faustino/ThNVw3w0WpA_0000005 131.3 138.2 
+David_Faustino/ThNVw3w0WpA_0000006 140.2 144.2 
+David_Faustino/ThNVw3w0WpA_0000007 186.7 191.4 
+David_Faustino/ThNVw3w0WpA_0000008 191.9 196.9 

@@ -1,0 +1,25 @@
+POI: 			Mark_Ruffalo 
+Youtube ID: 	pyG2PkkpjhI 
+Video length: 	882.3 sec 
+Set (V): 		dev 
+ 
+Mark_Ruffalo/pyG2PkkpjhI_0000001 177.8 181.9 
+Mark_Ruffalo/pyG2PkkpjhI_0000002 201.6 206.3 
+Mark_Ruffalo/pyG2PkkpjhI_0000003 214.2 219.7 
+Mark_Ruffalo/pyG2PkkpjhI_0000004 238.6 246.4 
+Mark_Ruffalo/pyG2PkkpjhI_0000005 244.0 249.7 
+Mark_Ruffalo/pyG2PkkpjhI_0000006 263.1 269.0 
+Mark_Ruffalo/pyG2PkkpjhI_0000007 272.9 280.6 
+Mark_Ruffalo/pyG2PkkpjhI_0000008 320.9 327.7 
+Mark_Ruffalo/pyG2PkkpjhI_0000009 368.6 376.5 
+Mark_Ruffalo/pyG2PkkpjhI_0000010 506.8 515.5 
+Mark_Ruffalo/pyG2PkkpjhI_0000011 538.0 543.8 
+Mark_Ruffalo/pyG2PkkpjhI_0000012 553.3 569.1 
+Mark_Ruffalo/pyG2PkkpjhI_0000013 570.7 580.0 
+Mark_Ruffalo/pyG2PkkpjhI_0000014 581.1 592.2 
+Mark_Ruffalo/pyG2PkkpjhI_0000015 594.4 607.7 
+Mark_Ruffalo/pyG2PkkpjhI_0000016 671.2 676.5 
+Mark_Ruffalo/pyG2PkkpjhI_0000017 728.9 735.6 
+Mark_Ruffalo/pyG2PkkpjhI_0000018 803.8 808.8 
+Mark_Ruffalo/pyG2PkkpjhI_0000019 828.1 834.8 
+Mark_Ruffalo/pyG2PkkpjhI_0000020 860.2 870.5 

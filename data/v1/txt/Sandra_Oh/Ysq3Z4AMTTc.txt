@@ -1,0 +1,15 @@
+POI: 			Sandra_Oh 
+Youtube ID: 	Ysq3Z4AMTTc 
+Video length: 	265.7 sec 
+Set (V): 		dev 
+ 
+Sandra_Oh/Ysq3Z4AMTTc_0000001 26.8 31.4 
+Sandra_Oh/Ysq3Z4AMTTc_0000002 31.6 35.9 
+Sandra_Oh/Ysq3Z4AMTTc_0000003 39.0 45.5 
+Sandra_Oh/Ysq3Z4AMTTc_0000004 105.4 109.7 
+Sandra_Oh/Ysq3Z4AMTTc_0000005 138.8 142.8 
+Sandra_Oh/Ysq3Z4AMTTc_0000006 148.4 153.0 
+Sandra_Oh/Ysq3Z4AMTTc_0000007 161.9 167.9 
+Sandra_Oh/Ysq3Z4AMTTc_0000008 192.1 198.9 
+Sandra_Oh/Ysq3Z4AMTTc_0000009 208.4 212.8 
+Sandra_Oh/Ysq3Z4AMTTc_0000010 183.9 188.2 

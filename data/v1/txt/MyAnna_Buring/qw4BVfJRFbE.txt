@@ -1,0 +1,8 @@
+POI: 			MyAnna_Buring 
+Youtube ID: 	qw4BVfJRFbE 
+Video length: 	80.0 sec 
+Set (V): 		dev 
+ 
+MyAnna_Buring/qw4BVfJRFbE_0000001 17.2 27.3 
+MyAnna_Buring/qw4BVfJRFbE_0000002 49.0 53.3 
+MyAnna_Buring/qw4BVfJRFbE_0000003 57.0 64.3 

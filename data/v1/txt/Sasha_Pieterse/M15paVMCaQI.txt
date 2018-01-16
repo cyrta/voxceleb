@@ -1,0 +1,13 @@
+POI: 			Sasha_Pieterse 
+Youtube ID: 	M15paVMCaQI 
+Video length: 	488.3 sec 
+Set (V): 		dev 
+ 
+Sasha_Pieterse/M15paVMCaQI_0000001 26.4 32.8 
+Sasha_Pieterse/M15paVMCaQI_0000002 47.6 52.3 
+Sasha_Pieterse/M15paVMCaQI_0000003 193.0 197.8 
+Sasha_Pieterse/M15paVMCaQI_0000004 203.5 207.5 
+Sasha_Pieterse/M15paVMCaQI_0000005 258.6 262.7 
+Sasha_Pieterse/M15paVMCaQI_0000006 361.8 368.2 
+Sasha_Pieterse/M15paVMCaQI_0000007 391.0 396.9 
+Sasha_Pieterse/M15paVMCaQI_0000008 424.7 432.0 

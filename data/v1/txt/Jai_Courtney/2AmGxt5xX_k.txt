@@ -1,0 +1,8 @@
+POI: 			Jai_Courtney 
+Youtube ID: 	2AmGxt5xX_k 
+Video length: 	480.9 sec 
+Set (V): 		dev 
+ 
+Jai_Courtney/2AmGxt5xX_k_0000001 172.1 180.8 
+Jai_Courtney/2AmGxt5xX_k_0000002 183.2 188.7 
+Jai_Courtney/2AmGxt5xX_k_0000003 320.7 325.4 

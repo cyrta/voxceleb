@@ -1,0 +1,12 @@
+POI: 			James_Nesbitt 
+Youtube ID: 	mKjxLNagSiA 
+Video length: 	369.6 sec 
+Set (V): 		dev 
+ 
+James_Nesbitt/mKjxLNagSiA_0000001 57.3 70.0 
+James_Nesbitt/mKjxLNagSiA_0000002 80.2 84.3 
+James_Nesbitt/mKjxLNagSiA_0000003 85.7 98.4 
+James_Nesbitt/mKjxLNagSiA_0000004 99.3 106.8 
+James_Nesbitt/mKjxLNagSiA_0000005 176.6 186.5 
+James_Nesbitt/mKjxLNagSiA_0000006 205.9 210.0 
+James_Nesbitt/mKjxLNagSiA_0000007 293.8 317.6 

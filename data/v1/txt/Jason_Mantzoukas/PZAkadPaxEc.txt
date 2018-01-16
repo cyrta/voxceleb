@@ -1,0 +1,12 @@
+POI: 			Jason_Mantzoukas 
+Youtube ID: 	PZAkadPaxEc 
+Video length: 	111.2 sec 
+Set (V): 		dev 
+ 
+Jason_Mantzoukas/PZAkadPaxEc_0000001 09.3 17.2 
+Jason_Mantzoukas/PZAkadPaxEc_0000002 20.0 30.6 
+Jason_Mantzoukas/PZAkadPaxEc_0000003 38.6 47.7 
+Jason_Mantzoukas/PZAkadPaxEc_0000004 48.2 58.6 
+Jason_Mantzoukas/PZAkadPaxEc_0000005 67.3 73.0 
+Jason_Mantzoukas/PZAkadPaxEc_0000006 75.7 82.7 
+Jason_Mantzoukas/PZAkadPaxEc_0000007 84.6 89.5 

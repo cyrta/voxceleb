@@ -1,0 +1,8 @@
+POI: 			Audra_McDonald 
+Youtube ID: 	R7wpTWkBfEM 
+Video length: 	605.2 sec 
+Set (V): 		dev 
+ 
+Audra_McDonald/R7wpTWkBfEM_0000001 100.7 109.9 
+Audra_McDonald/R7wpTWkBfEM_0000002 186.1 196.3 
+Audra_McDonald/R7wpTWkBfEM_0000003 243.8 259.8 

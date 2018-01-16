@@ -1,0 +1,16 @@
+POI: 			Sofia_Coppola 
+Youtube ID: 	fOsQ2guu2qA 
+Video length: 	385.3 sec 
+Set (V): 		dev 
+ 
+Sofia_Coppola/fOsQ2guu2qA_0000001 26.7 31.7 
+Sofia_Coppola/fOsQ2guu2qA_0000002 57.1 68.0 
+Sofia_Coppola/fOsQ2guu2qA_0000003 69.6 80.3 
+Sofia_Coppola/fOsQ2guu2qA_0000004 102.5 113.2 
+Sofia_Coppola/fOsQ2guu2qA_0000005 123.2 127.7 
+Sofia_Coppola/fOsQ2guu2qA_0000006 134.5 138.7 
+Sofia_Coppola/fOsQ2guu2qA_0000007 150.2 157.6 
+Sofia_Coppola/fOsQ2guu2qA_0000008 265.3 271.8 
+Sofia_Coppola/fOsQ2guu2qA_0000009 275.6 282.4 
+Sofia_Coppola/fOsQ2guu2qA_0000010 354.3 368.7 
+Sofia_Coppola/fOsQ2guu2qA_0000011 369.0 374.1 

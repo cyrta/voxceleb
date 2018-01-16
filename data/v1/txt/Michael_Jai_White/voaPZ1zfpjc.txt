@@ -1,0 +1,8 @@
+POI: 			Michael_Jai_White 
+Youtube ID: 	voaPZ1zfpjc 
+Video length: 	531.2 sec 
+Set (V): 		dev 
+ 
+Michael_Jai_White/voaPZ1zfpjc_0000001 112.4 116.3 
+Michael_Jai_White/voaPZ1zfpjc_0000002 117.7 151.8 
+Michael_Jai_White/voaPZ1zfpjc_0000003 151.9 158.0 

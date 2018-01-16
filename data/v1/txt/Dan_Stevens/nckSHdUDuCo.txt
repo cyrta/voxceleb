@@ -1,0 +1,10 @@
+POI: 			Dan_Stevens 
+Youtube ID: 	nckSHdUDuCo 
+Video length: 	444.6 sec 
+Set (V): 		dev 
+ 
+Dan_Stevens/nckSHdUDuCo_0000001 80.2 84.3 
+Dan_Stevens/nckSHdUDuCo_0000002 170.7 185.7 
+Dan_Stevens/nckSHdUDuCo_0000003 185.9 190.2 
+Dan_Stevens/nckSHdUDuCo_0000004 342.8 353.7 
+Dan_Stevens/nckSHdUDuCo_0000005 353.8 357.8 

@@ -1,0 +1,9 @@
+POI: 			Simon_Pegg 
+Youtube ID: 	8_A0To-Sgfc 
+Video length: 	484.9 sec 
+Set (V): 		dev 
+ 
+Simon_Pegg/8_A0To-Sgfc_0000001 70.4 75.6 
+Simon_Pegg/8_A0To-Sgfc_0000002 76.2 87.6 
+Simon_Pegg/8_A0To-Sgfc_0000003 342.7 347.9 
+Simon_Pegg/8_A0To-Sgfc_0000004 350.2 355.8 

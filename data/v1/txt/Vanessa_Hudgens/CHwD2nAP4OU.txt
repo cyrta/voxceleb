@@ -1,0 +1,9 @@
+POI: 			Vanessa_Hudgens 
+Youtube ID: 	CHwD2nAP4OU 
+Video length: 	198.1 sec 
+Set (V): 		dev 
+ 
+Vanessa_Hudgens/CHwD2nAP4OU_0000001 39.4 49.4 
+Vanessa_Hudgens/CHwD2nAP4OU_0000002 95.1 103.2 
+Vanessa_Hudgens/CHwD2nAP4OU_0000003 144.8 154.8 
+Vanessa_Hudgens/CHwD2nAP4OU_0000004 155.8 161.3 

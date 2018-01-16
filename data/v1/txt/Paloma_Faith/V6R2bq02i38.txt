@@ -1,0 +1,11 @@
+POI: 			Paloma_Faith 
+Youtube ID: 	V6R2bq02i38 
+Video length: 	550.4 sec 
+Set (V): 		dev 
+ 
+Paloma_Faith/V6R2bq02i38_0000001 226.2 232.4 
+Paloma_Faith/V6R2bq02i38_0000002 304.3 308.6 
+Paloma_Faith/V6R2bq02i38_0000003 315.6 319.8 
+Paloma_Faith/V6R2bq02i38_0000004 344.2 348.4 
+Paloma_Faith/V6R2bq02i38_0000005 510.9 515.2 
+Paloma_Faith/V6R2bq02i38_0000006 524.8 530.1 

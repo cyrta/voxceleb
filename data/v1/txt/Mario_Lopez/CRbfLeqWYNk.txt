@@ -1,0 +1,7 @@
+POI: 			Mario_Lopez 
+Youtube ID: 	CRbfLeqWYNk 
+Video length: 	378.7 sec 
+Set (V): 		dev 
+ 
+Mario_Lopez/CRbfLeqWYNk_0000001 201.2 205.6 
+Mario_Lopez/CRbfLeqWYNk_0000002 261.0 267.3 

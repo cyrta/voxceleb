@@ -1,0 +1,9 @@
+POI: 			Marion_Ross 
+Youtube ID: 	XaQk7W-ySMo 
+Video length: 	241.3 sec 
+Set (V): 		dev 
+ 
+Marion_Ross/XaQk7W-ySMo_0000001 71.3 77.0 
+Marion_Ross/XaQk7W-ySMo_0000002 81.4 87.0 
+Marion_Ross/XaQk7W-ySMo_0000003 142.7 148.2 
+Marion_Ross/XaQk7W-ySMo_0000004 206.6 215.2 

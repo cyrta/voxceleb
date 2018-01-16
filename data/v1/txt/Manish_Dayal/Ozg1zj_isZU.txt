@@ -1,0 +1,17 @@
+POI: 			Manish_Dayal 
+Youtube ID: 	Ozg1zj_isZU 
+Video length: 	270.0 sec 
+Set (V): 		dev 
+ 
+Manish_Dayal/Ozg1zj_isZU_0000001 25.7 31.4 
+Manish_Dayal/Ozg1zj_isZU_0000002 31.8 37.4 
+Manish_Dayal/Ozg1zj_isZU_0000003 84.1 95.8 
+Manish_Dayal/Ozg1zj_isZU_0000004 96.2 103.3 
+Manish_Dayal/Ozg1zj_isZU_0000005 106.1 112.1 
+Manish_Dayal/Ozg1zj_isZU_0000006 116.6 123.8 
+Manish_Dayal/Ozg1zj_isZU_0000007 143.2 160.1 
+Manish_Dayal/Ozg1zj_isZU_0000008 160.5 166.0 
+Manish_Dayal/Ozg1zj_isZU_0000009 166.1 173.6 
+Manish_Dayal/Ozg1zj_isZU_0000010 197.0 207.2 
+Manish_Dayal/Ozg1zj_isZU_0000011 207.3 212.2 
+Manish_Dayal/Ozg1zj_isZU_0000012 214.8 240.6 

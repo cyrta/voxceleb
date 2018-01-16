@@ -1,0 +1,8 @@
+POI: 			Eugene_Levy 
+Youtube ID: 	GbpCKIcUyGA 
+Video length: 	186.6 sec 
+Set (V): 		test 
+ 
+Eugene_Levy/GbpCKIcUyGA_0000001 47.7 55.1 
+Eugene_Levy/GbpCKIcUyGA_0000002 71.9 80.0 
+Eugene_Levy/GbpCKIcUyGA_0000003 154.4 160.0 

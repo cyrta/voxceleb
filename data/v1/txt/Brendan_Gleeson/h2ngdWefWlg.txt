@@ -1,0 +1,11 @@
+POI: 			Brendan_Gleeson 
+Youtube ID: 	h2ngdWefWlg 
+Video length: 	450.1 sec 
+Set (V): 		dev 
+ 
+Brendan_Gleeson/h2ngdWefWlg_0000001 89.6 104.6 
+Brendan_Gleeson/h2ngdWefWlg_0000002 126.4 133.6 
+Brendan_Gleeson/h2ngdWefWlg_0000003 142.4 158.2 
+Brendan_Gleeson/h2ngdWefWlg_0000004 218.1 224.7 
+Brendan_Gleeson/h2ngdWefWlg_0000005 249.6 257.2 
+Brendan_Gleeson/h2ngdWefWlg_0000006 313.2 319.0 

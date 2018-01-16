@@ -1,0 +1,47 @@
+POI: 			Seth_MacFarlane 
+Youtube ID: 	Tsvwzaa-IGo 
+Video length: 	1766.5 sec 
+Set (V): 		dev 
+ 
+Seth_MacFarlane/Tsvwzaa-IGo_0000001 36.6 41.4 
+Seth_MacFarlane/Tsvwzaa-IGo_0000002 43.0 51.0 
+Seth_MacFarlane/Tsvwzaa-IGo_0000003 54.9 59.2 
+Seth_MacFarlane/Tsvwzaa-IGo_0000004 112.2 119.3 
+Seth_MacFarlane/Tsvwzaa-IGo_0000005 120.2 126.6 
+Seth_MacFarlane/Tsvwzaa-IGo_0000006 130.2 145.2 
+Seth_MacFarlane/Tsvwzaa-IGo_0000007 145.6 157.2 
+Seth_MacFarlane/Tsvwzaa-IGo_0000008 308.4 314.3 
+Seth_MacFarlane/Tsvwzaa-IGo_0000009 323.5 341.5 
+Seth_MacFarlane/Tsvwzaa-IGo_0000010 342.6 346.8 
+Seth_MacFarlane/Tsvwzaa-IGo_0000011 347.5 354.1 
+Seth_MacFarlane/Tsvwzaa-IGo_0000012 364.2 390.2 
+Seth_MacFarlane/Tsvwzaa-IGo_0000013 636.5 646.6 
+Seth_MacFarlane/Tsvwzaa-IGo_0000014 646.9 658.2 
+Seth_MacFarlane/Tsvwzaa-IGo_0000015 740.9 749.5 
+Seth_MacFarlane/Tsvwzaa-IGo_0000016 751.7 755.8 
+Seth_MacFarlane/Tsvwzaa-IGo_0000017 803.9 816.6 
+Seth_MacFarlane/Tsvwzaa-IGo_0000018 817.4 826.0 
+Seth_MacFarlane/Tsvwzaa-IGo_0000019 828.0 833.7 
+Seth_MacFarlane/Tsvwzaa-IGo_0000020 836.9 845.9 
+Seth_MacFarlane/Tsvwzaa-IGo_0000021 855.1 859.7 
+Seth_MacFarlane/Tsvwzaa-IGo_0000022 1055.0 1059.3 
+Seth_MacFarlane/Tsvwzaa-IGo_0000023 1061.8 1069.6 
+Seth_MacFarlane/Tsvwzaa-IGo_0000024 1069.8 1080.7 
+Seth_MacFarlane/Tsvwzaa-IGo_0000025 1083.2 1090.9 
+Seth_MacFarlane/Tsvwzaa-IGo_0000026 1132.5 1140.5 
+Seth_MacFarlane/Tsvwzaa-IGo_0000027 1141.4 1146.5 
+Seth_MacFarlane/Tsvwzaa-IGo_0000028 1148.4 1153.0 
+Seth_MacFarlane/Tsvwzaa-IGo_0000029 1229.1 1236.2 
+Seth_MacFarlane/Tsvwzaa-IGo_0000030 1260.5 1272.1 
+Seth_MacFarlane/Tsvwzaa-IGo_0000031 1272.3 1276.4 
+Seth_MacFarlane/Tsvwzaa-IGo_0000032 1395.8 1400.0 
+Seth_MacFarlane/Tsvwzaa-IGo_0000033 1400.5 1405.7 
+Seth_MacFarlane/Tsvwzaa-IGo_0000034 1406.6 1412.2 
+Seth_MacFarlane/Tsvwzaa-IGo_0000035 1413.2 1419.4 
+Seth_MacFarlane/Tsvwzaa-IGo_0000036 1420.3 1428.7 
+Seth_MacFarlane/Tsvwzaa-IGo_0000037 1429.6 1444.1 
+Seth_MacFarlane/Tsvwzaa-IGo_0000038 1447.0 1451.8 
+Seth_MacFarlane/Tsvwzaa-IGo_0000039 1453.0 1464.7 
+Seth_MacFarlane/Tsvwzaa-IGo_0000040 1496.6 1503.3 
+Seth_MacFarlane/Tsvwzaa-IGo_0000041 1575.1 1597.7 
+Seth_MacFarlane/Tsvwzaa-IGo_0000042 1735.7 1743.6 

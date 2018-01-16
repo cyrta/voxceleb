@@ -1,0 +1,9 @@
+POI: 			Gemma_Arterton 
+Youtube ID: 	q5KjeZ_1NHk 
+Video length: 	364.1 sec 
+Set (V): 		dev 
+ 
+Gemma_Arterton/q5KjeZ_1NHk_0000001 158.0 163.1 
+Gemma_Arterton/q5KjeZ_1NHk_0000002 201.8 207.7 
+Gemma_Arterton/q5KjeZ_1NHk_0000003 266.7 271.4 
+Gemma_Arterton/q5KjeZ_1NHk_0000004 290.4 309.3 

@@ -1,0 +1,9 @@
+POI: 			Odette_Annable 
+Youtube ID: 	qozLbZilu1I 
+Video length: 	266.7 sec 
+Set (V): 		dev 
+ 
+Odette_Annable/qozLbZilu1I_0000001 82.1 97.6 
+Odette_Annable/qozLbZilu1I_0000002 134.9 141.7 
+Odette_Annable/qozLbZilu1I_0000003 163.8 168.6 
+Odette_Annable/qozLbZilu1I_0000004 212.3 221.6 

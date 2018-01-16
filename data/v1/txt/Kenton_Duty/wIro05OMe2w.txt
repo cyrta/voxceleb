@@ -1,0 +1,17 @@
+POI: 			Kenton_Duty 
+Youtube ID: 	wIro05OMe2w 
+Video length: 	398.0 sec 
+Set (V): 		dev 
+ 
+Kenton_Duty/wIro05OMe2w_0000001 35.7 50.0 
+Kenton_Duty/wIro05OMe2w_0000002 56.4 60.6 
+Kenton_Duty/wIro05OMe2w_0000003 65.1 75.6 
+Kenton_Duty/wIro05OMe2w_0000004 96.3 113.4 
+Kenton_Duty/wIro05OMe2w_0000005 131.4 135.4 
+Kenton_Duty/wIro05OMe2w_0000006 141.5 149.6 
+Kenton_Duty/wIro05OMe2w_0000007 157.0 168.5 
+Kenton_Duty/wIro05OMe2w_0000008 190.7 199.2 
+Kenton_Duty/wIro05OMe2w_0000009 200.4 205.4 
+Kenton_Duty/wIro05OMe2w_0000010 216.6 230.7 
+Kenton_Duty/wIro05OMe2w_0000011 243.6 247.7 
+Kenton_Duty/wIro05OMe2w_0000012 282.4 288.8 

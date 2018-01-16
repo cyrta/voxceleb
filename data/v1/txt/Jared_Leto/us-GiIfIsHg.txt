@@ -1,0 +1,12 @@
+POI: 			Jared_Leto 
+Youtube ID: 	us-GiIfIsHg 
+Video length: 	300.7 sec 
+Set (V): 		dev 
+ 
+Jared_Leto/us-GiIfIsHg_0000001 24.0 29.3 
+Jared_Leto/us-GiIfIsHg_0000002 34.4 39.6 
+Jared_Leto/us-GiIfIsHg_0000003 75.2 79.8 
+Jared_Leto/us-GiIfIsHg_0000004 85.6 108.8 
+Jared_Leto/us-GiIfIsHg_0000005 112.6 120.0 
+Jared_Leto/us-GiIfIsHg_0000006 158.9 163.6 
+Jared_Leto/us-GiIfIsHg_0000007 266.6 270.8 

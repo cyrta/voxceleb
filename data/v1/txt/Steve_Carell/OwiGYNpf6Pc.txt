@@ -1,0 +1,8 @@
+POI: 			Steve_Carell 
+Youtube ID: 	OwiGYNpf6Pc 
+Video length: 	240.5 sec 
+Set (V): 		dev 
+ 
+Steve_Carell/OwiGYNpf6Pc_0000001 34.1 40.6 
+Steve_Carell/OwiGYNpf6Pc_0000002 40.9 46.3 
+Steve_Carell/OwiGYNpf6Pc_0000003 36.6 40.6 

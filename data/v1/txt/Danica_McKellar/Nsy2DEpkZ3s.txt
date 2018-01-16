@@ -1,0 +1,8 @@
+POI: 			Danica_McKellar 
+Youtube ID: 	Nsy2DEpkZ3s 
+Video length: 	264.9 sec 
+Set (V): 		dev 
+ 
+Danica_McKellar/Nsy2DEpkZ3s_0000001 26.4 36.3 
+Danica_McKellar/Nsy2DEpkZ3s_0000002 219.3 226.8 
+Danica_McKellar/Nsy2DEpkZ3s_0000003 238.2 243.3 

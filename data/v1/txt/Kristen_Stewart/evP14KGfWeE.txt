@@ -1,0 +1,10 @@
+POI: 			Kristen_Stewart 
+Youtube ID: 	evP14KGfWeE 
+Video length: 	220.2 sec 
+Set (V): 		dev 
+ 
+Kristen_Stewart/evP14KGfWeE_0000001 106.5 111.0 
+Kristen_Stewart/evP14KGfWeE_0000002 118.4 127.3 
+Kristen_Stewart/evP14KGfWeE_0000003 142.2 162.6 
+Kristen_Stewart/evP14KGfWeE_0000004 173.2 179.8 
+Kristen_Stewart/evP14KGfWeE_0000005 187.7 191.9 

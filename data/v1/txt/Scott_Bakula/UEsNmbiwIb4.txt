@@ -1,0 +1,7 @@
+POI: 			Scott_Bakula 
+Youtube ID: 	UEsNmbiwIb4 
+Video length: 	417.0 sec 
+Set (V): 		dev 
+ 
+Scott_Bakula/UEsNmbiwIb4_0000001 296.0 312.4 
+Scott_Bakula/UEsNmbiwIb4_0000002 313.3 320.4 

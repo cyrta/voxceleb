@@ -1,0 +1,7 @@
+POI: 			Hal_Sparks 
+Youtube ID: 	GIV0WD3Ik3o 
+Video length: 	75.8 sec 
+Set (V): 		dev 
+ 
+Hal_Sparks/GIV0WD3Ik3o_0000001 49.4 54.1 
+Hal_Sparks/GIV0WD3Ik3o_0000002 54.8 63.8 

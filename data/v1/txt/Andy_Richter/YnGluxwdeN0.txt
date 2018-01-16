@@ -1,0 +1,8 @@
+POI: 			Andy_Richter 
+Youtube ID: 	YnGluxwdeN0 
+Video length: 	155.2 sec 
+Set (V): 		dev 
+ 
+Andy_Richter/YnGluxwdeN0_0000001 03.3 14.2 
+Andy_Richter/YnGluxwdeN0_0000002 23.0 27.5 
+Andy_Richter/YnGluxwdeN0_0000003 51.2 55.2 

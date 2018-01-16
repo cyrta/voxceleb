@@ -1,0 +1,9 @@
+POI: 			Ray_Winstone 
+Youtube ID: 	wFlDXGlS_1w 
+Video length: 	327.9 sec 
+Set (V): 		dev 
+ 
+Ray_Winstone/wFlDXGlS_1w_0000001 49.4 56.1 
+Ray_Winstone/wFlDXGlS_1w_0000002 94.7 105.0 
+Ray_Winstone/wFlDXGlS_1w_0000003 116.3 120.4 
+Ray_Winstone/wFlDXGlS_1w_0000004 148.0 154.5 

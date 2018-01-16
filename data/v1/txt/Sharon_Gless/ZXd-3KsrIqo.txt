@@ -1,0 +1,13 @@
+POI: 			Sharon_Gless 
+Youtube ID: 	ZXd-3KsrIqo 
+Video length: 	340.6 sec 
+Set (V): 		dev 
+ 
+Sharon_Gless/ZXd-3KsrIqo_0000001 01.3 15.2 
+Sharon_Gless/ZXd-3KsrIqo_0000002 31.0 44.3 
+Sharon_Gless/ZXd-3KsrIqo_0000003 72.3 82.0 
+Sharon_Gless/ZXd-3KsrIqo_0000004 143.6 147.9 
+Sharon_Gless/ZXd-3KsrIqo_0000005 153.3 169.1 
+Sharon_Gless/ZXd-3KsrIqo_0000006 171.8 176.9 
+Sharon_Gless/ZXd-3KsrIqo_0000007 177.8 185.4 
+Sharon_Gless/ZXd-3KsrIqo_0000008 187.0 196.5 

@@ -1,0 +1,7 @@
+POI: 			Luke_Newberry 
+Youtube ID: 	3kTqOibYiAg 
+Video length: 	194.5 sec 
+Set (V): 		dev 
+ 
+Luke_Newberry/3kTqOibYiAg_0000001 115.6 120.1 
+Luke_Newberry/3kTqOibYiAg_0000002 180.6 186.4 

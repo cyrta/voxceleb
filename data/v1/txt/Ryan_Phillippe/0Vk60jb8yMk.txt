@@ -1,0 +1,14 @@
+POI: 			Ryan_Phillippe 
+Youtube ID: 	0Vk60jb8yMk 
+Video length: 	231.5 sec 
+Set (V): 		dev 
+ 
+Ryan_Phillippe/0Vk60jb8yMk_0000001 26.0 41.2 
+Ryan_Phillippe/0Vk60jb8yMk_0000002 41.6 58.2 
+Ryan_Phillippe/0Vk60jb8yMk_0000003 68.0 75.4 
+Ryan_Phillippe/0Vk60jb8yMk_0000004 76.4 87.3 
+Ryan_Phillippe/0Vk60jb8yMk_0000005 94.0 100.2 
+Ryan_Phillippe/0Vk60jb8yMk_0000006 146.4 151.1 
+Ryan_Phillippe/0Vk60jb8yMk_0000007 151.9 166.3 
+Ryan_Phillippe/0Vk60jb8yMk_0000008 185.4 196.1 
+Ryan_Phillippe/0Vk60jb8yMk_0000009 200.0 207.2 

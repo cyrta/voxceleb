@@ -1,0 +1,7 @@
+POI: 			Blake_Shelton 
+Youtube ID: 	i-8EkdQedi0 
+Video length: 	188.1 sec 
+Set (V): 		dev 
+ 
+Blake_Shelton/i-8EkdQedi0_0000001 96.0 103.7 
+Blake_Shelton/i-8EkdQedi0_0000002 157.8 165.6 

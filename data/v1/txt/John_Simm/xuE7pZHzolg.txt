@@ -1,0 +1,10 @@
+POI: 			John_Simm 
+Youtube ID: 	xuE7pZHzolg 
+Video length: 	289.7 sec 
+Set (V): 		dev 
+ 
+John_Simm/xuE7pZHzolg_0000001 125.6 131.4 
+John_Simm/xuE7pZHzolg_0000002 168.6 172.8 
+John_Simm/xuE7pZHzolg_0000003 192.7 198.1 
+John_Simm/xuE7pZHzolg_0000004 212.4 223.1 
+John_Simm/xuE7pZHzolg_0000005 225.0 231.5 

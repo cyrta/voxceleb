@@ -1,0 +1,17 @@
+POI: 			Mandy_Patinkin 
+Youtube ID: 	fKOFjBSNTZM 
+Video length: 	276.0 sec 
+Set (V): 		dev 
+ 
+Mandy_Patinkin/fKOFjBSNTZM_0000001 10.5 15.9 
+Mandy_Patinkin/fKOFjBSNTZM_0000002 26.8 32.1 
+Mandy_Patinkin/fKOFjBSNTZM_0000003 33.9 55.9 
+Mandy_Patinkin/fKOFjBSNTZM_0000004 49.4 65.0 
+Mandy_Patinkin/fKOFjBSNTZM_0000005 68.4 74.2 
+Mandy_Patinkin/fKOFjBSNTZM_0000006 79.1 100.2 
+Mandy_Patinkin/fKOFjBSNTZM_0000007 115.8 141.2 
+Mandy_Patinkin/fKOFjBSNTZM_0000008 143.1 177.2 
+Mandy_Patinkin/fKOFjBSNTZM_0000009 180.8 190.2 
+Mandy_Patinkin/fKOFjBSNTZM_0000010 190.6 195.4 
+Mandy_Patinkin/fKOFjBSNTZM_0000011 202.8 224.7 
+Mandy_Patinkin/fKOFjBSNTZM_0000012 237.2 256.2 

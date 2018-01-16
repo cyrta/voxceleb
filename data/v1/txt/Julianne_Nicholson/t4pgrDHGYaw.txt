@@ -1,0 +1,14 @@
+POI: 			Julianne_Nicholson 
+Youtube ID: 	t4pgrDHGYaw 
+Video length: 	571.8 sec 
+Set (V): 		dev 
+ 
+Julianne_Nicholson/t4pgrDHGYaw_0000001 182.7 193.4 
+Julianne_Nicholson/t4pgrDHGYaw_0000002 327.9 343.7 
+Julianne_Nicholson/t4pgrDHGYaw_0000003 438.6 443.8 
+Julianne_Nicholson/t4pgrDHGYaw_0000004 448.7 455.9 
+Julianne_Nicholson/t4pgrDHGYaw_0000005 458.0 462.2 
+Julianne_Nicholson/t4pgrDHGYaw_0000006 464.8 469.7 
+Julianne_Nicholson/t4pgrDHGYaw_0000007 482.8 489.2 
+Julianne_Nicholson/t4pgrDHGYaw_0000008 491.7 507.2 
+Julianne_Nicholson/t4pgrDHGYaw_0000009 563.7 568.8 

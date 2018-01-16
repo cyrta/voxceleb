@@ -1,0 +1,10 @@
+POI: 			Katherine_Jenkins 
+Youtube ID: 	QWRL2QVHVDU 
+Video length: 	648.7 sec 
+Set (V): 		dev 
+ 
+Katherine_Jenkins/QWRL2QVHVDU_0000001 143.6 147.7 
+Katherine_Jenkins/QWRL2QVHVDU_0000002 279.4 289.4 
+Katherine_Jenkins/QWRL2QVHVDU_0000003 364.2 371.7 
+Katherine_Jenkins/QWRL2QVHVDU_0000004 408.2 413.8 
+Katherine_Jenkins/QWRL2QVHVDU_0000005 552.0 560.0 

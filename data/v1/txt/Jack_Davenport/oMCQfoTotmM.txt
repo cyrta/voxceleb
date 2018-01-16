@@ -1,0 +1,10 @@
+POI: 			Jack_Davenport 
+Youtube ID: 	oMCQfoTotmM 
+Video length: 	142.4 sec 
+Set (V): 		dev 
+ 
+Jack_Davenport/oMCQfoTotmM_0000001 02.4 15.4 
+Jack_Davenport/oMCQfoTotmM_0000002 35.2 40.2 
+Jack_Davenport/oMCQfoTotmM_0000003 40.7 59.0 
+Jack_Davenport/oMCQfoTotmM_0000004 71.2 98.2 
+Jack_Davenport/oMCQfoTotmM_0000005 114.2 137.8 

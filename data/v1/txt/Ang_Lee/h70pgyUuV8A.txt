@@ -1,0 +1,13 @@
+POI: 			Ang_Lee 
+Youtube ID: 	h70pgyUuV8A 
+Video length: 	242.0 sec 
+Set (V): 		dev 
+ 
+Ang_Lee/h70pgyUuV8A_0000001 27.1 32.8 
+Ang_Lee/h70pgyUuV8A_0000002 35.4 40.2 
+Ang_Lee/h70pgyUuV8A_0000003 44.0 50.8 
+Ang_Lee/h70pgyUuV8A_0000004 88.4 92.8 
+Ang_Lee/h70pgyUuV8A_0000005 123.4 129.1 
+Ang_Lee/h70pgyUuV8A_0000006 133.4 137.7 
+Ang_Lee/h70pgyUuV8A_0000007 198.0 204.4 
+Ang_Lee/h70pgyUuV8A_0000008 211.1 220.4 

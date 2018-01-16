@@ -1,0 +1,20 @@
+POI: 			Tupac_Shakur 
+Youtube ID: 	XL3B5tHpj1Y 
+Video length: 	282.9 sec 
+Set (V): 		dev 
+ 
+Tupac_Shakur/XL3B5tHpj1Y_0000001 04.1 08.7 
+Tupac_Shakur/XL3B5tHpj1Y_0000002 12.4 21.0 
+Tupac_Shakur/XL3B5tHpj1Y_0000003 30.6 35.8 
+Tupac_Shakur/XL3B5tHpj1Y_0000004 41.2 63.6 
+Tupac_Shakur/XL3B5tHpj1Y_0000005 102.8 114.9 
+Tupac_Shakur/XL3B5tHpj1Y_0000006 118.2 123.2 
+Tupac_Shakur/XL3B5tHpj1Y_0000007 126.8 132.4 
+Tupac_Shakur/XL3B5tHpj1Y_0000008 141.2 145.3 
+Tupac_Shakur/XL3B5tHpj1Y_0000009 149.6 157.9 
+Tupac_Shakur/XL3B5tHpj1Y_0000010 146.8 151.2 
+Tupac_Shakur/XL3B5tHpj1Y_0000011 164.6 170.6 
+Tupac_Shakur/XL3B5tHpj1Y_0000012 175.9 182.8 
+Tupac_Shakur/XL3B5tHpj1Y_0000013 229.5 234.0 
+Tupac_Shakur/XL3B5tHpj1Y_0000014 262.0 268.5 
+Tupac_Shakur/XL3B5tHpj1Y_0000015 270.2 279.5 

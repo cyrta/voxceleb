@@ -1,0 +1,7 @@
+POI: 			Ryan_McPartlin 
+Youtube ID: 	bpz70fEegdA 
+Video length: 	235.4 sec 
+Set (V): 		dev 
+ 
+Ryan_McPartlin/bpz70fEegdA_0000001 138.6 152.2 
+Ryan_McPartlin/bpz70fEegdA_0000002 152.4 157.4 

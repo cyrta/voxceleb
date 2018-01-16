@@ -1,0 +1,20 @@
+POI: 			Loan_Chabanol 
+Youtube ID: 	V6gvdl0TJUM 
+Video length: 	246.4 sec 
+Set (V): 		dev 
+ 
+Loan_Chabanol/V6gvdl0TJUM_0000001 12.8 22.2 
+Loan_Chabanol/V6gvdl0TJUM_0000002 25.2 38.3 
+Loan_Chabanol/V6gvdl0TJUM_0000003 94.8 103.3 
+Loan_Chabanol/V6gvdl0TJUM_0000004 109.5 113.8 
+Loan_Chabanol/V6gvdl0TJUM_0000005 117.4 123.9 
+Loan_Chabanol/V6gvdl0TJUM_0000006 148.9 152.8 
+Loan_Chabanol/V6gvdl0TJUM_0000007 198.0 202.6 
+Loan_Chabanol/V6gvdl0TJUM_0000008 216.2 222.9 
+Loan_Chabanol/V6gvdl0TJUM_0000009 223.6 228.2 
+Loan_Chabanol/V6gvdl0TJUM_0000010 237.8 242.9 
+Loan_Chabanol/V6gvdl0TJUM_0000011 163.3 170.1 
+Loan_Chabanol/V6gvdl0TJUM_0000012 184.2 189.2 
+Loan_Chabanol/V6gvdl0TJUM_0000013 189.4 196.3 
+Loan_Chabanol/V6gvdl0TJUM_0000014 196.4 202.8 
+Loan_Chabanol/V6gvdl0TJUM_0000015 216.2 221.1 

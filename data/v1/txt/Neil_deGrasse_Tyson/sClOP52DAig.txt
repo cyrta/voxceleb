@@ -1,0 +1,11 @@
+POI: 			Neil_deGrasse_Tyson 
+Youtube ID: 	sClOP52DAig 
+Video length: 	549.1 sec 
+Set (V): 		dev 
+ 
+Neil_deGrasse_Tyson/sClOP52DAig_0000001 267.1 271.4 
+Neil_deGrasse_Tyson/sClOP52DAig_0000002 271.7 279.7 
+Neil_deGrasse_Tyson/sClOP52DAig_0000003 293.6 299.6 
+Neil_deGrasse_Tyson/sClOP52DAig_0000004 343.0 353.5 
+Neil_deGrasse_Tyson/sClOP52DAig_0000005 519.0 523.4 
+Neil_deGrasse_Tyson/sClOP52DAig_0000006 536.0 541.2 

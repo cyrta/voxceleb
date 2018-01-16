@@ -1,0 +1,24 @@
+POI: 			Ben_Feldman 
+Youtube ID: 	vRHEOI__VrI 
+Video length: 	269.6 sec 
+Set (V): 		dev 
+ 
+Ben_Feldman/vRHEOI__VrI_0000001 01.4 28.2 
+Ben_Feldman/vRHEOI__VrI_0000002 31.3 46.0 
+Ben_Feldman/vRHEOI__VrI_0000003 48.0 70.0 
+Ben_Feldman/vRHEOI__VrI_0000004 70.2 77.9 
+Ben_Feldman/vRHEOI__VrI_0000005 81.2 96.6 
+Ben_Feldman/vRHEOI__VrI_0000006 97.0 114.0 
+Ben_Feldman/vRHEOI__VrI_0000007 104.0 108.4 
+Ben_Feldman/vRHEOI__VrI_0000008 115.9 121.8 
+Ben_Feldman/vRHEOI__VrI_0000009 124.7 129.7 
+Ben_Feldman/vRHEOI__VrI_0000010 149.1 159.3 
+Ben_Feldman/vRHEOI__VrI_0000011 159.8 168.3 
+Ben_Feldman/vRHEOI__VrI_0000012 176.0 183.1 
+Ben_Feldman/vRHEOI__VrI_0000013 185.0 198.6 
+Ben_Feldman/vRHEOI__VrI_0000014 208.2 224.3 
+Ben_Feldman/vRHEOI__VrI_0000015 236.4 246.3 
+Ben_Feldman/vRHEOI__VrI_0000016 207.8 226.5 
+Ben_Feldman/vRHEOI__VrI_0000017 233.5 239.6 
+Ben_Feldman/vRHEOI__VrI_0000018 250.4 260.4 
+Ben_Feldman/vRHEOI__VrI_0000019 260.8 267.3 

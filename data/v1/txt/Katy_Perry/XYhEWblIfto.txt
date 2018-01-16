@@ -1,0 +1,9 @@
+POI: 			Katy_Perry 
+Youtube ID: 	XYhEWblIfto 
+Video length: 	349.2 sec 
+Set (V): 		dev 
+ 
+Katy_Perry/XYhEWblIfto_0000001 134.9 141.4 
+Katy_Perry/XYhEWblIfto_0000002 146.2 151.4 
+Katy_Perry/XYhEWblIfto_0000003 159.0 163.2 
+Katy_Perry/XYhEWblIfto_0000004 164.1 172.2 

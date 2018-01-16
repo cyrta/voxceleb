@@ -1,0 +1,14 @@
+POI: 			La_La_Anthony 
+Youtube ID: 	cOsu1tPTdtc 
+Video length: 	256.9 sec 
+Set (V): 		dev 
+ 
+La_La_Anthony/cOsu1tPTdtc_0000001 30.3 37.9 
+La_La_Anthony/cOsu1tPTdtc_0000002 52.0 60.4 
+La_La_Anthony/cOsu1tPTdtc_0000003 70.0 84.7 
+La_La_Anthony/cOsu1tPTdtc_0000004 110.4 121.9 
+La_La_Anthony/cOsu1tPTdtc_0000005 133.9 144.1 
+La_La_Anthony/cOsu1tPTdtc_0000006 141.4 146.3 
+La_La_Anthony/cOsu1tPTdtc_0000007 166.2 180.0 
+La_La_Anthony/cOsu1tPTdtc_0000008 200.0 207.3 
+La_La_Anthony/cOsu1tPTdtc_0000009 214.4 221.8 

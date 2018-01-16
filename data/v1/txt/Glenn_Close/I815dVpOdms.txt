@@ -1,0 +1,45 @@
+POI: 			Glenn_Close 
+Youtube ID: 	I815dVpOdms 
+Video length: 	1892.3 sec 
+Set (V): 		dev 
+ 
+Glenn_Close/I815dVpOdms_0000001 19.3 24.2 
+Glenn_Close/I815dVpOdms_0000002 36.9 53.0 
+Glenn_Close/I815dVpOdms_0000003 56.2 61.3 
+Glenn_Close/I815dVpOdms_0000004 61.5 84.3 
+Glenn_Close/I815dVpOdms_0000005 90.4 97.9 
+Glenn_Close/I815dVpOdms_0000006 111.7 116.4 
+Glenn_Close/I815dVpOdms_0000007 116.6 122.4 
+Glenn_Close/I815dVpOdms_0000008 161.2 168.6 
+Glenn_Close/I815dVpOdms_0000009 169.4 174.1 
+Glenn_Close/I815dVpOdms_0000010 176.9 182.7 
+Glenn_Close/I815dVpOdms_0000011 191.0 205.0 
+Glenn_Close/I815dVpOdms_0000012 211.2 216.1 
+Glenn_Close/I815dVpOdms_0000013 217.6 223.2 
+Glenn_Close/I815dVpOdms_0000014 303.6 307.8 
+Glenn_Close/I815dVpOdms_0000015 434.9 441.0 
+Glenn_Close/I815dVpOdms_0000016 464.5 468.7 
+Glenn_Close/I815dVpOdms_0000017 607.0 629.3 
+Glenn_Close/I815dVpOdms_0000018 774.7 778.7 
+Glenn_Close/I815dVpOdms_0000019 778.9 783.7 
+Glenn_Close/I815dVpOdms_0000020 817.5 822.8 
+Glenn_Close/I815dVpOdms_0000021 825.0 831.6 
+Glenn_Close/I815dVpOdms_0000022 837.4 846.1 
+Glenn_Close/I815dVpOdms_0000023 845.4 849.8 
+Glenn_Close/I815dVpOdms_0000024 898.3 902.8 
+Glenn_Close/I815dVpOdms_0000025 909.2 915.6 
+Glenn_Close/I815dVpOdms_0000026 946.2 956.0 
+Glenn_Close/I815dVpOdms_0000027 967.4 978.4 
+Glenn_Close/I815dVpOdms_0000028 980.2 988.1 
+Glenn_Close/I815dVpOdms_0000029 1005.7 1011.4 
+Glenn_Close/I815dVpOdms_0000030 990.7 999.2 
+Glenn_Close/I815dVpOdms_0000031 1005.7 1011.3 
+Glenn_Close/I815dVpOdms_0000032 1278.2 1283.1 
+Glenn_Close/I815dVpOdms_0000033 1322.3 1327.2 
+Glenn_Close/I815dVpOdms_0000034 1380.0 1384.3 
+Glenn_Close/I815dVpOdms_0000035 1412.4 1419.2 
+Glenn_Close/I815dVpOdms_0000036 1436.3 1442.6 
+Glenn_Close/I815dVpOdms_0000037 1492.4 1498.7 
+Glenn_Close/I815dVpOdms_0000038 1630.2 1634.4 
+Glenn_Close/I815dVpOdms_0000039 1651.0 1655.8 
+Glenn_Close/I815dVpOdms_0000040 1690.6 1701.8 

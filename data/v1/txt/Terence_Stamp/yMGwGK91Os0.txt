@@ -1,0 +1,9 @@
+POI: 			Terence_Stamp 
+Youtube ID: 	yMGwGK91Os0 
+Video length: 	138.0 sec 
+Set (V): 		dev 
+ 
+Terence_Stamp/yMGwGK91Os0_0000001 54.3 63.6 
+Terence_Stamp/yMGwGK91Os0_0000002 68.7 76.6 
+Terence_Stamp/yMGwGK91Os0_0000003 119.4 125.2 
+Terence_Stamp/yMGwGK91Os0_0000004 126.5 130.5 

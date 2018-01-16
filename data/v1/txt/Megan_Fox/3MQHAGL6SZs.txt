@@ -1,0 +1,8 @@
+POI: 			Megan_Fox 
+Youtube ID: 	3MQHAGL6SZs 
+Video length: 	107.5 sec 
+Set (V): 		dev 
+ 
+Megan_Fox/3MQHAGL6SZs_0000001 12.9 17.2 
+Megan_Fox/3MQHAGL6SZs_0000002 22.2 35.8 
+Megan_Fox/3MQHAGL6SZs_0000003 37.6 41.8 

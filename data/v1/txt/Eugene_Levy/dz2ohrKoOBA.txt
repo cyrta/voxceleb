@@ -1,0 +1,10 @@
+POI: 			Eugene_Levy 
+Youtube ID: 	dz2ohrKoOBA 
+Video length: 	527.3 sec 
+Set (V): 		test 
+ 
+Eugene_Levy/dz2ohrKoOBA_0000001 77.0 83.1 
+Eugene_Levy/dz2ohrKoOBA_0000002 85.7 91.4 
+Eugene_Levy/dz2ohrKoOBA_0000003 130.2 134.4 
+Eugene_Levy/dz2ohrKoOBA_0000004 220.9 225.9 
+Eugene_Levy/dz2ohrKoOBA_0000005 396.0 402.5 

@@ -1,0 +1,9 @@
+POI: 			Shailene_Woodley 
+Youtube ID: 	11wavAHn4cs 
+Video length: 	371.9 sec 
+Set (V): 		dev 
+ 
+Shailene_Woodley/11wavAHn4cs_0000001 135.9 148.0 
+Shailene_Woodley/11wavAHn4cs_0000002 149.0 158.3 
+Shailene_Woodley/11wavAHn4cs_0000003 168.3 173.0 
+Shailene_Woodley/11wavAHn4cs_0000004 173.1 185.2 

@@ -1,0 +1,12 @@
+POI: 			Amitabh_Bachchan 
+Youtube ID: 	aKZw-lOpdT0 
+Video length: 	494.0 sec 
+Set (V): 		dev 
+ 
+Amitabh_Bachchan/aKZw-lOpdT0_0000001 261.2 265.4 
+Amitabh_Bachchan/aKZw-lOpdT0_0000002 285.0 290.5 
+Amitabh_Bachchan/aKZw-lOpdT0_0000003 308.0 317.8 
+Amitabh_Bachchan/aKZw-lOpdT0_0000004 334.1 340.9 
+Amitabh_Bachchan/aKZw-lOpdT0_0000005 347.4 352.5 
+Amitabh_Bachchan/aKZw-lOpdT0_0000006 392.3 396.3 
+Amitabh_Bachchan/aKZw-lOpdT0_0000007 409.7 414.4 

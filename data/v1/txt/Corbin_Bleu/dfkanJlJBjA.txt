@@ -1,0 +1,8 @@
+POI: 			Corbin_Bleu 
+Youtube ID: 	dfkanJlJBjA 
+Video length: 	178.6 sec 
+Set (V): 		dev 
+ 
+Corbin_Bleu/dfkanJlJBjA_0000001 46.4 59.0 
+Corbin_Bleu/dfkanJlJBjA_0000002 106.5 112.5 
+Corbin_Bleu/dfkanJlJBjA_0000003 150.2 157.4 

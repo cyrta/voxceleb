@@ -1,0 +1,18 @@
+POI: 			Bruce_Boxleitner 
+Youtube ID: 	K7ySNaja0ZM 
+Video length: 	389.8 sec 
+Set (V): 		dev 
+ 
+Bruce_Boxleitner/K7ySNaja0ZM_0000001 54.8 59.8 
+Bruce_Boxleitner/K7ySNaja0ZM_0000002 67.8 71.9 
+Bruce_Boxleitner/K7ySNaja0ZM_0000003 76.7 81.6 
+Bruce_Boxleitner/K7ySNaja0ZM_0000004 84.6 88.6 
+Bruce_Boxleitner/K7ySNaja0ZM_0000005 110.6 114.7 
+Bruce_Boxleitner/K7ySNaja0ZM_0000006 115.3 120.5 
+Bruce_Boxleitner/K7ySNaja0ZM_0000007 134.0 138.0 
+Bruce_Boxleitner/K7ySNaja0ZM_0000008 155.2 160.1 
+Bruce_Boxleitner/K7ySNaja0ZM_0000009 178.4 183.9 
+Bruce_Boxleitner/K7ySNaja0ZM_0000010 254.8 263.8 
+Bruce_Boxleitner/K7ySNaja0ZM_0000011 289.0 295.0 
+Bruce_Boxleitner/K7ySNaja0ZM_0000012 340.8 345.5 
+Bruce_Boxleitner/K7ySNaja0ZM_0000013 372.7 377.1 

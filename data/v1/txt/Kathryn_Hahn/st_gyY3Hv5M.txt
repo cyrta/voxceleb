@@ -1,0 +1,10 @@
+POI: 			Kathryn_Hahn 
+Youtube ID: 	st_gyY3Hv5M 
+Video length: 	206.9 sec 
+Set (V): 		dev 
+ 
+Kathryn_Hahn/st_gyY3Hv5M_0000001 70.7 75.4 
+Kathryn_Hahn/st_gyY3Hv5M_0000002 106.8 112.1 
+Kathryn_Hahn/st_gyY3Hv5M_0000003 114.2 118.4 
+Kathryn_Hahn/st_gyY3Hv5M_0000004 133.8 140.0 
+Kathryn_Hahn/st_gyY3Hv5M_0000005 140.8 149.8 

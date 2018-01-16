@@ -1,0 +1,10 @@
+POI: 			Natalie_Portman 
+Youtube ID: 	XeoQGm8mGf8 
+Video length: 	324.3 sec 
+Set (V): 		dev 
+ 
+Natalie_Portman/XeoQGm8mGf8_0000001 25.8 29.9 
+Natalie_Portman/XeoQGm8mGf8_0000002 136.7 140.8 
+Natalie_Portman/XeoQGm8mGf8_0000003 193.8 197.8 
+Natalie_Portman/XeoQGm8mGf8_0000004 224.5 229.0 
+Natalie_Portman/XeoQGm8mGf8_0000005 301.1 305.0 

@@ -1,0 +1,10 @@
+POI: 			Fiona_Shaw 
+Youtube ID: 	YyAB96nLVJ8 
+Video length: 	150.9 sec 
+Set (V): 		dev 
+ 
+Fiona_Shaw/YyAB96nLVJ8_0000001 17.4 26.3 
+Fiona_Shaw/YyAB96nLVJ8_0000002 50.2 55.9 
+Fiona_Shaw/YyAB96nLVJ8_0000003 65.0 83.8 
+Fiona_Shaw/YyAB96nLVJ8_0000004 90.1 110.8 
+Fiona_Shaw/YyAB96nLVJ8_0000005 113.0 117.1 

@@ -1,0 +1,27 @@
+POI: 			John_Turturro 
+Youtube ID: 	n4G9apz-Rds 
+Video length: 	495.8 sec 
+Set (V): 		dev 
+ 
+John_Turturro/n4G9apz-Rds_0000001 102.4 108.8 
+John_Turturro/n4G9apz-Rds_0000002 109.6 113.9 
+John_Turturro/n4G9apz-Rds_0000003 147.0 154.2 
+John_Turturro/n4G9apz-Rds_0000004 151.0 166.6 
+John_Turturro/n4G9apz-Rds_0000005 182.7 187.4 
+John_Turturro/n4G9apz-Rds_0000006 188.1 194.4 
+John_Turturro/n4G9apz-Rds_0000007 195.2 199.2 
+John_Turturro/n4G9apz-Rds_0000008 210.7 222.9 
+John_Turturro/n4G9apz-Rds_0000009 269.5 274.8 
+John_Turturro/n4G9apz-Rds_0000010 268.8 277.4 
+John_Turturro/n4G9apz-Rds_0000011 283.0 291.2 
+John_Turturro/n4G9apz-Rds_0000012 299.1 306.1 
+John_Turturro/n4G9apz-Rds_0000013 310.1 320.8 
+John_Turturro/n4G9apz-Rds_0000014 329.1 334.0 
+John_Turturro/n4G9apz-Rds_0000015 371.2 375.8 
+John_Turturro/n4G9apz-Rds_0000016 377.9 385.4 
+John_Turturro/n4G9apz-Rds_0000017 391.4 404.4 
+John_Turturro/n4G9apz-Rds_0000018 412.0 426.3 
+John_Turturro/n4G9apz-Rds_0000019 426.6 435.2 
+John_Turturro/n4G9apz-Rds_0000020 436.5 453.7 
+John_Turturro/n4G9apz-Rds_0000021 460.5 465.8 
+John_Turturro/n4G9apz-Rds_0000022 466.4 480.6 

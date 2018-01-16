@@ -1,0 +1,8 @@
+POI: 			Brett_Davern 
+Youtube ID: 	jt5KpM6eAeA 
+Video length: 	866.7 sec 
+Set (V): 		dev 
+ 
+Brett_Davern/jt5KpM6eAeA_0000001 397.5 402.8 
+Brett_Davern/jt5KpM6eAeA_0000002 617.3 623.0 
+Brett_Davern/jt5KpM6eAeA_0000003 691.6 698.0 

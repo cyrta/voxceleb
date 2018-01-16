@@ -1,0 +1,7 @@
+POI: 			Poppy_Montgomery 
+Youtube ID: 	t8eY8N2bcIU 
+Video length: 	299.3 sec 
+Set (V): 		dev 
+ 
+Poppy_Montgomery/t8eY8N2bcIU_0000001 28.2 32.3 
+Poppy_Montgomery/t8eY8N2bcIU_0000002 269.3 273.5 

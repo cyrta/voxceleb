@@ -1,0 +1,15 @@
+POI: 			Kim_Raver 
+Youtube ID: 	dzLfm4YxN9M 
+Video length: 	371.7 sec 
+Set (V): 		dev 
+ 
+Kim_Raver/dzLfm4YxN9M_0000001 87.2 92.4 
+Kim_Raver/dzLfm4YxN9M_0000002 217.4 226.6 
+Kim_Raver/dzLfm4YxN9M_0000003 226.9 233.2 
+Kim_Raver/dzLfm4YxN9M_0000004 239.2 247.0 
+Kim_Raver/dzLfm4YxN9M_0000005 247.0 253.3 
+Kim_Raver/dzLfm4YxN9M_0000006 254.0 262.8 
+Kim_Raver/dzLfm4YxN9M_0000007 268.0 275.8 
+Kim_Raver/dzLfm4YxN9M_0000008 276.1 280.5 
+Kim_Raver/dzLfm4YxN9M_0000009 300.5 304.9 
+Kim_Raver/dzLfm4YxN9M_0000010 330.6 334.5 

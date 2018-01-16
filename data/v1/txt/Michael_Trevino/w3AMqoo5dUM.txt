@@ -1,0 +1,10 @@
+POI: 			Michael_Trevino 
+Youtube ID: 	w3AMqoo5dUM 
+Video length: 	279.9 sec 
+Set (V): 		dev 
+ 
+Michael_Trevino/w3AMqoo5dUM_0000001 22.1 26.8 
+Michael_Trevino/w3AMqoo5dUM_0000002 58.3 62.4 
+Michael_Trevino/w3AMqoo5dUM_0000003 62.5 70.3 
+Michael_Trevino/w3AMqoo5dUM_0000004 115.8 121.8 
+Michael_Trevino/w3AMqoo5dUM_0000005 123.8 129.7 

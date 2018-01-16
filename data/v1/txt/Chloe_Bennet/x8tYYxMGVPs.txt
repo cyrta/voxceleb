@@ -1,0 +1,10 @@
+POI: 			Chloe_Bennet 
+Youtube ID: 	x8tYYxMGVPs 
+Video length: 	1163.6 sec 
+Set (V): 		dev 
+ 
+Chloe_Bennet/x8tYYxMGVPs_0000001 338.9 345.6 
+Chloe_Bennet/x8tYYxMGVPs_0000002 360.2 366.9 
+Chloe_Bennet/x8tYYxMGVPs_0000003 590.5 597.7 
+Chloe_Bennet/x8tYYxMGVPs_0000004 618.0 623.2 
+Chloe_Bennet/x8tYYxMGVPs_0000005 628.0 632.2 

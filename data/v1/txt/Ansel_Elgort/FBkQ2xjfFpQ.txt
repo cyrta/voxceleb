@@ -1,0 +1,16 @@
+POI: 			Ansel_Elgort 
+Youtube ID: 	FBkQ2xjfFpQ 
+Video length: 	350.7 sec 
+Set (V): 		dev 
+ 
+Ansel_Elgort/FBkQ2xjfFpQ_0000001 56.6 72.7 
+Ansel_Elgort/FBkQ2xjfFpQ_0000002 74.8 79.1 
+Ansel_Elgort/FBkQ2xjfFpQ_0000003 109.0 115.2 
+Ansel_Elgort/FBkQ2xjfFpQ_0000004 123.4 127.7 
+Ansel_Elgort/FBkQ2xjfFpQ_0000005 218.0 222.6 
+Ansel_Elgort/FBkQ2xjfFpQ_0000006 260.2 267.4 
+Ansel_Elgort/FBkQ2xjfFpQ_0000007 271.2 287.6 
+Ansel_Elgort/FBkQ2xjfFpQ_0000008 289.6 296.6 
+Ansel_Elgort/FBkQ2xjfFpQ_0000009 316.4 321.4 
+Ansel_Elgort/FBkQ2xjfFpQ_0000010 331.2 338.9 
+Ansel_Elgort/FBkQ2xjfFpQ_0000011 340.1 346.8 

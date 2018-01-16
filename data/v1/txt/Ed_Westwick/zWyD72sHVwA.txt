@@ -1,0 +1,13 @@
+POI: 			Ed_Westwick 
+Youtube ID: 	zWyD72sHVwA 
+Video length: 	126.6 sec 
+Set (V): 		test 
+ 
+Ed_Westwick/zWyD72sHVwA_0000001 01.2 12.2 
+Ed_Westwick/zWyD72sHVwA_0000002 17.3 23.8 
+Ed_Westwick/zWyD72sHVwA_0000003 42.0 47.4 
+Ed_Westwick/zWyD72sHVwA_0000004 68.4 74.3 
+Ed_Westwick/zWyD72sHVwA_0000005 81.2 86.8 
+Ed_Westwick/zWyD72sHVwA_0000006 87.0 98.0 
+Ed_Westwick/zWyD72sHVwA_0000007 104.3 108.7 
+Ed_Westwick/zWyD72sHVwA_0000008 111.0 117.8 

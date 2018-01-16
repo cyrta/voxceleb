@@ -1,0 +1,13 @@
+POI: 			Sienna_Guillory 
+Youtube ID: 	HYKhm9ulxSU 
+Video length: 	172.5 sec 
+Set (V): 		dev 
+ 
+Sienna_Guillory/HYKhm9ulxSU_0000001 08.2 12.2 
+Sienna_Guillory/HYKhm9ulxSU_0000002 12.9 17.2 
+Sienna_Guillory/HYKhm9ulxSU_0000003 35.4 40.7 
+Sienna_Guillory/HYKhm9ulxSU_0000004 64.2 70.5 
+Sienna_Guillory/HYKhm9ulxSU_0000005 81.5 92.2 
+Sienna_Guillory/HYKhm9ulxSU_0000006 93.1 101.2 
+Sienna_Guillory/HYKhm9ulxSU_0000007 122.5 133.2 
+Sienna_Guillory/HYKhm9ulxSU_0000008 143.1 154.3 

@@ -1,0 +1,27 @@
+POI: 			Jeremy_Irvine 
+Youtube ID: 	i_fKmfqMz2g 
+Video length: 	362.1 sec 
+Set (V): 		dev 
+ 
+Jeremy_Irvine/i_fKmfqMz2g_0000001 14.8 20.6 
+Jeremy_Irvine/i_fKmfqMz2g_0000002 24.6 32.8 
+Jeremy_Irvine/i_fKmfqMz2g_0000003 37.7 42.6 
+Jeremy_Irvine/i_fKmfqMz2g_0000004 44.0 64.7 
+Jeremy_Irvine/i_fKmfqMz2g_0000005 69.5 73.4 
+Jeremy_Irvine/i_fKmfqMz2g_0000006 76.3 92.5 
+Jeremy_Irvine/i_fKmfqMz2g_0000007 92.8 116.0 
+Jeremy_Irvine/i_fKmfqMz2g_0000008 128.1 133.2 
+Jeremy_Irvine/i_fKmfqMz2g_0000009 133.4 141.7 
+Jeremy_Irvine/i_fKmfqMz2g_0000010 142.9 149.9 
+Jeremy_Irvine/i_fKmfqMz2g_0000011 154.1 173.3 
+Jeremy_Irvine/i_fKmfqMz2g_0000012 173.7 178.8 
+Jeremy_Irvine/i_fKmfqMz2g_0000013 189.8 196.9 
+Jeremy_Irvine/i_fKmfqMz2g_0000014 200.6 212.4 
+Jeremy_Irvine/i_fKmfqMz2g_0000015 215.8 223.1 
+Jeremy_Irvine/i_fKmfqMz2g_0000016 226.3 237.6 
+Jeremy_Irvine/i_fKmfqMz2g_0000017 256.4 262.6 
+Jeremy_Irvine/i_fKmfqMz2g_0000018 264.5 271.0 
+Jeremy_Irvine/i_fKmfqMz2g_0000019 279.0 288.0 
+Jeremy_Irvine/i_fKmfqMz2g_0000020 288.2 302.0 
+Jeremy_Irvine/i_fKmfqMz2g_0000021 302.4 306.9 
+Jeremy_Irvine/i_fKmfqMz2g_0000022 329.4 336.0 

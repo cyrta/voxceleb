@@ -1,0 +1,10 @@
+POI: 			Quentin_Tarantino 
+Youtube ID: 	ptXHuzYvc18 
+Video length: 	886.1 sec 
+Set (V): 		dev 
+ 
+Quentin_Tarantino/ptXHuzYvc18_0000001 148.1 152.4 
+Quentin_Tarantino/ptXHuzYvc18_0000002 157.9 162.6 
+Quentin_Tarantino/ptXHuzYvc18_0000003 275.6 282.3 
+Quentin_Tarantino/ptXHuzYvc18_0000004 456.3 460.6 
+Quentin_Tarantino/ptXHuzYvc18_0000005 576.1 580.5 

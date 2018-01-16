@@ -1,0 +1,8 @@
+POI: 			John_Oliver 
+Youtube ID: 	yzGzB-yYKcc 
+Video length: 	177.9 sec 
+Set (V): 		dev 
+ 
+John_Oliver/yzGzB-yYKcc_0000001 05.1 12.5 
+John_Oliver/yzGzB-yYKcc_0000002 39.3 44.9 
+John_Oliver/yzGzB-yYKcc_0000003 114.8 119.4 

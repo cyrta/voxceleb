@@ -1,0 +1,11 @@
+POI: 			Jensen_Ackles 
+Youtube ID: 	DKmPBVdnmOY 
+Video length: 	412.6 sec 
+Set (V): 		dev 
+ 
+Jensen_Ackles/DKmPBVdnmOY_0000001 194.6 204.4 
+Jensen_Ackles/DKmPBVdnmOY_0000002 207.4 215.5 
+Jensen_Ackles/DKmPBVdnmOY_0000003 231.8 238.5 
+Jensen_Ackles/DKmPBVdnmOY_0000004 244.8 250.4 
+Jensen_Ackles/DKmPBVdnmOY_0000005 365.2 370.4 
+Jensen_Ackles/DKmPBVdnmOY_0000006 377.2 381.1 

@@ -1,0 +1,20 @@
+POI: 			Greer_Garson 
+Youtube ID: 	L0y-9ignSgs 
+Video length: 	382.8 sec 
+Set (V): 		dev 
+ 
+Greer_Garson/L0y-9ignSgs_0000001 00.7 06.2 
+Greer_Garson/L0y-9ignSgs_0000002 19.3 24.0 
+Greer_Garson/L0y-9ignSgs_0000003 29.4 33.5 
+Greer_Garson/L0y-9ignSgs_0000004 68.6 79.0 
+Greer_Garson/L0y-9ignSgs_0000005 79.5 97.2 
+Greer_Garson/L0y-9ignSgs_0000006 113.4 122.6 
+Greer_Garson/L0y-9ignSgs_0000007 135.3 151.6 
+Greer_Garson/L0y-9ignSgs_0000008 217.0 223.8 
+Greer_Garson/L0y-9ignSgs_0000009 229.2 235.3 
+Greer_Garson/L0y-9ignSgs_0000010 253.5 268.4 
+Greer_Garson/L0y-9ignSgs_0000011 317.3 326.1 
+Greer_Garson/L0y-9ignSgs_0000012 341.4 350.6 
+Greer_Garson/L0y-9ignSgs_0000013 357.6 366.2 
+Greer_Garson/L0y-9ignSgs_0000014 366.8 374.0 
+Greer_Garson/L0y-9ignSgs_0000015 374.9 379.0 

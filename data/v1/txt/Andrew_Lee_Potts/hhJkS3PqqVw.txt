@@ -1,0 +1,14 @@
+POI: 			Andrew_Lee_Potts 
+Youtube ID: 	hhJkS3PqqVw 
+Video length: 	181.1 sec 
+Set (V): 		dev 
+ 
+Andrew_Lee_Potts/hhJkS3PqqVw_0000001 44.4 52.2 
+Andrew_Lee_Potts/hhJkS3PqqVw_0000002 55.4 60.8 
+Andrew_Lee_Potts/hhJkS3PqqVw_0000003 73.6 77.6 
+Andrew_Lee_Potts/hhJkS3PqqVw_0000004 79.4 90.6 
+Andrew_Lee_Potts/hhJkS3PqqVw_0000005 102.4 120.0 
+Andrew_Lee_Potts/hhJkS3PqqVw_0000006 136.4 149.9 
+Andrew_Lee_Potts/hhJkS3PqqVw_0000007 150.0 162.1 
+Andrew_Lee_Potts/hhJkS3PqqVw_0000008 154.0 162.4 
+Andrew_Lee_Potts/hhJkS3PqqVw_0000009 165.0 169.2 

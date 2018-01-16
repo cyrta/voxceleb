@@ -1,0 +1,8 @@
+POI: 			Ruta_Lee 
+Youtube ID: 	tTyG4LDkSxY 
+Video length: 	435.2 sec 
+Set (V): 		dev 
+ 
+Ruta_Lee/tTyG4LDkSxY_0000001 53.8 58.3 
+Ruta_Lee/tTyG4LDkSxY_0000002 71.0 76.9 
+Ruta_Lee/tTyG4LDkSxY_0000003 366.9 376.9 

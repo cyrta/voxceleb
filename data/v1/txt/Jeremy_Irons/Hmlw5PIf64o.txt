@@ -1,0 +1,12 @@
+POI: 			Jeremy_Irons 
+Youtube ID: 	Hmlw5PIf64o 
+Video length: 	1053.7 sec 
+Set (V): 		dev 
+ 
+Jeremy_Irons/Hmlw5PIf64o_0000001 534.6 538.8 
+Jeremy_Irons/Hmlw5PIf64o_0000002 546.0 553.8 
+Jeremy_Irons/Hmlw5PIf64o_0000003 575.2 581.2 
+Jeremy_Irons/Hmlw5PIf64o_0000004 591.2 600.5 
+Jeremy_Irons/Hmlw5PIf64o_0000005 651.5 659.7 
+Jeremy_Irons/Hmlw5PIf64o_0000006 661.4 676.8 
+Jeremy_Irons/Hmlw5PIf64o_0000007 702.9 707.1 

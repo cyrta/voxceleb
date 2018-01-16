@@ -1,0 +1,8 @@
+POI: 			Santiago_Cabrera 
+Youtube ID: 	ws4i1m9OgDs 
+Video length: 	254.9 sec 
+Set (V): 		dev 
+ 
+Santiago_Cabrera/ws4i1m9OgDs_0000001 53.8 57.9 
+Santiago_Cabrera/ws4i1m9OgDs_0000002 161.8 166.3 
+Santiago_Cabrera/ws4i1m9OgDs_0000003 240.9 245.0 

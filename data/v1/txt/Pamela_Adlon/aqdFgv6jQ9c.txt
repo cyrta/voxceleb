@@ -1,0 +1,7 @@
+POI: 			Pamela_Adlon 
+Youtube ID: 	aqdFgv6jQ9c 
+Video length: 	181.4 sec 
+Set (V): 		dev 
+ 
+Pamela_Adlon/aqdFgv6jQ9c_0000001 123.6 131.5 
+Pamela_Adlon/aqdFgv6jQ9c_0000002 144.4 152.1 

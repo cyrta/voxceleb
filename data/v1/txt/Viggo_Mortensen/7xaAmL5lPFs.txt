@@ -1,0 +1,27 @@
+POI: 			Viggo_Mortensen 
+Youtube ID: 	7xaAmL5lPFs 
+Video length: 	482.3 sec 
+Set (V): 		dev 
+ 
+Viggo_Mortensen/7xaAmL5lPFs_0000001 42.2 46.5 
+Viggo_Mortensen/7xaAmL5lPFs_0000002 60.9 65.2 
+Viggo_Mortensen/7xaAmL5lPFs_0000003 85.0 90.8 
+Viggo_Mortensen/7xaAmL5lPFs_0000004 113.9 122.5 
+Viggo_Mortensen/7xaAmL5lPFs_0000005 134.2 139.2 
+Viggo_Mortensen/7xaAmL5lPFs_0000006 141.0 147.1 
+Viggo_Mortensen/7xaAmL5lPFs_0000007 156.5 160.9 
+Viggo_Mortensen/7xaAmL5lPFs_0000008 181.6 186.4 
+Viggo_Mortensen/7xaAmL5lPFs_0000009 210.6 220.6 
+Viggo_Mortensen/7xaAmL5lPFs_0000010 222.7 226.8 
+Viggo_Mortensen/7xaAmL5lPFs_0000011 230.9 240.6 
+Viggo_Mortensen/7xaAmL5lPFs_0000012 242.8 250.9 
+Viggo_Mortensen/7xaAmL5lPFs_0000013 283.1 292.0 
+Viggo_Mortensen/7xaAmL5lPFs_0000014 304.8 311.1 
+Viggo_Mortensen/7xaAmL5lPFs_0000015 317.3 325.8 
+Viggo_Mortensen/7xaAmL5lPFs_0000016 359.7 368.3 
+Viggo_Mortensen/7xaAmL5lPFs_0000017 374.9 381.8 
+Viggo_Mortensen/7xaAmL5lPFs_0000018 382.6 391.1 
+Viggo_Mortensen/7xaAmL5lPFs_0000019 410.2 421.0 
+Viggo_Mortensen/7xaAmL5lPFs_0000020 426.2 432.4 
+Viggo_Mortensen/7xaAmL5lPFs_0000021 434.0 439.2 
+Viggo_Mortensen/7xaAmL5lPFs_0000022 461.8 469.2 

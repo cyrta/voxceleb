@@ -1,0 +1,12 @@
+POI: 			Alice_Eve 
+Youtube ID: 	20v1OxUXcQY 
+Video length: 	346.2 sec 
+Set (V): 		dev 
+ 
+Alice_Eve/20v1OxUXcQY_0000001 58.7 63.5 
+Alice_Eve/20v1OxUXcQY_0000002 103.5 108.2 
+Alice_Eve/20v1OxUXcQY_0000003 108.4 112.6 
+Alice_Eve/20v1OxUXcQY_0000004 155.0 165.3 
+Alice_Eve/20v1OxUXcQY_0000005 191.3 197.0 
+Alice_Eve/20v1OxUXcQY_0000006 270.9 275.9 
+Alice_Eve/20v1OxUXcQY_0000007 299.4 308.0 

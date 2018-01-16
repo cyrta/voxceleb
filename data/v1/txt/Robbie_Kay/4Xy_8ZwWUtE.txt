@@ -1,0 +1,7 @@
+POI: 			Robbie_Kay 
+Youtube ID: 	4Xy_8ZwWUtE 
+Video length: 	172.2 sec 
+Set (V): 		dev 
+ 
+Robbie_Kay/4Xy_8ZwWUtE_0000001 23.5 35.5 
+Robbie_Kay/4Xy_8ZwWUtE_0000002 37.7 41.9 

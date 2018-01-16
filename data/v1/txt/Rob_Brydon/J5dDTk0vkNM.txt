@@ -1,0 +1,10 @@
+POI: 			Rob_Brydon 
+Youtube ID: 	J5dDTk0vkNM 
+Video length: 	1394.3 sec 
+Set (V): 		dev 
+ 
+Rob_Brydon/J5dDTk0vkNM_0000001 52.4 60.5 
+Rob_Brydon/J5dDTk0vkNM_0000002 102.6 107.8 
+Rob_Brydon/J5dDTk0vkNM_0000003 139.7 146.5 
+Rob_Brydon/J5dDTk0vkNM_0000004 231.4 239.7 
+Rob_Brydon/J5dDTk0vkNM_0000005 811.7 816.4 

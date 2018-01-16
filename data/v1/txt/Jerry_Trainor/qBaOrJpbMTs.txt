@@ -1,0 +1,14 @@
+POI: 			Jerry_Trainor 
+Youtube ID: 	qBaOrJpbMTs 
+Video length: 	269.7 sec 
+Set (V): 		dev 
+ 
+Jerry_Trainor/qBaOrJpbMTs_0000001 37.2 46.8 
+Jerry_Trainor/qBaOrJpbMTs_0000002 54.4 74.0 
+Jerry_Trainor/qBaOrJpbMTs_0000003 74.9 85.8 
+Jerry_Trainor/qBaOrJpbMTs_0000004 111.0 122.7 
+Jerry_Trainor/qBaOrJpbMTs_0000005 128.5 134.8 
+Jerry_Trainor/qBaOrJpbMTs_0000006 139.2 149.3 
+Jerry_Trainor/qBaOrJpbMTs_0000007 177.4 194.0 
+Jerry_Trainor/qBaOrJpbMTs_0000008 195.2 208.8 
+Jerry_Trainor/qBaOrJpbMTs_0000009 242.0 246.1 

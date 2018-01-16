@@ -1,0 +1,10 @@
+POI: 			Teala_Dunn 
+Youtube ID: 	6fcsxluZE5k 
+Video length: 	100.5 sec 
+Set (V): 		dev 
+ 
+Teala_Dunn/6fcsxluZE5k_0000001 21.0 26.1 
+Teala_Dunn/6fcsxluZE5k_0000002 26.8 32.8 
+Teala_Dunn/6fcsxluZE5k_0000003 36.1 45.9 
+Teala_Dunn/6fcsxluZE5k_0000004 49.8 60.3 
+Teala_Dunn/6fcsxluZE5k_0000005 81.9 87.1 

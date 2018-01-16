@@ -1,0 +1,34 @@
+POI: 			Tyler_James_Williams 
+Youtube ID: 	GwCb5JtUfss 
+Video length: 	812.3 sec 
+Set (V): 		dev 
+ 
+Tyler_James_Williams/GwCb5JtUfss_0000001 183.2 191.0 
+Tyler_James_Williams/GwCb5JtUfss_0000002 271.4 276.3 
+Tyler_James_Williams/GwCb5JtUfss_0000003 280.7 290.8 
+Tyler_James_Williams/GwCb5JtUfss_0000004 285.0 295.4 
+Tyler_James_Williams/GwCb5JtUfss_0000005 296.2 304.9 
+Tyler_James_Williams/GwCb5JtUfss_0000006 341.7 350.5 
+Tyler_James_Williams/GwCb5JtUfss_0000007 374.7 379.6 
+Tyler_James_Williams/GwCb5JtUfss_0000008 380.0 385.6 
+Tyler_James_Williams/GwCb5JtUfss_0000009 394.2 403.4 
+Tyler_James_Williams/GwCb5JtUfss_0000010 407.1 418.4 
+Tyler_James_Williams/GwCb5JtUfss_0000011 434.3 439.3 
+Tyler_James_Williams/GwCb5JtUfss_0000012 460.8 466.4 
+Tyler_James_Williams/GwCb5JtUfss_0000013 474.6 480.8 
+Tyler_James_Williams/GwCb5JtUfss_0000014 482.2 487.4 
+Tyler_James_Williams/GwCb5JtUfss_0000015 492.0 496.2 
+Tyler_James_Williams/GwCb5JtUfss_0000016 492.0 500.7 
+Tyler_James_Williams/GwCb5JtUfss_0000017 514.9 522.1 
+Tyler_James_Williams/GwCb5JtUfss_0000018 569.1 574.2 
+Tyler_James_Williams/GwCb5JtUfss_0000019 613.9 626.0 
+Tyler_James_Williams/GwCb5JtUfss_0000020 627.4 631.4 
+Tyler_James_Williams/GwCb5JtUfss_0000021 633.0 637.8 
+Tyler_James_Williams/GwCb5JtUfss_0000022 670.8 677.5 
+Tyler_James_Williams/GwCb5JtUfss_0000023 678.2 684.6 
+Tyler_James_Williams/GwCb5JtUfss_0000024 685.0 698.3 
+Tyler_James_Williams/GwCb5JtUfss_0000025 710.6 715.0 
+Tyler_James_Williams/GwCb5JtUfss_0000026 718.9 735.7 
+Tyler_James_Williams/GwCb5JtUfss_0000027 729.1 738.3 
+Tyler_James_Williams/GwCb5JtUfss_0000028 762.7 784.8 
+Tyler_James_Williams/GwCb5JtUfss_0000029 787.0 796.2 

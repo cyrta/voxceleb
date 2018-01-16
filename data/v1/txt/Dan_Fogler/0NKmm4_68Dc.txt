@@ -1,0 +1,7 @@
+POI: 			Dan_Fogler 
+Youtube ID: 	0NKmm4_68Dc 
+Video length: 	264.2 sec 
+Set (V): 		dev 
+ 
+Dan_Fogler/0NKmm4_68Dc_0000001 19.9 24.3 
+Dan_Fogler/0NKmm4_68Dc_0000002 217.9 223.5 

@@ -1,0 +1,11 @@
+POI: 			Paddy_Considine 
+Youtube ID: 	rsyGkCGV-fM 
+Video length: 	162.9 sec 
+Set (V): 		dev 
+ 
+Paddy_Considine/rsyGkCGV-fM_0000001 84.3 89.2 
+Paddy_Considine/rsyGkCGV-fM_0000002 89.4 100.6 
+Paddy_Considine/rsyGkCGV-fM_0000003 106.6 110.8 
+Paddy_Considine/rsyGkCGV-fM_0000004 110.9 116.3 
+Paddy_Considine/rsyGkCGV-fM_0000005 122.1 130.5 
+Paddy_Considine/rsyGkCGV-fM_0000006 136.8 142.5 

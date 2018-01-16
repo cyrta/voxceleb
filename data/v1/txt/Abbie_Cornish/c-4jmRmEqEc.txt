@@ -1,0 +1,9 @@
+POI: 			Abbie_Cornish 
+Youtube ID: 	c-4jmRmEqEc 
+Video length: 	1401.4 sec 
+Set (V): 		dev 
+ 
+Abbie_Cornish/c-4jmRmEqEc_0000001 366.4 371.4 
+Abbie_Cornish/c-4jmRmEqEc_0000002 436.4 440.6 
+Abbie_Cornish/c-4jmRmEqEc_0000003 742.8 752.0 
+Abbie_Cornish/c-4jmRmEqEc_0000004 1082.8 1087.1 

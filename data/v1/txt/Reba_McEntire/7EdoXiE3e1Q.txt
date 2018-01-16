@@ -1,0 +1,10 @@
+POI: 			Reba_McEntire 
+Youtube ID: 	7EdoXiE3e1Q 
+Video length: 	212.9 sec 
+Set (V): 		dev 
+ 
+Reba_McEntire/7EdoXiE3e1Q_0000001 47.6 51.9 
+Reba_McEntire/7EdoXiE3e1Q_0000002 72.6 77.8 
+Reba_McEntire/7EdoXiE3e1Q_0000003 122.4 128.1 
+Reba_McEntire/7EdoXiE3e1Q_0000004 147.5 152.2 
+Reba_McEntire/7EdoXiE3e1Q_0000005 160.0 166.0 

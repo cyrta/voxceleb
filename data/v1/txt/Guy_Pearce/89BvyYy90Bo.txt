@@ -1,0 +1,12 @@
+POI: 			Guy_Pearce 
+Youtube ID: 	89BvyYy90Bo 
+Video length: 	351.1 sec 
+Set (V): 		dev 
+ 
+Guy_Pearce/89BvyYy90Bo_0000001 41.4 48.5 
+Guy_Pearce/89BvyYy90Bo_0000002 134.3 144.5 
+Guy_Pearce/89BvyYy90Bo_0000003 150.2 157.9 
+Guy_Pearce/89BvyYy90Bo_0000004 158.2 166.6 
+Guy_Pearce/89BvyYy90Bo_0000005 176.2 183.7 
+Guy_Pearce/89BvyYy90Bo_0000006 183.8 194.7 
+Guy_Pearce/89BvyYy90Bo_0000007 313.5 320.2 

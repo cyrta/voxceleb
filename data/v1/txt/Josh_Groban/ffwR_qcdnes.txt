@@ -1,0 +1,24 @@
+POI: 			Josh_Groban 
+Youtube ID: 	ffwR_qcdnes 
+Video length: 	501.2 sec 
+Set (V): 		dev 
+ 
+Josh_Groban/ffwR_qcdnes_0000001 40.5 45.5 
+Josh_Groban/ffwR_qcdnes_0000002 45.7 49.8 
+Josh_Groban/ffwR_qcdnes_0000003 53.3 73.8 
+Josh_Groban/ffwR_qcdnes_0000004 79.9 88.0 
+Josh_Groban/ffwR_qcdnes_0000005 90.2 111.9 
+Josh_Groban/ffwR_qcdnes_0000006 123.2 128.2 
+Josh_Groban/ffwR_qcdnes_0000007 137.3 142.8 
+Josh_Groban/ffwR_qcdnes_0000008 144.1 150.8 
+Josh_Groban/ffwR_qcdnes_0000009 169.9 182.0 
+Josh_Groban/ffwR_qcdnes_0000010 194.4 204.6 
+Josh_Groban/ffwR_qcdnes_0000011 227.5 232.8 
+Josh_Groban/ffwR_qcdnes_0000012 237.3 243.0 
+Josh_Groban/ffwR_qcdnes_0000013 264.4 272.1 
+Josh_Groban/ffwR_qcdnes_0000014 276.1 287.4 
+Josh_Groban/ffwR_qcdnes_0000015 344.2 349.7 
+Josh_Groban/ffwR_qcdnes_0000016 355.2 359.9 
+Josh_Groban/ffwR_qcdnes_0000017 360.6 366.8 
+Josh_Groban/ffwR_qcdnes_0000018 372.0 402.7 
+Josh_Groban/ffwR_qcdnes_0000019 462.9 483.6 

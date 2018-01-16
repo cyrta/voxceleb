@@ -1,0 +1,16 @@
+POI: 			Barbara_Eden 
+Youtube ID: 	dIf6m0EE2lI 
+Video length: 	553.4 sec 
+Set (V): 		dev 
+ 
+Barbara_Eden/dIf6m0EE2lI_0000001 262.1 268.2 
+Barbara_Eden/dIf6m0EE2lI_0000002 268.9 272.9 
+Barbara_Eden/dIf6m0EE2lI_0000003 293.0 296.9 
+Barbara_Eden/dIf6m0EE2lI_0000004 416.8 422.8 
+Barbara_Eden/dIf6m0EE2lI_0000005 434.6 440.2 
+Barbara_Eden/dIf6m0EE2lI_0000006 448.0 455.6 
+Barbara_Eden/dIf6m0EE2lI_0000007 460.7 468.7 
+Barbara_Eden/dIf6m0EE2lI_0000008 471.5 475.6 
+Barbara_Eden/dIf6m0EE2lI_0000009 483.5 487.5 
+Barbara_Eden/dIf6m0EE2lI_0000010 503.6 508.9 
+Barbara_Eden/dIf6m0EE2lI_0000011 525.6 530.0 

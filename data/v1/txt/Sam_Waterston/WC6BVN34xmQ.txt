@@ -1,0 +1,17 @@
+POI: 			Sam_Waterston 
+Youtube ID: 	WC6BVN34xmQ 
+Video length: 	219.0 sec 
+Set (V): 		dev 
+ 
+Sam_Waterston/WC6BVN34xmQ_0000001 11.1 21.6 
+Sam_Waterston/WC6BVN34xmQ_0000002 30.4 43.7 
+Sam_Waterston/WC6BVN34xmQ_0000003 52.1 56.5 
+Sam_Waterston/WC6BVN34xmQ_0000004 56.6 67.1 
+Sam_Waterston/WC6BVN34xmQ_0000005 93.3 97.5 
+Sam_Waterston/WC6BVN34xmQ_0000006 97.6 102.8 
+Sam_Waterston/WC6BVN34xmQ_0000007 102.9 108.5 
+Sam_Waterston/WC6BVN34xmQ_0000008 122.0 131.0 
+Sam_Waterston/WC6BVN34xmQ_0000009 144.0 152.6 
+Sam_Waterston/WC6BVN34xmQ_0000010 153.5 158.5 
+Sam_Waterston/WC6BVN34xmQ_0000011 161.8 167.0 
+Sam_Waterston/WC6BVN34xmQ_0000012 191.4 216.0 

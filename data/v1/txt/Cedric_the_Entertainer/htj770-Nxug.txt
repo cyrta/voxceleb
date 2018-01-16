@@ -1,0 +1,15 @@
+POI: 			Cedric_the_Entertainer 
+Youtube ID: 	htj770-Nxug 
+Video length: 	266.5 sec 
+Set (V): 		dev 
+ 
+Cedric_the_Entertainer/htj770-Nxug_0000001 10.0 16.0 
+Cedric_the_Entertainer/htj770-Nxug_0000002 53.2 78.9 
+Cedric_the_Entertainer/htj770-Nxug_0000003 79.2 87.2 
+Cedric_the_Entertainer/htj770-Nxug_0000004 87.2 98.3 
+Cedric_the_Entertainer/htj770-Nxug_0000005 99.4 104.6 
+Cedric_the_Entertainer/htj770-Nxug_0000006 153.6 168.2 
+Cedric_the_Entertainer/htj770-Nxug_0000007 169.2 174.0 
+Cedric_the_Entertainer/htj770-Nxug_0000008 174.5 197.0 
+Cedric_the_Entertainer/htj770-Nxug_0000009 215.6 219.8 
+Cedric_the_Entertainer/htj770-Nxug_0000010 244.0 248.4 

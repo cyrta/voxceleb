@@ -1,0 +1,9 @@
+POI: 			Gates_McFadden 
+Youtube ID: 	FqQRAEH9NzU 
+Video length: 	88.0 sec 
+Set (V): 		dev 
+ 
+Gates_McFadden/FqQRAEH9NzU_0000001 13.0 49.0 
+Gates_McFadden/FqQRAEH9NzU_0000002 54.0 62.9 
+Gates_McFadden/FqQRAEH9NzU_0000003 64.1 72.0 
+Gates_McFadden/FqQRAEH9NzU_0000004 74.5 78.8 

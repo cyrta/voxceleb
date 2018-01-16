@@ -1,0 +1,9 @@
+POI: 			Seth_MacFarlane 
+Youtube ID: 	7TgI9dSbhes 
+Video length: 	1309.9 sec 
+Set (V): 		dev 
+ 
+Seth_MacFarlane/7TgI9dSbhes_0000001 515.6 521.6 
+Seth_MacFarlane/7TgI9dSbhes_0000002 526.7 531.8 
+Seth_MacFarlane/7TgI9dSbhes_0000003 608.2 612.2 
+Seth_MacFarlane/7TgI9dSbhes_0000004 633.8 640.0 

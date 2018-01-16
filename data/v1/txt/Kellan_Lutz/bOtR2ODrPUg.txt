@@ -1,0 +1,8 @@
+POI: 			Kellan_Lutz 
+Youtube ID: 	bOtR2ODrPUg 
+Video length: 	169.2 sec 
+Set (V): 		dev 
+ 
+Kellan_Lutz/bOtR2ODrPUg_0000001 09.0 13.2 
+Kellan_Lutz/bOtR2ODrPUg_0000002 54.1 58.1 
+Kellan_Lutz/bOtR2ODrPUg_0000003 65.1 70.4 

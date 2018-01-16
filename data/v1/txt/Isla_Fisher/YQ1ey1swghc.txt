@@ -1,0 +1,7 @@
+POI: 			Isla_Fisher 
+Youtube ID: 	YQ1ey1swghc 
+Video length: 	220.1 sec 
+Set (V): 		dev 
+ 
+Isla_Fisher/YQ1ey1swghc_0000001 40.9 45.4 
+Isla_Fisher/YQ1ey1swghc_0000002 46.4 51.5 

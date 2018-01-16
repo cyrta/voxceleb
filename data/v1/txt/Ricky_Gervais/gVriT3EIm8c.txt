@@ -1,0 +1,11 @@
+POI: 			Ricky_Gervais 
+Youtube ID: 	gVriT3EIm8c 
+Video length: 	275.9 sec 
+Set (V): 		dev 
+ 
+Ricky_Gervais/gVriT3EIm8c_0000001 101.9 120.3 
+Ricky_Gervais/gVriT3EIm8c_0000002 153.4 157.6 
+Ricky_Gervais/gVriT3EIm8c_0000003 169.8 180.6 
+Ricky_Gervais/gVriT3EIm8c_0000004 198.9 203.2 
+Ricky_Gervais/gVriT3EIm8c_0000005 209.2 213.8 
+Ricky_Gervais/gVriT3EIm8c_0000006 214.6 220.7 

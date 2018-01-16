@@ -1,0 +1,8 @@
+POI: 			Dawn_French 
+Youtube ID: 	P0OKdQWm088 
+Video length: 	273.8 sec 
+Set (V): 		dev 
+ 
+Dawn_French/P0OKdQWm088_0000001 50.2 55.4 
+Dawn_French/P0OKdQWm088_0000002 61.8 68.4 
+Dawn_French/P0OKdQWm088_0000003 93.0 100.5 

@@ -1,0 +1,13 @@
+POI: 			Mark_Feuerstein 
+Youtube ID: 	ZT8hR1usrwg 
+Video length: 	186.0 sec 
+Set (V): 		dev 
+ 
+Mark_Feuerstein/ZT8hR1usrwg_0000001 03.4 18.7 
+Mark_Feuerstein/ZT8hR1usrwg_0000002 23.9 57.6 
+Mark_Feuerstein/ZT8hR1usrwg_0000003 55.8 59.8 
+Mark_Feuerstein/ZT8hR1usrwg_0000004 70.1 76.0 
+Mark_Feuerstein/ZT8hR1usrwg_0000005 74.7 78.7 
+Mark_Feuerstein/ZT8hR1usrwg_0000006 122.6 127.7 
+Mark_Feuerstein/ZT8hR1usrwg_0000007 131.0 145.8 
+Mark_Feuerstein/ZT8hR1usrwg_0000008 153.2 157.1 

@@ -1,0 +1,17 @@
+POI: 			Rob_Reiner 
+Youtube ID: 	tj0Mw2xTE74 
+Video length: 	217.3 sec 
+Set (V): 		dev 
+ 
+Rob_Reiner/tj0Mw2xTE74_0000001 06.2 36.3 
+Rob_Reiner/tj0Mw2xTE74_0000002 09.5 16.5 
+Rob_Reiner/tj0Mw2xTE74_0000003 39.6 71.4 
+Rob_Reiner/tj0Mw2xTE74_0000004 74.6 90.2 
+Rob_Reiner/tj0Mw2xTE74_0000005 91.2 110.0 
+Rob_Reiner/tj0Mw2xTE74_0000006 115.0 123.7 
+Rob_Reiner/tj0Mw2xTE74_0000007 127.4 144.8 
+Rob_Reiner/tj0Mw2xTE74_0000008 147.2 161.6 
+Rob_Reiner/tj0Mw2xTE74_0000009 147.0 152.4 
+Rob_Reiner/tj0Mw2xTE74_0000010 165.2 188.2 
+Rob_Reiner/tj0Mw2xTE74_0000011 191.6 209.6 
+Rob_Reiner/tj0Mw2xTE74_0000012 204.6 208.9 

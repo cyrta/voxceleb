@@ -1,0 +1,9 @@
+POI: 			Vidya_Balan 
+Youtube ID: 	_WxNkiCneYs 
+Video length: 	232.7 sec 
+Set (V): 		dev 
+ 
+Vidya_Balan/_WxNkiCneYs_0000001 39.4 44.0 
+Vidya_Balan/_WxNkiCneYs_0000002 44.4 51.3 
+Vidya_Balan/_WxNkiCneYs_0000003 80.8 85.4 
+Vidya_Balan/_WxNkiCneYs_0000004 104.2 108.2 

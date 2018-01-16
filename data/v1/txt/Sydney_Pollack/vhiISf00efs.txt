@@ -1,0 +1,10 @@
+POI: 			Sydney_Pollack 
+Youtube ID: 	vhiISf00efs 
+Video length: 	259.2 sec 
+Set (V): 		dev 
+ 
+Sydney_Pollack/vhiISf00efs_0000001 173.1 180.3 
+Sydney_Pollack/vhiISf00efs_0000002 180.7 185.6 
+Sydney_Pollack/vhiISf00efs_0000003 222.2 226.4 
+Sydney_Pollack/vhiISf00efs_0000004 228.7 232.8 
+Sydney_Pollack/vhiISf00efs_0000005 235.2 240.7 

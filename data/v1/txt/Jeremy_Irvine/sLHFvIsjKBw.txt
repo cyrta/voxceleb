@@ -1,0 +1,10 @@
+POI: 			Jeremy_Irvine 
+Youtube ID: 	sLHFvIsjKBw 
+Video length: 	269.1 sec 
+Set (V): 		dev 
+ 
+Jeremy_Irvine/sLHFvIsjKBw_0000001 69.5 75.4 
+Jeremy_Irvine/sLHFvIsjKBw_0000002 76.2 83.3 
+Jeremy_Irvine/sLHFvIsjKBw_0000003 84.1 96.9 
+Jeremy_Irvine/sLHFvIsjKBw_0000004 97.6 102.0 
+Jeremy_Irvine/sLHFvIsjKBw_0000005 199.5 208.8 

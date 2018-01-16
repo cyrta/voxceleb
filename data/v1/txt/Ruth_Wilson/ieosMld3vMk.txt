@@ -1,0 +1,8 @@
+POI: 			Ruth_Wilson 
+Youtube ID: 	ieosMld3vMk 
+Video length: 	196.0 sec 
+Set (V): 		dev 
+ 
+Ruth_Wilson/ieosMld3vMk_0000001 18.4 22.4 
+Ruth_Wilson/ieosMld3vMk_0000002 35.3 44.4 
+Ruth_Wilson/ieosMld3vMk_0000003 56.7 61.2 

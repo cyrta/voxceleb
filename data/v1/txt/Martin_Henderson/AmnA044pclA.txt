@@ -1,0 +1,14 @@
+POI: 			Martin_Henderson 
+Youtube ID: 	AmnA044pclA 
+Video length: 	234.7 sec 
+Set (V): 		dev 
+ 
+Martin_Henderson/AmnA044pclA_0000001 10.7 21.6 
+Martin_Henderson/AmnA044pclA_0000002 22.0 27.8 
+Martin_Henderson/AmnA044pclA_0000003 30.8 44.0 
+Martin_Henderson/AmnA044pclA_0000004 48.9 60.5 
+Martin_Henderson/AmnA044pclA_0000005 62.6 67.4 
+Martin_Henderson/AmnA044pclA_0000006 82.1 107.6 
+Martin_Henderson/AmnA044pclA_0000007 108.2 124.0 
+Martin_Henderson/AmnA044pclA_0000008 185.6 199.3 
+Martin_Henderson/AmnA044pclA_0000009 201.2 212.3 

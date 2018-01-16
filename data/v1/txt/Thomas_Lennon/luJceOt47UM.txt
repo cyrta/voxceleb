@@ -1,0 +1,8 @@
+POI: 			Thomas_Lennon 
+Youtube ID: 	luJceOt47UM 
+Video length: 	453.4 sec 
+Set (V): 		dev 
+ 
+Thomas_Lennon/luJceOt47UM_0000001 198.7 210.6 
+Thomas_Lennon/luJceOt47UM_0000002 228.4 234.2 
+Thomas_Lennon/luJceOt47UM_0000003 312.2 318.2 

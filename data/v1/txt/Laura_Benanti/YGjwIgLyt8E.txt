@@ -1,0 +1,7 @@
+POI: 			Laura_Benanti 
+Youtube ID: 	YGjwIgLyt8E 
+Video length: 	203.3 sec 
+Set (V): 		dev 
+ 
+Laura_Benanti/YGjwIgLyt8E_0000001 44.2 49.0 
+Laura_Benanti/YGjwIgLyt8E_0000002 50.0 55.9 

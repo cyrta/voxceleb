@@ -1,0 +1,26 @@
+POI: 			Hugh_Bonneville 
+Youtube ID: 	DdkAd07M3cc 
+Video length: 	380.2 sec 
+Set (V): 		dev 
+ 
+Hugh_Bonneville/DdkAd07M3cc_0000001 08.3 47.6 
+Hugh_Bonneville/DdkAd07M3cc_0000002 51.3 61.7 
+Hugh_Bonneville/DdkAd07M3cc_0000003 93.2 109.0 
+Hugh_Bonneville/DdkAd07M3cc_0000004 40.9 47.8 
+Hugh_Bonneville/DdkAd07M3cc_0000005 48.2 85.2 
+Hugh_Bonneville/DdkAd07M3cc_0000006 85.7 133.8 
+Hugh_Bonneville/DdkAd07M3cc_0000007 142.6 160.3 
+Hugh_Bonneville/DdkAd07M3cc_0000008 172.5 183.4 
+Hugh_Bonneville/DdkAd07M3cc_0000009 191.2 206.6 
+Hugh_Bonneville/DdkAd07M3cc_0000010 208.4 220.6 
+Hugh_Bonneville/DdkAd07M3cc_0000011 221.6 237.1 
+Hugh_Bonneville/DdkAd07M3cc_0000012 244.0 250.8 
+Hugh_Bonneville/DdkAd07M3cc_0000013 251.8 278.4 
+Hugh_Bonneville/DdkAd07M3cc_0000014 280.7 285.5 
+Hugh_Bonneville/DdkAd07M3cc_0000015 298.8 307.7 
+Hugh_Bonneville/DdkAd07M3cc_0000016 311.2 336.2 
+Hugh_Bonneville/DdkAd07M3cc_0000017 336.6 347.7 
+Hugh_Bonneville/DdkAd07M3cc_0000018 350.0 357.0 
+Hugh_Bonneville/DdkAd07M3cc_0000019 357.9 362.7 
+Hugh_Bonneville/DdkAd07M3cc_0000020 363.4 369.0 
+Hugh_Bonneville/DdkAd07M3cc_0000021 366.2 370.3 

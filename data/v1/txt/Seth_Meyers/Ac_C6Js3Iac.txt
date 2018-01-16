@@ -1,0 +1,9 @@
+POI: 			Seth_Meyers 
+Youtube ID: 	Ac_C6Js3Iac 
+Video length: 	294.3 sec 
+Set (V): 		dev 
+ 
+Seth_Meyers/Ac_C6Js3Iac_0000001 01.7 17.6 
+Seth_Meyers/Ac_C6Js3Iac_0000002 30.7 36.0 
+Seth_Meyers/Ac_C6Js3Iac_0000003 103.8 107.9 
+Seth_Meyers/Ac_C6Js3Iac_0000004 218.1 222.2 

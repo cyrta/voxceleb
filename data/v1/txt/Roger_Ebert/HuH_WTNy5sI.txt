@@ -1,0 +1,16 @@
+POI: 			Roger_Ebert 
+Youtube ID: 	HuH_WTNy5sI 
+Video length: 	563.4 sec 
+Set (V): 		dev 
+ 
+Roger_Ebert/HuH_WTNy5sI_0000001 113.1 122.4 
+Roger_Ebert/HuH_WTNy5sI_0000002 136.8 141.6 
+Roger_Ebert/HuH_WTNy5sI_0000003 172.0 180.8 
+Roger_Ebert/HuH_WTNy5sI_0000004 213.4 222.2 
+Roger_Ebert/HuH_WTNy5sI_0000005 242.8 251.6 
+Roger_Ebert/HuH_WTNy5sI_0000006 253.6 263.6 
+Roger_Ebert/HuH_WTNy5sI_0000007 277.2 283.0 
+Roger_Ebert/HuH_WTNy5sI_0000008 295.1 301.5 
+Roger_Ebert/HuH_WTNy5sI_0000009 363.0 375.3 
+Roger_Ebert/HuH_WTNy5sI_0000010 376.3 382.7 
+Roger_Ebert/HuH_WTNy5sI_0000011 383.2 390.1 

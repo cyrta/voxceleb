@@ -1,0 +1,9 @@
+POI: 			Alex_Pettyfer 
+Youtube ID: 	kxs6DimTRoY 
+Video length: 	211.6 sec 
+Set (V): 		dev 
+ 
+Alex_Pettyfer/kxs6DimTRoY_0000001 35.8 40.0 
+Alex_Pettyfer/kxs6DimTRoY_0000002 38.2 44.4 
+Alex_Pettyfer/kxs6DimTRoY_0000003 45.6 54.4 
+Alex_Pettyfer/kxs6DimTRoY_0000004 174.7 182.5 

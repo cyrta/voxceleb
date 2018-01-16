@@ -1,0 +1,9 @@
+POI: 			Nina_Arianda 
+Youtube ID: 	6kxcdZvGP7w 
+Video length: 	1591.4 sec 
+Set (V): 		dev 
+ 
+Nina_Arianda/6kxcdZvGP7w_0000001 213.0 222.0 
+Nina_Arianda/6kxcdZvGP7w_0000002 225.5 237.8 
+Nina_Arianda/6kxcdZvGP7w_0000003 269.5 282.4 
+Nina_Arianda/6kxcdZvGP7w_0000004 428.6 434.7 

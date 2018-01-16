@@ -1,0 +1,11 @@
+POI: 			Max_Irons 
+Youtube ID: 	ZeJusCByqU4 
+Video length: 	204.1 sec 
+Set (V): 		dev 
+ 
+Max_Irons/ZeJusCByqU4_0000001 05.4 10.0 
+Max_Irons/ZeJusCByqU4_0000002 39.4 60.9 
+Max_Irons/ZeJusCByqU4_0000003 80.0 93.0 
+Max_Irons/ZeJusCByqU4_0000004 96.7 101.2 
+Max_Irons/ZeJusCByqU4_0000005 132.4 137.5 
+Max_Irons/ZeJusCByqU4_0000006 139.2 143.4 

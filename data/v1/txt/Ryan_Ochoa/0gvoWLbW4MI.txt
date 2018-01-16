@@ -1,0 +1,23 @@
+POI: 			Ryan_Ochoa 
+Youtube ID: 	0gvoWLbW4MI 
+Video length: 	358.2 sec 
+Set (V): 		dev 
+ 
+Ryan_Ochoa/0gvoWLbW4MI_0000001 01.2 05.6 
+Ryan_Ochoa/0gvoWLbW4MI_0000002 18.8 26.6 
+Ryan_Ochoa/0gvoWLbW4MI_0000003 35.0 39.8 
+Ryan_Ochoa/0gvoWLbW4MI_0000004 43.8 48.3 
+Ryan_Ochoa/0gvoWLbW4MI_0000005 40.2 48.3 
+Ryan_Ochoa/0gvoWLbW4MI_0000006 66.6 75.5 
+Ryan_Ochoa/0gvoWLbW4MI_0000007 75.7 84.0 
+Ryan_Ochoa/0gvoWLbW4MI_0000008 85.9 94.8 
+Ryan_Ochoa/0gvoWLbW4MI_0000009 116.4 121.5 
+Ryan_Ochoa/0gvoWLbW4MI_0000010 132.6 141.6 
+Ryan_Ochoa/0gvoWLbW4MI_0000011 162.9 168.4 
+Ryan_Ochoa/0gvoWLbW4MI_0000012 169.6 178.0 
+Ryan_Ochoa/0gvoWLbW4MI_0000013 183.0 194.3 
+Ryan_Ochoa/0gvoWLbW4MI_0000014 197.0 202.8 
+Ryan_Ochoa/0gvoWLbW4MI_0000015 224.2 234.4 
+Ryan_Ochoa/0gvoWLbW4MI_0000016 238.0 243.4 
+Ryan_Ochoa/0gvoWLbW4MI_0000017 263.1 272.8 
+Ryan_Ochoa/0gvoWLbW4MI_0000018 287.4 294.3 

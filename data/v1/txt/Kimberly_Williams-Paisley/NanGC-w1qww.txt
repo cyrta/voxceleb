@@ -1,0 +1,10 @@
+POI: 			Kimberly_Williams-Paisley 
+Youtube ID: 	NanGC-w1qww 
+Video length: 	154.3 sec 
+Set (V): 		dev 
+ 
+Kimberly_Williams-Paisley/NanGC-w1qww_0000001 28.1 36.0 
+Kimberly_Williams-Paisley/NanGC-w1qww_0000002 68.4 76.4 
+Kimberly_Williams-Paisley/NanGC-w1qww_0000003 87.6 106.2 
+Kimberly_Williams-Paisley/NanGC-w1qww_0000004 118.4 127.3 
+Kimberly_Williams-Paisley/NanGC-w1qww_0000005 136.7 141.8 

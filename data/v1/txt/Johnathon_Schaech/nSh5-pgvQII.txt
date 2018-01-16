@@ -1,0 +1,17 @@
+POI: 			Johnathon_Schaech 
+Youtube ID: 	nSh5-pgvQII 
+Video length: 	298.4 sec 
+Set (V): 		dev 
+ 
+Johnathon_Schaech/nSh5-pgvQII_0000001 11.4 16.6 
+Johnathon_Schaech/nSh5-pgvQII_0000002 38.7 43.4 
+Johnathon_Schaech/nSh5-pgvQII_0000003 44.2 51.2 
+Johnathon_Schaech/nSh5-pgvQII_0000004 101.9 108.2 
+Johnathon_Schaech/nSh5-pgvQII_0000005 109.2 115.4 
+Johnathon_Schaech/nSh5-pgvQII_0000006 115.5 119.6 
+Johnathon_Schaech/nSh5-pgvQII_0000007 124.8 129.8 
+Johnathon_Schaech/nSh5-pgvQII_0000008 139.3 146.4 
+Johnathon_Schaech/nSh5-pgvQII_0000009 190.1 194.5 
+Johnathon_Schaech/nSh5-pgvQII_0000010 228.1 232.5 
+Johnathon_Schaech/nSh5-pgvQII_0000011 258.8 263.8 
+Johnathon_Schaech/nSh5-pgvQII_0000012 277.0 286.4 

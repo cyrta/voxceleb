@@ -1,0 +1,10 @@
+POI: 			John_Terry 
+Youtube ID: 	4xHD3rsNrNQ 
+Video length: 	186.5 sec 
+Set (V): 		dev 
+ 
+John_Terry/4xHD3rsNrNQ_0000001 06.3 10.9 
+John_Terry/4xHD3rsNrNQ_0000002 13.5 21.5 
+John_Terry/4xHD3rsNrNQ_0000003 75.2 97.4 
+John_Terry/4xHD3rsNrNQ_0000004 154.0 159.9 
+John_Terry/4xHD3rsNrNQ_0000005 168.8 174.1 

@@ -1,0 +1,15 @@
+POI: 			Linda_Gray 
+Youtube ID: 	KqlqyYGuOlY 
+Video length: 	199.8 sec 
+Set (V): 		dev 
+ 
+Linda_Gray/KqlqyYGuOlY_0000001 56.1 66.9 
+Linda_Gray/KqlqyYGuOlY_0000002 81.8 88.0 
+Linda_Gray/KqlqyYGuOlY_0000003 89.2 95.4 
+Linda_Gray/KqlqyYGuOlY_0000004 101.3 107.9 
+Linda_Gray/KqlqyYGuOlY_0000005 108.7 112.8 
+Linda_Gray/KqlqyYGuOlY_0000006 113.7 130.8 
+Linda_Gray/KqlqyYGuOlY_0000007 136.4 140.6 
+Linda_Gray/KqlqyYGuOlY_0000008 141.4 149.6 
+Linda_Gray/KqlqyYGuOlY_0000009 149.8 172.4 
+Linda_Gray/KqlqyYGuOlY_0000010 177.1 190.3 

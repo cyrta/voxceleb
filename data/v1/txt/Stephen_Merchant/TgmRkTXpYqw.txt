@@ -1,0 +1,12 @@
+POI: 			Stephen_Merchant 
+Youtube ID: 	TgmRkTXpYqw 
+Video length: 	505.2 sec 
+Set (V): 		dev 
+ 
+Stephen_Merchant/TgmRkTXpYqw_0000001 75.7 81.5 
+Stephen_Merchant/TgmRkTXpYqw_0000002 219.5 224.2 
+Stephen_Merchant/TgmRkTXpYqw_0000003 244.9 249.8 
+Stephen_Merchant/TgmRkTXpYqw_0000004 258.7 265.9 
+Stephen_Merchant/TgmRkTXpYqw_0000005 291.5 298.8 
+Stephen_Merchant/TgmRkTXpYqw_0000006 366.0 376.8 
+Stephen_Merchant/TgmRkTXpYqw_0000007 459.0 464.5 

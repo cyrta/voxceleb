@@ -1,0 +1,7 @@
+POI: 			Eric_McCormack 
+Youtube ID: 	5K8DAWq6wJc 
+Video length: 	395.4 sec 
+Set (V): 		test 
+ 
+Eric_McCormack/5K8DAWq6wJc_0000001 103.1 111.2 
+Eric_McCormack/5K8DAWq6wJc_0000002 120.5 124.6 

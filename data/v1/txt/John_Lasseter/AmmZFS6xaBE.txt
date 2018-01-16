@@ -1,0 +1,7 @@
+POI: 			John_Lasseter 
+Youtube ID: 	AmmZFS6xaBE 
+Video length: 	463.7 sec 
+Set (V): 		dev 
+ 
+John_Lasseter/AmmZFS6xaBE_0000001 328.0 358.0 
+John_Lasseter/AmmZFS6xaBE_0000002 358.5 378.6 

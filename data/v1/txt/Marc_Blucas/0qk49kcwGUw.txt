@@ -1,0 +1,8 @@
+POI: 			Marc_Blucas 
+Youtube ID: 	0qk49kcwGUw 
+Video length: 	101.5 sec 
+Set (V): 		dev 
+ 
+Marc_Blucas/0qk49kcwGUw_0000001 00.8 43.1 
+Marc_Blucas/0qk49kcwGUw_0000002 44.1 53.4 
+Marc_Blucas/0qk49kcwGUw_0000003 65.8 99.8 

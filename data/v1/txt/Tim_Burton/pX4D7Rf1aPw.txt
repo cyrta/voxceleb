@@ -1,0 +1,15 @@
+POI: 			Tim_Burton 
+Youtube ID: 	pX4D7Rf1aPw 
+Video length: 	212.8 sec 
+Set (V): 		dev 
+ 
+Tim_Burton/pX4D7Rf1aPw_0000001 12.0 17.0 
+Tim_Burton/pX4D7Rf1aPw_0000002 23.6 29.1 
+Tim_Burton/pX4D7Rf1aPw_0000003 69.6 86.0 
+Tim_Burton/pX4D7Rf1aPw_0000004 86.1 92.1 
+Tim_Burton/pX4D7Rf1aPw_0000005 101.0 108.4 
+Tim_Burton/pX4D7Rf1aPw_0000006 110.6 127.3 
+Tim_Burton/pX4D7Rf1aPw_0000007 129.8 138.9 
+Tim_Burton/pX4D7Rf1aPw_0000008 148.9 154.7 
+Tim_Burton/pX4D7Rf1aPw_0000009 164.0 187.7 
+Tim_Burton/pX4D7Rf1aPw_0000010 192.8 208.4 

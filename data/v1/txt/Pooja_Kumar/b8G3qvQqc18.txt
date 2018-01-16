@@ -1,0 +1,23 @@
+POI: 			Pooja_Kumar 
+Youtube ID: 	b8G3qvQqc18 
+Video length: 	491.2 sec 
+Set (V): 		dev 
+ 
+Pooja_Kumar/b8G3qvQqc18_0000001 33.0 64.4 
+Pooja_Kumar/b8G3qvQqc18_0000002 66.8 74.0 
+Pooja_Kumar/b8G3qvQqc18_0000003 74.3 106.7 
+Pooja_Kumar/b8G3qvQqc18_0000004 109.8 128.5 
+Pooja_Kumar/b8G3qvQqc18_0000005 129.1 202.3 
+Pooja_Kumar/b8G3qvQqc18_0000006 276.8 283.3 
+Pooja_Kumar/b8G3qvQqc18_0000007 286.2 290.6 
+Pooja_Kumar/b8G3qvQqc18_0000008 291.6 307.7 
+Pooja_Kumar/b8G3qvQqc18_0000009 308.7 328.3 
+Pooja_Kumar/b8G3qvQqc18_0000010 330.6 338.8 
+Pooja_Kumar/b8G3qvQqc18_0000011 339.3 353.1 
+Pooja_Kumar/b8G3qvQqc18_0000012 355.8 362.9 
+Pooja_Kumar/b8G3qvQqc18_0000013 370.4 383.6 
+Pooja_Kumar/b8G3qvQqc18_0000014 389.8 394.6 
+Pooja_Kumar/b8G3qvQqc18_0000015 395.4 402.8 
+Pooja_Kumar/b8G3qvQqc18_0000016 404.6 412.9 
+Pooja_Kumar/b8G3qvQqc18_0000017 415.4 466.3 
+Pooja_Kumar/b8G3qvQqc18_0000018 472.0 489.1 

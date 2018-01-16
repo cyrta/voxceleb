@@ -1,0 +1,29 @@
+POI: 			Damon_Lindelof 
+Youtube ID: 	3R-2WOG_pAI 
+Video length: 	583.5 sec 
+Set (V): 		dev 
+ 
+Damon_Lindelof/3R-2WOG_pAI_0000001 31.4 40.9 
+Damon_Lindelof/3R-2WOG_pAI_0000002 53.2 68.1 
+Damon_Lindelof/3R-2WOG_pAI_0000003 70.0 74.7 
+Damon_Lindelof/3R-2WOG_pAI_0000004 92.2 111.0 
+Damon_Lindelof/3R-2WOG_pAI_0000005 112.6 141.1 
+Damon_Lindelof/3R-2WOG_pAI_0000006 145.0 149.2 
+Damon_Lindelof/3R-2WOG_pAI_0000007 154.9 166.8 
+Damon_Lindelof/3R-2WOG_pAI_0000008 167.0 176.6 
+Damon_Lindelof/3R-2WOG_pAI_0000009 178.5 193.4 
+Damon_Lindelof/3R-2WOG_pAI_0000010 198.0 211.6 
+Damon_Lindelof/3R-2WOG_pAI_0000011 218.8 232.6 
+Damon_Lindelof/3R-2WOG_pAI_0000012 245.4 268.6 
+Damon_Lindelof/3R-2WOG_pAI_0000013 274.5 286.6 
+Damon_Lindelof/3R-2WOG_pAI_0000014 307.6 312.9 
+Damon_Lindelof/3R-2WOG_pAI_0000015 313.2 329.8 
+Damon_Lindelof/3R-2WOG_pAI_0000016 337.4 382.8 
+Damon_Lindelof/3R-2WOG_pAI_0000017 391.6 403.2 
+Damon_Lindelof/3R-2WOG_pAI_0000018 407.0 411.8 
+Damon_Lindelof/3R-2WOG_pAI_0000019 412.6 429.8 
+Damon_Lindelof/3R-2WOG_pAI_0000020 434.8 461.5 
+Damon_Lindelof/3R-2WOG_pAI_0000021 492.1 506.0 
+Damon_Lindelof/3R-2WOG_pAI_0000022 518.5 525.0 
+Damon_Lindelof/3R-2WOG_pAI_0000023 530.2 536.0 
+Damon_Lindelof/3R-2WOG_pAI_0000024 540.2 574.2 

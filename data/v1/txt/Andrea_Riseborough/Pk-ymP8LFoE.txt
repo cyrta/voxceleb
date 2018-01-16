@@ -1,0 +1,8 @@
+POI: 			Andrea_Riseborough 
+Youtube ID: 	Pk-ymP8LFoE 
+Video length: 	195.7 sec 
+Set (V): 		dev 
+ 
+Andrea_Riseborough/Pk-ymP8LFoE_0000001 26.6 32.1 
+Andrea_Riseborough/Pk-ymP8LFoE_0000002 60.6 66.7 
+Andrea_Riseborough/Pk-ymP8LFoE_0000003 89.5 97.0 

@@ -1,0 +1,14 @@
+POI: 			Jenna_Fischer 
+Youtube ID: 	I7Y03qaZPGE 
+Video length: 	404.3 sec 
+Set (V): 		dev 
+ 
+Jenna_Fischer/I7Y03qaZPGE_0000001 73.6 80.9 
+Jenna_Fischer/I7Y03qaZPGE_0000002 88.4 93.3 
+Jenna_Fischer/I7Y03qaZPGE_0000003 126.6 136.9 
+Jenna_Fischer/I7Y03qaZPGE_0000004 139.2 145.2 
+Jenna_Fischer/I7Y03qaZPGE_0000005 173.3 184.1 
+Jenna_Fischer/I7Y03qaZPGE_0000006 195.2 202.8 
+Jenna_Fischer/I7Y03qaZPGE_0000007 210.3 219.2 
+Jenna_Fischer/I7Y03qaZPGE_0000008 290.4 295.6 
+Jenna_Fischer/I7Y03qaZPGE_0000009 358.4 365.4 

@@ -1,0 +1,21 @@
+POI: 			Jason_Clarke 
+Youtube ID: 	kJqX3GPSGwA 
+Video length: 	273.1 sec 
+Set (V): 		dev 
+ 
+Jason_Clarke/kJqX3GPSGwA_0000001 03.6 08.7 
+Jason_Clarke/kJqX3GPSGwA_0000002 10.8 19.2 
+Jason_Clarke/kJqX3GPSGwA_0000003 19.8 23.9 
+Jason_Clarke/kJqX3GPSGwA_0000004 25.2 45.7 
+Jason_Clarke/kJqX3GPSGwA_0000005 76.7 89.5 
+Jason_Clarke/kJqX3GPSGwA_0000006 100.9 107.7 
+Jason_Clarke/kJqX3GPSGwA_0000007 116.9 122.0 
+Jason_Clarke/kJqX3GPSGwA_0000008 133.5 146.6 
+Jason_Clarke/kJqX3GPSGwA_0000009 156.8 165.7 
+Jason_Clarke/kJqX3GPSGwA_0000010 180.0 188.2 
+Jason_Clarke/kJqX3GPSGwA_0000011 190.2 198.9 
+Jason_Clarke/kJqX3GPSGwA_0000012 204.0 210.6 
+Jason_Clarke/kJqX3GPSGwA_0000013 211.0 217.0 
+Jason_Clarke/kJqX3GPSGwA_0000014 223.2 227.6 
+Jason_Clarke/kJqX3GPSGwA_0000015 229.9 239.1 
+Jason_Clarke/kJqX3GPSGwA_0000016 241.8 270.3 

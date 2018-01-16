@@ -1,0 +1,13 @@
+POI: 			Anthony_Rapp 
+Youtube ID: 	vwXTZJ5wT-w 
+Video length: 	237.1 sec 
+Set (V): 		dev 
+ 
+Anthony_Rapp/vwXTZJ5wT-w_0000001 21.0 28.9 
+Anthony_Rapp/vwXTZJ5wT-w_0000002 35.9 41.3 
+Anthony_Rapp/vwXTZJ5wT-w_0000003 52.0 57.4 
+Anthony_Rapp/vwXTZJ5wT-w_0000004 77.0 85.8 
+Anthony_Rapp/vwXTZJ5wT-w_0000005 99.2 103.2 
+Anthony_Rapp/vwXTZJ5wT-w_0000006 103.4 114.0 
+Anthony_Rapp/vwXTZJ5wT-w_0000007 115.0 124.8 
+Anthony_Rapp/vwXTZJ5wT-w_0000008 167.6 175.0 

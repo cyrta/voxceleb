@@ -1,0 +1,15 @@
+POI: 			Howie_Mandel 
+Youtube ID: 	OoIJ7BJzMaw 
+Video length: 	280.0 sec 
+Set (V): 		dev 
+ 
+Howie_Mandel/OoIJ7BJzMaw_0000001 33.8 49.8 
+Howie_Mandel/OoIJ7BJzMaw_0000002 88.0 94.0 
+Howie_Mandel/OoIJ7BJzMaw_0000003 98.0 104.8 
+Howie_Mandel/OoIJ7BJzMaw_0000004 114.3 118.3 
+Howie_Mandel/OoIJ7BJzMaw_0000005 121.0 126.5 
+Howie_Mandel/OoIJ7BJzMaw_0000006 153.6 160.1 
+Howie_Mandel/OoIJ7BJzMaw_0000007 163.1 169.6 
+Howie_Mandel/OoIJ7BJzMaw_0000008 212.6 218.7 
+Howie_Mandel/OoIJ7BJzMaw_0000009 241.3 245.4 
+Howie_Mandel/OoIJ7BJzMaw_0000010 251.9 258.9 

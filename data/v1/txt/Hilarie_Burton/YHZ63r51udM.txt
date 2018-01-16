@@ -1,0 +1,17 @@
+POI: 			Hilarie_Burton 
+Youtube ID: 	YHZ63r51udM 
+Video length: 	493.7 sec 
+Set (V): 		dev 
+ 
+Hilarie_Burton/YHZ63r51udM_0000001 88.4 97.0 
+Hilarie_Burton/YHZ63r51udM_0000002 141.9 146.0 
+Hilarie_Burton/YHZ63r51udM_0000003 176.2 187.5 
+Hilarie_Burton/YHZ63r51udM_0000004 204.7 209.6 
+Hilarie_Burton/YHZ63r51udM_0000005 210.4 218.4 
+Hilarie_Burton/YHZ63r51udM_0000006 279.0 284.9 
+Hilarie_Burton/YHZ63r51udM_0000007 285.6 290.8 
+Hilarie_Burton/YHZ63r51udM_0000008 291.3 302.1 
+Hilarie_Burton/YHZ63r51udM_0000009 367.7 377.2 
+Hilarie_Burton/YHZ63r51udM_0000010 405.5 413.4 
+Hilarie_Burton/YHZ63r51udM_0000011 416.3 425.1 
+Hilarie_Burton/YHZ63r51udM_0000012 429.4 441.6 

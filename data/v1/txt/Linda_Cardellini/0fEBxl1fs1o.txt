@@ -1,0 +1,8 @@
+POI: 			Linda_Cardellini 
+Youtube ID: 	0fEBxl1fs1o 
+Video length: 	116.1 sec 
+Set (V): 		dev 
+ 
+Linda_Cardellini/0fEBxl1fs1o_0000001 17.2 21.2 
+Linda_Cardellini/0fEBxl1fs1o_0000002 43.7 55.3 
+Linda_Cardellini/0fEBxl1fs1o_0000003 86.0 93.8 

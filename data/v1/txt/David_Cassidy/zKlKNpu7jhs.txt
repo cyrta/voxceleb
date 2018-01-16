@@ -1,0 +1,20 @@
+POI: 			David_Cassidy 
+Youtube ID: 	zKlKNpu7jhs 
+Video length: 	381.4 sec 
+Set (V): 		dev 
+ 
+David_Cassidy/zKlKNpu7jhs_0000001 59.1 65.8 
+David_Cassidy/zKlKNpu7jhs_0000002 69.4 77.2 
+David_Cassidy/zKlKNpu7jhs_0000003 87.5 91.8 
+David_Cassidy/zKlKNpu7jhs_0000004 96.4 105.5 
+David_Cassidy/zKlKNpu7jhs_0000005 105.8 117.0 
+David_Cassidy/zKlKNpu7jhs_0000006 123.6 130.9 
+David_Cassidy/zKlKNpu7jhs_0000007 144.9 154.0 
+David_Cassidy/zKlKNpu7jhs_0000008 175.0 189.0 
+David_Cassidy/zKlKNpu7jhs_0000009 189.5 195.0 
+David_Cassidy/zKlKNpu7jhs_0000010 215.0 222.3 
+David_Cassidy/zKlKNpu7jhs_0000011 229.3 237.6 
+David_Cassidy/zKlKNpu7jhs_0000012 243.6 255.4 
+David_Cassidy/zKlKNpu7jhs_0000013 279.7 288.4 
+David_Cassidy/zKlKNpu7jhs_0000014 314.0 333.2 
+David_Cassidy/zKlKNpu7jhs_0000015 338.0 354.1 

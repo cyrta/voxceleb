@@ -1,0 +1,10 @@
+POI: 			Robert_Vaughn 
+Youtube ID: 	TKTabvkbbbI 
+Video length: 	86.5 sec 
+Set (V): 		dev 
+ 
+Robert_Vaughn/TKTabvkbbbI_0000001 09.1 23.1 
+Robert_Vaughn/TKTabvkbbbI_0000002 27.5 47.0 
+Robert_Vaughn/TKTabvkbbbI_0000003 48.8 58.2 
+Robert_Vaughn/TKTabvkbbbI_0000004 66.7 71.5 
+Robert_Vaughn/TKTabvkbbbI_0000005 71.8 77.3 

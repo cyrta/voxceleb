@@ -1,0 +1,9 @@
+POI: 			Bear_Grylls 
+Youtube ID: 	08874l86GtI 
+Video length: 	503.3 sec 
+Set (V): 		dev 
+ 
+Bear_Grylls/08874l86GtI_0000001 104.0 110.7 
+Bear_Grylls/08874l86GtI_0000002 313.2 317.3 
+Bear_Grylls/08874l86GtI_0000003 348.8 353.4 
+Bear_Grylls/08874l86GtI_0000004 354.6 359.3 

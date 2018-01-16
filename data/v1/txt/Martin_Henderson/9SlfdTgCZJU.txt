@@ -1,0 +1,10 @@
+POI: 			Martin_Henderson 
+Youtube ID: 	9SlfdTgCZJU 
+Video length: 	283.0 sec 
+Set (V): 		dev 
+ 
+Martin_Henderson/9SlfdTgCZJU_0000001 76.3 89.8 
+Martin_Henderson/9SlfdTgCZJU_0000002 90.0 97.5 
+Martin_Henderson/9SlfdTgCZJU_0000003 156.9 165.5 
+Martin_Henderson/9SlfdTgCZJU_0000004 223.8 242.8 
+Martin_Henderson/9SlfdTgCZJU_0000005 247.5 270.9 

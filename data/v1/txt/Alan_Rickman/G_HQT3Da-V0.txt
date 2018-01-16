@@ -1,0 +1,12 @@
+POI: 			Alan_Rickman 
+Youtube ID: 	G_HQT3Da-V0 
+Video length: 	398.6 sec 
+Set (V): 		dev 
+ 
+Alan_Rickman/G_HQT3Da-V0_0000001 180.3 184.8 
+Alan_Rickman/G_HQT3Da-V0_0000002 242.0 247.0 
+Alan_Rickman/G_HQT3Da-V0_0000003 273.2 277.4 
+Alan_Rickman/G_HQT3Da-V0_0000004 278.6 284.8 
+Alan_Rickman/G_HQT3Da-V0_0000005 328.0 332.6 
+Alan_Rickman/G_HQT3Da-V0_0000006 346.2 352.4 
+Alan_Rickman/G_HQT3Da-V0_0000007 352.5 359.0 

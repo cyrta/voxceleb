@@ -1,0 +1,8 @@
+POI: 			Stephen_Fry 
+Youtube ID: 	o8oyS_LS920 
+Video length: 	545.9 sec 
+Set (V): 		dev 
+ 
+Stephen_Fry/o8oyS_LS920_0000001 115.6 122.9 
+Stephen_Fry/o8oyS_LS920_0000002 422.4 427.5 
+Stephen_Fry/o8oyS_LS920_0000003 466.0 474.6 

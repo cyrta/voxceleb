@@ -1,0 +1,9 @@
+POI: 			Drea_de_Matteo 
+Youtube ID: 	3kTJd5ZJ5kY 
+Video length: 	265.2 sec 
+Set (V): 		dev 
+ 
+Drea_de_Matteo/3kTJd5ZJ5kY_0000001 24.8 28.9 
+Drea_de_Matteo/3kTJd5ZJ5kY_0000002 60.0 66.3 
+Drea_de_Matteo/3kTJd5ZJ5kY_0000003 126.5 131.0 
+Drea_de_Matteo/3kTJd5ZJ5kY_0000004 227.6 232.3 

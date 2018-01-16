@@ -1,0 +1,9 @@
+POI: 			Kendra_Wilkinson 
+Youtube ID: 	9P1cLE0ERUI 
+Video length: 	245.1 sec 
+Set (V): 		dev 
+ 
+Kendra_Wilkinson/9P1cLE0ERUI_0000001 27.0 47.0 
+Kendra_Wilkinson/9P1cLE0ERUI_0000002 51.2 60.4 
+Kendra_Wilkinson/9P1cLE0ERUI_0000003 61.1 67.5 
+Kendra_Wilkinson/9P1cLE0ERUI_0000004 51.2 64.2 

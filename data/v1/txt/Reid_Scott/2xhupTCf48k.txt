@@ -1,0 +1,7 @@
+POI: 			Reid_Scott 
+Youtube ID: 	2xhupTCf48k 
+Video length: 	472.6 sec 
+Set (V): 		dev 
+ 
+Reid_Scott/2xhupTCf48k_0000001 130.4 136.0 
+Reid_Scott/2xhupTCf48k_0000002 140.9 146.7 

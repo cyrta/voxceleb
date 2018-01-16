@@ -1,0 +1,8 @@
+POI: 			Booboo_Stewart 
+Youtube ID: 	kaNvkkmMXmA 
+Video length: 	183.5 sec 
+Set (V): 		dev 
+ 
+Booboo_Stewart/kaNvkkmMXmA_0000001 41.3 45.4 
+Booboo_Stewart/kaNvkkmMXmA_0000002 54.2 60.9 
+Booboo_Stewart/kaNvkkmMXmA_0000003 68.9 73.0 

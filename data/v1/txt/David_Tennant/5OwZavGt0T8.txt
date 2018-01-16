@@ -1,0 +1,7 @@
+POI: 			David_Tennant 
+Youtube ID: 	5OwZavGt0T8 
+Video length: 	410.0 sec 
+Set (V): 		dev 
+ 
+David_Tennant/5OwZavGt0T8_0000001 84.2 100.3 
+David_Tennant/5OwZavGt0T8_0000002 306.3 312.0 

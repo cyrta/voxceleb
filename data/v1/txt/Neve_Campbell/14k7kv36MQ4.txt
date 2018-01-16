@@ -1,0 +1,8 @@
+POI: 			Neve_Campbell 
+Youtube ID: 	14k7kv36MQ4 
+Video length: 	324.4 sec 
+Set (V): 		dev 
+ 
+Neve_Campbell/14k7kv36MQ4_0000001 63.0 67.8 
+Neve_Campbell/14k7kv36MQ4_0000002 106.8 110.9 
+Neve_Campbell/14k7kv36MQ4_0000003 210.3 214.2 

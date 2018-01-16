@@ -1,0 +1,13 @@
+POI: 			Loan_Chabanol 
+Youtube ID: 	NbcmueIBdwM 
+Video length: 	329.5 sec 
+Set (V): 		dev 
+ 
+Loan_Chabanol/NbcmueIBdwM_0000001 54.1 58.8 
+Loan_Chabanol/NbcmueIBdwM_0000002 151.2 157.2 
+Loan_Chabanol/NbcmueIBdwM_0000003 179.6 185.8 
+Loan_Chabanol/NbcmueIBdwM_0000004 195.0 224.3 
+Loan_Chabanol/NbcmueIBdwM_0000005 241.8 248.8 
+Loan_Chabanol/NbcmueIBdwM_0000006 249.3 256.5 
+Loan_Chabanol/NbcmueIBdwM_0000007 260.8 266.1 
+Loan_Chabanol/NbcmueIBdwM_0000008 274.8 282.4 

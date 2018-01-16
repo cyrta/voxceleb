@@ -1,0 +1,10 @@
+POI: 			Dana_Delany 
+Youtube ID: 	AKnyennLMzA 
+Video length: 	347.1 sec 
+Set (V): 		dev 
+ 
+Dana_Delany/AKnyennLMzA_0000001 60.6 64.6 
+Dana_Delany/AKnyennLMzA_0000002 70.1 74.5 
+Dana_Delany/AKnyennLMzA_0000003 84.9 93.1 
+Dana_Delany/AKnyennLMzA_0000004 111.5 115.6 
+Dana_Delany/AKnyennLMzA_0000005 267.4 276.5 

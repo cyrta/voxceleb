@@ -1,0 +1,9 @@
+POI: 			Ruth_Jones 
+Youtube ID: 	5nPNJ4qpCu4 
+Video length: 	90.9 sec 
+Set (V): 		dev 
+ 
+Ruth_Jones/5nPNJ4qpCu4_0000001 03.7 08.0 
+Ruth_Jones/5nPNJ4qpCu4_0000002 29.4 40.7 
+Ruth_Jones/5nPNJ4qpCu4_0000003 53.6 60.9 
+Ruth_Jones/5nPNJ4qpCu4_0000004 67.4 73.1 

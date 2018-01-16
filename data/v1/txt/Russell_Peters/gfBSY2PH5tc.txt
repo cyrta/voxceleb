@@ -1,0 +1,14 @@
+POI: 			Russell_Peters 
+Youtube ID: 	gfBSY2PH5tc 
+Video length: 	242.1 sec 
+Set (V): 		dev 
+ 
+Russell_Peters/gfBSY2PH5tc_0000001 28.6 33.5 
+Russell_Peters/gfBSY2PH5tc_0000002 40.2 50.0 
+Russell_Peters/gfBSY2PH5tc_0000003 68.4 75.5 
+Russell_Peters/gfBSY2PH5tc_0000004 88.4 93.0 
+Russell_Peters/gfBSY2PH5tc_0000005 146.9 151.3 
+Russell_Peters/gfBSY2PH5tc_0000006 168.7 177.6 
+Russell_Peters/gfBSY2PH5tc_0000007 187.0 193.3 
+Russell_Peters/gfBSY2PH5tc_0000008 204.9 229.1 
+Russell_Peters/gfBSY2PH5tc_0000009 230.0 235.6 

@@ -1,0 +1,7 @@
+POI: 			Michael_Bay 
+Youtube ID: 	MbyEfGOualk 
+Video length: 	159.9 sec 
+Set (V): 		dev 
+ 
+Michael_Bay/MbyEfGOualk_0000001 12.0 28.2 
+Michael_Bay/MbyEfGOualk_0000002 34.3 39.3 

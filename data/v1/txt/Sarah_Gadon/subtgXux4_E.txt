@@ -1,0 +1,8 @@
+POI: 			Sarah_Gadon 
+Youtube ID: 	subtgXux4_E 
+Video length: 	47.0 sec 
+Set (V): 		dev 
+ 
+Sarah_Gadon/subtgXux4_E_0000001 01.8 08.0 
+Sarah_Gadon/subtgXux4_E_0000002 09.1 18.8 
+Sarah_Gadon/subtgXux4_E_0000003 19.2 37.9 

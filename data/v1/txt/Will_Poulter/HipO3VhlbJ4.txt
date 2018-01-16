@@ -1,0 +1,9 @@
+POI: 			Will_Poulter 
+Youtube ID: 	HipO3VhlbJ4 
+Video length: 	269.8 sec 
+Set (V): 		dev 
+ 
+Will_Poulter/HipO3VhlbJ4_0000001 37.3 49.8 
+Will_Poulter/HipO3VhlbJ4_0000002 50.6 55.2 
+Will_Poulter/HipO3VhlbJ4_0000003 84.0 89.0 
+Will_Poulter/HipO3VhlbJ4_0000004 92.6 97.7 

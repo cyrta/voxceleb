@@ -1,0 +1,12 @@
+POI: 			Nadia_Bjorlin 
+Youtube ID: 	UsA4VLmofgo 
+Video length: 	100.3 sec 
+Set (V): 		dev 
+ 
+Nadia_Bjorlin/UsA4VLmofgo_0000001 00.7 14.4 
+Nadia_Bjorlin/UsA4VLmofgo_0000002 20.8 26.2 
+Nadia_Bjorlin/UsA4VLmofgo_0000003 41.8 46.3 
+Nadia_Bjorlin/UsA4VLmofgo_0000004 55.9 67.0 
+Nadia_Bjorlin/UsA4VLmofgo_0000005 59.8 67.0 
+Nadia_Bjorlin/UsA4VLmofgo_0000006 68.3 73.1 
+Nadia_Bjorlin/UsA4VLmofgo_0000007 73.2 81.7 

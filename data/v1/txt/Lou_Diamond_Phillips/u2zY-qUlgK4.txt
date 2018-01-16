@@ -1,0 +1,19 @@
+POI: 			Lou_Diamond_Phillips 
+Youtube ID: 	u2zY-qUlgK4 
+Video length: 	385.1 sec 
+Set (V): 		dev 
+ 
+Lou_Diamond_Phillips/u2zY-qUlgK4_0000001 10.6 15.3 
+Lou_Diamond_Phillips/u2zY-qUlgK4_0000002 21.0 33.8 
+Lou_Diamond_Phillips/u2zY-qUlgK4_0000003 35.0 41.7 
+Lou_Diamond_Phillips/u2zY-qUlgK4_0000004 41.9 48.3 
+Lou_Diamond_Phillips/u2zY-qUlgK4_0000005 62.5 67.3 
+Lou_Diamond_Phillips/u2zY-qUlgK4_0000006 76.8 86.1 
+Lou_Diamond_Phillips/u2zY-qUlgK4_0000007 87.5 95.5 
+Lou_Diamond_Phillips/u2zY-qUlgK4_0000008 110.7 115.0 
+Lou_Diamond_Phillips/u2zY-qUlgK4_0000009 141.4 147.7 
+Lou_Diamond_Phillips/u2zY-qUlgK4_0000010 191.8 198.5 
+Lou_Diamond_Phillips/u2zY-qUlgK4_0000011 258.5 264.4 
+Lou_Diamond_Phillips/u2zY-qUlgK4_0000012 268.3 273.4 
+Lou_Diamond_Phillips/u2zY-qUlgK4_0000013 289.6 296.6 
+Lou_Diamond_Phillips/u2zY-qUlgK4_0000014 316.2 324.9 

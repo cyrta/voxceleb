@@ -1,0 +1,13 @@
+POI: 			Ludacris 
+Youtube ID: 	SQmy7GVohMY 
+Video length: 	271.8 sec 
+Set (V): 		dev 
+ 
+Ludacris/SQmy7GVohMY_0000001 01.2 06.2 
+Ludacris/SQmy7GVohMY_0000002 107.0 115.7 
+Ludacris/SQmy7GVohMY_0000003 122.5 132.5 
+Ludacris/SQmy7GVohMY_0000004 133.2 137.8 
+Ludacris/SQmy7GVohMY_0000005 142.6 151.4 
+Ludacris/SQmy7GVohMY_0000006 152.9 158.5 
+Ludacris/SQmy7GVohMY_0000007 164.8 175.8 
+Ludacris/SQmy7GVohMY_0000008 183.3 192.3 

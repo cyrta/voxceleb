@@ -1,0 +1,8 @@
+POI: 			Rami_Malek 
+Youtube ID: 	iOXnVDawE5I 
+Video length: 	141.6 sec 
+Set (V): 		dev 
+ 
+Rami_Malek/iOXnVDawE5I_0000001 36.4 43.3 
+Rami_Malek/iOXnVDawE5I_0000002 62.6 71.1 
+Rami_Malek/iOXnVDawE5I_0000003 94.6 103.1 

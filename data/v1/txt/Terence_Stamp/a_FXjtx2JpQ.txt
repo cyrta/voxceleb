@@ -1,0 +1,8 @@
+POI: 			Terence_Stamp 
+Youtube ID: 	a_FXjtx2JpQ 
+Video length: 	146.6 sec 
+Set (V): 		dev 
+ 
+Terence_Stamp/a_FXjtx2JpQ_0000001 26.0 33.2 
+Terence_Stamp/a_FXjtx2JpQ_0000002 37.4 42.0 
+Terence_Stamp/a_FXjtx2JpQ_0000003 69.3 73.6 

@@ -1,0 +1,12 @@
+POI: 			Marisa_Miller 
+Youtube ID: 	952ImRjxC30 
+Video length: 	463.1 sec 
+Set (V): 		dev 
+ 
+Marisa_Miller/952ImRjxC30_0000001 218.4 223.3 
+Marisa_Miller/952ImRjxC30_0000002 249.5 254.4 
+Marisa_Miller/952ImRjxC30_0000003 263.5 270.0 
+Marisa_Miller/952ImRjxC30_0000004 272.9 277.3 
+Marisa_Miller/952ImRjxC30_0000005 407.9 415.9 
+Marisa_Miller/952ImRjxC30_0000006 424.0 428.6 
+Marisa_Miller/952ImRjxC30_0000007 437.9 443.6 

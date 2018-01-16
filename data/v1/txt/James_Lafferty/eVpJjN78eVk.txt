@@ -1,0 +1,8 @@
+POI: 			James_Lafferty 
+Youtube ID: 	eVpJjN78eVk 
+Video length: 	192.1 sec 
+Set (V): 		dev 
+ 
+James_Lafferty/eVpJjN78eVk_0000001 08.7 20.2 
+James_Lafferty/eVpJjN78eVk_0000002 37.5 41.9 
+James_Lafferty/eVpJjN78eVk_0000003 69.5 85.1 

@@ -1,0 +1,13 @@
+POI: 			Roma_Downey 
+Youtube ID: 	0g9pDqvGVoE 
+Video length: 	434.7 sec 
+Set (V): 		dev 
+ 
+Roma_Downey/0g9pDqvGVoE_0000001 29.6 41.7 
+Roma_Downey/0g9pDqvGVoE_0000002 73.9 83.5 
+Roma_Downey/0g9pDqvGVoE_0000003 226.1 237.3 
+Roma_Downey/0g9pDqvGVoE_0000004 258.0 269.4 
+Roma_Downey/0g9pDqvGVoE_0000005 270.1 275.1 
+Roma_Downey/0g9pDqvGVoE_0000006 279.5 295.1 
+Roma_Downey/0g9pDqvGVoE_0000007 286.7 297.0 
+Roma_Downey/0g9pDqvGVoE_0000008 389.6 397.1 

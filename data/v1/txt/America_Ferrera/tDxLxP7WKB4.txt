@@ -1,0 +1,9 @@
+POI: 			America_Ferrera 
+Youtube ID: 	tDxLxP7WKB4 
+Video length: 	135.0 sec 
+Set (V): 		dev 
+ 
+America_Ferrera/tDxLxP7WKB4_0000001 26.7 33.5 
+America_Ferrera/tDxLxP7WKB4_0000002 41.8 49.5 
+America_Ferrera/tDxLxP7WKB4_0000003 56.4 66.3 
+America_Ferrera/tDxLxP7WKB4_0000004 66.6 78.7 

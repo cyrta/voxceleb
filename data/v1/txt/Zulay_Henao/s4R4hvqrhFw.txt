@@ -1,0 +1,14 @@
+POI: 			Zulay_Henao 
+Youtube ID: 	s4R4hvqrhFw 
+Video length: 	310.6 sec 
+Set (V): 		dev 
+ 
+Zulay_Henao/s4R4hvqrhFw_0000001 70.1 114.1 
+Zulay_Henao/s4R4hvqrhFw_0000002 116.8 141.0 
+Zulay_Henao/s4R4hvqrhFw_0000003 169.7 175.8 
+Zulay_Henao/s4R4hvqrhFw_0000004 176.2 180.6 
+Zulay_Henao/s4R4hvqrhFw_0000005 181.7 187.7 
+Zulay_Henao/s4R4hvqrhFw_0000006 191.2 198.7 
+Zulay_Henao/s4R4hvqrhFw_0000007 227.2 232.6 
+Zulay_Henao/s4R4hvqrhFw_0000008 235.8 256.0 
+Zulay_Henao/s4R4hvqrhFw_0000009 276.4 280.8 

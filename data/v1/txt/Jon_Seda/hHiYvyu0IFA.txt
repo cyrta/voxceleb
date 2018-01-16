@@ -1,0 +1,13 @@
+POI: 			Jon_Seda 
+Youtube ID: 	hHiYvyu0IFA 
+Video length: 	138.1 sec 
+Set (V): 		dev 
+ 
+Jon_Seda/hHiYvyu0IFA_0000001 14.3 23.9 
+Jon_Seda/hHiYvyu0IFA_0000002 31.8 43.1 
+Jon_Seda/hHiYvyu0IFA_0000003 49.7 56.5 
+Jon_Seda/hHiYvyu0IFA_0000004 58.3 62.3 
+Jon_Seda/hHiYvyu0IFA_0000005 88.3 97.8 
+Jon_Seda/hHiYvyu0IFA_0000006 100.4 113.9 
+Jon_Seda/hHiYvyu0IFA_0000007 115.1 119.6 
+Jon_Seda/hHiYvyu0IFA_0000008 123.3 129.3 

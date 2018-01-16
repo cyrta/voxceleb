@@ -1,0 +1,18 @@
+POI: 			Tupac_Shakur 
+Youtube ID: 	aMXzLhbWtmk 
+Video length: 	316.0 sec 
+Set (V): 		dev 
+ 
+Tupac_Shakur/aMXzLhbWtmk_0000001 12.4 32.9 
+Tupac_Shakur/aMXzLhbWtmk_0000002 41.3 48.8 
+Tupac_Shakur/aMXzLhbWtmk_0000003 49.8 54.9 
+Tupac_Shakur/aMXzLhbWtmk_0000004 133.6 139.7 
+Tupac_Shakur/aMXzLhbWtmk_0000005 142.5 150.0 
+Tupac_Shakur/aMXzLhbWtmk_0000006 150.9 155.7 
+Tupac_Shakur/aMXzLhbWtmk_0000007 161.0 167.0 
+Tupac_Shakur/aMXzLhbWtmk_0000008 176.3 187.6 
+Tupac_Shakur/aMXzLhbWtmk_0000009 205.4 212.9 
+Tupac_Shakur/aMXzLhbWtmk_0000010 221.0 233.8 
+Tupac_Shakur/aMXzLhbWtmk_0000011 253.8 261.9 
+Tupac_Shakur/aMXzLhbWtmk_0000012 276.9 292.2 
+Tupac_Shakur/aMXzLhbWtmk_0000013 303.6 310.1 

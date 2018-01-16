@@ -1,0 +1,19 @@
+POI: 			Kangana_Ranaut 
+Youtube ID: 	qMMlFEm6CuE 
+Video length: 	591.5 sec 
+Set (V): 		dev 
+ 
+Kangana_Ranaut/qMMlFEm6CuE_0000001 26.0 33.0 
+Kangana_Ranaut/qMMlFEm6CuE_0000002 120.3 129.1 
+Kangana_Ranaut/qMMlFEm6CuE_0000003 160.1 169.4 
+Kangana_Ranaut/qMMlFEm6CuE_0000004 205.9 210.9 
+Kangana_Ranaut/qMMlFEm6CuE_0000005 226.0 236.0 
+Kangana_Ranaut/qMMlFEm6CuE_0000006 290.5 295.2 
+Kangana_Ranaut/qMMlFEm6CuE_0000007 315.8 321.8 
+Kangana_Ranaut/qMMlFEm6CuE_0000008 322.4 327.6 
+Kangana_Ranaut/qMMlFEm6CuE_0000009 410.4 417.5 
+Kangana_Ranaut/qMMlFEm6CuE_0000010 493.0 498.8 
+Kangana_Ranaut/qMMlFEm6CuE_0000011 533.5 540.4 
+Kangana_Ranaut/qMMlFEm6CuE_0000012 556.2 560.5 
+Kangana_Ranaut/qMMlFEm6CuE_0000013 574.4 581.3 
+Kangana_Ranaut/qMMlFEm6CuE_0000014 585.5 590.0 

@@ -1,0 +1,15 @@
+POI: 			Abbie_Cornish 
+Youtube ID: 	nLEBBc9oIFs 
+Video length: 	249.1 sec 
+Set (V): 		dev 
+ 
+Abbie_Cornish/nLEBBc9oIFs_0000001 35.4 41.8 
+Abbie_Cornish/nLEBBc9oIFs_0000002 62.4 67.0 
+Abbie_Cornish/nLEBBc9oIFs_0000003 100.8 104.7 
+Abbie_Cornish/nLEBBc9oIFs_0000004 106.5 112.3 
+Abbie_Cornish/nLEBBc9oIFs_0000005 123.7 129.9 
+Abbie_Cornish/nLEBBc9oIFs_0000006 136.0 148.0 
+Abbie_Cornish/nLEBBc9oIFs_0000007 156.2 162.8 
+Abbie_Cornish/nLEBBc9oIFs_0000008 187.3 202.4 
+Abbie_Cornish/nLEBBc9oIFs_0000009 202.5 211.3 
+Abbie_Cornish/nLEBBc9oIFs_0000010 215.1 240.5 

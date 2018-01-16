@@ -1,0 +1,20 @@
+POI: 			Abbie_Cornish 
+Youtube ID: 	0otHlFztX8I 
+Video length: 	205.7 sec 
+Set (V): 		dev 
+ 
+Abbie_Cornish/0otHlFztX8I_0000001 00.9 07.3 
+Abbie_Cornish/0otHlFztX8I_0000002 08.5 16.6 
+Abbie_Cornish/0otHlFztX8I_0000003 18.8 43.4 
+Abbie_Cornish/0otHlFztX8I_0000004 47.5 51.6 
+Abbie_Cornish/0otHlFztX8I_0000005 51.8 64.1 
+Abbie_Cornish/0otHlFztX8I_0000006 64.3 77.3 
+Abbie_Cornish/0otHlFztX8I_0000007 77.6 83.8 
+Abbie_Cornish/0otHlFztX8I_0000008 103.1 111.6 
+Abbie_Cornish/0otHlFztX8I_0000009 112.6 130.6 
+Abbie_Cornish/0otHlFztX8I_0000010 135.2 139.4 
+Abbie_Cornish/0otHlFztX8I_0000011 139.6 148.4 
+Abbie_Cornish/0otHlFztX8I_0000012 149.9 159.4 
+Abbie_Cornish/0otHlFztX8I_0000013 161.1 176.0 
+Abbie_Cornish/0otHlFztX8I_0000014 184.1 192.9 
+Abbie_Cornish/0otHlFztX8I_0000015 193.5 204.0 

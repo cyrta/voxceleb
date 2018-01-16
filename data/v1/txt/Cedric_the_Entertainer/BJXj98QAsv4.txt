@@ -1,0 +1,8 @@
+POI: 			Cedric_the_Entertainer 
+Youtube ID: 	BJXj98QAsv4 
+Video length: 	422.1 sec 
+Set (V): 		dev 
+ 
+Cedric_the_Entertainer/BJXj98QAsv4_0000001 77.3 85.9 
+Cedric_the_Entertainer/BJXj98QAsv4_0000002 188.5 193.0 
+Cedric_the_Entertainer/BJXj98QAsv4_0000003 263.2 268.9 

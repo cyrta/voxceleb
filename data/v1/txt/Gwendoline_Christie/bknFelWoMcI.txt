@@ -1,0 +1,16 @@
+POI: 			Gwendoline_Christie 
+Youtube ID: 	bknFelWoMcI 
+Video length: 	178.8 sec 
+Set (V): 		dev 
+ 
+Gwendoline_Christie/bknFelWoMcI_0000001 10.7 17.7 
+Gwendoline_Christie/bknFelWoMcI_0000002 19.1 24.5 
+Gwendoline_Christie/bknFelWoMcI_0000003 25.1 32.7 
+Gwendoline_Christie/bknFelWoMcI_0000004 44.3 55.0 
+Gwendoline_Christie/bknFelWoMcI_0000005 56.4 67.7 
+Gwendoline_Christie/bknFelWoMcI_0000006 68.6 81.4 
+Gwendoline_Christie/bknFelWoMcI_0000007 75.8 100.8 
+Gwendoline_Christie/bknFelWoMcI_0000008 105.8 111.6 
+Gwendoline_Christie/bknFelWoMcI_0000009 129.2 139.3 
+Gwendoline_Christie/bknFelWoMcI_0000010 140.6 153.8 
+Gwendoline_Christie/bknFelWoMcI_0000011 155.7 173.2 

@@ -1,0 +1,11 @@
+POI: 			Tamara_Tunie 
+Youtube ID: 	gd6TiZNU2lw 
+Video length: 	198.9 sec 
+Set (V): 		dev 
+ 
+Tamara_Tunie/gd6TiZNU2lw_0000001 30.4 37.4 
+Tamara_Tunie/gd6TiZNU2lw_0000002 37.8 41.9 
+Tamara_Tunie/gd6TiZNU2lw_0000003 42.1 74.3 
+Tamara_Tunie/gd6TiZNU2lw_0000004 74.9 81.4 
+Tamara_Tunie/gd6TiZNU2lw_0000005 81.7 86.8 
+Tamara_Tunie/gd6TiZNU2lw_0000006 159.4 163.7 

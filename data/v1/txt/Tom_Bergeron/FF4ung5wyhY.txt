@@ -1,0 +1,19 @@
+POI: 			Tom_Bergeron 
+Youtube ID: 	FF4ung5wyhY 
+Video length: 	223.9 sec 
+Set (V): 		dev 
+ 
+Tom_Bergeron/FF4ung5wyhY_0000001 06.3 10.4 
+Tom_Bergeron/FF4ung5wyhY_0000002 14.0 22.3 
+Tom_Bergeron/FF4ung5wyhY_0000003 23.0 28.3 
+Tom_Bergeron/FF4ung5wyhY_0000004 31.1 59.6 
+Tom_Bergeron/FF4ung5wyhY_0000005 59.8 65.0 
+Tom_Bergeron/FF4ung5wyhY_0000006 66.8 100.3 
+Tom_Bergeron/FF4ung5wyhY_0000007 102.2 118.1 
+Tom_Bergeron/FF4ung5wyhY_0000008 120.0 132.5 
+Tom_Bergeron/FF4ung5wyhY_0000009 132.7 159.8 
+Tom_Bergeron/FF4ung5wyhY_0000010 166.7 173.0 
+Tom_Bergeron/FF4ung5wyhY_0000011 177.0 181.6 
+Tom_Bergeron/FF4ung5wyhY_0000012 183.4 195.1 
+Tom_Bergeron/FF4ung5wyhY_0000013 195.6 201.1 
+Tom_Bergeron/FF4ung5wyhY_0000014 207.4 212.4 

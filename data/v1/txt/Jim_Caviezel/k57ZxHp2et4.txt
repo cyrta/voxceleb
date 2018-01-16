@@ -1,0 +1,19 @@
+POI: 			Jim_Caviezel 
+Youtube ID: 	k57ZxHp2et4 
+Video length: 	464.0 sec 
+Set (V): 		dev 
+ 
+Jim_Caviezel/k57ZxHp2et4_0000001 03.9 07.9 
+Jim_Caviezel/k57ZxHp2et4_0000002 35.4 40.2 
+Jim_Caviezel/k57ZxHp2et4_0000003 46.7 55.5 
+Jim_Caviezel/k57ZxHp2et4_0000004 61.8 71.3 
+Jim_Caviezel/k57ZxHp2et4_0000005 147.3 151.3 
+Jim_Caviezel/k57ZxHp2et4_0000006 159.8 166.4 
+Jim_Caviezel/k57ZxHp2et4_0000007 169.4 177.6 
+Jim_Caviezel/k57ZxHp2et4_0000008 210.7 217.7 
+Jim_Caviezel/k57ZxHp2et4_0000009 219.9 235.8 
+Jim_Caviezel/k57ZxHp2et4_0000010 347.7 351.9 
+Jim_Caviezel/k57ZxHp2et4_0000011 364.3 368.4 
+Jim_Caviezel/k57ZxHp2et4_0000012 368.8 379.2 
+Jim_Caviezel/k57ZxHp2et4_0000013 417.4 445.3 
+Jim_Caviezel/k57ZxHp2et4_0000014 451.7 458.8 

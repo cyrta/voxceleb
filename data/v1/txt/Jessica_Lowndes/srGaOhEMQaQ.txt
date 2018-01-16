@@ -1,0 +1,11 @@
+POI: 			Jessica_Lowndes 
+Youtube ID: 	srGaOhEMQaQ 
+Video length: 	199.0 sec 
+Set (V): 		dev 
+ 
+Jessica_Lowndes/srGaOhEMQaQ_0000001 74.7 80.5 
+Jessica_Lowndes/srGaOhEMQaQ_0000002 82.5 87.5 
+Jessica_Lowndes/srGaOhEMQaQ_0000003 129.4 135.7 
+Jessica_Lowndes/srGaOhEMQaQ_0000004 148.6 160.2 
+Jessica_Lowndes/srGaOhEMQaQ_0000005 164.8 169.2 
+Jessica_Lowndes/srGaOhEMQaQ_0000006 188.0 196.8 

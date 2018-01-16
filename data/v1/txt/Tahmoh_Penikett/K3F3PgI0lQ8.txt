@@ -1,0 +1,38 @@
+POI: 			Tahmoh_Penikett 
+Youtube ID: 	K3F3PgI0lQ8 
+Video length: 	589.7 sec 
+Set (V): 		dev 
+ 
+Tahmoh_Penikett/K3F3PgI0lQ8_0000001 05.3 11.2 
+Tahmoh_Penikett/K3F3PgI0lQ8_0000002 16.5 25.7 
+Tahmoh_Penikett/K3F3PgI0lQ8_0000003 40.2 47.6 
+Tahmoh_Penikett/K3F3PgI0lQ8_0000004 48.8 57.2 
+Tahmoh_Penikett/K3F3PgI0lQ8_0000005 64.4 70.4 
+Tahmoh_Penikett/K3F3PgI0lQ8_0000006 71.2 83.6 
+Tahmoh_Penikett/K3F3PgI0lQ8_0000007 85.6 96.2 
+Tahmoh_Penikett/K3F3PgI0lQ8_0000008 144.7 161.2 
+Tahmoh_Penikett/K3F3PgI0lQ8_0000009 165.1 169.7 
+Tahmoh_Penikett/K3F3PgI0lQ8_0000010 170.6 178.1 
+Tahmoh_Penikett/K3F3PgI0lQ8_0000011 179.0 185.7 
+Tahmoh_Penikett/K3F3PgI0lQ8_0000012 191.2 196.6 
+Tahmoh_Penikett/K3F3PgI0lQ8_0000013 219.7 224.6 
+Tahmoh_Penikett/K3F3PgI0lQ8_0000014 226.4 234.0 
+Tahmoh_Penikett/K3F3PgI0lQ8_0000015 256.2 265.4 
+Tahmoh_Penikett/K3F3PgI0lQ8_0000016 266.0 271.5 
+Tahmoh_Penikett/K3F3PgI0lQ8_0000017 272.8 277.7 
+Tahmoh_Penikett/K3F3PgI0lQ8_0000018 282.8 293.2 
+Tahmoh_Penikett/K3F3PgI0lQ8_0000019 303.2 309.2 
+Tahmoh_Penikett/K3F3PgI0lQ8_0000020 311.2 321.5 
+Tahmoh_Penikett/K3F3PgI0lQ8_0000021 331.4 341.3 
+Tahmoh_Penikett/K3F3PgI0lQ8_0000022 343.6 348.8 
+Tahmoh_Penikett/K3F3PgI0lQ8_0000023 352.7 356.8 
+Tahmoh_Penikett/K3F3PgI0lQ8_0000024 363.6 370.4 
+Tahmoh_Penikett/K3F3PgI0lQ8_0000025 376.1 394.4 
+Tahmoh_Penikett/K3F3PgI0lQ8_0000026 404.4 415.4 
+Tahmoh_Penikett/K3F3PgI0lQ8_0000027 450.1 454.7 
+Tahmoh_Penikett/K3F3PgI0lQ8_0000028 456.9 465.9 
+Tahmoh_Penikett/K3F3PgI0lQ8_0000029 466.8 480.5 
+Tahmoh_Penikett/K3F3PgI0lQ8_0000030 510.6 517.4 
+Tahmoh_Penikett/K3F3PgI0lQ8_0000031 541.5 548.8 
+Tahmoh_Penikett/K3F3PgI0lQ8_0000032 555.8 560.5 
+Tahmoh_Penikett/K3F3PgI0lQ8_0000033 573.3 579.9 

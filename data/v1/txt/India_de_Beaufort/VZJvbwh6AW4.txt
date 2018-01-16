@@ -1,0 +1,13 @@
+POI: 			India_de_Beaufort 
+Youtube ID: 	VZJvbwh6AW4 
+Video length: 	157.5 sec 
+Set (V): 		dev 
+ 
+India_de_Beaufort/VZJvbwh6AW4_0000001 01.3 06.5 
+India_de_Beaufort/VZJvbwh6AW4_0000002 29.9 49.6 
+India_de_Beaufort/VZJvbwh6AW4_0000003 52.0 77.3 
+India_de_Beaufort/VZJvbwh6AW4_0000004 82.4 93.1 
+India_de_Beaufort/VZJvbwh6AW4_0000005 104.4 111.2 
+India_de_Beaufort/VZJvbwh6AW4_0000006 123.2 128.2 
+India_de_Beaufort/VZJvbwh6AW4_0000007 133.6 137.9 
+India_de_Beaufort/VZJvbwh6AW4_0000008 138.2 151.1 

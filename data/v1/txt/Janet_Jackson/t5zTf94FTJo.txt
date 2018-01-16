@@ -1,0 +1,11 @@
+POI: 			Janet_Jackson 
+Youtube ID: 	t5zTf94FTJo 
+Video length: 	361.7 sec 
+Set (V): 		dev 
+ 
+Janet_Jackson/t5zTf94FTJo_0000001 20.0 29.6 
+Janet_Jackson/t5zTf94FTJo_0000002 31.3 36.0 
+Janet_Jackson/t5zTf94FTJo_0000003 80.9 91.3 
+Janet_Jackson/t5zTf94FTJo_0000004 235.6 239.6 
+Janet_Jackson/t5zTf94FTJo_0000005 242.4 249.8 
+Janet_Jackson/t5zTf94FTJo_0000006 308.8 318.0 

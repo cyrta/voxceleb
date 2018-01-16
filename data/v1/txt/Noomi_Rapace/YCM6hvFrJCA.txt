@@ -1,0 +1,12 @@
+POI: 			Noomi_Rapace 
+Youtube ID: 	YCM6hvFrJCA 
+Video length: 	248.1 sec 
+Set (V): 		dev 
+ 
+Noomi_Rapace/YCM6hvFrJCA_0000001 72.5 76.8 
+Noomi_Rapace/YCM6hvFrJCA_0000002 108.3 118.2 
+Noomi_Rapace/YCM6hvFrJCA_0000003 146.6 152.1 
+Noomi_Rapace/YCM6hvFrJCA_0000004 153.2 161.1 
+Noomi_Rapace/YCM6hvFrJCA_0000005 178.6 187.9 
+Noomi_Rapace/YCM6hvFrJCA_0000006 193.1 198.4 
+Noomi_Rapace/YCM6hvFrJCA_0000007 221.9 232.2 

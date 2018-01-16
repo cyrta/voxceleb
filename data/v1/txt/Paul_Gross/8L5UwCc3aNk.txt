@@ -1,0 +1,11 @@
+POI: 			Paul_Gross 
+Youtube ID: 	8L5UwCc3aNk 
+Video length: 	597.4 sec 
+Set (V): 		dev 
+ 
+Paul_Gross/8L5UwCc3aNk_0000001 90.9 94.9 
+Paul_Gross/8L5UwCc3aNk_0000002 370.4 374.3 
+Paul_Gross/8L5UwCc3aNk_0000003 424.4 429.4 
+Paul_Gross/8L5UwCc3aNk_0000004 445.8 451.9 
+Paul_Gross/8L5UwCc3aNk_0000005 455.5 459.5 
+Paul_Gross/8L5UwCc3aNk_0000006 468.5 472.5 

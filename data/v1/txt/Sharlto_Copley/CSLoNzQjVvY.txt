@@ -1,0 +1,9 @@
+POI: 			Sharlto_Copley 
+Youtube ID: 	CSLoNzQjVvY 
+Video length: 	336.3 sec 
+Set (V): 		dev 
+ 
+Sharlto_Copley/CSLoNzQjVvY_0000001 56.0 63.4 
+Sharlto_Copley/CSLoNzQjVvY_0000002 158.0 163.2 
+Sharlto_Copley/CSLoNzQjVvY_0000003 171.9 176.6 
+Sharlto_Copley/CSLoNzQjVvY_0000004 264.4 272.5 

@@ -1,0 +1,9 @@
+POI: 			Denis_Leary 
+Youtube ID: 	eObjDflKdyY 
+Video length: 	754.0 sec 
+Set (V): 		dev 
+ 
+Denis_Leary/eObjDflKdyY_0000001 229.6 237.8 
+Denis_Leary/eObjDflKdyY_0000002 246.0 249.9 
+Denis_Leary/eObjDflKdyY_0000003 280.8 287.0 
+Denis_Leary/eObjDflKdyY_0000004 359.6 365.8 

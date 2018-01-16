@@ -1,0 +1,9 @@
+POI: 			Forest_Whitaker 
+Youtube ID: 	kjwinO0QQ-s 
+Video length: 	337.7 sec 
+Set (V): 		dev 
+ 
+Forest_Whitaker/kjwinO0QQ-s_0000001 90.6 102.6 
+Forest_Whitaker/kjwinO0QQ-s_0000002 195.1 203.5 
+Forest_Whitaker/kjwinO0QQ-s_0000003 205.1 210.6 
+Forest_Whitaker/kjwinO0QQ-s_0000004 298.4 303.1 

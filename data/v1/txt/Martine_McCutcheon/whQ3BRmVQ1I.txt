@@ -1,0 +1,19 @@
+POI: 			Martine_McCutcheon 
+Youtube ID: 	whQ3BRmVQ1I 
+Video length: 	326.0 sec 
+Set (V): 		dev 
+ 
+Martine_McCutcheon/whQ3BRmVQ1I_0000001 42.9 58.4 
+Martine_McCutcheon/whQ3BRmVQ1I_0000002 64.8 74.3 
+Martine_McCutcheon/whQ3BRmVQ1I_0000003 80.1 92.1 
+Martine_McCutcheon/whQ3BRmVQ1I_0000004 97.6 112.0 
+Martine_McCutcheon/whQ3BRmVQ1I_0000005 117.0 124.2 
+Martine_McCutcheon/whQ3BRmVQ1I_0000006 139.8 154.8 
+Martine_McCutcheon/whQ3BRmVQ1I_0000007 159.8 168.7 
+Martine_McCutcheon/whQ3BRmVQ1I_0000008 174.7 187.3 
+Martine_McCutcheon/whQ3BRmVQ1I_0000009 214.7 225.5 
+Martine_McCutcheon/whQ3BRmVQ1I_0000010 234.2 239.3 
+Martine_McCutcheon/whQ3BRmVQ1I_0000011 243.5 249.5 
+Martine_McCutcheon/whQ3BRmVQ1I_0000012 253.2 261.0 
+Martine_McCutcheon/whQ3BRmVQ1I_0000013 270.8 275.0 
+Martine_McCutcheon/whQ3BRmVQ1I_0000014 275.5 280.4 

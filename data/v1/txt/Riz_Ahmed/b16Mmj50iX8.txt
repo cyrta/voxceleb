@@ -1,0 +1,12 @@
+POI: 			Riz_Ahmed 
+Youtube ID: 	b16Mmj50iX8 
+Video length: 	289.4 sec 
+Set (V): 		dev 
+ 
+Riz_Ahmed/b16Mmj50iX8_0000001 31.2 36.6 
+Riz_Ahmed/b16Mmj50iX8_0000002 37.7 52.4 
+Riz_Ahmed/b16Mmj50iX8_0000003 54.2 61.5 
+Riz_Ahmed/b16Mmj50iX8_0000004 71.0 77.8 
+Riz_Ahmed/b16Mmj50iX8_0000005 140.6 163.6 
+Riz_Ahmed/b16Mmj50iX8_0000006 165.4 176.1 
+Riz_Ahmed/b16Mmj50iX8_0000007 268.2 287.3 

@@ -1,0 +1,9 @@
+POI: 			Sandra_Oh 
+Youtube ID: 	pJ8avIEuD9I 
+Video length: 	139.4 sec 
+Set (V): 		dev 
+ 
+Sandra_Oh/pJ8avIEuD9I_0000001 17.2 22.4 
+Sandra_Oh/pJ8avIEuD9I_0000002 33.2 38.0 
+Sandra_Oh/pJ8avIEuD9I_0000003 75.2 85.2 
+Sandra_Oh/pJ8avIEuD9I_0000004 85.6 92.8 

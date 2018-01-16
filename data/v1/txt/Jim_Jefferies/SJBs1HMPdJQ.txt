@@ -1,0 +1,10 @@
+POI: 			Jim_Jefferies 
+Youtube ID: 	SJBs1HMPdJQ 
+Video length: 	131.5 sec 
+Set (V): 		dev 
+ 
+Jim_Jefferies/SJBs1HMPdJQ_0000001 08.8 13.6 
+Jim_Jefferies/SJBs1HMPdJQ_0000002 46.2 60.6 
+Jim_Jefferies/SJBs1HMPdJQ_0000003 65.7 70.3 
+Jim_Jefferies/SJBs1HMPdJQ_0000004 72.2 76.6 
+Jim_Jefferies/SJBs1HMPdJQ_0000005 78.5 86.9 

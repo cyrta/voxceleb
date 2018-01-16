@@ -1,0 +1,10 @@
+POI: 			Bellamy_Young 
+Youtube ID: 	81j3nsl68wA 
+Video length: 	276.3 sec 
+Set (V): 		dev 
+ 
+Bellamy_Young/81j3nsl68wA_0000001 65.8 74.5 
+Bellamy_Young/81j3nsl68wA_0000002 81.6 87.6 
+Bellamy_Young/81j3nsl68wA_0000003 88.9 93.7 
+Bellamy_Young/81j3nsl68wA_0000004 118.1 123.1 
+Bellamy_Young/81j3nsl68wA_0000005 226.6 230.9 

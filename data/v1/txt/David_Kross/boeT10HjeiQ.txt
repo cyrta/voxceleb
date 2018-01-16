@@ -1,0 +1,11 @@
+POI: 			David_Kross 
+Youtube ID: 	boeT10HjeiQ 
+Video length: 	721.7 sec 
+Set (V): 		dev 
+ 
+David_Kross/boeT10HjeiQ_0000001 115.7 120.2 
+David_Kross/boeT10HjeiQ_0000002 147.8 152.4 
+David_Kross/boeT10HjeiQ_0000003 234.2 238.2 
+David_Kross/boeT10HjeiQ_0000004 383.8 389.2 
+David_Kross/boeT10HjeiQ_0000005 643.1 649.2 
+David_Kross/boeT10HjeiQ_0000006 649.4 654.8 

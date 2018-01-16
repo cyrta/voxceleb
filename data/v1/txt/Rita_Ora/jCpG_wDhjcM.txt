@@ -1,0 +1,39 @@
+POI: 			Rita_Ora 
+Youtube ID: 	jCpG_wDhjcM 
+Video length: 	1222.2 sec 
+Set (V): 		dev 
+ 
+Rita_Ora/jCpG_wDhjcM_0000001 58.7 81.3 
+Rita_Ora/jCpG_wDhjcM_0000002 157.6 189.0 
+Rita_Ora/jCpG_wDhjcM_0000003 193.4 202.2 
+Rita_Ora/jCpG_wDhjcM_0000004 209.3 219.8 
+Rita_Ora/jCpG_wDhjcM_0000005 220.0 225.9 
+Rita_Ora/jCpG_wDhjcM_0000006 286.2 297.9 
+Rita_Ora/jCpG_wDhjcM_0000007 348.1 371.9 
+Rita_Ora/jCpG_wDhjcM_0000008 382.0 394.3 
+Rita_Ora/jCpG_wDhjcM_0000009 394.8 425.2 
+Rita_Ora/jCpG_wDhjcM_0000010 445.7 458.0 
+Rita_Ora/jCpG_wDhjcM_0000011 458.6 472.9 
+Rita_Ora/jCpG_wDhjcM_0000012 495.9 502.2 
+Rita_Ora/jCpG_wDhjcM_0000013 549.5 553.8 
+Rita_Ora/jCpG_wDhjcM_0000014 553.8 562.3 
+Rita_Ora/jCpG_wDhjcM_0000015 600.4 620.0 
+Rita_Ora/jCpG_wDhjcM_0000016 620.8 644.0 
+Rita_Ora/jCpG_wDhjcM_0000017 655.8 663.5 
+Rita_Ora/jCpG_wDhjcM_0000018 690.6 697.3 
+Rita_Ora/jCpG_wDhjcM_0000019 710.0 716.7 
+Rita_Ora/jCpG_wDhjcM_0000020 735.8 772.3 
+Rita_Ora/jCpG_wDhjcM_0000021 790.8 798.3 
+Rita_Ora/jCpG_wDhjcM_0000022 800.0 817.1 
+Rita_Ora/jCpG_wDhjcM_0000023 827.8 836.6 
+Rita_Ora/jCpG_wDhjcM_0000024 886.4 919.9 
+Rita_Ora/jCpG_wDhjcM_0000025 921.1 937.4 
+Rita_Ora/jCpG_wDhjcM_0000026 955.2 959.7 
+Rita_Ora/jCpG_wDhjcM_0000027 977.3 1013.4 
+Rita_Ora/jCpG_wDhjcM_0000028 1013.6 1024.7 
+Rita_Ora/jCpG_wDhjcM_0000029 1031.1 1036.5 
+Rita_Ora/jCpG_wDhjcM_0000030 1041.9 1049.8 
+Rita_Ora/jCpG_wDhjcM_0000031 1059.6 1064.7 
+Rita_Ora/jCpG_wDhjcM_0000032 1079.9 1091.5 
+Rita_Ora/jCpG_wDhjcM_0000033 1121.9 1177.9 
+Rita_Ora/jCpG_wDhjcM_0000034 1194.2 1199.1 

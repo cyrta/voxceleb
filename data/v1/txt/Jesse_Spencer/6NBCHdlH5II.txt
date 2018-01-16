@@ -1,0 +1,9 @@
+POI: 			Jesse_Spencer 
+Youtube ID: 	6NBCHdlH5II 
+Video length: 	133.6 sec 
+Set (V): 		dev 
+ 
+Jesse_Spencer/6NBCHdlH5II_0000001 16.1 22.2 
+Jesse_Spencer/6NBCHdlH5II_0000002 61.4 65.9 
+Jesse_Spencer/6NBCHdlH5II_0000003 67.7 86.0 
+Jesse_Spencer/6NBCHdlH5II_0000004 115.8 120.6 

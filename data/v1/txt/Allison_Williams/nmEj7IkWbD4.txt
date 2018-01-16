@@ -1,0 +1,17 @@
+POI: 			Allison_Williams 
+Youtube ID: 	nmEj7IkWbD4 
+Video length: 	585.1 sec 
+Set (V): 		dev 
+ 
+Allison_Williams/nmEj7IkWbD4_0000001 68.8 72.8 
+Allison_Williams/nmEj7IkWbD4_0000002 98.0 108.0 
+Allison_Williams/nmEj7IkWbD4_0000003 144.3 148.4 
+Allison_Williams/nmEj7IkWbD4_0000004 252.5 261.5 
+Allison_Williams/nmEj7IkWbD4_0000005 261.8 266.5 
+Allison_Williams/nmEj7IkWbD4_0000006 288.4 294.5 
+Allison_Williams/nmEj7IkWbD4_0000007 316.3 336.3 
+Allison_Williams/nmEj7IkWbD4_0000008 345.6 357.2 
+Allison_Williams/nmEj7IkWbD4_0000009 363.0 367.3 
+Allison_Williams/nmEj7IkWbD4_0000010 369.6 373.9 
+Allison_Williams/nmEj7IkWbD4_0000011 430.2 434.3 
+Allison_Williams/nmEj7IkWbD4_0000012 485.4 494.8 

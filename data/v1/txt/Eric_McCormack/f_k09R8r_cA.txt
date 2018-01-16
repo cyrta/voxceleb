@@ -1,0 +1,10 @@
+POI: 			Eric_McCormack 
+Youtube ID: 	f_k09R8r_cA 
+Video length: 	602.3 sec 
+Set (V): 		test 
+ 
+Eric_McCormack/f_k09R8r_cA_0000001 113.0 117.2 
+Eric_McCormack/f_k09R8r_cA_0000002 147.0 151.6 
+Eric_McCormack/f_k09R8r_cA_0000003 499.1 503.5 
+Eric_McCormack/f_k09R8r_cA_0000004 525.4 530.0 
+Eric_McCormack/f_k09R8r_cA_0000005 575.3 580.2 

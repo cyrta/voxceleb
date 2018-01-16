@@ -1,0 +1,9 @@
+POI: 			Miranda_Richardson 
+Youtube ID: 	EYayIRc_ZQQ 
+Video length: 	126.2 sec 
+Set (V): 		dev 
+ 
+Miranda_Richardson/EYayIRc_ZQQ_0000001 06.8 26.3 
+Miranda_Richardson/EYayIRc_ZQQ_0000002 26.9 31.1 
+Miranda_Richardson/EYayIRc_ZQQ_0000003 47.3 53.4 
+Miranda_Richardson/EYayIRc_ZQQ_0000004 75.8 97.6 

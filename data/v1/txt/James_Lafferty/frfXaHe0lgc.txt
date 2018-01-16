@@ -1,0 +1,10 @@
+POI: 			James_Lafferty 
+Youtube ID: 	frfXaHe0lgc 
+Video length: 	293.8 sec 
+Set (V): 		dev 
+ 
+James_Lafferty/frfXaHe0lgc_0000001 85.6 92.1 
+James_Lafferty/frfXaHe0lgc_0000002 141.8 146.0 
+James_Lafferty/frfXaHe0lgc_0000003 181.8 189.8 
+James_Lafferty/frfXaHe0lgc_0000004 208.8 213.8 
+James_Lafferty/frfXaHe0lgc_0000005 276.1 281.6 

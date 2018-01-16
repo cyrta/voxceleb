@@ -1,0 +1,17 @@
+POI: 			Sharon_Gless 
+Youtube ID: 	lXXaf3KAXrQ 
+Video length: 	570.4 sec 
+Set (V): 		dev 
+ 
+Sharon_Gless/lXXaf3KAXrQ_0000001 332.3 336.3 
+Sharon_Gless/lXXaf3KAXrQ_0000002 338.4 343.6 
+Sharon_Gless/lXXaf3KAXrQ_0000003 370.9 380.3 
+Sharon_Gless/lXXaf3KAXrQ_0000004 381.4 385.6 
+Sharon_Gless/lXXaf3KAXrQ_0000005 397.2 404.0 
+Sharon_Gless/lXXaf3KAXrQ_0000006 417.6 423.2 
+Sharon_Gless/lXXaf3KAXrQ_0000007 423.7 428.4 
+Sharon_Gless/lXXaf3KAXrQ_0000008 445.8 449.7 
+Sharon_Gless/lXXaf3KAXrQ_0000009 462.9 476.3 
+Sharon_Gless/lXXaf3KAXrQ_0000010 486.0 491.7 
+Sharon_Gless/lXXaf3KAXrQ_0000011 522.3 526.2 
+Sharon_Gless/lXXaf3KAXrQ_0000012 529.6 534.4 

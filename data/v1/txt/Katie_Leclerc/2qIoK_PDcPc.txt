@@ -1,0 +1,10 @@
+POI: 			Katie_Leclerc 
+Youtube ID: 	2qIoK_PDcPc 
+Video length: 	113.7 sec 
+Set (V): 		dev 
+ 
+Katie_Leclerc/2qIoK_PDcPc_0000001 05.6 14.6 
+Katie_Leclerc/2qIoK_PDcPc_0000002 15.8 37.2 
+Katie_Leclerc/2qIoK_PDcPc_0000003 48.2 58.0 
+Katie_Leclerc/2qIoK_PDcPc_0000004 64.8 78.3 
+Katie_Leclerc/2qIoK_PDcPc_0000005 91.9 109.0 

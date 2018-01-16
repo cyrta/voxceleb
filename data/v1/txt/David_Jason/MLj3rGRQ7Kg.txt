@@ -1,0 +1,17 @@
+POI: 			David_Jason 
+Youtube ID: 	MLj3rGRQ7Kg 
+Video length: 	219.9 sec 
+Set (V): 		dev 
+ 
+David_Jason/MLj3rGRQ7Kg_0000001 00.7 15.8 
+David_Jason/MLj3rGRQ7Kg_0000002 24.6 28.9 
+David_Jason/MLj3rGRQ7Kg_0000003 29.4 35.6 
+David_Jason/MLj3rGRQ7Kg_0000004 39.3 45.7 
+David_Jason/MLj3rGRQ7Kg_0000005 63.5 68.0 
+David_Jason/MLj3rGRQ7Kg_0000006 90.4 108.2 
+David_Jason/MLj3rGRQ7Kg_0000007 98.9 106.9 
+David_Jason/MLj3rGRQ7Kg_0000008 117.4 122.1 
+David_Jason/MLj3rGRQ7Kg_0000009 132.4 150.5 
+David_Jason/MLj3rGRQ7Kg_0000010 173.2 180.3 
+David_Jason/MLj3rGRQ7Kg_0000011 185.7 189.8 
+David_Jason/MLj3rGRQ7Kg_0000012 192.4 197.0 

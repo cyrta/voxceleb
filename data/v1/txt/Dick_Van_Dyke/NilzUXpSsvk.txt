@@ -1,0 +1,16 @@
+POI: 			Dick_Van_Dyke 
+Youtube ID: 	NilzUXpSsvk 
+Video length: 	487.6 sec 
+Set (V): 		dev 
+ 
+Dick_Van_Dyke/NilzUXpSsvk_0000001 118.3 128.8 
+Dick_Van_Dyke/NilzUXpSsvk_0000002 160.0 164.5 
+Dick_Van_Dyke/NilzUXpSsvk_0000003 238.1 243.4 
+Dick_Van_Dyke/NilzUXpSsvk_0000004 299.0 311.5 
+Dick_Van_Dyke/NilzUXpSsvk_0000005 310.5 317.3 
+Dick_Van_Dyke/NilzUXpSsvk_0000006 344.6 348.7 
+Dick_Van_Dyke/NilzUXpSsvk_0000007 415.2 425.8 
+Dick_Van_Dyke/NilzUXpSsvk_0000008 434.4 441.0 
+Dick_Van_Dyke/NilzUXpSsvk_0000009 457.2 463.2 
+Dick_Van_Dyke/NilzUXpSsvk_0000010 469.3 474.1 
+Dick_Van_Dyke/NilzUXpSsvk_0000011 477.6 481.6 

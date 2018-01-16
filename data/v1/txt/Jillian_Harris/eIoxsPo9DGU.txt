@@ -1,0 +1,7 @@
+POI: 			Jillian_Harris 
+Youtube ID: 	eIoxsPo9DGU 
+Video length: 	589.5 sec 
+Set (V): 		dev 
+ 
+Jillian_Harris/eIoxsPo9DGU_0000001 116.4 123.8 
+Jillian_Harris/eIoxsPo9DGU_0000002 358.1 363.7 

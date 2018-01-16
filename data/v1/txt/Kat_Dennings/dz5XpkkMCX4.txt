@@ -1,0 +1,12 @@
+POI: 			Kat_Dennings 
+Youtube ID: 	dz5XpkkMCX4 
+Video length: 	332.9 sec 
+Set (V): 		dev 
+ 
+Kat_Dennings/dz5XpkkMCX4_0000001 64.0 70.4 
+Kat_Dennings/dz5XpkkMCX4_0000002 90.0 102.7 
+Kat_Dennings/dz5XpkkMCX4_0000003 136.0 153.9 
+Kat_Dennings/dz5XpkkMCX4_0000004 161.0 168.7 
+Kat_Dennings/dz5XpkkMCX4_0000005 208.6 217.2 
+Kat_Dennings/dz5XpkkMCX4_0000006 221.2 235.5 
+Kat_Dennings/dz5XpkkMCX4_0000007 310.3 314.8 

@@ -1,0 +1,10 @@
+POI: 			Natalia_Tena 
+Youtube ID: 	h-YqEnUaa5U 
+Video length: 	278.4 sec 
+Set (V): 		dev 
+ 
+Natalia_Tena/h-YqEnUaa5U_0000001 45.8 50.0 
+Natalia_Tena/h-YqEnUaa5U_0000002 142.2 153.3 
+Natalia_Tena/h-YqEnUaa5U_0000003 156.8 162.4 
+Natalia_Tena/h-YqEnUaa5U_0000004 166.2 170.5 
+Natalia_Tena/h-YqEnUaa5U_0000005 238.4 243.6 

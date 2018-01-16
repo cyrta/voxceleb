@@ -1,0 +1,8 @@
+POI: 			Julianne_Nicholson 
+Youtube ID: 	fSGuJzfXrEM 
+Video length: 	306.6 sec 
+Set (V): 		dev 
+ 
+Julianne_Nicholson/fSGuJzfXrEM_0000001 54.0 62.9 
+Julianne_Nicholson/fSGuJzfXrEM_0000002 63.8 83.0 
+Julianne_Nicholson/fSGuJzfXrEM_0000003 172.0 181.6 

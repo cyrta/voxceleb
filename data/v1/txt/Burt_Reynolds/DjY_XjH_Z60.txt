@@ -1,0 +1,8 @@
+POI: 			Burt_Reynolds 
+Youtube ID: 	DjY_XjH_Z60 
+Video length: 	503.0 sec 
+Set (V): 		dev 
+ 
+Burt_Reynolds/DjY_XjH_Z60_0000001 122.9 127.0 
+Burt_Reynolds/DjY_XjH_Z60_0000002 304.4 309.1 
+Burt_Reynolds/DjY_XjH_Z60_0000003 312.4 316.5 

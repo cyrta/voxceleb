@@ -1,0 +1,25 @@
+POI: 			Luke_Evans 
+Youtube ID: 	4eulQvWc204 
+Video length: 	349.8 sec 
+Set (V): 		dev 
+ 
+Luke_Evans/4eulQvWc204_0000001 13.5 21.4 
+Luke_Evans/4eulQvWc204_0000002 22.9 30.6 
+Luke_Evans/4eulQvWc204_0000003 34.4 44.4 
+Luke_Evans/4eulQvWc204_0000004 52.0 62.0 
+Luke_Evans/4eulQvWc204_0000005 77.9 87.6 
+Luke_Evans/4eulQvWc204_0000006 106.6 118.8 
+Luke_Evans/4eulQvWc204_0000007 120.7 135.6 
+Luke_Evans/4eulQvWc204_0000008 144.3 158.2 
+Luke_Evans/4eulQvWc204_0000009 159.2 177.2 
+Luke_Evans/4eulQvWc204_0000010 195.8 217.6 
+Luke_Evans/4eulQvWc204_0000011 218.4 226.9 
+Luke_Evans/4eulQvWc204_0000012 227.4 232.4 
+Luke_Evans/4eulQvWc204_0000013 240.2 246.4 
+Luke_Evans/4eulQvWc204_0000014 248.2 262.3 
+Luke_Evans/4eulQvWc204_0000015 273.0 280.2 
+Luke_Evans/4eulQvWc204_0000016 281.5 286.6 
+Luke_Evans/4eulQvWc204_0000017 287.1 300.4 
+Luke_Evans/4eulQvWc204_0000018 312.6 319.5 
+Luke_Evans/4eulQvWc204_0000019 326.2 337.5 
+Luke_Evans/4eulQvWc204_0000020 338.3 347.2 

@@ -1,0 +1,11 @@
+POI: 			Jacob_Latimore 
+Youtube ID: 	JO7iWLFoihk 
+Video length: 	259.1 sec 
+Set (V): 		dev 
+ 
+Jacob_Latimore/JO7iWLFoihk_0000001 13.3 19.9 
+Jacob_Latimore/JO7iWLFoihk_0000002 26.0 30.0 
+Jacob_Latimore/JO7iWLFoihk_0000003 39.2 45.6 
+Jacob_Latimore/JO7iWLFoihk_0000004 46.6 57.1 
+Jacob_Latimore/JO7iWLFoihk_0000005 57.2 65.1 
+Jacob_Latimore/JO7iWLFoihk_0000006 71.2 76.6 

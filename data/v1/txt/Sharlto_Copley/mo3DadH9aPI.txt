@@ -1,0 +1,14 @@
+POI: 			Sharlto_Copley 
+Youtube ID: 	mo3DadH9aPI 
+Video length: 	279.8 sec 
+Set (V): 		dev 
+ 
+Sharlto_Copley/mo3DadH9aPI_0000001 33.3 48.0 
+Sharlto_Copley/mo3DadH9aPI_0000002 49.6 60.9 
+Sharlto_Copley/mo3DadH9aPI_0000003 61.5 77.5 
+Sharlto_Copley/mo3DadH9aPI_0000004 86.9 94.0 
+Sharlto_Copley/mo3DadH9aPI_0000005 96.7 109.8 
+Sharlto_Copley/mo3DadH9aPI_0000006 117.6 140.3 
+Sharlto_Copley/mo3DadH9aPI_0000007 146.1 151.2 
+Sharlto_Copley/mo3DadH9aPI_0000008 178.7 208.2 
+Sharlto_Copley/mo3DadH9aPI_0000009 218.0 248.8 

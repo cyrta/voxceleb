@@ -1,0 +1,12 @@
+POI: 			David_Oyelowo 
+Youtube ID: 	stncSY4btt8 
+Video length: 	354.8 sec 
+Set (V): 		dev 
+ 
+David_Oyelowo/stncSY4btt8_0000001 56.7 63.0 
+David_Oyelowo/stncSY4btt8_0000002 96.6 115.4 
+David_Oyelowo/stncSY4btt8_0000003 195.6 234.2 
+David_Oyelowo/stncSY4btt8_0000004 260.5 266.8 
+David_Oyelowo/stncSY4btt8_0000005 272.9 297.2 
+David_Oyelowo/stncSY4btt8_0000006 297.4 305.4 
+David_Oyelowo/stncSY4btt8_0000007 306.2 337.8 

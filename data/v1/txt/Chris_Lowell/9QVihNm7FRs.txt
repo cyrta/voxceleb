@@ -1,0 +1,7 @@
+POI: 			Chris_Lowell 
+Youtube ID: 	9QVihNm7FRs 
+Video length: 	96.7 sec 
+Set (V): 		dev 
+ 
+Chris_Lowell/9QVihNm7FRs_0000001 35.2 39.2 
+Chris_Lowell/9QVihNm7FRs_0000002 54.1 65.4 

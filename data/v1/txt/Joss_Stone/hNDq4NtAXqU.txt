@@ -1,0 +1,13 @@
+POI: 			Joss_Stone 
+Youtube ID: 	hNDq4NtAXqU 
+Video length: 	626.4 sec 
+Set (V): 		dev 
+ 
+Joss_Stone/hNDq4NtAXqU_0000001 214.0 224.2 
+Joss_Stone/hNDq4NtAXqU_0000002 347.0 351.9 
+Joss_Stone/hNDq4NtAXqU_0000003 354.1 358.3 
+Joss_Stone/hNDq4NtAXqU_0000004 385.8 391.6 
+Joss_Stone/hNDq4NtAXqU_0000005 419.5 426.0 
+Joss_Stone/hNDq4NtAXqU_0000006 494.1 499.3 
+Joss_Stone/hNDq4NtAXqU_0000007 551.3 555.4 
+Joss_Stone/hNDq4NtAXqU_0000008 567.5 573.8 

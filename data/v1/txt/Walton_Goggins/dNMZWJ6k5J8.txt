@@ -1,0 +1,7 @@
+POI: 			Walton_Goggins 
+Youtube ID: 	dNMZWJ6k5J8 
+Video length: 	120.0 sec 
+Set (V): 		dev 
+ 
+Walton_Goggins/dNMZWJ6k5J8_0000001 27.0 60.3 
+Walton_Goggins/dNMZWJ6k5J8_0000002 88.7 100.8 

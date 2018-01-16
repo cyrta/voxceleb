@@ -1,0 +1,8 @@
+POI: 			Denise_Crosby 
+Youtube ID: 	EyriyeWRhe4 
+Video length: 	600.1 sec 
+Set (V): 		dev 
+ 
+Denise_Crosby/EyriyeWRhe4_0000001 167.2 171.9 
+Denise_Crosby/EyriyeWRhe4_0000002 175.4 182.8 
+Denise_Crosby/EyriyeWRhe4_0000003 197.1 203.7 

@@ -1,0 +1,16 @@
+POI: 			Carrie_Underwood 
+Youtube ID: 	bWizNnWykOY 
+Video length: 	242.9 sec 
+Set (V): 		dev 
+ 
+Carrie_Underwood/bWizNnWykOY_0000001 20.3 27.2 
+Carrie_Underwood/bWizNnWykOY_0000002 33.4 38.6 
+Carrie_Underwood/bWizNnWykOY_0000003 44.0 51.5 
+Carrie_Underwood/bWizNnWykOY_0000004 75.6 85.8 
+Carrie_Underwood/bWizNnWykOY_0000005 99.0 107.7 
+Carrie_Underwood/bWizNnWykOY_0000006 116.4 128.4 
+Carrie_Underwood/bWizNnWykOY_0000007 143.5 156.6 
+Carrie_Underwood/bWizNnWykOY_0000008 158.3 164.2 
+Carrie_Underwood/bWizNnWykOY_0000009 174.0 182.6 
+Carrie_Underwood/bWizNnWykOY_0000010 204.0 218.5 
+Carrie_Underwood/bWizNnWykOY_0000011 220.0 229.8 

@@ -1,0 +1,8 @@
+POI: 			Caitriona_Balfe 
+Youtube ID: 	ic8238OqPOs 
+Video length: 	384.9 sec 
+Set (V): 		dev 
+ 
+Caitriona_Balfe/ic8238OqPOs_0000001 72.4 77.0 
+Caitriona_Balfe/ic8238OqPOs_0000002 131.2 148.1 
+Caitriona_Balfe/ic8238OqPOs_0000003 317.6 323.6 

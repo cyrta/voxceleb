@@ -1,0 +1,10 @@
+POI: 			Cierra_Ramirez 
+Youtube ID: 	dPwIqvVUUis 
+Video length: 	165.5 sec 
+Set (V): 		dev 
+ 
+Cierra_Ramirez/dPwIqvVUUis_0000001 96.8 105.8 
+Cierra_Ramirez/dPwIqvVUUis_0000002 109.7 116.5 
+Cierra_Ramirez/dPwIqvVUUis_0000003 116.9 123.0 
+Cierra_Ramirez/dPwIqvVUUis_0000004 110.2 117.6 
+Cierra_Ramirez/dPwIqvVUUis_0000005 129.4 134.1 

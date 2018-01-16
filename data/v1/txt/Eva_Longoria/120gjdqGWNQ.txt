@@ -1,0 +1,30 @@
+POI: 			Eva_Longoria 
+Youtube ID: 	120gjdqGWNQ 
+Video length: 	490.9 sec 
+Set (V): 		test 
+ 
+Eva_Longoria/120gjdqGWNQ_0000001 12.3 21.6 
+Eva_Longoria/120gjdqGWNQ_0000002 22.3 47.0 
+Eva_Longoria/120gjdqGWNQ_0000003 47.2 65.5 
+Eva_Longoria/120gjdqGWNQ_0000004 72.8 79.9 
+Eva_Longoria/120gjdqGWNQ_0000005 85.7 106.8 
+Eva_Longoria/120gjdqGWNQ_0000006 106.9 111.1 
+Eva_Longoria/120gjdqGWNQ_0000007 134.5 138.6 
+Eva_Longoria/120gjdqGWNQ_0000008 144.8 155.8 
+Eva_Longoria/120gjdqGWNQ_0000009 156.0 168.4 
+Eva_Longoria/120gjdqGWNQ_0000010 172.0 184.5 
+Eva_Longoria/120gjdqGWNQ_0000011 192.6 208.6 
+Eva_Longoria/120gjdqGWNQ_0000012 209.8 244.5 
+Eva_Longoria/120gjdqGWNQ_0000013 252.4 262.3 
+Eva_Longoria/120gjdqGWNQ_0000014 267.9 277.8 
+Eva_Longoria/120gjdqGWNQ_0000015 279.7 304.6 
+Eva_Longoria/120gjdqGWNQ_0000016 306.4 327.4 
+Eva_Longoria/120gjdqGWNQ_0000017 334.6 339.6 
+Eva_Longoria/120gjdqGWNQ_0000018 340.3 359.2 
+Eva_Longoria/120gjdqGWNQ_0000019 360.7 366.6 
+Eva_Longoria/120gjdqGWNQ_0000020 366.8 400.8 
+Eva_Longoria/120gjdqGWNQ_0000021 413.6 420.4 
+Eva_Longoria/120gjdqGWNQ_0000022 423.5 434.2 
+Eva_Longoria/120gjdqGWNQ_0000023 443.7 450.4 
+Eva_Longoria/120gjdqGWNQ_0000024 452.3 464.8 
+Eva_Longoria/120gjdqGWNQ_0000025 467.0 478.1 

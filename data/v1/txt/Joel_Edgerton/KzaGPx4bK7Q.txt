@@ -1,0 +1,13 @@
+POI: 			Joel_Edgerton 
+Youtube ID: 	KzaGPx4bK7Q 
+Video length: 	1106.1 sec 
+Set (V): 		dev 
+ 
+Joel_Edgerton/KzaGPx4bK7Q_0000001 88.8 93.2 
+Joel_Edgerton/KzaGPx4bK7Q_0000002 126.4 131.4 
+Joel_Edgerton/KzaGPx4bK7Q_0000003 336.8 342.4 
+Joel_Edgerton/KzaGPx4bK7Q_0000004 412.7 417.4 
+Joel_Edgerton/KzaGPx4bK7Q_0000005 519.5 523.8 
+Joel_Edgerton/KzaGPx4bK7Q_0000006 534.7 538.7 
+Joel_Edgerton/KzaGPx4bK7Q_0000007 674.8 680.6 
+Joel_Edgerton/KzaGPx4bK7Q_0000008 737.6 742.1 

@@ -1,0 +1,11 @@
+POI: 			Ansel_Elgort 
+Youtube ID: 	SVakV6W5aIw 
+Video length: 	285.3 sec 
+Set (V): 		dev 
+ 
+Ansel_Elgort/SVakV6W5aIw_0000001 11.8 22.3 
+Ansel_Elgort/SVakV6W5aIw_0000002 78.2 89.3 
+Ansel_Elgort/SVakV6W5aIw_0000003 98.6 103.6 
+Ansel_Elgort/SVakV6W5aIw_0000004 107.5 114.2 
+Ansel_Elgort/SVakV6W5aIw_0000005 242.8 254.7 
+Ansel_Elgort/SVakV6W5aIw_0000006 257.8 268.0 

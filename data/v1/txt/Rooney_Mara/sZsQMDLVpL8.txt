@@ -1,0 +1,11 @@
+POI: 			Rooney_Mara 
+Youtube ID: 	sZsQMDLVpL8 
+Video length: 	275.0 sec 
+Set (V): 		dev 
+ 
+Rooney_Mara/sZsQMDLVpL8_0000001 20.3 31.5 
+Rooney_Mara/sZsQMDLVpL8_0000002 53.4 59.8 
+Rooney_Mara/sZsQMDLVpL8_0000003 91.0 98.8 
+Rooney_Mara/sZsQMDLVpL8_0000004 201.4 211.4 
+Rooney_Mara/sZsQMDLVpL8_0000005 227.9 234.6 
+Rooney_Mara/sZsQMDLVpL8_0000006 258.8 264.3 

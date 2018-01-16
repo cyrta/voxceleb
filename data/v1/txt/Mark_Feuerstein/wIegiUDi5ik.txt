@@ -1,0 +1,12 @@
+POI: 			Mark_Feuerstein 
+Youtube ID: 	wIegiUDi5ik 
+Video length: 	181.0 sec 
+Set (V): 		dev 
+ 
+Mark_Feuerstein/wIegiUDi5ik_0000001 26.6 34.9 
+Mark_Feuerstein/wIegiUDi5ik_0000002 51.9 62.4 
+Mark_Feuerstein/wIegiUDi5ik_0000003 88.4 94.7 
+Mark_Feuerstein/wIegiUDi5ik_0000004 96.8 104.2 
+Mark_Feuerstein/wIegiUDi5ik_0000005 119.9 126.0 
+Mark_Feuerstein/wIegiUDi5ik_0000006 132.3 139.9 
+Mark_Feuerstein/wIegiUDi5ik_0000007 152.0 157.0 

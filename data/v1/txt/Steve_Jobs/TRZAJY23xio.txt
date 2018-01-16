@@ -1,0 +1,8 @@
+POI: 			Steve_Jobs 
+Youtube ID: 	TRZAJY23xio 
+Video length: 	4339.4 sec 
+Set (V): 		dev 
+ 
+Steve_Jobs/TRZAJY23xio_0000001 908.1 912.2 
+Steve_Jobs/TRZAJY23xio_0000002 3425.4 3430.3 
+Steve_Jobs/TRZAJY23xio_0000003 4041.6 4045.6 

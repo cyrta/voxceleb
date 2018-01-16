@@ -1,0 +1,7 @@
+POI: 			David_Kross 
+Youtube ID: 	h5DYhnOacd4 
+Video length: 	249.6 sec 
+Set (V): 		dev 
+ 
+David_Kross/h5DYhnOacd4_0000001 150.8 155.6 
+David_Kross/h5DYhnOacd4_0000002 166.0 170.3 

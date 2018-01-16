@@ -1,0 +1,9 @@
+POI: 			Marion_Cotillard 
+Youtube ID: 	rNh5Ww6YYiU 
+Video length: 	352.8 sec 
+Set (V): 		dev 
+ 
+Marion_Cotillard/rNh5Ww6YYiU_0000001 260.9 267.1 
+Marion_Cotillard/rNh5Ww6YYiU_0000002 276.6 281.2 
+Marion_Cotillard/rNh5Ww6YYiU_0000003 299.3 308.8 
+Marion_Cotillard/rNh5Ww6YYiU_0000004 319.7 324.9 

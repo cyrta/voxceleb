@@ -1,0 +1,12 @@
+POI: 			La_La_Anthony 
+Youtube ID: 	D0t_46qPenI 
+Video length: 	272.4 sec 
+Set (V): 		dev 
+ 
+La_La_Anthony/D0t_46qPenI_0000001 36.7 41.1 
+La_La_Anthony/D0t_46qPenI_0000002 64.9 69.0 
+La_La_Anthony/D0t_46qPenI_0000003 69.3 76.4 
+La_La_Anthony/D0t_46qPenI_0000004 105.5 110.4 
+La_La_Anthony/D0t_46qPenI_0000005 125.4 132.0 
+La_La_Anthony/D0t_46qPenI_0000006 132.4 144.3 
+La_La_Anthony/D0t_46qPenI_0000007 202.8 210.5 

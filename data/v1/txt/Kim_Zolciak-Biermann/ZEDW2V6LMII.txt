@@ -1,0 +1,7 @@
+POI: 			Kim_Zolciak-Biermann 
+Youtube ID: 	ZEDW2V6LMII 
+Video length: 	714.9 sec 
+Set (V): 		dev 
+ 
+Kim_Zolciak-Biermann/ZEDW2V6LMII_0000001 81.0 87.0 
+Kim_Zolciak-Biermann/ZEDW2V6LMII_0000002 616.8 621.7 

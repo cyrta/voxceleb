@@ -1,0 +1,8 @@
+POI: 			Loretta_Swit 
+Youtube ID: 	KYWRPYYTac4 
+Video length: 	211.3 sec 
+Set (V): 		dev 
+ 
+Loretta_Swit/KYWRPYYTac4_0000001 106.8 117.2 
+Loretta_Swit/KYWRPYYTac4_0000002 148.7 155.4 
+Loretta_Swit/KYWRPYYTac4_0000003 188.0 192.4 

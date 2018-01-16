@@ -1,0 +1,8 @@
+POI: 			Nicki_Minaj 
+Youtube ID: 	7hUL0DHCBN8 
+Video length: 	227.6 sec 
+Set (V): 		dev 
+ 
+Nicki_Minaj/7hUL0DHCBN8_0000001 136.5 145.8 
+Nicki_Minaj/7hUL0DHCBN8_0000002 156.8 161.1 
+Nicki_Minaj/7hUL0DHCBN8_0000003 174.0 180.7 

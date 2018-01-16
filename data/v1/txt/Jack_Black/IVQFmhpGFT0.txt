@@ -1,0 +1,16 @@
+POI: 			Jack_Black 
+Youtube ID: 	IVQFmhpGFT0 
+Video length: 	411.8 sec 
+Set (V): 		dev 
+ 
+Jack_Black/IVQFmhpGFT0_0000001 76.1 80.3 
+Jack_Black/IVQFmhpGFT0_0000002 81.3 92.2 
+Jack_Black/IVQFmhpGFT0_0000003 104.2 108.4 
+Jack_Black/IVQFmhpGFT0_0000004 119.1 123.2 
+Jack_Black/IVQFmhpGFT0_0000005 180.4 191.9 
+Jack_Black/IVQFmhpGFT0_0000006 194.2 198.6 
+Jack_Black/IVQFmhpGFT0_0000007 199.2 203.8 
+Jack_Black/IVQFmhpGFT0_0000008 229.9 237.0 
+Jack_Black/IVQFmhpGFT0_0000009 238.8 249.2 
+Jack_Black/IVQFmhpGFT0_0000010 287.8 296.3 
+Jack_Black/IVQFmhpGFT0_0000011 336.5 349.8 

@@ -1,0 +1,10 @@
+POI: 			Margo_Martindale 
+Youtube ID: 	QZR63hmCe88 
+Video length: 	500.4 sec 
+Set (V): 		dev 
+ 
+Margo_Martindale/QZR63hmCe88_0000001 10.3 14.9 
+Margo_Martindale/QZR63hmCe88_0000002 42.0 48.7 
+Margo_Martindale/QZR63hmCe88_0000003 244.2 252.3 
+Margo_Martindale/QZR63hmCe88_0000004 257.9 266.5 
+Margo_Martindale/QZR63hmCe88_0000005 342.7 351.5 

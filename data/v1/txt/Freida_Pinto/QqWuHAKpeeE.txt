@@ -1,0 +1,13 @@
+POI: 			Freida_Pinto 
+Youtube ID: 	QqWuHAKpeeE 
+Video length: 	195.0 sec 
+Set (V): 		dev 
+ 
+Freida_Pinto/QqWuHAKpeeE_0000001 12.5 25.8 
+Freida_Pinto/QqWuHAKpeeE_0000002 38.2 44.0 
+Freida_Pinto/QqWuHAKpeeE_0000003 56.1 64.0 
+Freida_Pinto/QqWuHAKpeeE_0000004 67.4 73.0 
+Freida_Pinto/QqWuHAKpeeE_0000005 73.3 77.9 
+Freida_Pinto/QqWuHAKpeeE_0000006 81.0 87.4 
+Freida_Pinto/QqWuHAKpeeE_0000007 94.9 99.6 
+Freida_Pinto/QqWuHAKpeeE_0000008 163.4 169.4 

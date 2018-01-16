@@ -1,0 +1,11 @@
+POI: 			Lily_Collins 
+Youtube ID: 	tRmyAL_5GVk 
+Video length: 	317.0 sec 
+Set (V): 		dev 
+ 
+Lily_Collins/tRmyAL_5GVk_0000001 133.8 139.9 
+Lily_Collins/tRmyAL_5GVk_0000002 164.0 170.1 
+Lily_Collins/tRmyAL_5GVk_0000003 201.5 214.3 
+Lily_Collins/tRmyAL_5GVk_0000004 219.8 225.0 
+Lily_Collins/tRmyAL_5GVk_0000005 258.6 281.8 
+Lily_Collins/tRmyAL_5GVk_0000006 286.2 290.8 

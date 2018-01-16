@@ -1,0 +1,10 @@
+POI: 			Robert_Davi 
+Youtube ID: 	ZslJpHH4bQ0 
+Video length: 	480.1 sec 
+Set (V): 		dev 
+ 
+Robert_Davi/ZslJpHH4bQ0_0000001 04.4 08.9 
+Robert_Davi/ZslJpHH4bQ0_0000002 28.2 33.2 
+Robert_Davi/ZslJpHH4bQ0_0000003 38.2 43.5 
+Robert_Davi/ZslJpHH4bQ0_0000004 118.2 122.8 
+Robert_Davi/ZslJpHH4bQ0_0000005 276.2 280.2 

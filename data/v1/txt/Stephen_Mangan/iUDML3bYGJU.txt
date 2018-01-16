@@ -1,0 +1,14 @@
+POI: 			Stephen_Mangan 
+Youtube ID: 	iUDML3bYGJU 
+Video length: 	145.9 sec 
+Set (V): 		dev 
+ 
+Stephen_Mangan/iUDML3bYGJU_0000001 08.8 15.9 
+Stephen_Mangan/iUDML3bYGJU_0000002 18.0 23.0 
+Stephen_Mangan/iUDML3bYGJU_0000003 41.6 53.5 
+Stephen_Mangan/iUDML3bYGJU_0000004 55.3 62.6 
+Stephen_Mangan/iUDML3bYGJU_0000005 69.0 74.5 
+Stephen_Mangan/iUDML3bYGJU_0000006 76.3 84.9 
+Stephen_Mangan/iUDML3bYGJU_0000007 85.6 92.8 
+Stephen_Mangan/iUDML3bYGJU_0000008 104.0 119.3 
+Stephen_Mangan/iUDML3bYGJU_0000009 123.6 129.9 

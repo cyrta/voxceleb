@@ -1,0 +1,13 @@
+POI: 			Max_Schneider 
+Youtube ID: 	pqbTIY-YfBY 
+Video length: 	407.8 sec 
+Set (V): 		dev 
+ 
+Max_Schneider/pqbTIY-YfBY_0000001 20.6 43.8 
+Max_Schneider/pqbTIY-YfBY_0000002 49.0 55.8 
+Max_Schneider/pqbTIY-YfBY_0000003 65.1 69.6 
+Max_Schneider/pqbTIY-YfBY_0000004 127.8 141.0 
+Max_Schneider/pqbTIY-YfBY_0000005 155.1 164.8 
+Max_Schneider/pqbTIY-YfBY_0000006 169.0 175.8 
+Max_Schneider/pqbTIY-YfBY_0000007 191.9 205.4 
+Max_Schneider/pqbTIY-YfBY_0000008 217.0 224.2 

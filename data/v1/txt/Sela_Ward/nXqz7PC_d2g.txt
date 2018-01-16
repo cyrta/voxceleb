@@ -1,0 +1,9 @@
+POI: 			Sela_Ward 
+Youtube ID: 	nXqz7PC_d2g 
+Video length: 	187.9 sec 
+Set (V): 		dev 
+ 
+Sela_Ward/nXqz7PC_d2g_0000001 30.0 40.4 
+Sela_Ward/nXqz7PC_d2g_0000002 40.7 46.0 
+Sela_Ward/nXqz7PC_d2g_0000003 70.2 75.4 
+Sela_Ward/nXqz7PC_d2g_0000004 156.7 164.2 

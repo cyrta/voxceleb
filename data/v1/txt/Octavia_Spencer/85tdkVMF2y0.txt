@@ -1,0 +1,10 @@
+POI: 			Octavia_Spencer 
+Youtube ID: 	85tdkVMF2y0 
+Video length: 	378.1 sec 
+Set (V): 		dev 
+ 
+Octavia_Spencer/85tdkVMF2y0_0000001 102.5 111.7 
+Octavia_Spencer/85tdkVMF2y0_0000002 115.3 124.4 
+Octavia_Spencer/85tdkVMF2y0_0000003 240.4 246.6 
+Octavia_Spencer/85tdkVMF2y0_0000004 269.6 274.2 
+Octavia_Spencer/85tdkVMF2y0_0000005 277.9 286.2 

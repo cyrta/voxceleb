@@ -1,0 +1,8 @@
+POI: 			Rose_McIver 
+Youtube ID: 	oUyksDPS0t8 
+Video length: 	314.3 sec 
+Set (V): 		dev 
+ 
+Rose_McIver/oUyksDPS0t8_0000001 144.8 153.6 
+Rose_McIver/oUyksDPS0t8_0000002 261.0 269.3 
+Rose_McIver/oUyksDPS0t8_0000003 275.6 286.8 

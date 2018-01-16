@@ -1,0 +1,14 @@
+POI: 			Jennette_McCurdy 
+Youtube ID: 	SfaVmtSL384 
+Video length: 	646.7 sec 
+Set (V): 		dev 
+ 
+Jennette_McCurdy/SfaVmtSL384_0000001 127.2 134.2 
+Jennette_McCurdy/SfaVmtSL384_0000002 142.5 153.5 
+Jennette_McCurdy/SfaVmtSL384_0000003 231.7 235.8 
+Jennette_McCurdy/SfaVmtSL384_0000004 237.3 242.0 
+Jennette_McCurdy/SfaVmtSL384_0000005 250.9 257.8 
+Jennette_McCurdy/SfaVmtSL384_0000006 400.3 408.3 
+Jennette_McCurdy/SfaVmtSL384_0000007 410.8 418.0 
+Jennette_McCurdy/SfaVmtSL384_0000008 458.6 466.8 
+Jennette_McCurdy/SfaVmtSL384_0000009 504.3 515.3 

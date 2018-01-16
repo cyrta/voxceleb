@@ -1,0 +1,19 @@
+POI: 			Oscar_Isaac 
+Youtube ID: 	2X_9ms-KmOU 
+Video length: 	361.0 sec 
+Set (V): 		dev 
+ 
+Oscar_Isaac/2X_9ms-KmOU_0000001 42.8 48.0 
+Oscar_Isaac/2X_9ms-KmOU_0000002 48.2 53.0 
+Oscar_Isaac/2X_9ms-KmOU_0000003 62.7 66.9 
+Oscar_Isaac/2X_9ms-KmOU_0000004 67.9 72.9 
+Oscar_Isaac/2X_9ms-KmOU_0000005 73.8 85.7 
+Oscar_Isaac/2X_9ms-KmOU_0000006 88.4 95.3 
+Oscar_Isaac/2X_9ms-KmOU_0000007 105.8 112.6 
+Oscar_Isaac/2X_9ms-KmOU_0000008 115.4 128.4 
+Oscar_Isaac/2X_9ms-KmOU_0000009 128.9 140.5 
+Oscar_Isaac/2X_9ms-KmOU_0000010 141.6 156.1 
+Oscar_Isaac/2X_9ms-KmOU_0000011 157.0 179.0 
+Oscar_Isaac/2X_9ms-KmOU_0000012 226.5 249.2 
+Oscar_Isaac/2X_9ms-KmOU_0000013 249.5 273.1 
+Oscar_Isaac/2X_9ms-KmOU_0000014 273.8 281.7 

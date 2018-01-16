@@ -1,0 +1,8 @@
+POI: 			Margo_Martindale 
+Youtube ID: 	ShCa_0p3GoM 
+Video length: 	58.1 sec 
+Set (V): 		dev 
+ 
+Margo_Martindale/ShCa_0p3GoM_0000001 08.6 14.1 
+Margo_Martindale/ShCa_0p3GoM_0000002 37.0 45.9 
+Margo_Martindale/ShCa_0p3GoM_0000003 46.6 55.4 

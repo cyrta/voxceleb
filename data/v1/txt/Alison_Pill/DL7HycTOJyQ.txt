@@ -1,0 +1,11 @@
+POI: 			Alison_Pill 
+Youtube ID: 	DL7HycTOJyQ 
+Video length: 	838.9 sec 
+Set (V): 		dev 
+ 
+Alison_Pill/DL7HycTOJyQ_0000001 222.0 234.5 
+Alison_Pill/DL7HycTOJyQ_0000002 234.9 241.8 
+Alison_Pill/DL7HycTOJyQ_0000003 315.5 321.1 
+Alison_Pill/DL7HycTOJyQ_0000004 446.4 453.7 
+Alison_Pill/DL7HycTOJyQ_0000005 734.9 742.3 
+Alison_Pill/DL7HycTOJyQ_0000006 742.8 747.8 

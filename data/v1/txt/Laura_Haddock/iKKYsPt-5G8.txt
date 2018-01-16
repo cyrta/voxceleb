@@ -1,0 +1,7 @@
+POI: 			Laura_Haddock 
+Youtube ID: 	iKKYsPt-5G8 
+Video length: 	281.1 sec 
+Set (V): 		dev 
+ 
+Laura_Haddock/iKKYsPt-5G8_0000001 75.1 85.7 
+Laura_Haddock/iKKYsPt-5G8_0000002 168.8 184.7 

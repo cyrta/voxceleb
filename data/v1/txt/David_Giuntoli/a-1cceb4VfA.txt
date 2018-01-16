@@ -1,0 +1,8 @@
+POI: 			David_Giuntoli 
+Youtube ID: 	a-1cceb4VfA 
+Video length: 	68.3 sec 
+Set (V): 		dev 
+ 
+David_Giuntoli/a-1cceb4VfA_0000001 02.4 14.6 
+David_Giuntoli/a-1cceb4VfA_0000002 17.3 23.4 
+David_Giuntoli/a-1cceb4VfA_0000003 25.8 52.1 

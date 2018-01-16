@@ -1,0 +1,20 @@
+POI: 			Joan_Allen 
+Youtube ID: 	Mfkx6CIVwf8 
+Video length: 	840.2 sec 
+Set (V): 		dev 
+ 
+Joan_Allen/Mfkx6CIVwf8_0000001 155.0 169.8 
+Joan_Allen/Mfkx6CIVwf8_0000002 213.9 221.9 
+Joan_Allen/Mfkx6CIVwf8_0000003 228.1 233.4 
+Joan_Allen/Mfkx6CIVwf8_0000004 252.4 258.6 
+Joan_Allen/Mfkx6CIVwf8_0000005 333.8 343.4 
+Joan_Allen/Mfkx6CIVwf8_0000006 511.2 515.2 
+Joan_Allen/Mfkx6CIVwf8_0000007 607.2 613.3 
+Joan_Allen/Mfkx6CIVwf8_0000008 626.7 632.3 
+Joan_Allen/Mfkx6CIVwf8_0000009 662.5 669.6 
+Joan_Allen/Mfkx6CIVwf8_0000010 670.0 675.0 
+Joan_Allen/Mfkx6CIVwf8_0000011 706.1 710.0 
+Joan_Allen/Mfkx6CIVwf8_0000012 714.2 719.7 
+Joan_Allen/Mfkx6CIVwf8_0000013 740.4 746.9 
+Joan_Allen/Mfkx6CIVwf8_0000014 759.3 764.0 
+Joan_Allen/Mfkx6CIVwf8_0000015 764.9 771.0 

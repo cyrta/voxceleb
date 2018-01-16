@@ -1,0 +1,10 @@
+POI: 			Luke_Newberry 
+Youtube ID: 	RMTTRMNf8b0 
+Video length: 	180.0 sec 
+Set (V): 		dev 
+ 
+Luke_Newberry/RMTTRMNf8b0_0000001 64.2 71.2 
+Luke_Newberry/RMTTRMNf8b0_0000002 74.6 81.3 
+Luke_Newberry/RMTTRMNf8b0_0000003 88.1 92.1 
+Luke_Newberry/RMTTRMNf8b0_0000004 117.7 123.4 
+Luke_Newberry/RMTTRMNf8b0_0000005 163.4 168.1 

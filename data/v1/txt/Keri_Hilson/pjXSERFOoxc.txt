@@ -1,0 +1,14 @@
+POI: 			Keri_Hilson 
+Youtube ID: 	pjXSERFOoxc 
+Video length: 	508.1 sec 
+Set (V): 		dev 
+ 
+Keri_Hilson/pjXSERFOoxc_0000001 34.2 48.3 
+Keri_Hilson/pjXSERFOoxc_0000002 162.6 168.0 
+Keri_Hilson/pjXSERFOoxc_0000003 168.7 172.7 
+Keri_Hilson/pjXSERFOoxc_0000004 274.1 279.9 
+Keri_Hilson/pjXSERFOoxc_0000005 287.6 292.3 
+Keri_Hilson/pjXSERFOoxc_0000006 292.6 306.6 
+Keri_Hilson/pjXSERFOoxc_0000007 357.8 364.3 
+Keri_Hilson/pjXSERFOoxc_0000008 367.4 375.3 
+Keri_Hilson/pjXSERFOoxc_0000009 427.5 434.4 

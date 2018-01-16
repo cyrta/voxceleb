@@ -1,0 +1,13 @@
+POI: 			Suzanne_Pleshette 
+Youtube ID: 	uJTDqqU-jG8 
+Video length: 	267.8 sec 
+Set (V): 		dev 
+ 
+Suzanne_Pleshette/uJTDqqU-jG8_0000001 06.2 14.1 
+Suzanne_Pleshette/uJTDqqU-jG8_0000002 32.4 37.7 
+Suzanne_Pleshette/uJTDqqU-jG8_0000003 64.1 69.0 
+Suzanne_Pleshette/uJTDqqU-jG8_0000004 71.2 75.6 
+Suzanne_Pleshette/uJTDqqU-jG8_0000005 159.1 163.7 
+Suzanne_Pleshette/uJTDqqU-jG8_0000006 179.6 184.4 
+Suzanne_Pleshette/uJTDqqU-jG8_0000007 191.5 195.8 
+Suzanne_Pleshette/uJTDqqU-jG8_0000008 228.8 235.4 

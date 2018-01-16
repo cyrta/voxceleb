@@ -1,0 +1,18 @@
+POI: 			January_Jones 
+Youtube ID: 	zOyfCDSHvPc 
+Video length: 	221.9 sec 
+Set (V): 		dev 
+ 
+January_Jones/zOyfCDSHvPc_0000001 04.2 11.5 
+January_Jones/zOyfCDSHvPc_0000002 24.6 28.7 
+January_Jones/zOyfCDSHvPc_0000003 30.4 34.9 
+January_Jones/zOyfCDSHvPc_0000004 40.7 46.4 
+January_Jones/zOyfCDSHvPc_0000005 47.8 56.4 
+January_Jones/zOyfCDSHvPc_0000006 60.2 68.1 
+January_Jones/zOyfCDSHvPc_0000007 118.6 124.6 
+January_Jones/zOyfCDSHvPc_0000008 125.3 131.9 
+January_Jones/zOyfCDSHvPc_0000009 135.7 140.3 
+January_Jones/zOyfCDSHvPc_0000010 170.2 177.8 
+January_Jones/zOyfCDSHvPc_0000011 179.9 188.4 
+January_Jones/zOyfCDSHvPc_0000012 194.9 201.3 
+January_Jones/zOyfCDSHvPc_0000013 213.6 220.0 

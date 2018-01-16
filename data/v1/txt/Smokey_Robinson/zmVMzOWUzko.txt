@@ -1,0 +1,11 @@
+POI: 			Smokey_Robinson 
+Youtube ID: 	zmVMzOWUzko 
+Video length: 	422.6 sec 
+Set (V): 		dev 
+ 
+Smokey_Robinson/zmVMzOWUzko_0000001 164.5 180.7 
+Smokey_Robinson/zmVMzOWUzko_0000002 203.5 212.2 
+Smokey_Robinson/zmVMzOWUzko_0000003 292.9 308.4 
+Smokey_Robinson/zmVMzOWUzko_0000004 323.2 340.5 
+Smokey_Robinson/zmVMzOWUzko_0000005 342.6 347.4 
+Smokey_Robinson/zmVMzOWUzko_0000006 356.5 383.4 

@@ -1,0 +1,13 @@
+POI: 			Viggo_Mortensen 
+Youtube ID: 	2awUa_hS7DY 
+Video length: 	291.9 sec 
+Set (V): 		dev 
+ 
+Viggo_Mortensen/2awUa_hS7DY_0000001 03.8 07.8 
+Viggo_Mortensen/2awUa_hS7DY_0000002 22.3 32.6 
+Viggo_Mortensen/2awUa_hS7DY_0000003 59.9 68.5 
+Viggo_Mortensen/2awUa_hS7DY_0000004 94.8 98.8 
+Viggo_Mortensen/2awUa_hS7DY_0000005 108.4 113.2 
+Viggo_Mortensen/2awUa_hS7DY_0000006 139.9 151.7 
+Viggo_Mortensen/2awUa_hS7DY_0000007 159.6 167.8 
+Viggo_Mortensen/2awUa_hS7DY_0000008 221.9 229.0 

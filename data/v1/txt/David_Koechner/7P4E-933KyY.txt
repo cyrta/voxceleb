@@ -1,0 +1,10 @@
+POI: 			David_Koechner 
+Youtube ID: 	7P4E-933KyY 
+Video length: 	841.9 sec 
+Set (V): 		dev 
+ 
+David_Koechner/7P4E-933KyY_0000001 89.9 94.1 
+David_Koechner/7P4E-933KyY_0000002 260.9 265.4 
+David_Koechner/7P4E-933KyY_0000003 291.6 296.3 
+David_Koechner/7P4E-933KyY_0000004 540.8 545.2 
+David_Koechner/7P4E-933KyY_0000005 740.8 746.1 

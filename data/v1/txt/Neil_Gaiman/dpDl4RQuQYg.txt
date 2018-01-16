@@ -1,0 +1,22 @@
+POI: 			Neil_Gaiman 
+Youtube ID: 	dpDl4RQuQYg 
+Video length: 	335.4 sec 
+Set (V): 		dev 
+ 
+Neil_Gaiman/dpDl4RQuQYg_0000001 16.7 24.1 
+Neil_Gaiman/dpDl4RQuQYg_0000002 26.3 36.9 
+Neil_Gaiman/dpDl4RQuQYg_0000003 39.7 47.3 
+Neil_Gaiman/dpDl4RQuQYg_0000004 64.2 77.4 
+Neil_Gaiman/dpDl4RQuQYg_0000005 79.2 86.2 
+Neil_Gaiman/dpDl4RQuQYg_0000006 95.7 102.4 
+Neil_Gaiman/dpDl4RQuQYg_0000007 118.5 126.2 
+Neil_Gaiman/dpDl4RQuQYg_0000008 127.2 134.5 
+Neil_Gaiman/dpDl4RQuQYg_0000009 142.6 154.1 
+Neil_Gaiman/dpDl4RQuQYg_0000010 165.4 179.2 
+Neil_Gaiman/dpDl4RQuQYg_0000011 192.0 202.1 
+Neil_Gaiman/dpDl4RQuQYg_0000012 204.1 208.8 
+Neil_Gaiman/dpDl4RQuQYg_0000013 233.5 238.9 
+Neil_Gaiman/dpDl4RQuQYg_0000014 242.3 246.8 
+Neil_Gaiman/dpDl4RQuQYg_0000015 268.2 273.3 
+Neil_Gaiman/dpDl4RQuQYg_0000016 303.2 311.2 
+Neil_Gaiman/dpDl4RQuQYg_0000017 317.0 326.8 

@@ -1,0 +1,11 @@
+POI: 			Rhys_Ifans 
+Youtube ID: 	HZpdPHP8jys 
+Video length: 	86.3 sec 
+Set (V): 		dev 
+ 
+Rhys_Ifans/HZpdPHP8jys_0000001 08.7 16.6 
+Rhys_Ifans/HZpdPHP8jys_0000002 18.0 22.8 
+Rhys_Ifans/HZpdPHP8jys_0000003 35.1 41.3 
+Rhys_Ifans/HZpdPHP8jys_0000004 42.3 47.4 
+Rhys_Ifans/HZpdPHP8jys_0000005 54.7 61.2 
+Rhys_Ifans/HZpdPHP8jys_0000006 68.3 80.6 

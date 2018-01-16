@@ -1,0 +1,9 @@
+POI: 			Laura_Haddock 
+Youtube ID: 	U7oo5nBGfLU 
+Video length: 	404.2 sec 
+Set (V): 		dev 
+ 
+Laura_Haddock/U7oo5nBGfLU_0000001 155.8 174.6 
+Laura_Haddock/U7oo5nBGfLU_0000002 198.4 218.5 
+Laura_Haddock/U7oo5nBGfLU_0000003 220.0 229.0 
+Laura_Haddock/U7oo5nBGfLU_0000004 212.3 219.0 

@@ -1,0 +1,9 @@
+POI: 			Rutger_Hauer 
+Youtube ID: 	IWTMtE-u96w 
+Video length: 	218.3 sec 
+Set (V): 		dev 
+ 
+Rutger_Hauer/IWTMtE-u96w_0000001 60.9 64.9 
+Rutger_Hauer/IWTMtE-u96w_0000002 65.2 70.0 
+Rutger_Hauer/IWTMtE-u96w_0000003 149.9 157.0 
+Rutger_Hauer/IWTMtE-u96w_0000004 157.8 166.0 

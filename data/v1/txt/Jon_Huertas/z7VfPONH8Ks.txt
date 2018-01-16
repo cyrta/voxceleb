@@ -1,0 +1,9 @@
+POI: 			Jon_Huertas 
+Youtube ID: 	z7VfPONH8Ks 
+Video length: 	176.3 sec 
+Set (V): 		dev 
+ 
+Jon_Huertas/z7VfPONH8Ks_0000001 61.9 66.7 
+Jon_Huertas/z7VfPONH8Ks_0000002 100.6 108.5 
+Jon_Huertas/z7VfPONH8Ks_0000003 113.1 119.6 
+Jon_Huertas/z7VfPONH8Ks_0000004 164.3 168.9 

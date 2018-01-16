@@ -1,0 +1,7 @@
+POI: 			Shonda_Rhimes 
+Youtube ID: 	Ldmp1pdL3fs 
+Video length: 	97.4 sec 
+Set (V): 		dev 
+ 
+Shonda_Rhimes/Ldmp1pdL3fs_0000001 23.0 27.6 
+Shonda_Rhimes/Ldmp1pdL3fs_0000002 36.8 41.9 

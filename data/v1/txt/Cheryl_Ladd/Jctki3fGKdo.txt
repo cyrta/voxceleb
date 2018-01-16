@@ -1,0 +1,9 @@
+POI: 			Cheryl_Ladd 
+Youtube ID: 	Jctki3fGKdo 
+Video length: 	357.2 sec 
+Set (V): 		dev 
+ 
+Cheryl_Ladd/Jctki3fGKdo_0000001 99.8 107.9 
+Cheryl_Ladd/Jctki3fGKdo_0000002 120.8 137.6 
+Cheryl_Ladd/Jctki3fGKdo_0000003 282.8 287.5 
+Cheryl_Ladd/Jctki3fGKdo_0000004 295.6 315.6 

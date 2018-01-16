@@ -1,0 +1,14 @@
+POI: 			John_Barrowman 
+Youtube ID: 	WEbZO0Dd_L8 
+Video length: 	395.8 sec 
+Set (V): 		dev 
+ 
+John_Barrowman/WEbZO0Dd_L8_0000001 56.4 61.5 
+John_Barrowman/WEbZO0Dd_L8_0000002 68.0 77.2 
+John_Barrowman/WEbZO0Dd_L8_0000003 131.9 136.0 
+John_Barrowman/WEbZO0Dd_L8_0000004 165.1 169.5 
+John_Barrowman/WEbZO0Dd_L8_0000005 264.6 270.2 
+John_Barrowman/WEbZO0Dd_L8_0000006 292.8 297.6 
+John_Barrowman/WEbZO0Dd_L8_0000007 307.9 317.2 
+John_Barrowman/WEbZO0Dd_L8_0000008 346.2 350.6 
+John_Barrowman/WEbZO0Dd_L8_0000009 377.5 383.0 

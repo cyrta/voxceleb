@@ -1,0 +1,18 @@
+POI: 			Fiona_Shaw 
+Youtube ID: 	dYTzceCBQxQ 
+Video length: 	2106.8 sec 
+Set (V): 		dev 
+ 
+Fiona_Shaw/dYTzceCBQxQ_0000001 825.4 829.5 
+Fiona_Shaw/dYTzceCBQxQ_0000002 871.5 876.0 
+Fiona_Shaw/dYTzceCBQxQ_0000003 879.0 886.0 
+Fiona_Shaw/dYTzceCBQxQ_0000004 902.7 910.8 
+Fiona_Shaw/dYTzceCBQxQ_0000005 925.9 931.9 
+Fiona_Shaw/dYTzceCBQxQ_0000006 987.4 993.2 
+Fiona_Shaw/dYTzceCBQxQ_0000007 1050.1 1057.8 
+Fiona_Shaw/dYTzceCBQxQ_0000008 1071.5 1092.2 
+Fiona_Shaw/dYTzceCBQxQ_0000009 1093.0 1098.6 
+Fiona_Shaw/dYTzceCBQxQ_0000010 1100.0 1105.3 
+Fiona_Shaw/dYTzceCBQxQ_0000011 1109.1 1142.2 
+Fiona_Shaw/dYTzceCBQxQ_0000012 1255.4 1260.4 
+Fiona_Shaw/dYTzceCBQxQ_0000013 1262.0 1266.0 

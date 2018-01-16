@@ -1,0 +1,7 @@
+POI: 			Terence_Stamp 
+Youtube ID: 	Ldi6LWeZRj8 
+Video length: 	243.4 sec 
+Set (V): 		dev 
+ 
+Terence_Stamp/Ldi6LWeZRj8_0000001 10.2 14.2 
+Terence_Stamp/Ldi6LWeZRj8_0000002 76.6 82.3 

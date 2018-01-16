@@ -1,0 +1,10 @@
+POI: 			Katey_Sagal 
+Youtube ID: 	liuwm5ZjbVM 
+Video length: 	205.5 sec 
+Set (V): 		dev 
+ 
+Katey_Sagal/liuwm5ZjbVM_0000001 74.3 80.0 
+Katey_Sagal/liuwm5ZjbVM_0000002 82.2 86.8 
+Katey_Sagal/liuwm5ZjbVM_0000003 91.9 96.6 
+Katey_Sagal/liuwm5ZjbVM_0000004 141.1 146.4 
+Katey_Sagal/liuwm5ZjbVM_0000005 193.4 198.1 

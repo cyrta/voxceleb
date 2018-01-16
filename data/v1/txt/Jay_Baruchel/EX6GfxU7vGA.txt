@@ -1,0 +1,18 @@
+POI: 			Jay_Baruchel 
+Youtube ID: 	EX6GfxU7vGA 
+Video length: 	568.4 sec 
+Set (V): 		dev 
+ 
+Jay_Baruchel/EX6GfxU7vGA_0000001 89.1 93.6 
+Jay_Baruchel/EX6GfxU7vGA_0000002 113.4 119.4 
+Jay_Baruchel/EX6GfxU7vGA_0000003 164.4 170.4 
+Jay_Baruchel/EX6GfxU7vGA_0000004 209.5 217.4 
+Jay_Baruchel/EX6GfxU7vGA_0000005 223.2 241.5 
+Jay_Baruchel/EX6GfxU7vGA_0000006 290.9 298.0 
+Jay_Baruchel/EX6GfxU7vGA_0000007 303.9 311.5 
+Jay_Baruchel/EX6GfxU7vGA_0000008 373.6 379.2 
+Jay_Baruchel/EX6GfxU7vGA_0000009 380.0 386.2 
+Jay_Baruchel/EX6GfxU7vGA_0000010 387.3 391.4 
+Jay_Baruchel/EX6GfxU7vGA_0000011 498.8 505.0 
+Jay_Baruchel/EX6GfxU7vGA_0000012 521.8 527.9 
+Jay_Baruchel/EX6GfxU7vGA_0000013 543.0 554.6 

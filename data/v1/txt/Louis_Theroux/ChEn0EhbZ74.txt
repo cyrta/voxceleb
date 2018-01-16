@@ -1,0 +1,20 @@
+POI: 			Louis_Theroux 
+Youtube ID: 	ChEn0EhbZ74 
+Video length: 	367.6 sec 
+Set (V): 		dev 
+ 
+Louis_Theroux/ChEn0EhbZ74_0000001 57.5 78.1 
+Louis_Theroux/ChEn0EhbZ74_0000002 118.0 123.2 
+Louis_Theroux/ChEn0EhbZ74_0000003 126.0 137.9 
+Louis_Theroux/ChEn0EhbZ74_0000004 173.7 177.8 
+Louis_Theroux/ChEn0EhbZ74_0000005 183.2 188.6 
+Louis_Theroux/ChEn0EhbZ74_0000006 199.9 205.3 
+Louis_Theroux/ChEn0EhbZ74_0000007 213.1 218.0 
+Louis_Theroux/ChEn0EhbZ74_0000008 223.9 228.5 
+Louis_Theroux/ChEn0EhbZ74_0000009 240.7 248.7 
+Louis_Theroux/ChEn0EhbZ74_0000010 258.2 266.6 
+Louis_Theroux/ChEn0EhbZ74_0000011 267.3 273.7 
+Louis_Theroux/ChEn0EhbZ74_0000012 274.7 286.1 
+Louis_Theroux/ChEn0EhbZ74_0000013 310.2 318.2 
+Louis_Theroux/ChEn0EhbZ74_0000014 322.9 327.4 
+Louis_Theroux/ChEn0EhbZ74_0000015 328.1 333.4 

@@ -1,0 +1,15 @@
+POI: 			Naomie_Harris 
+Youtube ID: 	loxBhuzSx9k 
+Video length: 	305.9 sec 
+Set (V): 		dev 
+ 
+Naomie_Harris/loxBhuzSx9k_0000001 108.8 121.2 
+Naomie_Harris/loxBhuzSx9k_0000002 126.8 131.4 
+Naomie_Harris/loxBhuzSx9k_0000003 136.6 142.8 
+Naomie_Harris/loxBhuzSx9k_0000004 149.8 157.2 
+Naomie_Harris/loxBhuzSx9k_0000005 163.6 168.2 
+Naomie_Harris/loxBhuzSx9k_0000006 179.8 185.3 
+Naomie_Harris/loxBhuzSx9k_0000007 199.6 206.8 
+Naomie_Harris/loxBhuzSx9k_0000008 245.0 252.8 
+Naomie_Harris/loxBhuzSx9k_0000009 266.8 276.5 
+Naomie_Harris/loxBhuzSx9k_0000010 293.5 298.7 

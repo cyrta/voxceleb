@@ -1,0 +1,11 @@
+POI: 			Ray_Winstone 
+Youtube ID: 	d3p9wBx669Y 
+Video length: 	237.0 sec 
+Set (V): 		dev 
+ 
+Ray_Winstone/d3p9wBx669Y_0000001 15.2 20.0 
+Ray_Winstone/d3p9wBx669Y_0000002 41.8 47.3 
+Ray_Winstone/d3p9wBx669Y_0000003 53.5 58.6 
+Ray_Winstone/d3p9wBx669Y_0000004 70.2 75.5 
+Ray_Winstone/d3p9wBx669Y_0000005 99.1 103.6 
+Ray_Winstone/d3p9wBx669Y_0000006 216.8 223.5 

@@ -1,0 +1,11 @@
+POI: 			Virginia_Madsen 
+Youtube ID: 	UUd2O1Vg0N8 
+Video length: 	184.6 sec 
+Set (V): 		dev 
+ 
+Virginia_Madsen/UUd2O1Vg0N8_0000001 16.6 32.4 
+Virginia_Madsen/UUd2O1Vg0N8_0000002 45.9 56.2 
+Virginia_Madsen/UUd2O1Vg0N8_0000003 72.0 86.0 
+Virginia_Madsen/UUd2O1Vg0N8_0000004 148.3 158.1 
+Virginia_Madsen/UUd2O1Vg0N8_0000005 159.0 163.6 
+Virginia_Madsen/UUd2O1Vg0N8_0000006 171.8 178.0 

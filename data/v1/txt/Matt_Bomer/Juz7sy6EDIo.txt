@@ -1,0 +1,11 @@
+POI: 			Matt_Bomer 
+Youtube ID: 	Juz7sy6EDIo 
+Video length: 	269.4 sec 
+Set (V): 		dev 
+ 
+Matt_Bomer/Juz7sy6EDIo_0000001 11.0 52.8 
+Matt_Bomer/Juz7sy6EDIo_0000002 86.9 95.0 
+Matt_Bomer/Juz7sy6EDIo_0000003 95.7 105.2 
+Matt_Bomer/Juz7sy6EDIo_0000004 106.1 113.7 
+Matt_Bomer/Juz7sy6EDIo_0000005 220.1 241.0 
+Matt_Bomer/Juz7sy6EDIo_0000006 242.8 247.8 

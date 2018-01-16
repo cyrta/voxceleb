@@ -1,0 +1,16 @@
+POI: 			Randolph_Mantooth 
+Youtube ID: 	qpKkl-cjGFE 
+Video length: 	247.3 sec 
+Set (V): 		dev 
+ 
+Randolph_Mantooth/qpKkl-cjGFE_0000001 28.6 56.6 
+Randolph_Mantooth/qpKkl-cjGFE_0000002 58.5 69.6 
+Randolph_Mantooth/qpKkl-cjGFE_0000003 74.7 86.8 
+Randolph_Mantooth/qpKkl-cjGFE_0000004 92.4 98.2 
+Randolph_Mantooth/qpKkl-cjGFE_0000005 136.0 143.6 
+Randolph_Mantooth/qpKkl-cjGFE_0000006 168.2 172.1 
+Randolph_Mantooth/qpKkl-cjGFE_0000007 172.7 177.0 
+Randolph_Mantooth/qpKkl-cjGFE_0000008 177.5 189.0 
+Randolph_Mantooth/qpKkl-cjGFE_0000009 189.7 203.9 
+Randolph_Mantooth/qpKkl-cjGFE_0000010 217.8 225.8 
+Randolph_Mantooth/qpKkl-cjGFE_0000011 227.9 235.9 

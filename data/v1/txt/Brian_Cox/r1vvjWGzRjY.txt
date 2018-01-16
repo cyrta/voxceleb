@@ -1,0 +1,17 @@
+POI: 			Brian_Cox 
+Youtube ID: 	r1vvjWGzRjY 
+Video length: 	432.2 sec 
+Set (V): 		dev 
+ 
+Brian_Cox/r1vvjWGzRjY_0000001 27.6 38.2 
+Brian_Cox/r1vvjWGzRjY_0000002 38.5 46.2 
+Brian_Cox/r1vvjWGzRjY_0000003 84.8 94.8 
+Brian_Cox/r1vvjWGzRjY_0000004 103.4 107.6 
+Brian_Cox/r1vvjWGzRjY_0000005 119.8 126.2 
+Brian_Cox/r1vvjWGzRjY_0000006 137.4 141.8 
+Brian_Cox/r1vvjWGzRjY_0000007 149.4 159.0 
+Brian_Cox/r1vvjWGzRjY_0000008 296.4 302.3 
+Brian_Cox/r1vvjWGzRjY_0000009 326.4 342.4 
+Brian_Cox/r1vvjWGzRjY_0000010 372.2 377.4 
+Brian_Cox/r1vvjWGzRjY_0000011 379.9 384.6 
+Brian_Cox/r1vvjWGzRjY_0000012 394.6 402.0 

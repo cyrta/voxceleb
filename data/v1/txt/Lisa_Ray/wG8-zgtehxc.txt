@@ -1,0 +1,8 @@
+POI: 			Lisa_Ray 
+Youtube ID: 	wG8-zgtehxc 
+Video length: 	52.2 sec 
+Set (V): 		dev 
+ 
+Lisa_Ray/wG8-zgtehxc_0000001 08.6 26.4 
+Lisa_Ray/wG8-zgtehxc_0000002 26.9 43.2 
+Lisa_Ray/wG8-zgtehxc_0000003 43.4 50.6 

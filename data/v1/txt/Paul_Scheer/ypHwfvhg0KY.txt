@@ -1,0 +1,12 @@
+POI: 			Paul_Scheer 
+Youtube ID: 	ypHwfvhg0KY 
+Video length: 	588.4 sec 
+Set (V): 		dev 
+ 
+Paul_Scheer/ypHwfvhg0KY_0000001 78.0 91.2 
+Paul_Scheer/ypHwfvhg0KY_0000002 225.0 229.8 
+Paul_Scheer/ypHwfvhg0KY_0000003 403.6 408.7 
+Paul_Scheer/ypHwfvhg0KY_0000004 430.4 435.2 
+Paul_Scheer/ypHwfvhg0KY_0000005 435.9 440.3 
+Paul_Scheer/ypHwfvhg0KY_0000006 503.5 512.0 
+Paul_Scheer/ypHwfvhg0KY_0000007 543.3 549.8 

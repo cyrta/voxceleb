@@ -1,0 +1,22 @@
+POI: 			Dawn_French 
+Youtube ID: 	cO4vPo58Hro 
+Video length: 	865.0 sec 
+Set (V): 		dev 
+ 
+Dawn_French/cO4vPo58Hro_0000001 39.9 48.0 
+Dawn_French/cO4vPo58Hro_0000002 161.4 166.7 
+Dawn_French/cO4vPo58Hro_0000003 227.5 243.7 
+Dawn_French/cO4vPo58Hro_0000004 289.2 308.3 
+Dawn_French/cO4vPo58Hro_0000005 324.0 332.2 
+Dawn_French/cO4vPo58Hro_0000006 333.6 338.3 
+Dawn_French/cO4vPo58Hro_0000007 348.6 358.5 
+Dawn_French/cO4vPo58Hro_0000008 361.0 365.7 
+Dawn_French/cO4vPo58Hro_0000009 378.8 384.8 
+Dawn_French/cO4vPo58Hro_0000010 388.1 401.8 
+Dawn_French/cO4vPo58Hro_0000011 414.5 422.5 
+Dawn_French/cO4vPo58Hro_0000012 499.0 507.7 
+Dawn_French/cO4vPo58Hro_0000013 512.3 519.6 
+Dawn_French/cO4vPo58Hro_0000014 637.1 647.4 
+Dawn_French/cO4vPo58Hro_0000015 718.8 725.1 
+Dawn_French/cO4vPo58Hro_0000016 784.0 797.0 
+Dawn_French/cO4vPo58Hro_0000017 834.0 843.4 

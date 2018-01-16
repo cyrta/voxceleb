@@ -1,0 +1,12 @@
+POI: 			Michael_Trevino 
+Youtube ID: 	3ZzVcG0MK_U 
+Video length: 	163.6 sec 
+Set (V): 		dev 
+ 
+Michael_Trevino/3ZzVcG0MK_U_0000001 64.6 69.3 
+Michael_Trevino/3ZzVcG0MK_U_0000002 69.4 76.2 
+Michael_Trevino/3ZzVcG0MK_U_0000003 79.8 83.8 
+Michael_Trevino/3ZzVcG0MK_U_0000004 92.3 97.4 
+Michael_Trevino/3ZzVcG0MK_U_0000005 102.0 106.1 
+Michael_Trevino/3ZzVcG0MK_U_0000006 112.1 116.2 
+Michael_Trevino/3ZzVcG0MK_U_0000007 128.4 136.0 

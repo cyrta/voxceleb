@@ -1,0 +1,15 @@
+POI: 			Miley_Cyrus 
+Youtube ID: 	tExO1qQbBj0 
+Video length: 	259.9 sec 
+Set (V): 		dev 
+ 
+Miley_Cyrus/tExO1qQbBj0_0000001 17.7 32.6 
+Miley_Cyrus/tExO1qQbBj0_0000002 33.0 44.6 
+Miley_Cyrus/tExO1qQbBj0_0000003 71.2 75.7 
+Miley_Cyrus/tExO1qQbBj0_0000004 76.6 85.4 
+Miley_Cyrus/tExO1qQbBj0_0000005 90.6 96.2 
+Miley_Cyrus/tExO1qQbBj0_0000006 107.5 112.4 
+Miley_Cyrus/tExO1qQbBj0_0000007 123.7 132.3 
+Miley_Cyrus/tExO1qQbBj0_0000008 158.4 169.0 
+Miley_Cyrus/tExO1qQbBj0_0000009 185.8 201.7 
+Miley_Cyrus/tExO1qQbBj0_0000010 210.7 223.4 

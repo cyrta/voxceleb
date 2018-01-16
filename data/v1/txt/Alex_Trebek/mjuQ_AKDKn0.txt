@@ -1,0 +1,16 @@
+POI: 			Alex_Trebek 
+Youtube ID: 	mjuQ_AKDKn0 
+Video length: 	174.2 sec 
+Set (V): 		dev 
+ 
+Alex_Trebek/mjuQ_AKDKn0_0000001 08.3 13.1 
+Alex_Trebek/mjuQ_AKDKn0_0000002 22.5 27.5 
+Alex_Trebek/mjuQ_AKDKn0_0000003 31.4 43.5 
+Alex_Trebek/mjuQ_AKDKn0_0000004 48.8 58.2 
+Alex_Trebek/mjuQ_AKDKn0_0000005 59.0 82.2 
+Alex_Trebek/mjuQ_AKDKn0_0000006 83.5 101.2 
+Alex_Trebek/mjuQ_AKDKn0_0000007 101.4 119.5 
+Alex_Trebek/mjuQ_AKDKn0_0000008 120.7 127.1 
+Alex_Trebek/mjuQ_AKDKn0_0000009 75.6 82.2 
+Alex_Trebek/mjuQ_AKDKn0_0000010 85.6 99.8 
+Alex_Trebek/mjuQ_AKDKn0_0000011 134.5 158.3 

@@ -1,0 +1,20 @@
+POI: 			Mark_Webber 
+Youtube ID: 	BdwRqo2bWds 
+Video length: 	315.1 sec 
+Set (V): 		dev 
+ 
+Mark_Webber/BdwRqo2bWds_0000001 08.8 25.6 
+Mark_Webber/BdwRqo2bWds_0000002 27.6 38.3 
+Mark_Webber/BdwRqo2bWds_0000003 39.0 53.3 
+Mark_Webber/BdwRqo2bWds_0000004 60.6 132.4 
+Mark_Webber/BdwRqo2bWds_0000005 143.2 161.4 
+Mark_Webber/BdwRqo2bWds_0000006 162.2 172.4 
+Mark_Webber/BdwRqo2bWds_0000007 172.6 178.8 
+Mark_Webber/BdwRqo2bWds_0000008 178.9 184.6 
+Mark_Webber/BdwRqo2bWds_0000009 184.8 217.0 
+Mark_Webber/BdwRqo2bWds_0000010 220.5 228.0 
+Mark_Webber/BdwRqo2bWds_0000011 228.3 239.9 
+Mark_Webber/BdwRqo2bWds_0000012 243.5 252.6 
+Mark_Webber/BdwRqo2bWds_0000013 261.8 289.1 
+Mark_Webber/BdwRqo2bWds_0000014 289.8 306.3 
+Mark_Webber/BdwRqo2bWds_0000015 307.2 311.7 

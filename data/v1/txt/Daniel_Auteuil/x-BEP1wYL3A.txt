@@ -1,0 +1,12 @@
+POI: 			Daniel_Auteuil 
+Youtube ID: 	x-BEP1wYL3A 
+Video length: 	862.4 sec 
+Set (V): 		dev 
+ 
+Daniel_Auteuil/x-BEP1wYL3A_0000001 80.2 88.0 
+Daniel_Auteuil/x-BEP1wYL3A_0000002 137.8 147.5 
+Daniel_Auteuil/x-BEP1wYL3A_0000003 200.8 204.8 
+Daniel_Auteuil/x-BEP1wYL3A_0000004 205.6 209.6 
+Daniel_Auteuil/x-BEP1wYL3A_0000005 636.5 641.3 
+Daniel_Auteuil/x-BEP1wYL3A_0000006 702.8 709.1 
+Daniel_Auteuil/x-BEP1wYL3A_0000007 759.5 765.6 

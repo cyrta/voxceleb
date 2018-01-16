@@ -1,0 +1,12 @@
+POI: 			Teri_Hatcher 
+Youtube ID: 	2bQPgx71lPQ 
+Video length: 	546.0 sec 
+Set (V): 		dev 
+ 
+Teri_Hatcher/2bQPgx71lPQ_0000001 53.2 58.2 
+Teri_Hatcher/2bQPgx71lPQ_0000002 156.2 160.2 
+Teri_Hatcher/2bQPgx71lPQ_0000003 222.6 226.7 
+Teri_Hatcher/2bQPgx71lPQ_0000004 261.6 267.0 
+Teri_Hatcher/2bQPgx71lPQ_0000005 378.2 382.1 
+Teri_Hatcher/2bQPgx71lPQ_0000006 419.6 426.7 
+Teri_Hatcher/2bQPgx71lPQ_0000007 506.0 516.1 

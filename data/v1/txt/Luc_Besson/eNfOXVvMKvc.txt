@@ -1,0 +1,21 @@
+POI: 			Luc_Besson 
+Youtube ID: 	eNfOXVvMKvc 
+Video length: 	512.6 sec 
+Set (V): 		dev 
+ 
+Luc_Besson/eNfOXVvMKvc_0000001 104.2 108.4 
+Luc_Besson/eNfOXVvMKvc_0000002 108.8 112.8 
+Luc_Besson/eNfOXVvMKvc_0000003 113.3 118.9 
+Luc_Besson/eNfOXVvMKvc_0000004 120.4 125.9 
+Luc_Besson/eNfOXVvMKvc_0000005 146.1 151.1 
+Luc_Besson/eNfOXVvMKvc_0000006 165.3 169.4 
+Luc_Besson/eNfOXVvMKvc_0000007 169.8 174.0 
+Luc_Besson/eNfOXVvMKvc_0000008 216.3 220.2 
+Luc_Besson/eNfOXVvMKvc_0000009 253.7 261.2 
+Luc_Besson/eNfOXVvMKvc_0000010 265.4 270.0 
+Luc_Besson/eNfOXVvMKvc_0000011 319.4 326.4 
+Luc_Besson/eNfOXVvMKvc_0000012 347.6 358.3 
+Luc_Besson/eNfOXVvMKvc_0000013 376.9 381.5 
+Luc_Besson/eNfOXVvMKvc_0000014 390.8 397.8 
+Luc_Besson/eNfOXVvMKvc_0000015 416.2 424.6 
+Luc_Besson/eNfOXVvMKvc_0000016 452.4 458.4 

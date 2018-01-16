@@ -1,0 +1,25 @@
+POI: 			David_Morrissey 
+Youtube ID: 	kS_wwGil9B8 
+Video length: 	400.0 sec 
+Set (V): 		dev 
+ 
+David_Morrissey/kS_wwGil9B8_0000001 08.6 13.1 
+David_Morrissey/kS_wwGil9B8_0000002 14.0 20.1 
+David_Morrissey/kS_wwGil9B8_0000003 30.1 34.9 
+David_Morrissey/kS_wwGil9B8_0000004 45.3 50.6 
+David_Morrissey/kS_wwGil9B8_0000005 56.4 67.0 
+David_Morrissey/kS_wwGil9B8_0000006 67.2 80.8 
+David_Morrissey/kS_wwGil9B8_0000007 106.6 113.8 
+David_Morrissey/kS_wwGil9B8_0000008 161.2 175.8 
+David_Morrissey/kS_wwGil9B8_0000009 180.2 185.4 
+David_Morrissey/kS_wwGil9B8_0000010 188.0 193.6 
+David_Morrissey/kS_wwGil9B8_0000011 194.2 200.7 
+David_Morrissey/kS_wwGil9B8_0000012 215.5 221.0 
+David_Morrissey/kS_wwGil9B8_0000013 236.8 251.0 
+David_Morrissey/kS_wwGil9B8_0000014 251.4 264.7 
+David_Morrissey/kS_wwGil9B8_0000015 302.8 311.8 
+David_Morrissey/kS_wwGil9B8_0000016 312.8 318.2 
+David_Morrissey/kS_wwGil9B8_0000017 339.4 352.0 
+David_Morrissey/kS_wwGil9B8_0000018 353.4 358.7 
+David_Morrissey/kS_wwGil9B8_0000019 365.8 382.6 
+David_Morrissey/kS_wwGil9B8_0000020 371.0 375.3 

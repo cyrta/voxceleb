@@ -1,0 +1,8 @@
+POI: 			Naomie_Harris 
+Youtube ID: 	bTMLT1GXw7E 
+Video length: 	307.3 sec 
+Set (V): 		dev 
+ 
+Naomie_Harris/bTMLT1GXw7E_0000001 146.4 151.5 
+Naomie_Harris/bTMLT1GXw7E_0000002 254.2 261.4 
+Naomie_Harris/bTMLT1GXw7E_0000003 263.2 269.0 

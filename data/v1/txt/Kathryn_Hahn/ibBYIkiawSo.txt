@@ -1,0 +1,17 @@
+POI: 			Kathryn_Hahn 
+Youtube ID: 	ibBYIkiawSo 
+Video length: 	208.1 sec 
+Set (V): 		dev 
+ 
+Kathryn_Hahn/ibBYIkiawSo_0000001 09.0 13.1 
+Kathryn_Hahn/ibBYIkiawSo_0000002 15.8 23.4 
+Kathryn_Hahn/ibBYIkiawSo_0000003 25.1 39.7 
+Kathryn_Hahn/ibBYIkiawSo_0000004 40.8 53.2 
+Kathryn_Hahn/ibBYIkiawSo_0000005 71.4 80.1 
+Kathryn_Hahn/ibBYIkiawSo_0000006 82.2 89.3 
+Kathryn_Hahn/ibBYIkiawSo_0000007 91.5 98.3 
+Kathryn_Hahn/ibBYIkiawSo_0000008 100.3 106.0 
+Kathryn_Hahn/ibBYIkiawSo_0000009 123.2 130.8 
+Kathryn_Hahn/ibBYIkiawSo_0000010 138.3 149.0 
+Kathryn_Hahn/ibBYIkiawSo_0000011 164.3 170.0 
+Kathryn_Hahn/ibBYIkiawSo_0000012 181.2 196.7 

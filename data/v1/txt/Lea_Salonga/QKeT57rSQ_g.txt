@@ -1,0 +1,9 @@
+POI: 			Lea_Salonga 
+Youtube ID: 	QKeT57rSQ_g 
+Video length: 	434.5 sec 
+Set (V): 		dev 
+ 
+Lea_Salonga/QKeT57rSQ_g_0000001 76.8 84.7 
+Lea_Salonga/QKeT57rSQ_g_0000002 181.7 187.8 
+Lea_Salonga/QKeT57rSQ_g_0000003 250.9 259.8 
+Lea_Salonga/QKeT57rSQ_g_0000004 385.5 389.6 

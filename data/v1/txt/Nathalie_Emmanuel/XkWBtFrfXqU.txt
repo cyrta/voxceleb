@@ -1,0 +1,9 @@
+POI: 			Nathalie_Emmanuel 
+Youtube ID: 	XkWBtFrfXqU 
+Video length: 	407.4 sec 
+Set (V): 		dev 
+ 
+Nathalie_Emmanuel/XkWBtFrfXqU_0000001 57.1 65.1 
+Nathalie_Emmanuel/XkWBtFrfXqU_0000002 91.7 99.0 
+Nathalie_Emmanuel/XkWBtFrfXqU_0000003 229.2 237.0 
+Nathalie_Emmanuel/XkWBtFrfXqU_0000004 323.1 332.9 

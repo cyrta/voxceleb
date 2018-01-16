@@ -1,0 +1,17 @@
+POI: 			Margot_Robbie 
+Youtube ID: 	u8-EjN3Bt0E 
+Video length: 	877.1 sec 
+Set (V): 		dev 
+ 
+Margot_Robbie/u8-EjN3Bt0E_0000001 192.0 197.2 
+Margot_Robbie/u8-EjN3Bt0E_0000002 198.2 202.8 
+Margot_Robbie/u8-EjN3Bt0E_0000003 300.1 307.0 
+Margot_Robbie/u8-EjN3Bt0E_0000004 326.2 330.3 
+Margot_Robbie/u8-EjN3Bt0E_0000005 375.2 379.5 
+Margot_Robbie/u8-EjN3Bt0E_0000006 411.8 417.8 
+Margot_Robbie/u8-EjN3Bt0E_0000007 424.4 433.7 
+Margot_Robbie/u8-EjN3Bt0E_0000008 649.4 658.7 
+Margot_Robbie/u8-EjN3Bt0E_0000009 685.7 695.9 
+Margot_Robbie/u8-EjN3Bt0E_0000010 703.7 711.1 
+Margot_Robbie/u8-EjN3Bt0E_0000011 767.2 773.2 
+Margot_Robbie/u8-EjN3Bt0E_0000012 777.3 784.1 

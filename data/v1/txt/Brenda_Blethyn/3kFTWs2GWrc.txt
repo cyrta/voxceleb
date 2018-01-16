@@ -1,0 +1,10 @@
+POI: 			Brenda_Blethyn 
+Youtube ID: 	3kFTWs2GWrc 
+Video length: 	534.5 sec 
+Set (V): 		dev 
+ 
+Brenda_Blethyn/3kFTWs2GWrc_0000001 38.0 45.7 
+Brenda_Blethyn/3kFTWs2GWrc_0000002 96.7 104.0 
+Brenda_Blethyn/3kFTWs2GWrc_0000003 104.7 113.4 
+Brenda_Blethyn/3kFTWs2GWrc_0000004 296.8 303.5 
+Brenda_Blethyn/3kFTWs2GWrc_0000005 468.9 482.3 

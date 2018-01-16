@@ -1,0 +1,14 @@
+POI: 			Alexander_Siddig 
+Youtube ID: 	hkkLltSZ8_A 
+Video length: 	520.0 sec 
+Set (V): 		dev 
+ 
+Alexander_Siddig/hkkLltSZ8_A_0000001 77.2 81.8 
+Alexander_Siddig/hkkLltSZ8_A_0000002 94.4 99.4 
+Alexander_Siddig/hkkLltSZ8_A_0000003 105.4 115.4 
+Alexander_Siddig/hkkLltSZ8_A_0000004 128.7 133.6 
+Alexander_Siddig/hkkLltSZ8_A_0000005 288.4 292.8 
+Alexander_Siddig/hkkLltSZ8_A_0000006 306.8 315.7 
+Alexander_Siddig/hkkLltSZ8_A_0000007 371.0 375.4 
+Alexander_Siddig/hkkLltSZ8_A_0000008 386.4 392.1 
+Alexander_Siddig/hkkLltSZ8_A_0000009 432.6 437.4 

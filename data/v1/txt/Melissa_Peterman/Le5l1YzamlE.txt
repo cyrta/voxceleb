@@ -1,0 +1,14 @@
+POI: 			Melissa_Peterman 
+Youtube ID: 	Le5l1YzamlE 
+Video length: 	406.9 sec 
+Set (V): 		dev 
+ 
+Melissa_Peterman/Le5l1YzamlE_0000001 130.7 137.5 
+Melissa_Peterman/Le5l1YzamlE_0000002 157.1 168.2 
+Melissa_Peterman/Le5l1YzamlE_0000003 172.3 178.6 
+Melissa_Peterman/Le5l1YzamlE_0000004 167.9 171.9 
+Melissa_Peterman/Le5l1YzamlE_0000005 217.0 226.4 
+Melissa_Peterman/Le5l1YzamlE_0000006 318.8 343.3 
+Melissa_Peterman/Le5l1YzamlE_0000007 343.8 350.6 
+Melissa_Peterman/Le5l1YzamlE_0000008 351.3 360.1 
+Melissa_Peterman/Le5l1YzamlE_0000009 366.4 374.6 

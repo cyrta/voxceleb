@@ -1,0 +1,8 @@
+POI: 			Ezra_Miller 
+Youtube ID: 	3qX7bbJ17lY 
+Video length: 	600.1 sec 
+Set (V): 		test 
+ 
+Ezra_Miller/3qX7bbJ17lY_0000001 86.1 94.0 
+Ezra_Miller/3qX7bbJ17lY_0000002 374.0 379.6 
+Ezra_Miller/3qX7bbJ17lY_0000003 413.4 419.0 

@@ -1,0 +1,7 @@
+POI: 			Jay_Baruchel 
+Youtube ID: 	3fre_t-4_Io 
+Video length: 	171.8 sec 
+Set (V): 		dev 
+ 
+Jay_Baruchel/3fre_t-4_Io_0000001 126.8 132.2 
+Jay_Baruchel/3fre_t-4_Io_0000002 132.5 140.4 

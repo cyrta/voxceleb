@@ -1,0 +1,12 @@
+POI: 			Jeremy_Piven 
+Youtube ID: 	0GvrdzxKO7I 
+Video length: 	236.6 sec 
+Set (V): 		dev 
+ 
+Jeremy_Piven/0GvrdzxKO7I_0000001 36.5 45.8 
+Jeremy_Piven/0GvrdzxKO7I_0000002 90.0 104.2 
+Jeremy_Piven/0GvrdzxKO7I_0000003 108.9 134.9 
+Jeremy_Piven/0GvrdzxKO7I_0000004 146.0 158.9 
+Jeremy_Piven/0GvrdzxKO7I_0000005 170.6 191.9 
+Jeremy_Piven/0GvrdzxKO7I_0000006 192.4 203.0 
+Jeremy_Piven/0GvrdzxKO7I_0000007 212.8 223.6 

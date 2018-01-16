@@ -1,0 +1,7 @@
+POI: 			Sarah_Palin 
+Youtube ID: 	eYk2C1R8O8c 
+Video length: 	605.9 sec 
+Set (V): 		dev 
+ 
+Sarah_Palin/eYk2C1R8O8c_0000001 86.2 96.6 
+Sarah_Palin/eYk2C1R8O8c_0000002 115.0 121.6 

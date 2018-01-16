@@ -1,0 +1,8 @@
+POI: 			Peter_Jackson 
+Youtube ID: 	mWJdkw1O6mw 
+Video length: 	201.4 sec 
+Set (V): 		dev 
+ 
+Peter_Jackson/mWJdkw1O6mw_0000001 81.0 86.4 
+Peter_Jackson/mWJdkw1O6mw_0000002 179.2 189.9 
+Peter_Jackson/mWJdkw1O6mw_0000003 190.2 198.0 

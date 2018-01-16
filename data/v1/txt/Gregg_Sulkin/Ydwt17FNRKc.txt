@@ -1,0 +1,9 @@
+POI: 			Gregg_Sulkin 
+Youtube ID: 	Ydwt17FNRKc 
+Video length: 	1196.4 sec 
+Set (V): 		dev 
+ 
+Gregg_Sulkin/Ydwt17FNRKc_0000001 281.2 287.3 
+Gregg_Sulkin/Ydwt17FNRKc_0000002 359.4 363.3 
+Gregg_Sulkin/Ydwt17FNRKc_0000003 814.9 819.6 
+Gregg_Sulkin/Ydwt17FNRKc_0000004 889.7 896.8 

@@ -1,0 +1,9 @@
+POI: 			Hector_Elizondo 
+Youtube ID: 	iRMjKv3Cfxo 
+Video length: 	117.9 sec 
+Set (V): 		dev 
+ 
+Hector_Elizondo/iRMjKv3Cfxo_0000001 28.7 36.5 
+Hector_Elizondo/iRMjKv3Cfxo_0000002 45.3 49.8 
+Hector_Elizondo/iRMjKv3Cfxo_0000003 70.7 74.8 
+Hector_Elizondo/iRMjKv3Cfxo_0000004 87.8 92.2 

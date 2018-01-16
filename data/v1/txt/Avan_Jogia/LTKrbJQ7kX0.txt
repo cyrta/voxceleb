@@ -1,0 +1,12 @@
+POI: 			Avan_Jogia 
+Youtube ID: 	LTKrbJQ7kX0 
+Video length: 	396.0 sec 
+Set (V): 		dev 
+ 
+Avan_Jogia/LTKrbJQ7kX0_0000001 44.4 48.5 
+Avan_Jogia/LTKrbJQ7kX0_0000002 52.0 57.4 
+Avan_Jogia/LTKrbJQ7kX0_0000003 71.2 77.7 
+Avan_Jogia/LTKrbJQ7kX0_0000004 241.2 250.6 
+Avan_Jogia/LTKrbJQ7kX0_0000005 298.3 304.4 
+Avan_Jogia/LTKrbJQ7kX0_0000006 327.2 331.4 
+Avan_Jogia/LTKrbJQ7kX0_0000007 340.0 347.5 

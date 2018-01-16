@@ -1,0 +1,9 @@
+POI: 			Adam_Driver 
+Youtube ID: 	g5-eq6I-KSo 
+Video length: 	217.6 sec 
+Set (V): 		dev 
+ 
+Adam_Driver/g5-eq6I-KSo_0000001 24.7 30.0 
+Adam_Driver/g5-eq6I-KSo_0000002 63.6 67.8 
+Adam_Driver/g5-eq6I-KSo_0000003 127.5 135.2 
+Adam_Driver/g5-eq6I-KSo_0000004 140.9 145.5 

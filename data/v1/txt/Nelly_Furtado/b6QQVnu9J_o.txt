@@ -1,0 +1,12 @@
+POI: 			Nelly_Furtado 
+Youtube ID: 	b6QQVnu9J_o 
+Video length: 	1804.6 sec 
+Set (V): 		dev 
+ 
+Nelly_Furtado/b6QQVnu9J_o_0000001 475.9 481.4 
+Nelly_Furtado/b6QQVnu9J_o_0000002 500.9 505.0 
+Nelly_Furtado/b6QQVnu9J_o_0000003 520.2 527.9 
+Nelly_Furtado/b6QQVnu9J_o_0000004 693.9 699.0 
+Nelly_Furtado/b6QQVnu9J_o_0000005 734.6 740.2 
+Nelly_Furtado/b6QQVnu9J_o_0000006 893.0 897.2 
+Nelly_Furtado/b6QQVnu9J_o_0000007 1021.3 1028.6 

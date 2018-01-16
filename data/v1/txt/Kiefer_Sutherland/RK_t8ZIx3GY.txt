@@ -1,0 +1,20 @@
+POI: 			Kiefer_Sutherland 
+Youtube ID: 	RK_t8ZIx3GY 
+Video length: 	711.0 sec 
+Set (V): 		dev 
+ 
+Kiefer_Sutherland/RK_t8ZIx3GY_0000001 84.0 88.6 
+Kiefer_Sutherland/RK_t8ZIx3GY_0000002 97.3 112.2 
+Kiefer_Sutherland/RK_t8ZIx3GY_0000003 140.2 147.4 
+Kiefer_Sutherland/RK_t8ZIx3GY_0000004 159.6 172.1 
+Kiefer_Sutherland/RK_t8ZIx3GY_0000005 295.5 314.1 
+Kiefer_Sutherland/RK_t8ZIx3GY_0000006 358.9 363.2 
+Kiefer_Sutherland/RK_t8ZIx3GY_0000007 372.0 377.6 
+Kiefer_Sutherland/RK_t8ZIx3GY_0000008 416.3 421.4 
+Kiefer_Sutherland/RK_t8ZIx3GY_0000009 453.0 469.5 
+Kiefer_Sutherland/RK_t8ZIx3GY_0000010 447.2 451.8 
+Kiefer_Sutherland/RK_t8ZIx3GY_0000011 480.5 486.2 
+Kiefer_Sutherland/RK_t8ZIx3GY_0000012 536.7 540.8 
+Kiefer_Sutherland/RK_t8ZIx3GY_0000013 596.2 604.2 
+Kiefer_Sutherland/RK_t8ZIx3GY_0000014 610.3 615.6 
+Kiefer_Sutherland/RK_t8ZIx3GY_0000015 672.0 681.6 

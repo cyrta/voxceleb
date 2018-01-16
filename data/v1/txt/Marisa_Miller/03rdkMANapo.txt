@@ -1,0 +1,8 @@
+POI: 			Marisa_Miller 
+Youtube ID: 	03rdkMANapo 
+Video length: 	59.6 sec 
+Set (V): 		dev 
+ 
+Marisa_Miller/03rdkMANapo_0000001 09.0 14.4 
+Marisa_Miller/03rdkMANapo_0000002 19.6 32.6 
+Marisa_Miller/03rdkMANapo_0000003 36.5 54.2 

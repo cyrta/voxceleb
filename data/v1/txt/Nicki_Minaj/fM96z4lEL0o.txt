@@ -1,0 +1,11 @@
+POI: 			Nicki_Minaj 
+Youtube ID: 	fM96z4lEL0o 
+Video length: 	763.3 sec 
+Set (V): 		dev 
+ 
+Nicki_Minaj/fM96z4lEL0o_0000001 190.1 194.3 
+Nicki_Minaj/fM96z4lEL0o_0000002 220.9 226.4 
+Nicki_Minaj/fM96z4lEL0o_0000003 347.4 351.6 
+Nicki_Minaj/fM96z4lEL0o_0000004 352.6 356.6 
+Nicki_Minaj/fM96z4lEL0o_0000005 461.4 465.7 
+Nicki_Minaj/fM96z4lEL0o_0000006 607.2 612.5 

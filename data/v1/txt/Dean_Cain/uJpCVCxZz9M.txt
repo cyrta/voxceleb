@@ -1,0 +1,7 @@
+POI: 			Dean_Cain 
+Youtube ID: 	uJpCVCxZz9M 
+Video length: 	356.6 sec 
+Set (V): 		dev 
+ 
+Dean_Cain/uJpCVCxZz9M_0000001 80.6 89.2 
+Dean_Cain/uJpCVCxZz9M_0000002 134.2 138.2 

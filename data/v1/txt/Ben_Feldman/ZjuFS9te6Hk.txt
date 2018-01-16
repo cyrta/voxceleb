@@ -1,0 +1,13 @@
+POI: 			Ben_Feldman 
+Youtube ID: 	ZjuFS9te6Hk 
+Video length: 	114.9 sec 
+Set (V): 		dev 
+ 
+Ben_Feldman/ZjuFS9te6Hk_0000001 16.6 21.2 
+Ben_Feldman/ZjuFS9te6Hk_0000002 27.2 32.0 
+Ben_Feldman/ZjuFS9te6Hk_0000003 36.6 40.7 
+Ben_Feldman/ZjuFS9te6Hk_0000004 43.4 49.4 
+Ben_Feldman/ZjuFS9te6Hk_0000005 50.4 55.6 
+Ben_Feldman/ZjuFS9te6Hk_0000006 91.1 95.5 
+Ben_Feldman/ZjuFS9te6Hk_0000007 97.8 103.0 
+Ben_Feldman/ZjuFS9te6Hk_0000008 105.8 111.5 

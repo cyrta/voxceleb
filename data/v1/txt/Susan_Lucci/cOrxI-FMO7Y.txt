@@ -1,0 +1,14 @@
+POI: 			Susan_Lucci 
+Youtube ID: 	cOrxI-FMO7Y 
+Video length: 	353.8 sec 
+Set (V): 		dev 
+ 
+Susan_Lucci/cOrxI-FMO7Y_0000001 38.0 42.4 
+Susan_Lucci/cOrxI-FMO7Y_0000002 52.4 59.2 
+Susan_Lucci/cOrxI-FMO7Y_0000003 78.2 87.9 
+Susan_Lucci/cOrxI-FMO7Y_0000004 101.5 110.1 
+Susan_Lucci/cOrxI-FMO7Y_0000005 125.1 130.3 
+Susan_Lucci/cOrxI-FMO7Y_0000006 130.7 138.9 
+Susan_Lucci/cOrxI-FMO7Y_0000007 180.4 226.1 
+Susan_Lucci/cOrxI-FMO7Y_0000008 226.7 233.6 
+Susan_Lucci/cOrxI-FMO7Y_0000009 271.0 288.9 

@@ -1,0 +1,11 @@
+POI: 			Louis_Theroux 
+Youtube ID: 	N7WRI2qz2QQ 
+Video length: 	225.5 sec 
+Set (V): 		dev 
+ 
+Louis_Theroux/N7WRI2qz2QQ_0000001 97.3 111.3 
+Louis_Theroux/N7WRI2qz2QQ_0000002 140.8 145.8 
+Louis_Theroux/N7WRI2qz2QQ_0000003 146.8 155.4 
+Louis_Theroux/N7WRI2qz2QQ_0000004 167.2 171.5 
+Louis_Theroux/N7WRI2qz2QQ_0000005 186.9 191.5 
+Louis_Theroux/N7WRI2qz2QQ_0000006 194.5 199.0 

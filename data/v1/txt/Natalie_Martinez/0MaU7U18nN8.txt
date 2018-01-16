@@ -1,0 +1,14 @@
+POI: 			Natalie_Martinez 
+Youtube ID: 	0MaU7U18nN8 
+Video length: 	208.1 sec 
+Set (V): 		dev 
+ 
+Natalie_Martinez/0MaU7U18nN8_0000001 01.1 06.9 
+Natalie_Martinez/0MaU7U18nN8_0000002 57.1 75.5 
+Natalie_Martinez/0MaU7U18nN8_0000003 76.0 82.6 
+Natalie_Martinez/0MaU7U18nN8_0000004 91.4 98.1 
+Natalie_Martinez/0MaU7U18nN8_0000005 98.3 106.0 
+Natalie_Martinez/0MaU7U18nN8_0000006 127.2 133.4 
+Natalie_Martinez/0MaU7U18nN8_0000007 145.3 149.7 
+Natalie_Martinez/0MaU7U18nN8_0000008 169.1 184.6 
+Natalie_Martinez/0MaU7U18nN8_0000009 193.1 202.8 

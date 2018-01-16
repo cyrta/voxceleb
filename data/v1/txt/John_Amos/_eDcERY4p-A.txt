@@ -1,0 +1,20 @@
+POI: 			John_Amos 
+Youtube ID: 	_eDcERY4p-A 
+Video length: 	223.5 sec 
+Set (V): 		dev 
+ 
+John_Amos/_eDcERY4p-A_0000001 06.6 10.7 
+John_Amos/_eDcERY4p-A_0000002 15.0 19.6 
+John_Amos/_eDcERY4p-A_0000003 27.3 47.8 
+John_Amos/_eDcERY4p-A_0000004 48.8 61.5 
+John_Amos/_eDcERY4p-A_0000005 66.3 76.2 
+John_Amos/_eDcERY4p-A_0000006 78.6 86.3 
+John_Amos/_eDcERY4p-A_0000007 100.5 109.3 
+John_Amos/_eDcERY4p-A_0000008 114.0 121.6 
+John_Amos/_eDcERY4p-A_0000009 129.6 140.3 
+John_Amos/_eDcERY4p-A_0000010 152.1 156.3 
+John_Amos/_eDcERY4p-A_0000011 156.6 164.7 
+John_Amos/_eDcERY4p-A_0000012 165.2 171.4 
+John_Amos/_eDcERY4p-A_0000013 179.1 183.7 
+John_Amos/_eDcERY4p-A_0000014 187.9 196.3 
+John_Amos/_eDcERY4p-A_0000015 196.4 205.0 

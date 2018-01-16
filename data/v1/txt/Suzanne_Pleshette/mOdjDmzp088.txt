@@ -1,0 +1,10 @@
+POI: 			Suzanne_Pleshette 
+Youtube ID: 	mOdjDmzp088 
+Video length: 	183.9 sec 
+Set (V): 		dev 
+ 
+Suzanne_Pleshette/mOdjDmzp088_0000001 13.2 18.8 
+Suzanne_Pleshette/mOdjDmzp088_0000002 24.7 31.6 
+Suzanne_Pleshette/mOdjDmzp088_0000003 71.8 78.0 
+Suzanne_Pleshette/mOdjDmzp088_0000004 78.2 85.0 
+Suzanne_Pleshette/mOdjDmzp088_0000005 86.3 93.5 

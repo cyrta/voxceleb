@@ -1,0 +1,7 @@
+POI: 			Laura_Dern 
+Youtube ID: 	lAuQo_EXeDU 
+Video length: 	539.3 sec 
+Set (V): 		dev 
+ 
+Laura_Dern/lAuQo_EXeDU_0000001 58.2 62.7 
+Laura_Dern/lAuQo_EXeDU_0000002 217.1 221.4 

@@ -1,0 +1,8 @@
+POI: 			John_Turturro 
+Youtube ID: 	Icy0suSfnBY 
+Video length: 	214.3 sec 
+Set (V): 		dev 
+ 
+John_Turturro/Icy0suSfnBY_0000001 159.5 164.1 
+John_Turturro/Icy0suSfnBY_0000002 165.2 172.5 
+John_Turturro/Icy0suSfnBY_0000003 176.8 180.8 

@@ -1,0 +1,32 @@
+POI: 			Megan_Fox 
+Youtube ID: 	D3mnjy9XmZc 
+Video length: 	394.0 sec 
+Set (V): 		dev 
+ 
+Megan_Fox/D3mnjy9XmZc_0000001 21.8 31.1 
+Megan_Fox/D3mnjy9XmZc_0000002 31.6 38.4 
+Megan_Fox/D3mnjy9XmZc_0000003 40.5 56.9 
+Megan_Fox/D3mnjy9XmZc_0000004 57.5 66.4 
+Megan_Fox/D3mnjy9XmZc_0000005 71.1 75.8 
+Megan_Fox/D3mnjy9XmZc_0000006 79.6 92.2 
+Megan_Fox/D3mnjy9XmZc_0000007 95.6 101.2 
+Megan_Fox/D3mnjy9XmZc_0000008 106.8 114.2 
+Megan_Fox/D3mnjy9XmZc_0000009 118.3 131.0 
+Megan_Fox/D3mnjy9XmZc_0000010 134.2 147.7 
+Megan_Fox/D3mnjy9XmZc_0000011 148.2 162.2 
+Megan_Fox/D3mnjy9XmZc_0000012 164.3 171.5 
+Megan_Fox/D3mnjy9XmZc_0000013 177.2 184.4 
+Megan_Fox/D3mnjy9XmZc_0000014 188.2 198.8 
+Megan_Fox/D3mnjy9XmZc_0000015 201.8 222.4 
+Megan_Fox/D3mnjy9XmZc_0000016 232.2 237.5 
+Megan_Fox/D3mnjy9XmZc_0000017 242.1 248.4 
+Megan_Fox/D3mnjy9XmZc_0000018 248.7 254.0 
+Megan_Fox/D3mnjy9XmZc_0000019 257.3 270.6 
+Megan_Fox/D3mnjy9XmZc_0000020 273.6 293.1 
+Megan_Fox/D3mnjy9XmZc_0000021 296.2 301.5 
+Megan_Fox/D3mnjy9XmZc_0000022 304.8 310.1 
+Megan_Fox/D3mnjy9XmZc_0000023 310.3 317.2 
+Megan_Fox/D3mnjy9XmZc_0000024 318.2 327.0 
+Megan_Fox/D3mnjy9XmZc_0000025 350.2 357.4 
+Megan_Fox/D3mnjy9XmZc_0000026 357.7 366.2 
+Megan_Fox/D3mnjy9XmZc_0000027 369.8 391.4 

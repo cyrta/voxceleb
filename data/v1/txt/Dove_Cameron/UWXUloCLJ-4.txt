@@ -1,0 +1,14 @@
+POI: 			Dove_Cameron 
+Youtube ID: 	UWXUloCLJ-4 
+Video length: 	445.2 sec 
+Set (V): 		dev 
+ 
+Dove_Cameron/UWXUloCLJ-4_0000001 16.8 26.2 
+Dove_Cameron/UWXUloCLJ-4_0000002 132.9 148.3 
+Dove_Cameron/UWXUloCLJ-4_0000003 168.3 176.8 
+Dove_Cameron/UWXUloCLJ-4_0000004 184.1 196.6 
+Dove_Cameron/UWXUloCLJ-4_0000005 200.0 210.3 
+Dove_Cameron/UWXUloCLJ-4_0000006 258.9 265.8 
+Dove_Cameron/UWXUloCLJ-4_0000007 270.9 275.8 
+Dove_Cameron/UWXUloCLJ-4_0000008 328.5 340.2 
+Dove_Cameron/UWXUloCLJ-4_0000009 341.1 350.4 

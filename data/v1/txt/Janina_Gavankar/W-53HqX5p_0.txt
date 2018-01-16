@@ -1,0 +1,24 @@
+POI: 			Janina_Gavankar 
+Youtube ID: 	W-53HqX5p_0 
+Video length: 	502.0 sec 
+Set (V): 		dev 
+ 
+Janina_Gavankar/W-53HqX5p_0_0000001 15.8 21.6 
+Janina_Gavankar/W-53HqX5p_0_0000002 52.6 56.8 
+Janina_Gavankar/W-53HqX5p_0_0000003 105.5 110.7 
+Janina_Gavankar/W-53HqX5p_0_0000004 122.3 126.7 
+Janina_Gavankar/W-53HqX5p_0_0000005 157.4 166.7 
+Janina_Gavankar/W-53HqX5p_0_0000006 201.9 211.8 
+Janina_Gavankar/W-53HqX5p_0_0000007 228.2 234.0 
+Janina_Gavankar/W-53HqX5p_0_0000008 242.3 256.2 
+Janina_Gavankar/W-53HqX5p_0_0000009 277.4 283.0 
+Janina_Gavankar/W-53HqX5p_0_0000010 314.3 322.8 
+Janina_Gavankar/W-53HqX5p_0_0000011 345.6 354.6 
+Janina_Gavankar/W-53HqX5p_0_0000012 357.5 366.2 
+Janina_Gavankar/W-53HqX5p_0_0000013 370.0 375.8 
+Janina_Gavankar/W-53HqX5p_0_0000014 389.8 398.4 
+Janina_Gavankar/W-53HqX5p_0_0000015 399.7 405.0 
+Janina_Gavankar/W-53HqX5p_0_0000016 427.6 432.7 
+Janina_Gavankar/W-53HqX5p_0_0000017 458.0 464.1 
+Janina_Gavankar/W-53HqX5p_0_0000018 464.4 471.4 
+Janina_Gavankar/W-53HqX5p_0_0000019 489.1 495.1 

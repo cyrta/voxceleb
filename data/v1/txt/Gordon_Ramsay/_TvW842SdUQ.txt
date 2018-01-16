@@ -1,0 +1,8 @@
+POI: 			Gordon_Ramsay 
+Youtube ID: 	_TvW842SdUQ 
+Video length: 	258.2 sec 
+Set (V): 		dev 
+ 
+Gordon_Ramsay/_TvW842SdUQ_0000001 84.7 90.3 
+Gordon_Ramsay/_TvW842SdUQ_0000002 140.0 145.6 
+Gordon_Ramsay/_TvW842SdUQ_0000003 166.7 175.7 

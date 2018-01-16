@@ -1,0 +1,7 @@
+POI: 			Richard_Dean_Anderson 
+Youtube ID: 	dmj8vJmBH94 
+Video length: 	82.8 sec 
+Set (V): 		dev 
+ 
+Richard_Dean_Anderson/dmj8vJmBH94_0000001 20.1 24.9 
+Richard_Dean_Anderson/dmj8vJmBH94_0000002 26.5 35.5 

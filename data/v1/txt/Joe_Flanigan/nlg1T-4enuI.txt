@@ -1,0 +1,7 @@
+POI: 			Joe_Flanigan 
+Youtube ID: 	nlg1T-4enuI 
+Video length: 	310.1 sec 
+Set (V): 		dev 
+ 
+Joe_Flanigan/nlg1T-4enuI_0000001 08.9 14.9 
+Joe_Flanigan/nlg1T-4enuI_0000002 127.7 132.0 

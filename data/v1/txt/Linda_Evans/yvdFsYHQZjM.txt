@@ -1,0 +1,15 @@
+POI: 			Linda_Evans 
+Youtube ID: 	yvdFsYHQZjM 
+Video length: 	363.1 sec 
+Set (V): 		dev 
+ 
+Linda_Evans/yvdFsYHQZjM_0000001 100.0 104.1 
+Linda_Evans/yvdFsYHQZjM_0000002 104.5 115.0 
+Linda_Evans/yvdFsYHQZjM_0000003 132.5 140.1 
+Linda_Evans/yvdFsYHQZjM_0000004 142.2 148.0 
+Linda_Evans/yvdFsYHQZjM_0000005 153.9 159.0 
+Linda_Evans/yvdFsYHQZjM_0000006 183.6 189.0 
+Linda_Evans/yvdFsYHQZjM_0000007 195.2 202.4 
+Linda_Evans/yvdFsYHQZjM_0000008 223.5 233.8 
+Linda_Evans/yvdFsYHQZjM_0000009 254.3 259.6 
+Linda_Evans/yvdFsYHQZjM_0000010 282.8 291.4 

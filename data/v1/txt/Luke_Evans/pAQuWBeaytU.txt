@@ -1,0 +1,19 @@
+POI: 			Luke_Evans 
+Youtube ID: 	pAQuWBeaytU 
+Video length: 	248.0 sec 
+Set (V): 		dev 
+ 
+Luke_Evans/pAQuWBeaytU_0000001 11.8 25.3 
+Luke_Evans/pAQuWBeaytU_0000002 26.8 34.1 
+Luke_Evans/pAQuWBeaytU_0000003 51.1 58.5 
+Luke_Evans/pAQuWBeaytU_0000004 63.3 70.5 
+Luke_Evans/pAQuWBeaytU_0000005 71.6 78.4 
+Luke_Evans/pAQuWBeaytU_0000006 79.3 87.6 
+Luke_Evans/pAQuWBeaytU_0000007 96.5 101.0 
+Luke_Evans/pAQuWBeaytU_0000008 107.4 123.7 
+Luke_Evans/pAQuWBeaytU_0000009 148.5 163.0 
+Luke_Evans/pAQuWBeaytU_0000010 164.7 169.5 
+Luke_Evans/pAQuWBeaytU_0000011 188.0 195.4 
+Luke_Evans/pAQuWBeaytU_0000012 209.9 218.6 
+Luke_Evans/pAQuWBeaytU_0000013 219.3 224.3 
+Luke_Evans/pAQuWBeaytU_0000014 225.8 232.2 

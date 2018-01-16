@@ -1,0 +1,13 @@
+POI: 			Brian_Dennehy 
+Youtube ID: 	L1orGWk0Elw 
+Video length: 	179.8 sec 
+Set (V): 		dev 
+ 
+Brian_Dennehy/L1orGWk0Elw_0000001 16.6 27.0 
+Brian_Dennehy/L1orGWk0Elw_0000002 75.7 83.8 
+Brian_Dennehy/L1orGWk0Elw_0000003 97.6 101.8 
+Brian_Dennehy/L1orGWk0Elw_0000004 104.9 112.3 
+Brian_Dennehy/L1orGWk0Elw_0000005 113.3 118.4 
+Brian_Dennehy/L1orGWk0Elw_0000006 131.4 140.6 
+Brian_Dennehy/L1orGWk0Elw_0000007 158.9 166.2 
+Brian_Dennehy/L1orGWk0Elw_0000008 167.1 177.2 

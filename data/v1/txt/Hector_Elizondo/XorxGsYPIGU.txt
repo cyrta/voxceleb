@@ -1,0 +1,7 @@
+POI: 			Hector_Elizondo 
+Youtube ID: 	XorxGsYPIGU 
+Video length: 	1228.1 sec 
+Set (V): 		dev 
+ 
+Hector_Elizondo/XorxGsYPIGU_0000001 638.4 644.6 
+Hector_Elizondo/XorxGsYPIGU_0000002 1088.2 1092.1 

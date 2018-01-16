@@ -1,0 +1,23 @@
+POI: 			Simon_Callow 
+Youtube ID: 	2OZJ8m5zcHc 
+Video length: 	503.0 sec 
+Set (V): 		dev 
+ 
+Simon_Callow/2OZJ8m5zcHc_0000001 43.8 74.6 
+Simon_Callow/2OZJ8m5zcHc_0000002 86.4 90.7 
+Simon_Callow/2OZJ8m5zcHc_0000003 91.3 96.0 
+Simon_Callow/2OZJ8m5zcHc_0000004 114.2 119.9 
+Simon_Callow/2OZJ8m5zcHc_0000005 130.9 137.4 
+Simon_Callow/2OZJ8m5zcHc_0000006 157.7 175.2 
+Simon_Callow/2OZJ8m5zcHc_0000007 187.9 211.6 
+Simon_Callow/2OZJ8m5zcHc_0000008 219.6 237.9 
+Simon_Callow/2OZJ8m5zcHc_0000009 250.5 273.4 
+Simon_Callow/2OZJ8m5zcHc_0000010 286.1 292.0 
+Simon_Callow/2OZJ8m5zcHc_0000011 292.9 312.5 
+Simon_Callow/2OZJ8m5zcHc_0000012 321.8 339.4 
+Simon_Callow/2OZJ8m5zcHc_0000013 350.8 361.1 
+Simon_Callow/2OZJ8m5zcHc_0000014 379.8 406.1 
+Simon_Callow/2OZJ8m5zcHc_0000015 417.9 433.4 
+Simon_Callow/2OZJ8m5zcHc_0000016 439.0 456.2 
+Simon_Callow/2OZJ8m5zcHc_0000017 482.4 488.7 
+Simon_Callow/2OZJ8m5zcHc_0000018 492.4 500.6 

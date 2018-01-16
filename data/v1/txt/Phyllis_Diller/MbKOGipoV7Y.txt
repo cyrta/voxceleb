@@ -1,0 +1,14 @@
+POI: 			Phyllis_Diller 
+Youtube ID: 	MbKOGipoV7Y 
+Video length: 	139.2 sec 
+Set (V): 		dev 
+ 
+Phyllis_Diller/MbKOGipoV7Y_0000001 06.1 10.8 
+Phyllis_Diller/MbKOGipoV7Y_0000002 20.4 31.3 
+Phyllis_Diller/MbKOGipoV7Y_0000003 35.0 52.2 
+Phyllis_Diller/MbKOGipoV7Y_0000004 53.1 66.6 
+Phyllis_Diller/MbKOGipoV7Y_0000005 67.2 72.1 
+Phyllis_Diller/MbKOGipoV7Y_0000006 73.2 82.0 
+Phyllis_Diller/MbKOGipoV7Y_0000007 85.2 97.2 
+Phyllis_Diller/MbKOGipoV7Y_0000008 104.9 111.3 
+Phyllis_Diller/MbKOGipoV7Y_0000009 117.1 122.6 

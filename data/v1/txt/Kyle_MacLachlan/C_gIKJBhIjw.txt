@@ -1,0 +1,12 @@
+POI: 			Kyle_MacLachlan 
+Youtube ID: 	C_gIKJBhIjw 
+Video length: 	267.7 sec 
+Set (V): 		dev 
+ 
+Kyle_MacLachlan/C_gIKJBhIjw_0000001 17.1 21.5 
+Kyle_MacLachlan/C_gIKJBhIjw_0000002 24.7 29.1 
+Kyle_MacLachlan/C_gIKJBhIjw_0000003 89.3 97.4 
+Kyle_MacLachlan/C_gIKJBhIjw_0000004 109.4 116.0 
+Kyle_MacLachlan/C_gIKJBhIjw_0000005 120.2 140.3 
+Kyle_MacLachlan/C_gIKJBhIjw_0000006 168.7 173.0 
+Kyle_MacLachlan/C_gIKJBhIjw_0000007 188.3 192.9 

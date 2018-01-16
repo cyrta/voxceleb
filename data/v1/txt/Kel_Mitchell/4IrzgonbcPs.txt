@@ -1,0 +1,11 @@
+POI: 			Kel_Mitchell 
+Youtube ID: 	4IrzgonbcPs 
+Video length: 	746.8 sec 
+Set (V): 		dev 
+ 
+Kel_Mitchell/4IrzgonbcPs_0000001 104.8 109.9 
+Kel_Mitchell/4IrzgonbcPs_0000002 128.9 135.8 
+Kel_Mitchell/4IrzgonbcPs_0000003 486.0 492.1 
+Kel_Mitchell/4IrzgonbcPs_0000004 518.1 522.2 
+Kel_Mitchell/4IrzgonbcPs_0000005 551.4 555.6 
+Kel_Mitchell/4IrzgonbcPs_0000006 619.3 625.0 

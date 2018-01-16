@@ -1,0 +1,12 @@
+POI: 			Neil_deGrasse_Tyson 
+Youtube ID: 	cd1pB97Hc5I 
+Video length: 	413.8 sec 
+Set (V): 		dev 
+ 
+Neil_deGrasse_Tyson/cd1pB97Hc5I_0000001 93.8 100.3 
+Neil_deGrasse_Tyson/cd1pB97Hc5I_0000002 109.7 118.2 
+Neil_deGrasse_Tyson/cd1pB97Hc5I_0000003 123.2 129.0 
+Neil_deGrasse_Tyson/cd1pB97Hc5I_0000004 143.4 149.9 
+Neil_deGrasse_Tyson/cd1pB97Hc5I_0000005 150.0 154.2 
+Neil_deGrasse_Tyson/cd1pB97Hc5I_0000006 292.6 309.7 
+Neil_deGrasse_Tyson/cd1pB97Hc5I_0000007 320.4 325.2 

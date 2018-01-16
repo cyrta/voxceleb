@@ -1,0 +1,8 @@
+POI: 			Douglas_Booth 
+Youtube ID: 	A3IfNNgTkuY 
+Video length: 	401.7 sec 
+Set (V): 		dev 
+ 
+Douglas_Booth/A3IfNNgTkuY_0000001 25.5 32.6 
+Douglas_Booth/A3IfNNgTkuY_0000002 95.8 104.2 
+Douglas_Booth/A3IfNNgTkuY_0000003 130.4 135.4 

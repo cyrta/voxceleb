@@ -1,0 +1,31 @@
+POI: 			Brian_Dennehy 
+Youtube ID: 	Af5zLSIUpBc 
+Video length: 	820.1 sec 
+Set (V): 		dev 
+ 
+Brian_Dennehy/Af5zLSIUpBc_0000001 147.4 153.6 
+Brian_Dennehy/Af5zLSIUpBc_0000002 202.4 208.2 
+Brian_Dennehy/Af5zLSIUpBc_0000003 216.3 221.7 
+Brian_Dennehy/Af5zLSIUpBc_0000004 248.2 254.6 
+Brian_Dennehy/Af5zLSIUpBc_0000005 307.2 313.4 
+Brian_Dennehy/Af5zLSIUpBc_0000006 321.1 330.4 
+Brian_Dennehy/Af5zLSIUpBc_0000007 349.7 357.6 
+Brian_Dennehy/Af5zLSIUpBc_0000008 368.9 375.3 
+Brian_Dennehy/Af5zLSIUpBc_0000009 419.0 427.0 
+Brian_Dennehy/Af5zLSIUpBc_0000010 427.5 432.6 
+Brian_Dennehy/Af5zLSIUpBc_0000011 469.0 474.6 
+Brian_Dennehy/Af5zLSIUpBc_0000012 481.6 491.6 
+Brian_Dennehy/Af5zLSIUpBc_0000013 529.2 539.0 
+Brian_Dennehy/Af5zLSIUpBc_0000014 552.4 563.4 
+Brian_Dennehy/Af5zLSIUpBc_0000015 580.1 587.7 
+Brian_Dennehy/Af5zLSIUpBc_0000016 588.1 592.2 
+Brian_Dennehy/Af5zLSIUpBc_0000017 611.6 617.7 
+Brian_Dennehy/Af5zLSIUpBc_0000018 643.7 653.0 
+Brian_Dennehy/Af5zLSIUpBc_0000019 656.7 663.8 
+Brian_Dennehy/Af5zLSIUpBc_0000020 678.1 685.6 
+Brian_Dennehy/Af5zLSIUpBc_0000021 713.3 720.6 
+Brian_Dennehy/Af5zLSIUpBc_0000022 726.3 733.5 
+Brian_Dennehy/Af5zLSIUpBc_0000023 741.4 748.0 
+Brian_Dennehy/Af5zLSIUpBc_0000024 751.0 758.2 
+Brian_Dennehy/Af5zLSIUpBc_0000025 758.8 764.7 
+Brian_Dennehy/Af5zLSIUpBc_0000026 770.9 793.6 

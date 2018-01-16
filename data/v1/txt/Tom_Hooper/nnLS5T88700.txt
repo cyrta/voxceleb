@@ -1,0 +1,14 @@
+POI: 			Tom_Hooper 
+Youtube ID: 	nnLS5T88700 
+Video length: 	182.5 sec 
+Set (V): 		dev 
+ 
+Tom_Hooper/nnLS5T88700_0000001 14.1 28.9 
+Tom_Hooper/nnLS5T88700_0000002 33.2 41.9 
+Tom_Hooper/nnLS5T88700_0000003 44.0 52.1 
+Tom_Hooper/nnLS5T88700_0000004 70.6 77.0 
+Tom_Hooper/nnLS5T88700_0000005 79.4 84.6 
+Tom_Hooper/nnLS5T88700_0000006 101.8 110.3 
+Tom_Hooper/nnLS5T88700_0000007 120.0 124.7 
+Tom_Hooper/nnLS5T88700_0000008 139.0 145.0 
+Tom_Hooper/nnLS5T88700_0000009 145.7 151.2 

@@ -1,0 +1,13 @@
+POI: 			Nick_Kroll 
+Youtube ID: 	MuB3aOd3INA 
+Video length: 	269.3 sec 
+Set (V): 		dev 
+ 
+Nick_Kroll/MuB3aOd3INA_0000001 21.8 30.4 
+Nick_Kroll/MuB3aOd3INA_0000002 32.3 45.3 
+Nick_Kroll/MuB3aOd3INA_0000003 60.7 80.5 
+Nick_Kroll/MuB3aOd3INA_0000004 109.5 114.1 
+Nick_Kroll/MuB3aOd3INA_0000005 133.3 138.4 
+Nick_Kroll/MuB3aOd3INA_0000006 158.3 179.8 
+Nick_Kroll/MuB3aOd3INA_0000007 208.0 222.7 
+Nick_Kroll/MuB3aOd3INA_0000008 232.8 239.0 

@@ -1,0 +1,12 @@
+POI: 			Mark_Strong 
+Youtube ID: 	1PV6BHn4IqE 
+Video length: 	135.6 sec 
+Set (V): 		dev 
+ 
+Mark_Strong/1PV6BHn4IqE_0000001 14.0 18.3 
+Mark_Strong/1PV6BHn4IqE_0000002 19.0 23.3 
+Mark_Strong/1PV6BHn4IqE_0000003 40.8 47.4 
+Mark_Strong/1PV6BHn4IqE_0000004 48.0 58.6 
+Mark_Strong/1PV6BHn4IqE_0000005 85.8 91.2 
+Mark_Strong/1PV6BHn4IqE_0000006 91.6 97.1 
+Mark_Strong/1PV6BHn4IqE_0000007 109.1 118.4 

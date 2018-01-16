@@ -1,0 +1,11 @@
+POI: 			Claudia_Black 
+Youtube ID: 	zosgO9ZJFLk 
+Video length: 	303.3 sec 
+Set (V): 		dev 
+ 
+Claudia_Black/zosgO9ZJFLk_0000001 160.4 164.9 
+Claudia_Black/zosgO9ZJFLk_0000002 167.4 176.9 
+Claudia_Black/zosgO9ZJFLk_0000003 177.4 183.1 
+Claudia_Black/zosgO9ZJFLk_0000004 190.4 195.0 
+Claudia_Black/zosgO9ZJFLk_0000005 196.1 204.6 
+Claudia_Black/zosgO9ZJFLk_0000006 290.6 296.9 

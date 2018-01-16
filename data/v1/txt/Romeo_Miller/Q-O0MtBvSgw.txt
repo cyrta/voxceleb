@@ -1,0 +1,14 @@
+POI: 			Romeo_Miller 
+Youtube ID: 	Q-O0MtBvSgw 
+Video length: 	218.7 sec 
+Set (V): 		dev 
+ 
+Romeo_Miller/Q-O0MtBvSgw_0000001 05.0 41.0 
+Romeo_Miller/Q-O0MtBvSgw_0000002 92.7 97.2 
+Romeo_Miller/Q-O0MtBvSgw_0000003 102.3 109.2 
+Romeo_Miller/Q-O0MtBvSgw_0000004 129.8 136.6 
+Romeo_Miller/Q-O0MtBvSgw_0000005 102.2 109.1 
+Romeo_Miller/Q-O0MtBvSgw_0000006 129.7 137.2 
+Romeo_Miller/Q-O0MtBvSgw_0000007 139.1 156.2 
+Romeo_Miller/Q-O0MtBvSgw_0000008 170.4 177.6 
+Romeo_Miller/Q-O0MtBvSgw_0000009 186.2 207.8 

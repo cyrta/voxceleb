@@ -1,0 +1,20 @@
+POI: 			Ray_Winstone 
+Youtube ID: 	mvjUDRx5Exw 
+Video length: 	465.3 sec 
+Set (V): 		dev 
+ 
+Ray_Winstone/mvjUDRx5Exw_0000001 32.4 37.8 
+Ray_Winstone/mvjUDRx5Exw_0000002 73.7 80.4 
+Ray_Winstone/mvjUDRx5Exw_0000003 87.0 91.2 
+Ray_Winstone/mvjUDRx5Exw_0000004 92.0 105.0 
+Ray_Winstone/mvjUDRx5Exw_0000005 113.8 119.1 
+Ray_Winstone/mvjUDRx5Exw_0000006 122.1 138.9 
+Ray_Winstone/mvjUDRx5Exw_0000007 139.4 149.5 
+Ray_Winstone/mvjUDRx5Exw_0000008 272.1 279.8 
+Ray_Winstone/mvjUDRx5Exw_0000009 280.9 288.8 
+Ray_Winstone/mvjUDRx5Exw_0000010 291.8 299.1 
+Ray_Winstone/mvjUDRx5Exw_0000011 283.2 291.6 
+Ray_Winstone/mvjUDRx5Exw_0000012 337.6 344.9 
+Ray_Winstone/mvjUDRx5Exw_0000013 355.0 359.4 
+Ray_Winstone/mvjUDRx5Exw_0000014 370.9 375.1 
+Ray_Winstone/mvjUDRx5Exw_0000015 440.5 447.3 

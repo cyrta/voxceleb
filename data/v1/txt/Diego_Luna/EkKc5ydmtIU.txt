@@ -1,0 +1,14 @@
+POI: 			Diego_Luna 
+Youtube ID: 	EkKc5ydmtIU 
+Video length: 	253.1 sec 
+Set (V): 		dev 
+ 
+Diego_Luna/EkKc5ydmtIU_0000001 40.1 44.4 
+Diego_Luna/EkKc5ydmtIU_0000002 45.2 49.4 
+Diego_Luna/EkKc5ydmtIU_0000003 51.2 59.6 
+Diego_Luna/EkKc5ydmtIU_0000004 74.9 80.5 
+Diego_Luna/EkKc5ydmtIU_0000005 80.6 88.1 
+Diego_Luna/EkKc5ydmtIU_0000006 101.7 111.1 
+Diego_Luna/EkKc5ydmtIU_0000007 153.4 157.7 
+Diego_Luna/EkKc5ydmtIU_0000008 204.3 212.4 
+Diego_Luna/EkKc5ydmtIU_0000009 230.4 239.4 

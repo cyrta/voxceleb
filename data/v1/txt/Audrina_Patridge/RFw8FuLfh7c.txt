@@ -1,0 +1,10 @@
+POI: 			Audrina_Patridge 
+Youtube ID: 	RFw8FuLfh7c 
+Video length: 	176.1 sec 
+Set (V): 		dev 
+ 
+Audrina_Patridge/RFw8FuLfh7c_0000001 42.4 48.8 
+Audrina_Patridge/RFw8FuLfh7c_0000002 54.4 61.8 
+Audrina_Patridge/RFw8FuLfh7c_0000003 68.8 72.8 
+Audrina_Patridge/RFw8FuLfh7c_0000004 100.4 106.6 
+Audrina_Patridge/RFw8FuLfh7c_0000005 127.5 136.6 

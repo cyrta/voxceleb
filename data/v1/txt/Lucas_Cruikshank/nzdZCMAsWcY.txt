@@ -1,0 +1,7 @@
+POI: 			Lucas_Cruikshank 
+Youtube ID: 	nzdZCMAsWcY 
+Video length: 	216.3 sec 
+Set (V): 		dev 
+ 
+Lucas_Cruikshank/nzdZCMAsWcY_0000001 55.4 59.4 
+Lucas_Cruikshank/nzdZCMAsWcY_0000002 76.2 82.9 

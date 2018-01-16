@@ -1,0 +1,7 @@
+POI: 			Meredith_Baxter 
+Youtube ID: 	BCiGvwL44gI 
+Video length: 	108.2 sec 
+Set (V): 		dev 
+ 
+Meredith_Baxter/BCiGvwL44gI_0000001 19.4 24.0 
+Meredith_Baxter/BCiGvwL44gI_0000002 30.3 34.3 

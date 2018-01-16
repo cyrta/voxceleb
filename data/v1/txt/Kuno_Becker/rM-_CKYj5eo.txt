@@ -1,0 +1,14 @@
+POI: 			Kuno_Becker 
+Youtube ID: 	rM-_CKYj5eo 
+Video length: 	226.7 sec 
+Set (V): 		dev 
+ 
+Kuno_Becker/rM-_CKYj5eo_0000001 11.2 19.8 
+Kuno_Becker/rM-_CKYj5eo_0000002 27.2 34.0 
+Kuno_Becker/rM-_CKYj5eo_0000003 36.4 43.2 
+Kuno_Becker/rM-_CKYj5eo_0000004 77.5 84.0 
+Kuno_Becker/rM-_CKYj5eo_0000005 103.0 108.9 
+Kuno_Becker/rM-_CKYj5eo_0000006 110.2 121.9 
+Kuno_Becker/rM-_CKYj5eo_0000007 129.0 141.9 
+Kuno_Becker/rM-_CKYj5eo_0000008 181.5 188.4 
+Kuno_Becker/rM-_CKYj5eo_0000009 191.6 203.1 

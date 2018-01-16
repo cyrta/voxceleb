@@ -1,0 +1,19 @@
+POI: 			Tavi_Gevinson 
+Youtube ID: 	KDyuviEzSAE 
+Video length: 	256.1 sec 
+Set (V): 		dev 
+ 
+Tavi_Gevinson/KDyuviEzSAE_0000001 08.0 16.6 
+Tavi_Gevinson/KDyuviEzSAE_0000002 26.8 41.6 
+Tavi_Gevinson/KDyuviEzSAE_0000003 51.7 60.8 
+Tavi_Gevinson/KDyuviEzSAE_0000004 74.4 80.2 
+Tavi_Gevinson/KDyuviEzSAE_0000005 82.1 91.6 
+Tavi_Gevinson/KDyuviEzSAE_0000006 101.6 108.1 
+Tavi_Gevinson/KDyuviEzSAE_0000007 108.2 112.5 
+Tavi_Gevinson/KDyuviEzSAE_0000008 112.8 120.2 
+Tavi_Gevinson/KDyuviEzSAE_0000009 122.9 129.3 
+Tavi_Gevinson/KDyuviEzSAE_0000010 156.4 175.7 
+Tavi_Gevinson/KDyuviEzSAE_0000011 188.1 199.0 
+Tavi_Gevinson/KDyuviEzSAE_0000012 199.7 211.8 
+Tavi_Gevinson/KDyuviEzSAE_0000013 212.5 220.2 
+Tavi_Gevinson/KDyuviEzSAE_0000014 220.3 244.2 

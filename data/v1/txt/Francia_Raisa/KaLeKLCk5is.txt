@@ -1,0 +1,9 @@
+POI: 			Francia_Raisa 
+Youtube ID: 	KaLeKLCk5is 
+Video length: 	298.8 sec 
+Set (V): 		dev 
+ 
+Francia_Raisa/KaLeKLCk5is_0000001 39.2 51.1 
+Francia_Raisa/KaLeKLCk5is_0000002 166.2 186.6 
+Francia_Raisa/KaLeKLCk5is_0000003 200.9 208.9 
+Francia_Raisa/KaLeKLCk5is_0000004 258.9 264.3 

@@ -1,0 +1,11 @@
+POI: 			Sendhil_Ramamurthy 
+Youtube ID: 	akk7rTuxBQQ 
+Video length: 	832.2 sec 
+Set (V): 		dev 
+ 
+Sendhil_Ramamurthy/akk7rTuxBQQ_0000001 119.3 125.9 
+Sendhil_Ramamurthy/akk7rTuxBQQ_0000002 298.9 304.0 
+Sendhil_Ramamurthy/akk7rTuxBQQ_0000003 555.2 559.6 
+Sendhil_Ramamurthy/akk7rTuxBQQ_0000004 591.4 599.7 
+Sendhil_Ramamurthy/akk7rTuxBQQ_0000005 600.5 607.4 
+Sendhil_Ramamurthy/akk7rTuxBQQ_0000006 608.6 615.2 

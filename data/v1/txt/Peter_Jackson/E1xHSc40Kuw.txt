@@ -1,0 +1,30 @@
+POI: 			Peter_Jackson 
+Youtube ID: 	E1xHSc40Kuw 
+Video length: 	649.7 sec 
+Set (V): 		dev 
+ 
+Peter_Jackson/E1xHSc40Kuw_0000001 95.2 107.0 
+Peter_Jackson/E1xHSc40Kuw_0000002 107.9 120.2 
+Peter_Jackson/E1xHSc40Kuw_0000003 127.7 148.4 
+Peter_Jackson/E1xHSc40Kuw_0000004 155.8 161.9 
+Peter_Jackson/E1xHSc40Kuw_0000005 169.0 183.3 
+Peter_Jackson/E1xHSc40Kuw_0000006 205.3 212.4 
+Peter_Jackson/E1xHSc40Kuw_0000007 216.2 225.9 
+Peter_Jackson/E1xHSc40Kuw_0000008 227.0 233.6 
+Peter_Jackson/E1xHSc40Kuw_0000009 241.3 246.0 
+Peter_Jackson/E1xHSc40Kuw_0000010 253.4 274.1 
+Peter_Jackson/E1xHSc40Kuw_0000011 277.9 285.7 
+Peter_Jackson/E1xHSc40Kuw_0000012 305.4 326.0 
+Peter_Jackson/E1xHSc40Kuw_0000013 326.9 343.3 
+Peter_Jackson/E1xHSc40Kuw_0000014 345.5 351.8 
+Peter_Jackson/E1xHSc40Kuw_0000015 354.7 361.1 
+Peter_Jackson/E1xHSc40Kuw_0000016 361.3 367.7 
+Peter_Jackson/E1xHSc40Kuw_0000017 367.9 380.5 
+Peter_Jackson/E1xHSc40Kuw_0000018 408.1 428.9 
+Peter_Jackson/E1xHSc40Kuw_0000019 429.0 442.8 
+Peter_Jackson/E1xHSc40Kuw_0000020 451.3 462.9 
+Peter_Jackson/E1xHSc40Kuw_0000021 463.4 468.3 
+Peter_Jackson/E1xHSc40Kuw_0000022 482.7 504.8 
+Peter_Jackson/E1xHSc40Kuw_0000023 505.8 517.1 
+Peter_Jackson/E1xHSc40Kuw_0000024 518.0 553.2 
+Peter_Jackson/E1xHSc40Kuw_0000025 553.6 562.6 

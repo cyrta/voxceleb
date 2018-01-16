@@ -1,0 +1,9 @@
+POI: 			Katherine_Jenkins 
+Youtube ID: 	owN6TTUxZh8 
+Video length: 	373.6 sec 
+Set (V): 		dev 
+ 
+Katherine_Jenkins/owN6TTUxZh8_0000001 219.4 229.6 
+Katherine_Jenkins/owN6TTUxZh8_0000002 243.5 248.7 
+Katherine_Jenkins/owN6TTUxZh8_0000003 253.4 261.8 
+Katherine_Jenkins/owN6TTUxZh8_0000004 265.0 276.0 

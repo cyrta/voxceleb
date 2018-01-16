@@ -1,0 +1,7 @@
+POI: 			Alex_Kingston 
+Youtube ID: 	50IAfJCypFI 
+Video length: 	169.0 sec 
+Set (V): 		dev 
+ 
+Alex_Kingston/50IAfJCypFI_0000001 112.9 118.2 
+Alex_Kingston/50IAfJCypFI_0000002 118.9 126.5 

@@ -1,0 +1,11 @@
+POI: 			Amanda_Seyfried 
+Youtube ID: 	yWcOMdVRUsc 
+Video length: 	271.9 sec 
+Set (V): 		dev 
+ 
+Amanda_Seyfried/yWcOMdVRUsc_0000001 182.0 187.6 
+Amanda_Seyfried/yWcOMdVRUsc_0000002 216.2 226.8 
+Amanda_Seyfried/yWcOMdVRUsc_0000003 227.0 231.2 
+Amanda_Seyfried/yWcOMdVRUsc_0000004 232.8 237.0 
+Amanda_Seyfried/yWcOMdVRUsc_0000005 240.4 248.8 
+Amanda_Seyfried/yWcOMdVRUsc_0000006 258.4 264.2 

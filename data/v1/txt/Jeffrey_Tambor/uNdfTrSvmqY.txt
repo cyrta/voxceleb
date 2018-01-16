@@ -1,0 +1,17 @@
+POI: 			Jeffrey_Tambor 
+Youtube ID: 	uNdfTrSvmqY 
+Video length: 	137.0 sec 
+Set (V): 		dev 
+ 
+Jeffrey_Tambor/uNdfTrSvmqY_0000001 16.1 36.7 
+Jeffrey_Tambor/uNdfTrSvmqY_0000002 59.3 66.3 
+Jeffrey_Tambor/uNdfTrSvmqY_0000003 68.1 73.1 
+Jeffrey_Tambor/uNdfTrSvmqY_0000004 82.4 88.7 
+Jeffrey_Tambor/uNdfTrSvmqY_0000005 89.3 95.4 
+Jeffrey_Tambor/uNdfTrSvmqY_0000006 97.4 106.2 
+Jeffrey_Tambor/uNdfTrSvmqY_0000007 106.7 110.9 
+Jeffrey_Tambor/uNdfTrSvmqY_0000008 83.1 88.8 
+Jeffrey_Tambor/uNdfTrSvmqY_0000009 89.3 95.2 
+Jeffrey_Tambor/uNdfTrSvmqY_0000010 97.2 106.2 
+Jeffrey_Tambor/uNdfTrSvmqY_0000011 106.7 110.9 
+Jeffrey_Tambor/uNdfTrSvmqY_0000012 115.8 122.9 

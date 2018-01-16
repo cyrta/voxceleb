@@ -1,0 +1,13 @@
+POI: 			Miley_Cyrus 
+Youtube ID: 	gNQxorv2UCM 
+Video length: 	127.2 sec 
+Set (V): 		dev 
+ 
+Miley_Cyrus/gNQxorv2UCM_0000001 03.6 13.1 
+Miley_Cyrus/gNQxorv2UCM_0000002 19.2 30.6 
+Miley_Cyrus/gNQxorv2UCM_0000003 34.5 41.6 
+Miley_Cyrus/gNQxorv2UCM_0000004 61.1 80.0 
+Miley_Cyrus/gNQxorv2UCM_0000005 92.3 99.4 
+Miley_Cyrus/gNQxorv2UCM_0000006 100.2 106.1 
+Miley_Cyrus/gNQxorv2UCM_0000007 106.3 114.4 
+Miley_Cyrus/gNQxorv2UCM_0000008 114.8 119.0 

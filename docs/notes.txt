@@ -1,0 +1,22 @@
+
+
+https://github.com/pyannote/pyannote-db-voxceleb/blob/master/scripts/prepare_data.ipynb
+
+https://github.com/pyannote/pyannote-db-voxceleb/blob/master/CHANGELOG.md
+https://github.com/pyannote/pyannote-db-voxceleb/blob/master/MANIFEST.in
+https://github.com/pyannote/pyannote-db-voxceleb/blob/master/LICENSE
+https://github.com/pyannote/pyannote-db-voxceleb/blob/master/setup.cfg
+https://github.com/pyannote/pyannote-db-voxceleb/blob/master/setup.py
+https://github.com/pyannote/pyannote-db-voxceleb/blob/master/versioneer.py
+
+
+A sample project that exists as an aid to the Python Packaging User Guide's Tutorial on Packaging and Distributing Projects.
+https://packaging.python.org/
+https://packaging.python.org/tutorials/distributing-packages/
+http://python-packaging.readthedocs.io/en/latest/dependencies.html
+http://python-packaging.readthedocs.io/en/latest/minimal.html
+
+https://github.com/pypa/sampleproject
+https://github.com/pypa/sampleproject/blob/master/setup.py
+
+

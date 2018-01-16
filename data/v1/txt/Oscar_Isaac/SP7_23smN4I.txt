@@ -1,0 +1,21 @@
+POI: 			Oscar_Isaac 
+Youtube ID: 	SP7_23smN4I 
+Video length: 	285.8 sec 
+Set (V): 		dev 
+ 
+Oscar_Isaac/SP7_23smN4I_0000001 10.7 29.4 
+Oscar_Isaac/SP7_23smN4I_0000002 38.9 48.8 
+Oscar_Isaac/SP7_23smN4I_0000003 49.8 54.9 
+Oscar_Isaac/SP7_23smN4I_0000004 56.3 61.1 
+Oscar_Isaac/SP7_23smN4I_0000005 62.1 70.5 
+Oscar_Isaac/SP7_23smN4I_0000006 85.2 89.8 
+Oscar_Isaac/SP7_23smN4I_0000007 95.7 101.8 
+Oscar_Isaac/SP7_23smN4I_0000008 106.9 117.9 
+Oscar_Isaac/SP7_23smN4I_0000009 119.0 147.5 
+Oscar_Isaac/SP7_23smN4I_0000010 168.7 197.6 
+Oscar_Isaac/SP7_23smN4I_0000011 198.2 206.0 
+Oscar_Isaac/SP7_23smN4I_0000012 206.5 210.4 
+Oscar_Isaac/SP7_23smN4I_0000013 210.6 216.4 
+Oscar_Isaac/SP7_23smN4I_0000014 235.9 253.5 
+Oscar_Isaac/SP7_23smN4I_0000015 254.6 263.2 
+Oscar_Isaac/SP7_23smN4I_0000016 263.8 271.2 

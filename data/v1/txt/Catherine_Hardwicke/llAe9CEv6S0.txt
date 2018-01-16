@@ -1,0 +1,16 @@
+POI: 			Catherine_Hardwicke 
+Youtube ID: 	llAe9CEv6S0 
+Video length: 	234.3 sec 
+Set (V): 		dev 
+ 
+Catherine_Hardwicke/llAe9CEv6S0_0000001 19.6 26.6 
+Catherine_Hardwicke/llAe9CEv6S0_0000002 32.8 41.6 
+Catherine_Hardwicke/llAe9CEv6S0_0000003 48.2 54.8 
+Catherine_Hardwicke/llAe9CEv6S0_0000004 59.0 70.8 
+Catherine_Hardwicke/llAe9CEv6S0_0000005 80.9 85.4 
+Catherine_Hardwicke/llAe9CEv6S0_0000006 89.2 96.7 
+Catherine_Hardwicke/llAe9CEv6S0_0000007 100.9 105.1 
+Catherine_Hardwicke/llAe9CEv6S0_0000008 125.0 133.9 
+Catherine_Hardwicke/llAe9CEv6S0_0000009 134.4 147.0 
+Catherine_Hardwicke/llAe9CEv6S0_0000010 171.8 177.8 
+Catherine_Hardwicke/llAe9CEv6S0_0000011 203.0 212.5 

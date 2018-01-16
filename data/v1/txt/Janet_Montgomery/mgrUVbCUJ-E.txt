@@ -1,0 +1,11 @@
+POI: 			Janet_Montgomery 
+Youtube ID: 	mgrUVbCUJ-E 
+Video length: 	124.9 sec 
+Set (V): 		dev 
+ 
+Janet_Montgomery/mgrUVbCUJ-E_0000001 19.1 23.6 
+Janet_Montgomery/mgrUVbCUJ-E_0000002 23.9 28.3 
+Janet_Montgomery/mgrUVbCUJ-E_0000003 30.6 40.3 
+Janet_Montgomery/mgrUVbCUJ-E_0000004 41.0 49.7 
+Janet_Montgomery/mgrUVbCUJ-E_0000005 60.2 70.3 
+Janet_Montgomery/mgrUVbCUJ-E_0000006 45.6 49.7 

@@ -1,0 +1,18 @@
+POI: 			John_Lasseter 
+Youtube ID: 	A3CxNhUGqhI 
+Video length: 	500.9 sec 
+Set (V): 		dev 
+ 
+John_Lasseter/A3CxNhUGqhI_0000001 292.0 305.3 
+John_Lasseter/A3CxNhUGqhI_0000002 313.5 334.5 
+John_Lasseter/A3CxNhUGqhI_0000003 337.6 343.0 
+John_Lasseter/A3CxNhUGqhI_0000004 343.6 357.6 
+John_Lasseter/A3CxNhUGqhI_0000005 359.9 373.8 
+John_Lasseter/A3CxNhUGqhI_0000006 373.9 391.5 
+John_Lasseter/A3CxNhUGqhI_0000007 402.3 408.9 
+John_Lasseter/A3CxNhUGqhI_0000008 412.4 428.1 
+John_Lasseter/A3CxNhUGqhI_0000009 429.7 436.9 
+John_Lasseter/A3CxNhUGqhI_0000010 431.6 441.4 
+John_Lasseter/A3CxNhUGqhI_0000011 444.6 459.1 
+John_Lasseter/A3CxNhUGqhI_0000012 465.5 470.1 
+John_Lasseter/A3CxNhUGqhI_0000013 472.4 477.2 

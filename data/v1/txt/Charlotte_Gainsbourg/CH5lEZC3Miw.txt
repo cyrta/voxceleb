@@ -1,0 +1,14 @@
+POI: 			Charlotte_Gainsbourg 
+Youtube ID: 	CH5lEZC3Miw 
+Video length: 	405.3 sec 
+Set (V): 		dev 
+ 
+Charlotte_Gainsbourg/CH5lEZC3Miw_0000001 20.1 24.8 
+Charlotte_Gainsbourg/CH5lEZC3Miw_0000002 33.4 38.4 
+Charlotte_Gainsbourg/CH5lEZC3Miw_0000003 87.8 92.3 
+Charlotte_Gainsbourg/CH5lEZC3Miw_0000004 118.4 127.0 
+Charlotte_Gainsbourg/CH5lEZC3Miw_0000005 169.0 173.0 
+Charlotte_Gainsbourg/CH5lEZC3Miw_0000006 184.3 189.1 
+Charlotte_Gainsbourg/CH5lEZC3Miw_0000007 246.8 251.4 
+Charlotte_Gainsbourg/CH5lEZC3Miw_0000008 251.6 256.5 
+Charlotte_Gainsbourg/CH5lEZC3Miw_0000009 337.2 344.5 

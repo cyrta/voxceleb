@@ -1,0 +1,17 @@
+POI: 			Claudia_Lee 
+Youtube ID: 	OrEzTxbq2Ec 
+Video length: 	744.3 sec 
+Set (V): 		dev 
+ 
+Claudia_Lee/OrEzTxbq2Ec_0000001 48.6 53.1 
+Claudia_Lee/OrEzTxbq2Ec_0000002 55.2 64.0 
+Claudia_Lee/OrEzTxbq2Ec_0000003 77.2 81.3 
+Claudia_Lee/OrEzTxbq2Ec_0000004 82.0 89.4 
+Claudia_Lee/OrEzTxbq2Ec_0000005 112.0 116.0 
+Claudia_Lee/OrEzTxbq2Ec_0000006 159.8 166.5 
+Claudia_Lee/OrEzTxbq2Ec_0000007 168.9 173.5 
+Claudia_Lee/OrEzTxbq2Ec_0000008 178.3 182.6 
+Claudia_Lee/OrEzTxbq2Ec_0000009 183.6 190.5 
+Claudia_Lee/OrEzTxbq2Ec_0000010 192.4 197.9 
+Claudia_Lee/OrEzTxbq2Ec_0000011 334.8 339.1 
+Claudia_Lee/OrEzTxbq2Ec_0000012 613.6 617.6 

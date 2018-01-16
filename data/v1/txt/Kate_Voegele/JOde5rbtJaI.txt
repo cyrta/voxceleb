@@ -1,0 +1,18 @@
+POI: 			Kate_Voegele 
+Youtube ID: 	JOde5rbtJaI 
+Video length: 	268.7 sec 
+Set (V): 		dev 
+ 
+Kate_Voegele/JOde5rbtJaI_0000001 35.9 47.2 
+Kate_Voegele/JOde5rbtJaI_0000002 47.8 55.1 
+Kate_Voegele/JOde5rbtJaI_0000003 63.0 70.8 
+Kate_Voegele/JOde5rbtJaI_0000004 72.7 78.3 
+Kate_Voegele/JOde5rbtJaI_0000005 105.7 111.3 
+Kate_Voegele/JOde5rbtJaI_0000006 111.8 119.8 
+Kate_Voegele/JOde5rbtJaI_0000007 163.2 171.7 
+Kate_Voegele/JOde5rbtJaI_0000008 172.2 176.2 
+Kate_Voegele/JOde5rbtJaI_0000009 194.3 201.8 
+Kate_Voegele/JOde5rbtJaI_0000010 211.4 216.3 
+Kate_Voegele/JOde5rbtJaI_0000011 227.2 232.1 
+Kate_Voegele/JOde5rbtJaI_0000012 232.7 240.2 
+Kate_Voegele/JOde5rbtJaI_0000013 255.8 260.0 

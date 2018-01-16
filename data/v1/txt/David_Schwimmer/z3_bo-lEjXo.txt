@@ -1,0 +1,15 @@
+POI: 			David_Schwimmer 
+Youtube ID: 	z3_bo-lEjXo 
+Video length: 	301.5 sec 
+Set (V): 		dev 
+ 
+David_Schwimmer/z3_bo-lEjXo_0000001 10.8 27.8 
+David_Schwimmer/z3_bo-lEjXo_0000002 28.4 39.4 
+David_Schwimmer/z3_bo-lEjXo_0000003 60.4 68.0 
+David_Schwimmer/z3_bo-lEjXo_0000004 80.2 85.5 
+David_Schwimmer/z3_bo-lEjXo_0000005 85.7 90.8 
+David_Schwimmer/z3_bo-lEjXo_0000006 94.2 114.3 
+David_Schwimmer/z3_bo-lEjXo_0000007 122.3 126.8 
+David_Schwimmer/z3_bo-lEjXo_0000008 127.9 137.0 
+David_Schwimmer/z3_bo-lEjXo_0000009 138.0 152.8 
+David_Schwimmer/z3_bo-lEjXo_0000010 157.9 177.1 

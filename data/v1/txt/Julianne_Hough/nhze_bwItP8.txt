@@ -1,0 +1,10 @@
+POI: 			Julianne_Hough 
+Youtube ID: 	nhze_bwItP8 
+Video length: 	356.4 sec 
+Set (V): 		dev 
+ 
+Julianne_Hough/nhze_bwItP8_0000001 80.8 85.5 
+Julianne_Hough/nhze_bwItP8_0000002 86.3 92.4 
+Julianne_Hough/nhze_bwItP8_0000003 92.9 105.4 
+Julianne_Hough/nhze_bwItP8_0000004 185.0 190.4 
+Julianne_Hough/nhze_bwItP8_0000005 284.6 289.6 

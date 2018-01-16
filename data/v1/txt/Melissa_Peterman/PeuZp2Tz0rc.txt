@@ -1,0 +1,8 @@
+POI: 			Melissa_Peterman 
+Youtube ID: 	PeuZp2Tz0rc 
+Video length: 	279.2 sec 
+Set (V): 		dev 
+ 
+Melissa_Peterman/PeuZp2Tz0rc_0000001 32.3 40.0 
+Melissa_Peterman/PeuZp2Tz0rc_0000002 58.1 62.6 
+Melissa_Peterman/PeuZp2Tz0rc_0000003 180.4 185.9 

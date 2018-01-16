@@ -1,0 +1,9 @@
+POI: 			Seth_Green 
+Youtube ID: 	sVLgHFgd03g 
+Video length: 	131.5 sec 
+Set (V): 		dev 
+ 
+Seth_Green/sVLgHFgd03g_0000001 40.2 45.2 
+Seth_Green/sVLgHFgd03g_0000002 58.8 70.7 
+Seth_Green/sVLgHFgd03g_0000003 82.7 87.7 
+Seth_Green/sVLgHFgd03g_0000004 111.8 115.9 

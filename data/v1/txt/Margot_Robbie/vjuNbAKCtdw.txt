@@ -1,0 +1,9 @@
+POI: 			Margot_Robbie 
+Youtube ID: 	vjuNbAKCtdw 
+Video length: 	214.4 sec 
+Set (V): 		dev 
+ 
+Margot_Robbie/vjuNbAKCtdw_0000001 45.8 53.0 
+Margot_Robbie/vjuNbAKCtdw_0000002 54.8 67.3 
+Margot_Robbie/vjuNbAKCtdw_0000003 97.6 103.6 
+Margot_Robbie/vjuNbAKCtdw_0000004 158.2 165.5 

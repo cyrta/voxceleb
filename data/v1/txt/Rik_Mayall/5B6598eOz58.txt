@@ -1,0 +1,11 @@
+POI: 			Rik_Mayall 
+Youtube ID: 	5B6598eOz58 
+Video length: 	648.4 sec 
+Set (V): 		dev 
+ 
+Rik_Mayall/5B6598eOz58_0000001 117.0 122.0 
+Rik_Mayall/5B6598eOz58_0000002 260.1 269.8 
+Rik_Mayall/5B6598eOz58_0000003 426.8 433.0 
+Rik_Mayall/5B6598eOz58_0000004 453.3 461.0 
+Rik_Mayall/5B6598eOz58_0000005 478.8 483.1 
+Rik_Mayall/5B6598eOz58_0000006 497.2 505.1 

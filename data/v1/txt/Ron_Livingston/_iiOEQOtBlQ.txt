@@ -1,0 +1,7 @@
+POI: 			Ron_Livingston 
+Youtube ID: 	_iiOEQOtBlQ 
+Video length: 	148.6 sec 
+Set (V): 		dev 
+ 
+Ron_Livingston/_iiOEQOtBlQ_0000001 77.0 84.6 
+Ron_Livingston/_iiOEQOtBlQ_0000002 93.7 98.2 

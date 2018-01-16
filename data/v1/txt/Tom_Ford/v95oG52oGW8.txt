@@ -1,0 +1,10 @@
+POI: 			Tom_Ford 
+Youtube ID: 	v95oG52oGW8 
+Video length: 	241.5 sec 
+Set (V): 		dev 
+ 
+Tom_Ford/v95oG52oGW8_0000001 46.1 54.2 
+Tom_Ford/v95oG52oGW8_0000002 58.3 62.8 
+Tom_Ford/v95oG52oGW8_0000003 66.8 70.9 
+Tom_Ford/v95oG52oGW8_0000004 82.9 88.1 
+Tom_Ford/v95oG52oGW8_0000005 168.4 178.6 

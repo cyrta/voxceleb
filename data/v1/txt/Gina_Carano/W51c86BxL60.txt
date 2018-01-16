@@ -1,0 +1,8 @@
+POI: 			Gina_Carano 
+Youtube ID: 	W51c86BxL60 
+Video length: 	61.9 sec 
+Set (V): 		dev 
+ 
+Gina_Carano/W51c86BxL60_0000001 11.8 16.5 
+Gina_Carano/W51c86BxL60_0000002 19.2 27.9 
+Gina_Carano/W51c86BxL60_0000003 28.6 34.4 

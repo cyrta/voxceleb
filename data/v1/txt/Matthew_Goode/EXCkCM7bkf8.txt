@@ -1,0 +1,18 @@
+POI: 			Matthew_Goode 
+Youtube ID: 	EXCkCM7bkf8 
+Video length: 	453.1 sec 
+Set (V): 		dev 
+ 
+Matthew_Goode/EXCkCM7bkf8_0000001 103.4 126.5 
+Matthew_Goode/EXCkCM7bkf8_0000002 142.0 154.6 
+Matthew_Goode/EXCkCM7bkf8_0000003 161.5 166.0 
+Matthew_Goode/EXCkCM7bkf8_0000004 169.8 176.6 
+Matthew_Goode/EXCkCM7bkf8_0000005 194.0 200.4 
+Matthew_Goode/EXCkCM7bkf8_0000006 209.0 213.5 
+Matthew_Goode/EXCkCM7bkf8_0000007 219.5 224.6 
+Matthew_Goode/EXCkCM7bkf8_0000008 255.2 269.9 
+Matthew_Goode/EXCkCM7bkf8_0000009 275.2 290.8 
+Matthew_Goode/EXCkCM7bkf8_0000010 300.9 305.7 
+Matthew_Goode/EXCkCM7bkf8_0000011 307.2 314.0 
+Matthew_Goode/EXCkCM7bkf8_0000012 314.2 338.3 
+Matthew_Goode/EXCkCM7bkf8_0000013 351.5 359.0 

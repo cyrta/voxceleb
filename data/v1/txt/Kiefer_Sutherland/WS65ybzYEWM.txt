@@ -1,0 +1,14 @@
+POI: 			Kiefer_Sutherland 
+Youtube ID: 	WS65ybzYEWM 
+Video length: 	169.3 sec 
+Set (V): 		dev 
+ 
+Kiefer_Sutherland/WS65ybzYEWM_0000001 19.4 23.6 
+Kiefer_Sutherland/WS65ybzYEWM_0000002 48.8 55.9 
+Kiefer_Sutherland/WS65ybzYEWM_0000003 63.9 72.0 
+Kiefer_Sutherland/WS65ybzYEWM_0000004 81.8 90.7 
+Kiefer_Sutherland/WS65ybzYEWM_0000005 92.8 97.6 
+Kiefer_Sutherland/WS65ybzYEWM_0000006 111.8 119.5 
+Kiefer_Sutherland/WS65ybzYEWM_0000007 122.9 133.3 
+Kiefer_Sutherland/WS65ybzYEWM_0000008 137.7 151.8 
+Kiefer_Sutherland/WS65ybzYEWM_0000009 153.7 164.8 

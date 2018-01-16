@@ -1,0 +1,13 @@
+POI: 			Robbie_Amell 
+Youtube ID: 	oW9jGHhJpPA 
+Video length: 	562.0 sec 
+Set (V): 		dev 
+ 
+Robbie_Amell/oW9jGHhJpPA_0000001 41.2 50.6 
+Robbie_Amell/oW9jGHhJpPA_0000002 50.7 60.0 
+Robbie_Amell/oW9jGHhJpPA_0000003 122.7 138.3 
+Robbie_Amell/oW9jGHhJpPA_0000004 233.0 238.1 
+Robbie_Amell/oW9jGHhJpPA_0000005 267.3 288.5 
+Robbie_Amell/oW9jGHhJpPA_0000006 290.4 299.3 
+Robbie_Amell/oW9jGHhJpPA_0000007 407.0 411.0 
+Robbie_Amell/oW9jGHhJpPA_0000008 530.0 534.6 

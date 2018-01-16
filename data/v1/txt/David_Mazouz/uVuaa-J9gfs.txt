@@ -1,0 +1,24 @@
+POI: 			David_Mazouz 
+Youtube ID: 	uVuaa-J9gfs 
+Video length: 	885.4 sec 
+Set (V): 		dev 
+ 
+David_Mazouz/uVuaa-J9gfs_0000001 66.6 72.4 
+David_Mazouz/uVuaa-J9gfs_0000002 208.0 217.9 
+David_Mazouz/uVuaa-J9gfs_0000003 250.9 259.1 
+David_Mazouz/uVuaa-J9gfs_0000004 262.0 266.6 
+David_Mazouz/uVuaa-J9gfs_0000005 308.6 312.9 
+David_Mazouz/uVuaa-J9gfs_0000006 365.2 369.3 
+David_Mazouz/uVuaa-J9gfs_0000007 407.1 412.6 
+David_Mazouz/uVuaa-J9gfs_0000008 421.0 425.1 
+David_Mazouz/uVuaa-J9gfs_0000009 473.5 480.1 
+David_Mazouz/uVuaa-J9gfs_0000010 523.3 534.6 
+David_Mazouz/uVuaa-J9gfs_0000011 534.8 538.9 
+David_Mazouz/uVuaa-J9gfs_0000012 570.4 577.0 
+David_Mazouz/uVuaa-J9gfs_0000013 637.9 643.7 
+David_Mazouz/uVuaa-J9gfs_0000014 729.0 733.9 
+David_Mazouz/uVuaa-J9gfs_0000015 745.7 752.1 
+David_Mazouz/uVuaa-J9gfs_0000016 757.9 764.2 
+David_Mazouz/uVuaa-J9gfs_0000017 793.6 797.5 
+David_Mazouz/uVuaa-J9gfs_0000018 807.3 811.4 
+David_Mazouz/uVuaa-J9gfs_0000019 812.1 818.0 

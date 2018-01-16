@@ -1,0 +1,9 @@
+POI: 			Kelly_Monaco 
+Youtube ID: 	q1QrZZ1uoZo 
+Video length: 	320.4 sec 
+Set (V): 		dev 
+ 
+Kelly_Monaco/q1QrZZ1uoZo_0000001 61.6 66.4 
+Kelly_Monaco/q1QrZZ1uoZo_0000002 97.2 105.4 
+Kelly_Monaco/q1QrZZ1uoZo_0000003 130.1 136.9 
+Kelly_Monaco/q1QrZZ1uoZo_0000004 242.1 246.2 

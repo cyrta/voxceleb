@@ -1,0 +1,15 @@
+POI: 			Marc_Webb 
+Youtube ID: 	IVbrLRw_fzU 
+Video length: 	204.3 sec 
+Set (V): 		dev 
+ 
+Marc_Webb/IVbrLRw_fzU_0000001 43.6 50.2 
+Marc_Webb/IVbrLRw_fzU_0000002 60.5 68.3 
+Marc_Webb/IVbrLRw_fzU_0000003 80.8 85.6 
+Marc_Webb/IVbrLRw_fzU_0000004 101.2 105.6 
+Marc_Webb/IVbrLRw_fzU_0000005 108.0 112.6 
+Marc_Webb/IVbrLRw_fzU_0000006 114.5 119.0 
+Marc_Webb/IVbrLRw_fzU_0000007 139.6 145.1 
+Marc_Webb/IVbrLRw_fzU_0000008 108.0 112.6 
+Marc_Webb/IVbrLRw_fzU_0000009 113.4 118.9 
+Marc_Webb/IVbrLRw_fzU_0000010 183.5 188.6 

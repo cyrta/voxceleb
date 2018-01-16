@@ -1,0 +1,10 @@
+POI: 			NeNe_Leakes 
+Youtube ID: 	ssL2hZ9sRXM 
+Video length: 	237.1 sec 
+Set (V): 		dev 
+ 
+NeNe_Leakes/ssL2hZ9sRXM_0000001 26.4 36.2 
+NeNe_Leakes/ssL2hZ9sRXM_0000002 40.2 48.2 
+NeNe_Leakes/ssL2hZ9sRXM_0000003 55.6 63.0 
+NeNe_Leakes/ssL2hZ9sRXM_0000004 92.4 99.3 
+NeNe_Leakes/ssL2hZ9sRXM_0000005 110.9 120.1 

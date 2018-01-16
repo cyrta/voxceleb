@@ -1,0 +1,9 @@
+POI: 			Samuel_L._Jackson 
+Youtube ID: 	mn5-WggxErc 
+Video length: 	219.3 sec 
+Set (V): 		dev 
+ 
+Samuel_L._Jackson/mn5-WggxErc_0000001 52.2 60.0 
+Samuel_L._Jackson/mn5-WggxErc_0000002 62.3 72.0 
+Samuel_L._Jackson/mn5-WggxErc_0000003 176.2 181.5 
+Samuel_L._Jackson/mn5-WggxErc_0000004 202.4 209.5 

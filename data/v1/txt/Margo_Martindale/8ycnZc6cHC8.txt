@@ -1,0 +1,17 @@
+POI: 			Margo_Martindale 
+Youtube ID: 	8ycnZc6cHC8 
+Video length: 	451.4 sec 
+Set (V): 		dev 
+ 
+Margo_Martindale/8ycnZc6cHC8_0000001 69.2 76.1 
+Margo_Martindale/8ycnZc6cHC8_0000002 121.2 125.2 
+Margo_Martindale/8ycnZc6cHC8_0000003 143.2 151.2 
+Margo_Martindale/8ycnZc6cHC8_0000004 214.6 227.5 
+Margo_Martindale/8ycnZc6cHC8_0000005 251.5 257.6 
+Margo_Martindale/8ycnZc6cHC8_0000006 306.0 315.0 
+Margo_Martindale/8ycnZc6cHC8_0000007 334.6 343.4 
+Margo_Martindale/8ycnZc6cHC8_0000008 344.1 351.8 
+Margo_Martindale/8ycnZc6cHC8_0000009 371.9 380.4 
+Margo_Martindale/8ycnZc6cHC8_0000010 381.2 385.7 
+Margo_Martindale/8ycnZc6cHC8_0000011 409.2 416.8 
+Margo_Martindale/8ycnZc6cHC8_0000012 417.7 426.0 

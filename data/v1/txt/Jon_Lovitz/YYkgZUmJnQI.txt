@@ -1,0 +1,7 @@
+POI: 			Jon_Lovitz 
+Youtube ID: 	YYkgZUmJnQI 
+Video length: 	87.4 sec 
+Set (V): 		dev 
+ 
+Jon_Lovitz/YYkgZUmJnQI_0000001 26.3 46.2 
+Jon_Lovitz/YYkgZUmJnQI_0000002 58.5 71.0 

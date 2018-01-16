@@ -1,0 +1,9 @@
+POI: 			Ken_Jeong 
+Youtube ID: 	IRcUsBhkvdM 
+Video length: 	130.0 sec 
+Set (V): 		dev 
+ 
+Ken_Jeong/IRcUsBhkvdM_0000001 14.4 18.3 
+Ken_Jeong/IRcUsBhkvdM_0000002 20.4 24.3 
+Ken_Jeong/IRcUsBhkvdM_0000003 50.0 60.8 
+Ken_Jeong/IRcUsBhkvdM_0000004 74.8 89.1 

@@ -1,0 +1,13 @@
+POI: 			Rami_Malek 
+Youtube ID: 	fJwQe27aOHU 
+Video length: 	282.0 sec 
+Set (V): 		dev 
+ 
+Rami_Malek/fJwQe27aOHU_0000001 08.6 15.8 
+Rami_Malek/fJwQe27aOHU_0000002 27.0 36.5 
+Rami_Malek/fJwQe27aOHU_0000003 46.2 59.4 
+Rami_Malek/fJwQe27aOHU_0000004 70.5 75.7 
+Rami_Malek/fJwQe27aOHU_0000005 148.0 152.8 
+Rami_Malek/fJwQe27aOHU_0000006 153.7 159.8 
+Rami_Malek/fJwQe27aOHU_0000007 176.6 180.8 
+Rami_Malek/fJwQe27aOHU_0000008 213.2 228.0 

@@ -1,0 +1,26 @@
+POI: 			Lou_Ferrigno 
+Youtube ID: 	l9uH1TxJI-4 
+Video length: 	545.5 sec 
+Set (V): 		dev 
+ 
+Lou_Ferrigno/l9uH1TxJI-4_0000001 49.3 54.6 
+Lou_Ferrigno/l9uH1TxJI-4_0000002 63.0 80.3 
+Lou_Ferrigno/l9uH1TxJI-4_0000003 81.4 85.5 
+Lou_Ferrigno/l9uH1TxJI-4_0000004 86.2 106.8 
+Lou_Ferrigno/l9uH1TxJI-4_0000005 107.2 111.2 
+Lou_Ferrigno/l9uH1TxJI-4_0000006 157.5 165.1 
+Lou_Ferrigno/l9uH1TxJI-4_0000007 179.2 185.1 
+Lou_Ferrigno/l9uH1TxJI-4_0000008 186.0 192.3 
+Lou_Ferrigno/l9uH1TxJI-4_0000009 235.7 240.3 
+Lou_Ferrigno/l9uH1TxJI-4_0000010 244.6 258.0 
+Lou_Ferrigno/l9uH1TxJI-4_0000011 258.2 266.2 
+Lou_Ferrigno/l9uH1TxJI-4_0000012 290.0 302.1 
+Lou_Ferrigno/l9uH1TxJI-4_0000013 303.1 307.2 
+Lou_Ferrigno/l9uH1TxJI-4_0000014 313.0 320.3 
+Lou_Ferrigno/l9uH1TxJI-4_0000015 356.0 365.3 
+Lou_Ferrigno/l9uH1TxJI-4_0000016 366.8 388.4 
+Lou_Ferrigno/l9uH1TxJI-4_0000017 430.1 436.9 
+Lou_Ferrigno/l9uH1TxJI-4_0000018 437.2 442.1 
+Lou_Ferrigno/l9uH1TxJI-4_0000019 491.3 512.4 
+Lou_Ferrigno/l9uH1TxJI-4_0000020 512.8 518.8 
+Lou_Ferrigno/l9uH1TxJI-4_0000021 523.9 527.9 

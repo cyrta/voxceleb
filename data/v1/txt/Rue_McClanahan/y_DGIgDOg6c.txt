@@ -1,0 +1,14 @@
+POI: 			Rue_McClanahan 
+Youtube ID: 	y_DGIgDOg6c 
+Video length: 	168.3 sec 
+Set (V): 		dev 
+ 
+Rue_McClanahan/y_DGIgDOg6c_0000001 06.0 17.7 
+Rue_McClanahan/y_DGIgDOg6c_0000002 21.3 27.6 
+Rue_McClanahan/y_DGIgDOg6c_0000003 42.8 50.2 
+Rue_McClanahan/y_DGIgDOg6c_0000004 50.5 54.8 
+Rue_McClanahan/y_DGIgDOg6c_0000005 56.4 61.8 
+Rue_McClanahan/y_DGIgDOg6c_0000006 63.1 78.5 
+Rue_McClanahan/y_DGIgDOg6c_0000007 102.3 110.8 
+Rue_McClanahan/y_DGIgDOg6c_0000008 114.9 130.8 
+Rue_McClanahan/y_DGIgDOg6c_0000009 132.5 144.0 

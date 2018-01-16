@@ -1,0 +1,7 @@
+POI: 			David_Cassidy 
+Youtube ID: 	GO4hi9004hg 
+Video length: 	262.4 sec 
+Set (V): 		dev 
+ 
+David_Cassidy/GO4hi9004hg_0000001 238.8 243.3 
+David_Cassidy/GO4hi9004hg_0000002 246.4 250.6 

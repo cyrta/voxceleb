@@ -1,0 +1,9 @@
+POI: 			Giovanni_Ribisi 
+Youtube ID: 	EhpIg-5GWPE 
+Video length: 	545.4 sec 
+Set (V): 		dev 
+ 
+Giovanni_Ribisi/EhpIg-5GWPE_0000001 183.4 189.0 
+Giovanni_Ribisi/EhpIg-5GWPE_0000002 229.4 243.4 
+Giovanni_Ribisi/EhpIg-5GWPE_0000003 245.4 249.5 
+Giovanni_Ribisi/EhpIg-5GWPE_0000004 381.0 386.3 

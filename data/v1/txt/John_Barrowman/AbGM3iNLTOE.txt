@@ -1,0 +1,10 @@
+POI: 			John_Barrowman 
+Youtube ID: 	AbGM3iNLTOE 
+Video length: 	485.2 sec 
+Set (V): 		dev 
+ 
+John_Barrowman/AbGM3iNLTOE_0000001 109.8 114.0 
+John_Barrowman/AbGM3iNLTOE_0000002 318.2 323.3 
+John_Barrowman/AbGM3iNLTOE_0000003 327.4 333.4 
+John_Barrowman/AbGM3iNLTOE_0000004 339.6 346.6 
+John_Barrowman/AbGM3iNLTOE_0000005 361.7 366.2 

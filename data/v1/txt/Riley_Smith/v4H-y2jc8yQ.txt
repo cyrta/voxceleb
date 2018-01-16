@@ -1,0 +1,13 @@
+POI: 			Riley_Smith 
+Youtube ID: 	v4H-y2jc8yQ 
+Video length: 	324.4 sec 
+Set (V): 		dev 
+ 
+Riley_Smith/v4H-y2jc8yQ_0000001 05.1 17.5 
+Riley_Smith/v4H-y2jc8yQ_0000002 21.3 25.7 
+Riley_Smith/v4H-y2jc8yQ_0000003 39.4 50.3 
+Riley_Smith/v4H-y2jc8yQ_0000004 54.4 64.7 
+Riley_Smith/v4H-y2jc8yQ_0000005 74.2 79.2 
+Riley_Smith/v4H-y2jc8yQ_0000006 98.9 108.0 
+Riley_Smith/v4H-y2jc8yQ_0000007 117.4 125.2 
+Riley_Smith/v4H-y2jc8yQ_0000008 131.9 142.4 

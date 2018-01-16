@@ -1,0 +1,11 @@
+POI: 			Sidse_Babett_Knudsen 
+Youtube ID: 	nk9CP7if8D0 
+Video length: 	131.2 sec 
+Set (V): 		dev 
+ 
+Sidse_Babett_Knudsen/nk9CP7if8D0_0000001 20.5 27.8 
+Sidse_Babett_Knudsen/nk9CP7if8D0_0000002 29.9 37.8 
+Sidse_Babett_Knudsen/nk9CP7if8D0_0000003 60.0 68.9 
+Sidse_Babett_Knudsen/nk9CP7if8D0_0000004 69.8 76.1 
+Sidse_Babett_Knudsen/nk9CP7if8D0_0000005 76.2 83.6 
+Sidse_Babett_Knudsen/nk9CP7if8D0_0000006 100.1 107.3 

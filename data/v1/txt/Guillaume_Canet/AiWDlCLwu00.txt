@@ -1,0 +1,7 @@
+POI: 			Guillaume_Canet 
+Youtube ID: 	AiWDlCLwu00 
+Video length: 	597.1 sec 
+Set (V): 		dev 
+ 
+Guillaume_Canet/AiWDlCLwu00_0000001 102.6 107.1 
+Guillaume_Canet/AiWDlCLwu00_0000002 530.5 536.4 

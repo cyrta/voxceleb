@@ -1,0 +1,8 @@
+POI: 			Nelly_Furtado 
+Youtube ID: 	RKYYTBXk3iE 
+Video length: 	239.1 sec 
+Set (V): 		dev 
+ 
+Nelly_Furtado/RKYYTBXk3iE_0000001 84.8 88.8 
+Nelly_Furtado/RKYYTBXk3iE_0000002 192.0 196.4 
+Nelly_Furtado/RKYYTBXk3iE_0000003 196.6 216.0 

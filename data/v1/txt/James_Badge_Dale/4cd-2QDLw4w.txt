@@ -1,0 +1,8 @@
+POI: 			James_Badge_Dale 
+Youtube ID: 	4cd-2QDLw4w 
+Video length: 	630.1 sec 
+Set (V): 		dev 
+ 
+James_Badge_Dale/4cd-2QDLw4w_0000001 397.1 404.4 
+James_Badge_Dale/4cd-2QDLw4w_0000002 411.0 415.2 
+James_Badge_Dale/4cd-2QDLw4w_0000003 421.3 426.9 

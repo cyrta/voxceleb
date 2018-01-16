@@ -1,0 +1,10 @@
+POI: 			Alan_Tudyk 
+Youtube ID: 	OrSdSWzfgSo 
+Video length: 	207.8 sec 
+Set (V): 		dev 
+ 
+Alan_Tudyk/OrSdSWzfgSo_0000001 47.7 51.7 
+Alan_Tudyk/OrSdSWzfgSo_0000002 52.0 60.1 
+Alan_Tudyk/OrSdSWzfgSo_0000003 64.4 70.8 
+Alan_Tudyk/OrSdSWzfgSo_0000004 175.8 182.1 
+Alan_Tudyk/OrSdSWzfgSo_0000005 187.0 203.5 

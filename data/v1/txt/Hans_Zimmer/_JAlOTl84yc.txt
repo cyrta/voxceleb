@@ -1,0 +1,23 @@
+POI: 			Hans_Zimmer 
+Youtube ID: 	_JAlOTl84yc 
+Video length: 	480.6 sec 
+Set (V): 		dev 
+ 
+Hans_Zimmer/_JAlOTl84yc_0000001 21.4 26.3 
+Hans_Zimmer/_JAlOTl84yc_0000002 34.4 40.2 
+Hans_Zimmer/_JAlOTl84yc_0000003 90.0 109.9 
+Hans_Zimmer/_JAlOTl84yc_0000004 123.1 128.9 
+Hans_Zimmer/_JAlOTl84yc_0000005 131.1 139.0 
+Hans_Zimmer/_JAlOTl84yc_0000006 149.0 153.2 
+Hans_Zimmer/_JAlOTl84yc_0000007 154.4 169.1 
+Hans_Zimmer/_JAlOTl84yc_0000008 187.3 197.5 
+Hans_Zimmer/_JAlOTl84yc_0000009 202.2 208.3 
+Hans_Zimmer/_JAlOTl84yc_0000010 246.1 250.2 
+Hans_Zimmer/_JAlOTl84yc_0000011 251.9 257.6 
+Hans_Zimmer/_JAlOTl84yc_0000012 260.8 268.3 
+Hans_Zimmer/_JAlOTl84yc_0000013 275.8 282.4 
+Hans_Zimmer/_JAlOTl84yc_0000014 346.8 352.0 
+Hans_Zimmer/_JAlOTl84yc_0000015 372.0 378.5 
+Hans_Zimmer/_JAlOTl84yc_0000016 431.6 441.5 
+Hans_Zimmer/_JAlOTl84yc_0000017 459.6 468.0 
+Hans_Zimmer/_JAlOTl84yc_0000018 473.5 479.1 

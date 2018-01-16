@@ -1,0 +1,14 @@
+POI: 			Viggo_Mortensen 
+Youtube ID: 	twefPShS5dA 
+Video length: 	780.9 sec 
+Set (V): 		dev 
+ 
+Viggo_Mortensen/twefPShS5dA_0000001 196.5 203.2 
+Viggo_Mortensen/twefPShS5dA_0000002 204.5 208.4 
+Viggo_Mortensen/twefPShS5dA_0000003 338.0 342.1 
+Viggo_Mortensen/twefPShS5dA_0000004 372.6 383.5 
+Viggo_Mortensen/twefPShS5dA_0000005 384.1 388.4 
+Viggo_Mortensen/twefPShS5dA_0000006 407.3 415.3 
+Viggo_Mortensen/twefPShS5dA_0000007 493.4 500.7 
+Viggo_Mortensen/twefPShS5dA_0000008 573.4 580.9 
+Viggo_Mortensen/twefPShS5dA_0000009 638.5 647.9 

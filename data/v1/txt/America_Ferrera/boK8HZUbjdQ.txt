@@ -1,0 +1,17 @@
+POI: 			America_Ferrera 
+Youtube ID: 	boK8HZUbjdQ 
+Video length: 	240.9 sec 
+Set (V): 		dev 
+ 
+America_Ferrera/boK8HZUbjdQ_0000001 16.1 20.4 
+America_Ferrera/boK8HZUbjdQ_0000002 22.4 30.5 
+America_Ferrera/boK8HZUbjdQ_0000003 38.4 59.0 
+America_Ferrera/boK8HZUbjdQ_0000004 53.6 59.6 
+America_Ferrera/boK8HZUbjdQ_0000005 65.9 75.0 
+America_Ferrera/boK8HZUbjdQ_0000006 109.6 114.1 
+America_Ferrera/boK8HZUbjdQ_0000007 114.5 121.0 
+America_Ferrera/boK8HZUbjdQ_0000008 121.7 129.1 
+America_Ferrera/boK8HZUbjdQ_0000009 129.2 141.3 
+America_Ferrera/boK8HZUbjdQ_0000010 146.6 151.6 
+America_Ferrera/boK8HZUbjdQ_0000011 172.8 196.4 
+America_Ferrera/boK8HZUbjdQ_0000012 211.6 220.3 

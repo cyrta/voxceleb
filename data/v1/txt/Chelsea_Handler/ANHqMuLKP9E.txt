@@ -1,0 +1,9 @@
+POI: 			Chelsea_Handler 
+Youtube ID: 	ANHqMuLKP9E 
+Video length: 	269.5 sec 
+Set (V): 		dev 
+ 
+Chelsea_Handler/ANHqMuLKP9E_0000001 69.7 74.5 
+Chelsea_Handler/ANHqMuLKP9E_0000002 126.4 130.5 
+Chelsea_Handler/ANHqMuLKP9E_0000003 177.7 187.2 
+Chelsea_Handler/ANHqMuLKP9E_0000004 188.4 192.9 

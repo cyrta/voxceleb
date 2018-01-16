@@ -1,0 +1,11 @@
+POI: 			Tracey_Gold 
+Youtube ID: 	Z2SlD29DJ1w 
+Video length: 	215.7 sec 
+Set (V): 		dev 
+ 
+Tracey_Gold/Z2SlD29DJ1w_0000001 29.0 46.4 
+Tracey_Gold/Z2SlD29DJ1w_0000002 93.8 107.3 
+Tracey_Gold/Z2SlD29DJ1w_0000003 128.6 136.6 
+Tracey_Gold/Z2SlD29DJ1w_0000004 138.8 142.9 
+Tracey_Gold/Z2SlD29DJ1w_0000005 153.9 160.6 
+Tracey_Gold/Z2SlD29DJ1w_0000006 189.0 195.4 

@@ -1,0 +1,7 @@
+POI: 			Laura_Benanti 
+Youtube ID: 	BnTbfzSHo3U 
+Video length: 	466.5 sec 
+Set (V): 		dev 
+ 
+Laura_Benanti/BnTbfzSHo3U_0000001 131.6 136.5 
+Laura_Benanti/BnTbfzSHo3U_0000002 415.3 420.3 

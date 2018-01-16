@@ -1,0 +1,20 @@
+POI: 			Kate_Flannery 
+Youtube ID: 	OoVZEd7MUUo 
+Video length: 	185.8 sec 
+Set (V): 		dev 
+ 
+Kate_Flannery/OoVZEd7MUUo_0000001 02.5 11.4 
+Kate_Flannery/OoVZEd7MUUo_0000002 15.0 23.5 
+Kate_Flannery/OoVZEd7MUUo_0000003 24.2 34.6 
+Kate_Flannery/OoVZEd7MUUo_0000004 37.1 41.8 
+Kate_Flannery/OoVZEd7MUUo_0000005 43.7 48.0 
+Kate_Flannery/OoVZEd7MUUo_0000006 59.0 67.0 
+Kate_Flannery/OoVZEd7MUUo_0000007 67.5 84.1 
+Kate_Flannery/OoVZEd7MUUo_0000008 103.4 107.8 
+Kate_Flannery/OoVZEd7MUUo_0000009 71.8 86.1 
+Kate_Flannery/OoVZEd7MUUo_0000010 86.3 100.8 
+Kate_Flannery/OoVZEd7MUUo_0000011 101.2 108.0 
+Kate_Flannery/OoVZEd7MUUo_0000012 113.4 121.5 
+Kate_Flannery/OoVZEd7MUUo_0000013 123.4 132.7 
+Kate_Flannery/OoVZEd7MUUo_0000014 134.8 140.2 
+Kate_Flannery/OoVZEd7MUUo_0000015 153.0 159.2 

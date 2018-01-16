@@ -1,0 +1,11 @@
+POI: 			Paolo_Sorrentino 
+Youtube ID: 	plHvyBwb_xk 
+Video length: 	386.9 sec 
+Set (V): 		dev 
+ 
+Paolo_Sorrentino/plHvyBwb_xk_0000001 14.2 25.9 
+Paolo_Sorrentino/plHvyBwb_xk_0000002 29.6 34.7 
+Paolo_Sorrentino/plHvyBwb_xk_0000003 143.5 156.0 
+Paolo_Sorrentino/plHvyBwb_xk_0000004 166.7 171.7 
+Paolo_Sorrentino/plHvyBwb_xk_0000005 172.0 180.6 
+Paolo_Sorrentino/plHvyBwb_xk_0000006 232.6 236.7 

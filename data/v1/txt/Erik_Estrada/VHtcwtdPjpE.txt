@@ -1,0 +1,8 @@
+POI: 			Erik_Estrada 
+Youtube ID: 	VHtcwtdPjpE 
+Video length: 	254.9 sec 
+Set (V): 		test 
+ 
+Erik_Estrada/VHtcwtdPjpE_0000001 107.2 118.2 
+Erik_Estrada/VHtcwtdPjpE_0000002 121.8 132.4 
+Erik_Estrada/VHtcwtdPjpE_0000003 138.5 144.7 

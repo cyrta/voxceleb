@@ -1,0 +1,9 @@
+POI: 			Simon_Baker 
+Youtube ID: 	a77eY7nFo3w 
+Video length: 	298.5 sec 
+Set (V): 		dev 
+ 
+Simon_Baker/a77eY7nFo3w_0000001 98.4 103.0 
+Simon_Baker/a77eY7nFo3w_0000002 175.7 181.1 
+Simon_Baker/a77eY7nFo3w_0000003 201.0 205.8 
+Simon_Baker/a77eY7nFo3w_0000004 221.8 228.2 

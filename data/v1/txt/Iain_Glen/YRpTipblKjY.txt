@@ -1,0 +1,11 @@
+POI: 			Iain_Glen 
+Youtube ID: 	YRpTipblKjY 
+Video length: 	358.5 sec 
+Set (V): 		dev 
+ 
+Iain_Glen/YRpTipblKjY_0000001 31.0 47.7 
+Iain_Glen/YRpTipblKjY_0000002 48.3 52.7 
+Iain_Glen/YRpTipblKjY_0000003 56.8 61.0 
+Iain_Glen/YRpTipblKjY_0000004 61.6 66.1 
+Iain_Glen/YRpTipblKjY_0000005 67.8 73.3 
+Iain_Glen/YRpTipblKjY_0000006 338.4 345.9 

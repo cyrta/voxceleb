@@ -1,0 +1,13 @@
+POI: 			John_Corbett 
+Youtube ID: 	fL4ls38Fff4 
+Video length: 	204.8 sec 
+Set (V): 		dev 
+ 
+John_Corbett/fL4ls38Fff4_0000001 08.9 14.1 
+John_Corbett/fL4ls38Fff4_0000002 19.4 24.2 
+John_Corbett/fL4ls38Fff4_0000003 43.3 49.0 
+John_Corbett/fL4ls38Fff4_0000004 123.1 127.7 
+John_Corbett/fL4ls38Fff4_0000005 146.3 153.2 
+John_Corbett/fL4ls38Fff4_0000006 154.6 159.3 
+John_Corbett/fL4ls38Fff4_0000007 160.2 165.4 
+John_Corbett/fL4ls38Fff4_0000008 165.6 170.2 

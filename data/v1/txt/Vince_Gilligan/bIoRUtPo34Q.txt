@@ -1,0 +1,16 @@
+POI: 			Vince_Gilligan 
+Youtube ID: 	bIoRUtPo34Q 
+Video length: 	206.6 sec 
+Set (V): 		dev 
+ 
+Vince_Gilligan/bIoRUtPo34Q_0000001 06.1 35.4 
+Vince_Gilligan/bIoRUtPo34Q_0000002 36.0 42.6 
+Vince_Gilligan/bIoRUtPo34Q_0000003 45.6 70.4 
+Vince_Gilligan/bIoRUtPo34Q_0000004 71.6 80.0 
+Vince_Gilligan/bIoRUtPo34Q_0000005 88.0 104.8 
+Vince_Gilligan/bIoRUtPo34Q_0000006 105.3 110.1 
+Vince_Gilligan/bIoRUtPo34Q_0000007 117.9 131.5 
+Vince_Gilligan/bIoRUtPo34Q_0000008 132.3 153.6 
+Vince_Gilligan/bIoRUtPo34Q_0000009 153.8 165.1 
+Vince_Gilligan/bIoRUtPo34Q_0000010 165.6 175.3 
+Vince_Gilligan/bIoRUtPo34Q_0000011 177.6 197.4 

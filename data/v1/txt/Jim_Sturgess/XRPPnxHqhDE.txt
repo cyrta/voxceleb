@@ -1,0 +1,8 @@
+POI: 			Jim_Sturgess 
+Youtube ID: 	XRPPnxHqhDE 
+Video length: 	326.6 sec 
+Set (V): 		dev 
+ 
+Jim_Sturgess/XRPPnxHqhDE_0000001 67.6 73.8 
+Jim_Sturgess/XRPPnxHqhDE_0000002 254.4 258.6 
+Jim_Sturgess/XRPPnxHqhDE_0000003 262.3 266.7 

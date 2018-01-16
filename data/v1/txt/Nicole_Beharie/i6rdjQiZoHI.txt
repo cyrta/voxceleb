@@ -1,0 +1,8 @@
+POI: 			Nicole_Beharie 
+Youtube ID: 	i6rdjQiZoHI 
+Video length: 	41.7 sec 
+Set (V): 		dev 
+ 
+Nicole_Beharie/i6rdjQiZoHI_0000001 01.0 09.9 
+Nicole_Beharie/i6rdjQiZoHI_0000002 20.8 33.0 
+Nicole_Beharie/i6rdjQiZoHI_0000003 33.8 40.1 

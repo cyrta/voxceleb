@@ -1,0 +1,8 @@
+POI: 			Paloma_Faith 
+Youtube ID: 	EolpKGEHDsY 
+Video length: 	184.3 sec 
+Set (V): 		dev 
+ 
+Paloma_Faith/EolpKGEHDsY_0000001 32.8 40.6 
+Paloma_Faith/EolpKGEHDsY_0000002 71.8 79.6 
+Paloma_Faith/EolpKGEHDsY_0000003 108.4 112.6 

@@ -1,0 +1,14 @@
+POI: 			Padma_Lakshmi 
+Youtube ID: 	7aGGaG6BigQ 
+Video length: 	315.6 sec 
+Set (V): 		dev 
+ 
+Padma_Lakshmi/7aGGaG6BigQ_0000001 34.3 41.2 
+Padma_Lakshmi/7aGGaG6BigQ_0000002 59.2 66.8 
+Padma_Lakshmi/7aGGaG6BigQ_0000003 74.2 102.8 
+Padma_Lakshmi/7aGGaG6BigQ_0000004 119.3 141.9 
+Padma_Lakshmi/7aGGaG6BigQ_0000005 168.2 176.1 
+Padma_Lakshmi/7aGGaG6BigQ_0000006 180.2 194.0 
+Padma_Lakshmi/7aGGaG6BigQ_0000007 194.2 211.0 
+Padma_Lakshmi/7aGGaG6BigQ_0000008 243.7 257.3 
+Padma_Lakshmi/7aGGaG6BigQ_0000009 259.4 280.7 

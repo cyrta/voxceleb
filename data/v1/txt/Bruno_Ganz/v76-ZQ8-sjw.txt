@@ -1,0 +1,7 @@
+POI: 			Bruno_Ganz 
+Youtube ID: 	v76-ZQ8-sjw 
+Video length: 	461.1 sec 
+Set (V): 		dev 
+ 
+Bruno_Ganz/v76-ZQ8-sjw_0000001 345.3 349.3 
+Bruno_Ganz/v76-ZQ8-sjw_0000002 404.6 409.3 

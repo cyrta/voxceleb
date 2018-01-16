@@ -1,0 +1,11 @@
+POI: 			Ryan_Potter 
+Youtube ID: 	9r7DDdTKUws 
+Video length: 	310.4 sec 
+Set (V): 		dev 
+ 
+Ryan_Potter/9r7DDdTKUws_0000001 42.1 70.5 
+Ryan_Potter/9r7DDdTKUws_0000002 74.2 80.0 
+Ryan_Potter/9r7DDdTKUws_0000003 141.3 145.3 
+Ryan_Potter/9r7DDdTKUws_0000004 234.8 246.3 
+Ryan_Potter/9r7DDdTKUws_0000005 246.8 259.4 
+Ryan_Potter/9r7DDdTKUws_0000006 260.8 267.4 

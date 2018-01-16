@@ -1,0 +1,7 @@
+POI: 			Jean_Reno 
+Youtube ID: 	xY63yQDCLoQ 
+Video length: 	128.9 sec 
+Set (V): 		dev 
+ 
+Jean_Reno/xY63yQDCLoQ_0000001 66.3 72.5 
+Jean_Reno/xY63yQDCLoQ_0000002 84.7 91.5 

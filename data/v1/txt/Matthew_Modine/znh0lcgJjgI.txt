@@ -1,0 +1,11 @@
+POI: 			Matthew_Modine 
+Youtube ID: 	znh0lcgJjgI 
+Video length: 	115.3 sec 
+Set (V): 		dev 
+ 
+Matthew_Modine/znh0lcgJjgI_0000001 16.6 25.4 
+Matthew_Modine/znh0lcgJjgI_0000002 33.2 43.8 
+Matthew_Modine/znh0lcgJjgI_0000003 45.1 66.4 
+Matthew_Modine/znh0lcgJjgI_0000004 76.3 91.7 
+Matthew_Modine/znh0lcgJjgI_0000005 92.6 97.6 
+Matthew_Modine/znh0lcgJjgI_0000006 101.8 110.2 

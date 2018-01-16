@@ -1,0 +1,11 @@
+POI: 			Matt_Dallas 
+Youtube ID: 	Rn566gY5fFU 
+Video length: 	426.6 sec 
+Set (V): 		dev 
+ 
+Matt_Dallas/Rn566gY5fFU_0000001 31.1 35.6 
+Matt_Dallas/Rn566gY5fFU_0000002 122.1 131.2 
+Matt_Dallas/Rn566gY5fFU_0000003 170.2 180.0 
+Matt_Dallas/Rn566gY5fFU_0000004 213.2 218.3 
+Matt_Dallas/Rn566gY5fFU_0000005 293.2 299.2 
+Matt_Dallas/Rn566gY5fFU_0000006 351.4 355.4 

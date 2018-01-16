@@ -1,0 +1,17 @@
+POI: 			Hugh_Bonneville 
+Youtube ID: 	S6yJVWJxNhs 
+Video length: 	424.1 sec 
+Set (V): 		dev 
+ 
+Hugh_Bonneville/S6yJVWJxNhs_0000001 53.6 57.6 
+Hugh_Bonneville/S6yJVWJxNhs_0000002 100.0 114.2 
+Hugh_Bonneville/S6yJVWJxNhs_0000003 138.0 142.9 
+Hugh_Bonneville/S6yJVWJxNhs_0000004 151.1 164.6 
+Hugh_Bonneville/S6yJVWJxNhs_0000005 223.1 239.8 
+Hugh_Bonneville/S6yJVWJxNhs_0000006 262.2 267.5 
+Hugh_Bonneville/S6yJVWJxNhs_0000007 272.1 276.7 
+Hugh_Bonneville/S6yJVWJxNhs_0000008 285.1 290.5 
+Hugh_Bonneville/S6yJVWJxNhs_0000009 291.6 298.6 
+Hugh_Bonneville/S6yJVWJxNhs_0000010 381.5 389.2 
+Hugh_Bonneville/S6yJVWJxNhs_0000011 400.7 406.2 
+Hugh_Bonneville/S6yJVWJxNhs_0000012 412.0 422.7 

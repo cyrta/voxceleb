@@ -1,0 +1,11 @@
+POI: 			Ludacris 
+Youtube ID: 	dEpOs4y0-9Y 
+Video length: 	259.0 sec 
+Set (V): 		dev 
+ 
+Ludacris/dEpOs4y0-9Y_0000001 14.9 20.9 
+Ludacris/dEpOs4y0-9Y_0000002 107.2 114.1 
+Ludacris/dEpOs4y0-9Y_0000003 124.8 131.8 
+Ludacris/dEpOs4y0-9Y_0000004 158.8 166.3 
+Ludacris/dEpOs4y0-9Y_0000005 172.4 178.7 
+Ludacris/dEpOs4y0-9Y_0000006 238.8 243.3 

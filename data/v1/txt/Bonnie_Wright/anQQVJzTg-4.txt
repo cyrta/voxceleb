@@ -1,0 +1,10 @@
+POI: 			Bonnie_Wright 
+Youtube ID: 	anQQVJzTg-4 
+Video length: 	235.1 sec 
+Set (V): 		dev 
+ 
+Bonnie_Wright/anQQVJzTg-4_0000001 37.2 41.7 
+Bonnie_Wright/anQQVJzTg-4_0000002 60.0 64.1 
+Bonnie_Wright/anQQVJzTg-4_0000003 79.8 83.7 
+Bonnie_Wright/anQQVJzTg-4_0000004 145.7 150.2 
+Bonnie_Wright/anQQVJzTg-4_0000005 174.6 179.6 

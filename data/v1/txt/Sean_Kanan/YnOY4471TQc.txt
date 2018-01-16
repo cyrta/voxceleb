@@ -1,0 +1,8 @@
+POI: 			Sean_Kanan 
+Youtube ID: 	YnOY4471TQc 
+Video length: 	167.2 sec 
+Set (V): 		dev 
+ 
+Sean_Kanan/YnOY4471TQc_0000001 32.8 37.4 
+Sean_Kanan/YnOY4471TQc_0000002 50.8 55.8 
+Sean_Kanan/YnOY4471TQc_0000003 119.8 127.8 

@@ -1,0 +1,8 @@
+POI: 			Lucas_Cruikshank 
+Youtube ID: 	P1-y20n6UqQ 
+Video length: 	147.0 sec 
+Set (V): 		dev 
+ 
+Lucas_Cruikshank/P1-y20n6UqQ_0000001 16.2 22.3 
+Lucas_Cruikshank/P1-y20n6UqQ_0000002 23.3 34.8 
+Lucas_Cruikshank/P1-y20n6UqQ_0000003 66.9 74.0 

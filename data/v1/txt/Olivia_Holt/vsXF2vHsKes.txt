@@ -1,0 +1,8 @@
+POI: 			Olivia_Holt 
+Youtube ID: 	vsXF2vHsKes 
+Video length: 	126.5 sec 
+Set (V): 		dev 
+ 
+Olivia_Holt/vsXF2vHsKes_0000001 100.2 110.1 
+Olivia_Holt/vsXF2vHsKes_0000002 111.8 118.1 
+Olivia_Holt/vsXF2vHsKes_0000003 120.2 124.8 

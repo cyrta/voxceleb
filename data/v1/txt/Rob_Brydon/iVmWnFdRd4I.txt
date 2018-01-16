@@ -1,0 +1,11 @@
+POI: 			Rob_Brydon 
+Youtube ID: 	iVmWnFdRd4I 
+Video length: 	152.8 sec 
+Set (V): 		dev 
+ 
+Rob_Brydon/iVmWnFdRd4I_0000001 11.3 15.7 
+Rob_Brydon/iVmWnFdRd4I_0000002 28.1 32.3 
+Rob_Brydon/iVmWnFdRd4I_0000003 55.8 59.8 
+Rob_Brydon/iVmWnFdRd4I_0000004 84.8 89.8 
+Rob_Brydon/iVmWnFdRd4I_0000005 90.1 96.4 
+Rob_Brydon/iVmWnFdRd4I_0000006 107.0 124.7 

@@ -1,0 +1,15 @@
+POI: 			Kyle_MacLachlan 
+Youtube ID: 	O4UkHVJlIs8 
+Video length: 	212.1 sec 
+Set (V): 		dev 
+ 
+Kyle_MacLachlan/O4UkHVJlIs8_0000001 15.1 21.5 
+Kyle_MacLachlan/O4UkHVJlIs8_0000002 38.3 42.3 
+Kyle_MacLachlan/O4UkHVJlIs8_0000003 44.7 52.2 
+Kyle_MacLachlan/O4UkHVJlIs8_0000004 101.8 121.8 
+Kyle_MacLachlan/O4UkHVJlIs8_0000005 123.6 127.8 
+Kyle_MacLachlan/O4UkHVJlIs8_0000006 129.6 139.1 
+Kyle_MacLachlan/O4UkHVJlIs8_0000007 146.6 151.7 
+Kyle_MacLachlan/O4UkHVJlIs8_0000008 175.7 182.8 
+Kyle_MacLachlan/O4UkHVJlIs8_0000009 192.0 198.1 
+Kyle_MacLachlan/O4UkHVJlIs8_0000010 201.3 206.5 

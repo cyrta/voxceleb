@@ -1,0 +1,12 @@
+POI: 			Christian_Kane 
+Youtube ID: 	vpZ36lIRfmw 
+Video length: 	129.4 sec 
+Set (V): 		dev 
+ 
+Christian_Kane/vpZ36lIRfmw_0000001 07.8 29.6 
+Christian_Kane/vpZ36lIRfmw_0000002 37.1 47.4 
+Christian_Kane/vpZ36lIRfmw_0000003 61.3 67.2 
+Christian_Kane/vpZ36lIRfmw_0000004 88.3 93.9 
+Christian_Kane/vpZ36lIRfmw_0000005 99.8 108.1 
+Christian_Kane/vpZ36lIRfmw_0000006 108.2 113.0 
+Christian_Kane/vpZ36lIRfmw_0000007 113.2 124.7 

@@ -1,0 +1,23 @@
+POI: 			Aamir_Khan 
+Youtube ID: 	5ablueV_1tw 
+Video length: 	880.1 sec 
+Set (V): 		dev 
+ 
+Aamir_Khan/5ablueV_1tw_0000001 31.4 35.7 
+Aamir_Khan/5ablueV_1tw_0000002 84.6 88.9 
+Aamir_Khan/5ablueV_1tw_0000003 199.7 206.4 
+Aamir_Khan/5ablueV_1tw_0000004 214.2 221.0 
+Aamir_Khan/5ablueV_1tw_0000005 228.0 233.0 
+Aamir_Khan/5ablueV_1tw_0000006 249.8 254.2 
+Aamir_Khan/5ablueV_1tw_0000007 385.9 391.0 
+Aamir_Khan/5ablueV_1tw_0000008 396.0 400.2 
+Aamir_Khan/5ablueV_1tw_0000009 579.0 591.1 
+Aamir_Khan/5ablueV_1tw_0000010 602.8 607.6 
+Aamir_Khan/5ablueV_1tw_0000011 697.1 702.1 
+Aamir_Khan/5ablueV_1tw_0000012 718.6 723.4 
+Aamir_Khan/5ablueV_1tw_0000013 778.0 785.7 
+Aamir_Khan/5ablueV_1tw_0000014 786.8 794.9 
+Aamir_Khan/5ablueV_1tw_0000015 811.7 815.8 
+Aamir_Khan/5ablueV_1tw_0000016 816.3 822.0 
+Aamir_Khan/5ablueV_1tw_0000017 828.4 832.4 
+Aamir_Khan/5ablueV_1tw_0000018 842.2 847.2 

@@ -1,0 +1,11 @@
+POI: 			John_Amos 
+Youtube ID: 	TJLNkIUQw1Q 
+Video length: 	78.6 sec 
+Set (V): 		dev 
+ 
+John_Amos/TJLNkIUQw1Q_0000001 07.0 10.9 
+John_Amos/TJLNkIUQw1Q_0000002 14.1 21.6 
+John_Amos/TJLNkIUQw1Q_0000003 22.0 29.6 
+John_Amos/TJLNkIUQw1Q_0000004 35.8 40.3 
+John_Amos/TJLNkIUQw1Q_0000005 46.2 50.6 
+John_Amos/TJLNkIUQw1Q_0000006 59.7 64.9 

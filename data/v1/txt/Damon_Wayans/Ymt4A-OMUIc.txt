@@ -1,0 +1,12 @@
+POI: 			Damon_Wayans 
+Youtube ID: 	Ymt4A-OMUIc 
+Video length: 	202.5 sec 
+Set (V): 		dev 
+ 
+Damon_Wayans/Ymt4A-OMUIc_0000001 38.6 52.7 
+Damon_Wayans/Ymt4A-OMUIc_0000002 53.8 57.8 
+Damon_Wayans/Ymt4A-OMUIc_0000003 75.2 80.3 
+Damon_Wayans/Ymt4A-OMUIc_0000004 98.2 103.2 
+Damon_Wayans/Ymt4A-OMUIc_0000005 112.2 121.6 
+Damon_Wayans/Ymt4A-OMUIc_0000006 122.4 138.2 
+Damon_Wayans/Ymt4A-OMUIc_0000007 149.5 158.2 

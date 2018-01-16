@@ -1,0 +1,13 @@
+POI: 			Neil_deGrasse_Tyson 
+Youtube ID: 	n5uGrJvMieo 
+Video length: 	398.9 sec 
+Set (V): 		dev 
+ 
+Neil_deGrasse_Tyson/n5uGrJvMieo_0000001 97.1 103.0 
+Neil_deGrasse_Tyson/n5uGrJvMieo_0000002 116.0 120.0 
+Neil_deGrasse_Tyson/n5uGrJvMieo_0000003 152.1 164.2 
+Neil_deGrasse_Tyson/n5uGrJvMieo_0000004 198.4 207.2 
+Neil_deGrasse_Tyson/n5uGrJvMieo_0000005 261.1 270.4 
+Neil_deGrasse_Tyson/n5uGrJvMieo_0000006 271.2 284.7 
+Neil_deGrasse_Tyson/n5uGrJvMieo_0000007 318.4 326.6 
+Neil_deGrasse_Tyson/n5uGrJvMieo_0000008 329.1 334.0 

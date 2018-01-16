@@ -1,0 +1,7 @@
+POI: 			Paul_Dano 
+Youtube ID: 	xBu5rMwy1_g 
+Video length: 	156.8 sec 
+Set (V): 		dev 
+ 
+Paul_Dano/xBu5rMwy1_g_0000001 72.1 76.6 
+Paul_Dano/xBu5rMwy1_g_0000002 81.8 86.4 

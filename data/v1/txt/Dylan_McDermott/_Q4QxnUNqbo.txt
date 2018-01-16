@@ -1,0 +1,12 @@
+POI: 			Dylan_McDermott 
+Youtube ID: 	_Q4QxnUNqbo 
+Video length: 	199.6 sec 
+Set (V): 		dev 
+ 
+Dylan_McDermott/_Q4QxnUNqbo_0000001 29.9 34.7 
+Dylan_McDermott/_Q4QxnUNqbo_0000002 34.9 41.4 
+Dylan_McDermott/_Q4QxnUNqbo_0000003 61.1 74.0 
+Dylan_McDermott/_Q4QxnUNqbo_0000004 116.2 121.8 
+Dylan_McDermott/_Q4QxnUNqbo_0000005 137.7 142.5 
+Dylan_McDermott/_Q4QxnUNqbo_0000006 180.8 186.8 
+Dylan_McDermott/_Q4QxnUNqbo_0000007 187.2 195.1 

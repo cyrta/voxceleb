@@ -1,0 +1,13 @@
+POI: 			Tom_Ford 
+Youtube ID: 	VTeImA1_D94 
+Video length: 	248.5 sec 
+Set (V): 		dev 
+ 
+Tom_Ford/VTeImA1_D94_0000001 14.4 44.1 
+Tom_Ford/VTeImA1_D94_0000002 52.8 66.4 
+Tom_Ford/VTeImA1_D94_0000003 70.2 75.8 
+Tom_Ford/VTeImA1_D94_0000004 76.2 111.3 
+Tom_Ford/VTeImA1_D94_0000005 137.5 157.7 
+Tom_Ford/VTeImA1_D94_0000006 175.7 194.8 
+Tom_Ford/VTeImA1_D94_0000007 200.3 211.0 
+Tom_Ford/VTeImA1_D94_0000008 214.8 221.6 

@@ -1,0 +1,21 @@
+POI: 			Vincent_Cassel 
+Youtube ID: 	23XjJnrdcRg 
+Video length: 	1534.6 sec 
+Set (V): 		dev 
+ 
+Vincent_Cassel/23XjJnrdcRg_0000001 268.1 275.6 
+Vincent_Cassel/23XjJnrdcRg_0000002 307.1 311.2 
+Vincent_Cassel/23XjJnrdcRg_0000003 387.6 393.9 
+Vincent_Cassel/23XjJnrdcRg_0000004 452.2 457.1 
+Vincent_Cassel/23XjJnrdcRg_0000005 463.6 471.2 
+Vincent_Cassel/23XjJnrdcRg_0000006 613.8 618.0 
+Vincent_Cassel/23XjJnrdcRg_0000007 641.1 647.0 
+Vincent_Cassel/23XjJnrdcRg_0000008 682.2 687.2 
+Vincent_Cassel/23XjJnrdcRg_0000009 689.2 693.4 
+Vincent_Cassel/23XjJnrdcRg_0000010 908.1 912.1 
+Vincent_Cassel/23XjJnrdcRg_0000011 1104.4 1109.9 
+Vincent_Cassel/23XjJnrdcRg_0000012 1190.0 1194.7 
+Vincent_Cassel/23XjJnrdcRg_0000013 1353.6 1357.8 
+Vincent_Cassel/23XjJnrdcRg_0000014 1370.5 1380.6 
+Vincent_Cassel/23XjJnrdcRg_0000015 1429.9 1436.7 
+Vincent_Cassel/23XjJnrdcRg_0000016 1486.4 1490.8 

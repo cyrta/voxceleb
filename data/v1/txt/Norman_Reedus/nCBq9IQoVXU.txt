@@ -1,0 +1,8 @@
+POI: 			Norman_Reedus 
+Youtube ID: 	nCBq9IQoVXU 
+Video length: 	249.4 sec 
+Set (V): 		dev 
+ 
+Norman_Reedus/nCBq9IQoVXU_0000001 89.2 102.5 
+Norman_Reedus/nCBq9IQoVXU_0000002 111.7 123.0 
+Norman_Reedus/nCBq9IQoVXU_0000003 228.0 233.1 

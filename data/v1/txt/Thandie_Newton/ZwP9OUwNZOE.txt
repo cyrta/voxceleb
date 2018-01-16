@@ -1,0 +1,15 @@
+POI: 			Thandie_Newton 
+Youtube ID: 	ZwP9OUwNZOE 
+Video length: 	260.3 sec 
+Set (V): 		dev 
+ 
+Thandie_Newton/ZwP9OUwNZOE_0000001 00.8 06.4 
+Thandie_Newton/ZwP9OUwNZOE_0000002 06.7 11.8 
+Thandie_Newton/ZwP9OUwNZOE_0000003 29.2 43.9 
+Thandie_Newton/ZwP9OUwNZOE_0000004 90.8 97.8 
+Thandie_Newton/ZwP9OUwNZOE_0000005 98.6 109.2 
+Thandie_Newton/ZwP9OUwNZOE_0000006 117.9 124.4 
+Thandie_Newton/ZwP9OUwNZOE_0000007 161.5 168.0 
+Thandie_Newton/ZwP9OUwNZOE_0000008 191.5 213.0 
+Thandie_Newton/ZwP9OUwNZOE_0000009 218.2 230.4 
+Thandie_Newton/ZwP9OUwNZOE_0000010 233.8 239.7 

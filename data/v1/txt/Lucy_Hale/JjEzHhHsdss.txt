@@ -1,0 +1,14 @@
+POI: 			Lucy_Hale 
+Youtube ID: 	JjEzHhHsdss 
+Video length: 	355.4 sec 
+Set (V): 		dev 
+ 
+Lucy_Hale/JjEzHhHsdss_0000001 52.5 58.1 
+Lucy_Hale/JjEzHhHsdss_0000002 112.0 120.9 
+Lucy_Hale/JjEzHhHsdss_0000003 154.5 158.8 
+Lucy_Hale/JjEzHhHsdss_0000004 178.4 186.7 
+Lucy_Hale/JjEzHhHsdss_0000005 206.6 212.0 
+Lucy_Hale/JjEzHhHsdss_0000006 267.9 276.2 
+Lucy_Hale/JjEzHhHsdss_0000007 279.4 286.4 
+Lucy_Hale/JjEzHhHsdss_0000008 303.4 311.4 
+Lucy_Hale/JjEzHhHsdss_0000009 324.3 330.6 

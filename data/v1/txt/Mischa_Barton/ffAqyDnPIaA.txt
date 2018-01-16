@@ -1,0 +1,13 @@
+POI: 			Mischa_Barton 
+Youtube ID: 	ffAqyDnPIaA 
+Video length: 	564.2 sec 
+Set (V): 		dev 
+ 
+Mischa_Barton/ffAqyDnPIaA_0000001 73.1 86.4 
+Mischa_Barton/ffAqyDnPIaA_0000002 86.6 91.2 
+Mischa_Barton/ffAqyDnPIaA_0000003 95.2 104.2 
+Mischa_Barton/ffAqyDnPIaA_0000004 104.4 111.1 
+Mischa_Barton/ffAqyDnPIaA_0000005 128.6 134.2 
+Mischa_Barton/ffAqyDnPIaA_0000006 187.8 192.8 
+Mischa_Barton/ffAqyDnPIaA_0000007 193.8 200.2 
+Mischa_Barton/ffAqyDnPIaA_0000008 344.1 354.4 

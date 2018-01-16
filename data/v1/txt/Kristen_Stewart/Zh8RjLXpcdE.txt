@@ -1,0 +1,22 @@
+POI: 			Kristen_Stewart 
+Youtube ID: 	Zh8RjLXpcdE 
+Video length: 	2117.8 sec 
+Set (V): 		dev 
+ 
+Kristen_Stewart/Zh8RjLXpcdE_0000001 343.3 358.8 
+Kristen_Stewart/Zh8RjLXpcdE_0000002 360.1 367.4 
+Kristen_Stewart/Zh8RjLXpcdE_0000003 377.1 382.6 
+Kristen_Stewart/Zh8RjLXpcdE_0000004 386.4 404.8 
+Kristen_Stewart/Zh8RjLXpcdE_0000005 639.8 643.7 
+Kristen_Stewart/Zh8RjLXpcdE_0000006 653.8 658.6 
+Kristen_Stewart/Zh8RjLXpcdE_0000007 664.3 673.3 
+Kristen_Stewart/Zh8RjLXpcdE_0000008 1077.5 1081.8 
+Kristen_Stewart/Zh8RjLXpcdE_0000009 1104.9 1112.3 
+Kristen_Stewart/Zh8RjLXpcdE_0000010 1112.5 1121.7 
+Kristen_Stewart/Zh8RjLXpcdE_0000011 1284.2 1288.5 
+Kristen_Stewart/Zh8RjLXpcdE_0000012 1401.7 1406.6 
+Kristen_Stewart/Zh8RjLXpcdE_0000013 1407.4 1411.8 
+Kristen_Stewart/Zh8RjLXpcdE_0000014 1419.9 1433.2 
+Kristen_Stewart/Zh8RjLXpcdE_0000015 1589.9 1597.2 
+Kristen_Stewart/Zh8RjLXpcdE_0000016 1707.2 1714.4 
+Kristen_Stewart/Zh8RjLXpcdE_0000017 2062.2 2070.9 

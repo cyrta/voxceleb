@@ -1,0 +1,17 @@
+POI: 			Joss_Stone 
+Youtube ID: 	MuRq23oWwkw 
+Video length: 	653.2 sec 
+Set (V): 		dev 
+ 
+Joss_Stone/MuRq23oWwkw_0000001 222.3 228.1 
+Joss_Stone/MuRq23oWwkw_0000002 241.4 245.6 
+Joss_Stone/MuRq23oWwkw_0000003 264.1 268.2 
+Joss_Stone/MuRq23oWwkw_0000004 309.7 313.8 
+Joss_Stone/MuRq23oWwkw_0000005 322.3 340.9 
+Joss_Stone/MuRq23oWwkw_0000006 347.9 357.9 
+Joss_Stone/MuRq23oWwkw_0000007 363.1 368.4 
+Joss_Stone/MuRq23oWwkw_0000008 413.0 420.6 
+Joss_Stone/MuRq23oWwkw_0000009 454.0 468.1 
+Joss_Stone/MuRq23oWwkw_0000010 529.4 543.7 
+Joss_Stone/MuRq23oWwkw_0000011 551.3 559.6 
+Joss_Stone/MuRq23oWwkw_0000012 611.5 615.4 

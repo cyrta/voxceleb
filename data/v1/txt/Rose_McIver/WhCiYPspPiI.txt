@@ -1,0 +1,7 @@
+POI: 			Rose_McIver 
+Youtube ID: 	WhCiYPspPiI 
+Video length: 	123.6 sec 
+Set (V): 		dev 
+ 
+Rose_McIver/WhCiYPspPiI_0000001 16.2 29.9 
+Rose_McIver/WhCiYPspPiI_0000002 30.4 35.3 

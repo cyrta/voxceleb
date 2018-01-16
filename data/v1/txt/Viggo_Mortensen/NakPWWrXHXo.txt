@@ -1,0 +1,12 @@
+POI: 			Viggo_Mortensen 
+Youtube ID: 	NakPWWrXHXo 
+Video length: 	340.5 sec 
+Set (V): 		dev 
+ 
+Viggo_Mortensen/NakPWWrXHXo_0000001 150.1 154.1 
+Viggo_Mortensen/NakPWWrXHXo_0000002 159.0 165.7 
+Viggo_Mortensen/NakPWWrXHXo_0000003 185.7 193.6 
+Viggo_Mortensen/NakPWWrXHXo_0000004 199.7 206.3 
+Viggo_Mortensen/NakPWWrXHXo_0000005 220.2 228.8 
+Viggo_Mortensen/NakPWWrXHXo_0000006 288.4 293.3 
+Viggo_Mortensen/NakPWWrXHXo_0000007 310.0 315.6 

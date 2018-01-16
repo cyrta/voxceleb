@@ -1,0 +1,10 @@
+POI: 			Adam_Copeland 
+Youtube ID: 	978HIG18Lek 
+Video length: 	599.3 sec 
+Set (V): 		dev 
+ 
+Adam_Copeland/978HIG18Lek_0000001 34.2 40.9 
+Adam_Copeland/978HIG18Lek_0000002 41.1 45.3 
+Adam_Copeland/978HIG18Lek_0000003 46.1 51.3 
+Adam_Copeland/978HIG18Lek_0000004 62.3 68.4 
+Adam_Copeland/978HIG18Lek_0000005 314.6 319.4 

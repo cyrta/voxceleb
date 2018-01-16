@@ -1,0 +1,8 @@
+POI: 			Katie_Leclerc 
+Youtube ID: 	lNPdhdSeJiQ 
+Video length: 	331.5 sec 
+Set (V): 		dev 
+ 
+Katie_Leclerc/lNPdhdSeJiQ_0000001 133.6 142.0 
+Katie_Leclerc/lNPdhdSeJiQ_0000002 151.1 156.9 
+Katie_Leclerc/lNPdhdSeJiQ_0000003 307.8 313.8 

@@ -1,0 +1,16 @@
+POI: 			Jeff_Goldblum 
+Youtube ID: 	UT7gQXdGUOk 
+Video length: 	408.8 sec 
+Set (V): 		dev 
+ 
+Jeff_Goldblum/UT7gQXdGUOk_0000001 130.2 138.0 
+Jeff_Goldblum/UT7gQXdGUOk_0000002 163.8 169.0 
+Jeff_Goldblum/UT7gQXdGUOk_0000003 223.6 236.8 
+Jeff_Goldblum/UT7gQXdGUOk_0000004 240.5 248.7 
+Jeff_Goldblum/UT7gQXdGUOk_0000005 253.4 259.7 
+Jeff_Goldblum/UT7gQXdGUOk_0000006 264.2 271.4 
+Jeff_Goldblum/UT7gQXdGUOk_0000007 278.1 285.6 
+Jeff_Goldblum/UT7gQXdGUOk_0000008 292.8 296.9 
+Jeff_Goldblum/UT7gQXdGUOk_0000009 301.6 317.9 
+Jeff_Goldblum/UT7gQXdGUOk_0000010 319.7 325.9 
+Jeff_Goldblum/UT7gQXdGUOk_0000011 365.7 374.0 

@@ -1,0 +1,11 @@
+POI: 			Paul_Reubens 
+Youtube ID: 	qrNmD5e-6PY 
+Video length: 	354.7 sec 
+Set (V): 		dev 
+ 
+Paul_Reubens/qrNmD5e-6PY_0000001 26.2 30.5 
+Paul_Reubens/qrNmD5e-6PY_0000002 36.6 41.6 
+Paul_Reubens/qrNmD5e-6PY_0000003 146.2 151.7 
+Paul_Reubens/qrNmD5e-6PY_0000004 169.4 174.5 
+Paul_Reubens/qrNmD5e-6PY_0000005 215.1 219.9 
+Paul_Reubens/qrNmD5e-6PY_0000006 263.4 269.9 

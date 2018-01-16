@@ -1,0 +1,7 @@
+POI: 			Maria_Canals-Barrera 
+Youtube ID: 	QU2_gJwqlrk 
+Video length: 	116.0 sec 
+Set (V): 		dev 
+ 
+Maria_Canals-Barrera/QU2_gJwqlrk_0000001 30.2 34.3 
+Maria_Canals-Barrera/QU2_gJwqlrk_0000002 86.9 91.2 

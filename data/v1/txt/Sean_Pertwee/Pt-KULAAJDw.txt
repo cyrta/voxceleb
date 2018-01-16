@@ -1,0 +1,9 @@
+POI: 			Sean_Pertwee 
+Youtube ID: 	Pt-KULAAJDw 
+Video length: 	292.5 sec 
+Set (V): 		dev 
+ 
+Sean_Pertwee/Pt-KULAAJDw_0000001 119.7 126.9 
+Sean_Pertwee/Pt-KULAAJDw_0000002 143.6 149.9 
+Sean_Pertwee/Pt-KULAAJDw_0000003 150.4 156.6 
+Sean_Pertwee/Pt-KULAAJDw_0000004 158.5 165.9 

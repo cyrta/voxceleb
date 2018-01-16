@@ -1,0 +1,7 @@
+POI: 			Zoe_Saldana 
+Youtube ID: 	09AvzdGWvhA 
+Video length: 	167.0 sec 
+Set (V): 		dev 
+ 
+Zoe_Saldana/09AvzdGWvhA_0000001 26.6 41.6 
+Zoe_Saldana/09AvzdGWvhA_0000002 43.8 69.6 

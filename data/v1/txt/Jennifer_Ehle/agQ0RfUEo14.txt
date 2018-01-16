@@ -1,0 +1,28 @@
+POI: 			Jennifer_Ehle 
+Youtube ID: 	agQ0RfUEo14 
+Video length: 	451.0 sec 
+Set (V): 		dev 
+ 
+Jennifer_Ehle/agQ0RfUEo14_0000001 02.6 06.9 
+Jennifer_Ehle/agQ0RfUEo14_0000002 27.6 37.8 
+Jennifer_Ehle/agQ0RfUEo14_0000003 38.4 47.1 
+Jennifer_Ehle/agQ0RfUEo14_0000004 47.9 53.9 
+Jennifer_Ehle/agQ0RfUEo14_0000005 56.9 60.9 
+Jennifer_Ehle/agQ0RfUEo14_0000006 62.0 81.1 
+Jennifer_Ehle/agQ0RfUEo14_0000007 101.6 127.2 
+Jennifer_Ehle/agQ0RfUEo14_0000008 133.8 141.5 
+Jennifer_Ehle/agQ0RfUEo14_0000009 142.0 157.8 
+Jennifer_Ehle/agQ0RfUEo14_0000010 157.8 171.6 
+Jennifer_Ehle/agQ0RfUEo14_0000011 187.5 202.5 
+Jennifer_Ehle/agQ0RfUEo14_0000012 204.8 211.9 
+Jennifer_Ehle/agQ0RfUEo14_0000013 235.6 247.0 
+Jennifer_Ehle/agQ0RfUEo14_0000014 247.9 258.6 
+Jennifer_Ehle/agQ0RfUEo14_0000015 285.4 294.8 
+Jennifer_Ehle/agQ0RfUEo14_0000016 295.3 302.2 
+Jennifer_Ehle/agQ0RfUEo14_0000017 302.4 317.4 
+Jennifer_Ehle/agQ0RfUEo14_0000018 322.6 337.6 
+Jennifer_Ehle/agQ0RfUEo14_0000019 232.2 258.6 
+Jennifer_Ehle/agQ0RfUEo14_0000020 343.4 361.2 
+Jennifer_Ehle/agQ0RfUEo14_0000021 367.2 374.5 
+Jennifer_Ehle/agQ0RfUEo14_0000022 376.6 392.4 
+Jennifer_Ehle/agQ0RfUEo14_0000023 411.0 426.3 

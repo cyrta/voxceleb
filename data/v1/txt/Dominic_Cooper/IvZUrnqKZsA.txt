@@ -1,0 +1,26 @@
+POI: 			Dominic_Cooper 
+Youtube ID: 	IvZUrnqKZsA 
+Video length: 	387.9 sec 
+Set (V): 		dev 
+ 
+Dominic_Cooper/IvZUrnqKZsA_0000001 18.5 24.4 
+Dominic_Cooper/IvZUrnqKZsA_0000002 24.8 32.6 
+Dominic_Cooper/IvZUrnqKZsA_0000003 41.4 47.2 
+Dominic_Cooper/IvZUrnqKZsA_0000004 47.5 53.6 
+Dominic_Cooper/IvZUrnqKZsA_0000005 57.8 64.2 
+Dominic_Cooper/IvZUrnqKZsA_0000006 66.1 77.9 
+Dominic_Cooper/IvZUrnqKZsA_0000007 78.6 86.4 
+Dominic_Cooper/IvZUrnqKZsA_0000008 88.1 93.4 
+Dominic_Cooper/IvZUrnqKZsA_0000009 95.3 99.6 
+Dominic_Cooper/IvZUrnqKZsA_0000010 103.2 111.4 
+Dominic_Cooper/IvZUrnqKZsA_0000011 113.3 129.2 
+Dominic_Cooper/IvZUrnqKZsA_0000012 129.6 134.0 
+Dominic_Cooper/IvZUrnqKZsA_0000013 212.8 225.4 
+Dominic_Cooper/IvZUrnqKZsA_0000014 254.0 270.9 
+Dominic_Cooper/IvZUrnqKZsA_0000015 273.5 278.4 
+Dominic_Cooper/IvZUrnqKZsA_0000016 279.0 287.8 
+Dominic_Cooper/IvZUrnqKZsA_0000017 293.3 302.4 
+Dominic_Cooper/IvZUrnqKZsA_0000018 303.7 312.5 
+Dominic_Cooper/IvZUrnqKZsA_0000019 314.0 333.4 
+Dominic_Cooper/IvZUrnqKZsA_0000020 346.1 364.9 
+Dominic_Cooper/IvZUrnqKZsA_0000021 367.4 372.2 

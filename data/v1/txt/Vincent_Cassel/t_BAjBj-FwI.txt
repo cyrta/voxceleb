@@ -1,0 +1,8 @@
+POI: 			Vincent_Cassel 
+Youtube ID: 	t_BAjBj-FwI 
+Video length: 	724.2 sec 
+Set (V): 		dev 
+ 
+Vincent_Cassel/t_BAjBj-FwI_0000001 119.0 123.5 
+Vincent_Cassel/t_BAjBj-FwI_0000002 401.4 408.3 
+Vincent_Cassel/t_BAjBj-FwI_0000003 678.5 684.6 

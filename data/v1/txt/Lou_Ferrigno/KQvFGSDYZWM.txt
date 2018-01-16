@@ -1,0 +1,10 @@
+POI: 			Lou_Ferrigno 
+Youtube ID: 	KQvFGSDYZWM 
+Video length: 	205.8 sec 
+Set (V): 		dev 
+ 
+Lou_Ferrigno/KQvFGSDYZWM_0000001 21.3 25.2 
+Lou_Ferrigno/KQvFGSDYZWM_0000002 25.8 30.3 
+Lou_Ferrigno/KQvFGSDYZWM_0000003 80.0 88.0 
+Lou_Ferrigno/KQvFGSDYZWM_0000004 113.1 125.6 
+Lou_Ferrigno/KQvFGSDYZWM_0000005 148.8 166.8 

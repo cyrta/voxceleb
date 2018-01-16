@@ -1,0 +1,10 @@
+POI: 			Keri_Russell 
+Youtube ID: 	UC-2lcdPLr0 
+Video length: 	277.4 sec 
+Set (V): 		dev 
+ 
+Keri_Russell/UC-2lcdPLr0_0000001 37.8 41.9 
+Keri_Russell/UC-2lcdPLr0_0000002 48.8 53.8 
+Keri_Russell/UC-2lcdPLr0_0000003 74.5 102.1 
+Keri_Russell/UC-2lcdPLr0_0000004 149.3 170.5 
+Keri_Russell/UC-2lcdPLr0_0000005 221.2 230.6 

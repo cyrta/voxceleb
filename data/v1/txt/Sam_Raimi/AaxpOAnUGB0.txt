@@ -1,0 +1,8 @@
+POI: 			Sam_Raimi 
+Youtube ID: 	AaxpOAnUGB0 
+Video length: 	858.5 sec 
+Set (V): 		dev 
+ 
+Sam_Raimi/AaxpOAnUGB0_0000001 174.0 180.5 
+Sam_Raimi/AaxpOAnUGB0_0000002 718.0 724.2 
+Sam_Raimi/AaxpOAnUGB0_0000003 746.6 751.8 

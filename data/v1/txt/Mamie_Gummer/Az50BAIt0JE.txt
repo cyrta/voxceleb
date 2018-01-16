@@ -1,0 +1,7 @@
+POI: 			Mamie_Gummer 
+Youtube ID: 	Az50BAIt0JE 
+Video length: 	209.0 sec 
+Set (V): 		dev 
+ 
+Mamie_Gummer/Az50BAIt0JE_0000001 135.4 144.4 
+Mamie_Gummer/Az50BAIt0JE_0000002 169.7 173.7 

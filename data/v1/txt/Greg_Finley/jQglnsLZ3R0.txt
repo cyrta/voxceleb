@@ -1,0 +1,31 @@
+POI: 			Greg_Finley 
+Youtube ID: 	jQglnsLZ3R0 
+Video length: 	512.8 sec 
+Set (V): 		dev 
+ 
+Greg_Finley/jQglnsLZ3R0_0000001 20.6 29.8 
+Greg_Finley/jQglnsLZ3R0_0000002 37.8 60.8 
+Greg_Finley/jQglnsLZ3R0_0000003 81.8 86.8 
+Greg_Finley/jQglnsLZ3R0_0000004 91.6 118.0 
+Greg_Finley/jQglnsLZ3R0_0000005 123.7 138.2 
+Greg_Finley/jQglnsLZ3R0_0000006 149.6 184.5 
+Greg_Finley/jQglnsLZ3R0_0000007 193.4 198.5 
+Greg_Finley/jQglnsLZ3R0_0000008 202.7 212.3 
+Greg_Finley/jQglnsLZ3R0_0000009 214.2 220.6 
+Greg_Finley/jQglnsLZ3R0_0000010 221.5 228.9 
+Greg_Finley/jQglnsLZ3R0_0000011 230.1 241.0 
+Greg_Finley/jQglnsLZ3R0_0000012 261.9 270.6 
+Greg_Finley/jQglnsLZ3R0_0000013 283.1 290.9 
+Greg_Finley/jQglnsLZ3R0_0000014 298.7 308.0 
+Greg_Finley/jQglnsLZ3R0_0000015 309.2 318.5 
+Greg_Finley/jQglnsLZ3R0_0000016 341.4 351.8 
+Greg_Finley/jQglnsLZ3R0_0000017 354.5 360.4 
+Greg_Finley/jQglnsLZ3R0_0000018 368.3 376.3 
+Greg_Finley/jQglnsLZ3R0_0000019 381.4 387.5 
+Greg_Finley/jQglnsLZ3R0_0000020 391.4 406.4 
+Greg_Finley/jQglnsLZ3R0_0000021 421.3 427.4 
+Greg_Finley/jQglnsLZ3R0_0000022 428.4 433.4 
+Greg_Finley/jQglnsLZ3R0_0000023 446.1 462.0 
+Greg_Finley/jQglnsLZ3R0_0000024 472.0 476.3 
+Greg_Finley/jQglnsLZ3R0_0000025 478.4 483.7 
+Greg_Finley/jQglnsLZ3R0_0000026 486.0 491.9 

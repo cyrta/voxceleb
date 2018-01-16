@@ -1,0 +1,21 @@
+POI: 			Jason_Bateman 
+Youtube ID: 	zjcmpDM57eQ 
+Video length: 	296.7 sec 
+Set (V): 		dev 
+ 
+Jason_Bateman/zjcmpDM57eQ_0000001 01.9 08.6 
+Jason_Bateman/zjcmpDM57eQ_0000002 15.3 36.0 
+Jason_Bateman/zjcmpDM57eQ_0000003 37.8 50.3 
+Jason_Bateman/zjcmpDM57eQ_0000004 56.6 62.9 
+Jason_Bateman/zjcmpDM57eQ_0000005 64.2 70.5 
+Jason_Bateman/zjcmpDM57eQ_0000006 71.2 80.0 
+Jason_Bateman/zjcmpDM57eQ_0000007 91.9 100.4 
+Jason_Bateman/zjcmpDM57eQ_0000008 101.3 133.8 
+Jason_Bateman/zjcmpDM57eQ_0000009 139.2 144.7 
+Jason_Bateman/zjcmpDM57eQ_0000010 151.5 164.2 
+Jason_Bateman/zjcmpDM57eQ_0000011 169.6 174.3 
+Jason_Bateman/zjcmpDM57eQ_0000012 175.0 194.0 
+Jason_Bateman/zjcmpDM57eQ_0000013 194.6 224.0 
+Jason_Bateman/zjcmpDM57eQ_0000014 231.5 243.5 
+Jason_Bateman/zjcmpDM57eQ_0000015 253.0 263.8 
+Jason_Bateman/zjcmpDM57eQ_0000016 264.5 294.2 

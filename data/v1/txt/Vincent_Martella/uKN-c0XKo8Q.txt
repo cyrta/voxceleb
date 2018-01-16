@@ -1,0 +1,11 @@
+POI: 			Vincent_Martella 
+Youtube ID: 	uKN-c0XKo8Q 
+Video length: 	287.3 sec 
+Set (V): 		dev 
+ 
+Vincent_Martella/uKN-c0XKo8Q_0000001 87.6 93.2 
+Vincent_Martella/uKN-c0XKo8Q_0000002 140.0 146.4 
+Vincent_Martella/uKN-c0XKo8Q_0000003 163.2 167.8 
+Vincent_Martella/uKN-c0XKo8Q_0000004 183.0 188.6 
+Vincent_Martella/uKN-c0XKo8Q_0000005 201.2 206.3 
+Vincent_Martella/uKN-c0XKo8Q_0000006 211.7 216.3 

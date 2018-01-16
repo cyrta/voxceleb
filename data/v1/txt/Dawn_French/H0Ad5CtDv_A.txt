@@ -1,0 +1,19 @@
+POI: 			Dawn_French 
+Youtube ID: 	H0Ad5CtDv_A 
+Video length: 	222.2 sec 
+Set (V): 		dev 
+ 
+Dawn_French/H0Ad5CtDv_A_0000001 04.7 12.4 
+Dawn_French/H0Ad5CtDv_A_0000002 30.7 38.0 
+Dawn_French/H0Ad5CtDv_A_0000003 40.1 48.1 
+Dawn_French/H0Ad5CtDv_A_0000004 50.2 58.1 
+Dawn_French/H0Ad5CtDv_A_0000005 68.7 76.3 
+Dawn_French/H0Ad5CtDv_A_0000006 78.4 91.6 
+Dawn_French/H0Ad5CtDv_A_0000007 95.4 100.5 
+Dawn_French/H0Ad5CtDv_A_0000008 100.6 111.5 
+Dawn_French/H0Ad5CtDv_A_0000009 115.7 136.8 
+Dawn_French/H0Ad5CtDv_A_0000010 137.0 154.0 
+Dawn_French/H0Ad5CtDv_A_0000011 156.0 161.9 
+Dawn_French/H0Ad5CtDv_A_0000012 173.7 188.0 
+Dawn_French/H0Ad5CtDv_A_0000013 199.9 205.9 
+Dawn_French/H0Ad5CtDv_A_0000014 208.4 215.9 

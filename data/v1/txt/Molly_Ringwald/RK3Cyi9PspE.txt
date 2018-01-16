@@ -1,0 +1,14 @@
+POI: 			Molly_Ringwald 
+Youtube ID: 	RK3Cyi9PspE 
+Video length: 	422.3 sec 
+Set (V): 		dev 
+ 
+Molly_Ringwald/RK3Cyi9PspE_0000001 02.9 13.4 
+Molly_Ringwald/RK3Cyi9PspE_0000002 28.5 32.6 
+Molly_Ringwald/RK3Cyi9PspE_0000003 39.2 46.7 
+Molly_Ringwald/RK3Cyi9PspE_0000004 70.4 78.5 
+Molly_Ringwald/RK3Cyi9PspE_0000005 321.0 325.3 
+Molly_Ringwald/RK3Cyi9PspE_0000006 326.8 333.4 
+Molly_Ringwald/RK3Cyi9PspE_0000007 360.0 369.1 
+Molly_Ringwald/RK3Cyi9PspE_0000008 389.3 393.8 
+Molly_Ringwald/RK3Cyi9PspE_0000009 415.8 419.9 

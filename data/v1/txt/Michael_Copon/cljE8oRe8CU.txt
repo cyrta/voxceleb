@@ -1,0 +1,7 @@
+POI: 			Michael_Copon 
+Youtube ID: 	cljE8oRe8CU 
+Video length: 	107.4 sec 
+Set (V): 		dev 
+ 
+Michael_Copon/cljE8oRe8CU_0000001 48.0 64.2 
+Michael_Copon/cljE8oRe8CU_0000002 69.7 80.5 

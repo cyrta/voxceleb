@@ -1,0 +1,29 @@
+POI: 			Terence_Stamp 
+Youtube ID: 	WRVD0xe3fqc 
+Video length: 	808.8 sec 
+Set (V): 		dev 
+ 
+Terence_Stamp/WRVD0xe3fqc_0000001 201.9 210.5 
+Terence_Stamp/WRVD0xe3fqc_0000002 218.5 222.9 
+Terence_Stamp/WRVD0xe3fqc_0000003 305.8 323.0 
+Terence_Stamp/WRVD0xe3fqc_0000004 323.8 334.0 
+Terence_Stamp/WRVD0xe3fqc_0000005 361.4 367.2 
+Terence_Stamp/WRVD0xe3fqc_0000006 367.9 377.0 
+Terence_Stamp/WRVD0xe3fqc_0000007 379.2 391.9 
+Terence_Stamp/WRVD0xe3fqc_0000008 428.2 432.6 
+Terence_Stamp/WRVD0xe3fqc_0000009 438.1 457.0 
+Terence_Stamp/WRVD0xe3fqc_0000010 463.5 469.5 
+Terence_Stamp/WRVD0xe3fqc_0000011 470.8 479.7 
+Terence_Stamp/WRVD0xe3fqc_0000012 535.7 542.9 
+Terence_Stamp/WRVD0xe3fqc_0000013 545.2 551.5 
+Terence_Stamp/WRVD0xe3fqc_0000014 552.7 561.2 
+Terence_Stamp/WRVD0xe3fqc_0000015 575.7 580.2 
+Terence_Stamp/WRVD0xe3fqc_0000016 668.0 672.8 
+Terence_Stamp/WRVD0xe3fqc_0000017 687.7 694.0 
+Terence_Stamp/WRVD0xe3fqc_0000018 697.0 702.9 
+Terence_Stamp/WRVD0xe3fqc_0000019 705.8 714.8 
+Terence_Stamp/WRVD0xe3fqc_0000020 733.4 737.5 
+Terence_Stamp/WRVD0xe3fqc_0000021 741.5 749.6 
+Terence_Stamp/WRVD0xe3fqc_0000022 756.2 766.7 
+Terence_Stamp/WRVD0xe3fqc_0000023 770.8 774.8 
+Terence_Stamp/WRVD0xe3fqc_0000024 775.9 781.2 

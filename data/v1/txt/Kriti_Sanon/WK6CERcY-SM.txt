@@ -1,0 +1,11 @@
+POI: 			Kriti_Sanon 
+Youtube ID: 	WK6CERcY-SM 
+Video length: 	303.0 sec 
+Set (V): 		dev 
+ 
+Kriti_Sanon/WK6CERcY-SM_0000001 28.7 34.0 
+Kriti_Sanon/WK6CERcY-SM_0000002 88.3 94.8 
+Kriti_Sanon/WK6CERcY-SM_0000003 105.8 115.3 
+Kriti_Sanon/WK6CERcY-SM_0000004 175.0 183.0 
+Kriti_Sanon/WK6CERcY-SM_0000005 253.8 258.4 
+Kriti_Sanon/WK6CERcY-SM_0000006 282.7 289.2 

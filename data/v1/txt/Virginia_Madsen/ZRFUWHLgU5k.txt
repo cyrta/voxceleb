@@ -1,0 +1,10 @@
+POI: 			Virginia_Madsen 
+Youtube ID: 	ZRFUWHLgU5k 
+Video length: 	348.9 sec 
+Set (V): 		dev 
+ 
+Virginia_Madsen/ZRFUWHLgU5k_0000001 133.5 138.0 
+Virginia_Madsen/ZRFUWHLgU5k_0000002 144.5 149.0 
+Virginia_Madsen/ZRFUWHLgU5k_0000003 150.9 160.6 
+Virginia_Madsen/ZRFUWHLgU5k_0000004 163.0 178.7 
+Virginia_Madsen/ZRFUWHLgU5k_0000005 305.0 312.7 

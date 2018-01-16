@@ -1,0 +1,12 @@
+POI: 			Ranbir_Kapoor 
+Youtube ID: 	Zrhn9R4cSts 
+Video length: 	401.2 sec 
+Set (V): 		dev 
+ 
+Ranbir_Kapoor/Zrhn9R4cSts_0000001 61.2 69.1 
+Ranbir_Kapoor/Zrhn9R4cSts_0000002 69.2 75.0 
+Ranbir_Kapoor/Zrhn9R4cSts_0000003 75.2 81.2 
+Ranbir_Kapoor/Zrhn9R4cSts_0000004 81.9 87.4 
+Ranbir_Kapoor/Zrhn9R4cSts_0000005 117.9 122.7 
+Ranbir_Kapoor/Zrhn9R4cSts_0000006 170.7 176.4 
+Ranbir_Kapoor/Zrhn9R4cSts_0000007 320.4 325.4 

@@ -1,0 +1,14 @@
+POI: 			Tom_Hooper 
+Youtube ID: 	latwmP7vkr8 
+Video length: 	258.6 sec 
+Set (V): 		dev 
+ 
+Tom_Hooper/latwmP7vkr8_0000001 42.6 49.2 
+Tom_Hooper/latwmP7vkr8_0000002 60.8 71.8 
+Tom_Hooper/latwmP7vkr8_0000003 98.8 104.2 
+Tom_Hooper/latwmP7vkr8_0000004 117.3 122.1 
+Tom_Hooper/latwmP7vkr8_0000005 122.7 126.7 
+Tom_Hooper/latwmP7vkr8_0000006 139.4 147.0 
+Tom_Hooper/latwmP7vkr8_0000007 171.1 176.4 
+Tom_Hooper/latwmP7vkr8_0000008 192.8 197.4 
+Tom_Hooper/latwmP7vkr8_0000009 198.7 207.7 

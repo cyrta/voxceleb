@@ -1,0 +1,12 @@
+POI: 			Mila_Kunis 
+Youtube ID: 	HwJqhjP1T_4 
+Video length: 	900.8 sec 
+Set (V): 		dev 
+ 
+Mila_Kunis/HwJqhjP1T_4_0000001 143.7 148.4 
+Mila_Kunis/HwJqhjP1T_4_0000002 156.6 161.1 
+Mila_Kunis/HwJqhjP1T_4_0000003 172.9 176.8 
+Mila_Kunis/HwJqhjP1T_4_0000004 248.4 254.2 
+Mila_Kunis/HwJqhjP1T_4_0000005 320.8 331.3 
+Mila_Kunis/HwJqhjP1T_4_0000006 336.8 341.1 
+Mila_Kunis/HwJqhjP1T_4_0000007 347.0 351.7 

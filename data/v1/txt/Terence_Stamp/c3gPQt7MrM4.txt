@@ -1,0 +1,8 @@
+POI: 			Terence_Stamp 
+Youtube ID: 	c3gPQt7MrM4 
+Video length: 	473.5 sec 
+Set (V): 		dev 
+ 
+Terence_Stamp/c3gPQt7MrM4_0000001 167.0 173.2 
+Terence_Stamp/c3gPQt7MrM4_0000002 186.6 193.6 
+Terence_Stamp/c3gPQt7MrM4_0000003 236.9 245.8 

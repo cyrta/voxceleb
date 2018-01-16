@@ -1,0 +1,8 @@
+POI: 			Martin_Shaw 
+Youtube ID: 	UFJ8aiqMU6U 
+Video length: 	351.5 sec 
+Set (V): 		dev 
+ 
+Martin_Shaw/UFJ8aiqMU6U_0000001 100.4 108.8 
+Martin_Shaw/UFJ8aiqMU6U_0000002 271.8 281.5 
+Martin_Shaw/UFJ8aiqMU6U_0000003 309.6 314.0 

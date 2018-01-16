@@ -1,0 +1,9 @@
+POI: 			Alan_Rickman 
+Youtube ID: 	F6D2O14BXWc 
+Video length: 	225.5 sec 
+Set (V): 		dev 
+ 
+Alan_Rickman/F6D2O14BXWc_0000001 72.9 77.2 
+Alan_Rickman/F6D2O14BXWc_0000002 132.6 137.7 
+Alan_Rickman/F6D2O14BXWc_0000003 185.1 190.2 
+Alan_Rickman/F6D2O14BXWc_0000004 203.3 208.3 

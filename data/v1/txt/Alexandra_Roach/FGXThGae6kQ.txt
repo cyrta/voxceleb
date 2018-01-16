@@ -1,0 +1,15 @@
+POI: 			Alexandra_Roach 
+Youtube ID: 	FGXThGae6kQ 
+Video length: 	258.9 sec 
+Set (V): 		dev 
+ 
+Alexandra_Roach/FGXThGae6kQ_0000001 03.7 32.0 
+Alexandra_Roach/FGXThGae6kQ_0000002 39.8 48.0 
+Alexandra_Roach/FGXThGae6kQ_0000003 49.4 64.4 
+Alexandra_Roach/FGXThGae6kQ_0000004 74.0 87.9 
+Alexandra_Roach/FGXThGae6kQ_0000005 90.9 97.9 
+Alexandra_Roach/FGXThGae6kQ_0000006 111.6 124.5 
+Alexandra_Roach/FGXThGae6kQ_0000007 125.4 134.8 
+Alexandra_Roach/FGXThGae6kQ_0000008 146.1 162.1 
+Alexandra_Roach/FGXThGae6kQ_0000009 173.1 214.2 
+Alexandra_Roach/FGXThGae6kQ_0000010 219.3 238.5 

@@ -1,0 +1,7 @@
+POI: 			Alan_Cumming 
+Youtube ID: 	JiqjCNGuH1E 
+Video length: 	71.3 sec 
+Set (V): 		dev 
+ 
+Alan_Cumming/JiqjCNGuH1E_0000001 20.0 46.7 
+Alan_Cumming/JiqjCNGuH1E_0000002 57.0 68.7 

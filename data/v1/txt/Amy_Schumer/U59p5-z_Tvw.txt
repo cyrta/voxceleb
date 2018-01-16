@@ -1,0 +1,8 @@
+POI: 			Amy_Schumer 
+Youtube ID: 	U59p5-z_Tvw 
+Video length: 	286.1 sec 
+Set (V): 		dev 
+ 
+Amy_Schumer/U59p5-z_Tvw_0000001 16.6 35.8 
+Amy_Schumer/U59p5-z_Tvw_0000002 129.2 134.3 
+Amy_Schumer/U59p5-z_Tvw_0000003 142.8 155.8 

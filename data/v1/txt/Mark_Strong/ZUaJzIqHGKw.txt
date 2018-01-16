@@ -1,0 +1,8 @@
+POI: 			Mark_Strong 
+Youtube ID: 	ZUaJzIqHGKw 
+Video length: 	177.0 sec 
+Set (V): 		dev 
+ 
+Mark_Strong/ZUaJzIqHGKw_0000001 15.0 19.4 
+Mark_Strong/ZUaJzIqHGKw_0000002 62.1 68.8 
+Mark_Strong/ZUaJzIqHGKw_0000003 100.9 106.8 

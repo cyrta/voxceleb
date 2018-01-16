@@ -1,0 +1,9 @@
+POI: 			Diane_Kruger 
+Youtube ID: 	DuLU2ODsOrQ 
+Video length: 	235.0 sec 
+Set (V): 		dev 
+ 
+Diane_Kruger/DuLU2ODsOrQ_0000001 15.4 20.8 
+Diane_Kruger/DuLU2ODsOrQ_0000002 80.7 85.0 
+Diane_Kruger/DuLU2ODsOrQ_0000003 89.2 98.6 
+Diane_Kruger/DuLU2ODsOrQ_0000004 125.3 129.4 

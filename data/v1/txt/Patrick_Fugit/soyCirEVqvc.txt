@@ -1,0 +1,11 @@
+POI: 			Patrick_Fugit 
+Youtube ID: 	soyCirEVqvc 
+Video length: 	276.5 sec 
+Set (V): 		dev 
+ 
+Patrick_Fugit/soyCirEVqvc_0000001 57.2 61.9 
+Patrick_Fugit/soyCirEVqvc_0000002 62.8 69.6 
+Patrick_Fugit/soyCirEVqvc_0000003 69.7 75.0 
+Patrick_Fugit/soyCirEVqvc_0000004 123.1 131.0 
+Patrick_Fugit/soyCirEVqvc_0000005 169.9 174.4 
+Patrick_Fugit/soyCirEVqvc_0000006 231.9 239.4 

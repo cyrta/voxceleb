@@ -1,0 +1,14 @@
+POI: 			Sanaa_Lathan 
+Youtube ID: 	PfEn1arGUoE 
+Video length: 	268.1 sec 
+Set (V): 		dev 
+ 
+Sanaa_Lathan/PfEn1arGUoE_0000001 43.4 51.2 
+Sanaa_Lathan/PfEn1arGUoE_0000002 87.5 94.1 
+Sanaa_Lathan/PfEn1arGUoE_0000003 95.2 99.8 
+Sanaa_Lathan/PfEn1arGUoE_0000004 101.0 105.0 
+Sanaa_Lathan/PfEn1arGUoE_0000005 141.7 148.1 
+Sanaa_Lathan/PfEn1arGUoE_0000006 158.3 163.2 
+Sanaa_Lathan/PfEn1arGUoE_0000007 189.5 196.9 
+Sanaa_Lathan/PfEn1arGUoE_0000008 203.0 211.6 
+Sanaa_Lathan/PfEn1arGUoE_0000009 222.5 227.4 

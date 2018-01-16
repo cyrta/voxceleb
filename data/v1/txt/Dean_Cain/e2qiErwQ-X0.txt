@@ -1,0 +1,10 @@
+POI: 			Dean_Cain 
+Youtube ID: 	e2qiErwQ-X0 
+Video length: 	191.4 sec 
+Set (V): 		dev 
+ 
+Dean_Cain/e2qiErwQ-X0_0000001 61.6 65.9 
+Dean_Cain/e2qiErwQ-X0_0000002 77.8 83.4 
+Dean_Cain/e2qiErwQ-X0_0000003 115.8 129.5 
+Dean_Cain/e2qiErwQ-X0_0000004 131.5 136.5 
+Dean_Cain/e2qiErwQ-X0_0000005 151.6 167.4 

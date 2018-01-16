@@ -1,0 +1,8 @@
+POI: 			Gordon_Ramsay 
+Youtube ID: 	KWG6pMtMoY0 
+Video length: 	1022.4 sec 
+Set (V): 		dev 
+ 
+Gordon_Ramsay/KWG6pMtMoY0_0000001 185.2 189.4 
+Gordon_Ramsay/KWG6pMtMoY0_0000002 257.8 265.3 
+Gordon_Ramsay/KWG6pMtMoY0_0000003 438.9 444.6 

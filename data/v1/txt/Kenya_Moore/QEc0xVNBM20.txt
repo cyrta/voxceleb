@@ -1,0 +1,9 @@
+POI: 			Kenya_Moore 
+Youtube ID: 	QEc0xVNBM20 
+Video length: 	612.0 sec 
+Set (V): 		dev 
+ 
+Kenya_Moore/QEc0xVNBM20_0000001 154.4 160.9 
+Kenya_Moore/QEc0xVNBM20_0000002 248.3 258.5 
+Kenya_Moore/QEc0xVNBM20_0000003 306.5 315.2 
+Kenya_Moore/QEc0xVNBM20_0000004 534.6 539.4 

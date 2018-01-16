@@ -1,0 +1,9 @@
+POI: 			John_Barrowman 
+Youtube ID: 	532RpxhDnuI 
+Video length: 	558.4 sec 
+Set (V): 		dev 
+ 
+John_Barrowman/532RpxhDnuI_0000001 95.9 102.8 
+John_Barrowman/532RpxhDnuI_0000002 130.8 135.4 
+John_Barrowman/532RpxhDnuI_0000003 184.7 189.2 
+John_Barrowman/532RpxhDnuI_0000004 209.2 216.1 

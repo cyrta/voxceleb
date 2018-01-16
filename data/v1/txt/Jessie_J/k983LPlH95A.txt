@@ -1,0 +1,7 @@
+POI: 			Jessie_J 
+Youtube ID: 	k983LPlH95A 
+Video length: 	320.1 sec 
+Set (V): 		dev 
+ 
+Jessie_J/k983LPlH95A_0000001 114.4 118.4 
+Jessie_J/k983LPlH95A_0000002 127.4 131.4 

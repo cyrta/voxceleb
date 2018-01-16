@@ -1,0 +1,8 @@
+POI: 			David_Attenborough 
+Youtube ID: 	FmUo2yEOX2Y 
+Video length: 	211.1 sec 
+Set (V): 		dev 
+ 
+David_Attenborough/FmUo2yEOX2Y_0000001 15.8 22.9 
+David_Attenborough/FmUo2yEOX2Y_0000002 26.0 33.4 
+David_Attenborough/FmUo2yEOX2Y_0000003 48.3 53.6 

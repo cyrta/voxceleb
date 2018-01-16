@@ -1,0 +1,11 @@
+POI: 			Toby_Stephens 
+Youtube ID: 	cPle3RK0uXM 
+Video length: 	241.0 sec 
+Set (V): 		dev 
+ 
+Toby_Stephens/cPle3RK0uXM_0000001 27.3 51.1 
+Toby_Stephens/cPle3RK0uXM_0000002 57.8 79.1 
+Toby_Stephens/cPle3RK0uXM_0000003 90.4 140.8 
+Toby_Stephens/cPle3RK0uXM_0000004 158.5 176.2 
+Toby_Stephens/cPle3RK0uXM_0000005 178.2 207.1 
+Toby_Stephens/cPle3RK0uXM_0000006 212.2 217.4 

@@ -1,0 +1,11 @@
+POI: 			Robert_Sheehan 
+Youtube ID: 	dRsAW0ly9HQ 
+Video length: 	163.1 sec 
+Set (V): 		dev 
+ 
+Robert_Sheehan/dRsAW0ly9HQ_0000001 78.5 86.4 
+Robert_Sheehan/dRsAW0ly9HQ_0000002 88.0 99.2 
+Robert_Sheehan/dRsAW0ly9HQ_0000003 104.7 111.2 
+Robert_Sheehan/dRsAW0ly9HQ_0000004 124.6 129.3 
+Robert_Sheehan/dRsAW0ly9HQ_0000005 130.8 136.0 
+Robert_Sheehan/dRsAW0ly9HQ_0000006 138.5 143.3 

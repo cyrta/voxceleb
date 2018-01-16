@@ -1,0 +1,9 @@
+POI: 			David_Schwimmer 
+Youtube ID: 	ftuQ0LL5HHo 
+Video length: 	315.9 sec 
+Set (V): 		dev 
+ 
+David_Schwimmer/ftuQ0LL5HHo_0000001 10.8 19.0 
+David_Schwimmer/ftuQ0LL5HHo_0000002 31.8 44.5 
+David_Schwimmer/ftuQ0LL5HHo_0000003 71.6 88.8 
+David_Schwimmer/ftuQ0LL5HHo_0000004 247.1 267.7 

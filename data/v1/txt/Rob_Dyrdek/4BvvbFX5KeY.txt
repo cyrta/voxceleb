@@ -1,0 +1,8 @@
+POI: 			Rob_Dyrdek 
+Youtube ID: 	4BvvbFX5KeY 
+Video length: 	268.0 sec 
+Set (V): 		dev 
+ 
+Rob_Dyrdek/4BvvbFX5KeY_0000001 67.7 75.8 
+Rob_Dyrdek/4BvvbFX5KeY_0000002 110.8 115.4 
+Rob_Dyrdek/4BvvbFX5KeY_0000003 253.1 261.6 

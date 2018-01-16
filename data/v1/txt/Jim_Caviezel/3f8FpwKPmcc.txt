@@ -1,0 +1,10 @@
+POI: 			Jim_Caviezel 
+Youtube ID: 	3f8FpwKPmcc 
+Video length: 	388.1 sec 
+Set (V): 		dev 
+ 
+Jim_Caviezel/3f8FpwKPmcc_0000001 150.9 157.4 
+Jim_Caviezel/3f8FpwKPmcc_0000002 172.8 177.7 
+Jim_Caviezel/3f8FpwKPmcc_0000003 290.5 295.0 
+Jim_Caviezel/3f8FpwKPmcc_0000004 311.1 315.9 
+Jim_Caviezel/3f8FpwKPmcc_0000005 321.8 325.8 

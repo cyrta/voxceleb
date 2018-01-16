@@ -1,0 +1,30 @@
+POI: 			Bruce_Boxleitner 
+Youtube ID: 	qg0s52gex0g 
+Video length: 	746.7 sec 
+Set (V): 		dev 
+ 
+Bruce_Boxleitner/qg0s52gex0g_0000001 45.0 70.9 
+Bruce_Boxleitner/qg0s52gex0g_0000002 71.6 81.6 
+Bruce_Boxleitner/qg0s52gex0g_0000003 81.7 90.7 
+Bruce_Boxleitner/qg0s52gex0g_0000004 92.8 103.1 
+Bruce_Boxleitner/qg0s52gex0g_0000005 106.2 113.7 
+Bruce_Boxleitner/qg0s52gex0g_0000006 119.4 125.2 
+Bruce_Boxleitner/qg0s52gex0g_0000007 129.2 133.2 
+Bruce_Boxleitner/qg0s52gex0g_0000008 134.2 142.4 
+Bruce_Boxleitner/qg0s52gex0g_0000009 144.6 159.7 
+Bruce_Boxleitner/qg0s52gex0g_0000010 262.8 284.6 
+Bruce_Boxleitner/qg0s52gex0g_0000011 286.9 294.5 
+Bruce_Boxleitner/qg0s52gex0g_0000012 360.7 365.7 
+Bruce_Boxleitner/qg0s52gex0g_0000013 397.9 410.3 
+Bruce_Boxleitner/qg0s52gex0g_0000014 415.4 439.6 
+Bruce_Boxleitner/qg0s52gex0g_0000015 475.4 485.1 
+Bruce_Boxleitner/qg0s52gex0g_0000016 482.0 498.0 
+Bruce_Boxleitner/qg0s52gex0g_0000017 538.5 547.7 
+Bruce_Boxleitner/qg0s52gex0g_0000018 558.4 572.5 
+Bruce_Boxleitner/qg0s52gex0g_0000019 581.6 586.2 
+Bruce_Boxleitner/qg0s52gex0g_0000020 588.4 601.6 
+Bruce_Boxleitner/qg0s52gex0g_0000021 637.1 645.2 
+Bruce_Boxleitner/qg0s52gex0g_0000022 645.4 650.0 
+Bruce_Boxleitner/qg0s52gex0g_0000023 653.0 662.4 
+Bruce_Boxleitner/qg0s52gex0g_0000024 682.3 694.8 
+Bruce_Boxleitner/qg0s52gex0g_0000025 713.3 720.0 

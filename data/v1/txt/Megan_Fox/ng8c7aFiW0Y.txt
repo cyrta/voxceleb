@@ -1,0 +1,11 @@
+POI: 			Megan_Fox 
+Youtube ID: 	ng8c7aFiW0Y 
+Video length: 	600.9 sec 
+Set (V): 		dev 
+ 
+Megan_Fox/ng8c7aFiW0Y_0000001 292.6 298.0 
+Megan_Fox/ng8c7aFiW0Y_0000002 304.0 308.2 
+Megan_Fox/ng8c7aFiW0Y_0000003 325.1 334.0 
+Megan_Fox/ng8c7aFiW0Y_0000004 370.6 377.3 
+Megan_Fox/ng8c7aFiW0Y_0000005 541.8 548.8 
+Megan_Fox/ng8c7aFiW0Y_0000006 568.1 572.8 

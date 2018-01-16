@@ -1,0 +1,14 @@
+POI: 			Simon_Callow 
+Youtube ID: 	elXAdUm781I 
+Video length: 	152.1 sec 
+Set (V): 		dev 
+ 
+Simon_Callow/elXAdUm781I_0000001 11.2 30.6 
+Simon_Callow/elXAdUm781I_0000002 31.4 39.2 
+Simon_Callow/elXAdUm781I_0000003 40.2 49.2 
+Simon_Callow/elXAdUm781I_0000004 58.2 65.4 
+Simon_Callow/elXAdUm781I_0000005 68.4 84.6 
+Simon_Callow/elXAdUm781I_0000006 89.3 95.7 
+Simon_Callow/elXAdUm781I_0000007 95.8 105.2 
+Simon_Callow/elXAdUm781I_0000008 105.8 120.9 
+Simon_Callow/elXAdUm781I_0000009 123.2 136.2 

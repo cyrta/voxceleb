@@ -1,0 +1,7 @@
+POI: 			Leonor_Watling 
+Youtube ID: 	iOpqNblDlJU 
+Video length: 	245.8 sec 
+Set (V): 		dev 
+ 
+Leonor_Watling/iOpqNblDlJU_0000001 61.0 66.3 
+Leonor_Watling/iOpqNblDlJU_0000002 78.0 82.1 

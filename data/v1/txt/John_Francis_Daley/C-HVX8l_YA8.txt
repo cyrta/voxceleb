@@ -1,0 +1,14 @@
+POI: 			John_Francis_Daley 
+Youtube ID: 	C-HVX8l_YA8 
+Video length: 	254.5 sec 
+Set (V): 		dev 
+ 
+John_Francis_Daley/C-HVX8l_YA8_0000001 40.1 44.9 
+John_Francis_Daley/C-HVX8l_YA8_0000002 65.1 74.7 
+John_Francis_Daley/C-HVX8l_YA8_0000003 76.9 83.6 
+John_Francis_Daley/C-HVX8l_YA8_0000004 118.8 130.8 
+John_Francis_Daley/C-HVX8l_YA8_0000005 155.5 161.4 
+John_Francis_Daley/C-HVX8l_YA8_0000006 162.8 170.7 
+John_Francis_Daley/C-HVX8l_YA8_0000007 178.1 187.4 
+John_Francis_Daley/C-HVX8l_YA8_0000008 208.9 218.6 
+John_Francis_Daley/C-HVX8l_YA8_0000009 240.9 249.1 

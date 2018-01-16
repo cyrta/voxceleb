@@ -1,0 +1,10 @@
+POI: 			Vanessa_Marcil 
+Youtube ID: 	JiBOwLur0VA 
+Video length: 	602.1 sec 
+Set (V): 		dev 
+ 
+Vanessa_Marcil/JiBOwLur0VA_0000001 218.2 224.1 
+Vanessa_Marcil/JiBOwLur0VA_0000002 275.4 279.7 
+Vanessa_Marcil/JiBOwLur0VA_0000003 292.7 298.4 
+Vanessa_Marcil/JiBOwLur0VA_0000004 530.0 536.3 
+Vanessa_Marcil/JiBOwLur0VA_0000005 563.8 568.3 

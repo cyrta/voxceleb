@@ -1,0 +1,12 @@
+POI: 			Brit_Marling 
+Youtube ID: 	Xi0jMZh_UG8 
+Video length: 	467.9 sec 
+Set (V): 		dev 
+ 
+Brit_Marling/Xi0jMZh_UG8_0000001 57.0 61.5 
+Brit_Marling/Xi0jMZh_UG8_0000002 63.8 68.7 
+Brit_Marling/Xi0jMZh_UG8_0000003 165.6 171.1 
+Brit_Marling/Xi0jMZh_UG8_0000004 184.4 189.5 
+Brit_Marling/Xi0jMZh_UG8_0000005 302.0 307.6 
+Brit_Marling/Xi0jMZh_UG8_0000006 308.4 314.7 
+Brit_Marling/Xi0jMZh_UG8_0000007 321.1 325.9 

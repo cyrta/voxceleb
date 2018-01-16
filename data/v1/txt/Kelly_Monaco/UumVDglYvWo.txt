@@ -1,0 +1,13 @@
+POI: 			Kelly_Monaco 
+Youtube ID: 	UumVDglYvWo 
+Video length: 	493.2 sec 
+Set (V): 		dev 
+ 
+Kelly_Monaco/UumVDglYvWo_0000001 139.3 147.8 
+Kelly_Monaco/UumVDglYvWo_0000002 220.2 224.6 
+Kelly_Monaco/UumVDglYvWo_0000003 263.6 280.2 
+Kelly_Monaco/UumVDglYvWo_0000004 328.8 334.0 
+Kelly_Monaco/UumVDglYvWo_0000005 335.8 342.1 
+Kelly_Monaco/UumVDglYvWo_0000006 346.6 351.8 
+Kelly_Monaco/UumVDglYvWo_0000007 380.2 389.5 
+Kelly_Monaco/UumVDglYvWo_0000008 412.1 418.6 

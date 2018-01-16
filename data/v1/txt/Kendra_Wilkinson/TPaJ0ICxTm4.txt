@@ -1,0 +1,16 @@
+POI: 			Kendra_Wilkinson 
+Youtube ID: 	TPaJ0ICxTm4 
+Video length: 	522.0 sec 
+Set (V): 		dev 
+ 
+Kendra_Wilkinson/TPaJ0ICxTm4_0000001 56.9 66.2 
+Kendra_Wilkinson/TPaJ0ICxTm4_0000002 79.4 91.2 
+Kendra_Wilkinson/TPaJ0ICxTm4_0000003 92.0 99.1 
+Kendra_Wilkinson/TPaJ0ICxTm4_0000004 99.7 108.2 
+Kendra_Wilkinson/TPaJ0ICxTm4_0000005 286.5 292.3 
+Kendra_Wilkinson/TPaJ0ICxTm4_0000006 318.8 338.0 
+Kendra_Wilkinson/TPaJ0ICxTm4_0000007 362.7 379.6 
+Kendra_Wilkinson/TPaJ0ICxTm4_0000008 382.8 388.5 
+Kendra_Wilkinson/TPaJ0ICxTm4_0000009 397.4 404.9 
+Kendra_Wilkinson/TPaJ0ICxTm4_0000010 405.3 412.2 
+Kendra_Wilkinson/TPaJ0ICxTm4_0000011 412.5 425.1 

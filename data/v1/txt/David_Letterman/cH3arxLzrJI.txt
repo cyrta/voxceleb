@@ -1,0 +1,6 @@
+POI: 			David_Letterman 
+Youtube ID: 	cH3arxLzrJI 
+Video length: 	843.1 sec 
+Set (V): 		dev 
+ 
+David_Letterman/cH3arxLzrJI_0000001 00.8 13.6 

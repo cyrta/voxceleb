@@ -1,0 +1,10 @@
+POI: 			Maya_Rudolph 
+Youtube ID: 	jYNISVyzLUQ 
+Video length: 	313.7 sec 
+Set (V): 		dev 
+ 
+Maya_Rudolph/jYNISVyzLUQ_0000001 53.3 65.8 
+Maya_Rudolph/jYNISVyzLUQ_0000002 103.1 120.8 
+Maya_Rudolph/jYNISVyzLUQ_0000003 122.2 126.8 
+Maya_Rudolph/jYNISVyzLUQ_0000004 216.2 220.2 
+Maya_Rudolph/jYNISVyzLUQ_0000005 267.3 279.0 

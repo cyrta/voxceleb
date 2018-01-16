@@ -1,0 +1,7 @@
+POI: 			Kate_McKinnon 
+Youtube ID: 	Dm3Htyp-iI4 
+Video length: 	44.1 sec 
+Set (V): 		dev 
+ 
+Kate_McKinnon/Dm3Htyp-iI4_0000001 13.8 17.9 
+Kate_McKinnon/Dm3Htyp-iI4_0000002 28.2 32.8 

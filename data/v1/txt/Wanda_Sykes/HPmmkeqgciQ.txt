@@ -1,0 +1,7 @@
+POI: 			Wanda_Sykes 
+Youtube ID: 	HPmmkeqgciQ 
+Video length: 	346.7 sec 
+Set (V): 		dev 
+ 
+Wanda_Sykes/HPmmkeqgciQ_0000001 98.0 105.3 
+Wanda_Sykes/HPmmkeqgciQ_0000002 223.4 229.4 

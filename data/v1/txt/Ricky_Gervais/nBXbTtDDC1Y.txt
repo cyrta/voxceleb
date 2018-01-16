@@ -1,0 +1,17 @@
+POI: 			Ricky_Gervais 
+Youtube ID: 	nBXbTtDDC1Y 
+Video length: 	565.8 sec 
+Set (V): 		dev 
+ 
+Ricky_Gervais/nBXbTtDDC1Y_0000001 186.7 198.6 
+Ricky_Gervais/nBXbTtDDC1Y_0000002 256.4 261.7 
+Ricky_Gervais/nBXbTtDDC1Y_0000003 270.4 277.6 
+Ricky_Gervais/nBXbTtDDC1Y_0000004 278.2 283.1 
+Ricky_Gervais/nBXbTtDDC1Y_0000005 331.9 336.0 
+Ricky_Gervais/nBXbTtDDC1Y_0000006 346.0 356.6 
+Ricky_Gervais/nBXbTtDDC1Y_0000007 387.9 392.9 
+Ricky_Gervais/nBXbTtDDC1Y_0000008 401.5 407.2 
+Ricky_Gervais/nBXbTtDDC1Y_0000009 486.7 504.0 
+Ricky_Gervais/nBXbTtDDC1Y_0000010 507.5 513.2 
+Ricky_Gervais/nBXbTtDDC1Y_0000011 516.0 520.3 
+Ricky_Gervais/nBXbTtDDC1Y_0000012 542.2 548.4 

@@ -1,0 +1,7 @@
+POI: 			Deidre_Hall 
+Youtube ID: 	2juzEK82A6Y 
+Video length: 	441.6 sec 
+Set (V): 		dev 
+ 
+Deidre_Hall/2juzEK82A6Y_0000001 278.8 283.4 
+Deidre_Hall/2juzEK82A6Y_0000002 347.0 363.2 

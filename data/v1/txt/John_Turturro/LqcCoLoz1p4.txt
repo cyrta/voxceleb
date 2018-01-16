@@ -1,0 +1,8 @@
+POI: 			John_Turturro 
+Youtube ID: 	LqcCoLoz1p4 
+Video length: 	480.4 sec 
+Set (V): 		dev 
+ 
+John_Turturro/LqcCoLoz1p4_0000001 130.2 134.4 
+John_Turturro/LqcCoLoz1p4_0000002 136.6 142.4 
+John_Turturro/LqcCoLoz1p4_0000003 444.0 452.1 

@@ -1,0 +1,9 @@
+POI: 			Tyler_Hoechlin 
+Youtube ID: 	ebbaSmkuPaE 
+Video length: 	118.6 sec 
+Set (V): 		dev 
+ 
+Tyler_Hoechlin/ebbaSmkuPaE_0000001 12.4 42.2 
+Tyler_Hoechlin/ebbaSmkuPaE_0000002 55.3 61.6 
+Tyler_Hoechlin/ebbaSmkuPaE_0000003 95.6 103.2 
+Tyler_Hoechlin/ebbaSmkuPaE_0000004 105.7 113.5 

@@ -1,0 +1,16 @@
+POI: 			Sally_Hawkins 
+Youtube ID: 	WYW3w4R6xt8 
+Video length: 	369.2 sec 
+Set (V): 		dev 
+ 
+Sally_Hawkins/WYW3w4R6xt8_0000001 08.6 13.6 
+Sally_Hawkins/WYW3w4R6xt8_0000002 14.2 20.2 
+Sally_Hawkins/WYW3w4R6xt8_0000003 20.2 26.2 
+Sally_Hawkins/WYW3w4R6xt8_0000004 30.4 37.3 
+Sally_Hawkins/WYW3w4R6xt8_0000005 47.0 53.1 
+Sally_Hawkins/WYW3w4R6xt8_0000006 116.5 129.4 
+Sally_Hawkins/WYW3w4R6xt8_0000007 188.2 192.8 
+Sally_Hawkins/WYW3w4R6xt8_0000008 200.8 216.4 
+Sally_Hawkins/WYW3w4R6xt8_0000009 221.4 228.8 
+Sally_Hawkins/WYW3w4R6xt8_0000010 244.8 255.0 
+Sally_Hawkins/WYW3w4R6xt8_0000011 256.2 260.7 

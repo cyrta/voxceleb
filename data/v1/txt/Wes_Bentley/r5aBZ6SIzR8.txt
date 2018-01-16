@@ -1,0 +1,11 @@
+POI: 			Wes_Bentley 
+Youtube ID: 	r5aBZ6SIzR8 
+Video length: 	179.3 sec 
+Set (V): 		dev 
+ 
+Wes_Bentley/r5aBZ6SIzR8_0000001 02.4 15.8 
+Wes_Bentley/r5aBZ6SIzR8_0000002 22.7 27.8 
+Wes_Bentley/r5aBZ6SIzR8_0000003 52.5 65.1 
+Wes_Bentley/r5aBZ6SIzR8_0000004 82.4 107.8 
+Wes_Bentley/r5aBZ6SIzR8_0000005 108.7 113.7 
+Wes_Bentley/r5aBZ6SIzR8_0000006 151.8 158.4 

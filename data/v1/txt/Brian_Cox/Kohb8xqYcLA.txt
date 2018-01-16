@@ -1,0 +1,10 @@
+POI: 			Brian_Cox 
+Youtube ID: 	Kohb8xqYcLA 
+Video length: 	280.9 sec 
+Set (V): 		dev 
+ 
+Brian_Cox/Kohb8xqYcLA_0000001 60.8 72.8 
+Brian_Cox/Kohb8xqYcLA_0000002 120.6 134.5 
+Brian_Cox/Kohb8xqYcLA_0000003 150.7 154.7 
+Brian_Cox/Kohb8xqYcLA_0000004 159.8 164.0 
+Brian_Cox/Kohb8xqYcLA_0000005 250.8 259.0 

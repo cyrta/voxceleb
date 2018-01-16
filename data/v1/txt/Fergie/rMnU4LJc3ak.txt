@@ -1,0 +1,14 @@
+POI: 			Fergie 
+Youtube ID: 	rMnU4LJc3ak 
+Video length: 	399.4 sec 
+Set (V): 		dev 
+ 
+Fergie/rMnU4LJc3ak_0000001 41.8 46.0 
+Fergie/rMnU4LJc3ak_0000002 74.8 89.6 
+Fergie/rMnU4LJc3ak_0000003 101.5 107.8 
+Fergie/rMnU4LJc3ak_0000004 114.9 122.4 
+Fergie/rMnU4LJc3ak_0000005 121.8 126.6 
+Fergie/rMnU4LJc3ak_0000006 131.6 141.1 
+Fergie/rMnU4LJc3ak_0000007 149.8 165.0 
+Fergie/rMnU4LJc3ak_0000008 235.6 245.0 
+Fergie/rMnU4LJc3ak_0000009 248.3 252.9 

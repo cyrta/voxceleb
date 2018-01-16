@@ -1,0 +1,7 @@
+POI: 			America_Ferrera 
+Youtube ID: 	NzZ9dC9TGmc 
+Video length: 	168.0 sec 
+Set (V): 		dev 
+ 
+America_Ferrera/NzZ9dC9TGmc_0000001 143.1 147.6 
+America_Ferrera/NzZ9dC9TGmc_0000002 150.8 155.6 

@@ -1,0 +1,10 @@
+POI: 			Jason_Segel 
+Youtube ID: 	2q9ZA1_VeGM 
+Video length: 	262.7 sec 
+Set (V): 		dev 
+ 
+Jason_Segel/2q9ZA1_VeGM_0000001 10.6 16.0 
+Jason_Segel/2q9ZA1_VeGM_0000002 17.5 22.0 
+Jason_Segel/2q9ZA1_VeGM_0000003 49.1 56.2 
+Jason_Segel/2q9ZA1_VeGM_0000004 99.0 105.6 
+Jason_Segel/2q9ZA1_VeGM_0000005 173.9 178.0 

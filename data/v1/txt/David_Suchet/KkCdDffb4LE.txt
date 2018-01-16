@@ -1,0 +1,18 @@
+POI: 			David_Suchet 
+Youtube ID: 	KkCdDffb4LE 
+Video length: 	315.1 sec 
+Set (V): 		dev 
+ 
+David_Suchet/KkCdDffb4LE_0000001 33.9 39.7 
+David_Suchet/KkCdDffb4LE_0000002 45.6 62.4 
+David_Suchet/KkCdDffb4LE_0000003 65.2 73.0 
+David_Suchet/KkCdDffb4LE_0000004 89.4 93.6 
+David_Suchet/KkCdDffb4LE_0000005 99.0 103.2 
+David_Suchet/KkCdDffb4LE_0000006 111.2 117.0 
+David_Suchet/KkCdDffb4LE_0000007 117.8 127.8 
+David_Suchet/KkCdDffb4LE_0000008 151.8 162.8 
+David_Suchet/KkCdDffb4LE_0000009 167.1 171.7 
+David_Suchet/KkCdDffb4LE_0000010 176.0 191.8 
+David_Suchet/KkCdDffb4LE_0000011 252.6 258.6 
+David_Suchet/KkCdDffb4LE_0000012 266.5 272.0 
+David_Suchet/KkCdDffb4LE_0000013 274.6 280.0 

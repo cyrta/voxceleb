@@ -1,0 +1,13 @@
+POI: 			John_Amos 
+Youtube ID: 	SWTO7CfrXb4 
+Video length: 	109.9 sec 
+Set (V): 		dev 
+ 
+John_Amos/SWTO7CfrXb4_0000001 10.8 15.2 
+John_Amos/SWTO7CfrXb4_0000002 15.7 20.8 
+John_Amos/SWTO7CfrXb4_0000003 21.1 31.3 
+John_Amos/SWTO7CfrXb4_0000004 32.2 37.6 
+John_Amos/SWTO7CfrXb4_0000005 39.2 43.6 
+John_Amos/SWTO7CfrXb4_0000006 53.5 58.8 
+John_Amos/SWTO7CfrXb4_0000007 60.7 67.2 
+John_Amos/SWTO7CfrXb4_0000008 87.5 91.9 

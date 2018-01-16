@@ -1,0 +1,7 @@
+POI: 			Sarah_Paulson 
+Youtube ID: 	Mj2pUmnXX98 
+Video length: 	212.4 sec 
+Set (V): 		dev 
+ 
+Sarah_Paulson/Mj2pUmnXX98_0000001 78.2 82.8 
+Sarah_Paulson/Mj2pUmnXX98_0000002 173.7 178.0 

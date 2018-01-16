@@ -1,0 +1,8 @@
+POI: 			Thomas_Dekker 
+Youtube ID: 	nZEFfI9XNM8 
+Video length: 	178.1 sec 
+Set (V): 		dev 
+ 
+Thomas_Dekker/nZEFfI9XNM8_0000001 46.6 51.4 
+Thomas_Dekker/nZEFfI9XNM8_0000002 62.1 68.5 
+Thomas_Dekker/nZEFfI9XNM8_0000003 134.0 138.8 

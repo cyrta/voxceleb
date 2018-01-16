@@ -1,0 +1,17 @@
+POI: 			Roger_Ebert 
+Youtube ID: 	8FCVlQ_5aSI 
+Video length: 	290.6 sec 
+Set (V): 		dev 
+ 
+Roger_Ebert/8FCVlQ_5aSI_0000001 97.4 101.5 
+Roger_Ebert/8FCVlQ_5aSI_0000002 102.7 108.2 
+Roger_Ebert/8FCVlQ_5aSI_0000003 111.6 116.8 
+Roger_Ebert/8FCVlQ_5aSI_0000004 117.9 125.9 
+Roger_Ebert/8FCVlQ_5aSI_0000005 136.0 142.2 
+Roger_Ebert/8FCVlQ_5aSI_0000006 181.9 187.3 
+Roger_Ebert/8FCVlQ_5aSI_0000007 197.7 202.4 
+Roger_Ebert/8FCVlQ_5aSI_0000008 207.4 213.8 
+Roger_Ebert/8FCVlQ_5aSI_0000009 217.6 222.0 
+Roger_Ebert/8FCVlQ_5aSI_0000010 233.3 238.8 
+Roger_Ebert/8FCVlQ_5aSI_0000011 246.4 251.4 
+Roger_Ebert/8FCVlQ_5aSI_0000012 260.1 264.3 

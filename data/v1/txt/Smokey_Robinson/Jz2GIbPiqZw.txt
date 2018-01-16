@@ -1,0 +1,11 @@
+POI: 			Smokey_Robinson 
+Youtube ID: 	Jz2GIbPiqZw 
+Video length: 	198.3 sec 
+Set (V): 		dev 
+ 
+Smokey_Robinson/Jz2GIbPiqZw_0000001 65.5 77.2 
+Smokey_Robinson/Jz2GIbPiqZw_0000002 82.2 91.3 
+Smokey_Robinson/Jz2GIbPiqZw_0000003 100.8 110.6 
+Smokey_Robinson/Jz2GIbPiqZw_0000004 115.8 123.1 
+Smokey_Robinson/Jz2GIbPiqZw_0000005 135.8 139.8 
+Smokey_Robinson/Jz2GIbPiqZw_0000006 160.5 179.7 

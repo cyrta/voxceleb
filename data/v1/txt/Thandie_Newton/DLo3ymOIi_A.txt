@@ -1,0 +1,14 @@
+POI: 			Thandie_Newton 
+Youtube ID: 	DLo3ymOIi_A 
+Video length: 	227.6 sec 
+Set (V): 		dev 
+ 
+Thandie_Newton/DLo3ymOIi_A_0000001 68.6 75.4 
+Thandie_Newton/DLo3ymOIi_A_0000002 79.4 95.0 
+Thandie_Newton/DLo3ymOIi_A_0000003 118.6 123.8 
+Thandie_Newton/DLo3ymOIi_A_0000004 146.7 156.2 
+Thandie_Newton/DLo3ymOIi_A_0000005 167.2 175.0 
+Thandie_Newton/DLo3ymOIi_A_0000006 176.2 181.7 
+Thandie_Newton/DLo3ymOIi_A_0000007 187.0 192.1 
+Thandie_Newton/DLo3ymOIi_A_0000008 203.7 208.5 
+Thandie_Newton/DLo3ymOIi_A_0000009 212.2 219.6 

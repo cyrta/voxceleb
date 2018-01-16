@@ -1,0 +1,7 @@
+POI: 			Zoe_Saldana 
+Youtube ID: 	RlKzQOY9iOM 
+Video length: 	92.7 sec 
+Set (V): 		dev 
+ 
+Zoe_Saldana/RlKzQOY9iOM_0000001 32.0 38.9 
+Zoe_Saldana/RlKzQOY9iOM_0000002 56.9 69.2 

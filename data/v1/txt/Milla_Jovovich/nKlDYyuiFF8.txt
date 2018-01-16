@@ -1,0 +1,15 @@
+POI: 			Milla_Jovovich 
+Youtube ID: 	nKlDYyuiFF8 
+Video length: 	439.2 sec 
+Set (V): 		dev 
+ 
+Milla_Jovovich/nKlDYyuiFF8_0000001 52.4 61.1 
+Milla_Jovovich/nKlDYyuiFF8_0000002 206.0 213.7 
+Milla_Jovovich/nKlDYyuiFF8_0000003 227.7 232.3 
+Milla_Jovovich/nKlDYyuiFF8_0000004 236.8 241.3 
+Milla_Jovovich/nKlDYyuiFF8_0000005 241.4 255.5 
+Milla_Jovovich/nKlDYyuiFF8_0000006 260.4 264.7 
+Milla_Jovovich/nKlDYyuiFF8_0000007 291.2 299.3 
+Milla_Jovovich/nKlDYyuiFF8_0000008 307.8 316.9 
+Milla_Jovovich/nKlDYyuiFF8_0000009 322.3 329.3 
+Milla_Jovovich/nKlDYyuiFF8_0000010 391.2 397.7 

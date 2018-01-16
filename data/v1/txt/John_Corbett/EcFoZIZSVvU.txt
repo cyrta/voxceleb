@@ -1,0 +1,9 @@
+POI: 			John_Corbett 
+Youtube ID: 	EcFoZIZSVvU 
+Video length: 	175.1 sec 
+Set (V): 		dev 
+ 
+John_Corbett/EcFoZIZSVvU_0000001 33.0 37.4 
+John_Corbett/EcFoZIZSVvU_0000002 51.9 58.6 
+John_Corbett/EcFoZIZSVvU_0000003 64.9 69.9 
+John_Corbett/EcFoZIZSVvU_0000004 145.0 157.4 

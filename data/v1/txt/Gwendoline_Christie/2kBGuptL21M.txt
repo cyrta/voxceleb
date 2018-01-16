@@ -1,0 +1,14 @@
+POI: 			Gwendoline_Christie 
+Youtube ID: 	2kBGuptL21M 
+Video length: 	180.2 sec 
+Set (V): 		dev 
+ 
+Gwendoline_Christie/2kBGuptL21M_0000001 05.7 20.8 
+Gwendoline_Christie/2kBGuptL21M_0000002 21.8 31.2 
+Gwendoline_Christie/2kBGuptL21M_0000003 34.3 41.4 
+Gwendoline_Christie/2kBGuptL21M_0000004 46.0 112.8 
+Gwendoline_Christie/2kBGuptL21M_0000005 113.0 119.5 
+Gwendoline_Christie/2kBGuptL21M_0000006 122.4 144.4 
+Gwendoline_Christie/2kBGuptL21M_0000007 147.3 168.1 
+Gwendoline_Christie/2kBGuptL21M_0000008 153.0 162.4 
+Gwendoline_Christie/2kBGuptL21M_0000009 166.6 178.8 

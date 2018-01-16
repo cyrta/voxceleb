@@ -1,0 +1,7 @@
+POI: 			Carolyn_Hennesy 
+Youtube ID: 	vcBU70vlz2s 
+Video length: 	165.7 sec 
+Set (V): 		dev 
+ 
+Carolyn_Hennesy/vcBU70vlz2s_0000001 29.2 33.5 
+Carolyn_Hennesy/vcBU70vlz2s_0000002 48.6 56.8 

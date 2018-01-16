@@ -1,0 +1,13 @@
+POI: 			Dominic_Cooper 
+Youtube ID: 	agesAg7j68U 
+Video length: 	427.0 sec 
+Set (V): 		dev 
+ 
+Dominic_Cooper/agesAg7j68U_0000001 97.2 101.7 
+Dominic_Cooper/agesAg7j68U_0000002 101.9 107.2 
+Dominic_Cooper/agesAg7j68U_0000003 129.5 140.0 
+Dominic_Cooper/agesAg7j68U_0000004 318.7 323.4 
+Dominic_Cooper/agesAg7j68U_0000005 360.7 366.9 
+Dominic_Cooper/agesAg7j68U_0000006 370.0 376.9 
+Dominic_Cooper/agesAg7j68U_0000007 360.7 366.5 
+Dominic_Cooper/agesAg7j68U_0000008 367.4 377.5 

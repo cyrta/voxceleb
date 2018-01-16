@@ -1,0 +1,33 @@
+POI: 			Edgar_Wright 
+Youtube ID: 	5YncBThNd5E 
+Video length: 	649.7 sec 
+Set (V): 		test 
+ 
+Edgar_Wright/5YncBThNd5E_0000001 21.6 27.2 
+Edgar_Wright/5YncBThNd5E_0000002 39.7 46.1 
+Edgar_Wright/5YncBThNd5E_0000003 66.2 70.3 
+Edgar_Wright/5YncBThNd5E_0000004 80.2 85.8 
+Edgar_Wright/5YncBThNd5E_0000005 86.1 92.8 
+Edgar_Wright/5YncBThNd5E_0000006 118.3 123.4 
+Edgar_Wright/5YncBThNd5E_0000007 145.0 150.2 
+Edgar_Wright/5YncBThNd5E_0000008 170.5 176.6 
+Edgar_Wright/5YncBThNd5E_0000009 202.3 206.9 
+Edgar_Wright/5YncBThNd5E_0000010 237.0 242.1 
+Edgar_Wright/5YncBThNd5E_0000011 245.8 253.8 
+Edgar_Wright/5YncBThNd5E_0000012 259.5 264.0 
+Edgar_Wright/5YncBThNd5E_0000013 307.9 314.1 
+Edgar_Wright/5YncBThNd5E_0000014 314.7 320.4 
+Edgar_Wright/5YncBThNd5E_0000015 321.0 326.1 
+Edgar_Wright/5YncBThNd5E_0000016 340.2 347.6 
+Edgar_Wright/5YncBThNd5E_0000017 350.7 355.6 
+Edgar_Wright/5YncBThNd5E_0000018 356.3 360.6 
+Edgar_Wright/5YncBThNd5E_0000019 374.8 379.8 
+Edgar_Wright/5YncBThNd5E_0000020 380.6 396.2 
+Edgar_Wright/5YncBThNd5E_0000021 405.9 414.3 
+Edgar_Wright/5YncBThNd5E_0000022 414.5 419.7 
+Edgar_Wright/5YncBThNd5E_0000023 423.8 435.0 
+Edgar_Wright/5YncBThNd5E_0000024 457.5 477.0 
+Edgar_Wright/5YncBThNd5E_0000025 478.3 486.8 
+Edgar_Wright/5YncBThNd5E_0000026 494.9 500.0 
+Edgar_Wright/5YncBThNd5E_0000027 554.6 558.7 
+Edgar_Wright/5YncBThNd5E_0000028 564.4 571.6 

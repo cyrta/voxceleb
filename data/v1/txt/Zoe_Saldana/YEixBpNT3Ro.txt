@@ -1,0 +1,15 @@
+POI: 			Zoe_Saldana 
+Youtube ID: 	YEixBpNT3Ro 
+Video length: 	263.9 sec 
+Set (V): 		dev 
+ 
+Zoe_Saldana/YEixBpNT3Ro_0000001 19.7 25.7 
+Zoe_Saldana/YEixBpNT3Ro_0000002 28.0 37.7 
+Zoe_Saldana/YEixBpNT3Ro_0000003 38.1 45.4 
+Zoe_Saldana/YEixBpNT3Ro_0000004 52.6 57.8 
+Zoe_Saldana/YEixBpNT3Ro_0000005 71.8 83.4 
+Zoe_Saldana/YEixBpNT3Ro_0000006 89.7 94.7 
+Zoe_Saldana/YEixBpNT3Ro_0000007 100.6 113.6 
+Zoe_Saldana/YEixBpNT3Ro_0000008 114.5 126.0 
+Zoe_Saldana/YEixBpNT3Ro_0000009 161.2 170.1 
+Zoe_Saldana/YEixBpNT3Ro_0000010 193.3 200.2 

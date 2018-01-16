@@ -1,0 +1,13 @@
+POI: 			Tom_Mison 
+Youtube ID: 	DJowH0WwIac 
+Video length: 	589.2 sec 
+Set (V): 		dev 
+ 
+Tom_Mison/DJowH0WwIac_0000001 22.6 26.7 
+Tom_Mison/DJowH0WwIac_0000002 27.3 33.1 
+Tom_Mison/DJowH0WwIac_0000003 189.6 195.1 
+Tom_Mison/DJowH0WwIac_0000004 238.6 243.6 
+Tom_Mison/DJowH0WwIac_0000005 300.1 304.2 
+Tom_Mison/DJowH0WwIac_0000006 454.0 462.4 
+Tom_Mison/DJowH0WwIac_0000007 473.3 477.7 
+Tom_Mison/DJowH0WwIac_0000008 483.5 489.0 

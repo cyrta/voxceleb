@@ -1,0 +1,9 @@
+POI: 			Wentworth_Miller 
+Youtube ID: 	szEg3zH6lr8 
+Video length: 	445.4 sec 
+Set (V): 		dev 
+ 
+Wentworth_Miller/szEg3zH6lr8_0000001 48.1 59.3 
+Wentworth_Miller/szEg3zH6lr8_0000002 101.8 106.7 
+Wentworth_Miller/szEg3zH6lr8_0000003 107.9 116.8 
+Wentworth_Miller/szEg3zH6lr8_0000004 120.0 125.2 

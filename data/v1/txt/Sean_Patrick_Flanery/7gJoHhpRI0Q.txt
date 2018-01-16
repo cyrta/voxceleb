@@ -1,0 +1,7 @@
+POI: 			Sean_Patrick_Flanery 
+Youtube ID: 	7gJoHhpRI0Q 
+Video length: 	1098.8 sec 
+Set (V): 		dev 
+ 
+Sean_Patrick_Flanery/7gJoHhpRI0Q_0000001 53.1 67.9 
+Sean_Patrick_Flanery/7gJoHhpRI0Q_0000002 469.1 473.2 

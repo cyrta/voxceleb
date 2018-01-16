@@ -1,0 +1,12 @@
+POI: 			Chris_Martin 
+Youtube ID: 	zdSfoQVrk-0 
+Video length: 	900.2 sec 
+Set (V): 		dev 
+ 
+Chris_Martin/zdSfoQVrk-0_0000001 10.3 15.1 
+Chris_Martin/zdSfoQVrk-0_0000002 309.4 313.4 
+Chris_Martin/zdSfoQVrk-0_0000003 314.3 320.6 
+Chris_Martin/zdSfoQVrk-0_0000004 443.8 448.4 
+Chris_Martin/zdSfoQVrk-0_0000005 555.6 561.7 
+Chris_Martin/zdSfoQVrk-0_0000006 570.1 576.4 
+Chris_Martin/zdSfoQVrk-0_0000007 869.4 881.5 

@@ -1,0 +1,11 @@
+POI: 			Eli_Roth 
+Youtube ID: 	GcHWzqveqyc 
+Video length: 	596.7 sec 
+Set (V): 		test 
+ 
+Eli_Roth/GcHWzqveqyc_0000001 169.1 174.2 
+Eli_Roth/GcHWzqveqyc_0000002 174.4 185.2 
+Eli_Roth/GcHWzqveqyc_0000003 186.2 194.1 
+Eli_Roth/GcHWzqveqyc_0000004 203.6 218.2 
+Eli_Roth/GcHWzqveqyc_0000005 228.8 249.3 
+Eli_Roth/GcHWzqveqyc_0000006 452.4 463.8 

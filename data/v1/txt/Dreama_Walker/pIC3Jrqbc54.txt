@@ -1,0 +1,14 @@
+POI: 			Dreama_Walker 
+Youtube ID: 	pIC3Jrqbc54 
+Video length: 	338.1 sec 
+Set (V): 		dev 
+ 
+Dreama_Walker/pIC3Jrqbc54_0000001 53.0 57.8 
+Dreama_Walker/pIC3Jrqbc54_0000002 64.0 72.7 
+Dreama_Walker/pIC3Jrqbc54_0000003 111.1 115.9 
+Dreama_Walker/pIC3Jrqbc54_0000004 157.0 161.4 
+Dreama_Walker/pIC3Jrqbc54_0000005 161.5 166.8 
+Dreama_Walker/pIC3Jrqbc54_0000006 186.1 202.2 
+Dreama_Walker/pIC3Jrqbc54_0000007 208.2 230.8 
+Dreama_Walker/pIC3Jrqbc54_0000008 243.4 258.2 
+Dreama_Walker/pIC3Jrqbc54_0000009 299.8 310.1 

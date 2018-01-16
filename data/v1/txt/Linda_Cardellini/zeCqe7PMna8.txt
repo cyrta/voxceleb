@@ -1,0 +1,16 @@
+POI: 			Linda_Cardellini 
+Youtube ID: 	zeCqe7PMna8 
+Video length: 	211.0 sec 
+Set (V): 		dev 
+ 
+Linda_Cardellini/zeCqe7PMna8_0000001 06.2 14.8 
+Linda_Cardellini/zeCqe7PMna8_0000002 20.2 24.9 
+Linda_Cardellini/zeCqe7PMna8_0000003 27.6 33.8 
+Linda_Cardellini/zeCqe7PMna8_0000004 48.0 63.6 
+Linda_Cardellini/zeCqe7PMna8_0000005 64.3 72.6 
+Linda_Cardellini/zeCqe7PMna8_0000006 91.1 98.1 
+Linda_Cardellini/zeCqe7PMna8_0000007 99.6 104.9 
+Linda_Cardellini/zeCqe7PMna8_0000008 106.3 122.2 
+Linda_Cardellini/zeCqe7PMna8_0000009 129.1 142.5 
+Linda_Cardellini/zeCqe7PMna8_0000010 153.8 159.9 
+Linda_Cardellini/zeCqe7PMna8_0000011 167.4 175.4 

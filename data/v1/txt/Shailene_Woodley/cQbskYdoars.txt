@@ -1,0 +1,16 @@
+POI: 			Shailene_Woodley 
+Youtube ID: 	cQbskYdoars 
+Video length: 	1043.5 sec 
+Set (V): 		dev 
+ 
+Shailene_Woodley/cQbskYdoars_0000001 41.0 57.8 
+Shailene_Woodley/cQbskYdoars_0000002 58.6 77.8 
+Shailene_Woodley/cQbskYdoars_0000003 205.7 227.2 
+Shailene_Woodley/cQbskYdoars_0000004 391.2 432.2 
+Shailene_Woodley/cQbskYdoars_0000005 561.4 588.0 
+Shailene_Woodley/cQbskYdoars_0000006 617.6 623.8 
+Shailene_Woodley/cQbskYdoars_0000007 640.4 657.6 
+Shailene_Woodley/cQbskYdoars_0000008 662.9 668.5 
+Shailene_Woodley/cQbskYdoars_0000009 825.7 842.1 
+Shailene_Woodley/cQbskYdoars_0000010 842.9 870.8 
+Shailene_Woodley/cQbskYdoars_0000011 1029.9 1034.5 

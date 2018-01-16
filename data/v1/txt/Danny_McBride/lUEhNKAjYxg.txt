@@ -1,0 +1,8 @@
+POI: 			Danny_McBride 
+Youtube ID: 	lUEhNKAjYxg 
+Video length: 	617.8 sec 
+Set (V): 		dev 
+ 
+Danny_McBride/lUEhNKAjYxg_0000001 120.5 125.9 
+Danny_McBride/lUEhNKAjYxg_0000002 126.4 136.0 
+Danny_McBride/lUEhNKAjYxg_0000003 580.3 585.9 

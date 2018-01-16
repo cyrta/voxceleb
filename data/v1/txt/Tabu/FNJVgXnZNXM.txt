@@ -1,0 +1,7 @@
+POI: 			Tabu 
+Youtube ID: 	FNJVgXnZNXM 
+Video length: 	190.8 sec 
+Set (V): 		dev 
+ 
+Tabu/FNJVgXnZNXM_0000001 70.5 76.4 
+Tabu/FNJVgXnZNXM_0000002 100.4 104.4 

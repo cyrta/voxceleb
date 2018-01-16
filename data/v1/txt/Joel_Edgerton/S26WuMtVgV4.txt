@@ -1,0 +1,9 @@
+POI: 			Joel_Edgerton 
+Youtube ID: 	S26WuMtVgV4 
+Video length: 	308.7 sec 
+Set (V): 		dev 
+ 
+Joel_Edgerton/S26WuMtVgV4_0000001 25.3 35.9 
+Joel_Edgerton/S26WuMtVgV4_0000002 144.0 151.6 
+Joel_Edgerton/S26WuMtVgV4_0000003 162.1 182.9 
+Joel_Edgerton/S26WuMtVgV4_0000004 280.4 292.4 

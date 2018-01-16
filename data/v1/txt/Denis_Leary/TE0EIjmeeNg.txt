@@ -1,0 +1,9 @@
+POI: 			Denis_Leary 
+Youtube ID: 	TE0EIjmeeNg 
+Video length: 	322.7 sec 
+Set (V): 		dev 
+ 
+Denis_Leary/TE0EIjmeeNg_0000001 69.4 75.4 
+Denis_Leary/TE0EIjmeeNg_0000002 137.4 143.0 
+Denis_Leary/TE0EIjmeeNg_0000003 145.0 149.8 
+Denis_Leary/TE0EIjmeeNg_0000004 162.0 174.0 

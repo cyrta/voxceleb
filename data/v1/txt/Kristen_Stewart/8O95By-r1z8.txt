@@ -1,0 +1,11 @@
+POI: 			Kristen_Stewart 
+Youtube ID: 	8O95By-r1z8 
+Video length: 	210.4 sec 
+Set (V): 		dev 
+ 
+Kristen_Stewart/8O95By-r1z8_0000001 04.5 10.4 
+Kristen_Stewart/8O95By-r1z8_0000002 10.5 18.5 
+Kristen_Stewart/8O95By-r1z8_0000003 43.8 52.4 
+Kristen_Stewart/8O95By-r1z8_0000004 92.2 97.3 
+Kristen_Stewart/8O95By-r1z8_0000005 163.8 171.0 
+Kristen_Stewart/8O95By-r1z8_0000006 172.5 184.9 

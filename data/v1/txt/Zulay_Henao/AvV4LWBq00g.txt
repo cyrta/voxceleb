@@ -1,0 +1,7 @@
+POI: 			Zulay_Henao 
+Youtube ID: 	AvV4LWBq00g 
+Video length: 	225.4 sec 
+Set (V): 		dev 
+ 
+Zulay_Henao/AvV4LWBq00g_0000001 40.1 45.4 
+Zulay_Henao/AvV4LWBq00g_0000002 154.7 161.0 

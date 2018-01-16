@@ -1,0 +1,12 @@
+POI: 			David_Schwimmer 
+Youtube ID: 	pTWtDb03SmY 
+Video length: 	250.7 sec 
+Set (V): 		dev 
+ 
+David_Schwimmer/pTWtDb03SmY_0000001 45.9 50.4 
+David_Schwimmer/pTWtDb03SmY_0000002 107.4 112.9 
+David_Schwimmer/pTWtDb03SmY_0000003 113.5 118.1 
+David_Schwimmer/pTWtDb03SmY_0000004 118.8 123.9 
+David_Schwimmer/pTWtDb03SmY_0000005 142.5 147.3 
+David_Schwimmer/pTWtDb03SmY_0000006 147.6 157.8 
+David_Schwimmer/pTWtDb03SmY_0000007 195.0 202.7 

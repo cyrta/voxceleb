@@ -1,0 +1,11 @@
+POI: 			Ansel_Elgort 
+Youtube ID: 	eM-NIKxzTPo 
+Video length: 	202.7 sec 
+Set (V): 		dev 
+ 
+Ansel_Elgort/eM-NIKxzTPo_0000001 37.1 55.9 
+Ansel_Elgort/eM-NIKxzTPo_0000002 88.3 94.8 
+Ansel_Elgort/eM-NIKxzTPo_0000003 127.6 131.7 
+Ansel_Elgort/eM-NIKxzTPo_0000004 133.6 138.8 
+Ansel_Elgort/eM-NIKxzTPo_0000005 147.3 151.7 
+Ansel_Elgort/eM-NIKxzTPo_0000006 163.4 171.0 

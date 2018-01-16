@@ -1,0 +1,8 @@
+POI: 			Felicity_Jones 
+Youtube ID: 	TXaxcxZNh0k 
+Video length: 	142.9 sec 
+Set (V): 		dev 
+ 
+Felicity_Jones/TXaxcxZNh0k_0000001 26.3 31.6 
+Felicity_Jones/TXaxcxZNh0k_0000002 32.1 36.4 
+Felicity_Jones/TXaxcxZNh0k_0000003 38.9 48.2 

@@ -1,0 +1,9 @@
+POI: 			Jacqueline_Fernandez 
+Youtube ID: 	JWmB2qk68mU 
+Video length: 	413.2 sec 
+Set (V): 		dev 
+ 
+Jacqueline_Fernandez/JWmB2qk68mU_0000001 28.0 33.4 
+Jacqueline_Fernandez/JWmB2qk68mU_0000002 55.3 59.8 
+Jacqueline_Fernandez/JWmB2qk68mU_0000003 278.3 283.6 
+Jacqueline_Fernandez/JWmB2qk68mU_0000004 336.6 341.1 

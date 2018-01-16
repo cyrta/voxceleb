@@ -1,0 +1,19 @@
+POI: 			Caroline_Rhea 
+Youtube ID: 	pcRnA4g7gKc 
+Video length: 	466.8 sec 
+Set (V): 		dev 
+ 
+Caroline_Rhea/pcRnA4g7gKc_0000001 05.0 11.1 
+Caroline_Rhea/pcRnA4g7gKc_0000002 19.2 23.1 
+Caroline_Rhea/pcRnA4g7gKc_0000003 36.8 47.2 
+Caroline_Rhea/pcRnA4g7gKc_0000004 91.4 96.4 
+Caroline_Rhea/pcRnA4g7gKc_0000005 119.1 124.3 
+Caroline_Rhea/pcRnA4g7gKc_0000006 149.1 153.4 
+Caroline_Rhea/pcRnA4g7gKc_0000007 168.4 174.9 
+Caroline_Rhea/pcRnA4g7gKc_0000008 205.5 210.1 
+Caroline_Rhea/pcRnA4g7gKc_0000009 246.9 253.1 
+Caroline_Rhea/pcRnA4g7gKc_0000010 263.2 269.3 
+Caroline_Rhea/pcRnA4g7gKc_0000011 275.5 291.7 
+Caroline_Rhea/pcRnA4g7gKc_0000012 308.3 312.2 
+Caroline_Rhea/pcRnA4g7gKc_0000013 392.9 396.9 
+Caroline_Rhea/pcRnA4g7gKc_0000014 430.1 436.5 

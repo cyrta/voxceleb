@@ -1,0 +1,7 @@
+POI: 			James_Earl_Jones 
+Youtube ID: 	eXc_PhLn_-A 
+Video length: 	157.8 sec 
+Set (V): 		dev 
+ 
+James_Earl_Jones/eXc_PhLn_-A_0000001 124.9 133.2 
+James_Earl_Jones/eXc_PhLn_-A_0000002 134.8 140.8 

@@ -1,0 +1,9 @@
+POI: 			Alex_Pettyfer 
+Youtube ID: 	dWVH3GfvEm0 
+Video length: 	221.7 sec 
+Set (V): 		dev 
+ 
+Alex_Pettyfer/dWVH3GfvEm0_0000001 60.8 65.3 
+Alex_Pettyfer/dWVH3GfvEm0_0000002 71.6 75.6 
+Alex_Pettyfer/dWVH3GfvEm0_0000003 76.2 85.0 
+Alex_Pettyfer/dWVH3GfvEm0_0000004 201.7 208.8 

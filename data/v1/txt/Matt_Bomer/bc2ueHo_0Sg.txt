@@ -1,0 +1,9 @@
+POI: 			Matt_Bomer 
+Youtube ID: 	bc2ueHo_0Sg 
+Video length: 	179.7 sec 
+Set (V): 		dev 
+ 
+Matt_Bomer/bc2ueHo_0Sg_0000001 51.4 67.8 
+Matt_Bomer/bc2ueHo_0Sg_0000002 78.3 91.7 
+Matt_Bomer/bc2ueHo_0Sg_0000003 149.2 154.8 
+Matt_Bomer/bc2ueHo_0Sg_0000004 165.0 172.9 

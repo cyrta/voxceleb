@@ -1,0 +1,10 @@
+POI: 			Jeremy_Irvine 
+Youtube ID: 	JFawZrc1tNQ 
+Video length: 	121.9 sec 
+Set (V): 		dev 
+ 
+Jeremy_Irvine/JFawZrc1tNQ_0000001 17.1 31.9 
+Jeremy_Irvine/JFawZrc1tNQ_0000002 40.9 62.9 
+Jeremy_Irvine/JFawZrc1tNQ_0000003 74.1 80.5 
+Jeremy_Irvine/JFawZrc1tNQ_0000004 95.8 100.0 
+Jeremy_Irvine/JFawZrc1tNQ_0000005 100.3 113.6 

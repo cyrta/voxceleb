@@ -1,0 +1,16 @@
+POI: 			Olivia_Colman 
+Youtube ID: 	NQ4HOZbjrPo 
+Video length: 	294.1 sec 
+Set (V): 		dev 
+ 
+Olivia_Colman/NQ4HOZbjrPo_0000001 23.4 28.1 
+Olivia_Colman/NQ4HOZbjrPo_0000002 33.2 37.7 
+Olivia_Colman/NQ4HOZbjrPo_0000003 68.1 72.2 
+Olivia_Colman/NQ4HOZbjrPo_0000004 88.9 103.6 
+Olivia_Colman/NQ4HOZbjrPo_0000005 136.0 142.0 
+Olivia_Colman/NQ4HOZbjrPo_0000006 156.7 164.3 
+Olivia_Colman/NQ4HOZbjrPo_0000007 167.3 173.3 
+Olivia_Colman/NQ4HOZbjrPo_0000008 173.8 178.7 
+Olivia_Colman/NQ4HOZbjrPo_0000009 194.5 202.5 
+Olivia_Colman/NQ4HOZbjrPo_0000010 204.8 210.9 
+Olivia_Colman/NQ4HOZbjrPo_0000011 249.1 255.0 

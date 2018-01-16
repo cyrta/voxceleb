@@ -1,0 +1,22 @@
+POI: 			Ron_Livingston 
+Youtube ID: 	m0nm3E2ilXA 
+Video length: 	462.6 sec 
+Set (V): 		dev 
+ 
+Ron_Livingston/m0nm3E2ilXA_0000001 22.0 26.0 
+Ron_Livingston/m0nm3E2ilXA_0000002 26.1 33.3 
+Ron_Livingston/m0nm3E2ilXA_0000003 34.2 40.6 
+Ron_Livingston/m0nm3E2ilXA_0000004 40.7 49.9 
+Ron_Livingston/m0nm3E2ilXA_0000005 57.9 62.8 
+Ron_Livingston/m0nm3E2ilXA_0000006 118.5 133.5 
+Ron_Livingston/m0nm3E2ilXA_0000007 133.6 137.6 
+Ron_Livingston/m0nm3E2ilXA_0000008 187.7 195.6 
+Ron_Livingston/m0nm3E2ilXA_0000009 220.0 229.3 
+Ron_Livingston/m0nm3E2ilXA_0000010 266.3 271.8 
+Ron_Livingston/m0nm3E2ilXA_0000011 272.2 280.3 
+Ron_Livingston/m0nm3E2ilXA_0000012 280.8 289.2 
+Ron_Livingston/m0nm3E2ilXA_0000013 290.2 295.7 
+Ron_Livingston/m0nm3E2ilXA_0000014 358.8 364.3 
+Ron_Livingston/m0nm3E2ilXA_0000015 369.6 377.0 
+Ron_Livingston/m0nm3E2ilXA_0000016 422.4 430.4 
+Ron_Livingston/m0nm3E2ilXA_0000017 430.9 441.8 

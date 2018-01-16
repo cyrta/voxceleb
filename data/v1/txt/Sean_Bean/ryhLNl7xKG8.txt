@@ -1,0 +1,27 @@
+POI: 			Sean_Bean 
+Youtube ID: 	ryhLNl7xKG8 
+Video length: 	604.0 sec 
+Set (V): 		dev 
+ 
+Sean_Bean/ryhLNl7xKG8_0000001 09.9 27.8 
+Sean_Bean/ryhLNl7xKG8_0000002 30.9 49.2 
+Sean_Bean/ryhLNl7xKG8_0000003 56.2 60.1 
+Sean_Bean/ryhLNl7xKG8_0000004 72.9 80.6 
+Sean_Bean/ryhLNl7xKG8_0000005 85.2 91.4 
+Sean_Bean/ryhLNl7xKG8_0000006 99.9 107.3 
+Sean_Bean/ryhLNl7xKG8_0000007 122.9 133.6 
+Sean_Bean/ryhLNl7xKG8_0000008 140.2 148.2 
+Sean_Bean/ryhLNl7xKG8_0000009 190.5 201.1 
+Sean_Bean/ryhLNl7xKG8_0000010 365.4 372.0 
+Sean_Bean/ryhLNl7xKG8_0000011 372.8 378.7 
+Sean_Bean/ryhLNl7xKG8_0000012 390.0 397.0 
+Sean_Bean/ryhLNl7xKG8_0000013 405.8 410.5 
+Sean_Bean/ryhLNl7xKG8_0000014 425.2 429.4 
+Sean_Bean/ryhLNl7xKG8_0000015 437.3 450.3 
+Sean_Bean/ryhLNl7xKG8_0000016 452.3 457.5 
+Sean_Bean/ryhLNl7xKG8_0000017 461.2 465.6 
+Sean_Bean/ryhLNl7xKG8_0000018 482.6 494.4 
+Sean_Bean/ryhLNl7xKG8_0000019 494.6 504.1 
+Sean_Bean/ryhLNl7xKG8_0000020 525.9 530.0 
+Sean_Bean/ryhLNl7xKG8_0000021 578.4 584.7 
+Sean_Bean/ryhLNl7xKG8_0000022 590.8 600.6 

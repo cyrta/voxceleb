@@ -1,0 +1,10 @@
+POI: 			Ed_Westwick 
+Youtube ID: 	_YimahVgI1A 
+Video length: 	202.0 sec 
+Set (V): 		test 
+ 
+Ed_Westwick/_YimahVgI1A_0000001 05.5 12.6 
+Ed_Westwick/_YimahVgI1A_0000002 17.2 21.3 
+Ed_Westwick/_YimahVgI1A_0000003 86.4 94.2 
+Ed_Westwick/_YimahVgI1A_0000004 110.6 116.0 
+Ed_Westwick/_YimahVgI1A_0000005 123.1 136.9 

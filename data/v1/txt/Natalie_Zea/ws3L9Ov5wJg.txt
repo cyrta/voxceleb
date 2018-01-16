@@ -1,0 +1,7 @@
+POI: 			Natalie_Zea 
+Youtube ID: 	ws3L9Ov5wJg 
+Video length: 	416.2 sec 
+Set (V): 		dev 
+ 
+Natalie_Zea/ws3L9Ov5wJg_0000001 119.0 123.5 
+Natalie_Zea/ws3L9Ov5wJg_0000002 296.2 301.0 

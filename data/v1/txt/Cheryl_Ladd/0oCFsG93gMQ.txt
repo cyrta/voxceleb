@@ -1,0 +1,9 @@
+POI: 			Cheryl_Ladd 
+Youtube ID: 	0oCFsG93gMQ 
+Video length: 	417.0 sec 
+Set (V): 		dev 
+ 
+Cheryl_Ladd/0oCFsG93gMQ_0000001 121.4 127.5 
+Cheryl_Ladd/0oCFsG93gMQ_0000002 187.2 191.2 
+Cheryl_Ladd/0oCFsG93gMQ_0000003 245.2 249.9 
+Cheryl_Ladd/0oCFsG93gMQ_0000004 252.4 256.5 

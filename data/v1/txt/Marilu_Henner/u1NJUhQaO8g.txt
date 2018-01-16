@@ -1,0 +1,18 @@
+POI: 			Marilu_Henner 
+Youtube ID: 	u1NJUhQaO8g 
+Video length: 	235.5 sec 
+Set (V): 		dev 
+ 
+Marilu_Henner/u1NJUhQaO8g_0000001 06.5 18.3 
+Marilu_Henner/u1NJUhQaO8g_0000002 19.1 23.4 
+Marilu_Henner/u1NJUhQaO8g_0000003 25.4 30.8 
+Marilu_Henner/u1NJUhQaO8g_0000004 44.8 63.5 
+Marilu_Henner/u1NJUhQaO8g_0000005 65.5 74.6 
+Marilu_Henner/u1NJUhQaO8g_0000006 76.5 82.7 
+Marilu_Henner/u1NJUhQaO8g_0000007 83.3 102.0 
+Marilu_Henner/u1NJUhQaO8g_0000008 104.1 129.4 
+Marilu_Henner/u1NJUhQaO8g_0000009 134.1 147.1 
+Marilu_Henner/u1NJUhQaO8g_0000010 148.1 159.0 
+Marilu_Henner/u1NJUhQaO8g_0000011 159.2 181.0 
+Marilu_Henner/u1NJUhQaO8g_0000012 183.3 212.3 
+Marilu_Henner/u1NJUhQaO8g_0000013 212.7 221.8 

@@ -1,0 +1,12 @@
+POI: 			Asa_Butterfield 
+Youtube ID: 	o6cip4QQz3A 
+Video length: 	274.6 sec 
+Set (V): 		dev 
+ 
+Asa_Butterfield/o6cip4QQz3A_0000001 35.3 40.0 
+Asa_Butterfield/o6cip4QQz3A_0000002 88.4 94.8 
+Asa_Butterfield/o6cip4QQz3A_0000003 159.9 167.5 
+Asa_Butterfield/o6cip4QQz3A_0000004 170.7 178.8 
+Asa_Butterfield/o6cip4QQz3A_0000005 193.2 197.2 
+Asa_Butterfield/o6cip4QQz3A_0000006 203.6 208.2 
+Asa_Butterfield/o6cip4QQz3A_0000007 244.4 254.9 

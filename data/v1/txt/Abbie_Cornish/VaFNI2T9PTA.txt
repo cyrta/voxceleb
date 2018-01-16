@@ -1,0 +1,13 @@
+POI: 			Abbie_Cornish 
+Youtube ID: 	VaFNI2T9PTA 
+Video length: 	88.5 sec 
+Set (V): 		dev 
+ 
+Abbie_Cornish/VaFNI2T9PTA_0000001 08.9 17.7 
+Abbie_Cornish/VaFNI2T9PTA_0000002 18.6 22.8 
+Abbie_Cornish/VaFNI2T9PTA_0000003 13.9 22.8 
+Abbie_Cornish/VaFNI2T9PTA_0000004 25.3 29.5 
+Abbie_Cornish/VaFNI2T9PTA_0000005 36.1 41.3 
+Abbie_Cornish/VaFNI2T9PTA_0000006 46.1 50.7 
+Abbie_Cornish/VaFNI2T9PTA_0000007 60.3 68.9 
+Abbie_Cornish/VaFNI2T9PTA_0000008 74.8 81.0 

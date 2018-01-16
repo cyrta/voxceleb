@@ -1,0 +1,7 @@
+POI: 			Emily_Atack 
+Youtube ID: 	ibDSPLFJIu0 
+Video length: 	98.8 sec 
+Set (V): 		test 
+ 
+Emily_Atack/ibDSPLFJIu0_0000001 43.3 69.2 
+Emily_Atack/ibDSPLFJIu0_0000002 75.4 93.4 

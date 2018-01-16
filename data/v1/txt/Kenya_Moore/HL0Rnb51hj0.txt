@@ -1,0 +1,8 @@
+POI: 			Kenya_Moore 
+Youtube ID: 	HL0Rnb51hj0 
+Video length: 	197.1 sec 
+Set (V): 		dev 
+ 
+Kenya_Moore/HL0Rnb51hj0_0000001 90.6 95.8 
+Kenya_Moore/HL0Rnb51hj0_0000002 107.5 112.0 
+Kenya_Moore/HL0Rnb51hj0_0000003 148.8 153.4 

@@ -1,0 +1,15 @@
+POI: 			Fiona_Shaw 
+Youtube ID: 	bAAgkmE2p6Q 
+Video length: 	137.9 sec 
+Set (V): 		dev 
+ 
+Fiona_Shaw/bAAgkmE2p6Q_0000001 19.7 24.9 
+Fiona_Shaw/bAAgkmE2p6Q_0000002 25.5 31.0 
+Fiona_Shaw/bAAgkmE2p6Q_0000003 47.8 61.4 
+Fiona_Shaw/bAAgkmE2p6Q_0000004 70.5 76.3 
+Fiona_Shaw/bAAgkmE2p6Q_0000005 77.5 86.8 
+Fiona_Shaw/bAAgkmE2p6Q_0000006 90.0 97.4 
+Fiona_Shaw/bAAgkmE2p6Q_0000007 98.3 106.1 
+Fiona_Shaw/bAAgkmE2p6Q_0000008 107.0 111.8 
+Fiona_Shaw/bAAgkmE2p6Q_0000009 109.3 116.0 
+Fiona_Shaw/bAAgkmE2p6Q_0000010 120.5 128.9 

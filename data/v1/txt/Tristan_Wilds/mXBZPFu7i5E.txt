@@ -1,0 +1,13 @@
+POI: 			Tristan_Wilds 
+Youtube ID: 	mXBZPFu7i5E 
+Video length: 	276.9 sec 
+Set (V): 		dev 
+ 
+Tristan_Wilds/mXBZPFu7i5E_0000001 22.6 27.1 
+Tristan_Wilds/mXBZPFu7i5E_0000002 112.4 119.8 
+Tristan_Wilds/mXBZPFu7i5E_0000003 130.8 145.1 
+Tristan_Wilds/mXBZPFu7i5E_0000004 179.6 184.2 
+Tristan_Wilds/mXBZPFu7i5E_0000005 200.4 205.2 
+Tristan_Wilds/mXBZPFu7i5E_0000006 212.5 218.0 
+Tristan_Wilds/mXBZPFu7i5E_0000007 228.0 234.6 
+Tristan_Wilds/mXBZPFu7i5E_0000008 258.0 262.7 

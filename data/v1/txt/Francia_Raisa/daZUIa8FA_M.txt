@@ -1,0 +1,12 @@
+POI: 			Francia_Raisa 
+Youtube ID: 	daZUIa8FA_M 
+Video length: 	210.6 sec 
+Set (V): 		dev 
+ 
+Francia_Raisa/daZUIa8FA_M_0000001 20.3 36.0 
+Francia_Raisa/daZUIa8FA_M_0000002 39.3 44.4 
+Francia_Raisa/daZUIa8FA_M_0000003 97.3 108.1 
+Francia_Raisa/daZUIa8FA_M_0000004 108.6 116.5 
+Francia_Raisa/daZUIa8FA_M_0000005 132.0 138.2 
+Francia_Raisa/daZUIa8FA_M_0000006 141.3 149.6 
+Francia_Raisa/daZUIa8FA_M_0000007 173.2 178.0 

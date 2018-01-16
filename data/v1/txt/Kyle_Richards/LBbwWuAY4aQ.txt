@@ -1,0 +1,11 @@
+POI: 			Kyle_Richards 
+Youtube ID: 	LBbwWuAY4aQ 
+Video length: 	128.7 sec 
+Set (V): 		dev 
+ 
+Kyle_Richards/LBbwWuAY4aQ_0000001 07.8 17.4 
+Kyle_Richards/LBbwWuAY4aQ_0000002 37.8 43.2 
+Kyle_Richards/LBbwWuAY4aQ_0000003 46.6 51.6 
+Kyle_Richards/LBbwWuAY4aQ_0000004 58.5 62.9 
+Kyle_Richards/LBbwWuAY4aQ_0000005 67.9 79.2 
+Kyle_Richards/LBbwWuAY4aQ_0000006 99.6 115.8 

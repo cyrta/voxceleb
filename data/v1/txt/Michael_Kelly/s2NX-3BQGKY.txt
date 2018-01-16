@@ -1,0 +1,13 @@
+POI: 			Michael_Kelly 
+Youtube ID: 	s2NX-3BQGKY 
+Video length: 	626.2 sec 
+Set (V): 		dev 
+ 
+Michael_Kelly/s2NX-3BQGKY_0000001 255.9 260.7 
+Michael_Kelly/s2NX-3BQGKY_0000002 268.2 272.3 
+Michael_Kelly/s2NX-3BQGKY_0000003 273.3 289.0 
+Michael_Kelly/s2NX-3BQGKY_0000004 289.5 295.9 
+Michael_Kelly/s2NX-3BQGKY_0000005 509.0 518.4 
+Michael_Kelly/s2NX-3BQGKY_0000006 541.5 546.8 
+Michael_Kelly/s2NX-3BQGKY_0000007 547.6 553.3 
+Michael_Kelly/s2NX-3BQGKY_0000008 554.2 567.3 

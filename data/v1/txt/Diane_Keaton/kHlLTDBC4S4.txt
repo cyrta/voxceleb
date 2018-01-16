@@ -1,0 +1,8 @@
+POI: 			Diane_Keaton 
+Youtube ID: 	kHlLTDBC4S4 
+Video length: 	405.2 sec 
+Set (V): 		dev 
+ 
+Diane_Keaton/kHlLTDBC4S4_0000001 355.6 364.9 
+Diane_Keaton/kHlLTDBC4S4_0000002 367.0 374.6 
+Diane_Keaton/kHlLTDBC4S4_0000003 382.4 391.4 

@@ -1,0 +1,25 @@
+POI: 			Jacqueline_Fernandez 
+Youtube ID: 	OkQHK94RjzA 
+Video length: 	433.7 sec 
+Set (V): 		dev 
+ 
+Jacqueline_Fernandez/OkQHK94RjzA_0000001 64.8 74.1 
+Jacqueline_Fernandez/OkQHK94RjzA_0000002 75.1 89.6 
+Jacqueline_Fernandez/OkQHK94RjzA_0000003 90.5 97.0 
+Jacqueline_Fernandez/OkQHK94RjzA_0000004 100.0 118.9 
+Jacqueline_Fernandez/OkQHK94RjzA_0000005 155.0 159.1 
+Jacqueline_Fernandez/OkQHK94RjzA_0000006 160.0 164.0 
+Jacqueline_Fernandez/OkQHK94RjzA_0000007 168.2 181.0 
+Jacqueline_Fernandez/OkQHK94RjzA_0000008 195.1 202.4 
+Jacqueline_Fernandez/OkQHK94RjzA_0000009 176.5 185.0 
+Jacqueline_Fernandez/OkQHK94RjzA_0000010 186.3 192.9 
+Jacqueline_Fernandez/OkQHK94RjzA_0000011 208.2 212.4 
+Jacqueline_Fernandez/OkQHK94RjzA_0000012 238.1 248.5 
+Jacqueline_Fernandez/OkQHK94RjzA_0000013 249.3 259.0 
+Jacqueline_Fernandez/OkQHK94RjzA_0000014 260.2 265.2 
+Jacqueline_Fernandez/OkQHK94RjzA_0000015 266.0 274.3 
+Jacqueline_Fernandez/OkQHK94RjzA_0000016 274.4 280.5 
+Jacqueline_Fernandez/OkQHK94RjzA_0000017 292.9 301.0 
+Jacqueline_Fernandez/OkQHK94RjzA_0000018 301.7 308.3 
+Jacqueline_Fernandez/OkQHK94RjzA_0000019 343.3 347.5 
+Jacqueline_Fernandez/OkQHK94RjzA_0000020 394.0 407.2 

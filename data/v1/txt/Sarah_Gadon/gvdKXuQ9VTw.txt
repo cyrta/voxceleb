@@ -1,0 +1,10 @@
+POI: 			Sarah_Gadon 
+Youtube ID: 	gvdKXuQ9VTw 
+Video length: 	171.2 sec 
+Set (V): 		dev 
+ 
+Sarah_Gadon/gvdKXuQ9VTw_0000001 32.0 41.2 
+Sarah_Gadon/gvdKXuQ9VTw_0000002 82.0 89.6 
+Sarah_Gadon/gvdKXuQ9VTw_0000003 90.5 95.4 
+Sarah_Gadon/gvdKXuQ9VTw_0000004 111.8 121.7 
+Sarah_Gadon/gvdKXuQ9VTw_0000005 134.9 139.2 

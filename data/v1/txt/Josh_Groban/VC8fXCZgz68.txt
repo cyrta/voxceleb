@@ -1,0 +1,9 @@
+POI: 			Josh_Groban 
+Youtube ID: 	VC8fXCZgz68 
+Video length: 	89.1 sec 
+Set (V): 		dev 
+ 
+Josh_Groban/VC8fXCZgz68_0000001 10.4 22.4 
+Josh_Groban/VC8fXCZgz68_0000002 31.4 36.1 
+Josh_Groban/VC8fXCZgz68_0000003 54.8 60.3 
+Josh_Groban/VC8fXCZgz68_0000004 75.6 80.6 

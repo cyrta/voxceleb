@@ -1,0 +1,12 @@
+POI: 			Robbie_Kay 
+Youtube ID: 	a_iCkBMMsxE 
+Video length: 	126.2 sec 
+Set (V): 		dev 
+ 
+Robbie_Kay/a_iCkBMMsxE_0000001 06.2 12.6 
+Robbie_Kay/a_iCkBMMsxE_0000002 20.7 26.4 
+Robbie_Kay/a_iCkBMMsxE_0000003 44.9 49.2 
+Robbie_Kay/a_iCkBMMsxE_0000004 57.2 62.4 
+Robbie_Kay/a_iCkBMMsxE_0000005 79.6 88.6 
+Robbie_Kay/a_iCkBMMsxE_0000006 90.6 95.5 
+Robbie_Kay/a_iCkBMMsxE_0000007 99.4 118.6 

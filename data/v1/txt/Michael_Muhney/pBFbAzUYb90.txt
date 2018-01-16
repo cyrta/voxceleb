@@ -1,0 +1,17 @@
+POI: 			Michael_Muhney 
+Youtube ID: 	pBFbAzUYb90 
+Video length: 	213.2 sec 
+Set (V): 		dev 
+ 
+Michael_Muhney/pBFbAzUYb90_0000001 12.2 18.4 
+Michael_Muhney/pBFbAzUYb90_0000002 19.4 26.2 
+Michael_Muhney/pBFbAzUYb90_0000003 33.2 50.0 
+Michael_Muhney/pBFbAzUYb90_0000004 58.4 64.9 
+Michael_Muhney/pBFbAzUYb90_0000005 68.9 81.1 
+Michael_Muhney/pBFbAzUYb90_0000006 82.0 95.3 
+Michael_Muhney/pBFbAzUYb90_0000007 114.2 119.4 
+Michael_Muhney/pBFbAzUYb90_0000008 128.5 137.7 
+Michael_Muhney/pBFbAzUYb90_0000009 142.7 149.2 
+Michael_Muhney/pBFbAzUYb90_0000010 168.8 176.3 
+Michael_Muhney/pBFbAzUYb90_0000011 177.2 198.3 
+Michael_Muhney/pBFbAzUYb90_0000012 198.5 202.7 

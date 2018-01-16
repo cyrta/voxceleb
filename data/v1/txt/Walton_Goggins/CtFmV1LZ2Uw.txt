@@ -1,0 +1,10 @@
+POI: 			Walton_Goggins 
+Youtube ID: 	CtFmV1LZ2Uw 
+Video length: 	223.0 sec 
+Set (V): 		dev 
+ 
+Walton_Goggins/CtFmV1LZ2Uw_0000001 43.5 48.4 
+Walton_Goggins/CtFmV1LZ2Uw_0000002 49.1 53.8 
+Walton_Goggins/CtFmV1LZ2Uw_0000003 58.8 64.4 
+Walton_Goggins/CtFmV1LZ2Uw_0000004 78.8 95.2 
+Walton_Goggins/CtFmV1LZ2Uw_0000005 95.3 100.0 

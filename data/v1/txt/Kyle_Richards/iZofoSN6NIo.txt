@@ -1,0 +1,8 @@
+POI: 			Kyle_Richards 
+Youtube ID: 	iZofoSN6NIo 
+Video length: 	270.7 sec 
+Set (V): 		dev 
+ 
+Kyle_Richards/iZofoSN6NIo_0000001 81.8 93.8 
+Kyle_Richards/iZofoSN6NIo_0000002 205.9 210.0 
+Kyle_Richards/iZofoSN6NIo_0000003 210.2 217.4 

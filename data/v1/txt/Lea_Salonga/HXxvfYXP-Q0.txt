@@ -1,0 +1,13 @@
+POI: 			Lea_Salonga 
+Youtube ID: 	HXxvfYXP-Q0 
+Video length: 	174.8 sec 
+Set (V): 		dev 
+ 
+Lea_Salonga/HXxvfYXP-Q0_0000001 48.6 56.2 
+Lea_Salonga/HXxvfYXP-Q0_0000002 58.3 62.4 
+Lea_Salonga/HXxvfYXP-Q0_0000003 74.8 79.4 
+Lea_Salonga/HXxvfYXP-Q0_0000004 82.0 88.1 
+Lea_Salonga/HXxvfYXP-Q0_0000005 89.6 105.6 
+Lea_Salonga/HXxvfYXP-Q0_0000006 111.7 122.0 
+Lea_Salonga/HXxvfYXP-Q0_0000007 142.2 152.0 
+Lea_Salonga/HXxvfYXP-Q0_0000008 153.0 160.6 

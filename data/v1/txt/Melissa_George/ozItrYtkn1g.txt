@@ -1,0 +1,15 @@
+POI: 			Melissa_George 
+Youtube ID: 	ozItrYtkn1g 
+Video length: 	309.3 sec 
+Set (V): 		dev 
+ 
+Melissa_George/ozItrYtkn1g_0000001 20.1 36.3 
+Melissa_George/ozItrYtkn1g_0000002 84.4 96.2 
+Melissa_George/ozItrYtkn1g_0000003 96.6 102.0 
+Melissa_George/ozItrYtkn1g_0000004 103.6 108.2 
+Melissa_George/ozItrYtkn1g_0000005 118.2 145.4 
+Melissa_George/ozItrYtkn1g_0000006 172.2 184.9 
+Melissa_George/ozItrYtkn1g_0000007 191.5 197.0 
+Melissa_George/ozItrYtkn1g_0000008 199.4 211.0 
+Melissa_George/ozItrYtkn1g_0000009 263.4 270.6 
+Melissa_George/ozItrYtkn1g_0000010 276.7 292.9 

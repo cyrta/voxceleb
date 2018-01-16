@@ -1,0 +1,12 @@
+POI: 			Hope_Solo 
+Youtube ID: 	VLn06y6-mRA 
+Video length: 	520.1 sec 
+Set (V): 		dev 
+ 
+Hope_Solo/VLn06y6-mRA_0000001 80.2 84.8 
+Hope_Solo/VLn06y6-mRA_0000002 107.4 119.4 
+Hope_Solo/VLn06y6-mRA_0000003 132.4 142.7 
+Hope_Solo/VLn06y6-mRA_0000004 292.4 300.3 
+Hope_Solo/VLn06y6-mRA_0000005 305.0 315.0 
+Hope_Solo/VLn06y6-mRA_0000006 368.4 383.3 
+Hope_Solo/VLn06y6-mRA_0000007 453.4 458.8 

@@ -1,0 +1,10 @@
+POI: 			Mark_Harmon 
+Youtube ID: 	B5ZVRVjHv0k 
+Video length: 	238.5 sec 
+Set (V): 		dev 
+ 
+Mark_Harmon/B5ZVRVjHv0k_0000001 09.6 15.2 
+Mark_Harmon/B5ZVRVjHv0k_0000002 17.6 22.4 
+Mark_Harmon/B5ZVRVjHv0k_0000003 23.9 32.1 
+Mark_Harmon/B5ZVRVjHv0k_0000004 34.4 45.8 
+Mark_Harmon/B5ZVRVjHv0k_0000005 50.6 57.0 

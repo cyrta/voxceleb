@@ -1,0 +1,12 @@
+POI: 			Jeremy_Piven 
+Youtube ID: 	gtQ_uVOLsEU 
+Video length: 	345.8 sec 
+Set (V): 		dev 
+ 
+Jeremy_Piven/gtQ_uVOLsEU_0000001 60.1 82.6 
+Jeremy_Piven/gtQ_uVOLsEU_0000002 114.3 118.6 
+Jeremy_Piven/gtQ_uVOLsEU_0000003 127.0 134.4 
+Jeremy_Piven/gtQ_uVOLsEU_0000004 151.0 156.2 
+Jeremy_Piven/gtQ_uVOLsEU_0000005 240.6 244.8 
+Jeremy_Piven/gtQ_uVOLsEU_0000006 271.2 279.9 
+Jeremy_Piven/gtQ_uVOLsEU_0000007 280.2 308.6 

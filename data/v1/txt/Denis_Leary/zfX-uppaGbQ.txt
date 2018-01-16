@@ -1,0 +1,7 @@
+POI: 			Denis_Leary 
+Youtube ID: 	zfX-uppaGbQ 
+Video length: 	405.0 sec 
+Set (V): 		dev 
+ 
+Denis_Leary/zfX-uppaGbQ_0000001 320.8 324.9 
+Denis_Leary/zfX-uppaGbQ_0000002 359.2 363.2 

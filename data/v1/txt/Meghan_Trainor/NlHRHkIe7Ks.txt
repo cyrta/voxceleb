@@ -1,0 +1,8 @@
+POI: 			Meghan_Trainor 
+Youtube ID: 	NlHRHkIe7Ks 
+Video length: 	272.2 sec 
+Set (V): 		dev 
+ 
+Meghan_Trainor/NlHRHkIe7Ks_0000001 84.5 92.2 
+Meghan_Trainor/NlHRHkIe7Ks_0000002 110.2 115.8 
+Meghan_Trainor/NlHRHkIe7Ks_0000003 173.4 178.3 

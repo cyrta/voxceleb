@@ -1,0 +1,8 @@
+POI: 			Tyler_Blackburn 
+Youtube ID: 	btRDupNdhbg 
+Video length: 	104.0 sec 
+Set (V): 		dev 
+ 
+Tyler_Blackburn/btRDupNdhbg_0000001 16.6 21.4 
+Tyler_Blackburn/btRDupNdhbg_0000002 24.0 29.4 
+Tyler_Blackburn/btRDupNdhbg_0000003 36.9 44.0 

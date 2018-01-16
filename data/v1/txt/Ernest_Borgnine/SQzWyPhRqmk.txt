@@ -1,0 +1,18 @@
+POI: 			Ernest_Borgnine 
+Youtube ID: 	SQzWyPhRqmk 
+Video length: 	227.6 sec 
+Set (V): 		test 
+ 
+Ernest_Borgnine/SQzWyPhRqmk_0000001 13.6 18.5 
+Ernest_Borgnine/SQzWyPhRqmk_0000002 19.7 27.2 
+Ernest_Borgnine/SQzWyPhRqmk_0000003 29.0 36.9 
+Ernest_Borgnine/SQzWyPhRqmk_0000004 37.8 49.3 
+Ernest_Borgnine/SQzWyPhRqmk_0000005 56.3 68.7 
+Ernest_Borgnine/SQzWyPhRqmk_0000006 70.7 88.3 
+Ernest_Borgnine/SQzWyPhRqmk_0000007 90.6 96.3 
+Ernest_Borgnine/SQzWyPhRqmk_0000008 111.9 118.1 
+Ernest_Borgnine/SQzWyPhRqmk_0000009 122.8 132.2 
+Ernest_Borgnine/SQzWyPhRqmk_0000010 133.6 152.2 
+Ernest_Borgnine/SQzWyPhRqmk_0000011 157.7 172.4 
+Ernest_Borgnine/SQzWyPhRqmk_0000012 183.2 194.1 
+Ernest_Borgnine/SQzWyPhRqmk_0000013 195.0 202.9 

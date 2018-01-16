@@ -1,0 +1,11 @@
+POI: 			Kiernan_Shipka 
+Youtube ID: 	Nr932AAWx80 
+Video length: 	182.9 sec 
+Set (V): 		dev 
+ 
+Kiernan_Shipka/Nr932AAWx80_0000001 18.2 27.6 
+Kiernan_Shipka/Nr932AAWx80_0000002 61.4 67.2 
+Kiernan_Shipka/Nr932AAWx80_0000003 72.3 82.8 
+Kiernan_Shipka/Nr932AAWx80_0000004 89.8 101.1 
+Kiernan_Shipka/Nr932AAWx80_0000005 104.0 116.3 
+Kiernan_Shipka/Nr932AAWx80_0000006 121.4 128.4 

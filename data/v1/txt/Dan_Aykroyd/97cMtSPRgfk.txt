@@ -1,0 +1,11 @@
+POI: 			Dan_Aykroyd 
+Youtube ID: 	97cMtSPRgfk 
+Video length: 	466.4 sec 
+Set (V): 		dev 
+ 
+Dan_Aykroyd/97cMtSPRgfk_0000001 95.3 117.3 
+Dan_Aykroyd/97cMtSPRgfk_0000002 125.4 131.2 
+Dan_Aykroyd/97cMtSPRgfk_0000003 257.8 269.0 
+Dan_Aykroyd/97cMtSPRgfk_0000004 391.6 396.0 
+Dan_Aykroyd/97cMtSPRgfk_0000005 418.5 424.5 
+Dan_Aykroyd/97cMtSPRgfk_0000006 439.8 444.7 

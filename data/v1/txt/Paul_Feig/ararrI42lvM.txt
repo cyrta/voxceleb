@@ -1,0 +1,14 @@
+POI: 			Paul_Feig 
+Youtube ID: 	ararrI42lvM 
+Video length: 	244.9 sec 
+Set (V): 		dev 
+ 
+Paul_Feig/ararrI42lvM_0000001 14.8 50.4 
+Paul_Feig/ararrI42lvM_0000002 79.9 92.0 
+Paul_Feig/ararrI42lvM_0000003 92.8 105.0 
+Paul_Feig/ararrI42lvM_0000004 135.8 146.3 
+Paul_Feig/ararrI42lvM_0000005 165.7 187.8 
+Paul_Feig/ararrI42lvM_0000006 201.9 213.2 
+Paul_Feig/ararrI42lvM_0000007 213.8 221.2 
+Paul_Feig/ararrI42lvM_0000008 223.0 234.2 
+Paul_Feig/ararrI42lvM_0000009 235.2 240.7 

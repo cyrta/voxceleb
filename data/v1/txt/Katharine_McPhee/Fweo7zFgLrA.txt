@@ -1,0 +1,7 @@
+POI: 			Katharine_McPhee 
+Youtube ID: 	Fweo7zFgLrA 
+Video length: 	208.2 sec 
+Set (V): 		dev 
+ 
+Katharine_McPhee/Fweo7zFgLrA_0000001 63.1 74.5 
+Katharine_McPhee/Fweo7zFgLrA_0000002 81.8 95.2 

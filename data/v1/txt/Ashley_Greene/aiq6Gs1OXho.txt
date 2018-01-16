@@ -1,0 +1,8 @@
+POI: 			Ashley_Greene 
+Youtube ID: 	aiq6Gs1OXho 
+Video length: 	367.9 sec 
+Set (V): 		dev 
+ 
+Ashley_Greene/aiq6Gs1OXho_0000001 106.3 112.8 
+Ashley_Greene/aiq6Gs1OXho_0000002 211.2 215.5 
+Ashley_Greene/aiq6Gs1OXho_0000003 283.2 288.9 

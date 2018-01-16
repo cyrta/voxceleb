@@ -1,0 +1,10 @@
+POI: 			Brian_Cox 
+Youtube ID: 	T649N87zhUk 
+Video length: 	1146.9 sec 
+Set (V): 		dev 
+ 
+Brian_Cox/T649N87zhUk_0000001 155.1 160.5 
+Brian_Cox/T649N87zhUk_0000002 223.7 229.2 
+Brian_Cox/T649N87zhUk_0000003 441.9 446.2 
+Brian_Cox/T649N87zhUk_0000004 763.9 770.2 
+Brian_Cox/T649N87zhUk_0000005 811.8 817.6 

@@ -1,0 +1,28 @@
+POI: 			Chiwetel_Ejiofor 
+Youtube ID: 	vzpS-gWG2D0 
+Video length: 	443.3 sec 
+Set (V): 		dev 
+ 
+Chiwetel_Ejiofor/vzpS-gWG2D0_0000001 08.8 17.2 
+Chiwetel_Ejiofor/vzpS-gWG2D0_0000002 18.8 44.0 
+Chiwetel_Ejiofor/vzpS-gWG2D0_0000003 85.4 89.7 
+Chiwetel_Ejiofor/vzpS-gWG2D0_0000004 91.2 98.1 
+Chiwetel_Ejiofor/vzpS-gWG2D0_0000005 102.0 108.5 
+Chiwetel_Ejiofor/vzpS-gWG2D0_0000006 127.6 139.6 
+Chiwetel_Ejiofor/vzpS-gWG2D0_0000007 155.1 168.4 
+Chiwetel_Ejiofor/vzpS-gWG2D0_0000008 175.5 183.6 
+Chiwetel_Ejiofor/vzpS-gWG2D0_0000009 207.2 212.8 
+Chiwetel_Ejiofor/vzpS-gWG2D0_0000010 213.6 221.9 
+Chiwetel_Ejiofor/vzpS-gWG2D0_0000011 223.0 230.7 
+Chiwetel_Ejiofor/vzpS-gWG2D0_0000012 239.9 249.0 
+Chiwetel_Ejiofor/vzpS-gWG2D0_0000013 260.7 268.4 
+Chiwetel_Ejiofor/vzpS-gWG2D0_0000014 269.0 276.2 
+Chiwetel_Ejiofor/vzpS-gWG2D0_0000015 284.6 289.8 
+Chiwetel_Ejiofor/vzpS-gWG2D0_0000016 296.8 303.7 
+Chiwetel_Ejiofor/vzpS-gWG2D0_0000017 305.1 309.5 
+Chiwetel_Ejiofor/vzpS-gWG2D0_0000018 310.2 317.1 
+Chiwetel_Ejiofor/vzpS-gWG2D0_0000019 327.7 343.2 
+Chiwetel_Ejiofor/vzpS-gWG2D0_0000020 349.0 353.6 
+Chiwetel_Ejiofor/vzpS-gWG2D0_0000021 360.7 370.2 
+Chiwetel_Ejiofor/vzpS-gWG2D0_0000022 379.1 387.6 
+Chiwetel_Ejiofor/vzpS-gWG2D0_0000023 398.5 408.8 

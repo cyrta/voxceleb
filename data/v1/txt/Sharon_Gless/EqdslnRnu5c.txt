@@ -1,0 +1,15 @@
+POI: 			Sharon_Gless 
+Youtube ID: 	EqdslnRnu5c 
+Video length: 	251.6 sec 
+Set (V): 		dev 
+ 
+Sharon_Gless/EqdslnRnu5c_0000001 13.2 24.6 
+Sharon_Gless/EqdslnRnu5c_0000002 28.1 35.0 
+Sharon_Gless/EqdslnRnu5c_0000003 96.3 101.7 
+Sharon_Gless/EqdslnRnu5c_0000004 106.0 116.2 
+Sharon_Gless/EqdslnRnu5c_0000005 116.5 120.7 
+Sharon_Gless/EqdslnRnu5c_0000006 128.4 134.6 
+Sharon_Gless/EqdslnRnu5c_0000007 134.9 148.4 
+Sharon_Gless/EqdslnRnu5c_0000008 149.0 156.2 
+Sharon_Gless/EqdslnRnu5c_0000009 159.8 168.1 
+Sharon_Gless/EqdslnRnu5c_0000010 172.1 176.3 

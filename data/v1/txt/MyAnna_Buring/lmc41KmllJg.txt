@@ -1,0 +1,18 @@
+POI: 			MyAnna_Buring 
+Youtube ID: 	lmc41KmllJg 
+Video length: 	322.9 sec 
+Set (V): 		dev 
+ 
+MyAnna_Buring/lmc41KmllJg_0000001 20.6 25.6 
+MyAnna_Buring/lmc41KmllJg_0000002 34.2 39.8 
+MyAnna_Buring/lmc41KmllJg_0000003 57.8 65.2 
+MyAnna_Buring/lmc41KmllJg_0000004 68.0 72.0 
+MyAnna_Buring/lmc41KmllJg_0000005 76.4 87.2 
+MyAnna_Buring/lmc41KmllJg_0000006 102.3 106.9 
+MyAnna_Buring/lmc41KmllJg_0000007 116.0 125.4 
+MyAnna_Buring/lmc41KmllJg_0000008 130.3 134.5 
+MyAnna_Buring/lmc41KmllJg_0000009 160.3 168.9 
+MyAnna_Buring/lmc41KmllJg_0000010 194.6 205.2 
+MyAnna_Buring/lmc41KmllJg_0000011 213.2 222.6 
+MyAnna_Buring/lmc41KmllJg_0000012 244.4 250.9 
+MyAnna_Buring/lmc41KmllJg_0000013 267.2 276.5 

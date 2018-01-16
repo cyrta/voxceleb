@@ -1,0 +1,8 @@
+POI: 			Ben_Whishaw 
+Youtube ID: 	qUNxdInDHpo 
+Video length: 	196.2 sec 
+Set (V): 		dev 
+ 
+Ben_Whishaw/qUNxdInDHpo_0000001 15.7 19.8 
+Ben_Whishaw/qUNxdInDHpo_0000002 32.4 39.2 
+Ben_Whishaw/qUNxdInDHpo_0000003 51.9 56.3 

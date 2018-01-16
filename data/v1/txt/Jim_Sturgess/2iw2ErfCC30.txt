@@ -1,0 +1,14 @@
+POI: 			Jim_Sturgess 
+Youtube ID: 	2iw2ErfCC30 
+Video length: 	217.5 sec 
+Set (V): 		dev 
+ 
+Jim_Sturgess/2iw2ErfCC30_0000001 10.5 18.3 
+Jim_Sturgess/2iw2ErfCC30_0000002 19.2 23.6 
+Jim_Sturgess/2iw2ErfCC30_0000003 65.8 72.6 
+Jim_Sturgess/2iw2ErfCC30_0000004 123.8 139.9 
+Jim_Sturgess/2iw2ErfCC30_0000005 143.1 148.2 
+Jim_Sturgess/2iw2ErfCC30_0000006 150.7 154.6 
+Jim_Sturgess/2iw2ErfCC30_0000007 164.1 170.2 
+Jim_Sturgess/2iw2ErfCC30_0000008 189.4 193.4 
+Jim_Sturgess/2iw2ErfCC30_0000009 207.3 212.0 

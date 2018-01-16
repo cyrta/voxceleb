@@ -1,0 +1,8 @@
+POI: 			Anthony_Mackie 
+Youtube ID: 	NyvSfilifks 
+Video length: 	277.2 sec 
+Set (V): 		dev 
+ 
+Anthony_Mackie/NyvSfilifks_0000001 36.8 46.6 
+Anthony_Mackie/NyvSfilifks_0000002 64.2 68.2 
+Anthony_Mackie/NyvSfilifks_0000003 245.2 249.4 

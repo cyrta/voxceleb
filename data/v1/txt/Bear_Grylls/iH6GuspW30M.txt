@@ -1,0 +1,9 @@
+POI: 			Bear_Grylls 
+Youtube ID: 	iH6GuspW30M 
+Video length: 	915.3 sec 
+Set (V): 		dev 
+ 
+Bear_Grylls/iH6GuspW30M_0000001 56.4 71.9 
+Bear_Grylls/iH6GuspW30M_0000002 84.6 89.2 
+Bear_Grylls/iH6GuspW30M_0000003 131.4 138.5 
+Bear_Grylls/iH6GuspW30M_0000004 334.4 340.5 

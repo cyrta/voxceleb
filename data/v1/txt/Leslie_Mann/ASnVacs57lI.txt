@@ -1,0 +1,11 @@
+POI: 			Leslie_Mann 
+Youtube ID: 	ASnVacs57lI 
+Video length: 	799.1 sec 
+Set (V): 		dev 
+ 
+Leslie_Mann/ASnVacs57lI_0000001 626.4 632.2 
+Leslie_Mann/ASnVacs57lI_0000002 658.8 668.4 
+Leslie_Mann/ASnVacs57lI_0000003 684.9 693.6 
+Leslie_Mann/ASnVacs57lI_0000004 736.7 746.5 
+Leslie_Mann/ASnVacs57lI_0000005 762.8 767.9 
+Leslie_Mann/ASnVacs57lI_0000006 769.3 780.6 

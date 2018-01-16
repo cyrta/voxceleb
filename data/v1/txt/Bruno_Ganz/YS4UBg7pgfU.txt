@@ -1,0 +1,15 @@
+POI: 			Bruno_Ganz 
+Youtube ID: 	YS4UBg7pgfU 
+Video length: 	250.2 sec 
+Set (V): 		dev 
+ 
+Bruno_Ganz/YS4UBg7pgfU_0000001 84.5 88.7 
+Bruno_Ganz/YS4UBg7pgfU_0000002 96.0 100.8 
+Bruno_Ganz/YS4UBg7pgfU_0000003 101.6 107.7 
+Bruno_Ganz/YS4UBg7pgfU_0000004 108.6 115.6 
+Bruno_Ganz/YS4UBg7pgfU_0000005 130.2 134.2 
+Bruno_Ganz/YS4UBg7pgfU_0000006 136.9 148.0 
+Bruno_Ganz/YS4UBg7pgfU_0000007 148.7 164.0 
+Bruno_Ganz/YS4UBg7pgfU_0000008 164.6 168.8 
+Bruno_Ganz/YS4UBg7pgfU_0000009 170.8 176.1 
+Bruno_Ganz/YS4UBg7pgfU_0000010 232.0 248.7 

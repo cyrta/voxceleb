@@ -1,0 +1,15 @@
+POI: 			Randolph_Mantooth 
+Youtube ID: 	sTcY4CW3N24 
+Video length: 	291.7 sec 
+Set (V): 		dev 
+ 
+Randolph_Mantooth/sTcY4CW3N24_0000001 14.5 26.9 
+Randolph_Mantooth/sTcY4CW3N24_0000002 52.3 60.0 
+Randolph_Mantooth/sTcY4CW3N24_0000003 64.9 75.2 
+Randolph_Mantooth/sTcY4CW3N24_0000004 199.1 203.7 
+Randolph_Mantooth/sTcY4CW3N24_0000005 204.6 209.6 
+Randolph_Mantooth/sTcY4CW3N24_0000006 229.0 237.7 
+Randolph_Mantooth/sTcY4CW3N24_0000007 244.1 249.4 
+Randolph_Mantooth/sTcY4CW3N24_0000008 254.1 264.8 
+Randolph_Mantooth/sTcY4CW3N24_0000009 264.9 270.0 
+Randolph_Mantooth/sTcY4CW3N24_0000010 276.6 282.2 

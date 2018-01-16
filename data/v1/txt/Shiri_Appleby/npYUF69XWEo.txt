@@ -1,0 +1,10 @@
+POI: 			Shiri_Appleby 
+Youtube ID: 	npYUF69XWEo 
+Video length: 	156.5 sec 
+Set (V): 		dev 
+ 
+Shiri_Appleby/npYUF69XWEo_0000001 01.9 10.5 
+Shiri_Appleby/npYUF69XWEo_0000002 12.8 24.6 
+Shiri_Appleby/npYUF69XWEo_0000003 27.1 32.9 
+Shiri_Appleby/npYUF69XWEo_0000004 33.8 40.2 
+Shiri_Appleby/npYUF69XWEo_0000005 75.8 112.9 

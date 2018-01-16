@@ -1,0 +1,8 @@
+POI: 			Derek_Theler 
+Youtube ID: 	OTcp7dqeHVI 
+Video length: 	70.3 sec 
+Set (V): 		dev 
+ 
+Derek_Theler/OTcp7dqeHVI_0000001 01.2 11.8 
+Derek_Theler/OTcp7dqeHVI_0000002 17.8 25.2 
+Derek_Theler/OTcp7dqeHVI_0000003 40.4 51.8 

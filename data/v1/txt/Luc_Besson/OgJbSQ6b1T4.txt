@@ -1,0 +1,10 @@
+POI: 			Luc_Besson 
+Youtube ID: 	OgJbSQ6b1T4 
+Video length: 	394.1 sec 
+Set (V): 		dev 
+ 
+Luc_Besson/OgJbSQ6b1T4_0000001 163.2 169.4 
+Luc_Besson/OgJbSQ6b1T4_0000002 296.9 303.3 
+Luc_Besson/OgJbSQ6b1T4_0000003 307.7 315.2 
+Luc_Besson/OgJbSQ6b1T4_0000004 350.8 358.2 
+Luc_Besson/OgJbSQ6b1T4_0000005 359.3 363.6 

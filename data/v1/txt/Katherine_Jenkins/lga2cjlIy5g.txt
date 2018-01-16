@@ -1,0 +1,11 @@
+POI: 			Katherine_Jenkins 
+Youtube ID: 	lga2cjlIy5g 
+Video length: 	171.4 sec 
+Set (V): 		dev 
+ 
+Katherine_Jenkins/lga2cjlIy5g_0000001 24.2 29.9 
+Katherine_Jenkins/lga2cjlIy5g_0000002 47.1 55.1 
+Katherine_Jenkins/lga2cjlIy5g_0000003 85.0 96.0 
+Katherine_Jenkins/lga2cjlIy5g_0000004 90.0 96.0 
+Katherine_Jenkins/lga2cjlIy5g_0000005 117.2 122.8 
+Katherine_Jenkins/lga2cjlIy5g_0000006 128.0 134.8 

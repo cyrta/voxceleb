@@ -1,0 +1,14 @@
+POI: 			Niall_Horan 
+Youtube ID: 	wfBk-ezUiVs 
+Video length: 	253.2 sec 
+Set (V): 		dev 
+ 
+Niall_Horan/wfBk-ezUiVs_0000001 22.0 29.9 
+Niall_Horan/wfBk-ezUiVs_0000002 122.9 130.5 
+Niall_Horan/wfBk-ezUiVs_0000003 141.6 147.1 
+Niall_Horan/wfBk-ezUiVs_0000004 147.6 151.7 
+Niall_Horan/wfBk-ezUiVs_0000005 153.5 159.6 
+Niall_Horan/wfBk-ezUiVs_0000006 160.7 180.6 
+Niall_Horan/wfBk-ezUiVs_0000007 187.2 205.2 
+Niall_Horan/wfBk-ezUiVs_0000008 205.6 214.7 
+Niall_Horan/wfBk-ezUiVs_0000009 238.3 242.3 

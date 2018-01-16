@@ -1,0 +1,15 @@
+POI: 			Kristen_Schaal 
+Youtube ID: 	epa8xnLXh1U 
+Video length: 	204.5 sec 
+Set (V): 		dev 
+ 
+Kristen_Schaal/epa8xnLXh1U_0000001 29.7 34.5 
+Kristen_Schaal/epa8xnLXh1U_0000002 42.2 48.3 
+Kristen_Schaal/epa8xnLXh1U_0000003 54.0 59.0 
+Kristen_Schaal/epa8xnLXh1U_0000004 61.7 66.7 
+Kristen_Schaal/epa8xnLXh1U_0000005 69.2 74.2 
+Kristen_Schaal/epa8xnLXh1U_0000006 75.0 82.5 
+Kristen_Schaal/epa8xnLXh1U_0000007 111.6 117.5 
+Kristen_Schaal/epa8xnLXh1U_0000008 131.3 136.8 
+Kristen_Schaal/epa8xnLXh1U_0000009 150.4 155.1 
+Kristen_Schaal/epa8xnLXh1U_0000010 161.9 166.1 

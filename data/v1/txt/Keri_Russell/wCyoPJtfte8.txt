@@ -1,0 +1,9 @@
+POI: 			Keri_Russell 
+Youtube ID: 	wCyoPJtfte8 
+Video length: 	551.3 sec 
+Set (V): 		dev 
+ 
+Keri_Russell/wCyoPJtfte8_0000001 61.7 66.7 
+Keri_Russell/wCyoPJtfte8_0000002 204.5 209.1 
+Keri_Russell/wCyoPJtfte8_0000003 215.1 224.2 
+Keri_Russell/wCyoPJtfte8_0000004 362.9 367.9 

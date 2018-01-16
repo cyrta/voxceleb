@@ -1,0 +1,11 @@
+POI: 			Diogo_Morgado 
+Youtube ID: 	Hg9eYKzaYdw 
+Video length: 	270.3 sec 
+Set (V): 		dev 
+ 
+Diogo_Morgado/Hg9eYKzaYdw_0000001 101.9 110.1 
+Diogo_Morgado/Hg9eYKzaYdw_0000002 165.7 172.2 
+Diogo_Morgado/Hg9eYKzaYdw_0000003 185.4 190.1 
+Diogo_Morgado/Hg9eYKzaYdw_0000004 198.4 211.4 
+Diogo_Morgado/Hg9eYKzaYdw_0000005 217.1 221.6 
+Diogo_Morgado/Hg9eYKzaYdw_0000006 235.8 250.5 

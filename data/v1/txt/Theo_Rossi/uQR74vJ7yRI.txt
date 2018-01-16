@@ -1,0 +1,16 @@
+POI: 			Theo_Rossi 
+Youtube ID: 	uQR74vJ7yRI 
+Video length: 	168.7 sec 
+Set (V): 		dev 
+ 
+Theo_Rossi/uQR74vJ7yRI_0000001 19.8 23.9 
+Theo_Rossi/uQR74vJ7yRI_0000002 29.9 34.6 
+Theo_Rossi/uQR74vJ7yRI_0000003 36.1 40.7 
+Theo_Rossi/uQR74vJ7yRI_0000004 42.8 52.5 
+Theo_Rossi/uQR74vJ7yRI_0000005 70.7 76.1 
+Theo_Rossi/uQR74vJ7yRI_0000006 76.6 88.4 
+Theo_Rossi/uQR74vJ7yRI_0000007 90.5 108.1 
+Theo_Rossi/uQR74vJ7yRI_0000008 122.8 130.6 
+Theo_Rossi/uQR74vJ7yRI_0000009 134.7 141.0 
+Theo_Rossi/uQR74vJ7yRI_0000010 137.7 144.0 
+Theo_Rossi/uQR74vJ7yRI_0000011 152.4 156.4 

@@ -1,0 +1,9 @@
+POI: 			Callan_McAuliffe 
+Youtube ID: 	Ke5_8lwi_Jo 
+Video length: 	100.9 sec 
+Set (V): 		dev 
+ 
+Callan_McAuliffe/Ke5_8lwi_Jo_0000001 21.4 29.4 
+Callan_McAuliffe/Ke5_8lwi_Jo_0000002 36.7 47.2 
+Callan_McAuliffe/Ke5_8lwi_Jo_0000003 47.4 57.7 
+Callan_McAuliffe/Ke5_8lwi_Jo_0000004 61.1 71.5 

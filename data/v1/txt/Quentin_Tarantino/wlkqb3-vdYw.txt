@@ -1,0 +1,42 @@
+POI: 			Quentin_Tarantino 
+Youtube ID: 	wlkqb3-vdYw 
+Video length: 	915.8 sec 
+Set (V): 		dev 
+ 
+Quentin_Tarantino/wlkqb3-vdYw_0000001 50.0 56.5 
+Quentin_Tarantino/wlkqb3-vdYw_0000002 62.7 67.5 
+Quentin_Tarantino/wlkqb3-vdYw_0000003 88.0 101.0 
+Quentin_Tarantino/wlkqb3-vdYw_0000004 109.6 133.1 
+Quentin_Tarantino/wlkqb3-vdYw_0000005 148.3 164.0 
+Quentin_Tarantino/wlkqb3-vdYw_0000006 166.0 171.0 
+Quentin_Tarantino/wlkqb3-vdYw_0000007 171.2 185.2 
+Quentin_Tarantino/wlkqb3-vdYw_0000008 192.7 196.8 
+Quentin_Tarantino/wlkqb3-vdYw_0000009 210.4 214.9 
+Quentin_Tarantino/wlkqb3-vdYw_0000010 232.6 237.9 
+Quentin_Tarantino/wlkqb3-vdYw_0000011 240.8 247.0 
+Quentin_Tarantino/wlkqb3-vdYw_0000012 278.5 290.5 
+Quentin_Tarantino/wlkqb3-vdYw_0000013 346.2 354.2 
+Quentin_Tarantino/wlkqb3-vdYw_0000014 376.0 380.7 
+Quentin_Tarantino/wlkqb3-vdYw_0000015 388.8 395.1 
+Quentin_Tarantino/wlkqb3-vdYw_0000016 426.4 430.7 
+Quentin_Tarantino/wlkqb3-vdYw_0000017 434.5 440.0 
+Quentin_Tarantino/wlkqb3-vdYw_0000018 448.9 458.2 
+Quentin_Tarantino/wlkqb3-vdYw_0000019 482.1 489.7 
+Quentin_Tarantino/wlkqb3-vdYw_0000020 500.6 514.0 
+Quentin_Tarantino/wlkqb3-vdYw_0000021 515.8 523.5 
+Quentin_Tarantino/wlkqb3-vdYw_0000022 547.4 561.7 
+Quentin_Tarantino/wlkqb3-vdYw_0000023 578.7 596.9 
+Quentin_Tarantino/wlkqb3-vdYw_0000024 602.0 618.9 
+Quentin_Tarantino/wlkqb3-vdYw_0000025 619.1 628.4 
+Quentin_Tarantino/wlkqb3-vdYw_0000026 682.1 689.8 
+Quentin_Tarantino/wlkqb3-vdYw_0000027 690.8 707.7 
+Quentin_Tarantino/wlkqb3-vdYw_0000028 746.0 753.4 
+Quentin_Tarantino/wlkqb3-vdYw_0000029 755.6 768.4 
+Quentin_Tarantino/wlkqb3-vdYw_0000030 770.2 776.3 
+Quentin_Tarantino/wlkqb3-vdYw_0000031 780.9 798.3 
+Quentin_Tarantino/wlkqb3-vdYw_0000032 798.7 803.8 
+Quentin_Tarantino/wlkqb3-vdYw_0000033 820.4 831.7 
+Quentin_Tarantino/wlkqb3-vdYw_0000034 833.7 838.5 
+Quentin_Tarantino/wlkqb3-vdYw_0000035 862.0 868.0 
+Quentin_Tarantino/wlkqb3-vdYw_0000036 875.0 885.0 
+Quentin_Tarantino/wlkqb3-vdYw_0000037 890.6 900.6 

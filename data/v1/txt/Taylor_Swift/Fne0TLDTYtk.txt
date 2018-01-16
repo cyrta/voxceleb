@@ -1,0 +1,22 @@
+POI: 			Taylor_Swift 
+Youtube ID: 	Fne0TLDTYtk 
+Video length: 	574.9 sec 
+Set (V): 		dev 
+ 
+Taylor_Swift/Fne0TLDTYtk_0000001 80.7 88.6 
+Taylor_Swift/Fne0TLDTYtk_0000002 137.6 148.6 
+Taylor_Swift/Fne0TLDTYtk_0000003 164.1 168.1 
+Taylor_Swift/Fne0TLDTYtk_0000004 211.4 217.8 
+Taylor_Swift/Fne0TLDTYtk_0000005 227.5 236.6 
+Taylor_Swift/Fne0TLDTYtk_0000006 249.3 253.8 
+Taylor_Swift/Fne0TLDTYtk_0000007 304.6 314.2 
+Taylor_Swift/Fne0TLDTYtk_0000008 321.2 326.5 
+Taylor_Swift/Fne0TLDTYtk_0000009 335.5 349.6 
+Taylor_Swift/Fne0TLDTYtk_0000010 350.3 354.4 
+Taylor_Swift/Fne0TLDTYtk_0000011 355.3 364.6 
+Taylor_Swift/Fne0TLDTYtk_0000012 383.5 402.8 
+Taylor_Swift/Fne0TLDTYtk_0000013 461.3 465.3 
+Taylor_Swift/Fne0TLDTYtk_0000014 468.0 479.1 
+Taylor_Swift/Fne0TLDTYtk_0000015 489.4 493.9 
+Taylor_Swift/Fne0TLDTYtk_0000016 507.2 533.0 
+Taylor_Swift/Fne0TLDTYtk_0000017 542.3 548.1 

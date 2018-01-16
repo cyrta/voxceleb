@@ -1,0 +1,7 @@
+POI: 			John_Krasinski 
+Youtube ID: 	fl6XZ6-vmE0 
+Video length: 	282.7 sec 
+Set (V): 		dev 
+ 
+John_Krasinski/fl6XZ6-vmE0_0000001 69.9 78.2 
+John_Krasinski/fl6XZ6-vmE0_0000002 178.3 195.2 

@@ -1,0 +1,18 @@
+POI: 			Charice 
+Youtube ID: 	UNgiwug0gQ0 
+Video length: 	380.4 sec 
+Set (V): 		dev 
+ 
+Charice/UNgiwug0gQ0_0000001 51.2 55.8 
+Charice/UNgiwug0gQ0_0000002 58.4 63.7 
+Charice/UNgiwug0gQ0_0000003 66.3 71.3 
+Charice/UNgiwug0gQ0_0000004 71.4 76.9 
+Charice/UNgiwug0gQ0_0000005 100.0 110.7 
+Charice/UNgiwug0gQ0_0000006 133.6 142.4 
+Charice/UNgiwug0gQ0_0000007 176.2 182.2 
+Charice/UNgiwug0gQ0_0000008 201.6 208.6 
+Charice/UNgiwug0gQ0_0000009 213.0 217.6 
+Charice/UNgiwug0gQ0_0000010 240.2 250.4 
+Charice/UNgiwug0gQ0_0000011 307.4 311.5 
+Charice/UNgiwug0gQ0_0000012 327.9 332.6 
+Charice/UNgiwug0gQ0_0000013 353.2 360.1 

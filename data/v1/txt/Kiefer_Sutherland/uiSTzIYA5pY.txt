@@ -1,0 +1,12 @@
+POI: 			Kiefer_Sutherland 
+Youtube ID: 	uiSTzIYA5pY 
+Video length: 	288.4 sec 
+Set (V): 		dev 
+ 
+Kiefer_Sutherland/uiSTzIYA5pY_0000001 43.9 54.6 
+Kiefer_Sutherland/uiSTzIYA5pY_0000002 103.6 107.8 
+Kiefer_Sutherland/uiSTzIYA5pY_0000003 108.9 112.8 
+Kiefer_Sutherland/uiSTzIYA5pY_0000004 116.2 129.5 
+Kiefer_Sutherland/uiSTzIYA5pY_0000005 130.1 137.1 
+Kiefer_Sutherland/uiSTzIYA5pY_0000006 180.6 204.7 
+Kiefer_Sutherland/uiSTzIYA5pY_0000007 205.2 216.9 

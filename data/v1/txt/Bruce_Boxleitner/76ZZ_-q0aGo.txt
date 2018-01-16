@@ -1,0 +1,9 @@
+POI: 			Bruce_Boxleitner 
+Youtube ID: 	76ZZ_-q0aGo 
+Video length: 	320.8 sec 
+Set (V): 		dev 
+ 
+Bruce_Boxleitner/76ZZ_-q0aGo_0000001 170.4 186.9 
+Bruce_Boxleitner/76ZZ_-q0aGo_0000002 222.6 226.9 
+Bruce_Boxleitner/76ZZ_-q0aGo_0000003 228.6 234.3 
+Bruce_Boxleitner/76ZZ_-q0aGo_0000004 240.4 248.7 

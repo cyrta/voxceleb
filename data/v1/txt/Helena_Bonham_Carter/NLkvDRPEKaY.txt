@@ -1,0 +1,15 @@
+POI: 			Helena_Bonham_Carter 
+Youtube ID: 	NLkvDRPEKaY 
+Video length: 	189.6 sec 
+Set (V): 		dev 
+ 
+Helena_Bonham_Carter/NLkvDRPEKaY_0000001 14.7 20.2 
+Helena_Bonham_Carter/NLkvDRPEKaY_0000002 30.2 36.3 
+Helena_Bonham_Carter/NLkvDRPEKaY_0000003 40.8 48.6 
+Helena_Bonham_Carter/NLkvDRPEKaY_0000004 58.8 68.4 
+Helena_Bonham_Carter/NLkvDRPEKaY_0000005 96.9 101.3 
+Helena_Bonham_Carter/NLkvDRPEKaY_0000006 102.5 112.6 
+Helena_Bonham_Carter/NLkvDRPEKaY_0000007 114.7 128.8 
+Helena_Bonham_Carter/NLkvDRPEKaY_0000008 130.8 135.4 
+Helena_Bonham_Carter/NLkvDRPEKaY_0000009 145.6 171.6 
+Helena_Bonham_Carter/NLkvDRPEKaY_0000010 178.3 184.7 

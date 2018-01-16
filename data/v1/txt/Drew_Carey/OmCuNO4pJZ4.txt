@@ -1,0 +1,9 @@
+POI: 			Drew_Carey 
+Youtube ID: 	OmCuNO4pJZ4 
+Video length: 	544.6 sec 
+Set (V): 		dev 
+ 
+Drew_Carey/OmCuNO4pJZ4_0000001 206.8 212.1 
+Drew_Carey/OmCuNO4pJZ4_0000002 399.8 407.3 
+Drew_Carey/OmCuNO4pJZ4_0000003 448.6 453.3 
+Drew_Carey/OmCuNO4pJZ4_0000004 513.0 519.5 

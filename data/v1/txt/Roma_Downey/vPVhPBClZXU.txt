@@ -1,0 +1,11 @@
+POI: 			Roma_Downey 
+Youtube ID: 	vPVhPBClZXU 
+Video length: 	513.4 sec 
+Set (V): 		dev 
+ 
+Roma_Downey/vPVhPBClZXU_0000001 133.2 138.8 
+Roma_Downey/vPVhPBClZXU_0000002 154.2 158.7 
+Roma_Downey/vPVhPBClZXU_0000003 160.8 167.1 
+Roma_Downey/vPVhPBClZXU_0000004 167.6 173.3 
+Roma_Downey/vPVhPBClZXU_0000005 308.2 315.7 
+Roma_Downey/vPVhPBClZXU_0000006 320.4 344.4 

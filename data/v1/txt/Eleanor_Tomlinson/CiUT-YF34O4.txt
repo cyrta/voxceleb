@@ -1,0 +1,7 @@
+POI: 			Eleanor_Tomlinson 
+Youtube ID: 	CiUT-YF34O4 
+Video length: 	889.4 sec 
+Set (V): 		test 
+ 
+Eleanor_Tomlinson/CiUT-YF34O4_0000001 165.4 169.7 
+Eleanor_Tomlinson/CiUT-YF34O4_0000002 171.2 177.8 

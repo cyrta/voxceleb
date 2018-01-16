@@ -1,0 +1,10 @@
+POI: 			Mary_Lynn_Rajskub 
+Youtube ID: 	P6Y3EHKASuI 
+Video length: 	128.3 sec 
+Set (V): 		dev 
+ 
+Mary_Lynn_Rajskub/P6Y3EHKASuI_0000001 10.9 20.4 
+Mary_Lynn_Rajskub/P6Y3EHKASuI_0000002 37.6 42.5 
+Mary_Lynn_Rajskub/P6Y3EHKASuI_0000003 61.8 66.8 
+Mary_Lynn_Rajskub/P6Y3EHKASuI_0000004 74.3 86.6 
+Mary_Lynn_Rajskub/P6Y3EHKASuI_0000005 99.1 111.9 

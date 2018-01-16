@@ -1,0 +1,7 @@
+POI: 			Aaron_Tveit 
+Youtube ID: 	CCygVo0iPvw 
+Video length: 	209.7 sec 
+Set (V): 		dev 
+ 
+Aaron_Tveit/CCygVo0iPvw_0000001 55.5 59.9 
+Aaron_Tveit/CCygVo0iPvw_0000002 90.1 104.4 

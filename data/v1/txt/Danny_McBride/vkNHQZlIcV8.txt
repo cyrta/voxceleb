@@ -1,0 +1,13 @@
+POI: 			Danny_McBride 
+Youtube ID: 	vkNHQZlIcV8 
+Video length: 	285.8 sec 
+Set (V): 		dev 
+ 
+Danny_McBride/vkNHQZlIcV8_0000001 05.9 27.1 
+Danny_McBride/vkNHQZlIcV8_0000002 43.3 59.6 
+Danny_McBride/vkNHQZlIcV8_0000003 96.9 117.7 
+Danny_McBride/vkNHQZlIcV8_0000004 127.5 155.2 
+Danny_McBride/vkNHQZlIcV8_0000005 155.8 163.4 
+Danny_McBride/vkNHQZlIcV8_0000006 171.4 195.5 
+Danny_McBride/vkNHQZlIcV8_0000007 208.4 220.1 
+Danny_McBride/vkNHQZlIcV8_0000008 240.3 249.3 

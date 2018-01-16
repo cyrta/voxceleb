@@ -1,0 +1,28 @@
+POI: 			Quentin_Tarantino 
+Youtube ID: 	bPuPOdvbs1c 
+Video length: 	558.2 sec 
+Set (V): 		dev 
+ 
+Quentin_Tarantino/bPuPOdvbs1c_0000001 37.6 43.2 
+Quentin_Tarantino/bPuPOdvbs1c_0000002 45.0 49.4 
+Quentin_Tarantino/bPuPOdvbs1c_0000003 56.9 61.0 
+Quentin_Tarantino/bPuPOdvbs1c_0000004 109.0 114.0 
+Quentin_Tarantino/bPuPOdvbs1c_0000005 120.8 125.9 
+Quentin_Tarantino/bPuPOdvbs1c_0000006 128.5 146.4 
+Quentin_Tarantino/bPuPOdvbs1c_0000007 167.5 171.9 
+Quentin_Tarantino/bPuPOdvbs1c_0000008 199.1 203.5 
+Quentin_Tarantino/bPuPOdvbs1c_0000009 250.8 256.1 
+Quentin_Tarantino/bPuPOdvbs1c_0000010 378.6 388.8 
+Quentin_Tarantino/bPuPOdvbs1c_0000011 406.1 410.2 
+Quentin_Tarantino/bPuPOdvbs1c_0000012 428.4 440.0 
+Quentin_Tarantino/bPuPOdvbs1c_0000013 442.0 447.1 
+Quentin_Tarantino/bPuPOdvbs1c_0000014 447.6 452.4 
+Quentin_Tarantino/bPuPOdvbs1c_0000015 460.2 464.2 
+Quentin_Tarantino/bPuPOdvbs1c_0000016 466.5 472.6 
+Quentin_Tarantino/bPuPOdvbs1c_0000017 472.6 476.8 
+Quentin_Tarantino/bPuPOdvbs1c_0000018 480.6 485.2 
+Quentin_Tarantino/bPuPOdvbs1c_0000019 486.0 497.2 
+Quentin_Tarantino/bPuPOdvbs1c_0000020 498.2 503.1 
+Quentin_Tarantino/bPuPOdvbs1c_0000021 518.2 522.4 
+Quentin_Tarantino/bPuPOdvbs1c_0000022 522.6 533.6 
+Quentin_Tarantino/bPuPOdvbs1c_0000023 549.0 555.1 

@@ -1,0 +1,33 @@
+POI: 			Padma_Lakshmi 
+Youtube ID: 	e8cYt8Kb56s 
+Video length: 	528.0 sec 
+Set (V): 		dev 
+ 
+Padma_Lakshmi/e8cYt8Kb56s_0000001 25.1 32.1 
+Padma_Lakshmi/e8cYt8Kb56s_0000002 32.2 36.6 
+Padma_Lakshmi/e8cYt8Kb56s_0000003 37.6 53.2 
+Padma_Lakshmi/e8cYt8Kb56s_0000004 54.4 74.1 
+Padma_Lakshmi/e8cYt8Kb56s_0000005 83.6 91.6 
+Padma_Lakshmi/e8cYt8Kb56s_0000006 112.2 121.4 
+Padma_Lakshmi/e8cYt8Kb56s_0000007 122.7 132.4 
+Padma_Lakshmi/e8cYt8Kb56s_0000008 144.7 153.4 
+Padma_Lakshmi/e8cYt8Kb56s_0000009 154.4 162.4 
+Padma_Lakshmi/e8cYt8Kb56s_0000010 163.0 169.9 
+Padma_Lakshmi/e8cYt8Kb56s_0000011 172.4 177.7 
+Padma_Lakshmi/e8cYt8Kb56s_0000012 191.2 204.2 
+Padma_Lakshmi/e8cYt8Kb56s_0000013 204.7 245.4 
+Padma_Lakshmi/e8cYt8Kb56s_0000014 245.8 255.6 
+Padma_Lakshmi/e8cYt8Kb56s_0000015 264.4 269.6 
+Padma_Lakshmi/e8cYt8Kb56s_0000016 270.2 278.9 
+Padma_Lakshmi/e8cYt8Kb56s_0000017 279.8 294.0 
+Padma_Lakshmi/e8cYt8Kb56s_0000018 294.7 303.1 
+Padma_Lakshmi/e8cYt8Kb56s_0000019 303.2 309.9 
+Padma_Lakshmi/e8cYt8Kb56s_0000020 310.6 314.6 
+Padma_Lakshmi/e8cYt8Kb56s_0000021 320.3 337.0 
+Padma_Lakshmi/e8cYt8Kb56s_0000022 381.3 406.8 
+Padma_Lakshmi/e8cYt8Kb56s_0000023 407.1 415.1 
+Padma_Lakshmi/e8cYt8Kb56s_0000024 420.5 425.8 
+Padma_Lakshmi/e8cYt8Kb56s_0000025 426.8 432.7 
+Padma_Lakshmi/e8cYt8Kb56s_0000026 451.8 457.8 
+Padma_Lakshmi/e8cYt8Kb56s_0000027 466.2 497.4 
+Padma_Lakshmi/e8cYt8Kb56s_0000028 497.6 504.2 

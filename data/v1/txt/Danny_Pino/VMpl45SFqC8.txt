@@ -1,0 +1,11 @@
+POI: 			Danny_Pino 
+Youtube ID: 	VMpl45SFqC8 
+Video length: 	204.5 sec 
+Set (V): 		dev 
+ 
+Danny_Pino/VMpl45SFqC8_0000001 40.8 45.3 
+Danny_Pino/VMpl45SFqC8_0000002 46.6 54.0 
+Danny_Pino/VMpl45SFqC8_0000003 74.8 84.0 
+Danny_Pino/VMpl45SFqC8_0000004 84.6 88.6 
+Danny_Pino/VMpl45SFqC8_0000005 93.3 98.2 
+Danny_Pino/VMpl45SFqC8_0000006 109.8 114.9 

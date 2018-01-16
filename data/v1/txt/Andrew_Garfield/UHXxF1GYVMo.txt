@@ -1,0 +1,11 @@
+POI: 			Andrew_Garfield 
+Youtube ID: 	UHXxF1GYVMo 
+Video length: 	224.1 sec 
+Set (V): 		dev 
+ 
+Andrew_Garfield/UHXxF1GYVMo_0000001 71.9 82.8 
+Andrew_Garfield/UHXxF1GYVMo_0000002 83.2 89.5 
+Andrew_Garfield/UHXxF1GYVMo_0000003 102.1 112.8 
+Andrew_Garfield/UHXxF1GYVMo_0000004 130.1 145.0 
+Andrew_Garfield/UHXxF1GYVMo_0000005 183.6 188.8 
+Andrew_Garfield/UHXxF1GYVMo_0000006 189.6 195.1 

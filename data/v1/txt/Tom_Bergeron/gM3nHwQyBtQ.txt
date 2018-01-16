@@ -1,0 +1,21 @@
+POI: 			Tom_Bergeron 
+Youtube ID: 	gM3nHwQyBtQ 
+Video length: 	276.2 sec 
+Set (V): 		dev 
+ 
+Tom_Bergeron/gM3nHwQyBtQ_0000001 08.4 13.2 
+Tom_Bergeron/gM3nHwQyBtQ_0000002 14.0 21.6 
+Tom_Bergeron/gM3nHwQyBtQ_0000003 41.2 47.0 
+Tom_Bergeron/gM3nHwQyBtQ_0000004 48.9 55.8 
+Tom_Bergeron/gM3nHwQyBtQ_0000005 90.2 97.5 
+Tom_Bergeron/gM3nHwQyBtQ_0000006 98.4 104.0 
+Tom_Bergeron/gM3nHwQyBtQ_0000007 115.0 119.2 
+Tom_Bergeron/gM3nHwQyBtQ_0000008 131.2 142.6 
+Tom_Bergeron/gM3nHwQyBtQ_0000009 145.8 159.5 
+Tom_Bergeron/gM3nHwQyBtQ_0000010 162.4 176.7 
+Tom_Bergeron/gM3nHwQyBtQ_0000011 178.2 192.1 
+Tom_Bergeron/gM3nHwQyBtQ_0000012 201.6 216.3 
+Tom_Bergeron/gM3nHwQyBtQ_0000013 217.3 229.6 
+Tom_Bergeron/gM3nHwQyBtQ_0000014 235.6 248.6 
+Tom_Bergeron/gM3nHwQyBtQ_0000015 249.8 254.8 
+Tom_Bergeron/gM3nHwQyBtQ_0000016 258.6 266.6 

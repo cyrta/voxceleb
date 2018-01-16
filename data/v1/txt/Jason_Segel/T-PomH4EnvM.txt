@@ -1,0 +1,13 @@
+POI: 			Jason_Segel 
+Youtube ID: 	T-PomH4EnvM 
+Video length: 	116.5 sec 
+Set (V): 		dev 
+ 
+Jason_Segel/T-PomH4EnvM_0000001 05.4 09.9 
+Jason_Segel/T-PomH4EnvM_0000002 19.6 28.6 
+Jason_Segel/T-PomH4EnvM_0000003 29.2 35.3 
+Jason_Segel/T-PomH4EnvM_0000004 39.9 57.7 
+Jason_Segel/T-PomH4EnvM_0000005 58.1 72.3 
+Jason_Segel/T-PomH4EnvM_0000006 76.8 84.8 
+Jason_Segel/T-PomH4EnvM_0000007 86.9 92.5 
+Jason_Segel/T-PomH4EnvM_0000008 93.4 111.0 

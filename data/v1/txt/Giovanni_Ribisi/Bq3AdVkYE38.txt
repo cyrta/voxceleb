@@ -1,0 +1,12 @@
+POI: 			Giovanni_Ribisi 
+Youtube ID: 	Bq3AdVkYE38 
+Video length: 	388.3 sec 
+Set (V): 		dev 
+ 
+Giovanni_Ribisi/Bq3AdVkYE38_0000001 95.2 99.2 
+Giovanni_Ribisi/Bq3AdVkYE38_0000002 115.6 119.6 
+Giovanni_Ribisi/Bq3AdVkYE38_0000003 120.2 124.9 
+Giovanni_Ribisi/Bq3AdVkYE38_0000004 131.8 136.0 
+Giovanni_Ribisi/Bq3AdVkYE38_0000005 138.2 142.8 
+Giovanni_Ribisi/Bq3AdVkYE38_0000006 158.6 171.2 
+Giovanni_Ribisi/Bq3AdVkYE38_0000007 358.4 366.0 

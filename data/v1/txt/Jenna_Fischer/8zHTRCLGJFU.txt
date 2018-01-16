@@ -1,0 +1,13 @@
+POI: 			Jenna_Fischer 
+Youtube ID: 	8zHTRCLGJFU 
+Video length: 	243.3 sec 
+Set (V): 		dev 
+ 
+Jenna_Fischer/8zHTRCLGJFU_0000001 23.0 29.8 
+Jenna_Fischer/8zHTRCLGJFU_0000002 42.2 60.7 
+Jenna_Fischer/8zHTRCLGJFU_0000003 92.7 98.8 
+Jenna_Fischer/8zHTRCLGJFU_0000004 99.2 110.6 
+Jenna_Fischer/8zHTRCLGJFU_0000005 135.6 149.3 
+Jenna_Fischer/8zHTRCLGJFU_0000006 166.7 175.2 
+Jenna_Fischer/8zHTRCLGJFU_0000007 175.6 202.0 
+Jenna_Fischer/8zHTRCLGJFU_0000008 215.4 231.9 

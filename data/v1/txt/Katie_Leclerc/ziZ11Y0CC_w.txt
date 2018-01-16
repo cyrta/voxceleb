@@ -1,0 +1,23 @@
+POI: 			Katie_Leclerc 
+Youtube ID: 	ziZ11Y0CC_w 
+Video length: 	2125.5 sec 
+Set (V): 		dev 
+ 
+Katie_Leclerc/ziZ11Y0CC_w_0000001 249.8 264.5 
+Katie_Leclerc/ziZ11Y0CC_w_0000002 265.2 285.4 
+Katie_Leclerc/ziZ11Y0CC_w_0000003 286.1 297.2 
+Katie_Leclerc/ziZ11Y0CC_w_0000004 414.6 419.8 
+Katie_Leclerc/ziZ11Y0CC_w_0000005 420.0 427.6 
+Katie_Leclerc/ziZ11Y0CC_w_0000006 428.6 452.8 
+Katie_Leclerc/ziZ11Y0CC_w_0000007 1121.0 1125.5 
+Katie_Leclerc/ziZ11Y0CC_w_0000008 1125.8 1137.7 
+Katie_Leclerc/ziZ11Y0CC_w_0000009 1138.1 1143.1 
+Katie_Leclerc/ziZ11Y0CC_w_0000010 1542.1 1549.2 
+Katie_Leclerc/ziZ11Y0CC_w_0000011 1553.8 1561.8 
+Katie_Leclerc/ziZ11Y0CC_w_0000012 1564.1 1568.2 
+Katie_Leclerc/ziZ11Y0CC_w_0000013 1571.9 1577.0 
+Katie_Leclerc/ziZ11Y0CC_w_0000014 1577.8 1582.1 
+Katie_Leclerc/ziZ11Y0CC_w_0000015 1774.3 1778.6 
+Katie_Leclerc/ziZ11Y0CC_w_0000016 1925.6 1932.8 
+Katie_Leclerc/ziZ11Y0CC_w_0000017 1951.4 1960.0 
+Katie_Leclerc/ziZ11Y0CC_w_0000018 1960.8 1967.6 

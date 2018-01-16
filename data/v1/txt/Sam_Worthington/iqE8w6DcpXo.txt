@@ -1,0 +1,13 @@
+POI: 			Sam_Worthington 
+Youtube ID: 	iqE8w6DcpXo 
+Video length: 	323.9 sec 
+Set (V): 		dev 
+ 
+Sam_Worthington/iqE8w6DcpXo_0000001 54.7 61.9 
+Sam_Worthington/iqE8w6DcpXo_0000002 76.7 84.0 
+Sam_Worthington/iqE8w6DcpXo_0000003 127.9 132.5 
+Sam_Worthington/iqE8w6DcpXo_0000004 134.2 141.6 
+Sam_Worthington/iqE8w6DcpXo_0000005 201.3 206.6 
+Sam_Worthington/iqE8w6DcpXo_0000006 269.7 274.4 
+Sam_Worthington/iqE8w6DcpXo_0000007 274.5 279.2 
+Sam_Worthington/iqE8w6DcpXo_0000008 282.3 286.4 

@@ -1,0 +1,10 @@
+POI: 			Anthony_Rapp 
+Youtube ID: 	nHdh6dsdMfE 
+Video length: 	401.4 sec 
+Set (V): 		dev 
+ 
+Anthony_Rapp/nHdh6dsdMfE_0000001 35.4 43.6 
+Anthony_Rapp/nHdh6dsdMfE_0000002 231.4 237.8 
+Anthony_Rapp/nHdh6dsdMfE_0000003 241.2 254.0 
+Anthony_Rapp/nHdh6dsdMfE_0000004 277.5 281.7 
+Anthony_Rapp/nHdh6dsdMfE_0000005 309.7 314.2 

@@ -1,0 +1,15 @@
+POI: 			Guillaume_Canet 
+Youtube ID: 	gT3TbqSdeg8 
+Video length: 	497.1 sec 
+Set (V): 		dev 
+ 
+Guillaume_Canet/gT3TbqSdeg8_0000001 51.2 56.4 
+Guillaume_Canet/gT3TbqSdeg8_0000002 156.7 161.3 
+Guillaume_Canet/gT3TbqSdeg8_0000003 177.0 183.5 
+Guillaume_Canet/gT3TbqSdeg8_0000004 185.0 189.9 
+Guillaume_Canet/gT3TbqSdeg8_0000005 207.9 212.1 
+Guillaume_Canet/gT3TbqSdeg8_0000006 299.6 304.9 
+Guillaume_Canet/gT3TbqSdeg8_0000007 305.6 310.1 
+Guillaume_Canet/gT3TbqSdeg8_0000008 367.1 372.4 
+Guillaume_Canet/gT3TbqSdeg8_0000009 387.7 394.2 
+Guillaume_Canet/gT3TbqSdeg8_0000010 422.3 427.3 

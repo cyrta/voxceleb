@@ -1,0 +1,7 @@
+POI: 			Joan_Cusack 
+Youtube ID: 	NARTXzg1SIw 
+Video length: 	899.0 sec 
+Set (V): 		dev 
+ 
+Joan_Cusack/NARTXzg1SIw_0000001 689.0 698.3 
+Joan_Cusack/NARTXzg1SIw_0000002 788.6 793.6 

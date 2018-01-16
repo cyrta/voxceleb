@@ -1,0 +1,11 @@
+POI: 			Teala_Dunn 
+Youtube ID: 	8UKh-NFYcYU 
+Video length: 	176.8 sec 
+Set (V): 		dev 
+ 
+Teala_Dunn/8UKh-NFYcYU_0000001 15.0 21.3 
+Teala_Dunn/8UKh-NFYcYU_0000002 64.4 69.9 
+Teala_Dunn/8UKh-NFYcYU_0000003 70.1 78.8 
+Teala_Dunn/8UKh-NFYcYU_0000004 93.8 97.8 
+Teala_Dunn/8UKh-NFYcYU_0000005 114.1 118.8 
+Teala_Dunn/8UKh-NFYcYU_0000006 129.6 135.6 

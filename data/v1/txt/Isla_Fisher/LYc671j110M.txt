@@ -1,0 +1,8 @@
+POI: 			Isla_Fisher 
+Youtube ID: 	LYc671j110M 
+Video length: 	231.1 sec 
+Set (V): 		dev 
+ 
+Isla_Fisher/LYc671j110M_0000001 139.4 161.7 
+Isla_Fisher/LYc671j110M_0000002 175.4 181.1 
+Isla_Fisher/LYc671j110M_0000003 181.3 199.4 

@@ -1,0 +1,13 @@
+POI: 			Vanessa_Marcil 
+Youtube ID: 	Gn3aXmfmiw0 
+Video length: 	400.2 sec 
+Set (V): 		dev 
+ 
+Vanessa_Marcil/Gn3aXmfmiw0_0000001 181.6 186.6 
+Vanessa_Marcil/Gn3aXmfmiw0_0000002 187.3 194.1 
+Vanessa_Marcil/Gn3aXmfmiw0_0000003 222.5 231.8 
+Vanessa_Marcil/Gn3aXmfmiw0_0000004 247.4 255.2 
+Vanessa_Marcil/Gn3aXmfmiw0_0000005 259.3 263.5 
+Vanessa_Marcil/Gn3aXmfmiw0_0000006 274.1 283.1 
+Vanessa_Marcil/Gn3aXmfmiw0_0000007 284.0 288.0 
+Vanessa_Marcil/Gn3aXmfmiw0_0000008 295.0 303.6 

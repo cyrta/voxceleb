@@ -1,0 +1,16 @@
+POI: 			Linda_Lavin 
+Youtube ID: 	5ItiBphSXlk 
+Video length: 	456.3 sec 
+Set (V): 		dev 
+ 
+Linda_Lavin/5ItiBphSXlk_0000001 143.9 166.1 
+Linda_Lavin/5ItiBphSXlk_0000002 173.0 177.5 
+Linda_Lavin/5ItiBphSXlk_0000003 190.6 233.6 
+Linda_Lavin/5ItiBphSXlk_0000004 239.7 266.0 
+Linda_Lavin/5ItiBphSXlk_0000005 283.3 290.4 
+Linda_Lavin/5ItiBphSXlk_0000006 312.3 327.0 
+Linda_Lavin/5ItiBphSXlk_0000007 331.8 353.6 
+Linda_Lavin/5ItiBphSXlk_0000008 364.2 372.2 
+Linda_Lavin/5ItiBphSXlk_0000009 373.2 403.6 
+Linda_Lavin/5ItiBphSXlk_0000010 425.9 436.7 
+Linda_Lavin/5ItiBphSXlk_0000011 443.0 447.7 

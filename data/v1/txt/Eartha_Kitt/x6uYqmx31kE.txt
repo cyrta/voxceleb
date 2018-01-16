@@ -1,0 +1,25 @@
+POI: 			Eartha_Kitt 
+Youtube ID: 	x6uYqmx31kE 
+Video length: 	408.8 sec 
+Set (V): 		test 
+ 
+Eartha_Kitt/x6uYqmx31kE_0000001 95.7 101.4 
+Eartha_Kitt/x6uYqmx31kE_0000002 115.9 120.0 
+Eartha_Kitt/x6uYqmx31kE_0000003 121.3 126.1 
+Eartha_Kitt/x6uYqmx31kE_0000004 139.7 153.4 
+Eartha_Kitt/x6uYqmx31kE_0000005 156.9 163.5 
+Eartha_Kitt/x6uYqmx31kE_0000006 171.4 175.4 
+Eartha_Kitt/x6uYqmx31kE_0000007 217.4 223.9 
+Eartha_Kitt/x6uYqmx31kE_0000008 230.0 235.4 
+Eartha_Kitt/x6uYqmx31kE_0000009 241.3 247.9 
+Eartha_Kitt/x6uYqmx31kE_0000010 252.1 256.5 
+Eartha_Kitt/x6uYqmx31kE_0000011 275.4 281.5 
+Eartha_Kitt/x6uYqmx31kE_0000012 283.6 289.4 
+Eartha_Kitt/x6uYqmx31kE_0000013 290.4 296.1 
+Eartha_Kitt/x6uYqmx31kE_0000014 298.2 304.4 
+Eartha_Kitt/x6uYqmx31kE_0000015 308.2 312.7 
+Eartha_Kitt/x6uYqmx31kE_0000016 325.8 336.0 
+Eartha_Kitt/x6uYqmx31kE_0000017 338.3 345.2 
+Eartha_Kitt/x6uYqmx31kE_0000018 362.0 368.4 
+Eartha_Kitt/x6uYqmx31kE_0000019 373.2 377.6 
+Eartha_Kitt/x6uYqmx31kE_0000020 389.3 395.1 

@@ -1,0 +1,12 @@
+POI: 			Kathie_Lee_Gifford 
+Youtube ID: 	Ln-ByTFWQ70 
+Video length: 	272.5 sec 
+Set (V): 		dev 
+ 
+Kathie_Lee_Gifford/Ln-ByTFWQ70_0000001 121.2 130.2 
+Kathie_Lee_Gifford/Ln-ByTFWQ70_0000002 146.2 159.7 
+Kathie_Lee_Gifford/Ln-ByTFWQ70_0000003 167.6 176.3 
+Kathie_Lee_Gifford/Ln-ByTFWQ70_0000004 202.6 207.1 
+Kathie_Lee_Gifford/Ln-ByTFWQ70_0000005 209.2 216.8 
+Kathie_Lee_Gifford/Ln-ByTFWQ70_0000006 223.6 230.0 
+Kathie_Lee_Gifford/Ln-ByTFWQ70_0000007 231.8 238.3 

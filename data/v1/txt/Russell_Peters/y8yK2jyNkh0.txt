@@ -1,0 +1,10 @@
+POI: 			Russell_Peters 
+Youtube ID: 	y8yK2jyNkh0 
+Video length: 	356.4 sec 
+Set (V): 		dev 
+ 
+Russell_Peters/y8yK2jyNkh0_0000001 54.4 59.5 
+Russell_Peters/y8yK2jyNkh0_0000002 197.8 201.8 
+Russell_Peters/y8yK2jyNkh0_0000003 246.8 251.1 
+Russell_Peters/y8yK2jyNkh0_0000004 292.3 296.9 
+Russell_Peters/y8yK2jyNkh0_0000005 312.3 317.3 

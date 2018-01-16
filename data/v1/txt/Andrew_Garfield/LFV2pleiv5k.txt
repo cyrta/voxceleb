@@ -1,0 +1,10 @@
+POI: 			Andrew_Garfield 
+Youtube ID: 	LFV2pleiv5k 
+Video length: 	165.1 sec 
+Set (V): 		dev 
+ 
+Andrew_Garfield/LFV2pleiv5k_0000001 35.8 40.2 
+Andrew_Garfield/LFV2pleiv5k_0000002 47.6 52.6 
+Andrew_Garfield/LFV2pleiv5k_0000003 69.9 76.6 
+Andrew_Garfield/LFV2pleiv5k_0000004 110.9 133.4 
+Andrew_Garfield/LFV2pleiv5k_0000005 137.7 142.6 

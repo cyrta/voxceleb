@@ -1,0 +1,12 @@
+POI: 			Prince 
+Youtube ID: 	rQbqNl_lacg 
+Video length: 	551.2 sec 
+Set (V): 		dev 
+ 
+Prince/rQbqNl_lacg_0000001 57.4 62.5 
+Prince/rQbqNl_lacg_0000002 63.4 69.2 
+Prince/rQbqNl_lacg_0000003 148.0 152.5 
+Prince/rQbqNl_lacg_0000004 152.9 159.9 
+Prince/rQbqNl_lacg_0000005 345.0 349.6 
+Prince/rQbqNl_lacg_0000006 361.5 370.1 
+Prince/rQbqNl_lacg_0000007 478.4 482.8 

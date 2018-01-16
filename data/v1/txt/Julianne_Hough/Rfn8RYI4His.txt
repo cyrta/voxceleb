@@ -1,0 +1,23 @@
+POI: 			Julianne_Hough 
+Youtube ID: 	Rfn8RYI4His 
+Video length: 	479.6 sec 
+Set (V): 		dev 
+ 
+Julianne_Hough/Rfn8RYI4His_0000001 103.5 115.3 
+Julianne_Hough/Rfn8RYI4His_0000002 115.6 124.4 
+Julianne_Hough/Rfn8RYI4His_0000003 125.2 133.6 
+Julianne_Hough/Rfn8RYI4His_0000004 144.2 158.9 
+Julianne_Hough/Rfn8RYI4His_0000005 159.9 165.9 
+Julianne_Hough/Rfn8RYI4His_0000006 166.2 174.1 
+Julianne_Hough/Rfn8RYI4His_0000007 174.4 184.7 
+Julianne_Hough/Rfn8RYI4His_0000008 257.9 270.0 
+Julianne_Hough/Rfn8RYI4His_0000009 314.1 328.1 
+Julianne_Hough/Rfn8RYI4His_0000010 345.3 355.7 
+Julianne_Hough/Rfn8RYI4His_0000011 380.5 385.8 
+Julianne_Hough/Rfn8RYI4His_0000012 386.9 410.4 
+Julianne_Hough/Rfn8RYI4His_0000013 411.9 415.9 
+Julianne_Hough/Rfn8RYI4His_0000014 416.4 420.4 
+Julianne_Hough/Rfn8RYI4His_0000015 422.3 430.8 
+Julianne_Hough/Rfn8RYI4His_0000016 434.2 454.3 
+Julianne_Hough/Rfn8RYI4His_0000017 457.8 463.8 
+Julianne_Hough/Rfn8RYI4His_0000018 465.3 474.5 

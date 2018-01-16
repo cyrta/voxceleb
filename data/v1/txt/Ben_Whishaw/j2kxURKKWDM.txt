@@ -1,0 +1,9 @@
+POI: 			Ben_Whishaw 
+Youtube ID: 	j2kxURKKWDM 
+Video length: 	125.4 sec 
+Set (V): 		dev 
+ 
+Ben_Whishaw/j2kxURKKWDM_0000001 40.0 44.4 
+Ben_Whishaw/j2kxURKKWDM_0000002 63.0 68.0 
+Ben_Whishaw/j2kxURKKWDM_0000003 79.0 84.1 
+Ben_Whishaw/j2kxURKKWDM_0000004 98.9 103.0 

@@ -1,0 +1,7 @@
+POI: 			Tim_Gunn 
+Youtube ID: 	GBMz6v3xz90 
+Video length: 	240.9 sec 
+Set (V): 		dev 
+ 
+Tim_Gunn/GBMz6v3xz90_0000001 09.4 50.8 
+Tim_Gunn/GBMz6v3xz90_0000002 149.1 154.5 

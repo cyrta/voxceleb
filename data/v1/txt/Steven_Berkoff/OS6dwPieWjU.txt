@@ -1,0 +1,14 @@
+POI: 			Steven_Berkoff 
+Youtube ID: 	OS6dwPieWjU 
+Video length: 	251.1 sec 
+Set (V): 		dev 
+ 
+Steven_Berkoff/OS6dwPieWjU_0000001 07.3 14.9 
+Steven_Berkoff/OS6dwPieWjU_0000002 15.7 26.7 
+Steven_Berkoff/OS6dwPieWjU_0000003 60.2 67.4 
+Steven_Berkoff/OS6dwPieWjU_0000004 86.7 92.0 
+Steven_Berkoff/OS6dwPieWjU_0000005 92.7 99.6 
+Steven_Berkoff/OS6dwPieWjU_0000006 106.5 111.6 
+Steven_Berkoff/OS6dwPieWjU_0000007 143.9 148.6 
+Steven_Berkoff/OS6dwPieWjU_0000008 173.2 188.9 
+Steven_Berkoff/OS6dwPieWjU_0000009 228.7 234.3 

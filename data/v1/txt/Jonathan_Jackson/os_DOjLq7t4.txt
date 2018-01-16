@@ -1,0 +1,12 @@
+POI: 			Jonathan_Jackson 
+Youtube ID: 	os_DOjLq7t4 
+Video length: 	238.2 sec 
+Set (V): 		dev 
+ 
+Jonathan_Jackson/os_DOjLq7t4_0000001 01.1 05.3 
+Jonathan_Jackson/os_DOjLq7t4_0000002 06.5 13.3 
+Jonathan_Jackson/os_DOjLq7t4_0000003 14.0 20.5 
+Jonathan_Jackson/os_DOjLq7t4_0000004 21.6 26.3 
+Jonathan_Jackson/os_DOjLq7t4_0000005 27.0 49.1 
+Jonathan_Jackson/os_DOjLq7t4_0000006 129.0 142.5 
+Jonathan_Jackson/os_DOjLq7t4_0000007 146.9 154.4 

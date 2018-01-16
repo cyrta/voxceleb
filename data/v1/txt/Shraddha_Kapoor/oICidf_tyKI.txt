@@ -1,0 +1,13 @@
+POI: 			Shraddha_Kapoor 
+Youtube ID: 	oICidf_tyKI 
+Video length: 	841.2 sec 
+Set (V): 		dev 
+ 
+Shraddha_Kapoor/oICidf_tyKI_0000001 24.4 31.9 
+Shraddha_Kapoor/oICidf_tyKI_0000002 33.0 41.6 
+Shraddha_Kapoor/oICidf_tyKI_0000003 109.3 130.0 
+Shraddha_Kapoor/oICidf_tyKI_0000004 292.6 304.0 
+Shraddha_Kapoor/oICidf_tyKI_0000005 501.6 514.3 
+Shraddha_Kapoor/oICidf_tyKI_0000006 617.8 622.9 
+Shraddha_Kapoor/oICidf_tyKI_0000007 623.7 635.8 
+Shraddha_Kapoor/oICidf_tyKI_0000008 670.9 681.4 

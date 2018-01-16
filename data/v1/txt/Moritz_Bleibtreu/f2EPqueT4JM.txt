@@ -1,0 +1,13 @@
+POI: 			Moritz_Bleibtreu 
+Youtube ID: 	f2EPqueT4JM 
+Video length: 	150.7 sec 
+Set (V): 		dev 
+ 
+Moritz_Bleibtreu/f2EPqueT4JM_0000001 11.1 18.9 
+Moritz_Bleibtreu/f2EPqueT4JM_0000002 38.4 45.8 
+Moritz_Bleibtreu/f2EPqueT4JM_0000003 53.6 61.3 
+Moritz_Bleibtreu/f2EPqueT4JM_0000004 71.6 77.1 
+Moritz_Bleibtreu/f2EPqueT4JM_0000005 79.0 85.0 
+Moritz_Bleibtreu/f2EPqueT4JM_0000006 105.5 111.8 
+Moritz_Bleibtreu/f2EPqueT4JM_0000007 129.1 140.7 
+Moritz_Bleibtreu/f2EPqueT4JM_0000008 137.5 142.9 

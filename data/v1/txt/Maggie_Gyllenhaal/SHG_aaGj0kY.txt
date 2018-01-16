@@ -1,0 +1,9 @@
+POI: 			Maggie_Gyllenhaal 
+Youtube ID: 	SHG_aaGj0kY 
+Video length: 	281.5 sec 
+Set (V): 		dev 
+ 
+Maggie_Gyllenhaal/SHG_aaGj0kY_0000001 49.0 58.0 
+Maggie_Gyllenhaal/SHG_aaGj0kY_0000002 156.8 161.5 
+Maggie_Gyllenhaal/SHG_aaGj0kY_0000003 208.2 213.9 
+Maggie_Gyllenhaal/SHG_aaGj0kY_0000004 227.3 233.6 

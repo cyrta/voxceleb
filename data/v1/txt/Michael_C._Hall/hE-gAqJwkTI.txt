@@ -1,0 +1,9 @@
+POI: 			Michael_C._Hall 
+Youtube ID: 	hE-gAqJwkTI 
+Video length: 	309.1 sec 
+Set (V): 		dev 
+ 
+Michael_C._Hall/hE-gAqJwkTI_0000001 122.8 126.8 
+Michael_C._Hall/hE-gAqJwkTI_0000002 127.4 133.2 
+Michael_C._Hall/hE-gAqJwkTI_0000003 139.0 144.5 
+Michael_C._Hall/hE-gAqJwkTI_0000004 153.0 157.4 

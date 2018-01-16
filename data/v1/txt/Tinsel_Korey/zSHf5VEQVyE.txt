@@ -1,0 +1,11 @@
+POI: 			Tinsel_Korey 
+Youtube ID: 	zSHf5VEQVyE 
+Video length: 	291.1 sec 
+Set (V): 		dev 
+ 
+Tinsel_Korey/zSHf5VEQVyE_0000001 131.6 136.4 
+Tinsel_Korey/zSHf5VEQVyE_0000002 137.0 143.9 
+Tinsel_Korey/zSHf5VEQVyE_0000003 207.1 219.2 
+Tinsel_Korey/zSHf5VEQVyE_0000004 226.8 233.2 
+Tinsel_Korey/zSHf5VEQVyE_0000005 241.7 247.1 
+Tinsel_Korey/zSHf5VEQVyE_0000006 251.4 256.3 

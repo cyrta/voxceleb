@@ -1,0 +1,9 @@
+POI: 			Ricky_Gervais 
+Youtube ID: 	snQMRX2YlHw 
+Video length: 	587.1 sec 
+Set (V): 		dev 
+ 
+Ricky_Gervais/snQMRX2YlHw_0000001 147.5 154.4 
+Ricky_Gervais/snQMRX2YlHw_0000002 187.6 206.6 
+Ricky_Gervais/snQMRX2YlHw_0000003 497.4 502.6 
+Ricky_Gervais/snQMRX2YlHw_0000004 500.9 512.5 

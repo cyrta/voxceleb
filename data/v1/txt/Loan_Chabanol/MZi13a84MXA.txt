@@ -1,0 +1,11 @@
+POI: 			Loan_Chabanol 
+Youtube ID: 	MZi13a84MXA 
+Video length: 	215.6 sec 
+Set (V): 		dev 
+ 
+Loan_Chabanol/MZi13a84MXA_0000001 39.9 48.5 
+Loan_Chabanol/MZi13a84MXA_0000002 65.9 81.7 
+Loan_Chabanol/MZi13a84MXA_0000003 90.4 100.2 
+Loan_Chabanol/MZi13a84MXA_0000004 100.6 104.6 
+Loan_Chabanol/MZi13a84MXA_0000005 108.5 114.0 
+Loan_Chabanol/MZi13a84MXA_0000006 136.2 146.6 

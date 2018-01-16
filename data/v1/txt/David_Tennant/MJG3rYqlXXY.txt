@@ -1,0 +1,7 @@
+POI: 			David_Tennant 
+Youtube ID: 	MJG3rYqlXXY 
+Video length: 	567.4 sec 
+Set (V): 		dev 
+ 
+David_Tennant/MJG3rYqlXXY_0000001 252.2 256.8 
+David_Tennant/MJG3rYqlXXY_0000002 426.0 431.0 

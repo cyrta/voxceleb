@@ -1,0 +1,10 @@
+POI: 			Rob_Reiner 
+Youtube ID: 	SfYt6Y6vrOI 
+Video length: 	145.7 sec 
+Set (V): 		dev 
+ 
+Rob_Reiner/SfYt6Y6vrOI_0000001 29.7 43.2 
+Rob_Reiner/SfYt6Y6vrOI_0000002 49.5 61.5 
+Rob_Reiner/SfYt6Y6vrOI_0000003 70.8 76.7 
+Rob_Reiner/SfYt6Y6vrOI_0000004 83.4 87.5 
+Rob_Reiner/SfYt6Y6vrOI_0000005 89.6 98.8 

@@ -1,0 +1,17 @@
+POI: 			Peter_Coyote 
+Youtube ID: 	8BOqXizft04 
+Video length: 	282.8 sec 
+Set (V): 		dev 
+ 
+Peter_Coyote/8BOqXizft04_0000001 133.8 142.5 
+Peter_Coyote/8BOqXizft04_0000002 145.2 149.4 
+Peter_Coyote/8BOqXizft04_0000003 150.8 156.8 
+Peter_Coyote/8BOqXizft04_0000004 158.8 166.4 
+Peter_Coyote/8BOqXizft04_0000005 171.8 177.3 
+Peter_Coyote/8BOqXizft04_0000006 188.4 195.6 
+Peter_Coyote/8BOqXizft04_0000007 227.0 232.1 
+Peter_Coyote/8BOqXizft04_0000008 232.8 239.8 
+Peter_Coyote/8BOqXizft04_0000009 247.4 253.6 
+Peter_Coyote/8BOqXizft04_0000010 225.9 233.4 
+Peter_Coyote/8BOqXizft04_0000011 238.0 244.6 
+Peter_Coyote/8BOqXizft04_0000012 254.7 259.4 

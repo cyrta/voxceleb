@@ -1,0 +1,19 @@
+POI: 			Noomi_Rapace 
+Youtube ID: 	QfELI4G0Fro 
+Video length: 	251.0 sec 
+Set (V): 		dev 
+ 
+Noomi_Rapace/QfELI4G0Fro_0000001 20.4 29.4 
+Noomi_Rapace/QfELI4G0Fro_0000002 31.2 35.7 
+Noomi_Rapace/QfELI4G0Fro_0000003 52.8 56.8 
+Noomi_Rapace/QfELI4G0Fro_0000004 72.2 82.0 
+Noomi_Rapace/QfELI4G0Fro_0000005 85.4 90.4 
+Noomi_Rapace/QfELI4G0Fro_0000006 90.7 98.9 
+Noomi_Rapace/QfELI4G0Fro_0000007 104.0 108.3 
+Noomi_Rapace/QfELI4G0Fro_0000008 109.1 116.6 
+Noomi_Rapace/QfELI4G0Fro_0000009 122.6 131.7 
+Noomi_Rapace/QfELI4G0Fro_0000010 174.8 178.8 
+Noomi_Rapace/QfELI4G0Fro_0000011 192.2 205.7 
+Noomi_Rapace/QfELI4G0Fro_0000012 180.6 188.0 
+Noomi_Rapace/QfELI4G0Fro_0000013 190.0 206.0 
+Noomi_Rapace/QfELI4G0Fro_0000014 208.4 212.7 

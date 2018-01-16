@@ -1,0 +1,10 @@
+POI: 			Alfre_Woodard 
+Youtube ID: 	HGc7QkB_ysk 
+Video length: 	292.9 sec 
+Set (V): 		dev 
+ 
+Alfre_Woodard/HGc7QkB_ysk_0000001 187.7 193.6 
+Alfre_Woodard/HGc7QkB_ysk_0000002 204.8 209.6 
+Alfre_Woodard/HGc7QkB_ysk_0000003 210.0 214.2 
+Alfre_Woodard/HGc7QkB_ysk_0000004 214.7 221.5 
+Alfre_Woodard/HGc7QkB_ysk_0000005 221.8 226.0 

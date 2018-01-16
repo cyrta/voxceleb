@@ -1,0 +1,9 @@
+POI: 			Chris_Hemsworth 
+Youtube ID: 	3Dj0YycpFlw 
+Video length: 	189.0 sec 
+Set (V): 		dev 
+ 
+Chris_Hemsworth/3Dj0YycpFlw_0000001 42.9 52.8 
+Chris_Hemsworth/3Dj0YycpFlw_0000002 78.3 83.0 
+Chris_Hemsworth/3Dj0YycpFlw_0000003 91.9 96.5 
+Chris_Hemsworth/3Dj0YycpFlw_0000004 140.0 145.1 

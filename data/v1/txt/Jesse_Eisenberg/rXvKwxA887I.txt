@@ -1,0 +1,9 @@
+POI: 			Jesse_Eisenberg 
+Youtube ID: 	rXvKwxA887I 
+Video length: 	198.9 sec 
+Set (V): 		dev 
+ 
+Jesse_Eisenberg/rXvKwxA887I_0000001 17.3 21.6 
+Jesse_Eisenberg/rXvKwxA887I_0000002 24.1 33.9 
+Jesse_Eisenberg/rXvKwxA887I_0000003 168.8 175.4 
+Jesse_Eisenberg/rXvKwxA887I_0000004 183.1 194.7 

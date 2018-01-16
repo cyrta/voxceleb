@@ -1,0 +1,8 @@
+POI: 			Claudia_Lee 
+Youtube ID: 	Pckrc9rJXqI 
+Video length: 	150.1 sec 
+Set (V): 		dev 
+ 
+Claudia_Lee/Pckrc9rJXqI_0000001 40.0 51.3 
+Claudia_Lee/Pckrc9rJXqI_0000002 76.9 85.7 
+Claudia_Lee/Pckrc9rJXqI_0000003 93.6 99.1 

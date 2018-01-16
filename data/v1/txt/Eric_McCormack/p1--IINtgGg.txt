@@ -1,0 +1,9 @@
+POI: 			Eric_McCormack 
+Youtube ID: 	p1--IINtgGg 
+Video length: 	130.1 sec 
+Set (V): 		test 
+ 
+Eric_McCormack/p1--IINtgGg_0000001 17.3 55.4 
+Eric_McCormack/p1--IINtgGg_0000002 71.4 86.2 
+Eric_McCormack/p1--IINtgGg_0000003 93.3 98.2 
+Eric_McCormack/p1--IINtgGg_0000004 110.8 124.4 

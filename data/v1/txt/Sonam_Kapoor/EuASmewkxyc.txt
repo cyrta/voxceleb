@@ -1,0 +1,14 @@
+POI: 			Sonam_Kapoor 
+Youtube ID: 	EuASmewkxyc 
+Video length: 	678.8 sec 
+Set (V): 		dev 
+ 
+Sonam_Kapoor/EuASmewkxyc_0000001 108.0 114.9 
+Sonam_Kapoor/EuASmewkxyc_0000002 128.5 134.0 
+Sonam_Kapoor/EuASmewkxyc_0000003 164.7 168.8 
+Sonam_Kapoor/EuASmewkxyc_0000004 181.8 187.9 
+Sonam_Kapoor/EuASmewkxyc_0000005 261.1 267.6 
+Sonam_Kapoor/EuASmewkxyc_0000006 358.5 362.5 
+Sonam_Kapoor/EuASmewkxyc_0000007 506.6 510.6 
+Sonam_Kapoor/EuASmewkxyc_0000008 516.7 521.9 
+Sonam_Kapoor/EuASmewkxyc_0000009 543.0 548.4 

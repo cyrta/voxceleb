@@ -1,0 +1,17 @@
+POI: 			Amanda_Seyfried 
+Youtube ID: 	WZnAngBVsmM 
+Video length: 	386.5 sec 
+Set (V): 		dev 
+ 
+Amanda_Seyfried/WZnAngBVsmM_0000001 70.3 76.4 
+Amanda_Seyfried/WZnAngBVsmM_0000002 79.2 84.4 
+Amanda_Seyfried/WZnAngBVsmM_0000003 85.0 91.1 
+Amanda_Seyfried/WZnAngBVsmM_0000004 92.4 99.7 
+Amanda_Seyfried/WZnAngBVsmM_0000005 156.1 160.4 
+Amanda_Seyfried/WZnAngBVsmM_0000006 166.0 171.2 
+Amanda_Seyfried/WZnAngBVsmM_0000007 200.0 206.6 
+Amanda_Seyfried/WZnAngBVsmM_0000008 218.7 223.6 
+Amanda_Seyfried/WZnAngBVsmM_0000009 236.2 240.5 
+Amanda_Seyfried/WZnAngBVsmM_0000010 259.4 268.4 
+Amanda_Seyfried/WZnAngBVsmM_0000011 272.6 278.8 
+Amanda_Seyfried/WZnAngBVsmM_0000012 321.5 329.3 

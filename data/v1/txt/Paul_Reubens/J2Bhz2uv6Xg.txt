@@ -1,0 +1,8 @@
+POI: 			Paul_Reubens 
+Youtube ID: 	J2Bhz2uv6Xg 
+Video length: 	541.4 sec 
+Set (V): 		dev 
+ 
+Paul_Reubens/J2Bhz2uv6Xg_0000001 44.2 48.1 
+Paul_Reubens/J2Bhz2uv6Xg_0000002 201.0 206.8 
+Paul_Reubens/J2Bhz2uv6Xg_0000003 461.3 465.9 

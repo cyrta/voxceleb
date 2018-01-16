@@ -1,0 +1,11 @@
+POI: 			John_Slattery 
+Youtube ID: 	2v73FZ1W8HI 
+Video length: 	628.1 sec 
+Set (V): 		dev 
+ 
+John_Slattery/2v73FZ1W8HI_0000001 169.0 176.5 
+John_Slattery/2v73FZ1W8HI_0000002 273.6 286.1 
+John_Slattery/2v73FZ1W8HI_0000003 307.6 312.1 
+John_Slattery/2v73FZ1W8HI_0000004 339.2 345.9 
+John_Slattery/2v73FZ1W8HI_0000005 364.2 376.1 
+John_Slattery/2v73FZ1W8HI_0000006 559.4 564.4 

@@ -1,0 +1,15 @@
+POI: 			Carrie_Ann_Inaba 
+Youtube ID: 	SNrWBLZIh7Y 
+Video length: 	311.2 sec 
+Set (V): 		dev 
+ 
+Carrie_Ann_Inaba/SNrWBLZIh7Y_0000001 38.8 44.4 
+Carrie_Ann_Inaba/SNrWBLZIh7Y_0000002 54.1 59.2 
+Carrie_Ann_Inaba/SNrWBLZIh7Y_0000003 78.6 89.4 
+Carrie_Ann_Inaba/SNrWBLZIh7Y_0000004 104.4 122.0 
+Carrie_Ann_Inaba/SNrWBLZIh7Y_0000005 134.6 157.0 
+Carrie_Ann_Inaba/SNrWBLZIh7Y_0000006 172.7 188.7 
+Carrie_Ann_Inaba/SNrWBLZIh7Y_0000007 210.0 214.4 
+Carrie_Ann_Inaba/SNrWBLZIh7Y_0000008 215.4 263.0 
+Carrie_Ann_Inaba/SNrWBLZIh7Y_0000009 263.7 280.0 
+Carrie_Ann_Inaba/SNrWBLZIh7Y_0000010 296.3 300.4 

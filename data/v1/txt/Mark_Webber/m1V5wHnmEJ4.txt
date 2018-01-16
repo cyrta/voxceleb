@@ -1,0 +1,23 @@
+POI: 			Mark_Webber 
+Youtube ID: 	m1V5wHnmEJ4 
+Video length: 	439.4 sec 
+Set (V): 		dev 
+ 
+Mark_Webber/m1V5wHnmEJ4_0000001 10.6 19.0 
+Mark_Webber/m1V5wHnmEJ4_0000002 34.5 55.8 
+Mark_Webber/m1V5wHnmEJ4_0000003 69.0 74.8 
+Mark_Webber/m1V5wHnmEJ4_0000004 85.8 91.4 
+Mark_Webber/m1V5wHnmEJ4_0000005 132.4 142.2 
+Mark_Webber/m1V5wHnmEJ4_0000006 143.8 149.8 
+Mark_Webber/m1V5wHnmEJ4_0000007 155.2 161.0 
+Mark_Webber/m1V5wHnmEJ4_0000008 163.1 167.5 
+Mark_Webber/m1V5wHnmEJ4_0000009 175.5 188.7 
+Mark_Webber/m1V5wHnmEJ4_0000010 209.8 215.3 
+Mark_Webber/m1V5wHnmEJ4_0000011 234.3 245.2 
+Mark_Webber/m1V5wHnmEJ4_0000012 246.3 250.5 
+Mark_Webber/m1V5wHnmEJ4_0000013 258.6 263.9 
+Mark_Webber/m1V5wHnmEJ4_0000014 278.0 285.2 
+Mark_Webber/m1V5wHnmEJ4_0000015 285.4 290.6 
+Mark_Webber/m1V5wHnmEJ4_0000016 328.0 332.1 
+Mark_Webber/m1V5wHnmEJ4_0000017 332.4 337.1 
+Mark_Webber/m1V5wHnmEJ4_0000018 374.8 379.6 

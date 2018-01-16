@@ -1,0 +1,8 @@
+POI: 			Sean_Bean 
+Youtube ID: 	JS10043A3Gw 
+Video length: 	197.3 sec 
+Set (V): 		dev 
+ 
+Sean_Bean/JS10043A3Gw_0000001 22.4 27.6 
+Sean_Bean/JS10043A3Gw_0000002 116.1 120.8 
+Sean_Bean/JS10043A3Gw_0000003 169.8 179.4 

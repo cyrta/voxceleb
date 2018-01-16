@@ -1,0 +1,9 @@
+POI: 			Wentworth_Miller 
+Youtube ID: 	_eRbIqzimYk 
+Video length: 	479.3 sec 
+Set (V): 		dev 
+ 
+Wentworth_Miller/_eRbIqzimYk_0000001 276.6 281.6 
+Wentworth_Miller/_eRbIqzimYk_0000002 287.0 294.0 
+Wentworth_Miller/_eRbIqzimYk_0000003 295.7 301.0 
+Wentworth_Miller/_eRbIqzimYk_0000004 305.3 316.6 

@@ -1,0 +1,11 @@
+POI: 			Amaury_Nolasco 
+Youtube ID: 	xOylntZnhlA 
+Video length: 	783.3 sec 
+Set (V): 		dev 
+ 
+Amaury_Nolasco/xOylntZnhlA_0000001 368.3 373.2 
+Amaury_Nolasco/xOylntZnhlA_0000002 388.6 393.4 
+Amaury_Nolasco/xOylntZnhlA_0000003 410.9 415.0 
+Amaury_Nolasco/xOylntZnhlA_0000004 420.9 427.2 
+Amaury_Nolasco/xOylntZnhlA_0000005 434.6 447.9 
+Amaury_Nolasco/xOylntZnhlA_0000006 452.6 463.2 

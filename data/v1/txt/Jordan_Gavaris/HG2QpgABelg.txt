@@ -1,0 +1,8 @@
+POI: 			Jordan_Gavaris 
+Youtube ID: 	HG2QpgABelg 
+Video length: 	610.8 sec 
+Set (V): 		dev 
+ 
+Jordan_Gavaris/HG2QpgABelg_0000001 229.9 234.3 
+Jordan_Gavaris/HG2QpgABelg_0000002 530.9 535.0 
+Jordan_Gavaris/HG2QpgABelg_0000003 576.1 580.1 

@@ -1,0 +1,10 @@
+POI: 			Katherine_McNamara 
+Youtube ID: 	YBE9X_mpy60 
+Video length: 	430.6 sec 
+Set (V): 		dev 
+ 
+Katherine_McNamara/YBE9X_mpy60_0000001 62.6 68.5 
+Katherine_McNamara/YBE9X_mpy60_0000002 116.2 120.2 
+Katherine_McNamara/YBE9X_mpy60_0000003 186.8 191.0 
+Katherine_McNamara/YBE9X_mpy60_0000004 221.0 225.8 
+Katherine_McNamara/YBE9X_mpy60_0000005 327.4 332.4 

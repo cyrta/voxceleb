@@ -1,0 +1,15 @@
+POI: 			Mark_Ruffalo 
+Youtube ID: 	iSvNDlJVfTw 
+Video length: 	442.5 sec 
+Set (V): 		dev 
+ 
+Mark_Ruffalo/iSvNDlJVfTw_0000001 96.6 103.5 
+Mark_Ruffalo/iSvNDlJVfTw_0000002 162.7 167.5 
+Mark_Ruffalo/iSvNDlJVfTw_0000003 168.1 177.9 
+Mark_Ruffalo/iSvNDlJVfTw_0000004 185.7 200.6 
+Mark_Ruffalo/iSvNDlJVfTw_0000005 211.8 219.6 
+Mark_Ruffalo/iSvNDlJVfTw_0000006 227.7 239.8 
+Mark_Ruffalo/iSvNDlJVfTw_0000007 268.4 288.7 
+Mark_Ruffalo/iSvNDlJVfTw_0000008 289.1 307.6 
+Mark_Ruffalo/iSvNDlJVfTw_0000009 318.0 343.8 
+Mark_Ruffalo/iSvNDlJVfTw_0000010 403.4 416.1 

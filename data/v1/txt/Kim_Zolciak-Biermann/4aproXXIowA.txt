@@ -1,0 +1,8 @@
+POI: 			Kim_Zolciak-Biermann 
+Youtube ID: 	4aproXXIowA 
+Video length: 	87.0 sec 
+Set (V): 		dev 
+ 
+Kim_Zolciak-Biermann/4aproXXIowA_0000001 15.4 22.4 
+Kim_Zolciak-Biermann/4aproXXIowA_0000002 22.8 45.7 
+Kim_Zolciak-Biermann/4aproXXIowA_0000003 51.0 73.0 

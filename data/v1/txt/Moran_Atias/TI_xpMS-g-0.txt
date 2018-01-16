@@ -1,0 +1,12 @@
+POI: 			Moran_Atias 
+Youtube ID: 	TI_xpMS-g-0 
+Video length: 	300.1 sec 
+Set (V): 		dev 
+ 
+Moran_Atias/TI_xpMS-g-0_0000001 37.2 53.1 
+Moran_Atias/TI_xpMS-g-0_0000002 54.3 65.5 
+Moran_Atias/TI_xpMS-g-0_0000003 74.1 82.4 
+Moran_Atias/TI_xpMS-g-0_0000004 100.1 108.3 
+Moran_Atias/TI_xpMS-g-0_0000005 118.7 147.0 
+Moran_Atias/TI_xpMS-g-0_0000006 193.8 201.9 
+Moran_Atias/TI_xpMS-g-0_0000007 211.0 241.2 

@@ -1,0 +1,25 @@
+POI: 			Serinda_Swan 
+Youtube ID: 	gvnkb0zyGHw 
+Video length: 	661.6 sec 
+Set (V): 		dev 
+ 
+Serinda_Swan/gvnkb0zyGHw_0000001 51.8 72.4 
+Serinda_Swan/gvnkb0zyGHw_0000002 81.9 91.0 
+Serinda_Swan/gvnkb0zyGHw_0000003 138.1 144.8 
+Serinda_Swan/gvnkb0zyGHw_0000004 147.4 152.0 
+Serinda_Swan/gvnkb0zyGHw_0000005 173.7 193.1 
+Serinda_Swan/gvnkb0zyGHw_0000006 203.4 207.9 
+Serinda_Swan/gvnkb0zyGHw_0000007 218.3 224.3 
+Serinda_Swan/gvnkb0zyGHw_0000008 236.8 241.2 
+Serinda_Swan/gvnkb0zyGHw_0000009 283.0 288.6 
+Serinda_Swan/gvnkb0zyGHw_0000010 326.2 333.1 
+Serinda_Swan/gvnkb0zyGHw_0000011 353.4 359.8 
+Serinda_Swan/gvnkb0zyGHw_0000012 366.8 374.9 
+Serinda_Swan/gvnkb0zyGHw_0000013 393.2 400.2 
+Serinda_Swan/gvnkb0zyGHw_0000014 416.1 424.4 
+Serinda_Swan/gvnkb0zyGHw_0000015 477.3 483.0 
+Serinda_Swan/gvnkb0zyGHw_0000016 532.4 538.8 
+Serinda_Swan/gvnkb0zyGHw_0000017 564.2 569.0 
+Serinda_Swan/gvnkb0zyGHw_0000018 573.2 578.6 
+Serinda_Swan/gvnkb0zyGHw_0000019 580.6 585.0 
+Serinda_Swan/gvnkb0zyGHw_0000020 600.9 610.7 

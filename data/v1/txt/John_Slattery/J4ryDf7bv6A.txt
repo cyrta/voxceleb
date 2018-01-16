@@ -1,0 +1,14 @@
+POI: 			John_Slattery 
+Youtube ID: 	J4ryDf7bv6A 
+Video length: 	383.4 sec 
+Set (V): 		dev 
+ 
+John_Slattery/J4ryDf7bv6A_0000001 48.5 53.4 
+John_Slattery/J4ryDf7bv6A_0000002 72.5 79.5 
+John_Slattery/J4ryDf7bv6A_0000003 163.2 169.3 
+John_Slattery/J4ryDf7bv6A_0000004 173.4 178.4 
+John_Slattery/J4ryDf7bv6A_0000005 183.3 190.6 
+John_Slattery/J4ryDf7bv6A_0000006 206.5 212.2 
+John_Slattery/J4ryDf7bv6A_0000007 292.3 296.2 
+John_Slattery/J4ryDf7bv6A_0000008 315.4 323.3 
+John_Slattery/J4ryDf7bv6A_0000009 346.5 351.1 

@@ -1,0 +1,7 @@
+POI: 			Janice_Dickinson 
+Youtube ID: 	2zup9v8x0FM 
+Video length: 	101.4 sec 
+Set (V): 		dev 
+ 
+Janice_Dickinson/2zup9v8x0FM_0000001 29.4 37.0 
+Janice_Dickinson/2zup9v8x0FM_0000002 64.6 69.8 

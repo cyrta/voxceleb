@@ -1,0 +1,19 @@
+POI: 			Kierston_Wareing 
+Youtube ID: 	Z80CH9zm_ek 
+Video length: 	332.7 sec 
+Set (V): 		dev 
+ 
+Kierston_Wareing/Z80CH9zm_ek_0000001 06.0 16.3 
+Kierston_Wareing/Z80CH9zm_ek_0000002 30.2 37.4 
+Kierston_Wareing/Z80CH9zm_ek_0000003 51.0 61.2 
+Kierston_Wareing/Z80CH9zm_ek_0000004 74.2 79.4 
+Kierston_Wareing/Z80CH9zm_ek_0000005 80.1 89.0 
+Kierston_Wareing/Z80CH9zm_ek_0000006 100.8 114.3 
+Kierston_Wareing/Z80CH9zm_ek_0000007 124.4 129.7 
+Kierston_Wareing/Z80CH9zm_ek_0000008 133.9 138.6 
+Kierston_Wareing/Z80CH9zm_ek_0000009 186.9 192.1 
+Kierston_Wareing/Z80CH9zm_ek_0000010 238.9 246.6 
+Kierston_Wareing/Z80CH9zm_ek_0000011 262.3 267.8 
+Kierston_Wareing/Z80CH9zm_ek_0000012 273.7 283.7 
+Kierston_Wareing/Z80CH9zm_ek_0000013 291.0 294.9 
+Kierston_Wareing/Z80CH9zm_ek_0000014 298.0 304.1 

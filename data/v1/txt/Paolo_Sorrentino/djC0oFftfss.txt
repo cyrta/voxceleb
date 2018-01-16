@@ -1,0 +1,22 @@
+POI: 			Paolo_Sorrentino 
+Youtube ID: 	djC0oFftfss 
+Video length: 	381.9 sec 
+Set (V): 		dev 
+ 
+Paolo_Sorrentino/djC0oFftfss_0000001 30.6 34.7 
+Paolo_Sorrentino/djC0oFftfss_0000002 60.7 65.4 
+Paolo_Sorrentino/djC0oFftfss_0000003 69.6 76.2 
+Paolo_Sorrentino/djC0oFftfss_0000004 107.2 123.2 
+Paolo_Sorrentino/djC0oFftfss_0000005 124.1 134.0 
+Paolo_Sorrentino/djC0oFftfss_0000006 150.5 157.2 
+Paolo_Sorrentino/djC0oFftfss_0000007 159.3 167.2 
+Paolo_Sorrentino/djC0oFftfss_0000008 189.2 193.6 
+Paolo_Sorrentino/djC0oFftfss_0000009 197.2 205.5 
+Paolo_Sorrentino/djC0oFftfss_0000010 210.1 214.6 
+Paolo_Sorrentino/djC0oFftfss_0000011 236.1 250.6 
+Paolo_Sorrentino/djC0oFftfss_0000012 253.0 257.3 
+Paolo_Sorrentino/djC0oFftfss_0000013 265.2 270.9 
+Paolo_Sorrentino/djC0oFftfss_0000014 271.0 275.6 
+Paolo_Sorrentino/djC0oFftfss_0000015 277.8 284.5 
+Paolo_Sorrentino/djC0oFftfss_0000016 327.6 333.8 
+Paolo_Sorrentino/djC0oFftfss_0000017 352.4 359.4 

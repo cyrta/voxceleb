@@ -1,0 +1,11 @@
+POI: 			Jacqueline_MacInnes_Wood 
+Youtube ID: 	aOyg3xDbI5c 
+Video length: 	271.5 sec 
+Set (V): 		dev 
+ 
+Jacqueline_MacInnes_Wood/aOyg3xDbI5c_0000001 35.2 41.0 
+Jacqueline_MacInnes_Wood/aOyg3xDbI5c_0000002 42.8 54.7 
+Jacqueline_MacInnes_Wood/aOyg3xDbI5c_0000003 80.4 86.6 
+Jacqueline_MacInnes_Wood/aOyg3xDbI5c_0000004 119.2 130.5 
+Jacqueline_MacInnes_Wood/aOyg3xDbI5c_0000005 139.4 150.6 
+Jacqueline_MacInnes_Wood/aOyg3xDbI5c_0000006 157.7 162.8 

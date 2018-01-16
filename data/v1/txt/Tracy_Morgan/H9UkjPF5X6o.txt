@@ -1,0 +1,7 @@
+POI: 			Tracy_Morgan 
+Youtube ID: 	H9UkjPF5X6o 
+Video length: 	288.5 sec 
+Set (V): 		dev 
+ 
+Tracy_Morgan/H9UkjPF5X6o_0000001 47.2 55.7 
+Tracy_Morgan/H9UkjPF5X6o_0000002 246.3 255.3 

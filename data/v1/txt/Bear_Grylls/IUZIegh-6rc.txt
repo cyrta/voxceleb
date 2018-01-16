@@ -1,0 +1,37 @@
+POI: 			Bear_Grylls 
+Youtube ID: 	IUZIegh-6rc 
+Video length: 	550.7 sec 
+Set (V): 		dev 
+ 
+Bear_Grylls/IUZIegh-6rc_0000001 02.5 16.5 
+Bear_Grylls/IUZIegh-6rc_0000002 16.6 27.1 
+Bear_Grylls/IUZIegh-6rc_0000003 30.4 36.2 
+Bear_Grylls/IUZIegh-6rc_0000004 38.6 58.3 
+Bear_Grylls/IUZIegh-6rc_0000005 62.0 67.2 
+Bear_Grylls/IUZIegh-6rc_0000006 78.0 82.7 
+Bear_Grylls/IUZIegh-6rc_0000007 86.0 103.1 
+Bear_Grylls/IUZIegh-6rc_0000008 113.7 118.4 
+Bear_Grylls/IUZIegh-6rc_0000009 123.2 140.4 
+Bear_Grylls/IUZIegh-6rc_0000010 155.9 162.2 
+Bear_Grylls/IUZIegh-6rc_0000011 162.8 167.4 
+Bear_Grylls/IUZIegh-6rc_0000012 172.7 177.7 
+Bear_Grylls/IUZIegh-6rc_0000013 179.0 190.1 
+Bear_Grylls/IUZIegh-6rc_0000014 192.5 205.0 
+Bear_Grylls/IUZIegh-6rc_0000015 209.7 218.2 
+Bear_Grylls/IUZIegh-6rc_0000016 220.4 224.5 
+Bear_Grylls/IUZIegh-6rc_0000017 226.8 241.3 
+Bear_Grylls/IUZIegh-6rc_0000018 242.6 252.8 
+Bear_Grylls/IUZIegh-6rc_0000019 257.8 266.5 
+Bear_Grylls/IUZIegh-6rc_0000020 268.7 272.9 
+Bear_Grylls/IUZIegh-6rc_0000021 276.6 287.0 
+Bear_Grylls/IUZIegh-6rc_0000022 290.9 295.1 
+Bear_Grylls/IUZIegh-6rc_0000023 297.8 318.4 
+Bear_Grylls/IUZIegh-6rc_0000024 318.7 325.5 
+Bear_Grylls/IUZIegh-6rc_0000025 331.9 343.8 
+Bear_Grylls/IUZIegh-6rc_0000026 348.2 359.2 
+Bear_Grylls/IUZIegh-6rc_0000027 362.8 376.5 
+Bear_Grylls/IUZIegh-6rc_0000028 376.7 387.6 
+Bear_Grylls/IUZIegh-6rc_0000029 393.7 397.8 
+Bear_Grylls/IUZIegh-6rc_0000030 400.0 408.4 
+Bear_Grylls/IUZIegh-6rc_0000031 413.4 418.8 
+Bear_Grylls/IUZIegh-6rc_0000032 429.8 442.1 

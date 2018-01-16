@@ -1,0 +1,9 @@
+POI: 			Todd_Lasance 
+Youtube ID: 	I1RimG6oT6Q 
+Video length: 	77.5 sec 
+Set (V): 		dev 
+ 
+Todd_Lasance/I1RimG6oT6Q_0000001 37.1 47.0 
+Todd_Lasance/I1RimG6oT6Q_0000002 49.3 55.4 
+Todd_Lasance/I1RimG6oT6Q_0000003 56.0 61.4 
+Todd_Lasance/I1RimG6oT6Q_0000004 62.1 68.5 

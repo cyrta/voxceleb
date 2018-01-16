@@ -1,0 +1,7 @@
+POI: 			Zachary_Quinto 
+Youtube ID: 	lpuSyPlmv3c 
+Video length: 	209.3 sec 
+Set (V): 		dev 
+ 
+Zachary_Quinto/lpuSyPlmv3c_0000001 137.5 145.4 
+Zachary_Quinto/lpuSyPlmv3c_0000002 177.6 182.2 

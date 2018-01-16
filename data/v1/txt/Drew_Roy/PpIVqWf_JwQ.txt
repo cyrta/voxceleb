@@ -1,0 +1,7 @@
+POI: 			Drew_Roy 
+Youtube ID: 	PpIVqWf_JwQ 
+Video length: 	1103.5 sec 
+Set (V): 		dev 
+ 
+Drew_Roy/PpIVqWf_JwQ_0000001 626.8 630.8 
+Drew_Roy/PpIVqWf_JwQ_0000002 1037.1 1042.6 

@@ -1,0 +1,8 @@
+POI: 			Shay_Mitchell 
+Youtube ID: 	Hrei0_T7fIc 
+Video length: 	226.0 sec 
+Set (V): 		dev 
+ 
+Shay_Mitchell/Hrei0_T7fIc_0000001 104.0 113.6 
+Shay_Mitchell/Hrei0_T7fIc_0000002 199.4 206.4 
+Shay_Mitchell/Hrei0_T7fIc_0000003 207.0 214.0 

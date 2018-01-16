@@ -1,0 +1,8 @@
+POI: 			Neil_deGrasse_Tyson 
+Youtube ID: 	YO1iBtahFWU 
+Video length: 	372.5 sec 
+Set (V): 		dev 
+ 
+Neil_deGrasse_Tyson/YO1iBtahFWU_0000001 71.8 76.0 
+Neil_deGrasse_Tyson/YO1iBtahFWU_0000002 92.0 97.1 
+Neil_deGrasse_Tyson/YO1iBtahFWU_0000003 146.0 151.0 

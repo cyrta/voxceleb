@@ -1,0 +1,10 @@
+POI: 			Kristen_Schaal 
+Youtube ID: 	12nv1g3AGUQ 
+Video length: 	128.4 sec 
+Set (V): 		dev 
+ 
+Kristen_Schaal/12nv1g3AGUQ_0000001 06.5 15.3 
+Kristen_Schaal/12nv1g3AGUQ_0000002 37.4 43.9 
+Kristen_Schaal/12nv1g3AGUQ_0000003 44.9 49.8 
+Kristen_Schaal/12nv1g3AGUQ_0000004 74.2 78.9 
+Kristen_Schaal/12nv1g3AGUQ_0000005 86.6 92.9 

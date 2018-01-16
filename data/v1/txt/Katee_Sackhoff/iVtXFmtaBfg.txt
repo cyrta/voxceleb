@@ -1,0 +1,12 @@
+POI: 			Katee_Sackhoff 
+Youtube ID: 	iVtXFmtaBfg 
+Video length: 	279.5 sec 
+Set (V): 		dev 
+ 
+Katee_Sackhoff/iVtXFmtaBfg_0000001 49.1 63.2 
+Katee_Sackhoff/iVtXFmtaBfg_0000002 66.8 72.2 
+Katee_Sackhoff/iVtXFmtaBfg_0000003 87.7 116.0 
+Katee_Sackhoff/iVtXFmtaBfg_0000004 134.1 146.3 
+Katee_Sackhoff/iVtXFmtaBfg_0000005 152.8 170.8 
+Katee_Sackhoff/iVtXFmtaBfg_0000006 226.8 251.9 
+Katee_Sackhoff/iVtXFmtaBfg_0000007 253.0 258.9 

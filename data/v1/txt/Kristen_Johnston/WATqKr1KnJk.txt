@@ -1,0 +1,11 @@
+POI: 			Kristen_Johnston 
+Youtube ID: 	WATqKr1KnJk 
+Video length: 	185.4 sec 
+Set (V): 		dev 
+ 
+Kristen_Johnston/WATqKr1KnJk_0000001 32.5 36.9 
+Kristen_Johnston/WATqKr1KnJk_0000002 44.4 51.9 
+Kristen_Johnston/WATqKr1KnJk_0000003 56.2 66.2 
+Kristen_Johnston/WATqKr1KnJk_0000004 105.2 111.0 
+Kristen_Johnston/WATqKr1KnJk_0000005 114.8 119.5 
+Kristen_Johnston/WATqKr1KnJk_0000006 157.5 168.1 

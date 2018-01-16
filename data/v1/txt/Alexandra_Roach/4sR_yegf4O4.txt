@@ -1,0 +1,14 @@
+POI: 			Alexandra_Roach 
+Youtube ID: 	4sR_yegf4O4 
+Video length: 	272.3 sec 
+Set (V): 		dev 
+ 
+Alexandra_Roach/4sR_yegf4O4_0000001 26.8 34.3 
+Alexandra_Roach/4sR_yegf4O4_0000002 44.3 60.2 
+Alexandra_Roach/4sR_yegf4O4_0000003 60.3 78.4 
+Alexandra_Roach/4sR_yegf4O4_0000004 104.0 113.2 
+Alexandra_Roach/4sR_yegf4O4_0000005 174.4 179.9 
+Alexandra_Roach/4sR_yegf4O4_0000006 205.8 210.0 
+Alexandra_Roach/4sR_yegf4O4_0000007 214.6 222.9 
+Alexandra_Roach/4sR_yegf4O4_0000008 229.9 241.2 
+Alexandra_Roach/4sR_yegf4O4_0000009 249.8 266.8 

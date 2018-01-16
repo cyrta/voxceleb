@@ -1,0 +1,12 @@
+POI: 			Josh_Henderson 
+Youtube ID: 	eswfrt1d9AE 
+Video length: 	218.3 sec 
+Set (V): 		dev 
+ 
+Josh_Henderson/eswfrt1d9AE_0000001 12.6 24.2 
+Josh_Henderson/eswfrt1d9AE_0000002 26.1 36.4 
+Josh_Henderson/eswfrt1d9AE_0000003 127.5 131.7 
+Josh_Henderson/eswfrt1d9AE_0000004 133.8 147.9 
+Josh_Henderson/eswfrt1d9AE_0000005 174.6 178.8 
+Josh_Henderson/eswfrt1d9AE_0000006 181.0 193.7 
+Josh_Henderson/eswfrt1d9AE_0000007 194.4 212.3 

@@ -1,0 +1,11 @@
+POI: 			Toby_Stephens 
+Youtube ID: 	kvqNCn2dtw0 
+Video length: 	225.1 sec 
+Set (V): 		dev 
+ 
+Toby_Stephens/kvqNCn2dtw0_0000001 68.7 83.2 
+Toby_Stephens/kvqNCn2dtw0_0000002 84.1 102.6 
+Toby_Stephens/kvqNCn2dtw0_0000003 103.8 110.3 
+Toby_Stephens/kvqNCn2dtw0_0000004 111.2 121.2 
+Toby_Stephens/kvqNCn2dtw0_0000005 121.6 148.0 
+Toby_Stephens/kvqNCn2dtw0_0000006 202.3 207.2 

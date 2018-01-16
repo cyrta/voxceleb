@@ -1,0 +1,7 @@
+POI: 			Charice 
+Youtube ID: 	sgYGenlbsfI 
+Video length: 	248.2 sec 
+Set (V): 		dev 
+ 
+Charice/sgYGenlbsfI_0000001 57.5 62.0 
+Charice/sgYGenlbsfI_0000002 68.2 72.5 

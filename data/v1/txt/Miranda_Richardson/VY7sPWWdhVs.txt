@@ -1,0 +1,13 @@
+POI: 			Miranda_Richardson 
+Youtube ID: 	VY7sPWWdhVs 
+Video length: 	222.8 sec 
+Set (V): 		dev 
+ 
+Miranda_Richardson/VY7sPWWdhVs_0000001 16.8 22.0 
+Miranda_Richardson/VY7sPWWdhVs_0000002 64.6 68.7 
+Miranda_Richardson/VY7sPWWdhVs_0000003 69.4 74.0 
+Miranda_Richardson/VY7sPWWdhVs_0000004 77.4 82.3 
+Miranda_Richardson/VY7sPWWdhVs_0000005 100.9 110.3 
+Miranda_Richardson/VY7sPWWdhVs_0000006 113.6 122.7 
+Miranda_Richardson/VY7sPWWdhVs_0000007 134.7 139.4 
+Miranda_Richardson/VY7sPWWdhVs_0000008 177.9 186.9 

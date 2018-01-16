@@ -1,0 +1,9 @@
+POI: 			Ryan_Ochoa 
+Youtube ID: 	BV5J-ildy98 
+Video length: 	493.3 sec 
+Set (V): 		dev 
+ 
+Ryan_Ochoa/BV5J-ildy98_0000001 106.8 111.5 
+Ryan_Ochoa/BV5J-ildy98_0000002 211.2 225.0 
+Ryan_Ochoa/BV5J-ildy98_0000003 310.5 314.8 
+Ryan_Ochoa/BV5J-ildy98_0000004 448.7 453.6 

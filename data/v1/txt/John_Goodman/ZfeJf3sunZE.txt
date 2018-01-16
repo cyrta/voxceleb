@@ -1,0 +1,10 @@
+POI: 			John_Goodman 
+Youtube ID: 	ZfeJf3sunZE 
+Video length: 	347.5 sec 
+Set (V): 		dev 
+ 
+John_Goodman/ZfeJf3sunZE_0000001 92.3 98.0 
+John_Goodman/ZfeJf3sunZE_0000002 101.9 109.5 
+John_Goodman/ZfeJf3sunZE_0000003 242.1 248.4 
+John_Goodman/ZfeJf3sunZE_0000004 270.5 276.8 
+John_Goodman/ZfeJf3sunZE_0000005 282.1 290.0 

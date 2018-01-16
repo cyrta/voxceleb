@@ -1,0 +1,7 @@
+POI: 			Molly_Ringwald 
+Youtube ID: 	yiONiEZVmzI 
+Video length: 	142.1 sec 
+Set (V): 		dev 
+ 
+Molly_Ringwald/yiONiEZVmzI_0000001 27.4 32.6 
+Molly_Ringwald/yiONiEZVmzI_0000002 33.6 43.0 

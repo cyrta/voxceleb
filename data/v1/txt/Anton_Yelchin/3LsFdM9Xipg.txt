@@ -1,0 +1,19 @@
+POI: 			Anton_Yelchin 
+Youtube ID: 	3LsFdM9Xipg 
+Video length: 	302.9 sec 
+Set (V): 		dev 
+ 
+Anton_Yelchin/3LsFdM9Xipg_0000001 31.6 39.0 
+Anton_Yelchin/3LsFdM9Xipg_0000002 44.5 55.0 
+Anton_Yelchin/3LsFdM9Xipg_0000003 55.1 61.8 
+Anton_Yelchin/3LsFdM9Xipg_0000004 62.4 72.0 
+Anton_Yelchin/3LsFdM9Xipg_0000005 73.2 77.6 
+Anton_Yelchin/3LsFdM9Xipg_0000006 79.6 93.0 
+Anton_Yelchin/3LsFdM9Xipg_0000007 100.3 111.4 
+Anton_Yelchin/3LsFdM9Xipg_0000008 111.6 118.8 
+Anton_Yelchin/3LsFdM9Xipg_0000009 140.6 162.0 
+Anton_Yelchin/3LsFdM9Xipg_0000010 162.6 167.2 
+Anton_Yelchin/3LsFdM9Xipg_0000011 190.1 194.1 
+Anton_Yelchin/3LsFdM9Xipg_0000012 194.4 202.0 
+Anton_Yelchin/3LsFdM9Xipg_0000013 208.0 219.1 
+Anton_Yelchin/3LsFdM9Xipg_0000014 220.1 227.5 

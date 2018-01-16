@@ -1,0 +1,18 @@
+POI: 			Diego_Luna 
+Youtube ID: 	vWUgw3xuOjc 
+Video length: 	231.4 sec 
+Set (V): 		dev 
+ 
+Diego_Luna/vWUgw3xuOjc_0000001 35.0 39.6 
+Diego_Luna/vWUgw3xuOjc_0000002 42.8 49.6 
+Diego_Luna/vWUgw3xuOjc_0000003 55.4 60.4 
+Diego_Luna/vWUgw3xuOjc_0000004 63.0 72.7 
+Diego_Luna/vWUgw3xuOjc_0000005 108.2 112.6 
+Diego_Luna/vWUgw3xuOjc_0000006 120.6 129.4 
+Diego_Luna/vWUgw3xuOjc_0000007 132.6 139.6 
+Diego_Luna/vWUgw3xuOjc_0000008 149.3 155.8 
+Diego_Luna/vWUgw3xuOjc_0000009 156.0 163.2 
+Diego_Luna/vWUgw3xuOjc_0000010 175.5 179.8 
+Diego_Luna/vWUgw3xuOjc_0000011 191.2 196.9 
+Diego_Luna/vWUgw3xuOjc_0000012 197.6 205.0 
+Diego_Luna/vWUgw3xuOjc_0000013 216.0 223.2 

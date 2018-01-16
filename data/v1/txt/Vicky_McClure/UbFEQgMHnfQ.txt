@@ -1,0 +1,37 @@
+POI: 			Vicky_McClure 
+Youtube ID: 	UbFEQgMHnfQ 
+Video length: 	565.3 sec 
+Set (V): 		dev 
+ 
+Vicky_McClure/UbFEQgMHnfQ_0000001 18.7 26.3 
+Vicky_McClure/UbFEQgMHnfQ_0000002 31.0 39.8 
+Vicky_McClure/UbFEQgMHnfQ_0000003 55.0 60.4 
+Vicky_McClure/UbFEQgMHnfQ_0000004 62.2 69.8 
+Vicky_McClure/UbFEQgMHnfQ_0000005 91.0 105.6 
+Vicky_McClure/UbFEQgMHnfQ_0000006 106.2 110.2 
+Vicky_McClure/UbFEQgMHnfQ_0000007 111.1 115.8 
+Vicky_McClure/UbFEQgMHnfQ_0000008 116.8 127.9 
+Vicky_McClure/UbFEQgMHnfQ_0000009 132.7 137.1 
+Vicky_McClure/UbFEQgMHnfQ_0000010 146.7 155.2 
+Vicky_McClure/UbFEQgMHnfQ_0000011 156.2 161.4 
+Vicky_McClure/UbFEQgMHnfQ_0000012 174.3 182.2 
+Vicky_McClure/UbFEQgMHnfQ_0000013 184.6 190.0 
+Vicky_McClure/UbFEQgMHnfQ_0000014 201.4 206.2 
+Vicky_McClure/UbFEQgMHnfQ_0000015 224.8 241.8 
+Vicky_McClure/UbFEQgMHnfQ_0000016 248.0 255.0 
+Vicky_McClure/UbFEQgMHnfQ_0000017 265.7 270.5 
+Vicky_McClure/UbFEQgMHnfQ_0000018 295.0 302.0 
+Vicky_McClure/UbFEQgMHnfQ_0000019 315.7 324.0 
+Vicky_McClure/UbFEQgMHnfQ_0000020 326.6 332.0 
+Vicky_McClure/UbFEQgMHnfQ_0000021 344.2 349.0 
+Vicky_McClure/UbFEQgMHnfQ_0000022 359.8 365.3 
+Vicky_McClure/UbFEQgMHnfQ_0000023 367.0 394.4 
+Vicky_McClure/UbFEQgMHnfQ_0000024 413.2 417.9 
+Vicky_McClure/UbFEQgMHnfQ_0000025 420.4 424.7 
+Vicky_McClure/UbFEQgMHnfQ_0000026 436.1 440.7 
+Vicky_McClure/UbFEQgMHnfQ_0000027 454.3 460.9 
+Vicky_McClure/UbFEQgMHnfQ_0000028 463.0 474.2 
+Vicky_McClure/UbFEQgMHnfQ_0000029 476.9 484.4 
+Vicky_McClure/UbFEQgMHnfQ_0000030 485.2 490.2 
+Vicky_McClure/UbFEQgMHnfQ_0000031 513.7 525.8 
+Vicky_McClure/UbFEQgMHnfQ_0000032 527.9 539.6 

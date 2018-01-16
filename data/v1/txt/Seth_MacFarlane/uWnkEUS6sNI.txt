@@ -1,0 +1,13 @@
+POI: 			Seth_MacFarlane 
+Youtube ID: 	uWnkEUS6sNI 
+Video length: 	139.4 sec 
+Set (V): 		dev 
+ 
+Seth_MacFarlane/uWnkEUS6sNI_0000001 10.1 17.2 
+Seth_MacFarlane/uWnkEUS6sNI_0000002 22.6 29.6 
+Seth_MacFarlane/uWnkEUS6sNI_0000003 33.9 38.6 
+Seth_MacFarlane/uWnkEUS6sNI_0000004 55.2 61.6 
+Seth_MacFarlane/uWnkEUS6sNI_0000005 62.6 70.2 
+Seth_MacFarlane/uWnkEUS6sNI_0000006 81.4 90.0 
+Seth_MacFarlane/uWnkEUS6sNI_0000007 107.4 113.0 
+Seth_MacFarlane/uWnkEUS6sNI_0000008 116.1 128.8 

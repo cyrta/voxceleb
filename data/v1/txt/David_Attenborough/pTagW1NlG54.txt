@@ -1,0 +1,47 @@
+POI: 			David_Attenborough 
+Youtube ID: 	pTagW1NlG54 
+Video length: 	1349.3 sec 
+Set (V): 		dev 
+ 
+David_Attenborough/pTagW1NlG54_0000001 65.2 75.5 
+David_Attenborough/pTagW1NlG54_0000002 76.2 80.8 
+David_Attenborough/pTagW1NlG54_0000003 86.1 92.6 
+David_Attenborough/pTagW1NlG54_0000004 98.3 102.5 
+David_Attenborough/pTagW1NlG54_0000005 132.0 145.5 
+David_Attenborough/pTagW1NlG54_0000006 158.4 163.4 
+David_Attenborough/pTagW1NlG54_0000007 163.9 180.6 
+David_Attenborough/pTagW1NlG54_0000008 181.8 186.8 
+David_Attenborough/pTagW1NlG54_0000009 187.2 194.4 
+David_Attenborough/pTagW1NlG54_0000010 211.0 219.7 
+David_Attenborough/pTagW1NlG54_0000011 220.6 228.0 
+David_Attenborough/pTagW1NlG54_0000012 234.0 242.0 
+David_Attenborough/pTagW1NlG54_0000013 247.0 253.1 
+David_Attenborough/pTagW1NlG54_0000014 253.8 263.1 
+David_Attenborough/pTagW1NlG54_0000015 270.8 279.3 
+David_Attenborough/pTagW1NlG54_0000016 279.6 289.6 
+David_Attenborough/pTagW1NlG54_0000017 349.0 373.4 
+David_Attenborough/pTagW1NlG54_0000018 415.8 424.6 
+David_Attenborough/pTagW1NlG54_0000019 426.0 438.3 
+David_Attenborough/pTagW1NlG54_0000020 463.8 469.2 
+David_Attenborough/pTagW1NlG54_0000021 592.7 596.7 
+David_Attenborough/pTagW1NlG54_0000022 615.7 621.5 
+David_Attenborough/pTagW1NlG54_0000023 622.5 628.2 
+David_Attenborough/pTagW1NlG54_0000024 628.4 637.1 
+David_Attenborough/pTagW1NlG54_0000025 687.5 696.7 
+David_Attenborough/pTagW1NlG54_0000026 714.7 722.1 
+David_Attenborough/pTagW1NlG54_0000027 723.8 731.0 
+David_Attenborough/pTagW1NlG54_0000028 733.0 753.0 
+David_Attenborough/pTagW1NlG54_0000029 804.3 819.0 
+David_Attenborough/pTagW1NlG54_0000030 819.6 825.5 
+David_Attenborough/pTagW1NlG54_0000031 825.9 836.7 
+David_Attenborough/pTagW1NlG54_0000032 845.3 850.0 
+David_Attenborough/pTagW1NlG54_0000033 850.1 854.4 
+David_Attenborough/pTagW1NlG54_0000034 855.6 868.2 
+David_Attenborough/pTagW1NlG54_0000035 880.0 890.8 
+David_Attenborough/pTagW1NlG54_0000036 1081.2 1085.8 
+David_Attenborough/pTagW1NlG54_0000037 1101.1 1105.1 
+David_Attenborough/pTagW1NlG54_0000038 1126.8 1139.5 
+David_Attenborough/pTagW1NlG54_0000039 1154.3 1162.8 
+David_Attenborough/pTagW1NlG54_0000040 1172.1 1180.5 
+David_Attenborough/pTagW1NlG54_0000041 1182.8 1194.7 
+David_Attenborough/pTagW1NlG54_0000042 1195.5 1199.7 

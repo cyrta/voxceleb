@@ -1,0 +1,8 @@
+POI: 			Dane_Cook 
+Youtube ID: 	0ArgJy-K0YE 
+Video length: 	222.7 sec 
+Set (V): 		dev 
+ 
+Dane_Cook/0ArgJy-K0YE_0000001 64.9 79.2 
+Dane_Cook/0ArgJy-K0YE_0000002 166.4 171.7 
+Dane_Cook/0ArgJy-K0YE_0000003 176.3 185.8 

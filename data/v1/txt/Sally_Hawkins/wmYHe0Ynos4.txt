@@ -1,0 +1,13 @@
+POI: 			Sally_Hawkins 
+Youtube ID: 	wmYHe0Ynos4 
+Video length: 	234.7 sec 
+Set (V): 		dev 
+ 
+Sally_Hawkins/wmYHe0Ynos4_0000001 54.6 59.7 
+Sally_Hawkins/wmYHe0Ynos4_0000002 64.6 70.0 
+Sally_Hawkins/wmYHe0Ynos4_0000003 72.2 76.2 
+Sally_Hawkins/wmYHe0Ynos4_0000004 95.3 101.8 
+Sally_Hawkins/wmYHe0Ynos4_0000005 104.2 119.2 
+Sally_Hawkins/wmYHe0Ynos4_0000006 119.4 125.8 
+Sally_Hawkins/wmYHe0Ynos4_0000007 157.3 162.7 
+Sally_Hawkins/wmYHe0Ynos4_0000008 221.6 226.3 

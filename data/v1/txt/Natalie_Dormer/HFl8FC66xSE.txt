@@ -1,0 +1,8 @@
+POI: 			Natalie_Dormer 
+Youtube ID: 	HFl8FC66xSE 
+Video length: 	95.1 sec 
+Set (V): 		dev 
+ 
+Natalie_Dormer/HFl8FC66xSE_0000001 15.2 25.4 
+Natalie_Dormer/HFl8FC66xSE_0000002 52.7 58.0 
+Natalie_Dormer/HFl8FC66xSE_0000003 78.1 84.0 

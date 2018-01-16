@@ -1,0 +1,34 @@
+POI: 			Taylor_Swift 
+Youtube ID: 	nuBaabkzzzI 
+Video length: 	1222.0 sec 
+Set (V): 		dev 
+ 
+Taylor_Swift/nuBaabkzzzI_0000001 51.3 56.7 
+Taylor_Swift/nuBaabkzzzI_0000002 99.2 103.2 
+Taylor_Swift/nuBaabkzzzI_0000003 103.6 110.6 
+Taylor_Swift/nuBaabkzzzI_0000004 111.8 117.2 
+Taylor_Swift/nuBaabkzzzI_0000005 152.4 158.3 
+Taylor_Swift/nuBaabkzzzI_0000006 200.1 206.0 
+Taylor_Swift/nuBaabkzzzI_0000007 229.4 235.8 
+Taylor_Swift/nuBaabkzzzI_0000008 331.6 340.2 
+Taylor_Swift/nuBaabkzzzI_0000009 352.6 360.5 
+Taylor_Swift/nuBaabkzzzI_0000010 430.3 438.3 
+Taylor_Swift/nuBaabkzzzI_0000011 482.9 488.5 
+Taylor_Swift/nuBaabkzzzI_0000012 515.3 519.3 
+Taylor_Swift/nuBaabkzzzI_0000013 520.1 524.4 
+Taylor_Swift/nuBaabkzzzI_0000014 552.9 558.0 
+Taylor_Swift/nuBaabkzzzI_0000015 565.5 571.2 
+Taylor_Swift/nuBaabkzzzI_0000016 611.1 617.2 
+Taylor_Swift/nuBaabkzzzI_0000017 639.3 655.0 
+Taylor_Swift/nuBaabkzzzI_0000018 677.8 683.6 
+Taylor_Swift/nuBaabkzzzI_0000019 727.4 738.2 
+Taylor_Swift/nuBaabkzzzI_0000020 760.4 767.6 
+Taylor_Swift/nuBaabkzzzI_0000021 836.2 841.6 
+Taylor_Swift/nuBaabkzzzI_0000022 880.7 885.8 
+Taylor_Swift/nuBaabkzzzI_0000023 918.7 923.0 
+Taylor_Swift/nuBaabkzzzI_0000024 999.6 1008.3 
+Taylor_Swift/nuBaabkzzzI_0000025 1052.3 1056.4 
+Taylor_Swift/nuBaabkzzzI_0000026 1060.0 1065.3 
+Taylor_Swift/nuBaabkzzzI_0000027 1160.4 1169.9 
+Taylor_Swift/nuBaabkzzzI_0000028 1170.5 1175.3 
+Taylor_Swift/nuBaabkzzzI_0000029 1198.2 1208.6 

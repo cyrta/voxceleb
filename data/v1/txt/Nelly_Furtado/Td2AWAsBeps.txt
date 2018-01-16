@@ -1,0 +1,15 @@
+POI: 			Nelly_Furtado 
+Youtube ID: 	Td2AWAsBeps 
+Video length: 	341.6 sec 
+Set (V): 		dev 
+ 
+Nelly_Furtado/Td2AWAsBeps_0000001 35.2 39.5 
+Nelly_Furtado/Td2AWAsBeps_0000002 47.7 51.7 
+Nelly_Furtado/Td2AWAsBeps_0000003 55.2 59.9 
+Nelly_Furtado/Td2AWAsBeps_0000004 62.0 67.2 
+Nelly_Furtado/Td2AWAsBeps_0000005 92.4 96.8 
+Nelly_Furtado/Td2AWAsBeps_0000006 167.8 172.9 
+Nelly_Furtado/Td2AWAsBeps_0000007 180.2 184.6 
+Nelly_Furtado/Td2AWAsBeps_0000008 205.2 211.8 
+Nelly_Furtado/Td2AWAsBeps_0000009 289.3 293.3 
+Nelly_Furtado/Td2AWAsBeps_0000010 312.7 318.8 

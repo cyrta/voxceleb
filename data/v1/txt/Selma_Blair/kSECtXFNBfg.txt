@@ -1,0 +1,9 @@
+POI: 			Selma_Blair 
+Youtube ID: 	kSECtXFNBfg 
+Video length: 	78.8 sec 
+Set (V): 		dev 
+ 
+Selma_Blair/kSECtXFNBfg_0000001 15.6 20.1 
+Selma_Blair/kSECtXFNBfg_0000002 45.8 53.1 
+Selma_Blair/kSECtXFNBfg_0000003 54.8 58.9 
+Selma_Blair/kSECtXFNBfg_0000004 59.4 63.4 

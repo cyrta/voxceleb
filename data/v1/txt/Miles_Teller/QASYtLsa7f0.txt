@@ -1,0 +1,16 @@
+POI: 			Miles_Teller 
+Youtube ID: 	QASYtLsa7f0 
+Video length: 	182.5 sec 
+Set (V): 		dev 
+ 
+Miles_Teller/QASYtLsa7f0_0000001 02.4 10.0 
+Miles_Teller/QASYtLsa7f0_0000002 10.5 17.6 
+Miles_Teller/QASYtLsa7f0_0000003 19.1 46.4 
+Miles_Teller/QASYtLsa7f0_0000004 52.7 66.8 
+Miles_Teller/QASYtLsa7f0_0000005 67.9 72.0 
+Miles_Teller/QASYtLsa7f0_0000006 86.2 108.2 
+Miles_Teller/QASYtLsa7f0_0000007 108.7 121.8 
+Miles_Teller/QASYtLsa7f0_0000008 127.1 139.9 
+Miles_Teller/QASYtLsa7f0_0000009 145.2 154.2 
+Miles_Teller/QASYtLsa7f0_0000010 154.4 159.4 
+Miles_Teller/QASYtLsa7f0_0000011 172.7 177.9 

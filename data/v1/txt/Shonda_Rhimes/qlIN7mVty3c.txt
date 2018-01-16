@@ -1,0 +1,11 @@
+POI: 			Shonda_Rhimes 
+Youtube ID: 	qlIN7mVty3c 
+Video length: 	192.8 sec 
+Set (V): 		dev 
+ 
+Shonda_Rhimes/qlIN7mVty3c_0000001 48.2 52.6 
+Shonda_Rhimes/qlIN7mVty3c_0000002 100.0 104.4 
+Shonda_Rhimes/qlIN7mVty3c_0000003 117.0 122.6 
+Shonda_Rhimes/qlIN7mVty3c_0000004 122.9 127.9 
+Shonda_Rhimes/qlIN7mVty3c_0000005 136.6 141.9 
+Shonda_Rhimes/qlIN7mVty3c_0000006 150.9 161.5 

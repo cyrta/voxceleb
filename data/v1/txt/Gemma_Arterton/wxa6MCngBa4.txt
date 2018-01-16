@@ -1,0 +1,16 @@
+POI: 			Gemma_Arterton 
+Youtube ID: 	wxa6MCngBa4 
+Video length: 	181.5 sec 
+Set (V): 		dev 
+ 
+Gemma_Arterton/wxa6MCngBa4_0000001 18.0 29.4 
+Gemma_Arterton/wxa6MCngBa4_0000002 32.2 36.2 
+Gemma_Arterton/wxa6MCngBa4_0000003 63.7 72.3 
+Gemma_Arterton/wxa6MCngBa4_0000004 72.9 77.2 
+Gemma_Arterton/wxa6MCngBa4_0000005 78.9 85.5 
+Gemma_Arterton/wxa6MCngBa4_0000006 89.4 94.8 
+Gemma_Arterton/wxa6MCngBa4_0000007 127.0 132.2 
+Gemma_Arterton/wxa6MCngBa4_0000008 135.0 142.7 
+Gemma_Arterton/wxa6MCngBa4_0000009 143.7 152.0 
+Gemma_Arterton/wxa6MCngBa4_0000010 156.6 163.5 
+Gemma_Arterton/wxa6MCngBa4_0000011 165.5 171.4 

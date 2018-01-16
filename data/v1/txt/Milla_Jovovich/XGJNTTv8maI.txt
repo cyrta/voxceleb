@@ -1,0 +1,10 @@
+POI: 			Milla_Jovovich 
+Youtube ID: 	XGJNTTv8maI 
+Video length: 	218.2 sec 
+Set (V): 		dev 
+ 
+Milla_Jovovich/XGJNTTv8maI_0000001 15.5 25.8 
+Milla_Jovovich/XGJNTTv8maI_0000002 68.5 92.3 
+Milla_Jovovich/XGJNTTv8maI_0000003 129.0 134.0 
+Milla_Jovovich/XGJNTTv8maI_0000004 138.6 143.9 
+Milla_Jovovich/XGJNTTv8maI_0000005 178.1 189.3 

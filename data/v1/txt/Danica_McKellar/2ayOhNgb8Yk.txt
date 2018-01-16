@@ -1,0 +1,14 @@
+POI: 			Danica_McKellar 
+Youtube ID: 	2ayOhNgb8Yk 
+Video length: 	378.4 sec 
+Set (V): 		dev 
+ 
+Danica_McKellar/2ayOhNgb8Yk_0000001 70.6 74.7 
+Danica_McKellar/2ayOhNgb8Yk_0000002 137.6 143.6 
+Danica_McKellar/2ayOhNgb8Yk_0000003 173.7 191.7 
+Danica_McKellar/2ayOhNgb8Yk_0000004 197.0 205.0 
+Danica_McKellar/2ayOhNgb8Yk_0000005 231.8 235.8 
+Danica_McKellar/2ayOhNgb8Yk_0000006 267.2 275.5 
+Danica_McKellar/2ayOhNgb8Yk_0000007 318.6 322.7 
+Danica_McKellar/2ayOhNgb8Yk_0000008 330.4 335.0 
+Danica_McKellar/2ayOhNgb8Yk_0000009 365.9 369.8 

@@ -1,0 +1,7 @@
+POI: 			Dylan_Moran 
+Youtube ID: 	fBbAmURijSs 
+Video length: 	18.7 sec 
+Set (V): 		dev 
+ 
+Dylan_Moran/fBbAmURijSs_0000001 00.8 09.0 
+Dylan_Moran/fBbAmURijSs_0000002 09.6 14.8 

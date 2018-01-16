@@ -1,0 +1,7 @@
+POI: 			Bruno_Mars 
+Youtube ID: 	Xlvi4H6dKxg 
+Video length: 	438.0 sec 
+Set (V): 		dev 
+ 
+Bruno_Mars/Xlvi4H6dKxg_0000001 81.5 85.9 
+Bruno_Mars/Xlvi4H6dKxg_0000002 99.7 104.3 

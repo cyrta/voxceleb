@@ -1,0 +1,8 @@
+POI: 			Katie_Cleary 
+Youtube ID: 	mWC4NlrKglQ 
+Video length: 	240.1 sec 
+Set (V): 		dev 
+ 
+Katie_Cleary/mWC4NlrKglQ_0000001 05.2 15.7 
+Katie_Cleary/mWC4NlrKglQ_0000002 132.0 136.5 
+Katie_Cleary/mWC4NlrKglQ_0000003 228.6 233.1 

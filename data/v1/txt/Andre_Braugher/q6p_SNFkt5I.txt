@@ -1,0 +1,7 @@
+POI: 			Andre_Braugher 
+Youtube ID: 	q6p_SNFkt5I 
+Video length: 	232.2 sec 
+Set (V): 		dev 
+ 
+Andre_Braugher/q6p_SNFkt5I_0000001 147.3 151.6 
+Andre_Braugher/q6p_SNFkt5I_0000002 168.8 176.3 

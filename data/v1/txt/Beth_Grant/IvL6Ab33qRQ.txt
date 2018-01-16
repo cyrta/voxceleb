@@ -1,0 +1,7 @@
+POI: 			Beth_Grant 
+Youtube ID: 	IvL6Ab33qRQ 
+Video length: 	251.1 sec 
+Set (V): 		dev 
+ 
+Beth_Grant/IvL6Ab33qRQ_0000001 62.2 66.4 
+Beth_Grant/IvL6Ab33qRQ_0000002 72.6 78.1 

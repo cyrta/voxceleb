@@ -1,0 +1,14 @@
+POI: 			Luke_Newberry 
+Youtube ID: 	1ibDTdyaD6k 
+Video length: 	211.7 sec 
+Set (V): 		dev 
+ 
+Luke_Newberry/1ibDTdyaD6k_0000001 06.4 24.9 
+Luke_Newberry/1ibDTdyaD6k_0000002 46.6 52.5 
+Luke_Newberry/1ibDTdyaD6k_0000003 63.8 70.2 
+Luke_Newberry/1ibDTdyaD6k_0000004 70.9 75.4 
+Luke_Newberry/1ibDTdyaD6k_0000005 88.4 93.4 
+Luke_Newberry/1ibDTdyaD6k_0000006 93.9 98.6 
+Luke_Newberry/1ibDTdyaD6k_0000007 120.7 128.8 
+Luke_Newberry/1ibDTdyaD6k_0000008 137.1 141.3 
+Luke_Newberry/1ibDTdyaD6k_0000009 160.2 171.1 

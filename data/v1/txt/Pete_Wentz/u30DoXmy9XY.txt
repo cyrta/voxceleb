@@ -1,0 +1,22 @@
+POI: 			Pete_Wentz 
+Youtube ID: 	u30DoXmy9XY 
+Video length: 	637.8 sec 
+Set (V): 		dev 
+ 
+Pete_Wentz/u30DoXmy9XY_0000001 150.2 155.1 
+Pete_Wentz/u30DoXmy9XY_0000002 155.7 160.6 
+Pete_Wentz/u30DoXmy9XY_0000003 155.2 159.3 
+Pete_Wentz/u30DoXmy9XY_0000004 187.7 192.0 
+Pete_Wentz/u30DoXmy9XY_0000005 232.2 243.0 
+Pete_Wentz/u30DoXmy9XY_0000006 243.8 250.8 
+Pete_Wentz/u30DoXmy9XY_0000007 252.4 257.1 
+Pete_Wentz/u30DoXmy9XY_0000008 306.4 322.8 
+Pete_Wentz/u30DoXmy9XY_0000009 335.7 342.7 
+Pete_Wentz/u30DoXmy9XY_0000010 345.2 352.3 
+Pete_Wentz/u30DoXmy9XY_0000011 402.3 413.4 
+Pete_Wentz/u30DoXmy9XY_0000012 417.7 427.8 
+Pete_Wentz/u30DoXmy9XY_0000013 432.8 437.8 
+Pete_Wentz/u30DoXmy9XY_0000014 449.9 460.6 
+Pete_Wentz/u30DoXmy9XY_0000015 471.8 484.1 
+Pete_Wentz/u30DoXmy9XY_0000016 554.7 560.1 
+Pete_Wentz/u30DoXmy9XY_0000017 586.2 595.0 

@@ -1,0 +1,10 @@
+POI: 			Amy_Schumer 
+Youtube ID: 	YRl-hC5lsL0 
+Video length: 	208.0 sec 
+Set (V): 		dev 
+ 
+Amy_Schumer/YRl-hC5lsL0_0000001 09.3 16.7 
+Amy_Schumer/YRl-hC5lsL0_0000002 25.4 29.5 
+Amy_Schumer/YRl-hC5lsL0_0000003 38.5 43.8 
+Amy_Schumer/YRl-hC5lsL0_0000004 44.1 50.1 
+Amy_Schumer/YRl-hC5lsL0_0000005 112.6 122.9 

@@ -1,0 +1,9 @@
+POI: 			Martine_McCutcheon 
+Youtube ID: 	9PG5m8pGEIQ 
+Video length: 	158.6 sec 
+Set (V): 		dev 
+ 
+Martine_McCutcheon/9PG5m8pGEIQ_0000001 34.4 41.8 
+Martine_McCutcheon/9PG5m8pGEIQ_0000002 57.9 64.6 
+Martine_McCutcheon/9PG5m8pGEIQ_0000003 72.0 79.5 
+Martine_McCutcheon/9PG5m8pGEIQ_0000004 144.6 150.8 

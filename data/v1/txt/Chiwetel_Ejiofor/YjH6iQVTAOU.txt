@@ -1,0 +1,9 @@
+POI: 			Chiwetel_Ejiofor 
+Youtube ID: 	YjH6iQVTAOU 
+Video length: 	173.7 sec 
+Set (V): 		dev 
+ 
+Chiwetel_Ejiofor/YjH6iQVTAOU_0000001 13.5 26.0 
+Chiwetel_Ejiofor/YjH6iQVTAOU_0000002 61.4 82.3 
+Chiwetel_Ejiofor/YjH6iQVTAOU_0000003 82.8 89.3 
+Chiwetel_Ejiofor/YjH6iQVTAOU_0000004 131.1 141.2 

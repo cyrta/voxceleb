@@ -1,0 +1,12 @@
+POI: 			Taraji_P._Henson 
+Youtube ID: 	KLN_2wbZ90U 
+Video length: 	324.3 sec 
+Set (V): 		dev 
+ 
+Taraji_P._Henson/KLN_2wbZ90U_0000001 63.9 73.2 
+Taraji_P._Henson/KLN_2wbZ90U_0000002 106.7 111.6 
+Taraji_P._Henson/KLN_2wbZ90U_0000003 122.1 128.1 
+Taraji_P._Henson/KLN_2wbZ90U_0000004 142.3 153.8 
+Taraji_P._Henson/KLN_2wbZ90U_0000005 155.6 160.8 
+Taraji_P._Henson/KLN_2wbZ90U_0000006 161.8 170.9 
+Taraji_P._Henson/KLN_2wbZ90U_0000007 202.6 209.9 

@@ -1,0 +1,7 @@
+POI: 			Hope_Solo 
+Youtube ID: 	OOx5h2aad6E 
+Video length: 	164.3 sec 
+Set (V): 		dev 
+ 
+Hope_Solo/OOx5h2aad6E_0000001 108.0 113.7 
+Hope_Solo/OOx5h2aad6E_0000002 117.6 124.5 

@@ -1,0 +1,11 @@
+POI: 			Marie_Osmond 
+Youtube ID: 	VNowySPXrMc 
+Video length: 	255.6 sec 
+Set (V): 		dev 
+ 
+Marie_Osmond/VNowySPXrMc_0000001 31.2 37.4 
+Marie_Osmond/VNowySPXrMc_0000002 33.3 37.4 
+Marie_Osmond/VNowySPXrMc_0000003 58.6 63.0 
+Marie_Osmond/VNowySPXrMc_0000004 99.0 103.1 
+Marie_Osmond/VNowySPXrMc_0000005 131.7 140.9 
+Marie_Osmond/VNowySPXrMc_0000006 177.5 187.4 

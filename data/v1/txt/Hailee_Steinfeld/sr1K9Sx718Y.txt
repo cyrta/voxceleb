@@ -1,0 +1,10 @@
+POI: 			Hailee_Steinfeld 
+Youtube ID: 	sr1K9Sx718Y 
+Video length: 	260.0 sec 
+Set (V): 		dev 
+ 
+Hailee_Steinfeld/sr1K9Sx718Y_0000001 27.7 33.1 
+Hailee_Steinfeld/sr1K9Sx718Y_0000002 77.1 84.0 
+Hailee_Steinfeld/sr1K9Sx718Y_0000003 158.6 164.1 
+Hailee_Steinfeld/sr1K9Sx718Y_0000004 191.3 197.0 
+Hailee_Steinfeld/sr1K9Sx718Y_0000005 199.6 215.4 

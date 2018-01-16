@@ -1,0 +1,9 @@
+POI: 			Susan_Lucci 
+Youtube ID: 	u2tsC27cnqk 
+Video length: 	102.8 sec 
+Set (V): 		dev 
+ 
+Susan_Lucci/u2tsC27cnqk_0000001 41.0 46.6 
+Susan_Lucci/u2tsC27cnqk_0000002 49.7 54.7 
+Susan_Lucci/u2tsC27cnqk_0000003 73.3 77.8 
+Susan_Lucci/u2tsC27cnqk_0000004 92.4 97.4 

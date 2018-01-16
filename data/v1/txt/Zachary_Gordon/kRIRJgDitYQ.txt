@@ -1,0 +1,11 @@
+POI: 			Zachary_Gordon 
+Youtube ID: 	kRIRJgDitYQ 
+Video length: 	375.2 sec 
+Set (V): 		dev 
+ 
+Zachary_Gordon/kRIRJgDitYQ_0000001 78.6 90.0 
+Zachary_Gordon/kRIRJgDitYQ_0000002 93.4 100.0 
+Zachary_Gordon/kRIRJgDitYQ_0000003 174.6 185.6 
+Zachary_Gordon/kRIRJgDitYQ_0000004 186.5 194.1 
+Zachary_Gordon/kRIRJgDitYQ_0000005 196.0 203.0 
+Zachary_Gordon/kRIRJgDitYQ_0000006 204.0 216.4 

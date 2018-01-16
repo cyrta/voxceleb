@@ -1,0 +1,8 @@
+POI: 			Neve_Campbell 
+Youtube ID: 	ZVyabOh9ozg 
+Video length: 	84.0 sec 
+Set (V): 		dev 
+ 
+Neve_Campbell/ZVyabOh9ozg_0000001 15.5 32.4 
+Neve_Campbell/ZVyabOh9ozg_0000002 51.7 55.9 
+Neve_Campbell/ZVyabOh9ozg_0000003 61.9 67.8 

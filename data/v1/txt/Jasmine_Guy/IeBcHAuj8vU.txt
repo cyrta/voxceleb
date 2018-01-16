@@ -1,0 +1,8 @@
+POI: 			Jasmine_Guy 
+Youtube ID: 	IeBcHAuj8vU 
+Video length: 	446.8 sec 
+Set (V): 		dev 
+ 
+Jasmine_Guy/IeBcHAuj8vU_0000001 188.4 193.6 
+Jasmine_Guy/IeBcHAuj8vU_0000002 363.6 367.8 
+Jasmine_Guy/IeBcHAuj8vU_0000003 368.7 374.3 

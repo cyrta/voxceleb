@@ -1,0 +1,7 @@
+POI: 			Leslie_Bibb 
+Youtube ID: 	CaAWUvkQmLA 
+Video length: 	57.0 sec 
+Set (V): 		dev 
+ 
+Leslie_Bibb/CaAWUvkQmLA_0000001 17.8 22.5 
+Leslie_Bibb/CaAWUvkQmLA_0000002 41.3 47.4 

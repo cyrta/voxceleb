@@ -1,0 +1,28 @@
+POI: 			John_Lloyd_Young 
+Youtube ID: 	NLhqoxMWWpg 
+Video length: 	525.3 sec 
+Set (V): 		dev 
+ 
+John_Lloyd_Young/NLhqoxMWWpg_0000001 75.0 84.4 
+John_Lloyd_Young/NLhqoxMWWpg_0000002 85.2 89.4 
+John_Lloyd_Young/NLhqoxMWWpg_0000003 89.6 97.2 
+John_Lloyd_Young/NLhqoxMWWpg_0000004 98.0 104.4 
+John_Lloyd_Young/NLhqoxMWWpg_0000005 107.5 119.2 
+John_Lloyd_Young/NLhqoxMWWpg_0000006 120.0 149.1 
+John_Lloyd_Young/NLhqoxMWWpg_0000007 09.6 17.4 
+John_Lloyd_Young/NLhqoxMWWpg_0000008 18.0 34.9 
+John_Lloyd_Young/NLhqoxMWWpg_0000009 41.5 45.5 
+John_Lloyd_Young/NLhqoxMWWpg_0000010 46.3 50.9 
+John_Lloyd_Young/NLhqoxMWWpg_0000011 51.6 65.5 
+John_Lloyd_Young/NLhqoxMWWpg_0000012 225.6 232.6 
+John_Lloyd_Young/NLhqoxMWWpg_0000013 232.8 240.8 
+John_Lloyd_Young/NLhqoxMWWpg_0000014 241.1 264.4 
+John_Lloyd_Young/NLhqoxMWWpg_0000015 264.7 289.6 
+John_Lloyd_Young/NLhqoxMWWpg_0000016 406.9 411.4 
+John_Lloyd_Young/NLhqoxMWWpg_0000017 414.1 419.1 
+John_Lloyd_Young/NLhqoxMWWpg_0000018 419.9 424.0 
+John_Lloyd_Young/NLhqoxMWWpg_0000019 424.2 431.1 
+John_Lloyd_Young/NLhqoxMWWpg_0000020 433.6 450.4 
+John_Lloyd_Young/NLhqoxMWWpg_0000021 462.4 486.0 
+John_Lloyd_Young/NLhqoxMWWpg_0000022 486.5 490.9 
+John_Lloyd_Young/NLhqoxMWWpg_0000023 513.6 519.5 

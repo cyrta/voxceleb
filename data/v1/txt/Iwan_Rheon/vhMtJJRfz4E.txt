@@ -1,0 +1,9 @@
+POI: 			Iwan_Rheon 
+Youtube ID: 	vhMtJJRfz4E 
+Video length: 	77.8 sec 
+Set (V): 		dev 
+ 
+Iwan_Rheon/vhMtJJRfz4E_0000001 13.7 20.8 
+Iwan_Rheon/vhMtJJRfz4E_0000002 35.2 42.4 
+Iwan_Rheon/vhMtJJRfz4E_0000003 57.4 62.0 
+Iwan_Rheon/vhMtJJRfz4E_0000004 67.4 73.6 

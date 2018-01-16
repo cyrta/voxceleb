@@ -1,0 +1,26 @@
+POI: 			Joanna_Lumley 
+Youtube ID: 	YkaFqsk2yLA 
+Video length: 	847.2 sec 
+Set (V): 		dev 
+ 
+Joanna_Lumley/YkaFqsk2yLA_0000001 70.4 81.7 
+Joanna_Lumley/YkaFqsk2yLA_0000002 216.2 227.0 
+Joanna_Lumley/YkaFqsk2yLA_0000003 257.5 270.5 
+Joanna_Lumley/YkaFqsk2yLA_0000004 285.3 292.0 
+Joanna_Lumley/YkaFqsk2yLA_0000005 354.2 359.0 
+Joanna_Lumley/YkaFqsk2yLA_0000006 359.4 368.9 
+Joanna_Lumley/YkaFqsk2yLA_0000007 382.9 390.0 
+Joanna_Lumley/YkaFqsk2yLA_0000008 402.6 407.8 
+Joanna_Lumley/YkaFqsk2yLA_0000009 435.7 446.6 
+Joanna_Lumley/YkaFqsk2yLA_0000010 478.0 482.2 
+Joanna_Lumley/YkaFqsk2yLA_0000011 520.3 524.8 
+Joanna_Lumley/YkaFqsk2yLA_0000012 537.5 543.8 
+Joanna_Lumley/YkaFqsk2yLA_0000013 554.7 563.6 
+Joanna_Lumley/YkaFqsk2yLA_0000014 572.2 578.5 
+Joanna_Lumley/YkaFqsk2yLA_0000015 625.4 634.2 
+Joanna_Lumley/YkaFqsk2yLA_0000016 642.7 651.5 
+Joanna_Lumley/YkaFqsk2yLA_0000017 659.0 665.1 
+Joanna_Lumley/YkaFqsk2yLA_0000018 713.7 718.8 
+Joanna_Lumley/YkaFqsk2yLA_0000019 737.2 741.9 
+Joanna_Lumley/YkaFqsk2yLA_0000020 763.4 788.4 
+Joanna_Lumley/YkaFqsk2yLA_0000021 799.0 809.6 

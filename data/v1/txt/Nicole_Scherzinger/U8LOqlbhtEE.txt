@@ -1,0 +1,7 @@
+POI: 			Nicole_Scherzinger 
+Youtube ID: 	U8LOqlbhtEE 
+Video length: 	257.3 sec 
+Set (V): 		dev 
+ 
+Nicole_Scherzinger/U8LOqlbhtEE_0000001 202.8 209.3 
+Nicole_Scherzinger/U8LOqlbhtEE_0000002 226.9 231.0 

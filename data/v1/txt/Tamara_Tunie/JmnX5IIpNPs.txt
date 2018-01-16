@@ -1,0 +1,11 @@
+POI: 			Tamara_Tunie 
+Youtube ID: 	JmnX5IIpNPs 
+Video length: 	552.4 sec 
+Set (V): 		dev 
+ 
+Tamara_Tunie/JmnX5IIpNPs_0000001 105.5 113.4 
+Tamara_Tunie/JmnX5IIpNPs_0000002 136.0 143.1 
+Tamara_Tunie/JmnX5IIpNPs_0000003 150.3 157.0 
+Tamara_Tunie/JmnX5IIpNPs_0000004 180.4 186.3 
+Tamara_Tunie/JmnX5IIpNPs_0000005 218.3 222.8 
+Tamara_Tunie/JmnX5IIpNPs_0000006 248.2 255.0 

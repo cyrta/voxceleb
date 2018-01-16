@@ -1,0 +1,19 @@
+POI: 			Danica_McKellar 
+Youtube ID: 	4LQvs_IAvRY 
+Video length: 	247.3 sec 
+Set (V): 		dev 
+ 
+Danica_McKellar/4LQvs_IAvRY_0000001 14.0 18.0 
+Danica_McKellar/4LQvs_IAvRY_0000002 73.2 79.0 
+Danica_McKellar/4LQvs_IAvRY_0000003 79.4 85.4 
+Danica_McKellar/4LQvs_IAvRY_0000004 86.1 90.2 
+Danica_McKellar/4LQvs_IAvRY_0000005 99.0 103.7 
+Danica_McKellar/4LQvs_IAvRY_0000006 111.3 125.7 
+Danica_McKellar/4LQvs_IAvRY_0000007 126.6 131.9 
+Danica_McKellar/4LQvs_IAvRY_0000008 154.6 159.3 
+Danica_McKellar/4LQvs_IAvRY_0000009 161.2 169.7 
+Danica_McKellar/4LQvs_IAvRY_0000010 185.8 191.6 
+Danica_McKellar/4LQvs_IAvRY_0000011 195.2 199.3 
+Danica_McKellar/4LQvs_IAvRY_0000012 207.0 213.1 
+Danica_McKellar/4LQvs_IAvRY_0000013 205.6 214.7 
+Danica_McKellar/4LQvs_IAvRY_0000014 222.4 229.3 

@@ -1,0 +1,18 @@
+POI: 			Natalie_Dormer 
+Youtube ID: 	bgg1JYscyq0 
+Video length: 	425.8 sec 
+Set (V): 		dev 
+ 
+Natalie_Dormer/bgg1JYscyq0_0000001 20.0 31.2 
+Natalie_Dormer/bgg1JYscyq0_0000002 31.4 41.4 
+Natalie_Dormer/bgg1JYscyq0_0000003 42.2 64.0 
+Natalie_Dormer/bgg1JYscyq0_0000004 64.2 72.6 
+Natalie_Dormer/bgg1JYscyq0_0000005 117.5 125.0 
+Natalie_Dormer/bgg1JYscyq0_0000006 141.7 157.0 
+Natalie_Dormer/bgg1JYscyq0_0000007 161.3 173.0 
+Natalie_Dormer/bgg1JYscyq0_0000008 236.7 244.0 
+Natalie_Dormer/bgg1JYscyq0_0000009 259.4 277.0 
+Natalie_Dormer/bgg1JYscyq0_0000010 277.3 292.1 
+Natalie_Dormer/bgg1JYscyq0_0000011 324.4 329.3 
+Natalie_Dormer/bgg1JYscyq0_0000012 338.9 344.4 
+Natalie_Dormer/bgg1JYscyq0_0000013 413.1 418.8 

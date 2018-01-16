@@ -1,0 +1,9 @@
+POI: 			Riz_Ahmed 
+Youtube ID: 	TTXQtpn3zrk 
+Video length: 	152.1 sec 
+Set (V): 		dev 
+ 
+Riz_Ahmed/TTXQtpn3zrk_0000001 21.8 35.3 
+Riz_Ahmed/TTXQtpn3zrk_0000002 77.0 85.7 
+Riz_Ahmed/TTXQtpn3zrk_0000003 116.4 129.8 
+Riz_Ahmed/TTXQtpn3zrk_0000004 135.7 144.4 

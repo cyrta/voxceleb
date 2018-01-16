@@ -1,0 +1,14 @@
+POI: 			Alicja_Bachleda 
+Youtube ID: 	aVooDLzOJqg 
+Video length: 	295.4 sec 
+Set (V): 		dev 
+ 
+Alicja_Bachleda/aVooDLzOJqg_0000001 75.5 83.8 
+Alicja_Bachleda/aVooDLzOJqg_0000002 145.7 151.8 
+Alicja_Bachleda/aVooDLzOJqg_0000003 152.6 156.8 
+Alicja_Bachleda/aVooDLzOJqg_0000004 162.8 177.1 
+Alicja_Bachleda/aVooDLzOJqg_0000005 187.0 192.1 
+Alicja_Bachleda/aVooDLzOJqg_0000006 192.2 196.2 
+Alicja_Bachleda/aVooDLzOJqg_0000007 234.0 243.9 
+Alicja_Bachleda/aVooDLzOJqg_0000008 248.6 265.3 
+Alicja_Bachleda/aVooDLzOJqg_0000009 267.5 280.5 

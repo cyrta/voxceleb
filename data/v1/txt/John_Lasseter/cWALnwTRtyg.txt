@@ -1,0 +1,11 @@
+POI: 			John_Lasseter 
+Youtube ID: 	cWALnwTRtyg 
+Video length: 	110.9 sec 
+Set (V): 		dev 
+ 
+John_Lasseter/cWALnwTRtyg_0000001 04.8 20.0 
+John_Lasseter/cWALnwTRtyg_0000002 20.2 25.0 
+John_Lasseter/cWALnwTRtyg_0000003 30.2 42.3 
+John_Lasseter/cWALnwTRtyg_0000004 55.7 73.6 
+John_Lasseter/cWALnwTRtyg_0000005 83.4 93.1 
+John_Lasseter/cWALnwTRtyg_0000006 102.6 107.3 

@@ -1,0 +1,7 @@
+POI: 			Matthew_Fox 
+Youtube ID: 	DPTzSDP16VM 
+Video length: 	465.4 sec 
+Set (V): 		dev 
+ 
+Matthew_Fox/DPTzSDP16VM_0000001 66.6 70.6 
+Matthew_Fox/DPTzSDP16VM_0000002 393.6 399.4 

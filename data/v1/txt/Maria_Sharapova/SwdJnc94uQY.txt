@@ -1,0 +1,14 @@
+POI: 			Maria_Sharapova 
+Youtube ID: 	SwdJnc94uQY 
+Video length: 	174.8 sec 
+Set (V): 		dev 
+ 
+Maria_Sharapova/SwdJnc94uQY_0000001 18.9 31.2 
+Maria_Sharapova/SwdJnc94uQY_0000002 31.2 38.6 
+Maria_Sharapova/SwdJnc94uQY_0000003 39.7 44.4 
+Maria_Sharapova/SwdJnc94uQY_0000004 44.5 58.0 
+Maria_Sharapova/SwdJnc94uQY_0000005 58.2 69.6 
+Maria_Sharapova/SwdJnc94uQY_0000006 78.0 84.1 
+Maria_Sharapova/SwdJnc94uQY_0000007 88.4 100.4 
+Maria_Sharapova/SwdJnc94uQY_0000008 101.3 107.1 
+Maria_Sharapova/SwdJnc94uQY_0000009 111.1 117.7 

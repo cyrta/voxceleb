@@ -1,0 +1,9 @@
+POI: 			Natalie_Dormer 
+Youtube ID: 	4DmHqvolTJI 
+Video length: 	177.6 sec 
+Set (V): 		dev 
+ 
+Natalie_Dormer/4DmHqvolTJI_0000001 14.2 19.4 
+Natalie_Dormer/4DmHqvolTJI_0000002 26.5 35.4 
+Natalie_Dormer/4DmHqvolTJI_0000003 83.6 88.0 
+Natalie_Dormer/4DmHqvolTJI_0000004 129.8 142.8 

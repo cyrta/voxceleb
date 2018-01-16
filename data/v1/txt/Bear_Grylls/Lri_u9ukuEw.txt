@@ -1,0 +1,22 @@
+POI: 			Bear_Grylls 
+Youtube ID: 	Lri_u9ukuEw 
+Video length: 	349.4 sec 
+Set (V): 		dev 
+ 
+Bear_Grylls/Lri_u9ukuEw_0000001 01.7 35.0 
+Bear_Grylls/Lri_u9ukuEw_0000002 37.8 45.2 
+Bear_Grylls/Lri_u9ukuEw_0000003 49.3 57.9 
+Bear_Grylls/Lri_u9ukuEw_0000004 61.6 84.5 
+Bear_Grylls/Lri_u9ukuEw_0000005 115.4 124.0 
+Bear_Grylls/Lri_u9ukuEw_0000006 126.0 131.6 
+Bear_Grylls/Lri_u9ukuEw_0000007 134.3 153.9 
+Bear_Grylls/Lri_u9ukuEw_0000008 162.2 170.6 
+Bear_Grylls/Lri_u9ukuEw_0000009 174.2 180.1 
+Bear_Grylls/Lri_u9ukuEw_0000010 182.3 193.5 
+Bear_Grylls/Lri_u9ukuEw_0000011 203.8 218.6 
+Bear_Grylls/Lri_u9ukuEw_0000012 220.6 251.0 
+Bear_Grylls/Lri_u9ukuEw_0000013 257.8 265.4 
+Bear_Grylls/Lri_u9ukuEw_0000014 275.8 285.0 
+Bear_Grylls/Lri_u9ukuEw_0000015 287.0 301.4 
+Bear_Grylls/Lri_u9ukuEw_0000016 303.3 321.4 
+Bear_Grylls/Lri_u9ukuEw_0000017 331.9 347.6 

@@ -1,0 +1,9 @@
+POI: 			Dermot_Mulroney 
+Youtube ID: 	gsbtM5qKqUM 
+Video length: 	192.3 sec 
+Set (V): 		dev 
+ 
+Dermot_Mulroney/gsbtM5qKqUM_0000001 17.8 33.9 
+Dermot_Mulroney/gsbtM5qKqUM_0000002 63.1 84.4 
+Dermot_Mulroney/gsbtM5qKqUM_0000003 85.5 98.9 
+Dermot_Mulroney/gsbtM5qKqUM_0000004 101.2 116.4 

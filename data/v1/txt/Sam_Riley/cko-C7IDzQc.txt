@@ -1,0 +1,16 @@
+POI: 			Sam_Riley 
+Youtube ID: 	cko-C7IDzQc 
+Video length: 	291.4 sec 
+Set (V): 		dev 
+ 
+Sam_Riley/cko-C7IDzQc_0000001 30.1 37.0 
+Sam_Riley/cko-C7IDzQc_0000002 40.0 45.8 
+Sam_Riley/cko-C7IDzQc_0000003 71.7 83.8 
+Sam_Riley/cko-C7IDzQc_0000004 104.2 109.4 
+Sam_Riley/cko-C7IDzQc_0000005 113.5 135.5 
+Sam_Riley/cko-C7IDzQc_0000006 139.1 144.8 
+Sam_Riley/cko-C7IDzQc_0000007 149.9 157.0 
+Sam_Riley/cko-C7IDzQc_0000008 201.6 205.8 
+Sam_Riley/cko-C7IDzQc_0000009 213.9 220.9 
+Sam_Riley/cko-C7IDzQc_0000010 241.8 251.0 
+Sam_Riley/cko-C7IDzQc_0000011 259.1 263.2 

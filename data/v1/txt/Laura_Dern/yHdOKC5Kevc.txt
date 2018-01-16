@@ -1,0 +1,17 @@
+POI: 			Laura_Dern 
+Youtube ID: 	yHdOKC5Kevc 
+Video length: 	499.1 sec 
+Set (V): 		dev 
+ 
+Laura_Dern/yHdOKC5Kevc_0000001 08.4 44.9 
+Laura_Dern/yHdOKC5Kevc_0000002 45.9 52.1 
+Laura_Dern/yHdOKC5Kevc_0000003 96.4 115.5 
+Laura_Dern/yHdOKC5Kevc_0000004 117.2 121.6 
+Laura_Dern/yHdOKC5Kevc_0000005 147.4 156.0 
+Laura_Dern/yHdOKC5Kevc_0000006 159.6 171.6 
+Laura_Dern/yHdOKC5Kevc_0000007 177.2 189.9 
+Laura_Dern/yHdOKC5Kevc_0000008 335.4 341.4 
+Laura_Dern/yHdOKC5Kevc_0000009 343.3 360.8 
+Laura_Dern/yHdOKC5Kevc_0000010 395.8 399.8 
+Laura_Dern/yHdOKC5Kevc_0000011 418.6 427.1 
+Laura_Dern/yHdOKC5Kevc_0000012 435.8 440.0 

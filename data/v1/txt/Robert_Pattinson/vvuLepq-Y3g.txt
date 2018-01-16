@@ -1,0 +1,10 @@
+POI: 			Robert_Pattinson 
+Youtube ID: 	vvuLepq-Y3g 
+Video length: 	253.4 sec 
+Set (V): 		dev 
+ 
+Robert_Pattinson/vvuLepq-Y3g_0000001 52.6 58.1 
+Robert_Pattinson/vvuLepq-Y3g_0000002 59.8 65.7 
+Robert_Pattinson/vvuLepq-Y3g_0000003 194.9 200.4 
+Robert_Pattinson/vvuLepq-Y3g_0000004 214.2 223.1 
+Robert_Pattinson/vvuLepq-Y3g_0000005 234.1 239.2 

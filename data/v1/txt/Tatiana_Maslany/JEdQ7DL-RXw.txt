@@ -1,0 +1,13 @@
+POI: 			Tatiana_Maslany 
+Youtube ID: 	JEdQ7DL-RXw 
+Video length: 	195.6 sec 
+Set (V): 		dev 
+ 
+Tatiana_Maslany/JEdQ7DL-RXw_0000001 19.3 34.2 
+Tatiana_Maslany/JEdQ7DL-RXw_0000002 46.4 59.3 
+Tatiana_Maslany/JEdQ7DL-RXw_0000003 60.0 73.6 
+Tatiana_Maslany/JEdQ7DL-RXw_0000004 96.8 117.6 
+Tatiana_Maslany/JEdQ7DL-RXw_0000005 117.9 125.9 
+Tatiana_Maslany/JEdQ7DL-RXw_0000006 126.2 132.6 
+Tatiana_Maslany/JEdQ7DL-RXw_0000007 133.8 143.4 
+Tatiana_Maslany/JEdQ7DL-RXw_0000008 154.2 163.3 

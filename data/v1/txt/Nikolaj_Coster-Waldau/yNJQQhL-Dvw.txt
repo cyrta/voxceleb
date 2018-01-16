@@ -1,0 +1,8 @@
+POI: 			Nikolaj_Coster-Waldau 
+Youtube ID: 	yNJQQhL-Dvw 
+Video length: 	123.6 sec 
+Set (V): 		dev 
+ 
+Nikolaj_Coster-Waldau/yNJQQhL-Dvw_0000001 18.0 37.2 
+Nikolaj_Coster-Waldau/yNJQQhL-Dvw_0000002 42.5 56.0 
+Nikolaj_Coster-Waldau/yNJQQhL-Dvw_0000003 64.0 71.4 

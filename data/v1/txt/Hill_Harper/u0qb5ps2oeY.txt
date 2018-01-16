@@ -1,0 +1,8 @@
+POI: 			Hill_Harper 
+Youtube ID: 	u0qb5ps2oeY 
+Video length: 	295.2 sec 
+Set (V): 		dev 
+ 
+Hill_Harper/u0qb5ps2oeY_0000001 77.2 82.1 
+Hill_Harper/u0qb5ps2oeY_0000002 137.8 142.3 
+Hill_Harper/u0qb5ps2oeY_0000003 161.6 167.7 

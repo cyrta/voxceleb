@@ -1,0 +1,17 @@
+POI: 			Andrew_Garfield 
+Youtube ID: 	_cJKlfHFAlw 
+Video length: 	503.1 sec 
+Set (V): 		dev 
+ 
+Andrew_Garfield/_cJKlfHFAlw_0000001 40.8 64.0 
+Andrew_Garfield/_cJKlfHFAlw_0000002 80.6 84.9 
+Andrew_Garfield/_cJKlfHFAlw_0000003 85.4 94.6 
+Andrew_Garfield/_cJKlfHFAlw_0000004 101.8 109.0 
+Andrew_Garfield/_cJKlfHFAlw_0000005 209.7 217.4 
+Andrew_Garfield/_cJKlfHFAlw_0000006 217.5 224.4 
+Andrew_Garfield/_cJKlfHFAlw_0000007 232.0 244.0 
+Andrew_Garfield/_cJKlfHFAlw_0000008 274.5 282.1 
+Andrew_Garfield/_cJKlfHFAlw_0000009 295.9 302.9 
+Andrew_Garfield/_cJKlfHFAlw_0000010 349.7 356.0 
+Andrew_Garfield/_cJKlfHFAlw_0000011 457.5 469.6 
+Andrew_Garfield/_cJKlfHFAlw_0000012 484.9 493.0 

@@ -1,0 +1,14 @@
+POI: 			Nancy_Cartwright 
+Youtube ID: 	F2KB8z7-T-w 
+Video length: 	169.9 sec 
+Set (V): 		dev 
+ 
+Nancy_Cartwright/F2KB8z7-T-w_0000001 08.6 24.4 
+Nancy_Cartwright/F2KB8z7-T-w_0000002 28.7 36.1 
+Nancy_Cartwright/F2KB8z7-T-w_0000003 36.2 41.6 
+Nancy_Cartwright/F2KB8z7-T-w_0000004 43.6 75.0 
+Nancy_Cartwright/F2KB8z7-T-w_0000005 76.2 94.7 
+Nancy_Cartwright/F2KB8z7-T-w_0000006 95.3 100.4 
+Nancy_Cartwright/F2KB8z7-T-w_0000007 108.7 115.1 
+Nancy_Cartwright/F2KB8z7-T-w_0000008 115.2 139.9 
+Nancy_Cartwright/F2KB8z7-T-w_0000009 140.1 156.2 

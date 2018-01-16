@@ -1,0 +1,11 @@
+POI: 			Agyness_Deyn 
+Youtube ID: 	7rzuEmfRFEA 
+Video length: 	510.1 sec 
+Set (V): 		dev 
+ 
+Agyness_Deyn/7rzuEmfRFEA_0000001 21.3 25.5 
+Agyness_Deyn/7rzuEmfRFEA_0000002 48.8 58.8 
+Agyness_Deyn/7rzuEmfRFEA_0000003 60.6 65.2 
+Agyness_Deyn/7rzuEmfRFEA_0000004 373.8 382.7 
+Agyness_Deyn/7rzuEmfRFEA_0000005 385.4 390.2 
+Agyness_Deyn/7rzuEmfRFEA_0000006 442.5 447.1 

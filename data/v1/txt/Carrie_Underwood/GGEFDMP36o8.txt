@@ -1,0 +1,19 @@
+POI: 			Carrie_Underwood 
+Youtube ID: 	GGEFDMP36o8 
+Video length: 	265.8 sec 
+Set (V): 		dev 
+ 
+Carrie_Underwood/GGEFDMP36o8_0000001 66.4 71.8 
+Carrie_Underwood/GGEFDMP36o8_0000002 75.5 80.4 
+Carrie_Underwood/GGEFDMP36o8_0000003 95.3 105.2 
+Carrie_Underwood/GGEFDMP36o8_0000004 117.4 124.3 
+Carrie_Underwood/GGEFDMP36o8_0000005 128.4 136.5 
+Carrie_Underwood/GGEFDMP36o8_0000006 140.7 145.2 
+Carrie_Underwood/GGEFDMP36o8_0000007 150.7 155.4 
+Carrie_Underwood/GGEFDMP36o8_0000008 161.2 165.9 
+Carrie_Underwood/GGEFDMP36o8_0000009 174.5 182.6 
+Carrie_Underwood/GGEFDMP36o8_0000010 201.5 205.4 
+Carrie_Underwood/GGEFDMP36o8_0000011 212.0 217.7 
+Carrie_Underwood/GGEFDMP36o8_0000012 221.3 230.5 
+Carrie_Underwood/GGEFDMP36o8_0000013 234.7 245.4 
+Carrie_Underwood/GGEFDMP36o8_0000014 249.8 257.7 

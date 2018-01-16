@@ -1,0 +1,9 @@
+POI: 			Sarah_Drew 
+Youtube ID: 	oWIqjw-WBDg 
+Video length: 	125.3 sec 
+Set (V): 		dev 
+ 
+Sarah_Drew/oWIqjw-WBDg_0000001 25.4 34.2 
+Sarah_Drew/oWIqjw-WBDg_0000002 52.2 57.0 
+Sarah_Drew/oWIqjw-WBDg_0000003 84.3 91.3 
+Sarah_Drew/oWIqjw-WBDg_0000004 110.6 115.4 

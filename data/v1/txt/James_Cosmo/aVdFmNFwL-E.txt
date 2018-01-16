@@ -1,0 +1,9 @@
+POI: 			James_Cosmo 
+Youtube ID: 	aVdFmNFwL-E 
+Video length: 	248.3 sec 
+Set (V): 		dev 
+ 
+James_Cosmo/aVdFmNFwL-E_0000001 143.6 148.1 
+James_Cosmo/aVdFmNFwL-E_0000002 155.4 161.9 
+James_Cosmo/aVdFmNFwL-E_0000003 167.4 174.0 
+James_Cosmo/aVdFmNFwL-E_0000004 181.3 194.7 

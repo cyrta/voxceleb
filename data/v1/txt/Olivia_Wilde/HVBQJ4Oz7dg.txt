@@ -1,0 +1,11 @@
+POI: 			Olivia_Wilde 
+Youtube ID: 	HVBQJ4Oz7dg 
+Video length: 	168.3 sec 
+Set (V): 		dev 
+ 
+Olivia_Wilde/HVBQJ4Oz7dg_0000001 23.9 35.8 
+Olivia_Wilde/HVBQJ4Oz7dg_0000002 36.8 44.8 
+Olivia_Wilde/HVBQJ4Oz7dg_0000003 59.6 64.5 
+Olivia_Wilde/HVBQJ4Oz7dg_0000004 65.4 75.0 
+Olivia_Wilde/HVBQJ4Oz7dg_0000005 91.5 103.3 
+Olivia_Wilde/HVBQJ4Oz7dg_0000006 115.6 123.2 

@@ -1,0 +1,7 @@
+POI: 			Grant_Bowler 
+Youtube ID: 	SeI9ygOSYkg 
+Video length: 	112.5 sec 
+Set (V): 		dev 
+ 
+Grant_Bowler/SeI9ygOSYkg_0000001 08.0 12.4 
+Grant_Bowler/SeI9ygOSYkg_0000002 14.1 18.0 

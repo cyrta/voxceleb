@@ -1,0 +1,7 @@
+POI: 			Ernie_Hudson 
+Youtube ID: 	hX6LjjVtnGs 
+Video length: 	150.1 sec 
+Set (V): 		test 
+ 
+Ernie_Hudson/hX6LjjVtnGs_0000001 28.4 32.8 
+Ernie_Hudson/hX6LjjVtnGs_0000002 131.5 140.1 

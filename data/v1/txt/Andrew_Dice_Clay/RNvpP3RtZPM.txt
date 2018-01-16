@@ -1,0 +1,18 @@
+POI: 			Andrew_Dice_Clay 
+Youtube ID: 	RNvpP3RtZPM 
+Video length: 	272.1 sec 
+Set (V): 		dev 
+ 
+Andrew_Dice_Clay/RNvpP3RtZPM_0000001 31.1 36.8 
+Andrew_Dice_Clay/RNvpP3RtZPM_0000002 49.6 62.4 
+Andrew_Dice_Clay/RNvpP3RtZPM_0000003 69.9 77.2 
+Andrew_Dice_Clay/RNvpP3RtZPM_0000004 84.5 90.6 
+Andrew_Dice_Clay/RNvpP3RtZPM_0000005 111.0 120.4 
+Andrew_Dice_Clay/RNvpP3RtZPM_0000006 155.0 161.4 
+Andrew_Dice_Clay/RNvpP3RtZPM_0000007 162.3 168.9 
+Andrew_Dice_Clay/RNvpP3RtZPM_0000008 199.2 203.3 
+Andrew_Dice_Clay/RNvpP3RtZPM_0000009 203.8 208.7 
+Andrew_Dice_Clay/RNvpP3RtZPM_0000010 218.8 226.1 
+Andrew_Dice_Clay/RNvpP3RtZPM_0000011 243.2 253.6 
+Andrew_Dice_Clay/RNvpP3RtZPM_0000012 239.6 244.2 
+Andrew_Dice_Clay/RNvpP3RtZPM_0000013 256.4 260.8 

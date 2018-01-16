@@ -1,0 +1,8 @@
+POI: 			Aldis_Hodge 
+Youtube ID: 	YcUXiu2pxIk 
+Video length: 	318.3 sec 
+Set (V): 		dev 
+ 
+Aldis_Hodge/YcUXiu2pxIk_0000001 172.6 184.8 
+Aldis_Hodge/YcUXiu2pxIk_0000002 272.3 276.3 
+Aldis_Hodge/YcUXiu2pxIk_0000003 306.1 312.0 

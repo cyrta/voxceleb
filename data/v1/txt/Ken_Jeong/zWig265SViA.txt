@@ -1,0 +1,13 @@
+POI: 			Ken_Jeong 
+Youtube ID: 	zWig265SViA 
+Video length: 	226.3 sec 
+Set (V): 		dev 
+ 
+Ken_Jeong/zWig265SViA_0000001 09.2 15.0 
+Ken_Jeong/zWig265SViA_0000002 43.0 52.5 
+Ken_Jeong/zWig265SViA_0000003 71.1 77.2 
+Ken_Jeong/zWig265SViA_0000004 98.2 108.5 
+Ken_Jeong/zWig265SViA_0000005 109.4 119.2 
+Ken_Jeong/zWig265SViA_0000006 153.1 159.2 
+Ken_Jeong/zWig265SViA_0000007 160.0 183.3 
+Ken_Jeong/zWig265SViA_0000008 191.6 197.4 

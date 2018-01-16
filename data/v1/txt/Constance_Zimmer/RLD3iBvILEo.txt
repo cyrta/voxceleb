@@ -1,0 +1,47 @@
+POI: 			Constance_Zimmer 
+Youtube ID: 	RLD3iBvILEo 
+Video length: 	1624.6 sec 
+Set (V): 		dev 
+ 
+Constance_Zimmer/RLD3iBvILEo_0000001 63.2 70.9 
+Constance_Zimmer/RLD3iBvILEo_0000002 71.6 90.8 
+Constance_Zimmer/RLD3iBvILEo_0000003 90.9 95.6 
+Constance_Zimmer/RLD3iBvILEo_0000004 98.4 105.1 
+Constance_Zimmer/RLD3iBvILEo_0000005 132.6 153.0 
+Constance_Zimmer/RLD3iBvILEo_0000006 202.2 219.3 
+Constance_Zimmer/RLD3iBvILEo_0000007 258.0 264.4 
+Constance_Zimmer/RLD3iBvILEo_0000008 264.9 272.0 
+Constance_Zimmer/RLD3iBvILEo_0000009 287.2 298.8 
+Constance_Zimmer/RLD3iBvILEo_0000010 400.5 408.2 
+Constance_Zimmer/RLD3iBvILEo_0000011 409.0 421.2 
+Constance_Zimmer/RLD3iBvILEo_0000012 425.0 430.2 
+Constance_Zimmer/RLD3iBvILEo_0000013 437.2 442.0 
+Constance_Zimmer/RLD3iBvILEo_0000014 542.2 546.3 
+Constance_Zimmer/RLD3iBvILEo_0000015 600.9 617.5 
+Constance_Zimmer/RLD3iBvILEo_0000016 617.6 626.4 
+Constance_Zimmer/RLD3iBvILEo_0000017 631.7 640.9 
+Constance_Zimmer/RLD3iBvILEo_0000018 647.1 659.9 
+Constance_Zimmer/RLD3iBvILEo_0000019 694.8 700.6 
+Constance_Zimmer/RLD3iBvILEo_0000020 703.4 708.3 
+Constance_Zimmer/RLD3iBvILEo_0000021 721.6 727.0 
+Constance_Zimmer/RLD3iBvILEo_0000022 774.6 779.1 
+Constance_Zimmer/RLD3iBvILEo_0000023 832.7 837.3 
+Constance_Zimmer/RLD3iBvILEo_0000024 922.9 927.8 
+Constance_Zimmer/RLD3iBvILEo_0000025 960.8 965.5 
+Constance_Zimmer/RLD3iBvILEo_0000026 967.1 977.8 
+Constance_Zimmer/RLD3iBvILEo_0000027 1139.6 1146.7 
+Constance_Zimmer/RLD3iBvILEo_0000028 1147.2 1158.6 
+Constance_Zimmer/RLD3iBvILEo_0000029 1198.4 1206.8 
+Constance_Zimmer/RLD3iBvILEo_0000030 1207.0 1211.7 
+Constance_Zimmer/RLD3iBvILEo_0000031 1214.8 1231.5 
+Constance_Zimmer/RLD3iBvILEo_0000032 1233.6 1238.0 
+Constance_Zimmer/RLD3iBvILEo_0000033 1238.7 1247.8 
+Constance_Zimmer/RLD3iBvILEo_0000034 1248.6 1253.1 
+Constance_Zimmer/RLD3iBvILEo_0000035 1294.9 1301.3 
+Constance_Zimmer/RLD3iBvILEo_0000036 1303.0 1312.6 
+Constance_Zimmer/RLD3iBvILEo_0000037 1440.3 1445.2 
+Constance_Zimmer/RLD3iBvILEo_0000038 1445.2 1457.8 
+Constance_Zimmer/RLD3iBvILEo_0000039 1505.0 1510.2 
+Constance_Zimmer/RLD3iBvILEo_0000040 1511.0 1518.6 
+Constance_Zimmer/RLD3iBvILEo_0000041 1520.7 1529.6 
+Constance_Zimmer/RLD3iBvILEo_0000042 1575.3 1584.4 

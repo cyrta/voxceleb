@@ -1,0 +1,14 @@
+POI: 			Thandie_Newton 
+Youtube ID: 	HO06Y9-2pss 
+Video length: 	401.4 sec 
+Set (V): 		dev 
+ 
+Thandie_Newton/HO06Y9-2pss_0000001 104.4 115.8 
+Thandie_Newton/HO06Y9-2pss_0000002 141.0 148.1 
+Thandie_Newton/HO06Y9-2pss_0000003 148.3 153.3 
+Thandie_Newton/HO06Y9-2pss_0000004 204.1 209.6 
+Thandie_Newton/HO06Y9-2pss_0000005 210.6 219.1 
+Thandie_Newton/HO06Y9-2pss_0000006 265.6 272.8 
+Thandie_Newton/HO06Y9-2pss_0000007 273.0 281.4 
+Thandie_Newton/HO06Y9-2pss_0000008 298.4 302.9 
+Thandie_Newton/HO06Y9-2pss_0000009 304.2 310.4 

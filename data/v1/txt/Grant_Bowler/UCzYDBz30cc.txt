@@ -1,0 +1,8 @@
+POI: 			Grant_Bowler 
+Youtube ID: 	UCzYDBz30cc 
+Video length: 	117.1 sec 
+Set (V): 		dev 
+ 
+Grant_Bowler/UCzYDBz30cc_0000001 23.1 27.2 
+Grant_Bowler/UCzYDBz30cc_0000002 78.3 83.5 
+Grant_Bowler/UCzYDBz30cc_0000003 93.3 98.9 

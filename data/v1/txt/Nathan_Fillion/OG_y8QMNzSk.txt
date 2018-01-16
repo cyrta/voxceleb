@@ -1,0 +1,12 @@
+POI: 			Nathan_Fillion 
+Youtube ID: 	OG_y8QMNzSk 
+Video length: 	233.5 sec 
+Set (V): 		dev 
+ 
+Nathan_Fillion/OG_y8QMNzSk_0000001 76.0 89.7 
+Nathan_Fillion/OG_y8QMNzSk_0000002 119.1 124.0 
+Nathan_Fillion/OG_y8QMNzSk_0000003 137.8 147.8 
+Nathan_Fillion/OG_y8QMNzSk_0000004 152.4 162.2 
+Nathan_Fillion/OG_y8QMNzSk_0000005 173.1 178.5 
+Nathan_Fillion/OG_y8QMNzSk_0000006 187.0 199.8 
+Nathan_Fillion/OG_y8QMNzSk_0000007 204.4 209.8 

@@ -1,0 +1,16 @@
+POI: 			Idina_Menzel 
+Youtube ID: 	oer2VAs7d9k 
+Video length: 	835.7 sec 
+Set (V): 		dev 
+ 
+Idina_Menzel/oer2VAs7d9k_0000001 155.0 158.9 
+Idina_Menzel/oer2VAs7d9k_0000002 246.2 252.4 
+Idina_Menzel/oer2VAs7d9k_0000003 266.2 272.2 
+Idina_Menzel/oer2VAs7d9k_0000004 346.4 361.8 
+Idina_Menzel/oer2VAs7d9k_0000005 382.0 387.5 
+Idina_Menzel/oer2VAs7d9k_0000006 393.4 398.5 
+Idina_Menzel/oer2VAs7d9k_0000007 486.5 495.9 
+Idina_Menzel/oer2VAs7d9k_0000008 496.3 501.9 
+Idina_Menzel/oer2VAs7d9k_0000009 643.4 647.7 
+Idina_Menzel/oer2VAs7d9k_0000010 666.6 670.8 
+Idina_Menzel/oer2VAs7d9k_0000011 671.4 682.4 

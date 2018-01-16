@@ -1,0 +1,11 @@
+POI: 			Jon_Seda 
+Youtube ID: 	kY9C4Mp6LxM 
+Video length: 	194.2 sec 
+Set (V): 		dev 
+ 
+Jon_Seda/kY9C4Mp6LxM_0000001 49.6 54.3 
+Jon_Seda/kY9C4Mp6LxM_0000002 55.1 65.5 
+Jon_Seda/kY9C4Mp6LxM_0000003 72.8 77.8 
+Jon_Seda/kY9C4Mp6LxM_0000004 95.2 103.0 
+Jon_Seda/kY9C4Mp6LxM_0000005 144.9 150.1 
+Jon_Seda/kY9C4Mp6LxM_0000006 181.1 185.8 

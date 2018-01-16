@@ -1,0 +1,8 @@
+POI: 			Tom_Hiddleston 
+Youtube ID: 	MFhhPDcPNvI 
+Video length: 	352.9 sec 
+Set (V): 		dev 
+ 
+Tom_Hiddleston/MFhhPDcPNvI_0000001 51.6 59.1 
+Tom_Hiddleston/MFhhPDcPNvI_0000002 68.7 75.4 
+Tom_Hiddleston/MFhhPDcPNvI_0000003 217.2 223.5 

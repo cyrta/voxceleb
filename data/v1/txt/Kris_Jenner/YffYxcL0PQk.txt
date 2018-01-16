@@ -1,0 +1,12 @@
+POI: 			Kris_Jenner 
+Youtube ID: 	YffYxcL0PQk 
+Video length: 	268.5 sec 
+Set (V): 		dev 
+ 
+Kris_Jenner/YffYxcL0PQk_0000001 43.4 50.2 
+Kris_Jenner/YffYxcL0PQk_0000002 60.9 70.5 
+Kris_Jenner/YffYxcL0PQk_0000003 97.7 101.8 
+Kris_Jenner/YffYxcL0PQk_0000004 104.1 116.4 
+Kris_Jenner/YffYxcL0PQk_0000005 135.6 142.4 
+Kris_Jenner/YffYxcL0PQk_0000006 144.5 149.3 
+Kris_Jenner/YffYxcL0PQk_0000007 233.9 239.0 

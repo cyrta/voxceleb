@@ -1,0 +1,7 @@
+POI: 			Blair_Underwood 
+Youtube ID: 	mJmqa_VQSlY 
+Video length: 	142.0 sec 
+Set (V): 		dev 
+ 
+Blair_Underwood/mJmqa_VQSlY_0000001 93.9 106.3 
+Blair_Underwood/mJmqa_VQSlY_0000002 126.4 134.4 

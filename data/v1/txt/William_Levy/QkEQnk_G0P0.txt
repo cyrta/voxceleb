@@ -1,0 +1,16 @@
+POI: 			William_Levy 
+Youtube ID: 	QkEQnk_G0P0 
+Video length: 	765.9 sec 
+Set (V): 		dev 
+ 
+William_Levy/QkEQnk_G0P0_0000001 85.3 92.9 
+William_Levy/QkEQnk_G0P0_0000002 226.2 232.6 
+William_Levy/QkEQnk_G0P0_0000003 296.1 306.4 
+William_Levy/QkEQnk_G0P0_0000004 395.6 405.5 
+William_Levy/QkEQnk_G0P0_0000005 485.4 494.2 
+William_Levy/QkEQnk_G0P0_0000006 546.8 551.5 
+William_Levy/QkEQnk_G0P0_0000007 553.0 564.4 
+William_Levy/QkEQnk_G0P0_0000008 577.0 581.7 
+William_Levy/QkEQnk_G0P0_0000009 602.7 608.6 
+William_Levy/QkEQnk_G0P0_0000010 609.3 617.0 
+William_Levy/QkEQnk_G0P0_0000011 652.0 660.4 

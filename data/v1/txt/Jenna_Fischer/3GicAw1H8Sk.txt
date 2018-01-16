@@ -1,0 +1,7 @@
+POI: 			Jenna_Fischer 
+Youtube ID: 	3GicAw1H8Sk 
+Video length: 	180.0 sec 
+Set (V): 		dev 
+ 
+Jenna_Fischer/3GicAw1H8Sk_0000001 28.0 42.3 
+Jenna_Fischer/3GicAw1H8Sk_0000002 44.2 56.2 

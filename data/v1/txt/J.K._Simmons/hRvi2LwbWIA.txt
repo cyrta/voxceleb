@@ -1,0 +1,15 @@
+POI: 			J.K._Simmons 
+Youtube ID: 	hRvi2LwbWIA 
+Video length: 	718.0 sec 
+Set (V): 		dev 
+ 
+J.K._Simmons/hRvi2LwbWIA_0000001 339.8 346.6 
+J.K._Simmons/hRvi2LwbWIA_0000002 370.2 374.3 
+J.K._Simmons/hRvi2LwbWIA_0000003 375.1 380.0 
+J.K._Simmons/hRvi2LwbWIA_0000004 397.8 410.7 
+J.K._Simmons/hRvi2LwbWIA_0000005 450.6 456.4 
+J.K._Simmons/hRvi2LwbWIA_0000006 460.0 464.7 
+J.K._Simmons/hRvi2LwbWIA_0000007 465.4 490.8 
+J.K._Simmons/hRvi2LwbWIA_0000008 491.0 500.6 
+J.K._Simmons/hRvi2LwbWIA_0000009 500.6 506.5 
+J.K._Simmons/hRvi2LwbWIA_0000010 455.5 460.8 

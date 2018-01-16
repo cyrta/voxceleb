@@ -1,0 +1,16 @@
+POI: 			Kathryn_Joosten 
+Youtube ID: 	9CtuDdfEzeA 
+Video length: 	150.5 sec 
+Set (V): 		dev 
+ 
+Kathryn_Joosten/9CtuDdfEzeA_0000001 10.8 17.8 
+Kathryn_Joosten/9CtuDdfEzeA_0000002 21.7 36.7 
+Kathryn_Joosten/9CtuDdfEzeA_0000003 37.6 49.0 
+Kathryn_Joosten/9CtuDdfEzeA_0000004 54.9 69.0 
+Kathryn_Joosten/9CtuDdfEzeA_0000005 69.8 86.8 
+Kathryn_Joosten/9CtuDdfEzeA_0000006 89.2 93.6 
+Kathryn_Joosten/9CtuDdfEzeA_0000007 94.9 102.5 
+Kathryn_Joosten/9CtuDdfEzeA_0000008 103.1 109.9 
+Kathryn_Joosten/9CtuDdfEzeA_0000009 111.0 121.5 
+Kathryn_Joosten/9CtuDdfEzeA_0000010 122.7 129.3 
+Kathryn_Joosten/9CtuDdfEzeA_0000011 130.2 136.4 

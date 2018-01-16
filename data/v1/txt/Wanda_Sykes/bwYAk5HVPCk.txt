@@ -1,0 +1,12 @@
+POI: 			Wanda_Sykes 
+Youtube ID: 	bwYAk5HVPCk 
+Video length: 	185.9 sec 
+Set (V): 		dev 
+ 
+Wanda_Sykes/bwYAk5HVPCk_0000001 03.4 07.4 
+Wanda_Sykes/bwYAk5HVPCk_0000002 21.6 33.3 
+Wanda_Sykes/bwYAk5HVPCk_0000003 33.6 38.0 
+Wanda_Sykes/bwYAk5HVPCk_0000004 43.3 48.9 
+Wanda_Sykes/bwYAk5HVPCk_0000005 64.0 71.7 
+Wanda_Sykes/bwYAk5HVPCk_0000006 106.3 115.0 
+Wanda_Sykes/bwYAk5HVPCk_0000007 134.0 138.0 

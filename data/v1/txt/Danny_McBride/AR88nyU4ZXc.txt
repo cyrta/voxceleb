@@ -1,0 +1,12 @@
+POI: 			Danny_McBride 
+Youtube ID: 	AR88nyU4ZXc 
+Video length: 	182.0 sec 
+Set (V): 		dev 
+ 
+Danny_McBride/AR88nyU4ZXc_0000001 16.9 24.8 
+Danny_McBride/AR88nyU4ZXc_0000002 27.2 34.8 
+Danny_McBride/AR88nyU4ZXc_0000003 37.8 48.1 
+Danny_McBride/AR88nyU4ZXc_0000004 83.8 94.7 
+Danny_McBride/AR88nyU4ZXc_0000005 109.6 130.5 
+Danny_McBride/AR88nyU4ZXc_0000006 131.1 142.8 
+Danny_McBride/AR88nyU4ZXc_0000007 148.4 160.1 

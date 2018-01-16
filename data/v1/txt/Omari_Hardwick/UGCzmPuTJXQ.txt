@@ -1,0 +1,13 @@
+POI: 			Omari_Hardwick 
+Youtube ID: 	UGCzmPuTJXQ 
+Video length: 	673.5 sec 
+Set (V): 		dev 
+ 
+Omari_Hardwick/UGCzmPuTJXQ_0000001 80.3 84.3 
+Omari_Hardwick/UGCzmPuTJXQ_0000002 105.4 109.6 
+Omari_Hardwick/UGCzmPuTJXQ_0000003 317.9 321.9 
+Omari_Hardwick/UGCzmPuTJXQ_0000004 340.1 344.9 
+Omari_Hardwick/UGCzmPuTJXQ_0000005 489.8 494.1 
+Omari_Hardwick/UGCzmPuTJXQ_0000006 494.3 500.3 
+Omari_Hardwick/UGCzmPuTJXQ_0000007 614.9 623.2 
+Omari_Hardwick/UGCzmPuTJXQ_0000008 647.1 651.6 

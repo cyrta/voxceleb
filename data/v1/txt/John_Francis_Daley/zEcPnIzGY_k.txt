@@ -1,0 +1,12 @@
+POI: 			John_Francis_Daley 
+Youtube ID: 	zEcPnIzGY_k 
+Video length: 	259.8 sec 
+Set (V): 		dev 
+ 
+John_Francis_Daley/zEcPnIzGY_k_0000001 00.7 05.2 
+John_Francis_Daley/zEcPnIzGY_k_0000002 07.0 12.7 
+John_Francis_Daley/zEcPnIzGY_k_0000003 26.0 38.2 
+John_Francis_Daley/zEcPnIzGY_k_0000004 52.8 59.3 
+John_Francis_Daley/zEcPnIzGY_k_0000005 77.4 99.1 
+John_Francis_Daley/zEcPnIzGY_k_0000006 117.6 122.0 
+John_Francis_Daley/zEcPnIzGY_k_0000007 122.0 129.5 

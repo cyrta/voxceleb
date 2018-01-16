@@ -1,0 +1,12 @@
+POI: 			Keri_Hilson 
+Youtube ID: 	V6o2ufsc6_E 
+Video length: 	200.1 sec 
+Set (V): 		dev 
+ 
+Keri_Hilson/V6o2ufsc6_E_0000001 25.2 29.6 
+Keri_Hilson/V6o2ufsc6_E_0000002 30.5 36.6 
+Keri_Hilson/V6o2ufsc6_E_0000003 41.6 54.9 
+Keri_Hilson/V6o2ufsc6_E_0000004 94.0 100.1 
+Keri_Hilson/V6o2ufsc6_E_0000005 143.3 147.9 
+Keri_Hilson/V6o2ufsc6_E_0000006 160.0 164.2 
+Keri_Hilson/V6o2ufsc6_E_0000007 158.1 165.8 

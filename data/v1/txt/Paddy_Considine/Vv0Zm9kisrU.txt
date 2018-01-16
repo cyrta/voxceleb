@@ -1,0 +1,14 @@
+POI: 			Paddy_Considine 
+Youtube ID: 	Vv0Zm9kisrU 
+Video length: 	413.8 sec 
+Set (V): 		dev 
+ 
+Paddy_Considine/Vv0Zm9kisrU_0000001 12.6 27.2 
+Paddy_Considine/Vv0Zm9kisrU_0000002 28.0 34.7 
+Paddy_Considine/Vv0Zm9kisrU_0000003 41.5 52.8 
+Paddy_Considine/Vv0Zm9kisrU_0000004 53.0 61.2 
+Paddy_Considine/Vv0Zm9kisrU_0000005 62.1 66.3 
+Paddy_Considine/Vv0Zm9kisrU_0000006 67.2 78.6 
+Paddy_Considine/Vv0Zm9kisrU_0000007 95.3 120.2 
+Paddy_Considine/Vv0Zm9kisrU_0000008 125.8 132.0 
+Paddy_Considine/Vv0Zm9kisrU_0000009 199.4 205.6 

@@ -1,0 +1,12 @@
+POI: 			James_Marsden 
+Youtube ID: 	Derfi9KGpv8 
+Video length: 	275.1 sec 
+Set (V): 		dev 
+ 
+James_Marsden/Derfi9KGpv8_0000001 12.0 21.0 
+James_Marsden/Derfi9KGpv8_0000002 22.1 36.3 
+James_Marsden/Derfi9KGpv8_0000003 80.2 85.8 
+James_Marsden/Derfi9KGpv8_0000004 87.6 95.2 
+James_Marsden/Derfi9KGpv8_0000005 165.1 175.7 
+James_Marsden/Derfi9KGpv8_0000006 175.9 193.3 
+James_Marsden/Derfi9KGpv8_0000007 237.6 254.1 

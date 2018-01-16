@@ -1,0 +1,7 @@
+POI: 			Cameron_Boyce 
+Youtube ID: 	VOQi3645_Jc 
+Video length: 	167.9 sec 
+Set (V): 		dev 
+ 
+Cameron_Boyce/VOQi3645_Jc_0000001 107.3 114.1 
+Cameron_Boyce/VOQi3645_Jc_0000002 115.7 120.3 

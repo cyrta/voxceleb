@@ -1,0 +1,7 @@
+POI: 			Heather_Graham 
+Youtube ID: 	iqa916G9C_A 
+Video length: 	280.3 sec 
+Set (V): 		dev 
+ 
+Heather_Graham/iqa916G9C_A_0000001 56.1 66.7 
+Heather_Graham/iqa916G9C_A_0000002 74.2 85.0 

@@ -1,0 +1,9 @@
+POI: 			Roger_Ebert 
+Youtube ID: 	Tle5ZnBjU7M 
+Video length: 	742.9 sec 
+Set (V): 		dev 
+ 
+Roger_Ebert/Tle5ZnBjU7M_0000001 121.2 126.5 
+Roger_Ebert/Tle5ZnBjU7M_0000002 229.4 234.4 
+Roger_Ebert/Tle5ZnBjU7M_0000003 253.2 259.2 
+Roger_Ebert/Tle5ZnBjU7M_0000004 467.8 472.8 

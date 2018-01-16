@@ -1,0 +1,13 @@
+POI: 			Joel_Edgerton 
+Youtube ID: 	F6WmFMk4DRU 
+Video length: 	298.2 sec 
+Set (V): 		dev 
+ 
+Joel_Edgerton/F6WmFMk4DRU_0000001 29.0 41.2 
+Joel_Edgerton/F6WmFMk4DRU_0000002 79.6 84.4 
+Joel_Edgerton/F6WmFMk4DRU_0000003 89.0 103.2 
+Joel_Edgerton/F6WmFMk4DRU_0000004 103.9 111.3 
+Joel_Edgerton/F6WmFMk4DRU_0000005 173.2 180.6 
+Joel_Edgerton/F6WmFMk4DRU_0000006 182.6 194.0 
+Joel_Edgerton/F6WmFMk4DRU_0000007 260.1 267.2 
+Joel_Edgerton/F6WmFMk4DRU_0000008 276.9 286.4 

@@ -1,0 +1,8 @@
+POI: 			Tatiana_Maslany 
+Youtube ID: 	EXmakoCuWQA 
+Video length: 	325.5 sec 
+Set (V): 		dev 
+ 
+Tatiana_Maslany/EXmakoCuWQA_0000001 113.6 119.1 
+Tatiana_Maslany/EXmakoCuWQA_0000002 250.1 258.8 
+Tatiana_Maslany/EXmakoCuWQA_0000003 259.2 265.9 

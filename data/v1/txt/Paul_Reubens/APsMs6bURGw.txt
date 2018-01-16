@@ -1,0 +1,7 @@
+POI: 			Paul_Reubens 
+Youtube ID: 	APsMs6bURGw 
+Video length: 	4637.0 sec 
+Set (V): 		dev 
+ 
+Paul_Reubens/APsMs6bURGw_0000001 1842.0 1847.1 
+Paul_Reubens/APsMs6bURGw_0000002 1897.4 1901.6 

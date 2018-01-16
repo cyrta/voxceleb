@@ -1,0 +1,6 @@
+POI: 			Melody_Thomas_Scott 
+Youtube ID: 	18pB865Af_U 
+Video length: 	289.5 sec 
+Set (V): 		dev 
+ 
+Melody_Thomas_Scott/18pB865Af_U_0000001 42.0 46.0 

@@ -1,0 +1,8 @@
+POI: 			Pierfrancesco_Favino 
+Youtube ID: 	LyipvkobRu4 
+Video length: 	651.9 sec 
+Set (V): 		dev 
+ 
+Pierfrancesco_Favino/LyipvkobRu4_0000001 283.0 289.1 
+Pierfrancesco_Favino/LyipvkobRu4_0000002 295.9 304.1 
+Pierfrancesco_Favino/LyipvkobRu4_0000003 311.6 317.4 

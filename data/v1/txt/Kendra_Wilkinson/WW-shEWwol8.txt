@@ -1,0 +1,7 @@
+POI: 			Kendra_Wilkinson 
+Youtube ID: 	WW-shEWwol8 
+Video length: 	307.6 sec 
+Set (V): 		dev 
+ 
+Kendra_Wilkinson/WW-shEWwol8_0000001 33.9 38.5 
+Kendra_Wilkinson/WW-shEWwol8_0000002 75.8 79.8 

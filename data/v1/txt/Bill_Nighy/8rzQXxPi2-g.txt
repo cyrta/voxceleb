@@ -1,0 +1,20 @@
+POI: 			Bill_Nighy 
+Youtube ID: 	8rzQXxPi2-g 
+Video length: 	335.4 sec 
+Set (V): 		dev 
+ 
+Bill_Nighy/8rzQXxPi2-g_0000001 70.9 80.7 
+Bill_Nighy/8rzQXxPi2-g_0000002 83.8 90.0 
+Bill_Nighy/8rzQXxPi2-g_0000003 93.6 99.5 
+Bill_Nighy/8rzQXxPi2-g_0000004 105.6 110.3 
+Bill_Nighy/8rzQXxPi2-g_0000005 114.7 129.2 
+Bill_Nighy/8rzQXxPi2-g_0000006 149.0 154.8 
+Bill_Nighy/8rzQXxPi2-g_0000007 156.0 161.5 
+Bill_Nighy/8rzQXxPi2-g_0000008 162.4 177.6 
+Bill_Nighy/8rzQXxPi2-g_0000009 216.6 230.4 
+Bill_Nighy/8rzQXxPi2-g_0000010 231.1 238.5 
+Bill_Nighy/8rzQXxPi2-g_0000011 253.4 261.6 
+Bill_Nighy/8rzQXxPi2-g_0000012 264.0 270.6 
+Bill_Nighy/8rzQXxPi2-g_0000013 271.4 278.2 
+Bill_Nighy/8rzQXxPi2-g_0000014 280.7 291.3 
+Bill_Nighy/8rzQXxPi2-g_0000015 291.5 300.2 

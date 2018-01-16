@@ -1,0 +1,15 @@
+POI: 			Sam_Heughan 
+Youtube ID: 	vDbGhsSM6p4 
+Video length: 	2044.6 sec 
+Set (V): 		dev 
+ 
+Sam_Heughan/vDbGhsSM6p4_0000001 338.2 342.3 
+Sam_Heughan/vDbGhsSM6p4_0000002 501.9 507.6 
+Sam_Heughan/vDbGhsSM6p4_0000003 530.6 537.2 
+Sam_Heughan/vDbGhsSM6p4_0000004 552.8 564.9 
+Sam_Heughan/vDbGhsSM6p4_0000005 669.7 676.4 
+Sam_Heughan/vDbGhsSM6p4_0000006 679.0 691.5 
+Sam_Heughan/vDbGhsSM6p4_0000007 692.0 705.2 
+Sam_Heughan/vDbGhsSM6p4_0000008 808.6 813.3 
+Sam_Heughan/vDbGhsSM6p4_0000009 1576.6 1582.4 
+Sam_Heughan/vDbGhsSM6p4_0000010 1594.1 1598.3 

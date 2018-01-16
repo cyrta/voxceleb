@@ -1,0 +1,12 @@
+POI: 			Cristin_Milioti 
+Youtube ID: 	9YkWgO8wgIM 
+Video length: 	298.9 sec 
+Set (V): 		dev 
+ 
+Cristin_Milioti/9YkWgO8wgIM_0000001 14.9 22.6 
+Cristin_Milioti/9YkWgO8wgIM_0000002 52.6 56.7 
+Cristin_Milioti/9YkWgO8wgIM_0000003 109.0 115.6 
+Cristin_Milioti/9YkWgO8wgIM_0000004 167.5 174.8 
+Cristin_Milioti/9YkWgO8wgIM_0000005 230.7 236.1 
+Cristin_Milioti/9YkWgO8wgIM_0000006 246.3 253.6 
+Cristin_Milioti/9YkWgO8wgIM_0000007 269.3 274.6 

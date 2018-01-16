@@ -1,0 +1,8 @@
+POI: 			Zach_Braff 
+Youtube ID: 	vtDEi33ARKE 
+Video length: 	206.7 sec 
+Set (V): 		dev 
+ 
+Zach_Braff/vtDEi33ARKE_0000001 36.8 46.9 
+Zach_Braff/vtDEi33ARKE_0000002 106.6 116.0 
+Zach_Braff/vtDEi33ARKE_0000003 155.0 165.1 

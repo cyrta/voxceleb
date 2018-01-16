@@ -1,0 +1,12 @@
+POI: 			Michael_Bay 
+Youtube ID: 	qqW7XtOd_lY 
+Video length: 	318.4 sec 
+Set (V): 		dev 
+ 
+Michael_Bay/qqW7XtOd_lY_0000001 23.1 27.9 
+Michael_Bay/qqW7XtOd_lY_0000002 93.0 99.1 
+Michael_Bay/qqW7XtOd_lY_0000003 105.0 110.6 
+Michael_Bay/qqW7XtOd_lY_0000004 202.4 214.3 
+Michael_Bay/qqW7XtOd_lY_0000005 230.2 234.8 
+Michael_Bay/qqW7XtOd_lY_0000006 235.0 242.8 
+Michael_Bay/qqW7XtOd_lY_0000007 252.0 261.3 

@@ -1,0 +1,10 @@
+POI: 			Naomie_Harris 
+Youtube ID: 	2H-kmNJrXZY 
+Video length: 	111.8 sec 
+Set (V): 		dev 
+ 
+Naomie_Harris/2H-kmNJrXZY_0000001 09.0 19.1 
+Naomie_Harris/2H-kmNJrXZY_0000002 19.5 33.1 
+Naomie_Harris/2H-kmNJrXZY_0000003 54.2 59.6 
+Naomie_Harris/2H-kmNJrXZY_0000004 69.9 77.3 
+Naomie_Harris/2H-kmNJrXZY_0000005 80.1 94.0 

@@ -1,0 +1,10 @@
+POI: 			Miles_Teller 
+Youtube ID: 	OpcAgjsbb8Y 
+Video length: 	198.9 sec 
+Set (V): 		dev 
+ 
+Miles_Teller/OpcAgjsbb8Y_0000001 44.8 51.0 
+Miles_Teller/OpcAgjsbb8Y_0000002 54.8 62.5 
+Miles_Teller/OpcAgjsbb8Y_0000003 75.7 86.2 
+Miles_Teller/OpcAgjsbb8Y_0000004 87.2 93.1 
+Miles_Teller/OpcAgjsbb8Y_0000005 149.1 162.5 

@@ -1,0 +1,11 @@
+POI: 			Jet_Li 
+Youtube ID: 	06VjmB__LDU 
+Video length: 	230.0 sec 
+Set (V): 		dev 
+ 
+Jet_Li/06VjmB__LDU_0000001 32.2 38.0 
+Jet_Li/06VjmB__LDU_0000002 89.9 94.8 
+Jet_Li/06VjmB__LDU_0000003 99.6 106.2 
+Jet_Li/06VjmB__LDU_0000004 193.1 200.5 
+Jet_Li/06VjmB__LDU_0000005 208.6 216.5 
+Jet_Li/06VjmB__LDU_0000006 222.4 226.6 

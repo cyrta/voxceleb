@@ -1,0 +1,8 @@
+POI: 			Phyllis_Diller 
+Youtube ID: 	nnuismUUa4Y 
+Video length: 	1740.3 sec 
+Set (V): 		dev 
+ 
+Phyllis_Diller/nnuismUUa4Y_0000001 972.6 981.0 
+Phyllis_Diller/nnuismUUa4Y_0000002 981.2 994.5 
+Phyllis_Diller/nnuismUUa4Y_0000003 1554.4 1561.6 

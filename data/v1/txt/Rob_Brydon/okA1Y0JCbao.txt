@@ -1,0 +1,12 @@
+POI: 			Rob_Brydon 
+Youtube ID: 	okA1Y0JCbao 
+Video length: 	442.6 sec 
+Set (V): 		dev 
+ 
+Rob_Brydon/okA1Y0JCbao_0000001 29.1 34.4 
+Rob_Brydon/okA1Y0JCbao_0000002 53.5 60.0 
+Rob_Brydon/okA1Y0JCbao_0000003 190.1 197.7 
+Rob_Brydon/okA1Y0JCbao_0000004 205.0 213.6 
+Rob_Brydon/okA1Y0JCbao_0000005 270.5 275.0 
+Rob_Brydon/okA1Y0JCbao_0000006 297.5 302.7 
+Rob_Brydon/okA1Y0JCbao_0000007 306.3 316.6 

@@ -1,0 +1,9 @@
+POI: 			Eric_Braeden 
+Youtube ID: 	zIkTBKfnbso 
+Video length: 	159.9 sec 
+Set (V): 		test 
+ 
+Eric_Braeden/zIkTBKfnbso_0000001 01.3 08.0 
+Eric_Braeden/zIkTBKfnbso_0000002 52.0 59.2 
+Eric_Braeden/zIkTBKfnbso_0000003 63.3 73.6 
+Eric_Braeden/zIkTBKfnbso_0000004 85.8 96.1 

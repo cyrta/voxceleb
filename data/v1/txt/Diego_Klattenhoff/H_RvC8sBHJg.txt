@@ -1,0 +1,10 @@
+POI: 			Diego_Klattenhoff 
+Youtube ID: 	H_RvC8sBHJg 
+Video length: 	132.7 sec 
+Set (V): 		dev 
+ 
+Diego_Klattenhoff/H_RvC8sBHJg_0000001 00.8 04.8 
+Diego_Klattenhoff/H_RvC8sBHJg_0000002 42.8 47.4 
+Diego_Klattenhoff/H_RvC8sBHJg_0000003 60.1 69.6 
+Diego_Klattenhoff/H_RvC8sBHJg_0000004 76.3 81.4 
+Diego_Klattenhoff/H_RvC8sBHJg_0000005 111.2 116.2 

@@ -1,0 +1,8 @@
+POI: 			John_Slattery 
+Youtube ID: 	ZJjr6t9hirA 
+Video length: 	45.1 sec 
+Set (V): 		dev 
+ 
+John_Slattery/ZJjr6t9hirA_0000001 10.2 15.3 
+John_Slattery/ZJjr6t9hirA_0000002 15.9 32.2 
+John_Slattery/ZJjr6t9hirA_0000003 34.2 40.6 

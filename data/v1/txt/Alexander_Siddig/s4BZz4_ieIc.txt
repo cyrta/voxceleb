@@ -1,0 +1,14 @@
+POI: 			Alexander_Siddig 
+Youtube ID: 	s4BZz4_ieIc 
+Video length: 	596.9 sec 
+Set (V): 		dev 
+ 
+Alexander_Siddig/s4BZz4_ieIc_0000001 120.0 124.9 
+Alexander_Siddig/s4BZz4_ieIc_0000002 153.9 159.0 
+Alexander_Siddig/s4BZz4_ieIc_0000003 165.1 175.0 
+Alexander_Siddig/s4BZz4_ieIc_0000004 188.1 193.1 
+Alexander_Siddig/s4BZz4_ieIc_0000005 348.0 352.5 
+Alexander_Siddig/s4BZz4_ieIc_0000006 366.5 375.8 
+Alexander_Siddig/s4BZz4_ieIc_0000007 438.8 443.2 
+Alexander_Siddig/s4BZz4_ieIc_0000008 454.1 459.9 
+Alexander_Siddig/s4BZz4_ieIc_0000009 500.4 505.0 

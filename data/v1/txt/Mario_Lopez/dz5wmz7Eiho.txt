@@ -1,0 +1,9 @@
+POI: 			Mario_Lopez 
+Youtube ID: 	dz5wmz7Eiho 
+Video length: 	202.2 sec 
+Set (V): 		dev 
+ 
+Mario_Lopez/dz5wmz7Eiho_0000001 63.7 73.9 
+Mario_Lopez/dz5wmz7Eiho_0000002 78.3 87.0 
+Mario_Lopez/dz5wmz7Eiho_0000003 130.1 135.5 
+Mario_Lopez/dz5wmz7Eiho_0000004 137.6 146.2 

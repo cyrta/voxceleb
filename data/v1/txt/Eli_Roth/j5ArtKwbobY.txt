@@ -1,0 +1,19 @@
+POI: 			Eli_Roth 
+Youtube ID: 	j5ArtKwbobY 
+Video length: 	422.8 sec 
+Set (V): 		test 
+ 
+Eli_Roth/j5ArtKwbobY_0000001 05.8 34.7 
+Eli_Roth/j5ArtKwbobY_0000002 40.0 81.6 
+Eli_Roth/j5ArtKwbobY_0000003 86.9 155.9 
+Eli_Roth/j5ArtKwbobY_0000004 161.0 169.3 
+Eli_Roth/j5ArtKwbobY_0000005 169.8 180.8 
+Eli_Roth/j5ArtKwbobY_0000006 210.0 225.0 
+Eli_Roth/j5ArtKwbobY_0000007 230.2 254.1 
+Eli_Roth/j5ArtKwbobY_0000008 256.0 295.2 
+Eli_Roth/j5ArtKwbobY_0000009 297.1 348.2 
+Eli_Roth/j5ArtKwbobY_0000010 367.3 375.8 
+Eli_Roth/j5ArtKwbobY_0000011 375.9 384.0 
+Eli_Roth/j5ArtKwbobY_0000012 388.2 421.4 
+Eli_Roth/j5ArtKwbobY_0000013 355.2 363.5 
+Eli_Roth/j5ArtKwbobY_0000014 364.2 387.8 

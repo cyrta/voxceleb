@@ -1,0 +1,12 @@
+POI: 			Sharni_Vinson 
+Youtube ID: 	3L5rAQxe9mM 
+Video length: 	176.0 sec 
+Set (V): 		dev 
+ 
+Sharni_Vinson/3L5rAQxe9mM_0000001 08.5 25.6 
+Sharni_Vinson/3L5rAQxe9mM_0000002 27.6 43.8 
+Sharni_Vinson/3L5rAQxe9mM_0000003 45.9 60.8 
+Sharni_Vinson/3L5rAQxe9mM_0000004 70.5 118.4 
+Sharni_Vinson/3L5rAQxe9mM_0000005 127.5 131.8 
+Sharni_Vinson/3L5rAQxe9mM_0000006 133.7 143.0 
+Sharni_Vinson/3L5rAQxe9mM_0000007 143.2 163.1 

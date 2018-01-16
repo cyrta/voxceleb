@@ -1,0 +1,10 @@
+POI: 			Samira_Wiley 
+Youtube ID: 	svSWRP8hrZQ 
+Video length: 	490.0 sec 
+Set (V): 		dev 
+ 
+Samira_Wiley/svSWRP8hrZQ_0000001 197.0 201.1 
+Samira_Wiley/svSWRP8hrZQ_0000002 350.5 358.9 
+Samira_Wiley/svSWRP8hrZQ_0000003 360.7 365.6 
+Samira_Wiley/svSWRP8hrZQ_0000004 367.1 382.1 
+Samira_Wiley/svSWRP8hrZQ_0000005 388.8 394.6 

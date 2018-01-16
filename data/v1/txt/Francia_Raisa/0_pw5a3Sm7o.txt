@@ -1,0 +1,10 @@
+POI: 			Francia_Raisa 
+Youtube ID: 	0_pw5a3Sm7o 
+Video length: 	138.1 sec 
+Set (V): 		dev 
+ 
+Francia_Raisa/0_pw5a3Sm7o_0000001 32.2 37.1 
+Francia_Raisa/0_pw5a3Sm7o_0000002 68.8 80.0 
+Francia_Raisa/0_pw5a3Sm7o_0000003 84.1 89.4 
+Francia_Raisa/0_pw5a3Sm7o_0000004 93.2 97.2 
+Francia_Raisa/0_pw5a3Sm7o_0000005 114.5 119.0 

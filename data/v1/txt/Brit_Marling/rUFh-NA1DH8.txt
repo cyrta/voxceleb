@@ -1,0 +1,20 @@
+POI: 			Brit_Marling 
+Youtube ID: 	rUFh-NA1DH8 
+Video length: 	235.8 sec 
+Set (V): 		dev 
+ 
+Brit_Marling/rUFh-NA1DH8_0000001 00.8 19.8 
+Brit_Marling/rUFh-NA1DH8_0000002 26.4 35.6 
+Brit_Marling/rUFh-NA1DH8_0000003 47.6 57.8 
+Brit_Marling/rUFh-NA1DH8_0000004 58.2 80.8 
+Brit_Marling/rUFh-NA1DH8_0000005 84.9 88.8 
+Brit_Marling/rUFh-NA1DH8_0000006 95.1 104.9 
+Brit_Marling/rUFh-NA1DH8_0000007 109.8 127.0 
+Brit_Marling/rUFh-NA1DH8_0000008 129.4 136.3 
+Brit_Marling/rUFh-NA1DH8_0000009 140.9 154.5 
+Brit_Marling/rUFh-NA1DH8_0000010 161.1 170.2 
+Brit_Marling/rUFh-NA1DH8_0000011 179.9 184.2 
+Brit_Marling/rUFh-NA1DH8_0000012 185.1 189.9 
+Brit_Marling/rUFh-NA1DH8_0000013 190.2 203.2 
+Brit_Marling/rUFh-NA1DH8_0000014 207.3 212.9 
+Brit_Marling/rUFh-NA1DH8_0000015 227.9 233.0 

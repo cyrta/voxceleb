@@ -1,0 +1,9 @@
+POI: 			Diane_Kruger 
+Youtube ID: 	giy_4x1_ZFQ 
+Video length: 	226.0 sec 
+Set (V): 		dev 
+ 
+Diane_Kruger/giy_4x1_ZFQ_0000001 61.5 65.7 
+Diane_Kruger/giy_4x1_ZFQ_0000002 81.4 86.2 
+Diane_Kruger/giy_4x1_ZFQ_0000003 157.1 168.7 
+Diane_Kruger/giy_4x1_ZFQ_0000004 170.7 175.8 

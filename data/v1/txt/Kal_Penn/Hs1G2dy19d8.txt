@@ -1,0 +1,9 @@
+POI: 			Kal_Penn 
+Youtube ID: 	Hs1G2dy19d8 
+Video length: 	124.3 sec 
+Set (V): 		dev 
+ 
+Kal_Penn/Hs1G2dy19d8_0000001 12.8 23.4 
+Kal_Penn/Hs1G2dy19d8_0000002 27.2 42.8 
+Kal_Penn/Hs1G2dy19d8_0000003 62.3 68.0 
+Kal_Penn/Hs1G2dy19d8_0000004 95.4 102.5 

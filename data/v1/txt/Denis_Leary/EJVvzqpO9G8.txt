@@ -1,0 +1,13 @@
+POI: 			Denis_Leary 
+Youtube ID: 	EJVvzqpO9G8 
+Video length: 	183.8 sec 
+Set (V): 		dev 
+ 
+Denis_Leary/EJVvzqpO9G8_0000001 30.6 36.6 
+Denis_Leary/EJVvzqpO9G8_0000002 37.0 51.6 
+Denis_Leary/EJVvzqpO9G8_0000003 89.6 94.5 
+Denis_Leary/EJVvzqpO9G8_0000004 97.5 112.9 
+Denis_Leary/EJVvzqpO9G8_0000005 132.6 148.4 
+Denis_Leary/EJVvzqpO9G8_0000006 149.8 156.0 
+Denis_Leary/EJVvzqpO9G8_0000007 161.3 167.6 
+Denis_Leary/EJVvzqpO9G8_0000008 168.3 177.8 

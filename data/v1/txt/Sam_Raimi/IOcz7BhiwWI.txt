@@ -1,0 +1,11 @@
+POI: 			Sam_Raimi 
+Youtube ID: 	IOcz7BhiwWI 
+Video length: 	138.3 sec 
+Set (V): 		dev 
+ 
+Sam_Raimi/IOcz7BhiwWI_0000001 30.1 36.5 
+Sam_Raimi/IOcz7BhiwWI_0000002 60.3 65.4 
+Sam_Raimi/IOcz7BhiwWI_0000003 67.7 71.9 
+Sam_Raimi/IOcz7BhiwWI_0000004 74.0 78.4 
+Sam_Raimi/IOcz7BhiwWI_0000005 88.8 101.7 
+Sam_Raimi/IOcz7BhiwWI_0000006 107.6 114.6 

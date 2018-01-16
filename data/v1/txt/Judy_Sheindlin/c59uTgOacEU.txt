@@ -1,0 +1,14 @@
+POI: 			Judy_Sheindlin 
+Youtube ID: 	c59uTgOacEU 
+Video length: 	128.3 sec 
+Set (V): 		dev 
+ 
+Judy_Sheindlin/c59uTgOacEU_0000001 14.0 20.4 
+Judy_Sheindlin/c59uTgOacEU_0000002 23.7 30.8 
+Judy_Sheindlin/c59uTgOacEU_0000003 50.1 62.8 
+Judy_Sheindlin/c59uTgOacEU_0000004 63.8 68.6 
+Judy_Sheindlin/c59uTgOacEU_0000005 72.6 83.6 
+Judy_Sheindlin/c59uTgOacEU_0000006 92.7 99.3 
+Judy_Sheindlin/c59uTgOacEU_0000007 102.8 108.3 
+Judy_Sheindlin/c59uTgOacEU_0000008 92.7 108.7 
+Judy_Sheindlin/c59uTgOacEU_0000009 110.0 115.9 

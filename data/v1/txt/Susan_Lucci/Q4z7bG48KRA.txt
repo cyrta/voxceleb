@@ -1,0 +1,7 @@
+POI: 			Susan_Lucci 
+Youtube ID: 	Q4z7bG48KRA 
+Video length: 	400.9 sec 
+Set (V): 		dev 
+ 
+Susan_Lucci/Q4z7bG48KRA_0000001 50.2 58.7 
+Susan_Lucci/Q4z7bG48KRA_0000002 170.2 177.6 

@@ -1,0 +1,8 @@
+POI: 			Paul_Feig 
+Youtube ID: 	LoBton52BZE 
+Video length: 	195.9 sec 
+Set (V): 		dev 
+ 
+Paul_Feig/LoBton52BZE_0000001 90.0 94.2 
+Paul_Feig/LoBton52BZE_0000002 97.6 107.8 
+Paul_Feig/LoBton52BZE_0000003 126.0 134.5 

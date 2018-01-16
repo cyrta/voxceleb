@@ -1,0 +1,7 @@
+POI: 			Imelda_Staunton 
+Youtube ID: 	jqBdugLlF4o 
+Video length: 	53.8 sec 
+Set (V): 		dev 
+ 
+Imelda_Staunton/jqBdugLlF4o_0000001 32.8 38.4 
+Imelda_Staunton/jqBdugLlF4o_0000002 32.8 38.5 

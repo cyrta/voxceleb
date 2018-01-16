@@ -1,0 +1,8 @@
+POI: 			Adrianne_Curry 
+Youtube ID: 	ayglFsYxfj0 
+Video length: 	119.8 sec 
+Set (V): 		dev 
+ 
+Adrianne_Curry/ayglFsYxfj0_0000001 75.0 80.6 
+Adrianne_Curry/ayglFsYxfj0_0000002 86.2 91.3 
+Adrianne_Curry/ayglFsYxfj0_0000003 91.8 100.1 

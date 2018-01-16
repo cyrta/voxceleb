@@ -1,0 +1,17 @@
+POI: 			Timothy_Spall 
+Youtube ID: 	llNbAxBPEJM 
+Video length: 	415.1 sec 
+Set (V): 		dev 
+ 
+Timothy_Spall/llNbAxBPEJM_0000001 24.1 40.2 
+Timothy_Spall/llNbAxBPEJM_0000002 40.7 46.7 
+Timothy_Spall/llNbAxBPEJM_0000003 47.0 58.8 
+Timothy_Spall/llNbAxBPEJM_0000004 101.9 107.1 
+Timothy_Spall/llNbAxBPEJM_0000005 125.9 136.9 
+Timothy_Spall/llNbAxBPEJM_0000006 137.2 144.1 
+Timothy_Spall/llNbAxBPEJM_0000007 144.2 157.3 
+Timothy_Spall/llNbAxBPEJM_0000008 174.6 181.3 
+Timothy_Spall/llNbAxBPEJM_0000009 192.6 197.5 
+Timothy_Spall/llNbAxBPEJM_0000010 225.2 230.2 
+Timothy_Spall/llNbAxBPEJM_0000011 363.1 367.2 
+Timothy_Spall/llNbAxBPEJM_0000012 372.4 379.9 

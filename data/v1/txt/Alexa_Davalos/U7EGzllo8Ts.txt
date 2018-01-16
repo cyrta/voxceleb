@@ -1,0 +1,16 @@
+POI: 			Alexa_Davalos 
+Youtube ID: 	U7EGzllo8Ts 
+Video length: 	269.4 sec 
+Set (V): 		dev 
+ 
+Alexa_Davalos/U7EGzllo8Ts_0000001 41.8 49.3 
+Alexa_Davalos/U7EGzllo8Ts_0000002 64.5 70.5 
+Alexa_Davalos/U7EGzllo8Ts_0000003 71.7 80.6 
+Alexa_Davalos/U7EGzllo8Ts_0000004 82.2 103.7 
+Alexa_Davalos/U7EGzllo8Ts_0000005 145.8 150.3 
+Alexa_Davalos/U7EGzllo8Ts_0000006 199.8 206.2 
+Alexa_Davalos/U7EGzllo8Ts_0000007 211.0 216.5 
+Alexa_Davalos/U7EGzllo8Ts_0000008 217.3 224.6 
+Alexa_Davalos/U7EGzllo8Ts_0000009 227.8 237.7 
+Alexa_Davalos/U7EGzllo8Ts_0000010 245.6 250.2 
+Alexa_Davalos/U7EGzllo8Ts_0000011 251.0 257.0 

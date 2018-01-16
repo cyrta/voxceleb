@@ -1,0 +1,18 @@
+POI: 			Dawn_Wells 
+Youtube ID: 	_UsN5Sbb0e0 
+Video length: 	365.8 sec 
+Set (V): 		dev 
+ 
+Dawn_Wells/_UsN5Sbb0e0_0000001 36.0 40.5 
+Dawn_Wells/_UsN5Sbb0e0_0000002 61.8 88.4 
+Dawn_Wells/_UsN5Sbb0e0_0000003 104.0 118.6 
+Dawn_Wells/_UsN5Sbb0e0_0000004 119.6 133.3 
+Dawn_Wells/_UsN5Sbb0e0_0000005 148.2 152.4 
+Dawn_Wells/_UsN5Sbb0e0_0000006 182.6 195.6 
+Dawn_Wells/_UsN5Sbb0e0_0000007 195.7 201.1 
+Dawn_Wells/_UsN5Sbb0e0_0000008 220.7 226.9 
+Dawn_Wells/_UsN5Sbb0e0_0000009 249.7 257.0 
+Dawn_Wells/_UsN5Sbb0e0_0000010 257.4 262.3 
+Dawn_Wells/_UsN5Sbb0e0_0000011 267.6 275.9 
+Dawn_Wells/_UsN5Sbb0e0_0000012 303.0 312.2 
+Dawn_Wells/_UsN5Sbb0e0_0000013 333.7 340.5 

@@ -1,0 +1,9 @@
+POI: 			Diane_Kruger 
+Youtube ID: 	PO3Jdf4TIEs 
+Video length: 	838.9 sec 
+Set (V): 		dev 
+ 
+Diane_Kruger/PO3Jdf4TIEs_0000001 103.1 108.1 
+Diane_Kruger/PO3Jdf4TIEs_0000002 401.0 406.2 
+Diane_Kruger/PO3Jdf4TIEs_0000003 540.2 544.3 
+Diane_Kruger/PO3Jdf4TIEs_0000004 596.0 601.7 

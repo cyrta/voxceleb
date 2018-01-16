@@ -1,0 +1,17 @@
+POI: 			Cassandra_Peterson 
+Youtube ID: 	DPBVfp0e1mI 
+Video length: 	213.1 sec 
+Set (V): 		dev 
+ 
+Cassandra_Peterson/DPBVfp0e1mI_0000001 36.1 42.7 
+Cassandra_Peterson/DPBVfp0e1mI_0000002 81.6 90.3 
+Cassandra_Peterson/DPBVfp0e1mI_0000003 90.8 95.0 
+Cassandra_Peterson/DPBVfp0e1mI_0000004 95.8 109.8 
+Cassandra_Peterson/DPBVfp0e1mI_0000005 111.6 115.9 
+Cassandra_Peterson/DPBVfp0e1mI_0000006 123.0 128.4 
+Cassandra_Peterson/DPBVfp0e1mI_0000007 129.4 136.7 
+Cassandra_Peterson/DPBVfp0e1mI_0000008 139.0 144.6 
+Cassandra_Peterson/DPBVfp0e1mI_0000009 146.8 151.7 
+Cassandra_Peterson/DPBVfp0e1mI_0000010 168.7 173.7 
+Cassandra_Peterson/DPBVfp0e1mI_0000011 181.5 187.2 
+Cassandra_Peterson/DPBVfp0e1mI_0000012 187.4 193.7 

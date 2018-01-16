@@ -1,0 +1,13 @@
+POI: 			Candace_Cameron_Bure 
+Youtube ID: 	VyoeCnbe_TA 
+Video length: 	294.5 sec 
+Set (V): 		dev 
+ 
+Candace_Cameron_Bure/VyoeCnbe_TA_0000001 42.1 48.6 
+Candace_Cameron_Bure/VyoeCnbe_TA_0000002 80.3 87.2 
+Candace_Cameron_Bure/VyoeCnbe_TA_0000003 107.4 113.9 
+Candace_Cameron_Bure/VyoeCnbe_TA_0000004 114.1 138.6 
+Candace_Cameron_Bure/VyoeCnbe_TA_0000005 148.5 159.4 
+Candace_Cameron_Bure/VyoeCnbe_TA_0000006 215.3 228.7 
+Candace_Cameron_Bure/VyoeCnbe_TA_0000007 230.6 242.2 
+Candace_Cameron_Bure/VyoeCnbe_TA_0000008 255.7 261.8 

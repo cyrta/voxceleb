@@ -1,0 +1,8 @@
+POI: 			Jack_Lemmon 
+Youtube ID: 	fB7jMHi-mpA 
+Video length: 	311.2 sec 
+Set (V): 		dev 
+ 
+Jack_Lemmon/fB7jMHi-mpA_0000001 22.2 26.7 
+Jack_Lemmon/fB7jMHi-mpA_0000002 257.6 273.3 
+Jack_Lemmon/fB7jMHi-mpA_0000003 281.5 292.1 

@@ -1,0 +1,12 @@
+POI: 			Diego_Klattenhoff 
+Youtube ID: 	eCwriPR_VdU 
+Video length: 	182.5 sec 
+Set (V): 		dev 
+ 
+Diego_Klattenhoff/eCwriPR_VdU_0000001 36.8 44.3 
+Diego_Klattenhoff/eCwriPR_VdU_0000002 84.8 89.8 
+Diego_Klattenhoff/eCwriPR_VdU_0000003 115.1 129.2 
+Diego_Klattenhoff/eCwriPR_VdU_0000004 129.4 139.8 
+Diego_Klattenhoff/eCwriPR_VdU_0000005 140.0 150.7 
+Diego_Klattenhoff/eCwriPR_VdU_0000006 151.8 162.6 
+Diego_Klattenhoff/eCwriPR_VdU_0000007 162.8 174.4 

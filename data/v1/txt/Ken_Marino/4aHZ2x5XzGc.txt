@@ -1,0 +1,12 @@
+POI: 			Ken_Marino 
+Youtube ID: 	4aHZ2x5XzGc 
+Video length: 	300.0 sec 
+Set (V): 		dev 
+ 
+Ken_Marino/4aHZ2x5XzGc_0000001 70.2 89.9 
+Ken_Marino/4aHZ2x5XzGc_0000002 90.1 104.4 
+Ken_Marino/4aHZ2x5XzGc_0000003 134.0 143.3 
+Ken_Marino/4aHZ2x5XzGc_0000004 209.3 227.0 
+Ken_Marino/4aHZ2x5XzGc_0000005 251.4 262.8 
+Ken_Marino/4aHZ2x5XzGc_0000006 273.4 284.0 
+Ken_Marino/4aHZ2x5XzGc_0000007 289.5 294.3 

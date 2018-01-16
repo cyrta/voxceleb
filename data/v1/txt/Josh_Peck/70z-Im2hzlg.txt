@@ -1,0 +1,10 @@
+POI: 			Josh_Peck 
+Youtube ID: 	70z-Im2hzlg 
+Video length: 	299.9 sec 
+Set (V): 		dev 
+ 
+Josh_Peck/70z-Im2hzlg_0000001 154.9 164.6 
+Josh_Peck/70z-Im2hzlg_0000002 166.7 173.1 
+Josh_Peck/70z-Im2hzlg_0000003 186.4 191.8 
+Josh_Peck/70z-Im2hzlg_0000004 224.4 228.4 
+Josh_Peck/70z-Im2hzlg_0000005 257.1 267.2 

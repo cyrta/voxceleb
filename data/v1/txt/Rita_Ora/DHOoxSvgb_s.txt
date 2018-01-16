@@ -1,0 +1,11 @@
+POI: 			Rita_Ora 
+Youtube ID: 	DHOoxSvgb_s 
+Video length: 	440.8 sec 
+Set (V): 		dev 
+ 
+Rita_Ora/DHOoxSvgb_s_0000001 98.8 108.4 
+Rita_Ora/DHOoxSvgb_s_0000002 112.1 117.3 
+Rita_Ora/DHOoxSvgb_s_0000003 145.7 150.1 
+Rita_Ora/DHOoxSvgb_s_0000004 151.5 155.8 
+Rita_Ora/DHOoxSvgb_s_0000005 157.9 166.4 
+Rita_Ora/DHOoxSvgb_s_0000006 196.7 203.0 

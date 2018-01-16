@@ -1,0 +1,7 @@
+POI: 			Eddie_Izzard 
+Youtube ID: 	DE9lM-s8LcA 
+Video length: 	68.6 sec 
+Set (V): 		test 
+ 
+Eddie_Izzard/DE9lM-s8LcA_0000001 09.4 24.2 
+Eddie_Izzard/DE9lM-s8LcA_0000002 60.6 67.1 

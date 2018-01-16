@@ -1,0 +1,12 @@
+POI: 			Matt_Smith 
+Youtube ID: 	bNcM73Gfxvg 
+Video length: 	218.5 sec 
+Set (V): 		dev 
+ 
+Matt_Smith/bNcM73Gfxvg_0000001 14.0 20.5 
+Matt_Smith/bNcM73Gfxvg_0000002 20.7 24.8 
+Matt_Smith/bNcM73Gfxvg_0000003 44.2 51.2 
+Matt_Smith/bNcM73Gfxvg_0000004 53.4 57.6 
+Matt_Smith/bNcM73Gfxvg_0000005 95.3 101.6 
+Matt_Smith/bNcM73Gfxvg_0000006 105.6 112.2 
+Matt_Smith/bNcM73Gfxvg_0000007 116.0 120.3 

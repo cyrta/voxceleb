@@ -1,0 +1,9 @@
+POI: 			Shemar_Moore 
+Youtube ID: 	tYAbIY5FRHs 
+Video length: 	299.1 sec 
+Set (V): 		dev 
+ 
+Shemar_Moore/tYAbIY5FRHs_0000001 94.9 100.0 
+Shemar_Moore/tYAbIY5FRHs_0000002 163.8 174.1 
+Shemar_Moore/tYAbIY5FRHs_0000003 264.8 270.6 
+Shemar_Moore/tYAbIY5FRHs_0000004 275.5 280.6 

@@ -1,0 +1,10 @@
+POI: 			Kate_Mulgrew 
+Youtube ID: 	mGVjlgIVNFI 
+Video length: 	378.0 sec 
+Set (V): 		dev 
+ 
+Kate_Mulgrew/mGVjlgIVNFI_0000001 130.1 136.0 
+Kate_Mulgrew/mGVjlgIVNFI_0000002 154.0 159.5 
+Kate_Mulgrew/mGVjlgIVNFI_0000003 237.5 245.1 
+Kate_Mulgrew/mGVjlgIVNFI_0000004 315.8 321.4 
+Kate_Mulgrew/mGVjlgIVNFI_0000005 334.6 341.7 

@@ -1,0 +1,10 @@
+POI: 			Daniel_Tosh 
+Youtube ID: 	aTM1uj5qEyM 
+Video length: 	540.1 sec 
+Set (V): 		dev 
+ 
+Daniel_Tosh/aTM1uj5qEyM_0000001 31.8 36.9 
+Daniel_Tosh/aTM1uj5qEyM_0000002 38.9 43.5 
+Daniel_Tosh/aTM1uj5qEyM_0000003 47.4 65.8 
+Daniel_Tosh/aTM1uj5qEyM_0000004 302.5 306.6 
+Daniel_Tosh/aTM1uj5qEyM_0000005 529.2 533.5 

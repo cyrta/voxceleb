@@ -1,0 +1,29 @@
+POI: 			Linda_Evans 
+Youtube ID: 	ozFauToZMB0 
+Video length: 	2391.1 sec 
+Set (V): 		dev 
+ 
+Linda_Evans/ozFauToZMB0_0000001 260.2 267.5 
+Linda_Evans/ozFauToZMB0_0000002 481.8 489.0 
+Linda_Evans/ozFauToZMB0_0000003 521.6 526.4 
+Linda_Evans/ozFauToZMB0_0000004 622.0 626.7 
+Linda_Evans/ozFauToZMB0_0000005 673.8 678.5 
+Linda_Evans/ozFauToZMB0_0000006 741.9 747.6 
+Linda_Evans/ozFauToZMB0_0000007 787.0 791.4 
+Linda_Evans/ozFauToZMB0_0000008 920.7 924.7 
+Linda_Evans/ozFauToZMB0_0000009 936.9 942.3 
+Linda_Evans/ozFauToZMB0_0000010 1002.9 1007.1 
+Linda_Evans/ozFauToZMB0_0000011 1007.3 1011.4 
+Linda_Evans/ozFauToZMB0_0000012 1073.8 1079.6 
+Linda_Evans/ozFauToZMB0_0000013 1125.3 1129.4 
+Linda_Evans/ozFauToZMB0_0000014 1306.8 1311.0 
+Linda_Evans/ozFauToZMB0_0000015 1369.4 1380.6 
+Linda_Evans/ozFauToZMB0_0000016 1386.1 1390.6 
+Linda_Evans/ozFauToZMB0_0000017 1552.9 1557.7 
+Linda_Evans/ozFauToZMB0_0000018 1994.8 2001.9 
+Linda_Evans/ozFauToZMB0_0000019 2134.8 2140.0 
+Linda_Evans/ozFauToZMB0_0000020 2213.4 2217.8 
+Linda_Evans/ozFauToZMB0_0000021 2230.0 2235.1 
+Linda_Evans/ozFauToZMB0_0000022 2291.3 2295.5 
+Linda_Evans/ozFauToZMB0_0000023 2295.6 2299.8 
+Linda_Evans/ozFauToZMB0_0000024 2365.2 2372.3 

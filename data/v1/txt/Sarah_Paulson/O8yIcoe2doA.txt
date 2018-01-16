@@ -1,0 +1,14 @@
+POI: 			Sarah_Paulson 
+Youtube ID: 	O8yIcoe2doA 
+Video length: 	565.9 sec 
+Set (V): 		dev 
+ 
+Sarah_Paulson/O8yIcoe2doA_0000001 302.0 325.5 
+Sarah_Paulson/O8yIcoe2doA_0000002 331.3 353.4 
+Sarah_Paulson/O8yIcoe2doA_0000003 360.0 371.1 
+Sarah_Paulson/O8yIcoe2doA_0000004 391.7 397.8 
+Sarah_Paulson/O8yIcoe2doA_0000005 402.8 411.7 
+Sarah_Paulson/O8yIcoe2doA_0000006 412.3 417.4 
+Sarah_Paulson/O8yIcoe2doA_0000007 448.4 463.4 
+Sarah_Paulson/O8yIcoe2doA_0000008 472.2 489.2 
+Sarah_Paulson/O8yIcoe2doA_0000009 489.3 503.1 

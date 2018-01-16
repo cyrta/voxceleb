@@ -1,0 +1,15 @@
+POI: 			Marcia_Gay_Harden 
+Youtube ID: 	FXLggsNbQHg 
+Video length: 	222.1 sec 
+Set (V): 		dev 
+ 
+Marcia_Gay_Harden/FXLggsNbQHg_0000001 32.7 46.3 
+Marcia_Gay_Harden/FXLggsNbQHg_0000002 58.3 75.1 
+Marcia_Gay_Harden/FXLggsNbQHg_0000003 79.5 93.7 
+Marcia_Gay_Harden/FXLggsNbQHg_0000004 99.0 109.8 
+Marcia_Gay_Harden/FXLggsNbQHg_0000005 117.0 124.8 
+Marcia_Gay_Harden/FXLggsNbQHg_0000006 133.2 153.4 
+Marcia_Gay_Harden/FXLggsNbQHg_0000007 156.6 162.7 
+Marcia_Gay_Harden/FXLggsNbQHg_0000008 165.6 172.9 
+Marcia_Gay_Harden/FXLggsNbQHg_0000009 194.2 203.0 
+Marcia_Gay_Harden/FXLggsNbQHg_0000010 207.0 217.6 

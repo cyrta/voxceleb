@@ -1,0 +1,19 @@
+POI: 			Anthony_Rapp 
+Youtube ID: 	KNszBzdnX1E 
+Video length: 	1525.6 sec 
+Set (V): 		dev 
+ 
+Anthony_Rapp/KNszBzdnX1E_0000001 705.8 710.2 
+Anthony_Rapp/KNszBzdnX1E_0000002 720.4 727.8 
+Anthony_Rapp/KNszBzdnX1E_0000003 728.2 736.0 
+Anthony_Rapp/KNszBzdnX1E_0000004 736.4 743.9 
+Anthony_Rapp/KNszBzdnX1E_0000005 753.0 758.2 
+Anthony_Rapp/KNszBzdnX1E_0000006 758.4 779.8 
+Anthony_Rapp/KNszBzdnX1E_0000007 1085.8 1100.4 
+Anthony_Rapp/KNszBzdnX1E_0000008 1101.5 1108.2 
+Anthony_Rapp/KNszBzdnX1E_0000009 1108.9 1114.1 
+Anthony_Rapp/KNszBzdnX1E_0000010 1114.9 1125.2 
+Anthony_Rapp/KNszBzdnX1E_0000011 1288.1 1292.7 
+Anthony_Rapp/KNszBzdnX1E_0000012 1301.1 1305.9 
+Anthony_Rapp/KNszBzdnX1E_0000013 1392.6 1397.7 
+Anthony_Rapp/KNszBzdnX1E_0000014 1448.8 1453.2 

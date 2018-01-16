@@ -1,0 +1,9 @@
+POI: 			Mark_Feuerstein 
+Youtube ID: 	PpGep-jk34g 
+Video length: 	172.2 sec 
+Set (V): 		dev 
+ 
+Mark_Feuerstein/PpGep-jk34g_0000001 34.0 38.4 
+Mark_Feuerstein/PpGep-jk34g_0000002 43.1 47.7 
+Mark_Feuerstein/PpGep-jk34g_0000003 67.2 74.0 
+Mark_Feuerstein/PpGep-jk34g_0000004 124.0 149.6 

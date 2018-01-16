@@ -1,0 +1,19 @@
+POI: 			Kriti_Sanon 
+Youtube ID: 	32oQiwvHJws 
+Video length: 	1117.0 sec 
+Set (V): 		dev 
+ 
+Kriti_Sanon/32oQiwvHJws_0000001 40.6 47.4 
+Kriti_Sanon/32oQiwvHJws_0000002 168.5 178.4 
+Kriti_Sanon/32oQiwvHJws_0000003 350.2 355.1 
+Kriti_Sanon/32oQiwvHJws_0000004 480.3 485.9 
+Kriti_Sanon/32oQiwvHJws_0000005 492.6 497.0 
+Kriti_Sanon/32oQiwvHJws_0000006 524.8 530.4 
+Kriti_Sanon/32oQiwvHJws_0000007 548.2 552.2 
+Kriti_Sanon/32oQiwvHJws_0000008 623.9 628.4 
+Kriti_Sanon/32oQiwvHJws_0000009 685.5 690.0 
+Kriti_Sanon/32oQiwvHJws_0000010 694.6 699.6 
+Kriti_Sanon/32oQiwvHJws_0000011 724.0 730.7 
+Kriti_Sanon/32oQiwvHJws_0000012 737.0 744.3 
+Kriti_Sanon/32oQiwvHJws_0000013 757.0 765.4 
+Kriti_Sanon/32oQiwvHJws_0000014 963.1 970.1 

@@ -1,0 +1,9 @@
+POI: 			Asa_Butterfield 
+Youtube ID: 	bDKYoh6_Dck 
+Video length: 	151.5 sec 
+Set (V): 		dev 
+ 
+Asa_Butterfield/bDKYoh6_Dck_0000001 25.2 37.5 
+Asa_Butterfield/bDKYoh6_Dck_0000002 38.9 46.6 
+Asa_Butterfield/bDKYoh6_Dck_0000003 59.5 67.4 
+Asa_Butterfield/bDKYoh6_Dck_0000004 87.1 93.4 

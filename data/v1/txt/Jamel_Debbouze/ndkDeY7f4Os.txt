@@ -1,0 +1,11 @@
+POI: 			Jamel_Debbouze 
+Youtube ID: 	ndkDeY7f4Os 
+Video length: 	213.3 sec 
+Set (V): 		dev 
+ 
+Jamel_Debbouze/ndkDeY7f4Os_0000001 07.0 11.9 
+Jamel_Debbouze/ndkDeY7f4Os_0000002 57.6 63.2 
+Jamel_Debbouze/ndkDeY7f4Os_0000003 90.4 95.1 
+Jamel_Debbouze/ndkDeY7f4Os_0000004 96.8 103.3 
+Jamel_Debbouze/ndkDeY7f4Os_0000005 162.4 169.4 
+Jamel_Debbouze/ndkDeY7f4Os_0000006 196.6 206.6 

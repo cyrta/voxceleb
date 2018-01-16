@@ -1,0 +1,10 @@
+POI: 			Alan_Cumming 
+Youtube ID: 	WdI2ZHkbKbA 
+Video length: 	106.9 sec 
+Set (V): 		dev 
+ 
+Alan_Cumming/WdI2ZHkbKbA_0000001 23.5 34.1 
+Alan_Cumming/WdI2ZHkbKbA_0000002 36.0 42.8 
+Alan_Cumming/WdI2ZHkbKbA_0000003 56.0 68.2 
+Alan_Cumming/WdI2ZHkbKbA_0000004 70.6 80.2 
+Alan_Cumming/WdI2ZHkbKbA_0000005 86.1 92.3 

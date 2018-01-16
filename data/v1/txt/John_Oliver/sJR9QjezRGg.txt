@@ -1,0 +1,21 @@
+POI: 			John_Oliver 
+Youtube ID: 	sJR9QjezRGg 
+Video length: 	613.9 sec 
+Set (V): 		dev 
+ 
+John_Oliver/sJR9QjezRGg_0000001 47.8 55.4 
+John_Oliver/sJR9QjezRGg_0000002 96.0 106.0 
+John_Oliver/sJR9QjezRGg_0000003 163.6 175.4 
+John_Oliver/sJR9QjezRGg_0000004 182.9 190.8 
+John_Oliver/sJR9QjezRGg_0000005 197.3 204.5 
+John_Oliver/sJR9QjezRGg_0000006 207.1 214.7 
+John_Oliver/sJR9QjezRGg_0000007 236.0 251.9 
+John_Oliver/sJR9QjezRGg_0000008 268.3 273.6 
+John_Oliver/sJR9QjezRGg_0000009 282.9 287.2 
+John_Oliver/sJR9QjezRGg_0000010 354.5 363.0 
+John_Oliver/sJR9QjezRGg_0000011 364.8 376.1 
+John_Oliver/sJR9QjezRGg_0000012 433.4 449.0 
+John_Oliver/sJR9QjezRGg_0000013 457.5 464.5 
+John_Oliver/sJR9QjezRGg_0000014 486.8 492.1 
+John_Oliver/sJR9QjezRGg_0000015 549.5 556.0 
+John_Oliver/sJR9QjezRGg_0000016 566.3 590.2 

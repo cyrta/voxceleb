@@ -1,0 +1,8 @@
+POI: 			Harvey_Keitel 
+Youtube ID: 	1KeEP3uqu40 
+Video length: 	210.7 sec 
+Set (V): 		dev 
+ 
+Harvey_Keitel/1KeEP3uqu40_0000001 84.0 90.0 
+Harvey_Keitel/1KeEP3uqu40_0000002 95.8 102.6 
+Harvey_Keitel/1KeEP3uqu40_0000003 111.0 116.9 

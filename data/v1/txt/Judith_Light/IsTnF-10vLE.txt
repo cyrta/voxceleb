@@ -1,0 +1,13 @@
+POI: 			Judith_Light 
+Youtube ID: 	IsTnF-10vLE 
+Video length: 	480.7 sec 
+Set (V): 		dev 
+ 
+Judith_Light/IsTnF-10vLE_0000001 44.0 50.6 
+Judith_Light/IsTnF-10vLE_0000002 55.4 67.8 
+Judith_Light/IsTnF-10vLE_0000003 74.0 79.4 
+Judith_Light/IsTnF-10vLE_0000004 80.9 93.5 
+Judith_Light/IsTnF-10vLE_0000005 93.6 108.8 
+Judith_Light/IsTnF-10vLE_0000006 203.9 209.2 
+Judith_Light/IsTnF-10vLE_0000007 213.7 218.0 
+Judith_Light/IsTnF-10vLE_0000008 226.2 233.1 

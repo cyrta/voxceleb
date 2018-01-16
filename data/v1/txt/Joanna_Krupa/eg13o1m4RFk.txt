@@ -1,0 +1,9 @@
+POI: 			Joanna_Krupa 
+Youtube ID: 	eg13o1m4RFk 
+Video length: 	154.6 sec 
+Set (V): 		dev 
+ 
+Joanna_Krupa/eg13o1m4RFk_0000001 51.2 55.7 
+Joanna_Krupa/eg13o1m4RFk_0000002 67.0 75.8 
+Joanna_Krupa/eg13o1m4RFk_0000003 76.0 80.0 
+Joanna_Krupa/eg13o1m4RFk_0000004 80.3 86.8 

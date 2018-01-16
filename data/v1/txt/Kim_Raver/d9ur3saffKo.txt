@@ -1,0 +1,14 @@
+POI: 			Kim_Raver 
+Youtube ID: 	d9ur3saffKo 
+Video length: 	295.7 sec 
+Set (V): 		dev 
+ 
+Kim_Raver/d9ur3saffKo_0000001 79.6 97.8 
+Kim_Raver/d9ur3saffKo_0000002 110.9 130.7 
+Kim_Raver/d9ur3saffKo_0000003 145.8 164.8 
+Kim_Raver/d9ur3saffKo_0000004 166.8 171.7 
+Kim_Raver/d9ur3saffKo_0000005 182.5 194.0 
+Kim_Raver/d9ur3saffKo_0000006 211.4 233.1 
+Kim_Raver/d9ur3saffKo_0000007 251.4 266.9 
+Kim_Raver/d9ur3saffKo_0000008 276.7 285.6 
+Kim_Raver/d9ur3saffKo_0000009 288.6 292.9 

@@ -1,0 +1,10 @@
+POI: 			John_Goodman 
+Youtube ID: 	sQ8n2zjGRig 
+Video length: 	287.0 sec 
+Set (V): 		dev 
+ 
+John_Goodman/sQ8n2zjGRig_0000001 06.1 15.9 
+John_Goodman/sQ8n2zjGRig_0000002 99.4 105.9 
+John_Goodman/sQ8n2zjGRig_0000003 163.3 168.6 
+John_Goodman/sQ8n2zjGRig_0000004 248.8 252.7 
+John_Goodman/sQ8n2zjGRig_0000005 260.8 265.7 

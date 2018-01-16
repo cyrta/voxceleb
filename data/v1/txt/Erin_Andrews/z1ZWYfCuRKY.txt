@@ -1,0 +1,9 @@
+POI: 			Erin_Andrews 
+Youtube ID: 	z1ZWYfCuRKY 
+Video length: 	272.0 sec 
+Set (V): 		test 
+ 
+Erin_Andrews/z1ZWYfCuRKY_0000001 67.8 73.0 
+Erin_Andrews/z1ZWYfCuRKY_0000002 114.5 119.4 
+Erin_Andrews/z1ZWYfCuRKY_0000003 189.0 198.1 
+Erin_Andrews/z1ZWYfCuRKY_0000004 226.3 230.5 

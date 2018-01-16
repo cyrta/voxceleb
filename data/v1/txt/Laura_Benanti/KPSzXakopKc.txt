@@ -1,0 +1,10 @@
+POI: 			Laura_Benanti 
+Youtube ID: 	KPSzXakopKc 
+Video length: 	182.1 sec 
+Set (V): 		dev 
+ 
+Laura_Benanti/KPSzXakopKc_0000001 37.2 45.4 
+Laura_Benanti/KPSzXakopKc_0000002 45.8 50.1 
+Laura_Benanti/KPSzXakopKc_0000003 113.4 119.8 
+Laura_Benanti/KPSzXakopKc_0000004 151.2 156.8 
+Laura_Benanti/KPSzXakopKc_0000005 157.4 167.6 

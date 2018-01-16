@@ -1,0 +1,11 @@
+POI: 			Jesse_Metcalfe 
+Youtube ID: 	v3BTWaxPaC8 
+Video length: 	283.7 sec 
+Set (V): 		dev 
+ 
+Jesse_Metcalfe/v3BTWaxPaC8_0000001 21.2 39.8 
+Jesse_Metcalfe/v3BTWaxPaC8_0000002 40.3 47.9 
+Jesse_Metcalfe/v3BTWaxPaC8_0000003 150.8 166.7 
+Jesse_Metcalfe/v3BTWaxPaC8_0000004 167.5 175.4 
+Jesse_Metcalfe/v3BTWaxPaC8_0000005 176.4 182.1 
+Jesse_Metcalfe/v3BTWaxPaC8_0000006 215.2 241.6 

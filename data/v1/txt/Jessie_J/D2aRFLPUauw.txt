@@ -1,0 +1,8 @@
+POI: 			Jessie_J 
+Youtube ID: 	D2aRFLPUauw 
+Video length: 	264.0 sec 
+Set (V): 		dev 
+ 
+Jessie_J/D2aRFLPUauw_0000001 35.9 40.2 
+Jessie_J/D2aRFLPUauw_0000002 94.6 99.2 
+Jessie_J/D2aRFLPUauw_0000003 106.4 113.7 

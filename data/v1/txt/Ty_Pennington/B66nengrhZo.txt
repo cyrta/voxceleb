@@ -1,0 +1,12 @@
+POI: 			Ty_Pennington 
+Youtube ID: 	B66nengrhZo 
+Video length: 	1434.4 sec 
+Set (V): 		dev 
+ 
+Ty_Pennington/B66nengrhZo_0000001 1322.3 1347.0 
+Ty_Pennington/B66nengrhZo_0000002 1348.8 1358.6 
+Ty_Pennington/B66nengrhZo_0000003 1360.5 1376.7 
+Ty_Pennington/B66nengrhZo_0000004 1378.9 1383.8 
+Ty_Pennington/B66nengrhZo_0000005 1383.8 1390.3 
+Ty_Pennington/B66nengrhZo_0000006 1392.1 1423.1 
+Ty_Pennington/B66nengrhZo_0000007 1426.1 1433.0 

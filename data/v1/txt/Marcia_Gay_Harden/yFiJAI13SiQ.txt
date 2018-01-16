@@ -1,0 +1,10 @@
+POI: 			Marcia_Gay_Harden 
+Youtube ID: 	yFiJAI13SiQ 
+Video length: 	127.3 sec 
+Set (V): 		dev 
+ 
+Marcia_Gay_Harden/yFiJAI13SiQ_0000001 41.6 45.9 
+Marcia_Gay_Harden/yFiJAI13SiQ_0000002 49.8 54.3 
+Marcia_Gay_Harden/yFiJAI13SiQ_0000003 57.8 62.0 
+Marcia_Gay_Harden/yFiJAI13SiQ_0000004 73.7 79.0 
+Marcia_Gay_Harden/yFiJAI13SiQ_0000005 90.6 97.3 

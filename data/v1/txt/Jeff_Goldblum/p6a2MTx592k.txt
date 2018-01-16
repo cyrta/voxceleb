@@ -1,0 +1,7 @@
+POI: 			Jeff_Goldblum 
+Youtube ID: 	p6a2MTx592k 
+Video length: 	583.9 sec 
+Set (V): 		dev 
+ 
+Jeff_Goldblum/p6a2MTx592k_0000001 461.7 469.1 
+Jeff_Goldblum/p6a2MTx592k_0000002 470.9 480.2 

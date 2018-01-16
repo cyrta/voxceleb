@@ -1,0 +1,12 @@
+POI: 			Loretta_Swit 
+Youtube ID: 	1bnpmDbT_Gc 
+Video length: 	127.2 sec 
+Set (V): 		dev 
+ 
+Loretta_Swit/1bnpmDbT_Gc_0000001 06.0 15.4 
+Loretta_Swit/1bnpmDbT_Gc_0000002 18.0 24.3 
+Loretta_Swit/1bnpmDbT_Gc_0000003 30.3 34.9 
+Loretta_Swit/1bnpmDbT_Gc_0000004 42.1 47.5 
+Loretta_Swit/1bnpmDbT_Gc_0000005 48.2 55.0 
+Loretta_Swit/1bnpmDbT_Gc_0000006 78.7 87.9 
+Loretta_Swit/1bnpmDbT_Gc_0000007 101.6 105.5 

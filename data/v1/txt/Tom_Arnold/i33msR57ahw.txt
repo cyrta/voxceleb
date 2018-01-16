@@ -1,0 +1,12 @@
+POI: 			Tom_Arnold 
+Youtube ID: 	i33msR57ahw 
+Video length: 	262.6 sec 
+Set (V): 		dev 
+ 
+Tom_Arnold/i33msR57ahw_0000001 15.7 29.3 
+Tom_Arnold/i33msR57ahw_0000002 35.3 39.9 
+Tom_Arnold/i33msR57ahw_0000003 70.6 77.8 
+Tom_Arnold/i33msR57ahw_0000004 93.2 99.4 
+Tom_Arnold/i33msR57ahw_0000005 124.7 135.7 
+Tom_Arnold/i33msR57ahw_0000006 137.9 144.4 
+Tom_Arnold/i33msR57ahw_0000007 181.0 187.9 

@@ -1,0 +1,17 @@
+POI: 			Mark_Webber 
+Youtube ID: 	Rgcly9rtyw0 
+Video length: 	378.2 sec 
+Set (V): 		dev 
+ 
+Mark_Webber/Rgcly9rtyw0_0000001 15.8 37.9 
+Mark_Webber/Rgcly9rtyw0_0000002 38.4 45.7 
+Mark_Webber/Rgcly9rtyw0_0000003 57.7 85.6 
+Mark_Webber/Rgcly9rtyw0_0000004 92.8 115.8 
+Mark_Webber/Rgcly9rtyw0_0000005 122.9 147.0 
+Mark_Webber/Rgcly9rtyw0_0000006 155.9 185.1 
+Mark_Webber/Rgcly9rtyw0_0000007 192.2 196.4 
+Mark_Webber/Rgcly9rtyw0_0000008 197.2 210.8 
+Mark_Webber/Rgcly9rtyw0_0000009 217.9 234.5 
+Mark_Webber/Rgcly9rtyw0_0000010 235.6 251.4 
+Mark_Webber/Rgcly9rtyw0_0000011 258.5 309.1 
+Mark_Webber/Rgcly9rtyw0_0000012 319.5 376.8 

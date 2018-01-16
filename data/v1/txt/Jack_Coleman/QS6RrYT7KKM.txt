@@ -1,0 +1,12 @@
+POI: 			Jack_Coleman 
+Youtube ID: 	QS6RrYT7KKM 
+Video length: 	162.8 sec 
+Set (V): 		dev 
+ 
+Jack_Coleman/QS6RrYT7KKM_0000001 41.3 45.9 
+Jack_Coleman/QS6RrYT7KKM_0000002 57.1 63.5 
+Jack_Coleman/QS6RrYT7KKM_0000003 70.0 80.6 
+Jack_Coleman/QS6RrYT7KKM_0000004 84.1 96.7 
+Jack_Coleman/QS6RrYT7KKM_0000005 103.1 120.4 
+Jack_Coleman/QS6RrYT7KKM_0000006 121.4 126.1 
+Jack_Coleman/QS6RrYT7KKM_0000007 129.4 152.4 

@@ -1,0 +1,25 @@
+POI: 			Stan_Lee 
+Youtube ID: 	ek2-fcGT2YA 
+Video length: 	322.9 sec 
+Set (V): 		dev 
+ 
+Stan_Lee/ek2-fcGT2YA_0000001 06.4 30.9 
+Stan_Lee/ek2-fcGT2YA_0000002 45.8 51.5 
+Stan_Lee/ek2-fcGT2YA_0000003 55.4 62.4 
+Stan_Lee/ek2-fcGT2YA_0000004 65.0 93.7 
+Stan_Lee/ek2-fcGT2YA_0000005 96.6 100.5 
+Stan_Lee/ek2-fcGT2YA_0000006 105.3 109.5 
+Stan_Lee/ek2-fcGT2YA_0000007 112.6 118.5 
+Stan_Lee/ek2-fcGT2YA_0000008 118.9 123.3 
+Stan_Lee/ek2-fcGT2YA_0000009 125.3 132.0 
+Stan_Lee/ek2-fcGT2YA_0000010 133.8 142.0 
+Stan_Lee/ek2-fcGT2YA_0000011 154.8 168.4 
+Stan_Lee/ek2-fcGT2YA_0000012 170.6 183.6 
+Stan_Lee/ek2-fcGT2YA_0000013 200.6 210.2 
+Stan_Lee/ek2-fcGT2YA_0000014 211.3 215.8 
+Stan_Lee/ek2-fcGT2YA_0000015 211.5 228.0 
+Stan_Lee/ek2-fcGT2YA_0000016 239.6 244.4 
+Stan_Lee/ek2-fcGT2YA_0000017 245.1 278.7 
+Stan_Lee/ek2-fcGT2YA_0000018 280.9 287.4 
+Stan_Lee/ek2-fcGT2YA_0000019 289.8 307.1 
+Stan_Lee/ek2-fcGT2YA_0000020 311.4 315.8 

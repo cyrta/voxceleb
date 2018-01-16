@@ -1,0 +1,11 @@
+POI: 			Dreama_Walker 
+Youtube ID: 	ItAu15E9Akk 
+Video length: 	195.4 sec 
+Set (V): 		dev 
+ 
+Dreama_Walker/ItAu15E9Akk_0000001 56.5 65.9 
+Dreama_Walker/ItAu15E9Akk_0000002 66.4 73.7 
+Dreama_Walker/ItAu15E9Akk_0000003 100.4 105.3 
+Dreama_Walker/ItAu15E9Akk_0000004 147.3 153.6 
+Dreama_Walker/ItAu15E9Akk_0000005 154.1 169.2 
+Dreama_Walker/ItAu15E9Akk_0000006 176.7 184.9 

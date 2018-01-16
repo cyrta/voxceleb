@@ -1,0 +1,9 @@
+POI: 			Fergie 
+Youtube ID: 	AvL7YgTY1KY 
+Video length: 	88.5 sec 
+Set (V): 		dev 
+ 
+Fergie/AvL7YgTY1KY_0000001 20.4 24.6 
+Fergie/AvL7YgTY1KY_0000002 40.2 49.0 
+Fergie/AvL7YgTY1KY_0000003 55.9 60.2 
+Fergie/AvL7YgTY1KY_0000004 61.0 68.2 

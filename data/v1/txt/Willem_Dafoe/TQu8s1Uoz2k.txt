@@ -1,0 +1,19 @@
+POI: 			Willem_Dafoe 
+Youtube ID: 	TQu8s1Uoz2k 
+Video length: 	353.2 sec 
+Set (V): 		dev 
+ 
+Willem_Dafoe/TQu8s1Uoz2k_0000001 28.4 50.1 
+Willem_Dafoe/TQu8s1Uoz2k_0000002 59.2 79.1 
+Willem_Dafoe/TQu8s1Uoz2k_0000003 88.0 107.9 
+Willem_Dafoe/TQu8s1Uoz2k_0000004 109.1 121.4 
+Willem_Dafoe/TQu8s1Uoz2k_0000005 126.2 146.2 
+Willem_Dafoe/TQu8s1Uoz2k_0000006 146.4 155.1 
+Willem_Dafoe/TQu8s1Uoz2k_0000007 187.0 200.7 
+Willem_Dafoe/TQu8s1Uoz2k_0000008 200.8 211.0 
+Willem_Dafoe/TQu8s1Uoz2k_0000009 211.2 217.6 
+Willem_Dafoe/TQu8s1Uoz2k_0000010 218.8 225.4 
+Willem_Dafoe/TQu8s1Uoz2k_0000011 236.3 246.0 
+Willem_Dafoe/TQu8s1Uoz2k_0000012 257.3 264.5 
+Willem_Dafoe/TQu8s1Uoz2k_0000013 277.7 297.0 
+Willem_Dafoe/TQu8s1Uoz2k_0000014 314.6 343.0 

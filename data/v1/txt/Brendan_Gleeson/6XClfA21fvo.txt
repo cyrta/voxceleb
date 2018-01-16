@@ -1,0 +1,14 @@
+POI: 			Brendan_Gleeson 
+Youtube ID: 	6XClfA21fvo 
+Video length: 	252.6 sec 
+Set (V): 		dev 
+ 
+Brendan_Gleeson/6XClfA21fvo_0000001 12.9 17.6 
+Brendan_Gleeson/6XClfA21fvo_0000002 22.7 30.5 
+Brendan_Gleeson/6XClfA21fvo_0000003 31.5 38.7 
+Brendan_Gleeson/6XClfA21fvo_0000004 39.8 44.8 
+Brendan_Gleeson/6XClfA21fvo_0000005 117.1 121.8 
+Brendan_Gleeson/6XClfA21fvo_0000006 126.0 131.3 
+Brendan_Gleeson/6XClfA21fvo_0000007 181.6 186.8 
+Brendan_Gleeson/6XClfA21fvo_0000008 205.5 214.8 
+Brendan_Gleeson/6XClfA21fvo_0000009 221.8 231.3 

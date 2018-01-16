@@ -1,0 +1,8 @@
+POI: 			Tye_Sheridan 
+Youtube ID: 	FS6pVtI3c0M 
+Video length: 	886.8 sec 
+Set (V): 		dev 
+ 
+Tye_Sheridan/FS6pVtI3c0M_0000001 259.7 266.3 
+Tye_Sheridan/FS6pVtI3c0M_0000002 267.9 280.2 
+Tye_Sheridan/FS6pVtI3c0M_0000003 287.2 291.3 

@@ -1,0 +1,12 @@
+POI: 			Kel_Mitchell 
+Youtube ID: 	Z_g85zeR6Ik 
+Video length: 	154.6 sec 
+Set (V): 		dev 
+ 
+Kel_Mitchell/Z_g85zeR6Ik_0000001 55.2 60.4 
+Kel_Mitchell/Z_g85zeR6Ik_0000002 63.4 68.0 
+Kel_Mitchell/Z_g85zeR6Ik_0000003 76.8 81.6 
+Kel_Mitchell/Z_g85zeR6Ik_0000004 84.4 91.8 
+Kel_Mitchell/Z_g85zeR6Ik_0000005 131.0 140.6 
+Kel_Mitchell/Z_g85zeR6Ik_0000006 144.5 149.2 
+Kel_Mitchell/Z_g85zeR6Ik_0000007 145.8 149.8 

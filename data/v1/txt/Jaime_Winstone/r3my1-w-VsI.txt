@@ -1,0 +1,8 @@
+POI: 			Jaime_Winstone 
+Youtube ID: 	r3my1-w-VsI 
+Video length: 	154.8 sec 
+Set (V): 		dev 
+ 
+Jaime_Winstone/r3my1-w-VsI_0000001 15.9 22.4 
+Jaime_Winstone/r3my1-w-VsI_0000002 37.0 42.8 
+Jaime_Winstone/r3my1-w-VsI_0000003 60.5 64.8 

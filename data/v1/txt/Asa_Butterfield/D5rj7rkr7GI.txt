@@ -1,0 +1,11 @@
+POI: 			Asa_Butterfield 
+Youtube ID: 	D5rj7rkr7GI 
+Video length: 	244.8 sec 
+Set (V): 		dev 
+ 
+Asa_Butterfield/D5rj7rkr7GI_0000001 31.8 36.1 
+Asa_Butterfield/D5rj7rkr7GI_0000002 36.5 44.0 
+Asa_Butterfield/D5rj7rkr7GI_0000003 149.3 155.9 
+Asa_Butterfield/D5rj7rkr7GI_0000004 166.9 171.2 
+Asa_Butterfield/D5rj7rkr7GI_0000005 188.8 203.6 
+Asa_Butterfield/D5rj7rkr7GI_0000006 205.9 213.4 

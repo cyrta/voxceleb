@@ -1,0 +1,17 @@
+POI: 			John_Rhys-Davies 
+Youtube ID: 	eJyBa0obSaw 
+Video length: 	366.2 sec 
+Set (V): 		dev 
+ 
+John_Rhys-Davies/eJyBa0obSaw_0000001 18.0 24.1 
+John_Rhys-Davies/eJyBa0obSaw_0000002 42.7 47.6 
+John_Rhys-Davies/eJyBa0obSaw_0000003 65.1 71.9 
+John_Rhys-Davies/eJyBa0obSaw_0000004 83.4 88.2 
+John_Rhys-Davies/eJyBa0obSaw_0000005 91.7 112.4 
+John_Rhys-Davies/eJyBa0obSaw_0000006 114.8 124.4 
+John_Rhys-Davies/eJyBa0obSaw_0000007 132.8 138.6 
+John_Rhys-Davies/eJyBa0obSaw_0000008 139.7 143.9 
+John_Rhys-Davies/eJyBa0obSaw_0000009 211.4 227.2 
+John_Rhys-Davies/eJyBa0obSaw_0000010 265.5 271.0 
+John_Rhys-Davies/eJyBa0obSaw_0000011 280.7 291.2 
+John_Rhys-Davies/eJyBa0obSaw_0000012 302.8 307.8 

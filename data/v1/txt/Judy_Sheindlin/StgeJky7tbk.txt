@@ -1,0 +1,8 @@
+POI: 			Judy_Sheindlin 
+Youtube ID: 	StgeJky7tbk 
+Video length: 	572.8 sec 
+Set (V): 		dev 
+ 
+Judy_Sheindlin/StgeJky7tbk_0000001 85.6 90.3 
+Judy_Sheindlin/StgeJky7tbk_0000002 143.2 148.0 
+Judy_Sheindlin/StgeJky7tbk_0000003 487.8 493.8 

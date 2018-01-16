@@ -1,0 +1,18 @@
+POI: 			James_Purefoy 
+Youtube ID: 	ZgFsCQ5D3qU 
+Video length: 	235.5 sec 
+Set (V): 		dev 
+ 
+James_Purefoy/ZgFsCQ5D3qU_0000001 34.8 41.0 
+James_Purefoy/ZgFsCQ5D3qU_0000002 42.6 51.2 
+James_Purefoy/ZgFsCQ5D3qU_0000003 68.9 78.9 
+James_Purefoy/ZgFsCQ5D3qU_0000004 79.3 85.5 
+James_Purefoy/ZgFsCQ5D3qU_0000005 86.0 96.1 
+James_Purefoy/ZgFsCQ5D3qU_0000006 97.2 102.2 
+James_Purefoy/ZgFsCQ5D3qU_0000007 113.4 130.2 
+James_Purefoy/ZgFsCQ5D3qU_0000008 130.6 141.8 
+James_Purefoy/ZgFsCQ5D3qU_0000009 142.9 154.7 
+James_Purefoy/ZgFsCQ5D3qU_0000010 185.4 191.7 
+James_Purefoy/ZgFsCQ5D3qU_0000011 192.0 196.6 
+James_Purefoy/ZgFsCQ5D3qU_0000012 196.7 205.1 
+James_Purefoy/ZgFsCQ5D3qU_0000013 206.2 213.2 

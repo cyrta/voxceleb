@@ -1,0 +1,24 @@
+POI: 			Carrie_Ann_Inaba 
+Youtube ID: 	Shkr1X56lqA 
+Video length: 	4487.8 sec 
+Set (V): 		dev 
+ 
+Carrie_Ann_Inaba/Shkr1X56lqA_0000001 1827.9 1836.1 
+Carrie_Ann_Inaba/Shkr1X56lqA_0000002 1842.8 1846.8 
+Carrie_Ann_Inaba/Shkr1X56lqA_0000003 1880.4 1884.4 
+Carrie_Ann_Inaba/Shkr1X56lqA_0000004 1891.5 1902.8 
+Carrie_Ann_Inaba/Shkr1X56lqA_0000005 1934.2 1940.7 
+Carrie_Ann_Inaba/Shkr1X56lqA_0000006 1941.5 1945.9 
+Carrie_Ann_Inaba/Shkr1X56lqA_0000007 1956.2 1961.0 
+Carrie_Ann_Inaba/Shkr1X56lqA_0000008 2061.6 2070.4 
+Carrie_Ann_Inaba/Shkr1X56lqA_0000009 2109.8 2117.6 
+Carrie_Ann_Inaba/Shkr1X56lqA_0000010 2117.8 2127.0 
+Carrie_Ann_Inaba/Shkr1X56lqA_0000011 2171.0 2175.8 
+Carrie_Ann_Inaba/Shkr1X56lqA_0000012 2193.8 2199.2 
+Carrie_Ann_Inaba/Shkr1X56lqA_0000013 2206.4 2213.1 
+Carrie_Ann_Inaba/Shkr1X56lqA_0000014 4216.0 4225.6 
+Carrie_Ann_Inaba/Shkr1X56lqA_0000015 4230.5 4234.5 
+Carrie_Ann_Inaba/Shkr1X56lqA_0000016 4268.1 4272.1 
+Carrie_Ann_Inaba/Shkr1X56lqA_0000017 4279.2 4290.2 
+Carrie_Ann_Inaba/Shkr1X56lqA_0000018 4321.8 4328.4 
+Carrie_Ann_Inaba/Shkr1X56lqA_0000019 4329.2 4333.7 

@@ -1,0 +1,10 @@
+POI: 			David_Lyons 
+Youtube ID: 	B5u3gY6UGTo 
+Video length: 	221.5 sec 
+Set (V): 		dev 
+ 
+David_Lyons/B5u3gY6UGTo_0000001 11.8 19.9 
+David_Lyons/B5u3gY6UGTo_0000002 45.4 53.2 
+David_Lyons/B5u3gY6UGTo_0000003 54.0 69.9 
+David_Lyons/B5u3gY6UGTo_0000004 143.7 154.8 
+David_Lyons/B5u3gY6UGTo_0000005 183.2 188.8 

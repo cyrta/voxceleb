@@ -1,0 +1,14 @@
+POI: 			Ruby_Dee 
+Youtube ID: 	SiQyvjzbTp8 
+Video length: 	124.7 sec 
+Set (V): 		dev 
+ 
+Ruby_Dee/SiQyvjzbTp8_0000001 07.1 13.3 
+Ruby_Dee/SiQyvjzbTp8_0000002 13.4 19.9 
+Ruby_Dee/SiQyvjzbTp8_0000003 21.3 36.8 
+Ruby_Dee/SiQyvjzbTp8_0000004 40.0 49.6 
+Ruby_Dee/SiQyvjzbTp8_0000005 51.4 59.9 
+Ruby_Dee/SiQyvjzbTp8_0000006 60.4 73.0 
+Ruby_Dee/SiQyvjzbTp8_0000007 82.4 100.8 
+Ruby_Dee/SiQyvjzbTp8_0000008 101.2 105.7 
+Ruby_Dee/SiQyvjzbTp8_0000009 105.9 113.4 

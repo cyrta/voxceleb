@@ -1,0 +1,42 @@
+POI: 			Tim_Minchin 
+Youtube ID: 	YIuxecr7How 
+Video length: 	982.4 sec 
+Set (V): 		dev 
+ 
+Tim_Minchin/YIuxecr7How_0000001 25.4 35.1 
+Tim_Minchin/YIuxecr7How_0000002 36.2 41.6 
+Tim_Minchin/YIuxecr7How_0000003 73.7 81.0 
+Tim_Minchin/YIuxecr7How_0000004 88.0 107.2 
+Tim_Minchin/YIuxecr7How_0000005 132.3 136.8 
+Tim_Minchin/YIuxecr7How_0000006 142.0 150.9 
+Tim_Minchin/YIuxecr7How_0000007 151.9 159.4 
+Tim_Minchin/YIuxecr7How_0000008 160.7 164.7 
+Tim_Minchin/YIuxecr7How_0000009 259.6 269.4 
+Tim_Minchin/YIuxecr7How_0000010 302.4 308.4 
+Tim_Minchin/YIuxecr7How_0000011 312.2 319.5 
+Tim_Minchin/YIuxecr7How_0000012 329.7 343.0 
+Tim_Minchin/YIuxecr7How_0000013 343.3 351.0 
+Tim_Minchin/YIuxecr7How_0000014 351.7 358.1 
+Tim_Minchin/YIuxecr7How_0000015 446.5 453.0 
+Tim_Minchin/YIuxecr7How_0000016 453.3 460.8 
+Tim_Minchin/YIuxecr7How_0000017 461.1 465.5 
+Tim_Minchin/YIuxecr7How_0000018 466.0 474.6 
+Tim_Minchin/YIuxecr7How_0000019 475.6 484.9 
+Tim_Minchin/YIuxecr7How_0000020 485.5 503.0 
+Tim_Minchin/YIuxecr7How_0000021 514.6 524.1 
+Tim_Minchin/YIuxecr7How_0000022 544.6 551.9 
+Tim_Minchin/YIuxecr7How_0000023 555.1 562.9 
+Tim_Minchin/YIuxecr7How_0000024 565.3 572.0 
+Tim_Minchin/YIuxecr7How_0000025 574.2 578.9 
+Tim_Minchin/YIuxecr7How_0000026 599.6 604.4 
+Tim_Minchin/YIuxecr7How_0000027 604.6 610.1 
+Tim_Minchin/YIuxecr7How_0000028 709.4 716.9 
+Tim_Minchin/YIuxecr7How_0000029 778.2 787.2 
+Tim_Minchin/YIuxecr7How_0000030 829.4 833.4 
+Tim_Minchin/YIuxecr7How_0000031 837.7 847.4 
+Tim_Minchin/YIuxecr7How_0000032 856.9 863.8 
+Tim_Minchin/YIuxecr7How_0000033 864.5 892.6 
+Tim_Minchin/YIuxecr7How_0000034 909.5 916.7 
+Tim_Minchin/YIuxecr7How_0000035 918.7 930.0 
+Tim_Minchin/YIuxecr7How_0000036 930.5 936.2 
+Tim_Minchin/YIuxecr7How_0000037 941.1 946.6 

@@ -1,0 +1,13 @@
+POI: 			Manish_Dayal 
+Youtube ID: 	UFwR-P7iNjE 
+Video length: 	360.0 sec 
+Set (V): 		dev 
+ 
+Manish_Dayal/UFwR-P7iNjE_0000001 61.7 71.1 
+Manish_Dayal/UFwR-P7iNjE_0000002 167.8 173.6 
+Manish_Dayal/UFwR-P7iNjE_0000003 184.4 203.5 
+Manish_Dayal/UFwR-P7iNjE_0000004 204.2 213.0 
+Manish_Dayal/UFwR-P7iNjE_0000005 219.0 228.4 
+Manish_Dayal/UFwR-P7iNjE_0000006 235.7 242.3 
+Manish_Dayal/UFwR-P7iNjE_0000007 273.3 280.2 
+Manish_Dayal/UFwR-P7iNjE_0000008 284.6 294.4 

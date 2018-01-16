@@ -1,0 +1,21 @@
+POI: 			Tom_Kenny 
+Youtube ID: 	OhFEclsyhwk 
+Video length: 	578.0 sec 
+Set (V): 		dev 
+ 
+Tom_Kenny/OhFEclsyhwk_0000001 69.4 73.4 
+Tom_Kenny/OhFEclsyhwk_0000002 92.7 103.8 
+Tom_Kenny/OhFEclsyhwk_0000003 115.1 122.9 
+Tom_Kenny/OhFEclsyhwk_0000004 129.2 137.5 
+Tom_Kenny/OhFEclsyhwk_0000005 173.4 180.0 
+Tom_Kenny/OhFEclsyhwk_0000006 208.6 218.1 
+Tom_Kenny/OhFEclsyhwk_0000007 231.4 235.8 
+Tom_Kenny/OhFEclsyhwk_0000008 247.4 253.2 
+Tom_Kenny/OhFEclsyhwk_0000009 305.4 315.1 
+Tom_Kenny/OhFEclsyhwk_0000010 359.4 364.0 
+Tom_Kenny/OhFEclsyhwk_0000011 387.9 402.0 
+Tom_Kenny/OhFEclsyhwk_0000012 436.0 441.0 
+Tom_Kenny/OhFEclsyhwk_0000013 447.8 454.9 
+Tom_Kenny/OhFEclsyhwk_0000014 463.7 468.3 
+Tom_Kenny/OhFEclsyhwk_0000015 476.3 480.9 
+Tom_Kenny/OhFEclsyhwk_0000016 514.8 519.6 

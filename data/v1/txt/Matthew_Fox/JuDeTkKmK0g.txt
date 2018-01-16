@@ -1,0 +1,16 @@
+POI: 			Matthew_Fox 
+Youtube ID: 	JuDeTkKmK0g 
+Video length: 	352.5 sec 
+Set (V): 		dev 
+ 
+Matthew_Fox/JuDeTkKmK0g_0000001 50.5 67.0 
+Matthew_Fox/JuDeTkKmK0g_0000002 72.8 83.0 
+Matthew_Fox/JuDeTkKmK0g_0000003 91.7 98.9 
+Matthew_Fox/JuDeTkKmK0g_0000004 103.4 107.4 
+Matthew_Fox/JuDeTkKmK0g_0000005 107.8 113.5 
+Matthew_Fox/JuDeTkKmK0g_0000006 133.3 154.2 
+Matthew_Fox/JuDeTkKmK0g_0000007 160.0 165.2 
+Matthew_Fox/JuDeTkKmK0g_0000008 189.4 197.3 
+Matthew_Fox/JuDeTkKmK0g_0000009 202.3 212.1 
+Matthew_Fox/JuDeTkKmK0g_0000010 221.7 239.2 
+Matthew_Fox/JuDeTkKmK0g_0000011 293.9 316.9 

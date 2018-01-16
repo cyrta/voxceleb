@@ -1,0 +1,8 @@
+POI: 			Pablo_Schreiber 
+Youtube ID: 	bH1GHi3_8aY 
+Video length: 	79.2 sec 
+Set (V): 		dev 
+ 
+Pablo_Schreiber/bH1GHi3_8aY_0000001 11.1 16.0 
+Pablo_Schreiber/bH1GHi3_8aY_0000002 55.9 60.3 
+Pablo_Schreiber/bH1GHi3_8aY_0000003 61.1 69.4 

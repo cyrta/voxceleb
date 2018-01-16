@@ -1,0 +1,8 @@
+POI: 			Rose_McIver 
+Youtube ID: 	6DTGOCa0qk0 
+Video length: 	523.8 sec 
+Set (V): 		dev 
+ 
+Rose_McIver/6DTGOCa0qk0_0000001 103.6 112.8 
+Rose_McIver/6DTGOCa0qk0_0000002 385.8 403.3 
+Rose_McIver/6DTGOCa0qk0_0000003 466.0 479.6 

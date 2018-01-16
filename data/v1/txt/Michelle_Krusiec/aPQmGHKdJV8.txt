@@ -1,0 +1,12 @@
+POI: 			Michelle_Krusiec 
+Youtube ID: 	aPQmGHKdJV8 
+Video length: 	300.3 sec 
+Set (V): 		dev 
+ 
+Michelle_Krusiec/aPQmGHKdJV8_0000001 11.1 17.7 
+Michelle_Krusiec/aPQmGHKdJV8_0000002 23.5 29.6 
+Michelle_Krusiec/aPQmGHKdJV8_0000003 37.0 46.9 
+Michelle_Krusiec/aPQmGHKdJV8_0000004 114.4 119.1 
+Michelle_Krusiec/aPQmGHKdJV8_0000005 133.3 139.4 
+Michelle_Krusiec/aPQmGHKdJV8_0000006 192.6 202.2 
+Michelle_Krusiec/aPQmGHKdJV8_0000007 202.8 208.7 

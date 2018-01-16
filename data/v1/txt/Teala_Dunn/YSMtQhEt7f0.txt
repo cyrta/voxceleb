@@ -1,0 +1,27 @@
+POI: 			Teala_Dunn 
+Youtube ID: 	YSMtQhEt7f0 
+Video length: 	407.6 sec 
+Set (V): 		dev 
+ 
+Teala_Dunn/YSMtQhEt7f0_0000001 16.0 30.2 
+Teala_Dunn/YSMtQhEt7f0_0000002 30.7 49.3 
+Teala_Dunn/YSMtQhEt7f0_0000003 51.0 59.8 
+Teala_Dunn/YSMtQhEt7f0_0000004 60.6 65.2 
+Teala_Dunn/YSMtQhEt7f0_0000005 74.8 84.4 
+Teala_Dunn/YSMtQhEt7f0_0000006 102.6 108.9 
+Teala_Dunn/YSMtQhEt7f0_0000007 113.2 122.6 
+Teala_Dunn/YSMtQhEt7f0_0000008 130.6 146.1 
+Teala_Dunn/YSMtQhEt7f0_0000009 171.1 182.7 
+Teala_Dunn/YSMtQhEt7f0_0000010 189.7 198.1 
+Teala_Dunn/YSMtQhEt7f0_0000011 203.5 208.8 
+Teala_Dunn/YSMtQhEt7f0_0000012 213.9 228.4 
+Teala_Dunn/YSMtQhEt7f0_0000013 231.0 256.3 
+Teala_Dunn/YSMtQhEt7f0_0000014 256.4 268.7 
+Teala_Dunn/YSMtQhEt7f0_0000015 281.8 292.2 
+Teala_Dunn/YSMtQhEt7f0_0000016 293.5 308.1 
+Teala_Dunn/YSMtQhEt7f0_0000017 322.3 327.0 
+Teala_Dunn/YSMtQhEt7f0_0000018 266.2 275.3 
+Teala_Dunn/YSMtQhEt7f0_0000019 348.7 355.2 
+Teala_Dunn/YSMtQhEt7f0_0000020 355.4 362.3 
+Teala_Dunn/YSMtQhEt7f0_0000021 364.8 371.5 
+Teala_Dunn/YSMtQhEt7f0_0000022 372.3 380.8 

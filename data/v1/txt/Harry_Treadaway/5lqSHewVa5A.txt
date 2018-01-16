@@ -1,0 +1,13 @@
+POI: 			Harry_Treadaway 
+Youtube ID: 	5lqSHewVa5A 
+Video length: 	274.7 sec 
+Set (V): 		dev 
+ 
+Harry_Treadaway/5lqSHewVa5A_0000001 02.6 11.3 
+Harry_Treadaway/5lqSHewVa5A_0000002 27.3 39.8 
+Harry_Treadaway/5lqSHewVa5A_0000003 85.4 97.5 
+Harry_Treadaway/5lqSHewVa5A_0000004 101.5 136.6 
+Harry_Treadaway/5lqSHewVa5A_0000005 140.1 159.0 
+Harry_Treadaway/5lqSHewVa5A_0000006 170.4 191.8 
+Harry_Treadaway/5lqSHewVa5A_0000007 199.9 212.8 
+Harry_Treadaway/5lqSHewVa5A_0000008 255.3 261.2 

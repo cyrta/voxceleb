@@ -1,0 +1,7 @@
+POI: 			Heidi_Montag 
+Youtube ID: 	qqOLdE983FU 
+Video length: 	120.2 sec 
+Set (V): 		dev 
+ 
+Heidi_Montag/qqOLdE983FU_0000001 62.3 67.2 
+Heidi_Montag/qqOLdE983FU_0000002 67.6 73.5 

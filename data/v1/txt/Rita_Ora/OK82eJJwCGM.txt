@@ -1,0 +1,10 @@
+POI: 			Rita_Ora 
+Youtube ID: 	OK82eJJwCGM 
+Video length: 	314.8 sec 
+Set (V): 		dev 
+ 
+Rita_Ora/OK82eJJwCGM_0000001 120.6 124.7 
+Rita_Ora/OK82eJJwCGM_0000002 129.2 134.6 
+Rita_Ora/OK82eJJwCGM_0000003 164.9 169.2 
+Rita_Ora/OK82eJJwCGM_0000004 238.8 246.2 
+Rita_Ora/OK82eJJwCGM_0000005 246.2 255.6 

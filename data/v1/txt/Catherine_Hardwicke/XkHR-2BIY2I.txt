@@ -1,0 +1,13 @@
+POI: 			Catherine_Hardwicke 
+Youtube ID: 	XkHR-2BIY2I 
+Video length: 	290.0 sec 
+Set (V): 		dev 
+ 
+Catherine_Hardwicke/XkHR-2BIY2I_0000001 45.5 53.0 
+Catherine_Hardwicke/XkHR-2BIY2I_0000002 58.0 63.0 
+Catherine_Hardwicke/XkHR-2BIY2I_0000003 63.3 69.9 
+Catherine_Hardwicke/XkHR-2BIY2I_0000004 83.7 87.7 
+Catherine_Hardwicke/XkHR-2BIY2I_0000005 107.2 114.2 
+Catherine_Hardwicke/XkHR-2BIY2I_0000006 164.6 177.6 
+Catherine_Hardwicke/XkHR-2BIY2I_0000007 240.0 246.6 
+Catherine_Hardwicke/XkHR-2BIY2I_0000008 267.6 279.8 

@@ -1,0 +1,8 @@
+POI: 			Dane_Cook 
+Youtube ID: 	KIse4_aC6FY 
+Video length: 	210.5 sec 
+Set (V): 		dev 
+ 
+Dane_Cook/KIse4_aC6FY_0000001 143.5 150.3 
+Dane_Cook/KIse4_aC6FY_0000002 156.2 167.9 
+Dane_Cook/KIse4_aC6FY_0000003 168.1 173.4 

@@ -1,0 +1,12 @@
+POI: 			Reggie_Lee 
+Youtube ID: 	U-J94IVshfg 
+Video length: 	215.7 sec 
+Set (V): 		dev 
+ 
+Reggie_Lee/U-J94IVshfg_0000001 32.8 37.0 
+Reggie_Lee/U-J94IVshfg_0000002 41.4 47.4 
+Reggie_Lee/U-J94IVshfg_0000003 81.1 85.1 
+Reggie_Lee/U-J94IVshfg_0000004 88.4 98.6 
+Reggie_Lee/U-J94IVshfg_0000005 111.0 118.0 
+Reggie_Lee/U-J94IVshfg_0000006 141.6 145.8 
+Reggie_Lee/U-J94IVshfg_0000007 177.5 181.6 

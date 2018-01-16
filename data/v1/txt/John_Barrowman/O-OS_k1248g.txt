@@ -1,0 +1,8 @@
+POI: 			John_Barrowman 
+Youtube ID: 	O-OS_k1248g 
+Video length: 	520.5 sec 
+Set (V): 		dev 
+ 
+John_Barrowman/O-OS_k1248g_0000001 139.5 144.5 
+John_Barrowman/O-OS_k1248g_0000002 314.2 319.7 
+John_Barrowman/O-OS_k1248g_0000003 324.6 330.2 

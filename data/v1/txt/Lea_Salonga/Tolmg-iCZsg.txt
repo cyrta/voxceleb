@@ -1,0 +1,10 @@
+POI: 			Lea_Salonga 
+Youtube ID: 	Tolmg-iCZsg 
+Video length: 	248.2 sec 
+Set (V): 		dev 
+ 
+Lea_Salonga/Tolmg-iCZsg_0000001 24.1 28.2 
+Lea_Salonga/Tolmg-iCZsg_0000002 69.8 76.4 
+Lea_Salonga/Tolmg-iCZsg_0000003 78.9 88.3 
+Lea_Salonga/Tolmg-iCZsg_0000004 88.9 92.9 
+Lea_Salonga/Tolmg-iCZsg_0000005 224.0 228.8 

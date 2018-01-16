@@ -1,0 +1,32 @@
+POI: 			Max_Schneider 
+Youtube ID: 	P0fcl9-MGE8 
+Video length: 	728.6 sec 
+Set (V): 		dev 
+ 
+Max_Schneider/P0fcl9-MGE8_0000001 22.9 33.7 
+Max_Schneider/P0fcl9-MGE8_0000002 52.5 59.8 
+Max_Schneider/P0fcl9-MGE8_0000003 129.2 135.0 
+Max_Schneider/P0fcl9-MGE8_0000004 141.8 156.5 
+Max_Schneider/P0fcl9-MGE8_0000005 157.5 170.0 
+Max_Schneider/P0fcl9-MGE8_0000006 206.7 223.2 
+Max_Schneider/P0fcl9-MGE8_0000007 252.4 259.2 
+Max_Schneider/P0fcl9-MGE8_0000008 267.2 273.2 
+Max_Schneider/P0fcl9-MGE8_0000009 277.1 291.4 
+Max_Schneider/P0fcl9-MGE8_0000010 326.8 333.4 
+Max_Schneider/P0fcl9-MGE8_0000011 349.4 355.8 
+Max_Schneider/P0fcl9-MGE8_0000012 356.4 373.1 
+Max_Schneider/P0fcl9-MGE8_0000013 383.7 388.2 
+Max_Schneider/P0fcl9-MGE8_0000014 390.4 414.2 
+Max_Schneider/P0fcl9-MGE8_0000015 414.8 423.4 
+Max_Schneider/P0fcl9-MGE8_0000016 426.9 432.7 
+Max_Schneider/P0fcl9-MGE8_0000017 434.3 441.8 
+Max_Schneider/P0fcl9-MGE8_0000018 444.9 454.8 
+Max_Schneider/P0fcl9-MGE8_0000019 482.4 507.6 
+Max_Schneider/P0fcl9-MGE8_0000020 508.2 519.2 
+Max_Schneider/P0fcl9-MGE8_0000021 521.2 527.9 
+Max_Schneider/P0fcl9-MGE8_0000022 570.1 574.6 
+Max_Schneider/P0fcl9-MGE8_0000023 587.8 592.8 
+Max_Schneider/P0fcl9-MGE8_0000024 626.0 641.3 
+Max_Schneider/P0fcl9-MGE8_0000025 646.4 651.6 
+Max_Schneider/P0fcl9-MGE8_0000026 661.6 677.1 
+Max_Schneider/P0fcl9-MGE8_0000027 714.5 719.6 

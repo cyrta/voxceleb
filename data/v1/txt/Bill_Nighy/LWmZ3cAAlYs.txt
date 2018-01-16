@@ -1,0 +1,12 @@
+POI: 			Bill_Nighy 
+Youtube ID: 	LWmZ3cAAlYs 
+Video length: 	134.5 sec 
+Set (V): 		dev 
+ 
+Bill_Nighy/LWmZ3cAAlYs_0000001 33.2 39.7 
+Bill_Nighy/LWmZ3cAAlYs_0000002 41.0 47.0 
+Bill_Nighy/LWmZ3cAAlYs_0000003 61.2 70.7 
+Bill_Nighy/LWmZ3cAAlYs_0000004 72.4 79.5 
+Bill_Nighy/LWmZ3cAAlYs_0000005 70.0 83.8 
+Bill_Nighy/LWmZ3cAAlYs_0000006 104.7 111.7 
+Bill_Nighy/LWmZ3cAAlYs_0000007 114.9 119.9 

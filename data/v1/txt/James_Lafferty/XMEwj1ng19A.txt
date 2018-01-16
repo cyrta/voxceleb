@@ -1,0 +1,11 @@
+POI: 			James_Lafferty 
+Youtube ID: 	XMEwj1ng19A 
+Video length: 	149.3 sec 
+Set (V): 		dev 
+ 
+James_Lafferty/XMEwj1ng19A_0000001 19.8 24.1 
+James_Lafferty/XMEwj1ng19A_0000002 29.2 36.7 
+James_Lafferty/XMEwj1ng19A_0000003 44.8 63.2 
+James_Lafferty/XMEwj1ng19A_0000004 72.4 84.6 
+James_Lafferty/XMEwj1ng19A_0000005 97.0 101.2 
+James_Lafferty/XMEwj1ng19A_0000006 134.4 138.9 

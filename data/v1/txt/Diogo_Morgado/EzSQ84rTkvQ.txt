@@ -1,0 +1,16 @@
+POI: 			Diogo_Morgado 
+Youtube ID: 	EzSQ84rTkvQ 
+Video length: 	507.7 sec 
+Set (V): 		dev 
+ 
+Diogo_Morgado/EzSQ84rTkvQ_0000001 33.2 38.5 
+Diogo_Morgado/EzSQ84rTkvQ_0000002 104.4 114.8 
+Diogo_Morgado/EzSQ84rTkvQ_0000003 130.6 134.9 
+Diogo_Morgado/EzSQ84rTkvQ_0000004 154.1 161.0 
+Diogo_Morgado/EzSQ84rTkvQ_0000005 211.8 219.6 
+Diogo_Morgado/EzSQ84rTkvQ_0000006 246.5 253.9 
+Diogo_Morgado/EzSQ84rTkvQ_0000007 254.3 258.9 
+Diogo_Morgado/EzSQ84rTkvQ_0000008 358.1 364.2 
+Diogo_Morgado/EzSQ84rTkvQ_0000009 397.6 411.0 
+Diogo_Morgado/EzSQ84rTkvQ_0000010 475.7 482.0 
+Diogo_Morgado/EzSQ84rTkvQ_0000011 489.2 494.6 

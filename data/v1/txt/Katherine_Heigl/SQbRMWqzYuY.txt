@@ -1,0 +1,11 @@
+POI: 			Katherine_Heigl 
+Youtube ID: 	SQbRMWqzYuY 
+Video length: 	400.4 sec 
+Set (V): 		dev 
+ 
+Katherine_Heigl/SQbRMWqzYuY_0000001 108.0 115.5 
+Katherine_Heigl/SQbRMWqzYuY_0000002 282.9 289.4 
+Katherine_Heigl/SQbRMWqzYuY_0000003 289.8 298.5 
+Katherine_Heigl/SQbRMWqzYuY_0000004 301.2 307.2 
+Katherine_Heigl/SQbRMWqzYuY_0000005 307.3 317.3 
+Katherine_Heigl/SQbRMWqzYuY_0000006 317.7 333.2 

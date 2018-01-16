@@ -1,0 +1,7 @@
+POI: 			Armand_Assante 
+Youtube ID: 	KQJ8qvIH7mQ 
+Video length: 	221.3 sec 
+Set (V): 		dev 
+ 
+Armand_Assante/KQJ8qvIH7mQ_0000001 136.6 141.2 
+Armand_Assante/KQJ8qvIH7mQ_0000002 143.6 155.2 

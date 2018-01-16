@@ -1,0 +1,10 @@
+POI: 			Noomi_Rapace 
+Youtube ID: 	j6MI2miSVhg 
+Video length: 	93.0 sec 
+Set (V): 		dev 
+ 
+Noomi_Rapace/j6MI2miSVhg_0000001 16.7 27.0 
+Noomi_Rapace/j6MI2miSVhg_0000002 27.7 31.9 
+Noomi_Rapace/j6MI2miSVhg_0000003 32.0 41.1 
+Noomi_Rapace/j6MI2miSVhg_0000004 57.3 64.7 
+Noomi_Rapace/j6MI2miSVhg_0000005 80.2 85.0 

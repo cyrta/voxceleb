@@ -1,0 +1,14 @@
+POI: 			Hannah_Simone 
+Youtube ID: 	r1c8t2Z8Fjw 
+Video length: 	1698.8 sec 
+Set (V): 		dev 
+ 
+Hannah_Simone/r1c8t2Z8Fjw_0000001 278.0 283.6 
+Hannah_Simone/r1c8t2Z8Fjw_0000002 291.0 299.6 
+Hannah_Simone/r1c8t2Z8Fjw_0000003 310.7 315.3 
+Hannah_Simone/r1c8t2Z8Fjw_0000004 596.1 603.5 
+Hannah_Simone/r1c8t2Z8Fjw_0000005 613.7 621.6 
+Hannah_Simone/r1c8t2Z8Fjw_0000006 759.9 765.4 
+Hannah_Simone/r1c8t2Z8Fjw_0000007 802.6 806.6 
+Hannah_Simone/r1c8t2Z8Fjw_0000008 1019.7 1023.7 
+Hannah_Simone/r1c8t2Z8Fjw_0000009 1062.7 1066.9 

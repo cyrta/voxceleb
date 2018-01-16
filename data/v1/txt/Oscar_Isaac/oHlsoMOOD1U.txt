@@ -1,0 +1,23 @@
+POI: 			Oscar_Isaac 
+Youtube ID: 	oHlsoMOOD1U 
+Video length: 	278.6 sec 
+Set (V): 		dev 
+ 
+Oscar_Isaac/oHlsoMOOD1U_0000001 14.0 20.2 
+Oscar_Isaac/oHlsoMOOD1U_0000002 20.5 34.0 
+Oscar_Isaac/oHlsoMOOD1U_0000003 36.6 50.9 
+Oscar_Isaac/oHlsoMOOD1U_0000004 56.3 63.9 
+Oscar_Isaac/oHlsoMOOD1U_0000005 68.6 72.8 
+Oscar_Isaac/oHlsoMOOD1U_0000006 73.3 79.9 
+Oscar_Isaac/oHlsoMOOD1U_0000007 81.2 88.1 
+Oscar_Isaac/oHlsoMOOD1U_0000008 101.1 115.5 
+Oscar_Isaac/oHlsoMOOD1U_0000009 168.6 173.0 
+Oscar_Isaac/oHlsoMOOD1U_0000010 171.2 177.0 
+Oscar_Isaac/oHlsoMOOD1U_0000011 191.2 196.5 
+Oscar_Isaac/oHlsoMOOD1U_0000012 207.6 216.7 
+Oscar_Isaac/oHlsoMOOD1U_0000013 216.8 221.2 
+Oscar_Isaac/oHlsoMOOD1U_0000014 223.1 228.4 
+Oscar_Isaac/oHlsoMOOD1U_0000015 230.6 241.6 
+Oscar_Isaac/oHlsoMOOD1U_0000016 246.2 254.9 
+Oscar_Isaac/oHlsoMOOD1U_0000017 259.9 265.7 
+Oscar_Isaac/oHlsoMOOD1U_0000018 267.5 276.1 

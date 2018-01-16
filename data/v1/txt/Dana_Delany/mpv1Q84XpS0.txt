@@ -1,0 +1,7 @@
+POI: 			Dana_Delany 
+Youtube ID: 	mpv1Q84XpS0 
+Video length: 	370.1 sec 
+Set (V): 		dev 
+ 
+Dana_Delany/mpv1Q84XpS0_0000001 135.2 140.4 
+Dana_Delany/mpv1Q84XpS0_0000002 232.2 236.9 

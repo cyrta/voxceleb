@@ -1,0 +1,14 @@
+POI: 			Florence_Henderson 
+Youtube ID: 	VncqAJt4iFU 
+Video length: 	248.8 sec 
+Set (V): 		dev 
+ 
+Florence_Henderson/VncqAJt4iFU_0000001 07.0 35.1 
+Florence_Henderson/VncqAJt4iFU_0000002 35.2 40.6 
+Florence_Henderson/VncqAJt4iFU_0000003 44.2 49.4 
+Florence_Henderson/VncqAJt4iFU_0000004 64.7 71.6 
+Florence_Henderson/VncqAJt4iFU_0000005 77.5 82.8 
+Florence_Henderson/VncqAJt4iFU_0000006 122.0 128.1 
+Florence_Henderson/VncqAJt4iFU_0000007 128.8 154.2 
+Florence_Henderson/VncqAJt4iFU_0000008 177.2 189.2 
+Florence_Henderson/VncqAJt4iFU_0000009 191.9 196.2 

@@ -1,0 +1,10 @@
+POI: 			Andrew_Dice_Clay 
+Youtube ID: 	IPGYRXSKqTg 
+Video length: 	264.3 sec 
+Set (V): 		dev 
+ 
+Andrew_Dice_Clay/IPGYRXSKqTg_0000001 103.5 111.2 
+Andrew_Dice_Clay/IPGYRXSKqTg_0000002 113.2 118.9 
+Andrew_Dice_Clay/IPGYRXSKqTg_0000003 131.8 137.6 
+Andrew_Dice_Clay/IPGYRXSKqTg_0000004 138.7 143.2 
+Andrew_Dice_Clay/IPGYRXSKqTg_0000005 147.4 151.9 

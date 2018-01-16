@@ -1,0 +1,9 @@
+POI: 			Anthony_Mackie 
+Youtube ID: 	IRNnKzN0wbU 
+Video length: 	359.2 sec 
+Set (V): 		dev 
+ 
+Anthony_Mackie/IRNnKzN0wbU_0000001 188.1 195.0 
+Anthony_Mackie/IRNnKzN0wbU_0000002 199.0 203.8 
+Anthony_Mackie/IRNnKzN0wbU_0000003 209.5 218.6 
+Anthony_Mackie/IRNnKzN0wbU_0000004 324.6 330.5 

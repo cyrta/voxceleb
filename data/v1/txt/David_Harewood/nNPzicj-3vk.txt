@@ -1,0 +1,9 @@
+POI: 			David_Harewood 
+Youtube ID: 	nNPzicj-3vk 
+Video length: 	203.7 sec 
+Set (V): 		dev 
+ 
+David_Harewood/nNPzicj-3vk_0000001 12.1 21.2 
+David_Harewood/nNPzicj-3vk_0000002 30.0 34.4 
+David_Harewood/nNPzicj-3vk_0000003 127.1 136.9 
+David_Harewood/nNPzicj-3vk_0000004 137.4 142.0 

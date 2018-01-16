@@ -1,0 +1,7 @@
+POI: 			Allison_Williams 
+Youtube ID: 	8TbhtTrUttw 
+Video length: 	163.7 sec 
+Set (V): 		dev 
+ 
+Allison_Williams/8TbhtTrUttw_0000001 42.3 61.3 
+Allison_Williams/8TbhtTrUttw_0000002 59.1 70.6 

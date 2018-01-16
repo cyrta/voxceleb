@@ -1,0 +1,9 @@
+POI: 			Debra_Jo_Rupp 
+Youtube ID: 	BiX4YFNZKQo 
+Video length: 	167.3 sec 
+Set (V): 		dev 
+ 
+Debra_Jo_Rupp/BiX4YFNZKQo_0000001 35.8 45.3 
+Debra_Jo_Rupp/BiX4YFNZKQo_0000002 57.6 70.3 
+Debra_Jo_Rupp/BiX4YFNZKQo_0000003 126.1 130.5 
+Debra_Jo_Rupp/BiX4YFNZKQo_0000004 138.2 145.0 

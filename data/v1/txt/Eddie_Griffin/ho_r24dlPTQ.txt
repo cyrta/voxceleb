@@ -1,0 +1,10 @@
+POI: 			Eddie_Griffin 
+Youtube ID: 	ho_r24dlPTQ 
+Video length: 	3388.2 sec 
+Set (V): 		test 
+ 
+Eddie_Griffin/ho_r24dlPTQ_0000001 248.9 253.1 
+Eddie_Griffin/ho_r24dlPTQ_0000002 926.5 932.0 
+Eddie_Griffin/ho_r24dlPTQ_0000003 1000.9 1006.0 
+Eddie_Griffin/ho_r24dlPTQ_0000004 1430.7 1435.5 
+Eddie_Griffin/ho_r24dlPTQ_0000005 2912.7 2916.9 

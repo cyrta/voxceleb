@@ -1,0 +1,9 @@
+POI: 			Ken_Jeong 
+Youtube ID: 	XIY3gei3WEc 
+Video length: 	189.6 sec 
+Set (V): 		dev 
+ 
+Ken_Jeong/XIY3gei3WEc_0000001 18.4 23.5 
+Ken_Jeong/XIY3gei3WEc_0000002 39.7 49.5 
+Ken_Jeong/XIY3gei3WEc_0000003 98.4 107.6 
+Ken_Jeong/XIY3gei3WEc_0000004 139.2 148.0 

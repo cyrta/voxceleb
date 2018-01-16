@@ -1,0 +1,8 @@
+POI: 			Ang_Lee 
+Youtube ID: 	60Hs_ADeIWQ 
+Video length: 	1296.4 sec 
+Set (V): 		dev 
+ 
+Ang_Lee/60Hs_ADeIWQ_0000001 27.8 32.6 
+Ang_Lee/60Hs_ADeIWQ_0000002 201.8 208.7 
+Ang_Lee/60Hs_ADeIWQ_0000003 1242.2 1246.8 

@@ -1,0 +1,10 @@
+POI: 			Hilary_Swank 
+Youtube ID: 	RKi44KZGEes 
+Video length: 	462.5 sec 
+Set (V): 		dev 
+ 
+Hilary_Swank/RKi44KZGEes_0000001 60.1 68.4 
+Hilary_Swank/RKi44KZGEes_0000002 68.4 85.6 
+Hilary_Swank/RKi44KZGEes_0000003 238.8 254.3 
+Hilary_Swank/RKi44KZGEes_0000004 263.4 271.2 
+Hilary_Swank/RKi44KZGEes_0000005 272.7 287.2 

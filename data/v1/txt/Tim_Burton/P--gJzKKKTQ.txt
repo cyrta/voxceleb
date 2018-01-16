@@ -1,0 +1,13 @@
+POI: 			Tim_Burton 
+Youtube ID: 	P--gJzKKKTQ 
+Video length: 	238.7 sec 
+Set (V): 		dev 
+ 
+Tim_Burton/P--gJzKKKTQ_0000001 80.0 88.6 
+Tim_Burton/P--gJzKKKTQ_0000002 92.8 96.8 
+Tim_Burton/P--gJzKKKTQ_0000003 131.2 135.6 
+Tim_Burton/P--gJzKKKTQ_0000004 146.7 153.3 
+Tim_Burton/P--gJzKKKTQ_0000005 163.5 169.6 
+Tim_Burton/P--gJzKKKTQ_0000006 202.4 206.8 
+Tim_Burton/P--gJzKKKTQ_0000007 211.3 217.5 
+Tim_Burton/P--gJzKKKTQ_0000008 219.9 231.4 

@@ -1,0 +1,12 @@
+POI: 			Seann_William_Scott 
+Youtube ID: 	lSv_l5-QJJE 
+Video length: 	168.1 sec 
+Set (V): 		dev 
+ 
+Seann_William_Scott/lSv_l5-QJJE_0000001 14.0 20.7 
+Seann_William_Scott/lSv_l5-QJJE_0000002 35.7 40.4 
+Seann_William_Scott/lSv_l5-QJJE_0000003 64.9 69.0 
+Seann_William_Scott/lSv_l5-QJJE_0000004 101.4 115.1 
+Seann_William_Scott/lSv_l5-QJJE_0000005 132.9 140.4 
+Seann_William_Scott/lSv_l5-QJJE_0000006 146.2 153.6 
+Seann_William_Scott/lSv_l5-QJJE_0000007 156.9 162.2 

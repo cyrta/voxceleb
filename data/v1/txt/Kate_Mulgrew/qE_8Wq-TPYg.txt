@@ -1,0 +1,7 @@
+POI: 			Kate_Mulgrew 
+Youtube ID: 	qE_8Wq-TPYg 
+Video length: 	518.4 sec 
+Set (V): 		dev 
+ 
+Kate_Mulgrew/qE_8Wq-TPYg_0000001 262.2 270.1 
+Kate_Mulgrew/qE_8Wq-TPYg_0000002 270.9 277.3 

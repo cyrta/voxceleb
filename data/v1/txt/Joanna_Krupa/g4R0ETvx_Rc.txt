@@ -1,0 +1,11 @@
+POI: 			Joanna_Krupa 
+Youtube ID: 	g4R0ETvx_Rc 
+Video length: 	417.9 sec 
+Set (V): 		dev 
+ 
+Joanna_Krupa/g4R0ETvx_Rc_0000001 29.8 42.9 
+Joanna_Krupa/g4R0ETvx_Rc_0000002 88.0 96.4 
+Joanna_Krupa/g4R0ETvx_Rc_0000003 127.1 135.4 
+Joanna_Krupa/g4R0ETvx_Rc_0000004 261.3 270.0 
+Joanna_Krupa/g4R0ETvx_Rc_0000005 326.8 339.2 
+Joanna_Krupa/g4R0ETvx_Rc_0000006 378.5 383.0 

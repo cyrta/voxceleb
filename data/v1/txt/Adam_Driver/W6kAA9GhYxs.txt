@@ -1,0 +1,7 @@
+POI: 			Adam_Driver 
+Youtube ID: 	W6kAA9GhYxs 
+Video length: 	87.0 sec 
+Set (V): 		dev 
+ 
+Adam_Driver/W6kAA9GhYxs_0000001 28.8 33.3 
+Adam_Driver/W6kAA9GhYxs_0000002 33.8 43.7 

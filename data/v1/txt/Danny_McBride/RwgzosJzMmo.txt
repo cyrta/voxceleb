@@ -1,0 +1,10 @@
+POI: 			Danny_McBride 
+Youtube ID: 	RwgzosJzMmo 
+Video length: 	227.4 sec 
+Set (V): 		dev 
+ 
+Danny_McBride/RwgzosJzMmo_0000001 23.6 30.4 
+Danny_McBride/RwgzosJzMmo_0000002 51.6 62.0 
+Danny_McBride/RwgzosJzMmo_0000003 72.2 80.6 
+Danny_McBride/RwgzosJzMmo_0000004 99.9 109.8 
+Danny_McBride/RwgzosJzMmo_0000005 119.6 143.6 

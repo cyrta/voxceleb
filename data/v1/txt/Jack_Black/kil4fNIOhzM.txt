@@ -1,0 +1,17 @@
+POI: 			Jack_Black 
+Youtube ID: 	kil4fNIOhzM 
+Video length: 	194.1 sec 
+Set (V): 		dev 
+ 
+Jack_Black/kil4fNIOhzM_0000001 07.1 12.8 
+Jack_Black/kil4fNIOhzM_0000002 25.5 33.8 
+Jack_Black/kil4fNIOhzM_0000003 42.0 47.2 
+Jack_Black/kil4fNIOhzM_0000004 49.2 54.0 
+Jack_Black/kil4fNIOhzM_0000005 54.0 65.2 
+Jack_Black/kil4fNIOhzM_0000006 72.3 82.9 
+Jack_Black/kil4fNIOhzM_0000007 83.6 94.3 
+Jack_Black/kil4fNIOhzM_0000008 86.1 94.6 
+Jack_Black/kil4fNIOhzM_0000009 133.0 137.9 
+Jack_Black/kil4fNIOhzM_0000010 153.4 158.3 
+Jack_Black/kil4fNIOhzM_0000011 169.9 174.9 
+Jack_Black/kil4fNIOhzM_0000012 175.2 179.9 

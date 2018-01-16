@@ -1,0 +1,13 @@
+POI: 			Maria_Grazia_Cucinotta 
+Youtube ID: 	ymRDXj_P9T4 
+Video length: 	442.2 sec 
+Set (V): 		dev 
+ 
+Maria_Grazia_Cucinotta/ymRDXj_P9T4_0000001 76.1 80.4 
+Maria_Grazia_Cucinotta/ymRDXj_P9T4_0000002 170.3 174.8 
+Maria_Grazia_Cucinotta/ymRDXj_P9T4_0000003 213.1 217.2 
+Maria_Grazia_Cucinotta/ymRDXj_P9T4_0000004 235.4 239.6 
+Maria_Grazia_Cucinotta/ymRDXj_P9T4_0000005 251.6 259.0 
+Maria_Grazia_Cucinotta/ymRDXj_P9T4_0000006 280.1 284.6 
+Maria_Grazia_Cucinotta/ymRDXj_P9T4_0000007 293.9 300.4 
+Maria_Grazia_Cucinotta/ymRDXj_P9T4_0000008 423.4 427.8 

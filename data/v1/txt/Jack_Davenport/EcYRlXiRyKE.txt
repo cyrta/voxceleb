@@ -1,0 +1,8 @@
+POI: 			Jack_Davenport 
+Youtube ID: 	EcYRlXiRyKE 
+Video length: 	151.1 sec 
+Set (V): 		dev 
+ 
+Jack_Davenport/EcYRlXiRyKE_0000001 92.7 97.4 
+Jack_Davenport/EcYRlXiRyKE_0000002 99.2 106.7 
+Jack_Davenport/EcYRlXiRyKE_0000003 112.0 121.0 

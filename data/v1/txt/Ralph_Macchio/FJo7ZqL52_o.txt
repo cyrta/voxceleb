@@ -1,0 +1,10 @@
+POI: 			Ralph_Macchio 
+Youtube ID: 	FJo7ZqL52_o 
+Video length: 	193.0 sec 
+Set (V): 		dev 
+ 
+Ralph_Macchio/FJo7ZqL52_o_0000001 94.8 102.5 
+Ralph_Macchio/FJo7ZqL52_o_0000002 130.3 134.6 
+Ralph_Macchio/FJo7ZqL52_o_0000003 134.8 143.8 
+Ralph_Macchio/FJo7ZqL52_o_0000004 145.8 151.4 
+Ralph_Macchio/FJo7ZqL52_o_0000005 165.8 173.7 

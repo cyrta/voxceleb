@@ -1,0 +1,8 @@
+POI: 			Tavi_Gevinson 
+Youtube ID: 	Vilsk7MH13E 
+Video length: 	187.8 sec 
+Set (V): 		dev 
+ 
+Tavi_Gevinson/Vilsk7MH13E_0000001 17.0 23.6 
+Tavi_Gevinson/Vilsk7MH13E_0000002 44.0 50.4 
+Tavi_Gevinson/Vilsk7MH13E_0000003 81.7 88.4 

@@ -1,0 +1,8 @@
+POI: 			Karla_Souza 
+Youtube ID: 	jGrF0-vft5Q 
+Video length: 	111.4 sec 
+Set (V): 		dev 
+ 
+Karla_Souza/jGrF0-vft5Q_0000001 78.7 85.2 
+Karla_Souza/jGrF0-vft5Q_0000002 91.6 99.3 
+Karla_Souza/jGrF0-vft5Q_0000003 103.0 107.3 

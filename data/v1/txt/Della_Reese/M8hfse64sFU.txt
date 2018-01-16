@@ -1,0 +1,9 @@
+POI: 			Della_Reese 
+Youtube ID: 	M8hfse64sFU 
+Video length: 	108.1 sec 
+Set (V): 		dev 
+ 
+Della_Reese/M8hfse64sFU_0000001 13.4 21.3 
+Della_Reese/M8hfse64sFU_0000002 31.2 41.2 
+Della_Reese/M8hfse64sFU_0000003 43.9 50.4 
+Della_Reese/M8hfse64sFU_0000004 88.9 98.4 

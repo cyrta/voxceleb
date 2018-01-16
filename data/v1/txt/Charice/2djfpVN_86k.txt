@@ -1,0 +1,10 @@
+POI: 			Charice 
+Youtube ID: 	2djfpVN_86k 
+Video length: 	161.4 sec 
+Set (V): 		dev 
+ 
+Charice/2djfpVN_86k_0000001 34.0 38.1 
+Charice/2djfpVN_86k_0000002 69.0 75.4 
+Charice/2djfpVN_86k_0000003 97.6 102.1 
+Charice/2djfpVN_86k_0000004 116.8 127.3 
+Charice/2djfpVN_86k_0000005 142.8 147.4 

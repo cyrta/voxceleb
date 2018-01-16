@@ -1,0 +1,21 @@
+POI: 			Molly_Shannon 
+Youtube ID: 	n_OWWyfyyo4 
+Video length: 	328.8 sec 
+Set (V): 		dev 
+ 
+Molly_Shannon/n_OWWyfyyo4_0000001 19.1 23.4 
+Molly_Shannon/n_OWWyfyyo4_0000002 30.0 45.9 
+Molly_Shannon/n_OWWyfyyo4_0000003 47.9 53.4 
+Molly_Shannon/n_OWWyfyyo4_0000004 54.2 59.7 
+Molly_Shannon/n_OWWyfyyo4_0000005 68.7 76.1 
+Molly_Shannon/n_OWWyfyyo4_0000006 77.0 81.9 
+Molly_Shannon/n_OWWyfyyo4_0000007 83.2 89.5 
+Molly_Shannon/n_OWWyfyyo4_0000008 90.7 101.9 
+Molly_Shannon/n_OWWyfyyo4_0000009 103.9 127.0 
+Molly_Shannon/n_OWWyfyyo4_0000010 127.8 137.1 
+Molly_Shannon/n_OWWyfyyo4_0000011 177.3 183.4 
+Molly_Shannon/n_OWWyfyyo4_0000012 185.8 191.9 
+Molly_Shannon/n_OWWyfyyo4_0000013 272.5 279.2 
+Molly_Shannon/n_OWWyfyyo4_0000014 286.1 294.9 
+Molly_Shannon/n_OWWyfyyo4_0000015 299.4 304.4 
+Molly_Shannon/n_OWWyfyyo4_0000016 306.3 312.6 

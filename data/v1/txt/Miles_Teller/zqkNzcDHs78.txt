@@ -1,0 +1,8 @@
+POI: 			Miles_Teller 
+Youtube ID: 	zqkNzcDHs78 
+Video length: 	208.1 sec 
+Set (V): 		dev 
+ 
+Miles_Teller/zqkNzcDHs78_0000001 32.4 37.8 
+Miles_Teller/zqkNzcDHs78_0000002 43.4 49.4 
+Miles_Teller/zqkNzcDHs78_0000003 99.7 114.2 

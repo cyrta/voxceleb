@@ -1,0 +1,11 @@
+POI: 			Sean_Maher 
+Youtube ID: 	_VWPQZ32j1o 
+Video length: 	153.3 sec 
+Set (V): 		dev 
+ 
+Sean_Maher/_VWPQZ32j1o_0000001 15.5 22.6 
+Sean_Maher/_VWPQZ32j1o_0000002 33.4 41.4 
+Sean_Maher/_VWPQZ32j1o_0000003 49.8 63.9 
+Sean_Maher/_VWPQZ32j1o_0000004 72.9 77.0 
+Sean_Maher/_VWPQZ32j1o_0000005 77.3 90.9 
+Sean_Maher/_VWPQZ32j1o_0000006 92.9 104.0 

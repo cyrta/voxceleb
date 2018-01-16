@@ -1,0 +1,19 @@
+POI: 			David_Wenham 
+Youtube ID: 	xcTMbEHfB34 
+Video length: 	290.1 sec 
+Set (V): 		dev 
+ 
+David_Wenham/xcTMbEHfB34_0000001 15.8 20.1 
+David_Wenham/xcTMbEHfB34_0000002 40.3 46.0 
+David_Wenham/xcTMbEHfB34_0000003 24.1 32.9 
+David_Wenham/xcTMbEHfB34_0000004 54.0 70.9 
+David_Wenham/xcTMbEHfB34_0000005 92.4 97.9 
+David_Wenham/xcTMbEHfB34_0000006 104.0 114.4 
+David_Wenham/xcTMbEHfB34_0000007 115.2 120.3 
+David_Wenham/xcTMbEHfB34_0000008 161.2 168.6 
+David_Wenham/xcTMbEHfB34_0000009 193.1 202.4 
+David_Wenham/xcTMbEHfB34_0000010 203.1 208.0 
+David_Wenham/xcTMbEHfB34_0000011 210.6 223.6 
+David_Wenham/xcTMbEHfB34_0000012 250.0 265.1 
+David_Wenham/xcTMbEHfB34_0000013 266.1 271.0 
+David_Wenham/xcTMbEHfB34_0000014 276.6 288.6 

@@ -1,0 +1,10 @@
+POI: 			Rade_Serbedzija 
+Youtube ID: 	ZDviiSfBfkA 
+Video length: 	993.8 sec 
+Set (V): 		dev 
+ 
+Rade_Serbedzija/ZDviiSfBfkA_0000001 85.8 91.6 
+Rade_Serbedzija/ZDviiSfBfkA_0000002 115.7 121.4 
+Rade_Serbedzija/ZDviiSfBfkA_0000003 184.8 191.8 
+Rade_Serbedzija/ZDviiSfBfkA_0000004 447.6 452.2 
+Rade_Serbedzija/ZDviiSfBfkA_0000005 597.1 602.6 

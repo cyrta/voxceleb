@@ -1,0 +1,13 @@
+POI: 			Christian_Kane 
+Youtube ID: 	h1DMAOVZ88o 
+Video length: 	283.2 sec 
+Set (V): 		dev 
+ 
+Christian_Kane/h1DMAOVZ88o_0000001 23.2 28.8 
+Christian_Kane/h1DMAOVZ88o_0000002 62.1 74.0 
+Christian_Kane/h1DMAOVZ88o_0000003 83.7 88.1 
+Christian_Kane/h1DMAOVZ88o_0000004 148.7 162.2 
+Christian_Kane/h1DMAOVZ88o_0000005 172.4 184.5 
+Christian_Kane/h1DMAOVZ88o_0000006 195.9 204.0 
+Christian_Kane/h1DMAOVZ88o_0000007 213.0 218.1 
+Christian_Kane/h1DMAOVZ88o_0000008 240.3 248.5 

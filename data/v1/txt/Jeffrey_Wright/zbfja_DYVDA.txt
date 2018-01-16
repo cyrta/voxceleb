@@ -1,0 +1,12 @@
+POI: 			Jeffrey_Wright 
+Youtube ID: 	zbfja_DYVDA 
+Video length: 	302.6 sec 
+Set (V): 		dev 
+ 
+Jeffrey_Wright/zbfja_DYVDA_0000001 28.0 34.6 
+Jeffrey_Wright/zbfja_DYVDA_0000002 207.2 214.2 
+Jeffrey_Wright/zbfja_DYVDA_0000003 219.2 225.6 
+Jeffrey_Wright/zbfja_DYVDA_0000004 233.2 240.5 
+Jeffrey_Wright/zbfja_DYVDA_0000005 250.8 255.2 
+Jeffrey_Wright/zbfja_DYVDA_0000006 256.2 261.0 
+Jeffrey_Wright/zbfja_DYVDA_0000007 261.6 269.4 

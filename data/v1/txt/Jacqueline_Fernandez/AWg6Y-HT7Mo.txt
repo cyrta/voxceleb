@@ -1,0 +1,11 @@
+POI: 			Jacqueline_Fernandez 
+Youtube ID: 	AWg6Y-HT7Mo 
+Video length: 	1062.3 sec 
+Set (V): 		dev 
+ 
+Jacqueline_Fernandez/AWg6Y-HT7Mo_0000001 486.4 491.1 
+Jacqueline_Fernandez/AWg6Y-HT7Mo_0000002 495.3 500.0 
+Jacqueline_Fernandez/AWg6Y-HT7Mo_0000003 581.3 587.8 
+Jacqueline_Fernandez/AWg6Y-HT7Mo_0000004 589.7 593.9 
+Jacqueline_Fernandez/AWg6Y-HT7Mo_0000005 594.8 599.0 
+Jacqueline_Fernandez/AWg6Y-HT7Mo_0000006 600.1 610.2 

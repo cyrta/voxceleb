@@ -1,0 +1,7 @@
+POI: 			John_Terry 
+Youtube ID: 	w_Gj8NHu-6g 
+Video length: 	132.3 sec 
+Set (V): 		dev 
+ 
+John_Terry/w_Gj8NHu-6g_0000001 76.5 81.3 
+John_Terry/w_Gj8NHu-6g_0000002 84.3 89.6 

@@ -1,0 +1,7 @@
+POI: 			Edward_Asner 
+Youtube ID: 	qN6dBTlT3HA 
+Video length: 	102.9 sec 
+Set (V): 		test 
+ 
+Edward_Asner/qN6dBTlT3HA_0000001 17.9 22.8 
+Edward_Asner/qN6dBTlT3HA_0000002 23.1 28.2 

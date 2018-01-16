@@ -1,0 +1,10 @@
+POI: 			Steven_Bauer 
+Youtube ID: 	6cbEpNs1W8o 
+Video length: 	453.5 sec 
+Set (V): 		dev 
+ 
+Steven_Bauer/6cbEpNs1W8o_0000001 188.3 193.2 
+Steven_Bauer/6cbEpNs1W8o_0000002 267.0 272.3 
+Steven_Bauer/6cbEpNs1W8o_0000003 296.0 301.8 
+Steven_Bauer/6cbEpNs1W8o_0000004 318.2 324.5 
+Steven_Bauer/6cbEpNs1W8o_0000005 346.8 352.2 

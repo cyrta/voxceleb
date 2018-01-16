@@ -1,0 +1,9 @@
+POI: 			Daniel_Tosh 
+Youtube ID: 	xzfn0rlRpKM 
+Video length: 	508.9 sec 
+Set (V): 		dev 
+ 
+Daniel_Tosh/xzfn0rlRpKM_0000001 30.8 58.6 
+Daniel_Tosh/xzfn0rlRpKM_0000002 60.6 81.7 
+Daniel_Tosh/xzfn0rlRpKM_0000003 83.7 90.0 
+Daniel_Tosh/xzfn0rlRpKM_0000004 492.7 497.6 

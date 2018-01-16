@@ -1,0 +1,8 @@
+POI: 			Ingrid_Bergman 
+Youtube ID: 	qrSxlzD_sbs 
+Video length: 	5960.6 sec 
+Set (V): 		dev 
+ 
+Ingrid_Bergman/qrSxlzD_sbs_0000001 1125.9 1130.5 
+Ingrid_Bergman/qrSxlzD_sbs_0000002 2821.9 2828.1 
+Ingrid_Bergman/qrSxlzD_sbs_0000003 3839.0 3843.0 

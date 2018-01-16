@@ -1,0 +1,9 @@
+POI: 			Candice_Accola 
+Youtube ID: 	jpIpGj2Bims 
+Video length: 	546.3 sec 
+Set (V): 		dev 
+ 
+Candice_Accola/jpIpGj2Bims_0000001 172.7 180.1 
+Candice_Accola/jpIpGj2Bims_0000002 180.4 185.4 
+Candice_Accola/jpIpGj2Bims_0000003 304.2 310.6 
+Candice_Accola/jpIpGj2Bims_0000004 479.8 488.1 

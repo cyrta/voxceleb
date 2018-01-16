@@ -1,0 +1,22 @@
+POI: 			Randolph_Mantooth 
+Youtube ID: 	eELjbIq21Ok 
+Video length: 	345.9 sec 
+Set (V): 		dev 
+ 
+Randolph_Mantooth/eELjbIq21Ok_0000001 06.4 12.2 
+Randolph_Mantooth/eELjbIq21Ok_0000002 13.2 42.9 
+Randolph_Mantooth/eELjbIq21Ok_0000003 44.9 54.9 
+Randolph_Mantooth/eELjbIq21Ok_0000004 55.0 68.4 
+Randolph_Mantooth/eELjbIq21Ok_0000005 72.2 76.5 
+Randolph_Mantooth/eELjbIq21Ok_0000006 77.5 85.6 
+Randolph_Mantooth/eELjbIq21Ok_0000007 87.9 92.6 
+Randolph_Mantooth/eELjbIq21Ok_0000008 128.9 136.3 
+Randolph_Mantooth/eELjbIq21Ok_0000009 138.4 145.2 
+Randolph_Mantooth/eELjbIq21Ok_0000010 148.9 158.4 
+Randolph_Mantooth/eELjbIq21Ok_0000011 246.5 260.3 
+Randolph_Mantooth/eELjbIq21Ok_0000012 276.6 283.8 
+Randolph_Mantooth/eELjbIq21Ok_0000013 285.5 293.3 
+Randolph_Mantooth/eELjbIq21Ok_0000014 298.8 303.7 
+Randolph_Mantooth/eELjbIq21Ok_0000015 312.7 316.8 
+Randolph_Mantooth/eELjbIq21Ok_0000016 317.1 327.3 
+Randolph_Mantooth/eELjbIq21Ok_0000017 327.7 336.2 

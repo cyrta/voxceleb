@@ -1,0 +1,19 @@
+POI: 			Lisa_Kudrow 
+Youtube ID: 	mOr8LLXam_s 
+Video length: 	206.1 sec 
+Set (V): 		dev 
+ 
+Lisa_Kudrow/mOr8LLXam_s_0000001 05.9 11.8 
+Lisa_Kudrow/mOr8LLXam_s_0000002 12.6 16.6 
+Lisa_Kudrow/mOr8LLXam_s_0000003 21.4 30.5 
+Lisa_Kudrow/mOr8LLXam_s_0000004 32.6 57.0 
+Lisa_Kudrow/mOr8LLXam_s_0000005 66.7 78.3 
+Lisa_Kudrow/mOr8LLXam_s_0000006 84.9 91.8 
+Lisa_Kudrow/mOr8LLXam_s_0000007 96.8 104.8 
+Lisa_Kudrow/mOr8LLXam_s_0000008 106.2 114.6 
+Lisa_Kudrow/mOr8LLXam_s_0000009 117.1 121.6 
+Lisa_Kudrow/mOr8LLXam_s_0000010 122.5 128.7 
+Lisa_Kudrow/mOr8LLXam_s_0000011 136.4 143.7 
+Lisa_Kudrow/mOr8LLXam_s_0000012 145.5 154.1 
+Lisa_Kudrow/mOr8LLXam_s_0000013 156.1 160.3 
+Lisa_Kudrow/mOr8LLXam_s_0000014 172.4 177.4 

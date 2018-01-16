@@ -1,0 +1,14 @@
+POI: 			Alex_Pettyfer 
+Youtube ID: 	3Xt_-rRgQu8 
+Video length: 	310.3 sec 
+Set (V): 		dev 
+ 
+Alex_Pettyfer/3Xt_-rRgQu8_0000001 13.7 21.1 
+Alex_Pettyfer/3Xt_-rRgQu8_0000002 21.3 28.1 
+Alex_Pettyfer/3Xt_-rRgQu8_0000003 139.8 146.0 
+Alex_Pettyfer/3Xt_-rRgQu8_0000004 147.4 151.4 
+Alex_Pettyfer/3Xt_-rRgQu8_0000005 160.7 168.6 
+Alex_Pettyfer/3Xt_-rRgQu8_0000006 203.2 214.7 
+Alex_Pettyfer/3Xt_-rRgQu8_0000007 215.7 220.6 
+Alex_Pettyfer/3Xt_-rRgQu8_0000008 237.2 243.0 
+Alex_Pettyfer/3Xt_-rRgQu8_0000009 254.4 269.0 

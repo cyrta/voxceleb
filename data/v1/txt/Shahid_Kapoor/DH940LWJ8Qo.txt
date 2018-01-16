@@ -1,0 +1,8 @@
+POI: 			Shahid_Kapoor 
+Youtube ID: 	DH940LWJ8Qo 
+Video length: 	404.6 sec 
+Set (V): 		dev 
+ 
+Shahid_Kapoor/DH940LWJ8Qo_0000001 245.3 250.1 
+Shahid_Kapoor/DH940LWJ8Qo_0000002 334.8 339.8 
+Shahid_Kapoor/DH940LWJ8Qo_0000003 344.6 351.6 

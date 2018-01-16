@@ -1,0 +1,7 @@
+POI: 			Adam_Brody 
+Youtube ID: 	Sw8HigpvVsg 
+Video length: 	607.0 sec 
+Set (V): 		dev 
+ 
+Adam_Brody/Sw8HigpvVsg_0000001 580.8 585.0 
+Adam_Brody/Sw8HigpvVsg_0000002 586.0 591.9 

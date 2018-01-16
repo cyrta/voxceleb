@@ -1,0 +1,8 @@
+POI: 			Shailene_Woodley 
+Youtube ID: 	NtXt9ujpfKw 
+Video length: 	100.2 sec 
+Set (V): 		dev 
+ 
+Shailene_Woodley/NtXt9ujpfKw_0000001 50.7 62.7 
+Shailene_Woodley/NtXt9ujpfKw_0000002 63.9 70.3 
+Shailene_Woodley/NtXt9ujpfKw_0000003 92.4 98.2 

@@ -1,0 +1,9 @@
+POI: 			Maria_Menounos 
+Youtube ID: 	Wk5siG4Ks6g 
+Video length: 	1464.8 sec 
+Set (V): 		dev 
+ 
+Maria_Menounos/Wk5siG4Ks6g_0000001 278.3 283.1 
+Maria_Menounos/Wk5siG4Ks6g_0000002 400.6 405.9 
+Maria_Menounos/Wk5siG4Ks6g_0000003 991.9 1002.9 
+Maria_Menounos/Wk5siG4Ks6g_0000004 1345.8 1350.0 

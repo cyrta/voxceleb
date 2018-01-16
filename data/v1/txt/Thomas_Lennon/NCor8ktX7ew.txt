@@ -1,0 +1,7 @@
+POI: 			Thomas_Lennon 
+Youtube ID: 	NCor8ktX7ew 
+Video length: 	363.1 sec 
+Set (V): 		dev 
+ 
+Thomas_Lennon/NCor8ktX7ew_0000001 134.3 138.3 
+Thomas_Lennon/NCor8ktX7ew_0000002 157.2 162.6 

@@ -1,0 +1,14 @@
+POI: 			Zachary_Levi 
+Youtube ID: 	lZVCswKupNQ 
+Video length: 	315.0 sec 
+Set (V): 		dev 
+ 
+Zachary_Levi/lZVCswKupNQ_0000001 05.1 12.2 
+Zachary_Levi/lZVCswKupNQ_0000002 31.4 38.1 
+Zachary_Levi/lZVCswKupNQ_0000003 202.0 216.3 
+Zachary_Levi/lZVCswKupNQ_0000004 224.4 229.1 
+Zachary_Levi/lZVCswKupNQ_0000005 229.8 237.3 
+Zachary_Levi/lZVCswKupNQ_0000006 239.1 244.6 
+Zachary_Levi/lZVCswKupNQ_0000007 256.7 285.4 
+Zachary_Levi/lZVCswKupNQ_0000008 285.9 293.3 
+Zachary_Levi/lZVCswKupNQ_0000009 293.6 306.8 

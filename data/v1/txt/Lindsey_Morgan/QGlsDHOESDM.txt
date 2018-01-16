@@ -1,0 +1,8 @@
+POI: 			Lindsey_Morgan 
+Youtube ID: 	QGlsDHOESDM 
+Video length: 	323.2 sec 
+Set (V): 		dev 
+ 
+Lindsey_Morgan/QGlsDHOESDM_0000001 245.2 250.8 
+Lindsey_Morgan/QGlsDHOESDM_0000002 253.6 259.0 
+Lindsey_Morgan/QGlsDHOESDM_0000003 271.8 277.9 

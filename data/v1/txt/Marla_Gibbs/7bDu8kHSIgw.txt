@@ -1,0 +1,11 @@
+POI: 			Marla_Gibbs 
+Youtube ID: 	7bDu8kHSIgw 
+Video length: 	119.5 sec 
+Set (V): 		dev 
+ 
+Marla_Gibbs/7bDu8kHSIgw_0000001 10.8 19.6 
+Marla_Gibbs/7bDu8kHSIgw_0000002 28.7 39.5 
+Marla_Gibbs/7bDu8kHSIgw_0000003 50.8 65.6 
+Marla_Gibbs/7bDu8kHSIgw_0000004 66.4 76.4 
+Marla_Gibbs/7bDu8kHSIgw_0000005 80.8 95.4 
+Marla_Gibbs/7bDu8kHSIgw_0000006 105.4 110.3 

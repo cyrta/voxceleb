@@ -1,0 +1,9 @@
+POI: 			Viggo_Mortensen 
+Youtube ID: 	dWexFvaC5n4 
+Video length: 	365.7 sec 
+Set (V): 		dev 
+ 
+Viggo_Mortensen/dWexFvaC5n4_0000001 32.7 37.1 
+Viggo_Mortensen/dWexFvaC5n4_0000002 97.8 102.1 
+Viggo_Mortensen/dWexFvaC5n4_0000003 217.8 222.8 
+Viggo_Mortensen/dWexFvaC5n4_0000004 315.2 322.2 

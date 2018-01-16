@@ -1,0 +1,7 @@
+POI: 			Cassandra_Peterson 
+Youtube ID: 	p1xsU2skJpY 
+Video length: 	276.4 sec 
+Set (V): 		dev 
+ 
+Cassandra_Peterson/p1xsU2skJpY_0000001 46.2 51.6 
+Cassandra_Peterson/p1xsU2skJpY_0000002 96.1 102.4 

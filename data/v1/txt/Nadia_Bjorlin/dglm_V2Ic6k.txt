@@ -1,0 +1,8 @@
+POI: 			Nadia_Bjorlin 
+Youtube ID: 	dglm_V2Ic6k 
+Video length: 	112.4 sec 
+Set (V): 		dev 
+ 
+Nadia_Bjorlin/dglm_V2Ic6k_0000001 33.1 38.9 
+Nadia_Bjorlin/dglm_V2Ic6k_0000002 40.8 47.5 
+Nadia_Bjorlin/dglm_V2Ic6k_0000003 48.6 53.0 

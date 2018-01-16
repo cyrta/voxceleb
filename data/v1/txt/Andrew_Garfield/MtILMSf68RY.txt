@@ -1,0 +1,19 @@
+POI: 			Andrew_Garfield 
+Youtube ID: 	MtILMSf68RY 
+Video length: 	230.5 sec 
+Set (V): 		dev 
+ 
+Andrew_Garfield/MtILMSf68RY_0000001 10.6 19.1 
+Andrew_Garfield/MtILMSf68RY_0000002 32.3 44.0 
+Andrew_Garfield/MtILMSf68RY_0000003 44.4 49.2 
+Andrew_Garfield/MtILMSf68RY_0000004 67.1 72.9 
+Andrew_Garfield/MtILMSf68RY_0000005 86.0 92.5 
+Andrew_Garfield/MtILMSf68RY_0000006 99.7 111.1 
+Andrew_Garfield/MtILMSf68RY_0000007 120.4 139.0 
+Andrew_Garfield/MtILMSf68RY_0000008 139.8 145.1 
+Andrew_Garfield/MtILMSf68RY_0000009 158.2 164.5 
+Andrew_Garfield/MtILMSf68RY_0000010 165.5 171.6 
+Andrew_Garfield/MtILMSf68RY_0000011 175.0 179.8 
+Andrew_Garfield/MtILMSf68RY_0000012 191.4 195.8 
+Andrew_Garfield/MtILMSf68RY_0000013 196.2 201.1 
+Andrew_Garfield/MtILMSf68RY_0000014 201.6 208.0 

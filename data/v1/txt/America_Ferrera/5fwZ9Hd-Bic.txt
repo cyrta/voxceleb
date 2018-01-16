@@ -1,0 +1,7 @@
+POI: 			America_Ferrera 
+Youtube ID: 	5fwZ9Hd-Bic 
+Video length: 	237.8 sec 
+Set (V): 		dev 
+ 
+America_Ferrera/5fwZ9Hd-Bic_0000001 65.2 70.0 
+America_Ferrera/5fwZ9Hd-Bic_0000002 128.0 133.5 

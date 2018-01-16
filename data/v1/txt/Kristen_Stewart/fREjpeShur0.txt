@@ -1,0 +1,17 @@
+POI: 			Kristen_Stewart 
+Youtube ID: 	fREjpeShur0 
+Video length: 	360.4 sec 
+Set (V): 		dev 
+ 
+Kristen_Stewart/fREjpeShur0_0000001 31.6 36.9 
+Kristen_Stewart/fREjpeShur0_0000002 65.9 73.8 
+Kristen_Stewart/fREjpeShur0_0000003 123.1 129.4 
+Kristen_Stewart/fREjpeShur0_0000004 153.1 166.2 
+Kristen_Stewart/fREjpeShur0_0000005 192.2 202.0 
+Kristen_Stewart/fREjpeShur0_0000006 203.0 207.8 
+Kristen_Stewart/fREjpeShur0_0000007 233.3 239.9 
+Kristen_Stewart/fREjpeShur0_0000008 275.8 282.3 
+Kristen_Stewart/fREjpeShur0_0000009 292.9 296.9 
+Kristen_Stewart/fREjpeShur0_0000010 323.8 330.6 
+Kristen_Stewart/fREjpeShur0_0000011 332.9 342.0 
+Kristen_Stewart/fREjpeShur0_0000012 342.9 351.8 

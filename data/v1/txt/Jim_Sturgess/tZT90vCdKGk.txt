@@ -1,0 +1,8 @@
+POI: 			Jim_Sturgess 
+Youtube ID: 	tZT90vCdKGk 
+Video length: 	58.4 sec 
+Set (V): 		dev 
+ 
+Jim_Sturgess/tZT90vCdKGk_0000001 08.1 14.2 
+Jim_Sturgess/tZT90vCdKGk_0000002 17.0 24.5 
+Jim_Sturgess/tZT90vCdKGk_0000003 37.2 41.5 

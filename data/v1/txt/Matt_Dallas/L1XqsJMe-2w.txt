@@ -1,0 +1,7 @@
+POI: 			Matt_Dallas 
+Youtube ID: 	L1XqsJMe-2w 
+Video length: 	209.8 sec 
+Set (V): 		dev 
+ 
+Matt_Dallas/L1XqsJMe-2w_0000001 29.9 47.6 
+Matt_Dallas/L1XqsJMe-2w_0000002 95.7 120.1 

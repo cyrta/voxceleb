@@ -1,0 +1,15 @@
+POI: 			Dawn_Wells 
+Youtube ID: 	q2AlqRjtUpc 
+Video length: 	184.7 sec 
+Set (V): 		dev 
+ 
+Dawn_Wells/q2AlqRjtUpc_0000001 22.4 29.6 
+Dawn_Wells/q2AlqRjtUpc_0000002 33.9 45.7 
+Dawn_Wells/q2AlqRjtUpc_0000003 54.9 66.0 
+Dawn_Wells/q2AlqRjtUpc_0000004 68.2 75.3 
+Dawn_Wells/q2AlqRjtUpc_0000005 78.0 82.5 
+Dawn_Wells/q2AlqRjtUpc_0000006 93.9 104.6 
+Dawn_Wells/q2AlqRjtUpc_0000007 112.0 131.0 
+Dawn_Wells/q2AlqRjtUpc_0000008 136.0 140.9 
+Dawn_Wells/q2AlqRjtUpc_0000009 142.3 159.0 
+Dawn_Wells/q2AlqRjtUpc_0000010 171.4 180.2 

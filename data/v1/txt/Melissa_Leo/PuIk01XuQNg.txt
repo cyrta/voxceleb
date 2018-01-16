@@ -1,0 +1,18 @@
+POI: 			Melissa_Leo 
+Youtube ID: 	PuIk01XuQNg 
+Video length: 	241.4 sec 
+Set (V): 		dev 
+ 
+Melissa_Leo/PuIk01XuQNg_0000001 12.7 31.6 
+Melissa_Leo/PuIk01XuQNg_0000002 31.8 38.1 
+Melissa_Leo/PuIk01XuQNg_0000003 38.3 44.1 
+Melissa_Leo/PuIk01XuQNg_0000004 56.0 62.5 
+Melissa_Leo/PuIk01XuQNg_0000005 63.0 69.0 
+Melissa_Leo/PuIk01XuQNg_0000006 69.2 85.8 
+Melissa_Leo/PuIk01XuQNg_0000007 86.8 93.2 
+Melissa_Leo/PuIk01XuQNg_0000008 101.3 119.6 
+Melissa_Leo/PuIk01XuQNg_0000009 121.0 149.8 
+Melissa_Leo/PuIk01XuQNg_0000010 170.3 177.2 
+Melissa_Leo/PuIk01XuQNg_0000011 178.8 195.1 
+Melissa_Leo/PuIk01XuQNg_0000012 200.1 205.2 
+Melissa_Leo/PuIk01XuQNg_0000013 221.7 227.2 

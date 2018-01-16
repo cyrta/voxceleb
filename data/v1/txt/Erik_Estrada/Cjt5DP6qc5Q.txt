@@ -1,0 +1,12 @@
+POI: 			Erik_Estrada 
+Youtube ID: 	Cjt5DP6qc5Q 
+Video length: 	314.2 sec 
+Set (V): 		test 
+ 
+Erik_Estrada/Cjt5DP6qc5Q_0000001 26.4 88.3 
+Erik_Estrada/Cjt5DP6qc5Q_0000002 202.4 207.0 
+Erik_Estrada/Cjt5DP6qc5Q_0000003 208.3 215.5 
+Erik_Estrada/Cjt5DP6qc5Q_0000004 216.4 228.2 
+Erik_Estrada/Cjt5DP6qc5Q_0000005 237.3 241.9 
+Erik_Estrada/Cjt5DP6qc5Q_0000006 243.2 269.6 
+Erik_Estrada/Cjt5DP6qc5Q_0000007 271.6 287.2 

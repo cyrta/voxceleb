@@ -1,0 +1,14 @@
+POI: 			Jack_Reynor 
+Youtube ID: 	LP6Sc2leo-M 
+Video length: 	826.3 sec 
+Set (V): 		dev 
+ 
+Jack_Reynor/LP6Sc2leo-M_0000001 593.2 597.3 
+Jack_Reynor/LP6Sc2leo-M_0000002 598.3 603.0 
+Jack_Reynor/LP6Sc2leo-M_0000003 627.3 635.3 
+Jack_Reynor/LP6Sc2leo-M_0000004 635.5 641.2 
+Jack_Reynor/LP6Sc2leo-M_0000005 642.2 647.5 
+Jack_Reynor/LP6Sc2leo-M_0000006 648.4 660.0 
+Jack_Reynor/LP6Sc2leo-M_0000007 774.1 778.2 
+Jack_Reynor/LP6Sc2leo-M_0000008 778.8 786.6 
+Jack_Reynor/LP6Sc2leo-M_0000009 793.0 799.0 

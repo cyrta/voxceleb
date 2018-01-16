@@ -1,0 +1,16 @@
+POI: 			Naomie_Harris 
+Youtube ID: 	LzYpwqWBKTM 
+Video length: 	284.1 sec 
+Set (V): 		dev 
+ 
+Naomie_Harris/LzYpwqWBKTM_0000001 09.3 27.2 
+Naomie_Harris/LzYpwqWBKTM_0000002 37.2 49.0 
+Naomie_Harris/LzYpwqWBKTM_0000003 59.9 82.4 
+Naomie_Harris/LzYpwqWBKTM_0000004 92.6 113.9 
+Naomie_Harris/LzYpwqWBKTM_0000005 123.5 144.3 
+Naomie_Harris/LzYpwqWBKTM_0000006 144.7 160.3 
+Naomie_Harris/LzYpwqWBKTM_0000007 169.2 176.8 
+Naomie_Harris/LzYpwqWBKTM_0000008 193.2 208.0 
+Naomie_Harris/LzYpwqWBKTM_0000009 221.8 231.7 
+Naomie_Harris/LzYpwqWBKTM_0000010 236.4 243.7 
+Naomie_Harris/LzYpwqWBKTM_0000011 258.6 275.6 

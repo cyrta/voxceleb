@@ -1,0 +1,10 @@
+POI: 			Bridget_Moynahan 
+Youtube ID: 	NfEdwM9UrkQ 
+Video length: 	353.1 sec 
+Set (V): 		dev 
+ 
+Bridget_Moynahan/NfEdwM9UrkQ_0000001 25.7 30.8 
+Bridget_Moynahan/NfEdwM9UrkQ_0000002 49.6 55.4 
+Bridget_Moynahan/NfEdwM9UrkQ_0000003 170.7 174.8 
+Bridget_Moynahan/NfEdwM9UrkQ_0000004 168.2 175.7 
+Bridget_Moynahan/NfEdwM9UrkQ_0000005 275.1 279.7 

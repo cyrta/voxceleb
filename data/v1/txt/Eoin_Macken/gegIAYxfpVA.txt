@@ -1,0 +1,13 @@
+POI: 			Eoin_Macken 
+Youtube ID: 	gegIAYxfpVA 
+Video length: 	1425.2 sec 
+Set (V): 		test 
+ 
+Eoin_Macken/gegIAYxfpVA_0000001 449.1 458.0 
+Eoin_Macken/gegIAYxfpVA_0000002 522.5 528.5 
+Eoin_Macken/gegIAYxfpVA_0000003 619.9 625.9 
+Eoin_Macken/gegIAYxfpVA_0000004 703.7 707.8 
+Eoin_Macken/gegIAYxfpVA_0000005 809.1 813.7 
+Eoin_Macken/gegIAYxfpVA_0000006 819.0 824.6 
+Eoin_Macken/gegIAYxfpVA_0000007 885.1 891.0 
+Eoin_Macken/gegIAYxfpVA_0000008 1101.3 1110.4 

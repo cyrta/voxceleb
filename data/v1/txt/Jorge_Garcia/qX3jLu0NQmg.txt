@@ -1,0 +1,12 @@
+POI: 			Jorge_Garcia 
+Youtube ID: 	qX3jLu0NQmg 
+Video length: 	513.1 sec 
+Set (V): 		dev 
+ 
+Jorge_Garcia/qX3jLu0NQmg_0000001 30.2 34.4 
+Jorge_Garcia/qX3jLu0NQmg_0000002 193.4 199.0 
+Jorge_Garcia/qX3jLu0NQmg_0000003 199.7 204.4 
+Jorge_Garcia/qX3jLu0NQmg_0000004 216.6 222.5 
+Jorge_Garcia/qX3jLu0NQmg_0000005 263.1 267.7 
+Jorge_Garcia/qX3jLu0NQmg_0000006 383.1 387.8 
+Jorge_Garcia/qX3jLu0NQmg_0000007 493.7 502.0 

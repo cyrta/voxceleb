@@ -1,0 +1,18 @@
+POI: 			Alain_Delon 
+Youtube ID: 	2vSPFNQoKmk 
+Video length: 	246.9 sec 
+Set (V): 		dev 
+ 
+Alain_Delon/2vSPFNQoKmk_0000001 46.6 54.9 
+Alain_Delon/2vSPFNQoKmk_0000002 59.3 65.2 
+Alain_Delon/2vSPFNQoKmk_0000003 77.6 82.9 
+Alain_Delon/2vSPFNQoKmk_0000004 86.2 91.2 
+Alain_Delon/2vSPFNQoKmk_0000005 94.0 110.2 
+Alain_Delon/2vSPFNQoKmk_0000006 130.0 137.9 
+Alain_Delon/2vSPFNQoKmk_0000007 149.7 156.5 
+Alain_Delon/2vSPFNQoKmk_0000008 157.6 167.4 
+Alain_Delon/2vSPFNQoKmk_0000009 167.9 172.8 
+Alain_Delon/2vSPFNQoKmk_0000010 182.8 187.1 
+Alain_Delon/2vSPFNQoKmk_0000011 200.7 217.2 
+Alain_Delon/2vSPFNQoKmk_0000012 227.8 232.8 
+Alain_Delon/2vSPFNQoKmk_0000013 233.1 239.9 

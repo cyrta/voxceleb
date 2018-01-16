@@ -1,0 +1,8 @@
+POI: 			Dougray_Scott 
+Youtube ID: 	rjc5sCkTSPU 
+Video length: 	161.9 sec 
+Set (V): 		dev 
+ 
+Dougray_Scott/rjc5sCkTSPU_0000001 38.6 44.3 
+Dougray_Scott/rjc5sCkTSPU_0000002 47.6 52.3 
+Dougray_Scott/rjc5sCkTSPU_0000003 131.7 143.2 

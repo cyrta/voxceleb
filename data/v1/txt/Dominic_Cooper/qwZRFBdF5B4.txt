@@ -1,0 +1,18 @@
+POI: 			Dominic_Cooper 
+Youtube ID: 	qwZRFBdF5B4 
+Video length: 	326.6 sec 
+Set (V): 		dev 
+ 
+Dominic_Cooper/qwZRFBdF5B4_0000001 40.9 48.0 
+Dominic_Cooper/qwZRFBdF5B4_0000002 48.5 84.7 
+Dominic_Cooper/qwZRFBdF5B4_0000003 85.5 106.5 
+Dominic_Cooper/qwZRFBdF5B4_0000004 114.6 135.5 
+Dominic_Cooper/qwZRFBdF5B4_0000005 138.1 153.1 
+Dominic_Cooper/qwZRFBdF5B4_0000006 170.2 175.0 
+Dominic_Cooper/qwZRFBdF5B4_0000007 200.9 205.3 
+Dominic_Cooper/qwZRFBdF5B4_0000008 210.6 222.2 
+Dominic_Cooper/qwZRFBdF5B4_0000009 224.2 242.4 
+Dominic_Cooper/qwZRFBdF5B4_0000010 243.5 249.2 
+Dominic_Cooper/qwZRFBdF5B4_0000011 259.9 266.9 
+Dominic_Cooper/qwZRFBdF5B4_0000012 294.5 302.4 
+Dominic_Cooper/qwZRFBdF5B4_0000013 302.8 313.4 

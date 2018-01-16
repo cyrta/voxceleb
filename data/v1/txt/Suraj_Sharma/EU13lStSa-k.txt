@@ -1,0 +1,16 @@
+POI: 			Suraj_Sharma 
+Youtube ID: 	EU13lStSa-k 
+Video length: 	196.5 sec 
+Set (V): 		dev 
+ 
+Suraj_Sharma/EU13lStSa-k_0000001 14.3 19.4 
+Suraj_Sharma/EU13lStSa-k_0000002 20.0 33.8 
+Suraj_Sharma/EU13lStSa-k_0000003 36.5 57.0 
+Suraj_Sharma/EU13lStSa-k_0000004 94.0 101.0 
+Suraj_Sharma/EU13lStSa-k_0000005 101.8 107.2 
+Suraj_Sharma/EU13lStSa-k_0000006 108.5 117.2 
+Suraj_Sharma/EU13lStSa-k_0000007 117.9 125.0 
+Suraj_Sharma/EU13lStSa-k_0000008 146.5 159.9 
+Suraj_Sharma/EU13lStSa-k_0000009 167.4 172.5 
+Suraj_Sharma/EU13lStSa-k_0000010 174.8 179.2 
+Suraj_Sharma/EU13lStSa-k_0000011 182.1 190.1 

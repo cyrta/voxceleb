@@ -1,0 +1,11 @@
+POI: 			James_Woods 
+Youtube ID: 	ygowL_wxrv8 
+Video length: 	145.9 sec 
+Set (V): 		dev 
+ 
+James_Woods/ygowL_wxrv8_0000001 10.4 16.8 
+James_Woods/ygowL_wxrv8_0000002 19.3 25.0 
+James_Woods/ygowL_wxrv8_0000003 39.7 48.6 
+James_Woods/ygowL_wxrv8_0000004 53.7 62.3 
+James_Woods/ygowL_wxrv8_0000005 107.1 117.4 
+James_Woods/ygowL_wxrv8_0000006 120.4 128.2 

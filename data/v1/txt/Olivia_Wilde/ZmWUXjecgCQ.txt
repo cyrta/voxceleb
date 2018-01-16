@@ -1,0 +1,8 @@
+POI: 			Olivia_Wilde 
+Youtube ID: 	ZmWUXjecgCQ 
+Video length: 	163.0 sec 
+Set (V): 		dev 
+ 
+Olivia_Wilde/ZmWUXjecgCQ_0000001 26.8 35.8 
+Olivia_Wilde/ZmWUXjecgCQ_0000002 100.3 105.0 
+Olivia_Wilde/ZmWUXjecgCQ_0000003 114.1 118.5 

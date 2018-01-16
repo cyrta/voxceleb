@@ -1,0 +1,11 @@
+POI: 			Alan_Cumming 
+Youtube ID: 	N3FVJ2-J7V8 
+Video length: 	647.4 sec 
+Set (V): 		dev 
+ 
+Alan_Cumming/N3FVJ2-J7V8_0000001 57.8 62.1 
+Alan_Cumming/N3FVJ2-J7V8_0000002 94.7 99.2 
+Alan_Cumming/N3FVJ2-J7V8_0000003 128.2 132.3 
+Alan_Cumming/N3FVJ2-J7V8_0000004 387.1 391.0 
+Alan_Cumming/N3FVJ2-J7V8_0000005 391.6 397.8 
+Alan_Cumming/N3FVJ2-J7V8_0000006 403.6 411.9 

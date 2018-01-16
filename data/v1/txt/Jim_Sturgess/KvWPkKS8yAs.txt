@@ -1,0 +1,8 @@
+POI: 			Jim_Sturgess 
+Youtube ID: 	KvWPkKS8yAs 
+Video length: 	446.8 sec 
+Set (V): 		dev 
+ 
+Jim_Sturgess/KvWPkKS8yAs_0000001 386.0 391.3 
+Jim_Sturgess/KvWPkKS8yAs_0000002 421.3 426.1 
+Jim_Sturgess/KvWPkKS8yAs_0000003 427.2 431.5 

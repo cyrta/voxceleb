@@ -1,0 +1,13 @@
+POI: 			Noomi_Rapace 
+Youtube ID: 	y6JqTyx_eag 
+Video length: 	196.1 sec 
+Set (V): 		dev 
+ 
+Noomi_Rapace/y6JqTyx_eag_0000001 22.1 33.4 
+Noomi_Rapace/y6JqTyx_eag_0000002 89.2 93.4 
+Noomi_Rapace/y6JqTyx_eag_0000003 94.8 101.8 
+Noomi_Rapace/y6JqTyx_eag_0000004 110.7 116.6 
+Noomi_Rapace/y6JqTyx_eag_0000005 146.2 151.3 
+Noomi_Rapace/y6JqTyx_eag_0000006 151.7 158.6 
+Noomi_Rapace/y6JqTyx_eag_0000007 173.1 181.7 
+Noomi_Rapace/y6JqTyx_eag_0000008 183.4 188.3 

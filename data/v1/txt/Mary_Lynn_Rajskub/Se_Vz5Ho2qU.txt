@@ -1,0 +1,14 @@
+POI: 			Mary_Lynn_Rajskub 
+Youtube ID: 	Se_Vz5Ho2qU 
+Video length: 	293.7 sec 
+Set (V): 		dev 
+ 
+Mary_Lynn_Rajskub/Se_Vz5Ho2qU_0000001 43.2 47.5 
+Mary_Lynn_Rajskub/Se_Vz5Ho2qU_0000002 75.4 82.4 
+Mary_Lynn_Rajskub/Se_Vz5Ho2qU_0000003 85.7 90.2 
+Mary_Lynn_Rajskub/Se_Vz5Ho2qU_0000004 128.4 132.3 
+Mary_Lynn_Rajskub/Se_Vz5Ho2qU_0000005 132.5 136.9 
+Mary_Lynn_Rajskub/Se_Vz5Ho2qU_0000006 140.6 147.4 
+Mary_Lynn_Rajskub/Se_Vz5Ho2qU_0000007 166.4 177.6 
+Mary_Lynn_Rajskub/Se_Vz5Ho2qU_0000008 267.6 271.9 
+Mary_Lynn_Rajskub/Se_Vz5Ho2qU_0000009 276.1 284.2 

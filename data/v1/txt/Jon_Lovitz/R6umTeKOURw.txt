@@ -1,0 +1,8 @@
+POI: 			Jon_Lovitz 
+Youtube ID: 	R6umTeKOURw 
+Video length: 	74.6 sec 
+Set (V): 		dev 
+ 
+Jon_Lovitz/R6umTeKOURw_0000001 07.5 19.1 
+Jon_Lovitz/R6umTeKOURw_0000002 36.9 42.8 
+Jon_Lovitz/R6umTeKOURw_0000003 50.2 54.3 

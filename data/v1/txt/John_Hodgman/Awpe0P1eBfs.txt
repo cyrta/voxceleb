@@ -1,0 +1,8 @@
+POI: 			John_Hodgman 
+Youtube ID: 	Awpe0P1eBfs 
+Video length: 	58.8 sec 
+Set (V): 		dev 
+ 
+John_Hodgman/Awpe0P1eBfs_0000001 06.5 15.1 
+John_Hodgman/Awpe0P1eBfs_0000002 25.8 30.6 
+John_Hodgman/Awpe0P1eBfs_0000003 31.4 41.5 

@@ -1,0 +1,8 @@
+POI: 			Hector_Elizondo 
+Youtube ID: 	WYI7xs3EXPg 
+Video length: 	204.4 sec 
+Set (V): 		dev 
+ 
+Hector_Elizondo/WYI7xs3EXPg_0000001 42.6 48.1 
+Hector_Elizondo/WYI7xs3EXPg_0000002 55.6 64.2 
+Hector_Elizondo/WYI7xs3EXPg_0000003 76.5 81.7 

@@ -1,0 +1,7 @@
+POI: 			Olivia_Thirlby 
+Youtube ID: 	cB18fUbg6uE 
+Video length: 	150.9 sec 
+Set (V): 		dev 
+ 
+Olivia_Thirlby/cB18fUbg6uE_0000001 35.5 41.0 
+Olivia_Thirlby/cB18fUbg6uE_0000002 44.3 51.1 

@@ -1,0 +1,9 @@
+POI: 			Brian_Cox 
+Youtube ID: 	NKTohAvAAXM 
+Video length: 	420.4 sec 
+Set (V): 		dev 
+ 
+Brian_Cox/NKTohAvAAXM_0000001 130.0 136.7 
+Brian_Cox/NKTohAvAAXM_0000002 144.8 153.4 
+Brian_Cox/NKTohAvAAXM_0000003 225.2 230.8 
+Brian_Cox/NKTohAvAAXM_0000004 340.6 344.5 

@@ -1,0 +1,7 @@
+POI: 			John_Cho 
+Youtube ID: 	Fd-M3u1_roU 
+Video length: 	222.5 sec 
+Set (V): 		dev 
+ 
+John_Cho/Fd-M3u1_roU_0000001 134.9 141.3 
+John_Cho/Fd-M3u1_roU_0000002 184.8 194.4 

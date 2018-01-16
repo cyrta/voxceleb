@@ -1,0 +1,8 @@
+POI: 			Danny_McBride 
+Youtube ID: 	QPSUD4ujTpM 
+Video length: 	108.5 sec 
+Set (V): 		dev 
+ 
+Danny_McBride/QPSUD4ujTpM_0000001 26.0 29.9 
+Danny_McBride/QPSUD4ujTpM_0000002 67.1 76.1 
+Danny_McBride/QPSUD4ujTpM_0000003 83.9 88.0 

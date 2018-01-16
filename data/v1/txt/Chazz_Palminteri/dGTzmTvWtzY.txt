@@ -1,0 +1,15 @@
+POI: 			Chazz_Palminteri 
+Youtube ID: 	dGTzmTvWtzY 
+Video length: 	349.7 sec 
+Set (V): 		dev 
+ 
+Chazz_Palminteri/dGTzmTvWtzY_0000001 32.5 36.8 
+Chazz_Palminteri/dGTzmTvWtzY_0000002 52.4 58.2 
+Chazz_Palminteri/dGTzmTvWtzY_0000003 85.0 92.4 
+Chazz_Palminteri/dGTzmTvWtzY_0000004 123.7 131.2 
+Chazz_Palminteri/dGTzmTvWtzY_0000005 169.8 176.1 
+Chazz_Palminteri/dGTzmTvWtzY_0000006 249.0 253.0 
+Chazz_Palminteri/dGTzmTvWtzY_0000007 297.8 301.8 
+Chazz_Palminteri/dGTzmTvWtzY_0000008 305.8 310.8 
+Chazz_Palminteri/dGTzmTvWtzY_0000009 311.0 317.1 
+Chazz_Palminteri/dGTzmTvWtzY_0000010 318.1 323.6 

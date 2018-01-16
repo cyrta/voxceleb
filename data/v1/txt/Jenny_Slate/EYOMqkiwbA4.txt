@@ -1,0 +1,7 @@
+POI: 			Jenny_Slate 
+Youtube ID: 	EYOMqkiwbA4 
+Video length: 	256.8 sec 
+Set (V): 		dev 
+ 
+Jenny_Slate/EYOMqkiwbA4_0000001 129.6 134.8 
+Jenny_Slate/EYOMqkiwbA4_0000002 151.2 157.1 

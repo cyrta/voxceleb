@@ -1,0 +1,11 @@
+POI: 			Matt_Lanter 
+Youtube ID: 	ycc4u04n6J0 
+Video length: 	259.4 sec 
+Set (V): 		dev 
+ 
+Matt_Lanter/ycc4u04n6J0_0000001 69.7 76.9 
+Matt_Lanter/ycc4u04n6J0_0000002 77.1 86.1 
+Matt_Lanter/ycc4u04n6J0_0000003 86.7 103.1 
+Matt_Lanter/ycc4u04n6J0_0000004 104.4 115.3 
+Matt_Lanter/ycc4u04n6J0_0000005 159.0 169.1 
+Matt_Lanter/ycc4u04n6J0_0000006 170.1 190.0 

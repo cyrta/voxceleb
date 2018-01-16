@@ -1,0 +1,9 @@
+POI: 			Naseeruddin_Shah 
+Youtube ID: 	bezBfE_aCrI 
+Video length: 	316.2 sec 
+Set (V): 		dev 
+ 
+Naseeruddin_Shah/bezBfE_aCrI_0000001 76.3 84.3 
+Naseeruddin_Shah/bezBfE_aCrI_0000002 170.5 175.6 
+Naseeruddin_Shah/bezBfE_aCrI_0000003 236.6 241.2 
+Naseeruddin_Shah/bezBfE_aCrI_0000004 266.8 271.1 

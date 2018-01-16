@@ -1,0 +1,9 @@
+POI: 			Rooney_Mara 
+Youtube ID: 	3WbCiO-pmHY 
+Video length: 	425.7 sec 
+Set (V): 		dev 
+ 
+Rooney_Mara/3WbCiO-pmHY_0000001 109.7 120.7 
+Rooney_Mara/3WbCiO-pmHY_0000002 127.1 133.8 
+Rooney_Mara/3WbCiO-pmHY_0000003 151.1 156.5 
+Rooney_Mara/3WbCiO-pmHY_0000004 393.2 398.3 

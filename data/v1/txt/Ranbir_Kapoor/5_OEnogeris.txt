@@ -1,0 +1,12 @@
+POI: 			Ranbir_Kapoor 
+Youtube ID: 	5_OEnogeris 
+Video length: 	281.0 sec 
+Set (V): 		dev 
+ 
+Ranbir_Kapoor/5_OEnogeris_0000001 30.0 38.8 
+Ranbir_Kapoor/5_OEnogeris_0000002 39.3 47.6 
+Ranbir_Kapoor/5_OEnogeris_0000003 49.9 57.6 
+Ranbir_Kapoor/5_OEnogeris_0000004 94.1 99.7 
+Ranbir_Kapoor/5_OEnogeris_0000005 138.8 143.6 
+Ranbir_Kapoor/5_OEnogeris_0000006 233.4 238.0 
+Ranbir_Kapoor/5_OEnogeris_0000007 248.4 252.4 

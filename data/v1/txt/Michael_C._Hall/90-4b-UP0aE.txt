@@ -1,0 +1,20 @@
+POI: 			Michael_C._Hall 
+Youtube ID: 	90-4b-UP0aE 
+Video length: 	446.9 sec 
+Set (V): 		dev 
+ 
+Michael_C._Hall/90-4b-UP0aE_0000001 62.4 66.8 
+Michael_C._Hall/90-4b-UP0aE_0000002 67.9 73.1 
+Michael_C._Hall/90-4b-UP0aE_0000003 88.0 93.6 
+Michael_C._Hall/90-4b-UP0aE_0000004 104.6 111.4 
+Michael_C._Hall/90-4b-UP0aE_0000005 143.8 150.3 
+Michael_C._Hall/90-4b-UP0aE_0000006 184.8 188.8 
+Michael_C._Hall/90-4b-UP0aE_0000007 259.4 264.7 
+Michael_C._Hall/90-4b-UP0aE_0000008 272.3 277.2 
+Michael_C._Hall/90-4b-UP0aE_0000009 282.7 290.7 
+Michael_C._Hall/90-4b-UP0aE_0000010 306.0 318.6 
+Michael_C._Hall/90-4b-UP0aE_0000011 332.8 344.3 
+Michael_C._Hall/90-4b-UP0aE_0000012 346.6 354.6 
+Michael_C._Hall/90-4b-UP0aE_0000013 363.4 370.8 
+Michael_C._Hall/90-4b-UP0aE_0000014 399.2 405.3 
+Michael_C._Hall/90-4b-UP0aE_0000015 414.8 421.5 

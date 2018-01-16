@@ -1,0 +1,9 @@
+POI: 			Geri_Halliwell 
+Youtube ID: 	zdhIEIW8PSc 
+Video length: 	52.2 sec 
+Set (V): 		dev 
+ 
+Geri_Halliwell/zdhIEIW8PSc_0000001 00.7 22.4 
+Geri_Halliwell/zdhIEIW8PSc_0000002 24.3 36.9 
+Geri_Halliwell/zdhIEIW8PSc_0000003 38.8 45.5 
+Geri_Halliwell/zdhIEIW8PSc_0000004 45.9 50.6 

@@ -1,0 +1,8 @@
+POI: 			Rory_Kennedy 
+Youtube ID: 	VidJKVd_Ssw 
+Video length: 	124.3 sec 
+Set (V): 		dev 
+ 
+Rory_Kennedy/VidJKVd_Ssw_0000001 44.4 48.6 
+Rory_Kennedy/VidJKVd_Ssw_0000002 82.2 92.1 
+Rory_Kennedy/VidJKVd_Ssw_0000003 114.4 121.5 

@@ -1,0 +1,12 @@
+POI: 			Janina_Gavankar 
+Youtube ID: 	7btzAe15gEQ 
+Video length: 	396.7 sec 
+Set (V): 		dev 
+ 
+Janina_Gavankar/7btzAe15gEQ_0000001 28.3 32.9 
+Janina_Gavankar/7btzAe15gEQ_0000002 81.3 89.3 
+Janina_Gavankar/7btzAe15gEQ_0000003 90.2 94.4 
+Janina_Gavankar/7btzAe15gEQ_0000004 112.0 121.6 
+Janina_Gavankar/7btzAe15gEQ_0000005 122.2 133.8 
+Janina_Gavankar/7btzAe15gEQ_0000006 142.6 154.9 
+Janina_Gavankar/7btzAe15gEQ_0000007 175.9 182.4 

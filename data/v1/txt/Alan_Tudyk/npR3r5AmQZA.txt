@@ -1,0 +1,11 @@
+POI: 			Alan_Tudyk 
+Youtube ID: 	npR3r5AmQZA 
+Video length: 	183.2 sec 
+Set (V): 		dev 
+ 
+Alan_Tudyk/npR3r5AmQZA_0000001 95.9 100.7 
+Alan_Tudyk/npR3r5AmQZA_0000002 103.8 110.1 
+Alan_Tudyk/npR3r5AmQZA_0000003 112.2 116.6 
+Alan_Tudyk/npR3r5AmQZA_0000004 123.0 131.4 
+Alan_Tudyk/npR3r5AmQZA_0000005 134.8 139.6 
+Alan_Tudyk/npR3r5AmQZA_0000006 166.4 170.8 

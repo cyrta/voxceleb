@@ -1,0 +1,11 @@
+POI: 			Sam_Raimi 
+Youtube ID: 	M09F2ZYcGvE 
+Video length: 	119.6 sec 
+Set (V): 		dev 
+ 
+Sam_Raimi/M09F2ZYcGvE_0000001 05.8 11.4 
+Sam_Raimi/M09F2ZYcGvE_0000002 15.0 21.4 
+Sam_Raimi/M09F2ZYcGvE_0000003 28.6 39.8 
+Sam_Raimi/M09F2ZYcGvE_0000004 50.5 77.6 
+Sam_Raimi/M09F2ZYcGvE_0000005 87.4 96.3 
+Sam_Raimi/M09F2ZYcGvE_0000006 100.1 105.3 

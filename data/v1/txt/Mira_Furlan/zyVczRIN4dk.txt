@@ -1,0 +1,8 @@
+POI: 			Mira_Furlan 
+Youtube ID: 	zyVczRIN4dk 
+Video length: 	127.5 sec 
+Set (V): 		dev 
+ 
+Mira_Furlan/zyVczRIN4dk_0000001 19.3 26.1 
+Mira_Furlan/zyVczRIN4dk_0000002 39.2 49.3 
+Mira_Furlan/zyVczRIN4dk_0000003 112.4 117.4 

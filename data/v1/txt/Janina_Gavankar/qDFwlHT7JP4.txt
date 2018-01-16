@@ -1,0 +1,12 @@
+POI: 			Janina_Gavankar 
+Youtube ID: 	qDFwlHT7JP4 
+Video length: 	274.7 sec 
+Set (V): 		dev 
+ 
+Janina_Gavankar/qDFwlHT7JP4_0000001 55.9 60.7 
+Janina_Gavankar/qDFwlHT7JP4_0000002 55.8 61.8 
+Janina_Gavankar/qDFwlHT7JP4_0000003 89.0 99.8 
+Janina_Gavankar/qDFwlHT7JP4_0000004 146.6 150.9 
+Janina_Gavankar/qDFwlHT7JP4_0000005 151.4 157.4 
+Janina_Gavankar/qDFwlHT7JP4_0000006 208.2 219.9 
+Janina_Gavankar/qDFwlHT7JP4_0000007 250.0 256.2 

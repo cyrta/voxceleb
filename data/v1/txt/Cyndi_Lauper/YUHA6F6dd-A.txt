@@ -1,0 +1,7 @@
+POI: 			Cyndi_Lauper 
+Youtube ID: 	YUHA6F6dd-A 
+Video length: 	182.5 sec 
+Set (V): 		dev 
+ 
+Cyndi_Lauper/YUHA6F6dd-A_0000001 82.9 88.4 
+Cyndi_Lauper/YUHA6F6dd-A_0000002 124.2 128.9 

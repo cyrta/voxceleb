@@ -1,0 +1,7 @@
+POI: 			John_Lloyd_Young 
+Youtube ID: 	XaEuffOBFos 
+Video length: 	230.5 sec 
+Set (V): 		dev 
+ 
+John_Lloyd_Young/XaEuffOBFos_0000001 22.7 27.2 
+John_Lloyd_Young/XaEuffOBFos_0000002 167.8 173.9 

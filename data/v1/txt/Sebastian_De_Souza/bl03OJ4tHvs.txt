@@ -1,0 +1,8 @@
+POI: 			Sebastian_De_Souza 
+Youtube ID: 	bl03OJ4tHvs 
+Video length: 	266.0 sec 
+Set (V): 		dev 
+ 
+Sebastian_De_Souza/bl03OJ4tHvs_0000001 162.7 172.2 
+Sebastian_De_Souza/bl03OJ4tHvs_0000002 172.4 178.1 
+Sebastian_De_Souza/bl03OJ4tHvs_0000003 178.6 184.5 

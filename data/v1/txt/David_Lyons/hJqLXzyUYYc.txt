@@ -1,0 +1,13 @@
+POI: 			David_Lyons 
+Youtube ID: 	hJqLXzyUYYc 
+Video length: 	169.5 sec 
+Set (V): 		dev 
+ 
+David_Lyons/hJqLXzyUYYc_0000001 02.6 06.7 
+David_Lyons/hJqLXzyUYYc_0000002 09.6 26.4 
+David_Lyons/hJqLXzyUYYc_0000003 36.3 56.4 
+David_Lyons/hJqLXzyUYYc_0000004 57.2 81.2 
+David_Lyons/hJqLXzyUYYc_0000005 17.9 24.2 
+David_Lyons/hJqLXzyUYYc_0000006 85.3 94.9 
+David_Lyons/hJqLXzyUYYc_0000007 106.5 116.8 
+David_Lyons/hJqLXzyUYYc_0000008 117.1 158.4 

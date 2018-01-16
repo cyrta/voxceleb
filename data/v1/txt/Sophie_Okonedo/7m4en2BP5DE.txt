@@ -1,0 +1,10 @@
+POI: 			Sophie_Okonedo 
+Youtube ID: 	7m4en2BP5DE 
+Video length: 	68.8 sec 
+Set (V): 		dev 
+ 
+Sophie_Okonedo/7m4en2BP5DE_0000001 07.8 17.6 
+Sophie_Okonedo/7m4en2BP5DE_0000002 30.0 43.0 
+Sophie_Okonedo/7m4en2BP5DE_0000003 46.7 54.3 
+Sophie_Okonedo/7m4en2BP5DE_0000004 46.0 51.0 
+Sophie_Okonedo/7m4en2BP5DE_0000005 56.8 61.4 

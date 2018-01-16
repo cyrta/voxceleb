@@ -1,0 +1,10 @@
+POI: 			Chiwetel_Ejiofor 
+Youtube ID: 	oEzAkp1jLgY 
+Video length: 	170.2 sec 
+Set (V): 		dev 
+ 
+Chiwetel_Ejiofor/oEzAkp1jLgY_0000001 21.0 28.0 
+Chiwetel_Ejiofor/oEzAkp1jLgY_0000002 29.0 33.0 
+Chiwetel_Ejiofor/oEzAkp1jLgY_0000003 85.0 89.7 
+Chiwetel_Ejiofor/oEzAkp1jLgY_0000004 120.0 125.0 
+Chiwetel_Ejiofor/oEzAkp1jLgY_0000005 135.8 144.3 

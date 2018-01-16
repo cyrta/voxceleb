@@ -1,0 +1,7 @@
+POI: 			Natalie_Portman 
+Youtube ID: 	hqPd0VjCqok 
+Video length: 	500.7 sec 
+Set (V): 		dev 
+ 
+Natalie_Portman/hqPd0VjCqok_0000001 444.7 450.9 
+Natalie_Portman/hqPd0VjCqok_0000002 451.4 455.5 

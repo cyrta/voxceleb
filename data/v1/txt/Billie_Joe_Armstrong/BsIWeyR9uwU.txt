@@ -1,0 +1,24 @@
+POI: 			Billie_Joe_Armstrong 
+Youtube ID: 	BsIWeyR9uwU 
+Video length: 	249.3 sec 
+Set (V): 		dev 
+ 
+Billie_Joe_Armstrong/BsIWeyR9uwU_0000001 02.3 07.4 
+Billie_Joe_Armstrong/BsIWeyR9uwU_0000002 08.3 15.0 
+Billie_Joe_Armstrong/BsIWeyR9uwU_0000003 19.6 30.3 
+Billie_Joe_Armstrong/BsIWeyR9uwU_0000004 31.2 45.2 
+Billie_Joe_Armstrong/BsIWeyR9uwU_0000005 55.1 75.7 
+Billie_Joe_Armstrong/BsIWeyR9uwU_0000006 81.9 93.1 
+Billie_Joe_Armstrong/BsIWeyR9uwU_0000007 95.0 107.0 
+Billie_Joe_Armstrong/BsIWeyR9uwU_0000008 130.6 135.4 
+Billie_Joe_Armstrong/BsIWeyR9uwU_0000009 113.5 121.2 
+Billie_Joe_Armstrong/BsIWeyR9uwU_0000010 122.0 154.3 
+Billie_Joe_Armstrong/BsIWeyR9uwU_0000011 159.7 166.8 
+Billie_Joe_Armstrong/BsIWeyR9uwU_0000012 167.0 176.9 
+Billie_Joe_Armstrong/BsIWeyR9uwU_0000013 177.3 189.5 
+Billie_Joe_Armstrong/BsIWeyR9uwU_0000014 190.8 200.5 
+Billie_Joe_Armstrong/BsIWeyR9uwU_0000015 204.0 211.7 
+Billie_Joe_Armstrong/BsIWeyR9uwU_0000016 212.0 222.2 
+Billie_Joe_Armstrong/BsIWeyR9uwU_0000017 222.8 232.6 
+Billie_Joe_Armstrong/BsIWeyR9uwU_0000018 233.6 241.4 
+Billie_Joe_Armstrong/BsIWeyR9uwU_0000019 241.7 246.4 

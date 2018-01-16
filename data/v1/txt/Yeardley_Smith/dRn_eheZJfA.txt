@@ -1,0 +1,9 @@
+POI: 			Yeardley_Smith 
+Youtube ID: 	dRn_eheZJfA 
+Video length: 	129.8 sec 
+Set (V): 		dev 
+ 
+Yeardley_Smith/dRn_eheZJfA_0000001 54.2 58.6 
+Yeardley_Smith/dRn_eheZJfA_0000002 62.3 67.9 
+Yeardley_Smith/dRn_eheZJfA_0000003 103.1 107.5 
+Yeardley_Smith/dRn_eheZJfA_0000004 111.7 118.0 

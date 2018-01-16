@@ -1,0 +1,9 @@
+POI: 			Alex_Trebek 
+Youtube ID: 	fJ9rYCIXznM 
+Video length: 	89.9 sec 
+Set (V): 		dev 
+ 
+Alex_Trebek/fJ9rYCIXznM_0000001 08.1 17.2 
+Alex_Trebek/fJ9rYCIXznM_0000002 20.0 44.1 
+Alex_Trebek/fJ9rYCIXznM_0000003 45.7 64.4 
+Alex_Trebek/fJ9rYCIXznM_0000004 67.4 79.0 

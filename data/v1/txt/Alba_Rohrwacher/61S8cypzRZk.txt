@@ -1,0 +1,21 @@
+POI: 			Alba_Rohrwacher 
+Youtube ID: 	61S8cypzRZk 
+Video length: 	486.4 sec 
+Set (V): 		dev 
+ 
+Alba_Rohrwacher/61S8cypzRZk_0000001 66.3 71.3 
+Alba_Rohrwacher/61S8cypzRZk_0000002 117.2 122.0 
+Alba_Rohrwacher/61S8cypzRZk_0000003 218.3 222.8 
+Alba_Rohrwacher/61S8cypzRZk_0000004 223.9 228.4 
+Alba_Rohrwacher/61S8cypzRZk_0000005 230.4 235.0 
+Alba_Rohrwacher/61S8cypzRZk_0000006 257.9 265.2 
+Alba_Rohrwacher/61S8cypzRZk_0000007 281.2 287.2 
+Alba_Rohrwacher/61S8cypzRZk_0000008 288.0 292.0 
+Alba_Rohrwacher/61S8cypzRZk_0000009 315.5 321.8 
+Alba_Rohrwacher/61S8cypzRZk_0000010 340.4 345.5 
+Alba_Rohrwacher/61S8cypzRZk_0000011 412.5 419.2 
+Alba_Rohrwacher/61S8cypzRZk_0000012 432.7 436.7 
+Alba_Rohrwacher/61S8cypzRZk_0000013 442.3 448.5 
+Alba_Rohrwacher/61S8cypzRZk_0000014 449.3 453.8 
+Alba_Rohrwacher/61S8cypzRZk_0000015 454.8 460.3 
+Alba_Rohrwacher/61S8cypzRZk_0000016 468.4 473.0 

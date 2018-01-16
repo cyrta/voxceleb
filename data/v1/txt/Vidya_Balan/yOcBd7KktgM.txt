@@ -1,0 +1,11 @@
+POI: 			Vidya_Balan 
+Youtube ID: 	yOcBd7KktgM 
+Video length: 	480.1 sec 
+Set (V): 		dev 
+ 
+Vidya_Balan/yOcBd7KktgM_0000001 137.3 141.4 
+Vidya_Balan/yOcBd7KktgM_0000002 343.7 347.8 
+Vidya_Balan/yOcBd7KktgM_0000003 363.1 378.5 
+Vidya_Balan/yOcBd7KktgM_0000004 407.5 411.9 
+Vidya_Balan/yOcBd7KktgM_0000005 422.9 427.3 
+Vidya_Balan/yOcBd7KktgM_0000006 429.5 433.6 

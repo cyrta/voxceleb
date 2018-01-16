@@ -1,0 +1,18 @@
+POI: 			Marc_Forster 
+Youtube ID: 	tHen_AnVFj8 
+Video length: 	284.2 sec 
+Set (V): 		dev 
+ 
+Marc_Forster/tHen_AnVFj8_0000001 21.9 29.9 
+Marc_Forster/tHen_AnVFj8_0000002 61.3 66.8 
+Marc_Forster/tHen_AnVFj8_0000003 70.7 75.8 
+Marc_Forster/tHen_AnVFj8_0000004 82.3 88.8 
+Marc_Forster/tHen_AnVFj8_0000005 108.4 114.6 
+Marc_Forster/tHen_AnVFj8_0000006 118.9 132.8 
+Marc_Forster/tHen_AnVFj8_0000007 153.7 158.6 
+Marc_Forster/tHen_AnVFj8_0000008 163.4 171.2 
+Marc_Forster/tHen_AnVFj8_0000009 192.6 204.4 
+Marc_Forster/tHen_AnVFj8_0000010 209.1 218.3 
+Marc_Forster/tHen_AnVFj8_0000011 226.6 233.9 
+Marc_Forster/tHen_AnVFj8_0000012 238.8 245.2 
+Marc_Forster/tHen_AnVFj8_0000013 250.6 255.1 

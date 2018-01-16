@@ -1,0 +1,15 @@
+POI: 			Noel_Clarke 
+Youtube ID: 	TSIGUm8I_lU 
+Video length: 	252.3 sec 
+Set (V): 		dev 
+ 
+Noel_Clarke/TSIGUm8I_lU_0000001 27.0 36.0 
+Noel_Clarke/TSIGUm8I_lU_0000002 38.3 48.0 
+Noel_Clarke/TSIGUm8I_lU_0000003 79.2 90.5 
+Noel_Clarke/TSIGUm8I_lU_0000004 90.8 102.3 
+Noel_Clarke/TSIGUm8I_lU_0000005 154.2 175.9 
+Noel_Clarke/TSIGUm8I_lU_0000006 176.7 182.7 
+Noel_Clarke/TSIGUm8I_lU_0000007 201.6 216.2 
+Noel_Clarke/TSIGUm8I_lU_0000008 216.6 221.8 
+Noel_Clarke/TSIGUm8I_lU_0000009 224.6 230.8 
+Noel_Clarke/TSIGUm8I_lU_0000010 234.9 247.1 

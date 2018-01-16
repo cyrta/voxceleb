@@ -1,0 +1,11 @@
+POI: 			Eddie_Izzard 
+Youtube ID: 	SgBON1gLfbo 
+Video length: 	515.6 sec 
+Set (V): 		test 
+ 
+Eddie_Izzard/SgBON1gLfbo_0000001 30.1 39.0 
+Eddie_Izzard/SgBON1gLfbo_0000002 46.8 50.9 
+Eddie_Izzard/SgBON1gLfbo_0000003 63.7 68.4 
+Eddie_Izzard/SgBON1gLfbo_0000004 75.3 79.6 
+Eddie_Izzard/SgBON1gLfbo_0000005 241.8 248.1 
+Eddie_Izzard/SgBON1gLfbo_0000006 304.7 311.2 

@@ -1,0 +1,14 @@
+POI: 			Viggo_Mortensen 
+Youtube ID: 	wA_6eFE8bsI 
+Video length: 	378.8 sec 
+Set (V): 		dev 
+ 
+Viggo_Mortensen/wA_6eFE8bsI_0000001 46.8 61.8 
+Viggo_Mortensen/wA_6eFE8bsI_0000002 89.3 95.0 
+Viggo_Mortensen/wA_6eFE8bsI_0000003 107.4 114.0 
+Viggo_Mortensen/wA_6eFE8bsI_0000004 122.6 130.5 
+Viggo_Mortensen/wA_6eFE8bsI_0000005 132.3 136.8 
+Viggo_Mortensen/wA_6eFE8bsI_0000006 140.5 146.2 
+Viggo_Mortensen/wA_6eFE8bsI_0000007 223.0 229.0 
+Viggo_Mortensen/wA_6eFE8bsI_0000008 231.5 236.4 
+Viggo_Mortensen/wA_6eFE8bsI_0000009 327.2 332.5 

@@ -1,0 +1,19 @@
+POI: 			Noel_Clarke 
+Youtube ID: 	tY5lSUkDTUo 
+Video length: 	504.0 sec 
+Set (V): 		dev 
+ 
+Noel_Clarke/tY5lSUkDTUo_0000001 14.3 21.2 
+Noel_Clarke/tY5lSUkDTUo_0000002 65.6 69.9 
+Noel_Clarke/tY5lSUkDTUo_0000003 75.7 86.9 
+Noel_Clarke/tY5lSUkDTUo_0000004 186.2 190.5 
+Noel_Clarke/tY5lSUkDTUo_0000005 192.2 197.7 
+Noel_Clarke/tY5lSUkDTUo_0000006 271.2 276.8 
+Noel_Clarke/tY5lSUkDTUo_0000007 278.2 282.9 
+Noel_Clarke/tY5lSUkDTUo_0000008 285.8 290.2 
+Noel_Clarke/tY5lSUkDTUo_0000009 293.7 297.7 
+Noel_Clarke/tY5lSUkDTUo_0000010 302.2 306.2 
+Noel_Clarke/tY5lSUkDTUo_0000011 409.4 413.6 
+Noel_Clarke/tY5lSUkDTUo_0000012 419.0 427.9 
+Noel_Clarke/tY5lSUkDTUo_0000013 440.6 445.3 
+Noel_Clarke/tY5lSUkDTUo_0000014 453.3 459.8 

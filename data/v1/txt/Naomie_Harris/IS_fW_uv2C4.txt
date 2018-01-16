@@ -1,0 +1,8 @@
+POI: 			Naomie_Harris 
+Youtube ID: 	IS_fW_uv2C4 
+Video length: 	130.1 sec 
+Set (V): 		dev 
+ 
+Naomie_Harris/IS_fW_uv2C4_0000001 03.7 08.1 
+Naomie_Harris/IS_fW_uv2C4_0000002 24.6 33.1 
+Naomie_Harris/IS_fW_uv2C4_0000003 50.5 62.5 

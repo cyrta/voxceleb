@@ -1,0 +1,11 @@
+POI: 			Zachary_Levi 
+Youtube ID: 	dM6RTnEHfUk 
+Video length: 	583.0 sec 
+Set (V): 		dev 
+ 
+Zachary_Levi/dM6RTnEHfUk_0000001 249.6 254.8 
+Zachary_Levi/dM6RTnEHfUk_0000002 256.6 261.4 
+Zachary_Levi/dM6RTnEHfUk_0000003 279.3 286.5 
+Zachary_Levi/dM6RTnEHfUk_0000004 286.7 295.8 
+Zachary_Levi/dM6RTnEHfUk_0000005 306.6 310.6 
+Zachary_Levi/dM6RTnEHfUk_0000006 325.2 332.0 

@@ -1,0 +1,7 @@
+POI: 			Max_Irons 
+Youtube ID: 	L2G3AWgWSJI 
+Video length: 	249.3 sec 
+Set (V): 		dev 
+ 
+Max_Irons/L2G3AWgWSJI_0000001 80.5 85.5 
+Max_Irons/L2G3AWgWSJI_0000002 156.0 161.7 

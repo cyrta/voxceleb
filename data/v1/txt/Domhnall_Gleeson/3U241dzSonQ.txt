@@ -1,0 +1,8 @@
+POI: 			Domhnall_Gleeson 
+Youtube ID: 	3U241dzSonQ 
+Video length: 	253.9 sec 
+Set (V): 		dev 
+ 
+Domhnall_Gleeson/3U241dzSonQ_0000001 108.8 115.4 
+Domhnall_Gleeson/3U241dzSonQ_0000002 116.1 120.2 
+Domhnall_Gleeson/3U241dzSonQ_0000003 203.0 208.0 

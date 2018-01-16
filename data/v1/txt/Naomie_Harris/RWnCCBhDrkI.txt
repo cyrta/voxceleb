@@ -1,0 +1,9 @@
+POI: 			Naomie_Harris 
+Youtube ID: 	RWnCCBhDrkI 
+Video length: 	176.1 sec 
+Set (V): 		dev 
+ 
+Naomie_Harris/RWnCCBhDrkI_0000001 07.9 21.6 
+Naomie_Harris/RWnCCBhDrkI_0000002 39.4 43.4 
+Naomie_Harris/RWnCCBhDrkI_0000003 114.9 118.9 
+Naomie_Harris/RWnCCBhDrkI_0000004 150.7 157.1 

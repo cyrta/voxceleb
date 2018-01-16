@@ -1,0 +1,8 @@
+POI: 			Kenton_Duty 
+Youtube ID: 	XNbB4vvCqMU 
+Video length: 	330.0 sec 
+Set (V): 		dev 
+ 
+Kenton_Duty/XNbB4vvCqMU_0000001 37.1 42.3 
+Kenton_Duty/XNbB4vvCqMU_0000002 173.4 182.6 
+Kenton_Duty/XNbB4vvCqMU_0000003 192.8 196.9 

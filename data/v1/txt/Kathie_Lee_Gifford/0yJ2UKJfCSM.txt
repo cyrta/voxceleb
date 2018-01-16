@@ -1,0 +1,7 @@
+POI: 			Kathie_Lee_Gifford 
+Youtube ID: 	0yJ2UKJfCSM 
+Video length: 	339.9 sec 
+Set (V): 		dev 
+ 
+Kathie_Lee_Gifford/0yJ2UKJfCSM_0000001 258.9 266.4 
+Kathie_Lee_Gifford/0yJ2UKJfCSM_0000002 273.0 277.2 

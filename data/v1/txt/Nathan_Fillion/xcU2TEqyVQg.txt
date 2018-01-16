@@ -1,0 +1,16 @@
+POI: 			Nathan_Fillion 
+Youtube ID: 	xcU2TEqyVQg 
+Video length: 	714.5 sec 
+Set (V): 		dev 
+ 
+Nathan_Fillion/xcU2TEqyVQg_0000001 110.2 115.5 
+Nathan_Fillion/xcU2TEqyVQg_0000002 118.9 125.8 
+Nathan_Fillion/xcU2TEqyVQg_0000003 141.6 149.6 
+Nathan_Fillion/xcU2TEqyVQg_0000004 228.7 233.7 
+Nathan_Fillion/xcU2TEqyVQg_0000005 237.4 245.6 
+Nathan_Fillion/xcU2TEqyVQg_0000006 255.4 260.9 
+Nathan_Fillion/xcU2TEqyVQg_0000007 263.1 268.2 
+Nathan_Fillion/xcU2TEqyVQg_0000008 305.4 315.4 
+Nathan_Fillion/xcU2TEqyVQg_0000009 421.9 426.2 
+Nathan_Fillion/xcU2TEqyVQg_0000010 523.5 532.3 
+Nathan_Fillion/xcU2TEqyVQg_0000011 621.0 628.3 

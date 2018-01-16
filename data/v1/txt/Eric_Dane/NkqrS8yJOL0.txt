@@ -1,0 +1,10 @@
+POI: 			Eric_Dane 
+Youtube ID: 	NkqrS8yJOL0 
+Video length: 	294.7 sec 
+Set (V): 		test 
+ 
+Eric_Dane/NkqrS8yJOL0_0000001 89.9 93.9 
+Eric_Dane/NkqrS8yJOL0_0000002 102.9 109.2 
+Eric_Dane/NkqrS8yJOL0_0000003 110.4 115.6 
+Eric_Dane/NkqrS8yJOL0_0000004 116.7 120.9 
+Eric_Dane/NkqrS8yJOL0_0000005 201.2 205.7 

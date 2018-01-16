@@ -1,0 +1,11 @@
+POI: 			Giovanni_Ribisi 
+Youtube ID: 	WbzAbbxTbYk 
+Video length: 	413.0 sec 
+Set (V): 		dev 
+ 
+Giovanni_Ribisi/WbzAbbxTbYk_0000001 121.4 128.5 
+Giovanni_Ribisi/WbzAbbxTbYk_0000002 254.0 264.5 
+Giovanni_Ribisi/WbzAbbxTbYk_0000003 310.0 319.3 
+Giovanni_Ribisi/WbzAbbxTbYk_0000004 340.8 349.2 
+Giovanni_Ribisi/WbzAbbxTbYk_0000005 361.0 371.2 
+Giovanni_Ribisi/WbzAbbxTbYk_0000006 386.3 395.0 

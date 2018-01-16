@@ -1,0 +1,8 @@
+POI: 			Tamara_Tunie 
+Youtube ID: 	pMdfDHqKxEM 
+Video length: 	1176.2 sec 
+Set (V): 		dev 
+ 
+Tamara_Tunie/pMdfDHqKxEM_0000001 734.7 740.0 
+Tamara_Tunie/pMdfDHqKxEM_0000002 800.4 811.2 
+Tamara_Tunie/pMdfDHqKxEM_0000003 817.3 821.3 

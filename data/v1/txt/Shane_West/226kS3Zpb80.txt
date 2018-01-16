@@ -1,0 +1,7 @@
+POI: 			Shane_West 
+Youtube ID: 	226kS3Zpb80 
+Video length: 	460.0 sec 
+Set (V): 		dev 
+ 
+Shane_West/226kS3Zpb80_0000001 95.8 100.5 
+Shane_West/226kS3Zpb80_0000002 360.0 365.1 

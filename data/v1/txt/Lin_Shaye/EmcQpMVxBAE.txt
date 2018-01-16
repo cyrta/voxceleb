@@ -1,0 +1,17 @@
+POI: 			Lin_Shaye 
+Youtube ID: 	EmcQpMVxBAE 
+Video length: 	304.0 sec 
+Set (V): 		dev 
+ 
+Lin_Shaye/EmcQpMVxBAE_0000001 13.4 44.2 
+Lin_Shaye/EmcQpMVxBAE_0000002 51.2 55.5 
+Lin_Shaye/EmcQpMVxBAE_0000003 72.8 84.9 
+Lin_Shaye/EmcQpMVxBAE_0000004 86.1 101.2 
+Lin_Shaye/EmcQpMVxBAE_0000005 102.4 127.1 
+Lin_Shaye/EmcQpMVxBAE_0000006 127.6 152.0 
+Lin_Shaye/EmcQpMVxBAE_0000007 162.2 171.9 
+Lin_Shaye/EmcQpMVxBAE_0000008 173.6 187.2 
+Lin_Shaye/EmcQpMVxBAE_0000009 187.8 193.0 
+Lin_Shaye/EmcQpMVxBAE_0000010 205.7 221.6 
+Lin_Shaye/EmcQpMVxBAE_0000011 224.0 229.9 
+Lin_Shaye/EmcQpMVxBAE_0000012 117.1 122.0 

@@ -1,0 +1,16 @@
+POI: 			Donald_Sutherland 
+Youtube ID: 	nSgUBO3CgV4 
+Video length: 	346.5 sec 
+Set (V): 		dev 
+ 
+Donald_Sutherland/nSgUBO3CgV4_0000001 79.3 89.6 
+Donald_Sutherland/nSgUBO3CgV4_0000002 90.6 96.3 
+Donald_Sutherland/nSgUBO3CgV4_0000003 119.3 124.0 
+Donald_Sutherland/nSgUBO3CgV4_0000004 190.6 195.6 
+Donald_Sutherland/nSgUBO3CgV4_0000005 245.2 251.6 
+Donald_Sutherland/nSgUBO3CgV4_0000006 253.5 258.9 
+Donald_Sutherland/nSgUBO3CgV4_0000007 260.4 266.2 
+Donald_Sutherland/nSgUBO3CgV4_0000008 274.6 287.2 
+Donald_Sutherland/nSgUBO3CgV4_0000009 293.0 297.9 
+Donald_Sutherland/nSgUBO3CgV4_0000010 298.0 305.6 
+Donald_Sutherland/nSgUBO3CgV4_0000011 301.8 305.7 

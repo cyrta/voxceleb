@@ -1,0 +1,13 @@
+POI: 			Cyndi_Lauper 
+Youtube ID: 	YxEiHX4lFbw 
+Video length: 	446.1 sec 
+Set (V): 		dev 
+ 
+Cyndi_Lauper/YxEiHX4lFbw_0000001 133.7 138.7 
+Cyndi_Lauper/YxEiHX4lFbw_0000002 144.5 158.6 
+Cyndi_Lauper/YxEiHX4lFbw_0000003 277.5 282.6 
+Cyndi_Lauper/YxEiHX4lFbw_0000004 361.8 368.9 
+Cyndi_Lauper/YxEiHX4lFbw_0000005 393.6 400.2 
+Cyndi_Lauper/YxEiHX4lFbw_0000006 400.5 404.8 
+Cyndi_Lauper/YxEiHX4lFbw_0000007 405.7 414.2 
+Cyndi_Lauper/YxEiHX4lFbw_0000008 417.1 424.2 

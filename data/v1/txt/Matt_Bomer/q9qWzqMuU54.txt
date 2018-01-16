@@ -1,0 +1,19 @@
+POI: 			Matt_Bomer 
+Youtube ID: 	q9qWzqMuU54 
+Video length: 	297.3 sec 
+Set (V): 		dev 
+ 
+Matt_Bomer/q9qWzqMuU54_0000001 59.8 64.5 
+Matt_Bomer/q9qWzqMuU54_0000002 65.6 71.4 
+Matt_Bomer/q9qWzqMuU54_0000003 73.6 81.0 
+Matt_Bomer/q9qWzqMuU54_0000004 81.2 94.6 
+Matt_Bomer/q9qWzqMuU54_0000005 98.7 103.3 
+Matt_Bomer/q9qWzqMuU54_0000006 104.1 108.7 
+Matt_Bomer/q9qWzqMuU54_0000007 109.9 122.6 
+Matt_Bomer/q9qWzqMuU54_0000008 123.0 128.1 
+Matt_Bomer/q9qWzqMuU54_0000009 135.2 143.7 
+Matt_Bomer/q9qWzqMuU54_0000010 144.7 157.7 
+Matt_Bomer/q9qWzqMuU54_0000011 171.7 177.1 
+Matt_Bomer/q9qWzqMuU54_0000012 198.6 205.6 
+Matt_Bomer/q9qWzqMuU54_0000013 219.9 224.7 
+Matt_Bomer/q9qWzqMuU54_0000014 275.9 284.4 

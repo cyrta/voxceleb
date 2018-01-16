@@ -1,0 +1,8 @@
+POI: 			Linda_Evans 
+Youtube ID: 	z46RAyrhQxQ 
+Video length: 	423.1 sec 
+Set (V): 		dev 
+ 
+Linda_Evans/z46RAyrhQxQ_0000001 193.3 205.6 
+Linda_Evans/z46RAyrhQxQ_0000002 242.1 248.0 
+Linda_Evans/z46RAyrhQxQ_0000003 298.6 303.1 

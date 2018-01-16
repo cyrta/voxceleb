@@ -1,0 +1,15 @@
+POI: 			Wim_Wenders 
+Youtube ID: 	3j09mR5jnwY 
+Video length: 	584.2 sec 
+Set (V): 		dev 
+ 
+Wim_Wenders/3j09mR5jnwY_0000001 200.4 206.2 
+Wim_Wenders/3j09mR5jnwY_0000002 245.3 250.0 
+Wim_Wenders/3j09mR5jnwY_0000003 260.1 264.6 
+Wim_Wenders/3j09mR5jnwY_0000004 266.2 270.9 
+Wim_Wenders/3j09mR5jnwY_0000005 299.5 307.5 
+Wim_Wenders/3j09mR5jnwY_0000006 453.1 465.6 
+Wim_Wenders/3j09mR5jnwY_0000007 468.7 473.6 
+Wim_Wenders/3j09mR5jnwY_0000008 487.6 492.0 
+Wim_Wenders/3j09mR5jnwY_0000009 534.5 538.9 
+Wim_Wenders/3j09mR5jnwY_0000010 546.0 554.6 

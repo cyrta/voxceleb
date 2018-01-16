@@ -1,0 +1,10 @@
+POI: 			Paul_Reubens 
+Youtube ID: 	pTzTKHEjW4Y 
+Video length: 	667.2 sec 
+Set (V): 		dev 
+ 
+Paul_Reubens/pTzTKHEjW4Y_0000001 111.8 121.1 
+Paul_Reubens/pTzTKHEjW4Y_0000002 123.1 129.8 
+Paul_Reubens/pTzTKHEjW4Y_0000003 177.8 186.9 
+Paul_Reubens/pTzTKHEjW4Y_0000004 211.6 216.9 
+Paul_Reubens/pTzTKHEjW4Y_0000005 231.0 236.0 

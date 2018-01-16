@@ -1,0 +1,10 @@
+POI: 			Yvette_Nicole_Brown 
+Youtube ID: 	7w0SRz3X7EM 
+Video length: 	121.4 sec 
+Set (V): 		dev 
+ 
+Yvette_Nicole_Brown/7w0SRz3X7EM_0000001 35.6 45.7 
+Yvette_Nicole_Brown/7w0SRz3X7EM_0000002 47.8 52.8 
+Yvette_Nicole_Brown/7w0SRz3X7EM_0000003 64.1 72.4 
+Yvette_Nicole_Brown/7w0SRz3X7EM_0000004 79.3 85.5 
+Yvette_Nicole_Brown/7w0SRz3X7EM_0000005 88.1 93.8 

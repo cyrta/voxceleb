@@ -1,0 +1,17 @@
+POI: 			Walter_Matthau 
+Youtube ID: 	hsNCtdUateI 
+Video length: 	695.4 sec 
+Set (V): 		dev 
+ 
+Walter_Matthau/hsNCtdUateI_0000001 147.4 152.2 
+Walter_Matthau/hsNCtdUateI_0000002 244.8 248.9 
+Walter_Matthau/hsNCtdUateI_0000003 264.8 274.5 
+Walter_Matthau/hsNCtdUateI_0000004 279.3 296.6 
+Walter_Matthau/hsNCtdUateI_0000005 302.8 310.1 
+Walter_Matthau/hsNCtdUateI_0000006 353.4 359.5 
+Walter_Matthau/hsNCtdUateI_0000007 361.0 366.1 
+Walter_Matthau/hsNCtdUateI_0000008 368.2 373.1 
+Walter_Matthau/hsNCtdUateI_0000009 381.4 390.4 
+Walter_Matthau/hsNCtdUateI_0000010 470.8 488.2 
+Walter_Matthau/hsNCtdUateI_0000011 507.2 511.6 
+Walter_Matthau/hsNCtdUateI_0000012 586.4 590.6 

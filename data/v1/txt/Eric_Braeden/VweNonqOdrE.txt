@@ -1,0 +1,15 @@
+POI: 			Eric_Braeden 
+Youtube ID: 	VweNonqOdrE 
+Video length: 	1501.1 sec 
+Set (V): 		test 
+ 
+Eric_Braeden/VweNonqOdrE_0000001 51.4 56.6 
+Eric_Braeden/VweNonqOdrE_0000002 180.9 185.7 
+Eric_Braeden/VweNonqOdrE_0000003 209.2 214.1 
+Eric_Braeden/VweNonqOdrE_0000004 444.1 448.2 
+Eric_Braeden/VweNonqOdrE_0000005 922.0 926.2 
+Eric_Braeden/VweNonqOdrE_0000006 946.3 953.2 
+Eric_Braeden/VweNonqOdrE_0000007 953.4 958.3 
+Eric_Braeden/VweNonqOdrE_0000008 995.6 999.8 
+Eric_Braeden/VweNonqOdrE_0000009 1081.7 1086.2 
+Eric_Braeden/VweNonqOdrE_0000010 1094.5 1101.6 

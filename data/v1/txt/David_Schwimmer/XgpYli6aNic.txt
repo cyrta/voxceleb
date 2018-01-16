@@ -1,0 +1,15 @@
+POI: 			David_Schwimmer 
+Youtube ID: 	XgpYli6aNic 
+Video length: 	222.4 sec 
+Set (V): 		dev 
+ 
+David_Schwimmer/XgpYli6aNic_0000001 25.9 30.9 
+David_Schwimmer/XgpYli6aNic_0000002 52.9 57.6 
+David_Schwimmer/XgpYli6aNic_0000003 85.0 92.2 
+David_Schwimmer/XgpYli6aNic_0000004 109.3 114.5 
+David_Schwimmer/XgpYli6aNic_0000005 115.3 120.2 
+David_Schwimmer/XgpYli6aNic_0000006 123.2 128.2 
+David_Schwimmer/XgpYli6aNic_0000007 128.4 134.6 
+David_Schwimmer/XgpYli6aNic_0000008 154.5 163.9 
+David_Schwimmer/XgpYli6aNic_0000009 169.6 176.9 
+David_Schwimmer/XgpYli6aNic_0000010 203.2 211.7 

@@ -1,0 +1,41 @@
+POI: 			Luc_Besson 
+Youtube ID: 	PuY2qmx5gCw 
+Video length: 	794.0 sec 
+Set (V): 		dev 
+ 
+Luc_Besson/PuY2qmx5gCw_0000001 40.1 45.7 
+Luc_Besson/PuY2qmx5gCw_0000002 46.6 51.8 
+Luc_Besson/PuY2qmx5gCw_0000003 65.7 72.0 
+Luc_Besson/PuY2qmx5gCw_0000004 72.2 77.6 
+Luc_Besson/PuY2qmx5gCw_0000005 79.1 84.1 
+Luc_Besson/PuY2qmx5gCw_0000006 84.4 89.4 
+Luc_Besson/PuY2qmx5gCw_0000007 101.1 107.8 
+Luc_Besson/PuY2qmx5gCw_0000008 108.5 121.0 
+Luc_Besson/PuY2qmx5gCw_0000009 122.3 126.4 
+Luc_Besson/PuY2qmx5gCw_0000010 144.4 148.3 
+Luc_Besson/PuY2qmx5gCw_0000011 154.5 160.8 
+Luc_Besson/PuY2qmx5gCw_0000012 167.7 176.5 
+Luc_Besson/PuY2qmx5gCw_0000013 191.4 198.2 
+Luc_Besson/PuY2qmx5gCw_0000014 229.8 241.5 
+Luc_Besson/PuY2qmx5gCw_0000015 246.5 257.5 
+Luc_Besson/PuY2qmx5gCw_0000016 307.5 311.7 
+Luc_Besson/PuY2qmx5gCw_0000017 321.0 336.8 
+Luc_Besson/PuY2qmx5gCw_0000018 337.2 345.9 
+Luc_Besson/PuY2qmx5gCw_0000019 346.7 351.0 
+Luc_Besson/PuY2qmx5gCw_0000020 367.1 375.2 
+Luc_Besson/PuY2qmx5gCw_0000021 424.0 430.7 
+Luc_Besson/PuY2qmx5gCw_0000022 431.8 441.0 
+Luc_Besson/PuY2qmx5gCw_0000023 468.1 479.7 
+Luc_Besson/PuY2qmx5gCw_0000024 480.0 486.1 
+Luc_Besson/PuY2qmx5gCw_0000025 501.0 509.2 
+Luc_Besson/PuY2qmx5gCw_0000026 543.4 547.9 
+Luc_Besson/PuY2qmx5gCw_0000027 554.2 562.8 
+Luc_Besson/PuY2qmx5gCw_0000028 599.8 608.7 
+Luc_Besson/PuY2qmx5gCw_0000029 610.2 632.0 
+Luc_Besson/PuY2qmx5gCw_0000030 640.6 646.7 
+Luc_Besson/PuY2qmx5gCw_0000031 646.8 654.4 
+Luc_Besson/PuY2qmx5gCw_0000032 690.2 695.4 
+Luc_Besson/PuY2qmx5gCw_0000033 704.4 721.2 
+Luc_Besson/PuY2qmx5gCw_0000034 721.4 732.1 
+Luc_Besson/PuY2qmx5gCw_0000035 752.1 758.8 
+Luc_Besson/PuY2qmx5gCw_0000036 760.5 765.8 

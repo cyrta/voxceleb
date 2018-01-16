@@ -1,0 +1,7 @@
+POI: 			Will_Arnett 
+Youtube ID: 	50Ra-5pIxIE 
+Video length: 	740.0 sec 
+Set (V): 		dev 
+ 
+Will_Arnett/50Ra-5pIxIE_0000001 137.6 146.3 
+Will_Arnett/50Ra-5pIxIE_0000002 146.6 155.9 

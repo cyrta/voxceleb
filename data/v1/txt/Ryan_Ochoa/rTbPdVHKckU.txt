@@ -1,0 +1,8 @@
+POI: 			Ryan_Ochoa 
+Youtube ID: 	rTbPdVHKckU 
+Video length: 	316.8 sec 
+Set (V): 		dev 
+ 
+Ryan_Ochoa/rTbPdVHKckU_0000001 107.0 113.6 
+Ryan_Ochoa/rTbPdVHKckU_0000002 118.5 124.2 
+Ryan_Ochoa/rTbPdVHKckU_0000003 272.4 277.3 

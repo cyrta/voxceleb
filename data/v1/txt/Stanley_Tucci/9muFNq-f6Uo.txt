@@ -1,0 +1,10 @@
+POI: 			Stanley_Tucci 
+Youtube ID: 	9muFNq-f6Uo 
+Video length: 	153.0 sec 
+Set (V): 		dev 
+ 
+Stanley_Tucci/9muFNq-f6Uo_0000001 10.8 15.5 
+Stanley_Tucci/9muFNq-f6Uo_0000002 21.8 26.6 
+Stanley_Tucci/9muFNq-f6Uo_0000003 52.2 57.6 
+Stanley_Tucci/9muFNq-f6Uo_0000004 64.1 69.4 
+Stanley_Tucci/9muFNq-f6Uo_0000005 136.8 143.5 

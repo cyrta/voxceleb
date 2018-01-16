@@ -1,0 +1,8 @@
+POI: 			Giovanni_Ribisi 
+Youtube ID: 	J2qoVf6KMNs 
+Video length: 	165.7 sec 
+Set (V): 		dev 
+ 
+Giovanni_Ribisi/J2qoVf6KMNs_0000001 63.6 72.3 
+Giovanni_Ribisi/J2qoVf6KMNs_0000002 79.4 83.5 
+Giovanni_Ribisi/J2qoVf6KMNs_0000003 148.0 153.7 

@@ -1,0 +1,15 @@
+POI: 			Susanne_Bier 
+Youtube ID: 	fRUHpkIk0fw 
+Video length: 	313.0 sec 
+Set (V): 		dev 
+ 
+Susanne_Bier/fRUHpkIk0fw_0000001 42.9 47.6 
+Susanne_Bier/fRUHpkIk0fw_0000002 94.7 107.9 
+Susanne_Bier/fRUHpkIk0fw_0000003 110.3 120.1 
+Susanne_Bier/fRUHpkIk0fw_0000004 120.6 125.0 
+Susanne_Bier/fRUHpkIk0fw_0000005 149.7 177.2 
+Susanne_Bier/fRUHpkIk0fw_0000006 154.0 158.8 
+Susanne_Bier/fRUHpkIk0fw_0000007 179.0 186.2 
+Susanne_Bier/fRUHpkIk0fw_0000008 199.4 215.1 
+Susanne_Bier/fRUHpkIk0fw_0000009 258.8 270.9 
+Susanne_Bier/fRUHpkIk0fw_0000010 282.3 291.6 

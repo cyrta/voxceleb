@@ -1,0 +1,11 @@
+POI: 			James_Badge_Dale 
+Youtube ID: 	skQBWkEyorI 
+Video length: 	277.8 sec 
+Set (V): 		dev 
+ 
+James_Badge_Dale/skQBWkEyorI_0000001 124.8 134.5 
+James_Badge_Dale/skQBWkEyorI_0000002 138.2 142.3 
+James_Badge_Dale/skQBWkEyorI_0000003 200.0 208.6 
+James_Badge_Dale/skQBWkEyorI_0000004 208.7 215.7 
+James_Badge_Dale/skQBWkEyorI_0000005 245.5 253.2 
+James_Badge_Dale/skQBWkEyorI_0000006 269.2 275.4 

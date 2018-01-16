@@ -1,0 +1,32 @@
+POI: 			Kat_Dennings 
+Youtube ID: 	ddI4Vv26jWY 
+Video length: 	322.6 sec 
+Set (V): 		dev 
+ 
+Kat_Dennings/ddI4Vv26jWY_0000001 09.6 24.4 
+Kat_Dennings/ddI4Vv26jWY_0000002 25.2 29.4 
+Kat_Dennings/ddI4Vv26jWY_0000003 29.5 34.5 
+Kat_Dennings/ddI4Vv26jWY_0000004 45.0 65.0 
+Kat_Dennings/ddI4Vv26jWY_0000005 67.2 77.6 
+Kat_Dennings/ddI4Vv26jWY_0000006 78.1 82.8 
+Kat_Dennings/ddI4Vv26jWY_0000007 108.0 113.8 
+Kat_Dennings/ddI4Vv26jWY_0000008 115.4 130.0 
+Kat_Dennings/ddI4Vv26jWY_0000009 130.6 137.1 
+Kat_Dennings/ddI4Vv26jWY_0000010 141.6 146.7 
+Kat_Dennings/ddI4Vv26jWY_0000011 148.1 154.8 
+Kat_Dennings/ddI4Vv26jWY_0000012 155.6 160.2 
+Kat_Dennings/ddI4Vv26jWY_0000013 161.0 170.7 
+Kat_Dennings/ddI4Vv26jWY_0000014 185.6 198.2 
+Kat_Dennings/ddI4Vv26jWY_0000015 208.2 212.4 
+Kat_Dennings/ddI4Vv26jWY_0000016 213.5 218.8 
+Kat_Dennings/ddI4Vv26jWY_0000017 249.1 255.0 
+Kat_Dennings/ddI4Vv26jWY_0000018 263.7 267.9 
+Kat_Dennings/ddI4Vv26jWY_0000019 281.7 288.2 
+Kat_Dennings/ddI4Vv26jWY_0000020 202.4 212.4 
+Kat_Dennings/ddI4Vv26jWY_0000021 213.2 222.2 
+Kat_Dennings/ddI4Vv26jWY_0000022 234.0 239.6 
+Kat_Dennings/ddI4Vv26jWY_0000023 249.2 254.9 
+Kat_Dennings/ddI4Vv26jWY_0000024 263.7 269.5 
+Kat_Dennings/ddI4Vv26jWY_0000025 273.8 280.2 
+Kat_Dennings/ddI4Vv26jWY_0000026 281.2 289.7 
+Kat_Dennings/ddI4Vv26jWY_0000027 299.2 309.2 

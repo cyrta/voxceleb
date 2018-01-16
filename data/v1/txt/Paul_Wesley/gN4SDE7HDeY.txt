@@ -1,0 +1,11 @@
+POI: 			Paul_Wesley 
+Youtube ID: 	gN4SDE7HDeY 
+Video length: 	120.9 sec 
+Set (V): 		dev 
+ 
+Paul_Wesley/gN4SDE7HDeY_0000001 05.9 12.4 
+Paul_Wesley/gN4SDE7HDeY_0000002 32.0 37.0 
+Paul_Wesley/gN4SDE7HDeY_0000003 40.2 44.3 
+Paul_Wesley/gN4SDE7HDeY_0000004 44.4 49.8 
+Paul_Wesley/gN4SDE7HDeY_0000005 56.0 60.6 
+Paul_Wesley/gN4SDE7HDeY_0000006 99.6 115.4 

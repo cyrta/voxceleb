@@ -1,0 +1,10 @@
+POI: 			Tom_Selleck 
+Youtube ID: 	FOYZf4xxrTM 
+Video length: 	735.9 sec 
+Set (V): 		dev 
+ 
+Tom_Selleck/FOYZf4xxrTM_0000001 135.8 140.1 
+Tom_Selleck/FOYZf4xxrTM_0000002 150.6 156.9 
+Tom_Selleck/FOYZf4xxrTM_0000003 222.5 228.9 
+Tom_Selleck/FOYZf4xxrTM_0000004 231.0 238.1 
+Tom_Selleck/FOYZf4xxrTM_0000005 673.5 678.7 

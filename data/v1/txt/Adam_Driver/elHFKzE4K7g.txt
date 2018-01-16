@@ -1,0 +1,8 @@
+POI: 			Adam_Driver 
+Youtube ID: 	elHFKzE4K7g 
+Video length: 	234.6 sec 
+Set (V): 		dev 
+ 
+Adam_Driver/elHFKzE4K7g_0000001 140.6 149.3 
+Adam_Driver/elHFKzE4K7g_0000002 164.4 171.3 
+Adam_Driver/elHFKzE4K7g_0000003 209.4 214.7 

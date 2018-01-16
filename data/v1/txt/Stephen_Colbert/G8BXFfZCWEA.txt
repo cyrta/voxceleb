@@ -1,0 +1,8 @@
+POI: 			Stephen_Colbert 
+Youtube ID: 	G8BXFfZCWEA 
+Video length: 	675.9 sec 
+Set (V): 		dev 
+ 
+Stephen_Colbert/G8BXFfZCWEA_0000001 11.8 21.5 
+Stephen_Colbert/G8BXFfZCWEA_0000002 256.9 262.2 
+Stephen_Colbert/G8BXFfZCWEA_0000003 396.9 402.5 

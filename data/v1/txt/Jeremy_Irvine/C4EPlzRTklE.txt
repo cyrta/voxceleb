@@ -1,0 +1,9 @@
+POI: 			Jeremy_Irvine 
+Youtube ID: 	C4EPlzRTklE 
+Video length: 	179.6 sec 
+Set (V): 		dev 
+ 
+Jeremy_Irvine/C4EPlzRTklE_0000001 58.3 66.4 
+Jeremy_Irvine/C4EPlzRTklE_0000002 108.6 123.1 
+Jeremy_Irvine/C4EPlzRTklE_0000003 135.4 140.2 
+Jeremy_Irvine/C4EPlzRTklE_0000004 148.3 164.2 

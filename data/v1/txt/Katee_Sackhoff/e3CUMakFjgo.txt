@@ -1,0 +1,18 @@
+POI: 			Katee_Sackhoff 
+Youtube ID: 	e3CUMakFjgo 
+Video length: 	239.3 sec 
+Set (V): 		dev 
+ 
+Katee_Sackhoff/e3CUMakFjgo_0000001 08.2 40.6 
+Katee_Sackhoff/e3CUMakFjgo_0000002 41.5 60.1 
+Katee_Sackhoff/e3CUMakFjgo_0000003 64.0 81.4 
+Katee_Sackhoff/e3CUMakFjgo_0000004 89.2 96.3 
+Katee_Sackhoff/e3CUMakFjgo_0000005 96.6 101.1 
+Katee_Sackhoff/e3CUMakFjgo_0000006 101.3 108.6 
+Katee_Sackhoff/e3CUMakFjgo_0000007 109.4 124.8 
+Katee_Sackhoff/e3CUMakFjgo_0000008 129.2 141.7 
+Katee_Sackhoff/e3CUMakFjgo_0000009 147.0 181.2 
+Katee_Sackhoff/e3CUMakFjgo_0000010 187.6 200.4 
+Katee_Sackhoff/e3CUMakFjgo_0000011 200.5 223.2 
+Katee_Sackhoff/e3CUMakFjgo_0000012 224.3 231.4 
+Katee_Sackhoff/e3CUMakFjgo_0000013 224.3 229.4 

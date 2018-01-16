@@ -1,0 +1,12 @@
+POI: 			Peter_Facinelli 
+Youtube ID: 	qN9yariTSG8 
+Video length: 	304.7 sec 
+Set (V): 		dev 
+ 
+Peter_Facinelli/qN9yariTSG8_0000001 14.2 31.6 
+Peter_Facinelli/qN9yariTSG8_0000002 31.9 35.9 
+Peter_Facinelli/qN9yariTSG8_0000003 42.4 51.8 
+Peter_Facinelli/qN9yariTSG8_0000004 52.8 59.0 
+Peter_Facinelli/qN9yariTSG8_0000005 79.2 85.0 
+Peter_Facinelli/qN9yariTSG8_0000006 211.6 226.7 
+Peter_Facinelli/qN9yariTSG8_0000007 248.3 263.7 

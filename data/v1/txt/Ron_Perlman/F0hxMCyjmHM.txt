@@ -1,0 +1,8 @@
+POI: 			Ron_Perlman 
+Youtube ID: 	F0hxMCyjmHM 
+Video length: 	245.0 sec 
+Set (V): 		dev 
+ 
+Ron_Perlman/F0hxMCyjmHM_0000001 85.1 89.8 
+Ron_Perlman/F0hxMCyjmHM_0000002 176.1 180.6 
+Ron_Perlman/F0hxMCyjmHM_0000003 213.2 217.3 

@@ -1,0 +1,13 @@
+POI: 			Avan_Jogia 
+Youtube ID: 	UTMp8aixRpE 
+Video length: 	404.1 sec 
+Set (V): 		dev 
+ 
+Avan_Jogia/UTMp8aixRpE_0000001 112.5 118.0 
+Avan_Jogia/UTMp8aixRpE_0000002 191.4 199.1 
+Avan_Jogia/UTMp8aixRpE_0000003 312.4 320.0 
+Avan_Jogia/UTMp8aixRpE_0000004 322.7 333.6 
+Avan_Jogia/UTMp8aixRpE_0000005 346.8 351.0 
+Avan_Jogia/UTMp8aixRpE_0000006 352.2 360.0 
+Avan_Jogia/UTMp8aixRpE_0000007 353.5 360.0 
+Avan_Jogia/UTMp8aixRpE_0000008 360.8 365.4 

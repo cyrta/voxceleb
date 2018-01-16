@@ -1,0 +1,39 @@
+POI: 			Patrick_Dempsey 
+Youtube ID: 	d3o1nZ-UsAs 
+Video length: 	843.0 sec 
+Set (V): 		dev 
+ 
+Patrick_Dempsey/d3o1nZ-UsAs_0000001 22.7 28.6 
+Patrick_Dempsey/d3o1nZ-UsAs_0000002 37.0 40.9 
+Patrick_Dempsey/d3o1nZ-UsAs_0000003 50.1 56.3 
+Patrick_Dempsey/d3o1nZ-UsAs_0000004 67.3 75.7 
+Patrick_Dempsey/d3o1nZ-UsAs_0000005 133.7 140.7 
+Patrick_Dempsey/d3o1nZ-UsAs_0000006 148.9 155.0 
+Patrick_Dempsey/d3o1nZ-UsAs_0000007 156.0 162.8 
+Patrick_Dempsey/d3o1nZ-UsAs_0000008 175.8 183.6 
+Patrick_Dempsey/d3o1nZ-UsAs_0000009 196.2 201.0 
+Patrick_Dempsey/d3o1nZ-UsAs_0000010 220.4 233.8 
+Patrick_Dempsey/d3o1nZ-UsAs_0000011 265.5 275.5 
+Patrick_Dempsey/d3o1nZ-UsAs_0000012 341.0 346.2 
+Patrick_Dempsey/d3o1nZ-UsAs_0000013 355.5 361.4 
+Patrick_Dempsey/d3o1nZ-UsAs_0000014 385.7 390.5 
+Patrick_Dempsey/d3o1nZ-UsAs_0000015 395.9 406.6 
+Patrick_Dempsey/d3o1nZ-UsAs_0000016 417.7 425.9 
+Patrick_Dempsey/d3o1nZ-UsAs_0000017 442.9 447.1 
+Patrick_Dempsey/d3o1nZ-UsAs_0000018 449.3 453.4 
+Patrick_Dempsey/d3o1nZ-UsAs_0000019 454.3 458.6 
+Patrick_Dempsey/d3o1nZ-UsAs_0000020 476.8 483.5 
+Patrick_Dempsey/d3o1nZ-UsAs_0000021 503.2 515.8 
+Patrick_Dempsey/d3o1nZ-UsAs_0000022 517.9 527.6 
+Patrick_Dempsey/d3o1nZ-UsAs_0000023 528.6 534.6 
+Patrick_Dempsey/d3o1nZ-UsAs_0000024 557.8 567.4 
+Patrick_Dempsey/d3o1nZ-UsAs_0000025 621.2 630.9 
+Patrick_Dempsey/d3o1nZ-UsAs_0000026 663.7 667.7 
+Patrick_Dempsey/d3o1nZ-UsAs_0000027 681.6 687.0 
+Patrick_Dempsey/d3o1nZ-UsAs_0000028 695.4 700.1 
+Patrick_Dempsey/d3o1nZ-UsAs_0000029 700.8 706.6 
+Patrick_Dempsey/d3o1nZ-UsAs_0000030 707.5 717.8 
+Patrick_Dempsey/d3o1nZ-UsAs_0000031 783.8 794.5 
+Patrick_Dempsey/d3o1nZ-UsAs_0000032 796.9 803.9 
+Patrick_Dempsey/d3o1nZ-UsAs_0000033 804.3 808.3 
+Patrick_Dempsey/d3o1nZ-UsAs_0000034 809.5 817.2 

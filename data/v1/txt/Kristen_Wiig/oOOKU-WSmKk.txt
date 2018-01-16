@@ -1,0 +1,8 @@
+POI: 			Kristen_Wiig 
+Youtube ID: 	oOOKU-WSmKk 
+Video length: 	363.3 sec 
+Set (V): 		dev 
+ 
+Kristen_Wiig/oOOKU-WSmKk_0000001 59.4 64.9 
+Kristen_Wiig/oOOKU-WSmKk_0000002 114.8 119.4 
+Kristen_Wiig/oOOKU-WSmKk_0000003 120.8 125.0 

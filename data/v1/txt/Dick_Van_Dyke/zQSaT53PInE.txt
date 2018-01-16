@@ -1,0 +1,9 @@
+POI: 			Dick_Van_Dyke 
+Youtube ID: 	zQSaT53PInE 
+Video length: 	518.5 sec 
+Set (V): 		dev 
+ 
+Dick_Van_Dyke/zQSaT53PInE_0000001 23.5 31.1 
+Dick_Van_Dyke/zQSaT53PInE_0000002 370.0 374.8 
+Dick_Van_Dyke/zQSaT53PInE_0000003 447.6 455.2 
+Dick_Van_Dyke/zQSaT53PInE_0000004 455.4 468.8 

@@ -1,0 +1,7 @@
+POI: 			Arden_Cho 
+Youtube ID: 	pUT-sbhJy-0 
+Video length: 	211.9 sec 
+Set (V): 		dev 
+ 
+Arden_Cho/pUT-sbhJy-0_0000001 125.6 132.1 
+Arden_Cho/pUT-sbhJy-0_0000002 160.8 165.7 

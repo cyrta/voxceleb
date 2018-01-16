@@ -1,0 +1,11 @@
+POI: 			Isla_Fisher 
+Youtube ID: 	XAZ8DrhRGJM 
+Video length: 	311.5 sec 
+Set (V): 		dev 
+ 
+Isla_Fisher/XAZ8DrhRGJM_0000001 75.2 82.7 
+Isla_Fisher/XAZ8DrhRGJM_0000002 102.4 111.3 
+Isla_Fisher/XAZ8DrhRGJM_0000003 126.1 130.5 
+Isla_Fisher/XAZ8DrhRGJM_0000004 189.8 194.4 
+Isla_Fisher/XAZ8DrhRGJM_0000005 197.7 206.3 
+Isla_Fisher/XAZ8DrhRGJM_0000006 220.4 224.3 

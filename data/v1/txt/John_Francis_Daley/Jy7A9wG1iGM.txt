@@ -1,0 +1,21 @@
+POI: 			John_Francis_Daley 
+Youtube ID: 	Jy7A9wG1iGM 
+Video length: 	489.4 sec 
+Set (V): 		dev 
+ 
+John_Francis_Daley/Jy7A9wG1iGM_0000001 16.1 30.2 
+John_Francis_Daley/Jy7A9wG1iGM_0000002 47.0 53.1 
+John_Francis_Daley/Jy7A9wG1iGM_0000003 92.2 98.4 
+John_Francis_Daley/Jy7A9wG1iGM_0000004 106.4 130.8 
+John_Francis_Daley/Jy7A9wG1iGM_0000005 131.8 136.4 
+John_Francis_Daley/Jy7A9wG1iGM_0000006 251.6 274.9 
+John_Francis_Daley/Jy7A9wG1iGM_0000007 296.6 305.8 
+John_Francis_Daley/Jy7A9wG1iGM_0000008 298.0 305.7 
+John_Francis_Daley/Jy7A9wG1iGM_0000009 317.5 335.4 
+John_Francis_Daley/Jy7A9wG1iGM_0000010 347.7 377.6 
+John_Francis_Daley/Jy7A9wG1iGM_0000011 402.1 411.4 
+John_Francis_Daley/Jy7A9wG1iGM_0000012 419.4 426.8 
+John_Francis_Daley/Jy7A9wG1iGM_0000013 427.1 432.0 
+John_Francis_Daley/Jy7A9wG1iGM_0000014 432.8 447.8 
+John_Francis_Daley/Jy7A9wG1iGM_0000015 473.4 479.2 
+John_Francis_Daley/Jy7A9wG1iGM_0000016 480.0 485.8 

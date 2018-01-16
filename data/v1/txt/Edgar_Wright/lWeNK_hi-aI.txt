@@ -1,0 +1,9 @@
+POI: 			Edgar_Wright 
+Youtube ID: 	lWeNK_hi-aI 
+Video length: 	307.0 sec 
+Set (V): 		test 
+ 
+Edgar_Wright/lWeNK_hi-aI_0000001 152.0 157.1 
+Edgar_Wright/lWeNK_hi-aI_0000002 159.6 165.6 
+Edgar_Wright/lWeNK_hi-aI_0000003 210.9 216.5 
+Edgar_Wright/lWeNK_hi-aI_0000004 218.7 233.6 

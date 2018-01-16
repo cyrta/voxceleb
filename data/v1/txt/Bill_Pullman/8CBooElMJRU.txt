@@ -1,0 +1,7 @@
+POI: 			Bill_Pullman 
+Youtube ID: 	8CBooElMJRU 
+Video length: 	224.7 sec 
+Set (V): 		dev 
+ 
+Bill_Pullman/8CBooElMJRU_0000001 58.9 66.7 
+Bill_Pullman/8CBooElMJRU_0000002 78.2 82.3 

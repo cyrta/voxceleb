@@ -1,0 +1,15 @@
+POI: 			Sheridan_Smith 
+Youtube ID: 	QTy2l7f5NWw 
+Video length: 	240.8 sec 
+Set (V): 		dev 
+ 
+Sheridan_Smith/QTy2l7f5NWw_0000001 17.4 22.5 
+Sheridan_Smith/QTy2l7f5NWw_0000002 24.9 32.4 
+Sheridan_Smith/QTy2l7f5NWw_0000003 54.0 59.1 
+Sheridan_Smith/QTy2l7f5NWw_0000004 61.8 68.9 
+Sheridan_Smith/QTy2l7f5NWw_0000005 76.8 81.3 
+Sheridan_Smith/QTy2l7f5NWw_0000006 95.6 99.9 
+Sheridan_Smith/QTy2l7f5NWw_0000007 135.4 139.6 
+Sheridan_Smith/QTy2l7f5NWw_0000008 151.8 158.1 
+Sheridan_Smith/QTy2l7f5NWw_0000009 179.8 189.9 
+Sheridan_Smith/QTy2l7f5NWw_0000010 206.2 211.5 

@@ -1,0 +1,39 @@
+POI: 			Richard_Dean_Anderson 
+Youtube ID: 	lyozoNsnDtY 
+Video length: 	1524.5 sec 
+Set (V): 		dev 
+ 
+Richard_Dean_Anderson/lyozoNsnDtY_0000001 24.9 36.2 
+Richard_Dean_Anderson/lyozoNsnDtY_0000002 113.3 125.4 
+Richard_Dean_Anderson/lyozoNsnDtY_0000003 135.4 140.0 
+Richard_Dean_Anderson/lyozoNsnDtY_0000004 177.2 181.6 
+Richard_Dean_Anderson/lyozoNsnDtY_0000005 197.5 210.7 
+Richard_Dean_Anderson/lyozoNsnDtY_0000006 211.4 217.2 
+Richard_Dean_Anderson/lyozoNsnDtY_0000007 229.9 235.8 
+Richard_Dean_Anderson/lyozoNsnDtY_0000008 261.6 271.0 
+Richard_Dean_Anderson/lyozoNsnDtY_0000009 394.1 401.4 
+Richard_Dean_Anderson/lyozoNsnDtY_0000010 401.5 411.7 
+Richard_Dean_Anderson/lyozoNsnDtY_0000011 457.8 466.1 
+Richard_Dean_Anderson/lyozoNsnDtY_0000012 466.4 470.7 
+Richard_Dean_Anderson/lyozoNsnDtY_0000013 472.4 476.5 
+Richard_Dean_Anderson/lyozoNsnDtY_0000014 562.6 566.8 
+Richard_Dean_Anderson/lyozoNsnDtY_0000015 569.8 578.0 
+Richard_Dean_Anderson/lyozoNsnDtY_0000016 610.0 617.3 
+Richard_Dean_Anderson/lyozoNsnDtY_0000017 617.7 630.2 
+Richard_Dean_Anderson/lyozoNsnDtY_0000018 652.6 660.1 
+Richard_Dean_Anderson/lyozoNsnDtY_0000019 680.1 700.1 
+Richard_Dean_Anderson/lyozoNsnDtY_0000020 708.8 714.4 
+Richard_Dean_Anderson/lyozoNsnDtY_0000021 857.3 863.7 
+Richard_Dean_Anderson/lyozoNsnDtY_0000022 886.2 891.2 
+Richard_Dean_Anderson/lyozoNsnDtY_0000023 909.6 915.1 
+Richard_Dean_Anderson/lyozoNsnDtY_0000024 1113.4 1117.4 
+Richard_Dean_Anderson/lyozoNsnDtY_0000025 1272.9 1277.9 
+Richard_Dean_Anderson/lyozoNsnDtY_0000026 1280.2 1289.8 
+Richard_Dean_Anderson/lyozoNsnDtY_0000027 1320.5 1325.8 
+Richard_Dean_Anderson/lyozoNsnDtY_0000028 1340.7 1347.2 
+Richard_Dean_Anderson/lyozoNsnDtY_0000029 1359.2 1365.8 
+Richard_Dean_Anderson/lyozoNsnDtY_0000030 1367.4 1373.9 
+Richard_Dean_Anderson/lyozoNsnDtY_0000031 1476.9 1481.5 
+Richard_Dean_Anderson/lyozoNsnDtY_0000032 1493.0 1497.2 
+Richard_Dean_Anderson/lyozoNsnDtY_0000033 1498.8 1504.7 
+Richard_Dean_Anderson/lyozoNsnDtY_0000034 1508.2 1512.2 

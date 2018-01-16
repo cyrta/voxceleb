@@ -1,0 +1,8 @@
+POI: 			Randeep_Hooda 
+Youtube ID: 	CkhXmrKN5A8 
+Video length: 	1094.5 sec 
+Set (V): 		dev 
+ 
+Randeep_Hooda/CkhXmrKN5A8_0000001 71.1 75.8 
+Randeep_Hooda/CkhXmrKN5A8_0000002 424.8 429.2 
+Randeep_Hooda/CkhXmrKN5A8_0000003 450.9 457.7 

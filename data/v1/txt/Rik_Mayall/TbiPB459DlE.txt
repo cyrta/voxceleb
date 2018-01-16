@@ -1,0 +1,8 @@
+POI: 			Rik_Mayall 
+Youtube ID: 	TbiPB459DlE 
+Video length: 	262.2 sec 
+Set (V): 		dev 
+ 
+Rik_Mayall/TbiPB459DlE_0000001 20.0 27.7 
+Rik_Mayall/TbiPB459DlE_0000002 44.3 48.6 
+Rik_Mayall/TbiPB459DlE_0000003 67.9 73.9 

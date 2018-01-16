@@ -1,0 +1,9 @@
+POI: 			Jack_Black 
+Youtube ID: 	tt99QqoU4FQ 
+Video length: 	177.8 sec 
+Set (V): 		dev 
+ 
+Jack_Black/tt99QqoU4FQ_0000001 07.8 13.0 
+Jack_Black/tt99QqoU4FQ_0000002 33.0 39.3 
+Jack_Black/tt99QqoU4FQ_0000003 98.8 103.6 
+Jack_Black/tt99QqoU4FQ_0000004 123.1 131.8 

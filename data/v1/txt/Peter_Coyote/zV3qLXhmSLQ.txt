@@ -1,0 +1,16 @@
+POI: 			Peter_Coyote 
+Youtube ID: 	zV3qLXhmSLQ 
+Video length: 	305.4 sec 
+Set (V): 		dev 
+ 
+Peter_Coyote/zV3qLXhmSLQ_0000001 65.6 77.2 
+Peter_Coyote/zV3qLXhmSLQ_0000002 79.3 97.5 
+Peter_Coyote/zV3qLXhmSLQ_0000003 97.6 103.3 
+Peter_Coyote/zV3qLXhmSLQ_0000004 105.4 120.2 
+Peter_Coyote/zV3qLXhmSLQ_0000005 144.6 169.2 
+Peter_Coyote/zV3qLXhmSLQ_0000006 186.6 191.5 
+Peter_Coyote/zV3qLXhmSLQ_0000007 193.2 203.0 
+Peter_Coyote/zV3qLXhmSLQ_0000008 206.6 213.1 
+Peter_Coyote/zV3qLXhmSLQ_0000009 223.7 229.2 
+Peter_Coyote/zV3qLXhmSLQ_0000010 267.9 282.5 
+Peter_Coyote/zV3qLXhmSLQ_0000011 290.1 296.3 

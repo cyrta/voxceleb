@@ -1,0 +1,7 @@
+POI: 			Odette_Annable 
+Youtube ID: 	LppZlmNTViQ 
+Video length: 	405.1 sec 
+Set (V): 		dev 
+ 
+Odette_Annable/LppZlmNTViQ_0000001 100.6 109.1 
+Odette_Annable/LppZlmNTViQ_0000002 109.8 119.1 

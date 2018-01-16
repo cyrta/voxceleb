@@ -1,0 +1,16 @@
+POI: 			Alex_Borstein 
+Youtube ID: 	WBjWoYv8WcI 
+Video length: 	248.3 sec 
+Set (V): 		dev 
+ 
+Alex_Borstein/WBjWoYv8WcI_0000001 71.7 78.8 
+Alex_Borstein/WBjWoYv8WcI_0000002 113.6 119.5 
+Alex_Borstein/WBjWoYv8WcI_0000003 131.9 136.7 
+Alex_Borstein/WBjWoYv8WcI_0000004 137.8 142.4 
+Alex_Borstein/WBjWoYv8WcI_0000005 145.8 150.0 
+Alex_Borstein/WBjWoYv8WcI_0000006 155.2 162.8 
+Alex_Borstein/WBjWoYv8WcI_0000007 165.0 176.0 
+Alex_Borstein/WBjWoYv8WcI_0000008 176.6 181.6 
+Alex_Borstein/WBjWoYv8WcI_0000009 184.2 189.0 
+Alex_Borstein/WBjWoYv8WcI_0000010 220.1 224.8 
+Alex_Borstein/WBjWoYv8WcI_0000011 236.4 240.7 

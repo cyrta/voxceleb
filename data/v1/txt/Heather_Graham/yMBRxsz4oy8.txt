@@ -1,0 +1,13 @@
+POI: 			Heather_Graham 
+Youtube ID: 	yMBRxsz4oy8 
+Video length: 	213.2 sec 
+Set (V): 		dev 
+ 
+Heather_Graham/yMBRxsz4oy8_0000001 03.4 11.6 
+Heather_Graham/yMBRxsz4oy8_0000002 21.2 35.8 
+Heather_Graham/yMBRxsz4oy8_0000003 46.0 68.9 
+Heather_Graham/yMBRxsz4oy8_0000004 83.4 88.0 
+Heather_Graham/yMBRxsz4oy8_0000005 88.3 102.6 
+Heather_Graham/yMBRxsz4oy8_0000006 150.8 158.3 
+Heather_Graham/yMBRxsz4oy8_0000007 158.9 164.9 
+Heather_Graham/yMBRxsz4oy8_0000008 165.5 175.5 

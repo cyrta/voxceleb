@@ -1,0 +1,7 @@
+POI: 			Padma_Lakshmi 
+Youtube ID: 	ZCLg0ChDsGA 
+Video length: 	143.3 sec 
+Set (V): 		dev 
+ 
+Padma_Lakshmi/ZCLg0ChDsGA_0000001 42.6 47.4 
+Padma_Lakshmi/ZCLg0ChDsGA_0000002 106.7 114.6 

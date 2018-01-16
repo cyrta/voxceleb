@@ -1,0 +1,9 @@
+POI: 			Natalie_Zea 
+Youtube ID: 	yaqJImSMuKs 
+Video length: 	204.9 sec 
+Set (V): 		dev 
+ 
+Natalie_Zea/yaqJImSMuKs_0000001 51.6 55.9 
+Natalie_Zea/yaqJImSMuKs_0000002 124.8 131.9 
+Natalie_Zea/yaqJImSMuKs_0000003 154.5 158.8 
+Natalie_Zea/yaqJImSMuKs_0000004 180.8 186.6 

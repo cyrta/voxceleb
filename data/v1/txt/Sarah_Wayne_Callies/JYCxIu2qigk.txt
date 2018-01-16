@@ -1,0 +1,16 @@
+POI: 			Sarah_Wayne_Callies 
+Youtube ID: 	JYCxIu2qigk 
+Video length: 	308.0 sec 
+Set (V): 		dev 
+ 
+Sarah_Wayne_Callies/JYCxIu2qigk_0000001 61.1 72.8 
+Sarah_Wayne_Callies/JYCxIu2qigk_0000002 95.6 111.1 
+Sarah_Wayne_Callies/JYCxIu2qigk_0000003 118.2 130.6 
+Sarah_Wayne_Callies/JYCxIu2qigk_0000004 149.8 156.1 
+Sarah_Wayne_Callies/JYCxIu2qigk_0000005 170.7 177.0 
+Sarah_Wayne_Callies/JYCxIu2qigk_0000006 184.6 196.8 
+Sarah_Wayne_Callies/JYCxIu2qigk_0000007 198.7 210.0 
+Sarah_Wayne_Callies/JYCxIu2qigk_0000008 224.8 233.4 
+Sarah_Wayne_Callies/JYCxIu2qigk_0000009 233.9 238.0 
+Sarah_Wayne_Callies/JYCxIu2qigk_0000010 262.5 273.4 
+Sarah_Wayne_Callies/JYCxIu2qigk_0000011 275.2 281.4 

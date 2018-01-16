@@ -1,0 +1,11 @@
+POI: 			Anthony_Anderson 
+Youtube ID: 	KAR9QkES6wQ 
+Video length: 	207.8 sec 
+Set (V): 		dev 
+ 
+Anthony_Anderson/KAR9QkES6wQ_0000001 37.8 44.2 
+Anthony_Anderson/KAR9QkES6wQ_0000002 66.0 70.6 
+Anthony_Anderson/KAR9QkES6wQ_0000003 79.2 86.4 
+Anthony_Anderson/KAR9QkES6wQ_0000004 121.5 136.6 
+Anthony_Anderson/KAR9QkES6wQ_0000005 163.5 177.3 
+Anthony_Anderson/KAR9QkES6wQ_0000006 178.4 182.8 

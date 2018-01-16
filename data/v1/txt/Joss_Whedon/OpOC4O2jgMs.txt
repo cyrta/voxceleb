@@ -1,0 +1,17 @@
+POI: 			Joss_Whedon 
+Youtube ID: 	OpOC4O2jgMs 
+Video length: 	397.5 sec 
+Set (V): 		dev 
+ 
+Joss_Whedon/OpOC4O2jgMs_0000001 34.6 40.7 
+Joss_Whedon/OpOC4O2jgMs_0000002 40.8 52.8 
+Joss_Whedon/OpOC4O2jgMs_0000003 104.5 115.9 
+Joss_Whedon/OpOC4O2jgMs_0000004 136.5 148.6 
+Joss_Whedon/OpOC4O2jgMs_0000005 185.5 190.0 
+Joss_Whedon/OpOC4O2jgMs_0000006 195.0 199.4 
+Joss_Whedon/OpOC4O2jgMs_0000007 226.3 232.8 
+Joss_Whedon/OpOC4O2jgMs_0000008 237.1 242.3 
+Joss_Whedon/OpOC4O2jgMs_0000009 242.6 251.4 
+Joss_Whedon/OpOC4O2jgMs_0000010 268.8 281.3 
+Joss_Whedon/OpOC4O2jgMs_0000011 282.2 287.7 
+Joss_Whedon/OpOC4O2jgMs_0000012 307.9 320.3 

@@ -1,0 +1,7 @@
+POI: 			Rob_Riggle 
+Youtube ID: 	C3aI45b0zR4 
+Video length: 	378.9 sec 
+Set (V): 		dev 
+ 
+Rob_Riggle/C3aI45b0zR4_0000001 223.5 229.8 
+Rob_Riggle/C3aI45b0zR4_0000002 292.8 296.8 

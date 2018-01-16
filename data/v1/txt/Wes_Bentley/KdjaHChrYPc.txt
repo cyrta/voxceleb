@@ -1,0 +1,18 @@
+POI: 			Wes_Bentley 
+Youtube ID: 	KdjaHChrYPc 
+Video length: 	220.0 sec 
+Set (V): 		dev 
+ 
+Wes_Bentley/KdjaHChrYPc_0000001 22.4 29.0 
+Wes_Bentley/KdjaHChrYPc_0000002 29.8 33.9 
+Wes_Bentley/KdjaHChrYPc_0000003 58.8 64.7 
+Wes_Bentley/KdjaHChrYPc_0000004 75.0 80.9 
+Wes_Bentley/KdjaHChrYPc_0000005 115.7 120.4 
+Wes_Bentley/KdjaHChrYPc_0000006 121.3 132.0 
+Wes_Bentley/KdjaHChrYPc_0000007 133.1 137.7 
+Wes_Bentley/KdjaHChrYPc_0000008 141.7 146.4 
+Wes_Bentley/KdjaHChrYPc_0000009 147.4 152.1 
+Wes_Bentley/KdjaHChrYPc_0000010 174.8 182.1 
+Wes_Bentley/KdjaHChrYPc_0000011 182.6 186.6 
+Wes_Bentley/KdjaHChrYPc_0000012 188.9 198.8 
+Wes_Bentley/KdjaHChrYPc_0000013 204.9 211.6 

@@ -1,0 +1,7 @@
+POI: 			Christina_Hendricks 
+Youtube ID: 	tDR48s8YZ1E 
+Video length: 	205.4 sec 
+Set (V): 		dev 
+ 
+Christina_Hendricks/tDR48s8YZ1E_0000001 61.8 68.9 
+Christina_Hendricks/tDR48s8YZ1E_0000002 69.1 78.6 

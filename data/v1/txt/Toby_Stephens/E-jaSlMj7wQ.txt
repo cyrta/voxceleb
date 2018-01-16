@@ -1,0 +1,21 @@
+POI: 			Toby_Stephens 
+Youtube ID: 	E-jaSlMj7wQ 
+Video length: 	416.3 sec 
+Set (V): 		dev 
+ 
+Toby_Stephens/E-jaSlMj7wQ_0000001 35.5 40.9 
+Toby_Stephens/E-jaSlMj7wQ_0000002 41.8 51.2 
+Toby_Stephens/E-jaSlMj7wQ_0000003 51.7 62.9 
+Toby_Stephens/E-jaSlMj7wQ_0000004 63.4 67.6 
+Toby_Stephens/E-jaSlMj7wQ_0000005 69.2 77.2 
+Toby_Stephens/E-jaSlMj7wQ_0000006 99.8 149.6 
+Toby_Stephens/E-jaSlMj7wQ_0000007 150.5 176.9 
+Toby_Stephens/E-jaSlMj7wQ_0000008 190.1 195.5 
+Toby_Stephens/E-jaSlMj7wQ_0000009 196.6 219.3 
+Toby_Stephens/E-jaSlMj7wQ_0000010 220.2 233.0 
+Toby_Stephens/E-jaSlMj7wQ_0000011 234.8 240.3 
+Toby_Stephens/E-jaSlMj7wQ_0000012 258.9 265.0 
+Toby_Stephens/E-jaSlMj7wQ_0000013 265.4 276.9 
+Toby_Stephens/E-jaSlMj7wQ_0000014 278.0 285.4 
+Toby_Stephens/E-jaSlMj7wQ_0000015 286.2 307.4 
+Toby_Stephens/E-jaSlMj7wQ_0000016 307.6 332.7 

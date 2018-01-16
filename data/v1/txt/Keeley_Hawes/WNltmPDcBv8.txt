@@ -1,0 +1,16 @@
+POI: 			Keeley_Hawes 
+Youtube ID: 	WNltmPDcBv8 
+Video length: 	264.0 sec 
+Set (V): 		dev 
+ 
+Keeley_Hawes/WNltmPDcBv8_0000001 40.6 47.8 
+Keeley_Hawes/WNltmPDcBv8_0000002 77.5 81.7 
+Keeley_Hawes/WNltmPDcBv8_0000003 82.0 86.8 
+Keeley_Hawes/WNltmPDcBv8_0000004 87.8 97.0 
+Keeley_Hawes/WNltmPDcBv8_0000005 97.6 102.0 
+Keeley_Hawes/WNltmPDcBv8_0000006 136.1 142.4 
+Keeley_Hawes/WNltmPDcBv8_0000007 143.0 148.5 
+Keeley_Hawes/WNltmPDcBv8_0000008 183.5 188.4 
+Keeley_Hawes/WNltmPDcBv8_0000009 196.5 201.0 
+Keeley_Hawes/WNltmPDcBv8_0000010 211.9 218.4 
+Keeley_Hawes/WNltmPDcBv8_0000011 245.5 252.5 

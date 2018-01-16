@@ -1,0 +1,15 @@
+POI: 			Jenifer_Lewis 
+Youtube ID: 	qrQxyCSL440 
+Video length: 	1125.1 sec 
+Set (V): 		dev 
+ 
+Jenifer_Lewis/qrQxyCSL440_0000001 130.9 136.1 
+Jenifer_Lewis/qrQxyCSL440_0000002 140.6 153.0 
+Jenifer_Lewis/qrQxyCSL440_0000003 355.0 365.7 
+Jenifer_Lewis/qrQxyCSL440_0000004 365.8 370.4 
+Jenifer_Lewis/qrQxyCSL440_0000005 493.4 500.2 
+Jenifer_Lewis/qrQxyCSL440_0000006 503.8 508.8 
+Jenifer_Lewis/qrQxyCSL440_0000007 509.3 514.1 
+Jenifer_Lewis/qrQxyCSL440_0000008 606.1 611.1 
+Jenifer_Lewis/qrQxyCSL440_0000009 623.8 630.7 
+Jenifer_Lewis/qrQxyCSL440_0000010 954.9 965.6 

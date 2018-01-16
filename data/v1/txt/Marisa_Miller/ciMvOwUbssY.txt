@@ -1,0 +1,8 @@
+POI: 			Marisa_Miller 
+Youtube ID: 	ciMvOwUbssY 
+Video length: 	115.3 sec 
+Set (V): 		dev 
+ 
+Marisa_Miller/ciMvOwUbssY_0000001 07.0 24.1 
+Marisa_Miller/ciMvOwUbssY_0000002 28.4 34.4 
+Marisa_Miller/ciMvOwUbssY_0000003 38.1 46.7 

@@ -1,0 +1,18 @@
+POI: 			Kevin_Smith 
+Youtube ID: 	Y2lVYYS0afY 
+Video length: 	654.6 sec 
+Set (V): 		dev 
+ 
+Kevin_Smith/Y2lVYYS0afY_0000001 127.8 137.9 
+Kevin_Smith/Y2lVYYS0afY_0000002 171.4 176.6 
+Kevin_Smith/Y2lVYYS0afY_0000003 217.6 223.2 
+Kevin_Smith/Y2lVYYS0afY_0000004 223.9 231.6 
+Kevin_Smith/Y2lVYYS0afY_0000005 241.4 246.5 
+Kevin_Smith/Y2lVYYS0afY_0000006 253.0 269.6 
+Kevin_Smith/Y2lVYYS0afY_0000007 332.0 336.9 
+Kevin_Smith/Y2lVYYS0afY_0000008 337.3 344.8 
+Kevin_Smith/Y2lVYYS0afY_0000009 397.8 403.1 
+Kevin_Smith/Y2lVYYS0afY_0000010 403.4 408.2 
+Kevin_Smith/Y2lVYYS0afY_0000011 533.5 555.8 
+Kevin_Smith/Y2lVYYS0afY_0000012 559.1 568.0 
+Kevin_Smith/Y2lVYYS0afY_0000013 571.5 581.1 

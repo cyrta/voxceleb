@@ -1,0 +1,12 @@
+POI: 			Josh_Groban 
+Youtube ID: 	s6Mr6ANzcQQ 
+Video length: 	174.1 sec 
+Set (V): 		dev 
+ 
+Josh_Groban/s6Mr6ANzcQQ_0000001 45.4 53.6 
+Josh_Groban/s6Mr6ANzcQQ_0000002 60.4 64.4 
+Josh_Groban/s6Mr6ANzcQQ_0000003 65.8 75.5 
+Josh_Groban/s6Mr6ANzcQQ_0000004 99.6 118.7 
+Josh_Groban/s6Mr6ANzcQQ_0000005 123.0 129.4 
+Josh_Groban/s6Mr6ANzcQQ_0000006 137.3 142.0 
+Josh_Groban/s6Mr6ANzcQQ_0000007 145.0 155.5 

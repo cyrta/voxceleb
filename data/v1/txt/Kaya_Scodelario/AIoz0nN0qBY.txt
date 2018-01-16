@@ -1,0 +1,10 @@
+POI: 			Kaya_Scodelario 
+Youtube ID: 	AIoz0nN0qBY 
+Video length: 	145.7 sec 
+Set (V): 		dev 
+ 
+Kaya_Scodelario/AIoz0nN0qBY_0000001 17.6 21.6 
+Kaya_Scodelario/AIoz0nN0qBY_0000002 45.9 50.0 
+Kaya_Scodelario/AIoz0nN0qBY_0000003 65.6 73.8 
+Kaya_Scodelario/AIoz0nN0qBY_0000004 89.9 95.4 
+Kaya_Scodelario/AIoz0nN0qBY_0000005 99.5 103.5 

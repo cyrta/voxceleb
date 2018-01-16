@@ -1,0 +1,9 @@
+POI: 			Olivia_Colman 
+Youtube ID: 	drNFgUZn-gg 
+Video length: 	114.7 sec 
+Set (V): 		dev 
+ 
+Olivia_Colman/drNFgUZn-gg_0000001 03.7 09.0 
+Olivia_Colman/drNFgUZn-gg_0000002 30.7 42.7 
+Olivia_Colman/drNFgUZn-gg_0000003 57.4 68.6 
+Olivia_Colman/drNFgUZn-gg_0000004 78.4 83.7 

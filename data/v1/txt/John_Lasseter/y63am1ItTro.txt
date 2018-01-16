@@ -1,0 +1,10 @@
+POI: 			John_Lasseter 
+Youtube ID: 	y63am1ItTro 
+Video length: 	576.2 sec 
+Set (V): 		dev 
+ 
+John_Lasseter/y63am1ItTro_0000001 45.4 50.0 
+John_Lasseter/y63am1ItTro_0000002 50.5 58.7 
+John_Lasseter/y63am1ItTro_0000003 192.1 201.9 
+John_Lasseter/y63am1ItTro_0000004 283.3 288.7 
+John_Lasseter/y63am1ItTro_0000005 550.3 554.6 

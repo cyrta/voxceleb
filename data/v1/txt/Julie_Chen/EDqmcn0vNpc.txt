@@ -1,0 +1,8 @@
+POI: 			Julie_Chen 
+Youtube ID: 	EDqmcn0vNpc 
+Video length: 	98.4 sec 
+Set (V): 		dev 
+ 
+Julie_Chen/EDqmcn0vNpc_0000001 28.7 40.2 
+Julie_Chen/EDqmcn0vNpc_0000002 41.1 47.3 
+Julie_Chen/EDqmcn0vNpc_0000003 52.1 58.7 

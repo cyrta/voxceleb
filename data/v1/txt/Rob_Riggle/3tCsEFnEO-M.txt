@@ -1,0 +1,15 @@
+POI: 			Rob_Riggle 
+Youtube ID: 	3tCsEFnEO-M 
+Video length: 	544.4 sec 
+Set (V): 		dev 
+ 
+Rob_Riggle/3tCsEFnEO-M_0000001 114.1 126.0 
+Rob_Riggle/3tCsEFnEO-M_0000002 161.3 167.1 
+Rob_Riggle/3tCsEFnEO-M_0000003 167.4 174.0 
+Rob_Riggle/3tCsEFnEO-M_0000004 174.9 182.9 
+Rob_Riggle/3tCsEFnEO-M_0000005 254.4 261.5 
+Rob_Riggle/3tCsEFnEO-M_0000006 263.6 268.9 
+Rob_Riggle/3tCsEFnEO-M_0000007 276.8 282.3 
+Rob_Riggle/3tCsEFnEO-M_0000008 348.7 357.1 
+Rob_Riggle/3tCsEFnEO-M_0000009 358.0 365.1 
+Rob_Riggle/3tCsEFnEO-M_0000010 466.6 473.5 

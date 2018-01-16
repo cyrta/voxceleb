@@ -1,0 +1,7 @@
+POI: 			Derek_Mears 
+Youtube ID: 	1IIxq_HUdNc 
+Video length: 	177.7 sec 
+Set (V): 		dev 
+ 
+Derek_Mears/1IIxq_HUdNc_0000001 96.8 101.1 
+Derek_Mears/1IIxq_HUdNc_0000002 122.0 128.6 

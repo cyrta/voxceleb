@@ -1,0 +1,14 @@
+POI: 			Dick_Van_Dyke 
+Youtube ID: 	RklatOZZBxE 
+Video length: 	139.5 sec 
+Set (V): 		dev 
+ 
+Dick_Van_Dyke/RklatOZZBxE_0000001 13.0 19.2 
+Dick_Van_Dyke/RklatOZZBxE_0000002 20.6 39.0 
+Dick_Van_Dyke/RklatOZZBxE_0000003 43.8 52.8 
+Dick_Van_Dyke/RklatOZZBxE_0000004 60.8 68.3 
+Dick_Van_Dyke/RklatOZZBxE_0000005 72.4 78.0 
+Dick_Van_Dyke/RklatOZZBxE_0000006 80.8 87.4 
+Dick_Van_Dyke/RklatOZZBxE_0000007 95.1 99.9 
+Dick_Van_Dyke/RklatOZZBxE_0000008 102.8 111.9 
+Dick_Van_Dyke/RklatOZZBxE_0000009 117.3 129.4 

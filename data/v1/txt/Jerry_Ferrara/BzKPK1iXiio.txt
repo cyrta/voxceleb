@@ -1,0 +1,9 @@
+POI: 			Jerry_Ferrara 
+Youtube ID: 	BzKPK1iXiio 
+Video length: 	261.7 sec 
+Set (V): 		dev 
+ 
+Jerry_Ferrara/BzKPK1iXiio_0000001 57.6 66.8 
+Jerry_Ferrara/BzKPK1iXiio_0000002 70.0 84.8 
+Jerry_Ferrara/BzKPK1iXiio_0000003 204.1 218.0 
+Jerry_Ferrara/BzKPK1iXiio_0000004 219.2 237.0 

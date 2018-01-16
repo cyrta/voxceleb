@@ -1,0 +1,9 @@
+POI: 			Judy_Sheindlin 
+Youtube ID: 	WO0a658HEo4 
+Video length: 	255.6 sec 
+Set (V): 		dev 
+ 
+Judy_Sheindlin/WO0a658HEo4_0000001 07.7 14.5 
+Judy_Sheindlin/WO0a658HEo4_0000002 15.4 20.3 
+Judy_Sheindlin/WO0a658HEo4_0000003 25.2 29.1 
+Judy_Sheindlin/WO0a658HEo4_0000004 90.3 98.5 

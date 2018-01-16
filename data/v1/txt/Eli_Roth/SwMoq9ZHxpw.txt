@@ -1,0 +1,14 @@
+POI: 			Eli_Roth 
+Youtube ID: 	SwMoq9ZHxpw 
+Video length: 	189.1 sec 
+Set (V): 		test 
+ 
+Eli_Roth/SwMoq9ZHxpw_0000001 28.5 35.8 
+Eli_Roth/SwMoq9ZHxpw_0000002 55.6 61.1 
+Eli_Roth/SwMoq9ZHxpw_0000003 72.3 88.0 
+Eli_Roth/SwMoq9ZHxpw_0000004 93.0 103.2 
+Eli_Roth/SwMoq9ZHxpw_0000005 121.5 125.7 
+Eli_Roth/SwMoq9ZHxpw_0000006 126.8 136.0 
+Eli_Roth/SwMoq9ZHxpw_0000007 140.7 147.7 
+Eli_Roth/SwMoq9ZHxpw_0000008 153.8 158.3 
+Eli_Roth/SwMoq9ZHxpw_0000009 167.4 173.0 

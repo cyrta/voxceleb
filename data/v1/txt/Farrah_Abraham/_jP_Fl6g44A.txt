@@ -1,0 +1,9 @@
+POI: 			Farrah_Abraham 
+Youtube ID: 	_jP_Fl6g44A 
+Video length: 	184.8 sec 
+Set (V): 		dev 
+ 
+Farrah_Abraham/_jP_Fl6g44A_0000001 51.3 59.7 
+Farrah_Abraham/_jP_Fl6g44A_0000002 66.9 71.7 
+Farrah_Abraham/_jP_Fl6g44A_0000003 102.0 117.8 
+Farrah_Abraham/_jP_Fl6g44A_0000004 135.6 140.0 

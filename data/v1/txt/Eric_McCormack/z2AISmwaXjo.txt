@@ -1,0 +1,14 @@
+POI: 			Eric_McCormack 
+Youtube ID: 	z2AISmwaXjo 
+Video length: 	240.8 sec 
+Set (V): 		test 
+ 
+Eric_McCormack/z2AISmwaXjo_0000001 38.4 44.0 
+Eric_McCormack/z2AISmwaXjo_0000002 51.4 57.0 
+Eric_McCormack/z2AISmwaXjo_0000003 133.0 137.6 
+Eric_McCormack/z2AISmwaXjo_0000004 140.7 145.7 
+Eric_McCormack/z2AISmwaXjo_0000005 146.9 156.4 
+Eric_McCormack/z2AISmwaXjo_0000006 160.8 164.8 
+Eric_McCormack/z2AISmwaXjo_0000007 193.9 200.4 
+Eric_McCormack/z2AISmwaXjo_0000008 214.2 219.6 
+Eric_McCormack/z2AISmwaXjo_0000009 219.3 223.7 

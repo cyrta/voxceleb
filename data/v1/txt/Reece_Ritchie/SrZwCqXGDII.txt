@@ -1,0 +1,8 @@
+POI: 			Reece_Ritchie 
+Youtube ID: 	SrZwCqXGDII 
+Video length: 	82.4 sec 
+Set (V): 		dev 
+ 
+Reece_Ritchie/SrZwCqXGDII_0000001 05.5 11.8 
+Reece_Ritchie/SrZwCqXGDII_0000002 26.5 37.2 
+Reece_Ritchie/SrZwCqXGDII_0000003 57.2 73.2 

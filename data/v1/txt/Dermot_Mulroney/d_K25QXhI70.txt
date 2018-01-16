@@ -1,0 +1,11 @@
+POI: 			Dermot_Mulroney 
+Youtube ID: 	d_K25QXhI70 
+Video length: 	197.9 sec 
+Set (V): 		dev 
+ 
+Dermot_Mulroney/d_K25QXhI70_0000001 14.9 30.5 
+Dermot_Mulroney/d_K25QXhI70_0000002 31.0 47.0 
+Dermot_Mulroney/d_K25QXhI70_0000003 59.2 70.2 
+Dermot_Mulroney/d_K25QXhI70_0000004 73.6 88.2 
+Dermot_Mulroney/d_K25QXhI70_0000005 95.6 101.4 
+Dermot_Mulroney/d_K25QXhI70_0000006 130.4 140.3 

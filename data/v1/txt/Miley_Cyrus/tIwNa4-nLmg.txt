@@ -1,0 +1,20 @@
+POI: 			Miley_Cyrus 
+Youtube ID: 	tIwNa4-nLmg 
+Video length: 	502.9 sec 
+Set (V): 		dev 
+ 
+Miley_Cyrus/tIwNa4-nLmg_0000001 48.6 55.9 
+Miley_Cyrus/tIwNa4-nLmg_0000002 57.2 71.1 
+Miley_Cyrus/tIwNa4-nLmg_0000003 79.0 85.0 
+Miley_Cyrus/tIwNa4-nLmg_0000004 90.6 96.2 
+Miley_Cyrus/tIwNa4-nLmg_0000005 163.0 171.8 
+Miley_Cyrus/tIwNa4-nLmg_0000006 178.1 184.5 
+Miley_Cyrus/tIwNa4-nLmg_0000007 258.8 265.2 
+Miley_Cyrus/tIwNa4-nLmg_0000008 305.8 316.2 
+Miley_Cyrus/tIwNa4-nLmg_0000009 328.8 333.2 
+Miley_Cyrus/tIwNa4-nLmg_0000010 339.7 348.3 
+Miley_Cyrus/tIwNa4-nLmg_0000011 350.2 358.8 
+Miley_Cyrus/tIwNa4-nLmg_0000012 363.5 368.0 
+Miley_Cyrus/tIwNa4-nLmg_0000013 384.6 397.7 
+Miley_Cyrus/tIwNa4-nLmg_0000014 409.8 414.6 
+Miley_Cyrus/tIwNa4-nLmg_0000015 417.0 421.6 

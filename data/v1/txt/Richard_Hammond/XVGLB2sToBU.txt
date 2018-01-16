@@ -1,0 +1,9 @@
+POI: 			Richard_Hammond 
+Youtube ID: 	XVGLB2sToBU 
+Video length: 	131.9 sec 
+Set (V): 		dev 
+ 
+Richard_Hammond/XVGLB2sToBU_0000001 24.2 31.2 
+Richard_Hammond/XVGLB2sToBU_0000002 38.2 42.9 
+Richard_Hammond/XVGLB2sToBU_0000003 88.5 101.7 
+Richard_Hammond/XVGLB2sToBU_0000004 107.1 115.9 

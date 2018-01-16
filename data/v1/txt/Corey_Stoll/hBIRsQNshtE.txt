@@ -1,0 +1,10 @@
+POI: 			Corey_Stoll 
+Youtube ID: 	hBIRsQNshtE 
+Video length: 	82.8 sec 
+Set (V): 		dev 
+ 
+Corey_Stoll/hBIRsQNshtE_0000001 09.1 15.4 
+Corey_Stoll/hBIRsQNshtE_0000002 17.9 27.5 
+Corey_Stoll/hBIRsQNshtE_0000003 44.2 48.4 
+Corey_Stoll/hBIRsQNshtE_0000004 49.6 54.2 
+Corey_Stoll/hBIRsQNshtE_0000005 55.1 59.5 

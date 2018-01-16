@@ -1,0 +1,25 @@
+POI: 			James_Badge_Dale 
+Youtube ID: 	C_yo8ivNO54 
+Video length: 	323.5 sec 
+Set (V): 		dev 
+ 
+James_Badge_Dale/C_yo8ivNO54_0000001 04.6 15.0 
+James_Badge_Dale/C_yo8ivNO54_0000002 22.1 38.1 
+James_Badge_Dale/C_yo8ivNO54_0000003 38.3 46.5 
+James_Badge_Dale/C_yo8ivNO54_0000004 49.5 55.4 
+James_Badge_Dale/C_yo8ivNO54_0000005 56.6 61.7 
+James_Badge_Dale/C_yo8ivNO54_0000006 83.0 87.3 
+James_Badge_Dale/C_yo8ivNO54_0000007 87.4 94.2 
+James_Badge_Dale/C_yo8ivNO54_0000008 101.9 110.8 
+James_Badge_Dale/C_yo8ivNO54_0000009 116.4 121.7 
+James_Badge_Dale/C_yo8ivNO54_0000010 124.5 129.8 
+James_Badge_Dale/C_yo8ivNO54_0000011 149.8 155.4 
+James_Badge_Dale/C_yo8ivNO54_0000012 157.5 187.9 
+James_Badge_Dale/C_yo8ivNO54_0000013 201.9 208.6 
+James_Badge_Dale/C_yo8ivNO54_0000014 217.2 228.5 
+James_Badge_Dale/C_yo8ivNO54_0000015 228.9 235.7 
+James_Badge_Dale/C_yo8ivNO54_0000016 240.4 246.6 
+James_Badge_Dale/C_yo8ivNO54_0000017 273.8 277.8 
+James_Badge_Dale/C_yo8ivNO54_0000018 290.5 306.4 
+James_Badge_Dale/C_yo8ivNO54_0000019 309.4 317.6 
+James_Badge_Dale/C_yo8ivNO54_0000020 317.7 322.0 

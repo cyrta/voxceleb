@@ -1,0 +1,10 @@
+POI: 			Tristan_Wilds 
+Youtube ID: 	6jMbJ80mNBw 
+Video length: 	358.6 sec 
+Set (V): 		dev 
+ 
+Tristan_Wilds/6jMbJ80mNBw_0000001 32.7 36.7 
+Tristan_Wilds/6jMbJ80mNBw_0000002 38.9 43.8 
+Tristan_Wilds/6jMbJ80mNBw_0000003 237.2 242.5 
+Tristan_Wilds/6jMbJ80mNBw_0000004 290.5 296.5 
+Tristan_Wilds/6jMbJ80mNBw_0000005 298.8 307.0 

@@ -1,0 +1,7 @@
+POI: 			Lisa_Ray 
+Youtube ID: 	nt5RfJbB7aw 
+Video length: 	535.8 sec 
+Set (V): 		dev 
+ 
+Lisa_Ray/nt5RfJbB7aw_0000001 105.5 116.4 
+Lisa_Ray/nt5RfJbB7aw_0000002 129.1 137.0 

@@ -1,0 +1,7 @@
+POI: 			Jennifer_Coolidge 
+Youtube ID: 	hDBMV_0Vz4E 
+Video length: 	311.3 sec 
+Set (V): 		dev 
+ 
+Jennifer_Coolidge/hDBMV_0Vz4E_0000001 246.7 251.9 
+Jennifer_Coolidge/hDBMV_0Vz4E_0000002 254.5 268.1 

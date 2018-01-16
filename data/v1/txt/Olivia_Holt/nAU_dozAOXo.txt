@@ -1,0 +1,13 @@
+POI: 			Olivia_Holt 
+Youtube ID: 	nAU_dozAOXo 
+Video length: 	299.1 sec 
+Set (V): 		dev 
+ 
+Olivia_Holt/nAU_dozAOXo_0000001 70.2 79.4 
+Olivia_Holt/nAU_dozAOXo_0000002 90.0 97.0 
+Olivia_Holt/nAU_dozAOXo_0000003 158.2 166.9 
+Olivia_Holt/nAU_dozAOXo_0000004 203.1 209.8 
+Olivia_Holt/nAU_dozAOXo_0000005 218.6 224.9 
+Olivia_Holt/nAU_dozAOXo_0000006 237.4 244.5 
+Olivia_Holt/nAU_dozAOXo_0000007 254.5 258.9 
+Olivia_Holt/nAU_dozAOXo_0000008 265.5 270.0 

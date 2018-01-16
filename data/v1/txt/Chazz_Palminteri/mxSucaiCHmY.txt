@@ -1,0 +1,12 @@
+POI: 			Chazz_Palminteri 
+Youtube ID: 	mxSucaiCHmY 
+Video length: 	186.4 sec 
+Set (V): 		dev 
+ 
+Chazz_Palminteri/mxSucaiCHmY_0000001 59.7 64.2 
+Chazz_Palminteri/mxSucaiCHmY_0000002 78.3 82.5 
+Chazz_Palminteri/mxSucaiCHmY_0000003 82.7 87.4 
+Chazz_Palminteri/mxSucaiCHmY_0000004 88.2 98.2 
+Chazz_Palminteri/mxSucaiCHmY_0000005 99.2 111.4 
+Chazz_Palminteri/mxSucaiCHmY_0000006 132.6 140.3 
+Chazz_Palminteri/mxSucaiCHmY_0000007 162.3 170.3 

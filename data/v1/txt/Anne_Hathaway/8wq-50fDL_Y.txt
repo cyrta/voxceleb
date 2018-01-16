@@ -1,0 +1,12 @@
+POI: 			Anne_Hathaway 
+Youtube ID: 	8wq-50fDL_Y 
+Video length: 	172.4 sec 
+Set (V): 		dev 
+ 
+Anne_Hathaway/8wq-50fDL_Y_0000001 16.4 27.2 
+Anne_Hathaway/8wq-50fDL_Y_0000002 39.0 44.7 
+Anne_Hathaway/8wq-50fDL_Y_0000003 67.6 77.0 
+Anne_Hathaway/8wq-50fDL_Y_0000004 95.6 104.6 
+Anne_Hathaway/8wq-50fDL_Y_0000005 117.3 121.6 
+Anne_Hathaway/8wq-50fDL_Y_0000006 121.8 125.8 
+Anne_Hathaway/8wq-50fDL_Y_0000007 139.5 145.2 

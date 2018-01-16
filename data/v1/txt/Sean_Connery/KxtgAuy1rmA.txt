@@ -1,0 +1,7 @@
+POI: 			Sean_Connery 
+Youtube ID: 	KxtgAuy1rmA 
+Video length: 	599.2 sec 
+Set (V): 		dev 
+ 
+Sean_Connery/KxtgAuy1rmA_0000001 434.2 438.8 
+Sean_Connery/KxtgAuy1rmA_0000002 460.5 464.8 

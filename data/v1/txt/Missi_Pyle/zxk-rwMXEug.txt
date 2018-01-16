@@ -1,0 +1,8 @@
+POI: 			Missi_Pyle 
+Youtube ID: 	zxk-rwMXEug 
+Video length: 	127.0 sec 
+Set (V): 		dev 
+ 
+Missi_Pyle/zxk-rwMXEug_0000001 32.9 40.9 
+Missi_Pyle/zxk-rwMXEug_0000002 80.7 96.7 
+Missi_Pyle/zxk-rwMXEug_0000003 110.8 118.6 

@@ -1,0 +1,33 @@
+POI: 			Jake_Abel 
+Youtube ID: 	LD4xa_UEcxc 
+Video length: 	850.0 sec 
+Set (V): 		dev 
+ 
+Jake_Abel/LD4xa_UEcxc_0000001 11.1 20.1 
+Jake_Abel/LD4xa_UEcxc_0000002 35.3 41.3 
+Jake_Abel/LD4xa_UEcxc_0000003 80.3 85.4 
+Jake_Abel/LD4xa_UEcxc_0000004 92.3 102.7 
+Jake_Abel/LD4xa_UEcxc_0000005 107.4 112.5 
+Jake_Abel/LD4xa_UEcxc_0000006 117.7 124.8 
+Jake_Abel/LD4xa_UEcxc_0000007 157.1 162.2 
+Jake_Abel/LD4xa_UEcxc_0000008 187.6 192.4 
+Jake_Abel/LD4xa_UEcxc_0000009 244.0 248.1 
+Jake_Abel/LD4xa_UEcxc_0000010 253.7 262.6 
+Jake_Abel/LD4xa_UEcxc_0000011 266.6 270.8 
+Jake_Abel/LD4xa_UEcxc_0000012 271.4 278.6 
+Jake_Abel/LD4xa_UEcxc_0000013 291.7 297.9 
+Jake_Abel/LD4xa_UEcxc_0000014 305.0 310.4 
+Jake_Abel/LD4xa_UEcxc_0000015 393.0 415.5 
+Jake_Abel/LD4xa_UEcxc_0000016 419.4 423.8 
+Jake_Abel/LD4xa_UEcxc_0000017 424.3 429.6 
+Jake_Abel/LD4xa_UEcxc_0000018 455.5 462.4 
+Jake_Abel/LD4xa_UEcxc_0000019 473.9 483.0 
+Jake_Abel/LD4xa_UEcxc_0000020 485.3 490.0 
+Jake_Abel/LD4xa_UEcxc_0000021 548.4 553.6 
+Jake_Abel/LD4xa_UEcxc_0000022 612.9 619.1 
+Jake_Abel/LD4xa_UEcxc_0000023 651.8 659.0 
+Jake_Abel/LD4xa_UEcxc_0000024 729.0 735.4 
+Jake_Abel/LD4xa_UEcxc_0000025 746.0 752.2 
+Jake_Abel/LD4xa_UEcxc_0000026 761.7 769.8 
+Jake_Abel/LD4xa_UEcxc_0000027 792.0 796.4 
+Jake_Abel/LD4xa_UEcxc_0000028 838.1 844.0 

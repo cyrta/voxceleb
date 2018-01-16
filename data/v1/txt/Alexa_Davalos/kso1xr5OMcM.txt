@@ -1,0 +1,8 @@
+POI: 			Alexa_Davalos 
+Youtube ID: 	kso1xr5OMcM 
+Video length: 	133.6 sec 
+Set (V): 		dev 
+ 
+Alexa_Davalos/kso1xr5OMcM_0000001 15.2 26.3 
+Alexa_Davalos/kso1xr5OMcM_0000002 60.0 64.8 
+Alexa_Davalos/kso1xr5OMcM_0000003 88.4 92.8 

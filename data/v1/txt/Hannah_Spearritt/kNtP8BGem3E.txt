@@ -1,0 +1,8 @@
+POI: 			Hannah_Spearritt 
+Youtube ID: 	kNtP8BGem3E 
+Video length: 	57.9 sec 
+Set (V): 		dev 
+ 
+Hannah_Spearritt/kNtP8BGem3E_0000001 25.6 31.5 
+Hannah_Spearritt/kNtP8BGem3E_0000002 33.6 45.7 
+Hannah_Spearritt/kNtP8BGem3E_0000003 46.6 52.4 

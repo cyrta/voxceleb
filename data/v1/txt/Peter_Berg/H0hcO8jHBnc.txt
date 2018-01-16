@@ -1,0 +1,7 @@
+POI: 			Peter_Berg 
+Youtube ID: 	H0hcO8jHBnc 
+Video length: 	92.7 sec 
+Set (V): 		dev 
+ 
+Peter_Berg/H0hcO8jHBnc_0000001 21.8 30.5 
+Peter_Berg/H0hcO8jHBnc_0000002 31.3 41.4 

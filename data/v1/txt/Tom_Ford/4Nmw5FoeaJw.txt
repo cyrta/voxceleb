@@ -1,0 +1,12 @@
+POI: 			Tom_Ford 
+Youtube ID: 	4Nmw5FoeaJw 
+Video length: 	286.6 sec 
+Set (V): 		dev 
+ 
+Tom_Ford/4Nmw5FoeaJw_0000001 10.8 26.3 
+Tom_Ford/4Nmw5FoeaJw_0000002 27.2 54.6 
+Tom_Ford/4Nmw5FoeaJw_0000003 62.5 69.5 
+Tom_Ford/4Nmw5FoeaJw_0000004 69.8 75.9 
+Tom_Ford/4Nmw5FoeaJw_0000005 79.9 84.7 
+Tom_Ford/4Nmw5FoeaJw_0000006 89.6 94.1 
+Tom_Ford/4Nmw5FoeaJw_0000007 98.4 113.5 

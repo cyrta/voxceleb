@@ -1,0 +1,8 @@
+POI: 			Jamel_Debbouze 
+Youtube ID: 	o3vjUpK0M-A 
+Video length: 	620.0 sec 
+Set (V): 		dev 
+ 
+Jamel_Debbouze/o3vjUpK0M-A_0000001 49.5 54.9 
+Jamel_Debbouze/o3vjUpK0M-A_0000002 231.3 235.7 
+Jamel_Debbouze/o3vjUpK0M-A_0000003 419.6 424.2 

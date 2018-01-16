@@ -1,0 +1,11 @@
+POI: 			Shirley_Manson 
+Youtube ID: 	NNX3504s8Fk 
+Video length: 	169.5 sec 
+Set (V): 		dev 
+ 
+Shirley_Manson/NNX3504s8Fk_0000001 31.8 40.5 
+Shirley_Manson/NNX3504s8Fk_0000002 62.1 66.3 
+Shirley_Manson/NNX3504s8Fk_0000003 90.0 97.6 
+Shirley_Manson/NNX3504s8Fk_0000004 111.3 115.3 
+Shirley_Manson/NNX3504s8Fk_0000005 120.5 125.9 
+Shirley_Manson/NNX3504s8Fk_0000006 126.0 131.3 

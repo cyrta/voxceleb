@@ -1,0 +1,8 @@
+POI: 			James_Cromwell 
+Youtube ID: 	6QXsBMmxzkk 
+Video length: 	296.2 sec 
+Set (V): 		dev 
+ 
+James_Cromwell/6QXsBMmxzkk_0000001 56.8 62.6 
+James_Cromwell/6QXsBMmxzkk_0000002 181.5 186.1 
+James_Cromwell/6QXsBMmxzkk_0000003 227.9 233.8 

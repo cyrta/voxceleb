@@ -1,0 +1,8 @@
+POI: 			Amanda_Seyfried 
+Youtube ID: 	n9rD9-kU2Mw 
+Video length: 	356.7 sec 
+Set (V): 		dev 
+ 
+Amanda_Seyfried/n9rD9-kU2Mw_0000001 125.3 130.2 
+Amanda_Seyfried/n9rD9-kU2Mw_0000002 199.9 206.2 
+Amanda_Seyfried/n9rD9-kU2Mw_0000003 299.7 305.0 

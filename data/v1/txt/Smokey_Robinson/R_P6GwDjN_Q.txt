@@ -1,0 +1,11 @@
+POI: 			Smokey_Robinson 
+Youtube ID: 	R_P6GwDjN_Q 
+Video length: 	210.3 sec 
+Set (V): 		dev 
+ 
+Smokey_Robinson/R_P6GwDjN_Q_0000001 13.3 36.6 
+Smokey_Robinson/R_P6GwDjN_Q_0000002 58.1 65.3 
+Smokey_Robinson/R_P6GwDjN_Q_0000003 73.6 88.4 
+Smokey_Robinson/R_P6GwDjN_Q_0000004 145.8 159.7 
+Smokey_Robinson/R_P6GwDjN_Q_0000005 160.5 170.8 
+Smokey_Robinson/R_P6GwDjN_Q_0000006 190.1 194.8 

@@ -1,0 +1,7 @@
+POI: 			Nicki_Minaj 
+Youtube ID: 	na5yOfZJmPQ 
+Video length: 	211.8 sec 
+Set (V): 		dev 
+ 
+Nicki_Minaj/na5yOfZJmPQ_0000001 64.6 69.2 
+Nicki_Minaj/na5yOfZJmPQ_0000002 86.9 106.4 

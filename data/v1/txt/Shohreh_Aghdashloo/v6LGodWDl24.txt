@@ -1,0 +1,13 @@
+POI: 			Shohreh_Aghdashloo 
+Youtube ID: 	v6LGodWDl24 
+Video length: 	580.2 sec 
+Set (V): 		dev 
+ 
+Shohreh_Aghdashloo/v6LGodWDl24_0000001 55.3 60.1 
+Shohreh_Aghdashloo/v6LGodWDl24_0000002 63.8 67.9 
+Shohreh_Aghdashloo/v6LGodWDl24_0000003 77.9 84.8 
+Shohreh_Aghdashloo/v6LGodWDl24_0000004 153.5 160.6 
+Shohreh_Aghdashloo/v6LGodWDl24_0000005 306.8 310.8 
+Shohreh_Aghdashloo/v6LGodWDl24_0000006 331.7 336.0 
+Shohreh_Aghdashloo/v6LGodWDl24_0000007 337.9 342.8 
+Shohreh_Aghdashloo/v6LGodWDl24_0000008 408.7 415.2 

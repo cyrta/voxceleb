@@ -1,0 +1,9 @@
+POI: 			Hugh_Jackman 
+Youtube ID: 	Fs2_62OW6kY 
+Video length: 	208.8 sec 
+Set (V): 		dev 
+ 
+Hugh_Jackman/Fs2_62OW6kY_0000001 10.7 16.0 
+Hugh_Jackman/Fs2_62OW6kY_0000002 37.8 44.6 
+Hugh_Jackman/Fs2_62OW6kY_0000003 64.7 69.8 
+Hugh_Jackman/Fs2_62OW6kY_0000004 170.9 176.4 

@@ -1,0 +1,16 @@
+POI: 			Cierra_Ramirez 
+Youtube ID: 	IAdaIBG_jVE 
+Video length: 	236.4 sec 
+Set (V): 		dev 
+ 
+Cierra_Ramirez/IAdaIBG_jVE_0000001 21.0 26.8 
+Cierra_Ramirez/IAdaIBG_jVE_0000002 55.8 60.8 
+Cierra_Ramirez/IAdaIBG_jVE_0000003 74.2 79.3 
+Cierra_Ramirez/IAdaIBG_jVE_0000004 88.6 98.3 
+Cierra_Ramirez/IAdaIBG_jVE_0000005 135.2 146.1 
+Cierra_Ramirez/IAdaIBG_jVE_0000006 167.7 176.8 
+Cierra_Ramirez/IAdaIBG_jVE_0000007 185.3 189.8 
+Cierra_Ramirez/IAdaIBG_jVE_0000008 202.7 207.5 
+Cierra_Ramirez/IAdaIBG_jVE_0000009 207.8 212.1 
+Cierra_Ramirez/IAdaIBG_jVE_0000010 213.6 220.3 
+Cierra_Ramirez/IAdaIBG_jVE_0000011 221.1 225.2 

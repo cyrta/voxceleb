@@ -1,0 +1,14 @@
+POI: 			Dylan_Moran 
+Youtube ID: 	cGufm-UfkpA 
+Video length: 	220.5 sec 
+Set (V): 		dev 
+ 
+Dylan_Moran/cGufm-UfkpA_0000001 37.3 46.0 
+Dylan_Moran/cGufm-UfkpA_0000002 46.8 53.0 
+Dylan_Moran/cGufm-UfkpA_0000003 69.9 88.9 
+Dylan_Moran/cGufm-UfkpA_0000004 90.1 96.8 
+Dylan_Moran/cGufm-UfkpA_0000005 100.4 113.5 
+Dylan_Moran/cGufm-UfkpA_0000006 120.1 129.4 
+Dylan_Moran/cGufm-UfkpA_0000007 156.4 162.1 
+Dylan_Moran/cGufm-UfkpA_0000008 174.9 182.4 
+Dylan_Moran/cGufm-UfkpA_0000009 184.6 193.4 

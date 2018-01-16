@@ -1,0 +1,11 @@
+POI: 			Joel_Edgerton 
+Youtube ID: 	41yw1K5JynU 
+Video length: 	271.3 sec 
+Set (V): 		dev 
+ 
+Joel_Edgerton/41yw1K5JynU_0000001 15.1 21.6 
+Joel_Edgerton/41yw1K5JynU_0000002 28.6 34.0 
+Joel_Edgerton/41yw1K5JynU_0000003 34.2 39.5 
+Joel_Edgerton/41yw1K5JynU_0000004 107.6 111.6 
+Joel_Edgerton/41yw1K5JynU_0000005 118.5 124.8 
+Joel_Edgerton/41yw1K5JynU_0000006 222.5 226.6 

@@ -1,0 +1,8 @@
+POI: 			Armie_Hammer 
+Youtube ID: 	ERnVfGrRuOo 
+Video length: 	200.9 sec 
+Set (V): 		dev 
+ 
+Armie_Hammer/ERnVfGrRuOo_0000001 35.3 40.4 
+Armie_Hammer/ERnVfGrRuOo_0000002 81.2 85.8 
+Armie_Hammer/ERnVfGrRuOo_0000003 100.4 105.4 

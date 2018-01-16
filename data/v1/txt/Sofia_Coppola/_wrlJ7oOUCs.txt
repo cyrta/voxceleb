@@ -1,0 +1,14 @@
+POI: 			Sofia_Coppola 
+Youtube ID: 	_wrlJ7oOUCs 
+Video length: 	307.6 sec 
+Set (V): 		dev 
+ 
+Sofia_Coppola/_wrlJ7oOUCs_0000001 81.1 85.6 
+Sofia_Coppola/_wrlJ7oOUCs_0000002 80.8 85.6 
+Sofia_Coppola/_wrlJ7oOUCs_0000003 153.6 157.6 
+Sofia_Coppola/_wrlJ7oOUCs_0000004 162.5 167.7 
+Sofia_Coppola/_wrlJ7oOUCs_0000005 167.8 173.4 
+Sofia_Coppola/_wrlJ7oOUCs_0000006 204.7 211.0 
+Sofia_Coppola/_wrlJ7oOUCs_0000007 226.4 235.4 
+Sofia_Coppola/_wrlJ7oOUCs_0000008 277.7 282.8 
+Sofia_Coppola/_wrlJ7oOUCs_0000009 283.8 287.9 

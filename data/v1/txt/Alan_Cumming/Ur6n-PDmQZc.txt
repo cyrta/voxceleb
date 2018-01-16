@@ -1,0 +1,9 @@
+POI: 			Alan_Cumming 
+Youtube ID: 	Ur6n-PDmQZc 
+Video length: 	569.3 sec 
+Set (V): 		dev 
+ 
+Alan_Cumming/Ur6n-PDmQZc_0000001 216.4 227.4 
+Alan_Cumming/Ur6n-PDmQZc_0000002 363.3 368.8 
+Alan_Cumming/Ur6n-PDmQZc_0000003 507.4 512.6 
+Alan_Cumming/Ur6n-PDmQZc_0000004 524.0 529.0 

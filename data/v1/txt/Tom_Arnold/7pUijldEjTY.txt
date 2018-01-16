@@ -1,0 +1,13 @@
+POI: 			Tom_Arnold 
+Youtube ID: 	7pUijldEjTY 
+Video length: 	159.3 sec 
+Set (V): 		dev 
+ 
+Tom_Arnold/7pUijldEjTY_0000001 12.2 17.7 
+Tom_Arnold/7pUijldEjTY_0000002 36.0 40.9 
+Tom_Arnold/7pUijldEjTY_0000003 44.8 56.1 
+Tom_Arnold/7pUijldEjTY_0000004 57.7 64.4 
+Tom_Arnold/7pUijldEjTY_0000005 77.3 83.1 
+Tom_Arnold/7pUijldEjTY_0000006 90.9 108.5 
+Tom_Arnold/7pUijldEjTY_0000007 121.9 127.1 
+Tom_Arnold/7pUijldEjTY_0000008 131.8 141.8 

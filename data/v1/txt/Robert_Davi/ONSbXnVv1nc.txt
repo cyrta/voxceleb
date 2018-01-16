@@ -1,0 +1,7 @@
+POI: 			Robert_Davi 
+Youtube ID: 	ONSbXnVv1nc 
+Video length: 	188.3 sec 
+Set (V): 		dev 
+ 
+Robert_Davi/ONSbXnVv1nc_0000001 121.5 132.6 
+Robert_Davi/ONSbXnVv1nc_0000002 140.2 145.4 

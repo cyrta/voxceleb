@@ -1,0 +1,11 @@
+POI: 			Damian_Lewis 
+Youtube ID: 	0__1iAZIajM 
+Video length: 	250.5 sec 
+Set (V): 		dev 
+ 
+Damian_Lewis/0__1iAZIajM_0000001 16.9 22.2 
+Damian_Lewis/0__1iAZIajM_0000002 45.2 51.5 
+Damian_Lewis/0__1iAZIajM_0000003 144.4 158.5 
+Damian_Lewis/0__1iAZIajM_0000004 158.9 163.7 
+Damian_Lewis/0__1iAZIajM_0000005 199.8 206.9 
+Damian_Lewis/0__1iAZIajM_0000006 208.2 216.5 

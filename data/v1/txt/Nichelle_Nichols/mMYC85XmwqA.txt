@@ -1,0 +1,7 @@
+POI: 			Nichelle_Nichols 
+Youtube ID: 	mMYC85XmwqA 
+Video length: 	600.6 sec 
+Set (V): 		dev 
+ 
+Nichelle_Nichols/mMYC85XmwqA_0000001 279.4 284.1 
+Nichelle_Nichols/mMYC85XmwqA_0000002 290.5 295.4 

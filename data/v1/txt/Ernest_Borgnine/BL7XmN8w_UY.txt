@@ -1,0 +1,14 @@
+POI: 			Ernest_Borgnine 
+Youtube ID: 	BL7XmN8w_UY 
+Video length: 	131.6 sec 
+Set (V): 		test 
+ 
+Ernest_Borgnine/BL7XmN8w_UY_0000001 12.6 19.7 
+Ernest_Borgnine/BL7XmN8w_UY_0000002 21.1 36.7 
+Ernest_Borgnine/BL7XmN8w_UY_0000003 38.0 45.1 
+Ernest_Borgnine/BL7XmN8w_UY_0000004 50.9 57.2 
+Ernest_Borgnine/BL7XmN8w_UY_0000005 58.8 63.6 
+Ernest_Borgnine/BL7XmN8w_UY_0000006 80.1 87.1 
+Ernest_Borgnine/BL7XmN8w_UY_0000007 88.1 95.2 
+Ernest_Borgnine/BL7XmN8w_UY_0000008 114.7 119.6 
+Ernest_Borgnine/BL7XmN8w_UY_0000009 121.4 125.4 

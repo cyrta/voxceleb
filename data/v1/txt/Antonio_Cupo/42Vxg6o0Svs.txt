@@ -1,0 +1,13 @@
+POI: 			Antonio_Cupo 
+Youtube ID: 	42Vxg6o0Svs 
+Video length: 	282.6 sec 
+Set (V): 		dev 
+ 
+Antonio_Cupo/42Vxg6o0Svs_0000001 141.4 146.3 
+Antonio_Cupo/42Vxg6o0Svs_0000002 146.5 168.6 
+Antonio_Cupo/42Vxg6o0Svs_0000003 169.5 176.7 
+Antonio_Cupo/42Vxg6o0Svs_0000004 231.0 237.3 
+Antonio_Cupo/42Vxg6o0Svs_0000005 242.0 249.3 
+Antonio_Cupo/42Vxg6o0Svs_0000006 249.9 256.7 
+Antonio_Cupo/42Vxg6o0Svs_0000007 257.5 266.2 
+Antonio_Cupo/42Vxg6o0Svs_0000008 274.7 280.9 

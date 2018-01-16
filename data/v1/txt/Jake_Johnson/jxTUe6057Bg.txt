@@ -1,0 +1,8 @@
+POI: 			Jake_Johnson 
+Youtube ID: 	jxTUe6057Bg 
+Video length: 	184.6 sec 
+Set (V): 		dev 
+ 
+Jake_Johnson/jxTUe6057Bg_0000001 06.6 11.4 
+Jake_Johnson/jxTUe6057Bg_0000002 112.7 118.1 
+Jake_Johnson/jxTUe6057Bg_0000003 127.1 139.2 

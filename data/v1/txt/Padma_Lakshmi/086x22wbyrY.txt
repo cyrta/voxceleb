@@ -1,0 +1,16 @@
+POI: 			Padma_Lakshmi 
+Youtube ID: 	086x22wbyrY 
+Video length: 	216.7 sec 
+Set (V): 		dev 
+ 
+Padma_Lakshmi/086x22wbyrY_0000001 20.2 27.5 
+Padma_Lakshmi/086x22wbyrY_0000002 28.4 33.1 
+Padma_Lakshmi/086x22wbyrY_0000003 41.0 46.5 
+Padma_Lakshmi/086x22wbyrY_0000004 60.4 65.0 
+Padma_Lakshmi/086x22wbyrY_0000005 81.9 86.2 
+Padma_Lakshmi/086x22wbyrY_0000006 103.8 118.1 
+Padma_Lakshmi/086x22wbyrY_0000007 131.0 146.0 
+Padma_Lakshmi/086x22wbyrY_0000008 146.0 150.9 
+Padma_Lakshmi/086x22wbyrY_0000009 159.4 168.7 
+Padma_Lakshmi/086x22wbyrY_0000010 179.0 183.1 
+Padma_Lakshmi/086x22wbyrY_0000011 185.0 191.0 

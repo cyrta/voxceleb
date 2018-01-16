@@ -1,0 +1,9 @@
+POI: 			Francia_Raisa 
+Youtube ID: 	uTw2o6Z5jhA 
+Video length: 	150.0 sec 
+Set (V): 		dev 
+ 
+Francia_Raisa/uTw2o6Z5jhA_0000001 65.2 69.9 
+Francia_Raisa/uTw2o6Z5jhA_0000002 70.3 79.6 
+Francia_Raisa/uTw2o6Z5jhA_0000003 120.3 124.9 
+Francia_Raisa/uTw2o6Z5jhA_0000004 128.1 135.3 

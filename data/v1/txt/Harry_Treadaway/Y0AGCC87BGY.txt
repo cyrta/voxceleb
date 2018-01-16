@@ -1,0 +1,10 @@
+POI: 			Harry_Treadaway 
+Youtube ID: 	Y0AGCC87BGY 
+Video length: 	295.1 sec 
+Set (V): 		dev 
+ 
+Harry_Treadaway/Y0AGCC87BGY_0000001 34.8 56.2 
+Harry_Treadaway/Y0AGCC87BGY_0000002 66.0 71.7 
+Harry_Treadaway/Y0AGCC87BGY_0000003 248.2 253.9 
+Harry_Treadaway/Y0AGCC87BGY_0000004 255.1 269.0 
+Harry_Treadaway/Y0AGCC87BGY_0000005 272.3 276.7 

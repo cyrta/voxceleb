@@ -1,0 +1,7 @@
+POI: 			Kel_Mitchell 
+Youtube ID: 	yj0Vimh0fWI 
+Video length: 	390.0 sec 
+Set (V): 		dev 
+ 
+Kel_Mitchell/yj0Vimh0fWI_0000001 243.1 248.4 
+Kel_Mitchell/yj0Vimh0fWI_0000002 257.6 267.4 

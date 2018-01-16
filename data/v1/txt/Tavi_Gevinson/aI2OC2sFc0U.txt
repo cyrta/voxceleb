@@ -1,0 +1,10 @@
+POI: 			Tavi_Gevinson 
+Youtube ID: 	aI2OC2sFc0U 
+Video length: 	365.1 sec 
+Set (V): 		dev 
+ 
+Tavi_Gevinson/aI2OC2sFc0U_0000001 173.5 179.0 
+Tavi_Gevinson/aI2OC2sFc0U_0000002 206.6 211.8 
+Tavi_Gevinson/aI2OC2sFc0U_0000003 277.0 286.8 
+Tavi_Gevinson/aI2OC2sFc0U_0000004 330.9 335.2 
+Tavi_Gevinson/aI2OC2sFc0U_0000005 337.4 344.1 

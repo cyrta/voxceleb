@@ -1,0 +1,23 @@
+POI: 			Gloria_Steinem 
+Youtube ID: 	VHJa1y8stE0 
+Video length: 	444.3 sec 
+Set (V): 		dev 
+ 
+Gloria_Steinem/VHJa1y8stE0_0000001 86.0 93.5 
+Gloria_Steinem/VHJa1y8stE0_0000002 94.5 100.1 
+Gloria_Steinem/VHJa1y8stE0_0000003 101.2 107.9 
+Gloria_Steinem/VHJa1y8stE0_0000004 129.5 134.0 
+Gloria_Steinem/VHJa1y8stE0_0000005 136.4 167.1 
+Gloria_Steinem/VHJa1y8stE0_0000006 206.7 215.1 
+Gloria_Steinem/VHJa1y8stE0_0000007 221.4 228.4 
+Gloria_Steinem/VHJa1y8stE0_0000008 237.6 242.7 
+Gloria_Steinem/VHJa1y8stE0_0000009 243.7 248.2 
+Gloria_Steinem/VHJa1y8stE0_0000010 300.3 305.4 
+Gloria_Steinem/VHJa1y8stE0_0000011 319.0 325.0 
+Gloria_Steinem/VHJa1y8stE0_0000012 326.8 334.6 
+Gloria_Steinem/VHJa1y8stE0_0000013 379.1 384.6 
+Gloria_Steinem/VHJa1y8stE0_0000014 387.0 394.8 
+Gloria_Steinem/VHJa1y8stE0_0000015 395.1 400.6 
+Gloria_Steinem/VHJa1y8stE0_0000016 407.8 413.0 
+Gloria_Steinem/VHJa1y8stE0_0000017 413.8 429.3 
+Gloria_Steinem/VHJa1y8stE0_0000018 438.1 442.6 

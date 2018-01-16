@@ -1,0 +1,16 @@
+POI: 			John_Amos 
+Youtube ID: 	C71m6GwhtrE 
+Video length: 	159.6 sec 
+Set (V): 		dev 
+ 
+John_Amos/C71m6GwhtrE_0000001 13.7 24.5 
+John_Amos/C71m6GwhtrE_0000002 26.6 34.6 
+John_Amos/C71m6GwhtrE_0000003 34.7 39.4 
+John_Amos/C71m6GwhtrE_0000004 43.6 49.9 
+John_Amos/C71m6GwhtrE_0000005 72.0 77.6 
+John_Amos/C71m6GwhtrE_0000006 80.3 87.8 
+John_Amos/C71m6GwhtrE_0000007 96.6 102.7 
+John_Amos/C71m6GwhtrE_0000008 103.5 108.4 
+John_Amos/C71m6GwhtrE_0000009 103.5 118.7 
+John_Amos/C71m6GwhtrE_0000010 121.2 133.5 
+John_Amos/C71m6GwhtrE_0000011 134.0 145.8 

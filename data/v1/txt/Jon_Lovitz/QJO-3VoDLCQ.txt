@@ -1,0 +1,7 @@
+POI: 			Jon_Lovitz 
+Youtube ID: 	QJO-3VoDLCQ 
+Video length: 	484.9 sec 
+Set (V): 		dev 
+ 
+Jon_Lovitz/QJO-3VoDLCQ_0000001 193.3 198.1 
+Jon_Lovitz/QJO-3VoDLCQ_0000002 213.4 219.8 

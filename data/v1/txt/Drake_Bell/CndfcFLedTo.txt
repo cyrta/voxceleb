@@ -1,0 +1,8 @@
+POI: 			Drake_Bell 
+Youtube ID: 	CndfcFLedTo 
+Video length: 	229.0 sec 
+Set (V): 		dev 
+ 
+Drake_Bell/CndfcFLedTo_0000001 31.6 41.0 
+Drake_Bell/CndfcFLedTo_0000002 41.2 48.0 
+Drake_Bell/CndfcFLedTo_0000003 113.2 118.2 

@@ -1,0 +1,7 @@
+POI: 			Keri_Russell 
+Youtube ID: 	CPyVVn_cJHE 
+Video length: 	270.6 sec 
+Set (V): 		dev 
+ 
+Keri_Russell/CPyVVn_cJHE_0000001 44.7 55.1 
+Keri_Russell/CPyVVn_cJHE_0000002 118.7 125.6 

@@ -1,0 +1,11 @@
+POI: 			Hugh_Jackman 
+Youtube ID: 	nK1lfRZQWwk 
+Video length: 	213.6 sec 
+Set (V): 		dev 
+ 
+Hugh_Jackman/nK1lfRZQWwk_0000001 35.8 40.0 
+Hugh_Jackman/nK1lfRZQWwk_0000002 40.4 53.9 
+Hugh_Jackman/nK1lfRZQWwk_0000003 54.9 60.9 
+Hugh_Jackman/nK1lfRZQWwk_0000004 61.7 67.5 
+Hugh_Jackman/nK1lfRZQWwk_0000005 140.8 153.4 
+Hugh_Jackman/nK1lfRZQWwk_0000006 180.5 189.7 

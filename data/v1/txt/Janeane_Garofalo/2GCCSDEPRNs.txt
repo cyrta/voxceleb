@@ -1,0 +1,17 @@
+POI: 			Janeane_Garofalo 
+Youtube ID: 	2GCCSDEPRNs 
+Video length: 	589.3 sec 
+Set (V): 		dev 
+ 
+Janeane_Garofalo/2GCCSDEPRNs_0000001 97.4 103.4 
+Janeane_Garofalo/2GCCSDEPRNs_0000002 104.2 110.8 
+Janeane_Garofalo/2GCCSDEPRNs_0000003 133.2 138.1 
+Janeane_Garofalo/2GCCSDEPRNs_0000004 143.8 160.2 
+Janeane_Garofalo/2GCCSDEPRNs_0000005 164.4 180.7 
+Janeane_Garofalo/2GCCSDEPRNs_0000006 209.7 217.1 
+Janeane_Garofalo/2GCCSDEPRNs_0000007 218.1 230.1 
+Janeane_Garofalo/2GCCSDEPRNs_0000008 253.6 261.7 
+Janeane_Garofalo/2GCCSDEPRNs_0000009 274.1 279.6 
+Janeane_Garofalo/2GCCSDEPRNs_0000010 453.8 459.9 
+Janeane_Garofalo/2GCCSDEPRNs_0000011 480.0 485.9 
+Janeane_Garofalo/2GCCSDEPRNs_0000012 522.8 528.2 

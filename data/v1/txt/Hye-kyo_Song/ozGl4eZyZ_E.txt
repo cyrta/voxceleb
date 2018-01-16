@@ -1,0 +1,8 @@
+POI: 			Hye-kyo_Song 
+Youtube ID: 	ozGl4eZyZ_E 
+Video length: 	627.8 sec 
+Set (V): 		dev 
+ 
+Hye-kyo_Song/ozGl4eZyZ_E_0000001 284.8 289.1 
+Hye-kyo_Song/ozGl4eZyZ_E_0000002 298.1 305.0 
+Hye-kyo_Song/ozGl4eZyZ_E_0000003 329.8 336.4 

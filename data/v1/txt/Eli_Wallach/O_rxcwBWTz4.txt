@@ -1,0 +1,7 @@
+POI: 			Eli_Wallach 
+Youtube ID: 	O_rxcwBWTz4 
+Video length: 	40.8 sec 
+Set (V): 		test 
+ 
+Eli_Wallach/O_rxcwBWTz4_0000001 29.7 35.6 
+Eli_Wallach/O_rxcwBWTz4_0000002 31.5 35.5 

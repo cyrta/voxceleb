@@ -1,0 +1,8 @@
+POI: 			Naturi_Naughton 
+Youtube ID: 	AbU4JqrShqA 
+Video length: 	308.0 sec 
+Set (V): 		dev 
+ 
+Naturi_Naughton/AbU4JqrShqA_0000001 12.3 22.4 
+Naturi_Naughton/AbU4JqrShqA_0000002 139.9 163.2 
+Naturi_Naughton/AbU4JqrShqA_0000003 171.9 177.4 

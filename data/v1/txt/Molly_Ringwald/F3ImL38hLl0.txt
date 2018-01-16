@@ -1,0 +1,16 @@
+POI: 			Molly_Ringwald 
+Youtube ID: 	F3ImL38hLl0 
+Video length: 	510.3 sec 
+Set (V): 		dev 
+ 
+Molly_Ringwald/F3ImL38hLl0_0000001 103.6 116.1 
+Molly_Ringwald/F3ImL38hLl0_0000002 127.2 135.4 
+Molly_Ringwald/F3ImL38hLl0_0000003 161.7 175.0 
+Molly_Ringwald/F3ImL38hLl0_0000004 180.8 186.1 
+Molly_Ringwald/F3ImL38hLl0_0000005 200.8 212.2 
+Molly_Ringwald/F3ImL38hLl0_0000006 226.4 239.7 
+Molly_Ringwald/F3ImL38hLl0_0000007 246.8 257.0 
+Molly_Ringwald/F3ImL38hLl0_0000008 282.7 300.4 
+Molly_Ringwald/F3ImL38hLl0_0000009 408.3 414.2 
+Molly_Ringwald/F3ImL38hLl0_0000010 443.7 456.6 
+Molly_Ringwald/F3ImL38hLl0_0000011 480.2 491.4 

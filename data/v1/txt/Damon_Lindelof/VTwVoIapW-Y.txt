@@ -1,0 +1,31 @@
+POI: 			Damon_Lindelof 
+Youtube ID: 	VTwVoIapW-Y 
+Video length: 	1453.9 sec 
+Set (V): 		dev 
+ 
+Damon_Lindelof/VTwVoIapW-Y_0000001 63.6 70.4 
+Damon_Lindelof/VTwVoIapW-Y_0000002 75.1 83.2 
+Damon_Lindelof/VTwVoIapW-Y_0000003 95.2 101.9 
+Damon_Lindelof/VTwVoIapW-Y_0000004 106.2 110.2 
+Damon_Lindelof/VTwVoIapW-Y_0000005 110.6 126.4 
+Damon_Lindelof/VTwVoIapW-Y_0000006 126.6 133.5 
+Damon_Lindelof/VTwVoIapW-Y_0000007 223.9 236.2 
+Damon_Lindelof/VTwVoIapW-Y_0000008 285.8 293.4 
+Damon_Lindelof/VTwVoIapW-Y_0000009 293.7 302.2 
+Damon_Lindelof/VTwVoIapW-Y_0000010 343.4 349.2 
+Damon_Lindelof/VTwVoIapW-Y_0000011 353.8 360.6 
+Damon_Lindelof/VTwVoIapW-Y_0000012 361.5 368.2 
+Damon_Lindelof/VTwVoIapW-Y_0000013 368.3 381.8 
+Damon_Lindelof/VTwVoIapW-Y_0000014 382.8 392.7 
+Damon_Lindelof/VTwVoIapW-Y_0000015 393.7 397.8 
+Damon_Lindelof/VTwVoIapW-Y_0000016 460.9 474.8 
+Damon_Lindelof/VTwVoIapW-Y_0000017 574.9 584.0 
+Damon_Lindelof/VTwVoIapW-Y_0000018 637.3 644.2 
+Damon_Lindelof/VTwVoIapW-Y_0000019 650.1 656.1 
+Damon_Lindelof/VTwVoIapW-Y_0000020 1045.3 1052.1 
+Damon_Lindelof/VTwVoIapW-Y_0000021 1069.9 1080.0 
+Damon_Lindelof/VTwVoIapW-Y_0000022 1144.2 1157.4 
+Damon_Lindelof/VTwVoIapW-Y_0000023 1159.5 1171.0 
+Damon_Lindelof/VTwVoIapW-Y_0000024 1171.6 1182.2 
+Damon_Lindelof/VTwVoIapW-Y_0000025 1247.0 1251.9 
+Damon_Lindelof/VTwVoIapW-Y_0000026 1241.7 1258.8 

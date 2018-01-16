@@ -1,0 +1,22 @@
+POI: 			Louis_Theroux 
+Youtube ID: 	7CGOm2DVh_U 
+Video length: 	404.4 sec 
+Set (V): 		dev 
+ 
+Louis_Theroux/7CGOm2DVh_U_0000001 14.4 40.2 
+Louis_Theroux/7CGOm2DVh_U_0000002 41.6 50.0 
+Louis_Theroux/7CGOm2DVh_U_0000003 63.1 73.2 
+Louis_Theroux/7CGOm2DVh_U_0000004 73.3 84.0 
+Louis_Theroux/7CGOm2DVh_U_0000005 85.9 106.6 
+Louis_Theroux/7CGOm2DVh_U_0000006 135.3 168.0 
+Louis_Theroux/7CGOm2DVh_U_0000007 175.6 184.8 
+Louis_Theroux/7CGOm2DVh_U_0000008 185.4 196.1 
+Louis_Theroux/7CGOm2DVh_U_0000009 199.1 209.6 
+Louis_Theroux/7CGOm2DVh_U_0000010 229.1 237.3 
+Louis_Theroux/7CGOm2DVh_U_0000011 239.2 255.6 
+Louis_Theroux/7CGOm2DVh_U_0000012 281.5 288.8 
+Louis_Theroux/7CGOm2DVh_U_0000013 289.3 294.6 
+Louis_Theroux/7CGOm2DVh_U_0000014 299.3 312.0 
+Louis_Theroux/7CGOm2DVh_U_0000015 313.8 318.4 
+Louis_Theroux/7CGOm2DVh_U_0000016 329.9 367.2 
+Louis_Theroux/7CGOm2DVh_U_0000017 368.7 372.8 

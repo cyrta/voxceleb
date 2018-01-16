@@ -1,0 +1,7 @@
+POI: 			Katie_Cleary 
+Youtube ID: 	cbKbVkV3f2A 
+Video length: 	381.4 sec 
+Set (V): 		dev 
+ 
+Katie_Cleary/cbKbVkV3f2A_0000001 45.0 49.7 
+Katie_Cleary/cbKbVkV3f2A_0000002 56.2 60.5 

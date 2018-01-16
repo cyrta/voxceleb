@@ -1,0 +1,20 @@
+POI: 			Ingrid_Bergman 
+Youtube ID: 	XwQ-CmoSDP8 
+Video length: 	425.5 sec 
+Set (V): 		dev 
+ 
+Ingrid_Bergman/XwQ-CmoSDP8_0000001 16.8 30.2 
+Ingrid_Bergman/XwQ-CmoSDP8_0000002 30.3 37.5 
+Ingrid_Bergman/XwQ-CmoSDP8_0000003 38.2 54.4 
+Ingrid_Bergman/XwQ-CmoSDP8_0000004 60.5 67.2 
+Ingrid_Bergman/XwQ-CmoSDP8_0000005 94.6 104.9 
+Ingrid_Bergman/XwQ-CmoSDP8_0000006 118.7 134.0 
+Ingrid_Bergman/XwQ-CmoSDP8_0000007 157.8 161.8 
+Ingrid_Bergman/XwQ-CmoSDP8_0000008 175.0 183.8 
+Ingrid_Bergman/XwQ-CmoSDP8_0000009 191.2 208.2 
+Ingrid_Bergman/XwQ-CmoSDP8_0000010 216.1 224.1 
+Ingrid_Bergman/XwQ-CmoSDP8_0000011 230.4 237.0 
+Ingrid_Bergman/XwQ-CmoSDP8_0000012 253.2 259.2 
+Ingrid_Bergman/XwQ-CmoSDP8_0000013 281.7 286.0 
+Ingrid_Bergman/XwQ-CmoSDP8_0000014 294.9 300.2 
+Ingrid_Bergman/XwQ-CmoSDP8_0000015 302.4 336.7 

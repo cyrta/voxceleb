@@ -1,0 +1,7 @@
+POI: 			Jack_Reynor 
+Youtube ID: 	fxJkTNfO2Ck 
+Video length: 	273.6 sec 
+Set (V): 		dev 
+ 
+Jack_Reynor/fxJkTNfO2Ck_0000001 219.5 229.9 
+Jack_Reynor/fxJkTNfO2Ck_0000002 234.0 239.4 

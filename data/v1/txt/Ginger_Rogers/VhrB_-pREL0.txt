@@ -1,0 +1,7 @@
+POI: 			Ginger_Rogers 
+Youtube ID: 	VhrB_-pREL0 
+Video length: 	359.7 sec 
+Set (V): 		dev 
+ 
+Ginger_Rogers/VhrB_-pREL0_0000001 74.2 79.0 
+Ginger_Rogers/VhrB_-pREL0_0000002 234.1 241.2 

@@ -1,0 +1,12 @@
+POI: 			Laverne_Cox 
+Youtube ID: 	Elkyk9YSub0 
+Video length: 	192.9 sec 
+Set (V): 		dev 
+ 
+Laverne_Cox/Elkyk9YSub0_0000001 75.5 96.4 
+Laverne_Cox/Elkyk9YSub0_0000002 110.3 115.8 
+Laverne_Cox/Elkyk9YSub0_0000003 116.6 121.2 
+Laverne_Cox/Elkyk9YSub0_0000004 115.9 120.8 
+Laverne_Cox/Elkyk9YSub0_0000005 126.0 152.2 
+Laverne_Cox/Elkyk9YSub0_0000006 155.5 159.5 
+Laverne_Cox/Elkyk9YSub0_0000007 175.5 182.8 

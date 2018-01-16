@@ -1,0 +1,18 @@
+POI: 			David_Jason 
+Youtube ID: 	zL68fxrFopY 
+Video length: 	892.7 sec 
+Set (V): 		dev 
+ 
+David_Jason/zL68fxrFopY_0000001 164.2 171.3 
+David_Jason/zL68fxrFopY_0000002 189.1 194.8 
+David_Jason/zL68fxrFopY_0000003 208.6 216.0 
+David_Jason/zL68fxrFopY_0000004 580.5 587.1 
+David_Jason/zL68fxrFopY_0000005 595.4 604.4 
+David_Jason/zL68fxrFopY_0000006 704.1 712.2 
+David_Jason/zL68fxrFopY_0000007 704.4 710.1 
+David_Jason/zL68fxrFopY_0000008 722.4 734.0 
+David_Jason/zL68fxrFopY_0000009 775.2 779.2 
+David_Jason/zL68fxrFopY_0000010 789.8 803.9 
+David_Jason/zL68fxrFopY_0000011 815.2 822.6 
+David_Jason/zL68fxrFopY_0000012 841.5 848.4 
+David_Jason/zL68fxrFopY_0000013 850.2 857.2 

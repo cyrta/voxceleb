@@ -1,0 +1,7 @@
+POI: 			Hye-kyo_Song 
+Youtube ID: 	t-zurNhQm8A 
+Video length: 	559.1 sec 
+Set (V): 		dev 
+ 
+Hye-kyo_Song/t-zurNhQm8A_0000001 306.0 312.2 
+Hye-kyo_Song/t-zurNhQm8A_0000002 321.6 325.9 

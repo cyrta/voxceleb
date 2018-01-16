@@ -1,0 +1,10 @@
+POI: 			Laverne_Cox 
+Youtube ID: 	RYMBFffcb7A 
+Video length: 	137.1 sec 
+Set (V): 		dev 
+ 
+Laverne_Cox/RYMBFffcb7A_0000001 27.0 32.9 
+Laverne_Cox/RYMBFffcb7A_0000002 34.3 40.5 
+Laverne_Cox/RYMBFffcb7A_0000003 56.3 70.1 
+Laverne_Cox/RYMBFffcb7A_0000004 91.0 98.7 
+Laverne_Cox/RYMBFffcb7A_0000005 100.6 109.0 

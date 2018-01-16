@@ -1,0 +1,7 @@
+POI: 			Jack_Lemmon 
+Youtube ID: 	L24BbimGul8 
+Video length: 	1551.6 sec 
+Set (V): 		dev 
+ 
+Jack_Lemmon/L24BbimGul8_0000001 344.1 349.4 
+Jack_Lemmon/L24BbimGul8_0000002 617.9 621.8 

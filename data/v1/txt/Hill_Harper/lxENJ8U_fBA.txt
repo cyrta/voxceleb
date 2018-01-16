@@ -1,0 +1,19 @@
+POI: 			Hill_Harper 
+Youtube ID: 	lxENJ8U_fBA 
+Video length: 	454.2 sec 
+Set (V): 		dev 
+ 
+Hill_Harper/lxENJ8U_fBA_0000001 34.3 44.4 
+Hill_Harper/lxENJ8U_fBA_0000002 53.0 67.4 
+Hill_Harper/lxENJ8U_fBA_0000003 67.8 79.3 
+Hill_Harper/lxENJ8U_fBA_0000004 80.0 87.8 
+Hill_Harper/lxENJ8U_fBA_0000005 89.1 129.2 
+Hill_Harper/lxENJ8U_fBA_0000006 139.5 146.1 
+Hill_Harper/lxENJ8U_fBA_0000007 147.2 191.7 
+Hill_Harper/lxENJ8U_fBA_0000008 199.0 238.1 
+Hill_Harper/lxENJ8U_fBA_0000009 240.0 262.0 
+Hill_Harper/lxENJ8U_fBA_0000010 268.2 315.9 
+Hill_Harper/lxENJ8U_fBA_0000011 316.2 341.9 
+Hill_Harper/lxENJ8U_fBA_0000012 343.7 350.1 
+Hill_Harper/lxENJ8U_fBA_0000013 360.0 388.9 
+Hill_Harper/lxENJ8U_fBA_0000014 390.0 420.1 

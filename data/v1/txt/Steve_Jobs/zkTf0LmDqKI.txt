@@ -1,0 +1,7 @@
+POI: 			Steve_Jobs 
+Youtube ID: 	zkTf0LmDqKI 
+Video length: 	102.3 sec 
+Set (V): 		dev 
+ 
+Steve_Jobs/zkTf0LmDqKI_0000001 34.0 41.2 
+Steve_Jobs/zkTf0LmDqKI_0000002 84.4 89.9 

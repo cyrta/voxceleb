@@ -1,0 +1,17 @@
+POI: 			Carolyn_Hennesy 
+Youtube ID: 	HaA9mTYzZgs 
+Video length: 	482.6 sec 
+Set (V): 		dev 
+ 
+Carolyn_Hennesy/HaA9mTYzZgs_0000001 57.4 62.1 
+Carolyn_Hennesy/HaA9mTYzZgs_0000002 115.2 125.0 
+Carolyn_Hennesy/HaA9mTYzZgs_0000003 126.2 131.5 
+Carolyn_Hennesy/HaA9mTYzZgs_0000004 133.5 140.8 
+Carolyn_Hennesy/HaA9mTYzZgs_0000005 166.9 171.1 
+Carolyn_Hennesy/HaA9mTYzZgs_0000006 182.5 193.3 
+Carolyn_Hennesy/HaA9mTYzZgs_0000007 194.2 200.7 
+Carolyn_Hennesy/HaA9mTYzZgs_0000008 275.8 281.8 
+Carolyn_Hennesy/HaA9mTYzZgs_0000009 292.1 304.2 
+Carolyn_Hennesy/HaA9mTYzZgs_0000010 324.1 330.5 
+Carolyn_Hennesy/HaA9mTYzZgs_0000011 349.4 355.9 
+Carolyn_Hennesy/HaA9mTYzZgs_0000012 377.5 381.7 

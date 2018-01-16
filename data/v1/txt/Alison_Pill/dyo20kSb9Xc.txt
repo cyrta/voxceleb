@@ -1,0 +1,10 @@
+POI: 			Alison_Pill 
+Youtube ID: 	dyo20kSb9Xc 
+Video length: 	243.9 sec 
+Set (V): 		dev 
+ 
+Alison_Pill/dyo20kSb9Xc_0000001 40.4 46.8 
+Alison_Pill/dyo20kSb9Xc_0000002 65.0 69.6 
+Alison_Pill/dyo20kSb9Xc_0000003 70.6 100.1 
+Alison_Pill/dyo20kSb9Xc_0000004 101.7 117.7 
+Alison_Pill/dyo20kSb9Xc_0000005 140.5 148.7 

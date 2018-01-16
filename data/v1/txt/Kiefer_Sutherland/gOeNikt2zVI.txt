@@ -1,0 +1,8 @@
+POI: 			Kiefer_Sutherland 
+Youtube ID: 	gOeNikt2zVI 
+Video length: 	665.4 sec 
+Set (V): 		dev 
+ 
+Kiefer_Sutherland/gOeNikt2zVI_0000001 336.1 340.4 
+Kiefer_Sutherland/gOeNikt2zVI_0000002 466.9 470.9 
+Kiefer_Sutherland/gOeNikt2zVI_0000003 490.9 499.8 

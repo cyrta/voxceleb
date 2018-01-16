@@ -1,0 +1,8 @@
+POI: 			Lea_Michele 
+Youtube ID: 	SgrQZSSwL4Y 
+Video length: 	244.2 sec 
+Set (V): 		dev 
+ 
+Lea_Michele/SgrQZSSwL4Y_0000001 58.1 64.1 
+Lea_Michele/SgrQZSSwL4Y_0000002 81.7 86.8 
+Lea_Michele/SgrQZSSwL4Y_0000003 153.6 157.6 

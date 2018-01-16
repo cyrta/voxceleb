@@ -1,0 +1,7 @@
+POI: 			Bruno_Mars 
+Youtube ID: 	LTdgG094nY4 
+Video length: 	687.0 sec 
+Set (V): 		dev 
+ 
+Bruno_Mars/LTdgG094nY4_0000001 118.8 125.4 
+Bruno_Mars/LTdgG094nY4_0000002 283.2 295.0 

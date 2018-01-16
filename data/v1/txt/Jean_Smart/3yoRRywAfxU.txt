@@ -1,0 +1,10 @@
+POI: 			Jean_Smart 
+Youtube ID: 	3yoRRywAfxU 
+Video length: 	290.9 sec 
+Set (V): 		dev 
+ 
+Jean_Smart/3yoRRywAfxU_0000001 12.8 16.8 
+Jean_Smart/3yoRRywAfxU_0000002 69.3 76.2 
+Jean_Smart/3yoRRywAfxU_0000003 168.1 182.2 
+Jean_Smart/3yoRRywAfxU_0000004 200.7 211.3 
+Jean_Smart/3yoRRywAfxU_0000005 218.2 222.5 

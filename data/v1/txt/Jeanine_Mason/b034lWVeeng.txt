@@ -1,0 +1,8 @@
+POI: 			Jeanine_Mason 
+Youtube ID: 	b034lWVeeng 
+Video length: 	159.1 sec 
+Set (V): 		dev 
+ 
+Jeanine_Mason/b034lWVeeng_0000001 98.4 106.0 
+Jeanine_Mason/b034lWVeeng_0000002 126.6 131.5 
+Jeanine_Mason/b034lWVeeng_0000003 131.8 135.8 

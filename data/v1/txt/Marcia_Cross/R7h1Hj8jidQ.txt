@@ -1,0 +1,7 @@
+POI: 			Marcia_Cross 
+Youtube ID: 	R7h1Hj8jidQ 
+Video length: 	224.3 sec 
+Set (V): 		dev 
+ 
+Marcia_Cross/R7h1Hj8jidQ_0000001 45.2 49.6 
+Marcia_Cross/R7h1Hj8jidQ_0000002 55.2 59.5 

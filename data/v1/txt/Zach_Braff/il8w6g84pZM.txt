@@ -1,0 +1,20 @@
+POI: 			Zach_Braff 
+Youtube ID: 	il8w6g84pZM 
+Video length: 	300.2 sec 
+Set (V): 		dev 
+ 
+Zach_Braff/il8w6g84pZM_0000001 09.2 14.0 
+Zach_Braff/il8w6g84pZM_0000002 14.6 21.9 
+Zach_Braff/il8w6g84pZM_0000003 40.1 47.4 
+Zach_Braff/il8w6g84pZM_0000004 48.2 54.5 
+Zach_Braff/il8w6g84pZM_0000005 83.5 88.4 
+Zach_Braff/il8w6g84pZM_0000006 109.3 113.5 
+Zach_Braff/il8w6g84pZM_0000007 129.3 135.7 
+Zach_Braff/il8w6g84pZM_0000008 140.4 147.9 
+Zach_Braff/il8w6g84pZM_0000009 153.0 160.6 
+Zach_Braff/il8w6g84pZM_0000010 169.5 178.9 
+Zach_Braff/il8w6g84pZM_0000011 199.1 204.9 
+Zach_Braff/il8w6g84pZM_0000012 209.7 215.7 
+Zach_Braff/il8w6g84pZM_0000013 243.0 251.3 
+Zach_Braff/il8w6g84pZM_0000014 271.2 276.5 
+Zach_Braff/il8w6g84pZM_0000015 290.5 294.8 

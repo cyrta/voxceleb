@@ -1,0 +1,8 @@
+POI: 			Celia_Imrie 
+Youtube ID: 	ZuGfZl-tca0 
+Video length: 	95.7 sec 
+Set (V): 		dev 
+ 
+Celia_Imrie/ZuGfZl-tca0_0000001 06.0 10.6 
+Celia_Imrie/ZuGfZl-tca0_0000002 27.7 33.4 
+Celia_Imrie/ZuGfZl-tca0_0000003 66.2 70.4 

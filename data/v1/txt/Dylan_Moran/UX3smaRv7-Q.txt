@@ -1,0 +1,11 @@
+POI: 			Dylan_Moran 
+Youtube ID: 	UX3smaRv7-Q 
+Video length: 	137.1 sec 
+Set (V): 		dev 
+ 
+Dylan_Moran/UX3smaRv7-Q_0000001 03.5 08.6 
+Dylan_Moran/UX3smaRv7-Q_0000002 22.6 26.6 
+Dylan_Moran/UX3smaRv7-Q_0000003 50.8 55.1 
+Dylan_Moran/UX3smaRv7-Q_0000004 79.8 85.0 
+Dylan_Moran/UX3smaRv7-Q_0000005 85.8 92.4 
+Dylan_Moran/UX3smaRv7-Q_0000006 108.1 113.3 

@@ -1,0 +1,9 @@
+POI: 			Shonda_Rhimes 
+Youtube ID: 	ShDFMbz6y-o 
+Video length: 	361.1 sec 
+Set (V): 		dev 
+ 
+Shonda_Rhimes/ShDFMbz6y-o_0000001 21.2 25.4 
+Shonda_Rhimes/ShDFMbz6y-o_0000002 68.8 81.4 
+Shonda_Rhimes/ShDFMbz6y-o_0000003 81.6 89.2 
+Shonda_Rhimes/ShDFMbz6y-o_0000004 90.0 95.1 

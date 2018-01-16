@@ -1,0 +1,11 @@
+POI: 			David_Jason 
+Youtube ID: 	FIiiTtWZI-c 
+Video length: 	137.6 sec 
+Set (V): 		dev 
+ 
+David_Jason/FIiiTtWZI-c_0000001 18.3 23.2 
+David_Jason/FIiiTtWZI-c_0000002 23.6 35.3 
+David_Jason/FIiiTtWZI-c_0000003 43.0 57.5 
+David_Jason/FIiiTtWZI-c_0000004 78.4 88.0 
+David_Jason/FIiiTtWZI-c_0000005 92.0 105.3 
+David_Jason/FIiiTtWZI-c_0000006 110.3 119.6 

@@ -1,0 +1,18 @@
+POI: 			Hilary_Swank 
+Youtube ID: 	BgwhzEfL_IM 
+Video length: 	284.7 sec 
+Set (V): 		dev 
+ 
+Hilary_Swank/BgwhzEfL_IM_0000001 21.0 34.4 
+Hilary_Swank/BgwhzEfL_IM_0000002 47.4 54.0 
+Hilary_Swank/BgwhzEfL_IM_0000003 106.0 111.6 
+Hilary_Swank/BgwhzEfL_IM_0000004 115.6 120.0 
+Hilary_Swank/BgwhzEfL_IM_0000005 120.4 124.6 
+Hilary_Swank/BgwhzEfL_IM_0000006 125.3 131.7 
+Hilary_Swank/BgwhzEfL_IM_0000007 148.1 153.7 
+Hilary_Swank/BgwhzEfL_IM_0000008 157.1 162.2 
+Hilary_Swank/BgwhzEfL_IM_0000009 176.8 182.3 
+Hilary_Swank/BgwhzEfL_IM_0000010 182.5 192.7 
+Hilary_Swank/BgwhzEfL_IM_0000011 208.1 222.1 
+Hilary_Swank/BgwhzEfL_IM_0000012 244.4 249.1 
+Hilary_Swank/BgwhzEfL_IM_0000013 252.8 259.5 

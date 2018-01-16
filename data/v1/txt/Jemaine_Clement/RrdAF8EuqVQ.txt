@@ -1,0 +1,7 @@
+POI: 			Jemaine_Clement 
+Youtube ID: 	RrdAF8EuqVQ 
+Video length: 	164.0 sec 
+Set (V): 		dev 
+ 
+Jemaine_Clement/RrdAF8EuqVQ_0000001 28.0 32.9 
+Jemaine_Clement/RrdAF8EuqVQ_0000002 130.9 141.9 

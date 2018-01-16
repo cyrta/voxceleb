@@ -1,0 +1,8 @@
+POI: 			Ezra_Miller 
+Youtube ID: 	MJ3skMKNBGM 
+Video length: 	97.3 sec 
+Set (V): 		test 
+ 
+Ezra_Miller/MJ3skMKNBGM_0000001 24.7 31.0 
+Ezra_Miller/MJ3skMKNBGM_0000002 41.3 46.2 
+Ezra_Miller/MJ3skMKNBGM_0000003 59.5 70.3 

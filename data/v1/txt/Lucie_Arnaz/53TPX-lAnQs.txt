@@ -1,0 +1,18 @@
+POI: 			Lucie_Arnaz 
+Youtube ID: 	53TPX-lAnQs 
+Video length: 	223.7 sec 
+Set (V): 		dev 
+ 
+Lucie_Arnaz/53TPX-lAnQs_0000001 01.2 05.2 
+Lucie_Arnaz/53TPX-lAnQs_0000002 06.3 12.9 
+Lucie_Arnaz/53TPX-lAnQs_0000003 13.0 24.4 
+Lucie_Arnaz/53TPX-lAnQs_0000004 29.3 56.3 
+Lucie_Arnaz/53TPX-lAnQs_0000005 58.7 69.0 
+Lucie_Arnaz/53TPX-lAnQs_0000006 73.4 80.6 
+Lucie_Arnaz/53TPX-lAnQs_0000007 96.9 104.3 
+Lucie_Arnaz/53TPX-lAnQs_0000008 112.8 118.4 
+Lucie_Arnaz/53TPX-lAnQs_0000009 120.3 137.0 
+Lucie_Arnaz/53TPX-lAnQs_0000010 140.8 147.1 
+Lucie_Arnaz/53TPX-lAnQs_0000011 148.3 152.6 
+Lucie_Arnaz/53TPX-lAnQs_0000012 175.6 186.2 
+Lucie_Arnaz/53TPX-lAnQs_0000013 191.5 209.2 

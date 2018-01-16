@@ -1,0 +1,23 @@
+POI: 			Quentin_Tarantino 
+Youtube ID: 	yeAfGSnnGOM 
+Video length: 	1524.8 sec 
+Set (V): 		dev 
+ 
+Quentin_Tarantino/yeAfGSnnGOM_0000001 169.9 175.3 
+Quentin_Tarantino/yeAfGSnnGOM_0000002 199.2 206.1 
+Quentin_Tarantino/yeAfGSnnGOM_0000003 206.3 211.0 
+Quentin_Tarantino/yeAfGSnnGOM_0000004 215.3 223.4 
+Quentin_Tarantino/yeAfGSnnGOM_0000005 263.2 267.8 
+Quentin_Tarantino/yeAfGSnnGOM_0000006 316.4 323.9 
+Quentin_Tarantino/yeAfGSnnGOM_0000007 338.3 344.0 
+Quentin_Tarantino/yeAfGSnnGOM_0000008 390.8 395.8 
+Quentin_Tarantino/yeAfGSnnGOM_0000009 429.4 441.0 
+Quentin_Tarantino/yeAfGSnnGOM_0000010 462.0 468.7 
+Quentin_Tarantino/yeAfGSnnGOM_0000011 551.1 557.3 
+Quentin_Tarantino/yeAfGSnnGOM_0000012 572.0 577.0 
+Quentin_Tarantino/yeAfGSnnGOM_0000013 1110.4 1116.8 
+Quentin_Tarantino/yeAfGSnnGOM_0000014 1119.1 1123.0 
+Quentin_Tarantino/yeAfGSnnGOM_0000015 1170.2 1178.4 
+Quentin_Tarantino/yeAfGSnnGOM_0000016 1186.5 1192.8 
+Quentin_Tarantino/yeAfGSnnGOM_0000017 1193.9 1198.2 
+Quentin_Tarantino/yeAfGSnnGOM_0000018 1493.8 1498.6 

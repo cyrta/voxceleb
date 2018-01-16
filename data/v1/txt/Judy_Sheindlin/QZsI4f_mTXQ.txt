@@ -1,0 +1,8 @@
+POI: 			Judy_Sheindlin 
+Youtube ID: 	QZsI4f_mTXQ 
+Video length: 	163.2 sec 
+Set (V): 		dev 
+ 
+Judy_Sheindlin/QZsI4f_mTXQ_0000001 43.7 49.1 
+Judy_Sheindlin/QZsI4f_mTXQ_0000002 49.4 54.9 
+Judy_Sheindlin/QZsI4f_mTXQ_0000003 85.6 101.4 

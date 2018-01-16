@@ -1,0 +1,7 @@
+POI: 			David_Harewood 
+Youtube ID: 	OLoCQMhFNrI 
+Video length: 	627.9 sec 
+Set (V): 		dev 
+ 
+David_Harewood/OLoCQMhFNrI_0000001 25.5 32.0 
+David_Harewood/OLoCQMhFNrI_0000002 107.8 112.3 

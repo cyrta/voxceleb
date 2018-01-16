@@ -1,0 +1,11 @@
+POI: 			Mark_Sheppard 
+Youtube ID: 	PBYziatVdk8 
+Video length: 	156.7 sec 
+Set (V): 		dev 
+ 
+Mark_Sheppard/PBYziatVdk8_0000001 09.0 14.2 
+Mark_Sheppard/PBYziatVdk8_0000002 15.2 21.5 
+Mark_Sheppard/PBYziatVdk8_0000003 45.5 53.8 
+Mark_Sheppard/PBYziatVdk8_0000004 91.1 96.0 
+Mark_Sheppard/PBYziatVdk8_0000005 98.4 105.0 
+Mark_Sheppard/PBYziatVdk8_0000006 128.7 135.9 

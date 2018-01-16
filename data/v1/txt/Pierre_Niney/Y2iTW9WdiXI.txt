@@ -1,0 +1,11 @@
+POI: 			Pierre_Niney 
+Youtube ID: 	Y2iTW9WdiXI 
+Video length: 	606.0 sec 
+Set (V): 		dev 
+ 
+Pierre_Niney/Y2iTW9WdiXI_0000001 86.3 94.1 
+Pierre_Niney/Y2iTW9WdiXI_0000002 251.6 256.0 
+Pierre_Niney/Y2iTW9WdiXI_0000003 288.6 294.1 
+Pierre_Niney/Y2iTW9WdiXI_0000004 316.1 320.1 
+Pierre_Niney/Y2iTW9WdiXI_0000005 476.8 481.0 
+Pierre_Niney/Y2iTW9WdiXI_0000006 499.9 505.8 

@@ -1,0 +1,9 @@
+POI: 			Andrew_Lee_Potts 
+Youtube ID: 	Ebts1VCIquw 
+Video length: 	58.7 sec 
+Set (V): 		dev 
+ 
+Andrew_Lee_Potts/Ebts1VCIquw_0000001 12.4 16.9 
+Andrew_Lee_Potts/Ebts1VCIquw_0000002 17.8 22.2 
+Andrew_Lee_Potts/Ebts1VCIquw_0000003 28.6 32.6 
+Andrew_Lee_Potts/Ebts1VCIquw_0000004 33.7 39.2 

@@ -1,0 +1,17 @@
+POI: 			James_Woods 
+Youtube ID: 	INr-A919dfI 
+Video length: 	745.9 sec 
+Set (V): 		dev 
+ 
+James_Woods/INr-A919dfI_0000001 49.4 53.6 
+James_Woods/INr-A919dfI_0000002 72.0 82.3 
+James_Woods/INr-A919dfI_0000003 123.9 130.3 
+James_Woods/INr-A919dfI_0000004 143.6 152.2 
+James_Woods/INr-A919dfI_0000005 193.5 201.0 
+James_Woods/INr-A919dfI_0000006 228.9 234.0 
+James_Woods/INr-A919dfI_0000007 259.2 269.4 
+James_Woods/INr-A919dfI_0000008 270.8 277.6 
+James_Woods/INr-A919dfI_0000009 289.8 296.4 
+James_Woods/INr-A919dfI_0000010 335.4 341.5 
+James_Woods/INr-A919dfI_0000011 352.6 357.9 
+James_Woods/INr-A919dfI_0000012 376.3 380.4 

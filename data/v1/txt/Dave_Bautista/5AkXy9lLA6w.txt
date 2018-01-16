@@ -1,0 +1,7 @@
+POI: 			Dave_Bautista 
+Youtube ID: 	5AkXy9lLA6w 
+Video length: 	319.4 sec 
+Set (V): 		dev 
+ 
+Dave_Bautista/5AkXy9lLA6w_0000001 135.0 139.0 
+Dave_Bautista/5AkXy9lLA6w_0000002 198.3 204.1 

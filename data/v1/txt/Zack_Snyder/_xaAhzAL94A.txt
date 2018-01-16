@@ -1,0 +1,13 @@
+POI: 			Zack_Snyder 
+Youtube ID: 	_xaAhzAL94A 
+Video length: 	242.6 sec 
+Set (V): 		dev 
+ 
+Zack_Snyder/_xaAhzAL94A_0000001 20.5 31.4 
+Zack_Snyder/_xaAhzAL94A_0000002 41.1 56.0 
+Zack_Snyder/_xaAhzAL94A_0000003 83.1 87.0 
+Zack_Snyder/_xaAhzAL94A_0000004 101.7 107.1 
+Zack_Snyder/_xaAhzAL94A_0000005 137.5 141.8 
+Zack_Snyder/_xaAhzAL94A_0000006 196.8 202.6 
+Zack_Snyder/_xaAhzAL94A_0000007 208.3 212.6 
+Zack_Snyder/_xaAhzAL94A_0000008 223.9 230.4 

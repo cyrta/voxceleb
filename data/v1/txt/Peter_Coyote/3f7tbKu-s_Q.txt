@@ -1,0 +1,12 @@
+POI: 			Peter_Coyote 
+Youtube ID: 	3f7tbKu-s_Q 
+Video length: 	507.2 sec 
+Set (V): 		dev 
+ 
+Peter_Coyote/3f7tbKu-s_Q_0000001 134.8 138.9 
+Peter_Coyote/3f7tbKu-s_Q_0000002 149.4 154.5 
+Peter_Coyote/3f7tbKu-s_Q_0000003 155.4 160.2 
+Peter_Coyote/3f7tbKu-s_Q_0000004 361.0 372.3 
+Peter_Coyote/3f7tbKu-s_Q_0000005 372.6 378.6 
+Peter_Coyote/3f7tbKu-s_Q_0000006 381.9 386.7 
+Peter_Coyote/3f7tbKu-s_Q_0000007 495.6 500.4 

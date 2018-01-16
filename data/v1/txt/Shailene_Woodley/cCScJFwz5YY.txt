@@ -1,0 +1,12 @@
+POI: 			Shailene_Woodley 
+Youtube ID: 	cCScJFwz5YY 
+Video length: 	234.2 sec 
+Set (V): 		dev 
+ 
+Shailene_Woodley/cCScJFwz5YY_0000001 30.4 37.8 
+Shailene_Woodley/cCScJFwz5YY_0000002 41.3 50.0 
+Shailene_Woodley/cCScJFwz5YY_0000003 131.7 136.5 
+Shailene_Woodley/cCScJFwz5YY_0000004 155.0 159.6 
+Shailene_Woodley/cCScJFwz5YY_0000005 173.7 177.8 
+Shailene_Woodley/cCScJFwz5YY_0000006 198.7 206.6 
+Shailene_Woodley/cCScJFwz5YY_0000007 206.9 215.5 

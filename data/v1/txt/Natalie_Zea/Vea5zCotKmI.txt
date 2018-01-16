@@ -1,0 +1,18 @@
+POI: 			Natalie_Zea 
+Youtube ID: 	Vea5zCotKmI 
+Video length: 	677.4 sec 
+Set (V): 		dev 
+ 
+Natalie_Zea/Vea5zCotKmI_0000001 102.9 106.9 
+Natalie_Zea/Vea5zCotKmI_0000002 122.9 127.4 
+Natalie_Zea/Vea5zCotKmI_0000003 199.0 211.5 
+Natalie_Zea/Vea5zCotKmI_0000004 215.0 222.4 
+Natalie_Zea/Vea5zCotKmI_0000005 273.9 279.6 
+Natalie_Zea/Vea5zCotKmI_0000006 295.8 300.4 
+Natalie_Zea/Vea5zCotKmI_0000007 314.6 319.0 
+Natalie_Zea/Vea5zCotKmI_0000008 388.6 392.8 
+Natalie_Zea/Vea5zCotKmI_0000009 437.4 444.0 
+Natalie_Zea/Vea5zCotKmI_0000010 456.9 462.9 
+Natalie_Zea/Vea5zCotKmI_0000011 504.0 522.0 
+Natalie_Zea/Vea5zCotKmI_0000012 575.6 585.0 
+Natalie_Zea/Vea5zCotKmI_0000013 585.4 591.2 

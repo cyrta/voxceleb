@@ -1,0 +1,31 @@
+POI: 			Eddie_Izzard 
+Youtube ID: 	eLl_yTeuaKo 
+Video length: 	733.8 sec 
+Set (V): 		test 
+ 
+Eddie_Izzard/eLl_yTeuaKo_0000001 49.4 55.2 
+Eddie_Izzard/eLl_yTeuaKo_0000002 103.1 110.0 
+Eddie_Izzard/eLl_yTeuaKo_0000003 110.2 119.9 
+Eddie_Izzard/eLl_yTeuaKo_0000004 122.4 129.6 
+Eddie_Izzard/eLl_yTeuaKo_0000005 171.3 175.5 
+Eddie_Izzard/eLl_yTeuaKo_0000006 175.7 181.2 
+Eddie_Izzard/eLl_yTeuaKo_0000007 186.4 197.4 
+Eddie_Izzard/eLl_yTeuaKo_0000008 209.6 220.9 
+Eddie_Izzard/eLl_yTeuaKo_0000009 265.4 272.4 
+Eddie_Izzard/eLl_yTeuaKo_0000010 273.1 282.1 
+Eddie_Izzard/eLl_yTeuaKo_0000011 309.1 314.0 
+Eddie_Izzard/eLl_yTeuaKo_0000012 314.8 321.6 
+Eddie_Izzard/eLl_yTeuaKo_0000013 339.4 355.2 
+Eddie_Izzard/eLl_yTeuaKo_0000014 356.0 365.4 
+Eddie_Izzard/eLl_yTeuaKo_0000015 418.6 437.4 
+Eddie_Izzard/eLl_yTeuaKo_0000016 439.7 448.2 
+Eddie_Izzard/eLl_yTeuaKo_0000017 456.9 464.0 
+Eddie_Izzard/eLl_yTeuaKo_0000018 467.5 475.0 
+Eddie_Izzard/eLl_yTeuaKo_0000019 475.6 498.7 
+Eddie_Izzard/eLl_yTeuaKo_0000020 530.8 538.0 
+Eddie_Izzard/eLl_yTeuaKo_0000021 538.6 549.6 
+Eddie_Izzard/eLl_yTeuaKo_0000022 555.9 567.6 
+Eddie_Izzard/eLl_yTeuaKo_0000023 573.2 578.4 
+Eddie_Izzard/eLl_yTeuaKo_0000024 597.2 615.9 
+Eddie_Izzard/eLl_yTeuaKo_0000025 640.0 653.9 
+Eddie_Izzard/eLl_yTeuaKo_0000026 698.3 711.0 

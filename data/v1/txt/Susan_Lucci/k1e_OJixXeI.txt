@@ -1,0 +1,13 @@
+POI: 			Susan_Lucci 
+Youtube ID: 	k1e_OJixXeI 
+Video length: 	142.7 sec 
+Set (V): 		dev 
+ 
+Susan_Lucci/k1e_OJixXeI_0000001 12.2 20.8 
+Susan_Lucci/k1e_OJixXeI_0000002 20.9 28.0 
+Susan_Lucci/k1e_OJixXeI_0000003 28.2 38.6 
+Susan_Lucci/k1e_OJixXeI_0000004 38.9 65.8 
+Susan_Lucci/k1e_OJixXeI_0000005 67.2 77.2 
+Susan_Lucci/k1e_OJixXeI_0000006 80.9 88.2 
+Susan_Lucci/k1e_OJixXeI_0000007 89.5 100.4 
+Susan_Lucci/k1e_OJixXeI_0000008 122.5 126.9 

@@ -1,0 +1,24 @@
+POI: 			Ezra_Miller 
+Youtube ID: 	rxnN8thYzEQ 
+Video length: 	2361.6 sec 
+Set (V): 		test 
+ 
+Ezra_Miller/rxnN8thYzEQ_0000001 171.8 175.9 
+Ezra_Miller/rxnN8thYzEQ_0000002 267.9 277.6 
+Ezra_Miller/rxnN8thYzEQ_0000003 706.4 714.6 
+Ezra_Miller/rxnN8thYzEQ_0000004 1167.8 1172.1 
+Ezra_Miller/rxnN8thYzEQ_0000005 1291.3 1295.4 
+Ezra_Miller/rxnN8thYzEQ_0000006 1408.7 1414.3 
+Ezra_Miller/rxnN8thYzEQ_0000007 1438.9 1444.9 
+Ezra_Miller/rxnN8thYzEQ_0000008 1445.6 1451.8 
+Ezra_Miller/rxnN8thYzEQ_0000009 1462.3 1469.2 
+Ezra_Miller/rxnN8thYzEQ_0000010 1572.5 1577.5 
+Ezra_Miller/rxnN8thYzEQ_0000011 1579.7 1585.6 
+Ezra_Miller/rxnN8thYzEQ_0000012 1550.8 1555.0 
+Ezra_Miller/rxnN8thYzEQ_0000013 1556.8 1566.3 
+Ezra_Miller/rxnN8thYzEQ_0000014 1966.7 1971.4 
+Ezra_Miller/rxnN8thYzEQ_0000015 2061.0 2067.0 
+Ezra_Miller/rxnN8thYzEQ_0000016 2077.3 2081.8 
+Ezra_Miller/rxnN8thYzEQ_0000017 2114.4 2119.0 
+Ezra_Miller/rxnN8thYzEQ_0000018 2122.3 2126.3 
+Ezra_Miller/rxnN8thYzEQ_0000019 2280.5 2285.5 

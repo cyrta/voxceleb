@@ -1,0 +1,7 @@
+POI: 			Andy_Samberg 
+Youtube ID: 	40jNTPnDsEo 
+Video length: 	306.0 sec 
+Set (V): 		dev 
+ 
+Andy_Samberg/40jNTPnDsEo_0000001 110.3 114.5 
+Andy_Samberg/40jNTPnDsEo_0000002 272.8 277.2 

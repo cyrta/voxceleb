@@ -1,0 +1,38 @@
+POI: 			Joseph_Gordon-Levitt 
+Youtube ID: 	NIVVbWBeOPU 
+Video length: 	795.9 sec 
+Set (V): 		dev 
+ 
+Joseph_Gordon-Levitt/NIVVbWBeOPU_0000001 64.4 74.8 
+Joseph_Gordon-Levitt/NIVVbWBeOPU_0000002 77.8 83.0 
+Joseph_Gordon-Levitt/NIVVbWBeOPU_0000003 83.9 95.4 
+Joseph_Gordon-Levitt/NIVVbWBeOPU_0000004 127.8 132.0 
+Joseph_Gordon-Levitt/NIVVbWBeOPU_0000005 143.9 155.1 
+Joseph_Gordon-Levitt/NIVVbWBeOPU_0000006 156.0 160.4 
+Joseph_Gordon-Levitt/NIVVbWBeOPU_0000007 164.7 171.4 
+Joseph_Gordon-Levitt/NIVVbWBeOPU_0000008 174.7 179.1 
+Joseph_Gordon-Levitt/NIVVbWBeOPU_0000009 179.5 186.5 
+Joseph_Gordon-Levitt/NIVVbWBeOPU_0000010 222.9 232.7 
+Joseph_Gordon-Levitt/NIVVbWBeOPU_0000011 233.6 237.8 
+Joseph_Gordon-Levitt/NIVVbWBeOPU_0000012 245.2 250.7 
+Joseph_Gordon-Levitt/NIVVbWBeOPU_0000013 330.8 342.1 
+Joseph_Gordon-Levitt/NIVVbWBeOPU_0000014 342.6 347.4 
+Joseph_Gordon-Levitt/NIVVbWBeOPU_0000015 364.8 371.5 
+Joseph_Gordon-Levitt/NIVVbWBeOPU_0000016 373.6 384.4 
+Joseph_Gordon-Levitt/NIVVbWBeOPU_0000017 388.8 396.2 
+Joseph_Gordon-Levitt/NIVVbWBeOPU_0000018 437.8 448.7 
+Joseph_Gordon-Levitt/NIVVbWBeOPU_0000019 454.3 460.0 
+Joseph_Gordon-Levitt/NIVVbWBeOPU_0000020 560.1 564.4 
+Joseph_Gordon-Levitt/NIVVbWBeOPU_0000021 565.3 569.7 
+Joseph_Gordon-Levitt/NIVVbWBeOPU_0000022 570.4 575.4 
+Joseph_Gordon-Levitt/NIVVbWBeOPU_0000023 582.1 587.0 
+Joseph_Gordon-Levitt/NIVVbWBeOPU_0000024 589.5 594.3 
+Joseph_Gordon-Levitt/NIVVbWBeOPU_0000025 601.9 606.3 
+Joseph_Gordon-Levitt/NIVVbWBeOPU_0000026 613.9 619.5 
+Joseph_Gordon-Levitt/NIVVbWBeOPU_0000027 620.0 629.0 
+Joseph_Gordon-Levitt/NIVVbWBeOPU_0000028 630.4 637.4 
+Joseph_Gordon-Levitt/NIVVbWBeOPU_0000029 655.6 664.1 
+Joseph_Gordon-Levitt/NIVVbWBeOPU_0000030 666.0 674.1 
+Joseph_Gordon-Levitt/NIVVbWBeOPU_0000031 705.8 710.4 
+Joseph_Gordon-Levitt/NIVVbWBeOPU_0000032 720.7 726.8 
+Joseph_Gordon-Levitt/NIVVbWBeOPU_0000033 734.3 738.9 

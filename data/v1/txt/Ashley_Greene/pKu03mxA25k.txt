@@ -1,0 +1,11 @@
+POI: 			Ashley_Greene 
+Youtube ID: 	pKu03mxA25k 
+Video length: 	284.0 sec 
+Set (V): 		dev 
+ 
+Ashley_Greene/pKu03mxA25k_0000001 07.6 15.4 
+Ashley_Greene/pKu03mxA25k_0000002 20.5 29.0 
+Ashley_Greene/pKu03mxA25k_0000003 116.2 134.4 
+Ashley_Greene/pKu03mxA25k_0000004 137.9 143.0 
+Ashley_Greene/pKu03mxA25k_0000005 254.5 271.0 
+Ashley_Greene/pKu03mxA25k_0000006 272.2 276.8 

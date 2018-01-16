@@ -1,0 +1,12 @@
+POI: 			Donnie_Yen 
+Youtube ID: 	q0sJfgH-2zI 
+Video length: 	217.9 sec 
+Set (V): 		dev 
+ 
+Donnie_Yen/q0sJfgH-2zI_0000001 13.0 17.1 
+Donnie_Yen/q0sJfgH-2zI_0000002 18.1 26.3 
+Donnie_Yen/q0sJfgH-2zI_0000003 26.5 31.1 
+Donnie_Yen/q0sJfgH-2zI_0000004 55.1 59.1 
+Donnie_Yen/q0sJfgH-2zI_0000005 80.6 85.6 
+Donnie_Yen/q0sJfgH-2zI_0000006 133.2 139.0 
+Donnie_Yen/q0sJfgH-2zI_0000007 183.9 189.9 

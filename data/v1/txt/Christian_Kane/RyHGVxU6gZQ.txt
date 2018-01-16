@@ -1,0 +1,9 @@
+POI: 			Christian_Kane 
+Youtube ID: 	RyHGVxU6gZQ 
+Video length: 	391.2 sec 
+Set (V): 		dev 
+ 
+Christian_Kane/RyHGVxU6gZQ_0000001 21.8 35.1 
+Christian_Kane/RyHGVxU6gZQ_0000002 35.4 45.1 
+Christian_Kane/RyHGVxU6gZQ_0000003 45.2 57.1 
+Christian_Kane/RyHGVxU6gZQ_0000004 63.5 69.3 

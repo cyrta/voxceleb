@@ -1,0 +1,10 @@
+POI: 			Odette_Annable 
+Youtube ID: 	Sq_KLyhLZcc 
+Video length: 	164.9 sec 
+Set (V): 		dev 
+ 
+Odette_Annable/Sq_KLyhLZcc_0000001 21.1 25.1 
+Odette_Annable/Sq_KLyhLZcc_0000002 25.5 30.1 
+Odette_Annable/Sq_KLyhLZcc_0000003 84.6 92.8 
+Odette_Annable/Sq_KLyhLZcc_0000004 124.7 136.9 
+Odette_Annable/Sq_KLyhLZcc_0000005 139.2 155.4 

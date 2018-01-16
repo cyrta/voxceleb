@@ -1,0 +1,15 @@
+POI: 			Rob_Riggle 
+Youtube ID: 	KPXnZkVxv5Q 
+Video length: 	233.9 sec 
+Set (V): 		dev 
+ 
+Rob_Riggle/KPXnZkVxv5Q_0000001 07.7 13.1 
+Rob_Riggle/KPXnZkVxv5Q_0000002 14.2 57.5 
+Rob_Riggle/KPXnZkVxv5Q_0000003 77.8 83.9 
+Rob_Riggle/KPXnZkVxv5Q_0000004 84.1 94.6 
+Rob_Riggle/KPXnZkVxv5Q_0000005 106.6 121.1 
+Rob_Riggle/KPXnZkVxv5Q_0000006 130.2 139.2 
+Rob_Riggle/KPXnZkVxv5Q_0000007 140.0 156.7 
+Rob_Riggle/KPXnZkVxv5Q_0000008 157.4 161.5 
+Rob_Riggle/KPXnZkVxv5Q_0000009 176.2 180.2 
+Rob_Riggle/KPXnZkVxv5Q_0000010 193.1 228.4 

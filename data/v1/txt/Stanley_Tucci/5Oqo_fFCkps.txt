@@ -1,0 +1,9 @@
+POI: 			Stanley_Tucci 
+Youtube ID: 	5Oqo_fFCkps 
+Video length: 	5104.6 sec 
+Set (V): 		dev 
+ 
+Stanley_Tucci/5Oqo_fFCkps_0000001 1509.4 1513.4 
+Stanley_Tucci/5Oqo_fFCkps_0000002 1687.6 1691.6 
+Stanley_Tucci/5Oqo_fFCkps_0000003 1707.2 1711.6 
+Stanley_Tucci/5Oqo_fFCkps_0000004 2681.2 2685.4 

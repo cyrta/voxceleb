@@ -1,0 +1,17 @@
+POI: 			John_Slattery 
+Youtube ID: 	iQUsOkpUi1s 
+Video length: 	492.4 sec 
+Set (V): 		dev 
+ 
+John_Slattery/iQUsOkpUi1s_0000001 89.2 96.9 
+John_Slattery/iQUsOkpUi1s_0000002 101.0 115.9 
+John_Slattery/iQUsOkpUi1s_0000003 139.3 149.5 
+John_Slattery/iQUsOkpUi1s_0000004 268.6 275.3 
+John_Slattery/iQUsOkpUi1s_0000005 279.1 287.5 
+John_Slattery/iQUsOkpUi1s_0000006 330.7 337.1 
+John_Slattery/iQUsOkpUi1s_0000007 345.8 351.6 
+John_Slattery/iQUsOkpUi1s_0000008 440.9 445.8 
+John_Slattery/iQUsOkpUi1s_0000009 447.4 452.0 
+John_Slattery/iQUsOkpUi1s_0000010 452.4 457.0 
+John_Slattery/iQUsOkpUi1s_0000011 459.0 463.8 
+John_Slattery/iQUsOkpUi1s_0000012 464.6 472.8 

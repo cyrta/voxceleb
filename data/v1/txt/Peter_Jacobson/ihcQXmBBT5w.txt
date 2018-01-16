@@ -1,0 +1,14 @@
+POI: 			Peter_Jacobson 
+Youtube ID: 	ihcQXmBBT5w 
+Video length: 	178.8 sec 
+Set (V): 		dev 
+ 
+Peter_Jacobson/ihcQXmBBT5w_0000001 14.6 42.0 
+Peter_Jacobson/ihcQXmBBT5w_0000002 42.2 48.4 
+Peter_Jacobson/ihcQXmBBT5w_0000003 53.2 58.4 
+Peter_Jacobson/ihcQXmBBT5w_0000004 59.0 67.7 
+Peter_Jacobson/ihcQXmBBT5w_0000005 77.2 83.8 
+Peter_Jacobson/ihcQXmBBT5w_0000006 84.5 106.4 
+Peter_Jacobson/ihcQXmBBT5w_0000007 110.0 134.8 
+Peter_Jacobson/ihcQXmBBT5w_0000008 140.9 156.5 
+Peter_Jacobson/ihcQXmBBT5w_0000009 156.7 164.4 

@@ -1,0 +1,10 @@
+POI: 			Patton_Oswalt 
+Youtube ID: 	rBBYzujfJvU 
+Video length: 	235.2 sec 
+Set (V): 		dev 
+ 
+Patton_Oswalt/rBBYzujfJvU_0000001 28.0 41.9 
+Patton_Oswalt/rBBYzujfJvU_0000002 47.4 55.6 
+Patton_Oswalt/rBBYzujfJvU_0000003 92.3 105.8 
+Patton_Oswalt/rBBYzujfJvU_0000004 121.5 137.9 
+Patton_Oswalt/rBBYzujfJvU_0000005 149.0 156.9 

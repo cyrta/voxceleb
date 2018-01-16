@@ -1,0 +1,10 @@
+POI: 			David_Henrie 
+Youtube ID: 	xPTIQkKGb6Q 
+Video length: 	229.4 sec 
+Set (V): 		dev 
+ 
+David_Henrie/xPTIQkKGb6Q_0000001 31.1 36.1 
+David_Henrie/xPTIQkKGb6Q_0000002 96.0 101.0 
+David_Henrie/xPTIQkKGb6Q_0000003 159.5 169.8 
+David_Henrie/xPTIQkKGb6Q_0000004 172.1 181.2 
+David_Henrie/xPTIQkKGb6Q_0000005 192.4 197.8 

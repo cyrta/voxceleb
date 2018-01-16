@@ -1,0 +1,22 @@
+POI: 			Melody_Thomas_Scott 
+Youtube ID: 	iAz_9ts9BRc 
+Video length: 	613.1 sec 
+Set (V): 		dev 
+ 
+Melody_Thomas_Scott/iAz_9ts9BRc_0000001 133.9 138.6 
+Melody_Thomas_Scott/iAz_9ts9BRc_0000002 212.9 217.8 
+Melody_Thomas_Scott/iAz_9ts9BRc_0000003 274.8 281.4 
+Melody_Thomas_Scott/iAz_9ts9BRc_0000004 285.9 291.4 
+Melody_Thomas_Scott/iAz_9ts9BRc_0000005 304.7 314.4 
+Melody_Thomas_Scott/iAz_9ts9BRc_0000006 315.1 320.0 
+Melody_Thomas_Scott/iAz_9ts9BRc_0000007 321.1 330.8 
+Melody_Thomas_Scott/iAz_9ts9BRc_0000008 333.2 337.9 
+Melody_Thomas_Scott/iAz_9ts9BRc_0000009 391.4 395.6 
+Melody_Thomas_Scott/iAz_9ts9BRc_0000010 436.7 443.7 
+Melody_Thomas_Scott/iAz_9ts9BRc_0000011 475.2 480.2 
+Melody_Thomas_Scott/iAz_9ts9BRc_0000012 480.6 484.6 
+Melody_Thomas_Scott/iAz_9ts9BRc_0000013 486.9 491.9 
+Melody_Thomas_Scott/iAz_9ts9BRc_0000014 498.0 508.7 
+Melody_Thomas_Scott/iAz_9ts9BRc_0000015 519.8 525.3 
+Melody_Thomas_Scott/iAz_9ts9BRc_0000016 582.2 590.9 
+Melody_Thomas_Scott/iAz_9ts9BRc_0000017 597.6 603.4 

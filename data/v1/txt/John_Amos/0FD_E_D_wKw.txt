@@ -1,0 +1,17 @@
+POI: 			John_Amos 
+Youtube ID: 	0FD_E_D_wKw 
+Video length: 	224.1 sec 
+Set (V): 		dev 
+ 
+John_Amos/0FD_E_D_wKw_0000001 10.5 15.4 
+John_Amos/0FD_E_D_wKw_0000002 15.6 22.2 
+John_Amos/0FD_E_D_wKw_0000003 25.0 45.3 
+John_Amos/0FD_E_D_wKw_0000004 61.6 65.8 
+John_Amos/0FD_E_D_wKw_0000005 65.9 75.2 
+John_Amos/0FD_E_D_wKw_0000006 75.5 82.6 
+John_Amos/0FD_E_D_wKw_0000007 93.8 97.8 
+John_Amos/0FD_E_D_wKw_0000008 98.0 106.5 
+John_Amos/0FD_E_D_wKw_0000009 111.9 125.5 
+John_Amos/0FD_E_D_wKw_0000010 131.0 155.5 
+John_Amos/0FD_E_D_wKw_0000011 159.9 174.2 
+John_Amos/0FD_E_D_wKw_0000012 180.3 188.8 

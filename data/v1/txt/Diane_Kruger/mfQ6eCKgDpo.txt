@@ -1,0 +1,9 @@
+POI: 			Diane_Kruger 
+Youtube ID: 	mfQ6eCKgDpo 
+Video length: 	385.4 sec 
+Set (V): 		dev 
+ 
+Diane_Kruger/mfQ6eCKgDpo_0000001 113.4 121.8 
+Diane_Kruger/mfQ6eCKgDpo_0000002 271.1 276.1 
+Diane_Kruger/mfQ6eCKgDpo_0000003 302.6 307.8 
+Diane_Kruger/mfQ6eCKgDpo_0000004 308.0 313.3 

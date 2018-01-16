@@ -1,0 +1,7 @@
+POI: 			Miley_Cyrus 
+Youtube ID: 	1DRVInHOJz8 
+Video length: 	510.8 sec 
+Set (V): 		dev 
+ 
+Miley_Cyrus/1DRVInHOJz8_0000001 254.6 260.2 
+Miley_Cyrus/1DRVInHOJz8_0000002 330.2 337.4 

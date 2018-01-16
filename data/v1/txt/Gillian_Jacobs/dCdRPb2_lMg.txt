@@ -1,0 +1,7 @@
+POI: 			Gillian_Jacobs 
+Youtube ID: 	dCdRPb2_lMg 
+Video length: 	220.1 sec 
+Set (V): 		dev 
+ 
+Gillian_Jacobs/dCdRPb2_lMg_0000001 83.6 88.0 
+Gillian_Jacobs/dCdRPb2_lMg_0000002 88.3 103.3 

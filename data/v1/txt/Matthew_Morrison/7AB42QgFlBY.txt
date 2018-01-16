@@ -1,0 +1,13 @@
+POI: 			Matthew_Morrison 
+Youtube ID: 	7AB42QgFlBY 
+Video length: 	225.6 sec 
+Set (V): 		dev 
+ 
+Matthew_Morrison/7AB42QgFlBY_0000001 51.6 56.4 
+Matthew_Morrison/7AB42QgFlBY_0000002 56.8 72.3 
+Matthew_Morrison/7AB42QgFlBY_0000003 86.7 90.9 
+Matthew_Morrison/7AB42QgFlBY_0000004 109.4 117.5 
+Matthew_Morrison/7AB42QgFlBY_0000005 117.6 129.1 
+Matthew_Morrison/7AB42QgFlBY_0000006 132.8 139.6 
+Matthew_Morrison/7AB42QgFlBY_0000007 160.9 166.1 
+Matthew_Morrison/7AB42QgFlBY_0000008 177.2 184.7 

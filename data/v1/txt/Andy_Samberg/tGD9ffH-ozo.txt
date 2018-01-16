@@ -1,0 +1,9 @@
+POI: 			Andy_Samberg 
+Youtube ID: 	tGD9ffH-ozo 
+Video length: 	171.6 sec 
+Set (V): 		dev 
+ 
+Andy_Samberg/tGD9ffH-ozo_0000001 97.3 101.6 
+Andy_Samberg/tGD9ffH-ozo_0000002 102.2 108.4 
+Andy_Samberg/tGD9ffH-ozo_0000003 110.2 119.8 
+Andy_Samberg/tGD9ffH-ozo_0000004 120.9 128.2 

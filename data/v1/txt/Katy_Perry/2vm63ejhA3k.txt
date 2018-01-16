@@ -1,0 +1,25 @@
+POI: 			Katy_Perry 
+Youtube ID: 	2vm63ejhA3k 
+Video length: 	785.6 sec 
+Set (V): 		dev 
+ 
+Katy_Perry/2vm63ejhA3k_0000001 183.8 188.6 
+Katy_Perry/2vm63ejhA3k_0000002 228.8 243.1 
+Katy_Perry/2vm63ejhA3k_0000003 280.2 290.4 
+Katy_Perry/2vm63ejhA3k_0000004 294.3 301.6 
+Katy_Perry/2vm63ejhA3k_0000005 316.0 320.2 
+Katy_Perry/2vm63ejhA3k_0000006 410.2 420.0 
+Katy_Perry/2vm63ejhA3k_0000007 439.8 446.2 
+Katy_Perry/2vm63ejhA3k_0000008 455.7 461.9 
+Katy_Perry/2vm63ejhA3k_0000009 534.2 539.9 
+Katy_Perry/2vm63ejhA3k_0000010 541.8 546.0 
+Katy_Perry/2vm63ejhA3k_0000011 548.2 553.4 
+Katy_Perry/2vm63ejhA3k_0000012 546.3 553.4 
+Katy_Perry/2vm63ejhA3k_0000013 621.4 626.3 
+Katy_Perry/2vm63ejhA3k_0000014 651.6 656.7 
+Katy_Perry/2vm63ejhA3k_0000015 662.4 667.6 
+Katy_Perry/2vm63ejhA3k_0000016 675.0 683.1 
+Katy_Perry/2vm63ejhA3k_0000017 686.8 693.0 
+Katy_Perry/2vm63ejhA3k_0000018 706.5 717.5 
+Katy_Perry/2vm63ejhA3k_0000019 727.5 732.2 
+Katy_Perry/2vm63ejhA3k_0000020 744.9 759.4 

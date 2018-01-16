@@ -1,0 +1,17 @@
+POI: 			India_de_Beaufort 
+Youtube ID: 	dHsmTR_gpP8 
+Video length: 	281.2 sec 
+Set (V): 		dev 
+ 
+India_de_Beaufort/dHsmTR_gpP8_0000001 06.7 12.1 
+India_de_Beaufort/dHsmTR_gpP8_0000002 47.1 51.3 
+India_de_Beaufort/dHsmTR_gpP8_0000003 73.0 84.0 
+India_de_Beaufort/dHsmTR_gpP8_0000004 97.6 103.7 
+India_de_Beaufort/dHsmTR_gpP8_0000005 110.2 119.5 
+India_de_Beaufort/dHsmTR_gpP8_0000006 138.2 142.9 
+India_de_Beaufort/dHsmTR_gpP8_0000007 162.7 173.0 
+India_de_Beaufort/dHsmTR_gpP8_0000008 174.8 178.8 
+India_de_Beaufort/dHsmTR_gpP8_0000009 229.5 240.2 
+India_de_Beaufort/dHsmTR_gpP8_0000010 242.5 247.4 
+India_de_Beaufort/dHsmTR_gpP8_0000011 256.7 262.6 
+India_de_Beaufort/dHsmTR_gpP8_0000012 263.8 269.0 

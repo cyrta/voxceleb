@@ -1,0 +1,9 @@
+POI: 			Hugh_Dancy 
+Youtube ID: 	nLmlNBFusdc 
+Video length: 	180.5 sec 
+Set (V): 		dev 
+ 
+Hugh_Dancy/nLmlNBFusdc_0000001 42.7 49.3 
+Hugh_Dancy/nLmlNBFusdc_0000002 66.1 72.4 
+Hugh_Dancy/nLmlNBFusdc_0000003 107.0 111.3 
+Hugh_Dancy/nLmlNBFusdc_0000004 142.3 148.6 

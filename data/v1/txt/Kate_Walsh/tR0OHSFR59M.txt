@@ -1,0 +1,7 @@
+POI: 			Kate_Walsh 
+Youtube ID: 	tR0OHSFR59M 
+Video length: 	135.8 sec 
+Set (V): 		dev 
+ 
+Kate_Walsh/tR0OHSFR59M_0000001 14.7 19.0 
+Kate_Walsh/tR0OHSFR59M_0000002 23.6 30.7 

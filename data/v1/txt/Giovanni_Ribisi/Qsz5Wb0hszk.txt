@@ -1,0 +1,7 @@
+POI: 			Giovanni_Ribisi 
+Youtube ID: 	Qsz5Wb0hszk 
+Video length: 	109.2 sec 
+Set (V): 		dev 
+ 
+Giovanni_Ribisi/Qsz5Wb0hszk_0000001 67.8 78.6 
+Giovanni_Ribisi/Qsz5Wb0hszk_0000002 87.0 91.5 

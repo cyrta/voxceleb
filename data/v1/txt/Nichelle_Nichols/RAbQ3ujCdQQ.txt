@@ -1,0 +1,45 @@
+POI: 			Nichelle_Nichols 
+Youtube ID: 	RAbQ3ujCdQQ 
+Video length: 	1263.6 sec 
+Set (V): 		dev 
+ 
+Nichelle_Nichols/RAbQ3ujCdQQ_0000001 41.4 47.5 
+Nichelle_Nichols/RAbQ3ujCdQQ_0000002 47.9 52.7 
+Nichelle_Nichols/RAbQ3ujCdQQ_0000003 54.3 59.1 
+Nichelle_Nichols/RAbQ3ujCdQQ_0000004 63.8 74.2 
+Nichelle_Nichols/RAbQ3ujCdQQ_0000005 81.8 87.6 
+Nichelle_Nichols/RAbQ3ujCdQQ_0000006 165.9 180.8 
+Nichelle_Nichols/RAbQ3ujCdQQ_0000007 208.0 216.1 
+Nichelle_Nichols/RAbQ3ujCdQQ_0000008 236.5 242.7 
+Nichelle_Nichols/RAbQ3ujCdQQ_0000009 252.8 257.8 
+Nichelle_Nichols/RAbQ3ujCdQQ_0000010 272.2 279.3 
+Nichelle_Nichols/RAbQ3ujCdQQ_0000011 279.8 289.0 
+Nichelle_Nichols/RAbQ3ujCdQQ_0000012 289.2 298.0 
+Nichelle_Nichols/RAbQ3ujCdQQ_0000013 356.7 361.6 
+Nichelle_Nichols/RAbQ3ujCdQQ_0000014 372.0 381.4 
+Nichelle_Nichols/RAbQ3ujCdQQ_0000015 383.5 389.9 
+Nichelle_Nichols/RAbQ3ujCdQQ_0000016 406.2 410.5 
+Nichelle_Nichols/RAbQ3ujCdQQ_0000017 421.1 427.3 
+Nichelle_Nichols/RAbQ3ujCdQQ_0000018 438.5 451.3 
+Nichelle_Nichols/RAbQ3ujCdQQ_0000019 463.2 475.7 
+Nichelle_Nichols/RAbQ3ujCdQQ_0000020 496.4 507.1 
+Nichelle_Nichols/RAbQ3ujCdQQ_0000021 508.4 514.7 
+Nichelle_Nichols/RAbQ3ujCdQQ_0000022 575.3 583.9 
+Nichelle_Nichols/RAbQ3ujCdQQ_0000023 584.6 590.9 
+Nichelle_Nichols/RAbQ3ujCdQQ_0000024 598.5 603.4 
+Nichelle_Nichols/RAbQ3ujCdQQ_0000025 693.0 698.2 
+Nichelle_Nichols/RAbQ3ujCdQQ_0000026 717.2 729.2 
+Nichelle_Nichols/RAbQ3ujCdQQ_0000027 729.8 736.0 
+Nichelle_Nichols/RAbQ3ujCdQQ_0000028 737.3 742.9 
+Nichelle_Nichols/RAbQ3ujCdQQ_0000029 802.7 807.6 
+Nichelle_Nichols/RAbQ3ujCdQQ_0000030 815.1 831.6 
+Nichelle_Nichols/RAbQ3ujCdQQ_0000031 943.0 951.7 
+Nichelle_Nichols/RAbQ3ujCdQQ_0000032 952.2 956.7 
+Nichelle_Nichols/RAbQ3ujCdQQ_0000033 956.8 961.6 
+Nichelle_Nichols/RAbQ3ujCdQQ_0000034 1002.6 1012.6 
+Nichelle_Nichols/RAbQ3ujCdQQ_0000035 1018.8 1027.4 
+Nichelle_Nichols/RAbQ3ujCdQQ_0000036 1137.2 1141.6 
+Nichelle_Nichols/RAbQ3ujCdQQ_0000037 1143.1 1159.8 
+Nichelle_Nichols/RAbQ3ujCdQQ_0000038 1170.8 1179.4 
+Nichelle_Nichols/RAbQ3ujCdQQ_0000039 1185.7 1192.2 
+Nichelle_Nichols/RAbQ3ujCdQQ_0000040 1219.0 1225.2 

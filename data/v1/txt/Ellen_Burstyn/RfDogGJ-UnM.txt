@@ -1,0 +1,7 @@
+POI: 			Ellen_Burstyn 
+Youtube ID: 	RfDogGJ-UnM 
+Video length: 	77.1 sec 
+Set (V): 		test 
+ 
+Ellen_Burstyn/RfDogGJ-UnM_0000001 36.0 42.1 
+Ellen_Burstyn/RfDogGJ-UnM_0000002 44.6 49.4 

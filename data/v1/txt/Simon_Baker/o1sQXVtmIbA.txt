@@ -1,0 +1,9 @@
+POI: 			Simon_Baker 
+Youtube ID: 	o1sQXVtmIbA 
+Video length: 	247.2 sec 
+Set (V): 		dev 
+ 
+Simon_Baker/o1sQXVtmIbA_0000001 110.1 114.2 
+Simon_Baker/o1sQXVtmIbA_0000002 194.8 200.7 
+Simon_Baker/o1sQXVtmIbA_0000003 219.8 223.8 
+Simon_Baker/o1sQXVtmIbA_0000004 225.2 229.2 

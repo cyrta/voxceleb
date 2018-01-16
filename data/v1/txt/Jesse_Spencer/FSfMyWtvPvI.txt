@@ -1,0 +1,11 @@
+POI: 			Jesse_Spencer 
+Youtube ID: 	FSfMyWtvPvI 
+Video length: 	162.5 sec 
+Set (V): 		dev 
+ 
+Jesse_Spencer/FSfMyWtvPvI_0000001 11.4 16.7 
+Jesse_Spencer/FSfMyWtvPvI_0000002 23.4 37.6 
+Jesse_Spencer/FSfMyWtvPvI_0000003 41.6 49.4 
+Jesse_Spencer/FSfMyWtvPvI_0000004 87.6 94.9 
+Jesse_Spencer/FSfMyWtvPvI_0000005 110.9 117.0 
+Jesse_Spencer/FSfMyWtvPvI_0000006 138.5 145.5 

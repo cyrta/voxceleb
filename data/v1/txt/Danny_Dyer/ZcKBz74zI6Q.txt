@@ -1,0 +1,9 @@
+POI: 			Danny_Dyer 
+Youtube ID: 	ZcKBz74zI6Q 
+Video length: 	404.3 sec 
+Set (V): 		dev 
+ 
+Danny_Dyer/ZcKBz74zI6Q_0000001 159.8 165.8 
+Danny_Dyer/ZcKBz74zI6Q_0000002 253.9 263.4 
+Danny_Dyer/ZcKBz74zI6Q_0000003 266.8 272.3 
+Danny_Dyer/ZcKBz74zI6Q_0000004 260.6 266.3 

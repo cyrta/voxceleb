@@ -1,0 +1,18 @@
+POI: 			Caterina_Murino 
+Youtube ID: 	DGsyRq7eghU 
+Video length: 	768.9 sec 
+Set (V): 		dev 
+ 
+Caterina_Murino/DGsyRq7eghU_0000001 26.5 31.3 
+Caterina_Murino/DGsyRq7eghU_0000002 35.4 42.2 
+Caterina_Murino/DGsyRq7eghU_0000003 43.0 47.8 
+Caterina_Murino/DGsyRq7eghU_0000004 48.8 52.9 
+Caterina_Murino/DGsyRq7eghU_0000005 135.1 144.5 
+Caterina_Murino/DGsyRq7eghU_0000006 151.7 155.8 
+Caterina_Murino/DGsyRq7eghU_0000007 161.4 173.9 
+Caterina_Murino/DGsyRq7eghU_0000008 419.4 423.4 
+Caterina_Murino/DGsyRq7eghU_0000009 445.8 455.0 
+Caterina_Murino/DGsyRq7eghU_0000010 456.4 466.9 
+Caterina_Murino/DGsyRq7eghU_0000011 622.3 632.1 
+Caterina_Murino/DGsyRq7eghU_0000012 634.5 640.8 
+Caterina_Murino/DGsyRq7eghU_0000013 648.2 653.4 

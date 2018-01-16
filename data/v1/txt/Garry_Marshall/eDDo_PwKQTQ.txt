@@ -1,0 +1,17 @@
+POI: 			Garry_Marshall 
+Youtube ID: 	eDDo_PwKQTQ 
+Video length: 	253.0 sec 
+Set (V): 		dev 
+ 
+Garry_Marshall/eDDo_PwKQTQ_0000001 06.0 17.7 
+Garry_Marshall/eDDo_PwKQTQ_0000002 21.8 37.4 
+Garry_Marshall/eDDo_PwKQTQ_0000003 38.4 72.0 
+Garry_Marshall/eDDo_PwKQTQ_0000004 72.2 143.8 
+Garry_Marshall/eDDo_PwKQTQ_0000005 146.9 153.8 
+Garry_Marshall/eDDo_PwKQTQ_0000006 156.7 164.9 
+Garry_Marshall/eDDo_PwKQTQ_0000007 165.6 176.0 
+Garry_Marshall/eDDo_PwKQTQ_0000008 176.4 180.7 
+Garry_Marshall/eDDo_PwKQTQ_0000009 181.4 191.9 
+Garry_Marshall/eDDo_PwKQTQ_0000010 198.1 222.8 
+Garry_Marshall/eDDo_PwKQTQ_0000011 229.8 234.5 
+Garry_Marshall/eDDo_PwKQTQ_0000012 235.2 243.9 

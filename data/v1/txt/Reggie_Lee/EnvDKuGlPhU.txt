@@ -1,0 +1,15 @@
+POI: 			Reggie_Lee 
+Youtube ID: 	EnvDKuGlPhU 
+Video length: 	246.7 sec 
+Set (V): 		dev 
+ 
+Reggie_Lee/EnvDKuGlPhU_0000001 08.8 43.7 
+Reggie_Lee/EnvDKuGlPhU_0000002 51.5 56.0 
+Reggie_Lee/EnvDKuGlPhU_0000003 58.0 62.5 
+Reggie_Lee/EnvDKuGlPhU_0000004 63.1 73.8 
+Reggie_Lee/EnvDKuGlPhU_0000005 73.9 92.0 
+Reggie_Lee/EnvDKuGlPhU_0000006 96.2 114.4 
+Reggie_Lee/EnvDKuGlPhU_0000007 117.4 122.8 
+Reggie_Lee/EnvDKuGlPhU_0000008 143.3 150.8 
+Reggie_Lee/EnvDKuGlPhU_0000009 171.0 178.6 
+Reggie_Lee/EnvDKuGlPhU_0000010 226.8 234.0 

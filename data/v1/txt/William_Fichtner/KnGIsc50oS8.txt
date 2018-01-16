@@ -1,0 +1,12 @@
+POI: 			William_Fichtner 
+Youtube ID: 	KnGIsc50oS8 
+Video length: 	258.7 sec 
+Set (V): 		dev 
+ 
+William_Fichtner/KnGIsc50oS8_0000001 48.4 65.2 
+William_Fichtner/KnGIsc50oS8_0000002 65.7 71.7 
+William_Fichtner/KnGIsc50oS8_0000003 72.5 81.5 
+William_Fichtner/KnGIsc50oS8_0000004 85.0 102.4 
+William_Fichtner/KnGIsc50oS8_0000005 105.9 115.5 
+William_Fichtner/KnGIsc50oS8_0000006 129.4 136.7 
+William_Fichtner/KnGIsc50oS8_0000007 143.4 149.2 

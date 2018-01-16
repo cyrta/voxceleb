@@ -1,0 +1,12 @@
+POI: 			Usher_Raymond 
+Youtube ID: 	2Cn5pCHT-YY 
+Video length: 	183.1 sec 
+Set (V): 		dev 
+ 
+Usher_Raymond/2Cn5pCHT-YY_0000001 19.5 23.8 
+Usher_Raymond/2Cn5pCHT-YY_0000002 47.3 51.3 
+Usher_Raymond/2Cn5pCHT-YY_0000003 51.7 59.6 
+Usher_Raymond/2Cn5pCHT-YY_0000004 66.8 71.4 
+Usher_Raymond/2Cn5pCHT-YY_0000005 104.6 128.6 
+Usher_Raymond/2Cn5pCHT-YY_0000006 130.7 139.1 
+Usher_Raymond/2Cn5pCHT-YY_0000007 154.8 171.6 

@@ -1,0 +1,17 @@
+POI: 			Meat_Loaf 
+Youtube ID: 	9w-EimtMXWs 
+Video length: 	264.6 sec 
+Set (V): 		dev 
+ 
+Meat_Loaf/9w-EimtMXWs_0000001 19.5 25.5 
+Meat_Loaf/9w-EimtMXWs_0000002 41.4 57.0 
+Meat_Loaf/9w-EimtMXWs_0000003 57.4 63.6 
+Meat_Loaf/9w-EimtMXWs_0000004 67.9 73.2 
+Meat_Loaf/9w-EimtMXWs_0000005 74.7 86.2 
+Meat_Loaf/9w-EimtMXWs_0000006 88.5 97.7 
+Meat_Loaf/9w-EimtMXWs_0000007 98.1 103.9 
+Meat_Loaf/9w-EimtMXWs_0000008 116.7 128.0 
+Meat_Loaf/9w-EimtMXWs_0000009 139.3 170.1 
+Meat_Loaf/9w-EimtMXWs_0000010 197.3 204.0 
+Meat_Loaf/9w-EimtMXWs_0000011 206.6 220.0 
+Meat_Loaf/9w-EimtMXWs_0000012 227.2 231.5 

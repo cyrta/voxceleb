@@ -1,0 +1,18 @@
+POI: 			Walton_Goggins 
+Youtube ID: 	YIuVp2wnXzs 
+Video length: 	303.8 sec 
+Set (V): 		dev 
+ 
+Walton_Goggins/YIuVp2wnXzs_0000001 77.2 84.0 
+Walton_Goggins/YIuVp2wnXzs_0000002 85.8 96.0 
+Walton_Goggins/YIuVp2wnXzs_0000003 109.1 120.2 
+Walton_Goggins/YIuVp2wnXzs_0000004 132.0 138.6 
+Walton_Goggins/YIuVp2wnXzs_0000005 139.1 149.4 
+Walton_Goggins/YIuVp2wnXzs_0000006 153.3 163.3 
+Walton_Goggins/YIuVp2wnXzs_0000007 207.1 211.4 
+Walton_Goggins/YIuVp2wnXzs_0000008 216.5 223.9 
+Walton_Goggins/YIuVp2wnXzs_0000009 224.9 229.2 
+Walton_Goggins/YIuVp2wnXzs_0000010 231.5 237.7 
+Walton_Goggins/YIuVp2wnXzs_0000011 241.8 256.9 
+Walton_Goggins/YIuVp2wnXzs_0000012 258.7 263.4 
+Walton_Goggins/YIuVp2wnXzs_0000013 271.7 280.3 

@@ -1,0 +1,12 @@
+POI: 			Steven_Bauer 
+Youtube ID: 	EE6GSiri5pE 
+Video length: 	219.6 sec 
+Set (V): 		dev 
+ 
+Steven_Bauer/EE6GSiri5pE_0000001 28.9 37.6 
+Steven_Bauer/EE6GSiri5pE_0000002 64.1 69.9 
+Steven_Bauer/EE6GSiri5pE_0000003 111.9 119.8 
+Steven_Bauer/EE6GSiri5pE_0000004 121.7 131.6 
+Steven_Bauer/EE6GSiri5pE_0000005 132.3 139.0 
+Steven_Bauer/EE6GSiri5pE_0000006 174.7 181.6 
+Steven_Bauer/EE6GSiri5pE_0000007 188.7 193.6 

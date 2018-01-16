@@ -1,0 +1,12 @@
+POI: 			Titus_Welliver 
+Youtube ID: 	L7ICT0dZny0 
+Video length: 	200.6 sec 
+Set (V): 		dev 
+ 
+Titus_Welliver/L7ICT0dZny0_0000001 58.2 64.0 
+Titus_Welliver/L7ICT0dZny0_0000002 72.4 78.8 
+Titus_Welliver/L7ICT0dZny0_0000003 80.8 85.0 
+Titus_Welliver/L7ICT0dZny0_0000004 88.1 100.0 
+Titus_Welliver/L7ICT0dZny0_0000005 145.9 152.2 
+Titus_Welliver/L7ICT0dZny0_0000006 154.3 158.7 
+Titus_Welliver/L7ICT0dZny0_0000007 163.5 173.8 

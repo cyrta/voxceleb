@@ -1,0 +1,9 @@
+POI: 			Kaya_Scodelario 
+Youtube ID: 	BM9wXR-rySs 
+Video length: 	127.0 sec 
+Set (V): 		dev 
+ 
+Kaya_Scodelario/BM9wXR-rySs_0000001 34.0 38.6 
+Kaya_Scodelario/BM9wXR-rySs_0000002 43.4 47.5 
+Kaya_Scodelario/BM9wXR-rySs_0000003 64.8 80.0 
+Kaya_Scodelario/BM9wXR-rySs_0000004 80.1 84.5 

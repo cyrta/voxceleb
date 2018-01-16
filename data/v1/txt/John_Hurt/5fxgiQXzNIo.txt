@@ -1,0 +1,13 @@
+POI: 			John_Hurt 
+Youtube ID: 	5fxgiQXzNIo 
+Video length: 	225.5 sec 
+Set (V): 		dev 
+ 
+John_Hurt/5fxgiQXzNIo_0000001 13.8 19.5 
+John_Hurt/5fxgiQXzNIo_0000002 43.1 47.9 
+John_Hurt/5fxgiQXzNIo_0000003 48.4 53.8 
+John_Hurt/5fxgiQXzNIo_0000004 54.4 58.5 
+John_Hurt/5fxgiQXzNIo_0000005 83.0 87.6 
+John_Hurt/5fxgiQXzNIo_0000006 151.4 162.8 
+John_Hurt/5fxgiQXzNIo_0000007 191.6 198.2 
+John_Hurt/5fxgiQXzNIo_0000008 209.1 215.5 

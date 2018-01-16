@@ -1,0 +1,8 @@
+POI: 			Xavier_Samuel 
+Youtube ID: 	StZ04je6NV4 
+Video length: 	82.2 sec 
+Set (V): 		dev 
+ 
+Xavier_Samuel/StZ04je6NV4_0000001 24.0 45.2 
+Xavier_Samuel/StZ04je6NV4_0000002 51.2 57.0 
+Xavier_Samuel/StZ04je6NV4_0000003 70.2 75.3 

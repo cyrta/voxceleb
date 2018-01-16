@@ -1,0 +1,10 @@
+POI: 			Danny_Dyer 
+Youtube ID: 	YuQr5obMEiY 
+Video length: 	203.0 sec 
+Set (V): 		dev 
+ 
+Danny_Dyer/YuQr5obMEiY_0000001 28.0 32.6 
+Danny_Dyer/YuQr5obMEiY_0000002 88.2 94.8 
+Danny_Dyer/YuQr5obMEiY_0000003 102.2 106.5 
+Danny_Dyer/YuQr5obMEiY_0000004 113.9 118.0 
+Danny_Dyer/YuQr5obMEiY_0000005 166.2 170.6 

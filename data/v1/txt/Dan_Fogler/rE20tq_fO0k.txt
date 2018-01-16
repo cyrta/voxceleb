@@ -1,0 +1,11 @@
+POI: 			Dan_Fogler 
+Youtube ID: 	rE20tq_fO0k 
+Video length: 	607.0 sec 
+Set (V): 		dev 
+ 
+Dan_Fogler/rE20tq_fO0k_0000001 165.8 172.0 
+Dan_Fogler/rE20tq_fO0k_0000002 193.8 198.0 
+Dan_Fogler/rE20tq_fO0k_0000003 243.4 261.3 
+Dan_Fogler/rE20tq_fO0k_0000004 263.4 267.4 
+Dan_Fogler/rE20tq_fO0k_0000005 268.3 274.4 
+Dan_Fogler/rE20tq_fO0k_0000006 447.4 452.7 

@@ -1,0 +1,9 @@
+POI: 			David_Tennant 
+Youtube ID: 	DE8weevwpoc 
+Video length: 	386.2 sec 
+Set (V): 		dev 
+ 
+David_Tennant/DE8weevwpoc_0000001 78.1 84.4 
+David_Tennant/DE8weevwpoc_0000002 148.9 154.8 
+David_Tennant/DE8weevwpoc_0000003 230.0 234.0 
+David_Tennant/DE8weevwpoc_0000004 264.7 269.3 

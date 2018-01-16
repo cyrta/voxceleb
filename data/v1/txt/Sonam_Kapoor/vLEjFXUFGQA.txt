@@ -1,0 +1,12 @@
+POI: 			Sonam_Kapoor 
+Youtube ID: 	vLEjFXUFGQA 
+Video length: 	1165.7 sec 
+Set (V): 		dev 
+ 
+Sonam_Kapoor/vLEjFXUFGQA_0000001 71.4 78.2 
+Sonam_Kapoor/vLEjFXUFGQA_0000002 81.4 86.6 
+Sonam_Kapoor/vLEjFXUFGQA_0000003 145.0 150.5 
+Sonam_Kapoor/vLEjFXUFGQA_0000004 373.1 377.1 
+Sonam_Kapoor/vLEjFXUFGQA_0000005 534.0 539.3 
+Sonam_Kapoor/vLEjFXUFGQA_0000006 566.0 570.7 
+Sonam_Kapoor/vLEjFXUFGQA_0000007 599.9 606.0 

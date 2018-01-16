@@ -1,0 +1,17 @@
+POI: 			Hal_Sparks 
+Youtube ID: 	qwAIKzh6tyA 
+Video length: 	276.4 sec 
+Set (V): 		dev 
+ 
+Hal_Sparks/qwAIKzh6tyA_0000001 23.4 28.3 
+Hal_Sparks/qwAIKzh6tyA_0000002 41.4 52.2 
+Hal_Sparks/qwAIKzh6tyA_0000003 52.8 71.0 
+Hal_Sparks/qwAIKzh6tyA_0000004 122.0 128.8 
+Hal_Sparks/qwAIKzh6tyA_0000005 129.7 138.4 
+Hal_Sparks/qwAIKzh6tyA_0000006 138.7 143.2 
+Hal_Sparks/qwAIKzh6tyA_0000007 156.3 166.4 
+Hal_Sparks/qwAIKzh6tyA_0000008 199.0 217.6 
+Hal_Sparks/qwAIKzh6tyA_0000009 225.8 230.4 
+Hal_Sparks/qwAIKzh6tyA_0000010 241.8 249.9 
+Hal_Sparks/qwAIKzh6tyA_0000011 250.6 255.1 
+Hal_Sparks/qwAIKzh6tyA_0000012 264.7 273.8 

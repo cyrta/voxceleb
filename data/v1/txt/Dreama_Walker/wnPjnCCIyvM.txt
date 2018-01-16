@@ -1,0 +1,9 @@
+POI: 			Dreama_Walker 
+Youtube ID: 	wnPjnCCIyvM 
+Video length: 	132.5 sec 
+Set (V): 		dev 
+ 
+Dreama_Walker/wnPjnCCIyvM_0000001 28.7 34.2 
+Dreama_Walker/wnPjnCCIyvM_0000002 41.1 46.9 
+Dreama_Walker/wnPjnCCIyvM_0000003 70.6 76.0 
+Dreama_Walker/wnPjnCCIyvM_0000004 107.8 113.3 

@@ -1,0 +1,7 @@
+POI: 			Jake_Johnson 
+Youtube ID: 	AQWVzJ-yGyg 
+Video length: 	252.9 sec 
+Set (V): 		dev 
+ 
+Jake_Johnson/AQWVzJ-yGyg_0000001 61.6 66.1 
+Jake_Johnson/AQWVzJ-yGyg_0000002 155.2 170.8 

@@ -1,0 +1,8 @@
+POI: 			Sam_Worthington 
+Youtube ID: 	ev7j7ziIl68 
+Video length: 	301.0 sec 
+Set (V): 		dev 
+ 
+Sam_Worthington/ev7j7ziIl68_0000001 150.8 160.1 
+Sam_Worthington/ev7j7ziIl68_0000002 161.0 165.5 
+Sam_Worthington/ev7j7ziIl68_0000003 173.5 183.9 

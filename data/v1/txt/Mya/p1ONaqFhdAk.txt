@@ -1,0 +1,7 @@
+POI: 			Mya 
+Youtube ID: 	p1ONaqFhdAk 
+Video length: 	178.0 sec 
+Set (V): 		dev 
+ 
+Mya/p1ONaqFhdAk_0000001 146.3 151.1 
+Mya/p1ONaqFhdAk_0000002 151.2 158.0 

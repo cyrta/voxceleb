@@ -1,0 +1,10 @@
+POI: 			Brian_Cox 
+Youtube ID: 	Fz6JFNeA8pA 
+Video length: 	382.3 sec 
+Set (V): 		dev 
+ 
+Brian_Cox/Fz6JFNeA8pA_0000001 58.0 63.4 
+Brian_Cox/Fz6JFNeA8pA_0000002 164.1 170.8 
+Brian_Cox/Fz6JFNeA8pA_0000003 321.4 328.9 
+Brian_Cox/Fz6JFNeA8pA_0000004 332.2 336.6 
+Brian_Cox/Fz6JFNeA8pA_0000005 370.0 376.3 

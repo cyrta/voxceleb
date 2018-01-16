@@ -1,0 +1,14 @@
+POI: 			William_Fichtner 
+Youtube ID: 	sR9eXvpvTI8 
+Video length: 	200.2 sec 
+Set (V): 		dev 
+ 
+William_Fichtner/sR9eXvpvTI8_0000001 25.0 33.2 
+William_Fichtner/sR9eXvpvTI8_0000002 36.6 47.4 
+William_Fichtner/sR9eXvpvTI8_0000003 48.2 61.8 
+William_Fichtner/sR9eXvpvTI8_0000004 84.1 90.4 
+William_Fichtner/sR9eXvpvTI8_0000005 105.4 111.5 
+William_Fichtner/sR9eXvpvTI8_0000006 113.0 119.2 
+William_Fichtner/sR9eXvpvTI8_0000007 135.5 143.9 
+William_Fichtner/sR9eXvpvTI8_0000008 147.8 152.0 
+William_Fichtner/sR9eXvpvTI8_0000009 153.4 159.4 

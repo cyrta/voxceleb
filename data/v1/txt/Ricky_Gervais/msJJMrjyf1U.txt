@@ -1,0 +1,11 @@
+POI: 			Ricky_Gervais 
+Youtube ID: 	msJJMrjyf1U 
+Video length: 	464.8 sec 
+Set (V): 		dev 
+ 
+Ricky_Gervais/msJJMrjyf1U_0000001 49.9 56.2 
+Ricky_Gervais/msJJMrjyf1U_0000002 82.8 87.0 
+Ricky_Gervais/msJJMrjyf1U_0000003 194.0 207.4 
+Ricky_Gervais/msJJMrjyf1U_0000004 212.8 219.8 
+Ricky_Gervais/msJJMrjyf1U_0000005 225.0 237.4 
+Ricky_Gervais/msJJMrjyf1U_0000006 351.7 356.1 

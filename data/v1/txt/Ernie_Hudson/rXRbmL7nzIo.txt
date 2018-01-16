@@ -1,0 +1,7 @@
+POI: 			Ernie_Hudson 
+Youtube ID: 	rXRbmL7nzIo 
+Video length: 	271.0 sec 
+Set (V): 		test 
+ 
+Ernie_Hudson/rXRbmL7nzIo_0000001 81.0 86.0 
+Ernie_Hudson/rXRbmL7nzIo_0000002 177.8 184.2 

@@ -1,0 +1,19 @@
+POI: 			Sandra_Bernhard 
+Youtube ID: 	jtNVRw-waF4 
+Video length: 	661.7 sec 
+Set (V): 		dev 
+ 
+Sandra_Bernhard/jtNVRw-waF4_0000001 177.3 183.2 
+Sandra_Bernhard/jtNVRw-waF4_0000002 193.8 199.3 
+Sandra_Bernhard/jtNVRw-waF4_0000003 203.9 208.0 
+Sandra_Bernhard/jtNVRw-waF4_0000004 236.8 245.4 
+Sandra_Bernhard/jtNVRw-waF4_0000005 269.1 285.4 
+Sandra_Bernhard/jtNVRw-waF4_0000006 278.2 288.8 
+Sandra_Bernhard/jtNVRw-waF4_0000007 375.0 379.2 
+Sandra_Bernhard/jtNVRw-waF4_0000008 389.2 395.1 
+Sandra_Bernhard/jtNVRw-waF4_0000009 429.6 434.1 
+Sandra_Bernhard/jtNVRw-waF4_0000010 511.2 516.2 
+Sandra_Bernhard/jtNVRw-waF4_0000011 579.9 585.7 
+Sandra_Bernhard/jtNVRw-waF4_0000012 592.4 604.1 
+Sandra_Bernhard/jtNVRw-waF4_0000013 609.4 616.1 
+Sandra_Bernhard/jtNVRw-waF4_0000014 636.6 640.8 

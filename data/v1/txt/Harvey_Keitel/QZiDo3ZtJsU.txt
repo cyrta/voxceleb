@@ -1,0 +1,8 @@
+POI: 			Harvey_Keitel 
+Youtube ID: 	QZiDo3ZtJsU 
+Video length: 	265.0 sec 
+Set (V): 		dev 
+ 
+Harvey_Keitel/QZiDo3ZtJsU_0000001 44.5 48.8 
+Harvey_Keitel/QZiDo3ZtJsU_0000002 153.3 161.6 
+Harvey_Keitel/QZiDo3ZtJsU_0000003 176.9 182.1 

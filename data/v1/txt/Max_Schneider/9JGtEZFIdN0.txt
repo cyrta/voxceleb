@@ -1,0 +1,15 @@
+POI: 			Max_Schneider 
+Youtube ID: 	9JGtEZFIdN0 
+Video length: 	815.7 sec 
+Set (V): 		dev 
+ 
+Max_Schneider/9JGtEZFIdN0_0000001 259.6 267.4 
+Max_Schneider/9JGtEZFIdN0_0000002 277.0 282.0 
+Max_Schneider/9JGtEZFIdN0_0000003 293.2 297.4 
+Max_Schneider/9JGtEZFIdN0_0000004 299.4 306.7 
+Max_Schneider/9JGtEZFIdN0_0000005 360.2 364.2 
+Max_Schneider/9JGtEZFIdN0_0000006 368.6 372.7 
+Max_Schneider/9JGtEZFIdN0_0000007 378.9 383.7 
+Max_Schneider/9JGtEZFIdN0_0000008 661.6 665.7 
+Max_Schneider/9JGtEZFIdN0_0000009 741.6 747.6 
+Max_Schneider/9JGtEZFIdN0_0000010 776.8 783.8 

@@ -1,0 +1,8 @@
+POI: 			Joel_Edgerton 
+Youtube ID: 	9_bfrIu6zXQ 
+Video length: 	631.9 sec 
+Set (V): 		dev 
+ 
+Joel_Edgerton/9_bfrIu6zXQ_0000001 119.6 126.5 
+Joel_Edgerton/9_bfrIu6zXQ_0000002 140.9 145.8 
+Joel_Edgerton/9_bfrIu6zXQ_0000003 406.6 411.4 

@@ -1,0 +1,7 @@
+POI: 			Sarah_Hyland 
+Youtube ID: 	79jrbyZgRhw 
+Video length: 	179.4 sec 
+Set (V): 		dev 
+ 
+Sarah_Hyland/79jrbyZgRhw_0000001 73.8 80.4 
+Sarah_Hyland/79jrbyZgRhw_0000002 160.7 167.5 

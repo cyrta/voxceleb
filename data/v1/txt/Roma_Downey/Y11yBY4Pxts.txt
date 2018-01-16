@@ -1,0 +1,18 @@
+POI: 			Roma_Downey 
+Youtube ID: 	Y11yBY4Pxts 
+Video length: 	349.1 sec 
+Set (V): 		dev 
+ 
+Roma_Downey/Y11yBY4Pxts_0000001 14.4 22.3 
+Roma_Downey/Y11yBY4Pxts_0000002 22.8 34.7 
+Roma_Downey/Y11yBY4Pxts_0000003 43.6 47.9 
+Roma_Downey/Y11yBY4Pxts_0000004 48.5 60.2 
+Roma_Downey/Y11yBY4Pxts_0000005 81.6 86.6 
+Roma_Downey/Y11yBY4Pxts_0000006 96.6 105.0 
+Roma_Downey/Y11yBY4Pxts_0000007 127.9 151.9 
+Roma_Downey/Y11yBY4Pxts_0000008 203.9 225.4 
+Roma_Downey/Y11yBY4Pxts_0000009 233.7 237.6 
+Roma_Downey/Y11yBY4Pxts_0000010 238.5 259.0 
+Roma_Downey/Y11yBY4Pxts_0000011 259.7 312.5 
+Roma_Downey/Y11yBY4Pxts_0000012 316.1 327.8 
+Roma_Downey/Y11yBY4Pxts_0000013 333.1 337.6 

@@ -1,0 +1,11 @@
+POI: 			Walton_Goggins 
+Youtube ID: 	kWZFWI2Mcig 
+Video length: 	819.7 sec 
+Set (V): 		dev 
+ 
+Walton_Goggins/kWZFWI2Mcig_0000001 41.2 46.8 
+Walton_Goggins/kWZFWI2Mcig_0000002 51.6 57.2 
+Walton_Goggins/kWZFWI2Mcig_0000003 136.6 142.7 
+Walton_Goggins/kWZFWI2Mcig_0000004 605.0 611.6 
+Walton_Goggins/kWZFWI2Mcig_0000005 617.4 623.5 
+Walton_Goggins/kWZFWI2Mcig_0000006 631.4 637.4 

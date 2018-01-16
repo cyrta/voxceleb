@@ -1,0 +1,16 @@
+POI: 			Ryan_Phillippe 
+Youtube ID: 	CbQXRGeZzT8 
+Video length: 	524.0 sec 
+Set (V): 		dev 
+ 
+Ryan_Phillippe/CbQXRGeZzT8_0000001 307.3 323.9 
+Ryan_Phillippe/CbQXRGeZzT8_0000002 326.7 346.7 
+Ryan_Phillippe/CbQXRGeZzT8_0000003 371.1 379.2 
+Ryan_Phillippe/CbQXRGeZzT8_0000004 379.5 385.1 
+Ryan_Phillippe/CbQXRGeZzT8_0000005 395.0 414.8 
+Ryan_Phillippe/CbQXRGeZzT8_0000006 418.8 423.6 
+Ryan_Phillippe/CbQXRGeZzT8_0000007 435.4 440.0 
+Ryan_Phillippe/CbQXRGeZzT8_0000008 440.8 449.8 
+Ryan_Phillippe/CbQXRGeZzT8_0000009 471.2 487.2 
+Ryan_Phillippe/CbQXRGeZzT8_0000010 491.8 500.8 
+Ryan_Phillippe/CbQXRGeZzT8_0000011 501.6 508.1 

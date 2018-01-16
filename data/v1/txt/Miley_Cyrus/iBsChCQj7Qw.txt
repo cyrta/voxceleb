@@ -1,0 +1,10 @@
+POI: 			Miley_Cyrus 
+Youtube ID: 	iBsChCQj7Qw 
+Video length: 	487.2 sec 
+Set (V): 		dev 
+ 
+Miley_Cyrus/iBsChCQj7Qw_0000001 66.6 72.4 
+Miley_Cyrus/iBsChCQj7Qw_0000002 183.8 189.6 
+Miley_Cyrus/iBsChCQj7Qw_0000003 353.1 357.7 
+Miley_Cyrus/iBsChCQj7Qw_0000004 372.0 376.5 
+Miley_Cyrus/iBsChCQj7Qw_0000005 432.4 438.7 

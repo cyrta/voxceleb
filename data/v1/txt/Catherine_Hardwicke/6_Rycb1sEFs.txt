@@ -1,0 +1,10 @@
+POI: 			Catherine_Hardwicke 
+Youtube ID: 	6_Rycb1sEFs 
+Video length: 	119.1 sec 
+Set (V): 		dev 
+ 
+Catherine_Hardwicke/6_Rycb1sEFs_0000001 22.2 26.7 
+Catherine_Hardwicke/6_Rycb1sEFs_0000002 51.4 56.6 
+Catherine_Hardwicke/6_Rycb1sEFs_0000003 68.0 72.2 
+Catherine_Hardwicke/6_Rycb1sEFs_0000004 101.9 105.9 
+Catherine_Hardwicke/6_Rycb1sEFs_0000005 108.5 116.8 

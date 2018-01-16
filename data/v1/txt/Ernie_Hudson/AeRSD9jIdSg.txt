@@ -1,0 +1,15 @@
+POI: 			Ernie_Hudson 
+Youtube ID: 	AeRSD9jIdSg 
+Video length: 	845.2 sec 
+Set (V): 		test 
+ 
+Ernie_Hudson/AeRSD9jIdSg_0000001 31.0 36.6 
+Ernie_Hudson/AeRSD9jIdSg_0000002 107.0 111.4 
+Ernie_Hudson/AeRSD9jIdSg_0000003 114.5 129.8 
+Ernie_Hudson/AeRSD9jIdSg_0000004 231.2 236.6 
+Ernie_Hudson/AeRSD9jIdSg_0000005 252.2 258.4 
+Ernie_Hudson/AeRSD9jIdSg_0000006 285.6 289.6 
+Ernie_Hudson/AeRSD9jIdSg_0000007 290.3 295.4 
+Ernie_Hudson/AeRSD9jIdSg_0000008 295.8 305.3 
+Ernie_Hudson/AeRSD9jIdSg_0000009 785.9 790.6 
+Ernie_Hudson/AeRSD9jIdSg_0000010 798.1 802.9 

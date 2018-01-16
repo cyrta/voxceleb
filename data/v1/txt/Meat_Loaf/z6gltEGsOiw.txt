@@ -1,0 +1,11 @@
+POI: 			Meat_Loaf 
+Youtube ID: 	z6gltEGsOiw 
+Video length: 	538.1 sec 
+Set (V): 		dev 
+ 
+Meat_Loaf/z6gltEGsOiw_0000001 298.0 302.7 
+Meat_Loaf/z6gltEGsOiw_0000002 352.2 358.2 
+Meat_Loaf/z6gltEGsOiw_0000003 359.4 368.8 
+Meat_Loaf/z6gltEGsOiw_0000004 369.6 375.4 
+Meat_Loaf/z6gltEGsOiw_0000005 411.2 417.1 
+Meat_Loaf/z6gltEGsOiw_0000006 446.2 458.0 

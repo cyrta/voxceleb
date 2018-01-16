@@ -1,0 +1,14 @@
+POI: 			Ginnifer_Goodwin 
+Youtube ID: 	QJhsiviPd48 
+Video length: 	324.3 sec 
+Set (V): 		dev 
+ 
+Ginnifer_Goodwin/QJhsiviPd48_0000001 43.4 54.8 
+Ginnifer_Goodwin/QJhsiviPd48_0000002 56.1 66.9 
+Ginnifer_Goodwin/QJhsiviPd48_0000003 70.0 75.0 
+Ginnifer_Goodwin/QJhsiviPd48_0000004 75.0 83.7 
+Ginnifer_Goodwin/QJhsiviPd48_0000005 120.9 150.0 
+Ginnifer_Goodwin/QJhsiviPd48_0000006 230.4 237.0 
+Ginnifer_Goodwin/QJhsiviPd48_0000007 237.5 249.0 
+Ginnifer_Goodwin/QJhsiviPd48_0000008 249.4 259.3 
+Ginnifer_Goodwin/QJhsiviPd48_0000009 279.4 308.3 

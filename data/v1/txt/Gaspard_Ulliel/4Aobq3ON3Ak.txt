@@ -1,0 +1,12 @@
+POI: 			Gaspard_Ulliel 
+Youtube ID: 	4Aobq3ON3Ak 
+Video length: 	256.9 sec 
+Set (V): 		dev 
+ 
+Gaspard_Ulliel/4Aobq3ON3Ak_0000001 31.6 38.6 
+Gaspard_Ulliel/4Aobq3ON3Ak_0000002 45.2 49.1 
+Gaspard_Ulliel/4Aobq3ON3Ak_0000003 83.6 88.5 
+Gaspard_Ulliel/4Aobq3ON3Ak_0000004 103.7 108.0 
+Gaspard_Ulliel/4Aobq3ON3Ak_0000005 108.3 113.2 
+Gaspard_Ulliel/4Aobq3ON3Ak_0000006 118.1 124.3 
+Gaspard_Ulliel/4Aobq3ON3Ak_0000007 140.8 145.0 

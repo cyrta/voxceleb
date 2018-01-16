@@ -1,0 +1,15 @@
+POI: 			Nikolaj_Coster-Waldau 
+Youtube ID: 	VCsiuFxyrSU 
+Video length: 	765.8 sec 
+Set (V): 		dev 
+ 
+Nikolaj_Coster-Waldau/VCsiuFxyrSU_0000001 174.3 178.7 
+Nikolaj_Coster-Waldau/VCsiuFxyrSU_0000002 181.4 188.0 
+Nikolaj_Coster-Waldau/VCsiuFxyrSU_0000003 237.6 247.3 
+Nikolaj_Coster-Waldau/VCsiuFxyrSU_0000004 447.9 459.7 
+Nikolaj_Coster-Waldau/VCsiuFxyrSU_0000005 524.2 528.5 
+Nikolaj_Coster-Waldau/VCsiuFxyrSU_0000006 533.1 542.8 
+Nikolaj_Coster-Waldau/VCsiuFxyrSU_0000007 549.0 558.8 
+Nikolaj_Coster-Waldau/VCsiuFxyrSU_0000008 594.6 599.2 
+Nikolaj_Coster-Waldau/VCsiuFxyrSU_0000009 665.6 673.1 
+Nikolaj_Coster-Waldau/VCsiuFxyrSU_0000010 684.0 688.0 

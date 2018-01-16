@@ -1,0 +1,9 @@
+POI: 			Joanna_Krupa 
+Youtube ID: 	jV086CuYPWc 
+Video length: 	228.8 sec 
+Set (V): 		dev 
+ 
+Joanna_Krupa/jV086CuYPWc_0000001 05.2 13.1 
+Joanna_Krupa/jV086CuYPWc_0000002 16.6 21.1 
+Joanna_Krupa/jV086CuYPWc_0000003 78.5 87.5 
+Joanna_Krupa/jV086CuYPWc_0000004 101.6 108.1 

@@ -1,0 +1,14 @@
+POI: 			Hector_Elizondo 
+Youtube ID: 	SVmHf1ByvxQ 
+Video length: 	231.7 sec 
+Set (V): 		dev 
+ 
+Hector_Elizondo/SVmHf1ByvxQ_0000001 22.3 27.3 
+Hector_Elizondo/SVmHf1ByvxQ_0000002 70.7 77.8 
+Hector_Elizondo/SVmHf1ByvxQ_0000003 88.2 93.3 
+Hector_Elizondo/SVmHf1ByvxQ_0000004 94.5 104.5 
+Hector_Elizondo/SVmHf1ByvxQ_0000005 112.0 117.7 
+Hector_Elizondo/SVmHf1ByvxQ_0000006 122.4 127.4 
+Hector_Elizondo/SVmHf1ByvxQ_0000007 129.0 141.8 
+Hector_Elizondo/SVmHf1ByvxQ_0000008 187.4 193.1 
+Hector_Elizondo/SVmHf1ByvxQ_0000009 198.3 203.6 

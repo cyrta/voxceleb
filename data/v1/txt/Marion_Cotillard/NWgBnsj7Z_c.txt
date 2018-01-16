@@ -1,0 +1,19 @@
+POI: 			Marion_Cotillard 
+Youtube ID: 	NWgBnsj7Z_c 
+Video length: 	460.1 sec 
+Set (V): 		dev 
+ 
+Marion_Cotillard/NWgBnsj7Z_c_0000001 35.0 40.1 
+Marion_Cotillard/NWgBnsj7Z_c_0000002 49.2 56.6 
+Marion_Cotillard/NWgBnsj7Z_c_0000003 76.7 80.7 
+Marion_Cotillard/NWgBnsj7Z_c_0000004 90.4 96.4 
+Marion_Cotillard/NWgBnsj7Z_c_0000005 112.9 119.5 
+Marion_Cotillard/NWgBnsj7Z_c_0000006 132.0 139.2 
+Marion_Cotillard/NWgBnsj7Z_c_0000007 154.2 160.1 
+Marion_Cotillard/NWgBnsj7Z_c_0000008 168.3 172.8 
+Marion_Cotillard/NWgBnsj7Z_c_0000009 303.5 309.9 
+Marion_Cotillard/NWgBnsj7Z_c_0000010 317.7 326.8 
+Marion_Cotillard/NWgBnsj7Z_c_0000011 338.4 343.3 
+Marion_Cotillard/NWgBnsj7Z_c_0000012 348.6 353.9 
+Marion_Cotillard/NWgBnsj7Z_c_0000013 408.4 415.2 
+Marion_Cotillard/NWgBnsj7Z_c_0000014 419.6 423.8 

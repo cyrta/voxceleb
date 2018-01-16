@@ -1,0 +1,14 @@
+POI: 			Caterina_Scorsone 
+Youtube ID: 	eFbaIfm49RQ 
+Video length: 	284.4 sec 
+Set (V): 		dev 
+ 
+Caterina_Scorsone/eFbaIfm49RQ_0000001 46.0 50.4 
+Caterina_Scorsone/eFbaIfm49RQ_0000002 91.5 96.3 
+Caterina_Scorsone/eFbaIfm49RQ_0000003 103.0 107.8 
+Caterina_Scorsone/eFbaIfm49RQ_0000004 131.9 136.6 
+Caterina_Scorsone/eFbaIfm49RQ_0000005 156.8 162.6 
+Caterina_Scorsone/eFbaIfm49RQ_0000006 169.0 174.3 
+Caterina_Scorsone/eFbaIfm49RQ_0000007 199.9 209.3 
+Caterina_Scorsone/eFbaIfm49RQ_0000008 238.2 246.9 
+Caterina_Scorsone/eFbaIfm49RQ_0000009 255.5 259.5 

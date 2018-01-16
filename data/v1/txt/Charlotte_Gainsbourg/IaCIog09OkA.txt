@@ -1,0 +1,14 @@
+POI: 			Charlotte_Gainsbourg 
+Youtube ID: 	IaCIog09OkA 
+Video length: 	349.0 sec 
+Set (V): 		dev 
+ 
+Charlotte_Gainsbourg/IaCIog09OkA_0000001 52.4 58.9 
+Charlotte_Gainsbourg/IaCIog09OkA_0000002 170.0 174.6 
+Charlotte_Gainsbourg/IaCIog09OkA_0000003 175.5 180.7 
+Charlotte_Gainsbourg/IaCIog09OkA_0000004 181.1 185.2 
+Charlotte_Gainsbourg/IaCIog09OkA_0000005 192.0 201.9 
+Charlotte_Gainsbourg/IaCIog09OkA_0000006 204.1 212.8 
+Charlotte_Gainsbourg/IaCIog09OkA_0000007 312.6 317.2 
+Charlotte_Gainsbourg/IaCIog09OkA_0000008 323.2 330.0 
+Charlotte_Gainsbourg/IaCIog09OkA_0000009 331.2 338.8 

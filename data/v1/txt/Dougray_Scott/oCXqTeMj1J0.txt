@@ -1,0 +1,11 @@
+POI: 			Dougray_Scott 
+Youtube ID: 	oCXqTeMj1J0 
+Video length: 	198.6 sec 
+Set (V): 		dev 
+ 
+Dougray_Scott/oCXqTeMj1J0_0000001 08.2 12.4 
+Dougray_Scott/oCXqTeMj1J0_0000002 36.0 40.1 
+Dougray_Scott/oCXqTeMj1J0_0000003 53.2 57.2 
+Dougray_Scott/oCXqTeMj1J0_0000004 95.5 101.0 
+Dougray_Scott/oCXqTeMj1J0_0000005 117.6 126.0 
+Dougray_Scott/oCXqTeMj1J0_0000006 151.8 156.2 

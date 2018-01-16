@@ -1,0 +1,8 @@
+POI: 			James_Lafferty 
+Youtube ID: 	av_elAaVe_o 
+Video length: 	229.0 sec 
+Set (V): 		dev 
+ 
+James_Lafferty/av_elAaVe_o_0000001 09.6 17.2 
+James_Lafferty/av_elAaVe_o_0000002 31.3 35.6 
+James_Lafferty/av_elAaVe_o_0000003 110.5 118.2 

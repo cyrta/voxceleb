@@ -1,0 +1,13 @@
+POI: 			Samuel_L._Jackson 
+Youtube ID: 	FOwpcbx8jg4 
+Video length: 	217.3 sec 
+Set (V): 		dev 
+ 
+Samuel_L._Jackson/FOwpcbx8jg4_0000001 33.6 45.1 
+Samuel_L._Jackson/FOwpcbx8jg4_0000002 45.7 49.8 
+Samuel_L._Jackson/FOwpcbx8jg4_0000003 67.3 93.9 
+Samuel_L._Jackson/FOwpcbx8jg4_0000004 99.9 109.3 
+Samuel_L._Jackson/FOwpcbx8jg4_0000005 114.6 119.0 
+Samuel_L._Jackson/FOwpcbx8jg4_0000006 124.7 128.8 
+Samuel_L._Jackson/FOwpcbx8jg4_0000007 145.7 150.6 
+Samuel_L._Jackson/FOwpcbx8jg4_0000008 153.1 161.3 

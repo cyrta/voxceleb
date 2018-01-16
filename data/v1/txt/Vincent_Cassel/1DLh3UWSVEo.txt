@@ -1,0 +1,7 @@
+POI: 			Vincent_Cassel 
+Youtube ID: 	1DLh3UWSVEo 
+Video length: 	72.8 sec 
+Set (V): 		dev 
+ 
+Vincent_Cassel/1DLh3UWSVEo_0000001 00.9 05.2 
+Vincent_Cassel/1DLh3UWSVEo_0000002 39.3 44.0 

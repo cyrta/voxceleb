@@ -1,0 +1,9 @@
+POI: 			Ansel_Elgort 
+Youtube ID: 	575wPoGCefg 
+Video length: 	230.4 sec 
+Set (V): 		dev 
+ 
+Ansel_Elgort/575wPoGCefg_0000001 07.4 21.9 
+Ansel_Elgort/575wPoGCefg_0000002 136.2 144.4 
+Ansel_Elgort/575wPoGCefg_0000003 155.7 163.3 
+Ansel_Elgort/575wPoGCefg_0000004 180.2 186.0 

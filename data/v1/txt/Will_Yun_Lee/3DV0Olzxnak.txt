@@ -1,0 +1,8 @@
+POI: 			Will_Yun_Lee 
+Youtube ID: 	3DV0Olzxnak 
+Video length: 	68.2 sec 
+Set (V): 		dev 
+ 
+Will_Yun_Lee/3DV0Olzxnak_0000001 01.8 38.0 
+Will_Yun_Lee/3DV0Olzxnak_0000002 45.5 50.6 
+Will_Yun_Lee/3DV0Olzxnak_0000003 60.3 65.5 

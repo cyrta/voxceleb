@@ -1,0 +1,11 @@
+POI: 			Kris_Jenner 
+Youtube ID: 	hyUfye8vNI8 
+Video length: 	163.4 sec 
+Set (V): 		dev 
+ 
+Kris_Jenner/hyUfye8vNI8_0000001 37.8 46.1 
+Kris_Jenner/hyUfye8vNI8_0000002 49.5 58.1 
+Kris_Jenner/hyUfye8vNI8_0000003 78.6 103.3 
+Kris_Jenner/hyUfye8vNI8_0000004 107.4 114.9 
+Kris_Jenner/hyUfye8vNI8_0000005 115.8 129.8 
+Kris_Jenner/hyUfye8vNI8_0000006 132.3 151.5 

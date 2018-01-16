@@ -1,0 +1,11 @@
+POI: 			Sarah_Palin 
+Youtube ID: 	sw5UYakw8d4 
+Video length: 	261.7 sec 
+Set (V): 		dev 
+ 
+Sarah_Palin/sw5UYakw8d4_0000001 47.0 51.2 
+Sarah_Palin/sw5UYakw8d4_0000002 52.0 99.9 
+Sarah_Palin/sw5UYakw8d4_0000003 100.7 109.7 
+Sarah_Palin/sw5UYakw8d4_0000004 109.8 118.1 
+Sarah_Palin/sw5UYakw8d4_0000005 118.3 125.5 
+Sarah_Palin/sw5UYakw8d4_0000006 125.6 131.4 

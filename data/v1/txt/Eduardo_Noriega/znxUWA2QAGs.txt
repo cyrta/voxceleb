@@ -1,0 +1,22 @@
+POI: 			Eduardo_Noriega 
+Youtube ID: 	znxUWA2QAGs 
+Video length: 	368.3 sec 
+Set (V): 		test 
+ 
+Eduardo_Noriega/znxUWA2QAGs_0000001 24.4 32.2 
+Eduardo_Noriega/znxUWA2QAGs_0000002 32.4 36.9 
+Eduardo_Noriega/znxUWA2QAGs_0000003 51.0 57.2 
+Eduardo_Noriega/znxUWA2QAGs_0000004 58.2 64.8 
+Eduardo_Noriega/znxUWA2QAGs_0000005 86.1 95.8 
+Eduardo_Noriega/znxUWA2QAGs_0000006 98.8 103.6 
+Eduardo_Noriega/znxUWA2QAGs_0000007 107.3 114.6 
+Eduardo_Noriega/znxUWA2QAGs_0000008 115.1 126.9 
+Eduardo_Noriega/znxUWA2QAGs_0000009 127.0 136.8 
+Eduardo_Noriega/znxUWA2QAGs_0000010 136.8 144.0 
+Eduardo_Noriega/znxUWA2QAGs_0000011 146.4 152.0 
+Eduardo_Noriega/znxUWA2QAGs_0000012 267.9 274.6 
+Eduardo_Noriega/znxUWA2QAGs_0000013 295.0 301.6 
+Eduardo_Noriega/znxUWA2QAGs_0000014 312.8 318.2 
+Eduardo_Noriega/znxUWA2QAGs_0000015 331.6 335.6 
+Eduardo_Noriega/znxUWA2QAGs_0000016 339.2 347.7 
+Eduardo_Noriega/znxUWA2QAGs_0000017 357.0 363.8 

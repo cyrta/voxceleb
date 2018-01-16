@@ -1,0 +1,8 @@
+POI: 			Karla_Souza 
+Youtube ID: 	D-9y0x0qd-c 
+Video length: 	208.6 sec 
+Set (V): 		dev 
+ 
+Karla_Souza/D-9y0x0qd-c_0000001 57.4 62.0 
+Karla_Souza/D-9y0x0qd-c_0000002 89.0 95.1 
+Karla_Souza/D-9y0x0qd-c_0000003 139.4 144.2 

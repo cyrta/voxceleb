@@ -1,0 +1,8 @@
+POI: 			Miranda_Hart 
+Youtube ID: 	VX1SIBFEObc 
+Video length: 	874.5 sec 
+Set (V): 		dev 
+ 
+Miranda_Hart/VX1SIBFEObc_0000001 404.0 408.4 
+Miranda_Hart/VX1SIBFEObc_0000002 429.8 437.3 
+Miranda_Hart/VX1SIBFEObc_0000003 444.5 449.0 

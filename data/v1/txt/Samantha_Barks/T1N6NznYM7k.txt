@@ -1,0 +1,12 @@
+POI: 			Samantha_Barks 
+Youtube ID: 	T1N6NznYM7k 
+Video length: 	439.0 sec 
+Set (V): 		dev 
+ 
+Samantha_Barks/T1N6NznYM7k_0000001 86.8 92.0 
+Samantha_Barks/T1N6NznYM7k_0000002 97.0 105.6 
+Samantha_Barks/T1N6NznYM7k_0000003 106.1 113.2 
+Samantha_Barks/T1N6NznYM7k_0000004 176.8 182.0 
+Samantha_Barks/T1N6NznYM7k_0000005 208.8 212.8 
+Samantha_Barks/T1N6NznYM7k_0000006 367.7 372.6 
+Samantha_Barks/T1N6NznYM7k_0000007 373.2 378.6 

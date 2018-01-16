@@ -1,0 +1,10 @@
+POI: 			Julie_Chen 
+Youtube ID: 	3kX8wf1Ged4 
+Video length: 	680.7 sec 
+Set (V): 		dev 
+ 
+Julie_Chen/3kX8wf1Ged4_0000001 221.5 227.0 
+Julie_Chen/3kX8wf1Ged4_0000002 267.5 273.9 
+Julie_Chen/3kX8wf1Ged4_0000003 347.9 351.9 
+Julie_Chen/3kX8wf1Ged4_0000004 382.0 386.6 
+Julie_Chen/3kX8wf1Ged4_0000005 387.2 391.7 

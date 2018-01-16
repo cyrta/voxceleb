@@ -1,0 +1,11 @@
+POI: 			Oliver_Platt 
+Youtube ID: 	KhsSkX0HFWI 
+Video length: 	114.4 sec 
+Set (V): 		dev 
+ 
+Oliver_Platt/KhsSkX0HFWI_0000001 10.0 14.8 
+Oliver_Platt/KhsSkX0HFWI_0000002 16.8 21.3 
+Oliver_Platt/KhsSkX0HFWI_0000003 21.9 27.3 
+Oliver_Platt/KhsSkX0HFWI_0000004 47.5 55.7 
+Oliver_Platt/KhsSkX0HFWI_0000005 88.6 96.4 
+Oliver_Platt/KhsSkX0HFWI_0000006 102.1 111.7 

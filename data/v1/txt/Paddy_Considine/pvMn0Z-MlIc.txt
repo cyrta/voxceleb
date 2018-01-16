@@ -1,0 +1,8 @@
+POI: 			Paddy_Considine 
+Youtube ID: 	pvMn0Z-MlIc 
+Video length: 	141.0 sec 
+Set (V): 		dev 
+ 
+Paddy_Considine/pvMn0Z-MlIc_0000001 75.7 87.1 
+Paddy_Considine/pvMn0Z-MlIc_0000002 99.5 104.2 
+Paddy_Considine/pvMn0Z-MlIc_0000003 104.8 110.5 

@@ -1,0 +1,8 @@
+POI: 			Jesse_Eisenberg 
+Youtube ID: 	HJX-8ULqCkI 
+Video length: 	272.3 sec 
+Set (V): 		dev 
+ 
+Jesse_Eisenberg/HJX-8ULqCkI_0000001 26.7 31.9 
+Jesse_Eisenberg/HJX-8ULqCkI_0000002 66.1 71.0 
+Jesse_Eisenberg/HJX-8ULqCkI_0000003 89.8 96.8 

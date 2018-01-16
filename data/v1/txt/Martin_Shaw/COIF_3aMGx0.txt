@@ -1,0 +1,15 @@
+POI: 			Martin_Shaw 
+Youtube ID: 	COIF_3aMGx0 
+Video length: 	359.1 sec 
+Set (V): 		dev 
+ 
+Martin_Shaw/COIF_3aMGx0_0000001 89.6 104.3 
+Martin_Shaw/COIF_3aMGx0_0000002 142.1 152.0 
+Martin_Shaw/COIF_3aMGx0_0000003 179.3 184.6 
+Martin_Shaw/COIF_3aMGx0_0000004 187.1 193.9 
+Martin_Shaw/COIF_3aMGx0_0000005 243.2 255.3 
+Martin_Shaw/COIF_3aMGx0_0000006 270.1 276.7 
+Martin_Shaw/COIF_3aMGx0_0000007 279.7 285.0 
+Martin_Shaw/COIF_3aMGx0_0000008 291.5 296.0 
+Martin_Shaw/COIF_3aMGx0_0000009 308.8 316.0 
+Martin_Shaw/COIF_3aMGx0_0000010 331.4 337.6 

@@ -1,0 +1,10 @@
+POI: 			Andy_Samberg 
+Youtube ID: 	FXpRlmBYOaQ 
+Video length: 	159.1 sec 
+Set (V): 		dev 
+ 
+Andy_Samberg/FXpRlmBYOaQ_0000001 22.2 31.0 
+Andy_Samberg/FXpRlmBYOaQ_0000002 34.8 46.8 
+Andy_Samberg/FXpRlmBYOaQ_0000003 54.6 59.2 
+Andy_Samberg/FXpRlmBYOaQ_0000004 61.0 66.7 
+Andy_Samberg/FXpRlmBYOaQ_0000005 78.5 82.6 

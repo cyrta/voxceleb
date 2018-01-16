@@ -1,0 +1,8 @@
+POI: 			Steve_Martin 
+Youtube ID: 	m_d3xpTf90E 
+Video length: 	1216.1 sec 
+Set (V): 		dev 
+ 
+Steve_Martin/m_d3xpTf90E_0000001 375.2 379.3 
+Steve_Martin/m_d3xpTf90E_0000002 560.2 566.1 
+Steve_Martin/m_d3xpTf90E_0000003 837.6 844.4 

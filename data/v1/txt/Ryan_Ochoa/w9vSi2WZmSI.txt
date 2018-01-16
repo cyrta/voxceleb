@@ -1,0 +1,9 @@
+POI: 			Ryan_Ochoa 
+Youtube ID: 	w9vSi2WZmSI 
+Video length: 	88.2 sec 
+Set (V): 		dev 
+ 
+Ryan_Ochoa/w9vSi2WZmSI_0000001 22.4 26.4 
+Ryan_Ochoa/w9vSi2WZmSI_0000002 31.0 37.2 
+Ryan_Ochoa/w9vSi2WZmSI_0000003 53.8 68.7 
+Ryan_Ochoa/w9vSi2WZmSI_0000004 70.8 76.0 

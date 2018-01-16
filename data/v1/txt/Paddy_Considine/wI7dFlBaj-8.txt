@@ -1,0 +1,16 @@
+POI: 			Paddy_Considine 
+Youtube ID: 	wI7dFlBaj-8 
+Video length: 	312.3 sec 
+Set (V): 		dev 
+ 
+Paddy_Considine/wI7dFlBaj-8_0000001 32.8 39.5 
+Paddy_Considine/wI7dFlBaj-8_0000002 89.8 94.6 
+Paddy_Considine/wI7dFlBaj-8_0000003 117.7 129.8 
+Paddy_Considine/wI7dFlBaj-8_0000004 135.0 140.6 
+Paddy_Considine/wI7dFlBaj-8_0000005 143.0 152.2 
+Paddy_Considine/wI7dFlBaj-8_0000006 152.9 159.5 
+Paddy_Considine/wI7dFlBaj-8_0000007 160.6 165.0 
+Paddy_Considine/wI7dFlBaj-8_0000008 237.6 241.6 
+Paddy_Considine/wI7dFlBaj-8_0000009 245.5 251.8 
+Paddy_Considine/wI7dFlBaj-8_0000010 260.1 265.9 
+Paddy_Considine/wI7dFlBaj-8_0000011 271.0 277.7 

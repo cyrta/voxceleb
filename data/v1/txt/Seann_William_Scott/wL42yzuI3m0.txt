@@ -1,0 +1,15 @@
+POI: 			Seann_William_Scott 
+Youtube ID: 	wL42yzuI3m0 
+Video length: 	299.3 sec 
+Set (V): 		dev 
+ 
+Seann_William_Scott/wL42yzuI3m0_0000001 26.8 32.0 
+Seann_William_Scott/wL42yzuI3m0_0000002 49.8 59.7 
+Seann_William_Scott/wL42yzuI3m0_0000003 94.9 104.3 
+Seann_William_Scott/wL42yzuI3m0_0000004 123.0 127.5 
+Seann_William_Scott/wL42yzuI3m0_0000005 128.0 134.2 
+Seann_William_Scott/wL42yzuI3m0_0000006 165.2 172.4 
+Seann_William_Scott/wL42yzuI3m0_0000007 189.4 198.8 
+Seann_William_Scott/wL42yzuI3m0_0000008 215.8 224.8 
+Seann_William_Scott/wL42yzuI3m0_0000009 236.1 240.4 
+Seann_William_Scott/wL42yzuI3m0_0000010 242.6 247.9 

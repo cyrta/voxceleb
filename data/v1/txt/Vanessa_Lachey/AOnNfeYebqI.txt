@@ -1,0 +1,10 @@
+POI: 			Vanessa_Lachey 
+Youtube ID: 	AOnNfeYebqI 
+Video length: 	146.1 sec 
+Set (V): 		dev 
+ 
+Vanessa_Lachey/AOnNfeYebqI_0000001 19.0 26.0 
+Vanessa_Lachey/AOnNfeYebqI_0000002 26.9 37.8 
+Vanessa_Lachey/AOnNfeYebqI_0000003 49.0 59.5 
+Vanessa_Lachey/AOnNfeYebqI_0000004 82.7 89.5 
+Vanessa_Lachey/AOnNfeYebqI_0000005 119.1 130.0 

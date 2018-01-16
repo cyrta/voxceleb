@@ -1,0 +1,8 @@
+POI: 			Tahj_Mowry 
+Youtube ID: 	S-WkTE2h7AI 
+Video length: 	271.8 sec 
+Set (V): 		dev 
+ 
+Tahj_Mowry/S-WkTE2h7AI_0000001 44.5 48.8 
+Tahj_Mowry/S-WkTE2h7AI_0000002 62.6 71.5 
+Tahj_Mowry/S-WkTE2h7AI_0000003 98.5 104.6 

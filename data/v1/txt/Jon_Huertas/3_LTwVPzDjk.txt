@@ -1,0 +1,11 @@
+POI: 			Jon_Huertas 
+Youtube ID: 	3_LTwVPzDjk 
+Video length: 	171.4 sec 
+Set (V): 		dev 
+ 
+Jon_Huertas/3_LTwVPzDjk_0000001 53.4 61.4 
+Jon_Huertas/3_LTwVPzDjk_0000002 72.2 79.3 
+Jon_Huertas/3_LTwVPzDjk_0000003 81.4 85.4 
+Jon_Huertas/3_LTwVPzDjk_0000004 93.0 112.4 
+Jon_Huertas/3_LTwVPzDjk_0000005 122.8 129.4 
+Jon_Huertas/3_LTwVPzDjk_0000006 130.5 134.9 

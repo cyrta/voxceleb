@@ -1,0 +1,14 @@
+POI: 			Stephen_Lang 
+Youtube ID: 	F-f32mt56js 
+Video length: 	201.9 sec 
+Set (V): 		dev 
+ 
+Stephen_Lang/F-f32mt56js_0000001 21.7 46.1 
+Stephen_Lang/F-f32mt56js_0000002 51.2 60.5 
+Stephen_Lang/F-f32mt56js_0000003 64.7 72.0 
+Stephen_Lang/F-f32mt56js_0000004 73.5 81.9 
+Stephen_Lang/F-f32mt56js_0000005 83.7 93.1 
+Stephen_Lang/F-f32mt56js_0000006 101.3 120.6 
+Stephen_Lang/F-f32mt56js_0000007 146.0 153.0 
+Stephen_Lang/F-f32mt56js_0000008 163.0 172.8 
+Stephen_Lang/F-f32mt56js_0000009 181.8 190.5 

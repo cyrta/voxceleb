@@ -1,0 +1,8 @@
+POI: 			Ludacris 
+Youtube ID: 	miNW9p_TDDI 
+Video length: 	274.1 sec 
+Set (V): 		dev 
+ 
+Ludacris/miNW9p_TDDI_0000001 109.8 114.7 
+Ludacris/miNW9p_TDDI_0000002 118.9 125.8 
+Ludacris/miNW9p_TDDI_0000003 253.0 259.2 

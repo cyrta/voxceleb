@@ -1,0 +1,10 @@
+POI: 			Tye_Sheridan 
+Youtube ID: 	vQTPD0m-tPI 
+Video length: 	316.7 sec 
+Set (V): 		dev 
+ 
+Tye_Sheridan/vQTPD0m-tPI_0000001 41.5 46.6 
+Tye_Sheridan/vQTPD0m-tPI_0000002 169.4 177.2 
+Tye_Sheridan/vQTPD0m-tPI_0000003 184.1 194.2 
+Tye_Sheridan/vQTPD0m-tPI_0000004 218.7 226.1 
+Tye_Sheridan/vQTPD0m-tPI_0000005 220.8 229.4 

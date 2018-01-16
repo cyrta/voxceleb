@@ -1,0 +1,7 @@
+POI: 			Susanne_Bier 
+Youtube ID: 	qVJB9F3sQnI 
+Video length: 	30.5 sec 
+Set (V): 		dev 
+ 
+Susanne_Bier/qVJB9F3sQnI_0000001 08.4 16.3 
+Susanne_Bier/qVJB9F3sQnI_0000002 17.2 23.2 

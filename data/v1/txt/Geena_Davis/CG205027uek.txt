@@ -1,0 +1,8 @@
+POI: 			Geena_Davis 
+Youtube ID: 	CG205027uek 
+Video length: 	119.7 sec 
+Set (V): 		dev 
+ 
+Geena_Davis/CG205027uek_0000001 29.7 39.2 
+Geena_Davis/CG205027uek_0000002 62.2 70.6 
+Geena_Davis/CG205027uek_0000003 84.1 92.9 

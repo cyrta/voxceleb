@@ -1,0 +1,10 @@
+POI: 			Stephen_Baldwin 
+Youtube ID: 	k8RHZh_v1G8 
+Video length: 	421.2 sec 
+Set (V): 		dev 
+ 
+Stephen_Baldwin/k8RHZh_v1G8_0000001 126.7 138.6 
+Stephen_Baldwin/k8RHZh_v1G8_0000002 169.0 183.5 
+Stephen_Baldwin/k8RHZh_v1G8_0000003 183.8 187.9 
+Stephen_Baldwin/k8RHZh_v1G8_0000004 349.2 355.2 
+Stephen_Baldwin/k8RHZh_v1G8_0000005 358.4 369.4 

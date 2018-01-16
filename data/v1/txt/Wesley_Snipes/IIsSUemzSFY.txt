@@ -1,0 +1,16 @@
+POI: 			Wesley_Snipes 
+Youtube ID: 	IIsSUemzSFY 
+Video length: 	341.9 sec 
+Set (V): 		dev 
+ 
+Wesley_Snipes/IIsSUemzSFY_0000001 51.9 65.2 
+Wesley_Snipes/IIsSUemzSFY_0000002 81.1 96.0 
+Wesley_Snipes/IIsSUemzSFY_0000003 105.1 110.0 
+Wesley_Snipes/IIsSUemzSFY_0000004 176.4 188.4 
+Wesley_Snipes/IIsSUemzSFY_0000005 238.6 250.8 
+Wesley_Snipes/IIsSUemzSFY_0000006 252.8 264.7 
+Wesley_Snipes/IIsSUemzSFY_0000007 271.9 276.7 
+Wesley_Snipes/IIsSUemzSFY_0000008 279.1 294.3 
+Wesley_Snipes/IIsSUemzSFY_0000009 295.1 301.8 
+Wesley_Snipes/IIsSUemzSFY_0000010 302.6 310.8 
+Wesley_Snipes/IIsSUemzSFY_0000011 311.3 324.5 

@@ -1,0 +1,7 @@
+POI: 			Martine_McCutcheon 
+Youtube ID: 	fyOSQW-ETeE 
+Video length: 	1276.1 sec 
+Set (V): 		dev 
+ 
+Martine_McCutcheon/fyOSQW-ETeE_0000001 1250.0 1254.6 
+Martine_McCutcheon/fyOSQW-ETeE_0000002 1254.8 1262.5 

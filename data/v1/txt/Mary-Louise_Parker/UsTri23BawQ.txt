@@ -1,0 +1,15 @@
+POI: 			Mary-Louise_Parker 
+Youtube ID: 	UsTri23BawQ 
+Video length: 	298.9 sec 
+Set (V): 		dev 
+ 
+Mary-Louise_Parker/UsTri23BawQ_0000001 28.8 35.5 
+Mary-Louise_Parker/UsTri23BawQ_0000002 35.6 43.4 
+Mary-Louise_Parker/UsTri23BawQ_0000003 62.9 74.8 
+Mary-Louise_Parker/UsTri23BawQ_0000004 75.3 79.8 
+Mary-Louise_Parker/UsTri23BawQ_0000005 96.3 116.2 
+Mary-Louise_Parker/UsTri23BawQ_0000006 120.3 136.3 
+Mary-Louise_Parker/UsTri23BawQ_0000007 153.2 158.3 
+Mary-Louise_Parker/UsTri23BawQ_0000008 160.5 166.0 
+Mary-Louise_Parker/UsTri23BawQ_0000009 199.1 213.2 
+Mary-Louise_Parker/UsTri23BawQ_0000010 213.8 250.8 

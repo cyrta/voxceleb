@@ -1,0 +1,16 @@
+POI: 			Rowan_Atkinson 
+Youtube ID: 	hYJwTCeuTfU 
+Video length: 	494.6 sec 
+Set (V): 		dev 
+ 
+Rowan_Atkinson/hYJwTCeuTfU_0000001 71.5 78.8 
+Rowan_Atkinson/hYJwTCeuTfU_0000002 87.4 95.3 
+Rowan_Atkinson/hYJwTCeuTfU_0000003 159.4 164.8 
+Rowan_Atkinson/hYJwTCeuTfU_0000004 179.8 188.2 
+Rowan_Atkinson/hYJwTCeuTfU_0000005 229.2 233.8 
+Rowan_Atkinson/hYJwTCeuTfU_0000006 234.4 240.4 
+Rowan_Atkinson/hYJwTCeuTfU_0000007 273.3 279.3 
+Rowan_Atkinson/hYJwTCeuTfU_0000008 286.8 295.0 
+Rowan_Atkinson/hYJwTCeuTfU_0000009 312.8 318.3 
+Rowan_Atkinson/hYJwTCeuTfU_0000010 344.6 349.9 
+Rowan_Atkinson/hYJwTCeuTfU_0000011 360.4 368.1 

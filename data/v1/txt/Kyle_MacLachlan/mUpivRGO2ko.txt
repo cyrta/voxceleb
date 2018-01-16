@@ -1,0 +1,28 @@
+POI: 			Kyle_MacLachlan 
+Youtube ID: 	mUpivRGO2ko 
+Video length: 	387.4 sec 
+Set (V): 		dev 
+ 
+Kyle_MacLachlan/mUpivRGO2ko_0000001 12.5 21.4 
+Kyle_MacLachlan/mUpivRGO2ko_0000002 28.6 55.7 
+Kyle_MacLachlan/mUpivRGO2ko_0000003 56.3 71.6 
+Kyle_MacLachlan/mUpivRGO2ko_0000004 72.5 80.2 
+Kyle_MacLachlan/mUpivRGO2ko_0000005 85.6 98.8 
+Kyle_MacLachlan/mUpivRGO2ko_0000006 99.0 106.9 
+Kyle_MacLachlan/mUpivRGO2ko_0000007 107.3 114.8 
+Kyle_MacLachlan/mUpivRGO2ko_0000008 125.6 139.7 
+Kyle_MacLachlan/mUpivRGO2ko_0000009 146.6 152.6 
+Kyle_MacLachlan/mUpivRGO2ko_0000010 172.8 178.0 
+Kyle_MacLachlan/mUpivRGO2ko_0000011 179.7 184.6 
+Kyle_MacLachlan/mUpivRGO2ko_0000012 196.6 202.8 
+Kyle_MacLachlan/mUpivRGO2ko_0000013 223.5 233.9 
+Kyle_MacLachlan/mUpivRGO2ko_0000014 237.3 256.2 
+Kyle_MacLachlan/mUpivRGO2ko_0000015 265.4 271.1 
+Kyle_MacLachlan/mUpivRGO2ko_0000016 274.4 278.6 
+Kyle_MacLachlan/mUpivRGO2ko_0000017 280.4 292.6 
+Kyle_MacLachlan/mUpivRGO2ko_0000018 293.9 299.7 
+Kyle_MacLachlan/mUpivRGO2ko_0000019 301.1 310.5 
+Kyle_MacLachlan/mUpivRGO2ko_0000020 331.9 351.2 
+Kyle_MacLachlan/mUpivRGO2ko_0000021 352.4 367.4 
+Kyle_MacLachlan/mUpivRGO2ko_0000022 369.4 375.9 
+Kyle_MacLachlan/mUpivRGO2ko_0000023 381.1 385.7 

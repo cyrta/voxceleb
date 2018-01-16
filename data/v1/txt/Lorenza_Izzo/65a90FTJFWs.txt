@@ -1,0 +1,13 @@
+POI: 			Lorenza_Izzo 
+Youtube ID: 	65a90FTJFWs 
+Video length: 	400.2 sec 
+Set (V): 		dev 
+ 
+Lorenza_Izzo/65a90FTJFWs_0000001 49.7 53.9 
+Lorenza_Izzo/65a90FTJFWs_0000002 94.8 116.0 
+Lorenza_Izzo/65a90FTJFWs_0000003 116.2 120.4 
+Lorenza_Izzo/65a90FTJFWs_0000004 120.9 157.3 
+Lorenza_Izzo/65a90FTJFWs_0000005 166.2 172.9 
+Lorenza_Izzo/65a90FTJFWs_0000006 173.3 185.4 
+Lorenza_Izzo/65a90FTJFWs_0000007 213.6 220.6 
+Lorenza_Izzo/65a90FTJFWs_0000008 228.8 233.9 

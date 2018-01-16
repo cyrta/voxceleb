@@ -1,0 +1,18 @@
+POI: 			Tom_Hiddleston 
+Youtube ID: 	UTRUsPfPN2c 
+Video length: 	868.3 sec 
+Set (V): 		dev 
+ 
+Tom_Hiddleston/UTRUsPfPN2c_0000001 31.0 36.9 
+Tom_Hiddleston/UTRUsPfPN2c_0000002 118.2 124.8 
+Tom_Hiddleston/UTRUsPfPN2c_0000003 127.3 133.1 
+Tom_Hiddleston/UTRUsPfPN2c_0000004 153.2 161.2 
+Tom_Hiddleston/UTRUsPfPN2c_0000005 178.8 185.3 
+Tom_Hiddleston/UTRUsPfPN2c_0000006 374.2 378.8 
+Tom_Hiddleston/UTRUsPfPN2c_0000007 422.9 430.8 
+Tom_Hiddleston/UTRUsPfPN2c_0000008 431.5 436.8 
+Tom_Hiddleston/UTRUsPfPN2c_0000009 573.9 580.9 
+Tom_Hiddleston/UTRUsPfPN2c_0000010 582.5 586.6 
+Tom_Hiddleston/UTRUsPfPN2c_0000011 681.2 688.4 
+Tom_Hiddleston/UTRUsPfPN2c_0000012 700.8 708.7 
+Tom_Hiddleston/UTRUsPfPN2c_0000013 756.4 760.4 

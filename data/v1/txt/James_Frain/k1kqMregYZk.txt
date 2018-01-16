@@ -1,0 +1,11 @@
+POI: 			James_Frain 
+Youtube ID: 	k1kqMregYZk 
+Video length: 	225.6 sec 
+Set (V): 		dev 
+ 
+James_Frain/k1kqMregYZk_0000001 149.1 154.7 
+James_Frain/k1kqMregYZk_0000002 154.9 162.3 
+James_Frain/k1kqMregYZk_0000003 163.5 173.7 
+James_Frain/k1kqMregYZk_0000004 178.5 182.8 
+James_Frain/k1kqMregYZk_0000005 195.7 202.8 
+James_Frain/k1kqMregYZk_0000006 214.3 219.4 

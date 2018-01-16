@@ -1,0 +1,9 @@
+POI: 			Tom_Hiddleston 
+Youtube ID: 	KS0ovwEtee8 
+Video length: 	210.3 sec 
+Set (V): 		dev 
+ 
+Tom_Hiddleston/KS0ovwEtee8_0000001 47.7 55.2 
+Tom_Hiddleston/KS0ovwEtee8_0000002 55.3 67.3 
+Tom_Hiddleston/KS0ovwEtee8_0000003 128.2 137.6 
+Tom_Hiddleston/KS0ovwEtee8_0000004 185.2 192.6 

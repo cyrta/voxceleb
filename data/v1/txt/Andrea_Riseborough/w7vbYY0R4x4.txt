@@ -1,0 +1,9 @@
+POI: 			Andrea_Riseborough 
+Youtube ID: 	w7vbYY0R4x4 
+Video length: 	140.0 sec 
+Set (V): 		dev 
+ 
+Andrea_Riseborough/w7vbYY0R4x4_0000001 25.2 32.3 
+Andrea_Riseborough/w7vbYY0R4x4_0000002 43.4 47.4 
+Andrea_Riseborough/w7vbYY0R4x4_0000003 49.8 55.4 
+Andrea_Riseborough/w7vbYY0R4x4_0000004 70.7 77.2 

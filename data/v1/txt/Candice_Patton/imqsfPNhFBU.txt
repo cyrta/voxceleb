@@ -1,0 +1,8 @@
+POI: 			Candice_Patton 
+Youtube ID: 	imqsfPNhFBU 
+Video length: 	384.0 sec 
+Set (V): 		dev 
+ 
+Candice_Patton/imqsfPNhFBU_0000001 117.6 122.0 
+Candice_Patton/imqsfPNhFBU_0000002 210.8 214.8 
+Candice_Patton/imqsfPNhFBU_0000003 360.4 364.9 

@@ -1,0 +1,7 @@
+POI: 			Sara_Gilbert 
+Youtube ID: 	Fp1ZJGfCPL4 
+Video length: 	43.2 sec 
+Set (V): 		dev 
+ 
+Sara_Gilbert/Fp1ZJGfCPL4_0000001 00.9 05.8 
+Sara_Gilbert/Fp1ZJGfCPL4_0000002 36.7 41.8 

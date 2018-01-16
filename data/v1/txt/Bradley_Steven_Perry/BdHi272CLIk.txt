@@ -1,0 +1,11 @@
+POI: 			Bradley_Steven_Perry 
+Youtube ID: 	BdHi272CLIk 
+Video length: 	220.5 sec 
+Set (V): 		dev 
+ 
+Bradley_Steven_Perry/BdHi272CLIk_0000001 52.5 56.7 
+Bradley_Steven_Perry/BdHi272CLIk_0000002 76.2 81.5 
+Bradley_Steven_Perry/BdHi272CLIk_0000003 102.6 107.6 
+Bradley_Steven_Perry/BdHi272CLIk_0000004 133.7 138.3 
+Bradley_Steven_Perry/BdHi272CLIk_0000005 158.3 162.4 
+Bradley_Steven_Perry/BdHi272CLIk_0000006 174.6 188.4 

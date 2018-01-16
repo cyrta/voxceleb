@@ -1,0 +1,10 @@
+POI: 			Karl_Malden 
+Youtube ID: 	8kNrYCnTRGU 
+Video length: 	233.9 sec 
+Set (V): 		dev 
+ 
+Karl_Malden/8kNrYCnTRGU_0000001 36.0 40.8 
+Karl_Malden/8kNrYCnTRGU_0000002 50.0 66.1 
+Karl_Malden/8kNrYCnTRGU_0000003 108.8 112.8 
+Karl_Malden/8kNrYCnTRGU_0000004 159.7 164.0 
+Karl_Malden/8kNrYCnTRGU_0000005 174.4 180.8 

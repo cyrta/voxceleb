@@ -1,0 +1,8 @@
+POI: 			Jamie_Foxx 
+Youtube ID: 	S1-TGXJX5gA 
+Video length: 	902.4 sec 
+Set (V): 		dev 
+ 
+Jamie_Foxx/S1-TGXJX5gA_0000001 399.3 406.0 
+Jamie_Foxx/S1-TGXJX5gA_0000002 452.0 456.8 
+Jamie_Foxx/S1-TGXJX5gA_0000003 676.7 681.8 

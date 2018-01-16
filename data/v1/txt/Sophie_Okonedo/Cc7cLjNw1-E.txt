@@ -1,0 +1,20 @@
+POI: 			Sophie_Okonedo 
+Youtube ID: 	Cc7cLjNw1-E 
+Video length: 	992.3 sec 
+Set (V): 		dev 
+ 
+Sophie_Okonedo/Cc7cLjNw1-E_0000001 240.7 245.3 
+Sophie_Okonedo/Cc7cLjNw1-E_0000002 253.8 263.2 
+Sophie_Okonedo/Cc7cLjNw1-E_0000003 276.7 280.9 
+Sophie_Okonedo/Cc7cLjNw1-E_0000004 287.4 297.0 
+Sophie_Okonedo/Cc7cLjNw1-E_0000005 316.9 323.6 
+Sophie_Okonedo/Cc7cLjNw1-E_0000006 424.6 443.1 
+Sophie_Okonedo/Cc7cLjNw1-E_0000007 443.2 447.5 
+Sophie_Okonedo/Cc7cLjNw1-E_0000008 447.6 454.5 
+Sophie_Okonedo/Cc7cLjNw1-E_0000009 463.4 471.9 
+Sophie_Okonedo/Cc7cLjNw1-E_0000010 475.6 483.6 
+Sophie_Okonedo/Cc7cLjNw1-E_0000011 620.7 636.8 
+Sophie_Okonedo/Cc7cLjNw1-E_0000012 641.4 650.0 
+Sophie_Okonedo/Cc7cLjNw1-E_0000013 671.8 679.5 
+Sophie_Okonedo/Cc7cLjNw1-E_0000014 685.4 692.7 
+Sophie_Okonedo/Cc7cLjNw1-E_0000015 696.6 703.0 

@@ -1,0 +1,18 @@
+POI: 			Ryan_Kwanten 
+Youtube ID: 	4UPjmdCm1aE 
+Video length: 	624.1 sec 
+Set (V): 		dev 
+ 
+Ryan_Kwanten/4UPjmdCm1aE_0000001 29.5 40.5 
+Ryan_Kwanten/4UPjmdCm1aE_0000002 50.0 55.2 
+Ryan_Kwanten/4UPjmdCm1aE_0000003 122.6 141.5 
+Ryan_Kwanten/4UPjmdCm1aE_0000004 173.4 180.4 
+Ryan_Kwanten/4UPjmdCm1aE_0000005 193.0 197.1 
+Ryan_Kwanten/4UPjmdCm1aE_0000006 197.3 204.0 
+Ryan_Kwanten/4UPjmdCm1aE_0000007 338.2 350.3 
+Ryan_Kwanten/4UPjmdCm1aE_0000008 363.0 369.2 
+Ryan_Kwanten/4UPjmdCm1aE_0000009 407.7 413.0 
+Ryan_Kwanten/4UPjmdCm1aE_0000010 470.4 477.5 
+Ryan_Kwanten/4UPjmdCm1aE_0000011 498.5 503.9 
+Ryan_Kwanten/4UPjmdCm1aE_0000012 564.7 570.2 
+Ryan_Kwanten/4UPjmdCm1aE_0000013 584.0 588.8 

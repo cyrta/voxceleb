@@ -1,0 +1,8 @@
+POI: 			Joanna_Lumley 
+Youtube ID: 	OXDP2Aw42XI 
+Video length: 	271.3 sec 
+Set (V): 		dev 
+ 
+Joanna_Lumley/OXDP2Aw42XI_0000001 167.1 172.1 
+Joanna_Lumley/OXDP2Aw42XI_0000002 179.8 184.6 
+Joanna_Lumley/OXDP2Aw42XI_0000003 217.7 222.6 

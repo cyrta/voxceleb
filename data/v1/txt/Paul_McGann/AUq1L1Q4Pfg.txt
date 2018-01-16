@@ -1,0 +1,7 @@
+POI: 			Paul_McGann 
+Youtube ID: 	AUq1L1Q4Pfg 
+Video length: 	503.4 sec 
+Set (V): 		dev 
+ 
+Paul_McGann/AUq1L1Q4Pfg_0000001 212.9 217.0 
+Paul_McGann/AUq1L1Q4Pfg_0000002 317.9 323.4 

@@ -1,0 +1,7 @@
+POI: 			Miranda_Hart 
+Youtube ID: 	JU045p4eIas 
+Video length: 	119.0 sec 
+Set (V): 		dev 
+ 
+Miranda_Hart/JU045p4eIas_0000001 11.8 17.7 
+Miranda_Hart/JU045p4eIas_0000002 30.8 34.8 

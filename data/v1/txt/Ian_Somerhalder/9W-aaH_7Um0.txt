@@ -1,0 +1,12 @@
+POI: 			Ian_Somerhalder 
+Youtube ID: 	9W-aaH_7Um0 
+Video length: 	293.5 sec 
+Set (V): 		dev 
+ 
+Ian_Somerhalder/9W-aaH_7Um0_0000001 17.2 25.0 
+Ian_Somerhalder/9W-aaH_7Um0_0000002 25.4 35.9 
+Ian_Somerhalder/9W-aaH_7Um0_0000003 51.8 59.8 
+Ian_Somerhalder/9W-aaH_7Um0_0000004 108.0 119.0 
+Ian_Somerhalder/9W-aaH_7Um0_0000005 119.6 132.9 
+Ian_Somerhalder/9W-aaH_7Um0_0000006 231.9 240.6 
+Ian_Somerhalder/9W-aaH_7Um0_0000007 242.7 249.9 

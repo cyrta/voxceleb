@@ -1,0 +1,10 @@
+POI: 			Eli_Roth 
+Youtube ID: 	uA1E_38TuTw 
+Video length: 	158.4 sec 
+Set (V): 		test 
+ 
+Eli_Roth/uA1E_38TuTw_0000001 68.0 74.5 
+Eli_Roth/uA1E_38TuTw_0000002 93.2 99.2 
+Eli_Roth/uA1E_38TuTw_0000003 115.0 119.6 
+Eli_Roth/uA1E_38TuTw_0000004 123.8 129.1 
+Eli_Roth/uA1E_38TuTw_0000005 129.8 134.8 

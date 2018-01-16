@@ -1,0 +1,15 @@
+POI: 			Meat_Loaf 
+Youtube ID: 	BP8Lsp8p8iY 
+Video length: 	195.3 sec 
+Set (V): 		dev 
+ 
+Meat_Loaf/BP8Lsp8p8iY_0000001 09.2 17.6 
+Meat_Loaf/BP8Lsp8p8iY_0000002 23.1 32.0 
+Meat_Loaf/BP8Lsp8p8iY_0000003 35.4 42.4 
+Meat_Loaf/BP8Lsp8p8iY_0000004 50.5 55.2 
+Meat_Loaf/BP8Lsp8p8iY_0000005 56.2 61.5 
+Meat_Loaf/BP8Lsp8p8iY_0000006 67.2 72.3 
+Meat_Loaf/BP8Lsp8p8iY_0000007 94.5 98.4 
+Meat_Loaf/BP8Lsp8p8iY_0000008 98.5 105.4 
+Meat_Loaf/BP8Lsp8p8iY_0000009 122.2 126.2 
+Meat_Loaf/BP8Lsp8p8iY_0000010 157.4 163.4 

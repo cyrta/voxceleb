@@ -1,0 +1,10 @@
+POI: 			Stan_Lee 
+Youtube ID: 	0b0ycr9agiA 
+Video length: 	217.4 sec 
+Set (V): 		dev 
+ 
+Stan_Lee/0b0ycr9agiA_0000001 47.6 53.2 
+Stan_Lee/0b0ycr9agiA_0000002 62.0 68.0 
+Stan_Lee/0b0ycr9agiA_0000003 83.0 90.3 
+Stan_Lee/0b0ycr9agiA_0000004 145.4 151.4 
+Stan_Lee/0b0ycr9agiA_0000005 177.5 181.9 

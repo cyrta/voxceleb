@@ -1,0 +1,8 @@
+POI: 			Geena_Davis 
+Youtube ID: 	RuC0l6B8QQY 
+Video length: 	39.0 sec 
+Set (V): 		dev 
+ 
+Geena_Davis/RuC0l6B8QQY_0000001 08.8 12.9 
+Geena_Davis/RuC0l6B8QQY_0000002 14.6 23.6 
+Geena_Davis/RuC0l6B8QQY_0000003 28.7 33.3 

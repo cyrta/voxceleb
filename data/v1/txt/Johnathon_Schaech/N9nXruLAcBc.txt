@@ -1,0 +1,24 @@
+POI: 			Johnathon_Schaech 
+Youtube ID: 	N9nXruLAcBc 
+Video length: 	718.2 sec 
+Set (V): 		dev 
+ 
+Johnathon_Schaech/N9nXruLAcBc_0000001 32.8 39.5 
+Johnathon_Schaech/N9nXruLAcBc_0000002 51.6 56.9 
+Johnathon_Schaech/N9nXruLAcBc_0000003 62.7 68.6 
+Johnathon_Schaech/N9nXruLAcBc_0000004 69.3 76.4 
+Johnathon_Schaech/N9nXruLAcBc_0000005 85.2 94.2 
+Johnathon_Schaech/N9nXruLAcBc_0000006 269.0 273.5 
+Johnathon_Schaech/N9nXruLAcBc_0000007 315.5 323.4 
+Johnathon_Schaech/N9nXruLAcBc_0000008 351.7 360.0 
+Johnathon_Schaech/N9nXruLAcBc_0000009 393.6 405.2 
+Johnathon_Schaech/N9nXruLAcBc_0000010 415.6 424.8 
+Johnathon_Schaech/N9nXruLAcBc_0000011 444.6 453.4 
+Johnathon_Schaech/N9nXruLAcBc_0000012 461.8 467.4 
+Johnathon_Schaech/N9nXruLAcBc_0000013 501.8 506.7 
+Johnathon_Schaech/N9nXruLAcBc_0000014 569.7 580.8 
+Johnathon_Schaech/N9nXruLAcBc_0000015 595.4 601.4 
+Johnathon_Schaech/N9nXruLAcBc_0000016 586.9 591.9 
+Johnathon_Schaech/N9nXruLAcBc_0000017 595.0 607.0 
+Johnathon_Schaech/N9nXruLAcBc_0000018 628.0 635.2 
+Johnathon_Schaech/N9nXruLAcBc_0000019 636.9 643.6 

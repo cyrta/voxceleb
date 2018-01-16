@@ -1,0 +1,11 @@
+POI: 			Jesse_Metcalfe 
+Youtube ID: 	ffuaIdJFjho 
+Video length: 	191.2 sec 
+Set (V): 		dev 
+ 
+Jesse_Metcalfe/ffuaIdJFjho_0000001 36.5 52.8 
+Jesse_Metcalfe/ffuaIdJFjho_0000002 106.7 114.1 
+Jesse_Metcalfe/ffuaIdJFjho_0000003 126.6 130.8 
+Jesse_Metcalfe/ffuaIdJFjho_0000004 138.8 144.2 
+Jesse_Metcalfe/ffuaIdJFjho_0000005 160.4 168.2 
+Jesse_Metcalfe/ffuaIdJFjho_0000006 167.9 180.0 

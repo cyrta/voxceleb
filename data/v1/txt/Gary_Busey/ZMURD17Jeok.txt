@@ -1,0 +1,9 @@
+POI: 			Gary_Busey 
+Youtube ID: 	ZMURD17Jeok 
+Video length: 	481.7 sec 
+Set (V): 		dev 
+ 
+Gary_Busey/ZMURD17Jeok_0000001 60.8 72.1 
+Gary_Busey/ZMURD17Jeok_0000002 78.9 83.8 
+Gary_Busey/ZMURD17Jeok_0000003 87.8 93.4 
+Gary_Busey/ZMURD17Jeok_0000004 96.0 100.1 

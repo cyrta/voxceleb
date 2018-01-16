@@ -1,0 +1,10 @@
+POI: 			Philip_Glenister 
+Youtube ID: 	SciIYIekbrA 
+Video length: 	310.6 sec 
+Set (V): 		dev 
+ 
+Philip_Glenister/SciIYIekbrA_0000001 85.4 90.0 
+Philip_Glenister/SciIYIekbrA_0000002 174.4 178.5 
+Philip_Glenister/SciIYIekbrA_0000003 182.0 195.5 
+Philip_Glenister/SciIYIekbrA_0000004 199.3 208.1 
+Philip_Glenister/SciIYIekbrA_0000005 264.5 269.1 

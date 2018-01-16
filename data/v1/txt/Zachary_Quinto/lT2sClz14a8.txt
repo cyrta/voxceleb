@@ -1,0 +1,9 @@
+POI: 			Zachary_Quinto 
+Youtube ID: 	lT2sClz14a8 
+Video length: 	571.0 sec 
+Set (V): 		dev 
+ 
+Zachary_Quinto/lT2sClz14a8_0000001 212.1 218.6 
+Zachary_Quinto/lT2sClz14a8_0000002 228.2 235.3 
+Zachary_Quinto/lT2sClz14a8_0000003 304.8 311.7 
+Zachary_Quinto/lT2sClz14a8_0000004 456.1 462.9 

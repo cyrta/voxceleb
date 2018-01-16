@@ -1,0 +1,13 @@
+POI: 			Lea_Thompson 
+Youtube ID: 	bAHx-JT6BQg 
+Video length: 	391.3 sec 
+Set (V): 		dev 
+ 
+Lea_Thompson/bAHx-JT6BQg_0000001 13.2 20.5 
+Lea_Thompson/bAHx-JT6BQg_0000002 181.0 193.7 
+Lea_Thompson/bAHx-JT6BQg_0000003 194.6 200.2 
+Lea_Thompson/bAHx-JT6BQg_0000004 252.6 259.2 
+Lea_Thompson/bAHx-JT6BQg_0000005 268.8 278.1 
+Lea_Thompson/bAHx-JT6BQg_0000006 288.7 298.8 
+Lea_Thompson/bAHx-JT6BQg_0000007 345.0 349.8 
+Lea_Thompson/bAHx-JT6BQg_0000008 355.4 362.8 

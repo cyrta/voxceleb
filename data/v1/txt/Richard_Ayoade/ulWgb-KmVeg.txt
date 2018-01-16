@@ -1,0 +1,23 @@
+POI: 			Richard_Ayoade 
+Youtube ID: 	ulWgb-KmVeg 
+Video length: 	560.8 sec 
+Set (V): 		dev 
+ 
+Richard_Ayoade/ulWgb-KmVeg_0000001 16.8 26.0 
+Richard_Ayoade/ulWgb-KmVeg_0000002 37.6 48.1 
+Richard_Ayoade/ulWgb-KmVeg_0000003 158.4 169.6 
+Richard_Ayoade/ulWgb-KmVeg_0000004 173.7 195.7 
+Richard_Ayoade/ulWgb-KmVeg_0000005 196.3 206.5 
+Richard_Ayoade/ulWgb-KmVeg_0000006 328.1 332.9 
+Richard_Ayoade/ulWgb-KmVeg_0000007 335.5 341.0 
+Richard_Ayoade/ulWgb-KmVeg_0000008 346.3 352.3 
+Richard_Ayoade/ulWgb-KmVeg_0000009 359.0 367.7 
+Richard_Ayoade/ulWgb-KmVeg_0000010 371.3 378.9 
+Richard_Ayoade/ulWgb-KmVeg_0000011 380.0 396.0 
+Richard_Ayoade/ulWgb-KmVeg_0000012 402.2 406.2 
+Richard_Ayoade/ulWgb-KmVeg_0000013 441.4 448.6 
+Richard_Ayoade/ulWgb-KmVeg_0000014 449.6 462.7 
+Richard_Ayoade/ulWgb-KmVeg_0000015 485.8 497.2 
+Richard_Ayoade/ulWgb-KmVeg_0000016 516.8 528.1 
+Richard_Ayoade/ulWgb-KmVeg_0000017 528.2 541.2 
+Richard_Ayoade/ulWgb-KmVeg_0000018 543.6 548.6 

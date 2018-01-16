@@ -1,0 +1,7 @@
+POI: 			Heather_Graham 
+Youtube ID: 	5jdhXTrirnI 
+Video length: 	581.9 sec 
+Set (V): 		dev 
+ 
+Heather_Graham/5jdhXTrirnI_0000001 506.9 513.8 
+Heather_Graham/5jdhXTrirnI_0000002 514.6 523.2 

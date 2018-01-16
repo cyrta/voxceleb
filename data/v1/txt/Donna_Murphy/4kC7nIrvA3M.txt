@@ -1,0 +1,19 @@
+POI: 			Donna_Murphy 
+Youtube ID: 	4kC7nIrvA3M 
+Video length: 	235.7 sec 
+Set (V): 		dev 
+ 
+Donna_Murphy/4kC7nIrvA3M_0000001 24.0 29.8 
+Donna_Murphy/4kC7nIrvA3M_0000002 47.1 57.2 
+Donna_Murphy/4kC7nIrvA3M_0000003 62.5 71.6 
+Donna_Murphy/4kC7nIrvA3M_0000004 73.0 78.3 
+Donna_Murphy/4kC7nIrvA3M_0000005 96.1 100.2 
+Donna_Murphy/4kC7nIrvA3M_0000006 102.8 112.3 
+Donna_Murphy/4kC7nIrvA3M_0000007 112.8 116.9 
+Donna_Murphy/4kC7nIrvA3M_0000008 124.2 128.7 
+Donna_Murphy/4kC7nIrvA3M_0000009 150.8 161.6 
+Donna_Murphy/4kC7nIrvA3M_0000010 164.8 175.0 
+Donna_Murphy/4kC7nIrvA3M_0000011 175.1 191.3 
+Donna_Murphy/4kC7nIrvA3M_0000012 207.1 212.6 
+Donna_Murphy/4kC7nIrvA3M_0000013 222.1 226.4 
+Donna_Murphy/4kC7nIrvA3M_0000014 227.1 233.3 

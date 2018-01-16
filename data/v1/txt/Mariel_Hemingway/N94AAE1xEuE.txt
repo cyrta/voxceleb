@@ -1,0 +1,7 @@
+POI: 			Mariel_Hemingway 
+Youtube ID: 	N94AAE1xEuE 
+Video length: 	221.2 sec 
+Set (V): 		dev 
+ 
+Mariel_Hemingway/N94AAE1xEuE_0000001 36.3 41.9 
+Mariel_Hemingway/N94AAE1xEuE_0000002 46.7 56.6 

@@ -1,0 +1,12 @@
+POI: 			Andy_Samberg 
+Youtube ID: 	mANKKxQ3ncY 
+Video length: 	271.5 sec 
+Set (V): 		dev 
+ 
+Andy_Samberg/mANKKxQ3ncY_0000001 38.5 50.7 
+Andy_Samberg/mANKKxQ3ncY_0000002 111.5 117.3 
+Andy_Samberg/mANKKxQ3ncY_0000003 168.3 174.1 
+Andy_Samberg/mANKKxQ3ncY_0000004 174.4 190.4 
+Andy_Samberg/mANKKxQ3ncY_0000005 192.7 215.0 
+Andy_Samberg/mANKKxQ3ncY_0000006 216.2 222.4 
+Andy_Samberg/mANKKxQ3ncY_0000007 234.2 238.8 

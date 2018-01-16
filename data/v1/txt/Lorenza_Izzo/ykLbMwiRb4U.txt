@@ -1,0 +1,13 @@
+POI: 			Lorenza_Izzo 
+Youtube ID: 	ykLbMwiRb4U 
+Video length: 	268.4 sec 
+Set (V): 		dev 
+ 
+Lorenza_Izzo/ykLbMwiRb4U_0000001 00.7 33.7 
+Lorenza_Izzo/ykLbMwiRb4U_0000002 36.0 43.4 
+Lorenza_Izzo/ykLbMwiRb4U_0000003 33.2 48.4 
+Lorenza_Izzo/ykLbMwiRb4U_0000004 80.4 161.0 
+Lorenza_Izzo/ykLbMwiRb4U_0000005 169.6 179.6 
+Lorenza_Izzo/ykLbMwiRb4U_0000006 184.4 215.0 
+Lorenza_Izzo/ykLbMwiRb4U_0000007 216.0 252.4 
+Lorenza_Izzo/ykLbMwiRb4U_0000008 254.9 261.2 

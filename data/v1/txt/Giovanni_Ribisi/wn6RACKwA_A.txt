@@ -1,0 +1,7 @@
+POI: 			Giovanni_Ribisi 
+Youtube ID: 	wn6RACKwA_A 
+Video length: 	146.7 sec 
+Set (V): 		dev 
+ 
+Giovanni_Ribisi/wn6RACKwA_A_0000001 28.3 33.0 
+Giovanni_Ribisi/wn6RACKwA_A_0000002 97.8 102.4 

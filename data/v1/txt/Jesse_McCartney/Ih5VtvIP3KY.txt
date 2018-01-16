@@ -1,0 +1,11 @@
+POI: 			Jesse_McCartney 
+Youtube ID: 	Ih5VtvIP3KY 
+Video length: 	137.1 sec 
+Set (V): 		dev 
+ 
+Jesse_McCartney/Ih5VtvIP3KY_0000001 56.0 61.8 
+Jesse_McCartney/Ih5VtvIP3KY_0000002 70.1 77.6 
+Jesse_McCartney/Ih5VtvIP3KY_0000003 70.0 78.4 
+Jesse_McCartney/Ih5VtvIP3KY_0000004 87.2 97.4 
+Jesse_McCartney/Ih5VtvIP3KY_0000005 103.9 108.2 
+Jesse_McCartney/Ih5VtvIP3KY_0000006 109.4 113.7 

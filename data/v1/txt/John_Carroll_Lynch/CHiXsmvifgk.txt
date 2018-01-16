@@ -1,0 +1,7 @@
+POI: 			John_Carroll_Lynch 
+Youtube ID: 	CHiXsmvifgk 
+Video length: 	70.8 sec 
+Set (V): 		dev 
+ 
+John_Carroll_Lynch/CHiXsmvifgk_0000001 11.8 21.6 
+John_Carroll_Lynch/CHiXsmvifgk_0000002 57.6 61.9 

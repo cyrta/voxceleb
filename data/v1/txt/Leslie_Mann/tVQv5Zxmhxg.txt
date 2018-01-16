@@ -1,0 +1,13 @@
+POI: 			Leslie_Mann 
+Youtube ID: 	tVQv5Zxmhxg 
+Video length: 	148.8 sec 
+Set (V): 		dev 
+ 
+Leslie_Mann/tVQv5Zxmhxg_0000001 18.8 27.7 
+Leslie_Mann/tVQv5Zxmhxg_0000002 28.8 32.8 
+Leslie_Mann/tVQv5Zxmhxg_0000003 50.1 55.1 
+Leslie_Mann/tVQv5Zxmhxg_0000004 74.6 89.8 
+Leslie_Mann/tVQv5Zxmhxg_0000005 102.8 107.9 
+Leslie_Mann/tVQv5Zxmhxg_0000006 108.2 112.4 
+Leslie_Mann/tVQv5Zxmhxg_0000007 117.2 125.0 
+Leslie_Mann/tVQv5Zxmhxg_0000008 135.5 140.8 

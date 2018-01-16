@@ -1,0 +1,9 @@
+POI: 			Naseeruddin_Shah 
+Youtube ID: 	QCbljH_QH9M 
+Video length: 	426.7 sec 
+Set (V): 		dev 
+ 
+Naseeruddin_Shah/QCbljH_QH9M_0000001 115.0 119.6 
+Naseeruddin_Shah/QCbljH_QH9M_0000002 176.5 181.2 
+Naseeruddin_Shah/QCbljH_QH9M_0000003 186.8 194.4 
+Naseeruddin_Shah/QCbljH_QH9M_0000004 410.7 418.8 

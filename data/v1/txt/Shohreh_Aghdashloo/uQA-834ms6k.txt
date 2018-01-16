@@ -1,0 +1,22 @@
+POI: 			Shohreh_Aghdashloo 
+Youtube ID: 	uQA-834ms6k 
+Video length: 	528.1 sec 
+Set (V): 		dev 
+ 
+Shohreh_Aghdashloo/uQA-834ms6k_0000001 00.7 10.6 
+Shohreh_Aghdashloo/uQA-834ms6k_0000002 24.9 30.4 
+Shohreh_Aghdashloo/uQA-834ms6k_0000003 92.2 97.5 
+Shohreh_Aghdashloo/uQA-834ms6k_0000004 97.8 105.3 
+Shohreh_Aghdashloo/uQA-834ms6k_0000005 105.4 117.7 
+Shohreh_Aghdashloo/uQA-834ms6k_0000006 181.1 186.8 
+Shohreh_Aghdashloo/uQA-834ms6k_0000007 188.8 196.8 
+Shohreh_Aghdashloo/uQA-834ms6k_0000008 236.8 254.0 
+Shohreh_Aghdashloo/uQA-834ms6k_0000009 255.0 260.8 
+Shohreh_Aghdashloo/uQA-834ms6k_0000010 313.8 324.0 
+Shohreh_Aghdashloo/uQA-834ms6k_0000011 324.5 329.6 
+Shohreh_Aghdashloo/uQA-834ms6k_0000012 406.9 411.9 
+Shohreh_Aghdashloo/uQA-834ms6k_0000013 425.8 432.8 
+Shohreh_Aghdashloo/uQA-834ms6k_0000014 441.4 453.3 
+Shohreh_Aghdashloo/uQA-834ms6k_0000015 468.8 474.0 
+Shohreh_Aghdashloo/uQA-834ms6k_0000016 483.6 492.3 
+Shohreh_Aghdashloo/uQA-834ms6k_0000017 492.7 510.1 

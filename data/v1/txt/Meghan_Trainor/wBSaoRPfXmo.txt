@@ -1,0 +1,8 @@
+POI: 			Meghan_Trainor 
+Youtube ID: 	wBSaoRPfXmo 
+Video length: 	170.5 sec 
+Set (V): 		dev 
+ 
+Meghan_Trainor/wBSaoRPfXmo_0000001 18.4 24.4 
+Meghan_Trainor/wBSaoRPfXmo_0000002 31.2 35.2 
+Meghan_Trainor/wBSaoRPfXmo_0000003 145.8 149.9 

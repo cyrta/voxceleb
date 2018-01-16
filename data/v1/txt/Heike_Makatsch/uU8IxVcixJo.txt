@@ -1,0 +1,11 @@
+POI: 			Heike_Makatsch 
+Youtube ID: 	uU8IxVcixJo 
+Video length: 	600.1 sec 
+Set (V): 		dev 
+ 
+Heike_Makatsch/uU8IxVcixJo_0000001 08.0 13.3 
+Heike_Makatsch/uU8IxVcixJo_0000002 16.6 25.7 
+Heike_Makatsch/uU8IxVcixJo_0000003 126.5 131.1 
+Heike_Makatsch/uU8IxVcixJo_0000004 136.7 142.4 
+Heike_Makatsch/uU8IxVcixJo_0000005 271.0 277.1 
+Heike_Makatsch/uU8IxVcixJo_0000006 501.9 508.1 

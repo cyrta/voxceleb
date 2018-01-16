@@ -1,0 +1,8 @@
+POI: 			Moritz_Bleibtreu 
+Youtube ID: 	eawbiP49JGM 
+Video length: 	353.6 sec 
+Set (V): 		dev 
+ 
+Moritz_Bleibtreu/eawbiP49JGM_0000001 153.4 157.5 
+Moritz_Bleibtreu/eawbiP49JGM_0000002 214.8 219.0 
+Moritz_Bleibtreu/eawbiP49JGM_0000003 219.5 223.9 

@@ -1,0 +1,11 @@
+POI: 			Drew_Roy 
+Youtube ID: 	3Sbod2AGXTY 
+Video length: 	1197.1 sec 
+Set (V): 		dev 
+ 
+Drew_Roy/3Sbod2AGXTY_0000001 04.1 08.4 
+Drew_Roy/3Sbod2AGXTY_0000002 278.1 283.2 
+Drew_Roy/3Sbod2AGXTY_0000003 284.2 289.3 
+Drew_Roy/3Sbod2AGXTY_0000004 293.2 303.2 
+Drew_Roy/3Sbod2AGXTY_0000005 632.0 643.4 
+Drew_Roy/3Sbod2AGXTY_0000006 789.2 793.5 

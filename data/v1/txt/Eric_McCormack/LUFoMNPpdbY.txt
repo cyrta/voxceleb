@@ -1,0 +1,14 @@
+POI: 			Eric_McCormack 
+Youtube ID: 	LUFoMNPpdbY 
+Video length: 	218.4 sec 
+Set (V): 		test 
+ 
+Eric_McCormack/LUFoMNPpdbY_0000001 01.7 05.8 
+Eric_McCormack/LUFoMNPpdbY_0000002 06.2 14.0 
+Eric_McCormack/LUFoMNPpdbY_0000003 14.2 19.8 
+Eric_McCormack/LUFoMNPpdbY_0000004 53.7 58.9 
+Eric_McCormack/LUFoMNPpdbY_0000005 100.8 105.4 
+Eric_McCormack/LUFoMNPpdbY_0000006 153.2 159.5 
+Eric_McCormack/LUFoMNPpdbY_0000007 161.5 165.4 
+Eric_McCormack/LUFoMNPpdbY_0000008 175.0 182.9 
+Eric_McCormack/LUFoMNPpdbY_0000009 192.4 197.8 

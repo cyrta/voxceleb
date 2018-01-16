@@ -1,0 +1,12 @@
+POI: 			Jake_Johnson 
+Youtube ID: 	98TYSpexOeY 
+Video length: 	540.1 sec 
+Set (V): 		dev 
+ 
+Jake_Johnson/98TYSpexOeY_0000001 109.9 117.9 
+Jake_Johnson/98TYSpexOeY_0000002 282.4 287.8 
+Jake_Johnson/98TYSpexOeY_0000003 353.6 357.9 
+Jake_Johnson/98TYSpexOeY_0000004 402.0 406.0 
+Jake_Johnson/98TYSpexOeY_0000005 418.3 422.7 
+Jake_Johnson/98TYSpexOeY_0000006 442.5 448.4 
+Jake_Johnson/98TYSpexOeY_0000007 477.6 481.8 

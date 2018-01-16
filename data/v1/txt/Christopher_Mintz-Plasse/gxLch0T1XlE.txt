@@ -1,0 +1,7 @@
+POI: 			Christopher_Mintz-Plasse 
+Youtube ID: 	gxLch0T1XlE 
+Video length: 	164.2 sec 
+Set (V): 		dev 
+ 
+Christopher_Mintz-Plasse/gxLch0T1XlE_0000001 51.8 57.0 
+Christopher_Mintz-Plasse/gxLch0T1XlE_0000002 90.9 97.4 

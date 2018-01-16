@@ -1,0 +1,21 @@
+POI: 			Ron_Jeremy 
+Youtube ID: 	KCDxXirtBoI 
+Video length: 	428.6 sec 
+Set (V): 		dev 
+ 
+Ron_Jeremy/KCDxXirtBoI_0000001 49.8 54.1 
+Ron_Jeremy/KCDxXirtBoI_0000002 79.8 86.3 
+Ron_Jeremy/KCDxXirtBoI_0000003 115.4 121.8 
+Ron_Jeremy/KCDxXirtBoI_0000004 133.3 137.8 
+Ron_Jeremy/KCDxXirtBoI_0000005 186.8 192.8 
+Ron_Jeremy/KCDxXirtBoI_0000006 196.4 202.2 
+Ron_Jeremy/KCDxXirtBoI_0000007 212.6 216.8 
+Ron_Jeremy/KCDxXirtBoI_0000008 236.6 241.0 
+Ron_Jeremy/KCDxXirtBoI_0000009 260.6 266.2 
+Ron_Jeremy/KCDxXirtBoI_0000010 282.0 286.1 
+Ron_Jeremy/KCDxXirtBoI_0000011 290.4 294.8 
+Ron_Jeremy/KCDxXirtBoI_0000012 318.6 326.0 
+Ron_Jeremy/KCDxXirtBoI_0000013 334.7 338.9 
+Ron_Jeremy/KCDxXirtBoI_0000014 347.0 351.2 
+Ron_Jeremy/KCDxXirtBoI_0000015 383.8 388.2 
+Ron_Jeremy/KCDxXirtBoI_0000016 408.5 413.6 

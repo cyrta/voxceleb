@@ -1,0 +1,10 @@
+POI: 			Laura_Carmichael 
+Youtube ID: 	E5wUVmpadZU 
+Video length: 	209.2 sec 
+Set (V): 		dev 
+ 
+Laura_Carmichael/E5wUVmpadZU_0000001 58.5 64.6 
+Laura_Carmichael/E5wUVmpadZU_0000002 102.4 109.5 
+Laura_Carmichael/E5wUVmpadZU_0000003 133.4 137.6 
+Laura_Carmichael/E5wUVmpadZU_0000004 139.1 143.1 
+Laura_Carmichael/E5wUVmpadZU_0000005 145.5 150.2 

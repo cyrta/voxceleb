@@ -1,0 +1,14 @@
+POI: 			Taylor_Kitsch 
+Youtube ID: 	w-uFnvIvIfo 
+Video length: 	588.4 sec 
+Set (V): 		dev 
+ 
+Taylor_Kitsch/w-uFnvIvIfo_0000001 50.5 58.0 
+Taylor_Kitsch/w-uFnvIvIfo_0000002 205.4 213.6 
+Taylor_Kitsch/w-uFnvIvIfo_0000003 240.5 244.7 
+Taylor_Kitsch/w-uFnvIvIfo_0000004 339.7 345.1 
+Taylor_Kitsch/w-uFnvIvIfo_0000005 379.2 384.1 
+Taylor_Kitsch/w-uFnvIvIfo_0000006 399.8 404.5 
+Taylor_Kitsch/w-uFnvIvIfo_0000007 458.2 462.9 
+Taylor_Kitsch/w-uFnvIvIfo_0000008 474.5 479.9 
+Taylor_Kitsch/w-uFnvIvIfo_0000009 518.6 525.3 

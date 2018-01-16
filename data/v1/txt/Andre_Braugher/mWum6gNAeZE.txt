@@ -1,0 +1,30 @@
+POI: 			Andre_Braugher 
+Youtube ID: 	mWum6gNAeZE 
+Video length: 	328.8 sec 
+Set (V): 		dev 
+ 
+Andre_Braugher/mWum6gNAeZE_0000001 04.2 08.2 
+Andre_Braugher/mWum6gNAeZE_0000002 08.3 15.9 
+Andre_Braugher/mWum6gNAeZE_0000003 17.2 22.8 
+Andre_Braugher/mWum6gNAeZE_0000004 22.9 36.7 
+Andre_Braugher/mWum6gNAeZE_0000005 37.4 64.2 
+Andre_Braugher/mWum6gNAeZE_0000006 81.6 90.6 
+Andre_Braugher/mWum6gNAeZE_0000007 93.6 103.5 
+Andre_Braugher/mWum6gNAeZE_0000008 109.9 116.8 
+Andre_Braugher/mWum6gNAeZE_0000009 121.9 138.2 
+Andre_Braugher/mWum6gNAeZE_0000010 139.0 143.1 
+Andre_Braugher/mWum6gNAeZE_0000011 152.8 157.7 
+Andre_Braugher/mWum6gNAeZE_0000012 161.2 167.3 
+Andre_Braugher/mWum6gNAeZE_0000013 168.0 179.9 
+Andre_Braugher/mWum6gNAeZE_0000014 184.0 196.2 
+Andre_Braugher/mWum6gNAeZE_0000015 211.6 216.6 
+Andre_Braugher/mWum6gNAeZE_0000016 218.9 223.2 
+Andre_Braugher/mWum6gNAeZE_0000017 228.0 234.0 
+Andre_Braugher/mWum6gNAeZE_0000018 240.8 247.6 
+Andre_Braugher/mWum6gNAeZE_0000019 249.9 259.9 
+Andre_Braugher/mWum6gNAeZE_0000020 260.5 273.2 
+Andre_Braugher/mWum6gNAeZE_0000021 280.6 285.0 
+Andre_Braugher/mWum6gNAeZE_0000022 286.7 291.4 
+Andre_Braugher/mWum6gNAeZE_0000023 292.1 296.3 
+Andre_Braugher/mWum6gNAeZE_0000024 299.1 308.0 
+Andre_Braugher/mWum6gNAeZE_0000025 309.6 325.8 

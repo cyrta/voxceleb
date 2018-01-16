@@ -1,0 +1,12 @@
+POI: 			John_Oliver 
+Youtube ID: 	l17TPkXGVCo 
+Video length: 	514.5 sec 
+Set (V): 		dev 
+ 
+John_Oliver/l17TPkXGVCo_0000001 54.4 58.4 
+John_Oliver/l17TPkXGVCo_0000002 81.0 85.8 
+John_Oliver/l17TPkXGVCo_0000003 249.0 253.2 
+John_Oliver/l17TPkXGVCo_0000004 277.6 283.4 
+John_Oliver/l17TPkXGVCo_0000005 350.6 354.8 
+John_Oliver/l17TPkXGVCo_0000006 379.2 383.6 
+John_Oliver/l17TPkXGVCo_0000007 454.4 462.6 

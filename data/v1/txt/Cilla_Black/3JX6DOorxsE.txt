@@ -1,0 +1,9 @@
+POI: 			Cilla_Black 
+Youtube ID: 	3JX6DOorxsE 
+Video length: 	497.9 sec 
+Set (V): 		dev 
+ 
+Cilla_Black/3JX6DOorxsE_0000001 404.9 409.8 
+Cilla_Black/3JX6DOorxsE_0000002 411.4 415.7 
+Cilla_Black/3JX6DOorxsE_0000003 418.0 425.0 
+Cilla_Black/3JX6DOorxsE_0000004 470.6 476.7 

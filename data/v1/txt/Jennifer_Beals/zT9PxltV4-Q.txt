@@ -1,0 +1,13 @@
+POI: 			Jennifer_Beals 
+Youtube ID: 	zT9PxltV4-Q 
+Video length: 	234.3 sec 
+Set (V): 		dev 
+ 
+Jennifer_Beals/zT9PxltV4-Q_0000001 20.1 24.2 
+Jennifer_Beals/zT9PxltV4-Q_0000002 67.5 72.3 
+Jennifer_Beals/zT9PxltV4-Q_0000003 82.3 88.8 
+Jennifer_Beals/zT9PxltV4-Q_0000004 129.2 137.4 
+Jennifer_Beals/zT9PxltV4-Q_0000005 158.1 162.4 
+Jennifer_Beals/zT9PxltV4-Q_0000006 167.1 172.6 
+Jennifer_Beals/zT9PxltV4-Q_0000007 173.9 178.0 
+Jennifer_Beals/zT9PxltV4-Q_0000008 198.7 221.0 

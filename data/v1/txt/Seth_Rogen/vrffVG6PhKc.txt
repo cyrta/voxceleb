@@ -1,0 +1,12 @@
+POI: 			Seth_Rogen 
+Youtube ID: 	vrffVG6PhKc 
+Video length: 	169.4 sec 
+Set (V): 		dev 
+ 
+Seth_Rogen/vrffVG6PhKc_0000001 13.1 22.4 
+Seth_Rogen/vrffVG6PhKc_0000002 27.6 35.4 
+Seth_Rogen/vrffVG6PhKc_0000003 71.9 88.4 
+Seth_Rogen/vrffVG6PhKc_0000004 93.0 102.2 
+Seth_Rogen/vrffVG6PhKc_0000005 137.7 141.6 
+Seth_Rogen/vrffVG6PhKc_0000006 143.2 156.5 
+Seth_Rogen/vrffVG6PhKc_0000007 158.9 164.0 

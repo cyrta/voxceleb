@@ -1,0 +1,8 @@
+POI: 			Diego_Luna 
+Youtube ID: 	1lzMgm69tTk 
+Video length: 	702.1 sec 
+Set (V): 		dev 
+ 
+Diego_Luna/1lzMgm69tTk_0000001 561.8 570.1 
+Diego_Luna/1lzMgm69tTk_0000002 589.8 595.8 
+Diego_Luna/1lzMgm69tTk_0000003 661.0 667.4 

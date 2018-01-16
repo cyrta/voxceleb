@@ -1,0 +1,8 @@
+POI: 			Kelli_Berglund 
+Youtube ID: 	wl_9c6RqmVQ 
+Video length: 	222.6 sec 
+Set (V): 		dev 
+ 
+Kelli_Berglund/wl_9c6RqmVQ_0000001 50.5 54.8 
+Kelli_Berglund/wl_9c6RqmVQ_0000002 153.5 157.5 
+Kelli_Berglund/wl_9c6RqmVQ_0000003 173.8 178.6 

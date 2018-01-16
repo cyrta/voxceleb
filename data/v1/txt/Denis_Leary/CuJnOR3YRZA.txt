@@ -1,0 +1,12 @@
+POI: 			Denis_Leary 
+Youtube ID: 	CuJnOR3YRZA 
+Video length: 	164.8 sec 
+Set (V): 		dev 
+ 
+Denis_Leary/CuJnOR3YRZA_0000001 25.7 41.0 
+Denis_Leary/CuJnOR3YRZA_0000002 65.4 70.8 
+Denis_Leary/CuJnOR3YRZA_0000003 74.3 79.7 
+Denis_Leary/CuJnOR3YRZA_0000004 80.4 104.8 
+Denis_Leary/CuJnOR3YRZA_0000005 119.1 124.1 
+Denis_Leary/CuJnOR3YRZA_0000006 127.0 144.4 
+Denis_Leary/CuJnOR3YRZA_0000007 145.0 150.4 

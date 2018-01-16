@@ -1,0 +1,35 @@
+POI: 			Ajay_Devgn 
+Youtube ID: 	CYb_opUpiw4 
+Video length: 	1170.6 sec 
+Set (V): 		dev 
+ 
+Ajay_Devgn/CYb_opUpiw4_0000001 75.0 79.7 
+Ajay_Devgn/CYb_opUpiw4_0000002 80.4 86.8 
+Ajay_Devgn/CYb_opUpiw4_0000003 121.4 125.4 
+Ajay_Devgn/CYb_opUpiw4_0000004 159.5 165.8 
+Ajay_Devgn/CYb_opUpiw4_0000005 174.5 180.2 
+Ajay_Devgn/CYb_opUpiw4_0000006 216.3 221.0 
+Ajay_Devgn/CYb_opUpiw4_0000007 222.5 228.8 
+Ajay_Devgn/CYb_opUpiw4_0000008 228.9 239.7 
+Ajay_Devgn/CYb_opUpiw4_0000009 333.3 337.7 
+Ajay_Devgn/CYb_opUpiw4_0000010 338.9 343.3 
+Ajay_Devgn/CYb_opUpiw4_0000011 358.8 363.3 
+Ajay_Devgn/CYb_opUpiw4_0000012 364.0 368.0 
+Ajay_Devgn/CYb_opUpiw4_0000013 379.8 387.2 
+Ajay_Devgn/CYb_opUpiw4_0000014 439.8 443.7 
+Ajay_Devgn/CYb_opUpiw4_0000015 498.1 502.8 
+Ajay_Devgn/CYb_opUpiw4_0000016 503.5 508.0 
+Ajay_Devgn/CYb_opUpiw4_0000017 629.8 636.9 
+Ajay_Devgn/CYb_opUpiw4_0000018 642.2 656.4 
+Ajay_Devgn/CYb_opUpiw4_0000019 743.2 749.4 
+Ajay_Devgn/CYb_opUpiw4_0000020 845.6 854.5 
+Ajay_Devgn/CYb_opUpiw4_0000021 872.4 876.4 
+Ajay_Devgn/CYb_opUpiw4_0000022 902.6 907.0 
+Ajay_Devgn/CYb_opUpiw4_0000023 922.6 927.8 
+Ajay_Devgn/CYb_opUpiw4_0000024 987.2 992.9 
+Ajay_Devgn/CYb_opUpiw4_0000025 1001.1 1006.4 
+Ajay_Devgn/CYb_opUpiw4_0000026 1006.6 1012.6 
+Ajay_Devgn/CYb_opUpiw4_0000027 1012.9 1018.7 
+Ajay_Devgn/CYb_opUpiw4_0000028 1041.0 1044.9 
+Ajay_Devgn/CYb_opUpiw4_0000029 1082.0 1089.6 
+Ajay_Devgn/CYb_opUpiw4_0000030 1115.4 1126.7 

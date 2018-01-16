@@ -1,0 +1,11 @@
+POI: 			Jimmy_Fallon 
+Youtube ID: 	t-8vN3uC-CU 
+Video length: 	465.7 sec 
+Set (V): 		dev 
+ 
+Jimmy_Fallon/t-8vN3uC-CU_0000001 105.1 118.1 
+Jimmy_Fallon/t-8vN3uC-CU_0000002 120.1 126.6 
+Jimmy_Fallon/t-8vN3uC-CU_0000003 168.6 172.8 
+Jimmy_Fallon/t-8vN3uC-CU_0000004 261.4 270.3 
+Jimmy_Fallon/t-8vN3uC-CU_0000005 384.9 392.2 
+Jimmy_Fallon/t-8vN3uC-CU_0000006 417.9 424.6 

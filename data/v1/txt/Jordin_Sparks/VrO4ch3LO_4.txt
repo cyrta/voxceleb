@@ -1,0 +1,10 @@
+POI: 			Jordin_Sparks 
+Youtube ID: 	VrO4ch3LO_4 
+Video length: 	600.8 sec 
+Set (V): 		dev 
+ 
+Jordin_Sparks/VrO4ch3LO_4_0000001 227.8 233.9 
+Jordin_Sparks/VrO4ch3LO_4_0000002 271.2 283.8 
+Jordin_Sparks/VrO4ch3LO_4_0000003 314.1 320.9 
+Jordin_Sparks/VrO4ch3LO_4_0000004 419.0 427.0 
+Jordin_Sparks/VrO4ch3LO_4_0000005 434.1 445.2 

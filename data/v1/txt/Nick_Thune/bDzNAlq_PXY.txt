@@ -1,0 +1,22 @@
+POI: 			Nick_Thune 
+Youtube ID: 	bDzNAlq_PXY 
+Video length: 	368.6 sec 
+Set (V): 		dev 
+ 
+Nick_Thune/bDzNAlq_PXY_0000001 14.8 21.2 
+Nick_Thune/bDzNAlq_PXY_0000002 25.4 30.4 
+Nick_Thune/bDzNAlq_PXY_0000003 67.6 78.8 
+Nick_Thune/bDzNAlq_PXY_0000004 79.6 84.1 
+Nick_Thune/bDzNAlq_PXY_0000005 103.0 108.0 
+Nick_Thune/bDzNAlq_PXY_0000006 113.8 121.2 
+Nick_Thune/bDzNAlq_PXY_0000007 130.3 138.2 
+Nick_Thune/bDzNAlq_PXY_0000008 183.0 187.1 
+Nick_Thune/bDzNAlq_PXY_0000009 193.3 199.6 
+Nick_Thune/bDzNAlq_PXY_0000010 209.2 213.4 
+Nick_Thune/bDzNAlq_PXY_0000011 224.2 228.8 
+Nick_Thune/bDzNAlq_PXY_0000012 235.8 246.3 
+Nick_Thune/bDzNAlq_PXY_0000013 264.9 269.0 
+Nick_Thune/bDzNAlq_PXY_0000014 298.7 307.3 
+Nick_Thune/bDzNAlq_PXY_0000015 311.4 315.8 
+Nick_Thune/bDzNAlq_PXY_0000016 321.0 327.3 
+Nick_Thune/bDzNAlq_PXY_0000017 328.8 342.8 

@@ -1,0 +1,17 @@
+POI: 			Lily_Cole 
+Youtube ID: 	7OXxsuiWwn8 
+Video length: 	555.3 sec 
+Set (V): 		dev 
+ 
+Lily_Cole/7OXxsuiWwn8_0000001 14.0 19.8 
+Lily_Cole/7OXxsuiWwn8_0000002 20.4 25.3 
+Lily_Cole/7OXxsuiWwn8_0000003 25.7 33.5 
+Lily_Cole/7OXxsuiWwn8_0000004 46.4 60.4 
+Lily_Cole/7OXxsuiWwn8_0000005 76.6 90.8 
+Lily_Cole/7OXxsuiWwn8_0000006 107.1 116.1 
+Lily_Cole/7OXxsuiWwn8_0000007 116.8 121.6 
+Lily_Cole/7OXxsuiWwn8_0000008 123.5 130.1 
+Lily_Cole/7OXxsuiWwn8_0000009 142.0 147.0 
+Lily_Cole/7OXxsuiWwn8_0000010 157.0 166.9 
+Lily_Cole/7OXxsuiWwn8_0000011 186.6 191.4 
+Lily_Cole/7OXxsuiWwn8_0000012 206.6 213.7 

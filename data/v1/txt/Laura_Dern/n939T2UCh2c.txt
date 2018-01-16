@@ -1,0 +1,10 @@
+POI: 			Laura_Dern 
+Youtube ID: 	n939T2UCh2c 
+Video length: 	527.3 sec 
+Set (V): 		dev 
+ 
+Laura_Dern/n939T2UCh2c_0000001 89.4 93.6 
+Laura_Dern/n939T2UCh2c_0000002 407.1 422.9 
+Laura_Dern/n939T2UCh2c_0000003 423.4 427.6 
+Laura_Dern/n939T2UCh2c_0000004 430.6 434.7 
+Laura_Dern/n939T2UCh2c_0000005 480.0 487.2 

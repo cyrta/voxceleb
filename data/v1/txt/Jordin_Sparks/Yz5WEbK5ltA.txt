@@ -1,0 +1,8 @@
+POI: 			Jordin_Sparks 
+Youtube ID: 	Yz5WEbK5ltA 
+Video length: 	240.0 sec 
+Set (V): 		dev 
+ 
+Jordin_Sparks/Yz5WEbK5ltA_0000001 61.7 66.4 
+Jordin_Sparks/Yz5WEbK5ltA_0000002 84.6 89.2 
+Jordin_Sparks/Yz5WEbK5ltA_0000003 97.2 101.2 

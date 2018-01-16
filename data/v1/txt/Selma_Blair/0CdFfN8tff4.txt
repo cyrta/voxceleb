@@ -1,0 +1,10 @@
+POI: 			Selma_Blair 
+Youtube ID: 	0CdFfN8tff4 
+Video length: 	575.6 sec 
+Set (V): 		dev 
+ 
+Selma_Blair/0CdFfN8tff4_0000001 221.0 225.4 
+Selma_Blair/0CdFfN8tff4_0000002 251.8 256.1 
+Selma_Blair/0CdFfN8tff4_0000003 356.8 363.0 
+Selma_Blair/0CdFfN8tff4_0000004 378.4 384.0 
+Selma_Blair/0CdFfN8tff4_0000005 447.1 454.2 

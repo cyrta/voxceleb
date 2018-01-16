@@ -1,0 +1,7 @@
+POI: 			Tom_Bergeron 
+Youtube ID: 	AT4J2rW54oU 
+Video length: 	131.7 sec 
+Set (V): 		dev 
+ 
+Tom_Bergeron/AT4J2rW54oU_0000001 63.0 68.2 
+Tom_Bergeron/AT4J2rW54oU_0000002 95.0 104.1 

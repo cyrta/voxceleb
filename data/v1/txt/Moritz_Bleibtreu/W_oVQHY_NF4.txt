@@ -1,0 +1,8 @@
+POI: 			Moritz_Bleibtreu 
+Youtube ID: 	W_oVQHY_NF4 
+Video length: 	603.8 sec 
+Set (V): 		dev 
+ 
+Moritz_Bleibtreu/W_oVQHY_NF4_0000001 279.1 283.6 
+Moritz_Bleibtreu/W_oVQHY_NF4_0000002 419.5 423.6 
+Moritz_Bleibtreu/W_oVQHY_NF4_0000003 505.3 510.8 

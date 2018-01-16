@@ -1,0 +1,8 @@
+POI: 			Richard_Dean_Anderson 
+Youtube ID: 	Y0CmzBpASP8 
+Video length: 	36.6 sec 
+Set (V): 		dev 
+ 
+Richard_Dean_Anderson/Y0CmzBpASP8_0000001 09.4 14.0 
+Richard_Dean_Anderson/Y0CmzBpASP8_0000002 15.0 21.8 
+Richard_Dean_Anderson/Y0CmzBpASP8_0000003 22.5 30.1 

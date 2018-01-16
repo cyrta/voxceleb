@@ -1,0 +1,12 @@
+POI: 			Rosie_Huntington-Whiteley 
+Youtube ID: 	9FrGGZAOdbA 
+Video length: 	168.0 sec 
+Set (V): 		dev 
+ 
+Rosie_Huntington-Whiteley/9FrGGZAOdbA_0000001 05.7 10.3 
+Rosie_Huntington-Whiteley/9FrGGZAOdbA_0000002 11.8 27.4 
+Rosie_Huntington-Whiteley/9FrGGZAOdbA_0000003 27.4 38.3 
+Rosie_Huntington-Whiteley/9FrGGZAOdbA_0000004 103.0 115.3 
+Rosie_Huntington-Whiteley/9FrGGZAOdbA_0000005 115.4 130.5 
+Rosie_Huntington-Whiteley/9FrGGZAOdbA_0000006 131.4 142.3 
+Rosie_Huntington-Whiteley/9FrGGZAOdbA_0000007 143.4 159.6 

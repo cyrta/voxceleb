@@ -1,0 +1,9 @@
+POI: 			Julie_Chen 
+Youtube ID: 	QRZaajPMIfQ 
+Video length: 	73.6 sec 
+Set (V): 		dev 
+ 
+Julie_Chen/QRZaajPMIfQ_0000001 04.8 19.3 
+Julie_Chen/QRZaajPMIfQ_0000002 21.9 28.9 
+Julie_Chen/QRZaajPMIfQ_0000003 33.8 38.8 
+Julie_Chen/QRZaajPMIfQ_0000004 39.5 46.7 

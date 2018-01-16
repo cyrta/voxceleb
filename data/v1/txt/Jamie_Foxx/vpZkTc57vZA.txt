@@ -1,0 +1,14 @@
+POI: 			Jamie_Foxx 
+Youtube ID: 	vpZkTc57vZA 
+Video length: 	1226.6 sec 
+Set (V): 		dev 
+ 
+Jamie_Foxx/vpZkTc57vZA_0000001 264.0 268.2 
+Jamie_Foxx/vpZkTc57vZA_0000002 412.0 418.0 
+Jamie_Foxx/vpZkTc57vZA_0000003 470.2 474.7 
+Jamie_Foxx/vpZkTc57vZA_0000004 539.2 544.3 
+Jamie_Foxx/vpZkTc57vZA_0000005 740.4 745.0 
+Jamie_Foxx/vpZkTc57vZA_0000006 803.5 810.1 
+Jamie_Foxx/vpZkTc57vZA_0000007 816.4 823.7 
+Jamie_Foxx/vpZkTc57vZA_0000008 836.1 845.7 
+Jamie_Foxx/vpZkTc57vZA_0000009 1134.1 1138.8 

@@ -1,0 +1,12 @@
+POI: 			Jeremy_Irvine 
+Youtube ID: 	ikWr0bEs_Ac 
+Video length: 	255.1 sec 
+Set (V): 		dev 
+ 
+Jeremy_Irvine/ikWr0bEs_Ac_0000001 68.9 74.4 
+Jeremy_Irvine/ikWr0bEs_Ac_0000002 110.1 126.9 
+Jeremy_Irvine/ikWr0bEs_Ac_0000003 129.6 150.4 
+Jeremy_Irvine/ikWr0bEs_Ac_0000004 165.8 174.2 
+Jeremy_Irvine/ikWr0bEs_Ac_0000005 180.2 184.3 
+Jeremy_Irvine/ikWr0bEs_Ac_0000006 184.7 189.5 
+Jeremy_Irvine/ikWr0bEs_Ac_0000007 194.9 206.4 

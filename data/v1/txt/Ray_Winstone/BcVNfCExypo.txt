@@ -1,0 +1,8 @@
+POI: 			Ray_Winstone 
+Youtube ID: 	BcVNfCExypo 
+Video length: 	314.3 sec 
+Set (V): 		dev 
+ 
+Ray_Winstone/BcVNfCExypo_0000001 129.9 135.1 
+Ray_Winstone/BcVNfCExypo_0000002 137.0 141.3 
+Ray_Winstone/BcVNfCExypo_0000003 162.0 168.1 

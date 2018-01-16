@@ -1,0 +1,8 @@
+POI: 			Kelly_Monaco 
+Youtube ID: 	wINT9XPeDp4 
+Video length: 	121.8 sec 
+Set (V): 		dev 
+ 
+Kelly_Monaco/wINT9XPeDp4_0000001 26.7 32.2 
+Kelly_Monaco/wINT9XPeDp4_0000002 72.6 79.2 
+Kelly_Monaco/wINT9XPeDp4_0000003 102.0 110.8 

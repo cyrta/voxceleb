@@ -1,0 +1,8 @@
+POI: 			Lou_Diamond_Phillips 
+Youtube ID: 	H2n8BcPAjtU 
+Video length: 	201.6 sec 
+Set (V): 		dev 
+ 
+Lou_Diamond_Phillips/H2n8BcPAjtU_0000001 35.1 44.6 
+Lou_Diamond_Phillips/H2n8BcPAjtU_0000002 141.3 150.4 
+Lou_Diamond_Phillips/H2n8BcPAjtU_0000003 172.1 178.7 

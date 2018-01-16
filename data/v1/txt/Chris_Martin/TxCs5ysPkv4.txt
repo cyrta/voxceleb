@@ -1,0 +1,7 @@
+POI: 			Chris_Martin 
+Youtube ID: 	TxCs5ysPkv4 
+Video length: 	928.5 sec 
+Set (V): 		dev 
+ 
+Chris_Martin/TxCs5ysPkv4_0000001 279.9 285.9 
+Chris_Martin/TxCs5ysPkv4_0000002 432.0 443.4 

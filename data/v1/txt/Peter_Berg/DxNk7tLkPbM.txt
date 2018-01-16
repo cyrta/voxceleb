@@ -1,0 +1,23 @@
+POI: 			Peter_Berg 
+Youtube ID: 	DxNk7tLkPbM 
+Video length: 	400.6 sec 
+Set (V): 		dev 
+ 
+Peter_Berg/DxNk7tLkPbM_0000001 15.5 23.8 
+Peter_Berg/DxNk7tLkPbM_0000002 28.1 42.5 
+Peter_Berg/DxNk7tLkPbM_0000003 43.4 51.4 
+Peter_Berg/DxNk7tLkPbM_0000004 52.6 65.8 
+Peter_Berg/DxNk7tLkPbM_0000005 66.3 83.2 
+Peter_Berg/DxNk7tLkPbM_0000006 95.1 100.9 
+Peter_Berg/DxNk7tLkPbM_0000007 104.0 122.8 
+Peter_Berg/DxNk7tLkPbM_0000008 123.0 134.1 
+Peter_Berg/DxNk7tLkPbM_0000009 134.3 138.3 
+Peter_Berg/DxNk7tLkPbM_0000010 183.7 187.9 
+Peter_Berg/DxNk7tLkPbM_0000011 188.2 193.0 
+Peter_Berg/DxNk7tLkPbM_0000012 195.7 200.6 
+Peter_Berg/DxNk7tLkPbM_0000013 204.8 248.8 
+Peter_Berg/DxNk7tLkPbM_0000014 266.5 271.5 
+Peter_Berg/DxNk7tLkPbM_0000015 350.4 355.2 
+Peter_Berg/DxNk7tLkPbM_0000016 361.1 368.1 
+Peter_Berg/DxNk7tLkPbM_0000017 368.5 377.3 
+Peter_Berg/DxNk7tLkPbM_0000018 382.3 394.4 

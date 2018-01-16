@@ -1,0 +1,15 @@
+POI: 			Linda_Lavin 
+Youtube ID: 	Q-XckKQoR5Y 
+Video length: 	6046.8 sec 
+Set (V): 		dev 
+ 
+Linda_Lavin/Q-XckKQoR5Y_0000001 5721.0 5728.7 
+Linda_Lavin/Q-XckKQoR5Y_0000002 5734.0 5745.0 
+Linda_Lavin/Q-XckKQoR5Y_0000003 5748.8 5755.9 
+Linda_Lavin/Q-XckKQoR5Y_0000004 5800.0 5810.4 
+Linda_Lavin/Q-XckKQoR5Y_0000005 5868.5 5872.5 
+Linda_Lavin/Q-XckKQoR5Y_0000006 5872.8 5898.3 
+Linda_Lavin/Q-XckKQoR5Y_0000007 5903.4 5911.9 
+Linda_Lavin/Q-XckKQoR5Y_0000008 5996.4 6001.7 
+Linda_Lavin/Q-XckKQoR5Y_0000009 6002.3 6013.2 
+Linda_Lavin/Q-XckKQoR5Y_0000010 6015.0 6024.6 

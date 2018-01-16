@@ -1,0 +1,17 @@
+POI: 			Jeff_Goldblum 
+Youtube ID: 	zbAwW7WryQA 
+Video length: 	337.2 sec 
+Set (V): 		dev 
+ 
+Jeff_Goldblum/zbAwW7WryQA_0000001 58.3 64.6 
+Jeff_Goldblum/zbAwW7WryQA_0000002 92.9 97.7 
+Jeff_Goldblum/zbAwW7WryQA_0000003 130.0 136.4 
+Jeff_Goldblum/zbAwW7WryQA_0000004 169.3 174.0 
+Jeff_Goldblum/zbAwW7WryQA_0000005 176.7 183.1 
+Jeff_Goldblum/zbAwW7WryQA_0000006 185.8 190.5 
+Jeff_Goldblum/zbAwW7WryQA_0000007 203.1 208.6 
+Jeff_Goldblum/zbAwW7WryQA_0000008 249.4 264.1 
+Jeff_Goldblum/zbAwW7WryQA_0000009 272.7 287.2 
+Jeff_Goldblum/zbAwW7WryQA_0000010 298.3 303.3 
+Jeff_Goldblum/zbAwW7WryQA_0000011 306.2 317.3 
+Jeff_Goldblum/zbAwW7WryQA_0000012 322.7 327.6 

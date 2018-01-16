@@ -1,0 +1,11 @@
+POI: 			Kristen_Stewart 
+Youtube ID: 	Qc4ahnZzVM4 
+Video length: 	292.0 sec 
+Set (V): 		dev 
+ 
+Kristen_Stewart/Qc4ahnZzVM4_0000001 47.6 51.7 
+Kristen_Stewart/Qc4ahnZzVM4_0000002 61.6 66.9 
+Kristen_Stewart/Qc4ahnZzVM4_0000003 81.6 88.2 
+Kristen_Stewart/Qc4ahnZzVM4_0000004 114.7 120.2 
+Kristen_Stewart/Qc4ahnZzVM4_0000005 133.8 138.1 
+Kristen_Stewart/Qc4ahnZzVM4_0000006 139.2 143.9 

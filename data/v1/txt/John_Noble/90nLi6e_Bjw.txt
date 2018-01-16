@@ -1,0 +1,12 @@
+POI: 			John_Noble 
+Youtube ID: 	90nLi6e_Bjw 
+Video length: 	121.4 sec 
+Set (V): 		dev 
+ 
+John_Noble/90nLi6e_Bjw_0000001 09.2 15.0 
+John_Noble/90nLi6e_Bjw_0000002 15.9 21.6 
+John_Noble/90nLi6e_Bjw_0000003 22.1 29.4 
+John_Noble/90nLi6e_Bjw_0000004 50.6 59.0 
+John_Noble/90nLi6e_Bjw_0000005 59.0 66.2 
+John_Noble/90nLi6e_Bjw_0000006 81.8 91.6 
+John_Noble/90nLi6e_Bjw_0000007 99.1 106.4 

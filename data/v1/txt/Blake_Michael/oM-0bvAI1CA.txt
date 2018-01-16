@@ -1,0 +1,8 @@
+POI: 			Blake_Michael 
+Youtube ID: 	oM-0bvAI1CA 
+Video length: 	138.2 sec 
+Set (V): 		dev 
+ 
+Blake_Michael/oM-0bvAI1CA_0000001 47.5 52.0 
+Blake_Michael/oM-0bvAI1CA_0000002 87.2 95.6 
+Blake_Michael/oM-0bvAI1CA_0000003 104.7 108.9 

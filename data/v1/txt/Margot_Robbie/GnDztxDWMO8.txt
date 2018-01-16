@@ -1,0 +1,10 @@
+POI: 			Margot_Robbie 
+Youtube ID: 	GnDztxDWMO8 
+Video length: 	220.0 sec 
+Set (V): 		dev 
+ 
+Margot_Robbie/GnDztxDWMO8_0000001 88.8 94.7 
+Margot_Robbie/GnDztxDWMO8_0000002 180.2 185.0 
+Margot_Robbie/GnDztxDWMO8_0000003 189.5 200.2 
+Margot_Robbie/GnDztxDWMO8_0000004 202.8 214.2 
+Margot_Robbie/GnDztxDWMO8_0000005 184.2 188.8 

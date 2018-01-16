@@ -1,0 +1,7 @@
+POI: 			Danny_Pino 
+Youtube ID: 	sMSV5GJwb1Y 
+Video length: 	77.5 sec 
+Set (V): 		dev 
+ 
+Danny_Pino/sMSV5GJwb1Y_0000001 39.3 44.8 
+Danny_Pino/sMSV5GJwb1Y_0000002 60.3 68.8 

@@ -1,0 +1,10 @@
+POI: 			Kathy_Griffin 
+Youtube ID: 	VCogD7-KPow 
+Video length: 	804.0 sec 
+Set (V): 		dev 
+ 
+Kathy_Griffin/VCogD7-KPow_0000001 306.4 315.0 
+Kathy_Griffin/VCogD7-KPow_0000002 408.8 413.9 
+Kathy_Griffin/VCogD7-KPow_0000003 457.5 463.4 
+Kathy_Griffin/VCogD7-KPow_0000004 649.4 654.2 
+Kathy_Griffin/VCogD7-KPow_0000005 668.0 675.9 

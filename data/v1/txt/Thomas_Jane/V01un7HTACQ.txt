@@ -1,0 +1,7 @@
+POI: 			Thomas_Jane 
+Youtube ID: 	V01un7HTACQ 
+Video length: 	491.5 sec 
+Set (V): 		dev 
+ 
+Thomas_Jane/V01un7HTACQ_0000001 104.7 110.6 
+Thomas_Jane/V01un7HTACQ_0000002 237.5 248.8 

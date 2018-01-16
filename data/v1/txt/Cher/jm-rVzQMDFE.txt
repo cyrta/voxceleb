@@ -1,0 +1,7 @@
+POI: 			Cher 
+Youtube ID: 	jm-rVzQMDFE 
+Video length: 	353.1 sec 
+Set (V): 		dev 
+ 
+Cher/jm-rVzQMDFE_0000001 196.4 201.8 
+Cher/jm-rVzQMDFE_0000002 221.4 225.4 

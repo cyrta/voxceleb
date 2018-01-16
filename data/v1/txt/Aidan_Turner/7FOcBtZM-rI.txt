@@ -1,0 +1,12 @@
+POI: 			Aidan_Turner 
+Youtube ID: 	7FOcBtZM-rI 
+Video length: 	550.0 sec 
+Set (V): 		dev 
+ 
+Aidan_Turner/7FOcBtZM-rI_0000001 19.9 30.4 
+Aidan_Turner/7FOcBtZM-rI_0000002 59.8 68.8 
+Aidan_Turner/7FOcBtZM-rI_0000003 93.0 97.7 
+Aidan_Turner/7FOcBtZM-rI_0000004 107.9 120.8 
+Aidan_Turner/7FOcBtZM-rI_0000005 142.3 146.6 
+Aidan_Turner/7FOcBtZM-rI_0000006 142.3 146.5 
+Aidan_Turner/7FOcBtZM-rI_0000007 543.8 548.4 

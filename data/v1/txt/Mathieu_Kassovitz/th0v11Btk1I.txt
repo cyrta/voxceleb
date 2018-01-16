@@ -1,0 +1,45 @@
+POI: 			Mathieu_Kassovitz 
+Youtube ID: 	th0v11Btk1I 
+Video length: 	536.4 sec 
+Set (V): 		dev 
+ 
+Mathieu_Kassovitz/th0v11Btk1I_0000001 02.2 12.6 
+Mathieu_Kassovitz/th0v11Btk1I_0000002 13.2 19.0 
+Mathieu_Kassovitz/th0v11Btk1I_0000003 21.7 28.0 
+Mathieu_Kassovitz/th0v11Btk1I_0000004 35.3 45.9 
+Mathieu_Kassovitz/th0v11Btk1I_0000005 70.7 76.4 
+Mathieu_Kassovitz/th0v11Btk1I_0000006 79.4 84.4 
+Mathieu_Kassovitz/th0v11Btk1I_0000007 87.3 92.6 
+Mathieu_Kassovitz/th0v11Btk1I_0000008 103.4 113.3 
+Mathieu_Kassovitz/th0v11Btk1I_0000009 123.0 132.6 
+Mathieu_Kassovitz/th0v11Btk1I_0000010 135.6 144.2 
+Mathieu_Kassovitz/th0v11Btk1I_0000011 144.4 150.7 
+Mathieu_Kassovitz/th0v11Btk1I_0000012 151.4 156.4 
+Mathieu_Kassovitz/th0v11Btk1I_0000013 156.6 160.8 
+Mathieu_Kassovitz/th0v11Btk1I_0000014 161.3 166.5 
+Mathieu_Kassovitz/th0v11Btk1I_0000015 168.9 178.7 
+Mathieu_Kassovitz/th0v11Btk1I_0000016 184.8 189.4 
+Mathieu_Kassovitz/th0v11Btk1I_0000017 194.1 199.8 
+Mathieu_Kassovitz/th0v11Btk1I_0000018 201.4 209.2 
+Mathieu_Kassovitz/th0v11Btk1I_0000019 209.7 222.6 
+Mathieu_Kassovitz/th0v11Btk1I_0000020 237.0 245.5 
+Mathieu_Kassovitz/th0v11Btk1I_0000021 251.9 256.4 
+Mathieu_Kassovitz/th0v11Btk1I_0000022 269.1 275.9 
+Mathieu_Kassovitz/th0v11Btk1I_0000023 282.3 288.5 
+Mathieu_Kassovitz/th0v11Btk1I_0000024 297.0 302.3 
+Mathieu_Kassovitz/th0v11Btk1I_0000025 322.2 326.4 
+Mathieu_Kassovitz/th0v11Btk1I_0000026 331.7 337.8 
+Mathieu_Kassovitz/th0v11Btk1I_0000027 342.5 355.3 
+Mathieu_Kassovitz/th0v11Btk1I_0000028 356.3 365.2 
+Mathieu_Kassovitz/th0v11Btk1I_0000029 371.3 379.3 
+Mathieu_Kassovitz/th0v11Btk1I_0000030 381.2 387.1 
+Mathieu_Kassovitz/th0v11Btk1I_0000031 405.6 412.0 
+Mathieu_Kassovitz/th0v11Btk1I_0000032 421.0 427.0 
+Mathieu_Kassovitz/th0v11Btk1I_0000033 427.6 432.1 
+Mathieu_Kassovitz/th0v11Btk1I_0000034 434.8 438.8 
+Mathieu_Kassovitz/th0v11Btk1I_0000035 445.0 452.8 
+Mathieu_Kassovitz/th0v11Btk1I_0000036 459.1 467.3 
+Mathieu_Kassovitz/th0v11Btk1I_0000037 472.0 476.8 
+Mathieu_Kassovitz/th0v11Btk1I_0000038 496.0 502.2 
+Mathieu_Kassovitz/th0v11Btk1I_0000039 515.7 521.5 
+Mathieu_Kassovitz/th0v11Btk1I_0000040 523.1 530.2 

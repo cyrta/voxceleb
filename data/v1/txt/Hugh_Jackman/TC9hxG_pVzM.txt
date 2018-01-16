@@ -1,0 +1,11 @@
+POI: 			Hugh_Jackman 
+Youtube ID: 	TC9hxG_pVzM 
+Video length: 	217.5 sec 
+Set (V): 		dev 
+ 
+Hugh_Jackman/TC9hxG_pVzM_0000001 97.5 102.6 
+Hugh_Jackman/TC9hxG_pVzM_0000002 105.5 125.1 
+Hugh_Jackman/TC9hxG_pVzM_0000003 129.4 138.0 
+Hugh_Jackman/TC9hxG_pVzM_0000004 139.9 145.1 
+Hugh_Jackman/TC9hxG_pVzM_0000005 150.7 168.7 
+Hugh_Jackman/TC9hxG_pVzM_0000006 170.4 176.3 

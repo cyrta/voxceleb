@@ -1,0 +1,12 @@
+POI: 			Greg_Grunberg 
+Youtube ID: 	TRTiPm9s4dc 
+Video length: 	402.0 sec 
+Set (V): 		dev 
+ 
+Greg_Grunberg/TRTiPm9s4dc_0000001 47.2 62.6 
+Greg_Grunberg/TRTiPm9s4dc_0000002 68.5 93.0 
+Greg_Grunberg/TRTiPm9s4dc_0000003 107.8 132.0 
+Greg_Grunberg/TRTiPm9s4dc_0000004 145.7 178.4 
+Greg_Grunberg/TRTiPm9s4dc_0000005 180.8 212.0 
+Greg_Grunberg/TRTiPm9s4dc_0000006 342.5 373.5 
+Greg_Grunberg/TRTiPm9s4dc_0000007 386.1 392.6 

@@ -1,0 +1,17 @@
+POI: 			Edward_Asner 
+Youtube ID: 	rgcxEM5jOc4 
+Video length: 	322.0 sec 
+Set (V): 		test 
+ 
+Edward_Asner/rgcxEM5jOc4_0000001 16.0 20.2 
+Edward_Asner/rgcxEM5jOc4_0000002 24.5 31.7 
+Edward_Asner/rgcxEM5jOc4_0000003 70.4 78.9 
+Edward_Asner/rgcxEM5jOc4_0000004 86.8 100.6 
+Edward_Asner/rgcxEM5jOc4_0000005 104.9 116.3 
+Edward_Asner/rgcxEM5jOc4_0000006 123.2 135.4 
+Edward_Asner/rgcxEM5jOc4_0000007 136.6 141.9 
+Edward_Asner/rgcxEM5jOc4_0000008 149.2 154.5 
+Edward_Asner/rgcxEM5jOc4_0000009 208.2 213.8 
+Edward_Asner/rgcxEM5jOc4_0000010 228.2 233.1 
+Edward_Asner/rgcxEM5jOc4_0000011 263.4 269.1 
+Edward_Asner/rgcxEM5jOc4_0000012 293.6 304.4 

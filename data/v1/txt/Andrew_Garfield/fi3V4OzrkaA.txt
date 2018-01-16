@@ -1,0 +1,17 @@
+POI: 			Andrew_Garfield 
+Youtube ID: 	fi3V4OzrkaA 
+Video length: 	456.4 sec 
+Set (V): 		dev 
+ 
+Andrew_Garfield/fi3V4OzrkaA_0000001 61.5 77.6 
+Andrew_Garfield/fi3V4OzrkaA_0000002 87.1 120.9 
+Andrew_Garfield/fi3V4OzrkaA_0000003 234.3 239.6 
+Andrew_Garfield/fi3V4OzrkaA_0000004 245.8 250.2 
+Andrew_Garfield/fi3V4OzrkaA_0000005 257.5 262.5 
+Andrew_Garfield/fi3V4OzrkaA_0000006 305.2 309.3 
+Andrew_Garfield/fi3V4OzrkaA_0000007 309.9 324.7 
+Andrew_Garfield/fi3V4OzrkaA_0000008 359.6 371.7 
+Andrew_Garfield/fi3V4OzrkaA_0000009 396.9 401.7 
+Andrew_Garfield/fi3V4OzrkaA_0000010 401.8 407.4 
+Andrew_Garfield/fi3V4OzrkaA_0000011 410.8 424.2 
+Andrew_Garfield/fi3V4OzrkaA_0000012 429.0 439.4 

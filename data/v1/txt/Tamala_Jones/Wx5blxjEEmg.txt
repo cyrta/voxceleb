@@ -1,0 +1,12 @@
+POI: 			Tamala_Jones 
+Youtube ID: 	Wx5blxjEEmg 
+Video length: 	221.9 sec 
+Set (V): 		dev 
+ 
+Tamala_Jones/Wx5blxjEEmg_0000001 28.2 34.0 
+Tamala_Jones/Wx5blxjEEmg_0000002 36.5 45.8 
+Tamala_Jones/Wx5blxjEEmg_0000003 89.5 100.8 
+Tamala_Jones/Wx5blxjEEmg_0000004 100.9 111.7 
+Tamala_Jones/Wx5blxjEEmg_0000005 189.7 193.7 
+Tamala_Jones/Wx5blxjEEmg_0000006 196.9 204.0 
+Tamala_Jones/Wx5blxjEEmg_0000007 204.7 209.1 

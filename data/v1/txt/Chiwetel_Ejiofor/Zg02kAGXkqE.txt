@@ -1,0 +1,11 @@
+POI: 			Chiwetel_Ejiofor 
+Youtube ID: 	Zg02kAGXkqE 
+Video length: 	258.1 sec 
+Set (V): 		dev 
+ 
+Chiwetel_Ejiofor/Zg02kAGXkqE_0000001 39.0 65.9 
+Chiwetel_Ejiofor/Zg02kAGXkqE_0000002 66.6 70.9 
+Chiwetel_Ejiofor/Zg02kAGXkqE_0000003 123.9 131.1 
+Chiwetel_Ejiofor/Zg02kAGXkqE_0000004 134.6 142.1 
+Chiwetel_Ejiofor/Zg02kAGXkqE_0000005 161.8 173.2 
+Chiwetel_Ejiofor/Zg02kAGXkqE_0000006 178.7 184.8 

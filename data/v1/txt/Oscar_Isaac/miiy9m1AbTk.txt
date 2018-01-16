@@ -1,0 +1,18 @@
+POI: 			Oscar_Isaac 
+Youtube ID: 	miiy9m1AbTk 
+Video length: 	410.7 sec 
+Set (V): 		dev 
+ 
+Oscar_Isaac/miiy9m1AbTk_0000001 29.9 35.7 
+Oscar_Isaac/miiy9m1AbTk_0000002 51.6 60.6 
+Oscar_Isaac/miiy9m1AbTk_0000003 80.6 89.4 
+Oscar_Isaac/miiy9m1AbTk_0000004 90.0 109.4 
+Oscar_Isaac/miiy9m1AbTk_0000005 122.0 135.1 
+Oscar_Isaac/miiy9m1AbTk_0000006 138.0 148.2 
+Oscar_Isaac/miiy9m1AbTk_0000007 262.4 269.4 
+Oscar_Isaac/miiy9m1AbTk_0000008 315.9 323.5 
+Oscar_Isaac/miiy9m1AbTk_0000009 325.4 340.5 
+Oscar_Isaac/miiy9m1AbTk_0000010 192.1 206.8 
+Oscar_Isaac/miiy9m1AbTk_0000011 236.8 241.4 
+Oscar_Isaac/miiy9m1AbTk_0000012 243.1 252.5 
+Oscar_Isaac/miiy9m1AbTk_0000013 257.6 269.5 

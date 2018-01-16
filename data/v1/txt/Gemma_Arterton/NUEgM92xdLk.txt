@@ -1,0 +1,9 @@
+POI: 			Gemma_Arterton 
+Youtube ID: 	NUEgM92xdLk 
+Video length: 	283.0 sec 
+Set (V): 		dev 
+ 
+Gemma_Arterton/NUEgM92xdLk_0000001 22.4 29.0 
+Gemma_Arterton/NUEgM92xdLk_0000002 116.2 120.3 
+Gemma_Arterton/NUEgM92xdLk_0000003 138.3 143.1 
+Gemma_Arterton/NUEgM92xdLk_0000004 231.6 235.6 

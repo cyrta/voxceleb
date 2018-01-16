@@ -1,0 +1,8 @@
+POI: 			Thandie_Newton 
+Youtube ID: 	CwsXNfbwvS4 
+Video length: 	271.8 sec 
+Set (V): 		dev 
+ 
+Thandie_Newton/CwsXNfbwvS4_0000001 79.4 83.7 
+Thandie_Newton/CwsXNfbwvS4_0000002 128.2 135.9 
+Thandie_Newton/CwsXNfbwvS4_0000003 220.2 228.1 

@@ -1,0 +1,19 @@
+POI: 			Robert_Carlyle 
+Youtube ID: 	FT-BrQ1u7vs 
+Video length: 	195.4 sec 
+Set (V): 		dev 
+ 
+Robert_Carlyle/FT-BrQ1u7vs_0000001 13.4 17.4 
+Robert_Carlyle/FT-BrQ1u7vs_0000002 19.1 24.7 
+Robert_Carlyle/FT-BrQ1u7vs_0000003 40.7 44.7 
+Robert_Carlyle/FT-BrQ1u7vs_0000004 66.1 71.9 
+Robert_Carlyle/FT-BrQ1u7vs_0000005 76.8 82.4 
+Robert_Carlyle/FT-BrQ1u7vs_0000006 87.6 94.2 
+Robert_Carlyle/FT-BrQ1u7vs_0000007 97.5 103.0 
+Robert_Carlyle/FT-BrQ1u7vs_0000008 107.2 113.9 
+Robert_Carlyle/FT-BrQ1u7vs_0000009 114.3 122.2 
+Robert_Carlyle/FT-BrQ1u7vs_0000010 132.8 137.1 
+Robert_Carlyle/FT-BrQ1u7vs_0000011 146.8 153.3 
+Robert_Carlyle/FT-BrQ1u7vs_0000012 157.0 163.2 
+Robert_Carlyle/FT-BrQ1u7vs_0000013 163.8 174.5 
+Robert_Carlyle/FT-BrQ1u7vs_0000014 179.7 183.7 

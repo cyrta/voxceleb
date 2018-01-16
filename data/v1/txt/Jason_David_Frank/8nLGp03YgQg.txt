@@ -1,0 +1,30 @@
+POI: 			Jason_David_Frank 
+Youtube ID: 	8nLGp03YgQg 
+Video length: 	658.7 sec 
+Set (V): 		dev 
+ 
+Jason_David_Frank/8nLGp03YgQg_0000001 19.6 25.4 
+Jason_David_Frank/8nLGp03YgQg_0000002 38.1 45.5 
+Jason_David_Frank/8nLGp03YgQg_0000003 79.9 88.2 
+Jason_David_Frank/8nLGp03YgQg_0000004 96.8 102.2 
+Jason_David_Frank/8nLGp03YgQg_0000005 103.2 128.0 
+Jason_David_Frank/8nLGp03YgQg_0000006 128.9 140.6 
+Jason_David_Frank/8nLGp03YgQg_0000007 162.0 172.2 
+Jason_David_Frank/8nLGp03YgQg_0000008 189.2 193.1 
+Jason_David_Frank/8nLGp03YgQg_0000009 210.9 215.8 
+Jason_David_Frank/8nLGp03YgQg_0000010 223.7 231.4 
+Jason_David_Frank/8nLGp03YgQg_0000011 356.6 361.2 
+Jason_David_Frank/8nLGp03YgQg_0000012 369.5 380.5 
+Jason_David_Frank/8nLGp03YgQg_0000013 387.1 391.5 
+Jason_David_Frank/8nLGp03YgQg_0000014 394.2 399.5 
+Jason_David_Frank/8nLGp03YgQg_0000015 400.3 406.0 
+Jason_David_Frank/8nLGp03YgQg_0000016 407.6 423.2 
+Jason_David_Frank/8nLGp03YgQg_0000017 444.0 459.1 
+Jason_David_Frank/8nLGp03YgQg_0000018 477.0 488.5 
+Jason_David_Frank/8nLGp03YgQg_0000019 492.0 499.4 
+Jason_David_Frank/8nLGp03YgQg_0000020 500.8 515.9 
+Jason_David_Frank/8nLGp03YgQg_0000021 524.4 534.0 
+Jason_David_Frank/8nLGp03YgQg_0000022 569.6 577.0 
+Jason_David_Frank/8nLGp03YgQg_0000023 584.9 590.8 
+Jason_David_Frank/8nLGp03YgQg_0000024 605.8 612.4 
+Jason_David_Frank/8nLGp03YgQg_0000025 617.0 622.6 

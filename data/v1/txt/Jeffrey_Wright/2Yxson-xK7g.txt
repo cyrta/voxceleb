@@ -1,0 +1,7 @@
+POI: 			Jeffrey_Wright 
+Youtube ID: 	2Yxson-xK7g 
+Video length: 	262.6 sec 
+Set (V): 		dev 
+ 
+Jeffrey_Wright/2Yxson-xK7g_0000001 40.4 45.2 
+Jeffrey_Wright/2Yxson-xK7g_0000002 48.9 54.6 

@@ -1,0 +1,7 @@
+POI: 			Michael_Weatherly 
+Youtube ID: 	lDBgi5HZ6s8 
+Video length: 	334.7 sec 
+Set (V): 		dev 
+ 
+Michael_Weatherly/lDBgi5HZ6s8_0000001 158.5 184.5 
+Michael_Weatherly/lDBgi5HZ6s8_0000002 260.0 264.4 

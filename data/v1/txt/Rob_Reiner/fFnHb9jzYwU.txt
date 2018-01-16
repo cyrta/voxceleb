@@ -1,0 +1,14 @@
+POI: 			Rob_Reiner 
+Youtube ID: 	fFnHb9jzYwU 
+Video length: 	119.6 sec 
+Set (V): 		dev 
+ 
+Rob_Reiner/fFnHb9jzYwU_0000001 06.1 17.6 
+Rob_Reiner/fFnHb9jzYwU_0000002 17.9 34.7 
+Rob_Reiner/fFnHb9jzYwU_0000003 38.2 46.4 
+Rob_Reiner/fFnHb9jzYwU_0000004 48.9 55.5 
+Rob_Reiner/fFnHb9jzYwU_0000005 55.8 62.5 
+Rob_Reiner/fFnHb9jzYwU_0000006 69.6 74.8 
+Rob_Reiner/fFnHb9jzYwU_0000007 75.5 90.6 
+Rob_Reiner/fFnHb9jzYwU_0000008 91.6 98.5 
+Rob_Reiner/fFnHb9jzYwU_0000009 101.6 106.7 

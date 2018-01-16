@@ -1,0 +1,15 @@
+POI: 			Kyle_Richards 
+Youtube ID: 	cOP0JVZogmA 
+Video length: 	405.0 sec 
+Set (V): 		dev 
+ 
+Kyle_Richards/cOP0JVZogmA_0000001 45.1 53.1 
+Kyle_Richards/cOP0JVZogmA_0000002 116.3 124.2 
+Kyle_Richards/cOP0JVZogmA_0000003 124.4 129.0 
+Kyle_Richards/cOP0JVZogmA_0000004 130.6 144.0 
+Kyle_Richards/cOP0JVZogmA_0000005 147.2 155.4 
+Kyle_Richards/cOP0JVZogmA_0000006 258.3 263.8 
+Kyle_Richards/cOP0JVZogmA_0000007 264.5 287.2 
+Kyle_Richards/cOP0JVZogmA_0000008 294.0 303.1 
+Kyle_Richards/cOP0JVZogmA_0000009 304.5 309.0 
+Kyle_Richards/cOP0JVZogmA_0000010 342.9 349.7 

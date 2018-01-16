@@ -1,0 +1,7 @@
+POI: 			Teala_Dunn 
+Youtube ID: 	bAS7EqoDW-Q 
+Video length: 	144.9 sec 
+Set (V): 		dev 
+ 
+Teala_Dunn/bAS7EqoDW-Q_0000001 89.0 95.6 
+Teala_Dunn/bAS7EqoDW-Q_0000002 108.0 116.6 

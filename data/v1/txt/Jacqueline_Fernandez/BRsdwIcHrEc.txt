@@ -1,0 +1,23 @@
+POI: 			Jacqueline_Fernandez 
+Youtube ID: 	BRsdwIcHrEc 
+Video length: 	1105.3 sec 
+Set (V): 		dev 
+ 
+Jacqueline_Fernandez/BRsdwIcHrEc_0000001 153.0 158.0 
+Jacqueline_Fernandez/BRsdwIcHrEc_0000002 218.8 223.8 
+Jacqueline_Fernandez/BRsdwIcHrEc_0000003 242.7 246.8 
+Jacqueline_Fernandez/BRsdwIcHrEc_0000004 289.0 296.6 
+Jacqueline_Fernandez/BRsdwIcHrEc_0000005 323.1 328.6 
+Jacqueline_Fernandez/BRsdwIcHrEc_0000006 372.4 376.7 
+Jacqueline_Fernandez/BRsdwIcHrEc_0000007 553.4 558.0 
+Jacqueline_Fernandez/BRsdwIcHrEc_0000008 566.2 571.3 
+Jacqueline_Fernandez/BRsdwIcHrEc_0000009 688.8 698.2 
+Jacqueline_Fernandez/BRsdwIcHrEc_0000010 712.0 719.8 
+Jacqueline_Fernandez/BRsdwIcHrEc_0000011 747.0 752.7 
+Jacqueline_Fernandez/BRsdwIcHrEc_0000012 761.4 765.5 
+Jacqueline_Fernandez/BRsdwIcHrEc_0000013 772.3 779.4 
+Jacqueline_Fernandez/BRsdwIcHrEc_0000014 846.2 851.0 
+Jacqueline_Fernandez/BRsdwIcHrEc_0000015 885.6 890.3 
+Jacqueline_Fernandez/BRsdwIcHrEc_0000016 896.0 902.0 
+Jacqueline_Fernandez/BRsdwIcHrEc_0000017 909.6 913.6 
+Jacqueline_Fernandez/BRsdwIcHrEc_0000018 997.7 1003.8 

@@ -1,0 +1,9 @@
+POI: 			Quentin_Tarantino 
+Youtube ID: 	eL3k5NtBUaI 
+Video length: 	266.6 sec 
+Set (V): 		dev 
+ 
+Quentin_Tarantino/eL3k5NtBUaI_0000001 111.8 123.6 
+Quentin_Tarantino/eL3k5NtBUaI_0000002 135.9 149.1 
+Quentin_Tarantino/eL3k5NtBUaI_0000003 156.6 160.8 
+Quentin_Tarantino/eL3k5NtBUaI_0000004 209.0 216.4 

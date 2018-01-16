@@ -1,0 +1,7 @@
+POI: 			Tamsin_Greig 
+Youtube ID: 	GQOgAr4WdCc 
+Video length: 	2450.4 sec 
+Set (V): 		dev 
+ 
+Tamsin_Greig/GQOgAr4WdCc_0000001 508.8 518.3 
+Tamsin_Greig/GQOgAr4WdCc_0000002 1115.3 1120.6 

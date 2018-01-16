@@ -1,0 +1,13 @@
+POI: 			Bob_Barker 
+Youtube ID: 	w02jeR_pJZ0 
+Video length: 	383.5 sec 
+Set (V): 		dev 
+ 
+Bob_Barker/w02jeR_pJZ0_0000001 26.2 30.7 
+Bob_Barker/w02jeR_pJZ0_0000002 148.6 152.9 
+Bob_Barker/w02jeR_pJZ0_0000003 187.4 195.7 
+Bob_Barker/w02jeR_pJZ0_0000004 196.2 201.6 
+Bob_Barker/w02jeR_pJZ0_0000005 202.3 207.4 
+Bob_Barker/w02jeR_pJZ0_0000006 263.5 268.9 
+Bob_Barker/w02jeR_pJZ0_0000007 269.1 277.1 
+Bob_Barker/w02jeR_pJZ0_0000008 281.7 292.0 

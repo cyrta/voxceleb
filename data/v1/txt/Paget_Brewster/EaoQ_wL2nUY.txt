@@ -1,0 +1,11 @@
+POI: 			Paget_Brewster 
+Youtube ID: 	EaoQ_wL2nUY 
+Video length: 	488.0 sec 
+Set (V): 		dev 
+ 
+Paget_Brewster/EaoQ_wL2nUY_0000001 41.2 45.9 
+Paget_Brewster/EaoQ_wL2nUY_0000002 110.5 116.0 
+Paget_Brewster/EaoQ_wL2nUY_0000003 147.2 153.8 
+Paget_Brewster/EaoQ_wL2nUY_0000004 156.1 165.0 
+Paget_Brewster/EaoQ_wL2nUY_0000005 223.3 227.8 
+Paget_Brewster/EaoQ_wL2nUY_0000006 237.0 246.3 

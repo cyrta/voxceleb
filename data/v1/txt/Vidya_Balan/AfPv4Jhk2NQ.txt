@@ -1,0 +1,9 @@
+POI: 			Vidya_Balan 
+Youtube ID: 	AfPv4Jhk2NQ 
+Video length: 	725.6 sec 
+Set (V): 		dev 
+ 
+Vidya_Balan/AfPv4Jhk2NQ_0000001 160.3 165.2 
+Vidya_Balan/AfPv4Jhk2NQ_0000002 178.0 186.8 
+Vidya_Balan/AfPv4Jhk2NQ_0000003 424.8 431.9 
+Vidya_Balan/AfPv4Jhk2NQ_0000004 459.2 463.4 

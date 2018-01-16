@@ -1,0 +1,12 @@
+POI: 			Jennette_McCurdy 
+Youtube ID: 	m8HX6gKpoGQ 
+Video length: 	253.5 sec 
+Set (V): 		dev 
+ 
+Jennette_McCurdy/m8HX6gKpoGQ_0000001 96.9 115.2 
+Jennette_McCurdy/m8HX6gKpoGQ_0000002 115.3 122.6 
+Jennette_McCurdy/m8HX6gKpoGQ_0000003 160.9 165.6 
+Jennette_McCurdy/m8HX6gKpoGQ_0000004 166.4 173.9 
+Jennette_McCurdy/m8HX6gKpoGQ_0000005 174.3 179.7 
+Jennette_McCurdy/m8HX6gKpoGQ_0000006 184.2 193.4 
+Jennette_McCurdy/m8HX6gKpoGQ_0000007 223.7 230.1 

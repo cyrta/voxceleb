@@ -1,0 +1,20 @@
+POI: 			Paolo_Sorrentino 
+Youtube ID: 	Nrj-HVAXoL8 
+Video length: 	1336.9 sec 
+Set (V): 		dev 
+ 
+Paolo_Sorrentino/Nrj-HVAXoL8_0000001 313.2 318.9 
+Paolo_Sorrentino/Nrj-HVAXoL8_0000002 341.9 350.5 
+Paolo_Sorrentino/Nrj-HVAXoL8_0000003 358.4 362.6 
+Paolo_Sorrentino/Nrj-HVAXoL8_0000004 369.2 378.4 
+Paolo_Sorrentino/Nrj-HVAXoL8_0000005 540.9 545.3 
+Paolo_Sorrentino/Nrj-HVAXoL8_0000006 745.1 750.5 
+Paolo_Sorrentino/Nrj-HVAXoL8_0000007 773.0 787.5 
+Paolo_Sorrentino/Nrj-HVAXoL8_0000008 788.7 794.1 
+Paolo_Sorrentino/Nrj-HVAXoL8_0000009 807.8 812.2 
+Paolo_Sorrentino/Nrj-HVAXoL8_0000010 817.2 825.6 
+Paolo_Sorrentino/Nrj-HVAXoL8_0000011 937.5 944.8 
+Paolo_Sorrentino/Nrj-HVAXoL8_0000012 945.0 949.3 
+Paolo_Sorrentino/Nrj-HVAXoL8_0000013 992.8 1000.2 
+Paolo_Sorrentino/Nrj-HVAXoL8_0000014 1006.9 1015.0 
+Paolo_Sorrentino/Nrj-HVAXoL8_0000015 1023.8 1033.2 

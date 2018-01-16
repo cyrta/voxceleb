@@ -1,0 +1,10 @@
+POI: 			Scott_Porter 
+Youtube ID: 	jg7RWPOCBR0 
+Video length: 	330.5 sec 
+Set (V): 		dev 
+ 
+Scott_Porter/jg7RWPOCBR0_0000001 36.7 49.1 
+Scott_Porter/jg7RWPOCBR0_0000002 63.8 75.8 
+Scott_Porter/jg7RWPOCBR0_0000003 56.5 63.5 
+Scott_Porter/jg7RWPOCBR0_0000004 130.3 160.3 
+Scott_Porter/jg7RWPOCBR0_0000005 160.8 167.7 

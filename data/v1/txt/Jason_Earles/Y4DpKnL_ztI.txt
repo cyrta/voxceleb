@@ -1,0 +1,15 @@
+POI: 			Jason_Earles 
+Youtube ID: 	Y4DpKnL_ztI 
+Video length: 	138.4 sec 
+Set (V): 		dev 
+ 
+Jason_Earles/Y4DpKnL_ztI_0000001 05.0 12.7 
+Jason_Earles/Y4DpKnL_ztI_0000002 21.5 45.7 
+Jason_Earles/Y4DpKnL_ztI_0000003 52.6 58.9 
+Jason_Earles/Y4DpKnL_ztI_0000004 63.2 68.8 
+Jason_Earles/Y4DpKnL_ztI_0000005 72.6 77.7 
+Jason_Earles/Y4DpKnL_ztI_0000006 79.0 97.1 
+Jason_Earles/Y4DpKnL_ztI_0000007 62.6 68.8 
+Jason_Earles/Y4DpKnL_ztI_0000008 72.8 80.8 
+Jason_Earles/Y4DpKnL_ztI_0000009 104.2 111.6 
+Jason_Earles/Y4DpKnL_ztI_0000010 119.9 125.8 

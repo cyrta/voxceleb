@@ -1,0 +1,17 @@
+POI: 			Bobby_Cannavale 
+Youtube ID: 	FkDDTYaAq44 
+Video length: 	244.3 sec 
+Set (V): 		dev 
+ 
+Bobby_Cannavale/FkDDTYaAq44_0000001 09.2 15.7 
+Bobby_Cannavale/FkDDTYaAq44_0000002 17.2 22.7 
+Bobby_Cannavale/FkDDTYaAq44_0000003 26.5 33.4 
+Bobby_Cannavale/FkDDTYaAq44_0000004 53.7 63.9 
+Bobby_Cannavale/FkDDTYaAq44_0000005 73.5 86.4 
+Bobby_Cannavale/FkDDTYaAq44_0000006 105.6 123.2 
+Bobby_Cannavale/FkDDTYaAq44_0000007 124.5 129.8 
+Bobby_Cannavale/FkDDTYaAq44_0000008 133.2 149.6 
+Bobby_Cannavale/FkDDTYaAq44_0000009 153.2 160.5 
+Bobby_Cannavale/FkDDTYaAq44_0000010 205.8 209.9 
+Bobby_Cannavale/FkDDTYaAq44_0000011 212.2 230.6 
+Bobby_Cannavale/FkDDTYaAq44_0000012 231.0 236.2 

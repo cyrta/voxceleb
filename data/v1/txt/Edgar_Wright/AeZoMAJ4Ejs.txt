@@ -1,0 +1,26 @@
+POI: 			Edgar_Wright 
+Youtube ID: 	AeZoMAJ4Ejs 
+Video length: 	489.1 sec 
+Set (V): 		test 
+ 
+Edgar_Wright/AeZoMAJ4Ejs_0000001 29.8 34.0 
+Edgar_Wright/AeZoMAJ4Ejs_0000002 34.3 45.6 
+Edgar_Wright/AeZoMAJ4Ejs_0000003 47.6 54.9 
+Edgar_Wright/AeZoMAJ4Ejs_0000004 56.8 68.9 
+Edgar_Wright/AeZoMAJ4Ejs_0000005 69.7 74.7 
+Edgar_Wright/AeZoMAJ4Ejs_0000006 75.1 79.7 
+Edgar_Wright/AeZoMAJ4Ejs_0000007 80.4 85.1 
+Edgar_Wright/AeZoMAJ4Ejs_0000008 119.9 141.4 
+Edgar_Wright/AeZoMAJ4Ejs_0000009 142.9 152.1 
+Edgar_Wright/AeZoMAJ4Ejs_0000010 152.6 161.1 
+Edgar_Wright/AeZoMAJ4Ejs_0000011 162.7 174.6 
+Edgar_Wright/AeZoMAJ4Ejs_0000012 174.7 182.9 
+Edgar_Wright/AeZoMAJ4Ejs_0000013 185.8 203.3 
+Edgar_Wright/AeZoMAJ4Ejs_0000014 222.4 241.2 
+Edgar_Wright/AeZoMAJ4Ejs_0000015 241.5 249.0 
+Edgar_Wright/AeZoMAJ4Ejs_0000016 256.4 263.1 
+Edgar_Wright/AeZoMAJ4Ejs_0000017 263.8 270.8 
+Edgar_Wright/AeZoMAJ4Ejs_0000018 322.4 329.2 
+Edgar_Wright/AeZoMAJ4Ejs_0000019 337.3 343.3 
+Edgar_Wright/AeZoMAJ4Ejs_0000020 348.4 356.3 
+Edgar_Wright/AeZoMAJ4Ejs_0000021 359.5 379.0 

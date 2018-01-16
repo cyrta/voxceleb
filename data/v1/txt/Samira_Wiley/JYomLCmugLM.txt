@@ -1,0 +1,8 @@
+POI: 			Samira_Wiley 
+Youtube ID: 	JYomLCmugLM 
+Video length: 	132.6 sec 
+Set (V): 		dev 
+ 
+Samira_Wiley/JYomLCmugLM_0000001 37.8 43.3 
+Samira_Wiley/JYomLCmugLM_0000002 66.8 71.2 
+Samira_Wiley/JYomLCmugLM_0000003 78.2 82.7 

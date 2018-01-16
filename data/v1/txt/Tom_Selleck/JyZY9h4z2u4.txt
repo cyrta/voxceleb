@@ -1,0 +1,19 @@
+POI: 			Tom_Selleck 
+Youtube ID: 	JyZY9h4z2u4 
+Video length: 	486.7 sec 
+Set (V): 		dev 
+ 
+Tom_Selleck/JyZY9h4z2u4_0000001 57.8 62.8 
+Tom_Selleck/JyZY9h4z2u4_0000002 68.7 73.4 
+Tom_Selleck/JyZY9h4z2u4_0000003 91.5 96.6 
+Tom_Selleck/JyZY9h4z2u4_0000004 192.0 198.7 
+Tom_Selleck/JyZY9h4z2u4_0000005 200.0 205.3 
+Tom_Selleck/JyZY9h4z2u4_0000006 232.0 236.6 
+Tom_Selleck/JyZY9h4z2u4_0000007 265.9 276.2 
+Tom_Selleck/JyZY9h4z2u4_0000008 291.4 295.5 
+Tom_Selleck/JyZY9h4z2u4_0000009 297.8 302.9 
+Tom_Selleck/JyZY9h4z2u4_0000010 307.6 311.9 
+Tom_Selleck/JyZY9h4z2u4_0000011 341.4 346.8 
+Tom_Selleck/JyZY9h4z2u4_0000012 436.2 440.8 
+Tom_Selleck/JyZY9h4z2u4_0000013 442.8 447.7 
+Tom_Selleck/JyZY9h4z2u4_0000014 466.4 475.6 

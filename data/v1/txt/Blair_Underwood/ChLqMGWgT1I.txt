@@ -1,0 +1,8 @@
+POI: 			Blair_Underwood 
+Youtube ID: 	ChLqMGWgT1I 
+Video length: 	172.3 sec 
+Set (V): 		dev 
+ 
+Blair_Underwood/ChLqMGWgT1I_0000001 88.1 92.4 
+Blair_Underwood/ChLqMGWgT1I_0000002 134.7 139.5 
+Blair_Underwood/ChLqMGWgT1I_0000003 142.5 147.8 

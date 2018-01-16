@@ -1,0 +1,7 @@
+POI: 			Linda_Evans 
+Youtube ID: 	bjHrcEgzL0k 
+Video length: 	399.0 sec 
+Set (V): 		dev 
+ 
+Linda_Evans/bjHrcEgzL0k_0000001 267.9 273.5 
+Linda_Evans/bjHrcEgzL0k_0000002 278.4 284.5 

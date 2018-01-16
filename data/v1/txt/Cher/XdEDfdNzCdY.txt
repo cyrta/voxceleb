@@ -1,0 +1,12 @@
+POI: 			Cher 
+Youtube ID: 	XdEDfdNzCdY 
+Video length: 	144.5 sec 
+Set (V): 		dev 
+ 
+Cher/XdEDfdNzCdY_0000001 41.4 50.0 
+Cher/XdEDfdNzCdY_0000002 53.0 60.3 
+Cher/XdEDfdNzCdY_0000003 72.2 81.3 
+Cher/XdEDfdNzCdY_0000004 83.2 89.0 
+Cher/XdEDfdNzCdY_0000005 95.8 105.0 
+Cher/XdEDfdNzCdY_0000006 107.8 112.0 
+Cher/XdEDfdNzCdY_0000007 131.2 137.0 

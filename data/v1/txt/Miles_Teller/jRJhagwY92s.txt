@@ -1,0 +1,22 @@
+POI: 			Miles_Teller 
+Youtube ID: 	jRJhagwY92s 
+Video length: 	297.2 sec 
+Set (V): 		dev 
+ 
+Miles_Teller/jRJhagwY92s_0000001 13.6 18.2 
+Miles_Teller/jRJhagwY92s_0000002 19.0 25.2 
+Miles_Teller/jRJhagwY92s_0000003 25.7 41.0 
+Miles_Teller/jRJhagwY92s_0000004 45.4 53.3 
+Miles_Teller/jRJhagwY92s_0000005 73.3 83.3 
+Miles_Teller/jRJhagwY92s_0000006 85.0 104.8 
+Miles_Teller/jRJhagwY92s_0000007 122.0 126.1 
+Miles_Teller/jRJhagwY92s_0000008 126.4 135.7 
+Miles_Teller/jRJhagwY92s_0000009 135.9 155.3 
+Miles_Teller/jRJhagwY92s_0000010 172.8 177.3 
+Miles_Teller/jRJhagwY92s_0000011 180.7 188.0 
+Miles_Teller/jRJhagwY92s_0000012 190.3 210.5 
+Miles_Teller/jRJhagwY92s_0000013 240.7 245.0 
+Miles_Teller/jRJhagwY92s_0000014 249.1 256.5 
+Miles_Teller/jRJhagwY92s_0000015 263.3 269.6 
+Miles_Teller/jRJhagwY92s_0000016 274.6 278.6 
+Miles_Teller/jRJhagwY92s_0000017 280.2 290.6 

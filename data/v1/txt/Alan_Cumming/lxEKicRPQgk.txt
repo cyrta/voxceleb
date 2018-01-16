@@ -1,0 +1,9 @@
+POI: 			Alan_Cumming 
+Youtube ID: 	lxEKicRPQgk 
+Video length: 	225.0 sec 
+Set (V): 		dev 
+ 
+Alan_Cumming/lxEKicRPQgk_0000001 13.4 26.3 
+Alan_Cumming/lxEKicRPQgk_0000002 49.8 57.5 
+Alan_Cumming/lxEKicRPQgk_0000003 79.6 88.5 
+Alan_Cumming/lxEKicRPQgk_0000004 142.1 153.3 

@@ -1,0 +1,15 @@
+POI: 			Tim_Daly 
+Youtube ID: 	1lzMgm69tTk 
+Video length: 	702.1 sec 
+Set (V): 		dev 
+ 
+Tim_Daly/1lzMgm69tTk_0000001 88.5 94.2 
+Tim_Daly/1lzMgm69tTk_0000002 101.9 106.2 
+Tim_Daly/1lzMgm69tTk_0000003 172.1 176.7 
+Tim_Daly/1lzMgm69tTk_0000004 177.2 187.9 
+Tim_Daly/1lzMgm69tTk_0000005 195.9 201.0 
+Tim_Daly/1lzMgm69tTk_0000006 208.9 216.2 
+Tim_Daly/1lzMgm69tTk_0000007 263.2 269.2 
+Tim_Daly/1lzMgm69tTk_0000008 297.6 301.6 
+Tim_Daly/1lzMgm69tTk_0000009 309.0 325.8 
+Tim_Daly/1lzMgm69tTk_0000010 345.0 349.0 

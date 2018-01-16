@@ -1,0 +1,12 @@
+POI: 			Daniel_Craig 
+Youtube ID: 	dKv7e96RdhU 
+Video length: 	264.2 sec 
+Set (V): 		dev 
+ 
+Daniel_Craig/dKv7e96RdhU_0000001 31.3 37.8 
+Daniel_Craig/dKv7e96RdhU_0000002 39.2 47.2 
+Daniel_Craig/dKv7e96RdhU_0000003 47.4 59.2 
+Daniel_Craig/dKv7e96RdhU_0000004 155.4 159.9 
+Daniel_Craig/dKv7e96RdhU_0000005 210.7 216.2 
+Daniel_Craig/dKv7e96RdhU_0000006 216.4 220.6 
+Daniel_Craig/dKv7e96RdhU_0000007 224.2 231.6 

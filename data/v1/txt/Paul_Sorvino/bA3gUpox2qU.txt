@@ -1,0 +1,11 @@
+POI: 			Paul_Sorvino 
+Youtube ID: 	bA3gUpox2qU 
+Video length: 	352.1 sec 
+Set (V): 		dev 
+ 
+Paul_Sorvino/bA3gUpox2qU_0000001 67.7 77.2 
+Paul_Sorvino/bA3gUpox2qU_0000002 183.8 188.4 
+Paul_Sorvino/bA3gUpox2qU_0000003 198.9 204.0 
+Paul_Sorvino/bA3gUpox2qU_0000004 206.3 218.0 
+Paul_Sorvino/bA3gUpox2qU_0000005 230.4 238.5 
+Paul_Sorvino/bA3gUpox2qU_0000006 254.4 259.0 

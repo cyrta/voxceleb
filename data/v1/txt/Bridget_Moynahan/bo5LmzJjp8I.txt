@@ -1,0 +1,9 @@
+POI: 			Bridget_Moynahan 
+Youtube ID: 	bo5LmzJjp8I 
+Video length: 	126.2 sec 
+Set (V): 		dev 
+ 
+Bridget_Moynahan/bo5LmzJjp8I_0000001 06.6 22.5 
+Bridget_Moynahan/bo5LmzJjp8I_0000002 25.1 31.6 
+Bridget_Moynahan/bo5LmzJjp8I_0000003 39.0 45.9 
+Bridget_Moynahan/bo5LmzJjp8I_0000004 70.6 79.5 

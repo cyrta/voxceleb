@@ -1,0 +1,17 @@
+POI: 			Janeane_Garofalo 
+Youtube ID: 	wpYFF_dHMTI 
+Video length: 	474.6 sec 
+Set (V): 		dev 
+ 
+Janeane_Garofalo/wpYFF_dHMTI_0000001 55.8 71.6 
+Janeane_Garofalo/wpYFF_dHMTI_0000002 84.7 92.0 
+Janeane_Garofalo/wpYFF_dHMTI_0000003 180.5 195.9 
+Janeane_Garofalo/wpYFF_dHMTI_0000004 219.0 228.0 
+Janeane_Garofalo/wpYFF_dHMTI_0000005 245.4 257.3 
+Janeane_Garofalo/wpYFF_dHMTI_0000006 299.7 304.2 
+Janeane_Garofalo/wpYFF_dHMTI_0000007 324.0 329.7 
+Janeane_Garofalo/wpYFF_dHMTI_0000008 354.3 360.5 
+Janeane_Garofalo/wpYFF_dHMTI_0000009 378.2 383.8 
+Janeane_Garofalo/wpYFF_dHMTI_0000010 393.7 397.8 
+Janeane_Garofalo/wpYFF_dHMTI_0000011 428.0 433.4 
+Janeane_Garofalo/wpYFF_dHMTI_0000012 437.4 441.5 

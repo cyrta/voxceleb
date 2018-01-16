@@ -1,0 +1,12 @@
+POI: 			B.J._Novak 
+Youtube ID: 	v-_NT7zmIc0 
+Video length: 	217.0 sec 
+Set (V): 		dev 
+ 
+B.J._Novak/v-_NT7zmIc0_0000001 27.5 54.4 
+B.J._Novak/v-_NT7zmIc0_0000002 55.4 65.5 
+B.J._Novak/v-_NT7zmIc0_0000003 67.5 88.2 
+B.J._Novak/v-_NT7zmIc0_0000004 88.6 111.1 
+B.J._Novak/v-_NT7zmIc0_0000005 125.7 133.7 
+B.J._Novak/v-_NT7zmIc0_0000006 134.2 191.4 
+B.J._Novak/v-_NT7zmIc0_0000007 196.2 202.7 

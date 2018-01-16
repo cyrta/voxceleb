@@ -1,0 +1,18 @@
+POI: 			Kal_Penn 
+Youtube ID: 	dw3jdmmTLx4 
+Video length: 	206.1 sec 
+Set (V): 		dev 
+ 
+Kal_Penn/dw3jdmmTLx4_0000001 08.0 13.4 
+Kal_Penn/dw3jdmmTLx4_0000002 21.2 39.3 
+Kal_Penn/dw3jdmmTLx4_0000003 42.9 48.0 
+Kal_Penn/dw3jdmmTLx4_0000004 58.2 68.0 
+Kal_Penn/dw3jdmmTLx4_0000005 68.7 74.2 
+Kal_Penn/dw3jdmmTLx4_0000006 83.1 94.2 
+Kal_Penn/dw3jdmmTLx4_0000007 105.6 120.1 
+Kal_Penn/dw3jdmmTLx4_0000008 121.5 138.8 
+Kal_Penn/dw3jdmmTLx4_0000009 145.8 153.5 
+Kal_Penn/dw3jdmmTLx4_0000010 154.3 158.6 
+Kal_Penn/dw3jdmmTLx4_0000011 161.8 172.3 
+Kal_Penn/dw3jdmmTLx4_0000012 178.0 195.3 
+Kal_Penn/dw3jdmmTLx4_0000013 196.1 202.4 

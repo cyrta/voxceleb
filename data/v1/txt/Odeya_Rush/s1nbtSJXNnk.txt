@@ -1,0 +1,10 @@
+POI: 			Odeya_Rush 
+Youtube ID: 	s1nbtSJXNnk 
+Video length: 	493.4 sec 
+Set (V): 		dev 
+ 
+Odeya_Rush/s1nbtSJXNnk_0000001 29.0 39.3 
+Odeya_Rush/s1nbtSJXNnk_0000002 106.3 112.0 
+Odeya_Rush/s1nbtSJXNnk_0000003 147.7 152.0 
+Odeya_Rush/s1nbtSJXNnk_0000004 382.0 388.7 
+Odeya_Rush/s1nbtSJXNnk_0000005 389.7 401.3 

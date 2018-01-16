@@ -1,0 +1,10 @@
+POI: 			Cindy_Williams 
+Youtube ID: 	cnqmxToUg5E 
+Video length: 	255.8 sec 
+Set (V): 		dev 
+ 
+Cindy_Williams/cnqmxToUg5E_0000001 75.7 85.6 
+Cindy_Williams/cnqmxToUg5E_0000002 105.7 110.9 
+Cindy_Williams/cnqmxToUg5E_0000003 155.6 165.6 
+Cindy_Williams/cnqmxToUg5E_0000004 188.7 206.2 
+Cindy_Williams/cnqmxToUg5E_0000005 233.9 247.0 

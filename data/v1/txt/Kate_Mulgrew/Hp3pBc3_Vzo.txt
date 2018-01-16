@@ -1,0 +1,8 @@
+POI: 			Kate_Mulgrew 
+Youtube ID: 	Hp3pBc3_Vzo 
+Video length: 	204.3 sec 
+Set (V): 		dev 
+ 
+Kate_Mulgrew/Hp3pBc3_Vzo_0000001 38.9 49.5 
+Kate_Mulgrew/Hp3pBc3_Vzo_0000002 132.6 148.3 
+Kate_Mulgrew/Hp3pBc3_Vzo_0000003 170.8 180.3 

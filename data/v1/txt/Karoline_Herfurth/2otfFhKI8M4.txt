@@ -1,0 +1,10 @@
+POI: 			Karoline_Herfurth 
+Youtube ID: 	2otfFhKI8M4 
+Video length: 	339.4 sec 
+Set (V): 		dev 
+ 
+Karoline_Herfurth/2otfFhKI8M4_0000001 91.2 95.3 
+Karoline_Herfurth/2otfFhKI8M4_0000002 95.4 103.4 
+Karoline_Herfurth/2otfFhKI8M4_0000003 105.0 111.0 
+Karoline_Herfurth/2otfFhKI8M4_0000004 111.5 117.4 
+Karoline_Herfurth/2otfFhKI8M4_0000005 165.0 171.4 

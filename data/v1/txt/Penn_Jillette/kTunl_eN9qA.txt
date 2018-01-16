@@ -1,0 +1,7 @@
+POI: 			Penn_Jillette 
+Youtube ID: 	kTunl_eN9qA 
+Video length: 	4195.9 sec 
+Set (V): 		dev 
+ 
+Penn_Jillette/kTunl_eN9qA_0000001 68.7 82.0 
+Penn_Jillette/kTunl_eN9qA_0000002 90.8 97.6 

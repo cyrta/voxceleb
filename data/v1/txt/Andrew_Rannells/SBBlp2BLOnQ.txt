@@ -1,0 +1,7 @@
+POI: 			Andrew_Rannells 
+Youtube ID: 	SBBlp2BLOnQ 
+Video length: 	177.4 sec 
+Set (V): 		dev 
+ 
+Andrew_Rannells/SBBlp2BLOnQ_0000001 64.0 68.1 
+Andrew_Rannells/SBBlp2BLOnQ_0000002 73.0 77.0 

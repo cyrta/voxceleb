@@ -1,0 +1,14 @@
+POI: 			Regina_Hall 
+Youtube ID: 	avNaBy3u3Ow 
+Video length: 	380.4 sec 
+Set (V): 		dev 
+ 
+Regina_Hall/avNaBy3u3Ow_0000001 63.8 68.5 
+Regina_Hall/avNaBy3u3Ow_0000002 140.5 145.4 
+Regina_Hall/avNaBy3u3Ow_0000003 146.0 157.5 
+Regina_Hall/avNaBy3u3Ow_0000004 185.9 192.0 
+Regina_Hall/avNaBy3u3Ow_0000005 192.6 198.3 
+Regina_Hall/avNaBy3u3Ow_0000006 210.6 217.6 
+Regina_Hall/avNaBy3u3Ow_0000007 270.6 284.9 
+Regina_Hall/avNaBy3u3Ow_0000008 304.5 314.3 
+Regina_Hall/avNaBy3u3Ow_0000009 326.5 337.4 

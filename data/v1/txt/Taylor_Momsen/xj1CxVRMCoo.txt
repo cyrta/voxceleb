@@ -1,0 +1,7 @@
+POI: 			Taylor_Momsen 
+Youtube ID: 	xj1CxVRMCoo 
+Video length: 	354.5 sec 
+Set (V): 		dev 
+ 
+Taylor_Momsen/xj1CxVRMCoo_0000001 77.3 85.8 
+Taylor_Momsen/xj1CxVRMCoo_0000002 295.4 300.4 

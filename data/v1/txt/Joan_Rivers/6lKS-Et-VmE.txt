@@ -1,0 +1,11 @@
+POI: 			Joan_Rivers 
+Youtube ID: 	6lKS-Et-VmE 
+Video length: 	196.4 sec 
+Set (V): 		dev 
+ 
+Joan_Rivers/6lKS-Et-VmE_0000001 18.7 27.4 
+Joan_Rivers/6lKS-Et-VmE_0000002 28.4 44.0 
+Joan_Rivers/6lKS-Et-VmE_0000003 82.2 102.4 
+Joan_Rivers/6lKS-Et-VmE_0000004 131.6 137.4 
+Joan_Rivers/6lKS-Et-VmE_0000005 148.0 155.8 
+Joan_Rivers/6lKS-Et-VmE_0000006 158.0 168.4 

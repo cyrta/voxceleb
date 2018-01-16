@@ -1,0 +1,7 @@
+POI: 			Terence_Stamp 
+Youtube ID: 	8DygYx35lMc 
+Video length: 	161.3 sec 
+Set (V): 		dev 
+ 
+Terence_Stamp/8DygYx35lMc_0000001 40.6 45.1 
+Terence_Stamp/8DygYx35lMc_0000002 50.2 57.0 

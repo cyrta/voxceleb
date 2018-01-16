@@ -1,0 +1,10 @@
+POI: 			Ellen_Wong 
+Youtube ID: 	dRr05CxK0jQ 
+Video length: 	212.6 sec 
+Set (V): 		test 
+ 
+Ellen_Wong/dRr05CxK0jQ_0000001 52.4 72.9 
+Ellen_Wong/dRr05CxK0jQ_0000002 78.0 84.9 
+Ellen_Wong/dRr05CxK0jQ_0000003 153.2 159.4 
+Ellen_Wong/dRr05CxK0jQ_0000004 166.8 171.8 
+Ellen_Wong/dRr05CxK0jQ_0000005 193.4 203.4 

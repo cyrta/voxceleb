@@ -1,0 +1,8 @@
+POI: 			Katie_Aselton 
+Youtube ID: 	7unvo1dinoU 
+Video length: 	531.0 sec 
+Set (V): 		dev 
+ 
+Katie_Aselton/7unvo1dinoU_0000001 35.4 40.0 
+Katie_Aselton/7unvo1dinoU_0000002 40.2 45.1 
+Katie_Aselton/7unvo1dinoU_0000003 46.9 54.5 

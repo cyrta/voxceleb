@@ -1,0 +1,23 @@
+POI: 			Jason_Clarke 
+Youtube ID: 	AnELf0dngpA 
+Video length: 	278.6 sec 
+Set (V): 		dev 
+ 
+Jason_Clarke/AnELf0dngpA_0000001 12.3 19.3 
+Jason_Clarke/AnELf0dngpA_0000002 21.4 26.5 
+Jason_Clarke/AnELf0dngpA_0000003 35.7 67.6 
+Jason_Clarke/AnELf0dngpA_0000004 68.9 79.7 
+Jason_Clarke/AnELf0dngpA_0000005 79.8 84.2 
+Jason_Clarke/AnELf0dngpA_0000006 87.5 96.3 
+Jason_Clarke/AnELf0dngpA_0000007 95.3 113.3 
+Jason_Clarke/AnELf0dngpA_0000008 116.8 129.6 
+Jason_Clarke/AnELf0dngpA_0000009 131.1 142.1 
+Jason_Clarke/AnELf0dngpA_0000010 144.2 151.3 
+Jason_Clarke/AnELf0dngpA_0000011 154.3 161.2 
+Jason_Clarke/AnELf0dngpA_0000012 165.7 174.7 
+Jason_Clarke/AnELf0dngpA_0000013 178.1 193.0 
+Jason_Clarke/AnELf0dngpA_0000014 194.1 207.9 
+Jason_Clarke/AnELf0dngpA_0000015 219.4 240.2 
+Jason_Clarke/AnELf0dngpA_0000016 247.1 253.5 
+Jason_Clarke/AnELf0dngpA_0000017 256.4 267.7 
+Jason_Clarke/AnELf0dngpA_0000018 268.6 276.4 

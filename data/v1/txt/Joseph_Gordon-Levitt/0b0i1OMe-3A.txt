@@ -1,0 +1,14 @@
+POI: 			Joseph_Gordon-Levitt 
+Youtube ID: 	0b0i1OMe-3A 
+Video length: 	427.7 sec 
+Set (V): 		dev 
+ 
+Joseph_Gordon-Levitt/0b0i1OMe-3A_0000001 24.9 35.9 
+Joseph_Gordon-Levitt/0b0i1OMe-3A_0000002 93.4 99.6 
+Joseph_Gordon-Levitt/0b0i1OMe-3A_0000003 147.4 152.4 
+Joseph_Gordon-Levitt/0b0i1OMe-3A_0000004 155.2 163.2 
+Joseph_Gordon-Levitt/0b0i1OMe-3A_0000005 170.0 178.4 
+Joseph_Gordon-Levitt/0b0i1OMe-3A_0000006 294.3 302.9 
+Joseph_Gordon-Levitt/0b0i1OMe-3A_0000007 303.2 310.8 
+Joseph_Gordon-Levitt/0b0i1OMe-3A_0000008 314.6 324.0 
+Joseph_Gordon-Levitt/0b0i1OMe-3A_0000009 329.0 333.8 

@@ -1,0 +1,10 @@
+POI: 			Felicia_Day 
+Youtube ID: 	qIOEAwtrKYA 
+Video length: 	378.0 sec 
+Set (V): 		dev 
+ 
+Felicia_Day/qIOEAwtrKYA_0000001 64.6 69.3 
+Felicia_Day/qIOEAwtrKYA_0000002 129.9 135.8 
+Felicia_Day/qIOEAwtrKYA_0000003 145.3 158.0 
+Felicia_Day/qIOEAwtrKYA_0000004 174.8 188.6 
+Felicia_Day/qIOEAwtrKYA_0000005 203.0 208.0 

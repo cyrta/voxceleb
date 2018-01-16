@@ -1,0 +1,9 @@
+POI: 			Wendy_Williams 
+Youtube ID: 	eIYFtgJp60s 
+Video length: 	432.8 sec 
+Set (V): 		dev 
+ 
+Wendy_Williams/eIYFtgJp60s_0000001 04.8 10.5 
+Wendy_Williams/eIYFtgJp60s_0000002 11.4 16.2 
+Wendy_Williams/eIYFtgJp60s_0000003 20.5 28.4 
+Wendy_Williams/eIYFtgJp60s_0000004 06.7 27.0 

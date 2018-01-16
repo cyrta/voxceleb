@@ -1,0 +1,19 @@
+POI: 			Diablo_Cody 
+Youtube ID: 	HredgbboXlU 
+Video length: 	232.9 sec 
+Set (V): 		dev 
+ 
+Diablo_Cody/HredgbboXlU_0000001 11.4 18.6 
+Diablo_Cody/HredgbboXlU_0000002 21.4 31.2 
+Diablo_Cody/HredgbboXlU_0000003 32.1 36.4 
+Diablo_Cody/HredgbboXlU_0000004 55.8 67.9 
+Diablo_Cody/HredgbboXlU_0000005 73.4 78.2 
+Diablo_Cody/HredgbboXlU_0000006 84.5 89.9 
+Diablo_Cody/HredgbboXlU_0000007 92.2 98.9 
+Diablo_Cody/HredgbboXlU_0000008 116.6 125.0 
+Diablo_Cody/HredgbboXlU_0000009 130.9 135.4 
+Diablo_Cody/HredgbboXlU_0000010 150.2 156.7 
+Diablo_Cody/HredgbboXlU_0000011 166.9 172.4 
+Diablo_Cody/HredgbboXlU_0000012 179.6 183.6 
+Diablo_Cody/HredgbboXlU_0000013 193.9 201.4 
+Diablo_Cody/HredgbboXlU_0000014 210.1 215.2 

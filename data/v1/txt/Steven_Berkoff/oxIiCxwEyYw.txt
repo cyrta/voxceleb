@@ -1,0 +1,20 @@
+POI: 			Steven_Berkoff 
+Youtube ID: 	oxIiCxwEyYw 
+Video length: 	446.8 sec 
+Set (V): 		dev 
+ 
+Steven_Berkoff/oxIiCxwEyYw_0000001 01.1 22.5 
+Steven_Berkoff/oxIiCxwEyYw_0000002 24.8 32.4 
+Steven_Berkoff/oxIiCxwEyYw_0000003 41.2 58.7 
+Steven_Berkoff/oxIiCxwEyYw_0000004 66.4 71.6 
+Steven_Berkoff/oxIiCxwEyYw_0000005 95.2 129.8 
+Steven_Berkoff/oxIiCxwEyYw_0000006 132.2 140.5 
+Steven_Berkoff/oxIiCxwEyYw_0000007 144.4 193.6 
+Steven_Berkoff/oxIiCxwEyYw_0000008 246.6 272.1 
+Steven_Berkoff/oxIiCxwEyYw_0000009 272.3 280.8 
+Steven_Berkoff/oxIiCxwEyYw_0000010 285.9 291.6 
+Steven_Berkoff/oxIiCxwEyYw_0000011 355.0 362.2 
+Steven_Berkoff/oxIiCxwEyYw_0000012 363.2 377.2 
+Steven_Berkoff/oxIiCxwEyYw_0000013 378.4 410.9 
+Steven_Berkoff/oxIiCxwEyYw_0000014 411.2 418.5 
+Steven_Berkoff/oxIiCxwEyYw_0000015 425.1 436.3 

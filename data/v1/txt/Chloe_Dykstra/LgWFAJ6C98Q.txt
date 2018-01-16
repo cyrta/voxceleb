@@ -1,0 +1,7 @@
+POI: 			Chloe_Dykstra 
+Youtube ID: 	LgWFAJ6C98Q 
+Video length: 	449.0 sec 
+Set (V): 		dev 
+ 
+Chloe_Dykstra/LgWFAJ6C98Q_0000001 92.8 99.9 
+Chloe_Dykstra/LgWFAJ6C98Q_0000002 100.2 104.8 

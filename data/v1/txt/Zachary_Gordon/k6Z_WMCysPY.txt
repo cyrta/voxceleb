@@ -1,0 +1,14 @@
+POI: 			Zachary_Gordon 
+Youtube ID: 	k6Z_WMCysPY 
+Video length: 	475.6 sec 
+Set (V): 		dev 
+ 
+Zachary_Gordon/k6Z_WMCysPY_0000001 70.1 80.3 
+Zachary_Gordon/k6Z_WMCysPY_0000002 86.2 90.5 
+Zachary_Gordon/k6Z_WMCysPY_0000003 113.7 118.8 
+Zachary_Gordon/k6Z_WMCysPY_0000004 160.3 167.9 
+Zachary_Gordon/k6Z_WMCysPY_0000005 264.5 274.8 
+Zachary_Gordon/k6Z_WMCysPY_0000006 305.8 319.9 
+Zachary_Gordon/k6Z_WMCysPY_0000007 325.8 331.1 
+Zachary_Gordon/k6Z_WMCysPY_0000008 421.9 430.7 
+Zachary_Gordon/k6Z_WMCysPY_0000009 441.6 446.7 

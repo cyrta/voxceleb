@@ -1,0 +1,15 @@
+POI: 			Aamir_Khan 
+Youtube ID: 	bDxy7bnj_bc 
+Video length: 	872.6 sec 
+Set (V): 		dev 
+ 
+Aamir_Khan/bDxy7bnj_bc_0000001 199.1 210.8 
+Aamir_Khan/bDxy7bnj_bc_0000002 235.1 241.1 
+Aamir_Khan/bDxy7bnj_bc_0000003 263.0 267.2 
+Aamir_Khan/bDxy7bnj_bc_0000004 385.0 391.1 
+Aamir_Khan/bDxy7bnj_bc_0000005 394.8 399.5 
+Aamir_Khan/bDxy7bnj_bc_0000006 412.0 419.5 
+Aamir_Khan/bDxy7bnj_bc_0000007 421.3 426.5 
+Aamir_Khan/bDxy7bnj_bc_0000008 460.2 464.6 
+Aamir_Khan/bDxy7bnj_bc_0000009 619.0 624.2 
+Aamir_Khan/bDxy7bnj_bc_0000010 665.4 670.4 

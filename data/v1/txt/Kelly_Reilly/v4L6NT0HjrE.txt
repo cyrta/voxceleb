@@ -1,0 +1,11 @@
+POI: 			Kelly_Reilly 
+Youtube ID: 	v4L6NT0HjrE 
+Video length: 	89.7 sec 
+Set (V): 		dev 
+ 
+Kelly_Reilly/v4L6NT0HjrE_0000001 02.5 07.7 
+Kelly_Reilly/v4L6NT0HjrE_0000002 11.6 16.4 
+Kelly_Reilly/v4L6NT0HjrE_0000003 19.3 29.4 
+Kelly_Reilly/v4L6NT0HjrE_0000004 43.5 56.8 
+Kelly_Reilly/v4L6NT0HjrE_0000005 60.0 65.2 
+Kelly_Reilly/v4L6NT0HjrE_0000006 76.8 81.8 

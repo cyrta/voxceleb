@@ -1,0 +1,9 @@
+POI: 			Elaine_Hendrix 
+Youtube ID: 	UkIpd_3qMak 
+Video length: 	313.2 sec 
+Set (V): 		test 
+ 
+Elaine_Hendrix/UkIpd_3qMak_0000001 18.5 24.8 
+Elaine_Hendrix/UkIpd_3qMak_0000002 208.2 215.5 
+Elaine_Hendrix/UkIpd_3qMak_0000003 222.4 229.0 
+Elaine_Hendrix/UkIpd_3qMak_0000004 292.0 299.5 

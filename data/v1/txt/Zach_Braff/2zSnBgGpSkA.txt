@@ -1,0 +1,7 @@
+POI: 			Zach_Braff 
+Youtube ID: 	2zSnBgGpSkA 
+Video length: 	74.7 sec 
+Set (V): 		dev 
+ 
+Zach_Braff/2zSnBgGpSkA_0000001 42.0 50.7 
+Zach_Braff/2zSnBgGpSkA_0000002 54.1 61.6 

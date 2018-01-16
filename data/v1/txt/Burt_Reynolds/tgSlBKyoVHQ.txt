@@ -1,0 +1,8 @@
+POI: 			Burt_Reynolds 
+Youtube ID: 	tgSlBKyoVHQ 
+Video length: 	167.1 sec 
+Set (V): 		dev 
+ 
+Burt_Reynolds/tgSlBKyoVHQ_0000001 18.1 22.7 
+Burt_Reynolds/tgSlBKyoVHQ_0000002 76.2 82.1 
+Burt_Reynolds/tgSlBKyoVHQ_0000003 84.6 89.3 

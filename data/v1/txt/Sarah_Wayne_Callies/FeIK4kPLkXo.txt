@@ -1,0 +1,15 @@
+POI: 			Sarah_Wayne_Callies 
+Youtube ID: 	FeIK4kPLkXo 
+Video length: 	317.2 sec 
+Set (V): 		dev 
+ 
+Sarah_Wayne_Callies/FeIK4kPLkXo_0000001 73.6 81.9 
+Sarah_Wayne_Callies/FeIK4kPLkXo_0000002 153.5 160.1 
+Sarah_Wayne_Callies/FeIK4kPLkXo_0000003 169.1 177.0 
+Sarah_Wayne_Callies/FeIK4kPLkXo_0000004 186.4 194.6 
+Sarah_Wayne_Callies/FeIK4kPLkXo_0000005 200.4 204.6 
+Sarah_Wayne_Callies/FeIK4kPLkXo_0000006 208.7 214.5 
+Sarah_Wayne_Callies/FeIK4kPLkXo_0000007 216.8 220.7 
+Sarah_Wayne_Callies/FeIK4kPLkXo_0000008 227.2 238.0 
+Sarah_Wayne_Callies/FeIK4kPLkXo_0000009 239.1 244.5 
+Sarah_Wayne_Callies/FeIK4kPLkXo_0000010 244.6 256.6 

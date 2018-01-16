@@ -1,0 +1,20 @@
+POI: 			Teri_Hatcher 
+Youtube ID: 	fDmEFT-Pj_g 
+Video length: 	256.2 sec 
+Set (V): 		dev 
+ 
+Teri_Hatcher/fDmEFT-Pj_g_0000001 04.7 17.2 
+Teri_Hatcher/fDmEFT-Pj_g_0000002 20.8 32.2 
+Teri_Hatcher/fDmEFT-Pj_g_0000003 32.6 40.2 
+Teri_Hatcher/fDmEFT-Pj_g_0000004 52.5 57.4 
+Teri_Hatcher/fDmEFT-Pj_g_0000005 61.4 66.2 
+Teri_Hatcher/fDmEFT-Pj_g_0000006 67.3 84.2 
+Teri_Hatcher/fDmEFT-Pj_g_0000007 99.7 120.7 
+Teri_Hatcher/fDmEFT-Pj_g_0000008 133.0 137.6 
+Teri_Hatcher/fDmEFT-Pj_g_0000009 138.1 146.0 
+Teri_Hatcher/fDmEFT-Pj_g_0000010 146.8 165.3 
+Teri_Hatcher/fDmEFT-Pj_g_0000011 172.2 185.6 
+Teri_Hatcher/fDmEFT-Pj_g_0000012 193.3 202.1 
+Teri_Hatcher/fDmEFT-Pj_g_0000013 202.4 207.7 
+Teri_Hatcher/fDmEFT-Pj_g_0000014 208.7 218.2 
+Teri_Hatcher/fDmEFT-Pj_g_0000015 225.7 249.6 

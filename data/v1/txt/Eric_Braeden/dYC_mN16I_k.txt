@@ -1,0 +1,14 @@
+POI: 			Eric_Braeden 
+Youtube ID: 	dYC_mN16I_k 
+Video length: 	231.8 sec 
+Set (V): 		test 
+ 
+Eric_Braeden/dYC_mN16I_k_0000001 04.2 08.4 
+Eric_Braeden/dYC_mN16I_k_0000002 22.4 27.6 
+Eric_Braeden/dYC_mN16I_k_0000003 32.6 36.6 
+Eric_Braeden/dYC_mN16I_k_0000004 50.4 55.8 
+Eric_Braeden/dYC_mN16I_k_0000005 83.0 87.8 
+Eric_Braeden/dYC_mN16I_k_0000006 95.6 101.5 
+Eric_Braeden/dYC_mN16I_k_0000007 107.9 112.5 
+Eric_Braeden/dYC_mN16I_k_0000008 167.6 176.2 
+Eric_Braeden/dYC_mN16I_k_0000009 203.0 207.4 

@@ -1,0 +1,14 @@
+POI: 			Max_Irons 
+Youtube ID: 	nEDwr-GQvsY 
+Video length: 	416.5 sec 
+Set (V): 		dev 
+ 
+Max_Irons/nEDwr-GQvsY_0000001 86.8 90.9 
+Max_Irons/nEDwr-GQvsY_0000002 95.0 100.0 
+Max_Irons/nEDwr-GQvsY_0000003 135.0 139.0 
+Max_Irons/nEDwr-GQvsY_0000004 163.8 168.5 
+Max_Irons/nEDwr-GQvsY_0000005 330.4 337.2 
+Max_Irons/nEDwr-GQvsY_0000006 337.9 342.6 
+Max_Irons/nEDwr-GQvsY_0000007 345.8 349.8 
+Max_Irons/nEDwr-GQvsY_0000008 354.1 363.0 
+Max_Irons/nEDwr-GQvsY_0000009 389.4 395.3 

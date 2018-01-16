@@ -1,0 +1,21 @@
+POI: 			Jim_Sturgess 
+Youtube ID: 	aWFhgzqZLig 
+Video length: 	335.2 sec 
+Set (V): 		dev 
+ 
+Jim_Sturgess/aWFhgzqZLig_0000001 11.7 24.7 
+Jim_Sturgess/aWFhgzqZLig_0000002 84.0 89.1 
+Jim_Sturgess/aWFhgzqZLig_0000003 90.3 101.9 
+Jim_Sturgess/aWFhgzqZLig_0000004 106.6 112.2 
+Jim_Sturgess/aWFhgzqZLig_0000005 112.4 119.0 
+Jim_Sturgess/aWFhgzqZLig_0000006 138.4 148.8 
+Jim_Sturgess/aWFhgzqZLig_0000007 171.1 175.6 
+Jim_Sturgess/aWFhgzqZLig_0000008 182.5 189.2 
+Jim_Sturgess/aWFhgzqZLig_0000009 203.1 210.5 
+Jim_Sturgess/aWFhgzqZLig_0000010 217.8 222.0 
+Jim_Sturgess/aWFhgzqZLig_0000011 222.0 228.7 
+Jim_Sturgess/aWFhgzqZLig_0000012 231.0 235.4 
+Jim_Sturgess/aWFhgzqZLig_0000013 238.0 243.5 
+Jim_Sturgess/aWFhgzqZLig_0000014 250.6 256.2 
+Jim_Sturgess/aWFhgzqZLig_0000015 282.6 289.0 
+Jim_Sturgess/aWFhgzqZLig_0000016 316.6 323.4 

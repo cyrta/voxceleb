@@ -1,0 +1,13 @@
+POI: 			Louis_Theroux 
+Youtube ID: 	8yAqoydzMB4 
+Video length: 	364.2 sec 
+Set (V): 		dev 
+ 
+Louis_Theroux/8yAqoydzMB4_0000001 80.6 84.9 
+Louis_Theroux/8yAqoydzMB4_0000002 104.1 113.8 
+Louis_Theroux/8yAqoydzMB4_0000003 154.9 161.0 
+Louis_Theroux/8yAqoydzMB4_0000004 161.2 167.0 
+Louis_Theroux/8yAqoydzMB4_0000005 181.9 189.3 
+Louis_Theroux/8yAqoydzMB4_0000006 245.0 249.3 
+Louis_Theroux/8yAqoydzMB4_0000007 268.3 275.6 
+Louis_Theroux/8yAqoydzMB4_0000008 320.8 326.7 

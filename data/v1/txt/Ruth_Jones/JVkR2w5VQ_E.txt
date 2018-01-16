@@ -1,0 +1,13 @@
+POI: 			Ruth_Jones 
+Youtube ID: 	JVkR2w5VQ_E 
+Video length: 	119.3 sec 
+Set (V): 		dev 
+ 
+Ruth_Jones/JVkR2w5VQ_E_0000001 11.8 18.8 
+Ruth_Jones/JVkR2w5VQ_E_0000002 19.2 28.7 
+Ruth_Jones/JVkR2w5VQ_E_0000003 30.9 35.0 
+Ruth_Jones/JVkR2w5VQ_E_0000004 35.1 41.5 
+Ruth_Jones/JVkR2w5VQ_E_0000005 42.9 52.7 
+Ruth_Jones/JVkR2w5VQ_E_0000006 65.8 71.6 
+Ruth_Jones/JVkR2w5VQ_E_0000007 74.9 79.5 
+Ruth_Jones/JVkR2w5VQ_E_0000008 82.0 111.8 

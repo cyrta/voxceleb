@@ -1,0 +1,14 @@
+POI: 			Brian_Blessed 
+Youtube ID: 	YuG9RqEfNl4 
+Video length: 	292.2 sec 
+Set (V): 		dev 
+ 
+Brian_Blessed/YuG9RqEfNl4_0000001 13.9 20.2 
+Brian_Blessed/YuG9RqEfNl4_0000002 103.7 109.2 
+Brian_Blessed/YuG9RqEfNl4_0000003 133.9 138.1 
+Brian_Blessed/YuG9RqEfNl4_0000004 155.5 161.5 
+Brian_Blessed/YuG9RqEfNl4_0000005 164.2 168.3 
+Brian_Blessed/YuG9RqEfNl4_0000006 197.7 202.2 
+Brian_Blessed/YuG9RqEfNl4_0000007 215.9 223.6 
+Brian_Blessed/YuG9RqEfNl4_0000008 242.1 246.2 
+Brian_Blessed/YuG9RqEfNl4_0000009 254.4 259.1 

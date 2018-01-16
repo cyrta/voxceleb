@@ -1,0 +1,10 @@
+POI: 			Eleanor_Tomlinson 
+Youtube ID: 	zGjY8J48FoE 
+Video length: 	69.5 sec 
+Set (V): 		test 
+ 
+Eleanor_Tomlinson/zGjY8J48FoE_0000001 01.7 07.1 
+Eleanor_Tomlinson/zGjY8J48FoE_0000002 15.8 26.0 
+Eleanor_Tomlinson/zGjY8J48FoE_0000003 32.0 36.4 
+Eleanor_Tomlinson/zGjY8J48FoE_0000004 43.2 48.1 
+Eleanor_Tomlinson/zGjY8J48FoE_0000005 49.0 57.1 

@@ -1,0 +1,7 @@
+POI: 			Wilson_Cruz 
+Youtube ID: 	ODqzFvLJ42k 
+Video length: 	316.4 sec 
+Set (V): 		dev 
+ 
+Wilson_Cruz/ODqzFvLJ42k_0000001 245.7 250.4 
+Wilson_Cruz/ODqzFvLJ42k_0000002 284.0 291.1 

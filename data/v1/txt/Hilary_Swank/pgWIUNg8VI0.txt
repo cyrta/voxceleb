@@ -1,0 +1,13 @@
+POI: 			Hilary_Swank 
+Youtube ID: 	pgWIUNg8VI0 
+Video length: 	211.3 sec 
+Set (V): 		dev 
+ 
+Hilary_Swank/pgWIUNg8VI0_0000001 24.4 39.5 
+Hilary_Swank/pgWIUNg8VI0_0000002 48.7 64.5 
+Hilary_Swank/pgWIUNg8VI0_0000003 65.5 93.4 
+Hilary_Swank/pgWIUNg8VI0_0000004 107.8 114.7 
+Hilary_Swank/pgWIUNg8VI0_0000005 116.9 128.7 
+Hilary_Swank/pgWIUNg8VI0_0000006 144.8 158.0 
+Hilary_Swank/pgWIUNg8VI0_0000007 174.8 180.0 
+Hilary_Swank/pgWIUNg8VI0_0000008 180.4 195.1 

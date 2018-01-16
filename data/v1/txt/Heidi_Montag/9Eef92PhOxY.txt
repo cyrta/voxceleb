@@ -1,0 +1,7 @@
+POI: 			Heidi_Montag 
+Youtube ID: 	9Eef92PhOxY 
+Video length: 	266.4 sec 
+Set (V): 		dev 
+ 
+Heidi_Montag/9Eef92PhOxY_0000001 160.9 165.5 
+Heidi_Montag/9Eef92PhOxY_0000002 210.1 214.4 

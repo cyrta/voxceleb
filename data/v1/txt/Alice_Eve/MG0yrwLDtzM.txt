@@ -1,0 +1,8 @@
+POI: 			Alice_Eve 
+Youtube ID: 	MG0yrwLDtzM 
+Video length: 	409.4 sec 
+Set (V): 		dev 
+ 
+Alice_Eve/MG0yrwLDtzM_0000001 93.4 99.6 
+Alice_Eve/MG0yrwLDtzM_0000002 101.6 107.7 
+Alice_Eve/MG0yrwLDtzM_0000003 126.3 150.1 

@@ -1,0 +1,12 @@
+POI: 			Thomas_Lennon 
+Youtube ID: 	NAsc8wjQouI 
+Video length: 	335.8 sec 
+Set (V): 		dev 
+ 
+Thomas_Lennon/NAsc8wjQouI_0000001 26.9 32.4 
+Thomas_Lennon/NAsc8wjQouI_0000002 32.9 38.5 
+Thomas_Lennon/NAsc8wjQouI_0000003 72.1 77.2 
+Thomas_Lennon/NAsc8wjQouI_0000004 115.1 121.0 
+Thomas_Lennon/NAsc8wjQouI_0000005 173.0 179.3 
+Thomas_Lennon/NAsc8wjQouI_0000006 299.2 304.1 
+Thomas_Lennon/NAsc8wjQouI_0000007 322.7 329.0 

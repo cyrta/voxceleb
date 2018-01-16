@@ -1,0 +1,9 @@
+POI: 			Andrew_Rannells 
+Youtube ID: 	YZ_ty6qUEMU 
+Video length: 	73.4 sec 
+Set (V): 		dev 
+ 
+Andrew_Rannells/YZ_ty6qUEMU_0000001 21.7 26.9 
+Andrew_Rannells/YZ_ty6qUEMU_0000002 31.9 41.4 
+Andrew_Rannells/YZ_ty6qUEMU_0000003 43.5 48.9 
+Andrew_Rannells/YZ_ty6qUEMU_0000004 53.7 57.8 

@@ -1,0 +1,14 @@
+POI: 			Odeya_Rush 
+Youtube ID: 	9a90Ocrr0Gw 
+Video length: 	201.1 sec 
+Set (V): 		dev 
+ 
+Odeya_Rush/9a90Ocrr0Gw_0000001 05.8 11.0 
+Odeya_Rush/9a90Ocrr0Gw_0000002 11.6 22.1 
+Odeya_Rush/9a90Ocrr0Gw_0000003 29.8 34.8 
+Odeya_Rush/9a90Ocrr0Gw_0000004 80.8 87.0 
+Odeya_Rush/9a90Ocrr0Gw_0000005 88.1 96.7 
+Odeya_Rush/9a90Ocrr0Gw_0000006 102.2 107.8 
+Odeya_Rush/9a90Ocrr0Gw_0000007 114.3 121.9 
+Odeya_Rush/9a90Ocrr0Gw_0000008 144.5 154.0 
+Odeya_Rush/9a90Ocrr0Gw_0000009 172.6 178.0 

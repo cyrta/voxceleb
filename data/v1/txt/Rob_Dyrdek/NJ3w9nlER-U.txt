@@ -1,0 +1,10 @@
+POI: 			Rob_Dyrdek 
+Youtube ID: 	NJ3w9nlER-U 
+Video length: 	297.6 sec 
+Set (V): 		dev 
+ 
+Rob_Dyrdek/NJ3w9nlER-U_0000001 124.1 129.6 
+Rob_Dyrdek/NJ3w9nlER-U_0000002 145.2 150.2 
+Rob_Dyrdek/NJ3w9nlER-U_0000003 186.3 193.6 
+Rob_Dyrdek/NJ3w9nlER-U_0000004 262.7 267.8 
+Rob_Dyrdek/NJ3w9nlER-U_0000005 277.6 282.5 

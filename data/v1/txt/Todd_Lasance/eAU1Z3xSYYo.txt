@@ -1,0 +1,8 @@
+POI: 			Todd_Lasance 
+Youtube ID: 	eAU1Z3xSYYo 
+Video length: 	444.6 sec 
+Set (V): 		dev 
+ 
+Todd_Lasance/eAU1Z3xSYYo_0000001 165.8 169.8 
+Todd_Lasance/eAU1Z3xSYYo_0000002 174.1 179.8 
+Todd_Lasance/eAU1Z3xSYYo_0000003 224.2 228.4 

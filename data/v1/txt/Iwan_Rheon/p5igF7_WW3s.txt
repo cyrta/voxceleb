@@ -1,0 +1,20 @@
+POI: 			Iwan_Rheon 
+Youtube ID: 	p5igF7_WW3s 
+Video length: 	242.1 sec 
+Set (V): 		dev 
+ 
+Iwan_Rheon/p5igF7_WW3s_0000001 12.4 16.4 
+Iwan_Rheon/p5igF7_WW3s_0000002 19.5 23.5 
+Iwan_Rheon/p5igF7_WW3s_0000003 23.9 28.9 
+Iwan_Rheon/p5igF7_WW3s_0000004 39.3 46.9 
+Iwan_Rheon/p5igF7_WW3s_0000005 47.6 58.0 
+Iwan_Rheon/p5igF7_WW3s_0000006 76.6 85.3 
+Iwan_Rheon/p5igF7_WW3s_0000007 107.7 112.0 
+Iwan_Rheon/p5igF7_WW3s_0000008 123.0 138.4 
+Iwan_Rheon/p5igF7_WW3s_0000009 154.0 160.8 
+Iwan_Rheon/p5igF7_WW3s_0000010 172.8 189.2 
+Iwan_Rheon/p5igF7_WW3s_0000011 189.4 195.8 
+Iwan_Rheon/p5igF7_WW3s_0000012 197.2 205.7 
+Iwan_Rheon/p5igF7_WW3s_0000013 206.0 211.8 
+Iwan_Rheon/p5igF7_WW3s_0000014 220.0 226.5 
+Iwan_Rheon/p5igF7_WW3s_0000015 227.4 231.4 

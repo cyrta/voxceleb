@@ -1,0 +1,19 @@
+POI: 			Clive_Owen 
+Youtube ID: 	N0oCUbArfCk 
+Video length: 	291.8 sec 
+Set (V): 		dev 
+ 
+Clive_Owen/N0oCUbArfCk_0000001 34.6 45.6 
+Clive_Owen/N0oCUbArfCk_0000002 47.8 55.3 
+Clive_Owen/N0oCUbArfCk_0000003 56.7 73.5 
+Clive_Owen/N0oCUbArfCk_0000004 73.7 79.1 
+Clive_Owen/N0oCUbArfCk_0000005 114.5 120.2 
+Clive_Owen/N0oCUbArfCk_0000006 120.7 132.6 
+Clive_Owen/N0oCUbArfCk_0000007 133.7 139.2 
+Clive_Owen/N0oCUbArfCk_0000008 140.3 147.8 
+Clive_Owen/N0oCUbArfCk_0000009 150.0 154.4 
+Clive_Owen/N0oCUbArfCk_0000010 156.3 174.8 
+Clive_Owen/N0oCUbArfCk_0000011 179.0 183.0 
+Clive_Owen/N0oCUbArfCk_0000012 184.0 192.3 
+Clive_Owen/N0oCUbArfCk_0000013 192.4 204.5 
+Clive_Owen/N0oCUbArfCk_0000014 256.9 261.1 

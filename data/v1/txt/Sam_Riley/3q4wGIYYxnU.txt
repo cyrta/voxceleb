@@ -1,0 +1,21 @@
+POI: 			Sam_Riley 
+Youtube ID: 	3q4wGIYYxnU 
+Video length: 	351.0 sec 
+Set (V): 		dev 
+ 
+Sam_Riley/3q4wGIYYxnU_0000001 10.0 15.9 
+Sam_Riley/3q4wGIYYxnU_0000002 16.7 22.1 
+Sam_Riley/3q4wGIYYxnU_0000003 27.5 32.3 
+Sam_Riley/3q4wGIYYxnU_0000004 35.1 43.7 
+Sam_Riley/3q4wGIYYxnU_0000005 61.5 66.4 
+Sam_Riley/3q4wGIYYxnU_0000006 68.9 79.5 
+Sam_Riley/3q4wGIYYxnU_0000007 101.5 108.9 
+Sam_Riley/3q4wGIYYxnU_0000008 109.6 115.6 
+Sam_Riley/3q4wGIYYxnU_0000009 144.0 152.9 
+Sam_Riley/3q4wGIYYxnU_0000010 156.2 166.4 
+Sam_Riley/3q4wGIYYxnU_0000011 171.8 178.5 
+Sam_Riley/3q4wGIYYxnU_0000012 222.7 227.1 
+Sam_Riley/3q4wGIYYxnU_0000013 244.8 260.2 
+Sam_Riley/3q4wGIYYxnU_0000014 261.8 271.4 
+Sam_Riley/3q4wGIYYxnU_0000015 294.8 307.4 
+Sam_Riley/3q4wGIYYxnU_0000016 311.6 316.4 

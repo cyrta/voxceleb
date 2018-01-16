@@ -1,0 +1,34 @@
+POI: 			Meat_Loaf 
+Youtube ID: 	h4k9i4gW9yg 
+Video length: 	725.1 sec 
+Set (V): 		dev 
+ 
+Meat_Loaf/h4k9i4gW9yg_0000001 28.2 38.3 
+Meat_Loaf/h4k9i4gW9yg_0000002 39.0 45.2 
+Meat_Loaf/h4k9i4gW9yg_0000003 50.2 54.5 
+Meat_Loaf/h4k9i4gW9yg_0000004 55.3 61.4 
+Meat_Loaf/h4k9i4gW9yg_0000005 62.1 69.3 
+Meat_Loaf/h4k9i4gW9yg_0000006 104.2 110.6 
+Meat_Loaf/h4k9i4gW9yg_0000007 111.9 116.7 
+Meat_Loaf/h4k9i4gW9yg_0000008 121.4 125.9 
+Meat_Loaf/h4k9i4gW9yg_0000009 187.7 196.6 
+Meat_Loaf/h4k9i4gW9yg_0000010 249.0 261.5 
+Meat_Loaf/h4k9i4gW9yg_0000011 270.2 280.5 
+Meat_Loaf/h4k9i4gW9yg_0000012 283.0 290.4 
+Meat_Loaf/h4k9i4gW9yg_0000013 305.2 311.6 
+Meat_Loaf/h4k9i4gW9yg_0000014 317.2 330.4 
+Meat_Loaf/h4k9i4gW9yg_0000015 330.9 345.6 
+Meat_Loaf/h4k9i4gW9yg_0000016 393.6 401.7 
+Meat_Loaf/h4k9i4gW9yg_0000017 407.1 413.4 
+Meat_Loaf/h4k9i4gW9yg_0000018 448.7 453.3 
+Meat_Loaf/h4k9i4gW9yg_0000019 457.2 467.6 
+Meat_Loaf/h4k9i4gW9yg_0000020 473.2 481.5 
+Meat_Loaf/h4k9i4gW9yg_0000021 503.6 509.5 
+Meat_Loaf/h4k9i4gW9yg_0000022 513.4 521.1 
+Meat_Loaf/h4k9i4gW9yg_0000023 549.0 554.6 
+Meat_Loaf/h4k9i4gW9yg_0000024 593.6 599.4 
+Meat_Loaf/h4k9i4gW9yg_0000025 605.3 609.4 
+Meat_Loaf/h4k9i4gW9yg_0000026 632.7 638.0 
+Meat_Loaf/h4k9i4gW9yg_0000027 640.2 645.1 
+Meat_Loaf/h4k9i4gW9yg_0000028 646.0 651.7 
+Meat_Loaf/h4k9i4gW9yg_0000029 704.3 713.2 

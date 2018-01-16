@@ -1,0 +1,10 @@
+POI: 			Charlie_Day 
+Youtube ID: 	RWLa_-Z0KN4 
+Video length: 	551.0 sec 
+Set (V): 		dev 
+ 
+Charlie_Day/RWLa_-Z0KN4_0000001 159.9 168.5 
+Charlie_Day/RWLa_-Z0KN4_0000002 168.9 174.5 
+Charlie_Day/RWLa_-Z0KN4_0000003 202.2 206.5 
+Charlie_Day/RWLa_-Z0KN4_0000004 317.4 322.4 
+Charlie_Day/RWLa_-Z0KN4_0000005 323.3 328.5 

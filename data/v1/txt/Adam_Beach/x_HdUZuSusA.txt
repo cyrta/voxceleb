@@ -1,0 +1,7 @@
+POI: 			Adam_Beach 
+Youtube ID: 	x_HdUZuSusA 
+Video length: 	567.2 sec 
+Set (V): 		dev 
+ 
+Adam_Beach/x_HdUZuSusA_0000001 151.8 156.8 
+Adam_Beach/x_HdUZuSusA_0000002 443.3 449.4 

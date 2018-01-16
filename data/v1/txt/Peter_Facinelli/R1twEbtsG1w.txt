@@ -1,0 +1,12 @@
+POI: 			Peter_Facinelli 
+Youtube ID: 	R1twEbtsG1w 
+Video length: 	453.5 sec 
+Set (V): 		dev 
+ 
+Peter_Facinelli/R1twEbtsG1w_0000001 00.8 05.1 
+Peter_Facinelli/R1twEbtsG1w_0000002 13.0 25.2 
+Peter_Facinelli/R1twEbtsG1w_0000003 33.3 43.1 
+Peter_Facinelli/R1twEbtsG1w_0000004 47.7 52.9 
+Peter_Facinelli/R1twEbtsG1w_0000005 57.5 71.4 
+Peter_Facinelli/R1twEbtsG1w_0000006 323.2 329.2 
+Peter_Facinelli/R1twEbtsG1w_0000007 330.3 334.6 

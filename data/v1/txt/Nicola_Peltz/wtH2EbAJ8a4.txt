@@ -1,0 +1,8 @@
+POI: 			Nicola_Peltz 
+Youtube ID: 	wtH2EbAJ8a4 
+Video length: 	253.7 sec 
+Set (V): 		dev 
+ 
+Nicola_Peltz/wtH2EbAJ8a4_0000001 98.4 103.2 
+Nicola_Peltz/wtH2EbAJ8a4_0000002 221.6 228.4 
+Nicola_Peltz/wtH2EbAJ8a4_0000003 230.6 236.8 

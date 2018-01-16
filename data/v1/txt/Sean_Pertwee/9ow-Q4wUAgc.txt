@@ -1,0 +1,12 @@
+POI: 			Sean_Pertwee 
+Youtube ID: 	9ow-Q4wUAgc 
+Video length: 	435.7 sec 
+Set (V): 		dev 
+ 
+Sean_Pertwee/9ow-Q4wUAgc_0000001 149.6 156.2 
+Sean_Pertwee/9ow-Q4wUAgc_0000002 156.6 160.6 
+Sean_Pertwee/9ow-Q4wUAgc_0000003 163.0 168.2 
+Sean_Pertwee/9ow-Q4wUAgc_0000004 170.4 177.6 
+Sean_Pertwee/9ow-Q4wUAgc_0000005 178.5 187.5 
+Sean_Pertwee/9ow-Q4wUAgc_0000006 218.1 226.4 
+Sean_Pertwee/9ow-Q4wUAgc_0000007 240.1 245.0 

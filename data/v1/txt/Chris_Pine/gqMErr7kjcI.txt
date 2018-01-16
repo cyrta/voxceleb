@@ -1,0 +1,7 @@
+POI: 			Chris_Pine 
+Youtube ID: 	gqMErr7kjcI 
+Video length: 	656.0 sec 
+Set (V): 		dev 
+ 
+Chris_Pine/gqMErr7kjcI_0000001 214.0 220.8 
+Chris_Pine/gqMErr7kjcI_0000002 381.3 391.7 

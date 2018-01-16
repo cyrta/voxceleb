@@ -1,0 +1,8 @@
+POI: 			Florence_Henderson 
+Youtube ID: 	Ohfqm2X0Oeo 
+Video length: 	72.3 sec 
+Set (V): 		dev 
+ 
+Florence_Henderson/Ohfqm2X0Oeo_0000001 15.8 24.5 
+Florence_Henderson/Ohfqm2X0Oeo_0000002 25.3 35.3 
+Florence_Henderson/Ohfqm2X0Oeo_0000003 41.4 55.2 

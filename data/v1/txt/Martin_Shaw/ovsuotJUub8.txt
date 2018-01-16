@@ -1,0 +1,14 @@
+POI: 			Martin_Shaw 
+Youtube ID: 	ovsuotJUub8 
+Video length: 	322.0 sec 
+Set (V): 		dev 
+ 
+Martin_Shaw/ovsuotJUub8_0000001 66.0 72.4 
+Martin_Shaw/ovsuotJUub8_0000002 94.1 100.5 
+Martin_Shaw/ovsuotJUub8_0000003 106.4 113.8 
+Martin_Shaw/ovsuotJUub8_0000004 122.0 128.1 
+Martin_Shaw/ovsuotJUub8_0000005 184.1 191.4 
+Martin_Shaw/ovsuotJUub8_0000006 207.2 212.2 
+Martin_Shaw/ovsuotJUub8_0000007 213.1 217.2 
+Martin_Shaw/ovsuotJUub8_0000008 270.3 275.0 
+Martin_Shaw/ovsuotJUub8_0000009 286.4 294.5 

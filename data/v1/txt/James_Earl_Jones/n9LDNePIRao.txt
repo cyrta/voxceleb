@@ -1,0 +1,9 @@
+POI: 			James_Earl_Jones 
+Youtube ID: 	n9LDNePIRao 
+Video length: 	190.4 sec 
+Set (V): 		dev 
+ 
+James_Earl_Jones/n9LDNePIRao_0000001 09.2 16.2 
+James_Earl_Jones/n9LDNePIRao_0000002 19.2 27.6 
+James_Earl_Jones/n9LDNePIRao_0000003 123.3 127.4 
+James_Earl_Jones/n9LDNePIRao_0000004 137.2 146.3 

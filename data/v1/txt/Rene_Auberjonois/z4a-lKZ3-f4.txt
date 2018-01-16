@@ -1,0 +1,37 @@
+POI: 			Rene_Auberjonois 
+Youtube ID: 	z4a-lKZ3-f4 
+Video length: 	483.3 sec 
+Set (V): 		dev 
+ 
+Rene_Auberjonois/z4a-lKZ3-f4_0000001 06.0 10.4 
+Rene_Auberjonois/z4a-lKZ3-f4_0000002 10.6 17.7 
+Rene_Auberjonois/z4a-lKZ3-f4_0000003 18.3 25.8 
+Rene_Auberjonois/z4a-lKZ3-f4_0000004 40.6 54.4 
+Rene_Auberjonois/z4a-lKZ3-f4_0000005 58.2 67.5 
+Rene_Auberjonois/z4a-lKZ3-f4_0000006 68.9 83.2 
+Rene_Auberjonois/z4a-lKZ3-f4_0000007 84.7 88.8 
+Rene_Auberjonois/z4a-lKZ3-f4_0000008 88.9 101.0 
+Rene_Auberjonois/z4a-lKZ3-f4_0000009 118.5 125.8 
+Rene_Auberjonois/z4a-lKZ3-f4_0000010 127.0 140.7 
+Rene_Auberjonois/z4a-lKZ3-f4_0000011 149.4 156.0 
+Rene_Auberjonois/z4a-lKZ3-f4_0000012 161.3 167.1 
+Rene_Auberjonois/z4a-lKZ3-f4_0000013 167.3 174.0 
+Rene_Auberjonois/z4a-lKZ3-f4_0000014 192.1 203.7 
+Rene_Auberjonois/z4a-lKZ3-f4_0000015 207.2 219.8 
+Rene_Auberjonois/z4a-lKZ3-f4_0000016 225.1 233.1 
+Rene_Auberjonois/z4a-lKZ3-f4_0000017 237.7 242.6 
+Rene_Auberjonois/z4a-lKZ3-f4_0000018 243.2 247.8 
+Rene_Auberjonois/z4a-lKZ3-f4_0000019 257.1 264.0 
+Rene_Auberjonois/z4a-lKZ3-f4_0000020 264.9 277.2 
+Rene_Auberjonois/z4a-lKZ3-f4_0000021 318.4 329.5 
+Rene_Auberjonois/z4a-lKZ3-f4_0000022 336.4 341.6 
+Rene_Auberjonois/z4a-lKZ3-f4_0000023 342.7 348.3 
+Rene_Auberjonois/z4a-lKZ3-f4_0000024 349.0 353.6 
+Rene_Auberjonois/z4a-lKZ3-f4_0000025 357.3 364.0 
+Rene_Auberjonois/z4a-lKZ3-f4_0000026 364.6 370.5 
+Rene_Auberjonois/z4a-lKZ3-f4_0000027 391.4 395.8 
+Rene_Auberjonois/z4a-lKZ3-f4_0000028 401.2 405.9 
+Rene_Auberjonois/z4a-lKZ3-f4_0000029 407.4 415.5 
+Rene_Auberjonois/z4a-lKZ3-f4_0000030 434.2 438.8 
+Rene_Auberjonois/z4a-lKZ3-f4_0000031 442.6 448.5 
+Rene_Auberjonois/z4a-lKZ3-f4_0000032 473.2 477.4 

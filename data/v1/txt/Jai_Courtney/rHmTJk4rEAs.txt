@@ -1,0 +1,8 @@
+POI: 			Jai_Courtney 
+Youtube ID: 	rHmTJk4rEAs 
+Video length: 	210.2 sec 
+Set (V): 		dev 
+ 
+Jai_Courtney/rHmTJk4rEAs_0000001 27.7 32.1 
+Jai_Courtney/rHmTJk4rEAs_0000002 41.8 45.8 
+Jai_Courtney/rHmTJk4rEAs_0000003 87.0 104.1 

@@ -1,0 +1,8 @@
+POI: 			Don_Rickles 
+Youtube ID: 	9oX7-TGFkik 
+Video length: 	100.4 sec 
+Set (V): 		dev 
+ 
+Don_Rickles/9oX7-TGFkik_0000001 10.9 15.2 
+Don_Rickles/9oX7-TGFkik_0000002 44.8 49.9 
+Don_Rickles/9oX7-TGFkik_0000003 55.9 65.8 

@@ -1,0 +1,9 @@
+POI: 			Matthew_Macfadyen 
+Youtube ID: 	UqHpLO3qxU8 
+Video length: 	240.5 sec 
+Set (V): 		dev 
+ 
+Matthew_Macfadyen/UqHpLO3qxU8_0000001 42.9 48.9 
+Matthew_Macfadyen/UqHpLO3qxU8_0000002 85.9 90.1 
+Matthew_Macfadyen/UqHpLO3qxU8_0000003 152.0 156.8 
+Matthew_Macfadyen/UqHpLO3qxU8_0000004 213.0 220.4 

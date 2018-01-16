@@ -1,0 +1,13 @@
+POI: 			Sanaa_Lathan 
+Youtube ID: 	pO4r_Y42c_4 
+Video length: 	322.8 sec 
+Set (V): 		dev 
+ 
+Sanaa_Lathan/pO4r_Y42c_4_0000001 156.9 168.6 
+Sanaa_Lathan/pO4r_Y42c_4_0000002 178.0 183.5 
+Sanaa_Lathan/pO4r_Y42c_4_0000003 187.4 196.2 
+Sanaa_Lathan/pO4r_Y42c_4_0000004 206.9 211.8 
+Sanaa_Lathan/pO4r_Y42c_4_0000005 264.2 268.9 
+Sanaa_Lathan/pO4r_Y42c_4_0000006 269.0 281.0 
+Sanaa_Lathan/pO4r_Y42c_4_0000007 282.3 291.0 
+Sanaa_Lathan/pO4r_Y42c_4_0000008 292.2 296.8 

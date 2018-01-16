@@ -1,0 +1,7 @@
+POI: 			Callan_McAuliffe 
+Youtube ID: 	T9VblU9T0Kg 
+Video length: 	169.1 sec 
+Set (V): 		dev 
+ 
+Callan_McAuliffe/T9VblU9T0Kg_0000001 21.0 36.1 
+Callan_McAuliffe/T9VblU9T0Kg_0000002 50.8 57.7 

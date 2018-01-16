@@ -1,0 +1,12 @@
+POI: 			Jesse_Williams 
+Youtube ID: 	reLp0kR5wGQ 
+Video length: 	230.0 sec 
+Set (V): 		dev 
+ 
+Jesse_Williams/reLp0kR5wGQ_0000001 21.0 29.5 
+Jesse_Williams/reLp0kR5wGQ_0000002 69.8 82.6 
+Jesse_Williams/reLp0kR5wGQ_0000003 114.5 121.9 
+Jesse_Williams/reLp0kR5wGQ_0000004 130.4 137.5 
+Jesse_Williams/reLp0kR5wGQ_0000005 139.5 145.1 
+Jesse_Williams/reLp0kR5wGQ_0000006 146.2 151.2 
+Jesse_Williams/reLp0kR5wGQ_0000007 185.0 200.6 

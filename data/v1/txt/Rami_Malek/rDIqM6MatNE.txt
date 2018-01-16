@@ -1,0 +1,10 @@
+POI: 			Rami_Malek 
+Youtube ID: 	rDIqM6MatNE 
+Video length: 	190.8 sec 
+Set (V): 		dev 
+ 
+Rami_Malek/rDIqM6MatNE_0000001 25.8 41.3 
+Rami_Malek/rDIqM6MatNE_0000002 60.7 69.9 
+Rami_Malek/rDIqM6MatNE_0000003 70.6 75.1 
+Rami_Malek/rDIqM6MatNE_0000004 118.9 145.7 
+Rami_Malek/rDIqM6MatNE_0000005 157.8 162.2 

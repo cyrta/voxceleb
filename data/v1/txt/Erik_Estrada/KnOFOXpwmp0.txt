@@ -1,0 +1,7 @@
+POI: 			Erik_Estrada 
+Youtube ID: 	KnOFOXpwmp0 
+Video length: 	390.3 sec 
+Set (V): 		test 
+ 
+Erik_Estrada/KnOFOXpwmp0_0000001 50.1 54.8 
+Erik_Estrada/KnOFOXpwmp0_0000002 294.4 299.2 

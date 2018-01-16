@@ -1,0 +1,9 @@
+POI: 			Daniel_Auteuil 
+Youtube ID: 	SpfgFnF6Rzk 
+Video length: 	246.2 sec 
+Set (V): 		dev 
+ 
+Daniel_Auteuil/SpfgFnF6Rzk_0000001 13.0 18.8 
+Daniel_Auteuil/SpfgFnF6Rzk_0000002 26.1 31.4 
+Daniel_Auteuil/SpfgFnF6Rzk_0000003 187.4 192.0 
+Daniel_Auteuil/SpfgFnF6Rzk_0000004 228.2 232.3 

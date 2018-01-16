@@ -1,0 +1,7 @@
+POI: 			Ginger_Rogers 
+Youtube ID: 	JZb3zjuPPsE 
+Video length: 	291.1 sec 
+Set (V): 		dev 
+ 
+Ginger_Rogers/JZb3zjuPPsE_0000001 269.4 276.8 
+Ginger_Rogers/JZb3zjuPPsE_0000002 279.1 285.6 

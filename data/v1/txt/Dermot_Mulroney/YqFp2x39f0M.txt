@@ -1,0 +1,11 @@
+POI: 			Dermot_Mulroney 
+Youtube ID: 	YqFp2x39f0M 
+Video length: 	236.3 sec 
+Set (V): 		dev 
+ 
+Dermot_Mulroney/YqFp2x39f0M_0000001 42.2 52.0 
+Dermot_Mulroney/YqFp2x39f0M_0000002 72.0 84.7 
+Dermot_Mulroney/YqFp2x39f0M_0000003 99.0 116.0 
+Dermot_Mulroney/YqFp2x39f0M_0000004 120.6 131.5 
+Dermot_Mulroney/YqFp2x39f0M_0000005 143.0 150.8 
+Dermot_Mulroney/YqFp2x39f0M_0000006 151.8 158.6 

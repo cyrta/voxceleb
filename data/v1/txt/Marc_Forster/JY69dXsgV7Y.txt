@@ -1,0 +1,14 @@
+POI: 			Marc_Forster 
+Youtube ID: 	JY69dXsgV7Y 
+Video length: 	253.2 sec 
+Set (V): 		dev 
+ 
+Marc_Forster/JY69dXsgV7Y_0000001 38.8 50.3 
+Marc_Forster/JY69dXsgV7Y_0000002 51.0 62.1 
+Marc_Forster/JY69dXsgV7Y_0000003 79.5 98.1 
+Marc_Forster/JY69dXsgV7Y_0000004 98.2 103.9 
+Marc_Forster/JY69dXsgV7Y_0000005 105.1 114.2 
+Marc_Forster/JY69dXsgV7Y_0000006 131.0 136.7 
+Marc_Forster/JY69dXsgV7Y_0000007 138.8 150.3 
+Marc_Forster/JY69dXsgV7Y_0000008 154.5 159.9 
+Marc_Forster/JY69dXsgV7Y_0000009 201.6 241.4 

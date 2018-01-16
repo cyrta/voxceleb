@@ -1,0 +1,13 @@
+POI: 			Maya_Rudolph 
+Youtube ID: 	lWOTF8SdzJw 
+Video length: 	330.4 sec 
+Set (V): 		dev 
+ 
+Maya_Rudolph/lWOTF8SdzJw_0000001 104.6 112.0 
+Maya_Rudolph/lWOTF8SdzJw_0000002 112.9 119.6 
+Maya_Rudolph/lWOTF8SdzJw_0000003 128.3 141.0 
+Maya_Rudolph/lWOTF8SdzJw_0000004 141.5 146.3 
+Maya_Rudolph/lWOTF8SdzJw_0000005 180.8 198.6 
+Maya_Rudolph/lWOTF8SdzJw_0000006 208.3 216.8 
+Maya_Rudolph/lWOTF8SdzJw_0000007 245.1 249.9 
+Maya_Rudolph/lWOTF8SdzJw_0000008 269.8 280.8 

@@ -1,0 +1,21 @@
+POI: 			Olivia_Williams 
+Youtube ID: 	JrXG0YCpv_0 
+Video length: 	243.2 sec 
+Set (V): 		dev 
+ 
+Olivia_Williams/JrXG0YCpv_0_0000001 05.5 24.2 
+Olivia_Williams/JrXG0YCpv_0_0000002 24.8 30.5 
+Olivia_Williams/JrXG0YCpv_0_0000003 43.6 50.2 
+Olivia_Williams/JrXG0YCpv_0_0000004 57.0 66.4 
+Olivia_Williams/JrXG0YCpv_0_0000005 68.6 75.8 
+Olivia_Williams/JrXG0YCpv_0_0000006 81.6 90.2 
+Olivia_Williams/JrXG0YCpv_0_0000007 95.6 101.7 
+Olivia_Williams/JrXG0YCpv_0_0000008 102.2 106.3 
+Olivia_Williams/JrXG0YCpv_0_0000009 110.9 116.3 
+Olivia_Williams/JrXG0YCpv_0_0000010 116.9 124.0 
+Olivia_Williams/JrXG0YCpv_0_0000011 129.6 137.1 
+Olivia_Williams/JrXG0YCpv_0_0000012 145.6 151.2 
+Olivia_Williams/JrXG0YCpv_0_0000013 152.4 160.8 
+Olivia_Williams/JrXG0YCpv_0_0000014 162.8 170.2 
+Olivia_Williams/JrXG0YCpv_0_0000015 184.2 188.5 
+Olivia_Williams/JrXG0YCpv_0_0000016 192.4 198.8 

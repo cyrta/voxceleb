@@ -1,0 +1,14 @@
+POI: 			Maggie_Gyllenhaal 
+Youtube ID: 	Wk6IBYSDCqs 
+Video length: 	260.8 sec 
+Set (V): 		dev 
+ 
+Maggie_Gyllenhaal/Wk6IBYSDCqs_0000001 38.6 45.1 
+Maggie_Gyllenhaal/Wk6IBYSDCqs_0000002 64.3 80.7 
+Maggie_Gyllenhaal/Wk6IBYSDCqs_0000003 105.3 110.6 
+Maggie_Gyllenhaal/Wk6IBYSDCqs_0000004 111.2 123.4 
+Maggie_Gyllenhaal/Wk6IBYSDCqs_0000005 142.6 150.0 
+Maggie_Gyllenhaal/Wk6IBYSDCqs_0000006 151.3 155.7 
+Maggie_Gyllenhaal/Wk6IBYSDCqs_0000007 176.5 186.8 
+Maggie_Gyllenhaal/Wk6IBYSDCqs_0000008 195.8 203.4 
+Maggie_Gyllenhaal/Wk6IBYSDCqs_0000009 239.2 246.1 

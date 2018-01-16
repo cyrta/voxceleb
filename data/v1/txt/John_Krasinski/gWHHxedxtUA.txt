@@ -1,0 +1,10 @@
+POI: 			John_Krasinski 
+Youtube ID: 	gWHHxedxtUA 
+Video length: 	181.5 sec 
+Set (V): 		dev 
+ 
+John_Krasinski/gWHHxedxtUA_0000001 16.7 20.8 
+John_Krasinski/gWHHxedxtUA_0000002 22.8 32.6 
+John_Krasinski/gWHHxedxtUA_0000003 56.3 68.8 
+John_Krasinski/gWHHxedxtUA_0000004 53.0 57.9 
+John_Krasinski/gWHHxedxtUA_0000005 114.4 123.9 

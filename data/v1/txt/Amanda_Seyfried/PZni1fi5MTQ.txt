@@ -1,0 +1,10 @@
+POI: 			Amanda_Seyfried 
+Youtube ID: 	PZni1fi5MTQ 
+Video length: 	348.7 sec 
+Set (V): 		dev 
+ 
+Amanda_Seyfried/PZni1fi5MTQ_0000001 112.4 117.2 
+Amanda_Seyfried/PZni1fi5MTQ_0000002 201.8 206.2 
+Amanda_Seyfried/PZni1fi5MTQ_0000003 211.2 216.6 
+Amanda_Seyfried/PZni1fi5MTQ_0000004 254.9 260.7 
+Amanda_Seyfried/PZni1fi5MTQ_0000005 261.8 266.4 

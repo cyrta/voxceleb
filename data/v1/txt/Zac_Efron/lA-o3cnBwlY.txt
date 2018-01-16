@@ -1,0 +1,8 @@
+POI: 			Zac_Efron 
+Youtube ID: 	lA-o3cnBwlY 
+Video length: 	526.4 sec 
+Set (V): 		dev 
+ 
+Zac_Efron/lA-o3cnBwlY_0000001 163.2 169.6 
+Zac_Efron/lA-o3cnBwlY_0000002 326.9 330.9 
+Zac_Efron/lA-o3cnBwlY_0000003 391.1 395.1 

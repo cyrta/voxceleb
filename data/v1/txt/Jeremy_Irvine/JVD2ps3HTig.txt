@@ -1,0 +1,7 @@
+POI: 			Jeremy_Irvine 
+Youtube ID: 	JVD2ps3HTig 
+Video length: 	213.7 sec 
+Set (V): 		dev 
+ 
+Jeremy_Irvine/JVD2ps3HTig_0000001 115.4 124.0 
+Jeremy_Irvine/JVD2ps3HTig_0000002 152.7 157.5 

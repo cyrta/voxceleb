@@ -1,0 +1,12 @@
+POI: 			Alexz_Johnson 
+Youtube ID: 	1KJJEC-fgIw 
+Video length: 	104.5 sec 
+Set (V): 		dev 
+ 
+Alexz_Johnson/1KJJEC-fgIw_0000001 01.0 08.0 
+Alexz_Johnson/1KJJEC-fgIw_0000002 09.1 16.5 
+Alexz_Johnson/1KJJEC-fgIw_0000003 31.1 39.5 
+Alexz_Johnson/1KJJEC-fgIw_0000004 41.6 45.8 
+Alexz_Johnson/1KJJEC-fgIw_0000005 53.7 57.8 
+Alexz_Johnson/1KJJEC-fgIw_0000006 73.4 79.3 
+Alexz_Johnson/1KJJEC-fgIw_0000007 80.9 92.5 

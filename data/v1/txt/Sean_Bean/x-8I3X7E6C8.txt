@@ -1,0 +1,12 @@
+POI: 			Sean_Bean 
+Youtube ID: 	x-8I3X7E6C8 
+Video length: 	165.0 sec 
+Set (V): 		dev 
+ 
+Sean_Bean/x-8I3X7E6C8_0000001 10.4 15.5 
+Sean_Bean/x-8I3X7E6C8_0000002 38.3 55.2 
+Sean_Bean/x-8I3X7E6C8_0000003 57.0 64.5 
+Sean_Bean/x-8I3X7E6C8_0000004 77.6 86.0 
+Sean_Bean/x-8I3X7E6C8_0000005 86.2 94.5 
+Sean_Bean/x-8I3X7E6C8_0000006 125.5 130.0 
+Sean_Bean/x-8I3X7E6C8_0000007 142.3 149.2 

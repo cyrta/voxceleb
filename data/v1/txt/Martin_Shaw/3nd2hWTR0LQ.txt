@@ -1,0 +1,10 @@
+POI: 			Martin_Shaw 
+Youtube ID: 	3nd2hWTR0LQ 
+Video length: 	386.9 sec 
+Set (V): 		dev 
+ 
+Martin_Shaw/3nd2hWTR0LQ_0000001 83.0 88.9 
+Martin_Shaw/3nd2hWTR0LQ_0000002 113.4 133.1 
+Martin_Shaw/3nd2hWTR0LQ_0000003 139.5 143.4 
+Martin_Shaw/3nd2hWTR0LQ_0000004 292.3 297.0 
+Martin_Shaw/3nd2hWTR0LQ_0000005 346.1 354.4 

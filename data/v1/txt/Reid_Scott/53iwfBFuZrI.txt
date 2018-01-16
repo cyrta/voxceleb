@@ -1,0 +1,8 @@
+POI: 			Reid_Scott 
+Youtube ID: 	53iwfBFuZrI 
+Video length: 	107.1 sec 
+Set (V): 		dev 
+ 
+Reid_Scott/53iwfBFuZrI_0000001 17.1 24.4 
+Reid_Scott/53iwfBFuZrI_0000002 26.8 31.5 
+Reid_Scott/53iwfBFuZrI_0000003 60.0 70.8 

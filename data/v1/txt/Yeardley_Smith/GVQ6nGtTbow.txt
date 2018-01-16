@@ -1,0 +1,9 @@
+POI: 			Yeardley_Smith 
+Youtube ID: 	GVQ6nGtTbow 
+Video length: 	142.2 sec 
+Set (V): 		dev 
+ 
+Yeardley_Smith/GVQ6nGtTbow_0000001 60.8 66.8 
+Yeardley_Smith/GVQ6nGtTbow_0000002 71.3 75.7 
+Yeardley_Smith/GVQ6nGtTbow_0000003 100.7 106.0 
+Yeardley_Smith/GVQ6nGtTbow_0000004 107.0 111.6 

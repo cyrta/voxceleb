@@ -1,0 +1,10 @@
+POI: 			Jack_Reynor 
+Youtube ID: 	j7tq0jJqYvA 
+Video length: 	157.6 sec 
+Set (V): 		dev 
+ 
+Jack_Reynor/j7tq0jJqYvA_0000001 37.0 41.4 
+Jack_Reynor/j7tq0jJqYvA_0000002 49.8 54.5 
+Jack_Reynor/j7tq0jJqYvA_0000003 58.8 63.8 
+Jack_Reynor/j7tq0jJqYvA_0000004 70.0 74.2 
+Jack_Reynor/j7tq0jJqYvA_0000005 109.6 115.2 

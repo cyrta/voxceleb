@@ -1,0 +1,8 @@
+POI: 			Noel_Fielding 
+Youtube ID: 	jE9t3r69m4k 
+Video length: 	523.6 sec 
+Set (V): 		dev 
+ 
+Noel_Fielding/jE9t3r69m4k_0000001 100.0 106.5 
+Noel_Fielding/jE9t3r69m4k_0000002 109.0 117.7 
+Noel_Fielding/jE9t3r69m4k_0000003 441.6 449.8 

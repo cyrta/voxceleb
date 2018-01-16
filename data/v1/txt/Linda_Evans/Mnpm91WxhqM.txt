@@ -1,0 +1,9 @@
+POI: 			Linda_Evans 
+Youtube ID: 	Mnpm91WxhqM 
+Video length: 	533.3 sec 
+Set (V): 		dev 
+ 
+Linda_Evans/Mnpm91WxhqM_0000001 80.4 85.4 
+Linda_Evans/Mnpm91WxhqM_0000002 331.8 337.2 
+Linda_Evans/Mnpm91WxhqM_0000003 395.9 401.0 
+Linda_Evans/Mnpm91WxhqM_0000004 418.0 422.0 

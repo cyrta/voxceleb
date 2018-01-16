@@ -1,0 +1,13 @@
+POI: 			Laura_Haddock 
+Youtube ID: 	2IleaU6iPyU 
+Video length: 	102.2 sec 
+Set (V): 		dev 
+ 
+Laura_Haddock/2IleaU6iPyU_0000001 09.0 14.2 
+Laura_Haddock/2IleaU6iPyU_0000002 15.8 21.6 
+Laura_Haddock/2IleaU6iPyU_0000003 21.9 31.6 
+Laura_Haddock/2IleaU6iPyU_0000004 40.1 48.3 
+Laura_Haddock/2IleaU6iPyU_0000005 49.4 56.2 
+Laura_Haddock/2IleaU6iPyU_0000006 67.0 73.7 
+Laura_Haddock/2IleaU6iPyU_0000007 74.0 78.8 
+Laura_Haddock/2IleaU6iPyU_0000008 79.3 94.9 

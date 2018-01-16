@@ -1,0 +1,8 @@
+POI: 			Ben_Stiller 
+Youtube ID: 	g3rRbfoko44 
+Video length: 	213.3 sec 
+Set (V): 		dev 
+ 
+Ben_Stiller/g3rRbfoko44_0000001 87.3 92.9 
+Ben_Stiller/g3rRbfoko44_0000002 157.9 162.0 
+Ben_Stiller/g3rRbfoko44_0000003 167.0 178.7 

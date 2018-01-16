@@ -1,0 +1,8 @@
+POI: 			Charlie_Day 
+Youtube ID: 	Lhl7FC_6ugs 
+Video length: 	202.0 sec 
+Set (V): 		dev 
+ 
+Charlie_Day/Lhl7FC_6ugs_0000001 26.6 31.0 
+Charlie_Day/Lhl7FC_6ugs_0000002 82.0 91.3 
+Charlie_Day/Lhl7FC_6ugs_0000003 140.4 144.7 

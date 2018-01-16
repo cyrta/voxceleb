@@ -1,0 +1,7 @@
+POI: 			Eric_Roberts 
+Youtube ID: 	p08spQszEYU 
+Video length: 	154.7 sec 
+Set (V): 		test 
+ 
+Eric_Roberts/p08spQszEYU_0000001 32.2 36.6 
+Eric_Roberts/p08spQszEYU_0000002 129.9 136.1 

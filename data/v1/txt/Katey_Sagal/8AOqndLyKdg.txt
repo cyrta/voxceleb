@@ -1,0 +1,11 @@
+POI: 			Katey_Sagal 
+Youtube ID: 	8AOqndLyKdg 
+Video length: 	533.9 sec 
+Set (V): 		dev 
+ 
+Katey_Sagal/8AOqndLyKdg_0000001 52.5 59.6 
+Katey_Sagal/8AOqndLyKdg_0000002 89.2 93.6 
+Katey_Sagal/8AOqndLyKdg_0000003 364.3 370.1 
+Katey_Sagal/8AOqndLyKdg_0000004 483.6 488.2 
+Katey_Sagal/8AOqndLyKdg_0000005 515.4 519.6 
+Katey_Sagal/8AOqndLyKdg_0000006 520.2 524.2 

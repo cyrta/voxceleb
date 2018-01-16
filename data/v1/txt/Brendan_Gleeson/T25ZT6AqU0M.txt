@@ -1,0 +1,17 @@
+POI: 			Brendan_Gleeson 
+Youtube ID: 	T25ZT6AqU0M 
+Video length: 	277.3 sec 
+Set (V): 		dev 
+ 
+Brendan_Gleeson/T25ZT6AqU0M_0000001 09.8 15.5 
+Brendan_Gleeson/T25ZT6AqU0M_0000002 61.1 66.3 
+Brendan_Gleeson/T25ZT6AqU0M_0000003 74.8 81.8 
+Brendan_Gleeson/T25ZT6AqU0M_0000004 91.2 97.5 
+Brendan_Gleeson/T25ZT6AqU0M_0000005 101.1 108.8 
+Brendan_Gleeson/T25ZT6AqU0M_0000006 171.5 180.6 
+Brendan_Gleeson/T25ZT6AqU0M_0000007 184.0 190.1 
+Brendan_Gleeson/T25ZT6AqU0M_0000008 193.3 197.8 
+Brendan_Gleeson/T25ZT6AqU0M_0000009 216.6 221.1 
+Brendan_Gleeson/T25ZT6AqU0M_0000010 228.6 234.6 
+Brendan_Gleeson/T25ZT6AqU0M_0000011 235.6 241.4 
+Brendan_Gleeson/T25ZT6AqU0M_0000012 268.8 273.7 

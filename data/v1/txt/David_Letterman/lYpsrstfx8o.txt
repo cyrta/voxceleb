@@ -1,0 +1,12 @@
+POI: 			David_Letterman 
+Youtube ID: 	lYpsrstfx8o 
+Video length: 	931.4 sec 
+Set (V): 		dev 
+ 
+David_Letterman/lYpsrstfx8o_0000001 10.3 15.5 
+David_Letterman/lYpsrstfx8o_0000002 17.2 25.4 
+David_Letterman/lYpsrstfx8o_0000003 229.5 234.8 
+David_Letterman/lYpsrstfx8o_0000004 357.9 364.1 
+David_Letterman/lYpsrstfx8o_0000005 507.3 513.4 
+David_Letterman/lYpsrstfx8o_0000006 584.5 589.1 
+David_Letterman/lYpsrstfx8o_0000007 633.5 641.0 

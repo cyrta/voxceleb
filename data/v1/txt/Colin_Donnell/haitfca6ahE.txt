@@ -1,0 +1,10 @@
+POI: 			Colin_Donnell 
+Youtube ID: 	haitfca6ahE 
+Video length: 	142.8 sec 
+Set (V): 		dev 
+ 
+Colin_Donnell/haitfca6ahE_0000001 62.1 67.6 
+Colin_Donnell/haitfca6ahE_0000002 69.4 81.5 
+Colin_Donnell/haitfca6ahE_0000003 83.6 92.0 
+Colin_Donnell/haitfca6ahE_0000004 101.1 108.3 
+Colin_Donnell/haitfca6ahE_0000005 112.4 120.9 

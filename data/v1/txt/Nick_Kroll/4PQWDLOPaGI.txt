@@ -1,0 +1,8 @@
+POI: 			Nick_Kroll 
+Youtube ID: 	4PQWDLOPaGI 
+Video length: 	254.9 sec 
+Set (V): 		dev 
+ 
+Nick_Kroll/4PQWDLOPaGI_0000001 109.4 113.6 
+Nick_Kroll/4PQWDLOPaGI_0000002 118.0 125.6 
+Nick_Kroll/4PQWDLOPaGI_0000003 133.0 141.4 

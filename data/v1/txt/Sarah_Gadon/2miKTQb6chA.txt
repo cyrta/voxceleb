@@ -1,0 +1,18 @@
+POI: 			Sarah_Gadon 
+Youtube ID: 	2miKTQb6chA 
+Video length: 	367.3 sec 
+Set (V): 		dev 
+ 
+Sarah_Gadon/2miKTQb6chA_0000001 19.5 41.5 
+Sarah_Gadon/2miKTQb6chA_0000002 59.9 73.0 
+Sarah_Gadon/2miKTQb6chA_0000003 76.3 110.1 
+Sarah_Gadon/2miKTQb6chA_0000004 129.2 153.9 
+Sarah_Gadon/2miKTQb6chA_0000005 161.9 188.4 
+Sarah_Gadon/2miKTQb6chA_0000006 210.5 236.1 
+Sarah_Gadon/2miKTQb6chA_0000007 236.4 246.6 
+Sarah_Gadon/2miKTQb6chA_0000008 268.4 276.6 
+Sarah_Gadon/2miKTQb6chA_0000009 276.7 304.0 
+Sarah_Gadon/2miKTQb6chA_0000010 304.8 314.1 
+Sarah_Gadon/2miKTQb6chA_0000011 324.0 328.7 
+Sarah_Gadon/2miKTQb6chA_0000012 329.7 339.8 
+Sarah_Gadon/2miKTQb6chA_0000013 345.4 350.6 

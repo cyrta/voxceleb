@@ -1,0 +1,17 @@
+POI: 			Nelly_Furtado 
+Youtube ID: 	bwxyyTAYU2k 
+Video length: 	473.3 sec 
+Set (V): 		dev 
+ 
+Nelly_Furtado/bwxyyTAYU2k_0000001 28.8 38.1 
+Nelly_Furtado/bwxyyTAYU2k_0000002 55.7 61.2 
+Nelly_Furtado/bwxyyTAYU2k_0000003 101.9 108.8 
+Nelly_Furtado/bwxyyTAYU2k_0000004 139.8 153.4 
+Nelly_Furtado/bwxyyTAYU2k_0000005 170.7 185.2 
+Nelly_Furtado/bwxyyTAYU2k_0000006 197.3 210.9 
+Nelly_Furtado/bwxyyTAYU2k_0000007 212.1 216.1 
+Nelly_Furtado/bwxyyTAYU2k_0000008 294.2 301.6 
+Nelly_Furtado/bwxyyTAYU2k_0000009 344.8 349.6 
+Nelly_Furtado/bwxyyTAYU2k_0000010 359.4 366.9 
+Nelly_Furtado/bwxyyTAYU2k_0000011 391.5 400.1 
+Nelly_Furtado/bwxyyTAYU2k_0000012 402.5 407.1 

@@ -1,0 +1,17 @@
+POI: 			Giovanni_Ribisi 
+Youtube ID: 	tMmHcSRFLYk 
+Video length: 	265.0 sec 
+Set (V): 		dev 
+ 
+Giovanni_Ribisi/tMmHcSRFLYk_0000001 22.1 27.1 
+Giovanni_Ribisi/tMmHcSRFLYk_0000002 30.8 35.7 
+Giovanni_Ribisi/tMmHcSRFLYk_0000003 56.4 61.6 
+Giovanni_Ribisi/tMmHcSRFLYk_0000004 62.0 66.9 
+Giovanni_Ribisi/tMmHcSRFLYk_0000005 72.3 76.5 
+Giovanni_Ribisi/tMmHcSRFLYk_0000006 105.4 111.9 
+Giovanni_Ribisi/tMmHcSRFLYk_0000007 115.7 121.6 
+Giovanni_Ribisi/tMmHcSRFLYk_0000008 122.2 127.6 
+Giovanni_Ribisi/tMmHcSRFLYk_0000009 134.8 140.1 
+Giovanni_Ribisi/tMmHcSRFLYk_0000010 213.7 221.7 
+Giovanni_Ribisi/tMmHcSRFLYk_0000011 226.5 243.0 
+Giovanni_Ribisi/tMmHcSRFLYk_0000012 243.9 251.9 

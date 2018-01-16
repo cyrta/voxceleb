@@ -1,0 +1,10 @@
+POI: 			Jack_Griffo 
+Youtube ID: 	IBzIBDi6N9k 
+Video length: 	137.3 sec 
+Set (V): 		dev 
+ 
+Jack_Griffo/IBzIBDi6N9k_0000001 22.6 26.6 
+Jack_Griffo/IBzIBDi6N9k_0000002 26.9 31.1 
+Jack_Griffo/IBzIBDi6N9k_0000003 46.4 55.7 
+Jack_Griffo/IBzIBDi6N9k_0000004 67.9 77.4 
+Jack_Griffo/IBzIBDi6N9k_0000005 93.9 106.3 

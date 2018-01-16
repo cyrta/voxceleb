@@ -1,0 +1,20 @@
+POI: 			Jared_Harris 
+Youtube ID: 	irdagiKV-gY 
+Video length: 	483.0 sec 
+Set (V): 		dev 
+ 
+Jared_Harris/irdagiKV-gY_0000001 24.4 29.2 
+Jared_Harris/irdagiKV-gY_0000002 50.0 56.0 
+Jared_Harris/irdagiKV-gY_0000003 74.2 83.5 
+Jared_Harris/irdagiKV-gY_0000004 130.2 135.0 
+Jared_Harris/irdagiKV-gY_0000005 172.0 187.2 
+Jared_Harris/irdagiKV-gY_0000006 191.8 202.6 
+Jared_Harris/irdagiKV-gY_0000007 224.4 229.5 
+Jared_Harris/irdagiKV-gY_0000008 246.3 250.5 
+Jared_Harris/irdagiKV-gY_0000009 257.8 265.2 
+Jared_Harris/irdagiKV-gY_0000010 269.5 273.5 
+Jared_Harris/irdagiKV-gY_0000011 311.3 320.0 
+Jared_Harris/irdagiKV-gY_0000012 349.2 353.4 
+Jared_Harris/irdagiKV-gY_0000013 427.8 441.8 
+Jared_Harris/irdagiKV-gY_0000014 461.0 465.1 
+Jared_Harris/irdagiKV-gY_0000015 473.2 478.1 

@@ -1,0 +1,10 @@
+POI: 			Beth_Grant 
+Youtube ID: 	tqlzrcVQBJc 
+Video length: 	152.9 sec 
+Set (V): 		dev 
+ 
+Beth_Grant/tqlzrcVQBJc_0000001 14.4 19.7 
+Beth_Grant/tqlzrcVQBJc_0000002 26.6 30.8 
+Beth_Grant/tqlzrcVQBJc_0000003 66.6 73.6 
+Beth_Grant/tqlzrcVQBJc_0000004 74.2 78.8 
+Beth_Grant/tqlzrcVQBJc_0000005 82.8 87.0 

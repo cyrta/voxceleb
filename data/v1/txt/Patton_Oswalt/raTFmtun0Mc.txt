@@ -1,0 +1,10 @@
+POI: 			Patton_Oswalt 
+Youtube ID: 	raTFmtun0Mc 
+Video length: 	148.2 sec 
+Set (V): 		dev 
+ 
+Patton_Oswalt/raTFmtun0Mc_0000001 21.6 31.2 
+Patton_Oswalt/raTFmtun0Mc_0000002 29.7 49.6 
+Patton_Oswalt/raTFmtun0Mc_0000003 50.8 55.1 
+Patton_Oswalt/raTFmtun0Mc_0000004 55.7 84.2 
+Patton_Oswalt/raTFmtun0Mc_0000005 89.7 100.6 

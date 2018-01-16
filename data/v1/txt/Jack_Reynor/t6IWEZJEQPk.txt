@@ -1,0 +1,11 @@
+POI: 			Jack_Reynor 
+Youtube ID: 	t6IWEZJEQPk 
+Video length: 	95.4 sec 
+Set (V): 		dev 
+ 
+Jack_Reynor/t6IWEZJEQPk_0000001 24.0 31.3 
+Jack_Reynor/t6IWEZJEQPk_0000002 31.9 36.4 
+Jack_Reynor/t6IWEZJEQPk_0000003 41.3 64.6 
+Jack_Reynor/t6IWEZJEQPk_0000004 66.4 72.7 
+Jack_Reynor/t6IWEZJEQPk_0000005 77.4 82.4 
+Jack_Reynor/t6IWEZJEQPk_0000006 83.0 88.3 

@@ -1,0 +1,11 @@
+POI: 			Chadwick_Boseman 
+Youtube ID: 	9lKeNMkKMTI 
+Video length: 	505.4 sec 
+Set (V): 		dev 
+ 
+Chadwick_Boseman/9lKeNMkKMTI_0000001 121.9 126.9 
+Chadwick_Boseman/9lKeNMkKMTI_0000002 282.0 290.0 
+Chadwick_Boseman/9lKeNMkKMTI_0000003 292.4 296.9 
+Chadwick_Boseman/9lKeNMkKMTI_0000004 302.8 307.5 
+Chadwick_Boseman/9lKeNMkKMTI_0000005 308.2 314.0 
+Chadwick_Boseman/9lKeNMkKMTI_0000006 453.2 462.6 

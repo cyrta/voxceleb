@@ -1,0 +1,12 @@
+POI: 			Justine_Ezarik 
+Youtube ID: 	qf_vHMbIZm8 
+Video length: 	327.8 sec 
+Set (V): 		dev 
+ 
+Justine_Ezarik/qf_vHMbIZm8_0000001 104.7 118.2 
+Justine_Ezarik/qf_vHMbIZm8_0000002 129.2 141.0 
+Justine_Ezarik/qf_vHMbIZm8_0000003 163.8 179.3 
+Justine_Ezarik/qf_vHMbIZm8_0000004 184.2 192.5 
+Justine_Ezarik/qf_vHMbIZm8_0000005 219.8 252.7 
+Justine_Ezarik/qf_vHMbIZm8_0000006 276.0 280.3 
+Justine_Ezarik/qf_vHMbIZm8_0000007 287.3 316.2 

@@ -1,0 +1,10 @@
+POI: 			Wes_Bentley 
+Youtube ID: 	w_KlaWQvGr0 
+Video length: 	153.0 sec 
+Set (V): 		dev 
+ 
+Wes_Bentley/w_KlaWQvGr0_0000001 27.9 35.5 
+Wes_Bentley/w_KlaWQvGr0_0000002 57.5 64.4 
+Wes_Bentley/w_KlaWQvGr0_0000003 68.2 85.5 
+Wes_Bentley/w_KlaWQvGr0_0000004 111.2 118.0 
+Wes_Bentley/w_KlaWQvGr0_0000005 118.3 126.6 

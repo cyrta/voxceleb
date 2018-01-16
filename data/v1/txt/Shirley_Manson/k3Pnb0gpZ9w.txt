@@ -1,0 +1,13 @@
+POI: 			Shirley_Manson 
+Youtube ID: 	k3Pnb0gpZ9w 
+Video length: 	115.0 sec 
+Set (V): 		dev 
+ 
+Shirley_Manson/k3Pnb0gpZ9w_0000001 05.8 11.7 
+Shirley_Manson/k3Pnb0gpZ9w_0000002 23.6 29.2 
+Shirley_Manson/k3Pnb0gpZ9w_0000003 31.8 41.2 
+Shirley_Manson/k3Pnb0gpZ9w_0000004 43.0 47.3 
+Shirley_Manson/k3Pnb0gpZ9w_0000005 48.3 55.6 
+Shirley_Manson/k3Pnb0gpZ9w_0000006 67.8 75.8 
+Shirley_Manson/k3Pnb0gpZ9w_0000007 79.6 90.6 
+Shirley_Manson/k3Pnb0gpZ9w_0000008 99.0 105.3 

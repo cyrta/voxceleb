@@ -1,0 +1,7 @@
+POI: 			James_Marsden 
+Youtube ID: 	WaGf3KKKIyk 
+Video length: 	2040.0 sec 
+Set (V): 		dev 
+ 
+James_Marsden/WaGf3KKKIyk_0000001 96.3 102.9 
+James_Marsden/WaGf3KKKIyk_0000002 1733.3 1737.3 

@@ -1,0 +1,8 @@
+POI: 			Ezra_Miller 
+Youtube ID: 	uTOEzdTJNmU 
+Video length: 	109.4 sec 
+Set (V): 		test 
+ 
+Ezra_Miller/uTOEzdTJNmU_0000001 24.9 29.2 
+Ezra_Miller/uTOEzdTJNmU_0000002 57.5 65.4 
+Ezra_Miller/uTOEzdTJNmU_0000003 79.8 84.2 

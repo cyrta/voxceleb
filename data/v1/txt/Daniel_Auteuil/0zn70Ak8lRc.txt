@@ -1,0 +1,8 @@
+POI: 			Daniel_Auteuil 
+Youtube ID: 	0zn70Ak8lRc 
+Video length: 	316.0 sec 
+Set (V): 		dev 
+ 
+Daniel_Auteuil/0zn70Ak8lRc_0000001 52.2 59.4 
+Daniel_Auteuil/0zn70Ak8lRc_0000002 82.9 87.0 
+Daniel_Auteuil/0zn70Ak8lRc_0000003 206.0 218.6 

@@ -1,0 +1,9 @@
+POI: 			David_Attenborough 
+Youtube ID: 	y1zeMH7Udp0 
+Video length: 	161.9 sec 
+Set (V): 		dev 
+ 
+David_Attenborough/y1zeMH7Udp0_0000001 20.3 27.0 
+David_Attenborough/y1zeMH7Udp0_0000002 46.6 51.8 
+David_Attenborough/y1zeMH7Udp0_0000003 56.8 61.0 
+David_Attenborough/y1zeMH7Udp0_0000004 82.6 88.4 

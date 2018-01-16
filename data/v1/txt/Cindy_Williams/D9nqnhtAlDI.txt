@@ -1,0 +1,7 @@
+POI: 			Cindy_Williams 
+Youtube ID: 	D9nqnhtAlDI 
+Video length: 	85.0 sec 
+Set (V): 		dev 
+ 
+Cindy_Williams/D9nqnhtAlDI_0000001 17.1 21.3 
+Cindy_Williams/D9nqnhtAlDI_0000002 67.4 72.6 

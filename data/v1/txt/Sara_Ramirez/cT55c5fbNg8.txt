@@ -1,0 +1,11 @@
+POI: 			Sara_Ramirez 
+Youtube ID: 	cT55c5fbNg8 
+Video length: 	325.8 sec 
+Set (V): 		dev 
+ 
+Sara_Ramirez/cT55c5fbNg8_0000001 114.7 127.2 
+Sara_Ramirez/cT55c5fbNg8_0000002 132.9 141.8 
+Sara_Ramirez/cT55c5fbNg8_0000003 202.4 210.0 
+Sara_Ramirez/cT55c5fbNg8_0000004 250.0 258.7 
+Sara_Ramirez/cT55c5fbNg8_0000005 287.6 293.0 
+Sara_Ramirez/cT55c5fbNg8_0000006 297.1 309.5 

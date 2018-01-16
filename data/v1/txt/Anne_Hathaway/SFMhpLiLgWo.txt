@@ -1,0 +1,23 @@
+POI: 			Anne_Hathaway 
+Youtube ID: 	SFMhpLiLgWo 
+Video length: 	404.8 sec 
+Set (V): 		dev 
+ 
+Anne_Hathaway/SFMhpLiLgWo_0000001 24.3 41.2 
+Anne_Hathaway/SFMhpLiLgWo_0000002 42.9 48.5 
+Anne_Hathaway/SFMhpLiLgWo_0000003 54.2 58.8 
+Anne_Hathaway/SFMhpLiLgWo_0000004 65.5 71.4 
+Anne_Hathaway/SFMhpLiLgWo_0000005 49.5 53.5 
+Anne_Hathaway/SFMhpLiLgWo_0000006 76.2 93.7 
+Anne_Hathaway/SFMhpLiLgWo_0000007 119.9 132.5 
+Anne_Hathaway/SFMhpLiLgWo_0000008 169.7 178.1 
+Anne_Hathaway/SFMhpLiLgWo_0000009 178.3 182.5 
+Anne_Hathaway/SFMhpLiLgWo_0000010 183.1 193.2 
+Anne_Hathaway/SFMhpLiLgWo_0000011 206.5 214.5 
+Anne_Hathaway/SFMhpLiLgWo_0000012 223.8 230.0 
+Anne_Hathaway/SFMhpLiLgWo_0000013 230.3 235.1 
+Anne_Hathaway/SFMhpLiLgWo_0000014 251.0 260.7 
+Anne_Hathaway/SFMhpLiLgWo_0000015 279.5 286.9 
+Anne_Hathaway/SFMhpLiLgWo_0000016 299.4 316.7 
+Anne_Hathaway/SFMhpLiLgWo_0000017 348.6 357.5 
+Anne_Hathaway/SFMhpLiLgWo_0000018 358.8 366.9 

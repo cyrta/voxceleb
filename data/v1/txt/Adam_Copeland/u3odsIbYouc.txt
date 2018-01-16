@@ -1,0 +1,7 @@
+POI: 			Adam_Copeland 
+Youtube ID: 	u3odsIbYouc 
+Video length: 	39.8 sec 
+Set (V): 		dev 
+ 
+Adam_Copeland/u3odsIbYouc_0000001 00.7 13.7 
+Adam_Copeland/u3odsIbYouc_0000002 20.7 34.7 

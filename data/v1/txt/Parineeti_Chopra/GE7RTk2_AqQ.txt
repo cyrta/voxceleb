@@ -1,0 +1,9 @@
+POI: 			Parineeti_Chopra 
+Youtube ID: 	GE7RTk2_AqQ 
+Video length: 	572.0 sec 
+Set (V): 		dev 
+ 
+Parineeti_Chopra/GE7RTk2_AqQ_0000001 319.5 335.4 
+Parineeti_Chopra/GE7RTk2_AqQ_0000002 374.7 381.8 
+Parineeti_Chopra/GE7RTk2_AqQ_0000003 435.1 439.1 
+Parineeti_Chopra/GE7RTk2_AqQ_0000004 551.9 558.4 

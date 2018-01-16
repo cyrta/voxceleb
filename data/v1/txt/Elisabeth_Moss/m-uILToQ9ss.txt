@@ -1,0 +1,16 @@
+POI: 			Elisabeth_Moss 
+Youtube ID: 	m-uILToQ9ss 
+Video length: 	318.5 sec 
+Set (V): 		test 
+ 
+Elisabeth_Moss/m-uILToQ9ss_0000001 26.4 33.0 
+Elisabeth_Moss/m-uILToQ9ss_0000002 36.7 42.4 
+Elisabeth_Moss/m-uILToQ9ss_0000003 67.4 77.7 
+Elisabeth_Moss/m-uILToQ9ss_0000004 142.4 146.8 
+Elisabeth_Moss/m-uILToQ9ss_0000005 147.3 160.7 
+Elisabeth_Moss/m-uILToQ9ss_0000006 160.8 170.5 
+Elisabeth_Moss/m-uILToQ9ss_0000007 170.7 175.0 
+Elisabeth_Moss/m-uILToQ9ss_0000008 175.5 180.8 
+Elisabeth_Moss/m-uILToQ9ss_0000009 234.0 243.5 
+Elisabeth_Moss/m-uILToQ9ss_0000010 252.0 259.8 
+Elisabeth_Moss/m-uILToQ9ss_0000011 283.6 295.4 

@@ -1,0 +1,9 @@
+POI: 			Seth_Green 
+Youtube ID: 	gPI2uNO9Vmg 
+Video length: 	166.6 sec 
+Set (V): 		dev 
+ 
+Seth_Green/gPI2uNO9Vmg_0000001 49.7 69.6 
+Seth_Green/gPI2uNO9Vmg_0000002 78.8 86.1 
+Seth_Green/gPI2uNO9Vmg_0000003 110.5 120.9 
+Seth_Green/gPI2uNO9Vmg_0000004 137.0 144.2 

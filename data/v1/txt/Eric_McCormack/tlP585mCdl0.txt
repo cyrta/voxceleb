@@ -1,0 +1,17 @@
+POI: 			Eric_McCormack 
+Youtube ID: 	tlP585mCdl0 
+Video length: 	312.8 sec 
+Set (V): 		test 
+ 
+Eric_McCormack/tlP585mCdl0_0000001 40.9 63.3 
+Eric_McCormack/tlP585mCdl0_0000002 84.9 99.1 
+Eric_McCormack/tlP585mCdl0_0000003 100.0 115.3 
+Eric_McCormack/tlP585mCdl0_0000004 142.9 154.4 
+Eric_McCormack/tlP585mCdl0_0000005 159.6 167.8 
+Eric_McCormack/tlP585mCdl0_0000006 182.4 186.4 
+Eric_McCormack/tlP585mCdl0_0000007 187.3 196.4 
+Eric_McCormack/tlP585mCdl0_0000008 198.4 205.7 
+Eric_McCormack/tlP585mCdl0_0000009 206.3 213.4 
+Eric_McCormack/tlP585mCdl0_0000010 227.4 237.4 
+Eric_McCormack/tlP585mCdl0_0000011 238.3 244.2 
+Eric_McCormack/tlP585mCdl0_0000012 247.8 253.5 

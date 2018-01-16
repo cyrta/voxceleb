@@ -1,0 +1,27 @@
+POI: 			Tom_Bergeron 
+Youtube ID: 	vT9LdyTsG2M 
+Video length: 	301.4 sec 
+Set (V): 		dev 
+ 
+Tom_Bergeron/vT9LdyTsG2M_0000001 06.0 10.0 
+Tom_Bergeron/vT9LdyTsG2M_0000002 12.1 19.0 
+Tom_Bergeron/vT9LdyTsG2M_0000003 20.0 35.0 
+Tom_Bergeron/vT9LdyTsG2M_0000004 35.9 58.1 
+Tom_Bergeron/vT9LdyTsG2M_0000005 68.2 75.8 
+Tom_Bergeron/vT9LdyTsG2M_0000006 76.4 80.3 
+Tom_Bergeron/vT9LdyTsG2M_0000007 82.1 94.1 
+Tom_Bergeron/vT9LdyTsG2M_0000008 95.7 100.8 
+Tom_Bergeron/vT9LdyTsG2M_0000009 96.7 129.1 
+Tom_Bergeron/vT9LdyTsG2M_0000010 137.2 151.4 
+Tom_Bergeron/vT9LdyTsG2M_0000011 152.2 161.1 
+Tom_Bergeron/vT9LdyTsG2M_0000012 176.0 181.4 
+Tom_Bergeron/vT9LdyTsG2M_0000013 182.1 194.4 
+Tom_Bergeron/vT9LdyTsG2M_0000014 200.6 211.8 
+Tom_Bergeron/vT9LdyTsG2M_0000015 212.1 237.8 
+Tom_Bergeron/vT9LdyTsG2M_0000016 239.6 248.3 
+Tom_Bergeron/vT9LdyTsG2M_0000017 251.0 255.2 
+Tom_Bergeron/vT9LdyTsG2M_0000018 256.1 261.7 
+Tom_Bergeron/vT9LdyTsG2M_0000019 263.3 272.1 
+Tom_Bergeron/vT9LdyTsG2M_0000020 272.4 284.7 
+Tom_Bergeron/vT9LdyTsG2M_0000021 287.4 291.7 
+Tom_Bergeron/vT9LdyTsG2M_0000022 278.6 284.7 

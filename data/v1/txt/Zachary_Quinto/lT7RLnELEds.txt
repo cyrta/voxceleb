@@ -1,0 +1,15 @@
+POI: 			Zachary_Quinto 
+Youtube ID: 	lT7RLnELEds 
+Video length: 	397.3 sec 
+Set (V): 		dev 
+ 
+Zachary_Quinto/lT7RLnELEds_0000001 70.5 76.8 
+Zachary_Quinto/lT7RLnELEds_0000002 80.9 87.6 
+Zachary_Quinto/lT7RLnELEds_0000003 102.9 107.8 
+Zachary_Quinto/lT7RLnELEds_0000004 109.8 131.8 
+Zachary_Quinto/lT7RLnELEds_0000005 169.2 173.3 
+Zachary_Quinto/lT7RLnELEds_0000006 178.0 194.4 
+Zachary_Quinto/lT7RLnELEds_0000007 196.3 200.6 
+Zachary_Quinto/lT7RLnELEds_0000008 244.5 249.3 
+Zachary_Quinto/lT7RLnELEds_0000009 253.4 258.9 
+Zachary_Quinto/lT7RLnELEds_0000010 269.6 280.8 

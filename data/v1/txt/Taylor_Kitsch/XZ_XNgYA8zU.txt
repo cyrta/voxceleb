@@ -1,0 +1,10 @@
+POI: 			Taylor_Kitsch 
+Youtube ID: 	XZ_XNgYA8zU 
+Video length: 	143.9 sec 
+Set (V): 		dev 
+ 
+Taylor_Kitsch/XZ_XNgYA8zU_0000001 15.8 30.2 
+Taylor_Kitsch/XZ_XNgYA8zU_0000002 50.6 57.6 
+Taylor_Kitsch/XZ_XNgYA8zU_0000003 60.6 65.2 
+Taylor_Kitsch/XZ_XNgYA8zU_0000004 101.0 107.8 
+Taylor_Kitsch/XZ_XNgYA8zU_0000005 120.0 136.9 

@@ -1,0 +1,14 @@
+POI: 			Laura_Carmichael 
+Youtube ID: 	V3on_rsugzc 
+Video length: 	204.0 sec 
+Set (V): 		dev 
+ 
+Laura_Carmichael/V3on_rsugzc_0000001 03.7 14.4 
+Laura_Carmichael/V3on_rsugzc_0000002 25.7 33.3 
+Laura_Carmichael/V3on_rsugzc_0000003 74.9 80.8 
+Laura_Carmichael/V3on_rsugzc_0000004 105.8 115.4 
+Laura_Carmichael/V3on_rsugzc_0000005 116.2 121.9 
+Laura_Carmichael/V3on_rsugzc_0000006 134.5 139.0 
+Laura_Carmichael/V3on_rsugzc_0000007 149.7 164.5 
+Laura_Carmichael/V3on_rsugzc_0000008 172.4 177.5 
+Laura_Carmichael/V3on_rsugzc_0000009 179.7 185.2 

@@ -1,0 +1,7 @@
+POI: 			Denis_Leary 
+Youtube ID: 	EU7Xc6oebrE 
+Video length: 	794.7 sec 
+Set (V): 		dev 
+ 
+Denis_Leary/EU7Xc6oebrE_0000001 630.0 636.0 
+Denis_Leary/EU7Xc6oebrE_0000002 656.1 661.4 

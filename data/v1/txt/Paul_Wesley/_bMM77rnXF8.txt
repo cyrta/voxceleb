@@ -1,0 +1,9 @@
+POI: 			Paul_Wesley 
+Youtube ID: 	_bMM77rnXF8 
+Video length: 	646.6 sec 
+Set (V): 		dev 
+ 
+Paul_Wesley/_bMM77rnXF8_0000001 181.5 192.8 
+Paul_Wesley/_bMM77rnXF8_0000002 195.2 200.2 
+Paul_Wesley/_bMM77rnXF8_0000003 248.4 258.1 
+Paul_Wesley/_bMM77rnXF8_0000004 624.6 631.3 

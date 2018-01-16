@@ -1,0 +1,7 @@
+POI: 			Guillaume_Canet 
+Youtube ID: 	umaVWcTAA54 
+Video length: 	67.4 sec 
+Set (V): 		dev 
+ 
+Guillaume_Canet/umaVWcTAA54_0000001 40.3 49.0 
+Guillaume_Canet/umaVWcTAA54_0000002 49.2 53.8 

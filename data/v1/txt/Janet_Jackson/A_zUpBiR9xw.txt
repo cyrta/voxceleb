@@ -1,0 +1,13 @@
+POI: 			Janet_Jackson 
+Youtube ID: 	A_zUpBiR9xw 
+Video length: 	866.2 sec 
+Set (V): 		dev 
+ 
+Janet_Jackson/A_zUpBiR9xw_0000001 42.1 52.1 
+Janet_Jackson/A_zUpBiR9xw_0000002 257.7 264.1 
+Janet_Jackson/A_zUpBiR9xw_0000003 265.2 272.0 
+Janet_Jackson/A_zUpBiR9xw_0000004 331.0 340.1 
+Janet_Jackson/A_zUpBiR9xw_0000005 537.3 541.2 
+Janet_Jackson/A_zUpBiR9xw_0000006 725.6 730.7 
+Janet_Jackson/A_zUpBiR9xw_0000007 779.9 787.7 
+Janet_Jackson/A_zUpBiR9xw_0000008 836.0 841.8 

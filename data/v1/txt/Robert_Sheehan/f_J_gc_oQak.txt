@@ -1,0 +1,8 @@
+POI: 			Robert_Sheehan 
+Youtube ID: 	f_J_gc_oQak 
+Video length: 	599.9 sec 
+Set (V): 		dev 
+ 
+Robert_Sheehan/f_J_gc_oQak_0000001 338.7 343.4 
+Robert_Sheehan/f_J_gc_oQak_0000002 403.5 408.6 
+Robert_Sheehan/f_J_gc_oQak_0000003 497.5 506.5 

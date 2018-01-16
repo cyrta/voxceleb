@@ -1,0 +1,20 @@
+POI: 			Hye-kyo_Song 
+Youtube ID: 	qXG2i6-PxZY 
+Video length: 	365.2 sec 
+Set (V): 		dev 
+ 
+Hye-kyo_Song/qXG2i6-PxZY_0000001 48.3 53.6 
+Hye-kyo_Song/qXG2i6-PxZY_0000002 68.2 72.6 
+Hye-kyo_Song/qXG2i6-PxZY_0000003 110.8 118.4 
+Hye-kyo_Song/qXG2i6-PxZY_0000004 121.8 127.6 
+Hye-kyo_Song/qXG2i6-PxZY_0000005 140.0 144.6 
+Hye-kyo_Song/qXG2i6-PxZY_0000006 166.6 172.5 
+Hye-kyo_Song/qXG2i6-PxZY_0000007 173.1 177.6 
+Hye-kyo_Song/qXG2i6-PxZY_0000008 185.7 192.0 
+Hye-kyo_Song/qXG2i6-PxZY_0000009 200.4 205.8 
+Hye-kyo_Song/qXG2i6-PxZY_0000010 217.6 229.6 
+Hye-kyo_Song/qXG2i6-PxZY_0000011 230.5 237.9 
+Hye-kyo_Song/qXG2i6-PxZY_0000012 248.5 254.9 
+Hye-kyo_Song/qXG2i6-PxZY_0000013 265.1 270.3 
+Hye-kyo_Song/qXG2i6-PxZY_0000014 310.1 317.0 
+Hye-kyo_Song/qXG2i6-PxZY_0000015 336.2 341.2 

@@ -1,0 +1,7 @@
+POI: 			Ron_Perlman 
+Youtube ID: 	8b6TgwOTvrA 
+Video length: 	186.5 sec 
+Set (V): 		dev 
+ 
+Ron_Perlman/8b6TgwOTvrA_0000001 83.7 88.8 
+Ron_Perlman/8b6TgwOTvrA_0000002 90.9 97.1 

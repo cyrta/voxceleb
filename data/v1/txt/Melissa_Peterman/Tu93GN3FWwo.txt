@@ -1,0 +1,12 @@
+POI: 			Melissa_Peterman 
+Youtube ID: 	Tu93GN3FWwo 
+Video length: 	156.4 sec 
+Set (V): 		dev 
+ 
+Melissa_Peterman/Tu93GN3FWwo_0000001 23.4 27.5 
+Melissa_Peterman/Tu93GN3FWwo_0000002 30.8 58.6 
+Melissa_Peterman/Tu93GN3FWwo_0000003 72.0 78.7 
+Melissa_Peterman/Tu93GN3FWwo_0000004 89.6 93.7 
+Melissa_Peterman/Tu93GN3FWwo_0000005 102.5 112.8 
+Melissa_Peterman/Tu93GN3FWwo_0000006 116.0 136.0 
+Melissa_Peterman/Tu93GN3FWwo_0000007 137.8 143.5 

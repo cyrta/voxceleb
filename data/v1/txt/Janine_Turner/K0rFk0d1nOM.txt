@@ -1,0 +1,8 @@
+POI: 			Janine_Turner 
+Youtube ID: 	K0rFk0d1nOM 
+Video length: 	547.3 sec 
+Set (V): 		dev 
+ 
+Janine_Turner/K0rFk0d1nOM_0000001 135.6 145.6 
+Janine_Turner/K0rFk0d1nOM_0000002 380.7 389.2 
+Janine_Turner/K0rFk0d1nOM_0000003 423.1 431.6 

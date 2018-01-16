@@ -1,0 +1,7 @@
+POI: 			Kenny_Rogers 
+Youtube ID: 	INq77a4PAI8 
+Video length: 	270.4 sec 
+Set (V): 		dev 
+ 
+Kenny_Rogers/INq77a4PAI8_0000001 23.8 29.4 
+Kenny_Rogers/INq77a4PAI8_0000002 36.6 41.3 

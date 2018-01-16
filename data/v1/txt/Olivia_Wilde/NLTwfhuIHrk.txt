@@ -1,0 +1,15 @@
+POI: 			Olivia_Wilde 
+Youtube ID: 	NLTwfhuIHrk 
+Video length: 	269.5 sec 
+Set (V): 		dev 
+ 
+Olivia_Wilde/NLTwfhuIHrk_0000001 10.8 19.4 
+Olivia_Wilde/NLTwfhuIHrk_0000002 37.4 41.8 
+Olivia_Wilde/NLTwfhuIHrk_0000003 49.6 53.8 
+Olivia_Wilde/NLTwfhuIHrk_0000004 58.0 62.4 
+Olivia_Wilde/NLTwfhuIHrk_0000005 64.5 68.5 
+Olivia_Wilde/NLTwfhuIHrk_0000006 73.8 81.2 
+Olivia_Wilde/NLTwfhuIHrk_0000007 110.6 114.6 
+Olivia_Wilde/NLTwfhuIHrk_0000008 120.1 125.0 
+Olivia_Wilde/NLTwfhuIHrk_0000009 153.2 161.8 
+Olivia_Wilde/NLTwfhuIHrk_0000010 179.1 185.6 

@@ -1,0 +1,10 @@
+POI: 			Kristen_Johnston 
+Youtube ID: 	PFWPq3GK7n4 
+Video length: 	176.3 sec 
+Set (V): 		dev 
+ 
+Kristen_Johnston/PFWPq3GK7n4_0000001 07.7 12.2 
+Kristen_Johnston/PFWPq3GK7n4_0000002 22.2 27.6 
+Kristen_Johnston/PFWPq3GK7n4_0000003 30.8 35.2 
+Kristen_Johnston/PFWPq3GK7n4_0000004 67.5 72.1 
+Kristen_Johnston/PFWPq3GK7n4_0000005 78.6 85.4 

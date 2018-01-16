@@ -1,0 +1,21 @@
+POI: 			Don_Rickles 
+Youtube ID: 	EqPFILuyaMQ 
+Video length: 	534.6 sec 
+Set (V): 		dev 
+ 
+Don_Rickles/EqPFILuyaMQ_0000001 88.9 93.6 
+Don_Rickles/EqPFILuyaMQ_0000002 109.3 113.5 
+Don_Rickles/EqPFILuyaMQ_0000003 115.3 125.9 
+Don_Rickles/EqPFILuyaMQ_0000004 117.1 123.6 
+Don_Rickles/EqPFILuyaMQ_0000005 200.3 204.7 
+Don_Rickles/EqPFILuyaMQ_0000006 207.7 214.6 
+Don_Rickles/EqPFILuyaMQ_0000007 244.8 251.6 
+Don_Rickles/EqPFILuyaMQ_0000008 261.4 274.0 
+Don_Rickles/EqPFILuyaMQ_0000009 273.4 277.6 
+Don_Rickles/EqPFILuyaMQ_0000010 294.0 309.1 
+Don_Rickles/EqPFILuyaMQ_0000011 315.0 326.5 
+Don_Rickles/EqPFILuyaMQ_0000012 378.6 384.8 
+Don_Rickles/EqPFILuyaMQ_0000013 412.0 420.3 
+Don_Rickles/EqPFILuyaMQ_0000014 423.5 431.8 
+Don_Rickles/EqPFILuyaMQ_0000015 441.4 454.0 
+Don_Rickles/EqPFILuyaMQ_0000016 454.1 471.5 

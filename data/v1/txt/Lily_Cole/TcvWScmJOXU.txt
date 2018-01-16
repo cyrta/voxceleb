@@ -1,0 +1,11 @@
+POI: 			Lily_Cole 
+Youtube ID: 	TcvWScmJOXU 
+Video length: 	132.1 sec 
+Set (V): 		dev 
+ 
+Lily_Cole/TcvWScmJOXU_0000001 06.2 15.0 
+Lily_Cole/TcvWScmJOXU_0000002 37.1 42.7 
+Lily_Cole/TcvWScmJOXU_0000003 83.6 87.6 
+Lily_Cole/TcvWScmJOXU_0000004 88.4 95.8 
+Lily_Cole/TcvWScmJOXU_0000005 103.7 109.2 
+Lily_Cole/TcvWScmJOXU_0000006 114.9 124.8 

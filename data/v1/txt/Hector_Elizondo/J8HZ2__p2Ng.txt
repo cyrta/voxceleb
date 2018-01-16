@@ -1,0 +1,12 @@
+POI: 			Hector_Elizondo 
+Youtube ID: 	J8HZ2__p2Ng 
+Video length: 	173.9 sec 
+Set (V): 		dev 
+ 
+Hector_Elizondo/J8HZ2__p2Ng_0000001 11.4 18.6 
+Hector_Elizondo/J8HZ2__p2Ng_0000002 19.0 23.8 
+Hector_Elizondo/J8HZ2__p2Ng_0000003 30.4 36.4 
+Hector_Elizondo/J8HZ2__p2Ng_0000004 47.3 64.1 
+Hector_Elizondo/J8HZ2__p2Ng_0000005 65.0 69.9 
+Hector_Elizondo/J8HZ2__p2Ng_0000006 74.5 82.5 
+Hector_Elizondo/J8HZ2__p2Ng_0000007 99.9 106.8 

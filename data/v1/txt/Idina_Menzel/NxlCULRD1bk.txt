@@ -1,0 +1,16 @@
+POI: 			Idina_Menzel 
+Youtube ID: 	NxlCULRD1bk 
+Video length: 	564.7 sec 
+Set (V): 		dev 
+ 
+Idina_Menzel/NxlCULRD1bk_0000001 101.6 106.8 
+Idina_Menzel/NxlCULRD1bk_0000002 113.6 118.6 
+Idina_Menzel/NxlCULRD1bk_0000003 124.1 128.6 
+Idina_Menzel/NxlCULRD1bk_0000004 150.6 159.3 
+Idina_Menzel/NxlCULRD1bk_0000005 160.2 165.8 
+Idina_Menzel/NxlCULRD1bk_0000006 285.3 291.2 
+Idina_Menzel/NxlCULRD1bk_0000007 304.6 310.6 
+Idina_Menzel/NxlCULRD1bk_0000008 331.2 336.3 
+Idina_Menzel/NxlCULRD1bk_0000009 377.6 383.4 
+Idina_Menzel/NxlCULRD1bk_0000010 397.2 403.6 
+Idina_Menzel/NxlCULRD1bk_0000011 436.0 440.1 

@@ -1,0 +1,13 @@
+POI: 			Bill_Nighy 
+Youtube ID: 	mfJV2IRcH18 
+Video length: 	154.2 sec 
+Set (V): 		dev 
+ 
+Bill_Nighy/mfJV2IRcH18_0000001 07.7 21.0 
+Bill_Nighy/mfJV2IRcH18_0000002 21.2 25.8 
+Bill_Nighy/mfJV2IRcH18_0000003 27.0 31.9 
+Bill_Nighy/mfJV2IRcH18_0000004 61.8 78.2 
+Bill_Nighy/mfJV2IRcH18_0000005 78.4 85.5 
+Bill_Nighy/mfJV2IRcH18_0000006 86.6 91.4 
+Bill_Nighy/mfJV2IRcH18_0000007 103.2 118.5 
+Bill_Nighy/mfJV2IRcH18_0000008 125.0 133.4 

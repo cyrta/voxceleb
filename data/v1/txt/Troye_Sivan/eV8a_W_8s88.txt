@@ -1,0 +1,8 @@
+POI: 			Troye_Sivan 
+Youtube ID: 	eV8a_W_8s88 
+Video length: 	267.3 sec 
+Set (V): 		dev 
+ 
+Troye_Sivan/eV8a_W_8s88_0000001 39.6 45.2 
+Troye_Sivan/eV8a_W_8s88_0000002 57.5 61.9 
+Troye_Sivan/eV8a_W_8s88_0000003 98.2 104.0 

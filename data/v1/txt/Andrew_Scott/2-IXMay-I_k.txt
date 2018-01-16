@@ -1,0 +1,10 @@
+POI: 			Andrew_Scott 
+Youtube ID: 	2-IXMay-I_k 
+Video length: 	146.6 sec 
+Set (V): 		dev 
+ 
+Andrew_Scott/2-IXMay-I_k_0000001 14.2 18.2 
+Andrew_Scott/2-IXMay-I_k_0000002 24.2 30.9 
+Andrew_Scott/2-IXMay-I_k_0000003 45.9 59.7 
+Andrew_Scott/2-IXMay-I_k_0000004 84.0 94.7 
+Andrew_Scott/2-IXMay-I_k_0000005 105.1 110.0 

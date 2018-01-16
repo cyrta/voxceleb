@@ -1,0 +1,14 @@
+POI: 			Ruth_Jones 
+Youtube ID: 	LlnzcucLqNo 
+Video length: 	261.3 sec 
+Set (V): 		dev 
+ 
+Ruth_Jones/LlnzcucLqNo_0000001 25.5 29.5 
+Ruth_Jones/LlnzcucLqNo_0000002 33.8 40.1 
+Ruth_Jones/LlnzcucLqNo_0000003 36.8 41.0 
+Ruth_Jones/LlnzcucLqNo_0000004 59.6 64.8 
+Ruth_Jones/LlnzcucLqNo_0000005 83.0 88.5 
+Ruth_Jones/LlnzcucLqNo_0000006 117.2 123.9 
+Ruth_Jones/LlnzcucLqNo_0000007 169.7 178.3 
+Ruth_Jones/LlnzcucLqNo_0000008 198.4 211.8 
+Ruth_Jones/LlnzcucLqNo_0000009 234.0 239.9 

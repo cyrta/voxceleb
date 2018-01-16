@@ -1,0 +1,8 @@
+POI: 			Shirley_Manson 
+Youtube ID: 	aznHWMz2RF4 
+Video length: 	529.3 sec 
+Set (V): 		dev 
+ 
+Shirley_Manson/aznHWMz2RF4_0000001 309.5 313.9 
+Shirley_Manson/aznHWMz2RF4_0000002 319.8 324.6 
+Shirley_Manson/aznHWMz2RF4_0000003 330.7 334.7 

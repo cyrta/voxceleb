@@ -1,0 +1,7 @@
+POI: 			Malin_Akerman 
+Youtube ID: 	CpAZQjkfWPA 
+Video length: 	99.1 sec 
+Set (V): 		dev 
+ 
+Malin_Akerman/CpAZQjkfWPA_0000001 13.3 18.8 
+Malin_Akerman/CpAZQjkfWPA_0000002 64.0 79.0 

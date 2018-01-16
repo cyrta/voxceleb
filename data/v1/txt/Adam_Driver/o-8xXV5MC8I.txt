@@ -1,0 +1,16 @@
+POI: 			Adam_Driver 
+Youtube ID: 	o-8xXV5MC8I 
+Video length: 	315.7 sec 
+Set (V): 		dev 
+ 
+Adam_Driver/o-8xXV5MC8I_0000001 35.6 42.4 
+Adam_Driver/o-8xXV5MC8I_0000002 60.4 65.7 
+Adam_Driver/o-8xXV5MC8I_0000003 71.9 81.1 
+Adam_Driver/o-8xXV5MC8I_0000004 114.6 119.9 
+Adam_Driver/o-8xXV5MC8I_0000005 136.3 141.7 
+Adam_Driver/o-8xXV5MC8I_0000006 143.2 147.2 
+Adam_Driver/o-8xXV5MC8I_0000007 218.4 223.1 
+Adam_Driver/o-8xXV5MC8I_0000008 227.6 235.8 
+Adam_Driver/o-8xXV5MC8I_0000009 240.8 245.0 
+Adam_Driver/o-8xXV5MC8I_0000010 275.4 279.8 
+Adam_Driver/o-8xXV5MC8I_0000011 280.2 286.1 

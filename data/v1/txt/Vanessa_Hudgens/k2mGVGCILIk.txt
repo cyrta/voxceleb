@@ -1,0 +1,16 @@
+POI: 			Vanessa_Hudgens 
+Youtube ID: 	k2mGVGCILIk 
+Video length: 	218.9 sec 
+Set (V): 		dev 
+ 
+Vanessa_Hudgens/k2mGVGCILIk_0000001 07.8 12.6 
+Vanessa_Hudgens/k2mGVGCILIk_0000002 20.4 30.2 
+Vanessa_Hudgens/k2mGVGCILIk_0000003 39.0 46.2 
+Vanessa_Hudgens/k2mGVGCILIk_0000004 46.4 56.5 
+Vanessa_Hudgens/k2mGVGCILIk_0000005 56.8 63.7 
+Vanessa_Hudgens/k2mGVGCILIk_0000006 70.2 80.2 
+Vanessa_Hudgens/k2mGVGCILIk_0000007 97.8 106.4 
+Vanessa_Hudgens/k2mGVGCILIk_0000008 109.9 116.9 
+Vanessa_Hudgens/k2mGVGCILIk_0000009 135.0 164.7 
+Vanessa_Hudgens/k2mGVGCILIk_0000010 167.8 178.4 
+Vanessa_Hudgens/k2mGVGCILIk_0000011 184.9 203.2 

@@ -1,0 +1,13 @@
+POI: 			Cameron_Boyce 
+Youtube ID: 	SdWoQGTJpVw 
+Video length: 	319.3 sec 
+Set (V): 		dev 
+ 
+Cameron_Boyce/SdWoQGTJpVw_0000001 47.5 53.6 
+Cameron_Boyce/SdWoQGTJpVw_0000002 90.9 98.0 
+Cameron_Boyce/SdWoQGTJpVw_0000003 156.8 162.3 
+Cameron_Boyce/SdWoQGTJpVw_0000004 207.4 228.2 
+Cameron_Boyce/SdWoQGTJpVw_0000005 249.6 254.1 
+Cameron_Boyce/SdWoQGTJpVw_0000006 260.4 265.8 
+Cameron_Boyce/SdWoQGTJpVw_0000007 274.2 278.6 
+Cameron_Boyce/SdWoQGTJpVw_0000008 281.9 288.3 

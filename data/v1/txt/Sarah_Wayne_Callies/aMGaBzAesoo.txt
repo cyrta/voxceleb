@@ -1,0 +1,14 @@
+POI: 			Sarah_Wayne_Callies 
+Youtube ID: 	aMGaBzAesoo 
+Video length: 	139.0 sec 
+Set (V): 		dev 
+ 
+Sarah_Wayne_Callies/aMGaBzAesoo_0000001 40.7 48.7 
+Sarah_Wayne_Callies/aMGaBzAesoo_0000002 59.3 74.9 
+Sarah_Wayne_Callies/aMGaBzAesoo_0000003 75.2 79.2 
+Sarah_Wayne_Callies/aMGaBzAesoo_0000004 82.6 87.4 
+Sarah_Wayne_Callies/aMGaBzAesoo_0000005 88.6 95.3 
+Sarah_Wayne_Callies/aMGaBzAesoo_0000006 100.4 105.2 
+Sarah_Wayne_Callies/aMGaBzAesoo_0000007 111.7 117.3 
+Sarah_Wayne_Callies/aMGaBzAesoo_0000008 121.0 125.7 
+Sarah_Wayne_Callies/aMGaBzAesoo_0000009 128.8 133.6 

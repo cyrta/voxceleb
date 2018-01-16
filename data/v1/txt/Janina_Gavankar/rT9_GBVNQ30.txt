@@ -1,0 +1,10 @@
+POI: 			Janina_Gavankar 
+Youtube ID: 	rT9_GBVNQ30 
+Video length: 	275.3 sec 
+Set (V): 		dev 
+ 
+Janina_Gavankar/rT9_GBVNQ30_0000001 87.5 92.4 
+Janina_Gavankar/rT9_GBVNQ30_0000002 109.8 117.5 
+Janina_Gavankar/rT9_GBVNQ30_0000003 157.1 163.1 
+Janina_Gavankar/rT9_GBVNQ30_0000004 248.8 257.2 
+Janina_Gavankar/rT9_GBVNQ30_0000005 258.0 265.1 

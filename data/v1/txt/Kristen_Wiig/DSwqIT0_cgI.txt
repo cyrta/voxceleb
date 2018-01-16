@@ -1,0 +1,13 @@
+POI: 			Kristen_Wiig 
+Youtube ID: 	DSwqIT0_cgI 
+Video length: 	1896.3 sec 
+Set (V): 		dev 
+ 
+Kristen_Wiig/DSwqIT0_cgI_0000001 245.6 258.7 
+Kristen_Wiig/DSwqIT0_cgI_0000002 259.4 269.1 
+Kristen_Wiig/DSwqIT0_cgI_0000003 564.4 578.2 
+Kristen_Wiig/DSwqIT0_cgI_0000004 584.0 591.9 
+Kristen_Wiig/DSwqIT0_cgI_0000005 812.8 817.2 
+Kristen_Wiig/DSwqIT0_cgI_0000006 1621.9 1630.3 
+Kristen_Wiig/DSwqIT0_cgI_0000007 1650.9 1656.7 
+Kristen_Wiig/DSwqIT0_cgI_0000008 1651.8 1656.8 

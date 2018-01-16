@@ -1,0 +1,7 @@
+POI: 			Niall_Horan 
+Youtube ID: 	a6m3uraJU7s 
+Video length: 	532.5 sec 
+Set (V): 		dev 
+ 
+Niall_Horan/a6m3uraJU7s_0000001 176.5 181.5 
+Niall_Horan/a6m3uraJU7s_0000002 255.3 261.0 

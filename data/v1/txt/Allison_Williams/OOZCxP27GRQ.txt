@@ -1,0 +1,11 @@
+POI: 			Allison_Williams 
+Youtube ID: 	OOZCxP27GRQ 
+Video length: 	344.9 sec 
+Set (V): 		dev 
+ 
+Allison_Williams/OOZCxP27GRQ_0000001 89.4 93.6 
+Allison_Williams/OOZCxP27GRQ_0000002 99.9 107.0 
+Allison_Williams/OOZCxP27GRQ_0000003 156.6 162.9 
+Allison_Williams/OOZCxP27GRQ_0000004 178.3 184.4 
+Allison_Williams/OOZCxP27GRQ_0000005 191.8 198.2 
+Allison_Williams/OOZCxP27GRQ_0000006 259.4 266.6 

@@ -1,0 +1,15 @@
+POI: 			Diego_Luna 
+Youtube ID: 	rSLX_7UYRiw 
+Video length: 	197.2 sec 
+Set (V): 		dev 
+ 
+Diego_Luna/rSLX_7UYRiw_0000001 08.2 14.4 
+Diego_Luna/rSLX_7UYRiw_0000002 18.2 26.4 
+Diego_Luna/rSLX_7UYRiw_0000003 43.0 53.8 
+Diego_Luna/rSLX_7UYRiw_0000004 63.1 69.0 
+Diego_Luna/rSLX_7UYRiw_0000005 69.9 83.0 
+Diego_Luna/rSLX_7UYRiw_0000006 103.6 108.5 
+Diego_Luna/rSLX_7UYRiw_0000007 113.8 123.4 
+Diego_Luna/rSLX_7UYRiw_0000008 139.4 146.4 
+Diego_Luna/rSLX_7UYRiw_0000009 150.9 162.4 
+Diego_Luna/rSLX_7UYRiw_0000010 174.1 180.6 

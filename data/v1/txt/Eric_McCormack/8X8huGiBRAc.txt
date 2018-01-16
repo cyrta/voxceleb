@@ -1,0 +1,7 @@
+POI: 			Eric_McCormack 
+Youtube ID: 	8X8huGiBRAc 
+Video length: 	223.6 sec 
+Set (V): 		test 
+ 
+Eric_McCormack/8X8huGiBRAc_0000001 93.3 99.9 
+Eric_McCormack/8X8huGiBRAc_0000002 170.9 176.5 

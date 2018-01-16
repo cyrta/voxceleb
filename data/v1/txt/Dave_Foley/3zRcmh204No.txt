@@ -1,0 +1,7 @@
+POI: 			Dave_Foley 
+Youtube ID: 	3zRcmh204No 
+Video length: 	273.1 sec 
+Set (V): 		dev 
+ 
+Dave_Foley/3zRcmh204No_0000001 150.9 156.6 
+Dave_Foley/3zRcmh204No_0000002 192.6 199.2 

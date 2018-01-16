@@ -1,0 +1,11 @@
+POI: 			David_Cassidy 
+Youtube ID: 	L1fJ3GLw5so 
+Video length: 	288.0 sec 
+Set (V): 		dev 
+ 
+David_Cassidy/L1fJ3GLw5so_0000001 21.1 32.5 
+David_Cassidy/L1fJ3GLw5so_0000002 67.9 78.9 
+David_Cassidy/L1fJ3GLw5so_0000003 90.0 95.6 
+David_Cassidy/L1fJ3GLw5so_0000004 144.4 149.6 
+David_Cassidy/L1fJ3GLw5so_0000005 187.3 193.8 
+David_Cassidy/L1fJ3GLw5so_0000006 235.2 240.5 

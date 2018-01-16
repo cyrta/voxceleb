@@ -1,0 +1,7 @@
+POI: 			John_Hodgman 
+Youtube ID: 	0zZ3dnCUstQ 
+Video length: 	63.5 sec 
+Set (V): 		dev 
+ 
+John_Hodgman/0zZ3dnCUstQ_0000001 32.7 37.8 
+John_Hodgman/0zZ3dnCUstQ_0000002 38.0 45.9 

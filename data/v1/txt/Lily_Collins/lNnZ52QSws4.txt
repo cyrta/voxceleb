@@ -1,0 +1,25 @@
+POI: 			Lily_Collins 
+Youtube ID: 	lNnZ52QSws4 
+Video length: 	489.9 sec 
+Set (V): 		dev 
+ 
+Lily_Collins/lNnZ52QSws4_0000001 05.8 18.1 
+Lily_Collins/lNnZ52QSws4_0000002 20.0 39.5 
+Lily_Collins/lNnZ52QSws4_0000003 42.8 48.8 
+Lily_Collins/lNnZ52QSws4_0000004 49.8 57.2 
+Lily_Collins/lNnZ52QSws4_0000005 64.5 95.0 
+Lily_Collins/lNnZ52QSws4_0000006 98.2 136.8 
+Lily_Collins/lNnZ52QSws4_0000007 142.8 151.4 
+Lily_Collins/lNnZ52QSws4_0000008 151.8 171.6 
+Lily_Collins/lNnZ52QSws4_0000009 174.9 201.4 
+Lily_Collins/lNnZ52QSws4_0000010 201.6 219.5 
+Lily_Collins/lNnZ52QSws4_0000011 222.7 231.4 
+Lily_Collins/lNnZ52QSws4_0000012 231.6 255.6 
+Lily_Collins/lNnZ52QSws4_0000013 260.7 292.0 
+Lily_Collins/lNnZ52QSws4_0000014 292.8 302.8 
+Lily_Collins/lNnZ52QSws4_0000015 305.9 339.6 
+Lily_Collins/lNnZ52QSws4_0000016 346.4 351.5 
+Lily_Collins/lNnZ52QSws4_0000017 352.7 395.4 
+Lily_Collins/lNnZ52QSws4_0000018 398.6 407.7 
+Lily_Collins/lNnZ52QSws4_0000019 408.2 413.8 
+Lily_Collins/lNnZ52QSws4_0000020 426.4 465.8 

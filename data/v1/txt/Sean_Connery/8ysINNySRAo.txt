@@ -1,0 +1,7 @@
+POI: 			Sean_Connery 
+Youtube ID: 	8ysINNySRAo 
+Video length: 	578.2 sec 
+Set (V): 		dev 
+ 
+Sean_Connery/8ysINNySRAo_0000001 504.6 510.0 
+Sean_Connery/8ysINNySRAo_0000002 511.8 518.3 

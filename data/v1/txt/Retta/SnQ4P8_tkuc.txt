@@ -1,0 +1,14 @@
+POI: 			Retta 
+Youtube ID: 	SnQ4P8_tkuc 
+Video length: 	2033.7 sec 
+Set (V): 		dev 
+ 
+Retta/SnQ4P8_tkuc_0000001 1672.0 1676.5 
+Retta/SnQ4P8_tkuc_0000002 1696.0 1707.7 
+Retta/SnQ4P8_tkuc_0000003 1744.5 1748.6 
+Retta/SnQ4P8_tkuc_0000004 1758.6 1767.2 
+Retta/SnQ4P8_tkuc_0000005 1768.0 1772.9 
+Retta/SnQ4P8_tkuc_0000006 1819.4 1823.4 
+Retta/SnQ4P8_tkuc_0000007 1943.4 1949.4 
+Retta/SnQ4P8_tkuc_0000008 1982.2 1986.9 
+Retta/SnQ4P8_tkuc_0000009 1998.4 2008.3 

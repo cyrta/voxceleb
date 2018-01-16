@@ -1,0 +1,26 @@
+POI: 			Joseph_Gordon-Levitt 
+Youtube ID: 	2acqwAr_P_U 
+Video length: 	575.3 sec 
+Set (V): 		dev 
+ 
+Joseph_Gordon-Levitt/2acqwAr_P_U_0000001 24.6 28.6 
+Joseph_Gordon-Levitt/2acqwAr_P_U_0000002 75.0 90.8 
+Joseph_Gordon-Levitt/2acqwAr_P_U_0000003 92.0 99.8 
+Joseph_Gordon-Levitt/2acqwAr_P_U_0000004 101.6 113.6 
+Joseph_Gordon-Levitt/2acqwAr_P_U_0000005 119.9 145.7 
+Joseph_Gordon-Levitt/2acqwAr_P_U_0000006 150.3 154.8 
+Joseph_Gordon-Levitt/2acqwAr_P_U_0000007 156.0 162.4 
+Joseph_Gordon-Levitt/2acqwAr_P_U_0000008 162.8 169.8 
+Joseph_Gordon-Levitt/2acqwAr_P_U_0000009 170.7 186.8 
+Joseph_Gordon-Levitt/2acqwAr_P_U_0000010 190.6 196.4 
+Joseph_Gordon-Levitt/2acqwAr_P_U_0000011 197.0 202.6 
+Joseph_Gordon-Levitt/2acqwAr_P_U_0000012 224.6 228.9 
+Joseph_Gordon-Levitt/2acqwAr_P_U_0000013 229.9 251.6 
+Joseph_Gordon-Levitt/2acqwAr_P_U_0000014 254.1 272.8 
+Joseph_Gordon-Levitt/2acqwAr_P_U_0000015 288.6 295.5 
+Joseph_Gordon-Levitt/2acqwAr_P_U_0000016 303.4 322.8 
+Joseph_Gordon-Levitt/2acqwAr_P_U_0000017 324.3 328.9 
+Joseph_Gordon-Levitt/2acqwAr_P_U_0000018 336.7 355.0 
+Joseph_Gordon-Levitt/2acqwAr_P_U_0000019 356.2 362.7 
+Joseph_Gordon-Levitt/2acqwAr_P_U_0000020 208.3 212.8 
+Joseph_Gordon-Levitt/2acqwAr_P_U_0000021 526.0 536.2 

@@ -1,0 +1,12 @@
+POI: 			Kathryn_Joosten 
+Youtube ID: 	7cSonSKo6Mo 
+Video length: 	95.3 sec 
+Set (V): 		dev 
+ 
+Kathryn_Joosten/7cSonSKo6Mo_0000001 05.8 14.0 
+Kathryn_Joosten/7cSonSKo6Mo_0000002 15.1 19.2 
+Kathryn_Joosten/7cSonSKo6Mo_0000003 19.5 30.2 
+Kathryn_Joosten/7cSonSKo6Mo_0000004 30.8 36.4 
+Kathryn_Joosten/7cSonSKo6Mo_0000005 40.8 49.8 
+Kathryn_Joosten/7cSonSKo6Mo_0000006 51.8 69.8 
+Kathryn_Joosten/7cSonSKo6Mo_0000007 69.8 82.8 

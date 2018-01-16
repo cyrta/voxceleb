@@ -1,0 +1,8 @@
+POI: 			Patrick_Swayze 
+Youtube ID: 	tm0lN6z_ZpE 
+Video length: 	786.4 sec 
+Set (V): 		dev 
+ 
+Patrick_Swayze/tm0lN6z_ZpE_0000001 659.9 664.8 
+Patrick_Swayze/tm0lN6z_ZpE_0000002 700.6 708.7 
+Patrick_Swayze/tm0lN6z_ZpE_0000003 733.8 740.8 

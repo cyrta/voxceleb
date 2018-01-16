@@ -1,0 +1,7 @@
+POI: 			Miles_Teller 
+Youtube ID: 	1uH0oYYFK9s 
+Video length: 	278.1 sec 
+Set (V): 		dev 
+ 
+Miles_Teller/1uH0oYYFK9s_0000001 53.6 59.2 
+Miles_Teller/1uH0oYYFK9s_0000002 173.2 194.3 

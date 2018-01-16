@@ -1,0 +1,14 @@
+POI: 			Tom_Hooper 
+Youtube ID: 	Pey8wFnO_UU 
+Video length: 	208.3 sec 
+Set (V): 		dev 
+ 
+Tom_Hooper/Pey8wFnO_UU_0000001 15.0 27.9 
+Tom_Hooper/Pey8wFnO_UU_0000002 39.2 48.4 
+Tom_Hooper/Pey8wFnO_UU_0000003 54.2 63.2 
+Tom_Hooper/Pey8wFnO_UU_0000004 65.3 69.4 
+Tom_Hooper/Pey8wFnO_UU_0000005 71.8 80.7 
+Tom_Hooper/Pey8wFnO_UU_0000006 85.4 90.8 
+Tom_Hooper/Pey8wFnO_UU_0000007 107.2 137.3 
+Tom_Hooper/Pey8wFnO_UU_0000008 169.4 180.0 
+Tom_Hooper/Pey8wFnO_UU_0000009 190.3 198.9 

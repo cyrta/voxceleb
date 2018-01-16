@@ -1,0 +1,13 @@
+POI: 			Sarah_Drew 
+Youtube ID: 	NkqrqBDqiyM 
+Video length: 	269.4 sec 
+Set (V): 		dev 
+ 
+Sarah_Drew/NkqrqBDqiyM_0000001 34.5 40.2 
+Sarah_Drew/NkqrqBDqiyM_0000002 75.4 82.3 
+Sarah_Drew/NkqrqBDqiyM_0000003 88.8 92.9 
+Sarah_Drew/NkqrqBDqiyM_0000004 156.4 160.4 
+Sarah_Drew/NkqrqBDqiyM_0000005 191.5 196.0 
+Sarah_Drew/NkqrqBDqiyM_0000006 212.3 217.1 
+Sarah_Drew/NkqrqBDqiyM_0000007 221.8 227.1 
+Sarah_Drew/NkqrqBDqiyM_0000008 233.2 251.7 

@@ -1,0 +1,8 @@
+POI: 			Jack_Black 
+Youtube ID: 	CKSw9f_b8pM 
+Video length: 	561.4 sec 
+Set (V): 		dev 
+ 
+Jack_Black/CKSw9f_b8pM_0000001 242.1 246.1 
+Jack_Black/CKSw9f_b8pM_0000002 250.0 254.7 
+Jack_Black/CKSw9f_b8pM_0000003 263.1 269.2 

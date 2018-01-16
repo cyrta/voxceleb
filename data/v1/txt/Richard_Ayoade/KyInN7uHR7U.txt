@@ -1,0 +1,19 @@
+POI: 			Richard_Ayoade 
+Youtube ID: 	KyInN7uHR7U 
+Video length: 	224.3 sec 
+Set (V): 		dev 
+ 
+Richard_Ayoade/KyInN7uHR7U_0000001 16.8 24.9 
+Richard_Ayoade/KyInN7uHR7U_0000002 25.0 29.5 
+Richard_Ayoade/KyInN7uHR7U_0000003 34.0 41.0 
+Richard_Ayoade/KyInN7uHR7U_0000004 44.5 51.2 
+Richard_Ayoade/KyInN7uHR7U_0000005 66.4 72.2 
+Richard_Ayoade/KyInN7uHR7U_0000006 75.8 84.1 
+Richard_Ayoade/KyInN7uHR7U_0000007 84.7 89.6 
+Richard_Ayoade/KyInN7uHR7U_0000008 112.5 120.7 
+Richard_Ayoade/KyInN7uHR7U_0000009 126.7 132.1 
+Richard_Ayoade/KyInN7uHR7U_0000010 138.2 164.8 
+Richard_Ayoade/KyInN7uHR7U_0000011 179.8 184.3 
+Richard_Ayoade/KyInN7uHR7U_0000012 188.9 193.0 
+Richard_Ayoade/KyInN7uHR7U_0000013 200.8 206.8 
+Richard_Ayoade/KyInN7uHR7U_0000014 209.2 214.6 

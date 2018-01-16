@@ -1,0 +1,13 @@
+POI: 			Derek_Jacobi 
+Youtube ID: 	A4KM2EHZp54 
+Video length: 	159.1 sec 
+Set (V): 		dev 
+ 
+Derek_Jacobi/A4KM2EHZp54_0000001 00.7 19.7 
+Derek_Jacobi/A4KM2EHZp54_0000002 20.6 44.4 
+Derek_Jacobi/A4KM2EHZp54_0000003 45.6 65.5 
+Derek_Jacobi/A4KM2EHZp54_0000004 65.8 76.8 
+Derek_Jacobi/A4KM2EHZp54_0000005 81.7 103.0 
+Derek_Jacobi/A4KM2EHZp54_0000006 103.2 137.5 
+Derek_Jacobi/A4KM2EHZp54_0000007 108.0 114.2 
+Derek_Jacobi/A4KM2EHZp54_0000008 139.7 145.8 

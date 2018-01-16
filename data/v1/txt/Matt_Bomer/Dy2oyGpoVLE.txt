@@ -1,0 +1,11 @@
+POI: 			Matt_Bomer 
+Youtube ID: 	Dy2oyGpoVLE 
+Video length: 	201.2 sec 
+Set (V): 		dev 
+ 
+Matt_Bomer/Dy2oyGpoVLE_0000001 29.2 34.3 
+Matt_Bomer/Dy2oyGpoVLE_0000002 36.6 44.2 
+Matt_Bomer/Dy2oyGpoVLE_0000003 92.3 100.5 
+Matt_Bomer/Dy2oyGpoVLE_0000004 115.4 121.3 
+Matt_Bomer/Dy2oyGpoVLE_0000005 140.1 145.8 
+Matt_Bomer/Dy2oyGpoVLE_0000006 147.9 156.3 

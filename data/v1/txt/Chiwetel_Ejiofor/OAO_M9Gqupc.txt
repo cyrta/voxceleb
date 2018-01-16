@@ -1,0 +1,16 @@
+POI: 			Chiwetel_Ejiofor 
+Youtube ID: 	OAO_M9Gqupc 
+Video length: 	191.5 sec 
+Set (V): 		dev 
+ 
+Chiwetel_Ejiofor/OAO_M9Gqupc_0000001 18.8 23.8 
+Chiwetel_Ejiofor/OAO_M9Gqupc_0000002 30.5 35.8 
+Chiwetel_Ejiofor/OAO_M9Gqupc_0000003 36.9 51.2 
+Chiwetel_Ejiofor/OAO_M9Gqupc_0000004 54.2 61.5 
+Chiwetel_Ejiofor/OAO_M9Gqupc_0000005 61.7 71.8 
+Chiwetel_Ejiofor/OAO_M9Gqupc_0000006 75.6 90.2 
+Chiwetel_Ejiofor/OAO_M9Gqupc_0000007 93.1 97.0 
+Chiwetel_Ejiofor/OAO_M9Gqupc_0000008 104.9 113.9 
+Chiwetel_Ejiofor/OAO_M9Gqupc_0000009 114.7 144.0 
+Chiwetel_Ejiofor/OAO_M9Gqupc_0000010 144.6 171.9 
+Chiwetel_Ejiofor/OAO_M9Gqupc_0000011 172.2 178.4 

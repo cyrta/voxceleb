@@ -1,0 +1,21 @@
+POI: 			Hal_Sparks 
+Youtube ID: 	QBiI2XiJmEg 
+Video length: 	242.2 sec 
+Set (V): 		dev 
+ 
+Hal_Sparks/QBiI2XiJmEg_0000001 02.7 11.4 
+Hal_Sparks/QBiI2XiJmEg_0000002 11.8 26.4 
+Hal_Sparks/QBiI2XiJmEg_0000003 31.4 47.6 
+Hal_Sparks/QBiI2XiJmEg_0000004 49.0 60.9 
+Hal_Sparks/QBiI2XiJmEg_0000005 66.5 88.8 
+Hal_Sparks/QBiI2XiJmEg_0000006 91.9 100.0 
+Hal_Sparks/QBiI2XiJmEg_0000007 100.1 111.5 
+Hal_Sparks/QBiI2XiJmEg_0000008 115.8 124.7 
+Hal_Sparks/QBiI2XiJmEg_0000009 124.8 142.4 
+Hal_Sparks/QBiI2XiJmEg_0000010 142.4 153.8 
+Hal_Sparks/QBiI2XiJmEg_0000011 159.4 165.8 
+Hal_Sparks/QBiI2XiJmEg_0000012 166.8 171.8 
+Hal_Sparks/QBiI2XiJmEg_0000013 172.2 179.9 
+Hal_Sparks/QBiI2XiJmEg_0000014 183.8 188.0 
+Hal_Sparks/QBiI2XiJmEg_0000015 189.9 209.5 
+Hal_Sparks/QBiI2XiJmEg_0000016 212.0 227.4 

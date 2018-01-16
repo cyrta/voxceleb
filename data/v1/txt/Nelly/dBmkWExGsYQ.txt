@@ -1,0 +1,16 @@
+POI: 			Nelly 
+Youtube ID: 	dBmkWExGsYQ 
+Video length: 	587.7 sec 
+Set (V): 		dev 
+ 
+Nelly/dBmkWExGsYQ_0000001 03.5 17.5 
+Nelly/dBmkWExGsYQ_0000002 20.1 24.1 
+Nelly/dBmkWExGsYQ_0000003 24.4 34.3 
+Nelly/dBmkWExGsYQ_0000004 102.6 108.6 
+Nelly/dBmkWExGsYQ_0000005 238.0 242.5 
+Nelly/dBmkWExGsYQ_0000006 285.9 289.8 
+Nelly/dBmkWExGsYQ_0000007 292.0 297.5 
+Nelly/dBmkWExGsYQ_0000008 467.4 482.9 
+Nelly/dBmkWExGsYQ_0000009 489.4 504.2 
+Nelly/dBmkWExGsYQ_0000010 551.6 557.3 
+Nelly/dBmkWExGsYQ_0000011 561.6 565.5 

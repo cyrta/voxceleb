@@ -1,0 +1,15 @@
+POI: 			Michael_Mando 
+Youtube ID: 	e2X98trpXeg 
+Video length: 	452.5 sec 
+Set (V): 		dev 
+ 
+Michael_Mando/e2X98trpXeg_0000001 85.6 91.4 
+Michael_Mando/e2X98trpXeg_0000002 95.4 103.3 
+Michael_Mando/e2X98trpXeg_0000003 211.6 216.6 
+Michael_Mando/e2X98trpXeg_0000004 218.7 223.4 
+Michael_Mando/e2X98trpXeg_0000005 233.0 239.6 
+Michael_Mando/e2X98trpXeg_0000006 259.7 265.0 
+Michael_Mando/e2X98trpXeg_0000007 289.8 299.4 
+Michael_Mando/e2X98trpXeg_0000008 307.1 313.4 
+Michael_Mando/e2X98trpXeg_0000009 382.1 389.8 
+Michael_Mando/e2X98trpXeg_0000010 437.1 442.6 

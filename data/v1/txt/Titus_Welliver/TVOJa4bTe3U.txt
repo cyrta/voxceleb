@@ -1,0 +1,23 @@
+POI: 			Titus_Welliver 
+Youtube ID: 	TVOJa4bTe3U 
+Video length: 	678.8 sec 
+Set (V): 		dev 
+ 
+Titus_Welliver/TVOJa4bTe3U_0000001 170.5 174.7 
+Titus_Welliver/TVOJa4bTe3U_0000002 175.7 179.7 
+Titus_Welliver/TVOJa4bTe3U_0000003 217.8 221.8 
+Titus_Welliver/TVOJa4bTe3U_0000004 222.6 228.9 
+Titus_Welliver/TVOJa4bTe3U_0000005 229.8 233.9 
+Titus_Welliver/TVOJa4bTe3U_0000006 234.5 243.3 
+Titus_Welliver/TVOJa4bTe3U_0000007 247.1 259.5 
+Titus_Welliver/TVOJa4bTe3U_0000008 270.6 275.7 
+Titus_Welliver/TVOJa4bTe3U_0000009 276.4 286.4 
+Titus_Welliver/TVOJa4bTe3U_0000010 288.4 294.7 
+Titus_Welliver/TVOJa4bTe3U_0000011 352.4 362.7 
+Titus_Welliver/TVOJa4bTe3U_0000012 380.1 392.5 
+Titus_Welliver/TVOJa4bTe3U_0000013 397.4 402.3 
+Titus_Welliver/TVOJa4bTe3U_0000014 525.0 530.4 
+Titus_Welliver/TVOJa4bTe3U_0000015 556.0 562.1 
+Titus_Welliver/TVOJa4bTe3U_0000016 604.8 608.8 
+Titus_Welliver/TVOJa4bTe3U_0000017 613.0 619.6 
+Titus_Welliver/TVOJa4bTe3U_0000018 637.1 645.8 

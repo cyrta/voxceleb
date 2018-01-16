@@ -1,0 +1,7 @@
+POI: 			Charlotte_Gainsbourg 
+Youtube ID: 	6hlIufEg-sY 
+Video length: 	583.2 sec 
+Set (V): 		dev 
+ 
+Charlotte_Gainsbourg/6hlIufEg-sY_0000001 89.8 94.4 
+Charlotte_Gainsbourg/6hlIufEg-sY_0000002 128.8 132.8 

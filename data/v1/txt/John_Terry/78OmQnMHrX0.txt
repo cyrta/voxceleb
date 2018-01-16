@@ -1,0 +1,10 @@
+POI: 			John_Terry 
+Youtube ID: 	78OmQnMHrX0 
+Video length: 	249.4 sec 
+Set (V): 		dev 
+ 
+John_Terry/78OmQnMHrX0_0000001 14.2 18.4 
+John_Terry/78OmQnMHrX0_0000002 89.5 95.4 
+John_Terry/78OmQnMHrX0_0000003 110.4 115.1 
+John_Terry/78OmQnMHrX0_0000004 165.2 170.6 
+John_Terry/78OmQnMHrX0_0000005 175.6 180.3 

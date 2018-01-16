@@ -1,0 +1,25 @@
+POI: 			Jordan_Gavaris 
+Youtube ID: 	FeQ9b5bMf9c 
+Video length: 	472.1 sec 
+Set (V): 		dev 
+ 
+Jordan_Gavaris/FeQ9b5bMf9c_0000001 22.8 39.6 
+Jordan_Gavaris/FeQ9b5bMf9c_0000002 53.7 61.6 
+Jordan_Gavaris/FeQ9b5bMf9c_0000003 64.1 71.6 
+Jordan_Gavaris/FeQ9b5bMf9c_0000004 82.0 86.9 
+Jordan_Gavaris/FeQ9b5bMf9c_0000005 93.9 107.8 
+Jordan_Gavaris/FeQ9b5bMf9c_0000006 108.2 113.5 
+Jordan_Gavaris/FeQ9b5bMf9c_0000007 130.1 138.4 
+Jordan_Gavaris/FeQ9b5bMf9c_0000008 143.6 158.9 
+Jordan_Gavaris/FeQ9b5bMf9c_0000009 160.3 175.0 
+Jordan_Gavaris/FeQ9b5bMf9c_0000010 256.3 265.0 
+Jordan_Gavaris/FeQ9b5bMf9c_0000011 276.0 280.1 
+Jordan_Gavaris/FeQ9b5bMf9c_0000012 300.3 305.6 
+Jordan_Gavaris/FeQ9b5bMf9c_0000013 306.6 317.1 
+Jordan_Gavaris/FeQ9b5bMf9c_0000014 317.2 328.2 
+Jordan_Gavaris/FeQ9b5bMf9c_0000015 340.1 351.2 
+Jordan_Gavaris/FeQ9b5bMf9c_0000016 364.6 372.6 
+Jordan_Gavaris/FeQ9b5bMf9c_0000017 373.7 380.9 
+Jordan_Gavaris/FeQ9b5bMf9c_0000018 381.4 387.4 
+Jordan_Gavaris/FeQ9b5bMf9c_0000019 387.9 418.4 
+Jordan_Gavaris/FeQ9b5bMf9c_0000020 432.0 459.6 

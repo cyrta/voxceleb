@@ -1,0 +1,16 @@
+POI: 			Ashley_Jensen 
+Youtube ID: 	TpDkvh1uKqs 
+Video length: 	416.8 sec 
+Set (V): 		dev 
+ 
+Ashley_Jensen/TpDkvh1uKqs_0000001 113.6 118.3 
+Ashley_Jensen/TpDkvh1uKqs_0000002 138.7 143.4 
+Ashley_Jensen/TpDkvh1uKqs_0000003 151.7 155.8 
+Ashley_Jensen/TpDkvh1uKqs_0000004 181.0 185.4 
+Ashley_Jensen/TpDkvh1uKqs_0000005 208.2 212.9 
+Ashley_Jensen/TpDkvh1uKqs_0000006 217.9 221.9 
+Ashley_Jensen/TpDkvh1uKqs_0000007 236.6 244.2 
+Ashley_Jensen/TpDkvh1uKqs_0000008 245.0 252.3 
+Ashley_Jensen/TpDkvh1uKqs_0000009 281.2 289.0 
+Ashley_Jensen/TpDkvh1uKqs_0000010 300.2 313.0 
+Ashley_Jensen/TpDkvh1uKqs_0000011 342.4 352.0 

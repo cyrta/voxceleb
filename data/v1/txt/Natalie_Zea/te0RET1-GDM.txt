@@ -1,0 +1,12 @@
+POI: 			Natalie_Zea 
+Youtube ID: 	te0RET1-GDM 
+Video length: 	181.4 sec 
+Set (V): 		dev 
+ 
+Natalie_Zea/te0RET1-GDM_0000001 12.4 16.7 
+Natalie_Zea/te0RET1-GDM_0000002 34.7 39.4 
+Natalie_Zea/te0RET1-GDM_0000003 56.3 64.7 
+Natalie_Zea/te0RET1-GDM_0000004 64.8 74.1 
+Natalie_Zea/te0RET1-GDM_0000005 125.3 137.6 
+Natalie_Zea/te0RET1-GDM_0000006 138.2 143.3 
+Natalie_Zea/te0RET1-GDM_0000007 153.7 160.2 

@@ -1,0 +1,24 @@
+POI: 			Danny_Pino 
+Youtube ID: 	xz2mrPFJGiM 
+Video length: 	325.0 sec 
+Set (V): 		dev 
+ 
+Danny_Pino/xz2mrPFJGiM_0000001 03.7 25.5 
+Danny_Pino/xz2mrPFJGiM_0000002 33.4 48.9 
+Danny_Pino/xz2mrPFJGiM_0000003 50.4 66.3 
+Danny_Pino/xz2mrPFJGiM_0000004 71.6 76.6 
+Danny_Pino/xz2mrPFJGiM_0000005 77.2 82.8 
+Danny_Pino/xz2mrPFJGiM_0000006 102.3 112.8 
+Danny_Pino/xz2mrPFJGiM_0000007 113.1 128.1 
+Danny_Pino/xz2mrPFJGiM_0000008 147.4 156.1 
+Danny_Pino/xz2mrPFJGiM_0000009 172.0 184.0 
+Danny_Pino/xz2mrPFJGiM_0000010 196.2 205.4 
+Danny_Pino/xz2mrPFJGiM_0000011 212.9 218.4 
+Danny_Pino/xz2mrPFJGiM_0000012 235.7 240.2 
+Danny_Pino/xz2mrPFJGiM_0000013 247.7 257.4 
+Danny_Pino/xz2mrPFJGiM_0000014 259.4 268.0 
+Danny_Pino/xz2mrPFJGiM_0000015 277.6 291.1 
+Danny_Pino/xz2mrPFJGiM_0000016 295.8 301.9 
+Danny_Pino/xz2mrPFJGiM_0000017 303.3 307.8 
+Danny_Pino/xz2mrPFJGiM_0000018 309.4 318.8 
+Danny_Pino/xz2mrPFJGiM_0000019 171.9 181.1 

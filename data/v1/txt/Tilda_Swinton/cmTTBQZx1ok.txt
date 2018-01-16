@@ -1,0 +1,12 @@
+POI: 			Tilda_Swinton 
+Youtube ID: 	cmTTBQZx1ok 
+Video length: 	1378.6 sec 
+Set (V): 		dev 
+ 
+Tilda_Swinton/cmTTBQZx1ok_0000001 92.6 101.3 
+Tilda_Swinton/cmTTBQZx1ok_0000002 438.5 443.3 
+Tilda_Swinton/cmTTBQZx1ok_0000003 444.3 457.2 
+Tilda_Swinton/cmTTBQZx1ok_0000004 717.0 729.8 
+Tilda_Swinton/cmTTBQZx1ok_0000005 749.0 767.9 
+Tilda_Swinton/cmTTBQZx1ok_0000006 774.4 784.5 
+Tilda_Swinton/cmTTBQZx1ok_0000007 876.2 883.1 

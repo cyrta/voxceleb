@@ -1,0 +1,14 @@
+POI: 			Marion_Cotillard 
+Youtube ID: 	WG0WzFM5IMs 
+Video length: 	577.7 sec 
+Set (V): 		dev 
+ 
+Marion_Cotillard/WG0WzFM5IMs_0000001 87.3 93.6 
+Marion_Cotillard/WG0WzFM5IMs_0000002 99.4 104.1 
+Marion_Cotillard/WG0WzFM5IMs_0000003 142.3 146.6 
+Marion_Cotillard/WG0WzFM5IMs_0000004 202.4 206.7 
+Marion_Cotillard/WG0WzFM5IMs_0000005 245.2 249.4 
+Marion_Cotillard/WG0WzFM5IMs_0000006 331.4 337.4 
+Marion_Cotillard/WG0WzFM5IMs_0000007 417.0 421.6 
+Marion_Cotillard/WG0WzFM5IMs_0000008 483.4 489.4 
+Marion_Cotillard/WG0WzFM5IMs_0000009 533.9 544.0 

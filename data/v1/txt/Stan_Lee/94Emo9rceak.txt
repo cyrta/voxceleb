@@ -1,0 +1,16 @@
+POI: 			Stan_Lee 
+Youtube ID: 	94Emo9rceak 
+Video length: 	438.0 sec 
+Set (V): 		dev 
+ 
+Stan_Lee/94Emo9rceak_0000001 85.1 93.5 
+Stan_Lee/94Emo9rceak_0000002 93.6 98.6 
+Stan_Lee/94Emo9rceak_0000003 107.4 112.0 
+Stan_Lee/94Emo9rceak_0000004 180.9 188.7 
+Stan_Lee/94Emo9rceak_0000005 190.7 210.7 
+Stan_Lee/94Emo9rceak_0000006 278.4 286.6 
+Stan_Lee/94Emo9rceak_0000007 324.7 337.4 
+Stan_Lee/94Emo9rceak_0000008 340.3 344.6 
+Stan_Lee/94Emo9rceak_0000009 384.1 394.9 
+Stan_Lee/94Emo9rceak_0000010 395.4 400.0 
+Stan_Lee/94Emo9rceak_0000011 402.0 421.8 

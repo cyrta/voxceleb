@@ -1,0 +1,15 @@
+POI: 			Andre_Braugher 
+Youtube ID: 	V0BS-9n1jP4 
+Video length: 	249.6 sec 
+Set (V): 		dev 
+ 
+Andre_Braugher/V0BS-9n1jP4_0000001 12.4 19.8 
+Andre_Braugher/V0BS-9n1jP4_0000002 51.5 62.4 
+Andre_Braugher/V0BS-9n1jP4_0000003 64.6 71.8 
+Andre_Braugher/V0BS-9n1jP4_0000004 77.4 82.0 
+Andre_Braugher/V0BS-9n1jP4_0000005 93.8 111.0 
+Andre_Braugher/V0BS-9n1jP4_0000006 131.6 155.6 
+Andre_Braugher/V0BS-9n1jP4_0000007 159.4 165.9 
+Andre_Braugher/V0BS-9n1jP4_0000008 184.3 195.3 
+Andre_Braugher/V0BS-9n1jP4_0000009 195.8 213.8 
+Andre_Braugher/V0BS-9n1jP4_0000010 227.3 247.3 

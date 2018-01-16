@@ -1,0 +1,11 @@
+POI: 			Miles_Teller 
+Youtube ID: 	yELZ0BUr0W8 
+Video length: 	153.2 sec 
+Set (V): 		dev 
+ 
+Miles_Teller/yELZ0BUr0W8_0000001 26.4 38.0 
+Miles_Teller/yELZ0BUr0W8_0000002 57.4 68.6 
+Miles_Teller/yELZ0BUr0W8_0000003 69.0 73.6 
+Miles_Teller/yELZ0BUr0W8_0000004 88.2 99.3 
+Miles_Teller/yELZ0BUr0W8_0000005 132.0 140.6 
+Miles_Teller/yELZ0BUr0W8_0000006 141.4 146.6 

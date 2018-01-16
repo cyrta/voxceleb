@@ -1,0 +1,20 @@
+POI: 			Shirley_Manson 
+Youtube ID: 	GVykM-4pRu0 
+Video length: 	188.3 sec 
+Set (V): 		dev 
+ 
+Shirley_Manson/GVykM-4pRu0_0000001 14.0 25.9 
+Shirley_Manson/GVykM-4pRu0_0000002 30.3 34.4 
+Shirley_Manson/GVykM-4pRu0_0000003 34.6 40.2 
+Shirley_Manson/GVykM-4pRu0_0000004 40.7 50.4 
+Shirley_Manson/GVykM-4pRu0_0000005 52.0 56.0 
+Shirley_Manson/GVykM-4pRu0_0000006 57.9 62.2 
+Shirley_Manson/GVykM-4pRu0_0000007 67.3 73.4 
+Shirley_Manson/GVykM-4pRu0_0000008 80.8 88.4 
+Shirley_Manson/GVykM-4pRu0_0000009 89.1 94.0 
+Shirley_Manson/GVykM-4pRu0_0000010 94.3 101.1 
+Shirley_Manson/GVykM-4pRu0_0000011 103.5 118.2 
+Shirley_Manson/GVykM-4pRu0_0000012 121.1 130.1 
+Shirley_Manson/GVykM-4pRu0_0000013 131.8 142.9 
+Shirley_Manson/GVykM-4pRu0_0000014 153.6 173.6 
+Shirley_Manson/GVykM-4pRu0_0000015 177.1 182.0 

@@ -1,0 +1,15 @@
+POI: 			Anne_Hathaway 
+Youtube ID: 	8GGP83uAxI4 
+Video length: 	254.7 sec 
+Set (V): 		dev 
+ 
+Anne_Hathaway/8GGP83uAxI4_0000001 20.7 25.8 
+Anne_Hathaway/8GGP83uAxI4_0000002 28.9 33.0 
+Anne_Hathaway/8GGP83uAxI4_0000003 57.4 63.8 
+Anne_Hathaway/8GGP83uAxI4_0000004 66.6 72.8 
+Anne_Hathaway/8GGP83uAxI4_0000005 73.2 82.2 
+Anne_Hathaway/8GGP83uAxI4_0000006 116.7 122.1 
+Anne_Hathaway/8GGP83uAxI4_0000007 125.1 131.4 
+Anne_Hathaway/8GGP83uAxI4_0000008 166.1 175.0 
+Anne_Hathaway/8GGP83uAxI4_0000009 179.6 191.0 
+Anne_Hathaway/8GGP83uAxI4_0000010 208.6 215.0 

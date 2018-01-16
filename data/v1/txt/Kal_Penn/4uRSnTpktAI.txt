@@ -1,0 +1,18 @@
+POI: 			Kal_Penn 
+Youtube ID: 	4uRSnTpktAI 
+Video length: 	254.9 sec 
+Set (V): 		dev 
+ 
+Kal_Penn/4uRSnTpktAI_0000001 34.4 38.4 
+Kal_Penn/4uRSnTpktAI_0000002 42.7 51.7 
+Kal_Penn/4uRSnTpktAI_0000003 87.3 95.4 
+Kal_Penn/4uRSnTpktAI_0000004 96.4 101.6 
+Kal_Penn/4uRSnTpktAI_0000005 106.4 114.4 
+Kal_Penn/4uRSnTpktAI_0000006 114.6 119.2 
+Kal_Penn/4uRSnTpktAI_0000007 153.8 162.1 
+Kal_Penn/4uRSnTpktAI_0000008 169.4 174.2 
+Kal_Penn/4uRSnTpktAI_0000009 186.0 196.2 
+Kal_Penn/4uRSnTpktAI_0000010 200.0 214.6 
+Kal_Penn/4uRSnTpktAI_0000011 214.8 223.1 
+Kal_Penn/4uRSnTpktAI_0000012 224.5 229.2 
+Kal_Penn/4uRSnTpktAI_0000013 233.9 242.5 

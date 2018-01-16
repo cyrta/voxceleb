@@ -1,0 +1,8 @@
+POI: 			Julia_Stiles 
+Youtube ID: 	oS8RlYOUvm0 
+Video length: 	2393.0 sec 
+Set (V): 		dev 
+ 
+Julia_Stiles/oS8RlYOUvm0_0000001 1107.0 1111.0 
+Julia_Stiles/oS8RlYOUvm0_0000002 1111.7 1125.2 
+Julia_Stiles/oS8RlYOUvm0_0000003 1421.4 1426.7 

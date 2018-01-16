@@ -1,0 +1,10 @@
+POI: 			Rob_Dyrdek 
+Youtube ID: 	s1GVC-6ugNg 
+Video length: 	373.1 sec 
+Set (V): 		dev 
+ 
+Rob_Dyrdek/s1GVC-6ugNg_0000001 62.6 68.3 
+Rob_Dyrdek/s1GVC-6ugNg_0000002 86.3 96.8 
+Rob_Dyrdek/s1GVC-6ugNg_0000003 98.2 103.3 
+Rob_Dyrdek/s1GVC-6ugNg_0000004 116.6 121.6 
+Rob_Dyrdek/s1GVC-6ugNg_0000005 127.6 132.8 

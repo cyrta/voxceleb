@@ -1,0 +1,8 @@
+POI: 			Brenda_Blethyn 
+Youtube ID: 	PU2scHdOJeU 
+Video length: 	183.0 sec 
+Set (V): 		dev 
+ 
+Brenda_Blethyn/PU2scHdOJeU_0000001 17.4 24.0 
+Brenda_Blethyn/PU2scHdOJeU_0000002 75.1 80.8 
+Brenda_Blethyn/PU2scHdOJeU_0000003 123.1 127.1 

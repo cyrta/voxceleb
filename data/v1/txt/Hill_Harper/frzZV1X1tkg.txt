@@ -1,0 +1,13 @@
+POI: 			Hill_Harper 
+Youtube ID: 	frzZV1X1tkg 
+Video length: 	297.4 sec 
+Set (V): 		dev 
+ 
+Hill_Harper/frzZV1X1tkg_0000001 14.5 20.4 
+Hill_Harper/frzZV1X1tkg_0000002 28.7 54.7 
+Hill_Harper/frzZV1X1tkg_0000003 58.2 70.7 
+Hill_Harper/frzZV1X1tkg_0000004 67.1 72.0 
+Hill_Harper/frzZV1X1tkg_0000005 80.3 139.0 
+Hill_Harper/frzZV1X1tkg_0000006 153.6 189.0 
+Hill_Harper/frzZV1X1tkg_0000007 190.6 206.1 
+Hill_Harper/frzZV1X1tkg_0000008 229.6 267.7 

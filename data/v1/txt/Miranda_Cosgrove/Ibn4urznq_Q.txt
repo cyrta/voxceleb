@@ -1,0 +1,13 @@
+POI: 			Miranda_Cosgrove 
+Youtube ID: 	Ibn4urznq_Q 
+Video length: 	350.1 sec 
+Set (V): 		dev 
+ 
+Miranda_Cosgrove/Ibn4urznq_Q_0000001 80.4 86.6 
+Miranda_Cosgrove/Ibn4urznq_Q_0000002 98.4 102.6 
+Miranda_Cosgrove/Ibn4urznq_Q_0000003 123.2 129.8 
+Miranda_Cosgrove/Ibn4urznq_Q_0000004 159.1 164.1 
+Miranda_Cosgrove/Ibn4urznq_Q_0000005 195.2 203.0 
+Miranda_Cosgrove/Ibn4urznq_Q_0000006 216.6 222.0 
+Miranda_Cosgrove/Ibn4urznq_Q_0000007 257.1 264.4 
+Miranda_Cosgrove/Ibn4urznq_Q_0000008 294.4 299.9 

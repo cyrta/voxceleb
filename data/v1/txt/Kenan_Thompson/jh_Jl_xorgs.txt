@@ -1,0 +1,7 @@
+POI: 			Kenan_Thompson 
+Youtube ID: 	jh_Jl_xorgs 
+Video length: 	112.7 sec 
+Set (V): 		dev 
+ 
+Kenan_Thompson/jh_Jl_xorgs_0000001 40.6 49.7 
+Kenan_Thompson/jh_Jl_xorgs_0000002 61.0 65.1 

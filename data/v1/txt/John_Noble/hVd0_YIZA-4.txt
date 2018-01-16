@@ -1,0 +1,19 @@
+POI: 			John_Noble 
+Youtube ID: 	hVd0_YIZA-4 
+Video length: 	365.8 sec 
+Set (V): 		dev 
+ 
+John_Noble/hVd0_YIZA-4_0000001 71.1 79.8 
+John_Noble/hVd0_YIZA-4_0000002 80.4 88.4 
+John_Noble/hVd0_YIZA-4_0000003 102.2 106.3 
+John_Noble/hVd0_YIZA-4_0000004 106.8 113.0 
+John_Noble/hVd0_YIZA-4_0000005 121.2 126.8 
+John_Noble/hVd0_YIZA-4_0000006 148.5 153.5 
+John_Noble/hVd0_YIZA-4_0000007 185.8 191.2 
+John_Noble/hVd0_YIZA-4_0000008 201.5 206.1 
+John_Noble/hVd0_YIZA-4_0000009 228.1 237.4 
+John_Noble/hVd0_YIZA-4_0000010 238.4 244.9 
+John_Noble/hVd0_YIZA-4_0000011 245.2 250.6 
+John_Noble/hVd0_YIZA-4_0000012 268.4 273.3 
+John_Noble/hVd0_YIZA-4_0000013 327.5 331.4 
+John_Noble/hVd0_YIZA-4_0000014 332.9 339.1 

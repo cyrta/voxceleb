@@ -1,0 +1,7 @@
+POI: 			Judith_Light 
+Youtube ID: 	XYzJEBxCcEQ 
+Video length: 	300.6 sec 
+Set (V): 		dev 
+ 
+Judith_Light/XYzJEBxCcEQ_0000001 110.6 116.4 
+Judith_Light/XYzJEBxCcEQ_0000002 169.6 173.6 

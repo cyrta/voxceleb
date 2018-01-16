@@ -1,0 +1,9 @@
+POI: 			Taylor_Swift 
+Youtube ID: 	ahoLMrbFvRg 
+Video length: 	561.6 sec 
+Set (V): 		dev 
+ 
+Taylor_Swift/ahoLMrbFvRg_0000001 303.8 309.1 
+Taylor_Swift/ahoLMrbFvRg_0000002 311.3 316.9 
+Taylor_Swift/ahoLMrbFvRg_0000003 420.7 429.3 
+Taylor_Swift/ahoLMrbFvRg_0000004 443.6 449.1 

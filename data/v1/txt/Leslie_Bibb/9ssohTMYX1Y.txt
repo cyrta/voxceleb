@@ -1,0 +1,8 @@
+POI: 			Leslie_Bibb 
+Youtube ID: 	9ssohTMYX1Y 
+Video length: 	449.2 sec 
+Set (V): 		dev 
+ 
+Leslie_Bibb/9ssohTMYX1Y_0000001 90.4 94.9 
+Leslie_Bibb/9ssohTMYX1Y_0000002 191.9 198.7 
+Leslie_Bibb/9ssohTMYX1Y_0000003 250.3 254.5 

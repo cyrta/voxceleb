@@ -1,0 +1,7 @@
+POI: 			Garrett_Hedlund 
+Youtube ID: 	H_UOO8ODEAU 
+Video length: 	212.8 sec 
+Set (V): 		dev 
+ 
+Garrett_Hedlund/H_UOO8ODEAU_0000001 84.1 89.1 
+Garrett_Hedlund/H_UOO8ODEAU_0000002 89.7 94.6 

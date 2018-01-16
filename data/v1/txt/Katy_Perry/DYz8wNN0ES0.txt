@@ -1,0 +1,9 @@
+POI: 			Katy_Perry 
+Youtube ID: 	DYz8wNN0ES0 
+Video length: 	358.5 sec 
+Set (V): 		dev 
+ 
+Katy_Perry/DYz8wNN0ES0_0000001 140.4 144.4 
+Katy_Perry/DYz8wNN0ES0_0000002 232.9 237.3 
+Katy_Perry/DYz8wNN0ES0_0000003 239.5 243.6 
+Katy_Perry/DYz8wNN0ES0_0000004 282.1 289.2 

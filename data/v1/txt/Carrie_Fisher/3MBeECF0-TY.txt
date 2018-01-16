@@ -1,0 +1,9 @@
+POI: 			Carrie_Fisher 
+Youtube ID: 	3MBeECF0-TY 
+Video length: 	831.3 sec 
+Set (V): 		dev 
+ 
+Carrie_Fisher/3MBeECF0-TY_0000001 175.3 180.7 
+Carrie_Fisher/3MBeECF0-TY_0000002 227.0 234.8 
+Carrie_Fisher/3MBeECF0-TY_0000003 594.3 599.4 
+Carrie_Fisher/3MBeECF0-TY_0000004 603.6 609.0 

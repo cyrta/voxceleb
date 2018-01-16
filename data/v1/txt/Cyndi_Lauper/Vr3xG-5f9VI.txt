@@ -1,0 +1,34 @@
+POI: 			Cyndi_Lauper 
+Youtube ID: 	Vr3xG-5f9VI 
+Video length: 	1586.9 sec 
+Set (V): 		dev 
+ 
+Cyndi_Lauper/Vr3xG-5f9VI_0000001 22.9 28.7 
+Cyndi_Lauper/Vr3xG-5f9VI_0000002 32.6 38.8 
+Cyndi_Lauper/Vr3xG-5f9VI_0000003 44.8 56.2 
+Cyndi_Lauper/Vr3xG-5f9VI_0000004 56.8 64.0 
+Cyndi_Lauper/Vr3xG-5f9VI_0000005 99.2 103.2 
+Cyndi_Lauper/Vr3xG-5f9VI_0000006 194.4 199.4 
+Cyndi_Lauper/Vr3xG-5f9VI_0000007 239.0 245.5 
+Cyndi_Lauper/Vr3xG-5f9VI_0000008 305.9 310.0 
+Cyndi_Lauper/Vr3xG-5f9VI_0000009 396.4 403.8 
+Cyndi_Lauper/Vr3xG-5f9VI_0000010 490.1 495.8 
+Cyndi_Lauper/Vr3xG-5f9VI_0000011 496.4 500.4 
+Cyndi_Lauper/Vr3xG-5f9VI_0000012 618.3 622.3 
+Cyndi_Lauper/Vr3xG-5f9VI_0000013 661.5 670.0 
+Cyndi_Lauper/Vr3xG-5f9VI_0000014 727.6 734.0 
+Cyndi_Lauper/Vr3xG-5f9VI_0000015 774.8 779.6 
+Cyndi_Lauper/Vr3xG-5f9VI_0000016 788.7 794.1 
+Cyndi_Lauper/Vr3xG-5f9VI_0000017 803.3 807.4 
+Cyndi_Lauper/Vr3xG-5f9VI_0000018 809.2 820.1 
+Cyndi_Lauper/Vr3xG-5f9VI_0000019 826.6 834.6 
+Cyndi_Lauper/Vr3xG-5f9VI_0000020 835.8 840.6 
+Cyndi_Lauper/Vr3xG-5f9VI_0000021 847.3 861.8 
+Cyndi_Lauper/Vr3xG-5f9VI_0000022 978.1 983.1 
+Cyndi_Lauper/Vr3xG-5f9VI_0000023 1017.4 1023.7 
+Cyndi_Lauper/Vr3xG-5f9VI_0000024 1032.0 1036.4 
+Cyndi_Lauper/Vr3xG-5f9VI_0000025 1037.0 1041.1 
+Cyndi_Lauper/Vr3xG-5f9VI_0000026 1198.5 1203.1 
+Cyndi_Lauper/Vr3xG-5f9VI_0000027 1380.3 1385.6 
+Cyndi_Lauper/Vr3xG-5f9VI_0000028 1408.9 1416.7 
+Cyndi_Lauper/Vr3xG-5f9VI_0000029 1479.5 1486.6 

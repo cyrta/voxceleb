@@ -1,0 +1,6 @@
+POI: 			Isla_Fisher 
+Youtube ID: 	4cHFJp6NTSc 
+Video length: 	125.7 sec 
+Set (V): 		dev 
+ 
+Isla_Fisher/4cHFJp6NTSc_0000001 60.5 67.2 

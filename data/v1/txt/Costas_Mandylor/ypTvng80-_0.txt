@@ -1,0 +1,18 @@
+POI: 			Costas_Mandylor 
+Youtube ID: 	ypTvng80-_0 
+Video length: 	230.3 sec 
+Set (V): 		dev 
+ 
+Costas_Mandylor/ypTvng80-_0_0000001 03.2 08.4 
+Costas_Mandylor/ypTvng80-_0_0000002 15.8 23.2 
+Costas_Mandylor/ypTvng80-_0_0000003 25.2 30.3 
+Costas_Mandylor/ypTvng80-_0_0000004 46.4 53.6 
+Costas_Mandylor/ypTvng80-_0_0000005 54.6 58.8 
+Costas_Mandylor/ypTvng80-_0_0000006 63.7 72.8 
+Costas_Mandylor/ypTvng80-_0_0000007 94.0 104.1 
+Costas_Mandylor/ypTvng80-_0_0000008 138.5 145.5 
+Costas_Mandylor/ypTvng80-_0_0000009 150.4 155.2 
+Costas_Mandylor/ypTvng80-_0_0000010 164.2 168.1 
+Costas_Mandylor/ypTvng80-_0_0000011 170.0 174.8 
+Costas_Mandylor/ypTvng80-_0_0000012 176.3 187.2 
+Costas_Mandylor/ypTvng80-_0_0000013 211.8 219.8 

@@ -1,0 +1,8 @@
+POI: 			Terrence_Howard 
+Youtube ID: 	7PKsuBS5LQI 
+Video length: 	97.3 sec 
+Set (V): 		dev 
+ 
+Terrence_Howard/7PKsuBS5LQI_0000001 39.0 55.4 
+Terrence_Howard/7PKsuBS5LQI_0000002 70.8 78.0 
+Terrence_Howard/7PKsuBS5LQI_0000003 84.2 95.9 

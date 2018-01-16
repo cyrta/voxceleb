@@ -1,0 +1,10 @@
+POI: 			Steven_Berkoff 
+Youtube ID: 	xkcBWavNWmg 
+Video length: 	438.8 sec 
+Set (V): 		dev 
+ 
+Steven_Berkoff/xkcBWavNWmg_0000001 140.3 146.6 
+Steven_Berkoff/xkcBWavNWmg_0000002 172.5 178.2 
+Steven_Berkoff/xkcBWavNWmg_0000003 203.7 209.2 
+Steven_Berkoff/xkcBWavNWmg_0000004 231.0 236.0 
+Steven_Berkoff/xkcBWavNWmg_0000005 272.0 279.8 

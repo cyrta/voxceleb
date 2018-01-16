@@ -1,0 +1,17 @@
+POI: 			Jon_Seda 
+Youtube ID: 	1v6sThQb2cA 
+Video length: 	207.9 sec 
+Set (V): 		dev 
+ 
+Jon_Seda/1v6sThQb2cA_0000001 01.8 21.2 
+Jon_Seda/1v6sThQb2cA_0000002 23.4 41.4 
+Jon_Seda/1v6sThQb2cA_0000003 48.7 56.2 
+Jon_Seda/1v6sThQb2cA_0000004 60.4 72.5 
+Jon_Seda/1v6sThQb2cA_0000005 75.2 87.9 
+Jon_Seda/1v6sThQb2cA_0000006 88.7 95.7 
+Jon_Seda/1v6sThQb2cA_0000007 97.8 110.7 
+Jon_Seda/1v6sThQb2cA_0000008 111.4 125.9 
+Jon_Seda/1v6sThQb2cA_0000009 128.1 137.7 
+Jon_Seda/1v6sThQb2cA_0000010 141.9 162.1 
+Jon_Seda/1v6sThQb2cA_0000011 178.2 190.2 
+Jon_Seda/1v6sThQb2cA_0000012 192.8 205.4 

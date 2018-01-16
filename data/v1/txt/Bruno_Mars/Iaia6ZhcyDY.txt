@@ -1,0 +1,7 @@
+POI: 			Bruno_Mars 
+Youtube ID: 	Iaia6ZhcyDY 
+Video length: 	472.0 sec 
+Set (V): 		dev 
+ 
+Bruno_Mars/Iaia6ZhcyDY_0000001 117.5 125.0 
+Bruno_Mars/Iaia6ZhcyDY_0000002 343.9 349.0 

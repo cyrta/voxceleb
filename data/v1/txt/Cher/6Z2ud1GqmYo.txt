@@ -1,0 +1,7 @@
+POI: 			Cher 
+Youtube ID: 	6Z2ud1GqmYo 
+Video length: 	83.9 sec 
+Set (V): 		dev 
+ 
+Cher/6Z2ud1GqmYo_0000001 59.4 65.3 
+Cher/6Z2ud1GqmYo_0000002 68.0 73.7 

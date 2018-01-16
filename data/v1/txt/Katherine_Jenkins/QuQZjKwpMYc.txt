@@ -1,0 +1,8 @@
+POI: 			Katherine_Jenkins 
+Youtube ID: 	QuQZjKwpMYc 
+Video length: 	277.8 sec 
+Set (V): 		dev 
+ 
+Katherine_Jenkins/QuQZjKwpMYc_0000001 20.7 25.1 
+Katherine_Jenkins/QuQZjKwpMYc_0000002 41.0 51.8 
+Katherine_Jenkins/QuQZjKwpMYc_0000003 58.7 66.6 

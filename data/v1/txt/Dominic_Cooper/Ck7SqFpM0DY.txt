@@ -1,0 +1,19 @@
+POI: 			Dominic_Cooper 
+Youtube ID: 	Ck7SqFpM0DY 
+Video length: 	276.6 sec 
+Set (V): 		dev 
+ 
+Dominic_Cooper/Ck7SqFpM0DY_0000001 14.6 21.0 
+Dominic_Cooper/Ck7SqFpM0DY_0000002 22.2 43.2 
+Dominic_Cooper/Ck7SqFpM0DY_0000003 43.5 50.5 
+Dominic_Cooper/Ck7SqFpM0DY_0000004 52.7 65.0 
+Dominic_Cooper/Ck7SqFpM0DY_0000005 71.0 88.7 
+Dominic_Cooper/Ck7SqFpM0DY_0000006 89.5 99.4 
+Dominic_Cooper/Ck7SqFpM0DY_0000007 112.4 119.0 
+Dominic_Cooper/Ck7SqFpM0DY_0000008 121.0 127.4 
+Dominic_Cooper/Ck7SqFpM0DY_0000009 133.4 137.9 
+Dominic_Cooper/Ck7SqFpM0DY_0000010 140.0 149.0 
+Dominic_Cooper/Ck7SqFpM0DY_0000011 154.1 160.0 
+Dominic_Cooper/Ck7SqFpM0DY_0000012 160.2 164.6 
+Dominic_Cooper/Ck7SqFpM0DY_0000013 165.0 169.8 
+Dominic_Cooper/Ck7SqFpM0DY_0000014 193.6 199.0 

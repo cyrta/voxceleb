@@ -1,0 +1,8 @@
+POI: 			Emraan_Hashmi 
+Youtube ID: 	8V_8hA4-HFE 
+Video length: 	315.6 sec 
+Set (V): 		test 
+ 
+Emraan_Hashmi/8V_8hA4-HFE_0000001 44.1 50.4 
+Emraan_Hashmi/8V_8hA4-HFE_0000002 77.2 81.2 
+Emraan_Hashmi/8V_8hA4-HFE_0000003 178.0 182.8 

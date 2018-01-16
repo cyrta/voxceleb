@@ -1,0 +1,15 @@
+POI: 			Jillian_Michaels 
+Youtube ID: 	GIa_18Ewi1k 
+Video length: 	268.0 sec 
+Set (V): 		dev 
+ 
+Jillian_Michaels/GIa_18Ewi1k_0000001 12.8 17.9 
+Jillian_Michaels/GIa_18Ewi1k_0000002 28.7 37.5 
+Jillian_Michaels/GIa_18Ewi1k_0000003 80.5 85.8 
+Jillian_Michaels/GIa_18Ewi1k_0000004 98.4 102.9 
+Jillian_Michaels/GIa_18Ewi1k_0000005 128.7 138.3 
+Jillian_Michaels/GIa_18Ewi1k_0000006 187.8 197.3 
+Jillian_Michaels/GIa_18Ewi1k_0000007 197.2 204.3 
+Jillian_Michaels/GIa_18Ewi1k_0000008 210.5 215.0 
+Jillian_Michaels/GIa_18Ewi1k_0000009 224.4 229.7 
+Jillian_Michaels/GIa_18Ewi1k_0000010 240.1 245.4 

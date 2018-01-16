@@ -1,0 +1,19 @@
+POI: 			Janine_Turner 
+Youtube ID: 	IO8Xc4rVKgk 
+Video length: 	379.4 sec 
+Set (V): 		dev 
+ 
+Janine_Turner/IO8Xc4rVKgk_0000001 116.7 130.0 
+Janine_Turner/IO8Xc4rVKgk_0000002 138.5 147.2 
+Janine_Turner/IO8Xc4rVKgk_0000003 171.0 179.7 
+Janine_Turner/IO8Xc4rVKgk_0000004 182.4 190.8 
+Janine_Turner/IO8Xc4rVKgk_0000005 195.4 201.3 
+Janine_Turner/IO8Xc4rVKgk_0000006 213.6 220.1 
+Janine_Turner/IO8Xc4rVKgk_0000007 222.3 233.6 
+Janine_Turner/IO8Xc4rVKgk_0000008 246.4 253.9 
+Janine_Turner/IO8Xc4rVKgk_0000009 256.2 260.6 
+Janine_Turner/IO8Xc4rVKgk_0000010 266.3 270.6 
+Janine_Turner/IO8Xc4rVKgk_0000011 311.1 315.7 
+Janine_Turner/IO8Xc4rVKgk_0000012 337.0 344.3 
+Janine_Turner/IO8Xc4rVKgk_0000013 353.9 358.8 
+Janine_Turner/IO8Xc4rVKgk_0000014 359.5 367.6 

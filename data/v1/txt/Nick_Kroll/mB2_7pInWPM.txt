@@ -1,0 +1,9 @@
+POI: 			Nick_Kroll 
+Youtube ID: 	mB2_7pInWPM 
+Video length: 	408.2 sec 
+Set (V): 		dev 
+ 
+Nick_Kroll/mB2_7pInWPM_0000001 171.6 176.8 
+Nick_Kroll/mB2_7pInWPM_0000002 192.6 199.6 
+Nick_Kroll/mB2_7pInWPM_0000003 201.3 208.0 
+Nick_Kroll/mB2_7pInWPM_0000004 332.0 338.2 

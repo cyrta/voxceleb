@@ -1,0 +1,21 @@
+POI: 			Betty_White 
+Youtube ID: 	cuiG8oXZGJg 
+Video length: 	277.6 sec 
+Set (V): 		dev 
+ 
+Betty_White/cuiG8oXZGJg_0000001 37.8 44.1 
+Betty_White/cuiG8oXZGJg_0000002 56.6 63.0 
+Betty_White/cuiG8oXZGJg_0000003 88.3 92.6 
+Betty_White/cuiG8oXZGJg_0000004 96.4 106.7 
+Betty_White/cuiG8oXZGJg_0000005 112.0 133.2 
+Betty_White/cuiG8oXZGJg_0000006 136.9 142.9 
+Betty_White/cuiG8oXZGJg_0000007 157.7 162.0 
+Betty_White/cuiG8oXZGJg_0000008 167.3 180.0 
+Betty_White/cuiG8oXZGJg_0000009 181.1 185.5 
+Betty_White/cuiG8oXZGJg_0000010 203.6 212.6 
+Betty_White/cuiG8oXZGJg_0000011 218.2 223.6 
+Betty_White/cuiG8oXZGJg_0000012 225.1 230.1 
+Betty_White/cuiG8oXZGJg_0000013 236.6 240.7 
+Betty_White/cuiG8oXZGJg_0000014 249.5 254.2 
+Betty_White/cuiG8oXZGJg_0000015 256.2 261.8 
+Betty_White/cuiG8oXZGJg_0000016 262.7 267.2 

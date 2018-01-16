@@ -1,0 +1,22 @@
+POI: 			Jon_Lovitz 
+Youtube ID: 	drSsVfgoTmk 
+Video length: 	638.1 sec 
+Set (V): 		dev 
+ 
+Jon_Lovitz/drSsVfgoTmk_0000001 61.8 67.5 
+Jon_Lovitz/drSsVfgoTmk_0000002 77.0 83.6 
+Jon_Lovitz/drSsVfgoTmk_0000003 86.3 94.6 
+Jon_Lovitz/drSsVfgoTmk_0000004 199.6 209.1 
+Jon_Lovitz/drSsVfgoTmk_0000005 254.6 262.6 
+Jon_Lovitz/drSsVfgoTmk_0000006 270.2 275.5 
+Jon_Lovitz/drSsVfgoTmk_0000007 276.4 281.2 
+Jon_Lovitz/drSsVfgoTmk_0000008 263.8 275.6 
+Jon_Lovitz/drSsVfgoTmk_0000009 276.4 282.5 
+Jon_Lovitz/drSsVfgoTmk_0000010 311.0 337.6 
+Jon_Lovitz/drSsVfgoTmk_0000011 341.2 347.4 
+Jon_Lovitz/drSsVfgoTmk_0000012 352.8 361.7 
+Jon_Lovitz/drSsVfgoTmk_0000013 357.2 370.1 
+Jon_Lovitz/drSsVfgoTmk_0000014 378.6 413.4 
+Jon_Lovitz/drSsVfgoTmk_0000015 422.4 428.1 
+Jon_Lovitz/drSsVfgoTmk_0000016 454.2 460.0 
+Jon_Lovitz/drSsVfgoTmk_0000017 552.4 558.3 

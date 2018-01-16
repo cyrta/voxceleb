@@ -1,0 +1,10 @@
+POI: 			Meghan_Trainor 
+Youtube ID: 	rlCPTbDgVYw 
+Video length: 	173.7 sec 
+Set (V): 		dev 
+ 
+Meghan_Trainor/rlCPTbDgVYw_0000001 21.3 27.1 
+Meghan_Trainor/rlCPTbDgVYw_0000002 28.8 36.4 
+Meghan_Trainor/rlCPTbDgVYw_0000003 71.6 83.2 
+Meghan_Trainor/rlCPTbDgVYw_0000004 141.7 147.0 
+Meghan_Trainor/rlCPTbDgVYw_0000005 160.4 164.5 

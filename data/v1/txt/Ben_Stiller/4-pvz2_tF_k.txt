@@ -1,0 +1,8 @@
+POI: 			Ben_Stiller 
+Youtube ID: 	4-pvz2_tF_k 
+Video length: 	165.3 sec 
+Set (V): 		dev 
+ 
+Ben_Stiller/4-pvz2_tF_k_0000001 65.0 69.7 
+Ben_Stiller/4-pvz2_tF_k_0000002 72.1 86.8 
+Ben_Stiller/4-pvz2_tF_k_0000003 120.9 125.1 

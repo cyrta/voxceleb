@@ -1,0 +1,10 @@
+POI: 			Tatyana_Ali 
+Youtube ID: 	R7nAFF1KOYE 
+Video length: 	793.8 sec 
+Set (V): 		dev 
+ 
+Tatyana_Ali/R7nAFF1KOYE_0000001 103.0 108.9 
+Tatyana_Ali/R7nAFF1KOYE_0000002 170.9 178.0 
+Tatyana_Ali/R7nAFF1KOYE_0000003 490.9 495.2 
+Tatyana_Ali/R7nAFF1KOYE_0000004 610.0 614.3 
+Tatyana_Ali/R7nAFF1KOYE_0000005 710.6 715.2 

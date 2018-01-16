@@ -1,0 +1,9 @@
+POI: 			Diablo_Cody 
+Youtube ID: 	ghRLRjkfwBc 
+Video length: 	377.9 sec 
+Set (V): 		dev 
+ 
+Diablo_Cody/ghRLRjkfwBc_0000001 93.3 98.7 
+Diablo_Cody/ghRLRjkfwBc_0000002 101.3 106.7 
+Diablo_Cody/ghRLRjkfwBc_0000003 135.4 139.9 
+Diablo_Cody/ghRLRjkfwBc_0000004 276.4 284.3 

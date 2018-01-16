@@ -1,0 +1,10 @@
+POI: 			Jordan_Gavaris 
+Youtube ID: 	R12JMJ6ZcXo 
+Video length: 	194.5 sec 
+Set (V): 		dev 
+ 
+Jordan_Gavaris/R12JMJ6ZcXo_0000001 44.0 48.0 
+Jordan_Gavaris/R12JMJ6ZcXo_0000002 48.0 59.2 
+Jordan_Gavaris/R12JMJ6ZcXo_0000003 64.4 78.0 
+Jordan_Gavaris/R12JMJ6ZcXo_0000004 87.2 92.2 
+Jordan_Gavaris/R12JMJ6ZcXo_0000005 107.0 116.4 

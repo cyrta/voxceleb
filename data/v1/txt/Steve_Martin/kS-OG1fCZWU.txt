@@ -1,0 +1,8 @@
+POI: 			Steve_Martin 
+Youtube ID: 	kS-OG1fCZWU 
+Video length: 	841.5 sec 
+Set (V): 		dev 
+ 
+Steve_Martin/kS-OG1fCZWU_0000001 25.2 29.3 
+Steve_Martin/kS-OG1fCZWU_0000002 36.7 43.7 
+Steve_Martin/kS-OG1fCZWU_0000003 590.1 594.2 

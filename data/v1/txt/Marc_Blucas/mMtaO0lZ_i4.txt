@@ -1,0 +1,8 @@
+POI: 			Marc_Blucas 
+Youtube ID: 	mMtaO0lZ_i4 
+Video length: 	174.6 sec 
+Set (V): 		dev 
+ 
+Marc_Blucas/mMtaO0lZ_i4_0000001 122.6 129.0 
+Marc_Blucas/mMtaO0lZ_i4_0000002 133.9 159.3 
+Marc_Blucas/mMtaO0lZ_i4_0000003 129.2 139.3 

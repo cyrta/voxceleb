@@ -1,0 +1,9 @@
+POI: 			Scott_Speedman 
+Youtube ID: 	r3GMOhURsug 
+Video length: 	322.9 sec 
+Set (V): 		dev 
+ 
+Scott_Speedman/r3GMOhURsug_0000001 113.1 122.0 
+Scott_Speedman/r3GMOhURsug_0000002 136.7 153.0 
+Scott_Speedman/r3GMOhURsug_0000003 275.9 293.5 
+Scott_Speedman/r3GMOhURsug_0000004 304.8 309.0 

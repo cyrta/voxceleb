@@ -1,0 +1,11 @@
+POI: 			Ezra_Miller 
+Youtube ID: 	tGEWD2GaiDw 
+Video length: 	394.3 sec 
+Set (V): 		test 
+ 
+Ezra_Miller/tGEWD2GaiDw_0000001 194.8 201.1 
+Ezra_Miller/tGEWD2GaiDw_0000002 201.6 206.4 
+Ezra_Miller/tGEWD2GaiDw_0000003 284.1 293.8 
+Ezra_Miller/tGEWD2GaiDw_0000004 295.0 302.4 
+Ezra_Miller/tGEWD2GaiDw_0000005 347.4 351.5 
+Ezra_Miller/tGEWD2GaiDw_0000006 352.0 356.5 

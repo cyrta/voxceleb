@@ -1,0 +1,7 @@
+POI: 			Constance_Zimmer 
+Youtube ID: 	6ieCizF1wrg 
+Video length: 	126.0 sec 
+Set (V): 		dev 
+ 
+Constance_Zimmer/6ieCizF1wrg_0000001 69.5 73.6 
+Constance_Zimmer/6ieCizF1wrg_0000002 77.5 87.0 

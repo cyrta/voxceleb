@@ -1,0 +1,13 @@
+POI: 			Denis_Leary 
+Youtube ID: 	ki9uqSTgYZU 
+Video length: 	211.7 sec 
+Set (V): 		dev 
+ 
+Denis_Leary/ki9uqSTgYZU_0000001 56.0 60.6 
+Denis_Leary/ki9uqSTgYZU_0000002 62.3 74.8 
+Denis_Leary/ki9uqSTgYZU_0000003 80.3 87.5 
+Denis_Leary/ki9uqSTgYZU_0000004 105.9 118.6 
+Denis_Leary/ki9uqSTgYZU_0000005 120.7 124.7 
+Denis_Leary/ki9uqSTgYZU_0000006 132.9 148.8 
+Denis_Leary/ki9uqSTgYZU_0000007 153.9 164.5 
+Denis_Leary/ki9uqSTgYZU_0000008 169.0 177.5 

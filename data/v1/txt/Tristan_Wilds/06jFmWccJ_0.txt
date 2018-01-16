@@ -1,0 +1,7 @@
+POI: 			Tristan_Wilds 
+Youtube ID: 	06jFmWccJ_0 
+Video length: 	134.9 sec 
+Set (V): 		dev 
+ 
+Tristan_Wilds/06jFmWccJ_0_0000001 55.2 60.2 
+Tristan_Wilds/06jFmWccJ_0_0000002 99.3 104.3 

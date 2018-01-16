@@ -1,0 +1,7 @@
+POI: 			Damon_Lindelof 
+Youtube ID: 	M8QC6_Jf8UA 
+Video length: 	428.3 sec 
+Set (V): 		dev 
+ 
+Damon_Lindelof/M8QC6_Jf8UA_0000001 104.8 117.5 
+Damon_Lindelof/M8QC6_Jf8UA_0000002 335.7 346.0 

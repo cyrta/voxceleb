@@ -1,0 +1,12 @@
+POI: 			Rooney_Mara 
+Youtube ID: 	C5WNk_2IC6Y 
+Video length: 	213.6 sec 
+Set (V): 		dev 
+ 
+Rooney_Mara/C5WNk_2IC6Y_0000001 11.2 15.1 
+Rooney_Mara/C5WNk_2IC6Y_0000002 52.6 60.8 
+Rooney_Mara/C5WNk_2IC6Y_0000003 81.0 87.4 
+Rooney_Mara/C5WNk_2IC6Y_0000004 114.0 119.3 
+Rooney_Mara/C5WNk_2IC6Y_0000005 133.4 139.6 
+Rooney_Mara/C5WNk_2IC6Y_0000006 174.4 182.0 
+Rooney_Mara/C5WNk_2IC6Y_0000007 182.2 187.2 

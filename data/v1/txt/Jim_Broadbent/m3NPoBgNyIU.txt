@@ -1,0 +1,15 @@
+POI: 			Jim_Broadbent 
+Youtube ID: 	m3NPoBgNyIU 
+Video length: 	240.0 sec 
+Set (V): 		dev 
+ 
+Jim_Broadbent/m3NPoBgNyIU_0000001 15.7 20.0 
+Jim_Broadbent/m3NPoBgNyIU_0000002 34.7 42.4 
+Jim_Broadbent/m3NPoBgNyIU_0000003 44.4 49.9 
+Jim_Broadbent/m3NPoBgNyIU_0000004 51.6 55.7 
+Jim_Broadbent/m3NPoBgNyIU_0000005 56.8 61.6 
+Jim_Broadbent/m3NPoBgNyIU_0000006 123.8 129.5 
+Jim_Broadbent/m3NPoBgNyIU_0000007 155.9 160.1 
+Jim_Broadbent/m3NPoBgNyIU_0000008 160.6 165.0 
+Jim_Broadbent/m3NPoBgNyIU_0000009 165.5 169.6 
+Jim_Broadbent/m3NPoBgNyIU_0000010 197.4 206.3 

@@ -1,0 +1,10 @@
+POI: 			Iain_Glen 
+Youtube ID: 	UQlKkQXx1NQ 
+Video length: 	218.0 sec 
+Set (V): 		dev 
+ 
+Iain_Glen/UQlKkQXx1NQ_0000001 69.0 73.6 
+Iain_Glen/UQlKkQXx1NQ_0000002 90.0 101.0 
+Iain_Glen/UQlKkQXx1NQ_0000003 124.6 132.5 
+Iain_Glen/UQlKkQXx1NQ_0000004 139.4 146.7 
+Iain_Glen/UQlKkQXx1NQ_0000005 163.6 181.7 

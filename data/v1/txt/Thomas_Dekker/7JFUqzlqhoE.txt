@@ -1,0 +1,32 @@
+POI: 			Thomas_Dekker 
+Youtube ID: 	7JFUqzlqhoE 
+Video length: 	494.7 sec 
+Set (V): 		dev 
+ 
+Thomas_Dekker/7JFUqzlqhoE_0000001 11.9 19.7 
+Thomas_Dekker/7JFUqzlqhoE_0000002 23.5 29.6 
+Thomas_Dekker/7JFUqzlqhoE_0000003 31.6 44.9 
+Thomas_Dekker/7JFUqzlqhoE_0000004 50.3 58.2 
+Thomas_Dekker/7JFUqzlqhoE_0000005 59.7 68.8 
+Thomas_Dekker/7JFUqzlqhoE_0000006 78.8 85.4 
+Thomas_Dekker/7JFUqzlqhoE_0000007 96.6 100.6 
+Thomas_Dekker/7JFUqzlqhoE_0000008 101.4 109.0 
+Thomas_Dekker/7JFUqzlqhoE_0000009 111.3 123.8 
+Thomas_Dekker/7JFUqzlqhoE_0000010 144.3 167.2 
+Thomas_Dekker/7JFUqzlqhoE_0000011 168.4 176.8 
+Thomas_Dekker/7JFUqzlqhoE_0000012 187.3 192.6 
+Thomas_Dekker/7JFUqzlqhoE_0000013 195.2 218.7 
+Thomas_Dekker/7JFUqzlqhoE_0000014 225.4 256.9 
+Thomas_Dekker/7JFUqzlqhoE_0000015 278.4 286.5 
+Thomas_Dekker/7JFUqzlqhoE_0000016 288.5 295.4 
+Thomas_Dekker/7JFUqzlqhoE_0000017 295.6 306.9 
+Thomas_Dekker/7JFUqzlqhoE_0000018 307.8 315.4 
+Thomas_Dekker/7JFUqzlqhoE_0000019 337.3 361.8 
+Thomas_Dekker/7JFUqzlqhoE_0000020 363.9 387.7 
+Thomas_Dekker/7JFUqzlqhoE_0000021 401.2 410.6 
+Thomas_Dekker/7JFUqzlqhoE_0000022 412.5 419.7 
+Thomas_Dekker/7JFUqzlqhoE_0000023 421.8 427.1 
+Thomas_Dekker/7JFUqzlqhoE_0000024 431.4 436.5 
+Thomas_Dekker/7JFUqzlqhoE_0000025 438.4 452.1 
+Thomas_Dekker/7JFUqzlqhoE_0000026 465.8 470.6 
+Thomas_Dekker/7JFUqzlqhoE_0000027 483.2 487.6 

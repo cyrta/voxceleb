@@ -1,0 +1,9 @@
+POI: 			Miley_Cyrus 
+Youtube ID: 	lIDDfgKsR0I 
+Video length: 	189.6 sec 
+Set (V): 		dev 
+ 
+Miley_Cyrus/lIDDfgKsR0I_0000001 07.4 65.8 
+Miley_Cyrus/lIDDfgKsR0I_0000002 98.4 103.7 
+Miley_Cyrus/lIDDfgKsR0I_0000003 105.3 127.5 
+Miley_Cyrus/lIDDfgKsR0I_0000004 159.0 167.2 

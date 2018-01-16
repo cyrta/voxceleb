@@ -1,0 +1,17 @@
+POI: 			Dana_Delany 
+Youtube ID: 	aI3eCrBBIb8 
+Video length: 	620.5 sec 
+Set (V): 		dev 
+ 
+Dana_Delany/aI3eCrBBIb8_0000001 107.8 111.8 
+Dana_Delany/aI3eCrBBIb8_0000002 222.2 227.6 
+Dana_Delany/aI3eCrBBIb8_0000003 242.7 246.6 
+Dana_Delany/aI3eCrBBIb8_0000004 265.4 274.7 
+Dana_Delany/aI3eCrBBIb8_0000005 285.6 292.5 
+Dana_Delany/aI3eCrBBIb8_0000006 310.5 318.7 
+Dana_Delany/aI3eCrBBIb8_0000007 319.2 323.2 
+Dana_Delany/aI3eCrBBIb8_0000008 338.1 342.3 
+Dana_Delany/aI3eCrBBIb8_0000009 407.2 414.4 
+Dana_Delany/aI3eCrBBIb8_0000010 423.4 429.9 
+Dana_Delany/aI3eCrBBIb8_0000011 443.8 448.8 
+Dana_Delany/aI3eCrBBIb8_0000012 547.5 553.2 

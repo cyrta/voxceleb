@@ -1,0 +1,22 @@
+POI: 			Natalie_Dormer 
+Youtube ID: 	yhS_22wQDrs 
+Video length: 	525.6 sec 
+Set (V): 		dev 
+ 
+Natalie_Dormer/yhS_22wQDrs_0000001 42.8 50.8 
+Natalie_Dormer/yhS_22wQDrs_0000002 62.0 70.1 
+Natalie_Dormer/yhS_22wQDrs_0000003 70.4 81.3 
+Natalie_Dormer/yhS_22wQDrs_0000004 82.2 97.0 
+Natalie_Dormer/yhS_22wQDrs_0000005 103.4 117.2 
+Natalie_Dormer/yhS_22wQDrs_0000006 136.2 141.1 
+Natalie_Dormer/yhS_22wQDrs_0000007 151.0 167.7 
+Natalie_Dormer/yhS_22wQDrs_0000008 168.5 177.8 
+Natalie_Dormer/yhS_22wQDrs_0000009 190.4 215.8 
+Natalie_Dormer/yhS_22wQDrs_0000010 228.8 233.5 
+Natalie_Dormer/yhS_22wQDrs_0000011 293.7 304.4 
+Natalie_Dormer/yhS_22wQDrs_0000012 324.2 346.1 
+Natalie_Dormer/yhS_22wQDrs_0000013 351.6 357.5 
+Natalie_Dormer/yhS_22wQDrs_0000014 374.6 378.6 
+Natalie_Dormer/yhS_22wQDrs_0000015 380.8 387.8 
+Natalie_Dormer/yhS_22wQDrs_0000016 389.8 415.7 
+Natalie_Dormer/yhS_22wQDrs_0000017 417.6 425.5 

@@ -1,0 +1,9 @@
+POI: 			Shay_Mitchell 
+Youtube ID: 	f914B_KEiao 
+Video length: 	213.1 sec 
+Set (V): 		dev 
+ 
+Shay_Mitchell/f914B_KEiao_0000001 20.3 24.4 
+Shay_Mitchell/f914B_KEiao_0000002 39.6 45.5 
+Shay_Mitchell/f914B_KEiao_0000003 164.2 169.4 
+Shay_Mitchell/f914B_KEiao_0000004 186.2 193.5 

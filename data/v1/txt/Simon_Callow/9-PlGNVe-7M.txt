@@ -1,0 +1,11 @@
+POI: 			Simon_Callow 
+Youtube ID: 	9-PlGNVe-7M 
+Video length: 	198.3 sec 
+Set (V): 		dev 
+ 
+Simon_Callow/9-PlGNVe-7M_0000001 32.7 41.6 
+Simon_Callow/9-PlGNVe-7M_0000002 45.8 57.5 
+Simon_Callow/9-PlGNVe-7M_0000003 58.2 63.0 
+Simon_Callow/9-PlGNVe-7M_0000004 130.5 134.6 
+Simon_Callow/9-PlGNVe-7M_0000005 145.4 150.1 
+Simon_Callow/9-PlGNVe-7M_0000006 165.3 171.3 

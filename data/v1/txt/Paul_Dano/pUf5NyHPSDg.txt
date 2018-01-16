@@ -1,0 +1,13 @@
+POI: 			Paul_Dano 
+Youtube ID: 	pUf5NyHPSDg 
+Video length: 	261.0 sec 
+Set (V): 		dev 
+ 
+Paul_Dano/pUf5NyHPSDg_0000001 98.8 114.2 
+Paul_Dano/pUf5NyHPSDg_0000002 117.6 127.8 
+Paul_Dano/pUf5NyHPSDg_0000003 147.2 152.3 
+Paul_Dano/pUf5NyHPSDg_0000004 217.0 223.2 
+Paul_Dano/pUf5NyHPSDg_0000005 223.8 228.7 
+Paul_Dano/pUf5NyHPSDg_0000006 228.8 234.6 
+Paul_Dano/pUf5NyHPSDg_0000007 236.3 243.0 
+Paul_Dano/pUf5NyHPSDg_0000008 243.5 258.4 

@@ -1,0 +1,17 @@
+POI: 			Geena_Davis 
+Youtube ID: 	2FPHpUr_Bss 
+Video length: 	357.6 sec 
+Set (V): 		dev 
+ 
+Geena_Davis/2FPHpUr_Bss_0000001 29.4 41.2 
+Geena_Davis/2FPHpUr_Bss_0000002 53.7 60.2 
+Geena_Davis/2FPHpUr_Bss_0000003 62.0 72.2 
+Geena_Davis/2FPHpUr_Bss_0000004 81.5 86.6 
+Geena_Davis/2FPHpUr_Bss_0000005 179.7 183.7 
+Geena_Davis/2FPHpUr_Bss_0000006 261.2 267.1 
+Geena_Davis/2FPHpUr_Bss_0000007 268.2 279.4 
+Geena_Davis/2FPHpUr_Bss_0000008 283.6 288.9 
+Geena_Davis/2FPHpUr_Bss_0000009 289.8 294.3 
+Geena_Davis/2FPHpUr_Bss_0000010 311.2 327.5 
+Geena_Davis/2FPHpUr_Bss_0000011 328.4 336.2 
+Geena_Davis/2FPHpUr_Bss_0000012 340.0 344.2 

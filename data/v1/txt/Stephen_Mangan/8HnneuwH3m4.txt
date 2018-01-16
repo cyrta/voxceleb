@@ -1,0 +1,13 @@
+POI: 			Stephen_Mangan 
+Youtube ID: 	8HnneuwH3m4 
+Video length: 	212.1 sec 
+Set (V): 		dev 
+ 
+Stephen_Mangan/8HnneuwH3m4_0000001 09.2 26.1 
+Stephen_Mangan/8HnneuwH3m4_0000002 73.0 100.0 
+Stephen_Mangan/8HnneuwH3m4_0000003 100.2 111.8 
+Stephen_Mangan/8HnneuwH3m4_0000004 117.3 143.6 
+Stephen_Mangan/8HnneuwH3m4_0000005 144.4 156.4 
+Stephen_Mangan/8HnneuwH3m4_0000006 157.2 165.5 
+Stephen_Mangan/8HnneuwH3m4_0000007 166.4 172.4 
+Stephen_Mangan/8HnneuwH3m4_0000008 176.1 180.3 

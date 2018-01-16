@@ -1,0 +1,23 @@
+POI: 			Vince_Gilligan 
+Youtube ID: 	paeojvY6gjQ 
+Video length: 	275.8 sec 
+Set (V): 		dev 
+ 
+Vince_Gilligan/paeojvY6gjQ_0000001 09.1 24.8 
+Vince_Gilligan/paeojvY6gjQ_0000002 26.0 58.9 
+Vince_Gilligan/paeojvY6gjQ_0000003 60.2 65.1 
+Vince_Gilligan/paeojvY6gjQ_0000004 65.3 89.7 
+Vince_Gilligan/paeojvY6gjQ_0000005 90.3 100.0 
+Vince_Gilligan/paeojvY6gjQ_0000006 101.4 107.2 
+Vince_Gilligan/paeojvY6gjQ_0000007 111.5 147.6 
+Vince_Gilligan/paeojvY6gjQ_0000008 148.2 156.0 
+Vince_Gilligan/paeojvY6gjQ_0000009 163.2 175.6 
+Vince_Gilligan/paeojvY6gjQ_0000010 176.6 197.0 
+Vince_Gilligan/paeojvY6gjQ_0000011 197.1 208.8 
+Vince_Gilligan/paeojvY6gjQ_0000012 214.6 219.0 
+Vince_Gilligan/paeojvY6gjQ_0000013 220.6 226.7 
+Vince_Gilligan/paeojvY6gjQ_0000014 230.8 239.5 
+Vince_Gilligan/paeojvY6gjQ_0000015 242.9 248.6 
+Vince_Gilligan/paeojvY6gjQ_0000016 249.4 253.9 
+Vince_Gilligan/paeojvY6gjQ_0000017 256.5 260.5 
+Vince_Gilligan/paeojvY6gjQ_0000018 262.0 266.2 

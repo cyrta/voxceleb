@@ -1,0 +1,7 @@
+POI: 			Gilles_Marini 
+Youtube ID: 	C_JlIlY7Pbg 
+Video length: 	39.1 sec 
+Set (V): 		dev 
+ 
+Gilles_Marini/C_JlIlY7Pbg_0000001 03.1 13.2 
+Gilles_Marini/C_JlIlY7Pbg_0000002 30.4 36.2 

@@ -1,0 +1,7 @@
+POI: 			Noel_Clarke 
+Youtube ID: 	z8I6sZeuH_k 
+Video length: 	75.0 sec 
+Set (V): 		dev 
+ 
+Noel_Clarke/z8I6sZeuH_k_0000001 37.9 45.3 
+Noel_Clarke/z8I6sZeuH_k_0000002 46.2 57.1 

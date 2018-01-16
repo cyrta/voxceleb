@@ -1,0 +1,10 @@
+POI: 			Lindsey_Morgan 
+Youtube ID: 	GXkFiyMByO4 
+Video length: 	567.3 sec 
+Set (V): 		dev 
+ 
+Lindsey_Morgan/GXkFiyMByO4_0000001 148.2 154.0 
+Lindsey_Morgan/GXkFiyMByO4_0000002 157.2 163.4 
+Lindsey_Morgan/GXkFiyMByO4_0000003 163.4 169.9 
+Lindsey_Morgan/GXkFiyMByO4_0000004 231.8 237.2 
+Lindsey_Morgan/GXkFiyMByO4_0000005 411.6 416.8 

@@ -1,0 +1,17 @@
+POI: 			Neil_Gaiman 
+Youtube ID: 	gviEbYj8sZU 
+Video length: 	243.1 sec 
+Set (V): 		dev 
+ 
+Neil_Gaiman/gviEbYj8sZU_0000001 15.4 19.3 
+Neil_Gaiman/gviEbYj8sZU_0000002 40.7 46.2 
+Neil_Gaiman/gviEbYj8sZU_0000003 70.9 76.8 
+Neil_Gaiman/gviEbYj8sZU_0000004 94.0 100.0 
+Neil_Gaiman/gviEbYj8sZU_0000005 87.4 92.2 
+Neil_Gaiman/gviEbYj8sZU_0000006 93.9 100.0 
+Neil_Gaiman/gviEbYj8sZU_0000007 129.2 133.3 
+Neil_Gaiman/gviEbYj8sZU_0000008 150.9 156.6 
+Neil_Gaiman/gviEbYj8sZU_0000009 160.3 164.3 
+Neil_Gaiman/gviEbYj8sZU_0000010 173.1 177.4 
+Neil_Gaiman/gviEbYj8sZU_0000011 217.4 224.4 
+Neil_Gaiman/gviEbYj8sZU_0000012 229.4 235.4 

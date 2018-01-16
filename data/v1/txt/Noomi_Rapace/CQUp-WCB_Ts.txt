@@ -1,0 +1,7 @@
+POI: 			Noomi_Rapace 
+Youtube ID: 	CQUp-WCB_Ts 
+Video length: 	75.1 sec 
+Set (V): 		dev 
+ 
+Noomi_Rapace/CQUp-WCB_Ts_0000001 10.6 14.7 
+Noomi_Rapace/CQUp-WCB_Ts_0000002 47.8 52.8 

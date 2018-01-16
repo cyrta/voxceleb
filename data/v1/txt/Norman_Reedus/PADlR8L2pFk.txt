@@ -1,0 +1,9 @@
+POI: 			Norman_Reedus 
+Youtube ID: 	PADlR8L2pFk 
+Video length: 	286.3 sec 
+Set (V): 		dev 
+ 
+Norman_Reedus/PADlR8L2pFk_0000001 83.5 88.0 
+Norman_Reedus/PADlR8L2pFk_0000002 91.8 96.7 
+Norman_Reedus/PADlR8L2pFk_0000003 105.9 112.6 
+Norman_Reedus/PADlR8L2pFk_0000004 215.8 223.0 

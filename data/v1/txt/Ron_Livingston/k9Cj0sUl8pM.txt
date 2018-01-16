@@ -1,0 +1,16 @@
+POI: 			Ron_Livingston 
+Youtube ID: 	k9Cj0sUl8pM 
+Video length: 	551.9 sec 
+Set (V): 		dev 
+ 
+Ron_Livingston/k9Cj0sUl8pM_0000001 08.2 20.6 
+Ron_Livingston/k9Cj0sUl8pM_0000002 22.8 27.0 
+Ron_Livingston/k9Cj0sUl8pM_0000003 31.0 36.3 
+Ron_Livingston/k9Cj0sUl8pM_0000004 37.0 51.0 
+Ron_Livingston/k9Cj0sUl8pM_0000005 78.0 82.9 
+Ron_Livingston/k9Cj0sUl8pM_0000006 89.0 94.3 
+Ron_Livingston/k9Cj0sUl8pM_0000007 100.0 105.8 
+Ron_Livingston/k9Cj0sUl8pM_0000008 111.8 117.1 
+Ron_Livingston/k9Cj0sUl8pM_0000009 125.0 134.0 
+Ron_Livingston/k9Cj0sUl8pM_0000010 147.1 155.4 
+Ron_Livingston/k9Cj0sUl8pM_0000011 163.0 168.9 

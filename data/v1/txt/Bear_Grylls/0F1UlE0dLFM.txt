@@ -1,0 +1,11 @@
+POI: 			Bear_Grylls 
+Youtube ID: 	0F1UlE0dLFM 
+Video length: 	488.5 sec 
+Set (V): 		dev 
+ 
+Bear_Grylls/0F1UlE0dLFM_0000001 299.7 305.0 
+Bear_Grylls/0F1UlE0dLFM_0000002 356.8 362.4 
+Bear_Grylls/0F1UlE0dLFM_0000003 377.8 382.4 
+Bear_Grylls/0F1UlE0dLFM_0000004 419.8 428.9 
+Bear_Grylls/0F1UlE0dLFM_0000005 452.5 456.8 
+Bear_Grylls/0F1UlE0dLFM_0000006 461.1 469.0 

@@ -1,0 +1,13 @@
+POI: 			Noel_Clarke 
+Youtube ID: 	FhdKd05Qhsw 
+Video length: 	253.5 sec 
+Set (V): 		dev 
+ 
+Noel_Clarke/FhdKd05Qhsw_0000001 46.3 54.0 
+Noel_Clarke/FhdKd05Qhsw_0000002 77.1 88.0 
+Noel_Clarke/FhdKd05Qhsw_0000003 90.8 98.4 
+Noel_Clarke/FhdKd05Qhsw_0000004 120.4 125.6 
+Noel_Clarke/FhdKd05Qhsw_0000005 135.0 140.7 
+Noel_Clarke/FhdKd05Qhsw_0000006 143.2 158.4 
+Noel_Clarke/FhdKd05Qhsw_0000007 179.2 203.4 
+Noel_Clarke/FhdKd05Qhsw_0000008 205.3 215.3 

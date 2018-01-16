@@ -1,0 +1,12 @@
+POI: 			Kid_Rock 
+Youtube ID: 	OY_D-xhu9U8 
+Video length: 	453.0 sec 
+Set (V): 		dev 
+ 
+Kid_Rock/OY_D-xhu9U8_0000001 103.0 110.9 
+Kid_Rock/OY_D-xhu9U8_0000002 111.8 124.0 
+Kid_Rock/OY_D-xhu9U8_0000003 131.4 136.8 
+Kid_Rock/OY_D-xhu9U8_0000004 154.0 161.5 
+Kid_Rock/OY_D-xhu9U8_0000005 179.7 184.4 
+Kid_Rock/OY_D-xhu9U8_0000006 260.5 267.1 
+Kid_Rock/OY_D-xhu9U8_0000007 423.8 429.6 

@@ -1,0 +1,12 @@
+POI: 			Jeff_Daniels 
+Youtube ID: 	OV-RCjnd4XM 
+Video length: 	510.0 sec 
+Set (V): 		dev 
+ 
+Jeff_Daniels/OV-RCjnd4XM_0000001 158.5 164.1 
+Jeff_Daniels/OV-RCjnd4XM_0000002 216.7 232.3 
+Jeff_Daniels/OV-RCjnd4XM_0000003 234.3 239.5 
+Jeff_Daniels/OV-RCjnd4XM_0000004 240.2 245.1 
+Jeff_Daniels/OV-RCjnd4XM_0000005 307.4 313.6 
+Jeff_Daniels/OV-RCjnd4XM_0000006 316.5 321.8 
+Jeff_Daniels/OV-RCjnd4XM_0000007 344.3 350.2 

@@ -1,0 +1,10 @@
+POI: 			Ted_Danson 
+Youtube ID: 	Of46oBLwE1s 
+Video length: 	218.1 sec 
+Set (V): 		dev 
+ 
+Ted_Danson/Of46oBLwE1s_0000001 33.3 45.6 
+Ted_Danson/Of46oBLwE1s_0000002 52.9 60.4 
+Ted_Danson/Of46oBLwE1s_0000003 93.6 107.5 
+Ted_Danson/Of46oBLwE1s_0000004 133.9 147.6 
+Ted_Danson/Of46oBLwE1s_0000005 184.6 190.8 

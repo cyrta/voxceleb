@@ -1,0 +1,8 @@
+POI: 			Selma_Blair 
+Youtube ID: 	nscmPm7VHro 
+Video length: 	609.7 sec 
+Set (V): 		dev 
+ 
+Selma_Blair/nscmPm7VHro_0000001 219.9 225.0 
+Selma_Blair/nscmPm7VHro_0000002 225.6 230.1 
+Selma_Blair/nscmPm7VHro_0000003 479.6 486.6 

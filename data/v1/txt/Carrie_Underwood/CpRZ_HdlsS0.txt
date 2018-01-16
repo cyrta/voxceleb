@@ -1,0 +1,12 @@
+POI: 			Carrie_Underwood 
+Youtube ID: 	CpRZ_HdlsS0 
+Video length: 	158.6 sec 
+Set (V): 		dev 
+ 
+Carrie_Underwood/CpRZ_HdlsS0_0000001 31.1 40.4 
+Carrie_Underwood/CpRZ_HdlsS0_0000002 43.4 49.3 
+Carrie_Underwood/CpRZ_HdlsS0_0000003 49.8 55.2 
+Carrie_Underwood/CpRZ_HdlsS0_0000004 62.8 67.0 
+Carrie_Underwood/CpRZ_HdlsS0_0000005 89.6 94.9 
+Carrie_Underwood/CpRZ_HdlsS0_0000006 95.6 99.7 
+Carrie_Underwood/CpRZ_HdlsS0_0000007 111.0 117.4 

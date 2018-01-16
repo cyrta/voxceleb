@@ -1,0 +1,9 @@
+POI: 			John_Goodman 
+Youtube ID: 	PZPeObANB1A 
+Video length: 	128.4 sec 
+Set (V): 		dev 
+ 
+John_Goodman/PZPeObANB1A_0000001 14.4 19.4 
+John_Goodman/PZPeObANB1A_0000002 40.8 46.0 
+John_Goodman/PZPeObANB1A_0000003 46.5 51.4 
+John_Goodman/PZPeObANB1A_0000004 103.4 111.8 

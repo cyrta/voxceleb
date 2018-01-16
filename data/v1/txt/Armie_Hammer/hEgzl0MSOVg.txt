@@ -1,0 +1,9 @@
+POI: 			Armie_Hammer 
+Youtube ID: 	hEgzl0MSOVg 
+Video length: 	268.4 sec 
+Set (V): 		dev 
+ 
+Armie_Hammer/hEgzl0MSOVg_0000001 21.3 31.1 
+Armie_Hammer/hEgzl0MSOVg_0000002 142.8 149.8 
+Armie_Hammer/hEgzl0MSOVg_0000003 168.4 172.8 
+Armie_Hammer/hEgzl0MSOVg_0000004 233.1 237.6 

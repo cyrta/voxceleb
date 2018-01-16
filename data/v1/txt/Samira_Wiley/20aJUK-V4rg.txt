@@ -1,0 +1,15 @@
+POI: 			Samira_Wiley 
+Youtube ID: 	20aJUK-V4rg 
+Video length: 	227.6 sec 
+Set (V): 		dev 
+ 
+Samira_Wiley/20aJUK-V4rg_0000001 22.3 30.1 
+Samira_Wiley/20aJUK-V4rg_0000002 37.1 43.7 
+Samira_Wiley/20aJUK-V4rg_0000003 57.4 69.9 
+Samira_Wiley/20aJUK-V4rg_0000004 96.4 101.8 
+Samira_Wiley/20aJUK-V4rg_0000005 102.9 107.7 
+Samira_Wiley/20aJUK-V4rg_0000006 108.4 113.4 
+Samira_Wiley/20aJUK-V4rg_0000007 142.8 159.8 
+Samira_Wiley/20aJUK-V4rg_0000008 181.6 188.1 
+Samira_Wiley/20aJUK-V4rg_0000009 188.8 194.8 
+Samira_Wiley/20aJUK-V4rg_0000010 195.0 202.1 

@@ -1,0 +1,16 @@
+POI: 			Jim_Caviezel 
+Youtube ID: 	CBe35vVkHck 
+Video length: 	467.6 sec 
+Set (V): 		dev 
+ 
+Jim_Caviezel/CBe35vVkHck_0000001 136.4 146.6 
+Jim_Caviezel/CBe35vVkHck_0000002 148.0 157.2 
+Jim_Caviezel/CBe35vVkHck_0000003 157.8 163.6 
+Jim_Caviezel/CBe35vVkHck_0000004 178.7 183.8 
+Jim_Caviezel/CBe35vVkHck_0000005 191.7 199.9 
+Jim_Caviezel/CBe35vVkHck_0000006 200.8 216.2 
+Jim_Caviezel/CBe35vVkHck_0000007 220.0 239.4 
+Jim_Caviezel/CBe35vVkHck_0000008 245.2 259.8 
+Jim_Caviezel/CBe35vVkHck_0000009 260.1 266.8 
+Jim_Caviezel/CBe35vVkHck_0000010 338.6 346.8 
+Jim_Caviezel/CBe35vVkHck_0000011 430.9 449.8 

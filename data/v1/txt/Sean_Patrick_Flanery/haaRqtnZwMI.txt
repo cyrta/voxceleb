@@ -1,0 +1,14 @@
+POI: 			Sean_Patrick_Flanery 
+Youtube ID: 	haaRqtnZwMI 
+Video length: 	452.4 sec 
+Set (V): 		dev 
+ 
+Sean_Patrick_Flanery/haaRqtnZwMI_0000001 133.6 141.9 
+Sean_Patrick_Flanery/haaRqtnZwMI_0000002 152.0 163.1 
+Sean_Patrick_Flanery/haaRqtnZwMI_0000003 207.6 217.5 
+Sean_Patrick_Flanery/haaRqtnZwMI_0000004 251.2 264.5 
+Sean_Patrick_Flanery/haaRqtnZwMI_0000005 323.6 344.2 
+Sean_Patrick_Flanery/haaRqtnZwMI_0000006 345.7 361.1 
+Sean_Patrick_Flanery/haaRqtnZwMI_0000007 361.2 365.2 
+Sean_Patrick_Flanery/haaRqtnZwMI_0000008 394.2 404.7 
+Sean_Patrick_Flanery/haaRqtnZwMI_0000009 436.3 441.3 

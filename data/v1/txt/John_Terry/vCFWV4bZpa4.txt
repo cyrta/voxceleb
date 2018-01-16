@@ -1,0 +1,11 @@
+POI: 			John_Terry 
+Youtube ID: 	vCFWV4bZpa4 
+Video length: 	140.1 sec 
+Set (V): 		dev 
+ 
+John_Terry/vCFWV4bZpa4_0000001 07.9 18.6 
+John_Terry/vCFWV4bZpa4_0000002 33.8 45.1 
+John_Terry/vCFWV4bZpa4_0000003 59.8 73.8 
+John_Terry/vCFWV4bZpa4_0000004 82.9 91.7 
+John_Terry/vCFWV4bZpa4_0000005 93.6 100.6 
+John_Terry/vCFWV4bZpa4_0000006 109.2 132.5 

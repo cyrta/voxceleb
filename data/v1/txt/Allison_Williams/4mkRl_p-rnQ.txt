@@ -1,0 +1,7 @@
+POI: 			Allison_Williams 
+Youtube ID: 	4mkRl_p-rnQ 
+Video length: 	204.2 sec 
+Set (V): 		dev 
+ 
+Allison_Williams/4mkRl_p-rnQ_0000001 34.7 42.2 
+Allison_Williams/4mkRl_p-rnQ_0000002 141.5 145.9 

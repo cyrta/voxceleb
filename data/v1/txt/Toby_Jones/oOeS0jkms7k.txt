@@ -1,0 +1,10 @@
+POI: 			Toby_Jones 
+Youtube ID: 	oOeS0jkms7k 
+Video length: 	362.7 sec 
+Set (V): 		dev 
+ 
+Toby_Jones/oOeS0jkms7k_0000001 74.3 82.7 
+Toby_Jones/oOeS0jkms7k_0000002 90.3 94.2 
+Toby_Jones/oOeS0jkms7k_0000003 99.6 112.0 
+Toby_Jones/oOeS0jkms7k_0000004 156.9 169.4 
+Toby_Jones/oOeS0jkms7k_0000005 286.9 296.0 

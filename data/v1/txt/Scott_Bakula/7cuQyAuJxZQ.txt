@@ -1,0 +1,10 @@
+POI: 			Scott_Bakula 
+Youtube ID: 	7cuQyAuJxZQ 
+Video length: 	918.4 sec 
+Set (V): 		dev 
+ 
+Scott_Bakula/7cuQyAuJxZQ_0000001 602.3 610.1 
+Scott_Bakula/7cuQyAuJxZQ_0000002 768.8 778.1 
+Scott_Bakula/7cuQyAuJxZQ_0000003 778.7 787.0 
+Scott_Bakula/7cuQyAuJxZQ_0000004 793.0 806.2 
+Scott_Bakula/7cuQyAuJxZQ_0000005 846.8 858.2 

@@ -1,0 +1,8 @@
+POI: 			Barbara_Eden 
+Youtube ID: 	hxut3iQpz_s 
+Video length: 	99.4 sec 
+Set (V): 		dev 
+ 
+Barbara_Eden/hxut3iQpz_s_0000001 19.7 27.4 
+Barbara_Eden/hxut3iQpz_s_0000002 54.9 63.6 
+Barbara_Eden/hxut3iQpz_s_0000003 69.7 74.1 

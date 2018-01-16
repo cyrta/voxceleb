@@ -1,0 +1,14 @@
+POI: 			Alexa_Davalos 
+Youtube ID: 	a2YPOY64vsA 
+Video length: 	845.4 sec 
+Set (V): 		dev 
+ 
+Alexa_Davalos/a2YPOY64vsA_0000001 135.8 142.2 
+Alexa_Davalos/a2YPOY64vsA_0000002 298.5 308.7 
+Alexa_Davalos/a2YPOY64vsA_0000003 309.0 317.0 
+Alexa_Davalos/a2YPOY64vsA_0000004 595.6 606.7 
+Alexa_Davalos/a2YPOY64vsA_0000005 608.6 617.6 
+Alexa_Davalos/a2YPOY64vsA_0000006 621.8 626.4 
+Alexa_Davalos/a2YPOY64vsA_0000007 713.0 717.0 
+Alexa_Davalos/a2YPOY64vsA_0000008 720.6 724.8 
+Alexa_Davalos/a2YPOY64vsA_0000009 727.3 731.3 

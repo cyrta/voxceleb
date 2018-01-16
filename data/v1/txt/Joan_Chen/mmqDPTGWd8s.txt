@@ -1,0 +1,25 @@
+POI: 			Joan_Chen 
+Youtube ID: 	mmqDPTGWd8s 
+Video length: 	517.6 sec 
+Set (V): 		dev 
+ 
+Joan_Chen/mmqDPTGWd8s_0000001 149.8 156.9 
+Joan_Chen/mmqDPTGWd8s_0000002 157.4 164.3 
+Joan_Chen/mmqDPTGWd8s_0000003 170.8 177.2 
+Joan_Chen/mmqDPTGWd8s_0000004 219.1 223.5 
+Joan_Chen/mmqDPTGWd8s_0000005 223.6 228.2 
+Joan_Chen/mmqDPTGWd8s_0000006 262.6 270.7 
+Joan_Chen/mmqDPTGWd8s_0000007 270.8 280.1 
+Joan_Chen/mmqDPTGWd8s_0000008 280.8 285.0 
+Joan_Chen/mmqDPTGWd8s_0000009 286.1 290.2 
+Joan_Chen/mmqDPTGWd8s_0000010 301.7 308.3 
+Joan_Chen/mmqDPTGWd8s_0000011 308.8 313.2 
+Joan_Chen/mmqDPTGWd8s_0000012 338.7 345.6 
+Joan_Chen/mmqDPTGWd8s_0000013 352.2 357.3 
+Joan_Chen/mmqDPTGWd8s_0000014 360.7 368.4 
+Joan_Chen/mmqDPTGWd8s_0000015 368.8 382.3 
+Joan_Chen/mmqDPTGWd8s_0000016 396.7 400.8 
+Joan_Chen/mmqDPTGWd8s_0000017 407.6 414.5 
+Joan_Chen/mmqDPTGWd8s_0000018 429.8 434.0 
+Joan_Chen/mmqDPTGWd8s_0000019 453.4 458.4 
+Joan_Chen/mmqDPTGWd8s_0000020 464.2 472.2 

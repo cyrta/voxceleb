@@ -1,0 +1,14 @@
+POI: 			Sara_Gilbert 
+Youtube ID: 	uL1-ymIrlv8 
+Video length: 	280.6 sec 
+Set (V): 		dev 
+ 
+Sara_Gilbert/uL1-ymIrlv8_0000001 08.6 12.7 
+Sara_Gilbert/uL1-ymIrlv8_0000002 17.3 24.9 
+Sara_Gilbert/uL1-ymIrlv8_0000003 32.9 38.5 
+Sara_Gilbert/uL1-ymIrlv8_0000004 44.6 49.8 
+Sara_Gilbert/uL1-ymIrlv8_0000005 63.5 69.0 
+Sara_Gilbert/uL1-ymIrlv8_0000006 103.4 109.3 
+Sara_Gilbert/uL1-ymIrlv8_0000007 148.3 153.6 
+Sara_Gilbert/uL1-ymIrlv8_0000008 200.6 206.8 
+Sara_Gilbert/uL1-ymIrlv8_0000009 244.6 256.1 

@@ -1,0 +1,12 @@
+POI: 			Michael_Trevino 
+Youtube ID: 	RupUkE3N6MU 
+Video length: 	279.2 sec 
+Set (V): 		dev 
+ 
+Michael_Trevino/RupUkE3N6MU_0000001 69.6 73.9 
+Michael_Trevino/RupUkE3N6MU_0000002 124.6 138.2 
+Michael_Trevino/RupUkE3N6MU_0000003 159.7 169.2 
+Michael_Trevino/RupUkE3N6MU_0000004 214.8 219.5 
+Michael_Trevino/RupUkE3N6MU_0000005 224.8 232.4 
+Michael_Trevino/RupUkE3N6MU_0000006 254.4 259.5 
+Michael_Trevino/RupUkE3N6MU_0000007 267.5 272.0 

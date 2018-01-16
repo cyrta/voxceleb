@@ -1,0 +1,14 @@
+POI: 			Dan_Aykroyd 
+Youtube ID: 	WQ3mycyv3HQ 
+Video length: 	478.5 sec 
+Set (V): 		dev 
+ 
+Dan_Aykroyd/WQ3mycyv3HQ_0000001 119.1 128.7 
+Dan_Aykroyd/WQ3mycyv3HQ_0000002 125.8 135.0 
+Dan_Aykroyd/WQ3mycyv3HQ_0000003 140.4 147.1 
+Dan_Aykroyd/WQ3mycyv3HQ_0000004 150.1 154.4 
+Dan_Aykroyd/WQ3mycyv3HQ_0000005 168.0 174.0 
+Dan_Aykroyd/WQ3mycyv3HQ_0000006 186.1 197.7 
+Dan_Aykroyd/WQ3mycyv3HQ_0000007 244.9 249.5 
+Dan_Aykroyd/WQ3mycyv3HQ_0000008 261.5 269.6 
+Dan_Aykroyd/WQ3mycyv3HQ_0000009 384.9 389.7 

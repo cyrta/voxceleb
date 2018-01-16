@@ -1,0 +1,8 @@
+POI: 			Kellan_Lutz 
+Youtube ID: 	482zKSvHeRw 
+Video length: 	495.0 sec 
+Set (V): 		dev 
+ 
+Kellan_Lutz/482zKSvHeRw_0000001 133.6 138.9 
+Kellan_Lutz/482zKSvHeRw_0000002 229.1 233.4 
+Kellan_Lutz/482zKSvHeRw_0000003 357.7 368.8 

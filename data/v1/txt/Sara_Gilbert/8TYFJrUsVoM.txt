@@ -1,0 +1,8 @@
+POI: 			Sara_Gilbert 
+Youtube ID: 	8TYFJrUsVoM 
+Video length: 	83.8 sec 
+Set (V): 		dev 
+ 
+Sara_Gilbert/8TYFJrUsVoM_0000001 37.5 41.7 
+Sara_Gilbert/8TYFJrUsVoM_0000002 44.8 50.4 
+Sara_Gilbert/8TYFJrUsVoM_0000003 70.9 75.2 

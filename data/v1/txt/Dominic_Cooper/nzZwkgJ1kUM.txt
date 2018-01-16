@@ -1,0 +1,10 @@
+POI: 			Dominic_Cooper 
+Youtube ID: 	nzZwkgJ1kUM 
+Video length: 	253.2 sec 
+Set (V): 		dev 
+ 
+Dominic_Cooper/nzZwkgJ1kUM_0000001 156.3 168.7 
+Dominic_Cooper/nzZwkgJ1kUM_0000002 176.8 183.7 
+Dominic_Cooper/nzZwkgJ1kUM_0000003 185.8 193.7 
+Dominic_Cooper/nzZwkgJ1kUM_0000004 200.4 212.0 
+Dominic_Cooper/nzZwkgJ1kUM_0000005 212.3 218.5 

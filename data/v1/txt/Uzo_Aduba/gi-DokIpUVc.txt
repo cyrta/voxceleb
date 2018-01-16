@@ -1,0 +1,13 @@
+POI: 			Uzo_Aduba 
+Youtube ID: 	gi-DokIpUVc 
+Video length: 	242.6 sec 
+Set (V): 		dev 
+ 
+Uzo_Aduba/gi-DokIpUVc_0000001 09.4 20.8 
+Uzo_Aduba/gi-DokIpUVc_0000002 83.9 88.6 
+Uzo_Aduba/gi-DokIpUVc_0000003 134.4 148.1 
+Uzo_Aduba/gi-DokIpUVc_0000004 155.7 173.3 
+Uzo_Aduba/gi-DokIpUVc_0000005 173.4 182.1 
+Uzo_Aduba/gi-DokIpUVc_0000006 213.4 217.4 
+Uzo_Aduba/gi-DokIpUVc_0000007 220.2 226.8 
+Uzo_Aduba/gi-DokIpUVc_0000008 227.4 236.6 

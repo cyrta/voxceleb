@@ -1,0 +1,9 @@
+POI: 			Caitriona_Balfe 
+Youtube ID: 	6qmmQ93AtI8 
+Video length: 	408.9 sec 
+Set (V): 		dev 
+ 
+Caitriona_Balfe/6qmmQ93AtI8_0000001 19.9 24.9 
+Caitriona_Balfe/6qmmQ93AtI8_0000002 209.3 213.4 
+Caitriona_Balfe/6qmmQ93AtI8_0000003 255.3 259.3 
+Caitriona_Balfe/6qmmQ93AtI8_0000004 285.7 290.2 

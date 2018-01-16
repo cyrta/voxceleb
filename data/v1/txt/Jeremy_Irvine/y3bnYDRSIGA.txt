@@ -1,0 +1,8 @@
+POI: 			Jeremy_Irvine 
+Youtube ID: 	y3bnYDRSIGA 
+Video length: 	185.3 sec 
+Set (V): 		dev 
+ 
+Jeremy_Irvine/y3bnYDRSIGA_0000001 31.9 37.2 
+Jeremy_Irvine/y3bnYDRSIGA_0000002 39.3 43.6 
+Jeremy_Irvine/y3bnYDRSIGA_0000003 82.9 88.6 

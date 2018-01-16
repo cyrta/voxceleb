@@ -1,0 +1,11 @@
+POI: 			Leslie_Mann 
+Youtube ID: 	Rt2ji1g7NRg 
+Video length: 	295.3 sec 
+Set (V): 		dev 
+ 
+Leslie_Mann/Rt2ji1g7NRg_0000001 69.1 73.3 
+Leslie_Mann/Rt2ji1g7NRg_0000002 73.4 79.9 
+Leslie_Mann/Rt2ji1g7NRg_0000003 98.6 104.4 
+Leslie_Mann/Rt2ji1g7NRg_0000004 156.0 161.3 
+Leslie_Mann/Rt2ji1g7NRg_0000005 219.0 223.5 
+Leslie_Mann/Rt2ji1g7NRg_0000006 268.0 272.4 

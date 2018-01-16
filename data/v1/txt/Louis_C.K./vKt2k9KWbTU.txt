@@ -1,0 +1,8 @@
+POI: 			Louis_C.K. 
+Youtube ID: 	vKt2k9KWbTU 
+Video length: 	214.7 sec 
+Set (V): 		dev 
+ 
+Louis_C.K./vKt2k9KWbTU_0000001 81.0 107.9 
+Louis_C.K./vKt2k9KWbTU_0000002 138.2 149.8 
+Louis_C.K./vKt2k9KWbTU_0000003 138.5 145.5 

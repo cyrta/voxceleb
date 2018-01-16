@@ -1,0 +1,10 @@
+POI: 			Kevin_Clash 
+Youtube ID: 	Sdos4P-O8jY 
+Video length: 	287.1 sec 
+Set (V): 		dev 
+ 
+Kevin_Clash/Sdos4P-O8jY_0000001 43.0 47.1 
+Kevin_Clash/Sdos4P-O8jY_0000002 97.7 101.9 
+Kevin_Clash/Sdos4P-O8jY_0000003 121.2 127.2 
+Kevin_Clash/Sdos4P-O8jY_0000004 140.1 148.5 
+Kevin_Clash/Sdos4P-O8jY_0000005 154.4 158.6 

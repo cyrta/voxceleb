@@ -1,0 +1,17 @@
+POI: 			Joel_Kinnaman 
+Youtube ID: 	v12cag-QgHA 
+Video length: 	194.0 sec 
+Set (V): 		dev 
+ 
+Joel_Kinnaman/v12cag-QgHA_0000001 24.4 29.4 
+Joel_Kinnaman/v12cag-QgHA_0000002 33.5 38.8 
+Joel_Kinnaman/v12cag-QgHA_0000003 48.8 52.9 
+Joel_Kinnaman/v12cag-QgHA_0000004 57.4 70.4 
+Joel_Kinnaman/v12cag-QgHA_0000005 76.0 80.9 
+Joel_Kinnaman/v12cag-QgHA_0000006 84.4 93.2 
+Joel_Kinnaman/v12cag-QgHA_0000007 93.7 98.8 
+Joel_Kinnaman/v12cag-QgHA_0000008 105.3 110.8 
+Joel_Kinnaman/v12cag-QgHA_0000009 132.4 138.2 
+Joel_Kinnaman/v12cag-QgHA_0000010 158.8 164.1 
+Joel_Kinnaman/v12cag-QgHA_0000011 164.6 168.8 
+Joel_Kinnaman/v12cag-QgHA_0000012 171.5 185.5 

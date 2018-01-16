@@ -1,0 +1,7 @@
+POI: 			David_Lyons 
+Youtube ID: 	m3qd3znl_nk 
+Video length: 	252.4 sec 
+Set (V): 		dev 
+ 
+David_Lyons/m3qd3znl_nk_0000001 47.8 54.2 
+David_Lyons/m3qd3znl_nk_0000002 131.7 140.6 

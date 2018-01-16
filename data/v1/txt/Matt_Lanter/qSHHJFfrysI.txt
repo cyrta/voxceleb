@@ -1,0 +1,9 @@
+POI: 			Matt_Lanter 
+Youtube ID: 	qSHHJFfrysI 
+Video length: 	295.1 sec 
+Set (V): 		dev 
+ 
+Matt_Lanter/qSHHJFfrysI_0000001 31.5 37.1 
+Matt_Lanter/qSHHJFfrysI_0000002 147.6 153.8 
+Matt_Lanter/qSHHJFfrysI_0000003 212.6 220.2 
+Matt_Lanter/qSHHJFfrysI_0000004 242.4 252.2 

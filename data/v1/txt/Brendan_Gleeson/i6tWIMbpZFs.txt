@@ -1,0 +1,19 @@
+POI: 			Brendan_Gleeson 
+Youtube ID: 	i6tWIMbpZFs 
+Video length: 	438.5 sec 
+Set (V): 		dev 
+ 
+Brendan_Gleeson/i6tWIMbpZFs_0000001 70.6 78.3 
+Brendan_Gleeson/i6tWIMbpZFs_0000002 89.0 93.7 
+Brendan_Gleeson/i6tWIMbpZFs_0000003 97.8 102.0 
+Brendan_Gleeson/i6tWIMbpZFs_0000004 119.6 126.9 
+Brendan_Gleeson/i6tWIMbpZFs_0000005 144.6 149.3 
+Brendan_Gleeson/i6tWIMbpZFs_0000006 171.8 176.7 
+Brendan_Gleeson/i6tWIMbpZFs_0000007 223.2 230.8 
+Brendan_Gleeson/i6tWIMbpZFs_0000008 239.1 244.6 
+Brendan_Gleeson/i6tWIMbpZFs_0000009 248.5 257.5 
+Brendan_Gleeson/i6tWIMbpZFs_0000010 281.4 289.9 
+Brendan_Gleeson/i6tWIMbpZFs_0000011 293.2 305.4 
+Brendan_Gleeson/i6tWIMbpZFs_0000012 309.1 316.1 
+Brendan_Gleeson/i6tWIMbpZFs_0000013 316.3 320.5 
+Brendan_Gleeson/i6tWIMbpZFs_0000014 397.0 405.4 

@@ -1,0 +1,13 @@
+POI: 			Melissa_Leo 
+Youtube ID: 	8CM7ZiZtRaE 
+Video length: 	166.9 sec 
+Set (V): 		dev 
+ 
+Melissa_Leo/8CM7ZiZtRaE_0000001 01.0 15.5 
+Melissa_Leo/8CM7ZiZtRaE_0000002 16.1 23.7 
+Melissa_Leo/8CM7ZiZtRaE_0000003 36.1 40.2 
+Melissa_Leo/8CM7ZiZtRaE_0000004 41.2 52.7 
+Melissa_Leo/8CM7ZiZtRaE_0000005 104.8 117.0 
+Melissa_Leo/8CM7ZiZtRaE_0000006 121.6 135.3 
+Melissa_Leo/8CM7ZiZtRaE_0000007 145.2 154.7 
+Melissa_Leo/8CM7ZiZtRaE_0000008 155.4 164.2 

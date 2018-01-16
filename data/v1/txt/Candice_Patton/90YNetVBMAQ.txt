@@ -1,0 +1,12 @@
+POI: 			Candice_Patton 
+Youtube ID: 	90YNetVBMAQ 
+Video length: 	265.9 sec 
+Set (V): 		dev 
+ 
+Candice_Patton/90YNetVBMAQ_0000001 17.4 23.2 
+Candice_Patton/90YNetVBMAQ_0000002 43.3 50.5 
+Candice_Patton/90YNetVBMAQ_0000003 82.4 101.4 
+Candice_Patton/90YNetVBMAQ_0000004 128.2 136.2 
+Candice_Patton/90YNetVBMAQ_0000005 180.8 186.1 
+Candice_Patton/90YNetVBMAQ_0000006 219.2 223.7 
+Candice_Patton/90YNetVBMAQ_0000007 234.9 239.0 

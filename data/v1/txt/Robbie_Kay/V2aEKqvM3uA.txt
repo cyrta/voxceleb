@@ -1,0 +1,12 @@
+POI: 			Robbie_Kay 
+Youtube ID: 	V2aEKqvM3uA 
+Video length: 	142.6 sec 
+Set (V): 		dev 
+ 
+Robbie_Kay/V2aEKqvM3uA_0000001 29.2 36.3 
+Robbie_Kay/V2aEKqvM3uA_0000002 36.4 51.8 
+Robbie_Kay/V2aEKqvM3uA_0000003 59.2 65.0 
+Robbie_Kay/V2aEKqvM3uA_0000004 65.8 73.8 
+Robbie_Kay/V2aEKqvM3uA_0000005 102.7 107.6 
+Robbie_Kay/V2aEKqvM3uA_0000006 112.9 120.8 
+Robbie_Kay/V2aEKqvM3uA_0000007 125.5 132.5 

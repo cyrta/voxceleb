@@ -1,0 +1,7 @@
+POI: 			Sam_Neill 
+Youtube ID: 	CAaKfOsju7s 
+Video length: 	142.1 sec 
+Set (V): 		dev 
+ 
+Sam_Neill/CAaKfOsju7s_0000001 07.0 12.1 
+Sam_Neill/CAaKfOsju7s_0000002 17.3 22.6 

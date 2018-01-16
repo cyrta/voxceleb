@@ -1,0 +1,9 @@
+POI: 			Ken_Marino 
+Youtube ID: 	8wyzLbUMx2k 
+Video length: 	718.7 sec 
+Set (V): 		dev 
+ 
+Ken_Marino/8wyzLbUMx2k_0000001 175.7 182.4 
+Ken_Marino/8wyzLbUMx2k_0000002 192.4 196.5 
+Ken_Marino/8wyzLbUMx2k_0000003 196.7 200.9 
+Ken_Marino/8wyzLbUMx2k_0000004 291.7 297.2 

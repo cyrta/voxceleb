@@ -1,0 +1,7 @@
+POI: 			Viggo_Mortensen 
+Youtube ID: 	gXoMsr8WSAk 
+Video length: 	263.8 sec 
+Set (V): 		dev 
+ 
+Viggo_Mortensen/gXoMsr8WSAk_0000001 38.2 44.7 
+Viggo_Mortensen/gXoMsr8WSAk_0000002 48.3 52.4 

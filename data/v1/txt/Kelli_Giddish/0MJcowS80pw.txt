@@ -1,0 +1,13 @@
+POI: 			Kelli_Giddish 
+Youtube ID: 	0MJcowS80pw 
+Video length: 	210.3 sec 
+Set (V): 		dev 
+ 
+Kelli_Giddish/0MJcowS80pw_0000001 03.0 24.8 
+Kelli_Giddish/0MJcowS80pw_0000002 55.3 61.1 
+Kelli_Giddish/0MJcowS80pw_0000003 69.2 74.0 
+Kelli_Giddish/0MJcowS80pw_0000004 74.3 84.8 
+Kelli_Giddish/0MJcowS80pw_0000005 88.6 106.6 
+Kelli_Giddish/0MJcowS80pw_0000006 120.1 125.2 
+Kelli_Giddish/0MJcowS80pw_0000007 179.6 198.1 
+Kelli_Giddish/0MJcowS80pw_0000008 199.0 203.2 

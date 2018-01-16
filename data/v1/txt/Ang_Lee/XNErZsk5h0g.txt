@@ -1,0 +1,14 @@
+POI: 			Ang_Lee 
+Youtube ID: 	XNErZsk5h0g 
+Video length: 	555.7 sec 
+Set (V): 		dev 
+ 
+Ang_Lee/XNErZsk5h0g_0000001 135.8 141.7 
+Ang_Lee/XNErZsk5h0g_0000002 167.3 173.8 
+Ang_Lee/XNErZsk5h0g_0000003 220.4 225.9 
+Ang_Lee/XNErZsk5h0g_0000004 258.2 262.6 
+Ang_Lee/XNErZsk5h0g_0000005 297.2 301.8 
+Ang_Lee/XNErZsk5h0g_0000006 307.4 311.6 
+Ang_Lee/XNErZsk5h0g_0000007 323.2 327.3 
+Ang_Lee/XNErZsk5h0g_0000008 425.4 429.9 
+Ang_Lee/XNErZsk5h0g_0000009 471.6 477.8 

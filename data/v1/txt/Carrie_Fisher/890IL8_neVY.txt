@@ -1,0 +1,15 @@
+POI: 			Carrie_Fisher 
+Youtube ID: 	890IL8_neVY 
+Video length: 	666.0 sec 
+Set (V): 		dev 
+ 
+Carrie_Fisher/890IL8_neVY_0000001 105.5 109.6 
+Carrie_Fisher/890IL8_neVY_0000002 125.0 131.5 
+Carrie_Fisher/890IL8_neVY_0000003 158.1 162.5 
+Carrie_Fisher/890IL8_neVY_0000004 200.9 205.1 
+Carrie_Fisher/890IL8_neVY_0000005 197.6 205.2 
+Carrie_Fisher/890IL8_neVY_0000006 287.1 291.8 
+Carrie_Fisher/890IL8_neVY_0000007 298.8 305.2 
+Carrie_Fisher/890IL8_neVY_0000008 333.7 342.0 
+Carrie_Fisher/890IL8_neVY_0000009 350.6 355.2 
+Carrie_Fisher/890IL8_neVY_0000010 412.1 417.0 

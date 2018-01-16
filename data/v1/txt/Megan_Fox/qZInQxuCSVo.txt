@@ -1,0 +1,21 @@
+POI: 			Megan_Fox 
+Youtube ID: 	qZInQxuCSVo 
+Video length: 	590.1 sec 
+Set (V): 		dev 
+ 
+Megan_Fox/qZInQxuCSVo_0000001 16.8 27.7 
+Megan_Fox/qZInQxuCSVo_0000002 40.7 47.3 
+Megan_Fox/qZInQxuCSVo_0000003 66.0 72.0 
+Megan_Fox/qZInQxuCSVo_0000004 74.0 78.8 
+Megan_Fox/qZInQxuCSVo_0000005 86.3 98.9 
+Megan_Fox/qZInQxuCSVo_0000006 120.3 133.0 
+Megan_Fox/qZInQxuCSVo_0000007 138.0 144.8 
+Megan_Fox/qZInQxuCSVo_0000008 166.4 182.5 
+Megan_Fox/qZInQxuCSVo_0000009 194.8 201.0 
+Megan_Fox/qZInQxuCSVo_0000010 210.9 217.6 
+Megan_Fox/qZInQxuCSVo_0000011 344.0 365.1 
+Megan_Fox/qZInQxuCSVo_0000012 375.9 383.5 
+Megan_Fox/qZInQxuCSVo_0000013 472.8 478.5 
+Megan_Fox/qZInQxuCSVo_0000014 485.4 489.4 
+Megan_Fox/qZInQxuCSVo_0000015 500.9 507.6 
+Megan_Fox/qZInQxuCSVo_0000016 518.1 526.8 

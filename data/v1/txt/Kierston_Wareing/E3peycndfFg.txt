@@ -1,0 +1,10 @@
+POI: 			Kierston_Wareing 
+Youtube ID: 	E3peycndfFg 
+Video length: 	1248.8 sec 
+Set (V): 		dev 
+ 
+Kierston_Wareing/E3peycndfFg_0000001 250.4 260.3 
+Kierston_Wareing/E3peycndfFg_0000002 269.0 273.8 
+Kierston_Wareing/E3peycndfFg_0000003 280.2 286.3 
+Kierston_Wareing/E3peycndfFg_0000004 289.7 295.0 
+Kierston_Wareing/E3peycndfFg_0000005 305.4 313.6 

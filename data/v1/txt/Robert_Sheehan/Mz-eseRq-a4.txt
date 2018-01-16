@@ -1,0 +1,8 @@
+POI: 			Robert_Sheehan 
+Youtube ID: 	Mz-eseRq-a4 
+Video length: 	209.6 sec 
+Set (V): 		dev 
+ 
+Robert_Sheehan/Mz-eseRq-a4_0000001 36.1 42.4 
+Robert_Sheehan/Mz-eseRq-a4_0000002 145.1 152.5 
+Robert_Sheehan/Mz-eseRq-a4_0000003 171.0 175.7 

@@ -1,0 +1,8 @@
+POI: 			James_Lipton 
+Youtube ID: 	RszOKYjpT7Y 
+Video length: 	183.2 sec 
+Set (V): 		dev 
+ 
+James_Lipton/RszOKYjpT7Y_0000001 76.0 80.2 
+James_Lipton/RszOKYjpT7Y_0000002 87.4 94.7 
+James_Lipton/RszOKYjpT7Y_0000003 128.7 133.4 

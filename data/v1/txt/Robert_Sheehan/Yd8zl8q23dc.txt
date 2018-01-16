@@ -1,0 +1,18 @@
+POI: 			Robert_Sheehan 
+Youtube ID: 	Yd8zl8q23dc 
+Video length: 	629.9 sec 
+Set (V): 		dev 
+ 
+Robert_Sheehan/Yd8zl8q23dc_0000001 117.1 121.3 
+Robert_Sheehan/Yd8zl8q23dc_0000002 122.2 131.0 
+Robert_Sheehan/Yd8zl8q23dc_0000003 131.8 135.8 
+Robert_Sheehan/Yd8zl8q23dc_0000004 152.9 157.8 
+Robert_Sheehan/Yd8zl8q23dc_0000005 398.1 406.5 
+Robert_Sheehan/Yd8zl8q23dc_0000006 411.9 416.4 
+Robert_Sheehan/Yd8zl8q23dc_0000007 457.1 461.4 
+Robert_Sheehan/Yd8zl8q23dc_0000008 473.4 480.6 
+Robert_Sheehan/Yd8zl8q23dc_0000009 519.5 529.4 
+Robert_Sheehan/Yd8zl8q23dc_0000010 532.3 537.7 
+Robert_Sheehan/Yd8zl8q23dc_0000011 539.3 545.0 
+Robert_Sheehan/Yd8zl8q23dc_0000012 548.7 554.1 
+Robert_Sheehan/Yd8zl8q23dc_0000013 555.2 559.8 

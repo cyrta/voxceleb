@@ -1,0 +1,22 @@
+POI: 			Katherine_McNamara 
+Youtube ID: 	owq8REjhd4s 
+Video length: 	532.7 sec 
+Set (V): 		dev 
+ 
+Katherine_McNamara/owq8REjhd4s_0000001 120.6 133.0 
+Katherine_McNamara/owq8REjhd4s_0000002 139.6 149.0 
+Katherine_McNamara/owq8REjhd4s_0000003 169.7 175.2 
+Katherine_McNamara/owq8REjhd4s_0000004 199.9 208.6 
+Katherine_McNamara/owq8REjhd4s_0000005 211.4 217.7 
+Katherine_McNamara/owq8REjhd4s_0000006 246.6 253.4 
+Katherine_McNamara/owq8REjhd4s_0000007 272.8 289.7 
+Katherine_McNamara/owq8REjhd4s_0000008 292.1 297.6 
+Katherine_McNamara/owq8REjhd4s_0000009 300.0 305.9 
+Katherine_McNamara/owq8REjhd4s_0000010 312.8 318.7 
+Katherine_McNamara/owq8REjhd4s_0000011 334.7 340.2 
+Katherine_McNamara/owq8REjhd4s_0000012 347.1 356.8 
+Katherine_McNamara/owq8REjhd4s_0000013 378.6 401.4 
+Katherine_McNamara/owq8REjhd4s_0000014 429.1 436.2 
+Katherine_McNamara/owq8REjhd4s_0000015 436.7 443.2 
+Katherine_McNamara/owq8REjhd4s_0000016 451.2 456.2 
+Katherine_McNamara/owq8REjhd4s_0000017 459.6 468.3 

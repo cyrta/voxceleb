@@ -1,0 +1,10 @@
+POI: 			Ang_Lee 
+Youtube ID: 	wdBp17QwEn8 
+Video length: 	215.3 sec 
+Set (V): 		dev 
+ 
+Ang_Lee/wdBp17QwEn8_0000001 45.4 50.9 
+Ang_Lee/wdBp17QwEn8_0000002 60.1 67.4 
+Ang_Lee/wdBp17QwEn8_0000003 114.0 120.7 
+Ang_Lee/wdBp17QwEn8_0000004 129.9 135.9 
+Ang_Lee/wdBp17QwEn8_0000005 202.3 206.4 

@@ -1,0 +1,8 @@
+POI: 			Josh_Gad 
+Youtube ID: 	PLoUz36Wcro 
+Video length: 	194.9 sec 
+Set (V): 		dev 
+ 
+Josh_Gad/PLoUz36Wcro_0000001 34.6 40.5 
+Josh_Gad/PLoUz36Wcro_0000002 47.5 62.4 
+Josh_Gad/PLoUz36Wcro_0000003 102.2 128.4 

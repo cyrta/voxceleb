@@ -1,0 +1,7 @@
+POI: 			Sarah_Wayne_Callies 
+Youtube ID: 	2WFv2iDBtMU 
+Video length: 	324.9 sec 
+Set (V): 		dev 
+ 
+Sarah_Wayne_Callies/2WFv2iDBtMU_0000001 35.9 41.1 
+Sarah_Wayne_Callies/2WFv2iDBtMU_0000002 222.8 226.9 

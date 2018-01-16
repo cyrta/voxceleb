@@ -1,0 +1,8 @@
+POI: 			Don_Rickles 
+Youtube ID: 	rp-9ap9S0Ms 
+Video length: 	62.0 sec 
+Set (V): 		dev 
+ 
+Don_Rickles/rp-9ap9S0Ms_0000001 07.3 21.4 
+Don_Rickles/rp-9ap9S0Ms_0000002 30.5 37.4 
+Don_Rickles/rp-9ap9S0Ms_0000003 43.2 58.7 

@@ -1,0 +1,8 @@
+POI: 			Nick_Kroll 
+Youtube ID: 	lr_kiG1MLhI 
+Video length: 	146.2 sec 
+Set (V): 		dev 
+ 
+Nick_Kroll/lr_kiG1MLhI_0000001 29.7 35.7 
+Nick_Kroll/lr_kiG1MLhI_0000002 44.7 70.4 
+Nick_Kroll/lr_kiG1MLhI_0000003 73.6 81.4 

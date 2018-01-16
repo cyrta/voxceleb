@@ -1,0 +1,15 @@
+POI: 			Kylie_Minogue 
+Youtube ID: 	UorAYAJwbqc 
+Video length: 	445.8 sec 
+Set (V): 		dev 
+ 
+Kylie_Minogue/UorAYAJwbqc_0000001 38.8 46.9 
+Kylie_Minogue/UorAYAJwbqc_0000002 100.4 104.6 
+Kylie_Minogue/UorAYAJwbqc_0000003 179.4 185.1 
+Kylie_Minogue/UorAYAJwbqc_0000004 214.0 218.8 
+Kylie_Minogue/UorAYAJwbqc_0000005 223.0 228.4 
+Kylie_Minogue/UorAYAJwbqc_0000006 244.4 252.9 
+Kylie_Minogue/UorAYAJwbqc_0000007 285.8 290.3 
+Kylie_Minogue/UorAYAJwbqc_0000008 389.1 396.0 
+Kylie_Minogue/UorAYAJwbqc_0000009 397.0 402.3 
+Kylie_Minogue/UorAYAJwbqc_0000010 413.8 419.5 

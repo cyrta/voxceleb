@@ -1,0 +1,10 @@
+POI: 			Jesse_Spencer 
+Youtube ID: 	qQ8sMKlrI5g 
+Video length: 	176.9 sec 
+Set (V): 		dev 
+ 
+Jesse_Spencer/qQ8sMKlrI5g_0000001 67.8 73.1 
+Jesse_Spencer/qQ8sMKlrI5g_0000002 74.2 78.5 
+Jesse_Spencer/qQ8sMKlrI5g_0000003 78.8 86.6 
+Jesse_Spencer/qQ8sMKlrI5g_0000004 90.1 95.4 
+Jesse_Spencer/qQ8sMKlrI5g_0000005 121.0 129.8 

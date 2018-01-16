@@ -1,0 +1,9 @@
+POI: 			Tahmoh_Penikett 
+Youtube ID: 	c7fHmSRXAXs 
+Video length: 	577.7 sec 
+Set (V): 		dev 
+ 
+Tahmoh_Penikett/c7fHmSRXAXs_0000001 388.6 393.6 
+Tahmoh_Penikett/c7fHmSRXAXs_0000002 397.6 407.4 
+Tahmoh_Penikett/c7fHmSRXAXs_0000003 408.4 417.6 
+Tahmoh_Penikett/c7fHmSRXAXs_0000004 418.4 423.8 

@@ -1,0 +1,9 @@
+POI: 			David_Koechner 
+Youtube ID: 	vXhtVlvCBHU 
+Video length: 	161.3 sec 
+Set (V): 		dev 
+ 
+David_Koechner/vXhtVlvCBHU_0000001 49.9 61.0 
+David_Koechner/vXhtVlvCBHU_0000002 88.2 95.3 
+David_Koechner/vXhtVlvCBHU_0000003 121.8 127.2 
+David_Koechner/vXhtVlvCBHU_0000004 131.0 135.1 

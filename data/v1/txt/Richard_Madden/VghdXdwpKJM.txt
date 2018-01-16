@@ -1,0 +1,9 @@
+POI: 			Richard_Madden 
+Youtube ID: 	VghdXdwpKJM 
+Video length: 	813.0 sec 
+Set (V): 		dev 
+ 
+Richard_Madden/VghdXdwpKJM_0000001 27.5 35.5 
+Richard_Madden/VghdXdwpKJM_0000002 184.6 190.8 
+Richard_Madden/VghdXdwpKJM_0000003 262.5 271.0 
+Richard_Madden/VghdXdwpKJM_0000004 383.4 387.7 

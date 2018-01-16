@@ -1,0 +1,8 @@
+POI: 			B.J._Novak 
+Youtube ID: 	iNFCHc4uRAM 
+Video length: 	192.6 sec 
+Set (V): 		dev 
+ 
+B.J._Novak/iNFCHc4uRAM_0000001 16.0 20.8 
+B.J._Novak/iNFCHc4uRAM_0000002 22.8 26.8 
+B.J._Novak/iNFCHc4uRAM_0000003 142.4 150.3 

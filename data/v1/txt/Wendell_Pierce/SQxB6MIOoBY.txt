@@ -1,0 +1,19 @@
+POI: 			Wendell_Pierce 
+Youtube ID: 	SQxB6MIOoBY 
+Video length: 	710.2 sec 
+Set (V): 		dev 
+ 
+Wendell_Pierce/SQxB6MIOoBY_0000001 66.0 72.6 
+Wendell_Pierce/SQxB6MIOoBY_0000002 74.5 81.6 
+Wendell_Pierce/SQxB6MIOoBY_0000003 114.6 119.8 
+Wendell_Pierce/SQxB6MIOoBY_0000004 179.4 185.5 
+Wendell_Pierce/SQxB6MIOoBY_0000005 212.8 219.9 
+Wendell_Pierce/SQxB6MIOoBY_0000006 273.1 277.6 
+Wendell_Pierce/SQxB6MIOoBY_0000007 277.6 283.0 
+Wendell_Pierce/SQxB6MIOoBY_0000008 284.5 293.0 
+Wendell_Pierce/SQxB6MIOoBY_0000009 351.4 355.7 
+Wendell_Pierce/SQxB6MIOoBY_0000010 385.3 389.6 
+Wendell_Pierce/SQxB6MIOoBY_0000011 427.0 439.8 
+Wendell_Pierce/SQxB6MIOoBY_0000012 442.0 447.1 
+Wendell_Pierce/SQxB6MIOoBY_0000013 447.5 454.4 
+Wendell_Pierce/SQxB6MIOoBY_0000014 520.0 533.0 

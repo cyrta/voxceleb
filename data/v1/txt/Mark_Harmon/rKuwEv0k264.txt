@@ -1,0 +1,8 @@
+POI: 			Mark_Harmon 
+Youtube ID: 	rKuwEv0k264 
+Video length: 	147.3 sec 
+Set (V): 		dev 
+ 
+Mark_Harmon/rKuwEv0k264_0000001 29.7 35.5 
+Mark_Harmon/rKuwEv0k264_0000002 59.9 65.6 
+Mark_Harmon/rKuwEv0k264_0000003 102.9 107.7 

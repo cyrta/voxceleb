@@ -1,0 +1,8 @@
+POI: 			Smokey_Robinson 
+Youtube ID: 	95l1fNKtyNA 
+Video length: 	173.9 sec 
+Set (V): 		dev 
+ 
+Smokey_Robinson/95l1fNKtyNA_0000001 49.0 54.0 
+Smokey_Robinson/95l1fNKtyNA_0000002 54.1 63.6 
+Smokey_Robinson/95l1fNKtyNA_0000003 115.4 139.3 

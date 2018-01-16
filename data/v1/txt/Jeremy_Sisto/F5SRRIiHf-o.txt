@@ -1,0 +1,17 @@
+POI: 			Jeremy_Sisto 
+Youtube ID: 	F5SRRIiHf-o 
+Video length: 	369.0 sec 
+Set (V): 		dev 
+ 
+Jeremy_Sisto/F5SRRIiHf-o_0000001 81.9 94.1 
+Jeremy_Sisto/F5SRRIiHf-o_0000002 123.5 128.2 
+Jeremy_Sisto/F5SRRIiHf-o_0000003 130.7 136.4 
+Jeremy_Sisto/F5SRRIiHf-o_0000004 142.9 148.3 
+Jeremy_Sisto/F5SRRIiHf-o_0000005 180.6 190.2 
+Jeremy_Sisto/F5SRRIiHf-o_0000006 191.3 195.4 
+Jeremy_Sisto/F5SRRIiHf-o_0000007 209.0 213.4 
+Jeremy_Sisto/F5SRRIiHf-o_0000008 242.0 249.9 
+Jeremy_Sisto/F5SRRIiHf-o_0000009 254.9 259.0 
+Jeremy_Sisto/F5SRRIiHf-o_0000010 293.5 303.0 
+Jeremy_Sisto/F5SRRIiHf-o_0000011 304.2 311.3 
+Jeremy_Sisto/F5SRRIiHf-o_0000012 327.4 334.8 

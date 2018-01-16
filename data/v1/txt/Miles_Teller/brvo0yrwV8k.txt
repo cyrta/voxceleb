@@ -1,0 +1,15 @@
+POI: 			Miles_Teller 
+Youtube ID: 	brvo0yrwV8k 
+Video length: 	338.3 sec 
+Set (V): 		dev 
+ 
+Miles_Teller/brvo0yrwV8k_0000001 63.3 71.1 
+Miles_Teller/brvo0yrwV8k_0000002 72.0 79.4 
+Miles_Teller/brvo0yrwV8k_0000003 80.0 93.4 
+Miles_Teller/brvo0yrwV8k_0000004 106.0 136.3 
+Miles_Teller/brvo0yrwV8k_0000005 128.2 144.7 
+Miles_Teller/brvo0yrwV8k_0000006 201.9 206.5 
+Miles_Teller/brvo0yrwV8k_0000007 209.7 230.0 
+Miles_Teller/brvo0yrwV8k_0000008 237.0 246.2 
+Miles_Teller/brvo0yrwV8k_0000009 247.4 260.0 
+Miles_Teller/brvo0yrwV8k_0000010 260.2 268.3 

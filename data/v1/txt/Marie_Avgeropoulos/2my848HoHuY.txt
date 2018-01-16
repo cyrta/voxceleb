@@ -1,0 +1,11 @@
+POI: 			Marie_Avgeropoulos 
+Youtube ID: 	2my848HoHuY 
+Video length: 	159.0 sec 
+Set (V): 		dev 
+ 
+Marie_Avgeropoulos/2my848HoHuY_0000001 40.3 46.3 
+Marie_Avgeropoulos/2my848HoHuY_0000002 48.7 52.8 
+Marie_Avgeropoulos/2my848HoHuY_0000003 64.6 68.8 
+Marie_Avgeropoulos/2my848HoHuY_0000004 72.7 77.0 
+Marie_Avgeropoulos/2my848HoHuY_0000005 82.1 86.2 
+Marie_Avgeropoulos/2my848HoHuY_0000006 131.5 138.9 

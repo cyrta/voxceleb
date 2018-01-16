@@ -1,0 +1,14 @@
+POI: 			Gilles_Marini 
+Youtube ID: 	VpmzPfEfmb8 
+Video length: 	574.2 sec 
+Set (V): 		dev 
+ 
+Gilles_Marini/VpmzPfEfmb8_0000001 39.8 44.3 
+Gilles_Marini/VpmzPfEfmb8_0000002 73.2 78.4 
+Gilles_Marini/VpmzPfEfmb8_0000003 86.2 91.1 
+Gilles_Marini/VpmzPfEfmb8_0000004 93.6 105.0 
+Gilles_Marini/VpmzPfEfmb8_0000005 111.8 123.8 
+Gilles_Marini/VpmzPfEfmb8_0000006 125.2 146.0 
+Gilles_Marini/VpmzPfEfmb8_0000007 199.4 204.2 
+Gilles_Marini/VpmzPfEfmb8_0000008 205.9 213.3 
+Gilles_Marini/VpmzPfEfmb8_0000009 216.9 230.8 

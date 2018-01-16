@@ -1,0 +1,11 @@
+POI: 			Kate_Flannery 
+Youtube ID: 	LZQR6zB3xjw 
+Video length: 	437.6 sec 
+Set (V): 		dev 
+ 
+Kate_Flannery/LZQR6zB3xjw_0000001 46.6 52.5 
+Kate_Flannery/LZQR6zB3xjw_0000002 57.4 62.3 
+Kate_Flannery/LZQR6zB3xjw_0000003 67.2 73.6 
+Kate_Flannery/LZQR6zB3xjw_0000004 86.9 92.8 
+Kate_Flannery/LZQR6zB3xjw_0000005 168.3 174.8 
+Kate_Flannery/LZQR6zB3xjw_0000006 391.4 397.1 

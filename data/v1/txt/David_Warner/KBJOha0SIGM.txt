@@ -1,0 +1,12 @@
+POI: 			David_Warner 
+Youtube ID: 	KBJOha0SIGM 
+Video length: 	428.5 sec 
+Set (V): 		dev 
+ 
+David_Warner/KBJOha0SIGM_0000001 160.9 166.5 
+David_Warner/KBJOha0SIGM_0000002 193.0 198.6 
+David_Warner/KBJOha0SIGM_0000003 199.4 204.4 
+David_Warner/KBJOha0SIGM_0000004 205.4 210.0 
+David_Warner/KBJOha0SIGM_0000005 235.9 241.5 
+David_Warner/KBJOha0SIGM_0000006 278.3 282.8 
+David_Warner/KBJOha0SIGM_0000007 404.8 410.7 

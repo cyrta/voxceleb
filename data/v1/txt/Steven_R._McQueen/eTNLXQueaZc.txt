@@ -1,0 +1,10 @@
+POI: 			Steven_R._McQueen 
+Youtube ID: 	eTNLXQueaZc 
+Video length: 	107.4 sec 
+Set (V): 		dev 
+ 
+Steven_R._McQueen/eTNLXQueaZc_0000001 14.3 23.0 
+Steven_R._McQueen/eTNLXQueaZc_0000002 24.7 28.6 
+Steven_R._McQueen/eTNLXQueaZc_0000003 63.7 81.0 
+Steven_R._McQueen/eTNLXQueaZc_0000004 85.3 92.2 
+Steven_R._McQueen/eTNLXQueaZc_0000005 93.3 97.6 

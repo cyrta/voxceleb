@@ -1,0 +1,15 @@
+POI: 			Robert_Sheehan 
+Youtube ID: 	oF8MUO8_9u8 
+Video length: 	380.6 sec 
+Set (V): 		dev 
+ 
+Robert_Sheehan/oF8MUO8_9u8_0000001 148.2 160.9 
+Robert_Sheehan/oF8MUO8_9u8_0000002 161.4 177.9 
+Robert_Sheehan/oF8MUO8_9u8_0000003 178.4 183.9 
+Robert_Sheehan/oF8MUO8_9u8_0000004 185.3 199.8 
+Robert_Sheehan/oF8MUO8_9u8_0000005 204.7 216.6 
+Robert_Sheehan/oF8MUO8_9u8_0000006 217.2 222.3 
+Robert_Sheehan/oF8MUO8_9u8_0000007 251.5 256.7 
+Robert_Sheehan/oF8MUO8_9u8_0000008 343.8 360.0 
+Robert_Sheehan/oF8MUO8_9u8_0000009 361.0 369.1 
+Robert_Sheehan/oF8MUO8_9u8_0000010 370.1 375.0 

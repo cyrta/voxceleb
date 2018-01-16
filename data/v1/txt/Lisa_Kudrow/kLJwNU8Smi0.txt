@@ -1,0 +1,14 @@
+POI: 			Lisa_Kudrow 
+Youtube ID: 	kLJwNU8Smi0 
+Video length: 	188.7 sec 
+Set (V): 		dev 
+ 
+Lisa_Kudrow/kLJwNU8Smi0_0000001 13.3 17.3 
+Lisa_Kudrow/kLJwNU8Smi0_0000002 31.8 36.0 
+Lisa_Kudrow/kLJwNU8Smi0_0000003 51.8 60.9 
+Lisa_Kudrow/kLJwNU8Smi0_0000004 86.5 92.1 
+Lisa_Kudrow/kLJwNU8Smi0_0000005 95.0 102.8 
+Lisa_Kudrow/kLJwNU8Smi0_0000006 143.9 149.0 
+Lisa_Kudrow/kLJwNU8Smi0_0000007 149.1 160.7 
+Lisa_Kudrow/kLJwNU8Smi0_0000008 161.5 165.6 
+Lisa_Kudrow/kLJwNU8Smi0_0000009 174.5 182.3 

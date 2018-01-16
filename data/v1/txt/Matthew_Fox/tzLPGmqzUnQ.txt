@@ -1,0 +1,9 @@
+POI: 			Matthew_Fox 
+Youtube ID: 	tzLPGmqzUnQ 
+Video length: 	119.3 sec 
+Set (V): 		dev 
+ 
+Matthew_Fox/tzLPGmqzUnQ_0000001 37.3 55.5 
+Matthew_Fox/tzLPGmqzUnQ_0000002 68.5 73.4 
+Matthew_Fox/tzLPGmqzUnQ_0000003 80.8 87.2 
+Matthew_Fox/tzLPGmqzUnQ_0000004 92.6 102.1 

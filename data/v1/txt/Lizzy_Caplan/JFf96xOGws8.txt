@@ -1,0 +1,8 @@
+POI: 			Lizzy_Caplan 
+Youtube ID: 	JFf96xOGws8 
+Video length: 	123.5 sec 
+Set (V): 		dev 
+ 
+Lizzy_Caplan/JFf96xOGws8_0000001 40.2 49.0 
+Lizzy_Caplan/JFf96xOGws8_0000002 49.3 56.9 
+Lizzy_Caplan/JFf96xOGws8_0000003 58.2 64.6 

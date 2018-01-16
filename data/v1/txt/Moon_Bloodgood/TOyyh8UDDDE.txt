@@ -1,0 +1,8 @@
+POI: 			Moon_Bloodgood 
+Youtube ID: 	TOyyh8UDDDE 
+Video length: 	485.2 sec 
+Set (V): 		dev 
+ 
+Moon_Bloodgood/TOyyh8UDDDE_0000001 245.7 249.7 
+Moon_Bloodgood/TOyyh8UDDDE_0000002 267.8 272.2 
+Moon_Bloodgood/TOyyh8UDDDE_0000003 356.8 361.5 

@@ -1,0 +1,10 @@
+POI: 			Jim_Jefferies 
+Youtube ID: 	Y4Rw7ObwrzI 
+Video length: 	454.6 sec 
+Set (V): 		dev 
+ 
+Jim_Jefferies/Y4Rw7ObwrzI_0000001 63.6 69.9 
+Jim_Jefferies/Y4Rw7ObwrzI_0000002 145.0 151.6 
+Jim_Jefferies/Y4Rw7ObwrzI_0000003 277.3 282.3 
+Jim_Jefferies/Y4Rw7ObwrzI_0000004 298.8 311.6 
+Jim_Jefferies/Y4Rw7ObwrzI_0000005 405.7 409.8 

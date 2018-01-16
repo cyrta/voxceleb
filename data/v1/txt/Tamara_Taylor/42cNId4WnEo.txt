@@ -1,0 +1,11 @@
+POI: 			Tamara_Taylor 
+Youtube ID: 	42cNId4WnEo 
+Video length: 	215.1 sec 
+Set (V): 		dev 
+ 
+Tamara_Taylor/42cNId4WnEo_0000001 17.7 25.8 
+Tamara_Taylor/42cNId4WnEo_0000002 48.1 54.9 
+Tamara_Taylor/42cNId4WnEo_0000003 65.2 70.0 
+Tamara_Taylor/42cNId4WnEo_0000004 132.6 138.3 
+Tamara_Taylor/42cNId4WnEo_0000005 152.0 157.9 
+Tamara_Taylor/42cNId4WnEo_0000006 191.5 201.3 

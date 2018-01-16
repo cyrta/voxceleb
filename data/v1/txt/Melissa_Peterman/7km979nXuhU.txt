@@ -1,0 +1,15 @@
+POI: 			Melissa_Peterman 
+Youtube ID: 	7km979nXuhU 
+Video length: 	239.3 sec 
+Set (V): 		dev 
+ 
+Melissa_Peterman/7km979nXuhU_0000001 06.9 18.5 
+Melissa_Peterman/7km979nXuhU_0000002 74.1 79.3 
+Melissa_Peterman/7km979nXuhU_0000003 93.8 99.8 
+Melissa_Peterman/7km979nXuhU_0000004 115.3 119.4 
+Melissa_Peterman/7km979nXuhU_0000005 146.3 179.7 
+Melissa_Peterman/7km979nXuhU_0000006 188.0 192.2 
+Melissa_Peterman/7km979nXuhU_0000007 194.3 199.0 
+Melissa_Peterman/7km979nXuhU_0000008 209.4 216.1 
+Melissa_Peterman/7km979nXuhU_0000009 216.8 224.0 
+Melissa_Peterman/7km979nXuhU_0000010 225.9 237.8 

@@ -1,0 +1,18 @@
+POI: 			Iwan_Rheon 
+Youtube ID: 	qfGTNmgJ9Q8 
+Video length: 	500.1 sec 
+Set (V): 		dev 
+ 
+Iwan_Rheon/qfGTNmgJ9Q8_0000001 60.0 70.2 
+Iwan_Rheon/qfGTNmgJ9Q8_0000002 73.6 88.5 
+Iwan_Rheon/qfGTNmgJ9Q8_0000003 104.2 115.5 
+Iwan_Rheon/qfGTNmgJ9Q8_0000004 191.0 200.4 
+Iwan_Rheon/qfGTNmgJ9Q8_0000005 200.5 208.8 
+Iwan_Rheon/qfGTNmgJ9Q8_0000006 213.4 228.3 
+Iwan_Rheon/qfGTNmgJ9Q8_0000007 232.2 240.0 
+Iwan_Rheon/qfGTNmgJ9Q8_0000008 368.0 372.2 
+Iwan_Rheon/qfGTNmgJ9Q8_0000009 402.2 407.4 
+Iwan_Rheon/qfGTNmgJ9Q8_0000010 420.7 424.7 
+Iwan_Rheon/qfGTNmgJ9Q8_0000011 444.4 449.0 
+Iwan_Rheon/qfGTNmgJ9Q8_0000012 451.4 455.6 
+Iwan_Rheon/qfGTNmgJ9Q8_0000013 473.4 483.1 

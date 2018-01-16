@@ -1,0 +1,8 @@
+POI: 			Jim_Jefferies 
+Youtube ID: 	XmIuM-9ht4w 
+Video length: 	110.2 sec 
+Set (V): 		dev 
+ 
+Jim_Jefferies/XmIuM-9ht4w_0000001 01.9 06.9 
+Jim_Jefferies/XmIuM-9ht4w_0000002 11.3 16.2 
+Jim_Jefferies/XmIuM-9ht4w_0000003 58.9 67.4 

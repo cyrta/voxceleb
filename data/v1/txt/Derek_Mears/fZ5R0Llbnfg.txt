@@ -1,0 +1,8 @@
+POI: 			Derek_Mears 
+Youtube ID: 	fZ5R0Llbnfg 
+Video length: 	214.0 sec 
+Set (V): 		dev 
+ 
+Derek_Mears/fZ5R0Llbnfg_0000001 13.9 19.6 
+Derek_Mears/fZ5R0Llbnfg_0000002 78.4 88.1 
+Derek_Mears/fZ5R0Llbnfg_0000003 185.3 195.2 

@@ -1,0 +1,17 @@
+POI: 			Eva_Longoria 
+Youtube ID: 	wtqPC9vEZ0M 
+Video length: 	317.6 sec 
+Set (V): 		test 
+ 
+Eva_Longoria/wtqPC9vEZ0M_0000001 05.7 14.7 
+Eva_Longoria/wtqPC9vEZ0M_0000002 24.2 41.3 
+Eva_Longoria/wtqPC9vEZ0M_0000003 45.7 56.3 
+Eva_Longoria/wtqPC9vEZ0M_0000004 177.4 182.1 
+Eva_Longoria/wtqPC9vEZ0M_0000005 183.3 190.2 
+Eva_Longoria/wtqPC9vEZ0M_0000006 196.6 202.0 
+Eva_Longoria/wtqPC9vEZ0M_0000007 255.0 260.8 
+Eva_Longoria/wtqPC9vEZ0M_0000008 261.1 265.2 
+Eva_Longoria/wtqPC9vEZ0M_0000009 266.6 272.6 
+Eva_Longoria/wtqPC9vEZ0M_0000010 276.2 282.5 
+Eva_Longoria/wtqPC9vEZ0M_0000011 296.6 301.2 
+Eva_Longoria/wtqPC9vEZ0M_0000012 303.4 308.8 

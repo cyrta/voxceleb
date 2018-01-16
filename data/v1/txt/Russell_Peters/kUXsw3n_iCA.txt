@@ -1,0 +1,16 @@
+POI: 			Russell_Peters 
+Youtube ID: 	kUXsw3n_iCA 
+Video length: 	239.3 sec 
+Set (V): 		dev 
+ 
+Russell_Peters/kUXsw3n_iCA_0000001 08.3 14.4 
+Russell_Peters/kUXsw3n_iCA_0000002 17.8 23.2 
+Russell_Peters/kUXsw3n_iCA_0000003 26.6 34.7 
+Russell_Peters/kUXsw3n_iCA_0000004 43.0 52.9 
+Russell_Peters/kUXsw3n_iCA_0000005 59.8 69.6 
+Russell_Peters/kUXsw3n_iCA_0000006 77.3 83.8 
+Russell_Peters/kUXsw3n_iCA_0000007 93.2 106.7 
+Russell_Peters/kUXsw3n_iCA_0000008 131.2 138.0 
+Russell_Peters/kUXsw3n_iCA_0000009 162.7 172.7 
+Russell_Peters/kUXsw3n_iCA_0000010 215.8 220.1 
+Russell_Peters/kUXsw3n_iCA_0000011 222.2 226.7 

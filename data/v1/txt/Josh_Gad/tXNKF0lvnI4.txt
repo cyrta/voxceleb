@@ -1,0 +1,9 @@
+POI: 			Josh_Gad 
+Youtube ID: 	tXNKF0lvnI4 
+Video length: 	353.4 sec 
+Set (V): 		dev 
+ 
+Josh_Gad/tXNKF0lvnI4_0000001 223.7 229.0 
+Josh_Gad/tXNKF0lvnI4_0000002 235.0 245.3 
+Josh_Gad/tXNKF0lvnI4_0000003 296.8 312.7 
+Josh_Gad/tXNKF0lvnI4_0000004 322.4 329.8 

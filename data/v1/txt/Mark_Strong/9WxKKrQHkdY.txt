@@ -1,0 +1,17 @@
+POI: 			Mark_Strong 
+Youtube ID: 	9WxKKrQHkdY 
+Video length: 	302.8 sec 
+Set (V): 		dev 
+ 
+Mark_Strong/9WxKKrQHkdY_0000001 19.5 32.5 
+Mark_Strong/9WxKKrQHkdY_0000002 38.3 43.4 
+Mark_Strong/9WxKKrQHkdY_0000003 43.9 48.3 
+Mark_Strong/9WxKKrQHkdY_0000004 49.8 56.5 
+Mark_Strong/9WxKKrQHkdY_0000005 74.4 100.7 
+Mark_Strong/9WxKKrQHkdY_0000006 102.0 149.8 
+Mark_Strong/9WxKKrQHkdY_0000007 169.2 196.3 
+Mark_Strong/9WxKKrQHkdY_0000008 212.9 222.0 
+Mark_Strong/9WxKKrQHkdY_0000009 223.2 228.4 
+Mark_Strong/9WxKKrQHkdY_0000010 242.0 246.7 
+Mark_Strong/9WxKKrQHkdY_0000011 247.2 252.4 
+Mark_Strong/9WxKKrQHkdY_0000012 253.0 258.2 

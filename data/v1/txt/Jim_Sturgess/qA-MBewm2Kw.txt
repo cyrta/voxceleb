@@ -1,0 +1,10 @@
+POI: 			Jim_Sturgess 
+Youtube ID: 	qA-MBewm2Kw 
+Video length: 	402.1 sec 
+Set (V): 		dev 
+ 
+Jim_Sturgess/qA-MBewm2Kw_0000001 131.7 136.6 
+Jim_Sturgess/qA-MBewm2Kw_0000002 282.2 290.0 
+Jim_Sturgess/qA-MBewm2Kw_0000003 327.3 331.7 
+Jim_Sturgess/qA-MBewm2Kw_0000004 336.2 341.0 
+Jim_Sturgess/qA-MBewm2Kw_0000005 350.0 354.2 

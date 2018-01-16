@@ -1,0 +1,8 @@
+POI: 			Alan_Rickman 
+Youtube ID: 	dh3LW77jB-A 
+Video length: 	263.4 sec 
+Set (V): 		dev 
+ 
+Alan_Rickman/dh3LW77jB-A_0000001 25.4 30.2 
+Alan_Rickman/dh3LW77jB-A_0000002 31.9 36.6 
+Alan_Rickman/dh3LW77jB-A_0000003 38.1 42.2 

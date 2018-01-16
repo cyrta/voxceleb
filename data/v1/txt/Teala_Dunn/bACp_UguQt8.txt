@@ -1,0 +1,10 @@
+POI: 			Teala_Dunn 
+Youtube ID: 	bACp_UguQt8 
+Video length: 	132.3 sec 
+Set (V): 		dev 
+ 
+Teala_Dunn/bACp_UguQt8_0000001 40.6 50.4 
+Teala_Dunn/bACp_UguQt8_0000002 66.4 75.6 
+Teala_Dunn/bACp_UguQt8_0000003 82.4 90.9 
+Teala_Dunn/bACp_UguQt8_0000004 103.5 109.0 
+Teala_Dunn/bACp_UguQt8_0000005 114.0 119.0 

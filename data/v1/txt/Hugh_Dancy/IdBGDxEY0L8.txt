@@ -1,0 +1,10 @@
+POI: 			Hugh_Dancy 
+Youtube ID: 	IdBGDxEY0L8 
+Video length: 	201.5 sec 
+Set (V): 		dev 
+ 
+Hugh_Dancy/IdBGDxEY0L8_0000001 22.4 26.9 
+Hugh_Dancy/IdBGDxEY0L8_0000002 33.0 50.4 
+Hugh_Dancy/IdBGDxEY0L8_0000003 64.0 77.6 
+Hugh_Dancy/IdBGDxEY0L8_0000004 78.6 95.8 
+Hugh_Dancy/IdBGDxEY0L8_0000005 102.6 109.8 

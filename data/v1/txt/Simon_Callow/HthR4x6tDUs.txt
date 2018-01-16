@@ -1,0 +1,12 @@
+POI: 			Simon_Callow 
+Youtube ID: 	HthR4x6tDUs 
+Video length: 	369.0 sec 
+Set (V): 		dev 
+ 
+Simon_Callow/HthR4x6tDUs_0000001 78.0 83.5 
+Simon_Callow/HthR4x6tDUs_0000002 157.7 163.0 
+Simon_Callow/HthR4x6tDUs_0000003 196.0 201.0 
+Simon_Callow/HthR4x6tDUs_0000004 234.9 239.2 
+Simon_Callow/HthR4x6tDUs_0000005 242.5 246.4 
+Simon_Callow/HthR4x6tDUs_0000006 253.5 258.0 
+Simon_Callow/HthR4x6tDUs_0000007 274.7 282.4 

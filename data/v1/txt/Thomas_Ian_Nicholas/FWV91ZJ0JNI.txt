@@ -1,0 +1,9 @@
+POI: 			Thomas_Ian_Nicholas 
+Youtube ID: 	FWV91ZJ0JNI 
+Video length: 	932.6 sec 
+Set (V): 		dev 
+ 
+Thomas_Ian_Nicholas/FWV91ZJ0JNI_0000001 51.5 55.6 
+Thomas_Ian_Nicholas/FWV91ZJ0JNI_0000002 661.4 673.1 
+Thomas_Ian_Nicholas/FWV91ZJ0JNI_0000003 677.8 683.8 
+Thomas_Ian_Nicholas/FWV91ZJ0JNI_0000004 678.6 683.6 

@@ -1,0 +1,9 @@
+POI: 			Donnie_Yen 
+Youtube ID: 	AqSKcZ5Trjc 
+Video length: 	164.2 sec 
+Set (V): 		dev 
+ 
+Donnie_Yen/AqSKcZ5Trjc_0000001 55.2 61.5 
+Donnie_Yen/AqSKcZ5Trjc_0000002 74.8 79.5 
+Donnie_Yen/AqSKcZ5Trjc_0000003 102.9 109.8 
+Donnie_Yen/AqSKcZ5Trjc_0000004 154.5 161.0 

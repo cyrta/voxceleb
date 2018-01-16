@@ -1,0 +1,10 @@
+POI: 			Jana_Kramer 
+Youtube ID: 	KroZTXSByAs 
+Video length: 	80.3 sec 
+Set (V): 		dev 
+ 
+Jana_Kramer/KroZTXSByAs_0000001 03.3 09.9 
+Jana_Kramer/KroZTXSByAs_0000002 12.2 29.2 
+Jana_Kramer/KroZTXSByAs_0000003 39.8 47.1 
+Jana_Kramer/KroZTXSByAs_0000004 49.3 55.9 
+Jana_Kramer/KroZTXSByAs_0000005 56.0 62.6 

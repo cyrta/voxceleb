@@ -1,0 +1,13 @@
+POI: 			Kathryn_McCormick 
+Youtube ID: 	n1AhsXCESIQ 
+Video length: 	126.1 sec 
+Set (V): 		dev 
+ 
+Kathryn_McCormick/n1AhsXCESIQ_0000001 27.5 51.8 
+Kathryn_McCormick/n1AhsXCESIQ_0000002 55.2 64.5 
+Kathryn_McCormick/n1AhsXCESIQ_0000003 64.8 69.3 
+Kathryn_McCormick/n1AhsXCESIQ_0000004 69.4 74.5 
+Kathryn_McCormick/n1AhsXCESIQ_0000005 79.7 85.6 
+Kathryn_McCormick/n1AhsXCESIQ_0000006 87.3 99.2 
+Kathryn_McCormick/n1AhsXCESIQ_0000007 105.7 109.9 
+Kathryn_McCormick/n1AhsXCESIQ_0000008 111.2 124.2 

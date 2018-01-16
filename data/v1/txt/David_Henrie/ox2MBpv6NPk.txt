@@ -1,0 +1,7 @@
+POI: 			David_Henrie 
+Youtube ID: 	ox2MBpv6NPk 
+Video length: 	592.9 sec 
+Set (V): 		dev 
+ 
+David_Henrie/ox2MBpv6NPk_0000001 169.5 173.6 
+David_Henrie/ox2MBpv6NPk_0000002 247.0 252.2 

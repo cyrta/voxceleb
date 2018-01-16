@@ -1,0 +1,16 @@
+POI: 			Josh_Brolin 
+Youtube ID: 	kE0dpDJLE9k 
+Video length: 	332.6 sec 
+Set (V): 		dev 
+ 
+Josh_Brolin/kE0dpDJLE9k_0000001 41.2 53.1 
+Josh_Brolin/kE0dpDJLE9k_0000002 73.4 80.6 
+Josh_Brolin/kE0dpDJLE9k_0000003 116.2 123.7 
+Josh_Brolin/kE0dpDJLE9k_0000004 125.0 136.7 
+Josh_Brolin/kE0dpDJLE9k_0000005 144.8 170.0 
+Josh_Brolin/kE0dpDJLE9k_0000006 175.1 181.6 
+Josh_Brolin/kE0dpDJLE9k_0000007 190.9 209.0 
+Josh_Brolin/kE0dpDJLE9k_0000008 229.8 244.7 
+Josh_Brolin/kE0dpDJLE9k_0000009 249.0 265.0 
+Josh_Brolin/kE0dpDJLE9k_0000010 274.3 296.2 
+Josh_Brolin/kE0dpDJLE9k_0000011 297.2 302.5 

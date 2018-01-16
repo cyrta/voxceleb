@@ -1,0 +1,9 @@
+POI: 			Maria_Bamford 
+Youtube ID: 	WdNLGEDgdCA 
+Video length: 	199.7 sec 
+Set (V): 		dev 
+ 
+Maria_Bamford/WdNLGEDgdCA_0000001 56.5 60.7 
+Maria_Bamford/WdNLGEDgdCA_0000002 86.8 91.2 
+Maria_Bamford/WdNLGEDgdCA_0000003 141.6 147.5 
+Maria_Bamford/WdNLGEDgdCA_0000004 148.4 153.0 

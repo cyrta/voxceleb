@@ -1,0 +1,21 @@
+POI: 			Dave_Foley 
+Youtube ID: 	cMkqpoAnyRA 
+Video length: 	925.5 sec 
+Set (V): 		dev 
+ 
+Dave_Foley/cMkqpoAnyRA_0000001 40.9 46.7 
+Dave_Foley/cMkqpoAnyRA_0000002 100.1 106.1 
+Dave_Foley/cMkqpoAnyRA_0000003 127.3 132.9 
+Dave_Foley/cMkqpoAnyRA_0000004 164.8 174.2 
+Dave_Foley/cMkqpoAnyRA_0000005 175.2 179.4 
+Dave_Foley/cMkqpoAnyRA_0000006 187.0 204.2 
+Dave_Foley/cMkqpoAnyRA_0000007 215.8 221.0 
+Dave_Foley/cMkqpoAnyRA_0000008 222.1 232.0 
+Dave_Foley/cMkqpoAnyRA_0000009 256.0 262.0 
+Dave_Foley/cMkqpoAnyRA_0000010 306.7 311.8 
+Dave_Foley/cMkqpoAnyRA_0000011 335.7 342.4 
+Dave_Foley/cMkqpoAnyRA_0000012 361.4 367.5 
+Dave_Foley/cMkqpoAnyRA_0000013 368.2 373.3 
+Dave_Foley/cMkqpoAnyRA_0000014 383.9 400.2 
+Dave_Foley/cMkqpoAnyRA_0000015 402.4 415.2 
+Dave_Foley/cMkqpoAnyRA_0000016 507.8 516.7 

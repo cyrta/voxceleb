@@ -1,0 +1,15 @@
+POI: 			Jen_Lilley 
+Youtube ID: 	ysojvoLz0s0 
+Video length: 	629.4 sec 
+Set (V): 		dev 
+ 
+Jen_Lilley/ysojvoLz0s0_0000001 107.3 113.1 
+Jen_Lilley/ysojvoLz0s0_0000002 113.9 121.2 
+Jen_Lilley/ysojvoLz0s0_0000003 318.6 324.3 
+Jen_Lilley/ysojvoLz0s0_0000004 325.4 331.2 
+Jen_Lilley/ysojvoLz0s0_0000005 357.2 367.6 
+Jen_Lilley/ysojvoLz0s0_0000006 384.9 391.2 
+Jen_Lilley/ysojvoLz0s0_0000007 391.3 398.9 
+Jen_Lilley/ysojvoLz0s0_0000008 472.1 477.6 
+Jen_Lilley/ysojvoLz0s0_0000009 482.1 488.5 
+Jen_Lilley/ysojvoLz0s0_0000010 490.2 494.5 

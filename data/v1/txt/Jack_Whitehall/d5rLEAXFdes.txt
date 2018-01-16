@@ -1,0 +1,9 @@
+POI: 			Jack_Whitehall 
+Youtube ID: 	d5rLEAXFdes 
+Video length: 	1705.7 sec 
+Set (V): 		dev 
+ 
+Jack_Whitehall/d5rLEAXFdes_0000001 91.2 96.4 
+Jack_Whitehall/d5rLEAXFdes_0000002 281.0 290.1 
+Jack_Whitehall/d5rLEAXFdes_0000003 702.2 707.5 
+Jack_Whitehall/d5rLEAXFdes_0000004 975.5 985.8 

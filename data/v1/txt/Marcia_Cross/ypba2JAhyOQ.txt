@@ -1,0 +1,7 @@
+POI: 			Marcia_Cross 
+Youtube ID: 	ypba2JAhyOQ 
+Video length: 	55.3 sec 
+Set (V): 		dev 
+ 
+Marcia_Cross/ypba2JAhyOQ_0000001 26.5 31.3 
+Marcia_Cross/ypba2JAhyOQ_0000002 39.1 47.4 

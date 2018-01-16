@@ -1,0 +1,14 @@
+POI: 			Evanna_Lynch 
+Youtube ID: 	ygGJs_Rh7ds 
+Video length: 	1512.7 sec 
+Set (V): 		test 
+ 
+Evanna_Lynch/ygGJs_Rh7ds_0000001 221.9 230.6 
+Evanna_Lynch/ygGJs_Rh7ds_0000002 434.3 438.2 
+Evanna_Lynch/ygGJs_Rh7ds_0000003 1110.9 1119.4 
+Evanna_Lynch/ygGJs_Rh7ds_0000004 1120.3 1125.9 
+Evanna_Lynch/ygGJs_Rh7ds_0000005 1126.4 1130.9 
+Evanna_Lynch/ygGJs_Rh7ds_0000006 1131.7 1136.3 
+Evanna_Lynch/ygGJs_Rh7ds_0000007 1139.8 1148.8 
+Evanna_Lynch/ygGJs_Rh7ds_0000008 1149.2 1154.6 
+Evanna_Lynch/ygGJs_Rh7ds_0000009 1158.6 1164.7 

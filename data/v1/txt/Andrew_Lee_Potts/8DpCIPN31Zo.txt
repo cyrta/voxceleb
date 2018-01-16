@@ -1,0 +1,17 @@
+POI: 			Andrew_Lee_Potts 
+Youtube ID: 	8DpCIPN31Zo 
+Video length: 	376.1 sec 
+Set (V): 		dev 
+ 
+Andrew_Lee_Potts/8DpCIPN31Zo_0000001 11.5 16.3 
+Andrew_Lee_Potts/8DpCIPN31Zo_0000002 40.0 44.9 
+Andrew_Lee_Potts/8DpCIPN31Zo_0000003 53.6 61.4 
+Andrew_Lee_Potts/8DpCIPN31Zo_0000004 97.8 105.5 
+Andrew_Lee_Potts/8DpCIPN31Zo_0000005 155.9 159.9 
+Andrew_Lee_Potts/8DpCIPN31Zo_0000006 231.7 235.8 
+Andrew_Lee_Potts/8DpCIPN31Zo_0000007 280.3 287.8 
+Andrew_Lee_Potts/8DpCIPN31Zo_0000008 290.2 297.6 
+Andrew_Lee_Potts/8DpCIPN31Zo_0000009 318.6 327.9 
+Andrew_Lee_Potts/8DpCIPN31Zo_0000010 333.0 337.2 
+Andrew_Lee_Potts/8DpCIPN31Zo_0000011 340.4 344.9 
+Andrew_Lee_Potts/8DpCIPN31Zo_0000012 347.7 352.1 

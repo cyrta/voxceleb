@@ -1,0 +1,8 @@
+POI: 			Mariel_Hemingway 
+Youtube ID: 	6AoM4w6ix5c 
+Video length: 	360.5 sec 
+Set (V): 		dev 
+ 
+Mariel_Hemingway/6AoM4w6ix5c_0000001 34.2 42.2 
+Mariel_Hemingway/6AoM4w6ix5c_0000002 56.1 61.0 
+Mariel_Hemingway/6AoM4w6ix5c_0000003 175.4 181.0 

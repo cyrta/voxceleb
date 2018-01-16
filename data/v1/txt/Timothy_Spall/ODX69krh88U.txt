@@ -1,0 +1,10 @@
+POI: 			Timothy_Spall 
+Youtube ID: 	ODX69krh88U 
+Video length: 	164.9 sec 
+Set (V): 		dev 
+ 
+Timothy_Spall/ODX69krh88U_0000001 46.1 50.7 
+Timothy_Spall/ODX69krh88U_0000002 51.4 61.4 
+Timothy_Spall/ODX69krh88U_0000003 76.1 80.2 
+Timothy_Spall/ODX69krh88U_0000004 68.2 73.6 
+Timothy_Spall/ODX69krh88U_0000005 116.5 123.8 

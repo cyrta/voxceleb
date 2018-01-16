@@ -1,0 +1,15 @@
+POI: 			Olga_Kurylenko 
+Youtube ID: 	0SMKOopP1w8 
+Video length: 	273.5 sec 
+Set (V): 		dev 
+ 
+Olga_Kurylenko/0SMKOopP1w8_0000001 31.4 38.4 
+Olga_Kurylenko/0SMKOopP1w8_0000002 52.4 58.2 
+Olga_Kurylenko/0SMKOopP1w8_0000003 60.4 75.0 
+Olga_Kurylenko/0SMKOopP1w8_0000004 93.5 109.5 
+Olga_Kurylenko/0SMKOopP1w8_0000005 137.5 154.4 
+Olga_Kurylenko/0SMKOopP1w8_0000006 175.5 185.1 
+Olga_Kurylenko/0SMKOopP1w8_0000007 188.5 200.0 
+Olga_Kurylenko/0SMKOopP1w8_0000008 205.2 209.9 
+Olga_Kurylenko/0SMKOopP1w8_0000009 235.8 242.0 
+Olga_Kurylenko/0SMKOopP1w8_0000010 246.4 263.0 

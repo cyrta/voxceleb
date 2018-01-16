@@ -1,0 +1,15 @@
+POI: 			Rami_Malek 
+Youtube ID: 	JqONvYXC_MQ 
+Video length: 	315.2 sec 
+Set (V): 		dev 
+ 
+Rami_Malek/JqONvYXC_MQ_0000001 14.5 19.9 
+Rami_Malek/JqONvYXC_MQ_0000002 45.2 53.6 
+Rami_Malek/JqONvYXC_MQ_0000003 63.4 67.6 
+Rami_Malek/JqONvYXC_MQ_0000004 99.5 105.5 
+Rami_Malek/JqONvYXC_MQ_0000005 140.2 149.9 
+Rami_Malek/JqONvYXC_MQ_0000006 157.2 163.7 
+Rami_Malek/JqONvYXC_MQ_0000007 208.0 218.3 
+Rami_Malek/JqONvYXC_MQ_0000008 220.2 228.2 
+Rami_Malek/JqONvYXC_MQ_0000009 253.2 257.8 
+Rami_Malek/JqONvYXC_MQ_0000010 264.1 276.2 

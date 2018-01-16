@@ -1,0 +1,16 @@
+POI: 			Hugh_Dancy 
+Youtube ID: 	RZczm87qf-Q 
+Video length: 	247.3 sec 
+Set (V): 		dev 
+ 
+Hugh_Dancy/RZczm87qf-Q_0000001 54.6 71.5 
+Hugh_Dancy/RZczm87qf-Q_0000002 77.4 99.1 
+Hugh_Dancy/RZczm87qf-Q_0000003 99.3 111.6 
+Hugh_Dancy/RZczm87qf-Q_0000004 138.0 148.2 
+Hugh_Dancy/RZczm87qf-Q_0000005 165.2 173.2 
+Hugh_Dancy/RZczm87qf-Q_0000006 173.7 179.0 
+Hugh_Dancy/RZczm87qf-Q_0000007 179.3 185.2 
+Hugh_Dancy/RZczm87qf-Q_0000008 185.4 196.4 
+Hugh_Dancy/RZczm87qf-Q_0000009 204.7 209.3 
+Hugh_Dancy/RZczm87qf-Q_0000010 210.0 214.6 
+Hugh_Dancy/RZczm87qf-Q_0000011 217.8 237.0 

@@ -1,0 +1,29 @@
+POI: 			Walton_Goggins 
+Youtube ID: 	wMPjKZ4vQec 
+Video length: 	428.5 sec 
+Set (V): 		dev 
+ 
+Walton_Goggins/wMPjKZ4vQec_0000001 15.3 25.1 
+Walton_Goggins/wMPjKZ4vQec_0000002 26.1 49.9 
+Walton_Goggins/wMPjKZ4vQec_0000003 53.2 74.9 
+Walton_Goggins/wMPjKZ4vQec_0000004 81.1 97.4 
+Walton_Goggins/wMPjKZ4vQec_0000005 98.4 102.6 
+Walton_Goggins/wMPjKZ4vQec_0000006 103.2 108.2 
+Walton_Goggins/wMPjKZ4vQec_0000007 116.0 122.2 
+Walton_Goggins/wMPjKZ4vQec_0000008 139.9 144.8 
+Walton_Goggins/wMPjKZ4vQec_0000009 145.6 150.9 
+Walton_Goggins/wMPjKZ4vQec_0000010 162.5 166.5 
+Walton_Goggins/wMPjKZ4vQec_0000011 171.0 181.8 
+Walton_Goggins/wMPjKZ4vQec_0000012 185.8 190.2 
+Walton_Goggins/wMPjKZ4vQec_0000013 191.2 202.2 
+Walton_Goggins/wMPjKZ4vQec_0000014 211.0 218.0 
+Walton_Goggins/wMPjKZ4vQec_0000015 236.0 247.0 
+Walton_Goggins/wMPjKZ4vQec_0000016 247.2 256.3 
+Walton_Goggins/wMPjKZ4vQec_0000017 261.5 267.2 
+Walton_Goggins/wMPjKZ4vQec_0000018 268.7 282.2 
+Walton_Goggins/wMPjKZ4vQec_0000019 295.4 306.8 
+Walton_Goggins/wMPjKZ4vQec_0000020 310.0 325.1 
+Walton_Goggins/wMPjKZ4vQec_0000021 373.5 381.8 
+Walton_Goggins/wMPjKZ4vQec_0000022 383.3 387.5 
+Walton_Goggins/wMPjKZ4vQec_0000023 393.7 405.7 
+Walton_Goggins/wMPjKZ4vQec_0000024 406.6 416.4 

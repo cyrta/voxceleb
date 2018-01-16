@@ -1,0 +1,8 @@
+POI: 			Tim_Daly 
+Youtube ID: 	Qn1VZdc8SOo 
+Video length: 	135.7 sec 
+Set (V): 		dev 
+ 
+Tim_Daly/Qn1VZdc8SOo_0000001 27.6 40.3 
+Tim_Daly/Qn1VZdc8SOo_0000002 52.8 59.7 
+Tim_Daly/Qn1VZdc8SOo_0000003 61.8 67.6 

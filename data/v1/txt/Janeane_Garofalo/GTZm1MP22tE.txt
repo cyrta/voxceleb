@@ -1,0 +1,8 @@
+POI: 			Janeane_Garofalo 
+Youtube ID: 	GTZm1MP22tE 
+Video length: 	553.7 sec 
+Set (V): 		dev 
+ 
+Janeane_Garofalo/GTZm1MP22tE_0000001 41.1 64.2 
+Janeane_Garofalo/GTZm1MP22tE_0000002 121.5 129.4 
+Janeane_Garofalo/GTZm1MP22tE_0000003 214.9 222.9 

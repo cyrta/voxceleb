@@ -1,0 +1,10 @@
+POI: 			Jillian_Harris 
+Youtube ID: 	JUnglsAV_ss 
+Video length: 	232.0 sec 
+Set (V): 		dev 
+ 
+Jillian_Harris/JUnglsAV_ss_0000001 53.7 63.1 
+Jillian_Harris/JUnglsAV_ss_0000002 123.6 128.0 
+Jillian_Harris/JUnglsAV_ss_0000003 145.0 152.0 
+Jillian_Harris/JUnglsAV_ss_0000004 169.2 173.9 
+Jillian_Harris/JUnglsAV_ss_0000005 184.3 191.6 

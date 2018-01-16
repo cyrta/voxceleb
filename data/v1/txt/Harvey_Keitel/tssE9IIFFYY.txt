@@ -1,0 +1,11 @@
+POI: 			Harvey_Keitel 
+Youtube ID: 	tssE9IIFFYY 
+Video length: 	494.0 sec 
+Set (V): 		dev 
+ 
+Harvey_Keitel/tssE9IIFFYY_0000001 74.2 85.2 
+Harvey_Keitel/tssE9IIFFYY_0000002 122.1 126.8 
+Harvey_Keitel/tssE9IIFFYY_0000003 313.4 318.4 
+Harvey_Keitel/tssE9IIFFYY_0000004 399.0 405.6 
+Harvey_Keitel/tssE9IIFFYY_0000005 413.0 423.0 
+Harvey_Keitel/tssE9IIFFYY_0000006 468.4 473.4 

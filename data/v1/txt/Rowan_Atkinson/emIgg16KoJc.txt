@@ -1,0 +1,34 @@
+POI: 			Rowan_Atkinson 
+Youtube ID: 	emIgg16KoJc 
+Video length: 	637.4 sec 
+Set (V): 		dev 
+ 
+Rowan_Atkinson/emIgg16KoJc_0000001 17.9 26.3 
+Rowan_Atkinson/emIgg16KoJc_0000002 26.7 37.5 
+Rowan_Atkinson/emIgg16KoJc_0000003 55.2 66.4 
+Rowan_Atkinson/emIgg16KoJc_0000004 67.1 74.6 
+Rowan_Atkinson/emIgg16KoJc_0000005 76.2 96.1 
+Rowan_Atkinson/emIgg16KoJc_0000006 103.6 112.9 
+Rowan_Atkinson/emIgg16KoJc_0000007 139.7 150.3 
+Rowan_Atkinson/emIgg16KoJc_0000008 172.8 180.2 
+Rowan_Atkinson/emIgg16KoJc_0000009 181.2 187.6 
+Rowan_Atkinson/emIgg16KoJc_0000010 187.7 192.9 
+Rowan_Atkinson/emIgg16KoJc_0000011 194.0 200.6 
+Rowan_Atkinson/emIgg16KoJc_0000012 210.9 215.3 
+Rowan_Atkinson/emIgg16KoJc_0000013 216.2 239.3 
+Rowan_Atkinson/emIgg16KoJc_0000014 243.2 254.4 
+Rowan_Atkinson/emIgg16KoJc_0000015 269.4 284.2 
+Rowan_Atkinson/emIgg16KoJc_0000016 284.8 322.5 
+Rowan_Atkinson/emIgg16KoJc_0000017 322.6 328.5 
+Rowan_Atkinson/emIgg16KoJc_0000018 329.7 342.6 
+Rowan_Atkinson/emIgg16KoJc_0000019 343.5 348.5 
+Rowan_Atkinson/emIgg16KoJc_0000020 369.4 386.2 
+Rowan_Atkinson/emIgg16KoJc_0000021 389.5 396.8 
+Rowan_Atkinson/emIgg16KoJc_0000022 397.6 413.8 
+Rowan_Atkinson/emIgg16KoJc_0000023 436.2 447.2 
+Rowan_Atkinson/emIgg16KoJc_0000024 468.0 500.4 
+Rowan_Atkinson/emIgg16KoJc_0000025 500.6 508.2 
+Rowan_Atkinson/emIgg16KoJc_0000026 508.9 521.2 
+Rowan_Atkinson/emIgg16KoJc_0000027 536.5 559.3 
+Rowan_Atkinson/emIgg16KoJc_0000028 571.1 576.3 
+Rowan_Atkinson/emIgg16KoJc_0000029 584.6 604.5 

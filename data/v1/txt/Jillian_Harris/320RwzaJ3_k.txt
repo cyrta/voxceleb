@@ -1,0 +1,8 @@
+POI: 			Jillian_Harris 
+Youtube ID: 	320RwzaJ3_k 
+Video length: 	363.0 sec 
+Set (V): 		dev 
+ 
+Jillian_Harris/320RwzaJ3_k_0000001 103.7 108.0 
+Jillian_Harris/320RwzaJ3_k_0000002 111.9 117.6 
+Jillian_Harris/320RwzaJ3_k_0000003 122.8 127.4 

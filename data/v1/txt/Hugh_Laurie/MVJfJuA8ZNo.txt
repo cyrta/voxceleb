@@ -1,0 +1,7 @@
+POI: 			Hugh_Laurie 
+Youtube ID: 	MVJfJuA8ZNo 
+Video length: 	769.3 sec 
+Set (V): 		dev 
+ 
+Hugh_Laurie/MVJfJuA8ZNo_0000001 233.1 241.1 
+Hugh_Laurie/MVJfJuA8ZNo_0000002 344.1 349.4 

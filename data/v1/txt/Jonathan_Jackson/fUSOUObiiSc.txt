@@ -1,0 +1,37 @@
+POI: 			Jonathan_Jackson 
+Youtube ID: 	fUSOUObiiSc 
+Video length: 	2091.1 sec 
+Set (V): 		dev 
+ 
+Jonathan_Jackson/fUSOUObiiSc_0000001 200.3 208.7 
+Jonathan_Jackson/fUSOUObiiSc_0000002 248.9 255.0 
+Jonathan_Jackson/fUSOUObiiSc_0000003 267.8 275.6 
+Jonathan_Jackson/fUSOUObiiSc_0000004 373.7 389.3 
+Jonathan_Jackson/fUSOUObiiSc_0000005 392.1 398.8 
+Jonathan_Jackson/fUSOUObiiSc_0000006 585.0 599.5 
+Jonathan_Jackson/fUSOUObiiSc_0000007 601.7 608.4 
+Jonathan_Jackson/fUSOUObiiSc_0000008 671.3 675.4 
+Jonathan_Jackson/fUSOUObiiSc_0000009 691.9 696.0 
+Jonathan_Jackson/fUSOUObiiSc_0000010 710.0 714.3 
+Jonathan_Jackson/fUSOUObiiSc_0000011 745.0 750.5 
+Jonathan_Jackson/fUSOUObiiSc_0000012 864.2 868.6 
+Jonathan_Jackson/fUSOUObiiSc_0000013 881.4 887.1 
+Jonathan_Jackson/fUSOUObiiSc_0000014 916.9 935.9 
+Jonathan_Jackson/fUSOUObiiSc_0000015 992.8 1001.0 
+Jonathan_Jackson/fUSOUObiiSc_0000016 1045.6 1054.0 
+Jonathan_Jackson/fUSOUObiiSc_0000017 1054.8 1061.6 
+Jonathan_Jackson/fUSOUObiiSc_0000018 1068.5 1080.0 
+Jonathan_Jackson/fUSOUObiiSc_0000019 1153.6 1165.3 
+Jonathan_Jackson/fUSOUObiiSc_0000020 1239.3 1244.6 
+Jonathan_Jackson/fUSOUObiiSc_0000021 1254.1 1264.6 
+Jonathan_Jackson/fUSOUObiiSc_0000022 1274.6 1283.8 
+Jonathan_Jackson/fUSOUObiiSc_0000023 1290.3 1301.3 
+Jonathan_Jackson/fUSOUObiiSc_0000024 1375.3 1379.3 
+Jonathan_Jackson/fUSOUObiiSc_0000025 1388.8 1394.1 
+Jonathan_Jackson/fUSOUObiiSc_0000026 1517.8 1522.1 
+Jonathan_Jackson/fUSOUObiiSc_0000027 1539.1 1545.4 
+Jonathan_Jackson/fUSOUObiiSc_0000028 1556.0 1560.5 
+Jonathan_Jackson/fUSOUObiiSc_0000029 1762.6 1769.7 
+Jonathan_Jackson/fUSOUObiiSc_0000030 1794.7 1798.8 
+Jonathan_Jackson/fUSOUObiiSc_0000031 1823.7 1830.3 
+Jonathan_Jackson/fUSOUObiiSc_0000032 1895.4 1900.2 

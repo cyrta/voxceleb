@@ -1,0 +1,8 @@
+POI: 			Andrea_Riseborough 
+Youtube ID: 	Sr3gc-rqacI 
+Video length: 	76.7 sec 
+Set (V): 		dev 
+ 
+Andrea_Riseborough/Sr3gc-rqacI_0000001 29.4 36.9 
+Andrea_Riseborough/Sr3gc-rqacI_0000002 40.2 45.6 
+Andrea_Riseborough/Sr3gc-rqacI_0000003 55.6 62.1 

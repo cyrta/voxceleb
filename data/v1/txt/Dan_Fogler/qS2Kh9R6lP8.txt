@@ -1,0 +1,7 @@
+POI: 			Dan_Fogler 
+Youtube ID: 	qS2Kh9R6lP8 
+Video length: 	271.5 sec 
+Set (V): 		dev 
+ 
+Dan_Fogler/qS2Kh9R6lP8_0000001 136.9 142.0 
+Dan_Fogler/qS2Kh9R6lP8_0000002 142.1 146.7 

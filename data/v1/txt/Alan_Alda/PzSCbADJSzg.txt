@@ -1,0 +1,11 @@
+POI: 			Alan_Alda 
+Youtube ID: 	PzSCbADJSzg 
+Video length: 	138.6 sec 
+Set (V): 		dev 
+ 
+Alan_Alda/PzSCbADJSzg_0000001 02.7 07.2 
+Alan_Alda/PzSCbADJSzg_0000002 10.9 26.1 
+Alan_Alda/PzSCbADJSzg_0000003 32.4 52.0 
+Alan_Alda/PzSCbADJSzg_0000004 53.0 57.1 
+Alan_Alda/PzSCbADJSzg_0000005 58.0 78.1 
+Alan_Alda/PzSCbADJSzg_0000006 79.3 90.4 

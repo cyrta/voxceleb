@@ -1,0 +1,7 @@
+POI: 			Xavier_Samuel 
+Youtube ID: 	d_STnWpo1VM 
+Video length: 	75.4 sec 
+Set (V): 		dev 
+ 
+Xavier_Samuel/d_STnWpo1VM_0000001 11.2 25.2 
+Xavier_Samuel/d_STnWpo1VM_0000002 54.6 58.7 

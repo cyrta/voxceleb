@@ -1,0 +1,8 @@
+POI: 			Samira_Wiley 
+Youtube ID: 	eqgjocHnBTA 
+Video length: 	257.5 sec 
+Set (V): 		dev 
+ 
+Samira_Wiley/eqgjocHnBTA_0000001 36.8 47.9 
+Samira_Wiley/eqgjocHnBTA_0000002 91.2 97.0 
+Samira_Wiley/eqgjocHnBTA_0000003 98.4 111.8 

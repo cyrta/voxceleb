@@ -1,0 +1,10 @@
+POI: 			Daniel_Auteuil 
+Youtube ID: 	BxjGXjtCIzI 
+Video length: 	424.5 sec 
+Set (V): 		dev 
+ 
+Daniel_Auteuil/BxjGXjtCIzI_0000001 30.9 36.2 
+Daniel_Auteuil/BxjGXjtCIzI_0000002 51.2 56.1 
+Daniel_Auteuil/BxjGXjtCIzI_0000003 67.1 74.6 
+Daniel_Auteuil/BxjGXjtCIzI_0000004 94.4 99.4 
+Daniel_Auteuil/BxjGXjtCIzI_0000005 226.3 235.4 

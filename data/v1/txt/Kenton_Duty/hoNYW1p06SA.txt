@@ -1,0 +1,8 @@
+POI: 			Kenton_Duty 
+Youtube ID: 	hoNYW1p06SA 
+Video length: 	104.7 sec 
+Set (V): 		dev 
+ 
+Kenton_Duty/hoNYW1p06SA_0000001 06.1 13.4 
+Kenton_Duty/hoNYW1p06SA_0000002 17.2 25.7 
+Kenton_Duty/hoNYW1p06SA_0000003 51.4 60.7 

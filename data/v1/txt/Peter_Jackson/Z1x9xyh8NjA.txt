@@ -1,0 +1,14 @@
+POI: 			Peter_Jackson 
+Youtube ID: 	Z1x9xyh8NjA 
+Video length: 	461.8 sec 
+Set (V): 		dev 
+ 
+Peter_Jackson/Z1x9xyh8NjA_0000001 117.3 129.3 
+Peter_Jackson/Z1x9xyh8NjA_0000002 159.4 167.5 
+Peter_Jackson/Z1x9xyh8NjA_0000003 270.4 275.4 
+Peter_Jackson/Z1x9xyh8NjA_0000004 281.2 287.0 
+Peter_Jackson/Z1x9xyh8NjA_0000005 311.8 317.2 
+Peter_Jackson/Z1x9xyh8NjA_0000006 334.6 342.1 
+Peter_Jackson/Z1x9xyh8NjA_0000007 350.7 365.0 
+Peter_Jackson/Z1x9xyh8NjA_0000008 426.1 433.1 
+Peter_Jackson/Z1x9xyh8NjA_0000009 436.3 442.8 

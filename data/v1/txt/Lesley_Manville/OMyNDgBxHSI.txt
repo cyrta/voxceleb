@@ -1,0 +1,15 @@
+POI: 			Lesley_Manville 
+Youtube ID: 	OMyNDgBxHSI 
+Video length: 	190.1 sec 
+Set (V): 		dev 
+ 
+Lesley_Manville/OMyNDgBxHSI_0000001 05.2 21.1 
+Lesley_Manville/OMyNDgBxHSI_0000002 25.7 39.6 
+Lesley_Manville/OMyNDgBxHSI_0000003 48.5 67.8 
+Lesley_Manville/OMyNDgBxHSI_0000004 70.0 93.8 
+Lesley_Manville/OMyNDgBxHSI_0000005 93.9 107.6 
+Lesley_Manville/OMyNDgBxHSI_0000006 108.9 113.8 
+Lesley_Manville/OMyNDgBxHSI_0000007 122.6 136.9 
+Lesley_Manville/OMyNDgBxHSI_0000008 141.9 161.7 
+Lesley_Manville/OMyNDgBxHSI_0000009 163.8 174.4 
+Lesley_Manville/OMyNDgBxHSI_0000010 175.5 184.5 

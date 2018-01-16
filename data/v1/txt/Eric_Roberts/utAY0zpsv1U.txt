@@ -1,0 +1,16 @@
+POI: 			Eric_Roberts 
+Youtube ID: 	utAY0zpsv1U 
+Video length: 	125.4 sec 
+Set (V): 		test 
+ 
+Eric_Roberts/utAY0zpsv1U_0000001 02.6 07.1 
+Eric_Roberts/utAY0zpsv1U_0000002 07.9 26.6 
+Eric_Roberts/utAY0zpsv1U_0000003 30.0 44.8 
+Eric_Roberts/utAY0zpsv1U_0000004 44.9 52.8 
+Eric_Roberts/utAY0zpsv1U_0000005 54.3 65.4 
+Eric_Roberts/utAY0zpsv1U_0000006 70.2 75.8 
+Eric_Roberts/utAY0zpsv1U_0000007 83.1 88.6 
+Eric_Roberts/utAY0zpsv1U_0000008 93.8 100.1 
+Eric_Roberts/utAY0zpsv1U_0000009 101.7 106.0 
+Eric_Roberts/utAY0zpsv1U_0000010 106.8 114.6 
+Eric_Roberts/utAY0zpsv1U_0000011 114.9 120.7 

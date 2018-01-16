@@ -1,0 +1,14 @@
+POI: 			Tom_Hooper 
+Youtube ID: 	nckclxI223I 
+Video length: 	215.2 sec 
+Set (V): 		dev 
+ 
+Tom_Hooper/nckclxI223I_0000001 19.9 24.0 
+Tom_Hooper/nckclxI223I_0000002 28.2 32.8 
+Tom_Hooper/nckclxI223I_0000003 43.6 51.4 
+Tom_Hooper/nckclxI223I_0000004 86.1 90.9 
+Tom_Hooper/nckclxI223I_0000005 112.2 117.2 
+Tom_Hooper/nckclxI223I_0000006 153.4 158.6 
+Tom_Hooper/nckclxI223I_0000007 176.6 183.3 
+Tom_Hooper/nckclxI223I_0000008 183.6 189.3 
+Tom_Hooper/nckclxI223I_0000009 192.6 200.1 

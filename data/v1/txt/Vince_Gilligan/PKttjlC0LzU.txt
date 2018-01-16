@@ -1,0 +1,11 @@
+POI: 			Vince_Gilligan 
+Youtube ID: 	PKttjlC0LzU 
+Video length: 	296.6 sec 
+Set (V): 		dev 
+ 
+Vince_Gilligan/PKttjlC0LzU_0000001 49.4 56.4 
+Vince_Gilligan/PKttjlC0LzU_0000002 61.6 69.8 
+Vince_Gilligan/PKttjlC0LzU_0000003 86.0 101.8 
+Vince_Gilligan/PKttjlC0LzU_0000004 118.7 123.1 
+Vince_Gilligan/PKttjlC0LzU_0000005 141.6 147.9 
+Vince_Gilligan/PKttjlC0LzU_0000006 263.8 276.2 

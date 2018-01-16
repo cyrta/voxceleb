@@ -1,0 +1,9 @@
+POI: 			Dana_Delany 
+Youtube ID: 	D-bv3YvgXf0 
+Video length: 	323.2 sec 
+Set (V): 		dev 
+ 
+Dana_Delany/D-bv3YvgXf0_0000001 34.4 39.2 
+Dana_Delany/D-bv3YvgXf0_0000002 117.6 125.5 
+Dana_Delany/D-bv3YvgXf0_0000003 130.6 134.9 
+Dana_Delany/D-bv3YvgXf0_0000004 200.3 207.3 

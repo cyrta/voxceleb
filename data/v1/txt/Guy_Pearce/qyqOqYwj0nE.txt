@@ -1,0 +1,22 @@
+POI: 			Guy_Pearce 
+Youtube ID: 	qyqOqYwj0nE 
+Video length: 	359.0 sec 
+Set (V): 		dev 
+ 
+Guy_Pearce/qyqOqYwj0nE_0000001 59.8 68.0 
+Guy_Pearce/qyqOqYwj0nE_0000002 70.6 78.9 
+Guy_Pearce/qyqOqYwj0nE_0000003 80.0 90.1 
+Guy_Pearce/qyqOqYwj0nE_0000004 90.7 97.9 
+Guy_Pearce/qyqOqYwj0nE_0000005 139.4 145.9 
+Guy_Pearce/qyqOqYwj0nE_0000006 146.8 166.3 
+Guy_Pearce/qyqOqYwj0nE_0000007 168.7 173.5 
+Guy_Pearce/qyqOqYwj0nE_0000008 189.1 199.6 
+Guy_Pearce/qyqOqYwj0nE_0000009 228.9 234.7 
+Guy_Pearce/qyqOqYwj0nE_0000010 238.4 258.0 
+Guy_Pearce/qyqOqYwj0nE_0000011 277.4 283.8 
+Guy_Pearce/qyqOqYwj0nE_0000012 285.2 292.0 
+Guy_Pearce/qyqOqYwj0nE_0000013 292.0 305.8 
+Guy_Pearce/qyqOqYwj0nE_0000014 306.7 312.6 
+Guy_Pearce/qyqOqYwj0nE_0000015 318.4 323.9 
+Guy_Pearce/qyqOqYwj0nE_0000016 324.1 333.0 
+Guy_Pearce/qyqOqYwj0nE_0000017 341.2 350.3 

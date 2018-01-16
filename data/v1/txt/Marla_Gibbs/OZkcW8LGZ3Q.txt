@@ -1,0 +1,15 @@
+POI: 			Marla_Gibbs 
+Youtube ID: 	OZkcW8LGZ3Q 
+Video length: 	134.5 sec 
+Set (V): 		dev 
+ 
+Marla_Gibbs/OZkcW8LGZ3Q_0000001 14.2 19.7 
+Marla_Gibbs/OZkcW8LGZ3Q_0000002 19.8 25.0 
+Marla_Gibbs/OZkcW8LGZ3Q_0000003 30.5 37.4 
+Marla_Gibbs/OZkcW8LGZ3Q_0000004 46.4 57.2 
+Marla_Gibbs/OZkcW8LGZ3Q_0000005 59.8 69.3 
+Marla_Gibbs/OZkcW8LGZ3Q_0000006 78.3 94.2 
+Marla_Gibbs/OZkcW8LGZ3Q_0000007 98.2 102.4 
+Marla_Gibbs/OZkcW8LGZ3Q_0000008 102.6 109.0 
+Marla_Gibbs/OZkcW8LGZ3Q_0000009 109.7 115.4 
+Marla_Gibbs/OZkcW8LGZ3Q_0000010 116.2 121.8 

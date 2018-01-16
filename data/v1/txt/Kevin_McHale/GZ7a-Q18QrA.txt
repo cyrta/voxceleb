@@ -1,0 +1,7 @@
+POI: 			Kevin_McHale 
+Youtube ID: 	GZ7a-Q18QrA 
+Video length: 	246.0 sec 
+Set (V): 		dev 
+ 
+Kevin_McHale/GZ7a-Q18QrA_0000001 115.2 121.3 
+Kevin_McHale/GZ7a-Q18QrA_0000002 220.5 226.4 

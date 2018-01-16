@@ -1,0 +1,20 @@
+POI: 			Octavia_Spencer 
+Youtube ID: 	NndjEROUw44 
+Video length: 	294.1 sec 
+Set (V): 		dev 
+ 
+Octavia_Spencer/NndjEROUw44_0000001 24.8 37.8 
+Octavia_Spencer/NndjEROUw44_0000002 71.4 75.7 
+Octavia_Spencer/NndjEROUw44_0000003 83.1 88.1 
+Octavia_Spencer/NndjEROUw44_0000004 96.9 107.1 
+Octavia_Spencer/NndjEROUw44_0000005 116.3 125.7 
+Octavia_Spencer/NndjEROUw44_0000006 127.5 135.8 
+Octavia_Spencer/NndjEROUw44_0000007 143.2 156.1 
+Octavia_Spencer/NndjEROUw44_0000008 157.6 161.6 
+Octavia_Spencer/NndjEROUw44_0000009 170.0 179.4 
+Octavia_Spencer/NndjEROUw44_0000010 181.9 187.1 
+Octavia_Spencer/NndjEROUw44_0000011 230.6 236.2 
+Octavia_Spencer/NndjEROUw44_0000012 236.4 241.6 
+Octavia_Spencer/NndjEROUw44_0000013 242.1 252.0 
+Octavia_Spencer/NndjEROUw44_0000014 259.0 263.2 
+Octavia_Spencer/NndjEROUw44_0000015 268.0 276.6 

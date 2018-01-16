@@ -1,0 +1,40 @@
+POI: 			John_Corbett 
+Youtube ID: 	XodWPlt4kmk 
+Video length: 	1560.9 sec 
+Set (V): 		dev 
+ 
+John_Corbett/XodWPlt4kmk_0000001 40.3 46.4 
+John_Corbett/XodWPlt4kmk_0000002 83.5 88.1 
+John_Corbett/XodWPlt4kmk_0000003 157.9 163.8 
+John_Corbett/XodWPlt4kmk_0000004 187.9 192.5 
+John_Corbett/XodWPlt4kmk_0000005 194.4 199.0 
+John_Corbett/XodWPlt4kmk_0000006 230.2 234.8 
+John_Corbett/XodWPlt4kmk_0000007 258.4 265.9 
+John_Corbett/XodWPlt4kmk_0000008 272.0 277.8 
+John_Corbett/XodWPlt4kmk_0000009 325.4 331.3 
+John_Corbett/XodWPlt4kmk_0000010 364.5 370.4 
+John_Corbett/XodWPlt4kmk_0000011 419.3 425.4 
+John_Corbett/XodWPlt4kmk_0000012 428.9 437.2 
+John_Corbett/XodWPlt4kmk_0000013 523.0 527.8 
+John_Corbett/XodWPlt4kmk_0000014 648.7 654.3 
+John_Corbett/XodWPlt4kmk_0000015 692.3 700.1 
+John_Corbett/XodWPlt4kmk_0000016 821.7 830.9 
+John_Corbett/XodWPlt4kmk_0000017 848.7 853.8 
+John_Corbett/XodWPlt4kmk_0000018 860.8 875.2 
+John_Corbett/XodWPlt4kmk_0000019 892.2 897.2 
+John_Corbett/XodWPlt4kmk_0000020 898.3 906.8 
+John_Corbett/XodWPlt4kmk_0000021 919.9 925.9 
+John_Corbett/XodWPlt4kmk_0000022 960.0 964.4 
+John_Corbett/XodWPlt4kmk_0000023 969.0 974.2 
+John_Corbett/XodWPlt4kmk_0000024 974.5 980.2 
+John_Corbett/XodWPlt4kmk_0000025 1088.5 1100.9 
+John_Corbett/XodWPlt4kmk_0000026 1125.9 1131.2 
+John_Corbett/XodWPlt4kmk_0000027 1212.9 1220.8 
+John_Corbett/XodWPlt4kmk_0000028 1227.0 1236.0 
+John_Corbett/XodWPlt4kmk_0000029 1275.5 1279.5 
+John_Corbett/XodWPlt4kmk_0000030 1301.2 1306.0 
+John_Corbett/XodWPlt4kmk_0000031 1306.2 1315.8 
+John_Corbett/XodWPlt4kmk_0000032 1341.9 1350.7 
+John_Corbett/XodWPlt4kmk_0000033 1451.8 1455.8 
+John_Corbett/XodWPlt4kmk_0000034 1451.1 1459.4 
+John_Corbett/XodWPlt4kmk_0000035 1547.2 1553.2 

@@ -1,0 +1,10 @@
+POI: 			Cyndi_Lauper 
+Youtube ID: 	HbYbMoNOAIw 
+Video length: 	220.7 sec 
+Set (V): 		dev 
+ 
+Cyndi_Lauper/HbYbMoNOAIw_0000001 14.3 18.3 
+Cyndi_Lauper/HbYbMoNOAIw_0000002 43.7 47.7 
+Cyndi_Lauper/HbYbMoNOAIw_0000003 56.1 60.0 
+Cyndi_Lauper/HbYbMoNOAIw_0000004 101.0 105.0 
+Cyndi_Lauper/HbYbMoNOAIw_0000005 149.4 154.5 

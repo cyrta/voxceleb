@@ -1,0 +1,7 @@
+POI: 			Shemar_Moore 
+Youtube ID: 	kAF85WfgqPo 
+Video length: 	206.6 sec 
+Set (V): 		dev 
+ 
+Shemar_Moore/kAF85WfgqPo_0000001 47.6 53.0 
+Shemar_Moore/kAF85WfgqPo_0000002 53.4 58.6 

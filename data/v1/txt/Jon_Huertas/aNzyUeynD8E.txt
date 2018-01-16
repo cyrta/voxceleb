@@ -1,0 +1,16 @@
+POI: 			Jon_Huertas 
+Youtube ID: 	aNzyUeynD8E 
+Video length: 	166.9 sec 
+Set (V): 		dev 
+ 
+Jon_Huertas/aNzyUeynD8E_0000001 03.2 11.4 
+Jon_Huertas/aNzyUeynD8E_0000002 12.1 18.4 
+Jon_Huertas/aNzyUeynD8E_0000003 20.4 46.2 
+Jon_Huertas/aNzyUeynD8E_0000004 54.4 67.2 
+Jon_Huertas/aNzyUeynD8E_0000005 69.1 78.6 
+Jon_Huertas/aNzyUeynD8E_0000006 79.6 85.9 
+Jon_Huertas/aNzyUeynD8E_0000007 97.4 109.8 
+Jon_Huertas/aNzyUeynD8E_0000008 110.7 122.9 
+Jon_Huertas/aNzyUeynD8E_0000009 124.9 131.4 
+Jon_Huertas/aNzyUeynD8E_0000010 132.2 138.7 
+Jon_Huertas/aNzyUeynD8E_0000011 147.2 160.0 

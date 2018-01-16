@@ -1,0 +1,16 @@
+POI: 			David_Tennant 
+Youtube ID: 	QfJhW6GMCG0 
+Video length: 	315.4 sec 
+Set (V): 		dev 
+ 
+David_Tennant/QfJhW6GMCG0_0000001 20.9 28.4 
+David_Tennant/QfJhW6GMCG0_0000002 56.4 71.1 
+David_Tennant/QfJhW6GMCG0_0000003 87.2 98.8 
+David_Tennant/QfJhW6GMCG0_0000004 128.7 134.8 
+David_Tennant/QfJhW6GMCG0_0000005 139.2 145.5 
+David_Tennant/QfJhW6GMCG0_0000006 154.1 160.0 
+David_Tennant/QfJhW6GMCG0_0000007 186.6 191.2 
+David_Tennant/QfJhW6GMCG0_0000008 198.6 203.0 
+David_Tennant/QfJhW6GMCG0_0000009 249.2 254.2 
+David_Tennant/QfJhW6GMCG0_0000010 257.4 261.4 
+David_Tennant/QfJhW6GMCG0_0000011 290.2 294.4 

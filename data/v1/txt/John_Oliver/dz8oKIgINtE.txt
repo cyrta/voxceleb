@@ -1,0 +1,13 @@
+POI: 			John_Oliver 
+Youtube ID: 	dz8oKIgINtE 
+Video length: 	160.8 sec 
+Set (V): 		dev 
+ 
+John_Oliver/dz8oKIgINtE_0000001 00.7 05.7 
+John_Oliver/dz8oKIgINtE_0000002 38.0 51.9 
+John_Oliver/dz8oKIgINtE_0000003 52.5 59.3 
+John_Oliver/dz8oKIgINtE_0000004 60.2 64.2 
+John_Oliver/dz8oKIgINtE_0000005 89.4 97.6 
+John_Oliver/dz8oKIgINtE_0000006 109.1 126.6 
+John_Oliver/dz8oKIgINtE_0000007 126.7 131.2 
+John_Oliver/dz8oKIgINtE_0000008 136.6 159.4 

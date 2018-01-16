@@ -1,0 +1,14 @@
+POI: 			Jon_Lovitz 
+Youtube ID: 	bu_0GTouPjU 
+Video length: 	141.1 sec 
+Set (V): 		dev 
+ 
+Jon_Lovitz/bu_0GTouPjU_0000001 05.8 15.6 
+Jon_Lovitz/bu_0GTouPjU_0000002 18.9 26.0 
+Jon_Lovitz/bu_0GTouPjU_0000003 34.5 40.6 
+Jon_Lovitz/bu_0GTouPjU_0000004 44.6 50.9 
+Jon_Lovitz/bu_0GTouPjU_0000005 62.2 69.4 
+Jon_Lovitz/bu_0GTouPjU_0000006 72.3 91.0 
+Jon_Lovitz/bu_0GTouPjU_0000007 85.6 91.0 
+Jon_Lovitz/bu_0GTouPjU_0000008 96.1 101.6 
+Jon_Lovitz/bu_0GTouPjU_0000009 101.0 112.0 

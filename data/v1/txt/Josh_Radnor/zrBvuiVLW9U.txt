@@ -1,0 +1,9 @@
+POI: 			Josh_Radnor 
+Youtube ID: 	zrBvuiVLW9U 
+Video length: 	87.2 sec 
+Set (V): 		dev 
+ 
+Josh_Radnor/zrBvuiVLW9U_0000001 13.5 33.9 
+Josh_Radnor/zrBvuiVLW9U_0000002 35.9 48.1 
+Josh_Radnor/zrBvuiVLW9U_0000003 50.6 58.5 
+Josh_Radnor/zrBvuiVLW9U_0000004 68.7 81.2 

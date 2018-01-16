@@ -1,0 +1,8 @@
+POI: 			Damon_Lindelof 
+Youtube ID: 	3tfHvceCaDs 
+Video length: 	81.2 sec 
+Set (V): 		dev 
+ 
+Damon_Lindelof/3tfHvceCaDs_0000001 34.8 39.7 
+Damon_Lindelof/3tfHvceCaDs_0000002 48.8 57.2 
+Damon_Lindelof/3tfHvceCaDs_0000003 60.7 64.6 

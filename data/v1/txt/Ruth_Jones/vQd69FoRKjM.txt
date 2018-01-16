@@ -1,0 +1,7 @@
+POI: 			Ruth_Jones 
+Youtube ID: 	vQd69FoRKjM 
+Video length: 	464.7 sec 
+Set (V): 		dev 
+ 
+Ruth_Jones/vQd69FoRKjM_0000001 215.4 221.3 
+Ruth_Jones/vQd69FoRKjM_0000002 255.2 260.6 

@@ -1,0 +1,13 @@
+POI: 			Megan_Fox 
+Youtube ID: 	RF59IrC1wgk 
+Video length: 	361.8 sec 
+Set (V): 		dev 
+ 
+Megan_Fox/RF59IrC1wgk_0000001 107.6 119.3 
+Megan_Fox/RF59IrC1wgk_0000002 152.0 167.2 
+Megan_Fox/RF59IrC1wgk_0000003 168.4 176.1 
+Megan_Fox/RF59IrC1wgk_0000004 195.4 213.0 
+Megan_Fox/RF59IrC1wgk_0000005 243.7 255.8 
+Megan_Fox/RF59IrC1wgk_0000006 281.5 287.3 
+Megan_Fox/RF59IrC1wgk_0000007 288.0 321.7 
+Megan_Fox/RF59IrC1wgk_0000008 340.4 347.4 

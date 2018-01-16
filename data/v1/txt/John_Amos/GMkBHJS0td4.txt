@@ -1,0 +1,11 @@
+POI: 			John_Amos 
+Youtube ID: 	GMkBHJS0td4 
+Video length: 	118.6 sec 
+Set (V): 		dev 
+ 
+John_Amos/GMkBHJS0td4_0000001 36.1 46.9 
+John_Amos/GMkBHJS0td4_0000002 48.0 52.2 
+John_Amos/GMkBHJS0td4_0000003 52.4 65.8 
+John_Amos/GMkBHJS0td4_0000004 67.2 73.4 
+John_Amos/GMkBHJS0td4_0000005 78.3 91.5 
+John_Amos/GMkBHJS0td4_0000006 92.1 96.9 

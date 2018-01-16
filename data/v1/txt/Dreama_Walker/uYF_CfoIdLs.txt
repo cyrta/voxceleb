@@ -1,0 +1,22 @@
+POI: 			Dreama_Walker 
+Youtube ID: 	uYF_CfoIdLs 
+Video length: 	438.1 sec 
+Set (V): 		dev 
+ 
+Dreama_Walker/uYF_CfoIdLs_0000001 51.0 66.4 
+Dreama_Walker/uYF_CfoIdLs_0000002 66.6 76.4 
+Dreama_Walker/uYF_CfoIdLs_0000003 103.3 121.6 
+Dreama_Walker/uYF_CfoIdLs_0000004 122.0 140.3 
+Dreama_Walker/uYF_CfoIdLs_0000005 147.1 177.6 
+Dreama_Walker/uYF_CfoIdLs_0000006 202.5 207.2 
+Dreama_Walker/uYF_CfoIdLs_0000007 168.0 177.6 
+Dreama_Walker/uYF_CfoIdLs_0000008 200.4 207.4 
+Dreama_Walker/uYF_CfoIdLs_0000009 216.2 220.8 
+Dreama_Walker/uYF_CfoIdLs_0000010 223.2 228.6 
+Dreama_Walker/uYF_CfoIdLs_0000011 229.2 241.2 
+Dreama_Walker/uYF_CfoIdLs_0000012 248.1 274.7 
+Dreama_Walker/uYF_CfoIdLs_0000013 304.8 349.9 
+Dreama_Walker/uYF_CfoIdLs_0000014 366.2 385.9 
+Dreama_Walker/uYF_CfoIdLs_0000015 386.4 403.4 
+Dreama_Walker/uYF_CfoIdLs_0000016 366.2 385.9 
+Dreama_Walker/uYF_CfoIdLs_0000017 386.3 426.5 

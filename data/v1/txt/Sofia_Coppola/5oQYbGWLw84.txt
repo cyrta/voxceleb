@@ -1,0 +1,17 @@
+POI: 			Sofia_Coppola 
+Youtube ID: 	5oQYbGWLw84 
+Video length: 	576.8 sec 
+Set (V): 		dev 
+ 
+Sofia_Coppola/5oQYbGWLw84_0000001 57.1 75.0 
+Sofia_Coppola/5oQYbGWLw84_0000002 208.3 216.7 
+Sofia_Coppola/5oQYbGWLw84_0000003 235.4 247.1 
+Sofia_Coppola/5oQYbGWLw84_0000004 314.2 320.0 
+Sofia_Coppola/5oQYbGWLw84_0000005 336.0 354.8 
+Sofia_Coppola/5oQYbGWLw84_0000006 355.2 362.6 
+Sofia_Coppola/5oQYbGWLw84_0000007 407.5 419.3 
+Sofia_Coppola/5oQYbGWLw84_0000008 444.6 449.0 
+Sofia_Coppola/5oQYbGWLw84_0000009 450.3 454.9 
+Sofia_Coppola/5oQYbGWLw84_0000010 483.0 487.0 
+Sofia_Coppola/5oQYbGWLw84_0000011 549.1 557.6 
+Sofia_Coppola/5oQYbGWLw84_0000012 560.4 565.0 

@@ -1,0 +1,9 @@
+POI: 			Isla_Fisher 
+Youtube ID: 	_uqSoNAP9EI 
+Video length: 	132.7 sec 
+Set (V): 		dev 
+ 
+Isla_Fisher/_uqSoNAP9EI_0000001 07.6 11.6 
+Isla_Fisher/_uqSoNAP9EI_0000002 13.7 18.0 
+Isla_Fisher/_uqSoNAP9EI_0000003 71.0 76.0 
+Isla_Fisher/_uqSoNAP9EI_0000004 76.3 82.7 

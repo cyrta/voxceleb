@@ -1,0 +1,16 @@
+POI: 			Sharlto_Copley 
+Youtube ID: 	FbggIiuu86U 
+Video length: 	291.2 sec 
+Set (V): 		dev 
+ 
+Sharlto_Copley/FbggIiuu86U_0000001 47.9 53.8 
+Sharlto_Copley/FbggIiuu86U_0000002 53.9 58.8 
+Sharlto_Copley/FbggIiuu86U_0000003 79.6 84.6 
+Sharlto_Copley/FbggIiuu86U_0000004 85.2 89.6 
+Sharlto_Copley/FbggIiuu86U_0000005 111.5 133.0 
+Sharlto_Copley/FbggIiuu86U_0000006 186.0 190.1 
+Sharlto_Copley/FbggIiuu86U_0000007 204.5 219.5 
+Sharlto_Copley/FbggIiuu86U_0000008 222.9 231.8 
+Sharlto_Copley/FbggIiuu86U_0000009 252.2 257.5 
+Sharlto_Copley/FbggIiuu86U_0000010 262.2 268.8 
+Sharlto_Copley/FbggIiuu86U_0000011 271.0 280.5 

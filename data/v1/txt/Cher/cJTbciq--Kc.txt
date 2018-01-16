@@ -1,0 +1,8 @@
+POI: 			Cher 
+Youtube ID: 	cJTbciq--Kc 
+Video length: 	713.1 sec 
+Set (V): 		dev 
+ 
+Cher/cJTbciq--Kc_0000001 76.0 80.8 
+Cher/cJTbciq--Kc_0000002 476.8 482.2 
+Cher/cJTbciq--Kc_0000003 659.3 664.8 

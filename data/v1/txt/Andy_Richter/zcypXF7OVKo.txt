@@ -1,0 +1,17 @@
+POI: 			Andy_Richter 
+Youtube ID: 	zcypXF7OVKo 
+Video length: 	470.5 sec 
+Set (V): 		dev 
+ 
+Andy_Richter/zcypXF7OVKo_0000001 23.1 27.8 
+Andy_Richter/zcypXF7OVKo_0000002 71.0 77.8 
+Andy_Richter/zcypXF7OVKo_0000003 78.5 84.9 
+Andy_Richter/zcypXF7OVKo_0000004 85.2 103.5 
+Andy_Richter/zcypXF7OVKo_0000005 104.8 129.8 
+Andy_Richter/zcypXF7OVKo_0000006 197.7 205.0 
+Andy_Richter/zcypXF7OVKo_0000007 227.6 233.1 
+Andy_Richter/zcypXF7OVKo_0000008 297.3 304.7 
+Andy_Richter/zcypXF7OVKo_0000009 306.3 314.4 
+Andy_Richter/zcypXF7OVKo_0000010 358.9 364.3 
+Andy_Richter/zcypXF7OVKo_0000011 375.7 380.4 
+Andy_Richter/zcypXF7OVKo_0000012 389.4 393.6 

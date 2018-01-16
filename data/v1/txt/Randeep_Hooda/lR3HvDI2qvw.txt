@@ -1,0 +1,19 @@
+POI: 			Randeep_Hooda 
+Youtube ID: 	lR3HvDI2qvw 
+Video length: 	703.1 sec 
+Set (V): 		dev 
+ 
+Randeep_Hooda/lR3HvDI2qvw_0000001 59.0 72.8 
+Randeep_Hooda/lR3HvDI2qvw_0000002 81.8 89.9 
+Randeep_Hooda/lR3HvDI2qvw_0000003 90.6 95.0 
+Randeep_Hooda/lR3HvDI2qvw_0000004 102.0 130.1 
+Randeep_Hooda/lR3HvDI2qvw_0000005 458.2 475.4 
+Randeep_Hooda/lR3HvDI2qvw_0000006 512.8 517.7 
+Randeep_Hooda/lR3HvDI2qvw_0000007 520.1 525.4 
+Randeep_Hooda/lR3HvDI2qvw_0000008 526.1 531.2 
+Randeep_Hooda/lR3HvDI2qvw_0000009 531.6 546.6 
+Randeep_Hooda/lR3HvDI2qvw_0000010 548.6 555.9 
+Randeep_Hooda/lR3HvDI2qvw_0000011 556.0 561.8 
+Randeep_Hooda/lR3HvDI2qvw_0000012 568.9 579.1 
+Randeep_Hooda/lR3HvDI2qvw_0000013 582.7 587.8 
+Randeep_Hooda/lR3HvDI2qvw_0000014 588.5 598.8 

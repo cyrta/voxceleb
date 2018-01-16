@@ -1,0 +1,12 @@
+POI: 			Robert_Sheehan 
+Youtube ID: 	u3sqKYnSGdw 
+Video length: 	574.8 sec 
+Set (V): 		dev 
+ 
+Robert_Sheehan/u3sqKYnSGdw_0000001 121.0 128.4 
+Robert_Sheehan/u3sqKYnSGdw_0000002 421.8 430.6 
+Robert_Sheehan/u3sqKYnSGdw_0000003 437.1 444.5 
+Robert_Sheehan/u3sqKYnSGdw_0000004 526.4 530.9 
+Robert_Sheehan/u3sqKYnSGdw_0000005 531.2 537.7 
+Robert_Sheehan/u3sqKYnSGdw_0000006 541.8 546.7 
+Robert_Sheehan/u3sqKYnSGdw_0000007 549.2 555.9 

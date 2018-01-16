@@ -1,0 +1,7 @@
+POI: 			Taylor_Lautner 
+Youtube ID: 	Scmw_7a35BE 
+Video length: 	83.0 sec 
+Set (V): 		dev 
+ 
+Taylor_Lautner/Scmw_7a35BE_0000001 24.9 32.6 
+Taylor_Lautner/Scmw_7a35BE_0000002 35.5 41.2 

@@ -1,0 +1,10 @@
+POI: 			Miranda_Lambert 
+Youtube ID: 	u3Lza0XsXnE 
+Video length: 	319.5 sec 
+Set (V): 		dev 
+ 
+Miranda_Lambert/u3Lza0XsXnE_0000001 13.0 17.2 
+Miranda_Lambert/u3Lza0XsXnE_0000002 46.7 50.9 
+Miranda_Lambert/u3Lza0XsXnE_0000003 145.8 150.7 
+Miranda_Lambert/u3Lza0XsXnE_0000004 185.0 191.8 
+Miranda_Lambert/u3Lza0XsXnE_0000005 224.7 232.3 

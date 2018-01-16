@@ -1,0 +1,10 @@
+POI: 			Jay_Baruchel 
+Youtube ID: 	TxahHq341DY 
+Video length: 	470.5 sec 
+Set (V): 		dev 
+ 
+Jay_Baruchel/TxahHq341DY_0000001 266.8 271.1 
+Jay_Baruchel/TxahHq341DY_0000002 272.4 278.3 
+Jay_Baruchel/TxahHq341DY_0000003 301.6 310.2 
+Jay_Baruchel/TxahHq341DY_0000004 365.6 371.0 
+Jay_Baruchel/TxahHq341DY_0000005 383.2 391.6 

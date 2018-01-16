@@ -1,0 +1,20 @@
+POI: 			William_Fichtner 
+Youtube ID: 	Hwbmtw5VL7A 
+Video length: 	197.2 sec 
+Set (V): 		dev 
+ 
+William_Fichtner/Hwbmtw5VL7A_0000001 05.6 13.7 
+William_Fichtner/Hwbmtw5VL7A_0000002 14.5 21.6 
+William_Fichtner/Hwbmtw5VL7A_0000003 22.5 31.3 
+William_Fichtner/Hwbmtw5VL7A_0000004 36.3 44.3 
+William_Fichtner/Hwbmtw5VL7A_0000005 48.0 64.0 
+William_Fichtner/Hwbmtw5VL7A_0000006 65.0 70.2 
+William_Fichtner/Hwbmtw5VL7A_0000007 73.8 78.7 
+William_Fichtner/Hwbmtw5VL7A_0000008 85.9 94.5 
+William_Fichtner/Hwbmtw5VL7A_0000009 95.5 103.0 
+William_Fichtner/Hwbmtw5VL7A_0000010 104.4 110.0 
+William_Fichtner/Hwbmtw5VL7A_0000011 122.2 127.1 
+William_Fichtner/Hwbmtw5VL7A_0000012 128.2 135.0 
+William_Fichtner/Hwbmtw5VL7A_0000013 135.4 140.9 
+William_Fichtner/Hwbmtw5VL7A_0000014 169.8 187.0 
+William_Fichtner/Hwbmtw5VL7A_0000015 187.4 193.4 

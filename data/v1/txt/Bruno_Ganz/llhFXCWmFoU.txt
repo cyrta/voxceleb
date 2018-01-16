@@ -1,0 +1,16 @@
+POI: 			Bruno_Ganz 
+Youtube ID: 	llhFXCWmFoU 
+Video length: 	296.3 sec 
+Set (V): 		dev 
+ 
+Bruno_Ganz/llhFXCWmFoU_0000001 65.6 73.9 
+Bruno_Ganz/llhFXCWmFoU_0000002 75.0 82.4 
+Bruno_Ganz/llhFXCWmFoU_0000003 85.4 89.8 
+Bruno_Ganz/llhFXCWmFoU_0000004 100.6 104.6 
+Bruno_Ganz/llhFXCWmFoU_0000005 105.9 112.5 
+Bruno_Ganz/llhFXCWmFoU_0000006 129.0 133.4 
+Bruno_Ganz/llhFXCWmFoU_0000007 135.6 140.4 
+Bruno_Ganz/llhFXCWmFoU_0000008 129.0 133.4 
+Bruno_Ganz/llhFXCWmFoU_0000009 135.6 140.2 
+Bruno_Ganz/llhFXCWmFoU_0000010 156.5 162.4 
+Bruno_Ganz/llhFXCWmFoU_0000011 163.8 168.4 

@@ -1,0 +1,8 @@
+POI: 			Aidan_Turner 
+Youtube ID: 	NJygdnZs634 
+Video length: 	174.0 sec 
+Set (V): 		dev 
+ 
+Aidan_Turner/NJygdnZs634_0000001 76.4 81.7 
+Aidan_Turner/NJygdnZs634_0000002 99.6 104.3 
+Aidan_Turner/NJygdnZs634_0000003 138.7 151.0 

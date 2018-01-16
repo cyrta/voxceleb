@@ -1,0 +1,8 @@
+POI: 			Sherri_Saum 
+Youtube ID: 	IBRU6wALnnY 
+Video length: 	127.9 sec 
+Set (V): 		dev 
+ 
+Sherri_Saum/IBRU6wALnnY_0000001 12.4 20.0 
+Sherri_Saum/IBRU6wALnnY_0000002 20.3 26.0 
+Sherri_Saum/IBRU6wALnnY_0000003 52.5 58.0 

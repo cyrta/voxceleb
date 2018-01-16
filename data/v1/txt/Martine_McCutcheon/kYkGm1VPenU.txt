@@ -1,0 +1,9 @@
+POI: 			Martine_McCutcheon 
+Youtube ID: 	kYkGm1VPenU 
+Video length: 	435.7 sec 
+Set (V): 		dev 
+ 
+Martine_McCutcheon/kYkGm1VPenU_0000001 158.6 166.6 
+Martine_McCutcheon/kYkGm1VPenU_0000002 206.4 211.2 
+Martine_McCutcheon/kYkGm1VPenU_0000003 317.6 322.1 
+Martine_McCutcheon/kYkGm1VPenU_0000004 396.8 401.2 

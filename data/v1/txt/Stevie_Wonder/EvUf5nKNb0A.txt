@@ -1,0 +1,12 @@
+POI: 			Stevie_Wonder 
+Youtube ID: 	EvUf5nKNb0A 
+Video length: 	180.1 sec 
+Set (V): 		dev 
+ 
+Stevie_Wonder/EvUf5nKNb0A_0000001 06.6 12.8 
+Stevie_Wonder/EvUf5nKNb0A_0000002 19.0 27.3 
+Stevie_Wonder/EvUf5nKNb0A_0000003 30.6 36.8 
+Stevie_Wonder/EvUf5nKNb0A_0000004 79.9 88.3 
+Stevie_Wonder/EvUf5nKNb0A_0000005 111.4 116.9 
+Stevie_Wonder/EvUf5nKNb0A_0000006 123.5 128.8 
+Stevie_Wonder/EvUf5nKNb0A_0000007 134.9 140.0 

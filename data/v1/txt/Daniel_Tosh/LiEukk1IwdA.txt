@@ -1,0 +1,8 @@
+POI: 			Daniel_Tosh 
+Youtube ID: 	LiEukk1IwdA 
+Video length: 	161.4 sec 
+Set (V): 		dev 
+ 
+Daniel_Tosh/LiEukk1IwdA_0000001 43.0 52.4 
+Daniel_Tosh/LiEukk1IwdA_0000002 78.7 86.8 
+Daniel_Tosh/LiEukk1IwdA_0000003 93.2 101.8 

@@ -1,0 +1,24 @@
+POI: 			Corey_Stoll 
+Youtube ID: 	U9Bm6qcL5mU 
+Video length: 	518.3 sec 
+Set (V): 		dev 
+ 
+Corey_Stoll/U9Bm6qcL5mU_0000001 68.6 73.2 
+Corey_Stoll/U9Bm6qcL5mU_0000002 79.6 86.1 
+Corey_Stoll/U9Bm6qcL5mU_0000003 87.0 94.3 
+Corey_Stoll/U9Bm6qcL5mU_0000004 171.8 178.6 
+Corey_Stoll/U9Bm6qcL5mU_0000005 178.7 189.6 
+Corey_Stoll/U9Bm6qcL5mU_0000006 191.7 197.3 
+Corey_Stoll/U9Bm6qcL5mU_0000007 206.6 210.6 
+Corey_Stoll/U9Bm6qcL5mU_0000008 244.9 253.0 
+Corey_Stoll/U9Bm6qcL5mU_0000009 243.0 248.9 
+Corey_Stoll/U9Bm6qcL5mU_0000010 258.9 265.2 
+Corey_Stoll/U9Bm6qcL5mU_0000011 262.2 268.4 
+Corey_Stoll/U9Bm6qcL5mU_0000012 372.0 378.1 
+Corey_Stoll/U9Bm6qcL5mU_0000013 459.2 464.4 
+Corey_Stoll/U9Bm6qcL5mU_0000014 466.3 473.4 
+Corey_Stoll/U9Bm6qcL5mU_0000015 473.5 482.1 
+Corey_Stoll/U9Bm6qcL5mU_0000016 482.5 487.3 
+Corey_Stoll/U9Bm6qcL5mU_0000017 487.4 492.6 
+Corey_Stoll/U9Bm6qcL5mU_0000018 493.5 505.9 
+Corey_Stoll/U9Bm6qcL5mU_0000019 506.0 514.7 

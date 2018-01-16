@@ -1,0 +1,9 @@
+POI: 			Kristen_Schaal 
+Youtube ID: 	RiiKJAtfdfE 
+Video length: 	273.3 sec 
+Set (V): 		dev 
+ 
+Kristen_Schaal/RiiKJAtfdfE_0000001 26.1 30.6 
+Kristen_Schaal/RiiKJAtfdfE_0000002 38.1 44.4 
+Kristen_Schaal/RiiKJAtfdfE_0000003 45.0 49.0 
+Kristen_Schaal/RiiKJAtfdfE_0000004 59.4 65.0 

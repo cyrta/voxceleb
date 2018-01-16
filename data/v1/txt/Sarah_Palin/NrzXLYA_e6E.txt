@@ -1,0 +1,11 @@
+POI: 			Sarah_Palin 
+Youtube ID: 	NrzXLYA_e6E 
+Video length: 	345.9 sec 
+Set (V): 		dev 
+ 
+Sarah_Palin/NrzXLYA_e6E_0000001 15.2 19.6 
+Sarah_Palin/NrzXLYA_e6E_0000002 29.5 34.3 
+Sarah_Palin/NrzXLYA_e6E_0000003 54.6 79.7 
+Sarah_Palin/NrzXLYA_e6E_0000004 162.4 166.8 
+Sarah_Palin/NrzXLYA_e6E_0000005 170.9 178.1 
+Sarah_Palin/NrzXLYA_e6E_0000006 328.9 340.7 

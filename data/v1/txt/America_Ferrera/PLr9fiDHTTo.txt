@@ -1,0 +1,11 @@
+POI: 			America_Ferrera 
+Youtube ID: 	PLr9fiDHTTo 
+Video length: 	377.6 sec 
+Set (V): 		dev 
+ 
+America_Ferrera/PLr9fiDHTTo_0000001 84.2 89.0 
+America_Ferrera/PLr9fiDHTTo_0000002 95.0 99.6 
+America_Ferrera/PLr9fiDHTTo_0000003 103.2 107.8 
+America_Ferrera/PLr9fiDHTTo_0000004 122.0 128.4 
+America_Ferrera/PLr9fiDHTTo_0000005 163.9 174.8 
+America_Ferrera/PLr9fiDHTTo_0000006 175.3 180.8 

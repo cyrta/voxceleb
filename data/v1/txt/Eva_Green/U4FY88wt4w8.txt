@@ -1,0 +1,8 @@
+POI: 			Eva_Green 
+Youtube ID: 	U4FY88wt4w8 
+Video length: 	220.8 sec 
+Set (V): 		test 
+ 
+Eva_Green/U4FY88wt4w8_0000001 23.6 27.6 
+Eva_Green/U4FY88wt4w8_0000002 33.2 40.5 
+Eva_Green/U4FY88wt4w8_0000003 117.0 121.1 

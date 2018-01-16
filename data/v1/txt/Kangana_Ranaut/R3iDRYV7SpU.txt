@@ -1,0 +1,14 @@
+POI: 			Kangana_Ranaut 
+Youtube ID: 	R3iDRYV7SpU 
+Video length: 	480.0 sec 
+Set (V): 		dev 
+ 
+Kangana_Ranaut/R3iDRYV7SpU_0000001 96.2 103.5 
+Kangana_Ranaut/R3iDRYV7SpU_0000002 111.4 118.4 
+Kangana_Ranaut/R3iDRYV7SpU_0000003 136.3 140.4 
+Kangana_Ranaut/R3iDRYV7SpU_0000004 141.4 150.4 
+Kangana_Ranaut/R3iDRYV7SpU_0000005 150.6 157.6 
+Kangana_Ranaut/R3iDRYV7SpU_0000006 224.2 229.4 
+Kangana_Ranaut/R3iDRYV7SpU_0000007 231.8 236.8 
+Kangana_Ranaut/R3iDRYV7SpU_0000008 237.1 248.2 
+Kangana_Ranaut/R3iDRYV7SpU_0000009 249.2 256.6 

@@ -1,0 +1,14 @@
+POI: 			Eddie_McClintock 
+Youtube ID: 	LqcUAxrtYOk 
+Video length: 	159.2 sec 
+Set (V): 		test 
+ 
+Eddie_McClintock/LqcUAxrtYOk_0000001 16.1 25.2 
+Eddie_McClintock/LqcUAxrtYOk_0000002 25.7 30.0 
+Eddie_McClintock/LqcUAxrtYOk_0000003 30.3 35.0 
+Eddie_McClintock/LqcUAxrtYOk_0000004 40.2 54.7 
+Eddie_McClintock/LqcUAxrtYOk_0000005 59.0 64.2 
+Eddie_McClintock/LqcUAxrtYOk_0000006 71.4 80.6 
+Eddie_McClintock/LqcUAxrtYOk_0000007 85.9 90.4 
+Eddie_McClintock/LqcUAxrtYOk_0000008 94.8 100.2 
+Eddie_McClintock/LqcUAxrtYOk_0000009 134.0 138.0 

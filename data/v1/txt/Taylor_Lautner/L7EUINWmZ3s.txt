@@ -1,0 +1,15 @@
+POI: 			Taylor_Lautner 
+Youtube ID: 	L7EUINWmZ3s 
+Video length: 	221.6 sec 
+Set (V): 		dev 
+ 
+Taylor_Lautner/L7EUINWmZ3s_0000001 22.6 32.2 
+Taylor_Lautner/L7EUINWmZ3s_0000002 35.8 49.4 
+Taylor_Lautner/L7EUINWmZ3s_0000003 66.4 74.7 
+Taylor_Lautner/L7EUINWmZ3s_0000004 75.6 98.6 
+Taylor_Lautner/L7EUINWmZ3s_0000005 107.7 112.8 
+Taylor_Lautner/L7EUINWmZ3s_0000006 113.8 118.8 
+Taylor_Lautner/L7EUINWmZ3s_0000007 141.6 167.5 
+Taylor_Lautner/L7EUINWmZ3s_0000008 172.0 178.1 
+Taylor_Lautner/L7EUINWmZ3s_0000009 178.2 184.4 
+Taylor_Lautner/L7EUINWmZ3s_0000010 200.9 212.0 

@@ -1,0 +1,24 @@
+POI: 			Iain_Glen 
+Youtube ID: 	To1pb3JjqXc 
+Video length: 	395.1 sec 
+Set (V): 		dev 
+ 
+Iain_Glen/To1pb3JjqXc_0000001 18.9 27.1 
+Iain_Glen/To1pb3JjqXc_0000002 32.2 37.6 
+Iain_Glen/To1pb3JjqXc_0000003 46.3 55.3 
+Iain_Glen/To1pb3JjqXc_0000004 71.8 84.9 
+Iain_Glen/To1pb3JjqXc_0000005 91.6 95.7 
+Iain_Glen/To1pb3JjqXc_0000006 112.0 117.8 
+Iain_Glen/To1pb3JjqXc_0000007 123.1 131.4 
+Iain_Glen/To1pb3JjqXc_0000008 139.1 150.6 
+Iain_Glen/To1pb3JjqXc_0000009 159.9 171.3 
+Iain_Glen/To1pb3JjqXc_0000010 174.4 184.3 
+Iain_Glen/To1pb3JjqXc_0000011 185.1 200.0 
+Iain_Glen/To1pb3JjqXc_0000012 200.6 205.9 
+Iain_Glen/To1pb3JjqXc_0000013 200.8 206.1 
+Iain_Glen/To1pb3JjqXc_0000014 210.5 224.8 
+Iain_Glen/To1pb3JjqXc_0000015 248.2 253.0 
+Iain_Glen/To1pb3JjqXc_0000016 264.1 275.5 
+Iain_Glen/To1pb3JjqXc_0000017 284.4 309.6 
+Iain_Glen/To1pb3JjqXc_0000018 370.8 375.5 
+Iain_Glen/To1pb3JjqXc_0000019 377.0 383.2 

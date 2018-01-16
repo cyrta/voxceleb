@@ -1,0 +1,10 @@
+POI: 			Alexander_Siddig 
+Youtube ID: 	fEZ0hjLjEi0 
+Video length: 	167.9 sec 
+Set (V): 		dev 
+ 
+Alexander_Siddig/fEZ0hjLjEi0_0000001 08.5 12.8 
+Alexander_Siddig/fEZ0hjLjEi0_0000002 23.0 28.6 
+Alexander_Siddig/fEZ0hjLjEi0_0000003 53.0 59.6 
+Alexander_Siddig/fEZ0hjLjEi0_0000004 130.1 135.9 
+Alexander_Siddig/fEZ0hjLjEi0_0000005 152.6 156.9 

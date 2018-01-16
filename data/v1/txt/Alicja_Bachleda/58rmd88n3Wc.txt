@@ -1,0 +1,8 @@
+POI: 			Alicja_Bachleda 
+Youtube ID: 	58rmd88n3Wc 
+Video length: 	126.2 sec 
+Set (V): 		dev 
+ 
+Alicja_Bachleda/58rmd88n3Wc_0000001 34.0 39.0 
+Alicja_Bachleda/58rmd88n3Wc_0000002 57.8 71.9 
+Alicja_Bachleda/58rmd88n3Wc_0000003 83.1 89.6 

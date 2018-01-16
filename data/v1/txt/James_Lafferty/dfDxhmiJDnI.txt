@@ -1,0 +1,20 @@
+POI: 			James_Lafferty 
+Youtube ID: 	dfDxhmiJDnI 
+Video length: 	254.7 sec 
+Set (V): 		dev 
+ 
+James_Lafferty/dfDxhmiJDnI_0000001 20.4 38.4 
+James_Lafferty/dfDxhmiJDnI_0000002 39.3 47.9 
+James_Lafferty/dfDxhmiJDnI_0000003 49.2 55.7 
+James_Lafferty/dfDxhmiJDnI_0000004 65.2 78.9 
+James_Lafferty/dfDxhmiJDnI_0000005 80.4 86.6 
+James_Lafferty/dfDxhmiJDnI_0000006 87.8 99.3 
+James_Lafferty/dfDxhmiJDnI_0000007 99.5 105.1 
+James_Lafferty/dfDxhmiJDnI_0000008 106.2 113.7 
+James_Lafferty/dfDxhmiJDnI_0000009 129.8 137.2 
+James_Lafferty/dfDxhmiJDnI_0000010 138.2 149.7 
+James_Lafferty/dfDxhmiJDnI_0000011 166.6 181.1 
+James_Lafferty/dfDxhmiJDnI_0000012 185.9 202.4 
+James_Lafferty/dfDxhmiJDnI_0000013 213.3 219.0 
+James_Lafferty/dfDxhmiJDnI_0000014 220.5 232.3 
+James_Lafferty/dfDxhmiJDnI_0000015 242.0 252.3 

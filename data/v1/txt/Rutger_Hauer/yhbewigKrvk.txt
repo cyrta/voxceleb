@@ -1,0 +1,9 @@
+POI: 			Rutger_Hauer 
+Youtube ID: 	yhbewigKrvk 
+Video length: 	548.2 sec 
+Set (V): 		dev 
+ 
+Rutger_Hauer/yhbewigKrvk_0000001 93.6 99.0 
+Rutger_Hauer/yhbewigKrvk_0000002 311.0 316.4 
+Rutger_Hauer/yhbewigKrvk_0000003 337.2 345.4 
+Rutger_Hauer/yhbewigKrvk_0000004 393.8 400.8 

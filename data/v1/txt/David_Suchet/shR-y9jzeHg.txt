@@ -1,0 +1,7 @@
+POI: 			David_Suchet 
+Youtube ID: 	shR-y9jzeHg 
+Video length: 	493.1 sec 
+Set (V): 		dev 
+ 
+David_Suchet/shR-y9jzeHg_0000001 345.7 350.1 
+David_Suchet/shR-y9jzeHg_0000002 356.3 361.0 

@@ -1,0 +1,15 @@
+POI: 			John_Mulaney 
+Youtube ID: 	dBNBAgtjYV8 
+Video length: 	206.3 sec 
+Set (V): 		dev 
+ 
+John_Mulaney/dBNBAgtjYV8_0000001 21.3 28.6 
+John_Mulaney/dBNBAgtjYV8_0000002 34.6 40.6 
+John_Mulaney/dBNBAgtjYV8_0000003 41.8 52.1 
+John_Mulaney/dBNBAgtjYV8_0000004 52.4 56.6 
+John_Mulaney/dBNBAgtjYV8_0000005 52.4 57.1 
+John_Mulaney/dBNBAgtjYV8_0000006 68.1 81.7 
+John_Mulaney/dBNBAgtjYV8_0000007 86.0 90.9 
+John_Mulaney/dBNBAgtjYV8_0000008 99.6 105.0 
+John_Mulaney/dBNBAgtjYV8_0000009 123.8 129.9 
+John_Mulaney/dBNBAgtjYV8_0000010 130.6 140.7 

@@ -1,0 +1,17 @@
+POI: 			Thomas_Ian_Nicholas 
+Youtube ID: 	2ZBmCoHGZ8k 
+Video length: 	234.9 sec 
+Set (V): 		dev 
+ 
+Thomas_Ian_Nicholas/2ZBmCoHGZ8k_0000001 28.3 32.6 
+Thomas_Ian_Nicholas/2ZBmCoHGZ8k_0000002 35.2 39.5 
+Thomas_Ian_Nicholas/2ZBmCoHGZ8k_0000003 50.3 59.4 
+Thomas_Ian_Nicholas/2ZBmCoHGZ8k_0000004 79.4 90.0 
+Thomas_Ian_Nicholas/2ZBmCoHGZ8k_0000005 99.4 113.6 
+Thomas_Ian_Nicholas/2ZBmCoHGZ8k_0000006 118.3 135.4 
+Thomas_Ian_Nicholas/2ZBmCoHGZ8k_0000007 135.9 140.7 
+Thomas_Ian_Nicholas/2ZBmCoHGZ8k_0000008 140.8 151.0 
+Thomas_Ian_Nicholas/2ZBmCoHGZ8k_0000009 186.4 191.9 
+Thomas_Ian_Nicholas/2ZBmCoHGZ8k_0000010 196.7 206.0 
+Thomas_Ian_Nicholas/2ZBmCoHGZ8k_0000011 206.3 212.0 
+Thomas_Ian_Nicholas/2ZBmCoHGZ8k_0000012 212.3 216.9 

@@ -1,0 +1,15 @@
+POI: 			Woody_Harrelson 
+Youtube ID: 	PYNOg5zyfJU 
+Video length: 	251.8 sec 
+Set (V): 		dev 
+ 
+Woody_Harrelson/PYNOg5zyfJU_0000001 13.2 17.8 
+Woody_Harrelson/PYNOg5zyfJU_0000002 18.9 32.5 
+Woody_Harrelson/PYNOg5zyfJU_0000003 33.4 38.6 
+Woody_Harrelson/PYNOg5zyfJU_0000004 78.6 84.8 
+Woody_Harrelson/PYNOg5zyfJU_0000005 137.0 143.9 
+Woody_Harrelson/PYNOg5zyfJU_0000006 154.0 158.6 
+Woody_Harrelson/PYNOg5zyfJU_0000007 175.1 179.6 
+Woody_Harrelson/PYNOg5zyfJU_0000008 197.7 203.1 
+Woody_Harrelson/PYNOg5zyfJU_0000009 204.2 210.0 
+Woody_Harrelson/PYNOg5zyfJU_0000010 220.7 225.2 

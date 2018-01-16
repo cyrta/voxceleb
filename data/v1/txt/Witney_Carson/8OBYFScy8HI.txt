@@ -1,0 +1,11 @@
+POI: 			Witney_Carson 
+Youtube ID: 	8OBYFScy8HI 
+Video length: 	163.8 sec 
+Set (V): 		dev 
+ 
+Witney_Carson/8OBYFScy8HI_0000001 43.4 47.4 
+Witney_Carson/8OBYFScy8HI_0000002 49.2 53.5 
+Witney_Carson/8OBYFScy8HI_0000003 64.2 70.1 
+Witney_Carson/8OBYFScy8HI_0000004 93.9 97.9 
+Witney_Carson/8OBYFScy8HI_0000005 107.5 116.9 
+Witney_Carson/8OBYFScy8HI_0000006 117.9 122.4 

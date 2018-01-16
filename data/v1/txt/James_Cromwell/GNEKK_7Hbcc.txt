@@ -1,0 +1,13 @@
+POI: 			James_Cromwell 
+Youtube ID: 	GNEKK_7Hbcc 
+Video length: 	155.5 sec 
+Set (V): 		dev 
+ 
+James_Cromwell/GNEKK_7Hbcc_0000001 08.9 15.3 
+James_Cromwell/GNEKK_7Hbcc_0000002 16.4 20.4 
+James_Cromwell/GNEKK_7Hbcc_0000003 29.8 36.1 
+James_Cromwell/GNEKK_7Hbcc_0000004 47.5 52.2 
+James_Cromwell/GNEKK_7Hbcc_0000005 101.0 106.4 
+James_Cromwell/GNEKK_7Hbcc_0000006 120.3 125.0 
+James_Cromwell/GNEKK_7Hbcc_0000007 125.4 133.2 
+James_Cromwell/GNEKK_7Hbcc_0000008 134.3 142.1 

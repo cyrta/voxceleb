@@ -1,0 +1,15 @@
+POI: 			Patton_Oswalt 
+Youtube ID: 	eGHIRbyO75M 
+Video length: 	245.1 sec 
+Set (V): 		dev 
+ 
+Patton_Oswalt/eGHIRbyO75M_0000001 37.6 54.6 
+Patton_Oswalt/eGHIRbyO75M_0000002 63.3 71.4 
+Patton_Oswalt/eGHIRbyO75M_0000003 76.8 83.1 
+Patton_Oswalt/eGHIRbyO75M_0000004 91.4 109.9 
+Patton_Oswalt/eGHIRbyO75M_0000005 99.6 115.3 
+Patton_Oswalt/eGHIRbyO75M_0000006 129.8 149.5 
+Patton_Oswalt/eGHIRbyO75M_0000007 155.7 164.9 
+Patton_Oswalt/eGHIRbyO75M_0000008 185.7 194.3 
+Patton_Oswalt/eGHIRbyO75M_0000009 202.6 211.4 
+Patton_Oswalt/eGHIRbyO75M_0000010 217.8 226.0 

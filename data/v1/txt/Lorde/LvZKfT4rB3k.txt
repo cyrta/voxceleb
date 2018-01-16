@@ -1,0 +1,11 @@
+POI: 			Lorde 
+Youtube ID: 	LvZKfT4rB3k 
+Video length: 	270.3 sec 
+Set (V): 		dev 
+ 
+Lorde/LvZKfT4rB3k_0000001 21.9 29.6 
+Lorde/LvZKfT4rB3k_0000002 35.4 42.2 
+Lorde/LvZKfT4rB3k_0000003 55.0 59.4 
+Lorde/LvZKfT4rB3k_0000004 65.5 74.0 
+Lorde/LvZKfT4rB3k_0000005 179.3 185.5 
+Lorde/LvZKfT4rB3k_0000006 211.8 216.0 

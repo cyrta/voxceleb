@@ -1,0 +1,9 @@
+POI: 			Janeane_Garofalo 
+Youtube ID: 	97JwrJFd5og 
+Video length: 	175.7 sec 
+Set (V): 		dev 
+ 
+Janeane_Garofalo/97JwrJFd5og_0000001 13.3 18.4 
+Janeane_Garofalo/97JwrJFd5og_0000002 27.6 31.6 
+Janeane_Garofalo/97JwrJFd5og_0000003 121.8 129.9 
+Janeane_Garofalo/97JwrJFd5og_0000004 150.2 154.4 

@@ -1,0 +1,9 @@
+POI: 			Linda_Lavin 
+Youtube ID: 	rVoiljlG8iE 
+Video length: 	193.8 sec 
+Set (V): 		dev 
+ 
+Linda_Lavin/rVoiljlG8iE_0000001 37.6 43.6 
+Linda_Lavin/rVoiljlG8iE_0000002 77.3 84.6 
+Linda_Lavin/rVoiljlG8iE_0000003 129.5 135.4 
+Linda_Lavin/rVoiljlG8iE_0000004 143.8 151.9 

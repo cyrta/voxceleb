@@ -1,0 +1,14 @@
+POI: 			Brenda_Blethyn 
+Youtube ID: 	OKD0fCVC8PU 
+Video length: 	370.3 sec 
+Set (V): 		dev 
+ 
+Brenda_Blethyn/OKD0fCVC8PU_0000001 24.6 30.4 
+Brenda_Blethyn/OKD0fCVC8PU_0000002 35.0 39.8 
+Brenda_Blethyn/OKD0fCVC8PU_0000003 55.0 66.6 
+Brenda_Blethyn/OKD0fCVC8PU_0000004 85.7 98.0 
+Brenda_Blethyn/OKD0fCVC8PU_0000005 129.5 134.4 
+Brenda_Blethyn/OKD0fCVC8PU_0000006 134.6 139.2 
+Brenda_Blethyn/OKD0fCVC8PU_0000007 273.2 277.6 
+Brenda_Blethyn/OKD0fCVC8PU_0000008 329.8 335.9 
+Brenda_Blethyn/OKD0fCVC8PU_0000009 336.0 342.6 

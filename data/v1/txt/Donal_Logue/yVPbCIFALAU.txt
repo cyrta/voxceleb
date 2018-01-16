@@ -1,0 +1,7 @@
+POI: 			Donal_Logue 
+Youtube ID: 	yVPbCIFALAU 
+Video length: 	181.2 sec 
+Set (V): 		dev 
+ 
+Donal_Logue/yVPbCIFALAU_0000001 51.9 65.7 
+Donal_Logue/yVPbCIFALAU_0000002 161.9 171.4 

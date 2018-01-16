@@ -1,0 +1,28 @@
+POI: 			Ernest_Borgnine 
+Youtube ID: 	8Sz2-IYJ2GA 
+Video length: 	481.7 sec 
+Set (V): 		test 
+ 
+Ernest_Borgnine/8Sz2-IYJ2GA_0000001 01.6 15.8 
+Ernest_Borgnine/8Sz2-IYJ2GA_0000002 47.8 56.8 
+Ernest_Borgnine/8Sz2-IYJ2GA_0000003 70.0 75.7 
+Ernest_Borgnine/8Sz2-IYJ2GA_0000004 77.2 83.3 
+Ernest_Borgnine/8Sz2-IYJ2GA_0000005 92.0 98.5 
+Ernest_Borgnine/8Sz2-IYJ2GA_0000006 102.2 117.4 
+Ernest_Borgnine/8Sz2-IYJ2GA_0000007 123.2 127.2 
+Ernest_Borgnine/8Sz2-IYJ2GA_0000008 141.2 150.4 
+Ernest_Borgnine/8Sz2-IYJ2GA_0000009 153.8 159.8 
+Ernest_Borgnine/8Sz2-IYJ2GA_0000010 162.1 166.8 
+Ernest_Borgnine/8Sz2-IYJ2GA_0000011 173.7 180.7 
+Ernest_Borgnine/8Sz2-IYJ2GA_0000012 182.1 190.0 
+Ernest_Borgnine/8Sz2-IYJ2GA_0000013 199.4 204.0 
+Ernest_Borgnine/8Sz2-IYJ2GA_0000014 204.7 217.2 
+Ernest_Borgnine/8Sz2-IYJ2GA_0000015 248.7 256.3 
+Ernest_Borgnine/8Sz2-IYJ2GA_0000016 262.5 270.6 
+Ernest_Borgnine/8Sz2-IYJ2GA_0000017 276.9 282.1 
+Ernest_Borgnine/8Sz2-IYJ2GA_0000018 285.0 296.3 
+Ernest_Borgnine/8Sz2-IYJ2GA_0000019 321.1 325.4 
+Ernest_Borgnine/8Sz2-IYJ2GA_0000020 352.2 369.0 
+Ernest_Borgnine/8Sz2-IYJ2GA_0000021 382.0 394.4 
+Ernest_Borgnine/8Sz2-IYJ2GA_0000022 400.6 406.1 
+Ernest_Borgnine/8Sz2-IYJ2GA_0000023 450.0 454.4 

@@ -1,0 +1,7 @@
+POI: 			Malin_Akerman 
+Youtube ID: 	7bU_mCKhl6A 
+Video length: 	240.1 sec 
+Set (V): 		dev 
+ 
+Malin_Akerman/7bU_mCKhl6A_0000001 141.4 147.6 
+Malin_Akerman/7bU_mCKhl6A_0000002 174.4 180.1 

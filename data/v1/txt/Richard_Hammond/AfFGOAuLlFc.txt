@@ -1,0 +1,8 @@
+POI: 			Richard_Hammond 
+Youtube ID: 	AfFGOAuLlFc 
+Video length: 	308.6 sec 
+Set (V): 		dev 
+ 
+Richard_Hammond/AfFGOAuLlFc_0000001 75.0 80.4 
+Richard_Hammond/AfFGOAuLlFc_0000002 85.8 93.7 
+Richard_Hammond/AfFGOAuLlFc_0000003 95.9 100.5 

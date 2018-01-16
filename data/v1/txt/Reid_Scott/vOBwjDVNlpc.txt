@@ -1,0 +1,7 @@
+POI: 			Reid_Scott 
+Youtube ID: 	vOBwjDVNlpc 
+Video length: 	66.9 sec 
+Set (V): 		dev 
+ 
+Reid_Scott/vOBwjDVNlpc_0000001 16.8 25.6 
+Reid_Scott/vOBwjDVNlpc_0000002 31.0 47.3 

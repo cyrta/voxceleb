@@ -1,0 +1,10 @@
+POI: 			Gilles_Marini 
+Youtube ID: 	2qTqvrCPe0I 
+Video length: 	247.4 sec 
+Set (V): 		dev 
+ 
+Gilles_Marini/2qTqvrCPe0I_0000001 06.4 11.4 
+Gilles_Marini/2qTqvrCPe0I_0000002 78.8 84.6 
+Gilles_Marini/2qTqvrCPe0I_0000003 196.7 203.4 
+Gilles_Marini/2qTqvrCPe0I_0000004 211.4 219.4 
+Gilles_Marini/2qTqvrCPe0I_0000005 224.3 229.4 

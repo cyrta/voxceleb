@@ -1,0 +1,9 @@
+POI: 			Jesse_Eisenberg 
+Youtube ID: 	IWIHRxhtg2I 
+Video length: 	333.1 sec 
+Set (V): 		dev 
+ 
+Jesse_Eisenberg/IWIHRxhtg2I_0000001 99.8 106.7 
+Jesse_Eisenberg/IWIHRxhtg2I_0000002 212.2 224.8 
+Jesse_Eisenberg/IWIHRxhtg2I_0000003 247.0 252.9 
+Jesse_Eisenberg/IWIHRxhtg2I_0000004 259.1 263.8 

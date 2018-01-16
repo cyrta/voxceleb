@@ -1,0 +1,7 @@
+POI: 			Samuel_L._Jackson 
+Youtube ID: 	xK43cAUuyyk 
+Video length: 	218.0 sec 
+Set (V): 		dev 
+ 
+Samuel_L._Jackson/xK43cAUuyyk_0000001 31.5 40.2 
+Samuel_L._Jackson/xK43cAUuyyk_0000002 102.9 107.5 

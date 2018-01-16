@@ -1,0 +1,8 @@
+POI: 			Nelly_Furtado 
+Youtube ID: 	2pjtLxYVUtY 
+Video length: 	83.3 sec 
+Set (V): 		dev 
+ 
+Nelly_Furtado/2pjtLxYVUtY_0000001 00.7 08.8 
+Nelly_Furtado/2pjtLxYVUtY_0000002 09.1 15.7 
+Nelly_Furtado/2pjtLxYVUtY_0000003 44.4 54.1 

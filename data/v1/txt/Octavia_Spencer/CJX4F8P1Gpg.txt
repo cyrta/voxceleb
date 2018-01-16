@@ -1,0 +1,14 @@
+POI: 			Octavia_Spencer 
+Youtube ID: 	CJX4F8P1Gpg 
+Video length: 	212.9 sec 
+Set (V): 		dev 
+ 
+Octavia_Spencer/CJX4F8P1Gpg_0000001 10.4 27.7 
+Octavia_Spencer/CJX4F8P1Gpg_0000002 40.3 46.1 
+Octavia_Spencer/CJX4F8P1Gpg_0000003 51.0 68.2 
+Octavia_Spencer/CJX4F8P1Gpg_0000004 70.4 85.2 
+Octavia_Spencer/CJX4F8P1Gpg_0000005 102.7 107.7 
+Octavia_Spencer/CJX4F8P1Gpg_0000006 113.4 128.9 
+Octavia_Spencer/CJX4F8P1Gpg_0000007 141.2 150.5 
+Octavia_Spencer/CJX4F8P1Gpg_0000008 179.1 184.4 
+Octavia_Spencer/CJX4F8P1Gpg_0000009 185.5 192.2 

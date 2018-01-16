@@ -1,0 +1,8 @@
+POI: 			Tom_Ford 
+Youtube ID: 	2sc_O50-6nA 
+Video length: 	263.0 sec 
+Set (V): 		dev 
+ 
+Tom_Ford/2sc_O50-6nA_0000001 126.6 137.5 
+Tom_Ford/2sc_O50-6nA_0000002 210.5 215.4 
+Tom_Ford/2sc_O50-6nA_0000003 246.4 251.2 

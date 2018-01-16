@@ -1,0 +1,9 @@
+POI: 			Odette_Annable 
+Youtube ID: 	3ZNMYJpUs3M 
+Video length: 	113.9 sec 
+Set (V): 		dev 
+ 
+Odette_Annable/3ZNMYJpUs3M_0000001 07.0 20.1 
+Odette_Annable/3ZNMYJpUs3M_0000002 25.7 34.1 
+Odette_Annable/3ZNMYJpUs3M_0000003 57.2 67.7 
+Odette_Annable/3ZNMYJpUs3M_0000004 81.5 95.8 

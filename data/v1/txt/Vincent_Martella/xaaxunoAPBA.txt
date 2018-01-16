@@ -1,0 +1,8 @@
+POI: 			Vincent_Martella 
+Youtube ID: 	xaaxunoAPBA 
+Video length: 	60.5 sec 
+Set (V): 		dev 
+ 
+Vincent_Martella/xaaxunoAPBA_0000001 06.5 11.1 
+Vincent_Martella/xaaxunoAPBA_0000002 27.4 32.6 
+Vincent_Martella/xaaxunoAPBA_0000003 35.3 41.6 

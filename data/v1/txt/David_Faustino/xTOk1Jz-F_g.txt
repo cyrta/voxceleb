@@ -1,0 +1,23 @@
+POI: 			David_Faustino 
+Youtube ID: 	xTOk1Jz-F_g 
+Video length: 	1692.8 sec 
+Set (V): 		dev 
+ 
+David_Faustino/xTOk1Jz-F_g_0000001 764.1 771.2 
+David_Faustino/xTOk1Jz-F_g_0000002 801.5 807.7 
+David_Faustino/xTOk1Jz-F_g_0000003 848.1 859.5 
+David_Faustino/xTOk1Jz-F_g_0000004 978.3 986.1 
+David_Faustino/xTOk1Jz-F_g_0000005 1006.2 1010.6 
+David_Faustino/xTOk1Jz-F_g_0000006 1027.6 1036.0 
+David_Faustino/xTOk1Jz-F_g_0000007 1036.3 1045.2 
+David_Faustino/xTOk1Jz-F_g_0000008 1048.6 1054.9 
+David_Faustino/xTOk1Jz-F_g_0000009 1094.2 1108.6 
+David_Faustino/xTOk1Jz-F_g_0000010 1142.4 1147.7 
+David_Faustino/xTOk1Jz-F_g_0000011 1158.0 1164.6 
+David_Faustino/xTOk1Jz-F_g_0000012 1175.0 1179.4 
+David_Faustino/xTOk1Jz-F_g_0000013 1188.2 1202.7 
+David_Faustino/xTOk1Jz-F_g_0000014 1290.0 1301.0 
+David_Faustino/xTOk1Jz-F_g_0000015 1311.8 1320.8 
+David_Faustino/xTOk1Jz-F_g_0000016 1349.5 1363.2 
+David_Faustino/xTOk1Jz-F_g_0000017 1391.8 1397.2 
+David_Faustino/xTOk1Jz-F_g_0000018 1445.3 1453.6 

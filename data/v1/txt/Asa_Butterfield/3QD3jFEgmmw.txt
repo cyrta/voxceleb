@@ -1,0 +1,15 @@
+POI: 			Asa_Butterfield 
+Youtube ID: 	3QD3jFEgmmw 
+Video length: 	378.1 sec 
+Set (V): 		dev 
+ 
+Asa_Butterfield/3QD3jFEgmmw_0000001 39.4 49.9 
+Asa_Butterfield/3QD3jFEgmmw_0000002 72.3 83.8 
+Asa_Butterfield/3QD3jFEgmmw_0000003 99.2 103.9 
+Asa_Butterfield/3QD3jFEgmmw_0000004 109.3 117.0 
+Asa_Butterfield/3QD3jFEgmmw_0000005 118.4 129.8 
+Asa_Butterfield/3QD3jFEgmmw_0000006 155.4 162.7 
+Asa_Butterfield/3QD3jFEgmmw_0000007 169.9 184.8 
+Asa_Butterfield/3QD3jFEgmmw_0000008 234.4 238.8 
+Asa_Butterfield/3QD3jFEgmmw_0000009 248.6 257.4 
+Asa_Butterfield/3QD3jFEgmmw_0000010 330.5 334.5 

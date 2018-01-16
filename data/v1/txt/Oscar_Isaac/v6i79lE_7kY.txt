@@ -1,0 +1,14 @@
+POI: 			Oscar_Isaac 
+Youtube ID: 	v6i79lE_7kY 
+Video length: 	143.2 sec 
+Set (V): 		dev 
+ 
+Oscar_Isaac/v6i79lE_7kY_0000001 16.3 21.9 
+Oscar_Isaac/v6i79lE_7kY_0000002 26.6 32.5 
+Oscar_Isaac/v6i79lE_7kY_0000003 33.6 41.0 
+Oscar_Isaac/v6i79lE_7kY_0000004 42.1 46.6 
+Oscar_Isaac/v6i79lE_7kY_0000005 62.4 71.3 
+Oscar_Isaac/v6i79lE_7kY_0000006 84.0 91.3 
+Oscar_Isaac/v6i79lE_7kY_0000007 96.7 103.7 
+Oscar_Isaac/v6i79lE_7kY_0000008 118.0 124.7 
+Oscar_Isaac/v6i79lE_7kY_0000009 126.8 130.8 

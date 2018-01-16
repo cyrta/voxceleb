@@ -1,0 +1,8 @@
+POI: 			Loan_Chabanol 
+Youtube ID: 	soNQ65Yl7GI 
+Video length: 	289.0 sec 
+Set (V): 		dev 
+ 
+Loan_Chabanol/soNQ65Yl7GI_0000001 136.4 140.4 
+Loan_Chabanol/soNQ65Yl7GI_0000002 146.6 151.2 
+Loan_Chabanol/soNQ65Yl7GI_0000003 212.7 217.8 

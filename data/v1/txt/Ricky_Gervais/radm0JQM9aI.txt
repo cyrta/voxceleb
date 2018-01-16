@@ -1,0 +1,20 @@
+POI: 			Ricky_Gervais 
+Youtube ID: 	radm0JQM9aI 
+Video length: 	326.0 sec 
+Set (V): 		dev 
+ 
+Ricky_Gervais/radm0JQM9aI_0000001 43.0 61.8 
+Ricky_Gervais/radm0JQM9aI_0000002 83.2 95.9 
+Ricky_Gervais/radm0JQM9aI_0000003 96.0 102.0 
+Ricky_Gervais/radm0JQM9aI_0000004 104.6 109.4 
+Ricky_Gervais/radm0JQM9aI_0000005 110.4 116.2 
+Ricky_Gervais/radm0JQM9aI_0000006 138.1 142.3 
+Ricky_Gervais/radm0JQM9aI_0000007 143.9 148.6 
+Ricky_Gervais/radm0JQM9aI_0000008 150.8 160.7 
+Ricky_Gervais/radm0JQM9aI_0000009 190.2 200.6 
+Ricky_Gervais/radm0JQM9aI_0000010 201.7 217.5 
+Ricky_Gervais/radm0JQM9aI_0000011 220.8 239.8 
+Ricky_Gervais/radm0JQM9aI_0000012 241.0 248.2 
+Ricky_Gervais/radm0JQM9aI_0000013 262.4 268.6 
+Ricky_Gervais/radm0JQM9aI_0000014 291.7 301.0 
+Ricky_Gervais/radm0JQM9aI_0000015 309.3 313.3 

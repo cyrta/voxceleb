@@ -1,0 +1,7 @@
+POI: 			Paul_Reubens 
+Youtube ID: 	lQT8tZ3AFgk 
+Video length: 	224.4 sec 
+Set (V): 		dev 
+ 
+Paul_Reubens/lQT8tZ3AFgk_0000001 38.6 44.5 
+Paul_Reubens/lQT8tZ3AFgk_0000002 108.8 132.4 

@@ -1,0 +1,13 @@
+POI: 			Mary_McDonnell 
+Youtube ID: 	kgbzAi47ksw 
+Video length: 	551.7 sec 
+Set (V): 		dev 
+ 
+Mary_McDonnell/kgbzAi47ksw_0000001 144.7 150.3 
+Mary_McDonnell/kgbzAi47ksw_0000002 195.0 199.0 
+Mary_McDonnell/kgbzAi47ksw_0000003 299.3 305.1 
+Mary_McDonnell/kgbzAi47ksw_0000004 419.7 425.2 
+Mary_McDonnell/kgbzAi47ksw_0000005 436.2 441.4 
+Mary_McDonnell/kgbzAi47ksw_0000006 446.6 450.8 
+Mary_McDonnell/kgbzAi47ksw_0000007 457.9 467.5 
+Mary_McDonnell/kgbzAi47ksw_0000008 508.4 512.7 

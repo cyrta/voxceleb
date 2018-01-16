@@ -1,0 +1,8 @@
+POI: 			Kenton_Duty 
+Youtube ID: 	MHGZwP1kquw 
+Video length: 	109.7 sec 
+Set (V): 		dev 
+ 
+Kenton_Duty/MHGZwP1kquw_0000001 10.8 15.8 
+Kenton_Duty/MHGZwP1kquw_0000002 19.6 31.9 
+Kenton_Duty/MHGZwP1kquw_0000003 37.5 42.1 

@@ -1,0 +1,7 @@
+POI: 			Kristen_Bell 
+Youtube ID: 	jGzJ4RK0lSI 
+Video length: 	343.4 sec 
+Set (V): 		dev 
+ 
+Kristen_Bell/jGzJ4RK0lSI_0000001 149.2 153.4 
+Kristen_Bell/jGzJ4RK0lSI_0000002 258.1 263.9 

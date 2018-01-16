@@ -1,0 +1,17 @@
+POI: 			Hope_Solo 
+Youtube ID: 	AktZd6FH5Yc 
+Video length: 	605.0 sec 
+Set (V): 		dev 
+ 
+Hope_Solo/AktZd6FH5Yc_0000001 107.3 115.0 
+Hope_Solo/AktZd6FH5Yc_0000002 118.0 124.9 
+Hope_Solo/AktZd6FH5Yc_0000003 229.1 239.1 
+Hope_Solo/AktZd6FH5Yc_0000004 242.2 246.4 
+Hope_Solo/AktZd6FH5Yc_0000005 247.4 251.5 
+Hope_Solo/AktZd6FH5Yc_0000006 279.3 283.5 
+Hope_Solo/AktZd6FH5Yc_0000007 287.9 295.3 
+Hope_Solo/AktZd6FH5Yc_0000008 326.4 339.8 
+Hope_Solo/AktZd6FH5Yc_0000009 355.4 361.0 
+Hope_Solo/AktZd6FH5Yc_0000010 362.0 366.7 
+Hope_Solo/AktZd6FH5Yc_0000011 438.1 446.9 
+Hope_Solo/AktZd6FH5Yc_0000012 468.5 476.0 

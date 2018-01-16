@@ -1,0 +1,7 @@
+POI: 			David_Schwimmer 
+Youtube ID: 	Gv4UUdGg64A 
+Video length: 	2111.0 sec 
+Set (V): 		dev 
+ 
+David_Schwimmer/Gv4UUdGg64A_0000001 1357.9 1362.8 
+David_Schwimmer/Gv4UUdGg64A_0000002 1589.1 1593.3 

@@ -1,0 +1,31 @@
+POI: 			Jacqueline_Fernandez 
+Youtube ID: 	0jA-z5OgFgk 
+Video length: 	1340.1 sec 
+Set (V): 		dev 
+ 
+Jacqueline_Fernandez/0jA-z5OgFgk_0000001 57.0 61.0 
+Jacqueline_Fernandez/0jA-z5OgFgk_0000002 184.4 190.6 
+Jacqueline_Fernandez/0jA-z5OgFgk_0000003 249.9 256.2 
+Jacqueline_Fernandez/0jA-z5OgFgk_0000004 280.8 285.2 
+Jacqueline_Fernandez/0jA-z5OgFgk_0000005 349.3 353.4 
+Jacqueline_Fernandez/0jA-z5OgFgk_0000006 441.5 446.4 
+Jacqueline_Fernandez/0jA-z5OgFgk_0000007 538.8 542.9 
+Jacqueline_Fernandez/0jA-z5OgFgk_0000008 544.3 548.4 
+Jacqueline_Fernandez/0jA-z5OgFgk_0000009 556.0 560.7 
+Jacqueline_Fernandez/0jA-z5OgFgk_0000010 608.8 614.9 
+Jacqueline_Fernandez/0jA-z5OgFgk_0000011 626.1 631.0 
+Jacqueline_Fernandez/0jA-z5OgFgk_0000012 697.9 704.6 
+Jacqueline_Fernandez/0jA-z5OgFgk_0000013 719.9 724.2 
+Jacqueline_Fernandez/0jA-z5OgFgk_0000014 757.2 761.3 
+Jacqueline_Fernandez/0jA-z5OgFgk_0000015 810.0 817.6 
+Jacqueline_Fernandez/0jA-z5OgFgk_0000016 850.5 854.8 
+Jacqueline_Fernandez/0jA-z5OgFgk_0000017 860.8 869.5 
+Jacqueline_Fernandez/0jA-z5OgFgk_0000018 879.6 884.3 
+Jacqueline_Fernandez/0jA-z5OgFgk_0000019 947.7 953.5 
+Jacqueline_Fernandez/0jA-z5OgFgk_0000020 1019.7 1028.2 
+Jacqueline_Fernandez/0jA-z5OgFgk_0000021 1043.0 1051.5 
+Jacqueline_Fernandez/0jA-z5OgFgk_0000022 1059.1 1065.9 
+Jacqueline_Fernandez/0jA-z5OgFgk_0000023 1071.1 1079.1 
+Jacqueline_Fernandez/0jA-z5OgFgk_0000024 1160.6 1167.2 
+Jacqueline_Fernandez/0jA-z5OgFgk_0000025 1205.3 1210.6 
+Jacqueline_Fernandez/0jA-z5OgFgk_0000026 1218.0 1222.0 

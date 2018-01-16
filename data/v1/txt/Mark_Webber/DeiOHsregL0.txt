@@ -1,0 +1,8 @@
+POI: 			Mark_Webber 
+Youtube ID: 	DeiOHsregL0 
+Video length: 	131.8 sec 
+Set (V): 		dev 
+ 
+Mark_Webber/DeiOHsregL0_0000001 29.7 34.2 
+Mark_Webber/DeiOHsregL0_0000002 55.7 60.9 
+Mark_Webber/DeiOHsregL0_0000003 65.0 72.5 

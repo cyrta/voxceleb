@@ -1,0 +1,11 @@
+POI: 			Pamela_Adlon 
+Youtube ID: 	8DnljNKV47c 
+Video length: 	132.2 sec 
+Set (V): 		dev 
+ 
+Pamela_Adlon/8DnljNKV47c_0000001 07.8 15.4 
+Pamela_Adlon/8DnljNKV47c_0000002 21.6 27.2 
+Pamela_Adlon/8DnljNKV47c_0000003 29.2 42.9 
+Pamela_Adlon/8DnljNKV47c_0000004 51.8 61.6 
+Pamela_Adlon/8DnljNKV47c_0000005 62.8 68.7 
+Pamela_Adlon/8DnljNKV47c_0000006 92.5 106.3 

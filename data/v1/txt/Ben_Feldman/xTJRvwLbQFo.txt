@@ -1,0 +1,10 @@
+POI: 			Ben_Feldman 
+Youtube ID: 	xTJRvwLbQFo 
+Video length: 	222.4 sec 
+Set (V): 		dev 
+ 
+Ben_Feldman/xTJRvwLbQFo_0000001 31.6 47.6 
+Ben_Feldman/xTJRvwLbQFo_0000002 60.1 85.2 
+Ben_Feldman/xTJRvwLbQFo_0000003 178.6 184.6 
+Ben_Feldman/xTJRvwLbQFo_0000004 194.2 198.7 
+Ben_Feldman/xTJRvwLbQFo_0000005 203.9 207.9 

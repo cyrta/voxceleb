@@ -1,0 +1,28 @@
+POI: 			Peter_Jackson 
+Youtube ID: 	8Gar5J0xGy4 
+Video length: 	427.8 sec 
+Set (V): 		dev 
+ 
+Peter_Jackson/8Gar5J0xGy4_0000001 08.0 18.3 
+Peter_Jackson/8Gar5J0xGy4_0000002 23.4 30.5 
+Peter_Jackson/8Gar5J0xGy4_0000003 30.8 42.0 
+Peter_Jackson/8Gar5J0xGy4_0000004 42.3 47.4 
+Peter_Jackson/8Gar5J0xGy4_0000005 47.8 85.6 
+Peter_Jackson/8Gar5J0xGy4_0000006 86.2 102.5 
+Peter_Jackson/8Gar5J0xGy4_0000007 103.2 123.5 
+Peter_Jackson/8Gar5J0xGy4_0000008 124.4 136.2 
+Peter_Jackson/8Gar5J0xGy4_0000009 136.7 153.0 
+Peter_Jackson/8Gar5J0xGy4_0000010 153.4 166.4 
+Peter_Jackson/8Gar5J0xGy4_0000011 167.6 205.2 
+Peter_Jackson/8Gar5J0xGy4_0000012 205.8 216.6 
+Peter_Jackson/8Gar5J0xGy4_0000013 220.3 225.8 
+Peter_Jackson/8Gar5J0xGy4_0000014 226.6 237.5 
+Peter_Jackson/8Gar5J0xGy4_0000015 241.8 249.7 
+Peter_Jackson/8Gar5J0xGy4_0000016 250.5 302.9 
+Peter_Jackson/8Gar5J0xGy4_0000017 303.6 329.9 
+Peter_Jackson/8Gar5J0xGy4_0000018 330.1 335.9 
+Peter_Jackson/8Gar5J0xGy4_0000019 340.9 356.3 
+Peter_Jackson/8Gar5J0xGy4_0000020 356.5 365.2 
+Peter_Jackson/8Gar5J0xGy4_0000021 369.2 375.1 
+Peter_Jackson/8Gar5J0xGy4_0000022 375.8 396.3 
+Peter_Jackson/8Gar5J0xGy4_0000023 396.7 425.1 

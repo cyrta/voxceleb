@@ -1,0 +1,8 @@
+POI: 			Joanna_Krupa 
+Youtube ID: 	UBXeOntl3fQ 
+Video length: 	74.6 sec 
+Set (V): 		dev 
+ 
+Joanna_Krupa/UBXeOntl3fQ_0000001 00.7 11.7 
+Joanna_Krupa/UBXeOntl3fQ_0000002 11.8 20.6 
+Joanna_Krupa/UBXeOntl3fQ_0000003 65.3 72.2 

@@ -1,0 +1,8 @@
+POI: 			Adam_Driver 
+Youtube ID: 	q6SMDFi6fuY 
+Video length: 	132.0 sec 
+Set (V): 		dev 
+ 
+Adam_Driver/q6SMDFi6fuY_0000001 68.1 75.6 
+Adam_Driver/q6SMDFi6fuY_0000002 76.2 80.5 
+Adam_Driver/q6SMDFi6fuY_0000003 107.8 111.8 

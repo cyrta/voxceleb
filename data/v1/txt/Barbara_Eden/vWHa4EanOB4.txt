@@ -1,0 +1,21 @@
+POI: 			Barbara_Eden 
+Youtube ID: 	vWHa4EanOB4 
+Video length: 	731.1 sec 
+Set (V): 		dev 
+ 
+Barbara_Eden/vWHa4EanOB4_0000001 31.6 40.0 
+Barbara_Eden/vWHa4EanOB4_0000002 41.2 45.6 
+Barbara_Eden/vWHa4EanOB4_0000003 53.8 70.5 
+Barbara_Eden/vWHa4EanOB4_0000004 109.4 117.8 
+Barbara_Eden/vWHa4EanOB4_0000005 129.6 136.6 
+Barbara_Eden/vWHa4EanOB4_0000006 140.8 145.8 
+Barbara_Eden/vWHa4EanOB4_0000007 194.2 201.1 
+Barbara_Eden/vWHa4EanOB4_0000008 201.4 205.7 
+Barbara_Eden/vWHa4EanOB4_0000009 300.6 308.0 
+Barbara_Eden/vWHa4EanOB4_0000010 339.3 344.8 
+Barbara_Eden/vWHa4EanOB4_0000011 391.3 395.5 
+Barbara_Eden/vWHa4EanOB4_0000012 395.7 400.6 
+Barbara_Eden/vWHa4EanOB4_0000013 401.9 407.5 
+Barbara_Eden/vWHa4EanOB4_0000014 445.8 452.3 
+Barbara_Eden/vWHa4EanOB4_0000015 457.0 461.2 
+Barbara_Eden/vWHa4EanOB4_0000016 524.9 529.1 

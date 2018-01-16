@@ -1,0 +1,7 @@
+POI: 			Matt_Dallas 
+Youtube ID: 	JyAuUFyNZco 
+Video length: 	229.5 sec 
+Set (V): 		dev 
+ 
+Matt_Dallas/JyAuUFyNZco_0000001 88.6 96.8 
+Matt_Dallas/JyAuUFyNZco_0000002 214.4 218.6 

@@ -1,0 +1,14 @@
+POI: 			Miley_Cyrus 
+Youtube ID: 	qFaL2vXV0h8 
+Video length: 	906.8 sec 
+Set (V): 		dev 
+ 
+Miley_Cyrus/qFaL2vXV0h8_0000001 64.6 69.1 
+Miley_Cyrus/qFaL2vXV0h8_0000002 115.5 122.7 
+Miley_Cyrus/qFaL2vXV0h8_0000003 171.6 179.8 
+Miley_Cyrus/qFaL2vXV0h8_0000004 187.6 192.6 
+Miley_Cyrus/qFaL2vXV0h8_0000005 197.3 209.2 
+Miley_Cyrus/qFaL2vXV0h8_0000006 289.0 296.3 
+Miley_Cyrus/qFaL2vXV0h8_0000007 337.4 341.5 
+Miley_Cyrus/qFaL2vXV0h8_0000008 432.1 437.5 
+Miley_Cyrus/qFaL2vXV0h8_0000009 509.3 517.3 

@@ -1,0 +1,10 @@
+POI: 			David_Jason 
+Youtube ID: 	ENQ6Rn_v4ac 
+Video length: 	162.9 sec 
+Set (V): 		dev 
+ 
+David_Jason/ENQ6Rn_v4ac_0000001 11.5 23.5 
+David_Jason/ENQ6Rn_v4ac_0000002 42.3 46.6 
+David_Jason/ENQ6Rn_v4ac_0000003 46.9 55.7 
+David_Jason/ENQ6Rn_v4ac_0000004 66.8 77.5 
+David_Jason/ENQ6Rn_v4ac_0000005 115.9 120.2 

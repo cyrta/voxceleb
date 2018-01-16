@@ -1,0 +1,10 @@
+POI: 			Roshon_Fegan 
+Youtube ID: 	040YfFI-VlA 
+Video length: 	239.4 sec 
+Set (V): 		dev 
+ 
+Roshon_Fegan/040YfFI-VlA_0000001 44.7 48.8 
+Roshon_Fegan/040YfFI-VlA_0000002 51.2 58.0 
+Roshon_Fegan/040YfFI-VlA_0000003 99.3 105.2 
+Roshon_Fegan/040YfFI-VlA_0000004 122.5 127.2 
+Roshon_Fegan/040YfFI-VlA_0000005 223.7 229.1 

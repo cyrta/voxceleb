@@ -1,0 +1,10 @@
+POI: 			Mathieu_Amalric 
+Youtube ID: 	Bf8cxGcd9-w 
+Video length: 	502.3 sec 
+Set (V): 		dev 
+ 
+Mathieu_Amalric/Bf8cxGcd9-w_0000001 63.0 68.0 
+Mathieu_Amalric/Bf8cxGcd9-w_0000002 68.0 72.2 
+Mathieu_Amalric/Bf8cxGcd9-w_0000003 117.7 121.7 
+Mathieu_Amalric/Bf8cxGcd9-w_0000004 214.9 220.2 
+Mathieu_Amalric/Bf8cxGcd9-w_0000005 348.4 362.4 

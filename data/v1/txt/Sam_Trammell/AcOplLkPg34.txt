@@ -1,0 +1,7 @@
+POI: 			Sam_Trammell 
+Youtube ID: 	AcOplLkPg34 
+Video length: 	195.6 sec 
+Set (V): 		dev 
+ 
+Sam_Trammell/AcOplLkPg34_0000001 96.6 100.9 
+Sam_Trammell/AcOplLkPg34_0000002 150.4 156.2 

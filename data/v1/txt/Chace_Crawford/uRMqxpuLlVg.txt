@@ -1,0 +1,26 @@
+POI: 			Chace_Crawford 
+Youtube ID: 	uRMqxpuLlVg 
+Video length: 	673.1 sec 
+Set (V): 		dev 
+ 
+Chace_Crawford/uRMqxpuLlVg_0000001 31.4 37.7 
+Chace_Crawford/uRMqxpuLlVg_0000002 56.4 63.6 
+Chace_Crawford/uRMqxpuLlVg_0000003 89.5 100.8 
+Chace_Crawford/uRMqxpuLlVg_0000004 101.4 106.3 
+Chace_Crawford/uRMqxpuLlVg_0000005 119.1 130.8 
+Chace_Crawford/uRMqxpuLlVg_0000006 153.0 161.2 
+Chace_Crawford/uRMqxpuLlVg_0000007 190.8 204.6 
+Chace_Crawford/uRMqxpuLlVg_0000008 227.4 240.9 
+Chace_Crawford/uRMqxpuLlVg_0000009 249.4 258.6 
+Chace_Crawford/uRMqxpuLlVg_0000010 274.8 289.0 
+Chace_Crawford/uRMqxpuLlVg_0000011 289.5 294.8 
+Chace_Crawford/uRMqxpuLlVg_0000012 302.5 310.8 
+Chace_Crawford/uRMqxpuLlVg_0000013 319.7 324.0 
+Chace_Crawford/uRMqxpuLlVg_0000014 374.2 385.2 
+Chace_Crawford/uRMqxpuLlVg_0000015 402.6 408.4 
+Chace_Crawford/uRMqxpuLlVg_0000016 417.2 423.7 
+Chace_Crawford/uRMqxpuLlVg_0000017 426.0 430.6 
+Chace_Crawford/uRMqxpuLlVg_0000018 459.1 471.5 
+Chace_Crawford/uRMqxpuLlVg_0000019 471.8 492.6 
+Chace_Crawford/uRMqxpuLlVg_0000020 516.4 523.3 
+Chace_Crawford/uRMqxpuLlVg_0000021 589.8 598.7 

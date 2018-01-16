@@ -1,0 +1,10 @@
+POI: 			Steve_Carell 
+Youtube ID: 	9nBBgD0q6rA 
+Video length: 	357.5 sec 
+Set (V): 		dev 
+ 
+Steve_Carell/9nBBgD0q6rA_0000001 59.6 66.2 
+Steve_Carell/9nBBgD0q6rA_0000002 102.0 107.8 
+Steve_Carell/9nBBgD0q6rA_0000003 217.0 226.2 
+Steve_Carell/9nBBgD0q6rA_0000004 270.2 274.2 
+Steve_Carell/9nBBgD0q6rA_0000005 278.6 282.6 

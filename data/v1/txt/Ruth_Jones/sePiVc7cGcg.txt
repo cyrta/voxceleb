@@ -1,0 +1,13 @@
+POI: 			Ruth_Jones 
+Youtube ID: 	sePiVc7cGcg 
+Video length: 	208.0 sec 
+Set (V): 		dev 
+ 
+Ruth_Jones/sePiVc7cGcg_0000001 09.3 13.8 
+Ruth_Jones/sePiVc7cGcg_0000002 48.6 55.1 
+Ruth_Jones/sePiVc7cGcg_0000003 67.6 71.8 
+Ruth_Jones/sePiVc7cGcg_0000004 99.3 103.8 
+Ruth_Jones/sePiVc7cGcg_0000005 116.1 120.9 
+Ruth_Jones/sePiVc7cGcg_0000006 123.1 127.2 
+Ruth_Jones/sePiVc7cGcg_0000007 168.4 180.3 
+Ruth_Jones/sePiVc7cGcg_0000008 194.6 202.3 

@@ -1,0 +1,7 @@
+POI: 			Lolo_Jones 
+Youtube ID: 	KsywkoNj8xI 
+Video length: 	173.7 sec 
+Set (V): 		dev 
+ 
+Lolo_Jones/KsywkoNj8xI_0000001 117.6 122.8 
+Lolo_Jones/KsywkoNj8xI_0000002 129.5 136.6 

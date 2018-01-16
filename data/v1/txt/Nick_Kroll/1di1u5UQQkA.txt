@@ -1,0 +1,8 @@
+POI: 			Nick_Kroll 
+Youtube ID: 	1di1u5UQQkA 
+Video length: 	173.6 sec 
+Set (V): 		dev 
+ 
+Nick_Kroll/1di1u5UQQkA_0000001 42.3 48.0 
+Nick_Kroll/1di1u5UQQkA_0000002 72.0 76.2 
+Nick_Kroll/1di1u5UQQkA_0000003 131.0 137.1 

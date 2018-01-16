@@ -1,0 +1,11 @@
+POI: 			Jake_Johnson 
+Youtube ID: 	DYxhlanOfl4 
+Video length: 	266.4 sec 
+Set (V): 		dev 
+ 
+Jake_Johnson/DYxhlanOfl4_0000001 80.6 89.0 
+Jake_Johnson/DYxhlanOfl4_0000002 127.1 134.1 
+Jake_Johnson/DYxhlanOfl4_0000003 157.4 169.3 
+Jake_Johnson/DYxhlanOfl4_0000004 209.1 215.1 
+Jake_Johnson/DYxhlanOfl4_0000005 250.9 256.0 
+Jake_Johnson/DYxhlanOfl4_0000006 256.6 264.7 

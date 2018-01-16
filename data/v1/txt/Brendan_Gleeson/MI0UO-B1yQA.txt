@@ -1,0 +1,15 @@
+POI: 			Brendan_Gleeson 
+Youtube ID: 	MI0UO-B1yQA 
+Video length: 	415.6 sec 
+Set (V): 		dev 
+ 
+Brendan_Gleeson/MI0UO-B1yQA_0000001 55.3 61.1 
+Brendan_Gleeson/MI0UO-B1yQA_0000002 62.4 68.9 
+Brendan_Gleeson/MI0UO-B1yQA_0000003 92.0 97.1 
+Brendan_Gleeson/MI0UO-B1yQA_0000004 105.1 130.8 
+Brendan_Gleeson/MI0UO-B1yQA_0000005 132.6 138.7 
+Brendan_Gleeson/MI0UO-B1yQA_0000006 200.4 205.1 
+Brendan_Gleeson/MI0UO-B1yQA_0000007 205.3 214.6 
+Brendan_Gleeson/MI0UO-B1yQA_0000008 272.2 280.0 
+Brendan_Gleeson/MI0UO-B1yQA_0000009 292.0 306.1 
+Brendan_Gleeson/MI0UO-B1yQA_0000010 314.5 345.8 

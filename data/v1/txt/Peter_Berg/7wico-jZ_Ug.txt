@@ -1,0 +1,10 @@
+POI: 			Peter_Berg 
+Youtube ID: 	7wico-jZ_Ug 
+Video length: 	250.0 sec 
+Set (V): 		dev 
+ 
+Peter_Berg/7wico-jZ_Ug_0000001 33.4 57.8 
+Peter_Berg/7wico-jZ_Ug_0000002 58.1 66.7 
+Peter_Berg/7wico-jZ_Ug_0000003 69.4 82.8 
+Peter_Berg/7wico-jZ_Ug_0000004 105.8 180.7 
+Peter_Berg/7wico-jZ_Ug_0000005 196.0 244.2 

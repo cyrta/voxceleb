@@ -1,0 +1,20 @@
+POI: 			America_Ferrera 
+Youtube ID: 	FZj7urR6Q10 
+Video length: 	257.8 sec 
+Set (V): 		dev 
+ 
+America_Ferrera/FZj7urR6Q10_0000001 16.0 31.6 
+America_Ferrera/FZj7urR6Q10_0000002 31.8 42.8 
+America_Ferrera/FZj7urR6Q10_0000003 43.6 48.3 
+America_Ferrera/FZj7urR6Q10_0000004 77.0 84.7 
+America_Ferrera/FZj7urR6Q10_0000005 85.1 90.6 
+America_Ferrera/FZj7urR6Q10_0000006 96.9 109.8 
+America_Ferrera/FZj7urR6Q10_0000007 115.8 130.0 
+America_Ferrera/FZj7urR6Q10_0000008 152.0 163.1 
+America_Ferrera/FZj7urR6Q10_0000009 163.6 168.8 
+America_Ferrera/FZj7urR6Q10_0000010 169.1 173.2 
+America_Ferrera/FZj7urR6Q10_0000011 174.9 187.0 
+America_Ferrera/FZj7urR6Q10_0000012 204.8 212.2 
+America_Ferrera/FZj7urR6Q10_0000013 212.9 219.5 
+America_Ferrera/FZj7urR6Q10_0000014 220.4 226.2 
+America_Ferrera/FZj7urR6Q10_0000015 226.7 250.3 

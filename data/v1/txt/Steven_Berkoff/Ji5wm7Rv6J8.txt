@@ -1,0 +1,9 @@
+POI: 			Steven_Berkoff 
+Youtube ID: 	Ji5wm7Rv6J8 
+Video length: 	351.0 sec 
+Set (V): 		dev 
+ 
+Steven_Berkoff/Ji5wm7Rv6J8_0000001 00.8 04.8 
+Steven_Berkoff/Ji5wm7Rv6J8_0000002 70.4 77.7 
+Steven_Berkoff/Ji5wm7Rv6J8_0000003 202.5 211.0 
+Steven_Berkoff/Ji5wm7Rv6J8_0000004 239.9 251.2 

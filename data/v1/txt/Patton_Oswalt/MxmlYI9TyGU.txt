@@ -1,0 +1,24 @@
+POI: 			Patton_Oswalt 
+Youtube ID: 	MxmlYI9TyGU 
+Video length: 	824.7 sec 
+Set (V): 		dev 
+ 
+Patton_Oswalt/MxmlYI9TyGU_0000001 69.5 73.5 
+Patton_Oswalt/MxmlYI9TyGU_0000002 102.5 108.8 
+Patton_Oswalt/MxmlYI9TyGU_0000003 154.5 162.3 
+Patton_Oswalt/MxmlYI9TyGU_0000004 169.3 175.0 
+Patton_Oswalt/MxmlYI9TyGU_0000005 183.2 192.1 
+Patton_Oswalt/MxmlYI9TyGU_0000006 222.3 228.9 
+Patton_Oswalt/MxmlYI9TyGU_0000007 247.9 252.2 
+Patton_Oswalt/MxmlYI9TyGU_0000008 263.1 267.6 
+Patton_Oswalt/MxmlYI9TyGU_0000009 295.2 304.5 
+Patton_Oswalt/MxmlYI9TyGU_0000010 304.8 311.6 
+Patton_Oswalt/MxmlYI9TyGU_0000011 320.3 327.6 
+Patton_Oswalt/MxmlYI9TyGU_0000012 328.8 340.4 
+Patton_Oswalt/MxmlYI9TyGU_0000013 378.3 382.4 
+Patton_Oswalt/MxmlYI9TyGU_0000014 382.7 394.4 
+Patton_Oswalt/MxmlYI9TyGU_0000015 632.5 637.5 
+Patton_Oswalt/MxmlYI9TyGU_0000016 678.3 684.3 
+Patton_Oswalt/MxmlYI9TyGU_0000017 685.9 692.4 
+Patton_Oswalt/MxmlYI9TyGU_0000018 692.9 697.9 
+Patton_Oswalt/MxmlYI9TyGU_0000019 722.7 731.8 

@@ -1,0 +1,10 @@
+POI: 			Kayvan_Novak 
+Youtube ID: 	Y6c3Hc9-QeI 
+Video length: 	244.3 sec 
+Set (V): 		dev 
+ 
+Kayvan_Novak/Y6c3Hc9-QeI_0000001 80.8 86.2 
+Kayvan_Novak/Y6c3Hc9-QeI_0000002 120.7 125.4 
+Kayvan_Novak/Y6c3Hc9-QeI_0000003 150.0 155.0 
+Kayvan_Novak/Y6c3Hc9-QeI_0000004 196.0 208.3 
+Kayvan_Novak/Y6c3Hc9-QeI_0000005 211.2 223.6 

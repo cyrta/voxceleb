@@ -1,0 +1,15 @@
+POI: 			Michael_C._Hall 
+Youtube ID: 	ctZhUxrYRj0 
+Video length: 	202.3 sec 
+Set (V): 		dev 
+ 
+Michael_C._Hall/ctZhUxrYRj0_0000001 13.4 35.7 
+Michael_C._Hall/ctZhUxrYRj0_0000002 72.5 81.8 
+Michael_C._Hall/ctZhUxrYRj0_0000003 82.2 88.0 
+Michael_C._Hall/ctZhUxrYRj0_0000004 100.4 105.2 
+Michael_C._Hall/ctZhUxrYRj0_0000005 127.1 131.9 
+Michael_C._Hall/ctZhUxrYRj0_0000006 147.7 151.8 
+Michael_C._Hall/ctZhUxrYRj0_0000007 152.4 156.6 
+Michael_C._Hall/ctZhUxrYRj0_0000008 158.7 164.3 
+Michael_C._Hall/ctZhUxrYRj0_0000009 157.3 168.5 
+Michael_C._Hall/ctZhUxrYRj0_0000010 178.9 195.0 

@@ -1,0 +1,11 @@
+POI: 			Bruce_Boxleitner 
+Youtube ID: 	sezhmCve6as 
+Video length: 	242.7 sec 
+Set (V): 		dev 
+ 
+Bruce_Boxleitner/sezhmCve6as_0000001 21.5 27.2 
+Bruce_Boxleitner/sezhmCve6as_0000002 45.7 53.4 
+Bruce_Boxleitner/sezhmCve6as_0000003 53.9 64.6 
+Bruce_Boxleitner/sezhmCve6as_0000004 66.8 72.7 
+Bruce_Boxleitner/sezhmCve6as_0000005 79.2 89.0 
+Bruce_Boxleitner/sezhmCve6as_0000006 94.0 100.0 

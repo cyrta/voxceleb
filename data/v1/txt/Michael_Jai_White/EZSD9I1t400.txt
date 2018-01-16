@@ -1,0 +1,10 @@
+POI: 			Michael_Jai_White 
+Youtube ID: 	EZSD9I1t400 
+Video length: 	127.2 sec 
+Set (V): 		dev 
+ 
+Michael_Jai_White/EZSD9I1t400_0000001 20.8 26.6 
+Michael_Jai_White/EZSD9I1t400_0000002 33.4 40.9 
+Michael_Jai_White/EZSD9I1t400_0000003 50.0 64.8 
+Michael_Jai_White/EZSD9I1t400_0000004 66.8 90.3 
+Michael_Jai_White/EZSD9I1t400_0000005 115.8 121.6 

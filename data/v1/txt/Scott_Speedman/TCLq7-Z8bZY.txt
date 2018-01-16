@@ -1,0 +1,8 @@
+POI: 			Scott_Speedman 
+Youtube ID: 	TCLq7-Z8bZY 
+Video length: 	247.4 sec 
+Set (V): 		dev 
+ 
+Scott_Speedman/TCLq7-Z8bZY_0000001 50.5 54.7 
+Scott_Speedman/TCLq7-Z8bZY_0000002 55.0 62.1 
+Scott_Speedman/TCLq7-Z8bZY_0000003 64.3 68.4 

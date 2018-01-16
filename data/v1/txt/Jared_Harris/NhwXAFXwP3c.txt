@@ -1,0 +1,9 @@
+POI: 			Jared_Harris 
+Youtube ID: 	NhwXAFXwP3c 
+Video length: 	242.1 sec 
+Set (V): 		dev 
+ 
+Jared_Harris/NhwXAFXwP3c_0000001 36.9 49.7 
+Jared_Harris/NhwXAFXwP3c_0000002 154.0 162.5 
+Jared_Harris/NhwXAFXwP3c_0000003 163.1 171.4 
+Jared_Harris/NhwXAFXwP3c_0000004 177.6 189.4 

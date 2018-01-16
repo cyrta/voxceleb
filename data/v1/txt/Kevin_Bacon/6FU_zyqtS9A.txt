@@ -1,0 +1,25 @@
+POI: 			Kevin_Bacon 
+Youtube ID: 	6FU_zyqtS9A 
+Video length: 	624.6 sec 
+Set (V): 		dev 
+ 
+Kevin_Bacon/6FU_zyqtS9A_0000001 54.8 59.1 
+Kevin_Bacon/6FU_zyqtS9A_0000002 80.8 86.8 
+Kevin_Bacon/6FU_zyqtS9A_0000003 101.2 106.2 
+Kevin_Bacon/6FU_zyqtS9A_0000004 179.4 183.4 
+Kevin_Bacon/6FU_zyqtS9A_0000005 186.6 191.5 
+Kevin_Bacon/6FU_zyqtS9A_0000006 196.0 202.5 
+Kevin_Bacon/6FU_zyqtS9A_0000007 206.8 212.0 
+Kevin_Bacon/6FU_zyqtS9A_0000008 223.3 227.9 
+Kevin_Bacon/6FU_zyqtS9A_0000009 244.2 253.2 
+Kevin_Bacon/6FU_zyqtS9A_0000010 343.1 348.2 
+Kevin_Bacon/6FU_zyqtS9A_0000011 348.9 353.8 
+Kevin_Bacon/6FU_zyqtS9A_0000012 355.6 364.3 
+Kevin_Bacon/6FU_zyqtS9A_0000013 369.2 383.8 
+Kevin_Bacon/6FU_zyqtS9A_0000014 388.2 395.3 
+Kevin_Bacon/6FU_zyqtS9A_0000015 409.9 420.7 
+Kevin_Bacon/6FU_zyqtS9A_0000016 474.4 481.3 
+Kevin_Bacon/6FU_zyqtS9A_0000017 500.3 506.2 
+Kevin_Bacon/6FU_zyqtS9A_0000018 510.9 516.6 
+Kevin_Bacon/6FU_zyqtS9A_0000019 577.0 584.6 
+Kevin_Bacon/6FU_zyqtS9A_0000020 589.7 600.2 

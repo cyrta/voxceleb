@@ -1,0 +1,19 @@
+POI: 			Kelly_Brook 
+Youtube ID: 	ly7-DErN-Ho 
+Video length: 	1442.6 sec 
+Set (V): 		dev 
+ 
+Kelly_Brook/ly7-DErN-Ho_0000001 825.0 829.6 
+Kelly_Brook/ly7-DErN-Ho_0000002 847.8 854.8 
+Kelly_Brook/ly7-DErN-Ho_0000003 858.2 866.9 
+Kelly_Brook/ly7-DErN-Ho_0000004 878.0 883.4 
+Kelly_Brook/ly7-DErN-Ho_0000005 925.1 929.1 
+Kelly_Brook/ly7-DErN-Ho_0000006 980.4 985.4 
+Kelly_Brook/ly7-DErN-Ho_0000007 1006.8 1016.1 
+Kelly_Brook/ly7-DErN-Ho_0000008 1017.1 1021.7 
+Kelly_Brook/ly7-DErN-Ho_0000009 1036.1 1040.2 
+Kelly_Brook/ly7-DErN-Ho_0000010 1086.0 1091.6 
+Kelly_Brook/ly7-DErN-Ho_0000011 1106.4 1111.1 
+Kelly_Brook/ly7-DErN-Ho_0000012 1145.4 1151.4 
+Kelly_Brook/ly7-DErN-Ho_0000013 1182.0 1189.6 
+Kelly_Brook/ly7-DErN-Ho_0000014 1207.5 1212.2 

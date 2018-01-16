@@ -1,0 +1,19 @@
+POI: 			Michael_C._Hall 
+Youtube ID: 	ZeJbbFWoQDE 
+Video length: 	316.4 sec 
+Set (V): 		dev 
+ 
+Michael_C._Hall/ZeJbbFWoQDE_0000001 34.4 39.3 
+Michael_C._Hall/ZeJbbFWoQDE_0000002 50.6 55.0 
+Michael_C._Hall/ZeJbbFWoQDE_0000003 65.6 69.7 
+Michael_C._Hall/ZeJbbFWoQDE_0000004 79.0 83.7 
+Michael_C._Hall/ZeJbbFWoQDE_0000005 84.6 90.6 
+Michael_C._Hall/ZeJbbFWoQDE_0000006 134.4 139.4 
+Michael_C._Hall/ZeJbbFWoQDE_0000007 145.3 149.3 
+Michael_C._Hall/ZeJbbFWoQDE_0000008 152.7 156.9 
+Michael_C._Hall/ZeJbbFWoQDE_0000009 164.6 175.6 
+Michael_C._Hall/ZeJbbFWoQDE_0000010 210.1 221.5 
+Michael_C._Hall/ZeJbbFWoQDE_0000011 239.8 244.2 
+Michael_C._Hall/ZeJbbFWoQDE_0000012 259.2 263.5 
+Michael_C._Hall/ZeJbbFWoQDE_0000013 264.0 269.0 
+Michael_C._Hall/ZeJbbFWoQDE_0000014 305.9 309.8 

@@ -1,0 +1,7 @@
+POI: 			Alexa_Davalos 
+Youtube ID: 	AEaVel7wWh8 
+Video length: 	379.8 sec 
+Set (V): 		dev 
+ 
+Alexa_Davalos/AEaVel7wWh8_0000001 205.6 212.1 
+Alexa_Davalos/AEaVel7wWh8_0000002 325.9 330.5 

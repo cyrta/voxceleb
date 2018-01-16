@@ -1,0 +1,11 @@
+POI: 			Sam_Heughan 
+Youtube ID: 	KGC4PrKm28Y 
+Video length: 	841.0 sec 
+Set (V): 		dev 
+ 
+Sam_Heughan/KGC4PrKm28Y_0000001 123.4 130.6 
+Sam_Heughan/KGC4PrKm28Y_0000002 135.5 140.6 
+Sam_Heughan/KGC4PrKm28Y_0000003 643.5 656.1 
+Sam_Heughan/KGC4PrKm28Y_0000004 677.8 684.4 
+Sam_Heughan/KGC4PrKm28Y_0000005 748.2 752.4 
+Sam_Heughan/KGC4PrKm28Y_0000006 795.6 804.6 

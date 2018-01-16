@@ -1,0 +1,13 @@
+POI: 			Irrfan_Khan 
+Youtube ID: 	BRo6B3N-hcY 
+Video length: 	1159.8 sec 
+Set (V): 		dev 
+ 
+Irrfan_Khan/BRo6B3N-hcY_0000001 132.5 136.6 
+Irrfan_Khan/BRo6B3N-hcY_0000002 277.7 282.7 
+Irrfan_Khan/BRo6B3N-hcY_0000003 287.0 291.8 
+Irrfan_Khan/BRo6B3N-hcY_0000004 467.1 471.4 
+Irrfan_Khan/BRo6B3N-hcY_0000005 575.4 579.4 
+Irrfan_Khan/BRo6B3N-hcY_0000006 666.4 670.9 
+Irrfan_Khan/BRo6B3N-hcY_0000007 838.2 842.7 
+Irrfan_Khan/BRo6B3N-hcY_0000008 900.1 905.0 

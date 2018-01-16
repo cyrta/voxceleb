@@ -1,0 +1,14 @@
+POI: 			John_Corbett 
+Youtube ID: 	0k03pJAoUpU 
+Video length: 	248.2 sec 
+Set (V): 		dev 
+ 
+John_Corbett/0k03pJAoUpU_0000001 35.0 39.8 
+John_Corbett/0k03pJAoUpU_0000002 43.1 47.7 
+John_Corbett/0k03pJAoUpU_0000003 54.8 61.8 
+John_Corbett/0k03pJAoUpU_0000004 115.0 122.0 
+John_Corbett/0k03pJAoUpU_0000005 103.2 107.4 
+John_Corbett/0k03pJAoUpU_0000006 108.7 122.0 
+John_Corbett/0k03pJAoUpU_0000007 133.7 139.9 
+John_Corbett/0k03pJAoUpU_0000008 217.9 225.1 
+John_Corbett/0k03pJAoUpU_0000009 231.5 246.1 

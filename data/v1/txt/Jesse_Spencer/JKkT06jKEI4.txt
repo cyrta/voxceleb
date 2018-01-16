@@ -1,0 +1,9 @@
+POI: 			Jesse_Spencer 
+Youtube ID: 	JKkT06jKEI4 
+Video length: 	138.2 sec 
+Set (V): 		dev 
+ 
+Jesse_Spencer/JKkT06jKEI4_0000001 31.2 39.2 
+Jesse_Spencer/JKkT06jKEI4_0000002 56.4 68.6 
+Jesse_Spencer/JKkT06jKEI4_0000003 69.6 77.1 
+Jesse_Spencer/JKkT06jKEI4_0000004 77.9 82.2 

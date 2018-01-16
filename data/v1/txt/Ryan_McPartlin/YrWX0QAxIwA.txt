@@ -1,0 +1,17 @@
+POI: 			Ryan_McPartlin 
+Youtube ID: 	YrWX0QAxIwA 
+Video length: 	375.5 sec 
+Set (V): 		dev 
+ 
+Ryan_McPartlin/YrWX0QAxIwA_0000001 38.0 44.3 
+Ryan_McPartlin/YrWX0QAxIwA_0000002 64.1 74.8 
+Ryan_McPartlin/YrWX0QAxIwA_0000003 79.2 86.4 
+Ryan_McPartlin/YrWX0QAxIwA_0000004 92.9 107.0 
+Ryan_McPartlin/YrWX0QAxIwA_0000005 107.9 120.1 
+Ryan_McPartlin/YrWX0QAxIwA_0000006 128.0 135.1 
+Ryan_McPartlin/YrWX0QAxIwA_0000007 143.4 162.5 
+Ryan_McPartlin/YrWX0QAxIwA_0000008 163.2 168.0 
+Ryan_McPartlin/YrWX0QAxIwA_0000009 234.8 240.3 
+Ryan_McPartlin/YrWX0QAxIwA_0000010 277.2 295.5 
+Ryan_McPartlin/YrWX0QAxIwA_0000011 320.3 331.1 
+Ryan_McPartlin/YrWX0QAxIwA_0000012 333.0 344.7 

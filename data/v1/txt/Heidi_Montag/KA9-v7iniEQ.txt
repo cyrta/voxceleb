@@ -1,0 +1,7 @@
+POI: 			Heidi_Montag 
+Youtube ID: 	KA9-v7iniEQ 
+Video length: 	70.4 sec 
+Set (V): 		dev 
+ 
+Heidi_Montag/KA9-v7iniEQ_0000001 22.8 27.7 
+Heidi_Montag/KA9-v7iniEQ_0000002 48.6 58.8 

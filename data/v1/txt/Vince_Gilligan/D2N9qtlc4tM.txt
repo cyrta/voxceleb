@@ -1,0 +1,12 @@
+POI: 			Vince_Gilligan 
+Youtube ID: 	D2N9qtlc4tM 
+Video length: 	291.3 sec 
+Set (V): 		dev 
+ 
+Vince_Gilligan/D2N9qtlc4tM_0000001 09.6 20.6 
+Vince_Gilligan/D2N9qtlc4tM_0000002 23.4 49.0 
+Vince_Gilligan/D2N9qtlc4tM_0000003 54.7 64.0 
+Vince_Gilligan/D2N9qtlc4tM_0000004 66.1 80.4 
+Vince_Gilligan/D2N9qtlc4tM_0000005 87.3 94.1 
+Vince_Gilligan/D2N9qtlc4tM_0000006 104.5 114.4 
+Vince_Gilligan/D2N9qtlc4tM_0000007 124.8 135.3 

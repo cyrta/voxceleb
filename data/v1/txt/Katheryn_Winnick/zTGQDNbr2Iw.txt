@@ -1,0 +1,14 @@
+POI: 			Katheryn_Winnick 
+Youtube ID: 	zTGQDNbr2Iw 
+Video length: 	330.1 sec 
+Set (V): 		dev 
+ 
+Katheryn_Winnick/zTGQDNbr2Iw_0000001 48.8 60.0 
+Katheryn_Winnick/zTGQDNbr2Iw_0000002 90.3 99.9 
+Katheryn_Winnick/zTGQDNbr2Iw_0000003 139.6 147.0 
+Katheryn_Winnick/zTGQDNbr2Iw_0000004 168.8 178.0 
+Katheryn_Winnick/zTGQDNbr2Iw_0000005 178.6 188.7 
+Katheryn_Winnick/zTGQDNbr2Iw_0000006 191.3 206.6 
+Katheryn_Winnick/zTGQDNbr2Iw_0000007 207.3 217.6 
+Katheryn_Winnick/zTGQDNbr2Iw_0000008 261.5 266.0 
+Katheryn_Winnick/zTGQDNbr2Iw_0000009 266.2 272.6 

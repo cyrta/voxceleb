@@ -1,0 +1,16 @@
+POI: 			Fred_Williamson 
+Youtube ID: 	lVrq3CHePwo 
+Video length: 	606.4 sec 
+Set (V): 		dev 
+ 
+Fred_Williamson/lVrq3CHePwo_0000001 55.0 63.9 
+Fred_Williamson/lVrq3CHePwo_0000002 73.6 84.0 
+Fred_Williamson/lVrq3CHePwo_0000003 95.5 101.9 
+Fred_Williamson/lVrq3CHePwo_0000004 135.4 139.6 
+Fred_Williamson/lVrq3CHePwo_0000005 156.1 167.3 
+Fred_Williamson/lVrq3CHePwo_0000006 199.8 208.5 
+Fred_Williamson/lVrq3CHePwo_0000007 211.7 220.8 
+Fred_Williamson/lVrq3CHePwo_0000008 399.8 403.9 
+Fred_Williamson/lVrq3CHePwo_0000009 532.1 540.3 
+Fred_Williamson/lVrq3CHePwo_0000010 554.4 565.3 
+Fred_Williamson/lVrq3CHePwo_0000011 579.6 584.9 

@@ -1,0 +1,6 @@
+POI: 			Corbin_Bleu 
+Youtube ID: 	WZcu-7oxVRA 
+Video length: 	97.1 sec 
+Set (V): 		dev 
+ 
+Corbin_Bleu/WZcu-7oxVRA_0000001 82.5 86.5 

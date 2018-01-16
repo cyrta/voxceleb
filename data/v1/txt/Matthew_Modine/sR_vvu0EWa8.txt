@@ -1,0 +1,19 @@
+POI: 			Matthew_Modine 
+Youtube ID: 	sR_vvu0EWa8 
+Video length: 	483.6 sec 
+Set (V): 		dev 
+ 
+Matthew_Modine/sR_vvu0EWa8_0000001 89.8 96.8 
+Matthew_Modine/sR_vvu0EWa8_0000002 96.9 115.9 
+Matthew_Modine/sR_vvu0EWa8_0000003 130.2 148.2 
+Matthew_Modine/sR_vvu0EWa8_0000004 150.1 154.4 
+Matthew_Modine/sR_vvu0EWa8_0000005 154.6 159.5 
+Matthew_Modine/sR_vvu0EWa8_0000006 173.4 185.7 
+Matthew_Modine/sR_vvu0EWa8_0000007 189.8 207.6 
+Matthew_Modine/sR_vvu0EWa8_0000008 208.0 216.5 
+Matthew_Modine/sR_vvu0EWa8_0000009 251.3 284.3 
+Matthew_Modine/sR_vvu0EWa8_0000010 354.4 367.8 
+Matthew_Modine/sR_vvu0EWa8_0000011 407.4 437.1 
+Matthew_Modine/sR_vvu0EWa8_0000012 440.3 445.3 
+Matthew_Modine/sR_vvu0EWa8_0000013 449.4 455.1 
+Matthew_Modine/sR_vvu0EWa8_0000014 456.4 469.8 

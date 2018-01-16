@@ -1,0 +1,17 @@
+POI: 			Loretta_Swit 
+Youtube ID: 	3DXPtuPhKGc 
+Video length: 	176.8 sec 
+Set (V): 		dev 
+ 
+Loretta_Swit/3DXPtuPhKGc_0000001 10.7 19.3 
+Loretta_Swit/3DXPtuPhKGc_0000002 23.2 31.5 
+Loretta_Swit/3DXPtuPhKGc_0000003 33.3 37.6 
+Loretta_Swit/3DXPtuPhKGc_0000004 39.6 43.6 
+Loretta_Swit/3DXPtuPhKGc_0000005 50.8 56.4 
+Loretta_Swit/3DXPtuPhKGc_0000006 64.6 68.6 
+Loretta_Swit/3DXPtuPhKGc_0000007 81.1 85.2 
+Loretta_Swit/3DXPtuPhKGc_0000008 81.1 85.2 
+Loretta_Swit/3DXPtuPhKGc_0000009 102.3 107.5 
+Loretta_Swit/3DXPtuPhKGc_0000010 115.2 123.0 
+Loretta_Swit/3DXPtuPhKGc_0000011 127.4 137.8 
+Loretta_Swit/3DXPtuPhKGc_0000012 163.2 167.4 

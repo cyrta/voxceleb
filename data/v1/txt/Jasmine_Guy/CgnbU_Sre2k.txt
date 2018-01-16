@@ -1,0 +1,8 @@
+POI: 			Jasmine_Guy 
+Youtube ID: 	CgnbU_Sre2k 
+Video length: 	64.5 sec 
+Set (V): 		dev 
+ 
+Jasmine_Guy/CgnbU_Sre2k_0000001 18.3 24.8 
+Jasmine_Guy/CgnbU_Sre2k_0000002 38.1 45.9 
+Jasmine_Guy/CgnbU_Sre2k_0000003 46.2 50.7 

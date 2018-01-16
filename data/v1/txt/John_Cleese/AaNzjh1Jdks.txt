@@ -1,0 +1,27 @@
+POI: 			John_Cleese 
+Youtube ID: 	AaNzjh1Jdks 
+Video length: 	4260.9 sec 
+Set (V): 		dev 
+ 
+John_Cleese/AaNzjh1Jdks_0000001 523.0 527.6 
+John_Cleese/AaNzjh1Jdks_0000002 545.3 560.2 
+John_Cleese/AaNzjh1Jdks_0000003 580.7 592.4 
+John_Cleese/AaNzjh1Jdks_0000004 628.3 636.8 
+John_Cleese/AaNzjh1Jdks_0000005 725.9 730.7 
+John_Cleese/AaNzjh1Jdks_0000006 859.0 864.0 
+John_Cleese/AaNzjh1Jdks_0000007 879.4 884.6 
+John_Cleese/AaNzjh1Jdks_0000008 899.7 906.2 
+John_Cleese/AaNzjh1Jdks_0000009 918.0 923.8 
+John_Cleese/AaNzjh1Jdks_0000010 1098.2 1102.5 
+John_Cleese/AaNzjh1Jdks_0000011 1135.1 1139.2 
+John_Cleese/AaNzjh1Jdks_0000012 1162.8 1167.0 
+John_Cleese/AaNzjh1Jdks_0000013 2261.5 2266.9 
+John_Cleese/AaNzjh1Jdks_0000014 2376.6 2381.0 
+John_Cleese/AaNzjh1Jdks_0000015 2412.2 2419.3 
+John_Cleese/AaNzjh1Jdks_0000016 2901.1 2913.5 
+John_Cleese/AaNzjh1Jdks_0000017 2937.6 2943.5 
+John_Cleese/AaNzjh1Jdks_0000018 3056.1 3060.7 
+John_Cleese/AaNzjh1Jdks_0000019 3062.0 3070.2 
+John_Cleese/AaNzjh1Jdks_0000020 3101.0 3109.8 
+John_Cleese/AaNzjh1Jdks_0000021 3150.0 3159.2 
+John_Cleese/AaNzjh1Jdks_0000022 3693.2 3700.9 

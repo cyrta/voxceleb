@@ -1,0 +1,10 @@
+POI: 			Wendi_McLendon-Covey 
+Youtube ID: 	aZNlWGyUrow 
+Video length: 	106.5 sec 
+Set (V): 		dev 
+ 
+Wendi_McLendon-Covey/aZNlWGyUrow_0000001 10.3 14.4 
+Wendi_McLendon-Covey/aZNlWGyUrow_0000002 10.4 14.4 
+Wendi_McLendon-Covey/aZNlWGyUrow_0000003 51.4 55.9 
+Wendi_McLendon-Covey/aZNlWGyUrow_0000004 56.2 62.6 
+Wendi_McLendon-Covey/aZNlWGyUrow_0000005 69.2 73.4 

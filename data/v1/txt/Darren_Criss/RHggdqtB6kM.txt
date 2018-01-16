@@ -1,0 +1,11 @@
+POI: 			Darren_Criss 
+Youtube ID: 	RHggdqtB6kM 
+Video length: 	256.9 sec 
+Set (V): 		dev 
+ 
+Darren_Criss/RHggdqtB6kM_0000001 31.1 35.2 
+Darren_Criss/RHggdqtB6kM_0000002 97.8 108.0 
+Darren_Criss/RHggdqtB6kM_0000003 109.3 113.6 
+Darren_Criss/RHggdqtB6kM_0000004 120.2 124.6 
+Darren_Criss/RHggdqtB6kM_0000005 156.6 160.8 
+Darren_Criss/RHggdqtB6kM_0000006 180.9 187.2 

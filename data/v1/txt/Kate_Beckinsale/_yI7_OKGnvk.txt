@@ -1,0 +1,11 @@
+POI: 			Kate_Beckinsale 
+Youtube ID: 	_yI7_OKGnvk 
+Video length: 	384.6 sec 
+Set (V): 		dev 
+ 
+Kate_Beckinsale/_yI7_OKGnvk_0000001 123.1 129.4 
+Kate_Beckinsale/_yI7_OKGnvk_0000002 141.4 148.5 
+Kate_Beckinsale/_yI7_OKGnvk_0000003 152.9 157.3 
+Kate_Beckinsale/_yI7_OKGnvk_0000004 161.7 167.2 
+Kate_Beckinsale/_yI7_OKGnvk_0000005 224.9 229.2 
+Kate_Beckinsale/_yI7_OKGnvk_0000006 276.3 281.4 

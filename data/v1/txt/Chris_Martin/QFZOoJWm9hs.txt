@@ -1,0 +1,8 @@
+POI: 			Chris_Martin 
+Youtube ID: 	QFZOoJWm9hs 
+Video length: 	348.1 sec 
+Set (V): 		dev 
+ 
+Chris_Martin/QFZOoJWm9hs_0000001 62.4 68.3 
+Chris_Martin/QFZOoJWm9hs_0000002 75.3 83.5 
+Chris_Martin/QFZOoJWm9hs_0000003 269.1 276.7 

@@ -1,0 +1,13 @@
+POI: 			Olivia_Colman 
+Youtube ID: 	YEVZp443BBQ 
+Video length: 	142.5 sec 
+Set (V): 		dev 
+ 
+Olivia_Colman/YEVZp443BBQ_0000001 20.0 25.3 
+Olivia_Colman/YEVZp443BBQ_0000002 36.6 42.3 
+Olivia_Colman/YEVZp443BBQ_0000003 47.1 56.4 
+Olivia_Colman/YEVZp443BBQ_0000004 57.3 62.9 
+Olivia_Colman/YEVZp443BBQ_0000005 63.1 67.9 
+Olivia_Colman/YEVZp443BBQ_0000006 86.8 91.3 
+Olivia_Colman/YEVZp443BBQ_0000007 103.0 109.6 
+Olivia_Colman/YEVZp443BBQ_0000008 118.0 123.2 

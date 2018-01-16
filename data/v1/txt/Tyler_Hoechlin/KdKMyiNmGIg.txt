@@ -1,0 +1,8 @@
+POI: 			Tyler_Hoechlin 
+Youtube ID: 	KdKMyiNmGIg 
+Video length: 	257.5 sec 
+Set (V): 		dev 
+ 
+Tyler_Hoechlin/KdKMyiNmGIg_0000001 94.9 99.9 
+Tyler_Hoechlin/KdKMyiNmGIg_0000002 106.0 110.2 
+Tyler_Hoechlin/KdKMyiNmGIg_0000003 203.1 207.8 

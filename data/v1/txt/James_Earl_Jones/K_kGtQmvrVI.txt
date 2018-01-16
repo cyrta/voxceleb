@@ -1,0 +1,10 @@
+POI: 			James_Earl_Jones 
+Youtube ID: 	K_kGtQmvrVI 
+Video length: 	181.2 sec 
+Set (V): 		dev 
+ 
+James_Earl_Jones/K_kGtQmvrVI_0000001 69.4 73.5 
+James_Earl_Jones/K_kGtQmvrVI_0000002 123.0 127.3 
+James_Earl_Jones/K_kGtQmvrVI_0000003 132.6 139.0 
+James_Earl_Jones/K_kGtQmvrVI_0000004 147.0 153.2 
+James_Earl_Jones/K_kGtQmvrVI_0000005 154.4 158.5 

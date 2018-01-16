@@ -1,0 +1,9 @@
+POI: 			John_Krasinski 
+Youtube ID: 	1BbzdzCpBik 
+Video length: 	235.4 sec 
+Set (V): 		dev 
+ 
+John_Krasinski/1BbzdzCpBik_0000001 22.2 27.2 
+John_Krasinski/1BbzdzCpBik_0000002 56.8 62.8 
+John_Krasinski/1BbzdzCpBik_0000003 68.1 74.6 
+John_Krasinski/1BbzdzCpBik_0000004 112.7 121.8 

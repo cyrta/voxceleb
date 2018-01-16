@@ -1,0 +1,14 @@
+POI: 			Gwendoline_Christie 
+Youtube ID: 	HQ1AFT2c0JE 
+Video length: 	370.0 sec 
+Set (V): 		dev 
+ 
+Gwendoline_Christie/HQ1AFT2c0JE_0000001 176.3 190.6 
+Gwendoline_Christie/HQ1AFT2c0JE_0000002 193.1 201.7 
+Gwendoline_Christie/HQ1AFT2c0JE_0000003 206.2 210.6 
+Gwendoline_Christie/HQ1AFT2c0JE_0000004 210.8 223.3 
+Gwendoline_Christie/HQ1AFT2c0JE_0000005 223.9 247.6 
+Gwendoline_Christie/HQ1AFT2c0JE_0000006 257.4 275.2 
+Gwendoline_Christie/HQ1AFT2c0JE_0000007 299.8 322.9 
+Gwendoline_Christie/HQ1AFT2c0JE_0000008 326.1 334.8 
+Gwendoline_Christie/HQ1AFT2c0JE_0000009 336.6 351.9 

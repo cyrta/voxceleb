@@ -1,0 +1,10 @@
+POI: 			Anthony_Anderson 
+Youtube ID: 	8Zu6pTuZkPU 
+Video length: 	423.7 sec 
+Set (V): 		dev 
+ 
+Anthony_Anderson/8Zu6pTuZkPU_0000001 138.1 142.2 
+Anthony_Anderson/8Zu6pTuZkPU_0000002 226.4 231.6 
+Anthony_Anderson/8Zu6pTuZkPU_0000003 283.1 287.4 
+Anthony_Anderson/8Zu6pTuZkPU_0000004 298.9 304.3 
+Anthony_Anderson/8Zu6pTuZkPU_0000005 385.6 394.6 

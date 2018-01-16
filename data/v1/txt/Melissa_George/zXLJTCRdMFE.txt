@@ -1,0 +1,8 @@
+POI: 			Melissa_George 
+Youtube ID: 	zXLJTCRdMFE 
+Video length: 	219.2 sec 
+Set (V): 		dev 
+ 
+Melissa_George/zXLJTCRdMFE_0000001 95.4 108.1 
+Melissa_George/zXLJTCRdMFE_0000002 167.4 174.8 
+Melissa_George/zXLJTCRdMFE_0000003 176.1 180.2 

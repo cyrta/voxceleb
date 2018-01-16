@@ -1,0 +1,13 @@
+POI: 			Marion_Cotillard 
+Youtube ID: 	W76WUvtonX8 
+Video length: 	216.9 sec 
+Set (V): 		dev 
+ 
+Marion_Cotillard/W76WUvtonX8_0000001 17.8 30.5 
+Marion_Cotillard/W76WUvtonX8_0000002 52.6 58.0 
+Marion_Cotillard/W76WUvtonX8_0000003 66.4 71.2 
+Marion_Cotillard/W76WUvtonX8_0000004 76.7 82.4 
+Marion_Cotillard/W76WUvtonX8_0000005 92.8 105.5 
+Marion_Cotillard/W76WUvtonX8_0000006 155.0 160.4 
+Marion_Cotillard/W76WUvtonX8_0000007 160.8 165.6 
+Marion_Cotillard/W76WUvtonX8_0000008 170.6 174.8 

@@ -1,0 +1,8 @@
+POI: 			Dane_Cook 
+Youtube ID: 	J1YBt_aPaXQ 
+Video length: 	529.8 sec 
+Set (V): 		dev 
+ 
+Dane_Cook/J1YBt_aPaXQ_0000001 179.1 183.7 
+Dane_Cook/J1YBt_aPaXQ_0000002 432.5 442.3 
+Dane_Cook/J1YBt_aPaXQ_0000003 473.9 479.4 

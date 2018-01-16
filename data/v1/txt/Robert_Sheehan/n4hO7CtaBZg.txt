@@ -1,0 +1,14 @@
+POI: 			Robert_Sheehan 
+Youtube ID: 	n4hO7CtaBZg 
+Video length: 	275.7 sec 
+Set (V): 		dev 
+ 
+Robert_Sheehan/n4hO7CtaBZg_0000001 70.9 76.8 
+Robert_Sheehan/n4hO7CtaBZg_0000002 82.9 92.8 
+Robert_Sheehan/n4hO7CtaBZg_0000003 93.0 97.6 
+Robert_Sheehan/n4hO7CtaBZg_0000004 121.5 126.0 
+Robert_Sheehan/n4hO7CtaBZg_0000005 172.6 177.8 
+Robert_Sheehan/n4hO7CtaBZg_0000006 178.8 189.8 
+Robert_Sheehan/n4hO7CtaBZg_0000007 216.3 223.4 
+Robert_Sheehan/n4hO7CtaBZg_0000008 223.5 228.0 
+Robert_Sheehan/n4hO7CtaBZg_0000009 248.9 254.6 

@@ -1,0 +1,24 @@
+POI: 			Katie_Leclerc 
+Youtube ID: 	qFNujk5-6nQ 
+Video length: 	910.6 sec 
+Set (V): 		dev 
+ 
+Katie_Leclerc/qFNujk5-6nQ_0000001 41.5 60.1 
+Katie_Leclerc/qFNujk5-6nQ_0000002 62.1 75.9 
+Katie_Leclerc/qFNujk5-6nQ_0000003 94.9 114.0 
+Katie_Leclerc/qFNujk5-6nQ_0000004 139.4 151.4 
+Katie_Leclerc/qFNujk5-6nQ_0000005 156.2 161.0 
+Katie_Leclerc/qFNujk5-6nQ_0000006 198.1 223.0 
+Katie_Leclerc/qFNujk5-6nQ_0000007 249.4 277.6 
+Katie_Leclerc/qFNujk5-6nQ_0000008 322.2 333.7 
+Katie_Leclerc/qFNujk5-6nQ_0000009 477.5 482.8 
+Katie_Leclerc/qFNujk5-6nQ_0000010 501.5 509.9 
+Katie_Leclerc/qFNujk5-6nQ_0000011 512.4 530.1 
+Katie_Leclerc/qFNujk5-6nQ_0000012 530.4 545.2 
+Katie_Leclerc/qFNujk5-6nQ_0000013 624.0 632.2 
+Katie_Leclerc/qFNujk5-6nQ_0000014 675.1 681.0 
+Katie_Leclerc/qFNujk5-6nQ_0000015 684.7 690.8 
+Katie_Leclerc/qFNujk5-6nQ_0000016 695.4 700.1 
+Katie_Leclerc/qFNujk5-6nQ_0000017 756.8 764.7 
+Katie_Leclerc/qFNujk5-6nQ_0000018 825.7 831.8 
+Katie_Leclerc/qFNujk5-6nQ_0000019 839.6 850.8 

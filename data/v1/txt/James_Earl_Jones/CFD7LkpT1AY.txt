@@ -1,0 +1,7 @@
+POI: 			James_Earl_Jones 
+Youtube ID: 	CFD7LkpT1AY 
+Video length: 	120.8 sec 
+Set (V): 		dev 
+ 
+James_Earl_Jones/CFD7LkpT1AY_0000001 19.8 28.7 
+James_Earl_Jones/CFD7LkpT1AY_0000002 57.2 63.5 

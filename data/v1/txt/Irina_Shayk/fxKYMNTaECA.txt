@@ -1,0 +1,12 @@
+POI: 			Irina_Shayk 
+Youtube ID: 	fxKYMNTaECA 
+Video length: 	164.5 sec 
+Set (V): 		dev 
+ 
+Irina_Shayk/fxKYMNTaECA_0000001 05.6 19.7 
+Irina_Shayk/fxKYMNTaECA_0000002 20.1 32.0 
+Irina_Shayk/fxKYMNTaECA_0000003 32.1 40.5 
+Irina_Shayk/fxKYMNTaECA_0000004 44.8 59.2 
+Irina_Shayk/fxKYMNTaECA_0000005 63.4 68.3 
+Irina_Shayk/fxKYMNTaECA_0000006 73.2 84.5 
+Irina_Shayk/fxKYMNTaECA_0000007 100.7 109.2 

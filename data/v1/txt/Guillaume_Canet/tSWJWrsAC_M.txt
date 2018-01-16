@@ -1,0 +1,11 @@
+POI: 			Guillaume_Canet 
+Youtube ID: 	tSWJWrsAC_M 
+Video length: 	503.5 sec 
+Set (V): 		dev 
+ 
+Guillaume_Canet/tSWJWrsAC_M_0000001 110.7 114.8 
+Guillaume_Canet/tSWJWrsAC_M_0000002 216.6 221.5 
+Guillaume_Canet/tSWJWrsAC_M_0000003 231.8 235.8 
+Guillaume_Canet/tSWJWrsAC_M_0000004 291.8 296.7 
+Guillaume_Canet/tSWJWrsAC_M_0000005 448.6 455.2 
+Guillaume_Canet/tSWJWrsAC_M_0000006 461.4 470.2 

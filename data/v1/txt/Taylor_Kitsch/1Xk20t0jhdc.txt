@@ -1,0 +1,7 @@
+POI: 			Taylor_Kitsch 
+Youtube ID: 	1Xk20t0jhdc 
+Video length: 	78.4 sec 
+Set (V): 		dev 
+ 
+Taylor_Kitsch/1Xk20t0jhdc_0000001 43.0 53.0 
+Taylor_Kitsch/1Xk20t0jhdc_0000002 54.1 59.1 

@@ -1,0 +1,11 @@
+POI: 			Eric_Braeden 
+Youtube ID: 	ba0ZhyVTodw 
+Video length: 	255.8 sec 
+Set (V): 		test 
+ 
+Eric_Braeden/ba0ZhyVTodw_0000001 10.8 15.6 
+Eric_Braeden/ba0ZhyVTodw_0000002 21.3 30.0 
+Eric_Braeden/ba0ZhyVTodw_0000003 30.8 38.9 
+Eric_Braeden/ba0ZhyVTodw_0000004 74.5 78.6 
+Eric_Braeden/ba0ZhyVTodw_0000005 98.9 103.6 
+Eric_Braeden/ba0ZhyVTodw_0000006 198.8 205.6 

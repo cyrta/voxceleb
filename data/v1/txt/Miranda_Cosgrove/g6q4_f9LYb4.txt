@@ -1,0 +1,7 @@
+POI: 			Miranda_Cosgrove 
+Youtube ID: 	g6q4_f9LYb4 
+Video length: 	300.1 sec 
+Set (V): 		dev 
+ 
+Miranda_Cosgrove/g6q4_f9LYb4_0000001 40.4 52.0 
+Miranda_Cosgrove/g6q4_f9LYb4_0000002 238.2 243.4 

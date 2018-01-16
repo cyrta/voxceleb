@@ -1,0 +1,7 @@
+POI: 			Nelly_Furtado 
+Youtube ID: 	MayHCOZ_kD4 
+Video length: 	285.1 sec 
+Set (V): 		dev 
+ 
+Nelly_Furtado/MayHCOZ_kD4_0000001 53.5 60.2 
+Nelly_Furtado/MayHCOZ_kD4_0000002 136.9 141.4 

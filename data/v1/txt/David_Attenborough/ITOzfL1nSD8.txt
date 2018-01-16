@@ -1,0 +1,22 @@
+POI: 			David_Attenborough 
+Youtube ID: 	ITOzfL1nSD8 
+Video length: 	2940.6 sec 
+Set (V): 		dev 
+ 
+David_Attenborough/ITOzfL1nSD8_0000001 1451.3 1461.9 
+David_Attenborough/ITOzfL1nSD8_0000002 1676.7 1682.5 
+David_Attenborough/ITOzfL1nSD8_0000003 2043.4 2049.4 
+David_Attenborough/ITOzfL1nSD8_0000004 2058.7 2079.1 
+David_Attenborough/ITOzfL1nSD8_0000005 2079.5 2085.8 
+David_Attenborough/ITOzfL1nSD8_0000006 2200.8 2206.3 
+David_Attenborough/ITOzfL1nSD8_0000007 2244.1 2250.4 
+David_Attenborough/ITOzfL1nSD8_0000008 2252.2 2261.0 
+David_Attenborough/ITOzfL1nSD8_0000009 2273.7 2278.2 
+David_Attenborough/ITOzfL1nSD8_0000010 2282.7 2286.9 
+David_Attenborough/ITOzfL1nSD8_0000011 2302.4 2309.1 
+David_Attenborough/ITOzfL1nSD8_0000012 2311.5 2316.2 
+David_Attenborough/ITOzfL1nSD8_0000013 2366.6 2371.3 
+David_Attenborough/ITOzfL1nSD8_0000014 2426.6 2436.7 
+David_Attenborough/ITOzfL1nSD8_0000015 2439.1 2455.2 
+David_Attenborough/ITOzfL1nSD8_0000016 2722.7 2734.4 
+David_Attenborough/ITOzfL1nSD8_0000017 2859.9 2866.4 

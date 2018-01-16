@@ -1,0 +1,11 @@
+POI: 			Melissa_Rauch 
+Youtube ID: 	DppqAcoaqQ8 
+Video length: 	705.3 sec 
+Set (V): 		dev 
+ 
+Melissa_Rauch/DppqAcoaqQ8_0000001 77.7 87.1 
+Melissa_Rauch/DppqAcoaqQ8_0000002 305.4 315.2 
+Melissa_Rauch/DppqAcoaqQ8_0000003 326.2 332.8 
+Melissa_Rauch/DppqAcoaqQ8_0000004 398.7 409.0 
+Melissa_Rauch/DppqAcoaqQ8_0000005 628.8 633.4 
+Melissa_Rauch/DppqAcoaqQ8_0000006 640.8 646.2 

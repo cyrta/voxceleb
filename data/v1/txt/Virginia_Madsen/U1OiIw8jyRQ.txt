@@ -1,0 +1,38 @@
+POI: 			Virginia_Madsen 
+Youtube ID: 	U1OiIw8jyRQ 
+Video length: 	1110.5 sec 
+Set (V): 		dev 
+ 
+Virginia_Madsen/U1OiIw8jyRQ_0000001 11.7 19.8 
+Virginia_Madsen/U1OiIw8jyRQ_0000002 22.0 27.6 
+Virginia_Madsen/U1OiIw8jyRQ_0000003 53.2 58.2 
+Virginia_Madsen/U1OiIw8jyRQ_0000004 69.6 74.2 
+Virginia_Madsen/U1OiIw8jyRQ_0000005 76.3 84.4 
+Virginia_Madsen/U1OiIw8jyRQ_0000006 85.6 91.0 
+Virginia_Madsen/U1OiIw8jyRQ_0000007 94.8 109.6 
+Virginia_Madsen/U1OiIw8jyRQ_0000008 110.2 115.5 
+Virginia_Madsen/U1OiIw8jyRQ_0000009 129.6 137.9 
+Virginia_Madsen/U1OiIw8jyRQ_0000010 142.4 152.3 
+Virginia_Madsen/U1OiIw8jyRQ_0000011 152.8 157.8 
+Virginia_Madsen/U1OiIw8jyRQ_0000012 159.2 180.0 
+Virginia_Madsen/U1OiIw8jyRQ_0000013 200.5 205.0 
+Virginia_Madsen/U1OiIw8jyRQ_0000014 206.8 213.0 
+Virginia_Madsen/U1OiIw8jyRQ_0000015 213.8 227.5 
+Virginia_Madsen/U1OiIw8jyRQ_0000016 303.7 308.9 
+Virginia_Madsen/U1OiIw8jyRQ_0000017 331.5 347.8 
+Virginia_Madsen/U1OiIw8jyRQ_0000018 351.2 362.8 
+Virginia_Madsen/U1OiIw8jyRQ_0000019 365.3 369.8 
+Virginia_Madsen/U1OiIw8jyRQ_0000020 374.0 388.0 
+Virginia_Madsen/U1OiIw8jyRQ_0000021 388.1 395.4 
+Virginia_Madsen/U1OiIw8jyRQ_0000022 430.4 448.7 
+Virginia_Madsen/U1OiIw8jyRQ_0000023 446.0 451.5 
+Virginia_Madsen/U1OiIw8jyRQ_0000024 471.3 487.2 
+Virginia_Madsen/U1OiIw8jyRQ_0000025 490.9 497.7 
+Virginia_Madsen/U1OiIw8jyRQ_0000026 539.4 545.8 
+Virginia_Madsen/U1OiIw8jyRQ_0000027 546.1 557.2 
+Virginia_Madsen/U1OiIw8jyRQ_0000028 588.6 598.0 
+Virginia_Madsen/U1OiIw8jyRQ_0000029 607.0 615.4 
+Virginia_Madsen/U1OiIw8jyRQ_0000030 615.9 621.5 
+Virginia_Madsen/U1OiIw8jyRQ_0000031 627.0 631.1 
+Virginia_Madsen/U1OiIw8jyRQ_0000032 624.9 631.3 
+Virginia_Madsen/U1OiIw8jyRQ_0000033 632.1 637.6 

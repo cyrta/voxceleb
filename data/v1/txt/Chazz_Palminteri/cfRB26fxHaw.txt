@@ -1,0 +1,35 @@
+POI: 			Chazz_Palminteri 
+Youtube ID: 	cfRB26fxHaw 
+Video length: 	748.1 sec 
+Set (V): 		dev 
+ 
+Chazz_Palminteri/cfRB26fxHaw_0000001 99.9 155.6 
+Chazz_Palminteri/cfRB26fxHaw_0000002 160.8 175.0 
+Chazz_Palminteri/cfRB26fxHaw_0000003 183.2 198.9 
+Chazz_Palminteri/cfRB26fxHaw_0000004 215.4 227.5 
+Chazz_Palminteri/cfRB26fxHaw_0000005 228.4 240.7 
+Chazz_Palminteri/cfRB26fxHaw_0000006 249.4 256.4 
+Chazz_Palminteri/cfRB26fxHaw_0000007 265.2 278.5 
+Chazz_Palminteri/cfRB26fxHaw_0000008 279.2 283.2 
+Chazz_Palminteri/cfRB26fxHaw_0000009 290.8 306.6 
+Chazz_Palminteri/cfRB26fxHaw_0000010 313.6 320.8 
+Chazz_Palminteri/cfRB26fxHaw_0000011 321.6 326.1 
+Chazz_Palminteri/cfRB26fxHaw_0000012 326.8 332.4 
+Chazz_Palminteri/cfRB26fxHaw_0000013 342.8 353.6 
+Chazz_Palminteri/cfRB26fxHaw_0000014 363.7 380.1 
+Chazz_Palminteri/cfRB26fxHaw_0000015 391.0 398.1 
+Chazz_Palminteri/cfRB26fxHaw_0000016 401.9 408.3 
+Chazz_Palminteri/cfRB26fxHaw_0000017 423.9 434.8 
+Chazz_Palminteri/cfRB26fxHaw_0000018 457.6 486.4 
+Chazz_Palminteri/cfRB26fxHaw_0000019 491.3 498.4 
+Chazz_Palminteri/cfRB26fxHaw_0000020 501.0 506.6 
+Chazz_Palminteri/cfRB26fxHaw_0000021 528.0 534.8 
+Chazz_Palminteri/cfRB26fxHaw_0000022 539.8 552.6 
+Chazz_Palminteri/cfRB26fxHaw_0000023 554.6 570.4 
+Chazz_Palminteri/cfRB26fxHaw_0000024 570.4 576.0 
+Chazz_Palminteri/cfRB26fxHaw_0000025 582.3 591.2 
+Chazz_Palminteri/cfRB26fxHaw_0000026 627.6 634.4 
+Chazz_Palminteri/cfRB26fxHaw_0000027 634.6 652.2 
+Chazz_Palminteri/cfRB26fxHaw_0000028 678.1 685.0 
+Chazz_Palminteri/cfRB26fxHaw_0000029 697.3 701.6 
+Chazz_Palminteri/cfRB26fxHaw_0000030 712.7 721.4 

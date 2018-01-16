@@ -1,0 +1,9 @@
+POI: 			Elaine_Hendrix 
+Youtube ID: 	R1RQnIQGy10 
+Video length: 	192.4 sec 
+Set (V): 		test 
+ 
+Elaine_Hendrix/R1RQnIQGy10_0000001 31.8 37.7 
+Elaine_Hendrix/R1RQnIQGy10_0000002 47.6 74.5 
+Elaine_Hendrix/R1RQnIQGy10_0000003 122.0 129.8 
+Elaine_Hendrix/R1RQnIQGy10_0000004 130.6 135.6 

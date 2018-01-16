@@ -1,0 +1,8 @@
+POI: 			Julia_Stiles 
+Youtube ID: 	BmgMGIVb1hI 
+Video length: 	98.9 sec 
+Set (V): 		dev 
+ 
+Julia_Stiles/BmgMGIVb1hI_0000001 21.0 29.1 
+Julia_Stiles/BmgMGIVb1hI_0000002 29.7 41.0 
+Julia_Stiles/BmgMGIVb1hI_0000003 50.7 60.8 

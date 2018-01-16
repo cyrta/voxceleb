@@ -1,0 +1,25 @@
+POI: 			Ansel_Elgort 
+Youtube ID: 	q1JDf_RYrMc 
+Video length: 	346.9 sec 
+Set (V): 		dev 
+ 
+Ansel_Elgort/q1JDf_RYrMc_0000001 10.2 15.2 
+Ansel_Elgort/q1JDf_RYrMc_0000002 19.3 26.4 
+Ansel_Elgort/q1JDf_RYrMc_0000003 45.0 50.1 
+Ansel_Elgort/q1JDf_RYrMc_0000004 55.4 68.1 
+Ansel_Elgort/q1JDf_RYrMc_0000005 79.2 84.1 
+Ansel_Elgort/q1JDf_RYrMc_0000006 84.4 103.7 
+Ansel_Elgort/q1JDf_RYrMc_0000007 104.6 110.2 
+Ansel_Elgort/q1JDf_RYrMc_0000008 121.6 145.6 
+Ansel_Elgort/q1JDf_RYrMc_0000009 147.1 154.8 
+Ansel_Elgort/q1JDf_RYrMc_0000010 156.5 163.7 
+Ansel_Elgort/q1JDf_RYrMc_0000011 177.2 181.8 
+Ansel_Elgort/q1JDf_RYrMc_0000012 182.1 194.8 
+Ansel_Elgort/q1JDf_RYrMc_0000013 195.2 218.4 
+Ansel_Elgort/q1JDf_RYrMc_0000014 235.2 241.1 
+Ansel_Elgort/q1JDf_RYrMc_0000015 248.5 254.1 
+Ansel_Elgort/q1JDf_RYrMc_0000016 255.3 264.2 
+Ansel_Elgort/q1JDf_RYrMc_0000017 276.5 286.5 
+Ansel_Elgort/q1JDf_RYrMc_0000018 287.7 295.5 
+Ansel_Elgort/q1JDf_RYrMc_0000019 298.9 309.4 
+Ansel_Elgort/q1JDf_RYrMc_0000020 324.2 329.9 

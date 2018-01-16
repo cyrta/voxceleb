@@ -1,0 +1,10 @@
+POI: 			John_Cho 
+Youtube ID: 	JQlWvNL3hZU 
+Video length: 	234.5 sec 
+Set (V): 		dev 
+ 
+John_Cho/JQlWvNL3hZU_0000001 32.7 36.8 
+John_Cho/JQlWvNL3hZU_0000002 104.7 115.9 
+John_Cho/JQlWvNL3hZU_0000003 118.0 125.1 
+John_Cho/JQlWvNL3hZU_0000004 172.4 182.2 
+John_Cho/JQlWvNL3hZU_0000005 183.5 202.6 

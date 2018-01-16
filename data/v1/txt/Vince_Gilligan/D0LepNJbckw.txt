@@ -1,0 +1,10 @@
+POI: 			Vince_Gilligan 
+Youtube ID: 	D0LepNJbckw 
+Video length: 	227.7 sec 
+Set (V): 		dev 
+ 
+Vince_Gilligan/D0LepNJbckw_0000001 47.4 52.4 
+Vince_Gilligan/D0LepNJbckw_0000002 64.0 68.8 
+Vince_Gilligan/D0LepNJbckw_0000003 116.4 130.8 
+Vince_Gilligan/D0LepNJbckw_0000004 146.0 160.4 
+Vince_Gilligan/D0LepNJbckw_0000005 163.1 167.8 

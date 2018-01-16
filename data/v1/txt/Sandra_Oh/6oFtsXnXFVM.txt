@@ -1,0 +1,13 @@
+POI: 			Sandra_Oh 
+Youtube ID: 	6oFtsXnXFVM 
+Video length: 	352.7 sec 
+Set (V): 		dev 
+ 
+Sandra_Oh/6oFtsXnXFVM_0000001 39.1 45.3 
+Sandra_Oh/6oFtsXnXFVM_0000002 86.6 92.6 
+Sandra_Oh/6oFtsXnXFVM_0000003 111.8 119.0 
+Sandra_Oh/6oFtsXnXFVM_0000004 123.1 128.7 
+Sandra_Oh/6oFtsXnXFVM_0000005 155.4 160.4 
+Sandra_Oh/6oFtsXnXFVM_0000006 216.8 225.7 
+Sandra_Oh/6oFtsXnXFVM_0000007 312.9 318.9 
+Sandra_Oh/6oFtsXnXFVM_0000008 325.3 331.1 

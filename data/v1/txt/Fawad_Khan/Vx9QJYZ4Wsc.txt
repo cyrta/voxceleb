@@ -1,0 +1,11 @@
+POI: 			Fawad_Khan 
+Youtube ID: 	Vx9QJYZ4Wsc 
+Video length: 	2162.3 sec 
+Set (V): 		dev 
+ 
+Fawad_Khan/Vx9QJYZ4Wsc_0000001 882.8 890.4 
+Fawad_Khan/Vx9QJYZ4Wsc_0000002 1091.8 1097.1 
+Fawad_Khan/Vx9QJYZ4Wsc_0000003 1217.5 1221.8 
+Fawad_Khan/Vx9QJYZ4Wsc_0000004 1712.0 1716.1 
+Fawad_Khan/Vx9QJYZ4Wsc_0000005 1808.8 1816.7 
+Fawad_Khan/Vx9QJYZ4Wsc_0000006 1923.7 1930.7 

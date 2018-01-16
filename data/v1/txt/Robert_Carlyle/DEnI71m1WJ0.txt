@@ -1,0 +1,7 @@
+POI: 			Robert_Carlyle 
+Youtube ID: 	DEnI71m1WJ0 
+Video length: 	327.4 sec 
+Set (V): 		dev 
+ 
+Robert_Carlyle/DEnI71m1WJ0_0000001 51.5 61.3 
+Robert_Carlyle/DEnI71m1WJ0_0000002 108.6 116.8 

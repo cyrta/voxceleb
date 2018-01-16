@@ -1,0 +1,10 @@
+POI: 			Sofia_Coppola 
+Youtube ID: 	kl349OcIxqQ 
+Video length: 	185.4 sec 
+Set (V): 		dev 
+ 
+Sofia_Coppola/kl349OcIxqQ_0000001 22.7 39.0 
+Sofia_Coppola/kl349OcIxqQ_0000002 92.8 101.2 
+Sofia_Coppola/kl349OcIxqQ_0000003 131.2 136.3 
+Sofia_Coppola/kl349OcIxqQ_0000004 137.4 145.2 
+Sofia_Coppola/kl349OcIxqQ_0000005 158.5 162.5 

@@ -1,0 +1,12 @@
+POI: 			Stana_Katic 
+Youtube ID: 	WwgEt5RknIA 
+Video length: 	269.5 sec 
+Set (V): 		dev 
+ 
+Stana_Katic/WwgEt5RknIA_0000001 04.8 09.7 
+Stana_Katic/WwgEt5RknIA_0000002 14.0 19.8 
+Stana_Katic/WwgEt5RknIA_0000003 20.7 25.9 
+Stana_Katic/WwgEt5RknIA_0000004 29.5 33.6 
+Stana_Katic/WwgEt5RknIA_0000005 38.8 49.1 
+Stana_Katic/WwgEt5RknIA_0000006 49.2 53.7 
+Stana_Katic/WwgEt5RknIA_0000007 54.5 58.7 

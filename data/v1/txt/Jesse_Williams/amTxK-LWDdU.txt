@@ -1,0 +1,8 @@
+POI: 			Jesse_Williams 
+Youtube ID: 	amTxK-LWDdU 
+Video length: 	168.0 sec 
+Set (V): 		dev 
+ 
+Jesse_Williams/amTxK-LWDdU_0000001 14.9 21.1 
+Jesse_Williams/amTxK-LWDdU_0000002 145.8 150.0 
+Jesse_Williams/amTxK-LWDdU_0000003 154.0 159.6 

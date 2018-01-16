@@ -1,0 +1,10 @@
+POI: 			Nate_Parker 
+Youtube ID: 	sC7GCcFZh-A 
+Video length: 	901.9 sec 
+Set (V): 		dev 
+ 
+Nate_Parker/sC7GCcFZh-A_0000001 101.1 129.6 
+Nate_Parker/sC7GCcFZh-A_0000002 189.8 201.8 
+Nate_Parker/sC7GCcFZh-A_0000003 202.5 218.6 
+Nate_Parker/sC7GCcFZh-A_0000004 439.6 446.1 
+Nate_Parker/sC7GCcFZh-A_0000005 799.9 804.7 

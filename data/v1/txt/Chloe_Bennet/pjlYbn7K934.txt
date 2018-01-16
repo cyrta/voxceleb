@@ -1,0 +1,7 @@
+POI: 			Chloe_Bennet 
+Youtube ID: 	pjlYbn7K934 
+Video length: 	226.5 sec 
+Set (V): 		dev 
+ 
+Chloe_Bennet/pjlYbn7K934_0000001 90.0 94.1 
+Chloe_Bennet/pjlYbn7K934_0000002 99.6 105.8 

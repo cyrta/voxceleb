@@ -1,0 +1,11 @@
+POI: 			Karoline_Herfurth 
+Youtube ID: 	JqTPYZpas0g 
+Video length: 	216.3 sec 
+Set (V): 		dev 
+ 
+Karoline_Herfurth/JqTPYZpas0g_0000001 31.5 37.2 
+Karoline_Herfurth/JqTPYZpas0g_0000002 88.4 93.1 
+Karoline_Herfurth/JqTPYZpas0g_0000003 111.4 115.6 
+Karoline_Herfurth/JqTPYZpas0g_0000004 116.9 121.8 
+Karoline_Herfurth/JqTPYZpas0g_0000005 167.2 173.1 
+Karoline_Herfurth/JqTPYZpas0g_0000006 175.5 180.0 

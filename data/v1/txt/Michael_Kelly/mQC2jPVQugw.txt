@@ -1,0 +1,9 @@
+POI: 			Michael_Kelly 
+Youtube ID: 	mQC2jPVQugw 
+Video length: 	143.2 sec 
+Set (V): 		dev 
+ 
+Michael_Kelly/mQC2jPVQugw_0000001 14.9 19.0 
+Michael_Kelly/mQC2jPVQugw_0000002 41.6 46.6 
+Michael_Kelly/mQC2jPVQugw_0000003 72.6 77.0 
+Michael_Kelly/mQC2jPVQugw_0000004 77.6 81.6 

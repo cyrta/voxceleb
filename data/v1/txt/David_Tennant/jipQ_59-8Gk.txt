@@ -1,0 +1,7 @@
+POI: 			David_Tennant 
+Youtube ID: 	jipQ_59-8Gk 
+Video length: 	279.0 sec 
+Set (V): 		dev 
+ 
+David_Tennant/jipQ_59-8Gk_0000001 176.7 183.4 
+David_Tennant/jipQ_59-8Gk_0000002 183.9 189.2 

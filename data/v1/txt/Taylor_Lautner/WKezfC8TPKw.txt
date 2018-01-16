@@ -1,0 +1,18 @@
+POI: 			Taylor_Lautner 
+Youtube ID: 	WKezfC8TPKw 
+Video length: 	579.6 sec 
+Set (V): 		dev 
+ 
+Taylor_Lautner/WKezfC8TPKw_0000001 110.9 120.8 
+Taylor_Lautner/WKezfC8TPKw_0000002 130.2 140.1 
+Taylor_Lautner/WKezfC8TPKw_0000003 142.2 146.7 
+Taylor_Lautner/WKezfC8TPKw_0000004 157.4 167.3 
+Taylor_Lautner/WKezfC8TPKw_0000005 185.2 197.9 
+Taylor_Lautner/WKezfC8TPKw_0000006 280.5 293.2 
+Taylor_Lautner/WKezfC8TPKw_0000007 306.5 311.5 
+Taylor_Lautner/WKezfC8TPKw_0000008 317.7 327.4 
+Taylor_Lautner/WKezfC8TPKw_0000009 464.8 469.2 
+Taylor_Lautner/WKezfC8TPKw_0000010 484.0 501.2 
+Taylor_Lautner/WKezfC8TPKw_0000011 521.4 538.4 
+Taylor_Lautner/WKezfC8TPKw_0000012 544.1 550.6 
+Taylor_Lautner/WKezfC8TPKw_0000013 552.8 558.0 

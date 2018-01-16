@@ -1,0 +1,16 @@
+POI: 			Brit_Marling 
+Youtube ID: 	39NWHKqqjI4 
+Video length: 	485.5 sec 
+Set (V): 		dev 
+ 
+Brit_Marling/39NWHKqqjI4_0000001 88.5 93.6 
+Brit_Marling/39NWHKqqjI4_0000002 94.2 105.0 
+Brit_Marling/39NWHKqqjI4_0000003 106.0 112.5 
+Brit_Marling/39NWHKqqjI4_0000004 185.0 192.0 
+Brit_Marling/39NWHKqqjI4_0000005 194.0 233.9 
+Brit_Marling/39NWHKqqjI4_0000006 234.3 241.2 
+Brit_Marling/39NWHKqqjI4_0000007 289.6 299.1 
+Brit_Marling/39NWHKqqjI4_0000008 302.0 306.6 
+Brit_Marling/39NWHKqqjI4_0000009 292.6 299.1 
+Brit_Marling/39NWHKqqjI4_0000010 302.0 309.4 
+Brit_Marling/39NWHKqqjI4_0000011 383.0 389.8 

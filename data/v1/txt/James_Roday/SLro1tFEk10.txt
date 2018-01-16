@@ -1,0 +1,9 @@
+POI: 			James_Roday 
+Youtube ID: 	SLro1tFEk10 
+Video length: 	103.5 sec 
+Set (V): 		dev 
+ 
+James_Roday/SLro1tFEk10_0000001 03.2 08.9 
+James_Roday/SLro1tFEk10_0000002 35.1 42.8 
+James_Roday/SLro1tFEk10_0000003 71.7 76.3 
+James_Roday/SLro1tFEk10_0000004 86.2 91.3 

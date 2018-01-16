@@ -1,0 +1,12 @@
+POI: 			Sheridan_Smith 
+Youtube ID: 	zZDFWS_zyig 
+Video length: 	143.3 sec 
+Set (V): 		dev 
+ 
+Sheridan_Smith/zZDFWS_zyig_0000001 10.8 16.0 
+Sheridan_Smith/zZDFWS_zyig_0000002 30.7 38.2 
+Sheridan_Smith/zZDFWS_zyig_0000003 42.0 48.4 
+Sheridan_Smith/zZDFWS_zyig_0000004 58.2 63.0 
+Sheridan_Smith/zZDFWS_zyig_0000005 64.6 79.7 
+Sheridan_Smith/zZDFWS_zyig_0000006 102.4 112.2 
+Sheridan_Smith/zZDFWS_zyig_0000007 114.5 121.2 

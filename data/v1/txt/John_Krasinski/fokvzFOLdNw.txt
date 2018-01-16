@@ -1,0 +1,10 @@
+POI: 			John_Krasinski 
+Youtube ID: 	fokvzFOLdNw 
+Video length: 	149.5 sec 
+Set (V): 		dev 
+ 
+John_Krasinski/fokvzFOLdNw_0000001 16.0 56.0 
+John_Krasinski/fokvzFOLdNw_0000002 56.1 65.9 
+John_Krasinski/fokvzFOLdNw_0000003 66.6 75.0 
+John_Krasinski/fokvzFOLdNw_0000004 75.3 92.3 
+John_Krasinski/fokvzFOLdNw_0000005 100.4 131.4 

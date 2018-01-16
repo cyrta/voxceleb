@@ -1,0 +1,7 @@
+POI: 			David_Attenborough 
+Youtube ID: 	Q-_xBlKe1iU 
+Video length: 	130.6 sec 
+Set (V): 		dev 
+ 
+David_Attenborough/Q-_xBlKe1iU_0000001 49.6 54.5 
+David_Attenborough/Q-_xBlKe1iU_0000002 82.2 88.2 

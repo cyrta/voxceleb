@@ -1,0 +1,10 @@
+POI: 			Michael_Weatherly 
+Youtube ID: 	KtST9n5smJA 
+Video length: 	400.8 sec 
+Set (V): 		dev 
+ 
+Michael_Weatherly/KtST9n5smJA_0000001 129.6 133.7 
+Michael_Weatherly/KtST9n5smJA_0000002 136.8 147.8 
+Michael_Weatherly/KtST9n5smJA_0000003 212.0 217.8 
+Michael_Weatherly/KtST9n5smJA_0000004 236.6 241.2 
+Michael_Weatherly/KtST9n5smJA_0000005 309.7 315.6 

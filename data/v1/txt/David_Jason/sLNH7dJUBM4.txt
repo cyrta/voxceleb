@@ -1,0 +1,11 @@
+POI: 			David_Jason 
+Youtube ID: 	sLNH7dJUBM4 
+Video length: 	477.3 sec 
+Set (V): 		dev 
+ 
+David_Jason/sLNH7dJUBM4_0000001 01.5 05.6 
+David_Jason/sLNH7dJUBM4_0000002 159.6 164.0 
+David_Jason/sLNH7dJUBM4_0000003 216.3 222.2 
+David_Jason/sLNH7dJUBM4_0000004 231.4 235.7 
+David_Jason/sLNH7dJUBM4_0000005 299.9 305.3 
+David_Jason/sLNH7dJUBM4_0000006 346.6 351.8 

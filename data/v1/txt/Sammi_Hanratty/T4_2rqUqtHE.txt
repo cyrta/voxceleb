@@ -1,0 +1,19 @@
+POI: 			Sammi_Hanratty 
+Youtube ID: 	T4_2rqUqtHE 
+Video length: 	342.2 sec 
+Set (V): 		dev 
+ 
+Sammi_Hanratty/T4_2rqUqtHE_0000001 18.3 23.8 
+Sammi_Hanratty/T4_2rqUqtHE_0000002 50.3 54.4 
+Sammi_Hanratty/T4_2rqUqtHE_0000003 66.0 82.2 
+Sammi_Hanratty/T4_2rqUqtHE_0000004 107.6 115.2 
+Sammi_Hanratty/T4_2rqUqtHE_0000005 139.8 153.4 
+Sammi_Hanratty/T4_2rqUqtHE_0000006 167.6 181.7 
+Sammi_Hanratty/T4_2rqUqtHE_0000007 183.5 190.0 
+Sammi_Hanratty/T4_2rqUqtHE_0000008 192.0 196.7 
+Sammi_Hanratty/T4_2rqUqtHE_0000009 209.5 222.5 
+Sammi_Hanratty/T4_2rqUqtHE_0000010 240.0 245.8 
+Sammi_Hanratty/T4_2rqUqtHE_0000011 269.4 273.7 
+Sammi_Hanratty/T4_2rqUqtHE_0000012 278.9 283.0 
+Sammi_Hanratty/T4_2rqUqtHE_0000013 288.8 293.8 
+Sammi_Hanratty/T4_2rqUqtHE_0000014 316.2 325.5 

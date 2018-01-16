@@ -1,0 +1,13 @@
+POI: 			Ryan_Kwanten 
+Youtube ID: 	zUimfKAzfUU 
+Video length: 	244.8 sec 
+Set (V): 		dev 
+ 
+Ryan_Kwanten/zUimfKAzfUU_0000001 55.0 61.3 
+Ryan_Kwanten/zUimfKAzfUU_0000002 79.5 86.6 
+Ryan_Kwanten/zUimfKAzfUU_0000003 127.9 131.9 
+Ryan_Kwanten/zUimfKAzfUU_0000004 156.1 161.8 
+Ryan_Kwanten/zUimfKAzfUU_0000005 180.2 186.8 
+Ryan_Kwanten/zUimfKAzfUU_0000006 199.7 205.1 
+Ryan_Kwanten/zUimfKAzfUU_0000007 212.1 218.2 
+Ryan_Kwanten/zUimfKAzfUU_0000008 226.5 235.6 

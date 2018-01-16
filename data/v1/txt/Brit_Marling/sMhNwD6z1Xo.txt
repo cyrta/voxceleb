@@ -1,0 +1,9 @@
+POI: 			Brit_Marling 
+Youtube ID: 	sMhNwD6z1Xo 
+Video length: 	240.5 sec 
+Set (V): 		dev 
+ 
+Brit_Marling/sMhNwD6z1Xo_0000001 84.8 94.4 
+Brit_Marling/sMhNwD6z1Xo_0000002 112.4 116.8 
+Brit_Marling/sMhNwD6z1Xo_0000003 137.1 143.2 
+Brit_Marling/sMhNwD6z1Xo_0000004 205.3 210.2 

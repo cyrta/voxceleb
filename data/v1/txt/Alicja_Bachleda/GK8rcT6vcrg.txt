@@ -1,0 +1,11 @@
+POI: 			Alicja_Bachleda 
+Youtube ID: 	GK8rcT6vcrg 
+Video length: 	132.4 sec 
+Set (V): 		dev 
+ 
+Alicja_Bachleda/GK8rcT6vcrg_0000001 28.7 37.5 
+Alicja_Bachleda/GK8rcT6vcrg_0000002 38.6 43.6 
+Alicja_Bachleda/GK8rcT6vcrg_0000003 50.6 55.5 
+Alicja_Bachleda/GK8rcT6vcrg_0000004 87.3 93.7 
+Alicja_Bachleda/GK8rcT6vcrg_0000005 101.2 107.7 
+Alicja_Bachleda/GK8rcT6vcrg_0000006 113.4 123.2 

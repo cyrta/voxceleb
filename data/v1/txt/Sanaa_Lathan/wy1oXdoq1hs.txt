@@ -1,0 +1,14 @@
+POI: 			Sanaa_Lathan 
+Youtube ID: 	wy1oXdoq1hs 
+Video length: 	232.0 sec 
+Set (V): 		dev 
+ 
+Sanaa_Lathan/wy1oXdoq1hs_0000001 70.6 77.8 
+Sanaa_Lathan/wy1oXdoq1hs_0000002 78.8 89.2 
+Sanaa_Lathan/wy1oXdoq1hs_0000003 98.2 105.2 
+Sanaa_Lathan/wy1oXdoq1hs_0000004 107.1 112.0 
+Sanaa_Lathan/wy1oXdoq1hs_0000005 161.1 170.1 
+Sanaa_Lathan/wy1oXdoq1hs_0000006 170.7 180.6 
+Sanaa_Lathan/wy1oXdoq1hs_0000007 191.0 201.0 
+Sanaa_Lathan/wy1oXdoq1hs_0000008 205.5 215.1 
+Sanaa_Lathan/wy1oXdoq1hs_0000009 216.3 222.3 

@@ -1,0 +1,8 @@
+POI: 			Josh_Groban 
+Youtube ID: 	2SyqAbCitgE 
+Video length: 	393.0 sec 
+Set (V): 		dev 
+ 
+Josh_Groban/2SyqAbCitgE_0000001 228.7 235.0 
+Josh_Groban/2SyqAbCitgE_0000002 260.9 267.2 
+Josh_Groban/2SyqAbCitgE_0000003 332.0 341.9 

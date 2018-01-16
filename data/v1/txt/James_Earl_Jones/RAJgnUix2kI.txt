@@ -1,0 +1,7 @@
+POI: 			James_Earl_Jones 
+Youtube ID: 	RAJgnUix2kI 
+Video length: 	64.0 sec 
+Set (V): 		dev 
+ 
+James_Earl_Jones/RAJgnUix2kI_0000001 27.6 37.3 
+James_Earl_Jones/RAJgnUix2kI_0000002 38.2 47.1 

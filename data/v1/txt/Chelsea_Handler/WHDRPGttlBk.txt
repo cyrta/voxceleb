@@ -1,0 +1,10 @@
+POI: 			Chelsea_Handler 
+Youtube ID: 	WHDRPGttlBk 
+Video length: 	293.5 sec 
+Set (V): 		dev 
+ 
+Chelsea_Handler/WHDRPGttlBk_0000001 42.8 56.3 
+Chelsea_Handler/WHDRPGttlBk_0000002 86.6 92.3 
+Chelsea_Handler/WHDRPGttlBk_0000003 140.8 147.5 
+Chelsea_Handler/WHDRPGttlBk_0000004 230.7 237.2 
+Chelsea_Handler/WHDRPGttlBk_0000005 245.1 250.0 

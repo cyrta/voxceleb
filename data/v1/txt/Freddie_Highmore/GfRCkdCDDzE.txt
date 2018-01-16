@@ -1,0 +1,8 @@
+POI: 			Freddie_Highmore 
+Youtube ID: 	GfRCkdCDDzE 
+Video length: 	278.9 sec 
+Set (V): 		dev 
+ 
+Freddie_Highmore/GfRCkdCDDzE_0000001 85.5 89.7 
+Freddie_Highmore/GfRCkdCDDzE_0000002 159.7 180.6 
+Freddie_Highmore/GfRCkdCDDzE_0000003 189.4 195.1 

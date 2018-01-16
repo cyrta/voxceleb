@@ -1,0 +1,13 @@
+POI: 			David_Lyons 
+Youtube ID: 	p3A355-pPQ4 
+Video length: 	499.0 sec 
+Set (V): 		dev 
+ 
+David_Lyons/p3A355-pPQ4_0000001 60.0 65.3 
+David_Lyons/p3A355-pPQ4_0000002 83.9 89.0 
+David_Lyons/p3A355-pPQ4_0000003 102.0 106.4 
+David_Lyons/p3A355-pPQ4_0000004 146.9 152.1 
+David_Lyons/p3A355-pPQ4_0000005 409.0 413.2 
+David_Lyons/p3A355-pPQ4_0000006 419.8 426.0 
+David_Lyons/p3A355-pPQ4_0000007 437.0 444.2 
+David_Lyons/p3A355-pPQ4_0000008 451.2 456.4 

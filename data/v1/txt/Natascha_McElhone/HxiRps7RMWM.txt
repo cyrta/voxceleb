@@ -1,0 +1,10 @@
+POI: 			Natascha_McElhone 
+Youtube ID: 	HxiRps7RMWM 
+Video length: 	181.7 sec 
+Set (V): 		dev 
+ 
+Natascha_McElhone/HxiRps7RMWM_0000001 31.2 43.4 
+Natascha_McElhone/HxiRps7RMWM_0000002 78.5 83.9 
+Natascha_McElhone/HxiRps7RMWM_0000003 115.8 122.0 
+Natascha_McElhone/HxiRps7RMWM_0000004 127.2 131.2 
+Natascha_McElhone/HxiRps7RMWM_0000005 170.1 174.4 

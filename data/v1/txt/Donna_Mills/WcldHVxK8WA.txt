@@ -1,0 +1,9 @@
+POI: 			Donna_Mills 
+Youtube ID: 	WcldHVxK8WA 
+Video length: 	762.9 sec 
+Set (V): 		dev 
+ 
+Donna_Mills/WcldHVxK8WA_0000001 512.3 517.4 
+Donna_Mills/WcldHVxK8WA_0000002 519.3 527.1 
+Donna_Mills/WcldHVxK8WA_0000003 536.1 541.2 
+Donna_Mills/WcldHVxK8WA_0000004 741.9 747.0 

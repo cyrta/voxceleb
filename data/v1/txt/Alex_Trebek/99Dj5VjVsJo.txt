@@ -1,0 +1,6 @@
+POI: 			Alex_Trebek 
+Youtube ID: 	99Dj5VjVsJo 
+Video length: 	116.9 sec 
+Set (V): 		dev 
+ 
+Alex_Trebek/99Dj5VjVsJo_0000001 41.7 45.7 

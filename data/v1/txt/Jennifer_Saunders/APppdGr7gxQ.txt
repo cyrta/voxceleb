@@ -1,0 +1,9 @@
+POI: 			Jennifer_Saunders 
+Youtube ID: 	APppdGr7gxQ 
+Video length: 	953.4 sec 
+Set (V): 		dev 
+ 
+Jennifer_Saunders/APppdGr7gxQ_0000001 68.2 72.4 
+Jennifer_Saunders/APppdGr7gxQ_0000002 92.8 102.8 
+Jennifer_Saunders/APppdGr7gxQ_0000003 418.4 423.3 
+Jennifer_Saunders/APppdGr7gxQ_0000004 582.3 586.3 

@@ -1,0 +1,11 @@
+POI: 			Jennifer_Saunders 
+Youtube ID: 	mZMbyWcAOuk 
+Video length: 	383.1 sec 
+Set (V): 		dev 
+ 
+Jennifer_Saunders/mZMbyWcAOuk_0000001 116.4 120.4 
+Jennifer_Saunders/mZMbyWcAOuk_0000002 185.1 190.9 
+Jennifer_Saunders/mZMbyWcAOuk_0000003 231.4 236.9 
+Jennifer_Saunders/mZMbyWcAOuk_0000004 263.0 271.6 
+Jennifer_Saunders/mZMbyWcAOuk_0000005 328.2 344.2 
+Jennifer_Saunders/mZMbyWcAOuk_0000006 372.2 376.6 

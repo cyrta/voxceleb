@@ -1,0 +1,16 @@
+POI: 			Rik_Mayall 
+Youtube ID: 	JUVui9rRBH8 
+Video length: 	417.3 sec 
+Set (V): 		dev 
+ 
+Rik_Mayall/JUVui9rRBH8_0000001 54.1 60.2 
+Rik_Mayall/JUVui9rRBH8_0000002 88.8 92.8 
+Rik_Mayall/JUVui9rRBH8_0000003 109.4 116.6 
+Rik_Mayall/JUVui9rRBH8_0000004 128.7 138.0 
+Rik_Mayall/JUVui9rRBH8_0000005 140.3 146.2 
+Rik_Mayall/JUVui9rRBH8_0000006 171.5 175.9 
+Rik_Mayall/JUVui9rRBH8_0000007 187.2 191.2 
+Rik_Mayall/JUVui9rRBH8_0000008 218.0 224.1 
+Rik_Mayall/JUVui9rRBH8_0000009 297.0 302.0 
+Rik_Mayall/JUVui9rRBH8_0000010 354.4 359.0 
+Rik_Mayall/JUVui9rRBH8_0000011 378.0 384.7 

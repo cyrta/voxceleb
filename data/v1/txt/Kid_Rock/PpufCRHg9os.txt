@@ -1,0 +1,13 @@
+POI: 			Kid_Rock 
+Youtube ID: 	PpufCRHg9os 
+Video length: 	183.0 sec 
+Set (V): 		dev 
+ 
+Kid_Rock/PpufCRHg9os_0000001 16.6 21.2 
+Kid_Rock/PpufCRHg9os_0000002 45.6 50.1 
+Kid_Rock/PpufCRHg9os_0000003 57.7 63.9 
+Kid_Rock/PpufCRHg9os_0000004 76.8 83.2 
+Kid_Rock/PpufCRHg9os_0000005 116.2 120.4 
+Kid_Rock/PpufCRHg9os_0000006 130.6 137.9 
+Kid_Rock/PpufCRHg9os_0000007 143.8 150.4 
+Kid_Rock/PpufCRHg9os_0000008 168.9 174.2 

@@ -1,0 +1,19 @@
+POI: 			Peter_Berg 
+Youtube ID: 	M5NwpQHCH2s 
+Video length: 	306.9 sec 
+Set (V): 		dev 
+ 
+Peter_Berg/M5NwpQHCH2s_0000001 08.6 16.8 
+Peter_Berg/M5NwpQHCH2s_0000002 20.8 28.0 
+Peter_Berg/M5NwpQHCH2s_0000003 29.6 35.5 
+Peter_Berg/M5NwpQHCH2s_0000004 42.8 54.2 
+Peter_Berg/M5NwpQHCH2s_0000005 59.4 65.0 
+Peter_Berg/M5NwpQHCH2s_0000006 70.4 78.3 
+Peter_Berg/M5NwpQHCH2s_0000007 82.2 93.6 
+Peter_Berg/M5NwpQHCH2s_0000008 97.1 102.7 
+Peter_Berg/M5NwpQHCH2s_0000009 172.8 179.5 
+Peter_Berg/M5NwpQHCH2s_0000010 192.4 198.0 
+Peter_Berg/M5NwpQHCH2s_0000011 201.7 206.0 
+Peter_Berg/M5NwpQHCH2s_0000012 209.2 215.4 
+Peter_Berg/M5NwpQHCH2s_0000013 221.0 227.1 
+Peter_Berg/M5NwpQHCH2s_0000014 246.5 255.8 

@@ -1,0 +1,12 @@
+POI: 			John_Amos 
+Youtube ID: 	jJsm3PVrfqQ 
+Video length: 	111.2 sec 
+Set (V): 		dev 
+ 
+John_Amos/jJsm3PVrfqQ_0000001 14.4 30.6 
+John_Amos/jJsm3PVrfqQ_0000002 30.7 37.4 
+John_Amos/jJsm3PVrfqQ_0000003 40.0 51.9 
+John_Amos/jJsm3PVrfqQ_0000004 53.4 69.0 
+John_Amos/jJsm3PVrfqQ_0000005 72.5 81.4 
+John_Amos/jJsm3PVrfqQ_0000006 82.7 87.2 
+John_Amos/jJsm3PVrfqQ_0000007 88.5 94.2 

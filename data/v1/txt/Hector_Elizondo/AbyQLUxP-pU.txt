@@ -1,0 +1,14 @@
+POI: 			Hector_Elizondo 
+Youtube ID: 	AbyQLUxP-pU 
+Video length: 	182.3 sec 
+Set (V): 		dev 
+ 
+Hector_Elizondo/AbyQLUxP-pU_0000001 20.8 26.4 
+Hector_Elizondo/AbyQLUxP-pU_0000002 27.6 33.8 
+Hector_Elizondo/AbyQLUxP-pU_0000003 34.3 40.8 
+Hector_Elizondo/AbyQLUxP-pU_0000004 49.0 54.5 
+Hector_Elizondo/AbyQLUxP-pU_0000005 61.7 73.0 
+Hector_Elizondo/AbyQLUxP-pU_0000006 81.7 85.8 
+Hector_Elizondo/AbyQLUxP-pU_0000007 97.1 102.4 
+Hector_Elizondo/AbyQLUxP-pU_0000008 142.4 146.5 
+Hector_Elizondo/AbyQLUxP-pU_0000009 148.2 156.9 

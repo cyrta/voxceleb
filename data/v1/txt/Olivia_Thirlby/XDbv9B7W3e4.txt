@@ -1,0 +1,9 @@
+POI: 			Olivia_Thirlby 
+Youtube ID: 	XDbv9B7W3e4 
+Video length: 	388.7 sec 
+Set (V): 		dev 
+ 
+Olivia_Thirlby/XDbv9B7W3e4_0000001 49.4 62.0 
+Olivia_Thirlby/XDbv9B7W3e4_0000002 73.0 80.0 
+Olivia_Thirlby/XDbv9B7W3e4_0000003 120.8 138.6 
+Olivia_Thirlby/XDbv9B7W3e4_0000004 328.6 334.8 

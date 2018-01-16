@@ -1,0 +1,8 @@
+POI: 			Moon_Bloodgood 
+Youtube ID: 	VySsJyGR-SI 
+Video length: 	644.1 sec 
+Set (V): 		dev 
+ 
+Moon_Bloodgood/VySsJyGR-SI_0000001 251.1 255.2 
+Moon_Bloodgood/VySsJyGR-SI_0000002 299.3 306.7 
+Moon_Bloodgood/VySsJyGR-SI_0000003 532.8 538.9 

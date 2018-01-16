@@ -1,0 +1,10 @@
+POI: 			Shonda_Rhimes 
+Youtube ID: 	m10Me1BG06g 
+Video length: 	188.6 sec 
+Set (V): 		dev 
+ 
+Shonda_Rhimes/m10Me1BG06g_0000001 24.6 30.4 
+Shonda_Rhimes/m10Me1BG06g_0000002 41.3 50.4 
+Shonda_Rhimes/m10Me1BG06g_0000003 69.1 73.8 
+Shonda_Rhimes/m10Me1BG06g_0000004 139.2 143.2 
+Shonda_Rhimes/m10Me1BG06g_0000005 147.6 153.1 

@@ -1,0 +1,14 @@
+POI: 			Jacqueline_Emerson 
+Youtube ID: 	tcIJuvFWv7Y 
+Video length: 	225.0 sec 
+Set (V): 		dev 
+ 
+Jacqueline_Emerson/tcIJuvFWv7Y_0000001 25.3 30.0 
+Jacqueline_Emerson/tcIJuvFWv7Y_0000002 30.8 36.2 
+Jacqueline_Emerson/tcIJuvFWv7Y_0000003 50.9 64.2 
+Jacqueline_Emerson/tcIJuvFWv7Y_0000004 74.8 86.5 
+Jacqueline_Emerson/tcIJuvFWv7Y_0000005 91.6 96.8 
+Jacqueline_Emerson/tcIJuvFWv7Y_0000006 114.6 125.5 
+Jacqueline_Emerson/tcIJuvFWv7Y_0000007 145.6 152.5 
+Jacqueline_Emerson/tcIJuvFWv7Y_0000008 170.4 177.0 
+Jacqueline_Emerson/tcIJuvFWv7Y_0000009 170.1 177.9 

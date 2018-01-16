@@ -1,0 +1,13 @@
+POI: 			Amy_Schumer 
+Youtube ID: 	emBqtxIl2FY 
+Video length: 	931.1 sec 
+Set (V): 		dev 
+ 
+Amy_Schumer/emBqtxIl2FY_0000001 93.9 100.2 
+Amy_Schumer/emBqtxIl2FY_0000002 202.6 207.2 
+Amy_Schumer/emBqtxIl2FY_0000003 257.4 264.4 
+Amy_Schumer/emBqtxIl2FY_0000004 353.4 358.7 
+Amy_Schumer/emBqtxIl2FY_0000005 652.9 657.0 
+Amy_Schumer/emBqtxIl2FY_0000006 722.6 726.8 
+Amy_Schumer/emBqtxIl2FY_0000007 761.8 767.0 
+Amy_Schumer/emBqtxIl2FY_0000008 860.6 868.4 

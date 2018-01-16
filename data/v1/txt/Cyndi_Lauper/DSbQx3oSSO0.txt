@@ -1,0 +1,7 @@
+POI: 			Cyndi_Lauper 
+Youtube ID: 	DSbQx3oSSO0 
+Video length: 	573.6 sec 
+Set (V): 		dev 
+ 
+Cyndi_Lauper/DSbQx3oSSO0_0000001 54.1 60.4 
+Cyndi_Lauper/DSbQx3oSSO0_0000002 156.4 161.4 

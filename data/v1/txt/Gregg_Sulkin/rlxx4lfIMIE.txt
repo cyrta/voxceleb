@@ -1,0 +1,15 @@
+POI: 			Gregg_Sulkin 
+Youtube ID: 	rlxx4lfIMIE 
+Video length: 	468.8 sec 
+Set (V): 		dev 
+ 
+Gregg_Sulkin/rlxx4lfIMIE_0000001 32.7 43.6 
+Gregg_Sulkin/rlxx4lfIMIE_0000002 54.4 58.7 
+Gregg_Sulkin/rlxx4lfIMIE_0000003 70.2 74.6 
+Gregg_Sulkin/rlxx4lfIMIE_0000004 102.0 107.4 
+Gregg_Sulkin/rlxx4lfIMIE_0000005 183.7 195.0 
+Gregg_Sulkin/rlxx4lfIMIE_0000006 197.6 211.4 
+Gregg_Sulkin/rlxx4lfIMIE_0000007 281.2 288.1 
+Gregg_Sulkin/rlxx4lfIMIE_0000008 317.4 322.0 
+Gregg_Sulkin/rlxx4lfIMIE_0000009 394.7 401.7 
+Gregg_Sulkin/rlxx4lfIMIE_0000010 424.4 428.9 

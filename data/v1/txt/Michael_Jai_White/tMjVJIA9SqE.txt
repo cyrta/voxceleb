@@ -1,0 +1,13 @@
+POI: 			Michael_Jai_White 
+Youtube ID: 	tMjVJIA9SqE 
+Video length: 	296.1 sec 
+Set (V): 		dev 
+ 
+Michael_Jai_White/tMjVJIA9SqE_0000001 50.8 55.3 
+Michael_Jai_White/tMjVJIA9SqE_0000002 89.6 93.6 
+Michael_Jai_White/tMjVJIA9SqE_0000003 128.5 133.9 
+Michael_Jai_White/tMjVJIA9SqE_0000004 134.6 138.7 
+Michael_Jai_White/tMjVJIA9SqE_0000005 139.2 143.8 
+Michael_Jai_White/tMjVJIA9SqE_0000006 164.3 172.6 
+Michael_Jai_White/tMjVJIA9SqE_0000007 228.7 233.5 
+Michael_Jai_White/tMjVJIA9SqE_0000008 284.6 289.4 

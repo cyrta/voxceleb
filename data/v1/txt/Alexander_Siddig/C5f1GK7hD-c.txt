@@ -1,0 +1,36 @@
+POI: 			Alexander_Siddig 
+Youtube ID: 	C5f1GK7hD-c 
+Video length: 	554.1 sec 
+Set (V): 		dev 
+ 
+Alexander_Siddig/C5f1GK7hD-c_0000001 53.0 64.1 
+Alexander_Siddig/C5f1GK7hD-c_0000002 65.8 73.6 
+Alexander_Siddig/C5f1GK7hD-c_0000003 77.4 95.5 
+Alexander_Siddig/C5f1GK7hD-c_0000004 104.4 109.3 
+Alexander_Siddig/C5f1GK7hD-c_0000005 109.8 114.1 
+Alexander_Siddig/C5f1GK7hD-c_0000006 134.0 140.8 
+Alexander_Siddig/C5f1GK7hD-c_0000007 141.9 151.1 
+Alexander_Siddig/C5f1GK7hD-c_0000008 161.9 168.1 
+Alexander_Siddig/C5f1GK7hD-c_0000009 169.0 176.0 
+Alexander_Siddig/C5f1GK7hD-c_0000010 177.0 186.5 
+Alexander_Siddig/C5f1GK7hD-c_0000011 188.9 193.4 
+Alexander_Siddig/C5f1GK7hD-c_0000012 202.3 206.8 
+Alexander_Siddig/C5f1GK7hD-c_0000013 208.9 216.3 
+Alexander_Siddig/C5f1GK7hD-c_0000014 228.9 233.4 
+Alexander_Siddig/C5f1GK7hD-c_0000015 248.3 253.9 
+Alexander_Siddig/C5f1GK7hD-c_0000016 278.4 291.3 
+Alexander_Siddig/C5f1GK7hD-c_0000017 323.8 328.4 
+Alexander_Siddig/C5f1GK7hD-c_0000018 339.0 346.2 
+Alexander_Siddig/C5f1GK7hD-c_0000019 369.1 387.8 
+Alexander_Siddig/C5f1GK7hD-c_0000020 388.9 393.6 
+Alexander_Siddig/C5f1GK7hD-c_0000021 399.8 409.9 
+Alexander_Siddig/C5f1GK7hD-c_0000022 411.6 415.8 
+Alexander_Siddig/C5f1GK7hD-c_0000023 420.7 424.8 
+Alexander_Siddig/C5f1GK7hD-c_0000024 426.8 437.1 
+Alexander_Siddig/C5f1GK7hD-c_0000025 437.2 447.2 
+Alexander_Siddig/C5f1GK7hD-c_0000026 450.3 456.8 
+Alexander_Siddig/C5f1GK7hD-c_0000027 482.3 486.4 
+Alexander_Siddig/C5f1GK7hD-c_0000028 500.0 504.5 
+Alexander_Siddig/C5f1GK7hD-c_0000029 512.4 521.9 
+Alexander_Siddig/C5f1GK7hD-c_0000030 522.2 532.9 
+Alexander_Siddig/C5f1GK7hD-c_0000031 531.3 552.4 

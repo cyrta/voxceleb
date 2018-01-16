@@ -1,0 +1,17 @@
+POI: 			Jessica_Lowndes 
+Youtube ID: 	UlQorhA7lVA 
+Video length: 	356.1 sec 
+Set (V): 		dev 
+ 
+Jessica_Lowndes/UlQorhA7lVA_0000001 46.4 50.4 
+Jessica_Lowndes/UlQorhA7lVA_0000002 50.6 55.9 
+Jessica_Lowndes/UlQorhA7lVA_0000003 71.8 76.9 
+Jessica_Lowndes/UlQorhA7lVA_0000004 94.5 99.5 
+Jessica_Lowndes/UlQorhA7lVA_0000005 151.7 156.0 
+Jessica_Lowndes/UlQorhA7lVA_0000006 223.8 232.1 
+Jessica_Lowndes/UlQorhA7lVA_0000007 254.2 258.2 
+Jessica_Lowndes/UlQorhA7lVA_0000008 261.7 268.6 
+Jessica_Lowndes/UlQorhA7lVA_0000009 272.2 277.2 
+Jessica_Lowndes/UlQorhA7lVA_0000010 306.8 318.8 
+Jessica_Lowndes/UlQorhA7lVA_0000011 316.7 327.2 
+Jessica_Lowndes/UlQorhA7lVA_0000012 328.4 334.8 

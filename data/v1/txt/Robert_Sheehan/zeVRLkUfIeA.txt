@@ -1,0 +1,10 @@
+POI: 			Robert_Sheehan 
+Youtube ID: 	zeVRLkUfIeA 
+Video length: 	348.4 sec 
+Set (V): 		dev 
+ 
+Robert_Sheehan/zeVRLkUfIeA_0000001 66.0 77.0 
+Robert_Sheehan/zeVRLkUfIeA_0000002 218.7 224.6 
+Robert_Sheehan/zeVRLkUfIeA_0000003 313.3 318.3 
+Robert_Sheehan/zeVRLkUfIeA_0000004 327.0 334.6 
+Robert_Sheehan/zeVRLkUfIeA_0000005 340.0 345.6 

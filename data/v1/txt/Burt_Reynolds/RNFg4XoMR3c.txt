@@ -1,0 +1,7 @@
+POI: 			Burt_Reynolds 
+Youtube ID: 	RNFg4XoMR3c 
+Video length: 	938.9 sec 
+Set (V): 		dev 
+ 
+Burt_Reynolds/RNFg4XoMR3c_0000001 564.0 568.5 
+Burt_Reynolds/RNFg4XoMR3c_0000002 730.4 734.4 

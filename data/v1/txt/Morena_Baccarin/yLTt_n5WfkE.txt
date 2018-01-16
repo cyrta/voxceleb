@@ -1,0 +1,11 @@
+POI: 			Morena_Baccarin 
+Youtube ID: 	yLTt_n5WfkE 
+Video length: 	340.4 sec 
+Set (V): 		dev 
+ 
+Morena_Baccarin/yLTt_n5WfkE_0000001 128.6 133.4 
+Morena_Baccarin/yLTt_n5WfkE_0000002 155.6 167.3 
+Morena_Baccarin/yLTt_n5WfkE_0000003 172.1 176.2 
+Morena_Baccarin/yLTt_n5WfkE_0000004 196.4 203.6 
+Morena_Baccarin/yLTt_n5WfkE_0000005 273.9 278.4 
+Morena_Baccarin/yLTt_n5WfkE_0000006 293.6 307.2 

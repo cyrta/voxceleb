@@ -1,0 +1,8 @@
+POI: 			Jean-Paul_Belmondo 
+Youtube ID: 	F18pTIWC0qE 
+Video length: 	194.1 sec 
+Set (V): 		dev 
+ 
+Jean-Paul_Belmondo/F18pTIWC0qE_0000001 115.5 125.5 
+Jean-Paul_Belmondo/F18pTIWC0qE_0000002 129.9 134.4 
+Jean-Paul_Belmondo/F18pTIWC0qE_0000003 170.8 180.8 

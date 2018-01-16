@@ -1,0 +1,29 @@
+POI: 			Laura_Haddock 
+Youtube ID: 	T032sFTwP-8 
+Video length: 	547.4 sec 
+Set (V): 		dev 
+ 
+Laura_Haddock/T032sFTwP-8_0000001 17.2 30.2 
+Laura_Haddock/T032sFTwP-8_0000002 32.2 37.9 
+Laura_Haddock/T032sFTwP-8_0000003 38.6 50.4 
+Laura_Haddock/T032sFTwP-8_0000004 54.8 65.3 
+Laura_Haddock/T032sFTwP-8_0000005 77.7 82.4 
+Laura_Haddock/T032sFTwP-8_0000006 82.9 90.9 
+Laura_Haddock/T032sFTwP-8_0000007 112.2 132.0 
+Laura_Haddock/T032sFTwP-8_0000008 132.2 144.5 
+Laura_Haddock/T032sFTwP-8_0000009 174.0 178.4 
+Laura_Haddock/T032sFTwP-8_0000010 179.1 190.7 
+Laura_Haddock/T032sFTwP-8_0000011 194.1 208.1 
+Laura_Haddock/T032sFTwP-8_0000012 208.8 230.2 
+Laura_Haddock/T032sFTwP-8_0000013 231.3 236.4 
+Laura_Haddock/T032sFTwP-8_0000014 283.9 292.2 
+Laura_Haddock/T032sFTwP-8_0000015 303.8 308.3 
+Laura_Haddock/T032sFTwP-8_0000016 310.2 319.9 
+Laura_Haddock/T032sFTwP-8_0000017 346.5 351.3 
+Laura_Haddock/T032sFTwP-8_0000018 387.3 401.7 
+Laura_Haddock/T032sFTwP-8_0000019 471.9 478.2 
+Laura_Haddock/T032sFTwP-8_0000020 487.9 493.0 
+Laura_Haddock/T032sFTwP-8_0000021 497.3 501.4 
+Laura_Haddock/T032sFTwP-8_0000022 502.2 508.6 
+Laura_Haddock/T032sFTwP-8_0000023 518.3 536.1 
+Laura_Haddock/T032sFTwP-8_0000024 540.8 545.8 

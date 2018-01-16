@@ -1,0 +1,18 @@
+POI: 			Mia_Wasikowska 
+Youtube ID: 	eXsEdMZllLE 
+Video length: 	350.4 sec 
+Set (V): 		dev 
+ 
+Mia_Wasikowska/eXsEdMZllLE_0000001 00.9 16.5 
+Mia_Wasikowska/eXsEdMZllLE_0000002 44.9 52.5 
+Mia_Wasikowska/eXsEdMZllLE_0000003 53.4 58.6 
+Mia_Wasikowska/eXsEdMZllLE_0000004 69.6 75.2 
+Mia_Wasikowska/eXsEdMZllLE_0000005 82.4 88.0 
+Mia_Wasikowska/eXsEdMZllLE_0000006 109.8 115.4 
+Mia_Wasikowska/eXsEdMZllLE_0000007 120.6 127.3 
+Mia_Wasikowska/eXsEdMZllLE_0000008 144.8 157.6 
+Mia_Wasikowska/eXsEdMZllLE_0000009 202.6 212.2 
+Mia_Wasikowska/eXsEdMZllLE_0000010 250.4 255.0 
+Mia_Wasikowska/eXsEdMZllLE_0000011 261.2 266.4 
+Mia_Wasikowska/eXsEdMZllLE_0000012 291.4 296.7 
+Mia_Wasikowska/eXsEdMZllLE_0000013 333.1 340.8 

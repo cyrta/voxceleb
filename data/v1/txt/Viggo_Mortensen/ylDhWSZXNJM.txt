@@ -1,0 +1,11 @@
+POI: 			Viggo_Mortensen 
+Youtube ID: 	ylDhWSZXNJM 
+Video length: 	335.3 sec 
+Set (V): 		dev 
+ 
+Viggo_Mortensen/ylDhWSZXNJM_0000001 97.0 103.5 
+Viggo_Mortensen/ylDhWSZXNJM_0000002 138.4 143.9 
+Viggo_Mortensen/ylDhWSZXNJM_0000003 177.3 183.9 
+Viggo_Mortensen/ylDhWSZXNJM_0000004 215.9 222.1 
+Viggo_Mortensen/ylDhWSZXNJM_0000005 259.0 263.4 
+Viggo_Mortensen/ylDhWSZXNJM_0000006 296.2 304.0 

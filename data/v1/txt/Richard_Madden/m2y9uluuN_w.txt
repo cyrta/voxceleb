@@ -1,0 +1,9 @@
+POI: 			Richard_Madden 
+Youtube ID: 	m2y9uluuN_w 
+Video length: 	153.6 sec 
+Set (V): 		dev 
+ 
+Richard_Madden/m2y9uluuN_w_0000001 20.8 30.8 
+Richard_Madden/m2y9uluuN_w_0000002 44.5 51.4 
+Richard_Madden/m2y9uluuN_w_0000003 83.7 89.6 
+Richard_Madden/m2y9uluuN_w_0000004 109.8 115.3 

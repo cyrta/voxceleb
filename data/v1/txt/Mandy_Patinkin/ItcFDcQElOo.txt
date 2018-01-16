@@ -1,0 +1,12 @@
+POI: 			Mandy_Patinkin 
+Youtube ID: 	ItcFDcQElOo 
+Video length: 	671.8 sec 
+Set (V): 		dev 
+ 
+Mandy_Patinkin/ItcFDcQElOo_0000001 135.9 140.4 
+Mandy_Patinkin/ItcFDcQElOo_0000002 194.7 204.5 
+Mandy_Patinkin/ItcFDcQElOo_0000003 241.8 247.9 
+Mandy_Patinkin/ItcFDcQElOo_0000004 428.9 434.7 
+Mandy_Patinkin/ItcFDcQElOo_0000005 492.8 497.2 
+Mandy_Patinkin/ItcFDcQElOo_0000006 541.5 555.6 
+Mandy_Patinkin/ItcFDcQElOo_0000007 579.4 583.7 

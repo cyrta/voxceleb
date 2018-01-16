@@ -1,0 +1,26 @@
+POI: 			Jennifer_Carpenter 
+Youtube ID: 	pRx_gYt4zr4 
+Video length: 	462.7 sec 
+Set (V): 		dev 
+ 
+Jennifer_Carpenter/pRx_gYt4zr4_0000001 16.7 21.1 
+Jennifer_Carpenter/pRx_gYt4zr4_0000002 21.7 34.3 
+Jennifer_Carpenter/pRx_gYt4zr4_0000003 34.8 41.8 
+Jennifer_Carpenter/pRx_gYt4zr4_0000004 44.4 51.9 
+Jennifer_Carpenter/pRx_gYt4zr4_0000005 55.2 59.5 
+Jennifer_Carpenter/pRx_gYt4zr4_0000006 61.8 66.4 
+Jennifer_Carpenter/pRx_gYt4zr4_0000007 80.0 85.4 
+Jennifer_Carpenter/pRx_gYt4zr4_0000008 91.5 98.2 
+Jennifer_Carpenter/pRx_gYt4zr4_0000009 101.4 110.8 
+Jennifer_Carpenter/pRx_gYt4zr4_0000010 117.5 125.3 
+Jennifer_Carpenter/pRx_gYt4zr4_0000011 191.8 201.2 
+Jennifer_Carpenter/pRx_gYt4zr4_0000012 202.1 206.4 
+Jennifer_Carpenter/pRx_gYt4zr4_0000013 188.2 201.4 
+Jennifer_Carpenter/pRx_gYt4zr4_0000014 201.7 206.4 
+Jennifer_Carpenter/pRx_gYt4zr4_0000015 211.0 216.4 
+Jennifer_Carpenter/pRx_gYt4zr4_0000016 283.8 298.6 
+Jennifer_Carpenter/pRx_gYt4zr4_0000017 308.0 312.4 
+Jennifer_Carpenter/pRx_gYt4zr4_0000018 313.0 318.5 
+Jennifer_Carpenter/pRx_gYt4zr4_0000019 436.8 443.5 
+Jennifer_Carpenter/pRx_gYt4zr4_0000020 444.2 448.5 
+Jennifer_Carpenter/pRx_gYt4zr4_0000021 448.9 455.2 

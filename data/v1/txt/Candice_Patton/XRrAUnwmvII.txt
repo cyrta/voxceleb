@@ -1,0 +1,11 @@
+POI: 			Candice_Patton 
+Youtube ID: 	XRrAUnwmvII 
+Video length: 	155.2 sec 
+Set (V): 		dev 
+ 
+Candice_Patton/XRrAUnwmvII_0000001 08.7 24.4 
+Candice_Patton/XRrAUnwmvII_0000002 32.5 36.6 
+Candice_Patton/XRrAUnwmvII_0000003 37.1 46.9 
+Candice_Patton/XRrAUnwmvII_0000004 63.3 69.0 
+Candice_Patton/XRrAUnwmvII_0000005 98.2 112.5 
+Candice_Patton/XRrAUnwmvII_0000006 129.3 140.0 

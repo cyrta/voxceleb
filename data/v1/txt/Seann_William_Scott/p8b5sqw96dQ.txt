@@ -1,0 +1,14 @@
+POI: 			Seann_William_Scott 
+Youtube ID: 	p8b5sqw96dQ 
+Video length: 	246.6 sec 
+Set (V): 		dev 
+ 
+Seann_William_Scott/p8b5sqw96dQ_0000001 62.2 69.5 
+Seann_William_Scott/p8b5sqw96dQ_0000002 73.5 79.0 
+Seann_William_Scott/p8b5sqw96dQ_0000003 119.1 124.1 
+Seann_William_Scott/p8b5sqw96dQ_0000004 130.9 140.6 
+Seann_William_Scott/p8b5sqw96dQ_0000005 141.0 149.9 
+Seann_William_Scott/p8b5sqw96dQ_0000006 166.7 172.6 
+Seann_William_Scott/p8b5sqw96dQ_0000007 177.4 185.8 
+Seann_William_Scott/p8b5sqw96dQ_0000008 199.6 204.6 
+Seann_William_Scott/p8b5sqw96dQ_0000009 225.3 232.1 

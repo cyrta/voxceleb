@@ -1,0 +1,8 @@
+POI: 			Julie_Walters 
+Youtube ID: 	zQ7sjFlPQ_M 
+Video length: 	121.1 sec 
+Set (V): 		dev 
+ 
+Julie_Walters/zQ7sjFlPQ_M_0000001 14.2 20.5 
+Julie_Walters/zQ7sjFlPQ_M_0000002 34.9 44.5 
+Julie_Walters/zQ7sjFlPQ_M_0000003 87.1 91.8 

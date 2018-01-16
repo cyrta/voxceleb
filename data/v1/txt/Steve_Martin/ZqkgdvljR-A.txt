@@ -1,0 +1,8 @@
+POI: 			Steve_Martin 
+Youtube ID: 	ZqkgdvljR-A 
+Video length: 	109.8 sec 
+Set (V): 		dev 
+ 
+Steve_Martin/ZqkgdvljR-A_0000001 38.2 44.5 
+Steve_Martin/ZqkgdvljR-A_0000002 52.0 57.5 
+Steve_Martin/ZqkgdvljR-A_0000003 93.1 98.4 

@@ -1,0 +1,10 @@
+POI: 			Riz_Ahmed 
+Youtube ID: 	00C50DI8uZU 
+Video length: 	276.5 sec 
+Set (V): 		dev 
+ 
+Riz_Ahmed/00C50DI8uZU_0000001 17.5 22.8 
+Riz_Ahmed/00C50DI8uZU_0000002 36.0 52.8 
+Riz_Ahmed/00C50DI8uZU_0000003 70.2 85.8 
+Riz_Ahmed/00C50DI8uZU_0000004 91.8 100.5 
+Riz_Ahmed/00C50DI8uZU_0000005 215.8 234.7 

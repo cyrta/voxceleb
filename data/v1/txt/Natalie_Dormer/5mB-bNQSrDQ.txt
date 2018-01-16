@@ -1,0 +1,9 @@
+POI: 			Natalie_Dormer 
+Youtube ID: 	5mB-bNQSrDQ 
+Video length: 	213.6 sec 
+Set (V): 		dev 
+ 
+Natalie_Dormer/5mB-bNQSrDQ_0000001 83.0 92.0 
+Natalie_Dormer/5mB-bNQSrDQ_0000002 102.5 133.5 
+Natalie_Dormer/5mB-bNQSrDQ_0000003 138.4 147.7 
+Natalie_Dormer/5mB-bNQSrDQ_0000004 155.0 166.8 

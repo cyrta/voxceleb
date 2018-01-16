@@ -1,0 +1,8 @@
+POI: 			Naomie_Harris 
+Youtube ID: 	Il01vhe1WRg 
+Video length: 	196.4 sec 
+Set (V): 		dev 
+ 
+Naomie_Harris/Il01vhe1WRg_0000001 22.6 26.8 
+Naomie_Harris/Il01vhe1WRg_0000002 44.8 51.9 
+Naomie_Harris/Il01vhe1WRg_0000003 65.4 77.2 

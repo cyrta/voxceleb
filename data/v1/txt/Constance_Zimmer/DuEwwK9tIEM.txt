@@ -1,0 +1,11 @@
+POI: 			Constance_Zimmer 
+Youtube ID: 	DuEwwK9tIEM 
+Video length: 	169.6 sec 
+Set (V): 		dev 
+ 
+Constance_Zimmer/DuEwwK9tIEM_0000001 10.6 17.0 
+Constance_Zimmer/DuEwwK9tIEM_0000002 32.2 57.1 
+Constance_Zimmer/DuEwwK9tIEM_0000003 96.8 108.6 
+Constance_Zimmer/DuEwwK9tIEM_0000004 111.9 118.8 
+Constance_Zimmer/DuEwwK9tIEM_0000005 127.2 147.6 
+Constance_Zimmer/DuEwwK9tIEM_0000006 149.8 155.8 

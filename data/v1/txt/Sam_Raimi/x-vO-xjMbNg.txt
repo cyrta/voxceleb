@@ -1,0 +1,8 @@
+POI: 			Sam_Raimi 
+Youtube ID: 	x-vO-xjMbNg 
+Video length: 	111.2 sec 
+Set (V): 		dev 
+ 
+Sam_Raimi/x-vO-xjMbNg_0000001 06.2 28.2 
+Sam_Raimi/x-vO-xjMbNg_0000002 38.7 62.3 
+Sam_Raimi/x-vO-xjMbNg_0000003 80.9 96.4 

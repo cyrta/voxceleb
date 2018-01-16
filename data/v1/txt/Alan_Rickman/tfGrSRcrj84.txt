@@ -1,0 +1,15 @@
+POI: 			Alan_Rickman 
+Youtube ID: 	tfGrSRcrj84 
+Video length: 	410.4 sec 
+Set (V): 		dev 
+ 
+Alan_Rickman/tfGrSRcrj84_0000001 110.3 114.4 
+Alan_Rickman/tfGrSRcrj84_0000002 250.1 254.2 
+Alan_Rickman/tfGrSRcrj84_0000003 257.5 262.1 
+Alan_Rickman/tfGrSRcrj84_0000004 310.2 316.7 
+Alan_Rickman/tfGrSRcrj84_0000005 318.0 324.7 
+Alan_Rickman/tfGrSRcrj84_0000006 332.0 336.4 
+Alan_Rickman/tfGrSRcrj84_0000007 353.5 359.6 
+Alan_Rickman/tfGrSRcrj84_0000008 369.2 376.1 
+Alan_Rickman/tfGrSRcrj84_0000009 332.0 336.4 
+Alan_Rickman/tfGrSRcrj84_0000010 382.9 388.9 

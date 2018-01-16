@@ -1,0 +1,12 @@
+POI: 			Maya_Rudolph 
+Youtube ID: 	3fWgwa6UlHM 
+Video length: 	208.6 sec 
+Set (V): 		dev 
+ 
+Maya_Rudolph/3fWgwa6UlHM_0000001 18.0 24.5 
+Maya_Rudolph/3fWgwa6UlHM_0000002 37.6 42.0 
+Maya_Rudolph/3fWgwa6UlHM_0000003 51.9 61.8 
+Maya_Rudolph/3fWgwa6UlHM_0000004 78.1 91.6 
+Maya_Rudolph/3fWgwa6UlHM_0000005 133.3 138.4 
+Maya_Rudolph/3fWgwa6UlHM_0000006 139.1 146.0 
+Maya_Rudolph/3fWgwa6UlHM_0000007 158.7 164.1 

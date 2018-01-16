@@ -1,0 +1,7 @@
+POI: 			Diane_Kruger 
+Youtube ID: 	CEod4dSkMIY 
+Video length: 	159.5 sec 
+Set (V): 		dev 
+ 
+Diane_Kruger/CEod4dSkMIY_0000001 38.8 43.6 
+Diane_Kruger/CEod4dSkMIY_0000002 69.6 76.6 

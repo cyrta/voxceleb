@@ -1,0 +1,12 @@
+POI: 			Marion_Cotillard 
+Youtube ID: 	OTyG2Q71Src 
+Video length: 	807.0 sec 
+Set (V): 		dev 
+ 
+Marion_Cotillard/OTyG2Q71Src_0000001 76.4 80.6 
+Marion_Cotillard/OTyG2Q71Src_0000002 107.0 111.3 
+Marion_Cotillard/OTyG2Q71Src_0000003 116.4 121.2 
+Marion_Cotillard/OTyG2Q71Src_0000004 68.6 74.3 
+Marion_Cotillard/OTyG2Q71Src_0000005 505.9 510.2 
+Marion_Cotillard/OTyG2Q71Src_0000006 540.0 546.8 
+Marion_Cotillard/OTyG2Q71Src_0000007 557.2 561.8 

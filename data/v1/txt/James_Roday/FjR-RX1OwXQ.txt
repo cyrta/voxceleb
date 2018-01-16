@@ -1,0 +1,17 @@
+POI: 			James_Roday 
+Youtube ID: 	FjR-RX1OwXQ 
+Video length: 	262.1 sec 
+Set (V): 		dev 
+ 
+James_Roday/FjR-RX1OwXQ_0000001 17.7 23.2 
+James_Roday/FjR-RX1OwXQ_0000002 54.3 60.5 
+James_Roday/FjR-RX1OwXQ_0000003 68.0 73.0 
+James_Roday/FjR-RX1OwXQ_0000004 85.0 89.7 
+James_Roday/FjR-RX1OwXQ_0000005 91.4 97.6 
+James_Roday/FjR-RX1OwXQ_0000006 99.3 105.5 
+James_Roday/FjR-RX1OwXQ_0000007 133.5 138.2 
+James_Roday/FjR-RX1OwXQ_0000008 139.4 143.9 
+James_Roday/FjR-RX1OwXQ_0000009 167.6 178.2 
+James_Roday/FjR-RX1OwXQ_0000010 191.0 199.3 
+James_Roday/FjR-RX1OwXQ_0000011 204.2 209.2 
+James_Roday/FjR-RX1OwXQ_0000012 251.8 257.0 

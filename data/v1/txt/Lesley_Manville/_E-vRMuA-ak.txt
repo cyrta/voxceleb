@@ -1,0 +1,11 @@
+POI: 			Lesley_Manville 
+Youtube ID: 	_E-vRMuA-ak 
+Video length: 	80.1 sec 
+Set (V): 		dev 
+ 
+Lesley_Manville/_E-vRMuA-ak_0000001 08.7 12.7 
+Lesley_Manville/_E-vRMuA-ak_0000002 25.8 32.8 
+Lesley_Manville/_E-vRMuA-ak_0000003 33.6 40.1 
+Lesley_Manville/_E-vRMuA-ak_0000004 40.2 47.8 
+Lesley_Manville/_E-vRMuA-ak_0000005 55.2 64.4 
+Lesley_Manville/_E-vRMuA-ak_0000006 65.3 69.8 

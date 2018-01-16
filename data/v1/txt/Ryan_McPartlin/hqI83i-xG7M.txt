@@ -1,0 +1,13 @@
+POI: 			Ryan_McPartlin 
+Youtube ID: 	hqI83i-xG7M 
+Video length: 	192.2 sec 
+Set (V): 		dev 
+ 
+Ryan_McPartlin/hqI83i-xG7M_0000001 09.1 16.2 
+Ryan_McPartlin/hqI83i-xG7M_0000002 29.4 35.0 
+Ryan_McPartlin/hqI83i-xG7M_0000003 44.6 49.0 
+Ryan_McPartlin/hqI83i-xG7M_0000004 73.6 82.4 
+Ryan_McPartlin/hqI83i-xG7M_0000005 100.2 115.8 
+Ryan_McPartlin/hqI83i-xG7M_0000006 139.9 149.8 
+Ryan_McPartlin/hqI83i-xG7M_0000007 166.1 171.2 
+Ryan_McPartlin/hqI83i-xG7M_0000008 180.4 185.7 

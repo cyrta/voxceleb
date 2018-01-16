@@ -1,0 +1,10 @@
+POI: 			Jay_Baruchel 
+Youtube ID: 	QGHz7nNKYs8 
+Video length: 	147.3 sec 
+Set (V): 		dev 
+ 
+Jay_Baruchel/QGHz7nNKYs8_0000001 25.3 31.2 
+Jay_Baruchel/QGHz7nNKYs8_0000002 31.4 35.4 
+Jay_Baruchel/QGHz7nNKYs8_0000003 35.8 43.2 
+Jay_Baruchel/QGHz7nNKYs8_0000004 53.3 57.6 
+Jay_Baruchel/QGHz7nNKYs8_0000005 60.9 66.9 

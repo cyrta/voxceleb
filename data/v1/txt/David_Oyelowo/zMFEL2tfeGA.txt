@@ -1,0 +1,10 @@
+POI: 			David_Oyelowo 
+Youtube ID: 	zMFEL2tfeGA 
+Video length: 	170.5 sec 
+Set (V): 		dev 
+ 
+David_Oyelowo/zMFEL2tfeGA_0000001 40.4 46.0 
+David_Oyelowo/zMFEL2tfeGA_0000002 49.5 54.1 
+David_Oyelowo/zMFEL2tfeGA_0000003 80.1 84.4 
+David_Oyelowo/zMFEL2tfeGA_0000004 95.4 102.2 
+David_Oyelowo/zMFEL2tfeGA_0000005 113.7 119.1 

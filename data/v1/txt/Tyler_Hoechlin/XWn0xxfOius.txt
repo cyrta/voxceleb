@@ -1,0 +1,13 @@
+POI: 			Tyler_Hoechlin 
+Youtube ID: 	XWn0xxfOius 
+Video length: 	366.4 sec 
+Set (V): 		dev 
+ 
+Tyler_Hoechlin/XWn0xxfOius_0000001 84.4 89.2 
+Tyler_Hoechlin/XWn0xxfOius_0000002 93.9 102.0 
+Tyler_Hoechlin/XWn0xxfOius_0000003 155.1 160.0 
+Tyler_Hoechlin/XWn0xxfOius_0000004 167.6 172.5 
+Tyler_Hoechlin/XWn0xxfOius_0000005 200.4 221.8 
+Tyler_Hoechlin/XWn0xxfOius_0000006 231.9 239.8 
+Tyler_Hoechlin/XWn0xxfOius_0000007 336.0 342.2 
+Tyler_Hoechlin/XWn0xxfOius_0000008 344.0 354.8 

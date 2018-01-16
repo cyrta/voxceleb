@@ -1,0 +1,15 @@
+POI: 			Emily_Atack 
+Youtube ID: 	d2Lasybvo7s 
+Video length: 	235.7 sec 
+Set (V): 		test 
+ 
+Emily_Atack/d2Lasybvo7s_0000001 02.7 11.0 
+Emily_Atack/d2Lasybvo7s_0000002 11.9 28.2 
+Emily_Atack/d2Lasybvo7s_0000003 31.7 47.1 
+Emily_Atack/d2Lasybvo7s_0000004 47.9 72.2 
+Emily_Atack/d2Lasybvo7s_0000005 75.4 92.9 
+Emily_Atack/d2Lasybvo7s_0000006 110.8 142.1 
+Emily_Atack/d2Lasybvo7s_0000007 148.2 166.2 
+Emily_Atack/d2Lasybvo7s_0000008 171.2 190.2 
+Emily_Atack/d2Lasybvo7s_0000009 201.0 220.1 
+Emily_Atack/d2Lasybvo7s_0000010 223.0 230.2 

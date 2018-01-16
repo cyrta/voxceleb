@@ -1,0 +1,11 @@
+POI: 			Luke_Arnold 
+Youtube ID: 	vqgSiK7VAis 
+Video length: 	238.6 sec 
+Set (V): 		dev 
+ 
+Luke_Arnold/vqgSiK7VAis_0000001 06.1 29.5 
+Luke_Arnold/vqgSiK7VAis_0000002 30.9 41.2 
+Luke_Arnold/vqgSiK7VAis_0000003 46.2 61.0 
+Luke_Arnold/vqgSiK7VAis_0000004 61.4 69.6 
+Luke_Arnold/vqgSiK7VAis_0000005 75.5 85.6 
+Luke_Arnold/vqgSiK7VAis_0000006 86.5 91.5 

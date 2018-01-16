@@ -1,0 +1,8 @@
+POI: 			Chazz_Palminteri 
+Youtube ID: 	nM-OJzRHMfU 
+Video length: 	128.2 sec 
+Set (V): 		dev 
+ 
+Chazz_Palminteri/nM-OJzRHMfU_0000001 28.2 32.3 
+Chazz_Palminteri/nM-OJzRHMfU_0000002 65.3 71.9 
+Chazz_Palminteri/nM-OJzRHMfU_0000003 106.6 113.2 

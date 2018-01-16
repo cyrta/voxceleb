@@ -1,0 +1,8 @@
+POI: 			Kathryn_McCormick 
+Youtube ID: 	sKLVuGUGZKs 
+Video length: 	180.3 sec 
+Set (V): 		dev 
+ 
+Kathryn_McCormick/sKLVuGUGZKs_0000001 125.0 132.4 
+Kathryn_McCormick/sKLVuGUGZKs_0000002 160.2 169.5 
+Kathryn_McCormick/sKLVuGUGZKs_0000003 169.6 173.8 

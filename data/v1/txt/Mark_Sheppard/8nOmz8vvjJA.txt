@@ -1,0 +1,8 @@
+POI: 			Mark_Sheppard 
+Youtube ID: 	8nOmz8vvjJA 
+Video length: 	335.8 sec 
+Set (V): 		dev 
+ 
+Mark_Sheppard/8nOmz8vvjJA_0000001 28.0 32.3 
+Mark_Sheppard/8nOmz8vvjJA_0000002 54.9 59.7 
+Mark_Sheppard/8nOmz8vvjJA_0000003 311.8 317.2 

@@ -1,0 +1,13 @@
+POI: 			Chloe_Bennet 
+Youtube ID: 	g-UN6SihP64 
+Video length: 	301.4 sec 
+Set (V): 		dev 
+ 
+Chloe_Bennet/g-UN6SihP64_0000001 21.6 28.4 
+Chloe_Bennet/g-UN6SihP64_0000002 68.8 78.6 
+Chloe_Bennet/g-UN6SihP64_0000003 103.4 110.7 
+Chloe_Bennet/g-UN6SihP64_0000004 115.7 128.8 
+Chloe_Bennet/g-UN6SihP64_0000005 141.4 169.2 
+Chloe_Bennet/g-UN6SihP64_0000006 209.5 234.4 
+Chloe_Bennet/g-UN6SihP64_0000007 235.3 239.2 
+Chloe_Bennet/g-UN6SihP64_0000008 267.8 275.2 

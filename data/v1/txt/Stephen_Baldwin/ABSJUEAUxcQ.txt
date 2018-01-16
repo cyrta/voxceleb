@@ -1,0 +1,14 @@
+POI: 			Stephen_Baldwin 
+Youtube ID: 	ABSJUEAUxcQ 
+Video length: 	636.1 sec 
+Set (V): 		dev 
+ 
+Stephen_Baldwin/ABSJUEAUxcQ_0000001 12.7 19.7 
+Stephen_Baldwin/ABSJUEAUxcQ_0000002 33.4 38.4 
+Stephen_Baldwin/ABSJUEAUxcQ_0000003 87.7 92.8 
+Stephen_Baldwin/ABSJUEAUxcQ_0000004 101.2 105.5 
+Stephen_Baldwin/ABSJUEAUxcQ_0000005 237.4 246.9 
+Stephen_Baldwin/ABSJUEAUxcQ_0000006 319.2 325.0 
+Stephen_Baldwin/ABSJUEAUxcQ_0000007 600.9 614.4 
+Stephen_Baldwin/ABSJUEAUxcQ_0000008 600.9 621.5 
+Stephen_Baldwin/ABSJUEAUxcQ_0000009 625.6 632.0 

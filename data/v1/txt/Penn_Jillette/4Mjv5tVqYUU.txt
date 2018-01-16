@@ -1,0 +1,19 @@
+POI: 			Penn_Jillette 
+Youtube ID: 	4Mjv5tVqYUU 
+Video length: 	716.1 sec 
+Set (V): 		dev 
+ 
+Penn_Jillette/4Mjv5tVqYUU_0000001 51.0 60.8 
+Penn_Jillette/4Mjv5tVqYUU_0000002 112.4 117.3 
+Penn_Jillette/4Mjv5tVqYUU_0000003 119.4 127.0 
+Penn_Jillette/4Mjv5tVqYUU_0000004 181.3 195.8 
+Penn_Jillette/4Mjv5tVqYUU_0000005 206.4 219.9 
+Penn_Jillette/4Mjv5tVqYUU_0000006 255.6 261.8 
+Penn_Jillette/4Mjv5tVqYUU_0000007 273.6 278.8 
+Penn_Jillette/4Mjv5tVqYUU_0000008 331.4 337.2 
+Penn_Jillette/4Mjv5tVqYUU_0000009 371.1 375.4 
+Penn_Jillette/4Mjv5tVqYUU_0000010 389.9 396.6 
+Penn_Jillette/4Mjv5tVqYUU_0000011 414.0 421.4 
+Penn_Jillette/4Mjv5tVqYUU_0000012 634.6 639.3 
+Penn_Jillette/4Mjv5tVqYUU_0000013 652.9 656.8 
+Penn_Jillette/4Mjv5tVqYUU_0000014 675.3 684.7 

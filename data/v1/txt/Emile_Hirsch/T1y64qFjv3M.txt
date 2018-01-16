@@ -1,0 +1,12 @@
+POI: 			Emile_Hirsch 
+Youtube ID: 	T1y64qFjv3M 
+Video length: 	178.5 sec 
+Set (V): 		test 
+ 
+Emile_Hirsch/T1y64qFjv3M_0000001 19.9 27.6 
+Emile_Hirsch/T1y64qFjv3M_0000002 39.7 45.8 
+Emile_Hirsch/T1y64qFjv3M_0000003 55.6 67.9 
+Emile_Hirsch/T1y64qFjv3M_0000004 75.3 80.5 
+Emile_Hirsch/T1y64qFjv3M_0000005 91.8 96.5 
+Emile_Hirsch/T1y64qFjv3M_0000006 119.7 124.0 
+Emile_Hirsch/T1y64qFjv3M_0000007 154.1 160.2 

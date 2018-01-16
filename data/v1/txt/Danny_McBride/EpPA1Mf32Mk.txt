@@ -1,0 +1,11 @@
+POI: 			Danny_McBride 
+Youtube ID: 	EpPA1Mf32Mk 
+Video length: 	197.8 sec 
+Set (V): 		dev 
+ 
+Danny_McBride/EpPA1Mf32Mk_0000001 19.4 26.7 
+Danny_McBride/EpPA1Mf32Mk_0000002 41.4 50.9 
+Danny_McBride/EpPA1Mf32Mk_0000003 60.2 65.0 
+Danny_McBride/EpPA1Mf32Mk_0000004 70.9 92.9 
+Danny_McBride/EpPA1Mf32Mk_0000005 108.3 135.1 
+Danny_McBride/EpPA1Mf32Mk_0000006 142.6 168.0 

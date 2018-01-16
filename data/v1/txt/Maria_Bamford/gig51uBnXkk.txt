@@ -1,0 +1,7 @@
+POI: 			Maria_Bamford 
+Youtube ID: 	gig51uBnXkk 
+Video length: 	538.2 sec 
+Set (V): 		dev 
+ 
+Maria_Bamford/gig51uBnXkk_0000001 206.7 211.7 
+Maria_Bamford/gig51uBnXkk_0000002 265.7 270.2 

@@ -1,0 +1,8 @@
+POI: 			Nicole_Richie 
+Youtube ID: 	PBGYof75xe4 
+Video length: 	111.2 sec 
+Set (V): 		dev 
+ 
+Nicole_Richie/PBGYof75xe4_0000001 12.2 17.5 
+Nicole_Richie/PBGYof75xe4_0000002 72.1 87.1 
+Nicole_Richie/PBGYof75xe4_0000003 88.2 96.5 

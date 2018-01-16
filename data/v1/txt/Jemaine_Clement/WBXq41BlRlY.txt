@@ -1,0 +1,16 @@
+POI: 			Jemaine_Clement 
+Youtube ID: 	WBXq41BlRlY 
+Video length: 	359.8 sec 
+Set (V): 		dev 
+ 
+Jemaine_Clement/WBXq41BlRlY_0000001 25.5 29.6 
+Jemaine_Clement/WBXq41BlRlY_0000002 38.3 42.3 
+Jemaine_Clement/WBXq41BlRlY_0000003 103.0 107.5 
+Jemaine_Clement/WBXq41BlRlY_0000004 127.6 133.5 
+Jemaine_Clement/WBXq41BlRlY_0000005 157.5 161.8 
+Jemaine_Clement/WBXq41BlRlY_0000006 168.3 172.9 
+Jemaine_Clement/WBXq41BlRlY_0000007 238.4 242.6 
+Jemaine_Clement/WBXq41BlRlY_0000008 257.6 261.8 
+Jemaine_Clement/WBXq41BlRlY_0000009 272.5 278.5 
+Jemaine_Clement/WBXq41BlRlY_0000010 280.6 287.4 
+Jemaine_Clement/WBXq41BlRlY_0000011 300.1 304.8 

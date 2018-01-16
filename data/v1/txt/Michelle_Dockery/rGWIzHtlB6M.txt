@@ -1,0 +1,11 @@
+POI: 			Michelle_Dockery 
+Youtube ID: 	rGWIzHtlB6M 
+Video length: 	233.0 sec 
+Set (V): 		dev 
+ 
+Michelle_Dockery/rGWIzHtlB6M_0000001 22.3 28.0 
+Michelle_Dockery/rGWIzHtlB6M_0000002 47.8 59.2 
+Michelle_Dockery/rGWIzHtlB6M_0000003 79.8 90.8 
+Michelle_Dockery/rGWIzHtlB6M_0000004 139.2 153.1 
+Michelle_Dockery/rGWIzHtlB6M_0000005 175.8 188.8 
+Michelle_Dockery/rGWIzHtlB6M_0000006 189.4 196.5 

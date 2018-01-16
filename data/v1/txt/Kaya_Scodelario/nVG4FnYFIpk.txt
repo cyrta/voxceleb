@@ -1,0 +1,14 @@
+POI: 			Kaya_Scodelario 
+Youtube ID: 	nVG4FnYFIpk 
+Video length: 	218.1 sec 
+Set (V): 		dev 
+ 
+Kaya_Scodelario/nVG4FnYFIpk_0000001 11.6 15.9 
+Kaya_Scodelario/nVG4FnYFIpk_0000002 88.4 101.7 
+Kaya_Scodelario/nVG4FnYFIpk_0000003 112.7 119.0 
+Kaya_Scodelario/nVG4FnYFIpk_0000004 123.3 128.9 
+Kaya_Scodelario/nVG4FnYFIpk_0000005 145.8 153.9 
+Kaya_Scodelario/nVG4FnYFIpk_0000006 156.6 166.5 
+Kaya_Scodelario/nVG4FnYFIpk_0000007 169.8 183.5 
+Kaya_Scodelario/nVG4FnYFIpk_0000008 190.2 196.0 
+Kaya_Scodelario/nVG4FnYFIpk_0000009 196.3 207.6 

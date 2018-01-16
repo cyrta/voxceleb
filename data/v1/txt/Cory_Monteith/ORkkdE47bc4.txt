@@ -1,0 +1,12 @@
+POI: 			Cory_Monteith 
+Youtube ID: 	ORkkdE47bc4 
+Video length: 	297.7 sec 
+Set (V): 		dev 
+ 
+Cory_Monteith/ORkkdE47bc4_0000001 52.5 58.4 
+Cory_Monteith/ORkkdE47bc4_0000002 60.5 69.9 
+Cory_Monteith/ORkkdE47bc4_0000003 127.8 131.8 
+Cory_Monteith/ORkkdE47bc4_0000004 133.3 145.8 
+Cory_Monteith/ORkkdE47bc4_0000005 176.2 182.5 
+Cory_Monteith/ORkkdE47bc4_0000006 259.5 264.6 
+Cory_Monteith/ORkkdE47bc4_0000007 265.7 273.0 

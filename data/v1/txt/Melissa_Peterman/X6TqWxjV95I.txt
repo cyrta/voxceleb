@@ -1,0 +1,10 @@
+POI: 			Melissa_Peterman 
+Youtube ID: 	X6TqWxjV95I 
+Video length: 	372.6 sec 
+Set (V): 		dev 
+ 
+Melissa_Peterman/X6TqWxjV95I_0000001 117.5 122.2 
+Melissa_Peterman/X6TqWxjV95I_0000002 262.8 268.0 
+Melissa_Peterman/X6TqWxjV95I_0000003 276.7 281.1 
+Melissa_Peterman/X6TqWxjV95I_0000004 315.3 324.6 
+Melissa_Peterman/X6TqWxjV95I_0000005 338.9 345.9 

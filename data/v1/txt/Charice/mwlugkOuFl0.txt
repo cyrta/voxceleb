@@ -1,0 +1,8 @@
+POI: 			Charice 
+Youtube ID: 	mwlugkOuFl0 
+Video length: 	885.7 sec 
+Set (V): 		dev 
+ 
+Charice/mwlugkOuFl0_0000001 75.2 80.0 
+Charice/mwlugkOuFl0_0000002 214.2 218.4 
+Charice/mwlugkOuFl0_0000003 243.0 248.2 

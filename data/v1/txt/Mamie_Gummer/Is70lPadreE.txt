@@ -1,0 +1,12 @@
+POI: 			Mamie_Gummer 
+Youtube ID: 	Is70lPadreE 
+Video length: 	428.9 sec 
+Set (V): 		dev 
+ 
+Mamie_Gummer/Is70lPadreE_0000001 68.5 73.6 
+Mamie_Gummer/Is70lPadreE_0000002 145.6 151.3 
+Mamie_Gummer/Is70lPadreE_0000003 163.9 168.8 
+Mamie_Gummer/Is70lPadreE_0000004 203.5 210.0 
+Mamie_Gummer/Is70lPadreE_0000005 308.8 322.4 
+Mamie_Gummer/Is70lPadreE_0000006 354.3 362.0 
+Mamie_Gummer/Is70lPadreE_0000007 407.4 412.1 

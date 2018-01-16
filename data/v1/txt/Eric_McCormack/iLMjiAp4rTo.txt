@@ -1,0 +1,14 @@
+POI: 			Eric_McCormack 
+Youtube ID: 	iLMjiAp4rTo 
+Video length: 	222.4 sec 
+Set (V): 		test 
+ 
+Eric_McCormack/iLMjiAp4rTo_0000001 26.2 31.6 
+Eric_McCormack/iLMjiAp4rTo_0000002 37.0 51.8 
+Eric_McCormack/iLMjiAp4rTo_0000003 68.8 85.7 
+Eric_McCormack/iLMjiAp4rTo_0000004 103.8 115.7 
+Eric_McCormack/iLMjiAp4rTo_0000005 132.3 136.4 
+Eric_McCormack/iLMjiAp4rTo_0000006 138.2 142.8 
+Eric_McCormack/iLMjiAp4rTo_0000007 143.4 151.5 
+Eric_McCormack/iLMjiAp4rTo_0000008 153.3 167.4 
+Eric_McCormack/iLMjiAp4rTo_0000009 183.4 203.4 

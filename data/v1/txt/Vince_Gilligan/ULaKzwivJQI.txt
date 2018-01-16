@@ -1,0 +1,19 @@
+POI: 			Vince_Gilligan 
+Youtube ID: 	ULaKzwivJQI 
+Video length: 	251.4 sec 
+Set (V): 		dev 
+ 
+Vince_Gilligan/ULaKzwivJQI_0000001 07.1 12.3 
+Vince_Gilligan/ULaKzwivJQI_0000002 19.4 39.6 
+Vince_Gilligan/ULaKzwivJQI_0000003 39.8 47.8 
+Vince_Gilligan/ULaKzwivJQI_0000004 48.7 68.2 
+Vince_Gilligan/ULaKzwivJQI_0000005 73.6 93.2 
+Vince_Gilligan/ULaKzwivJQI_0000006 94.8 100.6 
+Vince_Gilligan/ULaKzwivJQI_0000007 101.6 106.8 
+Vince_Gilligan/ULaKzwivJQI_0000008 107.9 125.1 
+Vince_Gilligan/ULaKzwivJQI_0000009 126.0 160.4 
+Vince_Gilligan/ULaKzwivJQI_0000010 170.2 181.9 
+Vince_Gilligan/ULaKzwivJQI_0000011 187.1 194.2 
+Vince_Gilligan/ULaKzwivJQI_0000012 196.8 210.1 
+Vince_Gilligan/ULaKzwivJQI_0000013 211.3 233.7 
+Vince_Gilligan/ULaKzwivJQI_0000014 235.4 240.0 

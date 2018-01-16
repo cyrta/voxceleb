@@ -1,0 +1,7 @@
+POI: 			John_Amos 
+Youtube ID: 	Y7uPOVIIi4s 
+Video length: 	207.4 sec 
+Set (V): 		dev 
+ 
+John_Amos/Y7uPOVIIi4s_0000001 47.8 54.9 
+John_Amos/Y7uPOVIIi4s_0000002 79.1 85.0 

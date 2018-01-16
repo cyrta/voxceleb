@@ -1,0 +1,11 @@
+POI: 			Michael_Copon 
+Youtube ID: 	QAlVMS2PROc 
+Video length: 	345.2 sec 
+Set (V): 		dev 
+ 
+Michael_Copon/QAlVMS2PROc_0000001 13.6 17.6 
+Michael_Copon/QAlVMS2PROc_0000002 19.0 44.8 
+Michael_Copon/QAlVMS2PROc_0000003 45.3 52.4 
+Michael_Copon/QAlVMS2PROc_0000004 181.2 187.5 
+Michael_Copon/QAlVMS2PROc_0000005 187.9 203.0 
+Michael_Copon/QAlVMS2PROc_0000006 295.7 303.6 

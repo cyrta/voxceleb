@@ -1,0 +1,8 @@
+POI: 			Malin_Akerman 
+Youtube ID: 	tZSoyeMyw4I 
+Video length: 	251.4 sec 
+Set (V): 		dev 
+ 
+Malin_Akerman/tZSoyeMyw4I_0000001 44.7 48.7 
+Malin_Akerman/tZSoyeMyw4I_0000002 126.2 130.4 
+Malin_Akerman/tZSoyeMyw4I_0000003 130.7 136.0 

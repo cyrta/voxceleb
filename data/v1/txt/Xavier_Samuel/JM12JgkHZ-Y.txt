@@ -1,0 +1,9 @@
+POI: 			Xavier_Samuel 
+Youtube ID: 	JM12JgkHZ-Y 
+Video length: 	639.3 sec 
+Set (V): 		dev 
+ 
+Xavier_Samuel/JM12JgkHZ-Y_0000001 118.0 122.4 
+Xavier_Samuel/JM12JgkHZ-Y_0000002 221.7 228.8 
+Xavier_Samuel/JM12JgkHZ-Y_0000003 498.8 510.3 
+Xavier_Samuel/JM12JgkHZ-Y_0000004 523.4 527.7 

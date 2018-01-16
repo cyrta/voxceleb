@@ -1,0 +1,7 @@
+POI: 			Lea_Michele 
+Youtube ID: 	JX7nUs9bt54 
+Video length: 	1008.6 sec 
+Set (V): 		dev 
+ 
+Lea_Michele/JX7nUs9bt54_0000001 127.1 131.2 
+Lea_Michele/JX7nUs9bt54_0000002 977.6 982.0 

@@ -1,0 +1,11 @@
+POI: 			Kenya_Moore 
+Youtube ID: 	Jp1hCpISxqQ 
+Video length: 	135.2 sec 
+Set (V): 		dev 
+ 
+Kenya_Moore/Jp1hCpISxqQ_0000001 40.8 46.2 
+Kenya_Moore/Jp1hCpISxqQ_0000002 53.2 59.9 
+Kenya_Moore/Jp1hCpISxqQ_0000003 80.3 92.8 
+Kenya_Moore/Jp1hCpISxqQ_0000004 93.2 100.4 
+Kenya_Moore/Jp1hCpISxqQ_0000005 107.8 111.8 
+Kenya_Moore/Jp1hCpISxqQ_0000006 112.6 118.6 

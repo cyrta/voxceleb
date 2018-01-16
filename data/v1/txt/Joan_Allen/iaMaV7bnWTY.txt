@@ -1,0 +1,10 @@
+POI: 			Joan_Allen 
+Youtube ID: 	iaMaV7bnWTY 
+Video length: 	330.2 sec 
+Set (V): 		dev 
+ 
+Joan_Allen/iaMaV7bnWTY_0000001 16.0 22.4 
+Joan_Allen/iaMaV7bnWTY_0000002 108.0 114.4 
+Joan_Allen/iaMaV7bnWTY_0000003 135.9 150.4 
+Joan_Allen/iaMaV7bnWTY_0000004 200.0 207.7 
+Joan_Allen/iaMaV7bnWTY_0000005 262.3 281.2 

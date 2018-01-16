@@ -1,0 +1,7 @@
+POI: 			Katie_Aselton 
+Youtube ID: 	d1X25HECYxk 
+Video length: 	400.5 sec 
+Set (V): 		dev 
+ 
+Katie_Aselton/d1X25HECYxk_0000001 69.6 74.3 
+Katie_Aselton/d1X25HECYxk_0000002 80.2 84.5 

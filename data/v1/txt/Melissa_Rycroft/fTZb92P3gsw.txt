@@ -1,0 +1,13 @@
+POI: 			Melissa_Rycroft 
+Youtube ID: 	fTZb92P3gsw 
+Video length: 	225.8 sec 
+Set (V): 		dev 
+ 
+Melissa_Rycroft/fTZb92P3gsw_0000001 04.4 18.8 
+Melissa_Rycroft/fTZb92P3gsw_0000002 39.6 63.4 
+Melissa_Rycroft/fTZb92P3gsw_0000003 81.6 85.9 
+Melissa_Rycroft/fTZb92P3gsw_0000004 87.5 94.5 
+Melissa_Rycroft/fTZb92P3gsw_0000005 135.9 151.1 
+Melissa_Rycroft/fTZb92P3gsw_0000006 166.8 180.8 
+Melissa_Rycroft/fTZb92P3gsw_0000007 181.6 188.7 
+Melissa_Rycroft/fTZb92P3gsw_0000008 205.1 212.8 

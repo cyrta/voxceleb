@@ -1,0 +1,11 @@
+POI: 			Jon_Favreau 
+Youtube ID: 	dfM7HXEdcUY 
+Video length: 	284.9 sec 
+Set (V): 		dev 
+ 
+Jon_Favreau/dfM7HXEdcUY_0000001 01.8 96.7 
+Jon_Favreau/dfM7HXEdcUY_0000002 98.5 133.1 
+Jon_Favreau/dfM7HXEdcUY_0000003 135.8 164.9 
+Jon_Favreau/dfM7HXEdcUY_0000004 165.6 205.4 
+Jon_Favreau/dfM7HXEdcUY_0000005 210.0 234.5 
+Jon_Favreau/dfM7HXEdcUY_0000006 235.2 282.4 

@@ -1,0 +1,11 @@
+POI: 			Abigail_Breslin 
+Youtube ID: 	IWAkF5uWjis 
+Video length: 	225.8 sec 
+Set (V): 		dev 
+ 
+Abigail_Breslin/IWAkF5uWjis_0000001 41.9 46.6 
+Abigail_Breslin/IWAkF5uWjis_0000002 77.8 84.5 
+Abigail_Breslin/IWAkF5uWjis_0000003 99.0 114.3 
+Abigail_Breslin/IWAkF5uWjis_0000004 160.8 167.1 
+Abigail_Breslin/IWAkF5uWjis_0000005 186.5 192.0 
+Abigail_Breslin/IWAkF5uWjis_0000006 193.0 198.1 

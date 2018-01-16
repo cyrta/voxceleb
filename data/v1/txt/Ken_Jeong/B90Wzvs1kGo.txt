@@ -1,0 +1,7 @@
+POI: 			Ken_Jeong 
+Youtube ID: 	B90Wzvs1kGo 
+Video length: 	150.5 sec 
+Set (V): 		dev 
+ 
+Ken_Jeong/B90Wzvs1kGo_0000001 27.8 33.1 
+Ken_Jeong/B90Wzvs1kGo_0000002 33.8 39.6 

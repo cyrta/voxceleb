@@ -1,0 +1,8 @@
+POI: 			Adam_Brody 
+Youtube ID: 	GZnnXtImnGA 
+Video length: 	352.3 sec 
+Set (V): 		dev 
+ 
+Adam_Brody/GZnnXtImnGA_0000001 149.2 160.0 
+Adam_Brody/GZnnXtImnGA_0000002 259.3 275.9 
+Adam_Brody/GZnnXtImnGA_0000003 306.5 312.4 

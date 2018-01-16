@@ -1,0 +1,9 @@
+POI: 			Tyler_Blackburn 
+Youtube ID: 	gdGZvjwFelo 
+Video length: 	90.5 sec 
+Set (V): 		dev 
+ 
+Tyler_Blackburn/gdGZvjwFelo_0000001 14.5 20.6 
+Tyler_Blackburn/gdGZvjwFelo_0000002 33.7 38.9 
+Tyler_Blackburn/gdGZvjwFelo_0000003 43.1 50.6 
+Tyler_Blackburn/gdGZvjwFelo_0000004 60.5 65.4 

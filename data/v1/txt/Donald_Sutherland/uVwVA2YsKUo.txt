@@ -1,0 +1,12 @@
+POI: 			Donald_Sutherland 
+Youtube ID: 	uVwVA2YsKUo 
+Video length: 	277.1 sec 
+Set (V): 		dev 
+ 
+Donald_Sutherland/uVwVA2YsKUo_0000001 66.6 70.6 
+Donald_Sutherland/uVwVA2YsKUo_0000002 145.4 149.5 
+Donald_Sutherland/uVwVA2YsKUo_0000003 162.3 166.8 
+Donald_Sutherland/uVwVA2YsKUo_0000004 215.6 219.8 
+Donald_Sutherland/uVwVA2YsKUo_0000005 219.9 224.2 
+Donald_Sutherland/uVwVA2YsKUo_0000006 225.6 233.4 
+Donald_Sutherland/uVwVA2YsKUo_0000007 233.6 240.8 

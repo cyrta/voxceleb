@@ -1,0 +1,9 @@
+POI: 			Sharni_Vinson 
+Youtube ID: 	Hm5XeK-ovnM 
+Video length: 	135.4 sec 
+Set (V): 		dev 
+ 
+Sharni_Vinson/Hm5XeK-ovnM_0000001 04.1 24.2 
+Sharni_Vinson/Hm5XeK-ovnM_0000002 25.8 52.4 
+Sharni_Vinson/Hm5XeK-ovnM_0000003 56.1 67.0 
+Sharni_Vinson/Hm5XeK-ovnM_0000004 73.4 87.0 

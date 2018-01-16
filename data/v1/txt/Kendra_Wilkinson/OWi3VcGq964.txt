@@ -1,0 +1,12 @@
+POI: 			Kendra_Wilkinson 
+Youtube ID: 	OWi3VcGq964 
+Video length: 	298.4 sec 
+Set (V): 		dev 
+ 
+Kendra_Wilkinson/OWi3VcGq964_0000001 29.9 34.3 
+Kendra_Wilkinson/OWi3VcGq964_0000002 36.4 48.5 
+Kendra_Wilkinson/OWi3VcGq964_0000003 60.2 68.6 
+Kendra_Wilkinson/OWi3VcGq964_0000004 70.8 77.1 
+Kendra_Wilkinson/OWi3VcGq964_0000005 101.0 108.0 
+Kendra_Wilkinson/OWi3VcGq964_0000006 110.4 121.6 
+Kendra_Wilkinson/OWi3VcGq964_0000007 176.2 186.1 

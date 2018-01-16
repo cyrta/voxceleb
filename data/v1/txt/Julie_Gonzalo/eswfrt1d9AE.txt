@@ -1,0 +1,11 @@
+POI: 			Julie_Gonzalo 
+Youtube ID: 	eswfrt1d9AE 
+Video length: 	218.3 sec 
+Set (V): 		dev 
+ 
+Julie_Gonzalo/eswfrt1d9AE_0000001 63.7 69.5 
+Julie_Gonzalo/eswfrt1d9AE_0000002 69.0 74.6 
+Julie_Gonzalo/eswfrt1d9AE_0000003 80.6 86.3 
+Julie_Gonzalo/eswfrt1d9AE_0000004 91.6 102.5 
+Julie_Gonzalo/eswfrt1d9AE_0000005 90.4 104.9 
+Julie_Gonzalo/eswfrt1d9AE_0000006 105.5 110.8 

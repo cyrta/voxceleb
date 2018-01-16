@@ -1,0 +1,16 @@
+POI: 			Nate_Parker 
+Youtube ID: 	KFGTxmRxj6I 
+Video length: 	340.5 sec 
+Set (V): 		dev 
+ 
+Nate_Parker/KFGTxmRxj6I_0000001 73.4 87.1 
+Nate_Parker/KFGTxmRxj6I_0000002 87.8 100.4 
+Nate_Parker/KFGTxmRxj6I_0000003 101.0 106.5 
+Nate_Parker/KFGTxmRxj6I_0000004 108.8 118.0 
+Nate_Parker/KFGTxmRxj6I_0000005 119.6 143.6 
+Nate_Parker/KFGTxmRxj6I_0000006 144.7 150.1 
+Nate_Parker/KFGTxmRxj6I_0000007 154.7 164.0 
+Nate_Parker/KFGTxmRxj6I_0000008 181.2 188.9 
+Nate_Parker/KFGTxmRxj6I_0000009 190.8 247.5 
+Nate_Parker/KFGTxmRxj6I_0000010 247.7 253.7 
+Nate_Parker/KFGTxmRxj6I_0000011 285.4 324.5 

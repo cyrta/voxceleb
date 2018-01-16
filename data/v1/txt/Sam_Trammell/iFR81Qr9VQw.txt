@@ -1,0 +1,7 @@
+POI: 			Sam_Trammell 
+Youtube ID: 	iFR81Qr9VQw 
+Video length: 	209.9 sec 
+Set (V): 		dev 
+ 
+Sam_Trammell/iFR81Qr9VQw_0000001 102.7 110.4 
+Sam_Trammell/iFR81Qr9VQw_0000002 138.6 143.9 

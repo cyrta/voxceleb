@@ -1,0 +1,13 @@
+POI: 			Jacob_Latimore 
+Youtube ID: 	LkBrGkkK64Q 
+Video length: 	230.7 sec 
+Set (V): 		dev 
+ 
+Jacob_Latimore/LkBrGkkK64Q_0000001 12.1 29.5 
+Jacob_Latimore/LkBrGkkK64Q_0000002 33.3 39.5 
+Jacob_Latimore/LkBrGkkK64Q_0000003 55.8 70.1 
+Jacob_Latimore/LkBrGkkK64Q_0000004 71.1 83.9 
+Jacob_Latimore/LkBrGkkK64Q_0000005 84.4 88.8 
+Jacob_Latimore/LkBrGkkK64Q_0000006 102.1 111.3 
+Jacob_Latimore/LkBrGkkK64Q_0000007 113.2 121.0 
+Jacob_Latimore/LkBrGkkK64Q_0000008 129.1 149.5 

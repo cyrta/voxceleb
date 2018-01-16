@@ -1,0 +1,6 @@
+POI: 			David_Letterman 
+Youtube ID: 	8iRrnDW2MNg 
+Video length: 	915.3 sec 
+Set (V): 		dev 
+ 
+David_Letterman/8iRrnDW2MNg_0000001 07.6 16.1 

@@ -1,0 +1,12 @@
+POI: 			David_Mamet 
+Youtube ID: 	CuouohiEtD0 
+Video length: 	823.7 sec 
+Set (V): 		dev 
+ 
+David_Mamet/CuouohiEtD0_0000001 418.9 423.9 
+David_Mamet/CuouohiEtD0_0000002 452.3 458.0 
+David_Mamet/CuouohiEtD0_0000003 460.9 472.0 
+David_Mamet/CuouohiEtD0_0000004 518.8 525.1 
+David_Mamet/CuouohiEtD0_0000005 699.7 711.0 
+David_Mamet/CuouohiEtD0_0000006 715.0 719.1 
+David_Mamet/CuouohiEtD0_0000007 771.0 777.8 

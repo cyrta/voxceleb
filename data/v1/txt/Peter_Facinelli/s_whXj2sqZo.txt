@@ -1,0 +1,16 @@
+POI: 			Peter_Facinelli 
+Youtube ID: 	s_whXj2sqZo 
+Video length: 	312.7 sec 
+Set (V): 		dev 
+ 
+Peter_Facinelli/s_whXj2sqZo_0000001 72.4 77.4 
+Peter_Facinelli/s_whXj2sqZo_0000002 113.3 119.5 
+Peter_Facinelli/s_whXj2sqZo_0000003 124.0 128.8 
+Peter_Facinelli/s_whXj2sqZo_0000004 139.8 150.1 
+Peter_Facinelli/s_whXj2sqZo_0000005 150.9 155.9 
+Peter_Facinelli/s_whXj2sqZo_0000006 156.4 179.1 
+Peter_Facinelli/s_whXj2sqZo_0000007 196.4 206.9 
+Peter_Facinelli/s_whXj2sqZo_0000008 207.9 216.0 
+Peter_Facinelli/s_whXj2sqZo_0000009 251.1 259.3 
+Peter_Facinelli/s_whXj2sqZo_0000010 259.4 269.7 
+Peter_Facinelli/s_whXj2sqZo_0000011 286.9 300.7 

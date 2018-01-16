@@ -1,0 +1,9 @@
+POI: 			Roshon_Fegan 
+Youtube ID: 	STiv3BBjqeI 
+Video length: 	118.7 sec 
+Set (V): 		dev 
+ 
+Roshon_Fegan/STiv3BBjqeI_0000001 30.4 35.7 
+Roshon_Fegan/STiv3BBjqeI_0000002 42.3 52.0 
+Roshon_Fegan/STiv3BBjqeI_0000003 62.8 69.6 
+Roshon_Fegan/STiv3BBjqeI_0000004 88.8 94.7 

@@ -1,0 +1,8 @@
+POI: 			Kelly_Rutherford 
+Youtube ID: 	20ovwnClAvg 
+Video length: 	582.0 sec 
+Set (V): 		dev 
+ 
+Kelly_Rutherford/20ovwnClAvg_0000001 305.4 310.0 
+Kelly_Rutherford/20ovwnClAvg_0000002 461.2 465.3 
+Kelly_Rutherford/20ovwnClAvg_0000003 469.1 475.3 

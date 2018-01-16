@@ -1,0 +1,7 @@
+POI: 			Debi_Mazar 
+Youtube ID: 	CULPm5jJFdU 
+Video length: 	91.3 sec 
+Set (V): 		dev 
+ 
+Debi_Mazar/CULPm5jJFdU_0000001 22.3 41.1 
+Debi_Mazar/CULPm5jJFdU_0000002 50.5 72.8 

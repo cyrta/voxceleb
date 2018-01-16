@@ -1,0 +1,9 @@
+POI: 			Vanilla_Ice 
+Youtube ID: 	IbHUYUODqws 
+Video length: 	283.5 sec 
+Set (V): 		dev 
+ 
+Vanilla_Ice/IbHUYUODqws_0000001 63.8 68.2 
+Vanilla_Ice/IbHUYUODqws_0000002 102.1 125.5 
+Vanilla_Ice/IbHUYUODqws_0000003 173.8 202.2 
+Vanilla_Ice/IbHUYUODqws_0000004 219.6 255.4 

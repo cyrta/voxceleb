@@ -1,0 +1,6 @@
+POI: 			Gordon_Ramsay 
+Youtube ID: 	obrV4JnFLDo 
+Video length: 	584.1 sec 
+Set (V): 		dev 
+ 
+Gordon_Ramsay/obrV4JnFLDo_0000001 76.8 84.2 

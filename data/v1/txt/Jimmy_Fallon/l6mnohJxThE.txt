@@ -1,0 +1,18 @@
+POI: 			Jimmy_Fallon 
+Youtube ID: 	l6mnohJxThE 
+Video length: 	898.7 sec 
+Set (V): 		dev 
+ 
+Jimmy_Fallon/l6mnohJxThE_0000001 149.1 155.3 
+Jimmy_Fallon/l6mnohJxThE_0000002 155.5 160.0 
+Jimmy_Fallon/l6mnohJxThE_0000003 272.6 277.0 
+Jimmy_Fallon/l6mnohJxThE_0000004 393.1 400.0 
+Jimmy_Fallon/l6mnohJxThE_0000005 453.7 462.9 
+Jimmy_Fallon/l6mnohJxThE_0000006 513.1 519.7 
+Jimmy_Fallon/l6mnohJxThE_0000007 524.1 528.8 
+Jimmy_Fallon/l6mnohJxThE_0000008 537.5 542.6 
+Jimmy_Fallon/l6mnohJxThE_0000009 560.1 565.9 
+Jimmy_Fallon/l6mnohJxThE_0000010 581.6 586.5 
+Jimmy_Fallon/l6mnohJxThE_0000011 609.4 613.4 
+Jimmy_Fallon/l6mnohJxThE_0000012 613.5 618.1 
+Jimmy_Fallon/l6mnohJxThE_0000013 803.3 811.0 

@@ -1,0 +1,18 @@
+POI: 			Tom_Hiddleston 
+Youtube ID: 	NeUuWO8UleE 
+Video length: 	463.1 sec 
+Set (V): 		dev 
+ 
+Tom_Hiddleston/NeUuWO8UleE_0000001 78.9 83.8 
+Tom_Hiddleston/NeUuWO8UleE_0000002 103.0 109.8 
+Tom_Hiddleston/NeUuWO8UleE_0000003 111.7 120.2 
+Tom_Hiddleston/NeUuWO8UleE_0000004 121.5 127.0 
+Tom_Hiddleston/NeUuWO8UleE_0000005 130.6 151.0 
+Tom_Hiddleston/NeUuWO8UleE_0000006 151.1 156.2 
+Tom_Hiddleston/NeUuWO8UleE_0000007 156.7 164.4 
+Tom_Hiddleston/NeUuWO8UleE_0000008 165.4 171.6 
+Tom_Hiddleston/NeUuWO8UleE_0000009 176.2 187.8 
+Tom_Hiddleston/NeUuWO8UleE_0000010 188.0 194.9 
+Tom_Hiddleston/NeUuWO8UleE_0000011 266.6 281.5 
+Tom_Hiddleston/NeUuWO8UleE_0000012 289.5 293.4 
+Tom_Hiddleston/NeUuWO8UleE_0000013 311.5 318.5 

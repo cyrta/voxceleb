@@ -1,0 +1,12 @@
+POI: 			John_Goodman 
+Youtube ID: 	Vchu9G6SDuI 
+Video length: 	275.2 sec 
+Set (V): 		dev 
+ 
+John_Goodman/Vchu9G6SDuI_0000001 69.4 74.2 
+John_Goodman/Vchu9G6SDuI_0000002 81.2 86.5 
+John_Goodman/Vchu9G6SDuI_0000003 105.2 110.0 
+John_Goodman/Vchu9G6SDuI_0000004 110.9 116.1 
+John_Goodman/Vchu9G6SDuI_0000005 140.9 150.2 
+John_Goodman/Vchu9G6SDuI_0000006 195.0 200.6 
+John_Goodman/Vchu9G6SDuI_0000007 203.5 209.9 

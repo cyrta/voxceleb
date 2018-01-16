@@ -1,0 +1,16 @@
+POI: 			Hans_Zimmer 
+Youtube ID: 	xjDWaXvBtVg 
+Video length: 	406.3 sec 
+Set (V): 		dev 
+ 
+Hans_Zimmer/xjDWaXvBtVg_0000001 77.3 89.6 
+Hans_Zimmer/xjDWaXvBtVg_0000002 96.0 103.0 
+Hans_Zimmer/xjDWaXvBtVg_0000003 125.7 140.6 
+Hans_Zimmer/xjDWaXvBtVg_0000004 147.6 154.9 
+Hans_Zimmer/xjDWaXvBtVg_0000005 155.1 165.2 
+Hans_Zimmer/xjDWaXvBtVg_0000006 165.5 174.8 
+Hans_Zimmer/xjDWaXvBtVg_0000007 174.9 183.3 
+Hans_Zimmer/xjDWaXvBtVg_0000008 216.5 220.5 
+Hans_Zimmer/xjDWaXvBtVg_0000009 222.8 236.6 
+Hans_Zimmer/xjDWaXvBtVg_0000010 330.8 337.2 
+Hans_Zimmer/xjDWaXvBtVg_0000011 338.0 349.4 

@@ -1,0 +1,7 @@
+POI: 			Kate_Mara 
+Youtube ID: 	7E2U14-tOAo 
+Video length: 	869.1 sec 
+Set (V): 		dev 
+ 
+Kate_Mara/7E2U14-tOAo_0000001 205.0 211.4 
+Kate_Mara/7E2U14-tOAo_0000002 237.8 241.8 

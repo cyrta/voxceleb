@@ -1,0 +1,12 @@
+POI: 			John_Turturro 
+Youtube ID: 	xPQUUslR7iw 
+Video length: 	90.4 sec 
+Set (V): 		dev 
+ 
+John_Turturro/xPQUUslR7iw_0000001 09.2 13.7 
+John_Turturro/xPQUUslR7iw_0000002 27.6 37.4 
+John_Turturro/xPQUUslR7iw_0000003 56.9 62.4 
+John_Turturro/xPQUUslR7iw_0000004 65.0 69.7 
+John_Turturro/xPQUUslR7iw_0000005 74.1 80.3 
+John_Turturro/xPQUUslR7iw_0000006 56.8 62.4 
+John_Turturro/xPQUUslR7iw_0000007 65.0 69.8 

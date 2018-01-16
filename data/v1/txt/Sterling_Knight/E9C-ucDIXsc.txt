@@ -1,0 +1,7 @@
+POI: 			Sterling_Knight 
+Youtube ID: 	E9C-ucDIXsc 
+Video length: 	96.2 sec 
+Set (V): 		dev 
+ 
+Sterling_Knight/E9C-ucDIXsc_0000001 67.0 74.1 
+Sterling_Knight/E9C-ucDIXsc_0000002 75.1 79.4 

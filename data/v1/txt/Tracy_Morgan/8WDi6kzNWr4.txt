@@ -1,0 +1,7 @@
+POI: 			Tracy_Morgan 
+Youtube ID: 	8WDi6kzNWr4 
+Video length: 	172.7 sec 
+Set (V): 		dev 
+ 
+Tracy_Morgan/8WDi6kzNWr4_0000001 75.2 79.9 
+Tracy_Morgan/8WDi6kzNWr4_0000002 130.6 137.5 

@@ -1,0 +1,9 @@
+POI: 			Colin_Donnell 
+Youtube ID: 	ccjwmdsrxEY 
+Video length: 	370.8 sec 
+Set (V): 		dev 
+ 
+Colin_Donnell/ccjwmdsrxEY_0000001 96.7 101.4 
+Colin_Donnell/ccjwmdsrxEY_0000002 136.2 142.8 
+Colin_Donnell/ccjwmdsrxEY_0000003 192.4 197.7 
+Colin_Donnell/ccjwmdsrxEY_0000004 209.0 213.8 

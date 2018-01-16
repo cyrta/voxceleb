@@ -1,0 +1,7 @@
+POI: 			Dan_Stevens 
+Youtube ID: 	wnEyqT79Lmc 
+Video length: 	76.2 sec 
+Set (V): 		dev 
+ 
+Dan_Stevens/wnEyqT79Lmc_0000001 43.4 49.4 
+Dan_Stevens/wnEyqT79Lmc_0000002 65.3 69.3 

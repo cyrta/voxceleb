@@ -1,0 +1,12 @@
+POI: 			Alba_Rohrwacher 
+Youtube ID: 	3ViTD7lWXIQ 
+Video length: 	548.2 sec 
+Set (V): 		dev 
+ 
+Alba_Rohrwacher/3ViTD7lWXIQ_0000001 442.8 446.9 
+Alba_Rohrwacher/3ViTD7lWXIQ_0000002 450.0 460.6 
+Alba_Rohrwacher/3ViTD7lWXIQ_0000003 462.8 471.5 
+Alba_Rohrwacher/3ViTD7lWXIQ_0000004 476.7 481.4 
+Alba_Rohrwacher/3ViTD7lWXIQ_0000005 493.6 500.6 
+Alba_Rohrwacher/3ViTD7lWXIQ_0000006 504.7 514.5 
+Alba_Rohrwacher/3ViTD7lWXIQ_0000007 515.1 532.8 

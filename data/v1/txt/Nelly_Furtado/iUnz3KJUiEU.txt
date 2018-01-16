@@ -1,0 +1,15 @@
+POI: 			Nelly_Furtado 
+Youtube ID: 	iUnz3KJUiEU 
+Video length: 	256.5 sec 
+Set (V): 		dev 
+ 
+Nelly_Furtado/iUnz3KJUiEU_0000001 18.5 23.1 
+Nelly_Furtado/iUnz3KJUiEU_0000002 32.5 43.4 
+Nelly_Furtado/iUnz3KJUiEU_0000003 59.0 77.5 
+Nelly_Furtado/iUnz3KJUiEU_0000004 78.2 87.5 
+Nelly_Furtado/iUnz3KJUiEU_0000005 103.9 111.3 
+Nelly_Furtado/iUnz3KJUiEU_0000006 120.5 129.5 
+Nelly_Furtado/iUnz3KJUiEU_0000007 132.2 137.0 
+Nelly_Furtado/iUnz3KJUiEU_0000008 160.3 168.9 
+Nelly_Furtado/iUnz3KJUiEU_0000009 169.4 173.4 
+Nelly_Furtado/iUnz3KJUiEU_0000010 202.1 207.3 

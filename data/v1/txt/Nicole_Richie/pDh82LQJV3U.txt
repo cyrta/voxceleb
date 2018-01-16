@@ -1,0 +1,12 @@
+POI: 			Nicole_Richie 
+Youtube ID: 	pDh82LQJV3U 
+Video length: 	324.9 sec 
+Set (V): 		dev 
+ 
+Nicole_Richie/pDh82LQJV3U_0000001 33.9 40.0 
+Nicole_Richie/pDh82LQJV3U_0000002 82.6 86.8 
+Nicole_Richie/pDh82LQJV3U_0000003 125.2 134.4 
+Nicole_Richie/pDh82LQJV3U_0000004 214.5 220.4 
+Nicole_Richie/pDh82LQJV3U_0000005 252.4 259.3 
+Nicole_Richie/pDh82LQJV3U_0000006 264.3 272.6 
+Nicole_Richie/pDh82LQJV3U_0000007 302.3 307.9 

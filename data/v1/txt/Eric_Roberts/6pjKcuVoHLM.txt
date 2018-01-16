@@ -1,0 +1,18 @@
+POI: 			Eric_Roberts 
+Youtube ID: 	6pjKcuVoHLM 
+Video length: 	484.0 sec 
+Set (V): 		test 
+ 
+Eric_Roberts/6pjKcuVoHLM_0000001 97.4 101.8 
+Eric_Roberts/6pjKcuVoHLM_0000002 142.1 146.4 
+Eric_Roberts/6pjKcuVoHLM_0000003 154.2 175.6 
+Eric_Roberts/6pjKcuVoHLM_0000004 175.8 188.2 
+Eric_Roberts/6pjKcuVoHLM_0000005 203.2 207.8 
+Eric_Roberts/6pjKcuVoHLM_0000006 234.8 253.8 
+Eric_Roberts/6pjKcuVoHLM_0000007 273.2 277.6 
+Eric_Roberts/6pjKcuVoHLM_0000008 283.2 287.1 
+Eric_Roberts/6pjKcuVoHLM_0000009 323.0 330.8 
+Eric_Roberts/6pjKcuVoHLM_0000010 350.8 357.9 
+Eric_Roberts/6pjKcuVoHLM_0000011 369.5 382.6 
+Eric_Roberts/6pjKcuVoHLM_0000012 404.0 408.0 
+Eric_Roberts/6pjKcuVoHLM_0000013 410.3 417.8 

@@ -1,0 +1,27 @@
+POI: 			Jason_David_Frank 
+Youtube ID: 	A9NxfMke690 
+Video length: 	326.8 sec 
+Set (V): 		dev 
+ 
+Jason_David_Frank/A9NxfMke690_0000001 09.8 19.6 
+Jason_David_Frank/A9NxfMke690_0000002 22.0 32.6 
+Jason_David_Frank/A9NxfMke690_0000003 43.3 50.2 
+Jason_David_Frank/A9NxfMke690_0000004 53.7 61.6 
+Jason_David_Frank/A9NxfMke690_0000005 69.9 74.3 
+Jason_David_Frank/A9NxfMke690_0000006 75.7 80.8 
+Jason_David_Frank/A9NxfMke690_0000007 81.2 97.2 
+Jason_David_Frank/A9NxfMke690_0000008 107.2 121.4 
+Jason_David_Frank/A9NxfMke690_0000009 126.4 138.6 
+Jason_David_Frank/A9NxfMke690_0000010 139.1 144.4 
+Jason_David_Frank/A9NxfMke690_0000011 146.2 152.1 
+Jason_David_Frank/A9NxfMke690_0000012 120.7 138.6 
+Jason_David_Frank/A9NxfMke690_0000013 139.0 168.9 
+Jason_David_Frank/A9NxfMke690_0000014 169.3 190.1 
+Jason_David_Frank/A9NxfMke690_0000015 195.1 220.6 
+Jason_David_Frank/A9NxfMke690_0000016 223.7 238.6 
+Jason_David_Frank/A9NxfMke690_0000017 239.0 257.0 
+Jason_David_Frank/A9NxfMke690_0000018 257.5 266.4 
+Jason_David_Frank/A9NxfMke690_0000019 269.4 274.6 
+Jason_David_Frank/A9NxfMke690_0000020 276.2 288.8 
+Jason_David_Frank/A9NxfMke690_0000021 292.4 309.5 
+Jason_David_Frank/A9NxfMke690_0000022 311.2 315.5 

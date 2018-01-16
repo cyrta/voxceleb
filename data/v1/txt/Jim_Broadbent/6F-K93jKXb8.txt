@@ -1,0 +1,7 @@
+POI: 			Jim_Broadbent 
+Youtube ID: 	6F-K93jKXb8 
+Video length: 	834.5 sec 
+Set (V): 		dev 
+ 
+Jim_Broadbent/6F-K93jKXb8_0000001 25.5 35.4 
+Jim_Broadbent/6F-K93jKXb8_0000002 93.4 97.9 

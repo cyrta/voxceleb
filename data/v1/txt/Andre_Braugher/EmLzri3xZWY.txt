@@ -1,0 +1,9 @@
+POI: 			Andre_Braugher 
+Youtube ID: 	EmLzri3xZWY 
+Video length: 	1176.0 sec 
+Set (V): 		dev 
+ 
+Andre_Braugher/EmLzri3xZWY_0000001 279.6 286.4 
+Andre_Braugher/EmLzri3xZWY_0000002 743.6 747.6 
+Andre_Braugher/EmLzri3xZWY_0000003 1077.9 1084.8 
+Andre_Braugher/EmLzri3xZWY_0000004 1125.5 1130.2 

@@ -1,0 +1,11 @@
+POI: 			Jennifer_Coolidge 
+Youtube ID: 	Rt0Ww-WF7t4 
+Video length: 	267.4 sec 
+Set (V): 		dev 
+ 
+Jennifer_Coolidge/Rt0Ww-WF7t4_0000001 20.6 25.3 
+Jennifer_Coolidge/Rt0Ww-WF7t4_0000002 70.2 74.1 
+Jennifer_Coolidge/Rt0Ww-WF7t4_0000003 80.2 84.6 
+Jennifer_Coolidge/Rt0Ww-WF7t4_0000004 130.2 138.2 
+Jennifer_Coolidge/Rt0Ww-WF7t4_0000005 164.9 180.9 
+Jennifer_Coolidge/Rt0Ww-WF7t4_0000006 247.4 253.0 

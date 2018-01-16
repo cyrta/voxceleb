@@ -1,0 +1,11 @@
+POI: 			David_Wenham 
+Youtube ID: 	aZ7gs0TYips 
+Video length: 	97.5 sec 
+Set (V): 		dev 
+ 
+David_Wenham/aZ7gs0TYips_0000001 05.6 10.8 
+David_Wenham/aZ7gs0TYips_0000002 16.6 21.1 
+David_Wenham/aZ7gs0TYips_0000003 28.4 39.0 
+David_Wenham/aZ7gs0TYips_0000004 61.9 66.2 
+David_Wenham/aZ7gs0TYips_0000005 66.7 72.6 
+David_Wenham/aZ7gs0TYips_0000006 80.0 90.9 

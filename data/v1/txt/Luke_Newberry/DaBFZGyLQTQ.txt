@@ -1,0 +1,8 @@
+POI: 			Luke_Newberry 
+Youtube ID: 	DaBFZGyLQTQ 
+Video length: 	194.0 sec 
+Set (V): 		dev 
+ 
+Luke_Newberry/DaBFZGyLQTQ_0000001 151.4 156.2 
+Luke_Newberry/DaBFZGyLQTQ_0000002 161.4 165.5 
+Luke_Newberry/DaBFZGyLQTQ_0000003 165.3 174.9 

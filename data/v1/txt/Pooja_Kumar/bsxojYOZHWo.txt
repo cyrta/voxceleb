@@ -1,0 +1,8 @@
+POI: 			Pooja_Kumar 
+Youtube ID: 	bsxojYOZHWo 
+Video length: 	61.7 sec 
+Set (V): 		dev 
+ 
+Pooja_Kumar/bsxojYOZHWo_0000001 06.0 18.5 
+Pooja_Kumar/bsxojYOZHWo_0000002 18.8 23.6 
+Pooja_Kumar/bsxojYOZHWo_0000003 24.6 31.3 

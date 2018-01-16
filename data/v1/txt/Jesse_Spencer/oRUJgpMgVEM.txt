@@ -1,0 +1,9 @@
+POI: 			Jesse_Spencer 
+Youtube ID: 	oRUJgpMgVEM 
+Video length: 	225.3 sec 
+Set (V): 		dev 
+ 
+Jesse_Spencer/oRUJgpMgVEM_0000001 58.4 64.5 
+Jesse_Spencer/oRUJgpMgVEM_0000002 87.0 94.3 
+Jesse_Spencer/oRUJgpMgVEM_0000003 189.4 198.6 
+Jesse_Spencer/oRUJgpMgVEM_0000004 198.7 206.8 

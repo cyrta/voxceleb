@@ -1,0 +1,8 @@
+POI: 			Lisa_Edelstein 
+Youtube ID: 	sKrjpVQHYZU 
+Video length: 	344.0 sec 
+Set (V): 		dev 
+ 
+Lisa_Edelstein/sKrjpVQHYZU_0000001 119.8 125.2 
+Lisa_Edelstein/sKrjpVQHYZU_0000002 200.3 204.3 
+Lisa_Edelstein/sKrjpVQHYZU_0000003 313.6 317.9 

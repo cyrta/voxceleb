@@ -1,0 +1,11 @@
+POI: 			Felicity_Jones 
+Youtube ID: 	smeyMiSt4Y4 
+Video length: 	223.9 sec 
+Set (V): 		dev 
+ 
+Felicity_Jones/smeyMiSt4Y4_0000001 69.0 77.0 
+Felicity_Jones/smeyMiSt4Y4_0000002 94.8 101.8 
+Felicity_Jones/smeyMiSt4Y4_0000003 103.0 109.2 
+Felicity_Jones/smeyMiSt4Y4_0000004 115.5 124.7 
+Felicity_Jones/smeyMiSt4Y4_0000005 128.8 141.3 
+Felicity_Jones/smeyMiSt4Y4_0000006 161.6 173.6 

@@ -1,0 +1,8 @@
+POI: 			John_Lloyd_Young 
+Youtube ID: 	GIYryuuETas 
+Video length: 	78.6 sec 
+Set (V): 		dev 
+ 
+John_Lloyd_Young/GIYryuuETas_0000001 31.0 44.7 
+John_Lloyd_Young/GIYryuuETas_0000002 49.0 58.4 
+John_Lloyd_Young/GIYryuuETas_0000003 68.8 75.7 

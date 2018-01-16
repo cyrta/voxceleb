@@ -1,0 +1,8 @@
+POI: 			John_Carroll_Lynch 
+Youtube ID: 	KoDfGEfTpso 
+Video length: 	144.7 sec 
+Set (V): 		dev 
+ 
+John_Carroll_Lynch/KoDfGEfTpso_0000001 70.0 76.4 
+John_Carroll_Lynch/KoDfGEfTpso_0000002 82.2 87.1 
+John_Carroll_Lynch/KoDfGEfTpso_0000003 98.5 105.6 

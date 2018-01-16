@@ -1,0 +1,17 @@
+POI: 			Luke_Evans 
+Youtube ID: 	aiRUhoRrA-M 
+Video length: 	416.7 sec 
+Set (V): 		dev 
+ 
+Luke_Evans/aiRUhoRrA-M_0000001 56.5 61.2 
+Luke_Evans/aiRUhoRrA-M_0000002 86.0 95.2 
+Luke_Evans/aiRUhoRrA-M_0000003 105.3 109.2 
+Luke_Evans/aiRUhoRrA-M_0000004 141.1 145.4 
+Luke_Evans/aiRUhoRrA-M_0000005 172.3 178.6 
+Luke_Evans/aiRUhoRrA-M_0000006 215.0 219.6 
+Luke_Evans/aiRUhoRrA-M_0000007 231.2 236.3 
+Luke_Evans/aiRUhoRrA-M_0000008 313.8 318.4 
+Luke_Evans/aiRUhoRrA-M_0000009 342.2 347.6 
+Luke_Evans/aiRUhoRrA-M_0000010 352.0 357.2 
+Luke_Evans/aiRUhoRrA-M_0000011 362.2 366.2 
+Luke_Evans/aiRUhoRrA-M_0000012 376.5 381.0 

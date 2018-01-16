@@ -1,0 +1,7 @@
+POI: 			Sean_Bean 
+Youtube ID: 	TTL5oB7E8J0 
+Video length: 	360.2 sec 
+Set (V): 		dev 
+ 
+Sean_Bean/TTL5oB7E8J0_0000001 67.6 75.5 
+Sean_Bean/TTL5oB7E8J0_0000002 76.6 87.5 

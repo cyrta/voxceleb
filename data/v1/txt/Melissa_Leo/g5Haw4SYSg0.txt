@@ -1,0 +1,8 @@
+POI: 			Melissa_Leo 
+Youtube ID: 	g5Haw4SYSg0 
+Video length: 	298.8 sec 
+Set (V): 		dev 
+ 
+Melissa_Leo/g5Haw4SYSg0_0000001 91.4 101.0 
+Melissa_Leo/g5Haw4SYSg0_0000002 167.8 178.5 
+Melissa_Leo/g5Haw4SYSg0_0000003 203.8 215.8 

@@ -1,0 +1,9 @@
+POI: 			Robert_Carlyle 
+Youtube ID: 	W6XPk52HLYs 
+Video length: 	117.7 sec 
+Set (V): 		dev 
+ 
+Robert_Carlyle/W6XPk52HLYs_0000001 05.9 14.7 
+Robert_Carlyle/W6XPk52HLYs_0000002 54.4 59.2 
+Robert_Carlyle/W6XPk52HLYs_0000003 81.0 86.2 
+Robert_Carlyle/W6XPk52HLYs_0000004 93.4 99.8 

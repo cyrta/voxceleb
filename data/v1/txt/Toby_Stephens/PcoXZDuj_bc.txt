@@ -1,0 +1,12 @@
+POI: 			Toby_Stephens 
+Youtube ID: 	PcoXZDuj_bc 
+Video length: 	278.3 sec 
+Set (V): 		dev 
+ 
+Toby_Stephens/PcoXZDuj_bc_0000001 57.5 63.0 
+Toby_Stephens/PcoXZDuj_bc_0000002 65.9 71.7 
+Toby_Stephens/PcoXZDuj_bc_0000003 79.1 90.1 
+Toby_Stephens/PcoXZDuj_bc_0000004 103.1 117.6 
+Toby_Stephens/PcoXZDuj_bc_0000005 118.3 133.5 
+Toby_Stephens/PcoXZDuj_bc_0000006 140.1 144.2 
+Toby_Stephens/PcoXZDuj_bc_0000007 146.1 156.9 

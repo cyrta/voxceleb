@@ -1,0 +1,10 @@
+POI: 			Armand_Assante 
+Youtube ID: 	6Jz0GrnZrf4 
+Video length: 	444.6 sec 
+Set (V): 		dev 
+ 
+Armand_Assante/6Jz0GrnZrf4_0000001 43.6 48.5 
+Armand_Assante/6Jz0GrnZrf4_0000002 91.6 99.4 
+Armand_Assante/6Jz0GrnZrf4_0000003 100.6 106.6 
+Armand_Assante/6Jz0GrnZrf4_0000004 107.9 112.4 
+Armand_Assante/6Jz0GrnZrf4_0000005 277.0 282.8 

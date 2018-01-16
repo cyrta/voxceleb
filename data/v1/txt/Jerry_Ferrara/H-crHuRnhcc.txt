@@ -1,0 +1,10 @@
+POI: 			Jerry_Ferrara 
+Youtube ID: 	H-crHuRnhcc 
+Video length: 	274.1 sec 
+Set (V): 		dev 
+ 
+Jerry_Ferrara/H-crHuRnhcc_0000001 42.2 46.8 
+Jerry_Ferrara/H-crHuRnhcc_0000002 106.0 114.1 
+Jerry_Ferrara/H-crHuRnhcc_0000003 115.2 120.2 
+Jerry_Ferrara/H-crHuRnhcc_0000004 120.2 126.8 
+Jerry_Ferrara/H-crHuRnhcc_0000005 232.7 241.2 

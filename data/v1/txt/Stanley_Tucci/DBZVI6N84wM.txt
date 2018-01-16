@@ -1,0 +1,13 @@
+POI: 			Stanley_Tucci 
+Youtube ID: 	DBZVI6N84wM 
+Video length: 	292.3 sec 
+Set (V): 		dev 
+ 
+Stanley_Tucci/DBZVI6N84wM_0000001 67.4 75.1 
+Stanley_Tucci/DBZVI6N84wM_0000002 75.4 79.4 
+Stanley_Tucci/DBZVI6N84wM_0000003 116.0 121.6 
+Stanley_Tucci/DBZVI6N84wM_0000004 150.8 155.2 
+Stanley_Tucci/DBZVI6N84wM_0000005 189.7 195.1 
+Stanley_Tucci/DBZVI6N84wM_0000006 201.4 209.0 
+Stanley_Tucci/DBZVI6N84wM_0000007 221.3 225.8 
+Stanley_Tucci/DBZVI6N84wM_0000008 259.8 265.4 

@@ -1,0 +1,10 @@
+POI: 			Robbie_Amell 
+Youtube ID: 	X8sCFY7ztnw 
+Video length: 	145.6 sec 
+Set (V): 		dev 
+ 
+Robbie_Amell/X8sCFY7ztnw_0000001 38.4 45.0 
+Robbie_Amell/X8sCFY7ztnw_0000002 54.8 63.4 
+Robbie_Amell/X8sCFY7ztnw_0000003 94.5 98.4 
+Robbie_Amell/X8sCFY7ztnw_0000004 109.3 114.4 
+Robbie_Amell/X8sCFY7ztnw_0000005 116.6 138.6 

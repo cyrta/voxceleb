@@ -1,0 +1,9 @@
+POI: 			Mia_Wasikowska 
+Youtube ID: 	7ZeP1A1jlpg 
+Video length: 	119.3 sec 
+Set (V): 		dev 
+ 
+Mia_Wasikowska/7ZeP1A1jlpg_0000001 07.2 16.0 
+Mia_Wasikowska/7ZeP1A1jlpg_0000002 26.2 32.4 
+Mia_Wasikowska/7ZeP1A1jlpg_0000003 34.6 38.8 
+Mia_Wasikowska/7ZeP1A1jlpg_0000004 38.9 43.3 

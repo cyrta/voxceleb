@@ -1,0 +1,7 @@
+POI: 			Stephen_Merchant 
+Youtube ID: 	oRC0v8AJuk0 
+Video length: 	399.2 sec 
+Set (V): 		dev 
+ 
+Stephen_Merchant/oRC0v8AJuk0_0000001 10.8 15.6 
+Stephen_Merchant/oRC0v8AJuk0_0000002 232.5 241.9 

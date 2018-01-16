@@ -1,0 +1,10 @@
+POI: 			Nana_Visitor 
+Youtube ID: 	mkwXYc3ge8Y 
+Video length: 	1231.8 sec 
+Set (V): 		dev 
+ 
+Nana_Visitor/mkwXYc3ge8Y_0000001 365.5 376.0 
+Nana_Visitor/mkwXYc3ge8Y_0000002 403.8 417.3 
+Nana_Visitor/mkwXYc3ge8Y_0000003 434.0 443.0 
+Nana_Visitor/mkwXYc3ge8Y_0000004 462.5 491.4 
+Nana_Visitor/mkwXYc3ge8Y_0000005 515.6 532.4 

@@ -1,0 +1,18 @@
+POI: 			Paul_Giamatti 
+Youtube ID: 	nqa1qATLKG8 
+Video length: 	194.7 sec 
+Set (V): 		dev 
+ 
+Paul_Giamatti/nqa1qATLKG8_0000001 06.2 22.1 
+Paul_Giamatti/nqa1qATLKG8_0000002 22.4 30.3 
+Paul_Giamatti/nqa1qATLKG8_0000003 31.1 42.8 
+Paul_Giamatti/nqa1qATLKG8_0000004 53.6 68.0 
+Paul_Giamatti/nqa1qATLKG8_0000005 69.2 74.0 
+Paul_Giamatti/nqa1qATLKG8_0000006 75.2 82.2 
+Paul_Giamatti/nqa1qATLKG8_0000007 94.9 119.0 
+Paul_Giamatti/nqa1qATLKG8_0000008 120.9 133.3 
+Paul_Giamatti/nqa1qATLKG8_0000009 136.6 145.6 
+Paul_Giamatti/nqa1qATLKG8_0000010 148.3 158.5 
+Paul_Giamatti/nqa1qATLKG8_0000011 160.6 175.8 
+Paul_Giamatti/nqa1qATLKG8_0000012 178.2 186.8 
+Paul_Giamatti/nqa1qATLKG8_0000013 187.1 192.8 

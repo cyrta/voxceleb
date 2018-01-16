@@ -1,0 +1,10 @@
+POI: 			Lou_Ferrigno 
+Youtube ID: 	zRB_u-NrDmw 
+Video length: 	223.7 sec 
+Set (V): 		dev 
+ 
+Lou_Ferrigno/zRB_u-NrDmw_0000001 70.9 81.8 
+Lou_Ferrigno/zRB_u-NrDmw_0000002 82.5 87.5 
+Lou_Ferrigno/zRB_u-NrDmw_0000003 130.5 137.2 
+Lou_Ferrigno/zRB_u-NrDmw_0000004 166.0 171.6 
+Lou_Ferrigno/zRB_u-NrDmw_0000005 183.1 190.9 

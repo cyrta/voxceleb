@@ -1,0 +1,8 @@
+POI: 			Janet_Jackson 
+Youtube ID: 	IXP8qCCGf6M 
+Video length: 	887.4 sec 
+Set (V): 		dev 
+ 
+Janet_Jackson/IXP8qCCGf6M_0000001 242.9 247.7 
+Janet_Jackson/IXP8qCCGf6M_0000002 454.7 460.8 
+Janet_Jackson/IXP8qCCGf6M_0000003 533.4 539.4 

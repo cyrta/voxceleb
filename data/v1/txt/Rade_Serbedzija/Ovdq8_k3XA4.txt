@@ -1,0 +1,9 @@
+POI: 			Rade_Serbedzija 
+Youtube ID: 	Ovdq8_k3XA4 
+Video length: 	502.0 sec 
+Set (V): 		dev 
+ 
+Rade_Serbedzija/Ovdq8_k3XA4_0000001 47.7 51.7 
+Rade_Serbedzija/Ovdq8_k3XA4_0000002 223.2 227.6 
+Rade_Serbedzija/Ovdq8_k3XA4_0000003 290.8 295.2 
+Rade_Serbedzija/Ovdq8_k3XA4_0000004 416.0 421.9 

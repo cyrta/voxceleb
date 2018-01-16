@@ -1,0 +1,7 @@
+POI: 			Ralph_Macchio 
+Youtube ID: 	NiuZJK5CRVc 
+Video length: 	94.8 sec 
+Set (V): 		dev 
+ 
+Ralph_Macchio/NiuZJK5CRVc_0000001 64.4 71.0 
+Ralph_Macchio/NiuZJK5CRVc_0000002 71.8 76.1 

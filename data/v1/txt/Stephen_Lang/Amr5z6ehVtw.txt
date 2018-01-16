@@ -1,0 +1,8 @@
+POI: 			Stephen_Lang 
+Youtube ID: 	Amr5z6ehVtw 
+Video length: 	310.9 sec 
+Set (V): 		dev 
+ 
+Stephen_Lang/Amr5z6ehVtw_0000001 108.9 114.1 
+Stephen_Lang/Amr5z6ehVtw_0000002 166.4 173.3 
+Stephen_Lang/Amr5z6ehVtw_0000003 269.2 273.6 

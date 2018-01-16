@@ -1,0 +1,6 @@
+POI: 			John_Oliver 
+Youtube ID: 	40dnEuHWySU 
+Video length: 	441.0 sec 
+Set (V): 		dev 
+ 
+John_Oliver/40dnEuHWySU_0000001 347.5 352.0 

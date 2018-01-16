@@ -1,0 +1,16 @@
+POI: 			Patrick_Duffy 
+Youtube ID: 	whfc-H_HSgQ 
+Video length: 	347.8 sec 
+Set (V): 		dev 
+ 
+Patrick_Duffy/whfc-H_HSgQ_0000001 06.1 10.1 
+Patrick_Duffy/whfc-H_HSgQ_0000002 11.4 18.6 
+Patrick_Duffy/whfc-H_HSgQ_0000003 20.4 39.6 
+Patrick_Duffy/whfc-H_HSgQ_0000004 98.7 116.4 
+Patrick_Duffy/whfc-H_HSgQ_0000005 117.0 129.4 
+Patrick_Duffy/whfc-H_HSgQ_0000006 158.3 165.9 
+Patrick_Duffy/whfc-H_HSgQ_0000007 170.4 182.7 
+Patrick_Duffy/whfc-H_HSgQ_0000008 183.2 188.8 
+Patrick_Duffy/whfc-H_HSgQ_0000009 188.9 222.1 
+Patrick_Duffy/whfc-H_HSgQ_0000010 252.0 256.8 
+Patrick_Duffy/whfc-H_HSgQ_0000011 275.8 312.7 

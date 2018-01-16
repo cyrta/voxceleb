@@ -1,0 +1,15 @@
+POI: 			Miranda_Cosgrove 
+Youtube ID: 	fGhSkJg4Sd4 
+Video length: 	285.4 sec 
+Set (V): 		dev 
+ 
+Miranda_Cosgrove/fGhSkJg4Sd4_0000001 25.4 39.6 
+Miranda_Cosgrove/fGhSkJg4Sd4_0000002 49.8 62.8 
+Miranda_Cosgrove/fGhSkJg4Sd4_0000003 102.5 117.6 
+Miranda_Cosgrove/fGhSkJg4Sd4_0000004 125.8 135.0 
+Miranda_Cosgrove/fGhSkJg4Sd4_0000005 156.4 162.2 
+Miranda_Cosgrove/fGhSkJg4Sd4_0000006 173.8 178.6 
+Miranda_Cosgrove/fGhSkJg4Sd4_0000007 187.1 193.1 
+Miranda_Cosgrove/fGhSkJg4Sd4_0000008 229.3 242.0 
+Miranda_Cosgrove/fGhSkJg4Sd4_0000009 246.2 252.4 
+Miranda_Cosgrove/fGhSkJg4Sd4_0000010 268.7 275.7 

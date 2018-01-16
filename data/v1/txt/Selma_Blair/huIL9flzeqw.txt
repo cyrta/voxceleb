@@ -1,0 +1,8 @@
+POI: 			Selma_Blair 
+Youtube ID: 	huIL9flzeqw 
+Video length: 	530.4 sec 
+Set (V): 		dev 
+ 
+Selma_Blair/huIL9flzeqw_0000001 111.9 119.4 
+Selma_Blair/huIL9flzeqw_0000002 226.8 233.7 
+Selma_Blair/huIL9flzeqw_0000003 312.8 318.0 

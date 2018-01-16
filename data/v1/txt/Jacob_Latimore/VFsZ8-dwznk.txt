@@ -1,0 +1,8 @@
+POI: 			Jacob_Latimore 
+Youtube ID: 	VFsZ8-dwznk 
+Video length: 	102.7 sec 
+Set (V): 		dev 
+ 
+Jacob_Latimore/VFsZ8-dwznk_0000001 55.3 64.6 
+Jacob_Latimore/VFsZ8-dwznk_0000002 70.8 77.4 
+Jacob_Latimore/VFsZ8-dwznk_0000003 80.9 86.0 

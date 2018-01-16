@@ -1,0 +1,10 @@
+POI: 			Richard_E._Grant 
+Youtube ID: 	i7VYVAPopgo 
+Video length: 	241.1 sec 
+Set (V): 		dev 
+ 
+Richard_E._Grant/i7VYVAPopgo_0000001 16.2 21.1 
+Richard_E._Grant/i7VYVAPopgo_0000002 25.1 29.3 
+Richard_E._Grant/i7VYVAPopgo_0000003 65.8 76.2 
+Richard_E._Grant/i7VYVAPopgo_0000004 92.3 106.8 
+Richard_E._Grant/i7VYVAPopgo_0000005 115.2 120.8 

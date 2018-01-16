@@ -1,0 +1,32 @@
+POI: 			Richard_Madden 
+Youtube ID: 	cH0DPcvYdKU 
+Video length: 	1908.4 sec 
+Set (V): 		dev 
+ 
+Richard_Madden/cH0DPcvYdKU_0000001 289.8 299.1 
+Richard_Madden/cH0DPcvYdKU_0000002 299.6 316.7 
+Richard_Madden/cH0DPcvYdKU_0000003 325.8 333.2 
+Richard_Madden/cH0DPcvYdKU_0000004 336.8 347.2 
+Richard_Madden/cH0DPcvYdKU_0000005 347.7 361.0 
+Richard_Madden/cH0DPcvYdKU_0000006 361.6 365.7 
+Richard_Madden/cH0DPcvYdKU_0000007 610.2 626.6 
+Richard_Madden/cH0DPcvYdKU_0000008 644.2 657.7 
+Richard_Madden/cH0DPcvYdKU_0000009 658.0 665.0 
+Richard_Madden/cH0DPcvYdKU_0000010 796.7 817.8 
+Richard_Madden/cH0DPcvYdKU_0000011 821.6 830.6 
+Richard_Madden/cH0DPcvYdKU_0000012 884.3 889.5 
+Richard_Madden/cH0DPcvYdKU_0000013 901.7 910.8 
+Richard_Madden/cH0DPcvYdKU_0000014 912.5 917.5 
+Richard_Madden/cH0DPcvYdKU_0000015 1056.1 1065.5 
+Richard_Madden/cH0DPcvYdKU_0000016 1067.6 1074.2 
+Richard_Madden/cH0DPcvYdKU_0000017 1211.2 1234.4 
+Richard_Madden/cH0DPcvYdKU_0000018 1278.3 1286.5 
+Richard_Madden/cH0DPcvYdKU_0000019 1287.8 1297.2 
+Richard_Madden/cH0DPcvYdKU_0000020 1297.4 1305.6 
+Richard_Madden/cH0DPcvYdKU_0000021 1467.0 1479.0 
+Richard_Madden/cH0DPcvYdKU_0000022 1479.4 1491.9 
+Richard_Madden/cH0DPcvYdKU_0000023 1492.6 1496.9 
+Richard_Madden/cH0DPcvYdKU_0000024 1666.2 1672.3 
+Richard_Madden/cH0DPcvYdKU_0000025 1672.9 1679.2 
+Richard_Madden/cH0DPcvYdKU_0000026 1679.2 1691.3 
+Richard_Madden/cH0DPcvYdKU_0000027 1842.2 1851.0 

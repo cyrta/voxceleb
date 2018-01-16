@@ -1,0 +1,16 @@
+POI: 			Melissa_Leo 
+Youtube ID: 	0TG0ymuNtns 
+Video length: 	226.9 sec 
+Set (V): 		dev 
+ 
+Melissa_Leo/0TG0ymuNtns_0000001 79.1 88.9 
+Melissa_Leo/0TG0ymuNtns_0000002 93.2 97.7 
+Melissa_Leo/0TG0ymuNtns_0000003 101.3 107.2 
+Melissa_Leo/0TG0ymuNtns_0000004 107.4 112.4 
+Melissa_Leo/0TG0ymuNtns_0000005 120.5 126.6 
+Melissa_Leo/0TG0ymuNtns_0000006 164.4 169.0 
+Melissa_Leo/0TG0ymuNtns_0000007 176.5 183.6 
+Melissa_Leo/0TG0ymuNtns_0000008 184.2 189.4 
+Melissa_Leo/0TG0ymuNtns_0000009 191.3 201.8 
+Melissa_Leo/0TG0ymuNtns_0000010 202.8 207.8 
+Melissa_Leo/0TG0ymuNtns_0000011 208.9 214.0 

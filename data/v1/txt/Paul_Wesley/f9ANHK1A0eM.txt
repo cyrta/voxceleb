@@ -1,0 +1,9 @@
+POI: 			Paul_Wesley 
+Youtube ID: 	f9ANHK1A0eM 
+Video length: 	215.2 sec 
+Set (V): 		dev 
+ 
+Paul_Wesley/f9ANHK1A0eM_0000001 06.1 11.3 
+Paul_Wesley/f9ANHK1A0eM_0000002 13.8 20.8 
+Paul_Wesley/f9ANHK1A0eM_0000003 71.2 75.9 
+Paul_Wesley/f9ANHK1A0eM_0000004 101.3 108.8 

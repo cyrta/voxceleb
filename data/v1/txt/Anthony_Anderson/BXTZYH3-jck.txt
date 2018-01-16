@@ -1,0 +1,7 @@
+POI: 			Anthony_Anderson 
+Youtube ID: 	BXTZYH3-jck 
+Video length: 	154.9 sec 
+Set (V): 		dev 
+ 
+Anthony_Anderson/BXTZYH3-jck_0000001 120.6 125.5 
+Anthony_Anderson/BXTZYH3-jck_0000002 131.8 138.0 

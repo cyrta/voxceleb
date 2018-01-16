@@ -1,0 +1,12 @@
+POI: 			Anthony_Anderson 
+Youtube ID: 	cFm97YUvlH8 
+Video length: 	336.1 sec 
+Set (V): 		dev 
+ 
+Anthony_Anderson/cFm97YUvlH8_0000001 88.1 104.3 
+Anthony_Anderson/cFm97YUvlH8_0000002 125.9 131.2 
+Anthony_Anderson/cFm97YUvlH8_0000003 279.0 283.6 
+Anthony_Anderson/cFm97YUvlH8_0000004 284.2 289.3 
+Anthony_Anderson/cFm97YUvlH8_0000005 294.2 299.0 
+Anthony_Anderson/cFm97YUvlH8_0000006 301.6 307.5 
+Anthony_Anderson/cFm97YUvlH8_0000007 308.2 315.8 

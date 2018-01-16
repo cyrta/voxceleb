@@ -1,0 +1,8 @@
+POI: 			Laura_Carmichael 
+Youtube ID: 	OFoTRjri_Tk 
+Video length: 	151.0 sec 
+Set (V): 		dev 
+ 
+Laura_Carmichael/OFoTRjri_Tk_0000001 53.4 60.5 
+Laura_Carmichael/OFoTRjri_Tk_0000002 60.9 67.6 
+Laura_Carmichael/OFoTRjri_Tk_0000003 68.4 73.0 

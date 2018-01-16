@@ -1,0 +1,11 @@
+POI: 			Marc_Webb 
+Youtube ID: 	9ciOT8vmeJs 
+Video length: 	112.4 sec 
+Set (V): 		dev 
+ 
+Marc_Webb/9ciOT8vmeJs_0000001 08.6 18.2 
+Marc_Webb/9ciOT8vmeJs_0000002 43.4 49.1 
+Marc_Webb/9ciOT8vmeJs_0000003 51.3 55.9 
+Marc_Webb/9ciOT8vmeJs_0000004 57.2 62.6 
+Marc_Webb/9ciOT8vmeJs_0000005 67.7 80.1 
+Marc_Webb/9ciOT8vmeJs_0000006 43.4 47.8 

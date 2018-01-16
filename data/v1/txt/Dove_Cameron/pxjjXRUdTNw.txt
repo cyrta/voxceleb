@@ -1,0 +1,8 @@
+POI: 			Dove_Cameron 
+Youtube ID: 	pxjjXRUdTNw 
+Video length: 	181.9 sec 
+Set (V): 		dev 
+ 
+Dove_Cameron/pxjjXRUdTNw_0000001 41.4 48.0 
+Dove_Cameron/pxjjXRUdTNw_0000002 101.3 107.0 
+Dove_Cameron/pxjjXRUdTNw_0000003 134.2 143.4 

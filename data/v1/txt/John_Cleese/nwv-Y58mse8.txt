@@ -1,0 +1,11 @@
+POI: 			John_Cleese 
+Youtube ID: 	nwv-Y58mse8 
+Video length: 	571.8 sec 
+Set (V): 		dev 
+ 
+John_Cleese/nwv-Y58mse8_0000001 242.5 246.8 
+John_Cleese/nwv-Y58mse8_0000002 321.5 325.5 
+John_Cleese/nwv-Y58mse8_0000003 340.2 345.6 
+John_Cleese/nwv-Y58mse8_0000004 429.0 434.4 
+John_Cleese/nwv-Y58mse8_0000005 479.0 483.2 
+John_Cleese/nwv-Y58mse8_0000006 544.6 549.0 

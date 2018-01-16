@@ -1,0 +1,9 @@
+POI: 			Ralph_Macchio 
+Youtube ID: 	8IhLeNnmNVM 
+Video length: 	237.4 sec 
+Set (V): 		dev 
+ 
+Ralph_Macchio/8IhLeNnmNVM_0000001 65.0 75.9 
+Ralph_Macchio/8IhLeNnmNVM_0000002 120.7 128.8 
+Ralph_Macchio/8IhLeNnmNVM_0000003 139.4 152.5 
+Ralph_Macchio/8IhLeNnmNVM_0000004 224.6 229.5 

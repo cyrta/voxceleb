@@ -1,0 +1,33 @@
+POI: 			Blake_Shelton 
+Youtube ID: 	LawD2f_daPM 
+Video length: 	420.5 sec 
+Set (V): 		dev 
+ 
+Blake_Shelton/LawD2f_daPM_0000001 01.8 07.0 
+Blake_Shelton/LawD2f_daPM_0000002 49.4 53.6 
+Blake_Shelton/LawD2f_daPM_0000003 58.2 64.8 
+Blake_Shelton/LawD2f_daPM_0000004 72.2 76.9 
+Blake_Shelton/LawD2f_daPM_0000005 81.1 88.6 
+Blake_Shelton/LawD2f_daPM_0000006 93.2 100.5 
+Blake_Shelton/LawD2f_daPM_0000007 102.8 108.2 
+Blake_Shelton/LawD2f_daPM_0000008 117.2 121.9 
+Blake_Shelton/LawD2f_daPM_0000009 126.0 132.1 
+Blake_Shelton/LawD2f_daPM_0000010 133.1 138.0 
+Blake_Shelton/LawD2f_daPM_0000011 154.1 158.8 
+Blake_Shelton/LawD2f_daPM_0000012 162.8 167.2 
+Blake_Shelton/LawD2f_daPM_0000013 182.7 187.2 
+Blake_Shelton/LawD2f_daPM_0000014 195.0 207.4 
+Blake_Shelton/LawD2f_daPM_0000015 220.8 225.2 
+Blake_Shelton/LawD2f_daPM_0000016 225.3 231.1 
+Blake_Shelton/LawD2f_daPM_0000017 251.7 259.1 
+Blake_Shelton/LawD2f_daPM_0000018 263.4 277.5 
+Blake_Shelton/LawD2f_daPM_0000019 279.9 287.2 
+Blake_Shelton/LawD2f_daPM_0000020 291.6 299.5 
+Blake_Shelton/LawD2f_daPM_0000021 322.9 328.3 
+Blake_Shelton/LawD2f_daPM_0000022 329.4 334.5 
+Blake_Shelton/LawD2f_daPM_0000023 334.6 339.2 
+Blake_Shelton/LawD2f_daPM_0000024 362.9 367.6 
+Blake_Shelton/LawD2f_daPM_0000025 367.6 373.7 
+Blake_Shelton/LawD2f_daPM_0000026 377.4 383.8 
+Blake_Shelton/LawD2f_daPM_0000027 384.6 389.1 
+Blake_Shelton/LawD2f_daPM_0000028 407.4 415.3 

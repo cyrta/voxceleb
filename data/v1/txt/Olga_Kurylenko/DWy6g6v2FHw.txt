@@ -1,0 +1,13 @@
+POI: 			Olga_Kurylenko 
+Youtube ID: 	DWy6g6v2FHw 
+Video length: 	439.0 sec 
+Set (V): 		dev 
+ 
+Olga_Kurylenko/DWy6g6v2FHw_0000001 34.2 40.2 
+Olga_Kurylenko/DWy6g6v2FHw_0000002 138.6 144.2 
+Olga_Kurylenko/DWy6g6v2FHw_0000003 158.6 163.0 
+Olga_Kurylenko/DWy6g6v2FHw_0000004 163.9 169.7 
+Olga_Kurylenko/DWy6g6v2FHw_0000005 227.4 232.2 
+Olga_Kurylenko/DWy6g6v2FHw_0000006 252.3 257.4 
+Olga_Kurylenko/DWy6g6v2FHw_0000007 272.4 277.3 
+Olga_Kurylenko/DWy6g6v2FHw_0000008 418.2 426.1 

@@ -1,0 +1,26 @@
+POI: 			Pablo_Schreiber 
+Youtube ID: 	rm0Rl33HpEs 
+Video length: 	307.2 sec 
+Set (V): 		dev 
+ 
+Pablo_Schreiber/rm0Rl33HpEs_0000001 06.1 14.6 
+Pablo_Schreiber/rm0Rl33HpEs_0000002 17.2 22.6 
+Pablo_Schreiber/rm0Rl33HpEs_0000003 25.0 31.8 
+Pablo_Schreiber/rm0Rl33HpEs_0000004 34.4 40.8 
+Pablo_Schreiber/rm0Rl33HpEs_0000005 56.9 65.0 
+Pablo_Schreiber/rm0Rl33HpEs_0000006 69.7 87.1 
+Pablo_Schreiber/rm0Rl33HpEs_0000007 99.5 108.2 
+Pablo_Schreiber/rm0Rl33HpEs_0000008 110.9 117.8 
+Pablo_Schreiber/rm0Rl33HpEs_0000009 126.4 146.2 
+Pablo_Schreiber/rm0Rl33HpEs_0000010 146.9 152.4 
+Pablo_Schreiber/rm0Rl33HpEs_0000011 164.1 177.5 
+Pablo_Schreiber/rm0Rl33HpEs_0000012 183.8 188.5 
+Pablo_Schreiber/rm0Rl33HpEs_0000013 194.4 205.8 
+Pablo_Schreiber/rm0Rl33HpEs_0000014 207.5 227.0 
+Pablo_Schreiber/rm0Rl33HpEs_0000015 230.0 237.3 
+Pablo_Schreiber/rm0Rl33HpEs_0000016 245.2 250.2 
+Pablo_Schreiber/rm0Rl33HpEs_0000017 250.4 257.0 
+Pablo_Schreiber/rm0Rl33HpEs_0000018 258.0 262.9 
+Pablo_Schreiber/rm0Rl33HpEs_0000019 273.0 278.6 
+Pablo_Schreiber/rm0Rl33HpEs_0000020 278.9 286.3 
+Pablo_Schreiber/rm0Rl33HpEs_0000021 295.2 302.9 

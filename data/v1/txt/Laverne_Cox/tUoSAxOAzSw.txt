@@ -1,0 +1,16 @@
+POI: 			Laverne_Cox 
+Youtube ID: 	tUoSAxOAzSw 
+Video length: 	406.9 sec 
+Set (V): 		dev 
+ 
+Laverne_Cox/tUoSAxOAzSw_0000001 36.8 47.2 
+Laverne_Cox/tUoSAxOAzSw_0000002 79.7 89.7 
+Laverne_Cox/tUoSAxOAzSw_0000003 103.0 114.5 
+Laverne_Cox/tUoSAxOAzSw_0000004 136.9 144.4 
+Laverne_Cox/tUoSAxOAzSw_0000005 162.5 197.1 
+Laverne_Cox/tUoSAxOAzSw_0000006 227.6 233.0 
+Laverne_Cox/tUoSAxOAzSw_0000007 250.2 263.2 
+Laverne_Cox/tUoSAxOAzSw_0000008 294.3 303.8 
+Laverne_Cox/tUoSAxOAzSw_0000009 314.5 326.6 
+Laverne_Cox/tUoSAxOAzSw_0000010 356.4 362.8 
+Laverne_Cox/tUoSAxOAzSw_0000011 391.0 395.3 

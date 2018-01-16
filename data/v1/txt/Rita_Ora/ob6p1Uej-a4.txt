@@ -1,0 +1,15 @@
+POI: 			Rita_Ora 
+Youtube ID: 	ob6p1Uej-a4 
+Video length: 	243.1 sec 
+Set (V): 		dev 
+ 
+Rita_Ora/ob6p1Uej-a4_0000001 00.8 07.6 
+Rita_Ora/ob6p1Uej-a4_0000002 26.3 30.6 
+Rita_Ora/ob6p1Uej-a4_0000003 35.4 48.4 
+Rita_Ora/ob6p1Uej-a4_0000004 57.9 62.4 
+Rita_Ora/ob6p1Uej-a4_0000005 106.8 112.2 
+Rita_Ora/ob6p1Uej-a4_0000006 128.4 133.8 
+Rita_Ora/ob6p1Uej-a4_0000007 139.0 151.1 
+Rita_Ora/ob6p1Uej-a4_0000008 170.4 181.6 
+Rita_Ora/ob6p1Uej-a4_0000009 190.4 200.3 
+Rita_Ora/ob6p1Uej-a4_0000010 209.2 215.8 

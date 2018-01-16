@@ -1,0 +1,19 @@
+POI: 			Ron_Perlman 
+Youtube ID: 	p6wKxdg0p9w 
+Video length: 	295.4 sec 
+Set (V): 		dev 
+ 
+Ron_Perlman/p6wKxdg0p9w_0000001 50.8 55.3 
+Ron_Perlman/p6wKxdg0p9w_0000002 89.2 96.1 
+Ron_Perlman/p6wKxdg0p9w_0000003 104.3 109.6 
+Ron_Perlman/p6wKxdg0p9w_0000004 110.7 116.0 
+Ron_Perlman/p6wKxdg0p9w_0000005 146.8 151.3 
+Ron_Perlman/p6wKxdg0p9w_0000006 166.2 172.4 
+Ron_Perlman/p6wKxdg0p9w_0000007 185.0 193.8 
+Ron_Perlman/p6wKxdg0p9w_0000008 194.5 198.5 
+Ron_Perlman/p6wKxdg0p9w_0000009 202.9 208.8 
+Ron_Perlman/p6wKxdg0p9w_0000010 226.4 231.3 
+Ron_Perlman/p6wKxdg0p9w_0000011 237.1 241.8 
+Ron_Perlman/p6wKxdg0p9w_0000012 242.4 248.4 
+Ron_Perlman/p6wKxdg0p9w_0000013 258.4 263.9 
+Ron_Perlman/p6wKxdg0p9w_0000014 264.7 269.7 

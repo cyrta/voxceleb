@@ -1,0 +1,14 @@
+POI: 			Richard_E._Grant 
+Youtube ID: 	xLe25FZM9_I 
+Video length: 	141.1 sec 
+Set (V): 		dev 
+ 
+Richard_E._Grant/xLe25FZM9_I_0000001 11.2 23.5 
+Richard_E._Grant/xLe25FZM9_I_0000002 31.2 38.8 
+Richard_E._Grant/xLe25FZM9_I_0000003 59.5 67.1 
+Richard_E._Grant/xLe25FZM9_I_0000004 70.4 76.5 
+Richard_E._Grant/xLe25FZM9_I_0000005 76.8 82.9 
+Richard_E._Grant/xLe25FZM9_I_0000006 84.4 91.9 
+Richard_E._Grant/xLe25FZM9_I_0000007 92.6 98.5 
+Richard_E._Grant/xLe25FZM9_I_0000008 99.1 103.9 
+Richard_E._Grant/xLe25FZM9_I_0000009 123.7 131.0 

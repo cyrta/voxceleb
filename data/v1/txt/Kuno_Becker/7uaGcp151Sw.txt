@@ -1,0 +1,17 @@
+POI: 			Kuno_Becker 
+Youtube ID: 	7uaGcp151Sw 
+Video length: 	434.0 sec 
+Set (V): 		dev 
+ 
+Kuno_Becker/7uaGcp151Sw_0000001 62.4 66.6 
+Kuno_Becker/7uaGcp151Sw_0000002 71.6 75.8 
+Kuno_Becker/7uaGcp151Sw_0000003 76.4 92.4 
+Kuno_Becker/7uaGcp151Sw_0000004 140.2 145.2 
+Kuno_Becker/7uaGcp151Sw_0000005 147.6 157.2 
+Kuno_Becker/7uaGcp151Sw_0000006 244.6 251.5 
+Kuno_Becker/7uaGcp151Sw_0000007 253.6 266.4 
+Kuno_Becker/7uaGcp151Sw_0000008 319.4 339.0 
+Kuno_Becker/7uaGcp151Sw_0000009 339.4 348.5 
+Kuno_Becker/7uaGcp151Sw_0000010 349.2 358.2 
+Kuno_Becker/7uaGcp151Sw_0000011 401.6 407.2 
+Kuno_Becker/7uaGcp151Sw_0000012 410.7 420.0 

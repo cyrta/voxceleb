@@ -1,0 +1,14 @@
+POI: 			Irrfan_Khan 
+Youtube ID: 	aWAguBjO03M 
+Video length: 	203.2 sec 
+Set (V): 		dev 
+ 
+Irrfan_Khan/aWAguBjO03M_0000001 15.6 21.2 
+Irrfan_Khan/aWAguBjO03M_0000002 28.9 35.3 
+Irrfan_Khan/aWAguBjO03M_0000003 52.8 61.8 
+Irrfan_Khan/aWAguBjO03M_0000004 61.9 66.8 
+Irrfan_Khan/aWAguBjO03M_0000005 79.8 86.6 
+Irrfan_Khan/aWAguBjO03M_0000006 91.6 102.3 
+Irrfan_Khan/aWAguBjO03M_0000007 130.2 135.8 
+Irrfan_Khan/aWAguBjO03M_0000008 162.9 176.5 
+Irrfan_Khan/aWAguBjO03M_0000009 183.3 190.9 

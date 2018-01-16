@@ -1,0 +1,9 @@
+POI: 			Eugene_Levy 
+Youtube ID: 	WBN84VSZbIQ 
+Video length: 	190.1 sec 
+Set (V): 		test 
+ 
+Eugene_Levy/WBN84VSZbIQ_0000001 40.2 47.8 
+Eugene_Levy/WBN84VSZbIQ_0000002 51.0 61.2 
+Eugene_Levy/WBN84VSZbIQ_0000003 100.8 104.8 
+Eugene_Levy/WBN84VSZbIQ_0000004 164.0 169.8 

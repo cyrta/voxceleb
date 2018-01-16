@@ -1,0 +1,13 @@
+POI: 			Harry_Shum_Jr. 
+Youtube ID: 	EkZiDZrTOrs 
+Video length: 	625.7 sec 
+Set (V): 		dev 
+ 
+Harry_Shum_Jr./EkZiDZrTOrs_0000001 128.2 133.6 
+Harry_Shum_Jr./EkZiDZrTOrs_0000002 134.1 139.2 
+Harry_Shum_Jr./EkZiDZrTOrs_0000003 224.1 228.1 
+Harry_Shum_Jr./EkZiDZrTOrs_0000004 433.8 439.1 
+Harry_Shum_Jr./EkZiDZrTOrs_0000005 498.4 505.4 
+Harry_Shum_Jr./EkZiDZrTOrs_0000006 507.8 517.8 
+Harry_Shum_Jr./EkZiDZrTOrs_0000007 606.1 610.1 
+Harry_Shum_Jr./EkZiDZrTOrs_0000008 611.7 617.4 

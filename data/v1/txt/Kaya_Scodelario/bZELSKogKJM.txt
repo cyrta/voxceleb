@@ -1,0 +1,16 @@
+POI: 			Kaya_Scodelario 
+Youtube ID: 	bZELSKogKJM 
+Video length: 	259.5 sec 
+Set (V): 		dev 
+ 
+Kaya_Scodelario/bZELSKogKJM_0000001 14.2 19.8 
+Kaya_Scodelario/bZELSKogKJM_0000002 20.4 37.2 
+Kaya_Scodelario/bZELSKogKJM_0000003 37.4 42.0 
+Kaya_Scodelario/bZELSKogKJM_0000004 65.2 77.0 
+Kaya_Scodelario/bZELSKogKJM_0000005 97.4 103.6 
+Kaya_Scodelario/bZELSKogKJM_0000006 113.0 121.8 
+Kaya_Scodelario/bZELSKogKJM_0000007 136.0 144.0 
+Kaya_Scodelario/bZELSKogKJM_0000008 173.3 179.6 
+Kaya_Scodelario/bZELSKogKJM_0000009 179.8 184.2 
+Kaya_Scodelario/bZELSKogKJM_0000010 193.8 200.2 
+Kaya_Scodelario/bZELSKogKJM_0000011 224.5 234.5 

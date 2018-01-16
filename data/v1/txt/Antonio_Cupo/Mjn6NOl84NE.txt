@@ -1,0 +1,14 @@
+POI: 			Antonio_Cupo 
+Youtube ID: 	Mjn6NOl84NE 
+Video length: 	492.6 sec 
+Set (V): 		dev 
+ 
+Antonio_Cupo/Mjn6NOl84NE_0000001 46.0 50.0 
+Antonio_Cupo/Mjn6NOl84NE_0000002 179.8 193.7 
+Antonio_Cupo/Mjn6NOl84NE_0000003 194.4 204.6 
+Antonio_Cupo/Mjn6NOl84NE_0000004 205.4 211.4 
+Antonio_Cupo/Mjn6NOl84NE_0000005 235.6 243.3 
+Antonio_Cupo/Mjn6NOl84NE_0000006 250.1 262.0 
+Antonio_Cupo/Mjn6NOl84NE_0000007 364.2 368.2 
+Antonio_Cupo/Mjn6NOl84NE_0000008 392.4 399.4 
+Antonio_Cupo/Mjn6NOl84NE_0000009 399.6 407.1 

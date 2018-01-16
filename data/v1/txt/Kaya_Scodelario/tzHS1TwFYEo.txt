@@ -1,0 +1,8 @@
+POI: 			Kaya_Scodelario 
+Youtube ID: 	tzHS1TwFYEo 
+Video length: 	273.4 sec 
+Set (V): 		dev 
+ 
+Kaya_Scodelario/tzHS1TwFYEo_0000001 95.4 99.8 
+Kaya_Scodelario/tzHS1TwFYEo_0000002 156.5 161.3 
+Kaya_Scodelario/tzHS1TwFYEo_0000003 265.2 270.1 

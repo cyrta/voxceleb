@@ -1,0 +1,8 @@
+POI: 			Brenda_Blethyn 
+Youtube ID: 	yGaLraY_uDs 
+Video length: 	185.3 sec 
+Set (V): 		dev 
+ 
+Brenda_Blethyn/yGaLraY_uDs_0000001 47.6 51.8 
+Brenda_Blethyn/yGaLraY_uDs_0000002 53.0 57.7 
+Brenda_Blethyn/yGaLraY_uDs_0000003 171.8 183.1 

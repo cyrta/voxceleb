@@ -1,0 +1,15 @@
+POI: 			Kathryn_Joosten 
+Youtube ID: 	l0sTB053VYY 
+Video length: 	198.5 sec 
+Set (V): 		dev 
+ 
+Kathryn_Joosten/l0sTB053VYY_0000001 11.7 23.2 
+Kathryn_Joosten/l0sTB053VYY_0000002 34.1 52.6 
+Kathryn_Joosten/l0sTB053VYY_0000003 52.8 67.0 
+Kathryn_Joosten/l0sTB053VYY_0000004 73.2 77.2 
+Kathryn_Joosten/l0sTB053VYY_0000005 85.5 112.6 
+Kathryn_Joosten/l0sTB053VYY_0000006 120.4 133.8 
+Kathryn_Joosten/l0sTB053VYY_0000007 142.9 148.5 
+Kathryn_Joosten/l0sTB053VYY_0000008 154.4 162.6 
+Kathryn_Joosten/l0sTB053VYY_0000009 165.3 176.6 
+Kathryn_Joosten/l0sTB053VYY_0000010 176.8 188.6 

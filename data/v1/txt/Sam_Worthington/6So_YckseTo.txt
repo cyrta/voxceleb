@@ -1,0 +1,9 @@
+POI: 			Sam_Worthington 
+Youtube ID: 	6So_YckseTo 
+Video length: 	204.8 sec 
+Set (V): 		dev 
+ 
+Sam_Worthington/6So_YckseTo_0000001 51.5 57.4 
+Sam_Worthington/6So_YckseTo_0000002 129.8 136.7 
+Sam_Worthington/6So_YckseTo_0000003 141.8 147.6 
+Sam_Worthington/6So_YckseTo_0000004 165.6 171.4 

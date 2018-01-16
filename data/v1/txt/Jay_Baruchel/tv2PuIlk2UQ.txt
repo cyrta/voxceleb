@@ -1,0 +1,7 @@
+POI: 			Jay_Baruchel 
+Youtube ID: 	tv2PuIlk2UQ 
+Video length: 	718.3 sec 
+Set (V): 		dev 
+ 
+Jay_Baruchel/tv2PuIlk2UQ_0000001 264.4 268.9 
+Jay_Baruchel/tv2PuIlk2UQ_0000002 400.3 405.8 

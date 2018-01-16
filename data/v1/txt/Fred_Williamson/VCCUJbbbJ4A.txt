@@ -1,0 +1,10 @@
+POI: 			Fred_Williamson 
+Youtube ID: 	VCCUJbbbJ4A 
+Video length: 	440.2 sec 
+Set (V): 		dev 
+ 
+Fred_Williamson/VCCUJbbbJ4A_0000001 31.9 36.4 
+Fred_Williamson/VCCUJbbbJ4A_0000002 322.3 326.3 
+Fred_Williamson/VCCUJbbbJ4A_0000003 339.0 351.1 
+Fred_Williamson/VCCUJbbbJ4A_0000004 363.0 372.6 
+Fred_Williamson/VCCUJbbbJ4A_0000005 374.7 379.8 

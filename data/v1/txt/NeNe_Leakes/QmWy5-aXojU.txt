@@ -1,0 +1,10 @@
+POI: 			NeNe_Leakes 
+Youtube ID: 	QmWy5-aXojU 
+Video length: 	65.8 sec 
+Set (V): 		dev 
+ 
+NeNe_Leakes/QmWy5-aXojU_0000001 03.9 14.3 
+NeNe_Leakes/QmWy5-aXojU_0000002 16.1 22.2 
+NeNe_Leakes/QmWy5-aXojU_0000003 25.3 31.0 
+NeNe_Leakes/QmWy5-aXojU_0000004 48.2 58.6 
+NeNe_Leakes/QmWy5-aXojU_0000005 58.9 64.1 

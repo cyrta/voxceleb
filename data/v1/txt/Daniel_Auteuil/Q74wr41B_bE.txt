@@ -1,0 +1,10 @@
+POI: 			Daniel_Auteuil 
+Youtube ID: 	Q74wr41B_bE 
+Video length: 	247.0 sec 
+Set (V): 		dev 
+ 
+Daniel_Auteuil/Q74wr41B_bE_0000001 37.4 41.6 
+Daniel_Auteuil/Q74wr41B_bE_0000002 126.9 132.1 
+Daniel_Auteuil/Q74wr41B_bE_0000003 184.7 188.8 
+Daniel_Auteuil/Q74wr41B_bE_0000004 198.1 205.2 
+Daniel_Auteuil/Q74wr41B_bE_0000005 210.9 217.1 

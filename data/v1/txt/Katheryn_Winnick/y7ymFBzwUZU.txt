@@ -1,0 +1,15 @@
+POI: 			Katheryn_Winnick 
+Youtube ID: 	y7ymFBzwUZU 
+Video length: 	135.8 sec 
+Set (V): 		dev 
+ 
+Katheryn_Winnick/y7ymFBzwUZU_0000001 06.6 14.8 
+Katheryn_Winnick/y7ymFBzwUZU_0000002 16.6 21.9 
+Katheryn_Winnick/y7ymFBzwUZU_0000003 27.3 46.2 
+Katheryn_Winnick/y7ymFBzwUZU_0000004 46.7 53.6 
+Katheryn_Winnick/y7ymFBzwUZU_0000005 70.9 78.6 
+Katheryn_Winnick/y7ymFBzwUZU_0000006 79.0 88.4 
+Katheryn_Winnick/y7ymFBzwUZU_0000007 88.9 94.0 
+Katheryn_Winnick/y7ymFBzwUZU_0000008 99.2 105.4 
+Katheryn_Winnick/y7ymFBzwUZU_0000009 105.5 114.4 
+Katheryn_Winnick/y7ymFBzwUZU_0000010 115.1 122.7 

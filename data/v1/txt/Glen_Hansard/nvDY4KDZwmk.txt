@@ -1,0 +1,15 @@
+POI: 			Glen_Hansard 
+Youtube ID: 	nvDY4KDZwmk 
+Video length: 	1358.4 sec 
+Set (V): 		dev 
+ 
+Glen_Hansard/nvDY4KDZwmk_0000001 93.4 98.2 
+Glen_Hansard/nvDY4KDZwmk_0000002 247.7 254.6 
+Glen_Hansard/nvDY4KDZwmk_0000003 270.7 275.2 
+Glen_Hansard/nvDY4KDZwmk_0000004 305.7 311.9 
+Glen_Hansard/nvDY4KDZwmk_0000005 406.8 415.7 
+Glen_Hansard/nvDY4KDZwmk_0000006 449.0 453.8 
+Glen_Hansard/nvDY4KDZwmk_0000007 465.3 469.3 
+Glen_Hansard/nvDY4KDZwmk_0000008 550.7 565.0 
+Glen_Hansard/nvDY4KDZwmk_0000009 581.6 587.4 
+Glen_Hansard/nvDY4KDZwmk_0000010 597.4 606.1 

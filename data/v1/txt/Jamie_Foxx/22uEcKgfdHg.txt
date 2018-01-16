@@ -1,0 +1,9 @@
+POI: 			Jamie_Foxx 
+Youtube ID: 	22uEcKgfdHg 
+Video length: 	2427.5 sec 
+Set (V): 		dev 
+ 
+Jamie_Foxx/22uEcKgfdHg_0000001 1013.7 1020.4 
+Jamie_Foxx/22uEcKgfdHg_0000002 1023.6 1030.5 
+Jamie_Foxx/22uEcKgfdHg_0000003 2344.6 2351.4 
+Jamie_Foxx/22uEcKgfdHg_0000004 2354.2 2365.2 

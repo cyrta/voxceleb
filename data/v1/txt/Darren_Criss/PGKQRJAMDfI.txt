@@ -1,0 +1,8 @@
+POI: 			Darren_Criss 
+Youtube ID: 	PGKQRJAMDfI 
+Video length: 	589.1 sec 
+Set (V): 		dev 
+ 
+Darren_Criss/PGKQRJAMDfI_0000001 53.7 58.1 
+Darren_Criss/PGKQRJAMDfI_0000002 154.5 159.8 
+Darren_Criss/PGKQRJAMDfI_0000003 316.6 321.0 

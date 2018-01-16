@@ -1,0 +1,8 @@
+POI: 			Kim_Zolciak-Biermann 
+Youtube ID: 	T4iM3NDcsxo 
+Video length: 	84.6 sec 
+Set (V): 		dev 
+ 
+Kim_Zolciak-Biermann/T4iM3NDcsxo_0000001 05.3 24.7 
+Kim_Zolciak-Biermann/T4iM3NDcsxo_0000002 26.0 38.0 
+Kim_Zolciak-Biermann/T4iM3NDcsxo_0000003 44.2 56.9 

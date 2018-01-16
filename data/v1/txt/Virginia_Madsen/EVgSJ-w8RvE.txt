@@ -1,0 +1,28 @@
+POI: 			Virginia_Madsen 
+Youtube ID: 	EVgSJ-w8RvE 
+Video length: 	383.3 sec 
+Set (V): 		dev 
+ 
+Virginia_Madsen/EVgSJ-w8RvE_0000001 07.4 17.4 
+Virginia_Madsen/EVgSJ-w8RvE_0000002 18.2 28.8 
+Virginia_Madsen/EVgSJ-w8RvE_0000003 31.0 37.1 
+Virginia_Madsen/EVgSJ-w8RvE_0000004 49.5 54.3 
+Virginia_Madsen/EVgSJ-w8RvE_0000005 56.1 66.1 
+Virginia_Madsen/EVgSJ-w8RvE_0000006 70.2 103.8 
+Virginia_Madsen/EVgSJ-w8RvE_0000007 107.3 115.2 
+Virginia_Madsen/EVgSJ-w8RvE_0000008 116.6 144.0 
+Virginia_Madsen/EVgSJ-w8RvE_0000009 146.2 152.0 
+Virginia_Madsen/EVgSJ-w8RvE_0000010 155.2 177.8 
+Virginia_Madsen/EVgSJ-w8RvE_0000011 181.4 185.8 
+Virginia_Madsen/EVgSJ-w8RvE_0000012 186.1 192.9 
+Virginia_Madsen/EVgSJ-w8RvE_0000013 194.6 199.8 
+Virginia_Madsen/EVgSJ-w8RvE_0000014 211.4 241.6 
+Virginia_Madsen/EVgSJ-w8RvE_0000015 245.0 253.2 
+Virginia_Madsen/EVgSJ-w8RvE_0000016 257.7 278.8 
+Virginia_Madsen/EVgSJ-w8RvE_0000017 282.1 286.4 
+Virginia_Madsen/EVgSJ-w8RvE_0000018 287.2 291.8 
+Virginia_Madsen/EVgSJ-w8RvE_0000019 295.0 311.9 
+Virginia_Madsen/EVgSJ-w8RvE_0000020 313.7 322.2 
+Virginia_Madsen/EVgSJ-w8RvE_0000021 323.7 331.0 
+Virginia_Madsen/EVgSJ-w8RvE_0000022 334.1 342.5 
+Virginia_Madsen/EVgSJ-w8RvE_0000023 344.6 356.1 

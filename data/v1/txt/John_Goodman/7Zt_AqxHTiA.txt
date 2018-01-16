@@ -1,0 +1,7 @@
+POI: 			John_Goodman 
+Youtube ID: 	7Zt_AqxHTiA 
+Video length: 	162.4 sec 
+Set (V): 		dev 
+ 
+John_Goodman/7Zt_AqxHTiA_0000001 97.8 102.2 
+John_Goodman/7Zt_AqxHTiA_0000002 114.5 120.1 

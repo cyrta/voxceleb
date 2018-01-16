@@ -1,0 +1,8 @@
+POI: 			Judy_Sheindlin 
+Youtube ID: 	HKQ01kJKeII 
+Video length: 	78.2 sec 
+Set (V): 		dev 
+ 
+Judy_Sheindlin/HKQ01kJKeII_0000001 09.4 38.6 
+Judy_Sheindlin/HKQ01kJKeII_0000002 38.9 43.8 
+Judy_Sheindlin/HKQ01kJKeII_0000003 49.0 63.0 

@@ -1,0 +1,8 @@
+POI: 			Geena_Davis 
+Youtube ID: 	pBXqvCeJ9Mc 
+Video length: 	116.2 sec 
+Set (V): 		dev 
+ 
+Geena_Davis/pBXqvCeJ9Mc_0000001 53.2 57.3 
+Geena_Davis/pBXqvCeJ9Mc_0000002 81.7 86.3 
+Geena_Davis/pBXqvCeJ9Mc_0000003 92.8 98.8 

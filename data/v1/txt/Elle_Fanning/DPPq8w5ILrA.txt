@@ -1,0 +1,17 @@
+POI: 			Elle_Fanning 
+Youtube ID: 	DPPq8w5ILrA 
+Video length: 	210.4 sec 
+Set (V): 		test 
+ 
+Elle_Fanning/DPPq8w5ILrA_0000001 17.4 22.0 
+Elle_Fanning/DPPq8w5ILrA_0000002 24.0 56.0 
+Elle_Fanning/DPPq8w5ILrA_0000003 56.3 63.1 
+Elle_Fanning/DPPq8w5ILrA_0000004 65.7 75.8 
+Elle_Fanning/DPPq8w5ILrA_0000005 85.6 106.7 
+Elle_Fanning/DPPq8w5ILrA_0000006 108.8 118.6 
+Elle_Fanning/DPPq8w5ILrA_0000007 122.9 128.0 
+Elle_Fanning/DPPq8w5ILrA_0000008 116.4 134.3 
+Elle_Fanning/DPPq8w5ILrA_0000009 145.8 156.6 
+Elle_Fanning/DPPq8w5ILrA_0000010 157.2 164.7 
+Elle_Fanning/DPPq8w5ILrA_0000011 164.9 168.9 
+Elle_Fanning/DPPq8w5ILrA_0000012 170.6 205.9 

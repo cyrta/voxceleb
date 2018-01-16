@@ -1,0 +1,14 @@
+POI: 			America_Ferrera 
+Youtube ID: 	tEiC2TFawPM 
+Video length: 	557.0 sec 
+Set (V): 		dev 
+ 
+America_Ferrera/tEiC2TFawPM_0000001 84.8 91.3 
+America_Ferrera/tEiC2TFawPM_0000002 97.7 103.9 
+America_Ferrera/tEiC2TFawPM_0000003 149.2 154.2 
+America_Ferrera/tEiC2TFawPM_0000004 198.5 204.1 
+America_Ferrera/tEiC2TFawPM_0000005 230.8 235.4 
+America_Ferrera/tEiC2TFawPM_0000006 319.4 324.5 
+America_Ferrera/tEiC2TFawPM_0000007 326.6 332.6 
+America_Ferrera/tEiC2TFawPM_0000008 333.1 338.3 
+America_Ferrera/tEiC2TFawPM_0000009 464.0 468.4 

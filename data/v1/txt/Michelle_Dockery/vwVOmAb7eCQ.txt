@@ -1,0 +1,13 @@
+POI: 			Michelle_Dockery 
+Youtube ID: 	vwVOmAb7eCQ 
+Video length: 	560.4 sec 
+Set (V): 		dev 
+ 
+Michelle_Dockery/vwVOmAb7eCQ_0000001 32.8 39.1 
+Michelle_Dockery/vwVOmAb7eCQ_0000002 44.0 48.4 
+Michelle_Dockery/vwVOmAb7eCQ_0000003 90.5 96.8 
+Michelle_Dockery/vwVOmAb7eCQ_0000004 123.8 128.1 
+Michelle_Dockery/vwVOmAb7eCQ_0000005 260.6 265.0 
+Michelle_Dockery/vwVOmAb7eCQ_0000006 272.4 276.8 
+Michelle_Dockery/vwVOmAb7eCQ_0000007 325.2 329.8 
+Michelle_Dockery/vwVOmAb7eCQ_0000008 434.1 440.9 

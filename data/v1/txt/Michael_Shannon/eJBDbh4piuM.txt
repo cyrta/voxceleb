@@ -1,0 +1,7 @@
+POI: 			Michael_Shannon 
+Youtube ID: 	eJBDbh4piuM 
+Video length: 	270.4 sec 
+Set (V): 		dev 
+ 
+Michael_Shannon/eJBDbh4piuM_0000001 13.0 18.7 
+Michael_Shannon/eJBDbh4piuM_0000002 123.6 129.0 

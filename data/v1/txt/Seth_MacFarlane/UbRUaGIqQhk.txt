@@ -1,0 +1,7 @@
+POI: 			Seth_MacFarlane 
+Youtube ID: 	UbRUaGIqQhk 
+Video length: 	254.8 sec 
+Set (V): 		dev 
+ 
+Seth_MacFarlane/UbRUaGIqQhk_0000001 45.0 50.3 
+Seth_MacFarlane/UbRUaGIqQhk_0000002 116.4 123.2 

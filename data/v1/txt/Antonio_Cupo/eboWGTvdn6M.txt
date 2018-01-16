@@ -1,0 +1,41 @@
+POI: 			Antonio_Cupo 
+Youtube ID: 	eboWGTvdn6M 
+Video length: 	696.8 sec 
+Set (V): 		dev 
+ 
+Antonio_Cupo/eboWGTvdn6M_0000001 01.8 06.4 
+Antonio_Cupo/eboWGTvdn6M_0000002 08.2 13.2 
+Antonio_Cupo/eboWGTvdn6M_0000003 25.9 33.0 
+Antonio_Cupo/eboWGTvdn6M_0000004 48.9 56.9 
+Antonio_Cupo/eboWGTvdn6M_0000005 57.0 64.6 
+Antonio_Cupo/eboWGTvdn6M_0000006 81.5 86.7 
+Antonio_Cupo/eboWGTvdn6M_0000007 101.6 110.4 
+Antonio_Cupo/eboWGTvdn6M_0000008 111.6 118.1 
+Antonio_Cupo/eboWGTvdn6M_0000009 138.3 146.8 
+Antonio_Cupo/eboWGTvdn6M_0000010 177.8 183.4 
+Antonio_Cupo/eboWGTvdn6M_0000011 185.3 197.2 
+Antonio_Cupo/eboWGTvdn6M_0000012 198.2 209.2 
+Antonio_Cupo/eboWGTvdn6M_0000013 255.3 262.8 
+Antonio_Cupo/eboWGTvdn6M_0000014 297.0 305.9 
+Antonio_Cupo/eboWGTvdn6M_0000015 306.4 313.4 
+Antonio_Cupo/eboWGTvdn6M_0000016 317.9 322.4 
+Antonio_Cupo/eboWGTvdn6M_0000017 337.0 343.8 
+Antonio_Cupo/eboWGTvdn6M_0000018 349.9 357.6 
+Antonio_Cupo/eboWGTvdn6M_0000019 379.3 383.7 
+Antonio_Cupo/eboWGTvdn6M_0000020 388.6 395.3 
+Antonio_Cupo/eboWGTvdn6M_0000021 399.7 412.5 
+Antonio_Cupo/eboWGTvdn6M_0000022 418.4 423.1 
+Antonio_Cupo/eboWGTvdn6M_0000023 450.0 458.1 
+Antonio_Cupo/eboWGTvdn6M_0000024 458.5 463.3 
+Antonio_Cupo/eboWGTvdn6M_0000025 480.4 484.6 
+Antonio_Cupo/eboWGTvdn6M_0000026 519.5 523.8 
+Antonio_Cupo/eboWGTvdn6M_0000027 528.4 534.3 
+Antonio_Cupo/eboWGTvdn6M_0000028 534.4 539.0 
+Antonio_Cupo/eboWGTvdn6M_0000029 544.8 549.3 
+Antonio_Cupo/eboWGTvdn6M_0000030 554.5 558.8 
+Antonio_Cupo/eboWGTvdn6M_0000031 561.2 565.4 
+Antonio_Cupo/eboWGTvdn6M_0000032 596.9 601.7 
+Antonio_Cupo/eboWGTvdn6M_0000033 607.0 611.2 
+Antonio_Cupo/eboWGTvdn6M_0000034 627.0 636.0 
+Antonio_Cupo/eboWGTvdn6M_0000035 645.6 650.6 
+Antonio_Cupo/eboWGTvdn6M_0000036 670.3 677.7 

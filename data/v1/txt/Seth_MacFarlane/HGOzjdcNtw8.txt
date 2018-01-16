@@ -1,0 +1,9 @@
+POI: 			Seth_MacFarlane 
+Youtube ID: 	HGOzjdcNtw8 
+Video length: 	585.6 sec 
+Set (V): 		dev 
+ 
+Seth_MacFarlane/HGOzjdcNtw8_0000001 49.7 54.2 
+Seth_MacFarlane/HGOzjdcNtw8_0000002 267.2 274.5 
+Seth_MacFarlane/HGOzjdcNtw8_0000003 292.5 296.9 
+Seth_MacFarlane/HGOzjdcNtw8_0000004 326.3 339.9 

@@ -1,0 +1,11 @@
+POI: 			Mya 
+Youtube ID: 	JUC4cCZpdBw 
+Video length: 	145.2 sec 
+Set (V): 		dev 
+ 
+Mya/JUC4cCZpdBw_0000001 10.9 21.3 
+Mya/JUC4cCZpdBw_0000002 48.0 54.8 
+Mya/JUC4cCZpdBw_0000003 55.2 68.7 
+Mya/JUC4cCZpdBw_0000004 78.6 84.0 
+Mya/JUC4cCZpdBw_0000005 86.1 91.3 
+Mya/JUC4cCZpdBw_0000006 130.6 137.2 

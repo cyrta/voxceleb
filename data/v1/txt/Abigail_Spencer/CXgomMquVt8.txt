@@ -1,0 +1,10 @@
+POI: 			Abigail_Spencer 
+Youtube ID: 	CXgomMquVt8 
+Video length: 	828.5 sec 
+Set (V): 		dev 
+ 
+Abigail_Spencer/CXgomMquVt8_0000001 151.1 161.5 
+Abigail_Spencer/CXgomMquVt8_0000002 214.0 218.2 
+Abigail_Spencer/CXgomMquVt8_0000003 324.7 331.4 
+Abigail_Spencer/CXgomMquVt8_0000004 461.6 467.0 
+Abigail_Spencer/CXgomMquVt8_0000005 633.7 643.9 

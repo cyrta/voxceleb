@@ -1,0 +1,8 @@
+POI: 			Jean_Reno 
+Youtube ID: 	ReafF-rx_y8 
+Video length: 	77.7 sec 
+Set (V): 		dev 
+ 
+Jean_Reno/ReafF-rx_y8_0000001 17.5 23.3 
+Jean_Reno/ReafF-rx_y8_0000002 55.6 62.0 
+Jean_Reno/ReafF-rx_y8_0000003 62.0 66.6 

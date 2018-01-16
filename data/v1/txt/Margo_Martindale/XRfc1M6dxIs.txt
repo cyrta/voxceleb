@@ -1,0 +1,8 @@
+POI: 			Margo_Martindale 
+Youtube ID: 	XRfc1M6dxIs 
+Video length: 	906.4 sec 
+Set (V): 		dev 
+ 
+Margo_Martindale/XRfc1M6dxIs_0000001 73.2 78.6 
+Margo_Martindale/XRfc1M6dxIs_0000002 377.2 382.4 
+Margo_Martindale/XRfc1M6dxIs_0000003 703.6 708.8 

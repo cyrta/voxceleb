@@ -1,0 +1,10 @@
+POI: 			Mya 
+Youtube ID: 	TryqKmgLdNY 
+Video length: 	244.6 sec 
+Set (V): 		dev 
+ 
+Mya/TryqKmgLdNY_0000001 71.3 76.1 
+Mya/TryqKmgLdNY_0000002 139.8 146.8 
+Mya/TryqKmgLdNY_0000003 162.1 175.3 
+Mya/TryqKmgLdNY_0000004 196.4 203.0 
+Mya/TryqKmgLdNY_0000005 230.3 235.8 

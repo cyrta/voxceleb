@@ -1,0 +1,18 @@
+POI: 			Bobby_Cannavale 
+Youtube ID: 	oHUXo48Q-4M 
+Video length: 	197.1 sec 
+Set (V): 		dev 
+ 
+Bobby_Cannavale/oHUXo48Q-4M_0000001 02.3 07.8 
+Bobby_Cannavale/oHUXo48Q-4M_0000002 08.4 23.2 
+Bobby_Cannavale/oHUXo48Q-4M_0000003 25.0 34.0 
+Bobby_Cannavale/oHUXo48Q-4M_0000004 43.3 71.2 
+Bobby_Cannavale/oHUXo48Q-4M_0000005 73.0 77.4 
+Bobby_Cannavale/oHUXo48Q-4M_0000006 78.0 88.2 
+Bobby_Cannavale/oHUXo48Q-4M_0000007 91.5 101.9 
+Bobby_Cannavale/oHUXo48Q-4M_0000008 102.4 120.7 
+Bobby_Cannavale/oHUXo48Q-4M_0000009 122.0 127.1 
+Bobby_Cannavale/oHUXo48Q-4M_0000010 127.6 137.8 
+Bobby_Cannavale/oHUXo48Q-4M_0000011 141.6 150.3 
+Bobby_Cannavale/oHUXo48Q-4M_0000012 155.0 164.1 
+Bobby_Cannavale/oHUXo48Q-4M_0000013 164.8 187.5 

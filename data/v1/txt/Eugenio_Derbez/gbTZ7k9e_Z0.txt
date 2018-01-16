@@ -1,0 +1,15 @@
+POI: 			Eugenio_Derbez 
+Youtube ID: 	gbTZ7k9e_Z0 
+Video length: 	230.9 sec 
+Set (V): 		test 
+ 
+Eugenio_Derbez/gbTZ7k9e_Z0_0000001 25.4 36.1 
+Eugenio_Derbez/gbTZ7k9e_Z0_0000002 54.7 58.8 
+Eugenio_Derbez/gbTZ7k9e_Z0_0000003 78.6 101.4 
+Eugenio_Derbez/gbTZ7k9e_Z0_0000004 113.4 117.7 
+Eugenio_Derbez/gbTZ7k9e_Z0_0000005 119.1 126.7 
+Eugenio_Derbez/gbTZ7k9e_Z0_0000006 143.2 147.6 
+Eugenio_Derbez/gbTZ7k9e_Z0_0000007 147.8 158.0 
+Eugenio_Derbez/gbTZ7k9e_Z0_0000008 164.6 172.0 
+Eugenio_Derbez/gbTZ7k9e_Z0_0000009 173.0 177.0 
+Eugenio_Derbez/gbTZ7k9e_Z0_0000010 207.9 211.9 

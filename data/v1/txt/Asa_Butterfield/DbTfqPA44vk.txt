@@ -1,0 +1,13 @@
+POI: 			Asa_Butterfield 
+Youtube ID: 	DbTfqPA44vk 
+Video length: 	327.9 sec 
+Set (V): 		dev 
+ 
+Asa_Butterfield/DbTfqPA44vk_0000001 109.0 124.9 
+Asa_Butterfield/DbTfqPA44vk_0000002 125.2 134.0 
+Asa_Butterfield/DbTfqPA44vk_0000003 161.8 167.0 
+Asa_Butterfield/DbTfqPA44vk_0000004 170.4 176.0 
+Asa_Butterfield/DbTfqPA44vk_0000005 181.5 189.6 
+Asa_Butterfield/DbTfqPA44vk_0000006 193.3 200.4 
+Asa_Butterfield/DbTfqPA44vk_0000007 201.2 211.2 
+Asa_Butterfield/DbTfqPA44vk_0000008 170.3 175.9 

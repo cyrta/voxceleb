@@ -1,0 +1,12 @@
+POI: 			Gloria_Steinem 
+Youtube ID: 	WcAnh00sWKs 
+Video length: 	237.8 sec 
+Set (V): 		dev 
+ 
+Gloria_Steinem/WcAnh00sWKs_0000001 62.9 66.9 
+Gloria_Steinem/WcAnh00sWKs_0000002 104.3 110.8 
+Gloria_Steinem/WcAnh00sWKs_0000003 111.4 118.7 
+Gloria_Steinem/WcAnh00sWKs_0000004 127.7 133.4 
+Gloria_Steinem/WcAnh00sWKs_0000005 135.8 140.6 
+Gloria_Steinem/WcAnh00sWKs_0000006 184.3 189.2 
+Gloria_Steinem/WcAnh00sWKs_0000007 195.5 202.1 

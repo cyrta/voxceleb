@@ -1,0 +1,7 @@
+POI: 			Ty_Pennington 
+Youtube ID: 	lxubug7HNA4 
+Video length: 	242.0 sec 
+Set (V): 		dev 
+ 
+Ty_Pennington/lxubug7HNA4_0000001 103.5 107.8 
+Ty_Pennington/lxubug7HNA4_0000002 137.3 141.5 

@@ -1,0 +1,9 @@
+POI: 			Daniel_Tosh 
+Youtube ID: 	YFPhI5XIJbY 
+Video length: 	375.6 sec 
+Set (V): 		dev 
+ 
+Daniel_Tosh/YFPhI5XIJbY_0000001 144.6 149.5 
+Daniel_Tosh/YFPhI5XIJbY_0000002 263.5 268.8 
+Daniel_Tosh/YFPhI5XIJbY_0000003 274.7 280.0 
+Daniel_Tosh/YFPhI5XIJbY_0000004 320.4 324.4 

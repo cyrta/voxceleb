@@ -1,0 +1,27 @@
+POI: 			Robert_Sheehan 
+Youtube ID: 	5GLhL4Km-_0 
+Video length: 	741.2 sec 
+Set (V): 		dev 
+ 
+Robert_Sheehan/5GLhL4Km-_0_0000001 11.4 15.5 
+Robert_Sheehan/5GLhL4Km-_0_0000002 29.5 36.9 
+Robert_Sheehan/5GLhL4Km-_0_0000003 46.4 52.2 
+Robert_Sheehan/5GLhL4Km-_0_0000004 120.2 124.4 
+Robert_Sheehan/5GLhL4Km-_0_0000005 130.5 136.4 
+Robert_Sheehan/5GLhL4Km-_0_0000006 136.9 159.0 
+Robert_Sheehan/5GLhL4Km-_0_0000007 165.3 171.9 
+Robert_Sheehan/5GLhL4Km-_0_0000008 187.2 196.8 
+Robert_Sheehan/5GLhL4Km-_0_0000009 199.2 206.2 
+Robert_Sheehan/5GLhL4Km-_0_0000010 230.5 237.1 
+Robert_Sheehan/5GLhL4Km-_0_0000011 244.5 265.2 
+Robert_Sheehan/5GLhL4Km-_0_0000012 310.5 320.8 
+Robert_Sheehan/5GLhL4Km-_0_0000013 392.3 397.8 
+Robert_Sheehan/5GLhL4Km-_0_0000014 485.0 489.6 
+Robert_Sheehan/5GLhL4Km-_0_0000015 489.8 501.3 
+Robert_Sheehan/5GLhL4Km-_0_0000016 528.3 539.3 
+Robert_Sheehan/5GLhL4Km-_0_0000017 556.6 562.1 
+Robert_Sheehan/5GLhL4Km-_0_0000018 565.2 571.9 
+Robert_Sheehan/5GLhL4Km-_0_0000019 572.7 580.1 
+Robert_Sheehan/5GLhL4Km-_0_0000020 581.0 585.2 
+Robert_Sheehan/5GLhL4Km-_0_0000021 616.2 622.2 
+Robert_Sheehan/5GLhL4Km-_0_0000022 622.5 630.0 

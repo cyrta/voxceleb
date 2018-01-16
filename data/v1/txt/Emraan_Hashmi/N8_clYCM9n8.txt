@@ -1,0 +1,13 @@
+POI: 			Emraan_Hashmi 
+Youtube ID: 	N8_clYCM9n8 
+Video length: 	147.1 sec 
+Set (V): 		test 
+ 
+Emraan_Hashmi/N8_clYCM9n8_0000001 20.6 27.0 
+Emraan_Hashmi/N8_clYCM9n8_0000002 27.9 34.1 
+Emraan_Hashmi/N8_clYCM9n8_0000003 65.8 70.6 
+Emraan_Hashmi/N8_clYCM9n8_0000004 77.9 90.7 
+Emraan_Hashmi/N8_clYCM9n8_0000005 91.8 105.3 
+Emraan_Hashmi/N8_clYCM9n8_0000006 107.2 117.1 
+Emraan_Hashmi/N8_clYCM9n8_0000007 125.7 139.2 
+Emraan_Hashmi/N8_clYCM9n8_0000008 139.4 145.5 

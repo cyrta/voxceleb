@@ -1,0 +1,8 @@
+POI: 			Luc_Besson 
+Youtube ID: 	vFQeaM-au0s 
+Video length: 	190.0 sec 
+Set (V): 		dev 
+ 
+Luc_Besson/vFQeaM-au0s_0000001 09.3 13.7 
+Luc_Besson/vFQeaM-au0s_0000002 14.1 20.5 
+Luc_Besson/vFQeaM-au0s_0000003 153.8 158.5 

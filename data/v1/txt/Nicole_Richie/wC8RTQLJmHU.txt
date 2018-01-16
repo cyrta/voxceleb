@@ -1,0 +1,9 @@
+POI: 			Nicole_Richie 
+Youtube ID: 	wC8RTQLJmHU 
+Video length: 	152.8 sec 
+Set (V): 		dev 
+ 
+Nicole_Richie/wC8RTQLJmHU_0000001 21.6 36.0 
+Nicole_Richie/wC8RTQLJmHU_0000002 41.8 74.7 
+Nicole_Richie/wC8RTQLJmHU_0000003 98.3 105.8 
+Nicole_Richie/wC8RTQLJmHU_0000004 107.7 117.5 

@@ -1,0 +1,9 @@
+POI: 			Freida_Pinto 
+Youtube ID: 	T0wl7HJdrUw 
+Video length: 	164.3 sec 
+Set (V): 		dev 
+ 
+Freida_Pinto/T0wl7HJdrUw_0000001 112.9 130.3 
+Freida_Pinto/T0wl7HJdrUw_0000002 132.5 142.6 
+Freida_Pinto/T0wl7HJdrUw_0000003 142.7 150.7 
+Freida_Pinto/T0wl7HJdrUw_0000004 151.2 156.6 

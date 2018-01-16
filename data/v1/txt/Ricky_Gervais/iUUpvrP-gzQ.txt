@@ -1,0 +1,37 @@
+POI: 			Ricky_Gervais 
+Youtube ID: 	iUUpvrP-gzQ 
+Video length: 	616.3 sec 
+Set (V): 		dev 
+ 
+Ricky_Gervais/iUUpvrP-gzQ_0000001 11.5 16.4 
+Ricky_Gervais/iUUpvrP-gzQ_0000002 35.6 40.6 
+Ricky_Gervais/iUUpvrP-gzQ_0000003 53.2 59.0 
+Ricky_Gervais/iUUpvrP-gzQ_0000004 64.8 69.2 
+Ricky_Gervais/iUUpvrP-gzQ_0000005 74.9 79.0 
+Ricky_Gervais/iUUpvrP-gzQ_0000006 81.8 89.0 
+Ricky_Gervais/iUUpvrP-gzQ_0000007 105.8 110.1 
+Ricky_Gervais/iUUpvrP-gzQ_0000008 124.3 129.0 
+Ricky_Gervais/iUUpvrP-gzQ_0000009 133.3 139.4 
+Ricky_Gervais/iUUpvrP-gzQ_0000010 168.0 172.1 
+Ricky_Gervais/iUUpvrP-gzQ_0000011 190.6 195.1 
+Ricky_Gervais/iUUpvrP-gzQ_0000012 223.8 229.8 
+Ricky_Gervais/iUUpvrP-gzQ_0000013 258.4 262.6 
+Ricky_Gervais/iUUpvrP-gzQ_0000014 263.0 270.6 
+Ricky_Gervais/iUUpvrP-gzQ_0000015 275.1 283.2 
+Ricky_Gervais/iUUpvrP-gzQ_0000016 310.2 314.7 
+Ricky_Gervais/iUUpvrP-gzQ_0000017 336.4 342.6 
+Ricky_Gervais/iUUpvrP-gzQ_0000018 348.2 356.7 
+Ricky_Gervais/iUUpvrP-gzQ_0000019 362.3 370.2 
+Ricky_Gervais/iUUpvrP-gzQ_0000020 371.5 380.5 
+Ricky_Gervais/iUUpvrP-gzQ_0000021 384.4 390.6 
+Ricky_Gervais/iUUpvrP-gzQ_0000022 395.8 399.9 
+Ricky_Gervais/iUUpvrP-gzQ_0000023 417.6 422.2 
+Ricky_Gervais/iUUpvrP-gzQ_0000024 449.4 457.4 
+Ricky_Gervais/iUUpvrP-gzQ_0000025 461.8 469.5 
+Ricky_Gervais/iUUpvrP-gzQ_0000026 470.6 475.6 
+Ricky_Gervais/iUUpvrP-gzQ_0000027 478.4 485.9 
+Ricky_Gervais/iUUpvrP-gzQ_0000028 508.4 512.6 
+Ricky_Gervais/iUUpvrP-gzQ_0000029 543.4 548.9 
+Ricky_Gervais/iUUpvrP-gzQ_0000030 574.8 581.0 
+Ricky_Gervais/iUUpvrP-gzQ_0000031 581.2 597.7 
+Ricky_Gervais/iUUpvrP-gzQ_0000032 603.6 611.1 

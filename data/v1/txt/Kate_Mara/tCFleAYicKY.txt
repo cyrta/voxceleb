@@ -1,0 +1,12 @@
+POI: 			Kate_Mara 
+Youtube ID: 	tCFleAYicKY 
+Video length: 	268.0 sec 
+Set (V): 		dev 
+ 
+Kate_Mara/tCFleAYicKY_0000001 07.0 12.0 
+Kate_Mara/tCFleAYicKY_0000002 19.4 25.0 
+Kate_Mara/tCFleAYicKY_0000003 39.9 45.6 
+Kate_Mara/tCFleAYicKY_0000004 55.4 65.5 
+Kate_Mara/tCFleAYicKY_0000005 70.1 80.6 
+Kate_Mara/tCFleAYicKY_0000006 94.3 101.0 
+Kate_Mara/tCFleAYicKY_0000007 103.8 109.3 

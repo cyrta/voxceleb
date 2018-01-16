@@ -1,0 +1,15 @@
+POI: 			Sammy_Davis_Jr. 
+Youtube ID: 	NpRiMEsE5sY 
+Video length: 	302.9 sec 
+Set (V): 		dev 
+ 
+Sammy_Davis_Jr./NpRiMEsE5sY_0000001 30.4 37.4 
+Sammy_Davis_Jr./NpRiMEsE5sY_0000002 38.6 47.9 
+Sammy_Davis_Jr./NpRiMEsE5sY_0000003 78.9 83.0 
+Sammy_Davis_Jr./NpRiMEsE5sY_0000004 86.9 96.6 
+Sammy_Davis_Jr./NpRiMEsE5sY_0000005 105.5 125.6 
+Sammy_Davis_Jr./NpRiMEsE5sY_0000006 135.0 140.0 
+Sammy_Davis_Jr./NpRiMEsE5sY_0000007 158.4 170.1 
+Sammy_Davis_Jr./NpRiMEsE5sY_0000008 175.9 183.0 
+Sammy_Davis_Jr./NpRiMEsE5sY_0000009 202.8 208.2 
+Sammy_Davis_Jr./NpRiMEsE5sY_0000010 267.7 274.6 

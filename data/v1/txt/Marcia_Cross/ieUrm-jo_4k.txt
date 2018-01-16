@@ -1,0 +1,24 @@
+POI: 			Marcia_Cross 
+Youtube ID: 	ieUrm-jo_4k 
+Video length: 	416.3 sec 
+Set (V): 		dev 
+ 
+Marcia_Cross/ieUrm-jo_4k_0000001 84.5 93.7 
+Marcia_Cross/ieUrm-jo_4k_0000002 94.6 104.0 
+Marcia_Cross/ieUrm-jo_4k_0000003 104.8 110.5 
+Marcia_Cross/ieUrm-jo_4k_0000004 111.3 120.7 
+Marcia_Cross/ieUrm-jo_4k_0000005 134.8 140.0 
+Marcia_Cross/ieUrm-jo_4k_0000006 140.3 144.5 
+Marcia_Cross/ieUrm-jo_4k_0000007 148.0 157.3 
+Marcia_Cross/ieUrm-jo_4k_0000008 158.8 167.3 
+Marcia_Cross/ieUrm-jo_4k_0000009 168.1 175.2 
+Marcia_Cross/ieUrm-jo_4k_0000010 175.5 187.2 
+Marcia_Cross/ieUrm-jo_4k_0000011 211.2 218.8 
+Marcia_Cross/ieUrm-jo_4k_0000012 227.1 232.3 
+Marcia_Cross/ieUrm-jo_4k_0000013 233.2 246.2 
+Marcia_Cross/ieUrm-jo_4k_0000014 275.2 279.2 
+Marcia_Cross/ieUrm-jo_4k_0000015 320.6 329.6 
+Marcia_Cross/ieUrm-jo_4k_0000016 331.0 340.2 
+Marcia_Cross/ieUrm-jo_4k_0000017 363.0 375.5 
+Marcia_Cross/ieUrm-jo_4k_0000018 375.8 381.7 
+Marcia_Cross/ieUrm-jo_4k_0000019 389.6 401.2 

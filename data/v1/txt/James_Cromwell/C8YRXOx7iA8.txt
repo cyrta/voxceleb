@@ -1,0 +1,7 @@
+POI: 			James_Cromwell 
+Youtube ID: 	C8YRXOx7iA8 
+Video length: 	56.7 sec 
+Set (V): 		dev 
+ 
+James_Cromwell/C8YRXOx7iA8_0000001 30.0 34.5 
+James_Cromwell/C8YRXOx7iA8_0000002 41.8 48.0 

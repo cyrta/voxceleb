@@ -1,0 +1,9 @@
+POI: 			John_DiMaggio 
+Youtube ID: 	eBP89-u_bdQ 
+Video length: 	427.0 sec 
+Set (V): 		dev 
+ 
+John_DiMaggio/eBP89-u_bdQ_0000001 30.5 36.2 
+John_DiMaggio/eBP89-u_bdQ_0000002 277.9 283.9 
+John_DiMaggio/eBP89-u_bdQ_0000003 291.8 301.8 
+John_DiMaggio/eBP89-u_bdQ_0000004 302.0 310.2 

@@ -1,0 +1,11 @@
+POI: 			Karla_Souza 
+Youtube ID: 	XMjncYR-LZU 
+Video length: 	202.9 sec 
+Set (V): 		dev 
+ 
+Karla_Souza/XMjncYR-LZU_0000001 09.2 13.9 
+Karla_Souza/XMjncYR-LZU_0000002 21.3 27.0 
+Karla_Souza/XMjncYR-LZU_0000003 44.3 50.2 
+Karla_Souza/XMjncYR-LZU_0000004 54.4 61.4 
+Karla_Souza/XMjncYR-LZU_0000005 63.8 68.8 
+Karla_Souza/XMjncYR-LZU_0000006 70.5 82.0 

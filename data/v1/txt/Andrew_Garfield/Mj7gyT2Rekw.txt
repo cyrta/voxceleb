@@ -1,0 +1,16 @@
+POI: 			Andrew_Garfield 
+Youtube ID: 	Mj7gyT2Rekw 
+Video length: 	247.8 sec 
+Set (V): 		dev 
+ 
+Andrew_Garfield/Mj7gyT2Rekw_0000001 64.0 71.3 
+Andrew_Garfield/Mj7gyT2Rekw_0000002 75.8 80.8 
+Andrew_Garfield/Mj7gyT2Rekw_0000003 104.2 109.7 
+Andrew_Garfield/Mj7gyT2Rekw_0000004 111.5 117.2 
+Andrew_Garfield/Mj7gyT2Rekw_0000005 135.2 141.1 
+Andrew_Garfield/Mj7gyT2Rekw_0000006 173.0 177.4 
+Andrew_Garfield/Mj7gyT2Rekw_0000007 177.8 190.4 
+Andrew_Garfield/Mj7gyT2Rekw_0000008 185.0 191.1 
+Andrew_Garfield/Mj7gyT2Rekw_0000009 195.2 202.4 
+Andrew_Garfield/Mj7gyT2Rekw_0000010 204.2 215.2 
+Andrew_Garfield/Mj7gyT2Rekw_0000011 232.8 238.3 

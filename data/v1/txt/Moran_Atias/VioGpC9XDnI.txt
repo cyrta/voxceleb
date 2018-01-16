@@ -1,0 +1,8 @@
+POI: 			Moran_Atias 
+Youtube ID: 	VioGpC9XDnI 
+Video length: 	106.8 sec 
+Set (V): 		dev 
+ 
+Moran_Atias/VioGpC9XDnI_0000001 52.5 58.8 
+Moran_Atias/VioGpC9XDnI_0000002 65.6 74.0 
+Moran_Atias/VioGpC9XDnI_0000003 74.2 84.6 

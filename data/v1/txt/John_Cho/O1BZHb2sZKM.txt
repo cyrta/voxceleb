@@ -1,0 +1,9 @@
+POI: 			John_Cho 
+Youtube ID: 	O1BZHb2sZKM 
+Video length: 	564.2 sec 
+Set (V): 		dev 
+ 
+John_Cho/O1BZHb2sZKM_0000001 98.7 108.6 
+John_Cho/O1BZHb2sZKM_0000002 328.2 350.5 
+John_Cho/O1BZHb2sZKM_0000003 351.4 356.0 
+John_Cho/O1BZHb2sZKM_0000004 357.7 363.9 

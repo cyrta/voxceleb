@@ -1,0 +1,8 @@
+POI: 			Kristen_Stewart 
+Youtube ID: 	m4GhilVMKvk 
+Video length: 	169.1 sec 
+Set (V): 		dev 
+ 
+Kristen_Stewart/m4GhilVMKvk_0000001 21.0 26.5 
+Kristen_Stewart/m4GhilVMKvk_0000002 103.0 111.2 
+Kristen_Stewart/m4GhilVMKvk_0000003 113.6 124.2 

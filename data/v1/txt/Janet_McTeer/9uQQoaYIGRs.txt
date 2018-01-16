@@ -1,0 +1,19 @@
+POI: 			Janet_McTeer 
+Youtube ID: 	9uQQoaYIGRs 
+Video length: 	1524.8 sec 
+Set (V): 		dev 
+ 
+Janet_McTeer/9uQQoaYIGRs_0000001 275.6 281.2 
+Janet_McTeer/9uQQoaYIGRs_0000002 282.2 286.7 
+Janet_McTeer/9uQQoaYIGRs_0000003 290.1 300.3 
+Janet_McTeer/9uQQoaYIGRs_0000004 373.9 381.3 
+Janet_McTeer/9uQQoaYIGRs_0000005 383.2 397.5 
+Janet_McTeer/9uQQoaYIGRs_0000006 417.8 423.8 
+Janet_McTeer/9uQQoaYIGRs_0000007 500.1 504.1 
+Janet_McTeer/9uQQoaYIGRs_0000008 518.9 529.4 
+Janet_McTeer/9uQQoaYIGRs_0000009 696.4 700.4 
+Janet_McTeer/9uQQoaYIGRs_0000010 719.2 727.2 
+Janet_McTeer/9uQQoaYIGRs_0000011 1165.9 1171.1 
+Janet_McTeer/9uQQoaYIGRs_0000012 1314.2 1318.8 
+Janet_McTeer/9uQQoaYIGRs_0000013 1335.8 1340.2 
+Janet_McTeer/9uQQoaYIGRs_0000014 1351.4 1357.8 

@@ -1,0 +1,18 @@
+POI: 			Linda_Cardellini 
+Youtube ID: 	Tm_lH_mQNmw 
+Video length: 	224.5 sec 
+Set (V): 		dev 
+ 
+Linda_Cardellini/Tm_lH_mQNmw_0000001 20.5 25.4 
+Linda_Cardellini/Tm_lH_mQNmw_0000002 27.0 38.1 
+Linda_Cardellini/Tm_lH_mQNmw_0000003 48.4 55.3 
+Linda_Cardellini/Tm_lH_mQNmw_0000004 67.4 75.1 
+Linda_Cardellini/Tm_lH_mQNmw_0000005 75.6 81.3 
+Linda_Cardellini/Tm_lH_mQNmw_0000006 98.5 103.5 
+Linda_Cardellini/Tm_lH_mQNmw_0000007 103.6 114.6 
+Linda_Cardellini/Tm_lH_mQNmw_0000008 115.2 122.2 
+Linda_Cardellini/Tm_lH_mQNmw_0000009 122.8 134.8 
+Linda_Cardellini/Tm_lH_mQNmw_0000010 145.4 153.5 
+Linda_Cardellini/Tm_lH_mQNmw_0000011 154.7 159.0 
+Linda_Cardellini/Tm_lH_mQNmw_0000012 174.2 181.3 
+Linda_Cardellini/Tm_lH_mQNmw_0000013 203.6 213.1 

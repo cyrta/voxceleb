@@ -1,0 +1,17 @@
+POI: 			Donna_Mills 
+Youtube ID: 	eU56nK2YsGs 
+Video length: 	530.1 sec 
+Set (V): 		dev 
+ 
+Donna_Mills/eU56nK2YsGs_0000001 85.3 97.2 
+Donna_Mills/eU56nK2YsGs_0000002 116.0 125.9 
+Donna_Mills/eU56nK2YsGs_0000003 252.8 260.7 
+Donna_Mills/eU56nK2YsGs_0000004 262.6 282.3 
+Donna_Mills/eU56nK2YsGs_0000005 371.6 382.2 
+Donna_Mills/eU56nK2YsGs_0000006 400.7 407.4 
+Donna_Mills/eU56nK2YsGs_0000007 408.0 415.3 
+Donna_Mills/eU56nK2YsGs_0000008 415.8 426.8 
+Donna_Mills/eU56nK2YsGs_0000009 436.6 445.9 
+Donna_Mills/eU56nK2YsGs_0000010 446.7 452.0 
+Donna_Mills/eU56nK2YsGs_0000011 489.8 495.8 
+Donna_Mills/eU56nK2YsGs_0000012 505.1 509.4 

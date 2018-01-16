@@ -1,0 +1,28 @@
+POI: 			Rutger_Hauer 
+Youtube ID: 	aBH7pmHztTQ 
+Video length: 	1426.1 sec 
+Set (V): 		dev 
+ 
+Rutger_Hauer/aBH7pmHztTQ_0000001 214.2 221.4 
+Rutger_Hauer/aBH7pmHztTQ_0000002 328.2 333.2 
+Rutger_Hauer/aBH7pmHztTQ_0000003 527.4 531.6 
+Rutger_Hauer/aBH7pmHztTQ_0000004 563.4 569.4 
+Rutger_Hauer/aBH7pmHztTQ_0000005 648.6 653.2 
+Rutger_Hauer/aBH7pmHztTQ_0000006 686.9 691.2 
+Rutger_Hauer/aBH7pmHztTQ_0000007 691.7 697.1 
+Rutger_Hauer/aBH7pmHztTQ_0000008 892.4 896.7 
+Rutger_Hauer/aBH7pmHztTQ_0000009 914.3 918.2 
+Rutger_Hauer/aBH7pmHztTQ_0000010 951.4 955.6 
+Rutger_Hauer/aBH7pmHztTQ_0000011 966.2 974.5 
+Rutger_Hauer/aBH7pmHztTQ_0000012 1032.5 1047.7 
+Rutger_Hauer/aBH7pmHztTQ_0000013 1103.8 1112.2 
+Rutger_Hauer/aBH7pmHztTQ_0000014 1113.9 1124.2 
+Rutger_Hauer/aBH7pmHztTQ_0000015 1153.2 1162.5 
+Rutger_Hauer/aBH7pmHztTQ_0000016 1241.1 1247.5 
+Rutger_Hauer/aBH7pmHztTQ_0000017 1302.2 1308.0 
+Rutger_Hauer/aBH7pmHztTQ_0000018 1309.6 1314.9 
+Rutger_Hauer/aBH7pmHztTQ_0000019 1328.1 1332.1 
+Rutger_Hauer/aBH7pmHztTQ_0000020 1334.4 1339.0 
+Rutger_Hauer/aBH7pmHztTQ_0000021 1340.0 1344.6 
+Rutger_Hauer/aBH7pmHztTQ_0000022 1362.3 1369.6 
+Rutger_Hauer/aBH7pmHztTQ_0000023 1371.8 1376.9 

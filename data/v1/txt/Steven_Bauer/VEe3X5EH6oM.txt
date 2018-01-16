@@ -1,0 +1,14 @@
+POI: 			Steven_Bauer 
+Youtube ID: 	VEe3X5EH6oM 
+Video length: 	406.6 sec 
+Set (V): 		dev 
+ 
+Steven_Bauer/VEe3X5EH6oM_0000001 118.1 127.0 
+Steven_Bauer/VEe3X5EH6oM_0000002 147.6 153.2 
+Steven_Bauer/VEe3X5EH6oM_0000003 153.4 164.3 
+Steven_Bauer/VEe3X5EH6oM_0000004 167.6 175.2 
+Steven_Bauer/VEe3X5EH6oM_0000005 286.2 290.3 
+Steven_Bauer/VEe3X5EH6oM_0000006 291.0 295.1 
+Steven_Bauer/VEe3X5EH6oM_0000007 296.0 301.4 
+Steven_Bauer/VEe3X5EH6oM_0000008 305.7 311.7 
+Steven_Bauer/VEe3X5EH6oM_0000009 318.3 328.2 

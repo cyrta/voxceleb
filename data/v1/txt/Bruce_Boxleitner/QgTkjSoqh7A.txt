@@ -1,0 +1,17 @@
+POI: 			Bruce_Boxleitner 
+Youtube ID: 	QgTkjSoqh7A 
+Video length: 	294.2 sec 
+Set (V): 		dev 
+ 
+Bruce_Boxleitner/QgTkjSoqh7A_0000001 33.6 43.0 
+Bruce_Boxleitner/QgTkjSoqh7A_0000002 53.4 58.2 
+Bruce_Boxleitner/QgTkjSoqh7A_0000003 64.3 68.9 
+Bruce_Boxleitner/QgTkjSoqh7A_0000004 77.6 83.0 
+Bruce_Boxleitner/QgTkjSoqh7A_0000005 140.8 146.3 
+Bruce_Boxleitner/QgTkjSoqh7A_0000006 152.4 158.6 
+Bruce_Boxleitner/QgTkjSoqh7A_0000007 161.5 167.0 
+Bruce_Boxleitner/QgTkjSoqh7A_0000008 167.3 172.1 
+Bruce_Boxleitner/QgTkjSoqh7A_0000009 176.8 187.1 
+Bruce_Boxleitner/QgTkjSoqh7A_0000010 200.8 210.2 
+Bruce_Boxleitner/QgTkjSoqh7A_0000011 211.7 217.1 
+Bruce_Boxleitner/QgTkjSoqh7A_0000012 225.9 230.3 

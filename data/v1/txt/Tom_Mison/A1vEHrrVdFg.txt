@@ -1,0 +1,14 @@
+POI: 			Tom_Mison 
+Youtube ID: 	A1vEHrrVdFg 
+Video length: 	448.9 sec 
+Set (V): 		dev 
+ 
+Tom_Mison/A1vEHrrVdFg_0000001 143.5 148.8 
+Tom_Mison/A1vEHrrVdFg_0000002 156.4 160.6 
+Tom_Mison/A1vEHrrVdFg_0000003 185.0 190.0 
+Tom_Mison/A1vEHrrVdFg_0000004 244.3 248.9 
+Tom_Mison/A1vEHrrVdFg_0000005 255.9 260.5 
+Tom_Mison/A1vEHrrVdFg_0000006 262.8 267.9 
+Tom_Mison/A1vEHrrVdFg_0000007 292.6 298.3 
+Tom_Mison/A1vEHrrVdFg_0000008 322.4 327.2 
+Tom_Mison/A1vEHrrVdFg_0000009 334.1 339.2 

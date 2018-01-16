@@ -1,0 +1,11 @@
+POI: 			Janine_Turner 
+Youtube ID: 	KfLMlGQHIrM 
+Video length: 	124.2 sec 
+Set (V): 		dev 
+ 
+Janine_Turner/KfLMlGQHIrM_0000001 17.8 23.4 
+Janine_Turner/KfLMlGQHIrM_0000002 27.1 31.7 
+Janine_Turner/KfLMlGQHIrM_0000003 44.6 50.6 
+Janine_Turner/KfLMlGQHIrM_0000004 57.9 64.7 
+Janine_Turner/KfLMlGQHIrM_0000005 82.8 87.0 
+Janine_Turner/KfLMlGQHIrM_0000006 93.2 99.3 

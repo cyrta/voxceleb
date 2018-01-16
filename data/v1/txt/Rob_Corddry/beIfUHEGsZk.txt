@@ -1,0 +1,7 @@
+POI: 			Rob_Corddry 
+Youtube ID: 	beIfUHEGsZk 
+Video length: 	220.7 sec 
+Set (V): 		dev 
+ 
+Rob_Corddry/beIfUHEGsZk_0000001 119.4 123.6 
+Rob_Corddry/beIfUHEGsZk_0000002 145.5 150.1 

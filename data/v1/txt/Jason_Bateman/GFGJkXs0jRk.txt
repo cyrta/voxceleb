@@ -1,0 +1,13 @@
+POI: 			Jason_Bateman 
+Youtube ID: 	GFGJkXs0jRk 
+Video length: 	672.9 sec 
+Set (V): 		dev 
+ 
+Jason_Bateman/GFGJkXs0jRk_0000001 107.9 116.7 
+Jason_Bateman/GFGJkXs0jRk_0000002 122.0 133.9 
+Jason_Bateman/GFGJkXs0jRk_0000003 136.1 141.0 
+Jason_Bateman/GFGJkXs0jRk_0000004 152.8 162.2 
+Jason_Bateman/GFGJkXs0jRk_0000005 185.2 196.4 
+Jason_Bateman/GFGJkXs0jRk_0000006 244.2 255.1 
+Jason_Bateman/GFGJkXs0jRk_0000007 503.6 509.0 
+Jason_Bateman/GFGJkXs0jRk_0000008 638.3 643.6 

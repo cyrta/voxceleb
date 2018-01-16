@@ -1,0 +1,7 @@
+POI: 			Diane_Keaton 
+Youtube ID: 	tWio9QgBKtY 
+Video length: 	477.5 sec 
+Set (V): 		dev 
+ 
+Diane_Keaton/tWio9QgBKtY_0000001 195.9 202.0 
+Diane_Keaton/tWio9QgBKtY_0000002 269.3 277.0 

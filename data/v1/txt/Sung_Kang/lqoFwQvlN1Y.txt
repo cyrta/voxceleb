@@ -1,0 +1,17 @@
+POI: 			Sung_Kang 
+Youtube ID: 	lqoFwQvlN1Y 
+Video length: 	171.6 sec 
+Set (V): 		dev 
+ 
+Sung_Kang/lqoFwQvlN1Y_0000001 10.4 17.4 
+Sung_Kang/lqoFwQvlN1Y_0000002 17.5 22.5 
+Sung_Kang/lqoFwQvlN1Y_0000003 09.8 19.8 
+Sung_Kang/lqoFwQvlN1Y_0000004 23.0 32.7 
+Sung_Kang/lqoFwQvlN1Y_0000005 37.3 49.0 
+Sung_Kang/lqoFwQvlN1Y_0000006 51.2 55.3 
+Sung_Kang/lqoFwQvlN1Y_0000007 68.0 72.2 
+Sung_Kang/lqoFwQvlN1Y_0000008 73.1 80.4 
+Sung_Kang/lqoFwQvlN1Y_0000009 93.4 105.4 
+Sung_Kang/lqoFwQvlN1Y_0000010 105.5 118.2 
+Sung_Kang/lqoFwQvlN1Y_0000011 138.9 147.0 
+Sung_Kang/lqoFwQvlN1Y_0000012 152.4 156.5 

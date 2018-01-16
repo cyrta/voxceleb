@@ -1,0 +1,12 @@
+POI: 			Shemar_Moore 
+Youtube ID: 	bF7Utwf812E 
+Video length: 	410.4 sec 
+Set (V): 		dev 
+ 
+Shemar_Moore/bF7Utwf812E_0000001 64.6 81.4 
+Shemar_Moore/bF7Utwf812E_0000002 69.9 78.8 
+Shemar_Moore/bF7Utwf812E_0000003 88.0 95.3 
+Shemar_Moore/bF7Utwf812E_0000004 187.5 192.5 
+Shemar_Moore/bF7Utwf812E_0000005 218.5 222.9 
+Shemar_Moore/bF7Utwf812E_0000006 264.8 272.8 
+Shemar_Moore/bF7Utwf812E_0000007 303.3 307.6 

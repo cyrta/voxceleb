@@ -1,0 +1,10 @@
+POI: 			Reggie_Lee 
+Youtube ID: 	zaz3cSlAH64 
+Video length: 	359.8 sec 
+Set (V): 		dev 
+ 
+Reggie_Lee/zaz3cSlAH64_0000001 17.4 26.6 
+Reggie_Lee/zaz3cSlAH64_0000002 125.9 133.0 
+Reggie_Lee/zaz3cSlAH64_0000003 139.8 143.9 
+Reggie_Lee/zaz3cSlAH64_0000004 227.2 232.9 
+Reggie_Lee/zaz3cSlAH64_0000005 250.1 266.0 

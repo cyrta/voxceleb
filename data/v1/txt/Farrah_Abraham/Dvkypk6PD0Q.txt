@@ -1,0 +1,7 @@
+POI: 			Farrah_Abraham 
+Youtube ID: 	Dvkypk6PD0Q 
+Video length: 	284.6 sec 
+Set (V): 		dev 
+ 
+Farrah_Abraham/Dvkypk6PD0Q_0000001 71.0 75.7 
+Farrah_Abraham/Dvkypk6PD0Q_0000002 135.2 139.6 

@@ -1,0 +1,10 @@
+POI: 			Ron_Perlman 
+Youtube ID: 	MT7IHlDIyqo 
+Video length: 	311.1 sec 
+Set (V): 		dev 
+ 
+Ron_Perlman/MT7IHlDIyqo_0000001 51.1 57.0 
+Ron_Perlman/MT7IHlDIyqo_0000002 68.9 73.5 
+Ron_Perlman/MT7IHlDIyqo_0000003 99.5 104.0 
+Ron_Perlman/MT7IHlDIyqo_0000004 226.5 231.3 
+Ron_Perlman/MT7IHlDIyqo_0000005 269.8 276.2 

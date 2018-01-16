@@ -1,0 +1,8 @@
+POI: 			Ryan_McPartlin 
+Youtube ID: 	2DvOYgzPud4 
+Video length: 	115.0 sec 
+Set (V): 		dev 
+ 
+Ryan_McPartlin/2DvOYgzPud4_0000001 36.8 42.3 
+Ryan_McPartlin/2DvOYgzPud4_0000002 70.8 75.5 
+Ryan_McPartlin/2DvOYgzPud4_0000003 104.0 109.7 

@@ -1,0 +1,14 @@
+POI: 			James_Marsden 
+Youtube ID: 	sfbQHYBDuiw 
+Video length: 	179.1 sec 
+Set (V): 		dev 
+ 
+James_Marsden/sfbQHYBDuiw_0000001 04.8 14.7 
+James_Marsden/sfbQHYBDuiw_0000002 16.3 21.8 
+James_Marsden/sfbQHYBDuiw_0000003 21.8 39.2 
+James_Marsden/sfbQHYBDuiw_0000004 90.6 100.3 
+James_Marsden/sfbQHYBDuiw_0000005 101.5 118.8 
+James_Marsden/sfbQHYBDuiw_0000006 119.0 128.2 
+James_Marsden/sfbQHYBDuiw_0000007 129.4 134.1 
+James_Marsden/sfbQHYBDuiw_0000008 137.8 145.0 
+James_Marsden/sfbQHYBDuiw_0000009 155.4 161.2 

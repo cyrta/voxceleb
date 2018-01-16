@@ -1,0 +1,8 @@
+POI: 			Lucy_Hale 
+Youtube ID: 	Q45bzVbh7-o 
+Video length: 	164.5 sec 
+Set (V): 		dev 
+ 
+Lucy_Hale/Q45bzVbh7-o_0000001 82.8 87.4 
+Lucy_Hale/Q45bzVbh7-o_0000002 96.5 102.0 
+Lucy_Hale/Q45bzVbh7-o_0000003 104.2 109.8 

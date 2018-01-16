@@ -1,0 +1,15 @@
+POI: 			Shohreh_Aghdashloo 
+Youtube ID: 	o0PudKIBoJs 
+Video length: 	599.8 sec 
+Set (V): 		dev 
+ 
+Shohreh_Aghdashloo/o0PudKIBoJs_0000001 33.9 40.0 
+Shohreh_Aghdashloo/o0PudKIBoJs_0000002 70.8 79.4 
+Shohreh_Aghdashloo/o0PudKIBoJs_0000003 81.5 94.4 
+Shohreh_Aghdashloo/o0PudKIBoJs_0000004 110.1 114.5 
+Shohreh_Aghdashloo/o0PudKIBoJs_0000005 144.4 150.9 
+Shohreh_Aghdashloo/o0PudKIBoJs_0000006 155.6 168.2 
+Shohreh_Aghdashloo/o0PudKIBoJs_0000007 184.0 190.1 
+Shohreh_Aghdashloo/o0PudKIBoJs_0000008 330.8 337.2 
+Shohreh_Aghdashloo/o0PudKIBoJs_0000009 419.9 431.0 
+Shohreh_Aghdashloo/o0PudKIBoJs_0000010 510.4 515.7 

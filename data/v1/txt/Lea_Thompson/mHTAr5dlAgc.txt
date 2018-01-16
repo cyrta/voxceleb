@@ -1,0 +1,9 @@
+POI: 			Lea_Thompson 
+Youtube ID: 	mHTAr5dlAgc 
+Video length: 	287.8 sec 
+Set (V): 		dev 
+ 
+Lea_Thompson/mHTAr5dlAgc_0000001 223.6 228.8 
+Lea_Thompson/mHTAr5dlAgc_0000002 247.6 252.3 
+Lea_Thompson/mHTAr5dlAgc_0000003 253.2 258.8 
+Lea_Thompson/mHTAr5dlAgc_0000004 265.9 270.3 

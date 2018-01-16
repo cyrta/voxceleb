@@ -1,0 +1,13 @@
+POI: 			Suraj_Sharma 
+Youtube ID: 	1qEq08w7Q5I 
+Video length: 	182.0 sec 
+Set (V): 		dev 
+ 
+Suraj_Sharma/1qEq08w7Q5I_0000001 12.9 19.0 
+Suraj_Sharma/1qEq08w7Q5I_0000002 24.2 35.8 
+Suraj_Sharma/1qEq08w7Q5I_0000003 45.7 51.2 
+Suraj_Sharma/1qEq08w7Q5I_0000004 84.9 90.2 
+Suraj_Sharma/1qEq08w7Q5I_0000005 94.4 98.9 
+Suraj_Sharma/1qEq08w7Q5I_0000006 112.8 133.4 
+Suraj_Sharma/1qEq08w7Q5I_0000007 153.4 163.3 
+Suraj_Sharma/1qEq08w7Q5I_0000008 172.4 176.4 

@@ -1,0 +1,14 @@
+POI: 			Alexandra_Roach 
+Youtube ID: 	QUZSHTlha6A 
+Video length: 	536.1 sec 
+Set (V): 		dev 
+ 
+Alexandra_Roach/QUZSHTlha6A_0000001 25.0 29.1 
+Alexandra_Roach/QUZSHTlha6A_0000002 34.1 54.0 
+Alexandra_Roach/QUZSHTlha6A_0000003 68.4 86.1 
+Alexandra_Roach/QUZSHTlha6A_0000004 86.6 94.8 
+Alexandra_Roach/QUZSHTlha6A_0000005 111.6 149.0 
+Alexandra_Roach/QUZSHTlha6A_0000006 158.0 164.8 
+Alexandra_Roach/QUZSHTlha6A_0000007 169.1 189.8 
+Alexandra_Roach/QUZSHTlha6A_0000008 158.0 164.8 
+Alexandra_Roach/QUZSHTlha6A_0000009 168.8 190.0 

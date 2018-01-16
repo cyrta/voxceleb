@@ -1,0 +1,9 @@
+POI: 			Johnny_Galecki 
+Youtube ID: 	R_iyuiPfpOk 
+Video length: 	374.2 sec 
+Set (V): 		dev 
+ 
+Johnny_Galecki/R_iyuiPfpOk_0000001 125.9 133.1 
+Johnny_Galecki/R_iyuiPfpOk_0000002 264.6 269.8 
+Johnny_Galecki/R_iyuiPfpOk_0000003 300.8 306.4 
+Johnny_Galecki/R_iyuiPfpOk_0000004 313.2 317.8 

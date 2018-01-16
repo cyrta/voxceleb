@@ -1,0 +1,19 @@
+POI: 			Dougray_Scott 
+Youtube ID: 	K15lRgcitSw 
+Video length: 	211.3 sec 
+Set (V): 		dev 
+ 
+Dougray_Scott/K15lRgcitSw_0000001 07.6 13.4 
+Dougray_Scott/K15lRgcitSw_0000002 33.4 37.6 
+Dougray_Scott/K15lRgcitSw_0000003 43.5 53.6 
+Dougray_Scott/K15lRgcitSw_0000004 54.6 59.6 
+Dougray_Scott/K15lRgcitSw_0000005 63.1 68.8 
+Dougray_Scott/K15lRgcitSw_0000006 71.0 76.2 
+Dougray_Scott/K15lRgcitSw_0000007 78.8 86.0 
+Dougray_Scott/K15lRgcitSw_0000008 97.2 104.3 
+Dougray_Scott/K15lRgcitSw_0000009 105.0 111.2 
+Dougray_Scott/K15lRgcitSw_0000010 125.2 130.1 
+Dougray_Scott/K15lRgcitSw_0000011 132.6 137.6 
+Dougray_Scott/K15lRgcitSw_0000012 138.8 145.2 
+Dougray_Scott/K15lRgcitSw_0000013 177.6 184.8 
+Dougray_Scott/K15lRgcitSw_0000014 185.5 197.5 

@@ -1,0 +1,12 @@
+POI: 			Michaela_Conlin 
+Youtube ID: 	e6AGMFjNc40 
+Video length: 	142.5 sec 
+Set (V): 		dev 
+ 
+Michaela_Conlin/e6AGMFjNc40_0000001 06.8 14.2 
+Michaela_Conlin/e6AGMFjNc40_0000002 15.6 33.4 
+Michaela_Conlin/e6AGMFjNc40_0000003 37.4 69.0 
+Michaela_Conlin/e6AGMFjNc40_0000004 72.1 92.0 
+Michaela_Conlin/e6AGMFjNc40_0000005 105.4 109.4 
+Michaela_Conlin/e6AGMFjNc40_0000006 110.1 115.1 
+Michaela_Conlin/e6AGMFjNc40_0000007 117.7 140.4 

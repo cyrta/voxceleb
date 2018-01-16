@@ -1,0 +1,10 @@
+POI: 			Meat_Loaf 
+Youtube ID: 	inq3kIkxGPA 
+Video length: 	234.6 sec 
+Set (V): 		dev 
+ 
+Meat_Loaf/inq3kIkxGPA_0000001 73.6 79.2 
+Meat_Loaf/inq3kIkxGPA_0000002 81.5 86.0 
+Meat_Loaf/inq3kIkxGPA_0000003 141.1 148.6 
+Meat_Loaf/inq3kIkxGPA_0000004 153.0 159.2 
+Meat_Loaf/inq3kIkxGPA_0000005 170.4 176.9 

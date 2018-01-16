@@ -1,0 +1,9 @@
+POI: 			Joel_Kinnaman 
+Youtube ID: 	aheOwqNb-tI 
+Video length: 	141.4 sec 
+Set (V): 		dev 
+ 
+Joel_Kinnaman/aheOwqNb-tI_0000001 94.1 99.7 
+Joel_Kinnaman/aheOwqNb-tI_0000002 102.8 107.1 
+Joel_Kinnaman/aheOwqNb-tI_0000003 114.6 119.2 
+Joel_Kinnaman/aheOwqNb-tI_0000004 120.2 124.6 

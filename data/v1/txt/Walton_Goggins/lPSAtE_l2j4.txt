@@ -1,0 +1,19 @@
+POI: 			Walton_Goggins 
+Youtube ID: 	lPSAtE_l2j4 
+Video length: 	202.5 sec 
+Set (V): 		dev 
+ 
+Walton_Goggins/lPSAtE_l2j4_0000001 21.2 25.5 
+Walton_Goggins/lPSAtE_l2j4_0000002 25.7 30.6 
+Walton_Goggins/lPSAtE_l2j4_0000003 30.8 39.8 
+Walton_Goggins/lPSAtE_l2j4_0000004 45.7 53.3 
+Walton_Goggins/lPSAtE_l2j4_0000005 55.5 60.8 
+Walton_Goggins/lPSAtE_l2j4_0000006 76.7 84.1 
+Walton_Goggins/lPSAtE_l2j4_0000007 86.2 90.2 
+Walton_Goggins/lPSAtE_l2j4_0000008 90.7 94.7 
+Walton_Goggins/lPSAtE_l2j4_0000009 95.8 100.9 
+Walton_Goggins/lPSAtE_l2j4_0000010 115.3 121.4 
+Walton_Goggins/lPSAtE_l2j4_0000011 154.1 162.5 
+Walton_Goggins/lPSAtE_l2j4_0000012 174.6 179.2 
+Walton_Goggins/lPSAtE_l2j4_0000013 182.4 191.7 
+Walton_Goggins/lPSAtE_l2j4_0000014 192.7 196.8 

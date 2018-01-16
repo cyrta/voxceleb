@@ -1,0 +1,15 @@
+POI: 			Ron_Livingston 
+Youtube ID: 	m_DjzPPHGn4 
+Video length: 	215.0 sec 
+Set (V): 		dev 
+ 
+Ron_Livingston/m_DjzPPHGn4_0000001 14.2 24.2 
+Ron_Livingston/m_DjzPPHGn4_0000002 38.9 44.3 
+Ron_Livingston/m_DjzPPHGn4_0000003 52.2 62.0 
+Ron_Livingston/m_DjzPPHGn4_0000004 73.1 97.4 
+Ron_Livingston/m_DjzPPHGn4_0000005 103.1 114.5 
+Ron_Livingston/m_DjzPPHGn4_0000006 129.2 136.0 
+Ron_Livingston/m_DjzPPHGn4_0000007 136.8 151.4 
+Ron_Livingston/m_DjzPPHGn4_0000008 159.2 169.7 
+Ron_Livingston/m_DjzPPHGn4_0000009 177.8 183.6 
+Ron_Livingston/m_DjzPPHGn4_0000010 184.4 203.3 

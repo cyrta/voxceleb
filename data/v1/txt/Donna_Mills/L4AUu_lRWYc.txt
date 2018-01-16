@@ -1,0 +1,23 @@
+POI: 			Donna_Mills 
+Youtube ID: 	L4AUu_lRWYc 
+Video length: 	894.5 sec 
+Set (V): 		dev 
+ 
+Donna_Mills/L4AUu_lRWYc_0000001 36.2 41.6 
+Donna_Mills/L4AUu_lRWYc_0000002 65.5 69.9 
+Donna_Mills/L4AUu_lRWYc_0000003 127.0 131.4 
+Donna_Mills/L4AUu_lRWYc_0000004 178.4 183.3 
+Donna_Mills/L4AUu_lRWYc_0000005 223.9 232.5 
+Donna_Mills/L4AUu_lRWYc_0000006 243.2 253.6 
+Donna_Mills/L4AUu_lRWYc_0000007 255.5 260.2 
+Donna_Mills/L4AUu_lRWYc_0000008 564.3 571.4 
+Donna_Mills/L4AUu_lRWYc_0000009 582.4 591.3 
+Donna_Mills/L4AUu_lRWYc_0000010 591.8 596.4 
+Donna_Mills/L4AUu_lRWYc_0000011 600.4 611.6 
+Donna_Mills/L4AUu_lRWYc_0000012 619.8 627.7 
+Donna_Mills/L4AUu_lRWYc_0000013 664.4 681.3 
+Donna_Mills/L4AUu_lRWYc_0000014 713.0 732.3 
+Donna_Mills/L4AUu_lRWYc_0000015 788.2 805.6 
+Donna_Mills/L4AUu_lRWYc_0000016 815.6 822.8 
+Donna_Mills/L4AUu_lRWYc_0000017 842.9 865.2 
+Donna_Mills/L4AUu_lRWYc_0000018 865.5 870.9 

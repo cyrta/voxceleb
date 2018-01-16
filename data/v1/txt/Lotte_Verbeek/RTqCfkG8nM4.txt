@@ -1,0 +1,7 @@
+POI: 			Lotte_Verbeek 
+Youtube ID: 	RTqCfkG8nM4 
+Video length: 	124.1 sec 
+Set (V): 		dev 
+ 
+Lotte_Verbeek/RTqCfkG8nM4_0000001 27.0 41.4 
+Lotte_Verbeek/RTqCfkG8nM4_0000002 40.7 46.4 

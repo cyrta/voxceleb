@@ -1,0 +1,11 @@
+POI: 			Shane_West 
+Youtube ID: 	xLEgD9oyd6I 
+Video length: 	347.4 sec 
+Set (V): 		dev 
+ 
+Shane_West/xLEgD9oyd6I_0000001 139.8 151.5 
+Shane_West/xLEgD9oyd6I_0000002 163.4 167.6 
+Shane_West/xLEgD9oyd6I_0000003 175.7 179.7 
+Shane_West/xLEgD9oyd6I_0000004 246.4 253.0 
+Shane_West/xLEgD9oyd6I_0000005 258.2 263.8 
+Shane_West/xLEgD9oyd6I_0000006 311.2 318.5 

@@ -1,0 +1,16 @@
+POI: 			Mia_Wasikowska 
+Youtube ID: 	ov1p7InXxaE 
+Video length: 	261.7 sec 
+Set (V): 		dev 
+ 
+Mia_Wasikowska/ov1p7InXxaE_0000001 12.1 31.6 
+Mia_Wasikowska/ov1p7InXxaE_0000002 42.1 48.7 
+Mia_Wasikowska/ov1p7InXxaE_0000003 49.7 58.9 
+Mia_Wasikowska/ov1p7InXxaE_0000004 69.5 92.6 
+Mia_Wasikowska/ov1p7InXxaE_0000005 104.0 111.3 
+Mia_Wasikowska/ov1p7InXxaE_0000006 112.1 122.8 
+Mia_Wasikowska/ov1p7InXxaE_0000007 123.1 136.1 
+Mia_Wasikowska/ov1p7InXxaE_0000008 185.7 192.8 
+Mia_Wasikowska/ov1p7InXxaE_0000009 194.7 203.2 
+Mia_Wasikowska/ov1p7InXxaE_0000010 222.9 234.4 
+Mia_Wasikowska/ov1p7InXxaE_0000011 236.1 241.4 

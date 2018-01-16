@@ -1,0 +1,10 @@
+POI: 			Viggo_Mortensen 
+Youtube ID: 	Cn29Vo9OZmQ 
+Video length: 	594.7 sec 
+Set (V): 		dev 
+ 
+Viggo_Mortensen/Cn29Vo9OZmQ_0000001 118.8 126.2 
+Viggo_Mortensen/Cn29Vo9OZmQ_0000002 230.8 235.1 
+Viggo_Mortensen/Cn29Vo9OZmQ_0000003 252.0 256.8 
+Viggo_Mortensen/Cn29Vo9OZmQ_0000004 267.6 272.8 
+Viggo_Mortensen/Cn29Vo9OZmQ_0000005 442.6 447.3 

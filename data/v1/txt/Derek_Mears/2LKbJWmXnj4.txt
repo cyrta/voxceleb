@@ -1,0 +1,20 @@
+POI: 			Derek_Mears 
+Youtube ID: 	2LKbJWmXnj4 
+Video length: 	355.0 sec 
+Set (V): 		dev 
+ 
+Derek_Mears/2LKbJWmXnj4_0000001 09.2 19.3 
+Derek_Mears/2LKbJWmXnj4_0000002 36.5 48.4 
+Derek_Mears/2LKbJWmXnj4_0000003 70.1 82.0 
+Derek_Mears/2LKbJWmXnj4_0000004 95.9 101.2 
+Derek_Mears/2LKbJWmXnj4_0000005 102.4 106.9 
+Derek_Mears/2LKbJWmXnj4_0000006 122.6 130.6 
+Derek_Mears/2LKbJWmXnj4_0000007 142.3 151.2 
+Derek_Mears/2LKbJWmXnj4_0000008 151.7 171.6 
+Derek_Mears/2LKbJWmXnj4_0000009 178.2 190.2 
+Derek_Mears/2LKbJWmXnj4_0000010 210.4 220.9 
+Derek_Mears/2LKbJWmXnj4_0000011 229.3 250.2 
+Derek_Mears/2LKbJWmXnj4_0000012 269.5 275.8 
+Derek_Mears/2LKbJWmXnj4_0000013 305.5 314.1 
+Derek_Mears/2LKbJWmXnj4_0000014 321.0 335.1 
+Derek_Mears/2LKbJWmXnj4_0000015 337.0 350.1 

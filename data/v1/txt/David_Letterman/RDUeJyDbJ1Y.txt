@@ -1,0 +1,10 @@
+POI: 			David_Letterman 
+Youtube ID: 	RDUeJyDbJ1Y 
+Video length: 	887.6 sec 
+Set (V): 		dev 
+ 
+David_Letterman/RDUeJyDbJ1Y_0000001 270.9 275.7 
+David_Letterman/RDUeJyDbJ1Y_0000002 382.0 387.3 
+David_Letterman/RDUeJyDbJ1Y_0000003 388.7 392.8 
+David_Letterman/RDUeJyDbJ1Y_0000004 574.0 579.8 
+David_Letterman/RDUeJyDbJ1Y_0000005 799.8 805.6 

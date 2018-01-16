@@ -1,0 +1,7 @@
+POI: 			Sean_Bean 
+Youtube ID: 	NhjGsmFKvR8 
+Video length: 	114.8 sec 
+Set (V): 		dev 
+ 
+Sean_Bean/NhjGsmFKvR8_0000001 58.0 64.0 
+Sean_Bean/NhjGsmFKvR8_0000002 81.0 91.7 

@@ -1,0 +1,15 @@
+POI: 			Patrick_Dempsey 
+Youtube ID: 	SV2ZQINRUrU 
+Video length: 	383.8 sec 
+Set (V): 		dev 
+ 
+Patrick_Dempsey/SV2ZQINRUrU_0000001 17.9 28.2 
+Patrick_Dempsey/SV2ZQINRUrU_0000002 75.1 79.2 
+Patrick_Dempsey/SV2ZQINRUrU_0000003 98.2 107.8 
+Patrick_Dempsey/SV2ZQINRUrU_0000004 149.1 156.6 
+Patrick_Dempsey/SV2ZQINRUrU_0000005 229.2 233.8 
+Patrick_Dempsey/SV2ZQINRUrU_0000006 249.3 253.6 
+Patrick_Dempsey/SV2ZQINRUrU_0000007 264.6 271.4 
+Patrick_Dempsey/SV2ZQINRUrU_0000008 276.1 282.6 
+Patrick_Dempsey/SV2ZQINRUrU_0000009 318.6 322.6 
+Patrick_Dempsey/SV2ZQINRUrU_0000010 323.2 328.0 

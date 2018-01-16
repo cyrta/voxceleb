@@ -1,0 +1,9 @@
+POI: 			Pierre_Niney 
+Youtube ID: 	9nd0rb4B4DU 
+Video length: 	259.8 sec 
+Set (V): 		dev 
+ 
+Pierre_Niney/9nd0rb4B4DU_0000001 80.7 88.8 
+Pierre_Niney/9nd0rb4B4DU_0000002 124.0 130.1 
+Pierre_Niney/9nd0rb4B4DU_0000003 194.4 203.0 
+Pierre_Niney/9nd0rb4B4DU_0000004 232.9 238.7 

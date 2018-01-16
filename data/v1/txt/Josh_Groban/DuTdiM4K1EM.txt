@@ -1,0 +1,7 @@
+POI: 			Josh_Groban 
+Youtube ID: 	DuTdiM4K1EM 
+Video length: 	400.9 sec 
+Set (V): 		dev 
+ 
+Josh_Groban/DuTdiM4K1EM_0000001 147.6 152.2 
+Josh_Groban/DuTdiM4K1EM_0000002 382.2 388.9 

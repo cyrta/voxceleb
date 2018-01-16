@@ -1,0 +1,8 @@
+POI: 			Dawn_French 
+Youtube ID: 	tacbsb_fqQ8 
+Video length: 	203.9 sec 
+Set (V): 		dev 
+ 
+Dawn_French/tacbsb_fqQ8_0000001 21.7 29.4 
+Dawn_French/tacbsb_fqQ8_0000002 30.1 35.5 
+Dawn_French/tacbsb_fqQ8_0000003 105.5 113.9 

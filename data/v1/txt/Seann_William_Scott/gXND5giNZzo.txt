@@ -1,0 +1,10 @@
+POI: 			Seann_William_Scott 
+Youtube ID: 	gXND5giNZzo 
+Video length: 	105.7 sec 
+Set (V): 		dev 
+ 
+Seann_William_Scott/gXND5giNZzo_0000001 09.7 13.8 
+Seann_William_Scott/gXND5giNZzo_0000002 17.7 21.7 
+Seann_William_Scott/gXND5giNZzo_0000003 36.0 43.6 
+Seann_William_Scott/gXND5giNZzo_0000004 64.9 71.5 
+Seann_William_Scott/gXND5giNZzo_0000005 71.8 85.9 

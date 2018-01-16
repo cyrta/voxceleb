@@ -1,0 +1,13 @@
+POI: 			Jesse_Metcalfe 
+Youtube ID: 	KaDg169JYlE 
+Video length: 	414.7 sec 
+Set (V): 		dev 
+ 
+Jesse_Metcalfe/KaDg169JYlE_0000001 38.5 64.0 
+Jesse_Metcalfe/KaDg169JYlE_0000002 121.7 126.2 
+Jesse_Metcalfe/KaDg169JYlE_0000003 126.4 136.6 
+Jesse_Metcalfe/KaDg169JYlE_0000004 203.1 207.1 
+Jesse_Metcalfe/KaDg169JYlE_0000005 202.5 209.8 
+Jesse_Metcalfe/KaDg169JYlE_0000006 253.2 270.9 
+Jesse_Metcalfe/KaDg169JYlE_0000007 301.5 307.4 
+Jesse_Metcalfe/KaDg169JYlE_0000008 332.7 360.2 

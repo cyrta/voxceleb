@@ -1,0 +1,8 @@
+POI: 			Jeff_Daniels 
+Youtube ID: 	nZ5onAI4zDA 
+Video length: 	262.3 sec 
+Set (V): 		dev 
+ 
+Jeff_Daniels/nZ5onAI4zDA_0000001 06.4 10.8 
+Jeff_Daniels/nZ5onAI4zDA_0000002 107.8 113.8 
+Jeff_Daniels/nZ5onAI4zDA_0000003 120.0 126.3 

@@ -1,0 +1,7 @@
+POI: 			Donald_Sutherland 
+Youtube ID: 	IJe02o_40PE 
+Video length: 	99.7 sec 
+Set (V): 		dev 
+ 
+Donald_Sutherland/IJe02o_40PE_0000001 12.1 17.7 
+Donald_Sutherland/IJe02o_40PE_0000002 36.2 40.6 

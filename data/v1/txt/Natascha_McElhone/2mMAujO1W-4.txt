@@ -1,0 +1,8 @@
+POI: 			Natascha_McElhone 
+Youtube ID: 	2mMAujO1W-4 
+Video length: 	220.4 sec 
+Set (V): 		dev 
+ 
+Natascha_McElhone/2mMAujO1W-4_0000001 14.4 19.1 
+Natascha_McElhone/2mMAujO1W-4_0000002 110.9 115.3 
+Natascha_McElhone/2mMAujO1W-4_0000003 184.7 191.0 

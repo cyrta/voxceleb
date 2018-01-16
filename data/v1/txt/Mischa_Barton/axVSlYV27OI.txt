@@ -1,0 +1,33 @@
+POI: 			Mischa_Barton 
+Youtube ID: 	axVSlYV27OI 
+Video length: 	592.8 sec 
+Set (V): 		dev 
+ 
+Mischa_Barton/axVSlYV27OI_0000001 35.7 46.1 
+Mischa_Barton/axVSlYV27OI_0000002 53.3 59.8 
+Mischa_Barton/axVSlYV27OI_0000003 76.5 84.5 
+Mischa_Barton/axVSlYV27OI_0000004 94.4 100.3 
+Mischa_Barton/axVSlYV27OI_0000005 130.0 135.7 
+Mischa_Barton/axVSlYV27OI_0000006 147.7 158.2 
+Mischa_Barton/axVSlYV27OI_0000007 166.5 170.7 
+Mischa_Barton/axVSlYV27OI_0000008 177.8 189.4 
+Mischa_Barton/axVSlYV27OI_0000009 205.4 219.2 
+Mischa_Barton/axVSlYV27OI_0000010 228.0 232.8 
+Mischa_Barton/axVSlYV27OI_0000011 235.1 242.8 
+Mischa_Barton/axVSlYV27OI_0000012 243.5 248.1 
+Mischa_Barton/axVSlYV27OI_0000013 253.0 259.7 
+Mischa_Barton/axVSlYV27OI_0000014 265.7 279.8 
+Mischa_Barton/axVSlYV27OI_0000015 281.8 309.1 
+Mischa_Barton/axVSlYV27OI_0000016 318.9 327.9 
+Mischa_Barton/axVSlYV27OI_0000017 330.8 345.3 
+Mischa_Barton/axVSlYV27OI_0000018 347.6 353.8 
+Mischa_Barton/axVSlYV27OI_0000019 355.8 384.9 
+Mischa_Barton/axVSlYV27OI_0000020 394.8 403.6 
+Mischa_Barton/axVSlYV27OI_0000021 432.4 442.3 
+Mischa_Barton/axVSlYV27OI_0000022 449.9 465.6 
+Mischa_Barton/axVSlYV27OI_0000023 470.3 474.6 
+Mischa_Barton/axVSlYV27OI_0000024 494.8 501.0 
+Mischa_Barton/axVSlYV27OI_0000025 505.6 516.6 
+Mischa_Barton/axVSlYV27OI_0000026 529.2 540.4 
+Mischa_Barton/axVSlYV27OI_0000027 542.4 547.2 
+Mischa_Barton/axVSlYV27OI_0000028 577.3 584.2 

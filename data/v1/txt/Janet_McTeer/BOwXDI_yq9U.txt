@@ -1,0 +1,18 @@
+POI: 			Janet_McTeer 
+Youtube ID: 	BOwXDI_yq9U 
+Video length: 	1525.2 sec 
+Set (V): 		dev 
+ 
+Janet_McTeer/BOwXDI_yq9U_0000001 277.3 281.3 
+Janet_McTeer/BOwXDI_yq9U_0000002 281.8 286.8 
+Janet_McTeer/BOwXDI_yq9U_0000003 290.1 301.0 
+Janet_McTeer/BOwXDI_yq9U_0000004 354.0 360.7 
+Janet_McTeer/BOwXDI_yq9U_0000005 369.5 378.1 
+Janet_McTeer/BOwXDI_yq9U_0000006 382.9 396.4 
+Janet_McTeer/BOwXDI_yq9U_0000007 417.8 423.8 
+Janet_McTeer/BOwXDI_yq9U_0000008 497.7 509.0 
+Janet_McTeer/BOwXDI_yq9U_0000009 516.4 529.4 
+Janet_McTeer/BOwXDI_yq9U_0000010 718.6 729.8 
+Janet_McTeer/BOwXDI_yq9U_0000011 1146.4 1153.4 
+Janet_McTeer/BOwXDI_yq9U_0000012 1313.7 1322.8 
+Janet_McTeer/BOwXDI_yq9U_0000013 1325.9 1340.2 

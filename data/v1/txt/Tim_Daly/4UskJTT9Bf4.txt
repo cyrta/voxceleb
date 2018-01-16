@@ -1,0 +1,13 @@
+POI: 			Tim_Daly 
+Youtube ID: 	4UskJTT9Bf4 
+Video length: 	502.8 sec 
+Set (V): 		dev 
+ 
+Tim_Daly/4UskJTT9Bf4_0000001 47.7 58.2 
+Tim_Daly/4UskJTT9Bf4_0000002 127.4 131.7 
+Tim_Daly/4UskJTT9Bf4_0000003 187.8 192.9 
+Tim_Daly/4UskJTT9Bf4_0000004 205.3 210.8 
+Tim_Daly/4UskJTT9Bf4_0000005 294.1 298.1 
+Tim_Daly/4UskJTT9Bf4_0000006 333.0 360.6 
+Tim_Daly/4UskJTT9Bf4_0000007 362.0 372.2 
+Tim_Daly/4UskJTT9Bf4_0000008 382.1 391.8 

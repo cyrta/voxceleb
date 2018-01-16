@@ -1,0 +1,10 @@
+POI: 			Rowan_Atkinson 
+Youtube ID: 	AR0804ul8mg 
+Video length: 	256.9 sec 
+Set (V): 		dev 
+ 
+Rowan_Atkinson/AR0804ul8mg_0000001 21.9 28.6 
+Rowan_Atkinson/AR0804ul8mg_0000002 69.5 90.4 
+Rowan_Atkinson/AR0804ul8mg_0000003 106.8 114.8 
+Rowan_Atkinson/AR0804ul8mg_0000004 163.2 170.3 
+Rowan_Atkinson/AR0804ul8mg_0000005 199.8 204.6 

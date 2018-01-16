@@ -1,0 +1,8 @@
+POI: 			Marisa_Miller 
+Youtube ID: 	AjAiOFOzwDU 
+Video length: 	307.5 sec 
+Set (V): 		dev 
+ 
+Marisa_Miller/AjAiOFOzwDU_0000001 93.3 98.5 
+Marisa_Miller/AjAiOFOzwDU_0000002 141.7 150.3 
+Marisa_Miller/AjAiOFOzwDU_0000003 184.3 192.3 

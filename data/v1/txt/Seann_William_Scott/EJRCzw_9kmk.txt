@@ -1,0 +1,8 @@
+POI: 			Seann_William_Scott 
+Youtube ID: 	EJRCzw_9kmk 
+Video length: 	451.0 sec 
+Set (V): 		dev 
+ 
+Seann_William_Scott/EJRCzw_9kmk_0000001 194.7 199.2 
+Seann_William_Scott/EJRCzw_9kmk_0000002 199.4 205.1 
+Seann_William_Scott/EJRCzw_9kmk_0000003 367.4 372.0 

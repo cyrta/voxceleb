@@ -1,0 +1,17 @@
+POI: 			Michael_Bay 
+Youtube ID: 	23EyDJUqV_8 
+Video length: 	461.3 sec 
+Set (V): 		dev 
+ 
+Michael_Bay/23EyDJUqV_8_0000001 180.6 193.4 
+Michael_Bay/23EyDJUqV_8_0000002 194.2 200.4 
+Michael_Bay/23EyDJUqV_8_0000003 220.0 228.0 
+Michael_Bay/23EyDJUqV_8_0000004 234.0 238.3 
+Michael_Bay/23EyDJUqV_8_0000005 259.0 270.3 
+Michael_Bay/23EyDJUqV_8_0000006 270.5 282.0 
+Michael_Bay/23EyDJUqV_8_0000007 290.8 300.2 
+Michael_Bay/23EyDJUqV_8_0000008 363.8 368.1 
+Michael_Bay/23EyDJUqV_8_0000009 422.9 430.1 
+Michael_Bay/23EyDJUqV_8_0000010 432.0 436.7 
+Michael_Bay/23EyDJUqV_8_0000011 437.8 442.4 
+Michael_Bay/23EyDJUqV_8_0000012 449.0 453.2 

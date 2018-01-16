@@ -1,0 +1,13 @@
+POI: 			Loretta_Swit 
+Youtube ID: 	NyURK_hQ-xI 
+Video length: 	493.9 sec 
+Set (V): 		dev 
+ 
+Loretta_Swit/NyURK_hQ-xI_0000001 117.8 122.0 
+Loretta_Swit/NyURK_hQ-xI_0000002 145.9 151.4 
+Loretta_Swit/NyURK_hQ-xI_0000003 159.0 165.4 
+Loretta_Swit/NyURK_hQ-xI_0000004 192.9 215.9 
+Loretta_Swit/NyURK_hQ-xI_0000005 277.2 284.9 
+Loretta_Swit/NyURK_hQ-xI_0000006 345.0 350.1 
+Loretta_Swit/NyURK_hQ-xI_0000007 390.8 399.2 
+Loretta_Swit/NyURK_hQ-xI_0000008 429.0 441.2 

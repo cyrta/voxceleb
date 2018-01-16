@@ -1,0 +1,15 @@
+POI: 			Gordon_Ramsay 
+Youtube ID: 	39jgnWcQk3w 
+Video length: 	341.9 sec 
+Set (V): 		dev 
+ 
+Gordon_Ramsay/39jgnWcQk3w_0000001 38.4 45.9 
+Gordon_Ramsay/39jgnWcQk3w_0000002 73.6 78.6 
+Gordon_Ramsay/39jgnWcQk3w_0000003 117.5 124.4 
+Gordon_Ramsay/39jgnWcQk3w_0000004 134.7 141.0 
+Gordon_Ramsay/39jgnWcQk3w_0000005 152.4 161.6 
+Gordon_Ramsay/39jgnWcQk3w_0000006 191.3 196.4 
+Gordon_Ramsay/39jgnWcQk3w_0000007 265.3 270.8 
+Gordon_Ramsay/39jgnWcQk3w_0000008 280.5 285.8 
+Gordon_Ramsay/39jgnWcQk3w_0000009 292.4 306.0 
+Gordon_Ramsay/39jgnWcQk3w_0000010 331.6 337.3 

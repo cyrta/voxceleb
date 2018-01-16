@@ -1,0 +1,7 @@
+POI: 			Jack_Reynor 
+Youtube ID: 	SOoT-lr7C7Y 
+Video length: 	169.2 sec 
+Set (V): 		dev 
+ 
+Jack_Reynor/SOoT-lr7C7Y_0000001 92.1 96.1 
+Jack_Reynor/SOoT-lr7C7Y_0000002 107.0 112.0 

@@ -1,0 +1,12 @@
+POI: 			Robert_Sheehan 
+Youtube ID: 	UWpeUky0EAk 
+Video length: 	266.2 sec 
+Set (V): 		dev 
+ 
+Robert_Sheehan/UWpeUky0EAk_0000001 39.5 46.3 
+Robert_Sheehan/UWpeUky0EAk_0000002 85.0 95.1 
+Robert_Sheehan/UWpeUky0EAk_0000003 139.2 145.1 
+Robert_Sheehan/UWpeUky0EAk_0000004 188.2 200.7 
+Robert_Sheehan/UWpeUky0EAk_0000005 201.8 210.0 
+Robert_Sheehan/UWpeUky0EAk_0000006 212.0 222.7 
+Robert_Sheehan/UWpeUky0EAk_0000007 230.5 238.2 

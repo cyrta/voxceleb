@@ -1,0 +1,7 @@
+POI: 			James_Badge_Dale 
+Youtube ID: 	FsOfT3HTfnM 
+Video length: 	185.5 sec 
+Set (V): 		dev 
+ 
+James_Badge_Dale/FsOfT3HTfnM_0000001 96.8 100.7 
+James_Badge_Dale/FsOfT3HTfnM_0000002 161.9 166.7 

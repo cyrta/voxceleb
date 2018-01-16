@@ -1,0 +1,7 @@
+POI: 			James_Woods 
+Youtube ID: 	lTxaugvQ4yA 
+Video length: 	1230.2 sec 
+Set (V): 		dev 
+ 
+James_Woods/lTxaugvQ4yA_0000001 693.9 699.0 
+James_Woods/lTxaugvQ4yA_0000002 912.7 916.7 

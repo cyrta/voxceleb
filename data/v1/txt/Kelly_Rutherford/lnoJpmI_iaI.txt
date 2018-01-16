@@ -1,0 +1,14 @@
+POI: 			Kelly_Rutherford 
+Youtube ID: 	lnoJpmI_iaI 
+Video length: 	159.0 sec 
+Set (V): 		dev 
+ 
+Kelly_Rutherford/lnoJpmI_iaI_0000001 44.2 61.2 
+Kelly_Rutherford/lnoJpmI_iaI_0000002 48.6 54.4 
+Kelly_Rutherford/lnoJpmI_iaI_0000003 58.6 70.4 
+Kelly_Rutherford/lnoJpmI_iaI_0000004 68.3 72.8 
+Kelly_Rutherford/lnoJpmI_iaI_0000005 74.2 82.2 
+Kelly_Rutherford/lnoJpmI_iaI_0000006 91.0 113.9 
+Kelly_Rutherford/lnoJpmI_iaI_0000007 124.9 130.7 
+Kelly_Rutherford/lnoJpmI_iaI_0000008 135.4 140.8 
+Kelly_Rutherford/lnoJpmI_iaI_0000009 143.3 150.1 

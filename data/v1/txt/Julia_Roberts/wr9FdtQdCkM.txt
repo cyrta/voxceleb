@@ -1,0 +1,8 @@
+POI: 			Julia_Roberts 
+Youtube ID: 	wr9FdtQdCkM 
+Video length: 	476.8 sec 
+Set (V): 		dev 
+ 
+Julia_Roberts/wr9FdtQdCkM_0000001 08.5 12.5 
+Julia_Roberts/wr9FdtQdCkM_0000002 63.1 67.2 
+Julia_Roberts/wr9FdtQdCkM_0000003 462.3 466.6 

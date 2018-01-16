@@ -1,0 +1,20 @@
+POI: 			Brian_Dennehy 
+Youtube ID: 	6S--HMgvHiE 
+Video length: 	204.5 sec 
+Set (V): 		dev 
+ 
+Brian_Dennehy/6S--HMgvHiE_0000001 10.0 14.2 
+Brian_Dennehy/6S--HMgvHiE_0000002 26.8 47.0 
+Brian_Dennehy/6S--HMgvHiE_0000003 48.1 55.2 
+Brian_Dennehy/6S--HMgvHiE_0000004 78.0 86.7 
+Brian_Dennehy/6S--HMgvHiE_0000005 88.4 97.1 
+Brian_Dennehy/6S--HMgvHiE_0000006 97.4 104.0 
+Brian_Dennehy/6S--HMgvHiE_0000007 114.3 118.4 
+Brian_Dennehy/6S--HMgvHiE_0000008 120.2 125.2 
+Brian_Dennehy/6S--HMgvHiE_0000009 128.6 135.4 
+Brian_Dennehy/6S--HMgvHiE_0000010 130.7 136.7 
+Brian_Dennehy/6S--HMgvHiE_0000011 148.6 161.0 
+Brian_Dennehy/6S--HMgvHiE_0000012 162.6 167.0 
+Brian_Dennehy/6S--HMgvHiE_0000013 175.7 181.1 
+Brian_Dennehy/6S--HMgvHiE_0000014 181.6 188.9 
+Brian_Dennehy/6S--HMgvHiE_0000015 189.0 197.4 

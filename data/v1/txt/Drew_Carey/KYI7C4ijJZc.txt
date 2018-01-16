@@ -1,0 +1,13 @@
+POI: 			Drew_Carey 
+Youtube ID: 	KYI7C4ijJZc 
+Video length: 	322.9 sec 
+Set (V): 		dev 
+ 
+Drew_Carey/KYI7C4ijJZc_0000001 17.7 25.1 
+Drew_Carey/KYI7C4ijJZc_0000002 70.4 74.6 
+Drew_Carey/KYI7C4ijJZc_0000003 75.9 89.1 
+Drew_Carey/KYI7C4ijJZc_0000004 151.5 156.3 
+Drew_Carey/KYI7C4ijJZc_0000005 156.8 164.1 
+Drew_Carey/KYI7C4ijJZc_0000006 270.5 275.1 
+Drew_Carey/KYI7C4ijJZc_0000007 277.8 288.9 
+Drew_Carey/KYI7C4ijJZc_0000008 293.8 306.8 

@@ -1,0 +1,11 @@
+POI: 			Blake_Michael 
+Youtube ID: 	kFVA2rUj2LY 
+Video length: 	283.7 sec 
+Set (V): 		dev 
+ 
+Blake_Michael/kFVA2rUj2LY_0000001 94.6 100.8 
+Blake_Michael/kFVA2rUj2LY_0000002 124.6 129.3 
+Blake_Michael/kFVA2rUj2LY_0000003 164.0 173.8 
+Blake_Michael/kFVA2rUj2LY_0000004 202.8 207.5 
+Blake_Michael/kFVA2rUj2LY_0000005 212.9 216.9 
+Blake_Michael/kFVA2rUj2LY_0000006 243.4 248.3 

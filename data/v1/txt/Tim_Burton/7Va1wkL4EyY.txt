@@ -1,0 +1,8 @@
+POI: 			Tim_Burton 
+Youtube ID: 	7Va1wkL4EyY 
+Video length: 	221.5 sec 
+Set (V): 		dev 
+ 
+Tim_Burton/7Va1wkL4EyY_0000001 07.6 17.8 
+Tim_Burton/7Va1wkL4EyY_0000002 90.5 140.2 
+Tim_Burton/7Va1wkL4EyY_0000003 146.1 157.7 

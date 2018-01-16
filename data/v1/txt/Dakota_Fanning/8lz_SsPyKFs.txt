@@ -1,0 +1,18 @@
+POI: 			Dakota_Fanning 
+Youtube ID: 	8lz_SsPyKFs 
+Video length: 	248.3 sec 
+Set (V): 		dev 
+ 
+Dakota_Fanning/8lz_SsPyKFs_0000001 39.0 44.5 
+Dakota_Fanning/8lz_SsPyKFs_0000002 61.1 69.0 
+Dakota_Fanning/8lz_SsPyKFs_0000003 73.6 81.0 
+Dakota_Fanning/8lz_SsPyKFs_0000004 81.6 87.4 
+Dakota_Fanning/8lz_SsPyKFs_0000005 100.4 106.6 
+Dakota_Fanning/8lz_SsPyKFs_0000006 109.4 114.1 
+Dakota_Fanning/8lz_SsPyKFs_0000007 113.0 117.5 
+Dakota_Fanning/8lz_SsPyKFs_0000008 145.2 149.5 
+Dakota_Fanning/8lz_SsPyKFs_0000009 150.6 161.8 
+Dakota_Fanning/8lz_SsPyKFs_0000010 200.3 204.6 
+Dakota_Fanning/8lz_SsPyKFs_0000011 209.5 213.9 
+Dakota_Fanning/8lz_SsPyKFs_0000012 209.3 214.4 
+Dakota_Fanning/8lz_SsPyKFs_0000013 227.2 232.0 

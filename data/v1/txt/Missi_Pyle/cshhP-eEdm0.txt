@@ -1,0 +1,17 @@
+POI: 			Missi_Pyle 
+Youtube ID: 	cshhP-eEdm0 
+Video length: 	167.7 sec 
+Set (V): 		dev 
+ 
+Missi_Pyle/cshhP-eEdm0_0000001 02.4 10.2 
+Missi_Pyle/cshhP-eEdm0_0000002 11.0 24.4 
+Missi_Pyle/cshhP-eEdm0_0000003 31.5 40.0 
+Missi_Pyle/cshhP-eEdm0_0000004 40.7 47.0 
+Missi_Pyle/cshhP-eEdm0_0000005 47.1 56.4 
+Missi_Pyle/cshhP-eEdm0_0000006 56.6 65.2 
+Missi_Pyle/cshhP-eEdm0_0000007 67.2 82.2 
+Missi_Pyle/cshhP-eEdm0_0000008 85.7 95.8 
+Missi_Pyle/cshhP-eEdm0_0000009 96.0 111.6 
+Missi_Pyle/cshhP-eEdm0_0000010 112.6 120.7 
+Missi_Pyle/cshhP-eEdm0_0000011 129.0 152.1 
+Missi_Pyle/cshhP-eEdm0_0000012 153.9 162.0 

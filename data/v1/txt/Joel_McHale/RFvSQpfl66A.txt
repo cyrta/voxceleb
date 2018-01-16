@@ -1,0 +1,18 @@
+POI: 			Joel_McHale 
+Youtube ID: 	RFvSQpfl66A 
+Video length: 	247.9 sec 
+Set (V): 		dev 
+ 
+Joel_McHale/RFvSQpfl66A_0000001 06.1 10.1 
+Joel_McHale/RFvSQpfl66A_0000002 10.3 16.2 
+Joel_McHale/RFvSQpfl66A_0000003 43.1 48.7 
+Joel_McHale/RFvSQpfl66A_0000004 52.7 57.6 
+Joel_McHale/RFvSQpfl66A_0000005 92.8 108.4 
+Joel_McHale/RFvSQpfl66A_0000006 110.0 114.0 
+Joel_McHale/RFvSQpfl66A_0000007 132.4 144.5 
+Joel_McHale/RFvSQpfl66A_0000008 145.1 149.4 
+Joel_McHale/RFvSQpfl66A_0000009 166.9 173.5 
+Joel_McHale/RFvSQpfl66A_0000010 173.0 179.5 
+Joel_McHale/RFvSQpfl66A_0000011 182.0 186.0 
+Joel_McHale/RFvSQpfl66A_0000012 192.8 199.9 
+Joel_McHale/RFvSQpfl66A_0000013 221.2 226.9 

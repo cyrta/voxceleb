@@ -1,0 +1,8 @@
+POI: 			Leslie_Mann 
+Youtube ID: 	q67HD_8m7QQ 
+Video length: 	242.3 sec 
+Set (V): 		dev 
+ 
+Leslie_Mann/q67HD_8m7QQ_0000001 25.3 30.2 
+Leslie_Mann/q67HD_8m7QQ_0000002 149.9 157.0 
+Leslie_Mann/q67HD_8m7QQ_0000003 166.2 175.4 

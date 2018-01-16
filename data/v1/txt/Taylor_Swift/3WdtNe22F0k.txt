@@ -1,0 +1,20 @@
+POI: 			Taylor_Swift 
+Youtube ID: 	3WdtNe22F0k 
+Video length: 	322.0 sec 
+Set (V): 		dev 
+ 
+Taylor_Swift/3WdtNe22F0k_0000001 18.2 28.1 
+Taylor_Swift/3WdtNe22F0k_0000002 28.4 34.2 
+Taylor_Swift/3WdtNe22F0k_0000003 49.0 74.8 
+Taylor_Swift/3WdtNe22F0k_0000004 76.1 85.3 
+Taylor_Swift/3WdtNe22F0k_0000005 91.0 95.0 
+Taylor_Swift/3WdtNe22F0k_0000006 130.5 136.0 
+Taylor_Swift/3WdtNe22F0k_0000007 144.2 157.1 
+Taylor_Swift/3WdtNe22F0k_0000008 190.0 194.2 
+Taylor_Swift/3WdtNe22F0k_0000009 209.1 214.2 
+Taylor_Swift/3WdtNe22F0k_0000010 220.3 225.2 
+Taylor_Swift/3WdtNe22F0k_0000011 225.3 243.6 
+Taylor_Swift/3WdtNe22F0k_0000012 245.3 254.4 
+Taylor_Swift/3WdtNe22F0k_0000013 290.4 295.7 
+Taylor_Swift/3WdtNe22F0k_0000014 296.1 304.0 
+Taylor_Swift/3WdtNe22F0k_0000015 312.0 319.1 

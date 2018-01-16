@@ -1,0 +1,22 @@
+POI: 			Dr._Dre 
+Youtube ID: 	xw9f4hGyXyQ 
+Video length: 	616.8 sec 
+Set (V): 		dev 
+ 
+Dr._Dre/xw9f4hGyXyQ_0000001 109.0 114.3 
+Dr._Dre/xw9f4hGyXyQ_0000002 114.4 118.6 
+Dr._Dre/xw9f4hGyXyQ_0000003 119.0 123.6 
+Dr._Dre/xw9f4hGyXyQ_0000004 167.2 178.5 
+Dr._Dre/xw9f4hGyXyQ_0000005 261.8 271.9 
+Dr._Dre/xw9f4hGyXyQ_0000006 272.2 276.4 
+Dr._Dre/xw9f4hGyXyQ_0000007 330.4 334.8 
+Dr._Dre/xw9f4hGyXyQ_0000008 347.9 354.6 
+Dr._Dre/xw9f4hGyXyQ_0000009 384.6 393.8 
+Dr._Dre/xw9f4hGyXyQ_0000010 394.5 403.0 
+Dr._Dre/xw9f4hGyXyQ_0000011 413.6 418.4 
+Dr._Dre/xw9f4hGyXyQ_0000012 437.6 448.3 
+Dr._Dre/xw9f4hGyXyQ_0000013 492.3 497.0 
+Dr._Dre/xw9f4hGyXyQ_0000014 508.4 514.0 
+Dr._Dre/xw9f4hGyXyQ_0000015 522.9 528.7 
+Dr._Dre/xw9f4hGyXyQ_0000016 543.8 549.7 
+Dr._Dre/xw9f4hGyXyQ_0000017 597.1 601.7 

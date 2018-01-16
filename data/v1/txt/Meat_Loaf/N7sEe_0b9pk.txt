@@ -1,0 +1,9 @@
+POI: 			Meat_Loaf 
+Youtube ID: 	N7sEe_0b9pk 
+Video length: 	612.0 sec 
+Set (V): 		dev 
+ 
+Meat_Loaf/N7sEe_0b9pk_0000001 171.6 178.2 
+Meat_Loaf/N7sEe_0b9pk_0000002 198.8 204.0 
+Meat_Loaf/N7sEe_0b9pk_0000003 240.5 251.6 
+Meat_Loaf/N7sEe_0b9pk_0000004 280.9 295.6 

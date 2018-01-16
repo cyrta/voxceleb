@@ -1,0 +1,9 @@
+POI: 			Kate_Voegele 
+Youtube ID: 	4bjyBryr50U 
+Video length: 	473.2 sec 
+Set (V): 		dev 
+ 
+Kate_Voegele/4bjyBryr50U_0000001 154.1 158.1 
+Kate_Voegele/4bjyBryr50U_0000002 300.2 306.3 
+Kate_Voegele/4bjyBryr50U_0000003 345.9 356.0 
+Kate_Voegele/4bjyBryr50U_0000004 369.4 375.0 

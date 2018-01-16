@@ -1,0 +1,9 @@
+POI: 			Taraji_P._Henson 
+Youtube ID: 	u20EFjukWy0 
+Video length: 	128.0 sec 
+Set (V): 		dev 
+ 
+Taraji_P._Henson/u20EFjukWy0_0000001 43.0 47.9 
+Taraji_P._Henson/u20EFjukWy0_0000002 58.8 64.4 
+Taraji_P._Henson/u20EFjukWy0_0000003 86.2 90.6 
+Taraji_P._Henson/u20EFjukWy0_0000004 95.3 102.4 

@@ -1,0 +1,15 @@
+POI: 			Brad_Paisley 
+Youtube ID: 	k6vtSSSWTgI 
+Video length: 	140.4 sec 
+Set (V): 		dev 
+ 
+Brad_Paisley/k6vtSSSWTgI_0000001 17.2 22.8 
+Brad_Paisley/k6vtSSSWTgI_0000002 24.8 34.6 
+Brad_Paisley/k6vtSSSWTgI_0000003 38.0 44.9 
+Brad_Paisley/k6vtSSSWTgI_0000004 52.2 62.2 
+Brad_Paisley/k6vtSSSWTgI_0000005 68.2 73.0 
+Brad_Paisley/k6vtSSSWTgI_0000006 85.4 89.7 
+Brad_Paisley/k6vtSSSWTgI_0000007 89.9 94.0 
+Brad_Paisley/k6vtSSSWTgI_0000008 94.6 104.1 
+Brad_Paisley/k6vtSSSWTgI_0000009 111.4 118.2 
+Brad_Paisley/k6vtSSSWTgI_0000010 125.0 130.2 

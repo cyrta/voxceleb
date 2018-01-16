@@ -1,0 +1,8 @@
+POI: 			Jack_Reynor 
+Youtube ID: 	EtgyYUIkcyg 
+Video length: 	203.9 sec 
+Set (V): 		dev 
+ 
+Jack_Reynor/EtgyYUIkcyg_0000001 55.7 60.2 
+Jack_Reynor/EtgyYUIkcyg_0000002 114.6 120.2 
+Jack_Reynor/EtgyYUIkcyg_0000003 182.8 187.8 

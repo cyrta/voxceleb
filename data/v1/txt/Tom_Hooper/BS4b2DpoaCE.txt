@@ -1,0 +1,14 @@
+POI: 			Tom_Hooper 
+Youtube ID: 	BS4b2DpoaCE 
+Video length: 	411.1 sec 
+Set (V): 		dev 
+ 
+Tom_Hooper/BS4b2DpoaCE_0000001 51.4 56.4 
+Tom_Hooper/BS4b2DpoaCE_0000002 67.1 75.2 
+Tom_Hooper/BS4b2DpoaCE_0000003 198.6 205.3 
+Tom_Hooper/BS4b2DpoaCE_0000004 209.6 215.7 
+Tom_Hooper/BS4b2DpoaCE_0000005 216.5 222.2 
+Tom_Hooper/BS4b2DpoaCE_0000006 301.1 309.7 
+Tom_Hooper/BS4b2DpoaCE_0000007 342.6 348.3 
+Tom_Hooper/BS4b2DpoaCE_0000008 355.3 364.2 
+Tom_Hooper/BS4b2DpoaCE_0000009 368.0 372.7 

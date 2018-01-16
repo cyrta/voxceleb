@@ -1,0 +1,12 @@
+POI: 			Mark_Sheppard 
+Youtube ID: 	dsqG4I6CC48 
+Video length: 	125.8 sec 
+Set (V): 		dev 
+ 
+Mark_Sheppard/dsqG4I6CC48_0000001 17.7 23.8 
+Mark_Sheppard/dsqG4I6CC48_0000002 45.0 49.2 
+Mark_Sheppard/dsqG4I6CC48_0000003 49.9 54.0 
+Mark_Sheppard/dsqG4I6CC48_0000004 86.9 91.4 
+Mark_Sheppard/dsqG4I6CC48_0000005 98.1 105.0 
+Mark_Sheppard/dsqG4I6CC48_0000006 109.0 113.7 
+Mark_Sheppard/dsqG4I6CC48_0000007 116.6 124.3 

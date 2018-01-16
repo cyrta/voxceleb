@@ -1,0 +1,20 @@
+POI: 			Sam_Heughan 
+Youtube ID: 	DxsRs8NeEIs 
+Video length: 	378.9 sec 
+Set (V): 		dev 
+ 
+Sam_Heughan/DxsRs8NeEIs_0000001 13.3 20.3 
+Sam_Heughan/DxsRs8NeEIs_0000002 21.4 34.1 
+Sam_Heughan/DxsRs8NeEIs_0000003 39.4 54.3 
+Sam_Heughan/DxsRs8NeEIs_0000004 55.6 65.6 
+Sam_Heughan/DxsRs8NeEIs_0000005 79.6 105.7 
+Sam_Heughan/DxsRs8NeEIs_0000006 129.0 133.4 
+Sam_Heughan/DxsRs8NeEIs_0000007 133.9 166.2 
+Sam_Heughan/DxsRs8NeEIs_0000008 199.9 212.0 
+Sam_Heughan/DxsRs8NeEIs_0000009 212.3 235.2 
+Sam_Heughan/DxsRs8NeEIs_0000010 238.0 242.0 
+Sam_Heughan/DxsRs8NeEIs_0000011 271.0 284.8 
+Sam_Heughan/DxsRs8NeEIs_0000012 285.0 303.9 
+Sam_Heughan/DxsRs8NeEIs_0000013 328.9 349.6 
+Sam_Heughan/DxsRs8NeEIs_0000014 349.8 362.1 
+Sam_Heughan/DxsRs8NeEIs_0000015 362.6 375.8 

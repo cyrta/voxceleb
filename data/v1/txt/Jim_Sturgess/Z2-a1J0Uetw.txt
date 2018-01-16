@@ -1,0 +1,12 @@
+POI: 			Jim_Sturgess 
+Youtube ID: 	Z2-a1J0Uetw 
+Video length: 	458.0 sec 
+Set (V): 		dev 
+ 
+Jim_Sturgess/Z2-a1J0Uetw_0000001 55.3 60.4 
+Jim_Sturgess/Z2-a1J0Uetw_0000002 105.1 113.2 
+Jim_Sturgess/Z2-a1J0Uetw_0000003 122.7 131.0 
+Jim_Sturgess/Z2-a1J0Uetw_0000004 150.2 157.2 
+Jim_Sturgess/Z2-a1J0Uetw_0000005 342.0 346.3 
+Jim_Sturgess/Z2-a1J0Uetw_0000006 386.8 391.6 
+Jim_Sturgess/Z2-a1J0Uetw_0000007 392.2 397.5 

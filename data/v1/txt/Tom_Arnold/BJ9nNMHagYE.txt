@@ -1,0 +1,12 @@
+POI: 			Tom_Arnold 
+Youtube ID: 	BJ9nNMHagYE 
+Video length: 	162.9 sec 
+Set (V): 		dev 
+ 
+Tom_Arnold/BJ9nNMHagYE_0000001 10.0 16.1 
+Tom_Arnold/BJ9nNMHagYE_0000002 31.5 48.6 
+Tom_Arnold/BJ9nNMHagYE_0000003 78.0 85.0 
+Tom_Arnold/BJ9nNMHagYE_0000004 86.0 90.6 
+Tom_Arnold/BJ9nNMHagYE_0000005 64.4 73.4 
+Tom_Arnold/BJ9nNMHagYE_0000006 73.8 78.6 
+Tom_Arnold/BJ9nNMHagYE_0000007 131.4 136.2 

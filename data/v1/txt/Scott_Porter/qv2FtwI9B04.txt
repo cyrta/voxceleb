@@ -1,0 +1,14 @@
+POI: 			Scott_Porter 
+Youtube ID: 	qv2FtwI9B04 
+Video length: 	256.0 sec 
+Set (V): 		dev 
+ 
+Scott_Porter/qv2FtwI9B04_0000001 39.6 46.3 
+Scott_Porter/qv2FtwI9B04_0000002 82.0 88.6 
+Scott_Porter/qv2FtwI9B04_0000003 93.6 102.6 
+Scott_Porter/qv2FtwI9B04_0000004 103.5 107.8 
+Scott_Porter/qv2FtwI9B04_0000005 109.6 115.2 
+Scott_Porter/qv2FtwI9B04_0000006 145.2 150.6 
+Scott_Porter/qv2FtwI9B04_0000007 160.2 170.7 
+Scott_Porter/qv2FtwI9B04_0000008 229.5 238.7 
+Scott_Porter/qv2FtwI9B04_0000009 239.7 249.6 

@@ -1,0 +1,10 @@
+POI: 			Nina_Arianda 
+Youtube ID: 	E_wh14r5Nm8 
+Video length: 	127.9 sec 
+Set (V): 		dev 
+ 
+Nina_Arianda/E_wh14r5Nm8_0000001 17.4 22.5 
+Nina_Arianda/E_wh14r5Nm8_0000002 23.2 28.5 
+Nina_Arianda/E_wh14r5Nm8_0000003 47.5 56.1 
+Nina_Arianda/E_wh14r5Nm8_0000004 57.5 64.9 
+Nina_Arianda/E_wh14r5Nm8_0000005 97.8 103.0 

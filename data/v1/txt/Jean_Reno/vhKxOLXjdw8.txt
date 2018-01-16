@@ -1,0 +1,16 @@
+POI: 			Jean_Reno 
+Youtube ID: 	vhKxOLXjdw8 
+Video length: 	201.9 sec 
+Set (V): 		dev 
+ 
+Jean_Reno/vhKxOLXjdw8_0000001 07.0 12.0 
+Jean_Reno/vhKxOLXjdw8_0000002 34.4 40.2 
+Jean_Reno/vhKxOLXjdw8_0000003 48.7 52.9 
+Jean_Reno/vhKxOLXjdw8_0000004 52.7 59.2 
+Jean_Reno/vhKxOLXjdw8_0000005 76.7 82.0 
+Jean_Reno/vhKxOLXjdw8_0000006 82.9 90.0 
+Jean_Reno/vhKxOLXjdw8_0000007 91.5 97.0 
+Jean_Reno/vhKxOLXjdw8_0000008 103.7 108.3 
+Jean_Reno/vhKxOLXjdw8_0000009 111.5 116.2 
+Jean_Reno/vhKxOLXjdw8_0000010 156.9 170.2 
+Jean_Reno/vhKxOLXjdw8_0000011 180.6 189.3 

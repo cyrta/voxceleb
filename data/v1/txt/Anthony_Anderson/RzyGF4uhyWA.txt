@@ -1,0 +1,11 @@
+POI: 			Anthony_Anderson 
+Youtube ID: 	RzyGF4uhyWA 
+Video length: 	205.7 sec 
+Set (V): 		dev 
+ 
+Anthony_Anderson/RzyGF4uhyWA_0000001 28.9 34.6 
+Anthony_Anderson/RzyGF4uhyWA_0000002 37.6 43.2 
+Anthony_Anderson/RzyGF4uhyWA_0000003 104.2 123.0 
+Anthony_Anderson/RzyGF4uhyWA_0000004 138.7 145.2 
+Anthony_Anderson/RzyGF4uhyWA_0000005 147.0 155.7 
+Anthony_Anderson/RzyGF4uhyWA_0000006 180.0 185.2 

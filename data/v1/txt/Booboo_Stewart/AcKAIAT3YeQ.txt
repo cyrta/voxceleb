@@ -1,0 +1,10 @@
+POI: 			Booboo_Stewart 
+Youtube ID: 	AcKAIAT3YeQ 
+Video length: 	544.8 sec 
+Set (V): 		dev 
+ 
+Booboo_Stewart/AcKAIAT3YeQ_0000001 86.9 95.8 
+Booboo_Stewart/AcKAIAT3YeQ_0000002 215.6 221.4 
+Booboo_Stewart/AcKAIAT3YeQ_0000003 224.9 229.3 
+Booboo_Stewart/AcKAIAT3YeQ_0000004 350.4 357.7 
+Booboo_Stewart/AcKAIAT3YeQ_0000005 361.4 368.7 

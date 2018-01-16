@@ -1,0 +1,17 @@
+POI: 			Kelly_Monaco 
+Youtube ID: 	m00_Z7C6Ve0 
+Video length: 	331.2 sec 
+Set (V): 		dev 
+ 
+Kelly_Monaco/m00_Z7C6Ve0_0000001 91.1 99.2 
+Kelly_Monaco/m00_Z7C6Ve0_0000002 111.1 123.9 
+Kelly_Monaco/m00_Z7C6Ve0_0000003 124.0 140.9 
+Kelly_Monaco/m00_Z7C6Ve0_0000004 172.4 180.9 
+Kelly_Monaco/m00_Z7C6Ve0_0000005 197.8 204.1 
+Kelly_Monaco/m00_Z7C6Ve0_0000006 223.4 228.7 
+Kelly_Monaco/m00_Z7C6Ve0_0000007 229.1 252.7 
+Kelly_Monaco/m00_Z7C6Ve0_0000008 262.2 267.2 
+Kelly_Monaco/m00_Z7C6Ve0_0000009 277.8 292.1 
+Kelly_Monaco/m00_Z7C6Ve0_0000010 293.3 298.8 
+Kelly_Monaco/m00_Z7C6Ve0_0000011 302.8 311.6 
+Kelly_Monaco/m00_Z7C6Ve0_0000012 311.8 319.2 

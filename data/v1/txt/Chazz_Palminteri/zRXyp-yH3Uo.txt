@@ -1,0 +1,16 @@
+POI: 			Chazz_Palminteri 
+Youtube ID: 	zRXyp-yH3Uo 
+Video length: 	272.9 sec 
+Set (V): 		dev 
+ 
+Chazz_Palminteri/zRXyp-yH3Uo_0000001 35.7 40.6 
+Chazz_Palminteri/zRXyp-yH3Uo_0000002 56.7 61.3 
+Chazz_Palminteri/zRXyp-yH3Uo_0000003 74.0 82.2 
+Chazz_Palminteri/zRXyp-yH3Uo_0000004 104.4 109.3 
+Chazz_Palminteri/zRXyp-yH3Uo_0000005 121.2 137.3 
+Chazz_Palminteri/zRXyp-yH3Uo_0000006 137.5 142.6 
+Chazz_Palminteri/zRXyp-yH3Uo_0000007 175.8 181.6 
+Chazz_Palminteri/zRXyp-yH3Uo_0000008 182.4 192.6 
+Chazz_Palminteri/zRXyp-yH3Uo_0000009 194.9 212.3 
+Chazz_Palminteri/zRXyp-yH3Uo_0000010 233.0 240.6 
+Chazz_Palminteri/zRXyp-yH3Uo_0000011 244.2 258.4 

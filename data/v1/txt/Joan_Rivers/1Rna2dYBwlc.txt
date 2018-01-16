@@ -1,0 +1,23 @@
+POI: 			Joan_Rivers 
+Youtube ID: 	1Rna2dYBwlc 
+Video length: 	437.8 sec 
+Set (V): 		dev 
+ 
+Joan_Rivers/1Rna2dYBwlc_0000001 39.2 44.3 
+Joan_Rivers/1Rna2dYBwlc_0000002 54.4 61.3 
+Joan_Rivers/1Rna2dYBwlc_0000003 65.9 74.5 
+Joan_Rivers/1Rna2dYBwlc_0000004 77.0 85.7 
+Joan_Rivers/1Rna2dYBwlc_0000005 87.4 92.8 
+Joan_Rivers/1Rna2dYBwlc_0000006 110.0 114.6 
+Joan_Rivers/1Rna2dYBwlc_0000007 136.6 154.8 
+Joan_Rivers/1Rna2dYBwlc_0000008 197.6 204.8 
+Joan_Rivers/1Rna2dYBwlc_0000009 204.9 209.2 
+Joan_Rivers/1Rna2dYBwlc_0000010 211.1 225.7 
+Joan_Rivers/1Rna2dYBwlc_0000011 225.8 230.4 
+Joan_Rivers/1Rna2dYBwlc_0000012 234.8 239.1 
+Joan_Rivers/1Rna2dYBwlc_0000013 239.3 244.2 
+Joan_Rivers/1Rna2dYBwlc_0000014 256.8 266.4 
+Joan_Rivers/1Rna2dYBwlc_0000015 266.8 273.8 
+Joan_Rivers/1Rna2dYBwlc_0000016 304.5 318.4 
+Joan_Rivers/1Rna2dYBwlc_0000017 353.0 358.5 
+Joan_Rivers/1Rna2dYBwlc_0000018 426.6 431.4 

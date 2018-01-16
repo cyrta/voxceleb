@@ -1,0 +1,13 @@
+POI: 			Kuno_Becker 
+Youtube ID: 	_vXyj4dNwYs 
+Video length: 	185.8 sec 
+Set (V): 		dev 
+ 
+Kuno_Becker/_vXyj4dNwYs_0000001 27.5 33.2 
+Kuno_Becker/_vXyj4dNwYs_0000002 45.0 52.1 
+Kuno_Becker/_vXyj4dNwYs_0000003 104.8 116.3 
+Kuno_Becker/_vXyj4dNwYs_0000004 118.0 126.0 
+Kuno_Becker/_vXyj4dNwYs_0000005 138.6 143.4 
+Kuno_Becker/_vXyj4dNwYs_0000006 146.6 151.2 
+Kuno_Becker/_vXyj4dNwYs_0000007 151.7 157.0 
+Kuno_Becker/_vXyj4dNwYs_0000008 157.9 164.5 

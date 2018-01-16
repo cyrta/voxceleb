@@ -1,0 +1,7 @@
+POI: 			Jean_Reno 
+Youtube ID: 	q5-OKPgvpaA 
+Video length: 	526.1 sec 
+Set (V): 		dev 
+ 
+Jean_Reno/q5-OKPgvpaA_0000001 56.8 61.6 
+Jean_Reno/q5-OKPgvpaA_0000002 293.0 297.6 

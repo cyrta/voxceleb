@@ -1,0 +1,16 @@
+POI: 			Ricky_Gervais 
+Youtube ID: 	kAcTPdlv78k 
+Video length: 	285.9 sec 
+Set (V): 		dev 
+ 
+Ricky_Gervais/kAcTPdlv78k_0000001 09.4 15.9 
+Ricky_Gervais/kAcTPdlv78k_0000002 16.1 22.4 
+Ricky_Gervais/kAcTPdlv78k_0000003 27.9 34.9 
+Ricky_Gervais/kAcTPdlv78k_0000004 41.7 55.0 
+Ricky_Gervais/kAcTPdlv78k_0000005 61.2 69.5 
+Ricky_Gervais/kAcTPdlv78k_0000006 116.0 120.0 
+Ricky_Gervais/kAcTPdlv78k_0000007 147.7 152.5 
+Ricky_Gervais/kAcTPdlv78k_0000008 167.6 172.7 
+Ricky_Gervais/kAcTPdlv78k_0000009 172.8 179.1 
+Ricky_Gervais/kAcTPdlv78k_0000010 186.8 199.2 
+Ricky_Gervais/kAcTPdlv78k_0000011 230.6 236.2 

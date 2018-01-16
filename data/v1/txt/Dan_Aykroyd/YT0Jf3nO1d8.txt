@@ -1,0 +1,9 @@
+POI: 			Dan_Aykroyd 
+Youtube ID: 	YT0Jf3nO1d8 
+Video length: 	208.8 sec 
+Set (V): 		dev 
+ 
+Dan_Aykroyd/YT0Jf3nO1d8_0000001 52.2 62.2 
+Dan_Aykroyd/YT0Jf3nO1d8_0000002 94.4 98.9 
+Dan_Aykroyd/YT0Jf3nO1d8_0000003 158.6 169.2 
+Dan_Aykroyd/YT0Jf3nO1d8_0000004 193.0 197.8 

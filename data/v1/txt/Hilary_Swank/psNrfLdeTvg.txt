@@ -1,0 +1,7 @@
+POI: 			Hilary_Swank 
+Youtube ID: 	psNrfLdeTvg 
+Video length: 	167.3 sec 
+Set (V): 		dev 
+ 
+Hilary_Swank/psNrfLdeTvg_0000001 97.4 102.5 
+Hilary_Swank/psNrfLdeTvg_0000002 127.8 133.1 

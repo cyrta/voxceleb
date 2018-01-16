@@ -1,0 +1,29 @@
+POI: 			David_Harewood 
+Youtube ID: 	GGPNJOPyprk 
+Video length: 	708.9 sec 
+Set (V): 		dev 
+ 
+David_Harewood/GGPNJOPyprk_0000001 91.6 96.8 
+David_Harewood/GGPNJOPyprk_0000002 111.2 118.4 
+David_Harewood/GGPNJOPyprk_0000003 146.6 151.6 
+David_Harewood/GGPNJOPyprk_0000004 163.0 173.0 
+David_Harewood/GGPNJOPyprk_0000005 173.9 177.8 
+David_Harewood/GGPNJOPyprk_0000006 179.8 184.6 
+David_Harewood/GGPNJOPyprk_0000007 192.2 197.2 
+David_Harewood/GGPNJOPyprk_0000008 197.6 206.4 
+David_Harewood/GGPNJOPyprk_0000009 208.5 214.8 
+David_Harewood/GGPNJOPyprk_0000010 221.2 225.8 
+David_Harewood/GGPNJOPyprk_0000011 227.4 231.7 
+David_Harewood/GGPNJOPyprk_0000012 233.4 242.4 
+David_Harewood/GGPNJOPyprk_0000013 253.4 263.6 
+David_Harewood/GGPNJOPyprk_0000014 380.7 384.7 
+David_Harewood/GGPNJOPyprk_0000015 409.4 421.3 
+David_Harewood/GGPNJOPyprk_0000016 424.0 431.7 
+David_Harewood/GGPNJOPyprk_0000017 434.9 439.6 
+David_Harewood/GGPNJOPyprk_0000018 515.2 520.0 
+David_Harewood/GGPNJOPyprk_0000019 525.9 531.9 
+David_Harewood/GGPNJOPyprk_0000020 609.0 613.9 
+David_Harewood/GGPNJOPyprk_0000021 615.8 628.5 
+David_Harewood/GGPNJOPyprk_0000022 655.7 659.8 
+David_Harewood/GGPNJOPyprk_0000023 678.8 687.2 
+David_Harewood/GGPNJOPyprk_0000024 693.1 698.5 

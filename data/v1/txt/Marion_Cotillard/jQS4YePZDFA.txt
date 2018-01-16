@@ -1,0 +1,10 @@
+POI: 			Marion_Cotillard 
+Youtube ID: 	jQS4YePZDFA 
+Video length: 	605.9 sec 
+Set (V): 		dev 
+ 
+Marion_Cotillard/jQS4YePZDFA_0000001 194.9 201.2 
+Marion_Cotillard/jQS4YePZDFA_0000002 507.0 511.2 
+Marion_Cotillard/jQS4YePZDFA_0000003 514.2 525.0 
+Marion_Cotillard/jQS4YePZDFA_0000004 554.0 565.3 
+Marion_Cotillard/jQS4YePZDFA_0000005 565.4 572.7 

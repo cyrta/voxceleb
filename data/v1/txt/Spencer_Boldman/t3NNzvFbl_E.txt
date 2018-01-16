@@ -1,0 +1,11 @@
+POI: 			Spencer_Boldman 
+Youtube ID: 	t3NNzvFbl_E 
+Video length: 	299.1 sec 
+Set (V): 		dev 
+ 
+Spencer_Boldman/t3NNzvFbl_E_0000001 14.7 19.7 
+Spencer_Boldman/t3NNzvFbl_E_0000002 25.4 31.8 
+Spencer_Boldman/t3NNzvFbl_E_0000003 92.0 99.5 
+Spencer_Boldman/t3NNzvFbl_E_0000004 130.0 134.9 
+Spencer_Boldman/t3NNzvFbl_E_0000005 273.1 277.2 
+Spencer_Boldman/t3NNzvFbl_E_0000006 285.5 289.9 

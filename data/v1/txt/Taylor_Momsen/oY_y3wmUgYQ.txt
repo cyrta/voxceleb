@@ -1,0 +1,9 @@
+POI: 			Taylor_Momsen 
+Youtube ID: 	oY_y3wmUgYQ 
+Video length: 	473.2 sec 
+Set (V): 		dev 
+ 
+Taylor_Momsen/oY_y3wmUgYQ_0000001 234.1 240.5 
+Taylor_Momsen/oY_y3wmUgYQ_0000002 305.8 313.7 
+Taylor_Momsen/oY_y3wmUgYQ_0000003 420.3 431.8 
+Taylor_Momsen/oY_y3wmUgYQ_0000004 449.4 453.4 

@@ -1,0 +1,10 @@
+POI: 			Tim_Daly 
+Youtube ID: 	r88ZDMGFm0k 
+Video length: 	135.1 sec 
+Set (V): 		dev 
+ 
+Tim_Daly/r88ZDMGFm0k_0000001 26.9 34.5 
+Tim_Daly/r88ZDMGFm0k_0000002 49.7 60.9 
+Tim_Daly/r88ZDMGFm0k_0000003 63.0 73.1 
+Tim_Daly/r88ZDMGFm0k_0000004 86.7 91.3 
+Tim_Daly/r88ZDMGFm0k_0000005 106.4 129.5 

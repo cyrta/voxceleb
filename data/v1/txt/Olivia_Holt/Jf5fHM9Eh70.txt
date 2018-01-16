@@ -1,0 +1,8 @@
+POI: 			Olivia_Holt 
+Youtube ID: 	Jf5fHM9Eh70 
+Video length: 	209.8 sec 
+Set (V): 		dev 
+ 
+Olivia_Holt/Jf5fHM9Eh70_0000001 56.2 65.4 
+Olivia_Holt/Jf5fHM9Eh70_0000002 147.0 166.3 
+Olivia_Holt/Jf5fHM9Eh70_0000003 186.0 191.4 

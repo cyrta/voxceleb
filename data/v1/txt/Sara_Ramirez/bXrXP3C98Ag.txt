@@ -1,0 +1,12 @@
+POI: 			Sara_Ramirez 
+Youtube ID: 	bXrXP3C98Ag 
+Video length: 	455.4 sec 
+Set (V): 		dev 
+ 
+Sara_Ramirez/bXrXP3C98Ag_0000001 26.2 30.2 
+Sara_Ramirez/bXrXP3C98Ag_0000002 49.1 66.2 
+Sara_Ramirez/bXrXP3C98Ag_0000003 90.9 101.2 
+Sara_Ramirez/bXrXP3C98Ag_0000004 164.2 171.9 
+Sara_Ramirez/bXrXP3C98Ag_0000005 210.8 217.0 
+Sara_Ramirez/bXrXP3C98Ag_0000006 223.1 233.3 
+Sara_Ramirez/bXrXP3C98Ag_0000007 433.8 439.6 

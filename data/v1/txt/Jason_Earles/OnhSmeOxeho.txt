@@ -1,0 +1,10 @@
+POI: 			Jason_Earles 
+Youtube ID: 	OnhSmeOxeho 
+Video length: 	93.6 sec 
+Set (V): 		dev 
+ 
+Jason_Earles/OnhSmeOxeho_0000001 20.2 24.6 
+Jason_Earles/OnhSmeOxeho_0000002 32.8 38.8 
+Jason_Earles/OnhSmeOxeho_0000003 45.0 50.2 
+Jason_Earles/OnhSmeOxeho_0000004 50.8 55.6 
+Jason_Earles/OnhSmeOxeho_0000005 69.0 74.4 

@@ -1,0 +1,12 @@
+POI: 			Garrett_Hedlund 
+Youtube ID: 	lDsxhOR3qSg 
+Video length: 	148.6 sec 
+Set (V): 		dev 
+ 
+Garrett_Hedlund/lDsxhOR3qSg_0000001 11.0 17.7 
+Garrett_Hedlund/lDsxhOR3qSg_0000002 24.7 39.8 
+Garrett_Hedlund/lDsxhOR3qSg_0000003 44.6 50.1 
+Garrett_Hedlund/lDsxhOR3qSg_0000004 69.9 76.7 
+Garrett_Hedlund/lDsxhOR3qSg_0000005 87.1 92.2 
+Garrett_Hedlund/lDsxhOR3qSg_0000006 101.2 112.5 
+Garrett_Hedlund/lDsxhOR3qSg_0000007 124.4 134.9 

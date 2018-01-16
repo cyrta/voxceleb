@@ -1,0 +1,25 @@
+POI: 			Kenny_Rogers 
+Youtube ID: 	2IMGubAyvLc 
+Video length: 	481.6 sec 
+Set (V): 		dev 
+ 
+Kenny_Rogers/2IMGubAyvLc_0000001 83.3 89.5 
+Kenny_Rogers/2IMGubAyvLc_0000002 107.8 114.0 
+Kenny_Rogers/2IMGubAyvLc_0000003 128.2 137.4 
+Kenny_Rogers/2IMGubAyvLc_0000004 150.4 155.8 
+Kenny_Rogers/2IMGubAyvLc_0000005 156.3 160.4 
+Kenny_Rogers/2IMGubAyvLc_0000006 166.2 173.0 
+Kenny_Rogers/2IMGubAyvLc_0000007 200.0 204.7 
+Kenny_Rogers/2IMGubAyvLc_0000008 185.6 190.2 
+Kenny_Rogers/2IMGubAyvLc_0000009 190.4 198.3 
+Kenny_Rogers/2IMGubAyvLc_0000010 253.8 258.0 
+Kenny_Rogers/2IMGubAyvLc_0000011 279.1 295.9 
+Kenny_Rogers/2IMGubAyvLc_0000012 321.6 339.4 
+Kenny_Rogers/2IMGubAyvLc_0000013 339.6 350.7 
+Kenny_Rogers/2IMGubAyvLc_0000014 351.4 365.4 
+Kenny_Rogers/2IMGubAyvLc_0000015 388.3 408.1 
+Kenny_Rogers/2IMGubAyvLc_0000016 414.5 422.9 
+Kenny_Rogers/2IMGubAyvLc_0000017 427.3 433.0 
+Kenny_Rogers/2IMGubAyvLc_0000018 433.8 443.0 
+Kenny_Rogers/2IMGubAyvLc_0000019 443.4 453.0 
+Kenny_Rogers/2IMGubAyvLc_0000020 469.8 474.6 

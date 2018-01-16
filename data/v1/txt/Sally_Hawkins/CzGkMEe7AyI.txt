@@ -1,0 +1,12 @@
+POI: 			Sally_Hawkins 
+Youtube ID: 	CzGkMEe7AyI 
+Video length: 	340.8 sec 
+Set (V): 		dev 
+ 
+Sally_Hawkins/CzGkMEe7AyI_0000001 07.8 15.2 
+Sally_Hawkins/CzGkMEe7AyI_0000002 136.6 145.1 
+Sally_Hawkins/CzGkMEe7AyI_0000003 150.7 161.7 
+Sally_Hawkins/CzGkMEe7AyI_0000004 186.3 192.1 
+Sally_Hawkins/CzGkMEe7AyI_0000005 296.9 305.4 
+Sally_Hawkins/CzGkMEe7AyI_0000006 312.0 318.2 
+Sally_Hawkins/CzGkMEe7AyI_0000007 318.6 322.8 

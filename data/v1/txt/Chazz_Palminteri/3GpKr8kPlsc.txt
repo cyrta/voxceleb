@@ -1,0 +1,21 @@
+POI: 			Chazz_Palminteri 
+Youtube ID: 	3GpKr8kPlsc 
+Video length: 	391.0 sec 
+Set (V): 		dev 
+ 
+Chazz_Palminteri/3GpKr8kPlsc_0000001 62.0 87.6 
+Chazz_Palminteri/3GpKr8kPlsc_0000002 94.6 101.6 
+Chazz_Palminteri/3GpKr8kPlsc_0000003 111.4 122.4 
+Chazz_Palminteri/3GpKr8kPlsc_0000004 152.2 159.2 
+Chazz_Palminteri/3GpKr8kPlsc_0000005 163.9 168.4 
+Chazz_Palminteri/3GpKr8kPlsc_0000006 169.6 175.0 
+Chazz_Palminteri/3GpKr8kPlsc_0000007 190.9 203.5 
+Chazz_Palminteri/3GpKr8kPlsc_0000008 204.2 211.3 
+Chazz_Palminteri/3GpKr8kPlsc_0000009 219.3 225.1 
+Chazz_Palminteri/3GpKr8kPlsc_0000010 235.8 244.3 
+Chazz_Palminteri/3GpKr8kPlsc_0000011 245.2 253.4 
+Chazz_Palminteri/3GpKr8kPlsc_0000012 253.5 260.5 
+Chazz_Palminteri/3GpKr8kPlsc_0000013 297.8 302.1 
+Chazz_Palminteri/3GpKr8kPlsc_0000014 308.0 323.8 
+Chazz_Palminteri/3GpKr8kPlsc_0000015 339.8 345.4 
+Chazz_Palminteri/3GpKr8kPlsc_0000016 348.3 352.6 

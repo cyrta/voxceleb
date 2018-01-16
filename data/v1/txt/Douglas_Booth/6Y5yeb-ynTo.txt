@@ -1,0 +1,8 @@
+POI: 			Douglas_Booth 
+Youtube ID: 	6Y5yeb-ynTo 
+Video length: 	278.8 sec 
+Set (V): 		dev 
+ 
+Douglas_Booth/6Y5yeb-ynTo_0000001 09.6 34.8 
+Douglas_Booth/6Y5yeb-ynTo_0000002 230.3 236.3 
+Douglas_Booth/6Y5yeb-ynTo_0000003 237.1 244.6 

@@ -1,0 +1,12 @@
+POI: 			Louis_Theroux 
+Youtube ID: 	JA9nkAhp670 
+Video length: 	124.8 sec 
+Set (V): 		dev 
+ 
+Louis_Theroux/JA9nkAhp670_0000001 06.0 11.4 
+Louis_Theroux/JA9nkAhp670_0000002 23.0 34.1 
+Louis_Theroux/JA9nkAhp670_0000003 66.7 73.4 
+Louis_Theroux/JA9nkAhp670_0000004 79.2 84.7 
+Louis_Theroux/JA9nkAhp670_0000005 85.0 90.6 
+Louis_Theroux/JA9nkAhp670_0000006 93.3 109.3 
+Louis_Theroux/JA9nkAhp670_0000007 109.5 116.4 

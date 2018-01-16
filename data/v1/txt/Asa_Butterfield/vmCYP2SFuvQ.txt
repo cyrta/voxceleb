@@ -1,0 +1,7 @@
+POI: 			Asa_Butterfield 
+Youtube ID: 	vmCYP2SFuvQ 
+Video length: 	204.3 sec 
+Set (V): 		dev 
+ 
+Asa_Butterfield/vmCYP2SFuvQ_0000001 41.2 46.4 
+Asa_Butterfield/vmCYP2SFuvQ_0000002 47.6 56.8 

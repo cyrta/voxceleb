@@ -1,0 +1,10 @@
+POI: 			Suzanne_Pleshette 
+Youtube ID: 	s2dLgTHG4GM 
+Video length: 	143.4 sec 
+Set (V): 		dev 
+ 
+Suzanne_Pleshette/s2dLgTHG4GM_0000001 13.3 18.8 
+Suzanne_Pleshette/s2dLgTHG4GM_0000002 33.2 38.6 
+Suzanne_Pleshette/s2dLgTHG4GM_0000003 39.7 46.3 
+Suzanne_Pleshette/s2dLgTHG4GM_0000004 61.5 79.0 
+Suzanne_Pleshette/s2dLgTHG4GM_0000005 90.2 94.2 

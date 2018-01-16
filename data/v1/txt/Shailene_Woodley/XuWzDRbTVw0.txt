@@ -1,0 +1,8 @@
+POI: 			Shailene_Woodley 
+Youtube ID: 	XuWzDRbTVw0 
+Video length: 	200.5 sec 
+Set (V): 		dev 
+ 
+Shailene_Woodley/XuWzDRbTVw0_0000001 41.8 46.1 
+Shailene_Woodley/XuWzDRbTVw0_0000002 164.3 177.1 
+Shailene_Woodley/XuWzDRbTVw0_0000003 177.8 185.0 

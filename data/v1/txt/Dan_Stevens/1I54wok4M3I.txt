@@ -1,0 +1,8 @@
+POI: 			Dan_Stevens 
+Youtube ID: 	1I54wok4M3I 
+Video length: 	282.0 sec 
+Set (V): 		dev 
+ 
+Dan_Stevens/1I54wok4M3I_0000001 198.6 203.2 
+Dan_Stevens/1I54wok4M3I_0000002 207.0 211.5 
+Dan_Stevens/1I54wok4M3I_0000003 216.0 220.0 

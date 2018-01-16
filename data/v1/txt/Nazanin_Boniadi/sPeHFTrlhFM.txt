@@ -1,0 +1,8 @@
+POI: 			Nazanin_Boniadi 
+Youtube ID: 	sPeHFTrlhFM 
+Video length: 	392.9 sec 
+Set (V): 		dev 
+ 
+Nazanin_Boniadi/sPeHFTrlhFM_0000001 06.7 22.5 
+Nazanin_Boniadi/sPeHFTrlhFM_0000002 238.9 288.6 
+Nazanin_Boniadi/sPeHFTrlhFM_0000003 332.4 337.8 

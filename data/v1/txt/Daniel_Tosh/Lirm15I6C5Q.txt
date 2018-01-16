@@ -1,0 +1,9 @@
+POI: 			Daniel_Tosh 
+Youtube ID: 	Lirm15I6C5Q 
+Video length: 	510.1 sec 
+Set (V): 		dev 
+ 
+Daniel_Tosh/Lirm15I6C5Q_0000001 42.9 50.4 
+Daniel_Tosh/Lirm15I6C5Q_0000002 52.2 58.0 
+Daniel_Tosh/Lirm15I6C5Q_0000003 60.2 66.5 
+Daniel_Tosh/Lirm15I6C5Q_0000004 67.7 103.7 

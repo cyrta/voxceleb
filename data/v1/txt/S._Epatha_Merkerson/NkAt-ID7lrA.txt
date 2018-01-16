@@ -1,0 +1,12 @@
+POI: 			S._Epatha_Merkerson 
+Youtube ID: 	NkAt-ID7lrA 
+Video length: 	138.8 sec 
+Set (V): 		dev 
+ 
+S._Epatha_Merkerson/NkAt-ID7lrA_0000001 23.5 31.5 
+S._Epatha_Merkerson/NkAt-ID7lrA_0000002 35.4 39.6 
+S._Epatha_Merkerson/NkAt-ID7lrA_0000003 47.4 56.6 
+S._Epatha_Merkerson/NkAt-ID7lrA_0000004 58.8 68.4 
+S._Epatha_Merkerson/NkAt-ID7lrA_0000005 70.7 74.8 
+S._Epatha_Merkerson/NkAt-ID7lrA_0000006 100.3 107.1 
+S._Epatha_Merkerson/NkAt-ID7lrA_0000007 115.0 125.0 

@@ -1,0 +1,8 @@
+POI: 			America_Ferrera 
+Youtube ID: 	PKbzwSDe_C4 
+Video length: 	218.2 sec 
+Set (V): 		dev 
+ 
+America_Ferrera/PKbzwSDe_C4_0000001 48.7 53.3 
+America_Ferrera/PKbzwSDe_C4_0000002 71.4 81.7 
+America_Ferrera/PKbzwSDe_C4_0000003 83.1 90.3 

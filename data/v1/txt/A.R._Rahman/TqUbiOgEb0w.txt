@@ -1,0 +1,15 @@
+POI: 			A.R._Rahman 
+Youtube ID: 	TqUbiOgEb0w 
+Video length: 	356.6 sec 
+Set (V): 		dev 
+ 
+A.R._Rahman/TqUbiOgEb0w_0000001 102.2 108.6 
+A.R._Rahman/TqUbiOgEb0w_0000002 145.6 152.5 
+A.R._Rahman/TqUbiOgEb0w_0000003 159.8 171.8 
+A.R._Rahman/TqUbiOgEb0w_0000004 177.0 181.3 
+A.R._Rahman/TqUbiOgEb0w_0000005 182.2 188.4 
+A.R._Rahman/TqUbiOgEb0w_0000006 229.1 236.6 
+A.R._Rahman/TqUbiOgEb0w_0000007 241.8 246.8 
+A.R._Rahman/TqUbiOgEb0w_0000008 268.4 273.6 
+A.R._Rahman/TqUbiOgEb0w_0000009 304.5 312.8 
+A.R._Rahman/TqUbiOgEb0w_0000010 342.3 347.7 

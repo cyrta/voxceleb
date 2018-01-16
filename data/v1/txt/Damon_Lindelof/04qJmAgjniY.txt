@@ -1,0 +1,9 @@
+POI: 			Damon_Lindelof 
+Youtube ID: 	04qJmAgjniY 
+Video length: 	250.8 sec 
+Set (V): 		dev 
+ 
+Damon_Lindelof/04qJmAgjniY_0000001 130.0 156.4 
+Damon_Lindelof/04qJmAgjniY_0000002 180.5 202.4 
+Damon_Lindelof/04qJmAgjniY_0000003 204.8 209.7 
+Damon_Lindelof/04qJmAgjniY_0000004 213.1 221.9 

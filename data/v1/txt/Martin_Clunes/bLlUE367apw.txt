@@ -1,0 +1,13 @@
+POI: 			Martin_Clunes 
+Youtube ID: 	bLlUE367apw 
+Video length: 	492.0 sec 
+Set (V): 		dev 
+ 
+Martin_Clunes/bLlUE367apw_0000001 14.2 21.4 
+Martin_Clunes/bLlUE367apw_0000002 35.1 44.4 
+Martin_Clunes/bLlUE367apw_0000003 57.0 61.0 
+Martin_Clunes/bLlUE367apw_0000004 81.1 90.4 
+Martin_Clunes/bLlUE367apw_0000005 198.5 203.5 
+Martin_Clunes/bLlUE367apw_0000006 275.2 283.4 
+Martin_Clunes/bLlUE367apw_0000007 380.8 387.8 
+Martin_Clunes/bLlUE367apw_0000008 454.6 459.2 

@@ -1,0 +1,11 @@
+POI: 			Brooke_Burke-Charvet 
+Youtube ID: 	z7VKNevTgl4 
+Video length: 	288.8 sec 
+Set (V): 		dev 
+ 
+Brooke_Burke-Charvet/z7VKNevTgl4_0000001 15.8 27.1 
+Brooke_Burke-Charvet/z7VKNevTgl4_0000002 53.8 58.7 
+Brooke_Burke-Charvet/z7VKNevTgl4_0000003 99.4 112.8 
+Brooke_Burke-Charvet/z7VKNevTgl4_0000004 208.7 218.6 
+Brooke_Burke-Charvet/z7VKNevTgl4_0000005 247.3 251.6 
+Brooke_Burke-Charvet/z7VKNevTgl4_0000006 263.3 267.4 

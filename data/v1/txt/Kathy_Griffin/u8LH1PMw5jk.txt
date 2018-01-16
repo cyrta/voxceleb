@@ -1,0 +1,7 @@
+POI: 			Kathy_Griffin 
+Youtube ID: 	u8LH1PMw5jk 
+Video length: 	103.5 sec 
+Set (V): 		dev 
+ 
+Kathy_Griffin/u8LH1PMw5jk_0000001 56.8 71.4 
+Kathy_Griffin/u8LH1PMw5jk_0000002 71.6 85.3 

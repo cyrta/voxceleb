@@ -1,0 +1,12 @@
+POI: 			Candice_Patton 
+Youtube ID: 	iSGLirjPyfo 
+Video length: 	213.0 sec 
+Set (V): 		dev 
+ 
+Candice_Patton/iSGLirjPyfo_0000001 07.4 17.4 
+Candice_Patton/iSGLirjPyfo_0000002 34.4 43.5 
+Candice_Patton/iSGLirjPyfo_0000003 67.3 75.0 
+Candice_Patton/iSGLirjPyfo_0000004 103.7 109.6 
+Candice_Patton/iSGLirjPyfo_0000005 132.9 138.4 
+Candice_Patton/iSGLirjPyfo_0000006 148.4 154.3 
+Candice_Patton/iSGLirjPyfo_0000007 186.8 194.8 

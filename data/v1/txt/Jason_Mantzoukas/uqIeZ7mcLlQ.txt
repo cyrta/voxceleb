@@ -1,0 +1,15 @@
+POI: 			Jason_Mantzoukas 
+Youtube ID: 	uqIeZ7mcLlQ 
+Video length: 	210.2 sec 
+Set (V): 		dev 
+ 
+Jason_Mantzoukas/uqIeZ7mcLlQ_0000001 17.0 24.0 
+Jason_Mantzoukas/uqIeZ7mcLlQ_0000002 24.4 37.1 
+Jason_Mantzoukas/uqIeZ7mcLlQ_0000003 60.0 68.4 
+Jason_Mantzoukas/uqIeZ7mcLlQ_0000004 72.2 80.2 
+Jason_Mantzoukas/uqIeZ7mcLlQ_0000005 80.4 85.5 
+Jason_Mantzoukas/uqIeZ7mcLlQ_0000006 117.4 122.8 
+Jason_Mantzoukas/uqIeZ7mcLlQ_0000007 136.2 141.0 
+Jason_Mantzoukas/uqIeZ7mcLlQ_0000008 145.5 150.2 
+Jason_Mantzoukas/uqIeZ7mcLlQ_0000009 167.7 173.0 
+Jason_Mantzoukas/uqIeZ7mcLlQ_0000010 174.3 180.3 

@@ -1,0 +1,18 @@
+POI: 			Christian_Kane 
+Youtube ID: 	hYec0NpNwnw 
+Video length: 	610.7 sec 
+Set (V): 		dev 
+ 
+Christian_Kane/hYec0NpNwnw_0000001 153.0 158.4 
+Christian_Kane/hYec0NpNwnw_0000002 162.0 169.0 
+Christian_Kane/hYec0NpNwnw_0000003 190.9 195.2 
+Christian_Kane/hYec0NpNwnw_0000004 239.0 244.0 
+Christian_Kane/hYec0NpNwnw_0000005 265.5 278.2 
+Christian_Kane/hYec0NpNwnw_0000006 278.3 283.1 
+Christian_Kane/hYec0NpNwnw_0000007 325.6 331.8 
+Christian_Kane/hYec0NpNwnw_0000008 464.5 469.0 
+Christian_Kane/hYec0NpNwnw_0000009 473.1 481.9 
+Christian_Kane/hYec0NpNwnw_0000010 525.8 529.8 
+Christian_Kane/hYec0NpNwnw_0000011 540.1 547.2 
+Christian_Kane/hYec0NpNwnw_0000012 547.7 559.3 
+Christian_Kane/hYec0NpNwnw_0000013 589.4 596.4 

@@ -1,0 +1,16 @@
+POI: 			Walton_Goggins 
+Youtube ID: 	ahyelQ6qqtM 
+Video length: 	236.0 sec 
+Set (V): 		dev 
+ 
+Walton_Goggins/ahyelQ6qqtM_0000001 44.5 56.8 
+Walton_Goggins/ahyelQ6qqtM_0000002 58.8 67.0 
+Walton_Goggins/ahyelQ6qqtM_0000003 67.2 80.0 
+Walton_Goggins/ahyelQ6qqtM_0000004 89.3 94.6 
+Walton_Goggins/ahyelQ6qqtM_0000005 108.1 116.4 
+Walton_Goggins/ahyelQ6qqtM_0000006 117.2 129.9 
+Walton_Goggins/ahyelQ6qqtM_0000007 131.9 144.1 
+Walton_Goggins/ahyelQ6qqtM_0000008 165.2 169.4 
+Walton_Goggins/ahyelQ6qqtM_0000009 170.0 175.8 
+Walton_Goggins/ahyelQ6qqtM_0000010 181.1 191.3 
+Walton_Goggins/ahyelQ6qqtM_0000011 214.6 220.6 

@@ -1,0 +1,18 @@
+POI: 			Gemma_Arterton 
+Youtube ID: 	LwXx-LeYXm4 
+Video length: 	425.7 sec 
+Set (V): 		dev 
+ 
+Gemma_Arterton/LwXx-LeYXm4_0000001 67.0 92.6 
+Gemma_Arterton/LwXx-LeYXm4_0000002 93.2 101.5 
+Gemma_Arterton/LwXx-LeYXm4_0000003 101.7 106.6 
+Gemma_Arterton/LwXx-LeYXm4_0000004 108.6 116.3 
+Gemma_Arterton/LwXx-LeYXm4_0000005 116.5 121.1 
+Gemma_Arterton/LwXx-LeYXm4_0000006 149.1 155.0 
+Gemma_Arterton/LwXx-LeYXm4_0000007 176.1 197.7 
+Gemma_Arterton/LwXx-LeYXm4_0000008 201.0 209.9 
+Gemma_Arterton/LwXx-LeYXm4_0000009 221.5 226.3 
+Gemma_Arterton/LwXx-LeYXm4_0000010 329.2 346.1 
+Gemma_Arterton/LwXx-LeYXm4_0000011 346.6 353.0 
+Gemma_Arterton/LwXx-LeYXm4_0000012 376.4 404.2 
+Gemma_Arterton/LwXx-LeYXm4_0000013 411.0 415.2 

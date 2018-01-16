@@ -1,0 +1,7 @@
+POI: 			Vince_Gilligan 
+Youtube ID: 	0LUUizW5U48 
+Video length: 	178.0 sec 
+Set (V): 		dev 
+ 
+Vince_Gilligan/0LUUizW5U48_0000001 69.3 74.8 
+Vince_Gilligan/0LUUizW5U48_0000002 159.1 165.3 

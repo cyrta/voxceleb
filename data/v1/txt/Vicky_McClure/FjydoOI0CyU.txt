@@ -1,0 +1,10 @@
+POI: 			Vicky_McClure 
+Youtube ID: 	FjydoOI0CyU 
+Video length: 	279.3 sec 
+Set (V): 		dev 
+ 
+Vicky_McClure/FjydoOI0CyU_0000001 39.0 46.8 
+Vicky_McClure/FjydoOI0CyU_0000002 84.7 91.8 
+Vicky_McClure/FjydoOI0CyU_0000003 161.6 173.2 
+Vicky_McClure/FjydoOI0CyU_0000004 206.0 216.0 
+Vicky_McClure/FjydoOI0CyU_0000005 246.6 252.7 

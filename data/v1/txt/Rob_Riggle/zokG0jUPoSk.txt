@@ -1,0 +1,7 @@
+POI: 			Rob_Riggle 
+Youtube ID: 	zokG0jUPoSk 
+Video length: 	218.8 sec 
+Set (V): 		dev 
+ 
+Rob_Riggle/zokG0jUPoSk_0000001 45.5 50.2 
+Rob_Riggle/zokG0jUPoSk_0000002 68.6 73.9 

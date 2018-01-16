@@ -1,0 +1,7 @@
+POI: 			Ricky_Gervais 
+Youtube ID: 	WWZRPTh-irU 
+Video length: 	219.4 sec 
+Set (V): 		dev 
+ 
+Ricky_Gervais/WWZRPTh-irU_0000001 117.8 132.2 
+Ricky_Gervais/WWZRPTh-irU_0000002 199.7 206.2 

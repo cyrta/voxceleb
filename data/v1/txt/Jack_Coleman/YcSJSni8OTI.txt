@@ -1,0 +1,8 @@
+POI: 			Jack_Coleman 
+Youtube ID: 	YcSJSni8OTI 
+Video length: 	180.0 sec 
+Set (V): 		dev 
+ 
+Jack_Coleman/YcSJSni8OTI_0000001 40.6 45.0 
+Jack_Coleman/YcSJSni8OTI_0000002 89.2 93.2 
+Jack_Coleman/YcSJSni8OTI_0000003 112.0 117.1 

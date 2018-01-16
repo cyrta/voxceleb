@@ -1,0 +1,7 @@
+POI: 			Kelly_Brook 
+Youtube ID: 	OGZGS3PQm9I 
+Video length: 	342.9 sec 
+Set (V): 		dev 
+ 
+Kelly_Brook/OGZGS3PQm9I_0000001 231.2 246.1 
+Kelly_Brook/OGZGS3PQm9I_0000002 308.2 321.8 

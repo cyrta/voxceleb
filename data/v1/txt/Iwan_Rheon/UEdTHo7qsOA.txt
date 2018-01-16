@@ -1,0 +1,9 @@
+POI: 			Iwan_Rheon 
+Youtube ID: 	UEdTHo7qsOA 
+Video length: 	238.4 sec 
+Set (V): 		dev 
+ 
+Iwan_Rheon/UEdTHo7qsOA_0000001 78.9 91.2 
+Iwan_Rheon/UEdTHo7qsOA_0000002 91.8 103.0 
+Iwan_Rheon/UEdTHo7qsOA_0000003 108.5 116.6 
+Iwan_Rheon/UEdTHo7qsOA_0000004 117.7 124.4 

@@ -1,0 +1,24 @@
+POI: 			Jacob_Latimore 
+Youtube ID: 	moTESeorsIg 
+Video length: 	473.3 sec 
+Set (V): 		dev 
+ 
+Jacob_Latimore/moTESeorsIg_0000001 18.4 25.6 
+Jacob_Latimore/moTESeorsIg_0000002 38.9 53.8 
+Jacob_Latimore/moTESeorsIg_0000003 54.2 61.6 
+Jacob_Latimore/moTESeorsIg_0000004 79.0 84.8 
+Jacob_Latimore/moTESeorsIg_0000005 102.7 114.3 
+Jacob_Latimore/moTESeorsIg_0000006 134.0 140.1 
+Jacob_Latimore/moTESeorsIg_0000007 141.2 145.5 
+Jacob_Latimore/moTESeorsIg_0000008 149.3 167.2 
+Jacob_Latimore/moTESeorsIg_0000009 190.4 196.9 
+Jacob_Latimore/moTESeorsIg_0000010 250.6 254.5 
+Jacob_Latimore/moTESeorsIg_0000011 255.0 260.7 
+Jacob_Latimore/moTESeorsIg_0000012 270.6 274.9 
+Jacob_Latimore/moTESeorsIg_0000013 298.0 304.5 
+Jacob_Latimore/moTESeorsIg_0000014 306.8 316.1 
+Jacob_Latimore/moTESeorsIg_0000015 349.4 353.9 
+Jacob_Latimore/moTESeorsIg_0000016 354.7 362.3 
+Jacob_Latimore/moTESeorsIg_0000017 364.6 369.4 
+Jacob_Latimore/moTESeorsIg_0000018 401.1 411.5 
+Jacob_Latimore/moTESeorsIg_0000019 438.6 444.8 

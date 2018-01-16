@@ -1,0 +1,8 @@
+POI: 			Michael_Bay 
+Youtube ID: 	dOdHqds54oU 
+Video length: 	72.2 sec 
+Set (V): 		dev 
+ 
+Michael_Bay/dOdHqds54oU_0000001 12.5 16.5 
+Michael_Bay/dOdHqds54oU_0000002 40.9 46.7 
+Michael_Bay/dOdHqds54oU_0000003 49.4 54.0 

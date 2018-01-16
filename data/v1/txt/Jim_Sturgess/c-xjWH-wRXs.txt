@@ -1,0 +1,8 @@
+POI: 			Jim_Sturgess 
+Youtube ID: 	c-xjWH-wRXs 
+Video length: 	242.4 sec 
+Set (V): 		dev 
+ 
+Jim_Sturgess/c-xjWH-wRXs_0000001 101.6 107.0 
+Jim_Sturgess/c-xjWH-wRXs_0000002 193.8 198.5 
+Jim_Sturgess/c-xjWH-wRXs_0000003 223.0 227.6 

@@ -1,0 +1,9 @@
+POI: 			Diego_Klattenhoff 
+Youtube ID: 	lG5tyhe9FOE 
+Video length: 	249.5 sec 
+Set (V): 		dev 
+ 
+Diego_Klattenhoff/lG5tyhe9FOE_0000001 71.2 76.2 
+Diego_Klattenhoff/lG5tyhe9FOE_0000002 118.6 125.7 
+Diego_Klattenhoff/lG5tyhe9FOE_0000003 132.3 136.3 
+Diego_Klattenhoff/lG5tyhe9FOE_0000004 207.8 214.5 

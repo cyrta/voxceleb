@@ -1,0 +1,12 @@
+POI: 			Ben_Feldman 
+Youtube ID: 	E5-lMni1Tow 
+Video length: 	154.3 sec 
+Set (V): 		dev 
+ 
+Ben_Feldman/E5-lMni1Tow_0000001 31.8 41.9 
+Ben_Feldman/E5-lMni1Tow_0000002 42.0 46.5 
+Ben_Feldman/E5-lMni1Tow_0000003 59.4 64.8 
+Ben_Feldman/E5-lMni1Tow_0000004 64.9 70.2 
+Ben_Feldman/E5-lMni1Tow_0000005 76.4 88.4 
+Ben_Feldman/E5-lMni1Tow_0000006 103.2 115.6 
+Ben_Feldman/E5-lMni1Tow_0000007 121.7 127.4 

@@ -1,0 +1,18 @@
+POI: 			Cory_Monteith 
+Youtube ID: 	IGiZia523_A 
+Video length: 	208.2 sec 
+Set (V): 		dev 
+ 
+Cory_Monteith/IGiZia523_A_0000001 04.8 22.4 
+Cory_Monteith/IGiZia523_A_0000002 25.8 35.1 
+Cory_Monteith/IGiZia523_A_0000003 36.6 44.6 
+Cory_Monteith/IGiZia523_A_0000004 36.6 48.8 
+Cory_Monteith/IGiZia523_A_0000005 51.0 56.7 
+Cory_Monteith/IGiZia523_A_0000006 70.8 79.5 
+Cory_Monteith/IGiZia523_A_0000007 79.6 85.0 
+Cory_Monteith/IGiZia523_A_0000008 99.3 112.2 
+Cory_Monteith/IGiZia523_A_0000009 125.9 129.9 
+Cory_Monteith/IGiZia523_A_0000010 152.4 161.7 
+Cory_Monteith/IGiZia523_A_0000011 169.6 179.0 
+Cory_Monteith/IGiZia523_A_0000012 180.7 184.7 
+Cory_Monteith/IGiZia523_A_0000013 195.5 201.8 

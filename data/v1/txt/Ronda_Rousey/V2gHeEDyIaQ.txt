@@ -1,0 +1,7 @@
+POI: 			Ronda_Rousey 
+Youtube ID: 	V2gHeEDyIaQ 
+Video length: 	45.4 sec 
+Set (V): 		dev 
+ 
+Ronda_Rousey/V2gHeEDyIaQ_0000001 16.2 25.6 
+Ronda_Rousey/V2gHeEDyIaQ_0000002 26.0 42.8 

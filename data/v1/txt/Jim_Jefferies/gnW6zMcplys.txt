@@ -1,0 +1,9 @@
+POI: 			Jim_Jefferies 
+Youtube ID: 	gnW6zMcplys 
+Video length: 	109.5 sec 
+Set (V): 		dev 
+ 
+Jim_Jefferies/gnW6zMcplys_0000001 30.9 37.7 
+Jim_Jefferies/gnW6zMcplys_0000002 42.1 47.5 
+Jim_Jefferies/gnW6zMcplys_0000003 58.3 64.0 
+Jim_Jefferies/gnW6zMcplys_0000004 68.3 73.2 

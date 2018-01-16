@@ -1,0 +1,8 @@
+POI: 			Omari_Hardwick 
+Youtube ID: 	jmIItZwaENQ 
+Video length: 	488.2 sec 
+Set (V): 		dev 
+ 
+Omari_Hardwick/jmIItZwaENQ_0000001 322.1 326.2 
+Omari_Hardwick/jmIItZwaENQ_0000002 372.4 376.6 
+Omari_Hardwick/jmIItZwaENQ_0000003 381.3 388.5 

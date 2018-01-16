@@ -1,0 +1,20 @@
+POI: 			Ginger_Rogers 
+Youtube ID: 	rcEkJBJOERs 
+Video length: 	626.2 sec 
+Set (V): 		dev 
+ 
+Ginger_Rogers/rcEkJBJOERs_0000001 120.7 132.9 
+Ginger_Rogers/rcEkJBJOERs_0000002 157.3 163.6 
+Ginger_Rogers/rcEkJBJOERs_0000003 169.5 177.7 
+Ginger_Rogers/rcEkJBJOERs_0000004 206.0 210.7 
+Ginger_Rogers/rcEkJBJOERs_0000005 213.6 218.2 
+Ginger_Rogers/rcEkJBJOERs_0000006 222.9 230.8 
+Ginger_Rogers/rcEkJBJOERs_0000007 253.3 257.3 
+Ginger_Rogers/rcEkJBJOERs_0000008 257.9 263.7 
+Ginger_Rogers/rcEkJBJOERs_0000009 337.4 341.8 
+Ginger_Rogers/rcEkJBJOERs_0000010 342.0 346.4 
+Ginger_Rogers/rcEkJBJOERs_0000011 459.5 464.7 
+Ginger_Rogers/rcEkJBJOERs_0000012 489.6 494.4 
+Ginger_Rogers/rcEkJBJOERs_0000013 498.6 505.0 
+Ginger_Rogers/rcEkJBJOERs_0000014 508.4 516.1 
+Ginger_Rogers/rcEkJBJOERs_0000015 519.4 523.7 

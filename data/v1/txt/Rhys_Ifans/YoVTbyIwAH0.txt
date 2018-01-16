@@ -1,0 +1,13 @@
+POI: 			Rhys_Ifans 
+Youtube ID: 	YoVTbyIwAH0 
+Video length: 	148.7 sec 
+Set (V): 		dev 
+ 
+Rhys_Ifans/YoVTbyIwAH0_0000001 20.2 26.1 
+Rhys_Ifans/YoVTbyIwAH0_0000002 26.5 32.4 
+Rhys_Ifans/YoVTbyIwAH0_0000003 36.1 44.0 
+Rhys_Ifans/YoVTbyIwAH0_0000004 48.2 54.9 
+Rhys_Ifans/YoVTbyIwAH0_0000005 59.4 70.0 
+Rhys_Ifans/YoVTbyIwAH0_0000006 75.1 80.6 
+Rhys_Ifans/YoVTbyIwAH0_0000007 82.1 87.4 
+Rhys_Ifans/YoVTbyIwAH0_0000008 120.4 124.4 

@@ -1,0 +1,8 @@
+POI: 			Steve_Martin 
+Youtube ID: 	8NDIOFvQq_o 
+Video length: 	584.9 sec 
+Set (V): 		dev 
+ 
+Steve_Martin/8NDIOFvQq_o_0000001 109.9 114.3 
+Steve_Martin/8NDIOFvQq_o_0000002 160.0 164.8 
+Steve_Martin/8NDIOFvQq_o_0000003 223.7 228.4 

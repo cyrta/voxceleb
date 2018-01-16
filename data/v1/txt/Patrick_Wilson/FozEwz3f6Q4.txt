@@ -1,0 +1,8 @@
+POI: 			Patrick_Wilson 
+Youtube ID: 	FozEwz3f6Q4 
+Video length: 	893.2 sec 
+Set (V): 		dev 
+ 
+Patrick_Wilson/FozEwz3f6Q4_0000001 138.1 142.4 
+Patrick_Wilson/FozEwz3f6Q4_0000002 167.6 171.7 
+Patrick_Wilson/FozEwz3f6Q4_0000003 638.4 644.6 

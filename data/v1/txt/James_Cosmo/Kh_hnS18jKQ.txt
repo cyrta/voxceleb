@@ -1,0 +1,9 @@
+POI: 			James_Cosmo 
+Youtube ID: 	Kh_hnS18jKQ 
+Video length: 	323.7 sec 
+Set (V): 		dev 
+ 
+James_Cosmo/Kh_hnS18jKQ_0000001 135.0 147.8 
+James_Cosmo/Kh_hnS18jKQ_0000002 181.7 186.1 
+James_Cosmo/Kh_hnS18jKQ_0000003 238.0 243.2 
+James_Cosmo/Kh_hnS18jKQ_0000004 246.9 253.0 

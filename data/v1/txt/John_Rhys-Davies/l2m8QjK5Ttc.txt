@@ -1,0 +1,9 @@
+POI: 			John_Rhys-Davies 
+Youtube ID: 	l2m8QjK5Ttc 
+Video length: 	435.6 sec 
+Set (V): 		dev 
+ 
+John_Rhys-Davies/l2m8QjK5Ttc_0000001 117.2 121.4 
+John_Rhys-Davies/l2m8QjK5Ttc_0000002 241.5 251.1 
+John_Rhys-Davies/l2m8QjK5Ttc_0000003 279.1 284.0 
+John_Rhys-Davies/l2m8QjK5Ttc_0000004 284.2 288.4 

@@ -1,0 +1,10 @@
+POI: 			Sam_Neill 
+Youtube ID: 	za6aYx8XKZQ 
+Video length: 	274.8 sec 
+Set (V): 		dev 
+ 
+Sam_Neill/za6aYx8XKZQ_0000001 57.8 62.6 
+Sam_Neill/za6aYx8XKZQ_0000002 63.3 67.5 
+Sam_Neill/za6aYx8XKZQ_0000003 74.6 80.4 
+Sam_Neill/za6aYx8XKZQ_0000004 99.9 107.0 
+Sam_Neill/za6aYx8XKZQ_0000005 113.8 122.6 

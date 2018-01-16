@@ -1,0 +1,11 @@
+POI: 			Ansel_Elgort 
+Youtube ID: 	p1aZT6rIMbo 
+Video length: 	260.0 sec 
+Set (V): 		dev 
+ 
+Ansel_Elgort/p1aZT6rIMbo_0000001 101.9 107.8 
+Ansel_Elgort/p1aZT6rIMbo_0000002 108.1 113.3 
+Ansel_Elgort/p1aZT6rIMbo_0000003 142.8 148.6 
+Ansel_Elgort/p1aZT6rIMbo_0000004 159.4 173.0 
+Ansel_Elgort/p1aZT6rIMbo_0000005 228.2 233.1 
+Ansel_Elgort/p1aZT6rIMbo_0000006 234.1 242.1 

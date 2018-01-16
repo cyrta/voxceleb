@@ -1,0 +1,11 @@
+POI: 			Garry_Marshall 
+Youtube ID: 	RG27NgKVH9A 
+Video length: 	147.5 sec 
+Set (V): 		dev 
+ 
+Garry_Marshall/RG27NgKVH9A_0000001 12.0 22.1 
+Garry_Marshall/RG27NgKVH9A_0000002 25.0 32.1 
+Garry_Marshall/RG27NgKVH9A_0000003 43.2 65.0 
+Garry_Marshall/RG27NgKVH9A_0000004 65.7 75.6 
+Garry_Marshall/RG27NgKVH9A_0000005 75.8 105.6 
+Garry_Marshall/RG27NgKVH9A_0000006 107.4 136.6 

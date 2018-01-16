@@ -1,0 +1,8 @@
+POI: 			Sean_Patrick_Flanery 
+Youtube ID: 	iW0AgyUMsEM 
+Video length: 	567.4 sec 
+Set (V): 		dev 
+ 
+Sean_Patrick_Flanery/iW0AgyUMsEM_0000001 308.8 322.6 
+Sean_Patrick_Flanery/iW0AgyUMsEM_0000002 504.1 514.6 
+Sean_Patrick_Flanery/iW0AgyUMsEM_0000003 515.7 522.4 

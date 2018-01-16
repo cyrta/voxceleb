@@ -1,0 +1,10 @@
+POI: 			David_Henrie 
+Youtube ID: 	qAZ3HkRrJfA 
+Video length: 	265.2 sec 
+Set (V): 		dev 
+ 
+David_Henrie/qAZ3HkRrJfA_0000001 10.8 19.5 
+David_Henrie/qAZ3HkRrJfA_0000002 155.2 159.2 
+David_Henrie/qAZ3HkRrJfA_0000003 162.9 169.6 
+David_Henrie/qAZ3HkRrJfA_0000004 215.6 232.3 
+David_Henrie/qAZ3HkRrJfA_0000005 255.3 259.8 

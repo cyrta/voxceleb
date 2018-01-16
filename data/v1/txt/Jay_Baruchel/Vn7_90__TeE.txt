@@ -1,0 +1,12 @@
+POI: 			Jay_Baruchel 
+Youtube ID: 	Vn7_90__TeE 
+Video length: 	354.9 sec 
+Set (V): 		dev 
+ 
+Jay_Baruchel/Vn7_90__TeE_0000001 81.0 85.8 
+Jay_Baruchel/Vn7_90__TeE_0000002 87.1 103.8 
+Jay_Baruchel/Vn7_90__TeE_0000003 104.3 111.6 
+Jay_Baruchel/Vn7_90__TeE_0000004 111.8 120.3 
+Jay_Baruchel/Vn7_90__TeE_0000005 212.3 217.4 
+Jay_Baruchel/Vn7_90__TeE_0000006 229.4 246.8 
+Jay_Baruchel/Vn7_90__TeE_0000007 247.0 262.5 

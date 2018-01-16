@@ -1,0 +1,10 @@
+POI: 			Lucas_Grabeel 
+Youtube ID: 	vySvsSDqCes 
+Video length: 	355.6 sec 
+Set (V): 		dev 
+ 
+Lucas_Grabeel/vySvsSDqCes_0000001 73.5 89.5 
+Lucas_Grabeel/vySvsSDqCes_0000002 144.5 152.1 
+Lucas_Grabeel/vySvsSDqCes_0000003 232.3 244.6 
+Lucas_Grabeel/vySvsSDqCes_0000004 245.1 257.0 
+Lucas_Grabeel/vySvsSDqCes_0000005 287.0 293.9 

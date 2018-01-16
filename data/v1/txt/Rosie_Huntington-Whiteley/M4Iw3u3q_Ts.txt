@@ -1,0 +1,15 @@
+POI: 			Rosie_Huntington-Whiteley 
+Youtube ID: 	M4Iw3u3q_Ts 
+Video length: 	292.1 sec 
+Set (V): 		dev 
+ 
+Rosie_Huntington-Whiteley/M4Iw3u3q_Ts_0000001 62.2 70.6 
+Rosie_Huntington-Whiteley/M4Iw3u3q_Ts_0000002 80.8 88.4 
+Rosie_Huntington-Whiteley/M4Iw3u3q_Ts_0000003 88.6 93.6 
+Rosie_Huntington-Whiteley/M4Iw3u3q_Ts_0000004 97.4 107.0 
+Rosie_Huntington-Whiteley/M4Iw3u3q_Ts_0000005 120.1 125.0 
+Rosie_Huntington-Whiteley/M4Iw3u3q_Ts_0000006 130.2 136.5 
+Rosie_Huntington-Whiteley/M4Iw3u3q_Ts_0000007 189.8 198.4 
+Rosie_Huntington-Whiteley/M4Iw3u3q_Ts_0000008 199.2 210.3 
+Rosie_Huntington-Whiteley/M4Iw3u3q_Ts_0000009 222.8 231.5 
+Rosie_Huntington-Whiteley/M4Iw3u3q_Ts_0000010 235.8 255.1 

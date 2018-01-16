@@ -1,0 +1,8 @@
+POI: 			Sharni_Vinson 
+Youtube ID: 	5TjJpQ_FzaM 
+Video length: 	235.3 sec 
+Set (V): 		dev 
+ 
+Sharni_Vinson/5TjJpQ_FzaM_0000001 14.3 33.4 
+Sharni_Vinson/5TjJpQ_FzaM_0000002 33.6 40.6 
+Sharni_Vinson/5TjJpQ_FzaM_0000003 193.8 208.8 

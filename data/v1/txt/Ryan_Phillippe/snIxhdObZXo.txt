@@ -1,0 +1,10 @@
+POI: 			Ryan_Phillippe 
+Youtube ID: 	snIxhdObZXo 
+Video length: 	374.5 sec 
+Set (V): 		dev 
+ 
+Ryan_Phillippe/snIxhdObZXo_0000001 95.9 114.8 
+Ryan_Phillippe/snIxhdObZXo_0000002 124.7 177.4 
+Ryan_Phillippe/snIxhdObZXo_0000003 231.3 258.7 
+Ryan_Phillippe/snIxhdObZXo_0000004 280.1 319.0 
+Ryan_Phillippe/snIxhdObZXo_0000005 326.6 331.2 

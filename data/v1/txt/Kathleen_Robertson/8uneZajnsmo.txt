@@ -1,0 +1,9 @@
+POI: 			Kathleen_Robertson 
+Youtube ID: 	8uneZajnsmo 
+Video length: 	229.2 sec 
+Set (V): 		dev 
+ 
+Kathleen_Robertson/8uneZajnsmo_0000001 65.8 70.6 
+Kathleen_Robertson/8uneZajnsmo_0000002 74.2 81.6 
+Kathleen_Robertson/8uneZajnsmo_0000003 170.2 176.3 
+Kathleen_Robertson/8uneZajnsmo_0000004 172.2 176.5 

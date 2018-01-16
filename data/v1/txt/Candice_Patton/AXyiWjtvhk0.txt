@@ -1,0 +1,12 @@
+POI: 			Candice_Patton 
+Youtube ID: 	AXyiWjtvhk0 
+Video length: 	234.6 sec 
+Set (V): 		dev 
+ 
+Candice_Patton/AXyiWjtvhk0_0000001 12.1 17.8 
+Candice_Patton/AXyiWjtvhk0_0000002 28.1 37.6 
+Candice_Patton/AXyiWjtvhk0_0000003 62.7 68.3 
+Candice_Patton/AXyiWjtvhk0_0000004 136.1 140.8 
+Candice_Patton/AXyiWjtvhk0_0000005 182.2 186.4 
+Candice_Patton/AXyiWjtvhk0_0000006 187.5 191.7 
+Candice_Patton/AXyiWjtvhk0_0000007 201.9 233.2 

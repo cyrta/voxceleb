@@ -1,0 +1,15 @@
+POI: 			Jennifer_Saunders 
+Youtube ID: 	IURx3sB_pIE 
+Video length: 	565.6 sec 
+Set (V): 		dev 
+ 
+Jennifer_Saunders/IURx3sB_pIE_0000001 84.3 88.4 
+Jennifer_Saunders/IURx3sB_pIE_0000002 129.6 137.3 
+Jennifer_Saunders/IURx3sB_pIE_0000003 208.4 213.8 
+Jennifer_Saunders/IURx3sB_pIE_0000004 222.5 232.8 
+Jennifer_Saunders/IURx3sB_pIE_0000005 282.3 286.7 
+Jennifer_Saunders/IURx3sB_pIE_0000006 289.1 294.9 
+Jennifer_Saunders/IURx3sB_pIE_0000007 391.5 397.6 
+Jennifer_Saunders/IURx3sB_pIE_0000008 410.6 414.8 
+Jennifer_Saunders/IURx3sB_pIE_0000009 475.7 483.8 
+Jennifer_Saunders/IURx3sB_pIE_0000010 496.8 508.4 

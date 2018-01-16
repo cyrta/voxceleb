@@ -1,0 +1,20 @@
+POI: 			J.J._Abrams 
+Youtube ID: 	2-2Ay9myBmI 
+Video length: 	255.8 sec 
+Set (V): 		dev 
+ 
+J.J._Abrams/2-2Ay9myBmI_0000001 18.6 24.6 
+J.J._Abrams/2-2Ay9myBmI_0000002 24.8 28.9 
+J.J._Abrams/2-2Ay9myBmI_0000003 29.0 34.6 
+J.J._Abrams/2-2Ay9myBmI_0000004 48.8 54.8 
+J.J._Abrams/2-2Ay9myBmI_0000005 72.6 78.1 
+J.J._Abrams/2-2Ay9myBmI_0000006 100.4 105.3 
+J.J._Abrams/2-2Ay9myBmI_0000007 131.4 135.8 
+J.J._Abrams/2-2Ay9myBmI_0000008 138.1 150.6 
+J.J._Abrams/2-2Ay9myBmI_0000009 152.2 156.9 
+J.J._Abrams/2-2Ay9myBmI_0000010 157.1 175.5 
+J.J._Abrams/2-2Ay9myBmI_0000011 176.7 180.8 
+J.J._Abrams/2-2Ay9myBmI_0000012 204.2 210.4 
+J.J._Abrams/2-2Ay9myBmI_0000013 213.0 226.3 
+J.J._Abrams/2-2Ay9myBmI_0000014 233.3 239.1 
+J.J._Abrams/2-2Ay9myBmI_0000015 242.1 251.8 

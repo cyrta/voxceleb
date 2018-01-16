@@ -1,0 +1,8 @@
+POI: 			Cyndi_Lauper 
+Youtube ID: 	Pxk7vHkKM3I 
+Video length: 	587.4 sec 
+Set (V): 		dev 
+ 
+Cyndi_Lauper/Pxk7vHkKM3I_0000001 183.2 187.4 
+Cyndi_Lauper/Pxk7vHkKM3I_0000002 259.8 266.2 
+Cyndi_Lauper/Pxk7vHkKM3I_0000003 502.6 506.5 

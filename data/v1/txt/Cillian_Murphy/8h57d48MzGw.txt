@@ -1,0 +1,16 @@
+POI: 			Cillian_Murphy 
+Youtube ID: 	8h57d48MzGw 
+Video length: 	242.1 sec 
+Set (V): 		dev 
+ 
+Cillian_Murphy/8h57d48MzGw_0000001 10.2 14.2 
+Cillian_Murphy/8h57d48MzGw_0000002 26.4 33.9 
+Cillian_Murphy/8h57d48MzGw_0000003 57.1 64.8 
+Cillian_Murphy/8h57d48MzGw_0000004 73.0 83.5 
+Cillian_Murphy/8h57d48MzGw_0000005 83.9 94.1 
+Cillian_Murphy/8h57d48MzGw_0000006 123.0 141.4 
+Cillian_Murphy/8h57d48MzGw_0000007 144.8 150.6 
+Cillian_Murphy/8h57d48MzGw_0000008 151.4 159.0 
+Cillian_Murphy/8h57d48MzGw_0000009 172.8 177.3 
+Cillian_Murphy/8h57d48MzGw_0000010 199.3 212.6 
+Cillian_Murphy/8h57d48MzGw_0000011 226.4 231.5 

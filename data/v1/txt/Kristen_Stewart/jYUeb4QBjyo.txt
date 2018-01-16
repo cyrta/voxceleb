@@ -1,0 +1,13 @@
+POI: 			Kristen_Stewart 
+Youtube ID: 	jYUeb4QBjyo 
+Video length: 	215.8 sec 
+Set (V): 		dev 
+ 
+Kristen_Stewart/jYUeb4QBjyo_0000001 26.5 31.2 
+Kristen_Stewart/jYUeb4QBjyo_0000002 57.0 62.4 
+Kristen_Stewart/jYUeb4QBjyo_0000003 65.0 82.2 
+Kristen_Stewart/jYUeb4QBjyo_0000004 86.2 90.6 
+Kristen_Stewart/jYUeb4QBjyo_0000005 91.6 104.8 
+Kristen_Stewart/jYUeb4QBjyo_0000006 143.7 175.5 
+Kristen_Stewart/jYUeb4QBjyo_0000007 184.2 189.5 
+Kristen_Stewart/jYUeb4QBjyo_0000008 204.2 209.2 

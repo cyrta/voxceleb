@@ -1,0 +1,11 @@
+POI: 			Justine_Ezarik 
+Youtube ID: 	oqB0Wpgr4xE 
+Video length: 	1126.3 sec 
+Set (V): 		dev 
+ 
+Justine_Ezarik/oqB0Wpgr4xE_0000001 95.3 99.5 
+Justine_Ezarik/oqB0Wpgr4xE_0000002 144.5 148.8 
+Justine_Ezarik/oqB0Wpgr4xE_0000003 251.8 257.8 
+Justine_Ezarik/oqB0Wpgr4xE_0000004 294.4 299.4 
+Justine_Ezarik/oqB0Wpgr4xE_0000005 418.3 422.6 
+Justine_Ezarik/oqB0Wpgr4xE_0000006 673.7 677.8 

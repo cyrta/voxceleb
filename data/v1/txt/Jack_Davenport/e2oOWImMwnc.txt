@@ -1,0 +1,12 @@
+POI: 			Jack_Davenport 
+Youtube ID: 	e2oOWImMwnc 
+Video length: 	151.8 sec 
+Set (V): 		dev 
+ 
+Jack_Davenport/e2oOWImMwnc_0000001 04.3 08.4 
+Jack_Davenport/e2oOWImMwnc_0000002 56.0 61.0 
+Jack_Davenport/e2oOWImMwnc_0000003 67.0 72.6 
+Jack_Davenport/e2oOWImMwnc_0000004 96.8 118.0 
+Jack_Davenport/e2oOWImMwnc_0000005 118.8 132.1 
+Jack_Davenport/e2oOWImMwnc_0000006 128.6 138.2 
+Jack_Davenport/e2oOWImMwnc_0000007 140.5 144.6 

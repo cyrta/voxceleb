@@ -1,0 +1,7 @@
+POI: 			Ruta_Lee 
+Youtube ID: 	MsJbtsQGVII 
+Video length: 	589.4 sec 
+Set (V): 		dev 
+ 
+Ruta_Lee/MsJbtsQGVII_0000001 470.8 477.4 
+Ruta_Lee/MsJbtsQGVII_0000002 525.9 531.0 

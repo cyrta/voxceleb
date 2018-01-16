@@ -1,0 +1,13 @@
+POI: 			Brendan_Gleeson 
+Youtube ID: 	lcsdIhYolw4 
+Video length: 	485.5 sec 
+Set (V): 		dev 
+ 
+Brendan_Gleeson/lcsdIhYolw4_0000001 112.3 121.4 
+Brendan_Gleeson/lcsdIhYolw4_0000002 130.2 135.0 
+Brendan_Gleeson/lcsdIhYolw4_0000003 242.6 247.6 
+Brendan_Gleeson/lcsdIhYolw4_0000004 265.4 270.9 
+Brendan_Gleeson/lcsdIhYolw4_0000005 330.7 336.0 
+Brendan_Gleeson/lcsdIhYolw4_0000006 336.9 347.7 
+Brendan_Gleeson/lcsdIhYolw4_0000007 361.6 372.4 
+Brendan_Gleeson/lcsdIhYolw4_0000008 408.9 417.3 

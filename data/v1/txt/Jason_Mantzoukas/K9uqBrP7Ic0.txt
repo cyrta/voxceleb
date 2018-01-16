@@ -1,0 +1,9 @@
+POI: 			Jason_Mantzoukas 
+Youtube ID: 	K9uqBrP7Ic0 
+Video length: 	242.4 sec 
+Set (V): 		dev 
+ 
+Jason_Mantzoukas/K9uqBrP7Ic0_0000001 43.8 47.8 
+Jason_Mantzoukas/K9uqBrP7Ic0_0000002 84.0 99.6 
+Jason_Mantzoukas/K9uqBrP7Ic0_0000003 192.3 200.0 
+Jason_Mantzoukas/K9uqBrP7Ic0_0000004 224.4 230.2 

@@ -1,0 +1,12 @@
+POI: 			Gordon_Ramsay 
+Youtube ID: 	FTl-9Tw0lCc 
+Video length: 	217.1 sec 
+Set (V): 		dev 
+ 
+Gordon_Ramsay/FTl-9Tw0lCc_0000001 39.3 46.0 
+Gordon_Ramsay/FTl-9Tw0lCc_0000002 58.5 63.1 
+Gordon_Ramsay/FTl-9Tw0lCc_0000003 101.2 112.2 
+Gordon_Ramsay/FTl-9Tw0lCc_0000004 137.0 149.6 
+Gordon_Ramsay/FTl-9Tw0lCc_0000005 157.8 165.5 
+Gordon_Ramsay/FTl-9Tw0lCc_0000006 177.6 182.1 
+Gordon_Ramsay/FTl-9Tw0lCc_0000007 182.8 197.0 

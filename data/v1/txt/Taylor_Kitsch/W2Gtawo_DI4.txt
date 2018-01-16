@@ -1,0 +1,7 @@
+POI: 			Taylor_Kitsch 
+Youtube ID: 	W2Gtawo_DI4 
+Video length: 	311.4 sec 
+Set (V): 		dev 
+ 
+Taylor_Kitsch/W2Gtawo_DI4_0000001 72.6 79.7 
+Taylor_Kitsch/W2Gtawo_DI4_0000002 80.2 86.6 

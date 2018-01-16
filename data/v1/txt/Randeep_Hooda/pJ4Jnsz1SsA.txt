@@ -1,0 +1,36 @@
+POI: 			Randeep_Hooda 
+Youtube ID: 	pJ4Jnsz1SsA 
+Video length: 	1077.8 sec 
+Set (V): 		dev 
+ 
+Randeep_Hooda/pJ4Jnsz1SsA_0000001 50.8 57.0 
+Randeep_Hooda/pJ4Jnsz1SsA_0000002 91.9 99.6 
+Randeep_Hooda/pJ4Jnsz1SsA_0000003 108.2 114.9 
+Randeep_Hooda/pJ4Jnsz1SsA_0000004 123.0 127.3 
+Randeep_Hooda/pJ4Jnsz1SsA_0000005 139.2 148.3 
+Randeep_Hooda/pJ4Jnsz1SsA_0000006 150.7 158.0 
+Randeep_Hooda/pJ4Jnsz1SsA_0000007 372.1 378.6 
+Randeep_Hooda/pJ4Jnsz1SsA_0000008 389.8 402.0 
+Randeep_Hooda/pJ4Jnsz1SsA_0000009 416.9 422.6 
+Randeep_Hooda/pJ4Jnsz1SsA_0000010 426.2 435.3 
+Randeep_Hooda/pJ4Jnsz1SsA_0000011 442.8 447.8 
+Randeep_Hooda/pJ4Jnsz1SsA_0000012 462.2 472.7 
+Randeep_Hooda/pJ4Jnsz1SsA_0000013 482.8 487.6 
+Randeep_Hooda/pJ4Jnsz1SsA_0000014 500.6 505.0 
+Randeep_Hooda/pJ4Jnsz1SsA_0000015 507.5 514.2 
+Randeep_Hooda/pJ4Jnsz1SsA_0000016 523.7 529.5 
+Randeep_Hooda/pJ4Jnsz1SsA_0000017 541.1 547.8 
+Randeep_Hooda/pJ4Jnsz1SsA_0000018 549.3 555.1 
+Randeep_Hooda/pJ4Jnsz1SsA_0000019 557.6 565.0 
+Randeep_Hooda/pJ4Jnsz1SsA_0000020 664.6 672.4 
+Randeep_Hooda/pJ4Jnsz1SsA_0000021 703.1 709.7 
+Randeep_Hooda/pJ4Jnsz1SsA_0000022 815.3 820.6 
+Randeep_Hooda/pJ4Jnsz1SsA_0000023 823.3 829.0 
+Randeep_Hooda/pJ4Jnsz1SsA_0000024 841.5 845.5 
+Randeep_Hooda/pJ4Jnsz1SsA_0000025 870.3 875.8 
+Randeep_Hooda/pJ4Jnsz1SsA_0000026 914.8 930.9 
+Randeep_Hooda/pJ4Jnsz1SsA_0000027 944.6 948.7 
+Randeep_Hooda/pJ4Jnsz1SsA_0000028 998.6 1005.9 
+Randeep_Hooda/pJ4Jnsz1SsA_0000029 1009.4 1018.7 
+Randeep_Hooda/pJ4Jnsz1SsA_0000030 1025.2 1041.0 
+Randeep_Hooda/pJ4Jnsz1SsA_0000031 1043.3 1048.6 

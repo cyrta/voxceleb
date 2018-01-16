@@ -1,0 +1,12 @@
+POI: 			Hugh_Jackman 
+Youtube ID: 	RL-O0Ut_7Ds 
+Video length: 	326.2 sec 
+Set (V): 		dev 
+ 
+Hugh_Jackman/RL-O0Ut_7Ds_0000001 70.9 80.8 
+Hugh_Jackman/RL-O0Ut_7Ds_0000002 81.6 86.1 
+Hugh_Jackman/RL-O0Ut_7Ds_0000003 89.1 94.4 
+Hugh_Jackman/RL-O0Ut_7Ds_0000004 95.7 100.7 
+Hugh_Jackman/RL-O0Ut_7Ds_0000005 230.9 239.2 
+Hugh_Jackman/RL-O0Ut_7Ds_0000006 242.6 252.5 
+Hugh_Jackman/RL-O0Ut_7Ds_0000007 270.8 278.5 

@@ -1,0 +1,17 @@
+POI: 			Jennette_McCurdy 
+Youtube ID: 	RkZJhsyqak8 
+Video length: 	230.3 sec 
+Set (V): 		dev 
+ 
+Jennette_McCurdy/RkZJhsyqak8_0000001 10.8 25.2 
+Jennette_McCurdy/RkZJhsyqak8_0000002 32.4 42.0 
+Jennette_McCurdy/RkZJhsyqak8_0000003 52.6 59.5 
+Jennette_McCurdy/RkZJhsyqak8_0000004 68.0 72.7 
+Jennette_McCurdy/RkZJhsyqak8_0000005 96.2 100.9 
+Jennette_McCurdy/RkZJhsyqak8_0000006 117.2 122.9 
+Jennette_McCurdy/RkZJhsyqak8_0000007 129.7 139.0 
+Jennette_McCurdy/RkZJhsyqak8_0000008 141.1 145.6 
+Jennette_McCurdy/RkZJhsyqak8_0000009 159.6 166.7 
+Jennette_McCurdy/RkZJhsyqak8_0000010 173.9 179.4 
+Jennette_McCurdy/RkZJhsyqak8_0000011 184.7 197.1 
+Jennette_McCurdy/RkZJhsyqak8_0000012 199.9 215.9 

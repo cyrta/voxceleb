@@ -1,0 +1,10 @@
+POI: 			Jennifer_Coolidge 
+Youtube ID: 	TiHRF2zNMxo 
+Video length: 	218.7 sec 
+Set (V): 		dev 
+ 
+Jennifer_Coolidge/TiHRF2zNMxo_0000001 39.3 45.3 
+Jennifer_Coolidge/TiHRF2zNMxo_0000002 106.4 111.6 
+Jennifer_Coolidge/TiHRF2zNMxo_0000003 156.8 161.8 
+Jennifer_Coolidge/TiHRF2zNMxo_0000004 164.6 190.0 
+Jennifer_Coolidge/TiHRF2zNMxo_0000005 192.1 198.6 

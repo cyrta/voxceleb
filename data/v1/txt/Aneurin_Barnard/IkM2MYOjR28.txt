@@ -1,0 +1,16 @@
+POI: 			Aneurin_Barnard 
+Youtube ID: 	IkM2MYOjR28 
+Video length: 	175.0 sec 
+Set (V): 		dev 
+ 
+Aneurin_Barnard/IkM2MYOjR28_0000001 06.8 13.8 
+Aneurin_Barnard/IkM2MYOjR28_0000002 14.6 32.0 
+Aneurin_Barnard/IkM2MYOjR28_0000003 38.0 42.3 
+Aneurin_Barnard/IkM2MYOjR28_0000004 51.8 60.1 
+Aneurin_Barnard/IkM2MYOjR28_0000005 67.5 83.4 
+Aneurin_Barnard/IkM2MYOjR28_0000006 92.2 96.3 
+Aneurin_Barnard/IkM2MYOjR28_0000007 97.5 104.5 
+Aneurin_Barnard/IkM2MYOjR28_0000008 109.8 119.6 
+Aneurin_Barnard/IkM2MYOjR28_0000009 147.9 156.6 
+Aneurin_Barnard/IkM2MYOjR28_0000010 161.3 169.2 
+Aneurin_Barnard/IkM2MYOjR28_0000011 137.2 156.0 

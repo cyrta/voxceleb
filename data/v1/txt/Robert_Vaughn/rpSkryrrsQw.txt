@@ -1,0 +1,11 @@
+POI: 			Robert_Vaughn 
+Youtube ID: 	rpSkryrrsQw 
+Video length: 	89.2 sec 
+Set (V): 		dev 
+ 
+Robert_Vaughn/rpSkryrrsQw_0000001 07.7 21.0 
+Robert_Vaughn/rpSkryrrsQw_0000002 21.3 31.0 
+Robert_Vaughn/rpSkryrrsQw_0000003 31.7 37.2 
+Robert_Vaughn/rpSkryrrsQw_0000004 38.7 44.2 
+Robert_Vaughn/rpSkryrrsQw_0000005 58.0 64.3 
+Robert_Vaughn/rpSkryrrsQw_0000006 69.5 75.4 

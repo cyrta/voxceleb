@@ -1,0 +1,20 @@
+POI: 			Joss_Whedon 
+Youtube ID: 	8rTmIhtoBac 
+Video length: 	169.7 sec 
+Set (V): 		dev 
+ 
+Joss_Whedon/8rTmIhtoBac_0000001 01.2 06.5 
+Joss_Whedon/8rTmIhtoBac_0000002 10.9 15.9 
+Joss_Whedon/8rTmIhtoBac_0000003 22.0 36.1 
+Joss_Whedon/8rTmIhtoBac_0000004 37.2 48.6 
+Joss_Whedon/8rTmIhtoBac_0000005 50.4 55.0 
+Joss_Whedon/8rTmIhtoBac_0000006 56.0 69.0 
+Joss_Whedon/8rTmIhtoBac_0000007 67.0 74.0 
+Joss_Whedon/8rTmIhtoBac_0000008 73.3 81.0 
+Joss_Whedon/8rTmIhtoBac_0000009 83.3 90.5 
+Joss_Whedon/8rTmIhtoBac_0000010 90.8 98.1 
+Joss_Whedon/8rTmIhtoBac_0000011 98.2 106.9 
+Joss_Whedon/8rTmIhtoBac_0000012 114.1 120.0 
+Joss_Whedon/8rTmIhtoBac_0000013 126.2 132.3 
+Joss_Whedon/8rTmIhtoBac_0000014 134.6 150.7 
+Joss_Whedon/8rTmIhtoBac_0000015 155.2 160.7 

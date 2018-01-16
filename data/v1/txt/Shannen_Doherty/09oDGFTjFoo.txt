@@ -1,0 +1,9 @@
+POI: 			Shannen_Doherty 
+Youtube ID: 	09oDGFTjFoo 
+Video length: 	115.4 sec 
+Set (V): 		dev 
+ 
+Shannen_Doherty/09oDGFTjFoo_0000001 04.0 08.3 
+Shannen_Doherty/09oDGFTjFoo_0000002 28.1 32.4 
+Shannen_Doherty/09oDGFTjFoo_0000003 76.3 91.4 
+Shannen_Doherty/09oDGFTjFoo_0000004 97.7 104.5 

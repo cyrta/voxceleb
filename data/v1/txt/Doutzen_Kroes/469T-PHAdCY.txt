@@ -1,0 +1,8 @@
+POI: 			Doutzen_Kroes 
+Youtube ID: 	469T-PHAdCY 
+Video length: 	101.9 sec 
+Set (V): 		dev 
+ 
+Doutzen_Kroes/469T-PHAdCY_0000001 43.2 50.4 
+Doutzen_Kroes/469T-PHAdCY_0000002 52.3 58.0 
+Doutzen_Kroes/469T-PHAdCY_0000003 72.2 87.7 

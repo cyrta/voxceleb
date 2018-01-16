@@ -1,0 +1,7 @@
+POI: 			Giovanni_Ribisi 
+Youtube ID: 	CnaMocjfsig 
+Video length: 	301.0 sec 
+Set (V): 		dev 
+ 
+Giovanni_Ribisi/CnaMocjfsig_0000001 73.8 78.0 
+Giovanni_Ribisi/CnaMocjfsig_0000002 85.7 93.0 

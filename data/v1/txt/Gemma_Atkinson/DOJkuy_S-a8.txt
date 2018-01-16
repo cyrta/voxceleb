@@ -1,0 +1,15 @@
+POI: 			Gemma_Atkinson 
+Youtube ID: 	DOJkuy_S-a8 
+Video length: 	331.4 sec 
+Set (V): 		dev 
+ 
+Gemma_Atkinson/DOJkuy_S-a8_0000001 09.5 16.2 
+Gemma_Atkinson/DOJkuy_S-a8_0000002 26.7 34.5 
+Gemma_Atkinson/DOJkuy_S-a8_0000003 71.8 76.6 
+Gemma_Atkinson/DOJkuy_S-a8_0000004 80.6 89.2 
+Gemma_Atkinson/DOJkuy_S-a8_0000005 119.4 136.5 
+Gemma_Atkinson/DOJkuy_S-a8_0000006 140.1 149.3 
+Gemma_Atkinson/DOJkuy_S-a8_0000007 168.3 185.0 
+Gemma_Atkinson/DOJkuy_S-a8_0000008 216.0 227.2 
+Gemma_Atkinson/DOJkuy_S-a8_0000009 231.5 238.5 
+Gemma_Atkinson/DOJkuy_S-a8_0000010 256.1 262.2 

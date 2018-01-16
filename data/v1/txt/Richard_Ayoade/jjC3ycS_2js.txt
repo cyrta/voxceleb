@@ -1,0 +1,13 @@
+POI: 			Richard_Ayoade 
+Youtube ID: 	jjC3ycS_2js 
+Video length: 	251.8 sec 
+Set (V): 		dev 
+ 
+Richard_Ayoade/jjC3ycS_2js_0000001 08.0 22.8 
+Richard_Ayoade/jjC3ycS_2js_0000002 78.2 91.4 
+Richard_Ayoade/jjC3ycS_2js_0000003 102.0 106.4 
+Richard_Ayoade/jjC3ycS_2js_0000004 116.6 125.6 
+Richard_Ayoade/jjC3ycS_2js_0000005 106.2 115.5 
+Richard_Ayoade/jjC3ycS_2js_0000006 152.1 156.6 
+Richard_Ayoade/jjC3ycS_2js_0000007 199.7 204.1 
+Richard_Ayoade/jjC3ycS_2js_0000008 214.6 230.8 

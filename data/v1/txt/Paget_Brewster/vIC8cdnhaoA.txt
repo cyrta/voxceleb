@@ -1,0 +1,7 @@
+POI: 			Paget_Brewster 
+Youtube ID: 	vIC8cdnhaoA 
+Video length: 	441.0 sec 
+Set (V): 		dev 
+ 
+Paget_Brewster/vIC8cdnhaoA_0000001 248.0 258.4 
+Paget_Brewster/vIC8cdnhaoA_0000002 262.5 266.7 

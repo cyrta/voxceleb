@@ -1,0 +1,10 @@
+POI: 			Keri_Russell 
+Youtube ID: 	l8BJ0S6-qmE 
+Video length: 	569.7 sec 
+Set (V): 		dev 
+ 
+Keri_Russell/l8BJ0S6-qmE_0000001 62.6 74.7 
+Keri_Russell/l8BJ0S6-qmE_0000002 77.0 81.3 
+Keri_Russell/l8BJ0S6-qmE_0000003 86.4 92.8 
+Keri_Russell/l8BJ0S6-qmE_0000004 154.5 159.3 
+Keri_Russell/l8BJ0S6-qmE_0000005 410.2 415.0 

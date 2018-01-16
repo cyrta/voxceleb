@@ -1,0 +1,15 @@
+POI: 			John_Krasinski 
+Youtube ID: 	kEWbTHCSSwo 
+Video length: 	320.4 sec 
+Set (V): 		dev 
+ 
+John_Krasinski/kEWbTHCSSwo_0000001 22.6 40.0 
+John_Krasinski/kEWbTHCSSwo_0000002 43.4 52.3 
+John_Krasinski/kEWbTHCSSwo_0000003 54.5 73.0 
+John_Krasinski/kEWbTHCSSwo_0000004 77.1 94.4 
+John_Krasinski/kEWbTHCSSwo_0000005 102.0 135.4 
+John_Krasinski/kEWbTHCSSwo_0000006 136.4 143.7 
+John_Krasinski/kEWbTHCSSwo_0000007 164.7 203.8 
+John_Krasinski/kEWbTHCSSwo_0000008 208.7 242.1 
+John_Krasinski/kEWbTHCSSwo_0000009 252.2 276.8 
+John_Krasinski/kEWbTHCSSwo_0000010 298.3 311.4 

@@ -1,0 +1,10 @@
+POI: 			Jamie_Chung 
+Youtube ID: 	8ttqUUORBJs 
+Video length: 	222.1 sec 
+Set (V): 		dev 
+ 
+Jamie_Chung/8ttqUUORBJs_0000001 69.5 75.5 
+Jamie_Chung/8ttqUUORBJs_0000002 79.8 87.1 
+Jamie_Chung/8ttqUUORBJs_0000003 98.7 104.0 
+Jamie_Chung/8ttqUUORBJs_0000004 141.6 156.1 
+Jamie_Chung/8ttqUUORBJs_0000005 196.6 201.6 

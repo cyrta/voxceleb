@@ -1,0 +1,11 @@
+POI: 			Lorenza_Izzo 
+Youtube ID: 	HoMYVL4lVY4 
+Video length: 	264.9 sec 
+Set (V): 		dev 
+ 
+Lorenza_Izzo/HoMYVL4lVY4_0000001 93.3 103.0 
+Lorenza_Izzo/HoMYVL4lVY4_0000002 139.6 144.7 
+Lorenza_Izzo/HoMYVL4lVY4_0000003 150.1 159.3 
+Lorenza_Izzo/HoMYVL4lVY4_0000004 169.9 185.3 
+Lorenza_Izzo/HoMYVL4lVY4_0000005 188.6 199.8 
+Lorenza_Izzo/HoMYVL4lVY4_0000006 239.6 245.8 

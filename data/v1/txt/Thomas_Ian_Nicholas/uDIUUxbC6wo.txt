@@ -1,0 +1,12 @@
+POI: 			Thomas_Ian_Nicholas 
+Youtube ID: 	uDIUUxbC6wo 
+Video length: 	284.1 sec 
+Set (V): 		dev 
+ 
+Thomas_Ian_Nicholas/uDIUUxbC6wo_0000001 54.0 61.4 
+Thomas_Ian_Nicholas/uDIUUxbC6wo_0000002 79.2 105.3 
+Thomas_Ian_Nicholas/uDIUUxbC6wo_0000003 111.8 116.6 
+Thomas_Ian_Nicholas/uDIUUxbC6wo_0000004 117.1 132.0 
+Thomas_Ian_Nicholas/uDIUUxbC6wo_0000005 167.5 179.4 
+Thomas_Ian_Nicholas/uDIUUxbC6wo_0000006 191.7 204.0 
+Thomas_Ian_Nicholas/uDIUUxbC6wo_0000007 244.4 272.1 

@@ -1,0 +1,7 @@
+POI: 			Adam_Copeland 
+Youtube ID: 	L_Q9NL9H1wI 
+Video length: 	112.3 sec 
+Set (V): 		dev 
+ 
+Adam_Copeland/L_Q9NL9H1wI_0000001 26.8 32.2 
+Adam_Copeland/L_Q9NL9H1wI_0000002 81.8 89.2 

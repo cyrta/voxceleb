@@ -1,0 +1,9 @@
+POI: 			Aneurin_Barnard 
+Youtube ID: 	ewwS4FafxYM 
+Video length: 	376.8 sec 
+Set (V): 		dev 
+ 
+Aneurin_Barnard/ewwS4FafxYM_0000001 67.8 80.9 
+Aneurin_Barnard/ewwS4FafxYM_0000002 168.6 177.7 
+Aneurin_Barnard/ewwS4FafxYM_0000003 290.8 299.2 
+Aneurin_Barnard/ewwS4FafxYM_0000004 353.0 357.2 

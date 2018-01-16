@@ -1,0 +1,47 @@
+POI: 			Willem_Dafoe 
+Youtube ID: 	Rbl4PJ4Pbh0 
+Video length: 	966.3 sec 
+Set (V): 		dev 
+ 
+Willem_Dafoe/Rbl4PJ4Pbh0_0000001 87.8 92.2 
+Willem_Dafoe/Rbl4PJ4Pbh0_0000002 87.8 100.1 
+Willem_Dafoe/Rbl4PJ4Pbh0_0000003 115.0 125.3 
+Willem_Dafoe/Rbl4PJ4Pbh0_0000004 129.7 134.2 
+Willem_Dafoe/Rbl4PJ4Pbh0_0000005 142.5 162.8 
+Willem_Dafoe/Rbl4PJ4Pbh0_0000006 166.8 173.6 
+Willem_Dafoe/Rbl4PJ4Pbh0_0000007 174.5 179.8 
+Willem_Dafoe/Rbl4PJ4Pbh0_0000008 212.6 224.9 
+Willem_Dafoe/Rbl4PJ4Pbh0_0000009 226.8 231.2 
+Willem_Dafoe/Rbl4PJ4Pbh0_0000010 224.0 231.1 
+Willem_Dafoe/Rbl4PJ4Pbh0_0000011 242.8 251.1 
+Willem_Dafoe/Rbl4PJ4Pbh0_0000012 273.2 280.4 
+Willem_Dafoe/Rbl4PJ4Pbh0_0000013 281.8 293.5 
+Willem_Dafoe/Rbl4PJ4Pbh0_0000014 302.8 309.5 
+Willem_Dafoe/Rbl4PJ4Pbh0_0000015 320.8 331.7 
+Willem_Dafoe/Rbl4PJ4Pbh0_0000016 359.6 364.0 
+Willem_Dafoe/Rbl4PJ4Pbh0_0000017 364.8 376.8 
+Willem_Dafoe/Rbl4PJ4Pbh0_0000018 419.5 426.1 
+Willem_Dafoe/Rbl4PJ4Pbh0_0000019 432.0 437.1 
+Willem_Dafoe/Rbl4PJ4Pbh0_0000020 437.6 445.2 
+Willem_Dafoe/Rbl4PJ4Pbh0_0000021 450.0 454.2 
+Willem_Dafoe/Rbl4PJ4Pbh0_0000022 505.2 511.0 
+Willem_Dafoe/Rbl4PJ4Pbh0_0000023 515.8 521.2 
+Willem_Dafoe/Rbl4PJ4Pbh0_0000024 534.0 539.3 
+Willem_Dafoe/Rbl4PJ4Pbh0_0000025 540.6 547.4 
+Willem_Dafoe/Rbl4PJ4Pbh0_0000026 578.4 584.6 
+Willem_Dafoe/Rbl4PJ4Pbh0_0000027 585.2 603.4 
+Willem_Dafoe/Rbl4PJ4Pbh0_0000028 604.4 612.1 
+Willem_Dafoe/Rbl4PJ4Pbh0_0000029 644.4 650.5 
+Willem_Dafoe/Rbl4PJ4Pbh0_0000030 652.3 667.4 
+Willem_Dafoe/Rbl4PJ4Pbh0_0000031 667.9 679.2 
+Willem_Dafoe/Rbl4PJ4Pbh0_0000032 680.3 684.8 
+Willem_Dafoe/Rbl4PJ4Pbh0_0000033 690.8 697.3 
+Willem_Dafoe/Rbl4PJ4Pbh0_0000034 715.8 728.2 
+Willem_Dafoe/Rbl4PJ4Pbh0_0000035 768.2 776.2 
+Willem_Dafoe/Rbl4PJ4Pbh0_0000036 828.6 832.8 
+Willem_Dafoe/Rbl4PJ4Pbh0_0000037 840.6 871.7 
+Willem_Dafoe/Rbl4PJ4Pbh0_0000038 872.6 877.8 
+Willem_Dafoe/Rbl4PJ4Pbh0_0000039 878.8 883.9 
+Willem_Dafoe/Rbl4PJ4Pbh0_0000040 890.6 895.1 
+Willem_Dafoe/Rbl4PJ4Pbh0_0000041 903.0 922.6 
+Willem_Dafoe/Rbl4PJ4Pbh0_0000042 956.3 964.9 

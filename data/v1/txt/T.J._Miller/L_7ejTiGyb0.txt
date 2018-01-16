@@ -1,0 +1,8 @@
+POI: 			T.J._Miller 
+Youtube ID: 	L_7ejTiGyb0 
+Video length: 	370.8 sec 
+Set (V): 		dev 
+ 
+T.J._Miller/L_7ejTiGyb0_0000001 133.9 141.4 
+T.J._Miller/L_7ejTiGyb0_0000002 244.8 248.8 
+T.J._Miller/L_7ejTiGyb0_0000003 315.6 322.4 

@@ -1,0 +1,7 @@
+POI: 			Patrick_Fugit 
+Youtube ID: 	HPxZeDON3nQ 
+Video length: 	422.5 sec 
+Set (V): 		dev 
+ 
+Patrick_Fugit/HPxZeDON3nQ_0000001 30.4 34.6 
+Patrick_Fugit/HPxZeDON3nQ_0000002 361.8 366.1 

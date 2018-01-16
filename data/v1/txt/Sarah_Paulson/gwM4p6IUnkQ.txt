@@ -1,0 +1,24 @@
+POI: 			Sarah_Paulson 
+Youtube ID: 	gwM4p6IUnkQ 
+Video length: 	1003.5 sec 
+Set (V): 		dev 
+ 
+Sarah_Paulson/gwM4p6IUnkQ_0000001 141.1 145.3 
+Sarah_Paulson/gwM4p6IUnkQ_0000002 152.2 168.8 
+Sarah_Paulson/gwM4p6IUnkQ_0000003 198.4 217.9 
+Sarah_Paulson/gwM4p6IUnkQ_0000004 218.6 223.6 
+Sarah_Paulson/gwM4p6IUnkQ_0000005 272.6 278.8 
+Sarah_Paulson/gwM4p6IUnkQ_0000006 313.9 336.6 
+Sarah_Paulson/gwM4p6IUnkQ_0000007 353.9 358.8 
+Sarah_Paulson/gwM4p6IUnkQ_0000008 379.6 383.8 
+Sarah_Paulson/gwM4p6IUnkQ_0000009 404.6 419.9 
+Sarah_Paulson/gwM4p6IUnkQ_0000010 420.6 429.7 
+Sarah_Paulson/gwM4p6IUnkQ_0000011 485.5 508.6 
+Sarah_Paulson/gwM4p6IUnkQ_0000012 565.8 571.7 
+Sarah_Paulson/gwM4p6IUnkQ_0000013 603.4 623.6 
+Sarah_Paulson/gwM4p6IUnkQ_0000014 673.6 685.9 
+Sarah_Paulson/gwM4p6IUnkQ_0000015 776.5 780.9 
+Sarah_Paulson/gwM4p6IUnkQ_0000016 789.2 813.6 
+Sarah_Paulson/gwM4p6IUnkQ_0000017 821.8 832.2 
+Sarah_Paulson/gwM4p6IUnkQ_0000018 845.2 851.3 
+Sarah_Paulson/gwM4p6IUnkQ_0000019 915.0 919.2 

@@ -1,0 +1,8 @@
+POI: 			Burt_Reynolds 
+Youtube ID: 	5SVWfpyMHxk 
+Video length: 	1319.3 sec 
+Set (V): 		dev 
+ 
+Burt_Reynolds/5SVWfpyMHxk_0000001 479.6 483.6 
+Burt_Reynolds/5SVWfpyMHxk_0000002 520.5 525.6 
+Burt_Reynolds/5SVWfpyMHxk_0000003 1094.7 1099.0 

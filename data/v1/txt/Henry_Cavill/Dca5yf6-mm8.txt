@@ -1,0 +1,15 @@
+POI: 			Henry_Cavill 
+Youtube ID: 	Dca5yf6-mm8 
+Video length: 	554.2 sec 
+Set (V): 		dev 
+ 
+Henry_Cavill/Dca5yf6-mm8_0000001 65.5 70.8 
+Henry_Cavill/Dca5yf6-mm8_0000002 156.7 163.4 
+Henry_Cavill/Dca5yf6-mm8_0000003 163.7 169.0 
+Henry_Cavill/Dca5yf6-mm8_0000004 229.6 233.8 
+Henry_Cavill/Dca5yf6-mm8_0000005 238.1 242.4 
+Henry_Cavill/Dca5yf6-mm8_0000006 247.7 256.0 
+Henry_Cavill/Dca5yf6-mm8_0000007 324.5 332.6 
+Henry_Cavill/Dca5yf6-mm8_0000008 387.0 391.0 
+Henry_Cavill/Dca5yf6-mm8_0000009 391.2 406.0 
+Henry_Cavill/Dca5yf6-mm8_0000010 524.6 533.5 

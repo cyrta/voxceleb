@@ -1,0 +1,11 @@
+POI: 			Mamie_Gummer 
+Youtube ID: 	MqT6Ze3VdNM 
+Video length: 	378.1 sec 
+Set (V): 		dev 
+ 
+Mamie_Gummer/MqT6Ze3VdNM_0000001 77.5 82.2 
+Mamie_Gummer/MqT6Ze3VdNM_0000002 83.7 88.6 
+Mamie_Gummer/MqT6Ze3VdNM_0000003 100.4 107.8 
+Mamie_Gummer/MqT6Ze3VdNM_0000004 108.8 115.1 
+Mamie_Gummer/MqT6Ze3VdNM_0000005 129.0 138.6 
+Mamie_Gummer/MqT6Ze3VdNM_0000006 157.4 164.2 

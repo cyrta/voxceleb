@@ -1,0 +1,13 @@
+POI: 			Drake_Bell 
+Youtube ID: 	bsHsJvWiOlU 
+Video length: 	214.7 sec 
+Set (V): 		dev 
+ 
+Drake_Bell/bsHsJvWiOlU_0000001 37.1 45.9 
+Drake_Bell/bsHsJvWiOlU_0000002 53.1 62.8 
+Drake_Bell/bsHsJvWiOlU_0000003 63.3 70.2 
+Drake_Bell/bsHsJvWiOlU_0000004 70.9 76.4 
+Drake_Bell/bsHsJvWiOlU_0000005 94.0 98.1 
+Drake_Bell/bsHsJvWiOlU_0000006 105.0 111.1 
+Drake_Bell/bsHsJvWiOlU_0000007 112.6 117.5 
+Drake_Bell/bsHsJvWiOlU_0000008 119.0 139.0 

@@ -1,0 +1,32 @@
+POI: 			Timothy_Spall 
+Youtube ID: 	SZQMnzZ1gCs 
+Video length: 	1996.5 sec 
+Set (V): 		dev 
+ 
+Timothy_Spall/SZQMnzZ1gCs_0000001 141.0 145.5 
+Timothy_Spall/SZQMnzZ1gCs_0000002 154.2 162.6 
+Timothy_Spall/SZQMnzZ1gCs_0000003 201.6 212.6 
+Timothy_Spall/SZQMnzZ1gCs_0000004 217.7 227.3 
+Timothy_Spall/SZQMnzZ1gCs_0000005 201.4 210.7 
+Timothy_Spall/SZQMnzZ1gCs_0000006 287.9 294.5 
+Timothy_Spall/SZQMnzZ1gCs_0000007 296.2 307.0 
+Timothy_Spall/SZQMnzZ1gCs_0000008 311.4 319.8 
+Timothy_Spall/SZQMnzZ1gCs_0000009 287.9 295.0 
+Timothy_Spall/SZQMnzZ1gCs_0000010 295.3 312.2 
+Timothy_Spall/SZQMnzZ1gCs_0000011 440.0 444.2 
+Timothy_Spall/SZQMnzZ1gCs_0000012 509.8 519.8 
+Timothy_Spall/SZQMnzZ1gCs_0000013 566.1 570.5 
+Timothy_Spall/SZQMnzZ1gCs_0000014 591.1 596.8 
+Timothy_Spall/SZQMnzZ1gCs_0000015 598.7 604.8 
+Timothy_Spall/SZQMnzZ1gCs_0000016 1023.9 1027.9 
+Timothy_Spall/SZQMnzZ1gCs_0000017 1046.1 1052.4 
+Timothy_Spall/SZQMnzZ1gCs_0000018 1056.7 1065.5 
+Timothy_Spall/SZQMnzZ1gCs_0000019 1069.5 1076.5 
+Timothy_Spall/SZQMnzZ1gCs_0000020 1257.2 1262.8 
+Timothy_Spall/SZQMnzZ1gCs_0000021 1267.6 1288.2 
+Timothy_Spall/SZQMnzZ1gCs_0000022 1355.0 1363.6 
+Timothy_Spall/SZQMnzZ1gCs_0000023 1363.9 1371.3 
+Timothy_Spall/SZQMnzZ1gCs_0000024 1371.8 1376.0 
+Timothy_Spall/SZQMnzZ1gCs_0000025 1606.5 1610.6 
+Timothy_Spall/SZQMnzZ1gCs_0000026 1818.2 1829.9 
+Timothy_Spall/SZQMnzZ1gCs_0000027 1830.6 1843.8 

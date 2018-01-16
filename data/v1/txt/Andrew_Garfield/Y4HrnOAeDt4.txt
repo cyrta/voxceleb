@@ -1,0 +1,14 @@
+POI: 			Andrew_Garfield 
+Youtube ID: 	Y4HrnOAeDt4 
+Video length: 	295.6 sec 
+Set (V): 		dev 
+ 
+Andrew_Garfield/Y4HrnOAeDt4_0000001 109.4 114.7 
+Andrew_Garfield/Y4HrnOAeDt4_0000002 120.9 124.9 
+Andrew_Garfield/Y4HrnOAeDt4_0000003 154.8 163.0 
+Andrew_Garfield/Y4HrnOAeDt4_0000004 163.0 173.2 
+Andrew_Garfield/Y4HrnOAeDt4_0000005 176.8 183.4 
+Andrew_Garfield/Y4HrnOAeDt4_0000006 185.6 190.9 
+Andrew_Garfield/Y4HrnOAeDt4_0000007 230.3 234.9 
+Andrew_Garfield/Y4HrnOAeDt4_0000008 242.1 247.0 
+Andrew_Garfield/Y4HrnOAeDt4_0000009 264.0 268.1 

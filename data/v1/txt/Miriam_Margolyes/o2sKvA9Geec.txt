@@ -1,0 +1,23 @@
+POI: 			Miriam_Margolyes 
+Youtube ID: 	o2sKvA9Geec 
+Video length: 	243.6 sec 
+Set (V): 		dev 
+ 
+Miriam_Margolyes/o2sKvA9Geec_0000001 08.7 37.1 
+Miriam_Margolyes/o2sKvA9Geec_0000002 39.2 47.3 
+Miriam_Margolyes/o2sKvA9Geec_0000003 47.4 62.1 
+Miriam_Margolyes/o2sKvA9Geec_0000004 68.4 78.4 
+Miriam_Margolyes/o2sKvA9Geec_0000005 91.3 98.7 
+Miriam_Margolyes/o2sKvA9Geec_0000006 106.6 112.7 
+Miriam_Margolyes/o2sKvA9Geec_0000007 114.8 119.8 
+Miriam_Margolyes/o2sKvA9Geec_0000008 119.9 124.3 
+Miriam_Margolyes/o2sKvA9Geec_0000009 130.0 144.4 
+Miriam_Margolyes/o2sKvA9Geec_0000010 157.0 162.6 
+Miriam_Margolyes/o2sKvA9Geec_0000011 167.3 174.6 
+Miriam_Margolyes/o2sKvA9Geec_0000012 176.7 181.5 
+Miriam_Margolyes/o2sKvA9Geec_0000013 191.7 198.2 
+Miriam_Margolyes/o2sKvA9Geec_0000014 199.2 204.4 
+Miriam_Margolyes/o2sKvA9Geec_0000015 209.4 224.4 
+Miriam_Margolyes/o2sKvA9Geec_0000016 227.4 233.1 
+Miriam_Margolyes/o2sKvA9Geec_0000017 221.8 234.4 
+Miriam_Margolyes/o2sKvA9Geec_0000018 237.1 242.1 

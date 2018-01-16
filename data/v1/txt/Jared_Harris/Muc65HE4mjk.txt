@@ -1,0 +1,13 @@
+POI: 			Jared_Harris 
+Youtube ID: 	Muc65HE4mjk 
+Video length: 	251.9 sec 
+Set (V): 		dev 
+ 
+Jared_Harris/Muc65HE4mjk_0000001 37.5 44.3 
+Jared_Harris/Muc65HE4mjk_0000002 45.0 51.4 
+Jared_Harris/Muc65HE4mjk_0000003 54.9 71.6 
+Jared_Harris/Muc65HE4mjk_0000004 95.5 100.8 
+Jared_Harris/Muc65HE4mjk_0000005 107.5 115.4 
+Jared_Harris/Muc65HE4mjk_0000006 134.6 139.4 
+Jared_Harris/Muc65HE4mjk_0000007 173.3 178.0 
+Jared_Harris/Muc65HE4mjk_0000008 205.0 212.0 

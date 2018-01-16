@@ -1,0 +1,30 @@
+POI: 			Rowan_Atkinson 
+Youtube ID: 	1mdpz6lvZc0 
+Video length: 	1675.3 sec 
+Set (V): 		dev 
+ 
+Rowan_Atkinson/1mdpz6lvZc0_0000001 129.7 141.1 
+Rowan_Atkinson/1mdpz6lvZc0_0000002 224.7 233.0 
+Rowan_Atkinson/1mdpz6lvZc0_0000003 233.8 238.9 
+Rowan_Atkinson/1mdpz6lvZc0_0000004 239.6 243.6 
+Rowan_Atkinson/1mdpz6lvZc0_0000005 244.6 252.6 
+Rowan_Atkinson/1mdpz6lvZc0_0000006 258.4 264.1 
+Rowan_Atkinson/1mdpz6lvZc0_0000007 395.2 402.7 
+Rowan_Atkinson/1mdpz6lvZc0_0000008 410.4 415.2 
+Rowan_Atkinson/1mdpz6lvZc0_0000009 471.8 476.4 
+Rowan_Atkinson/1mdpz6lvZc0_0000010 476.6 482.0 
+Rowan_Atkinson/1mdpz6lvZc0_0000011 489.5 494.5 
+Rowan_Atkinson/1mdpz6lvZc0_0000012 499.9 506.5 
+Rowan_Atkinson/1mdpz6lvZc0_0000013 506.7 511.2 
+Rowan_Atkinson/1mdpz6lvZc0_0000014 526.3 531.6 
+Rowan_Atkinson/1mdpz6lvZc0_0000015 541.0 548.4 
+Rowan_Atkinson/1mdpz6lvZc0_0000016 609.7 614.2 
+Rowan_Atkinson/1mdpz6lvZc0_0000017 630.1 635.0 
+Rowan_Atkinson/1mdpz6lvZc0_0000018 646.3 651.3 
+Rowan_Atkinson/1mdpz6lvZc0_0000019 886.6 891.5 
+Rowan_Atkinson/1mdpz6lvZc0_0000020 1028.8 1034.2 
+Rowan_Atkinson/1mdpz6lvZc0_0000021 1264.0 1268.1 
+Rowan_Atkinson/1mdpz6lvZc0_0000022 1406.8 1412.9 
+Rowan_Atkinson/1mdpz6lvZc0_0000023 1455.1 1461.4 
+Rowan_Atkinson/1mdpz6lvZc0_0000024 1598.4 1604.0 
+Rowan_Atkinson/1mdpz6lvZc0_0000025 1609.2 1613.6 

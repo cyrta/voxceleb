@@ -1,0 +1,18 @@
+POI: 			Senta_Berger 
+Youtube ID: 	0inAstV8aBM 
+Video length: 	579.2 sec 
+Set (V): 		dev 
+ 
+Senta_Berger/0inAstV8aBM_0000001 247.2 270.7 
+Senta_Berger/0inAstV8aBM_0000002 237.2 244.0 
+Senta_Berger/0inAstV8aBM_0000003 313.1 332.4 
+Senta_Berger/0inAstV8aBM_0000004 337.8 348.1 
+Senta_Berger/0inAstV8aBM_0000005 350.0 363.4 
+Senta_Berger/0inAstV8aBM_0000006 388.4 398.4 
+Senta_Berger/0inAstV8aBM_0000007 408.4 417.4 
+Senta_Berger/0inAstV8aBM_0000008 452.1 459.0 
+Senta_Berger/0inAstV8aBM_0000009 460.0 464.3 
+Senta_Berger/0inAstV8aBM_0000010 477.4 495.5 
+Senta_Berger/0inAstV8aBM_0000011 497.3 505.5 
+Senta_Berger/0inAstV8aBM_0000012 546.8 551.7 
+Senta_Berger/0inAstV8aBM_0000013 557.9 574.4 

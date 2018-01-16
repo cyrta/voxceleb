@@ -1,0 +1,7 @@
+POI: 			Robbie_Amell 
+Youtube ID: 	3sAqA2xgVmQ 
+Video length: 	200.2 sec 
+Set (V): 		dev 
+ 
+Robbie_Amell/3sAqA2xgVmQ_0000001 37.8 43.1 
+Robbie_Amell/3sAqA2xgVmQ_0000002 78.0 82.3 

@@ -1,0 +1,8 @@
+POI: 			Malin_Akerman 
+Youtube ID: 	jOXc0BOahKg 
+Video length: 	277.7 sec 
+Set (V): 		dev 
+ 
+Malin_Akerman/jOXc0BOahKg_0000001 68.8 87.3 
+Malin_Akerman/jOXc0BOahKg_0000002 87.8 97.9 
+Malin_Akerman/jOXc0BOahKg_0000003 249.7 269.8 

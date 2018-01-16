@@ -1,0 +1,12 @@
+POI: 			Dominic_Cooper 
+Youtube ID: 	SRtnMcmt8-E 
+Video length: 	318.4 sec 
+Set (V): 		dev 
+ 
+Dominic_Cooper/SRtnMcmt8-E_0000001 71.8 87.2 
+Dominic_Cooper/SRtnMcmt8-E_0000002 90.9 102.9 
+Dominic_Cooper/SRtnMcmt8-E_0000003 103.2 112.7 
+Dominic_Cooper/SRtnMcmt8-E_0000004 113.2 124.8 
+Dominic_Cooper/SRtnMcmt8-E_0000005 124.9 131.9 
+Dominic_Cooper/SRtnMcmt8-E_0000006 133.4 149.0 
+Dominic_Cooper/SRtnMcmt8-E_0000007 151.4 159.2 

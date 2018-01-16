@@ -1,0 +1,8 @@
+POI: 			Julie_Gonzalo 
+Youtube ID: 	0XxG-RjEwRs 
+Video length: 	268.2 sec 
+Set (V): 		dev 
+ 
+Julie_Gonzalo/0XxG-RjEwRs_0000001 43.2 50.9 
+Julie_Gonzalo/0XxG-RjEwRs_0000002 113.6 117.8 
+Julie_Gonzalo/0XxG-RjEwRs_0000003 256.2 262.4 

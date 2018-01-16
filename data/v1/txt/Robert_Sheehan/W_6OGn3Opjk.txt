@@ -1,0 +1,15 @@
+POI: 			Robert_Sheehan 
+Youtube ID: 	W_6OGn3Opjk 
+Video length: 	212.6 sec 
+Set (V): 		dev 
+ 
+Robert_Sheehan/W_6OGn3Opjk_0000001 59.5 65.7 
+Robert_Sheehan/W_6OGn3Opjk_0000002 66.1 79.1 
+Robert_Sheehan/W_6OGn3Opjk_0000003 91.8 96.0 
+Robert_Sheehan/W_6OGn3Opjk_0000004 100.2 105.6 
+Robert_Sheehan/W_6OGn3Opjk_0000005 106.0 111.4 
+Robert_Sheehan/W_6OGn3Opjk_0000006 111.9 116.6 
+Robert_Sheehan/W_6OGn3Opjk_0000007 117.3 122.4 
+Robert_Sheehan/W_6OGn3Opjk_0000008 135.6 140.0 
+Robert_Sheehan/W_6OGn3Opjk_0000009 164.6 172.6 
+Robert_Sheehan/W_6OGn3Opjk_0000010 173.0 185.4 

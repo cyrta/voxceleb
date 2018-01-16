@@ -1,0 +1,11 @@
+POI: 			Dakota_Fanning 
+Youtube ID: 	UjuVzMEWOAU 
+Video length: 	941.1 sec 
+Set (V): 		dev 
+ 
+Dakota_Fanning/UjuVzMEWOAU_0000001 519.2 524.5 
+Dakota_Fanning/UjuVzMEWOAU_0000002 543.2 549.9 
+Dakota_Fanning/UjuVzMEWOAU_0000003 737.4 744.7 
+Dakota_Fanning/UjuVzMEWOAU_0000004 768.2 781.2 
+Dakota_Fanning/UjuVzMEWOAU_0000005 785.7 793.4 
+Dakota_Fanning/UjuVzMEWOAU_0000006 802.2 811.8 

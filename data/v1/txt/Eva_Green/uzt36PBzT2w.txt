@@ -1,0 +1,11 @@
+POI: 			Eva_Green 
+Youtube ID: 	uzt36PBzT2w 
+Video length: 	302.8 sec 
+Set (V): 		test 
+ 
+Eva_Green/uzt36PBzT2w_0000001 30.2 36.0 
+Eva_Green/uzt36PBzT2w_0000002 39.1 46.4 
+Eva_Green/uzt36PBzT2w_0000003 88.9 93.9 
+Eva_Green/uzt36PBzT2w_0000004 169.6 179.8 
+Eva_Green/uzt36PBzT2w_0000005 171.9 180.1 
+Eva_Green/uzt36PBzT2w_0000006 256.0 266.2 

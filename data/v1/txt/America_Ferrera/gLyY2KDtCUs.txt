@@ -1,0 +1,12 @@
+POI: 			America_Ferrera 
+Youtube ID: 	gLyY2KDtCUs 
+Video length: 	223.8 sec 
+Set (V): 		dev 
+ 
+America_Ferrera/gLyY2KDtCUs_0000001 19.6 27.6 
+America_Ferrera/gLyY2KDtCUs_0000002 79.6 84.7 
+America_Ferrera/gLyY2KDtCUs_0000003 100.1 106.9 
+America_Ferrera/gLyY2KDtCUs_0000004 117.8 122.9 
+America_Ferrera/gLyY2KDtCUs_0000005 158.6 164.0 
+America_Ferrera/gLyY2KDtCUs_0000006 209.0 213.5 
+America_Ferrera/gLyY2KDtCUs_0000007 213.6 221.2 

@@ -1,0 +1,7 @@
+POI: 			Howie_Mandel 
+Youtube ID: 	4tl3EBKeeEE 
+Video length: 	431.3 sec 
+Set (V): 		dev 
+ 
+Howie_Mandel/4tl3EBKeeEE_0000001 229.9 236.2 
+Howie_Mandel/4tl3EBKeeEE_0000002 363.7 367.7 

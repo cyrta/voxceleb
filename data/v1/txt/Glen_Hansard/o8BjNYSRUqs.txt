@@ -1,0 +1,22 @@
+POI: 			Glen_Hansard 
+Youtube ID: 	o8BjNYSRUqs 
+Video length: 	403.5 sec 
+Set (V): 		dev 
+ 
+Glen_Hansard/o8BjNYSRUqs_0000001 53.3 59.8 
+Glen_Hansard/o8BjNYSRUqs_0000002 66.8 70.8 
+Glen_Hansard/o8BjNYSRUqs_0000003 79.5 84.2 
+Glen_Hansard/o8BjNYSRUqs_0000004 93.8 106.4 
+Glen_Hansard/o8BjNYSRUqs_0000005 108.7 126.6 
+Glen_Hansard/o8BjNYSRUqs_0000006 148.8 154.1 
+Glen_Hansard/o8BjNYSRUqs_0000007 156.2 162.1 
+Glen_Hansard/o8BjNYSRUqs_0000008 171.6 177.0 
+Glen_Hansard/o8BjNYSRUqs_0000009 214.4 222.2 
+Glen_Hansard/o8BjNYSRUqs_0000010 225.8 230.4 
+Glen_Hansard/o8BjNYSRUqs_0000011 231.8 240.0 
+Glen_Hansard/o8BjNYSRUqs_0000012 243.6 251.7 
+Glen_Hansard/o8BjNYSRUqs_0000013 269.7 276.6 
+Glen_Hansard/o8BjNYSRUqs_0000014 277.2 281.5 
+Glen_Hansard/o8BjNYSRUqs_0000015 328.2 333.6 
+Glen_Hansard/o8BjNYSRUqs_0000016 342.5 347.7 
+Glen_Hansard/o8BjNYSRUqs_0000017 353.4 358.7 

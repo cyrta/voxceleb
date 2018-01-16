@@ -1,0 +1,8 @@
+POI: 			Miranda_Lambert 
+Youtube ID: 	r1-0LTCRTd4 
+Video length: 	149.2 sec 
+Set (V): 		dev 
+ 
+Miranda_Lambert/r1-0LTCRTd4_0000001 10.5 19.6 
+Miranda_Lambert/r1-0LTCRTd4_0000002 21.8 32.1 
+Miranda_Lambert/r1-0LTCRTd4_0000003 111.5 117.0 

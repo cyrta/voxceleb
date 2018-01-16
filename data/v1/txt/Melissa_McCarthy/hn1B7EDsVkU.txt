@@ -1,0 +1,10 @@
+POI: 			Melissa_McCarthy 
+Youtube ID: 	hn1B7EDsVkU 
+Video length: 	368.5 sec 
+Set (V): 		dev 
+ 
+Melissa_McCarthy/hn1B7EDsVkU_0000001 18.3 23.0 
+Melissa_McCarthy/hn1B7EDsVkU_0000002 69.0 79.6 
+Melissa_McCarthy/hn1B7EDsVkU_0000003 82.6 88.2 
+Melissa_McCarthy/hn1B7EDsVkU_0000004 80.6 91.2 
+Melissa_McCarthy/hn1B7EDsVkU_0000005 98.1 104.2 

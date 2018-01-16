@@ -1,0 +1,39 @@
+POI: 			Pooja_Kumar 
+Youtube ID: 	n7_p5G5jcOA 
+Video length: 	581.9 sec 
+Set (V): 		dev 
+ 
+Pooja_Kumar/n7_p5G5jcOA_0000001 30.2 34.1 
+Pooja_Kumar/n7_p5G5jcOA_0000002 35.0 39.0 
+Pooja_Kumar/n7_p5G5jcOA_0000003 40.5 59.6 
+Pooja_Kumar/n7_p5G5jcOA_0000004 61.0 68.0 
+Pooja_Kumar/n7_p5G5jcOA_0000005 68.3 73.9 
+Pooja_Kumar/n7_p5G5jcOA_0000006 93.4 98.6 
+Pooja_Kumar/n7_p5G5jcOA_0000007 107.0 112.2 
+Pooja_Kumar/n7_p5G5jcOA_0000008 113.0 118.0 
+Pooja_Kumar/n7_p5G5jcOA_0000009 131.9 136.0 
+Pooja_Kumar/n7_p5G5jcOA_0000010 141.6 146.4 
+Pooja_Kumar/n7_p5G5jcOA_0000011 162.3 179.4 
+Pooja_Kumar/n7_p5G5jcOA_0000012 181.0 198.6 
+Pooja_Kumar/n7_p5G5jcOA_0000013 199.2 209.1 
+Pooja_Kumar/n7_p5G5jcOA_0000014 211.0 219.4 
+Pooja_Kumar/n7_p5G5jcOA_0000015 256.8 264.0 
+Pooja_Kumar/n7_p5G5jcOA_0000016 266.9 271.3 
+Pooja_Kumar/n7_p5G5jcOA_0000017 272.6 281.1 
+Pooja_Kumar/n7_p5G5jcOA_0000018 281.7 294.9 
+Pooja_Kumar/n7_p5G5jcOA_0000019 295.1 306.0 
+Pooja_Kumar/n7_p5G5jcOA_0000020 306.7 313.4 
+Pooja_Kumar/n7_p5G5jcOA_0000021 316.2 327.4 
+Pooja_Kumar/n7_p5G5jcOA_0000022 353.4 363.8 
+Pooja_Kumar/n7_p5G5jcOA_0000023 368.6 372.7 
+Pooja_Kumar/n7_p5G5jcOA_0000024 399.4 403.4 
+Pooja_Kumar/n7_p5G5jcOA_0000025 410.4 414.7 
+Pooja_Kumar/n7_p5G5jcOA_0000026 425.9 432.2 
+Pooja_Kumar/n7_p5G5jcOA_0000027 433.5 447.9 
+Pooja_Kumar/n7_p5G5jcOA_0000028 449.7 454.8 
+Pooja_Kumar/n7_p5G5jcOA_0000029 455.6 473.7 
+Pooja_Kumar/n7_p5G5jcOA_0000030 476.4 488.0 
+Pooja_Kumar/n7_p5G5jcOA_0000031 495.0 499.3 
+Pooja_Kumar/n7_p5G5jcOA_0000032 501.2 508.5 
+Pooja_Kumar/n7_p5G5jcOA_0000033 524.2 536.2 
+Pooja_Kumar/n7_p5G5jcOA_0000034 538.0 546.1 

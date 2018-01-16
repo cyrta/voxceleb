@@ -1,0 +1,14 @@
+POI: 			Marion_Cotillard 
+Youtube ID: 	qsP9PWRq980 
+Video length: 	397.8 sec 
+Set (V): 		dev 
+ 
+Marion_Cotillard/qsP9PWRq980_0000001 143.4 157.0 
+Marion_Cotillard/qsP9PWRq980_0000002 163.7 173.2 
+Marion_Cotillard/qsP9PWRq980_0000003 174.4 186.3 
+Marion_Cotillard/qsP9PWRq980_0000004 187.2 196.0 
+Marion_Cotillard/qsP9PWRq980_0000005 196.7 211.6 
+Marion_Cotillard/qsP9PWRq980_0000006 217.6 225.8 
+Marion_Cotillard/qsP9PWRq980_0000007 303.8 308.1 
+Marion_Cotillard/qsP9PWRq980_0000008 317.0 322.4 
+Marion_Cotillard/qsP9PWRq980_0000009 334.8 339.2 

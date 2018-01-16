@@ -1,0 +1,10 @@
+POI: 			Wilson_Cruz 
+Youtube ID: 	6gtjKDfYatI 
+Video length: 	132.3 sec 
+Set (V): 		dev 
+ 
+Wilson_Cruz/6gtjKDfYatI_0000001 19.3 34.2 
+Wilson_Cruz/6gtjKDfYatI_0000002 38.5 46.8 
+Wilson_Cruz/6gtjKDfYatI_0000003 88.0 98.9 
+Wilson_Cruz/6gtjKDfYatI_0000004 99.0 105.6 
+Wilson_Cruz/6gtjKDfYatI_0000005 115.3 120.0 

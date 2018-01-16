@@ -1,0 +1,9 @@
+POI: 			Bruno_Ganz 
+Youtube ID: 	Ygc-gf_kkoI 
+Video length: 	388.6 sec 
+Set (V): 		dev 
+ 
+Bruno_Ganz/Ygc-gf_kkoI_0000001 70.9 77.1 
+Bruno_Ganz/Ygc-gf_kkoI_0000002 77.2 90.3 
+Bruno_Ganz/Ygc-gf_kkoI_0000003 93.9 99.6 
+Bruno_Ganz/Ygc-gf_kkoI_0000004 303.7 308.7 

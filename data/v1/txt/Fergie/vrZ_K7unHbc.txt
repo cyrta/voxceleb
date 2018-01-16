@@ -1,0 +1,7 @@
+POI: 			Fergie 
+Youtube ID: 	vrZ_K7unHbc 
+Video length: 	139.9 sec 
+Set (V): 		dev 
+ 
+Fergie/vrZ_K7unHbc_0000001 115.8 120.4 
+Fergie/vrZ_K7unHbc_0000002 122.9 131.7 

@@ -1,0 +1,8 @@
+POI: 			Margo_Martindale 
+Youtube ID: 	pn18UPalykE 
+Video length: 	144.6 sec 
+Set (V): 		dev 
+ 
+Margo_Martindale/pn18UPalykE_0000001 23.7 31.7 
+Margo_Martindale/pn18UPalykE_0000002 68.4 83.4 
+Margo_Martindale/pn18UPalykE_0000003 123.5 135.3 

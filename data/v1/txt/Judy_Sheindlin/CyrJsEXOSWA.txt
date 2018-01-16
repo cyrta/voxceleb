@@ -1,0 +1,10 @@
+POI: 			Judy_Sheindlin 
+Youtube ID: 	CyrJsEXOSWA 
+Video length: 	85.9 sec 
+Set (V): 		dev 
+ 
+Judy_Sheindlin/CyrJsEXOSWA_0000001 09.3 16.0 
+Judy_Sheindlin/CyrJsEXOSWA_0000002 17.0 22.0 
+Judy_Sheindlin/CyrJsEXOSWA_0000003 22.5 27.6 
+Judy_Sheindlin/CyrJsEXOSWA_0000004 38.5 53.9 
+Judy_Sheindlin/CyrJsEXOSWA_0000005 56.4 78.4 

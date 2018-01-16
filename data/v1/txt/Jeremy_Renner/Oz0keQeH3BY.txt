@@ -1,0 +1,9 @@
+POI: 			Jeremy_Renner 
+Youtube ID: 	Oz0keQeH3BY 
+Video length: 	185.7 sec 
+Set (V): 		dev 
+ 
+Jeremy_Renner/Oz0keQeH3BY_0000001 12.8 23.3 
+Jeremy_Renner/Oz0keQeH3BY_0000002 26.2 30.8 
+Jeremy_Renner/Oz0keQeH3BY_0000003 38.2 44.4 
+Jeremy_Renner/Oz0keQeH3BY_0000004 142.4 149.6 

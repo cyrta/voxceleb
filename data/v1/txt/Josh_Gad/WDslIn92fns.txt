@@ -1,0 +1,8 @@
+POI: 			Josh_Gad 
+Youtube ID: 	WDslIn92fns 
+Video length: 	85.8 sec 
+Set (V): 		dev 
+ 
+Josh_Gad/WDslIn92fns_0000001 29.1 34.6 
+Josh_Gad/WDslIn92fns_0000002 35.2 47.4 
+Josh_Gad/WDslIn92fns_0000003 62.3 78.2 

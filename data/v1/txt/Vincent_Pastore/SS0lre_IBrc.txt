@@ -1,0 +1,9 @@
+POI: 			Vincent_Pastore 
+Youtube ID: 	SS0lre_IBrc 
+Video length: 	292.0 sec 
+Set (V): 		dev 
+ 
+Vincent_Pastore/SS0lre_IBrc_0000001 49.9 54.2 
+Vincent_Pastore/SS0lre_IBrc_0000002 136.4 144.6 
+Vincent_Pastore/SS0lre_IBrc_0000003 138.1 148.0 
+Vincent_Pastore/SS0lre_IBrc_0000004 232.4 236.5 

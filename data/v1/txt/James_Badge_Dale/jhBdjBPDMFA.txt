@@ -1,0 +1,9 @@
+POI: 			James_Badge_Dale 
+Youtube ID: 	jhBdjBPDMFA 
+Video length: 	284.5 sec 
+Set (V): 		dev 
+ 
+James_Badge_Dale/jhBdjBPDMFA_0000001 128.8 136.1 
+James_Badge_Dale/jhBdjBPDMFA_0000002 178.8 185.3 
+James_Badge_Dale/jhBdjBPDMFA_0000003 190.7 196.0 
+James_Badge_Dale/jhBdjBPDMFA_0000004 263.6 270.2 

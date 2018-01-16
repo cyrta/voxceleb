@@ -1,0 +1,13 @@
+POI: 			Danny_McBride 
+Youtube ID: 	OCxepEwMOAY 
+Video length: 	631.0 sec 
+Set (V): 		dev 
+ 
+Danny_McBride/OCxepEwMOAY_0000001 111.0 125.0 
+Danny_McBride/OCxepEwMOAY_0000002 132.9 136.9 
+Danny_McBride/OCxepEwMOAY_0000003 138.3 144.0 
+Danny_McBride/OCxepEwMOAY_0000004 145.7 151.4 
+Danny_McBride/OCxepEwMOAY_0000005 231.0 235.2 
+Danny_McBride/OCxepEwMOAY_0000006 250.4 255.9 
+Danny_McBride/OCxepEwMOAY_0000007 362.7 367.8 
+Danny_McBride/OCxepEwMOAY_0000008 443.2 450.4 

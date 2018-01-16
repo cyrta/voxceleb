@@ -1,0 +1,13 @@
+POI: 			Retta 
+Youtube ID: 	QcH8mqH9M_A 
+Video length: 	258.9 sec 
+Set (V): 		dev 
+ 
+Retta/QcH8mqH9M_A_0000001 20.9 31.5 
+Retta/QcH8mqH9M_A_0000002 55.6 61.2 
+Retta/QcH8mqH9M_A_0000003 92.0 97.1 
+Retta/QcH8mqH9M_A_0000004 98.5 109.4 
+Retta/QcH8mqH9M_A_0000005 114.4 118.8 
+Retta/QcH8mqH9M_A_0000006 152.3 162.5 
+Retta/QcH8mqH9M_A_0000007 191.0 195.8 
+Retta/QcH8mqH9M_A_0000008 226.2 232.3 

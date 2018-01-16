@@ -1,0 +1,20 @@
+POI: 			Lauryn_Hill 
+Youtube ID: 	zJesyqD9Dx8 
+Video length: 	738.4 sec 
+Set (V): 		dev 
+ 
+Lauryn_Hill/zJesyqD9Dx8_0000001 240.3 248.2 
+Lauryn_Hill/zJesyqD9Dx8_0000002 249.0 254.8 
+Lauryn_Hill/zJesyqD9Dx8_0000003 301.0 306.8 
+Lauryn_Hill/zJesyqD9Dx8_0000004 315.0 331.2 
+Lauryn_Hill/zJesyqD9Dx8_0000005 349.5 353.6 
+Lauryn_Hill/zJesyqD9Dx8_0000006 370.1 375.4 
+Lauryn_Hill/zJesyqD9Dx8_0000007 381.3 394.9 
+Lauryn_Hill/zJesyqD9Dx8_0000008 399.2 404.4 
+Lauryn_Hill/zJesyqD9Dx8_0000009 408.0 412.6 
+Lauryn_Hill/zJesyqD9Dx8_0000010 413.1 417.8 
+Lauryn_Hill/zJesyqD9Dx8_0000011 444.2 453.9 
+Lauryn_Hill/zJesyqD9Dx8_0000012 455.3 463.6 
+Lauryn_Hill/zJesyqD9Dx8_0000013 669.5 674.2 
+Lauryn_Hill/zJesyqD9Dx8_0000014 693.2 697.6 
+Lauryn_Hill/zJesyqD9Dx8_0000015 708.5 715.7 

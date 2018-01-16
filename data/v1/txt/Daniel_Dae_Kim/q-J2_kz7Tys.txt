@@ -1,0 +1,11 @@
+POI: 			Daniel_Dae_Kim 
+Youtube ID: 	q-J2_kz7Tys 
+Video length: 	257.4 sec 
+Set (V): 		dev 
+ 
+Daniel_Dae_Kim/q-J2_kz7Tys_0000001 73.6 80.3 
+Daniel_Dae_Kim/q-J2_kz7Tys_0000002 119.6 131.4 
+Daniel_Dae_Kim/q-J2_kz7Tys_0000003 163.6 167.6 
+Daniel_Dae_Kim/q-J2_kz7Tys_0000004 184.9 190.4 
+Daniel_Dae_Kim/q-J2_kz7Tys_0000005 208.5 212.5 
+Daniel_Dae_Kim/q-J2_kz7Tys_0000006 225.8 230.3 

@@ -1,0 +1,10 @@
+POI: 			Martin_Kove 
+Youtube ID: 	e-hFJNcfoTY 
+Video length: 	259.2 sec 
+Set (V): 		dev 
+ 
+Martin_Kove/e-hFJNcfoTY_0000001 94.0 101.6 
+Martin_Kove/e-hFJNcfoTY_0000002 151.5 155.8 
+Martin_Kove/e-hFJNcfoTY_0000003 177.0 196.6 
+Martin_Kove/e-hFJNcfoTY_0000004 200.4 206.3 
+Martin_Kove/e-hFJNcfoTY_0000005 214.4 219.5 

@@ -1,0 +1,11 @@
+POI: 			Jack_Griffo 
+Youtube ID: 	hXcmxZy9iRM 
+Video length: 	122.8 sec 
+Set (V): 		dev 
+ 
+Jack_Griffo/hXcmxZy9iRM_0000001 02.9 07.8 
+Jack_Griffo/hXcmxZy9iRM_0000002 13.0 21.4 
+Jack_Griffo/hXcmxZy9iRM_0000003 33.4 38.9 
+Jack_Griffo/hXcmxZy9iRM_0000004 22.4 28.1 
+Jack_Griffo/hXcmxZy9iRM_0000005 82.0 89.4 
+Jack_Griffo/hXcmxZy9iRM_0000006 103.9 113.7 

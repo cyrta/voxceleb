@@ -1,0 +1,12 @@
+POI: 			Donna_Murphy 
+Youtube ID: 	P9N2VSjq77c 
+Video length: 	425.6 sec 
+Set (V): 		dev 
+ 
+Donna_Murphy/P9N2VSjq77c_0000001 150.9 158.1 
+Donna_Murphy/P9N2VSjq77c_0000002 165.9 172.4 
+Donna_Murphy/P9N2VSjq77c_0000003 173.3 179.6 
+Donna_Murphy/P9N2VSjq77c_0000004 211.8 217.5 
+Donna_Murphy/P9N2VSjq77c_0000005 256.0 265.9 
+Donna_Murphy/P9N2VSjq77c_0000006 268.2 273.2 
+Donna_Murphy/P9N2VSjq77c_0000007 362.1 370.6 

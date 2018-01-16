@@ -1,0 +1,8 @@
+POI: 			Natalie_Martinez 
+Youtube ID: 	33F5P7JG9HA 
+Video length: 	247.6 sec 
+Set (V): 		dev 
+ 
+Natalie_Martinez/33F5P7JG9HA_0000001 104.9 110.0 
+Natalie_Martinez/33F5P7JG9HA_0000002 130.2 137.1 
+Natalie_Martinez/33F5P7JG9HA_0000003 139.2 148.9 

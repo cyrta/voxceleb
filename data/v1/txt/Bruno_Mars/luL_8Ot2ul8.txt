@@ -1,0 +1,9 @@
+POI: 			Bruno_Mars 
+Youtube ID: 	luL_8Ot2ul8 
+Video length: 	726.9 sec 
+Set (V): 		dev 
+ 
+Bruno_Mars/luL_8Ot2ul8_0000001 159.6 166.0 
+Bruno_Mars/luL_8Ot2ul8_0000002 169.9 176.8 
+Bruno_Mars/luL_8Ot2ul8_0000003 234.2 238.2 
+Bruno_Mars/luL_8Ot2ul8_0000004 682.2 690.0 

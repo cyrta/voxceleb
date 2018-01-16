@@ -1,0 +1,10 @@
+POI: 			Alain_Delon 
+Youtube ID: 	ABpVMOt0WEE 
+Video length: 	294.1 sec 
+Set (V): 		dev 
+ 
+Alain_Delon/ABpVMOt0WEE_0000001 25.7 32.6 
+Alain_Delon/ABpVMOt0WEE_0000002 38.8 43.1 
+Alain_Delon/ABpVMOt0WEE_0000003 180.3 187.8 
+Alain_Delon/ABpVMOt0WEE_0000004 193.4 200.0 
+Alain_Delon/ABpVMOt0WEE_0000005 209.8 218.8 

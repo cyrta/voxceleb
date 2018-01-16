@@ -1,0 +1,7 @@
+POI: 			Thomas_Lennon 
+Youtube ID: 	pPU5xDgiYt8 
+Video length: 	308.5 sec 
+Set (V): 		dev 
+ 
+Thomas_Lennon/pPU5xDgiYt8_0000001 17.0 21.9 
+Thomas_Lennon/pPU5xDgiYt8_0000002 195.2 199.7 

@@ -1,0 +1,18 @@
+POI: 			Phyllis_Diller 
+Youtube ID: 	Ma0FbWLSOcU 
+Video length: 	742.3 sec 
+Set (V): 		dev 
+ 
+Phyllis_Diller/Ma0FbWLSOcU_0000001 125.5 131.6 
+Phyllis_Diller/Ma0FbWLSOcU_0000002 154.0 163.8 
+Phyllis_Diller/Ma0FbWLSOcU_0000003 230.1 243.1 
+Phyllis_Diller/Ma0FbWLSOcU_0000004 254.5 259.5 
+Phyllis_Diller/Ma0FbWLSOcU_0000005 290.3 295.8 
+Phyllis_Diller/Ma0FbWLSOcU_0000006 307.6 311.7 
+Phyllis_Diller/Ma0FbWLSOcU_0000007 351.8 356.5 
+Phyllis_Diller/Ma0FbWLSOcU_0000008 410.2 414.2 
+Phyllis_Diller/Ma0FbWLSOcU_0000009 452.6 460.5 
+Phyllis_Diller/Ma0FbWLSOcU_0000010 490.3 494.3 
+Phyllis_Diller/Ma0FbWLSOcU_0000011 555.2 570.4 
+Phyllis_Diller/Ma0FbWLSOcU_0000012 571.5 580.6 
+Phyllis_Diller/Ma0FbWLSOcU_0000013 650.3 658.6 

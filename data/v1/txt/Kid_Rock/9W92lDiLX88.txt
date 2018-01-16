@@ -1,0 +1,7 @@
+POI: 			Kid_Rock 
+Youtube ID: 	9W92lDiLX88 
+Video length: 	53.4 sec 
+Set (V): 		dev 
+ 
+Kid_Rock/9W92lDiLX88_0000001 18.1 23.0 
+Kid_Rock/9W92lDiLX88_0000002 38.8 46.9 

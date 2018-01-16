@@ -1,0 +1,13 @@
+POI: 			Shahid_Kapoor 
+Youtube ID: 	4uDtI4bTDbQ 
+Video length: 	1082.2 sec 
+Set (V): 		dev 
+ 
+Shahid_Kapoor/4uDtI4bTDbQ_0000001 101.9 106.2 
+Shahid_Kapoor/4uDtI4bTDbQ_0000002 274.9 280.4 
+Shahid_Kapoor/4uDtI4bTDbQ_0000003 307.2 315.4 
+Shahid_Kapoor/4uDtI4bTDbQ_0000004 509.5 513.5 
+Shahid_Kapoor/4uDtI4bTDbQ_0000005 536.1 540.1 
+Shahid_Kapoor/4uDtI4bTDbQ_0000006 563.4 568.8 
+Shahid_Kapoor/4uDtI4bTDbQ_0000007 571.1 582.8 
+Shahid_Kapoor/4uDtI4bTDbQ_0000008 708.5 716.4 

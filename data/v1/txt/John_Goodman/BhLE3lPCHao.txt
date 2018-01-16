@@ -1,0 +1,10 @@
+POI: 			John_Goodman 
+Youtube ID: 	BhLE3lPCHao 
+Video length: 	423.3 sec 
+Set (V): 		dev 
+ 
+John_Goodman/BhLE3lPCHao_0000001 95.6 99.6 
+John_Goodman/BhLE3lPCHao_0000002 157.8 163.8 
+John_Goodman/BhLE3lPCHao_0000003 290.2 296.6 
+John_Goodman/BhLE3lPCHao_0000004 337.4 342.5 
+John_Goodman/BhLE3lPCHao_0000005 364.8 373.3 

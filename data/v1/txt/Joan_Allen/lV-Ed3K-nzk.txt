@@ -1,0 +1,13 @@
+POI: 			Joan_Allen 
+Youtube ID: 	lV-Ed3K-nzk 
+Video length: 	260.6 sec 
+Set (V): 		dev 
+ 
+Joan_Allen/lV-Ed3K-nzk_0000001 46.6 64.3 
+Joan_Allen/lV-Ed3K-nzk_0000002 64.9 74.5 
+Joan_Allen/lV-Ed3K-nzk_0000003 90.9 102.2 
+Joan_Allen/lV-Ed3K-nzk_0000004 106.8 111.3 
+Joan_Allen/lV-Ed3K-nzk_0000005 154.0 165.5 
+Joan_Allen/lV-Ed3K-nzk_0000006 170.2 194.4 
+Joan_Allen/lV-Ed3K-nzk_0000007 210.3 219.7 
+Joan_Allen/lV-Ed3K-nzk_0000008 227.6 251.2 

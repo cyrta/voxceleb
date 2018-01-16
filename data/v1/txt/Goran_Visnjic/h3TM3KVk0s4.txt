@@ -1,0 +1,13 @@
+POI: 			Goran_Visnjic 
+Youtube ID: 	h3TM3KVk0s4 
+Video length: 	298.4 sec 
+Set (V): 		dev 
+ 
+Goran_Visnjic/h3TM3KVk0s4_0000001 06.4 12.2 
+Goran_Visnjic/h3TM3KVk0s4_0000002 46.2 52.4 
+Goran_Visnjic/h3TM3KVk0s4_0000003 100.0 104.8 
+Goran_Visnjic/h3TM3KVk0s4_0000004 128.3 143.1 
+Goran_Visnjic/h3TM3KVk0s4_0000005 196.4 203.1 
+Goran_Visnjic/h3TM3KVk0s4_0000006 229.3 237.8 
+Goran_Visnjic/h3TM3KVk0s4_0000007 253.1 262.3 
+Goran_Visnjic/h3TM3KVk0s4_0000008 272.6 285.2 

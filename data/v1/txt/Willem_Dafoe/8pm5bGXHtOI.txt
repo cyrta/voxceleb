@@ -1,0 +1,8 @@
+POI: 			Willem_Dafoe 
+Youtube ID: 	8pm5bGXHtOI 
+Video length: 	42.3 sec 
+Set (V): 		dev 
+ 
+Willem_Dafoe/8pm5bGXHtOI_0000001 05.1 11.0 
+Willem_Dafoe/8pm5bGXHtOI_0000002 23.9 28.0 
+Willem_Dafoe/8pm5bGXHtOI_0000003 31.5 38.3 

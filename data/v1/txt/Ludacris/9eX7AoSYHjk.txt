@@ -1,0 +1,8 @@
+POI: 			Ludacris 
+Youtube ID: 	9eX7AoSYHjk 
+Video length: 	357.5 sec 
+Set (V): 		dev 
+ 
+Ludacris/9eX7AoSYHjk_0000001 109.9 117.0 
+Ludacris/9eX7AoSYHjk_0000002 132.3 141.8 
+Ludacris/9eX7AoSYHjk_0000003 189.0 193.8 

@@ -1,0 +1,17 @@
+POI: 			Chloe_Dykstra 
+Youtube ID: 	nxA7v53vvMQ 
+Video length: 	165.5 sec 
+Set (V): 		dev 
+ 
+Chloe_Dykstra/nxA7v53vvMQ_0000001 08.1 21.7 
+Chloe_Dykstra/nxA7v53vvMQ_0000002 23.8 31.4 
+Chloe_Dykstra/nxA7v53vvMQ_0000003 34.5 44.8 
+Chloe_Dykstra/nxA7v53vvMQ_0000004 47.0 51.6 
+Chloe_Dykstra/nxA7v53vvMQ_0000005 53.7 68.6 
+Chloe_Dykstra/nxA7v53vvMQ_0000006 81.1 87.0 
+Chloe_Dykstra/nxA7v53vvMQ_0000007 89.0 94.9 
+Chloe_Dykstra/nxA7v53vvMQ_0000008 97.0 101.1 
+Chloe_Dykstra/nxA7v53vvMQ_0000009 106.0 115.1 
+Chloe_Dykstra/nxA7v53vvMQ_0000010 117.3 130.8 
+Chloe_Dykstra/nxA7v53vvMQ_0000011 141.2 149.9 
+Chloe_Dykstra/nxA7v53vvMQ_0000012 150.8 155.8 

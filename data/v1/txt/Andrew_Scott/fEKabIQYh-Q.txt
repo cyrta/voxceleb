@@ -1,0 +1,19 @@
+POI: 			Andrew_Scott 
+Youtube ID: 	fEKabIQYh-Q 
+Video length: 	574.6 sec 
+Set (V): 		dev 
+ 
+Andrew_Scott/fEKabIQYh-Q_0000001 56.3 67.2 
+Andrew_Scott/fEKabIQYh-Q_0000002 90.7 95.1 
+Andrew_Scott/fEKabIQYh-Q_0000003 159.3 166.6 
+Andrew_Scott/fEKabIQYh-Q_0000004 170.6 175.5 
+Andrew_Scott/fEKabIQYh-Q_0000005 240.5 244.8 
+Andrew_Scott/fEKabIQYh-Q_0000006 299.2 304.6 
+Andrew_Scott/fEKabIQYh-Q_0000007 307.8 320.0 
+Andrew_Scott/fEKabIQYh-Q_0000008 349.0 360.2 
+Andrew_Scott/fEKabIQYh-Q_0000009 366.4 374.1 
+Andrew_Scott/fEKabIQYh-Q_0000010 386.4 390.8 
+Andrew_Scott/fEKabIQYh-Q_0000011 509.8 515.5 
+Andrew_Scott/fEKabIQYh-Q_0000012 537.0 541.9 
+Andrew_Scott/fEKabIQYh-Q_0000013 551.4 559.4 
+Andrew_Scott/fEKabIQYh-Q_0000014 562.1 570.5 

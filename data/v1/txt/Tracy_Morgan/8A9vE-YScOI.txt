@@ -1,0 +1,8 @@
+POI: 			Tracy_Morgan 
+Youtube ID: 	8A9vE-YScOI 
+Video length: 	271.6 sec 
+Set (V): 		dev 
+ 
+Tracy_Morgan/8A9vE-YScOI_0000001 60.9 70.6 
+Tracy_Morgan/8A9vE-YScOI_0000002 163.5 168.8 
+Tracy_Morgan/8A9vE-YScOI_0000003 169.2 173.4 

@@ -1,0 +1,7 @@
+POI: 			Burt_Reynolds 
+Youtube ID: 	u3dTLhCa5xo 
+Video length: 	326.0 sec 
+Set (V): 		dev 
+ 
+Burt_Reynolds/u3dTLhCa5xo_0000001 60.2 65.2 
+Burt_Reynolds/u3dTLhCa5xo_0000002 229.7 234.8 

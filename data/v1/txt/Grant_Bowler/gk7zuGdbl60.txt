@@ -1,0 +1,10 @@
+POI: 			Grant_Bowler 
+Youtube ID: 	gk7zuGdbl60 
+Video length: 	67.3 sec 
+Set (V): 		dev 
+ 
+Grant_Bowler/gk7zuGdbl60_0000001 12.8 17.1 
+Grant_Bowler/gk7zuGdbl60_0000002 26.8 36.5 
+Grant_Bowler/gk7zuGdbl60_0000003 44.5 49.0 
+Grant_Bowler/gk7zuGdbl60_0000004 49.2 53.5 
+Grant_Bowler/gk7zuGdbl60_0000005 56.9 61.7 

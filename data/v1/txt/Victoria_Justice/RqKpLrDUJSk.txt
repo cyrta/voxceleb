@@ -1,0 +1,9 @@
+POI: 			Victoria_Justice 
+Youtube ID: 	RqKpLrDUJSk 
+Video length: 	83.0 sec 
+Set (V): 		dev 
+ 
+Victoria_Justice/RqKpLrDUJSk_0000001 26.0 34.4 
+Victoria_Justice/RqKpLrDUJSk_0000002 36.0 40.4 
+Victoria_Justice/RqKpLrDUJSk_0000003 46.7 52.4 
+Victoria_Justice/RqKpLrDUJSk_0000004 63.6 70.6 

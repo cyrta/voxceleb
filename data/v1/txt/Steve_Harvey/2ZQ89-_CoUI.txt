@@ -1,0 +1,7 @@
+POI: 			Steve_Harvey 
+Youtube ID: 	2ZQ89-_CoUI 
+Video length: 	364.3 sec 
+Set (V): 		dev 
+ 
+Steve_Harvey/2ZQ89-_CoUI_0000001 271.3 277.4 
+Steve_Harvey/2ZQ89-_CoUI_0000002 285.7 289.8 

@@ -1,0 +1,14 @@
+POI: 			Karla_Souza 
+Youtube ID: 	cPwwmPTC_V0 
+Video length: 	259.7 sec 
+Set (V): 		dev 
+ 
+Karla_Souza/cPwwmPTC_V0_0000001 38.3 49.1 
+Karla_Souza/cPwwmPTC_V0_0000002 49.7 54.2 
+Karla_Souza/cPwwmPTC_V0_0000003 60.6 66.8 
+Karla_Souza/cPwwmPTC_V0_0000004 68.8 85.3 
+Karla_Souza/cPwwmPTC_V0_0000005 95.4 132.8 
+Karla_Souza/cPwwmPTC_V0_0000006 133.9 151.6 
+Karla_Souza/cPwwmPTC_V0_0000007 151.9 169.8 
+Karla_Souza/cPwwmPTC_V0_0000008 176.3 220.5 
+Karla_Souza/cPwwmPTC_V0_0000009 221.0 233.3 

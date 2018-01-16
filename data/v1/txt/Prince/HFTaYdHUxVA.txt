@@ -1,0 +1,8 @@
+POI: 			Prince 
+Youtube ID: 	HFTaYdHUxVA 
+Video length: 	611.3 sec 
+Set (V): 		dev 
+ 
+Prince/HFTaYdHUxVA_0000001 228.0 234.9 
+Prince/HFTaYdHUxVA_0000002 236.3 240.6 
+Prince/HFTaYdHUxVA_0000003 320.4 325.2 

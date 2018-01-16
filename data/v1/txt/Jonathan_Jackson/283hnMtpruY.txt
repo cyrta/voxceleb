@@ -1,0 +1,25 @@
+POI: 			Jonathan_Jackson 
+Youtube ID: 	283hnMtpruY 
+Video length: 	588.1 sec 
+Set (V): 		dev 
+ 
+Jonathan_Jackson/283hnMtpruY_0000001 120.4 128.5 
+Jonathan_Jackson/283hnMtpruY_0000002 129.7 135.8 
+Jonathan_Jackson/283hnMtpruY_0000003 137.9 142.0 
+Jonathan_Jackson/283hnMtpruY_0000004 219.8 223.9 
+Jonathan_Jackson/283hnMtpruY_0000005 238.3 243.7 
+Jonathan_Jackson/283hnMtpruY_0000006 246.8 251.0 
+Jonathan_Jackson/283hnMtpruY_0000007 274.2 278.2 
+Jonathan_Jackson/283hnMtpruY_0000008 279.6 283.7 
+Jonathan_Jackson/283hnMtpruY_0000009 284.8 289.3 
+Jonathan_Jackson/283hnMtpruY_0000010 303.5 307.9 
+Jonathan_Jackson/283hnMtpruY_0000011 358.1 363.5 
+Jonathan_Jackson/283hnMtpruY_0000012 369.6 376.1 
+Jonathan_Jackson/283hnMtpruY_0000013 385.1 390.2 
+Jonathan_Jackson/283hnMtpruY_0000014 404.7 411.6 
+Jonathan_Jackson/283hnMtpruY_0000015 412.4 416.8 
+Jonathan_Jackson/283hnMtpruY_0000016 417.8 422.7 
+Jonathan_Jackson/283hnMtpruY_0000017 427.8 432.8 
+Jonathan_Jackson/283hnMtpruY_0000018 443.2 448.4 
+Jonathan_Jackson/283hnMtpruY_0000019 452.9 458.1 
+Jonathan_Jackson/283hnMtpruY_0000020 518.6 522.6 

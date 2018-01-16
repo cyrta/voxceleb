@@ -1,0 +1,14 @@
+POI: 			Joseph_Gordon-Levitt 
+Youtube ID: 	l3ifuOQI-vs 
+Video length: 	4562.5 sec 
+Set (V): 		dev 
+ 
+Joseph_Gordon-Levitt/l3ifuOQI-vs_0000001 164.0 168.0 
+Joseph_Gordon-Levitt/l3ifuOQI-vs_0000002 329.0 334.6 
+Joseph_Gordon-Levitt/l3ifuOQI-vs_0000003 363.6 367.8 
+Joseph_Gordon-Levitt/l3ifuOQI-vs_0000004 380.3 384.3 
+Joseph_Gordon-Levitt/l3ifuOQI-vs_0000005 986.4 991.7 
+Joseph_Gordon-Levitt/l3ifuOQI-vs_0000006 1961.1 1966.0 
+Joseph_Gordon-Levitt/l3ifuOQI-vs_0000007 1967.2 1975.1 
+Joseph_Gordon-Levitt/l3ifuOQI-vs_0000008 2642.5 2648.4 
+Joseph_Gordon-Levitt/l3ifuOQI-vs_0000009 3213.8 3224.6 

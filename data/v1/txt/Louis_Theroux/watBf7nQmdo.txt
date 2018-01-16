@@ -1,0 +1,12 @@
+POI: 			Louis_Theroux 
+Youtube ID: 	watBf7nQmdo 
+Video length: 	362.6 sec 
+Set (V): 		dev 
+ 
+Louis_Theroux/watBf7nQmdo_0000001 157.2 161.6 
+Louis_Theroux/watBf7nQmdo_0000002 223.0 229.0 
+Louis_Theroux/watBf7nQmdo_0000003 232.6 240.9 
+Louis_Theroux/watBf7nQmdo_0000004 264.4 275.0 
+Louis_Theroux/watBf7nQmdo_0000005 305.8 312.2 
+Louis_Theroux/watBf7nQmdo_0000006 314.5 318.6 
+Louis_Theroux/watBf7nQmdo_0000007 318.8 326.5 

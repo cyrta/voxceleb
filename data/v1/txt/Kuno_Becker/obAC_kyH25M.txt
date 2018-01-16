@@ -1,0 +1,19 @@
+POI: 			Kuno_Becker 
+Youtube ID: 	obAC_kyH25M 
+Video length: 	296.9 sec 
+Set (V): 		dev 
+ 
+Kuno_Becker/obAC_kyH25M_0000001 01.8 10.8 
+Kuno_Becker/obAC_kyH25M_0000002 57.3 64.0 
+Kuno_Becker/obAC_kyH25M_0000003 64.6 90.1 
+Kuno_Becker/obAC_kyH25M_0000004 97.4 101.9 
+Kuno_Becker/obAC_kyH25M_0000005 109.3 126.4 
+Kuno_Becker/obAC_kyH25M_0000006 126.6 139.3 
+Kuno_Becker/obAC_kyH25M_0000007 142.8 156.0 
+Kuno_Becker/obAC_kyH25M_0000008 156.6 172.7 
+Kuno_Becker/obAC_kyH25M_0000009 182.0 193.6 
+Kuno_Becker/obAC_kyH25M_0000010 198.3 212.2 
+Kuno_Becker/obAC_kyH25M_0000011 213.8 227.4 
+Kuno_Becker/obAC_kyH25M_0000012 228.0 233.8 
+Kuno_Becker/obAC_kyH25M_0000013 243.4 251.3 
+Kuno_Becker/obAC_kyH25M_0000014 251.6 280.2 

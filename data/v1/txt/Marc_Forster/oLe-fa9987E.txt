@@ -1,0 +1,26 @@
+POI: 			Marc_Forster 
+Youtube ID: 	oLe-fa9987E 
+Video length: 	336.2 sec 
+Set (V): 		dev 
+ 
+Marc_Forster/oLe-fa9987E_0000001 17.3 36.5 
+Marc_Forster/oLe-fa9987E_0000002 39.4 61.0 
+Marc_Forster/oLe-fa9987E_0000003 79.8 86.2 
+Marc_Forster/oLe-fa9987E_0000004 71.4 78.8 
+Marc_Forster/oLe-fa9987E_0000005 80.0 93.2 
+Marc_Forster/oLe-fa9987E_0000006 93.4 102.4 
+Marc_Forster/oLe-fa9987E_0000007 103.4 107.4 
+Marc_Forster/oLe-fa9987E_0000008 107.6 112.6 
+Marc_Forster/oLe-fa9987E_0000009 125.6 142.9 
+Marc_Forster/oLe-fa9987E_0000010 160.9 167.7 
+Marc_Forster/oLe-fa9987E_0000011 169.7 186.5 
+Marc_Forster/oLe-fa9987E_0000012 189.1 196.9 
+Marc_Forster/oLe-fa9987E_0000013 209.3 216.7 
+Marc_Forster/oLe-fa9987E_0000014 229.6 235.2 
+Marc_Forster/oLe-fa9987E_0000015 235.7 240.6 
+Marc_Forster/oLe-fa9987E_0000016 248.0 255.0 
+Marc_Forster/oLe-fa9987E_0000017 255.8 261.2 
+Marc_Forster/oLe-fa9987E_0000018 276.5 289.9 
+Marc_Forster/oLe-fa9987E_0000019 290.0 307.0 
+Marc_Forster/oLe-fa9987E_0000020 308.1 317.6 
+Marc_Forster/oLe-fa9987E_0000021 321.6 326.4 

@@ -1,0 +1,7 @@
+POI: 			Sarah_Drew 
+Youtube ID: 	giUMAKZTtWo 
+Video length: 	330.2 sec 
+Set (V): 		dev 
+ 
+Sarah_Drew/giUMAKZTtWo_0000001 162.1 167.6 
+Sarah_Drew/giUMAKZTtWo_0000002 287.6 296.6 

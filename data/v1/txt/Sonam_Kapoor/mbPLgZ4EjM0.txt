@@ -1,0 +1,10 @@
+POI: 			Sonam_Kapoor 
+Youtube ID: 	mbPLgZ4EjM0 
+Video length: 	376.8 sec 
+Set (V): 		dev 
+ 
+Sonam_Kapoor/mbPLgZ4EjM0_0000001 20.9 25.0 
+Sonam_Kapoor/mbPLgZ4EjM0_0000002 76.7 80.7 
+Sonam_Kapoor/mbPLgZ4EjM0_0000003 119.4 124.6 
+Sonam_Kapoor/mbPLgZ4EjM0_0000004 180.8 187.9 
+Sonam_Kapoor/mbPLgZ4EjM0_0000005 236.4 242.2 

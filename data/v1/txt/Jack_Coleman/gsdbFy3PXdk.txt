@@ -1,0 +1,11 @@
+POI: 			Jack_Coleman 
+Youtube ID: 	gsdbFy3PXdk 
+Video length: 	94.3 sec 
+Set (V): 		dev 
+ 
+Jack_Coleman/gsdbFy3PXdk_0000001 00.8 10.9 
+Jack_Coleman/gsdbFy3PXdk_0000002 34.4 38.5 
+Jack_Coleman/gsdbFy3PXdk_0000003 42.1 48.6 
+Jack_Coleman/gsdbFy3PXdk_0000004 63.5 73.0 
+Jack_Coleman/gsdbFy3PXdk_0000005 75.1 83.4 
+Jack_Coleman/gsdbFy3PXdk_0000006 88.2 92.8 

@@ -1,0 +1,9 @@
+POI: 			Peter_Capaldi 
+Youtube ID: 	uAgUjSqIj7U 
+Video length: 	149.3 sec 
+Set (V): 		dev 
+ 
+Peter_Capaldi/uAgUjSqIj7U_0000001 30.6 41.0 
+Peter_Capaldi/uAgUjSqIj7U_0000002 41.6 46.9 
+Peter_Capaldi/uAgUjSqIj7U_0000003 49.0 58.5 
+Peter_Capaldi/uAgUjSqIj7U_0000004 81.6 88.1 

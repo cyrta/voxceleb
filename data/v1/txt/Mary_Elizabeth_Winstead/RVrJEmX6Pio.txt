@@ -1,0 +1,11 @@
+POI: 			Mary_Elizabeth_Winstead 
+Youtube ID: 	RVrJEmX6Pio 
+Video length: 	270.3 sec 
+Set (V): 		dev 
+ 
+Mary_Elizabeth_Winstead/RVrJEmX6Pio_0000001 45.4 55.4 
+Mary_Elizabeth_Winstead/RVrJEmX6Pio_0000002 56.0 62.3 
+Mary_Elizabeth_Winstead/RVrJEmX6Pio_0000003 143.2 154.2 
+Mary_Elizabeth_Winstead/RVrJEmX6Pio_0000004 158.6 162.6 
+Mary_Elizabeth_Winstead/RVrJEmX6Pio_0000005 164.9 173.5 
+Mary_Elizabeth_Winstead/RVrJEmX6Pio_0000006 190.5 202.8 

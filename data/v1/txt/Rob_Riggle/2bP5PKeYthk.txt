@@ -1,0 +1,9 @@
+POI: 			Rob_Riggle 
+Youtube ID: 	2bP5PKeYthk 
+Video length: 	205.9 sec 
+Set (V): 		dev 
+ 
+Rob_Riggle/2bP5PKeYthk_0000001 58.6 65.6 
+Rob_Riggle/2bP5PKeYthk_0000002 66.8 71.0 
+Rob_Riggle/2bP5PKeYthk_0000003 88.0 92.7 
+Rob_Riggle/2bP5PKeYthk_0000004 125.9 131.4 

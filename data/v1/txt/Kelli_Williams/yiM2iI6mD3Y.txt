@@ -1,0 +1,9 @@
+POI: 			Kelli_Williams 
+Youtube ID: 	yiM2iI6mD3Y 
+Video length: 	309.1 sec 
+Set (V): 		dev 
+ 
+Kelli_Williams/yiM2iI6mD3Y_0000001 72.2 77.4 
+Kelli_Williams/yiM2iI6mD3Y_0000002 124.8 133.4 
+Kelli_Williams/yiM2iI6mD3Y_0000003 218.8 228.7 
+Kelli_Williams/yiM2iI6mD3Y_0000004 286.6 291.0 

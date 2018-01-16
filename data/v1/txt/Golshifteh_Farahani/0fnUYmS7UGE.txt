@@ -1,0 +1,17 @@
+POI: 			Golshifteh_Farahani 
+Youtube ID: 	0fnUYmS7UGE 
+Video length: 	484.1 sec 
+Set (V): 		dev 
+ 
+Golshifteh_Farahani/0fnUYmS7UGE_0000001 189.3 193.9 
+Golshifteh_Farahani/0fnUYmS7UGE_0000002 195.4 202.0 
+Golshifteh_Farahani/0fnUYmS7UGE_0000003 222.6 230.8 
+Golshifteh_Farahani/0fnUYmS7UGE_0000004 240.0 247.9 
+Golshifteh_Farahani/0fnUYmS7UGE_0000005 295.6 300.7 
+Golshifteh_Farahani/0fnUYmS7UGE_0000006 306.6 312.4 
+Golshifteh_Farahani/0fnUYmS7UGE_0000007 339.6 344.2 
+Golshifteh_Farahani/0fnUYmS7UGE_0000008 345.4 351.4 
+Golshifteh_Farahani/0fnUYmS7UGE_0000009 353.1 366.7 
+Golshifteh_Farahani/0fnUYmS7UGE_0000010 369.6 375.4 
+Golshifteh_Farahani/0fnUYmS7UGE_0000011 458.6 465.6 
+Golshifteh_Farahani/0fnUYmS7UGE_0000012 466.0 475.8 

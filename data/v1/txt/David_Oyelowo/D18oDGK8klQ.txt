@@ -1,0 +1,23 @@
+POI: 			David_Oyelowo 
+Youtube ID: 	D18oDGK8klQ 
+Video length: 	609.1 sec 
+Set (V): 		dev 
+ 
+David_Oyelowo/D18oDGK8klQ_0000001 128.7 135.8 
+David_Oyelowo/D18oDGK8klQ_0000002 154.0 162.0 
+David_Oyelowo/D18oDGK8klQ_0000003 172.9 178.0 
+David_Oyelowo/D18oDGK8klQ_0000004 185.8 194.3 
+David_Oyelowo/D18oDGK8klQ_0000005 216.4 221.5 
+David_Oyelowo/D18oDGK8klQ_0000006 237.0 242.6 
+David_Oyelowo/D18oDGK8klQ_0000007 243.1 257.4 
+David_Oyelowo/D18oDGK8klQ_0000008 302.0 307.7 
+David_Oyelowo/D18oDGK8klQ_0000009 311.0 316.2 
+David_Oyelowo/D18oDGK8klQ_0000010 345.2 353.3 
+David_Oyelowo/D18oDGK8klQ_0000011 382.5 387.7 
+David_Oyelowo/D18oDGK8klQ_0000012 388.5 394.6 
+David_Oyelowo/D18oDGK8klQ_0000013 409.4 438.0 
+David_Oyelowo/D18oDGK8klQ_0000014 448.5 461.6 
+David_Oyelowo/D18oDGK8klQ_0000015 462.0 471.3 
+David_Oyelowo/D18oDGK8klQ_0000016 500.6 506.3 
+David_Oyelowo/D18oDGK8klQ_0000017 528.8 533.5 
+David_Oyelowo/D18oDGK8klQ_0000018 568.2 572.7 

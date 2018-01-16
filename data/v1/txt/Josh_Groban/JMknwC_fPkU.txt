@@ -1,0 +1,35 @@
+POI: 			Josh_Groban 
+Youtube ID: 	JMknwC_fPkU 
+Video length: 	865.6 sec 
+Set (V): 		dev 
+ 
+Josh_Groban/JMknwC_fPkU_0000001 32.1 37.7 
+Josh_Groban/JMknwC_fPkU_0000002 43.4 50.1 
+Josh_Groban/JMknwC_fPkU_0000003 52.7 61.2 
+Josh_Groban/JMknwC_fPkU_0000004 106.3 110.9 
+Josh_Groban/JMknwC_fPkU_0000005 130.4 136.3 
+Josh_Groban/JMknwC_fPkU_0000006 159.5 164.7 
+Josh_Groban/JMknwC_fPkU_0000007 171.0 176.1 
+Josh_Groban/JMknwC_fPkU_0000008 178.4 187.0 
+Josh_Groban/JMknwC_fPkU_0000009 210.0 214.4 
+Josh_Groban/JMknwC_fPkU_0000010 218.2 230.9 
+Josh_Groban/JMknwC_fPkU_0000011 276.0 288.5 
+Josh_Groban/JMknwC_fPkU_0000012 315.6 320.3 
+Josh_Groban/JMknwC_fPkU_0000013 323.1 327.8 
+Josh_Groban/JMknwC_fPkU_0000014 345.6 355.9 
+Josh_Groban/JMknwC_fPkU_0000015 370.6 375.0 
+Josh_Groban/JMknwC_fPkU_0000016 422.0 426.2 
+Josh_Groban/JMknwC_fPkU_0000017 452.8 469.8 
+Josh_Groban/JMknwC_fPkU_0000018 435.3 444.4 
+Josh_Groban/JMknwC_fPkU_0000019 491.9 499.9 
+Josh_Groban/JMknwC_fPkU_0000020 502.0 512.7 
+Josh_Groban/JMknwC_fPkU_0000021 514.0 518.2 
+Josh_Groban/JMknwC_fPkU_0000022 519.6 524.2 
+Josh_Groban/JMknwC_fPkU_0000023 604.4 612.9 
+Josh_Groban/JMknwC_fPkU_0000024 624.8 637.2 
+Josh_Groban/JMknwC_fPkU_0000025 664.3 669.8 
+Josh_Groban/JMknwC_fPkU_0000026 700.6 705.3 
+Josh_Groban/JMknwC_fPkU_0000027 726.0 732.0 
+Josh_Groban/JMknwC_fPkU_0000028 773.6 781.9 
+Josh_Groban/JMknwC_fPkU_0000029 788.9 795.1 
+Josh_Groban/JMknwC_fPkU_0000030 813.4 817.8 

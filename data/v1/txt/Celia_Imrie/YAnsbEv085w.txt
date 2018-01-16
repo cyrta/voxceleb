@@ -1,0 +1,10 @@
+POI: 			Celia_Imrie 
+Youtube ID: 	YAnsbEv085w 
+Video length: 	83.6 sec 
+Set (V): 		dev 
+ 
+Celia_Imrie/YAnsbEv085w_0000001 16.7 35.0 
+Celia_Imrie/YAnsbEv085w_0000002 35.8 47.5 
+Celia_Imrie/YAnsbEv085w_0000003 48.4 57.1 
+Celia_Imrie/YAnsbEv085w_0000004 58.2 62.6 
+Celia_Imrie/YAnsbEv085w_0000005 65.1 70.9 

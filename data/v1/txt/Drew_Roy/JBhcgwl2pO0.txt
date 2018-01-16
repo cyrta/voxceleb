@@ -1,0 +1,8 @@
+POI: 			Drew_Roy 
+Youtube ID: 	JBhcgwl2pO0 
+Video length: 	1593.8 sec 
+Set (V): 		dev 
+ 
+Drew_Roy/JBhcgwl2pO0_0000001 1199.9 1210.6 
+Drew_Roy/JBhcgwl2pO0_0000002 1314.5 1318.9 
+Drew_Roy/JBhcgwl2pO0_0000003 1564.0 1572.1 

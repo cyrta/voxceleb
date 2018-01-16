@@ -1,0 +1,15 @@
+POI: 			Kristen_Bell 
+Youtube ID: 	UoLI51H5g5A 
+Video length: 	386.8 sec 
+Set (V): 		dev 
+ 
+Kristen_Bell/UoLI51H5g5A_0000001 35.7 48.0 
+Kristen_Bell/UoLI51H5g5A_0000002 64.8 75.6 
+Kristen_Bell/UoLI51H5g5A_0000003 113.6 117.6 
+Kristen_Bell/UoLI51H5g5A_0000004 137.6 153.9 
+Kristen_Bell/UoLI51H5g5A_0000005 160.8 164.7 
+Kristen_Bell/UoLI51H5g5A_0000006 177.9 185.7 
+Kristen_Bell/UoLI51H5g5A_0000007 189.4 203.7 
+Kristen_Bell/UoLI51H5g5A_0000008 289.7 294.4 
+Kristen_Bell/UoLI51H5g5A_0000009 301.8 306.0 
+Kristen_Bell/UoLI51H5g5A_0000010 356.4 363.5 

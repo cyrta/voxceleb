@@ -1,0 +1,9 @@
+POI: 			Kathy_Griffin 
+Youtube ID: 	pW8odNCifQo 
+Video length: 	594.8 sec 
+Set (V): 		dev 
+ 
+Kathy_Griffin/pW8odNCifQo_0000001 202.9 211.0 
+Kathy_Griffin/pW8odNCifQo_0000002 278.8 286.0 
+Kathy_Griffin/pW8odNCifQo_0000003 434.4 441.2 
+Kathy_Griffin/pW8odNCifQo_0000004 483.8 488.6 

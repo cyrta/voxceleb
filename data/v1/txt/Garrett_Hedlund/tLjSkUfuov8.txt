@@ -1,0 +1,21 @@
+POI: 			Garrett_Hedlund 
+Youtube ID: 	tLjSkUfuov8 
+Video length: 	511.6 sec 
+Set (V): 		dev 
+ 
+Garrett_Hedlund/tLjSkUfuov8_0000001 291.0 304.2 
+Garrett_Hedlund/tLjSkUfuov8_0000002 309.6 316.7 
+Garrett_Hedlund/tLjSkUfuov8_0000003 318.9 327.5 
+Garrett_Hedlund/tLjSkUfuov8_0000004 333.0 339.2 
+Garrett_Hedlund/tLjSkUfuov8_0000005 340.7 346.0 
+Garrett_Hedlund/tLjSkUfuov8_0000006 346.4 357.1 
+Garrett_Hedlund/tLjSkUfuov8_0000007 357.2 363.5 
+Garrett_Hedlund/tLjSkUfuov8_0000008 380.3 385.6 
+Garrett_Hedlund/tLjSkUfuov8_0000009 386.6 391.6 
+Garrett_Hedlund/tLjSkUfuov8_0000010 392.6 407.3 
+Garrett_Hedlund/tLjSkUfuov8_0000011 410.5 421.2 
+Garrett_Hedlund/tLjSkUfuov8_0000012 452.2 464.2 
+Garrett_Hedlund/tLjSkUfuov8_0000013 464.9 468.8 
+Garrett_Hedlund/tLjSkUfuov8_0000014 471.4 477.8 
+Garrett_Hedlund/tLjSkUfuov8_0000015 480.1 484.7 
+Garrett_Hedlund/tLjSkUfuov8_0000016 485.8 509.0 

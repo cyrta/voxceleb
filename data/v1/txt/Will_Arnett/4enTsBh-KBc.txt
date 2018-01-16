@@ -1,0 +1,12 @@
+POI: 			Will_Arnett 
+Youtube ID: 	4enTsBh-KBc 
+Video length: 	178.1 sec 
+Set (V): 		dev 
+ 
+Will_Arnett/4enTsBh-KBc_0000001 37.4 43.8 
+Will_Arnett/4enTsBh-KBc_0000002 69.8 74.7 
+Will_Arnett/4enTsBh-KBc_0000003 75.4 82.5 
+Will_Arnett/4enTsBh-KBc_0000004 104.3 110.4 
+Will_Arnett/4enTsBh-KBc_0000005 120.4 124.6 
+Will_Arnett/4enTsBh-KBc_0000006 125.8 131.0 
+Will_Arnett/4enTsBh-KBc_0000007 150.4 155.6 

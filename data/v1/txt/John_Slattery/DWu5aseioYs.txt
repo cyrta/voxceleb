@@ -1,0 +1,10 @@
+POI: 			John_Slattery 
+Youtube ID: 	DWu5aseioYs 
+Video length: 	232.5 sec 
+Set (V): 		dev 
+ 
+John_Slattery/DWu5aseioYs_0000001 119.8 125.4 
+John_Slattery/DWu5aseioYs_0000002 126.2 132.7 
+John_Slattery/DWu5aseioYs_0000003 192.1 199.1 
+John_Slattery/DWu5aseioYs_0000004 200.8 214.3 
+John_Slattery/DWu5aseioYs_0000005 216.8 224.1 

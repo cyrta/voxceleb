@@ -1,0 +1,12 @@
+POI: 			Janet_Jackson 
+Youtube ID: 	DSgncpi4pqY 
+Video length: 	709.3 sec 
+Set (V): 		dev 
+ 
+Janet_Jackson/DSgncpi4pqY_0000001 111.4 117.9 
+Janet_Jackson/DSgncpi4pqY_0000002 226.9 231.0 
+Janet_Jackson/DSgncpi4pqY_0000003 493.6 500.6 
+Janet_Jackson/DSgncpi4pqY_0000004 504.9 510.3 
+Janet_Jackson/DSgncpi4pqY_0000005 513.8 517.8 
+Janet_Jackson/DSgncpi4pqY_0000006 636.4 641.6 
+Janet_Jackson/DSgncpi4pqY_0000007 684.9 697.6 

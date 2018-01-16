@@ -1,0 +1,21 @@
+POI: 			Jared_Harris 
+Youtube ID: 	KebUIaB9q-M 
+Video length: 	265.2 sec 
+Set (V): 		dev 
+ 
+Jared_Harris/KebUIaB9q-M_0000001 01.8 06.7 
+Jared_Harris/KebUIaB9q-M_0000002 17.0 23.8 
+Jared_Harris/KebUIaB9q-M_0000003 27.7 47.9 
+Jared_Harris/KebUIaB9q-M_0000004 51.1 58.2 
+Jared_Harris/KebUIaB9q-M_0000005 61.6 65.6 
+Jared_Harris/KebUIaB9q-M_0000006 67.5 90.8 
+Jared_Harris/KebUIaB9q-M_0000007 94.8 104.4 
+Jared_Harris/KebUIaB9q-M_0000008 109.3 113.3 
+Jared_Harris/KebUIaB9q-M_0000009 133.9 140.3 
+Jared_Harris/KebUIaB9q-M_0000010 112.1 116.3 
+Jared_Harris/KebUIaB9q-M_0000011 117.1 141.6 
+Jared_Harris/KebUIaB9q-M_0000012 161.2 166.2 
+Jared_Harris/KebUIaB9q-M_0000013 169.7 174.2 
+Jared_Harris/KebUIaB9q-M_0000014 178.0 183.3 
+Jared_Harris/KebUIaB9q-M_0000015 186.8 191.2 
+Jared_Harris/KebUIaB9q-M_0000016 213.7 231.7 

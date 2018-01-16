@@ -1,0 +1,9 @@
+POI: 			Lesley_Manville 
+Youtube ID: 	VC0hfH0_YPY 
+Video length: 	177.1 sec 
+Set (V): 		dev 
+ 
+Lesley_Manville/VC0hfH0_YPY_0000001 61.2 67.1 
+Lesley_Manville/VC0hfH0_YPY_0000002 71.5 78.8 
+Lesley_Manville/VC0hfH0_YPY_0000003 111.6 122.5 
+Lesley_Manville/VC0hfH0_YPY_0000004 123.8 130.6 

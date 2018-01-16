@@ -1,0 +1,13 @@
+POI: 			Leslie_Mann 
+Youtube ID: 	bg-oh1EoefI 
+Video length: 	306.1 sec 
+Set (V): 		dev 
+ 
+Leslie_Mann/bg-oh1EoefI_0000001 107.6 115.1 
+Leslie_Mann/bg-oh1EoefI_0000002 121.5 135.6 
+Leslie_Mann/bg-oh1EoefI_0000003 167.2 171.3 
+Leslie_Mann/bg-oh1EoefI_0000004 182.6 190.4 
+Leslie_Mann/bg-oh1EoefI_0000005 196.4 200.5 
+Leslie_Mann/bg-oh1EoefI_0000006 203.0 210.1 
+Leslie_Mann/bg-oh1EoefI_0000007 211.2 227.3 
+Leslie_Mann/bg-oh1EoefI_0000008 276.2 282.6 

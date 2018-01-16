@@ -1,0 +1,8 @@
+POI: 			Olivia_Colman 
+Youtube ID: 	SelPnm-h2dQ 
+Video length: 	196.4 sec 
+Set (V): 		dev 
+ 
+Olivia_Colman/SelPnm-h2dQ_0000001 53.3 59.2 
+Olivia_Colman/SelPnm-h2dQ_0000002 111.0 115.5 
+Olivia_Colman/SelPnm-h2dQ_0000003 155.8 161.8 

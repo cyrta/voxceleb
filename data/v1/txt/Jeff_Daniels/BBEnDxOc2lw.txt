@@ -1,0 +1,14 @@
+POI: 			Jeff_Daniels 
+Youtube ID: 	BBEnDxOc2lw 
+Video length: 	435.6 sec 
+Set (V): 		dev 
+ 
+Jeff_Daniels/BBEnDxOc2lw_0000001 97.6 108.8 
+Jeff_Daniels/BBEnDxOc2lw_0000002 118.5 129.4 
+Jeff_Daniels/BBEnDxOc2lw_0000003 222.9 230.7 
+Jeff_Daniels/BBEnDxOc2lw_0000004 231.0 235.6 
+Jeff_Daniels/BBEnDxOc2lw_0000005 236.9 241.6 
+Jeff_Daniels/BBEnDxOc2lw_0000006 293.4 298.8 
+Jeff_Daniels/BBEnDxOc2lw_0000007 363.8 368.5 
+Jeff_Daniels/BBEnDxOc2lw_0000008 383.7 389.7 
+Jeff_Daniels/BBEnDxOc2lw_0000009 391.0 402.1 

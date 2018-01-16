@@ -1,0 +1,14 @@
+POI: 			Rachel_McAdams 
+Youtube ID: 	o5HWbtjLZog 
+Video length: 	292.4 sec 
+Set (V): 		dev 
+ 
+Rachel_McAdams/o5HWbtjLZog_0000001 77.2 85.4 
+Rachel_McAdams/o5HWbtjLZog_0000002 85.6 95.9 
+Rachel_McAdams/o5HWbtjLZog_0000003 96.9 103.1 
+Rachel_McAdams/o5HWbtjLZog_0000004 136.9 142.9 
+Rachel_McAdams/o5HWbtjLZog_0000005 145.6 151.9 
+Rachel_McAdams/o5HWbtjLZog_0000006 200.7 205.5 
+Rachel_McAdams/o5HWbtjLZog_0000007 207.4 212.0 
+Rachel_McAdams/o5HWbtjLZog_0000008 212.5 217.9 
+Rachel_McAdams/o5HWbtjLZog_0000009 246.3 255.4 

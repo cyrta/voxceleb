@@ -1,0 +1,29 @@
+POI: 			Molly_Shannon 
+Youtube ID: 	BDnN-BJfQAc 
+Video length: 	433.4 sec 
+Set (V): 		dev 
+ 
+Molly_Shannon/BDnN-BJfQAc_0000001 04.0 18.0 
+Molly_Shannon/BDnN-BJfQAc_0000002 19.9 25.8 
+Molly_Shannon/BDnN-BJfQAc_0000003 40.4 51.6 
+Molly_Shannon/BDnN-BJfQAc_0000004 59.1 75.7 
+Molly_Shannon/BDnN-BJfQAc_0000005 99.9 105.1 
+Molly_Shannon/BDnN-BJfQAc_0000006 105.5 113.9 
+Molly_Shannon/BDnN-BJfQAc_0000007 112.6 121.4 
+Molly_Shannon/BDnN-BJfQAc_0000008 122.6 127.5 
+Molly_Shannon/BDnN-BJfQAc_0000009 152.2 170.8 
+Molly_Shannon/BDnN-BJfQAc_0000010 172.8 180.6 
+Molly_Shannon/BDnN-BJfQAc_0000011 182.6 196.6 
+Molly_Shannon/BDnN-BJfQAc_0000012 197.4 229.6 
+Molly_Shannon/BDnN-BJfQAc_0000013 239.4 249.5 
+Molly_Shannon/BDnN-BJfQAc_0000014 259.8 272.0 
+Molly_Shannon/BDnN-BJfQAc_0000015 272.9 281.9 
+Molly_Shannon/BDnN-BJfQAc_0000016 283.4 293.0 
+Molly_Shannon/BDnN-BJfQAc_0000017 200.3 204.8 
+Molly_Shannon/BDnN-BJfQAc_0000018 272.8 301.6 
+Molly_Shannon/BDnN-BJfQAc_0000019 305.7 331.2 
+Molly_Shannon/BDnN-BJfQAc_0000020 337.1 355.0 
+Molly_Shannon/BDnN-BJfQAc_0000021 357.1 365.6 
+Molly_Shannon/BDnN-BJfQAc_0000022 385.2 399.4 
+Molly_Shannon/BDnN-BJfQAc_0000023 404.9 410.2 
+Molly_Shannon/BDnN-BJfQAc_0000024 418.5 426.7 

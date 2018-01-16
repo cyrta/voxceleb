@@ -1,0 +1,10 @@
+POI: 			Russell_Tovey 
+Youtube ID: 	d-ElIhT-_3E 
+Video length: 	165.4 sec 
+Set (V): 		dev 
+ 
+Russell_Tovey/d-ElIhT-_3E_0000001 28.0 32.4 
+Russell_Tovey/d-ElIhT-_3E_0000002 91.8 98.0 
+Russell_Tovey/d-ElIhT-_3E_0000003 113.0 123.6 
+Russell_Tovey/d-ElIhT-_3E_0000004 127.1 140.3 
+Russell_Tovey/d-ElIhT-_3E_0000005 142.4 146.6 

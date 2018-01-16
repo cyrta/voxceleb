@@ -1,0 +1,10 @@
+POI: 			Sam_Riley 
+Youtube ID: 	MJk3PgPPP4U 
+Video length: 	148.1 sec 
+Set (V): 		dev 
+ 
+Sam_Riley/MJk3PgPPP4U_0000001 15.4 20.0 
+Sam_Riley/MJk3PgPPP4U_0000002 33.6 38.6 
+Sam_Riley/MJk3PgPPP4U_0000003 58.4 67.9 
+Sam_Riley/MJk3PgPPP4U_0000004 97.0 101.1 
+Sam_Riley/MJk3PgPPP4U_0000005 101.9 105.9 

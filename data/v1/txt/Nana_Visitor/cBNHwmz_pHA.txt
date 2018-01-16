@@ -1,0 +1,10 @@
+POI: 			Nana_Visitor 
+Youtube ID: 	cBNHwmz_pHA 
+Video length: 	212.6 sec 
+Set (V): 		dev 
+ 
+Nana_Visitor/cBNHwmz_pHA_0000001 17.2 25.2 
+Nana_Visitor/cBNHwmz_pHA_0000002 57.7 61.7 
+Nana_Visitor/cBNHwmz_pHA_0000003 63.1 67.5 
+Nana_Visitor/cBNHwmz_pHA_0000004 67.8 73.4 
+Nana_Visitor/cBNHwmz_pHA_0000005 152.8 160.7 

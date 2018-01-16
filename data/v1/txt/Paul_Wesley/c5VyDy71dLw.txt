@@ -1,0 +1,14 @@
+POI: 			Paul_Wesley 
+Youtube ID: 	c5VyDy71dLw 
+Video length: 	453.9 sec 
+Set (V): 		dev 
+ 
+Paul_Wesley/c5VyDy71dLw_0000001 118.0 125.7 
+Paul_Wesley/c5VyDy71dLw_0000002 155.8 160.9 
+Paul_Wesley/c5VyDy71dLw_0000003 184.2 190.7 
+Paul_Wesley/c5VyDy71dLw_0000004 206.4 211.6 
+Paul_Wesley/c5VyDy71dLw_0000005 245.6 255.6 
+Paul_Wesley/c5VyDy71dLw_0000006 294.2 303.3 
+Paul_Wesley/c5VyDy71dLw_0000007 344.6 348.5 
+Paul_Wesley/c5VyDy71dLw_0000008 394.0 401.3 
+Paul_Wesley/c5VyDy71dLw_0000009 412.8 420.4 

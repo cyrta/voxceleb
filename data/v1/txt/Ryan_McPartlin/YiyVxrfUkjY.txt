@@ -1,0 +1,18 @@
+POI: 			Ryan_McPartlin 
+Youtube ID: 	YiyVxrfUkjY 
+Video length: 	170.6 sec 
+Set (V): 		dev 
+ 
+Ryan_McPartlin/YiyVxrfUkjY_0000001 05.9 11.4 
+Ryan_McPartlin/YiyVxrfUkjY_0000002 11.9 16.5 
+Ryan_McPartlin/YiyVxrfUkjY_0000003 20.0 35.4 
+Ryan_McPartlin/YiyVxrfUkjY_0000004 41.6 46.1 
+Ryan_McPartlin/YiyVxrfUkjY_0000005 50.3 54.6 
+Ryan_McPartlin/YiyVxrfUkjY_0000006 61.1 66.1 
+Ryan_McPartlin/YiyVxrfUkjY_0000007 67.2 76.0 
+Ryan_McPartlin/YiyVxrfUkjY_0000008 76.2 82.1 
+Ryan_McPartlin/YiyVxrfUkjY_0000009 88.6 93.8 
+Ryan_McPartlin/YiyVxrfUkjY_0000010 102.7 109.3 
+Ryan_McPartlin/YiyVxrfUkjY_0000011 119.8 135.5 
+Ryan_McPartlin/YiyVxrfUkjY_0000012 153.3 163.7 
+Ryan_McPartlin/YiyVxrfUkjY_0000013 164.0 168.8 

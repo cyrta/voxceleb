@@ -1,0 +1,7 @@
+POI: 			Patrick_Duffy 
+Youtube ID: 	aQcVO0dyRQw 
+Video length: 	290.0 sec 
+Set (V): 		dev 
+ 
+Patrick_Duffy/aQcVO0dyRQw_0000001 26.1 31.1 
+Patrick_Duffy/aQcVO0dyRQw_0000002 144.4 148.8 

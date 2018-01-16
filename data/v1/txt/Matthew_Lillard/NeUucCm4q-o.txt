@@ -1,0 +1,9 @@
+POI: 			Matthew_Lillard 
+Youtube ID: 	NeUucCm4q-o 
+Video length: 	219.0 sec 
+Set (V): 		dev 
+ 
+Matthew_Lillard/NeUucCm4q-o_0000001 78.9 83.5 
+Matthew_Lillard/NeUucCm4q-o_0000002 87.6 91.8 
+Matthew_Lillard/NeUucCm4q-o_0000003 156.5 161.6 
+Matthew_Lillard/NeUucCm4q-o_0000004 165.2 173.1 

@@ -1,0 +1,7 @@
+POI: 			Marc_Webb 
+Youtube ID: 	7CMSssRMuFg 
+Video length: 	189.9 sec 
+Set (V): 		dev 
+ 
+Marc_Webb/7CMSssRMuFg_0000001 33.0 37.3 
+Marc_Webb/7CMSssRMuFg_0000002 38.6 44.6 

@@ -1,0 +1,8 @@
+POI: 			Sam_Neill 
+Youtube ID: 	T94fEgTrDFU 
+Video length: 	222.8 sec 
+Set (V): 		dev 
+ 
+Sam_Neill/T94fEgTrDFU_0000001 139.2 144.7 
+Sam_Neill/T94fEgTrDFU_0000002 149.1 154.7 
+Sam_Neill/T94fEgTrDFU_0000003 193.0 198.0 

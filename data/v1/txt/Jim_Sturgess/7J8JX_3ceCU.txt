@@ -1,0 +1,8 @@
+POI: 			Jim_Sturgess 
+Youtube ID: 	7J8JX_3ceCU 
+Video length: 	250.7 sec 
+Set (V): 		dev 
+ 
+Jim_Sturgess/7J8JX_3ceCU_0000001 29.8 35.5 
+Jim_Sturgess/7J8JX_3ceCU_0000002 230.1 234.5 
+Jim_Sturgess/7J8JX_3ceCU_0000003 240.4 246.7 

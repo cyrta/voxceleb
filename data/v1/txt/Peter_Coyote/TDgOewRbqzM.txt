@@ -1,0 +1,11 @@
+POI: 			Peter_Coyote 
+Youtube ID: 	TDgOewRbqzM 
+Video length: 	377.5 sec 
+Set (V): 		dev 
+ 
+Peter_Coyote/TDgOewRbqzM_0000001 42.0 46.9 
+Peter_Coyote/TDgOewRbqzM_0000002 91.4 110.5 
+Peter_Coyote/TDgOewRbqzM_0000003 111.6 125.9 
+Peter_Coyote/TDgOewRbqzM_0000004 134.0 148.1 
+Peter_Coyote/TDgOewRbqzM_0000005 148.4 153.6 
+Peter_Coyote/TDgOewRbqzM_0000006 367.7 374.0 

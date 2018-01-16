@@ -1,0 +1,9 @@
+POI: 			Ansel_Elgort 
+Youtube ID: 	bwz2wFpM0dU 
+Video length: 	396.0 sec 
+Set (V): 		dev 
+ 
+Ansel_Elgort/bwz2wFpM0dU_0000001 27.6 32.9 
+Ansel_Elgort/bwz2wFpM0dU_0000002 43.1 51.1 
+Ansel_Elgort/bwz2wFpM0dU_0000003 55.8 61.4 
+Ansel_Elgort/bwz2wFpM0dU_0000004 150.8 158.2 

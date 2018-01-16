@@ -1,0 +1,9 @@
+POI: 			Betty_White 
+Youtube ID: 	rayQ1y8Up1I 
+Video length: 	628.9 sec 
+Set (V): 		dev 
+ 
+Betty_White/rayQ1y8Up1I_0000001 81.0 85.6 
+Betty_White/rayQ1y8Up1I_0000002 328.5 335.4 
+Betty_White/rayQ1y8Up1I_0000003 501.2 511.2 
+Betty_White/rayQ1y8Up1I_0000004 539.2 548.6 

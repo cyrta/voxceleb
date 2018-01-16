@@ -1,0 +1,11 @@
+POI: 			Ryan_Kwanten 
+Youtube ID: 	NUrZXdf7d8c 
+Video length: 	321.0 sec 
+Set (V): 		dev 
+ 
+Ryan_Kwanten/NUrZXdf7d8c_0000001 49.2 53.2 
+Ryan_Kwanten/NUrZXdf7d8c_0000002 165.8 172.4 
+Ryan_Kwanten/NUrZXdf7d8c_0000003 176.0 180.4 
+Ryan_Kwanten/NUrZXdf7d8c_0000004 197.2 203.1 
+Ryan_Kwanten/NUrZXdf7d8c_0000005 231.7 245.0 
+Ryan_Kwanten/NUrZXdf7d8c_0000006 282.3 291.0 

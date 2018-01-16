@@ -1,0 +1,26 @@
+POI: 			Dick_Van_Dyke 
+Youtube ID: 	hoDLcSzy4dQ 
+Video length: 	543.5 sec 
+Set (V): 		dev 
+ 
+Dick_Van_Dyke/hoDLcSzy4dQ_0000001 07.6 20.3 
+Dick_Van_Dyke/hoDLcSzy4dQ_0000002 25.7 33.4 
+Dick_Van_Dyke/hoDLcSzy4dQ_0000003 80.6 85.5 
+Dick_Van_Dyke/hoDLcSzy4dQ_0000004 85.6 93.4 
+Dick_Van_Dyke/hoDLcSzy4dQ_0000005 176.6 187.6 
+Dick_Van_Dyke/hoDLcSzy4dQ_0000006 197.8 208.2 
+Dick_Van_Dyke/hoDLcSzy4dQ_0000007 213.0 218.6 
+Dick_Van_Dyke/hoDLcSzy4dQ_0000008 245.0 249.2 
+Dick_Van_Dyke/hoDLcSzy4dQ_0000009 282.2 290.2 
+Dick_Van_Dyke/hoDLcSzy4dQ_0000010 299.7 310.3 
+Dick_Van_Dyke/hoDLcSzy4dQ_0000011 305.2 309.2 
+Dick_Van_Dyke/hoDLcSzy4dQ_0000012 309.5 316.1 
+Dick_Van_Dyke/hoDLcSzy4dQ_0000013 330.0 336.6 
+Dick_Van_Dyke/hoDLcSzy4dQ_0000014 340.6 346.9 
+Dick_Van_Dyke/hoDLcSzy4dQ_0000015 360.0 365.5 
+Dick_Van_Dyke/hoDLcSzy4dQ_0000016 368.1 372.0 
+Dick_Van_Dyke/hoDLcSzy4dQ_0000017 388.7 397.8 
+Dick_Van_Dyke/hoDLcSzy4dQ_0000018 405.5 412.0 
+Dick_Van_Dyke/hoDLcSzy4dQ_0000019 496.2 503.3 
+Dick_Van_Dyke/hoDLcSzy4dQ_0000020 503.5 513.7 
+Dick_Van_Dyke/hoDLcSzy4dQ_0000021 524.1 529.6 

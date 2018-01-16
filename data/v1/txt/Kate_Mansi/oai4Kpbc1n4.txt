@@ -1,0 +1,10 @@
+POI: 			Kate_Mansi 
+Youtube ID: 	oai4Kpbc1n4 
+Video length: 	103.1 sec 
+Set (V): 		dev 
+ 
+Kate_Mansi/oai4Kpbc1n4_0000001 30.3 35.0 
+Kate_Mansi/oai4Kpbc1n4_0000002 46.5 50.7 
+Kate_Mansi/oai4Kpbc1n4_0000003 62.3 66.7 
+Kate_Mansi/oai4Kpbc1n4_0000004 74.4 84.4 
+Kate_Mansi/oai4Kpbc1n4_0000005 86.3 91.9 

@@ -1,0 +1,10 @@
+POI: 			Keri_Hilson 
+Youtube ID: 	HM6dEZ3NxAs 
+Video length: 	526.1 sec 
+Set (V): 		dev 
+ 
+Keri_Hilson/HM6dEZ3NxAs_0000001 232.0 243.6 
+Keri_Hilson/HM6dEZ3NxAs_0000002 308.0 316.3 
+Keri_Hilson/HM6dEZ3NxAs_0000003 385.8 392.9 
+Keri_Hilson/HM6dEZ3NxAs_0000004 428.7 437.8 
+Keri_Hilson/HM6dEZ3NxAs_0000005 501.7 506.5 

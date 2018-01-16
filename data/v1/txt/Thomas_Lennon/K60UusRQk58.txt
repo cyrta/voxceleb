@@ -1,0 +1,8 @@
+POI: 			Thomas_Lennon 
+Youtube ID: 	K60UusRQk58 
+Video length: 	233.8 sec 
+Set (V): 		dev 
+ 
+Thomas_Lennon/K60UusRQk58_0000001 47.8 51.8 
+Thomas_Lennon/K60UusRQk58_0000002 53.4 57.6 
+Thomas_Lennon/K60UusRQk58_0000003 165.8 175.1 

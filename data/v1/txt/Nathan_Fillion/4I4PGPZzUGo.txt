@@ -1,0 +1,7 @@
+POI: 			Nathan_Fillion 
+Youtube ID: 	4I4PGPZzUGo 
+Video length: 	596.2 sec 
+Set (V): 		dev 
+ 
+Nathan_Fillion/4I4PGPZzUGo_0000001 518.4 524.3 
+Nathan_Fillion/4I4PGPZzUGo_0000002 527.9 532.0 

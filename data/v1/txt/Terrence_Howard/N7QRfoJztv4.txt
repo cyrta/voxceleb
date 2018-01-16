@@ -1,0 +1,9 @@
+POI: 			Terrence_Howard 
+Youtube ID: 	N7QRfoJztv4 
+Video length: 	184.2 sec 
+Set (V): 		dev 
+ 
+Terrence_Howard/N7QRfoJztv4_0000001 06.3 25.1 
+Terrence_Howard/N7QRfoJztv4_0000002 32.1 37.3 
+Terrence_Howard/N7QRfoJztv4_0000003 41.7 46.2 
+Terrence_Howard/N7QRfoJztv4_0000004 147.6 168.3 

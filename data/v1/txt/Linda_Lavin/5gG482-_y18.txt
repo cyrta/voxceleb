@@ -1,0 +1,11 @@
+POI: 			Linda_Lavin 
+Youtube ID: 	5gG482-_y18 
+Video length: 	270.5 sec 
+Set (V): 		dev 
+ 
+Linda_Lavin/5gG482-_y18_0000001 40.4 44.8 
+Linda_Lavin/5gG482-_y18_0000002 112.6 118.4 
+Linda_Lavin/5gG482-_y18_0000003 122.5 134.7 
+Linda_Lavin/5gG482-_y18_0000004 157.7 169.9 
+Linda_Lavin/5gG482-_y18_0000005 177.8 190.2 
+Linda_Lavin/5gG482-_y18_0000006 237.1 243.5 

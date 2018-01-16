@@ -1,0 +1,11 @@
+POI: 			Adam_Driver 
+Youtube ID: 	AStt8Tx-HXU 
+Video length: 	218.6 sec 
+Set (V): 		dev 
+ 
+Adam_Driver/AStt8Tx-HXU_0000001 81.4 85.8 
+Adam_Driver/AStt8Tx-HXU_0000002 135.6 145.4 
+Adam_Driver/AStt8Tx-HXU_0000003 145.7 151.5 
+Adam_Driver/AStt8Tx-HXU_0000004 152.7 158.8 
+Adam_Driver/AStt8Tx-HXU_0000005 159.2 163.8 
+Adam_Driver/AStt8Tx-HXU_0000006 189.4 194.2 

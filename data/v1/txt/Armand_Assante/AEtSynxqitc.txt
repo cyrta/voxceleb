@@ -1,0 +1,10 @@
+POI: 			Armand_Assante 
+Youtube ID: 	AEtSynxqitc 
+Video length: 	180.5 sec 
+Set (V): 		dev 
+ 
+Armand_Assante/AEtSynxqitc_0000001 79.8 85.2 
+Armand_Assante/AEtSynxqitc_0000002 87.5 93.7 
+Armand_Assante/AEtSynxqitc_0000003 95.3 99.3 
+Armand_Assante/AEtSynxqitc_0000004 129.0 134.3 
+Armand_Assante/AEtSynxqitc_0000005 137.9 143.5 

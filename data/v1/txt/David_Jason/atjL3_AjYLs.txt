@@ -1,0 +1,12 @@
+POI: 			David_Jason 
+Youtube ID: 	atjL3_AjYLs 
+Video length: 	461.6 sec 
+Set (V): 		dev 
+ 
+David_Jason/atjL3_AjYLs_0000001 37.9 45.9 
+David_Jason/atjL3_AjYLs_0000002 91.3 96.2 
+David_Jason/atjL3_AjYLs_0000003 135.2 140.7 
+David_Jason/atjL3_AjYLs_0000004 166.2 170.3 
+David_Jason/atjL3_AjYLs_0000005 306.5 312.8 
+David_Jason/atjL3_AjYLs_0000006 361.6 368.2 
+David_Jason/atjL3_AjYLs_0000007 372.8 377.6 

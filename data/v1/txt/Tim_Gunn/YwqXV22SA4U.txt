@@ -1,0 +1,8 @@
+POI: 			Tim_Gunn 
+Youtube ID: 	YwqXV22SA4U 
+Video length: 	80.6 sec 
+Set (V): 		dev 
+ 
+Tim_Gunn/YwqXV22SA4U_0000001 07.3 11.7 
+Tim_Gunn/YwqXV22SA4U_0000002 15.1 21.8 
+Tim_Gunn/YwqXV22SA4U_0000003 59.8 68.2 

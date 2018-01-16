@@ -1,0 +1,9 @@
+POI: 			Will_Arnett 
+Youtube ID: 	c1YzBrR66Kc 
+Video length: 	194.8 sec 
+Set (V): 		dev 
+ 
+Will_Arnett/c1YzBrR66Kc_0000001 29.2 41.4 
+Will_Arnett/c1YzBrR66Kc_0000002 134.6 144.1 
+Will_Arnett/c1YzBrR66Kc_0000003 163.4 167.5 
+Will_Arnett/c1YzBrR66Kc_0000004 179.8 187.0 

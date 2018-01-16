@@ -1,0 +1,11 @@
+POI: 			Samantha_Barks 
+Youtube ID: 	Y1lJN63z-0Y 
+Video length: 	204.3 sec 
+Set (V): 		dev 
+ 
+Samantha_Barks/Y1lJN63z-0Y_0000001 18.1 25.6 
+Samantha_Barks/Y1lJN63z-0Y_0000002 34.4 52.0 
+Samantha_Barks/Y1lJN63z-0Y_0000003 63.9 78.5 
+Samantha_Barks/Y1lJN63z-0Y_0000004 79.4 89.7 
+Samantha_Barks/Y1lJN63z-0Y_0000005 90.4 98.4 
+Samantha_Barks/Y1lJN63z-0Y_0000006 144.3 150.2 

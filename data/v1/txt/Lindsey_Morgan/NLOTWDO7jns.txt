@@ -1,0 +1,11 @@
+POI: 			Lindsey_Morgan 
+Youtube ID: 	NLOTWDO7jns 
+Video length: 	375.2 sec 
+Set (V): 		dev 
+ 
+Lindsey_Morgan/NLOTWDO7jns_0000001 23.7 28.1 
+Lindsey_Morgan/NLOTWDO7jns_0000002 28.5 34.0 
+Lindsey_Morgan/NLOTWDO7jns_0000003 56.6 64.0 
+Lindsey_Morgan/NLOTWDO7jns_0000004 106.0 113.0 
+Lindsey_Morgan/NLOTWDO7jns_0000005 322.3 327.5 
+Lindsey_Morgan/NLOTWDO7jns_0000006 331.8 336.0 

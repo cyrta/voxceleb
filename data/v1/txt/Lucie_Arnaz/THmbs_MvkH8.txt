@@ -1,0 +1,13 @@
+POI: 			Lucie_Arnaz 
+Youtube ID: 	THmbs_MvkH8 
+Video length: 	1712.7 sec 
+Set (V): 		dev 
+ 
+Lucie_Arnaz/THmbs_MvkH8_0000001 171.3 177.0 
+Lucie_Arnaz/THmbs_MvkH8_0000002 216.9 223.0 
+Lucie_Arnaz/THmbs_MvkH8_0000003 762.6 768.3 
+Lucie_Arnaz/THmbs_MvkH8_0000004 905.4 911.2 
+Lucie_Arnaz/THmbs_MvkH8_0000005 992.0 1000.6 
+Lucie_Arnaz/THmbs_MvkH8_0000006 1015.1 1019.8 
+Lucie_Arnaz/THmbs_MvkH8_0000007 1361.8 1374.7 
+Lucie_Arnaz/THmbs_MvkH8_0000008 1544.5 1550.4 

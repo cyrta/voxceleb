@@ -1,0 +1,19 @@
+POI: 			Vincent_Cassel 
+Youtube ID: 	3V7n4vImGLo 
+Video length: 	327.7 sec 
+Set (V): 		dev 
+ 
+Vincent_Cassel/3V7n4vImGLo_0000001 19.6 31.0 
+Vincent_Cassel/3V7n4vImGLo_0000002 57.5 76.3 
+Vincent_Cassel/3V7n4vImGLo_0000003 95.3 109.0 
+Vincent_Cassel/3V7n4vImGLo_0000004 128.3 136.0 
+Vincent_Cassel/3V7n4vImGLo_0000005 143.3 148.4 
+Vincent_Cassel/3V7n4vImGLo_0000006 164.9 172.6 
+Vincent_Cassel/3V7n4vImGLo_0000007 173.7 180.0 
+Vincent_Cassel/3V7n4vImGLo_0000008 214.1 222.0 
+Vincent_Cassel/3V7n4vImGLo_0000009 222.2 231.1 
+Vincent_Cassel/3V7n4vImGLo_0000010 231.3 239.0 
+Vincent_Cassel/3V7n4vImGLo_0000011 255.5 263.0 
+Vincent_Cassel/3V7n4vImGLo_0000012 272.0 278.1 
+Vincent_Cassel/3V7n4vImGLo_0000013 284.4 289.0 
+Vincent_Cassel/3V7n4vImGLo_0000014 313.5 321.1 

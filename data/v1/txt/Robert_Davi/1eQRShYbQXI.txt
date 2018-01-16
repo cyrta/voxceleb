@@ -1,0 +1,12 @@
+POI: 			Robert_Davi 
+Youtube ID: 	1eQRShYbQXI 
+Video length: 	298.7 sec 
+Set (V): 		dev 
+ 
+Robert_Davi/1eQRShYbQXI_0000001 27.8 32.1 
+Robert_Davi/1eQRShYbQXI_0000002 32.3 74.6 
+Robert_Davi/1eQRShYbQXI_0000003 76.4 87.3 
+Robert_Davi/1eQRShYbQXI_0000004 123.7 142.0 
+Robert_Davi/1eQRShYbQXI_0000005 142.9 178.5 
+Robert_Davi/1eQRShYbQXI_0000006 234.2 247.9 
+Robert_Davi/1eQRShYbQXI_0000007 254.9 259.1 

@@ -1,0 +1,10 @@
+POI: 			Teri_Hatcher 
+Youtube ID: 	zBbchmNZ67A 
+Video length: 	787.6 sec 
+Set (V): 		dev 
+ 
+Teri_Hatcher/zBbchmNZ67A_0000001 59.4 68.9 
+Teri_Hatcher/zBbchmNZ67A_0000002 444.8 452.4 
+Teri_Hatcher/zBbchmNZ67A_0000003 558.5 563.2 
+Teri_Hatcher/zBbchmNZ67A_0000004 643.5 647.8 
+Teri_Hatcher/zBbchmNZ67A_0000005 656.4 660.6 

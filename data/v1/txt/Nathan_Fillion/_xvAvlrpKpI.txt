@@ -1,0 +1,11 @@
+POI: 			Nathan_Fillion 
+Youtube ID: 	_xvAvlrpKpI 
+Video length: 	264.3 sec 
+Set (V): 		dev 
+ 
+Nathan_Fillion/_xvAvlrpKpI_0000001 20.6 26.9 
+Nathan_Fillion/_xvAvlrpKpI_0000002 29.5 34.2 
+Nathan_Fillion/_xvAvlrpKpI_0000003 34.8 38.8 
+Nathan_Fillion/_xvAvlrpKpI_0000004 38.9 47.8 
+Nathan_Fillion/_xvAvlrpKpI_0000005 119.6 129.2 
+Nathan_Fillion/_xvAvlrpKpI_0000006 129.6 143.6 

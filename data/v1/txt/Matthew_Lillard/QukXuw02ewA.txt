@@ -1,0 +1,11 @@
+POI: 			Matthew_Lillard 
+Youtube ID: 	QukXuw02ewA 
+Video length: 	264.7 sec 
+Set (V): 		dev 
+ 
+Matthew_Lillard/QukXuw02ewA_0000001 55.4 60.5 
+Matthew_Lillard/QukXuw02ewA_0000002 68.1 82.7 
+Matthew_Lillard/QukXuw02ewA_0000003 90.6 95.5 
+Matthew_Lillard/QukXuw02ewA_0000004 143.9 147.9 
+Matthew_Lillard/QukXuw02ewA_0000005 148.2 153.0 
+Matthew_Lillard/QukXuw02ewA_0000006 175.9 195.8 

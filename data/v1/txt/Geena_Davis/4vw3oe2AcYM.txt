@@ -1,0 +1,9 @@
+POI: 			Geena_Davis 
+Youtube ID: 	4vw3oe2AcYM 
+Video length: 	160.6 sec 
+Set (V): 		dev 
+ 
+Geena_Davis/4vw3oe2AcYM_0000001 15.1 21.9 
+Geena_Davis/4vw3oe2AcYM_0000002 72.0 77.0 
+Geena_Davis/4vw3oe2AcYM_0000003 91.9 102.1 
+Geena_Davis/4vw3oe2AcYM_0000004 135.2 140.6 

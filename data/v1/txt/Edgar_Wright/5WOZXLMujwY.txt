@@ -1,0 +1,11 @@
+POI: 			Edgar_Wright 
+Youtube ID: 	5WOZXLMujwY 
+Video length: 	221.8 sec 
+Set (V): 		test 
+ 
+Edgar_Wright/5WOZXLMujwY_0000001 71.8 79.9 
+Edgar_Wright/5WOZXLMujwY_0000002 91.2 95.4 
+Edgar_Wright/5WOZXLMujwY_0000003 95.6 111.0 
+Edgar_Wright/5WOZXLMujwY_0000004 132.9 144.7 
+Edgar_Wright/5WOZXLMujwY_0000005 178.3 192.5 
+Edgar_Wright/5WOZXLMujwY_0000006 194.4 203.3 

@@ -1,0 +1,7 @@
+POI: 			Eli_Wallach 
+Youtube ID: 	Rzpm9hlXV6I 
+Video length: 	407.1 sec 
+Set (V): 		test 
+ 
+Eli_Wallach/Rzpm9hlXV6I_0000001 224.2 232.8 
+Eli_Wallach/Rzpm9hlXV6I_0000002 339.5 345.2 

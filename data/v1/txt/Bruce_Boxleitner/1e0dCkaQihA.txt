@@ -1,0 +1,14 @@
+POI: 			Bruce_Boxleitner 
+Youtube ID: 	1e0dCkaQihA 
+Video length: 	637.8 sec 
+Set (V): 		dev 
+ 
+Bruce_Boxleitner/1e0dCkaQihA_0000001 105.5 116.1 
+Bruce_Boxleitner/1e0dCkaQihA_0000002 169.6 173.7 
+Bruce_Boxleitner/1e0dCkaQihA_0000003 174.0 186.2 
+Bruce_Boxleitner/1e0dCkaQihA_0000004 189.3 200.1 
+Bruce_Boxleitner/1e0dCkaQihA_0000005 200.9 206.3 
+Bruce_Boxleitner/1e0dCkaQihA_0000006 233.2 244.1 
+Bruce_Boxleitner/1e0dCkaQihA_0000007 267.0 281.3 
+Bruce_Boxleitner/1e0dCkaQihA_0000008 445.7 450.6 
+Bruce_Boxleitner/1e0dCkaQihA_0000009 527.5 532.8 

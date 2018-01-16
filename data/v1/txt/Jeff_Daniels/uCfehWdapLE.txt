@@ -1,0 +1,9 @@
+POI: 			Jeff_Daniels 
+Youtube ID: 	uCfehWdapLE 
+Video length: 	226.7 sec 
+Set (V): 		dev 
+ 
+Jeff_Daniels/uCfehWdapLE_0000001 45.6 49.6 
+Jeff_Daniels/uCfehWdapLE_0000002 134.4 138.4 
+Jeff_Daniels/uCfehWdapLE_0000003 199.2 203.6 
+Jeff_Daniels/uCfehWdapLE_0000004 211.3 215.6 

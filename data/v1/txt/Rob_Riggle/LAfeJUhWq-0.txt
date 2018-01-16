@@ -1,0 +1,11 @@
+POI: 			Rob_Riggle 
+Youtube ID: 	LAfeJUhWq-0 
+Video length: 	145.9 sec 
+Set (V): 		dev 
+ 
+Rob_Riggle/LAfeJUhWq-0_0000001 12.0 30.9 
+Rob_Riggle/LAfeJUhWq-0_0000002 38.8 42.8 
+Rob_Riggle/LAfeJUhWq-0_0000003 46.7 69.1 
+Rob_Riggle/LAfeJUhWq-0_0000004 49.5 57.5 
+Rob_Riggle/LAfeJUhWq-0_0000005 75.2 84.9 
+Rob_Riggle/LAfeJUhWq-0_0000006 89.0 94.4 

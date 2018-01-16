@@ -1,0 +1,7 @@
+POI: 			Kellan_Lutz 
+Youtube ID: 	lObeARxKKNw 
+Video length: 	222.8 sec 
+Set (V): 		dev 
+ 
+Kellan_Lutz/lObeARxKKNw_0000001 45.5 52.2 
+Kellan_Lutz/lObeARxKKNw_0000002 184.5 189.2 

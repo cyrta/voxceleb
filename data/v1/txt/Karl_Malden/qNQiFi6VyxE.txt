@@ -1,0 +1,7 @@
+POI: 			Karl_Malden 
+Youtube ID: 	qNQiFi6VyxE 
+Video length: 	91.7 sec 
+Set (V): 		dev 
+ 
+Karl_Malden/qNQiFi6VyxE_0000001 32.7 48.3 
+Karl_Malden/qNQiFi6VyxE_0000002 50.6 58.8 

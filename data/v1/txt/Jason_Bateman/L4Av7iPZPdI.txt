@@ -1,0 +1,16 @@
+POI: 			Jason_Bateman 
+Youtube ID: 	L4Av7iPZPdI 
+Video length: 	311.6 sec 
+Set (V): 		dev 
+ 
+Jason_Bateman/L4Av7iPZPdI_0000001 22.9 31.5 
+Jason_Bateman/L4Av7iPZPdI_0000002 42.6 58.4 
+Jason_Bateman/L4Av7iPZPdI_0000003 60.0 65.6 
+Jason_Bateman/L4Av7iPZPdI_0000004 91.5 100.2 
+Jason_Bateman/L4Av7iPZPdI_0000005 115.0 128.8 
+Jason_Bateman/L4Av7iPZPdI_0000006 129.2 139.0 
+Jason_Bateman/L4Av7iPZPdI_0000007 156.1 161.7 
+Jason_Bateman/L4Av7iPZPdI_0000008 167.2 182.4 
+Jason_Bateman/L4Av7iPZPdI_0000009 182.6 198.4 
+Jason_Bateman/L4Av7iPZPdI_0000010 246.2 251.2 
+Jason_Bateman/L4Av7iPZPdI_0000011 251.3 256.0 

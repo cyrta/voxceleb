@@ -1,0 +1,11 @@
+POI: 			Ken_Marino 
+Youtube ID: 	p5tkXxVGhsE 
+Video length: 	319.4 sec 
+Set (V): 		dev 
+ 
+Ken_Marino/p5tkXxVGhsE_0000001 43.2 52.1 
+Ken_Marino/p5tkXxVGhsE_0000002 168.4 174.6 
+Ken_Marino/p5tkXxVGhsE_0000003 179.4 186.9 
+Ken_Marino/p5tkXxVGhsE_0000004 236.4 240.4 
+Ken_Marino/p5tkXxVGhsE_0000005 245.4 253.5 
+Ken_Marino/p5tkXxVGhsE_0000006 286.6 293.3 

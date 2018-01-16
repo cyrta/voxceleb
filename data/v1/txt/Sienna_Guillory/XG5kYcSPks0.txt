@@ -1,0 +1,11 @@
+POI: 			Sienna_Guillory 
+Youtube ID: 	XG5kYcSPks0 
+Video length: 	78.3 sec 
+Set (V): 		dev 
+ 
+Sienna_Guillory/XG5kYcSPks0_0000001 03.8 12.2 
+Sienna_Guillory/XG5kYcSPks0_0000002 12.9 22.7 
+Sienna_Guillory/XG5kYcSPks0_0000003 31.1 43.1 
+Sienna_Guillory/XG5kYcSPks0_0000004 45.2 53.3 
+Sienna_Guillory/XG5kYcSPks0_0000005 54.4 61.6 
+Sienna_Guillory/XG5kYcSPks0_0000006 62.3 68.0 

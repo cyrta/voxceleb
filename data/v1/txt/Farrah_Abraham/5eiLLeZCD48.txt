@@ -1,0 +1,14 @@
+POI: 			Farrah_Abraham 
+Youtube ID: 	5eiLLeZCD48 
+Video length: 	388.2 sec 
+Set (V): 		dev 
+ 
+Farrah_Abraham/5eiLLeZCD48_0000001 32.0 42.3 
+Farrah_Abraham/5eiLLeZCD48_0000002 58.8 63.2 
+Farrah_Abraham/5eiLLeZCD48_0000003 82.8 88.0 
+Farrah_Abraham/5eiLLeZCD48_0000004 129.2 137.8 
+Farrah_Abraham/5eiLLeZCD48_0000005 138.0 143.8 
+Farrah_Abraham/5eiLLeZCD48_0000006 171.6 182.8 
+Farrah_Abraham/5eiLLeZCD48_0000007 229.9 240.1 
+Farrah_Abraham/5eiLLeZCD48_0000008 337.1 344.7 
+Farrah_Abraham/5eiLLeZCD48_0000009 368.4 382.6 

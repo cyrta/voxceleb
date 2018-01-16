@@ -1,0 +1,10 @@
+POI: 			Tim_Daly 
+Youtube ID: 	5-d7Ar95ulg 
+Video length: 	801.0 sec 
+Set (V): 		dev 
+ 
+Tim_Daly/5-d7Ar95ulg_0000001 273.5 277.8 
+Tim_Daly/5-d7Ar95ulg_0000002 634.2 639.9 
+Tim_Daly/5-d7Ar95ulg_0000003 694.1 705.3 
+Tim_Daly/5-d7Ar95ulg_0000004 717.1 721.3 
+Tim_Daly/5-d7Ar95ulg_0000005 774.0 783.9 

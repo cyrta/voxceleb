@@ -1,0 +1,23 @@
+POI: 			Doutzen_Kroes 
+Youtube ID: 	z7PnkmwoByo 
+Video length: 	1247.9 sec 
+Set (V): 		dev 
+ 
+Doutzen_Kroes/z7PnkmwoByo_0000001 127.1 134.9 
+Doutzen_Kroes/z7PnkmwoByo_0000002 135.2 145.8 
+Doutzen_Kroes/z7PnkmwoByo_0000003 251.0 257.4 
+Doutzen_Kroes/z7PnkmwoByo_0000004 354.7 364.8 
+Doutzen_Kroes/z7PnkmwoByo_0000005 382.2 389.4 
+Doutzen_Kroes/z7PnkmwoByo_0000006 395.0 402.0 
+Doutzen_Kroes/z7PnkmwoByo_0000007 523.6 531.9 
+Doutzen_Kroes/z7PnkmwoByo_0000008 542.7 548.3 
+Doutzen_Kroes/z7PnkmwoByo_0000009 571.4 577.4 
+Doutzen_Kroes/z7PnkmwoByo_0000010 615.5 625.6 
+Doutzen_Kroes/z7PnkmwoByo_0000011 723.5 745.5 
+Doutzen_Kroes/z7PnkmwoByo_0000012 774.1 785.1 
+Doutzen_Kroes/z7PnkmwoByo_0000013 885.2 894.4 
+Doutzen_Kroes/z7PnkmwoByo_0000014 902.5 906.7 
+Doutzen_Kroes/z7PnkmwoByo_0000015 1177.2 1181.6 
+Doutzen_Kroes/z7PnkmwoByo_0000016 1181.9 1187.6 
+Doutzen_Kroes/z7PnkmwoByo_0000017 1192.2 1199.8 
+Doutzen_Kroes/z7PnkmwoByo_0000018 1223.4 1229.8 

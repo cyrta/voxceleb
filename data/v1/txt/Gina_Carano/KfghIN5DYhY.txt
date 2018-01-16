@@ -1,0 +1,13 @@
+POI: 			Gina_Carano 
+Youtube ID: 	KfghIN5DYhY 
+Video length: 	222.5 sec 
+Set (V): 		dev 
+ 
+Gina_Carano/KfghIN5DYhY_0000001 14.0 27.7 
+Gina_Carano/KfghIN5DYhY_0000002 33.8 38.5 
+Gina_Carano/KfghIN5DYhY_0000003 45.3 49.4 
+Gina_Carano/KfghIN5DYhY_0000004 49.7 59.0 
+Gina_Carano/KfghIN5DYhY_0000005 87.2 97.2 
+Gina_Carano/KfghIN5DYhY_0000006 162.2 175.0 
+Gina_Carano/KfghIN5DYhY_0000007 189.9 194.4 
+Gina_Carano/KfghIN5DYhY_0000008 196.6 214.9 

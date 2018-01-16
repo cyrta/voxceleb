@@ -1,0 +1,10 @@
+POI: 			Mitchel_Musso 
+Youtube ID: 	iKhwG9Rt2i4 
+Video length: 	290.6 sec 
+Set (V): 		dev 
+ 
+Mitchel_Musso/iKhwG9Rt2i4_0000001 52.0 56.6 
+Mitchel_Musso/iKhwG9Rt2i4_0000002 60.8 67.9 
+Mitchel_Musso/iKhwG9Rt2i4_0000003 76.2 83.4 
+Mitchel_Musso/iKhwG9Rt2i4_0000004 79.3 83.5 
+Mitchel_Musso/iKhwG9Rt2i4_0000005 218.7 222.7 

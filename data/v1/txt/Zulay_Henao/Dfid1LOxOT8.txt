@@ -1,0 +1,9 @@
+POI: 			Zulay_Henao 
+Youtube ID: 	Dfid1LOxOT8 
+Video length: 	243.1 sec 
+Set (V): 		dev 
+ 
+Zulay_Henao/Dfid1LOxOT8_0000001 86.4 91.7 
+Zulay_Henao/Dfid1LOxOT8_0000002 156.8 173.2 
+Zulay_Henao/Dfid1LOxOT8_0000003 182.1 190.0 
+Zulay_Henao/Dfid1LOxOT8_0000004 177.5 191.0 

@@ -1,0 +1,15 @@
+POI: 			Melissa_Leo 
+Youtube ID: 	JKzIbIQSxGM 
+Video length: 	1433.0 sec 
+Set (V): 		dev 
+ 
+Melissa_Leo/JKzIbIQSxGM_0000001 498.5 507.0 
+Melissa_Leo/JKzIbIQSxGM_0000002 509.1 515.2 
+Melissa_Leo/JKzIbIQSxGM_0000003 528.2 534.1 
+Melissa_Leo/JKzIbIQSxGM_0000004 555.0 560.4 
+Melissa_Leo/JKzIbIQSxGM_0000005 581.6 586.3 
+Melissa_Leo/JKzIbIQSxGM_0000006 1007.0 1014.2 
+Melissa_Leo/JKzIbIQSxGM_0000007 1017.7 1023.7 
+Melissa_Leo/JKzIbIQSxGM_0000008 1191.9 1206.1 
+Melissa_Leo/JKzIbIQSxGM_0000009 1219.4 1227.5 
+Melissa_Leo/JKzIbIQSxGM_0000010 1228.0 1245.6 

@@ -1,0 +1,20 @@
+POI: 			Hal_Sparks 
+Youtube ID: 	ho-Ml252hGk 
+Video length: 	502.6 sec 
+Set (V): 		dev 
+ 
+Hal_Sparks/ho-Ml252hGk_0000001 66.7 79.8 
+Hal_Sparks/ho-Ml252hGk_0000002 83.7 89.4 
+Hal_Sparks/ho-Ml252hGk_0000003 103.3 108.7 
+Hal_Sparks/ho-Ml252hGk_0000004 120.6 124.9 
+Hal_Sparks/ho-Ml252hGk_0000005 132.6 137.2 
+Hal_Sparks/ho-Ml252hGk_0000006 230.8 241.5 
+Hal_Sparks/ho-Ml252hGk_0000007 247.3 254.6 
+Hal_Sparks/ho-Ml252hGk_0000008 261.0 265.0 
+Hal_Sparks/ho-Ml252hGk_0000009 268.8 274.0 
+Hal_Sparks/ho-Ml252hGk_0000010 285.0 292.2 
+Hal_Sparks/ho-Ml252hGk_0000011 309.4 325.4 
+Hal_Sparks/ho-Ml252hGk_0000012 344.6 350.2 
+Hal_Sparks/ho-Ml252hGk_0000013 403.2 410.4 
+Hal_Sparks/ho-Ml252hGk_0000014 420.7 433.5 
+Hal_Sparks/ho-Ml252hGk_0000015 467.6 471.6 

@@ -1,0 +1,11 @@
+POI: 			Sammy_Davis_Jr. 
+Youtube ID: 	8721zEnsLyA 
+Video length: 	637.7 sec 
+Set (V): 		dev 
+ 
+Sammy_Davis_Jr./8721zEnsLyA_0000001 239.0 246.0 
+Sammy_Davis_Jr./8721zEnsLyA_0000002 255.2 259.4 
+Sammy_Davis_Jr./8721zEnsLyA_0000003 266.1 270.4 
+Sammy_Davis_Jr./8721zEnsLyA_0000004 388.1 396.4 
+Sammy_Davis_Jr./8721zEnsLyA_0000005 403.5 407.7 
+Sammy_Davis_Jr./8721zEnsLyA_0000006 513.3 517.9 

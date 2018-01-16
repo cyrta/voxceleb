@@ -1,0 +1,15 @@
+POI: 			John_Slattery 
+Youtube ID: 	93g4wjGdBI8 
+Video length: 	186.8 sec 
+Set (V): 		dev 
+ 
+John_Slattery/93g4wjGdBI8_0000001 19.3 32.4 
+John_Slattery/93g4wjGdBI8_0000002 45.5 52.4 
+John_Slattery/93g4wjGdBI8_0000003 52.6 58.6 
+John_Slattery/93g4wjGdBI8_0000004 59.3 63.7 
+John_Slattery/93g4wjGdBI8_0000005 67.9 73.5 
+John_Slattery/93g4wjGdBI8_0000006 78.7 83.6 
+John_Slattery/93g4wjGdBI8_0000007 103.4 110.7 
+John_Slattery/93g4wjGdBI8_0000008 121.7 126.2 
+John_Slattery/93g4wjGdBI8_0000009 144.8 148.9 
+John_Slattery/93g4wjGdBI8_0000010 164.3 174.5 

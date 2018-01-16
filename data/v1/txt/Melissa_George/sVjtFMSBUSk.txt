@@ -1,0 +1,13 @@
+POI: 			Melissa_George 
+Youtube ID: 	sVjtFMSBUSk 
+Video length: 	411.0 sec 
+Set (V): 		dev 
+ 
+Melissa_George/sVjtFMSBUSk_0000001 145.0 159.4 
+Melissa_George/sVjtFMSBUSk_0000002 169.5 181.8 
+Melissa_George/sVjtFMSBUSk_0000003 202.8 209.8 
+Melissa_George/sVjtFMSBUSk_0000004 215.7 227.4 
+Melissa_George/sVjtFMSBUSk_0000005 329.3 335.8 
+Melissa_George/sVjtFMSBUSk_0000006 336.2 345.5 
+Melissa_George/sVjtFMSBUSk_0000007 354.0 360.4 
+Melissa_George/sVjtFMSBUSk_0000008 363.6 378.2 

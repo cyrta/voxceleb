@@ -1,0 +1,16 @@
+POI: 			Wes_Bentley 
+Youtube ID: 	NfabgnDCrmM 
+Video length: 	227.7 sec 
+Set (V): 		dev 
+ 
+Wes_Bentley/NfabgnDCrmM_0000001 24.4 37.2 
+Wes_Bentley/NfabgnDCrmM_0000002 38.1 42.2 
+Wes_Bentley/NfabgnDCrmM_0000003 44.0 59.9 
+Wes_Bentley/NfabgnDCrmM_0000004 70.0 74.5 
+Wes_Bentley/NfabgnDCrmM_0000005 84.8 89.1 
+Wes_Bentley/NfabgnDCrmM_0000006 89.8 94.6 
+Wes_Bentley/NfabgnDCrmM_0000007 101.7 105.9 
+Wes_Bentley/NfabgnDCrmM_0000008 138.5 145.6 
+Wes_Bentley/NfabgnDCrmM_0000009 153.8 158.1 
+Wes_Bentley/NfabgnDCrmM_0000010 162.9 169.4 
+Wes_Bentley/NfabgnDCrmM_0000011 199.1 203.4 

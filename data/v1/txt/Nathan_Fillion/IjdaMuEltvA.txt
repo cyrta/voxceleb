@@ -1,0 +1,7 @@
+POI: 			Nathan_Fillion 
+Youtube ID: 	IjdaMuEltvA 
+Video length: 	368.2 sec 
+Set (V): 		dev 
+ 
+Nathan_Fillion/IjdaMuEltvA_0000001 61.4 68.5 
+Nathan_Fillion/IjdaMuEltvA_0000002 252.4 258.0 

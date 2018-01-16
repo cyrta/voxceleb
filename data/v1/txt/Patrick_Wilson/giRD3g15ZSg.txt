@@ -1,0 +1,19 @@
+POI: 			Patrick_Wilson 
+Youtube ID: 	giRD3g15ZSg 
+Video length: 	463.2 sec 
+Set (V): 		dev 
+ 
+Patrick_Wilson/giRD3g15ZSg_0000001 62.2 66.4 
+Patrick_Wilson/giRD3g15ZSg_0000002 85.6 97.8 
+Patrick_Wilson/giRD3g15ZSg_0000003 115.4 122.8 
+Patrick_Wilson/giRD3g15ZSg_0000004 129.9 136.8 
+Patrick_Wilson/giRD3g15ZSg_0000005 205.1 209.5 
+Patrick_Wilson/giRD3g15ZSg_0000006 225.7 231.6 
+Patrick_Wilson/giRD3g15ZSg_0000007 232.6 238.7 
+Patrick_Wilson/giRD3g15ZSg_0000008 240.9 246.0 
+Patrick_Wilson/giRD3g15ZSg_0000009 246.9 253.2 
+Patrick_Wilson/giRD3g15ZSg_0000010 258.3 283.4 
+Patrick_Wilson/giRD3g15ZSg_0000011 284.0 292.5 
+Patrick_Wilson/giRD3g15ZSg_0000012 298.0 308.2 
+Patrick_Wilson/giRD3g15ZSg_0000013 349.4 354.4 
+Patrick_Wilson/giRD3g15ZSg_0000014 365.2 370.2 

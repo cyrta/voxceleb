@@ -1,0 +1,7 @@
+POI: 			Kierston_Wareing 
+Youtube ID: 	SnAt39dyV94 
+Video length: 	1041.5 sec 
+Set (V): 		dev 
+ 
+Kierston_Wareing/SnAt39dyV94_0000001 719.2 724.0 
+Kierston_Wareing/SnAt39dyV94_0000002 728.6 738.1 

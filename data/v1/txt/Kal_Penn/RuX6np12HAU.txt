@@ -1,0 +1,8 @@
+POI: 			Kal_Penn 
+Youtube ID: 	RuX6np12HAU 
+Video length: 	414.2 sec 
+Set (V): 		dev 
+ 
+Kal_Penn/RuX6np12HAU_0000001 61.7 66.1 
+Kal_Penn/RuX6np12HAU_0000002 160.9 179.3 
+Kal_Penn/RuX6np12HAU_0000003 353.1 361.8 

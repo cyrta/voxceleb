@@ -1,0 +1,8 @@
+POI: 			Caterina_Murino 
+Youtube ID: 	mt5E9pPyxls 
+Video length: 	93.1 sec 
+Set (V): 		dev 
+ 
+Caterina_Murino/mt5E9pPyxls_0000001 06.4 10.8 
+Caterina_Murino/mt5E9pPyxls_0000002 13.2 17.2 
+Caterina_Murino/mt5E9pPyxls_0000003 48.0 52.4 

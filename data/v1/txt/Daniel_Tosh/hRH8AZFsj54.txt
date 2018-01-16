@@ -1,0 +1,11 @@
+POI: 			Daniel_Tosh 
+Youtube ID: 	hRH8AZFsj54 
+Video length: 	437.9 sec 
+Set (V): 		dev 
+ 
+Daniel_Tosh/hRH8AZFsj54_0000001 34.6 41.5 
+Daniel_Tosh/hRH8AZFsj54_0000002 56.5 68.4 
+Daniel_Tosh/hRH8AZFsj54_0000003 80.8 90.1 
+Daniel_Tosh/hRH8AZFsj54_0000004 94.6 100.6 
+Daniel_Tosh/hRH8AZFsj54_0000005 102.8 116.8 
+Daniel_Tosh/hRH8AZFsj54_0000006 421.4 425.4 

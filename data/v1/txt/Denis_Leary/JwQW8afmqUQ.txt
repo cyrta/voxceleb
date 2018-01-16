@@ -1,0 +1,19 @@
+POI: 			Denis_Leary 
+Youtube ID: 	JwQW8afmqUQ 
+Video length: 	376.1 sec 
+Set (V): 		dev 
+ 
+Denis_Leary/JwQW8afmqUQ_0000001 18.9 27.3 
+Denis_Leary/JwQW8afmqUQ_0000002 39.4 47.4 
+Denis_Leary/JwQW8afmqUQ_0000003 55.4 71.4 
+Denis_Leary/JwQW8afmqUQ_0000004 82.9 87.4 
+Denis_Leary/JwQW8afmqUQ_0000005 107.4 111.4 
+Denis_Leary/JwQW8afmqUQ_0000006 122.7 137.9 
+Denis_Leary/JwQW8afmqUQ_0000007 148.9 163.0 
+Denis_Leary/JwQW8afmqUQ_0000008 211.5 216.7 
+Denis_Leary/JwQW8afmqUQ_0000009 225.2 235.4 
+Denis_Leary/JwQW8afmqUQ_0000010 255.2 262.7 
+Denis_Leary/JwQW8afmqUQ_0000011 276.1 281.9 
+Denis_Leary/JwQW8afmqUQ_0000012 292.5 302.2 
+Denis_Leary/JwQW8afmqUQ_0000013 322.9 327.8 
+Denis_Leary/JwQW8afmqUQ_0000014 350.1 360.6 

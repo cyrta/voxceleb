@@ -1,0 +1,13 @@
+POI: 			Corey_Stoll 
+Youtube ID: 	IM2SSSlWIfo 
+Video length: 	418.0 sec 
+Set (V): 		dev 
+ 
+Corey_Stoll/IM2SSSlWIfo_0000001 100.3 105.4 
+Corey_Stoll/IM2SSSlWIfo_0000002 137.0 160.7 
+Corey_Stoll/IM2SSSlWIfo_0000003 172.9 179.9 
+Corey_Stoll/IM2SSSlWIfo_0000004 232.0 238.6 
+Corey_Stoll/IM2SSSlWIfo_0000005 297.2 301.7 
+Corey_Stoll/IM2SSSlWIfo_0000006 305.2 315.1 
+Corey_Stoll/IM2SSSlWIfo_0000007 351.9 361.6 
+Corey_Stoll/IM2SSSlWIfo_0000008 363.4 368.6 

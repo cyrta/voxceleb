@@ -1,0 +1,16 @@
+POI: 			Joel_Kinnaman 
+Youtube ID: 	zUmCwQlehVs 
+Video length: 	293.7 sec 
+Set (V): 		dev 
+ 
+Joel_Kinnaman/zUmCwQlehVs_0000001 31.1 41.8 
+Joel_Kinnaman/zUmCwQlehVs_0000002 51.7 65.4 
+Joel_Kinnaman/zUmCwQlehVs_0000003 71.1 76.7 
+Joel_Kinnaman/zUmCwQlehVs_0000004 103.4 110.2 
+Joel_Kinnaman/zUmCwQlehVs_0000005 139.2 145.1 
+Joel_Kinnaman/zUmCwQlehVs_0000006 175.1 179.8 
+Joel_Kinnaman/zUmCwQlehVs_0000007 183.8 188.2 
+Joel_Kinnaman/zUmCwQlehVs_0000008 191.1 197.7 
+Joel_Kinnaman/zUmCwQlehVs_0000009 212.3 220.6 
+Joel_Kinnaman/zUmCwQlehVs_0000010 220.9 227.0 
+Joel_Kinnaman/zUmCwQlehVs_0000011 228.2 238.6 

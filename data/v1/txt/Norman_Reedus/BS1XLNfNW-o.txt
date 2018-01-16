@@ -1,0 +1,7 @@
+POI: 			Norman_Reedus 
+Youtube ID: 	BS1XLNfNW-o 
+Video length: 	658.1 sec 
+Set (V): 		dev 
+ 
+Norman_Reedus/BS1XLNfNW-o_0000001 370.1 378.8 
+Norman_Reedus/BS1XLNfNW-o_0000002 594.6 599.5 

@@ -1,0 +1,12 @@
+POI: 			Golshifteh_Farahani 
+Youtube ID: 	z8lbB3eaxJE 
+Video length: 	207.5 sec 
+Set (V): 		dev 
+ 
+Golshifteh_Farahani/z8lbB3eaxJE_0000001 28.5 32.7 
+Golshifteh_Farahani/z8lbB3eaxJE_0000002 63.2 73.1 
+Golshifteh_Farahani/z8lbB3eaxJE_0000003 100.4 104.6 
+Golshifteh_Farahani/z8lbB3eaxJE_0000004 117.6 121.8 
+Golshifteh_Farahani/z8lbB3eaxJE_0000005 141.4 153.2 
+Golshifteh_Farahani/z8lbB3eaxJE_0000006 164.9 170.7 
+Golshifteh_Farahani/z8lbB3eaxJE_0000007 191.3 196.1 

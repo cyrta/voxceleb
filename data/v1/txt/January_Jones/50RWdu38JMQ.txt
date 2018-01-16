@@ -1,0 +1,7 @@
+POI: 			January_Jones 
+Youtube ID: 	50RWdu38JMQ 
+Video length: 	242.7 sec 
+Set (V): 		dev 
+ 
+January_Jones/50RWdu38JMQ_0000001 13.5 23.2 
+January_Jones/50RWdu38JMQ_0000002 46.0 50.2 

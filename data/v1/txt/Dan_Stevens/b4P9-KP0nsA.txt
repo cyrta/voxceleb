@@ -1,0 +1,12 @@
+POI: 			Dan_Stevens 
+Youtube ID: 	b4P9-KP0nsA 
+Video length: 	257.5 sec 
+Set (V): 		dev 
+ 
+Dan_Stevens/b4P9-KP0nsA_0000001 63.3 68.0 
+Dan_Stevens/b4P9-KP0nsA_0000002 107.1 122.3 
+Dan_Stevens/b4P9-KP0nsA_0000003 127.5 134.7 
+Dan_Stevens/b4P9-KP0nsA_0000004 143.4 150.8 
+Dan_Stevens/b4P9-KP0nsA_0000005 187.8 193.7 
+Dan_Stevens/b4P9-KP0nsA_0000006 211.2 215.6 
+Dan_Stevens/b4P9-KP0nsA_0000007 221.4 225.6 

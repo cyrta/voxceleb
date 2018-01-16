@@ -1,0 +1,8 @@
+POI: 			Noel_Clarke 
+Youtube ID: 	zI7BZaTPpps 
+Video length: 	247.9 sec 
+Set (V): 		dev 
+ 
+Noel_Clarke/zI7BZaTPpps_0000001 41.1 49.0 
+Noel_Clarke/zI7BZaTPpps_0000002 226.1 234.4 
+Noel_Clarke/zI7BZaTPpps_0000003 226.2 238.0 

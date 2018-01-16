@@ -1,0 +1,11 @@
+POI: 			Pierre_Niney 
+Youtube ID: 	Wm1Ro7DmoQk 
+Video length: 	263.9 sec 
+Set (V): 		dev 
+ 
+Pierre_Niney/Wm1Ro7DmoQk_0000001 15.0 20.3 
+Pierre_Niney/Wm1Ro7DmoQk_0000002 24.6 30.8 
+Pierre_Niney/Wm1Ro7DmoQk_0000003 35.4 41.7 
+Pierre_Niney/Wm1Ro7DmoQk_0000004 127.1 131.5 
+Pierre_Niney/Wm1Ro7DmoQk_0000005 135.7 140.0 
+Pierre_Niney/Wm1Ro7DmoQk_0000006 146.5 154.4 

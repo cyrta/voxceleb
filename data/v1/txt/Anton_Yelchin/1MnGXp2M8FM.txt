@@ -1,0 +1,19 @@
+POI: 			Anton_Yelchin 
+Youtube ID: 	1MnGXp2M8FM 
+Video length: 	500.0 sec 
+Set (V): 		dev 
+ 
+Anton_Yelchin/1MnGXp2M8FM_0000001 79.6 85.8 
+Anton_Yelchin/1MnGXp2M8FM_0000002 87.3 94.2 
+Anton_Yelchin/1MnGXp2M8FM_0000003 172.0 185.0 
+Anton_Yelchin/1MnGXp2M8FM_0000004 185.8 191.8 
+Anton_Yelchin/1MnGXp2M8FM_0000005 211.2 215.8 
+Anton_Yelchin/1MnGXp2M8FM_0000006 218.6 223.0 
+Anton_Yelchin/1MnGXp2M8FM_0000007 223.2 230.7 
+Anton_Yelchin/1MnGXp2M8FM_0000008 267.5 275.2 
+Anton_Yelchin/1MnGXp2M8FM_0000009 391.0 396.2 
+Anton_Yelchin/1MnGXp2M8FM_0000010 397.2 410.0 
+Anton_Yelchin/1MnGXp2M8FM_0000011 416.7 423.8 
+Anton_Yelchin/1MnGXp2M8FM_0000012 429.4 439.0 
+Anton_Yelchin/1MnGXp2M8FM_0000013 445.8 477.1 
+Anton_Yelchin/1MnGXp2M8FM_0000014 484.8 490.6 

@@ -1,0 +1,9 @@
+POI: 			Tabu 
+Youtube ID: 	vZjpmzzZ_ng 
+Video length: 	1354.1 sec 
+Set (V): 		dev 
+ 
+Tabu/vZjpmzzZ_ng_0000001 186.2 190.1 
+Tabu/vZjpmzzZ_ng_0000002 429.6 434.1 
+Tabu/vZjpmzzZ_ng_0000003 677.7 685.0 
+Tabu/vZjpmzzZ_ng_0000004 719.9 724.9 

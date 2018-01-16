@@ -1,0 +1,20 @@
+POI: 			Amy_Schumer 
+Youtube ID: 	iSKf4XrzNwI 
+Video length: 	316.5 sec 
+Set (V): 		dev 
+ 
+Amy_Schumer/iSKf4XrzNwI_0000001 28.0 33.8 
+Amy_Schumer/iSKf4XrzNwI_0000002 35.8 45.0 
+Amy_Schumer/iSKf4XrzNwI_0000003 78.4 84.8 
+Amy_Schumer/iSKf4XrzNwI_0000004 91.8 100.4 
+Amy_Schumer/iSKf4XrzNwI_0000005 107.0 111.2 
+Amy_Schumer/iSKf4XrzNwI_0000006 128.3 134.2 
+Amy_Schumer/iSKf4XrzNwI_0000007 142.2 146.9 
+Amy_Schumer/iSKf4XrzNwI_0000008 151.5 160.8 
+Amy_Schumer/iSKf4XrzNwI_0000009 151.4 160.8 
+Amy_Schumer/iSKf4XrzNwI_0000010 185.2 189.8 
+Amy_Schumer/iSKf4XrzNwI_0000011 204.2 216.2 
+Amy_Schumer/iSKf4XrzNwI_0000012 216.4 226.3 
+Amy_Schumer/iSKf4XrzNwI_0000013 237.4 242.4 
+Amy_Schumer/iSKf4XrzNwI_0000014 247.1 257.8 
+Amy_Schumer/iSKf4XrzNwI_0000015 272.8 280.9 

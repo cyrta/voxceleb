@@ -1,0 +1,9 @@
+POI: 			Ryan_McPartlin 
+Youtube ID: 	l3f4NFspWuc 
+Video length: 	191.8 sec 
+Set (V): 		dev 
+ 
+Ryan_McPartlin/l3f4NFspWuc_0000001 03.3 13.5 
+Ryan_McPartlin/l3f4NFspWuc_0000002 32.1 42.2 
+Ryan_McPartlin/l3f4NFspWuc_0000003 43.3 48.5 
+Ryan_McPartlin/l3f4NFspWuc_0000004 59.6 71.6 

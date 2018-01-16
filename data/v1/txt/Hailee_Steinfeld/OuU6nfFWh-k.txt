@@ -1,0 +1,15 @@
+POI: 			Hailee_Steinfeld 
+Youtube ID: 	OuU6nfFWh-k 
+Video length: 	620.4 sec 
+Set (V): 		dev 
+ 
+Hailee_Steinfeld/OuU6nfFWh-k_0000001 31.7 49.2 
+Hailee_Steinfeld/OuU6nfFWh-k_0000002 111.4 115.5 
+Hailee_Steinfeld/OuU6nfFWh-k_0000003 158.2 167.7 
+Hailee_Steinfeld/OuU6nfFWh-k_0000004 215.1 220.3 
+Hailee_Steinfeld/OuU6nfFWh-k_0000005 305.6 311.9 
+Hailee_Steinfeld/OuU6nfFWh-k_0000006 354.5 359.6 
+Hailee_Steinfeld/OuU6nfFWh-k_0000007 383.2 391.4 
+Hailee_Steinfeld/OuU6nfFWh-k_0000008 399.3 405.3 
+Hailee_Steinfeld/OuU6nfFWh-k_0000009 430.9 436.9 
+Hailee_Steinfeld/OuU6nfFWh-k_0000010 556.7 561.5 

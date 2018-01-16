@@ -1,0 +1,15 @@
+POI: 			Donnie_Yen 
+Youtube ID: 	by-Z6b693sI 
+Video length: 	324.3 sec 
+Set (V): 		dev 
+ 
+Donnie_Yen/by-Z6b693sI_0000001 11.3 16.2 
+Donnie_Yen/by-Z6b693sI_0000002 22.2 28.8 
+Donnie_Yen/by-Z6b693sI_0000003 32.6 37.2 
+Donnie_Yen/by-Z6b693sI_0000004 76.2 83.6 
+Donnie_Yen/by-Z6b693sI_0000005 102.2 107.0 
+Donnie_Yen/by-Z6b693sI_0000006 145.1 164.1 
+Donnie_Yen/by-Z6b693sI_0000007 175.3 180.9 
+Donnie_Yen/by-Z6b693sI_0000008 197.5 203.2 
+Donnie_Yen/by-Z6b693sI_0000009 211.2 216.5 
+Donnie_Yen/by-Z6b693sI_0000010 222.2 226.4 

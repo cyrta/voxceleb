@@ -1,0 +1,18 @@
+POI: 			John_Corbett 
+Youtube ID: 	F0o_XmPTehc 
+Video length: 	251.4 sec 
+Set (V): 		dev 
+ 
+John_Corbett/F0o_XmPTehc_0000001 22.8 43.0 
+John_Corbett/F0o_XmPTehc_0000002 50.2 57.4 
+John_Corbett/F0o_XmPTehc_0000003 59.2 67.8 
+John_Corbett/F0o_XmPTehc_0000004 84.0 100.6 
+John_Corbett/F0o_XmPTehc_0000005 113.8 122.3 
+John_Corbett/F0o_XmPTehc_0000006 126.2 133.5 
+John_Corbett/F0o_XmPTehc_0000007 150.8 156.2 
+John_Corbett/F0o_XmPTehc_0000008 162.3 172.8 
+John_Corbett/F0o_XmPTehc_0000009 174.2 179.8 
+John_Corbett/F0o_XmPTehc_0000010 182.0 194.8 
+John_Corbett/F0o_XmPTehc_0000011 196.0 211.8 
+John_Corbett/F0o_XmPTehc_0000012 213.7 219.0 
+John_Corbett/F0o_XmPTehc_0000013 227.2 247.8 

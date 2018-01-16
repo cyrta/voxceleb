@@ -1,0 +1,19 @@
+POI: 			Guy_Pearce 
+Youtube ID: 	ozkcxdYxoRI 
+Video length: 	214.4 sec 
+Set (V): 		dev 
+ 
+Guy_Pearce/ozkcxdYxoRI_0000001 30.2 42.0 
+Guy_Pearce/ozkcxdYxoRI_0000002 45.2 57.7 
+Guy_Pearce/ozkcxdYxoRI_0000003 61.5 67.6 
+Guy_Pearce/ozkcxdYxoRI_0000004 80.2 84.7 
+Guy_Pearce/ozkcxdYxoRI_0000005 90.3 94.3 
+Guy_Pearce/ozkcxdYxoRI_0000006 95.1 104.2 
+Guy_Pearce/ozkcxdYxoRI_0000007 105.0 116.3 
+Guy_Pearce/ozkcxdYxoRI_0000008 117.0 124.0 
+Guy_Pearce/ozkcxdYxoRI_0000009 135.6 143.7 
+Guy_Pearce/ozkcxdYxoRI_0000010 144.4 160.0 
+Guy_Pearce/ozkcxdYxoRI_0000011 166.8 176.2 
+Guy_Pearce/ozkcxdYxoRI_0000012 191.1 197.0 
+Guy_Pearce/ozkcxdYxoRI_0000013 201.9 206.3 
+Guy_Pearce/ozkcxdYxoRI_0000014 207.5 212.6 

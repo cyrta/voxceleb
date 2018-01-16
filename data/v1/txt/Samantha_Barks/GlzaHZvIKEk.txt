@@ -1,0 +1,12 @@
+POI: 			Samantha_Barks 
+Youtube ID: 	GlzaHZvIKEk 
+Video length: 	219.1 sec 
+Set (V): 		dev 
+ 
+Samantha_Barks/GlzaHZvIKEk_0000001 13.9 23.0 
+Samantha_Barks/GlzaHZvIKEk_0000002 39.2 43.8 
+Samantha_Barks/GlzaHZvIKEk_0000003 72.8 82.1 
+Samantha_Barks/GlzaHZvIKEk_0000004 82.8 101.2 
+Samantha_Barks/GlzaHZvIKEk_0000005 117.3 124.0 
+Samantha_Barks/GlzaHZvIKEk_0000006 164.6 169.7 
+Samantha_Barks/GlzaHZvIKEk_0000007 170.2 185.0 

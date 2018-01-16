@@ -1,0 +1,11 @@
+POI: 			Max_Adler 
+Youtube ID: 	1SDnb9aYf0k 
+Video length: 	231.4 sec 
+Set (V): 		dev 
+ 
+Max_Adler/1SDnb9aYf0k_0000001 56.9 61.1 
+Max_Adler/1SDnb9aYf0k_0000002 73.8 84.0 
+Max_Adler/1SDnb9aYf0k_0000003 113.4 117.6 
+Max_Adler/1SDnb9aYf0k_0000004 144.3 149.7 
+Max_Adler/1SDnb9aYf0k_0000005 181.4 186.5 
+Max_Adler/1SDnb9aYf0k_0000006 186.7 198.5 

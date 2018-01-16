@@ -1,0 +1,11 @@
+POI: 			Hector_Elizondo 
+Youtube ID: 	TbjPV1ixaqI 
+Video length: 	153.4 sec 
+Set (V): 		dev 
+ 
+Hector_Elizondo/TbjPV1ixaqI_0000001 17.0 22.8 
+Hector_Elizondo/TbjPV1ixaqI_0000002 35.8 42.0 
+Hector_Elizondo/TbjPV1ixaqI_0000003 53.8 58.0 
+Hector_Elizondo/TbjPV1ixaqI_0000004 85.0 90.0 
+Hector_Elizondo/TbjPV1ixaqI_0000005 104.4 112.2 
+Hector_Elizondo/TbjPV1ixaqI_0000006 127.5 131.5 

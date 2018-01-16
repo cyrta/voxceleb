@@ -1,0 +1,11 @@
+POI: 			Katie_Stevens 
+Youtube ID: 	XOrLPh7oz8c 
+Video length: 	329.5 sec 
+Set (V): 		dev 
+ 
+Katie_Stevens/XOrLPh7oz8c_0000001 67.2 76.1 
+Katie_Stevens/XOrLPh7oz8c_0000002 134.9 146.1 
+Katie_Stevens/XOrLPh7oz8c_0000003 161.2 167.4 
+Katie_Stevens/XOrLPh7oz8c_0000004 258.1 266.3 
+Katie_Stevens/XOrLPh7oz8c_0000005 267.6 274.3 
+Katie_Stevens/XOrLPh7oz8c_0000006 297.6 307.4 

@@ -1,0 +1,8 @@
+POI: 			Diogo_Morgado 
+Youtube ID: 	3q8zbsUrq3w 
+Video length: 	447.9 sec 
+Set (V): 		dev 
+ 
+Diogo_Morgado/3q8zbsUrq3w_0000001 77.0 81.0 
+Diogo_Morgado/3q8zbsUrq3w_0000002 213.7 219.4 
+Diogo_Morgado/3q8zbsUrq3w_0000003 401.6 407.3 

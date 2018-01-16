@@ -1,0 +1,10 @@
+POI: 			Kiernan_Shipka 
+Youtube ID: 	U1icRwcRd4c 
+Video length: 	111.0 sec 
+Set (V): 		dev 
+ 
+Kiernan_Shipka/U1icRwcRd4c_0000001 07.4 31.4 
+Kiernan_Shipka/U1icRwcRd4c_0000002 32.0 41.4 
+Kiernan_Shipka/U1icRwcRd4c_0000003 46.0 65.8 
+Kiernan_Shipka/U1icRwcRd4c_0000004 66.2 73.4 
+Kiernan_Shipka/U1icRwcRd4c_0000005 83.8 93.3 

@@ -1,0 +1,9 @@
+POI: 			Idina_Menzel 
+Youtube ID: 	zj6bYyZZs3E 
+Video length: 	940.3 sec 
+Set (V): 		dev 
+ 
+Idina_Menzel/zj6bYyZZs3E_0000001 127.6 137.6 
+Idina_Menzel/zj6bYyZZs3E_0000002 245.5 250.2 
+Idina_Menzel/zj6bYyZZs3E_0000003 557.8 567.6 
+Idina_Menzel/zj6bYyZZs3E_0000004 846.0 850.4 

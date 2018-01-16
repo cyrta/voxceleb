@@ -1,0 +1,30 @@
+POI: 			Brendan_Gleeson 
+Youtube ID: 	MSV9xFqcEh8 
+Video length: 	465.7 sec 
+Set (V): 		dev 
+ 
+Brendan_Gleeson/MSV9xFqcEh8_0000001 17.3 23.8 
+Brendan_Gleeson/MSV9xFqcEh8_0000002 31.4 37.4 
+Brendan_Gleeson/MSV9xFqcEh8_0000003 66.1 73.8 
+Brendan_Gleeson/MSV9xFqcEh8_0000004 77.4 81.4 
+Brendan_Gleeson/MSV9xFqcEh8_0000005 81.6 93.9 
+Brendan_Gleeson/MSV9xFqcEh8_0000006 132.4 140.9 
+Brendan_Gleeson/MSV9xFqcEh8_0000007 155.5 161.8 
+Brendan_Gleeson/MSV9xFqcEh8_0000008 164.6 172.7 
+Brendan_Gleeson/MSV9xFqcEh8_0000009 174.0 187.5 
+Brendan_Gleeson/MSV9xFqcEh8_0000010 205.2 210.9 
+Brendan_Gleeson/MSV9xFqcEh8_0000011 220.8 226.2 
+Brendan_Gleeson/MSV9xFqcEh8_0000012 226.9 233.8 
+Brendan_Gleeson/MSV9xFqcEh8_0000013 252.5 258.3 
+Brendan_Gleeson/MSV9xFqcEh8_0000014 259.4 263.5 
+Brendan_Gleeson/MSV9xFqcEh8_0000015 263.8 276.2 
+Brendan_Gleeson/MSV9xFqcEh8_0000016 294.4 302.5 
+Brendan_Gleeson/MSV9xFqcEh8_0000017 303.2 307.5 
+Brendan_Gleeson/MSV9xFqcEh8_0000018 313.2 332.0 
+Brendan_Gleeson/MSV9xFqcEh8_0000019 353.1 359.0 
+Brendan_Gleeson/MSV9xFqcEh8_0000020 360.5 366.6 
+Brendan_Gleeson/MSV9xFqcEh8_0000021 367.8 406.5 
+Brendan_Gleeson/MSV9xFqcEh8_0000022 410.2 416.2 
+Brendan_Gleeson/MSV9xFqcEh8_0000023 417.6 423.2 
+Brendan_Gleeson/MSV9xFqcEh8_0000024 432.9 437.9 
+Brendan_Gleeson/MSV9xFqcEh8_0000025 439.2 445.3 

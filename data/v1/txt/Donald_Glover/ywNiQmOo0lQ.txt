@@ -1,0 +1,34 @@
+POI: 			Donald_Glover 
+Youtube ID: 	ywNiQmOo0lQ 
+Video length: 	580.3 sec 
+Set (V): 		dev 
+ 
+Donald_Glover/ywNiQmOo0lQ_0000001 47.9 53.1 
+Donald_Glover/ywNiQmOo0lQ_0000002 55.3 60.9 
+Donald_Glover/ywNiQmOo0lQ_0000003 80.5 84.6 
+Donald_Glover/ywNiQmOo0lQ_0000004 100.5 113.9 
+Donald_Glover/ywNiQmOo0lQ_0000005 116.6 122.0 
+Donald_Glover/ywNiQmOo0lQ_0000006 135.7 144.2 
+Donald_Glover/ywNiQmOo0lQ_0000007 145.8 154.8 
+Donald_Glover/ywNiQmOo0lQ_0000008 169.0 173.4 
+Donald_Glover/ywNiQmOo0lQ_0000009 178.1 189.8 
+Donald_Glover/ywNiQmOo0lQ_0000010 205.8 210.5 
+Donald_Glover/ywNiQmOo0lQ_0000011 251.0 255.2 
+Donald_Glover/ywNiQmOo0lQ_0000012 258.6 263.5 
+Donald_Glover/ywNiQmOo0lQ_0000013 269.7 274.3 
+Donald_Glover/ywNiQmOo0lQ_0000014 287.7 293.1 
+Donald_Glover/ywNiQmOo0lQ_0000015 319.5 323.9 
+Donald_Glover/ywNiQmOo0lQ_0000016 337.0 341.0 
+Donald_Glover/ywNiQmOo0lQ_0000017 349.6 354.4 
+Donald_Glover/ywNiQmOo0lQ_0000018 370.9 375.5 
+Donald_Glover/ywNiQmOo0lQ_0000019 376.0 383.8 
+Donald_Glover/ywNiQmOo0lQ_0000020 384.6 388.6 
+Donald_Glover/ywNiQmOo0lQ_0000021 413.0 419.8 
+Donald_Glover/ywNiQmOo0lQ_0000022 443.7 449.8 
+Donald_Glover/ywNiQmOo0lQ_0000023 508.4 512.8 
+Donald_Glover/ywNiQmOo0lQ_0000024 519.7 523.8 
+Donald_Glover/ywNiQmOo0lQ_0000025 524.6 530.0 
+Donald_Glover/ywNiQmOo0lQ_0000026 538.4 543.8 
+Donald_Glover/ywNiQmOo0lQ_0000027 553.1 560.0 
+Donald_Glover/ywNiQmOo0lQ_0000028 560.8 566.0 
+Donald_Glover/ywNiQmOo0lQ_0000029 571.4 575.6 

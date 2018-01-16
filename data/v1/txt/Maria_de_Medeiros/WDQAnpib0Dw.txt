@@ -1,0 +1,13 @@
+POI: 			Maria_de_Medeiros 
+Youtube ID: 	WDQAnpib0Dw 
+Video length: 	457.2 sec 
+Set (V): 		dev 
+ 
+Maria_de_Medeiros/WDQAnpib0Dw_0000001 129.3 135.1 
+Maria_de_Medeiros/WDQAnpib0Dw_0000002 220.7 227.0 
+Maria_de_Medeiros/WDQAnpib0Dw_0000003 232.8 241.8 
+Maria_de_Medeiros/WDQAnpib0Dw_0000004 242.0 249.5 
+Maria_de_Medeiros/WDQAnpib0Dw_0000005 274.0 279.9 
+Maria_de_Medeiros/WDQAnpib0Dw_0000006 292.8 307.4 
+Maria_de_Medeiros/WDQAnpib0Dw_0000007 391.8 408.1 
+Maria_de_Medeiros/WDQAnpib0Dw_0000008 437.6 443.7 

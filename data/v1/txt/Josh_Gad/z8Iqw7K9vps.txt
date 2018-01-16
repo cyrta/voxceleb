@@ -1,0 +1,12 @@
+POI: 			Josh_Gad 
+Youtube ID: 	z8Iqw7K9vps 
+Video length: 	417.7 sec 
+Set (V): 		dev 
+ 
+Josh_Gad/z8Iqw7K9vps_0000001 46.3 57.9 
+Josh_Gad/z8Iqw7K9vps_0000002 60.8 65.9 
+Josh_Gad/z8Iqw7K9vps_0000003 66.4 81.4 
+Josh_Gad/z8Iqw7K9vps_0000004 273.7 286.0 
+Josh_Gad/z8Iqw7K9vps_0000005 286.4 291.8 
+Josh_Gad/z8Iqw7K9vps_0000006 293.1 299.2 
+Josh_Gad/z8Iqw7K9vps_0000007 299.8 306.6 

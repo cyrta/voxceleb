@@ -1,0 +1,7 @@
+POI: 			Richard_Hammond 
+Youtube ID: 	EUAyeEawByE 
+Video length: 	570.6 sec 
+Set (V): 		dev 
+ 
+Richard_Hammond/EUAyeEawByE_0000001 442.5 446.4 
+Richard_Hammond/EUAyeEawByE_0000002 519.9 524.8 

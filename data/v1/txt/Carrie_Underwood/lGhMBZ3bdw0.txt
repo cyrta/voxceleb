@@ -1,0 +1,10 @@
+POI: 			Carrie_Underwood 
+Youtube ID: 	lGhMBZ3bdw0 
+Video length: 	149.1 sec 
+Set (V): 		dev 
+ 
+Carrie_Underwood/lGhMBZ3bdw0_0000001 01.1 15.0 
+Carrie_Underwood/lGhMBZ3bdw0_0000002 17.4 34.3 
+Carrie_Underwood/lGhMBZ3bdw0_0000003 43.7 48.3 
+Carrie_Underwood/lGhMBZ3bdw0_0000004 51.0 55.8 
+Carrie_Underwood/lGhMBZ3bdw0_0000005 59.6 66.2 

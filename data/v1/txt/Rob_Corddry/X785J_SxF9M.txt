@@ -1,0 +1,7 @@
+POI: 			Rob_Corddry 
+Youtube ID: 	X785J_SxF9M 
+Video length: 	260.4 sec 
+Set (V): 		dev 
+ 
+Rob_Corddry/X785J_SxF9M_0000001 171.3 194.9 
+Rob_Corddry/X785J_SxF9M_0000002 203.3 208.0 

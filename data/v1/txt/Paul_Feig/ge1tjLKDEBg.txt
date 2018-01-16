@@ -1,0 +1,10 @@
+POI: 			Paul_Feig 
+Youtube ID: 	ge1tjLKDEBg 
+Video length: 	99.0 sec 
+Set (V): 		dev 
+ 
+Paul_Feig/ge1tjLKDEBg_0000001 01.5 10.1 
+Paul_Feig/ge1tjLKDEBg_0000002 18.5 28.2 
+Paul_Feig/ge1tjLKDEBg_0000003 31.5 61.8 
+Paul_Feig/ge1tjLKDEBg_0000004 67.2 84.1 
+Paul_Feig/ge1tjLKDEBg_0000005 86.0 96.4 

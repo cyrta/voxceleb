@@ -1,0 +1,7 @@
+POI: 			Jimmy_Fallon 
+Youtube ID: 	RCJDn-vkAi4 
+Video length: 	199.3 sec 
+Set (V): 		dev 
+ 
+Jimmy_Fallon/RCJDn-vkAi4_0000001 01.7 15.9 
+Jimmy_Fallon/RCJDn-vkAi4_0000002 157.8 161.8 

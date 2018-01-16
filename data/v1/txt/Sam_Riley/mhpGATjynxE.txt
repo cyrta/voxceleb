@@ -1,0 +1,17 @@
+POI: 			Sam_Riley 
+Youtube ID: 	mhpGATjynxE 
+Video length: 	275.0 sec 
+Set (V): 		dev 
+ 
+Sam_Riley/mhpGATjynxE_0000001 21.4 26.2 
+Sam_Riley/mhpGATjynxE_0000002 32.7 37.1 
+Sam_Riley/mhpGATjynxE_0000003 37.7 45.2 
+Sam_Riley/mhpGATjynxE_0000004 69.3 77.9 
+Sam_Riley/mhpGATjynxE_0000005 95.5 101.2 
+Sam_Riley/mhpGATjynxE_0000006 111.7 116.6 
+Sam_Riley/mhpGATjynxE_0000007 117.0 121.3 
+Sam_Riley/mhpGATjynxE_0000008 126.4 131.7 
+Sam_Riley/mhpGATjynxE_0000009 133.1 147.4 
+Sam_Riley/mhpGATjynxE_0000010 148.8 164.8 
+Sam_Riley/mhpGATjynxE_0000011 171.1 175.6 
+Sam_Riley/mhpGATjynxE_0000012 175.9 180.3 

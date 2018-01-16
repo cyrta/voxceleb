@@ -1,0 +1,7 @@
+POI: 			Olivia_Colman 
+Youtube ID: 	jpZLYQjm1jY 
+Video length: 	137.8 sec 
+Set (V): 		dev 
+ 
+Olivia_Colman/jpZLYQjm1jY_0000001 19.7 25.4 
+Olivia_Colman/jpZLYQjm1jY_0000002 70.9 75.0 

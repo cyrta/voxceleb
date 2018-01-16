@@ -1,0 +1,15 @@
+POI: 			Jennifer_Beals 
+Youtube ID: 	q01wcqGoKig 
+Video length: 	438.0 sec 
+Set (V): 		dev 
+ 
+Jennifer_Beals/q01wcqGoKig_0000001 140.0 153.9 
+Jennifer_Beals/q01wcqGoKig_0000002 154.8 168.8 
+Jennifer_Beals/q01wcqGoKig_0000003 243.6 250.6 
+Jennifer_Beals/q01wcqGoKig_0000004 251.2 256.3 
+Jennifer_Beals/q01wcqGoKig_0000005 260.5 280.4 
+Jennifer_Beals/q01wcqGoKig_0000006 282.8 288.5 
+Jennifer_Beals/q01wcqGoKig_0000007 290.5 294.8 
+Jennifer_Beals/q01wcqGoKig_0000008 332.3 341.7 
+Jennifer_Beals/q01wcqGoKig_0000009 344.9 351.6 
+Jennifer_Beals/q01wcqGoKig_0000010 411.4 417.2 

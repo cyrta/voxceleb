@@ -1,0 +1,8 @@
+POI: 			Jennifer_Ehle 
+Youtube ID: 	fR8eMevN3AI 
+Video length: 	245.8 sec 
+Set (V): 		dev 
+ 
+Jennifer_Ehle/fR8eMevN3AI_0000001 17.2 30.2 
+Jennifer_Ehle/fR8eMevN3AI_0000002 45.8 90.2 
+Jennifer_Ehle/fR8eMevN3AI_0000003 100.4 108.9 

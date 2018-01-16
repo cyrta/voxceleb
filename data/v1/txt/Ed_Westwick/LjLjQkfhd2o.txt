@@ -1,0 +1,13 @@
+POI: 			Ed_Westwick 
+Youtube ID: 	LjLjQkfhd2o 
+Video length: 	206.5 sec 
+Set (V): 		test 
+ 
+Ed_Westwick/LjLjQkfhd2o_0000001 06.6 11.9 
+Ed_Westwick/LjLjQkfhd2o_0000002 19.1 23.9 
+Ed_Westwick/LjLjQkfhd2o_0000003 24.1 28.4 
+Ed_Westwick/LjLjQkfhd2o_0000004 124.0 128.3 
+Ed_Westwick/LjLjQkfhd2o_0000005 141.6 149.5 
+Ed_Westwick/LjLjQkfhd2o_0000006 157.7 161.8 
+Ed_Westwick/LjLjQkfhd2o_0000007 174.3 179.3 
+Ed_Westwick/LjLjQkfhd2o_0000008 184.0 189.2 

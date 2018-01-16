@@ -1,0 +1,7 @@
+POI: 			John_Noble 
+Youtube ID: 	RPv8zxmvAr4 
+Video length: 	135.7 sec 
+Set (V): 		dev 
+ 
+John_Noble/RPv8zxmvAr4_0000001 47.5 54.9 
+John_Noble/RPv8zxmvAr4_0000002 122.2 126.6 

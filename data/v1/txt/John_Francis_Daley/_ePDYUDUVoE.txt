@@ -1,0 +1,24 @@
+POI: 			John_Francis_Daley 
+Youtube ID: 	_ePDYUDUVoE 
+Video length: 	647.6 sec 
+Set (V): 		dev 
+ 
+John_Francis_Daley/_ePDYUDUVoE_0000001 54.6 76.2 
+John_Francis_Daley/_ePDYUDUVoE_0000002 101.8 106.7 
+John_Francis_Daley/_ePDYUDUVoE_0000003 132.6 140.1 
+John_Francis_Daley/_ePDYUDUVoE_0000004 164.8 183.7 
+John_Francis_Daley/_ePDYUDUVoE_0000005 219.9 224.2 
+John_Francis_Daley/_ePDYUDUVoE_0000006 226.1 232.8 
+John_Francis_Daley/_ePDYUDUVoE_0000007 264.1 272.9 
+John_Francis_Daley/_ePDYUDUVoE_0000008 267.4 275.0 
+John_Francis_Daley/_ePDYUDUVoE_0000009 321.4 329.6 
+John_Francis_Daley/_ePDYUDUVoE_0000010 345.1 350.4 
+John_Francis_Daley/_ePDYUDUVoE_0000011 368.6 378.8 
+John_Francis_Daley/_ePDYUDUVoE_0000012 434.2 440.5 
+John_Francis_Daley/_ePDYUDUVoE_0000013 454.0 468.0 
+John_Francis_Daley/_ePDYUDUVoE_0000014 484.2 488.3 
+John_Francis_Daley/_ePDYUDUVoE_0000015 488.6 492.6 
+John_Francis_Daley/_ePDYUDUVoE_0000016 492.7 514.8 
+John_Francis_Daley/_ePDYUDUVoE_0000017 580.1 584.4 
+John_Francis_Daley/_ePDYUDUVoE_0000018 596.4 609.4 
+John_Francis_Daley/_ePDYUDUVoE_0000019 624.5 632.8 

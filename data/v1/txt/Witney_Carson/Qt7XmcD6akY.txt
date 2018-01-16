@@ -1,0 +1,21 @@
+POI: 			Witney_Carson 
+Youtube ID: 	Qt7XmcD6akY 
+Video length: 	595.4 sec 
+Set (V): 		dev 
+ 
+Witney_Carson/Qt7XmcD6akY_0000001 38.0 59.8 
+Witney_Carson/Qt7XmcD6akY_0000002 75.4 91.1 
+Witney_Carson/Qt7XmcD6akY_0000003 94.9 122.8 
+Witney_Carson/Qt7XmcD6akY_0000004 123.1 135.4 
+Witney_Carson/Qt7XmcD6akY_0000005 141.1 146.4 
+Witney_Carson/Qt7XmcD6akY_0000006 147.0 151.2 
+Witney_Carson/Qt7XmcD6akY_0000007 152.0 161.5 
+Witney_Carson/Qt7XmcD6akY_0000008 166.0 170.6 
+Witney_Carson/Qt7XmcD6akY_0000009 257.6 263.0 
+Witney_Carson/Qt7XmcD6akY_0000010 263.5 297.4 
+Witney_Carson/Qt7XmcD6akY_0000011 316.7 344.5 
+Witney_Carson/Qt7XmcD6akY_0000012 344.7 367.8 
+Witney_Carson/Qt7XmcD6akY_0000013 500.1 506.6 
+Witney_Carson/Qt7XmcD6akY_0000014 507.1 532.0 
+Witney_Carson/Qt7XmcD6akY_0000015 543.2 548.4 
+Witney_Carson/Qt7XmcD6akY_0000016 549.1 563.0 

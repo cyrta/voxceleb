@@ -1,0 +1,10 @@
+POI: 			Jean_Reno 
+Youtube ID: 	d9dZkC2U4fI 
+Video length: 	165.2 sec 
+Set (V): 		dev 
+ 
+Jean_Reno/d9dZkC2U4fI_0000001 23.2 28.1 
+Jean_Reno/d9dZkC2U4fI_0000002 46.0 52.6 
+Jean_Reno/d9dZkC2U4fI_0000003 60.9 68.3 
+Jean_Reno/d9dZkC2U4fI_0000004 130.8 138.8 
+Jean_Reno/d9dZkC2U4fI_0000005 151.9 157.9 

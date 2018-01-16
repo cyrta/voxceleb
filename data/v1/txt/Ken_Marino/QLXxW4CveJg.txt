@@ -1,0 +1,9 @@
+POI: 			Ken_Marino 
+Youtube ID: 	QLXxW4CveJg 
+Video length: 	177.6 sec 
+Set (V): 		dev 
+ 
+Ken_Marino/QLXxW4CveJg_0000001 63.1 67.2 
+Ken_Marino/QLXxW4CveJg_0000002 70.8 75.2 
+Ken_Marino/QLXxW4CveJg_0000003 103.3 107.7 
+Ken_Marino/QLXxW4CveJg_0000004 159.0 166.9 

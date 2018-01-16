@@ -1,0 +1,12 @@
+POI: 			Kate_Mulgrew 
+Youtube ID: 	agc1dcuS_Fs 
+Video length: 	340.9 sec 
+Set (V): 		dev 
+ 
+Kate_Mulgrew/agc1dcuS_Fs_0000001 19.3 23.8 
+Kate_Mulgrew/agc1dcuS_Fs_0000002 61.5 67.9 
+Kate_Mulgrew/agc1dcuS_Fs_0000003 78.8 83.4 
+Kate_Mulgrew/agc1dcuS_Fs_0000004 146.3 152.2 
+Kate_Mulgrew/agc1dcuS_Fs_0000005 223.4 236.3 
+Kate_Mulgrew/agc1dcuS_Fs_0000006 252.9 258.2 
+Kate_Mulgrew/agc1dcuS_Fs_0000007 277.7 282.2 

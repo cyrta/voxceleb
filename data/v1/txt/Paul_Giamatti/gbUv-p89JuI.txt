@@ -1,0 +1,19 @@
+POI: 			Paul_Giamatti 
+Youtube ID: 	gbUv-p89JuI 
+Video length: 	475.9 sec 
+Set (V): 		dev 
+ 
+Paul_Giamatti/gbUv-p89JuI_0000001 112.7 120.5 
+Paul_Giamatti/gbUv-p89JuI_0000002 131.6 138.5 
+Paul_Giamatti/gbUv-p89JuI_0000003 147.9 155.9 
+Paul_Giamatti/gbUv-p89JuI_0000004 163.8 176.2 
+Paul_Giamatti/gbUv-p89JuI_0000005 180.2 191.2 
+Paul_Giamatti/gbUv-p89JuI_0000006 199.3 216.2 
+Paul_Giamatti/gbUv-p89JuI_0000007 222.9 228.7 
+Paul_Giamatti/gbUv-p89JuI_0000008 229.7 238.4 
+Paul_Giamatti/gbUv-p89JuI_0000009 239.7 246.4 
+Paul_Giamatti/gbUv-p89JuI_0000010 253.6 259.8 
+Paul_Giamatti/gbUv-p89JuI_0000011 298.3 303.0 
+Paul_Giamatti/gbUv-p89JuI_0000012 349.7 354.0 
+Paul_Giamatti/gbUv-p89JuI_0000013 368.4 374.9 
+Paul_Giamatti/gbUv-p89JuI_0000014 382.0 389.2 

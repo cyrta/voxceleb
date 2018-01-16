@@ -1,0 +1,7 @@
+POI: 			John_Corbett 
+Youtube ID: 	UiQDEiQA_Go 
+Video length: 	330.7 sec 
+Set (V): 		dev 
+ 
+John_Corbett/UiQDEiQA_Go_0000001 75.8 84.1 
+John_Corbett/UiQDEiQA_Go_0000002 265.5 281.0 

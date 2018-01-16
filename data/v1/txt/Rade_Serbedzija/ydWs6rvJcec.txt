@@ -1,0 +1,9 @@
+POI: 			Rade_Serbedzija 
+Youtube ID: 	ydWs6rvJcec 
+Video length: 	199.6 sec 
+Set (V): 		dev 
+ 
+Rade_Serbedzija/ydWs6rvJcec_0000001 35.8 44.0 
+Rade_Serbedzija/ydWs6rvJcec_0000002 97.4 102.8 
+Rade_Serbedzija/ydWs6rvJcec_0000003 103.4 110.4 
+Rade_Serbedzija/ydWs6rvJcec_0000004 162.4 174.0 

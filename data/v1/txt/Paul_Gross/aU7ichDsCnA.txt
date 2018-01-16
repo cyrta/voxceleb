@@ -1,0 +1,10 @@
+POI: 			Paul_Gross 
+Youtube ID: 	aU7ichDsCnA 
+Video length: 	256.4 sec 
+Set (V): 		dev 
+ 
+Paul_Gross/aU7ichDsCnA_0000001 103.3 109.8 
+Paul_Gross/aU7ichDsCnA_0000002 112.3 119.6 
+Paul_Gross/aU7ichDsCnA_0000003 119.9 127.5 
+Paul_Gross/aU7ichDsCnA_0000004 207.4 212.1 
+Paul_Gross/aU7ichDsCnA_0000005 241.4 245.4 

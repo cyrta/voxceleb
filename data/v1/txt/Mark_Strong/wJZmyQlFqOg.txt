@@ -1,0 +1,30 @@
+POI: 			Mark_Strong 
+Youtube ID: 	wJZmyQlFqOg 
+Video length: 	487.5 sec 
+Set (V): 		dev 
+ 
+Mark_Strong/wJZmyQlFqOg_0000001 20.6 36.8 
+Mark_Strong/wJZmyQlFqOg_0000002 54.7 62.2 
+Mark_Strong/wJZmyQlFqOg_0000003 62.5 71.6 
+Mark_Strong/wJZmyQlFqOg_0000004 72.0 80.9 
+Mark_Strong/wJZmyQlFqOg_0000005 83.8 97.0 
+Mark_Strong/wJZmyQlFqOg_0000006 121.3 125.4 
+Mark_Strong/wJZmyQlFqOg_0000007 128.7 137.7 
+Mark_Strong/wJZmyQlFqOg_0000008 137.8 152.3 
+Mark_Strong/wJZmyQlFqOg_0000009 174.6 184.9 
+Mark_Strong/wJZmyQlFqOg_0000010 185.4 206.5 
+Mark_Strong/wJZmyQlFqOg_0000011 209.6 221.5 
+Mark_Strong/wJZmyQlFqOg_0000012 244.7 251.2 
+Mark_Strong/wJZmyQlFqOg_0000013 251.7 268.0 
+Mark_Strong/wJZmyQlFqOg_0000014 270.6 276.0 
+Mark_Strong/wJZmyQlFqOg_0000015 298.2 309.4 
+Mark_Strong/wJZmyQlFqOg_0000016 309.9 315.1 
+Mark_Strong/wJZmyQlFqOg_0000017 330.3 336.2 
+Mark_Strong/wJZmyQlFqOg_0000018 336.7 344.4 
+Mark_Strong/wJZmyQlFqOg_0000019 351.7 363.2 
+Mark_Strong/wJZmyQlFqOg_0000020 371.4 403.4 
+Mark_Strong/wJZmyQlFqOg_0000021 405.6 409.8 
+Mark_Strong/wJZmyQlFqOg_0000022 420.8 429.3 
+Mark_Strong/wJZmyQlFqOg_0000023 430.7 442.4 
+Mark_Strong/wJZmyQlFqOg_0000024 449.2 455.5 
+Mark_Strong/wJZmyQlFqOg_0000025 456.5 471.0 

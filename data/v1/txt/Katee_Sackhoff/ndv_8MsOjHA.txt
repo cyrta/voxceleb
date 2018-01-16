@@ -1,0 +1,14 @@
+POI: 			Katee_Sackhoff 
+Youtube ID: 	ndv_8MsOjHA 
+Video length: 	293.5 sec 
+Set (V): 		dev 
+ 
+Katee_Sackhoff/ndv_8MsOjHA_0000001 116.6 125.6 
+Katee_Sackhoff/ndv_8MsOjHA_0000002 126.6 136.6 
+Katee_Sackhoff/ndv_8MsOjHA_0000003 138.9 146.5 
+Katee_Sackhoff/ndv_8MsOjHA_0000004 208.0 216.0 
+Katee_Sackhoff/ndv_8MsOjHA_0000005 216.4 224.9 
+Katee_Sackhoff/ndv_8MsOjHA_0000006 225.3 230.1 
+Katee_Sackhoff/ndv_8MsOjHA_0000007 249.1 256.0 
+Katee_Sackhoff/ndv_8MsOjHA_0000008 261.1 266.1 
+Katee_Sackhoff/ndv_8MsOjHA_0000009 271.2 282.2 

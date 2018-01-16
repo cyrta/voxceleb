@@ -1,0 +1,11 @@
+POI: 			Sarah_Gadon 
+Youtube ID: 	nSVGN2__oAk 
+Video length: 	301.5 sec 
+Set (V): 		dev 
+ 
+Sarah_Gadon/nSVGN2__oAk_0000001 54.5 62.7 
+Sarah_Gadon/nSVGN2__oAk_0000002 63.4 74.4 
+Sarah_Gadon/nSVGN2__oAk_0000003 133.5 146.0 
+Sarah_Gadon/nSVGN2__oAk_0000004 153.8 179.6 
+Sarah_Gadon/nSVGN2__oAk_0000005 203.4 222.5 
+Sarah_Gadon/nSVGN2__oAk_0000006 256.4 262.2 

@@ -1,0 +1,11 @@
+POI: 			Paul_Dano 
+Youtube ID: 	2nADYUR8RBk 
+Video length: 	187.6 sec 
+Set (V): 		dev 
+ 
+Paul_Dano/2nADYUR8RBk_0000001 04.2 08.8 
+Paul_Dano/2nADYUR8RBk_0000002 66.4 70.5 
+Paul_Dano/2nADYUR8RBk_0000003 90.0 98.4 
+Paul_Dano/2nADYUR8RBk_0000004 120.6 125.3 
+Paul_Dano/2nADYUR8RBk_0000005 134.0 142.9 
+Paul_Dano/2nADYUR8RBk_0000006 157.4 170.3 

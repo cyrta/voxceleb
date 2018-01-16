@@ -1,0 +1,13 @@
+POI: 			John_Lloyd_Young 
+Youtube ID: 	_ULJ5vcD2dQ 
+Video length: 	228.5 sec 
+Set (V): 		dev 
+ 
+John_Lloyd_Young/_ULJ5vcD2dQ_0000001 29.7 39.4 
+John_Lloyd_Young/_ULJ5vcD2dQ_0000002 43.7 51.2 
+John_Lloyd_Young/_ULJ5vcD2dQ_0000003 81.4 94.6 
+John_Lloyd_Young/_ULJ5vcD2dQ_0000004 127.3 136.9 
+John_Lloyd_Young/_ULJ5vcD2dQ_0000005 138.0 143.7 
+John_Lloyd_Young/_ULJ5vcD2dQ_0000006 144.7 152.2 
+John_Lloyd_Young/_ULJ5vcD2dQ_0000007 200.6 205.3 
+John_Lloyd_Young/_ULJ5vcD2dQ_0000008 210.2 215.0 

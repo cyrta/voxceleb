@@ -1,0 +1,10 @@
+POI: 			Dane_Cook 
+Youtube ID: 	B9ZYfVHAvGM 
+Video length: 	648.7 sec 
+Set (V): 		dev 
+ 
+Dane_Cook/B9ZYfVHAvGM_0000001 216.6 226.5 
+Dane_Cook/B9ZYfVHAvGM_0000002 233.3 240.6 
+Dane_Cook/B9ZYfVHAvGM_0000003 249.4 260.2 
+Dane_Cook/B9ZYfVHAvGM_0000004 383.5 389.1 
+Dane_Cook/B9ZYfVHAvGM_0000005 518.0 535.8 

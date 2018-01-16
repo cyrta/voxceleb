@@ -1,0 +1,11 @@
+POI: 			Claudia_Black 
+Youtube ID: 	z9SHH7QMJ-E 
+Video length: 	86.5 sec 
+Set (V): 		dev 
+ 
+Claudia_Black/z9SHH7QMJ-E_0000001 20.9 26.9 
+Claudia_Black/z9SHH7QMJ-E_0000002 27.3 35.9 
+Claudia_Black/z9SHH7QMJ-E_0000003 38.1 43.5 
+Claudia_Black/z9SHH7QMJ-E_0000004 50.8 55.4 
+Claudia_Black/z9SHH7QMJ-E_0000005 56.9 61.4 
+Claudia_Black/z9SHH7QMJ-E_0000006 73.7 80.2 

@@ -1,0 +1,12 @@
+POI: 			Michael_Cudlitz 
+Youtube ID: 	I2D_O4DHh2Q 
+Video length: 	262.7 sec 
+Set (V): 		dev 
+ 
+Michael_Cudlitz/I2D_O4DHh2Q_0000001 36.4 41.4 
+Michael_Cudlitz/I2D_O4DHh2Q_0000002 46.9 51.1 
+Michael_Cudlitz/I2D_O4DHh2Q_0000003 55.8 62.8 
+Michael_Cudlitz/I2D_O4DHh2Q_0000004 63.0 71.8 
+Michael_Cudlitz/I2D_O4DHh2Q_0000005 194.4 205.4 
+Michael_Cudlitz/I2D_O4DHh2Q_0000006 210.6 218.8 
+Michael_Cudlitz/I2D_O4DHh2Q_0000007 235.7 241.4 

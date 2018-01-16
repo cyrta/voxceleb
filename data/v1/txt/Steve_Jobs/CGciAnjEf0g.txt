@@ -1,0 +1,14 @@
+POI: 			Steve_Jobs 
+Youtube ID: 	CGciAnjEf0g 
+Video length: 	533.1 sec 
+Set (V): 		dev 
+ 
+Steve_Jobs/CGciAnjEf0g_0000001 270.7 291.2 
+Steve_Jobs/CGciAnjEf0g_0000002 294.8 305.3 
+Steve_Jobs/CGciAnjEf0g_0000003 334.4 344.4 
+Steve_Jobs/CGciAnjEf0g_0000004 348.0 371.7 
+Steve_Jobs/CGciAnjEf0g_0000005 388.3 403.9 
+Steve_Jobs/CGciAnjEf0g_0000006 413.0 418.3 
+Steve_Jobs/CGciAnjEf0g_0000007 441.5 445.6 
+Steve_Jobs/CGciAnjEf0g_0000008 445.6 451.4 
+Steve_Jobs/CGciAnjEf0g_0000009 482.6 494.6 

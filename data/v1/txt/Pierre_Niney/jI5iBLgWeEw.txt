@@ -1,0 +1,8 @@
+POI: 			Pierre_Niney 
+Youtube ID: 	jI5iBLgWeEw 
+Video length: 	231.9 sec 
+Set (V): 		dev 
+ 
+Pierre_Niney/jI5iBLgWeEw_0000001 110.3 122.0 
+Pierre_Niney/jI5iBLgWeEw_0000002 127.0 132.4 
+Pierre_Niney/jI5iBLgWeEw_0000003 202.8 209.5 

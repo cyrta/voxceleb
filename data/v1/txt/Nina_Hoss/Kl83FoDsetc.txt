@@ -1,0 +1,18 @@
+POI: 			Nina_Hoss 
+Youtube ID: 	Kl83FoDsetc 
+Video length: 	528.2 sec 
+Set (V): 		dev 
+ 
+Nina_Hoss/Kl83FoDsetc_0000001 40.3 44.4 
+Nina_Hoss/Kl83FoDsetc_0000002 94.6 102.6 
+Nina_Hoss/Kl83FoDsetc_0000003 103.8 118.2 
+Nina_Hoss/Kl83FoDsetc_0000004 123.5 129.9 
+Nina_Hoss/Kl83FoDsetc_0000005 130.4 147.0 
+Nina_Hoss/Kl83FoDsetc_0000006 152.0 157.4 
+Nina_Hoss/Kl83FoDsetc_0000007 157.9 162.4 
+Nina_Hoss/Kl83FoDsetc_0000008 280.3 289.8 
+Nina_Hoss/Kl83FoDsetc_0000009 304.5 311.2 
+Nina_Hoss/Kl83FoDsetc_0000010 343.4 352.6 
+Nina_Hoss/Kl83FoDsetc_0000011 360.0 369.7 
+Nina_Hoss/Kl83FoDsetc_0000012 412.4 424.6 
+Nina_Hoss/Kl83FoDsetc_0000013 448.7 464.4 

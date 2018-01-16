@@ -1,0 +1,10 @@
+POI: 			Jack_Whitehall 
+Youtube ID: 	s2qeanh0D7g 
+Video length: 	91.5 sec 
+Set (V): 		dev 
+ 
+Jack_Whitehall/s2qeanh0D7g_0000001 04.4 13.8 
+Jack_Whitehall/s2qeanh0D7g_0000002 21.0 29.8 
+Jack_Whitehall/s2qeanh0D7g_0000003 38.0 42.1 
+Jack_Whitehall/s2qeanh0D7g_0000004 50.6 58.6 
+Jack_Whitehall/s2qeanh0D7g_0000005 66.4 73.3 

@@ -1,0 +1,9 @@
+POI: 			Sammy_Davis_Jr. 
+Youtube ID: 	SBTdz4A3Nkw 
+Video length: 	1158.8 sec 
+Set (V): 		dev 
+ 
+Sammy_Davis_Jr./SBTdz4A3Nkw_0000001 166.1 170.2 
+Sammy_Davis_Jr./SBTdz4A3Nkw_0000002 352.7 361.2 
+Sammy_Davis_Jr./SBTdz4A3Nkw_0000003 718.8 723.3 
+Sammy_Davis_Jr./SBTdz4A3Nkw_0000004 728.8 735.6 

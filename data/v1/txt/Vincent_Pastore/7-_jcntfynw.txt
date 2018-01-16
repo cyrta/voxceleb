@@ -1,0 +1,26 @@
+POI: 			Vincent_Pastore 
+Youtube ID: 	7-_jcntfynw 
+Video length: 	1680.1 sec 
+Set (V): 		dev 
+ 
+Vincent_Pastore/7-_jcntfynw_0000001 554.9 562.6 
+Vincent_Pastore/7-_jcntfynw_0000002 572.2 576.2 
+Vincent_Pastore/7-_jcntfynw_0000003 606.8 613.4 
+Vincent_Pastore/7-_jcntfynw_0000004 614.2 618.7 
+Vincent_Pastore/7-_jcntfynw_0000005 735.5 740.0 
+Vincent_Pastore/7-_jcntfynw_0000006 735.8 740.6 
+Vincent_Pastore/7-_jcntfynw_0000007 784.6 789.2 
+Vincent_Pastore/7-_jcntfynw_0000008 819.4 824.1 
+Vincent_Pastore/7-_jcntfynw_0000009 1060.1 1067.8 
+Vincent_Pastore/7-_jcntfynw_0000010 1094.6 1104.4 
+Vincent_Pastore/7-_jcntfynw_0000011 1114.8 1121.0 
+Vincent_Pastore/7-_jcntfynw_0000012 1138.0 1143.3 
+Vincent_Pastore/7-_jcntfynw_0000013 1161.2 1167.6 
+Vincent_Pastore/7-_jcntfynw_0000014 1168.5 1172.6 
+Vincent_Pastore/7-_jcntfynw_0000015 1173.1 1179.1 
+Vincent_Pastore/7-_jcntfynw_0000016 1202.7 1208.2 
+Vincent_Pastore/7-_jcntfynw_0000017 1219.8 1224.3 
+Vincent_Pastore/7-_jcntfynw_0000018 1529.0 1535.8 
+Vincent_Pastore/7-_jcntfynw_0000019 1614.2 1618.3 
+Vincent_Pastore/7-_jcntfynw_0000020 1629.3 1634.0 
+Vincent_Pastore/7-_jcntfynw_0000021 1646.2 1650.4 

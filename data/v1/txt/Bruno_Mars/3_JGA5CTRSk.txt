@@ -1,0 +1,10 @@
+POI: 			Bruno_Mars 
+Youtube ID: 	3_JGA5CTRSk 
+Video length: 	838.0 sec 
+Set (V): 		dev 
+ 
+Bruno_Mars/3_JGA5CTRSk_0000001 208.7 213.6 
+Bruno_Mars/3_JGA5CTRSk_0000002 263.4 269.2 
+Bruno_Mars/3_JGA5CTRSk_0000003 615.8 622.2 
+Bruno_Mars/3_JGA5CTRSk_0000004 770.4 776.1 
+Bruno_Mars/3_JGA5CTRSk_0000005 776.2 781.6 

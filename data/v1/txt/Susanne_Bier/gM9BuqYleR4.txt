@@ -1,0 +1,12 @@
+POI: 			Susanne_Bier 
+Youtube ID: 	gM9BuqYleR4 
+Video length: 	264.2 sec 
+Set (V): 		dev 
+ 
+Susanne_Bier/gM9BuqYleR4_0000001 71.8 84.0 
+Susanne_Bier/gM9BuqYleR4_0000002 84.6 90.8 
+Susanne_Bier/gM9BuqYleR4_0000003 119.1 134.3 
+Susanne_Bier/gM9BuqYleR4_0000004 134.6 141.8 
+Susanne_Bier/gM9BuqYleR4_0000005 147.2 154.2 
+Susanne_Bier/gM9BuqYleR4_0000006 226.3 237.6 
+Susanne_Bier/gM9BuqYleR4_0000007 238.6 249.5 

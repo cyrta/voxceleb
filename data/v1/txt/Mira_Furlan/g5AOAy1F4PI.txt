@@ -1,0 +1,14 @@
+POI: 			Mira_Furlan 
+Youtube ID: 	g5AOAy1F4PI 
+Video length: 	594.7 sec 
+Set (V): 		dev 
+ 
+Mira_Furlan/g5AOAy1F4PI_0000001 67.7 71.8 
+Mira_Furlan/g5AOAy1F4PI_0000002 86.3 91.2 
+Mira_Furlan/g5AOAy1F4PI_0000003 226.6 232.1 
+Mira_Furlan/g5AOAy1F4PI_0000004 270.7 276.7 
+Mira_Furlan/g5AOAy1F4PI_0000005 282.2 286.4 
+Mira_Furlan/g5AOAy1F4PI_0000006 318.6 322.7 
+Mira_Furlan/g5AOAy1F4PI_0000007 322.8 327.9 
+Mira_Furlan/g5AOAy1F4PI_0000008 388.0 393.1 
+Mira_Furlan/g5AOAy1F4PI_0000009 413.2 419.8 

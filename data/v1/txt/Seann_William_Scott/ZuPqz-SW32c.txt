@@ -1,0 +1,8 @@
+POI: 			Seann_William_Scott 
+Youtube ID: 	ZuPqz-SW32c 
+Video length: 	221.2 sec 
+Set (V): 		dev 
+ 
+Seann_William_Scott/ZuPqz-SW32c_0000001 12.4 24.5 
+Seann_William_Scott/ZuPqz-SW32c_0000002 59.6 70.6 
+Seann_William_Scott/ZuPqz-SW32c_0000003 181.1 199.8 

@@ -1,0 +1,7 @@
+POI: 			Ben_Stiller 
+Youtube ID: 	5wpmIr7ED70 
+Video length: 	842.9 sec 
+Set (V): 		dev 
+ 
+Ben_Stiller/5wpmIr7ED70_0000001 301.4 305.5 
+Ben_Stiller/5wpmIr7ED70_0000002 715.1 719.4 

@@ -1,0 +1,12 @@
+POI: 			Lucie_Arnaz 
+Youtube ID: 	bFBEHF1SWeQ 
+Video length: 	142.8 sec 
+Set (V): 		dev 
+ 
+Lucie_Arnaz/bFBEHF1SWeQ_0000001 03.8 19.0 
+Lucie_Arnaz/bFBEHF1SWeQ_0000002 20.1 37.7 
+Lucie_Arnaz/bFBEHF1SWeQ_0000003 38.1 62.7 
+Lucie_Arnaz/bFBEHF1SWeQ_0000004 77.3 85.0 
+Lucie_Arnaz/bFBEHF1SWeQ_0000005 86.8 96.9 
+Lucie_Arnaz/bFBEHF1SWeQ_0000006 97.7 107.3 
+Lucie_Arnaz/bFBEHF1SWeQ_0000007 108.1 112.4 

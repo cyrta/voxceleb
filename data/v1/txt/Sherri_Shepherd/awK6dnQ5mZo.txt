@@ -1,0 +1,10 @@
+POI: 			Sherri_Shepherd 
+Youtube ID: 	awK6dnQ5mZo 
+Video length: 	369.0 sec 
+Set (V): 		dev 
+ 
+Sherri_Shepherd/awK6dnQ5mZo_0000001 112.8 141.8 
+Sherri_Shepherd/awK6dnQ5mZo_0000002 145.6 152.0 
+Sherri_Shepherd/awK6dnQ5mZo_0000003 276.5 280.8 
+Sherri_Shepherd/awK6dnQ5mZo_0000004 283.4 307.9 
+Sherri_Shepherd/awK6dnQ5mZo_0000005 319.6 344.8 

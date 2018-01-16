@@ -1,0 +1,18 @@
+POI: 			A.R._Rahman 
+Youtube ID: 	eNc4LrrvV80 
+Video length: 	603.8 sec 
+Set (V): 		dev 
+ 
+A.R._Rahman/eNc4LrrvV80_0000001 72.6 79.6 
+A.R._Rahman/eNc4LrrvV80_0000002 94.4 100.8 
+A.R._Rahman/eNc4LrrvV80_0000003 130.9 135.5 
+A.R._Rahman/eNc4LrrvV80_0000004 158.5 164.6 
+A.R._Rahman/eNc4LrrvV80_0000005 168.4 173.3 
+A.R._Rahman/eNc4LrrvV80_0000006 198.0 204.6 
+A.R._Rahman/eNc4LrrvV80_0000007 212.8 217.8 
+A.R._Rahman/eNc4LrrvV80_0000008 280.1 288.0 
+A.R._Rahman/eNc4LrrvV80_0000009 356.4 366.7 
+A.R._Rahman/eNc4LrrvV80_0000010 393.9 398.4 
+A.R._Rahman/eNc4LrrvV80_0000011 435.7 446.9 
+A.R._Rahman/eNc4LrrvV80_0000012 457.7 465.4 
+A.R._Rahman/eNc4LrrvV80_0000013 508.9 515.2 

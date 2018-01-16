@@ -1,0 +1,10 @@
+POI: 			James_Marsden 
+Youtube ID: 	RN6lCy1-D24 
+Video length: 	187.0 sec 
+Set (V): 		dev 
+ 
+James_Marsden/RN6lCy1-D24_0000001 128.8 132.9 
+James_Marsden/RN6lCy1-D24_0000002 133.2 137.6 
+James_Marsden/RN6lCy1-D24_0000003 150.2 161.0 
+James_Marsden/RN6lCy1-D24_0000004 166.6 172.5 
+James_Marsden/RN6lCy1-D24_0000005 173.8 178.4 

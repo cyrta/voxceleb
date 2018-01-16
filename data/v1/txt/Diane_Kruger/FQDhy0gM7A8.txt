@@ -1,0 +1,9 @@
+POI: 			Diane_Kruger 
+Youtube ID: 	FQDhy0gM7A8 
+Video length: 	274.6 sec 
+Set (V): 		dev 
+ 
+Diane_Kruger/FQDhy0gM7A8_0000001 29.8 34.9 
+Diane_Kruger/FQDhy0gM7A8_0000002 51.6 59.9 
+Diane_Kruger/FQDhy0gM7A8_0000003 60.3 65.2 
+Diane_Kruger/FQDhy0gM7A8_0000004 143.9 158.6 

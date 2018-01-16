@@ -1,0 +1,9 @@
+POI: 			Russell_Peters 
+Youtube ID: 	VRzEBiqc1dI 
+Video length: 	422.8 sec 
+Set (V): 		dev 
+ 
+Russell_Peters/VRzEBiqc1dI_0000001 175.7 183.7 
+Russell_Peters/VRzEBiqc1dI_0000002 268.0 272.4 
+Russell_Peters/VRzEBiqc1dI_0000003 291.4 295.4 
+Russell_Peters/VRzEBiqc1dI_0000004 393.4 397.8 

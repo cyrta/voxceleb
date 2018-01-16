@@ -1,0 +1,13 @@
+POI: 			Sheridan_Smith 
+Youtube ID: 	H0HNN8u7f84 
+Video length: 	186.4 sec 
+Set (V): 		dev 
+ 
+Sheridan_Smith/H0HNN8u7f84_0000001 10.2 21.7 
+Sheridan_Smith/H0HNN8u7f84_0000002 23.5 30.4 
+Sheridan_Smith/H0HNN8u7f84_0000003 49.6 61.0 
+Sheridan_Smith/H0HNN8u7f84_0000004 69.2 82.1 
+Sheridan_Smith/H0HNN8u7f84_0000005 90.3 94.6 
+Sheridan_Smith/H0HNN8u7f84_0000006 101.8 109.2 
+Sheridan_Smith/H0HNN8u7f84_0000007 115.1 121.0 
+Sheridan_Smith/H0HNN8u7f84_0000008 135.0 139.2 

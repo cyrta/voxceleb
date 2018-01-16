@@ -1,0 +1,10 @@
+POI: 			John_Lloyd_Young 
+Youtube ID: 	KahonI0gjuA 
+Video length: 	213.3 sec 
+Set (V): 		dev 
+ 
+John_Lloyd_Young/KahonI0gjuA_0000001 34.7 38.9 
+John_Lloyd_Young/KahonI0gjuA_0000002 49.2 56.6 
+John_Lloyd_Young/KahonI0gjuA_0000003 58.0 62.8 
+John_Lloyd_Young/KahonI0gjuA_0000004 82.8 87.7 
+John_Lloyd_Young/KahonI0gjuA_0000005 186.5 190.8 

@@ -1,0 +1,9 @@
+POI: 			Naomie_Harris 
+Youtube ID: 	RGaDYbrzaAc 
+Video length: 	242.7 sec 
+Set (V): 		dev 
+ 
+Naomie_Harris/RGaDYbrzaAc_0000001 11.2 18.4 
+Naomie_Harris/RGaDYbrzaAc_0000002 39.0 51.8 
+Naomie_Harris/RGaDYbrzaAc_0000003 119.6 124.5 
+Naomie_Harris/RGaDYbrzaAc_0000004 142.0 153.7 

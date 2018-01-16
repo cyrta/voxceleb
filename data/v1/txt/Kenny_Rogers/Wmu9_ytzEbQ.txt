@@ -1,0 +1,21 @@
+POI: 			Kenny_Rogers 
+Youtube ID: 	Wmu9_ytzEbQ 
+Video length: 	384.6 sec 
+Set (V): 		dev 
+ 
+Kenny_Rogers/Wmu9_ytzEbQ_0000001 34.7 39.2 
+Kenny_Rogers/Wmu9_ytzEbQ_0000002 91.9 96.4 
+Kenny_Rogers/Wmu9_ytzEbQ_0000003 98.2 103.8 
+Kenny_Rogers/Wmu9_ytzEbQ_0000004 110.2 114.6 
+Kenny_Rogers/Wmu9_ytzEbQ_0000005 191.9 201.2 
+Kenny_Rogers/Wmu9_ytzEbQ_0000006 201.5 210.3 
+Kenny_Rogers/Wmu9_ytzEbQ_0000007 210.5 219.5 
+Kenny_Rogers/Wmu9_ytzEbQ_0000008 237.8 241.9 
+Kenny_Rogers/Wmu9_ytzEbQ_0000009 242.8 250.4 
+Kenny_Rogers/Wmu9_ytzEbQ_0000010 258.4 267.2 
+Kenny_Rogers/Wmu9_ytzEbQ_0000011 292.7 298.7 
+Kenny_Rogers/Wmu9_ytzEbQ_0000012 306.8 315.6 
+Kenny_Rogers/Wmu9_ytzEbQ_0000013 318.1 326.6 
+Kenny_Rogers/Wmu9_ytzEbQ_0000014 329.5 336.6 
+Kenny_Rogers/Wmu9_ytzEbQ_0000015 356.0 361.4 
+Kenny_Rogers/Wmu9_ytzEbQ_0000016 364.7 368.7 

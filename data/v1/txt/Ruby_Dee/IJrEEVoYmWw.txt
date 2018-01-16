@@ -1,0 +1,9 @@
+POI: 			Ruby_Dee 
+Youtube ID: 	IJrEEVoYmWw 
+Video length: 	107.7 sec 
+Set (V): 		dev 
+ 
+Ruby_Dee/IJrEEVoYmWw_0000001 10.7 34.9 
+Ruby_Dee/IJrEEVoYmWw_0000002 41.7 58.2 
+Ruby_Dee/IJrEEVoYmWw_0000003 65.6 86.8 
+Ruby_Dee/IJrEEVoYmWw_0000004 96.4 100.4 

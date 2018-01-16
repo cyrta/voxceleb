@@ -1,0 +1,13 @@
+POI: 			Selma_Blair 
+Youtube ID: 	cxVk-hTVXYw 
+Video length: 	150.9 sec 
+Set (V): 		dev 
+ 
+Selma_Blair/cxVk-hTVXYw_0000001 08.2 12.6 
+Selma_Blair/cxVk-hTVXYw_0000002 12.9 23.6 
+Selma_Blair/cxVk-hTVXYw_0000003 25.3 30.1 
+Selma_Blair/cxVk-hTVXYw_0000004 31.9 36.3 
+Selma_Blair/cxVk-hTVXYw_0000005 36.8 47.4 
+Selma_Blair/cxVk-hTVXYw_0000006 60.5 66.4 
+Selma_Blair/cxVk-hTVXYw_0000007 69.9 74.0 
+Selma_Blair/cxVk-hTVXYw_0000008 74.1 86.8 

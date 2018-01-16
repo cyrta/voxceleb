@@ -1,0 +1,12 @@
+POI: 			Octavia_Spencer 
+Youtube ID: 	UM8t5TAmU4c 
+Video length: 	240.4 sec 
+Set (V): 		dev 
+ 
+Octavia_Spencer/UM8t5TAmU4c_0000001 102.6 109.3 
+Octavia_Spencer/UM8t5TAmU4c_0000002 109.6 115.8 
+Octavia_Spencer/UM8t5TAmU4c_0000003 119.6 125.0 
+Octavia_Spencer/UM8t5TAmU4c_0000004 149.1 154.9 
+Octavia_Spencer/UM8t5TAmU4c_0000005 204.4 210.1 
+Octavia_Spencer/UM8t5TAmU4c_0000006 210.5 214.6 
+Octavia_Spencer/UM8t5TAmU4c_0000007 225.7 229.8 

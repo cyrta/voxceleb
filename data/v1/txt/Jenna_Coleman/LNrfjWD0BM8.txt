@@ -1,0 +1,9 @@
+POI: 			Jenna_Coleman 
+Youtube ID: 	LNrfjWD0BM8 
+Video length: 	127.5 sec 
+Set (V): 		dev 
+ 
+Jenna_Coleman/LNrfjWD0BM8_0000001 21.7 30.6 
+Jenna_Coleman/LNrfjWD0BM8_0000002 33.9 38.4 
+Jenna_Coleman/LNrfjWD0BM8_0000003 65.1 75.2 
+Jenna_Coleman/LNrfjWD0BM8_0000004 103.9 125.1 

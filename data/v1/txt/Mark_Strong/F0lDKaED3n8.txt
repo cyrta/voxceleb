@@ -1,0 +1,13 @@
+POI: 			Mark_Strong 
+Youtube ID: 	F0lDKaED3n8 
+Video length: 	134.7 sec 
+Set (V): 		dev 
+ 
+Mark_Strong/F0lDKaED3n8_0000001 11.5 22.8 
+Mark_Strong/F0lDKaED3n8_0000002 37.5 46.9 
+Mark_Strong/F0lDKaED3n8_0000003 54.8 61.8 
+Mark_Strong/F0lDKaED3n8_0000004 67.2 77.4 
+Mark_Strong/F0lDKaED3n8_0000005 84.4 93.9 
+Mark_Strong/F0lDKaED3n8_0000006 101.2 109.2 
+Mark_Strong/F0lDKaED3n8_0000007 115.9 120.4 
+Mark_Strong/F0lDKaED3n8_0000008 121.2 126.0 

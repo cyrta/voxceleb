@@ -1,0 +1,16 @@
+POI: 			Hannah_Simone 
+Youtube ID: 	IHcad1-sNbk 
+Video length: 	188.9 sec 
+Set (V): 		dev 
+ 
+Hannah_Simone/IHcad1-sNbk_0000001 07.0 19.8 
+Hannah_Simone/IHcad1-sNbk_0000002 20.0 27.0 
+Hannah_Simone/IHcad1-sNbk_0000003 36.9 48.7 
+Hannah_Simone/IHcad1-sNbk_0000004 57.0 66.8 
+Hannah_Simone/IHcad1-sNbk_0000005 76.1 105.1 
+Hannah_Simone/IHcad1-sNbk_0000006 115.6 122.0 
+Hannah_Simone/IHcad1-sNbk_0000007 123.2 127.3 
+Hannah_Simone/IHcad1-sNbk_0000008 127.4 141.7 
+Hannah_Simone/IHcad1-sNbk_0000009 142.2 148.8 
+Hannah_Simone/IHcad1-sNbk_0000010 158.3 162.5 
+Hannah_Simone/IHcad1-sNbk_0000011 162.7 185.1 

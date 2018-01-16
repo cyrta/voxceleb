@@ -1,0 +1,11 @@
+POI: 			Rob_Dyrdek 
+Youtube ID: 	lkon8sJy3es 
+Video length: 	175.8 sec 
+Set (V): 		dev 
+ 
+Rob_Dyrdek/lkon8sJy3es_0000001 43.2 48.4 
+Rob_Dyrdek/lkon8sJy3es_0000002 64.5 69.2 
+Rob_Dyrdek/lkon8sJy3es_0000003 73.2 77.4 
+Rob_Dyrdek/lkon8sJy3es_0000004 90.9 94.9 
+Rob_Dyrdek/lkon8sJy3es_0000005 116.6 120.5 
+Rob_Dyrdek/lkon8sJy3es_0000006 136.4 144.8 

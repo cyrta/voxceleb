@@ -1,0 +1,9 @@
+POI: 			Karla_Souza 
+Youtube ID: 	JSnymq3_8Ss 
+Video length: 	424.4 sec 
+Set (V): 		dev 
+ 
+Karla_Souza/JSnymq3_8Ss_0000001 82.2 87.0 
+Karla_Souza/JSnymq3_8Ss_0000002 95.5 100.2 
+Karla_Souza/JSnymq3_8Ss_0000003 266.9 272.6 
+Karla_Souza/JSnymq3_8Ss_0000004 322.2 326.8 

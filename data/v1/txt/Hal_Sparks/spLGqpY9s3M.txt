@@ -1,0 +1,10 @@
+POI: 			Hal_Sparks 
+Youtube ID: 	spLGqpY9s3M 
+Video length: 	557.1 sec 
+Set (V): 		dev 
+ 
+Hal_Sparks/spLGqpY9s3M_0000001 287.2 294.4 
+Hal_Sparks/spLGqpY9s3M_0000002 294.7 311.4 
+Hal_Sparks/spLGqpY9s3M_0000003 505.0 512.3 
+Hal_Sparks/spLGqpY9s3M_0000004 513.3 518.3 
+Hal_Sparks/spLGqpY9s3M_0000005 520.6 548.8 

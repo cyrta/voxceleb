@@ -1,0 +1,11 @@
+POI: 			James_Purefoy 
+Youtube ID: 	WIbIl2skqjk 
+Video length: 	140.6 sec 
+Set (V): 		dev 
+ 
+James_Purefoy/WIbIl2skqjk_0000001 43.3 54.8 
+James_Purefoy/WIbIl2skqjk_0000002 55.1 67.1 
+James_Purefoy/WIbIl2skqjk_0000003 72.0 87.2 
+James_Purefoy/WIbIl2skqjk_0000004 87.5 96.3 
+James_Purefoy/WIbIl2skqjk_0000005 97.8 110.9 
+James_Purefoy/WIbIl2skqjk_0000006 112.1 124.4 

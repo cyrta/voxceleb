@@ -1,0 +1,8 @@
+POI: 			Ashley_Greene 
+Youtube ID: 	Aj2mg55ZLi8 
+Video length: 	199.0 sec 
+Set (V): 		dev 
+ 
+Ashley_Greene/Aj2mg55ZLi8_0000001 35.9 45.0 
+Ashley_Greene/Aj2mg55ZLi8_0000002 138.6 144.5 
+Ashley_Greene/Aj2mg55ZLi8_0000003 169.7 183.7 

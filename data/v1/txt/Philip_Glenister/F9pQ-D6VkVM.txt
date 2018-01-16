@@ -1,0 +1,9 @@
+POI: 			Philip_Glenister 
+Youtube ID: 	F9pQ-D6VkVM 
+Video length: 	263.5 sec 
+Set (V): 		dev 
+ 
+Philip_Glenister/F9pQ-D6VkVM_0000001 12.3 22.0 
+Philip_Glenister/F9pQ-D6VkVM_0000002 34.0 42.7 
+Philip_Glenister/F9pQ-D6VkVM_0000003 48.8 54.3 
+Philip_Glenister/F9pQ-D6VkVM_0000004 200.7 205.7 

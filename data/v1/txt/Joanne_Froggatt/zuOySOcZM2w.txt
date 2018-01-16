@@ -1,0 +1,14 @@
+POI: 			Joanne_Froggatt 
+Youtube ID: 	zuOySOcZM2w 
+Video length: 	182.5 sec 
+Set (V): 		dev 
+ 
+Joanne_Froggatt/zuOySOcZM2w_0000001 04.6 14.0 
+Joanne_Froggatt/zuOySOcZM2w_0000002 18.6 40.6 
+Joanne_Froggatt/zuOySOcZM2w_0000003 52.9 73.3 
+Joanne_Froggatt/zuOySOcZM2w_0000004 73.4 87.5 
+Joanne_Froggatt/zuOySOcZM2w_0000005 92.6 112.1 
+Joanne_Froggatt/zuOySOcZM2w_0000006 123.7 130.6 
+Joanne_Froggatt/zuOySOcZM2w_0000007 130.8 136.0 
+Joanne_Froggatt/zuOySOcZM2w_0000008 139.2 159.9 
+Joanne_Froggatt/zuOySOcZM2w_0000009 162.4 173.5 

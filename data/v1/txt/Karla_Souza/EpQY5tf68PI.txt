@@ -1,0 +1,9 @@
+POI: 			Karla_Souza 
+Youtube ID: 	EpQY5tf68PI 
+Video length: 	990.3 sec 
+Set (V): 		dev 
+ 
+Karla_Souza/EpQY5tf68PI_0000001 529.8 536.0 
+Karla_Souza/EpQY5tf68PI_0000002 578.9 583.0 
+Karla_Souza/EpQY5tf68PI_0000003 586.7 592.8 
+Karla_Souza/EpQY5tf68PI_0000004 827.7 834.3 

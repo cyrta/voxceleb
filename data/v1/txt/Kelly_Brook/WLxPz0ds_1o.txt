@@ -1,0 +1,16 @@
+POI: 			Kelly_Brook 
+Youtube ID: 	WLxPz0ds_1o 
+Video length: 	659.5 sec 
+Set (V): 		dev 
+ 
+Kelly_Brook/WLxPz0ds_1o_0000001 102.0 106.2 
+Kelly_Brook/WLxPz0ds_1o_0000002 155.0 160.4 
+Kelly_Brook/WLxPz0ds_1o_0000003 344.0 349.9 
+Kelly_Brook/WLxPz0ds_1o_0000004 472.6 476.6 
+Kelly_Brook/WLxPz0ds_1o_0000005 482.0 486.4 
+Kelly_Brook/WLxPz0ds_1o_0000006 510.0 514.9 
+Kelly_Brook/WLxPz0ds_1o_0000007 523.6 529.2 
+Kelly_Brook/WLxPz0ds_1o_0000008 547.9 551.9 
+Kelly_Brook/WLxPz0ds_1o_0000009 581.6 585.7 
+Kelly_Brook/WLxPz0ds_1o_0000010 604.3 609.6 
+Kelly_Brook/WLxPz0ds_1o_0000011 610.2 615.4 

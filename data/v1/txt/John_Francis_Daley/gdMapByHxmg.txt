@@ -1,0 +1,8 @@
+POI: 			John_Francis_Daley 
+Youtube ID: 	gdMapByHxmg 
+Video length: 	140.3 sec 
+Set (V): 		dev 
+ 
+John_Francis_Daley/gdMapByHxmg_0000001 26.2 30.6 
+John_Francis_Daley/gdMapByHxmg_0000002 31.7 38.9 
+John_Francis_Daley/gdMapByHxmg_0000003 108.8 114.5 

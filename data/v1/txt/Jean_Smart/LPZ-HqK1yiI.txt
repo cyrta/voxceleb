@@ -1,0 +1,8 @@
+POI: 			Jean_Smart 
+Youtube ID: 	LPZ-HqK1yiI 
+Video length: 	140.0 sec 
+Set (V): 		dev 
+ 
+Jean_Smart/LPZ-HqK1yiI_0000001 35.8 41.6 
+Jean_Smart/LPZ-HqK1yiI_0000002 89.1 93.6 
+Jean_Smart/LPZ-HqK1yiI_0000003 94.3 100.0 

@@ -1,0 +1,12 @@
+POI: 			Jeffrey_Tambor 
+Youtube ID: 	wqMzyy4j--Y 
+Video length: 	104.4 sec 
+Set (V): 		dev 
+ 
+Jeffrey_Tambor/wqMzyy4j--Y_0000001 06.0 12.8 
+Jeffrey_Tambor/wqMzyy4j--Y_0000002 16.9 24.4 
+Jeffrey_Tambor/wqMzyy4j--Y_0000003 29.2 37.3 
+Jeffrey_Tambor/wqMzyy4j--Y_0000004 49.6 53.6 
+Jeffrey_Tambor/wqMzyy4j--Y_0000005 61.5 65.9 
+Jeffrey_Tambor/wqMzyy4j--Y_0000006 71.0 77.1 
+Jeffrey_Tambor/wqMzyy4j--Y_0000007 77.8 90.4 

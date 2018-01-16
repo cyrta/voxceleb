@@ -1,0 +1,7 @@
+POI: 			Prince 
+Youtube ID: 	LYK4o6o1YFo 
+Video length: 	71.6 sec 
+Set (V): 		dev 
+ 
+Prince/LYK4o6o1YFo_0000001 30.0 38.1 
+Prince/LYK4o6o1YFo_0000002 58.6 65.8 

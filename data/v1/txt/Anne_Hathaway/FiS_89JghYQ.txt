@@ -1,0 +1,26 @@
+POI: 			Anne_Hathaway 
+Youtube ID: 	FiS_89JghYQ 
+Video length: 	352.1 sec 
+Set (V): 		dev 
+ 
+Anne_Hathaway/FiS_89JghYQ_0000001 22.0 28.0 
+Anne_Hathaway/FiS_89JghYQ_0000002 28.1 32.7 
+Anne_Hathaway/FiS_89JghYQ_0000003 33.3 44.4 
+Anne_Hathaway/FiS_89JghYQ_0000004 55.8 62.1 
+Anne_Hathaway/FiS_89JghYQ_0000005 86.0 90.2 
+Anne_Hathaway/FiS_89JghYQ_0000006 103.5 113.2 
+Anne_Hathaway/FiS_89JghYQ_0000007 120.4 133.6 
+Anne_Hathaway/FiS_89JghYQ_0000008 141.0 145.0 
+Anne_Hathaway/FiS_89JghYQ_0000009 170.0 174.8 
+Anne_Hathaway/FiS_89JghYQ_0000010 177.2 184.4 
+Anne_Hathaway/FiS_89JghYQ_0000011 187.4 195.8 
+Anne_Hathaway/FiS_89JghYQ_0000012 205.0 210.2 
+Anne_Hathaway/FiS_89JghYQ_0000013 215.1 219.8 
+Anne_Hathaway/FiS_89JghYQ_0000014 245.3 251.3 
+Anne_Hathaway/FiS_89JghYQ_0000015 263.3 275.4 
+Anne_Hathaway/FiS_89JghYQ_0000016 277.3 282.6 
+Anne_Hathaway/FiS_89JghYQ_0000017 283.5 289.0 
+Anne_Hathaway/FiS_89JghYQ_0000018 289.6 294.6 
+Anne_Hathaway/FiS_89JghYQ_0000019 324.4 329.4 
+Anne_Hathaway/FiS_89JghYQ_0000020 337.4 342.4 
+Anne_Hathaway/FiS_89JghYQ_0000021 343.1 350.2 

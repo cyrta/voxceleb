@@ -1,0 +1,9 @@
+POI: 			Marisa_Miller 
+Youtube ID: 	FWDoFr_xI4I 
+Video length: 	154.3 sec 
+Set (V): 		dev 
+ 
+Marisa_Miller/FWDoFr_xI4I_0000001 19.4 25.9 
+Marisa_Miller/FWDoFr_xI4I_0000002 48.8 60.2 
+Marisa_Miller/FWDoFr_xI4I_0000003 90.6 96.4 
+Marisa_Miller/FWDoFr_xI4I_0000004 122.0 129.8 

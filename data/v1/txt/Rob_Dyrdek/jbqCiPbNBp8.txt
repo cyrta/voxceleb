@@ -1,0 +1,8 @@
+POI: 			Rob_Dyrdek 
+Youtube ID: 	jbqCiPbNBp8 
+Video length: 	238.1 sec 
+Set (V): 		dev 
+ 
+Rob_Dyrdek/jbqCiPbNBp8_0000001 14.8 20.0 
+Rob_Dyrdek/jbqCiPbNBp8_0000002 56.5 62.6 
+Rob_Dyrdek/jbqCiPbNBp8_0000003 208.0 213.2 

@@ -1,0 +1,11 @@
+POI: 			Milla_Jovovich 
+Youtube ID: 	6bj7CXnGK1c 
+Video length: 	1692.8 sec 
+Set (V): 		dev 
+ 
+Milla_Jovovich/6bj7CXnGK1c_0000001 641.9 646.9 
+Milla_Jovovich/6bj7CXnGK1c_0000002 771.8 777.5 
+Milla_Jovovich/6bj7CXnGK1c_0000003 796.0 800.7 
+Milla_Jovovich/6bj7CXnGK1c_0000004 840.8 846.3 
+Milla_Jovovich/6bj7CXnGK1c_0000005 1179.8 1184.2 
+Milla_Jovovich/6bj7CXnGK1c_0000006 1620.9 1625.5 

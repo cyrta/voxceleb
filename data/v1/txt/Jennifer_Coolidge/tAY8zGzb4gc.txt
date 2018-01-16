@@ -1,0 +1,7 @@
+POI: 			Jennifer_Coolidge 
+Youtube ID: 	tAY8zGzb4gc 
+Video length: 	106.8 sec 
+Set (V): 		dev 
+ 
+Jennifer_Coolidge/tAY8zGzb4gc_0000001 20.4 24.4 
+Jennifer_Coolidge/tAY8zGzb4gc_0000002 52.8 58.0 

@@ -1,0 +1,7 @@
+POI: 			Nicki_Minaj 
+Youtube ID: 	PlaO5tiQHqQ 
+Video length: 	447.9 sec 
+Set (V): 		dev 
+ 
+Nicki_Minaj/PlaO5tiQHqQ_0000001 210.0 214.4 
+Nicki_Minaj/PlaO5tiQHqQ_0000002 397.0 401.5 

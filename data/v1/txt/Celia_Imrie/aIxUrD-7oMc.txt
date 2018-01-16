@@ -1,0 +1,9 @@
+POI: 			Celia_Imrie 
+Youtube ID: 	aIxUrD-7oMc 
+Video length: 	454.3 sec 
+Set (V): 		dev 
+ 
+Celia_Imrie/aIxUrD-7oMc_0000001 40.1 44.4 
+Celia_Imrie/aIxUrD-7oMc_0000002 59.9 66.2 
+Celia_Imrie/aIxUrD-7oMc_0000003 73.6 77.8 
+Celia_Imrie/aIxUrD-7oMc_0000004 84.5 93.6 

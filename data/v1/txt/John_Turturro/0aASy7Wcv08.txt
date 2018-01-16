@@ -1,0 +1,8 @@
+POI: 			John_Turturro 
+Youtube ID: 	0aASy7Wcv08 
+Video length: 	766.4 sec 
+Set (V): 		dev 
+ 
+John_Turturro/0aASy7Wcv08_0000001 333.5 341.8 
+John_Turturro/0aASy7Wcv08_0000002 359.4 363.5 
+John_Turturro/0aASy7Wcv08_0000003 364.1 374.9 

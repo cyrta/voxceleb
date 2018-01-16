@@ -1,0 +1,14 @@
+POI: 			Kris_Jenner 
+Youtube ID: 	LTJagcweB_s 
+Video length: 	364.8 sec 
+Set (V): 		dev 
+ 
+Kris_Jenner/LTJagcweB_s_0000001 111.2 121.4 
+Kris_Jenner/LTJagcweB_s_0000002 144.0 149.9 
+Kris_Jenner/LTJagcweB_s_0000003 225.9 237.6 
+Kris_Jenner/LTJagcweB_s_0000004 244.4 255.5 
+Kris_Jenner/LTJagcweB_s_0000005 271.8 278.9 
+Kris_Jenner/LTJagcweB_s_0000006 302.5 311.6 
+Kris_Jenner/LTJagcweB_s_0000007 317.0 322.6 
+Kris_Jenner/LTJagcweB_s_0000008 324.4 331.4 
+Kris_Jenner/LTJagcweB_s_0000009 338.2 356.4 

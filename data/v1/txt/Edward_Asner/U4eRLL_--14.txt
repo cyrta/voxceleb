@@ -1,0 +1,8 @@
+POI: 			Edward_Asner 
+Youtube ID: 	U4eRLL_--14 
+Video length: 	303.6 sec 
+Set (V): 		test 
+ 
+Edward_Asner/U4eRLL_--14_0000001 11.5 16.3 
+Edward_Asner/U4eRLL_--14_0000002 27.0 32.4 
+Edward_Asner/U4eRLL_--14_0000003 78.5 84.3 

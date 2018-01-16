@@ -1,0 +1,15 @@
+POI: 			Melissa_McCarthy 
+Youtube ID: 	9m_hPkIxabc 
+Video length: 	693.0 sec 
+Set (V): 		dev 
+ 
+Melissa_McCarthy/9m_hPkIxabc_0000001 198.4 202.4 
+Melissa_McCarthy/9m_hPkIxabc_0000002 233.2 237.4 
+Melissa_McCarthy/9m_hPkIxabc_0000003 284.6 300.2 
+Melissa_McCarthy/9m_hPkIxabc_0000004 302.7 309.8 
+Melissa_McCarthy/9m_hPkIxabc_0000005 377.7 384.3 
+Melissa_McCarthy/9m_hPkIxabc_0000006 389.2 396.2 
+Melissa_McCarthy/9m_hPkIxabc_0000007 458.3 466.6 
+Melissa_McCarthy/9m_hPkIxabc_0000008 538.1 550.8 
+Melissa_McCarthy/9m_hPkIxabc_0000009 553.0 561.0 
+Melissa_McCarthy/9m_hPkIxabc_0000010 588.5 602.7 

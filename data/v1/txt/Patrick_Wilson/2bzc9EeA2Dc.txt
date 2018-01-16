@@ -1,0 +1,17 @@
+POI: 			Patrick_Wilson 
+Youtube ID: 	2bzc9EeA2Dc 
+Video length: 	434.5 sec 
+Set (V): 		dev 
+ 
+Patrick_Wilson/2bzc9EeA2Dc_0000001 01.8 25.2 
+Patrick_Wilson/2bzc9EeA2Dc_0000002 25.4 34.9 
+Patrick_Wilson/2bzc9EeA2Dc_0000003 168.8 172.8 
+Patrick_Wilson/2bzc9EeA2Dc_0000004 178.8 183.2 
+Patrick_Wilson/2bzc9EeA2Dc_0000005 186.5 191.1 
+Patrick_Wilson/2bzc9EeA2Dc_0000006 204.9 220.3 
+Patrick_Wilson/2bzc9EeA2Dc_0000007 218.9 230.5 
+Patrick_Wilson/2bzc9EeA2Dc_0000008 235.7 244.0 
+Patrick_Wilson/2bzc9EeA2Dc_0000009 242.3 248.8 
+Patrick_Wilson/2bzc9EeA2Dc_0000010 281.2 286.7 
+Patrick_Wilson/2bzc9EeA2Dc_0000011 294.4 299.0 
+Patrick_Wilson/2bzc9EeA2Dc_0000012 302.0 308.3 

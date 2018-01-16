@@ -1,0 +1,13 @@
+POI: 			Marie_Avgeropoulos 
+Youtube ID: 	M91Ry-DP9Pw 
+Video length: 	176.8 sec 
+Set (V): 		dev 
+ 
+Marie_Avgeropoulos/M91Ry-DP9Pw_0000001 22.0 37.8 
+Marie_Avgeropoulos/M91Ry-DP9Pw_0000002 40.1 51.8 
+Marie_Avgeropoulos/M91Ry-DP9Pw_0000003 52.7 59.0 
+Marie_Avgeropoulos/M91Ry-DP9Pw_0000004 66.1 71.0 
+Marie_Avgeropoulos/M91Ry-DP9Pw_0000005 72.2 81.6 
+Marie_Avgeropoulos/M91Ry-DP9Pw_0000006 85.8 104.4 
+Marie_Avgeropoulos/M91Ry-DP9Pw_0000007 107.3 132.3 
+Marie_Avgeropoulos/M91Ry-DP9Pw_0000008 144.1 170.4 

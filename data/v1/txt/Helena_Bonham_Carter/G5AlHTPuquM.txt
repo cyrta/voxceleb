@@ -1,0 +1,16 @@
+POI: 			Helena_Bonham_Carter 
+Youtube ID: 	G5AlHTPuquM 
+Video length: 	389.6 sec 
+Set (V): 		dev 
+ 
+Helena_Bonham_Carter/G5AlHTPuquM_0000001 32.4 42.3 
+Helena_Bonham_Carter/G5AlHTPuquM_0000002 59.1 63.1 
+Helena_Bonham_Carter/G5AlHTPuquM_0000003 63.7 71.9 
+Helena_Bonham_Carter/G5AlHTPuquM_0000004 102.1 109.2 
+Helena_Bonham_Carter/G5AlHTPuquM_0000005 116.0 126.1 
+Helena_Bonham_Carter/G5AlHTPuquM_0000006 132.8 136.8 
+Helena_Bonham_Carter/G5AlHTPuquM_0000007 174.5 196.3 
+Helena_Bonham_Carter/G5AlHTPuquM_0000008 207.2 213.9 
+Helena_Bonham_Carter/G5AlHTPuquM_0000009 311.2 316.6 
+Helena_Bonham_Carter/G5AlHTPuquM_0000010 329.3 333.3 
+Helena_Bonham_Carter/G5AlHTPuquM_0000011 336.0 340.0 

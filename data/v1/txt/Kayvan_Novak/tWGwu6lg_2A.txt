@@ -1,0 +1,9 @@
+POI: 			Kayvan_Novak 
+Youtube ID: 	tWGwu6lg_2A 
+Video length: 	97.9 sec 
+Set (V): 		dev 
+ 
+Kayvan_Novak/tWGwu6lg_2A_0000001 02.8 09.5 
+Kayvan_Novak/tWGwu6lg_2A_0000002 40.8 45.2 
+Kayvan_Novak/tWGwu6lg_2A_0000003 53.6 69.2 
+Kayvan_Novak/tWGwu6lg_2A_0000004 72.9 92.3 

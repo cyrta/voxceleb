@@ -1,0 +1,7 @@
+POI: 			Gilles_Marini 
+Youtube ID: 	u2r812PsBds 
+Video length: 	137.9 sec 
+Set (V): 		dev 
+ 
+Gilles_Marini/u2r812PsBds_0000001 08.4 12.9 
+Gilles_Marini/u2r812PsBds_0000002 111.0 116.5 

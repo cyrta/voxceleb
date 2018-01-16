@@ -1,0 +1,45 @@
+POI: 			Tamer_Hassan 
+Youtube ID: 	ZRmev1y3MDI 
+Video length: 	819.2 sec 
+Set (V): 		dev 
+ 
+Tamer_Hassan/ZRmev1y3MDI_0000001 64.0 82.1 
+Tamer_Hassan/ZRmev1y3MDI_0000002 84.2 90.0 
+Tamer_Hassan/ZRmev1y3MDI_0000003 91.1 96.3 
+Tamer_Hassan/ZRmev1y3MDI_0000004 91.1 96.4 
+Tamer_Hassan/ZRmev1y3MDI_0000005 99.6 111.8 
+Tamer_Hassan/ZRmev1y3MDI_0000006 112.6 117.4 
+Tamer_Hassan/ZRmev1y3MDI_0000007 128.4 138.6 
+Tamer_Hassan/ZRmev1y3MDI_0000008 140.1 150.1 
+Tamer_Hassan/ZRmev1y3MDI_0000009 155.1 162.2 
+Tamer_Hassan/ZRmev1y3MDI_0000010 169.2 187.5 
+Tamer_Hassan/ZRmev1y3MDI_0000011 189.2 197.8 
+Tamer_Hassan/ZRmev1y3MDI_0000012 211.0 216.2 
+Tamer_Hassan/ZRmev1y3MDI_0000013 216.7 226.2 
+Tamer_Hassan/ZRmev1y3MDI_0000014 248.1 257.2 
+Tamer_Hassan/ZRmev1y3MDI_0000015 258.0 283.7 
+Tamer_Hassan/ZRmev1y3MDI_0000016 284.4 288.4 
+Tamer_Hassan/ZRmev1y3MDI_0000017 289.5 313.7 
+Tamer_Hassan/ZRmev1y3MDI_0000018 314.0 340.9 
+Tamer_Hassan/ZRmev1y3MDI_0000019 342.8 365.1 
+Tamer_Hassan/ZRmev1y3MDI_0000020 367.8 373.6 
+Tamer_Hassan/ZRmev1y3MDI_0000021 374.3 378.6 
+Tamer_Hassan/ZRmev1y3MDI_0000022 378.7 401.3 
+Tamer_Hassan/ZRmev1y3MDI_0000023 403.4 423.0 
+Tamer_Hassan/ZRmev1y3MDI_0000024 496.0 503.7 
+Tamer_Hassan/ZRmev1y3MDI_0000025 505.6 509.8 
+Tamer_Hassan/ZRmev1y3MDI_0000026 512.3 517.7 
+Tamer_Hassan/ZRmev1y3MDI_0000027 522.0 527.5 
+Tamer_Hassan/ZRmev1y3MDI_0000028 539.6 548.4 
+Tamer_Hassan/ZRmev1y3MDI_0000029 552.4 557.0 
+Tamer_Hassan/ZRmev1y3MDI_0000030 561.6 566.8 
+Tamer_Hassan/ZRmev1y3MDI_0000031 570.4 596.6 
+Tamer_Hassan/ZRmev1y3MDI_0000032 614.0 624.0 
+Tamer_Hassan/ZRmev1y3MDI_0000033 624.6 646.1 
+Tamer_Hassan/ZRmev1y3MDI_0000034 646.9 655.1 
+Tamer_Hassan/ZRmev1y3MDI_0000035 670.2 679.3 
+Tamer_Hassan/ZRmev1y3MDI_0000036 679.8 710.2 
+Tamer_Hassan/ZRmev1y3MDI_0000037 707.8 714.2 
+Tamer_Hassan/ZRmev1y3MDI_0000038 720.0 729.7 
+Tamer_Hassan/ZRmev1y3MDI_0000039 744.7 754.7 
+Tamer_Hassan/ZRmev1y3MDI_0000040 720.2 729.7 

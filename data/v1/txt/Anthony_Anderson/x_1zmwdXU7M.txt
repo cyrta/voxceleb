@@ -1,0 +1,16 @@
+POI: 			Anthony_Anderson 
+Youtube ID: 	x_1zmwdXU7M 
+Video length: 	555.7 sec 
+Set (V): 		dev 
+ 
+Anthony_Anderson/x_1zmwdXU7M_0000001 222.6 228.6 
+Anthony_Anderson/x_1zmwdXU7M_0000002 228.8 235.9 
+Anthony_Anderson/x_1zmwdXU7M_0000003 239.2 243.7 
+Anthony_Anderson/x_1zmwdXU7M_0000004 268.8 274.4 
+Anthony_Anderson/x_1zmwdXU7M_0000005 304.4 314.9 
+Anthony_Anderson/x_1zmwdXU7M_0000006 320.6 325.2 
+Anthony_Anderson/x_1zmwdXU7M_0000007 341.9 348.1 
+Anthony_Anderson/x_1zmwdXU7M_0000008 357.0 364.0 
+Anthony_Anderson/x_1zmwdXU7M_0000009 486.4 492.2 
+Anthony_Anderson/x_1zmwdXU7M_0000010 495.8 501.9 
+Anthony_Anderson/x_1zmwdXU7M_0000011 509.3 514.2 

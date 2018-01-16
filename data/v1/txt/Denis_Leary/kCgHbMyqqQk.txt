@@ -1,0 +1,11 @@
+POI: 			Denis_Leary 
+Youtube ID: 	kCgHbMyqqQk 
+Video length: 	178.5 sec 
+Set (V): 		dev 
+ 
+Denis_Leary/kCgHbMyqqQk_0000001 18.4 41.5 
+Denis_Leary/kCgHbMyqqQk_0000002 63.7 69.8 
+Denis_Leary/kCgHbMyqqQk_0000003 72.8 79.2 
+Denis_Leary/kCgHbMyqqQk_0000004 88.4 92.4 
+Denis_Leary/kCgHbMyqqQk_0000005 120.0 125.7 
+Denis_Leary/kCgHbMyqqQk_0000006 139.1 143.1 

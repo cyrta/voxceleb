@@ -1,0 +1,11 @@
+POI: 			Jean-Paul_Belmondo 
+Youtube ID: 	hlDjahd-8hw 
+Video length: 	303.4 sec 
+Set (V): 		dev 
+ 
+Jean-Paul_Belmondo/hlDjahd-8hw_0000001 12.4 16.5 
+Jean-Paul_Belmondo/hlDjahd-8hw_0000002 17.4 29.1 
+Jean-Paul_Belmondo/hlDjahd-8hw_0000003 54.2 60.5 
+Jean-Paul_Belmondo/hlDjahd-8hw_0000004 154.0 158.2 
+Jean-Paul_Belmondo/hlDjahd-8hw_0000005 210.2 216.5 
+Jean-Paul_Belmondo/hlDjahd-8hw_0000006 232.2 241.0 

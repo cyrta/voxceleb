@@ -1,0 +1,11 @@
+POI: 			Kal_Penn 
+Youtube ID: 	kdO7yfAo6dE 
+Video length: 	104.1 sec 
+Set (V): 		dev 
+ 
+Kal_Penn/kdO7yfAo6dE_0000001 09.4 29.6 
+Kal_Penn/kdO7yfAo6dE_0000002 52.8 59.8 
+Kal_Penn/kdO7yfAo6dE_0000003 64.0 72.0 
+Kal_Penn/kdO7yfAo6dE_0000004 79.9 86.0 
+Kal_Penn/kdO7yfAo6dE_0000005 86.6 94.0 
+Kal_Penn/kdO7yfAo6dE_0000006 95.3 102.6 

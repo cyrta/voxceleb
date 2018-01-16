@@ -1,0 +1,9 @@
+POI: 			Wesley_Snipes 
+Youtube ID: 	AAVlw5RSA8M 
+Video length: 	2575.2 sec 
+Set (V): 		dev 
+ 
+Wesley_Snipes/AAVlw5RSA8M_0000001 1204.6 1215.1 
+Wesley_Snipes/AAVlw5RSA8M_0000002 1829.6 1833.9 
+Wesley_Snipes/AAVlw5RSA8M_0000003 2013.6 2018.8 
+Wesley_Snipes/AAVlw5RSA8M_0000004 2026.3 2032.7 

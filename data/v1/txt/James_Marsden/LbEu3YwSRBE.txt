@@ -1,0 +1,12 @@
+POI: 			James_Marsden 
+Youtube ID: 	LbEu3YwSRBE 
+Video length: 	197.4 sec 
+Set (V): 		dev 
+ 
+James_Marsden/LbEu3YwSRBE_0000001 36.1 41.8 
+James_Marsden/LbEu3YwSRBE_0000002 42.1 47.2 
+James_Marsden/LbEu3YwSRBE_0000003 55.2 60.2 
+James_Marsden/LbEu3YwSRBE_0000004 60.8 66.3 
+James_Marsden/LbEu3YwSRBE_0000005 111.9 120.7 
+James_Marsden/LbEu3YwSRBE_0000006 125.8 130.1 
+James_Marsden/LbEu3YwSRBE_0000007 154.0 161.9 

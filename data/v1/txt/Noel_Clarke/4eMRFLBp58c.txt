@@ -1,0 +1,14 @@
+POI: 			Noel_Clarke 
+Youtube ID: 	4eMRFLBp58c 
+Video length: 	226.7 sec 
+Set (V): 		dev 
+ 
+Noel_Clarke/4eMRFLBp58c_0000001 89.7 99.2 
+Noel_Clarke/4eMRFLBp58c_0000002 108.3 113.6 
+Noel_Clarke/4eMRFLBp58c_0000003 131.5 135.9 
+Noel_Clarke/4eMRFLBp58c_0000004 141.6 147.8 
+Noel_Clarke/4eMRFLBp58c_0000005 157.8 162.2 
+Noel_Clarke/4eMRFLBp58c_0000006 167.0 175.1 
+Noel_Clarke/4eMRFLBp58c_0000007 177.0 181.8 
+Noel_Clarke/4eMRFLBp58c_0000008 200.0 212.8 
+Noel_Clarke/4eMRFLBp58c_0000009 216.6 221.2 

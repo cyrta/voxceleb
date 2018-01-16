@@ -1,0 +1,11 @@
+POI: 			Patrick_Wilson 
+Youtube ID: 	8KXkNs58mFE 
+Video length: 	214.3 sec 
+Set (V): 		dev 
+ 
+Patrick_Wilson/8KXkNs58mFE_0000001 15.6 19.6 
+Patrick_Wilson/8KXkNs58mFE_0000002 21.5 28.1 
+Patrick_Wilson/8KXkNs58mFE_0000003 112.4 116.4 
+Patrick_Wilson/8KXkNs58mFE_0000004 161.4 166.5 
+Patrick_Wilson/8KXkNs58mFE_0000005 167.0 171.6 
+Patrick_Wilson/8KXkNs58mFE_0000006 172.0 181.1 

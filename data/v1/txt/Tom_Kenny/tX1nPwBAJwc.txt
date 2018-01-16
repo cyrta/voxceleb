@@ -1,0 +1,8 @@
+POI: 			Tom_Kenny 
+Youtube ID: 	tX1nPwBAJwc 
+Video length: 	312.8 sec 
+Set (V): 		dev 
+ 
+Tom_Kenny/tX1nPwBAJwc_0000001 41.4 45.6 
+Tom_Kenny/tX1nPwBAJwc_0000002 191.6 195.8 
+Tom_Kenny/tX1nPwBAJwc_0000003 207.0 212.8 

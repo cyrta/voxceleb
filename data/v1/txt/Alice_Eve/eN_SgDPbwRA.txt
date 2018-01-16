@@ -1,0 +1,8 @@
+POI: 			Alice_Eve 
+Youtube ID: 	eN_SgDPbwRA 
+Video length: 	347.7 sec 
+Set (V): 		dev 
+ 
+Alice_Eve/eN_SgDPbwRA_0000001 44.9 58.2 
+Alice_Eve/eN_SgDPbwRA_0000002 251.9 256.8 
+Alice_Eve/eN_SgDPbwRA_0000003 262.8 275.8 

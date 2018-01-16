@@ -1,0 +1,17 @@
+POI: 			Niall_Horan 
+Youtube ID: 	5B-oy63GhUQ 
+Video length: 	909.1 sec 
+Set (V): 		dev 
+ 
+Niall_Horan/5B-oy63GhUQ_0000001 90.4 97.4 
+Niall_Horan/5B-oy63GhUQ_0000002 198.3 202.3 
+Niall_Horan/5B-oy63GhUQ_0000003 203.6 207.7 
+Niall_Horan/5B-oy63GhUQ_0000004 226.3 231.6 
+Niall_Horan/5B-oy63GhUQ_0000005 237.0 246.0 
+Niall_Horan/5B-oy63GhUQ_0000006 257.8 261.8 
+Niall_Horan/5B-oy63GhUQ_0000007 358.1 362.5 
+Niall_Horan/5B-oy63GhUQ_0000008 382.7 390.1 
+Niall_Horan/5B-oy63GhUQ_0000009 623.8 629.5 
+Niall_Horan/5B-oy63GhUQ_0000010 833.4 849.1 
+Niall_Horan/5B-oy63GhUQ_0000011 857.8 864.2 
+Niall_Horan/5B-oy63GhUQ_0000012 869.2 873.9 

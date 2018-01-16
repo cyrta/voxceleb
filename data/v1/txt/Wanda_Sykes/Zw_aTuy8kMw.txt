@@ -1,0 +1,10 @@
+POI: 			Wanda_Sykes 
+Youtube ID: 	Zw_aTuy8kMw 
+Video length: 	263.6 sec 
+Set (V): 		dev 
+ 
+Wanda_Sykes/Zw_aTuy8kMw_0000001 09.0 15.9 
+Wanda_Sykes/Zw_aTuy8kMw_0000002 20.9 26.3 
+Wanda_Sykes/Zw_aTuy8kMw_0000003 65.0 72.0 
+Wanda_Sykes/Zw_aTuy8kMw_0000004 101.7 110.4 
+Wanda_Sykes/Zw_aTuy8kMw_0000005 203.2 208.6 

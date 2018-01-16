@@ -1,0 +1,11 @@
+POI: 			Harry_Connick_Jr. 
+Youtube ID: 	JkVW-LXRX3U 
+Video length: 	298.0 sec 
+Set (V): 		dev 
+ 
+Harry_Connick_Jr./JkVW-LXRX3U_0000001 68.0 75.5 
+Harry_Connick_Jr./JkVW-LXRX3U_0000002 94.6 103.5 
+Harry_Connick_Jr./JkVW-LXRX3U_0000003 107.9 116.0 
+Harry_Connick_Jr./JkVW-LXRX3U_0000004 120.9 127.4 
+Harry_Connick_Jr./JkVW-LXRX3U_0000005 142.4 150.3 
+Harry_Connick_Jr./JkVW-LXRX3U_0000006 155.2 160.4 

@@ -1,0 +1,13 @@
+POI: 			David_Suchet 
+Youtube ID: 	vxdZosTSj48 
+Video length: 	118.5 sec 
+Set (V): 		dev 
+ 
+David_Suchet/vxdZosTSj48_0000001 12.4 18.9 
+David_Suchet/vxdZosTSj48_0000002 34.5 44.8 
+David_Suchet/vxdZosTSj48_0000003 49.6 55.4 
+David_Suchet/vxdZosTSj48_0000004 56.2 64.8 
+David_Suchet/vxdZosTSj48_0000005 65.0 69.2 
+David_Suchet/vxdZosTSj48_0000006 74.5 79.6 
+David_Suchet/vxdZosTSj48_0000007 80.0 89.1 
+David_Suchet/vxdZosTSj48_0000008 94.2 103.2 

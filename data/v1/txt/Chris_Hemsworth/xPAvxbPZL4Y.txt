@@ -1,0 +1,12 @@
+POI: 			Chris_Hemsworth 
+Youtube ID: 	xPAvxbPZL4Y 
+Video length: 	299.1 sec 
+Set (V): 		dev 
+ 
+Chris_Hemsworth/xPAvxbPZL4Y_0000001 19.2 27.6 
+Chris_Hemsworth/xPAvxbPZL4Y_0000002 37.4 45.9 
+Chris_Hemsworth/xPAvxbPZL4Y_0000003 121.0 130.3 
+Chris_Hemsworth/xPAvxbPZL4Y_0000004 132.0 139.6 
+Chris_Hemsworth/xPAvxbPZL4Y_0000005 144.3 151.3 
+Chris_Hemsworth/xPAvxbPZL4Y_0000006 222.3 226.2 
+Chris_Hemsworth/xPAvxbPZL4Y_0000007 244.9 250.4 

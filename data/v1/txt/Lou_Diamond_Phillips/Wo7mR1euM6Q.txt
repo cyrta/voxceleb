@@ -1,0 +1,19 @@
+POI: 			Lou_Diamond_Phillips 
+Youtube ID: 	Wo7mR1euM6Q 
+Video length: 	230.2 sec 
+Set (V): 		dev 
+ 
+Lou_Diamond_Phillips/Wo7mR1euM6Q_0000001 18.4 26.2 
+Lou_Diamond_Phillips/Wo7mR1euM6Q_0000002 27.0 47.3 
+Lou_Diamond_Phillips/Wo7mR1euM6Q_0000003 48.1 67.7 
+Lou_Diamond_Phillips/Wo7mR1euM6Q_0000004 79.0 89.2 
+Lou_Diamond_Phillips/Wo7mR1euM6Q_0000005 89.8 108.6 
+Lou_Diamond_Phillips/Wo7mR1euM6Q_0000006 109.2 131.8 
+Lou_Diamond_Phillips/Wo7mR1euM6Q_0000007 133.4 137.6 
+Lou_Diamond_Phillips/Wo7mR1euM6Q_0000008 128.6 137.5 
+Lou_Diamond_Phillips/Wo7mR1euM6Q_0000009 139.6 144.1 
+Lou_Diamond_Phillips/Wo7mR1euM6Q_0000010 144.7 152.6 
+Lou_Diamond_Phillips/Wo7mR1euM6Q_0000011 159.0 165.7 
+Lou_Diamond_Phillips/Wo7mR1euM6Q_0000012 174.6 183.5 
+Lou_Diamond_Phillips/Wo7mR1euM6Q_0000013 166.2 197.9 
+Lou_Diamond_Phillips/Wo7mR1euM6Q_0000014 203.0 223.4 

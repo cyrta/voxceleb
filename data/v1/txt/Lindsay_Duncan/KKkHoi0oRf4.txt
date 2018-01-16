@@ -1,0 +1,17 @@
+POI: 			Lindsay_Duncan 
+Youtube ID: 	KKkHoi0oRf4 
+Video length: 	252.6 sec 
+Set (V): 		dev 
+ 
+Lindsay_Duncan/KKkHoi0oRf4_0000001 07.0 12.7 
+Lindsay_Duncan/KKkHoi0oRf4_0000002 23.5 27.8 
+Lindsay_Duncan/KKkHoi0oRf4_0000003 40.0 44.2 
+Lindsay_Duncan/KKkHoi0oRf4_0000004 64.6 74.1 
+Lindsay_Duncan/KKkHoi0oRf4_0000005 74.3 78.5 
+Lindsay_Duncan/KKkHoi0oRf4_0000006 88.1 101.7 
+Lindsay_Duncan/KKkHoi0oRf4_0000007 103.1 109.4 
+Lindsay_Duncan/KKkHoi0oRf4_0000008 117.2 124.3 
+Lindsay_Duncan/KKkHoi0oRf4_0000009 159.3 164.0 
+Lindsay_Duncan/KKkHoi0oRf4_0000010 181.4 186.0 
+Lindsay_Duncan/KKkHoi0oRf4_0000011 195.8 201.6 
+Lindsay_Duncan/KKkHoi0oRf4_0000012 208.4 216.0 

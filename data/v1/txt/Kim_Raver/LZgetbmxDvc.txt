@@ -1,0 +1,8 @@
+POI: 			Kim_Raver 
+Youtube ID: 	LZgetbmxDvc 
+Video length: 	314.6 sec 
+Set (V): 		dev 
+ 
+Kim_Raver/LZgetbmxDvc_0000001 154.8 160.0 
+Kim_Raver/LZgetbmxDvc_0000002 184.6 192.0 
+Kim_Raver/LZgetbmxDvc_0000003 208.8 212.8 

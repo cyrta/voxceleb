@@ -1,0 +1,7 @@
+POI: 			Willem_Dafoe 
+Youtube ID: 	O0ClabYPfAQ 
+Video length: 	303.7 sec 
+Set (V): 		dev 
+ 
+Willem_Dafoe/O0ClabYPfAQ_0000001 96.2 100.8 
+Willem_Dafoe/O0ClabYPfAQ_0000002 245.3 249.9 

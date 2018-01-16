@@ -1,0 +1,8 @@
+POI: 			Simon_Baker 
+Youtube ID: 	9BlW7PJAai0 
+Video length: 	257.4 sec 
+Set (V): 		dev 
+ 
+Simon_Baker/9BlW7PJAai0_0000001 151.2 156.3 
+Simon_Baker/9BlW7PJAai0_0000002 167.3 172.1 
+Simon_Baker/9BlW7PJAai0_0000003 189.7 194.8 

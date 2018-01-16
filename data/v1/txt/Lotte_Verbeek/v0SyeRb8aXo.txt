@@ -1,0 +1,10 @@
+POI: 			Lotte_Verbeek 
+Youtube ID: 	v0SyeRb8aXo 
+Video length: 	172.3 sec 
+Set (V): 		dev 
+ 
+Lotte_Verbeek/v0SyeRb8aXo_0000001 36.7 40.7 
+Lotte_Verbeek/v0SyeRb8aXo_0000002 80.7 85.5 
+Lotte_Verbeek/v0SyeRb8aXo_0000003 103.8 108.4 
+Lotte_Verbeek/v0SyeRb8aXo_0000004 126.2 131.6 
+Lotte_Verbeek/v0SyeRb8aXo_0000005 145.1 151.8 

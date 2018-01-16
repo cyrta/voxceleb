@@ -1,0 +1,22 @@
+POI: 			John_Lasseter 
+Youtube ID: 	9v7nAzw5lXI 
+Video length: 	1170.3 sec 
+Set (V): 		dev 
+ 
+John_Lasseter/9v7nAzw5lXI_0000001 00.7 06.2 
+John_Lasseter/9v7nAzw5lXI_0000002 72.6 79.0 
+John_Lasseter/9v7nAzw5lXI_0000003 79.9 85.1 
+John_Lasseter/9v7nAzw5lXI_0000004 90.2 97.2 
+John_Lasseter/9v7nAzw5lXI_0000005 98.6 113.1 
+John_Lasseter/9v7nAzw5lXI_0000006 114.2 121.9 
+John_Lasseter/9v7nAzw5lXI_0000007 122.2 128.9 
+John_Lasseter/9v7nAzw5lXI_0000008 133.5 139.5 
+John_Lasseter/9v7nAzw5lXI_0000009 143.8 151.5 
+John_Lasseter/9v7nAzw5lXI_0000010 241.9 246.7 
+John_Lasseter/9v7nAzw5lXI_0000011 383.0 387.2 
+John_Lasseter/9v7nAzw5lXI_0000012 413.9 420.2 
+John_Lasseter/9v7nAzw5lXI_0000013 511.9 517.1 
+John_Lasseter/9v7nAzw5lXI_0000014 527.1 537.5 
+John_Lasseter/9v7nAzw5lXI_0000015 555.2 568.0 
+John_Lasseter/9v7nAzw5lXI_0000016 586.4 593.4 
+John_Lasseter/9v7nAzw5lXI_0000017 594.1 601.5 

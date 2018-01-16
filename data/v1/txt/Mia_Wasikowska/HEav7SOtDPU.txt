@@ -1,0 +1,14 @@
+POI: 			Mia_Wasikowska 
+Youtube ID: 	HEav7SOtDPU 
+Video length: 	738.7 sec 
+Set (V): 		dev 
+ 
+Mia_Wasikowska/HEav7SOtDPU_0000001 47.5 51.9 
+Mia_Wasikowska/HEav7SOtDPU_0000002 80.8 88.2 
+Mia_Wasikowska/HEav7SOtDPU_0000003 97.0 111.8 
+Mia_Wasikowska/HEav7SOtDPU_0000004 135.0 143.6 
+Mia_Wasikowska/HEav7SOtDPU_0000005 170.2 181.9 
+Mia_Wasikowska/HEav7SOtDPU_0000006 220.0 224.3 
+Mia_Wasikowska/HEav7SOtDPU_0000007 224.7 241.0 
+Mia_Wasikowska/HEav7SOtDPU_0000008 304.9 317.2 
+Mia_Wasikowska/HEav7SOtDPU_0000009 332.8 338.5 

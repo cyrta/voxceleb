@@ -1,0 +1,20 @@
+POI: 			Gilles_Marini 
+Youtube ID: 	VQBnetylQTI 
+Video length: 	401.7 sec 
+Set (V): 		dev 
+ 
+Gilles_Marini/VQBnetylQTI_0000001 30.4 34.7 
+Gilles_Marini/VQBnetylQTI_0000002 40.6 47.6 
+Gilles_Marini/VQBnetylQTI_0000003 86.9 93.3 
+Gilles_Marini/VQBnetylQTI_0000004 97.9 104.7 
+Gilles_Marini/VQBnetylQTI_0000005 105.1 118.0 
+Gilles_Marini/VQBnetylQTI_0000006 161.4 168.6 
+Gilles_Marini/VQBnetylQTI_0000007 168.9 177.4 
+Gilles_Marini/VQBnetylQTI_0000008 178.0 183.6 
+Gilles_Marini/VQBnetylQTI_0000009 279.6 288.4 
+Gilles_Marini/VQBnetylQTI_0000010 289.1 296.4 
+Gilles_Marini/VQBnetylQTI_0000011 297.2 302.3 
+Gilles_Marini/VQBnetylQTI_0000012 303.2 317.2 
+Gilles_Marini/VQBnetylQTI_0000013 321.4 344.6 
+Gilles_Marini/VQBnetylQTI_0000014 348.2 352.6 
+Gilles_Marini/VQBnetylQTI_0000015 377.2 381.9 

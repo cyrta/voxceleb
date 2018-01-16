@@ -1,0 +1,14 @@
+POI: 			Alexandra_Roach 
+Youtube ID: 	sLYKU0yIqU4 
+Video length: 	266.5 sec 
+Set (V): 		dev 
+ 
+Alexandra_Roach/sLYKU0yIqU4_0000001 31.7 37.2 
+Alexandra_Roach/sLYKU0yIqU4_0000002 76.9 82.7 
+Alexandra_Roach/sLYKU0yIqU4_0000003 89.7 98.4 
+Alexandra_Roach/sLYKU0yIqU4_0000004 101.7 106.1 
+Alexandra_Roach/sLYKU0yIqU4_0000005 122.8 132.2 
+Alexandra_Roach/sLYKU0yIqU4_0000006 167.0 173.3 
+Alexandra_Roach/sLYKU0yIqU4_0000007 176.8 186.8 
+Alexandra_Roach/sLYKU0yIqU4_0000008 187.2 195.2 
+Alexandra_Roach/sLYKU0yIqU4_0000009 242.6 247.7 

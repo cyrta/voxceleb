@@ -1,0 +1,12 @@
+POI: 			Mia_Wasikowska 
+Youtube ID: 	djpq82_ClZg 
+Video length: 	243.8 sec 
+Set (V): 		dev 
+ 
+Mia_Wasikowska/djpq82_ClZg_0000001 12.6 16.8 
+Mia_Wasikowska/djpq82_ClZg_0000002 41.0 45.0 
+Mia_Wasikowska/djpq82_ClZg_0000003 66.0 70.2 
+Mia_Wasikowska/djpq82_ClZg_0000004 74.4 84.1 
+Mia_Wasikowska/djpq82_ClZg_0000005 127.5 131.9 
+Mia_Wasikowska/djpq82_ClZg_0000006 184.3 191.2 
+Mia_Wasikowska/djpq82_ClZg_0000007 191.6 207.7 

@@ -1,0 +1,24 @@
+POI: 			Olivia_Colman 
+Youtube ID: 	tbNEUquzmnQ 
+Video length: 	319.5 sec 
+Set (V): 		dev 
+ 
+Olivia_Colman/tbNEUquzmnQ_0000001 04.5 09.8 
+Olivia_Colman/tbNEUquzmnQ_0000002 13.2 17.6 
+Olivia_Colman/tbNEUquzmnQ_0000003 33.0 38.4 
+Olivia_Colman/tbNEUquzmnQ_0000004 58.8 62.9 
+Olivia_Colman/tbNEUquzmnQ_0000005 91.2 96.8 
+Olivia_Colman/tbNEUquzmnQ_0000006 100.3 106.7 
+Olivia_Colman/tbNEUquzmnQ_0000007 113.6 119.8 
+Olivia_Colman/tbNEUquzmnQ_0000008 120.2 127.0 
+Olivia_Colman/tbNEUquzmnQ_0000009 138.4 147.8 
+Olivia_Colman/tbNEUquzmnQ_0000010 152.1 156.4 
+Olivia_Colman/tbNEUquzmnQ_0000011 173.5 186.1 
+Olivia_Colman/tbNEUquzmnQ_0000012 190.7 197.6 
+Olivia_Colman/tbNEUquzmnQ_0000013 222.5 226.9 
+Olivia_Colman/tbNEUquzmnQ_0000014 240.3 249.3 
+Olivia_Colman/tbNEUquzmnQ_0000015 261.0 266.3 
+Olivia_Colman/tbNEUquzmnQ_0000016 275.4 280.8 
+Olivia_Colman/tbNEUquzmnQ_0000017 281.0 290.0 
+Olivia_Colman/tbNEUquzmnQ_0000018 305.6 309.6 
+Olivia_Colman/tbNEUquzmnQ_0000019 310.5 315.1 

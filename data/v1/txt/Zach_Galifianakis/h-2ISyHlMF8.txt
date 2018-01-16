@@ -1,0 +1,8 @@
+POI: 			Zach_Galifianakis 
+Youtube ID: 	h-2ISyHlMF8 
+Video length: 	196.5 sec 
+Set (V): 		dev 
+ 
+Zach_Galifianakis/h-2ISyHlMF8_0000001 33.3 38.0 
+Zach_Galifianakis/h-2ISyHlMF8_0000002 79.3 83.3 
+Zach_Galifianakis/h-2ISyHlMF8_0000003 147.7 151.7 

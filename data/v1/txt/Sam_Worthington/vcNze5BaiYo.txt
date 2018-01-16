@@ -1,0 +1,8 @@
+POI: 			Sam_Worthington 
+Youtube ID: 	vcNze5BaiYo 
+Video length: 	135.9 sec 
+Set (V): 		dev 
+ 
+Sam_Worthington/vcNze5BaiYo_0000001 18.9 23.5 
+Sam_Worthington/vcNze5BaiYo_0000002 51.4 57.8 
+Sam_Worthington/vcNze5BaiYo_0000003 120.6 124.6 

@@ -1,0 +1,12 @@
+POI: 			Cyndi_Lauper 
+Youtube ID: 	n_OXevDeVsA 
+Video length: 	198.8 sec 
+Set (V): 		dev 
+ 
+Cyndi_Lauper/n_OXevDeVsA_0000001 05.0 10.4 
+Cyndi_Lauper/n_OXevDeVsA_0000002 53.6 61.1 
+Cyndi_Lauper/n_OXevDeVsA_0000003 64.8 72.2 
+Cyndi_Lauper/n_OXevDeVsA_0000004 78.7 83.2 
+Cyndi_Lauper/n_OXevDeVsA_0000005 112.5 117.2 
+Cyndi_Lauper/n_OXevDeVsA_0000006 136.6 141.8 
+Cyndi_Lauper/n_OXevDeVsA_0000007 149.2 155.8 

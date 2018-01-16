@@ -1,0 +1,22 @@
+POI: 			Tom_Hiddleston 
+Youtube ID: 	IF0gOe2QpWs 
+Video length: 	511.6 sec 
+Set (V): 		dev 
+ 
+Tom_Hiddleston/IF0gOe2QpWs_0000001 08.8 17.8 
+Tom_Hiddleston/IF0gOe2QpWs_0000002 27.8 42.7 
+Tom_Hiddleston/IF0gOe2QpWs_0000003 49.6 58.0 
+Tom_Hiddleston/IF0gOe2QpWs_0000004 181.4 187.0 
+Tom_Hiddleston/IF0gOe2QpWs_0000005 200.6 205.0 
+Tom_Hiddleston/IF0gOe2QpWs_0000006 209.9 223.8 
+Tom_Hiddleston/IF0gOe2QpWs_0000007 298.6 308.2 
+Tom_Hiddleston/IF0gOe2QpWs_0000008 324.4 339.4 
+Tom_Hiddleston/IF0gOe2QpWs_0000009 339.8 345.5 
+Tom_Hiddleston/IF0gOe2QpWs_0000010 346.2 350.5 
+Tom_Hiddleston/IF0gOe2QpWs_0000011 350.7 359.8 
+Tom_Hiddleston/IF0gOe2QpWs_0000012 361.1 371.0 
+Tom_Hiddleston/IF0gOe2QpWs_0000013 372.6 383.6 
+Tom_Hiddleston/IF0gOe2QpWs_0000014 387.1 394.0 
+Tom_Hiddleston/IF0gOe2QpWs_0000015 405.5 426.7 
+Tom_Hiddleston/IF0gOe2QpWs_0000016 427.4 431.9 
+Tom_Hiddleston/IF0gOe2QpWs_0000017 451.2 458.1 

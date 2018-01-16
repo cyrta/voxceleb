@@ -1,0 +1,8 @@
+POI: 			Ludacris 
+Youtube ID: 	_vRCkGqOZJo 
+Video length: 	250.1 sec 
+Set (V): 		dev 
+ 
+Ludacris/_vRCkGqOZJo_0000001 17.5 24.7 
+Ludacris/_vRCkGqOZJo_0000002 127.2 136.7 
+Ludacris/_vRCkGqOZJo_0000003 232.6 236.8 

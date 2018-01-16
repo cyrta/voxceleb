@@ -1,0 +1,8 @@
+POI: 			Sharni_Vinson 
+Youtube ID: 	CqIH-KV5GD0 
+Video length: 	92.5 sec 
+Set (V): 		dev 
+ 
+Sharni_Vinson/CqIH-KV5GD0_0000001 35.8 49.7 
+Sharni_Vinson/CqIH-KV5GD0_0000002 50.5 55.9 
+Sharni_Vinson/CqIH-KV5GD0_0000003 74.6 83.4 

@@ -1,0 +1,11 @@
+POI: 			Linda_Gray 
+Youtube ID: 	btftw2KXVR0 
+Video length: 	691.3 sec 
+Set (V): 		dev 
+ 
+Linda_Gray/btftw2KXVR0_0000001 236.6 240.7 
+Linda_Gray/btftw2KXVR0_0000002 286.4 294.0 
+Linda_Gray/btftw2KXVR0_0000003 312.5 316.9 
+Linda_Gray/btftw2KXVR0_0000004 428.4 438.1 
+Linda_Gray/btftw2KXVR0_0000005 534.1 538.9 
+Linda_Gray/btftw2KXVR0_0000006 576.7 581.1 

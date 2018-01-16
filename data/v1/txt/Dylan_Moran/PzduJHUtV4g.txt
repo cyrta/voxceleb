@@ -1,0 +1,7 @@
+POI: 			Dylan_Moran 
+Youtube ID: 	PzduJHUtV4g 
+Video length: 	563.0 sec 
+Set (V): 		dev 
+ 
+Dylan_Moran/PzduJHUtV4g_0000001 215.8 220.0 
+Dylan_Moran/PzduJHUtV4g_0000002 381.4 396.0 

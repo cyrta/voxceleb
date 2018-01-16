@@ -1,0 +1,12 @@
+POI: 			Jean_Reno 
+Youtube ID: 	Ru5rYhASLW8 
+Video length: 	197.3 sec 
+Set (V): 		dev 
+ 
+Jean_Reno/Ru5rYhASLW8_0000001 09.8 14.5 
+Jean_Reno/Ru5rYhASLW8_0000002 16.8 25.1 
+Jean_Reno/Ru5rYhASLW8_0000003 66.2 70.6 
+Jean_Reno/Ru5rYhASLW8_0000004 76.0 80.2 
+Jean_Reno/Ru5rYhASLW8_0000005 82.3 89.1 
+Jean_Reno/Ru5rYhASLW8_0000006 104.5 112.7 
+Jean_Reno/Ru5rYhASLW8_0000007 130.3 136.1 

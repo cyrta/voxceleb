@@ -1,0 +1,8 @@
+POI: 			Timothy_Spall 
+Youtube ID: 	vgkK6MQJ2bQ 
+Video length: 	123.2 sec 
+Set (V): 		dev 
+ 
+Timothy_Spall/vgkK6MQJ2bQ_0000001 11.2 24.5 
+Timothy_Spall/vgkK6MQJ2bQ_0000002 25.6 39.6 
+Timothy_Spall/vgkK6MQJ2bQ_0000003 111.8 115.8 

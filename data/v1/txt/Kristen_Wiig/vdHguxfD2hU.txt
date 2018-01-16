@@ -1,0 +1,8 @@
+POI: 			Kristen_Wiig 
+Youtube ID: 	vdHguxfD2hU 
+Video length: 	239.7 sec 
+Set (V): 		dev 
+ 
+Kristen_Wiig/vdHguxfD2hU_0000001 89.0 94.8 
+Kristen_Wiig/vdHguxfD2hU_0000002 194.9 200.4 
+Kristen_Wiig/vdHguxfD2hU_0000003 202.0 209.5 

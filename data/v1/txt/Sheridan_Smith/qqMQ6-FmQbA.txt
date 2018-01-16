@@ -1,0 +1,8 @@
+POI: 			Sheridan_Smith 
+Youtube ID: 	qqMQ6-FmQbA 
+Video length: 	63.7 sec 
+Set (V): 		dev 
+ 
+Sheridan_Smith/qqMQ6-FmQbA_0000001 05.6 10.2 
+Sheridan_Smith/qqMQ6-FmQbA_0000002 11.0 15.7 
+Sheridan_Smith/qqMQ6-FmQbA_0000003 45.2 51.3 

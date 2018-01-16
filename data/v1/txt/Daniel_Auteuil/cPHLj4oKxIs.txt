@@ -1,0 +1,10 @@
+POI: 			Daniel_Auteuil 
+Youtube ID: 	cPHLj4oKxIs 
+Video length: 	400.5 sec 
+Set (V): 		dev 
+ 
+Daniel_Auteuil/cPHLj4oKxIs_0000001 27.4 35.6 
+Daniel_Auteuil/cPHLj4oKxIs_0000002 217.9 222.3 
+Daniel_Auteuil/cPHLj4oKxIs_0000003 241.2 246.1 
+Daniel_Auteuil/cPHLj4oKxIs_0000004 326.7 331.5 
+Daniel_Auteuil/cPHLj4oKxIs_0000005 340.4 346.4 

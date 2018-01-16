@@ -1,0 +1,16 @@
+POI: 			Maggie_Gyllenhaal 
+Youtube ID: 	0LHgv5cpRIw 
+Video length: 	560.1 sec 
+Set (V): 		dev 
+ 
+Maggie_Gyllenhaal/0LHgv5cpRIw_0000001 116.5 122.4 
+Maggie_Gyllenhaal/0LHgv5cpRIw_0000002 138.4 149.2 
+Maggie_Gyllenhaal/0LHgv5cpRIw_0000003 170.0 175.4 
+Maggie_Gyllenhaal/0LHgv5cpRIw_0000004 203.4 210.8 
+Maggie_Gyllenhaal/0LHgv5cpRIw_0000005 212.8 227.7 
+Maggie_Gyllenhaal/0LHgv5cpRIw_0000006 249.6 261.7 
+Maggie_Gyllenhaal/0LHgv5cpRIw_0000007 291.2 301.7 
+Maggie_Gyllenhaal/0LHgv5cpRIw_0000008 331.6 338.2 
+Maggie_Gyllenhaal/0LHgv5cpRIw_0000009 403.9 408.8 
+Maggie_Gyllenhaal/0LHgv5cpRIw_0000010 498.2 506.3 
+Maggie_Gyllenhaal/0LHgv5cpRIw_0000011 525.5 532.2 

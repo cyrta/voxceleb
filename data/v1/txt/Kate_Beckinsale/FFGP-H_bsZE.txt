@@ -1,0 +1,8 @@
+POI: 			Kate_Beckinsale 
+Youtube ID: 	FFGP-H_bsZE 
+Video length: 	183.8 sec 
+Set (V): 		dev 
+ 
+Kate_Beckinsale/FFGP-H_bsZE_0000001 11.1 17.9 
+Kate_Beckinsale/FFGP-H_bsZE_0000002 46.4 53.3 
+Kate_Beckinsale/FFGP-H_bsZE_0000003 53.9 66.2 

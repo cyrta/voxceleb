@@ -1,0 +1,12 @@
+POI: 			Johnny_Galecki 
+Youtube ID: 	UoAwC6mDCGc 
+Video length: 	605.0 sec 
+Set (V): 		dev 
+ 
+Johnny_Galecki/UoAwC6mDCGc_0000001 13.0 17.4 
+Johnny_Galecki/UoAwC6mDCGc_0000002 37.4 43.7 
+Johnny_Galecki/UoAwC6mDCGc_0000003 199.7 203.8 
+Johnny_Galecki/UoAwC6mDCGc_0000004 212.9 217.8 
+Johnny_Galecki/UoAwC6mDCGc_0000005 384.4 388.8 
+Johnny_Galecki/UoAwC6mDCGc_0000006 505.1 509.1 
+Johnny_Galecki/UoAwC6mDCGc_0000007 568.7 573.3 

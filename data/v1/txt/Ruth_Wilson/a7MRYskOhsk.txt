@@ -1,0 +1,10 @@
+POI: 			Ruth_Wilson 
+Youtube ID: 	a7MRYskOhsk 
+Video length: 	343.7 sec 
+Set (V): 		dev 
+ 
+Ruth_Wilson/a7MRYskOhsk_0000001 103.2 114.7 
+Ruth_Wilson/a7MRYskOhsk_0000002 140.6 145.6 
+Ruth_Wilson/a7MRYskOhsk_0000003 153.6 158.8 
+Ruth_Wilson/a7MRYskOhsk_0000004 209.1 219.6 
+Ruth_Wilson/a7MRYskOhsk_0000005 317.7 325.0 

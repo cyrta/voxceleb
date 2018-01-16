@@ -1,0 +1,7 @@
+POI: 			Mindy_Kaling 
+Youtube ID: 	O-bMRdwqzgM 
+Video length: 	434.3 sec 
+Set (V): 		dev 
+ 
+Mindy_Kaling/O-bMRdwqzgM_0000001 61.2 65.3 
+Mindy_Kaling/O-bMRdwqzgM_0000002 171.6 176.3 

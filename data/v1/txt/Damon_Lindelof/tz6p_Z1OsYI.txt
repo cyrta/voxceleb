@@ -1,0 +1,8 @@
+POI: 			Damon_Lindelof 
+Youtube ID: 	tz6p_Z1OsYI 
+Video length: 	248.9 sec 
+Set (V): 		dev 
+ 
+Damon_Lindelof/tz6p_Z1OsYI_0000001 147.5 152.6 
+Damon_Lindelof/tz6p_Z1OsYI_0000002 153.8 176.6 
+Damon_Lindelof/tz6p_Z1OsYI_0000003 207.8 213.3 

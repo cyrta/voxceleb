@@ -1,0 +1,16 @@
+POI: 			Chloe_Bennet 
+Youtube ID: 	SPJadCy6Irs 
+Video length: 	888.9 sec 
+Set (V): 		dev 
+ 
+Chloe_Bennet/SPJadCy6Irs_0000001 106.4 114.4 
+Chloe_Bennet/SPJadCy6Irs_0000002 135.3 140.8 
+Chloe_Bennet/SPJadCy6Irs_0000003 143.7 149.9 
+Chloe_Bennet/SPJadCy6Irs_0000004 444.8 450.0 
+Chloe_Bennet/SPJadCy6Irs_0000005 455.4 464.7 
+Chloe_Bennet/SPJadCy6Irs_0000006 498.4 502.5 
+Chloe_Bennet/SPJadCy6Irs_0000007 519.6 528.8 
+Chloe_Bennet/SPJadCy6Irs_0000008 530.6 535.7 
+Chloe_Bennet/SPJadCy6Irs_0000009 548.0 557.1 
+Chloe_Bennet/SPJadCy6Irs_0000010 686.8 691.1 
+Chloe_Bennet/SPJadCy6Irs_0000011 710.8 716.4 

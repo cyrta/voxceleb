@@ -1,0 +1,9 @@
+POI: 			David_Mamet 
+Youtube ID: 	m94xuOJigHU 
+Video length: 	306.2 sec 
+Set (V): 		dev 
+ 
+David_Mamet/m94xuOJigHU_0000001 15.6 22.1 
+David_Mamet/m94xuOJigHU_0000002 77.3 84.3 
+David_Mamet/m94xuOJigHU_0000003 91.6 99.0 
+David_Mamet/m94xuOJigHU_0000004 189.5 194.7 

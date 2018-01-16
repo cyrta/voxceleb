@@ -1,0 +1,9 @@
+POI: 			Terrence_Howard 
+Youtube ID: 	NGheJlDfb08 
+Video length: 	192.1 sec 
+Set (V): 		dev 
+ 
+Terrence_Howard/NGheJlDfb08_0000001 26.0 30.4 
+Terrence_Howard/NGheJlDfb08_0000002 44.1 52.8 
+Terrence_Howard/NGheJlDfb08_0000003 66.0 73.5 
+Terrence_Howard/NGheJlDfb08_0000004 77.9 87.1 

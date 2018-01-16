@@ -1,0 +1,8 @@
+POI: 			Dylan_McDermott 
+Youtube ID: 	BpMQ27DfOb4 
+Video length: 	112.0 sec 
+Set (V): 		dev 
+ 
+Dylan_McDermott/BpMQ27DfOb4_0000001 16.6 25.2 
+Dylan_McDermott/BpMQ27DfOb4_0000002 38.4 43.4 
+Dylan_McDermott/BpMQ27DfOb4_0000003 94.1 104.4 

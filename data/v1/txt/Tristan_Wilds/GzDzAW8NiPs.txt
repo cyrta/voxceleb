@@ -1,0 +1,7 @@
+POI: 			Tristan_Wilds 
+Youtube ID: 	GzDzAW8NiPs 
+Video length: 	574.7 sec 
+Set (V): 		dev 
+ 
+Tristan_Wilds/GzDzAW8NiPs_0000001 210.2 214.3 
+Tristan_Wilds/GzDzAW8NiPs_0000002 253.9 258.1 

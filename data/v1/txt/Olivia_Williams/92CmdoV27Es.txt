@@ -1,0 +1,8 @@
+POI: 			Olivia_Williams 
+Youtube ID: 	92CmdoV27Es 
+Video length: 	567.6 sec 
+Set (V): 		dev 
+ 
+Olivia_Williams/92CmdoV27Es_0000001 118.8 127.3 
+Olivia_Williams/92CmdoV27Es_0000002 242.7 247.2 
+Olivia_Williams/92CmdoV27Es_0000003 292.7 299.7 

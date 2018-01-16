@@ -1,0 +1,14 @@
+POI: 			Olivia_Holt 
+Youtube ID: 	kOPtlYQPrlE 
+Video length: 	289.5 sec 
+Set (V): 		dev 
+ 
+Olivia_Holt/kOPtlYQPrlE_0000001 50.3 56.5 
+Olivia_Holt/kOPtlYQPrlE_0000002 56.8 70.7 
+Olivia_Holt/kOPtlYQPrlE_0000003 86.6 93.5 
+Olivia_Holt/kOPtlYQPrlE_0000004 133.6 143.8 
+Olivia_Holt/kOPtlYQPrlE_0000005 161.5 173.5 
+Olivia_Holt/kOPtlYQPrlE_0000006 173.6 187.2 
+Olivia_Holt/kOPtlYQPrlE_0000007 191.0 197.2 
+Olivia_Holt/kOPtlYQPrlE_0000008 206.8 223.0 
+Olivia_Holt/kOPtlYQPrlE_0000009 262.7 271.4 

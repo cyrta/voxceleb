@@ -1,0 +1,9 @@
+POI: 			Miranda_Kerr 
+Youtube ID: 	8JYyoTdqCy0 
+Video length: 	117.7 sec 
+Set (V): 		dev 
+ 
+Miranda_Kerr/8JYyoTdqCy0_0000001 10.0 18.4 
+Miranda_Kerr/8JYyoTdqCy0_0000002 39.9 51.5 
+Miranda_Kerr/8JYyoTdqCy0_0000003 52.6 64.2 
+Miranda_Kerr/8JYyoTdqCy0_0000004 93.6 98.2 

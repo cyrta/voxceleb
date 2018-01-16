@@ -1,0 +1,7 @@
+POI: 			Tom_Kenny 
+Youtube ID: 	y1I-m2U4ExM 
+Video length: 	116.5 sec 
+Set (V): 		dev 
+ 
+Tom_Kenny/y1I-m2U4ExM_0000001 12.6 17.3 
+Tom_Kenny/y1I-m2U4ExM_0000002 21.7 29.8 

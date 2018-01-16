@@ -1,0 +1,11 @@
+POI: 			Kodi_Smit-McPhee 
+Youtube ID: 	OH8C0htHRCA 
+Video length: 	139.3 sec 
+Set (V): 		dev 
+ 
+Kodi_Smit-McPhee/OH8C0htHRCA_0000001 04.4 23.3 
+Kodi_Smit-McPhee/OH8C0htHRCA_0000002 31.1 41.1 
+Kodi_Smit-McPhee/OH8C0htHRCA_0000003 42.1 51.1 
+Kodi_Smit-McPhee/OH8C0htHRCA_0000004 57.6 72.4 
+Kodi_Smit-McPhee/OH8C0htHRCA_0000005 91.2 98.8 
+Kodi_Smit-McPhee/OH8C0htHRCA_0000006 114.5 133.4 

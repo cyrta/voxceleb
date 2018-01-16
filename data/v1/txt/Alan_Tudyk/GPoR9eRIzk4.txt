@@ -1,0 +1,7 @@
+POI: 			Alan_Tudyk 
+Youtube ID: 	GPoR9eRIzk4 
+Video length: 	532.1 sec 
+Set (V): 		dev 
+ 
+Alan_Tudyk/GPoR9eRIzk4_0000001 493.4 499.8 
+Alan_Tudyk/GPoR9eRIzk4_0000002 500.6 513.4 

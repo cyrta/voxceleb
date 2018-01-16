@@ -1,0 +1,14 @@
+POI: 			Audra_McDonald 
+Youtube ID: 	B8YQ79N-c4E 
+Video length: 	99.0 sec 
+Set (V): 		dev 
+ 
+Audra_McDonald/B8YQ79N-c4E_0000001 12.7 18.2 
+Audra_McDonald/B8YQ79N-c4E_0000002 21.4 27.0 
+Audra_McDonald/B8YQ79N-c4E_0000003 30.3 34.7 
+Audra_McDonald/B8YQ79N-c4E_0000004 38.2 47.2 
+Audra_McDonald/B8YQ79N-c4E_0000005 60.3 65.0 
+Audra_McDonald/B8YQ79N-c4E_0000006 65.7 72.7 
+Audra_McDonald/B8YQ79N-c4E_0000007 75.0 81.6 
+Audra_McDonald/B8YQ79N-c4E_0000008 84.7 88.7 
+Audra_McDonald/B8YQ79N-c4E_0000009 90.3 96.5 

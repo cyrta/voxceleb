@@ -1,0 +1,8 @@
+POI: 			Ben_McKenzie 
+Youtube ID: 	KKoi_ipxUZU 
+Video length: 	127.6 sec 
+Set (V): 		dev 
+ 
+Ben_McKenzie/KKoi_ipxUZU_0000001 32.0 38.4 
+Ben_McKenzie/KKoi_ipxUZU_0000002 61.3 67.8 
+Ben_McKenzie/KKoi_ipxUZU_0000003 105.1 110.4 

@@ -1,0 +1,10 @@
+POI: 			Hector_Elizondo 
+Youtube ID: 	QC2GjUDZE9I 
+Video length: 	107.1 sec 
+Set (V): 		dev 
+ 
+Hector_Elizondo/QC2GjUDZE9I_0000001 26.7 35.0 
+Hector_Elizondo/QC2GjUDZE9I_0000002 59.7 68.3 
+Hector_Elizondo/QC2GjUDZE9I_0000003 69.1 73.2 
+Hector_Elizondo/QC2GjUDZE9I_0000004 86.6 91.6 
+Hector_Elizondo/QC2GjUDZE9I_0000005 28.5 35.0 

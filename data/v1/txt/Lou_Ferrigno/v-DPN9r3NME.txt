@@ -1,0 +1,8 @@
+POI: 			Lou_Ferrigno 
+Youtube ID: 	v-DPN9r3NME 
+Video length: 	322.9 sec 
+Set (V): 		dev 
+ 
+Lou_Ferrigno/v-DPN9r3NME_0000001 27.6 34.5 
+Lou_Ferrigno/v-DPN9r3NME_0000002 152.4 161.4 
+Lou_Ferrigno/v-DPN9r3NME_0000003 161.4 168.1 

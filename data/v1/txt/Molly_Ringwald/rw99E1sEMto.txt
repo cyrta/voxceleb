@@ -1,0 +1,11 @@
+POI: 			Molly_Ringwald 
+Youtube ID: 	rw99E1sEMto 
+Video length: 	195.0 sec 
+Set (V): 		dev 
+ 
+Molly_Ringwald/rw99E1sEMto_0000001 45.0 50.8 
+Molly_Ringwald/rw99E1sEMto_0000002 60.0 66.5 
+Molly_Ringwald/rw99E1sEMto_0000003 73.3 80.8 
+Molly_Ringwald/rw99E1sEMto_0000004 91.3 96.1 
+Molly_Ringwald/rw99E1sEMto_0000005 134.0 139.2 
+Molly_Ringwald/rw99E1sEMto_0000006 178.2 183.8 

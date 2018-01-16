@@ -1,0 +1,11 @@
+POI: 			Steve_Jobs 
+Youtube ID: 	dhzB98HeToU 
+Video length: 	313.4 sec 
+Set (V): 		dev 
+ 
+Steve_Jobs/dhzB98HeToU_0000001 42.1 52.6 
+Steve_Jobs/dhzB98HeToU_0000002 52.8 65.2 
+Steve_Jobs/dhzB98HeToU_0000003 81.0 92.5 
+Steve_Jobs/dhzB98HeToU_0000004 133.1 138.0 
+Steve_Jobs/dhzB98HeToU_0000005 220.0 227.4 
+Steve_Jobs/dhzB98HeToU_0000006 288.0 301.0 

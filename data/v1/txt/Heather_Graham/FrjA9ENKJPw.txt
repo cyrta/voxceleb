@@ -1,0 +1,14 @@
+POI: 			Heather_Graham 
+Youtube ID: 	FrjA9ENKJPw 
+Video length: 	1557.7 sec 
+Set (V): 		dev 
+ 
+Heather_Graham/FrjA9ENKJPw_0000001 149.8 156.8 
+Heather_Graham/FrjA9ENKJPw_0000002 183.8 189.3 
+Heather_Graham/FrjA9ENKJPw_0000003 200.6 204.6 
+Heather_Graham/FrjA9ENKJPw_0000004 207.6 211.8 
+Heather_Graham/FrjA9ENKJPw_0000005 317.2 321.3 
+Heather_Graham/FrjA9ENKJPw_0000006 661.7 666.8 
+Heather_Graham/FrjA9ENKJPw_0000007 759.2 767.0 
+Heather_Graham/FrjA9ENKJPw_0000008 1384.7 1391.3 
+Heather_Graham/FrjA9ENKJPw_0000009 1418.6 1425.6 

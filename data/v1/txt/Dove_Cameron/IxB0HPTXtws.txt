@@ -1,0 +1,13 @@
+POI: 			Dove_Cameron 
+Youtube ID: 	IxB0HPTXtws 
+Video length: 	265.1 sec 
+Set (V): 		dev 
+ 
+Dove_Cameron/IxB0HPTXtws_0000001 47.0 52.4 
+Dove_Cameron/IxB0HPTXtws_0000002 54.4 62.4 
+Dove_Cameron/IxB0HPTXtws_0000003 84.2 88.4 
+Dove_Cameron/IxB0HPTXtws_0000004 101.1 108.8 
+Dove_Cameron/IxB0HPTXtws_0000005 132.1 138.2 
+Dove_Cameron/IxB0HPTXtws_0000006 163.2 167.5 
+Dove_Cameron/IxB0HPTXtws_0000007 176.8 188.6 
+Dove_Cameron/IxB0HPTXtws_0000008 236.8 242.2 

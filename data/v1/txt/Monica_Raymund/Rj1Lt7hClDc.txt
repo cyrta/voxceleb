@@ -1,0 +1,18 @@
+POI: 			Monica_Raymund 
+Youtube ID: 	Rj1Lt7hClDc 
+Video length: 	262.2 sec 
+Set (V): 		dev 
+ 
+Monica_Raymund/Rj1Lt7hClDc_0000001 04.7 16.6 
+Monica_Raymund/Rj1Lt7hClDc_0000002 17.3 23.0 
+Monica_Raymund/Rj1Lt7hClDc_0000003 85.0 91.5 
+Monica_Raymund/Rj1Lt7hClDc_0000004 93.1 111.5 
+Monica_Raymund/Rj1Lt7hClDc_0000005 112.0 121.7 
+Monica_Raymund/Rj1Lt7hClDc_0000006 131.8 138.3 
+Monica_Raymund/Rj1Lt7hClDc_0000007 139.6 150.7 
+Monica_Raymund/Rj1Lt7hClDc_0000008 153.0 177.5 
+Monica_Raymund/Rj1Lt7hClDc_0000009 181.2 195.3 
+Monica_Raymund/Rj1Lt7hClDc_0000010 196.6 202.7 
+Monica_Raymund/Rj1Lt7hClDc_0000011 205.2 209.9 
+Monica_Raymund/Rj1Lt7hClDc_0000012 212.1 231.3 
+Monica_Raymund/Rj1Lt7hClDc_0000013 238.5 248.7 

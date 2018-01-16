@@ -1,0 +1,9 @@
+POI: 			Monica_Raymund 
+Youtube ID: 	OBBpmSndN-c 
+Video length: 	185.3 sec 
+Set (V): 		dev 
+ 
+Monica_Raymund/OBBpmSndN-c_0000001 15.5 26.8 
+Monica_Raymund/OBBpmSndN-c_0000002 55.4 68.2 
+Monica_Raymund/OBBpmSndN-c_0000003 84.4 89.1 
+Monica_Raymund/OBBpmSndN-c_0000004 167.8 172.4 

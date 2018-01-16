@@ -1,0 +1,9 @@
+POI: 			Eric_Dane 
+Youtube ID: 	w9jwTc5wuV4 
+Video length: 	400.1 sec 
+Set (V): 		test 
+ 
+Eric_Dane/w9jwTc5wuV4_0000001 86.9 106.6 
+Eric_Dane/w9jwTc5wuV4_0000002 118.2 126.5 
+Eric_Dane/w9jwTc5wuV4_0000003 171.1 176.4 
+Eric_Dane/w9jwTc5wuV4_0000004 291.8 296.4 

@@ -1,0 +1,19 @@
+POI: 			David_Mazouz 
+Youtube ID: 	PoVsyO_ZEgA 
+Video length: 	387.6 sec 
+Set (V): 		dev 
+ 
+David_Mazouz/PoVsyO_ZEgA_0000001 127.0 140.4 
+David_Mazouz/PoVsyO_ZEgA_0000002 145.4 149.3 
+David_Mazouz/PoVsyO_ZEgA_0000003 170.4 175.7 
+David_Mazouz/PoVsyO_ZEgA_0000004 182.1 192.4 
+David_Mazouz/PoVsyO_ZEgA_0000005 196.3 201.1 
+David_Mazouz/PoVsyO_ZEgA_0000006 225.2 231.9 
+David_Mazouz/PoVsyO_ZEgA_0000007 232.9 243.6 
+David_Mazouz/PoVsyO_ZEgA_0000008 244.6 249.2 
+David_Mazouz/PoVsyO_ZEgA_0000009 291.0 296.4 
+David_Mazouz/PoVsyO_ZEgA_0000010 305.6 311.0 
+David_Mazouz/PoVsyO_ZEgA_0000011 313.4 318.7 
+David_Mazouz/PoVsyO_ZEgA_0000012 354.2 358.1 
+David_Mazouz/PoVsyO_ZEgA_0000013 348.4 353.2 
+David_Mazouz/PoVsyO_ZEgA_0000014 354.2 358.1 

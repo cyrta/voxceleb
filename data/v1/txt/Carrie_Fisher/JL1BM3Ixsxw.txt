@@ -1,0 +1,26 @@
+POI: 			Carrie_Fisher 
+Youtube ID: 	JL1BM3Ixsxw 
+Video length: 	1326.0 sec 
+Set (V): 		dev 
+ 
+Carrie_Fisher/JL1BM3Ixsxw_0000001 255.3 261.9 
+Carrie_Fisher/JL1BM3Ixsxw_0000002 299.4 304.8 
+Carrie_Fisher/JL1BM3Ixsxw_0000003 383.1 388.9 
+Carrie_Fisher/JL1BM3Ixsxw_0000004 394.7 400.5 
+Carrie_Fisher/JL1BM3Ixsxw_0000005 457.8 467.6 
+Carrie_Fisher/JL1BM3Ixsxw_0000006 480.5 487.1 
+Carrie_Fisher/JL1BM3Ixsxw_0000007 502.4 508.2 
+Carrie_Fisher/JL1BM3Ixsxw_0000008 569.5 573.6 
+Carrie_Fisher/JL1BM3Ixsxw_0000009 606.6 612.2 
+Carrie_Fisher/JL1BM3Ixsxw_0000010 620.0 627.5 
+Carrie_Fisher/JL1BM3Ixsxw_0000011 719.7 724.7 
+Carrie_Fisher/JL1BM3Ixsxw_0000012 788.1 792.3 
+Carrie_Fisher/JL1BM3Ixsxw_0000013 813.7 818.8 
+Carrie_Fisher/JL1BM3Ixsxw_0000014 849.8 858.4 
+Carrie_Fisher/JL1BM3Ixsxw_0000015 885.9 891.0 
+Carrie_Fisher/JL1BM3Ixsxw_0000016 1019.2 1023.6 
+Carrie_Fisher/JL1BM3Ixsxw_0000017 1054.7 1062.4 
+Carrie_Fisher/JL1BM3Ixsxw_0000018 1182.1 1189.0 
+Carrie_Fisher/JL1BM3Ixsxw_0000019 1224.2 1229.4 
+Carrie_Fisher/JL1BM3Ixsxw_0000020 1248.1 1252.4 
+Carrie_Fisher/JL1BM3Ixsxw_0000021 1271.6 1276.3 

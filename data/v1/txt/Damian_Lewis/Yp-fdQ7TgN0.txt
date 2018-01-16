@@ -1,0 +1,21 @@
+POI: 			Damian_Lewis 
+Youtube ID: 	Yp-fdQ7TgN0 
+Video length: 	558.8 sec 
+Set (V): 		dev 
+ 
+Damian_Lewis/Yp-fdQ7TgN0_0000001 84.8 96.0 
+Damian_Lewis/Yp-fdQ7TgN0_0000002 126.0 131.8 
+Damian_Lewis/Yp-fdQ7TgN0_0000003 150.2 163.4 
+Damian_Lewis/Yp-fdQ7TgN0_0000004 167.2 173.0 
+Damian_Lewis/Yp-fdQ7TgN0_0000005 226.5 239.0 
+Damian_Lewis/Yp-fdQ7TgN0_0000006 279.3 289.5 
+Damian_Lewis/Yp-fdQ7TgN0_0000007 294.9 306.8 
+Damian_Lewis/Yp-fdQ7TgN0_0000008 357.8 363.3 
+Damian_Lewis/Yp-fdQ7TgN0_0000009 382.1 386.3 
+Damian_Lewis/Yp-fdQ7TgN0_0000010 387.9 392.7 
+Damian_Lewis/Yp-fdQ7TgN0_0000011 399.8 410.4 
+Damian_Lewis/Yp-fdQ7TgN0_0000012 416.6 420.9 
+Damian_Lewis/Yp-fdQ7TgN0_0000013 433.9 448.3 
+Damian_Lewis/Yp-fdQ7TgN0_0000014 461.6 468.0 
+Damian_Lewis/Yp-fdQ7TgN0_0000015 473.5 485.4 
+Damian_Lewis/Yp-fdQ7TgN0_0000016 500.6 505.7 

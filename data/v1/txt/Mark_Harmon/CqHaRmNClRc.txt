@@ -1,0 +1,12 @@
+POI: 			Mark_Harmon 
+Youtube ID: 	CqHaRmNClRc 
+Video length: 	213.6 sec 
+Set (V): 		dev 
+ 
+Mark_Harmon/CqHaRmNClRc_0000001 17.8 28.4 
+Mark_Harmon/CqHaRmNClRc_0000002 65.8 70.5 
+Mark_Harmon/CqHaRmNClRc_0000003 75.8 79.8 
+Mark_Harmon/CqHaRmNClRc_0000004 84.4 89.3 
+Mark_Harmon/CqHaRmNClRc_0000005 139.9 147.5 
+Mark_Harmon/CqHaRmNClRc_0000006 155.6 163.2 
+Mark_Harmon/CqHaRmNClRc_0000007 171.6 187.0 

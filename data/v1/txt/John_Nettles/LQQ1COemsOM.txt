@@ -1,0 +1,14 @@
+POI: 			John_Nettles 
+Youtube ID: 	LQQ1COemsOM 
+Video length: 	344.6 sec 
+Set (V): 		dev 
+ 
+John_Nettles/LQQ1COemsOM_0000001 112.8 117.1 
+John_Nettles/LQQ1COemsOM_0000002 123.6 130.3 
+John_Nettles/LQQ1COemsOM_0000003 151.0 155.1 
+John_Nettles/LQQ1COemsOM_0000004 175.8 181.1 
+John_Nettles/LQQ1COemsOM_0000005 193.3 198.6 
+John_Nettles/LQQ1COemsOM_0000006 218.8 228.4 
+John_Nettles/LQQ1COemsOM_0000007 269.8 274.3 
+John_Nettles/LQQ1COemsOM_0000008 300.3 304.4 
+John_Nettles/LQQ1COemsOM_0000009 325.6 329.7 

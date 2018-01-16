@@ -1,0 +1,8 @@
+POI: 			Eric_Braeden 
+Youtube ID: 	Jr2KDTTWYgM 
+Video length: 	62.9 sec 
+Set (V): 		test 
+ 
+Eric_Braeden/Jr2KDTTWYgM_0000001 01.1 08.2 
+Eric_Braeden/Jr2KDTTWYgM_0000002 11.5 16.8 
+Eric_Braeden/Jr2KDTTWYgM_0000003 43.5 48.1 

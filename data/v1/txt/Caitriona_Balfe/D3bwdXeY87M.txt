@@ -1,0 +1,11 @@
+POI: 			Caitriona_Balfe 
+Youtube ID: 	D3bwdXeY87M 
+Video length: 	349.5 sec 
+Set (V): 		dev 
+ 
+Caitriona_Balfe/D3bwdXeY87M_0000001 63.0 68.4 
+Caitriona_Balfe/D3bwdXeY87M_0000002 68.6 76.4 
+Caitriona_Balfe/D3bwdXeY87M_0000003 106.5 111.9 
+Caitriona_Balfe/D3bwdXeY87M_0000004 139.2 148.8 
+Caitriona_Balfe/D3bwdXeY87M_0000005 197.0 208.4 
+Caitriona_Balfe/D3bwdXeY87M_0000006 255.5 259.5 

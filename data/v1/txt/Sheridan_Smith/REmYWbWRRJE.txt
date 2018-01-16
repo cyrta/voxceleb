@@ -1,0 +1,21 @@
+POI: 			Sheridan_Smith 
+Youtube ID: 	REmYWbWRRJE 
+Video length: 	264.0 sec 
+Set (V): 		dev 
+ 
+Sheridan_Smith/REmYWbWRRJE_0000001 15.2 19.5 
+Sheridan_Smith/REmYWbWRRJE_0000002 25.3 29.5 
+Sheridan_Smith/REmYWbWRRJE_0000003 39.2 44.8 
+Sheridan_Smith/REmYWbWRRJE_0000004 46.6 54.4 
+Sheridan_Smith/REmYWbWRRJE_0000005 68.9 72.8 
+Sheridan_Smith/REmYWbWRRJE_0000006 73.0 83.2 
+Sheridan_Smith/REmYWbWRRJE_0000007 88.1 92.6 
+Sheridan_Smith/REmYWbWRRJE_0000008 94.5 99.2 
+Sheridan_Smith/REmYWbWRRJE_0000009 112.8 123.8 
+Sheridan_Smith/REmYWbWRRJE_0000010 125.7 132.2 
+Sheridan_Smith/REmYWbWRRJE_0000011 173.2 178.6 
+Sheridan_Smith/REmYWbWRRJE_0000012 195.4 201.0 
+Sheridan_Smith/REmYWbWRRJE_0000013 215.2 219.3 
+Sheridan_Smith/REmYWbWRRJE_0000014 219.9 225.5 
+Sheridan_Smith/REmYWbWRRJE_0000015 225.7 233.8 
+Sheridan_Smith/REmYWbWRRJE_0000016 238.4 243.3 

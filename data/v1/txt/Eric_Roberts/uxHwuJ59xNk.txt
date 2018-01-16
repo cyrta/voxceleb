@@ -1,0 +1,9 @@
+POI: 			Eric_Roberts 
+Youtube ID: 	uxHwuJ59xNk 
+Video length: 	61.4 sec 
+Set (V): 		test 
+ 
+Eric_Roberts/uxHwuJ59xNk_0000001 02.8 07.2 
+Eric_Roberts/uxHwuJ59xNk_0000002 18.2 34.5 
+Eric_Roberts/uxHwuJ59xNk_0000003 35.4 41.5 
+Eric_Roberts/uxHwuJ59xNk_0000004 44.3 48.4 

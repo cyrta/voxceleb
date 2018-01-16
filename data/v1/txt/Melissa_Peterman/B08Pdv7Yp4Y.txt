@@ -1,0 +1,8 @@
+POI: 			Melissa_Peterman 
+Youtube ID: 	B08Pdv7Yp4Y 
+Video length: 	167.6 sec 
+Set (V): 		dev 
+ 
+Melissa_Peterman/B08Pdv7Yp4Y_0000001 59.0 63.1 
+Melissa_Peterman/B08Pdv7Yp4Y_0000002 116.3 122.3 
+Melissa_Peterman/B08Pdv7Yp4Y_0000003 123.4 128.0 

@@ -1,0 +1,13 @@
+POI: 			Toby_Jones 
+Youtube ID: 	zo-BUJ0_HEQ 
+Video length: 	286.9 sec 
+Set (V): 		dev 
+ 
+Toby_Jones/zo-BUJ0_HEQ_0000001 33.3 37.6 
+Toby_Jones/zo-BUJ0_HEQ_0000002 37.8 46.0 
+Toby_Jones/zo-BUJ0_HEQ_0000003 94.7 100.4 
+Toby_Jones/zo-BUJ0_HEQ_0000004 101.6 105.7 
+Toby_Jones/zo-BUJ0_HEQ_0000005 108.6 113.9 
+Toby_Jones/zo-BUJ0_HEQ_0000006 160.6 165.0 
+Toby_Jones/zo-BUJ0_HEQ_0000007 186.8 191.6 
+Toby_Jones/zo-BUJ0_HEQ_0000008 243.7 255.0 

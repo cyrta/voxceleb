@@ -1,0 +1,17 @@
+POI: 			Guillaume_Canet 
+Youtube ID: 	XR0sKT4Qvgk 
+Video length: 	642.0 sec 
+Set (V): 		dev 
+ 
+Guillaume_Canet/XR0sKT4Qvgk_0000001 46.6 51.0 
+Guillaume_Canet/XR0sKT4Qvgk_0000002 83.7 88.6 
+Guillaume_Canet/XR0sKT4Qvgk_0000003 92.1 96.8 
+Guillaume_Canet/XR0sKT4Qvgk_0000004 416.6 421.4 
+Guillaume_Canet/XR0sKT4Qvgk_0000005 423.8 430.8 
+Guillaume_Canet/XR0sKT4Qvgk_0000006 433.0 438.8 
+Guillaume_Canet/XR0sKT4Qvgk_0000007 442.7 447.0 
+Guillaume_Canet/XR0sKT4Qvgk_0000008 457.5 462.8 
+Guillaume_Canet/XR0sKT4Qvgk_0000009 495.1 501.6 
+Guillaume_Canet/XR0sKT4Qvgk_0000010 506.4 513.2 
+Guillaume_Canet/XR0sKT4Qvgk_0000011 573.5 581.4 
+Guillaume_Canet/XR0sKT4Qvgk_0000012 604.0 608.3 

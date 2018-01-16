@@ -1,0 +1,16 @@
+POI: 			Vince_Gilligan 
+Youtube ID: 	VzDZq087j2Y 
+Video length: 	413.1 sec 
+Set (V): 		dev 
+ 
+Vince_Gilligan/VzDZq087j2Y_0000001 48.1 52.4 
+Vince_Gilligan/VzDZq087j2Y_0000002 69.4 74.0 
+Vince_Gilligan/VzDZq087j2Y_0000003 74.1 78.6 
+Vince_Gilligan/VzDZq087j2Y_0000004 204.4 209.0 
+Vince_Gilligan/VzDZq087j2Y_0000005 232.7 241.9 
+Vince_Gilligan/VzDZq087j2Y_0000006 270.8 278.4 
+Vince_Gilligan/VzDZq087j2Y_0000007 271.2 276.0 
+Vince_Gilligan/VzDZq087j2Y_0000008 344.4 349.2 
+Vince_Gilligan/VzDZq087j2Y_0000009 351.0 360.4 
+Vince_Gilligan/VzDZq087j2Y_0000010 380.4 392.4 
+Vince_Gilligan/VzDZq087j2Y_0000011 404.2 409.0 

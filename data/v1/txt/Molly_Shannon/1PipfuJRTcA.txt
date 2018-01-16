@@ -1,0 +1,7 @@
+POI: 			Molly_Shannon 
+Youtube ID: 	1PipfuJRTcA 
+Video length: 	192.1 sec 
+Set (V): 		dev 
+ 
+Molly_Shannon/1PipfuJRTcA_0000001 11.0 23.0 
+Molly_Shannon/1PipfuJRTcA_0000002 90.4 96.1 

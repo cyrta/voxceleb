@@ -1,0 +1,9 @@
+POI: 			Candice_Patton 
+Youtube ID: 	Y4a_LeHg1YQ 
+Video length: 	143.4 sec 
+Set (V): 		dev 
+ 
+Candice_Patton/Y4a_LeHg1YQ_0000001 40.9 45.8 
+Candice_Patton/Y4a_LeHg1YQ_0000002 78.5 89.5 
+Candice_Patton/Y4a_LeHg1YQ_0000003 105.7 112.3 
+Candice_Patton/Y4a_LeHg1YQ_0000004 112.8 118.2 

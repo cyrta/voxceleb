@@ -1,0 +1,7 @@
+POI: 			Diogo_Morgado 
+Youtube ID: 	a9_J7tmwPQQ 
+Video length: 	293.1 sec 
+Set (V): 		dev 
+ 
+Diogo_Morgado/a9_J7tmwPQQ_0000001 109.1 133.3 
+Diogo_Morgado/a9_J7tmwPQQ_0000002 143.7 166.7 

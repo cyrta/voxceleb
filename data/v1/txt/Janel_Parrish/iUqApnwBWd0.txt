@@ -1,0 +1,14 @@
+POI: 			Janel_Parrish 
+Youtube ID: 	iUqApnwBWd0 
+Video length: 	234.8 sec 
+Set (V): 		dev 
+ 
+Janel_Parrish/iUqApnwBWd0_0000001 29.8 35.5 
+Janel_Parrish/iUqApnwBWd0_0000002 51.5 66.7 
+Janel_Parrish/iUqApnwBWd0_0000003 82.2 91.7 
+Janel_Parrish/iUqApnwBWd0_0000004 118.2 125.2 
+Janel_Parrish/iUqApnwBWd0_0000005 128.0 143.3 
+Janel_Parrish/iUqApnwBWd0_0000006 171.2 175.5 
+Janel_Parrish/iUqApnwBWd0_0000007 183.4 187.5 
+Janel_Parrish/iUqApnwBWd0_0000008 195.7 213.8 
+Janel_Parrish/iUqApnwBWd0_0000009 213.8 219.2 

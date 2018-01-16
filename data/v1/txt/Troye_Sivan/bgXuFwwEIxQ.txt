@@ -1,0 +1,34 @@
+POI: 			Troye_Sivan 
+Youtube ID: 	bgXuFwwEIxQ 
+Video length: 	571.0 sec 
+Set (V): 		dev 
+ 
+Troye_Sivan/bgXuFwwEIxQ_0000001 16.5 23.5 
+Troye_Sivan/bgXuFwwEIxQ_0000002 25.2 35.9 
+Troye_Sivan/bgXuFwwEIxQ_0000003 43.0 74.3 
+Troye_Sivan/bgXuFwwEIxQ_0000004 74.9 79.2 
+Troye_Sivan/bgXuFwwEIxQ_0000005 81.1 89.2 
+Troye_Sivan/bgXuFwwEIxQ_0000006 90.0 96.3 
+Troye_Sivan/bgXuFwwEIxQ_0000007 98.1 109.3 
+Troye_Sivan/bgXuFwwEIxQ_0000008 135.8 140.2 
+Troye_Sivan/bgXuFwwEIxQ_0000009 147.7 160.5 
+Troye_Sivan/bgXuFwwEIxQ_0000010 104.2 109.4 
+Troye_Sivan/bgXuFwwEIxQ_0000011 136.0 143.8 
+Troye_Sivan/bgXuFwwEIxQ_0000012 175.1 191.4 
+Troye_Sivan/bgXuFwwEIxQ_0000013 191.9 207.0 
+Troye_Sivan/bgXuFwwEIxQ_0000014 209.5 216.5 
+Troye_Sivan/bgXuFwwEIxQ_0000015 217.5 223.8 
+Troye_Sivan/bgXuFwwEIxQ_0000016 237.0 246.1 
+Troye_Sivan/bgXuFwwEIxQ_0000017 251.3 256.6 
+Troye_Sivan/bgXuFwwEIxQ_0000018 308.2 314.1 
+Troye_Sivan/bgXuFwwEIxQ_0000019 316.5 329.1 
+Troye_Sivan/bgXuFwwEIxQ_0000020 342.6 355.0 
+Troye_Sivan/bgXuFwwEIxQ_0000021 358.2 363.2 
+Troye_Sivan/bgXuFwwEIxQ_0000022 381.4 386.4 
+Troye_Sivan/bgXuFwwEIxQ_0000023 388.9 395.7 
+Troye_Sivan/bgXuFwwEIxQ_0000024 429.7 460.6 
+Troye_Sivan/bgXuFwwEIxQ_0000025 482.8 490.6 
+Troye_Sivan/bgXuFwwEIxQ_0000026 492.2 499.0 
+Troye_Sivan/bgXuFwwEIxQ_0000027 502.6 508.4 
+Troye_Sivan/bgXuFwwEIxQ_0000028 513.7 518.5 
+Troye_Sivan/bgXuFwwEIxQ_0000029 537.4 560.1 

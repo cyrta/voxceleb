@@ -1,0 +1,20 @@
+POI: 			Michael_Bay 
+Youtube ID: 	hffIVibbE-o 
+Video length: 	435.4 sec 
+Set (V): 		dev 
+ 
+Michael_Bay/hffIVibbE-o_0000001 48.3 52.4 
+Michael_Bay/hffIVibbE-o_0000002 80.6 84.8 
+Michael_Bay/hffIVibbE-o_0000003 108.6 113.2 
+Michael_Bay/hffIVibbE-o_0000004 130.8 137.7 
+Michael_Bay/hffIVibbE-o_0000005 176.4 181.4 
+Michael_Bay/hffIVibbE-o_0000006 189.0 195.6 
+Michael_Bay/hffIVibbE-o_0000007 200.4 210.2 
+Michael_Bay/hffIVibbE-o_0000008 283.6 288.0 
+Michael_Bay/hffIVibbE-o_0000009 327.7 338.9 
+Michael_Bay/hffIVibbE-o_0000010 351.0 356.2 
+Michael_Bay/hffIVibbE-o_0000011 358.3 362.4 
+Michael_Bay/hffIVibbE-o_0000012 366.9 372.0 
+Michael_Bay/hffIVibbE-o_0000013 399.2 404.2 
+Michael_Bay/hffIVibbE-o_0000014 414.6 419.0 
+Michael_Bay/hffIVibbE-o_0000015 425.7 432.9 

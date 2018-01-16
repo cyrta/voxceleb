@@ -1,0 +1,12 @@
+POI: 			Daniel_Dae_Kim 
+Youtube ID: 	ydRw7SqZk7k 
+Video length: 	127.8 sec 
+Set (V): 		dev 
+ 
+Daniel_Dae_Kim/ydRw7SqZk7k_0000001 03.1 16.0 
+Daniel_Dae_Kim/ydRw7SqZk7k_0000002 17.4 28.6 
+Daniel_Dae_Kim/ydRw7SqZk7k_0000003 41.2 56.7 
+Daniel_Dae_Kim/ydRw7SqZk7k_0000004 64.0 77.8 
+Daniel_Dae_Kim/ydRw7SqZk7k_0000005 85.6 92.0 
+Daniel_Dae_Kim/ydRw7SqZk7k_0000006 93.0 102.4 
+Daniel_Dae_Kim/ydRw7SqZk7k_0000007 104.8 109.0 

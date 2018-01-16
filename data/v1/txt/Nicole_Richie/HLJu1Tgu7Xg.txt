@@ -1,0 +1,7 @@
+POI: 			Nicole_Richie 
+Youtube ID: 	HLJu1Tgu7Xg 
+Video length: 	126.0 sec 
+Set (V): 		dev 
+ 
+Nicole_Richie/HLJu1Tgu7Xg_0000001 29.1 34.8 
+Nicole_Richie/HLJu1Tgu7Xg_0000002 47.2 51.5 

@@ -1,0 +1,7 @@
+POI: 			Donald_Sutherland 
+Youtube ID: 	r71gSyY4rgs 
+Video length: 	424.8 sec 
+Set (V): 		dev 
+ 
+Donald_Sutherland/r71gSyY4rgs_0000001 299.5 305.5 
+Donald_Sutherland/r71gSyY4rgs_0000002 353.0 357.1 

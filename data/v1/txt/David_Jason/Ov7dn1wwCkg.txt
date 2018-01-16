@@ -1,0 +1,8 @@
+POI: 			David_Jason 
+Youtube ID: 	Ov7dn1wwCkg 
+Video length: 	154.5 sec 
+Set (V): 		dev 
+ 
+David_Jason/Ov7dn1wwCkg_0000001 92.8 97.0 
+David_Jason/Ov7dn1wwCkg_0000002 100.6 104.8 
+David_Jason/Ov7dn1wwCkg_0000003 110.5 116.6 

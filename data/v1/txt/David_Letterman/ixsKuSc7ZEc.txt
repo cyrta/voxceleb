@@ -1,0 +1,18 @@
+POI: 			David_Letterman 
+Youtube ID: 	ixsKuSc7ZEc 
+Video length: 	712.9 sec 
+Set (V): 		dev 
+ 
+David_Letterman/ixsKuSc7ZEc_0000001 238.1 242.4 
+David_Letterman/ixsKuSc7ZEc_0000002 246.5 254.5 
+David_Letterman/ixsKuSc7ZEc_0000003 317.0 324.6 
+David_Letterman/ixsKuSc7ZEc_0000004 354.2 358.2 
+David_Letterman/ixsKuSc7ZEc_0000005 408.2 425.6 
+David_Letterman/ixsKuSc7ZEc_0000006 436.0 449.8 
+David_Letterman/ixsKuSc7ZEc_0000007 467.0 471.6 
+David_Letterman/ixsKuSc7ZEc_0000008 480.3 485.1 
+David_Letterman/ixsKuSc7ZEc_0000009 496.2 509.7 
+David_Letterman/ixsKuSc7ZEc_0000010 518.2 524.4 
+David_Letterman/ixsKuSc7ZEc_0000011 527.6 532.3 
+David_Letterman/ixsKuSc7ZEc_0000012 569.0 581.0 
+David_Letterman/ixsKuSc7ZEc_0000013 596.1 602.4 

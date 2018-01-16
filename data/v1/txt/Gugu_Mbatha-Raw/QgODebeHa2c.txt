@@ -1,0 +1,14 @@
+POI: 			Gugu_Mbatha-Raw 
+Youtube ID: 	QgODebeHa2c 
+Video length: 	408.3 sec 
+Set (V): 		dev 
+ 
+Gugu_Mbatha-Raw/QgODebeHa2c_0000001 91.8 103.8 
+Gugu_Mbatha-Raw/QgODebeHa2c_0000002 173.1 190.2 
+Gugu_Mbatha-Raw/QgODebeHa2c_0000003 207.8 219.5 
+Gugu_Mbatha-Raw/QgODebeHa2c_0000004 242.8 247.4 
+Gugu_Mbatha-Raw/QgODebeHa2c_0000005 248.3 260.6 
+Gugu_Mbatha-Raw/QgODebeHa2c_0000006 287.5 293.0 
+Gugu_Mbatha-Raw/QgODebeHa2c_0000007 355.8 365.0 
+Gugu_Mbatha-Raw/QgODebeHa2c_0000008 366.9 374.2 
+Gugu_Mbatha-Raw/QgODebeHa2c_0000009 380.2 386.5 

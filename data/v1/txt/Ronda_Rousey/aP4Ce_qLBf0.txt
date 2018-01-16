@@ -1,0 +1,19 @@
+POI: 			Ronda_Rousey 
+Youtube ID: 	aP4Ce_qLBf0 
+Video length: 	460.1 sec 
+Set (V): 		dev 
+ 
+Ronda_Rousey/aP4Ce_qLBf0_0000001 43.1 48.9 
+Ronda_Rousey/aP4Ce_qLBf0_0000002 53.4 68.1 
+Ronda_Rousey/aP4Ce_qLBf0_0000003 73.4 81.3 
+Ronda_Rousey/aP4Ce_qLBf0_0000004 89.6 94.3 
+Ronda_Rousey/aP4Ce_qLBf0_0000005 121.8 127.6 
+Ronda_Rousey/aP4Ce_qLBf0_0000006 136.7 143.1 
+Ronda_Rousey/aP4Ce_qLBf0_0000007 157.3 168.8 
+Ronda_Rousey/aP4Ce_qLBf0_0000008 191.3 195.9 
+Ronda_Rousey/aP4Ce_qLBf0_0000009 261.4 268.3 
+Ronda_Rousey/aP4Ce_qLBf0_0000010 328.9 333.1 
+Ronda_Rousey/aP4Ce_qLBf0_0000011 344.9 350.1 
+Ronda_Rousey/aP4Ce_qLBf0_0000012 380.3 387.7 
+Ronda_Rousey/aP4Ce_qLBf0_0000013 404.6 417.5 
+Ronda_Rousey/aP4Ce_qLBf0_0000014 419.0 425.5 

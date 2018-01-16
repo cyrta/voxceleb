@@ -1,0 +1,11 @@
+POI: 			Senta_Berger 
+Youtube ID: 	oiUQNBHA6i4 
+Video length: 	263.4 sec 
+Set (V): 		dev 
+ 
+Senta_Berger/oiUQNBHA6i4_0000001 12.6 27.6 
+Senta_Berger/oiUQNBHA6i4_0000002 46.0 51.1 
+Senta_Berger/oiUQNBHA6i4_0000003 64.6 78.7 
+Senta_Berger/oiUQNBHA6i4_0000004 83.7 93.0 
+Senta_Berger/oiUQNBHA6i4_0000005 93.6 104.1 
+Senta_Berger/oiUQNBHA6i4_0000006 117.4 122.2 

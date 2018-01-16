@@ -1,0 +1,8 @@
+POI: 			Kathie_Lee_Gifford 
+Youtube ID: 	TDKoYoNn_xA 
+Video length: 	454.5 sec 
+Set (V): 		dev 
+ 
+Kathie_Lee_Gifford/TDKoYoNn_xA_0000001 72.5 78.6 
+Kathie_Lee_Gifford/TDKoYoNn_xA_0000002 89.4 101.2 
+Kathie_Lee_Gifford/TDKoYoNn_xA_0000003 107.9 116.5 

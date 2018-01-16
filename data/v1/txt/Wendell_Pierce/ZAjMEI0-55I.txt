@@ -1,0 +1,7 @@
+POI: 			Wendell_Pierce 
+Youtube ID: 	ZAjMEI0-55I 
+Video length: 	261.4 sec 
+Set (V): 		dev 
+ 
+Wendell_Pierce/ZAjMEI0-55I_0000001 30.0 39.3 
+Wendell_Pierce/ZAjMEI0-55I_0000002 241.8 246.0 

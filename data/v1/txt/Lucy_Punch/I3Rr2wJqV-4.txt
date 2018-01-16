@@ -1,0 +1,13 @@
+POI: 			Lucy_Punch 
+Youtube ID: 	I3Rr2wJqV-4 
+Video length: 	402.2 sec 
+Set (V): 		dev 
+ 
+Lucy_Punch/I3Rr2wJqV-4_0000001 14.9 21.4 
+Lucy_Punch/I3Rr2wJqV-4_0000002 22.4 32.9 
+Lucy_Punch/I3Rr2wJqV-4_0000003 83.3 89.0 
+Lucy_Punch/I3Rr2wJqV-4_0000004 98.8 103.2 
+Lucy_Punch/I3Rr2wJqV-4_0000005 118.2 131.3 
+Lucy_Punch/I3Rr2wJqV-4_0000006 187.4 198.9 
+Lucy_Punch/I3Rr2wJqV-4_0000007 199.0 206.3 
+Lucy_Punch/I3Rr2wJqV-4_0000008 208.5 213.5 

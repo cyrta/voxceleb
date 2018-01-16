@@ -1,0 +1,25 @@
+POI: 			Matthew_Lillard 
+Youtube ID: 	VITHKnnDF6o 
+Video length: 	538.6 sec 
+Set (V): 		dev 
+ 
+Matthew_Lillard/VITHKnnDF6o_0000001 53.8 63.9 
+Matthew_Lillard/VITHKnnDF6o_0000002 74.1 78.8 
+Matthew_Lillard/VITHKnnDF6o_0000003 107.7 129.4 
+Matthew_Lillard/VITHKnnDF6o_0000004 163.8 168.4 
+Matthew_Lillard/VITHKnnDF6o_0000005 168.5 187.9 
+Matthew_Lillard/VITHKnnDF6o_0000006 194.1 199.5 
+Matthew_Lillard/VITHKnnDF6o_0000007 200.2 205.1 
+Matthew_Lillard/VITHKnnDF6o_0000008 214.5 229.6 
+Matthew_Lillard/VITHKnnDF6o_0000009 255.6 261.8 
+Matthew_Lillard/VITHKnnDF6o_0000010 262.4 272.0 
+Matthew_Lillard/VITHKnnDF6o_0000011 305.9 313.3 
+Matthew_Lillard/VITHKnnDF6o_0000012 330.2 340.8 
+Matthew_Lillard/VITHKnnDF6o_0000013 352.6 359.8 
+Matthew_Lillard/VITHKnnDF6o_0000014 360.5 364.9 
+Matthew_Lillard/VITHKnnDF6o_0000015 384.1 389.0 
+Matthew_Lillard/VITHKnnDF6o_0000016 391.3 409.7 
+Matthew_Lillard/VITHKnnDF6o_0000017 434.9 445.9 
+Matthew_Lillard/VITHKnnDF6o_0000018 453.5 458.0 
+Matthew_Lillard/VITHKnnDF6o_0000019 460.6 465.3 
+Matthew_Lillard/VITHKnnDF6o_0000020 467.6 475.6 

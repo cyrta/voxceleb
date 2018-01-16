@@ -1,0 +1,11 @@
+POI: 			Janet_McTeer 
+Youtube ID: 	D_pPLlDgiXI 
+Video length: 	175.8 sec 
+Set (V): 		dev 
+ 
+Janet_McTeer/D_pPLlDgiXI_0000001 48.0 56.1 
+Janet_McTeer/D_pPLlDgiXI_0000002 66.8 75.9 
+Janet_McTeer/D_pPLlDgiXI_0000003 76.1 81.7 
+Janet_McTeer/D_pPLlDgiXI_0000004 81.8 87.3 
+Janet_McTeer/D_pPLlDgiXI_0000005 89.8 101.2 
+Janet_McTeer/D_pPLlDgiXI_0000006 150.6 155.8 

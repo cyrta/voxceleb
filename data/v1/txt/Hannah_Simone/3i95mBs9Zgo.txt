@@ -1,0 +1,9 @@
+POI: 			Hannah_Simone 
+Youtube ID: 	3i95mBs9Zgo 
+Video length: 	103.0 sec 
+Set (V): 		dev 
+ 
+Hannah_Simone/3i95mBs9Zgo_0000001 10.7 15.7 
+Hannah_Simone/3i95mBs9Zgo_0000002 18.7 24.9 
+Hannah_Simone/3i95mBs9Zgo_0000003 77.6 87.3 
+Hannah_Simone/3i95mBs9Zgo_0000004 87.4 91.9 

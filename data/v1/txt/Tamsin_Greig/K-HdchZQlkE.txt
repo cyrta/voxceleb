@@ -1,0 +1,15 @@
+POI: 			Tamsin_Greig 
+Youtube ID: 	K-HdchZQlkE 
+Video length: 	167.8 sec 
+Set (V): 		dev 
+ 
+Tamsin_Greig/K-HdchZQlkE_0000001 03.8 10.2 
+Tamsin_Greig/K-HdchZQlkE_0000002 10.7 17.7 
+Tamsin_Greig/K-HdchZQlkE_0000003 23.0 41.4 
+Tamsin_Greig/K-HdchZQlkE_0000004 46.9 64.2 
+Tamsin_Greig/K-HdchZQlkE_0000005 67.7 80.6 
+Tamsin_Greig/K-HdchZQlkE_0000006 84.9 99.7 
+Tamsin_Greig/K-HdchZQlkE_0000007 107.8 118.1 
+Tamsin_Greig/K-HdchZQlkE_0000008 128.4 142.9 
+Tamsin_Greig/K-HdchZQlkE_0000009 144.8 148.8 
+Tamsin_Greig/K-HdchZQlkE_0000010 155.4 159.6 

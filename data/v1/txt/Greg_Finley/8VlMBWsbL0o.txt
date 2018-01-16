@@ -1,0 +1,22 @@
+POI: 			Greg_Finley 
+Youtube ID: 	8VlMBWsbL0o 
+Video length: 	300.7 sec 
+Set (V): 		dev 
+ 
+Greg_Finley/8VlMBWsbL0o_0000001 05.8 12.9 
+Greg_Finley/8VlMBWsbL0o_0000002 14.1 24.1 
+Greg_Finley/8VlMBWsbL0o_0000003 52.7 57.6 
+Greg_Finley/8VlMBWsbL0o_0000004 58.5 62.6 
+Greg_Finley/8VlMBWsbL0o_0000005 63.4 70.1 
+Greg_Finley/8VlMBWsbL0o_0000006 76.5 81.8 
+Greg_Finley/8VlMBWsbL0o_0000007 84.6 88.6 
+Greg_Finley/8VlMBWsbL0o_0000008 116.6 121.2 
+Greg_Finley/8VlMBWsbL0o_0000009 149.4 156.8 
+Greg_Finley/8VlMBWsbL0o_0000010 169.8 175.0 
+Greg_Finley/8VlMBWsbL0o_0000011 176.0 180.1 
+Greg_Finley/8VlMBWsbL0o_0000012 204.2 211.1 
+Greg_Finley/8VlMBWsbL0o_0000013 220.5 236.1 
+Greg_Finley/8VlMBWsbL0o_0000014 240.3 245.6 
+Greg_Finley/8VlMBWsbL0o_0000015 252.0 264.7 
+Greg_Finley/8VlMBWsbL0o_0000016 275.9 283.0 
+Greg_Finley/8VlMBWsbL0o_0000017 290.9 297.0 

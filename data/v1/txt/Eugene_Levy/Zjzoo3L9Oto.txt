@@ -1,0 +1,7 @@
+POI: 			Eugene_Levy 
+Youtube ID: 	Zjzoo3L9Oto 
+Video length: 	89.4 sec 
+Set (V): 		test 
+ 
+Eugene_Levy/Zjzoo3L9Oto_0000001 36.0 40.2 
+Eugene_Levy/Zjzoo3L9Oto_0000002 74.6 79.9 

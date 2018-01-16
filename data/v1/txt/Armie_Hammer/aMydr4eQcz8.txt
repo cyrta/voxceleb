@@ -1,0 +1,10 @@
+POI: 			Armie_Hammer 
+Youtube ID: 	aMydr4eQcz8 
+Video length: 	202.1 sec 
+Set (V): 		dev 
+ 
+Armie_Hammer/aMydr4eQcz8_0000001 57.5 74.9 
+Armie_Hammer/aMydr4eQcz8_0000002 91.6 100.0 
+Armie_Hammer/aMydr4eQcz8_0000003 100.2 109.5 
+Armie_Hammer/aMydr4eQcz8_0000004 110.9 119.6 
+Armie_Hammer/aMydr4eQcz8_0000005 133.8 148.4 

@@ -1,0 +1,10 @@
+POI: 			John_Cho 
+Youtube ID: 	lfBQpklkoSk 
+Video length: 	170.7 sec 
+Set (V): 		dev 
+ 
+John_Cho/lfBQpklkoSk_0000001 25.8 31.3 
+John_Cho/lfBQpklkoSk_0000002 31.6 40.6 
+John_Cho/lfBQpklkoSk_0000003 57.5 69.0 
+John_Cho/lfBQpklkoSk_0000004 80.7 88.2 
+John_Cho/lfBQpklkoSk_0000005 144.0 152.2 

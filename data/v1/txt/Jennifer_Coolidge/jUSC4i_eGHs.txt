@@ -1,0 +1,8 @@
+POI: 			Jennifer_Coolidge 
+Youtube ID: 	jUSC4i_eGHs 
+Video length: 	414.9 sec 
+Set (V): 		dev 
+ 
+Jennifer_Coolidge/jUSC4i_eGHs_0000001 348.0 354.6 
+Jennifer_Coolidge/jUSC4i_eGHs_0000002 360.0 365.6 
+Jennifer_Coolidge/jUSC4i_eGHs_0000003 368.1 373.3 

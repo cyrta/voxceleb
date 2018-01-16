@@ -1,0 +1,10 @@
+POI: 			Johnny_Galecki 
+Youtube ID: 	hMKG5uYM0UY 
+Video length: 	373.6 sec 
+Set (V): 		dev 
+ 
+Johnny_Galecki/hMKG5uYM0UY_0000001 73.1 78.4 
+Johnny_Galecki/hMKG5uYM0UY_0000002 147.2 158.0 
+Johnny_Galecki/hMKG5uYM0UY_0000003 255.5 262.4 
+Johnny_Galecki/hMKG5uYM0UY_0000004 262.9 269.5 
+Johnny_Galecki/hMKG5uYM0UY_0000005 336.1 340.6 

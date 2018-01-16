@@ -1,0 +1,9 @@
+POI: 			Laura_Carmichael 
+Youtube ID: 	EzntnOa4IBY 
+Video length: 	139.1 sec 
+Set (V): 		dev 
+ 
+Laura_Carmichael/EzntnOa4IBY_0000001 37.4 42.2 
+Laura_Carmichael/EzntnOa4IBY_0000002 55.4 60.6 
+Laura_Carmichael/EzntnOa4IBY_0000003 82.3 86.6 
+Laura_Carmichael/EzntnOa4IBY_0000004 118.4 123.0 

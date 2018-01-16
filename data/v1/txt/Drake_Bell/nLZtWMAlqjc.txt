@@ -1,0 +1,9 @@
+POI: 			Drake_Bell 
+Youtube ID: 	nLZtWMAlqjc 
+Video length: 	75.1 sec 
+Set (V): 		dev 
+ 
+Drake_Bell/nLZtWMAlqjc_0000001 31.0 37.1 
+Drake_Bell/nLZtWMAlqjc_0000002 39.0 47.9 
+Drake_Bell/nLZtWMAlqjc_0000003 55.8 61.0 
+Drake_Bell/nLZtWMAlqjc_0000004 65.0 71.7 

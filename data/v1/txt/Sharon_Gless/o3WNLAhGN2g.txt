@@ -1,0 +1,14 @@
+POI: 			Sharon_Gless 
+Youtube ID: 	o3WNLAhGN2g 
+Video length: 	320.7 sec 
+Set (V): 		dev 
+ 
+Sharon_Gless/o3WNLAhGN2g_0000001 09.3 13.4 
+Sharon_Gless/o3WNLAhGN2g_0000002 66.3 77.3 
+Sharon_Gless/o3WNLAhGN2g_0000003 79.6 85.2 
+Sharon_Gless/o3WNLAhGN2g_0000004 93.0 97.3 
+Sharon_Gless/o3WNLAhGN2g_0000005 97.6 107.0 
+Sharon_Gless/o3WNLAhGN2g_0000006 109.0 116.7 
+Sharon_Gless/o3WNLAhGN2g_0000007 131.0 136.0 
+Sharon_Gless/o3WNLAhGN2g_0000008 137.9 144.0 
+Sharon_Gless/o3WNLAhGN2g_0000009 144.4 149.7 

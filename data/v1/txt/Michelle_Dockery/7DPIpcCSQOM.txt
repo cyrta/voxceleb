@@ -1,0 +1,32 @@
+POI: 			Michelle_Dockery 
+Youtube ID: 	7DPIpcCSQOM 
+Video length: 	937.4 sec 
+Set (V): 		dev 
+ 
+Michelle_Dockery/7DPIpcCSQOM_0000001 64.7 69.5 
+Michelle_Dockery/7DPIpcCSQOM_0000002 70.6 75.9 
+Michelle_Dockery/7DPIpcCSQOM_0000003 132.7 146.5 
+Michelle_Dockery/7DPIpcCSQOM_0000004 200.0 206.6 
+Michelle_Dockery/7DPIpcCSQOM_0000005 223.2 234.2 
+Michelle_Dockery/7DPIpcCSQOM_0000006 234.3 243.0 
+Michelle_Dockery/7DPIpcCSQOM_0000007 248.4 252.9 
+Michelle_Dockery/7DPIpcCSQOM_0000008 268.6 273.8 
+Michelle_Dockery/7DPIpcCSQOM_0000009 432.1 439.8 
+Michelle_Dockery/7DPIpcCSQOM_0000010 482.7 490.8 
+Michelle_Dockery/7DPIpcCSQOM_0000011 521.2 527.2 
+Michelle_Dockery/7DPIpcCSQOM_0000012 529.8 543.2 
+Michelle_Dockery/7DPIpcCSQOM_0000013 546.0 552.8 
+Michelle_Dockery/7DPIpcCSQOM_0000014 600.2 604.4 
+Michelle_Dockery/7DPIpcCSQOM_0000015 645.9 650.3 
+Michelle_Dockery/7DPIpcCSQOM_0000016 650.4 664.6 
+Michelle_Dockery/7DPIpcCSQOM_0000017 665.0 673.5 
+Michelle_Dockery/7DPIpcCSQOM_0000018 675.9 681.1 
+Michelle_Dockery/7DPIpcCSQOM_0000019 681.9 686.9 
+Michelle_Dockery/7DPIpcCSQOM_0000020 716.7 728.0 
+Michelle_Dockery/7DPIpcCSQOM_0000021 735.6 740.3 
+Michelle_Dockery/7DPIpcCSQOM_0000022 740.5 752.3 
+Michelle_Dockery/7DPIpcCSQOM_0000023 783.6 789.6 
+Michelle_Dockery/7DPIpcCSQOM_0000024 790.4 803.8 
+Michelle_Dockery/7DPIpcCSQOM_0000025 804.0 814.1 
+Michelle_Dockery/7DPIpcCSQOM_0000026 831.0 839.7 
+Michelle_Dockery/7DPIpcCSQOM_0000027 840.1 851.7 

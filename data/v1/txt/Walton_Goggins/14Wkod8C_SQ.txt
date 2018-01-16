@@ -1,0 +1,8 @@
+POI: 			Walton_Goggins 
+Youtube ID: 	14Wkod8C_SQ 
+Video length: 	202.5 sec 
+Set (V): 		dev 
+ 
+Walton_Goggins/14Wkod8C_SQ_0000001 37.7 44.0 
+Walton_Goggins/14Wkod8C_SQ_0000002 47.8 54.4 
+Walton_Goggins/14Wkod8C_SQ_0000003 54.6 60.4 

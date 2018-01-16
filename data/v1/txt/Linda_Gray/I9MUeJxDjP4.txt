@@ -1,0 +1,14 @@
+POI: 			Linda_Gray 
+Youtube ID: 	I9MUeJxDjP4 
+Video length: 	517.7 sec 
+Set (V): 		dev 
+ 
+Linda_Gray/I9MUeJxDjP4_0000001 201.9 206.5 
+Linda_Gray/I9MUeJxDjP4_0000002 219.4 224.4 
+Linda_Gray/I9MUeJxDjP4_0000003 242.4 246.4 
+Linda_Gray/I9MUeJxDjP4_0000004 276.0 280.2 
+Linda_Gray/I9MUeJxDjP4_0000005 329.3 333.4 
+Linda_Gray/I9MUeJxDjP4_0000006 339.8 347.3 
+Linda_Gray/I9MUeJxDjP4_0000007 389.1 394.2 
+Linda_Gray/I9MUeJxDjP4_0000008 402.1 407.2 
+Linda_Gray/I9MUeJxDjP4_0000009 418.6 424.0 

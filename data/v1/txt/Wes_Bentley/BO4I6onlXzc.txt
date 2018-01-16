@@ -1,0 +1,9 @@
+POI: 			Wes_Bentley 
+Youtube ID: 	BO4I6onlXzc 
+Video length: 	220.4 sec 
+Set (V): 		dev 
+ 
+Wes_Bentley/BO4I6onlXzc_0000001 82.3 86.5 
+Wes_Bentley/BO4I6onlXzc_0000002 91.4 98.9 
+Wes_Bentley/BO4I6onlXzc_0000003 113.0 119.8 
+Wes_Bentley/BO4I6onlXzc_0000004 193.8 198.9 

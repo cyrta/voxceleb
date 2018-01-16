@@ -1,0 +1,7 @@
+POI: 			Taylor_Kitsch 
+Youtube ID: 	O3mv069ITxA 
+Video length: 	163.2 sec 
+Set (V): 		dev 
+ 
+Taylor_Kitsch/O3mv069ITxA_0000001 06.9 11.8 
+Taylor_Kitsch/O3mv069ITxA_0000002 131.6 135.8 

@@ -1,0 +1,10 @@
+POI: 			Melody_Thomas_Scott 
+Youtube ID: 	JiLvE4gdoRg 
+Video length: 	140.2 sec 
+Set (V): 		dev 
+ 
+Melody_Thomas_Scott/JiLvE4gdoRg_0000001 34.3 44.7 
+Melody_Thomas_Scott/JiLvE4gdoRg_0000002 61.4 65.8 
+Melody_Thomas_Scott/JiLvE4gdoRg_0000003 89.1 97.4 
+Melody_Thomas_Scott/JiLvE4gdoRg_0000004 97.5 101.9 
+Melody_Thomas_Scott/JiLvE4gdoRg_0000005 106.6 113.4 

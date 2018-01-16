@@ -1,0 +1,12 @@
+POI: 			Reggie_Lee 
+Youtube ID: 	s4Jpzb2oOKg 
+Video length: 	2608.0 sec 
+Set (V): 		dev 
+ 
+Reggie_Lee/s4Jpzb2oOKg_0000001 439.1 445.2 
+Reggie_Lee/s4Jpzb2oOKg_0000002 451.3 460.2 
+Reggie_Lee/s4Jpzb2oOKg_0000003 460.4 466.5 
+Reggie_Lee/s4Jpzb2oOKg_0000004 497.6 503.3 
+Reggie_Lee/s4Jpzb2oOKg_0000005 506.5 511.3 
+Reggie_Lee/s4Jpzb2oOKg_0000006 882.8 904.0 
+Reggie_Lee/s4Jpzb2oOKg_0000007 912.7 917.7 

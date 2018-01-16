@@ -1,0 +1,11 @@
+POI: 			Pat_Monahan 
+Youtube ID: 	FEs17y7sEfA 
+Video length: 	328.0 sec 
+Set (V): 		dev 
+ 
+Pat_Monahan/FEs17y7sEfA_0000001 106.4 111.0 
+Pat_Monahan/FEs17y7sEfA_0000002 112.2 118.9 
+Pat_Monahan/FEs17y7sEfA_0000003 127.8 133.1 
+Pat_Monahan/FEs17y7sEfA_0000004 135.9 148.3 
+Pat_Monahan/FEs17y7sEfA_0000005 163.8 170.9 
+Pat_Monahan/FEs17y7sEfA_0000006 179.8 186.0 

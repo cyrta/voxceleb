@@ -1,0 +1,7 @@
+POI: 			Dylan_Moran 
+Youtube ID: 	26IuUx3w-LI 
+Video length: 	720.8 sec 
+Set (V): 		dev 
+ 
+Dylan_Moran/26IuUx3w-LI_0000001 134.9 139.2 
+Dylan_Moran/26IuUx3w-LI_0000002 633.5 640.4 

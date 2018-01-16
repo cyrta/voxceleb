@@ -1,0 +1,17 @@
+POI: 			Olivia_Cooke 
+Youtube ID: 	3cmD-w-i7Rc 
+Video length: 	231.4 sec 
+Set (V): 		dev 
+ 
+Olivia_Cooke/3cmD-w-i7Rc_0000001 04.6 09.6 
+Olivia_Cooke/3cmD-w-i7Rc_0000002 12.9 29.1 
+Olivia_Cooke/3cmD-w-i7Rc_0000003 38.5 42.8 
+Olivia_Cooke/3cmD-w-i7Rc_0000004 13.4 22.7 
+Olivia_Cooke/3cmD-w-i7Rc_0000005 57.9 77.0 
+Olivia_Cooke/3cmD-w-i7Rc_0000006 86.2 100.7 
+Olivia_Cooke/3cmD-w-i7Rc_0000007 103.2 108.1 
+Olivia_Cooke/3cmD-w-i7Rc_0000008 146.0 152.0 
+Olivia_Cooke/3cmD-w-i7Rc_0000009 177.4 183.4 
+Olivia_Cooke/3cmD-w-i7Rc_0000010 183.8 188.8 
+Olivia_Cooke/3cmD-w-i7Rc_0000011 195.0 203.8 
+Olivia_Cooke/3cmD-w-i7Rc_0000012 217.9 224.7 

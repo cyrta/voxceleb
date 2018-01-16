@@ -1,0 +1,7 @@
+POI: 			Anne_Hathaway 
+Youtube ID: 	jmgMbk77DJw 
+Video length: 	188.6 sec 
+Set (V): 		dev 
+ 
+Anne_Hathaway/jmgMbk77DJw_0000001 19.7 23.9 
+Anne_Hathaway/jmgMbk77DJw_0000002 32.1 38.7 

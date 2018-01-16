@@ -1,0 +1,8 @@
+POI: 			Noel_Fielding 
+Youtube ID: 	_D3UaxvPzW4 
+Video length: 	254.2 sec 
+Set (V): 		dev 
+ 
+Noel_Fielding/_D3UaxvPzW4_0000001 84.4 90.5 
+Noel_Fielding/_D3UaxvPzW4_0000002 113.3 118.4 
+Noel_Fielding/_D3UaxvPzW4_0000003 160.0 164.2 

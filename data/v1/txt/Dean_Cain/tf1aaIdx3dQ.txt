@@ -1,0 +1,9 @@
+POI: 			Dean_Cain 
+Youtube ID: 	tf1aaIdx3dQ 
+Video length: 	95.6 sec 
+Set (V): 		dev 
+ 
+Dean_Cain/tf1aaIdx3dQ_0000001 02.0 10.7 
+Dean_Cain/tf1aaIdx3dQ_0000002 11.2 17.2 
+Dean_Cain/tf1aaIdx3dQ_0000003 24.7 45.6 
+Dean_Cain/tf1aaIdx3dQ_0000004 65.0 73.0 

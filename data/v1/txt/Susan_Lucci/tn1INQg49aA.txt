@@ -1,0 +1,7 @@
+POI: 			Susan_Lucci 
+Youtube ID: 	tn1INQg49aA 
+Video length: 	537.9 sec 
+Set (V): 		dev 
+ 
+Susan_Lucci/tn1INQg49aA_0000001 77.8 85.2 
+Susan_Lucci/tn1INQg49aA_0000002 198.0 205.2 

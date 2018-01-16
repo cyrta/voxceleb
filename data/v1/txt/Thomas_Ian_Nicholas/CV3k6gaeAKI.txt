@@ -1,0 +1,7 @@
+POI: 			Thomas_Ian_Nicholas 
+Youtube ID: 	CV3k6gaeAKI 
+Video length: 	134.8 sec 
+Set (V): 		dev 
+ 
+Thomas_Ian_Nicholas/CV3k6gaeAKI_0000001 13.6 18.3 
+Thomas_Ian_Nicholas/CV3k6gaeAKI_0000002 63.6 68.6 

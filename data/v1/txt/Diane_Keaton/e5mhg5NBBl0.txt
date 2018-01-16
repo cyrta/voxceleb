@@ -1,0 +1,12 @@
+POI: 			Diane_Keaton 
+Youtube ID: 	e5mhg5NBBl0 
+Video length: 	628.8 sec 
+Set (V): 		dev 
+ 
+Diane_Keaton/e5mhg5NBBl0_0000001 206.5 211.7 
+Diane_Keaton/e5mhg5NBBl0_0000002 253.3 260.4 
+Diane_Keaton/e5mhg5NBBl0_0000003 403.9 409.5 
+Diane_Keaton/e5mhg5NBBl0_0000004 503.8 508.6 
+Diane_Keaton/e5mhg5NBBl0_0000005 509.3 513.6 
+Diane_Keaton/e5mhg5NBBl0_0000006 530.0 534.8 
+Diane_Keaton/e5mhg5NBBl0_0000007 538.6 544.1 

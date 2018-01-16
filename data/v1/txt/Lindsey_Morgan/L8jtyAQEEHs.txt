@@ -1,0 +1,8 @@
+POI: 			Lindsey_Morgan 
+Youtube ID: 	L8jtyAQEEHs 
+Video length: 	314.7 sec 
+Set (V): 		dev 
+ 
+Lindsey_Morgan/L8jtyAQEEHs_0000001 139.5 148.1 
+Lindsey_Morgan/L8jtyAQEEHs_0000002 177.6 183.3 
+Lindsey_Morgan/L8jtyAQEEHs_0000003 188.0 193.3 

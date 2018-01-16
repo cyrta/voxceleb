@@ -1,0 +1,15 @@
+POI: 			David_Morse 
+Youtube ID: 	o5JeC68YZHI 
+Video length: 	275.2 sec 
+Set (V): 		dev 
+ 
+David_Morse/o5JeC68YZHI_0000001 47.6 52.1 
+David_Morse/o5JeC68YZHI_0000002 56.0 60.9 
+David_Morse/o5JeC68YZHI_0000003 96.1 104.2 
+David_Morse/o5JeC68YZHI_0000004 111.2 118.5 
+David_Morse/o5JeC68YZHI_0000005 124.4 128.6 
+David_Morse/o5JeC68YZHI_0000006 138.3 143.8 
+David_Morse/o5JeC68YZHI_0000007 178.2 182.2 
+David_Morse/o5JeC68YZHI_0000008 190.8 201.9 
+David_Morse/o5JeC68YZHI_0000009 206.7 211.8 
+David_Morse/o5JeC68YZHI_0000010 233.3 249.4 

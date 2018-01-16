@@ -1,0 +1,12 @@
+POI: 			Christian_Kane 
+Youtube ID: 	t993-Wn7ans 
+Video length: 	493.3 sec 
+Set (V): 		dev 
+ 
+Christian_Kane/t993-Wn7ans_0000001 43.3 48.8 
+Christian_Kane/t993-Wn7ans_0000002 49.0 60.1 
+Christian_Kane/t993-Wn7ans_0000003 60.3 66.1 
+Christian_Kane/t993-Wn7ans_0000004 219.5 228.1 
+Christian_Kane/t993-Wn7ans_0000005 290.9 296.2 
+Christian_Kane/t993-Wn7ans_0000006 354.3 362.1 
+Christian_Kane/t993-Wn7ans_0000007 417.6 423.1 

@@ -1,0 +1,7 @@
+POI: 			Lisa_Kudrow 
+Youtube ID: 	xIJsg4PtRAU 
+Video length: 	499.3 sec 
+Set (V): 		dev 
+ 
+Lisa_Kudrow/xIJsg4PtRAU_0000001 129.1 135.0 
+Lisa_Kudrow/xIJsg4PtRAU_0000002 143.2 148.8 

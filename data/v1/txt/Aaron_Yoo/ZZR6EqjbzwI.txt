@@ -1,0 +1,18 @@
+POI: 			Aaron_Yoo 
+Youtube ID: 	ZZR6EqjbzwI 
+Video length: 	550.0 sec 
+Set (V): 		dev 
+ 
+Aaron_Yoo/ZZR6EqjbzwI_0000001 147.6 159.6 
+Aaron_Yoo/ZZR6EqjbzwI_0000002 160.4 165.6 
+Aaron_Yoo/ZZR6EqjbzwI_0000003 174.9 190.9 
+Aaron_Yoo/ZZR6EqjbzwI_0000004 194.5 199.3 
+Aaron_Yoo/ZZR6EqjbzwI_0000005 238.1 242.2 
+Aaron_Yoo/ZZR6EqjbzwI_0000006 257.4 262.9 
+Aaron_Yoo/ZZR6EqjbzwI_0000007 264.0 274.3 
+Aaron_Yoo/ZZR6EqjbzwI_0000008 277.1 286.3 
+Aaron_Yoo/ZZR6EqjbzwI_0000009 327.6 337.0 
+Aaron_Yoo/ZZR6EqjbzwI_0000010 337.1 343.2 
+Aaron_Yoo/ZZR6EqjbzwI_0000011 361.4 366.6 
+Aaron_Yoo/ZZR6EqjbzwI_0000012 367.4 376.2 
+Aaron_Yoo/ZZR6EqjbzwI_0000013 377.3 384.0 

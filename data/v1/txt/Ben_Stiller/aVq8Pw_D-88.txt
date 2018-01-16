@@ -1,0 +1,21 @@
+POI: 			Ben_Stiller 
+Youtube ID: 	aVq8Pw_D-88 
+Video length: 	450.4 sec 
+Set (V): 		dev 
+ 
+Ben_Stiller/aVq8Pw_D-88_0000001 15.7 29.4 
+Ben_Stiller/aVq8Pw_D-88_0000002 73.7 100.2 
+Ben_Stiller/aVq8Pw_D-88_0000003 101.0 105.1 
+Ben_Stiller/aVq8Pw_D-88_0000004 125.9 130.4 
+Ben_Stiller/aVq8Pw_D-88_0000005 133.6 145.1 
+Ben_Stiller/aVq8Pw_D-88_0000006 191.3 202.0 
+Ben_Stiller/aVq8Pw_D-88_0000007 219.9 227.1 
+Ben_Stiller/aVq8Pw_D-88_0000008 227.4 238.0 
+Ben_Stiller/aVq8Pw_D-88_0000009 256.0 262.6 
+Ben_Stiller/aVq8Pw_D-88_0000010 300.7 304.6 
+Ben_Stiller/aVq8Pw_D-88_0000011 317.1 327.2 
+Ben_Stiller/aVq8Pw_D-88_0000012 361.5 368.7 
+Ben_Stiller/aVq8Pw_D-88_0000013 374.2 380.4 
+Ben_Stiller/aVq8Pw_D-88_0000014 380.7 385.4 
+Ben_Stiller/aVq8Pw_D-88_0000015 403.6 415.6 
+Ben_Stiller/aVq8Pw_D-88_0000016 440.5 444.7 

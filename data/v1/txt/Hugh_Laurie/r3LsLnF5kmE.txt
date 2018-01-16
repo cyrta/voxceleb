@@ -1,0 +1,10 @@
+POI: 			Hugh_Laurie 
+Youtube ID: 	r3LsLnF5kmE 
+Video length: 	728.0 sec 
+Set (V): 		dev 
+ 
+Hugh_Laurie/r3LsLnF5kmE_0000001 345.2 349.4 
+Hugh_Laurie/r3LsLnF5kmE_0000002 426.6 431.9 
+Hugh_Laurie/r3LsLnF5kmE_0000003 437.6 451.4 
+Hugh_Laurie/r3LsLnF5kmE_0000004 558.0 563.2 
+Hugh_Laurie/r3LsLnF5kmE_0000005 622.0 644.3 

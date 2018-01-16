@@ -1,0 +1,14 @@
+POI: 			Melissa_McCarthy 
+Youtube ID: 	XF_-sncuzmI 
+Video length: 	416.4 sec 
+Set (V): 		dev 
+ 
+Melissa_McCarthy/XF_-sncuzmI_0000001 126.2 130.2 
+Melissa_McCarthy/XF_-sncuzmI_0000002 149.4 154.8 
+Melissa_McCarthy/XF_-sncuzmI_0000003 173.8 178.8 
+Melissa_McCarthy/XF_-sncuzmI_0000004 240.8 246.6 
+Melissa_McCarthy/XF_-sncuzmI_0000005 282.7 287.4 
+Melissa_McCarthy/XF_-sncuzmI_0000006 292.2 302.3 
+Melissa_McCarthy/XF_-sncuzmI_0000007 317.0 325.4 
+Melissa_McCarthy/XF_-sncuzmI_0000008 331.2 335.4 
+Melissa_McCarthy/XF_-sncuzmI_0000009 360.6 366.2 

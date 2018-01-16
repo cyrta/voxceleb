@@ -1,0 +1,13 @@
+POI: 			Kenny_Rogers 
+Youtube ID: 	kL16AdpdaUw 
+Video length: 	5147.1 sec 
+Set (V): 		dev 
+ 
+Kenny_Rogers/kL16AdpdaUw_0000001 1113.6 1118.9 
+Kenny_Rogers/kL16AdpdaUw_0000002 1135.4 1139.5 
+Kenny_Rogers/kL16AdpdaUw_0000003 1419.2 1427.7 
+Kenny_Rogers/kL16AdpdaUw_0000004 2042.0 2046.9 
+Kenny_Rogers/kL16AdpdaUw_0000005 2624.0 2631.5 
+Kenny_Rogers/kL16AdpdaUw_0000006 3001.7 3007.2 
+Kenny_Rogers/kL16AdpdaUw_0000007 3294.0 3300.2 
+Kenny_Rogers/kL16AdpdaUw_0000008 4822.7 4829.2 

@@ -1,0 +1,12 @@
+POI: 			Agyness_Deyn 
+Youtube ID: 	V_x_l3deWaU 
+Video length: 	88.2 sec 
+Set (V): 		dev 
+ 
+Agyness_Deyn/V_x_l3deWaU_0000001 12.3 22.4 
+Agyness_Deyn/V_x_l3deWaU_0000002 25.0 30.4 
+Agyness_Deyn/V_x_l3deWaU_0000003 35.7 40.6 
+Agyness_Deyn/V_x_l3deWaU_0000004 48.0 53.7 
+Agyness_Deyn/V_x_l3deWaU_0000005 57.0 63.9 
+Agyness_Deyn/V_x_l3deWaU_0000006 64.2 69.3 
+Agyness_Deyn/V_x_l3deWaU_0000007 70.2 74.6 

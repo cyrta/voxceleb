@@ -1,0 +1,32 @@
+POI: 			Jim_Caviezel 
+Youtube ID: 	ZvoXeFwyMH8 
+Video length: 	1038.3 sec 
+Set (V): 		dev 
+ 
+Jim_Caviezel/ZvoXeFwyMH8_0000001 153.8 161.1 
+Jim_Caviezel/ZvoXeFwyMH8_0000002 176.5 181.2 
+Jim_Caviezel/ZvoXeFwyMH8_0000003 182.7 193.7 
+Jim_Caviezel/ZvoXeFwyMH8_0000004 214.0 220.2 
+Jim_Caviezel/ZvoXeFwyMH8_0000005 222.5 230.7 
+Jim_Caviezel/ZvoXeFwyMH8_0000006 236.8 243.5 
+Jim_Caviezel/ZvoXeFwyMH8_0000007 249.6 254.1 
+Jim_Caviezel/ZvoXeFwyMH8_0000008 459.0 477.6 
+Jim_Caviezel/ZvoXeFwyMH8_0000009 533.4 542.9 
+Jim_Caviezel/ZvoXeFwyMH8_0000010 532.6 542.4 
+Jim_Caviezel/ZvoXeFwyMH8_0000011 575.4 580.6 
+Jim_Caviezel/ZvoXeFwyMH8_0000012 598.0 602.0 
+Jim_Caviezel/ZvoXeFwyMH8_0000013 602.4 609.3 
+Jim_Caviezel/ZvoXeFwyMH8_0000014 660.3 664.9 
+Jim_Caviezel/ZvoXeFwyMH8_0000015 677.0 687.7 
+Jim_Caviezel/ZvoXeFwyMH8_0000016 703.0 710.6 
+Jim_Caviezel/ZvoXeFwyMH8_0000017 715.6 722.8 
+Jim_Caviezel/ZvoXeFwyMH8_0000018 731.8 737.3 
+Jim_Caviezel/ZvoXeFwyMH8_0000019 739.8 744.1 
+Jim_Caviezel/ZvoXeFwyMH8_0000020 758.8 764.4 
+Jim_Caviezel/ZvoXeFwyMH8_0000021 771.1 776.7 
+Jim_Caviezel/ZvoXeFwyMH8_0000022 776.9 782.1 
+Jim_Caviezel/ZvoXeFwyMH8_0000023 850.5 854.5 
+Jim_Caviezel/ZvoXeFwyMH8_0000024 862.5 869.2 
+Jim_Caviezel/ZvoXeFwyMH8_0000025 873.3 881.6 
+Jim_Caviezel/ZvoXeFwyMH8_0000026 914.0 926.7 
+Jim_Caviezel/ZvoXeFwyMH8_0000027 930.5 938.2 

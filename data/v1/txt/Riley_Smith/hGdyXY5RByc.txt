@@ -1,0 +1,11 @@
+POI: 			Riley_Smith 
+Youtube ID: 	hGdyXY5RByc 
+Video length: 	442.2 sec 
+Set (V): 		dev 
+ 
+Riley_Smith/hGdyXY5RByc_0000001 38.0 42.8 
+Riley_Smith/hGdyXY5RByc_0000002 63.4 70.4 
+Riley_Smith/hGdyXY5RByc_0000003 261.0 268.5 
+Riley_Smith/hGdyXY5RByc_0000004 280.3 285.6 
+Riley_Smith/hGdyXY5RByc_0000005 288.3 292.7 
+Riley_Smith/hGdyXY5RByc_0000006 294.9 299.9 

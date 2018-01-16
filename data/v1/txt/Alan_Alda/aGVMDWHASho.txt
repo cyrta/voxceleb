@@ -1,0 +1,11 @@
+POI: 			Alan_Alda 
+Youtube ID: 	aGVMDWHASho 
+Video length: 	88.4 sec 
+Set (V): 		dev 
+ 
+Alan_Alda/aGVMDWHASho_0000001 13.9 21.2 
+Alan_Alda/aGVMDWHASho_0000002 25.3 35.6 
+Alan_Alda/aGVMDWHASho_0000003 45.4 50.7 
+Alan_Alda/aGVMDWHASho_0000004 52.3 61.4 
+Alan_Alda/aGVMDWHASho_0000005 62.4 67.7 
+Alan_Alda/aGVMDWHASho_0000006 72.4 77.4 

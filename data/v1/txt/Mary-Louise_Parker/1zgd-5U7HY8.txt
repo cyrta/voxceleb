@@ -1,0 +1,7 @@
+POI: 			Mary-Louise_Parker 
+Youtube ID: 	1zgd-5U7HY8 
+Video length: 	124.6 sec 
+Set (V): 		dev 
+ 
+Mary-Louise_Parker/1zgd-5U7HY8_0000001 46.0 51.8 
+Mary-Louise_Parker/1zgd-5U7HY8_0000002 103.0 107.3 

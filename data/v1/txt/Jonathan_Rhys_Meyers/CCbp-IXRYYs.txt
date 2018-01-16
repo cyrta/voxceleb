@@ -1,0 +1,16 @@
+POI: 			Jonathan_Rhys_Meyers 
+Youtube ID: 	CCbp-IXRYYs 
+Video length: 	334.0 sec 
+Set (V): 		dev 
+ 
+Jonathan_Rhys_Meyers/CCbp-IXRYYs_0000001 13.5 17.6 
+Jonathan_Rhys_Meyers/CCbp-IXRYYs_0000002 31.1 35.1 
+Jonathan_Rhys_Meyers/CCbp-IXRYYs_0000003 91.0 97.0 
+Jonathan_Rhys_Meyers/CCbp-IXRYYs_0000004 108.6 113.8 
+Jonathan_Rhys_Meyers/CCbp-IXRYYs_0000005 127.2 132.4 
+Jonathan_Rhys_Meyers/CCbp-IXRYYs_0000006 154.6 161.6 
+Jonathan_Rhys_Meyers/CCbp-IXRYYs_0000007 162.3 172.8 
+Jonathan_Rhys_Meyers/CCbp-IXRYYs_0000008 248.5 263.4 
+Jonathan_Rhys_Meyers/CCbp-IXRYYs_0000009 275.6 279.7 
+Jonathan_Rhys_Meyers/CCbp-IXRYYs_0000010 286.0 291.8 
+Jonathan_Rhys_Meyers/CCbp-IXRYYs_0000011 307.4 313.2 

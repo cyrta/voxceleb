@@ -1,0 +1,7 @@
+POI: 			Jack_Black 
+Youtube ID: 	9e3ViUQP_Fw 
+Video length: 	431.6 sec 
+Set (V): 		dev 
+ 
+Jack_Black/9e3ViUQP_Fw_0000001 288.4 294.0 
+Jack_Black/9e3ViUQP_Fw_0000002 305.4 310.5 

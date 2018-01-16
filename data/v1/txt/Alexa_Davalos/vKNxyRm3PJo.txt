@@ -1,0 +1,12 @@
+POI: 			Alexa_Davalos 
+Youtube ID: 	vKNxyRm3PJo 
+Video length: 	353.7 sec 
+Set (V): 		dev 
+ 
+Alexa_Davalos/vKNxyRm3PJo_0000001 42.5 49.0 
+Alexa_Davalos/vKNxyRm3PJo_0000002 50.6 60.0 
+Alexa_Davalos/vKNxyRm3PJo_0000003 125.0 143.0 
+Alexa_Davalos/vKNxyRm3PJo_0000004 143.8 163.6 
+Alexa_Davalos/vKNxyRm3PJo_0000005 230.2 248.4 
+Alexa_Davalos/vKNxyRm3PJo_0000006 264.6 269.3 
+Alexa_Davalos/vKNxyRm3PJo_0000007 270.2 275.0 

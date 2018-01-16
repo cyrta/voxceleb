@@ -1,0 +1,12 @@
+POI: 			Lea_Michele 
+Youtube ID: 	Fd4ccTrG2VQ 
+Video length: 	217.2 sec 
+Set (V): 		dev 
+ 
+Lea_Michele/Fd4ccTrG2VQ_0000001 13.3 17.4 
+Lea_Michele/Fd4ccTrG2VQ_0000002 49.3 54.2 
+Lea_Michele/Fd4ccTrG2VQ_0000003 69.7 75.0 
+Lea_Michele/Fd4ccTrG2VQ_0000004 81.4 87.1 
+Lea_Michele/Fd4ccTrG2VQ_0000005 93.3 107.6 
+Lea_Michele/Fd4ccTrG2VQ_0000006 163.4 170.4 
+Lea_Michele/Fd4ccTrG2VQ_0000007 188.0 192.0 

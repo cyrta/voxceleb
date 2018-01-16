@@ -1,0 +1,16 @@
+POI: 			Doutzen_Kroes 
+Youtube ID: 	iVBzgO-b5z0 
+Video length: 	1049.9 sec 
+Set (V): 		dev 
+ 
+Doutzen_Kroes/iVBzgO-b5z0_0000001 141.5 146.0 
+Doutzen_Kroes/iVBzgO-b5z0_0000002 348.4 356.5 
+Doutzen_Kroes/iVBzgO-b5z0_0000003 521.0 527.8 
+Doutzen_Kroes/iVBzgO-b5z0_0000004 579.0 584.9 
+Doutzen_Kroes/iVBzgO-b5z0_0000005 586.8 597.5 
+Doutzen_Kroes/iVBzgO-b5z0_0000006 597.7 604.3 
+Doutzen_Kroes/iVBzgO-b5z0_0000007 596.6 609.3 
+Doutzen_Kroes/iVBzgO-b5z0_0000008 658.3 665.5 
+Doutzen_Kroes/iVBzgO-b5z0_0000009 667.0 675.6 
+Doutzen_Kroes/iVBzgO-b5z0_0000010 675.8 680.3 
+Doutzen_Kroes/iVBzgO-b5z0_0000011 783.4 787.4 

@@ -1,0 +1,14 @@
+POI: 			Katey_Sagal 
+Youtube ID: 	4HvcwvtDLKw 
+Video length: 	354.0 sec 
+Set (V): 		dev 
+ 
+Katey_Sagal/4HvcwvtDLKw_0000001 58.8 65.1 
+Katey_Sagal/4HvcwvtDLKw_0000002 65.9 77.4 
+Katey_Sagal/4HvcwvtDLKw_0000003 92.1 105.8 
+Katey_Sagal/4HvcwvtDLKw_0000004 112.2 119.7 
+Katey_Sagal/4HvcwvtDLKw_0000005 130.0 149.0 
+Katey_Sagal/4HvcwvtDLKw_0000006 201.3 207.4 
+Katey_Sagal/4HvcwvtDLKw_0000007 223.3 241.6 
+Katey_Sagal/4HvcwvtDLKw_0000008 241.8 248.3 
+Katey_Sagal/4HvcwvtDLKw_0000009 274.6 293.3 

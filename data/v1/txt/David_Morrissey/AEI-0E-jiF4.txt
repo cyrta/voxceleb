@@ -1,0 +1,17 @@
+POI: 			David_Morrissey 
+Youtube ID: 	AEI-0E-jiF4 
+Video length: 	240.7 sec 
+Set (V): 		dev 
+ 
+David_Morrissey/AEI-0E-jiF4_0000001 15.8 21.6 
+David_Morrissey/AEI-0E-jiF4_0000002 22.2 30.0 
+David_Morrissey/AEI-0E-jiF4_0000003 31.5 43.6 
+David_Morrissey/AEI-0E-jiF4_0000004 44.0 56.8 
+David_Morrissey/AEI-0E-jiF4_0000005 57.9 70.8 
+David_Morrissey/AEI-0E-jiF4_0000006 71.9 93.3 
+David_Morrissey/AEI-0E-jiF4_0000007 102.7 109.4 
+David_Morrissey/AEI-0E-jiF4_0000008 139.2 143.8 
+David_Morrissey/AEI-0E-jiF4_0000009 144.2 149.9 
+David_Morrissey/AEI-0E-jiF4_0000010 166.7 177.0 
+David_Morrissey/AEI-0E-jiF4_0000011 180.8 186.2 
+David_Morrissey/AEI-0E-jiF4_0000012 224.2 229.3 

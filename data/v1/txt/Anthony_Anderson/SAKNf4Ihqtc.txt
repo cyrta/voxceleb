@@ -1,0 +1,14 @@
+POI: 			Anthony_Anderson 
+Youtube ID: 	SAKNf4Ihqtc 
+Video length: 	580.3 sec 
+Set (V): 		dev 
+ 
+Anthony_Anderson/SAKNf4Ihqtc_0000001 106.1 115.7 
+Anthony_Anderson/SAKNf4Ihqtc_0000002 123.4 127.7 
+Anthony_Anderson/SAKNf4Ihqtc_0000003 135.5 142.9 
+Anthony_Anderson/SAKNf4Ihqtc_0000004 358.7 365.2 
+Anthony_Anderson/SAKNf4Ihqtc_0000005 378.1 387.7 
+Anthony_Anderson/SAKNf4Ihqtc_0000006 388.0 392.1 
+Anthony_Anderson/SAKNf4Ihqtc_0000007 440.2 445.3 
+Anthony_Anderson/SAKNf4Ihqtc_0000008 456.6 460.6 
+Anthony_Anderson/SAKNf4Ihqtc_0000009 523.4 553.7 

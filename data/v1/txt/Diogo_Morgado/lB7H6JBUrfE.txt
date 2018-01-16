@@ -1,0 +1,10 @@
+POI: 			Diogo_Morgado 
+Youtube ID: 	lB7H6JBUrfE 
+Video length: 	103.3 sec 
+Set (V): 		dev 
+ 
+Diogo_Morgado/lB7H6JBUrfE_0000001 14.2 20.2 
+Diogo_Morgado/lB7H6JBUrfE_0000002 45.6 54.3 
+Diogo_Morgado/lB7H6JBUrfE_0000003 55.2 65.6 
+Diogo_Morgado/lB7H6JBUrfE_0000004 72.4 76.5 
+Diogo_Morgado/lB7H6JBUrfE_0000005 80.8 85.9 

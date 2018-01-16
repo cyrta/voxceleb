@@ -1,0 +1,13 @@
+POI: 			Stephen_Merchant 
+Youtube ID: 	jt0dt3QGVcc 
+Video length: 	179.3 sec 
+Set (V): 		dev 
+ 
+Stephen_Merchant/jt0dt3QGVcc_0000001 20.5 32.6 
+Stephen_Merchant/jt0dt3QGVcc_0000002 33.4 53.7 
+Stephen_Merchant/jt0dt3QGVcc_0000003 56.8 61.4 
+Stephen_Merchant/jt0dt3QGVcc_0000004 105.8 116.3 
+Stephen_Merchant/jt0dt3QGVcc_0000005 117.5 126.3 
+Stephen_Merchant/jt0dt3QGVcc_0000006 144.1 149.2 
+Stephen_Merchant/jt0dt3QGVcc_0000007 153.1 167.2 
+Stephen_Merchant/jt0dt3QGVcc_0000008 167.5 175.7 

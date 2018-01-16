@@ -1,0 +1,14 @@
+POI: 			Jeff_Garlin 
+Youtube ID: 	UNnZJuKhTNA 
+Video length: 	280.5 sec 
+Set (V): 		dev 
+ 
+Jeff_Garlin/UNnZJuKhTNA_0000001 90.6 97.8 
+Jeff_Garlin/UNnZJuKhTNA_0000002 129.0 133.4 
+Jeff_Garlin/UNnZJuKhTNA_0000003 139.3 143.8 
+Jeff_Garlin/UNnZJuKhTNA_0000004 141.8 147.5 
+Jeff_Garlin/UNnZJuKhTNA_0000005 176.9 185.8 
+Jeff_Garlin/UNnZJuKhTNA_0000006 194.2 202.7 
+Jeff_Garlin/UNnZJuKhTNA_0000007 215.7 226.8 
+Jeff_Garlin/UNnZJuKhTNA_0000008 248.7 254.4 
+Jeff_Garlin/UNnZJuKhTNA_0000009 260.2 264.7 

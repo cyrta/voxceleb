@@ -1,0 +1,7 @@
+POI: 			Nate_Parker 
+Youtube ID: 	hsJIGNh37dA 
+Video length: 	134.0 sec 
+Set (V): 		dev 
+ 
+Nate_Parker/hsJIGNh37dA_0000001 52.0 56.8 
+Nate_Parker/hsJIGNh37dA_0000002 57.8 70.0 

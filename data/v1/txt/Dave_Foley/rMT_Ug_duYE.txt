@@ -1,0 +1,7 @@
+POI: 			Dave_Foley 
+Youtube ID: 	rMT_Ug_duYE 
+Video length: 	406.6 sec 
+Set (V): 		dev 
+ 
+Dave_Foley/rMT_Ug_duYE_0000001 181.9 188.6 
+Dave_Foley/rMT_Ug_duYE_0000002 197.0 202.2 

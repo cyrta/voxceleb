@@ -1,0 +1,17 @@
+POI: 			Michelle_Stafford 
+Youtube ID: 	qJ4oJIopt40 
+Video length: 	898.6 sec 
+Set (V): 		dev 
+ 
+Michelle_Stafford/qJ4oJIopt40_0000001 66.8 74.2 
+Michelle_Stafford/qJ4oJIopt40_0000002 110.1 115.0 
+Michelle_Stafford/qJ4oJIopt40_0000003 157.5 164.5 
+Michelle_Stafford/qJ4oJIopt40_0000004 328.8 337.4 
+Michelle_Stafford/qJ4oJIopt40_0000005 380.0 384.3 
+Michelle_Stafford/qJ4oJIopt40_0000006 392.6 398.6 
+Michelle_Stafford/qJ4oJIopt40_0000007 400.6 404.6 
+Michelle_Stafford/qJ4oJIopt40_0000008 494.3 503.4 
+Michelle_Stafford/qJ4oJIopt40_0000009 503.6 510.7 
+Michelle_Stafford/qJ4oJIopt40_0000010 626.3 634.6 
+Michelle_Stafford/qJ4oJIopt40_0000011 635.4 640.6 
+Michelle_Stafford/qJ4oJIopt40_0000012 878.6 884.8 

@@ -1,0 +1,9 @@
+POI: 			Lea_Michele 
+Youtube ID: 	F6GP6MNqHSQ 
+Video length: 	354.3 sec 
+Set (V): 		dev 
+ 
+Lea_Michele/F6GP6MNqHSQ_0000001 149.5 158.4 
+Lea_Michele/F6GP6MNqHSQ_0000002 215.0 219.7 
+Lea_Michele/F6GP6MNqHSQ_0000003 224.4 237.0 
+Lea_Michele/F6GP6MNqHSQ_0000004 320.8 325.1 

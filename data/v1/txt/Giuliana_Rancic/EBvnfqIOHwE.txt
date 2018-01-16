@@ -1,0 +1,20 @@
+POI: 			Giuliana_Rancic 
+Youtube ID: 	EBvnfqIOHwE 
+Video length: 	1004.2 sec 
+Set (V): 		dev 
+ 
+Giuliana_Rancic/EBvnfqIOHwE_0000001 23.3 27.5 
+Giuliana_Rancic/EBvnfqIOHwE_0000002 221.8 226.4 
+Giuliana_Rancic/EBvnfqIOHwE_0000003 299.6 319.5 
+Giuliana_Rancic/EBvnfqIOHwE_0000004 326.9 337.2 
+Giuliana_Rancic/EBvnfqIOHwE_0000005 367.6 387.2 
+Giuliana_Rancic/EBvnfqIOHwE_0000006 431.2 435.7 
+Giuliana_Rancic/EBvnfqIOHwE_0000007 437.0 442.6 
+Giuliana_Rancic/EBvnfqIOHwE_0000008 445.9 456.6 
+Giuliana_Rancic/EBvnfqIOHwE_0000009 459.7 466.4 
+Giuliana_Rancic/EBvnfqIOHwE_0000010 603.8 610.1 
+Giuliana_Rancic/EBvnfqIOHwE_0000011 689.4 703.0 
+Giuliana_Rancic/EBvnfqIOHwE_0000012 703.2 719.0 
+Giuliana_Rancic/EBvnfqIOHwE_0000013 766.6 772.8 
+Giuliana_Rancic/EBvnfqIOHwE_0000014 776.4 782.2 
+Giuliana_Rancic/EBvnfqIOHwE_0000015 909.2 914.7 

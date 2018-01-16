@@ -1,0 +1,15 @@
+POI: 			Michelle_Dockery 
+Youtube ID: 	EAAH0qnFpgw 
+Video length: 	205.4 sec 
+Set (V): 		dev 
+ 
+Michelle_Dockery/EAAH0qnFpgw_0000001 31.1 38.1 
+Michelle_Dockery/EAAH0qnFpgw_0000002 50.8 59.7 
+Michelle_Dockery/EAAH0qnFpgw_0000003 75.8 80.6 
+Michelle_Dockery/EAAH0qnFpgw_0000004 82.2 86.6 
+Michelle_Dockery/EAAH0qnFpgw_0000005 92.6 100.5 
+Michelle_Dockery/EAAH0qnFpgw_0000006 107.3 112.3 
+Michelle_Dockery/EAAH0qnFpgw_0000007 128.3 132.8 
+Michelle_Dockery/EAAH0qnFpgw_0000008 142.6 148.1 
+Michelle_Dockery/EAAH0qnFpgw_0000009 187.3 191.3 
+Michelle_Dockery/EAAH0qnFpgw_0000010 199.0 203.2 

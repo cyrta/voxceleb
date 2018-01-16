@@ -1,0 +1,8 @@
+POI: 			Will_Arnett 
+Youtube ID: 	pm4GlPw-O9A 
+Video length: 	537.1 sec 
+Set (V): 		dev 
+ 
+Will_Arnett/pm4GlPw-O9A_0000001 81.0 87.8 
+Will_Arnett/pm4GlPw-O9A_0000002 409.2 415.3 
+Will_Arnett/pm4GlPw-O9A_0000003 501.9 508.8 

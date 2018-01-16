@@ -1,0 +1,14 @@
+POI: 			Johnny_Galecki 
+Youtube ID: 	qluPDQ9FAn8 
+Video length: 	606.5 sec 
+Set (V): 		dev 
+ 
+Johnny_Galecki/qluPDQ9FAn8_0000001 168.2 172.7 
+Johnny_Galecki/qluPDQ9FAn8_0000002 225.4 230.1 
+Johnny_Galecki/qluPDQ9FAn8_0000003 237.1 245.1 
+Johnny_Galecki/qluPDQ9FAn8_0000004 245.2 250.0 
+Johnny_Galecki/qluPDQ9FAn8_0000005 250.5 255.8 
+Johnny_Galecki/qluPDQ9FAn8_0000006 282.2 292.2 
+Johnny_Galecki/qluPDQ9FAn8_0000007 554.6 561.0 
+Johnny_Galecki/qluPDQ9FAn8_0000008 566.1 574.7 
+Johnny_Galecki/qluPDQ9FAn8_0000009 584.4 589.0 

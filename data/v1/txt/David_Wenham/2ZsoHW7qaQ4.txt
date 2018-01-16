@@ -1,0 +1,11 @@
+POI: 			David_Wenham 
+Youtube ID: 	2ZsoHW7qaQ4 
+Video length: 	129.1 sec 
+Set (V): 		dev 
+ 
+David_Wenham/2ZsoHW7qaQ4_0000001 00.7 25.6 
+David_Wenham/2ZsoHW7qaQ4_0000002 40.9 49.7 
+David_Wenham/2ZsoHW7qaQ4_0000003 65.6 84.3 
+David_Wenham/2ZsoHW7qaQ4_0000004 86.8 94.7 
+David_Wenham/2ZsoHW7qaQ4_0000005 98.0 115.0 
+David_Wenham/2ZsoHW7qaQ4_0000006 117.8 122.2 

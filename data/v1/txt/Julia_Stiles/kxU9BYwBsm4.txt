@@ -1,0 +1,7 @@
+POI: 			Julia_Stiles 
+Youtube ID: 	kxU9BYwBsm4 
+Video length: 	128.4 sec 
+Set (V): 		dev 
+ 
+Julia_Stiles/kxU9BYwBsm4_0000001 33.8 42.5 
+Julia_Stiles/kxU9BYwBsm4_0000002 42.9 50.6 

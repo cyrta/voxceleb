@@ -1,0 +1,7 @@
+POI: 			Domhnall_Gleeson 
+Youtube ID: 	3FcrpSSVgEU 
+Video length: 	252.1 sec 
+Set (V): 		dev 
+ 
+Domhnall_Gleeson/3FcrpSSVgEU_0000001 62.0 69.8 
+Domhnall_Gleeson/3FcrpSSVgEU_0000002 235.4 240.2 

@@ -1,0 +1,14 @@
+POI: 			Marc_Forster 
+Youtube ID: 	hBX2m2meGb4 
+Video length: 	275.0 sec 
+Set (V): 		dev 
+ 
+Marc_Forster/hBX2m2meGb4_0000001 34.9 39.6 
+Marc_Forster/hBX2m2meGb4_0000002 40.8 45.6 
+Marc_Forster/hBX2m2meGb4_0000003 46.1 50.4 
+Marc_Forster/hBX2m2meGb4_0000004 147.2 151.4 
+Marc_Forster/hBX2m2meGb4_0000005 155.0 161.3 
+Marc_Forster/hBX2m2meGb4_0000006 169.4 174.7 
+Marc_Forster/hBX2m2meGb4_0000007 183.9 188.3 
+Marc_Forster/hBX2m2meGb4_0000008 188.7 195.9 
+Marc_Forster/hBX2m2meGb4_0000009 198.6 203.8 

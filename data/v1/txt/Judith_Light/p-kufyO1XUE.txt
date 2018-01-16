@@ -1,0 +1,11 @@
+POI: 			Judith_Light 
+Youtube ID: 	p-kufyO1XUE 
+Video length: 	377.6 sec 
+Set (V): 		dev 
+ 
+Judith_Light/p-kufyO1XUE_0000001 54.5 60.2 
+Judith_Light/p-kufyO1XUE_0000002 73.3 77.5 
+Judith_Light/p-kufyO1XUE_0000003 166.6 173.0 
+Judith_Light/p-kufyO1XUE_0000004 232.2 241.0 
+Judith_Light/p-kufyO1XUE_0000005 302.2 306.5 
+Judith_Light/p-kufyO1XUE_0000006 325.8 330.4 

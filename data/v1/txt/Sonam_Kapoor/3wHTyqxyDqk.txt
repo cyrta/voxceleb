@@ -1,0 +1,18 @@
+POI: 			Sonam_Kapoor 
+Youtube ID: 	3wHTyqxyDqk 
+Video length: 	356.6 sec 
+Set (V): 		dev 
+ 
+Sonam_Kapoor/3wHTyqxyDqk_0000001 45.6 50.0 
+Sonam_Kapoor/3wHTyqxyDqk_0000002 126.4 130.7 
+Sonam_Kapoor/3wHTyqxyDqk_0000003 148.3 159.5 
+Sonam_Kapoor/3wHTyqxyDqk_0000004 175.8 181.2 
+Sonam_Kapoor/3wHTyqxyDqk_0000005 227.2 233.9 
+Sonam_Kapoor/3wHTyqxyDqk_0000006 240.5 245.2 
+Sonam_Kapoor/3wHTyqxyDqk_0000007 262.4 271.7 
+Sonam_Kapoor/3wHTyqxyDqk_0000008 275.5 280.5 
+Sonam_Kapoor/3wHTyqxyDqk_0000009 280.9 292.2 
+Sonam_Kapoor/3wHTyqxyDqk_0000010 296.7 304.0 
+Sonam_Kapoor/3wHTyqxyDqk_0000011 310.0 314.8 
+Sonam_Kapoor/3wHTyqxyDqk_0000012 314.9 321.5 
+Sonam_Kapoor/3wHTyqxyDqk_0000013 325.9 339.4 

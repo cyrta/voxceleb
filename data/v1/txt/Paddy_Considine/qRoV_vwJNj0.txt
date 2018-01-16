@@ -1,0 +1,13 @@
+POI: 			Paddy_Considine 
+Youtube ID: 	qRoV_vwJNj0 
+Video length: 	147.7 sec 
+Set (V): 		dev 
+ 
+Paddy_Considine/qRoV_vwJNj0_0000001 12.2 18.2 
+Paddy_Considine/qRoV_vwJNj0_0000002 19.0 39.2 
+Paddy_Considine/qRoV_vwJNj0_0000003 41.1 47.6 
+Paddy_Considine/qRoV_vwJNj0_0000004 50.2 56.9 
+Paddy_Considine/qRoV_vwJNj0_0000005 57.6 79.8 
+Paddy_Considine/qRoV_vwJNj0_0000006 84.7 105.0 
+Paddy_Considine/qRoV_vwJNj0_0000007 106.0 117.2 
+Paddy_Considine/qRoV_vwJNj0_0000008 123.9 127.9 

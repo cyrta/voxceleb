@@ -1,0 +1,9 @@
+POI: 			Tyler_James_Williams 
+Youtube ID: 	LYMpEXTah9I 
+Video length: 	299.9 sec 
+Set (V): 		dev 
+ 
+Tyler_James_Williams/LYMpEXTah9I_0000001 28.6 34.8 
+Tyler_James_Williams/LYMpEXTah9I_0000002 53.2 58.4 
+Tyler_James_Williams/LYMpEXTah9I_0000003 163.1 167.8 
+Tyler_James_Williams/LYMpEXTah9I_0000004 182.2 187.0 

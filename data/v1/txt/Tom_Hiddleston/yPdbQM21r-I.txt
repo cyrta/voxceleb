@@ -1,0 +1,14 @@
+POI: 			Tom_Hiddleston 
+Youtube ID: 	yPdbQM21r-I 
+Video length: 	443.1 sec 
+Set (V): 		dev 
+ 
+Tom_Hiddleston/yPdbQM21r-I_0000001 08.1 13.3 
+Tom_Hiddleston/yPdbQM21r-I_0000002 18.2 23.3 
+Tom_Hiddleston/yPdbQM21r-I_0000003 43.1 47.5 
+Tom_Hiddleston/yPdbQM21r-I_0000004 48.5 54.7 
+Tom_Hiddleston/yPdbQM21r-I_0000005 66.2 75.6 
+Tom_Hiddleston/yPdbQM21r-I_0000006 83.0 91.3 
+Tom_Hiddleston/yPdbQM21r-I_0000007 98.0 118.9 
+Tom_Hiddleston/yPdbQM21r-I_0000008 314.2 322.1 
+Tom_Hiddleston/yPdbQM21r-I_0000009 324.1 329.4 

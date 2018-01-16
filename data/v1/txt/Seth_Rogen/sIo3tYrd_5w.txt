@@ -1,0 +1,17 @@
+POI: 			Seth_Rogen 
+Youtube ID: 	sIo3tYrd_5w 
+Video length: 	361.8 sec 
+Set (V): 		dev 
+ 
+Seth_Rogen/sIo3tYrd_5w_0000001 10.8 19.4 
+Seth_Rogen/sIo3tYrd_5w_0000002 20.1 27.5 
+Seth_Rogen/sIo3tYrd_5w_0000003 69.2 77.3 
+Seth_Rogen/sIo3tYrd_5w_0000004 71.9 76.0 
+Seth_Rogen/sIo3tYrd_5w_0000005 137.2 142.2 
+Seth_Rogen/sIo3tYrd_5w_0000006 157.6 164.5 
+Seth_Rogen/sIo3tYrd_5w_0000007 168.0 175.2 
+Seth_Rogen/sIo3tYrd_5w_0000008 186.0 195.3 
+Seth_Rogen/sIo3tYrd_5w_0000009 202.7 207.0 
+Seth_Rogen/sIo3tYrd_5w_0000010 230.2 237.2 
+Seth_Rogen/sIo3tYrd_5w_0000011 322.3 330.4 
+Seth_Rogen/sIo3tYrd_5w_0000012 330.6 334.6 

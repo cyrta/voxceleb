@@ -1,0 +1,7 @@
+POI: 			Chelsea_Handler 
+Youtube ID: 	p3AEuGtjruE 
+Video length: 	63.3 sec 
+Set (V): 		dev 
+ 
+Chelsea_Handler/p3AEuGtjruE_0000001 35.0 39.7 
+Chelsea_Handler/p3AEuGtjruE_0000002 47.6 56.6 

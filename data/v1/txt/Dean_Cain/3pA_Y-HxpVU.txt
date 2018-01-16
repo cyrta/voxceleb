@@ -1,0 +1,12 @@
+POI: 			Dean_Cain 
+Youtube ID: 	3pA_Y-HxpVU 
+Video length: 	339.2 sec 
+Set (V): 		dev 
+ 
+Dean_Cain/3pA_Y-HxpVU_0000001 44.2 49.9 
+Dean_Cain/3pA_Y-HxpVU_0000002 51.6 59.9 
+Dean_Cain/3pA_Y-HxpVU_0000003 64.0 68.0 
+Dean_Cain/3pA_Y-HxpVU_0000004 68.8 102.1 
+Dean_Cain/3pA_Y-HxpVU_0000005 143.0 148.4 
+Dean_Cain/3pA_Y-HxpVU_0000006 201.0 205.4 
+Dean_Cain/3pA_Y-HxpVU_0000007 206.0 210.8 

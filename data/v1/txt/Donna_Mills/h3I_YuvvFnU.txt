@@ -1,0 +1,15 @@
+POI: 			Donna_Mills 
+Youtube ID: 	h3I_YuvvFnU 
+Video length: 	461.6 sec 
+Set (V): 		dev 
+ 
+Donna_Mills/h3I_YuvvFnU_0000001 36.9 54.4 
+Donna_Mills/h3I_YuvvFnU_0000002 60.7 66.0 
+Donna_Mills/h3I_YuvvFnU_0000003 66.6 75.7 
+Donna_Mills/h3I_YuvvFnU_0000004 116.2 121.5 
+Donna_Mills/h3I_YuvvFnU_0000005 129.1 135.9 
+Donna_Mills/h3I_YuvvFnU_0000006 265.9 271.2 
+Donna_Mills/h3I_YuvvFnU_0000007 325.6 331.3 
+Donna_Mills/h3I_YuvvFnU_0000008 377.9 386.8 
+Donna_Mills/h3I_YuvvFnU_0000009 407.1 412.8 
+Donna_Mills/h3I_YuvvFnU_0000010 438.3 444.6 

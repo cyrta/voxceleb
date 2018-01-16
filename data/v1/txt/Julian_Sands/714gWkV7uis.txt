@@ -1,0 +1,8 @@
+POI: 			Julian_Sands 
+Youtube ID: 	714gWkV7uis 
+Video length: 	62.6 sec 
+Set (V): 		dev 
+ 
+Julian_Sands/714gWkV7uis_0000001 02.6 25.3 
+Julian_Sands/714gWkV7uis_0000002 26.8 38.9 
+Julian_Sands/714gWkV7uis_0000003 50.6 55.4 

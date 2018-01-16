@@ -1,0 +1,26 @@
+POI: 			Quentin_Tarantino 
+Youtube ID: 	J9nV0a7yHJo 
+Video length: 	422.9 sec 
+Set (V): 		dev 
+ 
+Quentin_Tarantino/J9nV0a7yHJo_0000001 09.6 15.7 
+Quentin_Tarantino/J9nV0a7yHJo_0000002 21.4 27.5 
+Quentin_Tarantino/J9nV0a7yHJo_0000003 27.8 39.4 
+Quentin_Tarantino/J9nV0a7yHJo_0000004 40.6 47.5 
+Quentin_Tarantino/J9nV0a7yHJo_0000005 52.1 58.2 
+Quentin_Tarantino/J9nV0a7yHJo_0000006 59.0 73.5 
+Quentin_Tarantino/J9nV0a7yHJo_0000007 74.5 87.4 
+Quentin_Tarantino/J9nV0a7yHJo_0000008 89.0 96.3 
+Quentin_Tarantino/J9nV0a7yHJo_0000009 94.9 106.1 
+Quentin_Tarantino/J9nV0a7yHJo_0000010 144.9 149.8 
+Quentin_Tarantino/J9nV0a7yHJo_0000011 150.1 166.4 
+Quentin_Tarantino/J9nV0a7yHJo_0000012 191.8 203.9 
+Quentin_Tarantino/J9nV0a7yHJo_0000013 209.5 216.5 
+Quentin_Tarantino/J9nV0a7yHJo_0000014 215.3 226.7 
+Quentin_Tarantino/J9nV0a7yHJo_0000015 227.8 239.1 
+Quentin_Tarantino/J9nV0a7yHJo_0000016 268.4 274.1 
+Quentin_Tarantino/J9nV0a7yHJo_0000017 276.3 292.6 
+Quentin_Tarantino/J9nV0a7yHJo_0000018 292.7 306.1 
+Quentin_Tarantino/J9nV0a7yHJo_0000019 340.1 346.4 
+Quentin_Tarantino/J9nV0a7yHJo_0000020 345.4 395.1 
+Quentin_Tarantino/J9nV0a7yHJo_0000021 395.2 400.3 

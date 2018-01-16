@@ -1,0 +1,8 @@
+POI: 			Lena_Horne 
+Youtube ID: 	dvcuwCNIJVE 
+Video length: 	488.6 sec 
+Set (V): 		dev 
+ 
+Lena_Horne/dvcuwCNIJVE_0000001 41.6 45.9 
+Lena_Horne/dvcuwCNIJVE_0000002 341.1 346.4 
+Lena_Horne/dvcuwCNIJVE_0000003 346.5 351.0 

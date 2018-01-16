@@ -1,0 +1,12 @@
+POI: 			Glen_Hansard 
+Youtube ID: 	IocRknu_ijQ 
+Video length: 	201.3 sec 
+Set (V): 		dev 
+ 
+Glen_Hansard/IocRknu_ijQ_0000001 115.2 119.5 
+Glen_Hansard/IocRknu_ijQ_0000002 136.5 140.8 
+Glen_Hansard/IocRknu_ijQ_0000003 142.9 147.0 
+Glen_Hansard/IocRknu_ijQ_0000004 147.2 169.3 
+Glen_Hansard/IocRknu_ijQ_0000005 169.4 179.5 
+Glen_Hansard/IocRknu_ijQ_0000006 181.3 185.9 
+Glen_Hansard/IocRknu_ijQ_0000007 186.5 195.0 

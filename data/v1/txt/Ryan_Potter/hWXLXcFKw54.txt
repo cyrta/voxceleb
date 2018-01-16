@@ -1,0 +1,12 @@
+POI: 			Ryan_Potter 
+Youtube ID: 	hWXLXcFKw54 
+Video length: 	245.2 sec 
+Set (V): 		dev 
+ 
+Ryan_Potter/hWXLXcFKw54_0000001 36.4 40.7 
+Ryan_Potter/hWXLXcFKw54_0000002 44.8 57.9 
+Ryan_Potter/hWXLXcFKw54_0000003 172.7 178.9 
+Ryan_Potter/hWXLXcFKw54_0000004 194.0 200.2 
+Ryan_Potter/hWXLXcFKw54_0000005 199.7 223.6 
+Ryan_Potter/hWXLXcFKw54_0000006 227.9 237.0 
+Ryan_Potter/hWXLXcFKw54_0000007 237.9 243.2 

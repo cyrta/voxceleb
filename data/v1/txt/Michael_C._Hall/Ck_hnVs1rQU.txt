@@ -1,0 +1,20 @@
+POI: 			Michael_C._Hall 
+Youtube ID: 	Ck_hnVs1rQU 
+Video length: 	450.1 sec 
+Set (V): 		dev 
+ 
+Michael_C._Hall/Ck_hnVs1rQU_0000001 34.8 39.0 
+Michael_C._Hall/Ck_hnVs1rQU_0000002 41.9 52.2 
+Michael_C._Hall/Ck_hnVs1rQU_0000003 55.6 59.7 
+Michael_C._Hall/Ck_hnVs1rQU_0000004 148.2 159.6 
+Michael_C._Hall/Ck_hnVs1rQU_0000005 175.2 186.5 
+Michael_C._Hall/Ck_hnVs1rQU_0000006 212.5 229.1 
+Michael_C._Hall/Ck_hnVs1rQU_0000007 254.8 264.8 
+Michael_C._Hall/Ck_hnVs1rQU_0000008 293.0 297.6 
+Michael_C._Hall/Ck_hnVs1rQU_0000009 301.9 313.7 
+Michael_C._Hall/Ck_hnVs1rQU_0000010 333.3 339.0 
+Michael_C._Hall/Ck_hnVs1rQU_0000011 342.9 348.9 
+Michael_C._Hall/Ck_hnVs1rQU_0000012 351.2 360.1 
+Michael_C._Hall/Ck_hnVs1rQU_0000013 361.0 371.1 
+Michael_C._Hall/Ck_hnVs1rQU_0000014 392.6 399.7 
+Michael_C._Hall/Ck_hnVs1rQU_0000015 427.6 437.3 

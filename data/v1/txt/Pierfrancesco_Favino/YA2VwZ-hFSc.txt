@@ -1,0 +1,15 @@
+POI: 			Pierfrancesco_Favino 
+Youtube ID: 	YA2VwZ-hFSc 
+Video length: 	378.3 sec 
+Set (V): 		dev 
+ 
+Pierfrancesco_Favino/YA2VwZ-hFSc_0000001 44.2 48.2 
+Pierfrancesco_Favino/YA2VwZ-hFSc_0000002 78.6 82.8 
+Pierfrancesco_Favino/YA2VwZ-hFSc_0000003 144.3 149.5 
+Pierfrancesco_Favino/YA2VwZ-hFSc_0000004 163.2 170.6 
+Pierfrancesco_Favino/YA2VwZ-hFSc_0000005 195.8 205.4 
+Pierfrancesco_Favino/YA2VwZ-hFSc_0000006 207.4 212.3 
+Pierfrancesco_Favino/YA2VwZ-hFSc_0000007 218.7 224.4 
+Pierfrancesco_Favino/YA2VwZ-hFSc_0000008 254.2 264.9 
+Pierfrancesco_Favino/YA2VwZ-hFSc_0000009 304.2 311.0 
+Pierfrancesco_Favino/YA2VwZ-hFSc_0000010 343.8 350.6 

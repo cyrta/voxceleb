@@ -1,0 +1,11 @@
+POI: 			Martine_McCutcheon 
+Youtube ID: 	6TFxPDC0U-k 
+Video length: 	177.0 sec 
+Set (V): 		dev 
+ 
+Martine_McCutcheon/6TFxPDC0U-k_0000001 06.0 33.8 
+Martine_McCutcheon/6TFxPDC0U-k_0000002 57.5 63.4 
+Martine_McCutcheon/6TFxPDC0U-k_0000003 80.8 87.2 
+Martine_McCutcheon/6TFxPDC0U-k_0000004 87.6 95.4 
+Martine_McCutcheon/6TFxPDC0U-k_0000005 80.1 85.2 
+Martine_McCutcheon/6TFxPDC0U-k_0000006 116.7 136.9 

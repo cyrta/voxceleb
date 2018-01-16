@@ -1,0 +1,20 @@
+POI: 			Amanda_Seyfried 
+Youtube ID: 	5g4NwozVJpA 
+Video length: 	435.5 sec 
+Set (V): 		dev 
+ 
+Amanda_Seyfried/5g4NwozVJpA_0000001 20.2 39.6 
+Amanda_Seyfried/5g4NwozVJpA_0000002 48.7 53.9 
+Amanda_Seyfried/5g4NwozVJpA_0000003 69.6 80.1 
+Amanda_Seyfried/5g4NwozVJpA_0000004 123.8 128.8 
+Amanda_Seyfried/5g4NwozVJpA_0000005 150.0 157.5 
+Amanda_Seyfried/5g4NwozVJpA_0000006 187.6 202.4 
+Amanda_Seyfried/5g4NwozVJpA_0000007 214.7 226.4 
+Amanda_Seyfried/5g4NwozVJpA_0000008 269.2 285.0 
+Amanda_Seyfried/5g4NwozVJpA_0000009 286.1 292.8 
+Amanda_Seyfried/5g4NwozVJpA_0000010 301.3 305.5 
+Amanda_Seyfried/5g4NwozVJpA_0000011 328.8 345.0 
+Amanda_Seyfried/5g4NwozVJpA_0000012 345.4 352.5 
+Amanda_Seyfried/5g4NwozVJpA_0000013 352.8 356.9 
+Amanda_Seyfried/5g4NwozVJpA_0000014 362.1 371.5 
+Amanda_Seyfried/5g4NwozVJpA_0000015 391.3 402.6 

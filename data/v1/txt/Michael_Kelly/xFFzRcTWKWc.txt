@@ -1,0 +1,9 @@
+POI: 			Michael_Kelly 
+Youtube ID: 	xFFzRcTWKWc 
+Video length: 	231.0 sec 
+Set (V): 		dev 
+ 
+Michael_Kelly/xFFzRcTWKWc_0000001 68.0 76.0 
+Michael_Kelly/xFFzRcTWKWc_0000002 167.8 173.0 
+Michael_Kelly/xFFzRcTWKWc_0000003 202.3 209.1 
+Michael_Kelly/xFFzRcTWKWc_0000004 215.1 221.9 

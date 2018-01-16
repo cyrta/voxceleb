@@ -1,0 +1,9 @@
+POI: 			Tamara_Taylor 
+Youtube ID: 	oeZnRNt8XnM 
+Video length: 	511.5 sec 
+Set (V): 		dev 
+ 
+Tamara_Taylor/oeZnRNt8XnM_0000001 271.0 276.3 
+Tamara_Taylor/oeZnRNt8XnM_0000002 302.2 306.8 
+Tamara_Taylor/oeZnRNt8XnM_0000003 400.7 408.8 
+Tamara_Taylor/oeZnRNt8XnM_0000004 470.8 477.8 

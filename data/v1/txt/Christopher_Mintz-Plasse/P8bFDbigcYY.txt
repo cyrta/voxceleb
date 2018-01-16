@@ -1,0 +1,16 @@
+POI: 			Christopher_Mintz-Plasse 
+Youtube ID: 	P8bFDbigcYY 
+Video length: 	245.1 sec 
+Set (V): 		dev 
+ 
+Christopher_Mintz-Plasse/P8bFDbigcYY_0000001 10.8 28.6 
+Christopher_Mintz-Plasse/P8bFDbigcYY_0000002 35.8 40.8 
+Christopher_Mintz-Plasse/P8bFDbigcYY_0000003 45.3 52.8 
+Christopher_Mintz-Plasse/P8bFDbigcYY_0000004 58.2 64.8 
+Christopher_Mintz-Plasse/P8bFDbigcYY_0000005 65.0 74.6 
+Christopher_Mintz-Plasse/P8bFDbigcYY_0000006 93.8 99.6 
+Christopher_Mintz-Plasse/P8bFDbigcYY_0000007 139.7 144.8 
+Christopher_Mintz-Plasse/P8bFDbigcYY_0000008 178.6 184.0 
+Christopher_Mintz-Plasse/P8bFDbigcYY_0000009 189.4 194.1 
+Christopher_Mintz-Plasse/P8bFDbigcYY_0000010 200.6 205.9 
+Christopher_Mintz-Plasse/P8bFDbigcYY_0000011 235.0 239.6 

@@ -1,0 +1,8 @@
+POI: 			Laura_Carmichael 
+Youtube ID: 	OthbDloQA9A 
+Video length: 	233.2 sec 
+Set (V): 		dev 
+ 
+Laura_Carmichael/OthbDloQA9A_0000001 29.9 34.8 
+Laura_Carmichael/OthbDloQA9A_0000002 120.9 126.1 
+Laura_Carmichael/OthbDloQA9A_0000003 126.4 132.6 

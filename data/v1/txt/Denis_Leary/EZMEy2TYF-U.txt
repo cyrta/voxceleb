@@ -1,0 +1,11 @@
+POI: 			Denis_Leary 
+Youtube ID: 	EZMEy2TYF-U 
+Video length: 	403.5 sec 
+Set (V): 		dev 
+ 
+Denis_Leary/EZMEy2TYF-U_0000001 114.1 118.5 
+Denis_Leary/EZMEy2TYF-U_0000002 128.9 137.3 
+Denis_Leary/EZMEy2TYF-U_0000003 155.3 159.8 
+Denis_Leary/EZMEy2TYF-U_0000004 271.6 277.3 
+Denis_Leary/EZMEy2TYF-U_0000005 326.7 331.8 
+Denis_Leary/EZMEy2TYF-U_0000006 369.4 385.8 

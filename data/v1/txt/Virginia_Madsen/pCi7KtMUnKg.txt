@@ -1,0 +1,21 @@
+POI: 			Virginia_Madsen 
+Youtube ID: 	pCi7KtMUnKg 
+Video length: 	308.7 sec 
+Set (V): 		dev 
+ 
+Virginia_Madsen/pCi7KtMUnKg_0000001 08.5 15.0 
+Virginia_Madsen/pCi7KtMUnKg_0000002 27.3 34.9 
+Virginia_Madsen/pCi7KtMUnKg_0000003 36.5 65.4 
+Virginia_Madsen/pCi7KtMUnKg_0000004 66.4 85.0 
+Virginia_Madsen/pCi7KtMUnKg_0000005 95.7 104.5 
+Virginia_Madsen/pCi7KtMUnKg_0000006 105.9 117.9 
+Virginia_Madsen/pCi7KtMUnKg_0000007 118.9 130.6 
+Virginia_Madsen/pCi7KtMUnKg_0000008 147.1 187.2 
+Virginia_Madsen/pCi7KtMUnKg_0000009 193.1 208.8 
+Virginia_Madsen/pCi7KtMUnKg_0000010 209.9 221.2 
+Virginia_Madsen/pCi7KtMUnKg_0000011 226.0 234.5 
+Virginia_Madsen/pCi7KtMUnKg_0000012 236.0 245.0 
+Virginia_Madsen/pCi7KtMUnKg_0000013 246.8 254.6 
+Virginia_Madsen/pCi7KtMUnKg_0000014 260.3 268.8 
+Virginia_Madsen/pCi7KtMUnKg_0000015 274.7 281.9 
+Virginia_Madsen/pCi7KtMUnKg_0000016 287.8 297.4 

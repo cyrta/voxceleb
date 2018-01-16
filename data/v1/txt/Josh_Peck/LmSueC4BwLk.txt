@@ -1,0 +1,8 @@
+POI: 			Josh_Peck 
+Youtube ID: 	LmSueC4BwLk 
+Video length: 	277.2 sec 
+Set (V): 		dev 
+ 
+Josh_Peck/LmSueC4BwLk_0000001 127.0 135.0 
+Josh_Peck/LmSueC4BwLk_0000002 151.8 156.6 
+Josh_Peck/LmSueC4BwLk_0000003 206.6 223.0 

@@ -1,0 +1,8 @@
+POI: 			Taylor_Lautner 
+Youtube ID: 	83HaBsNrtlE 
+Video length: 	702.4 sec 
+Set (V): 		dev 
+ 
+Taylor_Lautner/83HaBsNrtlE_0000001 197.3 202.0 
+Taylor_Lautner/83HaBsNrtlE_0000002 203.4 210.8 
+Taylor_Lautner/83HaBsNrtlE_0000003 267.7 275.4 

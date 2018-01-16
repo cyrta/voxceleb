@@ -1,0 +1,7 @@
+POI: 			Ruth_Jones 
+Youtube ID: 	PoZUvjlp34Y 
+Video length: 	68.8 sec 
+Set (V): 		dev 
+ 
+Ruth_Jones/PoZUvjlp34Y_0000001 17.7 22.0 
+Ruth_Jones/PoZUvjlp34Y_0000002 48.6 54.2 

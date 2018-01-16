@@ -1,0 +1,12 @@
+POI: 			Seth_Rogen 
+Youtube ID: 	CMW4CMyBTbo 
+Video length: 	2725.1 sec 
+Set (V): 		dev 
+ 
+Seth_Rogen/CMW4CMyBTbo_0000001 649.1 653.1 
+Seth_Rogen/CMW4CMyBTbo_0000002 821.3 827.8 
+Seth_Rogen/CMW4CMyBTbo_0000003 1473.6 1478.4 
+Seth_Rogen/CMW4CMyBTbo_0000004 1504.7 1509.2 
+Seth_Rogen/CMW4CMyBTbo_0000005 1740.4 1744.8 
+Seth_Rogen/CMW4CMyBTbo_0000006 1878.2 1883.2 
+Seth_Rogen/CMW4CMyBTbo_0000007 2148.5 2154.5 

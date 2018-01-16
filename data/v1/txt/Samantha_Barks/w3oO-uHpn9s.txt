@@ -1,0 +1,11 @@
+POI: 			Samantha_Barks 
+Youtube ID: 	w3oO-uHpn9s 
+Video length: 	277.1 sec 
+Set (V): 		dev 
+ 
+Samantha_Barks/w3oO-uHpn9s_0000001 24.3 32.4 
+Samantha_Barks/w3oO-uHpn9s_0000002 33.0 40.7 
+Samantha_Barks/w3oO-uHpn9s_0000003 175.0 179.5 
+Samantha_Barks/w3oO-uHpn9s_0000004 183.3 189.6 
+Samantha_Barks/w3oO-uHpn9s_0000005 190.5 201.4 
+Samantha_Barks/w3oO-uHpn9s_0000006 201.6 208.7 

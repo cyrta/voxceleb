@@ -1,0 +1,11 @@
+POI: 			Morena_Baccarin 
+Youtube ID: 	peK4FEuWG04 
+Video length: 	120.0 sec 
+Set (V): 		dev 
+ 
+Morena_Baccarin/peK4FEuWG04_0000001 23.4 27.4 
+Morena_Baccarin/peK4FEuWG04_0000002 30.5 36.2 
+Morena_Baccarin/peK4FEuWG04_0000003 38.4 46.5 
+Morena_Baccarin/peK4FEuWG04_0000004 57.0 61.0 
+Morena_Baccarin/peK4FEuWG04_0000005 72.7 82.0 
+Morena_Baccarin/peK4FEuWG04_0000006 105.3 109.8 

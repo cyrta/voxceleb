@@ -1,0 +1,8 @@
+POI: 			Shannen_Doherty 
+Youtube ID: 	WoVehwiqBYs 
+Video length: 	219.7 sec 
+Set (V): 		dev 
+ 
+Shannen_Doherty/WoVehwiqBYs_0000001 43.6 48.0 
+Shannen_Doherty/WoVehwiqBYs_0000002 124.1 128.3 
+Shannen_Doherty/WoVehwiqBYs_0000003 172.4 177.9 

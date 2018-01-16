@@ -1,0 +1,11 @@
+POI: 			Nana_Visitor 
+Youtube ID: 	dTnGHE1NnmQ 
+Video length: 	170.3 sec 
+Set (V): 		dev 
+ 
+Nana_Visitor/dTnGHE1NnmQ_0000001 40.8 52.6 
+Nana_Visitor/dTnGHE1NnmQ_0000002 55.4 59.6 
+Nana_Visitor/dTnGHE1NnmQ_0000003 63.9 79.6 
+Nana_Visitor/dTnGHE1NnmQ_0000004 88.2 105.3 
+Nana_Visitor/dTnGHE1NnmQ_0000005 114.2 118.8 
+Nana_Visitor/dTnGHE1NnmQ_0000006 133.8 152.5 

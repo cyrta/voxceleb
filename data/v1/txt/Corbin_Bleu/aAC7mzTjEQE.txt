@@ -1,0 +1,8 @@
+POI: 			Corbin_Bleu 
+Youtube ID: 	aAC7mzTjEQE 
+Video length: 	328.1 sec 
+Set (V): 		dev 
+ 
+Corbin_Bleu/aAC7mzTjEQE_0000001 78.0 88.2 
+Corbin_Bleu/aAC7mzTjEQE_0000002 153.7 162.6 
+Corbin_Bleu/aAC7mzTjEQE_0000003 187.6 191.8 

@@ -1,0 +1,16 @@
+POI: 			Jeff_Daniels 
+Youtube ID: 	2CFHHsxtG4U 
+Video length: 	724.1 sec 
+Set (V): 		dev 
+ 
+Jeff_Daniels/2CFHHsxtG4U_0000001 73.1 78.3 
+Jeff_Daniels/2CFHHsxtG4U_0000002 122.2 126.6 
+Jeff_Daniels/2CFHHsxtG4U_0000003 274.6 295.0 
+Jeff_Daniels/2CFHHsxtG4U_0000004 464.3 468.3 
+Jeff_Daniels/2CFHHsxtG4U_0000005 469.1 475.1 
+Jeff_Daniels/2CFHHsxtG4U_0000006 475.5 481.7 
+Jeff_Daniels/2CFHHsxtG4U_0000007 600.2 605.4 
+Jeff_Daniels/2CFHHsxtG4U_0000008 606.5 612.0 
+Jeff_Daniels/2CFHHsxtG4U_0000009 613.8 618.9 
+Jeff_Daniels/2CFHHsxtG4U_0000010 640.7 648.7 
+Jeff_Daniels/2CFHHsxtG4U_0000011 665.0 676.0 

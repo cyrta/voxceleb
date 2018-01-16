@@ -1,0 +1,12 @@
+POI: 			Moon_Bloodgood 
+Youtube ID: 	xweajiV4unc 
+Video length: 	406.1 sec 
+Set (V): 		dev 
+ 
+Moon_Bloodgood/xweajiV4unc_0000001 15.2 19.9 
+Moon_Bloodgood/xweajiV4unc_0000002 21.8 38.0 
+Moon_Bloodgood/xweajiV4unc_0000003 38.3 50.8 
+Moon_Bloodgood/xweajiV4unc_0000004 314.2 326.5 
+Moon_Bloodgood/xweajiV4unc_0000005 326.7 330.9 
+Moon_Bloodgood/xweajiV4unc_0000006 332.0 338.2 
+Moon_Bloodgood/xweajiV4unc_0000007 338.8 348.2 

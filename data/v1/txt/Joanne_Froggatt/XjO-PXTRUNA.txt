@@ -1,0 +1,14 @@
+POI: 			Joanne_Froggatt 
+Youtube ID: 	XjO-PXTRUNA 
+Video length: 	205.6 sec 
+Set (V): 		dev 
+ 
+Joanne_Froggatt/XjO-PXTRUNA_0000001 100.4 110.9 
+Joanne_Froggatt/XjO-PXTRUNA_0000002 119.0 123.0 
+Joanne_Froggatt/XjO-PXTRUNA_0000003 124.1 139.5 
+Joanne_Froggatt/XjO-PXTRUNA_0000004 142.6 150.7 
+Joanne_Froggatt/XjO-PXTRUNA_0000005 151.2 158.6 
+Joanne_Froggatt/XjO-PXTRUNA_0000006 159.4 164.2 
+Joanne_Froggatt/XjO-PXTRUNA_0000007 172.9 181.2 
+Joanne_Froggatt/XjO-PXTRUNA_0000008 189.6 194.2 
+Joanne_Froggatt/XjO-PXTRUNA_0000009 194.9 202.1 

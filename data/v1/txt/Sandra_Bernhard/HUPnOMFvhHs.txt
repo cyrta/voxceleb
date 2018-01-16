@@ -1,0 +1,17 @@
+POI: 			Sandra_Bernhard 
+Youtube ID: 	HUPnOMFvhHs 
+Video length: 	294.8 sec 
+Set (V): 		dev 
+ 
+Sandra_Bernhard/HUPnOMFvhHs_0000001 52.0 57.7 
+Sandra_Bernhard/HUPnOMFvhHs_0000002 60.0 67.2 
+Sandra_Bernhard/HUPnOMFvhHs_0000003 62.7 73.4 
+Sandra_Bernhard/HUPnOMFvhHs_0000004 80.8 93.9 
+Sandra_Bernhard/HUPnOMFvhHs_0000005 106.1 118.0 
+Sandra_Bernhard/HUPnOMFvhHs_0000006 131.7 140.9 
+Sandra_Bernhard/HUPnOMFvhHs_0000007 146.9 159.6 
+Sandra_Bernhard/HUPnOMFvhHs_0000008 169.0 175.3 
+Sandra_Bernhard/HUPnOMFvhHs_0000009 186.8 193.1 
+Sandra_Bernhard/HUPnOMFvhHs_0000010 214.3 222.9 
+Sandra_Bernhard/HUPnOMFvhHs_0000011 224.1 228.0 
+Sandra_Bernhard/HUPnOMFvhHs_0000012 251.3 259.4 

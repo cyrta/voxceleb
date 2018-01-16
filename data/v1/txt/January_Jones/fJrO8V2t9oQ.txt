@@ -1,0 +1,27 @@
+POI: 			January_Jones 
+Youtube ID: 	fJrO8V2t9oQ 
+Video length: 	487.1 sec 
+Set (V): 		dev 
+ 
+January_Jones/fJrO8V2t9oQ_0000001 28.3 34.5 
+January_Jones/fJrO8V2t9oQ_0000002 57.2 61.7 
+January_Jones/fJrO8V2t9oQ_0000003 62.5 68.1 
+January_Jones/fJrO8V2t9oQ_0000004 70.7 78.0 
+January_Jones/fJrO8V2t9oQ_0000005 96.8 101.0 
+January_Jones/fJrO8V2t9oQ_0000006 103.7 108.3 
+January_Jones/fJrO8V2t9oQ_0000007 108.7 117.1 
+January_Jones/fJrO8V2t9oQ_0000008 132.8 136.9 
+January_Jones/fJrO8V2t9oQ_0000009 141.5 145.8 
+January_Jones/fJrO8V2t9oQ_0000010 146.6 151.4 
+January_Jones/fJrO8V2t9oQ_0000011 156.2 163.6 
+January_Jones/fJrO8V2t9oQ_0000012 179.9 185.1 
+January_Jones/fJrO8V2t9oQ_0000013 205.8 214.8 
+January_Jones/fJrO8V2t9oQ_0000014 219.8 228.5 
+January_Jones/fJrO8V2t9oQ_0000015 244.0 250.0 
+January_Jones/fJrO8V2t9oQ_0000016 278.8 283.7 
+January_Jones/fJrO8V2t9oQ_0000017 289.8 294.0 
+January_Jones/fJrO8V2t9oQ_0000018 314.0 318.7 
+January_Jones/fJrO8V2t9oQ_0000019 319.6 324.2 
+January_Jones/fJrO8V2t9oQ_0000020 369.8 374.4 
+January_Jones/fJrO8V2t9oQ_0000021 421.6 428.0 
+January_Jones/fJrO8V2t9oQ_0000022 480.2 484.5 

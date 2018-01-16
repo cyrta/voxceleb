@@ -1,0 +1,19 @@
+POI: 			Jennifer_Carpenter 
+Youtube ID: 	P13pQ2sx7kA 
+Video length: 	505.7 sec 
+Set (V): 		dev 
+ 
+Jennifer_Carpenter/P13pQ2sx7kA_0000001 36.5 56.6 
+Jennifer_Carpenter/P13pQ2sx7kA_0000002 72.5 86.2 
+Jennifer_Carpenter/P13pQ2sx7kA_0000003 86.4 90.4 
+Jennifer_Carpenter/P13pQ2sx7kA_0000004 91.6 96.4 
+Jennifer_Carpenter/P13pQ2sx7kA_0000005 140.5 157.8 
+Jennifer_Carpenter/P13pQ2sx7kA_0000006 195.7 206.8 
+Jennifer_Carpenter/P13pQ2sx7kA_0000007 211.6 218.2 
+Jennifer_Carpenter/P13pQ2sx7kA_0000008 299.8 307.9 
+Jennifer_Carpenter/P13pQ2sx7kA_0000009 312.7 318.4 
+Jennifer_Carpenter/P13pQ2sx7kA_0000010 387.5 412.1 
+Jennifer_Carpenter/P13pQ2sx7kA_0000011 419.4 428.5 
+Jennifer_Carpenter/P13pQ2sx7kA_0000012 451.9 459.4 
+Jennifer_Carpenter/P13pQ2sx7kA_0000013 459.8 465.1 
+Jennifer_Carpenter/P13pQ2sx7kA_0000014 477.3 488.8 

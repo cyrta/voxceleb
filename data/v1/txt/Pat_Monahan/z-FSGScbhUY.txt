@@ -1,0 +1,21 @@
+POI: 			Pat_Monahan 
+Youtube ID: 	z-FSGScbhUY 
+Video length: 	312.7 sec 
+Set (V): 		dev 
+ 
+Pat_Monahan/z-FSGScbhUY_0000001 24.9 31.0 
+Pat_Monahan/z-FSGScbhUY_0000002 31.2 36.3 
+Pat_Monahan/z-FSGScbhUY_0000003 59.8 66.2 
+Pat_Monahan/z-FSGScbhUY_0000004 74.0 84.8 
+Pat_Monahan/z-FSGScbhUY_0000005 97.6 104.3 
+Pat_Monahan/z-FSGScbhUY_0000006 109.8 114.0 
+Pat_Monahan/z-FSGScbhUY_0000007 133.5 139.0 
+Pat_Monahan/z-FSGScbhUY_0000008 140.8 148.7 
+Pat_Monahan/z-FSGScbhUY_0000009 150.4 155.2 
+Pat_Monahan/z-FSGScbhUY_0000010 160.9 167.6 
+Pat_Monahan/z-FSGScbhUY_0000011 175.1 179.3 
+Pat_Monahan/z-FSGScbhUY_0000012 157.6 167.8 
+Pat_Monahan/z-FSGScbhUY_0000013 182.6 193.0 
+Pat_Monahan/z-FSGScbhUY_0000014 198.2 202.6 
+Pat_Monahan/z-FSGScbhUY_0000015 216.9 225.4 
+Pat_Monahan/z-FSGScbhUY_0000016 227.7 238.2 

@@ -1,0 +1,8 @@
+POI: 			Breckin_Meyer 
+Youtube ID: 	F2ZDV0esyKc 
+Video length: 	155.2 sec 
+Set (V): 		dev 
+ 
+Breckin_Meyer/F2ZDV0esyKc_0000001 58.9 64.7 
+Breckin_Meyer/F2ZDV0esyKc_0000002 129.0 133.1 
+Breckin_Meyer/F2ZDV0esyKc_0000003 139.1 148.3 

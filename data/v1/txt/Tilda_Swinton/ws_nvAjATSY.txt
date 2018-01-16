@@ -1,0 +1,16 @@
+POI: 			Tilda_Swinton 
+Youtube ID: 	ws_nvAjATSY 
+Video length: 	265.3 sec 
+Set (V): 		dev 
+ 
+Tilda_Swinton/ws_nvAjATSY_0000001 10.0 17.9 
+Tilda_Swinton/ws_nvAjATSY_0000002 46.2 50.3 
+Tilda_Swinton/ws_nvAjATSY_0000003 54.2 67.9 
+Tilda_Swinton/ws_nvAjATSY_0000004 68.5 75.8 
+Tilda_Swinton/ws_nvAjATSY_0000005 76.5 103.2 
+Tilda_Swinton/ws_nvAjATSY_0000006 103.9 113.2 
+Tilda_Swinton/ws_nvAjATSY_0000007 154.5 167.5 
+Tilda_Swinton/ws_nvAjATSY_0000008 169.7 180.8 
+Tilda_Swinton/ws_nvAjATSY_0000009 181.2 198.7 
+Tilda_Swinton/ws_nvAjATSY_0000010 217.3 222.4 
+Tilda_Swinton/ws_nvAjATSY_0000011 222.9 249.2 

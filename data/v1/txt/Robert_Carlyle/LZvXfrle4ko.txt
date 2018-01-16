@@ -1,0 +1,9 @@
+POI: 			Robert_Carlyle 
+Youtube ID: 	LZvXfrle4ko 
+Video length: 	371.7 sec 
+Set (V): 		dev 
+ 
+Robert_Carlyle/LZvXfrle4ko_0000001 162.7 169.5 
+Robert_Carlyle/LZvXfrle4ko_0000002 171.0 179.4 
+Robert_Carlyle/LZvXfrle4ko_0000003 299.8 304.4 
+Robert_Carlyle/LZvXfrle4ko_0000004 331.0 339.4 

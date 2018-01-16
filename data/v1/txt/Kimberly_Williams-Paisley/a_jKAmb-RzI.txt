@@ -1,0 +1,11 @@
+POI: 			Kimberly_Williams-Paisley 
+Youtube ID: 	a_jKAmb-RzI 
+Video length: 	397.1 sec 
+Set (V): 		dev 
+ 
+Kimberly_Williams-Paisley/a_jKAmb-RzI_0000001 167.8 176.8 
+Kimberly_Williams-Paisley/a_jKAmb-RzI_0000002 202.9 211.5 
+Kimberly_Williams-Paisley/a_jKAmb-RzI_0000003 229.4 233.6 
+Kimberly_Williams-Paisley/a_jKAmb-RzI_0000004 254.4 259.2 
+Kimberly_Williams-Paisley/a_jKAmb-RzI_0000005 283.9 289.6 
+Kimberly_Williams-Paisley/a_jKAmb-RzI_0000006 322.4 329.6 

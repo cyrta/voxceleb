@@ -1,0 +1,7 @@
+POI: 			David_Wenham 
+Youtube ID: 	f8NM-M5058E 
+Video length: 	78.6 sec 
+Set (V): 		dev 
+ 
+David_Wenham/f8NM-M5058E_0000001 45.4 50.1 
+David_Wenham/f8NM-M5058E_0000002 71.5 76.8 

@@ -1,0 +1,7 @@
+POI: 			Steve_Harvey 
+Youtube ID: 	tsHvDipd3ME 
+Video length: 	202.7 sec 
+Set (V): 		dev 
+ 
+Steve_Harvey/tsHvDipd3ME_0000001 26.9 30.8 
+Steve_Harvey/tsHvDipd3ME_0000002 57.0 62.0 

@@ -1,0 +1,16 @@
+POI: 			Anne_Hathaway 
+Youtube ID: 	vynCT-T550U 
+Video length: 	256.2 sec 
+Set (V): 		dev 
+ 
+Anne_Hathaway/vynCT-T550U_0000001 11.3 31.7 
+Anne_Hathaway/vynCT-T550U_0000002 32.1 52.3 
+Anne_Hathaway/vynCT-T550U_0000003 65.7 70.6 
+Anne_Hathaway/vynCT-T550U_0000004 75.7 100.7 
+Anne_Hathaway/vynCT-T550U_0000005 101.0 108.7 
+Anne_Hathaway/vynCT-T550U_0000006 125.9 166.1 
+Anne_Hathaway/vynCT-T550U_0000007 176.0 183.1 
+Anne_Hathaway/vynCT-T550U_0000008 189.8 198.5 
+Anne_Hathaway/vynCT-T550U_0000009 199.1 214.3 
+Anne_Hathaway/vynCT-T550U_0000010 220.0 231.2 
+Anne_Hathaway/vynCT-T550U_0000011 231.6 237.3 

@@ -1,0 +1,8 @@
+POI: 			Kendra_Wilkinson 
+Youtube ID: 	FyvSoocfAuo 
+Video length: 	68.6 sec 
+Set (V): 		dev 
+ 
+Kendra_Wilkinson/FyvSoocfAuo_0000001 15.2 19.6 
+Kendra_Wilkinson/FyvSoocfAuo_0000002 32.4 36.4 
+Kendra_Wilkinson/FyvSoocfAuo_0000003 36.7 48.2 

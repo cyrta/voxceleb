@@ -1,0 +1,10 @@
+POI: 			Steve_Harvey 
+Youtube ID: 	miw-LI4y_1g 
+Video length: 	2402.8 sec 
+Set (V): 		dev 
+ 
+Steve_Harvey/miw-LI4y_1g_0000001 29.6 35.4 
+Steve_Harvey/miw-LI4y_1g_0000002 36.3 42.7 
+Steve_Harvey/miw-LI4y_1g_0000003 535.6 541.8 
+Steve_Harvey/miw-LI4y_1g_0000004 1776.9 1782.4 
+Steve_Harvey/miw-LI4y_1g_0000005 2188.0 2199.7 

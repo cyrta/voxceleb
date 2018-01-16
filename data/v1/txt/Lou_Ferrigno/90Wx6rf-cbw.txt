@@ -1,0 +1,9 @@
+POI: 			Lou_Ferrigno 
+Youtube ID: 	90Wx6rf-cbw 
+Video length: 	1266.7 sec 
+Set (V): 		dev 
+ 
+Lou_Ferrigno/90Wx6rf-cbw_0000001 283.7 288.5 
+Lou_Ferrigno/90Wx6rf-cbw_0000002 718.4 723.5 
+Lou_Ferrigno/90Wx6rf-cbw_0000003 945.5 952.2 
+Lou_Ferrigno/90Wx6rf-cbw_0000004 1092.6 1096.6 

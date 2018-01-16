@@ -1,0 +1,8 @@
+POI: 			Andrew_Garfield 
+Youtube ID: 	8WLoEHitD6E 
+Video length: 	492.9 sec 
+Set (V): 		dev 
+ 
+Andrew_Garfield/8WLoEHitD6E_0000001 270.8 275.5 
+Andrew_Garfield/8WLoEHitD6E_0000002 288.1 309.6 
+Andrew_Garfield/8WLoEHitD6E_0000003 406.6 412.4 

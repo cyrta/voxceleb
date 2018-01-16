@@ -1,0 +1,17 @@
+POI: 			Michael_Mando 
+Youtube ID: 	Df5SU_3RPtE 
+Video length: 	272.8 sec 
+Set (V): 		dev 
+ 
+Michael_Mando/Df5SU_3RPtE_0000001 33.2 49.2 
+Michael_Mando/Df5SU_3RPtE_0000002 49.7 54.0 
+Michael_Mando/Df5SU_3RPtE_0000003 71.4 76.5 
+Michael_Mando/Df5SU_3RPtE_0000004 78.7 98.6 
+Michael_Mando/Df5SU_3RPtE_0000005 119.6 125.0 
+Michael_Mando/Df5SU_3RPtE_0000006 126.8 148.0 
+Michael_Mando/Df5SU_3RPtE_0000007 158.3 166.8 
+Michael_Mando/Df5SU_3RPtE_0000008 176.4 186.4 
+Michael_Mando/Df5SU_3RPtE_0000009 188.3 204.4 
+Michael_Mando/Df5SU_3RPtE_0000010 215.8 228.0 
+Michael_Mando/Df5SU_3RPtE_0000011 231.8 237.8 
+Michael_Mando/Df5SU_3RPtE_0000012 239.9 243.9 

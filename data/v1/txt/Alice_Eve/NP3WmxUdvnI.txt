@@ -1,0 +1,16 @@
+POI: 			Alice_Eve 
+Youtube ID: 	NP3WmxUdvnI 
+Video length: 	215.2 sec 
+Set (V): 		dev 
+ 
+Alice_Eve/NP3WmxUdvnI_0000001 30.2 34.5 
+Alice_Eve/NP3WmxUdvnI_0000002 42.2 48.5 
+Alice_Eve/NP3WmxUdvnI_0000003 56.2 62.1 
+Alice_Eve/NP3WmxUdvnI_0000004 105.4 109.4 
+Alice_Eve/NP3WmxUdvnI_0000005 109.7 116.3 
+Alice_Eve/NP3WmxUdvnI_0000006 121.7 128.1 
+Alice_Eve/NP3WmxUdvnI_0000007 134.9 148.0 
+Alice_Eve/NP3WmxUdvnI_0000008 150.0 154.8 
+Alice_Eve/NP3WmxUdvnI_0000009 155.2 161.3 
+Alice_Eve/NP3WmxUdvnI_0000010 173.4 178.4 
+Alice_Eve/NP3WmxUdvnI_0000011 186.1 194.9 

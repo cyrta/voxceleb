@@ -1,0 +1,12 @@
+POI: 			Efren_Ramirez 
+Youtube ID: 	IvOQNamNtF4 
+Video length: 	247.0 sec 
+Set (V): 		test 
+ 
+Efren_Ramirez/IvOQNamNtF4_0000001 37.6 47.8 
+Efren_Ramirez/IvOQNamNtF4_0000002 56.8 62.9 
+Efren_Ramirez/IvOQNamNtF4_0000003 71.6 76.0 
+Efren_Ramirez/IvOQNamNtF4_0000004 89.4 103.5 
+Efren_Ramirez/IvOQNamNtF4_0000005 120.6 125.8 
+Efren_Ramirez/IvOQNamNtF4_0000006 127.2 134.4 
+Efren_Ramirez/IvOQNamNtF4_0000007 138.3 143.5 

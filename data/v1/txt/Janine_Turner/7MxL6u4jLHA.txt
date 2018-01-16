@@ -1,0 +1,12 @@
+POI: 			Janine_Turner 
+Youtube ID: 	7MxL6u4jLHA 
+Video length: 	313.1 sec 
+Set (V): 		dev 
+ 
+Janine_Turner/7MxL6u4jLHA_0000001 66.3 78.6 
+Janine_Turner/7MxL6u4jLHA_0000002 82.4 86.7 
+Janine_Turner/7MxL6u4jLHA_0000003 100.2 121.7 
+Janine_Turner/7MxL6u4jLHA_0000004 131.2 143.6 
+Janine_Turner/7MxL6u4jLHA_0000005 143.8 149.1 
+Janine_Turner/7MxL6u4jLHA_0000006 149.4 155.9 
+Janine_Turner/7MxL6u4jLHA_0000007 176.2 210.3 

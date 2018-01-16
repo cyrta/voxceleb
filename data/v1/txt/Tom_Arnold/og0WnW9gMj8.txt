@@ -1,0 +1,13 @@
+POI: 			Tom_Arnold 
+Youtube ID: 	og0WnW9gMj8 
+Video length: 	197.6 sec 
+Set (V): 		dev 
+ 
+Tom_Arnold/og0WnW9gMj8_0000001 08.2 23.0 
+Tom_Arnold/og0WnW9gMj8_0000002 23.6 31.4 
+Tom_Arnold/og0WnW9gMj8_0000003 36.0 50.2 
+Tom_Arnold/og0WnW9gMj8_0000004 108.8 115.4 
+Tom_Arnold/og0WnW9gMj8_0000005 115.9 126.4 
+Tom_Arnold/og0WnW9gMj8_0000006 141.0 159.3 
+Tom_Arnold/og0WnW9gMj8_0000007 159.9 163.9 
+Tom_Arnold/og0WnW9gMj8_0000008 180.8 190.1 

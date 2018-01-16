@@ -1,0 +1,18 @@
+POI: 			Taylor_Swift 
+Youtube ID: 	nbK4XxjJ1Hw 
+Video length: 	679.8 sec 
+Set (V): 		dev 
+ 
+Taylor_Swift/nbK4XxjJ1Hw_0000001 97.2 101.1 
+Taylor_Swift/nbK4XxjJ1Hw_0000002 105.1 111.8 
+Taylor_Swift/nbK4XxjJ1Hw_0000003 135.3 148.4 
+Taylor_Swift/nbK4XxjJ1Hw_0000004 152.1 157.8 
+Taylor_Swift/nbK4XxjJ1Hw_0000005 206.7 211.6 
+Taylor_Swift/nbK4XxjJ1Hw_0000006 218.9 225.6 
+Taylor_Swift/nbK4XxjJ1Hw_0000007 281.8 291.9 
+Taylor_Swift/nbK4XxjJ1Hw_0000008 296.9 309.6 
+Taylor_Swift/nbK4XxjJ1Hw_0000009 329.5 336.6 
+Taylor_Swift/nbK4XxjJ1Hw_0000010 342.0 351.4 
+Taylor_Swift/nbK4XxjJ1Hw_0000011 387.4 392.7 
+Taylor_Swift/nbK4XxjJ1Hw_0000012 618.0 622.0 
+Taylor_Swift/nbK4XxjJ1Hw_0000013 632.1 637.9 

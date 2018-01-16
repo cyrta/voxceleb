@@ -1,0 +1,13 @@
+POI: 			Shailene_Woodley 
+Youtube ID: 	3PDUGcCmt4A 
+Video length: 	218.8 sec 
+Set (V): 		dev 
+ 
+Shailene_Woodley/3PDUGcCmt4A_0000001 20.2 41.4 
+Shailene_Woodley/3PDUGcCmt4A_0000002 47.4 53.7 
+Shailene_Woodley/3PDUGcCmt4A_0000003 59.0 64.6 
+Shailene_Woodley/3PDUGcCmt4A_0000004 66.8 73.6 
+Shailene_Woodley/3PDUGcCmt4A_0000005 75.8 89.6 
+Shailene_Woodley/3PDUGcCmt4A_0000006 99.2 106.9 
+Shailene_Woodley/3PDUGcCmt4A_0000007 114.0 133.0 
+Shailene_Woodley/3PDUGcCmt4A_0000008 141.4 153.5 

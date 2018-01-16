@@ -1,0 +1,8 @@
+POI: 			Jennifer_Ehle 
+Youtube ID: 	BFvidvWV6Yw 
+Video length: 	71.2 sec 
+Set (V): 		dev 
+ 
+Jennifer_Ehle/BFvidvWV6Yw_0000001 05.6 14.3 
+Jennifer_Ehle/BFvidvWV6Yw_0000002 17.4 21.6 
+Jennifer_Ehle/BFvidvWV6Yw_0000003 39.4 47.8 

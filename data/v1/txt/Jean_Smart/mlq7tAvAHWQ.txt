@@ -1,0 +1,14 @@
+POI: 			Jean_Smart 
+Youtube ID: 	mlq7tAvAHWQ 
+Video length: 	422.0 sec 
+Set (V): 		dev 
+ 
+Jean_Smart/mlq7tAvAHWQ_0000001 67.7 72.0 
+Jean_Smart/mlq7tAvAHWQ_0000002 140.0 152.0 
+Jean_Smart/mlq7tAvAHWQ_0000003 181.0 185.4 
+Jean_Smart/mlq7tAvAHWQ_0000004 202.4 207.4 
+Jean_Smart/mlq7tAvAHWQ_0000005 312.9 322.6 
+Jean_Smart/mlq7tAvAHWQ_0000006 322.8 327.1 
+Jean_Smart/mlq7tAvAHWQ_0000007 334.0 338.1 
+Jean_Smart/mlq7tAvAHWQ_0000008 347.0 357.5 
+Jean_Smart/mlq7tAvAHWQ_0000009 363.6 369.0 

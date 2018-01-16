@@ -1,0 +1,23 @@
+POI: 			Sarah_Gadon 
+Youtube ID: 	aZuTqteDmAE 
+Video length: 	326.2 sec 
+Set (V): 		dev 
+ 
+Sarah_Gadon/aZuTqteDmAE_0000001 12.4 16.4 
+Sarah_Gadon/aZuTqteDmAE_0000002 24.6 33.5 
+Sarah_Gadon/aZuTqteDmAE_0000003 50.0 59.8 
+Sarah_Gadon/aZuTqteDmAE_0000004 63.0 74.0 
+Sarah_Gadon/aZuTqteDmAE_0000005 76.1 90.7 
+Sarah_Gadon/aZuTqteDmAE_0000006 106.2 114.9 
+Sarah_Gadon/aZuTqteDmAE_0000007 115.4 130.2 
+Sarah_Gadon/aZuTqteDmAE_0000008 131.3 137.9 
+Sarah_Gadon/aZuTqteDmAE_0000009 150.3 156.0 
+Sarah_Gadon/aZuTqteDmAE_0000010 174.6 194.5 
+Sarah_Gadon/aZuTqteDmAE_0000011 207.0 216.2 
+Sarah_Gadon/aZuTqteDmAE_0000012 217.3 223.3 
+Sarah_Gadon/aZuTqteDmAE_0000013 242.3 250.5 
+Sarah_Gadon/aZuTqteDmAE_0000014 251.0 282.2 
+Sarah_Gadon/aZuTqteDmAE_0000015 253.3 262.4 
+Sarah_Gadon/aZuTqteDmAE_0000016 295.9 300.2 
+Sarah_Gadon/aZuTqteDmAE_0000017 303.2 312.7 
+Sarah_Gadon/aZuTqteDmAE_0000018 313.8 318.2 

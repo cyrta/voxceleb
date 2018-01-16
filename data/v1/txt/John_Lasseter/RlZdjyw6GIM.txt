@@ -1,0 +1,33 @@
+POI: 			John_Lasseter 
+Youtube ID: 	RlZdjyw6GIM 
+Video length: 	442.1 sec 
+Set (V): 		dev 
+ 
+John_Lasseter/RlZdjyw6GIM_0000001 09.5 17.4 
+John_Lasseter/RlZdjyw6GIM_0000002 37.2 42.8 
+John_Lasseter/RlZdjyw6GIM_0000003 49.4 58.2 
+John_Lasseter/RlZdjyw6GIM_0000004 50.4 54.9 
+John_Lasseter/RlZdjyw6GIM_0000005 75.5 80.9 
+John_Lasseter/RlZdjyw6GIM_0000006 87.6 97.0 
+John_Lasseter/RlZdjyw6GIM_0000007 108.7 114.1 
+John_Lasseter/RlZdjyw6GIM_0000008 114.8 138.2 
+John_Lasseter/RlZdjyw6GIM_0000009 129.6 140.0 
+John_Lasseter/RlZdjyw6GIM_0000010 145.4 163.4 
+John_Lasseter/RlZdjyw6GIM_0000011 165.0 183.0 
+John_Lasseter/RlZdjyw6GIM_0000012 203.0 209.7 
+John_Lasseter/RlZdjyw6GIM_0000013 210.5 216.2 
+John_Lasseter/RlZdjyw6GIM_0000014 216.5 226.9 
+John_Lasseter/RlZdjyw6GIM_0000015 228.6 232.8 
+John_Lasseter/RlZdjyw6GIM_0000016 242.8 248.1 
+John_Lasseter/RlZdjyw6GIM_0000017 244.6 254.4 
+John_Lasseter/RlZdjyw6GIM_0000018 265.5 270.2 
+John_Lasseter/RlZdjyw6GIM_0000019 271.8 277.1 
+John_Lasseter/RlZdjyw6GIM_0000020 281.1 288.7 
+John_Lasseter/RlZdjyw6GIM_0000021 298.2 303.6 
+John_Lasseter/RlZdjyw6GIM_0000022 322.9 329.0 
+John_Lasseter/RlZdjyw6GIM_0000023 332.0 337.7 
+John_Lasseter/RlZdjyw6GIM_0000024 338.3 363.4 
+John_Lasseter/RlZdjyw6GIM_0000025 372.6 379.8 
+John_Lasseter/RlZdjyw6GIM_0000026 380.2 385.2 
+John_Lasseter/RlZdjyw6GIM_0000027 390.9 407.3 
+John_Lasseter/RlZdjyw6GIM_0000028 408.1 433.9 

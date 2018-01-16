@@ -1,0 +1,14 @@
+POI: 			Lea_Michele 
+Youtube ID: 	N8Zb2bS2OAI 
+Video length: 	287.3 sec 
+Set (V): 		dev 
+ 
+Lea_Michele/N8Zb2bS2OAI_0000001 22.6 40.6 
+Lea_Michele/N8Zb2bS2OAI_0000002 62.6 69.1 
+Lea_Michele/N8Zb2bS2OAI_0000003 72.8 82.1 
+Lea_Michele/N8Zb2bS2OAI_0000004 84.4 99.4 
+Lea_Michele/N8Zb2bS2OAI_0000005 105.9 113.5 
+Lea_Michele/N8Zb2bS2OAI_0000006 166.8 172.4 
+Lea_Michele/N8Zb2bS2OAI_0000007 176.8 186.2 
+Lea_Michele/N8Zb2bS2OAI_0000008 218.4 223.1 
+Lea_Michele/N8Zb2bS2OAI_0000009 265.0 282.0 

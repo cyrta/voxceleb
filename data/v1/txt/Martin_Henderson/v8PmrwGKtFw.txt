@@ -1,0 +1,18 @@
+POI: 			Martin_Henderson 
+Youtube ID: 	v8PmrwGKtFw 
+Video length: 	310.6 sec 
+Set (V): 		dev 
+ 
+Martin_Henderson/v8PmrwGKtFw_0000001 33.2 40.6 
+Martin_Henderson/v8PmrwGKtFw_0000002 59.4 64.1 
+Martin_Henderson/v8PmrwGKtFw_0000003 73.6 79.4 
+Martin_Henderson/v8PmrwGKtFw_0000004 80.1 84.8 
+Martin_Henderson/v8PmrwGKtFw_0000005 116.8 122.5 
+Martin_Henderson/v8PmrwGKtFw_0000006 125.0 131.4 
+Martin_Henderson/v8PmrwGKtFw_0000007 153.7 158.1 
+Martin_Henderson/v8PmrwGKtFw_0000008 158.4 165.3 
+Martin_Henderson/v8PmrwGKtFw_0000009 193.8 199.2 
+Martin_Henderson/v8PmrwGKtFw_0000010 201.6 206.2 
+Martin_Henderson/v8PmrwGKtFw_0000011 206.9 215.8 
+Martin_Henderson/v8PmrwGKtFw_0000012 238.0 242.3 
+Martin_Henderson/v8PmrwGKtFw_0000013 270.8 281.9 

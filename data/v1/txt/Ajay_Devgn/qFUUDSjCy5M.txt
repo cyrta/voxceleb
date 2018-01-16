@@ -1,0 +1,13 @@
+POI: 			Ajay_Devgn 
+Youtube ID: 	qFUUDSjCy5M 
+Video length: 	374.2 sec 
+Set (V): 		dev 
+ 
+Ajay_Devgn/qFUUDSjCy5M_0000001 120.0 127.7 
+Ajay_Devgn/qFUUDSjCy5M_0000002 134.3 142.4 
+Ajay_Devgn/qFUUDSjCy5M_0000003 142.7 152.9 
+Ajay_Devgn/qFUUDSjCy5M_0000004 176.2 181.3 
+Ajay_Devgn/qFUUDSjCy5M_0000005 233.2 238.7 
+Ajay_Devgn/qFUUDSjCy5M_0000006 259.6 263.8 
+Ajay_Devgn/qFUUDSjCy5M_0000007 283.3 295.6 
+Ajay_Devgn/qFUUDSjCy5M_0000008 318.8 338.8 

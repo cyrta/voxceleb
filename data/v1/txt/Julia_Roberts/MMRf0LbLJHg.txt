@@ -1,0 +1,14 @@
+POI: 			Julia_Roberts 
+Youtube ID: 	MMRf0LbLJHg 
+Video length: 	764.6 sec 
+Set (V): 		dev 
+ 
+Julia_Roberts/MMRf0LbLJHg_0000001 110.6 115.0 
+Julia_Roberts/MMRf0LbLJHg_0000002 282.1 286.2 
+Julia_Roberts/MMRf0LbLJHg_0000003 420.9 428.1 
+Julia_Roberts/MMRf0LbLJHg_0000004 434.2 443.2 
+Julia_Roberts/MMRf0LbLJHg_0000005 437.0 445.5 
+Julia_Roberts/MMRf0LbLJHg_0000006 481.0 487.0 
+Julia_Roberts/MMRf0LbLJHg_0000007 490.9 498.7 
+Julia_Roberts/MMRf0LbLJHg_0000008 549.1 573.0 
+Julia_Roberts/MMRf0LbLJHg_0000009 589.3 593.2 

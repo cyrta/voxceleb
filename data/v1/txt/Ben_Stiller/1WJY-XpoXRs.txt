@@ -1,0 +1,8 @@
+POI: 			Ben_Stiller 
+Youtube ID: 	1WJY-XpoXRs 
+Video length: 	463.4 sec 
+Set (V): 		dev 
+ 
+Ben_Stiller/1WJY-XpoXRs_0000001 166.7 174.2 
+Ben_Stiller/1WJY-XpoXRs_0000002 174.8 184.0 
+Ben_Stiller/1WJY-XpoXRs_0000003 342.1 363.6 

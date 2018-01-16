@@ -1,0 +1,8 @@
+POI: 			Eduardo_Noriega 
+Youtube ID: 	cELY3LdIo-0 
+Video length: 	429.2 sec 
+Set (V): 		test 
+ 
+Eduardo_Noriega/cELY3LdIo-0_0000001 104.4 108.3 
+Eduardo_Noriega/cELY3LdIo-0_0000002 232.9 238.2 
+Eduardo_Noriega/cELY3LdIo-0_0000003 344.5 350.4 

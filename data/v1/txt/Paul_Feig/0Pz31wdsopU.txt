@@ -1,0 +1,15 @@
+POI: 			Paul_Feig 
+Youtube ID: 	0Pz31wdsopU 
+Video length: 	254.2 sec 
+Set (V): 		dev 
+ 
+Paul_Feig/0Pz31wdsopU_0000001 16.6 23.9 
+Paul_Feig/0Pz31wdsopU_0000002 24.1 35.1 
+Paul_Feig/0Pz31wdsopU_0000003 42.0 52.8 
+Paul_Feig/0Pz31wdsopU_0000004 54.8 65.8 
+Paul_Feig/0Pz31wdsopU_0000005 70.2 101.0 
+Paul_Feig/0Pz31wdsopU_0000006 108.4 123.6 
+Paul_Feig/0Pz31wdsopU_0000007 130.9 140.8 
+Paul_Feig/0Pz31wdsopU_0000008 141.5 150.2 
+Paul_Feig/0Pz31wdsopU_0000009 159.2 167.2 
+Paul_Feig/0Pz31wdsopU_0000010 222.5 234.5 

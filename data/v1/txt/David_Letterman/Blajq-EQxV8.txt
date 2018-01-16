@@ -1,0 +1,6 @@
+POI: 			David_Letterman 
+Youtube ID: 	Blajq-EQxV8 
+Video length: 	1122.7 sec 
+Set (V): 		dev 
+ 
+David_Letterman/Blajq-EQxV8_0000001 00.8 06.0 

@@ -1,0 +1,10 @@
+POI: 			Freddie_Highmore 
+Youtube ID: 	lm8Ub6-jhyE 
+Video length: 	409.9 sec 
+Set (V): 		dev 
+ 
+Freddie_Highmore/lm8Ub6-jhyE_0000001 57.7 63.1 
+Freddie_Highmore/lm8Ub6-jhyE_0000002 80.5 84.9 
+Freddie_Highmore/lm8Ub6-jhyE_0000003 209.8 214.3 
+Freddie_Highmore/lm8Ub6-jhyE_0000004 240.6 246.4 
+Freddie_Highmore/lm8Ub6-jhyE_0000005 281.7 286.6 

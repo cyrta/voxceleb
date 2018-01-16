@@ -1,0 +1,7 @@
+POI: 			Kat_Dennings 
+Youtube ID: 	73TmZlMNZd0 
+Video length: 	168.3 sec 
+Set (V): 		dev 
+ 
+Kat_Dennings/73TmZlMNZd0_0000001 15.8 20.6 
+Kat_Dennings/73TmZlMNZd0_0000002 77.5 82.6 

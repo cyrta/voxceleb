@@ -1,0 +1,17 @@
+POI: 			William_Fichtner 
+Youtube ID: 	r9xv1Mx0O-Y 
+Video length: 	436.7 sec 
+Set (V): 		dev 
+ 
+William_Fichtner/r9xv1Mx0O-Y_0000001 125.4 138.6 
+William_Fichtner/r9xv1Mx0O-Y_0000002 186.6 191.2 
+William_Fichtner/r9xv1Mx0O-Y_0000003 193.7 202.0 
+William_Fichtner/r9xv1Mx0O-Y_0000004 203.9 211.3 
+William_Fichtner/r9xv1Mx0O-Y_0000005 212.3 218.0 
+William_Fichtner/r9xv1Mx0O-Y_0000006 218.4 236.3 
+William_Fichtner/r9xv1Mx0O-Y_0000007 274.7 279.3 
+William_Fichtner/r9xv1Mx0O-Y_0000008 301.7 309.6 
+William_Fichtner/r9xv1Mx0O-Y_0000009 309.8 316.4 
+William_Fichtner/r9xv1Mx0O-Y_0000010 316.6 322.6 
+William_Fichtner/r9xv1Mx0O-Y_0000011 356.4 372.5 
+William_Fichtner/r9xv1Mx0O-Y_0000012 377.7 382.6 

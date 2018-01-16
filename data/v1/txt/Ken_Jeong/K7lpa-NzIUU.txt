@@ -1,0 +1,9 @@
+POI: 			Ken_Jeong 
+Youtube ID: 	K7lpa-NzIUU 
+Video length: 	298.8 sec 
+Set (V): 		dev 
+ 
+Ken_Jeong/K7lpa-NzIUU_0000001 39.9 47.4 
+Ken_Jeong/K7lpa-NzIUU_0000002 113.9 118.9 
+Ken_Jeong/K7lpa-NzIUU_0000003 123.4 129.0 
+Ken_Jeong/K7lpa-NzIUU_0000004 157.4 162.5 

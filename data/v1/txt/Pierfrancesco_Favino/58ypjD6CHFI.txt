@@ -1,0 +1,12 @@
+POI: 			Pierfrancesco_Favino 
+Youtube ID: 	58ypjD6CHFI 
+Video length: 	210.3 sec 
+Set (V): 		dev 
+ 
+Pierfrancesco_Favino/58ypjD6CHFI_0000001 34.8 40.1 
+Pierfrancesco_Favino/58ypjD6CHFI_0000002 41.5 45.8 
+Pierfrancesco_Favino/58ypjD6CHFI_0000003 82.4 88.5 
+Pierfrancesco_Favino/58ypjD6CHFI_0000004 99.8 104.1 
+Pierfrancesco_Favino/58ypjD6CHFI_0000005 125.6 129.6 
+Pierfrancesco_Favino/58ypjD6CHFI_0000006 134.8 140.9 
+Pierfrancesco_Favino/58ypjD6CHFI_0000007 181.8 192.0 

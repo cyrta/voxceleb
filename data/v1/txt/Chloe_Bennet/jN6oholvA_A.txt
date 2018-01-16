@@ -1,0 +1,11 @@
+POI: 			Chloe_Bennet 
+Youtube ID: 	jN6oholvA_A 
+Video length: 	248.8 sec 
+Set (V): 		dev 
+ 
+Chloe_Bennet/jN6oholvA_A_0000001 47.6 54.0 
+Chloe_Bennet/jN6oholvA_A_0000002 68.8 72.8 
+Chloe_Bennet/jN6oholvA_A_0000003 102.4 107.0 
+Chloe_Bennet/jN6oholvA_A_0000004 110.9 122.1 
+Chloe_Bennet/jN6oholvA_A_0000005 148.6 153.6 
+Chloe_Bennet/jN6oholvA_A_0000006 225.5 232.8 

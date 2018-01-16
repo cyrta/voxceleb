@@ -1,0 +1,16 @@
+POI: 			Tom_Ford 
+Youtube ID: 	Nd3iJIOaPHo 
+Video length: 	322.1 sec 
+Set (V): 		dev 
+ 
+Tom_Ford/Nd3iJIOaPHo_0000001 60.4 69.8 
+Tom_Ford/Nd3iJIOaPHo_0000002 75.6 130.0 
+Tom_Ford/Nd3iJIOaPHo_0000003 139.4 165.4 
+Tom_Ford/Nd3iJIOaPHo_0000004 165.6 171.4 
+Tom_Ford/Nd3iJIOaPHo_0000005 176.3 203.2 
+Tom_Ford/Nd3iJIOaPHo_0000006 203.8 210.8 
+Tom_Ford/Nd3iJIOaPHo_0000007 221.7 231.4 
+Tom_Ford/Nd3iJIOaPHo_0000008 234.2 239.6 
+Tom_Ford/Nd3iJIOaPHo_0000009 243.1 253.5 
+Tom_Ford/Nd3iJIOaPHo_0000010 256.3 265.2 
+Tom_Ford/Nd3iJIOaPHo_0000011 269.5 274.5 

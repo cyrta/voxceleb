@@ -1,0 +1,17 @@
+POI: 			Alan_Tudyk 
+Youtube ID: 	FPq99qjqaSc 
+Video length: 	673.6 sec 
+Set (V): 		dev 
+ 
+Alan_Tudyk/FPq99qjqaSc_0000001 108.9 115.3 
+Alan_Tudyk/FPq99qjqaSc_0000002 116.4 121.1 
+Alan_Tudyk/FPq99qjqaSc_0000003 121.6 125.8 
+Alan_Tudyk/FPq99qjqaSc_0000004 201.9 207.0 
+Alan_Tudyk/FPq99qjqaSc_0000005 212.7 218.0 
+Alan_Tudyk/FPq99qjqaSc_0000006 218.2 225.4 
+Alan_Tudyk/FPq99qjqaSc_0000007 227.4 234.3 
+Alan_Tudyk/FPq99qjqaSc_0000008 358.3 362.3 
+Alan_Tudyk/FPq99qjqaSc_0000009 455.8 460.6 
+Alan_Tudyk/FPq99qjqaSc_0000010 464.8 469.2 
+Alan_Tudyk/FPq99qjqaSc_0000011 479.8 484.4 
+Alan_Tudyk/FPq99qjqaSc_0000012 493.7 498.2 

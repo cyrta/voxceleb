@@ -1,0 +1,8 @@
+POI: 			Hailee_Steinfeld 
+Youtube ID: 	d8NGaORxPuQ 
+Video length: 	210.9 sec 
+Set (V): 		dev 
+ 
+Hailee_Steinfeld/d8NGaORxPuQ_0000001 38.4 43.0 
+Hailee_Steinfeld/d8NGaORxPuQ_0000002 51.5 71.3 
+Hailee_Steinfeld/d8NGaORxPuQ_0000003 131.8 140.4 

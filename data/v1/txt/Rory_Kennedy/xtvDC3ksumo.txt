@@ -1,0 +1,7 @@
+POI: 			Rory_Kennedy 
+Youtube ID: 	xtvDC3ksumo 
+Video length: 	159.2 sec 
+Set (V): 		dev 
+ 
+Rory_Kennedy/xtvDC3ksumo_0000001 114.0 120.6 
+Rory_Kennedy/xtvDC3ksumo_0000002 147.1 153.2 

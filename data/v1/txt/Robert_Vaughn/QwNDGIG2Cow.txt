@@ -1,0 +1,17 @@
+POI: 			Robert_Vaughn 
+Youtube ID: 	QwNDGIG2Cow 
+Video length: 	466.2 sec 
+Set (V): 		dev 
+ 
+Robert_Vaughn/QwNDGIG2Cow_0000001 97.0 106.8 
+Robert_Vaughn/QwNDGIG2Cow_0000002 124.0 129.4 
+Robert_Vaughn/QwNDGIG2Cow_0000003 131.6 136.8 
+Robert_Vaughn/QwNDGIG2Cow_0000004 169.6 173.7 
+Robert_Vaughn/QwNDGIG2Cow_0000005 186.3 192.9 
+Robert_Vaughn/QwNDGIG2Cow_0000006 208.1 212.6 
+Robert_Vaughn/QwNDGIG2Cow_0000007 267.8 273.0 
+Robert_Vaughn/QwNDGIG2Cow_0000008 279.8 285.6 
+Robert_Vaughn/QwNDGIG2Cow_0000009 298.6 305.0 
+Robert_Vaughn/QwNDGIG2Cow_0000010 329.3 335.1 
+Robert_Vaughn/QwNDGIG2Cow_0000011 384.5 391.7 
+Robert_Vaughn/QwNDGIG2Cow_0000012 399.4 406.8 

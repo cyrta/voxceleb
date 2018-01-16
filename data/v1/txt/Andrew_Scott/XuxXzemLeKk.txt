@@ -1,0 +1,10 @@
+POI: 			Andrew_Scott 
+Youtube ID: 	XuxXzemLeKk 
+Video length: 	130.0 sec 
+Set (V): 		dev 
+ 
+Andrew_Scott/XuxXzemLeKk_0000001 08.7 13.3 
+Andrew_Scott/XuxXzemLeKk_0000002 21.4 26.0 
+Andrew_Scott/XuxXzemLeKk_0000003 77.5 86.4 
+Andrew_Scott/XuxXzemLeKk_0000004 96.5 101.0 
+Andrew_Scott/XuxXzemLeKk_0000005 117.0 123.5 

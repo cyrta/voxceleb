@@ -1,0 +1,7 @@
+POI: 			Ruta_Lee 
+Youtube ID: 	Doc8Q_gH-qs 
+Video length: 	166.0 sec 
+Set (V): 		dev 
+ 
+Ruta_Lee/Doc8Q_gH-qs_0000001 63.4 70.3 
+Ruta_Lee/Doc8Q_gH-qs_0000002 87.5 94.9 

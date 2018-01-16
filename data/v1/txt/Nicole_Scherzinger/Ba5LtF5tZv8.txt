@@ -1,0 +1,11 @@
+POI: 			Nicole_Scherzinger 
+Youtube ID: 	Ba5LtF5tZv8 
+Video length: 	455.1 sec 
+Set (V): 		dev 
+ 
+Nicole_Scherzinger/Ba5LtF5tZv8_0000001 79.1 84.8 
+Nicole_Scherzinger/Ba5LtF5tZv8_0000002 99.4 105.9 
+Nicole_Scherzinger/Ba5LtF5tZv8_0000003 160.8 170.6 
+Nicole_Scherzinger/Ba5LtF5tZv8_0000004 234.3 239.8 
+Nicole_Scherzinger/Ba5LtF5tZv8_0000005 267.7 277.1 
+Nicole_Scherzinger/Ba5LtF5tZv8_0000006 294.9 305.9 

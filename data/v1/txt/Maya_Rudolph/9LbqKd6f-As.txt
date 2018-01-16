@@ -1,0 +1,9 @@
+POI: 			Maya_Rudolph 
+Youtube ID: 	9LbqKd6f-As 
+Video length: 	246.2 sec 
+Set (V): 		dev 
+ 
+Maya_Rudolph/9LbqKd6f-As_0000001 10.9 17.4 
+Maya_Rudolph/9LbqKd6f-As_0000002 22.5 27.4 
+Maya_Rudolph/9LbqKd6f-As_0000003 97.7 106.7 
+Maya_Rudolph/9LbqKd6f-As_0000004 180.7 190.9 

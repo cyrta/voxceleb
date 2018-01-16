@@ -1,0 +1,7 @@
+POI: 			Dougray_Scott 
+Youtube ID: 	T9xfNxUF0c4 
+Video length: 	346.9 sec 
+Set (V): 		dev 
+ 
+Dougray_Scott/T9xfNxUF0c4_0000001 129.6 137.0 
+Dougray_Scott/T9xfNxUF0c4_0000002 147.9 151.8 

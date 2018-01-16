@@ -1,0 +1,8 @@
+POI: 			Kiefer_Sutherland 
+Youtube ID: 	SEACo1BA08k 
+Video length: 	417.1 sec 
+Set (V): 		dev 
+ 
+Kiefer_Sutherland/SEACo1BA08k_0000001 50.7 56.8 
+Kiefer_Sutherland/SEACo1BA08k_0000002 311.4 321.7 
+Kiefer_Sutherland/SEACo1BA08k_0000003 340.5 346.3 

@@ -1,0 +1,9 @@
+POI: 			Michelle_Williams 
+Youtube ID: 	Ts3v6-0IHMA 
+Video length: 	282.1 sec 
+Set (V): 		dev 
+ 
+Michelle_Williams/Ts3v6-0IHMA_0000001 10.5 19.4 
+Michelle_Williams/Ts3v6-0IHMA_0000002 51.6 58.8 
+Michelle_Williams/Ts3v6-0IHMA_0000003 141.8 147.2 
+Michelle_Williams/Ts3v6-0IHMA_0000004 221.1 225.5 

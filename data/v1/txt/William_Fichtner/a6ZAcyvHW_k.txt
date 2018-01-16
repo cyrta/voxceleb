@@ -1,0 +1,17 @@
+POI: 			William_Fichtner 
+Youtube ID: 	a6ZAcyvHW_k 
+Video length: 	196.3 sec 
+Set (V): 		dev 
+ 
+William_Fichtner/a6ZAcyvHW_k_0000001 31.0 36.2 
+William_Fichtner/a6ZAcyvHW_k_0000002 36.6 49.5 
+William_Fichtner/a6ZAcyvHW_k_0000003 51.5 63.4 
+William_Fichtner/a6ZAcyvHW_k_0000004 76.1 80.2 
+William_Fichtner/a6ZAcyvHW_k_0000005 91.7 97.4 
+William_Fichtner/a6ZAcyvHW_k_0000006 99.3 107.9 
+William_Fichtner/a6ZAcyvHW_k_0000007 110.0 114.4 
+William_Fichtner/a6ZAcyvHW_k_0000008 116.9 133.8 
+William_Fichtner/a6ZAcyvHW_k_0000009 143.2 151.5 
+William_Fichtner/a6ZAcyvHW_k_0000010 154.8 180.0 
+William_Fichtner/a6ZAcyvHW_k_0000011 180.1 184.9 
+William_Fichtner/a6ZAcyvHW_k_0000012 185.4 189.5 

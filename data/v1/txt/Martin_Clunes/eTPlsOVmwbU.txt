@@ -1,0 +1,23 @@
+POI: 			Martin_Clunes 
+Youtube ID: 	eTPlsOVmwbU 
+Video length: 	888.7 sec 
+Set (V): 		dev 
+ 
+Martin_Clunes/eTPlsOVmwbU_0000001 84.6 89.0 
+Martin_Clunes/eTPlsOVmwbU_0000002 89.6 94.6 
+Martin_Clunes/eTPlsOVmwbU_0000003 108.8 113.7 
+Martin_Clunes/eTPlsOVmwbU_0000004 200.8 205.8 
+Martin_Clunes/eTPlsOVmwbU_0000005 223.1 227.4 
+Martin_Clunes/eTPlsOVmwbU_0000006 260.2 265.0 
+Martin_Clunes/eTPlsOVmwbU_0000007 297.7 302.3 
+Martin_Clunes/eTPlsOVmwbU_0000008 319.1 323.6 
+Martin_Clunes/eTPlsOVmwbU_0000009 377.9 384.4 
+Martin_Clunes/eTPlsOVmwbU_0000010 489.3 494.8 
+Martin_Clunes/eTPlsOVmwbU_0000011 511.6 523.2 
+Martin_Clunes/eTPlsOVmwbU_0000012 624.5 629.6 
+Martin_Clunes/eTPlsOVmwbU_0000013 644.2 649.4 
+Martin_Clunes/eTPlsOVmwbU_0000014 654.0 661.0 
+Martin_Clunes/eTPlsOVmwbU_0000015 674.0 684.9 
+Martin_Clunes/eTPlsOVmwbU_0000016 766.1 773.5 
+Martin_Clunes/eTPlsOVmwbU_0000017 788.6 793.1 
+Martin_Clunes/eTPlsOVmwbU_0000018 796.3 806.4 

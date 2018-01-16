@@ -1,0 +1,13 @@
+POI: 			Jared_Harris 
+Youtube ID: 	1X8DYE_e_wk 
+Video length: 	266.0 sec 
+Set (V): 		dev 
+ 
+Jared_Harris/1X8DYE_e_wk_0000001 20.6 28.0 
+Jared_Harris/1X8DYE_e_wk_0000002 29.9 37.8 
+Jared_Harris/1X8DYE_e_wk_0000003 37.8 50.5 
+Jared_Harris/1X8DYE_e_wk_0000004 124.4 129.6 
+Jared_Harris/1X8DYE_e_wk_0000005 131.4 146.3 
+Jared_Harris/1X8DYE_e_wk_0000006 147.2 154.5 
+Jared_Harris/1X8DYE_e_wk_0000007 159.2 175.4 
+Jared_Harris/1X8DYE_e_wk_0000008 180.3 188.8 

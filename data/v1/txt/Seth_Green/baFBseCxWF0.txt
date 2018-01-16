@@ -1,0 +1,11 @@
+POI: 			Seth_Green 
+Youtube ID: 	baFBseCxWF0 
+Video length: 	299.3 sec 
+Set (V): 		dev 
+ 
+Seth_Green/baFBseCxWF0_0000001 17.4 29.6 
+Seth_Green/baFBseCxWF0_0000002 31.9 43.2 
+Seth_Green/baFBseCxWF0_0000003 49.2 53.4 
+Seth_Green/baFBseCxWF0_0000004 174.0 199.8 
+Seth_Green/baFBseCxWF0_0000005 208.2 216.5 
+Seth_Green/baFBseCxWF0_0000006 267.6 278.1 

@@ -1,0 +1,18 @@
+POI: 			Julie_Chen 
+Youtube ID: 	b5a-RWi8xuk 
+Video length: 	575.0 sec 
+Set (V): 		dev 
+ 
+Julie_Chen/b5a-RWi8xuk_0000001 81.1 94.9 
+Julie_Chen/b5a-RWi8xuk_0000002 120.4 125.5 
+Julie_Chen/b5a-RWi8xuk_0000003 130.2 137.5 
+Julie_Chen/b5a-RWi8xuk_0000004 237.6 245.4 
+Julie_Chen/b5a-RWi8xuk_0000005 270.0 284.6 
+Julie_Chen/b5a-RWi8xuk_0000006 360.2 366.5 
+Julie_Chen/b5a-RWi8xuk_0000007 386.6 406.6 
+Julie_Chen/b5a-RWi8xuk_0000008 410.7 418.1 
+Julie_Chen/b5a-RWi8xuk_0000009 473.3 503.3 
+Julie_Chen/b5a-RWi8xuk_0000010 506.5 513.6 
+Julie_Chen/b5a-RWi8xuk_0000011 515.0 521.2 
+Julie_Chen/b5a-RWi8xuk_0000012 522.0 530.0 
+Julie_Chen/b5a-RWi8xuk_0000013 538.6 543.1 

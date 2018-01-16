@@ -1,0 +1,8 @@
+POI: 			Rob_Corddry 
+Youtube ID: 	lokm_qhYZPs 
+Video length: 	204.1 sec 
+Set (V): 		dev 
+ 
+Rob_Corddry/lokm_qhYZPs_0000001 43.1 50.3 
+Rob_Corddry/lokm_qhYZPs_0000002 110.2 114.7 
+Rob_Corddry/lokm_qhYZPs_0000003 115.8 121.3 

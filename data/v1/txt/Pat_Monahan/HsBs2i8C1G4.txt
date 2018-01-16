@@ -1,0 +1,22 @@
+POI: 			Pat_Monahan 
+Youtube ID: 	HsBs2i8C1G4 
+Video length: 	274.5 sec 
+Set (V): 		dev 
+ 
+Pat_Monahan/HsBs2i8C1G4_0000001 27.2 33.4 
+Pat_Monahan/HsBs2i8C1G4_0000002 34.6 45.2 
+Pat_Monahan/HsBs2i8C1G4_0000003 49.8 58.3 
+Pat_Monahan/HsBs2i8C1G4_0000004 62.6 69.4 
+Pat_Monahan/HsBs2i8C1G4_0000005 73.5 79.0 
+Pat_Monahan/HsBs2i8C1G4_0000006 81.3 88.8 
+Pat_Monahan/HsBs2i8C1G4_0000007 91.8 100.2 
+Pat_Monahan/HsBs2i8C1G4_0000008 100.5 107.2 
+Pat_Monahan/HsBs2i8C1G4_0000009 155.2 163.2 
+Pat_Monahan/HsBs2i8C1G4_0000010 163.4 167.4 
+Pat_Monahan/HsBs2i8C1G4_0000011 169.4 178.1 
+Pat_Monahan/HsBs2i8C1G4_0000012 194.0 198.0 
+Pat_Monahan/HsBs2i8C1G4_0000013 203.9 210.6 
+Pat_Monahan/HsBs2i8C1G4_0000014 217.8 223.4 
+Pat_Monahan/HsBs2i8C1G4_0000015 239.6 249.6 
+Pat_Monahan/HsBs2i8C1G4_0000016 250.6 256.0 
+Pat_Monahan/HsBs2i8C1G4_0000017 260.0 268.3 

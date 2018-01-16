@@ -1,0 +1,20 @@
+POI: 			Alan_Cumming 
+Youtube ID: 	x9_EOXlEXds 
+Video length: 	375.4 sec 
+Set (V): 		dev 
+ 
+Alan_Cumming/x9_EOXlEXds_0000001 23.3 32.7 
+Alan_Cumming/x9_EOXlEXds_0000002 39.2 45.5 
+Alan_Cumming/x9_EOXlEXds_0000003 70.4 74.8 
+Alan_Cumming/x9_EOXlEXds_0000004 151.8 161.1 
+Alan_Cumming/x9_EOXlEXds_0000005 167.3 172.8 
+Alan_Cumming/x9_EOXlEXds_0000006 180.8 188.2 
+Alan_Cumming/x9_EOXlEXds_0000007 223.6 229.1 
+Alan_Cumming/x9_EOXlEXds_0000008 232.2 240.6 
+Alan_Cumming/x9_EOXlEXds_0000009 262.2 269.7 
+Alan_Cumming/x9_EOXlEXds_0000010 278.6 282.8 
+Alan_Cumming/x9_EOXlEXds_0000011 313.1 318.0 
+Alan_Cumming/x9_EOXlEXds_0000012 331.8 338.4 
+Alan_Cumming/x9_EOXlEXds_0000013 346.8 355.1 
+Alan_Cumming/x9_EOXlEXds_0000014 355.4 362.5 
+Alan_Cumming/x9_EOXlEXds_0000015 368.5 373.6 

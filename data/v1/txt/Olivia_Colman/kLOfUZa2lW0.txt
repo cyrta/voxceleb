@@ -1,0 +1,7 @@
+POI: 			Olivia_Colman 
+Youtube ID: 	kLOfUZa2lW0 
+Video length: 	216.2 sec 
+Set (V): 		dev 
+ 
+Olivia_Colman/kLOfUZa2lW0_0000001 45.7 49.9 
+Olivia_Colman/kLOfUZa2lW0_0000002 91.9 98.5 

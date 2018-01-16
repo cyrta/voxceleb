@@ -1,0 +1,14 @@
+POI: 			Eva_Longoria 
+Youtube ID: 	cR5FfR4TbEI 
+Video length: 	613.4 sec 
+Set (V): 		test 
+ 
+Eva_Longoria/cR5FfR4TbEI_0000001 126.5 138.2 
+Eva_Longoria/cR5FfR4TbEI_0000002 157.6 166.3 
+Eva_Longoria/cR5FfR4TbEI_0000003 290.5 295.8 
+Eva_Longoria/cR5FfR4TbEI_0000004 304.8 309.6 
+Eva_Longoria/cR5FfR4TbEI_0000005 376.0 382.0 
+Eva_Longoria/cR5FfR4TbEI_0000006 446.1 464.8 
+Eva_Longoria/cR5FfR4TbEI_0000007 473.5 478.9 
+Eva_Longoria/cR5FfR4TbEI_0000008 499.1 512.8 
+Eva_Longoria/cR5FfR4TbEI_0000009 540.9 552.5 

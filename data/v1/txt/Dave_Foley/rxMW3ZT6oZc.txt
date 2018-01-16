@@ -1,0 +1,15 @@
+POI: 			Dave_Foley 
+Youtube ID: 	rxMW3ZT6oZc 
+Video length: 	664.6 sec 
+Set (V): 		dev 
+ 
+Dave_Foley/rxMW3ZT6oZc_0000001 176.7 181.5 
+Dave_Foley/rxMW3ZT6oZc_0000002 193.0 198.4 
+Dave_Foley/rxMW3ZT6oZc_0000003 260.7 265.9 
+Dave_Foley/rxMW3ZT6oZc_0000004 323.7 330.7 
+Dave_Foley/rxMW3ZT6oZc_0000005 337.1 342.0 
+Dave_Foley/rxMW3ZT6oZc_0000006 392.6 399.4 
+Dave_Foley/rxMW3ZT6oZc_0000007 452.1 458.7 
+Dave_Foley/rxMW3ZT6oZc_0000008 582.6 591.2 
+Dave_Foley/rxMW3ZT6oZc_0000009 598.8 610.1 
+Dave_Foley/rxMW3ZT6oZc_0000010 638.3 643.4 

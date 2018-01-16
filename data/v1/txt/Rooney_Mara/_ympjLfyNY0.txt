@@ -1,0 +1,14 @@
+POI: 			Rooney_Mara 
+Youtube ID: 	_ympjLfyNY0 
+Video length: 	505.3 sec 
+Set (V): 		dev 
+ 
+Rooney_Mara/_ympjLfyNY0_0000001 56.0 67.6 
+Rooney_Mara/_ympjLfyNY0_0000002 106.4 111.4 
+Rooney_Mara/_ympjLfyNY0_0000003 111.8 116.6 
+Rooney_Mara/_ympjLfyNY0_0000004 202.6 209.0 
+Rooney_Mara/_ympjLfyNY0_0000005 209.8 219.4 
+Rooney_Mara/_ympjLfyNY0_0000006 219.8 224.8 
+Rooney_Mara/_ympjLfyNY0_0000007 393.0 398.8 
+Rooney_Mara/_ympjLfyNY0_0000008 404.0 409.4 
+Rooney_Mara/_ympjLfyNY0_0000009 451.3 458.0 

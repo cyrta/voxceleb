@@ -1,0 +1,18 @@
+POI: 			Josh_Gad 
+Youtube ID: 	NedMpwCXRWw 
+Video length: 	355.1 sec 
+Set (V): 		dev 
+ 
+Josh_Gad/NedMpwCXRWw_0000001 08.5 14.2 
+Josh_Gad/NedMpwCXRWw_0000002 16.0 23.2 
+Josh_Gad/NedMpwCXRWw_0000003 24.2 29.3 
+Josh_Gad/NedMpwCXRWw_0000004 30.7 34.8 
+Josh_Gad/NedMpwCXRWw_0000005 66.8 73.0 
+Josh_Gad/NedMpwCXRWw_0000006 157.3 161.4 
+Josh_Gad/NedMpwCXRWw_0000007 167.5 175.6 
+Josh_Gad/NedMpwCXRWw_0000008 192.3 199.6 
+Josh_Gad/NedMpwCXRWw_0000009 279.4 283.8 
+Josh_Gad/NedMpwCXRWw_0000010 286.1 299.1 
+Josh_Gad/NedMpwCXRWw_0000011 302.9 321.8 
+Josh_Gad/NedMpwCXRWw_0000012 333.9 339.7 
+Josh_Gad/NedMpwCXRWw_0000013 341.6 347.8 

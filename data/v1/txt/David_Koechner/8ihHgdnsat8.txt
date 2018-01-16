@@ -1,0 +1,13 @@
+POI: 			David_Koechner 
+Youtube ID: 	8ihHgdnsat8 
+Video length: 	365.5 sec 
+Set (V): 		dev 
+ 
+David_Koechner/8ihHgdnsat8_0000001 65.4 70.6 
+David_Koechner/8ihHgdnsat8_0000002 93.0 97.9 
+David_Koechner/8ihHgdnsat8_0000003 92.3 97.8 
+David_Koechner/8ihHgdnsat8_0000004 127.9 134.7 
+David_Koechner/8ihHgdnsat8_0000005 216.9 228.5 
+David_Koechner/8ihHgdnsat8_0000006 230.8 235.0 
+David_Koechner/8ihHgdnsat8_0000007 245.6 251.0 
+David_Koechner/8ihHgdnsat8_0000008 311.4 317.3 

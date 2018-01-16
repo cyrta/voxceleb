@@ -1,0 +1,12 @@
+POI: 			Steve_Martin 
+Youtube ID: 	EqbtPIQR3B0 
+Video length: 	432.1 sec 
+Set (V): 		dev 
+ 
+Steve_Martin/EqbtPIQR3B0_0000001 62.3 66.3 
+Steve_Martin/EqbtPIQR3B0_0000002 67.4 71.6 
+Steve_Martin/EqbtPIQR3B0_0000003 78.9 87.9 
+Steve_Martin/EqbtPIQR3B0_0000004 125.8 134.5 
+Steve_Martin/EqbtPIQR3B0_0000005 142.5 151.2 
+Steve_Martin/EqbtPIQR3B0_0000006 260.2 265.0 
+Steve_Martin/EqbtPIQR3B0_0000007 302.2 313.0 

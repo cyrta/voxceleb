@@ -1,0 +1,19 @@
+POI: 			Jared_Harris 
+Youtube ID: 	OrhwR5eXivM 
+Video length: 	265.2 sec 
+Set (V): 		dev 
+ 
+Jared_Harris/OrhwR5eXivM_0000001 26.8 31.3 
+Jared_Harris/OrhwR5eXivM_0000002 42.7 47.0 
+Jared_Harris/OrhwR5eXivM_0000003 53.8 58.8 
+Jared_Harris/OrhwR5eXivM_0000004 65.4 75.7 
+Jared_Harris/OrhwR5eXivM_0000005 88.0 95.4 
+Jared_Harris/OrhwR5eXivM_0000006 60.0 64.3 
+Jared_Harris/OrhwR5eXivM_0000007 117.7 123.8 
+Jared_Harris/OrhwR5eXivM_0000008 135.7 142.9 
+Jared_Harris/OrhwR5eXivM_0000009 147.0 151.0 
+Jared_Harris/OrhwR5eXivM_0000010 158.0 162.2 
+Jared_Harris/OrhwR5eXivM_0000011 172.6 177.0 
+Jared_Harris/OrhwR5eXivM_0000012 205.4 215.6 
+Jared_Harris/OrhwR5eXivM_0000013 225.8 229.8 
+Jared_Harris/OrhwR5eXivM_0000014 243.4 247.8 

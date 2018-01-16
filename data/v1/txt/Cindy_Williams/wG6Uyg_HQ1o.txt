@@ -1,0 +1,12 @@
+POI: 			Cindy_Williams 
+Youtube ID: 	wG6Uyg_HQ1o 
+Video length: 	144.0 sec 
+Set (V): 		dev 
+ 
+Cindy_Williams/wG6Uyg_HQ1o_0000001 09.4 15.0 
+Cindy_Williams/wG6Uyg_HQ1o_0000002 17.2 21.2 
+Cindy_Williams/wG6Uyg_HQ1o_0000003 37.9 45.8 
+Cindy_Williams/wG6Uyg_HQ1o_0000004 56.3 64.2 
+Cindy_Williams/wG6Uyg_HQ1o_0000005 64.9 73.0 
+Cindy_Williams/wG6Uyg_HQ1o_0000006 77.0 91.7 
+Cindy_Williams/wG6Uyg_HQ1o_0000007 119.2 135.6 

@@ -1,0 +1,9 @@
+POI: 			Sarah_Palin 
+Youtube ID: 	bfTvRxpmcTs 
+Video length: 	328.0 sec 
+Set (V): 		dev 
+ 
+Sarah_Palin/bfTvRxpmcTs_0000001 16.8 24.2 
+Sarah_Palin/bfTvRxpmcTs_0000002 94.8 101.0 
+Sarah_Palin/bfTvRxpmcTs_0000003 121.5 130.9 
+Sarah_Palin/bfTvRxpmcTs_0000004 279.7 284.6 

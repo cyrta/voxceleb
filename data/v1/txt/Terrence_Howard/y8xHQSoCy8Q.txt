@@ -1,0 +1,32 @@
+POI: 			Terrence_Howard 
+Youtube ID: 	y8xHQSoCy8Q 
+Video length: 	489.5 sec 
+Set (V): 		dev 
+ 
+Terrence_Howard/y8xHQSoCy8Q_0000001 15.6 26.6 
+Terrence_Howard/y8xHQSoCy8Q_0000002 26.8 40.6 
+Terrence_Howard/y8xHQSoCy8Q_0000003 41.0 47.0 
+Terrence_Howard/y8xHQSoCy8Q_0000004 63.5 68.4 
+Terrence_Howard/y8xHQSoCy8Q_0000005 68.6 90.3 
+Terrence_Howard/y8xHQSoCy8Q_0000006 90.9 109.8 
+Terrence_Howard/y8xHQSoCy8Q_0000007 119.8 124.0 
+Terrence_Howard/y8xHQSoCy8Q_0000008 129.3 140.5 
+Terrence_Howard/y8xHQSoCy8Q_0000009 142.9 155.7 
+Terrence_Howard/y8xHQSoCy8Q_0000010 169.0 182.9 
+Terrence_Howard/y8xHQSoCy8Q_0000011 200.0 208.0 
+Terrence_Howard/y8xHQSoCy8Q_0000012 208.1 223.3 
+Terrence_Howard/y8xHQSoCy8Q_0000013 225.0 240.0 
+Terrence_Howard/y8xHQSoCy8Q_0000014 241.8 272.2 
+Terrence_Howard/y8xHQSoCy8Q_0000015 272.3 281.3 
+Terrence_Howard/y8xHQSoCy8Q_0000016 300.6 306.5 
+Terrence_Howard/y8xHQSoCy8Q_0000017 323.1 332.6 
+Terrence_Howard/y8xHQSoCy8Q_0000018 333.2 337.3 
+Terrence_Howard/y8xHQSoCy8Q_0000019 338.0 344.7 
+Terrence_Howard/y8xHQSoCy8Q_0000020 365.7 369.9 
+Terrence_Howard/y8xHQSoCy8Q_0000021 378.3 383.5 
+Terrence_Howard/y8xHQSoCy8Q_0000022 384.1 394.6 
+Terrence_Howard/y8xHQSoCy8Q_0000023 395.0 405.7 
+Terrence_Howard/y8xHQSoCy8Q_0000024 410.0 417.8 
+Terrence_Howard/y8xHQSoCy8Q_0000025 445.2 451.4 
+Terrence_Howard/y8xHQSoCy8Q_0000026 451.6 462.7 
+Terrence_Howard/y8xHQSoCy8Q_0000027 474.4 478.7 

@@ -1,0 +1,17 @@
+POI: 			Jeremy_Piven 
+Youtube ID: 	rHar67Ss7e8 
+Video length: 	528.4 sec 
+Set (V): 		dev 
+ 
+Jeremy_Piven/rHar67Ss7e8_0000001 64.0 77.2 
+Jeremy_Piven/rHar67Ss7e8_0000002 200.7 206.0 
+Jeremy_Piven/rHar67Ss7e8_0000003 235.2 246.4 
+Jeremy_Piven/rHar67Ss7e8_0000004 255.4 263.4 
+Jeremy_Piven/rHar67Ss7e8_0000005 273.9 278.7 
+Jeremy_Piven/rHar67Ss7e8_0000006 279.0 284.6 
+Jeremy_Piven/rHar67Ss7e8_0000007 303.8 308.8 
+Jeremy_Piven/rHar67Ss7e8_0000008 309.2 313.2 
+Jeremy_Piven/rHar67Ss7e8_0000009 315.7 321.5 
+Jeremy_Piven/rHar67Ss7e8_0000010 405.9 417.6 
+Jeremy_Piven/rHar67Ss7e8_0000011 432.4 438.5 
+Jeremy_Piven/rHar67Ss7e8_0000012 438.8 449.3 

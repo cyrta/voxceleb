@@ -1,0 +1,9 @@
+POI: 			Raini_Rodriguez 
+Youtube ID: 	eTg_ONDWG10 
+Video length: 	171.4 sec 
+Set (V): 		dev 
+ 
+Raini_Rodriguez/eTg_ONDWG10_0000001 75.6 80.1 
+Raini_Rodriguez/eTg_ONDWG10_0000002 102.4 108.0 
+Raini_Rodriguez/eTg_ONDWG10_0000003 110.9 117.0 
+Raini_Rodriguez/eTg_ONDWG10_0000004 147.6 152.6 

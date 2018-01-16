@@ -1,0 +1,8 @@
+POI: 			David_Oyelowo 
+Youtube ID: 	aD7NRTsU4M4 
+Video length: 	251.0 sec 
+Set (V): 		dev 
+ 
+David_Oyelowo/aD7NRTsU4M4_0000001 123.4 160.2 
+David_Oyelowo/aD7NRTsU4M4_0000002 162.6 168.2 
+David_Oyelowo/aD7NRTsU4M4_0000003 203.0 240.3 

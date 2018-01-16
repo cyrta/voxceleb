@@ -1,0 +1,8 @@
+POI: 			Dustin_Milligan 
+Youtube ID: 	91OE4iw4V-Q 
+Video length: 	235.5 sec 
+Set (V): 		dev 
+ 
+Dustin_Milligan/91OE4iw4V-Q_0000001 90.2 117.0 
+Dustin_Milligan/91OE4iw4V-Q_0000002 143.0 159.4 
+Dustin_Milligan/91OE4iw4V-Q_0000003 180.5 188.2 

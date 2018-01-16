@@ -1,0 +1,15 @@
+POI: 			Teri_Hatcher 
+Youtube ID: 	qe2K2fHL090 
+Video length: 	389.7 sec 
+Set (V): 		dev 
+ 
+Teri_Hatcher/qe2K2fHL090_0000001 70.0 76.5 
+Teri_Hatcher/qe2K2fHL090_0000002 100.0 107.3 
+Teri_Hatcher/qe2K2fHL090_0000003 111.0 119.3 
+Teri_Hatcher/qe2K2fHL090_0000004 177.7 185.1 
+Teri_Hatcher/qe2K2fHL090_0000005 196.3 202.4 
+Teri_Hatcher/qe2K2fHL090_0000006 235.6 241.7 
+Teri_Hatcher/qe2K2fHL090_0000007 254.0 259.3 
+Teri_Hatcher/qe2K2fHL090_0000008 277.9 282.3 
+Teri_Hatcher/qe2K2fHL090_0000009 292.4 298.3 
+Teri_Hatcher/qe2K2fHL090_0000010 314.8 324.5 

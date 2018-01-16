@@ -1,0 +1,10 @@
+POI: 			Tinsel_Korey 
+Youtube ID: 	z_3ykAjgJO0 
+Video length: 	168.5 sec 
+Set (V): 		dev 
+ 
+Tinsel_Korey/z_3ykAjgJO0_0000001 40.0 46.4 
+Tinsel_Korey/z_3ykAjgJO0_0000002 52.8 69.3 
+Tinsel_Korey/z_3ykAjgJO0_0000003 82.4 88.5 
+Tinsel_Korey/z_3ykAjgJO0_0000004 111.3 117.4 
+Tinsel_Korey/z_3ykAjgJO0_0000005 128.2 134.1 

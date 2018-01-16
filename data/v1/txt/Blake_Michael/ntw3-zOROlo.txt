@@ -1,0 +1,15 @@
+POI: 			Blake_Michael 
+Youtube ID: 	ntw3-zOROlo 
+Video length: 	231.0 sec 
+Set (V): 		dev 
+ 
+Blake_Michael/ntw3-zOROlo_0000001 42.6 50.0 
+Blake_Michael/ntw3-zOROlo_0000002 67.0 72.3 
+Blake_Michael/ntw3-zOROlo_0000003 88.4 93.3 
+Blake_Michael/ntw3-zOROlo_0000004 94.0 99.7 
+Blake_Michael/ntw3-zOROlo_0000005 104.1 109.6 
+Blake_Michael/ntw3-zOROlo_0000006 131.6 138.1 
+Blake_Michael/ntw3-zOROlo_0000007 140.0 145.5 
+Blake_Michael/ntw3-zOROlo_0000008 166.2 170.6 
+Blake_Michael/ntw3-zOROlo_0000009 175.7 180.2 
+Blake_Michael/ntw3-zOROlo_0000010 182.6 190.8 

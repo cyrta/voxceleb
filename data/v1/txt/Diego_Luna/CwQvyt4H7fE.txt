@@ -1,0 +1,9 @@
+POI: 			Diego_Luna 
+Youtube ID: 	CwQvyt4H7fE 
+Video length: 	129.6 sec 
+Set (V): 		dev 
+ 
+Diego_Luna/CwQvyt4H7fE_0000001 26.9 36.3 
+Diego_Luna/CwQvyt4H7fE_0000002 52.9 57.0 
+Diego_Luna/CwQvyt4H7fE_0000003 57.6 64.1 
+Diego_Luna/CwQvyt4H7fE_0000004 102.0 107.8 

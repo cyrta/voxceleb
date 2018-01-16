@@ -1,0 +1,17 @@
+POI: 			Chris_Messina 
+Youtube ID: 	dv2VMH0YM10 
+Video length: 	305.1 sec 
+Set (V): 		dev 
+ 
+Chris_Messina/dv2VMH0YM10_0000001 21.4 25.5 
+Chris_Messina/dv2VMH0YM10_0000002 69.7 73.8 
+Chris_Messina/dv2VMH0YM10_0000003 94.2 99.1 
+Chris_Messina/dv2VMH0YM10_0000004 125.4 129.8 
+Chris_Messina/dv2VMH0YM10_0000005 133.1 140.9 
+Chris_Messina/dv2VMH0YM10_0000006 142.2 146.5 
+Chris_Messina/dv2VMH0YM10_0000007 152.4 157.3 
+Chris_Messina/dv2VMH0YM10_0000008 168.8 175.5 
+Chris_Messina/dv2VMH0YM10_0000009 179.2 186.6 
+Chris_Messina/dv2VMH0YM10_0000010 194.2 198.3 
+Chris_Messina/dv2VMH0YM10_0000011 203.4 207.4 
+Chris_Messina/dv2VMH0YM10_0000012 267.0 273.5 

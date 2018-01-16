@@ -1,0 +1,7 @@
+POI: 			Brad_Paisley 
+Youtube ID: 	dDXi-6cS7o8 
+Video length: 	118.1 sec 
+Set (V): 		dev 
+ 
+Brad_Paisley/dDXi-6cS7o8_0000001 17.3 21.8 
+Brad_Paisley/dDXi-6cS7o8_0000002 64.9 71.7 

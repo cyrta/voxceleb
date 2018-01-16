@@ -1,0 +1,9 @@
+POI: 			Henry_Cavill 
+Youtube ID: 	ffqAuCpsyAA 
+Video length: 	530.7 sec 
+Set (V): 		dev 
+ 
+Henry_Cavill/ffqAuCpsyAA_0000001 166.8 175.4 
+Henry_Cavill/ffqAuCpsyAA_0000002 289.3 294.0 
+Henry_Cavill/ffqAuCpsyAA_0000003 295.1 303.9 
+Henry_Cavill/ffqAuCpsyAA_0000004 466.1 473.9 

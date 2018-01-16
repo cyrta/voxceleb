@@ -1,0 +1,18 @@
+POI: 			Mark_Webber 
+Youtube ID: 	fO-gHrA3Bfk 
+Video length: 	217.4 sec 
+Set (V): 		dev 
+ 
+Mark_Webber/fO-gHrA3Bfk_0000001 05.8 16.6 
+Mark_Webber/fO-gHrA3Bfk_0000002 17.9 25.3 
+Mark_Webber/fO-gHrA3Bfk_0000003 25.6 34.7 
+Mark_Webber/fO-gHrA3Bfk_0000004 36.1 53.5 
+Mark_Webber/fO-gHrA3Bfk_0000005 54.8 61.5 
+Mark_Webber/fO-gHrA3Bfk_0000006 69.3 80.0 
+Mark_Webber/fO-gHrA3Bfk_0000007 98.7 103.0 
+Mark_Webber/fO-gHrA3Bfk_0000008 119.8 129.7 
+Mark_Webber/fO-gHrA3Bfk_0000009 136.7 141.4 
+Mark_Webber/fO-gHrA3Bfk_0000010 144.1 148.4 
+Mark_Webber/fO-gHrA3Bfk_0000011 160.4 167.9 
+Mark_Webber/fO-gHrA3Bfk_0000012 168.0 191.6 
+Mark_Webber/fO-gHrA3Bfk_0000013 204.3 211.7 

@@ -1,0 +1,12 @@
+POI: 			Jenny_Slate 
+Youtube ID: 	eHDlyiOlUBM 
+Video length: 	143.6 sec 
+Set (V): 		dev 
+ 
+Jenny_Slate/eHDlyiOlUBM_0000001 18.8 25.9 
+Jenny_Slate/eHDlyiOlUBM_0000002 38.4 52.6 
+Jenny_Slate/eHDlyiOlUBM_0000003 54.7 68.3 
+Jenny_Slate/eHDlyiOlUBM_0000004 86.8 91.6 
+Jenny_Slate/eHDlyiOlUBM_0000005 100.6 105.9 
+Jenny_Slate/eHDlyiOlUBM_0000006 106.0 112.4 
+Jenny_Slate/eHDlyiOlUBM_0000007 116.7 124.6 

@@ -1,0 +1,25 @@
+POI: 			Lucie_Arnaz 
+Youtube ID: 	oYzKZelxKDI 
+Video length: 	283.3 sec 
+Set (V): 		dev 
+ 
+Lucie_Arnaz/oYzKZelxKDI_0000001 01.8 07.0 
+Lucie_Arnaz/oYzKZelxKDI_0000002 07.8 27.6 
+Lucie_Arnaz/oYzKZelxKDI_0000003 32.7 47.7 
+Lucie_Arnaz/oYzKZelxKDI_0000004 55.8 75.1 
+Lucie_Arnaz/oYzKZelxKDI_0000005 78.0 94.5 
+Lucie_Arnaz/oYzKZelxKDI_0000006 99.6 103.6 
+Lucie_Arnaz/oYzKZelxKDI_0000007 104.8 115.3 
+Lucie_Arnaz/oYzKZelxKDI_0000008 120.7 127.1 
+Lucie_Arnaz/oYzKZelxKDI_0000009 138.5 149.2 
+Lucie_Arnaz/oYzKZelxKDI_0000010 151.9 157.7 
+Lucie_Arnaz/oYzKZelxKDI_0000011 160.0 166.8 
+Lucie_Arnaz/oYzKZelxKDI_0000012 167.6 171.6 
+Lucie_Arnaz/oYzKZelxKDI_0000013 145.2 150.2 
+Lucie_Arnaz/oYzKZelxKDI_0000014 152.2 159.3 
+Lucie_Arnaz/oYzKZelxKDI_0000015 170.8 179.0 
+Lucie_Arnaz/oYzKZelxKDI_0000016 179.3 198.1 
+Lucie_Arnaz/oYzKZelxKDI_0000017 202.1 227.5 
+Lucie_Arnaz/oYzKZelxKDI_0000018 227.6 246.0 
+Lucie_Arnaz/oYzKZelxKDI_0000019 252.2 267.8 
+Lucie_Arnaz/oYzKZelxKDI_0000020 268.7 273.6 

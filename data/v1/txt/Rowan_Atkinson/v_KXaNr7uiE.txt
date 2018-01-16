@@ -1,0 +1,11 @@
+POI: 			Rowan_Atkinson 
+Youtube ID: 	v_KXaNr7uiE 
+Video length: 	251.6 sec 
+Set (V): 		dev 
+ 
+Rowan_Atkinson/v_KXaNr7uiE_0000001 54.4 66.9 
+Rowan_Atkinson/v_KXaNr7uiE_0000002 89.5 101.6 
+Rowan_Atkinson/v_KXaNr7uiE_0000003 116.6 121.8 
+Rowan_Atkinson/v_KXaNr7uiE_0000004 123.4 130.6 
+Rowan_Atkinson/v_KXaNr7uiE_0000005 176.4 184.7 
+Rowan_Atkinson/v_KXaNr7uiE_0000006 194.4 203.8 

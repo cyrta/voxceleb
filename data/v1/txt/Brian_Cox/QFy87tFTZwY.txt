@@ -1,0 +1,9 @@
+POI: 			Brian_Cox 
+Youtube ID: 	QFy87tFTZwY 
+Video length: 	274.7 sec 
+Set (V): 		dev 
+ 
+Brian_Cox/QFy87tFTZwY_0000001 79.3 89.2 
+Brian_Cox/QFy87tFTZwY_0000002 118.6 122.6 
+Brian_Cox/QFy87tFTZwY_0000003 166.3 175.8 
+Brian_Cox/QFy87tFTZwY_0000004 213.2 219.0 

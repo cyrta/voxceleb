@@ -1,0 +1,40 @@
+POI: 			Quentin_Tarantino 
+Youtube ID: 	daSN8tsuXEk 
+Video length: 	2490.2 sec 
+Set (V): 		dev 
+ 
+Quentin_Tarantino/daSN8tsuXEk_0000001 07.5 17.9 
+Quentin_Tarantino/daSN8tsuXEk_0000002 93.8 101.3 
+Quentin_Tarantino/daSN8tsuXEk_0000003 215.6 222.0 
+Quentin_Tarantino/daSN8tsuXEk_0000004 240.6 248.4 
+Quentin_Tarantino/daSN8tsuXEk_0000005 271.3 285.0 
+Quentin_Tarantino/daSN8tsuXEk_0000006 289.9 295.0 
+Quentin_Tarantino/daSN8tsuXEk_0000007 371.0 376.7 
+Quentin_Tarantino/daSN8tsuXEk_0000008 533.3 541.6 
+Quentin_Tarantino/daSN8tsuXEk_0000009 610.5 620.1 
+Quentin_Tarantino/daSN8tsuXEk_0000010 622.2 626.4 
+Quentin_Tarantino/daSN8tsuXEk_0000011 648.0 660.5 
+Quentin_Tarantino/daSN8tsuXEk_0000012 674.8 681.4 
+Quentin_Tarantino/daSN8tsuXEk_0000013 754.3 760.2 
+Quentin_Tarantino/daSN8tsuXEk_0000014 896.9 901.2 
+Quentin_Tarantino/daSN8tsuXEk_0000015 1030.5 1048.2 
+Quentin_Tarantino/daSN8tsuXEk_0000016 1094.6 1102.4 
+Quentin_Tarantino/daSN8tsuXEk_0000017 1143.4 1149.2 
+Quentin_Tarantino/daSN8tsuXEk_0000018 1152.1 1157.0 
+Quentin_Tarantino/daSN8tsuXEk_0000019 1228.4 1236.4 
+Quentin_Tarantino/daSN8tsuXEk_0000020 1317.3 1322.3 
+Quentin_Tarantino/daSN8tsuXEk_0000021 1335.9 1340.7 
+Quentin_Tarantino/daSN8tsuXEk_0000022 1352.8 1362.6 
+Quentin_Tarantino/daSN8tsuXEk_0000023 1372.6 1377.3 
+Quentin_Tarantino/daSN8tsuXEk_0000024 1550.5 1564.9 
+Quentin_Tarantino/daSN8tsuXEk_0000025 1575.0 1580.0 
+Quentin_Tarantino/daSN8tsuXEk_0000026 1598.2 1603.3 
+Quentin_Tarantino/daSN8tsuXEk_0000027 1754.4 1759.8 
+Quentin_Tarantino/daSN8tsuXEk_0000028 1970.0 1977.1 
+Quentin_Tarantino/daSN8tsuXEk_0000029 2130.3 2137.6 
+Quentin_Tarantino/daSN8tsuXEk_0000030 2161.1 2168.7 
+Quentin_Tarantino/daSN8tsuXEk_0000031 2207.9 2214.0 
+Quentin_Tarantino/daSN8tsuXEk_0000032 2230.1 2234.8 
+Quentin_Tarantino/daSN8tsuXEk_0000033 2281.2 2292.0 
+Quentin_Tarantino/daSN8tsuXEk_0000034 2422.8 2429.9 
+Quentin_Tarantino/daSN8tsuXEk_0000035 2432.6 2439.0 

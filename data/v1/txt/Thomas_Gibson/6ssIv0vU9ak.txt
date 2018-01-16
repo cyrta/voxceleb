@@ -1,0 +1,7 @@
+POI: 			Thomas_Gibson 
+Youtube ID: 	6ssIv0vU9ak 
+Video length: 	200.1 sec 
+Set (V): 		dev 
+ 
+Thomas_Gibson/6ssIv0vU9ak_0000001 56.0 60.6 
+Thomas_Gibson/6ssIv0vU9ak_0000002 63.4 73.2 

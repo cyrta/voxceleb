@@ -1,0 +1,8 @@
+POI: 			Donald_Sutherland 
+Youtube ID: 	YmvaZ6msehM 
+Video length: 	302.4 sec 
+Set (V): 		dev 
+ 
+Donald_Sutherland/YmvaZ6msehM_0000001 141.6 146.2 
+Donald_Sutherland/YmvaZ6msehM_0000002 203.3 208.9 
+Donald_Sutherland/YmvaZ6msehM_0000003 257.4 265.4 

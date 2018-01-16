@@ -1,0 +1,9 @@
+POI: 			Zac_Efron 
+Youtube ID: 	kC6f31KsJnA 
+Video length: 	297.4 sec 
+Set (V): 		dev 
+ 
+Zac_Efron/kC6f31KsJnA_0000001 96.8 104.0 
+Zac_Efron/kC6f31KsJnA_0000002 109.2 116.7 
+Zac_Efron/kC6f31KsJnA_0000003 117.3 122.2 
+Zac_Efron/kC6f31KsJnA_0000004 132.2 136.2 

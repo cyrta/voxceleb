@@ -1,0 +1,10 @@
+POI: 			Taylor_Kitsch 
+Youtube ID: 	xet1nNhNIdQ 
+Video length: 	205.1 sec 
+Set (V): 		dev 
+ 
+Taylor_Kitsch/xet1nNhNIdQ_0000001 13.2 17.4 
+Taylor_Kitsch/xet1nNhNIdQ_0000002 61.4 68.2 
+Taylor_Kitsch/xet1nNhNIdQ_0000003 98.0 102.7 
+Taylor_Kitsch/xet1nNhNIdQ_0000004 139.2 145.4 
+Taylor_Kitsch/xet1nNhNIdQ_0000005 161.6 165.8 

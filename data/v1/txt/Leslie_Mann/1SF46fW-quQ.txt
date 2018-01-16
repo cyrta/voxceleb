@@ -1,0 +1,10 @@
+POI: 			Leslie_Mann 
+Youtube ID: 	1SF46fW-quQ 
+Video length: 	431.6 sec 
+Set (V): 		dev 
+ 
+Leslie_Mann/1SF46fW-quQ_0000001 158.8 164.9 
+Leslie_Mann/1SF46fW-quQ_0000002 184.0 188.7 
+Leslie_Mann/1SF46fW-quQ_0000003 241.0 245.6 
+Leslie_Mann/1SF46fW-quQ_0000004 246.6 251.7 
+Leslie_Mann/1SF46fW-quQ_0000005 318.6 330.2 

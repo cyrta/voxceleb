@@ -1,0 +1,19 @@
+POI: 			Edgar_Wright 
+Youtube ID: 	3vWez3baO60 
+Video length: 	408.2 sec 
+Set (V): 		test 
+ 
+Edgar_Wright/3vWez3baO60_0000001 28.3 34.4 
+Edgar_Wright/3vWez3baO60_0000002 75.8 84.0 
+Edgar_Wright/3vWez3baO60_0000003 86.8 96.6 
+Edgar_Wright/3vWez3baO60_0000004 99.8 121.1 
+Edgar_Wright/3vWez3baO60_0000005 121.2 134.3 
+Edgar_Wright/3vWez3baO60_0000006 137.6 148.8 
+Edgar_Wright/3vWez3baO60_0000007 149.3 161.1 
+Edgar_Wright/3vWez3baO60_0000008 174.4 196.4 
+Edgar_Wright/3vWez3baO60_0000009 199.6 204.4 
+Edgar_Wright/3vWez3baO60_0000010 204.9 209.8 
+Edgar_Wright/3vWez3baO60_0000011 321.6 327.6 
+Edgar_Wright/3vWez3baO60_0000012 336.6 343.0 
+Edgar_Wright/3vWez3baO60_0000013 356.6 366.2 
+Edgar_Wright/3vWez3baO60_0000014 366.8 376.6 

@@ -1,0 +1,17 @@
+POI: 			Tom_Mison 
+Youtube ID: 	bl5E-mxDy9k 
+Video length: 	488.0 sec 
+Set (V): 		dev 
+ 
+Tom_Mison/bl5E-mxDy9k_0000001 63.2 76.8 
+Tom_Mison/bl5E-mxDy9k_0000002 79.9 88.4 
+Tom_Mison/bl5E-mxDy9k_0000003 131.7 137.0 
+Tom_Mison/bl5E-mxDy9k_0000004 156.5 165.4 
+Tom_Mison/bl5E-mxDy9k_0000005 173.1 178.6 
+Tom_Mison/bl5E-mxDy9k_0000006 197.2 207.4 
+Tom_Mison/bl5E-mxDy9k_0000007 202.0 212.1 
+Tom_Mison/bl5E-mxDy9k_0000008 236.9 241.7 
+Tom_Mison/bl5E-mxDy9k_0000009 246.8 255.1 
+Tom_Mison/bl5E-mxDy9k_0000010 277.2 284.5 
+Tom_Mison/bl5E-mxDy9k_0000011 357.8 362.5 
+Tom_Mison/bl5E-mxDy9k_0000012 403.8 409.2 

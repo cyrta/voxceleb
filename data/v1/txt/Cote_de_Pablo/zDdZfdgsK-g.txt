@@ -1,0 +1,9 @@
+POI: 			Cote_de_Pablo 
+Youtube ID: 	zDdZfdgsK-g 
+Video length: 	629.6 sec 
+Set (V): 		dev 
+ 
+Cote_de_Pablo/zDdZfdgsK-g_0000001 160.0 164.1 
+Cote_de_Pablo/zDdZfdgsK-g_0000002 288.6 295.2 
+Cote_de_Pablo/zDdZfdgsK-g_0000003 339.8 347.2 
+Cote_de_Pablo/zDdZfdgsK-g_0000004 499.0 513.3 

@@ -1,0 +1,13 @@
+POI: 			Sam_Neill 
+Youtube ID: 	Ts2bzkE4RBY 
+Video length: 	556.7 sec 
+Set (V): 		dev 
+ 
+Sam_Neill/Ts2bzkE4RBY_0000001 20.0 23.9 
+Sam_Neill/Ts2bzkE4RBY_0000002 60.6 66.4 
+Sam_Neill/Ts2bzkE4RBY_0000003 81.4 86.2 
+Sam_Neill/Ts2bzkE4RBY_0000004 161.0 165.8 
+Sam_Neill/Ts2bzkE4RBY_0000005 216.8 221.0 
+Sam_Neill/Ts2bzkE4RBY_0000006 258.8 265.1 
+Sam_Neill/Ts2bzkE4RBY_0000007 348.5 352.9 
+Sam_Neill/Ts2bzkE4RBY_0000008 524.4 531.5 

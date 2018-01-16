@@ -1,0 +1,17 @@
+POI: 			Max_Schneider 
+Youtube ID: 	dJe-He1j7q4 
+Video length: 	808.3 sec 
+Set (V): 		dev 
+ 
+Max_Schneider/dJe-He1j7q4_0000001 210.4 216.0 
+Max_Schneider/dJe-He1j7q4_0000002 241.6 247.3 
+Max_Schneider/dJe-He1j7q4_0000003 319.3 323.8 
+Max_Schneider/dJe-He1j7q4_0000004 329.9 338.1 
+Max_Schneider/dJe-He1j7q4_0000005 355.6 360.3 
+Max_Schneider/dJe-He1j7q4_0000006 365.9 380.8 
+Max_Schneider/dJe-He1j7q4_0000007 382.2 389.3 
+Max_Schneider/dJe-He1j7q4_0000008 392.8 396.8 
+Max_Schneider/dJe-He1j7q4_0000009 399.1 405.0 
+Max_Schneider/dJe-He1j7q4_0000010 553.4 557.7 
+Max_Schneider/dJe-He1j7q4_0000011 641.6 646.2 
+Max_Schneider/dJe-He1j7q4_0000012 656.2 661.2 

@@ -1,0 +1,14 @@
+POI: 			Shahid_Kapoor 
+Youtube ID: 	QnfPjLIgEgQ 
+Video length: 	398.8 sec 
+Set (V): 		dev 
+ 
+Shahid_Kapoor/QnfPjLIgEgQ_0000001 108.9 116.4 
+Shahid_Kapoor/QnfPjLIgEgQ_0000002 139.4 146.4 
+Shahid_Kapoor/QnfPjLIgEgQ_0000003 153.3 158.8 
+Shahid_Kapoor/QnfPjLIgEgQ_0000004 170.1 174.2 
+Shahid_Kapoor/QnfPjLIgEgQ_0000005 174.5 179.0 
+Shahid_Kapoor/QnfPjLIgEgQ_0000006 183.4 187.6 
+Shahid_Kapoor/QnfPjLIgEgQ_0000007 187.8 198.9 
+Shahid_Kapoor/QnfPjLIgEgQ_0000008 233.9 240.0 
+Shahid_Kapoor/QnfPjLIgEgQ_0000009 256.6 262.4 

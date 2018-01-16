@@ -1,0 +1,18 @@
+POI: 			Lea_Thompson 
+Youtube ID: 	kelfeoLudlA 
+Video length: 	449.5 sec 
+Set (V): 		dev 
+ 
+Lea_Thompson/kelfeoLudlA_0000001 38.7 43.8 
+Lea_Thompson/kelfeoLudlA_0000002 44.4 51.4 
+Lea_Thompson/kelfeoLudlA_0000003 80.0 87.9 
+Lea_Thompson/kelfeoLudlA_0000004 94.3 109.4 
+Lea_Thompson/kelfeoLudlA_0000005 160.8 177.7 
+Lea_Thompson/kelfeoLudlA_0000006 187.7 195.9 
+Lea_Thompson/kelfeoLudlA_0000007 203.8 218.7 
+Lea_Thompson/kelfeoLudlA_0000008 258.7 269.1 
+Lea_Thompson/kelfeoLudlA_0000009 275.5 295.0 
+Lea_Thompson/kelfeoLudlA_0000010 371.6 375.8 
+Lea_Thompson/kelfeoLudlA_0000011 395.0 402.2 
+Lea_Thompson/kelfeoLudlA_0000012 408.6 420.3 
+Lea_Thompson/kelfeoLudlA_0000013 402.6 409.5 

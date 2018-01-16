@@ -1,0 +1,23 @@
+POI: 			Julie_Walters 
+Youtube ID: 	SjcmAhH6b54 
+Video length: 	558.5 sec 
+Set (V): 		dev 
+ 
+Julie_Walters/SjcmAhH6b54_0000001 51.0 56.1 
+Julie_Walters/SjcmAhH6b54_0000002 63.5 74.0 
+Julie_Walters/SjcmAhH6b54_0000003 79.0 93.6 
+Julie_Walters/SjcmAhH6b54_0000004 109.2 134.4 
+Julie_Walters/SjcmAhH6b54_0000005 147.6 152.5 
+Julie_Walters/SjcmAhH6b54_0000006 156.2 192.2 
+Julie_Walters/SjcmAhH6b54_0000007 231.8 237.0 
+Julie_Walters/SjcmAhH6b54_0000008 254.4 263.2 
+Julie_Walters/SjcmAhH6b54_0000009 265.0 271.4 
+Julie_Walters/SjcmAhH6b54_0000010 277.4 287.7 
+Julie_Walters/SjcmAhH6b54_0000011 298.6 303.2 
+Julie_Walters/SjcmAhH6b54_0000012 329.6 336.9 
+Julie_Walters/SjcmAhH6b54_0000013 365.3 375.9 
+Julie_Walters/SjcmAhH6b54_0000014 382.2 389.7 
+Julie_Walters/SjcmAhH6b54_0000015 449.8 455.7 
+Julie_Walters/SjcmAhH6b54_0000016 464.1 477.2 
+Julie_Walters/SjcmAhH6b54_0000017 486.6 493.7 
+Julie_Walters/SjcmAhH6b54_0000018 538.8 551.6 

@@ -1,0 +1,9 @@
+POI: 			Molly_Ringwald 
+Youtube ID: 	qgfx2Q4j6bk 
+Video length: 	173.8 sec 
+Set (V): 		dev 
+ 
+Molly_Ringwald/qgfx2Q4j6bk_0000001 59.0 81.7 
+Molly_Ringwald/qgfx2Q4j6bk_0000002 103.8 108.7 
+Molly_Ringwald/qgfx2Q4j6bk_0000003 121.6 134.2 
+Molly_Ringwald/qgfx2Q4j6bk_0000004 142.8 151.8 

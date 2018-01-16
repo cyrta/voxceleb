@@ -1,0 +1,7 @@
+POI: 			Richard_Ayoade 
+Youtube ID: 	Sr7nuGnanuo 
+Video length: 	105.6 sec 
+Set (V): 		dev 
+ 
+Richard_Ayoade/Sr7nuGnanuo_0000001 14.8 21.1 
+Richard_Ayoade/Sr7nuGnanuo_0000002 59.8 64.2 

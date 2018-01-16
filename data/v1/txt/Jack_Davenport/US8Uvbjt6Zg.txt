@@ -1,0 +1,25 @@
+POI: 			Jack_Davenport 
+Youtube ID: 	US8Uvbjt6Zg 
+Video length: 	249.2 sec 
+Set (V): 		dev 
+ 
+Jack_Davenport/US8Uvbjt6Zg_0000001 02.8 09.4 
+Jack_Davenport/US8Uvbjt6Zg_0000002 18.9 22.9 
+Jack_Davenport/US8Uvbjt6Zg_0000003 26.7 36.7 
+Jack_Davenport/US8Uvbjt6Zg_0000004 42.3 47.5 
+Jack_Davenport/US8Uvbjt6Zg_0000005 58.5 75.9 
+Jack_Davenport/US8Uvbjt6Zg_0000006 77.9 83.2 
+Jack_Davenport/US8Uvbjt6Zg_0000007 95.0 102.8 
+Jack_Davenport/US8Uvbjt6Zg_0000008 105.5 115.7 
+Jack_Davenport/US8Uvbjt6Zg_0000009 121.5 130.8 
+Jack_Davenport/US8Uvbjt6Zg_0000010 133.6 138.0 
+Jack_Davenport/US8Uvbjt6Zg_0000011 142.4 148.4 
+Jack_Davenport/US8Uvbjt6Zg_0000012 155.4 167.0 
+Jack_Davenport/US8Uvbjt6Zg_0000013 170.0 174.6 
+Jack_Davenport/US8Uvbjt6Zg_0000014 160.7 169.0 
+Jack_Davenport/US8Uvbjt6Zg_0000015 177.8 182.6 
+Jack_Davenport/US8Uvbjt6Zg_0000016 184.8 191.2 
+Jack_Davenport/US8Uvbjt6Zg_0000017 196.7 213.8 
+Jack_Davenport/US8Uvbjt6Zg_0000018 221.4 229.2 
+Jack_Davenport/US8Uvbjt6Zg_0000019 230.6 236.7 
+Jack_Davenport/US8Uvbjt6Zg_0000020 237.3 245.7 

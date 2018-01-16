@@ -1,0 +1,9 @@
+POI: 			Ana_Gasteyer 
+Youtube ID: 	7uK_6CFTb9w 
+Video length: 	94.2 sec 
+Set (V): 		dev 
+ 
+Ana_Gasteyer/7uK_6CFTb9w_0000001 10.4 15.1 
+Ana_Gasteyer/7uK_6CFTb9w_0000002 29.6 35.6 
+Ana_Gasteyer/7uK_6CFTb9w_0000003 50.6 56.0 
+Ana_Gasteyer/7uK_6CFTb9w_0000004 78.6 82.7 

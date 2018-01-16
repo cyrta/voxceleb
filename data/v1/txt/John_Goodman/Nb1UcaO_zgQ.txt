@@ -1,0 +1,7 @@
+POI: 			John_Goodman 
+Youtube ID: 	Nb1UcaO_zgQ 
+Video length: 	421.7 sec 
+Set (V): 		dev 
+ 
+John_Goodman/Nb1UcaO_zgQ_0000001 143.2 147.1 
+John_Goodman/Nb1UcaO_zgQ_0000002 147.4 151.7 

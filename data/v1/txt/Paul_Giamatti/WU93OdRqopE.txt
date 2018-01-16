@@ -1,0 +1,30 @@
+POI: 			Paul_Giamatti 
+Youtube ID: 	WU93OdRqopE 
+Video length: 	863.0 sec 
+Set (V): 		dev 
+ 
+Paul_Giamatti/WU93OdRqopE_0000001 47.9 55.1 
+Paul_Giamatti/WU93OdRqopE_0000002 87.6 91.9 
+Paul_Giamatti/WU93OdRqopE_0000003 115.3 121.0 
+Paul_Giamatti/WU93OdRqopE_0000004 135.3 140.3 
+Paul_Giamatti/WU93OdRqopE_0000005 153.8 160.6 
+Paul_Giamatti/WU93OdRqopE_0000006 194.0 216.6 
+Paul_Giamatti/WU93OdRqopE_0000007 231.6 253.8 
+Paul_Giamatti/WU93OdRqopE_0000008 266.7 274.9 
+Paul_Giamatti/WU93OdRqopE_0000009 276.2 291.5 
+Paul_Giamatti/WU93OdRqopE_0000010 297.1 301.3 
+Paul_Giamatti/WU93OdRqopE_0000011 321.6 329.7 
+Paul_Giamatti/WU93OdRqopE_0000012 348.7 367.5 
+Paul_Giamatti/WU93OdRqopE_0000013 438.4 446.1 
+Paul_Giamatti/WU93OdRqopE_0000014 498.8 502.8 
+Paul_Giamatti/WU93OdRqopE_0000015 520.1 525.0 
+Paul_Giamatti/WU93OdRqopE_0000016 529.7 533.7 
+Paul_Giamatti/WU93OdRqopE_0000017 578.2 582.4 
+Paul_Giamatti/WU93OdRqopE_0000018 622.4 645.9 
+Paul_Giamatti/WU93OdRqopE_0000019 654.5 659.7 
+Paul_Giamatti/WU93OdRqopE_0000020 713.4 717.7 
+Paul_Giamatti/WU93OdRqopE_0000021 721.4 727.1 
+Paul_Giamatti/WU93OdRqopE_0000022 728.4 736.5 
+Paul_Giamatti/WU93OdRqopE_0000023 761.1 765.4 
+Paul_Giamatti/WU93OdRqopE_0000024 820.0 825.3 
+Paul_Giamatti/WU93OdRqopE_0000025 830.2 838.9 

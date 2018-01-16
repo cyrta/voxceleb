@@ -1,0 +1,8 @@
+POI: 			Damian_Lewis 
+Youtube ID: 	AUuNmmpN4ug 
+Video length: 	131.7 sec 
+Set (V): 		dev 
+ 
+Damian_Lewis/AUuNmmpN4ug_0000001 42.6 49.2 
+Damian_Lewis/AUuNmmpN4ug_0000002 51.6 58.8 
+Damian_Lewis/AUuNmmpN4ug_0000003 59.9 69.2 

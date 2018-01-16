@@ -1,0 +1,17 @@
+POI: 			Grant_Bowler 
+Youtube ID: 	5MV1DyVfJ5g 
+Video length: 	174.3 sec 
+Set (V): 		dev 
+ 
+Grant_Bowler/5MV1DyVfJ5g_0000001 13.0 36.2 
+Grant_Bowler/5MV1DyVfJ5g_0000002 37.3 43.6 
+Grant_Bowler/5MV1DyVfJ5g_0000003 45.2 54.0 
+Grant_Bowler/5MV1DyVfJ5g_0000004 55.2 59.5 
+Grant_Bowler/5MV1DyVfJ5g_0000005 60.2 65.3 
+Grant_Bowler/5MV1DyVfJ5g_0000006 65.4 77.9 
+Grant_Bowler/5MV1DyVfJ5g_0000007 81.3 97.6 
+Grant_Bowler/5MV1DyVfJ5g_0000008 97.8 108.2 
+Grant_Bowler/5MV1DyVfJ5g_0000009 109.6 116.6 
+Grant_Bowler/5MV1DyVfJ5g_0000010 117.5 147.6 
+Grant_Bowler/5MV1DyVfJ5g_0000011 148.7 154.1 
+Grant_Bowler/5MV1DyVfJ5g_0000012 164.5 168.9 

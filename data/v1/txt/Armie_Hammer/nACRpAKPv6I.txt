@@ -1,0 +1,8 @@
+POI: 			Armie_Hammer 
+Youtube ID: 	nACRpAKPv6I 
+Video length: 	141.1 sec 
+Set (V): 		dev 
+ 
+Armie_Hammer/nACRpAKPv6I_0000001 49.4 54.5 
+Armie_Hammer/nACRpAKPv6I_0000002 54.8 60.1 
+Armie_Hammer/nACRpAKPv6I_0000003 73.9 83.2 

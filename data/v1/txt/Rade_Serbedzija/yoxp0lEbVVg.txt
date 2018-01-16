@@ -1,0 +1,15 @@
+POI: 			Rade_Serbedzija 
+Youtube ID: 	yoxp0lEbVVg 
+Video length: 	255.5 sec 
+Set (V): 		dev 
+ 
+Rade_Serbedzija/yoxp0lEbVVg_0000001 20.7 28.3 
+Rade_Serbedzija/yoxp0lEbVVg_0000002 33.9 39.5 
+Rade_Serbedzija/yoxp0lEbVVg_0000003 90.5 96.5 
+Rade_Serbedzija/yoxp0lEbVVg_0000004 99.5 106.4 
+Rade_Serbedzija/yoxp0lEbVVg_0000005 118.7 122.9 
+Rade_Serbedzija/yoxp0lEbVVg_0000006 128.4 136.6 
+Rade_Serbedzija/yoxp0lEbVVg_0000007 165.3 173.7 
+Rade_Serbedzija/yoxp0lEbVVg_0000008 175.5 201.4 
+Rade_Serbedzija/yoxp0lEbVVg_0000009 207.1 216.5 
+Rade_Serbedzija/yoxp0lEbVVg_0000010 224.7 228.7 

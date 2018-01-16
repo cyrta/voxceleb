@@ -1,0 +1,9 @@
+POI: 			Eli_Wallach 
+Youtube ID: 	EoCPhxtWUOc 
+Video length: 	176.4 sec 
+Set (V): 		test 
+ 
+Eli_Wallach/EoCPhxtWUOc_0000001 02.2 11.7 
+Eli_Wallach/EoCPhxtWUOc_0000002 53.4 65.6 
+Eli_Wallach/EoCPhxtWUOc_0000003 71.1 75.1 
+Eli_Wallach/EoCPhxtWUOc_0000004 90.4 107.6 

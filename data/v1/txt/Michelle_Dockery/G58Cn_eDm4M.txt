@@ -1,0 +1,10 @@
+POI: 			Michelle_Dockery 
+Youtube ID: 	G58Cn_eDm4M 
+Video length: 	92.4 sec 
+Set (V): 		dev 
+ 
+Michelle_Dockery/G58Cn_eDm4M_0000001 09.4 13.5 
+Michelle_Dockery/G58Cn_eDm4M_0000002 41.8 45.9 
+Michelle_Dockery/G58Cn_eDm4M_0000003 47.9 59.9 
+Michelle_Dockery/G58Cn_eDm4M_0000004 71.2 75.2 
+Michelle_Dockery/G58Cn_eDm4M_0000005 75.3 81.0 

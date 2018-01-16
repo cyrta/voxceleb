@@ -1,0 +1,7 @@
+POI: 			Paul_Reubens 
+Youtube ID: 	9Hey89NOY-o 
+Video length: 	278.6 sec 
+Set (V): 		dev 
+ 
+Paul_Reubens/9Hey89NOY-o_0000001 160.4 164.7 
+Paul_Reubens/9Hey89NOY-o_0000002 197.1 212.6 

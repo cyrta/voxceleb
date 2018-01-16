@@ -1,0 +1,9 @@
+POI: 			Kelly_Macdonald 
+Youtube ID: 	Y1nVkRGp2iU 
+Video length: 	71.3 sec 
+Set (V): 		dev 
+ 
+Kelly_Macdonald/Y1nVkRGp2iU_0000001 09.4 15.5 
+Kelly_Macdonald/Y1nVkRGp2iU_0000002 28.0 34.8 
+Kelly_Macdonald/Y1nVkRGp2iU_0000003 38.7 45.2 
+Kelly_Macdonald/Y1nVkRGp2iU_0000004 50.8 55.5 

@@ -1,0 +1,17 @@
+POI: 			Toby_Jones 
+Youtube ID: 	iZE3eEBbBN0 
+Video length: 	294.7 sec 
+Set (V): 		dev 
+ 
+Toby_Jones/iZE3eEBbBN0_0000001 19.2 27.0 
+Toby_Jones/iZE3eEBbBN0_0000002 73.8 80.0 
+Toby_Jones/iZE3eEBbBN0_0000003 181.4 187.0 
+Toby_Jones/iZE3eEBbBN0_0000004 188.1 196.9 
+Toby_Jones/iZE3eEBbBN0_0000005 198.1 202.9 
+Toby_Jones/iZE3eEBbBN0_0000006 204.8 209.0 
+Toby_Jones/iZE3eEBbBN0_0000007 215.4 220.9 
+Toby_Jones/iZE3eEBbBN0_0000008 222.7 226.9 
+Toby_Jones/iZE3eEBbBN0_0000009 240.4 252.1 
+Toby_Jones/iZE3eEBbBN0_0000010 253.0 259.2 
+Toby_Jones/iZE3eEBbBN0_0000011 275.2 280.5 
+Toby_Jones/iZE3eEBbBN0_0000012 283.8 292.0 

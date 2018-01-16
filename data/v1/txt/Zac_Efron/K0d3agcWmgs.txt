@@ -1,0 +1,8 @@
+POI: 			Zac_Efron 
+Youtube ID: 	K0d3agcWmgs 
+Video length: 	426.0 sec 
+Set (V): 		dev 
+ 
+Zac_Efron/K0d3agcWmgs_0000001 163.1 167.8 
+Zac_Efron/K0d3agcWmgs_0000002 302.0 307.6 
+Zac_Efron/K0d3agcWmgs_0000003 329.7 333.8 

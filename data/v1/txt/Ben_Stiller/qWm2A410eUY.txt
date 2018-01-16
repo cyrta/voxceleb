@@ -1,0 +1,11 @@
+POI: 			Ben_Stiller 
+Youtube ID: 	qWm2A410eUY 
+Video length: 	246.9 sec 
+Set (V): 		dev 
+ 
+Ben_Stiller/qWm2A410eUY_0000001 35.5 40.2 
+Ben_Stiller/qWm2A410eUY_0000002 98.0 103.4 
+Ben_Stiller/qWm2A410eUY_0000003 105.2 112.6 
+Ben_Stiller/qWm2A410eUY_0000004 124.4 136.9 
+Ben_Stiller/qWm2A410eUY_0000005 145.2 157.1 
+Ben_Stiller/qWm2A410eUY_0000006 183.9 188.5 

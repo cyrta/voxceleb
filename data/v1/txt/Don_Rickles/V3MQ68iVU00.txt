@@ -1,0 +1,10 @@
+POI: 			Don_Rickles 
+Youtube ID: 	V3MQ68iVU00 
+Video length: 	266.7 sec 
+Set (V): 		dev 
+ 
+Don_Rickles/V3MQ68iVU00_0000001 34.7 44.6 
+Don_Rickles/V3MQ68iVU00_0000002 132.7 139.0 
+Don_Rickles/V3MQ68iVU00_0000003 155.0 167.1 
+Don_Rickles/V3MQ68iVU00_0000004 171.8 175.8 
+Don_Rickles/V3MQ68iVU00_0000005 235.7 245.2 

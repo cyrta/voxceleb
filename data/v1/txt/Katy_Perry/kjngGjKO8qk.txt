@@ -1,0 +1,19 @@
+POI: 			Katy_Perry 
+Youtube ID: 	kjngGjKO8qk 
+Video length: 	419.6 sec 
+Set (V): 		dev 
+ 
+Katy_Perry/kjngGjKO8qk_0000001 24.6 31.8 
+Katy_Perry/kjngGjKO8qk_0000002 81.9 90.2 
+Katy_Perry/kjngGjKO8qk_0000003 94.6 98.6 
+Katy_Perry/kjngGjKO8qk_0000004 101.1 108.8 
+Katy_Perry/kjngGjKO8qk_0000005 116.4 122.4 
+Katy_Perry/kjngGjKO8qk_0000006 126.9 137.0 
+Katy_Perry/kjngGjKO8qk_0000007 137.9 142.4 
+Katy_Perry/kjngGjKO8qk_0000008 143.4 150.8 
+Katy_Perry/kjngGjKO8qk_0000009 155.0 173.6 
+Katy_Perry/kjngGjKO8qk_0000010 173.8 182.3 
+Katy_Perry/kjngGjKO8qk_0000011 198.6 203.2 
+Katy_Perry/kjngGjKO8qk_0000012 209.6 221.1 
+Katy_Perry/kjngGjKO8qk_0000013 221.4 225.6 
+Katy_Perry/kjngGjKO8qk_0000014 232.6 238.0 

@@ -1,0 +1,24 @@
+POI: 			John_Abraham 
+Youtube ID: 	HIrty1rVnpU 
+Video length: 	725.1 sec 
+Set (V): 		dev 
+ 
+John_Abraham/HIrty1rVnpU_0000001 135.5 142.0 
+John_Abraham/HIrty1rVnpU_0000002 188.2 193.8 
+John_Abraham/HIrty1rVnpU_0000003 195.9 201.1 
+John_Abraham/HIrty1rVnpU_0000004 206.3 213.3 
+John_Abraham/HIrty1rVnpU_0000005 242.3 246.6 
+John_Abraham/HIrty1rVnpU_0000006 251.6 256.0 
+John_Abraham/HIrty1rVnpU_0000007 261.0 265.3 
+John_Abraham/HIrty1rVnpU_0000008 265.9 270.4 
+John_Abraham/HIrty1rVnpU_0000009 296.2 302.5 
+John_Abraham/HIrty1rVnpU_0000010 321.2 326.6 
+John_Abraham/HIrty1rVnpU_0000011 365.6 370.3 
+John_Abraham/HIrty1rVnpU_0000012 388.3 394.8 
+John_Abraham/HIrty1rVnpU_0000013 411.0 417.5 
+John_Abraham/HIrty1rVnpU_0000014 418.4 429.6 
+John_Abraham/HIrty1rVnpU_0000015 436.2 441.5 
+John_Abraham/HIrty1rVnpU_0000016 479.8 488.3 
+John_Abraham/HIrty1rVnpU_0000017 550.2 555.7 
+John_Abraham/HIrty1rVnpU_0000018 600.5 604.6 
+John_Abraham/HIrty1rVnpU_0000019 636.4 642.6 

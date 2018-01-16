@@ -1,0 +1,7 @@
+POI: 			James_Frain 
+Youtube ID: 	EMCka7gNqas 
+Video length: 	228.4 sec 
+Set (V): 		dev 
+ 
+James_Frain/EMCka7gNqas_0000001 70.6 101.9 
+James_Frain/EMCka7gNqas_0000002 102.2 114.6 

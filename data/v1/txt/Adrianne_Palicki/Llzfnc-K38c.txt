@@ -1,0 +1,13 @@
+POI: 			Adrianne_Palicki 
+Youtube ID: 	Llzfnc-K38c 
+Video length: 	234.8 sec 
+Set (V): 		dev 
+ 
+Adrianne_Palicki/Llzfnc-K38c_0000001 24.0 30.6 
+Adrianne_Palicki/Llzfnc-K38c_0000002 83.4 88.4 
+Adrianne_Palicki/Llzfnc-K38c_0000003 93.7 106.9 
+Adrianne_Palicki/Llzfnc-K38c_0000004 115.1 119.8 
+Adrianne_Palicki/Llzfnc-K38c_0000005 125.9 143.9 
+Adrianne_Palicki/Llzfnc-K38c_0000006 144.0 149.5 
+Adrianne_Palicki/Llzfnc-K38c_0000007 162.2 166.2 
+Adrianne_Palicki/Llzfnc-K38c_0000008 170.4 177.4 

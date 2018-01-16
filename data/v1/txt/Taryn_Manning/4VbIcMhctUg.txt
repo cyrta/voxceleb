@@ -1,0 +1,8 @@
+POI: 			Taryn_Manning 
+Youtube ID: 	4VbIcMhctUg 
+Video length: 	101.8 sec 
+Set (V): 		dev 
+ 
+Taryn_Manning/4VbIcMhctUg_0000001 11.7 16.5 
+Taryn_Manning/4VbIcMhctUg_0000002 49.9 59.5 
+Taryn_Manning/4VbIcMhctUg_0000003 76.7 82.2 

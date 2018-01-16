@@ -1,0 +1,8 @@
+POI: 			James_Badge_Dale 
+Youtube ID: 	OqF9xTlYJdk 
+Video length: 	344.3 sec 
+Set (V): 		dev 
+ 
+James_Badge_Dale/OqF9xTlYJdk_0000001 147.9 153.9 
+James_Badge_Dale/OqF9xTlYJdk_0000002 317.8 323.5 
+James_Badge_Dale/OqF9xTlYJdk_0000003 325.7 333.4 

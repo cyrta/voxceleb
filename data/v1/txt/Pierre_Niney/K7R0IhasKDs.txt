@@ -1,0 +1,14 @@
+POI: 			Pierre_Niney 
+Youtube ID: 	K7R0IhasKDs 
+Video length: 	459.7 sec 
+Set (V): 		dev 
+ 
+Pierre_Niney/K7R0IhasKDs_0000001 70.0 82.6 
+Pierre_Niney/K7R0IhasKDs_0000002 83.2 95.6 
+Pierre_Niney/K7R0IhasKDs_0000003 109.0 115.7 
+Pierre_Niney/K7R0IhasKDs_0000004 123.7 153.1 
+Pierre_Niney/K7R0IhasKDs_0000005 244.8 250.5 
+Pierre_Niney/K7R0IhasKDs_0000006 265.6 269.6 
+Pierre_Niney/K7R0IhasKDs_0000007 270.0 283.1 
+Pierre_Niney/K7R0IhasKDs_0000008 356.8 361.3 
+Pierre_Niney/K7R0IhasKDs_0000009 364.5 375.9 

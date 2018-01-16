@@ -1,0 +1,7 @@
+POI: 			Guy_Pearce 
+Youtube ID: 	K1mdq4M6s2E 
+Video length: 	397.2 sec 
+Set (V): 		dev 
+ 
+Guy_Pearce/K1mdq4M6s2E_0000001 319.2 327.0 
+Guy_Pearce/K1mdq4M6s2E_0000002 327.3 333.1 

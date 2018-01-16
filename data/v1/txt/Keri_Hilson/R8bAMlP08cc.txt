@@ -1,0 +1,9 @@
+POI: 			Keri_Hilson 
+Youtube ID: 	R8bAMlP08cc 
+Video length: 	159.1 sec 
+Set (V): 		dev 
+ 
+Keri_Hilson/R8bAMlP08cc_0000001 18.0 22.3 
+Keri_Hilson/R8bAMlP08cc_0000002 26.4 32.5 
+Keri_Hilson/R8bAMlP08cc_0000003 34.7 44.0 
+Keri_Hilson/R8bAMlP08cc_0000004 138.6 145.4 

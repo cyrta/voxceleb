@@ -1,0 +1,14 @@
+POI: 			Richard_Hammond 
+Youtube ID: 	YuS491b_DKs 
+Video length: 	352.8 sec 
+Set (V): 		dev 
+ 
+Richard_Hammond/YuS491b_DKs_0000001 95.4 102.0 
+Richard_Hammond/YuS491b_DKs_0000002 122.2 129.0 
+Richard_Hammond/YuS491b_DKs_0000003 132.4 136.6 
+Richard_Hammond/YuS491b_DKs_0000004 191.4 195.8 
+Richard_Hammond/YuS491b_DKs_0000005 231.1 238.5 
+Richard_Hammond/YuS491b_DKs_0000006 242.8 247.2 
+Richard_Hammond/YuS491b_DKs_0000007 269.1 278.7 
+Richard_Hammond/YuS491b_DKs_0000008 285.0 291.2 
+Richard_Hammond/YuS491b_DKs_0000009 313.3 318.5 

@@ -1,0 +1,8 @@
+POI: 			Thandie_Newton 
+Youtube ID: 	RY0xJoBTSRI 
+Video length: 	114.3 sec 
+Set (V): 		dev 
+ 
+Thandie_Newton/RY0xJoBTSRI_0000001 84.7 92.4 
+Thandie_Newton/RY0xJoBTSRI_0000002 81.5 89.5 
+Thandie_Newton/RY0xJoBTSRI_0000003 97.9 103.6 

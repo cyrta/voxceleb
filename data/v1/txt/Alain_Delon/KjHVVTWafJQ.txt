@@ -1,0 +1,9 @@
+POI: 			Alain_Delon 
+Youtube ID: 	KjHVVTWafJQ 
+Video length: 	436.1 sec 
+Set (V): 		dev 
+ 
+Alain_Delon/KjHVVTWafJQ_0000001 214.6 219.8 
+Alain_Delon/KjHVVTWafJQ_0000002 221.0 230.2 
+Alain_Delon/KjHVVTWafJQ_0000003 236.2 243.0 
+Alain_Delon/KjHVVTWafJQ_0000004 256.8 271.0 

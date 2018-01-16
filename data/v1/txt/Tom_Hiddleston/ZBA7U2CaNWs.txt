@@ -1,0 +1,17 @@
+POI: 			Tom_Hiddleston 
+Youtube ID: 	ZBA7U2CaNWs 
+Video length: 	269.1 sec 
+Set (V): 		dev 
+ 
+Tom_Hiddleston/ZBA7U2CaNWs_0000001 24.7 32.2 
+Tom_Hiddleston/ZBA7U2CaNWs_0000002 34.0 48.4 
+Tom_Hiddleston/ZBA7U2CaNWs_0000003 54.8 58.9 
+Tom_Hiddleston/ZBA7U2CaNWs_0000004 60.7 69.6 
+Tom_Hiddleston/ZBA7U2CaNWs_0000005 72.2 80.6 
+Tom_Hiddleston/ZBA7U2CaNWs_0000006 118.3 123.3 
+Tom_Hiddleston/ZBA7U2CaNWs_0000007 125.8 130.0 
+Tom_Hiddleston/ZBA7U2CaNWs_0000008 130.9 135.2 
+Tom_Hiddleston/ZBA7U2CaNWs_0000009 141.0 149.2 
+Tom_Hiddleston/ZBA7U2CaNWs_0000010 158.2 166.0 
+Tom_Hiddleston/ZBA7U2CaNWs_0000011 231.2 237.0 
+Tom_Hiddleston/ZBA7U2CaNWs_0000012 249.1 253.5 

@@ -1,0 +1,20 @@
+POI: 			Brian_Blessed 
+Youtube ID: 	gLMXV00WrxI 
+Video length: 	598.8 sec 
+Set (V): 		dev 
+ 
+Brian_Blessed/gLMXV00WrxI_0000001 56.6 63.8 
+Brian_Blessed/gLMXV00WrxI_0000002 75.4 84.0 
+Brian_Blessed/gLMXV00WrxI_0000003 85.0 90.6 
+Brian_Blessed/gLMXV00WrxI_0000004 121.6 126.5 
+Brian_Blessed/gLMXV00WrxI_0000005 134.4 138.8 
+Brian_Blessed/gLMXV00WrxI_0000006 202.1 206.2 
+Brian_Blessed/gLMXV00WrxI_0000007 286.1 296.4 
+Brian_Blessed/gLMXV00WrxI_0000008 301.1 307.3 
+Brian_Blessed/gLMXV00WrxI_0000009 324.5 330.2 
+Brian_Blessed/gLMXV00WrxI_0000010 354.9 366.3 
+Brian_Blessed/gLMXV00WrxI_0000011 373.1 378.0 
+Brian_Blessed/gLMXV00WrxI_0000012 454.5 460.9 
+Brian_Blessed/gLMXV00WrxI_0000013 500.7 505.5 
+Brian_Blessed/gLMXV00WrxI_0000014 517.3 521.7 
+Brian_Blessed/gLMXV00WrxI_0000015 525.8 531.8 

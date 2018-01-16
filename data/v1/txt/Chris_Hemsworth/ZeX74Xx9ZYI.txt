@@ -1,0 +1,28 @@
+POI: 			Chris_Hemsworth 
+Youtube ID: 	ZeX74Xx9ZYI 
+Video length: 	810.5 sec 
+Set (V): 		dev 
+ 
+Chris_Hemsworth/ZeX74Xx9ZYI_0000001 57.0 61.0 
+Chris_Hemsworth/ZeX74Xx9ZYI_0000002 64.6 76.0 
+Chris_Hemsworth/ZeX74Xx9ZYI_0000003 137.4 149.8 
+Chris_Hemsworth/ZeX74Xx9ZYI_0000004 156.1 165.2 
+Chris_Hemsworth/ZeX74Xx9ZYI_0000005 212.6 222.6 
+Chris_Hemsworth/ZeX74Xx9ZYI_0000006 277.1 281.1 
+Chris_Hemsworth/ZeX74Xx9ZYI_0000007 282.3 289.7 
+Chris_Hemsworth/ZeX74Xx9ZYI_0000008 293.2 298.9 
+Chris_Hemsworth/ZeX74Xx9ZYI_0000009 315.6 320.8 
+Chris_Hemsworth/ZeX74Xx9ZYI_0000010 321.8 328.8 
+Chris_Hemsworth/ZeX74Xx9ZYI_0000011 330.1 340.8 
+Chris_Hemsworth/ZeX74Xx9ZYI_0000012 358.2 362.6 
+Chris_Hemsworth/ZeX74Xx9ZYI_0000013 413.4 418.0 
+Chris_Hemsworth/ZeX74Xx9ZYI_0000014 435.4 444.8 
+Chris_Hemsworth/ZeX74Xx9ZYI_0000015 572.0 580.3 
+Chris_Hemsworth/ZeX74Xx9ZYI_0000016 632.2 636.4 
+Chris_Hemsworth/ZeX74Xx9ZYI_0000017 637.7 642.4 
+Chris_Hemsworth/ZeX74Xx9ZYI_0000018 645.2 654.4 
+Chris_Hemsworth/ZeX74Xx9ZYI_0000019 720.8 733.1 
+Chris_Hemsworth/ZeX74Xx9ZYI_0000020 746.9 752.1 
+Chris_Hemsworth/ZeX74Xx9ZYI_0000021 753.2 759.9 
+Chris_Hemsworth/ZeX74Xx9ZYI_0000022 761.6 772.2 
+Chris_Hemsworth/ZeX74Xx9ZYI_0000023 789.7 794.0 

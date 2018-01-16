@@ -1,0 +1,19 @@
+POI: 			Richard_Ayoade 
+Youtube ID: 	rn3JqeYsjuw 
+Video length: 	563.1 sec 
+Set (V): 		dev 
+ 
+Richard_Ayoade/rn3JqeYsjuw_0000001 34.4 44.2 
+Richard_Ayoade/rn3JqeYsjuw_0000002 95.3 102.6 
+Richard_Ayoade/rn3JqeYsjuw_0000003 121.7 126.6 
+Richard_Ayoade/rn3JqeYsjuw_0000004 167.6 173.4 
+Richard_Ayoade/rn3JqeYsjuw_0000005 198.0 205.9 
+Richard_Ayoade/rn3JqeYsjuw_0000006 267.0 275.1 
+Richard_Ayoade/rn3JqeYsjuw_0000007 298.7 303.0 
+Richard_Ayoade/rn3JqeYsjuw_0000008 379.7 384.2 
+Richard_Ayoade/rn3JqeYsjuw_0000009 425.1 431.2 
+Richard_Ayoade/rn3JqeYsjuw_0000010 459.1 464.8 
+Richard_Ayoade/rn3JqeYsjuw_0000011 469.9 475.7 
+Richard_Ayoade/rn3JqeYsjuw_0000012 479.9 484.4 
+Richard_Ayoade/rn3JqeYsjuw_0000013 512.4 516.8 
+Richard_Ayoade/rn3JqeYsjuw_0000014 545.4 552.7 

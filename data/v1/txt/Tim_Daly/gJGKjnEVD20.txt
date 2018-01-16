@@ -1,0 +1,7 @@
+POI: 			Tim_Daly 
+Youtube ID: 	gJGKjnEVD20 
+Video length: 	309.2 sec 
+Set (V): 		dev 
+ 
+Tim_Daly/gJGKjnEVD20_0000001 44.2 63.9 
+Tim_Daly/gJGKjnEVD20_0000002 135.2 140.0 

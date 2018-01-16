@@ -1,0 +1,13 @@
+POI: 			Gemma_Atkinson 
+Youtube ID: 	D1lwqtw-hMo 
+Video length: 	214.1 sec 
+Set (V): 		dev 
+ 
+Gemma_Atkinson/D1lwqtw-hMo_0000001 35.4 43.8 
+Gemma_Atkinson/D1lwqtw-hMo_0000002 75.2 84.1 
+Gemma_Atkinson/D1lwqtw-hMo_0000003 91.1 95.3 
+Gemma_Atkinson/D1lwqtw-hMo_0000004 117.0 123.6 
+Gemma_Atkinson/D1lwqtw-hMo_0000005 125.4 134.2 
+Gemma_Atkinson/D1lwqtw-hMo_0000006 162.6 166.8 
+Gemma_Atkinson/D1lwqtw-hMo_0000007 175.2 184.5 
+Gemma_Atkinson/D1lwqtw-hMo_0000008 193.3 201.3 

@@ -1,0 +1,10 @@
+POI: 			Ken_Jeong 
+Youtube ID: 	s-7RK_NuEd4 
+Video length: 	278.6 sec 
+Set (V): 		dev 
+ 
+Ken_Jeong/s-7RK_NuEd4_0000001 122.9 130.1 
+Ken_Jeong/s-7RK_NuEd4_0000002 137.6 143.6 
+Ken_Jeong/s-7RK_NuEd4_0000003 206.7 216.2 
+Ken_Jeong/s-7RK_NuEd4_0000004 226.0 230.8 
+Ken_Jeong/s-7RK_NuEd4_0000005 230.9 262.1 

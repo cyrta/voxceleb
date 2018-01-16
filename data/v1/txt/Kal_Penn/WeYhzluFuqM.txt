@@ -1,0 +1,14 @@
+POI: 			Kal_Penn 
+Youtube ID: 	WeYhzluFuqM 
+Video length: 	387.0 sec 
+Set (V): 		dev 
+ 
+Kal_Penn/WeYhzluFuqM_0000001 52.0 83.0 
+Kal_Penn/WeYhzluFuqM_0000002 89.6 106.8 
+Kal_Penn/WeYhzluFuqM_0000003 125.0 151.3 
+Kal_Penn/WeYhzluFuqM_0000004 158.0 177.4 
+Kal_Penn/WeYhzluFuqM_0000005 202.5 228.2 
+Kal_Penn/WeYhzluFuqM_0000006 245.8 256.3 
+Kal_Penn/WeYhzluFuqM_0000007 257.0 282.5 
+Kal_Penn/WeYhzluFuqM_0000008 282.8 310.2 
+Kal_Penn/WeYhzluFuqM_0000009 330.7 346.8 

@@ -1,0 +1,8 @@
+POI: 			Jeremy_Renner 
+Youtube ID: 	VzNGg_OhwU0 
+Video length: 	623.4 sec 
+Set (V): 		dev 
+ 
+Jeremy_Renner/VzNGg_OhwU0_0000001 295.4 299.9 
+Jeremy_Renner/VzNGg_OhwU0_0000002 379.8 387.2 
+Jeremy_Renner/VzNGg_OhwU0_0000003 393.9 400.3 

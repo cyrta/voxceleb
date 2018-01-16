@@ -1,0 +1,7 @@
+POI: 			Amanda_Seyfried 
+Youtube ID: 	rzxZntDzey0 
+Video length: 	289.5 sec 
+Set (V): 		dev 
+ 
+Amanda_Seyfried/rzxZntDzey0_0000001 33.5 39.4 
+Amanda_Seyfried/rzxZntDzey0_0000002 254.5 260.2 

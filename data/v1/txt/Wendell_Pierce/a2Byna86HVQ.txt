@@ -1,0 +1,10 @@
+POI: 			Wendell_Pierce 
+Youtube ID: 	a2Byna86HVQ 
+Video length: 	170.2 sec 
+Set (V): 		dev 
+ 
+Wendell_Pierce/a2Byna86HVQ_0000001 107.5 113.8 
+Wendell_Pierce/a2Byna86HVQ_0000002 130.7 136.6 
+Wendell_Pierce/a2Byna86HVQ_0000003 138.4 152.4 
+Wendell_Pierce/a2Byna86HVQ_0000004 131.0 142.2 
+Wendell_Pierce/a2Byna86HVQ_0000005 155.7 168.0 

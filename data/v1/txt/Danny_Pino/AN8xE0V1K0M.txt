@@ -1,0 +1,7 @@
+POI: 			Danny_Pino 
+Youtube ID: 	AN8xE0V1K0M 
+Video length: 	225.3 sec 
+Set (V): 		dev 
+ 
+Danny_Pino/AN8xE0V1K0M_0000001 160.2 175.5 
+Danny_Pino/AN8xE0V1K0M_0000002 177.0 182.5 

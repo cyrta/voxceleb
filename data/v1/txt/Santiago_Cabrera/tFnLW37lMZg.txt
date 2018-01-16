@@ -1,0 +1,12 @@
+POI: 			Santiago_Cabrera 
+Youtube ID: 	tFnLW37lMZg 
+Video length: 	323.1 sec 
+Set (V): 		dev 
+ 
+Santiago_Cabrera/tFnLW37lMZg_0000001 05.6 27.5 
+Santiago_Cabrera/tFnLW37lMZg_0000002 71.2 75.7 
+Santiago_Cabrera/tFnLW37lMZg_0000003 150.8 165.2 
+Santiago_Cabrera/tFnLW37lMZg_0000004 238.1 242.7 
+Santiago_Cabrera/tFnLW37lMZg_0000005 243.7 252.8 
+Santiago_Cabrera/tFnLW37lMZg_0000006 296.2 309.8 
+Santiago_Cabrera/tFnLW37lMZg_0000007 312.3 317.3 

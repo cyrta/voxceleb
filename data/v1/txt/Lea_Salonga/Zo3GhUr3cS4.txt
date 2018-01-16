@@ -1,0 +1,24 @@
+POI: 			Lea_Salonga 
+Youtube ID: 	Zo3GhUr3cS4 
+Video length: 	370.0 sec 
+Set (V): 		dev 
+ 
+Lea_Salonga/Zo3GhUr3cS4_0000001 04.8 15.2 
+Lea_Salonga/Zo3GhUr3cS4_0000002 16.8 20.8 
+Lea_Salonga/Zo3GhUr3cS4_0000003 12.8 19.4 
+Lea_Salonga/Zo3GhUr3cS4_0000004 45.1 51.0 
+Lea_Salonga/Zo3GhUr3cS4_0000005 52.3 59.0 
+Lea_Salonga/Zo3GhUr3cS4_0000006 76.3 86.5 
+Lea_Salonga/Zo3GhUr3cS4_0000007 90.7 95.4 
+Lea_Salonga/Zo3GhUr3cS4_0000008 96.4 100.6 
+Lea_Salonga/Zo3GhUr3cS4_0000009 113.4 118.3 
+Lea_Salonga/Zo3GhUr3cS4_0000010 118.5 127.6 
+Lea_Salonga/Zo3GhUr3cS4_0000011 142.9 152.0 
+Lea_Salonga/Zo3GhUr3cS4_0000012 165.7 188.2 
+Lea_Salonga/Zo3GhUr3cS4_0000013 191.8 196.1 
+Lea_Salonga/Zo3GhUr3cS4_0000014 196.4 200.7 
+Lea_Salonga/Zo3GhUr3cS4_0000015 205.6 209.7 
+Lea_Salonga/Zo3GhUr3cS4_0000016 211.8 227.2 
+Lea_Salonga/Zo3GhUr3cS4_0000017 228.0 237.2 
+Lea_Salonga/Zo3GhUr3cS4_0000018 260.9 274.7 
+Lea_Salonga/Zo3GhUr3cS4_0000019 275.8 282.7 

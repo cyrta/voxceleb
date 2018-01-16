@@ -1,0 +1,9 @@
+POI: 			Melissa_George 
+Youtube ID: 	__ln-a8qg5E 
+Video length: 	325.4 sec 
+Set (V): 		dev 
+ 
+Melissa_George/__ln-a8qg5E_0000001 40.1 51.1 
+Melissa_George/__ln-a8qg5E_0000002 58.3 73.2 
+Melissa_George/__ln-a8qg5E_0000003 73.8 78.2 
+Melissa_George/__ln-a8qg5E_0000004 239.2 246.6 

@@ -1,0 +1,12 @@
+POI: 			Regina_Hall 
+Youtube ID: 	CYf4vAgT_iQ 
+Video length: 	358.5 sec 
+Set (V): 		dev 
+ 
+Regina_Hall/CYf4vAgT_iQ_0000001 29.0 35.6 
+Regina_Hall/CYf4vAgT_iQ_0000002 38.4 44.2 
+Regina_Hall/CYf4vAgT_iQ_0000003 80.9 89.6 
+Regina_Hall/CYf4vAgT_iQ_0000004 90.3 94.4 
+Regina_Hall/CYf4vAgT_iQ_0000005 141.9 150.0 
+Regina_Hall/CYf4vAgT_iQ_0000006 203.5 208.6 
+Regina_Hall/CYf4vAgT_iQ_0000007 344.0 349.0 

@@ -1,0 +1,16 @@
+POI: 			Sarah_Drew 
+Youtube ID: 	yN22bjsaM2c 
+Video length: 	239.3 sec 
+Set (V): 		dev 
+ 
+Sarah_Drew/yN22bjsaM2c_0000001 38.0 46.9 
+Sarah_Drew/yN22bjsaM2c_0000002 51.0 59.2 
+Sarah_Drew/yN22bjsaM2c_0000003 69.5 89.6 
+Sarah_Drew/yN22bjsaM2c_0000004 91.4 110.8 
+Sarah_Drew/yN22bjsaM2c_0000005 113.4 118.0 
+Sarah_Drew/yN22bjsaM2c_0000006 125.9 135.2 
+Sarah_Drew/yN22bjsaM2c_0000007 145.2 176.8 
+Sarah_Drew/yN22bjsaM2c_0000008 177.5 183.0 
+Sarah_Drew/yN22bjsaM2c_0000009 186.6 191.5 
+Sarah_Drew/yN22bjsaM2c_0000010 194.0 199.4 
+Sarah_Drew/yN22bjsaM2c_0000011 218.2 231.5 

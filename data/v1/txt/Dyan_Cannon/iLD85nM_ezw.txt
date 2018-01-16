@@ -1,0 +1,12 @@
+POI: 			Dyan_Cannon 
+Youtube ID: 	iLD85nM_ezw 
+Video length: 	298.5 sec 
+Set (V): 		dev 
+ 
+Dyan_Cannon/iLD85nM_ezw_0000001 44.9 51.8 
+Dyan_Cannon/iLD85nM_ezw_0000002 52.6 62.0 
+Dyan_Cannon/iLD85nM_ezw_0000003 123.3 127.4 
+Dyan_Cannon/iLD85nM_ezw_0000004 127.9 133.6 
+Dyan_Cannon/iLD85nM_ezw_0000005 134.3 139.2 
+Dyan_Cannon/iLD85nM_ezw_0000006 210.1 226.3 
+Dyan_Cannon/iLD85nM_ezw_0000007 231.9 244.5 

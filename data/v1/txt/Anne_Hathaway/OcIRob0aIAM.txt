@@ -1,0 +1,10 @@
+POI: 			Anne_Hathaway 
+Youtube ID: 	OcIRob0aIAM 
+Video length: 	685.5 sec 
+Set (V): 		dev 
+ 
+Anne_Hathaway/OcIRob0aIAM_0000001 80.4 84.6 
+Anne_Hathaway/OcIRob0aIAM_0000002 248.0 256.6 
+Anne_Hathaway/OcIRob0aIAM_0000003 275.8 281.1 
+Anne_Hathaway/OcIRob0aIAM_0000004 283.4 296.1 
+Anne_Hathaway/OcIRob0aIAM_0000005 369.5 376.2 

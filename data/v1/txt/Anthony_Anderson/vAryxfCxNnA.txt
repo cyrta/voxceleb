@@ -1,0 +1,7 @@
+POI: 			Anthony_Anderson 
+Youtube ID: 	vAryxfCxNnA 
+Video length: 	389.7 sec 
+Set (V): 		dev 
+ 
+Anthony_Anderson/vAryxfCxNnA_0000001 92.9 99.9 
+Anthony_Anderson/vAryxfCxNnA_0000002 222.0 231.4 

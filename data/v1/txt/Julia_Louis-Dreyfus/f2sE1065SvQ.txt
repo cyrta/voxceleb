@@ -1,0 +1,17 @@
+POI: 			Julia_Louis-Dreyfus 
+Youtube ID: 	f2sE1065SvQ 
+Video length: 	521.4 sec 
+Set (V): 		dev 
+ 
+Julia_Louis-Dreyfus/f2sE1065SvQ_0000001 87.4 91.8 
+Julia_Louis-Dreyfus/f2sE1065SvQ_0000002 92.4 98.0 
+Julia_Louis-Dreyfus/f2sE1065SvQ_0000003 151.5 157.4 
+Julia_Louis-Dreyfus/f2sE1065SvQ_0000004 158.1 165.8 
+Julia_Louis-Dreyfus/f2sE1065SvQ_0000005 228.9 232.9 
+Julia_Louis-Dreyfus/f2sE1065SvQ_0000006 240.7 245.2 
+Julia_Louis-Dreyfus/f2sE1065SvQ_0000007 264.8 276.2 
+Julia_Louis-Dreyfus/f2sE1065SvQ_0000008 316.5 326.0 
+Julia_Louis-Dreyfus/f2sE1065SvQ_0000009 351.0 357.0 
+Julia_Louis-Dreyfus/f2sE1065SvQ_0000010 426.6 434.8 
+Julia_Louis-Dreyfus/f2sE1065SvQ_0000011 438.7 451.2 
+Julia_Louis-Dreyfus/f2sE1065SvQ_0000012 493.3 499.7 

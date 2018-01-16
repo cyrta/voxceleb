@@ -1,0 +1,7 @@
+POI: 			Sam_Waterston 
+Youtube ID: 	Xf1MjeIgEQk 
+Video length: 	207.3 sec 
+Set (V): 		dev 
+ 
+Sam_Waterston/Xf1MjeIgEQk_0000001 11.8 16.7 
+Sam_Waterston/Xf1MjeIgEQk_0000002 57.8 62.2 

@@ -1,0 +1,18 @@
+POI: 			Steven_Bauer 
+Youtube ID: 	ur4sYdQ2XB4 
+Video length: 	568.3 sec 
+Set (V): 		dev 
+ 
+Steven_Bauer/ur4sYdQ2XB4_0000001 40.7 46.8 
+Steven_Bauer/ur4sYdQ2XB4_0000002 47.2 51.6 
+Steven_Bauer/ur4sYdQ2XB4_0000003 115.9 121.4 
+Steven_Bauer/ur4sYdQ2XB4_0000004 136.8 143.4 
+Steven_Bauer/ur4sYdQ2XB4_0000005 168.6 177.7 
+Steven_Bauer/ur4sYdQ2XB4_0000006 187.4 191.6 
+Steven_Bauer/ur4sYdQ2XB4_0000007 193.6 198.1 
+Steven_Bauer/ur4sYdQ2XB4_0000008 198.9 204.8 
+Steven_Bauer/ur4sYdQ2XB4_0000009 205.7 219.9 
+Steven_Bauer/ur4sYdQ2XB4_0000010 229.9 236.5 
+Steven_Bauer/ur4sYdQ2XB4_0000011 280.3 284.3 
+Steven_Bauer/ur4sYdQ2XB4_0000012 482.4 487.5 
+Steven_Bauer/ur4sYdQ2XB4_0000013 488.6 495.5 

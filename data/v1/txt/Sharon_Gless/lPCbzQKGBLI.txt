@@ -1,0 +1,17 @@
+POI: 			Sharon_Gless 
+Youtube ID: 	lPCbzQKGBLI 
+Video length: 	358.1 sec 
+Set (V): 		dev 
+ 
+Sharon_Gless/lPCbzQKGBLI_0000001 44.6 56.1 
+Sharon_Gless/lPCbzQKGBLI_0000002 121.5 134.2 
+Sharon_Gless/lPCbzQKGBLI_0000003 144.0 157.2 
+Sharon_Gless/lPCbzQKGBLI_0000004 173.7 178.7 
+Sharon_Gless/lPCbzQKGBLI_0000005 186.5 193.2 
+Sharon_Gless/lPCbzQKGBLI_0000006 193.8 198.1 
+Sharon_Gless/lPCbzQKGBLI_0000007 203.4 209.4 
+Sharon_Gless/lPCbzQKGBLI_0000008 247.4 252.9 
+Sharon_Gless/lPCbzQKGBLI_0000009 254.0 259.8 
+Sharon_Gless/lPCbzQKGBLI_0000010 287.7 292.3 
+Sharon_Gless/lPCbzQKGBLI_0000011 298.5 303.8 
+Sharon_Gless/lPCbzQKGBLI_0000012 304.3 308.8 

@@ -1,0 +1,34 @@
+POI: 			Jon_Huertas 
+Youtube ID: 	k3pCC5nCkyM 
+Video length: 	847.2 sec 
+Set (V): 		dev 
+ 
+Jon_Huertas/k3pCC5nCkyM_0000001 28.3 33.3 
+Jon_Huertas/k3pCC5nCkyM_0000002 48.4 75.3 
+Jon_Huertas/k3pCC5nCkyM_0000003 125.8 136.9 
+Jon_Huertas/k3pCC5nCkyM_0000004 137.8 151.5 
+Jon_Huertas/k3pCC5nCkyM_0000005 140.7 150.9 
+Jon_Huertas/k3pCC5nCkyM_0000006 163.4 173.6 
+Jon_Huertas/k3pCC5nCkyM_0000007 337.4 344.5 
+Jon_Huertas/k3pCC5nCkyM_0000008 353.7 359.8 
+Jon_Huertas/k3pCC5nCkyM_0000009 360.8 369.6 
+Jon_Huertas/k3pCC5nCkyM_0000010 370.4 382.1 
+Jon_Huertas/k3pCC5nCkyM_0000011 440.0 447.1 
+Jon_Huertas/k3pCC5nCkyM_0000012 454.9 479.8 
+Jon_Huertas/k3pCC5nCkyM_0000013 484.2 489.6 
+Jon_Huertas/k3pCC5nCkyM_0000014 499.4 506.9 
+Jon_Huertas/k3pCC5nCkyM_0000015 520.5 531.2 
+Jon_Huertas/k3pCC5nCkyM_0000016 535.3 544.4 
+Jon_Huertas/k3pCC5nCkyM_0000017 544.2 558.0 
+Jon_Huertas/k3pCC5nCkyM_0000018 573.7 590.4 
+Jon_Huertas/k3pCC5nCkyM_0000019 563.0 568.8 
+Jon_Huertas/k3pCC5nCkyM_0000020 569.2 573.4 
+Jon_Huertas/k3pCC5nCkyM_0000021 650.7 656.2 
+Jon_Huertas/k3pCC5nCkyM_0000022 657.6 669.2 
+Jon_Huertas/k3pCC5nCkyM_0000023 669.3 679.6 
+Jon_Huertas/k3pCC5nCkyM_0000024 688.8 712.6 
+Jon_Huertas/k3pCC5nCkyM_0000025 651.0 657.0 
+Jon_Huertas/k3pCC5nCkyM_0000026 678.7 685.5 
+Jon_Huertas/k3pCC5nCkyM_0000027 789.7 797.1 
+Jon_Huertas/k3pCC5nCkyM_0000028 798.1 811.5 
+Jon_Huertas/k3pCC5nCkyM_0000029 816.3 831.1 

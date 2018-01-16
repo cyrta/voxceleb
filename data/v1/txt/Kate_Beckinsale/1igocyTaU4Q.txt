@@ -1,0 +1,8 @@
+POI: 			Kate_Beckinsale 
+Youtube ID: 	1igocyTaU4Q 
+Video length: 	273.6 sec 
+Set (V): 		dev 
+ 
+Kate_Beckinsale/1igocyTaU4Q_0000001 57.7 66.5 
+Kate_Beckinsale/1igocyTaU4Q_0000002 104.0 110.2 
+Kate_Beckinsale/1igocyTaU4Q_0000003 252.5 257.2 

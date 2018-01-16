@@ -1,0 +1,13 @@
+POI: 			Chelsea_Handler 
+Youtube ID: 	SGRM7qcFzlI 
+Video length: 	538.9 sec 
+Set (V): 		dev 
+ 
+Chelsea_Handler/SGRM7qcFzlI_0000001 16.0 21.8 
+Chelsea_Handler/SGRM7qcFzlI_0000002 28.1 32.4 
+Chelsea_Handler/SGRM7qcFzlI_0000003 55.8 60.0 
+Chelsea_Handler/SGRM7qcFzlI_0000004 104.4 116.9 
+Chelsea_Handler/SGRM7qcFzlI_0000005 153.4 166.8 
+Chelsea_Handler/SGRM7qcFzlI_0000006 195.1 202.0 
+Chelsea_Handler/SGRM7qcFzlI_0000007 215.9 221.2 
+Chelsea_Handler/SGRM7qcFzlI_0000008 319.3 325.8 

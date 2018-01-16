@@ -1,0 +1,8 @@
+POI: 			Lorenza_Izzo 
+Youtube ID: 	14ZCV24u3GA 
+Video length: 	238.0 sec 
+Set (V): 		dev 
+ 
+Lorenza_Izzo/14ZCV24u3GA_0000001 21.0 43.7 
+Lorenza_Izzo/14ZCV24u3GA_0000002 43.9 51.3 
+Lorenza_Izzo/14ZCV24u3GA_0000003 77.3 89.6 

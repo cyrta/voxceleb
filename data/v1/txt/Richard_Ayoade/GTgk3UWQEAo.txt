@@ -1,0 +1,8 @@
+POI: 			Richard_Ayoade 
+Youtube ID: 	GTgk3UWQEAo 
+Video length: 	338.3 sec 
+Set (V): 		dev 
+ 
+Richard_Ayoade/GTgk3UWQEAo_0000001 150.9 160.4 
+Richard_Ayoade/GTgk3UWQEAo_0000002 160.8 167.6 
+Richard_Ayoade/GTgk3UWQEAo_0000003 282.4 286.7 

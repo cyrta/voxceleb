@@ -1,0 +1,12 @@
+POI: 			Mandy_Patinkin 
+Youtube ID: 	sMW0y2QiLZg 
+Video length: 	553.0 sec 
+Set (V): 		dev 
+ 
+Mandy_Patinkin/sMW0y2QiLZg_0000001 141.2 146.0 
+Mandy_Patinkin/sMW0y2QiLZg_0000002 146.1 152.1 
+Mandy_Patinkin/sMW0y2QiLZg_0000003 335.3 347.0 
+Mandy_Patinkin/sMW0y2QiLZg_0000004 376.2 383.4 
+Mandy_Patinkin/sMW0y2QiLZg_0000005 438.7 443.7 
+Mandy_Patinkin/sMW0y2QiLZg_0000006 469.4 474.0 
+Mandy_Patinkin/sMW0y2QiLZg_0000007 479.9 485.1 

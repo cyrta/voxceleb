@@ -1,0 +1,26 @@
+POI: 			Eli_Roth 
+Youtube ID: 	gAKHqHbNt2g 
+Video length: 	783.5 sec 
+Set (V): 		test 
+ 
+Eli_Roth/gAKHqHbNt2g_0000001 16.0 25.3 
+Eli_Roth/gAKHqHbNt2g_0000002 31.4 42.2 
+Eli_Roth/gAKHqHbNt2g_0000003 146.9 153.2 
+Eli_Roth/gAKHqHbNt2g_0000004 163.1 170.6 
+Eli_Roth/gAKHqHbNt2g_0000005 167.6 174.8 
+Eli_Roth/gAKHqHbNt2g_0000006 186.0 212.8 
+Eli_Roth/gAKHqHbNt2g_0000007 238.4 277.2 
+Eli_Roth/gAKHqHbNt2g_0000008 277.6 292.5 
+Eli_Roth/gAKHqHbNt2g_0000009 280.8 285.4 
+Eli_Roth/gAKHqHbNt2g_0000010 300.6 308.0 
+Eli_Roth/gAKHqHbNt2g_0000011 311.4 317.8 
+Eli_Roth/gAKHqHbNt2g_0000012 401.3 429.8 
+Eli_Roth/gAKHqHbNt2g_0000013 432.0 438.8 
+Eli_Roth/gAKHqHbNt2g_0000014 441.0 446.8 
+Eli_Roth/gAKHqHbNt2g_0000015 449.4 453.6 
+Eli_Roth/gAKHqHbNt2g_0000016 530.0 539.3 
+Eli_Roth/gAKHqHbNt2g_0000017 543.9 550.0 
+Eli_Roth/gAKHqHbNt2g_0000018 549.3 553.6 
+Eli_Roth/gAKHqHbNt2g_0000019 707.7 742.1 
+Eli_Roth/gAKHqHbNt2g_0000020 736.4 744.0 
+Eli_Roth/gAKHqHbNt2g_0000021 753.5 771.5 

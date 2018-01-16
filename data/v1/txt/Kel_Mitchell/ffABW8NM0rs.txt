@@ -1,0 +1,9 @@
+POI: 			Kel_Mitchell 
+Youtube ID: 	ffABW8NM0rs 
+Video length: 	193.3 sec 
+Set (V): 		dev 
+ 
+Kel_Mitchell/ffABW8NM0rs_0000001 73.2 78.8 
+Kel_Mitchell/ffABW8NM0rs_0000002 79.5 86.7 
+Kel_Mitchell/ffABW8NM0rs_0000003 130.0 137.6 
+Kel_Mitchell/ffABW8NM0rs_0000004 146.0 151.2 

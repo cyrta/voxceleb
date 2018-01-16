@@ -1,0 +1,12 @@
+POI: 			Jillian_Harris 
+Youtube ID: 	V-C-0oyiEBQ 
+Video length: 	173.2 sec 
+Set (V): 		dev 
+ 
+Jillian_Harris/V-C-0oyiEBQ_0000001 23.1 33.6 
+Jillian_Harris/V-C-0oyiEBQ_0000002 40.7 50.1 
+Jillian_Harris/V-C-0oyiEBQ_0000003 64.7 73.3 
+Jillian_Harris/V-C-0oyiEBQ_0000004 88.2 93.9 
+Jillian_Harris/V-C-0oyiEBQ_0000005 98.0 104.9 
+Jillian_Harris/V-C-0oyiEBQ_0000006 122.2 126.8 
+Jillian_Harris/V-C-0oyiEBQ_0000007 147.2 152.0 

@@ -1,0 +1,17 @@
+POI: 			Shay_Mitchell 
+Youtube ID: 	_LoG-TmlOGI 
+Video length: 	479.3 sec 
+Set (V): 		dev 
+ 
+Shay_Mitchell/_LoG-TmlOGI_0000001 161.0 178.3 
+Shay_Mitchell/_LoG-TmlOGI_0000002 191.1 196.3 
+Shay_Mitchell/_LoG-TmlOGI_0000003 236.2 241.9 
+Shay_Mitchell/_LoG-TmlOGI_0000004 242.2 247.5 
+Shay_Mitchell/_LoG-TmlOGI_0000005 277.4 281.6 
+Shay_Mitchell/_LoG-TmlOGI_0000006 283.8 287.8 
+Shay_Mitchell/_LoG-TmlOGI_0000007 334.2 354.9 
+Shay_Mitchell/_LoG-TmlOGI_0000008 355.3 359.8 
+Shay_Mitchell/_LoG-TmlOGI_0000009 396.4 407.7 
+Shay_Mitchell/_LoG-TmlOGI_0000010 408.9 429.6 
+Shay_Mitchell/_LoG-TmlOGI_0000011 429.7 435.6 
+Shay_Mitchell/_LoG-TmlOGI_0000012 453.4 459.4 

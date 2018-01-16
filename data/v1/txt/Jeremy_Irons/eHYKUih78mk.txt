@@ -1,0 +1,11 @@
+POI: 			Jeremy_Irons 
+Youtube ID: 	eHYKUih78mk 
+Video length: 	744.2 sec 
+Set (V): 		dev 
+ 
+Jeremy_Irons/eHYKUih78mk_0000001 412.6 422.0 
+Jeremy_Irons/eHYKUih78mk_0000002 435.2 446.4 
+Jeremy_Irons/eHYKUih78mk_0000003 452.5 460.7 
+Jeremy_Irons/eHYKUih78mk_0000004 585.4 592.2 
+Jeremy_Irons/eHYKUih78mk_0000005 602.4 607.7 
+Jeremy_Irons/eHYKUih78mk_0000006 613.8 619.6 

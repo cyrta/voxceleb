@@ -1,0 +1,8 @@
+POI: 			Kevin_McHale 
+Youtube ID: 	5x1O73f4-EA 
+Video length: 	620.5 sec 
+Set (V): 		dev 
+ 
+Kevin_McHale/5x1O73f4-EA_0000001 182.1 186.8 
+Kevin_McHale/5x1O73f4-EA_0000002 456.1 461.2 
+Kevin_McHale/5x1O73f4-EA_0000003 535.7 542.4 

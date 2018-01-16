@@ -1,0 +1,9 @@
+POI: 			Joel_Edgerton 
+Youtube ID: 	2AmGxt5xX_k 
+Video length: 	480.9 sec 
+Set (V): 		dev 
+ 
+Joel_Edgerton/2AmGxt5xX_k_0000001 82.5 86.7 
+Joel_Edgerton/2AmGxt5xX_k_0000002 89.2 93.3 
+Joel_Edgerton/2AmGxt5xX_k_0000003 207.0 211.3 
+Joel_Edgerton/2AmGxt5xX_k_0000004 402.8 414.0 

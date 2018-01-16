@@ -1,0 +1,9 @@
+POI: 			Rik_Mayall 
+Youtube ID: 	wKvi6S68r_U 
+Video length: 	145.7 sec 
+Set (V): 		dev 
+ 
+Rik_Mayall/wKvi6S68r_U_0000001 31.9 51.8 
+Rik_Mayall/wKvi6S68r_U_0000002 54.2 64.2 
+Rik_Mayall/wKvi6S68r_U_0000003 66.2 72.3 
+Rik_Mayall/wKvi6S68r_U_0000004 102.1 120.4 

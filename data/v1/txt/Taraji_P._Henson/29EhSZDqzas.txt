@@ -1,0 +1,11 @@
+POI: 			Taraji_P._Henson 
+Youtube ID: 	29EhSZDqzas 
+Video length: 	330.5 sec 
+Set (V): 		dev 
+ 
+Taraji_P._Henson/29EhSZDqzas_0000001 13.3 23.9 
+Taraji_P._Henson/29EhSZDqzas_0000002 26.4 33.8 
+Taraji_P._Henson/29EhSZDqzas_0000003 70.2 75.5 
+Taraji_P._Henson/29EhSZDqzas_0000004 82.6 101.2 
+Taraji_P._Henson/29EhSZDqzas_0000005 142.0 146.7 
+Taraji_P._Henson/29EhSZDqzas_0000006 153.3 163.1 

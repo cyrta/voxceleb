@@ -1,0 +1,16 @@
+POI: 			Phyllis_Diller 
+Youtube ID: 	xO0LOfaaax4 
+Video length: 	146.9 sec 
+Set (V): 		dev 
+ 
+Phyllis_Diller/xO0LOfaaax4_0000001 06.3 14.2 
+Phyllis_Diller/xO0LOfaaax4_0000002 15.9 20.3 
+Phyllis_Diller/xO0LOfaaax4_0000003 23.7 34.6 
+Phyllis_Diller/xO0LOfaaax4_0000004 34.9 39.8 
+Phyllis_Diller/xO0LOfaaax4_0000005 40.5 45.0 
+Phyllis_Diller/xO0LOfaaax4_0000006 46.3 72.5 
+Phyllis_Diller/xO0LOfaaax4_0000007 73.0 83.6 
+Phyllis_Diller/xO0LOfaaax4_0000008 84.4 91.9 
+Phyllis_Diller/xO0LOfaaax4_0000009 97.2 101.1 
+Phyllis_Diller/xO0LOfaaax4_0000010 103.9 121.8 
+Phyllis_Diller/xO0LOfaaax4_0000011 122.2 131.1 

@@ -1,0 +1,10 @@
+POI: 			Jim_Jefferies 
+Youtube ID: 	iTi65KCm8b0 
+Video length: 	300.1 sec 
+Set (V): 		dev 
+ 
+Jim_Jefferies/iTi65KCm8b0_0000001 08.8 19.1 
+Jim_Jefferies/iTi65KCm8b0_0000002 25.7 30.1 
+Jim_Jefferies/iTi65KCm8b0_0000003 63.3 67.6 
+Jim_Jefferies/iTi65KCm8b0_0000004 185.0 190.8 
+Jim_Jefferies/iTi65KCm8b0_0000005 275.7 280.4 

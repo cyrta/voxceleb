@@ -1,0 +1,25 @@
+POI: 			Gordon_Ramsay 
+Youtube ID: 	ETuCbSf3YjY 
+Video length: 	657.2 sec 
+Set (V): 		dev 
+ 
+Gordon_Ramsay/ETuCbSf3YjY_0000001 100.1 108.2 
+Gordon_Ramsay/ETuCbSf3YjY_0000002 135.7 150.2 
+Gordon_Ramsay/ETuCbSf3YjY_0000003 150.4 155.2 
+Gordon_Ramsay/ETuCbSf3YjY_0000004 157.0 169.6 
+Gordon_Ramsay/ETuCbSf3YjY_0000005 217.1 225.7 
+Gordon_Ramsay/ETuCbSf3YjY_0000006 227.8 233.8 
+Gordon_Ramsay/ETuCbSf3YjY_0000007 240.1 244.8 
+Gordon_Ramsay/ETuCbSf3YjY_0000008 246.8 252.3 
+Gordon_Ramsay/ETuCbSf3YjY_0000009 281.7 293.0 
+Gordon_Ramsay/ETuCbSf3YjY_0000010 294.4 309.8 
+Gordon_Ramsay/ETuCbSf3YjY_0000011 324.1 332.5 
+Gordon_Ramsay/ETuCbSf3YjY_0000012 351.0 356.6 
+Gordon_Ramsay/ETuCbSf3YjY_0000013 385.8 390.2 
+Gordon_Ramsay/ETuCbSf3YjY_0000014 414.8 429.1 
+Gordon_Ramsay/ETuCbSf3YjY_0000015 461.8 467.3 
+Gordon_Ramsay/ETuCbSf3YjY_0000016 481.4 490.1 
+Gordon_Ramsay/ETuCbSf3YjY_0000017 498.7 502.9 
+Gordon_Ramsay/ETuCbSf3YjY_0000018 528.7 537.2 
+Gordon_Ramsay/ETuCbSf3YjY_0000019 542.4 547.0 
+Gordon_Ramsay/ETuCbSf3YjY_0000020 563.1 570.1 

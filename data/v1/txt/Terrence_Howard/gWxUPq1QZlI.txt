@@ -1,0 +1,11 @@
+POI: 			Terrence_Howard 
+Youtube ID: 	gWxUPq1QZlI 
+Video length: 	648.2 sec 
+Set (V): 		dev 
+ 
+Terrence_Howard/gWxUPq1QZlI_0000001 78.4 82.7 
+Terrence_Howard/gWxUPq1QZlI_0000002 118.5 124.4 
+Terrence_Howard/gWxUPq1QZlI_0000003 142.2 147.0 
+Terrence_Howard/gWxUPq1QZlI_0000004 151.6 155.8 
+Terrence_Howard/gWxUPq1QZlI_0000005 218.7 223.7 
+Terrence_Howard/gWxUPq1QZlI_0000006 245.8 249.7 

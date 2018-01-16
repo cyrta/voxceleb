@@ -1,0 +1,23 @@
+POI: 			Janet_McTeer 
+Youtube ID: 	I815dVpOdms 
+Video length: 	1892.3 sec 
+Set (V): 		dev 
+ 
+Janet_McTeer/I815dVpOdms_0000001 258.6 263.7 
+Janet_McTeer/I815dVpOdms_0000002 264.5 283.7 
+Janet_McTeer/I815dVpOdms_0000003 482.0 491.9 
+Janet_McTeer/I815dVpOdms_0000004 674.6 681.8 
+Janet_McTeer/I815dVpOdms_0000005 697.1 705.2 
+Janet_McTeer/I815dVpOdms_0000006 707.3 713.8 
+Janet_McTeer/I815dVpOdms_0000007 855.0 859.6 
+Janet_McTeer/I815dVpOdms_0000008 1062.8 1068.1 
+Janet_McTeer/I815dVpOdms_0000009 1076.4 1080.4 
+Janet_McTeer/I815dVpOdms_0000010 1108.2 1114.7 
+Janet_McTeer/I815dVpOdms_0000011 1116.9 1121.4 
+Janet_McTeer/I815dVpOdms_0000012 1124.2 1128.4 
+Janet_McTeer/I815dVpOdms_0000013 1184.4 1190.8 
+Janet_McTeer/I815dVpOdms_0000014 1192.3 1196.5 
+Janet_McTeer/I815dVpOdms_0000015 1243.2 1248.0 
+Janet_McTeer/I815dVpOdms_0000016 1511.3 1520.6 
+Janet_McTeer/I815dVpOdms_0000017 1726.4 1733.3 
+Janet_McTeer/I815dVpOdms_0000018 1814.1 1823.1 

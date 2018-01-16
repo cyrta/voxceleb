@@ -1,0 +1,8 @@
+POI: 			Rachel_McAdams 
+Youtube ID: 	1thwydJIuvI 
+Video length: 	298.1 sec 
+Set (V): 		dev 
+ 
+Rachel_McAdams/1thwydJIuvI_0000001 124.5 129.3 
+Rachel_McAdams/1thwydJIuvI_0000002 195.2 201.1 
+Rachel_McAdams/1thwydJIuvI_0000003 240.4 244.8 

@@ -1,0 +1,10 @@
+POI: 			Jason_Clarke 
+Youtube ID: 	hDHLzt_MZ84 
+Video length: 	212.6 sec 
+Set (V): 		dev 
+ 
+Jason_Clarke/hDHLzt_MZ84_0000001 143.4 149.4 
+Jason_Clarke/hDHLzt_MZ84_0000002 152.6 161.0 
+Jason_Clarke/hDHLzt_MZ84_0000003 164.8 170.1 
+Jason_Clarke/hDHLzt_MZ84_0000004 181.4 188.4 
+Jason_Clarke/hDHLzt_MZ84_0000005 190.4 196.8 

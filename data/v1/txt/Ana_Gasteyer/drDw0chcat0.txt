@@ -1,0 +1,8 @@
+POI: 			Ana_Gasteyer 
+Youtube ID: 	drDw0chcat0 
+Video length: 	569.7 sec 
+Set (V): 		dev 
+ 
+Ana_Gasteyer/drDw0chcat0_0000001 317.8 322.2 
+Ana_Gasteyer/drDw0chcat0_0000002 380.0 384.0 
+Ana_Gasteyer/drDw0chcat0_0000003 414.9 419.4 

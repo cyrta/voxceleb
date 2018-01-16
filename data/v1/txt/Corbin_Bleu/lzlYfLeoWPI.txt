@@ -1,0 +1,24 @@
+POI: 			Corbin_Bleu 
+Youtube ID: 	lzlYfLeoWPI 
+Video length: 	294.9 sec 
+Set (V): 		dev 
+ 
+Corbin_Bleu/lzlYfLeoWPI_0000001 11.6 17.6 
+Corbin_Bleu/lzlYfLeoWPI_0000002 18.3 25.3 
+Corbin_Bleu/lzlYfLeoWPI_0000003 41.5 47.4 
+Corbin_Bleu/lzlYfLeoWPI_0000004 48.2 53.7 
+Corbin_Bleu/lzlYfLeoWPI_0000005 58.5 62.5 
+Corbin_Bleu/lzlYfLeoWPI_0000006 74.4 79.5 
+Corbin_Bleu/lzlYfLeoWPI_0000007 84.4 91.5 
+Corbin_Bleu/lzlYfLeoWPI_0000008 92.1 98.5 
+Corbin_Bleu/lzlYfLeoWPI_0000009 98.6 109.1 
+Corbin_Bleu/lzlYfLeoWPI_0000010 109.8 117.8 
+Corbin_Bleu/lzlYfLeoWPI_0000011 123.0 134.2 
+Corbin_Bleu/lzlYfLeoWPI_0000012 152.4 167.5 
+Corbin_Bleu/lzlYfLeoWPI_0000013 167.7 179.7 
+Corbin_Bleu/lzlYfLeoWPI_0000014 205.0 209.6 
+Corbin_Bleu/lzlYfLeoWPI_0000015 210.2 218.7 
+Corbin_Bleu/lzlYfLeoWPI_0000016 235.1 241.1 
+Corbin_Bleu/lzlYfLeoWPI_0000017 242.1 261.0 
+Corbin_Bleu/lzlYfLeoWPI_0000018 263.9 271.4 
+Corbin_Bleu/lzlYfLeoWPI_0000019 275.5 281.8 

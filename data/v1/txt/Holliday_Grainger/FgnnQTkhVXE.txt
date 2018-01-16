@@ -1,0 +1,22 @@
+POI: 			Holliday_Grainger 
+Youtube ID: 	FgnnQTkhVXE 
+Video length: 	1908.4 sec 
+Set (V): 		dev 
+ 
+Holliday_Grainger/FgnnQTkhVXE_0000001 170.0 180.8 
+Holliday_Grainger/FgnnQTkhVXE_0000002 181.8 187.7 
+Holliday_Grainger/FgnnQTkhVXE_0000003 190.1 195.9 
+Holliday_Grainger/FgnnQTkhVXE_0000004 208.2 227.8 
+Holliday_Grainger/FgnnQTkhVXE_0000005 228.1 243.3 
+Holliday_Grainger/FgnnQTkhVXE_0000006 246.2 252.0 
+Holliday_Grainger/FgnnQTkhVXE_0000007 252.5 272.1 
+Holliday_Grainger/FgnnQTkhVXE_0000008 546.8 554.4 
+Holliday_Grainger/FgnnQTkhVXE_0000009 568.2 595.7 
+Holliday_Grainger/FgnnQTkhVXE_0000010 956.2 1014.4 
+Holliday_Grainger/FgnnQTkhVXE_0000011 1085.7 1092.4 
+Holliday_Grainger/FgnnQTkhVXE_0000012 1138.5 1152.5 
+Holliday_Grainger/FgnnQTkhVXE_0000013 1153.8 1176.5 
+Holliday_Grainger/FgnnQTkhVXE_0000014 1188.4 1199.6 
+Holliday_Grainger/FgnnQTkhVXE_0000015 1567.4 1576.0 
+Holliday_Grainger/FgnnQTkhVXE_0000016 1584.7 1603.2 
+Holliday_Grainger/FgnnQTkhVXE_0000017 1605.7 1614.0 

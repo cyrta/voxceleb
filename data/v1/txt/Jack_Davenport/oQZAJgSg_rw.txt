@@ -1,0 +1,11 @@
+POI: 			Jack_Davenport 
+Youtube ID: 	oQZAJgSg_rw 
+Video length: 	74.1 sec 
+Set (V): 		dev 
+ 
+Jack_Davenport/oQZAJgSg_rw_0000001 01.1 06.5 
+Jack_Davenport/oQZAJgSg_rw_0000002 24.4 34.1 
+Jack_Davenport/oQZAJgSg_rw_0000003 40.2 44.3 
+Jack_Davenport/oQZAJgSg_rw_0000004 49.8 54.6 
+Jack_Davenport/oQZAJgSg_rw_0000005 56.0 64.1 
+Jack_Davenport/oQZAJgSg_rw_0000006 65.5 72.6 

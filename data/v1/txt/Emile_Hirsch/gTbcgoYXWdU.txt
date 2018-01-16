@@ -1,0 +1,11 @@
+POI: 			Emile_Hirsch 
+Youtube ID: 	gTbcgoYXWdU 
+Video length: 	198.1 sec 
+Set (V): 		test 
+ 
+Emile_Hirsch/gTbcgoYXWdU_0000001 19.2 23.7 
+Emile_Hirsch/gTbcgoYXWdU_0000002 27.9 40.9 
+Emile_Hirsch/gTbcgoYXWdU_0000003 46.9 53.2 
+Emile_Hirsch/gTbcgoYXWdU_0000004 60.5 72.6 
+Emile_Hirsch/gTbcgoYXWdU_0000005 73.4 79.4 
+Emile_Hirsch/gTbcgoYXWdU_0000006 178.4 183.3 

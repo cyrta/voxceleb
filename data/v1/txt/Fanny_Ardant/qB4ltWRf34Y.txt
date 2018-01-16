@@ -1,0 +1,19 @@
+POI: 			Fanny_Ardant 
+Youtube ID: 	qB4ltWRf34Y 
+Video length: 	355.2 sec 
+Set (V): 		dev 
+ 
+Fanny_Ardant/qB4ltWRf34Y_0000001 12.3 18.6 
+Fanny_Ardant/qB4ltWRf34Y_0000002 23.2 30.6 
+Fanny_Ardant/qB4ltWRf34Y_0000003 31.9 38.0 
+Fanny_Ardant/qB4ltWRf34Y_0000004 65.2 69.2 
+Fanny_Ardant/qB4ltWRf34Y_0000005 73.5 81.0 
+Fanny_Ardant/qB4ltWRf34Y_0000006 92.9 98.5 
+Fanny_Ardant/qB4ltWRf34Y_0000007 132.5 136.9 
+Fanny_Ardant/qB4ltWRf34Y_0000008 147.9 156.8 
+Fanny_Ardant/qB4ltWRf34Y_0000009 157.0 161.2 
+Fanny_Ardant/qB4ltWRf34Y_0000010 163.2 167.7 
+Fanny_Ardant/qB4ltWRf34Y_0000011 219.0 224.2 
+Fanny_Ardant/qB4ltWRf34Y_0000012 235.4 241.4 
+Fanny_Ardant/qB4ltWRf34Y_0000013 255.5 262.3 
+Fanny_Ardant/qB4ltWRf34Y_0000014 302.0 307.5 

@@ -1,0 +1,10 @@
+POI: 			Vince_Gilligan 
+Youtube ID: 	6mnL46vX6NY 
+Video length: 	501.4 sec 
+Set (V): 		dev 
+ 
+Vince_Gilligan/6mnL46vX6NY_0000001 67.4 72.6 
+Vince_Gilligan/6mnL46vX6NY_0000002 87.2 93.8 
+Vince_Gilligan/6mnL46vX6NY_0000003 145.2 149.2 
+Vince_Gilligan/6mnL46vX6NY_0000004 376.0 382.5 
+Vince_Gilligan/6mnL46vX6NY_0000005 386.8 394.8 

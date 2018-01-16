@@ -1,0 +1,22 @@
+POI: 			Amitabh_Bachchan 
+Youtube ID: 	hz5NFR5M6Uc 
+Video length: 	874.2 sec 
+Set (V): 		dev 
+ 
+Amitabh_Bachchan/hz5NFR5M6Uc_0000001 139.8 144.0 
+Amitabh_Bachchan/hz5NFR5M6Uc_0000002 147.8 154.6 
+Amitabh_Bachchan/hz5NFR5M6Uc_0000003 228.5 233.1 
+Amitabh_Bachchan/hz5NFR5M6Uc_0000004 243.3 252.4 
+Amitabh_Bachchan/hz5NFR5M6Uc_0000005 371.0 375.1 
+Amitabh_Bachchan/hz5NFR5M6Uc_0000006 393.9 403.2 
+Amitabh_Bachchan/hz5NFR5M6Uc_0000007 405.6 410.5 
+Amitabh_Bachchan/hz5NFR5M6Uc_0000008 411.2 416.0 
+Amitabh_Bachchan/hz5NFR5M6Uc_0000009 417.0 421.2 
+Amitabh_Bachchan/hz5NFR5M6Uc_0000010 433.8 438.7 
+Amitabh_Bachchan/hz5NFR5M6Uc_0000011 455.9 460.5 
+Amitabh_Bachchan/hz5NFR5M6Uc_0000012 476.8 483.7 
+Amitabh_Bachchan/hz5NFR5M6Uc_0000013 506.0 514.8 
+Amitabh_Bachchan/hz5NFR5M6Uc_0000014 518.6 528.2 
+Amitabh_Bachchan/hz5NFR5M6Uc_0000015 528.8 532.8 
+Amitabh_Bachchan/hz5NFR5M6Uc_0000016 543.1 549.2 
+Amitabh_Bachchan/hz5NFR5M6Uc_0000017 810.6 814.8 

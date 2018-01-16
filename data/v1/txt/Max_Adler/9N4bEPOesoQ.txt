@@ -1,0 +1,13 @@
+POI: 			Max_Adler 
+Youtube ID: 	9N4bEPOesoQ 
+Video length: 	185.4 sec 
+Set (V): 		dev 
+ 
+Max_Adler/9N4bEPOesoQ_0000001 07.6 16.0 
+Max_Adler/9N4bEPOesoQ_0000002 30.9 37.8 
+Max_Adler/9N4bEPOesoQ_0000003 59.4 70.0 
+Max_Adler/9N4bEPOesoQ_0000004 80.1 103.3 
+Max_Adler/9N4bEPOesoQ_0000005 107.4 117.1 
+Max_Adler/9N4bEPOesoQ_0000006 127.0 132.6 
+Max_Adler/9N4bEPOesoQ_0000007 144.0 153.8 
+Max_Adler/9N4bEPOesoQ_0000008 160.2 170.6 

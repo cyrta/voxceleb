@@ -1,0 +1,13 @@
+POI: 			Steven_Berkoff 
+Youtube ID: 	2YPFATxZfYc 
+Video length: 	161.6 sec 
+Set (V): 		dev 
+ 
+Steven_Berkoff/2YPFATxZfYc_0000001 12.0 33.0 
+Steven_Berkoff/2YPFATxZfYc_0000002 63.6 68.0 
+Steven_Berkoff/2YPFATxZfYc_0000003 69.8 84.0 
+Steven_Berkoff/2YPFATxZfYc_0000004 91.9 97.1 
+Steven_Berkoff/2YPFATxZfYc_0000005 107.2 119.4 
+Steven_Berkoff/2YPFATxZfYc_0000006 119.5 125.7 
+Steven_Berkoff/2YPFATxZfYc_0000007 125.9 132.6 
+Steven_Berkoff/2YPFATxZfYc_0000008 135.0 150.2 

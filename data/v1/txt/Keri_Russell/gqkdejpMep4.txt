@@ -1,0 +1,12 @@
+POI: 			Keri_Russell 
+Youtube ID: 	gqkdejpMep4 
+Video length: 	237.2 sec 
+Set (V): 		dev 
+ 
+Keri_Russell/gqkdejpMep4_0000001 25.8 30.3 
+Keri_Russell/gqkdejpMep4_0000002 45.4 50.3 
+Keri_Russell/gqkdejpMep4_0000003 55.0 59.1 
+Keri_Russell/gqkdejpMep4_0000004 67.3 84.4 
+Keri_Russell/gqkdejpMep4_0000005 154.6 166.4 
+Keri_Russell/gqkdejpMep4_0000006 166.6 170.6 
+Keri_Russell/gqkdejpMep4_0000007 177.5 181.5 

@@ -1,0 +1,8 @@
+POI: 			Tom_Ford 
+Youtube ID: 	CvhMzpSVCr8 
+Video length: 	82.0 sec 
+Set (V): 		dev 
+ 
+Tom_Ford/CvhMzpSVCr8_0000001 16.8 22.6 
+Tom_Ford/CvhMzpSVCr8_0000002 59.0 63.3 
+Tom_Ford/CvhMzpSVCr8_0000003 68.0 74.4 

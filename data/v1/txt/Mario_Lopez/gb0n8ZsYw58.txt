@@ -1,0 +1,9 @@
+POI: 			Mario_Lopez 
+Youtube ID: 	gb0n8ZsYw58 
+Video length: 	157.2 sec 
+Set (V): 		dev 
+ 
+Mario_Lopez/gb0n8ZsYw58_0000001 45.9 50.8 
+Mario_Lopez/gb0n8ZsYw58_0000002 51.6 60.0 
+Mario_Lopez/gb0n8ZsYw58_0000003 94.5 102.4 
+Mario_Lopez/gb0n8ZsYw58_0000004 117.5 130.0 

@@ -1,0 +1,29 @@
+POI: 			Erik_Estrada 
+Youtube ID: 	6qFnVechX9o 
+Video length: 	583.8 sec 
+Set (V): 		test 
+ 
+Erik_Estrada/6qFnVechX9o_0000001 38.9 46.8 
+Erik_Estrada/6qFnVechX9o_0000002 59.7 66.2 
+Erik_Estrada/6qFnVechX9o_0000003 92.8 97.2 
+Erik_Estrada/6qFnVechX9o_0000004 109.5 113.7 
+Erik_Estrada/6qFnVechX9o_0000005 115.6 119.8 
+Erik_Estrada/6qFnVechX9o_0000006 125.4 130.4 
+Erik_Estrada/6qFnVechX9o_0000007 130.8 139.8 
+Erik_Estrada/6qFnVechX9o_0000008 145.4 152.8 
+Erik_Estrada/6qFnVechX9o_0000009 156.9 161.1 
+Erik_Estrada/6qFnVechX9o_0000010 169.0 173.4 
+Erik_Estrada/6qFnVechX9o_0000011 233.7 240.2 
+Erik_Estrada/6qFnVechX9o_0000012 242.1 246.9 
+Erik_Estrada/6qFnVechX9o_0000013 259.6 265.6 
+Erik_Estrada/6qFnVechX9o_0000014 279.0 284.4 
+Erik_Estrada/6qFnVechX9o_0000015 289.3 301.8 
+Erik_Estrada/6qFnVechX9o_0000016 302.6 316.2 
+Erik_Estrada/6qFnVechX9o_0000017 316.4 323.2 
+Erik_Estrada/6qFnVechX9o_0000018 330.1 337.2 
+Erik_Estrada/6qFnVechX9o_0000019 340.3 347.2 
+Erik_Estrada/6qFnVechX9o_0000020 357.9 371.4 
+Erik_Estrada/6qFnVechX9o_0000021 395.0 401.9 
+Erik_Estrada/6qFnVechX9o_0000022 402.4 408.1 
+Erik_Estrada/6qFnVechX9o_0000023 411.8 417.2 
+Erik_Estrada/6qFnVechX9o_0000024 428.1 442.8 

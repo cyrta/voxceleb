@@ -1,0 +1,15 @@
+POI: 			Sonam_Kapoor 
+Youtube ID: 	jLxYcYqHGAg 
+Video length: 	786.4 sec 
+Set (V): 		dev 
+ 
+Sonam_Kapoor/jLxYcYqHGAg_0000001 40.0 44.5 
+Sonam_Kapoor/jLxYcYqHGAg_0000002 48.7 57.3 
+Sonam_Kapoor/jLxYcYqHGAg_0000003 201.3 205.9 
+Sonam_Kapoor/jLxYcYqHGAg_0000004 206.9 216.8 
+Sonam_Kapoor/jLxYcYqHGAg_0000005 408.7 412.8 
+Sonam_Kapoor/jLxYcYqHGAg_0000006 415.1 428.1 
+Sonam_Kapoor/jLxYcYqHGAg_0000007 443.6 449.8 
+Sonam_Kapoor/jLxYcYqHGAg_0000008 449.9 455.0 
+Sonam_Kapoor/jLxYcYqHGAg_0000009 661.9 667.3 
+Sonam_Kapoor/jLxYcYqHGAg_0000010 760.4 768.3 

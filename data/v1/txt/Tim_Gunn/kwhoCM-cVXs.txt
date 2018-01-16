@@ -1,0 +1,8 @@
+POI: 			Tim_Gunn 
+Youtube ID: 	kwhoCM-cVXs 
+Video length: 	265.4 sec 
+Set (V): 		dev 
+ 
+Tim_Gunn/kwhoCM-cVXs_0000001 94.1 101.6 
+Tim_Gunn/kwhoCM-cVXs_0000002 158.0 170.0 
+Tim_Gunn/kwhoCM-cVXs_0000003 220.4 232.3 

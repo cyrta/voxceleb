@@ -1,0 +1,9 @@
+POI: 			Martin_Kove 
+Youtube ID: 	M3NrDQilztA 
+Video length: 	134.1 sec 
+Set (V): 		dev 
+ 
+Martin_Kove/M3NrDQilztA_0000001 33.5 37.8 
+Martin_Kove/M3NrDQilztA_0000002 38.5 43.0 
+Martin_Kove/M3NrDQilztA_0000003 43.2 49.3 
+Martin_Kove/M3NrDQilztA_0000004 54.5 59.9 

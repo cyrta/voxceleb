@@ -1,0 +1,10 @@
+POI: 			Keri_Russell 
+Youtube ID: 	L3BNRcIosso 
+Video length: 	213.7 sec 
+Set (V): 		dev 
+ 
+Keri_Russell/L3BNRcIosso_0000001 31.0 39.7 
+Keri_Russell/L3BNRcIosso_0000002 112.2 122.5 
+Keri_Russell/L3BNRcIosso_0000003 125.0 133.6 
+Keri_Russell/L3BNRcIosso_0000004 189.2 196.0 
+Keri_Russell/L3BNRcIosso_0000005 197.1 205.1 

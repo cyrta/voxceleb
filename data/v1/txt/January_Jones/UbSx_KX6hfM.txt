@@ -1,0 +1,11 @@
+POI: 			January_Jones 
+Youtube ID: 	UbSx_KX6hfM 
+Video length: 	297.1 sec 
+Set (V): 		dev 
+ 
+January_Jones/UbSx_KX6hfM_0000001 78.4 88.6 
+January_Jones/UbSx_KX6hfM_0000002 88.8 95.5 
+January_Jones/UbSx_KX6hfM_0000003 127.2 132.7 
+January_Jones/UbSx_KX6hfM_0000004 145.4 150.6 
+January_Jones/UbSx_KX6hfM_0000005 166.6 171.4 
+January_Jones/UbSx_KX6hfM_0000006 233.9 237.9 

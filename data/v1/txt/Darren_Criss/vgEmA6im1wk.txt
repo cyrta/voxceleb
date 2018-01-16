@@ -1,0 +1,16 @@
+POI: 			Darren_Criss 
+Youtube ID: 	vgEmA6im1wk 
+Video length: 	321.0 sec 
+Set (V): 		dev 
+ 
+Darren_Criss/vgEmA6im1wk_0000001 29.4 40.5 
+Darren_Criss/vgEmA6im1wk_0000002 41.6 46.2 
+Darren_Criss/vgEmA6im1wk_0000003 56.0 61.2 
+Darren_Criss/vgEmA6im1wk_0000004 63.3 72.1 
+Darren_Criss/vgEmA6im1wk_0000005 101.4 105.6 
+Darren_Criss/vgEmA6im1wk_0000006 110.0 114.0 
+Darren_Criss/vgEmA6im1wk_0000007 119.4 124.8 
+Darren_Criss/vgEmA6im1wk_0000008 226.6 231.7 
+Darren_Criss/vgEmA6im1wk_0000009 291.1 296.1 
+Darren_Criss/vgEmA6im1wk_0000010 296.2 301.7 
+Darren_Criss/vgEmA6im1wk_0000011 305.0 311.4 

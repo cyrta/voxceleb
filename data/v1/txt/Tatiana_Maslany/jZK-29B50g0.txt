@@ -1,0 +1,17 @@
+POI: 			Tatiana_Maslany 
+Youtube ID: 	jZK-29B50g0 
+Video length: 	551.1 sec 
+Set (V): 		dev 
+ 
+Tatiana_Maslany/jZK-29B50g0_0000001 46.2 53.1 
+Tatiana_Maslany/jZK-29B50g0_0000002 55.0 59.1 
+Tatiana_Maslany/jZK-29B50g0_0000003 71.3 77.7 
+Tatiana_Maslany/jZK-29B50g0_0000004 182.1 192.2 
+Tatiana_Maslany/jZK-29B50g0_0000005 201.9 210.1 
+Tatiana_Maslany/jZK-29B50g0_0000006 220.7 229.0 
+Tatiana_Maslany/jZK-29B50g0_0000007 256.8 261.2 
+Tatiana_Maslany/jZK-29B50g0_0000008 371.2 376.6 
+Tatiana_Maslany/jZK-29B50g0_0000009 475.7 479.7 
+Tatiana_Maslany/jZK-29B50g0_0000010 494.6 503.4 
+Tatiana_Maslany/jZK-29B50g0_0000011 515.4 520.4 
+Tatiana_Maslany/jZK-29B50g0_0000012 528.7 535.2 

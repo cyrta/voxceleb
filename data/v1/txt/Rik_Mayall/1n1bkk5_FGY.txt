@@ -1,0 +1,8 @@
+POI: 			Rik_Mayall 
+Youtube ID: 	1n1bkk5_FGY 
+Video length: 	658.7 sec 
+Set (V): 		dev 
+ 
+Rik_Mayall/1n1bkk5_FGY_0000001 304.1 310.0 
+Rik_Mayall/1n1bkk5_FGY_0000002 469.1 474.6 
+Rik_Mayall/1n1bkk5_FGY_0000003 629.6 634.5 

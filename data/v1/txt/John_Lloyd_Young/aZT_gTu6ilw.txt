@@ -1,0 +1,15 @@
+POI: 			John_Lloyd_Young 
+Youtube ID: 	aZT_gTu6ilw 
+Video length: 	142.4 sec 
+Set (V): 		dev 
+ 
+John_Lloyd_Young/aZT_gTu6ilw_0000001 13.1 18.6 
+John_Lloyd_Young/aZT_gTu6ilw_0000002 21.6 27.5 
+John_Lloyd_Young/aZT_gTu6ilw_0000003 30.8 54.2 
+John_Lloyd_Young/aZT_gTu6ilw_0000004 57.3 62.3 
+John_Lloyd_Young/aZT_gTu6ilw_0000005 65.0 75.5 
+John_Lloyd_Young/aZT_gTu6ilw_0000006 82.6 91.1 
+John_Lloyd_Young/aZT_gTu6ilw_0000007 91.3 96.6 
+John_Lloyd_Young/aZT_gTu6ilw_0000008 96.9 101.7 
+John_Lloyd_Young/aZT_gTu6ilw_0000009 104.8 113.0 
+John_Lloyd_Young/aZT_gTu6ilw_0000010 113.8 120.2 

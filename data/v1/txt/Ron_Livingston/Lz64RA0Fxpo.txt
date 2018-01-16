@@ -1,0 +1,14 @@
+POI: 			Ron_Livingston 
+Youtube ID: 	Lz64RA0Fxpo 
+Video length: 	132.5 sec 
+Set (V): 		dev 
+ 
+Ron_Livingston/Lz64RA0Fxpo_0000001 05.1 20.3 
+Ron_Livingston/Lz64RA0Fxpo_0000002 20.6 25.0 
+Ron_Livingston/Lz64RA0Fxpo_0000003 34.0 39.2 
+Ron_Livingston/Lz64RA0Fxpo_0000004 59.4 66.8 
+Ron_Livingston/Lz64RA0Fxpo_0000005 73.2 81.5 
+Ron_Livingston/Lz64RA0Fxpo_0000006 92.6 96.6 
+Ron_Livingston/Lz64RA0Fxpo_0000007 100.2 105.2 
+Ron_Livingston/Lz64RA0Fxpo_0000008 108.8 116.2 
+Ron_Livingston/Lz64RA0Fxpo_0000009 116.2 121.2 

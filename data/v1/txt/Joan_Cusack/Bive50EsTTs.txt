@@ -1,0 +1,9 @@
+POI: 			Joan_Cusack 
+Youtube ID: 	Bive50EsTTs 
+Video length: 	688.0 sec 
+Set (V): 		dev 
+ 
+Joan_Cusack/Bive50EsTTs_0000001 219.0 223.0 
+Joan_Cusack/Bive50EsTTs_0000002 227.5 231.7 
+Joan_Cusack/Bive50EsTTs_0000003 298.2 303.2 
+Joan_Cusack/Bive50EsTTs_0000004 558.9 565.4 

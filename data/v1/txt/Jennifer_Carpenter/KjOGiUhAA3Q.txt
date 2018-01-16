@@ -1,0 +1,9 @@
+POI: 			Jennifer_Carpenter 
+Youtube ID: 	KjOGiUhAA3Q 
+Video length: 	120.2 sec 
+Set (V): 		dev 
+ 
+Jennifer_Carpenter/KjOGiUhAA3Q_0000001 24.9 31.7 
+Jennifer_Carpenter/KjOGiUhAA3Q_0000002 80.1 84.4 
+Jennifer_Carpenter/KjOGiUhAA3Q_0000003 100.4 104.5 
+Jennifer_Carpenter/KjOGiUhAA3Q_0000004 105.3 110.5 

@@ -1,0 +1,9 @@
+POI: 			Alexandra_Daddario 
+Youtube ID: 	Tl_naQO7rwc 
+Video length: 	361.4 sec 
+Set (V): 		dev 
+ 
+Alexandra_Daddario/Tl_naQO7rwc_0000001 115.8 147.9 
+Alexandra_Daddario/Tl_naQO7rwc_0000002 181.4 194.3 
+Alexandra_Daddario/Tl_naQO7rwc_0000003 295.0 306.2 
+Alexandra_Daddario/Tl_naQO7rwc_0000004 307.0 320.2 

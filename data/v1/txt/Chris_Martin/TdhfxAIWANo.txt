@@ -1,0 +1,10 @@
+POI: 			Chris_Martin 
+Youtube ID: 	TdhfxAIWANo 
+Video length: 	1127.7 sec 
+Set (V): 		dev 
+ 
+Chris_Martin/TdhfxAIWANo_0000001 202.2 207.2 
+Chris_Martin/TdhfxAIWANo_0000002 297.8 304.8 
+Chris_Martin/TdhfxAIWANo_0000003 490.5 494.6 
+Chris_Martin/TdhfxAIWANo_0000004 771.4 780.0 
+Chris_Martin/TdhfxAIWANo_0000005 949.5 953.6 

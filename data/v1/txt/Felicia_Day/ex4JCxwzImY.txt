@@ -1,0 +1,13 @@
+POI: 			Felicia_Day 
+Youtube ID: 	ex4JCxwzImY 
+Video length: 	133.6 sec 
+Set (V): 		dev 
+ 
+Felicia_Day/ex4JCxwzImY_0000001 18.4 39.3 
+Felicia_Day/ex4JCxwzImY_0000002 43.1 48.9 
+Felicia_Day/ex4JCxwzImY_0000003 52.9 63.1 
+Felicia_Day/ex4JCxwzImY_0000004 63.5 67.7 
+Felicia_Day/ex4JCxwzImY_0000005 69.5 90.2 
+Felicia_Day/ex4JCxwzImY_0000006 85.1 89.4 
+Felicia_Day/ex4JCxwzImY_0000007 111.9 120.4 
+Felicia_Day/ex4JCxwzImY_0000008 122.6 127.2 

@@ -1,0 +1,26 @@
+POI: 			Lucas_Cruikshank 
+Youtube ID: 	oyceBd9vBj0 
+Video length: 	506.3 sec 
+Set (V): 		dev 
+ 
+Lucas_Cruikshank/oyceBd9vBj0_0000001 16.2 21.2 
+Lucas_Cruikshank/oyceBd9vBj0_0000002 61.0 65.0 
+Lucas_Cruikshank/oyceBd9vBj0_0000003 72.3 78.2 
+Lucas_Cruikshank/oyceBd9vBj0_0000004 102.5 108.6 
+Lucas_Cruikshank/oyceBd9vBj0_0000005 111.7 116.2 
+Lucas_Cruikshank/oyceBd9vBj0_0000006 117.8 121.9 
+Lucas_Cruikshank/oyceBd9vBj0_0000007 189.2 196.4 
+Lucas_Cruikshank/oyceBd9vBj0_0000008 211.2 215.8 
+Lucas_Cruikshank/oyceBd9vBj0_0000009 217.3 222.6 
+Lucas_Cruikshank/oyceBd9vBj0_0000010 227.8 232.6 
+Lucas_Cruikshank/oyceBd9vBj0_0000011 244.2 248.9 
+Lucas_Cruikshank/oyceBd9vBj0_0000012 259.9 264.8 
+Lucas_Cruikshank/oyceBd9vBj0_0000013 267.2 275.0 
+Lucas_Cruikshank/oyceBd9vBj0_0000014 282.7 287.6 
+Lucas_Cruikshank/oyceBd9vBj0_0000015 319.2 323.8 
+Lucas_Cruikshank/oyceBd9vBj0_0000016 359.1 364.6 
+Lucas_Cruikshank/oyceBd9vBj0_0000017 411.6 416.5 
+Lucas_Cruikshank/oyceBd9vBj0_0000018 421.9 428.0 
+Lucas_Cruikshank/oyceBd9vBj0_0000019 429.1 435.3 
+Lucas_Cruikshank/oyceBd9vBj0_0000020 436.0 442.6 
+Lucas_Cruikshank/oyceBd9vBj0_0000021 452.8 458.4 

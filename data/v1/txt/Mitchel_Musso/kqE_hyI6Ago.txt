@@ -1,0 +1,11 @@
+POI: 			Mitchel_Musso 
+Youtube ID: 	kqE_hyI6Ago 
+Video length: 	782.0 sec 
+Set (V): 		dev 
+ 
+Mitchel_Musso/kqE_hyI6Ago_0000001 102.4 106.4 
+Mitchel_Musso/kqE_hyI6Ago_0000002 158.4 162.4 
+Mitchel_Musso/kqE_hyI6Ago_0000003 227.1 233.0 
+Mitchel_Musso/kqE_hyI6Ago_0000004 348.8 358.5 
+Mitchel_Musso/kqE_hyI6Ago_0000005 418.7 425.6 
+Mitchel_Musso/kqE_hyI6Ago_0000006 655.1 660.1 

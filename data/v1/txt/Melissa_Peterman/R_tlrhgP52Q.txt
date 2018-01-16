@@ -1,0 +1,12 @@
+POI: 			Melissa_Peterman 
+Youtube ID: 	R_tlrhgP52Q 
+Video length: 	163.1 sec 
+Set (V): 		dev 
+ 
+Melissa_Peterman/R_tlrhgP52Q_0000001 20.1 26.2 
+Melissa_Peterman/R_tlrhgP52Q_0000002 40.0 44.0 
+Melissa_Peterman/R_tlrhgP52Q_0000003 46.0 54.8 
+Melissa_Peterman/R_tlrhgP52Q_0000004 71.5 76.4 
+Melissa_Peterman/R_tlrhgP52Q_0000005 78.9 86.4 
+Melissa_Peterman/R_tlrhgP52Q_0000006 107.3 114.6 
+Melissa_Peterman/R_tlrhgP52Q_0000007 115.0 124.2 

@@ -1,0 +1,10 @@
+POI: 			Mathieu_Kassovitz 
+Youtube ID: 	1uc4Mb9rF0c 
+Video length: 	579.4 sec 
+Set (V): 		dev 
+ 
+Mathieu_Kassovitz/1uc4Mb9rF0c_0000001 257.0 262.5 
+Mathieu_Kassovitz/1uc4Mb9rF0c_0000002 269.6 273.7 
+Mathieu_Kassovitz/1uc4Mb9rF0c_0000003 291.5 300.0 
+Mathieu_Kassovitz/1uc4Mb9rF0c_0000004 327.4 332.8 
+Mathieu_Kassovitz/1uc4Mb9rF0c_0000005 353.0 357.0 

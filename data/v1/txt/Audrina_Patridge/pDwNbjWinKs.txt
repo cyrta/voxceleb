@@ -1,0 +1,10 @@
+POI: 			Audrina_Patridge 
+Youtube ID: 	pDwNbjWinKs 
+Video length: 	142.4 sec 
+Set (V): 		dev 
+ 
+Audrina_Patridge/pDwNbjWinKs_0000001 39.9 46.4 
+Audrina_Patridge/pDwNbjWinKs_0000002 47.0 63.6 
+Audrina_Patridge/pDwNbjWinKs_0000003 72.2 88.3 
+Audrina_Patridge/pDwNbjWinKs_0000004 95.2 102.0 
+Audrina_Patridge/pDwNbjWinKs_0000005 114.6 119.5 

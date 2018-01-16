@@ -1,0 +1,16 @@
+POI: 			Peter_Coyote 
+Youtube ID: 	_WRJ5Pgoc2s 
+Video length: 	1191.0 sec 
+Set (V): 		dev 
+ 
+Peter_Coyote/_WRJ5Pgoc2s_0000001 01.0 17.4 
+Peter_Coyote/_WRJ5Pgoc2s_0000002 167.5 173.2 
+Peter_Coyote/_WRJ5Pgoc2s_0000003 181.3 186.1 
+Peter_Coyote/_WRJ5Pgoc2s_0000004 360.2 366.9 
+Peter_Coyote/_WRJ5Pgoc2s_0000005 441.1 445.5 
+Peter_Coyote/_WRJ5Pgoc2s_0000006 629.7 634.2 
+Peter_Coyote/_WRJ5Pgoc2s_0000007 775.6 783.8 
+Peter_Coyote/_WRJ5Pgoc2s_0000008 810.9 816.1 
+Peter_Coyote/_WRJ5Pgoc2s_0000009 962.0 966.1 
+Peter_Coyote/_WRJ5Pgoc2s_0000010 966.2 976.0 
+Peter_Coyote/_WRJ5Pgoc2s_0000011 1070.8 1079.2 

@@ -1,0 +1,18 @@
+POI: 			Melissa_Peterman 
+Youtube ID: 	ylncmMMArTs 
+Video length: 	394.0 sec 
+Set (V): 		dev 
+ 
+Melissa_Peterman/ylncmMMArTs_0000001 17.0 41.6 
+Melissa_Peterman/ylncmMMArTs_0000002 49.2 68.2 
+Melissa_Peterman/ylncmMMArTs_0000003 70.3 87.3 
+Melissa_Peterman/ylncmMMArTs_0000004 100.7 135.7 
+Melissa_Peterman/ylncmMMArTs_0000005 150.6 196.4 
+Melissa_Peterman/ylncmMMArTs_0000006 203.0 230.4 
+Melissa_Peterman/ylncmMMArTs_0000007 245.8 268.4 
+Melissa_Peterman/ylncmMMArTs_0000008 268.8 279.2 
+Melissa_Peterman/ylncmMMArTs_0000009 285.2 298.3 
+Melissa_Peterman/ylncmMMArTs_0000010 299.1 313.8 
+Melissa_Peterman/ylncmMMArTs_0000011 324.5 334.2 
+Melissa_Peterman/ylncmMMArTs_0000012 352.1 377.9 
+Melissa_Peterman/ylncmMMArTs_0000013 378.8 392.5 

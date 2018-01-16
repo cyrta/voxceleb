@@ -1,0 +1,13 @@
+POI: 			Samantha_Barks 
+Youtube ID: 	W63gHeAMPIc 
+Video length: 	232.6 sec 
+Set (V): 		dev 
+ 
+Samantha_Barks/W63gHeAMPIc_0000001 13.6 30.3 
+Samantha_Barks/W63gHeAMPIc_0000002 38.7 55.1 
+Samantha_Barks/W63gHeAMPIc_0000003 99.6 106.2 
+Samantha_Barks/W63gHeAMPIc_0000004 107.6 111.8 
+Samantha_Barks/W63gHeAMPIc_0000005 123.9 128.6 
+Samantha_Barks/W63gHeAMPIc_0000006 144.2 153.8 
+Samantha_Barks/W63gHeAMPIc_0000007 155.2 183.7 
+Samantha_Barks/W63gHeAMPIc_0000008 199.2 212.4 

@@ -1,0 +1,9 @@
+POI: 			Will_Arnett 
+Youtube ID: 	D0ayscI6IeU 
+Video length: 	211.3 sec 
+Set (V): 		dev 
+ 
+Will_Arnett/D0ayscI6IeU_0000001 31.3 38.8 
+Will_Arnett/D0ayscI6IeU_0000002 128.0 133.2 
+Will_Arnett/D0ayscI6IeU_0000003 155.1 163.0 
+Will_Arnett/D0ayscI6IeU_0000004 176.3 189.0 

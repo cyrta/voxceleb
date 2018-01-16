@@ -1,0 +1,24 @@
+POI: 			Aidan_Turner 
+Youtube ID: 	5xGJYiNH2Jw 
+Video length: 	393.1 sec 
+Set (V): 		dev 
+ 
+Aidan_Turner/5xGJYiNH2Jw_0000001 19.0 24.2 
+Aidan_Turner/5xGJYiNH2Jw_0000002 30.0 36.1 
+Aidan_Turner/5xGJYiNH2Jw_0000003 54.2 61.0 
+Aidan_Turner/5xGJYiNH2Jw_0000004 73.0 80.4 
+Aidan_Turner/5xGJYiNH2Jw_0000005 105.6 110.4 
+Aidan_Turner/5xGJYiNH2Jw_0000006 152.1 156.2 
+Aidan_Turner/5xGJYiNH2Jw_0000007 161.6 171.0 
+Aidan_Turner/5xGJYiNH2Jw_0000008 180.8 185.8 
+Aidan_Turner/5xGJYiNH2Jw_0000009 186.8 194.3 
+Aidan_Turner/5xGJYiNH2Jw_0000010 199.4 207.1 
+Aidan_Turner/5xGJYiNH2Jw_0000011 211.9 220.8 
+Aidan_Turner/5xGJYiNH2Jw_0000012 224.2 232.0 
+Aidan_Turner/5xGJYiNH2Jw_0000013 235.4 242.1 
+Aidan_Turner/5xGJYiNH2Jw_0000014 259.7 264.4 
+Aidan_Turner/5xGJYiNH2Jw_0000015 279.3 284.0 
+Aidan_Turner/5xGJYiNH2Jw_0000016 285.8 293.4 
+Aidan_Turner/5xGJYiNH2Jw_0000017 311.2 317.0 
+Aidan_Turner/5xGJYiNH2Jw_0000018 325.1 333.9 
+Aidan_Turner/5xGJYiNH2Jw_0000019 379.1 385.9 

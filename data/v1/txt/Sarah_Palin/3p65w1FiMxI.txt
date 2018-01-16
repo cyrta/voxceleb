@@ -1,0 +1,25 @@
+POI: 			Sarah_Palin 
+Youtube ID: 	3p65w1FiMxI 
+Video length: 	503.9 sec 
+Set (V): 		dev 
+ 
+Sarah_Palin/3p65w1FiMxI_0000001 20.0 48.9 
+Sarah_Palin/3p65w1FiMxI_0000002 61.2 65.6 
+Sarah_Palin/3p65w1FiMxI_0000003 69.9 82.7 
+Sarah_Palin/3p65w1FiMxI_0000004 96.4 117.0 
+Sarah_Palin/3p65w1FiMxI_0000005 129.6 134.6 
+Sarah_Palin/3p65w1FiMxI_0000006 134.8 143.7 
+Sarah_Palin/3p65w1FiMxI_0000007 204.0 218.9 
+Sarah_Palin/3p65w1FiMxI_0000008 231.0 238.8 
+Sarah_Palin/3p65w1FiMxI_0000009 247.2 256.1 
+Sarah_Palin/3p65w1FiMxI_0000010 289.8 298.4 
+Sarah_Palin/3p65w1FiMxI_0000011 305.7 316.5 
+Sarah_Palin/3p65w1FiMxI_0000012 326.2 334.3 
+Sarah_Palin/3p65w1FiMxI_0000013 343.2 355.6 
+Sarah_Palin/3p65w1FiMxI_0000014 368.4 373.4 
+Sarah_Palin/3p65w1FiMxI_0000015 373.4 379.7 
+Sarah_Palin/3p65w1FiMxI_0000016 396.9 401.6 
+Sarah_Palin/3p65w1FiMxI_0000017 412.7 424.5 
+Sarah_Palin/3p65w1FiMxI_0000018 443.0 451.1 
+Sarah_Palin/3p65w1FiMxI_0000019 467.7 472.2 
+Sarah_Palin/3p65w1FiMxI_0000020 476.5 484.8 

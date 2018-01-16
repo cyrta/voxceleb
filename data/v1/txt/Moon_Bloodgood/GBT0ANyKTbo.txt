@@ -1,0 +1,7 @@
+POI: 			Moon_Bloodgood 
+Youtube ID: 	GBT0ANyKTbo 
+Video length: 	313.6 sec 
+Set (V): 		dev 
+ 
+Moon_Bloodgood/GBT0ANyKTbo_0000001 185.6 191.4 
+Moon_Bloodgood/GBT0ANyKTbo_0000002 218.9 223.0 

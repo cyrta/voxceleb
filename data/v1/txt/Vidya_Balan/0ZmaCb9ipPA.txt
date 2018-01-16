@@ -1,0 +1,10 @@
+POI: 			Vidya_Balan 
+Youtube ID: 	0ZmaCb9ipPA 
+Video length: 	250.0 sec 
+Set (V): 		dev 
+ 
+Vidya_Balan/0ZmaCb9ipPA_0000001 44.4 50.5 
+Vidya_Balan/0ZmaCb9ipPA_0000002 57.8 63.8 
+Vidya_Balan/0ZmaCb9ipPA_0000003 98.0 102.5 
+Vidya_Balan/0ZmaCb9ipPA_0000004 114.0 121.6 
+Vidya_Balan/0ZmaCb9ipPA_0000005 138.8 143.0 

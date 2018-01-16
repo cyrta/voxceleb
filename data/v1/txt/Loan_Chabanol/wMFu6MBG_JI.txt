@@ -1,0 +1,18 @@
+POI: 			Loan_Chabanol 
+Youtube ID: 	wMFu6MBG_JI 
+Video length: 	281.9 sec 
+Set (V): 		dev 
+ 
+Loan_Chabanol/wMFu6MBG_JI_0000001 35.0 41.6 
+Loan_Chabanol/wMFu6MBG_JI_0000002 44.9 51.8 
+Loan_Chabanol/wMFu6MBG_JI_0000003 98.9 106.3 
+Loan_Chabanol/wMFu6MBG_JI_0000004 121.3 129.0 
+Loan_Chabanol/wMFu6MBG_JI_0000005 145.3 150.9 
+Loan_Chabanol/wMFu6MBG_JI_0000006 166.2 170.9 
+Loan_Chabanol/wMFu6MBG_JI_0000007 178.8 186.3 
+Loan_Chabanol/wMFu6MBG_JI_0000008 194.4 199.0 
+Loan_Chabanol/wMFu6MBG_JI_0000009 212.3 243.5 
+Loan_Chabanol/wMFu6MBG_JI_0000010 245.0 250.0 
+Loan_Chabanol/wMFu6MBG_JI_0000011 233.1 243.5 
+Loan_Chabanol/wMFu6MBG_JI_0000012 244.8 252.8 
+Loan_Chabanol/wMFu6MBG_JI_0000013 254.2 262.2 

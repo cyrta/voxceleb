@@ -1,0 +1,11 @@
+POI: 			Kim_Zolciak-Biermann 
+Youtube ID: 	7xqeL3QWKPo 
+Video length: 	80.1 sec 
+Set (V): 		dev 
+ 
+Kim_Zolciak-Biermann/7xqeL3QWKPo_0000001 05.9 11.6 
+Kim_Zolciak-Biermann/7xqeL3QWKPo_0000002 16.7 27.6 
+Kim_Zolciak-Biermann/7xqeL3QWKPo_0000003 28.4 37.9 
+Kim_Zolciak-Biermann/7xqeL3QWKPo_0000004 39.0 43.6 
+Kim_Zolciak-Biermann/7xqeL3QWKPo_0000005 52.9 58.9 
+Kim_Zolciak-Biermann/7xqeL3QWKPo_0000006 59.1 66.4 

@@ -1,0 +1,25 @@
+POI: 			Jenny_Slate 
+Youtube ID: 	Hr9nMngXW80 
+Video length: 	937.9 sec 
+Set (V): 		dev 
+ 
+Jenny_Slate/Hr9nMngXW80_0000001 174.0 179.5 
+Jenny_Slate/Hr9nMngXW80_0000002 185.6 194.8 
+Jenny_Slate/Hr9nMngXW80_0000003 243.5 253.4 
+Jenny_Slate/Hr9nMngXW80_0000004 254.3 261.6 
+Jenny_Slate/Hr9nMngXW80_0000005 269.9 276.8 
+Jenny_Slate/Hr9nMngXW80_0000006 289.9 294.3 
+Jenny_Slate/Hr9nMngXW80_0000007 294.6 298.7 
+Jenny_Slate/Hr9nMngXW80_0000008 298.9 303.8 
+Jenny_Slate/Hr9nMngXW80_0000009 325.6 331.2 
+Jenny_Slate/Hr9nMngXW80_0000010 346.2 351.8 
+Jenny_Slate/Hr9nMngXW80_0000011 457.7 462.9 
+Jenny_Slate/Hr9nMngXW80_0000012 464.0 468.6 
+Jenny_Slate/Hr9nMngXW80_0000013 473.0 477.4 
+Jenny_Slate/Hr9nMngXW80_0000014 531.2 535.3 
+Jenny_Slate/Hr9nMngXW80_0000015 657.1 661.6 
+Jenny_Slate/Hr9nMngXW80_0000016 661.7 667.9 
+Jenny_Slate/Hr9nMngXW80_0000017 679.6 684.9 
+Jenny_Slate/Hr9nMngXW80_0000018 688.6 693.4 
+Jenny_Slate/Hr9nMngXW80_0000019 702.0 710.2 
+Jenny_Slate/Hr9nMngXW80_0000020 767.7 780.2 

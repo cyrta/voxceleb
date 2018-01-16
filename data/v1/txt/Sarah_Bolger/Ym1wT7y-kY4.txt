@@ -1,0 +1,10 @@
+POI: 			Sarah_Bolger 
+Youtube ID: 	Ym1wT7y-kY4 
+Video length: 	145.7 sec 
+Set (V): 		dev 
+ 
+Sarah_Bolger/Ym1wT7y-kY4_0000001 24.8 32.4 
+Sarah_Bolger/Ym1wT7y-kY4_0000002 35.8 41.0 
+Sarah_Bolger/Ym1wT7y-kY4_0000003 96.7 101.7 
+Sarah_Bolger/Ym1wT7y-kY4_0000004 102.2 107.3 
+Sarah_Bolger/Ym1wT7y-kY4_0000005 111.7 117.0 

@@ -1,0 +1,14 @@
+POI: 			Paul_Feig 
+Youtube ID: 	yRpd2hWK7UY 
+Video length: 	498.4 sec 
+Set (V): 		dev 
+ 
+Paul_Feig/yRpd2hWK7UY_0000001 98.6 108.0 
+Paul_Feig/yRpd2hWK7UY_0000002 116.6 121.3 
+Paul_Feig/yRpd2hWK7UY_0000003 138.7 143.4 
+Paul_Feig/yRpd2hWK7UY_0000004 326.3 333.9 
+Paul_Feig/yRpd2hWK7UY_0000005 337.7 349.0 
+Paul_Feig/yRpd2hWK7UY_0000006 397.8 402.6 
+Paul_Feig/yRpd2hWK7UY_0000007 410.0 414.5 
+Paul_Feig/yRpd2hWK7UY_0000008 416.5 421.2 
+Paul_Feig/yRpd2hWK7UY_0000009 437.5 443.0 

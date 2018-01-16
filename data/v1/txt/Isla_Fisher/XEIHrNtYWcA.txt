@@ -1,0 +1,11 @@
+POI: 			Isla_Fisher 
+Youtube ID: 	XEIHrNtYWcA 
+Video length: 	399.7 sec 
+Set (V): 		dev 
+ 
+Isla_Fisher/XEIHrNtYWcA_0000001 28.5 66.4 
+Isla_Fisher/XEIHrNtYWcA_0000002 108.0 116.0 
+Isla_Fisher/XEIHrNtYWcA_0000003 158.8 172.2 
+Isla_Fisher/XEIHrNtYWcA_0000004 251.5 256.2 
+Isla_Fisher/XEIHrNtYWcA_0000005 345.1 355.7 
+Isla_Fisher/XEIHrNtYWcA_0000006 355.8 361.9 

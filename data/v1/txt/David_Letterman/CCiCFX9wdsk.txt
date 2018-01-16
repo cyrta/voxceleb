@@ -1,0 +1,7 @@
+POI: 			David_Letterman 
+Youtube ID: 	CCiCFX9wdsk 
+Video length: 	804.0 sec 
+Set (V): 		dev 
+ 
+David_Letterman/CCiCFX9wdsk_0000001 05.8 21.0 
+David_Letterman/CCiCFX9wdsk_0000002 624.8 637.0 

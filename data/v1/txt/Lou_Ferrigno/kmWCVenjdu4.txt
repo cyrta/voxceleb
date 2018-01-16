@@ -1,0 +1,7 @@
+POI: 			Lou_Ferrigno 
+Youtube ID: 	kmWCVenjdu4 
+Video length: 	155.4 sec 
+Set (V): 		dev 
+ 
+Lou_Ferrigno/kmWCVenjdu4_0000001 55.6 61.0 
+Lou_Ferrigno/kmWCVenjdu4_0000002 63.1 72.4 

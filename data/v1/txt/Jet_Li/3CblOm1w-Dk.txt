@@ -1,0 +1,7 @@
+POI: 			Jet_Li 
+Youtube ID: 	3CblOm1w-Dk 
+Video length: 	1757.0 sec 
+Set (V): 		dev 
+ 
+Jet_Li/3CblOm1w-Dk_0000001 258.8 262.8 
+Jet_Li/3CblOm1w-Dk_0000002 293.6 298.0 

@@ -1,0 +1,19 @@
+POI: 			Arden_Cho 
+Youtube ID: 	mSqgYQVmXps 
+Video length: 	218.0 sec 
+Set (V): 		dev 
+ 
+Arden_Cho/mSqgYQVmXps_0000001 01.5 05.9 
+Arden_Cho/mSqgYQVmXps_0000002 10.7 23.0 
+Arden_Cho/mSqgYQVmXps_0000003 24.0 29.0 
+Arden_Cho/mSqgYQVmXps_0000004 29.7 34.4 
+Arden_Cho/mSqgYQVmXps_0000005 41.9 47.0 
+Arden_Cho/mSqgYQVmXps_0000006 52.4 59.8 
+Arden_Cho/mSqgYQVmXps_0000007 73.3 78.0 
+Arden_Cho/mSqgYQVmXps_0000008 81.9 86.7 
+Arden_Cho/mSqgYQVmXps_0000009 99.8 114.5 
+Arden_Cho/mSqgYQVmXps_0000010 126.5 132.0 
+Arden_Cho/mSqgYQVmXps_0000011 132.2 146.1 
+Arden_Cho/mSqgYQVmXps_0000012 178.8 183.2 
+Arden_Cho/mSqgYQVmXps_0000013 184.1 188.6 
+Arden_Cho/mSqgYQVmXps_0000014 191.2 196.6 

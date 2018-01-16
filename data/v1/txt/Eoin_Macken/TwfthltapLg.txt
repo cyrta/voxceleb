@@ -1,0 +1,17 @@
+POI: 			Eoin_Macken 
+Youtube ID: 	TwfthltapLg 
+Video length: 	226.3 sec 
+Set (V): 		test 
+ 
+Eoin_Macken/TwfthltapLg_0000001 10.0 23.4 
+Eoin_Macken/TwfthltapLg_0000002 37.4 46.3 
+Eoin_Macken/TwfthltapLg_0000003 47.0 51.2 
+Eoin_Macken/TwfthltapLg_0000004 51.9 61.8 
+Eoin_Macken/TwfthltapLg_0000005 71.4 81.6 
+Eoin_Macken/TwfthltapLg_0000006 93.1 97.4 
+Eoin_Macken/TwfthltapLg_0000007 97.5 106.5 
+Eoin_Macken/TwfthltapLg_0000008 125.5 129.6 
+Eoin_Macken/TwfthltapLg_0000009 145.6 152.9 
+Eoin_Macken/TwfthltapLg_0000010 154.1 160.2 
+Eoin_Macken/TwfthltapLg_0000011 186.9 192.2 
+Eoin_Macken/TwfthltapLg_0000012 204.2 209.3 

@@ -1,0 +1,11 @@
+POI: 			William_Fichtner 
+Youtube ID: 	1hbwh1BH4lY 
+Video length: 	421.7 sec 
+Set (V): 		dev 
+ 
+William_Fichtner/1hbwh1BH4lY_0000001 60.7 65.8 
+William_Fichtner/1hbwh1BH4lY_0000002 133.2 138.6 
+William_Fichtner/1hbwh1BH4lY_0000003 225.2 229.3 
+William_Fichtner/1hbwh1BH4lY_0000004 357.2 361.8 
+William_Fichtner/1hbwh1BH4lY_0000005 379.6 389.2 
+William_Fichtner/1hbwh1BH4lY_0000006 390.3 397.7 

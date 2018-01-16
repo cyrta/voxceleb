@@ -1,0 +1,10 @@
+POI: 			David_Tennant 
+Youtube ID: 	Pw0brybvELY 
+Video length: 	621.4 sec 
+Set (V): 		dev 
+ 
+David_Tennant/Pw0brybvELY_0000001 95.2 101.3 
+David_Tennant/Pw0brybvELY_0000002 156.2 161.0 
+David_Tennant/Pw0brybvELY_0000003 245.7 249.7 
+David_Tennant/Pw0brybvELY_0000004 327.2 332.9 
+David_Tennant/Pw0brybvELY_0000005 396.1 400.7 

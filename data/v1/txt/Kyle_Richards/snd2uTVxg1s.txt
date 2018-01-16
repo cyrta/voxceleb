@@ -1,0 +1,11 @@
+POI: 			Kyle_Richards 
+Youtube ID: 	snd2uTVxg1s 
+Video length: 	161.6 sec 
+Set (V): 		dev 
+ 
+Kyle_Richards/snd2uTVxg1s_0000001 15.5 25.3 
+Kyle_Richards/snd2uTVxg1s_0000002 36.0 48.4 
+Kyle_Richards/snd2uTVxg1s_0000003 77.6 89.3 
+Kyle_Richards/snd2uTVxg1s_0000004 90.2 98.5 
+Kyle_Richards/snd2uTVxg1s_0000005 100.5 108.1 
+Kyle_Richards/snd2uTVxg1s_0000006 110.5 122.3 

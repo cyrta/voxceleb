@@ -1,0 +1,9 @@
+POI: 			James_Purefoy 
+Youtube ID: 	Mmfc6y17XIY 
+Video length: 	228.0 sec 
+Set (V): 		dev 
+ 
+James_Purefoy/Mmfc6y17XIY_0000001 79.8 86.8 
+James_Purefoy/Mmfc6y17XIY_0000002 109.4 116.3 
+James_Purefoy/Mmfc6y17XIY_0000003 125.4 133.0 
+James_Purefoy/Mmfc6y17XIY_0000004 149.0 153.2 

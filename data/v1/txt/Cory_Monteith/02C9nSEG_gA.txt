@@ -1,0 +1,34 @@
+POI: 			Cory_Monteith 
+Youtube ID: 	02C9nSEG_gA 
+Video length: 	772.5 sec 
+Set (V): 		dev 
+ 
+Cory_Monteith/02C9nSEG_gA_0000001 25.9 33.8 
+Cory_Monteith/02C9nSEG_gA_0000002 53.9 70.0 
+Cory_Monteith/02C9nSEG_gA_0000003 74.6 89.8 
+Cory_Monteith/02C9nSEG_gA_0000004 98.1 108.1 
+Cory_Monteith/02C9nSEG_gA_0000005 137.6 141.8 
+Cory_Monteith/02C9nSEG_gA_0000006 142.0 152.1 
+Cory_Monteith/02C9nSEG_gA_0000007 195.4 199.6 
+Cory_Monteith/02C9nSEG_gA_0000008 213.1 226.1 
+Cory_Monteith/02C9nSEG_gA_0000009 248.3 256.9 
+Cory_Monteith/02C9nSEG_gA_0000010 269.9 275.2 
+Cory_Monteith/02C9nSEG_gA_0000011 275.9 285.8 
+Cory_Monteith/02C9nSEG_gA_0000012 303.5 307.8 
+Cory_Monteith/02C9nSEG_gA_0000013 309.2 313.8 
+Cory_Monteith/02C9nSEG_gA_0000014 314.8 323.0 
+Cory_Monteith/02C9nSEG_gA_0000015 356.7 370.4 
+Cory_Monteith/02C9nSEG_gA_0000016 370.4 378.8 
+Cory_Monteith/02C9nSEG_gA_0000017 387.0 398.6 
+Cory_Monteith/02C9nSEG_gA_0000018 434.3 442.1 
+Cory_Monteith/02C9nSEG_gA_0000019 450.2 459.3 
+Cory_Monteith/02C9nSEG_gA_0000020 462.4 476.5 
+Cory_Monteith/02C9nSEG_gA_0000021 483.9 492.1 
+Cory_Monteith/02C9nSEG_gA_0000022 496.2 500.8 
+Cory_Monteith/02C9nSEG_gA_0000023 501.2 506.0 
+Cory_Monteith/02C9nSEG_gA_0000024 512.6 519.2 
+Cory_Monteith/02C9nSEG_gA_0000025 539.5 544.1 
+Cory_Monteith/02C9nSEG_gA_0000026 548.0 554.5 
+Cory_Monteith/02C9nSEG_gA_0000027 580.7 589.9 
+Cory_Monteith/02C9nSEG_gA_0000028 624.7 638.2 
+Cory_Monteith/02C9nSEG_gA_0000029 668.1 676.8 

@@ -1,0 +1,7 @@
+POI: 			Milla_Jovovich 
+Youtube ID: 	lRy7Z9JE3YY 
+Video length: 	281.5 sec 
+Set (V): 		dev 
+ 
+Milla_Jovovich/lRy7Z9JE3YY_0000001 47.8 53.4 
+Milla_Jovovich/lRy7Z9JE3YY_0000002 115.4 119.8 

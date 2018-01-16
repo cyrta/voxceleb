@@ -1,0 +1,10 @@
+POI: 			Neve_Campbell 
+Youtube ID: 	mBxfLfMukdk 
+Video length: 	243.7 sec 
+Set (V): 		dev 
+ 
+Neve_Campbell/mBxfLfMukdk_0000001 48.6 52.6 
+Neve_Campbell/mBxfLfMukdk_0000002 77.8 86.8 
+Neve_Campbell/mBxfLfMukdk_0000003 111.9 140.7 
+Neve_Campbell/mBxfLfMukdk_0000004 155.2 165.9 
+Neve_Campbell/mBxfLfMukdk_0000005 213.0 229.3 

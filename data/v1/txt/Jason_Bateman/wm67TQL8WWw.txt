@@ -1,0 +1,20 @@
+POI: 			Jason_Bateman 
+Youtube ID: 	wm67TQL8WWw 
+Video length: 	423.8 sec 
+Set (V): 		dev 
+ 
+Jason_Bateman/wm67TQL8WWw_0000001 21.2 26.9 
+Jason_Bateman/wm67TQL8WWw_0000002 58.8 75.1 
+Jason_Bateman/wm67TQL8WWw_0000003 75.3 92.0 
+Jason_Bateman/wm67TQL8WWw_0000004 93.2 102.3 
+Jason_Bateman/wm67TQL8WWw_0000005 102.9 107.4 
+Jason_Bateman/wm67TQL8WWw_0000006 107.6 112.3 
+Jason_Bateman/wm67TQL8WWw_0000007 160.1 171.8 
+Jason_Bateman/wm67TQL8WWw_0000008 193.8 202.1 
+Jason_Bateman/wm67TQL8WWw_0000009 202.6 207.1 
+Jason_Bateman/wm67TQL8WWw_0000010 217.1 239.9 
+Jason_Bateman/wm67TQL8WWw_0000011 269.0 276.5 
+Jason_Bateman/wm67TQL8WWw_0000012 277.4 304.5 
+Jason_Bateman/wm67TQL8WWw_0000013 305.4 315.7 
+Jason_Bateman/wm67TQL8WWw_0000014 351.0 378.5 
+Jason_Bateman/wm67TQL8WWw_0000015 378.7 386.7 

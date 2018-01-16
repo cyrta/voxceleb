@@ -1,0 +1,15 @@
+POI: 			Glen_Hansard 
+Youtube ID: 	5DAommAsxmE 
+Video length: 	159.4 sec 
+Set (V): 		dev 
+ 
+Glen_Hansard/5DAommAsxmE_0000001 16.7 21.3 
+Glen_Hansard/5DAommAsxmE_0000002 37.4 60.0 
+Glen_Hansard/5DAommAsxmE_0000003 60.7 67.0 
+Glen_Hansard/5DAommAsxmE_0000004 83.0 89.5 
+Glen_Hansard/5DAommAsxmE_0000005 52.7 60.0 
+Glen_Hansard/5DAommAsxmE_0000006 60.7 67.0 
+Glen_Hansard/5DAommAsxmE_0000007 82.9 89.4 
+Glen_Hansard/5DAommAsxmE_0000008 112.6 121.2 
+Glen_Hansard/5DAommAsxmE_0000009 129.2 144.7 
+Glen_Hansard/5DAommAsxmE_0000010 146.2 153.2 

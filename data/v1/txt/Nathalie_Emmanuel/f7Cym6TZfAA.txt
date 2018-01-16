@@ -1,0 +1,18 @@
+POI: 			Nathalie_Emmanuel 
+Youtube ID: 	f7Cym6TZfAA 
+Video length: 	351.5 sec 
+Set (V): 		dev 
+ 
+Nathalie_Emmanuel/f7Cym6TZfAA_0000001 23.0 27.9 
+Nathalie_Emmanuel/f7Cym6TZfAA_0000002 32.8 38.8 
+Nathalie_Emmanuel/f7Cym6TZfAA_0000003 64.7 70.4 
+Nathalie_Emmanuel/f7Cym6TZfAA_0000004 112.4 117.8 
+Nathalie_Emmanuel/f7Cym6TZfAA_0000005 118.3 125.6 
+Nathalie_Emmanuel/f7Cym6TZfAA_0000006 126.3 133.2 
+Nathalie_Emmanuel/f7Cym6TZfAA_0000007 170.1 177.2 
+Nathalie_Emmanuel/f7Cym6TZfAA_0000008 188.9 194.2 
+Nathalie_Emmanuel/f7Cym6TZfAA_0000009 195.7 200.2 
+Nathalie_Emmanuel/f7Cym6TZfAA_0000010 214.0 222.8 
+Nathalie_Emmanuel/f7Cym6TZfAA_0000011 238.6 242.6 
+Nathalie_Emmanuel/f7Cym6TZfAA_0000012 264.4 271.4 
+Nathalie_Emmanuel/f7Cym6TZfAA_0000013 327.5 333.2 

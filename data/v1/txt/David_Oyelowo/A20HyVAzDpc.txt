@@ -1,0 +1,11 @@
+POI: 			David_Oyelowo 
+Youtube ID: 	A20HyVAzDpc 
+Video length: 	259.1 sec 
+Set (V): 		dev 
+ 
+David_Oyelowo/A20HyVAzDpc_0000001 84.7 88.8 
+David_Oyelowo/A20HyVAzDpc_0000002 119.4 125.8 
+David_Oyelowo/A20HyVAzDpc_0000003 126.4 133.7 
+David_Oyelowo/A20HyVAzDpc_0000004 141.2 153.0 
+David_Oyelowo/A20HyVAzDpc_0000005 153.5 170.1 
+David_Oyelowo/A20HyVAzDpc_0000006 212.7 221.1 

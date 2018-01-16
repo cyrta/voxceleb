@@ -1,0 +1,10 @@
+POI: 			John_Rhys-Davies 
+Youtube ID: 	t3PDcCqoy2Y 
+Video length: 	128.5 sec 
+Set (V): 		dev 
+ 
+John_Rhys-Davies/t3PDcCqoy2Y_0000001 35.9 40.1 
+John_Rhys-Davies/t3PDcCqoy2Y_0000002 60.7 72.4 
+John_Rhys-Davies/t3PDcCqoy2Y_0000003 72.7 80.8 
+John_Rhys-Davies/t3PDcCqoy2Y_0000004 87.4 94.2 
+John_Rhys-Davies/t3PDcCqoy2Y_0000005 98.4 103.5 

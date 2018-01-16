@@ -1,0 +1,23 @@
+POI: 			Stephen_Mangan 
+Youtube ID: 	3WdNMVoiJZk 
+Video length: 	545.0 sec 
+Set (V): 		dev 
+ 
+Stephen_Mangan/3WdNMVoiJZk_0000001 42.9 51.8 
+Stephen_Mangan/3WdNMVoiJZk_0000002 57.0 65.2 
+Stephen_Mangan/3WdNMVoiJZk_0000003 76.2 83.0 
+Stephen_Mangan/3WdNMVoiJZk_0000004 118.6 126.6 
+Stephen_Mangan/3WdNMVoiJZk_0000005 138.0 150.0 
+Stephen_Mangan/3WdNMVoiJZk_0000006 152.2 160.4 
+Stephen_Mangan/3WdNMVoiJZk_0000007 168.6 174.2 
+Stephen_Mangan/3WdNMVoiJZk_0000008 195.2 201.5 
+Stephen_Mangan/3WdNMVoiJZk_0000009 236.4 242.4 
+Stephen_Mangan/3WdNMVoiJZk_0000010 242.6 248.8 
+Stephen_Mangan/3WdNMVoiJZk_0000011 243.1 249.8 
+Stephen_Mangan/3WdNMVoiJZk_0000012 252.9 260.0 
+Stephen_Mangan/3WdNMVoiJZk_0000013 275.9 280.0 
+Stephen_Mangan/3WdNMVoiJZk_0000014 288.1 298.4 
+Stephen_Mangan/3WdNMVoiJZk_0000015 353.0 357.8 
+Stephen_Mangan/3WdNMVoiJZk_0000016 366.0 373.1 
+Stephen_Mangan/3WdNMVoiJZk_0000017 397.6 403.3 
+Stephen_Mangan/3WdNMVoiJZk_0000018 491.6 499.4 

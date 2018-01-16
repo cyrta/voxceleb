@@ -1,0 +1,9 @@
+POI: 			Troye_Sivan 
+Youtube ID: 	be7NOQSX9Vc 
+Video length: 	150.9 sec 
+Set (V): 		dev 
+ 
+Troye_Sivan/be7NOQSX9Vc_0000001 06.6 22.1 
+Troye_Sivan/be7NOQSX9Vc_0000002 50.1 54.1 
+Troye_Sivan/be7NOQSX9Vc_0000003 70.8 78.4 
+Troye_Sivan/be7NOQSX9Vc_0000004 97.0 104.0 

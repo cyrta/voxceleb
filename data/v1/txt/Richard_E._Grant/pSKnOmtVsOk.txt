@@ -1,0 +1,9 @@
+POI: 			Richard_E._Grant 
+Youtube ID: 	pSKnOmtVsOk 
+Video length: 	176.5 sec 
+Set (V): 		dev 
+ 
+Richard_E._Grant/pSKnOmtVsOk_0000001 12.3 20.1 
+Richard_E._Grant/pSKnOmtVsOk_0000002 26.5 41.2 
+Richard_E._Grant/pSKnOmtVsOk_0000003 42.6 54.1 
+Richard_E._Grant/pSKnOmtVsOk_0000004 96.6 129.0 

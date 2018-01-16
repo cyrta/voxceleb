@@ -1,0 +1,10 @@
+POI: 			Doutzen_Kroes 
+Youtube ID: 	FX_6m5FgF2E 
+Video length: 	330.1 sec 
+Set (V): 		dev 
+ 
+Doutzen_Kroes/FX_6m5FgF2E_0000001 43.5 49.5 
+Doutzen_Kroes/FX_6m5FgF2E_0000002 105.6 109.7 
+Doutzen_Kroes/FX_6m5FgF2E_0000003 123.1 128.0 
+Doutzen_Kroes/FX_6m5FgF2E_0000004 131.2 136.0 
+Doutzen_Kroes/FX_6m5FgF2E_0000005 276.0 284.0 

@@ -1,0 +1,12 @@
+POI: 			Andrea_Riseborough 
+Youtube ID: 	dXxoUoGXLPY 
+Video length: 	180.6 sec 
+Set (V): 		dev 
+ 
+Andrea_Riseborough/dXxoUoGXLPY_0000001 15.0 19.6 
+Andrea_Riseborough/dXxoUoGXLPY_0000002 31.1 36.2 
+Andrea_Riseborough/dXxoUoGXLPY_0000003 46.5 55.0 
+Andrea_Riseborough/dXxoUoGXLPY_0000004 97.9 104.0 
+Andrea_Riseborough/dXxoUoGXLPY_0000005 128.8 134.6 
+Andrea_Riseborough/dXxoUoGXLPY_0000006 137.0 145.0 
+Andrea_Riseborough/dXxoUoGXLPY_0000007 163.3 168.1 

@@ -1,0 +1,11 @@
+POI: 			Taraji_P._Henson 
+Youtube ID: 	taudM9XrXBI 
+Video length: 	747.7 sec 
+Set (V): 		dev 
+ 
+Taraji_P._Henson/taudM9XrXBI_0000001 157.7 162.9 
+Taraji_P._Henson/taudM9XrXBI_0000002 183.9 191.0 
+Taraji_P._Henson/taudM9XrXBI_0000003 332.3 336.7 
+Taraji_P._Henson/taudM9XrXBI_0000004 373.9 378.6 
+Taraji_P._Henson/taudM9XrXBI_0000005 392.2 396.8 
+Taraji_P._Henson/taudM9XrXBI_0000006 447.8 453.8 

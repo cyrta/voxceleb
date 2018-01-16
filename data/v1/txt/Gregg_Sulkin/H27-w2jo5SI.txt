@@ -1,0 +1,11 @@
+POI: 			Gregg_Sulkin 
+Youtube ID: 	H27-w2jo5SI 
+Video length: 	569.1 sec 
+Set (V): 		dev 
+ 
+Gregg_Sulkin/H27-w2jo5SI_0000001 186.7 190.8 
+Gregg_Sulkin/H27-w2jo5SI_0000002 223.8 235.5 
+Gregg_Sulkin/H27-w2jo5SI_0000003 272.8 279.0 
+Gregg_Sulkin/H27-w2jo5SI_0000004 463.6 469.4 
+Gregg_Sulkin/H27-w2jo5SI_0000005 527.4 534.4 
+Gregg_Sulkin/H27-w2jo5SI_0000006 535.1 542.3 

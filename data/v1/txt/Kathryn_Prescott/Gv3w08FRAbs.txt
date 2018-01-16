@@ -1,0 +1,11 @@
+POI: 			Kathryn_Prescott 
+Youtube ID: 	Gv3w08FRAbs 
+Video length: 	261.3 sec 
+Set (V): 		dev 
+ 
+Kathryn_Prescott/Gv3w08FRAbs_0000001 92.0 100.1 
+Kathryn_Prescott/Gv3w08FRAbs_0000002 109.4 117.8 
+Kathryn_Prescott/Gv3w08FRAbs_0000003 123.6 128.4 
+Kathryn_Prescott/Gv3w08FRAbs_0000004 141.1 150.1 
+Kathryn_Prescott/Gv3w08FRAbs_0000005 215.6 224.6 
+Kathryn_Prescott/Gv3w08FRAbs_0000006 228.7 235.0 

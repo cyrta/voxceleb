@@ -1,0 +1,7 @@
+POI: 			Sung_Kang 
+Youtube ID: 	z2dCpFO1U8A 
+Video length: 	380.3 sec 
+Set (V): 		dev 
+ 
+Sung_Kang/z2dCpFO1U8A_0000001 42.7 50.0 
+Sung_Kang/z2dCpFO1U8A_0000002 302.7 306.7 

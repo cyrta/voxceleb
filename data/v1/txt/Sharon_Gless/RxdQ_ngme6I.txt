@@ -1,0 +1,15 @@
+POI: 			Sharon_Gless 
+Youtube ID: 	RxdQ_ngme6I 
+Video length: 	194.8 sec 
+Set (V): 		dev 
+ 
+Sharon_Gless/RxdQ_ngme6I_0000001 08.0 19.4 
+Sharon_Gless/RxdQ_ngme6I_0000002 28.4 34.4 
+Sharon_Gless/RxdQ_ngme6I_0000003 42.5 50.4 
+Sharon_Gless/RxdQ_ngme6I_0000004 70.6 78.9 
+Sharon_Gless/RxdQ_ngme6I_0000005 104.2 108.4 
+Sharon_Gless/RxdQ_ngme6I_0000006 109.4 115.8 
+Sharon_Gless/RxdQ_ngme6I_0000007 117.2 129.9 
+Sharon_Gless/RxdQ_ngme6I_0000008 155.7 161.3 
+Sharon_Gless/RxdQ_ngme6I_0000009 163.0 167.5 
+Sharon_Gless/RxdQ_ngme6I_0000010 173.8 178.0 

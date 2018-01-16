@@ -1,0 +1,21 @@
+POI: 			Julianne_Hough 
+Youtube ID: 	QOhMP78Zro8 
+Video length: 	479.7 sec 
+Set (V): 		dev 
+ 
+Julianne_Hough/QOhMP78Zro8_0000001 94.2 102.8 
+Julianne_Hough/QOhMP78Zro8_0000002 107.4 115.4 
+Julianne_Hough/QOhMP78Zro8_0000003 115.6 121.5 
+Julianne_Hough/QOhMP78Zro8_0000004 124.7 133.8 
+Julianne_Hough/QOhMP78Zro8_0000005 144.0 152.4 
+Julianne_Hough/QOhMP78Zro8_0000006 154.2 158.9 
+Julianne_Hough/QOhMP78Zro8_0000007 159.8 184.7 
+Julianne_Hough/QOhMP78Zro8_0000008 205.4 209.6 
+Julianne_Hough/QOhMP78Zro8_0000009 210.5 228.7 
+Julianne_Hough/QOhMP78Zro8_0000010 230.0 248.8 
+Julianne_Hough/QOhMP78Zro8_0000011 288.2 302.7 
+Julianne_Hough/QOhMP78Zro8_0000012 302.9 309.6 
+Julianne_Hough/QOhMP78Zro8_0000013 345.0 353.0 
+Julianne_Hough/QOhMP78Zro8_0000014 356.4 360.4 
+Julianne_Hough/QOhMP78Zro8_0000015 434.2 463.9 
+Julianne_Hough/QOhMP78Zro8_0000016 467.3 476.9 

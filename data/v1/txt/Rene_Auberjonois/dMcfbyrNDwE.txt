@@ -1,0 +1,16 @@
+POI: 			Rene_Auberjonois 
+Youtube ID: 	dMcfbyrNDwE 
+Video length: 	811.4 sec 
+Set (V): 		dev 
+ 
+Rene_Auberjonois/dMcfbyrNDwE_0000001 100.4 105.0 
+Rene_Auberjonois/dMcfbyrNDwE_0000002 108.4 112.4 
+Rene_Auberjonois/dMcfbyrNDwE_0000003 114.6 120.7 
+Rene_Auberjonois/dMcfbyrNDwE_0000004 180.0 184.1 
+Rene_Auberjonois/dMcfbyrNDwE_0000005 209.1 226.7 
+Rene_Auberjonois/dMcfbyrNDwE_0000006 233.6 239.4 
+Rene_Auberjonois/dMcfbyrNDwE_0000007 270.0 278.4 
+Rene_Auberjonois/dMcfbyrNDwE_0000008 609.3 613.5 
+Rene_Auberjonois/dMcfbyrNDwE_0000009 651.8 655.9 
+Rene_Auberjonois/dMcfbyrNDwE_0000010 705.9 714.8 
+Rene_Auberjonois/dMcfbyrNDwE_0000011 716.6 737.9 

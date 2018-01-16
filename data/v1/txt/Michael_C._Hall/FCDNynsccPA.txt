@@ -1,0 +1,10 @@
+POI: 			Michael_C._Hall 
+Youtube ID: 	FCDNynsccPA 
+Video length: 	353.0 sec 
+Set (V): 		dev 
+ 
+Michael_C._Hall/FCDNynsccPA_0000001 41.1 45.5 
+Michael_C._Hall/FCDNynsccPA_0000002 64.8 93.6 
+Michael_C._Hall/FCDNynsccPA_0000003 111.5 127.2 
+Michael_C._Hall/FCDNynsccPA_0000004 132.4 140.1 
+Michael_C._Hall/FCDNynsccPA_0000005 146.6 154.8 

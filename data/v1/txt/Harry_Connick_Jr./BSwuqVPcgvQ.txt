@@ -1,0 +1,12 @@
+POI: 			Harry_Connick_Jr. 
+Youtube ID: 	BSwuqVPcgvQ 
+Video length: 	289.0 sec 
+Set (V): 		dev 
+ 
+Harry_Connick_Jr./BSwuqVPcgvQ_0000001 55.6 64.6 
+Harry_Connick_Jr./BSwuqVPcgvQ_0000002 67.4 80.7 
+Harry_Connick_Jr./BSwuqVPcgvQ_0000003 106.4 122.9 
+Harry_Connick_Jr./BSwuqVPcgvQ_0000004 145.6 166.0 
+Harry_Connick_Jr./BSwuqVPcgvQ_0000005 215.7 228.1 
+Harry_Connick_Jr./BSwuqVPcgvQ_0000006 250.7 271.7 
+Harry_Connick_Jr./BSwuqVPcgvQ_0000007 276.0 281.1 

@@ -1,0 +1,43 @@
+POI: 			Fred_Williamson 
+Youtube ID: 	_mUc_Xl3gdM 
+Video length: 	745.4 sec 
+Set (V): 		dev 
+ 
+Fred_Williamson/_mUc_Xl3gdM_0000001 10.5 19.1 
+Fred_Williamson/_mUc_Xl3gdM_0000002 26.9 35.1 
+Fred_Williamson/_mUc_Xl3gdM_0000003 47.5 57.6 
+Fred_Williamson/_mUc_Xl3gdM_0000004 59.1 65.3 
+Fred_Williamson/_mUc_Xl3gdM_0000005 66.3 79.7 
+Fred_Williamson/_mUc_Xl3gdM_0000006 93.3 101.8 
+Fred_Williamson/_mUc_Xl3gdM_0000007 102.2 112.1 
+Fred_Williamson/_mUc_Xl3gdM_0000008 122.4 157.6 
+Fred_Williamson/_mUc_Xl3gdM_0000009 165.0 197.3 
+Fred_Williamson/_mUc_Xl3gdM_0000010 198.4 205.0 
+Fred_Williamson/_mUc_Xl3gdM_0000011 212.4 221.4 
+Fred_Williamson/_mUc_Xl3gdM_0000012 234.9 241.7 
+Fred_Williamson/_mUc_Xl3gdM_0000013 248.2 253.7 
+Fred_Williamson/_mUc_Xl3gdM_0000014 255.6 264.3 
+Fred_Williamson/_mUc_Xl3gdM_0000015 265.1 274.6 
+Fred_Williamson/_mUc_Xl3gdM_0000016 292.1 297.0 
+Fred_Williamson/_mUc_Xl3gdM_0000017 297.1 341.8 
+Fred_Williamson/_mUc_Xl3gdM_0000018 347.8 351.8 
+Fred_Williamson/_mUc_Xl3gdM_0000019 354.0 372.3 
+Fred_Williamson/_mUc_Xl3gdM_0000020 380.6 393.0 
+Fred_Williamson/_mUc_Xl3gdM_0000021 393.9 419.2 
+Fred_Williamson/_mUc_Xl3gdM_0000022 432.0 437.1 
+Fred_Williamson/_mUc_Xl3gdM_0000023 439.0 448.1 
+Fred_Williamson/_mUc_Xl3gdM_0000024 448.3 454.4 
+Fred_Williamson/_mUc_Xl3gdM_0000025 458.8 470.2 
+Fred_Williamson/_mUc_Xl3gdM_0000026 497.4 512.3 
+Fred_Williamson/_mUc_Xl3gdM_0000027 514.4 551.1 
+Fred_Williamson/_mUc_Xl3gdM_0000028 559.0 563.7 
+Fred_Williamson/_mUc_Xl3gdM_0000029 573.0 590.4 
+Fred_Williamson/_mUc_Xl3gdM_0000030 592.5 614.6 
+Fred_Williamson/_mUc_Xl3gdM_0000031 621.8 639.4 
+Fred_Williamson/_mUc_Xl3gdM_0000032 644.7 654.4 
+Fred_Williamson/_mUc_Xl3gdM_0000033 656.6 661.8 
+Fred_Williamson/_mUc_Xl3gdM_0000034 664.8 672.5 
+Fred_Williamson/_mUc_Xl3gdM_0000035 684.7 688.8 
+Fred_Williamson/_mUc_Xl3gdM_0000036 690.9 700.2 
+Fred_Williamson/_mUc_Xl3gdM_0000037 703.3 708.4 
+Fred_Williamson/_mUc_Xl3gdM_0000038 713.7 729.8 

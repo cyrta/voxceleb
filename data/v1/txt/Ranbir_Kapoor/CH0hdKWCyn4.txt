@@ -1,0 +1,22 @@
+POI: 			Ranbir_Kapoor 
+Youtube ID: 	CH0hdKWCyn4 
+Video length: 	1087.6 sec 
+Set (V): 		dev 
+ 
+Ranbir_Kapoor/CH0hdKWCyn4_0000001 97.0 101.2 
+Ranbir_Kapoor/CH0hdKWCyn4_0000002 111.2 115.4 
+Ranbir_Kapoor/CH0hdKWCyn4_0000003 124.9 130.7 
+Ranbir_Kapoor/CH0hdKWCyn4_0000004 142.8 147.8 
+Ranbir_Kapoor/CH0hdKWCyn4_0000005 171.2 175.7 
+Ranbir_Kapoor/CH0hdKWCyn4_0000006 208.2 212.5 
+Ranbir_Kapoor/CH0hdKWCyn4_0000007 230.8 235.6 
+Ranbir_Kapoor/CH0hdKWCyn4_0000008 247.9 258.4 
+Ranbir_Kapoor/CH0hdKWCyn4_0000009 381.2 385.6 
+Ranbir_Kapoor/CH0hdKWCyn4_0000010 626.2 630.5 
+Ranbir_Kapoor/CH0hdKWCyn4_0000011 631.0 635.4 
+Ranbir_Kapoor/CH0hdKWCyn4_0000012 660.2 666.1 
+Ranbir_Kapoor/CH0hdKWCyn4_0000013 722.1 726.3 
+Ranbir_Kapoor/CH0hdKWCyn4_0000014 796.3 806.4 
+Ranbir_Kapoor/CH0hdKWCyn4_0000015 813.3 818.0 
+Ranbir_Kapoor/CH0hdKWCyn4_0000016 1013.7 1018.2 
+Ranbir_Kapoor/CH0hdKWCyn4_0000017 1037.5 1047.6 

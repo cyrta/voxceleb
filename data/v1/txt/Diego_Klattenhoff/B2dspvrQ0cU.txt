@@ -1,0 +1,8 @@
+POI: 			Diego_Klattenhoff 
+Youtube ID: 	B2dspvrQ0cU 
+Video length: 	107.4 sec 
+Set (V): 		dev 
+ 
+Diego_Klattenhoff/B2dspvrQ0cU_0000001 03.6 11.4 
+Diego_Klattenhoff/B2dspvrQ0cU_0000002 51.3 80.5 
+Diego_Klattenhoff/B2dspvrQ0cU_0000003 84.0 105.7 

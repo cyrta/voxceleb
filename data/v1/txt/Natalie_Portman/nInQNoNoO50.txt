@@ -1,0 +1,8 @@
+POI: 			Natalie_Portman 
+Youtube ID: 	nInQNoNoO50 
+Video length: 	233.0 sec 
+Set (V): 		dev 
+ 
+Natalie_Portman/nInQNoNoO50_0000001 190.2 207.4 
+Natalie_Portman/nInQNoNoO50_0000002 208.1 224.6 
+Natalie_Portman/nInQNoNoO50_0000003 225.2 231.1 

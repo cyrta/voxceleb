@@ -1,0 +1,8 @@
+POI: 			David_Giuntoli 
+Youtube ID: 	s4Jpzb2oOKg 
+Video length: 	2608.0 sec 
+Set (V): 		dev 
+ 
+David_Giuntoli/s4Jpzb2oOKg_0000001 298.7 303.0 
+David_Giuntoli/s4Jpzb2oOKg_0000002 305.2 309.7 
+David_Giuntoli/s4Jpzb2oOKg_0000003 1943.3 1947.4 

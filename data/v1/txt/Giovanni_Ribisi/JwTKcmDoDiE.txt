@@ -1,0 +1,7 @@
+POI: 			Giovanni_Ribisi 
+Youtube ID: 	JwTKcmDoDiE 
+Video length: 	258.2 sec 
+Set (V): 		dev 
+ 
+Giovanni_Ribisi/JwTKcmDoDiE_0000001 96.9 103.5 
+Giovanni_Ribisi/JwTKcmDoDiE_0000002 244.2 251.4 

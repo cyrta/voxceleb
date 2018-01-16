@@ -1,0 +1,8 @@
+POI: 			John_Slattery 
+Youtube ID: 	oO7KrBgGTRo 
+Video length: 	609.1 sec 
+Set (V): 		dev 
+ 
+John_Slattery/oO7KrBgGTRo_0000001 208.6 221.4 
+John_Slattery/oO7KrBgGTRo_0000002 458.8 465.3 
+John_Slattery/oO7KrBgGTRo_0000003 582.3 587.4 

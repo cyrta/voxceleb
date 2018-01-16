@@ -1,0 +1,9 @@
+POI: 			Barbara_Eden 
+Youtube ID: 	rtxj5G066b0 
+Video length: 	102.7 sec 
+Set (V): 		dev 
+ 
+Barbara_Eden/rtxj5G066b0_0000001 11.2 15.4 
+Barbara_Eden/rtxj5G066b0_0000002 30.5 41.7 
+Barbara_Eden/rtxj5G066b0_0000003 46.9 58.6 
+Barbara_Eden/rtxj5G066b0_0000004 70.3 77.6 

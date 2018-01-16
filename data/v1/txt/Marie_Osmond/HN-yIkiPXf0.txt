@@ -1,0 +1,8 @@
+POI: 			Marie_Osmond 
+Youtube ID: 	HN-yIkiPXf0 
+Video length: 	464.9 sec 
+Set (V): 		dev 
+ 
+Marie_Osmond/HN-yIkiPXf0_0000001 225.8 241.3 
+Marie_Osmond/HN-yIkiPXf0_0000002 303.7 308.8 
+Marie_Osmond/HN-yIkiPXf0_0000003 324.7 329.9 

@@ -1,0 +1,9 @@
+POI: 			Bridget_Regan 
+Youtube ID: 	T5wqRovA1fQ 
+Video length: 	537.2 sec 
+Set (V): 		dev 
+ 
+Bridget_Regan/T5wqRovA1fQ_0000001 206.3 211.0 
+Bridget_Regan/T5wqRovA1fQ_0000002 228.6 232.8 
+Bridget_Regan/T5wqRovA1fQ_0000003 245.8 249.7 
+Bridget_Regan/T5wqRovA1fQ_0000004 498.8 503.0 

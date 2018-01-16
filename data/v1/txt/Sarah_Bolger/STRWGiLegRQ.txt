@@ -1,0 +1,20 @@
+POI: 			Sarah_Bolger 
+Youtube ID: 	STRWGiLegRQ 
+Video length: 	287.6 sec 
+Set (V): 		dev 
+ 
+Sarah_Bolger/STRWGiLegRQ_0000001 10.2 16.2 
+Sarah_Bolger/STRWGiLegRQ_0000002 16.5 23.3 
+Sarah_Bolger/STRWGiLegRQ_0000003 24.7 45.4 
+Sarah_Bolger/STRWGiLegRQ_0000004 60.6 79.9 
+Sarah_Bolger/STRWGiLegRQ_0000005 87.2 91.2 
+Sarah_Bolger/STRWGiLegRQ_0000006 97.8 107.6 
+Sarah_Bolger/STRWGiLegRQ_0000007 111.1 127.4 
+Sarah_Bolger/STRWGiLegRQ_0000008 138.8 143.9 
+Sarah_Bolger/STRWGiLegRQ_0000009 151.8 158.4 
+Sarah_Bolger/STRWGiLegRQ_0000010 159.4 170.7 
+Sarah_Bolger/STRWGiLegRQ_0000011 170.8 183.4 
+Sarah_Bolger/STRWGiLegRQ_0000012 184.3 189.4 
+Sarah_Bolger/STRWGiLegRQ_0000013 206.2 213.2 
+Sarah_Bolger/STRWGiLegRQ_0000014 215.0 224.4 
+Sarah_Bolger/STRWGiLegRQ_0000015 227.6 238.5 

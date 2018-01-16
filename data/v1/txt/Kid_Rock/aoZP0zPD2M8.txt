@@ -1,0 +1,7 @@
+POI: 			Kid_Rock 
+Youtube ID: 	aoZP0zPD2M8 
+Video length: 	353.4 sec 
+Set (V): 		dev 
+ 
+Kid_Rock/aoZP0zPD2M8_0000001 220.4 226.1 
+Kid_Rock/aoZP0zPD2M8_0000002 230.5 235.0 

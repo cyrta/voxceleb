@@ -1,0 +1,7 @@
+POI: 			Josh_Duhamel 
+Youtube ID: 	JfJImaRDn2A 
+Video length: 	157.2 sec 
+Set (V): 		dev 
+ 
+Josh_Duhamel/JfJImaRDn2A_0000001 79.9 84.3 
+Josh_Duhamel/JfJImaRDn2A_0000002 100.4 104.7 

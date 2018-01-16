@@ -1,0 +1,9 @@
+POI: 			Sharni_Vinson 
+Youtube ID: 	SJDyINrB4Jg 
+Video length: 	437.0 sec 
+Set (V): 		dev 
+ 
+Sharni_Vinson/SJDyINrB4Jg_0000001 17.3 32.6 
+Sharni_Vinson/SJDyINrB4Jg_0000002 378.8 383.8 
+Sharni_Vinson/SJDyINrB4Jg_0000003 384.4 396.8 
+Sharni_Vinson/SJDyINrB4Jg_0000004 397.6 417.1 

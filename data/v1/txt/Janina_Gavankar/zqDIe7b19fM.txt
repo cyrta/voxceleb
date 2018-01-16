@@ -1,0 +1,10 @@
+POI: 			Janina_Gavankar 
+Youtube ID: 	zqDIe7b19fM 
+Video length: 	325.8 sec 
+Set (V): 		dev 
+ 
+Janina_Gavankar/zqDIe7b19fM_0000001 81.4 86.4 
+Janina_Gavankar/zqDIe7b19fM_0000002 102.7 112.6 
+Janina_Gavankar/zqDIe7b19fM_0000003 130.9 138.3 
+Janina_Gavankar/zqDIe7b19fM_0000004 214.8 220.1 
+Janina_Gavankar/zqDIe7b19fM_0000005 296.1 302.5 

@@ -1,0 +1,12 @@
+POI: 			Michael_Jai_White 
+Youtube ID: 	clhQUwwLjt0 
+Video length: 	523.7 sec 
+Set (V): 		dev 
+ 
+Michael_Jai_White/clhQUwwLjt0_0000001 117.5 123.1 
+Michael_Jai_White/clhQUwwLjt0_0000002 141.4 148.4 
+Michael_Jai_White/clhQUwwLjt0_0000003 156.2 170.0 
+Michael_Jai_White/clhQUwwLjt0_0000004 174.2 178.2 
+Michael_Jai_White/clhQUwwLjt0_0000005 182.4 187.5 
+Michael_Jai_White/clhQUwwLjt0_0000006 201.9 207.9 
+Michael_Jai_White/clhQUwwLjt0_0000007 215.9 220.4 

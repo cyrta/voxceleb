@@ -1,0 +1,11 @@
+POI: 			Anton_Yelchin 
+Youtube ID: 	L6VITeK7Ylg 
+Video length: 	130.8 sec 
+Set (V): 		dev 
+ 
+Anton_Yelchin/L6VITeK7Ylg_0000001 30.8 42.2 
+Anton_Yelchin/L6VITeK7Ylg_0000002 42.2 52.0 
+Anton_Yelchin/L6VITeK7Ylg_0000003 52.8 62.1 
+Anton_Yelchin/L6VITeK7Ylg_0000004 78.7 83.0 
+Anton_Yelchin/L6VITeK7Ylg_0000005 89.0 98.7 
+Anton_Yelchin/L6VITeK7Ylg_0000006 116.8 121.1 

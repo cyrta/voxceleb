@@ -1,0 +1,12 @@
+POI: 			David_Zayas 
+Youtube ID: 	doJHuiMXJz4 
+Video length: 	214.3 sec 
+Set (V): 		dev 
+ 
+David_Zayas/doJHuiMXJz4_0000001 17.9 23.2 
+David_Zayas/doJHuiMXJz4_0000002 34.6 40.6 
+David_Zayas/doJHuiMXJz4_0000003 42.0 49.9 
+David_Zayas/doJHuiMXJz4_0000004 64.1 72.4 
+David_Zayas/doJHuiMXJz4_0000005 90.2 96.4 
+David_Zayas/doJHuiMXJz4_0000006 118.0 126.5 
+David_Zayas/doJHuiMXJz4_0000007 174.6 180.1 

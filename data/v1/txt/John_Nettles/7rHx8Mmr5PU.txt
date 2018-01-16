@@ -1,0 +1,11 @@
+POI: 			John_Nettles 
+Youtube ID: 	7rHx8Mmr5PU 
+Video length: 	314.2 sec 
+Set (V): 		dev 
+ 
+John_Nettles/7rHx8Mmr5PU_0000001 35.7 56.3 
+John_Nettles/7rHx8Mmr5PU_0000002 79.8 96.4 
+John_Nettles/7rHx8Mmr5PU_0000003 121.0 126.1 
+John_Nettles/7rHx8Mmr5PU_0000004 145.2 150.0 
+John_Nettles/7rHx8Mmr5PU_0000005 246.2 252.6 
+John_Nettles/7rHx8Mmr5PU_0000006 257.6 265.7 

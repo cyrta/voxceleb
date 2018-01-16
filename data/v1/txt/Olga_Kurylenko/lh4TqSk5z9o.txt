@@ -1,0 +1,21 @@
+POI: 			Olga_Kurylenko 
+Youtube ID: 	lh4TqSk5z9o 
+Video length: 	285.9 sec 
+Set (V): 		dev 
+ 
+Olga_Kurylenko/lh4TqSk5z9o_0000001 19.6 34.6 
+Olga_Kurylenko/lh4TqSk5z9o_0000002 34.8 51.8 
+Olga_Kurylenko/lh4TqSk5z9o_0000003 57.0 70.3 
+Olga_Kurylenko/lh4TqSk5z9o_0000004 79.8 98.4 
+Olga_Kurylenko/lh4TqSk5z9o_0000005 99.4 104.1 
+Olga_Kurylenko/lh4TqSk5z9o_0000006 113.3 120.5 
+Olga_Kurylenko/lh4TqSk5z9o_0000007 123.6 128.7 
+Olga_Kurylenko/lh4TqSk5z9o_0000008 131.0 135.8 
+Olga_Kurylenko/lh4TqSk5z9o_0000009 147.3 165.8 
+Olga_Kurylenko/lh4TqSk5z9o_0000010 170.9 188.7 
+Olga_Kurylenko/lh4TqSk5z9o_0000011 204.8 210.3 
+Olga_Kurylenko/lh4TqSk5z9o_0000012 220.0 234.2 
+Olga_Kurylenko/lh4TqSk5z9o_0000013 236.3 241.2 
+Olga_Kurylenko/lh4TqSk5z9o_0000014 241.3 248.8 
+Olga_Kurylenko/lh4TqSk5z9o_0000015 259.0 265.1 
+Olga_Kurylenko/lh4TqSk5z9o_0000016 267.0 276.5 

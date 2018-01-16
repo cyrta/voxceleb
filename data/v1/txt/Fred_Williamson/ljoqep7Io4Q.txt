@@ -1,0 +1,7 @@
+POI: 			Fred_Williamson 
+Youtube ID: 	ljoqep7Io4Q 
+Video length: 	288.8 sec 
+Set (V): 		dev 
+ 
+Fred_Williamson/ljoqep7Io4Q_0000001 191.6 201.2 
+Fred_Williamson/ljoqep7Io4Q_0000002 272.0 276.5 

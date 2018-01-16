@@ -1,0 +1,9 @@
+POI: 			Damon_Lindelof 
+Youtube ID: 	auBLcZ7UrM8 
+Video length: 	147.4 sec 
+Set (V): 		dev 
+ 
+Damon_Lindelof/auBLcZ7UrM8_0000001 20.0 28.8 
+Damon_Lindelof/auBLcZ7UrM8_0000002 29.0 43.5 
+Damon_Lindelof/auBLcZ7UrM8_0000003 44.4 58.1 
+Damon_Lindelof/auBLcZ7UrM8_0000004 57.6 66.8 

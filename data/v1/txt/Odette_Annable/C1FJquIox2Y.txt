@@ -1,0 +1,8 @@
+POI: 			Odette_Annable 
+Youtube ID: 	C1FJquIox2Y 
+Video length: 	197.7 sec 
+Set (V): 		dev 
+ 
+Odette_Annable/C1FJquIox2Y_0000001 18.0 22.2 
+Odette_Annable/C1FJquIox2Y_0000002 109.7 113.6 
+Odette_Annable/C1FJquIox2Y_0000003 156.1 162.1 

@@ -1,0 +1,18 @@
+POI: 			Jason_David_Frank 
+Youtube ID: 	qmH_9xD9Ftg 
+Video length: 	315.9 sec 
+Set (V): 		dev 
+ 
+Jason_David_Frank/qmH_9xD9Ftg_0000001 35.8 45.9 
+Jason_David_Frank/qmH_9xD9Ftg_0000002 59.6 70.9 
+Jason_David_Frank/qmH_9xD9Ftg_0000003 71.1 83.4 
+Jason_David_Frank/qmH_9xD9Ftg_0000004 83.7 90.5 
+Jason_David_Frank/qmH_9xD9Ftg_0000005 101.6 117.5 
+Jason_David_Frank/qmH_9xD9Ftg_0000006 118.4 144.0 
+Jason_David_Frank/qmH_9xD9Ftg_0000007 154.5 162.7 
+Jason_David_Frank/qmH_9xD9Ftg_0000008 164.6 174.9 
+Jason_David_Frank/qmH_9xD9Ftg_0000009 179.7 184.5 
+Jason_David_Frank/qmH_9xD9Ftg_0000010 227.7 244.6 
+Jason_David_Frank/qmH_9xD9Ftg_0000011 246.3 289.9 
+Jason_David_Frank/qmH_9xD9Ftg_0000012 290.2 296.0 
+Jason_David_Frank/qmH_9xD9Ftg_0000013 298.2 303.2 

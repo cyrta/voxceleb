@@ -1,0 +1,10 @@
+POI: 			Jeremy_Shada 
+Youtube ID: 	7FRoqflVZTM 
+Video length: 	82.1 sec 
+Set (V): 		dev 
+ 
+Jeremy_Shada/7FRoqflVZTM_0000001 18.4 23.4 
+Jeremy_Shada/7FRoqflVZTM_0000002 23.7 29.4 
+Jeremy_Shada/7FRoqflVZTM_0000003 30.0 43.9 
+Jeremy_Shada/7FRoqflVZTM_0000004 46.5 52.8 
+Jeremy_Shada/7FRoqflVZTM_0000005 64.2 72.8 

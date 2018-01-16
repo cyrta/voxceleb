@@ -1,0 +1,9 @@
+POI: 			Sheridan_Smith 
+Youtube ID: 	jgJI7Qzh1po 
+Video length: 	119.4 sec 
+Set (V): 		dev 
+ 
+Sheridan_Smith/jgJI7Qzh1po_0000001 05.8 18.5 
+Sheridan_Smith/jgJI7Qzh1po_0000002 39.9 50.0 
+Sheridan_Smith/jgJI7Qzh1po_0000003 58.4 66.8 
+Sheridan_Smith/jgJI7Qzh1po_0000004 91.4 99.5 

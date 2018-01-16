@@ -1,0 +1,14 @@
+POI: 			Janice_Dickinson 
+Youtube ID: 	egLXtQX7a9k 
+Video length: 	319.8 sec 
+Set (V): 		dev 
+ 
+Janice_Dickinson/egLXtQX7a9k_0000001 46.6 58.0 
+Janice_Dickinson/egLXtQX7a9k_0000002 72.6 77.0 
+Janice_Dickinson/egLXtQX7a9k_0000003 98.9 105.1 
+Janice_Dickinson/egLXtQX7a9k_0000004 144.0 151.6 
+Janice_Dickinson/egLXtQX7a9k_0000005 170.3 175.4 
+Janice_Dickinson/egLXtQX7a9k_0000006 187.2 193.7 
+Janice_Dickinson/egLXtQX7a9k_0000007 247.2 251.2 
+Janice_Dickinson/egLXtQX7a9k_0000008 263.9 272.9 
+Janice_Dickinson/egLXtQX7a9k_0000009 281.9 287.6 

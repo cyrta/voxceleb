@@ -1,0 +1,19 @@
+POI: 			Amy_Schumer 
+Youtube ID: 	GpSk6dLbkGM 
+Video length: 	368.4 sec 
+Set (V): 		dev 
+ 
+Amy_Schumer/GpSk6dLbkGM_0000001 20.9 53.4 
+Amy_Schumer/GpSk6dLbkGM_0000002 60.2 64.1 
+Amy_Schumer/GpSk6dLbkGM_0000003 83.3 103.7 
+Amy_Schumer/GpSk6dLbkGM_0000004 129.8 137.4 
+Amy_Schumer/GpSk6dLbkGM_0000005 138.0 142.8 
+Amy_Schumer/GpSk6dLbkGM_0000006 168.4 184.6 
+Amy_Schumer/GpSk6dLbkGM_0000007 201.7 212.1 
+Amy_Schumer/GpSk6dLbkGM_0000008 235.9 244.4 
+Amy_Schumer/GpSk6dLbkGM_0000009 244.8 250.7 
+Amy_Schumer/GpSk6dLbkGM_0000010 251.1 258.4 
+Amy_Schumer/GpSk6dLbkGM_0000011 285.2 295.6 
+Amy_Schumer/GpSk6dLbkGM_0000012 299.6 304.4 
+Amy_Schumer/GpSk6dLbkGM_0000013 305.6 309.7 
+Amy_Schumer/GpSk6dLbkGM_0000014 340.1 345.7 

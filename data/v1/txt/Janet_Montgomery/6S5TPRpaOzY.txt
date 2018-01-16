@@ -1,0 +1,25 @@
+POI: 			Janet_Montgomery 
+Youtube ID: 	6S5TPRpaOzY 
+Video length: 	352.1 sec 
+Set (V): 		dev 
+ 
+Janet_Montgomery/6S5TPRpaOzY_0000001 01.1 18.6 
+Janet_Montgomery/6S5TPRpaOzY_0000002 21.9 35.2 
+Janet_Montgomery/6S5TPRpaOzY_0000003 36.2 44.4 
+Janet_Montgomery/6S5TPRpaOzY_0000004 45.3 49.4 
+Janet_Montgomery/6S5TPRpaOzY_0000005 52.6 56.6 
+Janet_Montgomery/6S5TPRpaOzY_0000006 57.2 63.7 
+Janet_Montgomery/6S5TPRpaOzY_0000007 64.3 70.4 
+Janet_Montgomery/6S5TPRpaOzY_0000008 71.2 85.5 
+Janet_Montgomery/6S5TPRpaOzY_0000009 95.9 117.4 
+Janet_Montgomery/6S5TPRpaOzY_0000010 125.5 146.3 
+Janet_Montgomery/6S5TPRpaOzY_0000011 149.5 159.3 
+Janet_Montgomery/6S5TPRpaOzY_0000012 162.9 167.6 
+Janet_Montgomery/6S5TPRpaOzY_0000013 180.4 214.6 
+Janet_Montgomery/6S5TPRpaOzY_0000014 217.0 227.9 
+Janet_Montgomery/6S5TPRpaOzY_0000015 235.9 241.6 
+Janet_Montgomery/6S5TPRpaOzY_0000016 242.0 247.8 
+Janet_Montgomery/6S5TPRpaOzY_0000017 250.1 269.6 
+Janet_Montgomery/6S5TPRpaOzY_0000018 272.8 298.6 
+Janet_Montgomery/6S5TPRpaOzY_0000019 305.3 336.0 
+Janet_Montgomery/6S5TPRpaOzY_0000020 339.6 345.9 

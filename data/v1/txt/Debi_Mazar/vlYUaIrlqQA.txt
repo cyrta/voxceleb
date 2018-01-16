@@ -1,0 +1,10 @@
+POI: 			Debi_Mazar 
+Youtube ID: 	vlYUaIrlqQA 
+Video length: 	450.0 sec 
+Set (V): 		dev 
+ 
+Debi_Mazar/vlYUaIrlqQA_0000001 51.6 60.2 
+Debi_Mazar/vlYUaIrlqQA_0000002 88.0 92.8 
+Debi_Mazar/vlYUaIrlqQA_0000003 160.2 172.6 
+Debi_Mazar/vlYUaIrlqQA_0000004 200.1 205.4 
+Debi_Mazar/vlYUaIrlqQA_0000005 288.4 293.6 

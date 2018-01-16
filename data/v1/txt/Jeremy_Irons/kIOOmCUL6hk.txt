@@ -1,0 +1,7 @@
+POI: 			Jeremy_Irons 
+Youtube ID: 	kIOOmCUL6hk 
+Video length: 	343.0 sec 
+Set (V): 		dev 
+ 
+Jeremy_Irons/kIOOmCUL6hk_0000001 31.4 36.7 
+Jeremy_Irons/kIOOmCUL6hk_0000002 264.0 272.9 

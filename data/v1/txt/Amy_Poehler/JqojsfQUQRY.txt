@@ -1,0 +1,9 @@
+POI: 			Amy_Poehler 
+Youtube ID: 	JqojsfQUQRY 
+Video length: 	317.0 sec 
+Set (V): 		dev 
+ 
+Amy_Poehler/JqojsfQUQRY_0000001 25.1 30.6 
+Amy_Poehler/JqojsfQUQRY_0000002 57.2 76.4 
+Amy_Poehler/JqojsfQUQRY_0000003 112.4 117.2 
+Amy_Poehler/JqojsfQUQRY_0000004 185.0 190.8 

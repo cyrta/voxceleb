@@ -1,0 +1,17 @@
+POI: 			Shirley_Manson 
+Youtube ID: 	6RpKQiC440w 
+Video length: 	239.1 sec 
+Set (V): 		dev 
+ 
+Shirley_Manson/6RpKQiC440w_0000001 13.2 19.0 
+Shirley_Manson/6RpKQiC440w_0000002 48.8 54.7 
+Shirley_Manson/6RpKQiC440w_0000003 57.1 62.3 
+Shirley_Manson/6RpKQiC440w_0000004 69.4 75.0 
+Shirley_Manson/6RpKQiC440w_0000005 78.8 86.2 
+Shirley_Manson/6RpKQiC440w_0000006 88.5 93.5 
+Shirley_Manson/6RpKQiC440w_0000007 102.2 110.3 
+Shirley_Manson/6RpKQiC440w_0000008 142.6 148.6 
+Shirley_Manson/6RpKQiC440w_0000009 155.6 160.7 
+Shirley_Manson/6RpKQiC440w_0000010 166.9 180.2 
+Shirley_Manson/6RpKQiC440w_0000011 204.5 212.4 
+Shirley_Manson/6RpKQiC440w_0000012 214.8 221.2 

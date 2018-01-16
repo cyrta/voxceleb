@@ -1,0 +1,11 @@
+POI: 			Reid_Scott 
+Youtube ID: 	LQVdwU6iYRk 
+Video length: 	136.3 sec 
+Set (V): 		dev 
+ 
+Reid_Scott/LQVdwU6iYRk_0000001 35.7 44.0 
+Reid_Scott/LQVdwU6iYRk_0000002 44.1 64.3 
+Reid_Scott/LQVdwU6iYRk_0000003 90.1 96.3 
+Reid_Scott/LQVdwU6iYRk_0000004 101.0 106.2 
+Reid_Scott/LQVdwU6iYRk_0000005 102.5 109.5 
+Reid_Scott/LQVdwU6iYRk_0000006 122.9 128.7 

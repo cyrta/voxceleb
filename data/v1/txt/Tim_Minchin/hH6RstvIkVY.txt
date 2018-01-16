@@ -1,0 +1,17 @@
+POI: 			Tim_Minchin 
+Youtube ID: 	hH6RstvIkVY 
+Video length: 	602.3 sec 
+Set (V): 		dev 
+ 
+Tim_Minchin/hH6RstvIkVY_0000001 83.4 91.0 
+Tim_Minchin/hH6RstvIkVY_0000002 173.6 179.0 
+Tim_Minchin/hH6RstvIkVY_0000003 252.0 260.8 
+Tim_Minchin/hH6RstvIkVY_0000004 266.8 281.0 
+Tim_Minchin/hH6RstvIkVY_0000005 298.8 303.1 
+Tim_Minchin/hH6RstvIkVY_0000006 315.3 323.2 
+Tim_Minchin/hH6RstvIkVY_0000007 331.9 345.2 
+Tim_Minchin/hH6RstvIkVY_0000008 389.6 397.8 
+Tim_Minchin/hH6RstvIkVY_0000009 421.5 429.2 
+Tim_Minchin/hH6RstvIkVY_0000010 434.0 441.6 
+Tim_Minchin/hH6RstvIkVY_0000011 503.3 509.3 
+Tim_Minchin/hH6RstvIkVY_0000012 518.8 526.5 

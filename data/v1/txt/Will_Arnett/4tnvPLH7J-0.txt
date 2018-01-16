@@ -1,0 +1,13 @@
+POI: 			Will_Arnett 
+Youtube ID: 	4tnvPLH7J-0 
+Video length: 	626.3 sec 
+Set (V): 		dev 
+ 
+Will_Arnett/4tnvPLH7J-0_0000001 125.4 129.6 
+Will_Arnett/4tnvPLH7J-0_0000002 200.0 205.5 
+Will_Arnett/4tnvPLH7J-0_0000003 289.2 294.8 
+Will_Arnett/4tnvPLH7J-0_0000004 318.5 340.8 
+Will_Arnett/4tnvPLH7J-0_0000005 346.7 354.3 
+Will_Arnett/4tnvPLH7J-0_0000006 454.8 459.1 
+Will_Arnett/4tnvPLH7J-0_0000007 511.4 522.1 
+Will_Arnett/4tnvPLH7J-0_0000008 522.5 526.6 

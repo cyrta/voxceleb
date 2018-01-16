@@ -1,0 +1,9 @@
+POI: 			Jesse_Williams 
+Youtube ID: 	UfuojIU1gAY 
+Video length: 	468.4 sec 
+Set (V): 		dev 
+ 
+Jesse_Williams/UfuojIU1gAY_0000001 138.2 163.1 
+Jesse_Williams/UfuojIU1gAY_0000002 213.0 221.5 
+Jesse_Williams/UfuojIU1gAY_0000003 361.9 368.9 
+Jesse_Williams/UfuojIU1gAY_0000004 371.5 381.5 

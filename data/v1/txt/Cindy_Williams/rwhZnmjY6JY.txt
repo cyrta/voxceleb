@@ -1,0 +1,21 @@
+POI: 			Cindy_Williams 
+Youtube ID: 	rwhZnmjY6JY 
+Video length: 	225.0 sec 
+Set (V): 		dev 
+ 
+Cindy_Williams/rwhZnmjY6JY_0000001 06.6 11.3 
+Cindy_Williams/rwhZnmjY6JY_0000002 11.5 24.7 
+Cindy_Williams/rwhZnmjY6JY_0000003 24.9 40.0 
+Cindy_Williams/rwhZnmjY6JY_0000004 41.6 45.8 
+Cindy_Williams/rwhZnmjY6JY_0000005 50.9 59.8 
+Cindy_Williams/rwhZnmjY6JY_0000006 65.2 83.0 
+Cindy_Williams/rwhZnmjY6JY_0000007 85.2 92.4 
+Cindy_Williams/rwhZnmjY6JY_0000008 93.1 104.8 
+Cindy_Williams/rwhZnmjY6JY_0000009 107.4 120.2 
+Cindy_Williams/rwhZnmjY6JY_0000010 125.9 142.8 
+Cindy_Williams/rwhZnmjY6JY_0000011 149.6 154.3 
+Cindy_Williams/rwhZnmjY6JY_0000012 155.0 162.3 
+Cindy_Williams/rwhZnmjY6JY_0000013 164.5 168.9 
+Cindy_Williams/rwhZnmjY6JY_0000014 175.4 183.9 
+Cindy_Williams/rwhZnmjY6JY_0000015 191.6 197.7 
+Cindy_Williams/rwhZnmjY6JY_0000016 209.2 213.6 

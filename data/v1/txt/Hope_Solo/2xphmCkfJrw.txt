@@ -1,0 +1,9 @@
+POI: 			Hope_Solo 
+Youtube ID: 	2xphmCkfJrw 
+Video length: 	117.0 sec 
+Set (V): 		dev 
+ 
+Hope_Solo/2xphmCkfJrw_0000001 27.0 34.9 
+Hope_Solo/2xphmCkfJrw_0000002 37.4 48.2 
+Hope_Solo/2xphmCkfJrw_0000003 49.3 61.1 
+Hope_Solo/2xphmCkfJrw_0000004 75.8 85.2 

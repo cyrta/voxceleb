@@ -1,0 +1,11 @@
+POI: 			Pablo_Schreiber 
+Youtube ID: 	DQream2L2ok 
+Video length: 	349.1 sec 
+Set (V): 		dev 
+ 
+Pablo_Schreiber/DQream2L2ok_0000001 52.2 56.4 
+Pablo_Schreiber/DQream2L2ok_0000002 58.5 70.4 
+Pablo_Schreiber/DQream2L2ok_0000003 112.2 117.8 
+Pablo_Schreiber/DQream2L2ok_0000004 128.8 133.4 
+Pablo_Schreiber/DQream2L2ok_0000005 191.6 197.7 
+Pablo_Schreiber/DQream2L2ok_0000006 203.7 211.8 

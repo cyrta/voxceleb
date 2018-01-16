@@ -1,0 +1,9 @@
+POI: 			Gwendoline_Christie 
+Youtube ID: 	PfrOkWQfi08 
+Video length: 	198.7 sec 
+Set (V): 		dev 
+ 
+Gwendoline_Christie/PfrOkWQfi08_0000001 03.1 13.8 
+Gwendoline_Christie/PfrOkWQfi08_0000002 15.2 20.0 
+Gwendoline_Christie/PfrOkWQfi08_0000003 80.7 93.4 
+Gwendoline_Christie/PfrOkWQfi08_0000004 161.8 176.5 

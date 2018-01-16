@@ -1,0 +1,8 @@
+POI: 			Josh_Brolin 
+Youtube ID: 	QijECxi3hQ0 
+Video length: 	847.0 sec 
+Set (V): 		dev 
+ 
+Josh_Brolin/QijECxi3hQ0_0000001 477.9 482.2 
+Josh_Brolin/QijECxi3hQ0_0000002 519.7 523.7 
+Josh_Brolin/QijECxi3hQ0_0000003 535.2 539.6 

@@ -1,0 +1,11 @@
+POI: 			Alan_Alda 
+Youtube ID: 	Gi11Fgbjqdc 
+Video length: 	491.3 sec 
+Set (V): 		dev 
+ 
+Alan_Alda/Gi11Fgbjqdc_0000001 144.3 150.0 
+Alan_Alda/Gi11Fgbjqdc_0000002 189.0 193.0 
+Alan_Alda/Gi11Fgbjqdc_0000003 257.3 264.7 
+Alan_Alda/Gi11Fgbjqdc_0000004 309.8 315.7 
+Alan_Alda/Gi11Fgbjqdc_0000005 401.5 409.8 
+Alan_Alda/Gi11Fgbjqdc_0000006 423.8 428.0 

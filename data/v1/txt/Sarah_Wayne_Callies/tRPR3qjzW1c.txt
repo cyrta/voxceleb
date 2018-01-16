@@ -1,0 +1,12 @@
+POI: 			Sarah_Wayne_Callies 
+Youtube ID: 	tRPR3qjzW1c 
+Video length: 	318.2 sec 
+Set (V): 		dev 
+ 
+Sarah_Wayne_Callies/tRPR3qjzW1c_0000001 24.6 34.2 
+Sarah_Wayne_Callies/tRPR3qjzW1c_0000002 38.6 49.6 
+Sarah_Wayne_Callies/tRPR3qjzW1c_0000003 55.9 60.1 
+Sarah_Wayne_Callies/tRPR3qjzW1c_0000004 60.4 65.7 
+Sarah_Wayne_Callies/tRPR3qjzW1c_0000005 141.1 149.3 
+Sarah_Wayne_Callies/tRPR3qjzW1c_0000006 193.6 199.2 
+Sarah_Wayne_Callies/tRPR3qjzW1c_0000007 204.8 214.6 

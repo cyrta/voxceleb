@@ -1,0 +1,10 @@
+POI: 			Eric_McCormack 
+Youtube ID: 	mQ5JkSVET7c 
+Video length: 	259.2 sec 
+Set (V): 		test 
+ 
+Eric_McCormack/mQ5JkSVET7c_0000001 18.0 22.7 
+Eric_McCormack/mQ5JkSVET7c_0000002 41.5 47.9 
+Eric_McCormack/mQ5JkSVET7c_0000003 168.4 172.6 
+Eric_McCormack/mQ5JkSVET7c_0000004 209.1 215.7 
+Eric_McCormack/mQ5JkSVET7c_0000005 222.1 226.8 

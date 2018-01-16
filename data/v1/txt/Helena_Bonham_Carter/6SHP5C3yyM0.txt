@@ -1,0 +1,17 @@
+POI: 			Helena_Bonham_Carter 
+Youtube ID: 	6SHP5C3yyM0 
+Video length: 	258.7 sec 
+Set (V): 		dev 
+ 
+Helena_Bonham_Carter/6SHP5C3yyM0_0000001 11.0 17.7 
+Helena_Bonham_Carter/6SHP5C3yyM0_0000002 25.5 32.0 
+Helena_Bonham_Carter/6SHP5C3yyM0_0000003 77.6 88.7 
+Helena_Bonham_Carter/6SHP5C3yyM0_0000004 90.3 101.8 
+Helena_Bonham_Carter/6SHP5C3yyM0_0000005 102.9 108.2 
+Helena_Bonham_Carter/6SHP5C3yyM0_0000006 124.8 137.1 
+Helena_Bonham_Carter/6SHP5C3yyM0_0000007 146.4 150.4 
+Helena_Bonham_Carter/6SHP5C3yyM0_0000008 176.2 183.9 
+Helena_Bonham_Carter/6SHP5C3yyM0_0000009 184.9 190.6 
+Helena_Bonham_Carter/6SHP5C3yyM0_0000010 194.3 198.9 
+Helena_Bonham_Carter/6SHP5C3yyM0_0000011 199.3 206.4 
+Helena_Bonham_Carter/6SHP5C3yyM0_0000012 217.6 224.6 

@@ -1,0 +1,8 @@
+POI: 			Stephen_Lang 
+Youtube ID: 	5R8QOzuHC6Q 
+Video length: 	341.6 sec 
+Set (V): 		dev 
+ 
+Stephen_Lang/5R8QOzuHC6Q_0000001 178.6 183.5 
+Stephen_Lang/5R8QOzuHC6Q_0000002 206.1 213.6 
+Stephen_Lang/5R8QOzuHC6Q_0000003 217.0 221.7 

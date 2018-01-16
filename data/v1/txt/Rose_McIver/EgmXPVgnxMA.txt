@@ -1,0 +1,11 @@
+POI: 			Rose_McIver 
+Youtube ID: 	EgmXPVgnxMA 
+Video length: 	471.6 sec 
+Set (V): 		dev 
+ 
+Rose_McIver/EgmXPVgnxMA_0000001 67.4 80.1 
+Rose_McIver/EgmXPVgnxMA_0000002 236.7 242.9 
+Rose_McIver/EgmXPVgnxMA_0000003 243.0 251.7 
+Rose_McIver/EgmXPVgnxMA_0000004 251.8 259.2 
+Rose_McIver/EgmXPVgnxMA_0000005 358.0 363.7 
+Rose_McIver/EgmXPVgnxMA_0000006 426.2 432.6 

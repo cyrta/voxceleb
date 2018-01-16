@@ -1,0 +1,9 @@
+POI: 			Johnny_Galecki 
+Youtube ID: 	jk6Tp_vhTmA 
+Video length: 	258.6 sec 
+Set (V): 		dev 
+ 
+Johnny_Galecki/jk6Tp_vhTmA_0000001 09.2 20.1 
+Johnny_Galecki/jk6Tp_vhTmA_0000002 32.2 50.6 
+Johnny_Galecki/jk6Tp_vhTmA_0000003 178.7 189.1 
+Johnny_Galecki/jk6Tp_vhTmA_0000004 189.6 212.4 

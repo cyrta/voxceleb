@@ -1,0 +1,9 @@
+POI: 			Ian_Somerhalder 
+Youtube ID: 	qfTZX34e5gg 
+Video length: 	339.8 sec 
+Set (V): 		dev 
+ 
+Ian_Somerhalder/qfTZX34e5gg_0000001 49.6 53.9 
+Ian_Somerhalder/qfTZX34e5gg_0000002 248.9 253.4 
+Ian_Somerhalder/qfTZX34e5gg_0000003 277.2 282.2 
+Ian_Somerhalder/qfTZX34e5gg_0000004 314.8 319.4 

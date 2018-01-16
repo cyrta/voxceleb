@@ -1,0 +1,7 @@
+POI: 			Eli_Roth 
+Youtube ID: 	eC9ZIOvohds 
+Video length: 	234.3 sec 
+Set (V): 		test 
+ 
+Eli_Roth/eC9ZIOvohds_0000001 149.5 172.2 
+Eli_Roth/eC9ZIOvohds_0000002 199.4 216.1 

@@ -1,0 +1,8 @@
+POI: 			Vincent_Martella 
+Youtube ID: 	7AaHBVKGzGM 
+Video length: 	634.5 sec 
+Set (V): 		dev 
+ 
+Vincent_Martella/7AaHBVKGzGM_0000001 19.9 25.1 
+Vincent_Martella/7AaHBVKGzGM_0000002 339.3 343.3 
+Vincent_Martella/7AaHBVKGzGM_0000003 454.4 458.8 

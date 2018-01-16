@@ -1,0 +1,13 @@
+POI: 			Meghan_Trainor 
+Youtube ID: 	02HTjgkugkQ 
+Video length: 	354.5 sec 
+Set (V): 		dev 
+ 
+Meghan_Trainor/02HTjgkugkQ_0000001 152.8 157.1 
+Meghan_Trainor/02HTjgkugkQ_0000002 164.4 169.2 
+Meghan_Trainor/02HTjgkugkQ_0000003 208.0 220.6 
+Meghan_Trainor/02HTjgkugkQ_0000004 251.9 256.1 
+Meghan_Trainor/02HTjgkugkQ_0000005 260.9 269.8 
+Meghan_Trainor/02HTjgkugkQ_0000006 281.6 289.5 
+Meghan_Trainor/02HTjgkugkQ_0000007 290.2 297.2 
+Meghan_Trainor/02HTjgkugkQ_0000008 337.3 342.1 

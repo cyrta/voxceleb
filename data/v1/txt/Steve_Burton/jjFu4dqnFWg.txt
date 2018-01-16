@@ -1,0 +1,13 @@
+POI: 			Steve_Burton 
+Youtube ID: 	jjFu4dqnFWg 
+Video length: 	231.0 sec 
+Set (V): 		dev 
+ 
+Steve_Burton/jjFu4dqnFWg_0000001 28.5 37.1 
+Steve_Burton/jjFu4dqnFWg_0000002 49.4 54.0 
+Steve_Burton/jjFu4dqnFWg_0000003 90.9 95.2 
+Steve_Burton/jjFu4dqnFWg_0000004 95.9 108.4 
+Steve_Burton/jjFu4dqnFWg_0000005 110.0 114.7 
+Steve_Burton/jjFu4dqnFWg_0000006 174.3 179.4 
+Steve_Burton/jjFu4dqnFWg_0000007 194.3 200.9 
+Steve_Burton/jjFu4dqnFWg_0000008 207.5 217.7 

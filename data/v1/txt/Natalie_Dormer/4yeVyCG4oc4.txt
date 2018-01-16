@@ -1,0 +1,8 @@
+POI: 			Natalie_Dormer 
+Youtube ID: 	4yeVyCG4oc4 
+Video length: 	92.6 sec 
+Set (V): 		dev 
+ 
+Natalie_Dormer/4yeVyCG4oc4_0000001 25.8 29.8 
+Natalie_Dormer/4yeVyCG4oc4_0000002 69.2 75.2 
+Natalie_Dormer/4yeVyCG4oc4_0000003 82.8 89.2 

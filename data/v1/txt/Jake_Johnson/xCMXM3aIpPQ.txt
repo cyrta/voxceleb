@@ -1,0 +1,11 @@
+POI: 			Jake_Johnson 
+Youtube ID: 	xCMXM3aIpPQ 
+Video length: 	284.6 sec 
+Set (V): 		dev 
+ 
+Jake_Johnson/xCMXM3aIpPQ_0000001 49.5 55.8 
+Jake_Johnson/xCMXM3aIpPQ_0000002 65.3 70.9 
+Jake_Johnson/xCMXM3aIpPQ_0000003 89.1 99.0 
+Jake_Johnson/xCMXM3aIpPQ_0000004 123.3 136.6 
+Jake_Johnson/xCMXM3aIpPQ_0000005 184.1 189.6 
+Jake_Johnson/xCMXM3aIpPQ_0000006 275.8 281.8 

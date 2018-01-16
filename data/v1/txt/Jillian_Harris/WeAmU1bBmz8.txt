@@ -1,0 +1,10 @@
+POI: 			Jillian_Harris 
+Youtube ID: 	WeAmU1bBmz8 
+Video length: 	284.4 sec 
+Set (V): 		dev 
+ 
+Jillian_Harris/WeAmU1bBmz8_0000001 45.5 65.4 
+Jillian_Harris/WeAmU1bBmz8_0000002 142.8 159.8 
+Jillian_Harris/WeAmU1bBmz8_0000003 162.2 168.6 
+Jillian_Harris/WeAmU1bBmz8_0000004 170.5 174.5 
+Jillian_Harris/WeAmU1bBmz8_0000005 224.8 229.9 

@@ -1,0 +1,7 @@
+POI: 			Vidya_Balan 
+Youtube ID: 	tAZBItu_vgg 
+Video length: 	197.0 sec 
+Set (V): 		dev 
+ 
+Vidya_Balan/tAZBItu_vgg_0000001 159.5 164.3 
+Vidya_Balan/tAZBItu_vgg_0000002 174.0 178.1 

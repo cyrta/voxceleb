@@ -1,0 +1,9 @@
+POI: 			Chris_Messina 
+Youtube ID: 	UJmeHFGMxmg 
+Video length: 	77.3 sec 
+Set (V): 		dev 
+ 
+Chris_Messina/UJmeHFGMxmg_0000001 01.1 09.6 
+Chris_Messina/UJmeHFGMxmg_0000002 13.7 24.2 
+Chris_Messina/UJmeHFGMxmg_0000003 43.3 57.3 
+Chris_Messina/UJmeHFGMxmg_0000004 58.4 67.1 

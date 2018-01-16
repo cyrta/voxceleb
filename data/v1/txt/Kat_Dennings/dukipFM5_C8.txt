@@ -1,0 +1,13 @@
+POI: 			Kat_Dennings 
+Youtube ID: 	dukipFM5_C8 
+Video length: 	2617.5 sec 
+Set (V): 		dev 
+ 
+Kat_Dennings/dukipFM5_C8_0000001 1180.6 1187.4 
+Kat_Dennings/dukipFM5_C8_0000002 1194.2 1198.2 
+Kat_Dennings/dukipFM5_C8_0000003 1203.7 1210.9 
+Kat_Dennings/dukipFM5_C8_0000004 1240.6 1252.5 
+Kat_Dennings/dukipFM5_C8_0000005 1431.7 1436.4 
+Kat_Dennings/dukipFM5_C8_0000006 1442.2 1449.4 
+Kat_Dennings/dukipFM5_C8_0000007 1605.5 1609.8 
+Kat_Dennings/dukipFM5_C8_0000008 1617.1 1624.0 

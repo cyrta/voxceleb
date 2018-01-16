@@ -1,0 +1,9 @@
+POI: 			America_Ferrera 
+Youtube ID: 	YLCj-SkQHOY 
+Video length: 	123.9 sec 
+Set (V): 		dev 
+ 
+America_Ferrera/YLCj-SkQHOY_0000001 20.0 26.2 
+America_Ferrera/YLCj-SkQHOY_0000002 74.6 80.7 
+America_Ferrera/YLCj-SkQHOY_0000003 80.8 87.5 
+America_Ferrera/YLCj-SkQHOY_0000004 98.7 102.7 

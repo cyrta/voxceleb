@@ -1,0 +1,8 @@
+POI: 			Jorge_Garcia 
+Youtube ID: 	7wBRys8EguY 
+Video length: 	270.4 sec 
+Set (V): 		dev 
+ 
+Jorge_Garcia/7wBRys8EguY_0000001 97.6 103.0 
+Jorge_Garcia/7wBRys8EguY_0000002 136.8 140.8 
+Jorge_Garcia/7wBRys8EguY_0000003 216.0 220.6 

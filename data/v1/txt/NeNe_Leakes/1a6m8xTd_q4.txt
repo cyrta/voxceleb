@@ -1,0 +1,11 @@
+POI: 			NeNe_Leakes 
+Youtube ID: 	1a6m8xTd_q4 
+Video length: 	623.2 sec 
+Set (V): 		dev 
+ 
+NeNe_Leakes/1a6m8xTd_q4_0000001 211.5 218.6 
+NeNe_Leakes/1a6m8xTd_q4_0000002 233.3 237.2 
+NeNe_Leakes/1a6m8xTd_q4_0000003 251.4 255.4 
+NeNe_Leakes/1a6m8xTd_q4_0000004 270.0 274.1 
+NeNe_Leakes/1a6m8xTd_q4_0000005 326.6 333.6 
+NeNe_Leakes/1a6m8xTd_q4_0000006 563.0 572.9 

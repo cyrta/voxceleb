@@ -1,0 +1,11 @@
+POI: 			Vanessa_Marcil 
+Youtube ID: 	987UrtpOII8 
+Video length: 	420.5 sec 
+Set (V): 		dev 
+ 
+Vanessa_Marcil/987UrtpOII8_0000001 78.3 84.2 
+Vanessa_Marcil/987UrtpOII8_0000002 141.4 154.5 
+Vanessa_Marcil/987UrtpOII8_0000003 200.0 204.6 
+Vanessa_Marcil/987UrtpOII8_0000004 224.7 237.9 
+Vanessa_Marcil/987UrtpOII8_0000005 257.3 264.6 
+Vanessa_Marcil/987UrtpOII8_0000006 361.8 368.0 

@@ -1,0 +1,11 @@
+POI: 			Maria_Sharapova 
+Youtube ID: 	A_2VYN98tFU 
+Video length: 	86.8 sec 
+Set (V): 		dev 
+ 
+Maria_Sharapova/A_2VYN98tFU_0000001 39.4 43.7 
+Maria_Sharapova/A_2VYN98tFU_0000002 45.0 52.2 
+Maria_Sharapova/A_2VYN98tFU_0000003 52.3 61.5 
+Maria_Sharapova/A_2VYN98tFU_0000004 61.8 66.5 
+Maria_Sharapova/A_2VYN98tFU_0000005 67.0 72.5 
+Maria_Sharapova/A_2VYN98tFU_0000006 73.0 76.9 

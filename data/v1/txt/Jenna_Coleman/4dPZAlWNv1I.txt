@@ -1,0 +1,19 @@
+POI: 			Jenna_Coleman 
+Youtube ID: 	4dPZAlWNv1I 
+Video length: 	212.7 sec 
+Set (V): 		dev 
+ 
+Jenna_Coleman/4dPZAlWNv1I_0000001 03.9 08.9 
+Jenna_Coleman/4dPZAlWNv1I_0000002 12.4 22.4 
+Jenna_Coleman/4dPZAlWNv1I_0000003 23.3 28.0 
+Jenna_Coleman/4dPZAlWNv1I_0000004 44.7 51.0 
+Jenna_Coleman/4dPZAlWNv1I_0000005 64.0 75.8 
+Jenna_Coleman/4dPZAlWNv1I_0000006 84.2 89.9 
+Jenna_Coleman/4dPZAlWNv1I_0000007 90.6 107.8 
+Jenna_Coleman/4dPZAlWNv1I_0000008 115.2 128.4 
+Jenna_Coleman/4dPZAlWNv1I_0000009 130.1 139.7 
+Jenna_Coleman/4dPZAlWNv1I_0000010 140.7 146.6 
+Jenna_Coleman/4dPZAlWNv1I_0000011 151.1 155.2 
+Jenna_Coleman/4dPZAlWNv1I_0000012 160.4 165.8 
+Jenna_Coleman/4dPZAlWNv1I_0000013 165.9 176.9 
+Jenna_Coleman/4dPZAlWNv1I_0000014 178.0 192.7 

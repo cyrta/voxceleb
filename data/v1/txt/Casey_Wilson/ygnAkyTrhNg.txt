@@ -1,0 +1,13 @@
+POI: 			Casey_Wilson 
+Youtube ID: 	ygnAkyTrhNg 
+Video length: 	222.5 sec 
+Set (V): 		dev 
+ 
+Casey_Wilson/ygnAkyTrhNg_0000001 10.9 17.2 
+Casey_Wilson/ygnAkyTrhNg_0000002 18.5 22.6 
+Casey_Wilson/ygnAkyTrhNg_0000003 27.7 31.9 
+Casey_Wilson/ygnAkyTrhNg_0000004 53.3 59.1 
+Casey_Wilson/ygnAkyTrhNg_0000005 59.8 75.1 
+Casey_Wilson/ygnAkyTrhNg_0000006 98.2 104.2 
+Casey_Wilson/ygnAkyTrhNg_0000007 163.6 169.6 
+Casey_Wilson/ygnAkyTrhNg_0000008 171.0 178.8 

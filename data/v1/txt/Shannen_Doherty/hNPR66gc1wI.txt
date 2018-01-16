@@ -1,0 +1,7 @@
+POI: 			Shannen_Doherty 
+Youtube ID: 	hNPR66gc1wI 
+Video length: 	301.3 sec 
+Set (V): 		dev 
+ 
+Shannen_Doherty/hNPR66gc1wI_0000001 233.8 239.4 
+Shannen_Doherty/hNPR66gc1wI_0000002 250.1 258.9 

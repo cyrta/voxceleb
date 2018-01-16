@@ -1,0 +1,10 @@
+POI: 			Shiloh_Fernandez 
+Youtube ID: 	O7yQdectCVU 
+Video length: 	201.4 sec 
+Set (V): 		dev 
+ 
+Shiloh_Fernandez/O7yQdectCVU_0000001 33.0 37.3 
+Shiloh_Fernandez/O7yQdectCVU_0000002 40.8 49.8 
+Shiloh_Fernandez/O7yQdectCVU_0000003 65.9 73.0 
+Shiloh_Fernandez/O7yQdectCVU_0000004 111.5 118.0 
+Shiloh_Fernandez/O7yQdectCVU_0000005 191.1 195.6 

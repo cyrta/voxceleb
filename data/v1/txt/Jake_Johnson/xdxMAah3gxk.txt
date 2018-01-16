@@ -1,0 +1,9 @@
+POI: 			Jake_Johnson 
+Youtube ID: 	xdxMAah3gxk 
+Video length: 	224.3 sec 
+Set (V): 		dev 
+ 
+Jake_Johnson/xdxMAah3gxk_0000001 31.2 38.2 
+Jake_Johnson/xdxMAah3gxk_0000002 137.2 141.2 
+Jake_Johnson/xdxMAah3gxk_0000003 161.4 166.0 
+Jake_Johnson/xdxMAah3gxk_0000004 207.4 211.4 

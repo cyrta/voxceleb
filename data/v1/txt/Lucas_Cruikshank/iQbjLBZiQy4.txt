@@ -1,0 +1,7 @@
+POI: 			Lucas_Cruikshank 
+Youtube ID: 	iQbjLBZiQy4 
+Video length: 	129.0 sec 
+Set (V): 		dev 
+ 
+Lucas_Cruikshank/iQbjLBZiQy4_0000001 94.1 99.6 
+Lucas_Cruikshank/iQbjLBZiQy4_0000002 117.6 123.8 

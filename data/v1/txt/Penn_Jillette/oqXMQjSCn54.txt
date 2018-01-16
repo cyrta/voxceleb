@@ -1,0 +1,12 @@
+POI: 			Penn_Jillette 
+Youtube ID: 	oqXMQjSCn54 
+Video length: 	349.9 sec 
+Set (V): 		dev 
+ 
+Penn_Jillette/oqXMQjSCn54_0000001 65.7 74.8 
+Penn_Jillette/oqXMQjSCn54_0000002 120.1 132.0 
+Penn_Jillette/oqXMQjSCn54_0000003 152.4 164.0 
+Penn_Jillette/oqXMQjSCn54_0000004 217.5 225.1 
+Penn_Jillette/oqXMQjSCn54_0000005 261.9 267.4 
+Penn_Jillette/oqXMQjSCn54_0000006 294.8 307.7 
+Penn_Jillette/oqXMQjSCn54_0000007 330.0 334.6 

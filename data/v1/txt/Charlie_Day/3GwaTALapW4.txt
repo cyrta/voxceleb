@@ -1,0 +1,19 @@
+POI: 			Charlie_Day 
+Youtube ID: 	3GwaTALapW4 
+Video length: 	252.1 sec 
+Set (V): 		dev 
+ 
+Charlie_Day/3GwaTALapW4_0000001 24.8 29.3 
+Charlie_Day/3GwaTALapW4_0000002 43.8 49.0 
+Charlie_Day/3GwaTALapW4_0000003 82.2 87.6 
+Charlie_Day/3GwaTALapW4_0000004 99.4 107.9 
+Charlie_Day/3GwaTALapW4_0000005 112.6 119.2 
+Charlie_Day/3GwaTALapW4_0000006 129.5 140.7 
+Charlie_Day/3GwaTALapW4_0000007 147.6 154.6 
+Charlie_Day/3GwaTALapW4_0000008 155.4 161.3 
+Charlie_Day/3GwaTALapW4_0000009 163.7 169.9 
+Charlie_Day/3GwaTALapW4_0000010 176.6 180.7 
+Charlie_Day/3GwaTALapW4_0000011 181.5 195.2 
+Charlie_Day/3GwaTALapW4_0000012 206.6 218.6 
+Charlie_Day/3GwaTALapW4_0000013 219.9 225.0 
+Charlie_Day/3GwaTALapW4_0000014 225.9 231.2 

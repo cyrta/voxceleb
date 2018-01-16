@@ -1,0 +1,14 @@
+POI: 			Christopher_Mintz-Plasse 
+Youtube ID: 	3GfME5mHmpU 
+Video length: 	255.9 sec 
+Set (V): 		dev 
+ 
+Christopher_Mintz-Plasse/3GfME5mHmpU_0000001 29.7 33.8 
+Christopher_Mintz-Plasse/3GfME5mHmpU_0000002 47.5 61.8 
+Christopher_Mintz-Plasse/3GfME5mHmpU_0000003 62.5 68.5 
+Christopher_Mintz-Plasse/3GfME5mHmpU_0000004 72.5 77.5 
+Christopher_Mintz-Plasse/3GfME5mHmpU_0000005 97.5 111.3 
+Christopher_Mintz-Plasse/3GfME5mHmpU_0000006 131.4 140.2 
+Christopher_Mintz-Plasse/3GfME5mHmpU_0000007 187.6 196.4 
+Christopher_Mintz-Plasse/3GfME5mHmpU_0000008 196.5 201.8 
+Christopher_Mintz-Plasse/3GfME5mHmpU_0000009 219.1 231.7 

@@ -1,0 +1,8 @@
+POI: 			Jeff_Garlin 
+Youtube ID: 	CbaAyzQz2DE 
+Video length: 	55.6 sec 
+Set (V): 		dev 
+ 
+Jeff_Garlin/CbaAyzQz2DE_0000001 07.3 14.8 
+Jeff_Garlin/CbaAyzQz2DE_0000002 20.6 34.4 
+Jeff_Garlin/CbaAyzQz2DE_0000003 44.1 48.2 

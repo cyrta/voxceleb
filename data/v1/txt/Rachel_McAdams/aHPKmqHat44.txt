@@ -1,0 +1,13 @@
+POI: 			Rachel_McAdams 
+Youtube ID: 	aHPKmqHat44 
+Video length: 	247.0 sec 
+Set (V): 		dev 
+ 
+Rachel_McAdams/aHPKmqHat44_0000001 26.7 32.2 
+Rachel_McAdams/aHPKmqHat44_0000002 33.0 37.9 
+Rachel_McAdams/aHPKmqHat44_0000003 55.3 59.9 
+Rachel_McAdams/aHPKmqHat44_0000004 67.0 72.7 
+Rachel_McAdams/aHPKmqHat44_0000005 118.4 124.0 
+Rachel_McAdams/aHPKmqHat44_0000006 129.3 137.1 
+Rachel_McAdams/aHPKmqHat44_0000007 169.9 179.5 
+Rachel_McAdams/aHPKmqHat44_0000008 185.4 192.1 

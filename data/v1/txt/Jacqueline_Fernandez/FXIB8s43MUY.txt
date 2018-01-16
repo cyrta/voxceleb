@@ -1,0 +1,20 @@
+POI: 			Jacqueline_Fernandez 
+Youtube ID: 	FXIB8s43MUY 
+Video length: 	400.9 sec 
+Set (V): 		dev 
+ 
+Jacqueline_Fernandez/FXIB8s43MUY_0000001 25.1 32.6 
+Jacqueline_Fernandez/FXIB8s43MUY_0000002 41.8 48.6 
+Jacqueline_Fernandez/FXIB8s43MUY_0000003 48.7 52.7 
+Jacqueline_Fernandez/FXIB8s43MUY_0000004 52.9 57.2 
+Jacqueline_Fernandez/FXIB8s43MUY_0000005 120.0 124.4 
+Jacqueline_Fernandez/FXIB8s43MUY_0000006 125.0 131.3 
+Jacqueline_Fernandez/FXIB8s43MUY_0000007 131.6 138.2 
+Jacqueline_Fernandez/FXIB8s43MUY_0000008 141.1 146.0 
+Jacqueline_Fernandez/FXIB8s43MUY_0000009 188.8 195.1 
+Jacqueline_Fernandez/FXIB8s43MUY_0000010 231.7 236.3 
+Jacqueline_Fernandez/FXIB8s43MUY_0000011 247.2 253.7 
+Jacqueline_Fernandez/FXIB8s43MUY_0000012 254.7 263.2 
+Jacqueline_Fernandez/FXIB8s43MUY_0000013 265.2 270.9 
+Jacqueline_Fernandez/FXIB8s43MUY_0000014 297.1 313.8 
+Jacqueline_Fernandez/FXIB8s43MUY_0000015 315.9 320.3 

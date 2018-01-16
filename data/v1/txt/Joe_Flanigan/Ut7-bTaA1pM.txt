@@ -1,0 +1,7 @@
+POI: 			Joe_Flanigan 
+Youtube ID: 	Ut7-bTaA1pM 
+Video length: 	245.8 sec 
+Set (V): 		dev 
+ 
+Joe_Flanigan/Ut7-bTaA1pM_0000001 70.8 75.6 
+Joe_Flanigan/Ut7-bTaA1pM_0000002 77.4 81.6 

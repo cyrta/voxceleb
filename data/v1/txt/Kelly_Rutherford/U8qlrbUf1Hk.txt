@@ -1,0 +1,7 @@
+POI: 			Kelly_Rutherford 
+Youtube ID: 	U8qlrbUf1Hk 
+Video length: 	326.6 sec 
+Set (V): 		dev 
+ 
+Kelly_Rutherford/U8qlrbUf1Hk_0000001 95.1 103.6 
+Kelly_Rutherford/U8qlrbUf1Hk_0000002 118.3 122.9 

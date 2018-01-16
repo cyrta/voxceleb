@@ -1,0 +1,24 @@
+POI: 			John_Noble 
+Youtube ID: 	mmJdPAm7YKo 
+Video length: 	859.6 sec 
+Set (V): 		dev 
+ 
+John_Noble/mmJdPAm7YKo_0000001 50.8 55.1 
+John_Noble/mmJdPAm7YKo_0000002 137.0 152.0 
+John_Noble/mmJdPAm7YKo_0000003 180.4 188.0 
+John_Noble/mmJdPAm7YKo_0000004 234.6 243.2 
+John_Noble/mmJdPAm7YKo_0000005 280.0 294.3 
+John_Noble/mmJdPAm7YKo_0000006 327.5 334.5 
+John_Noble/mmJdPAm7YKo_0000007 389.4 394.8 
+John_Noble/mmJdPAm7YKo_0000008 394.9 399.0 
+John_Noble/mmJdPAm7YKo_0000009 412.4 419.1 
+John_Noble/mmJdPAm7YKo_0000010 470.0 474.4 
+John_Noble/mmJdPAm7YKo_0000011 515.4 523.8 
+John_Noble/mmJdPAm7YKo_0000012 551.0 556.1 
+John_Noble/mmJdPAm7YKo_0000013 570.3 574.7 
+John_Noble/mmJdPAm7YKo_0000014 616.9 624.6 
+John_Noble/mmJdPAm7YKo_0000015 645.0 651.8 
+John_Noble/mmJdPAm7YKo_0000016 685.4 690.0 
+John_Noble/mmJdPAm7YKo_0000017 705.4 710.8 
+John_Noble/mmJdPAm7YKo_0000018 767.1 773.0 
+John_Noble/mmJdPAm7YKo_0000019 808.4 814.0 

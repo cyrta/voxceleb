@@ -1,0 +1,7 @@
+POI: 			Ludacris 
+Youtube ID: 	EOzudQNV_84 
+Video length: 	1223.2 sec 
+Set (V): 		dev 
+ 
+Ludacris/EOzudQNV_84_0000001 296.8 301.2 
+Ludacris/EOzudQNV_84_0000002 1205.1 1209.1 

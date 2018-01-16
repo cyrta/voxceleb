@@ -1,0 +1,15 @@
+POI: 			Jensen_Ackles 
+Youtube ID: 	EQLAtB1Kse4 
+Video length: 	202.2 sec 
+Set (V): 		dev 
+ 
+Jensen_Ackles/EQLAtB1Kse4_0000001 08.4 14.2 
+Jensen_Ackles/EQLAtB1Kse4_0000002 14.5 18.9 
+Jensen_Ackles/EQLAtB1Kse4_0000003 22.1 27.2 
+Jensen_Ackles/EQLAtB1Kse4_0000004 36.8 43.5 
+Jensen_Ackles/EQLAtB1Kse4_0000005 47.6 54.8 
+Jensen_Ackles/EQLAtB1Kse4_0000006 55.8 60.8 
+Jensen_Ackles/EQLAtB1Kse4_0000007 66.1 70.9 
+Jensen_Ackles/EQLAtB1Kse4_0000008 166.8 172.2 
+Jensen_Ackles/EQLAtB1Kse4_0000009 172.8 177.3 
+Jensen_Ackles/EQLAtB1Kse4_0000010 193.7 198.5 

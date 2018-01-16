@@ -1,0 +1,23 @@
+POI: 			Joseph_Gordon-Levitt 
+Youtube ID: 	TI_gXkvlLGo 
+Video length: 	343.2 sec 
+Set (V): 		dev 
+ 
+Joseph_Gordon-Levitt/TI_gXkvlLGo_0000001 38.3 42.8 
+Joseph_Gordon-Levitt/TI_gXkvlLGo_0000002 53.6 58.2 
+Joseph_Gordon-Levitt/TI_gXkvlLGo_0000003 85.7 90.3 
+Joseph_Gordon-Levitt/TI_gXkvlLGo_0000004 91.1 95.5 
+Joseph_Gordon-Levitt/TI_gXkvlLGo_0000005 96.0 107.1 
+Joseph_Gordon-Levitt/TI_gXkvlLGo_0000006 124.5 141.4 
+Joseph_Gordon-Levitt/TI_gXkvlLGo_0000007 156.4 162.0 
+Joseph_Gordon-Levitt/TI_gXkvlLGo_0000008 174.5 183.5 
+Joseph_Gordon-Levitt/TI_gXkvlLGo_0000009 183.6 195.3 
+Joseph_Gordon-Levitt/TI_gXkvlLGo_0000010 216.2 221.2 
+Joseph_Gordon-Levitt/TI_gXkvlLGo_0000011 232.0 237.2 
+Joseph_Gordon-Levitt/TI_gXkvlLGo_0000012 256.1 263.6 
+Joseph_Gordon-Levitt/TI_gXkvlLGo_0000013 272.6 279.0 
+Joseph_Gordon-Levitt/TI_gXkvlLGo_0000014 280.4 296.0 
+Joseph_Gordon-Levitt/TI_gXkvlLGo_0000015 299.3 305.9 
+Joseph_Gordon-Levitt/TI_gXkvlLGo_0000016 307.8 312.8 
+Joseph_Gordon-Levitt/TI_gXkvlLGo_0000017 326.2 333.7 
+Joseph_Gordon-Levitt/TI_gXkvlLGo_0000018 335.5 339.6 

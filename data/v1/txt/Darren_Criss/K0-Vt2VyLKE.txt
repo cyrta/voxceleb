@@ -1,0 +1,9 @@
+POI: 			Darren_Criss 
+Youtube ID: 	K0-Vt2VyLKE 
+Video length: 	199.9 sec 
+Set (V): 		dev 
+ 
+Darren_Criss/K0-Vt2VyLKE_0000001 44.5 54.1 
+Darren_Criss/K0-Vt2VyLKE_0000002 67.5 73.2 
+Darren_Criss/K0-Vt2VyLKE_0000003 88.1 94.5 
+Darren_Criss/K0-Vt2VyLKE_0000004 153.9 163.3 

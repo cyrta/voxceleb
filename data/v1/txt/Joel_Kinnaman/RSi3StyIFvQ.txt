@@ -1,0 +1,18 @@
+POI: 			Joel_Kinnaman 
+Youtube ID: 	RSi3StyIFvQ 
+Video length: 	689.9 sec 
+Set (V): 		dev 
+ 
+Joel_Kinnaman/RSi3StyIFvQ_0000001 76.7 80.9 
+Joel_Kinnaman/RSi3StyIFvQ_0000002 93.2 100.6 
+Joel_Kinnaman/RSi3StyIFvQ_0000003 176.6 185.0 
+Joel_Kinnaman/RSi3StyIFvQ_0000004 494.3 499.0 
+Joel_Kinnaman/RSi3StyIFvQ_0000005 500.1 508.1 
+Joel_Kinnaman/RSi3StyIFvQ_0000006 510.2 522.6 
+Joel_Kinnaman/RSi3StyIFvQ_0000007 550.0 554.4 
+Joel_Kinnaman/RSi3StyIFvQ_0000008 580.5 585.8 
+Joel_Kinnaman/RSi3StyIFvQ_0000009 588.0 599.6 
+Joel_Kinnaman/RSi3StyIFvQ_0000010 607.4 618.3 
+Joel_Kinnaman/RSi3StyIFvQ_0000011 618.6 622.7 
+Joel_Kinnaman/RSi3StyIFvQ_0000012 638.1 642.8 
+Joel_Kinnaman/RSi3StyIFvQ_0000013 656.3 662.4 

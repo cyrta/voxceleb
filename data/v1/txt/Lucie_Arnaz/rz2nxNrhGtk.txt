@@ -1,0 +1,15 @@
+POI: 			Lucie_Arnaz 
+Youtube ID: 	rz2nxNrhGtk 
+Video length: 	102.3 sec 
+Set (V): 		dev 
+ 
+Lucie_Arnaz/rz2nxNrhGtk_0000001 01.2 12.0 
+Lucie_Arnaz/rz2nxNrhGtk_0000002 12.1 19.8 
+Lucie_Arnaz/rz2nxNrhGtk_0000003 20.6 25.1 
+Lucie_Arnaz/rz2nxNrhGtk_0000004 25.2 33.0 
+Lucie_Arnaz/rz2nxNrhGtk_0000005 35.0 44.4 
+Lucie_Arnaz/rz2nxNrhGtk_0000006 44.8 52.3 
+Lucie_Arnaz/rz2nxNrhGtk_0000007 53.2 65.3 
+Lucie_Arnaz/rz2nxNrhGtk_0000008 56.5 65.3 
+Lucie_Arnaz/rz2nxNrhGtk_0000009 73.1 84.1 
+Lucie_Arnaz/rz2nxNrhGtk_0000010 84.8 92.5 

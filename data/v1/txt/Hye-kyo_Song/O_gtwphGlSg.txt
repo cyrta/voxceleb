@@ -1,0 +1,17 @@
+POI: 			Hye-kyo_Song 
+Youtube ID: 	O_gtwphGlSg 
+Video length: 	693.9 sec 
+Set (V): 		dev 
+ 
+Hye-kyo_Song/O_gtwphGlSg_0000001 67.4 72.0 
+Hye-kyo_Song/O_gtwphGlSg_0000002 124.5 129.3 
+Hye-kyo_Song/O_gtwphGlSg_0000003 150.0 162.6 
+Hye-kyo_Song/O_gtwphGlSg_0000004 205.0 209.3 
+Hye-kyo_Song/O_gtwphGlSg_0000005 224.6 228.7 
+Hye-kyo_Song/O_gtwphGlSg_0000006 256.8 262.4 
+Hye-kyo_Song/O_gtwphGlSg_0000007 434.4 439.0 
+Hye-kyo_Song/O_gtwphGlSg_0000008 529.0 533.2 
+Hye-kyo_Song/O_gtwphGlSg_0000009 550.8 558.8 
+Hye-kyo_Song/O_gtwphGlSg_0000010 559.3 563.5 
+Hye-kyo_Song/O_gtwphGlSg_0000011 569.9 580.0 
+Hye-kyo_Song/O_gtwphGlSg_0000012 663.6 668.5 

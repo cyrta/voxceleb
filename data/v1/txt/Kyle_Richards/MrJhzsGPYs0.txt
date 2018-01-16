@@ -1,0 +1,11 @@
+POI: 			Kyle_Richards 
+Youtube ID: 	MrJhzsGPYs0 
+Video length: 	94.5 sec 
+Set (V): 		dev 
+ 
+Kyle_Richards/MrJhzsGPYs0_0000001 00.8 09.4 
+Kyle_Richards/MrJhzsGPYs0_0000002 11.9 17.5 
+Kyle_Richards/MrJhzsGPYs0_0000003 19.8 29.6 
+Kyle_Richards/MrJhzsGPYs0_0000004 31.7 40.3 
+Kyle_Richards/MrJhzsGPYs0_0000005 42.7 50.5 
+Kyle_Richards/MrJhzsGPYs0_0000006 52.6 70.9 

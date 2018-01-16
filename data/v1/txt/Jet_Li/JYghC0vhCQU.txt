@@ -1,0 +1,8 @@
+POI: 			Jet_Li 
+Youtube ID: 	JYghC0vhCQU 
+Video length: 	76.1 sec 
+Set (V): 		dev 
+ 
+Jet_Li/JYghC0vhCQU_0000001 11.6 20.1 
+Jet_Li/JYghC0vhCQU_0000002 49.8 55.1 
+Jet_Li/JYghC0vhCQU_0000003 60.4 64.9 

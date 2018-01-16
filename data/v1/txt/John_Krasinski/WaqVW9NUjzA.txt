@@ -1,0 +1,13 @@
+POI: 			John_Krasinski 
+Youtube ID: 	WaqVW9NUjzA 
+Video length: 	237.9 sec 
+Set (V): 		dev 
+ 
+John_Krasinski/WaqVW9NUjzA_0000001 09.1 14.3 
+John_Krasinski/WaqVW9NUjzA_0000002 50.1 56.6 
+John_Krasinski/WaqVW9NUjzA_0000003 57.4 61.5 
+John_Krasinski/WaqVW9NUjzA_0000004 74.1 79.2 
+John_Krasinski/WaqVW9NUjzA_0000005 115.0 126.5 
+John_Krasinski/WaqVW9NUjzA_0000006 127.1 138.1 
+John_Krasinski/WaqVW9NUjzA_0000007 175.3 181.7 
+John_Krasinski/WaqVW9NUjzA_0000008 182.6 199.4 

@@ -1,0 +1,13 @@
+POI: 			Ralf_Little 
+Youtube ID: 	TWMRcr6Tn6o 
+Video length: 	233.7 sec 
+Set (V): 		dev 
+ 
+Ralf_Little/TWMRcr6Tn6o_0000001 05.9 12.4 
+Ralf_Little/TWMRcr6Tn6o_0000002 96.4 104.8 
+Ralf_Little/TWMRcr6Tn6o_0000003 118.2 133.3 
+Ralf_Little/TWMRcr6Tn6o_0000004 154.5 159.2 
+Ralf_Little/TWMRcr6Tn6o_0000005 159.7 170.2 
+Ralf_Little/TWMRcr6Tn6o_0000006 173.8 184.4 
+Ralf_Little/TWMRcr6Tn6o_0000007 194.5 200.6 
+Ralf_Little/TWMRcr6Tn6o_0000008 216.2 226.7 

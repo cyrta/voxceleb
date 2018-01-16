@@ -1,0 +1,11 @@
+POI: 			Danny_Dyer 
+Youtube ID: 	8PvkkQZmT4U 
+Video length: 	327.2 sec 
+Set (V): 		dev 
+ 
+Danny_Dyer/8PvkkQZmT4U_0000001 26.6 31.5 
+Danny_Dyer/8PvkkQZmT4U_0000002 31.8 36.2 
+Danny_Dyer/8PvkkQZmT4U_0000003 58.8 64.4 
+Danny_Dyer/8PvkkQZmT4U_0000004 95.4 102.8 
+Danny_Dyer/8PvkkQZmT4U_0000005 225.6 233.0 
+Danny_Dyer/8PvkkQZmT4U_0000006 233.7 238.7 

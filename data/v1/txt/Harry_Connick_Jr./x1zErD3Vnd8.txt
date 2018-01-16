@@ -1,0 +1,8 @@
+POI: 			Harry_Connick_Jr. 
+Youtube ID: 	x1zErD3Vnd8 
+Video length: 	263.8 sec 
+Set (V): 		dev 
+ 
+Harry_Connick_Jr./x1zErD3Vnd8_0000001 34.9 39.7 
+Harry_Connick_Jr./x1zErD3Vnd8_0000002 123.2 143.7 
+Harry_Connick_Jr./x1zErD3Vnd8_0000003 223.5 228.8 

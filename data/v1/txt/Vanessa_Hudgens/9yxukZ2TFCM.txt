@@ -1,0 +1,7 @@
+POI: 			Vanessa_Hudgens 
+Youtube ID: 	9yxukZ2TFCM 
+Video length: 	386.9 sec 
+Set (V): 		dev 
+ 
+Vanessa_Hudgens/9yxukZ2TFCM_0000001 53.8 58.0 
+Vanessa_Hudgens/9yxukZ2TFCM_0000002 246.3 250.4 

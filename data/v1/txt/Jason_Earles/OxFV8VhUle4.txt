@@ -1,0 +1,14 @@
+POI: 			Jason_Earles 
+Youtube ID: 	OxFV8VhUle4 
+Video length: 	305.7 sec 
+Set (V): 		dev 
+ 
+Jason_Earles/OxFV8VhUle4_0000001 56.1 62.6 
+Jason_Earles/OxFV8VhUle4_0000002 79.4 93.5 
+Jason_Earles/OxFV8VhUle4_0000003 99.0 106.4 
+Jason_Earles/OxFV8VhUle4_0000004 106.9 113.7 
+Jason_Earles/OxFV8VhUle4_0000005 114.4 121.2 
+Jason_Earles/OxFV8VhUle4_0000006 237.2 244.7 
+Jason_Earles/OxFV8VhUle4_0000007 252.2 262.4 
+Jason_Earles/OxFV8VhUle4_0000008 270.4 275.5 
+Jason_Earles/OxFV8VhUle4_0000009 281.3 288.6 

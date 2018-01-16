@@ -1,0 +1,12 @@
+POI: 			Lily_Cole 
+Youtube ID: 	tG1pDF4DkJI 
+Video length: 	889.1 sec 
+Set (V): 		dev 
+ 
+Lily_Cole/tG1pDF4DkJI_0000001 03.9 08.6 
+Lily_Cole/tG1pDF4DkJI_0000002 13.4 19.5 
+Lily_Cole/tG1pDF4DkJI_0000003 29.3 33.4 
+Lily_Cole/tG1pDF4DkJI_0000004 49.9 64.6 
+Lily_Cole/tG1pDF4DkJI_0000005 92.3 99.7 
+Lily_Cole/tG1pDF4DkJI_0000006 161.4 165.4 
+Lily_Cole/tG1pDF4DkJI_0000007 177.8 182.7 

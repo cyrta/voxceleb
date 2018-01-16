@@ -1,0 +1,12 @@
+POI: 			Michaela_Conlin 
+Youtube ID: 	ZOWm2ZEd1Ms 
+Video length: 	341.8 sec 
+Set (V): 		dev 
+ 
+Michaela_Conlin/ZOWm2ZEd1Ms_0000001 140.0 145.2 
+Michaela_Conlin/ZOWm2ZEd1Ms_0000002 153.0 164.9 
+Michaela_Conlin/ZOWm2ZEd1Ms_0000003 166.3 170.3 
+Michaela_Conlin/ZOWm2ZEd1Ms_0000004 175.7 181.9 
+Michaela_Conlin/ZOWm2ZEd1Ms_0000005 190.4 194.8 
+Michaela_Conlin/ZOWm2ZEd1Ms_0000006 210.0 217.8 
+Michaela_Conlin/ZOWm2ZEd1Ms_0000007 228.2 236.8 

@@ -1,0 +1,15 @@
+POI: 			Judy_Sheindlin 
+Youtube ID: 	yveqomVi3rA 
+Video length: 	84.7 sec 
+Set (V): 		dev 
+ 
+Judy_Sheindlin/yveqomVi3rA_0000001 12.2 18.2 
+Judy_Sheindlin/yveqomVi3rA_0000002 18.8 28.7 
+Judy_Sheindlin/yveqomVi3rA_0000003 38.4 47.0 
+Judy_Sheindlin/yveqomVi3rA_0000004 51.4 55.5 
+Judy_Sheindlin/yveqomVi3rA_0000005 56.6 61.0 
+Judy_Sheindlin/yveqomVi3rA_0000006 62.6 68.8 
+Judy_Sheindlin/yveqomVi3rA_0000007 69.8 74.3 
+Judy_Sheindlin/yveqomVi3rA_0000008 48.8 55.6 
+Judy_Sheindlin/yveqomVi3rA_0000009 56.6 68.7 
+Judy_Sheindlin/yveqomVi3rA_0000010 69.8 74.4 

@@ -1,0 +1,13 @@
+POI: 			Irina_Shayk 
+Youtube ID: 	bwhS1gfiSmQ 
+Video length: 	215.7 sec 
+Set (V): 		dev 
+ 
+Irina_Shayk/bwhS1gfiSmQ_0000001 29.8 34.2 
+Irina_Shayk/bwhS1gfiSmQ_0000002 47.0 57.2 
+Irina_Shayk/bwhS1gfiSmQ_0000003 57.7 63.0 
+Irina_Shayk/bwhS1gfiSmQ_0000004 63.3 69.4 
+Irina_Shayk/bwhS1gfiSmQ_0000005 119.0 137.3 
+Irina_Shayk/bwhS1gfiSmQ_0000006 140.7 156.2 
+Irina_Shayk/bwhS1gfiSmQ_0000007 175.4 191.4 
+Irina_Shayk/bwhS1gfiSmQ_0000008 192.0 196.4 

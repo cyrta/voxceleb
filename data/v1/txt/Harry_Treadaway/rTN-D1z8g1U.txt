@@ -1,0 +1,8 @@
+POI: 			Harry_Treadaway 
+Youtube ID: 	rTN-D1z8g1U 
+Video length: 	390.5 sec 
+Set (V): 		dev 
+ 
+Harry_Treadaway/rTN-D1z8g1U_0000001 145.2 150.4 
+Harry_Treadaway/rTN-D1z8g1U_0000002 294.6 299.5 
+Harry_Treadaway/rTN-D1z8g1U_0000003 305.6 310.0 

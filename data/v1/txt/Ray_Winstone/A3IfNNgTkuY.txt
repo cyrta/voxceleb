@@ -1,0 +1,14 @@
+POI: 			Ray_Winstone 
+Youtube ID: 	A3IfNNgTkuY 
+Video length: 	401.7 sec 
+Set (V): 		dev 
+ 
+Ray_Winstone/A3IfNNgTkuY_0000001 215.6 220.5 
+Ray_Winstone/A3IfNNgTkuY_0000002 228.4 236.6 
+Ray_Winstone/A3IfNNgTkuY_0000003 282.0 292.7 
+Ray_Winstone/A3IfNNgTkuY_0000004 324.4 329.8 
+Ray_Winstone/A3IfNNgTkuY_0000005 330.9 336.9 
+Ray_Winstone/A3IfNNgTkuY_0000006 348.5 353.6 
+Ray_Winstone/A3IfNNgTkuY_0000007 357.5 366.6 
+Ray_Winstone/A3IfNNgTkuY_0000008 370.9 374.9 
+Ray_Winstone/A3IfNNgTkuY_0000009 388.6 394.6 

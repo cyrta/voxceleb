@@ -1,0 +1,11 @@
+POI: 			Nate_Parker 
+Youtube ID: 	lMsL29JVYQM 
+Video length: 	1179.2 sec 
+Set (V): 		dev 
+ 
+Nate_Parker/lMsL29JVYQM_0000001 127.4 134.3 
+Nate_Parker/lMsL29JVYQM_0000002 467.7 471.8 
+Nate_Parker/lMsL29JVYQM_0000003 716.1 726.6 
+Nate_Parker/lMsL29JVYQM_0000004 732.9 737.8 
+Nate_Parker/lMsL29JVYQM_0000005 922.7 933.3 
+Nate_Parker/lMsL29JVYQM_0000006 1056.4 1063.0 

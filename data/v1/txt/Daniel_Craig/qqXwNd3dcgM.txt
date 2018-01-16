@@ -1,0 +1,7 @@
+POI: 			Daniel_Craig 
+Youtube ID: 	qqXwNd3dcgM 
+Video length: 	188.8 sec 
+Set (V): 		dev 
+ 
+Daniel_Craig/qqXwNd3dcgM_0000001 92.0 100.6 
+Daniel_Craig/qqXwNd3dcgM_0000002 166.7 171.5 

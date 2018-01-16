@@ -1,0 +1,7 @@
+POI: 			Alex_Pettyfer 
+Youtube ID: 	WsITVdCmGlA 
+Video length: 	309.1 sec 
+Set (V): 		dev 
+ 
+Alex_Pettyfer/WsITVdCmGlA_0000001 93.3 98.6 
+Alex_Pettyfer/WsITVdCmGlA_0000002 133.8 139.4 

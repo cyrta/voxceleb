@@ -1,0 +1,11 @@
+POI: 			Spencer_Boldman 
+Youtube ID: 	dH-D79a5b44 
+Video length: 	179.0 sec 
+Set (V): 		dev 
+ 
+Spencer_Boldman/dH-D79a5b44_0000001 53.7 60.4 
+Spencer_Boldman/dH-D79a5b44_0000002 76.6 83.7 
+Spencer_Boldman/dH-D79a5b44_0000003 99.9 106.4 
+Spencer_Boldman/dH-D79a5b44_0000004 112.8 120.8 
+Spencer_Boldman/dH-D79a5b44_0000005 121.6 127.2 
+Spencer_Boldman/dH-D79a5b44_0000006 152.6 160.8 

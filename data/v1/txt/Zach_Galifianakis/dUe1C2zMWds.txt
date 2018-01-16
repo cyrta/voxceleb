@@ -1,0 +1,11 @@
+POI: 			Zach_Galifianakis 
+Youtube ID: 	dUe1C2zMWds 
+Video length: 	562.4 sec 
+Set (V): 		dev 
+ 
+Zach_Galifianakis/dUe1C2zMWds_0000001 47.0 50.9 
+Zach_Galifianakis/dUe1C2zMWds_0000002 144.4 149.7 
+Zach_Galifianakis/dUe1C2zMWds_0000003 180.8 190.9 
+Zach_Galifianakis/dUe1C2zMWds_0000004 248.4 252.4 
+Zach_Galifianakis/dUe1C2zMWds_0000005 510.6 514.7 
+Zach_Galifianakis/dUe1C2zMWds_0000006 538.4 542.6 

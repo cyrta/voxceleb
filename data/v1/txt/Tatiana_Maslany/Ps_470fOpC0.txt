@@ -1,0 +1,9 @@
+POI: 			Tatiana_Maslany 
+Youtube ID: 	Ps_470fOpC0 
+Video length: 	345.9 sec 
+Set (V): 		dev 
+ 
+Tatiana_Maslany/Ps_470fOpC0_0000001 162.6 167.7 
+Tatiana_Maslany/Ps_470fOpC0_0000002 243.9 249.7 
+Tatiana_Maslany/Ps_470fOpC0_0000003 250.1 254.9 
+Tatiana_Maslany/Ps_470fOpC0_0000004 328.8 333.2 

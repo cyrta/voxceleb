@@ -1,0 +1,11 @@
+POI: 			Sterling_Knight 
+Youtube ID: 	Q7mjeFouTsI 
+Video length: 	187.3 sec 
+Set (V): 		dev 
+ 
+Sterling_Knight/Q7mjeFouTsI_0000001 17.4 22.0 
+Sterling_Knight/Q7mjeFouTsI_0000002 26.8 33.7 
+Sterling_Knight/Q7mjeFouTsI_0000003 44.3 56.3 
+Sterling_Knight/Q7mjeFouTsI_0000004 59.5 71.2 
+Sterling_Knight/Q7mjeFouTsI_0000005 75.1 79.1 
+Sterling_Knight/Q7mjeFouTsI_0000006 104.7 116.0 

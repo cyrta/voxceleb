@@ -1,0 +1,19 @@
+POI: 			Stan_Lee 
+Youtube ID: 	XRGwBNXIhgo 
+Video length: 	235.1 sec 
+Set (V): 		dev 
+ 
+Stan_Lee/XRGwBNXIhgo_0000001 00.7 10.6 
+Stan_Lee/XRGwBNXIhgo_0000002 11.3 18.0 
+Stan_Lee/XRGwBNXIhgo_0000003 19.1 23.3 
+Stan_Lee/XRGwBNXIhgo_0000004 24.7 39.9 
+Stan_Lee/XRGwBNXIhgo_0000005 40.5 81.5 
+Stan_Lee/XRGwBNXIhgo_0000006 82.6 87.4 
+Stan_Lee/XRGwBNXIhgo_0000007 87.6 93.6 
+Stan_Lee/XRGwBNXIhgo_0000008 99.8 110.7 
+Stan_Lee/XRGwBNXIhgo_0000009 111.8 122.6 
+Stan_Lee/XRGwBNXIhgo_0000010 122.8 152.8 
+Stan_Lee/XRGwBNXIhgo_0000011 157.3 186.8 
+Stan_Lee/XRGwBNXIhgo_0000012 189.6 195.2 
+Stan_Lee/XRGwBNXIhgo_0000013 197.1 209.2 
+Stan_Lee/XRGwBNXIhgo_0000014 209.3 233.6 

@@ -1,0 +1,15 @@
+POI: 			Jason_David_Frank 
+Youtube ID: 	nztwNMEHdDE 
+Video length: 	212.6 sec 
+Set (V): 		dev 
+ 
+Jason_David_Frank/nztwNMEHdDE_0000001 22.5 27.7 
+Jason_David_Frank/nztwNMEHdDE_0000002 31.6 40.4 
+Jason_David_Frank/nztwNMEHdDE_0000003 40.5 45.8 
+Jason_David_Frank/nztwNMEHdDE_0000004 46.6 56.5 
+Jason_David_Frank/nztwNMEHdDE_0000005 72.8 78.9 
+Jason_David_Frank/nztwNMEHdDE_0000006 123.1 140.1 
+Jason_David_Frank/nztwNMEHdDE_0000007 149.4 161.4 
+Jason_David_Frank/nztwNMEHdDE_0000008 167.0 171.7 
+Jason_David_Frank/nztwNMEHdDE_0000009 192.6 198.9 
+Jason_David_Frank/nztwNMEHdDE_0000010 201.0 207.2 

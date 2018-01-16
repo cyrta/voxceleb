@@ -1,0 +1,12 @@
+POI: 			Stephen_Baldwin 
+Youtube ID: 	dQCy6qbNrh8 
+Video length: 	239.4 sec 
+Set (V): 		dev 
+ 
+Stephen_Baldwin/dQCy6qbNrh8_0000001 13.1 18.4 
+Stephen_Baldwin/dQCy6qbNrh8_0000002 40.6 45.9 
+Stephen_Baldwin/dQCy6qbNrh8_0000003 74.0 80.2 
+Stephen_Baldwin/dQCy6qbNrh8_0000004 118.5 123.0 
+Stephen_Baldwin/dQCy6qbNrh8_0000005 131.1 136.5 
+Stephen_Baldwin/dQCy6qbNrh8_0000006 149.4 153.8 
+Stephen_Baldwin/dQCy6qbNrh8_0000007 154.6 163.0 

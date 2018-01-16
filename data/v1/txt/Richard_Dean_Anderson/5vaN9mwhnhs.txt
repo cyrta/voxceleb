@@ -1,0 +1,8 @@
+POI: 			Richard_Dean_Anderson 
+Youtube ID: 	5vaN9mwhnhs 
+Video length: 	779.3 sec 
+Set (V): 		dev 
+ 
+Richard_Dean_Anderson/5vaN9mwhnhs_0000001 129.4 133.7 
+Richard_Dean_Anderson/5vaN9mwhnhs_0000002 246.3 250.3 
+Richard_Dean_Anderson/5vaN9mwhnhs_0000003 317.4 323.9 

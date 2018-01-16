@@ -1,0 +1,8 @@
+POI: 			Zack_Snyder 
+Youtube ID: 	TphcvKUWAko 
+Video length: 	187.1 sec 
+Set (V): 		dev 
+ 
+Zack_Snyder/TphcvKUWAko_0000001 167.8 172.1 
+Zack_Snyder/TphcvKUWAko_0000002 172.4 176.7 
+Zack_Snyder/TphcvKUWAko_0000003 177.0 181.0 

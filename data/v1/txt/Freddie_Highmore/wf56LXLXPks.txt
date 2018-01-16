@@ -1,0 +1,15 @@
+POI: 			Freddie_Highmore 
+Youtube ID: 	wf56LXLXPks 
+Video length: 	394.0 sec 
+Set (V): 		dev 
+ 
+Freddie_Highmore/wf56LXLXPks_0000001 187.2 200.5 
+Freddie_Highmore/wf56LXLXPks_0000002 201.4 209.6 
+Freddie_Highmore/wf56LXLXPks_0000003 221.5 237.8 
+Freddie_Highmore/wf56LXLXPks_0000004 238.2 264.8 
+Freddie_Highmore/wf56LXLXPks_0000005 292.0 303.6 
+Freddie_Highmore/wf56LXLXPks_0000006 304.6 310.3 
+Freddie_Highmore/wf56LXLXPks_0000007 316.1 322.8 
+Freddie_Highmore/wf56LXLXPks_0000008 350.8 359.2 
+Freddie_Highmore/wf56LXLXPks_0000009 359.7 368.5 
+Freddie_Highmore/wf56LXLXPks_0000010 370.8 384.1 

@@ -1,0 +1,9 @@
+POI: 			Aldis_Hodge 
+Youtube ID: 	smYAOqfc7-A 
+Video length: 	265.8 sec 
+Set (V): 		dev 
+ 
+Aldis_Hodge/smYAOqfc7-A_0000001 62.7 70.7 
+Aldis_Hodge/smYAOqfc7-A_0000002 71.3 76.8 
+Aldis_Hodge/smYAOqfc7-A_0000003 108.4 114.3 
+Aldis_Hodge/smYAOqfc7-A_0000004 174.4 179.6 

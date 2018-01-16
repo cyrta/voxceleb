@@ -1,0 +1,10 @@
+POI: 			Joel_Edgerton 
+Youtube ID: 	75P_wQsoORA 
+Video length: 	277.8 sec 
+Set (V): 		dev 
+ 
+Joel_Edgerton/75P_wQsoORA_0000001 13.6 18.2 
+Joel_Edgerton/75P_wQsoORA_0000002 22.7 28.4 
+Joel_Edgerton/75P_wQsoORA_0000003 83.5 89.8 
+Joel_Edgerton/75P_wQsoORA_0000004 190.9 195.6 
+Joel_Edgerton/75P_wQsoORA_0000005 196.6 202.4 

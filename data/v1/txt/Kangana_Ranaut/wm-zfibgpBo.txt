@@ -1,0 +1,20 @@
+POI: 			Kangana_Ranaut 
+Youtube ID: 	wm-zfibgpBo 
+Video length: 	401.1 sec 
+Set (V): 		dev 
+ 
+Kangana_Ranaut/wm-zfibgpBo_0000001 17.6 22.0 
+Kangana_Ranaut/wm-zfibgpBo_0000002 30.2 36.2 
+Kangana_Ranaut/wm-zfibgpBo_0000003 72.4 78.0 
+Kangana_Ranaut/wm-zfibgpBo_0000004 96.7 101.6 
+Kangana_Ranaut/wm-zfibgpBo_0000005 102.2 107.4 
+Kangana_Ranaut/wm-zfibgpBo_0000006 116.5 126.9 
+Kangana_Ranaut/wm-zfibgpBo_0000007 136.0 144.7 
+Kangana_Ranaut/wm-zfibgpBo_0000008 159.0 164.4 
+Kangana_Ranaut/wm-zfibgpBo_0000009 169.4 173.7 
+Kangana_Ranaut/wm-zfibgpBo_0000010 253.9 259.7 
+Kangana_Ranaut/wm-zfibgpBo_0000011 283.5 287.4 
+Kangana_Ranaut/wm-zfibgpBo_0000012 294.5 300.3 
+Kangana_Ranaut/wm-zfibgpBo_0000013 313.8 320.8 
+Kangana_Ranaut/wm-zfibgpBo_0000014 321.6 326.4 
+Kangana_Ranaut/wm-zfibgpBo_0000015 327.0 332.8 

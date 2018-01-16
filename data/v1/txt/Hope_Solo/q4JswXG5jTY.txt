@@ -1,0 +1,13 @@
+POI: 			Hope_Solo 
+Youtube ID: 	q4JswXG5jTY 
+Video length: 	142.2 sec 
+Set (V): 		dev 
+ 
+Hope_Solo/q4JswXG5jTY_0000001 14.7 19.6 
+Hope_Solo/q4JswXG5jTY_0000002 21.0 26.8 
+Hope_Solo/q4JswXG5jTY_0000003 66.4 73.1 
+Hope_Solo/q4JswXG5jTY_0000004 79.2 89.3 
+Hope_Solo/q4JswXG5jTY_0000005 92.2 96.4 
+Hope_Solo/q4JswXG5jTY_0000006 96.7 110.0 
+Hope_Solo/q4JswXG5jTY_0000007 120.2 125.2 
+Hope_Solo/q4JswXG5jTY_0000008 127.5 137.0 

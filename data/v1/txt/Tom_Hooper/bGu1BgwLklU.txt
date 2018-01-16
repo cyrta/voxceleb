@@ -1,0 +1,10 @@
+POI: 			Tom_Hooper 
+Youtube ID: 	bGu1BgwLklU 
+Video length: 	345.3 sec 
+Set (V): 		dev 
+ 
+Tom_Hooper/bGu1BgwLklU_0000001 118.3 124.6 
+Tom_Hooper/bGu1BgwLklU_0000002 136.4 141.2 
+Tom_Hooper/bGu1BgwLklU_0000003 141.8 151.6 
+Tom_Hooper/bGu1BgwLklU_0000004 284.6 291.7 
+Tom_Hooper/bGu1BgwLklU_0000005 292.8 299.5 

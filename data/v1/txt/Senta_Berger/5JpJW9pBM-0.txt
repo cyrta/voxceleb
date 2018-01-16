@@ -1,0 +1,22 @@
+POI: 			Senta_Berger 
+Youtube ID: 	5JpJW9pBM-0 
+Video length: 	550.0 sec 
+Set (V): 		dev 
+ 
+Senta_Berger/5JpJW9pBM-0_0000001 53.6 59.3 
+Senta_Berger/5JpJW9pBM-0_0000002 57.9 67.1 
+Senta_Berger/5JpJW9pBM-0_0000003 75.5 97.2 
+Senta_Berger/5JpJW9pBM-0_0000004 107.6 113.4 
+Senta_Berger/5JpJW9pBM-0_0000005 120.8 127.2 
+Senta_Berger/5JpJW9pBM-0_0000006 131.6 138.5 
+Senta_Berger/5JpJW9pBM-0_0000007 140.0 144.5 
+Senta_Berger/5JpJW9pBM-0_0000008 157.0 165.0 
+Senta_Berger/5JpJW9pBM-0_0000009 189.2 203.2 
+Senta_Berger/5JpJW9pBM-0_0000010 210.5 221.5 
+Senta_Berger/5JpJW9pBM-0_0000011 253.4 264.8 
+Senta_Berger/5JpJW9pBM-0_0000012 314.3 322.0 
+Senta_Berger/5JpJW9pBM-0_0000013 325.8 333.2 
+Senta_Berger/5JpJW9pBM-0_0000014 335.2 347.7 
+Senta_Berger/5JpJW9pBM-0_0000015 376.9 393.9 
+Senta_Berger/5JpJW9pBM-0_0000016 395.8 401.3 
+Senta_Berger/5JpJW9pBM-0_0000017 507.1 521.8 

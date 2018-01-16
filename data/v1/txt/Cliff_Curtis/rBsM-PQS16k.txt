@@ -1,0 +1,9 @@
+POI: 			Cliff_Curtis 
+Youtube ID: 	rBsM-PQS16k 
+Video length: 	121.7 sec 
+Set (V): 		dev 
+ 
+Cliff_Curtis/rBsM-PQS16k_0000001 17.6 24.3 
+Cliff_Curtis/rBsM-PQS16k_0000002 70.4 76.0 
+Cliff_Curtis/rBsM-PQS16k_0000003 84.6 90.9 
+Cliff_Curtis/rBsM-PQS16k_0000004 96.8 102.5 

@@ -1,0 +1,8 @@
+POI: 			Scott_Speedman 
+Youtube ID: 	L-Z9OI-WwoY 
+Video length: 	207.1 sec 
+Set (V): 		dev 
+ 
+Scott_Speedman/L-Z9OI-WwoY_0000001 36.9 42.5 
+Scott_Speedman/L-Z9OI-WwoY_0000002 44.3 56.2 
+Scott_Speedman/L-Z9OI-WwoY_0000003 77.0 84.4 

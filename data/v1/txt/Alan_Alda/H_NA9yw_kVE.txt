@@ -1,0 +1,10 @@
+POI: 			Alan_Alda 
+Youtube ID: 	H_NA9yw_kVE 
+Video length: 	297.9 sec 
+Set (V): 		dev 
+ 
+Alan_Alda/H_NA9yw_kVE_0000001 53.5 70.5 
+Alan_Alda/H_NA9yw_kVE_0000002 71.6 75.8 
+Alan_Alda/H_NA9yw_kVE_0000003 176.5 180.7 
+Alan_Alda/H_NA9yw_kVE_0000004 189.0 195.0 
+Alan_Alda/H_NA9yw_kVE_0000005 221.5 225.8 

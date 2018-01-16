@@ -1,0 +1,11 @@
+POI: 			Paloma_Faith 
+Youtube ID: 	WyGsSrgaDWU 
+Video length: 	713.7 sec 
+Set (V): 		dev 
+ 
+Paloma_Faith/WyGsSrgaDWU_0000001 236.4 244.1 
+Paloma_Faith/WyGsSrgaDWU_0000002 275.3 283.9 
+Paloma_Faith/WyGsSrgaDWU_0000003 320.2 324.2 
+Paloma_Faith/WyGsSrgaDWU_0000004 436.3 442.2 
+Paloma_Faith/WyGsSrgaDWU_0000005 489.3 493.6 
+Paloma_Faith/WyGsSrgaDWU_0000006 577.4 582.3 

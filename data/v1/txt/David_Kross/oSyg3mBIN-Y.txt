@@ -1,0 +1,8 @@
+POI: 			David_Kross 
+Youtube ID: 	oSyg3mBIN-Y 
+Video length: 	380.0 sec 
+Set (V): 		dev 
+ 
+David_Kross/oSyg3mBIN-Y_0000001 207.7 212.8 
+David_Kross/oSyg3mBIN-Y_0000002 214.4 218.8 
+David_Kross/oSyg3mBIN-Y_0000003 346.6 353.3 

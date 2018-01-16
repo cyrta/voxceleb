@@ -1,0 +1,8 @@
+POI: 			Danny_Dyer 
+Youtube ID: 	KRxK0AQSYX4 
+Video length: 	361.4 sec 
+Set (V): 		dev 
+ 
+Danny_Dyer/KRxK0AQSYX4_0000001 32.4 36.8 
+Danny_Dyer/KRxK0AQSYX4_0000002 72.8 77.2 
+Danny_Dyer/KRxK0AQSYX4_0000003 199.4 203.5 

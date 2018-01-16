@@ -1,0 +1,14 @@
+POI: 			Tim_Gunn 
+Youtube ID: 	Rx5Nqod5wqM 
+Video length: 	376.0 sec 
+Set (V): 		dev 
+ 
+Tim_Gunn/Rx5Nqod5wqM_0000001 44.8 49.2 
+Tim_Gunn/Rx5Nqod5wqM_0000002 79.6 84.4 
+Tim_Gunn/Rx5Nqod5wqM_0000003 84.5 96.6 
+Tim_Gunn/Rx5Nqod5wqM_0000004 169.0 173.1 
+Tim_Gunn/Rx5Nqod5wqM_0000005 188.0 192.1 
+Tim_Gunn/Rx5Nqod5wqM_0000006 200.8 212.0 
+Tim_Gunn/Rx5Nqod5wqM_0000007 253.6 258.4 
+Tim_Gunn/Rx5Nqod5wqM_0000008 341.1 348.0 
+Tim_Gunn/Rx5Nqod5wqM_0000009 358.0 362.1 

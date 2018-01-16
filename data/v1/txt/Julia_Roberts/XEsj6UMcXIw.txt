@@ -1,0 +1,15 @@
+POI: 			Julia_Roberts 
+Youtube ID: 	XEsj6UMcXIw 
+Video length: 	126.5 sec 
+Set (V): 		dev 
+ 
+Julia_Roberts/XEsj6UMcXIw_0000001 06.4 10.4 
+Julia_Roberts/XEsj6UMcXIw_0000002 12.6 17.0 
+Julia_Roberts/XEsj6UMcXIw_0000003 17.1 24.2 
+Julia_Roberts/XEsj6UMcXIw_0000004 25.2 30.2 
+Julia_Roberts/XEsj6UMcXIw_0000005 38.3 54.2 
+Julia_Roberts/XEsj6UMcXIw_0000006 56.7 64.3 
+Julia_Roberts/XEsj6UMcXIw_0000007 65.8 72.7 
+Julia_Roberts/XEsj6UMcXIw_0000008 76.2 81.7 
+Julia_Roberts/XEsj6UMcXIw_0000009 82.7 93.9 
+Julia_Roberts/XEsj6UMcXIw_0000010 106.0 112.6 

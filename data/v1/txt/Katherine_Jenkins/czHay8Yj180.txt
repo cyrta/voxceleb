@@ -1,0 +1,9 @@
+POI: 			Katherine_Jenkins 
+Youtube ID: 	czHay8Yj180 
+Video length: 	794.5 sec 
+Set (V): 		dev 
+ 
+Katherine_Jenkins/czHay8Yj180_0000001 540.3 551.3 
+Katherine_Jenkins/czHay8Yj180_0000002 552.2 558.4 
+Katherine_Jenkins/czHay8Yj180_0000003 568.2 580.4 
+Katherine_Jenkins/czHay8Yj180_0000004 670.4 675.8 

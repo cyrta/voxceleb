@@ -1,0 +1,10 @@
+POI: 			David_Giuntoli 
+Youtube ID: 	5K_5bm92-0w 
+Video length: 	177.6 sec 
+Set (V): 		dev 
+ 
+David_Giuntoli/5K_5bm92-0w_0000001 19.0 26.0 
+David_Giuntoli/5K_5bm92-0w_0000002 39.7 44.0 
+David_Giuntoli/5K_5bm92-0w_0000003 65.5 70.2 
+David_Giuntoli/5K_5bm92-0w_0000004 109.3 115.6 
+David_Giuntoli/5K_5bm92-0w_0000005 133.6 140.2 

@@ -1,0 +1,8 @@
+POI: 			Clive_Owen 
+Youtube ID: 	iOLBUmJgDZQ 
+Video length: 	494.6 sec 
+Set (V): 		dev 
+ 
+Clive_Owen/iOLBUmJgDZQ_0000001 63.5 75.6 
+Clive_Owen/iOLBUmJgDZQ_0000002 384.4 389.0 
+Clive_Owen/iOLBUmJgDZQ_0000003 401.8 408.4 

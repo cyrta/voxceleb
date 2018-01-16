@@ -1,0 +1,10 @@
+POI: 			Chi_McBride 
+Youtube ID: 	ECUnX_wupxk 
+Video length: 	2372.8 sec 
+Set (V): 		dev 
+ 
+Chi_McBride/ECUnX_wupxk_0000001 1359.2 1365.3 
+Chi_McBride/ECUnX_wupxk_0000002 1440.9 1447.3 
+Chi_McBride/ECUnX_wupxk_0000003 1464.2 1473.4 
+Chi_McBride/ECUnX_wupxk_0000004 1486.8 1491.1 
+Chi_McBride/ECUnX_wupxk_0000005 1534.6 1539.6 

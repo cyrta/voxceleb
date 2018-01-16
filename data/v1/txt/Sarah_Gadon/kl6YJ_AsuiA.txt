@@ -1,0 +1,20 @@
+POI: 			Sarah_Gadon 
+Youtube ID: 	kl6YJ_AsuiA 
+Video length: 	296.2 sec 
+Set (V): 		dev 
+ 
+Sarah_Gadon/kl6YJ_AsuiA_0000001 25.0 29.0 
+Sarah_Gadon/kl6YJ_AsuiA_0000002 33.6 42.6 
+Sarah_Gadon/kl6YJ_AsuiA_0000003 43.2 49.8 
+Sarah_Gadon/kl6YJ_AsuiA_0000004 50.0 71.1 
+Sarah_Gadon/kl6YJ_AsuiA_0000005 79.8 84.2 
+Sarah_Gadon/kl6YJ_AsuiA_0000006 87.2 103.4 
+Sarah_Gadon/kl6YJ_AsuiA_0000007 111.9 135.0 
+Sarah_Gadon/kl6YJ_AsuiA_0000008 136.0 150.4 
+Sarah_Gadon/kl6YJ_AsuiA_0000009 158.3 164.8 
+Sarah_Gadon/kl6YJ_AsuiA_0000010 165.4 171.6 
+Sarah_Gadon/kl6YJ_AsuiA_0000011 179.2 205.9 
+Sarah_Gadon/kl6YJ_AsuiA_0000012 212.9 229.0 
+Sarah_Gadon/kl6YJ_AsuiA_0000013 237.4 266.2 
+Sarah_Gadon/kl6YJ_AsuiA_0000014 268.3 272.5 
+Sarah_Gadon/kl6YJ_AsuiA_0000015 273.5 292.7 

@@ -1,0 +1,11 @@
+POI: 			Sally_Hawkins 
+Youtube ID: 	anZqzfO_Tbw 
+Video length: 	337.9 sec 
+Set (V): 		dev 
+ 
+Sally_Hawkins/anZqzfO_Tbw_0000001 51.1 58.9 
+Sally_Hawkins/anZqzfO_Tbw_0000002 64.3 83.9 
+Sally_Hawkins/anZqzfO_Tbw_0000003 240.2 252.0 
+Sally_Hawkins/anZqzfO_Tbw_0000004 254.6 269.4 
+Sally_Hawkins/anZqzfO_Tbw_0000005 269.8 281.0 
+Sally_Hawkins/anZqzfO_Tbw_0000006 282.0 287.7 

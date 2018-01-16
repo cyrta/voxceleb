@@ -1,0 +1,22 @@
+POI: 			Mena_Suvari 
+Youtube ID: 	BDhnUQwGYAo 
+Video length: 	945.1 sec 
+Set (V): 		dev 
+ 
+Mena_Suvari/BDhnUQwGYAo_0000001 179.1 184.8 
+Mena_Suvari/BDhnUQwGYAo_0000002 250.1 255.2 
+Mena_Suvari/BDhnUQwGYAo_0000003 365.1 370.0 
+Mena_Suvari/BDhnUQwGYAo_0000004 402.1 408.2 
+Mena_Suvari/BDhnUQwGYAo_0000005 413.9 427.3 
+Mena_Suvari/BDhnUQwGYAo_0000006 454.6 462.5 
+Mena_Suvari/BDhnUQwGYAo_0000007 466.0 479.0 
+Mena_Suvari/BDhnUQwGYAo_0000008 481.1 486.6 
+Mena_Suvari/BDhnUQwGYAo_0000009 500.3 505.7 
+Mena_Suvari/BDhnUQwGYAo_0000010 517.6 524.2 
+Mena_Suvari/BDhnUQwGYAo_0000011 567.4 574.2 
+Mena_Suvari/BDhnUQwGYAo_0000012 580.1 590.3 
+Mena_Suvari/BDhnUQwGYAo_0000013 680.1 685.1 
+Mena_Suvari/BDhnUQwGYAo_0000014 807.1 817.1 
+Mena_Suvari/BDhnUQwGYAo_0000015 835.4 843.0 
+Mena_Suvari/BDhnUQwGYAo_0000016 875.8 885.0 
+Mena_Suvari/BDhnUQwGYAo_0000017 901.6 909.3 

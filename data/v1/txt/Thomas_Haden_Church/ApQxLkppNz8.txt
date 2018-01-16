@@ -1,0 +1,13 @@
+POI: 			Thomas_Haden_Church 
+Youtube ID: 	ApQxLkppNz8 
+Video length: 	351.3 sec 
+Set (V): 		dev 
+ 
+Thomas_Haden_Church/ApQxLkppNz8_0000001 46.6 51.4 
+Thomas_Haden_Church/ApQxLkppNz8_0000002 67.2 73.8 
+Thomas_Haden_Church/ApQxLkppNz8_0000003 128.0 132.2 
+Thomas_Haden_Church/ApQxLkppNz8_0000004 160.1 165.8 
+Thomas_Haden_Church/ApQxLkppNz8_0000005 167.8 176.4 
+Thomas_Haden_Church/ApQxLkppNz8_0000006 256.8 264.1 
+Thomas_Haden_Church/ApQxLkppNz8_0000007 288.7 293.4 
+Thomas_Haden_Church/ApQxLkppNz8_0000008 319.4 324.8 

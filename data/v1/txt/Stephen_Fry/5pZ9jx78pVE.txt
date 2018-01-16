@@ -1,0 +1,9 @@
+POI: 			Stephen_Fry 
+Youtube ID: 	5pZ9jx78pVE 
+Video length: 	764.9 sec 
+Set (V): 		dev 
+ 
+Stephen_Fry/5pZ9jx78pVE_0000001 505.1 510.9 
+Stephen_Fry/5pZ9jx78pVE_0000002 583.0 589.8 
+Stephen_Fry/5pZ9jx78pVE_0000003 692.7 696.8 
+Stephen_Fry/5pZ9jx78pVE_0000004 699.9 703.8 

@@ -1,0 +1,7 @@
+POI: 			Finola_Hughes 
+Youtube ID: 	3UbWQxtoXgc 
+Video length: 	102.5 sec 
+Set (V): 		dev 
+ 
+Finola_Hughes/3UbWQxtoXgc_0000001 36.8 43.2 
+Finola_Hughes/3UbWQxtoXgc_0000002 82.5 87.4 

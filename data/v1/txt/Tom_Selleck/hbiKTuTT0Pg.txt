@@ -1,0 +1,14 @@
+POI: 			Tom_Selleck 
+Youtube ID: 	hbiKTuTT0Pg 
+Video length: 	201.6 sec 
+Set (V): 		dev 
+ 
+Tom_Selleck/hbiKTuTT0Pg_0000001 21.0 34.7 
+Tom_Selleck/hbiKTuTT0Pg_0000002 36.2 42.1 
+Tom_Selleck/hbiKTuTT0Pg_0000003 42.5 46.6 
+Tom_Selleck/hbiKTuTT0Pg_0000004 47.4 51.6 
+Tom_Selleck/hbiKTuTT0Pg_0000005 54.4 60.2 
+Tom_Selleck/hbiKTuTT0Pg_0000006 63.9 68.8 
+Tom_Selleck/hbiKTuTT0Pg_0000007 69.7 75.7 
+Tom_Selleck/hbiKTuTT0Pg_0000008 86.4 93.4 
+Tom_Selleck/hbiKTuTT0Pg_0000009 153.9 158.4 

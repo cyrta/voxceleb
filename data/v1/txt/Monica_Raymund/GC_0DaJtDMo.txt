@@ -1,0 +1,7 @@
+POI: 			Monica_Raymund 
+Youtube ID: 	GC_0DaJtDMo 
+Video length: 	92.9 sec 
+Set (V): 		dev 
+ 
+Monica_Raymund/GC_0DaJtDMo_0000001 60.4 66.4 
+Monica_Raymund/GC_0DaJtDMo_0000002 70.9 76.0 

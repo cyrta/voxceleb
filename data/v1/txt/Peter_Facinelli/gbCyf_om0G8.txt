@@ -1,0 +1,8 @@
+POI: 			Peter_Facinelli 
+Youtube ID: 	gbCyf_om0G8 
+Video length: 	327.6 sec 
+Set (V): 		dev 
+ 
+Peter_Facinelli/gbCyf_om0G8_0000001 79.8 84.1 
+Peter_Facinelli/gbCyf_om0G8_0000002 108.0 117.9 
+Peter_Facinelli/gbCyf_om0G8_0000003 146.8 154.6 

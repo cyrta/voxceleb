@@ -1,0 +1,7 @@
+POI: 			Luc_Besson 
+Youtube ID: 	Ea-vaw913jw 
+Video length: 	105.2 sec 
+Set (V): 		dev 
+ 
+Luc_Besson/Ea-vaw913jw_0000001 16.0 20.0 
+Luc_Besson/Ea-vaw913jw_0000002 75.5 80.0 

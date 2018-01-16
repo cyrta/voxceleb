@@ -1,0 +1,10 @@
+POI: 			Denis_Leary 
+Youtube ID: 	Kdf1j7VPiOc 
+Video length: 	386.2 sec 
+Set (V): 		dev 
+ 
+Denis_Leary/Kdf1j7VPiOc_0000001 91.0 95.4 
+Denis_Leary/Kdf1j7VPiOc_0000002 130.8 135.4 
+Denis_Leary/Kdf1j7VPiOc_0000003 187.2 191.4 
+Denis_Leary/Kdf1j7VPiOc_0000004 276.5 281.5 
+Denis_Leary/Kdf1j7VPiOc_0000005 331.9 339.1 

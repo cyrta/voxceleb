@@ -1,0 +1,15 @@
+POI: 			Amaury_Nolasco 
+Youtube ID: 	beXfX1NV8SA 
+Video length: 	226.7 sec 
+Set (V): 		dev 
+ 
+Amaury_Nolasco/beXfX1NV8SA_0000001 42.9 50.8 
+Amaury_Nolasco/beXfX1NV8SA_0000002 51.0 63.6 
+Amaury_Nolasco/beXfX1NV8SA_0000003 67.7 71.8 
+Amaury_Nolasco/beXfX1NV8SA_0000004 96.2 104.2 
+Amaury_Nolasco/beXfX1NV8SA_0000005 142.4 148.5 
+Amaury_Nolasco/beXfX1NV8SA_0000006 166.7 175.0 
+Amaury_Nolasco/beXfX1NV8SA_0000007 175.9 180.4 
+Amaury_Nolasco/beXfX1NV8SA_0000008 182.5 201.1 
+Amaury_Nolasco/beXfX1NV8SA_0000009 201.4 214.1 
+Amaury_Nolasco/beXfX1NV8SA_0000010 214.5 221.0 

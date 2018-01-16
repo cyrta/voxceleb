@@ -1,0 +1,12 @@
+POI: 			Kenan_Thompson 
+Youtube ID: 	0LsKtCqf8gI 
+Video length: 	311.9 sec 
+Set (V): 		dev 
+ 
+Kenan_Thompson/0LsKtCqf8gI_0000001 06.2 16.0 
+Kenan_Thompson/0LsKtCqf8gI_0000002 43.2 49.7 
+Kenan_Thompson/0LsKtCqf8gI_0000003 63.2 72.0 
+Kenan_Thompson/0LsKtCqf8gI_0000004 80.9 89.5 
+Kenan_Thompson/0LsKtCqf8gI_0000005 168.0 178.0 
+Kenan_Thompson/0LsKtCqf8gI_0000006 198.9 203.9 
+Kenan_Thompson/0LsKtCqf8gI_0000007 253.3 258.0 

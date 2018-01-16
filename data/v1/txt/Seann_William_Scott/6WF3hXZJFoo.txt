@@ -1,0 +1,27 @@
+POI: 			Seann_William_Scott 
+Youtube ID: 	6WF3hXZJFoo 
+Video length: 	438.7 sec 
+Set (V): 		dev 
+ 
+Seann_William_Scott/6WF3hXZJFoo_0000001 04.9 14.0 
+Seann_William_Scott/6WF3hXZJFoo_0000002 20.5 35.4 
+Seann_William_Scott/6WF3hXZJFoo_0000003 53.9 66.4 
+Seann_William_Scott/6WF3hXZJFoo_0000004 66.8 73.4 
+Seann_William_Scott/6WF3hXZJFoo_0000005 78.1 86.1 
+Seann_William_Scott/6WF3hXZJFoo_0000006 87.7 101.3 
+Seann_William_Scott/6WF3hXZJFoo_0000007 109.8 117.0 
+Seann_William_Scott/6WF3hXZJFoo_0000008 117.5 122.5 
+Seann_William_Scott/6WF3hXZJFoo_0000009 150.1 177.5 
+Seann_William_Scott/6WF3hXZJFoo_0000010 122.2 128.3 
+Seann_William_Scott/6WF3hXZJFoo_0000011 133.0 143.6 
+Seann_William_Scott/6WF3hXZJFoo_0000012 149.8 167.7 
+Seann_William_Scott/6WF3hXZJFoo_0000013 221.4 233.7 
+Seann_William_Scott/6WF3hXZJFoo_0000014 234.4 238.4 
+Seann_William_Scott/6WF3hXZJFoo_0000015 239.0 254.3 
+Seann_William_Scott/6WF3hXZJFoo_0000016 261.4 265.7 
+Seann_William_Scott/6WF3hXZJFoo_0000017 285.2 289.8 
+Seann_William_Scott/6WF3hXZJFoo_0000018 290.1 314.5 
+Seann_William_Scott/6WF3hXZJFoo_0000019 320.4 333.7 
+Seann_William_Scott/6WF3hXZJFoo_0000020 337.2 356.0 
+Seann_William_Scott/6WF3hXZJFoo_0000021 375.0 389.1 
+Seann_William_Scott/6WF3hXZJFoo_0000022 398.6 437.2 

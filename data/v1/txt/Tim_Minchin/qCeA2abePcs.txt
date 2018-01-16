@@ -1,0 +1,11 @@
+POI: 			Tim_Minchin 
+Youtube ID: 	qCeA2abePcs 
+Video length: 	192.5 sec 
+Set (V): 		dev 
+ 
+Tim_Minchin/qCeA2abePcs_0000001 62.6 69.9 
+Tim_Minchin/qCeA2abePcs_0000002 71.8 78.3 
+Tim_Minchin/qCeA2abePcs_0000003 81.1 88.6 
+Tim_Minchin/qCeA2abePcs_0000004 121.5 130.5 
+Tim_Minchin/qCeA2abePcs_0000005 166.9 173.2 
+Tim_Minchin/qCeA2abePcs_0000006 173.2 187.2 

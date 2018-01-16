@@ -1,0 +1,8 @@
+POI: 			Marion_Cotillard 
+Youtube ID: 	FTxUEfrAceE 
+Video length: 	283.8 sec 
+Set (V): 		dev 
+ 
+Marion_Cotillard/FTxUEfrAceE_0000001 19.7 28.2 
+Marion_Cotillard/FTxUEfrAceE_0000002 92.3 96.4 
+Marion_Cotillard/FTxUEfrAceE_0000003 113.8 120.4 

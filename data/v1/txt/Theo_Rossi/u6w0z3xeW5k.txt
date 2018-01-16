@@ -1,0 +1,12 @@
+POI: 			Theo_Rossi 
+Youtube ID: 	u6w0z3xeW5k 
+Video length: 	307.8 sec 
+Set (V): 		dev 
+ 
+Theo_Rossi/u6w0z3xeW5k_0000001 66.5 73.7 
+Theo_Rossi/u6w0z3xeW5k_0000002 80.2 86.8 
+Theo_Rossi/u6w0z3xeW5k_0000003 141.8 154.8 
+Theo_Rossi/u6w0z3xeW5k_0000004 157.0 171.0 
+Theo_Rossi/u6w0z3xeW5k_0000005 155.7 184.9 
+Theo_Rossi/u6w0z3xeW5k_0000006 217.6 231.4 
+Theo_Rossi/u6w0z3xeW5k_0000007 233.3 239.3 

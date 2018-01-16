@@ -1,0 +1,14 @@
+POI: 			Deidre_Hall 
+Youtube ID: 	WxmrMgdkqOw 
+Video length: 	800.7 sec 
+Set (V): 		dev 
+ 
+Deidre_Hall/WxmrMgdkqOw_0000001 117.3 122.0 
+Deidre_Hall/WxmrMgdkqOw_0000002 147.8 153.1 
+Deidre_Hall/WxmrMgdkqOw_0000003 300.2 307.4 
+Deidre_Hall/WxmrMgdkqOw_0000004 358.0 364.0 
+Deidre_Hall/WxmrMgdkqOw_0000005 447.7 454.8 
+Deidre_Hall/WxmrMgdkqOw_0000006 471.8 477.7 
+Deidre_Hall/WxmrMgdkqOw_0000007 500.7 508.6 
+Deidre_Hall/WxmrMgdkqOw_0000008 748.8 753.9 
+Deidre_Hall/WxmrMgdkqOw_0000009 754.6 761.4 

@@ -1,0 +1,8 @@
+POI: 			Cote_de_Pablo 
+Youtube ID: 	73Wbwx5oPGU 
+Video length: 	303.0 sec 
+Set (V): 		dev 
+ 
+Cote_de_Pablo/73Wbwx5oPGU_0000001 92.3 98.2 
+Cote_de_Pablo/73Wbwx5oPGU_0000002 194.3 203.6 
+Cote_de_Pablo/73Wbwx5oPGU_0000003 223.4 235.6 

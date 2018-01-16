@@ -1,0 +1,17 @@
+POI: 			Moran_Atias 
+Youtube ID: 	eGNU_QvcxEc 
+Video length: 	304.7 sec 
+Set (V): 		dev 
+ 
+Moran_Atias/eGNU_QvcxEc_0000001 51.0 68.2 
+Moran_Atias/eGNU_QvcxEc_0000002 103.6 115.1 
+Moran_Atias/eGNU_QvcxEc_0000003 136.7 145.2 
+Moran_Atias/eGNU_QvcxEc_0000004 145.7 176.2 
+Moran_Atias/eGNU_QvcxEc_0000005 180.8 195.4 
+Moran_Atias/eGNU_QvcxEc_0000006 196.5 207.6 
+Moran_Atias/eGNU_QvcxEc_0000007 208.1 223.7 
+Moran_Atias/eGNU_QvcxEc_0000008 227.8 235.7 
+Moran_Atias/eGNU_QvcxEc_0000009 237.0 241.0 
+Moran_Atias/eGNU_QvcxEc_0000010 259.0 268.4 
+Moran_Atias/eGNU_QvcxEc_0000011 270.6 279.1 
+Moran_Atias/eGNU_QvcxEc_0000012 279.7 288.6 

@@ -1,0 +1,19 @@
+POI: 			Taylor_Kitsch 
+Youtube ID: 	lNO2Bze0IoU 
+Video length: 	204.6 sec 
+Set (V): 		dev 
+ 
+Taylor_Kitsch/lNO2Bze0IoU_0000001 04.1 09.0 
+Taylor_Kitsch/lNO2Bze0IoU_0000002 09.1 23.5 
+Taylor_Kitsch/lNO2Bze0IoU_0000003 24.2 35.6 
+Taylor_Kitsch/lNO2Bze0IoU_0000004 45.9 50.4 
+Taylor_Kitsch/lNO2Bze0IoU_0000005 67.4 72.6 
+Taylor_Kitsch/lNO2Bze0IoU_0000006 75.8 94.3 
+Taylor_Kitsch/lNO2Bze0IoU_0000007 94.7 103.0 
+Taylor_Kitsch/lNO2Bze0IoU_0000008 119.2 123.8 
+Taylor_Kitsch/lNO2Bze0IoU_0000009 125.8 130.8 
+Taylor_Kitsch/lNO2Bze0IoU_0000010 141.0 146.4 
+Taylor_Kitsch/lNO2Bze0IoU_0000011 159.5 163.6 
+Taylor_Kitsch/lNO2Bze0IoU_0000012 164.0 170.6 
+Taylor_Kitsch/lNO2Bze0IoU_0000013 174.8 186.7 
+Taylor_Kitsch/lNO2Bze0IoU_0000014 196.4 201.9 

@@ -1,0 +1,11 @@
+POI: 			Megan_Fox 
+Youtube ID: 	1WWEhewoB1M 
+Video length: 	201.7 sec 
+Set (V): 		dev 
+ 
+Megan_Fox/1WWEhewoB1M_0000001 28.1 40.0 
+Megan_Fox/1WWEhewoB1M_0000002 47.9 60.9 
+Megan_Fox/1WWEhewoB1M_0000003 62.3 66.5 
+Megan_Fox/1WWEhewoB1M_0000004 91.9 104.8 
+Megan_Fox/1WWEhewoB1M_0000005 116.4 127.7 
+Megan_Fox/1WWEhewoB1M_0000006 158.6 172.1 

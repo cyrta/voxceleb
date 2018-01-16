@@ -1,0 +1,7 @@
+POI: 			Tim_Burton 
+Youtube ID: 	cccYC4SVzOA 
+Video length: 	579.9 sec 
+Set (V): 		dev 
+ 
+Tim_Burton/cccYC4SVzOA_0000001 363.6 369.5 
+Tim_Burton/cccYC4SVzOA_0000002 400.5 412.8 

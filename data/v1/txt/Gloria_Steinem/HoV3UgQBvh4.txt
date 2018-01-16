@@ -1,0 +1,23 @@
+POI: 			Gloria_Steinem 
+Youtube ID: 	HoV3UgQBvh4 
+Video length: 	603.0 sec 
+Set (V): 		dev 
+ 
+Gloria_Steinem/HoV3UgQBvh4_0000001 102.1 112.9 
+Gloria_Steinem/HoV3UgQBvh4_0000002 152.1 156.2 
+Gloria_Steinem/HoV3UgQBvh4_0000003 157.2 164.7 
+Gloria_Steinem/HoV3UgQBvh4_0000004 165.4 169.3 
+Gloria_Steinem/HoV3UgQBvh4_0000005 175.9 180.3 
+Gloria_Steinem/HoV3UgQBvh4_0000006 207.3 212.6 
+Gloria_Steinem/HoV3UgQBvh4_0000007 224.4 236.3 
+Gloria_Steinem/HoV3UgQBvh4_0000008 239.3 243.6 
+Gloria_Steinem/HoV3UgQBvh4_0000009 297.8 307.7 
+Gloria_Steinem/HoV3UgQBvh4_0000010 362.9 367.8 
+Gloria_Steinem/HoV3UgQBvh4_0000011 387.0 399.8 
+Gloria_Steinem/HoV3UgQBvh4_0000012 434.3 442.0 
+Gloria_Steinem/HoV3UgQBvh4_0000013 443.6 455.2 
+Gloria_Steinem/HoV3UgQBvh4_0000014 465.2 471.9 
+Gloria_Steinem/HoV3UgQBvh4_0000015 482.3 488.1 
+Gloria_Steinem/HoV3UgQBvh4_0000016 525.1 530.2 
+Gloria_Steinem/HoV3UgQBvh4_0000017 534.8 539.3 
+Gloria_Steinem/HoV3UgQBvh4_0000018 553.3 559.8 

@@ -1,0 +1,18 @@
+POI: 			Dana_Delany 
+Youtube ID: 	TkVbedVcwos 
+Video length: 	277.2 sec 
+Set (V): 		dev 
+ 
+Dana_Delany/TkVbedVcwos_0000001 14.0 22.4 
+Dana_Delany/TkVbedVcwos_0000002 23.3 32.3 
+Dana_Delany/TkVbedVcwos_0000003 59.9 67.3 
+Dana_Delany/TkVbedVcwos_0000004 67.7 72.5 
+Dana_Delany/TkVbedVcwos_0000005 87.6 94.1 
+Dana_Delany/TkVbedVcwos_0000006 98.0 103.2 
+Dana_Delany/TkVbedVcwos_0000007 116.7 124.7 
+Dana_Delany/TkVbedVcwos_0000008 127.0 131.2 
+Dana_Delany/TkVbedVcwos_0000009 139.4 155.0 
+Dana_Delany/TkVbedVcwos_0000010 185.3 189.8 
+Dana_Delany/TkVbedVcwos_0000011 217.0 229.3 
+Dana_Delany/TkVbedVcwos_0000012 249.8 257.6 
+Dana_Delany/TkVbedVcwos_0000013 267.0 271.8 

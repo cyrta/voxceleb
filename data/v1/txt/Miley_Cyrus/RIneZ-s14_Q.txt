@@ -1,0 +1,11 @@
+POI: 			Miley_Cyrus 
+Youtube ID: 	RIneZ-s14_Q 
+Video length: 	130.8 sec 
+Set (V): 		dev 
+ 
+Miley_Cyrus/RIneZ-s14_Q_0000001 02.8 24.7 
+Miley_Cyrus/RIneZ-s14_Q_0000002 33.0 44.8 
+Miley_Cyrus/RIneZ-s14_Q_0000003 60.3 65.0 
+Miley_Cyrus/RIneZ-s14_Q_0000004 76.6 83.9 
+Miley_Cyrus/RIneZ-s14_Q_0000005 84.2 88.4 
+Miley_Cyrus/RIneZ-s14_Q_0000006 89.6 102.9 

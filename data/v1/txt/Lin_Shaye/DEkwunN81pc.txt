@@ -1,0 +1,8 @@
+POI: 			Lin_Shaye 
+Youtube ID: 	DEkwunN81pc 
+Video length: 	139.4 sec 
+Set (V): 		dev 
+ 
+Lin_Shaye/DEkwunN81pc_0000001 59.2 65.2 
+Lin_Shaye/DEkwunN81pc_0000002 66.0 71.2 
+Lin_Shaye/DEkwunN81pc_0000003 79.4 88.2 

@@ -1,0 +1,7 @@
+POI: 			David_Morrissey 
+Youtube ID: 	QJbjHbWTQV8 
+Video length: 	255.0 sec 
+Set (V): 		dev 
+ 
+David_Morrissey/QJbjHbWTQV8_0000001 17.6 21.8 
+David_Morrissey/QJbjHbWTQV8_0000002 22.0 35.3 

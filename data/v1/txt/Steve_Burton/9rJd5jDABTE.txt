@@ -1,0 +1,8 @@
+POI: 			Steve_Burton 
+Youtube ID: 	9rJd5jDABTE 
+Video length: 	105.6 sec 
+Set (V): 		dev 
+ 
+Steve_Burton/9rJd5jDABTE_0000001 06.4 13.7 
+Steve_Burton/9rJd5jDABTE_0000002 26.4 36.7 
+Steve_Burton/9rJd5jDABTE_0000003 36.9 41.1 

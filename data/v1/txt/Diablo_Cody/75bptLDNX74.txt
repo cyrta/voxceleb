@@ -1,0 +1,9 @@
+POI: 			Diablo_Cody 
+Youtube ID: 	75bptLDNX74 
+Video length: 	31.6 sec 
+Set (V): 		dev 
+ 
+Diablo_Cody/75bptLDNX74_0000001 00.7 05.4 
+Diablo_Cody/75bptLDNX74_0000002 05.5 14.0 
+Diablo_Cody/75bptLDNX74_0000003 16.5 22.5 
+Diablo_Cody/75bptLDNX74_0000004 23.4 30.0 

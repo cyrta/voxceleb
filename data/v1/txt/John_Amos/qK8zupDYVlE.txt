@@ -1,0 +1,21 @@
+POI: 			John_Amos 
+Youtube ID: 	qK8zupDYVlE 
+Video length: 	277.1 sec 
+Set (V): 		dev 
+ 
+John_Amos/qK8zupDYVlE_0000001 08.0 13.0 
+John_Amos/qK8zupDYVlE_0000002 15.6 20.0 
+John_Amos/qK8zupDYVlE_0000003 23.9 33.9 
+John_Amos/qK8zupDYVlE_0000004 36.0 42.2 
+John_Amos/qK8zupDYVlE_0000005 46.7 53.5 
+John_Amos/qK8zupDYVlE_0000006 53.7 57.8 
+John_Amos/qK8zupDYVlE_0000007 97.5 102.0 
+John_Amos/qK8zupDYVlE_0000008 111.6 120.4 
+John_Amos/qK8zupDYVlE_0000009 138.0 143.5 
+John_Amos/qK8zupDYVlE_0000010 148.4 159.1 
+John_Amos/qK8zupDYVlE_0000011 175.9 195.6 
+John_Amos/qK8zupDYVlE_0000012 201.7 209.6 
+John_Amos/qK8zupDYVlE_0000013 212.8 224.6 
+John_Amos/qK8zupDYVlE_0000014 228.1 235.7 
+John_Amos/qK8zupDYVlE_0000015 242.2 248.2 
+John_Amos/qK8zupDYVlE_0000016 248.6 253.2 

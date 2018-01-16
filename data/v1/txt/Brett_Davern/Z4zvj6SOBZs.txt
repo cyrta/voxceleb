@@ -1,0 +1,13 @@
+POI: 			Brett_Davern 
+Youtube ID: 	Z4zvj6SOBZs 
+Video length: 	126.2 sec 
+Set (V): 		dev 
+ 
+Brett_Davern/Z4zvj6SOBZs_0000001 08.8 18.8 
+Brett_Davern/Z4zvj6SOBZs_0000002 31.7 36.2 
+Brett_Davern/Z4zvj6SOBZs_0000003 40.2 45.5 
+Brett_Davern/Z4zvj6SOBZs_0000004 48.2 55.8 
+Brett_Davern/Z4zvj6SOBZs_0000005 67.8 75.8 
+Brett_Davern/Z4zvj6SOBZs_0000006 85.2 97.9 
+Brett_Davern/Z4zvj6SOBZs_0000007 93.9 99.4 
+Brett_Davern/Z4zvj6SOBZs_0000008 105.9 113.8 

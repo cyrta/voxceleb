@@ -1,0 +1,16 @@
+POI: 			Seann_William_Scott 
+Youtube ID: 	iTefLRE0Y_o 
+Video length: 	338.8 sec 
+Set (V): 		dev 
+ 
+Seann_William_Scott/iTefLRE0Y_o_0000001 27.1 35.7 
+Seann_William_Scott/iTefLRE0Y_o_0000002 75.0 80.5 
+Seann_William_Scott/iTefLRE0Y_o_0000003 83.6 89.9 
+Seann_William_Scott/iTefLRE0Y_o_0000004 100.6 110.6 
+Seann_William_Scott/iTefLRE0Y_o_0000005 132.8 140.8 
+Seann_William_Scott/iTefLRE0Y_o_0000006 198.1 211.4 
+Seann_William_Scott/iTefLRE0Y_o_0000007 212.4 248.4 
+Seann_William_Scott/iTefLRE0Y_o_0000008 264.6 268.7 
+Seann_William_Scott/iTefLRE0Y_o_0000009 299.4 307.6 
+Seann_William_Scott/iTefLRE0Y_o_0000010 308.0 320.9 
+Seann_William_Scott/iTefLRE0Y_o_0000011 321.3 326.9 

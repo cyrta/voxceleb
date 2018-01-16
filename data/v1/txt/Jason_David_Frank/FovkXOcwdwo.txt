@@ -1,0 +1,8 @@
+POI: 			Jason_David_Frank 
+Youtube ID: 	FovkXOcwdwo 
+Video length: 	600.6 sec 
+Set (V): 		dev 
+ 
+Jason_David_Frank/FovkXOcwdwo_0000001 557.7 563.6 
+Jason_David_Frank/FovkXOcwdwo_0000002 564.4 568.4 
+Jason_David_Frank/FovkXOcwdwo_0000003 579.5 584.9 

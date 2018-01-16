@@ -1,0 +1,29 @@
+POI: 			Martin_Shaw 
+Youtube ID: 	J1aH3cHZAfo 
+Video length: 	651.9 sec 
+Set (V): 		dev 
+ 
+Martin_Shaw/J1aH3cHZAfo_0000001 20.7 25.0 
+Martin_Shaw/J1aH3cHZAfo_0000002 105.6 112.3 
+Martin_Shaw/J1aH3cHZAfo_0000003 123.1 128.0 
+Martin_Shaw/J1aH3cHZAfo_0000004 132.1 141.4 
+Martin_Shaw/J1aH3cHZAfo_0000005 157.8 163.3 
+Martin_Shaw/J1aH3cHZAfo_0000006 172.3 183.1 
+Martin_Shaw/J1aH3cHZAfo_0000007 304.6 309.5 
+Martin_Shaw/J1aH3cHZAfo_0000008 311.0 315.3 
+Martin_Shaw/J1aH3cHZAfo_0000009 315.5 321.7 
+Martin_Shaw/J1aH3cHZAfo_0000010 325.4 329.5 
+Martin_Shaw/J1aH3cHZAfo_0000011 336.0 341.7 
+Martin_Shaw/J1aH3cHZAfo_0000012 351.4 358.2 
+Martin_Shaw/J1aH3cHZAfo_0000013 359.6 364.4 
+Martin_Shaw/J1aH3cHZAfo_0000014 376.7 392.9 
+Martin_Shaw/J1aH3cHZAfo_0000015 409.4 418.3 
+Martin_Shaw/J1aH3cHZAfo_0000016 418.4 429.2 
+Martin_Shaw/J1aH3cHZAfo_0000017 433.2 437.8 
+Martin_Shaw/J1aH3cHZAfo_0000018 444.0 450.1 
+Martin_Shaw/J1aH3cHZAfo_0000019 489.5 494.0 
+Martin_Shaw/J1aH3cHZAfo_0000020 494.2 500.2 
+Martin_Shaw/J1aH3cHZAfo_0000021 504.4 518.8 
+Martin_Shaw/J1aH3cHZAfo_0000022 539.0 551.8 
+Martin_Shaw/J1aH3cHZAfo_0000023 574.2 596.3 
+Martin_Shaw/J1aH3cHZAfo_0000024 630.6 638.0 

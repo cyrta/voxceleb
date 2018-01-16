@@ -1,0 +1,22 @@
+POI: 			Tom_Bergeron 
+Youtube ID: 	XsiRQ8XiWOk 
+Video length: 	291.6 sec 
+Set (V): 		dev 
+ 
+Tom_Bergeron/XsiRQ8XiWOk_0000001 18.7 34.3 
+Tom_Bergeron/XsiRQ8XiWOk_0000002 42.3 48.4 
+Tom_Bergeron/XsiRQ8XiWOk_0000003 50.8 54.9 
+Tom_Bergeron/XsiRQ8XiWOk_0000004 59.6 67.4 
+Tom_Bergeron/XsiRQ8XiWOk_0000005 71.1 76.6 
+Tom_Bergeron/XsiRQ8XiWOk_0000006 78.2 91.6 
+Tom_Bergeron/XsiRQ8XiWOk_0000007 94.9 105.3 
+Tom_Bergeron/XsiRQ8XiWOk_0000008 112.4 124.5 
+Tom_Bergeron/XsiRQ8XiWOk_0000009 126.6 149.6 
+Tom_Bergeron/XsiRQ8XiWOk_0000010 151.1 161.3 
+Tom_Bergeron/XsiRQ8XiWOk_0000011 162.1 168.2 
+Tom_Bergeron/XsiRQ8XiWOk_0000012 172.7 180.0 
+Tom_Bergeron/XsiRQ8XiWOk_0000013 184.6 198.6 
+Tom_Bergeron/XsiRQ8XiWOk_0000014 208.2 213.9 
+Tom_Bergeron/XsiRQ8XiWOk_0000015 214.8 227.2 
+Tom_Bergeron/XsiRQ8XiWOk_0000016 232.9 238.1 
+Tom_Bergeron/XsiRQ8XiWOk_0000017 247.9 260.4 

@@ -1,0 +1,11 @@
+POI: 			Heather_Graham 
+Youtube ID: 	NoAA12VcG0I 
+Video length: 	453.5 sec 
+Set (V): 		dev 
+ 
+Heather_Graham/NoAA12VcG0I_0000001 140.6 144.8 
+Heather_Graham/NoAA12VcG0I_0000002 149.1 160.0 
+Heather_Graham/NoAA12VcG0I_0000003 186.7 194.7 
+Heather_Graham/NoAA12VcG0I_0000004 218.2 227.3 
+Heather_Graham/NoAA12VcG0I_0000005 302.0 308.4 
+Heather_Graham/NoAA12VcG0I_0000006 438.2 447.4 

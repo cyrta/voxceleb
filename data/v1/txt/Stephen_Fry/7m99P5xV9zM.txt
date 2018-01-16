@@ -1,0 +1,16 @@
+POI: 			Stephen_Fry 
+Youtube ID: 	7m99P5xV9zM 
+Video length: 	746.6 sec 
+Set (V): 		dev 
+ 
+Stephen_Fry/7m99P5xV9zM_0000001 25.8 31.0 
+Stephen_Fry/7m99P5xV9zM_0000002 34.6 39.6 
+Stephen_Fry/7m99P5xV9zM_0000003 321.2 325.6 
+Stephen_Fry/7m99P5xV9zM_0000004 384.7 389.6 
+Stephen_Fry/7m99P5xV9zM_0000005 409.6 414.8 
+Stephen_Fry/7m99P5xV9zM_0000006 426.0 430.2 
+Stephen_Fry/7m99P5xV9zM_0000007 444.5 449.9 
+Stephen_Fry/7m99P5xV9zM_0000008 504.1 508.8 
+Stephen_Fry/7m99P5xV9zM_0000009 547.9 552.3 
+Stephen_Fry/7m99P5xV9zM_0000010 636.8 643.0 
+Stephen_Fry/7m99P5xV9zM_0000011 659.2 664.0 

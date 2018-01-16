@@ -1,0 +1,12 @@
+POI: 			Eli_Roth 
+Youtube ID: 	j8UugkSTzzk 
+Video length: 	246.6 sec 
+Set (V): 		test 
+ 
+Eli_Roth/j8UugkSTzzk_0000001 23.2 32.1 
+Eli_Roth/j8UugkSTzzk_0000002 32.5 46.8 
+Eli_Roth/j8UugkSTzzk_0000003 50.2 54.4 
+Eli_Roth/j8UugkSTzzk_0000004 54.9 108.0 
+Eli_Roth/j8UugkSTzzk_0000005 120.6 132.6 
+Eli_Roth/j8UugkSTzzk_0000006 133.0 195.2 
+Eli_Roth/j8UugkSTzzk_0000007 197.0 218.5 

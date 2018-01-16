@@ -1,0 +1,23 @@
+POI: 			Peter_Jackson 
+Youtube ID: 	Ngs4zbgdfUo 
+Video length: 	349.7 sec 
+Set (V): 		dev 
+ 
+Peter_Jackson/Ngs4zbgdfUo_0000001 02.9 16.6 
+Peter_Jackson/Ngs4zbgdfUo_0000002 23.2 48.3 
+Peter_Jackson/Ngs4zbgdfUo_0000003 49.8 54.8 
+Peter_Jackson/Ngs4zbgdfUo_0000004 62.7 91.8 
+Peter_Jackson/Ngs4zbgdfUo_0000005 94.9 110.5 
+Peter_Jackson/Ngs4zbgdfUo_0000006 116.9 122.7 
+Peter_Jackson/Ngs4zbgdfUo_0000007 127.1 154.7 
+Peter_Jackson/Ngs4zbgdfUo_0000008 155.8 175.4 
+Peter_Jackson/Ngs4zbgdfUo_0000009 181.6 198.0 
+Peter_Jackson/Ngs4zbgdfUo_0000010 200.0 204.9 
+Peter_Jackson/Ngs4zbgdfUo_0000011 205.1 230.8 
+Peter_Jackson/Ngs4zbgdfUo_0000012 234.2 244.2 
+Peter_Jackson/Ngs4zbgdfUo_0000013 244.8 259.2 
+Peter_Jackson/Ngs4zbgdfUo_0000014 268.5 276.2 
+Peter_Jackson/Ngs4zbgdfUo_0000015 279.5 304.3 
+Peter_Jackson/Ngs4zbgdfUo_0000016 307.9 318.3 
+Peter_Jackson/Ngs4zbgdfUo_0000017 321.6 335.4 
+Peter_Jackson/Ngs4zbgdfUo_0000018 341.7 347.6 

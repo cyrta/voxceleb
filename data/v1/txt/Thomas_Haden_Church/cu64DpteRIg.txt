@@ -1,0 +1,11 @@
+POI: 			Thomas_Haden_Church 
+Youtube ID: 	cu64DpteRIg 
+Video length: 	250.4 sec 
+Set (V): 		dev 
+ 
+Thomas_Haden_Church/cu64DpteRIg_0000001 58.8 67.6 
+Thomas_Haden_Church/cu64DpteRIg_0000002 121.7 146.9 
+Thomas_Haden_Church/cu64DpteRIg_0000003 181.4 187.7 
+Thomas_Haden_Church/cu64DpteRIg_0000004 193.6 208.8 
+Thomas_Haden_Church/cu64DpteRIg_0000005 211.6 228.6 
+Thomas_Haden_Church/cu64DpteRIg_0000006 229.3 236.1 

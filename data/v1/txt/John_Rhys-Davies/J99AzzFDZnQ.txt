@@ -1,0 +1,23 @@
+POI: 			John_Rhys-Davies 
+Youtube ID: 	J99AzzFDZnQ 
+Video length: 	543.8 sec 
+Set (V): 		dev 
+ 
+John_Rhys-Davies/J99AzzFDZnQ_0000001 65.8 84.8 
+John_Rhys-Davies/J99AzzFDZnQ_0000002 147.0 156.8 
+John_Rhys-Davies/J99AzzFDZnQ_0000003 185.6 192.8 
+John_Rhys-Davies/J99AzzFDZnQ_0000004 205.2 216.3 
+John_Rhys-Davies/J99AzzFDZnQ_0000005 222.6 227.8 
+John_Rhys-Davies/J99AzzFDZnQ_0000006 234.9 239.3 
+John_Rhys-Davies/J99AzzFDZnQ_0000007 247.9 252.5 
+John_Rhys-Davies/J99AzzFDZnQ_0000008 302.0 310.0 
+John_Rhys-Davies/J99AzzFDZnQ_0000009 316.8 322.4 
+John_Rhys-Davies/J99AzzFDZnQ_0000010 340.9 346.6 
+John_Rhys-Davies/J99AzzFDZnQ_0000011 378.1 383.1 
+John_Rhys-Davies/J99AzzFDZnQ_0000012 391.3 396.2 
+John_Rhys-Davies/J99AzzFDZnQ_0000013 396.8 400.8 
+John_Rhys-Davies/J99AzzFDZnQ_0000014 418.9 424.5 
+John_Rhys-Davies/J99AzzFDZnQ_0000015 429.3 436.0 
+John_Rhys-Davies/J99AzzFDZnQ_0000016 458.4 462.4 
+John_Rhys-Davies/J99AzzFDZnQ_0000017 476.0 480.7 
+John_Rhys-Davies/J99AzzFDZnQ_0000018 485.3 492.5 

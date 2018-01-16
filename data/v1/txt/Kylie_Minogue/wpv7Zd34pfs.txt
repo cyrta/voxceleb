@@ -1,0 +1,7 @@
+POI: 			Kylie_Minogue 
+Youtube ID: 	wpv7Zd34pfs 
+Video length: 	439.5 sec 
+Set (V): 		dev 
+ 
+Kylie_Minogue/wpv7Zd34pfs_0000001 71.5 80.0 
+Kylie_Minogue/wpv7Zd34pfs_0000002 121.1 126.6 

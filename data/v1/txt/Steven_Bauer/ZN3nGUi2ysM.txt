@@ -1,0 +1,11 @@
+POI: 			Steven_Bauer 
+Youtube ID: 	ZN3nGUi2ysM 
+Video length: 	153.9 sec 
+Set (V): 		dev 
+ 
+Steven_Bauer/ZN3nGUi2ysM_0000001 12.5 28.8 
+Steven_Bauer/ZN3nGUi2ysM_0000002 32.4 36.9 
+Steven_Bauer/ZN3nGUi2ysM_0000003 37.2 48.4 
+Steven_Bauer/ZN3nGUi2ysM_0000004 89.0 93.2 
+Steven_Bauer/ZN3nGUi2ysM_0000005 93.3 99.3 
+Steven_Bauer/ZN3nGUi2ysM_0000006 136.2 150.5 

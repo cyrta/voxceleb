@@ -1,0 +1,7 @@
+POI: 			Marcia_Cross 
+Youtube ID: 	9ZY-KK2b9gE 
+Video length: 	520.1 sec 
+Set (V): 		dev 
+ 
+Marcia_Cross/9ZY-KK2b9gE_0000001 103.6 108.2 
+Marcia_Cross/9ZY-KK2b9gE_0000002 133.5 139.5 

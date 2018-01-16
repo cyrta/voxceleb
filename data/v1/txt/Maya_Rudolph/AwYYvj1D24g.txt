@@ -1,0 +1,12 @@
+POI: 			Maya_Rudolph 
+Youtube ID: 	AwYYvj1D24g 
+Video length: 	317.5 sec 
+Set (V): 		dev 
+ 
+Maya_Rudolph/AwYYvj1D24g_0000001 119.8 136.3 
+Maya_Rudolph/AwYYvj1D24g_0000002 165.4 173.4 
+Maya_Rudolph/AwYYvj1D24g_0000003 176.9 185.7 
+Maya_Rudolph/AwYYvj1D24g_0000004 203.5 261.7 
+Maya_Rudolph/AwYYvj1D24g_0000005 276.6 286.7 
+Maya_Rudolph/AwYYvj1D24g_0000006 288.1 296.6 
+Maya_Rudolph/AwYYvj1D24g_0000007 296.9 310.0 

@@ -1,0 +1,22 @@
+POI: 			Hugh_Bonneville 
+Youtube ID: 	8N1-vd38TsM 
+Video length: 	314.9 sec 
+Set (V): 		dev 
+ 
+Hugh_Bonneville/8N1-vd38TsM_0000001 22.4 35.6 
+Hugh_Bonneville/8N1-vd38TsM_0000002 41.6 46.8 
+Hugh_Bonneville/8N1-vd38TsM_0000003 63.2 67.3 
+Hugh_Bonneville/8N1-vd38TsM_0000004 70.4 80.2 
+Hugh_Bonneville/8N1-vd38TsM_0000005 101.5 108.7 
+Hugh_Bonneville/8N1-vd38TsM_0000006 109.2 115.1 
+Hugh_Bonneville/8N1-vd38TsM_0000007 115.2 119.4 
+Hugh_Bonneville/8N1-vd38TsM_0000008 120.3 126.6 
+Hugh_Bonneville/8N1-vd38TsM_0000009 166.6 170.9 
+Hugh_Bonneville/8N1-vd38TsM_0000010 173.0 180.1 
+Hugh_Bonneville/8N1-vd38TsM_0000011 181.2 185.6 
+Hugh_Bonneville/8N1-vd38TsM_0000012 209.2 219.6 
+Hugh_Bonneville/8N1-vd38TsM_0000013 220.7 227.3 
+Hugh_Bonneville/8N1-vd38TsM_0000014 264.5 268.9 
+Hugh_Bonneville/8N1-vd38TsM_0000015 269.6 279.0 
+Hugh_Bonneville/8N1-vd38TsM_0000016 279.4 287.0 
+Hugh_Bonneville/8N1-vd38TsM_0000017 298.6 311.2 

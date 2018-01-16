@@ -1,0 +1,9 @@
+POI: 			Andrew_Scott 
+Youtube ID: 	FSbob63fsV4 
+Video length: 	229.0 sec 
+Set (V): 		dev 
+ 
+Andrew_Scott/FSbob63fsV4_0000001 18.1 24.8 
+Andrew_Scott/FSbob63fsV4_0000002 25.9 32.4 
+Andrew_Scott/FSbob63fsV4_0000003 56.2 60.3 
+Andrew_Scott/FSbob63fsV4_0000004 140.2 144.7 

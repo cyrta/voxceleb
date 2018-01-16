@@ -1,0 +1,13 @@
+POI: 			Robbie_Amell 
+Youtube ID: 	6SyKKU-QyWQ 
+Video length: 	360.7 sec 
+Set (V): 		dev 
+ 
+Robbie_Amell/6SyKKU-QyWQ_0000001 67.4 75.1 
+Robbie_Amell/6SyKKU-QyWQ_0000002 76.2 83.5 
+Robbie_Amell/6SyKKU-QyWQ_0000003 98.1 104.9 
+Robbie_Amell/6SyKKU-QyWQ_0000004 211.3 220.3 
+Robbie_Amell/6SyKKU-QyWQ_0000005 248.0 256.0 
+Robbie_Amell/6SyKKU-QyWQ_0000006 273.5 278.8 
+Robbie_Amell/6SyKKU-QyWQ_0000007 300.0 304.4 
+Robbie_Amell/6SyKKU-QyWQ_0000008 304.5 309.6 

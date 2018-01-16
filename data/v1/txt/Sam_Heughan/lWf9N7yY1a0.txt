@@ -1,0 +1,8 @@
+POI: 			Sam_Heughan 
+Youtube ID: 	lWf9N7yY1a0 
+Video length: 	151.7 sec 
+Set (V): 		dev 
+ 
+Sam_Heughan/lWf9N7yY1a0_0000001 24.1 31.5 
+Sam_Heughan/lWf9N7yY1a0_0000002 62.3 66.7 
+Sam_Heughan/lWf9N7yY1a0_0000003 109.6 114.8 

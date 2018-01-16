@@ -1,0 +1,8 @@
+POI: 			Jeff_Goldblum 
+Youtube ID: 	N2Ek_wmnvC8 
+Video length: 	516.3 sec 
+Set (V): 		dev 
+ 
+Jeff_Goldblum/N2Ek_wmnvC8_0000001 280.2 291.3 
+Jeff_Goldblum/N2Ek_wmnvC8_0000002 294.6 299.6 
+Jeff_Goldblum/N2Ek_wmnvC8_0000003 317.8 323.1 

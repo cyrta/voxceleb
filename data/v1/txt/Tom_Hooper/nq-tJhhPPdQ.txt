@@ -1,0 +1,28 @@
+POI: 			Tom_Hooper 
+Youtube ID: 	nq-tJhhPPdQ 
+Video length: 	396.6 sec 
+Set (V): 		dev 
+ 
+Tom_Hooper/nq-tJhhPPdQ_0000001 29.4 35.1 
+Tom_Hooper/nq-tJhhPPdQ_0000002 42.2 47.1 
+Tom_Hooper/nq-tJhhPPdQ_0000003 47.9 63.8 
+Tom_Hooper/nq-tJhhPPdQ_0000004 67.0 72.1 
+Tom_Hooper/nq-tJhhPPdQ_0000005 73.1 77.6 
+Tom_Hooper/nq-tJhhPPdQ_0000006 85.2 97.7 
+Tom_Hooper/nq-tJhhPPdQ_0000007 98.4 106.0 
+Tom_Hooper/nq-tJhhPPdQ_0000008 120.2 127.5 
+Tom_Hooper/nq-tJhhPPdQ_0000009 128.0 133.8 
+Tom_Hooper/nq-tJhhPPdQ_0000010 134.5 146.9 
+Tom_Hooper/nq-tJhhPPdQ_0000011 149.8 163.3 
+Tom_Hooper/nq-tJhhPPdQ_0000012 178.3 214.0 
+Tom_Hooper/nq-tJhhPPdQ_0000013 214.1 221.6 
+Tom_Hooper/nq-tJhhPPdQ_0000014 228.3 248.0 
+Tom_Hooper/nq-tJhhPPdQ_0000015 248.1 258.6 
+Tom_Hooper/nq-tJhhPPdQ_0000016 259.3 263.8 
+Tom_Hooper/nq-tJhhPPdQ_0000017 264.5 282.0 
+Tom_Hooper/nq-tJhhPPdQ_0000018 295.9 305.2 
+Tom_Hooper/nq-tJhhPPdQ_0000019 317.8 324.8 
+Tom_Hooper/nq-tJhhPPdQ_0000020 328.5 339.0 
+Tom_Hooper/nq-tJhhPPdQ_0000021 339.9 356.1 
+Tom_Hooper/nq-tJhhPPdQ_0000022 367.9 378.0 
+Tom_Hooper/nq-tJhhPPdQ_0000023 386.2 390.4 

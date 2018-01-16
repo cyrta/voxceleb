@@ -1,0 +1,13 @@
+POI: 			Kaya_Scodelario 
+Youtube ID: 	tut38-egmgo 
+Video length: 	234.5 sec 
+Set (V): 		dev 
+ 
+Kaya_Scodelario/tut38-egmgo_0000001 08.9 13.1 
+Kaya_Scodelario/tut38-egmgo_0000002 29.8 40.2 
+Kaya_Scodelario/tut38-egmgo_0000003 50.6 59.1 
+Kaya_Scodelario/tut38-egmgo_0000004 100.2 106.3 
+Kaya_Scodelario/tut38-egmgo_0000005 126.7 133.2 
+Kaya_Scodelario/tut38-egmgo_0000006 173.0 187.1 
+Kaya_Scodelario/tut38-egmgo_0000007 191.5 198.8 
+Kaya_Scodelario/tut38-egmgo_0000008 211.8 218.2 

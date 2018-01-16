@@ -1,0 +1,23 @@
+POI: 			Sela_Ward 
+Youtube ID: 	uS9cHlaCf4Q 
+Video length: 	463.3 sec 
+Set (V): 		dev 
+ 
+Sela_Ward/uS9cHlaCf4Q_0000001 14.7 24.3 
+Sela_Ward/uS9cHlaCf4Q_0000002 50.2 56.1 
+Sela_Ward/uS9cHlaCf4Q_0000003 57.3 66.0 
+Sela_Ward/uS9cHlaCf4Q_0000004 67.3 78.4 
+Sela_Ward/uS9cHlaCf4Q_0000005 104.6 115.4 
+Sela_Ward/uS9cHlaCf4Q_0000006 127.9 147.4 
+Sela_Ward/uS9cHlaCf4Q_0000007 171.7 178.5 
+Sela_Ward/uS9cHlaCf4Q_0000008 179.4 185.9 
+Sela_Ward/uS9cHlaCf4Q_0000009 228.3 236.6 
+Sela_Ward/uS9cHlaCf4Q_0000010 268.2 274.7 
+Sela_Ward/uS9cHlaCf4Q_0000011 278.9 284.3 
+Sela_Ward/uS9cHlaCf4Q_0000012 315.9 321.3 
+Sela_Ward/uS9cHlaCf4Q_0000013 349.9 357.5 
+Sela_Ward/uS9cHlaCf4Q_0000014 393.1 397.7 
+Sela_Ward/uS9cHlaCf4Q_0000015 398.4 405.4 
+Sela_Ward/uS9cHlaCf4Q_0000016 419.4 423.4 
+Sela_Ward/uS9cHlaCf4Q_0000017 424.4 449.3 
+Sela_Ward/uS9cHlaCf4Q_0000018 449.8 455.8 

@@ -1,0 +1,9 @@
+POI: 			Jai_Courtney 
+Youtube ID: 	jfvjTxPfmBg 
+Video length: 	162.7 sec 
+Set (V): 		dev 
+ 
+Jai_Courtney/jfvjTxPfmBg_0000001 29.8 44.6 
+Jai_Courtney/jfvjTxPfmBg_0000002 90.3 105.6 
+Jai_Courtney/jfvjTxPfmBg_0000003 143.0 148.0 
+Jai_Courtney/jfvjTxPfmBg_0000004 148.9 156.7 

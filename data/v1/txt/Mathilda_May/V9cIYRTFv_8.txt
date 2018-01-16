@@ -1,0 +1,16 @@
+POI: 			Mathilda_May 
+Youtube ID: 	V9cIYRTFv_8 
+Video length: 	460.3 sec 
+Set (V): 		dev 
+ 
+Mathilda_May/V9cIYRTFv_8_0000001 28.8 39.0 
+Mathilda_May/V9cIYRTFv_8_0000002 40.0 44.8 
+Mathilda_May/V9cIYRTFv_8_0000003 100.1 116.4 
+Mathilda_May/V9cIYRTFv_8_0000004 175.3 182.1 
+Mathilda_May/V9cIYRTFv_8_0000005 184.2 190.8 
+Mathilda_May/V9cIYRTFv_8_0000006 215.0 219.9 
+Mathilda_May/V9cIYRTFv_8_0000007 294.7 305.2 
+Mathilda_May/V9cIYRTFv_8_0000008 347.6 352.4 
+Mathilda_May/V9cIYRTFv_8_0000009 365.7 374.0 
+Mathilda_May/V9cIYRTFv_8_0000010 384.8 393.3 
+Mathilda_May/V9cIYRTFv_8_0000011 414.3 419.4 

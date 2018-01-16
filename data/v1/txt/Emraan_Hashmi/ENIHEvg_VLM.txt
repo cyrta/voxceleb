@@ -1,0 +1,28 @@
+POI: 			Emraan_Hashmi 
+Youtube ID: 	ENIHEvg_VLM 
+Video length: 	755.7 sec 
+Set (V): 		test 
+ 
+Emraan_Hashmi/ENIHEvg_VLM_0000001 28.4 33.0 
+Emraan_Hashmi/ENIHEvg_VLM_0000002 61.4 70.8 
+Emraan_Hashmi/ENIHEvg_VLM_0000003 91.5 96.4 
+Emraan_Hashmi/ENIHEvg_VLM_0000004 97.1 106.9 
+Emraan_Hashmi/ENIHEvg_VLM_0000005 107.5 115.3 
+Emraan_Hashmi/ENIHEvg_VLM_0000006 157.9 162.6 
+Emraan_Hashmi/ENIHEvg_VLM_0000007 209.9 215.6 
+Emraan_Hashmi/ENIHEvg_VLM_0000008 360.1 365.0 
+Emraan_Hashmi/ENIHEvg_VLM_0000009 376.5 382.0 
+Emraan_Hashmi/ENIHEvg_VLM_0000010 392.3 396.7 
+Emraan_Hashmi/ENIHEvg_VLM_0000011 450.2 454.2 
+Emraan_Hashmi/ENIHEvg_VLM_0000012 462.8 467.6 
+Emraan_Hashmi/ENIHEvg_VLM_0000013 481.4 488.4 
+Emraan_Hashmi/ENIHEvg_VLM_0000014 524.7 530.4 
+Emraan_Hashmi/ENIHEvg_VLM_0000015 576.0 581.8 
+Emraan_Hashmi/ENIHEvg_VLM_0000016 621.7 635.1 
+Emraan_Hashmi/ENIHEvg_VLM_0000017 636.0 640.3 
+Emraan_Hashmi/ENIHEvg_VLM_0000018 651.5 656.3 
+Emraan_Hashmi/ENIHEvg_VLM_0000019 675.2 679.3 
+Emraan_Hashmi/ENIHEvg_VLM_0000020 685.8 692.8 
+Emraan_Hashmi/ENIHEvg_VLM_0000021 703.0 708.1 
+Emraan_Hashmi/ENIHEvg_VLM_0000022 718.5 722.8 
+Emraan_Hashmi/ENIHEvg_VLM_0000023 725.3 732.3 

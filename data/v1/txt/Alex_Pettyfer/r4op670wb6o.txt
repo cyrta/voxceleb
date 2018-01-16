@@ -1,0 +1,12 @@
+POI: 			Alex_Pettyfer 
+Youtube ID: 	r4op670wb6o 
+Video length: 	313.6 sec 
+Set (V): 		dev 
+ 
+Alex_Pettyfer/r4op670wb6o_0000001 26.8 33.6 
+Alex_Pettyfer/r4op670wb6o_0000002 46.2 52.5 
+Alex_Pettyfer/r4op670wb6o_0000003 61.8 68.7 
+Alex_Pettyfer/r4op670wb6o_0000004 169.3 177.9 
+Alex_Pettyfer/r4op670wb6o_0000005 179.9 184.4 
+Alex_Pettyfer/r4op670wb6o_0000006 208.9 213.9 
+Alex_Pettyfer/r4op670wb6o_0000007 245.9 258.0 

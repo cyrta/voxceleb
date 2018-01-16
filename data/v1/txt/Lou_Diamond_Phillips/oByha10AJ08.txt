@@ -1,0 +1,10 @@
+POI: 			Lou_Diamond_Phillips 
+Youtube ID: 	oByha10AJ08 
+Video length: 	357.7 sec 
+Set (V): 		dev 
+ 
+Lou_Diamond_Phillips/oByha10AJ08_0000001 82.2 91.0 
+Lou_Diamond_Phillips/oByha10AJ08_0000002 98.0 102.0 
+Lou_Diamond_Phillips/oByha10AJ08_0000003 142.4 147.4 
+Lou_Diamond_Phillips/oByha10AJ08_0000004 271.2 276.3 
+Lou_Diamond_Phillips/oByha10AJ08_0000005 336.0 340.8 

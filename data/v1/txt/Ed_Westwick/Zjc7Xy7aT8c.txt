@@ -1,0 +1,9 @@
+POI: 			Ed_Westwick 
+Youtube ID: 	Zjc7Xy7aT8c 
+Video length: 	139.4 sec 
+Set (V): 		test 
+ 
+Ed_Westwick/Zjc7Xy7aT8c_0000001 14.7 19.0 
+Ed_Westwick/Zjc7Xy7aT8c_0000002 35.6 39.9 
+Ed_Westwick/Zjc7Xy7aT8c_0000003 52.0 57.2 
+Ed_Westwick/Zjc7Xy7aT8c_0000004 85.2 89.3 

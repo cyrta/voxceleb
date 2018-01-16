@@ -1,0 +1,17 @@
+POI: 			Miley_Cyrus 
+Youtube ID: 	jBaNX_JLYM8 
+Video length: 	569.6 sec 
+Set (V): 		dev 
+ 
+Miley_Cyrus/jBaNX_JLYM8_0000001 227.9 236.4 
+Miley_Cyrus/jBaNX_JLYM8_0000002 248.4 258.8 
+Miley_Cyrus/jBaNX_JLYM8_0000003 269.0 276.0 
+Miley_Cyrus/jBaNX_JLYM8_0000004 288.4 292.5 
+Miley_Cyrus/jBaNX_JLYM8_0000005 299.7 306.7 
+Miley_Cyrus/jBaNX_JLYM8_0000006 344.0 349.1 
+Miley_Cyrus/jBaNX_JLYM8_0000007 373.0 382.6 
+Miley_Cyrus/jBaNX_JLYM8_0000008 417.7 422.2 
+Miley_Cyrus/jBaNX_JLYM8_0000009 422.5 426.8 
+Miley_Cyrus/jBaNX_JLYM8_0000010 449.3 458.4 
+Miley_Cyrus/jBaNX_JLYM8_0000011 487.0 494.5 
+Miley_Cyrus/jBaNX_JLYM8_0000012 498.6 512.3 

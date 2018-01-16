@@ -1,0 +1,14 @@
+POI: 			Hal_Sparks 
+Youtube ID: 	CjkYImmea9c 
+Video length: 	373.5 sec 
+Set (V): 		dev 
+ 
+Hal_Sparks/CjkYImmea9c_0000001 118.9 123.4 
+Hal_Sparks/CjkYImmea9c_0000002 137.1 141.2 
+Hal_Sparks/CjkYImmea9c_0000003 218.3 223.2 
+Hal_Sparks/CjkYImmea9c_0000004 252.9 262.8 
+Hal_Sparks/CjkYImmea9c_0000005 267.7 273.4 
+Hal_Sparks/CjkYImmea9c_0000006 273.6 278.4 
+Hal_Sparks/CjkYImmea9c_0000007 285.2 292.6 
+Hal_Sparks/CjkYImmea9c_0000008 293.5 300.9 
+Hal_Sparks/CjkYImmea9c_0000009 358.6 362.6 

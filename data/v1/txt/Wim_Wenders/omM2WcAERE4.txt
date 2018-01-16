@@ -1,0 +1,11 @@
+POI: 			Wim_Wenders 
+Youtube ID: 	omM2WcAERE4 
+Video length: 	599.2 sec 
+Set (V): 		dev 
+ 
+Wim_Wenders/omM2WcAERE4_0000001 187.9 192.1 
+Wim_Wenders/omM2WcAERE4_0000002 279.4 284.1 
+Wim_Wenders/omM2WcAERE4_0000003 320.0 325.0 
+Wim_Wenders/omM2WcAERE4_0000004 434.7 439.0 
+Wim_Wenders/omM2WcAERE4_0000005 450.1 454.4 
+Wim_Wenders/omM2WcAERE4_0000006 554.4 558.3 

@@ -1,0 +1,14 @@
+POI: 			Chris_Hemsworth 
+Youtube ID: 	r9mCHHMy73M 
+Video length: 	350.1 sec 
+Set (V): 		dev 
+ 
+Chris_Hemsworth/r9mCHHMy73M_0000001 49.3 57.8 
+Chris_Hemsworth/r9mCHHMy73M_0000002 78.5 90.6 
+Chris_Hemsworth/r9mCHHMy73M_0000003 121.2 126.4 
+Chris_Hemsworth/r9mCHHMy73M_0000004 149.8 159.3 
+Chris_Hemsworth/r9mCHHMy73M_0000005 159.4 163.9 
+Chris_Hemsworth/r9mCHHMy73M_0000006 164.0 170.6 
+Chris_Hemsworth/r9mCHHMy73M_0000007 189.2 199.1 
+Chris_Hemsworth/r9mCHHMy73M_0000008 231.4 237.7 
+Chris_Hemsworth/r9mCHHMy73M_0000009 252.7 258.0 

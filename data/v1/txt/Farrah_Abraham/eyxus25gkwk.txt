@@ -1,0 +1,7 @@
+POI: 			Farrah_Abraham 
+Youtube ID: 	eyxus25gkwk 
+Video length: 	160.7 sec 
+Set (V): 		dev 
+ 
+Farrah_Abraham/eyxus25gkwk_0000001 29.2 36.8 
+Farrah_Abraham/eyxus25gkwk_0000002 85.1 97.2 

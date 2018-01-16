@@ -1,0 +1,14 @@
+POI: 			Ashley_Greene 
+Youtube ID: 	P189HeBt8Ig 
+Video length: 	154.3 sec 
+Set (V): 		dev 
+ 
+Ashley_Greene/P189HeBt8Ig_0000001 03.4 19.9 
+Ashley_Greene/P189HeBt8Ig_0000002 25.7 30.0 
+Ashley_Greene/P189HeBt8Ig_0000003 52.0 58.1 
+Ashley_Greene/P189HeBt8Ig_0000004 70.1 80.6 
+Ashley_Greene/P189HeBt8Ig_0000005 80.8 89.3 
+Ashley_Greene/P189HeBt8Ig_0000006 91.2 95.4 
+Ashley_Greene/P189HeBt8Ig_0000007 104.4 108.6 
+Ashley_Greene/P189HeBt8Ig_0000008 109.1 126.8 
+Ashley_Greene/P189HeBt8Ig_0000009 134.0 138.4 

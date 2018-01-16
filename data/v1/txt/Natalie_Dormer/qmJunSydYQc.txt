@@ -1,0 +1,7 @@
+POI: 			Natalie_Dormer 
+Youtube ID: 	qmJunSydYQc 
+Video length: 	105.0 sec 
+Set (V): 		dev 
+ 
+Natalie_Dormer/qmJunSydYQc_0000001 21.6 31.1 
+Natalie_Dormer/qmJunSydYQc_0000002 70.2 76.5 

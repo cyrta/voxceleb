@@ -1,0 +1,7 @@
+POI: 			Andrew_Scott 
+Youtube ID: 	QMtsredZRAg 
+Video length: 	116.6 sec 
+Set (V): 		dev 
+ 
+Andrew_Scott/QMtsredZRAg_0000001 60.6 67.5 
+Andrew_Scott/QMtsredZRAg_0000002 102.0 107.1 

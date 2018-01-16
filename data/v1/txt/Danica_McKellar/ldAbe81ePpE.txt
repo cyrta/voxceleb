@@ -1,0 +1,10 @@
+POI: 			Danica_McKellar 
+Youtube ID: 	ldAbe81ePpE 
+Video length: 	124.5 sec 
+Set (V): 		dev 
+ 
+Danica_McKellar/ldAbe81ePpE_0000001 26.0 30.2 
+Danica_McKellar/ldAbe81ePpE_0000002 44.5 51.8 
+Danica_McKellar/ldAbe81ePpE_0000003 71.6 81.0 
+Danica_McKellar/ldAbe81ePpE_0000004 89.9 94.4 
+Danica_McKellar/ldAbe81ePpE_0000005 107.8 112.8 

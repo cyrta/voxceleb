@@ -1,0 +1,13 @@
+POI: 			Carrie_Fisher 
+Youtube ID: 	DhwQt-snchY 
+Video length: 	260.3 sec 
+Set (V): 		dev 
+ 
+Carrie_Fisher/DhwQt-snchY_0000001 14.4 20.6 
+Carrie_Fisher/DhwQt-snchY_0000002 149.0 153.0 
+Carrie_Fisher/DhwQt-snchY_0000003 180.3 187.5 
+Carrie_Fisher/DhwQt-snchY_0000004 194.0 198.0 
+Carrie_Fisher/DhwQt-snchY_0000005 208.1 217.2 
+Carrie_Fisher/DhwQt-snchY_0000006 226.9 230.9 
+Carrie_Fisher/DhwQt-snchY_0000007 248.0 253.2 
+Carrie_Fisher/DhwQt-snchY_0000008 253.4 258.9 

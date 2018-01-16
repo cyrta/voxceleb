@@ -1,0 +1,9 @@
+POI: 			Mischa_Barton 
+Youtube ID: 	CsWIlHMeSvQ 
+Video length: 	301.4 sec 
+Set (V): 		dev 
+ 
+Mischa_Barton/CsWIlHMeSvQ_0000001 24.1 32.8 
+Mischa_Barton/CsWIlHMeSvQ_0000002 70.2 74.2 
+Mischa_Barton/CsWIlHMeSvQ_0000003 96.0 107.4 
+Mischa_Barton/CsWIlHMeSvQ_0000004 176.8 184.7 

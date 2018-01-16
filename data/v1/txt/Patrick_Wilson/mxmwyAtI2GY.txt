@@ -1,0 +1,12 @@
+POI: 			Patrick_Wilson 
+Youtube ID: 	mxmwyAtI2GY 
+Video length: 	304.8 sec 
+Set (V): 		dev 
+ 
+Patrick_Wilson/mxmwyAtI2GY_0000001 134.8 140.9 
+Patrick_Wilson/mxmwyAtI2GY_0000002 147.2 153.7 
+Patrick_Wilson/mxmwyAtI2GY_0000003 161.7 169.5 
+Patrick_Wilson/mxmwyAtI2GY_0000004 211.2 229.4 
+Patrick_Wilson/mxmwyAtI2GY_0000005 239.9 248.7 
+Patrick_Wilson/mxmwyAtI2GY_0000006 270.0 283.8 
+Patrick_Wilson/mxmwyAtI2GY_0000007 290.6 297.5 

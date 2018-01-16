@@ -1,0 +1,12 @@
+POI: 			Jack_Davenport 
+Youtube ID: 	5nC-qZSbQbg 
+Video length: 	158.4 sec 
+Set (V): 		dev 
+ 
+Jack_Davenport/5nC-qZSbQbg_0000001 14.1 19.9 
+Jack_Davenport/5nC-qZSbQbg_0000002 26.4 30.8 
+Jack_Davenport/5nC-qZSbQbg_0000003 47.2 51.9 
+Jack_Davenport/5nC-qZSbQbg_0000004 52.4 58.8 
+Jack_Davenport/5nC-qZSbQbg_0000005 116.3 122.9 
+Jack_Davenport/5nC-qZSbQbg_0000006 126.7 132.5 
+Jack_Davenport/5nC-qZSbQbg_0000007 140.0 144.2 

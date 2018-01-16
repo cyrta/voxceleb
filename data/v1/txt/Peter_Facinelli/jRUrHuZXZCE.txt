@@ -1,0 +1,36 @@
+POI: 			Peter_Facinelli 
+Youtube ID: 	jRUrHuZXZCE 
+Video length: 	626.7 sec 
+Set (V): 		dev 
+ 
+Peter_Facinelli/jRUrHuZXZCE_0000001 10.5 17.4 
+Peter_Facinelli/jRUrHuZXZCE_0000002 36.0 40.4 
+Peter_Facinelli/jRUrHuZXZCE_0000003 97.4 111.9 
+Peter_Facinelli/jRUrHuZXZCE_0000004 123.0 135.4 
+Peter_Facinelli/jRUrHuZXZCE_0000005 136.6 141.1 
+Peter_Facinelli/jRUrHuZXZCE_0000006 141.2 151.7 
+Peter_Facinelli/jRUrHuZXZCE_0000007 153.6 157.9 
+Peter_Facinelli/jRUrHuZXZCE_0000008 186.0 200.2 
+Peter_Facinelli/jRUrHuZXZCE_0000009 204.6 209.4 
+Peter_Facinelli/jRUrHuZXZCE_0000010 213.6 222.6 
+Peter_Facinelli/jRUrHuZXZCE_0000011 223.6 231.1 
+Peter_Facinelli/jRUrHuZXZCE_0000012 233.7 238.5 
+Peter_Facinelli/jRUrHuZXZCE_0000013 264.6 273.2 
+Peter_Facinelli/jRUrHuZXZCE_0000014 283.2 288.9 
+Peter_Facinelli/jRUrHuZXZCE_0000015 292.9 300.2 
+Peter_Facinelli/jRUrHuZXZCE_0000016 304.3 316.8 
+Peter_Facinelli/jRUrHuZXZCE_0000017 327.6 338.8 
+Peter_Facinelli/jRUrHuZXZCE_0000018 342.5 346.9 
+Peter_Facinelli/jRUrHuZXZCE_0000019 351.1 361.5 
+Peter_Facinelli/jRUrHuZXZCE_0000020 362.2 382.7 
+Peter_Facinelli/jRUrHuZXZCE_0000021 395.7 400.4 
+Peter_Facinelli/jRUrHuZXZCE_0000022 400.6 412.2 
+Peter_Facinelli/jRUrHuZXZCE_0000023 428.1 441.1 
+Peter_Facinelli/jRUrHuZXZCE_0000024 446.4 452.0 
+Peter_Facinelli/jRUrHuZXZCE_0000025 458.4 468.3 
+Peter_Facinelli/jRUrHuZXZCE_0000026 469.0 485.8 
+Peter_Facinelli/jRUrHuZXZCE_0000027 490.9 498.0 
+Peter_Facinelli/jRUrHuZXZCE_0000028 551.4 558.1 
+Peter_Facinelli/jRUrHuZXZCE_0000029 559.0 567.9 
+Peter_Facinelli/jRUrHuZXZCE_0000030 586.7 600.0 
+Peter_Facinelli/jRUrHuZXZCE_0000031 601.9 620.1 

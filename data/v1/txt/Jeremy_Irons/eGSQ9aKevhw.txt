@@ -1,0 +1,9 @@
+POI: 			Jeremy_Irons 
+Youtube ID: 	eGSQ9aKevhw 
+Video length: 	241.0 sec 
+Set (V): 		dev 
+ 
+Jeremy_Irons/eGSQ9aKevhw_0000001 56.6 65.3 
+Jeremy_Irons/eGSQ9aKevhw_0000002 118.4 124.8 
+Jeremy_Irons/eGSQ9aKevhw_0000003 167.8 172.6 
+Jeremy_Irons/eGSQ9aKevhw_0000004 183.0 195.1 

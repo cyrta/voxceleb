@@ -1,0 +1,7 @@
+POI: 			Adam_Driver 
+Youtube ID: 	Mb2crBji7Cc 
+Video length: 	148.8 sec 
+Set (V): 		dev 
+ 
+Adam_Driver/Mb2crBji7Cc_0000001 49.9 56.0 
+Adam_Driver/Mb2crBji7Cc_0000002 61.5 65.9 

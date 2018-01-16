@@ -1,0 +1,7 @@
+POI: 			MyAnna_Buring 
+Youtube ID: 	xVxIMAwnHaI 
+Video length: 	182.8 sec 
+Set (V): 		dev 
+ 
+MyAnna_Buring/xVxIMAwnHaI_0000001 52.4 58.4 
+MyAnna_Buring/xVxIMAwnHaI_0000002 64.3 69.1 

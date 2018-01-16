@@ -1,0 +1,11 @@
+POI: 			Irina_Shayk 
+Youtube ID: 	oNpbIhnUFP8 
+Video length: 	389.1 sec 
+Set (V): 		dev 
+ 
+Irina_Shayk/oNpbIhnUFP8_0000001 88.2 99.7 
+Irina_Shayk/oNpbIhnUFP8_0000002 102.4 112.9 
+Irina_Shayk/oNpbIhnUFP8_0000003 141.0 148.0 
+Irina_Shayk/oNpbIhnUFP8_0000004 160.8 175.8 
+Irina_Shayk/oNpbIhnUFP8_0000005 177.5 185.0 
+Irina_Shayk/oNpbIhnUFP8_0000006 270.1 277.4 

@@ -1,0 +1,12 @@
+POI: 			Patrick_Dempsey 
+Youtube ID: 	NsekcvJ57cs 
+Video length: 	145.1 sec 
+Set (V): 		dev 
+ 
+Patrick_Dempsey/NsekcvJ57cs_0000001 20.5 26.1 
+Patrick_Dempsey/NsekcvJ57cs_0000002 26.8 31.7 
+Patrick_Dempsey/NsekcvJ57cs_0000003 32.7 44.6 
+Patrick_Dempsey/NsekcvJ57cs_0000004 45.6 65.3 
+Patrick_Dempsey/NsekcvJ57cs_0000005 67.2 95.0 
+Patrick_Dempsey/NsekcvJ57cs_0000006 97.7 123.8 
+Patrick_Dempsey/NsekcvJ57cs_0000007 124.0 130.8 

@@ -1,0 +1,7 @@
+POI: 			Kate_Mulgrew 
+Youtube ID: 	18tHpFt0Lxg 
+Video length: 	523.0 sec 
+Set (V): 		dev 
+ 
+Kate_Mulgrew/18tHpFt0Lxg_0000001 296.2 301.6 
+Kate_Mulgrew/18tHpFt0Lxg_0000002 382.6 388.3 

@@ -1,0 +1,11 @@
+POI: 			Rene_Auberjonois 
+Youtube ID: 	pL-7rUMGwLQ 
+Video length: 	250.0 sec 
+Set (V): 		dev 
+ 
+Rene_Auberjonois/pL-7rUMGwLQ_0000001 31.9 36.4 
+Rene_Auberjonois/pL-7rUMGwLQ_0000002 40.3 52.4 
+Rene_Auberjonois/pL-7rUMGwLQ_0000003 53.4 58.9 
+Rene_Auberjonois/pL-7rUMGwLQ_0000004 73.6 82.0 
+Rene_Auberjonois/pL-7rUMGwLQ_0000005 93.0 97.9 
+Rene_Auberjonois/pL-7rUMGwLQ_0000006 140.2 144.8 

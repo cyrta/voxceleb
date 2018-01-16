@@ -1,0 +1,12 @@
+POI: 			Dawn_French 
+Youtube ID: 	7vZn8jyM98g 
+Video length: 	386.6 sec 
+Set (V): 		dev 
+ 
+Dawn_French/7vZn8jyM98g_0000001 29.6 33.9 
+Dawn_French/7vZn8jyM98g_0000002 149.6 155.0 
+Dawn_French/7vZn8jyM98g_0000003 156.9 172.6 
+Dawn_French/7vZn8jyM98g_0000004 184.7 193.4 
+Dawn_French/7vZn8jyM98g_0000005 243.1 249.4 
+Dawn_French/7vZn8jyM98g_0000006 305.4 318.5 
+Dawn_French/7vZn8jyM98g_0000007 355.8 363.7 

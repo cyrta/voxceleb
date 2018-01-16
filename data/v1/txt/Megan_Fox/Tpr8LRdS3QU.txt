@@ -1,0 +1,7 @@
+POI: 			Megan_Fox 
+Youtube ID: 	Tpr8LRdS3QU 
+Video length: 	238.5 sec 
+Set (V): 		dev 
+ 
+Megan_Fox/Tpr8LRdS3QU_0000001 218.8 223.0 
+Megan_Fox/Tpr8LRdS3QU_0000002 224.0 229.0 

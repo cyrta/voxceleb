@@ -1,0 +1,8 @@
+POI: 			William_Levy 
+Youtube ID: 	BS41BUepTfY 
+Video length: 	126.7 sec 
+Set (V): 		dev 
+ 
+William_Levy/BS41BUepTfY_0000001 00.8 08.9 
+William_Levy/BS41BUepTfY_0000002 09.8 47.3 
+William_Levy/BS41BUepTfY_0000003 49.8 56.6 

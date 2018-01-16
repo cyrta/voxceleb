@@ -1,0 +1,36 @@
+POI: 			Sharon_Gless 
+Youtube ID: 	Blt_H-Qq1jM 
+Video length: 	506.0 sec 
+Set (V): 		dev 
+ 
+Sharon_Gless/Blt_H-Qq1jM_0000001 19.2 24.8 
+Sharon_Gless/Blt_H-Qq1jM_0000002 32.8 37.4 
+Sharon_Gless/Blt_H-Qq1jM_0000003 44.3 49.1 
+Sharon_Gless/Blt_H-Qq1jM_0000004 51.8 59.7 
+Sharon_Gless/Blt_H-Qq1jM_0000005 67.4 73.9 
+Sharon_Gless/Blt_H-Qq1jM_0000006 83.2 88.1 
+Sharon_Gless/Blt_H-Qq1jM_0000007 90.7 100.7 
+Sharon_Gless/Blt_H-Qq1jM_0000008 67.2 74.0 
+Sharon_Gless/Blt_H-Qq1jM_0000009 151.8 157.0 
+Sharon_Gless/Blt_H-Qq1jM_0000010 160.5 172.3 
+Sharon_Gless/Blt_H-Qq1jM_0000011 125.8 131.8 
+Sharon_Gless/Blt_H-Qq1jM_0000012 147.6 151.6 
+Sharon_Gless/Blt_H-Qq1jM_0000013 180.8 189.8 
+Sharon_Gless/Blt_H-Qq1jM_0000014 249.7 253.8 
+Sharon_Gless/Blt_H-Qq1jM_0000015 256.4 262.0 
+Sharon_Gless/Blt_H-Qq1jM_0000016 302.5 318.0 
+Sharon_Gless/Blt_H-Qq1jM_0000017 206.9 212.8 
+Sharon_Gless/Blt_H-Qq1jM_0000018 249.8 254.0 
+Sharon_Gless/Blt_H-Qq1jM_0000019 256.6 262.1 
+Sharon_Gless/Blt_H-Qq1jM_0000020 263.8 271.7 
+Sharon_Gless/Blt_H-Qq1jM_0000021 303.1 307.8 
+Sharon_Gless/Blt_H-Qq1jM_0000022 308.0 318.1 
+Sharon_Gless/Blt_H-Qq1jM_0000023 336.8 351.4 
+Sharon_Gless/Blt_H-Qq1jM_0000024 360.6 370.3 
+Sharon_Gless/Blt_H-Qq1jM_0000025 372.6 377.3 
+Sharon_Gless/Blt_H-Qq1jM_0000026 384.2 389.2 
+Sharon_Gless/Blt_H-Qq1jM_0000027 405.4 420.6 
+Sharon_Gless/Blt_H-Qq1jM_0000028 433.3 440.8 
+Sharon_Gless/Blt_H-Qq1jM_0000029 441.5 445.8 
+Sharon_Gless/Blt_H-Qq1jM_0000030 466.0 472.1 
+Sharon_Gless/Blt_H-Qq1jM_0000031 472.9 488.2 

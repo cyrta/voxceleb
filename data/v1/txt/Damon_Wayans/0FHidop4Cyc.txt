@@ -1,0 +1,15 @@
+POI: 			Damon_Wayans 
+Youtube ID: 	0FHidop4Cyc 
+Video length: 	238.1 sec 
+Set (V): 		dev 
+ 
+Damon_Wayans/0FHidop4Cyc_0000001 20.6 26.7 
+Damon_Wayans/0FHidop4Cyc_0000002 26.8 33.2 
+Damon_Wayans/0FHidop4Cyc_0000003 40.5 45.0 
+Damon_Wayans/0FHidop4Cyc_0000004 86.4 95.2 
+Damon_Wayans/0FHidop4Cyc_0000005 59.6 63.9 
+Damon_Wayans/0FHidop4Cyc_0000006 88.2 95.0 
+Damon_Wayans/0FHidop4Cyc_0000007 120.6 125.0 
+Damon_Wayans/0FHidop4Cyc_0000008 157.6 163.4 
+Damon_Wayans/0FHidop4Cyc_0000009 166.0 171.6 
+Damon_Wayans/0FHidop4Cyc_0000010 201.2 206.4 

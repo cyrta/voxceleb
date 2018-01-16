@@ -1,0 +1,21 @@
+POI: 			Lesley_Manville 
+Youtube ID: 	3Z_wL_GTJDA 
+Video length: 	271.1 sec 
+Set (V): 		dev 
+ 
+Lesley_Manville/3Z_wL_GTJDA_0000001 13.5 17.5 
+Lesley_Manville/3Z_wL_GTJDA_0000002 35.9 40.8 
+Lesley_Manville/3Z_wL_GTJDA_0000003 47.2 63.0 
+Lesley_Manville/3Z_wL_GTJDA_0000004 60.0 69.6 
+Lesley_Manville/3Z_wL_GTJDA_0000005 71.8 78.2 
+Lesley_Manville/3Z_wL_GTJDA_0000006 92.6 100.2 
+Lesley_Manville/3Z_wL_GTJDA_0000007 115.5 122.7 
+Lesley_Manville/3Z_wL_GTJDA_0000008 143.0 148.7 
+Lesley_Manville/3Z_wL_GTJDA_0000009 149.9 155.2 
+Lesley_Manville/3Z_wL_GTJDA_0000010 163.2 168.9 
+Lesley_Manville/3Z_wL_GTJDA_0000011 171.0 177.4 
+Lesley_Manville/3Z_wL_GTJDA_0000012 192.4 201.3 
+Lesley_Manville/3Z_wL_GTJDA_0000013 205.4 209.6 
+Lesley_Manville/3Z_wL_GTJDA_0000014 220.6 229.8 
+Lesley_Manville/3Z_wL_GTJDA_0000015 235.1 244.2 
+Lesley_Manville/3Z_wL_GTJDA_0000016 258.4 265.5 

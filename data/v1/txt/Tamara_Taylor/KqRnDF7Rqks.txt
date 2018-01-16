@@ -1,0 +1,12 @@
+POI: 			Tamara_Taylor 
+Youtube ID: 	KqRnDF7Rqks 
+Video length: 	125.2 sec 
+Set (V): 		dev 
+ 
+Tamara_Taylor/KqRnDF7Rqks_0000001 08.4 14.9 
+Tamara_Taylor/KqRnDF7Rqks_0000002 15.0 26.7 
+Tamara_Taylor/KqRnDF7Rqks_0000003 27.1 33.1 
+Tamara_Taylor/KqRnDF7Rqks_0000004 40.8 46.5 
+Tamara_Taylor/KqRnDF7Rqks_0000005 47.2 51.2 
+Tamara_Taylor/KqRnDF7Rqks_0000006 69.6 88.8 
+Tamara_Taylor/KqRnDF7Rqks_0000007 107.7 115.0 

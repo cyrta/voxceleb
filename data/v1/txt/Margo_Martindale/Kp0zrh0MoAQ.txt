@@ -1,0 +1,7 @@
+POI: 			Margo_Martindale 
+Youtube ID: 	Kp0zrh0MoAQ 
+Video length: 	145.9 sec 
+Set (V): 		dev 
+ 
+Margo_Martindale/Kp0zrh0MoAQ_0000001 31.3 38.0 
+Margo_Martindale/Kp0zrh0MoAQ_0000002 52.8 58.2 

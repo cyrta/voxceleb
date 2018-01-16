@@ -1,0 +1,10 @@
+POI: 			Olivia_Colman 
+Youtube ID: 	5vpp5tG8Hl8 
+Video length: 	277.4 sec 
+Set (V): 		dev 
+ 
+Olivia_Colman/5vpp5tG8Hl8_0000001 52.0 58.8 
+Olivia_Colman/5vpp5tG8Hl8_0000002 70.6 75.0 
+Olivia_Colman/5vpp5tG8Hl8_0000003 174.5 179.4 
+Olivia_Colman/5vpp5tG8Hl8_0000004 184.4 191.8 
+Olivia_Colman/5vpp5tG8Hl8_0000005 201.0 205.4 

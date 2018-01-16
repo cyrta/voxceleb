@@ -1,0 +1,15 @@
+POI: 			Eoin_Macken 
+Youtube ID: 	vD3qGRbmXws 
+Video length: 	233.9 sec 
+Set (V): 		test 
+ 
+Eoin_Macken/vD3qGRbmXws_0000001 12.9 29.0 
+Eoin_Macken/vD3qGRbmXws_0000002 54.0 61.8 
+Eoin_Macken/vD3qGRbmXws_0000003 73.5 88.8 
+Eoin_Macken/vD3qGRbmXws_0000004 91.0 96.5 
+Eoin_Macken/vD3qGRbmXws_0000005 101.2 113.4 
+Eoin_Macken/vD3qGRbmXws_0000006 135.6 140.5 
+Eoin_Macken/vD3qGRbmXws_0000007 141.6 148.4 
+Eoin_Macken/vD3qGRbmXws_0000008 145.7 155.8 
+Eoin_Macken/vD3qGRbmXws_0000009 192.6 201.2 
+Eoin_Macken/vD3qGRbmXws_0000010 201.3 214.0 

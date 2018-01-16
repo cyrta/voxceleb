@@ -1,0 +1,16 @@
+POI: 			Norman_Reedus 
+Youtube ID: 	sLAjxAVaxsg 
+Video length: 	194.6 sec 
+Set (V): 		dev 
+ 
+Norman_Reedus/sLAjxAVaxsg_0000001 20.1 26.6 
+Norman_Reedus/sLAjxAVaxsg_0000002 26.7 31.3 
+Norman_Reedus/sLAjxAVaxsg_0000003 38.4 44.5 
+Norman_Reedus/sLAjxAVaxsg_0000004 47.2 52.7 
+Norman_Reedus/sLAjxAVaxsg_0000005 57.2 64.3 
+Norman_Reedus/sLAjxAVaxsg_0000006 65.6 70.7 
+Norman_Reedus/sLAjxAVaxsg_0000007 106.7 111.9 
+Norman_Reedus/sLAjxAVaxsg_0000008 123.4 129.5 
+Norman_Reedus/sLAjxAVaxsg_0000009 131.6 148.7 
+Norman_Reedus/sLAjxAVaxsg_0000010 156.0 164.6 
+Norman_Reedus/sLAjxAVaxsg_0000011 182.8 187.8 

@@ -1,0 +1,15 @@
+POI: 			Freema_Agyeman 
+Youtube ID: 	nrShtAbues4 
+Video length: 	236.3 sec 
+Set (V): 		dev 
+ 
+Freema_Agyeman/nrShtAbues4_0000001 47.1 57.3 
+Freema_Agyeman/nrShtAbues4_0000002 59.6 65.6 
+Freema_Agyeman/nrShtAbues4_0000003 72.7 84.4 
+Freema_Agyeman/nrShtAbues4_0000004 91.1 96.4 
+Freema_Agyeman/nrShtAbues4_0000005 146.3 151.0 
+Freema_Agyeman/nrShtAbues4_0000006 158.4 166.0 
+Freema_Agyeman/nrShtAbues4_0000007 166.8 173.2 
+Freema_Agyeman/nrShtAbues4_0000008 179.6 201.5 
+Freema_Agyeman/nrShtAbues4_0000009 205.2 211.6 
+Freema_Agyeman/nrShtAbues4_0000010 214.8 226.0 

@@ -1,0 +1,14 @@
+POI: 			Rhys_Ifans 
+Youtube ID: 	eKkz_sTJbqc 
+Video length: 	105.2 sec 
+Set (V): 		dev 
+ 
+Rhys_Ifans/eKkz_sTJbqc_0000001 03.0 07.9 
+Rhys_Ifans/eKkz_sTJbqc_0000002 08.1 12.4 
+Rhys_Ifans/eKkz_sTJbqc_0000003 20.8 28.9 
+Rhys_Ifans/eKkz_sTJbqc_0000004 31.0 39.1 
+Rhys_Ifans/eKkz_sTJbqc_0000005 40.5 44.8 
+Rhys_Ifans/eKkz_sTJbqc_0000006 46.4 65.7 
+Rhys_Ifans/eKkz_sTJbqc_0000007 65.8 75.4 
+Rhys_Ifans/eKkz_sTJbqc_0000008 76.2 81.6 
+Rhys_Ifans/eKkz_sTJbqc_0000009 93.0 97.5 

@@ -1,0 +1,16 @@
+POI: 			Martin_Henderson 
+Youtube ID: 	tDO29I_iNjA 
+Video length: 	250.6 sec 
+Set (V): 		dev 
+ 
+Martin_Henderson/tDO29I_iNjA_0000001 26.9 49.8 
+Martin_Henderson/tDO29I_iNjA_0000002 51.1 66.6 
+Martin_Henderson/tDO29I_iNjA_0000003 79.8 95.0 
+Martin_Henderson/tDO29I_iNjA_0000004 102.4 110.4 
+Martin_Henderson/tDO29I_iNjA_0000005 118.4 154.1 
+Martin_Henderson/tDO29I_iNjA_0000006 157.0 182.8 
+Martin_Henderson/tDO29I_iNjA_0000007 189.2 194.2 
+Martin_Henderson/tDO29I_iNjA_0000008 194.8 198.8 
+Martin_Henderson/tDO29I_iNjA_0000009 210.4 224.1 
+Martin_Henderson/tDO29I_iNjA_0000010 232.1 240.3 
+Martin_Henderson/tDO29I_iNjA_0000011 242.0 248.5 

@@ -1,0 +1,8 @@
+POI: 			Sophie_Okonedo 
+Youtube ID: 	LAlUQxR3qRs 
+Video length: 	120.5 sec 
+Set (V): 		dev 
+ 
+Sophie_Okonedo/LAlUQxR3qRs_0000001 45.3 53.4 
+Sophie_Okonedo/LAlUQxR3qRs_0000002 59.3 66.6 
+Sophie_Okonedo/LAlUQxR3qRs_0000003 72.5 80.0 

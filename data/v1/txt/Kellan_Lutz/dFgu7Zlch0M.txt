@@ -1,0 +1,12 @@
+POI: 			Kellan_Lutz 
+Youtube ID: 	dFgu7Zlch0M 
+Video length: 	146.2 sec 
+Set (V): 		dev 
+ 
+Kellan_Lutz/dFgu7Zlch0M_0000001 13.6 27.6 
+Kellan_Lutz/dFgu7Zlch0M_0000002 28.8 35.8 
+Kellan_Lutz/dFgu7Zlch0M_0000003 53.5 60.6 
+Kellan_Lutz/dFgu7Zlch0M_0000004 68.4 73.7 
+Kellan_Lutz/dFgu7Zlch0M_0000005 86.3 100.0 
+Kellan_Lutz/dFgu7Zlch0M_0000006 102.8 113.5 
+Kellan_Lutz/dFgu7Zlch0M_0000007 114.8 122.0 

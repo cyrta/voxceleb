@@ -1,0 +1,23 @@
+POI: 			Poppy_Montgomery 
+Youtube ID: 	ObvIB1teaa0 
+Video length: 	409.4 sec 
+Set (V): 		dev 
+ 
+Poppy_Montgomery/ObvIB1teaa0_0000001 17.2 24.8 
+Poppy_Montgomery/ObvIB1teaa0_0000002 25.0 31.3 
+Poppy_Montgomery/ObvIB1teaa0_0000003 32.2 44.0 
+Poppy_Montgomery/ObvIB1teaa0_0000004 57.8 84.3 
+Poppy_Montgomery/ObvIB1teaa0_0000005 87.6 98.3 
+Poppy_Montgomery/ObvIB1teaa0_0000006 115.3 120.3 
+Poppy_Montgomery/ObvIB1teaa0_0000007 120.8 134.9 
+Poppy_Montgomery/ObvIB1teaa0_0000008 136.9 144.5 
+Poppy_Montgomery/ObvIB1teaa0_0000009 146.2 153.1 
+Poppy_Montgomery/ObvIB1teaa0_0000010 156.2 162.6 
+Poppy_Montgomery/ObvIB1teaa0_0000011 183.0 197.3 
+Poppy_Montgomery/ObvIB1teaa0_0000012 199.7 215.6 
+Poppy_Montgomery/ObvIB1teaa0_0000013 239.0 256.2 
+Poppy_Montgomery/ObvIB1teaa0_0000014 257.1 272.8 
+Poppy_Montgomery/ObvIB1teaa0_0000015 295.8 320.8 
+Poppy_Montgomery/ObvIB1teaa0_0000016 335.5 348.4 
+Poppy_Montgomery/ObvIB1teaa0_0000017 353.2 364.9 
+Poppy_Montgomery/ObvIB1teaa0_0000018 367.1 389.0 

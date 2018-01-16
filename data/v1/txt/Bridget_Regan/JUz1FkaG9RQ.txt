@@ -1,0 +1,11 @@
+POI: 			Bridget_Regan 
+Youtube ID: 	JUz1FkaG9RQ 
+Video length: 	401.6 sec 
+Set (V): 		dev 
+ 
+Bridget_Regan/JUz1FkaG9RQ_0000001 163.6 168.2 
+Bridget_Regan/JUz1FkaG9RQ_0000002 169.3 174.5 
+Bridget_Regan/JUz1FkaG9RQ_0000003 192.5 201.8 
+Bridget_Regan/JUz1FkaG9RQ_0000004 206.5 210.8 
+Bridget_Regan/JUz1FkaG9RQ_0000005 284.6 294.3 
+Bridget_Regan/JUz1FkaG9RQ_0000006 335.4 341.2 

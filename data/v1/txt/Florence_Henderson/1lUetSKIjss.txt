@@ -1,0 +1,8 @@
+POI: 			Florence_Henderson 
+Youtube ID: 	1lUetSKIjss 
+Video length: 	64.1 sec 
+Set (V): 		dev 
+ 
+Florence_Henderson/1lUetSKIjss_0000001 10.5 18.2 
+Florence_Henderson/1lUetSKIjss_0000002 18.5 22.6 
+Florence_Henderson/1lUetSKIjss_0000003 33.7 59.2 

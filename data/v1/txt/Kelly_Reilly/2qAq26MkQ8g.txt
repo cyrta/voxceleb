@@ -1,0 +1,10 @@
+POI: 			Kelly_Reilly 
+Youtube ID: 	2qAq26MkQ8g 
+Video length: 	323.3 sec 
+Set (V): 		dev 
+ 
+Kelly_Reilly/2qAq26MkQ8g_0000001 35.8 39.8 
+Kelly_Reilly/2qAq26MkQ8g_0000002 195.7 200.1 
+Kelly_Reilly/2qAq26MkQ8g_0000003 223.8 229.2 
+Kelly_Reilly/2qAq26MkQ8g_0000004 230.8 237.7 
+Kelly_Reilly/2qAq26MkQ8g_0000005 299.3 304.5 

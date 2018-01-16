@@ -1,0 +1,15 @@
+POI: 			Sonja_Sohn 
+Youtube ID: 	snxdPe9DU2Y 
+Video length: 	604.1 sec 
+Set (V): 		dev 
+ 
+Sonja_Sohn/snxdPe9DU2Y_0000001 161.6 165.6 
+Sonja_Sohn/snxdPe9DU2Y_0000002 165.8 171.5 
+Sonja_Sohn/snxdPe9DU2Y_0000003 184.6 189.4 
+Sonja_Sohn/snxdPe9DU2Y_0000004 220.4 228.4 
+Sonja_Sohn/snxdPe9DU2Y_0000005 234.0 238.9 
+Sonja_Sohn/snxdPe9DU2Y_0000006 250.3 254.8 
+Sonja_Sohn/snxdPe9DU2Y_0000007 352.4 357.3 
+Sonja_Sohn/snxdPe9DU2Y_0000008 357.4 361.6 
+Sonja_Sohn/snxdPe9DU2Y_0000009 371.3 377.2 
+Sonja_Sohn/snxdPe9DU2Y_0000010 420.6 425.4 

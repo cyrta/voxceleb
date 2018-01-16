@@ -1,0 +1,9 @@
+POI: 			Stephen_Baldwin 
+Youtube ID: 	SC4NA2aDjyM 
+Video length: 	329.7 sec 
+Set (V): 		dev 
+ 
+Stephen_Baldwin/SC4NA2aDjyM_0000001 73.1 78.6 
+Stephen_Baldwin/SC4NA2aDjyM_0000002 78.7 84.9 
+Stephen_Baldwin/SC4NA2aDjyM_0000003 299.2 304.2 
+Stephen_Baldwin/SC4NA2aDjyM_0000004 305.4 317.5 

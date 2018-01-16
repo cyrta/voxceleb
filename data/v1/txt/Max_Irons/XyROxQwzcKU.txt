@@ -1,0 +1,14 @@
+POI: 			Max_Irons 
+Youtube ID: 	XyROxQwzcKU 
+Video length: 	330.8 sec 
+Set (V): 		dev 
+ 
+Max_Irons/XyROxQwzcKU_0000001 28.4 35.3 
+Max_Irons/XyROxQwzcKU_0000002 166.5 173.0 
+Max_Irons/XyROxQwzcKU_0000003 173.9 178.3 
+Max_Irons/XyROxQwzcKU_0000004 178.6 187.2 
+Max_Irons/XyROxQwzcKU_0000005 191.5 201.2 
+Max_Irons/XyROxQwzcKU_0000006 201.9 209.2 
+Max_Irons/XyROxQwzcKU_0000007 291.8 297.3 
+Max_Irons/XyROxQwzcKU_0000008 297.6 303.9 
+Max_Irons/XyROxQwzcKU_0000009 305.8 310.4 

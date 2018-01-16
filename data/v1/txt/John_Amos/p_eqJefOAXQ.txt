@@ -1,0 +1,16 @@
+POI: 			John_Amos 
+Youtube ID: 	p_eqJefOAXQ 
+Video length: 	188.4 sec 
+Set (V): 		dev 
+ 
+John_Amos/p_eqJefOAXQ_0000001 11.7 16.3 
+John_Amos/p_eqJefOAXQ_0000002 25.2 31.1 
+John_Amos/p_eqJefOAXQ_0000003 37.9 42.5 
+John_Amos/p_eqJefOAXQ_0000004 42.8 47.9 
+John_Amos/p_eqJefOAXQ_0000005 68.5 73.5 
+John_Amos/p_eqJefOAXQ_0000006 75.5 80.6 
+John_Amos/p_eqJefOAXQ_0000007 81.5 96.9 
+John_Amos/p_eqJefOAXQ_0000008 90.8 98.0 
+John_Amos/p_eqJefOAXQ_0000009 98.3 104.1 
+John_Amos/p_eqJefOAXQ_0000010 105.1 117.8 
+John_Amos/p_eqJefOAXQ_0000011 128.9 139.6 

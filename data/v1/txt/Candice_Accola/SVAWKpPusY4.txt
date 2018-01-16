@@ -1,0 +1,11 @@
+POI: 			Candice_Accola 
+Youtube ID: 	SVAWKpPusY4 
+Video length: 	175.5 sec 
+Set (V): 		dev 
+ 
+Candice_Accola/SVAWKpPusY4_0000001 26.5 31.6 
+Candice_Accola/SVAWKpPusY4_0000002 54.4 74.4 
+Candice_Accola/SVAWKpPusY4_0000003 92.7 96.7 
+Candice_Accola/SVAWKpPusY4_0000004 101.7 111.5 
+Candice_Accola/SVAWKpPusY4_0000005 137.6 142.6 
+Candice_Accola/SVAWKpPusY4_0000006 156.9 162.4 

@@ -1,0 +1,13 @@
+POI: 			Nathaniel_Buzolic 
+Youtube ID: 	Z5DAT-MfKyU 
+Video length: 	337.2 sec 
+Set (V): 		dev 
+ 
+Nathaniel_Buzolic/Z5DAT-MfKyU_0000001 66.2 72.2 
+Nathaniel_Buzolic/Z5DAT-MfKyU_0000002 119.0 127.2 
+Nathaniel_Buzolic/Z5DAT-MfKyU_0000003 127.8 132.3 
+Nathaniel_Buzolic/Z5DAT-MfKyU_0000004 132.7 145.4 
+Nathaniel_Buzolic/Z5DAT-MfKyU_0000005 145.5 154.3 
+Nathaniel_Buzolic/Z5DAT-MfKyU_0000006 204.2 213.2 
+Nathaniel_Buzolic/Z5DAT-MfKyU_0000007 238.6 243.2 
+Nathaniel_Buzolic/Z5DAT-MfKyU_0000008 285.6 290.5 

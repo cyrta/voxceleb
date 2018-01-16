@@ -1,0 +1,10 @@
+POI: 			John_Larroquette 
+Youtube ID: 	88cVZawr-x0 
+Video length: 	2384.5 sec 
+Set (V): 		dev 
+ 
+John_Larroquette/88cVZawr-x0_0000001 1303.7 1309.6 
+John_Larroquette/88cVZawr-x0_0000002 1370.4 1378.1 
+John_Larroquette/88cVZawr-x0_0000003 1479.9 1483.9 
+John_Larroquette/88cVZawr-x0_0000004 1695.2 1700.0 
+John_Larroquette/88cVZawr-x0_0000005 1768.4 1772.7 

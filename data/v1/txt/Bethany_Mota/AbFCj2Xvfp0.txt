@@ -1,0 +1,8 @@
+POI: 			Bethany_Mota 
+Youtube ID: 	AbFCj2Xvfp0 
+Video length: 	193.5 sec 
+Set (V): 		dev 
+ 
+Bethany_Mota/AbFCj2Xvfp0_0000001 59.4 63.8 
+Bethany_Mota/AbFCj2Xvfp0_0000002 66.2 70.2 
+Bethany_Mota/AbFCj2Xvfp0_0000003 170.5 175.6 

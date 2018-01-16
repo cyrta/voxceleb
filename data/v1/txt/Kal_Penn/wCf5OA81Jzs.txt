@@ -1,0 +1,12 @@
+POI: 			Kal_Penn 
+Youtube ID: 	wCf5OA81Jzs 
+Video length: 	260.8 sec 
+Set (V): 		dev 
+ 
+Kal_Penn/wCf5OA81Jzs_0000001 66.1 82.2 
+Kal_Penn/wCf5OA81Jzs_0000002 91.3 95.8 
+Kal_Penn/wCf5OA81Jzs_0000003 97.0 107.1 
+Kal_Penn/wCf5OA81Jzs_0000004 107.3 130.1 
+Kal_Penn/wCf5OA81Jzs_0000005 131.0 138.3 
+Kal_Penn/wCf5OA81Jzs_0000006 190.6 209.1 
+Kal_Penn/wCf5OA81Jzs_0000007 209.4 216.6 

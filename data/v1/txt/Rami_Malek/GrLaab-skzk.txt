@@ -1,0 +1,8 @@
+POI: 			Rami_Malek 
+Youtube ID: 	GrLaab-skzk 
+Video length: 	197.8 sec 
+Set (V): 		dev 
+ 
+Rami_Malek/GrLaab-skzk_0000001 24.3 29.2 
+Rami_Malek/GrLaab-skzk_0000002 30.0 34.2 
+Rami_Malek/GrLaab-skzk_0000003 40.3 45.1 

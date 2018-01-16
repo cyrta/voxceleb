@@ -1,0 +1,7 @@
+POI: 			Alex_Pettyfer 
+Youtube ID: 	3GgSfYFNoao 
+Video length: 	108.4 sec 
+Set (V): 		dev 
+ 
+Alex_Pettyfer/3GgSfYFNoao_0000001 39.2 43.5 
+Alex_Pettyfer/3GgSfYFNoao_0000002 59.6 66.4 

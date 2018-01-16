@@ -1,0 +1,7 @@
+POI: 			Christina_Hendricks 
+Youtube ID: 	9hL8MI1UdGE 
+Video length: 	226.1 sec 
+Set (V): 		dev 
+ 
+Christina_Hendricks/9hL8MI1UdGE_0000001 143.7 148.0 
+Christina_Hendricks/9hL8MI1UdGE_0000002 157.5 161.7 

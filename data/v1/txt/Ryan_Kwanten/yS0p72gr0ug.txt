@@ -1,0 +1,12 @@
+POI: 			Ryan_Kwanten 
+Youtube ID: 	yS0p72gr0ug 
+Video length: 	213.9 sec 
+Set (V): 		dev 
+ 
+Ryan_Kwanten/yS0p72gr0ug_0000001 59.4 66.7 
+Ryan_Kwanten/yS0p72gr0ug_0000002 90.4 94.5 
+Ryan_Kwanten/yS0p72gr0ug_0000003 112.2 118.6 
+Ryan_Kwanten/yS0p72gr0ug_0000004 132.9 137.9 
+Ryan_Kwanten/yS0p72gr0ug_0000005 138.0 146.6 
+Ryan_Kwanten/yS0p72gr0ug_0000006 174.5 179.6 
+Ryan_Kwanten/yS0p72gr0ug_0000007 181.4 188.6 

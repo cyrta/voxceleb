@@ -1,0 +1,11 @@
+POI: 			Seth_MacFarlane 
+Youtube ID: 	h3wqMIxonDU 
+Video length: 	291.2 sec 
+Set (V): 		dev 
+ 
+Seth_MacFarlane/h3wqMIxonDU_0000001 38.4 49.6 
+Seth_MacFarlane/h3wqMIxonDU_0000002 101.4 117.1 
+Seth_MacFarlane/h3wqMIxonDU_0000003 123.8 128.7 
+Seth_MacFarlane/h3wqMIxonDU_0000004 136.2 146.1 
+Seth_MacFarlane/h3wqMIxonDU_0000005 236.4 247.8 
+Seth_MacFarlane/h3wqMIxonDU_0000006 276.0 280.2 

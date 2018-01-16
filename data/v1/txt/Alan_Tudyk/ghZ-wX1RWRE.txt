@@ -1,0 +1,7 @@
+POI: 			Alan_Tudyk 
+Youtube ID: 	ghZ-wX1RWRE 
+Video length: 	109.7 sec 
+Set (V): 		dev 
+ 
+Alan_Tudyk/ghZ-wX1RWRE_0000001 17.1 21.3 
+Alan_Tudyk/ghZ-wX1RWRE_0000002 46.8 65.6 

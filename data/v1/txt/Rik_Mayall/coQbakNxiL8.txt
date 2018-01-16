@@ -1,0 +1,12 @@
+POI: 			Rik_Mayall 
+Youtube ID: 	coQbakNxiL8 
+Video length: 	419.9 sec 
+Set (V): 		dev 
+ 
+Rik_Mayall/coQbakNxiL8_0000001 30.2 37.4 
+Rik_Mayall/coQbakNxiL8_0000002 49.2 55.0 
+Rik_Mayall/coQbakNxiL8_0000003 99.5 104.6 
+Rik_Mayall/coQbakNxiL8_0000004 173.1 183.1 
+Rik_Mayall/coQbakNxiL8_0000005 183.2 188.1 
+Rik_Mayall/coQbakNxiL8_0000006 277.1 282.2 
+Rik_Mayall/coQbakNxiL8_0000007 288.9 298.5 

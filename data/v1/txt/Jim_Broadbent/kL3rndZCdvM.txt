@@ -1,0 +1,26 @@
+POI: 			Jim_Broadbent 
+Youtube ID: 	kL3rndZCdvM 
+Video length: 	574.7 sec 
+Set (V): 		dev 
+ 
+Jim_Broadbent/kL3rndZCdvM_0000001 28.4 33.4 
+Jim_Broadbent/kL3rndZCdvM_0000002 39.9 47.9 
+Jim_Broadbent/kL3rndZCdvM_0000003 48.6 54.4 
+Jim_Broadbent/kL3rndZCdvM_0000004 64.0 68.6 
+Jim_Broadbent/kL3rndZCdvM_0000005 94.8 100.2 
+Jim_Broadbent/kL3rndZCdvM_0000006 103.0 107.9 
+Jim_Broadbent/kL3rndZCdvM_0000007 109.2 115.6 
+Jim_Broadbent/kL3rndZCdvM_0000008 142.0 146.0 
+Jim_Broadbent/kL3rndZCdvM_0000009 168.9 173.8 
+Jim_Broadbent/kL3rndZCdvM_0000010 201.9 206.3 
+Jim_Broadbent/kL3rndZCdvM_0000011 207.9 214.4 
+Jim_Broadbent/kL3rndZCdvM_0000012 231.3 235.5 
+Jim_Broadbent/kL3rndZCdvM_0000013 268.3 278.4 
+Jim_Broadbent/kL3rndZCdvM_0000014 290.6 294.7 
+Jim_Broadbent/kL3rndZCdvM_0000015 320.9 328.4 
+Jim_Broadbent/kL3rndZCdvM_0000016 333.3 337.2 
+Jim_Broadbent/kL3rndZCdvM_0000017 379.8 384.2 
+Jim_Broadbent/kL3rndZCdvM_0000018 396.1 401.0 
+Jim_Broadbent/kL3rndZCdvM_0000019 424.9 432.3 
+Jim_Broadbent/kL3rndZCdvM_0000020 484.6 489.8 
+Jim_Broadbent/kL3rndZCdvM_0000021 491.1 501.7 

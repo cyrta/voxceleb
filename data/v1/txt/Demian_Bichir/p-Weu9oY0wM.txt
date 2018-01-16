@@ -1,0 +1,11 @@
+POI: 			Demian_Bichir 
+Youtube ID: 	p-Weu9oY0wM 
+Video length: 	278.1 sec 
+Set (V): 		dev 
+ 
+Demian_Bichir/p-Weu9oY0wM_0000001 79.7 84.3 
+Demian_Bichir/p-Weu9oY0wM_0000002 95.5 104.0 
+Demian_Bichir/p-Weu9oY0wM_0000003 105.2 110.5 
+Demian_Bichir/p-Weu9oY0wM_0000004 110.9 120.9 
+Demian_Bichir/p-Weu9oY0wM_0000005 121.1 126.5 
+Demian_Bichir/p-Weu9oY0wM_0000006 131.0 135.3 

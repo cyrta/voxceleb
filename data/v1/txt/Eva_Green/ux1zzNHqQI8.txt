@@ -1,0 +1,11 @@
+POI: 			Eva_Green 
+Youtube ID: 	ux1zzNHqQI8 
+Video length: 	220.3 sec 
+Set (V): 		test 
+ 
+Eva_Green/ux1zzNHqQI8_0000001 22.3 33.0 
+Eva_Green/ux1zzNHqQI8_0000002 33.3 41.0 
+Eva_Green/ux1zzNHqQI8_0000003 159.8 176.5 
+Eva_Green/ux1zzNHqQI8_0000004 186.0 190.7 
+Eva_Green/ux1zzNHqQI8_0000005 199.0 203.0 
+Eva_Green/ux1zzNHqQI8_0000006 203.4 207.4 

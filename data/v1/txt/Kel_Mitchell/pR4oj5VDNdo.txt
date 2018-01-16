@@ -1,0 +1,8 @@
+POI: 			Kel_Mitchell 
+Youtube ID: 	pR4oj5VDNdo 
+Video length: 	165.3 sec 
+Set (V): 		dev 
+ 
+Kel_Mitchell/pR4oj5VDNdo_0000001 40.2 44.4 
+Kel_Mitchell/pR4oj5VDNdo_0000002 65.3 76.7 
+Kel_Mitchell/pR4oj5VDNdo_0000003 122.6 127.4 

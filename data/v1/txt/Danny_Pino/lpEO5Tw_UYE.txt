@@ -1,0 +1,9 @@
+POI: 			Danny_Pino 
+Youtube ID: 	lpEO5Tw_UYE 
+Video length: 	332.4 sec 
+Set (V): 		dev 
+ 
+Danny_Pino/lpEO5Tw_UYE_0000001 153.5 158.2 
+Danny_Pino/lpEO5Tw_UYE_0000002 208.7 215.5 
+Danny_Pino/lpEO5Tw_UYE_0000003 222.4 229.6 
+Danny_Pino/lpEO5Tw_UYE_0000004 258.8 266.1 

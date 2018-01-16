@@ -1,0 +1,8 @@
+POI: 			Jay_Baruchel 
+Youtube ID: 	dxLMHRNuEZo 
+Video length: 	226.8 sec 
+Set (V): 		dev 
+ 
+Jay_Baruchel/dxLMHRNuEZo_0000001 55.8 61.5 
+Jay_Baruchel/dxLMHRNuEZo_0000002 120.5 125.3 
+Jay_Baruchel/dxLMHRNuEZo_0000003 125.7 133.5 

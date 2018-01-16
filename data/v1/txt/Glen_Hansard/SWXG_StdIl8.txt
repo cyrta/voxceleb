@@ -1,0 +1,9 @@
+POI: 			Glen_Hansard 
+Youtube ID: 	SWXG_StdIl8 
+Video length: 	136.5 sec 
+Set (V): 		dev 
+ 
+Glen_Hansard/SWXG_StdIl8_0000001 08.4 14.8 
+Glen_Hansard/SWXG_StdIl8_0000002 17.6 23.2 
+Glen_Hansard/SWXG_StdIl8_0000003 50.2 54.2 
+Glen_Hansard/SWXG_StdIl8_0000004 111.0 116.0 

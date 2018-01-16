@@ -1,0 +1,11 @@
+POI: 			Mary-Louise_Parker 
+Youtube ID: 	FTcCYnYssDI 
+Video length: 	149.1 sec 
+Set (V): 		dev 
+ 
+Mary-Louise_Parker/FTcCYnYssDI_0000001 41.8 47.1 
+Mary-Louise_Parker/FTcCYnYssDI_0000002 49.0 53.0 
+Mary-Louise_Parker/FTcCYnYssDI_0000003 83.0 87.4 
+Mary-Louise_Parker/FTcCYnYssDI_0000004 97.2 102.5 
+Mary-Louise_Parker/FTcCYnYssDI_0000005 109.0 114.1 
+Mary-Louise_Parker/FTcCYnYssDI_0000006 140.0 145.6 

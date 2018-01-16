@@ -1,0 +1,7 @@
+POI: 			Derek_Jacobi 
+Youtube ID: 	h61i7bXEWuA 
+Video length: 	74.4 sec 
+Set (V): 		dev 
+ 
+Derek_Jacobi/h61i7bXEWuA_0000001 41.0 45.1 
+Derek_Jacobi/h61i7bXEWuA_0000002 47.6 58.5 

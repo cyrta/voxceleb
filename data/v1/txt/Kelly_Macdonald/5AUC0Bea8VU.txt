@@ -1,0 +1,13 @@
+POI: 			Kelly_Macdonald 
+Youtube ID: 	5AUC0Bea8VU 
+Video length: 	234.2 sec 
+Set (V): 		dev 
+ 
+Kelly_Macdonald/5AUC0Bea8VU_0000001 34.1 38.3 
+Kelly_Macdonald/5AUC0Bea8VU_0000002 54.6 58.6 
+Kelly_Macdonald/5AUC0Bea8VU_0000003 69.5 78.8 
+Kelly_Macdonald/5AUC0Bea8VU_0000004 87.1 94.2 
+Kelly_Macdonald/5AUC0Bea8VU_0000005 112.7 121.6 
+Kelly_Macdonald/5AUC0Bea8VU_0000006 149.5 156.9 
+Kelly_Macdonald/5AUC0Bea8VU_0000007 161.2 167.9 
+Kelly_Macdonald/5AUC0Bea8VU_0000008 175.6 181.1 

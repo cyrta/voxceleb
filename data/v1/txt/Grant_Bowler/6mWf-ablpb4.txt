@@ -1,0 +1,7 @@
+POI: 			Grant_Bowler 
+Youtube ID: 	6mWf-ablpb4 
+Video length: 	39.6 sec 
+Set (V): 		dev 
+ 
+Grant_Bowler/6mWf-ablpb4_0000001 17.9 24.1 
+Grant_Bowler/6mWf-ablpb4_0000002 29.4 34.0 

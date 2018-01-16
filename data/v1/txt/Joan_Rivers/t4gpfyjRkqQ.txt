@@ -1,0 +1,23 @@
+POI: 			Joan_Rivers 
+Youtube ID: 	t4gpfyjRkqQ 
+Video length: 	601.1 sec 
+Set (V): 		dev 
+ 
+Joan_Rivers/t4gpfyjRkqQ_0000001 33.3 43.8 
+Joan_Rivers/t4gpfyjRkqQ_0000002 44.2 52.6 
+Joan_Rivers/t4gpfyjRkqQ_0000003 62.2 80.8 
+Joan_Rivers/t4gpfyjRkqQ_0000004 111.2 118.7 
+Joan_Rivers/t4gpfyjRkqQ_0000005 124.4 129.0 
+Joan_Rivers/t4gpfyjRkqQ_0000006 146.1 150.4 
+Joan_Rivers/t4gpfyjRkqQ_0000007 197.3 205.1 
+Joan_Rivers/t4gpfyjRkqQ_0000008 236.0 242.1 
+Joan_Rivers/t4gpfyjRkqQ_0000009 245.4 252.0 
+Joan_Rivers/t4gpfyjRkqQ_0000010 259.6 270.2 
+Joan_Rivers/t4gpfyjRkqQ_0000011 339.8 347.3 
+Joan_Rivers/t4gpfyjRkqQ_0000012 349.1 353.7 
+Joan_Rivers/t4gpfyjRkqQ_0000013 371.8 377.6 
+Joan_Rivers/t4gpfyjRkqQ_0000014 464.8 470.9 
+Joan_Rivers/t4gpfyjRkqQ_0000015 493.4 499.0 
+Joan_Rivers/t4gpfyjRkqQ_0000016 539.4 543.6 
+Joan_Rivers/t4gpfyjRkqQ_0000017 544.8 554.2 
+Joan_Rivers/t4gpfyjRkqQ_0000018 555.1 563.1 

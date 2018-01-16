@@ -1,0 +1,11 @@
+POI: 			Ryan_Potter 
+Youtube ID: 	qtkJNZsjRRA 
+Video length: 	396.7 sec 
+Set (V): 		dev 
+ 
+Ryan_Potter/qtkJNZsjRRA_0000001 30.5 34.5 
+Ryan_Potter/qtkJNZsjRRA_0000002 66.8 70.9 
+Ryan_Potter/qtkJNZsjRRA_0000003 154.7 164.2 
+Ryan_Potter/qtkJNZsjRRA_0000004 234.2 242.0 
+Ryan_Potter/qtkJNZsjRRA_0000005 333.7 341.3 
+Ryan_Potter/qtkJNZsjRRA_0000006 370.2 374.3 

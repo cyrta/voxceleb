@@ -1,0 +1,9 @@
+POI: 			Luc_Besson 
+Youtube ID: 	NbPvdOWDfXI 
+Video length: 	367.8 sec 
+Set (V): 		dev 
+ 
+Luc_Besson/NbPvdOWDfXI_0000001 118.7 131.7 
+Luc_Besson/NbPvdOWDfXI_0000002 183.9 191.5 
+Luc_Besson/NbPvdOWDfXI_0000003 228.6 232.6 
+Luc_Besson/NbPvdOWDfXI_0000004 269.8 276.0 

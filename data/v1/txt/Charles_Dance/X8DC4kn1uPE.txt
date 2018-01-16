@@ -1,0 +1,9 @@
+POI: 			Charles_Dance 
+Youtube ID: 	X8DC4kn1uPE 
+Video length: 	162.6 sec 
+Set (V): 		dev 
+ 
+Charles_Dance/X8DC4kn1uPE_0000001 11.3 22.7 
+Charles_Dance/X8DC4kn1uPE_0000002 30.2 39.3 
+Charles_Dance/X8DC4kn1uPE_0000003 74.4 82.0 
+Charles_Dance/X8DC4kn1uPE_0000004 123.3 129.1 

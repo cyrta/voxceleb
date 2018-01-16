@@ -1,0 +1,13 @@
+POI: 			Wilson_Cruz 
+Youtube ID: 	7ILRMpo2_e8 
+Video length: 	201.6 sec 
+Set (V): 		dev 
+ 
+Wilson_Cruz/7ILRMpo2_e8_0000001 07.6 21.0 
+Wilson_Cruz/7ILRMpo2_e8_0000002 34.0 48.2 
+Wilson_Cruz/7ILRMpo2_e8_0000003 52.9 61.4 
+Wilson_Cruz/7ILRMpo2_e8_0000004 109.0 117.0 
+Wilson_Cruz/7ILRMpo2_e8_0000005 131.3 136.5 
+Wilson_Cruz/7ILRMpo2_e8_0000006 137.8 142.3 
+Wilson_Cruz/7ILRMpo2_e8_0000007 142.7 148.1 
+Wilson_Cruz/7ILRMpo2_e8_0000008 153.5 160.1 

@@ -1,0 +1,12 @@
+POI: 			Melody_Thomas_Scott 
+Youtube ID: 	InEZE75bHjU 
+Video length: 	526.2 sec 
+Set (V): 		dev 
+ 
+Melody_Thomas_Scott/InEZE75bHjU_0000001 108.4 112.8 
+Melody_Thomas_Scott/InEZE75bHjU_0000002 113.2 120.5 
+Melody_Thomas_Scott/InEZE75bHjU_0000003 318.9 323.2 
+Melody_Thomas_Scott/InEZE75bHjU_0000004 351.9 357.8 
+Melody_Thomas_Scott/InEZE75bHjU_0000005 384.4 388.4 
+Melody_Thomas_Scott/InEZE75bHjU_0000006 459.4 466.4 
+Melody_Thomas_Scott/InEZE75bHjU_0000007 467.6 473.1 

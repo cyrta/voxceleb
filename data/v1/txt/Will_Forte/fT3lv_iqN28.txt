@@ -1,0 +1,8 @@
+POI: 			Will_Forte 
+Youtube ID: 	fT3lv_iqN28 
+Video length: 	198.7 sec 
+Set (V): 		dev 
+ 
+Will_Forte/fT3lv_iqN28_0000001 29.5 36.8 
+Will_Forte/fT3lv_iqN28_0000002 81.1 107.2 
+Will_Forte/fT3lv_iqN28_0000003 113.1 124.2 

@@ -1,0 +1,12 @@
+POI: 			Heike_Makatsch 
+Youtube ID: 	5CG6qgmDbEc 
+Video length: 	554.9 sec 
+Set (V): 		dev 
+ 
+Heike_Makatsch/5CG6qgmDbEc_0000001 45.8 53.3 
+Heike_Makatsch/5CG6qgmDbEc_0000002 189.1 197.1 
+Heike_Makatsch/5CG6qgmDbEc_0000003 339.2 343.7 
+Heike_Makatsch/5CG6qgmDbEc_0000004 379.9 384.2 
+Heike_Makatsch/5CG6qgmDbEc_0000005 429.0 434.2 
+Heike_Makatsch/5CG6qgmDbEc_0000006 454.0 459.2 
+Heike_Makatsch/5CG6qgmDbEc_0000007 485.3 497.4 

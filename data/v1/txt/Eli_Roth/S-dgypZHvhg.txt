@@ -1,0 +1,10 @@
+POI: 			Eli_Roth 
+Youtube ID: 	S-dgypZHvhg 
+Video length: 	199.4 sec 
+Set (V): 		test 
+ 
+Eli_Roth/S-dgypZHvhg_0000001 41.9 50.9 
+Eli_Roth/S-dgypZHvhg_0000002 63.3 69.4 
+Eli_Roth/S-dgypZHvhg_0000003 92.9 108.6 
+Eli_Roth/S-dgypZHvhg_0000004 125.7 130.7 
+Eli_Roth/S-dgypZHvhg_0000005 162.4 167.6 

@@ -1,0 +1,10 @@
+POI: 			David_Oyelowo 
+Youtube ID: 	6W9VRE-gj3s 
+Video length: 	381.5 sec 
+Set (V): 		dev 
+ 
+David_Oyelowo/6W9VRE-gj3s_0000001 147.3 155.1 
+David_Oyelowo/6W9VRE-gj3s_0000002 157.6 163.6 
+David_Oyelowo/6W9VRE-gj3s_0000003 170.2 188.3 
+David_Oyelowo/6W9VRE-gj3s_0000004 188.6 200.2 
+David_Oyelowo/6W9VRE-gj3s_0000005 202.0 207.6 

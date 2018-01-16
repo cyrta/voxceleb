@@ -1,0 +1,8 @@
+POI: 			Rooney_Mara 
+Youtube ID: 	PQ7Z_G__mWQ 
+Video length: 	588.9 sec 
+Set (V): 		dev 
+ 
+Rooney_Mara/PQ7Z_G__mWQ_0000001 189.6 193.9 
+Rooney_Mara/PQ7Z_G__mWQ_0000002 212.5 218.6 
+Rooney_Mara/PQ7Z_G__mWQ_0000003 440.0 444.2 

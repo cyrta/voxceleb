@@ -1,0 +1,19 @@
+POI: 			Julie_Chen 
+Youtube ID: 	WzmT9KmMVnY 
+Video length: 	238.0 sec 
+Set (V): 		dev 
+ 
+Julie_Chen/WzmT9KmMVnY_0000001 23.5 32.3 
+Julie_Chen/WzmT9KmMVnY_0000002 32.6 38.1 
+Julie_Chen/WzmT9KmMVnY_0000003 38.9 44.1 
+Julie_Chen/WzmT9KmMVnY_0000004 58.1 69.6 
+Julie_Chen/WzmT9KmMVnY_0000005 70.6 77.6 
+Julie_Chen/WzmT9KmMVnY_0000006 81.6 95.2 
+Julie_Chen/WzmT9KmMVnY_0000007 107.4 111.9 
+Julie_Chen/WzmT9KmMVnY_0000008 122.3 127.3 
+Julie_Chen/WzmT9KmMVnY_0000009 128.1 155.3 
+Julie_Chen/WzmT9KmMVnY_0000010 155.6 169.0 
+Julie_Chen/WzmT9KmMVnY_0000011 176.9 188.3 
+Julie_Chen/WzmT9KmMVnY_0000012 193.4 197.6 
+Julie_Chen/WzmT9KmMVnY_0000013 201.2 208.1 
+Julie_Chen/WzmT9KmMVnY_0000014 208.6 219.0 

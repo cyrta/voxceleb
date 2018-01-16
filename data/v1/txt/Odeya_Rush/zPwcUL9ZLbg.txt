@@ -1,0 +1,10 @@
+POI: 			Odeya_Rush 
+Youtube ID: 	zPwcUL9ZLbg 
+Video length: 	158.0 sec 
+Set (V): 		dev 
+ 
+Odeya_Rush/zPwcUL9ZLbg_0000001 14.5 18.9 
+Odeya_Rush/zPwcUL9ZLbg_0000002 19.1 31.1 
+Odeya_Rush/zPwcUL9ZLbg_0000003 44.3 49.5 
+Odeya_Rush/zPwcUL9ZLbg_0000004 49.7 58.0 
+Odeya_Rush/zPwcUL9ZLbg_0000005 78.8 87.7 

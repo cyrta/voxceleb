@@ -1,0 +1,9 @@
+POI: 			Wanda_Sykes 
+Youtube ID: 	cwTMrDjVFaE 
+Video length: 	151.8 sec 
+Set (V): 		dev 
+ 
+Wanda_Sykes/cwTMrDjVFaE_0000001 12.3 19.5 
+Wanda_Sykes/cwTMrDjVFaE_0000002 40.0 52.0 
+Wanda_Sykes/cwTMrDjVFaE_0000003 112.6 117.7 
+Wanda_Sykes/cwTMrDjVFaE_0000004 118.2 122.3 

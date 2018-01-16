@@ -1,0 +1,8 @@
+POI: 			Daniel_Tosh 
+Youtube ID: 	hGt1l6pNEEE 
+Video length: 	80.9 sec 
+Set (V): 		dev 
+ 
+Daniel_Tosh/hGt1l6pNEEE_0000001 02.8 16.4 
+Daniel_Tosh/hGt1l6pNEEE_0000002 41.8 48.7 
+Daniel_Tosh/hGt1l6pNEEE_0000003 49.4 56.6 

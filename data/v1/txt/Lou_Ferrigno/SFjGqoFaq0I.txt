@@ -1,0 +1,11 @@
+POI: 			Lou_Ferrigno 
+Youtube ID: 	SFjGqoFaq0I 
+Video length: 	597.1 sec 
+Set (V): 		dev 
+ 
+Lou_Ferrigno/SFjGqoFaq0I_0000001 341.0 346.0 
+Lou_Ferrigno/SFjGqoFaq0I_0000002 364.3 369.8 
+Lou_Ferrigno/SFjGqoFaq0I_0000003 408.4 412.7 
+Lou_Ferrigno/SFjGqoFaq0I_0000004 438.8 444.6 
+Lou_Ferrigno/SFjGqoFaq0I_0000005 480.2 484.5 
+Lou_Ferrigno/SFjGqoFaq0I_0000006 494.4 500.4 

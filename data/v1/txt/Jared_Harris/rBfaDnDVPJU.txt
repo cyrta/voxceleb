@@ -1,0 +1,15 @@
+POI: 			Jared_Harris 
+Youtube ID: 	rBfaDnDVPJU 
+Video length: 	312.6 sec 
+Set (V): 		dev 
+ 
+Jared_Harris/rBfaDnDVPJU_0000001 71.2 75.7 
+Jared_Harris/rBfaDnDVPJU_0000002 78.2 83.0 
+Jared_Harris/rBfaDnDVPJU_0000003 117.7 122.0 
+Jared_Harris/rBfaDnDVPJU_0000004 138.2 148.2 
+Jared_Harris/rBfaDnDVPJU_0000005 149.3 166.9 
+Jared_Harris/rBfaDnDVPJU_0000006 182.8 192.7 
+Jared_Harris/rBfaDnDVPJU_0000007 195.8 199.8 
+Jared_Harris/rBfaDnDVPJU_0000008 209.2 214.0 
+Jared_Harris/rBfaDnDVPJU_0000009 255.0 260.7 
+Jared_Harris/rBfaDnDVPJU_0000010 262.8 267.7 

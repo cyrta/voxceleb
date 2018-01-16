@@ -1,0 +1,8 @@
+POI: 			Sienna_Guillory 
+Youtube ID: 	WbNSvhGmd84 
+Video length: 	96.3 sec 
+Set (V): 		dev 
+ 
+Sienna_Guillory/WbNSvhGmd84_0000001 15.4 23.8 
+Sienna_Guillory/WbNSvhGmd84_0000002 30.0 37.4 
+Sienna_Guillory/WbNSvhGmd84_0000003 60.1 64.2 

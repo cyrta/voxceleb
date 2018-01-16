@@ -1,0 +1,9 @@
+POI: 			Joel_McHale 
+Youtube ID: 	r0EozmfAhpg 
+Video length: 	625.3 sec 
+Set (V): 		dev 
+ 
+Joel_McHale/r0EozmfAhpg_0000001 115.4 124.2 
+Joel_McHale/r0EozmfAhpg_0000002 189.4 198.7 
+Joel_McHale/r0EozmfAhpg_0000003 270.1 276.6 
+Joel_McHale/r0EozmfAhpg_0000004 494.2 498.4 

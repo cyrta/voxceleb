@@ -1,0 +1,9 @@
+POI: 			Loan_Chabanol 
+Youtube ID: 	IpatShAUD6E 
+Video length: 	286.5 sec 
+Set (V): 		dev 
+ 
+Loan_Chabanol/IpatShAUD6E_0000001 83.2 88.5 
+Loan_Chabanol/IpatShAUD6E_0000002 92.8 96.8 
+Loan_Chabanol/IpatShAUD6E_0000003 197.6 203.2 
+Loan_Chabanol/IpatShAUD6E_0000004 211.6 219.2 

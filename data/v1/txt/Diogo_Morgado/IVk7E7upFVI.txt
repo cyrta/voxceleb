@@ -1,0 +1,7 @@
+POI: 			Diogo_Morgado 
+Youtube ID: 	IVk7E7upFVI 
+Video length: 	229.5 sec 
+Set (V): 		dev 
+ 
+Diogo_Morgado/IVk7E7upFVI_0000001 118.6 122.7 
+Diogo_Morgado/IVk7E7upFVI_0000002 125.1 135.2 

@@ -1,0 +1,18 @@
+POI: 			Tom_Hooper 
+Youtube ID: 	eLOEVkckcME 
+Video length: 	742.3 sec 
+Set (V): 		dev 
+ 
+Tom_Hooper/eLOEVkckcME_0000001 45.6 53.8 
+Tom_Hooper/eLOEVkckcME_0000002 63.8 71.0 
+Tom_Hooper/eLOEVkckcME_0000003 73.9 81.7 
+Tom_Hooper/eLOEVkckcME_0000004 113.0 118.8 
+Tom_Hooper/eLOEVkckcME_0000005 214.0 219.0 
+Tom_Hooper/eLOEVkckcME_0000006 314.0 318.8 
+Tom_Hooper/eLOEVkckcME_0000007 373.1 377.6 
+Tom_Hooper/eLOEVkckcME_0000008 378.8 384.9 
+Tom_Hooper/eLOEVkckcME_0000009 397.8 402.6 
+Tom_Hooper/eLOEVkckcME_0000010 406.9 417.4 
+Tom_Hooper/eLOEVkckcME_0000011 631.6 635.8 
+Tom_Hooper/eLOEVkckcME_0000012 666.8 671.1 
+Tom_Hooper/eLOEVkckcME_0000013 699.2 708.1 

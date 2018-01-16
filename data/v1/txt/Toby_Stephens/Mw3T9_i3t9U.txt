@@ -1,0 +1,8 @@
+POI: 			Toby_Stephens 
+Youtube ID: 	Mw3T9_i3t9U 
+Video length: 	244.1 sec 
+Set (V): 		dev 
+ 
+Toby_Stephens/Mw3T9_i3t9U_0000001 65.7 72.6 
+Toby_Stephens/Mw3T9_i3t9U_0000002 125.6 149.6 
+Toby_Stephens/Mw3T9_i3t9U_0000003 204.2 231.2 

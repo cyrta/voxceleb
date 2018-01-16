@@ -1,0 +1,10 @@
+POI: 			Keeley_Hawes 
+Youtube ID: 	s9K54deaiog 
+Video length: 	218.4 sec 
+Set (V): 		dev 
+ 
+Keeley_Hawes/s9K54deaiog_0000001 21.6 25.5 
+Keeley_Hawes/s9K54deaiog_0000002 34.7 39.6 
+Keeley_Hawes/s9K54deaiog_0000003 114.2 118.2 
+Keeley_Hawes/s9K54deaiog_0000004 135.8 140.7 
+Keeley_Hawes/s9K54deaiog_0000005 148.9 153.2 

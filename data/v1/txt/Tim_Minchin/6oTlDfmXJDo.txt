@@ -1,0 +1,12 @@
+POI: 			Tim_Minchin 
+Youtube ID: 	6oTlDfmXJDo 
+Video length: 	580.0 sec 
+Set (V): 		dev 
+ 
+Tim_Minchin/6oTlDfmXJDo_0000001 131.0 137.3 
+Tim_Minchin/6oTlDfmXJDo_0000002 223.6 230.1 
+Tim_Minchin/6oTlDfmXJDo_0000003 272.6 278.8 
+Tim_Minchin/6oTlDfmXJDo_0000004 320.6 326.8 
+Tim_Minchin/6oTlDfmXJDo_0000005 334.4 338.6 
+Tim_Minchin/6oTlDfmXJDo_0000006 353.3 358.6 
+Tim_Minchin/6oTlDfmXJDo_0000007 364.4 370.8 

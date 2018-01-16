@@ -1,0 +1,7 @@
+POI: 			Prince 
+Youtube ID: 	W-TeaVxcNoU 
+Video length: 	1247.5 sec 
+Set (V): 		dev 
+ 
+Prince/W-TeaVxcNoU_0000001 924.4 928.5 
+Prince/W-TeaVxcNoU_0000002 951.4 957.6 

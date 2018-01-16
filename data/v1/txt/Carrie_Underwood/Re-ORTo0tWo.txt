@@ -1,0 +1,10 @@
+POI: 			Carrie_Underwood 
+Youtube ID: 	Re-ORTo0tWo 
+Video length: 	133.3 sec 
+Set (V): 		dev 
+ 
+Carrie_Underwood/Re-ORTo0tWo_0000001 07.2 12.0 
+Carrie_Underwood/Re-ORTo0tWo_0000002 31.2 36.8 
+Carrie_Underwood/Re-ORTo0tWo_0000003 41.8 47.7 
+Carrie_Underwood/Re-ORTo0tWo_0000004 92.5 101.3 
+Carrie_Underwood/Re-ORTo0tWo_0000005 110.4 114.5 

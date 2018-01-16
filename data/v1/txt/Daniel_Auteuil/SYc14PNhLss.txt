@@ -1,0 +1,22 @@
+POI: 			Daniel_Auteuil 
+Youtube ID: 	SYc14PNhLss 
+Video length: 	473.7 sec 
+Set (V): 		dev 
+ 
+Daniel_Auteuil/SYc14PNhLss_0000001 32.6 37.3 
+Daniel_Auteuil/SYc14PNhLss_0000002 49.6 54.6 
+Daniel_Auteuil/SYc14PNhLss_0000003 115.8 119.8 
+Daniel_Auteuil/SYc14PNhLss_0000004 139.7 145.5 
+Daniel_Auteuil/SYc14PNhLss_0000005 148.4 155.6 
+Daniel_Auteuil/SYc14PNhLss_0000006 167.9 172.8 
+Daniel_Auteuil/SYc14PNhLss_0000007 195.5 202.1 
+Daniel_Auteuil/SYc14PNhLss_0000008 222.2 226.6 
+Daniel_Auteuil/SYc14PNhLss_0000009 227.2 235.7 
+Daniel_Auteuil/SYc14PNhLss_0000010 289.8 294.2 
+Daniel_Auteuil/SYc14PNhLss_0000011 299.5 305.5 
+Daniel_Auteuil/SYc14PNhLss_0000012 309.6 316.4 
+Daniel_Auteuil/SYc14PNhLss_0000013 339.6 343.6 
+Daniel_Auteuil/SYc14PNhLss_0000014 371.2 376.6 
+Daniel_Auteuil/SYc14PNhLss_0000015 377.4 381.4 
+Daniel_Auteuil/SYc14PNhLss_0000016 437.7 443.0 
+Daniel_Auteuil/SYc14PNhLss_0000017 452.8 459.8 

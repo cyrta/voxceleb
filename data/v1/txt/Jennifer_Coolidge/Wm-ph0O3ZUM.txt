@@ -1,0 +1,7 @@
+POI: 			Jennifer_Coolidge 
+Youtube ID: 	Wm-ph0O3ZUM 
+Video length: 	134.2 sec 
+Set (V): 		dev 
+ 
+Jennifer_Coolidge/Wm-ph0O3ZUM_0000001 04.0 10.1 
+Jennifer_Coolidge/Wm-ph0O3ZUM_0000002 27.6 32.2 

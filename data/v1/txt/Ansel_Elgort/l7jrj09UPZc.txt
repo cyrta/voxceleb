@@ -1,0 +1,8 @@
+POI: 			Ansel_Elgort 
+Youtube ID: 	l7jrj09UPZc 
+Video length: 	217.2 sec 
+Set (V): 		dev 
+ 
+Ansel_Elgort/l7jrj09UPZc_0000001 58.0 66.9 
+Ansel_Elgort/l7jrj09UPZc_0000002 115.3 119.6 
+Ansel_Elgort/l7jrj09UPZc_0000003 185.8 190.2 

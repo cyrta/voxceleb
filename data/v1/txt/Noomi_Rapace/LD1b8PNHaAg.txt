@@ -1,0 +1,14 @@
+POI: 			Noomi_Rapace 
+Youtube ID: 	LD1b8PNHaAg 
+Video length: 	150.8 sec 
+Set (V): 		dev 
+ 
+Noomi_Rapace/LD1b8PNHaAg_0000001 15.9 21.3 
+Noomi_Rapace/LD1b8PNHaAg_0000002 22.6 27.4 
+Noomi_Rapace/LD1b8PNHaAg_0000003 28.8 38.3 
+Noomi_Rapace/LD1b8PNHaAg_0000004 41.2 49.2 
+Noomi_Rapace/LD1b8PNHaAg_0000005 52.7 60.0 
+Noomi_Rapace/LD1b8PNHaAg_0000006 65.1 72.5 
+Noomi_Rapace/LD1b8PNHaAg_0000007 85.3 95.1 
+Noomi_Rapace/LD1b8PNHaAg_0000008 101.2 111.8 
+Noomi_Rapace/LD1b8PNHaAg_0000009 116.8 124.8 

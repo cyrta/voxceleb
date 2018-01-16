@@ -1,0 +1,33 @@
+POI: 			Kevin_Clash 
+Youtube ID: 	heVp-OhxS44 
+Video length: 	419.2 sec 
+Set (V): 		dev 
+ 
+Kevin_Clash/heVp-OhxS44_0000001 06.2 12.8 
+Kevin_Clash/heVp-OhxS44_0000002 16.6 23.2 
+Kevin_Clash/heVp-OhxS44_0000003 26.3 33.3 
+Kevin_Clash/heVp-OhxS44_0000004 39.7 47.2 
+Kevin_Clash/heVp-OhxS44_0000005 49.2 58.1 
+Kevin_Clash/heVp-OhxS44_0000006 73.2 78.0 
+Kevin_Clash/heVp-OhxS44_0000007 80.6 84.6 
+Kevin_Clash/heVp-OhxS44_0000008 85.9 91.7 
+Kevin_Clash/heVp-OhxS44_0000009 92.3 100.4 
+Kevin_Clash/heVp-OhxS44_0000010 101.4 113.7 
+Kevin_Clash/heVp-OhxS44_0000011 121.6 137.0 
+Kevin_Clash/heVp-OhxS44_0000012 157.4 161.6 
+Kevin_Clash/heVp-OhxS44_0000013 179.0 187.6 
+Kevin_Clash/heVp-OhxS44_0000014 199.9 204.4 
+Kevin_Clash/heVp-OhxS44_0000015 219.1 223.6 
+Kevin_Clash/heVp-OhxS44_0000016 225.3 233.9 
+Kevin_Clash/heVp-OhxS44_0000017 245.5 252.7 
+Kevin_Clash/heVp-OhxS44_0000018 253.9 259.2 
+Kevin_Clash/heVp-OhxS44_0000019 261.3 269.7 
+Kevin_Clash/heVp-OhxS44_0000020 278.5 283.1 
+Kevin_Clash/heVp-OhxS44_0000021 289.8 300.7 
+Kevin_Clash/heVp-OhxS44_0000022 309.3 317.2 
+Kevin_Clash/heVp-OhxS44_0000023 327.7 336.4 
+Kevin_Clash/heVp-OhxS44_0000024 350.0 354.6 
+Kevin_Clash/heVp-OhxS44_0000025 361.6 366.1 
+Kevin_Clash/heVp-OhxS44_0000026 367.7 380.6 
+Kevin_Clash/heVp-OhxS44_0000027 390.7 395.1 
+Kevin_Clash/heVp-OhxS44_0000028 401.9 408.0 

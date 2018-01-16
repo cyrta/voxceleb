@@ -1,0 +1,22 @@
+POI: 			Ezra_Miller 
+Youtube ID: 	qFrRfhWombs 
+Video length: 	281.1 sec 
+Set (V): 		test 
+ 
+Ezra_Miller/qFrRfhWombs_0000001 27.2 32.3 
+Ezra_Miller/qFrRfhWombs_0000002 33.6 44.2 
+Ezra_Miller/qFrRfhWombs_0000003 44.4 49.1 
+Ezra_Miller/qFrRfhWombs_0000004 55.1 59.4 
+Ezra_Miller/qFrRfhWombs_0000005 64.2 73.3 
+Ezra_Miller/qFrRfhWombs_0000006 113.0 120.8 
+Ezra_Miller/qFrRfhWombs_0000007 122.9 131.4 
+Ezra_Miller/qFrRfhWombs_0000008 132.6 136.7 
+Ezra_Miller/qFrRfhWombs_0000009 140.6 149.6 
+Ezra_Miller/qFrRfhWombs_0000010 150.0 160.5 
+Ezra_Miller/qFrRfhWombs_0000011 160.6 174.3 
+Ezra_Miller/qFrRfhWombs_0000012 178.8 183.7 
+Ezra_Miller/qFrRfhWombs_0000013 190.8 200.6 
+Ezra_Miller/qFrRfhWombs_0000014 220.9 225.7 
+Ezra_Miller/qFrRfhWombs_0000015 230.6 239.0 
+Ezra_Miller/qFrRfhWombs_0000016 257.7 262.1 
+Ezra_Miller/qFrRfhWombs_0000017 262.4 267.2 

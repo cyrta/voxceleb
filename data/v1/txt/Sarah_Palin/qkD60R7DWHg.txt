@@ -1,0 +1,10 @@
+POI: 			Sarah_Palin 
+Youtube ID: 	qkD60R7DWHg 
+Video length: 	651.4 sec 
+Set (V): 		dev 
+ 
+Sarah_Palin/qkD60R7DWHg_0000001 404.7 411.6 
+Sarah_Palin/qkD60R7DWHg_0000002 411.8 450.0 
+Sarah_Palin/qkD60R7DWHg_0000003 530.2 555.3 
+Sarah_Palin/qkD60R7DWHg_0000004 555.4 571.2 
+Sarah_Palin/qkD60R7DWHg_0000005 634.5 644.0 

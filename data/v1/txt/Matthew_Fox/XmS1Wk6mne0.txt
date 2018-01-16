@@ -1,0 +1,12 @@
+POI: 			Matthew_Fox 
+Youtube ID: 	XmS1Wk6mne0 
+Video length: 	627.2 sec 
+Set (V): 		dev 
+ 
+Matthew_Fox/XmS1Wk6mne0_0000001 131.8 136.0 
+Matthew_Fox/XmS1Wk6mne0_0000002 136.5 141.4 
+Matthew_Fox/XmS1Wk6mne0_0000003 242.3 247.6 
+Matthew_Fox/XmS1Wk6mne0_0000004 415.7 421.4 
+Matthew_Fox/XmS1Wk6mne0_0000005 448.1 452.6 
+Matthew_Fox/XmS1Wk6mne0_0000006 546.3 550.4 
+Matthew_Fox/XmS1Wk6mne0_0000007 591.0 595.9 

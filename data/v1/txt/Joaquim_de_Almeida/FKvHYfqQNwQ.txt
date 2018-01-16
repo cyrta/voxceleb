@@ -1,0 +1,9 @@
+POI: 			Joaquim_de_Almeida 
+Youtube ID: 	FKvHYfqQNwQ 
+Video length: 	223.8 sec 
+Set (V): 		dev 
+ 
+Joaquim_de_Almeida/FKvHYfqQNwQ_0000001 48.4 59.1 
+Joaquim_de_Almeida/FKvHYfqQNwQ_0000002 143.9 149.5 
+Joaquim_de_Almeida/FKvHYfqQNwQ_0000003 168.8 175.0 
+Joaquim_de_Almeida/FKvHYfqQNwQ_0000004 181.8 192.0 

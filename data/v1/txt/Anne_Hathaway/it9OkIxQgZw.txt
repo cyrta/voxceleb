@@ -1,0 +1,20 @@
+POI: 			Anne_Hathaway 
+Youtube ID: 	it9OkIxQgZw 
+Video length: 	261.4 sec 
+Set (V): 		dev 
+ 
+Anne_Hathaway/it9OkIxQgZw_0000001 51.4 58.5 
+Anne_Hathaway/it9OkIxQgZw_0000002 63.7 72.1 
+Anne_Hathaway/it9OkIxQgZw_0000003 80.8 86.6 
+Anne_Hathaway/it9OkIxQgZw_0000004 91.4 99.3 
+Anne_Hathaway/it9OkIxQgZw_0000005 112.8 123.8 
+Anne_Hathaway/it9OkIxQgZw_0000006 126.9 134.6 
+Anne_Hathaway/it9OkIxQgZw_0000007 146.8 151.9 
+Anne_Hathaway/it9OkIxQgZw_0000008 155.4 160.0 
+Anne_Hathaway/it9OkIxQgZw_0000009 167.8 181.2 
+Anne_Hathaway/it9OkIxQgZw_0000010 181.8 189.4 
+Anne_Hathaway/it9OkIxQgZw_0000011 203.6 207.9 
+Anne_Hathaway/it9OkIxQgZw_0000012 208.5 213.5 
+Anne_Hathaway/it9OkIxQgZw_0000013 215.1 219.8 
+Anne_Hathaway/it9OkIxQgZw_0000014 225.0 229.0 
+Anne_Hathaway/it9OkIxQgZw_0000015 234.3 239.8 

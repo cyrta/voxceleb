@@ -1,0 +1,13 @@
+POI: 			Jim_Sturgess 
+Youtube ID: 	9aqJt_vOFEI 
+Video length: 	415.0 sec 
+Set (V): 		dev 
+ 
+Jim_Sturgess/9aqJt_vOFEI_0000001 118.3 127.6 
+Jim_Sturgess/9aqJt_vOFEI_0000002 131.2 138.4 
+Jim_Sturgess/9aqJt_vOFEI_0000003 138.6 146.0 
+Jim_Sturgess/9aqJt_vOFEI_0000004 189.0 193.5 
+Jim_Sturgess/9aqJt_vOFEI_0000005 194.9 201.1 
+Jim_Sturgess/9aqJt_vOFEI_0000006 230.9 236.7 
+Jim_Sturgess/9aqJt_vOFEI_0000007 238.7 244.1 
+Jim_Sturgess/9aqJt_vOFEI_0000008 244.8 250.1 

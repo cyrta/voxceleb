@@ -1,0 +1,10 @@
+POI: 			Zach_Braff 
+Youtube ID: 	URB9b8rHV5Q 
+Video length: 	352.2 sec 
+Set (V): 		dev 
+ 
+Zach_Braff/URB9b8rHV5Q_0000001 24.6 28.9 
+Zach_Braff/URB9b8rHV5Q_0000002 222.7 229.8 
+Zach_Braff/URB9b8rHV5Q_0000003 293.1 298.5 
+Zach_Braff/URB9b8rHV5Q_0000004 301.7 311.9 
+Zach_Braff/URB9b8rHV5Q_0000005 335.8 347.8 

@@ -1,0 +1,17 @@
+POI: 			John_Corbett 
+Youtube ID: 	cY_0SFzpqgc 
+Video length: 	175.2 sec 
+Set (V): 		dev 
+ 
+John_Corbett/cY_0SFzpqgc_0000001 04.8 10.5 
+John_Corbett/cY_0SFzpqgc_0000002 10.9 18.2 
+John_Corbett/cY_0SFzpqgc_0000003 18.6 30.7 
+John_Corbett/cY_0SFzpqgc_0000004 40.8 60.4 
+John_Corbett/cY_0SFzpqgc_0000005 60.9 72.1 
+John_Corbett/cY_0SFzpqgc_0000006 77.8 83.5 
+John_Corbett/cY_0SFzpqgc_0000007 85.6 99.1 
+John_Corbett/cY_0SFzpqgc_0000008 105.8 111.3 
+John_Corbett/cY_0SFzpqgc_0000009 113.7 119.6 
+John_Corbett/cY_0SFzpqgc_0000010 119.7 125.6 
+John_Corbett/cY_0SFzpqgc_0000011 136.3 154.8 
+John_Corbett/cY_0SFzpqgc_0000012 155.2 163.8 

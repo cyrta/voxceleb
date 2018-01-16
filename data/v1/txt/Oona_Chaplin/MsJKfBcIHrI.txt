@@ -1,0 +1,11 @@
+POI: 			Oona_Chaplin 
+Youtube ID: 	MsJKfBcIHrI 
+Video length: 	299.6 sec 
+Set (V): 		dev 
+ 
+Oona_Chaplin/MsJKfBcIHrI_0000001 96.1 100.9 
+Oona_Chaplin/MsJKfBcIHrI_0000002 121.2 126.5 
+Oona_Chaplin/MsJKfBcIHrI_0000003 147.2 154.5 
+Oona_Chaplin/MsJKfBcIHrI_0000004 182.6 187.2 
+Oona_Chaplin/MsJKfBcIHrI_0000005 212.9 218.6 
+Oona_Chaplin/MsJKfBcIHrI_0000006 264.4 273.2 

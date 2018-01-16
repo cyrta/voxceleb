@@ -1,0 +1,11 @@
+POI: 			Diane_Kruger 
+Youtube ID: 	TNVwNPvgrgg 
+Video length: 	357.2 sec 
+Set (V): 		dev 
+ 
+Diane_Kruger/TNVwNPvgrgg_0000001 48.5 53.4 
+Diane_Kruger/TNVwNPvgrgg_0000002 68.5 76.9 
+Diane_Kruger/TNVwNPvgrgg_0000003 85.3 91.8 
+Diane_Kruger/TNVwNPvgrgg_0000004 193.7 200.5 
+Diane_Kruger/TNVwNPvgrgg_0000005 239.1 248.2 
+Diane_Kruger/TNVwNPvgrgg_0000006 304.8 312.8 

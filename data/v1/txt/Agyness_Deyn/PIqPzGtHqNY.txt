@@ -1,0 +1,10 @@
+POI: 			Agyness_Deyn 
+Youtube ID: 	PIqPzGtHqNY 
+Video length: 	83.0 sec 
+Set (V): 		dev 
+ 
+Agyness_Deyn/PIqPzGtHqNY_0000001 02.9 09.8 
+Agyness_Deyn/PIqPzGtHqNY_0000002 19.5 26.2 
+Agyness_Deyn/PIqPzGtHqNY_0000003 37.4 42.8 
+Agyness_Deyn/PIqPzGtHqNY_0000004 46.8 65.2 
+Agyness_Deyn/PIqPzGtHqNY_0000005 68.7 75.5 

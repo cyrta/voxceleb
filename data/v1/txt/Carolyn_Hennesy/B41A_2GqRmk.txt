@@ -1,0 +1,10 @@
+POI: 			Carolyn_Hennesy 
+Youtube ID: 	B41A_2GqRmk 
+Video length: 	281.7 sec 
+Set (V): 		dev 
+ 
+Carolyn_Hennesy/B41A_2GqRmk_0000001 27.5 34.5 
+Carolyn_Hennesy/B41A_2GqRmk_0000002 72.2 78.5 
+Carolyn_Hennesy/B41A_2GqRmk_0000003 100.8 110.6 
+Carolyn_Hennesy/B41A_2GqRmk_0000004 120.2 134.4 
+Carolyn_Hennesy/B41A_2GqRmk_0000005 213.4 218.2 

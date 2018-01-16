@@ -1,0 +1,13 @@
+POI: 			Damian_Lewis 
+Youtube ID: 	lTZ_4zmrIMg 
+Video length: 	336.1 sec 
+Set (V): 		dev 
+ 
+Damian_Lewis/lTZ_4zmrIMg_0000001 42.8 47.4 
+Damian_Lewis/lTZ_4zmrIMg_0000002 69.9 73.8 
+Damian_Lewis/lTZ_4zmrIMg_0000003 105.0 118.0 
+Damian_Lewis/lTZ_4zmrIMg_0000004 166.4 171.0 
+Damian_Lewis/lTZ_4zmrIMg_0000005 199.9 206.5 
+Damian_Lewis/lTZ_4zmrIMg_0000006 269.9 276.2 
+Damian_Lewis/lTZ_4zmrIMg_0000007 276.6 292.8 
+Damian_Lewis/lTZ_4zmrIMg_0000008 300.4 315.5 

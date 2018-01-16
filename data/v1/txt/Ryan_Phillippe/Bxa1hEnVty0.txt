@@ -1,0 +1,14 @@
+POI: 			Ryan_Phillippe 
+Youtube ID: 	Bxa1hEnVty0 
+Video length: 	510.6 sec 
+Set (V): 		dev 
+ 
+Ryan_Phillippe/Bxa1hEnVty0_0000001 91.7 102.0 
+Ryan_Phillippe/Bxa1hEnVty0_0000002 171.1 176.3 
+Ryan_Phillippe/Bxa1hEnVty0_0000003 178.6 184.7 
+Ryan_Phillippe/Bxa1hEnVty0_0000004 218.2 223.6 
+Ryan_Phillippe/Bxa1hEnVty0_0000005 230.0 239.0 
+Ryan_Phillippe/Bxa1hEnVty0_0000006 321.0 326.7 
+Ryan_Phillippe/Bxa1hEnVty0_0000007 336.4 342.3 
+Ryan_Phillippe/Bxa1hEnVty0_0000008 393.8 401.0 
+Ryan_Phillippe/Bxa1hEnVty0_0000009 416.8 427.2 

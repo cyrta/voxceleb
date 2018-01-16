@@ -1,0 +1,20 @@
+POI: 			Marilu_Henner 
+Youtube ID: 	RtRhhN-t7S8 
+Video length: 	263.7 sec 
+Set (V): 		dev 
+ 
+Marilu_Henner/RtRhhN-t7S8_0000001 08.3 12.8 
+Marilu_Henner/RtRhhN-t7S8_0000002 13.1 24.1 
+Marilu_Henner/RtRhhN-t7S8_0000003 24.6 30.6 
+Marilu_Henner/RtRhhN-t7S8_0000004 32.4 36.6 
+Marilu_Henner/RtRhhN-t7S8_0000005 40.6 48.8 
+Marilu_Henner/RtRhhN-t7S8_0000006 49.1 55.2 
+Marilu_Henner/RtRhhN-t7S8_0000007 57.1 73.6 
+Marilu_Henner/RtRhhN-t7S8_0000008 81.6 94.9 
+Marilu_Henner/RtRhhN-t7S8_0000009 99.0 109.0 
+Marilu_Henner/RtRhhN-t7S8_0000010 111.0 127.7 
+Marilu_Henner/RtRhhN-t7S8_0000011 128.4 143.3 
+Marilu_Henner/RtRhhN-t7S8_0000012 167.4 201.8 
+Marilu_Henner/RtRhhN-t7S8_0000013 128.8 166.2 
+Marilu_Henner/RtRhhN-t7S8_0000014 208.2 218.9 
+Marilu_Henner/RtRhhN-t7S8_0000015 221.0 246.0 

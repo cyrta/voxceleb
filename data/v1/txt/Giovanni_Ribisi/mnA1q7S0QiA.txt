@@ -1,0 +1,8 @@
+POI: 			Giovanni_Ribisi 
+Youtube ID: 	mnA1q7S0QiA 
+Video length: 	55.8 sec 
+Set (V): 		dev 
+ 
+Giovanni_Ribisi/mnA1q7S0QiA_0000001 18.0 32.8 
+Giovanni_Ribisi/mnA1q7S0QiA_0000002 33.5 40.2 
+Giovanni_Ribisi/mnA1q7S0QiA_0000003 42.6 54.2 

@@ -1,0 +1,13 @@
+POI: 			James_Lafferty 
+Youtube ID: 	RHANCWeB2Lo 
+Video length: 	182.8 sec 
+Set (V): 		dev 
+ 
+James_Lafferty/RHANCWeB2Lo_0000001 27.3 32.2 
+James_Lafferty/RHANCWeB2Lo_0000002 41.8 47.2 
+James_Lafferty/RHANCWeB2Lo_0000003 53.1 57.7 
+James_Lafferty/RHANCWeB2Lo_0000004 81.4 94.8 
+James_Lafferty/RHANCWeB2Lo_0000005 105.0 109.3 
+James_Lafferty/RHANCWeB2Lo_0000006 109.9 118.3 
+James_Lafferty/RHANCWeB2Lo_0000007 124.0 142.2 
+James_Lafferty/RHANCWeB2Lo_0000008 169.4 178.7 

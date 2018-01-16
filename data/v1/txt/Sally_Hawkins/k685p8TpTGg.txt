@@ -1,0 +1,8 @@
+POI: 			Sally_Hawkins 
+Youtube ID: 	k685p8TpTGg 
+Video length: 	218.3 sec 
+Set (V): 		dev 
+ 
+Sally_Hawkins/k685p8TpTGg_0000001 110.6 120.3 
+Sally_Hawkins/k685p8TpTGg_0000002 174.2 181.8 
+Sally_Hawkins/k685p8TpTGg_0000003 197.8 209.5 

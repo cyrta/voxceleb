@@ -1,0 +1,11 @@
+POI: 			Tom_Bergeron 
+Youtube ID: 	Yg34qeMsI4E 
+Video length: 	199.4 sec 
+Set (V): 		dev 
+ 
+Tom_Bergeron/Yg34qeMsI4E_0000001 46.4 51.1 
+Tom_Bergeron/Yg34qeMsI4E_0000002 52.0 58.2 
+Tom_Bergeron/Yg34qeMsI4E_0000003 68.0 75.5 
+Tom_Bergeron/Yg34qeMsI4E_0000004 78.7 95.8 
+Tom_Bergeron/Yg34qeMsI4E_0000005 170.2 175.1 
+Tom_Bergeron/Yg34qeMsI4E_0000006 179.1 184.7 

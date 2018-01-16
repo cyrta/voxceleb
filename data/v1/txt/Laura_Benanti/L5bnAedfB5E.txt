@@ -1,0 +1,8 @@
+POI: 			Laura_Benanti 
+Youtube ID: 	L5bnAedfB5E 
+Video length: 	292.8 sec 
+Set (V): 		dev 
+ 
+Laura_Benanti/L5bnAedfB5E_0000001 92.8 96.9 
+Laura_Benanti/L5bnAedfB5E_0000002 191.9 198.2 
+Laura_Benanti/L5bnAedfB5E_0000003 253.1 260.7 

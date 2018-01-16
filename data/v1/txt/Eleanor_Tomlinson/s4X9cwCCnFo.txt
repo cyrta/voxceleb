@@ -1,0 +1,11 @@
+POI: 			Eleanor_Tomlinson 
+Youtube ID: 	s4X9cwCCnFo 
+Video length: 	492.1 sec 
+Set (V): 		test 
+ 
+Eleanor_Tomlinson/s4X9cwCCnFo_0000001 117.7 130.8 
+Eleanor_Tomlinson/s4X9cwCCnFo_0000002 214.3 218.6 
+Eleanor_Tomlinson/s4X9cwCCnFo_0000003 219.2 226.6 
+Eleanor_Tomlinson/s4X9cwCCnFo_0000004 279.1 289.1 
+Eleanor_Tomlinson/s4X9cwCCnFo_0000005 341.6 351.0 
+Eleanor_Tomlinson/s4X9cwCCnFo_0000006 447.2 458.0 

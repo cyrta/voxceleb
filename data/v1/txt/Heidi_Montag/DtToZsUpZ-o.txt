@@ -1,0 +1,9 @@
+POI: 			Heidi_Montag 
+Youtube ID: 	DtToZsUpZ-o 
+Video length: 	234.4 sec 
+Set (V): 		dev 
+ 
+Heidi_Montag/DtToZsUpZ-o_0000001 129.9 133.8 
+Heidi_Montag/DtToZsUpZ-o_0000002 160.9 167.3 
+Heidi_Montag/DtToZsUpZ-o_0000003 167.8 173.6 
+Heidi_Montag/DtToZsUpZ-o_0000004 161.1 169.8 

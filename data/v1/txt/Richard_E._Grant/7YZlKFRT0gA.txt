@@ -1,0 +1,9 @@
+POI: 			Richard_E._Grant 
+Youtube ID: 	7YZlKFRT0gA 
+Video length: 	71.8 sec 
+Set (V): 		dev 
+ 
+Richard_E._Grant/7YZlKFRT0gA_0000001 07.3 12.5 
+Richard_E._Grant/7YZlKFRT0gA_0000002 18.8 34.6 
+Richard_E._Grant/7YZlKFRT0gA_0000003 37.7 44.5 
+Richard_E._Grant/7YZlKFRT0gA_0000004 50.3 55.7 

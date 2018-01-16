@@ -1,0 +1,12 @@
+POI: 			Anthony_Anderson 
+Youtube ID: 	XcZRqtFEis0 
+Video length: 	284.8 sec 
+Set (V): 		dev 
+ 
+Anthony_Anderson/XcZRqtFEis0_0000001 96.0 103.6 
+Anthony_Anderson/XcZRqtFEis0_0000002 125.6 131.0 
+Anthony_Anderson/XcZRqtFEis0_0000003 157.0 161.1 
+Anthony_Anderson/XcZRqtFEis0_0000004 170.3 174.8 
+Anthony_Anderson/XcZRqtFEis0_0000005 192.4 197.5 
+Anthony_Anderson/XcZRqtFEis0_0000006 207.1 214.2 
+Anthony_Anderson/XcZRqtFEis0_0000007 245.0 250.5 

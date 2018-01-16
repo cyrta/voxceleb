@@ -1,0 +1,18 @@
+POI: 			Marie_Osmond 
+Youtube ID: 	JobQRytGvp8 
+Video length: 	742.6 sec 
+Set (V): 		dev 
+ 
+Marie_Osmond/JobQRytGvp8_0000001 25.7 31.8 
+Marie_Osmond/JobQRytGvp8_0000002 33.6 37.8 
+Marie_Osmond/JobQRytGvp8_0000003 103.7 115.7 
+Marie_Osmond/JobQRytGvp8_0000004 115.8 121.8 
+Marie_Osmond/JobQRytGvp8_0000005 166.4 177.9 
+Marie_Osmond/JobQRytGvp8_0000006 187.7 196.8 
+Marie_Osmond/JobQRytGvp8_0000007 244.7 249.5 
+Marie_Osmond/JobQRytGvp8_0000008 274.4 283.0 
+Marie_Osmond/JobQRytGvp8_0000009 516.4 522.7 
+Marie_Osmond/JobQRytGvp8_0000010 525.3 529.8 
+Marie_Osmond/JobQRytGvp8_0000011 533.7 538.3 
+Marie_Osmond/JobQRytGvp8_0000012 585.1 592.6 
+Marie_Osmond/JobQRytGvp8_0000013 678.4 686.3 

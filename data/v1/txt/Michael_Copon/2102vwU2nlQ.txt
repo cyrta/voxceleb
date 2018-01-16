@@ -1,0 +1,13 @@
+POI: 			Michael_Copon 
+Youtube ID: 	2102vwU2nlQ 
+Video length: 	416.0 sec 
+Set (V): 		dev 
+ 
+Michael_Copon/2102vwU2nlQ_0000001 22.6 26.6 
+Michael_Copon/2102vwU2nlQ_0000002 119.4 128.1 
+Michael_Copon/2102vwU2nlQ_0000003 142.0 146.2 
+Michael_Copon/2102vwU2nlQ_0000004 150.3 160.2 
+Michael_Copon/2102vwU2nlQ_0000005 160.3 167.8 
+Michael_Copon/2102vwU2nlQ_0000006 229.6 234.0 
+Michael_Copon/2102vwU2nlQ_0000007 247.0 263.7 
+Michael_Copon/2102vwU2nlQ_0000008 364.8 379.1 

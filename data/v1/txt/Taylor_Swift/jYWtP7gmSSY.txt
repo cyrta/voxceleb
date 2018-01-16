@@ -1,0 +1,9 @@
+POI: 			Taylor_Swift 
+Youtube ID: 	jYWtP7gmSSY 
+Video length: 	605.0 sec 
+Set (V): 		dev 
+ 
+Taylor_Swift/jYWtP7gmSSY_0000001 107.9 112.9 
+Taylor_Swift/jYWtP7gmSSY_0000002 234.4 243.8 
+Taylor_Swift/jYWtP7gmSSY_0000003 279.4 287.4 
+Taylor_Swift/jYWtP7gmSSY_0000004 322.9 329.5 

@@ -1,0 +1,25 @@
+POI: 			Donald_Sutherland 
+Youtube ID: 	L8bHkpVcEKo 
+Video length: 	1629.2 sec 
+Set (V): 		dev 
+ 
+Donald_Sutherland/L8bHkpVcEKo_0000001 68.0 72.7 
+Donald_Sutherland/L8bHkpVcEKo_0000002 83.3 88.2 
+Donald_Sutherland/L8bHkpVcEKo_0000003 157.9 163.5 
+Donald_Sutherland/L8bHkpVcEKo_0000004 168.0 174.5 
+Donald_Sutherland/L8bHkpVcEKo_0000005 187.5 193.0 
+Donald_Sutherland/L8bHkpVcEKo_0000006 232.4 237.6 
+Donald_Sutherland/L8bHkpVcEKo_0000007 271.6 277.4 
+Donald_Sutherland/L8bHkpVcEKo_0000008 341.8 350.4 
+Donald_Sutherland/L8bHkpVcEKo_0000009 352.6 356.6 
+Donald_Sutherland/L8bHkpVcEKo_0000010 764.9 768.9 
+Donald_Sutherland/L8bHkpVcEKo_0000011 782.0 791.6 
+Donald_Sutherland/L8bHkpVcEKo_0000012 796.2 801.8 
+Donald_Sutherland/L8bHkpVcEKo_0000013 919.6 923.9 
+Donald_Sutherland/L8bHkpVcEKo_0000014 986.2 990.4 
+Donald_Sutherland/L8bHkpVcEKo_0000015 1067.8 1073.4 
+Donald_Sutherland/L8bHkpVcEKo_0000016 1082.8 1088.1 
+Donald_Sutherland/L8bHkpVcEKo_0000017 1137.9 1142.1 
+Donald_Sutherland/L8bHkpVcEKo_0000018 1162.8 1168.2 
+Donald_Sutherland/L8bHkpVcEKo_0000019 1448.6 1454.0 
+Donald_Sutherland/L8bHkpVcEKo_0000020 1484.4 1489.4 

@@ -1,0 +1,19 @@
+POI: 			Heather_Graham 
+Youtube ID: 	qivtXRptDvU 
+Video length: 	258.5 sec 
+Set (V): 		dev 
+ 
+Heather_Graham/qivtXRptDvU_0000001 25.2 32.7 
+Heather_Graham/qivtXRptDvU_0000002 33.4 43.0 
+Heather_Graham/qivtXRptDvU_0000003 60.6 71.6 
+Heather_Graham/qivtXRptDvU_0000004 73.8 85.1 
+Heather_Graham/qivtXRptDvU_0000005 96.5 105.0 
+Heather_Graham/qivtXRptDvU_0000006 111.7 119.4 
+Heather_Graham/qivtXRptDvU_0000007 128.7 134.6 
+Heather_Graham/qivtXRptDvU_0000008 135.9 140.0 
+Heather_Graham/qivtXRptDvU_0000009 142.4 150.0 
+Heather_Graham/qivtXRptDvU_0000010 151.8 157.1 
+Heather_Graham/qivtXRptDvU_0000011 157.4 163.3 
+Heather_Graham/qivtXRptDvU_0000012 197.6 210.8 
+Heather_Graham/qivtXRptDvU_0000013 219.0 223.0 
+Heather_Graham/qivtXRptDvU_0000014 238.4 248.9 

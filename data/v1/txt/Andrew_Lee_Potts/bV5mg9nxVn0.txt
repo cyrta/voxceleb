@@ -1,0 +1,10 @@
+POI: 			Andrew_Lee_Potts 
+Youtube ID: 	bV5mg9nxVn0 
+Video length: 	104.5 sec 
+Set (V): 		dev 
+ 
+Andrew_Lee_Potts/bV5mg9nxVn0_0000001 11.1 15.3 
+Andrew_Lee_Potts/bV5mg9nxVn0_0000002 17.4 54.6 
+Andrew_Lee_Potts/bV5mg9nxVn0_0000003 59.6 64.5 
+Andrew_Lee_Potts/bV5mg9nxVn0_0000004 64.7 72.6 
+Andrew_Lee_Potts/bV5mg9nxVn0_0000005 79.7 91.4 

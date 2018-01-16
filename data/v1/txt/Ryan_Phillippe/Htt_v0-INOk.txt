@@ -1,0 +1,18 @@
+POI: 			Ryan_Phillippe 
+Youtube ID: 	Htt_v0-INOk 
+Video length: 	281.8 sec 
+Set (V): 		dev 
+ 
+Ryan_Phillippe/Htt_v0-INOk_0000001 22.4 41.2 
+Ryan_Phillippe/Htt_v0-INOk_0000002 41.9 46.4 
+Ryan_Phillippe/Htt_v0-INOk_0000003 46.6 50.6 
+Ryan_Phillippe/Htt_v0-INOk_0000004 69.4 86.0 
+Ryan_Phillippe/Htt_v0-INOk_0000005 98.3 102.6 
+Ryan_Phillippe/Htt_v0-INOk_0000006 106.7 112.6 
+Ryan_Phillippe/Htt_v0-INOk_0000007 113.1 122.9 
+Ryan_Phillippe/Htt_v0-INOk_0000008 128.0 140.9 
+Ryan_Phillippe/Htt_v0-INOk_0000009 149.3 160.0 
+Ryan_Phillippe/Htt_v0-INOk_0000010 180.7 198.4 
+Ryan_Phillippe/Htt_v0-INOk_0000011 223.8 230.8 
+Ryan_Phillippe/Htt_v0-INOk_0000012 232.6 237.3 
+Ryan_Phillippe/Htt_v0-INOk_0000013 255.5 269.7 

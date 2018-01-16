@@ -1,0 +1,18 @@
+POI: 			Pete_Wentz 
+Youtube ID: 	kGEOjhIZ09w 
+Video length: 	490.8 sec 
+Set (V): 		dev 
+ 
+Pete_Wentz/kGEOjhIZ09w_0000001 35.9 48.8 
+Pete_Wentz/kGEOjhIZ09w_0000002 97.2 105.4 
+Pete_Wentz/kGEOjhIZ09w_0000003 109.6 113.6 
+Pete_Wentz/kGEOjhIZ09w_0000004 125.4 131.1 
+Pete_Wentz/kGEOjhIZ09w_0000005 135.2 142.4 
+Pete_Wentz/kGEOjhIZ09w_0000006 178.8 183.8 
+Pete_Wentz/kGEOjhIZ09w_0000007 218.0 226.2 
+Pete_Wentz/kGEOjhIZ09w_0000008 234.6 240.0 
+Pete_Wentz/kGEOjhIZ09w_0000009 306.6 320.9 
+Pete_Wentz/kGEOjhIZ09w_0000010 332.1 338.4 
+Pete_Wentz/kGEOjhIZ09w_0000011 341.9 348.2 
+Pete_Wentz/kGEOjhIZ09w_0000012 398.0 408.5 
+Pete_Wentz/kGEOjhIZ09w_0000013 419.9 437.1 

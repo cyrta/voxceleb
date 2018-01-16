@@ -1,0 +1,10 @@
+POI: 			Eoin_Macken 
+Youtube ID: 	BbAymRBSpPM 
+Video length: 	335.9 sec 
+Set (V): 		test 
+ 
+Eoin_Macken/BbAymRBSpPM_0000001 24.6 28.6 
+Eoin_Macken/BbAymRBSpPM_0000002 70.1 74.5 
+Eoin_Macken/BbAymRBSpPM_0000003 107.6 116.2 
+Eoin_Macken/BbAymRBSpPM_0000004 262.6 267.2 
+Eoin_Macken/BbAymRBSpPM_0000005 272.3 280.3 

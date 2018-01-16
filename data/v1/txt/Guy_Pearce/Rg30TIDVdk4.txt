@@ -1,0 +1,7 @@
+POI: 			Guy_Pearce 
+Youtube ID: 	Rg30TIDVdk4 
+Video length: 	184.6 sec 
+Set (V): 		dev 
+ 
+Guy_Pearce/Rg30TIDVdk4_0000001 56.4 61.3 
+Guy_Pearce/Rg30TIDVdk4_0000002 66.6 75.9 

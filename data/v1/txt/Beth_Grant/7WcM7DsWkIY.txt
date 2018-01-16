@@ -1,0 +1,10 @@
+POI: 			Beth_Grant 
+Youtube ID: 	7WcM7DsWkIY 
+Video length: 	145.5 sec 
+Set (V): 		dev 
+ 
+Beth_Grant/7WcM7DsWkIY_0000001 59.3 64.6 
+Beth_Grant/7WcM7DsWkIY_0000002 73.4 77.8 
+Beth_Grant/7WcM7DsWkIY_0000003 78.7 83.0 
+Beth_Grant/7WcM7DsWkIY_0000004 85.5 89.5 
+Beth_Grant/7WcM7DsWkIY_0000005 103.1 108.6 

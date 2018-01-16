@@ -1,0 +1,12 @@
+POI: 			Tony_Curran 
+Youtube ID: 	A7PqUWo-4og 
+Video length: 	311.8 sec 
+Set (V): 		dev 
+ 
+Tony_Curran/A7PqUWo-4og_0000001 54.9 60.6 
+Tony_Curran/A7PqUWo-4og_0000002 84.4 95.0 
+Tony_Curran/A7PqUWo-4og_0000003 115.7 122.4 
+Tony_Curran/A7PqUWo-4og_0000004 151.7 159.1 
+Tony_Curran/A7PqUWo-4og_0000005 183.8 191.2 
+Tony_Curran/A7PqUWo-4og_0000006 252.7 262.9 
+Tony_Curran/A7PqUWo-4og_0000007 268.8 276.0 

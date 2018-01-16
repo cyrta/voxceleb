@@ -1,0 +1,13 @@
+POI: 			Will_Poulter 
+Youtube ID: 	QT0T8hWKh1Y 
+Video length: 	645.9 sec 
+Set (V): 		dev 
+ 
+Will_Poulter/QT0T8hWKh1Y_0000001 133.3 139.2 
+Will_Poulter/QT0T8hWKh1Y_0000002 221.2 226.8 
+Will_Poulter/QT0T8hWKh1Y_0000003 332.9 345.5 
+Will_Poulter/QT0T8hWKh1Y_0000004 347.0 356.4 
+Will_Poulter/QT0T8hWKh1Y_0000005 358.6 369.8 
+Will_Poulter/QT0T8hWKh1Y_0000006 519.3 528.4 
+Will_Poulter/QT0T8hWKh1Y_0000007 529.6 533.6 
+Will_Poulter/QT0T8hWKh1Y_0000008 534.8 542.9 

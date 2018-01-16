@@ -1,0 +1,7 @@
+POI: 			Ryan_Phillippe 
+Youtube ID: 	5WkQsdChfRA 
+Video length: 	531.7 sec 
+Set (V): 		dev 
+ 
+Ryan_Phillippe/5WkQsdChfRA_0000001 223.5 228.7 
+Ryan_Phillippe/5WkQsdChfRA_0000002 388.6 393.2 

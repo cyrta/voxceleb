@@ -1,0 +1,12 @@
+POI: 			Michelle_Dockery 
+Youtube ID: 	8GjfVDch1Fw 
+Video length: 	152.9 sec 
+Set (V): 		dev 
+ 
+Michelle_Dockery/8GjfVDch1Fw_0000001 13.6 19.8 
+Michelle_Dockery/8GjfVDch1Fw_0000002 38.6 55.9 
+Michelle_Dockery/8GjfVDch1Fw_0000003 67.7 72.9 
+Michelle_Dockery/8GjfVDch1Fw_0000004 73.1 83.6 
+Michelle_Dockery/8GjfVDch1Fw_0000005 84.1 94.2 
+Michelle_Dockery/8GjfVDch1Fw_0000006 94.6 106.3 
+Michelle_Dockery/8GjfVDch1Fw_0000007 116.0 139.1 

@@ -1,0 +1,12 @@
+POI: 			Bethany_Mota 
+Youtube ID: 	kYdalCxoQrU 
+Video length: 	613.4 sec 
+Set (V): 		dev 
+ 
+Bethany_Mota/kYdalCxoQrU_0000001 86.6 98.7 
+Bethany_Mota/kYdalCxoQrU_0000002 99.2 106.0 
+Bethany_Mota/kYdalCxoQrU_0000003 134.5 143.3 
+Bethany_Mota/kYdalCxoQrU_0000004 152.0 157.0 
+Bethany_Mota/kYdalCxoQrU_0000005 270.2 274.8 
+Bethany_Mota/kYdalCxoQrU_0000006 323.1 328.3 
+Bethany_Mota/kYdalCxoQrU_0000007 328.8 332.9 

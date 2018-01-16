@@ -1,0 +1,10 @@
+POI: 			Steve_Burton 
+Youtube ID: 	EHIPNo4WDrQ 
+Video length: 	230.8 sec 
+Set (V): 		dev 
+ 
+Steve_Burton/EHIPNo4WDrQ_0000001 49.4 54.1 
+Steve_Burton/EHIPNo4WDrQ_0000002 91.0 95.1 
+Steve_Burton/EHIPNo4WDrQ_0000003 100.2 105.8 
+Steve_Burton/EHIPNo4WDrQ_0000004 204.6 210.4 
+Steve_Burton/EHIPNo4WDrQ_0000005 210.9 217.2 

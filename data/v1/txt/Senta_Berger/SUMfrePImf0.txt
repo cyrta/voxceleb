@@ -1,0 +1,17 @@
+POI: 			Senta_Berger 
+Youtube ID: 	SUMfrePImf0 
+Video length: 	487.3 sec 
+Set (V): 		dev 
+ 
+Senta_Berger/SUMfrePImf0_0000001 67.3 88.2 
+Senta_Berger/SUMfrePImf0_0000002 90.2 98.4 
+Senta_Berger/SUMfrePImf0_0000003 223.6 233.6 
+Senta_Berger/SUMfrePImf0_0000004 233.8 243.7 
+Senta_Berger/SUMfrePImf0_0000005 272.1 278.2 
+Senta_Berger/SUMfrePImf0_0000006 287.7 292.8 
+Senta_Berger/SUMfrePImf0_0000007 294.2 300.6 
+Senta_Berger/SUMfrePImf0_0000008 310.5 319.5 
+Senta_Berger/SUMfrePImf0_0000009 320.2 327.0 
+Senta_Berger/SUMfrePImf0_0000010 327.3 340.9 
+Senta_Berger/SUMfrePImf0_0000011 445.2 467.2 
+Senta_Berger/SUMfrePImf0_0000012 470.6 485.8 

@@ -1,0 +1,8 @@
+POI: 			Thomas_Gibson 
+Youtube ID: 	NcTDQfYn-hs 
+Video length: 	243.6 sec 
+Set (V): 		dev 
+ 
+Thomas_Gibson/NcTDQfYn-hs_0000001 103.4 109.4 
+Thomas_Gibson/NcTDQfYn-hs_0000002 163.6 176.1 
+Thomas_Gibson/NcTDQfYn-hs_0000003 202.1 210.7 

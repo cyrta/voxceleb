@@ -1,0 +1,7 @@
+POI: 			Alison_Arngrim 
+Youtube ID: 	kR6qvoyF9oc 
+Video length: 	41.4 sec 
+Set (V): 		dev 
+ 
+Alison_Arngrim/kR6qvoyF9oc_0000001 05.0 15.0 
+Alison_Arngrim/kR6qvoyF9oc_0000002 15.2 24.2 

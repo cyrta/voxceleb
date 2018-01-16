@@ -1,0 +1,18 @@
+POI: 			Eva_Green 
+Youtube ID: 	cc5WSHcgkl8 
+Video length: 	364.4 sec 
+Set (V): 		test 
+ 
+Eva_Green/cc5WSHcgkl8_0000001 17.8 21.9 
+Eva_Green/cc5WSHcgkl8_0000002 22.9 28.4 
+Eva_Green/cc5WSHcgkl8_0000003 29.3 39.5 
+Eva_Green/cc5WSHcgkl8_0000004 40.4 44.3 
+Eva_Green/cc5WSHcgkl8_0000005 75.8 80.0 
+Eva_Green/cc5WSHcgkl8_0000006 81.2 108.1 
+Eva_Green/cc5WSHcgkl8_0000007 118.6 124.8 
+Eva_Green/cc5WSHcgkl8_0000008 128.3 135.4 
+Eva_Green/cc5WSHcgkl8_0000009 174.4 180.0 
+Eva_Green/cc5WSHcgkl8_0000010 180.4 185.8 
+Eva_Green/cc5WSHcgkl8_0000011 194.3 206.6 
+Eva_Green/cc5WSHcgkl8_0000012 207.4 214.3 
+Eva_Green/cc5WSHcgkl8_0000013 240.3 256.3 

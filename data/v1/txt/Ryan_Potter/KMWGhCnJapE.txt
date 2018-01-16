@@ -1,0 +1,9 @@
+POI: 			Ryan_Potter 
+Youtube ID: 	KMWGhCnJapE 
+Video length: 	385.9 sec 
+Set (V): 		dev 
+ 
+Ryan_Potter/KMWGhCnJapE_0000001 85.2 93.0 
+Ryan_Potter/KMWGhCnJapE_0000002 142.9 154.2 
+Ryan_Potter/KMWGhCnJapE_0000003 154.8 161.6 
+Ryan_Potter/KMWGhCnJapE_0000004 302.8 307.7 

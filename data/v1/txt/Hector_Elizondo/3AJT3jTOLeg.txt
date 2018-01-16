@@ -1,0 +1,7 @@
+POI: 			Hector_Elizondo 
+Youtube ID: 	3AJT3jTOLeg 
+Video length: 	223.8 sec 
+Set (V): 		dev 
+ 
+Hector_Elizondo/3AJT3jTOLeg_0000001 59.0 73.8 
+Hector_Elizondo/3AJT3jTOLeg_0000002 96.3 100.4 

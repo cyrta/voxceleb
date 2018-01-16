@@ -1,0 +1,8 @@
+POI: 			Jennifer_Saunders 
+Youtube ID: 	qbrbzeafOBY 
+Video length: 	110.7 sec 
+Set (V): 		dev 
+ 
+Jennifer_Saunders/qbrbzeafOBY_0000001 79.8 84.6 
+Jennifer_Saunders/qbrbzeafOBY_0000002 84.8 90.5 
+Jennifer_Saunders/qbrbzeafOBY_0000003 84.8 88.9 

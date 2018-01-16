@@ -1,0 +1,9 @@
+POI: 			Jeremy_Irvine 
+Youtube ID: 	77EAEyOwaDo 
+Video length: 	301.8 sec 
+Set (V): 		dev 
+ 
+Jeremy_Irvine/77EAEyOwaDo_0000001 104.8 111.2 
+Jeremy_Irvine/77EAEyOwaDo_0000002 135.6 142.7 
+Jeremy_Irvine/77EAEyOwaDo_0000003 165.8 172.9 
+Jeremy_Irvine/77EAEyOwaDo_0000004 277.2 285.0 

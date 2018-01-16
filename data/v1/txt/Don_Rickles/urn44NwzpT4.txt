@@ -1,0 +1,12 @@
+POI: 			Don_Rickles 
+Youtube ID: 	urn44NwzpT4 
+Video length: 	542.7 sec 
+Set (V): 		dev 
+ 
+Don_Rickles/urn44NwzpT4_0000001 01.3 06.3 
+Don_Rickles/urn44NwzpT4_0000002 81.6 94.6 
+Don_Rickles/urn44NwzpT4_0000003 96.6 100.8 
+Don_Rickles/urn44NwzpT4_0000004 378.9 401.0 
+Don_Rickles/urn44NwzpT4_0000005 405.6 411.6 
+Don_Rickles/urn44NwzpT4_0000006 449.6 454.8 
+Don_Rickles/urn44NwzpT4_0000007 476.0 482.4 

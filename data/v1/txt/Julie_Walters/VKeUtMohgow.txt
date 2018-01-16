@@ -1,0 +1,14 @@
+POI: 			Julie_Walters 
+Youtube ID: 	VKeUtMohgow 
+Video length: 	600.7 sec 
+Set (V): 		dev 
+ 
+Julie_Walters/VKeUtMohgow_0000001 27.8 34.7 
+Julie_Walters/VKeUtMohgow_0000002 43.8 48.0 
+Julie_Walters/VKeUtMohgow_0000003 50.2 54.3 
+Julie_Walters/VKeUtMohgow_0000004 74.0 82.6 
+Julie_Walters/VKeUtMohgow_0000005 124.0 136.8 
+Julie_Walters/VKeUtMohgow_0000006 485.0 490.1 
+Julie_Walters/VKeUtMohgow_0000007 516.1 520.5 
+Julie_Walters/VKeUtMohgow_0000008 550.6 557.5 
+Julie_Walters/VKeUtMohgow_0000009 558.0 567.5 

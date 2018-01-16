@@ -1,0 +1,9 @@
+POI: 			Kathryn_Hahn 
+Youtube ID: 	qxgUB96ZegY 
+Video length: 	445.6 sec 
+Set (V): 		dev 
+ 
+Kathryn_Hahn/qxgUB96ZegY_0000001 86.5 91.8 
+Kathryn_Hahn/qxgUB96ZegY_0000002 95.2 101.8 
+Kathryn_Hahn/qxgUB96ZegY_0000003 120.1 124.6 
+Kathryn_Hahn/qxgUB96ZegY_0000004 124.8 130.0 

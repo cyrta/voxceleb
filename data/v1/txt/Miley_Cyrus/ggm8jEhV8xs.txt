@@ -1,0 +1,12 @@
+POI: 			Miley_Cyrus 
+Youtube ID: 	ggm8jEhV8xs 
+Video length: 	522.3 sec 
+Set (V): 		dev 
+ 
+Miley_Cyrus/ggm8jEhV8xs_0000001 295.0 302.0 
+Miley_Cyrus/ggm8jEhV8xs_0000002 371.4 377.8 
+Miley_Cyrus/ggm8jEhV8xs_0000003 418.0 422.3 
+Miley_Cyrus/ggm8jEhV8xs_0000004 444.7 450.1 
+Miley_Cyrus/ggm8jEhV8xs_0000005 482.7 489.4 
+Miley_Cyrus/ggm8jEhV8xs_0000006 494.2 501.4 
+Miley_Cyrus/ggm8jEhV8xs_0000007 502.2 507.6 

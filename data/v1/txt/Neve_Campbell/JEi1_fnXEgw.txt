@@ -1,0 +1,10 @@
+POI: 			Neve_Campbell 
+Youtube ID: 	JEi1_fnXEgw 
+Video length: 	151.7 sec 
+Set (V): 		dev 
+ 
+Neve_Campbell/JEi1_fnXEgw_0000001 09.3 13.5 
+Neve_Campbell/JEi1_fnXEgw_0000002 35.8 56.8 
+Neve_Campbell/JEi1_fnXEgw_0000003 75.7 83.4 
+Neve_Campbell/JEi1_fnXEgw_0000004 129.0 135.4 
+Neve_Campbell/JEi1_fnXEgw_0000005 136.4 145.3 

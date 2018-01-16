@@ -1,0 +1,14 @@
+POI: 			Olivia_Cooke 
+Youtube ID: 	Lt8cc1Clg-g 
+Video length: 	524.3 sec 
+Set (V): 		dev 
+ 
+Olivia_Cooke/Lt8cc1Clg-g_0000001 17.6 21.6 
+Olivia_Cooke/Lt8cc1Clg-g_0000002 22.4 27.0 
+Olivia_Cooke/Lt8cc1Clg-g_0000003 40.3 46.0 
+Olivia_Cooke/Lt8cc1Clg-g_0000004 124.6 128.8 
+Olivia_Cooke/Lt8cc1Clg-g_0000005 135.0 141.3 
+Olivia_Cooke/Lt8cc1Clg-g_0000006 141.6 148.0 
+Olivia_Cooke/Lt8cc1Clg-g_0000007 153.7 158.8 
+Olivia_Cooke/Lt8cc1Clg-g_0000008 217.3 222.4 
+Olivia_Cooke/Lt8cc1Clg-g_0000009 223.8 229.8 

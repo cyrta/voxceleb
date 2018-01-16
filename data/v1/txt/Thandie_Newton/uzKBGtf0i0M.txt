@@ -1,0 +1,27 @@
+POI: 			Thandie_Newton 
+Youtube ID: 	uzKBGtf0i0M 
+Video length: 	835.7 sec 
+Set (V): 		dev 
+ 
+Thandie_Newton/uzKBGtf0i0M_0000001 26.3 31.0 
+Thandie_Newton/uzKBGtf0i0M_0000002 98.2 104.7 
+Thandie_Newton/uzKBGtf0i0M_0000003 114.0 119.5 
+Thandie_Newton/uzKBGtf0i0M_0000004 126.6 133.6 
+Thandie_Newton/uzKBGtf0i0M_0000005 146.5 150.9 
+Thandie_Newton/uzKBGtf0i0M_0000006 151.8 156.0 
+Thandie_Newton/uzKBGtf0i0M_0000007 180.0 187.2 
+Thandie_Newton/uzKBGtf0i0M_0000008 195.9 200.6 
+Thandie_Newton/uzKBGtf0i0M_0000009 215.2 225.9 
+Thandie_Newton/uzKBGtf0i0M_0000010 237.4 243.6 
+Thandie_Newton/uzKBGtf0i0M_0000011 275.8 282.6 
+Thandie_Newton/uzKBGtf0i0M_0000012 302.0 307.0 
+Thandie_Newton/uzKBGtf0i0M_0000013 365.3 371.5 
+Thandie_Newton/uzKBGtf0i0M_0000014 401.7 405.8 
+Thandie_Newton/uzKBGtf0i0M_0000015 453.7 460.4 
+Thandie_Newton/uzKBGtf0i0M_0000016 475.6 480.6 
+Thandie_Newton/uzKBGtf0i0M_0000017 579.5 583.7 
+Thandie_Newton/uzKBGtf0i0M_0000018 641.0 653.3 
+Thandie_Newton/uzKBGtf0i0M_0000019 654.5 659.8 
+Thandie_Newton/uzKBGtf0i0M_0000020 667.6 689.1 
+Thandie_Newton/uzKBGtf0i0M_0000021 708.0 717.6 
+Thandie_Newton/uzKBGtf0i0M_0000022 752.4 758.3 

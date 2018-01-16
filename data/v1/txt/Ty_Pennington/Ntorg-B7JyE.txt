@@ -1,0 +1,11 @@
+POI: 			Ty_Pennington 
+Youtube ID: 	Ntorg-B7JyE 
+Video length: 	283.2 sec 
+Set (V): 		dev 
+ 
+Ty_Pennington/Ntorg-B7JyE_0000001 80.0 85.8 
+Ty_Pennington/Ntorg-B7JyE_0000002 86.7 91.4 
+Ty_Pennington/Ntorg-B7JyE_0000003 157.0 163.7 
+Ty_Pennington/Ntorg-B7JyE_0000004 190.4 197.2 
+Ty_Pennington/Ntorg-B7JyE_0000005 230.1 236.2 
+Ty_Pennington/Ntorg-B7JyE_0000006 237.8 246.6 

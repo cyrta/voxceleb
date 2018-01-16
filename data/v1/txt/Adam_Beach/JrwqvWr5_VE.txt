@@ -1,0 +1,14 @@
+POI: 			Adam_Beach 
+Youtube ID: 	JrwqvWr5_VE 
+Video length: 	190.9 sec 
+Set (V): 		dev 
+ 
+Adam_Beach/JrwqvWr5_VE_0000001 09.2 16.3 
+Adam_Beach/JrwqvWr5_VE_0000002 55.1 59.6 
+Adam_Beach/JrwqvWr5_VE_0000003 93.8 97.7 
+Adam_Beach/JrwqvWr5_VE_0000004 103.8 109.2 
+Adam_Beach/JrwqvWr5_VE_0000005 115.4 121.9 
+Adam_Beach/JrwqvWr5_VE_0000006 123.3 130.2 
+Adam_Beach/JrwqvWr5_VE_0000007 132.0 136.2 
+Adam_Beach/JrwqvWr5_VE_0000008 142.5 146.6 
+Adam_Beach/JrwqvWr5_VE_0000009 151.2 157.3 

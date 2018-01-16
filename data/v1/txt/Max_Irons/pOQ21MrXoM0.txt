@@ -1,0 +1,15 @@
+POI: 			Max_Irons 
+Youtube ID: 	pOQ21MrXoM0 
+Video length: 	246.8 sec 
+Set (V): 		dev 
+ 
+Max_Irons/pOQ21MrXoM0_0000001 13.4 22.0 
+Max_Irons/pOQ21MrXoM0_0000002 22.6 30.5 
+Max_Irons/pOQ21MrXoM0_0000003 31.0 39.0 
+Max_Irons/pOQ21MrXoM0_0000004 65.7 71.6 
+Max_Irons/pOQ21MrXoM0_0000005 87.3 95.3 
+Max_Irons/pOQ21MrXoM0_0000006 97.6 102.5 
+Max_Irons/pOQ21MrXoM0_0000007 124.3 130.8 
+Max_Irons/pOQ21MrXoM0_0000008 135.0 140.4 
+Max_Irons/pOQ21MrXoM0_0000009 164.9 169.8 
+Max_Irons/pOQ21MrXoM0_0000010 225.7 237.8 

@@ -1,0 +1,16 @@
+POI: 			Dylan_Moran 
+Youtube ID: 	eIV480Vz-pc 
+Video length: 	1034.6 sec 
+Set (V): 		dev 
+ 
+Dylan_Moran/eIV480Vz-pc_0000001 120.3 124.5 
+Dylan_Moran/eIV480Vz-pc_0000002 135.2 140.0 
+Dylan_Moran/eIV480Vz-pc_0000003 197.8 202.5 
+Dylan_Moran/eIV480Vz-pc_0000004 271.5 283.7 
+Dylan_Moran/eIV480Vz-pc_0000005 391.2 396.0 
+Dylan_Moran/eIV480Vz-pc_0000006 450.5 456.4 
+Dylan_Moran/eIV480Vz-pc_0000007 492.9 498.2 
+Dylan_Moran/eIV480Vz-pc_0000008 503.6 508.9 
+Dylan_Moran/eIV480Vz-pc_0000009 729.8 734.8 
+Dylan_Moran/eIV480Vz-pc_0000010 873.7 878.1 
+Dylan_Moran/eIV480Vz-pc_0000011 969.2 976.1 

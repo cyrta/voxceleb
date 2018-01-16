@@ -1,0 +1,7 @@
+POI: 			Kayvan_Novak 
+Youtube ID: 	9XACDK_bxBw 
+Video length: 	126.7 sec 
+Set (V): 		dev 
+ 
+Kayvan_Novak/9XACDK_bxBw_0000001 00.8 10.7 
+Kayvan_Novak/9XACDK_bxBw_0000002 41.9 46.8 

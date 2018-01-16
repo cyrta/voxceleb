@@ -1,0 +1,8 @@
+POI: 			Tom_Arnold 
+Youtube ID: 	oJ4Q7unil1c 
+Video length: 	101.6 sec 
+Set (V): 		dev 
+ 
+Tom_Arnold/oJ4Q7unil1c_0000001 47.0 54.2 
+Tom_Arnold/oJ4Q7unil1c_0000002 61.6 68.7 
+Tom_Arnold/oJ4Q7unil1c_0000003 69.4 77.5 

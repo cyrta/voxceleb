@@ -1,0 +1,9 @@
+POI: 			Don_Rickles 
+Youtube ID: 	IL66MC88a-U 
+Video length: 	769.5 sec 
+Set (V): 		dev 
+ 
+Don_Rickles/IL66MC88a-U_0000001 263.2 267.9 
+Don_Rickles/IL66MC88a-U_0000002 304.1 310.5 
+Don_Rickles/IL66MC88a-U_0000003 421.4 425.6 
+Don_Rickles/IL66MC88a-U_0000004 527.6 532.7 

@@ -1,0 +1,18 @@
+POI: 			Thandie_Newton 
+Youtube ID: 	pIxDHYzYFCE 
+Video length: 	367.5 sec 
+Set (V): 		dev 
+ 
+Thandie_Newton/pIxDHYzYFCE_0000001 43.5 60.1 
+Thandie_Newton/pIxDHYzYFCE_0000002 66.0 89.6 
+Thandie_Newton/pIxDHYzYFCE_0000003 118.9 123.6 
+Thandie_Newton/pIxDHYzYFCE_0000004 123.8 135.4 
+Thandie_Newton/pIxDHYzYFCE_0000005 152.8 157.1 
+Thandie_Newton/pIxDHYzYFCE_0000006 158.0 164.4 
+Thandie_Newton/pIxDHYzYFCE_0000007 175.9 200.3 
+Thandie_Newton/pIxDHYzYFCE_0000008 203.2 214.3 
+Thandie_Newton/pIxDHYzYFCE_0000009 255.8 262.0 
+Thandie_Newton/pIxDHYzYFCE_0000010 263.0 273.8 
+Thandie_Newton/pIxDHYzYFCE_0000011 283.2 290.4 
+Thandie_Newton/pIxDHYzYFCE_0000012 293.3 300.8 
+Thandie_Newton/pIxDHYzYFCE_0000013 324.2 328.8 

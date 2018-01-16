@@ -1,0 +1,14 @@
+POI: 			Melissa_Leo 
+Youtube ID: 	Cfqte1RN_D4 
+Video length: 	166.2 sec 
+Set (V): 		dev 
+ 
+Melissa_Leo/Cfqte1RN_D4_0000001 03.4 10.8 
+Melissa_Leo/Cfqte1RN_D4_0000002 11.1 17.3 
+Melissa_Leo/Cfqte1RN_D4_0000003 18.0 27.4 
+Melissa_Leo/Cfqte1RN_D4_0000004 34.7 41.2 
+Melissa_Leo/Cfqte1RN_D4_0000005 41.8 53.0 
+Melissa_Leo/Cfqte1RN_D4_0000006 103.8 115.4 
+Melissa_Leo/Cfqte1RN_D4_0000007 119.7 129.0 
+Melissa_Leo/Cfqte1RN_D4_0000008 137.1 142.1 
+Melissa_Leo/Cfqte1RN_D4_0000009 142.2 160.7 

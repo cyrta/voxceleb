@@ -1,0 +1,16 @@
+POI: 			Martin_Henderson 
+Youtube ID: 	fOeoTvILwos 
+Video length: 	597.2 sec 
+Set (V): 		dev 
+ 
+Martin_Henderson/fOeoTvILwos_0000001 75.5 79.7 
+Martin_Henderson/fOeoTvILwos_0000002 96.0 100.6 
+Martin_Henderson/fOeoTvILwos_0000003 186.7 190.8 
+Martin_Henderson/fOeoTvILwos_0000004 296.7 301.7 
+Martin_Henderson/fOeoTvILwos_0000005 395.6 400.7 
+Martin_Henderson/fOeoTvILwos_0000006 404.0 410.8 
+Martin_Henderson/fOeoTvILwos_0000007 441.8 446.4 
+Martin_Henderson/fOeoTvILwos_0000008 452.9 457.8 
+Martin_Henderson/fOeoTvILwos_0000009 464.3 469.0 
+Martin_Henderson/fOeoTvILwos_0000010 503.2 508.4 
+Martin_Henderson/fOeoTvILwos_0000011 569.1 579.4 

@@ -1,0 +1,24 @@
+POI: 			Raoul_Bova 
+Youtube ID: 	fF5qt1bEgPo 
+Video length: 	1842.8 sec 
+Set (V): 		dev 
+ 
+Raoul_Bova/fF5qt1bEgPo_0000001 113.9 118.1 
+Raoul_Bova/fF5qt1bEgPo_0000002 379.0 383.1 
+Raoul_Bova/fF5qt1bEgPo_0000003 440.5 445.7 
+Raoul_Bova/fF5qt1bEgPo_0000004 552.4 557.1 
+Raoul_Bova/fF5qt1bEgPo_0000005 681.9 686.6 
+Raoul_Bova/fF5qt1bEgPo_0000006 729.3 733.3 
+Raoul_Bova/fF5qt1bEgPo_0000007 853.8 860.2 
+Raoul_Bova/fF5qt1bEgPo_0000008 860.6 864.7 
+Raoul_Bova/fF5qt1bEgPo_0000009 867.1 871.4 
+Raoul_Bova/fF5qt1bEgPo_0000010 904.0 915.0 
+Raoul_Bova/fF5qt1bEgPo_0000011 923.0 930.2 
+Raoul_Bova/fF5qt1bEgPo_0000012 989.4 996.2 
+Raoul_Bova/fF5qt1bEgPo_0000013 1017.4 1023.0 
+Raoul_Bova/fF5qt1bEgPo_0000014 1027.6 1038.4 
+Raoul_Bova/fF5qt1bEgPo_0000015 1045.3 1050.3 
+Raoul_Bova/fF5qt1bEgPo_0000016 1052.1 1059.2 
+Raoul_Bova/fF5qt1bEgPo_0000017 1167.2 1174.0 
+Raoul_Bova/fF5qt1bEgPo_0000018 1176.8 1182.1 
+Raoul_Bova/fF5qt1bEgPo_0000019 1282.5 1288.2 

@@ -1,0 +1,15 @@
+POI: 			Rob_Reiner 
+Youtube ID: 	XaXt-hdv2Js 
+Video length: 	465.5 sec 
+Set (V): 		dev 
+ 
+Rob_Reiner/XaXt-hdv2Js_0000001 48.0 66.3 
+Rob_Reiner/XaXt-hdv2Js_0000002 67.0 89.8 
+Rob_Reiner/XaXt-hdv2Js_0000003 94.5 100.7 
+Rob_Reiner/XaXt-hdv2Js_0000004 171.6 222.8 
+Rob_Reiner/XaXt-hdv2Js_0000005 274.9 280.7 
+Rob_Reiner/XaXt-hdv2Js_0000006 282.3 287.6 
+Rob_Reiner/XaXt-hdv2Js_0000007 351.9 361.5 
+Rob_Reiner/XaXt-hdv2Js_0000008 398.1 415.6 
+Rob_Reiner/XaXt-hdv2Js_0000009 402.1 410.8 
+Rob_Reiner/XaXt-hdv2Js_0000010 421.4 437.6 

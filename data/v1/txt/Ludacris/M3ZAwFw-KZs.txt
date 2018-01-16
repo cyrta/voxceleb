@@ -1,0 +1,9 @@
+POI: 			Ludacris 
+Youtube ID: 	M3ZAwFw-KZs 
+Video length: 	262.8 sec 
+Set (V): 		dev 
+ 
+Ludacris/M3ZAwFw-KZs_0000001 46.2 51.7 
+Ludacris/M3ZAwFw-KZs_0000002 57.0 62.3 
+Ludacris/M3ZAwFw-KZs_0000003 114.2 122.0 
+Ludacris/M3ZAwFw-KZs_0000004 132.6 137.4 

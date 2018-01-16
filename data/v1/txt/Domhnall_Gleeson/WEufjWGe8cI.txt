@@ -1,0 +1,15 @@
+POI: 			Domhnall_Gleeson 
+Youtube ID: 	WEufjWGe8cI 
+Video length: 	629.1 sec 
+Set (V): 		dev 
+ 
+Domhnall_Gleeson/WEufjWGe8cI_0000001 20.8 43.0 
+Domhnall_Gleeson/WEufjWGe8cI_0000002 158.8 167.4 
+Domhnall_Gleeson/WEufjWGe8cI_0000003 177.8 183.4 
+Domhnall_Gleeson/WEufjWGe8cI_0000004 265.8 281.0 
+Domhnall_Gleeson/WEufjWGe8cI_0000005 267.2 275.3 
+Domhnall_Gleeson/WEufjWGe8cI_0000006 456.8 467.6 
+Domhnall_Gleeson/WEufjWGe8cI_0000007 467.7 472.6 
+Domhnall_Gleeson/WEufjWGe8cI_0000008 473.6 494.1 
+Domhnall_Gleeson/WEufjWGe8cI_0000009 595.3 599.4 
+Domhnall_Gleeson/WEufjWGe8cI_0000010 610.4 622.6 

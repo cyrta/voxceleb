@@ -1,0 +1,7 @@
+POI: 			Stephen_Baldwin 
+Youtube ID: 	iDsjNFbtDVM 
+Video length: 	598.0 sec 
+Set (V): 		dev 
+ 
+Stephen_Baldwin/iDsjNFbtDVM_0000001 133.7 138.9 
+Stephen_Baldwin/iDsjNFbtDVM_0000002 139.4 144.0 

@@ -1,0 +1,26 @@
+POI: 			Seth_MacFarlane 
+Youtube ID: 	dNxQtTGI8o8 
+Video length: 	310.6 sec 
+Set (V): 		dev 
+ 
+Seth_MacFarlane/dNxQtTGI8o8_0000001 01.0 05.9 
+Seth_MacFarlane/dNxQtTGI8o8_0000002 08.4 14.2 
+Seth_MacFarlane/dNxQtTGI8o8_0000003 14.8 26.9 
+Seth_MacFarlane/dNxQtTGI8o8_0000004 28.1 38.7 
+Seth_MacFarlane/dNxQtTGI8o8_0000005 39.5 44.2 
+Seth_MacFarlane/dNxQtTGI8o8_0000006 57.6 67.6 
+Seth_MacFarlane/dNxQtTGI8o8_0000007 68.4 76.4 
+Seth_MacFarlane/dNxQtTGI8o8_0000008 77.4 100.7 
+Seth_MacFarlane/dNxQtTGI8o8_0000009 109.4 114.2 
+Seth_MacFarlane/dNxQtTGI8o8_0000010 118.1 125.9 
+Seth_MacFarlane/dNxQtTGI8o8_0000011 135.4 144.2 
+Seth_MacFarlane/dNxQtTGI8o8_0000012 152.2 167.5 
+Seth_MacFarlane/dNxQtTGI8o8_0000013 173.0 180.0 
+Seth_MacFarlane/dNxQtTGI8o8_0000014 184.4 190.8 
+Seth_MacFarlane/dNxQtTGI8o8_0000015 191.6 196.4 
+Seth_MacFarlane/dNxQtTGI8o8_0000016 211.2 223.8 
+Seth_MacFarlane/dNxQtTGI8o8_0000017 224.2 233.0 
+Seth_MacFarlane/dNxQtTGI8o8_0000018 242.6 247.4 
+Seth_MacFarlane/dNxQtTGI8o8_0000019 255.6 259.9 
+Seth_MacFarlane/dNxQtTGI8o8_0000020 263.2 268.9 
+Seth_MacFarlane/dNxQtTGI8o8_0000021 298.3 308.2 

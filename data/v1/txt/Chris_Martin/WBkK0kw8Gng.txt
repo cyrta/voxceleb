@@ -1,0 +1,15 @@
+POI: 			Chris_Martin 
+Youtube ID: 	WBkK0kw8Gng 
+Video length: 	1030.6 sec 
+Set (V): 		dev 
+ 
+Chris_Martin/WBkK0kw8Gng_0000001 92.7 97.0 
+Chris_Martin/WBkK0kw8Gng_0000002 156.7 162.3 
+Chris_Martin/WBkK0kw8Gng_0000003 215.8 223.3 
+Chris_Martin/WBkK0kw8Gng_0000004 394.6 398.8 
+Chris_Martin/WBkK0kw8Gng_0000005 402.2 406.8 
+Chris_Martin/WBkK0kw8Gng_0000006 421.8 426.4 
+Chris_Martin/WBkK0kw8Gng_0000007 722.7 733.7 
+Chris_Martin/WBkK0kw8Gng_0000008 922.5 926.9 
+Chris_Martin/WBkK0kw8Gng_0000009 969.7 978.6 
+Chris_Martin/WBkK0kw8Gng_0000010 979.9 989.2 

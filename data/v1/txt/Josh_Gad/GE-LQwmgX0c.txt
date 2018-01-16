@@ -1,0 +1,19 @@
+POI: 			Josh_Gad 
+Youtube ID: 	GE-LQwmgX0c 
+Video length: 	216.5 sec 
+Set (V): 		dev 
+ 
+Josh_Gad/GE-LQwmgX0c_0000001 12.6 19.5 
+Josh_Gad/GE-LQwmgX0c_0000002 22.3 32.6 
+Josh_Gad/GE-LQwmgX0c_0000003 33.2 40.4 
+Josh_Gad/GE-LQwmgX0c_0000004 41.5 45.8 
+Josh_Gad/GE-LQwmgX0c_0000005 67.2 72.2 
+Josh_Gad/GE-LQwmgX0c_0000006 73.1 77.1 
+Josh_Gad/GE-LQwmgX0c_0000007 84.3 89.0 
+Josh_Gad/GE-LQwmgX0c_0000008 111.2 128.5 
+Josh_Gad/GE-LQwmgX0c_0000009 138.6 150.6 
+Josh_Gad/GE-LQwmgX0c_0000010 151.8 162.0 
+Josh_Gad/GE-LQwmgX0c_0000011 162.7 168.2 
+Josh_Gad/GE-LQwmgX0c_0000012 172.0 176.2 
+Josh_Gad/GE-LQwmgX0c_0000013 198.4 202.6 
+Josh_Gad/GE-LQwmgX0c_0000014 204.0 211.2 

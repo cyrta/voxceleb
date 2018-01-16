@@ -1,0 +1,18 @@
+POI: 			Rob_Brydon 
+Youtube ID: 	NK4rK6LnsAI 
+Video length: 	198.3 sec 
+Set (V): 		dev 
+ 
+Rob_Brydon/NK4rK6LnsAI_0000001 03.6 21.2 
+Rob_Brydon/NK4rK6LnsAI_0000002 38.0 42.8 
+Rob_Brydon/NK4rK6LnsAI_0000003 47.1 51.2 
+Rob_Brydon/NK4rK6LnsAI_0000004 64.9 73.2 
+Rob_Brydon/NK4rK6LnsAI_0000005 73.2 79.6 
+Rob_Brydon/NK4rK6LnsAI_0000006 95.7 100.0 
+Rob_Brydon/NK4rK6LnsAI_0000007 100.5 106.6 
+Rob_Brydon/NK4rK6LnsAI_0000008 111.8 119.3 
+Rob_Brydon/NK4rK6LnsAI_0000009 120.6 126.4 
+Rob_Brydon/NK4rK6LnsAI_0000010 128.8 136.9 
+Rob_Brydon/NK4rK6LnsAI_0000011 146.9 154.2 
+Rob_Brydon/NK4rK6LnsAI_0000012 163.0 167.3 
+Rob_Brydon/NK4rK6LnsAI_0000013 167.5 173.6 

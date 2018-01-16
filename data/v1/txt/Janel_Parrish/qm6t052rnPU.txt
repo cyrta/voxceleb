@@ -1,0 +1,11 @@
+POI: 			Janel_Parrish 
+Youtube ID: 	qm6t052rnPU 
+Video length: 	125.0 sec 
+Set (V): 		dev 
+ 
+Janel_Parrish/qm6t052rnPU_0000001 05.8 21.5 
+Janel_Parrish/qm6t052rnPU_0000002 41.5 50.7 
+Janel_Parrish/qm6t052rnPU_0000003 51.3 55.4 
+Janel_Parrish/qm6t052rnPU_0000004 56.2 63.3 
+Janel_Parrish/qm6t052rnPU_0000005 69.1 75.1 
+Janel_Parrish/qm6t052rnPU_0000006 110.6 123.6 

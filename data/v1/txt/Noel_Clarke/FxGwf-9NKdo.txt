@@ -1,0 +1,15 @@
+POI: 			Noel_Clarke 
+Youtube ID: 	FxGwf-9NKdo 
+Video length: 	436.1 sec 
+Set (V): 		dev 
+ 
+Noel_Clarke/FxGwf-9NKdo_0000001 28.3 33.0 
+Noel_Clarke/FxGwf-9NKdo_0000002 36.0 40.2 
+Noel_Clarke/FxGwf-9NKdo_0000003 42.8 47.2 
+Noel_Clarke/FxGwf-9NKdo_0000004 47.8 54.4 
+Noel_Clarke/FxGwf-9NKdo_0000005 162.6 167.4 
+Noel_Clarke/FxGwf-9NKdo_0000006 179.0 184.5 
+Noel_Clarke/FxGwf-9NKdo_0000007 214.2 219.0 
+Noel_Clarke/FxGwf-9NKdo_0000008 271.0 275.2 
+Noel_Clarke/FxGwf-9NKdo_0000009 328.0 343.4 
+Noel_Clarke/FxGwf-9NKdo_0000010 411.8 423.2 

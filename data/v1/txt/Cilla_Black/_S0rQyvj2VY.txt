@@ -1,0 +1,15 @@
+POI: 			Cilla_Black 
+Youtube ID: 	_S0rQyvj2VY 
+Video length: 	876.1 sec 
+Set (V): 		dev 
+ 
+Cilla_Black/_S0rQyvj2VY_0000001 22.1 29.6 
+Cilla_Black/_S0rQyvj2VY_0000002 304.2 309.2 
+Cilla_Black/_S0rQyvj2VY_0000003 358.3 372.7 
+Cilla_Black/_S0rQyvj2VY_0000004 503.8 509.9 
+Cilla_Black/_S0rQyvj2VY_0000005 595.5 599.5 
+Cilla_Black/_S0rQyvj2VY_0000006 661.8 667.8 
+Cilla_Black/_S0rQyvj2VY_0000007 719.4 726.3 
+Cilla_Black/_S0rQyvj2VY_0000008 743.8 748.5 
+Cilla_Black/_S0rQyvj2VY_0000009 795.7 805.4 
+Cilla_Black/_S0rQyvj2VY_0000010 810.0 815.2 

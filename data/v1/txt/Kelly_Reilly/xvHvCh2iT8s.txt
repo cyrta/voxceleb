@@ -1,0 +1,16 @@
+POI: 			Kelly_Reilly 
+Youtube ID: 	xvHvCh2iT8s 
+Video length: 	274.3 sec 
+Set (V): 		dev 
+ 
+Kelly_Reilly/xvHvCh2iT8s_0000001 09.4 24.9 
+Kelly_Reilly/xvHvCh2iT8s_0000002 46.0 59.1 
+Kelly_Reilly/xvHvCh2iT8s_0000003 59.2 67.9 
+Kelly_Reilly/xvHvCh2iT8s_0000004 120.8 130.0 
+Kelly_Reilly/xvHvCh2iT8s_0000005 135.4 140.6 
+Kelly_Reilly/xvHvCh2iT8s_0000006 143.4 150.2 
+Kelly_Reilly/xvHvCh2iT8s_0000007 153.0 158.3 
+Kelly_Reilly/xvHvCh2iT8s_0000008 187.2 192.3 
+Kelly_Reilly/xvHvCh2iT8s_0000009 210.8 223.0 
+Kelly_Reilly/xvHvCh2iT8s_0000010 230.2 241.8 
+Kelly_Reilly/xvHvCh2iT8s_0000011 264.5 268.8 

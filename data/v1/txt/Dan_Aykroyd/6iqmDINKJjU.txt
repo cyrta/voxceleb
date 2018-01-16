@@ -1,0 +1,11 @@
+POI: 			Dan_Aykroyd 
+Youtube ID: 	6iqmDINKJjU 
+Video length: 	149.0 sec 
+Set (V): 		dev 
+ 
+Dan_Aykroyd/6iqmDINKJjU_0000001 12.8 17.5 
+Dan_Aykroyd/6iqmDINKJjU_0000002 22.8 31.6 
+Dan_Aykroyd/6iqmDINKJjU_0000003 43.0 48.6 
+Dan_Aykroyd/6iqmDINKJjU_0000004 79.4 83.7 
+Dan_Aykroyd/6iqmDINKJjU_0000005 137.4 142.3 
+Dan_Aykroyd/6iqmDINKJjU_0000006 142.4 147.1 

@@ -1,0 +1,16 @@
+POI: 			Jillian_Harris 
+Youtube ID: 	k_VlNqfZrJA 
+Video length: 	540.3 sec 
+Set (V): 		dev 
+ 
+Jillian_Harris/k_VlNqfZrJA_0000001 56.0 62.9 
+Jillian_Harris/k_VlNqfZrJA_0000002 183.4 199.3 
+Jillian_Harris/k_VlNqfZrJA_0000003 211.6 217.3 
+Jillian_Harris/k_VlNqfZrJA_0000004 258.2 262.8 
+Jillian_Harris/k_VlNqfZrJA_0000005 263.1 270.9 
+Jillian_Harris/k_VlNqfZrJA_0000006 307.2 311.4 
+Jillian_Harris/k_VlNqfZrJA_0000007 355.7 365.6 
+Jillian_Harris/k_VlNqfZrJA_0000008 405.7 421.3 
+Jillian_Harris/k_VlNqfZrJA_0000009 429.9 437.9 
+Jillian_Harris/k_VlNqfZrJA_0000010 439.8 449.1 
+Jillian_Harris/k_VlNqfZrJA_0000011 455.2 463.1 

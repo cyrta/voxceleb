@@ -1,0 +1,16 @@
+POI: 			Steve_Burton 
+Youtube ID: 	kDJQ4RI4OXw 
+Video length: 	623.8 sec 
+Set (V): 		dev 
+ 
+Steve_Burton/kDJQ4RI4OXw_0000001 85.9 93.0 
+Steve_Burton/kDJQ4RI4OXw_0000002 95.4 107.3 
+Steve_Burton/kDJQ4RI4OXw_0000003 110.3 115.5 
+Steve_Burton/kDJQ4RI4OXw_0000004 118.8 123.4 
+Steve_Burton/kDJQ4RI4OXw_0000005 127.6 132.2 
+Steve_Burton/kDJQ4RI4OXw_0000006 200.3 206.4 
+Steve_Burton/kDJQ4RI4OXw_0000007 388.3 395.7 
+Steve_Burton/kDJQ4RI4OXw_0000008 397.1 405.0 
+Steve_Burton/kDJQ4RI4OXw_0000009 468.1 478.2 
+Steve_Burton/kDJQ4RI4OXw_0000010 489.6 500.0 
+Steve_Burton/kDJQ4RI4OXw_0000011 598.6 603.0 

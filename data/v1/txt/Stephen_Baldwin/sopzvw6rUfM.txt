@@ -1,0 +1,21 @@
+POI: 			Stephen_Baldwin 
+Youtube ID: 	sopzvw6rUfM 
+Video length: 	539.0 sec 
+Set (V): 		dev 
+ 
+Stephen_Baldwin/sopzvw6rUfM_0000001 94.5 103.5 
+Stephen_Baldwin/sopzvw6rUfM_0000002 139.0 146.1 
+Stephen_Baldwin/sopzvw6rUfM_0000003 149.4 168.6 
+Stephen_Baldwin/sopzvw6rUfM_0000004 179.5 184.0 
+Stephen_Baldwin/sopzvw6rUfM_0000005 184.3 190.6 
+Stephen_Baldwin/sopzvw6rUfM_0000006 191.4 204.4 
+Stephen_Baldwin/sopzvw6rUfM_0000007 207.8 216.3 
+Stephen_Baldwin/sopzvw6rUfM_0000008 224.7 228.9 
+Stephen_Baldwin/sopzvw6rUfM_0000009 229.8 234.3 
+Stephen_Baldwin/sopzvw6rUfM_0000010 239.7 245.4 
+Stephen_Baldwin/sopzvw6rUfM_0000011 246.3 253.8 
+Stephen_Baldwin/sopzvw6rUfM_0000012 260.0 270.4 
+Stephen_Baldwin/sopzvw6rUfM_0000013 309.4 316.1 
+Stephen_Baldwin/sopzvw6rUfM_0000014 364.8 369.4 
+Stephen_Baldwin/sopzvw6rUfM_0000015 370.3 376.0 
+Stephen_Baldwin/sopzvw6rUfM_0000016 380.4 385.4 

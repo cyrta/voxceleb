@@ -1,0 +1,26 @@
+POI: 			Ryan_Potter 
+Youtube ID: 	NClKuOTq8og 
+Video length: 	571.1 sec 
+Set (V): 		dev 
+ 
+Ryan_Potter/NClKuOTq8og_0000001 32.7 41.4 
+Ryan_Potter/NClKuOTq8og_0000002 41.8 46.4 
+Ryan_Potter/NClKuOTq8og_0000003 47.0 54.4 
+Ryan_Potter/NClKuOTq8og_0000004 60.6 65.3 
+Ryan_Potter/NClKuOTq8og_0000005 98.6 111.4 
+Ryan_Potter/NClKuOTq8og_0000006 125.2 130.4 
+Ryan_Potter/NClKuOTq8og_0000007 130.7 145.3 
+Ryan_Potter/NClKuOTq8og_0000008 146.5 151.3 
+Ryan_Potter/NClKuOTq8og_0000009 197.5 208.2 
+Ryan_Potter/NClKuOTq8og_0000010 212.6 226.1 
+Ryan_Potter/NClKuOTq8og_0000011 262.2 288.3 
+Ryan_Potter/NClKuOTq8og_0000012 291.8 300.1 
+Ryan_Potter/NClKuOTq8og_0000013 317.7 337.3 
+Ryan_Potter/NClKuOTq8og_0000014 341.8 345.8 
+Ryan_Potter/NClKuOTq8og_0000015 389.3 399.6 
+Ryan_Potter/NClKuOTq8og_0000016 400.5 409.6 
+Ryan_Potter/NClKuOTq8og_0000017 409.8 421.0 
+Ryan_Potter/NClKuOTq8og_0000018 212.0 225.2 
+Ryan_Potter/NClKuOTq8og_0000019 465.4 470.9 
+Ryan_Potter/NClKuOTq8og_0000020 472.6 483.6 
+Ryan_Potter/NClKuOTq8og_0000021 485.7 499.6 

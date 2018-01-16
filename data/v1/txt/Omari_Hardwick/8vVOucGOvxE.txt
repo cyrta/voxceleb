@@ -1,0 +1,11 @@
+POI: 			Omari_Hardwick 
+Youtube ID: 	8vVOucGOvxE 
+Video length: 	265.1 sec 
+Set (V): 		dev 
+ 
+Omari_Hardwick/8vVOucGOvxE_0000001 23.7 28.5 
+Omari_Hardwick/8vVOucGOvxE_0000002 50.3 57.7 
+Omari_Hardwick/8vVOucGOvxE_0000003 132.8 160.8 
+Omari_Hardwick/8vVOucGOvxE_0000004 164.3 169.7 
+Omari_Hardwick/8vVOucGOvxE_0000005 212.8 217.5 
+Omari_Hardwick/8vVOucGOvxE_0000006 220.8 236.2 

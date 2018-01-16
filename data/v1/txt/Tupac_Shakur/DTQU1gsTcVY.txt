@@ -1,0 +1,20 @@
+POI: 			Tupac_Shakur 
+Youtube ID: 	DTQU1gsTcVY 
+Video length: 	1349.4 sec 
+Set (V): 		dev 
+ 
+Tupac_Shakur/DTQU1gsTcVY_0000001 151.0 156.9 
+Tupac_Shakur/DTQU1gsTcVY_0000002 232.2 238.3 
+Tupac_Shakur/DTQU1gsTcVY_0000003 278.2 285.9 
+Tupac_Shakur/DTQU1gsTcVY_0000004 289.5 296.5 
+Tupac_Shakur/DTQU1gsTcVY_0000005 412.4 432.9 
+Tupac_Shakur/DTQU1gsTcVY_0000006 441.9 448.4 
+Tupac_Shakur/DTQU1gsTcVY_0000007 449.4 454.8 
+Tupac_Shakur/DTQU1gsTcVY_0000008 514.6 521.0 
+Tupac_Shakur/DTQU1gsTcVY_0000009 573.8 582.9 
+Tupac_Shakur/DTQU1gsTcVY_0000010 602.3 613.1 
+Tupac_Shakur/DTQU1gsTcVY_0000011 621.0 633.8 
+Tupac_Shakur/DTQU1gsTcVY_0000012 653.8 661.9 
+Tupac_Shakur/DTQU1gsTcVY_0000013 668.0 672.9 
+Tupac_Shakur/DTQU1gsTcVY_0000014 677.4 692.3 
+Tupac_Shakur/DTQU1gsTcVY_0000015 703.7 712.5 

@@ -1,0 +1,8 @@
+POI: 			Brendan_Gleeson 
+Youtube ID: 	HC6f4TQXX7E 
+Video length: 	97.5 sec 
+Set (V): 		dev 
+ 
+Brendan_Gleeson/HC6f4TQXX7E_0000001 17.2 22.2 
+Brendan_Gleeson/HC6f4TQXX7E_0000002 32.0 40.5 
+Brendan_Gleeson/HC6f4TQXX7E_0000003 72.0 76.2 

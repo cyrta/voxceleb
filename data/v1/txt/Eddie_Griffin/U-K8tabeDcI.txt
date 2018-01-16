@@ -1,0 +1,8 @@
+POI: 			Eddie_Griffin 
+Youtube ID: 	U-K8tabeDcI 
+Video length: 	299.7 sec 
+Set (V): 		test 
+ 
+Eddie_Griffin/U-K8tabeDcI_0000001 65.4 70.0 
+Eddie_Griffin/U-K8tabeDcI_0000002 159.8 164.6 
+Eddie_Griffin/U-K8tabeDcI_0000003 165.6 169.9 

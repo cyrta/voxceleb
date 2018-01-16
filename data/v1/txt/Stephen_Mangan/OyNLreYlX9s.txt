@@ -1,0 +1,12 @@
+POI: 			Stephen_Mangan 
+Youtube ID: 	OyNLreYlX9s 
+Video length: 	130.7 sec 
+Set (V): 		dev 
+ 
+Stephen_Mangan/OyNLreYlX9s_0000001 16.4 21.1 
+Stephen_Mangan/OyNLreYlX9s_0000002 23.2 29.9 
+Stephen_Mangan/OyNLreYlX9s_0000003 30.9 35.0 
+Stephen_Mangan/OyNLreYlX9s_0000004 48.9 73.8 
+Stephen_Mangan/OyNLreYlX9s_0000005 83.0 92.1 
+Stephen_Mangan/OyNLreYlX9s_0000006 94.2 98.3 
+Stephen_Mangan/OyNLreYlX9s_0000007 105.3 125.3 

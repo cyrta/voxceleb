@@ -1,0 +1,7 @@
+POI: 			Anthony_Mackie 
+Youtube ID: 	yKjCYM6R8-A 
+Video length: 	237.2 sec 
+Set (V): 		dev 
+ 
+Anthony_Mackie/yKjCYM6R8-A_0000001 37.2 41.7 
+Anthony_Mackie/yKjCYM6R8-A_0000002 167.8 172.1 

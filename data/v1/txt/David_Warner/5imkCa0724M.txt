@@ -1,0 +1,10 @@
+POI: 			David_Warner 
+Youtube ID: 	5imkCa0724M 
+Video length: 	341.0 sec 
+Set (V): 		dev 
+ 
+David_Warner/5imkCa0724M_0000001 214.0 225.3 
+David_Warner/5imkCa0724M_0000002 249.9 255.2 
+David_Warner/5imkCa0724M_0000003 280.6 288.1 
+David_Warner/5imkCa0724M_0000004 288.6 293.9 
+David_Warner/5imkCa0724M_0000005 294.5 335.3 

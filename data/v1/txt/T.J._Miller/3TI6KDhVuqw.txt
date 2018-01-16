@@ -1,0 +1,8 @@
+POI: 			T.J._Miller 
+Youtube ID: 	3TI6KDhVuqw 
+Video length: 	246.5 sec 
+Set (V): 		dev 
+ 
+T.J._Miller/3TI6KDhVuqw_0000001 91.1 95.4 
+T.J._Miller/3TI6KDhVuqw_0000002 95.9 101.5 
+T.J._Miller/3TI6KDhVuqw_0000003 184.9 189.2 

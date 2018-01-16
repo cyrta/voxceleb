@@ -1,0 +1,9 @@
+POI: 			Ralph_Macchio 
+Youtube ID: 	6QQFNkFCJ6M 
+Video length: 	444.6 sec 
+Set (V): 		dev 
+ 
+Ralph_Macchio/6QQFNkFCJ6M_0000001 107.6 119.5 
+Ralph_Macchio/6QQFNkFCJ6M_0000002 280.8 316.8 
+Ralph_Macchio/6QQFNkFCJ6M_0000003 322.3 328.2 
+Ralph_Macchio/6QQFNkFCJ6M_0000004 330.9 335.5 

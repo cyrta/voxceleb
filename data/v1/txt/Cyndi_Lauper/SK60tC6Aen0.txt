@@ -1,0 +1,10 @@
+POI: 			Cyndi_Lauper 
+Youtube ID: 	SK60tC6Aen0 
+Video length: 	376.2 sec 
+Set (V): 		dev 
+ 
+Cyndi_Lauper/SK60tC6Aen0_0000001 41.3 50.8 
+Cyndi_Lauper/SK60tC6Aen0_0000002 62.5 73.1 
+Cyndi_Lauper/SK60tC6Aen0_0000003 84.6 88.7 
+Cyndi_Lauper/SK60tC6Aen0_0000004 180.4 184.7 
+Cyndi_Lauper/SK60tC6Aen0_0000005 185.5 192.2 

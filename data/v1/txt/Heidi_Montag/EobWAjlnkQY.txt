@@ -1,0 +1,13 @@
+POI: 			Heidi_Montag 
+Youtube ID: 	EobWAjlnkQY 
+Video length: 	457.8 sec 
+Set (V): 		dev 
+ 
+Heidi_Montag/EobWAjlnkQY_0000001 161.2 166.8 
+Heidi_Montag/EobWAjlnkQY_0000002 195.9 201.8 
+Heidi_Montag/EobWAjlnkQY_0000003 293.9 298.1 
+Heidi_Montag/EobWAjlnkQY_0000004 328.2 332.9 
+Heidi_Montag/EobWAjlnkQY_0000005 339.4 344.0 
+Heidi_Montag/EobWAjlnkQY_0000006 376.7 381.5 
+Heidi_Montag/EobWAjlnkQY_0000007 390.4 394.5 
+Heidi_Montag/EobWAjlnkQY_0000008 438.3 443.4 

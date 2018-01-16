@@ -1,0 +1,7 @@
+POI: 			Kate_Flannery 
+Youtube ID: 	CLR3cOOT0pY 
+Video length: 	101.7 sec 
+Set (V): 		dev 
+ 
+Kate_Flannery/CLR3cOOT0pY_0000001 14.9 19.2 
+Kate_Flannery/CLR3cOOT0pY_0000002 34.9 40.3 

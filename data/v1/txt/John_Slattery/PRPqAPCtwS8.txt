@@ -1,0 +1,11 @@
+POI: 			John_Slattery 
+Youtube ID: 	PRPqAPCtwS8 
+Video length: 	187.1 sec 
+Set (V): 		dev 
+ 
+John_Slattery/PRPqAPCtwS8_0000001 03.7 22.3 
+John_Slattery/PRPqAPCtwS8_0000002 64.4 77.5 
+John_Slattery/PRPqAPCtwS8_0000003 90.5 96.1 
+John_Slattery/PRPqAPCtwS8_0000004 136.7 147.6 
+John_Slattery/PRPqAPCtwS8_0000005 153.6 158.4 
+John_Slattery/PRPqAPCtwS8_0000006 162.5 175.4 

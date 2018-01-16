@@ -1,0 +1,11 @@
+POI: 			Leslie_Bibb 
+Youtube ID: 	Mu300sUvIVE 
+Video length: 	297.1 sec 
+Set (V): 		dev 
+ 
+Leslie_Bibb/Mu300sUvIVE_0000001 23.2 28.7 
+Leslie_Bibb/Mu300sUvIVE_0000002 33.0 39.4 
+Leslie_Bibb/Mu300sUvIVE_0000003 45.3 51.9 
+Leslie_Bibb/Mu300sUvIVE_0000004 129.7 134.6 
+Leslie_Bibb/Mu300sUvIVE_0000005 199.9 214.8 
+Leslie_Bibb/Mu300sUvIVE_0000006 221.2 226.7 

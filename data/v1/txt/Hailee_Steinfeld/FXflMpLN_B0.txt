@@ -1,0 +1,17 @@
+POI: 			Hailee_Steinfeld 
+Youtube ID: 	FXflMpLN_B0 
+Video length: 	531.0 sec 
+Set (V): 		dev 
+ 
+Hailee_Steinfeld/FXflMpLN_B0_0000001 213.1 222.2 
+Hailee_Steinfeld/FXflMpLN_B0_0000002 227.9 239.9 
+Hailee_Steinfeld/FXflMpLN_B0_0000003 255.3 261.0 
+Hailee_Steinfeld/FXflMpLN_B0_0000004 438.6 444.3 
+Hailee_Steinfeld/FXflMpLN_B0_0000005 448.0 456.4 
+Hailee_Steinfeld/FXflMpLN_B0_0000006 459.9 466.6 
+Hailee_Steinfeld/FXflMpLN_B0_0000007 477.0 484.2 
+Hailee_Steinfeld/FXflMpLN_B0_0000008 487.0 497.5 
+Hailee_Steinfeld/FXflMpLN_B0_0000009 502.6 510.7 
+Hailee_Steinfeld/FXflMpLN_B0_0000010 512.2 523.5 
+Hailee_Steinfeld/FXflMpLN_B0_0000011 502.3 511.6 
+Hailee_Steinfeld/FXflMpLN_B0_0000012 512.1 527.5 

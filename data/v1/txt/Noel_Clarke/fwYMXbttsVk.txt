@@ -1,0 +1,13 @@
+POI: 			Noel_Clarke 
+Youtube ID: 	fwYMXbttsVk 
+Video length: 	314.4 sec 
+Set (V): 		dev 
+ 
+Noel_Clarke/fwYMXbttsVk_0000001 28.6 34.1 
+Noel_Clarke/fwYMXbttsVk_0000002 48.9 52.9 
+Noel_Clarke/fwYMXbttsVk_0000003 75.6 81.8 
+Noel_Clarke/fwYMXbttsVk_0000004 111.8 116.6 
+Noel_Clarke/fwYMXbttsVk_0000005 106.3 114.6 
+Noel_Clarke/fwYMXbttsVk_0000006 175.6 189.6 
+Noel_Clarke/fwYMXbttsVk_0000007 220.2 239.5 
+Noel_Clarke/fwYMXbttsVk_0000008 254.2 268.1 

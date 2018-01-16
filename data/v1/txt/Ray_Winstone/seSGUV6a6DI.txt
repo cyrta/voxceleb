@@ -1,0 +1,11 @@
+POI: 			Ray_Winstone 
+Youtube ID: 	seSGUV6a6DI 
+Video length: 	181.9 sec 
+Set (V): 		dev 
+ 
+Ray_Winstone/seSGUV6a6DI_0000001 24.7 28.8 
+Ray_Winstone/seSGUV6a6DI_0000002 52.6 56.7 
+Ray_Winstone/seSGUV6a6DI_0000003 103.8 108.7 
+Ray_Winstone/seSGUV6a6DI_0000004 112.8 117.5 
+Ray_Winstone/seSGUV6a6DI_0000005 121.8 129.2 
+Ray_Winstone/seSGUV6a6DI_0000006 138.3 142.3 

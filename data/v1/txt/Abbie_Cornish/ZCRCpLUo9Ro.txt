@@ -1,0 +1,11 @@
+POI: 			Abbie_Cornish 
+Youtube ID: 	ZCRCpLUo9Ro 
+Video length: 	209.8 sec 
+Set (V): 		dev 
+ 
+Abbie_Cornish/ZCRCpLUo9Ro_0000001 50.9 64.6 
+Abbie_Cornish/ZCRCpLUo9Ro_0000002 64.8 70.1 
+Abbie_Cornish/ZCRCpLUo9Ro_0000003 70.9 83.3 
+Abbie_Cornish/ZCRCpLUo9Ro_0000004 98.8 103.3 
+Abbie_Cornish/ZCRCpLUo9Ro_0000005 114.5 124.8 
+Abbie_Cornish/ZCRCpLUo9Ro_0000006 145.1 151.1 

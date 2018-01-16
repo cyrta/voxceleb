@@ -1,0 +1,8 @@
+POI: 			Ernest_Borgnine 
+Youtube ID: 	pVKJjm4sKdI 
+Video length: 	428.9 sec 
+Set (V): 		test 
+ 
+Ernest_Borgnine/pVKJjm4sKdI_0000001 68.5 72.8 
+Ernest_Borgnine/pVKJjm4sKdI_0000002 182.3 191.6 
+Ernest_Borgnine/pVKJjm4sKdI_0000003 275.8 293.4 

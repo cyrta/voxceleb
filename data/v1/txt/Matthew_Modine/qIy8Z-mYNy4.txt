@@ -1,0 +1,7 @@
+POI: 			Matthew_Modine 
+Youtube ID: 	qIy8Z-mYNy4 
+Video length: 	101.7 sec 
+Set (V): 		dev 
+ 
+Matthew_Modine/qIy8Z-mYNy4_0000001 35.5 41.2 
+Matthew_Modine/qIy8Z-mYNy4_0000002 84.3 92.1 

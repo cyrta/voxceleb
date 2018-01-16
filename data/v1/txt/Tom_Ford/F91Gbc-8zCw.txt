@@ -1,0 +1,8 @@
+POI: 			Tom_Ford 
+Youtube ID: 	F91Gbc-8zCw 
+Video length: 	78.3 sec 
+Set (V): 		dev 
+ 
+Tom_Ford/F91Gbc-8zCw_0000001 15.0 23.0 
+Tom_Ford/F91Gbc-8zCw_0000002 27.0 42.8 
+Tom_Ford/F91Gbc-8zCw_0000003 47.6 62.4 

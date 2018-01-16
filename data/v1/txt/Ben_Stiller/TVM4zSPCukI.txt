@@ -1,0 +1,9 @@
+POI: 			Ben_Stiller 
+Youtube ID: 	TVM4zSPCukI 
+Video length: 	779.8 sec 
+Set (V): 		dev 
+ 
+Ben_Stiller/TVM4zSPCukI_0000001 179.2 186.4 
+Ben_Stiller/TVM4zSPCukI_0000002 250.5 265.3 
+Ben_Stiller/TVM4zSPCukI_0000003 339.8 344.1 
+Ben_Stiller/TVM4zSPCukI_0000004 393.1 400.2 

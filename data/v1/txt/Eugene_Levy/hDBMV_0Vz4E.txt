@@ -1,0 +1,21 @@
+POI: 			Eugene_Levy 
+Youtube ID: 	hDBMV_0Vz4E 
+Video length: 	311.3 sec 
+Set (V): 		test 
+ 
+Eugene_Levy/hDBMV_0Vz4E_0000001 08.2 13.5 
+Eugene_Levy/hDBMV_0Vz4E_0000002 20.3 33.2 
+Eugene_Levy/hDBMV_0Vz4E_0000003 33.8 42.0 
+Eugene_Levy/hDBMV_0Vz4E_0000004 42.0 46.4 
+Eugene_Levy/hDBMV_0Vz4E_0000005 33.8 38.9 
+Eugene_Levy/hDBMV_0Vz4E_0000006 77.0 90.2 
+Eugene_Levy/hDBMV_0Vz4E_0000007 99.3 103.6 
+Eugene_Levy/hDBMV_0Vz4E_0000008 107.8 111.9 
+Eugene_Levy/hDBMV_0Vz4E_0000009 112.8 117.1 
+Eugene_Levy/hDBMV_0Vz4E_0000010 164.9 175.8 
+Eugene_Levy/hDBMV_0Vz4E_0000011 176.3 181.1 
+Eugene_Levy/hDBMV_0Vz4E_0000012 191.2 197.7 
+Eugene_Levy/hDBMV_0Vz4E_0000013 198.7 203.0 
+Eugene_Levy/hDBMV_0Vz4E_0000014 212.2 217.6 
+Eugene_Levy/hDBMV_0Vz4E_0000015 218.7 226.4 
+Eugene_Levy/hDBMV_0Vz4E_0000016 284.2 290.6 

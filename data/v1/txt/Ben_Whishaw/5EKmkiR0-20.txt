@@ -1,0 +1,7 @@
+POI: 			Ben_Whishaw 
+Youtube ID: 	5EKmkiR0-20 
+Video length: 	194.8 sec 
+Set (V): 		dev 
+ 
+Ben_Whishaw/5EKmkiR0-20_0000001 143.7 148.6 
+Ben_Whishaw/5EKmkiR0-20_0000002 157.2 161.5 

@@ -1,0 +1,8 @@
+POI: 			America_Ferrera 
+Youtube ID: 	iGGuNC2Xsg4 
+Video length: 	325.3 sec 
+Set (V): 		dev 
+ 
+America_Ferrera/iGGuNC2Xsg4_0000001 35.3 40.2 
+America_Ferrera/iGGuNC2Xsg4_0000002 114.2 118.8 
+America_Ferrera/iGGuNC2Xsg4_0000003 310.9 315.9 

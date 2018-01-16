@@ -1,0 +1,7 @@
+POI: 			Jeffrey_Tambor 
+Youtube ID: 	CPHkjsrkqoM 
+Video length: 	143.8 sec 
+Set (V): 		dev 
+ 
+Jeffrey_Tambor/CPHkjsrkqoM_0000001 30.8 35.0 
+Jeffrey_Tambor/CPHkjsrkqoM_0000002 111.2 118.6 

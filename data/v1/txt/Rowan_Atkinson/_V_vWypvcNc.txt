@@ -1,0 +1,11 @@
+POI: 			Rowan_Atkinson 
+Youtube ID: 	_V_vWypvcNc 
+Video length: 	323.5 sec 
+Set (V): 		dev 
+ 
+Rowan_Atkinson/_V_vWypvcNc_0000001 61.3 65.4 
+Rowan_Atkinson/_V_vWypvcNc_0000002 77.0 81.5 
+Rowan_Atkinson/_V_vWypvcNc_0000003 158.9 164.6 
+Rowan_Atkinson/_V_vWypvcNc_0000004 165.5 170.8 
+Rowan_Atkinson/_V_vWypvcNc_0000005 267.0 271.4 
+Rowan_Atkinson/_V_vWypvcNc_0000006 296.0 301.2 

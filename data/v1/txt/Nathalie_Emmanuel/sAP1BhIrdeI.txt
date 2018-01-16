@@ -1,0 +1,10 @@
+POI: 			Nathalie_Emmanuel 
+Youtube ID: 	sAP1BhIrdeI 
+Video length: 	153.8 sec 
+Set (V): 		dev 
+ 
+Nathalie_Emmanuel/sAP1BhIrdeI_0000001 18.6 28.5 
+Nathalie_Emmanuel/sAP1BhIrdeI_0000002 52.6 56.7 
+Nathalie_Emmanuel/sAP1BhIrdeI_0000003 125.1 129.1 
+Nathalie_Emmanuel/sAP1BhIrdeI_0000004 135.7 140.1 
+Nathalie_Emmanuel/sAP1BhIrdeI_0000005 145.6 150.3 

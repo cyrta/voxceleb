@@ -1,0 +1,7 @@
+POI: 			Kellan_Lutz 
+Youtube ID: 	tFZ_gCKl0sA 
+Video length: 	326.4 sec 
+Set (V): 		dev 
+ 
+Kellan_Lutz/tFZ_gCKl0sA_0000001 117.8 131.7 
+Kellan_Lutz/tFZ_gCKl0sA_0000002 158.4 172.2 

@@ -1,0 +1,23 @@
+POI: 			Marla_Gibbs 
+Youtube ID: 	WRgjaYn27bQ 
+Video length: 	190.4 sec 
+Set (V): 		dev 
+ 
+Marla_Gibbs/WRgjaYn27bQ_0000001 06.4 10.5 
+Marla_Gibbs/WRgjaYn27bQ_0000002 11.2 23.9 
+Marla_Gibbs/WRgjaYn27bQ_0000003 25.5 34.6 
+Marla_Gibbs/WRgjaYn27bQ_0000004 35.5 42.6 
+Marla_Gibbs/WRgjaYn27bQ_0000005 45.2 49.4 
+Marla_Gibbs/WRgjaYn27bQ_0000006 58.4 63.2 
+Marla_Gibbs/WRgjaYn27bQ_0000007 71.6 77.2 
+Marla_Gibbs/WRgjaYn27bQ_0000008 80.1 84.5 
+Marla_Gibbs/WRgjaYn27bQ_0000009 92.7 101.2 
+Marla_Gibbs/WRgjaYn27bQ_0000010 102.2 113.7 
+Marla_Gibbs/WRgjaYn27bQ_0000011 114.5 119.3 
+Marla_Gibbs/WRgjaYn27bQ_0000012 123.6 130.8 
+Marla_Gibbs/WRgjaYn27bQ_0000013 131.2 140.1 
+Marla_Gibbs/WRgjaYn27bQ_0000014 107.0 113.6 
+Marla_Gibbs/WRgjaYn27bQ_0000015 123.6 128.4 
+Marla_Gibbs/WRgjaYn27bQ_0000016 151.4 155.9 
+Marla_Gibbs/WRgjaYn27bQ_0000017 156.1 171.4 
+Marla_Gibbs/WRgjaYn27bQ_0000018 172.1 181.1 

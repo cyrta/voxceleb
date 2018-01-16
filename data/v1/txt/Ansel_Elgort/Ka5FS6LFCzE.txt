@@ -1,0 +1,16 @@
+POI: 			Ansel_Elgort 
+Youtube ID: 	Ka5FS6LFCzE 
+Video length: 	303.0 sec 
+Set (V): 		dev 
+ 
+Ansel_Elgort/Ka5FS6LFCzE_0000001 56.2 61.9 
+Ansel_Elgort/Ka5FS6LFCzE_0000002 69.3 80.2 
+Ansel_Elgort/Ka5FS6LFCzE_0000003 87.6 92.5 
+Ansel_Elgort/Ka5FS6LFCzE_0000004 98.6 104.0 
+Ansel_Elgort/Ka5FS6LFCzE_0000005 112.4 119.5 
+Ansel_Elgort/Ka5FS6LFCzE_0000006 120.2 129.8 
+Ansel_Elgort/Ka5FS6LFCzE_0000007 154.4 160.3 
+Ansel_Elgort/Ka5FS6LFCzE_0000008 170.7 175.3 
+Ansel_Elgort/Ka5FS6LFCzE_0000009 202.5 207.0 
+Ansel_Elgort/Ka5FS6LFCzE_0000010 212.8 218.6 
+Ansel_Elgort/Ka5FS6LFCzE_0000011 223.4 230.8 

@@ -1,0 +1,10 @@
+POI: 			Jack_Griffo 
+Youtube ID: 	nvfyC1t-Ppk 
+Video length: 	97.8 sec 
+Set (V): 		dev 
+ 
+Jack_Griffo/nvfyC1t-Ppk_0000001 28.8 34.6 
+Jack_Griffo/nvfyC1t-Ppk_0000002 34.8 39.2 
+Jack_Griffo/nvfyC1t-Ppk_0000003 55.4 64.1 
+Jack_Griffo/nvfyC1t-Ppk_0000004 71.7 78.3 
+Jack_Griffo/nvfyC1t-Ppk_0000005 79.1 84.2 

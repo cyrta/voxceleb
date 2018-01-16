@@ -1,0 +1,8 @@
+POI: 			Matt_Dallas 
+Youtube ID: 	HSsbBxLfVDg 
+Video length: 	96.4 sec 
+Set (V): 		dev 
+ 
+Matt_Dallas/HSsbBxLfVDg_0000001 09.2 16.4 
+Matt_Dallas/HSsbBxLfVDg_0000002 26.4 35.3 
+Matt_Dallas/HSsbBxLfVDg_0000003 51.7 58.8 

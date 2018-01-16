@@ -1,0 +1,12 @@
+POI: 			Richard_Dean_Anderson 
+Youtube ID: 	pYEDsqifqt4 
+Video length: 	938.7 sec 
+Set (V): 		dev 
+ 
+Richard_Dean_Anderson/pYEDsqifqt4_0000001 180.3 185.4 
+Richard_Dean_Anderson/pYEDsqifqt4_0000002 332.2 337.1 
+Richard_Dean_Anderson/pYEDsqifqt4_0000003 340.1 349.3 
+Richard_Dean_Anderson/pYEDsqifqt4_0000004 370.1 374.3 
+Richard_Dean_Anderson/pYEDsqifqt4_0000005 375.1 379.3 
+Richard_Dean_Anderson/pYEDsqifqt4_0000006 575.1 581.3 
+Richard_Dean_Anderson/pYEDsqifqt4_0000007 596.7 600.7 

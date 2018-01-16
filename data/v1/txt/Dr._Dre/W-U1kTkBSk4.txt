@@ -1,0 +1,7 @@
+POI: 			Dr._Dre 
+Youtube ID: 	W-U1kTkBSk4 
+Video length: 	122.9 sec 
+Set (V): 		dev 
+ 
+Dr._Dre/W-U1kTkBSk4_0000001 99.4 103.8 
+Dr._Dre/W-U1kTkBSk4_0000002 107.7 112.6 

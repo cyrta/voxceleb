@@ -1,0 +1,14 @@
+POI: 			Nicola_Peltz 
+Youtube ID: 	6ofKn8IfIYE 
+Video length: 	423.2 sec 
+Set (V): 		dev 
+ 
+Nicola_Peltz/6ofKn8IfIYE_0000001 56.9 62.1 
+Nicola_Peltz/6ofKn8IfIYE_0000002 62.5 67.3 
+Nicola_Peltz/6ofKn8IfIYE_0000003 90.6 100.2 
+Nicola_Peltz/6ofKn8IfIYE_0000004 101.6 106.5 
+Nicola_Peltz/6ofKn8IfIYE_0000005 119.2 138.3 
+Nicola_Peltz/6ofKn8IfIYE_0000006 149.5 154.0 
+Nicola_Peltz/6ofKn8IfIYE_0000007 156.8 162.1 
+Nicola_Peltz/6ofKn8IfIYE_0000008 166.8 175.6 
+Nicola_Peltz/6ofKn8IfIYE_0000009 177.4 183.8 

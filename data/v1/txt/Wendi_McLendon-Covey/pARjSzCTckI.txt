@@ -1,0 +1,8 @@
+POI: 			Wendi_McLendon-Covey 
+Youtube ID: 	pARjSzCTckI 
+Video length: 	230.7 sec 
+Set (V): 		dev 
+ 
+Wendi_McLendon-Covey/pARjSzCTckI_0000001 72.8 84.0 
+Wendi_McLendon-Covey/pARjSzCTckI_0000002 119.3 133.0 
+Wendi_McLendon-Covey/pARjSzCTckI_0000003 214.2 218.9 

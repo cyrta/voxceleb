@@ -1,0 +1,7 @@
+POI: 			Eric_McCormack 
+Youtube ID: 	ZEpT2orkZTc 
+Video length: 	201.0 sec 
+Set (V): 		test 
+ 
+Eric_McCormack/ZEpT2orkZTc_0000001 99.3 104.3 
+Eric_McCormack/ZEpT2orkZTc_0000002 105.5 112.3 

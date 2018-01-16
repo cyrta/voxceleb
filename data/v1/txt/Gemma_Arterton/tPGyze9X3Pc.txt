@@ -1,0 +1,9 @@
+POI: 			Gemma_Arterton 
+Youtube ID: 	tPGyze9X3Pc 
+Video length: 	207.9 sec 
+Set (V): 		dev 
+ 
+Gemma_Arterton/tPGyze9X3Pc_0000001 70.2 75.7 
+Gemma_Arterton/tPGyze9X3Pc_0000002 89.5 95.5 
+Gemma_Arterton/tPGyze9X3Pc_0000003 106.0 115.9 
+Gemma_Arterton/tPGyze9X3Pc_0000004 138.4 142.8 

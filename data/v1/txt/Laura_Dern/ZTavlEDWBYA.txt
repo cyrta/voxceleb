@@ -1,0 +1,9 @@
+POI: 			Laura_Dern 
+Youtube ID: 	ZTavlEDWBYA 
+Video length: 	48.3 sec 
+Set (V): 		dev 
+ 
+Laura_Dern/ZTavlEDWBYA_0000001 05.0 09.1 
+Laura_Dern/ZTavlEDWBYA_0000002 11.6 19.3 
+Laura_Dern/ZTavlEDWBYA_0000003 27.8 34.1 
+Laura_Dern/ZTavlEDWBYA_0000004 35.1 43.0 

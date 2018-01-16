@@ -1,0 +1,14 @@
+POI: 			Lotte_Verbeek 
+Youtube ID: 	7wzb0eSD40k 
+Video length: 	171.3 sec 
+Set (V): 		dev 
+ 
+Lotte_Verbeek/7wzb0eSD40k_0000001 13.3 18.7 
+Lotte_Verbeek/7wzb0eSD40k_0000002 22.8 27.6 
+Lotte_Verbeek/7wzb0eSD40k_0000003 51.7 57.0 
+Lotte_Verbeek/7wzb0eSD40k_0000004 67.5 71.9 
+Lotte_Verbeek/7wzb0eSD40k_0000005 84.4 93.2 
+Lotte_Verbeek/7wzb0eSD40k_0000006 94.0 98.1 
+Lotte_Verbeek/7wzb0eSD40k_0000007 117.3 126.4 
+Lotte_Verbeek/7wzb0eSD40k_0000008 150.4 154.9 
+Lotte_Verbeek/7wzb0eSD40k_0000009 161.7 165.8 

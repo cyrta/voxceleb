@@ -1,0 +1,37 @@
+POI: 			Lavell_Crawford 
+Youtube ID: 	lCKRKl8mofc 
+Video length: 	945.4 sec 
+Set (V): 		dev 
+ 
+Lavell_Crawford/lCKRKl8mofc_0000001 56.6 61.6 
+Lavell_Crawford/lCKRKl8mofc_0000002 106.4 113.1 
+Lavell_Crawford/lCKRKl8mofc_0000003 114.0 120.0 
+Lavell_Crawford/lCKRKl8mofc_0000004 232.7 238.0 
+Lavell_Crawford/lCKRKl8mofc_0000005 261.3 266.4 
+Lavell_Crawford/lCKRKl8mofc_0000006 288.4 294.2 
+Lavell_Crawford/lCKRKl8mofc_0000007 304.3 308.8 
+Lavell_Crawford/lCKRKl8mofc_0000008 324.9 329.0 
+Lavell_Crawford/lCKRKl8mofc_0000009 347.4 351.4 
+Lavell_Crawford/lCKRKl8mofc_0000010 351.7 356.1 
+Lavell_Crawford/lCKRKl8mofc_0000011 360.4 367.2 
+Lavell_Crawford/lCKRKl8mofc_0000012 414.2 420.4 
+Lavell_Crawford/lCKRKl8mofc_0000013 424.2 434.7 
+Lavell_Crawford/lCKRKl8mofc_0000014 458.7 463.1 
+Lavell_Crawford/lCKRKl8mofc_0000015 464.1 469.0 
+Lavell_Crawford/lCKRKl8mofc_0000016 509.8 516.0 
+Lavell_Crawford/lCKRKl8mofc_0000017 524.4 532.0 
+Lavell_Crawford/lCKRKl8mofc_0000018 563.8 568.6 
+Lavell_Crawford/lCKRKl8mofc_0000019 569.6 577.7 
+Lavell_Crawford/lCKRKl8mofc_0000020 624.0 629.7 
+Lavell_Crawford/lCKRKl8mofc_0000021 638.1 643.0 
+Lavell_Crawford/lCKRKl8mofc_0000022 648.1 653.2 
+Lavell_Crawford/lCKRKl8mofc_0000023 654.3 659.9 
+Lavell_Crawford/lCKRKl8mofc_0000024 688.5 692.6 
+Lavell_Crawford/lCKRKl8mofc_0000025 696.6 703.0 
+Lavell_Crawford/lCKRKl8mofc_0000026 765.1 770.2 
+Lavell_Crawford/lCKRKl8mofc_0000027 788.6 792.7 
+Lavell_Crawford/lCKRKl8mofc_0000028 800.6 805.1 
+Lavell_Crawford/lCKRKl8mofc_0000029 828.8 840.4 
+Lavell_Crawford/lCKRKl8mofc_0000030 903.2 911.9 
+Lavell_Crawford/lCKRKl8mofc_0000031 916.9 922.7 
+Lavell_Crawford/lCKRKl8mofc_0000032 923.6 928.1 

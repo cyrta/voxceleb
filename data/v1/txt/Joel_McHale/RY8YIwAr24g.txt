@@ -1,0 +1,10 @@
+POI: 			Joel_McHale 
+Youtube ID: 	RY8YIwAr24g 
+Video length: 	430.8 sec 
+Set (V): 		dev 
+ 
+Joel_McHale/RY8YIwAr24g_0000001 17.3 23.8 
+Joel_McHale/RY8YIwAr24g_0000002 31.6 38.1 
+Joel_McHale/RY8YIwAr24g_0000003 53.0 61.9 
+Joel_McHale/RY8YIwAr24g_0000004 96.1 103.6 
+Joel_McHale/RY8YIwAr24g_0000005 235.5 249.8 

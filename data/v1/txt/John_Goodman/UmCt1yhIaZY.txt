@@ -1,0 +1,19 @@
+POI: 			John_Goodman 
+Youtube ID: 	UmCt1yhIaZY 
+Video length: 	217.5 sec 
+Set (V): 		dev 
+ 
+John_Goodman/UmCt1yhIaZY_0000001 02.0 07.3 
+John_Goodman/UmCt1yhIaZY_0000002 18.9 24.0 
+John_Goodman/UmCt1yhIaZY_0000003 28.2 32.5 
+John_Goodman/UmCt1yhIaZY_0000004 33.2 38.4 
+John_Goodman/UmCt1yhIaZY_0000005 52.4 57.2 
+John_Goodman/UmCt1yhIaZY_0000006 78.4 90.8 
+John_Goodman/UmCt1yhIaZY_0000007 99.8 105.3 
+John_Goodman/UmCt1yhIaZY_0000008 112.6 127.5 
+John_Goodman/UmCt1yhIaZY_0000009 134.1 140.5 
+John_Goodman/UmCt1yhIaZY_0000010 154.9 159.2 
+John_Goodman/UmCt1yhIaZY_0000011 167.3 172.2 
+John_Goodman/UmCt1yhIaZY_0000012 161.2 165.7 
+John_Goodman/UmCt1yhIaZY_0000013 182.2 187.9 
+John_Goodman/UmCt1yhIaZY_0000014 202.5 209.5 

@@ -1,0 +1,8 @@
+POI: 			Domhnall_Gleeson 
+Youtube ID: 	flr-V5g9jsQ 
+Video length: 	567.0 sec 
+Set (V): 		dev 
+ 
+Domhnall_Gleeson/flr-V5g9jsQ_0000001 292.4 298.6 
+Domhnall_Gleeson/flr-V5g9jsQ_0000002 350.0 354.1 
+Domhnall_Gleeson/flr-V5g9jsQ_0000003 416.6 425.0 

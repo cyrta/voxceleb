@@ -1,0 +1,12 @@
+POI: 			Robert_Carlyle 
+Youtube ID: 	1j2HlKXA1h0 
+Video length: 	142.7 sec 
+Set (V): 		dev 
+ 
+Robert_Carlyle/1j2HlKXA1h0_0000001 22.0 26.6 
+Robert_Carlyle/1j2HlKXA1h0_0000002 36.3 43.7 
+Robert_Carlyle/1j2HlKXA1h0_0000003 51.6 57.5 
+Robert_Carlyle/1j2HlKXA1h0_0000004 60.2 72.2 
+Robert_Carlyle/1j2HlKXA1h0_0000005 75.2 79.7 
+Robert_Carlyle/1j2HlKXA1h0_0000006 96.7 102.3 
+Robert_Carlyle/1j2HlKXA1h0_0000007 114.1 122.1 

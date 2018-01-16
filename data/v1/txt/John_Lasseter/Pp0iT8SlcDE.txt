@@ -1,0 +1,22 @@
+POI: 			John_Lasseter 
+Youtube ID: 	Pp0iT8SlcDE 
+Video length: 	516.2 sec 
+Set (V): 		dev 
+ 
+John_Lasseter/Pp0iT8SlcDE_0000001 09.3 15.0 
+John_Lasseter/Pp0iT8SlcDE_0000002 18.4 29.6 
+John_Lasseter/Pp0iT8SlcDE_0000003 32.6 39.9 
+John_Lasseter/Pp0iT8SlcDE_0000004 40.8 54.8 
+John_Lasseter/Pp0iT8SlcDE_0000005 25.1 31.6 
+John_Lasseter/Pp0iT8SlcDE_0000006 119.2 132.1 
+John_Lasseter/Pp0iT8SlcDE_0000007 148.1 159.5 
+John_Lasseter/Pp0iT8SlcDE_0000008 163.6 180.0 
+John_Lasseter/Pp0iT8SlcDE_0000009 182.6 193.0 
+John_Lasseter/Pp0iT8SlcDE_0000010 194.8 220.0 
+John_Lasseter/Pp0iT8SlcDE_0000011 227.5 235.1 
+John_Lasseter/Pp0iT8SlcDE_0000012 235.6 264.1 
+John_Lasseter/Pp0iT8SlcDE_0000013 410.4 417.1 
+John_Lasseter/Pp0iT8SlcDE_0000014 419.8 431.8 
+John_Lasseter/Pp0iT8SlcDE_0000015 486.8 495.3 
+John_Lasseter/Pp0iT8SlcDE_0000016 497.0 505.2 
+John_Lasseter/Pp0iT8SlcDE_0000017 505.8 510.5 

@@ -1,0 +1,14 @@
+POI: 			Meredith_Baxter 
+Youtube ID: 	lKH972azgYc 
+Video length: 	272.1 sec 
+Set (V): 		dev 
+ 
+Meredith_Baxter/lKH972azgYc_0000001 26.1 33.8 
+Meredith_Baxter/lKH972azgYc_0000002 35.0 40.2 
+Meredith_Baxter/lKH972azgYc_0000003 70.1 87.1 
+Meredith_Baxter/lKH972azgYc_0000004 157.4 177.2 
+Meredith_Baxter/lKH972azgYc_0000005 182.3 195.3 
+Meredith_Baxter/lKH972azgYc_0000006 202.3 217.2 
+Meredith_Baxter/lKH972azgYc_0000007 226.1 238.2 
+Meredith_Baxter/lKH972azgYc_0000008 245.5 257.9 
+Meredith_Baxter/lKH972azgYc_0000009 261.8 265.8 

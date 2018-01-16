@@ -1,0 +1,8 @@
+POI: 			Lisa_Ray 
+Youtube ID: 	r3nWUA8JZsY 
+Video length: 	158.7 sec 
+Set (V): 		dev 
+ 
+Lisa_Ray/r3nWUA8JZsY_0000001 68.6 74.7 
+Lisa_Ray/r3nWUA8JZsY_0000002 90.8 95.6 
+Lisa_Ray/r3nWUA8JZsY_0000003 130.8 137.3 

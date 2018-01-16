@@ -1,0 +1,7 @@
+POI: 			Naturi_Naughton 
+Youtube ID: 	5OIGGZPf1LY 
+Video length: 	138.4 sec 
+Set (V): 		dev 
+ 
+Naturi_Naughton/5OIGGZPf1LY_0000001 16.3 22.0 
+Naturi_Naughton/5OIGGZPf1LY_0000002 22.6 35.9 

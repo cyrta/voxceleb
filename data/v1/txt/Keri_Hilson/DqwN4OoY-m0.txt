@@ -1,0 +1,9 @@
+POI: 			Keri_Hilson 
+Youtube ID: 	DqwN4OoY-m0 
+Video length: 	219.8 sec 
+Set (V): 		dev 
+ 
+Keri_Hilson/DqwN4OoY-m0_0000001 82.5 90.2 
+Keri_Hilson/DqwN4OoY-m0_0000002 127.1 132.4 
+Keri_Hilson/DqwN4OoY-m0_0000003 149.9 156.3 
+Keri_Hilson/DqwN4OoY-m0_0000004 161.8 169.8 

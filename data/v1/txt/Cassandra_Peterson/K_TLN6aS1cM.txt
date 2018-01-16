@@ -1,0 +1,10 @@
+POI: 			Cassandra_Peterson 
+Youtube ID: 	K_TLN6aS1cM 
+Video length: 	317.1 sec 
+Set (V): 		dev 
+ 
+Cassandra_Peterson/K_TLN6aS1cM_0000001 33.3 40.4 
+Cassandra_Peterson/K_TLN6aS1cM_0000002 211.3 216.7 
+Cassandra_Peterson/K_TLN6aS1cM_0000003 229.0 237.5 
+Cassandra_Peterson/K_TLN6aS1cM_0000004 243.0 249.6 
+Cassandra_Peterson/K_TLN6aS1cM_0000005 271.6 276.4 

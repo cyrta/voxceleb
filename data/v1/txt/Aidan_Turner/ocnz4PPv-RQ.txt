@@ -1,0 +1,9 @@
+POI: 			Aidan_Turner 
+Youtube ID: 	ocnz4PPv-RQ 
+Video length: 	1022.2 sec 
+Set (V): 		dev 
+ 
+Aidan_Turner/ocnz4PPv-RQ_0000001 295.6 300.4 
+Aidan_Turner/ocnz4PPv-RQ_0000002 394.6 398.9 
+Aidan_Turner/ocnz4PPv-RQ_0000003 435.2 439.5 
+Aidan_Turner/ocnz4PPv-RQ_0000004 466.1 472.0 

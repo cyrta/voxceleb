@@ -1,0 +1,12 @@
+POI: 			Danielle_Campbell 
+Youtube ID: 	rL-gLMid__8 
+Video length: 	100.5 sec 
+Set (V): 		dev 
+ 
+Danielle_Campbell/rL-gLMid__8_0000001 03.1 11.0 
+Danielle_Campbell/rL-gLMid__8_0000002 11.2 21.0 
+Danielle_Campbell/rL-gLMid__8_0000003 28.1 33.1 
+Danielle_Campbell/rL-gLMid__8_0000004 35.3 39.8 
+Danielle_Campbell/rL-gLMid__8_0000005 44.6 54.1 
+Danielle_Campbell/rL-gLMid__8_0000006 56.2 63.1 
+Danielle_Campbell/rL-gLMid__8_0000007 74.6 82.9 

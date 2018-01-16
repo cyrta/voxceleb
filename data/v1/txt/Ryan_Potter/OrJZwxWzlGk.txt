@@ -1,0 +1,10 @@
+POI: 			Ryan_Potter 
+Youtube ID: 	OrJZwxWzlGk 
+Video length: 	195.8 sec 
+Set (V): 		dev 
+ 
+Ryan_Potter/OrJZwxWzlGk_0000001 26.3 35.9 
+Ryan_Potter/OrJZwxWzlGk_0000002 37.1 55.0 
+Ryan_Potter/OrJZwxWzlGk_0000003 118.1 135.1 
+Ryan_Potter/OrJZwxWzlGk_0000004 137.7 142.3 
+Ryan_Potter/OrJZwxWzlGk_0000005 143.0 158.9 

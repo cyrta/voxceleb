@@ -1,0 +1,11 @@
+POI: 			Melissa_George 
+Youtube ID: 	lybyS0jbdrA 
+Video length: 	239.4 sec 
+Set (V): 		dev 
+ 
+Melissa_George/lybyS0jbdrA_0000001 43.4 49.2 
+Melissa_George/lybyS0jbdrA_0000002 105.8 113.2 
+Melissa_George/lybyS0jbdrA_0000003 113.8 120.6 
+Melissa_George/lybyS0jbdrA_0000004 147.5 156.5 
+Melissa_George/lybyS0jbdrA_0000005 184.5 202.1 
+Melissa_George/lybyS0jbdrA_0000006 221.4 228.7 

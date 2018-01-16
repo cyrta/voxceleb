@@ -1,0 +1,7 @@
+POI: 			David_Giuntoli 
+Youtube ID: 	mTyen_UbZsI 
+Video length: 	52.1 sec 
+Set (V): 		dev 
+ 
+David_Giuntoli/mTyen_UbZsI_0000001 02.0 06.0 
+David_Giuntoli/mTyen_UbZsI_0000002 38.4 42.8 

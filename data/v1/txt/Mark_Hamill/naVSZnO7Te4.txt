@@ -1,0 +1,11 @@
+POI: 			Mark_Hamill 
+Youtube ID: 	naVSZnO7Te4 
+Video length: 	206.6 sec 
+Set (V): 		dev 
+ 
+Mark_Hamill/naVSZnO7Te4_0000001 16.4 23.9 
+Mark_Hamill/naVSZnO7Te4_0000002 53.2 65.2 
+Mark_Hamill/naVSZnO7Te4_0000003 68.1 75.9 
+Mark_Hamill/naVSZnO7Te4_0000004 102.0 108.2 
+Mark_Hamill/naVSZnO7Te4_0000005 110.8 120.3 
+Mark_Hamill/naVSZnO7Te4_0000006 167.3 172.2 

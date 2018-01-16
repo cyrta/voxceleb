@@ -1,0 +1,8 @@
+POI: 			Patrick_Duffy 
+Youtube ID: 	ZNGiZrUys0s 
+Video length: 	823.3 sec 
+Set (V): 		dev 
+ 
+Patrick_Duffy/ZNGiZrUys0s_0000001 28.6 36.2 
+Patrick_Duffy/ZNGiZrUys0s_0000002 37.3 76.3 
+Patrick_Duffy/ZNGiZrUys0s_0000003 82.8 114.0 

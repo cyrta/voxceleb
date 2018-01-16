@@ -1,0 +1,11 @@
+POI: 			Richard_E._Grant 
+Youtube ID: 	KQ4HWfLhJuE 
+Video length: 	129.4 sec 
+Set (V): 		dev 
+ 
+Richard_E._Grant/KQ4HWfLhJuE_0000001 16.6 25.6 
+Richard_E._Grant/KQ4HWfLhJuE_0000002 25.8 31.5 
+Richard_E._Grant/KQ4HWfLhJuE_0000003 31.6 39.0 
+Richard_E._Grant/KQ4HWfLhJuE_0000004 62.9 69.4 
+Richard_E._Grant/KQ4HWfLhJuE_0000005 70.4 74.5 
+Richard_E._Grant/KQ4HWfLhJuE_0000006 106.6 123.8 

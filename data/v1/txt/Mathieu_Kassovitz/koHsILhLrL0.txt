@@ -1,0 +1,24 @@
+POI: 			Mathieu_Kassovitz 
+Youtube ID: 	koHsILhLrL0 
+Video length: 	1345.4 sec 
+Set (V): 		dev 
+ 
+Mathieu_Kassovitz/koHsILhLrL0_0000001 48.5 56.2 
+Mathieu_Kassovitz/koHsILhLrL0_0000002 71.7 77.2 
+Mathieu_Kassovitz/koHsILhLrL0_0000003 77.3 81.7 
+Mathieu_Kassovitz/koHsILhLrL0_0000004 97.9 101.9 
+Mathieu_Kassovitz/koHsILhLrL0_0000005 106.1 111.8 
+Mathieu_Kassovitz/koHsILhLrL0_0000006 171.2 176.8 
+Mathieu_Kassovitz/koHsILhLrL0_0000007 177.4 182.1 
+Mathieu_Kassovitz/koHsILhLrL0_0000008 182.4 186.6 
+Mathieu_Kassovitz/koHsILhLrL0_0000009 189.0 193.6 
+Mathieu_Kassovitz/koHsILhLrL0_0000010 194.0 199.0 
+Mathieu_Kassovitz/koHsILhLrL0_0000011 211.0 221.0 
+Mathieu_Kassovitz/koHsILhLrL0_0000012 222.0 226.1 
+Mathieu_Kassovitz/koHsILhLrL0_0000013 331.8 336.9 
+Mathieu_Kassovitz/koHsILhLrL0_0000014 511.4 516.4 
+Mathieu_Kassovitz/koHsILhLrL0_0000015 551.2 558.6 
+Mathieu_Kassovitz/koHsILhLrL0_0000016 566.9 571.0 
+Mathieu_Kassovitz/koHsILhLrL0_0000017 576.7 581.1 
+Mathieu_Kassovitz/koHsILhLrL0_0000018 581.2 589.5 
+Mathieu_Kassovitz/koHsILhLrL0_0000019 1294.4 1299.5 

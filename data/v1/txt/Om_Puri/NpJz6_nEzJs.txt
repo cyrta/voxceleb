@@ -1,0 +1,17 @@
+POI: 			Om_Puri 
+Youtube ID: 	NpJz6_nEzJs 
+Video length: 	290.6 sec 
+Set (V): 		dev 
+ 
+Om_Puri/NpJz6_nEzJs_0000001 39.4 44.0 
+Om_Puri/NpJz6_nEzJs_0000002 45.2 49.7 
+Om_Puri/NpJz6_nEzJs_0000003 90.0 94.3 
+Om_Puri/NpJz6_nEzJs_0000004 95.9 101.4 
+Om_Puri/NpJz6_nEzJs_0000005 106.7 112.6 
+Om_Puri/NpJz6_nEzJs_0000006 113.5 123.5 
+Om_Puri/NpJz6_nEzJs_0000007 140.4 145.4 
+Om_Puri/NpJz6_nEzJs_0000008 165.2 171.3 
+Om_Puri/NpJz6_nEzJs_0000009 182.7 186.9 
+Om_Puri/NpJz6_nEzJs_0000010 187.5 195.2 
+Om_Puri/NpJz6_nEzJs_0000011 236.8 247.2 
+Om_Puri/NpJz6_nEzJs_0000012 254.0 261.0 

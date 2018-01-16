@@ -1,0 +1,14 @@
+POI: 			Vicky_McClure 
+Youtube ID: 	755umCT1nr8 
+Video length: 	564.8 sec 
+Set (V): 		dev 
+ 
+Vicky_McClure/755umCT1nr8_0000001 103.6 108.8 
+Vicky_McClure/755umCT1nr8_0000002 175.3 184.5 
+Vicky_McClure/755umCT1nr8_0000003 185.3 194.4 
+Vicky_McClure/755umCT1nr8_0000004 208.2 215.2 
+Vicky_McClure/755umCT1nr8_0000005 215.3 220.6 
+Vicky_McClure/755umCT1nr8_0000006 311.2 320.0 
+Vicky_McClure/755umCT1nr8_0000007 333.6 344.3 
+Vicky_McClure/755umCT1nr8_0000008 502.6 508.9 
+Vicky_McClure/755umCT1nr8_0000009 509.1 520.8 

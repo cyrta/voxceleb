@@ -1,0 +1,7 @@
+POI: 			Judy_Sheindlin 
+Youtube ID: 	PVvaLcH7XiY 
+Video length: 	199.7 sec 
+Set (V): 		dev 
+ 
+Judy_Sheindlin/PVvaLcH7XiY_0000001 168.0 173.0 
+Judy_Sheindlin/PVvaLcH7XiY_0000002 176.5 184.7 

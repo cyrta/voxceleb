@@ -1,0 +1,11 @@
+POI: 			Will_Forte 
+Youtube ID: 	UAcLX7Q_VUk 
+Video length: 	672.9 sec 
+Set (V): 		dev 
+ 
+Will_Forte/UAcLX7Q_VUk_0000001 22.6 27.7 
+Will_Forte/UAcLX7Q_VUk_0000002 39.3 47.2 
+Will_Forte/UAcLX7Q_VUk_0000003 47.9 52.2 
+Will_Forte/UAcLX7Q_VUk_0000004 345.8 351.8 
+Will_Forte/UAcLX7Q_VUk_0000005 352.0 357.7 
+Will_Forte/UAcLX7Q_VUk_0000006 439.1 446.2 

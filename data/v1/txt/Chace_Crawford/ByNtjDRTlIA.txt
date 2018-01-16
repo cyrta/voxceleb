@@ -1,0 +1,8 @@
+POI: 			Chace_Crawford 
+Youtube ID: 	ByNtjDRTlIA 
+Video length: 	474.1 sec 
+Set (V): 		dev 
+ 
+Chace_Crawford/ByNtjDRTlIA_0000001 206.0 211.1 
+Chace_Crawford/ByNtjDRTlIA_0000002 426.3 430.7 
+Chace_Crawford/ByNtjDRTlIA_0000003 446.4 452.1 

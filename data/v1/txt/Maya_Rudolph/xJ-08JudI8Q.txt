@@ -1,0 +1,8 @@
+POI: 			Maya_Rudolph 
+Youtube ID: 	xJ-08JudI8Q 
+Video length: 	211.7 sec 
+Set (V): 		dev 
+ 
+Maya_Rudolph/xJ-08JudI8Q_0000001 35.9 43.9 
+Maya_Rudolph/xJ-08JudI8Q_0000002 70.8 75.8 
+Maya_Rudolph/xJ-08JudI8Q_0000003 110.6 115.2 

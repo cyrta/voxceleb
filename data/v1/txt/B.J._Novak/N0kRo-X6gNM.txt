@@ -1,0 +1,8 @@
+POI: 			B.J._Novak 
+Youtube ID: 	N0kRo-X6gNM 
+Video length: 	124.0 sec 
+Set (V): 		dev 
+ 
+B.J._Novak/N0kRo-X6gNM_0000001 25.4 30.4 
+B.J._Novak/N0kRo-X6gNM_0000002 35.2 39.9 
+B.J._Novak/N0kRo-X6gNM_0000003 45.3 52.6 

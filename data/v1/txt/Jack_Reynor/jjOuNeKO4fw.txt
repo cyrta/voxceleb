@@ -1,0 +1,18 @@
+POI: 			Jack_Reynor 
+Youtube ID: 	jjOuNeKO4fw 
+Video length: 	536.2 sec 
+Set (V): 		dev 
+ 
+Jack_Reynor/jjOuNeKO4fw_0000001 31.2 36.4 
+Jack_Reynor/jjOuNeKO4fw_0000002 87.1 92.7 
+Jack_Reynor/jjOuNeKO4fw_0000003 139.2 146.0 
+Jack_Reynor/jjOuNeKO4fw_0000004 152.9 158.3 
+Jack_Reynor/jjOuNeKO4fw_0000005 171.8 178.2 
+Jack_Reynor/jjOuNeKO4fw_0000006 180.3 186.0 
+Jack_Reynor/jjOuNeKO4fw_0000007 238.4 256.0 
+Jack_Reynor/jjOuNeKO4fw_0000008 260.0 268.1 
+Jack_Reynor/jjOuNeKO4fw_0000009 274.8 283.2 
+Jack_Reynor/jjOuNeKO4fw_0000010 469.4 476.9 
+Jack_Reynor/jjOuNeKO4fw_0000011 479.8 487.8 
+Jack_Reynor/jjOuNeKO4fw_0000012 502.4 514.2 
+Jack_Reynor/jjOuNeKO4fw_0000013 515.6 520.1 

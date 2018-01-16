@@ -1,0 +1,21 @@
+POI: 			Tom_Selleck 
+Youtube ID: 	Hn_QcYroGic 
+Video length: 	1125.8 sec 
+Set (V): 		dev 
+ 
+Tom_Selleck/Hn_QcYroGic_0000001 223.6 227.6 
+Tom_Selleck/Hn_QcYroGic_0000002 281.8 291.0 
+Tom_Selleck/Hn_QcYroGic_0000003 357.0 362.2 
+Tom_Selleck/Hn_QcYroGic_0000004 421.6 426.4 
+Tom_Selleck/Hn_QcYroGic_0000005 426.9 431.8 
+Tom_Selleck/Hn_QcYroGic_0000006 489.4 494.2 
+Tom_Selleck/Hn_QcYroGic_0000007 558.7 562.8 
+Tom_Selleck/Hn_QcYroGic_0000008 563.6 567.7 
+Tom_Selleck/Hn_QcYroGic_0000009 625.6 630.7 
+Tom_Selleck/Hn_QcYroGic_0000010 675.4 681.2 
+Tom_Selleck/Hn_QcYroGic_0000011 688.6 693.2 
+Tom_Selleck/Hn_QcYroGic_0000012 696.1 700.9 
+Tom_Selleck/Hn_QcYroGic_0000013 784.5 789.8 
+Tom_Selleck/Hn_QcYroGic_0000014 886.3 891.5 
+Tom_Selleck/Hn_QcYroGic_0000015 957.6 962.0 
+Tom_Selleck/Hn_QcYroGic_0000016 1046.5 1052.7 

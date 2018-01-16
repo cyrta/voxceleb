@@ -1,0 +1,22 @@
+POI: 			Quentin_Tarantino 
+Youtube ID: 	p9VBs22_aX4 
+Video length: 	1734.3 sec 
+Set (V): 		dev 
+ 
+Quentin_Tarantino/p9VBs22_aX4_0000001 116.2 123.1 
+Quentin_Tarantino/p9VBs22_aX4_0000002 136.8 145.9 
+Quentin_Tarantino/p9VBs22_aX4_0000003 406.0 416.6 
+Quentin_Tarantino/p9VBs22_aX4_0000004 419.0 423.4 
+Quentin_Tarantino/p9VBs22_aX4_0000005 655.6 663.2 
+Quentin_Tarantino/p9VBs22_aX4_0000006 801.9 824.2 
+Quentin_Tarantino/p9VBs22_aX4_0000007 906.0 910.0 
+Quentin_Tarantino/p9VBs22_aX4_0000008 933.6 938.2 
+Quentin_Tarantino/p9VBs22_aX4_0000009 1155.0 1161.3 
+Quentin_Tarantino/p9VBs22_aX4_0000010 1190.5 1198.8 
+Quentin_Tarantino/p9VBs22_aX4_0000011 1268.8 1275.9 
+Quentin_Tarantino/p9VBs22_aX4_0000012 1311.4 1316.9 
+Quentin_Tarantino/p9VBs22_aX4_0000013 1531.6 1535.7 
+Quentin_Tarantino/p9VBs22_aX4_0000014 1542.1 1553.8 
+Quentin_Tarantino/p9VBs22_aX4_0000015 1653.2 1659.3 
+Quentin_Tarantino/p9VBs22_aX4_0000016 1659.4 1664.8 
+Quentin_Tarantino/p9VBs22_aX4_0000017 1667.5 1672.8 

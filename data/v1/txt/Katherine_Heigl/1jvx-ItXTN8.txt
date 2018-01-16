@@ -1,0 +1,10 @@
+POI: 			Katherine_Heigl 
+Youtube ID: 	1jvx-ItXTN8 
+Video length: 	160.9 sec 
+Set (V): 		dev 
+ 
+Katherine_Heigl/1jvx-ItXTN8_0000001 15.8 20.8 
+Katherine_Heigl/1jvx-ItXTN8_0000002 37.5 45.8 
+Katherine_Heigl/1jvx-ItXTN8_0000003 59.2 64.2 
+Katherine_Heigl/1jvx-ItXTN8_0000004 71.7 78.5 
+Katherine_Heigl/1jvx-ItXTN8_0000005 82.3 87.4 

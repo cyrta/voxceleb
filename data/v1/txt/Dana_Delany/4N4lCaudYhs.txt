@@ -1,0 +1,20 @@
+POI: 			Dana_Delany 
+Youtube ID: 	4N4lCaudYhs 
+Video length: 	595.3 sec 
+Set (V): 		dev 
+ 
+Dana_Delany/4N4lCaudYhs_0000001 127.8 132.4 
+Dana_Delany/4N4lCaudYhs_0000002 137.2 141.1 
+Dana_Delany/4N4lCaudYhs_0000003 165.2 169.7 
+Dana_Delany/4N4lCaudYhs_0000004 189.9 205.4 
+Dana_Delany/4N4lCaudYhs_0000005 260.0 268.4 
+Dana_Delany/4N4lCaudYhs_0000006 314.6 318.6 
+Dana_Delany/4N4lCaudYhs_0000007 319.0 323.0 
+Dana_Delany/4N4lCaudYhs_0000008 332.6 339.0 
+Dana_Delany/4N4lCaudYhs_0000009 358.6 365.3 
+Dana_Delany/4N4lCaudYhs_0000010 385.1 389.0 
+Dana_Delany/4N4lCaudYhs_0000011 399.8 405.6 
+Dana_Delany/4N4lCaudYhs_0000012 425.0 436.0 
+Dana_Delany/4N4lCaudYhs_0000013 467.7 477.0 
+Dana_Delany/4N4lCaudYhs_0000014 494.2 505.2 
+Dana_Delany/4N4lCaudYhs_0000015 508.5 515.8 

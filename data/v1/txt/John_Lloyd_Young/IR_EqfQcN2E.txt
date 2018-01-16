@@ -1,0 +1,12 @@
+POI: 			John_Lloyd_Young 
+Youtube ID: 	IR_EqfQcN2E 
+Video length: 	883.3 sec 
+Set (V): 		dev 
+ 
+John_Lloyd_Young/IR_EqfQcN2E_0000001 142.8 148.2 
+John_Lloyd_Young/IR_EqfQcN2E_0000002 196.3 201.4 
+John_Lloyd_Young/IR_EqfQcN2E_0000003 578.3 589.6 
+John_Lloyd_Young/IR_EqfQcN2E_0000004 646.0 650.7 
+John_Lloyd_Young/IR_EqfQcN2E_0000005 652.6 657.4 
+John_Lloyd_Young/IR_EqfQcN2E_0000006 690.7 694.8 
+John_Lloyd_Young/IR_EqfQcN2E_0000007 781.9 790.4 

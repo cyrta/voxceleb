@@ -1,0 +1,11 @@
+POI: 			Kathy_Griffin 
+Youtube ID: 	XEWKEkILAgI 
+Video length: 	481.6 sec 
+Set (V): 		dev 
+ 
+Kathy_Griffin/XEWKEkILAgI_0000001 73.2 85.4 
+Kathy_Griffin/XEWKEkILAgI_0000002 119.1 125.3 
+Kathy_Griffin/XEWKEkILAgI_0000003 150.2 161.3 
+Kathy_Griffin/XEWKEkILAgI_0000004 166.4 171.1 
+Kathy_Griffin/XEWKEkILAgI_0000005 272.8 280.4 
+Kathy_Griffin/XEWKEkILAgI_0000006 315.6 320.4 

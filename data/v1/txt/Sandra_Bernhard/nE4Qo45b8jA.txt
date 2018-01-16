@@ -1,0 +1,8 @@
+POI: 			Sandra_Bernhard 
+Youtube ID: 	nE4Qo45b8jA 
+Video length: 	390.2 sec 
+Set (V): 		dev 
+ 
+Sandra_Bernhard/nE4Qo45b8jA_0000001 220.7 224.8 
+Sandra_Bernhard/nE4Qo45b8jA_0000002 229.1 233.4 
+Sandra_Bernhard/nE4Qo45b8jA_0000003 337.8 344.3 

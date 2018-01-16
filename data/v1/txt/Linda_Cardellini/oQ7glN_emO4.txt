@@ -1,0 +1,12 @@
+POI: 			Linda_Cardellini 
+Youtube ID: 	oQ7glN_emO4 
+Video length: 	131.4 sec 
+Set (V): 		dev 
+ 
+Linda_Cardellini/oQ7glN_emO4_0000001 37.1 47.2 
+Linda_Cardellini/oQ7glN_emO4_0000002 55.6 61.0 
+Linda_Cardellini/oQ7glN_emO4_0000003 69.8 74.6 
+Linda_Cardellini/oQ7glN_emO4_0000004 77.7 82.0 
+Linda_Cardellini/oQ7glN_emO4_0000005 84.0 89.1 
+Linda_Cardellini/oQ7glN_emO4_0000006 89.6 98.5 
+Linda_Cardellini/oQ7glN_emO4_0000007 115.2 119.8 

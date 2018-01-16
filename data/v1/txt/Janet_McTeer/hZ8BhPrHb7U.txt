@@ -1,0 +1,18 @@
+POI: 			Janet_McTeer 
+Youtube ID: 	hZ8BhPrHb7U 
+Video length: 	1773.9 sec 
+Set (V): 		dev 
+ 
+Janet_McTeer/hZ8BhPrHb7U_0000001 591.8 598.1 
+Janet_McTeer/hZ8BhPrHb7U_0000002 598.9 603.3 
+Janet_McTeer/hZ8BhPrHb7U_0000003 603.6 610.1 
+Janet_McTeer/hZ8BhPrHb7U_0000004 615.6 619.8 
+Janet_McTeer/hZ8BhPrHb7U_0000005 926.6 930.8 
+Janet_McTeer/hZ8BhPrHb7U_0000006 1039.9 1045.8 
+Janet_McTeer/hZ8BhPrHb7U_0000007 1274.7 1283.6 
+Janet_McTeer/hZ8BhPrHb7U_0000008 1285.8 1295.0 
+Janet_McTeer/hZ8BhPrHb7U_0000009 1295.2 1300.6 
+Janet_McTeer/hZ8BhPrHb7U_0000010 1301.3 1308.2 
+Janet_McTeer/hZ8BhPrHb7U_0000011 1318.0 1328.3 
+Janet_McTeer/hZ8BhPrHb7U_0000012 1335.0 1341.4 
+Janet_McTeer/hZ8BhPrHb7U_0000013 1341.5 1346.6 

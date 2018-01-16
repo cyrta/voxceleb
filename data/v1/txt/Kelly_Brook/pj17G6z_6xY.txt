@@ -1,0 +1,8 @@
+POI: 			Kelly_Brook 
+Youtube ID: 	pj17G6z_6xY 
+Video length: 	117.5 sec 
+Set (V): 		dev 
+ 
+Kelly_Brook/pj17G6z_6xY_0000001 22.0 38.8 
+Kelly_Brook/pj17G6z_6xY_0000002 80.2 87.3 
+Kelly_Brook/pj17G6z_6xY_0000003 87.5 96.8 

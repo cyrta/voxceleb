@@ -1,0 +1,13 @@
+POI: 			Brian_Cox 
+Youtube ID: 	LxEGHW6Lbu8 
+Video length: 	806.4 sec 
+Set (V): 		dev 
+ 
+Brian_Cox/LxEGHW6Lbu8_0000001 46.8 51.7 
+Brian_Cox/LxEGHW6Lbu8_0000002 103.0 108.2 
+Brian_Cox/LxEGHW6Lbu8_0000003 137.8 142.8 
+Brian_Cox/LxEGHW6Lbu8_0000004 147.7 152.5 
+Brian_Cox/LxEGHW6Lbu8_0000005 269.8 275.4 
+Brian_Cox/LxEGHW6Lbu8_0000006 588.6 594.2 
+Brian_Cox/LxEGHW6Lbu8_0000007 612.1 616.0 
+Brian_Cox/LxEGHW6Lbu8_0000008 664.6 670.6 

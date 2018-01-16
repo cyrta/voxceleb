@@ -1,0 +1,19 @@
+POI: 			Kate_Voegele 
+Youtube ID: 	uaDx_tzP5Fs 
+Video length: 	305.9 sec 
+Set (V): 		dev 
+ 
+Kate_Voegele/uaDx_tzP5Fs_0000001 50.1 54.1 
+Kate_Voegele/uaDx_tzP5Fs_0000002 54.5 61.7 
+Kate_Voegele/uaDx_tzP5Fs_0000003 74.6 78.8 
+Kate_Voegele/uaDx_tzP5Fs_0000004 115.5 119.6 
+Kate_Voegele/uaDx_tzP5Fs_0000005 147.8 152.8 
+Kate_Voegele/uaDx_tzP5Fs_0000006 163.8 169.9 
+Kate_Voegele/uaDx_tzP5Fs_0000007 180.2 187.4 
+Kate_Voegele/uaDx_tzP5Fs_0000008 187.8 192.2 
+Kate_Voegele/uaDx_tzP5Fs_0000009 204.8 216.7 
+Kate_Voegele/uaDx_tzP5Fs_0000010 218.7 233.0 
+Kate_Voegele/uaDx_tzP5Fs_0000011 239.6 249.0 
+Kate_Voegele/uaDx_tzP5Fs_0000012 250.9 257.9 
+Kate_Voegele/uaDx_tzP5Fs_0000013 264.2 279.4 
+Kate_Voegele/uaDx_tzP5Fs_0000014 285.5 293.0 

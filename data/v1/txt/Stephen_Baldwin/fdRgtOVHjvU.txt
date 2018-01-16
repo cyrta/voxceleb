@@ -1,0 +1,12 @@
+POI: 			Stephen_Baldwin 
+Youtube ID: 	fdRgtOVHjvU 
+Video length: 	298.5 sec 
+Set (V): 		dev 
+ 
+Stephen_Baldwin/fdRgtOVHjvU_0000001 113.4 134.0 
+Stephen_Baldwin/fdRgtOVHjvU_0000002 136.2 140.3 
+Stephen_Baldwin/fdRgtOVHjvU_0000003 142.4 148.1 
+Stephen_Baldwin/fdRgtOVHjvU_0000004 194.7 201.5 
+Stephen_Baldwin/fdRgtOVHjvU_0000005 202.2 235.1 
+Stephen_Baldwin/fdRgtOVHjvU_0000006 246.9 260.7 
+Stephen_Baldwin/fdRgtOVHjvU_0000007 284.6 292.7 

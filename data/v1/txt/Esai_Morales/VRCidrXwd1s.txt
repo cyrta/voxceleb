@@ -1,0 +1,47 @@
+POI: 			Esai_Morales 
+Youtube ID: 	VRCidrXwd1s 
+Video length: 	723.6 sec 
+Set (V): 		test 
+ 
+Esai_Morales/VRCidrXwd1s_0000001 23.8 41.2 
+Esai_Morales/VRCidrXwd1s_0000002 41.4 55.3 
+Esai_Morales/VRCidrXwd1s_0000003 67.7 71.9 
+Esai_Morales/VRCidrXwd1s_0000004 74.4 82.1 
+Esai_Morales/VRCidrXwd1s_0000005 82.5 88.2 
+Esai_Morales/VRCidrXwd1s_0000006 88.9 94.1 
+Esai_Morales/VRCidrXwd1s_0000007 95.7 101.3 
+Esai_Morales/VRCidrXwd1s_0000008 102.0 107.9 
+Esai_Morales/VRCidrXwd1s_0000009 112.7 120.5 
+Esai_Morales/VRCidrXwd1s_0000010 121.8 127.0 
+Esai_Morales/VRCidrXwd1s_0000011 131.5 136.6 
+Esai_Morales/VRCidrXwd1s_0000012 146.0 150.4 
+Esai_Morales/VRCidrXwd1s_0000013 193.0 198.7 
+Esai_Morales/VRCidrXwd1s_0000014 221.5 226.6 
+Esai_Morales/VRCidrXwd1s_0000015 227.8 232.4 
+Esai_Morales/VRCidrXwd1s_0000016 239.4 246.4 
+Esai_Morales/VRCidrXwd1s_0000017 257.5 262.9 
+Esai_Morales/VRCidrXwd1s_0000018 265.3 274.3 
+Esai_Morales/VRCidrXwd1s_0000019 277.3 281.8 
+Esai_Morales/VRCidrXwd1s_0000020 282.1 288.2 
+Esai_Morales/VRCidrXwd1s_0000021 274.2 278.6 
+Esai_Morales/VRCidrXwd1s_0000022 278.7 290.0 
+Esai_Morales/VRCidrXwd1s_0000023 290.1 294.4 
+Esai_Morales/VRCidrXwd1s_0000024 294.8 313.6 
+Esai_Morales/VRCidrXwd1s_0000025 328.6 332.9 
+Esai_Morales/VRCidrXwd1s_0000026 352.4 357.9 
+Esai_Morales/VRCidrXwd1s_0000027 365.9 370.1 
+Esai_Morales/VRCidrXwd1s_0000028 405.1 412.2 
+Esai_Morales/VRCidrXwd1s_0000029 420.8 429.8 
+Esai_Morales/VRCidrXwd1s_0000030 455.9 470.5 
+Esai_Morales/VRCidrXwd1s_0000031 471.4 484.9 
+Esai_Morales/VRCidrXwd1s_0000032 521.9 526.0 
+Esai_Morales/VRCidrXwd1s_0000033 528.0 532.8 
+Esai_Morales/VRCidrXwd1s_0000034 549.7 554.3 
+Esai_Morales/VRCidrXwd1s_0000035 574.0 581.4 
+Esai_Morales/VRCidrXwd1s_0000036 607.3 612.8 
+Esai_Morales/VRCidrXwd1s_0000037 623.0 634.8 
+Esai_Morales/VRCidrXwd1s_0000038 637.7 645.0 
+Esai_Morales/VRCidrXwd1s_0000039 645.7 650.1 
+Esai_Morales/VRCidrXwd1s_0000040 652.0 658.8 
+Esai_Morales/VRCidrXwd1s_0000041 665.2 669.5 
+Esai_Morales/VRCidrXwd1s_0000042 688.9 692.8 

@@ -1,0 +1,12 @@
+POI: 			Betty_White 
+Youtube ID: 	4PltviY6Qpc 
+Video length: 	101.8 sec 
+Set (V): 		dev 
+ 
+Betty_White/4PltviY6Qpc_0000001 18.3 22.3 
+Betty_White/4PltviY6Qpc_0000002 22.8 32.1 
+Betty_White/4PltviY6Qpc_0000003 34.5 43.0 
+Betty_White/4PltviY6Qpc_0000004 45.0 52.0 
+Betty_White/4PltviY6Qpc_0000005 52.1 58.7 
+Betty_White/4PltviY6Qpc_0000006 66.0 74.6 
+Betty_White/4PltviY6Qpc_0000007 74.7 80.9 

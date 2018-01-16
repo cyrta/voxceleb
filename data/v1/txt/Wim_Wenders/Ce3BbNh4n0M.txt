@@ -1,0 +1,32 @@
+POI: 			Wim_Wenders 
+Youtube ID: 	Ce3BbNh4n0M 
+Video length: 	594.3 sec 
+Set (V): 		dev 
+ 
+Wim_Wenders/Ce3BbNh4n0M_0000001 27.7 35.3 
+Wim_Wenders/Ce3BbNh4n0M_0000002 57.1 64.8 
+Wim_Wenders/Ce3BbNh4n0M_0000003 72.9 83.2 
+Wim_Wenders/Ce3BbNh4n0M_0000004 96.9 102.8 
+Wim_Wenders/Ce3BbNh4n0M_0000005 117.9 123.4 
+Wim_Wenders/Ce3BbNh4n0M_0000006 123.7 130.5 
+Wim_Wenders/Ce3BbNh4n0M_0000007 131.3 138.0 
+Wim_Wenders/Ce3BbNh4n0M_0000008 164.6 174.7 
+Wim_Wenders/Ce3BbNh4n0M_0000009 216.3 221.6 
+Wim_Wenders/Ce3BbNh4n0M_0000010 225.8 235.3 
+Wim_Wenders/Ce3BbNh4n0M_0000011 244.4 253.8 
+Wim_Wenders/Ce3BbNh4n0M_0000012 273.9 278.0 
+Wim_Wenders/Ce3BbNh4n0M_0000013 281.0 285.1 
+Wim_Wenders/Ce3BbNh4n0M_0000014 286.2 293.4 
+Wim_Wenders/Ce3BbNh4n0M_0000015 293.9 305.2 
+Wim_Wenders/Ce3BbNh4n0M_0000016 333.9 339.5 
+Wim_Wenders/Ce3BbNh4n0M_0000017 348.1 353.0 
+Wim_Wenders/Ce3BbNh4n0M_0000018 360.2 376.2 
+Wim_Wenders/Ce3BbNh4n0M_0000019 391.6 395.8 
+Wim_Wenders/Ce3BbNh4n0M_0000020 396.0 401.6 
+Wim_Wenders/Ce3BbNh4n0M_0000021 423.6 433.4 
+Wim_Wenders/Ce3BbNh4n0M_0000022 434.0 446.0 
+Wim_Wenders/Ce3BbNh4n0M_0000023 467.5 487.1 
+Wim_Wenders/Ce3BbNh4n0M_0000024 494.9 501.0 
+Wim_Wenders/Ce3BbNh4n0M_0000025 533.4 546.3 
+Wim_Wenders/Ce3BbNh4n0M_0000026 548.6 559.0 
+Wim_Wenders/Ce3BbNh4n0M_0000027 559.2 568.1 

@@ -1,0 +1,12 @@
+POI: 			J.J._Abrams 
+Youtube ID: 	gy84xLfkkAs 
+Video length: 	106.5 sec 
+Set (V): 		dev 
+ 
+J.J._Abrams/gy84xLfkkAs_0000001 10.3 28.5 
+J.J._Abrams/gy84xLfkkAs_0000002 33.6 42.2 
+J.J._Abrams/gy84xLfkkAs_0000003 44.5 51.9 
+J.J._Abrams/gy84xLfkkAs_0000004 60.8 66.3 
+J.J._Abrams/gy84xLfkkAs_0000005 71.0 82.6 
+J.J._Abrams/gy84xLfkkAs_0000006 83.3 89.1 
+J.J._Abrams/gy84xLfkkAs_0000007 89.3 97.8 

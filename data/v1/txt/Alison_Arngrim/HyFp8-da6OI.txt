@@ -1,0 +1,13 @@
+POI: 			Alison_Arngrim 
+Youtube ID: 	HyFp8-da6OI 
+Video length: 	312.1 sec 
+Set (V): 		dev 
+ 
+Alison_Arngrim/HyFp8-da6OI_0000001 64.2 76.3 
+Alison_Arngrim/HyFp8-da6OI_0000002 121.1 138.0 
+Alison_Arngrim/HyFp8-da6OI_0000003 162.1 167.4 
+Alison_Arngrim/HyFp8-da6OI_0000004 167.6 181.0 
+Alison_Arngrim/HyFp8-da6OI_0000005 189.4 200.2 
+Alison_Arngrim/HyFp8-da6OI_0000006 217.0 224.2 
+Alison_Arngrim/HyFp8-da6OI_0000007 224.9 236.7 
+Alison_Arngrim/HyFp8-da6OI_0000008 245.7 270.8 

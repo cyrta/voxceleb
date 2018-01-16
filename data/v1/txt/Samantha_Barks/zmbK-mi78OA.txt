@@ -1,0 +1,12 @@
+POI: 			Samantha_Barks 
+Youtube ID: 	zmbK-mi78OA 
+Video length: 	438.5 sec 
+Set (V): 		dev 
+ 
+Samantha_Barks/zmbK-mi78OA_0000001 164.7 169.7 
+Samantha_Barks/zmbK-mi78OA_0000002 188.2 196.7 
+Samantha_Barks/zmbK-mi78OA_0000003 217.1 241.0 
+Samantha_Barks/zmbK-mi78OA_0000004 360.2 372.8 
+Samantha_Barks/zmbK-mi78OA_0000005 364.8 377.4 
+Samantha_Barks/zmbK-mi78OA_0000006 378.7 384.2 
+Samantha_Barks/zmbK-mi78OA_0000007 384.7 388.6 

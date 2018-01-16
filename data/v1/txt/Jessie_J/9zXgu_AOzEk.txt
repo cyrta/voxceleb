@@ -1,0 +1,11 @@
+POI: 			Jessie_J 
+Youtube ID: 	9zXgu_AOzEk 
+Video length: 	347.9 sec 
+Set (V): 		dev 
+ 
+Jessie_J/9zXgu_AOzEk_0000001 83.4 87.5 
+Jessie_J/9zXgu_AOzEk_0000002 94.1 102.6 
+Jessie_J/9zXgu_AOzEk_0000003 174.6 189.7 
+Jessie_J/9zXgu_AOzEk_0000004 260.0 271.9 
+Jessie_J/9zXgu_AOzEk_0000005 305.0 309.2 
+Jessie_J/9zXgu_AOzEk_0000006 317.9 322.4 

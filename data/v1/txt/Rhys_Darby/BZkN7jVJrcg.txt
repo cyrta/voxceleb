@@ -1,0 +1,8 @@
+POI: 			Rhys_Darby 
+Youtube ID: 	BZkN7jVJrcg 
+Video length: 	81.6 sec 
+Set (V): 		dev 
+ 
+Rhys_Darby/BZkN7jVJrcg_0000001 00.7 05.3 
+Rhys_Darby/BZkN7jVJrcg_0000002 17.2 37.5 
+Rhys_Darby/BZkN7jVJrcg_0000003 40.2 55.6 

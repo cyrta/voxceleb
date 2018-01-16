@@ -1,0 +1,16 @@
+POI: 			Shemar_Moore 
+Youtube ID: 	ovc8381riac 
+Video length: 	473.7 sec 
+Set (V): 		dev 
+ 
+Shemar_Moore/ovc8381riac_0000001 65.0 68.9 
+Shemar_Moore/ovc8381riac_0000002 180.2 185.5 
+Shemar_Moore/ovc8381riac_0000003 247.8 252.0 
+Shemar_Moore/ovc8381riac_0000004 258.6 264.8 
+Shemar_Moore/ovc8381riac_0000005 268.8 273.7 
+Shemar_Moore/ovc8381riac_0000006 281.0 286.2 
+Shemar_Moore/ovc8381riac_0000007 286.6 290.7 
+Shemar_Moore/ovc8381riac_0000008 311.4 316.0 
+Shemar_Moore/ovc8381riac_0000009 409.3 414.7 
+Shemar_Moore/ovc8381riac_0000010 424.0 435.4 
+Shemar_Moore/ovc8381riac_0000011 440.2 446.5 

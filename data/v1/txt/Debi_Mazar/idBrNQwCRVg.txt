@@ -1,0 +1,8 @@
+POI: 			Debi_Mazar 
+Youtube ID: 	idBrNQwCRVg 
+Video length: 	134.0 sec 
+Set (V): 		dev 
+ 
+Debi_Mazar/idBrNQwCRVg_0000001 89.9 98.6 
+Debi_Mazar/idBrNQwCRVg_0000002 98.9 114.3 
+Debi_Mazar/idBrNQwCRVg_0000003 114.4 121.2 

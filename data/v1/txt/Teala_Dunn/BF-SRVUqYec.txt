@@ -1,0 +1,8 @@
+POI: 			Teala_Dunn 
+Youtube ID: 	BF-SRVUqYec 
+Video length: 	357.2 sec 
+Set (V): 		dev 
+ 
+Teala_Dunn/BF-SRVUqYec_0000001 260.8 265.1 
+Teala_Dunn/BF-SRVUqYec_0000002 303.3 308.2 
+Teala_Dunn/BF-SRVUqYec_0000003 324.5 332.0 

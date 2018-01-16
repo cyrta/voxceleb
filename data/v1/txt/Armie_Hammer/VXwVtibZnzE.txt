@@ -1,0 +1,8 @@
+POI: 			Armie_Hammer 
+Youtube ID: 	VXwVtibZnzE 
+Video length: 	236.3 sec 
+Set (V): 		dev 
+ 
+Armie_Hammer/VXwVtibZnzE_0000001 43.7 54.4 
+Armie_Hammer/VXwVtibZnzE_0000002 57.6 62.8 
+Armie_Hammer/VXwVtibZnzE_0000003 62.9 69.8 

@@ -1,0 +1,7 @@
+POI: 			Victoria_Justice 
+Youtube ID: 	VNPSdzyzc28 
+Video length: 	346.7 sec 
+Set (V): 		dev 
+ 
+Victoria_Justice/VNPSdzyzc28_0000001 247.8 257.5 
+Victoria_Justice/VNPSdzyzc28_0000002 258.0 265.2 

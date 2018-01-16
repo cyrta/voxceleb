@@ -1,0 +1,14 @@
+POI: 			Ellen_Wong 
+Youtube ID: 	R4S2c-NiPfA 
+Video length: 	268.1 sec 
+Set (V): 		test 
+ 
+Ellen_Wong/R4S2c-NiPfA_0000001 08.3 13.7 
+Ellen_Wong/R4S2c-NiPfA_0000002 18.2 24.8 
+Ellen_Wong/R4S2c-NiPfA_0000003 41.1 63.3 
+Ellen_Wong/R4S2c-NiPfA_0000004 65.8 72.8 
+Ellen_Wong/R4S2c-NiPfA_0000005 75.5 80.2 
+Ellen_Wong/R4S2c-NiPfA_0000006 80.4 84.7 
+Ellen_Wong/R4S2c-NiPfA_0000007 80.3 85.1 
+Ellen_Wong/R4S2c-NiPfA_0000008 99.1 107.8 
+Ellen_Wong/R4S2c-NiPfA_0000009 242.2 249.2 

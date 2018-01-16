@@ -1,0 +1,8 @@
+POI: 			Samuel_L._Jackson 
+Youtube ID: 	8Y1o8910Xs4 
+Video length: 	130.5 sec 
+Set (V): 		dev 
+ 
+Samuel_L._Jackson/8Y1o8910Xs4_0000001 95.2 100.0 
+Samuel_L._Jackson/8Y1o8910Xs4_0000002 109.0 113.0 
+Samuel_L._Jackson/8Y1o8910Xs4_0000003 119.8 124.4 

@@ -1,0 +1,9 @@
+POI: 			Natascha_McElhone 
+Youtube ID: 	mSbeK9UF0as 
+Video length: 	108.8 sec 
+Set (V): 		dev 
+ 
+Natascha_McElhone/mSbeK9UF0as_0000001 31.2 36.1 
+Natascha_McElhone/mSbeK9UF0as_0000002 40.3 54.9 
+Natascha_McElhone/mSbeK9UF0as_0000003 56.2 62.2 
+Natascha_McElhone/mSbeK9UF0as_0000004 77.4 82.5 

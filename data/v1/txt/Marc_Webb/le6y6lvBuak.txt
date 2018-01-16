@@ -1,0 +1,8 @@
+POI: 			Marc_Webb 
+Youtube ID: 	le6y6lvBuak 
+Video length: 	56.7 sec 
+Set (V): 		dev 
+ 
+Marc_Webb/le6y6lvBuak_0000001 11.7 19.0 
+Marc_Webb/le6y6lvBuak_0000002 19.4 24.5 
+Marc_Webb/le6y6lvBuak_0000003 26.3 30.3 

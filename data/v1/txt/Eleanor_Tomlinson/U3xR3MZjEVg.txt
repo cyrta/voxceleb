@@ -1,0 +1,16 @@
+POI: 			Eleanor_Tomlinson 
+Youtube ID: 	U3xR3MZjEVg 
+Video length: 	286.3 sec 
+Set (V): 		test 
+ 
+Eleanor_Tomlinson/U3xR3MZjEVg_0000001 16.8 25.7 
+Eleanor_Tomlinson/U3xR3MZjEVg_0000002 30.7 35.7 
+Eleanor_Tomlinson/U3xR3MZjEVg_0000003 52.0 59.4 
+Eleanor_Tomlinson/U3xR3MZjEVg_0000004 84.5 91.7 
+Eleanor_Tomlinson/U3xR3MZjEVg_0000005 95.5 101.0 
+Eleanor_Tomlinson/U3xR3MZjEVg_0000006 116.5 123.8 
+Eleanor_Tomlinson/U3xR3MZjEVg_0000007 127.6 131.6 
+Eleanor_Tomlinson/U3xR3MZjEVg_0000008 132.1 137.4 
+Eleanor_Tomlinson/U3xR3MZjEVg_0000009 153.4 162.5 
+Eleanor_Tomlinson/U3xR3MZjEVg_0000010 200.2 205.2 
+Eleanor_Tomlinson/U3xR3MZjEVg_0000011 249.4 258.2 

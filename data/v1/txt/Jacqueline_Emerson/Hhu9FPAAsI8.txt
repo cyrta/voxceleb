@@ -1,0 +1,10 @@
+POI: 			Jacqueline_Emerson 
+Youtube ID: 	Hhu9FPAAsI8 
+Video length: 	258.8 sec 
+Set (V): 		dev 
+ 
+Jacqueline_Emerson/Hhu9FPAAsI8_0000001 139.0 147.2 
+Jacqueline_Emerson/Hhu9FPAAsI8_0000002 148.2 163.4 
+Jacqueline_Emerson/Hhu9FPAAsI8_0000003 206.8 213.1 
+Jacqueline_Emerson/Hhu9FPAAsI8_0000004 222.4 227.0 
+Jacqueline_Emerson/Hhu9FPAAsI8_0000005 243.6 249.8 

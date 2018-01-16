@@ -1,0 +1,16 @@
+POI: 			Lou_Diamond_Phillips 
+Youtube ID: 	Ku-DlbZw2ik 
+Video length: 	205.6 sec 
+Set (V): 		dev 
+ 
+Lou_Diamond_Phillips/Ku-DlbZw2ik_0000001 06.1 18.8 
+Lou_Diamond_Phillips/Ku-DlbZw2ik_0000002 19.2 23.2 
+Lou_Diamond_Phillips/Ku-DlbZw2ik_0000003 37.4 43.1 
+Lou_Diamond_Phillips/Ku-DlbZw2ik_0000004 43.4 57.5 
+Lou_Diamond_Phillips/Ku-DlbZw2ik_0000005 111.7 116.5 
+Lou_Diamond_Phillips/Ku-DlbZw2ik_0000006 118.0 124.0 
+Lou_Diamond_Phillips/Ku-DlbZw2ik_0000007 125.4 134.1 
+Lou_Diamond_Phillips/Ku-DlbZw2ik_0000008 134.3 142.8 
+Lou_Diamond_Phillips/Ku-DlbZw2ik_0000009 143.4 151.0 
+Lou_Diamond_Phillips/Ku-DlbZw2ik_0000010 156.5 173.2 
+Lou_Diamond_Phillips/Ku-DlbZw2ik_0000011 173.9 187.6 

@@ -1,0 +1,12 @@
+POI: 			Abigail_Breslin 
+Youtube ID: 	Lc2IMwkXgnI 
+Video length: 	167.2 sec 
+Set (V): 		dev 
+ 
+Abigail_Breslin/Lc2IMwkXgnI_0000001 22.3 27.3 
+Abigail_Breslin/Lc2IMwkXgnI_0000002 41.7 50.6 
+Abigail_Breslin/Lc2IMwkXgnI_0000003 53.0 57.6 
+Abigail_Breslin/Lc2IMwkXgnI_0000004 107.4 112.8 
+Abigail_Breslin/Lc2IMwkXgnI_0000005 139.2 143.2 
+Abigail_Breslin/Lc2IMwkXgnI_0000006 148.8 154.8 
+Abigail_Breslin/Lc2IMwkXgnI_0000007 155.5 160.5 

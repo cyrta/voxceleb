@@ -1,0 +1,17 @@
+POI: 			Vincent_Pastore 
+Youtube ID: 	Loxm-ZWSgbM 
+Video length: 	847.3 sec 
+Set (V): 		dev 
+ 
+Vincent_Pastore/Loxm-ZWSgbM_0000001 75.0 81.2 
+Vincent_Pastore/Loxm-ZWSgbM_0000002 98.0 104.0 
+Vincent_Pastore/Loxm-ZWSgbM_0000003 165.0 173.1 
+Vincent_Pastore/Loxm-ZWSgbM_0000004 213.3 222.9 
+Vincent_Pastore/Loxm-ZWSgbM_0000005 250.1 255.8 
+Vincent_Pastore/Loxm-ZWSgbM_0000006 400.4 405.0 
+Vincent_Pastore/Loxm-ZWSgbM_0000007 422.8 433.2 
+Vincent_Pastore/Loxm-ZWSgbM_0000008 473.3 478.5 
+Vincent_Pastore/Loxm-ZWSgbM_0000009 521.5 527.7 
+Vincent_Pastore/Loxm-ZWSgbM_0000010 528.5 533.9 
+Vincent_Pastore/Loxm-ZWSgbM_0000011 707.0 712.3 
+Vincent_Pastore/Loxm-ZWSgbM_0000012 725.4 734.1 

@@ -1,0 +1,21 @@
+POI: 			Alan_Rickman 
+Youtube ID: 	S_Mr5l8yRiU 
+Video length: 	987.5 sec 
+Set (V): 		dev 
+ 
+Alan_Rickman/S_Mr5l8yRiU_0000001 63.9 68.5 
+Alan_Rickman/S_Mr5l8yRiU_0000002 172.5 178.1 
+Alan_Rickman/S_Mr5l8yRiU_0000003 297.5 302.0 
+Alan_Rickman/S_Mr5l8yRiU_0000004 306.0 311.1 
+Alan_Rickman/S_Mr5l8yRiU_0000005 312.0 316.2 
+Alan_Rickman/S_Mr5l8yRiU_0000006 339.5 346.2 
+Alan_Rickman/S_Mr5l8yRiU_0000007 351.7 355.7 
+Alan_Rickman/S_Mr5l8yRiU_0000008 411.8 417.1 
+Alan_Rickman/S_Mr5l8yRiU_0000009 492.4 497.1 
+Alan_Rickman/S_Mr5l8yRiU_0000010 522.6 528.4 
+Alan_Rickman/S_Mr5l8yRiU_0000011 548.6 552.7 
+Alan_Rickman/S_Mr5l8yRiU_0000012 687.6 693.6 
+Alan_Rickman/S_Mr5l8yRiU_0000013 716.2 723.3 
+Alan_Rickman/S_Mr5l8yRiU_0000014 751.0 756.4 
+Alan_Rickman/S_Mr5l8yRiU_0000015 761.2 767.3 
+Alan_Rickman/S_Mr5l8yRiU_0000016 899.2 903.9 

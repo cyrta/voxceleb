@@ -1,0 +1,10 @@
+POI: 			David_Jason 
+Youtube ID: 	uwaFo2HeD4w 
+Video length: 	143.4 sec 
+Set (V): 		dev 
+ 
+David_Jason/uwaFo2HeD4w_0000001 51.0 56.3 
+David_Jason/uwaFo2HeD4w_0000002 57.2 64.6 
+David_Jason/uwaFo2HeD4w_0000003 65.4 74.3 
+David_Jason/uwaFo2HeD4w_0000004 80.3 86.5 
+David_Jason/uwaFo2HeD4w_0000005 105.9 110.8 

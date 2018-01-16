@@ -1,0 +1,9 @@
+POI: 			David_Mazouz 
+Youtube ID: 	t5nkGsnGsLY 
+Video length: 	353.3 sec 
+Set (V): 		dev 
+ 
+David_Mazouz/t5nkGsnGsLY_0000001 101.7 106.4 
+David_Mazouz/t5nkGsnGsLY_0000002 165.9 176.1 
+David_Mazouz/t5nkGsnGsLY_0000003 230.0 237.8 
+David_Mazouz/t5nkGsnGsLY_0000004 300.9 304.9 

@@ -1,0 +1,14 @@
+POI: 			Misha_Collins 
+Youtube ID: 	GyPfh_56AeQ 
+Video length: 	243.5 sec 
+Set (V): 		dev 
+ 
+Misha_Collins/GyPfh_56AeQ_0000001 11.8 21.8 
+Misha_Collins/GyPfh_56AeQ_0000002 59.1 64.2 
+Misha_Collins/GyPfh_56AeQ_0000003 72.0 89.5 
+Misha_Collins/GyPfh_56AeQ_0000004 106.8 113.4 
+Misha_Collins/GyPfh_56AeQ_0000005 133.8 144.6 
+Misha_Collins/GyPfh_56AeQ_0000006 156.3 162.9 
+Misha_Collins/GyPfh_56AeQ_0000007 214.0 223.2 
+Misha_Collins/GyPfh_56AeQ_0000008 223.8 232.1 
+Misha_Collins/GyPfh_56AeQ_0000009 232.3 242.0 

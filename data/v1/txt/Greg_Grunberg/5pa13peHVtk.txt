@@ -1,0 +1,8 @@
+POI: 			Greg_Grunberg 
+Youtube ID: 	5pa13peHVtk 
+Video length: 	48.5 sec 
+Set (V): 		dev 
+ 
+Greg_Grunberg/5pa13peHVtk_0000001 01.5 14.3 
+Greg_Grunberg/5pa13peHVtk_0000002 35.1 42.1 
+Greg_Grunberg/5pa13peHVtk_0000003 33.9 46.6 

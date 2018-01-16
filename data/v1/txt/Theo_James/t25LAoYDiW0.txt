@@ -1,0 +1,9 @@
+POI: 			Theo_James 
+Youtube ID: 	t25LAoYDiW0 
+Video length: 	352.5 sec 
+Set (V): 		dev 
+ 
+Theo_James/t25LAoYDiW0_0000001 22.8 37.5 
+Theo_James/t25LAoYDiW0_0000002 38.6 43.5 
+Theo_James/t25LAoYDiW0_0000003 250.7 262.2 
+Theo_James/t25LAoYDiW0_0000004 332.2 343.4 

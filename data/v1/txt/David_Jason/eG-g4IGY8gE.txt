@@ -1,0 +1,9 @@
+POI: 			David_Jason 
+Youtube ID: 	eG-g4IGY8gE 
+Video length: 	126.7 sec 
+Set (V): 		dev 
+ 
+David_Jason/eG-g4IGY8gE_0000001 43.5 49.1 
+David_Jason/eG-g4IGY8gE_0000002 63.5 76.3 
+David_Jason/eG-g4IGY8gE_0000003 81.2 88.0 
+David_Jason/eG-g4IGY8gE_0000004 98.0 104.9 

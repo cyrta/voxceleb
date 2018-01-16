@@ -1,0 +1,10 @@
+POI: 			Kristen_Bell 
+Youtube ID: 	fcwi3wS5sjQ 
+Video length: 	351.9 sec 
+Set (V): 		dev 
+ 
+Kristen_Bell/fcwi3wS5sjQ_0000001 98.4 116.3 
+Kristen_Bell/fcwi3wS5sjQ_0000002 127.2 132.2 
+Kristen_Bell/fcwi3wS5sjQ_0000003 134.1 145.8 
+Kristen_Bell/fcwi3wS5sjQ_0000004 265.0 269.1 
+Kristen_Bell/fcwi3wS5sjQ_0000005 282.8 313.4 

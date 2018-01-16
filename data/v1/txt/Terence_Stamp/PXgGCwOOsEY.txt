@@ -1,0 +1,32 @@
+POI: 			Terence_Stamp 
+Youtube ID: 	PXgGCwOOsEY 
+Video length: 	534.9 sec 
+Set (V): 		dev 
+ 
+Terence_Stamp/PXgGCwOOsEY_0000001 12.6 17.3 
+Terence_Stamp/PXgGCwOOsEY_0000002 21.0 26.8 
+Terence_Stamp/PXgGCwOOsEY_0000003 32.4 36.9 
+Terence_Stamp/PXgGCwOOsEY_0000004 37.4 61.4 
+Terence_Stamp/PXgGCwOOsEY_0000005 61.6 72.2 
+Terence_Stamp/PXgGCwOOsEY_0000006 73.7 87.3 
+Terence_Stamp/PXgGCwOOsEY_0000007 89.6 95.2 
+Terence_Stamp/PXgGCwOOsEY_0000008 97.5 103.2 
+Terence_Stamp/PXgGCwOOsEY_0000009 105.1 112.0 
+Terence_Stamp/PXgGCwOOsEY_0000010 112.4 116.7 
+Terence_Stamp/PXgGCwOOsEY_0000011 123.0 129.4 
+Terence_Stamp/PXgGCwOOsEY_0000012 140.0 152.6 
+Terence_Stamp/PXgGCwOOsEY_0000013 181.1 185.2 
+Terence_Stamp/PXgGCwOOsEY_0000014 185.8 191.4 
+Terence_Stamp/PXgGCwOOsEY_0000015 192.0 197.4 
+Terence_Stamp/PXgGCwOOsEY_0000016 198.2 205.6 
+Terence_Stamp/PXgGCwOOsEY_0000017 215.8 226.6 
+Terence_Stamp/PXgGCwOOsEY_0000018 227.4 233.7 
+Terence_Stamp/PXgGCwOOsEY_0000019 247.4 262.2 
+Terence_Stamp/PXgGCwOOsEY_0000020 266.2 294.2 
+Terence_Stamp/PXgGCwOOsEY_0000021 356.2 361.8 
+Terence_Stamp/PXgGCwOOsEY_0000022 436.9 444.6 
+Terence_Stamp/PXgGCwOOsEY_0000023 455.5 468.2 
+Terence_Stamp/PXgGCwOOsEY_0000024 471.0 478.2 
+Terence_Stamp/PXgGCwOOsEY_0000025 488.0 499.0 
+Terence_Stamp/PXgGCwOOsEY_0000026 501.9 508.8 
+Terence_Stamp/PXgGCwOOsEY_0000027 509.5 520.8 

@@ -1,0 +1,12 @@
+POI: 			Jim_Sturgess 
+Youtube ID: 	LsdcXUfLfU4 
+Video length: 	233.5 sec 
+Set (V): 		dev 
+ 
+Jim_Sturgess/LsdcXUfLfU4_0000001 87.7 93.2 
+Jim_Sturgess/LsdcXUfLfU4_0000002 102.6 109.0 
+Jim_Sturgess/LsdcXUfLfU4_0000003 113.8 120.8 
+Jim_Sturgess/LsdcXUfLfU4_0000004 133.6 138.4 
+Jim_Sturgess/LsdcXUfLfU4_0000005 188.6 201.3 
+Jim_Sturgess/LsdcXUfLfU4_0000006 206.0 214.0 
+Jim_Sturgess/LsdcXUfLfU4_0000007 224.0 228.7 

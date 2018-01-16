@@ -1,0 +1,11 @@
+POI: 			Harry_Connick_Jr. 
+Youtube ID: 	BX6TAVgTZIU 
+Video length: 	239.0 sec 
+Set (V): 		dev 
+ 
+Harry_Connick_Jr./BX6TAVgTZIU_0000001 73.8 96.6 
+Harry_Connick_Jr./BX6TAVgTZIU_0000002 102.9 107.5 
+Harry_Connick_Jr./BX6TAVgTZIU_0000003 109.6 114.2 
+Harry_Connick_Jr./BX6TAVgTZIU_0000004 186.8 192.1 
+Harry_Connick_Jr./BX6TAVgTZIU_0000005 197.4 209.4 
+Harry_Connick_Jr./BX6TAVgTZIU_0000006 224.6 231.2 

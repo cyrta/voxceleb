@@ -1,0 +1,13 @@
+POI: 			Nick_Kroll 
+Youtube ID: 	eKu-Oyqaf8M 
+Video length: 	234.4 sec 
+Set (V): 		dev 
+ 
+Nick_Kroll/eKu-Oyqaf8M_0000001 07.3 22.3 
+Nick_Kroll/eKu-Oyqaf8M_0000002 47.2 56.3 
+Nick_Kroll/eKu-Oyqaf8M_0000003 85.4 90.5 
+Nick_Kroll/eKu-Oyqaf8M_0000004 103.3 109.0 
+Nick_Kroll/eKu-Oyqaf8M_0000005 163.9 174.2 
+Nick_Kroll/eKu-Oyqaf8M_0000006 186.8 191.3 
+Nick_Kroll/eKu-Oyqaf8M_0000007 193.1 203.0 
+Nick_Kroll/eKu-Oyqaf8M_0000008 220.3 229.8 

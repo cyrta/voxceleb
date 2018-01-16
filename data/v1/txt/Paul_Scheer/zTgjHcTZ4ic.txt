@@ -1,0 +1,13 @@
+POI: 			Paul_Scheer 
+Youtube ID: 	zTgjHcTZ4ic 
+Video length: 	620.8 sec 
+Set (V): 		dev 
+ 
+Paul_Scheer/zTgjHcTZ4ic_0000001 102.4 107.0 
+Paul_Scheer/zTgjHcTZ4ic_0000002 162.3 166.4 
+Paul_Scheer/zTgjHcTZ4ic_0000003 180.7 187.9 
+Paul_Scheer/zTgjHcTZ4ic_0000004 227.1 232.9 
+Paul_Scheer/zTgjHcTZ4ic_0000005 322.4 328.0 
+Paul_Scheer/zTgjHcTZ4ic_0000006 352.4 356.5 
+Paul_Scheer/zTgjHcTZ4ic_0000007 361.3 369.3 
+Paul_Scheer/zTgjHcTZ4ic_0000008 391.7 397.3 

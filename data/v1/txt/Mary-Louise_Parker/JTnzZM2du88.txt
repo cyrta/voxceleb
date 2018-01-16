@@ -1,0 +1,11 @@
+POI: 			Mary-Louise_Parker 
+Youtube ID: 	JTnzZM2du88 
+Video length: 	329.4 sec 
+Set (V): 		dev 
+ 
+Mary-Louise_Parker/JTnzZM2du88_0000001 72.5 79.6 
+Mary-Louise_Parker/JTnzZM2du88_0000002 104.6 110.6 
+Mary-Louise_Parker/JTnzZM2du88_0000003 125.5 137.6 
+Mary-Louise_Parker/JTnzZM2du88_0000004 192.1 196.2 
+Mary-Louise_Parker/JTnzZM2du88_0000005 294.1 298.3 
+Mary-Louise_Parker/JTnzZM2du88_0000006 298.8 306.4 

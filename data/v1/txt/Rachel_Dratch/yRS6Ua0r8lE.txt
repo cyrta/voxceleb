@@ -1,0 +1,15 @@
+POI: 			Rachel_Dratch 
+Youtube ID: 	yRS6Ua0r8lE 
+Video length: 	370.0 sec 
+Set (V): 		dev 
+ 
+Rachel_Dratch/yRS6Ua0r8lE_0000001 77.2 82.3 
+Rachel_Dratch/yRS6Ua0r8lE_0000002 137.4 154.9 
+Rachel_Dratch/yRS6Ua0r8lE_0000003 163.0 169.2 
+Rachel_Dratch/yRS6Ua0r8lE_0000004 201.8 215.7 
+Rachel_Dratch/yRS6Ua0r8lE_0000005 226.3 233.9 
+Rachel_Dratch/yRS6Ua0r8lE_0000006 249.8 255.7 
+Rachel_Dratch/yRS6Ua0r8lE_0000007 276.8 281.0 
+Rachel_Dratch/yRS6Ua0r8lE_0000008 304.1 312.3 
+Rachel_Dratch/yRS6Ua0r8lE_0000009 332.4 339.3 
+Rachel_Dratch/yRS6Ua0r8lE_0000010 340.6 344.6 

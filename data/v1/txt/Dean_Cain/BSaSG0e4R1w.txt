@@ -1,0 +1,9 @@
+POI: 			Dean_Cain 
+Youtube ID: 	BSaSG0e4R1w 
+Video length: 	532.7 sec 
+Set (V): 		dev 
+ 
+Dean_Cain/BSaSG0e4R1w_0000001 228.4 237.0 
+Dean_Cain/BSaSG0e4R1w_0000002 285.8 293.0 
+Dean_Cain/BSaSG0e4R1w_0000003 482.1 489.9 
+Dean_Cain/BSaSG0e4R1w_0000004 494.2 498.2 

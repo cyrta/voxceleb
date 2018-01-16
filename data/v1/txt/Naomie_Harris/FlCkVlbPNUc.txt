@@ -1,0 +1,13 @@
+POI: 			Naomie_Harris 
+Youtube ID: 	FlCkVlbPNUc 
+Video length: 	281.9 sec 
+Set (V): 		dev 
+ 
+Naomie_Harris/FlCkVlbPNUc_0000001 34.0 45.3 
+Naomie_Harris/FlCkVlbPNUc_0000002 47.6 63.2 
+Naomie_Harris/FlCkVlbPNUc_0000003 66.6 80.0 
+Naomie_Harris/FlCkVlbPNUc_0000004 82.3 93.2 
+Naomie_Harris/FlCkVlbPNUc_0000005 95.6 100.4 
+Naomie_Harris/FlCkVlbPNUc_0000006 224.9 234.7 
+Naomie_Harris/FlCkVlbPNUc_0000007 238.2 250.4 
+Naomie_Harris/FlCkVlbPNUc_0000008 267.2 274.0 

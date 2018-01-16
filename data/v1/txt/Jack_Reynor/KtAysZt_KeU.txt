@@ -1,0 +1,8 @@
+POI: 			Jack_Reynor 
+Youtube ID: 	KtAysZt_KeU 
+Video length: 	418.6 sec 
+Set (V): 		dev 
+ 
+Jack_Reynor/KtAysZt_KeU_0000001 212.2 221.6 
+Jack_Reynor/KtAysZt_KeU_0000002 274.0 278.8 
+Jack_Reynor/KtAysZt_KeU_0000003 287.6 299.4 

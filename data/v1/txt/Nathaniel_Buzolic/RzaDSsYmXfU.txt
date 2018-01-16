@@ -1,0 +1,8 @@
+POI: 			Nathaniel_Buzolic 
+Youtube ID: 	RzaDSsYmXfU 
+Video length: 	456.2 sec 
+Set (V): 		dev 
+ 
+Nathaniel_Buzolic/RzaDSsYmXfU_0000001 176.8 182.6 
+Nathaniel_Buzolic/RzaDSsYmXfU_0000002 184.7 190.2 
+Nathaniel_Buzolic/RzaDSsYmXfU_0000003 207.2 212.1 

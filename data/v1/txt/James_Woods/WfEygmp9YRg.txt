@@ -1,0 +1,16 @@
+POI: 			James_Woods 
+Youtube ID: 	WfEygmp9YRg 
+Video length: 	442.7 sec 
+Set (V): 		dev 
+ 
+James_Woods/WfEygmp9YRg_0000001 177.8 183.3 
+James_Woods/WfEygmp9YRg_0000002 183.8 188.1 
+James_Woods/WfEygmp9YRg_0000003 202.2 212.7 
+James_Woods/WfEygmp9YRg_0000004 248.1 255.2 
+James_Woods/WfEygmp9YRg_0000005 255.6 260.6 
+James_Woods/WfEygmp9YRg_0000006 268.9 274.1 
+James_Woods/WfEygmp9YRg_0000007 282.9 288.7 
+James_Woods/WfEygmp9YRg_0000008 329.2 338.3 
+James_Woods/WfEygmp9YRg_0000009 352.0 356.5 
+James_Woods/WfEygmp9YRg_0000010 359.8 365.9 
+James_Woods/WfEygmp9YRg_0000011 403.6 409.6 

@@ -1,0 +1,28 @@
+POI: 			Thomas_Haden_Church 
+Youtube ID: 	Ad81el_bmPs 
+Video length: 	1053.1 sec 
+Set (V): 		dev 
+ 
+Thomas_Haden_Church/Ad81el_bmPs_0000001 233.0 237.6 
+Thomas_Haden_Church/Ad81el_bmPs_0000002 288.5 296.3 
+Thomas_Haden_Church/Ad81el_bmPs_0000003 369.5 382.8 
+Thomas_Haden_Church/Ad81el_bmPs_0000004 462.2 466.4 
+Thomas_Haden_Church/Ad81el_bmPs_0000005 556.9 561.7 
+Thomas_Haden_Church/Ad81el_bmPs_0000006 562.2 575.5 
+Thomas_Haden_Church/Ad81el_bmPs_0000007 578.8 586.8 
+Thomas_Haden_Church/Ad81el_bmPs_0000008 588.8 598.8 
+Thomas_Haden_Church/Ad81el_bmPs_0000009 601.7 606.6 
+Thomas_Haden_Church/Ad81el_bmPs_0000010 650.4 657.8 
+Thomas_Haden_Church/Ad81el_bmPs_0000011 681.4 687.0 
+Thomas_Haden_Church/Ad81el_bmPs_0000012 694.4 698.5 
+Thomas_Haden_Church/Ad81el_bmPs_0000013 699.2 703.6 
+Thomas_Haden_Church/Ad81el_bmPs_0000014 722.1 749.9 
+Thomas_Haden_Church/Ad81el_bmPs_0000015 750.0 758.0 
+Thomas_Haden_Church/Ad81el_bmPs_0000016 849.7 861.8 
+Thomas_Haden_Church/Ad81el_bmPs_0000017 873.9 888.7 
+Thomas_Haden_Church/Ad81el_bmPs_0000018 889.2 901.6 
+Thomas_Haden_Church/Ad81el_bmPs_0000019 927.2 935.8 
+Thomas_Haden_Church/Ad81el_bmPs_0000020 936.7 941.0 
+Thomas_Haden_Church/Ad81el_bmPs_0000021 952.7 958.3 
+Thomas_Haden_Church/Ad81el_bmPs_0000022 958.9 965.4 
+Thomas_Haden_Church/Ad81el_bmPs_0000023 976.2 987.8 

@@ -1,0 +1,8 @@
+POI: 			Diogo_Morgado 
+Youtube ID: 	6FxcoWmcGzg 
+Video length: 	297.6 sec 
+Set (V): 		dev 
+ 
+Diogo_Morgado/6FxcoWmcGzg_0000001 105.9 119.1 
+Diogo_Morgado/6FxcoWmcGzg_0000002 119.4 133.2 
+Diogo_Morgado/6FxcoWmcGzg_0000003 143.8 166.7 

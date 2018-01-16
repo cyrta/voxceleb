@@ -1,0 +1,7 @@
+POI: 			David_Kross 
+Youtube ID: 	c39mTSQoDfQ 
+Video length: 	205.9 sec 
+Set (V): 		dev 
+ 
+David_Kross/c39mTSQoDfQ_0000001 26.4 30.4 
+David_Kross/c39mTSQoDfQ_0000002 71.9 76.0 

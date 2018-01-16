@@ -1,0 +1,10 @@
+POI: 			Max_Adler 
+Youtube ID: 	cb0lEKKnDC8 
+Video length: 	102.8 sec 
+Set (V): 		dev 
+ 
+Max_Adler/cb0lEKKnDC8_0000001 01.6 21.8 
+Max_Adler/cb0lEKKnDC8_0000002 22.1 29.0 
+Max_Adler/cb0lEKKnDC8_0000003 29.1 39.8 
+Max_Adler/cb0lEKKnDC8_0000004 40.0 45.0 
+Max_Adler/cb0lEKKnDC8_0000005 46.0 99.5 

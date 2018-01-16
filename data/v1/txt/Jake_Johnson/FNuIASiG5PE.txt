@@ -1,0 +1,8 @@
+POI: 			Jake_Johnson 
+Youtube ID: 	FNuIASiG5PE 
+Video length: 	505.3 sec 
+Set (V): 		dev 
+ 
+Jake_Johnson/FNuIASiG5PE_0000001 251.6 257.0 
+Jake_Johnson/FNuIASiG5PE_0000002 261.6 267.6 
+Jake_Johnson/FNuIASiG5PE_0000003 268.1 276.2 

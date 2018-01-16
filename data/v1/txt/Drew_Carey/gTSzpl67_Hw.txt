@@ -1,0 +1,16 @@
+POI: 			Drew_Carey 
+Youtube ID: 	gTSzpl67_Hw 
+Video length: 	330.0 sec 
+Set (V): 		dev 
+ 
+Drew_Carey/gTSzpl67_Hw_0000001 55.6 66.5 
+Drew_Carey/gTSzpl67_Hw_0000002 92.2 103.9 
+Drew_Carey/gTSzpl67_Hw_0000003 109.8 116.9 
+Drew_Carey/gTSzpl67_Hw_0000004 126.4 131.8 
+Drew_Carey/gTSzpl67_Hw_0000005 136.6 146.2 
+Drew_Carey/gTSzpl67_Hw_0000006 191.9 197.9 
+Drew_Carey/gTSzpl67_Hw_0000007 208.2 213.8 
+Drew_Carey/gTSzpl67_Hw_0000008 214.4 224.1 
+Drew_Carey/gTSzpl67_Hw_0000009 274.0 287.0 
+Drew_Carey/gTSzpl67_Hw_0000010 311.4 316.1 
+Drew_Carey/gTSzpl67_Hw_0000011 316.2 322.6 

@@ -1,0 +1,7 @@
+POI: 			Andrew_Rannells 
+Youtube ID: 	2BD8idIsZoU 
+Video length: 	234.8 sec 
+Set (V): 		dev 
+ 
+Andrew_Rannells/2BD8idIsZoU_0000001 77.0 81.9 
+Andrew_Rannells/2BD8idIsZoU_0000002 128.7 138.7 

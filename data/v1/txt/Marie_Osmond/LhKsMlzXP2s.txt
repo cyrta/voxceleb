@@ -1,0 +1,8 @@
+POI: 			Marie_Osmond 
+Youtube ID: 	LhKsMlzXP2s 
+Video length: 	341.6 sec 
+Set (V): 		dev 
+ 
+Marie_Osmond/LhKsMlzXP2s_0000001 96.0 101.2 
+Marie_Osmond/LhKsMlzXP2s_0000002 251.9 270.4 
+Marie_Osmond/LhKsMlzXP2s_0000003 277.0 285.4 

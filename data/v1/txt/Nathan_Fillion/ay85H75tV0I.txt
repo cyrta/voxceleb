@@ -1,0 +1,7 @@
+POI: 			Nathan_Fillion 
+Youtube ID: 	ay85H75tV0I 
+Video length: 	226.1 sec 
+Set (V): 		dev 
+ 
+Nathan_Fillion/ay85H75tV0I_0000001 92.4 96.7 
+Nathan_Fillion/ay85H75tV0I_0000002 215.0 222.3 

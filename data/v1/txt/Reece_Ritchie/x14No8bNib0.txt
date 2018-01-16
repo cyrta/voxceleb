@@ -1,0 +1,7 @@
+POI: 			Reece_Ritchie 
+Youtube ID: 	x14No8bNib0 
+Video length: 	247.2 sec 
+Set (V): 		dev 
+ 
+Reece_Ritchie/x14No8bNib0_0000001 44.3 51.0 
+Reece_Ritchie/x14No8bNib0_0000002 55.4 65.6 

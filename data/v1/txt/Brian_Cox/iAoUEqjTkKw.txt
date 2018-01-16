@@ -1,0 +1,12 @@
+POI: 			Brian_Cox 
+Youtube ID: 	iAoUEqjTkKw 
+Video length: 	301.1 sec 
+Set (V): 		dev 
+ 
+Brian_Cox/iAoUEqjTkKw_0000001 17.4 24.1 
+Brian_Cox/iAoUEqjTkKw_0000002 27.6 34.3 
+Brian_Cox/iAoUEqjTkKw_0000003 61.7 66.4 
+Brian_Cox/iAoUEqjTkKw_0000004 100.2 109.1 
+Brian_Cox/iAoUEqjTkKw_0000005 129.0 142.0 
+Brian_Cox/iAoUEqjTkKw_0000006 201.2 207.5 
+Brian_Cox/iAoUEqjTkKw_0000007 234.8 239.0 

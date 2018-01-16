@@ -1,0 +1,7 @@
+POI: 			Norman_Reedus 
+Youtube ID: 	D3oxbTRoTsg 
+Video length: 	161.2 sec 
+Set (V): 		dev 
+ 
+Norman_Reedus/D3oxbTRoTsg_0000001 66.6 71.2 
+Norman_Reedus/D3oxbTRoTsg_0000002 76.3 84.7 

@@ -1,0 +1,10 @@
+POI: 			Jenny_Slate 
+Youtube ID: 	VmiRBGp6Kcg 
+Video length: 	227.6 sec 
+Set (V): 		dev 
+ 
+Jenny_Slate/VmiRBGp6Kcg_0000001 136.1 141.9 
+Jenny_Slate/VmiRBGp6Kcg_0000002 155.4 162.8 
+Jenny_Slate/VmiRBGp6Kcg_0000003 169.5 176.6 
+Jenny_Slate/VmiRBGp6Kcg_0000004 181.8 188.2 
+Jenny_Slate/VmiRBGp6Kcg_0000005 203.2 214.7 

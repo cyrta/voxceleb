@@ -1,0 +1,26 @@
+POI: 			Joanna_Lumley 
+Youtube ID: 	RVNuh1gC6L0 
+Video length: 	654.3 sec 
+Set (V): 		dev 
+ 
+Joanna_Lumley/RVNuh1gC6L0_0000001 60.7 74.0 
+Joanna_Lumley/RVNuh1gC6L0_0000002 79.5 87.8 
+Joanna_Lumley/RVNuh1gC6L0_0000003 93.2 113.3 
+Joanna_Lumley/RVNuh1gC6L0_0000004 121.3 127.9 
+Joanna_Lumley/RVNuh1gC6L0_0000005 132.2 138.3 
+Joanna_Lumley/RVNuh1gC6L0_0000006 188.6 193.3 
+Joanna_Lumley/RVNuh1gC6L0_0000007 194.4 203.5 
+Joanna_Lumley/RVNuh1gC6L0_0000008 210.4 215.8 
+Joanna_Lumley/RVNuh1gC6L0_0000009 281.6 288.2 
+Joanna_Lumley/RVNuh1gC6L0_0000010 288.8 300.0 
+Joanna_Lumley/RVNuh1gC6L0_0000011 335.9 357.2 
+Joanna_Lumley/RVNuh1gC6L0_0000012 357.2 364.0 
+Joanna_Lumley/RVNuh1gC6L0_0000013 368.7 376.5 
+Joanna_Lumley/RVNuh1gC6L0_0000014 378.7 387.1 
+Joanna_Lumley/RVNuh1gC6L0_0000015 409.3 418.2 
+Joanna_Lumley/RVNuh1gC6L0_0000016 505.4 514.7 
+Joanna_Lumley/RVNuh1gC6L0_0000017 549.1 555.4 
+Joanna_Lumley/RVNuh1gC6L0_0000018 563.0 567.8 
+Joanna_Lumley/RVNuh1gC6L0_0000019 572.2 577.2 
+Joanna_Lumley/RVNuh1gC6L0_0000020 595.1 603.1 
+Joanna_Lumley/RVNuh1gC6L0_0000021 603.3 609.8 

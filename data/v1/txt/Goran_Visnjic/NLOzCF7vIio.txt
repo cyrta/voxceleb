@@ -1,0 +1,10 @@
+POI: 			Goran_Visnjic 
+Youtube ID: 	NLOzCF7vIio 
+Video length: 	621.9 sec 
+Set (V): 		dev 
+ 
+Goran_Visnjic/NLOzCF7vIio_0000001 149.1 154.8 
+Goran_Visnjic/NLOzCF7vIio_0000002 166.1 174.2 
+Goran_Visnjic/NLOzCF7vIio_0000003 230.8 237.7 
+Goran_Visnjic/NLOzCF7vIio_0000004 507.2 513.2 
+Goran_Visnjic/NLOzCF7vIio_0000005 557.2 563.0 

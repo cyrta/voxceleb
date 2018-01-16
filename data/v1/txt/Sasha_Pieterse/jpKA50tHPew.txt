@@ -1,0 +1,8 @@
+POI: 			Sasha_Pieterse 
+Youtube ID: 	jpKA50tHPew 
+Video length: 	70.1 sec 
+Set (V): 		dev 
+ 
+Sasha_Pieterse/jpKA50tHPew_0000001 31.1 38.0 
+Sasha_Pieterse/jpKA50tHPew_0000002 39.0 53.9 
+Sasha_Pieterse/jpKA50tHPew_0000003 64.2 68.6 

@@ -1,0 +1,19 @@
+POI: 			Richard_E._Grant 
+Youtube ID: 	nt03w-nQBp4 
+Video length: 	265.9 sec 
+Set (V): 		dev 
+ 
+Richard_E._Grant/nt03w-nQBp4_0000001 12.7 22.0 
+Richard_E._Grant/nt03w-nQBp4_0000002 23.0 43.3 
+Richard_E._Grant/nt03w-nQBp4_0000003 55.8 68.1 
+Richard_E._Grant/nt03w-nQBp4_0000004 79.1 105.7 
+Richard_E._Grant/nt03w-nQBp4_0000005 112.5 117.0 
+Richard_E._Grant/nt03w-nQBp4_0000006 127.4 139.7 
+Richard_E._Grant/nt03w-nQBp4_0000007 151.7 161.1 
+Richard_E._Grant/nt03w-nQBp4_0000008 161.2 182.5 
+Richard_E._Grant/nt03w-nQBp4_0000009 182.9 187.2 
+Richard_E._Grant/nt03w-nQBp4_0000010 189.1 195.9 
+Richard_E._Grant/nt03w-nQBp4_0000011 200.8 208.4 
+Richard_E._Grant/nt03w-nQBp4_0000012 220.2 233.4 
+Richard_E._Grant/nt03w-nQBp4_0000013 246.9 252.9 
+Richard_E._Grant/nt03w-nQBp4_0000014 253.5 264.1 

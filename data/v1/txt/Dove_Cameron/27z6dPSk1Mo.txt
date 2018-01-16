@@ -1,0 +1,8 @@
+POI: 			Dove_Cameron 
+Youtube ID: 	27z6dPSk1Mo 
+Video length: 	240.2 sec 
+Set (V): 		dev 
+ 
+Dove_Cameron/27z6dPSk1Mo_0000001 78.8 94.4 
+Dove_Cameron/27z6dPSk1Mo_0000002 100.0 107.1 
+Dove_Cameron/27z6dPSk1Mo_0000003 178.8 194.4 

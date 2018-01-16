@@ -1,0 +1,13 @@
+POI: 			Russell_Peters 
+Youtube ID: 	QbzT5utW4Ts 
+Video length: 	346.5 sec 
+Set (V): 		dev 
+ 
+Russell_Peters/QbzT5utW4Ts_0000001 80.3 90.5 
+Russell_Peters/QbzT5utW4Ts_0000002 102.4 108.8 
+Russell_Peters/QbzT5utW4Ts_0000003 139.2 145.5 
+Russell_Peters/QbzT5utW4Ts_0000004 153.8 158.9 
+Russell_Peters/QbzT5utW4Ts_0000005 179.5 184.6 
+Russell_Peters/QbzT5utW4Ts_0000006 200.8 209.9 
+Russell_Peters/QbzT5utW4Ts_0000007 226.0 230.2 
+Russell_Peters/QbzT5utW4Ts_0000008 289.7 296.1 

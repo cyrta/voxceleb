@@ -1,0 +1,30 @@
+POI: 			Armand_Assante 
+Youtube ID: 	KTzq57aUqI8 
+Video length: 	1609.8 sec 
+Set (V): 		dev 
+ 
+Armand_Assante/KTzq57aUqI8_0000001 40.7 45.7 
+Armand_Assante/KTzq57aUqI8_0000002 52.3 56.3 
+Armand_Assante/KTzq57aUqI8_0000003 59.2 66.3 
+Armand_Assante/KTzq57aUqI8_0000004 161.0 166.4 
+Armand_Assante/KTzq57aUqI8_0000005 263.5 268.8 
+Armand_Assante/KTzq57aUqI8_0000006 320.2 326.2 
+Armand_Assante/KTzq57aUqI8_0000007 432.4 440.3 
+Armand_Assante/KTzq57aUqI8_0000008 604.9 614.5 
+Armand_Assante/KTzq57aUqI8_0000009 728.8 737.7 
+Armand_Assante/KTzq57aUqI8_0000010 738.2 743.6 
+Armand_Assante/KTzq57aUqI8_0000011 923.4 927.8 
+Armand_Assante/KTzq57aUqI8_0000012 950.6 954.9 
+Armand_Assante/KTzq57aUqI8_0000013 1017.8 1023.3 
+Armand_Assante/KTzq57aUqI8_0000014 1025.3 1031.6 
+Armand_Assante/KTzq57aUqI8_0000015 1245.6 1249.7 
+Armand_Assante/KTzq57aUqI8_0000016 1259.2 1263.9 
+Armand_Assante/KTzq57aUqI8_0000017 1267.8 1274.8 
+Armand_Assante/KTzq57aUqI8_0000018 1326.7 1334.1 
+Armand_Assante/KTzq57aUqI8_0000019 1402.9 1408.1 
+Armand_Assante/KTzq57aUqI8_0000020 1463.2 1467.7 
+Armand_Assante/KTzq57aUqI8_0000021 1485.5 1494.0 
+Armand_Assante/KTzq57aUqI8_0000022 1494.8 1499.4 
+Armand_Assante/KTzq57aUqI8_0000023 1511.0 1516.2 
+Armand_Assante/KTzq57aUqI8_0000024 1524.7 1537.3 
+Armand_Assante/KTzq57aUqI8_0000025 1539.9 1548.3 

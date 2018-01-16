@@ -1,0 +1,10 @@
+POI: 			Katie_Cleary 
+Youtube ID: 	FnuUUIM2RQ4 
+Video length: 	219.2 sec 
+Set (V): 		dev 
+ 
+Katie_Cleary/FnuUUIM2RQ4_0000001 30.0 34.7 
+Katie_Cleary/FnuUUIM2RQ4_0000002 97.0 101.6 
+Katie_Cleary/FnuUUIM2RQ4_0000003 114.9 138.6 
+Katie_Cleary/FnuUUIM2RQ4_0000004 154.8 159.1 
+Katie_Cleary/FnuUUIM2RQ4_0000005 190.8 196.8 

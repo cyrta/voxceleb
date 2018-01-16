@@ -1,0 +1,9 @@
+POI: 			Tabu 
+Youtube ID: 	Pded8L7dHCQ 
+Video length: 	349.6 sec 
+Set (V): 		dev 
+ 
+Tabu/Pded8L7dHCQ_0000001 148.4 154.4 
+Tabu/Pded8L7dHCQ_0000002 164.1 168.7 
+Tabu/Pded8L7dHCQ_0000003 182.8 187.1 
+Tabu/Pded8L7dHCQ_0000004 308.9 314.6 

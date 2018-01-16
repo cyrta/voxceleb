@@ -1,0 +1,9 @@
+POI: 			Kylie_Minogue 
+Youtube ID: 	foZEMVIROXI 
+Video length: 	295.4 sec 
+Set (V): 		dev 
+ 
+Kylie_Minogue/foZEMVIROXI_0000001 17.4 25.5 
+Kylie_Minogue/foZEMVIROXI_0000002 156.2 161.5 
+Kylie_Minogue/foZEMVIROXI_0000003 222.6 228.8 
+Kylie_Minogue/foZEMVIROXI_0000004 275.0 279.0 

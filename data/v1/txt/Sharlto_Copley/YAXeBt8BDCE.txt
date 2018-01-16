@@ -1,0 +1,9 @@
+POI: 			Sharlto_Copley 
+Youtube ID: 	YAXeBt8BDCE 
+Video length: 	322.5 sec 
+Set (V): 		dev 
+ 
+Sharlto_Copley/YAXeBt8BDCE_0000001 39.4 44.0 
+Sharlto_Copley/YAXeBt8BDCE_0000002 44.0 54.0 
+Sharlto_Copley/YAXeBt8BDCE_0000003 131.8 138.4 
+Sharlto_Copley/YAXeBt8BDCE_0000004 139.4 147.0 

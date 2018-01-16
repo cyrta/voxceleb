@@ -1,0 +1,25 @@
+POI: 			Luc_Besson 
+Youtube ID: 	qAjQPFuwxIw 
+Video length: 	438.0 sec 
+Set (V): 		dev 
+ 
+Luc_Besson/qAjQPFuwxIw_0000001 14.8 20.0 
+Luc_Besson/qAjQPFuwxIw_0000002 24.2 30.6 
+Luc_Besson/qAjQPFuwxIw_0000003 31.1 35.8 
+Luc_Besson/qAjQPFuwxIw_0000004 36.3 41.2 
+Luc_Besson/qAjQPFuwxIw_0000005 67.9 72.6 
+Luc_Besson/qAjQPFuwxIw_0000006 85.0 92.2 
+Luc_Besson/qAjQPFuwxIw_0000007 105.4 111.0 
+Luc_Besson/qAjQPFuwxIw_0000008 114.3 122.0 
+Luc_Besson/qAjQPFuwxIw_0000009 132.4 140.1 
+Luc_Besson/qAjQPFuwxIw_0000010 145.3 149.5 
+Luc_Besson/qAjQPFuwxIw_0000011 161.4 169.8 
+Luc_Besson/qAjQPFuwxIw_0000012 187.2 197.9 
+Luc_Besson/qAjQPFuwxIw_0000013 217.0 222.7 
+Luc_Besson/qAjQPFuwxIw_0000014 249.8 255.0 
+Luc_Besson/qAjQPFuwxIw_0000015 258.0 261.9 
+Luc_Besson/qAjQPFuwxIw_0000016 280.7 284.8 
+Luc_Besson/qAjQPFuwxIw_0000017 288.8 294.0 
+Luc_Besson/qAjQPFuwxIw_0000018 305.6 314.9 
+Luc_Besson/qAjQPFuwxIw_0000019 327.9 333.1 
+Luc_Besson/qAjQPFuwxIw_0000020 334.4 340.2 

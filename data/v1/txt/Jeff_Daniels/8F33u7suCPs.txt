@@ -1,0 +1,10 @@
+POI: 			Jeff_Daniels 
+Youtube ID: 	8F33u7suCPs 
+Video length: 	516.2 sec 
+Set (V): 		dev 
+ 
+Jeff_Daniels/8F33u7suCPs_0000001 63.8 68.3 
+Jeff_Daniels/8F33u7suCPs_0000002 94.4 99.0 
+Jeff_Daniels/8F33u7suCPs_0000003 282.5 287.8 
+Jeff_Daniels/8F33u7suCPs_0000004 299.2 307.5 
+Jeff_Daniels/8F33u7suCPs_0000005 492.4 496.8 

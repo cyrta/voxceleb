@@ -1,0 +1,9 @@
+POI: 			Matt_Dallas 
+Youtube ID: 	p4SUBHRl7Kw 
+Video length: 	307.8 sec 
+Set (V): 		dev 
+ 
+Matt_Dallas/p4SUBHRl7Kw_0000001 55.9 64.6 
+Matt_Dallas/p4SUBHRl7Kw_0000002 105.6 123.3 
+Matt_Dallas/p4SUBHRl7Kw_0000003 145.0 150.2 
+Matt_Dallas/p4SUBHRl7Kw_0000004 190.3 206.7 

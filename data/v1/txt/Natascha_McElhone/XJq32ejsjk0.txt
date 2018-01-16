@@ -1,0 +1,31 @@
+POI: 			Natascha_McElhone 
+Youtube ID: 	XJq32ejsjk0 
+Video length: 	491.6 sec 
+Set (V): 		dev 
+ 
+Natascha_McElhone/XJq32ejsjk0_0000001 40.2 46.9 
+Natascha_McElhone/XJq32ejsjk0_0000002 54.1 59.8 
+Natascha_McElhone/XJq32ejsjk0_0000003 62.4 67.0 
+Natascha_McElhone/XJq32ejsjk0_0000004 67.4 79.0 
+Natascha_McElhone/XJq32ejsjk0_0000005 120.5 130.8 
+Natascha_McElhone/XJq32ejsjk0_0000006 131.5 135.5 
+Natascha_McElhone/XJq32ejsjk0_0000007 139.4 146.2 
+Natascha_McElhone/XJq32ejsjk0_0000008 148.8 157.4 
+Natascha_McElhone/XJq32ejsjk0_0000009 167.5 176.0 
+Natascha_McElhone/XJq32ejsjk0_0000010 204.8 213.2 
+Natascha_McElhone/XJq32ejsjk0_0000011 214.3 221.4 
+Natascha_McElhone/XJq32ejsjk0_0000012 227.5 237.8 
+Natascha_McElhone/XJq32ejsjk0_0000013 258.2 265.6 
+Natascha_McElhone/XJq32ejsjk0_0000014 271.2 278.2 
+Natascha_McElhone/XJq32ejsjk0_0000015 282.0 286.2 
+Natascha_McElhone/XJq32ejsjk0_0000016 289.8 296.2 
+Natascha_McElhone/XJq32ejsjk0_0000017 307.2 334.0 
+Natascha_McElhone/XJq32ejsjk0_0000018 337.1 341.4 
+Natascha_McElhone/XJq32ejsjk0_0000019 362.6 378.7 
+Natascha_McElhone/XJq32ejsjk0_0000020 380.3 385.0 
+Natascha_McElhone/XJq32ejsjk0_0000021 385.8 392.9 
+Natascha_McElhone/XJq32ejsjk0_0000022 394.6 405.0 
+Natascha_McElhone/XJq32ejsjk0_0000023 407.4 420.5 
+Natascha_McElhone/XJq32ejsjk0_0000024 420.6 427.0 
+Natascha_McElhone/XJq32ejsjk0_0000025 428.6 437.6 
+Natascha_McElhone/XJq32ejsjk0_0000026 451.0 461.9 

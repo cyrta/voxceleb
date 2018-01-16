@@ -1,0 +1,17 @@
+POI: 			Pablo_Schreiber 
+Youtube ID: 	cKppgNesTSg 
+Video length: 	274.2 sec 
+Set (V): 		dev 
+ 
+Pablo_Schreiber/cKppgNesTSg_0000001 23.8 41.9 
+Pablo_Schreiber/cKppgNesTSg_0000002 42.7 52.0 
+Pablo_Schreiber/cKppgNesTSg_0000003 52.6 57.8 
+Pablo_Schreiber/cKppgNesTSg_0000004 80.0 107.1 
+Pablo_Schreiber/cKppgNesTSg_0000005 107.8 116.6 
+Pablo_Schreiber/cKppgNesTSg_0000006 143.2 156.4 
+Pablo_Schreiber/cKppgNesTSg_0000007 156.5 169.9 
+Pablo_Schreiber/cKppgNesTSg_0000008 170.2 175.3 
+Pablo_Schreiber/cKppgNesTSg_0000009 176.0 189.5 
+Pablo_Schreiber/cKppgNesTSg_0000010 200.9 214.2 
+Pablo_Schreiber/cKppgNesTSg_0000011 214.6 233.8 
+Pablo_Schreiber/cKppgNesTSg_0000012 249.4 271.8 

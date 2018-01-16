@@ -1,0 +1,10 @@
+POI: 			Maya_Rudolph 
+Youtube ID: 	qD3W_3--VNw 
+Video length: 	252.8 sec 
+Set (V): 		dev 
+ 
+Maya_Rudolph/qD3W_3--VNw_0000001 13.7 42.5 
+Maya_Rudolph/qD3W_3--VNw_0000002 74.2 81.9 
+Maya_Rudolph/qD3W_3--VNw_0000003 138.0 145.9 
+Maya_Rudolph/qD3W_3--VNw_0000004 161.4 177.5 
+Maya_Rudolph/qD3W_3--VNw_0000005 178.6 183.6 

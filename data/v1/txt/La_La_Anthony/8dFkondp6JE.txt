@@ -1,0 +1,11 @@
+POI: 			La_La_Anthony 
+Youtube ID: 	8dFkondp6JE 
+Video length: 	244.6 sec 
+Set (V): 		dev 
+ 
+La_La_Anthony/8dFkondp6JE_0000001 47.2 74.6 
+La_La_Anthony/8dFkondp6JE_0000002 78.6 84.0 
+La_La_Anthony/8dFkondp6JE_0000003 90.5 136.5 
+La_La_Anthony/8dFkondp6JE_0000004 148.8 160.4 
+La_La_Anthony/8dFkondp6JE_0000005 176.2 190.0 
+La_La_Anthony/8dFkondp6JE_0000006 225.1 230.1 

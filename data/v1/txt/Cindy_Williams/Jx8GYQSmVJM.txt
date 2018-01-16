@@ -1,0 +1,8 @@
+POI: 			Cindy_Williams 
+Youtube ID: 	Jx8GYQSmVJM 
+Video length: 	63.3 sec 
+Set (V): 		dev 
+ 
+Cindy_Williams/Jx8GYQSmVJM_0000001 07.0 14.4 
+Cindy_Williams/Jx8GYQSmVJM_0000002 20.9 26.6 
+Cindy_Williams/Jx8GYQSmVJM_0000003 29.4 33.8 

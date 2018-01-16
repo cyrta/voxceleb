@@ -1,0 +1,7 @@
+POI: 			Peter_Berg 
+Youtube ID: 	5M4a0n7ycdE 
+Video length: 	341.1 sec 
+Set (V): 		dev 
+ 
+Peter_Berg/5M4a0n7ycdE_0000001 49.5 65.8 
+Peter_Berg/5M4a0n7ycdE_0000002 235.5 256.8 

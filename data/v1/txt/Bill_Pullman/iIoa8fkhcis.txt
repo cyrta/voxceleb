@@ -1,0 +1,9 @@
+POI: 			Bill_Pullman 
+Youtube ID: 	iIoa8fkhcis 
+Video length: 	231.8 sec 
+Set (V): 		dev 
+ 
+Bill_Pullman/iIoa8fkhcis_0000001 46.4 54.9 
+Bill_Pullman/iIoa8fkhcis_0000002 55.9 66.5 
+Bill_Pullman/iIoa8fkhcis_0000003 192.3 198.2 
+Bill_Pullman/iIoa8fkhcis_0000004 204.0 211.2 

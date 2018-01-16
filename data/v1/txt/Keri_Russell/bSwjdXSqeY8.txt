@@ -1,0 +1,7 @@
+POI: 			Keri_Russell 
+Youtube ID: 	bSwjdXSqeY8 
+Video length: 	101.9 sec 
+Set (V): 		dev 
+ 
+Keri_Russell/bSwjdXSqeY8_0000001 55.5 64.6 
+Keri_Russell/bSwjdXSqeY8_0000002 80.8 88.1 

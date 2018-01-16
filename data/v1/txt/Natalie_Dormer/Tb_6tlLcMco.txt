@@ -1,0 +1,13 @@
+POI: 			Natalie_Dormer 
+Youtube ID: 	Tb_6tlLcMco 
+Video length: 	227.6 sec 
+Set (V): 		dev 
+ 
+Natalie_Dormer/Tb_6tlLcMco_0000001 29.9 36.0 
+Natalie_Dormer/Tb_6tlLcMco_0000002 63.8 69.7 
+Natalie_Dormer/Tb_6tlLcMco_0000003 100.6 109.0 
+Natalie_Dormer/Tb_6tlLcMco_0000004 116.2 123.8 
+Natalie_Dormer/Tb_6tlLcMco_0000005 111.9 126.6 
+Natalie_Dormer/Tb_6tlLcMco_0000006 127.3 132.9 
+Natalie_Dormer/Tb_6tlLcMco_0000007 179.2 183.6 
+Natalie_Dormer/Tb_6tlLcMco_0000008 192.4 197.4 

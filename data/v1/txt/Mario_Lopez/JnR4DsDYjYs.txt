@@ -1,0 +1,11 @@
+POI: 			Mario_Lopez 
+Youtube ID: 	JnR4DsDYjYs 
+Video length: 	119.7 sec 
+Set (V): 		dev 
+ 
+Mario_Lopez/JnR4DsDYjYs_0000001 10.2 19.4 
+Mario_Lopez/JnR4DsDYjYs_0000002 20.4 31.6 
+Mario_Lopez/JnR4DsDYjYs_0000003 32.6 39.9 
+Mario_Lopez/JnR4DsDYjYs_0000004 48.8 65.8 
+Mario_Lopez/JnR4DsDYjYs_0000005 80.6 90.8 
+Mario_Lopez/JnR4DsDYjYs_0000006 91.9 96.8 

@@ -1,0 +1,12 @@
+POI: 			Garry_Marshall 
+Youtube ID: 	QYBkOAZmpp8 
+Video length: 	210.5 sec 
+Set (V): 		dev 
+ 
+Garry_Marshall/QYBkOAZmpp8_0000001 08.9 36.0 
+Garry_Marshall/QYBkOAZmpp8_0000002 47.4 75.0 
+Garry_Marshall/QYBkOAZmpp8_0000003 76.2 80.9 
+Garry_Marshall/QYBkOAZmpp8_0000004 95.8 141.9 
+Garry_Marshall/QYBkOAZmpp8_0000005 153.0 160.9 
+Garry_Marshall/QYBkOAZmpp8_0000006 162.7 183.6 
+Garry_Marshall/QYBkOAZmpp8_0000007 185.7 202.7 

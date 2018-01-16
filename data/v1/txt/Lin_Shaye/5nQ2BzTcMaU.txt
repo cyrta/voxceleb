@@ -1,0 +1,9 @@
+POI: 			Lin_Shaye 
+Youtube ID: 	5nQ2BzTcMaU 
+Video length: 	229.8 sec 
+Set (V): 		dev 
+ 
+Lin_Shaye/5nQ2BzTcMaU_0000001 43.1 52.4 
+Lin_Shaye/5nQ2BzTcMaU_0000002 162.5 166.4 
+Lin_Shaye/5nQ2BzTcMaU_0000003 167.5 173.0 
+Lin_Shaye/5nQ2BzTcMaU_0000004 187.8 206.0 

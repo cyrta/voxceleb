@@ -1,0 +1,17 @@
+POI: 			Douglas_Booth 
+Youtube ID: 	EWhT8PtQ7rs 
+Video length: 	300.5 sec 
+Set (V): 		dev 
+ 
+Douglas_Booth/EWhT8PtQ7rs_0000001 05.4 11.0 
+Douglas_Booth/EWhT8PtQ7rs_0000002 12.0 20.7 
+Douglas_Booth/EWhT8PtQ7rs_0000003 33.0 37.4 
+Douglas_Booth/EWhT8PtQ7rs_0000004 37.8 48.5 
+Douglas_Booth/EWhT8PtQ7rs_0000005 49.9 54.2 
+Douglas_Booth/EWhT8PtQ7rs_0000006 54.7 64.1 
+Douglas_Booth/EWhT8PtQ7rs_0000007 75.3 97.0 
+Douglas_Booth/EWhT8PtQ7rs_0000008 211.4 220.5 
+Douglas_Booth/EWhT8PtQ7rs_0000009 234.5 238.8 
+Douglas_Booth/EWhT8PtQ7rs_0000010 245.1 252.2 
+Douglas_Booth/EWhT8PtQ7rs_0000011 266.3 275.0 
+Douglas_Booth/EWhT8PtQ7rs_0000012 281.5 296.4 

@@ -1,0 +1,33 @@
+POI: 			Simon_Callow 
+Youtube ID: 	4bwnchJ3GdQ 
+Video length: 	565.1 sec 
+Set (V): 		dev 
+ 
+Simon_Callow/4bwnchJ3GdQ_0000001 15.8 24.9 
+Simon_Callow/4bwnchJ3GdQ_0000002 26.4 41.0 
+Simon_Callow/4bwnchJ3GdQ_0000003 42.6 47.4 
+Simon_Callow/4bwnchJ3GdQ_0000004 51.5 60.7 
+Simon_Callow/4bwnchJ3GdQ_0000005 113.3 117.6 
+Simon_Callow/4bwnchJ3GdQ_0000006 127.2 132.2 
+Simon_Callow/4bwnchJ3GdQ_0000007 137.3 143.0 
+Simon_Callow/4bwnchJ3GdQ_0000008 144.6 154.9 
+Simon_Callow/4bwnchJ3GdQ_0000009 160.2 164.4 
+Simon_Callow/4bwnchJ3GdQ_0000010 172.3 177.2 
+Simon_Callow/4bwnchJ3GdQ_0000011 179.9 194.6 
+Simon_Callow/4bwnchJ3GdQ_0000012 195.4 200.7 
+Simon_Callow/4bwnchJ3GdQ_0000013 201.1 220.0 
+Simon_Callow/4bwnchJ3GdQ_0000014 221.5 236.2 
+Simon_Callow/4bwnchJ3GdQ_0000015 236.5 257.3 
+Simon_Callow/4bwnchJ3GdQ_0000016 270.6 275.1 
+Simon_Callow/4bwnchJ3GdQ_0000017 278.8 288.4 
+Simon_Callow/4bwnchJ3GdQ_0000018 328.8 348.7 
+Simon_Callow/4bwnchJ3GdQ_0000019 353.2 358.1 
+Simon_Callow/4bwnchJ3GdQ_0000020 358.9 380.2 
+Simon_Callow/4bwnchJ3GdQ_0000021 385.4 390.6 
+Simon_Callow/4bwnchJ3GdQ_0000022 392.8 405.6 
+Simon_Callow/4bwnchJ3GdQ_0000023 394.8 402.4 
+Simon_Callow/4bwnchJ3GdQ_0000024 411.8 423.8 
+Simon_Callow/4bwnchJ3GdQ_0000025 424.6 440.2 
+Simon_Callow/4bwnchJ3GdQ_0000026 493.3 518.2 
+Simon_Callow/4bwnchJ3GdQ_0000027 519.4 523.8 
+Simon_Callow/4bwnchJ3GdQ_0000028 526.8 531.4 

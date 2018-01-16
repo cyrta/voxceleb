@@ -1,0 +1,11 @@
+POI: 			Jesse_Williams 
+Youtube ID: 	MUtyADwInfs 
+Video length: 	292.7 sec 
+Set (V): 		dev 
+ 
+Jesse_Williams/MUtyADwInfs_0000001 116.4 130.0 
+Jesse_Williams/MUtyADwInfs_0000002 130.3 134.3 
+Jesse_Williams/MUtyADwInfs_0000003 161.3 169.1 
+Jesse_Williams/MUtyADwInfs_0000004 169.6 178.4 
+Jesse_Williams/MUtyADwInfs_0000005 179.2 183.2 
+Jesse_Williams/MUtyADwInfs_0000006 183.5 187.6 

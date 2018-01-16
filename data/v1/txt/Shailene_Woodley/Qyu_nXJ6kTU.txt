@@ -1,0 +1,21 @@
+POI: 			Shailene_Woodley 
+Youtube ID: 	Qyu_nXJ6kTU 
+Video length: 	256.0 sec 
+Set (V): 		dev 
+ 
+Shailene_Woodley/Qyu_nXJ6kTU_0000001 18.9 32.2 
+Shailene_Woodley/Qyu_nXJ6kTU_0000002 34.6 42.4 
+Shailene_Woodley/Qyu_nXJ6kTU_0000003 47.1 68.8 
+Shailene_Woodley/Qyu_nXJ6kTU_0000004 70.4 76.2 
+Shailene_Woodley/Qyu_nXJ6kTU_0000005 82.0 105.0 
+Shailene_Woodley/Qyu_nXJ6kTU_0000006 117.8 123.9 
+Shailene_Woodley/Qyu_nXJ6kTU_0000007 126.9 131.3 
+Shailene_Woodley/Qyu_nXJ6kTU_0000008 134.0 145.2 
+Shailene_Woodley/Qyu_nXJ6kTU_0000009 145.4 155.9 
+Shailene_Woodley/Qyu_nXJ6kTU_0000010 157.6 166.6 
+Shailene_Woodley/Qyu_nXJ6kTU_0000011 188.8 195.4 
+Shailene_Woodley/Qyu_nXJ6kTU_0000012 157.7 181.6 
+Shailene_Woodley/Qyu_nXJ6kTU_0000013 186.6 194.4 
+Shailene_Woodley/Qyu_nXJ6kTU_0000014 211.8 217.2 
+Shailene_Woodley/Qyu_nXJ6kTU_0000015 218.1 226.4 
+Shailene_Woodley/Qyu_nXJ6kTU_0000016 240.1 248.1 

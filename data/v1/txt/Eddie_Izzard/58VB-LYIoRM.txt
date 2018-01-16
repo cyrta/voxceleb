@@ -1,0 +1,10 @@
+POI: 			Eddie_Izzard 
+Youtube ID: 	58VB-LYIoRM 
+Video length: 	774.3 sec 
+Set (V): 		test 
+ 
+Eddie_Izzard/58VB-LYIoRM_0000001 298.0 304.5 
+Eddie_Izzard/58VB-LYIoRM_0000002 376.7 380.9 
+Eddie_Izzard/58VB-LYIoRM_0000003 416.2 420.5 
+Eddie_Izzard/58VB-LYIoRM_0000004 488.5 492.6 
+Eddie_Izzard/58VB-LYIoRM_0000005 678.8 683.8 

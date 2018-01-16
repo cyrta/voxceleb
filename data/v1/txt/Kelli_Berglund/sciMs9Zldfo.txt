@@ -1,0 +1,11 @@
+POI: 			Kelli_Berglund 
+Youtube ID: 	sciMs9Zldfo 
+Video length: 	137.9 sec 
+Set (V): 		dev 
+ 
+Kelli_Berglund/sciMs9Zldfo_0000001 12.2 16.3 
+Kelli_Berglund/sciMs9Zldfo_0000002 20.4 29.5 
+Kelli_Berglund/sciMs9Zldfo_0000003 34.0 39.6 
+Kelli_Berglund/sciMs9Zldfo_0000004 39.8 44.5 
+Kelli_Berglund/sciMs9Zldfo_0000005 51.2 63.0 
+Kelli_Berglund/sciMs9Zldfo_0000006 63.6 68.3 

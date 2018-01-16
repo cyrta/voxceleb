@@ -1,0 +1,8 @@
+POI: 			Miley_Cyrus 
+Youtube ID: 	C9GCPHs4Vws 
+Video length: 	409.8 sec 
+Set (V): 		dev 
+ 
+Miley_Cyrus/C9GCPHs4Vws_0000001 89.7 94.8 
+Miley_Cyrus/C9GCPHs4Vws_0000002 197.0 202.8 
+Miley_Cyrus/C9GCPHs4Vws_0000003 220.3 232.9 

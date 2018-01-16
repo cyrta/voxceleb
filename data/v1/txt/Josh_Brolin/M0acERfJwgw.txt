@@ -1,0 +1,16 @@
+POI: 			Josh_Brolin 
+Youtube ID: 	M0acERfJwgw 
+Video length: 	222.4 sec 
+Set (V): 		dev 
+ 
+Josh_Brolin/M0acERfJwgw_0000001 39.9 51.4 
+Josh_Brolin/M0acERfJwgw_0000002 53.5 60.4 
+Josh_Brolin/M0acERfJwgw_0000003 61.2 69.4 
+Josh_Brolin/M0acERfJwgw_0000004 82.0 91.8 
+Josh_Brolin/M0acERfJwgw_0000005 93.6 98.4 
+Josh_Brolin/M0acERfJwgw_0000006 100.1 110.8 
+Josh_Brolin/M0acERfJwgw_0000007 121.5 125.7 
+Josh_Brolin/M0acERfJwgw_0000008 138.8 155.0 
+Josh_Brolin/M0acERfJwgw_0000009 155.4 159.6 
+Josh_Brolin/M0acERfJwgw_0000010 164.9 171.6 
+Josh_Brolin/M0acERfJwgw_0000011 172.6 177.4 

@@ -1,0 +1,6 @@
+POI: 			Charlie_Day 
+Youtube ID: 	2bmqLeCchl4 
+Video length: 	193.0 sec 
+Set (V): 		dev 
+ 
+Charlie_Day/2bmqLeCchl4_0000001 102.8 108.0 

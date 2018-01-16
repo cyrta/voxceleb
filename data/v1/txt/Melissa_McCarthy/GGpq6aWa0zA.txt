@@ -1,0 +1,10 @@
+POI: 			Melissa_McCarthy 
+Youtube ID: 	GGpq6aWa0zA 
+Video length: 	290.0 sec 
+Set (V): 		dev 
+ 
+Melissa_McCarthy/GGpq6aWa0zA_0000001 156.3 161.7 
+Melissa_McCarthy/GGpq6aWa0zA_0000002 165.8 173.2 
+Melissa_McCarthy/GGpq6aWa0zA_0000003 181.8 186.4 
+Melissa_McCarthy/GGpq6aWa0zA_0000004 189.8 194.3 
+Melissa_McCarthy/GGpq6aWa0zA_0000005 267.3 272.3 

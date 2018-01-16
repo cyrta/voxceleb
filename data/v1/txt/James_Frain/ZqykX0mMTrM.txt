@@ -1,0 +1,14 @@
+POI: 			James_Frain 
+Youtube ID: 	ZqykX0mMTrM 
+Video length: 	179.1 sec 
+Set (V): 		dev 
+ 
+James_Frain/ZqykX0mMTrM_0000001 09.6 15.5 
+James_Frain/ZqykX0mMTrM_0000002 15.9 22.0 
+James_Frain/ZqykX0mMTrM_0000003 41.6 47.2 
+James_Frain/ZqykX0mMTrM_0000004 49.3 56.7 
+James_Frain/ZqykX0mMTrM_0000005 81.2 91.5 
+James_Frain/ZqykX0mMTrM_0000006 92.1 99.3 
+James_Frain/ZqykX0mMTrM_0000007 106.3 113.5 
+James_Frain/ZqykX0mMTrM_0000008 115.5 122.9 
+James_Frain/ZqykX0mMTrM_0000009 136.3 143.1 

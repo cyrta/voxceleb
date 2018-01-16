@@ -1,0 +1,7 @@
+POI: 			Marion_Cotillard 
+Youtube ID: 	FQS0y95yAL0 
+Video length: 	146.9 sec 
+Set (V): 		dev 
+ 
+Marion_Cotillard/FQS0y95yAL0_0000001 45.6 50.3 
+Marion_Cotillard/FQS0y95yAL0_0000002 62.0 67.2 

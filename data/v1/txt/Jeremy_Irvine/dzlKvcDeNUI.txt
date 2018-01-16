@@ -1,0 +1,11 @@
+POI: 			Jeremy_Irvine 
+Youtube ID: 	dzlKvcDeNUI 
+Video length: 	141.3 sec 
+Set (V): 		dev 
+ 
+Jeremy_Irvine/dzlKvcDeNUI_0000001 15.1 22.0 
+Jeremy_Irvine/dzlKvcDeNUI_0000002 30.8 46.8 
+Jeremy_Irvine/dzlKvcDeNUI_0000003 59.4 71.0 
+Jeremy_Irvine/dzlKvcDeNUI_0000004 74.2 81.9 
+Jeremy_Irvine/dzlKvcDeNUI_0000005 90.4 100.5 
+Jeremy_Irvine/dzlKvcDeNUI_0000006 105.8 125.7 

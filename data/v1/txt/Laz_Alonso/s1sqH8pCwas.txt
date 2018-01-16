@@ -1,0 +1,18 @@
+POI: 			Laz_Alonso 
+Youtube ID: 	s1sqH8pCwas 
+Video length: 	264.1 sec 
+Set (V): 		dev 
+ 
+Laz_Alonso/s1sqH8pCwas_0000001 88.5 96.1 
+Laz_Alonso/s1sqH8pCwas_0000002 102.6 108.2 
+Laz_Alonso/s1sqH8pCwas_0000003 109.1 121.8 
+Laz_Alonso/s1sqH8pCwas_0000004 130.3 135.4 
+Laz_Alonso/s1sqH8pCwas_0000005 139.7 161.5 
+Laz_Alonso/s1sqH8pCwas_0000006 166.6 171.0 
+Laz_Alonso/s1sqH8pCwas_0000007 171.6 180.8 
+Laz_Alonso/s1sqH8pCwas_0000008 203.6 211.0 
+Laz_Alonso/s1sqH8pCwas_0000009 217.6 227.2 
+Laz_Alonso/s1sqH8pCwas_0000010 227.4 232.6 
+Laz_Alonso/s1sqH8pCwas_0000011 237.2 242.9 
+Laz_Alonso/s1sqH8pCwas_0000012 243.9 248.4 
+Laz_Alonso/s1sqH8pCwas_0000013 255.7 262.6 

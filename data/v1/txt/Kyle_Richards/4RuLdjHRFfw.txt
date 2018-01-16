@@ -1,0 +1,11 @@
+POI: 			Kyle_Richards 
+Youtube ID: 	4RuLdjHRFfw 
+Video length: 	176.6 sec 
+Set (V): 		dev 
+ 
+Kyle_Richards/4RuLdjHRFfw_0000001 24.3 28.8 
+Kyle_Richards/4RuLdjHRFfw_0000002 42.6 49.4 
+Kyle_Richards/4RuLdjHRFfw_0000003 68.1 77.2 
+Kyle_Richards/4RuLdjHRFfw_0000004 78.0 82.8 
+Kyle_Richards/4RuLdjHRFfw_0000005 107.3 118.6 
+Kyle_Richards/4RuLdjHRFfw_0000006 129.4 139.1 

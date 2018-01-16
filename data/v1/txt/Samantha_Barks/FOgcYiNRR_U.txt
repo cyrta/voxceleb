@@ -1,0 +1,11 @@
+POI: 			Samantha_Barks 
+Youtube ID: 	FOgcYiNRR_U 
+Video length: 	74.4 sec 
+Set (V): 		dev 
+ 
+Samantha_Barks/FOgcYiNRR_U_0000001 10.3 15.0 
+Samantha_Barks/FOgcYiNRR_U_0000002 17.1 23.9 
+Samantha_Barks/FOgcYiNRR_U_0000003 33.0 37.2 
+Samantha_Barks/FOgcYiNRR_U_0000004 37.9 43.9 
+Samantha_Barks/FOgcYiNRR_U_0000005 29.8 35.6 
+Samantha_Barks/FOgcYiNRR_U_0000006 49.0 55.4 

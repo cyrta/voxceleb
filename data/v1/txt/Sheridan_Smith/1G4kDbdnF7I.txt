@@ -1,0 +1,11 @@
+POI: 			Sheridan_Smith 
+Youtube ID: 	1G4kDbdnF7I 
+Video length: 	199.8 sec 
+Set (V): 		dev 
+ 
+Sheridan_Smith/1G4kDbdnF7I_0000001 12.6 27.3 
+Sheridan_Smith/1G4kDbdnF7I_0000002 39.2 59.0 
+Sheridan_Smith/1G4kDbdnF7I_0000003 67.2 74.2 
+Sheridan_Smith/1G4kDbdnF7I_0000004 74.6 81.8 
+Sheridan_Smith/1G4kDbdnF7I_0000005 96.0 106.1 
+Sheridan_Smith/1G4kDbdnF7I_0000006 111.5 115.7 

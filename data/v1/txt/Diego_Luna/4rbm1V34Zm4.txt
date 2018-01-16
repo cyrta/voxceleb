@@ -1,0 +1,10 @@
+POI: 			Diego_Luna 
+Youtube ID: 	4rbm1V34Zm4 
+Video length: 	339.5 sec 
+Set (V): 		dev 
+ 
+Diego_Luna/4rbm1V34Zm4_0000001 64.7 70.8 
+Diego_Luna/4rbm1V34Zm4_0000002 72.4 78.4 
+Diego_Luna/4rbm1V34Zm4_0000003 238.4 243.1 
+Diego_Luna/4rbm1V34Zm4_0000004 259.2 266.9 
+Diego_Luna/4rbm1V34Zm4_0000005 291.2 295.6 

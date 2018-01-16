@@ -1,0 +1,10 @@
+POI: 			Kevin_Bacon 
+Youtube ID: 	GpZM5SUu4Js 
+Video length: 	138.1 sec 
+Set (V): 		dev 
+ 
+Kevin_Bacon/GpZM5SUu4Js_0000001 33.0 37.4 
+Kevin_Bacon/GpZM5SUu4Js_0000002 71.1 79.0 
+Kevin_Bacon/GpZM5SUu4Js_0000003 81.1 85.6 
+Kevin_Bacon/GpZM5SUu4Js_0000004 85.8 93.3 
+Kevin_Bacon/GpZM5SUu4Js_0000005 122.9 127.2 

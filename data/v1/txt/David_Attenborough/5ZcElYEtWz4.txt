@@ -1,0 +1,47 @@
+POI: 			David_Attenborough 
+Youtube ID: 	5ZcElYEtWz4 
+Video length: 	974.2 sec 
+Set (V): 		dev 
+ 
+David_Attenborough/5ZcElYEtWz4_0000001 64.2 70.8 
+David_Attenborough/5ZcElYEtWz4_0000002 82.3 117.5 
+David_Attenborough/5ZcElYEtWz4_0000003 119.9 125.6 
+David_Attenborough/5ZcElYEtWz4_0000004 132.7 138.6 
+David_Attenborough/5ZcElYEtWz4_0000005 143.7 148.8 
+David_Attenborough/5ZcElYEtWz4_0000006 149.5 161.5 
+David_Attenborough/5ZcElYEtWz4_0000007 168.2 173.8 
+David_Attenborough/5ZcElYEtWz4_0000008 178.9 183.2 
+David_Attenborough/5ZcElYEtWz4_0000009 171.3 177.4 
+David_Attenborough/5ZcElYEtWz4_0000010 186.8 194.3 
+David_Attenborough/5ZcElYEtWz4_0000011 196.1 202.1 
+David_Attenborough/5ZcElYEtWz4_0000012 206.6 211.0 
+David_Attenborough/5ZcElYEtWz4_0000013 233.7 238.4 
+David_Attenborough/5ZcElYEtWz4_0000014 243.1 248.6 
+David_Attenborough/5ZcElYEtWz4_0000015 253.6 258.8 
+David_Attenborough/5ZcElYEtWz4_0000016 263.4 269.2 
+David_Attenborough/5ZcElYEtWz4_0000017 271.8 283.3 
+David_Attenborough/5ZcElYEtWz4_0000018 283.4 290.8 
+David_Attenborough/5ZcElYEtWz4_0000019 292.9 301.8 
+David_Attenborough/5ZcElYEtWz4_0000020 316.0 323.6 
+David_Attenborough/5ZcElYEtWz4_0000021 327.2 339.4 
+David_Attenborough/5ZcElYEtWz4_0000022 440.8 449.9 
+David_Attenborough/5ZcElYEtWz4_0000023 453.1 466.0 
+David_Attenborough/5ZcElYEtWz4_0000024 466.2 476.6 
+David_Attenborough/5ZcElYEtWz4_0000025 477.6 483.4 
+David_Attenborough/5ZcElYEtWz4_0000026 483.6 492.9 
+David_Attenborough/5ZcElYEtWz4_0000027 541.8 552.3 
+David_Attenborough/5ZcElYEtWz4_0000028 562.5 574.9 
+David_Attenborough/5ZcElYEtWz4_0000029 586.1 596.8 
+David_Attenborough/5ZcElYEtWz4_0000030 600.5 608.0 
+David_Attenborough/5ZcElYEtWz4_0000031 619.2 625.6 
+David_Attenborough/5ZcElYEtWz4_0000032 674.4 682.0 
+David_Attenborough/5ZcElYEtWz4_0000033 699.3 706.1 
+David_Attenborough/5ZcElYEtWz4_0000034 746.7 751.0 
+David_Attenborough/5ZcElYEtWz4_0000035 768.6 772.8 
+David_Attenborough/5ZcElYEtWz4_0000036 795.4 799.6 
+David_Attenborough/5ZcElYEtWz4_0000037 823.6 830.8 
+David_Attenborough/5ZcElYEtWz4_0000038 861.1 868.6 
+David_Attenborough/5ZcElYEtWz4_0000039 875.8 881.0 
+David_Attenborough/5ZcElYEtWz4_0000040 902.0 906.4 
+David_Attenborough/5ZcElYEtWz4_0000041 934.7 942.7 
+David_Attenborough/5ZcElYEtWz4_0000042 949.8 956.0 

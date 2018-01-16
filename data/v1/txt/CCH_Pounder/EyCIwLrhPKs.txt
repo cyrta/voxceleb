@@ -1,0 +1,12 @@
+POI: 			CCH_Pounder 
+Youtube ID: 	EyCIwLrhPKs 
+Video length: 	523.0 sec 
+Set (V): 		dev 
+ 
+CCH_Pounder/EyCIwLrhPKs_0000001 169.3 173.7 
+CCH_Pounder/EyCIwLrhPKs_0000002 244.6 253.3 
+CCH_Pounder/EyCIwLrhPKs_0000003 287.6 292.3 
+CCH_Pounder/EyCIwLrhPKs_0000004 346.5 351.5 
+CCH_Pounder/EyCIwLrhPKs_0000005 402.7 411.0 
+CCH_Pounder/EyCIwLrhPKs_0000006 411.7 416.7 
+CCH_Pounder/EyCIwLrhPKs_0000007 410.6 427.6 

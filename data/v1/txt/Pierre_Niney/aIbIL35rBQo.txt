@@ -1,0 +1,11 @@
+POI: 			Pierre_Niney 
+Youtube ID: 	aIbIL35rBQo 
+Video length: 	113.3 sec 
+Set (V): 		dev 
+ 
+Pierre_Niney/aIbIL35rBQo_0000001 44.1 48.3 
+Pierre_Niney/aIbIL35rBQo_0000002 50.5 55.7 
+Pierre_Niney/aIbIL35rBQo_0000003 67.8 74.4 
+Pierre_Niney/aIbIL35rBQo_0000004 74.7 80.7 
+Pierre_Niney/aIbIL35rBQo_0000005 83.1 93.3 
+Pierre_Niney/aIbIL35rBQo_0000006 100.3 105.9 

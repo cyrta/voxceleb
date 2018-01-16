@@ -1,0 +1,10 @@
+POI: 			Harvey_Keitel 
+Youtube ID: 	zdO0MNoYSkY 
+Video length: 	267.3 sec 
+Set (V): 		dev 
+ 
+Harvey_Keitel/zdO0MNoYSkY_0000001 174.7 183.4 
+Harvey_Keitel/zdO0MNoYSkY_0000002 190.0 195.8 
+Harvey_Keitel/zdO0MNoYSkY_0000003 229.1 238.6 
+Harvey_Keitel/zdO0MNoYSkY_0000004 239.4 248.6 
+Harvey_Keitel/zdO0MNoYSkY_0000005 248.8 253.3 

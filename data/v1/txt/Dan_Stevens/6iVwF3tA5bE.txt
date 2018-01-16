@@ -1,0 +1,7 @@
+POI: 			Dan_Stevens 
+Youtube ID: 	6iVwF3tA5bE 
+Video length: 	221.5 sec 
+Set (V): 		dev 
+ 
+Dan_Stevens/6iVwF3tA5bE_0000001 61.8 66.4 
+Dan_Stevens/6iVwF3tA5bE_0000002 184.0 191.7 

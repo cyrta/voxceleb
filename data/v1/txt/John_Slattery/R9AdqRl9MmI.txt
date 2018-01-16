@@ -1,0 +1,9 @@
+POI: 			John_Slattery 
+Youtube ID: 	R9AdqRl9MmI 
+Video length: 	306.2 sec 
+Set (V): 		dev 
+ 
+John_Slattery/R9AdqRl9MmI_0000001 105.1 109.5 
+John_Slattery/R9AdqRl9MmI_0000002 146.8 151.4 
+John_Slattery/R9AdqRl9MmI_0000003 168.5 172.6 
+John_Slattery/R9AdqRl9MmI_0000004 189.6 206.0 

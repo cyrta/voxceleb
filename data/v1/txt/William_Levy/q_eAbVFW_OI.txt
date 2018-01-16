@@ -1,0 +1,10 @@
+POI: 			William_Levy 
+Youtube ID: 	q_eAbVFW_OI 
+Video length: 	122.6 sec 
+Set (V): 		dev 
+ 
+William_Levy/q_eAbVFW_OI_0000001 03.4 12.8 
+William_Levy/q_eAbVFW_OI_0000002 12.9 20.6 
+William_Levy/q_eAbVFW_OI_0000003 21.5 30.2 
+William_Levy/q_eAbVFW_OI_0000004 37.8 56.1 
+William_Levy/q_eAbVFW_OI_0000005 93.7 111.9 

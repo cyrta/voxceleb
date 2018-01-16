@@ -1,0 +1,9 @@
+POI: 			Oona_Chaplin 
+Youtube ID: 	OEaTm8XOUUc 
+Video length: 	188.3 sec 
+Set (V): 		dev 
+ 
+Oona_Chaplin/OEaTm8XOUUc_0000001 26.8 30.8 
+Oona_Chaplin/OEaTm8XOUUc_0000002 145.0 153.3 
+Oona_Chaplin/OEaTm8XOUUc_0000003 156.3 162.2 
+Oona_Chaplin/OEaTm8XOUUc_0000004 166.6 175.6 

@@ -1,0 +1,13 @@
+POI: 			Michelle_Williams 
+Youtube ID: 	IhgWTYoULtA 
+Video length: 	431.9 sec 
+Set (V): 		dev 
+ 
+Michelle_Williams/IhgWTYoULtA_0000001 116.7 120.9 
+Michelle_Williams/IhgWTYoULtA_0000002 150.6 154.7 
+Michelle_Williams/IhgWTYoULtA_0000003 175.7 180.6 
+Michelle_Williams/IhgWTYoULtA_0000004 302.0 309.5 
+Michelle_Williams/IhgWTYoULtA_0000005 331.9 337.5 
+Michelle_Williams/IhgWTYoULtA_0000006 337.8 341.8 
+Michelle_Williams/IhgWTYoULtA_0000007 351.3 356.3 
+Michelle_Williams/IhgWTYoULtA_0000008 363.7 372.5 

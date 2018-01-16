@@ -1,0 +1,19 @@
+POI: 			Patton_Oswalt 
+Youtube ID: 	iuLKSvoK8KA 
+Video length: 	338.0 sec 
+Set (V): 		dev 
+ 
+Patton_Oswalt/iuLKSvoK8KA_0000001 17.3 36.6 
+Patton_Oswalt/iuLKSvoK8KA_0000002 54.0 58.4 
+Patton_Oswalt/iuLKSvoK8KA_0000003 62.4 74.1 
+Patton_Oswalt/iuLKSvoK8KA_0000004 71.4 77.8 
+Patton_Oswalt/iuLKSvoK8KA_0000005 81.8 102.4 
+Patton_Oswalt/iuLKSvoK8KA_0000006 103.2 114.7 
+Patton_Oswalt/iuLKSvoK8KA_0000007 116.2 127.4 
+Patton_Oswalt/iuLKSvoK8KA_0000008 106.0 114.7 
+Patton_Oswalt/iuLKSvoK8KA_0000009 115.2 121.1 
+Patton_Oswalt/iuLKSvoK8KA_0000010 129.2 139.0 
+Patton_Oswalt/iuLKSvoK8KA_0000011 174.0 187.3 
+Patton_Oswalt/iuLKSvoK8KA_0000012 201.6 209.6 
+Patton_Oswalt/iuLKSvoK8KA_0000013 217.2 228.6 
+Patton_Oswalt/iuLKSvoK8KA_0000014 251.1 259.4 

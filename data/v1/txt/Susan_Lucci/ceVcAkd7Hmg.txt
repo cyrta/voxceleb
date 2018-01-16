@@ -1,0 +1,11 @@
+POI: 			Susan_Lucci 
+Youtube ID: 	ceVcAkd7Hmg 
+Video length: 	708.0 sec 
+Set (V): 		dev 
+ 
+Susan_Lucci/ceVcAkd7Hmg_0000001 64.3 72.2 
+Susan_Lucci/ceVcAkd7Hmg_0000002 127.0 131.5 
+Susan_Lucci/ceVcAkd7Hmg_0000003 153.7 176.1 
+Susan_Lucci/ceVcAkd7Hmg_0000004 210.6 223.5 
+Susan_Lucci/ceVcAkd7Hmg_0000005 280.8 285.1 
+Susan_Lucci/ceVcAkd7Hmg_0000006 288.9 296.8 

@@ -1,0 +1,8 @@
+POI: 			Nelly 
+Youtube ID: 	gOFe8rgcGro 
+Video length: 	310.5 sec 
+Set (V): 		dev 
+ 
+Nelly/gOFe8rgcGro_0000001 191.5 196.9 
+Nelly/gOFe8rgcGro_0000002 197.5 202.0 
+Nelly/gOFe8rgcGro_0000003 269.2 274.8 

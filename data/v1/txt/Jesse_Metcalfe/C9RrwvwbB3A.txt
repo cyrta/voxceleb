@@ -1,0 +1,11 @@
+POI: 			Jesse_Metcalfe 
+Youtube ID: 	C9RrwvwbB3A 
+Video length: 	295.1 sec 
+Set (V): 		dev 
+ 
+Jesse_Metcalfe/C9RrwvwbB3A_0000001 39.4 43.8 
+Jesse_Metcalfe/C9RrwvwbB3A_0000002 44.6 50.8 
+Jesse_Metcalfe/C9RrwvwbB3A_0000003 97.9 106.2 
+Jesse_Metcalfe/C9RrwvwbB3A_0000004 150.0 162.7 
+Jesse_Metcalfe/C9RrwvwbB3A_0000005 218.7 223.4 
+Jesse_Metcalfe/C9RrwvwbB3A_0000006 276.0 288.8 

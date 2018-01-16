@@ -1,0 +1,16 @@
+POI: 			Jacqueline_Fernandez 
+Youtube ID: 	W4U-6RqqSv8 
+Video length: 	359.3 sec 
+Set (V): 		dev 
+ 
+Jacqueline_Fernandez/W4U-6RqqSv8_0000001 75.0 79.4 
+Jacqueline_Fernandez/W4U-6RqqSv8_0000002 96.0 102.6 
+Jacqueline_Fernandez/W4U-6RqqSv8_0000003 125.9 143.9 
+Jacqueline_Fernandez/W4U-6RqqSv8_0000004 144.6 153.0 
+Jacqueline_Fernandez/W4U-6RqqSv8_0000005 153.4 161.1 
+Jacqueline_Fernandez/W4U-6RqqSv8_0000006 162.0 175.1 
+Jacqueline_Fernandez/W4U-6RqqSv8_0000007 204.0 208.6 
+Jacqueline_Fernandez/W4U-6RqqSv8_0000008 215.7 226.1 
+Jacqueline_Fernandez/W4U-6RqqSv8_0000009 252.5 259.2 
+Jacqueline_Fernandez/W4U-6RqqSv8_0000010 265.6 269.8 
+Jacqueline_Fernandez/W4U-6RqqSv8_0000011 271.3 280.1 

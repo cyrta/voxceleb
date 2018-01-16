@@ -1,0 +1,13 @@
+POI: 			Elaine_Cassidy 
+Youtube ID: 	d7S0qeo6EP0 
+Video length: 	281.0 sec 
+Set (V): 		test 
+ 
+Elaine_Cassidy/d7S0qeo6EP0_0000001 45.9 54.6 
+Elaine_Cassidy/d7S0qeo6EP0_0000002 55.4 60.5 
+Elaine_Cassidy/d7S0qeo6EP0_0000003 94.2 105.9 
+Elaine_Cassidy/d7S0qeo6EP0_0000004 144.4 152.7 
+Elaine_Cassidy/d7S0qeo6EP0_0000005 169.7 180.8 
+Elaine_Cassidy/d7S0qeo6EP0_0000006 201.2 208.4 
+Elaine_Cassidy/d7S0qeo6EP0_0000007 208.5 219.2 
+Elaine_Cassidy/d7S0qeo6EP0_0000008 230.6 241.2 

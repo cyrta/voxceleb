@@ -1,0 +1,21 @@
+POI: 			Susanne_Bier 
+Youtube ID: 	OG_Pzr-UXdM 
+Video length: 	323.2 sec 
+Set (V): 		dev 
+ 
+Susanne_Bier/OG_Pzr-UXdM_0000001 13.0 21.5 
+Susanne_Bier/OG_Pzr-UXdM_0000002 25.8 35.4 
+Susanne_Bier/OG_Pzr-UXdM_0000003 53.3 72.8 
+Susanne_Bier/OG_Pzr-UXdM_0000004 73.8 80.4 
+Susanne_Bier/OG_Pzr-UXdM_0000005 93.2 104.7 
+Susanne_Bier/OG_Pzr-UXdM_0000006 105.6 126.2 
+Susanne_Bier/OG_Pzr-UXdM_0000007 138.4 155.7 
+Susanne_Bier/OG_Pzr-UXdM_0000008 156.1 160.3 
+Susanne_Bier/OG_Pzr-UXdM_0000009 160.8 173.0 
+Susanne_Bier/OG_Pzr-UXdM_0000010 185.8 203.1 
+Susanne_Bier/OG_Pzr-UXdM_0000011 212.8 221.8 
+Susanne_Bier/OG_Pzr-UXdM_0000012 238.3 249.9 
+Susanne_Bier/OG_Pzr-UXdM_0000013 251.3 262.2 
+Susanne_Bier/OG_Pzr-UXdM_0000014 272.6 276.8 
+Susanne_Bier/OG_Pzr-UXdM_0000015 281.5 294.6 
+Susanne_Bier/OG_Pzr-UXdM_0000016 307.4 315.4 

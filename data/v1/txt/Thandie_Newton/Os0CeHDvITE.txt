@@ -1,0 +1,16 @@
+POI: 			Thandie_Newton 
+Youtube ID: 	Os0CeHDvITE 
+Video length: 	247.4 sec 
+Set (V): 		dev 
+ 
+Thandie_Newton/Os0CeHDvITE_0000001 106.2 111.7 
+Thandie_Newton/Os0CeHDvITE_0000002 126.2 135.1 
+Thandie_Newton/Os0CeHDvITE_0000003 140.3 158.4 
+Thandie_Newton/Os0CeHDvITE_0000004 164.6 169.9 
+Thandie_Newton/Os0CeHDvITE_0000005 178.1 183.4 
+Thandie_Newton/Os0CeHDvITE_0000006 174.5 188.4 
+Thandie_Newton/Os0CeHDvITE_0000007 189.0 195.2 
+Thandie_Newton/Os0CeHDvITE_0000008 196.0 202.6 
+Thandie_Newton/Os0CeHDvITE_0000009 206.1 210.8 
+Thandie_Newton/Os0CeHDvITE_0000010 219.0 223.8 
+Thandie_Newton/Os0CeHDvITE_0000011 226.3 234.5 

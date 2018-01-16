@@ -1,0 +1,8 @@
+POI: 			Tamala_Jones 
+Youtube ID: 	1m7bHxEojs8 
+Video length: 	295.7 sec 
+Set (V): 		dev 
+ 
+Tamala_Jones/1m7bHxEojs8_0000001 26.1 38.8 
+Tamala_Jones/1m7bHxEojs8_0000002 45.4 51.6 
+Tamala_Jones/1m7bHxEojs8_0000003 130.2 135.8 

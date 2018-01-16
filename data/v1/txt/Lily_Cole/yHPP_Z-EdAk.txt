@@ -1,0 +1,12 @@
+POI: 			Lily_Cole 
+Youtube ID: 	yHPP_Z-EdAk 
+Video length: 	102.1 sec 
+Set (V): 		dev 
+ 
+Lily_Cole/yHPP_Z-EdAk_0000001 00.7 04.8 
+Lily_Cole/yHPP_Z-EdAk_0000002 06.5 12.2 
+Lily_Cole/yHPP_Z-EdAk_0000003 16.6 20.8 
+Lily_Cole/yHPP_Z-EdAk_0000004 21.1 27.2 
+Lily_Cole/yHPP_Z-EdAk_0000005 45.6 53.3 
+Lily_Cole/yHPP_Z-EdAk_0000006 53.9 60.3 
+Lily_Cole/yHPP_Z-EdAk_0000007 61.0 78.0 

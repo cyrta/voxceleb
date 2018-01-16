@@ -1,0 +1,26 @@
+POI: 			Taylor_Swift 
+Youtube ID: 	5xvlDW_jd8U 
+Video length: 	586.2 sec 
+Set (V): 		dev 
+ 
+Taylor_Swift/5xvlDW_jd8U_0000001 22.0 26.3 
+Taylor_Swift/5xvlDW_jd8U_0000002 40.1 44.2 
+Taylor_Swift/5xvlDW_jd8U_0000003 51.6 58.1 
+Taylor_Swift/5xvlDW_jd8U_0000004 116.6 121.2 
+Taylor_Swift/5xvlDW_jd8U_0000005 147.5 152.0 
+Taylor_Swift/5xvlDW_jd8U_0000006 201.6 205.6 
+Taylor_Swift/5xvlDW_jd8U_0000007 211.7 216.3 
+Taylor_Swift/5xvlDW_jd8U_0000008 240.7 247.8 
+Taylor_Swift/5xvlDW_jd8U_0000009 251.2 263.6 
+Taylor_Swift/5xvlDW_jd8U_0000010 274.0 282.3 
+Taylor_Swift/5xvlDW_jd8U_0000011 290.8 296.8 
+Taylor_Swift/5xvlDW_jd8U_0000012 332.7 338.4 
+Taylor_Swift/5xvlDW_jd8U_0000013 342.3 346.5 
+Taylor_Swift/5xvlDW_jd8U_0000014 360.7 376.8 
+Taylor_Swift/5xvlDW_jd8U_0000015 382.6 388.9 
+Taylor_Swift/5xvlDW_jd8U_0000016 395.2 402.4 
+Taylor_Swift/5xvlDW_jd8U_0000017 438.8 443.9 
+Taylor_Swift/5xvlDW_jd8U_0000018 446.0 451.6 
+Taylor_Swift/5xvlDW_jd8U_0000019 458.6 464.4 
+Taylor_Swift/5xvlDW_jd8U_0000020 472.4 477.8 
+Taylor_Swift/5xvlDW_jd8U_0000021 478.1 484.1 

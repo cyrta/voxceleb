@@ -1,0 +1,8 @@
+POI: 			Dawn_French 
+Youtube ID: 	JTry4tfPXDI 
+Video length: 	213.2 sec 
+Set (V): 		dev 
+ 
+Dawn_French/JTry4tfPXDI_0000001 43.8 48.2 
+Dawn_French/JTry4tfPXDI_0000002 53.6 59.6 
+Dawn_French/JTry4tfPXDI_0000003 196.2 204.4 

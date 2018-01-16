@@ -1,0 +1,8 @@
+POI: 			Miranda_Cosgrove 
+Youtube ID: 	fdn5zspbqLQ 
+Video length: 	296.1 sec 
+Set (V): 		dev 
+ 
+Miranda_Cosgrove/fdn5zspbqLQ_0000001 58.6 72.6 
+Miranda_Cosgrove/fdn5zspbqLQ_0000002 98.4 104.4 
+Miranda_Cosgrove/fdn5zspbqLQ_0000003 243.6 249.3 

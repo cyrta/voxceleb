@@ -1,0 +1,7 @@
+POI: 			Ty_Pennington 
+Youtube ID: 	hXdsh881AVU 
+Video length: 	59.4 sec 
+Set (V): 		dev 
+ 
+Ty_Pennington/hXdsh881AVU_0000001 15.7 32.0 
+Ty_Pennington/hXdsh881AVU_0000002 34.7 47.2 

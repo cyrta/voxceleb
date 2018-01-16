@@ -1,0 +1,9 @@
+POI: 			Ralf_Little 
+Youtube ID: 	L8BK1aWRk4w 
+Video length: 	79.6 sec 
+Set (V): 		dev 
+ 
+Ralf_Little/L8BK1aWRk4w_0000001 11.1 38.7 
+Ralf_Little/L8BK1aWRk4w_0000002 45.8 52.8 
+Ralf_Little/L8BK1aWRk4w_0000003 55.3 61.0 
+Ralf_Little/L8BK1aWRk4w_0000004 64.2 70.3 

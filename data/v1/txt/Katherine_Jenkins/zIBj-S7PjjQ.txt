@@ -1,0 +1,15 @@
+POI: 			Katherine_Jenkins 
+Youtube ID: 	zIBj-S7PjjQ 
+Video length: 	273.8 sec 
+Set (V): 		dev 
+ 
+Katherine_Jenkins/zIBj-S7PjjQ_0000001 21.2 37.2 
+Katherine_Jenkins/zIBj-S7PjjQ_0000002 37.9 58.1 
+Katherine_Jenkins/zIBj-S7PjjQ_0000003 68.3 72.3 
+Katherine_Jenkins/zIBj-S7PjjQ_0000004 84.8 102.8 
+Katherine_Jenkins/zIBj-S7PjjQ_0000005 109.4 123.2 
+Katherine_Jenkins/zIBj-S7PjjQ_0000006 149.9 158.0 
+Katherine_Jenkins/zIBj-S7PjjQ_0000007 158.9 179.9 
+Katherine_Jenkins/zIBj-S7PjjQ_0000008 186.0 190.8 
+Katherine_Jenkins/zIBj-S7PjjQ_0000009 194.6 215.5 
+Katherine_Jenkins/zIBj-S7PjjQ_0000010 236.2 253.2 

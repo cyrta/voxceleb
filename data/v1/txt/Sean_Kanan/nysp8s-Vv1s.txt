@@ -1,0 +1,9 @@
+POI: 			Sean_Kanan 
+Youtube ID: 	nysp8s-Vv1s 
+Video length: 	869.1 sec 
+Set (V): 		dev 
+ 
+Sean_Kanan/nysp8s-Vv1s_0000001 469.7 473.7 
+Sean_Kanan/nysp8s-Vv1s_0000002 485.2 498.2 
+Sean_Kanan/nysp8s-Vv1s_0000003 536.2 541.4 
+Sean_Kanan/nysp8s-Vv1s_0000004 547.6 553.1 

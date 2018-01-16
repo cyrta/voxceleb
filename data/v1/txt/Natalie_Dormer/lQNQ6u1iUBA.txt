@@ -1,0 +1,13 @@
+POI: 			Natalie_Dormer 
+Youtube ID: 	lQNQ6u1iUBA 
+Video length: 	151.1 sec 
+Set (V): 		dev 
+ 
+Natalie_Dormer/lQNQ6u1iUBA_0000001 06.9 12.0 
+Natalie_Dormer/lQNQ6u1iUBA_0000002 14.6 25.4 
+Natalie_Dormer/lQNQ6u1iUBA_0000003 28.1 37.8 
+Natalie_Dormer/lQNQ6u1iUBA_0000004 41.7 50.2 
+Natalie_Dormer/lQNQ6u1iUBA_0000005 52.8 64.4 
+Natalie_Dormer/lQNQ6u1iUBA_0000006 77.4 82.5 
+Natalie_Dormer/lQNQ6u1iUBA_0000007 98.1 103.2 
+Natalie_Dormer/lQNQ6u1iUBA_0000008 119.2 127.8 

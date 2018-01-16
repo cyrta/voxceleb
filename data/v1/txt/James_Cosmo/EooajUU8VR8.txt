@@ -1,0 +1,19 @@
+POI: 			James_Cosmo 
+Youtube ID: 	EooajUU8VR8 
+Video length: 	240.6 sec 
+Set (V): 		dev 
+ 
+James_Cosmo/EooajUU8VR8_0000001 08.6 16.2 
+James_Cosmo/EooajUU8VR8_0000002 16.4 29.1 
+James_Cosmo/EooajUU8VR8_0000003 41.1 58.1 
+James_Cosmo/EooajUU8VR8_0000004 66.7 78.6 
+James_Cosmo/EooajUU8VR8_0000005 86.7 92.0 
+James_Cosmo/EooajUU8VR8_0000006 95.7 100.8 
+James_Cosmo/EooajUU8VR8_0000007 107.0 114.9 
+James_Cosmo/EooajUU8VR8_0000008 121.3 125.8 
+James_Cosmo/EooajUU8VR8_0000009 142.8 147.8 
+James_Cosmo/EooajUU8VR8_0000010 149.4 156.6 
+James_Cosmo/EooajUU8VR8_0000011 161.6 168.3 
+James_Cosmo/EooajUU8VR8_0000012 171.5 175.6 
+James_Cosmo/EooajUU8VR8_0000013 200.9 206.9 
+James_Cosmo/EooajUU8VR8_0000014 210.8 215.1 

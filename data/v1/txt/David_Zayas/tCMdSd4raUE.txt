@@ -1,0 +1,15 @@
+POI: 			David_Zayas 
+Youtube ID: 	tCMdSd4raUE 
+Video length: 	202.4 sec 
+Set (V): 		dev 
+ 
+David_Zayas/tCMdSd4raUE_0000001 58.1 63.3 
+David_Zayas/tCMdSd4raUE_0000002 70.0 78.8 
+David_Zayas/tCMdSd4raUE_0000003 90.8 96.0 
+David_Zayas/tCMdSd4raUE_0000004 108.4 113.1 
+David_Zayas/tCMdSd4raUE_0000005 127.9 136.4 
+David_Zayas/tCMdSd4raUE_0000006 126.2 131.9 
+David_Zayas/tCMdSd4raUE_0000007 154.2 160.1 
+David_Zayas/tCMdSd4raUE_0000008 162.0 168.8 
+David_Zayas/tCMdSd4raUE_0000009 169.0 182.1 
+David_Zayas/tCMdSd4raUE_0000010 185.7 190.2 

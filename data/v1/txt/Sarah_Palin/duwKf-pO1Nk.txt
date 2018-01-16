@@ -1,0 +1,12 @@
+POI: 			Sarah_Palin 
+Youtube ID: 	duwKf-pO1Nk 
+Video length: 	418.4 sec 
+Set (V): 		dev 
+ 
+Sarah_Palin/duwKf-pO1Nk_0000001 90.0 112.9 
+Sarah_Palin/duwKf-pO1Nk_0000002 119.4 147.2 
+Sarah_Palin/duwKf-pO1Nk_0000003 165.6 206.0 
+Sarah_Palin/duwKf-pO1Nk_0000004 229.6 252.8 
+Sarah_Palin/duwKf-pO1Nk_0000005 279.5 346.4 
+Sarah_Palin/duwKf-pO1Nk_0000006 349.0 355.8 
+Sarah_Palin/duwKf-pO1Nk_0000007 369.1 402.1 

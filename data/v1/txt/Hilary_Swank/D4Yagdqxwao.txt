@@ -1,0 +1,17 @@
+POI: 			Hilary_Swank 
+Youtube ID: 	D4Yagdqxwao 
+Video length: 	508.9 sec 
+Set (V): 		dev 
+ 
+Hilary_Swank/D4Yagdqxwao_0000001 09.1 13.7 
+Hilary_Swank/D4Yagdqxwao_0000002 39.9 49.0 
+Hilary_Swank/D4Yagdqxwao_0000003 53.7 61.9 
+Hilary_Swank/D4Yagdqxwao_0000004 62.2 78.7 
+Hilary_Swank/D4Yagdqxwao_0000005 111.0 120.4 
+Hilary_Swank/D4Yagdqxwao_0000006 151.9 164.4 
+Hilary_Swank/D4Yagdqxwao_0000007 165.1 179.6 
+Hilary_Swank/D4Yagdqxwao_0000008 180.2 220.2 
+Hilary_Swank/D4Yagdqxwao_0000009 264.9 269.0 
+Hilary_Swank/D4Yagdqxwao_0000010 285.7 294.1 
+Hilary_Swank/D4Yagdqxwao_0000011 411.2 428.7 
+Hilary_Swank/D4Yagdqxwao_0000012 433.1 438.2 

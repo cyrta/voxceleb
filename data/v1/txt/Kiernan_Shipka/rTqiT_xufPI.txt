@@ -1,0 +1,13 @@
+POI: 			Kiernan_Shipka 
+Youtube ID: 	rTqiT_xufPI 
+Video length: 	400.3 sec 
+Set (V): 		dev 
+ 
+Kiernan_Shipka/rTqiT_xufPI_0000001 124.4 131.8 
+Kiernan_Shipka/rTqiT_xufPI_0000002 189.5 198.3 
+Kiernan_Shipka/rTqiT_xufPI_0000003 241.7 248.8 
+Kiernan_Shipka/rTqiT_xufPI_0000004 275.0 279.8 
+Kiernan_Shipka/rTqiT_xufPI_0000005 330.2 335.4 
+Kiernan_Shipka/rTqiT_xufPI_0000006 339.2 345.8 
+Kiernan_Shipka/rTqiT_xufPI_0000007 356.2 361.8 
+Kiernan_Shipka/rTqiT_xufPI_0000008 364.0 369.2 

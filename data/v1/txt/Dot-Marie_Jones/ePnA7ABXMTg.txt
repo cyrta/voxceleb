@@ -1,0 +1,15 @@
+POI: 			Dot-Marie_Jones 
+Youtube ID: 	ePnA7ABXMTg 
+Video length: 	164.3 sec 
+Set (V): 		dev 
+ 
+Dot-Marie_Jones/ePnA7ABXMTg_0000001 08.0 12.0 
+Dot-Marie_Jones/ePnA7ABXMTg_0000002 23.5 32.0 
+Dot-Marie_Jones/ePnA7ABXMTg_0000003 63.3 67.8 
+Dot-Marie_Jones/ePnA7ABXMTg_0000004 68.0 74.8 
+Dot-Marie_Jones/ePnA7ABXMTg_0000005 75.2 80.4 
+Dot-Marie_Jones/ePnA7ABXMTg_0000006 80.5 84.6 
+Dot-Marie_Jones/ePnA7ABXMTg_0000007 88.3 92.5 
+Dot-Marie_Jones/ePnA7ABXMTg_0000008 107.3 121.0 
+Dot-Marie_Jones/ePnA7ABXMTg_0000009 125.3 130.0 
+Dot-Marie_Jones/ePnA7ABXMTg_0000010 132.6 140.7 

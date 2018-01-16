@@ -1,0 +1,14 @@
+POI: 			Natalie_Martinez 
+Youtube ID: 	7aIlUasLA1s 
+Video length: 	246.0 sec 
+Set (V): 		dev 
+ 
+Natalie_Martinez/7aIlUasLA1s_0000001 41.0 51.1 
+Natalie_Martinez/7aIlUasLA1s_0000002 59.4 65.9 
+Natalie_Martinez/7aIlUasLA1s_0000003 68.6 75.0 
+Natalie_Martinez/7aIlUasLA1s_0000004 76.2 90.0 
+Natalie_Martinez/7aIlUasLA1s_0000005 92.3 99.0 
+Natalie_Martinez/7aIlUasLA1s_0000006 120.6 125.4 
+Natalie_Martinez/7aIlUasLA1s_0000007 125.6 137.4 
+Natalie_Martinez/7aIlUasLA1s_0000008 174.2 179.5 
+Natalie_Martinez/7aIlUasLA1s_0000009 210.9 236.3 

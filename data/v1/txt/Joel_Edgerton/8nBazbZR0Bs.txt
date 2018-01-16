@@ -1,0 +1,11 @@
+POI: 			Joel_Edgerton 
+Youtube ID: 	8nBazbZR0Bs 
+Video length: 	218.8 sec 
+Set (V): 		dev 
+ 
+Joel_Edgerton/8nBazbZR0Bs_0000001 19.5 24.0 
+Joel_Edgerton/8nBazbZR0Bs_0000002 35.5 48.2 
+Joel_Edgerton/8nBazbZR0Bs_0000003 76.4 84.6 
+Joel_Edgerton/8nBazbZR0Bs_0000004 127.3 132.3 
+Joel_Edgerton/8nBazbZR0Bs_0000005 135.4 155.0 
+Joel_Edgerton/8nBazbZR0Bs_0000006 157.3 164.8 

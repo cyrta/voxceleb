@@ -1,0 +1,8 @@
+POI: 			David_Koechner 
+Youtube ID: 	P0C0s_SHWmE 
+Video length: 	283.4 sec 
+Set (V): 		dev 
+ 
+David_Koechner/P0C0s_SHWmE_0000001 81.4 86.8 
+David_Koechner/P0C0s_SHWmE_0000002 86.9 94.8 
+David_Koechner/P0C0s_SHWmE_0000003 194.6 198.8 

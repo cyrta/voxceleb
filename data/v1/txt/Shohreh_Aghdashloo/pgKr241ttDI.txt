@@ -1,0 +1,10 @@
+POI: 			Shohreh_Aghdashloo 
+Youtube ID: 	pgKr241ttDI 
+Video length: 	285.5 sec 
+Set (V): 		dev 
+ 
+Shohreh_Aghdashloo/pgKr241ttDI_0000001 35.4 43.0 
+Shohreh_Aghdashloo/pgKr241ttDI_0000002 60.8 64.9 
+Shohreh_Aghdashloo/pgKr241ttDI_0000003 78.0 83.1 
+Shohreh_Aghdashloo/pgKr241ttDI_0000004 167.5 178.2 
+Shohreh_Aghdashloo/pgKr241ttDI_0000005 187.1 196.4 

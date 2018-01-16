@@ -1,0 +1,21 @@
+POI: 			Danny_McBride 
+Youtube ID: 	S8TMibzfjgo 
+Video length: 	724.1 sec 
+Set (V): 		dev 
+ 
+Danny_McBride/S8TMibzfjgo_0000001 72.9 79.8 
+Danny_McBride/S8TMibzfjgo_0000002 80.2 92.5 
+Danny_McBride/S8TMibzfjgo_0000003 122.8 150.2 
+Danny_McBride/S8TMibzfjgo_0000004 151.4 155.7 
+Danny_McBride/S8TMibzfjgo_0000005 165.0 169.4 
+Danny_McBride/S8TMibzfjgo_0000006 169.9 183.8 
+Danny_McBride/S8TMibzfjgo_0000007 214.9 224.2 
+Danny_McBride/S8TMibzfjgo_0000008 227.4 247.4 
+Danny_McBride/S8TMibzfjgo_0000009 251.9 257.2 
+Danny_McBride/S8TMibzfjgo_0000010 281.4 287.6 
+Danny_McBride/S8TMibzfjgo_0000011 289.5 297.5 
+Danny_McBride/S8TMibzfjgo_0000012 424.8 454.4 
+Danny_McBride/S8TMibzfjgo_0000013 650.8 664.8 
+Danny_McBride/S8TMibzfjgo_0000014 676.3 686.2 
+Danny_McBride/S8TMibzfjgo_0000015 686.3 694.5 
+Danny_McBride/S8TMibzfjgo_0000016 696.6 701.4 

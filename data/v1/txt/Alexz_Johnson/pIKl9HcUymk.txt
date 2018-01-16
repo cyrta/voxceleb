@@ -1,0 +1,34 @@
+POI: 			Alexz_Johnson 
+Youtube ID: 	pIKl9HcUymk 
+Video length: 	498.3 sec 
+Set (V): 		dev 
+ 
+Alexz_Johnson/pIKl9HcUymk_0000001 17.8 23.2 
+Alexz_Johnson/pIKl9HcUymk_0000002 40.4 46.7 
+Alexz_Johnson/pIKl9HcUymk_0000003 57.0 61.9 
+Alexz_Johnson/pIKl9HcUymk_0000004 66.2 70.3 
+Alexz_Johnson/pIKl9HcUymk_0000005 82.2 87.5 
+Alexz_Johnson/pIKl9HcUymk_0000006 99.5 109.6 
+Alexz_Johnson/pIKl9HcUymk_0000007 88.3 93.2 
+Alexz_Johnson/pIKl9HcUymk_0000008 96.1 100.6 
+Alexz_Johnson/pIKl9HcUymk_0000009 112.1 121.2 
+Alexz_Johnson/pIKl9HcUymk_0000010 165.1 184.3 
+Alexz_Johnson/pIKl9HcUymk_0000011 191.2 198.5 
+Alexz_Johnson/pIKl9HcUymk_0000012 200.9 209.6 
+Alexz_Johnson/pIKl9HcUymk_0000013 211.4 217.2 
+Alexz_Johnson/pIKl9HcUymk_0000014 219.2 229.3 
+Alexz_Johnson/pIKl9HcUymk_0000015 249.4 255.6 
+Alexz_Johnson/pIKl9HcUymk_0000016 261.2 271.8 
+Alexz_Johnson/pIKl9HcUymk_0000017 277.2 282.5 
+Alexz_Johnson/pIKl9HcUymk_0000018 283.5 292.1 
+Alexz_Johnson/pIKl9HcUymk_0000019 321.7 327.9 
+Alexz_Johnson/pIKl9HcUymk_0000020 378.1 382.8 
+Alexz_Johnson/pIKl9HcUymk_0000021 406.6 413.8 
+Alexz_Johnson/pIKl9HcUymk_0000022 414.7 422.4 
+Alexz_Johnson/pIKl9HcUymk_0000023 427.1 438.9 
+Alexz_Johnson/pIKl9HcUymk_0000024 441.0 448.6 
+Alexz_Johnson/pIKl9HcUymk_0000025 454.7 459.4 
+Alexz_Johnson/pIKl9HcUymk_0000026 449.0 469.6 
+Alexz_Johnson/pIKl9HcUymk_0000027 472.2 477.4 
+Alexz_Johnson/pIKl9HcUymk_0000028 478.3 484.9 
+Alexz_Johnson/pIKl9HcUymk_0000029 485.9 491.9 

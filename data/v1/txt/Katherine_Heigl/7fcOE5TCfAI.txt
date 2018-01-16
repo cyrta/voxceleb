@@ -1,0 +1,7 @@
+POI: 			Katherine_Heigl 
+Youtube ID: 	7fcOE5TCfAI 
+Video length: 	426.1 sec 
+Set (V): 		dev 
+ 
+Katherine_Heigl/7fcOE5TCfAI_0000001 176.7 182.5 
+Katherine_Heigl/7fcOE5TCfAI_0000002 237.8 241.8 

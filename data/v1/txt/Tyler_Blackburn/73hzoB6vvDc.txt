@@ -1,0 +1,10 @@
+POI: 			Tyler_Blackburn 
+Youtube ID: 	73hzoB6vvDc 
+Video length: 	131.1 sec 
+Set (V): 		dev 
+ 
+Tyler_Blackburn/73hzoB6vvDc_0000001 07.6 12.6 
+Tyler_Blackburn/73hzoB6vvDc_0000002 51.7 56.3 
+Tyler_Blackburn/73hzoB6vvDc_0000003 62.8 68.0 
+Tyler_Blackburn/73hzoB6vvDc_0000004 77.1 83.4 
+Tyler_Blackburn/73hzoB6vvDc_0000005 89.4 97.4 

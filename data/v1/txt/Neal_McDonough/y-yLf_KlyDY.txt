@@ -1,0 +1,28 @@
+POI: 			Neal_McDonough 
+Youtube ID: 	y-yLf_KlyDY 
+Video length: 	543.7 sec 
+Set (V): 		dev 
+ 
+Neal_McDonough/y-yLf_KlyDY_0000001 14.8 42.6 
+Neal_McDonough/y-yLf_KlyDY_0000002 49.8 61.9 
+Neal_McDonough/y-yLf_KlyDY_0000003 63.0 79.3 
+Neal_McDonough/y-yLf_KlyDY_0000004 85.6 100.4 
+Neal_McDonough/y-yLf_KlyDY_0000005 127.0 131.6 
+Neal_McDonough/y-yLf_KlyDY_0000006 133.8 140.8 
+Neal_McDonough/y-yLf_KlyDY_0000007 142.1 162.2 
+Neal_McDonough/y-yLf_KlyDY_0000008 163.2 170.0 
+Neal_McDonough/y-yLf_KlyDY_0000009 170.9 187.2 
+Neal_McDonough/y-yLf_KlyDY_0000010 192.3 216.6 
+Neal_McDonough/y-yLf_KlyDY_0000011 224.9 244.6 
+Neal_McDonough/y-yLf_KlyDY_0000012 248.2 256.1 
+Neal_McDonough/y-yLf_KlyDY_0000013 264.6 269.8 
+Neal_McDonough/y-yLf_KlyDY_0000014 273.1 277.3 
+Neal_McDonough/y-yLf_KlyDY_0000015 302.5 322.2 
+Neal_McDonough/y-yLf_KlyDY_0000016 324.1 336.1 
+Neal_McDonough/y-yLf_KlyDY_0000017 336.4 342.2 
+Neal_McDonough/y-yLf_KlyDY_0000018 375.3 394.8 
+Neal_McDonough/y-yLf_KlyDY_0000019 395.5 406.3 
+Neal_McDonough/y-yLf_KlyDY_0000020 407.0 420.3 
+Neal_McDonough/y-yLf_KlyDY_0000021 458.0 466.0 
+Neal_McDonough/y-yLf_KlyDY_0000022 467.3 489.5 
+Neal_McDonough/y-yLf_KlyDY_0000023 489.8 497.8 

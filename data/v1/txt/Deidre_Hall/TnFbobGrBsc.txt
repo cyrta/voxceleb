@@ -1,0 +1,10 @@
+POI: 			Deidre_Hall 
+Youtube ID: 	TnFbobGrBsc 
+Video length: 	354.4 sec 
+Set (V): 		dev 
+ 
+Deidre_Hall/TnFbobGrBsc_0000001 39.9 50.6 
+Deidre_Hall/TnFbobGrBsc_0000002 218.6 223.9 
+Deidre_Hall/TnFbobGrBsc_0000003 233.2 237.7 
+Deidre_Hall/TnFbobGrBsc_0000004 238.4 246.1 
+Deidre_Hall/TnFbobGrBsc_0000005 249.6 258.0 

@@ -1,0 +1,9 @@
+POI: 			Della_Reese 
+Youtube ID: 	eNRDbuJ-D6I 
+Video length: 	218.7 sec 
+Set (V): 		dev 
+ 
+Della_Reese/eNRDbuJ-D6I_0000001 48.6 55.0 
+Della_Reese/eNRDbuJ-D6I_0000002 70.3 79.6 
+Della_Reese/eNRDbuJ-D6I_0000003 161.4 173.5 
+Della_Reese/eNRDbuJ-D6I_0000004 188.7 195.1 

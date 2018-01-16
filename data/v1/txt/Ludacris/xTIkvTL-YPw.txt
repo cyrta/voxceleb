@@ -1,0 +1,9 @@
+POI: 			Ludacris 
+Youtube ID: 	xTIkvTL-YPw 
+Video length: 	190.6 sec 
+Set (V): 		dev 
+ 
+Ludacris/xTIkvTL-YPw_0000001 38.0 61.0 
+Ludacris/xTIkvTL-YPw_0000002 63.0 74.8 
+Ludacris/xTIkvTL-YPw_0000003 108.3 146.7 
+Ludacris/xTIkvTL-YPw_0000004 153.2 164.6 

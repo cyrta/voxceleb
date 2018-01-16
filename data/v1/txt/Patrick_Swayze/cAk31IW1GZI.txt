@@ -1,0 +1,10 @@
+POI: 			Patrick_Swayze 
+Youtube ID: 	cAk31IW1GZI 
+Video length: 	270.3 sec 
+Set (V): 		dev 
+ 
+Patrick_Swayze/cAk31IW1GZI_0000001 156.5 161.6 
+Patrick_Swayze/cAk31IW1GZI_0000002 178.8 184.3 
+Patrick_Swayze/cAk31IW1GZI_0000003 194.7 211.4 
+Patrick_Swayze/cAk31IW1GZI_0000004 221.6 239.6 
+Patrick_Swayze/cAk31IW1GZI_0000005 240.4 248.9 

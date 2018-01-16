@@ -1,0 +1,25 @@
+POI: 			Michael_Crichton 
+Youtube ID: 	4RolEhrHzTA 
+Video length: 	1345.3 sec 
+Set (V): 		dev 
+ 
+Michael_Crichton/4RolEhrHzTA_0000001 134.8 141.8 
+Michael_Crichton/4RolEhrHzTA_0000002 179.4 186.4 
+Michael_Crichton/4RolEhrHzTA_0000003 195.2 202.5 
+Michael_Crichton/4RolEhrHzTA_0000004 231.8 236.0 
+Michael_Crichton/4RolEhrHzTA_0000005 339.4 343.7 
+Michael_Crichton/4RolEhrHzTA_0000006 538.4 545.6 
+Michael_Crichton/4RolEhrHzTA_0000007 587.4 593.3 
+Michael_Crichton/4RolEhrHzTA_0000008 600.9 605.8 
+Michael_Crichton/4RolEhrHzTA_0000009 610.4 619.8 
+Michael_Crichton/4RolEhrHzTA_0000010 653.2 659.4 
+Michael_Crichton/4RolEhrHzTA_0000011 661.3 665.4 
+Michael_Crichton/4RolEhrHzTA_0000012 746.5 752.5 
+Michael_Crichton/4RolEhrHzTA_0000013 851.7 858.8 
+Michael_Crichton/4RolEhrHzTA_0000014 901.4 908.4 
+Michael_Crichton/4RolEhrHzTA_0000015 917.8 924.4 
+Michael_Crichton/4RolEhrHzTA_0000016 924.7 930.8 
+Michael_Crichton/4RolEhrHzTA_0000017 1036.1 1041.5 
+Michael_Crichton/4RolEhrHzTA_0000018 1041.6 1046.8 
+Michael_Crichton/4RolEhrHzTA_0000019 1080.9 1085.7 
+Michael_Crichton/4RolEhrHzTA_0000020 1178.2 1182.6 

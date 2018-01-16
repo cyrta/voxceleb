@@ -1,0 +1,8 @@
+POI: 			Mathieu_Amalric 
+Youtube ID: 	vJp5AfMhqhw 
+Video length: 	204.0 sec 
+Set (V): 		dev 
+ 
+Mathieu_Amalric/vJp5AfMhqhw_0000001 125.7 129.8 
+Mathieu_Amalric/vJp5AfMhqhw_0000002 147.0 151.4 
+Mathieu_Amalric/vJp5AfMhqhw_0000003 158.4 162.8 

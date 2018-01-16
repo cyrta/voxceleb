@@ -1,0 +1,43 @@
+POI: 			Kathie_Lee_Gifford 
+Youtube ID: 	lfrJYPLyYwM 
+Video length: 	1327.0 sec 
+Set (V): 		dev 
+ 
+Kathie_Lee_Gifford/lfrJYPLyYwM_0000001 42.2 47.8 
+Kathie_Lee_Gifford/lfrJYPLyYwM_0000002 81.9 108.4 
+Kathie_Lee_Gifford/lfrJYPLyYwM_0000003 109.0 131.4 
+Kathie_Lee_Gifford/lfrJYPLyYwM_0000004 208.9 218.2 
+Kathie_Lee_Gifford/lfrJYPLyYwM_0000005 235.9 245.5 
+Kathie_Lee_Gifford/lfrJYPLyYwM_0000006 267.9 273.5 
+Kathie_Lee_Gifford/lfrJYPLyYwM_0000007 274.8 332.8 
+Kathie_Lee_Gifford/lfrJYPLyYwM_0000008 313.0 324.9 
+Kathie_Lee_Gifford/lfrJYPLyYwM_0000009 334.3 344.4 
+Kathie_Lee_Gifford/lfrJYPLyYwM_0000010 377.6 394.4 
+Kathie_Lee_Gifford/lfrJYPLyYwM_0000011 399.1 410.6 
+Kathie_Lee_Gifford/lfrJYPLyYwM_0000012 413.1 417.3 
+Kathie_Lee_Gifford/lfrJYPLyYwM_0000013 418.1 428.3 
+Kathie_Lee_Gifford/lfrJYPLyYwM_0000014 430.2 434.9 
+Kathie_Lee_Gifford/lfrJYPLyYwM_0000015 438.0 442.6 
+Kathie_Lee_Gifford/lfrJYPLyYwM_0000016 516.7 547.5 
+Kathie_Lee_Gifford/lfrJYPLyYwM_0000017 570.8 575.0 
+Kathie_Lee_Gifford/lfrJYPLyYwM_0000018 575.9 581.7 
+Kathie_Lee_Gifford/lfrJYPLyYwM_0000019 587.2 594.2 
+Kathie_Lee_Gifford/lfrJYPLyYwM_0000020 605.8 615.6 
+Kathie_Lee_Gifford/lfrJYPLyYwM_0000021 623.8 638.4 
+Kathie_Lee_Gifford/lfrJYPLyYwM_0000022 643.9 649.7 
+Kathie_Lee_Gifford/lfrJYPLyYwM_0000023 649.9 658.0 
+Kathie_Lee_Gifford/lfrJYPLyYwM_0000024 730.7 759.0 
+Kathie_Lee_Gifford/lfrJYPLyYwM_0000025 776.2 793.4 
+Kathie_Lee_Gifford/lfrJYPLyYwM_0000026 794.7 799.8 
+Kathie_Lee_Gifford/lfrJYPLyYwM_0000027 800.4 841.0 
+Kathie_Lee_Gifford/lfrJYPLyYwM_0000028 871.8 900.7 
+Kathie_Lee_Gifford/lfrJYPLyYwM_0000029 923.1 954.6 
+Kathie_Lee_Gifford/lfrJYPLyYwM_0000030 955.0 975.6 
+Kathie_Lee_Gifford/lfrJYPLyYwM_0000031 983.8 988.4 
+Kathie_Lee_Gifford/lfrJYPLyYwM_0000032 1004.0 1019.6 
+Kathie_Lee_Gifford/lfrJYPLyYwM_0000033 1029.7 1036.2 
+Kathie_Lee_Gifford/lfrJYPLyYwM_0000034 1051.7 1062.9 
+Kathie_Lee_Gifford/lfrJYPLyYwM_0000035 1066.8 1105.7 
+Kathie_Lee_Gifford/lfrJYPLyYwM_0000036 1148.3 1158.8 
+Kathie_Lee_Gifford/lfrJYPLyYwM_0000037 1174.7 1186.7 
+Kathie_Lee_Gifford/lfrJYPLyYwM_0000038 1231.8 1246.4 

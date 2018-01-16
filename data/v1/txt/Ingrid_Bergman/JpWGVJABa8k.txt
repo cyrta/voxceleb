@@ -1,0 +1,16 @@
+POI: 			Ingrid_Bergman 
+Youtube ID: 	JpWGVJABa8k 
+Video length: 	404.9 sec 
+Set (V): 		dev 
+ 
+Ingrid_Bergman/JpWGVJABa8k_0000001 09.9 16.8 
+Ingrid_Bergman/JpWGVJABa8k_0000002 21.5 37.0 
+Ingrid_Bergman/JpWGVJABa8k_0000003 40.1 56.0 
+Ingrid_Bergman/JpWGVJABa8k_0000004 116.7 121.9 
+Ingrid_Bergman/JpWGVJABa8k_0000005 125.4 133.4 
+Ingrid_Bergman/JpWGVJABa8k_0000006 137.6 151.3 
+Ingrid_Bergman/JpWGVJABa8k_0000007 200.9 206.7 
+Ingrid_Bergman/JpWGVJABa8k_0000008 211.8 218.8 
+Ingrid_Bergman/JpWGVJABa8k_0000009 224.4 228.8 
+Ingrid_Bergman/JpWGVJABa8k_0000010 322.9 329.8 
+Ingrid_Bergman/JpWGVJABa8k_0000011 340.0 346.2 

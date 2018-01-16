@@ -1,0 +1,10 @@
+POI: 			Mary_Elizabeth_Winstead 
+Youtube ID: 	VVSc4fe9_6o 
+Video length: 	739.9 sec 
+Set (V): 		dev 
+ 
+Mary_Elizabeth_Winstead/VVSc4fe9_6o_0000001 127.3 134.2 
+Mary_Elizabeth_Winstead/VVSc4fe9_6o_0000002 162.7 169.3 
+Mary_Elizabeth_Winstead/VVSc4fe9_6o_0000003 378.8 391.7 
+Mary_Elizabeth_Winstead/VVSc4fe9_6o_0000004 392.2 400.0 
+Mary_Elizabeth_Winstead/VVSc4fe9_6o_0000005 479.3 498.7 

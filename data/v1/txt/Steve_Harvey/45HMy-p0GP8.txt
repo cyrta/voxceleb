@@ -1,0 +1,13 @@
+POI: 			Steve_Harvey 
+Youtube ID: 	45HMy-p0GP8 
+Video length: 	765.5 sec 
+Set (V): 		dev 
+ 
+Steve_Harvey/45HMy-p0GP8_0000001 462.2 466.4 
+Steve_Harvey/45HMy-p0GP8_0000002 467.7 477.5 
+Steve_Harvey/45HMy-p0GP8_0000003 482.6 486.8 
+Steve_Harvey/45HMy-p0GP8_0000004 496.4 500.4 
+Steve_Harvey/45HMy-p0GP8_0000005 531.3 536.0 
+Steve_Harvey/45HMy-p0GP8_0000006 575.4 581.4 
+Steve_Harvey/45HMy-p0GP8_0000007 592.2 596.6 
+Steve_Harvey/45HMy-p0GP8_0000008 705.7 713.0 

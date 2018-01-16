@@ -1,0 +1,14 @@
+POI: 			Lolo_Jones 
+Youtube ID: 	Ngok42MOj_U 
+Video length: 	161.4 sec 
+Set (V): 		dev 
+ 
+Lolo_Jones/Ngok42MOj_U_0000001 12.2 23.5 
+Lolo_Jones/Ngok42MOj_U_0000002 25.5 42.2 
+Lolo_Jones/Ngok42MOj_U_0000003 44.0 62.9 
+Lolo_Jones/Ngok42MOj_U_0000004 80.5 84.8 
+Lolo_Jones/Ngok42MOj_U_0000005 85.0 90.7 
+Lolo_Jones/Ngok42MOj_U_0000006 91.9 100.3 
+Lolo_Jones/Ngok42MOj_U_0000007 105.5 121.4 
+Lolo_Jones/Ngok42MOj_U_0000008 122.4 133.2 
+Lolo_Jones/Ngok42MOj_U_0000009 134.9 139.0 

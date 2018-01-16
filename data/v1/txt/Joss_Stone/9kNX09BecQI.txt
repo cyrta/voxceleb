@@ -1,0 +1,10 @@
+POI: 			Joss_Stone 
+Youtube ID: 	9kNX09BecQI 
+Video length: 	512.8 sec 
+Set (V): 		dev 
+ 
+Joss_Stone/9kNX09BecQI_0000001 148.2 155.9 
+Joss_Stone/9kNX09BecQI_0000002 199.2 210.4 
+Joss_Stone/9kNX09BecQI_0000003 300.1 307.0 
+Joss_Stone/9kNX09BecQI_0000004 321.6 325.8 
+Joss_Stone/9kNX09BecQI_0000005 338.4 346.7 

@@ -1,0 +1,24 @@
+POI: 			Jay_Baruchel 
+Youtube ID: 	iHt1KDflWPg 
+Video length: 	626.4 sec 
+Set (V): 		dev 
+ 
+Jay_Baruchel/iHt1KDflWPg_0000001 28.2 35.4 
+Jay_Baruchel/iHt1KDflWPg_0000002 43.4 47.9 
+Jay_Baruchel/iHt1KDflWPg_0000003 174.3 178.3 
+Jay_Baruchel/iHt1KDflWPg_0000004 199.6 206.3 
+Jay_Baruchel/iHt1KDflWPg_0000005 232.4 239.1 
+Jay_Baruchel/iHt1KDflWPg_0000006 260.1 265.0 
+Jay_Baruchel/iHt1KDflWPg_0000007 350.0 355.0 
+Jay_Baruchel/iHt1KDflWPg_0000008 355.2 360.0 
+Jay_Baruchel/iHt1KDflWPg_0000009 377.1 381.2 
+Jay_Baruchel/iHt1KDflWPg_0000010 388.6 393.5 
+Jay_Baruchel/iHt1KDflWPg_0000011 398.2 403.0 
+Jay_Baruchel/iHt1KDflWPg_0000012 418.5 426.8 
+Jay_Baruchel/iHt1KDflWPg_0000013 414.3 427.0 
+Jay_Baruchel/iHt1KDflWPg_0000014 452.8 457.3 
+Jay_Baruchel/iHt1KDflWPg_0000015 489.9 495.2 
+Jay_Baruchel/iHt1KDflWPg_0000016 517.4 521.5 
+Jay_Baruchel/iHt1KDflWPg_0000017 523.4 528.7 
+Jay_Baruchel/iHt1KDflWPg_0000018 542.0 548.3 
+Jay_Baruchel/iHt1KDflWPg_0000019 607.8 617.6 

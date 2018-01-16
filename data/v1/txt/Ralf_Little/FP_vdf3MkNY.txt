@@ -1,0 +1,7 @@
+POI: 			Ralf_Little 
+Youtube ID: 	FP_vdf3MkNY 
+Video length: 	202.0 sec 
+Set (V): 		dev 
+ 
+Ralf_Little/FP_vdf3MkNY_0000001 36.0 42.8 
+Ralf_Little/FP_vdf3MkNY_0000002 183.2 187.4 

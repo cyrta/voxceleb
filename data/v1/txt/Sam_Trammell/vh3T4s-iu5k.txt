@@ -1,0 +1,8 @@
+POI: 			Sam_Trammell 
+Youtube ID: 	vh3T4s-iu5k 
+Video length: 	43.1 sec 
+Set (V): 		dev 
+ 
+Sam_Trammell/vh3T4s-iu5k_0000001 10.8 16.8 
+Sam_Trammell/vh3T4s-iu5k_0000002 16.9 29.2 
+Sam_Trammell/vh3T4s-iu5k_0000003 29.5 36.8 

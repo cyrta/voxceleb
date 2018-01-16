@@ -1,0 +1,16 @@
+POI: 			Chace_Crawford 
+Youtube ID: 	TtnKPwXRefo 
+Video length: 	306.6 sec 
+Set (V): 		dev 
+ 
+Chace_Crawford/TtnKPwXRefo_0000001 17.0 21.3 
+Chace_Crawford/TtnKPwXRefo_0000002 29.7 34.1 
+Chace_Crawford/TtnKPwXRefo_0000003 42.1 49.0 
+Chace_Crawford/TtnKPwXRefo_0000004 71.9 83.8 
+Chace_Crawford/TtnKPwXRefo_0000005 143.1 147.7 
+Chace_Crawford/TtnKPwXRefo_0000006 159.9 166.5 
+Chace_Crawford/TtnKPwXRefo_0000007 171.5 179.5 
+Chace_Crawford/TtnKPwXRefo_0000008 197.0 206.8 
+Chace_Crawford/TtnKPwXRefo_0000009 211.1 217.8 
+Chace_Crawford/TtnKPwXRefo_0000010 226.4 230.6 
+Chace_Crawford/TtnKPwXRefo_0000011 252.9 258.0 

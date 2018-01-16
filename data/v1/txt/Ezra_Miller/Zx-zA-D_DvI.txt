@@ -1,0 +1,8 @@
+POI: 			Ezra_Miller 
+Youtube ID: 	Zx-zA-D_DvI 
+Video length: 	525.7 sec 
+Set (V): 		test 
+ 
+Ezra_Miller/Zx-zA-D_DvI_0000001 224.4 231.8 
+Ezra_Miller/Zx-zA-D_DvI_0000002 422.4 428.8 
+Ezra_Miller/Zx-zA-D_DvI_0000003 445.5 449.4 

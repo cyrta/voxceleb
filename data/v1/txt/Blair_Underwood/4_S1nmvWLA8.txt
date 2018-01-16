@@ -1,0 +1,10 @@
+POI: 			Blair_Underwood 
+Youtube ID: 	4_S1nmvWLA8 
+Video length: 	144.7 sec 
+Set (V): 		dev 
+ 
+Blair_Underwood/4_S1nmvWLA8_0000001 06.6 11.7 
+Blair_Underwood/4_S1nmvWLA8_0000002 13.5 20.6 
+Blair_Underwood/4_S1nmvWLA8_0000003 38.4 43.1 
+Blair_Underwood/4_S1nmvWLA8_0000004 57.1 61.4 
+Blair_Underwood/4_S1nmvWLA8_0000005 124.1 134.9 

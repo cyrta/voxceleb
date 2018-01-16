@@ -1,0 +1,31 @@
+POI: 			Lucie_Arnaz 
+Youtube ID: 	WIxJnSvFfY4 
+Video length: 	455.0 sec 
+Set (V): 		dev 
+ 
+Lucie_Arnaz/WIxJnSvFfY4_0000001 71.4 80.6 
+Lucie_Arnaz/WIxJnSvFfY4_0000002 103.2 119.8 
+Lucie_Arnaz/WIxJnSvFfY4_0000003 122.9 145.1 
+Lucie_Arnaz/WIxJnSvFfY4_0000004 151.3 160.2 
+Lucie_Arnaz/WIxJnSvFfY4_0000005 161.0 171.6 
+Lucie_Arnaz/WIxJnSvFfY4_0000006 172.4 182.6 
+Lucie_Arnaz/WIxJnSvFfY4_0000007 188.6 210.0 
+Lucie_Arnaz/WIxJnSvFfY4_0000008 211.2 219.9 
+Lucie_Arnaz/WIxJnSvFfY4_0000009 221.9 256.5 
+Lucie_Arnaz/WIxJnSvFfY4_0000010 263.1 267.6 
+Lucie_Arnaz/WIxJnSvFfY4_0000011 268.8 273.7 
+Lucie_Arnaz/WIxJnSvFfY4_0000012 278.5 304.5 
+Lucie_Arnaz/WIxJnSvFfY4_0000013 305.2 309.8 
+Lucie_Arnaz/WIxJnSvFfY4_0000014 311.1 322.3 
+Lucie_Arnaz/WIxJnSvFfY4_0000015 327.4 332.6 
+Lucie_Arnaz/WIxJnSvFfY4_0000016 263.2 267.7 
+Lucie_Arnaz/WIxJnSvFfY4_0000017 268.7 273.7 
+Lucie_Arnaz/WIxJnSvFfY4_0000018 278.6 286.6 
+Lucie_Arnaz/WIxJnSvFfY4_0000019 334.4 359.4 
+Lucie_Arnaz/WIxJnSvFfY4_0000020 360.5 368.3 
+Lucie_Arnaz/WIxJnSvFfY4_0000021 371.7 379.8 
+Lucie_Arnaz/WIxJnSvFfY4_0000022 399.4 405.8 
+Lucie_Arnaz/WIxJnSvFfY4_0000023 406.6 413.2 
+Lucie_Arnaz/WIxJnSvFfY4_0000024 414.2 422.2 
+Lucie_Arnaz/WIxJnSvFfY4_0000025 423.3 430.5 
+Lucie_Arnaz/WIxJnSvFfY4_0000026 432.5 445.3 

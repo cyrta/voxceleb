@@ -1,0 +1,33 @@
+POI: 			Dove_Cameron 
+Youtube ID: 	Yz60HIfALyw 
+Video length: 	470.5 sec 
+Set (V): 		dev 
+ 
+Dove_Cameron/Yz60HIfALyw_0000001 23.4 54.2 
+Dove_Cameron/Yz60HIfALyw_0000002 65.3 70.0 
+Dove_Cameron/Yz60HIfALyw_0000003 78.4 88.4 
+Dove_Cameron/Yz60HIfALyw_0000004 90.2 97.0 
+Dove_Cameron/Yz60HIfALyw_0000005 101.4 107.0 
+Dove_Cameron/Yz60HIfALyw_0000006 107.8 113.2 
+Dove_Cameron/Yz60HIfALyw_0000007 113.9 118.8 
+Dove_Cameron/Yz60HIfALyw_0000008 122.8 136.5 
+Dove_Cameron/Yz60HIfALyw_0000009 137.1 143.6 
+Dove_Cameron/Yz60HIfALyw_0000010 161.0 170.2 
+Dove_Cameron/Yz60HIfALyw_0000011 175.1 185.0 
+Dove_Cameron/Yz60HIfALyw_0000012 185.4 191.2 
+Dove_Cameron/Yz60HIfALyw_0000013 192.3 201.8 
+Dove_Cameron/Yz60HIfALyw_0000014 202.9 212.8 
+Dove_Cameron/Yz60HIfALyw_0000015 213.1 221.1 
+Dove_Cameron/Yz60HIfALyw_0000016 221.4 226.5 
+Dove_Cameron/Yz60HIfALyw_0000017 230.5 236.1 
+Dove_Cameron/Yz60HIfALyw_0000018 262.8 267.8 
+Dove_Cameron/Yz60HIfALyw_0000019 274.1 301.3 
+Dove_Cameron/Yz60HIfALyw_0000020 301.7 306.3 
+Dove_Cameron/Yz60HIfALyw_0000021 315.3 319.9 
+Dove_Cameron/Yz60HIfALyw_0000022 320.4 329.3 
+Dove_Cameron/Yz60HIfALyw_0000023 331.8 337.2 
+Dove_Cameron/Yz60HIfALyw_0000024 353.5 363.2 
+Dove_Cameron/Yz60HIfALyw_0000025 365.7 381.7 
+Dove_Cameron/Yz60HIfALyw_0000026 386.1 395.5 
+Dove_Cameron/Yz60HIfALyw_0000027 396.4 400.5 
+Dove_Cameron/Yz60HIfALyw_0000028 412.7 418.4 

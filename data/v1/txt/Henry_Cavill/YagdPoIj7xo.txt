@@ -1,0 +1,8 @@
+POI: 			Henry_Cavill 
+Youtube ID: 	YagdPoIj7xo 
+Video length: 	182.3 sec 
+Set (V): 		dev 
+ 
+Henry_Cavill/YagdPoIj7xo_0000001 62.5 70.5 
+Henry_Cavill/YagdPoIj7xo_0000002 140.9 145.2 
+Henry_Cavill/YagdPoIj7xo_0000003 156.3 163.0 

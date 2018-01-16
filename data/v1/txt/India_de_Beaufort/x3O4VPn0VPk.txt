@@ -1,0 +1,7 @@
+POI: 			India_de_Beaufort 
+Youtube ID: 	x3O4VPn0VPk 
+Video length: 	184.8 sec 
+Set (V): 		dev 
+ 
+India_de_Beaufort/x3O4VPn0VPk_0000001 15.8 20.2 
+India_de_Beaufort/x3O4VPn0VPk_0000002 172.3 179.6 

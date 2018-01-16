@@ -1,0 +1,10 @@
+POI: 			Hill_Harper 
+Youtube ID: 	zkZIJN0Usko 
+Video length: 	348.9 sec 
+Set (V): 		dev 
+ 
+Hill_Harper/zkZIJN0Usko_0000001 35.3 39.6 
+Hill_Harper/zkZIJN0Usko_0000002 39.7 45.0 
+Hill_Harper/zkZIJN0Usko_0000003 126.5 137.8 
+Hill_Harper/zkZIJN0Usko_0000004 214.0 221.2 
+Hill_Harper/zkZIJN0Usko_0000005 262.4 268.4 

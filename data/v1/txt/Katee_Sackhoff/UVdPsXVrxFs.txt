@@ -1,0 +1,41 @@
+POI: 			Katee_Sackhoff 
+Youtube ID: 	UVdPsXVrxFs 
+Video length: 	803.3 sec 
+Set (V): 		dev 
+ 
+Katee_Sackhoff/UVdPsXVrxFs_0000001 12.6 17.9 
+Katee_Sackhoff/UVdPsXVrxFs_0000002 23.2 50.0 
+Katee_Sackhoff/UVdPsXVrxFs_0000003 54.4 61.8 
+Katee_Sackhoff/UVdPsXVrxFs_0000004 62.0 70.9 
+Katee_Sackhoff/UVdPsXVrxFs_0000005 71.0 78.5 
+Katee_Sackhoff/UVdPsXVrxFs_0000006 78.8 85.6 
+Katee_Sackhoff/UVdPsXVrxFs_0000007 86.6 96.2 
+Katee_Sackhoff/UVdPsXVrxFs_0000008 97.2 105.9 
+Katee_Sackhoff/UVdPsXVrxFs_0000009 106.2 113.9 
+Katee_Sackhoff/UVdPsXVrxFs_0000010 117.1 121.3 
+Katee_Sackhoff/UVdPsXVrxFs_0000011 124.6 133.4 
+Katee_Sackhoff/UVdPsXVrxFs_0000012 137.3 146.4 
+Katee_Sackhoff/UVdPsXVrxFs_0000013 148.5 156.3 
+Katee_Sackhoff/UVdPsXVrxFs_0000014 162.1 209.0 
+Katee_Sackhoff/UVdPsXVrxFs_0000015 209.4 215.3 
+Katee_Sackhoff/UVdPsXVrxFs_0000016 224.0 241.3 
+Katee_Sackhoff/UVdPsXVrxFs_0000017 298.6 324.4 
+Katee_Sackhoff/UVdPsXVrxFs_0000018 344.2 352.2 
+Katee_Sackhoff/UVdPsXVrxFs_0000019 354.6 364.3 
+Katee_Sackhoff/UVdPsXVrxFs_0000020 367.6 372.0 
+Katee_Sackhoff/UVdPsXVrxFs_0000021 390.6 406.2 
+Katee_Sackhoff/UVdPsXVrxFs_0000022 413.1 437.8 
+Katee_Sackhoff/UVdPsXVrxFs_0000023 439.2 445.2 
+Katee_Sackhoff/UVdPsXVrxFs_0000024 464.1 468.2 
+Katee_Sackhoff/UVdPsXVrxFs_0000025 468.7 473.6 
+Katee_Sackhoff/UVdPsXVrxFs_0000026 478.0 497.0 
+Katee_Sackhoff/UVdPsXVrxFs_0000027 512.1 534.0 
+Katee_Sackhoff/UVdPsXVrxFs_0000028 535.0 539.5 
+Katee_Sackhoff/UVdPsXVrxFs_0000029 520.4 535.8 
+Katee_Sackhoff/UVdPsXVrxFs_0000030 614.4 624.4 
+Katee_Sackhoff/UVdPsXVrxFs_0000031 636.5 657.4 
+Katee_Sackhoff/UVdPsXVrxFs_0000032 659.4 666.5 
+Katee_Sackhoff/UVdPsXVrxFs_0000033 694.9 740.4 
+Katee_Sackhoff/UVdPsXVrxFs_0000034 742.2 763.0 
+Katee_Sackhoff/UVdPsXVrxFs_0000035 766.0 782.6 
+Katee_Sackhoff/UVdPsXVrxFs_0000036 793.3 798.6 

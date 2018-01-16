@@ -1,0 +1,9 @@
+POI: 			Melissa_George 
+Youtube ID: 	Vt-K2rsfPq0 
+Video length: 	430.5 sec 
+Set (V): 		dev 
+ 
+Melissa_George/Vt-K2rsfPq0_0000001 227.6 236.0 
+Melissa_George/Vt-K2rsfPq0_0000002 241.2 247.6 
+Melissa_George/Vt-K2rsfPq0_0000003 248.8 254.1 
+Melissa_George/Vt-K2rsfPq0_0000004 300.5 309.1 

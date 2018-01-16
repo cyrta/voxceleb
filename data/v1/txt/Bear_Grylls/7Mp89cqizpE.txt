@@ -1,0 +1,9 @@
+POI: 			Bear_Grylls 
+Youtube ID: 	7Mp89cqizpE 
+Video length: 	698.3 sec 
+Set (V): 		dev 
+ 
+Bear_Grylls/7Mp89cqizpE_0000001 11.9 16.4 
+Bear_Grylls/7Mp89cqizpE_0000002 355.8 360.8 
+Bear_Grylls/7Mp89cqizpE_0000003 510.5 516.1 
+Bear_Grylls/7Mp89cqizpE_0000004 522.2 527.5 

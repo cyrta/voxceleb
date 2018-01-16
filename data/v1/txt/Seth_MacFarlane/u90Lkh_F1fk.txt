@@ -1,0 +1,12 @@
+POI: 			Seth_MacFarlane 
+Youtube ID: 	u90Lkh_F1fk 
+Video length: 	203.0 sec 
+Set (V): 		dev 
+ 
+Seth_MacFarlane/u90Lkh_F1fk_0000001 26.3 30.3 
+Seth_MacFarlane/u90Lkh_F1fk_0000002 36.3 41.2 
+Seth_MacFarlane/u90Lkh_F1fk_0000003 53.8 60.2 
+Seth_MacFarlane/u90Lkh_F1fk_0000004 99.1 105.8 
+Seth_MacFarlane/u90Lkh_F1fk_0000005 121.8 130.0 
+Seth_MacFarlane/u90Lkh_F1fk_0000006 135.0 141.9 
+Seth_MacFarlane/u90Lkh_F1fk_0000007 155.3 159.5 

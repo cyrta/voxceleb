@@ -1,0 +1,18 @@
+POI: 			Mitchel_Musso 
+Youtube ID: 	52QBJw9U_3c 
+Video length: 	586.6 sec 
+Set (V): 		dev 
+ 
+Mitchel_Musso/52QBJw9U_3c_0000001 42.6 49.3 
+Mitchel_Musso/52QBJw9U_3c_0000002 52.2 58.1 
+Mitchel_Musso/52QBJw9U_3c_0000003 76.3 87.4 
+Mitchel_Musso/52QBJw9U_3c_0000004 314.3 323.7 
+Mitchel_Musso/52QBJw9U_3c_0000005 326.0 331.5 
+Mitchel_Musso/52QBJw9U_3c_0000006 379.8 390.4 
+Mitchel_Musso/52QBJw9U_3c_0000007 423.5 430.1 
+Mitchel_Musso/52QBJw9U_3c_0000008 430.4 436.8 
+Mitchel_Musso/52QBJw9U_3c_0000009 470.0 474.1 
+Mitchel_Musso/52QBJw9U_3c_0000010 479.4 486.0 
+Mitchel_Musso/52QBJw9U_3c_0000011 488.0 497.4 
+Mitchel_Musso/52QBJw9U_3c_0000012 507.5 512.5 
+Mitchel_Musso/52QBJw9U_3c_0000013 544.6 549.3 

@@ -1,0 +1,7 @@
+POI: 			Hugh_Dancy 
+Youtube ID: 	OOkU-U8pbHs 
+Video length: 	158.6 sec 
+Set (V): 		dev 
+ 
+Hugh_Dancy/OOkU-U8pbHs_0000001 83.1 87.1 
+Hugh_Dancy/OOkU-U8pbHs_0000002 105.7 110.8 

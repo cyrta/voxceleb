@@ -1,0 +1,7 @@
+POI: 			Allison_Williams 
+Youtube ID: 	pEMxNj4acCI 
+Video length: 	642.5 sec 
+Set (V): 		dev 
+ 
+Allison_Williams/pEMxNj4acCI_0000001 352.2 356.8 
+Allison_Williams/pEMxNj4acCI_0000002 471.2 482.6 

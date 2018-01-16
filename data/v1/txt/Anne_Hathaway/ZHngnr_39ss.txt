@@ -1,0 +1,22 @@
+POI: 			Anne_Hathaway 
+Youtube ID: 	ZHngnr_39ss 
+Video length: 	261.9 sec 
+Set (V): 		dev 
+ 
+Anne_Hathaway/ZHngnr_39ss_0000001 19.8 32.9 
+Anne_Hathaway/ZHngnr_39ss_0000002 38.0 59.4 
+Anne_Hathaway/ZHngnr_39ss_0000003 76.4 83.5 
+Anne_Hathaway/ZHngnr_39ss_0000004 86.1 90.5 
+Anne_Hathaway/ZHngnr_39ss_0000005 93.8 98.9 
+Anne_Hathaway/ZHngnr_39ss_0000006 116.1 122.1 
+Anne_Hathaway/ZHngnr_39ss_0000007 123.1 127.4 
+Anne_Hathaway/ZHngnr_39ss_0000008 130.7 135.8 
+Anne_Hathaway/ZHngnr_39ss_0000009 138.0 143.4 
+Anne_Hathaway/ZHngnr_39ss_0000010 144.8 155.0 
+Anne_Hathaway/ZHngnr_39ss_0000011 158.9 186.6 
+Anne_Hathaway/ZHngnr_39ss_0000012 186.8 193.4 
+Anne_Hathaway/ZHngnr_39ss_0000013 202.8 209.0 
+Anne_Hathaway/ZHngnr_39ss_0000014 209.4 220.2 
+Anne_Hathaway/ZHngnr_39ss_0000015 222.0 228.5 
+Anne_Hathaway/ZHngnr_39ss_0000016 229.9 246.6 
+Anne_Hathaway/ZHngnr_39ss_0000017 247.0 255.6 

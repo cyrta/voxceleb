@@ -1,0 +1,22 @@
+POI: 			Olivia_Williams 
+Youtube ID: 	mmPGSwKfMRw 
+Video length: 	206.3 sec 
+Set (V): 		dev 
+ 
+Olivia_Williams/mmPGSwKfMRw_0000001 08.6 32.6 
+Olivia_Williams/mmPGSwKfMRw_0000002 33.3 39.8 
+Olivia_Williams/mmPGSwKfMRw_0000003 56.3 60.9 
+Olivia_Williams/mmPGSwKfMRw_0000004 59.4 64.8 
+Olivia_Williams/mmPGSwKfMRw_0000005 67.6 74.4 
+Olivia_Williams/mmPGSwKfMRw_0000006 80.1 88.5 
+Olivia_Williams/mmPGSwKfMRw_0000007 94.1 103.8 
+Olivia_Williams/mmPGSwKfMRw_0000008 106.7 111.3 
+Olivia_Williams/mmPGSwKfMRw_0000009 111.6 119.4 
+Olivia_Williams/mmPGSwKfMRw_0000010 126.2 132.2 
+Olivia_Williams/mmPGSwKfMRw_0000011 138.5 143.0 
+Olivia_Williams/mmPGSwKfMRw_0000012 143.8 152.5 
+Olivia_Williams/mmPGSwKfMRw_0000013 154.9 161.6 
+Olivia_Williams/mmPGSwKfMRw_0000014 162.0 167.5 
+Olivia_Williams/mmPGSwKfMRw_0000015 171.1 175.3 
+Olivia_Williams/mmPGSwKfMRw_0000016 176.0 180.2 
+Olivia_Williams/mmPGSwKfMRw_0000017 181.1 189.8 

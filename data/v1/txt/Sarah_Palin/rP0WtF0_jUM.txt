@@ -1,0 +1,27 @@
+POI: 			Sarah_Palin 
+Youtube ID: 	rP0WtF0_jUM 
+Video length: 	889.8 sec 
+Set (V): 		dev 
+ 
+Sarah_Palin/rP0WtF0_jUM_0000001 11.2 19.3 
+Sarah_Palin/rP0WtF0_jUM_0000002 57.4 105.8 
+Sarah_Palin/rP0WtF0_jUM_0000003 147.6 153.3 
+Sarah_Palin/rP0WtF0_jUM_0000004 155.4 164.2 
+Sarah_Palin/rP0WtF0_jUM_0000005 179.0 205.4 
+Sarah_Palin/rP0WtF0_jUM_0000006 243.6 285.4 
+Sarah_Palin/rP0WtF0_jUM_0000007 296.5 305.7 
+Sarah_Palin/rP0WtF0_jUM_0000008 245.6 307.2 
+Sarah_Palin/rP0WtF0_jUM_0000009 344.8 388.6 
+Sarah_Palin/rP0WtF0_jUM_0000010 389.2 418.3 
+Sarah_Palin/rP0WtF0_jUM_0000011 433.7 446.2 
+Sarah_Palin/rP0WtF0_jUM_0000012 447.2 457.4 
+Sarah_Palin/rP0WtF0_jUM_0000013 458.0 476.5 
+Sarah_Palin/rP0WtF0_jUM_0000014 477.4 511.5 
+Sarah_Palin/rP0WtF0_jUM_0000015 552.8 563.1 
+Sarah_Palin/rP0WtF0_jUM_0000016 589.4 618.0 
+Sarah_Palin/rP0WtF0_jUM_0000017 618.2 763.1 
+Sarah_Palin/rP0WtF0_jUM_0000018 721.2 743.5 
+Sarah_Palin/rP0WtF0_jUM_0000019 794.3 817.9 
+Sarah_Palin/rP0WtF0_jUM_0000020 831.1 840.0 
+Sarah_Palin/rP0WtF0_jUM_0000021 842.0 862.3 
+Sarah_Palin/rP0WtF0_jUM_0000022 867.2 880.1 

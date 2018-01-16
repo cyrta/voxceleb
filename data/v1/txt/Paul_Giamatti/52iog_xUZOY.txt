@@ -1,0 +1,11 @@
+POI: 			Paul_Giamatti 
+Youtube ID: 	52iog_xUZOY 
+Video length: 	418.0 sec 
+Set (V): 		dev 
+ 
+Paul_Giamatti/52iog_xUZOY_0000001 72.1 78.0 
+Paul_Giamatti/52iog_xUZOY_0000002 97.1 101.3 
+Paul_Giamatti/52iog_xUZOY_0000003 218.8 224.6 
+Paul_Giamatti/52iog_xUZOY_0000004 231.9 238.4 
+Paul_Giamatti/52iog_xUZOY_0000005 267.4 273.1 
+Paul_Giamatti/52iog_xUZOY_0000006 374.8 379.0 

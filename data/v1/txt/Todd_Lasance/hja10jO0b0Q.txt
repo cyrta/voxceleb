@@ -1,0 +1,8 @@
+POI: 			Todd_Lasance 
+Youtube ID: 	hja10jO0b0Q 
+Video length: 	204.6 sec 
+Set (V): 		dev 
+ 
+Todd_Lasance/hja10jO0b0Q_0000001 64.7 70.4 
+Todd_Lasance/hja10jO0b0Q_0000002 78.9 87.4 
+Todd_Lasance/hja10jO0b0Q_0000003 165.7 182.1 

@@ -1,0 +1,9 @@
+POI: 			Luc_Besson 
+Youtube ID: 	bSEpkLWYFtA 
+Video length: 	77.6 sec 
+Set (V): 		dev 
+ 
+Luc_Besson/bSEpkLWYFtA_0000001 14.2 22.9 
+Luc_Besson/bSEpkLWYFtA_0000002 29.0 34.9 
+Luc_Besson/bSEpkLWYFtA_0000003 41.2 60.4 
+Luc_Besson/bSEpkLWYFtA_0000004 70.0 74.2 

@@ -1,0 +1,9 @@
+POI: 			John_DiMaggio 
+Youtube ID: 	TyLt6W3rvUU 
+Video length: 	91.6 sec 
+Set (V): 		dev 
+ 
+John_DiMaggio/TyLt6W3rvUU_0000001 07.9 20.0 
+John_DiMaggio/TyLt6W3rvUU_0000002 46.4 52.8 
+John_DiMaggio/TyLt6W3rvUU_0000003 56.8 67.8 
+John_DiMaggio/TyLt6W3rvUU_0000004 68.6 78.2 

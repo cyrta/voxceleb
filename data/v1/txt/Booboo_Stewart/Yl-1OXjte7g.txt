@@ -1,0 +1,11 @@
+POI: 			Booboo_Stewart 
+Youtube ID: 	Yl-1OXjte7g 
+Video length: 	204.8 sec 
+Set (V): 		dev 
+ 
+Booboo_Stewart/Yl-1OXjte7g_0000001 60.7 67.1 
+Booboo_Stewart/Yl-1OXjte7g_0000002 68.0 78.4 
+Booboo_Stewart/Yl-1OXjte7g_0000003 130.8 135.8 
+Booboo_Stewart/Yl-1OXjte7g_0000004 151.6 156.3 
+Booboo_Stewart/Yl-1OXjte7g_0000005 157.0 162.6 
+Booboo_Stewart/Yl-1OXjte7g_0000006 187.9 192.1 

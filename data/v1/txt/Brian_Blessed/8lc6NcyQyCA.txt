@@ -1,0 +1,24 @@
+POI: 			Brian_Blessed 
+Youtube ID: 	8lc6NcyQyCA 
+Video length: 	319.3 sec 
+Set (V): 		dev 
+ 
+Brian_Blessed/8lc6NcyQyCA_0000001 03.2 24.0 
+Brian_Blessed/8lc6NcyQyCA_0000002 28.6 36.9 
+Brian_Blessed/8lc6NcyQyCA_0000003 37.2 47.7 
+Brian_Blessed/8lc6NcyQyCA_0000004 30.5 49.0 
+Brian_Blessed/8lc6NcyQyCA_0000005 57.8 67.8 
+Brian_Blessed/8lc6NcyQyCA_0000006 75.3 80.5 
+Brian_Blessed/8lc6NcyQyCA_0000007 81.9 89.8 
+Brian_Blessed/8lc6NcyQyCA_0000008 99.8 113.4 
+Brian_Blessed/8lc6NcyQyCA_0000009 115.6 129.0 
+Brian_Blessed/8lc6NcyQyCA_0000010 133.1 138.0 
+Brian_Blessed/8lc6NcyQyCA_0000011 138.8 171.3 
+Brian_Blessed/8lc6NcyQyCA_0000012 179.4 189.0 
+Brian_Blessed/8lc6NcyQyCA_0000013 191.0 210.2 
+Brian_Blessed/8lc6NcyQyCA_0000014 210.6 217.0 
+Brian_Blessed/8lc6NcyQyCA_0000015 227.9 254.2 
+Brian_Blessed/8lc6NcyQyCA_0000016 257.2 263.8 
+Brian_Blessed/8lc6NcyQyCA_0000017 277.2 285.1 
+Brian_Blessed/8lc6NcyQyCA_0000018 286.0 301.6 
+Brian_Blessed/8lc6NcyQyCA_0000019 301.7 314.4 

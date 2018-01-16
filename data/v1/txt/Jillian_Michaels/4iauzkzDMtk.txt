@@ -1,0 +1,10 @@
+POI: 			Jillian_Michaels 
+Youtube ID: 	4iauzkzDMtk 
+Video length: 	183.6 sec 
+Set (V): 		dev 
+ 
+Jillian_Michaels/4iauzkzDMtk_0000001 24.0 31.5 
+Jillian_Michaels/4iauzkzDMtk_0000002 37.6 42.2 
+Jillian_Michaels/4iauzkzDMtk_0000003 105.1 110.4 
+Jillian_Michaels/4iauzkzDMtk_0000004 112.4 116.8 
+Jillian_Michaels/4iauzkzDMtk_0000005 129.7 134.2 

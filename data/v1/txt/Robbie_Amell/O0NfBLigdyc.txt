@@ -1,0 +1,12 @@
+POI: 			Robbie_Amell 
+Youtube ID: 	O0NfBLigdyc 
+Video length: 	270.8 sec 
+Set (V): 		dev 
+ 
+Robbie_Amell/O0NfBLigdyc_0000001 27.2 35.3 
+Robbie_Amell/O0NfBLigdyc_0000002 39.0 46.4 
+Robbie_Amell/O0NfBLigdyc_0000003 63.1 67.4 
+Robbie_Amell/O0NfBLigdyc_0000004 85.4 96.9 
+Robbie_Amell/O0NfBLigdyc_0000005 152.3 169.5 
+Robbie_Amell/O0NfBLigdyc_0000006 194.8 200.8 
+Robbie_Amell/O0NfBLigdyc_0000007 214.3 218.5 

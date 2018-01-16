@@ -1,0 +1,31 @@
+POI: 			Aldis_Hodge 
+Youtube ID: 	gs8QSoQoltI 
+Video length: 	408.0 sec 
+Set (V): 		dev 
+ 
+Aldis_Hodge/gs8QSoQoltI_0000001 02.0 07.6 
+Aldis_Hodge/gs8QSoQoltI_0000002 07.8 12.7 
+Aldis_Hodge/gs8QSoQoltI_0000003 15.2 24.5 
+Aldis_Hodge/gs8QSoQoltI_0000004 53.2 61.9 
+Aldis_Hodge/gs8QSoQoltI_0000005 25.1 31.3 
+Aldis_Hodge/gs8QSoQoltI_0000006 44.1 48.2 
+Aldis_Hodge/gs8QSoQoltI_0000007 92.1 112.8 
+Aldis_Hodge/gs8QSoQoltI_0000008 115.2 126.4 
+Aldis_Hodge/gs8QSoQoltI_0000009 127.0 141.0 
+Aldis_Hodge/gs8QSoQoltI_0000010 141.2 149.3 
+Aldis_Hodge/gs8QSoQoltI_0000011 162.7 170.0 
+Aldis_Hodge/gs8QSoQoltI_0000012 178.3 186.6 
+Aldis_Hodge/gs8QSoQoltI_0000013 187.1 193.8 
+Aldis_Hodge/gs8QSoQoltI_0000014 195.8 201.9 
+Aldis_Hodge/gs8QSoQoltI_0000015 214.9 226.2 
+Aldis_Hodge/gs8QSoQoltI_0000016 228.2 232.2 
+Aldis_Hodge/gs8QSoQoltI_0000017 236.2 241.4 
+Aldis_Hodge/gs8QSoQoltI_0000018 253.4 260.2 
+Aldis_Hodge/gs8QSoQoltI_0000019 271.0 282.7 
+Aldis_Hodge/gs8QSoQoltI_0000020 290.6 295.1 
+Aldis_Hodge/gs8QSoQoltI_0000021 304.0 308.3 
+Aldis_Hodge/gs8QSoQoltI_0000022 317.0 326.0 
+Aldis_Hodge/gs8QSoQoltI_0000023 330.0 334.2 
+Aldis_Hodge/gs8QSoQoltI_0000024 342.2 346.4 
+Aldis_Hodge/gs8QSoQoltI_0000025 367.2 375.4 
+Aldis_Hodge/gs8QSoQoltI_0000026 377.5 386.2 

@@ -1,0 +1,8 @@
+POI: 			Breckin_Meyer 
+Youtube ID: 	zFG26Vb61fQ 
+Video length: 	231.9 sec 
+Set (V): 		dev 
+ 
+Breckin_Meyer/zFG26Vb61fQ_0000001 119.0 129.2 
+Breckin_Meyer/zFG26Vb61fQ_0000002 209.6 215.6 
+Breckin_Meyer/zFG26Vb61fQ_0000003 217.7 224.6 

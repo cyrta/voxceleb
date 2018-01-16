@@ -1,0 +1,9 @@
+POI: 			Caitriona_Balfe 
+Youtube ID: 	1r_3SEOWgb8 
+Video length: 	590.9 sec 
+Set (V): 		dev 
+ 
+Caitriona_Balfe/1r_3SEOWgb8_0000001 10.8 15.4 
+Caitriona_Balfe/1r_3SEOWgb8_0000002 74.2 80.0 
+Caitriona_Balfe/1r_3SEOWgb8_0000003 128.2 132.7 
+Caitriona_Balfe/1r_3SEOWgb8_0000004 133.5 139.4 

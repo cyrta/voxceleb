@@ -1,0 +1,12 @@
+POI: 			Efren_Ramirez 
+Youtube ID: 	PQHz4fGHPK8 
+Video length: 	168.2 sec 
+Set (V): 		test 
+ 
+Efren_Ramirez/PQHz4fGHPK8_0000001 22.2 34.5 
+Efren_Ramirez/PQHz4fGHPK8_0000002 42.2 48.6 
+Efren_Ramirez/PQHz4fGHPK8_0000003 48.9 60.2 
+Efren_Ramirez/PQHz4fGHPK8_0000004 60.9 66.6 
+Efren_Ramirez/PQHz4fGHPK8_0000005 91.8 103.4 
+Efren_Ramirez/PQHz4fGHPK8_0000006 107.9 116.7 
+Efren_Ramirez/PQHz4fGHPK8_0000007 119.4 132.2 

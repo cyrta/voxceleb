@@ -1,0 +1,9 @@
+POI: 			Jared_Leto 
+Youtube ID: 	BRXBzu1qo5I 
+Video length: 	376.7 sec 
+Set (V): 		dev 
+ 
+Jared_Leto/BRXBzu1qo5I_0000001 145.6 161.0 
+Jared_Leto/BRXBzu1qo5I_0000002 170.9 186.2 
+Jared_Leto/BRXBzu1qo5I_0000003 267.3 272.7 
+Jared_Leto/BRXBzu1qo5I_0000004 279.4 286.1 

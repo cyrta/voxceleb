@@ -1,0 +1,22 @@
+POI: 			Roshon_Fegan 
+Youtube ID: 	PpUmNsKnClc 
+Video length: 	650.1 sec 
+Set (V): 		dev 
+ 
+Roshon_Fegan/PpUmNsKnClc_0000001 39.1 44.0 
+Roshon_Fegan/PpUmNsKnClc_0000002 70.2 77.8 
+Roshon_Fegan/PpUmNsKnClc_0000003 80.6 84.9 
+Roshon_Fegan/PpUmNsKnClc_0000004 85.8 94.7 
+Roshon_Fegan/PpUmNsKnClc_0000005 95.0 101.0 
+Roshon_Fegan/PpUmNsKnClc_0000006 237.1 242.6 
+Roshon_Fegan/PpUmNsKnClc_0000007 264.0 279.2 
+Roshon_Fegan/PpUmNsKnClc_0000008 279.8 285.1 
+Roshon_Fegan/PpUmNsKnClc_0000009 286.0 292.9 
+Roshon_Fegan/PpUmNsKnClc_0000010 293.1 298.4 
+Roshon_Fegan/PpUmNsKnClc_0000011 374.0 378.3 
+Roshon_Fegan/PpUmNsKnClc_0000012 460.9 469.7 
+Roshon_Fegan/PpUmNsKnClc_0000013 485.6 493.7 
+Roshon_Fegan/PpUmNsKnClc_0000014 495.6 502.6 
+Roshon_Fegan/PpUmNsKnClc_0000015 524.0 530.8 
+Roshon_Fegan/PpUmNsKnClc_0000016 531.2 537.6 
+Roshon_Fegan/PpUmNsKnClc_0000017 625.4 630.6 

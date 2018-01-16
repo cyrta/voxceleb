@@ -1,0 +1,10 @@
+POI: 			Blake_Shelton 
+Youtube ID: 	YOjB3bkUrUA 
+Video length: 	85.0 sec 
+Set (V): 		dev 
+ 
+Blake_Shelton/YOjB3bkUrUA_0000001 15.4 21.6 
+Blake_Shelton/YOjB3bkUrUA_0000002 23.2 31.5 
+Blake_Shelton/YOjB3bkUrUA_0000003 32.7 42.1 
+Blake_Shelton/YOjB3bkUrUA_0000004 42.7 47.2 
+Blake_Shelton/YOjB3bkUrUA_0000005 63.7 68.3 

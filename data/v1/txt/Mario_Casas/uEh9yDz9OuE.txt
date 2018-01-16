@@ -1,0 +1,8 @@
+POI: 			Mario_Casas 
+Youtube ID: 	uEh9yDz9OuE 
+Video length: 	528.2 sec 
+Set (V): 		dev 
+ 
+Mario_Casas/uEh9yDz9OuE_0000001 168.7 174.2 
+Mario_Casas/uEh9yDz9OuE_0000002 174.5 181.5 
+Mario_Casas/uEh9yDz9OuE_0000003 187.4 192.6 

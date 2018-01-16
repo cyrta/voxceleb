@@ -1,0 +1,40 @@
+POI: 			Ian_Somerhalder 
+Youtube ID: 	LrBefvUxHsQ 
+Video length: 	1555.1 sec 
+Set (V): 		dev 
+ 
+Ian_Somerhalder/LrBefvUxHsQ_0000001 72.8 105.0 
+Ian_Somerhalder/LrBefvUxHsQ_0000002 131.5 145.8 
+Ian_Somerhalder/LrBefvUxHsQ_0000003 149.3 174.1 
+Ian_Somerhalder/LrBefvUxHsQ_0000004 220.3 224.5 
+Ian_Somerhalder/LrBefvUxHsQ_0000005 290.2 294.7 
+Ian_Somerhalder/LrBefvUxHsQ_0000006 295.8 322.8 
+Ian_Somerhalder/LrBefvUxHsQ_0000007 336.9 347.4 
+Ian_Somerhalder/LrBefvUxHsQ_0000008 350.5 356.0 
+Ian_Somerhalder/LrBefvUxHsQ_0000009 361.0 381.1 
+Ian_Somerhalder/LrBefvUxHsQ_0000010 407.9 420.5 
+Ian_Somerhalder/LrBefvUxHsQ_0000011 424.2 432.7 
+Ian_Somerhalder/LrBefvUxHsQ_0000012 433.4 462.6 
+Ian_Somerhalder/LrBefvUxHsQ_0000013 505.7 513.5 
+Ian_Somerhalder/LrBefvUxHsQ_0000014 522.9 530.1 
+Ian_Somerhalder/LrBefvUxHsQ_0000015 535.8 554.1 
+Ian_Somerhalder/LrBefvUxHsQ_0000016 608.9 616.3 
+Ian_Somerhalder/LrBefvUxHsQ_0000017 681.8 695.0 
+Ian_Somerhalder/LrBefvUxHsQ_0000018 697.0 703.5 
+Ian_Somerhalder/LrBefvUxHsQ_0000019 704.6 708.9 
+Ian_Somerhalder/LrBefvUxHsQ_0000020 709.2 715.1 
+Ian_Somerhalder/LrBefvUxHsQ_0000021 809.8 814.8 
+Ian_Somerhalder/LrBefvUxHsQ_0000022 817.5 830.0 
+Ian_Somerhalder/LrBefvUxHsQ_0000023 875.6 880.3 
+Ian_Somerhalder/LrBefvUxHsQ_0000024 881.8 888.6 
+Ian_Somerhalder/LrBefvUxHsQ_0000025 961.4 965.4 
+Ian_Somerhalder/LrBefvUxHsQ_0000026 1020.1 1030.7 
+Ian_Somerhalder/LrBefvUxHsQ_0000027 1031.1 1035.1 
+Ian_Somerhalder/LrBefvUxHsQ_0000028 1039.4 1059.1 
+Ian_Somerhalder/LrBefvUxHsQ_0000029 1111.3 1116.0 
+Ian_Somerhalder/LrBefvUxHsQ_0000030 1123.3 1131.1 
+Ian_Somerhalder/LrBefvUxHsQ_0000031 1135.2 1144.8 
+Ian_Somerhalder/LrBefvUxHsQ_0000032 1236.8 1251.8 
+Ian_Somerhalder/LrBefvUxHsQ_0000033 1482.5 1490.2 
+Ian_Somerhalder/LrBefvUxHsQ_0000034 1491.0 1497.5 
+Ian_Somerhalder/LrBefvUxHsQ_0000035 1503.6 1516.4 

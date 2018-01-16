@@ -1,0 +1,13 @@
+POI: 			Ang_Lee 
+Youtube ID: 	8UMexHeqYH0 
+Video length: 	386.8 sec 
+Set (V): 		dev 
+ 
+Ang_Lee/8UMexHeqYH0_0000001 29.6 36.9 
+Ang_Lee/8UMexHeqYH0_0000002 45.6 49.8 
+Ang_Lee/8UMexHeqYH0_0000003 50.6 55.4 
+Ang_Lee/8UMexHeqYH0_0000004 59.4 65.9 
+Ang_Lee/8UMexHeqYH0_0000005 81.0 86.4 
+Ang_Lee/8UMexHeqYH0_0000006 264.6 270.7 
+Ang_Lee/8UMexHeqYH0_0000007 300.1 304.6 
+Ang_Lee/8UMexHeqYH0_0000008 317.6 323.4 

@@ -1,0 +1,21 @@
+POI: 			Taylor_Swift 
+Youtube ID: 	KqSl5C8Zlfc 
+Video length: 	485.9 sec 
+Set (V): 		dev 
+ 
+Taylor_Swift/KqSl5C8Zlfc_0000001 40.4 48.4 
+Taylor_Swift/KqSl5C8Zlfc_0000002 61.4 67.9 
+Taylor_Swift/KqSl5C8Zlfc_0000003 105.4 109.6 
+Taylor_Swift/KqSl5C8Zlfc_0000004 113.0 129.1 
+Taylor_Swift/KqSl5C8Zlfc_0000005 125.3 131.7 
+Taylor_Swift/KqSl5C8Zlfc_0000006 166.9 173.6 
+Taylor_Swift/KqSl5C8Zlfc_0000007 173.7 188.2 
+Taylor_Swift/KqSl5C8Zlfc_0000008 195.3 203.6 
+Taylor_Swift/KqSl5C8Zlfc_0000009 208.9 216.3 
+Taylor_Swift/KqSl5C8Zlfc_0000010 220.9 235.6 
+Taylor_Swift/KqSl5C8Zlfc_0000011 261.4 268.0 
+Taylor_Swift/KqSl5C8Zlfc_0000012 341.8 351.9 
+Taylor_Swift/KqSl5C8Zlfc_0000013 370.8 381.4 
+Taylor_Swift/KqSl5C8Zlfc_0000014 397.8 409.5 
+Taylor_Swift/KqSl5C8Zlfc_0000015 434.1 440.0 
+Taylor_Swift/KqSl5C8Zlfc_0000016 446.1 458.9 

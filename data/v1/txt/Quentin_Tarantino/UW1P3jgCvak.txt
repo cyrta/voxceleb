@@ -1,0 +1,8 @@
+POI: 			Quentin_Tarantino 
+Youtube ID: 	UW1P3jgCvak 
+Video length: 	157.0 sec 
+Set (V): 		dev 
+ 
+Quentin_Tarantino/UW1P3jgCvak_0000001 09.7 13.8 
+Quentin_Tarantino/UW1P3jgCvak_0000002 14.5 26.4 
+Quentin_Tarantino/UW1P3jgCvak_0000003 58.1 62.9 

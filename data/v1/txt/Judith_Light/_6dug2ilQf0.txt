@@ -1,0 +1,20 @@
+POI: 			Judith_Light 
+Youtube ID: 	_6dug2ilQf0 
+Video length: 	489.6 sec 
+Set (V): 		dev 
+ 
+Judith_Light/_6dug2ilQf0_0000001 18.9 24.7 
+Judith_Light/_6dug2ilQf0_0000002 24.9 35.5 
+Judith_Light/_6dug2ilQf0_0000003 39.8 46.0 
+Judith_Light/_6dug2ilQf0_0000004 115.9 123.0 
+Judith_Light/_6dug2ilQf0_0000005 123.5 127.8 
+Judith_Light/_6dug2ilQf0_0000006 199.0 212.2 
+Judith_Light/_6dug2ilQf0_0000007 212.3 217.1 
+Judith_Light/_6dug2ilQf0_0000008 223.8 229.0 
+Judith_Light/_6dug2ilQf0_0000009 231.2 235.9 
+Judith_Light/_6dug2ilQf0_0000010 238.1 243.8 
+Judith_Light/_6dug2ilQf0_0000011 244.1 251.0 
+Judith_Light/_6dug2ilQf0_0000012 258.3 264.9 
+Judith_Light/_6dug2ilQf0_0000013 378.3 382.8 
+Judith_Light/_6dug2ilQf0_0000014 394.9 399.6 
+Judith_Light/_6dug2ilQf0_0000015 432.3 438.8 

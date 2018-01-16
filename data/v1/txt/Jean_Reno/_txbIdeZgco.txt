@@ -1,0 +1,8 @@
+POI: 			Jean_Reno 
+Youtube ID: 	_txbIdeZgco 
+Video length: 	239.3 sec 
+Set (V): 		dev 
+ 
+Jean_Reno/_txbIdeZgco_0000001 18.4 23.7 
+Jean_Reno/_txbIdeZgco_0000002 59.8 64.5 
+Jean_Reno/_txbIdeZgco_0000003 66.6 72.8 

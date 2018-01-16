@@ -1,0 +1,11 @@
+POI: 			Robbie_Kay 
+Youtube ID: 	RaMFxIg5tO8 
+Video length: 	502.9 sec 
+Set (V): 		dev 
+ 
+Robbie_Kay/RaMFxIg5tO8_0000001 98.2 108.4 
+Robbie_Kay/RaMFxIg5tO8_0000002 297.8 303.8 
+Robbie_Kay/RaMFxIg5tO8_0000003 376.5 383.1 
+Robbie_Kay/RaMFxIg5tO8_0000004 376.8 385.2 
+Robbie_Kay/RaMFxIg5tO8_0000005 389.5 396.2 
+Robbie_Kay/RaMFxIg5tO8_0000006 463.6 468.9 

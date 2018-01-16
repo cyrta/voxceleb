@@ -1,0 +1,13 @@
+POI: 			Seth_MacFarlane 
+Youtube ID: 	fYCsraSX67k 
+Video length: 	346.9 sec 
+Set (V): 		dev 
+ 
+Seth_MacFarlane/fYCsraSX67k_0000001 70.8 82.2 
+Seth_MacFarlane/fYCsraSX67k_0000002 116.0 121.8 
+Seth_MacFarlane/fYCsraSX67k_0000003 157.9 164.2 
+Seth_MacFarlane/fYCsraSX67k_0000004 189.3 203.4 
+Seth_MacFarlane/fYCsraSX67k_0000005 219.0 224.4 
+Seth_MacFarlane/fYCsraSX67k_0000006 269.5 291.3 
+Seth_MacFarlane/fYCsraSX67k_0000007 316.3 322.8 
+Seth_MacFarlane/fYCsraSX67k_0000008 323.0 328.2 

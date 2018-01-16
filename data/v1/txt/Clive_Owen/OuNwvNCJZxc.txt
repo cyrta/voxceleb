@@ -1,0 +1,18 @@
+POI: 			Clive_Owen 
+Youtube ID: 	OuNwvNCJZxc 
+Video length: 	175.1 sec 
+Set (V): 		dev 
+ 
+Clive_Owen/OuNwvNCJZxc_0000001 09.8 15.0 
+Clive_Owen/OuNwvNCJZxc_0000002 20.8 25.1 
+Clive_Owen/OuNwvNCJZxc_0000003 25.8 30.0 
+Clive_Owen/OuNwvNCJZxc_0000004 54.4 59.0 
+Clive_Owen/OuNwvNCJZxc_0000005 69.3 76.9 
+Clive_Owen/OuNwvNCJZxc_0000006 77.4 81.9 
+Clive_Owen/OuNwvNCJZxc_0000007 87.4 96.3 
+Clive_Owen/OuNwvNCJZxc_0000008 97.0 101.1 
+Clive_Owen/OuNwvNCJZxc_0000009 103.6 113.5 
+Clive_Owen/OuNwvNCJZxc_0000010 122.0 127.6 
+Clive_Owen/OuNwvNCJZxc_0000011 131.0 137.1 
+Clive_Owen/OuNwvNCJZxc_0000012 138.1 151.6 
+Clive_Owen/OuNwvNCJZxc_0000013 152.2 163.7 

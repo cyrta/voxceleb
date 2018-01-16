@@ -1,0 +1,10 @@
+POI: 			Misha_Collins 
+Youtube ID: 	xkdEUSzf6Vs 
+Video length: 	294.4 sec 
+Set (V): 		dev 
+ 
+Misha_Collins/xkdEUSzf6Vs_0000001 84.5 102.0 
+Misha_Collins/xkdEUSzf6Vs_0000002 203.9 208.8 
+Misha_Collins/xkdEUSzf6Vs_0000003 208.6 213.3 
+Misha_Collins/xkdEUSzf6Vs_0000004 215.2 222.0 
+Misha_Collins/xkdEUSzf6Vs_0000005 222.0 229.4 

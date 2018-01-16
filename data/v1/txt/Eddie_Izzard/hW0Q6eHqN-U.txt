@@ -1,0 +1,17 @@
+POI: 			Eddie_Izzard 
+Youtube ID: 	hW0Q6eHqN-U 
+Video length: 	899.4 sec 
+Set (V): 		test 
+ 
+Eddie_Izzard/hW0Q6eHqN-U_0000001 91.1 96.0 
+Eddie_Izzard/hW0Q6eHqN-U_0000002 149.1 153.4 
+Eddie_Izzard/hW0Q6eHqN-U_0000003 153.5 160.4 
+Eddie_Izzard/hW0Q6eHqN-U_0000004 209.6 221.0 
+Eddie_Izzard/hW0Q6eHqN-U_0000005 231.0 241.2 
+Eddie_Izzard/hW0Q6eHqN-U_0000006 413.3 425.9 
+Eddie_Izzard/hW0Q6eHqN-U_0000007 437.8 449.6 
+Eddie_Izzard/hW0Q6eHqN-U_0000008 487.2 494.7 
+Eddie_Izzard/hW0Q6eHqN-U_0000009 515.6 520.3 
+Eddie_Izzard/hW0Q6eHqN-U_0000010 528.3 533.2 
+Eddie_Izzard/hW0Q6eHqN-U_0000011 588.3 594.2 
+Eddie_Izzard/hW0Q6eHqN-U_0000012 594.7 600.4 

@@ -1,0 +1,9 @@
+POI: 			Will_Mellor 
+Youtube ID: 	3u1FSQiywhU 
+Video length: 	57.5 sec 
+Set (V): 		dev 
+ 
+Will_Mellor/3u1FSQiywhU_0000001 10.8 17.8 
+Will_Mellor/3u1FSQiywhU_0000002 22.4 31.7 
+Will_Mellor/3u1FSQiywhU_0000003 28.6 35.2 
+Will_Mellor/3u1FSQiywhU_0000004 39.8 51.5 

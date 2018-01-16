@@ -1,0 +1,10 @@
+POI: 			Claudia_Lee 
+Youtube ID: 	NULypZ8NIUA 
+Video length: 	246.5 sec 
+Set (V): 		dev 
+ 
+Claudia_Lee/NULypZ8NIUA_0000001 36.1 43.9 
+Claudia_Lee/NULypZ8NIUA_0000002 84.7 92.2 
+Claudia_Lee/NULypZ8NIUA_0000003 93.0 97.1 
+Claudia_Lee/NULypZ8NIUA_0000004 111.4 118.7 
+Claudia_Lee/NULypZ8NIUA_0000005 134.8 144.9 

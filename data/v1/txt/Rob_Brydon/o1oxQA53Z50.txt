@@ -1,0 +1,12 @@
+POI: 			Rob_Brydon 
+Youtube ID: 	o1oxQA53Z50 
+Video length: 	533.2 sec 
+Set (V): 		dev 
+ 
+Rob_Brydon/o1oxQA53Z50_0000001 186.4 190.7 
+Rob_Brydon/o1oxQA53Z50_0000002 241.8 248.9 
+Rob_Brydon/o1oxQA53Z50_0000003 270.1 275.1 
+Rob_Brydon/o1oxQA53Z50_0000004 279.9 284.2 
+Rob_Brydon/o1oxQA53Z50_0000005 343.5 348.8 
+Rob_Brydon/o1oxQA53Z50_0000006 353.9 361.2 
+Rob_Brydon/o1oxQA53Z50_0000007 400.8 409.8 

@@ -1,0 +1,9 @@
+POI: 			Guy_Pearce 
+Youtube ID: 	Efg0QfuQgFg 
+Video length: 	676.0 sec 
+Set (V): 		dev 
+ 
+Guy_Pearce/Efg0QfuQgFg_0000001 74.6 80.9 
+Guy_Pearce/Efg0QfuQgFg_0000002 226.7 231.2 
+Guy_Pearce/Efg0QfuQgFg_0000003 231.4 242.8 
+Guy_Pearce/Efg0QfuQgFg_0000004 386.8 394.2 

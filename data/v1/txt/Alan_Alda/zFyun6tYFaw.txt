@@ -1,0 +1,10 @@
+POI: 			Alan_Alda 
+Youtube ID: 	zFyun6tYFaw 
+Video length: 	105.5 sec 
+Set (V): 		dev 
+ 
+Alan_Alda/zFyun6tYFaw_0000001 03.7 18.1 
+Alan_Alda/zFyun6tYFaw_0000002 27.0 32.3 
+Alan_Alda/zFyun6tYFaw_0000003 33.6 43.9 
+Alan_Alda/zFyun6tYFaw_0000004 45.2 56.0 
+Alan_Alda/zFyun6tYFaw_0000005 57.7 73.4 

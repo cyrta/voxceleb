@@ -1,0 +1,9 @@
+POI: 			Jesse_Williams 
+Youtube ID: 	HeRIUPlxlv4 
+Video length: 	159.1 sec 
+Set (V): 		dev 
+ 
+Jesse_Williams/HeRIUPlxlv4_0000001 09.6 16.3 
+Jesse_Williams/HeRIUPlxlv4_0000002 24.4 31.9 
+Jesse_Williams/HeRIUPlxlv4_0000003 51.3 57.6 
+Jesse_Williams/HeRIUPlxlv4_0000004 80.2 86.1 

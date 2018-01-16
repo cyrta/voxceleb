@@ -1,0 +1,11 @@
+POI: 			Rami_Malek 
+Youtube ID: 	iZGfSW4XV_o 
+Video length: 	264.6 sec 
+Set (V): 		dev 
+ 
+Rami_Malek/iZGfSW4XV_o_0000001 20.8 25.0 
+Rami_Malek/iZGfSW4XV_o_0000002 86.9 95.1 
+Rami_Malek/iZGfSW4XV_o_0000003 96.1 100.6 
+Rami_Malek/iZGfSW4XV_o_0000004 106.4 110.8 
+Rami_Malek/iZGfSW4XV_o_0000005 159.2 178.0 
+Rami_Malek/iZGfSW4XV_o_0000006 187.8 195.5 

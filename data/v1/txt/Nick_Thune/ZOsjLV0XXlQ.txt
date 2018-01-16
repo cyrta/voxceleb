@@ -1,0 +1,12 @@
+POI: 			Nick_Thune 
+Youtube ID: 	ZOsjLV0XXlQ 
+Video length: 	175.1 sec 
+Set (V): 		dev 
+ 
+Nick_Thune/ZOsjLV0XXlQ_0000001 13.1 19.6 
+Nick_Thune/ZOsjLV0XXlQ_0000002 20.4 34.2 
+Nick_Thune/ZOsjLV0XXlQ_0000003 64.4 72.1 
+Nick_Thune/ZOsjLV0XXlQ_0000004 79.2 90.8 
+Nick_Thune/ZOsjLV0XXlQ_0000005 95.2 99.4 
+Nick_Thune/ZOsjLV0XXlQ_0000006 105.5 111.9 
+Nick_Thune/ZOsjLV0XXlQ_0000007 135.7 141.8 

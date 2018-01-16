@@ -1,0 +1,8 @@
+POI: 			Gina_Carano 
+Youtube ID: 	jwBJ_-P35Pg 
+Video length: 	204.9 sec 
+Set (V): 		dev 
+ 
+Gina_Carano/jwBJ_-P35Pg_0000001 42.0 46.4 
+Gina_Carano/jwBJ_-P35Pg_0000002 87.6 92.3 
+Gina_Carano/jwBJ_-P35Pg_0000003 106.4 114.4 

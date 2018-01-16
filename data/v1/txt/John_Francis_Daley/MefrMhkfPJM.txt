@@ -1,0 +1,11 @@
+POI: 			John_Francis_Daley 
+Youtube ID: 	MefrMhkfPJM 
+Video length: 	230.6 sec 
+Set (V): 		dev 
+ 
+John_Francis_Daley/MefrMhkfPJM_0000001 16.7 24.1 
+John_Francis_Daley/MefrMhkfPJM_0000002 50.3 54.9 
+John_Francis_Daley/MefrMhkfPJM_0000003 89.8 95.4 
+John_Francis_Daley/MefrMhkfPJM_0000004 117.2 125.0 
+John_Francis_Daley/MefrMhkfPJM_0000005 176.1 180.7 
+John_Francis_Daley/MefrMhkfPJM_0000006 199.1 206.2 

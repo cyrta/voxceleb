@@ -1,0 +1,26 @@
+POI: 			Josh_Groban 
+Youtube ID: 	xyUg7NKPf5c 
+Video length: 	476.6 sec 
+Set (V): 		dev 
+ 
+Josh_Groban/xyUg7NKPf5c_0000001 63.4 70.8 
+Josh_Groban/xyUg7NKPf5c_0000002 71.8 76.7 
+Josh_Groban/xyUg7NKPf5c_0000003 77.6 84.7 
+Josh_Groban/xyUg7NKPf5c_0000004 88.4 93.2 
+Josh_Groban/xyUg7NKPf5c_0000005 106.7 113.8 
+Josh_Groban/xyUg7NKPf5c_0000006 120.5 132.4 
+Josh_Groban/xyUg7NKPf5c_0000007 153.4 159.5 
+Josh_Groban/xyUg7NKPf5c_0000008 160.6 178.1 
+Josh_Groban/xyUg7NKPf5c_0000009 178.8 185.4 
+Josh_Groban/xyUg7NKPf5c_0000010 192.3 200.2 
+Josh_Groban/xyUg7NKPf5c_0000011 201.0 205.0 
+Josh_Groban/xyUg7NKPf5c_0000012 257.4 265.2 
+Josh_Groban/xyUg7NKPf5c_0000013 265.6 270.2 
+Josh_Groban/xyUg7NKPf5c_0000014 271.2 276.6 
+Josh_Groban/xyUg7NKPf5c_0000015 277.7 284.2 
+Josh_Groban/xyUg7NKPf5c_0000016 313.9 323.4 
+Josh_Groban/xyUg7NKPf5c_0000017 332.4 341.2 
+Josh_Groban/xyUg7NKPf5c_0000018 341.4 349.2 
+Josh_Groban/xyUg7NKPf5c_0000019 362.4 378.0 
+Josh_Groban/xyUg7NKPf5c_0000020 392.0 402.5 
+Josh_Groban/xyUg7NKPf5c_0000021 432.4 438.2 

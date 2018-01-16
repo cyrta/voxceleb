@@ -1,0 +1,8 @@
+POI: 			Scott_Porter 
+Youtube ID: 	wPT2Qx5JpF0 
+Video length: 	52.2 sec 
+Set (V): 		dev 
+ 
+Scott_Porter/wPT2Qx5JpF0_0000001 03.8 13.1 
+Scott_Porter/wPT2Qx5JpF0_0000002 13.4 26.5 
+Scott_Porter/wPT2Qx5JpF0_0000003 31.8 50.7 

@@ -1,0 +1,11 @@
+POI: 			Samuel_L._Jackson 
+Youtube ID: 	uHhSyJkmjUs 
+Video length: 	314.4 sec 
+Set (V): 		dev 
+ 
+Samuel_L._Jackson/uHhSyJkmjUs_0000001 110.2 114.4 
+Samuel_L._Jackson/uHhSyJkmjUs_0000002 186.1 192.1 
+Samuel_L._Jackson/uHhSyJkmjUs_0000003 215.3 220.3 
+Samuel_L._Jackson/uHhSyJkmjUs_0000004 236.4 249.8 
+Samuel_L._Jackson/uHhSyJkmjUs_0000005 265.3 269.7 
+Samuel_L._Jackson/uHhSyJkmjUs_0000006 276.2 281.2 

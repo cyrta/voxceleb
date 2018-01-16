@@ -1,0 +1,15 @@
+POI: 			Steve_Jobs 
+Youtube ID: 	SaJp66ArJVI 
+Video length: 	272.1 sec 
+Set (V): 		dev 
+ 
+Steve_Jobs/SaJp66ArJVI_0000001 18.3 36.9 
+Steve_Jobs/SaJp66ArJVI_0000002 40.7 46.3 
+Steve_Jobs/SaJp66ArJVI_0000003 74.2 82.0 
+Steve_Jobs/SaJp66ArJVI_0000004 82.7 89.3 
+Steve_Jobs/SaJp66ArJVI_0000005 94.3 117.2 
+Steve_Jobs/SaJp66ArJVI_0000006 134.6 141.1 
+Steve_Jobs/SaJp66ArJVI_0000007 141.3 149.5 
+Steve_Jobs/SaJp66ArJVI_0000008 158.8 164.2 
+Steve_Jobs/SaJp66ArJVI_0000009 204.0 221.0 
+Steve_Jobs/SaJp66ArJVI_0000010 228.5 236.6 

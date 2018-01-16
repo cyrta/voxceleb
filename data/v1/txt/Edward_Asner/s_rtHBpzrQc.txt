@@ -1,0 +1,13 @@
+POI: 			Edward_Asner 
+Youtube ID: 	s_rtHBpzrQc 
+Video length: 	353.7 sec 
+Set (V): 		test 
+ 
+Edward_Asner/s_rtHBpzrQc_0000001 175.9 180.0 
+Edward_Asner/s_rtHBpzrQc_0000002 236.0 244.2 
+Edward_Asner/s_rtHBpzrQc_0000003 255.1 262.8 
+Edward_Asner/s_rtHBpzrQc_0000004 268.3 274.1 
+Edward_Asner/s_rtHBpzrQc_0000005 282.8 287.2 
+Edward_Asner/s_rtHBpzrQc_0000006 290.5 300.3 
+Edward_Asner/s_rtHBpzrQc_0000007 310.2 314.3 
+Edward_Asner/s_rtHBpzrQc_0000008 323.4 331.0 

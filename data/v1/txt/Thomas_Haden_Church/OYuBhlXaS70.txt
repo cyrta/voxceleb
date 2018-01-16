@@ -1,0 +1,14 @@
+POI: 			Thomas_Haden_Church 
+Youtube ID: 	OYuBhlXaS70 
+Video length: 	333.9 sec 
+Set (V): 		dev 
+ 
+Thomas_Haden_Church/OYuBhlXaS70_0000001 82.7 90.2 
+Thomas_Haden_Church/OYuBhlXaS70_0000002 114.2 125.2 
+Thomas_Haden_Church/OYuBhlXaS70_0000003 134.1 150.0 
+Thomas_Haden_Church/OYuBhlXaS70_0000004 163.0 167.0 
+Thomas_Haden_Church/OYuBhlXaS70_0000005 167.2 172.6 
+Thomas_Haden_Church/OYuBhlXaS70_0000006 174.6 181.5 
+Thomas_Haden_Church/OYuBhlXaS70_0000007 239.9 248.2 
+Thomas_Haden_Church/OYuBhlXaS70_0000008 254.8 262.4 
+Thomas_Haden_Church/OYuBhlXaS70_0000009 264.5 273.4 

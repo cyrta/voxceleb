@@ -1,0 +1,15 @@
+POI: 			Elaine_Hendrix 
+Youtube ID: 	1CiBWgsHT4E 
+Video length: 	198.3 sec 
+Set (V): 		test 
+ 
+Elaine_Hendrix/1CiBWgsHT4E_0000001 19.8 27.3 
+Elaine_Hendrix/1CiBWgsHT4E_0000002 52.7 56.7 
+Elaine_Hendrix/1CiBWgsHT4E_0000003 63.0 72.2 
+Elaine_Hendrix/1CiBWgsHT4E_0000004 76.3 86.7 
+Elaine_Hendrix/1CiBWgsHT4E_0000005 89.0 93.4 
+Elaine_Hendrix/1CiBWgsHT4E_0000006 103.1 109.9 
+Elaine_Hendrix/1CiBWgsHT4E_0000007 122.2 135.2 
+Elaine_Hendrix/1CiBWgsHT4E_0000008 135.8 143.0 
+Elaine_Hendrix/1CiBWgsHT4E_0000009 174.3 179.5 
+Elaine_Hendrix/1CiBWgsHT4E_0000010 179.6 188.6 

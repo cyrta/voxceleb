@@ -1,0 +1,12 @@
+POI: 			Paul_Dano 
+Youtube ID: 	EZiycCVzHpo 
+Video length: 	543.8 sec 
+Set (V): 		dev 
+ 
+Paul_Dano/EZiycCVzHpo_0000001 22.6 35.4 
+Paul_Dano/EZiycCVzHpo_0000002 42.3 49.2 
+Paul_Dano/EZiycCVzHpo_0000003 58.1 63.5 
+Paul_Dano/EZiycCVzHpo_0000004 352.8 366.7 
+Paul_Dano/EZiycCVzHpo_0000005 458.8 465.4 
+Paul_Dano/EZiycCVzHpo_0000006 512.7 519.9 
+Paul_Dano/EZiycCVzHpo_0000007 524.6 532.6 

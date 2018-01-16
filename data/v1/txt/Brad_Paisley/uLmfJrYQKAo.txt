@@ -1,0 +1,19 @@
+POI: 			Brad_Paisley 
+Youtube ID: 	uLmfJrYQKAo 
+Video length: 	355.9 sec 
+Set (V): 		dev 
+ 
+Brad_Paisley/uLmfJrYQKAo_0000001 13.6 20.0 
+Brad_Paisley/uLmfJrYQKAo_0000002 29.9 34.3 
+Brad_Paisley/uLmfJrYQKAo_0000003 37.0 42.1 
+Brad_Paisley/uLmfJrYQKAo_0000004 67.1 75.2 
+Brad_Paisley/uLmfJrYQKAo_0000005 132.5 139.5 
+Brad_Paisley/uLmfJrYQKAo_0000006 194.6 198.9 
+Brad_Paisley/uLmfJrYQKAo_0000007 202.0 206.0 
+Brad_Paisley/uLmfJrYQKAo_0000008 210.4 218.7 
+Brad_Paisley/uLmfJrYQKAo_0000009 242.7 248.2 
+Brad_Paisley/uLmfJrYQKAo_0000010 304.2 308.6 
+Brad_Paisley/uLmfJrYQKAo_0000011 315.3 322.0 
+Brad_Paisley/uLmfJrYQKAo_0000012 323.7 329.1 
+Brad_Paisley/uLmfJrYQKAo_0000013 331.2 338.2 
+Brad_Paisley/uLmfJrYQKAo_0000014 339.5 346.3 

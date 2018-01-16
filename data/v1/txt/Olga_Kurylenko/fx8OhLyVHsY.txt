@@ -1,0 +1,10 @@
+POI: 			Olga_Kurylenko 
+Youtube ID: 	fx8OhLyVHsY 
+Video length: 	190.9 sec 
+Set (V): 		dev 
+ 
+Olga_Kurylenko/fx8OhLyVHsY_0000001 26.4 41.0 
+Olga_Kurylenko/fx8OhLyVHsY_0000002 45.9 56.4 
+Olga_Kurylenko/fx8OhLyVHsY_0000003 73.5 81.2 
+Olga_Kurylenko/fx8OhLyVHsY_0000004 125.5 135.8 
+Olga_Kurylenko/fx8OhLyVHsY_0000005 159.0 166.0 

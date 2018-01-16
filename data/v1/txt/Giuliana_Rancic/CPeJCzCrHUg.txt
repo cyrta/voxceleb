@@ -1,0 +1,14 @@
+POI: 			Giuliana_Rancic 
+Youtube ID: 	CPeJCzCrHUg 
+Video length: 	320.1 sec 
+Set (V): 		dev 
+ 
+Giuliana_Rancic/CPeJCzCrHUg_0000001 13.9 22.8 
+Giuliana_Rancic/CPeJCzCrHUg_0000002 23.2 42.1 
+Giuliana_Rancic/CPeJCzCrHUg_0000003 42.2 67.5 
+Giuliana_Rancic/CPeJCzCrHUg_0000004 74.4 101.0 
+Giuliana_Rancic/CPeJCzCrHUg_0000005 156.0 168.2 
+Giuliana_Rancic/CPeJCzCrHUg_0000006 181.1 188.1 
+Giuliana_Rancic/CPeJCzCrHUg_0000007 182.4 198.6 
+Giuliana_Rancic/CPeJCzCrHUg_0000008 199.4 204.8 
+Giuliana_Rancic/CPeJCzCrHUg_0000009 274.5 304.2 

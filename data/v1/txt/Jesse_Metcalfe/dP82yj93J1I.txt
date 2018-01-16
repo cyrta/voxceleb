@@ -1,0 +1,15 @@
+POI: 			Jesse_Metcalfe 
+Youtube ID: 	dP82yj93J1I 
+Video length: 	210.5 sec 
+Set (V): 		dev 
+ 
+Jesse_Metcalfe/dP82yj93J1I_0000001 19.5 35.9 
+Jesse_Metcalfe/dP82yj93J1I_0000002 51.8 60.6 
+Jesse_Metcalfe/dP82yj93J1I_0000003 62.2 67.5 
+Jesse_Metcalfe/dP82yj93J1I_0000004 90.9 100.2 
+Jesse_Metcalfe/dP82yj93J1I_0000005 123.8 129.2 
+Jesse_Metcalfe/dP82yj93J1I_0000006 147.9 153.0 
+Jesse_Metcalfe/dP82yj93J1I_0000007 154.2 158.8 
+Jesse_Metcalfe/dP82yj93J1I_0000008 159.1 166.2 
+Jesse_Metcalfe/dP82yj93J1I_0000009 173.2 180.8 
+Jesse_Metcalfe/dP82yj93J1I_0000010 199.6 206.8 

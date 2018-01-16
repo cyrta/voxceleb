@@ -1,0 +1,11 @@
+POI: 			Zac_Efron 
+Youtube ID: 	t7NVheGULyo 
+Video length: 	545.6 sec 
+Set (V): 		dev 
+ 
+Zac_Efron/t7NVheGULyo_0000001 132.1 139.1 
+Zac_Efron/t7NVheGULyo_0000002 202.3 206.4 
+Zac_Efron/t7NVheGULyo_0000003 212.0 218.7 
+Zac_Efron/t7NVheGULyo_0000004 365.8 372.6 
+Zac_Efron/t7NVheGULyo_0000005 373.6 382.1 
+Zac_Efron/t7NVheGULyo_0000006 386.0 397.2 

@@ -1,0 +1,21 @@
+POI: 			Carrie_Fisher 
+Youtube ID: 	EMv8XyJFcik 
+Video length: 	670.0 sec 
+Set (V): 		dev 
+ 
+Carrie_Fisher/EMv8XyJFcik_0000001 144.7 149.6 
+Carrie_Fisher/EMv8XyJFcik_0000002 171.8 176.4 
+Carrie_Fisher/EMv8XyJFcik_0000003 253.7 259.6 
+Carrie_Fisher/EMv8XyJFcik_0000004 297.0 301.8 
+Carrie_Fisher/EMv8XyJFcik_0000005 334.1 341.3 
+Carrie_Fisher/EMv8XyJFcik_0000006 367.8 372.2 
+Carrie_Fisher/EMv8XyJFcik_0000007 400.2 407.0 
+Carrie_Fisher/EMv8XyJFcik_0000008 409.0 413.0 
+Carrie_Fisher/EMv8XyJFcik_0000009 422.9 429.0 
+Carrie_Fisher/EMv8XyJFcik_0000010 457.1 464.0 
+Carrie_Fisher/EMv8XyJFcik_0000011 464.4 468.9 
+Carrie_Fisher/EMv8XyJFcik_0000012 520.2 525.9 
+Carrie_Fisher/EMv8XyJFcik_0000013 530.2 534.5 
+Carrie_Fisher/EMv8XyJFcik_0000014 573.2 578.6 
+Carrie_Fisher/EMv8XyJFcik_0000015 601.4 607.6 
+Carrie_Fisher/EMv8XyJFcik_0000016 636.6 644.6 

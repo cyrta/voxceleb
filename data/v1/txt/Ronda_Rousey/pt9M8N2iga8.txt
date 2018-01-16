@@ -1,0 +1,13 @@
+POI: 			Ronda_Rousey 
+Youtube ID: 	pt9M8N2iga8 
+Video length: 	255.3 sec 
+Set (V): 		dev 
+ 
+Ronda_Rousey/pt9M8N2iga8_0000001 08.8 26.4 
+Ronda_Rousey/pt9M8N2iga8_0000002 73.6 87.4 
+Ronda_Rousey/pt9M8N2iga8_0000003 105.4 113.0 
+Ronda_Rousey/pt9M8N2iga8_0000004 132.4 138.4 
+Ronda_Rousey/pt9M8N2iga8_0000005 147.0 152.9 
+Ronda_Rousey/pt9M8N2iga8_0000006 153.6 165.3 
+Ronda_Rousey/pt9M8N2iga8_0000007 180.6 184.6 
+Ronda_Rousey/pt9M8N2iga8_0000008 225.4 230.4 

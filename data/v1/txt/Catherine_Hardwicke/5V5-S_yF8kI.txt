@@ -1,0 +1,25 @@
+POI: 			Catherine_Hardwicke 
+Youtube ID: 	5V5-S_yF8kI 
+Video length: 	264.5 sec 
+Set (V): 		dev 
+ 
+Catherine_Hardwicke/5V5-S_yF8kI_0000001 08.0 34.1 
+Catherine_Hardwicke/5V5-S_yF8kI_0000002 08.0 13.7 
+Catherine_Hardwicke/5V5-S_yF8kI_0000003 13.9 19.0 
+Catherine_Hardwicke/5V5-S_yF8kI_0000004 39.6 45.7 
+Catherine_Hardwicke/5V5-S_yF8kI_0000005 47.1 58.6 
+Catherine_Hardwicke/5V5-S_yF8kI_0000006 59.5 70.4 
+Catherine_Hardwicke/5V5-S_yF8kI_0000007 84.4 107.8 
+Catherine_Hardwicke/5V5-S_yF8kI_0000008 108.0 112.0 
+Catherine_Hardwicke/5V5-S_yF8kI_0000009 112.3 122.5 
+Catherine_Hardwicke/5V5-S_yF8kI_0000010 86.0 90.5 
+Catherine_Hardwicke/5V5-S_yF8kI_0000011 127.3 131.8 
+Catherine_Hardwicke/5V5-S_yF8kI_0000012 132.2 137.3 
+Catherine_Hardwicke/5V5-S_yF8kI_0000013 142.5 149.2 
+Catherine_Hardwicke/5V5-S_yF8kI_0000014 165.9 174.2 
+Catherine_Hardwicke/5V5-S_yF8kI_0000015 176.9 185.0 
+Catherine_Hardwicke/5V5-S_yF8kI_0000016 201.2 208.1 
+Catherine_Hardwicke/5V5-S_yF8kI_0000017 209.6 219.4 
+Catherine_Hardwicke/5V5-S_yF8kI_0000018 224.6 241.7 
+Catherine_Hardwicke/5V5-S_yF8kI_0000019 241.8 246.4 
+Catherine_Hardwicke/5V5-S_yF8kI_0000020 249.1 260.7 

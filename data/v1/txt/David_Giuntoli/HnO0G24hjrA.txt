@@ -1,0 +1,7 @@
+POI: 			David_Giuntoli 
+Youtube ID: 	HnO0G24hjrA 
+Video length: 	76.0 sec 
+Set (V): 		dev 
+ 
+David_Giuntoli/HnO0G24hjrA_0000001 17.0 24.4 
+David_Giuntoli/HnO0G24hjrA_0000002 37.9 43.1 

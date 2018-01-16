@@ -1,0 +1,9 @@
+POI: 			Grant_Bowler 
+Youtube ID: 	s98tJdoPgIw 
+Video length: 	185.2 sec 
+Set (V): 		dev 
+ 
+Grant_Bowler/s98tJdoPgIw_0000001 98.0 102.5 
+Grant_Bowler/s98tJdoPgIw_0000002 112.0 118.8 
+Grant_Bowler/s98tJdoPgIw_0000003 119.5 126.1 
+Grant_Bowler/s98tJdoPgIw_0000004 129.3 135.4 

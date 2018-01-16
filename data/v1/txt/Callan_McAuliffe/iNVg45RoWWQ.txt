@@ -1,0 +1,13 @@
+POI: 			Callan_McAuliffe 
+Youtube ID: 	iNVg45RoWWQ 
+Video length: 	140.8 sec 
+Set (V): 		dev 
+ 
+Callan_McAuliffe/iNVg45RoWWQ_0000001 37.2 43.1 
+Callan_McAuliffe/iNVg45RoWWQ_0000002 48.7 56.7 
+Callan_McAuliffe/iNVg45RoWWQ_0000003 60.0 64.2 
+Callan_McAuliffe/iNVg45RoWWQ_0000004 66.7 72.5 
+Callan_McAuliffe/iNVg45RoWWQ_0000005 80.3 85.0 
+Callan_McAuliffe/iNVg45RoWWQ_0000006 87.5 94.6 
+Callan_McAuliffe/iNVg45RoWWQ_0000007 102.6 119.8 
+Callan_McAuliffe/iNVg45RoWWQ_0000008 125.3 129.4 

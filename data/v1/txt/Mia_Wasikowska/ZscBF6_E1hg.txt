@@ -1,0 +1,11 @@
+POI: 			Mia_Wasikowska 
+Youtube ID: 	ZscBF6_E1hg 
+Video length: 	123.5 sec 
+Set (V): 		dev 
+ 
+Mia_Wasikowska/ZscBF6_E1hg_0000001 14.4 21.1 
+Mia_Wasikowska/ZscBF6_E1hg_0000002 24.6 31.5 
+Mia_Wasikowska/ZscBF6_E1hg_0000003 48.4 54.0 
+Mia_Wasikowska/ZscBF6_E1hg_0000004 84.0 90.1 
+Mia_Wasikowska/ZscBF6_E1hg_0000005 103.7 109.4 
+Mia_Wasikowska/ZscBF6_E1hg_0000006 110.2 117.9 

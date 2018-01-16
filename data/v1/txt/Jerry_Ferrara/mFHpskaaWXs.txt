@@ -1,0 +1,10 @@
+POI: 			Jerry_Ferrara 
+Youtube ID: 	mFHpskaaWXs 
+Video length: 	580.0 sec 
+Set (V): 		dev 
+ 
+Jerry_Ferrara/mFHpskaaWXs_0000001 122.6 127.8 
+Jerry_Ferrara/mFHpskaaWXs_0000002 233.2 238.1 
+Jerry_Ferrara/mFHpskaaWXs_0000003 347.0 353.3 
+Jerry_Ferrara/mFHpskaaWXs_0000004 405.4 409.9 
+Jerry_Ferrara/mFHpskaaWXs_0000005 479.4 483.4 

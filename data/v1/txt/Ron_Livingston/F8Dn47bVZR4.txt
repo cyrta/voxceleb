@@ -1,0 +1,12 @@
+POI: 			Ron_Livingston 
+Youtube ID: 	F8Dn47bVZR4 
+Video length: 	217.2 sec 
+Set (V): 		dev 
+ 
+Ron_Livingston/F8Dn47bVZR4_0000001 30.5 34.8 
+Ron_Livingston/F8Dn47bVZR4_0000002 40.7 46.4 
+Ron_Livingston/F8Dn47bVZR4_0000003 47.4 52.3 
+Ron_Livingston/F8Dn47bVZR4_0000004 57.2 61.3 
+Ron_Livingston/F8Dn47bVZR4_0000005 114.5 119.2 
+Ron_Livingston/F8Dn47bVZR4_0000006 128.3 132.5 
+Ron_Livingston/F8Dn47bVZR4_0000007 195.2 201.0 

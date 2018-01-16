@@ -1,0 +1,9 @@
+POI: 			Shemar_Moore 
+Youtube ID: 	hUSIudsLXLE 
+Video length: 	70.8 sec 
+Set (V): 		dev 
+ 
+Shemar_Moore/hUSIudsLXLE_0000001 08.6 18.7 
+Shemar_Moore/hUSIudsLXLE_0000002 22.8 27.6 
+Shemar_Moore/hUSIudsLXLE_0000003 28.9 37.8 
+Shemar_Moore/hUSIudsLXLE_0000004 41.4 45.6 

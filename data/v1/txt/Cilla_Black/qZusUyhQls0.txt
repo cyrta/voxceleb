@@ -1,0 +1,15 @@
+POI: 			Cilla_Black 
+Youtube ID: 	qZusUyhQls0 
+Video length: 	342.2 sec 
+Set (V): 		dev 
+ 
+Cilla_Black/qZusUyhQls0_0000001 14.2 33.0 
+Cilla_Black/qZusUyhQls0_0000002 36.3 41.7 
+Cilla_Black/qZusUyhQls0_0000003 41.9 49.0 
+Cilla_Black/qZusUyhQls0_0000004 62.9 69.4 
+Cilla_Black/qZusUyhQls0_0000005 89.8 104.0 
+Cilla_Black/qZusUyhQls0_0000006 145.4 159.2 
+Cilla_Black/qZusUyhQls0_0000007 196.0 204.6 
+Cilla_Black/qZusUyhQls0_0000008 211.0 216.8 
+Cilla_Black/qZusUyhQls0_0000009 275.2 283.5 
+Cilla_Black/qZusUyhQls0_0000010 301.6 308.6 

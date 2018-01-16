@@ -1,0 +1,10 @@
+POI: 			Heike_Makatsch 
+Youtube ID: 	T2x4D3smWQU 
+Video length: 	369.9 sec 
+Set (V): 		dev 
+ 
+Heike_Makatsch/T2x4D3smWQU_0000001 93.6 98.9 
+Heike_Makatsch/T2x4D3smWQU_0000002 99.4 114.8 
+Heike_Makatsch/T2x4D3smWQU_0000003 123.9 130.2 
+Heike_Makatsch/T2x4D3smWQU_0000004 124.0 131.7 
+Heike_Makatsch/T2x4D3smWQU_0000005 233.3 246.6 

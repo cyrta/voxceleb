@@ -1,0 +1,9 @@
+POI: 			Ryan_Ochoa 
+Youtube ID: 	B5eqWq40AtA 
+Video length: 	158.4 sec 
+Set (V): 		dev 
+ 
+Ryan_Ochoa/B5eqWq40AtA_0000001 34.6 40.0 
+Ryan_Ochoa/B5eqWq40AtA_0000002 50.9 54.9 
+Ryan_Ochoa/B5eqWq40AtA_0000003 92.3 98.6 
+Ryan_Ochoa/B5eqWq40AtA_0000004 118.5 123.5 

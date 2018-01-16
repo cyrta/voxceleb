@@ -1,0 +1,6 @@
+POI: 			Brian_Cox 
+Youtube ID: 	RHESzaoWqsY 
+Video length: 	218.0 sec 
+Set (V): 		dev 
+ 
+Brian_Cox/RHESzaoWqsY_0000001 98.6 104.9 

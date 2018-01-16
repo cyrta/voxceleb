@@ -1,0 +1,11 @@
+POI: 			Alex_Pettyfer 
+Youtube ID: 	7k1FyY2k614 
+Video length: 	364.0 sec 
+Set (V): 		dev 
+ 
+Alex_Pettyfer/7k1FyY2k614_0000001 189.3 196.2 
+Alex_Pettyfer/7k1FyY2k614_0000002 209.5 215.1 
+Alex_Pettyfer/7k1FyY2k614_0000003 217.2 224.4 
+Alex_Pettyfer/7k1FyY2k614_0000004 232.4 237.6 
+Alex_Pettyfer/7k1FyY2k614_0000005 315.6 319.8 
+Alex_Pettyfer/7k1FyY2k614_0000006 322.3 328.9 

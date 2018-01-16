@@ -1,0 +1,10 @@
+POI: 			Miles_Teller 
+Youtube ID: 	FbKRFA9Efgc 
+Video length: 	560.1 sec 
+Set (V): 		dev 
+ 
+Miles_Teller/FbKRFA9Efgc_0000001 441.7 446.8 
+Miles_Teller/FbKRFA9Efgc_0000002 448.2 455.4 
+Miles_Teller/FbKRFA9Efgc_0000003 458.7 470.2 
+Miles_Teller/FbKRFA9Efgc_0000004 537.0 543.9 
+Miles_Teller/FbKRFA9Efgc_0000005 544.8 554.0 

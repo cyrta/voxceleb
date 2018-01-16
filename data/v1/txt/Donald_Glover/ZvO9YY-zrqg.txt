@@ -1,0 +1,9 @@
+POI: 			Donald_Glover 
+Youtube ID: 	ZvO9YY-zrqg 
+Video length: 	272.3 sec 
+Set (V): 		dev 
+ 
+Donald_Glover/ZvO9YY-zrqg_0000001 45.4 49.9 
+Donald_Glover/ZvO9YY-zrqg_0000002 110.3 114.3 
+Donald_Glover/ZvO9YY-zrqg_0000003 198.2 207.0 
+Donald_Glover/ZvO9YY-zrqg_0000004 227.2 232.0 

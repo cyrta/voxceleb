@@ -1,0 +1,29 @@
+POI: 			Lou_Diamond_Phillips 
+Youtube ID: 	3_TLa8mO_iM 
+Video length: 	484.1 sec 
+Set (V): 		dev 
+ 
+Lou_Diamond_Phillips/3_TLa8mO_iM_0000001 15.8 74.4 
+Lou_Diamond_Phillips/3_TLa8mO_iM_0000002 92.0 99.4 
+Lou_Diamond_Phillips/3_TLa8mO_iM_0000003 105.9 110.2 
+Lou_Diamond_Phillips/3_TLa8mO_iM_0000004 114.1 120.6 
+Lou_Diamond_Phillips/3_TLa8mO_iM_0000005 121.0 136.6 
+Lou_Diamond_Phillips/3_TLa8mO_iM_0000006 137.0 147.7 
+Lou_Diamond_Phillips/3_TLa8mO_iM_0000007 145.5 164.6 
+Lou_Diamond_Phillips/3_TLa8mO_iM_0000008 182.6 187.9 
+Lou_Diamond_Phillips/3_TLa8mO_iM_0000009 188.1 225.8 
+Lou_Diamond_Phillips/3_TLa8mO_iM_0000010 226.7 238.8 
+Lou_Diamond_Phillips/3_TLa8mO_iM_0000011 239.8 253.1 
+Lou_Diamond_Phillips/3_TLa8mO_iM_0000012 267.6 272.3 
+Lou_Diamond_Phillips/3_TLa8mO_iM_0000013 274.5 282.9 
+Lou_Diamond_Phillips/3_TLa8mO_iM_0000014 283.4 305.3 
+Lou_Diamond_Phillips/3_TLa8mO_iM_0000015 306.3 312.1 
+Lou_Diamond_Phillips/3_TLa8mO_iM_0000016 326.3 365.5 
+Lou_Diamond_Phillips/3_TLa8mO_iM_0000017 368.8 385.8 
+Lou_Diamond_Phillips/3_TLa8mO_iM_0000018 387.8 400.8 
+Lou_Diamond_Phillips/3_TLa8mO_iM_0000019 412.0 418.0 
+Lou_Diamond_Phillips/3_TLa8mO_iM_0000020 420.2 431.0 
+Lou_Diamond_Phillips/3_TLa8mO_iM_0000021 418.4 426.0 
+Lou_Diamond_Phillips/3_TLa8mO_iM_0000022 437.1 441.8 
+Lou_Diamond_Phillips/3_TLa8mO_iM_0000023 445.4 451.1 
+Lou_Diamond_Phillips/3_TLa8mO_iM_0000024 439.4 481.6 

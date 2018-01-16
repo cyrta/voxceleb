@@ -1,0 +1,11 @@
+POI: 			Steven_Berkoff 
+Youtube ID: 	3XpXjvdjfdg 
+Video length: 	125.1 sec 
+Set (V): 		dev 
+ 
+Steven_Berkoff/3XpXjvdjfdg_0000001 09.2 17.5 
+Steven_Berkoff/3XpXjvdjfdg_0000002 27.0 37.6 
+Steven_Berkoff/3XpXjvdjfdg_0000003 65.2 78.7 
+Steven_Berkoff/3XpXjvdjfdg_0000004 85.4 90.6 
+Steven_Berkoff/3XpXjvdjfdg_0000005 91.2 98.2 
+Steven_Berkoff/3XpXjvdjfdg_0000006 115.2 120.8 

@@ -1,0 +1,13 @@
+POI: 			Charles_Dance 
+Youtube ID: 	qEzpu4H9gGg 
+Video length: 	370.7 sec 
+Set (V): 		dev 
+ 
+Charles_Dance/qEzpu4H9gGg_0000001 56.8 61.3 
+Charles_Dance/qEzpu4H9gGg_0000002 83.3 88.4 
+Charles_Dance/qEzpu4H9gGg_0000003 134.8 139.2 
+Charles_Dance/qEzpu4H9gGg_0000004 156.9 161.8 
+Charles_Dance/qEzpu4H9gGg_0000005 171.4 176.2 
+Charles_Dance/qEzpu4H9gGg_0000006 233.6 238.4 
+Charles_Dance/qEzpu4H9gGg_0000007 266.2 270.4 
+Charles_Dance/qEzpu4H9gGg_0000008 339.6 343.8 

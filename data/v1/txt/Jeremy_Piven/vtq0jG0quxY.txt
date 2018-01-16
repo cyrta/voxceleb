@@ -1,0 +1,10 @@
+POI: 			Jeremy_Piven 
+Youtube ID: 	vtq0jG0quxY 
+Video length: 	181.7 sec 
+Set (V): 		dev 
+ 
+Jeremy_Piven/vtq0jG0quxY_0000001 06.9 11.4 
+Jeremy_Piven/vtq0jG0quxY_0000002 19.4 25.8 
+Jeremy_Piven/vtq0jG0quxY_0000003 50.7 56.4 
+Jeremy_Piven/vtq0jG0quxY_0000004 116.9 129.0 
+Jeremy_Piven/vtq0jG0quxY_0000005 163.3 167.6 

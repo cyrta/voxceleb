@@ -1,0 +1,11 @@
+POI: 			Barbara_Hershey 
+Youtube ID: 	9eTeqKAH5m0 
+Video length: 	299.5 sec 
+Set (V): 		dev 
+ 
+Barbara_Hershey/9eTeqKAH5m0_0000001 99.7 105.8 
+Barbara_Hershey/9eTeqKAH5m0_0000002 165.4 172.2 
+Barbara_Hershey/9eTeqKAH5m0_0000003 173.2 179.8 
+Barbara_Hershey/9eTeqKAH5m0_0000004 189.2 194.4 
+Barbara_Hershey/9eTeqKAH5m0_0000005 256.8 261.8 
+Barbara_Hershey/9eTeqKAH5m0_0000006 277.4 290.2 

@@ -1,0 +1,8 @@
+POI: 			Brooke_Burke-Charvet 
+Youtube ID: 	2KuS90BmMyo 
+Video length: 	130.8 sec 
+Set (V): 		dev 
+ 
+Brooke_Burke-Charvet/2KuS90BmMyo_0000001 41.2 86.7 
+Brooke_Burke-Charvet/2KuS90BmMyo_0000002 93.9 101.4 
+Brooke_Burke-Charvet/2KuS90BmMyo_0000003 101.5 119.0 

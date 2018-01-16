@@ -1,0 +1,12 @@
+POI: 			Michael_Weatherly 
+Youtube ID: 	Sb-Fg9nAVpE 
+Video length: 	182.6 sec 
+Set (V): 		dev 
+ 
+Michael_Weatherly/Sb-Fg9nAVpE_0000001 36.2 44.0 
+Michael_Weatherly/Sb-Fg9nAVpE_0000002 44.8 49.8 
+Michael_Weatherly/Sb-Fg9nAVpE_0000003 57.8 62.8 
+Michael_Weatherly/Sb-Fg9nAVpE_0000004 65.8 71.6 
+Michael_Weatherly/Sb-Fg9nAVpE_0000005 71.8 81.1 
+Michael_Weatherly/Sb-Fg9nAVpE_0000006 88.4 108.1 
+Michael_Weatherly/Sb-Fg9nAVpE_0000007 117.4 135.5 

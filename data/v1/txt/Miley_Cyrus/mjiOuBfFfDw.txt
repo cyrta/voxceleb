@@ -1,0 +1,12 @@
+POI: 			Miley_Cyrus 
+Youtube ID: 	mjiOuBfFfDw 
+Video length: 	260.7 sec 
+Set (V): 		dev 
+ 
+Miley_Cyrus/mjiOuBfFfDw_0000001 27.6 32.2 
+Miley_Cyrus/mjiOuBfFfDw_0000002 60.5 65.5 
+Miley_Cyrus/mjiOuBfFfDw_0000003 89.2 94.5 
+Miley_Cyrus/mjiOuBfFfDw_0000004 157.8 167.4 
+Miley_Cyrus/mjiOuBfFfDw_0000005 172.4 177.2 
+Miley_Cyrus/mjiOuBfFfDw_0000006 194.1 205.8 
+Miley_Cyrus/mjiOuBfFfDw_0000007 213.3 231.3 

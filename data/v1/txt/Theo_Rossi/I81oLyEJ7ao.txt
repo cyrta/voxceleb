@@ -1,0 +1,10 @@
+POI: 			Theo_Rossi 
+Youtube ID: 	I81oLyEJ7ao 
+Video length: 	202.8 sec 
+Set (V): 		dev 
+ 
+Theo_Rossi/I81oLyEJ7ao_0000001 91.4 96.8 
+Theo_Rossi/I81oLyEJ7ao_0000002 106.4 113.7 
+Theo_Rossi/I81oLyEJ7ao_0000003 115.7 133.3 
+Theo_Rossi/I81oLyEJ7ao_0000004 142.2 151.5 
+Theo_Rossi/I81oLyEJ7ao_0000005 161.1 167.2 

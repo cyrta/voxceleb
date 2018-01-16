@@ -1,0 +1,11 @@
+POI: 			Sean_Connery 
+Youtube ID: 	1GfwzWK4UmU 
+Video length: 	682.1 sec 
+Set (V): 		dev 
+ 
+Sean_Connery/1GfwzWK4UmU_0000001 114.7 118.6 
+Sean_Connery/1GfwzWK4UmU_0000002 216.8 221.2 
+Sean_Connery/1GfwzWK4UmU_0000003 278.2 282.4 
+Sean_Connery/1GfwzWK4UmU_0000004 309.2 316.0 
+Sean_Connery/1GfwzWK4UmU_0000005 364.2 369.8 
+Sean_Connery/1GfwzWK4UmU_0000006 473.1 477.2 

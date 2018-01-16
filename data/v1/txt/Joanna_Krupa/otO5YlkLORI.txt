@@ -1,0 +1,8 @@
+POI: 			Joanna_Krupa 
+Youtube ID: 	otO5YlkLORI 
+Video length: 	163.6 sec 
+Set (V): 		dev 
+ 
+Joanna_Krupa/otO5YlkLORI_0000001 37.4 44.8 
+Joanna_Krupa/otO5YlkLORI_0000002 85.1 92.1 
+Joanna_Krupa/otO5YlkLORI_0000003 120.2 124.6 

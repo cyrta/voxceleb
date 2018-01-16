@@ -1,0 +1,13 @@
+POI: 			Kenton_Duty 
+Youtube ID: 	DdT26to15kg 
+Video length: 	396.6 sec 
+Set (V): 		dev 
+ 
+Kenton_Duty/DdT26to15kg_0000001 52.0 56.3 
+Kenton_Duty/DdT26to15kg_0000002 91.6 96.0 
+Kenton_Duty/DdT26to15kg_0000003 113.8 118.4 
+Kenton_Duty/DdT26to15kg_0000004 191.3 197.4 
+Kenton_Duty/DdT26to15kg_0000005 214.8 226.0 
+Kenton_Duty/DdT26to15kg_0000006 251.4 258.6 
+Kenton_Duty/DdT26to15kg_0000007 249.6 256.2 
+Kenton_Duty/DdT26to15kg_0000008 330.7 347.2 

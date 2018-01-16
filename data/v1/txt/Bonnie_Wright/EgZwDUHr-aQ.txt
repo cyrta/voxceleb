@@ -1,0 +1,9 @@
+POI: 			Bonnie_Wright 
+Youtube ID: 	EgZwDUHr-aQ 
+Video length: 	68.3 sec 
+Set (V): 		dev 
+ 
+Bonnie_Wright/EgZwDUHr-aQ_0000001 01.4 18.2 
+Bonnie_Wright/EgZwDUHr-aQ_0000002 25.5 31.4 
+Bonnie_Wright/EgZwDUHr-aQ_0000003 36.8 44.9 
+Bonnie_Wright/EgZwDUHr-aQ_0000004 47.2 55.7 

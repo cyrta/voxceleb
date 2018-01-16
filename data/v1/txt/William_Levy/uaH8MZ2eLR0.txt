@@ -1,0 +1,10 @@
+POI: 			William_Levy 
+Youtube ID: 	uaH8MZ2eLR0 
+Video length: 	267.4 sec 
+Set (V): 		dev 
+ 
+William_Levy/uaH8MZ2eLR0_0000001 27.6 35.8 
+William_Levy/uaH8MZ2eLR0_0000002 44.0 49.0 
+William_Levy/uaH8MZ2eLR0_0000003 58.7 64.6 
+William_Levy/uaH8MZ2eLR0_0000004 105.4 109.8 
+William_Levy/uaH8MZ2eLR0_0000005 111.1 122.2 

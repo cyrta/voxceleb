@@ -1,0 +1,13 @@
+POI: 			Kuno_Becker 
+Youtube ID: 	gAEvH3h0iTU 
+Video length: 	199.3 sec 
+Set (V): 		dev 
+ 
+Kuno_Becker/gAEvH3h0iTU_0000001 39.5 43.8 
+Kuno_Becker/gAEvH3h0iTU_0000002 57.8 65.5 
+Kuno_Becker/gAEvH3h0iTU_0000003 77.6 81.6 
+Kuno_Becker/gAEvH3h0iTU_0000004 85.8 90.0 
+Kuno_Becker/gAEvH3h0iTU_0000005 94.1 98.8 
+Kuno_Becker/gAEvH3h0iTU_0000006 113.5 120.4 
+Kuno_Becker/gAEvH3h0iTU_0000007 130.7 149.8 
+Kuno_Becker/gAEvH3h0iTU_0000008 150.5 155.0 

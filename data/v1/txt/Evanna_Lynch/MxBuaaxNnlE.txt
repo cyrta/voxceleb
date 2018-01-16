@@ -1,0 +1,11 @@
+POI: 			Evanna_Lynch 
+Youtube ID: 	MxBuaaxNnlE 
+Video length: 	232.8 sec 
+Set (V): 		test 
+ 
+Evanna_Lynch/MxBuaaxNnlE_0000001 22.9 46.0 
+Evanna_Lynch/MxBuaaxNnlE_0000002 53.8 61.8 
+Evanna_Lynch/MxBuaaxNnlE_0000003 74.6 88.8 
+Evanna_Lynch/MxBuaaxNnlE_0000004 133.8 146.6 
+Evanna_Lynch/MxBuaaxNnlE_0000005 147.2 155.0 
+Evanna_Lynch/MxBuaaxNnlE_0000006 171.1 180.2 

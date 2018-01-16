@@ -1,0 +1,13 @@
+POI: 			Stephen_Fry 
+Youtube ID: 	IgS6YSGvFCw 
+Video length: 	900.1 sec 
+Set (V): 		dev 
+ 
+Stephen_Fry/IgS6YSGvFCw_0000001 199.1 213.8 
+Stephen_Fry/IgS6YSGvFCw_0000002 500.9 505.6 
+Stephen_Fry/IgS6YSGvFCw_0000003 614.1 619.4 
+Stephen_Fry/IgS6YSGvFCw_0000004 759.2 763.2 
+Stephen_Fry/IgS6YSGvFCw_0000005 763.6 769.0 
+Stephen_Fry/IgS6YSGvFCw_0000006 770.0 776.1 
+Stephen_Fry/IgS6YSGvFCw_0000007 782.0 787.6 
+Stephen_Fry/IgS6YSGvFCw_0000008 794.7 800.6 

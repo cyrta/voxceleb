@@ -1,0 +1,22 @@
+POI: 			Janet_Montgomery 
+Youtube ID: 	H4pkQL_Md1E 
+Video length: 	387.0 sec 
+Set (V): 		dev 
+ 
+Janet_Montgomery/H4pkQL_Md1E_0000001 15.7 22.3 
+Janet_Montgomery/H4pkQL_Md1E_0000002 24.4 32.8 
+Janet_Montgomery/H4pkQL_Md1E_0000003 33.5 38.6 
+Janet_Montgomery/H4pkQL_Md1E_0000004 54.4 60.8 
+Janet_Montgomery/H4pkQL_Md1E_0000005 82.0 88.1 
+Janet_Montgomery/H4pkQL_Md1E_0000006 92.7 97.3 
+Janet_Montgomery/H4pkQL_Md1E_0000007 109.7 115.1 
+Janet_Montgomery/H4pkQL_Md1E_0000008 138.4 145.8 
+Janet_Montgomery/H4pkQL_Md1E_0000009 156.1 161.4 
+Janet_Montgomery/H4pkQL_Md1E_0000010 174.6 183.5 
+Janet_Montgomery/H4pkQL_Md1E_0000011 184.3 191.0 
+Janet_Montgomery/H4pkQL_Md1E_0000012 226.8 239.4 
+Janet_Montgomery/H4pkQL_Md1E_0000013 279.9 285.2 
+Janet_Montgomery/H4pkQL_Md1E_0000014 287.2 291.2 
+Janet_Montgomery/H4pkQL_Md1E_0000015 342.8 349.4 
+Janet_Montgomery/H4pkQL_Md1E_0000016 357.0 362.1 
+Janet_Montgomery/H4pkQL_Md1E_0000017 372.2 378.1 

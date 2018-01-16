@@ -1,0 +1,8 @@
+POI: 			Jeff_Daniels 
+Youtube ID: 	jENZMdr7ibc 
+Video length: 	237.2 sec 
+Set (V): 		dev 
+ 
+Jeff_Daniels/jENZMdr7ibc_0000001 147.2 155.3 
+Jeff_Daniels/jENZMdr7ibc_0000002 170.9 179.4 
+Jeff_Daniels/jENZMdr7ibc_0000003 180.7 188.6 

@@ -1,0 +1,10 @@
+POI: 			John_Turturro 
+Youtube ID: 	N2XAJ1O1FKI 
+Video length: 	262.9 sec 
+Set (V): 		dev 
+ 
+John_Turturro/N2XAJ1O1FKI_0000001 06.9 12.4 
+John_Turturro/N2XAJ1O1FKI_0000002 23.0 34.7 
+John_Turturro/N2XAJ1O1FKI_0000003 176.6 180.6 
+John_Turturro/N2XAJ1O1FKI_0000004 189.0 198.2 
+John_Turturro/N2XAJ1O1FKI_0000005 198.7 203.0 

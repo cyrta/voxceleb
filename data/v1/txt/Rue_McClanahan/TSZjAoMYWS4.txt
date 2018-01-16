@@ -1,0 +1,17 @@
+POI: 			Rue_McClanahan 
+Youtube ID: 	TSZjAoMYWS4 
+Video length: 	156.4 sec 
+Set (V): 		dev 
+ 
+Rue_McClanahan/TSZjAoMYWS4_0000001 07.6 13.1 
+Rue_McClanahan/TSZjAoMYWS4_0000002 17.3 24.1 
+Rue_McClanahan/TSZjAoMYWS4_0000003 25.6 33.2 
+Rue_McClanahan/TSZjAoMYWS4_0000004 40.1 53.0 
+Rue_McClanahan/TSZjAoMYWS4_0000005 54.9 58.9 
+Rue_McClanahan/TSZjAoMYWS4_0000006 71.5 75.5 
+Rue_McClanahan/TSZjAoMYWS4_0000007 83.8 91.3 
+Rue_McClanahan/TSZjAoMYWS4_0000008 88.2 94.3 
+Rue_McClanahan/TSZjAoMYWS4_0000009 98.4 105.1 
+Rue_McClanahan/TSZjAoMYWS4_0000010 118.0 122.6 
+Rue_McClanahan/TSZjAoMYWS4_0000011 130.9 136.8 
+Rue_McClanahan/TSZjAoMYWS4_0000012 138.7 143.7 

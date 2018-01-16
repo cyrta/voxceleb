@@ -1,0 +1,7 @@
+POI: 			Kenton_Duty 
+Youtube ID: 	HY_6qKVfI_4 
+Video length: 	368.0 sec 
+Set (V): 		dev 
+ 
+Kenton_Duty/HY_6qKVfI_4_0000001 40.2 45.0 
+Kenton_Duty/HY_6qKVfI_4_0000002 211.2 220.1 

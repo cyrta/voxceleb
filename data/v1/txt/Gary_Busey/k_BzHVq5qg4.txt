@@ -1,0 +1,13 @@
+POI: 			Gary_Busey 
+Youtube ID: 	k_BzHVq5qg4 
+Video length: 	226.8 sec 
+Set (V): 		dev 
+ 
+Gary_Busey/k_BzHVq5qg4_0000001 06.7 13.7 
+Gary_Busey/k_BzHVq5qg4_0000002 18.7 27.9 
+Gary_Busey/k_BzHVq5qg4_0000003 52.0 59.2 
+Gary_Busey/k_BzHVq5qg4_0000004 63.3 70.0 
+Gary_Busey/k_BzHVq5qg4_0000005 87.4 101.1 
+Gary_Busey/k_BzHVq5qg4_0000006 138.5 144.3 
+Gary_Busey/k_BzHVq5qg4_0000007 175.2 180.8 
+Gary_Busey/k_BzHVq5qg4_0000008 202.8 207.3 

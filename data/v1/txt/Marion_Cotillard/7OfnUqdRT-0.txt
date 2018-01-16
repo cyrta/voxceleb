@@ -1,0 +1,9 @@
+POI: 			Marion_Cotillard 
+Youtube ID: 	7OfnUqdRT-0 
+Video length: 	113.6 sec 
+Set (V): 		dev 
+ 
+Marion_Cotillard/7OfnUqdRT-0_0000001 02.0 07.2 
+Marion_Cotillard/7OfnUqdRT-0_0000002 15.3 25.1 
+Marion_Cotillard/7OfnUqdRT-0_0000003 34.0 40.3 
+Marion_Cotillard/7OfnUqdRT-0_0000004 54.0 61.8 

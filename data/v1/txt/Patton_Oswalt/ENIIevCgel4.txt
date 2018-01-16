@@ -1,0 +1,28 @@
+POI: 			Patton_Oswalt 
+Youtube ID: 	ENIIevCgel4 
+Video length: 	571.6 sec 
+Set (V): 		dev 
+ 
+Patton_Oswalt/ENIIevCgel4_0000001 100.8 107.3 
+Patton_Oswalt/ENIIevCgel4_0000002 107.4 127.6 
+Patton_Oswalt/ENIIevCgel4_0000003 129.7 137.0 
+Patton_Oswalt/ENIIevCgel4_0000004 139.4 150.8 
+Patton_Oswalt/ENIIevCgel4_0000005 151.2 158.9 
+Patton_Oswalt/ENIIevCgel4_0000006 165.0 169.9 
+Patton_Oswalt/ENIIevCgel4_0000007 188.5 195.9 
+Patton_Oswalt/ENIIevCgel4_0000008 196.2 200.4 
+Patton_Oswalt/ENIIevCgel4_0000009 205.4 212.3 
+Patton_Oswalt/ENIIevCgel4_0000010 214.6 236.0 
+Patton_Oswalt/ENIIevCgel4_0000011 237.8 251.4 
+Patton_Oswalt/ENIIevCgel4_0000012 283.9 292.1 
+Patton_Oswalt/ENIIevCgel4_0000013 299.6 306.8 
+Patton_Oswalt/ENIIevCgel4_0000014 338.3 369.9 
+Patton_Oswalt/ENIIevCgel4_0000015 372.6 382.2 
+Patton_Oswalt/ENIIevCgel4_0000016 386.8 393.5 
+Patton_Oswalt/ENIIevCgel4_0000017 422.8 428.2 
+Patton_Oswalt/ENIIevCgel4_0000018 438.6 443.8 
+Patton_Oswalt/ENIIevCgel4_0000019 444.4 451.7 
+Patton_Oswalt/ENIIevCgel4_0000020 453.7 470.4 
+Patton_Oswalt/ENIIevCgel4_0000021 484.5 489.1 
+Patton_Oswalt/ENIIevCgel4_0000022 489.9 513.2 
+Patton_Oswalt/ENIIevCgel4_0000023 534.0 543.9 

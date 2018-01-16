@@ -1,0 +1,12 @@
+POI: 			Florence_Henderson 
+Youtube ID: 	rl0yBKwn25c 
+Video length: 	135.4 sec 
+Set (V): 		dev 
+ 
+Florence_Henderson/rl0yBKwn25c_0000001 06.2 21.5 
+Florence_Henderson/rl0yBKwn25c_0000002 22.0 35.8 
+Florence_Henderson/rl0yBKwn25c_0000003 37.5 46.7 
+Florence_Henderson/rl0yBKwn25c_0000004 58.0 72.3 
+Florence_Henderson/rl0yBKwn25c_0000005 75.1 89.1 
+Florence_Henderson/rl0yBKwn25c_0000006 89.2 94.1 
+Florence_Henderson/rl0yBKwn25c_0000007 94.7 112.4 

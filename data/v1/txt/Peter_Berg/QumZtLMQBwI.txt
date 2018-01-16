@@ -1,0 +1,14 @@
+POI: 			Peter_Berg 
+Youtube ID: 	QumZtLMQBwI 
+Video length: 	211.3 sec 
+Set (V): 		dev 
+ 
+Peter_Berg/QumZtLMQBwI_0000001 17.5 22.7 
+Peter_Berg/QumZtLMQBwI_0000002 24.7 29.5 
+Peter_Berg/QumZtLMQBwI_0000003 30.5 38.6 
+Peter_Berg/QumZtLMQBwI_0000004 39.6 45.3 
+Peter_Berg/QumZtLMQBwI_0000005 46.1 63.9 
+Peter_Berg/QumZtLMQBwI_0000006 158.4 162.6 
+Peter_Berg/QumZtLMQBwI_0000007 168.3 182.2 
+Peter_Berg/QumZtLMQBwI_0000008 188.2 194.8 
+Peter_Berg/QumZtLMQBwI_0000009 195.2 204.4 

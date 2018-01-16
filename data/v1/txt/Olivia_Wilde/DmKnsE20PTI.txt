@@ -1,0 +1,11 @@
+POI: 			Olivia_Wilde 
+Youtube ID: 	DmKnsE20PTI 
+Video length: 	203.9 sec 
+Set (V): 		dev 
+ 
+Olivia_Wilde/DmKnsE20PTI_0000001 41.6 46.4 
+Olivia_Wilde/DmKnsE20PTI_0000002 64.0 68.3 
+Olivia_Wilde/DmKnsE20PTI_0000003 91.3 99.4 
+Olivia_Wilde/DmKnsE20PTI_0000004 127.6 136.3 
+Olivia_Wilde/DmKnsE20PTI_0000005 173.3 181.8 
+Olivia_Wilde/DmKnsE20PTI_0000006 188.0 194.6 

@@ -1,0 +1,7 @@
+POI: 			James_Lafferty 
+Youtube ID: 	_ABp4o6asHw 
+Video length: 	278.4 sec 
+Set (V): 		dev 
+ 
+James_Lafferty/_ABp4o6asHw_0000001 172.4 176.4 
+James_Lafferty/_ABp4o6asHw_0000002 226.4 230.8 

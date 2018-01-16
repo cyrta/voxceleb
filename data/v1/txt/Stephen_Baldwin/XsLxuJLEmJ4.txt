@@ -1,0 +1,8 @@
+POI: 			Stephen_Baldwin 
+Youtube ID: 	XsLxuJLEmJ4 
+Video length: 	234.7 sec 
+Set (V): 		dev 
+ 
+Stephen_Baldwin/XsLxuJLEmJ4_0000001 123.2 131.4 
+Stephen_Baldwin/XsLxuJLEmJ4_0000002 153.8 159.5 
+Stephen_Baldwin/XsLxuJLEmJ4_0000003 161.4 166.2 

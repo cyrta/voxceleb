@@ -1,0 +1,13 @@
+POI: 			Sam_Riley 
+Youtube ID: 	B7LywpMdwRY 
+Video length: 	221.5 sec 
+Set (V): 		dev 
+ 
+Sam_Riley/B7LywpMdwRY_0000001 35.6 42.2 
+Sam_Riley/B7LywpMdwRY_0000002 42.6 46.7 
+Sam_Riley/B7LywpMdwRY_0000003 87.3 92.3 
+Sam_Riley/B7LywpMdwRY_0000004 95.2 99.9 
+Sam_Riley/B7LywpMdwRY_0000005 101.6 105.9 
+Sam_Riley/B7LywpMdwRY_0000006 135.9 140.0 
+Sam_Riley/B7LywpMdwRY_0000007 182.9 187.0 
+Sam_Riley/B7LywpMdwRY_0000008 192.1 196.2 

@@ -1,0 +1,8 @@
+POI: 			Miley_Cyrus 
+Youtube ID: 	dioBYN96E3g 
+Video length: 	500.2 sec 
+Set (V): 		dev 
+ 
+Miley_Cyrus/dioBYN96E3g_0000001 289.7 294.5 
+Miley_Cyrus/dioBYN96E3g_0000002 301.1 305.8 
+Miley_Cyrus/dioBYN96E3g_0000003 313.4 319.4 

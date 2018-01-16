@@ -1,0 +1,8 @@
+POI: 			Sofia_Coppola 
+Youtube ID: 	r57COuBXATw 
+Video length: 	340.5 sec 
+Set (V): 		dev 
+ 
+Sofia_Coppola/r57COuBXATw_0000001 177.8 181.9 
+Sofia_Coppola/r57COuBXATw_0000002 206.6 210.9 
+Sofia_Coppola/r57COuBXATw_0000003 218.6 225.9 

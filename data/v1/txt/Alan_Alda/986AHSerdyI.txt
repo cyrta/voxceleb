@@ -1,0 +1,12 @@
+POI: 			Alan_Alda 
+Youtube ID: 	986AHSerdyI 
+Video length: 	291.3 sec 
+Set (V): 		dev 
+ 
+Alan_Alda/986AHSerdyI_0000001 33.7 40.6 
+Alan_Alda/986AHSerdyI_0000002 74.8 84.1 
+Alan_Alda/986AHSerdyI_0000003 84.3 90.8 
+Alan_Alda/986AHSerdyI_0000004 196.0 202.0 
+Alan_Alda/986AHSerdyI_0000005 204.2 209.0 
+Alan_Alda/986AHSerdyI_0000006 211.0 221.0 
+Alan_Alda/986AHSerdyI_0000007 269.8 274.5 

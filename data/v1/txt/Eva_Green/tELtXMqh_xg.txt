@@ -1,0 +1,10 @@
+POI: 			Eva_Green 
+Youtube ID: 	tELtXMqh_xg 
+Video length: 	195.7 sec 
+Set (V): 		test 
+ 
+Eva_Green/tELtXMqh_xg_0000001 73.5 79.8 
+Eva_Green/tELtXMqh_xg_0000002 104.5 112.6 
+Eva_Green/tELtXMqh_xg_0000003 143.6 149.6 
+Eva_Green/tELtXMqh_xg_0000004 169.6 178.4 
+Eva_Green/tELtXMqh_xg_0000005 180.7 187.2 

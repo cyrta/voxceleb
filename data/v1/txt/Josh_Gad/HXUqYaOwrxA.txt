@@ -1,0 +1,24 @@
+POI: 			Josh_Gad 
+Youtube ID: 	HXUqYaOwrxA 
+Video length: 	380.1 sec 
+Set (V): 		dev 
+ 
+Josh_Gad/HXUqYaOwrxA_0000001 04.8 40.9 
+Josh_Gad/HXUqYaOwrxA_0000002 43.3 53.4 
+Josh_Gad/HXUqYaOwrxA_0000003 55.2 81.4 
+Josh_Gad/HXUqYaOwrxA_0000004 97.1 109.4 
+Josh_Gad/HXUqYaOwrxA_0000005 110.0 115.4 
+Josh_Gad/HXUqYaOwrxA_0000006 120.6 137.3 
+Josh_Gad/HXUqYaOwrxA_0000007 138.0 165.4 
+Josh_Gad/HXUqYaOwrxA_0000008 165.7 182.6 
+Josh_Gad/HXUqYaOwrxA_0000009 196.0 200.4 
+Josh_Gad/HXUqYaOwrxA_0000010 201.0 207.6 
+Josh_Gad/HXUqYaOwrxA_0000011 208.4 213.1 
+Josh_Gad/HXUqYaOwrxA_0000012 223.7 252.4 
+Josh_Gad/HXUqYaOwrxA_0000013 259.6 268.2 
+Josh_Gad/HXUqYaOwrxA_0000014 269.3 279.7 
+Josh_Gad/HXUqYaOwrxA_0000015 280.7 290.4 
+Josh_Gad/HXUqYaOwrxA_0000016 290.8 313.1 
+Josh_Gad/HXUqYaOwrxA_0000017 326.7 331.8 
+Josh_Gad/HXUqYaOwrxA_0000018 332.6 347.3 
+Josh_Gad/HXUqYaOwrxA_0000019 352.4 356.4 

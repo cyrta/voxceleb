@@ -1,0 +1,7 @@
+POI: 			Steve_Carell 
+Youtube ID: 	3EXEU3zGt_s 
+Video length: 	138.7 sec 
+Set (V): 		dev 
+ 
+Steve_Carell/3EXEU3zGt_s_0000001 20.2 27.7 
+Steve_Carell/3EXEU3zGt_s_0000002 114.9 130.0 

@@ -1,0 +1,12 @@
+POI: 			Geri_Halliwell 
+Youtube ID: 	0_wqAsLNcGI 
+Video length: 	395.0 sec 
+Set (V): 		dev 
+ 
+Geri_Halliwell/0_wqAsLNcGI_0000001 140.7 145.9 
+Geri_Halliwell/0_wqAsLNcGI_0000002 150.9 163.6 
+Geri_Halliwell/0_wqAsLNcGI_0000003 188.5 193.6 
+Geri_Halliwell/0_wqAsLNcGI_0000004 268.2 282.5 
+Geri_Halliwell/0_wqAsLNcGI_0000005 307.3 327.2 
+Geri_Halliwell/0_wqAsLNcGI_0000006 348.5 358.3 
+Geri_Halliwell/0_wqAsLNcGI_0000007 365.4 381.5 

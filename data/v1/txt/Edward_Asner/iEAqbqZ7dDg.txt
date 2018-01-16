@@ -1,0 +1,23 @@
+POI: 			Edward_Asner 
+Youtube ID: 	iEAqbqZ7dDg 
+Video length: 	254.1 sec 
+Set (V): 		test 
+ 
+Edward_Asner/iEAqbqZ7dDg_0000001 17.6 22.3 
+Edward_Asner/iEAqbqZ7dDg_0000002 27.9 34.0 
+Edward_Asner/iEAqbqZ7dDg_0000003 37.3 43.5 
+Edward_Asner/iEAqbqZ7dDg_0000004 58.0 64.4 
+Edward_Asner/iEAqbqZ7dDg_0000005 76.7 83.1 
+Edward_Asner/iEAqbqZ7dDg_0000006 92.2 101.2 
+Edward_Asner/iEAqbqZ7dDg_0000007 102.2 108.0 
+Edward_Asner/iEAqbqZ7dDg_0000008 115.7 120.3 
+Edward_Asner/iEAqbqZ7dDg_0000009 122.2 129.1 
+Edward_Asner/iEAqbqZ7dDg_0000010 133.6 144.1 
+Edward_Asner/iEAqbqZ7dDg_0000011 145.0 150.9 
+Edward_Asner/iEAqbqZ7dDg_0000012 151.9 156.0 
+Edward_Asner/iEAqbqZ7dDg_0000013 183.0 189.5 
+Edward_Asner/iEAqbqZ7dDg_0000014 199.6 204.0 
+Edward_Asner/iEAqbqZ7dDg_0000015 209.7 213.9 
+Edward_Asner/iEAqbqZ7dDg_0000016 229.1 235.3 
+Edward_Asner/iEAqbqZ7dDg_0000017 209.7 214.1 
+Edward_Asner/iEAqbqZ7dDg_0000018 215.8 223.3 

@@ -1,0 +1,10 @@
+POI: 			Suzanne_Pleshette 
+Youtube ID: 	c1d5eCajoD0 
+Video length: 	1058.7 sec 
+Set (V): 		dev 
+ 
+Suzanne_Pleshette/c1d5eCajoD0_0000001 279.0 289.6 
+Suzanne_Pleshette/c1d5eCajoD0_0000002 430.8 442.2 
+Suzanne_Pleshette/c1d5eCajoD0_0000003 445.3 449.4 
+Suzanne_Pleshette/c1d5eCajoD0_0000004 449.6 457.0 
+Suzanne_Pleshette/c1d5eCajoD0_0000005 730.4 737.6 

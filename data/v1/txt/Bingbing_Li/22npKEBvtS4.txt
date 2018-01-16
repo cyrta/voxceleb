@@ -1,0 +1,13 @@
+POI: 			Bingbing_Li 
+Youtube ID: 	22npKEBvtS4 
+Video length: 	254.0 sec 
+Set (V): 		dev 
+ 
+Bingbing_Li/22npKEBvtS4_0000001 33.0 39.1 
+Bingbing_Li/22npKEBvtS4_0000002 46.6 51.0 
+Bingbing_Li/22npKEBvtS4_0000003 51.2 55.8 
+Bingbing_Li/22npKEBvtS4_0000004 64.5 70.2 
+Bingbing_Li/22npKEBvtS4_0000005 70.8 80.4 
+Bingbing_Li/22npKEBvtS4_0000006 81.2 87.8 
+Bingbing_Li/22npKEBvtS4_0000007 191.6 198.9 
+Bingbing_Li/22npKEBvtS4_0000008 233.9 238.8 

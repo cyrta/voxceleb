@@ -1,0 +1,9 @@
+POI: 			Olivia_Cooke 
+Youtube ID: 	v19q5ycEXH0 
+Video length: 	132.1 sec 
+Set (V): 		dev 
+ 
+Olivia_Cooke/v19q5ycEXH0_0000001 39.7 45.8 
+Olivia_Cooke/v19q5ycEXH0_0000002 103.0 107.0 
+Olivia_Cooke/v19q5ycEXH0_0000003 107.2 112.3 
+Olivia_Cooke/v19q5ycEXH0_0000004 113.2 118.3 

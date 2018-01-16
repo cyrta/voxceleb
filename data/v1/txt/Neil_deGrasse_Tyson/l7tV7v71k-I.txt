@@ -1,0 +1,13 @@
+POI: 			Neil_deGrasse_Tyson 
+Youtube ID: 	l7tV7v71k-I 
+Video length: 	1112.7 sec 
+Set (V): 		dev 
+ 
+Neil_deGrasse_Tyson/l7tV7v71k-I_0000001 192.8 196.8 
+Neil_deGrasse_Tyson/l7tV7v71k-I_0000002 574.3 578.3 
+Neil_deGrasse_Tyson/l7tV7v71k-I_0000003 849.9 856.0 
+Neil_deGrasse_Tyson/l7tV7v71k-I_0000004 894.6 898.9 
+Neil_deGrasse_Tyson/l7tV7v71k-I_0000005 908.0 913.3 
+Neil_deGrasse_Tyson/l7tV7v71k-I_0000006 935.3 939.4 
+Neil_deGrasse_Tyson/l7tV7v71k-I_0000007 1029.5 1033.9 
+Neil_deGrasse_Tyson/l7tV7v71k-I_0000008 1039.4 1045.0 

@@ -1,0 +1,16 @@
+POI: 			Jim_Caviezel 
+Youtube ID: 	xKQNsMfKjt0 
+Video length: 	428.5 sec 
+Set (V): 		dev 
+ 
+Jim_Caviezel/xKQNsMfKjt0_0000001 42.1 46.9 
+Jim_Caviezel/xKQNsMfKjt0_0000002 61.3 65.8 
+Jim_Caviezel/xKQNsMfKjt0_0000003 83.0 87.1 
+Jim_Caviezel/xKQNsMfKjt0_0000004 115.0 119.4 
+Jim_Caviezel/xKQNsMfKjt0_0000005 136.6 141.2 
+Jim_Caviezel/xKQNsMfKjt0_0000006 143.1 152.6 
+Jim_Caviezel/xKQNsMfKjt0_0000007 235.8 241.8 
+Jim_Caviezel/xKQNsMfKjt0_0000008 255.5 268.3 
+Jim_Caviezel/xKQNsMfKjt0_0000009 356.3 362.0 
+Jim_Caviezel/xKQNsMfKjt0_0000010 378.3 383.9 
+Jim_Caviezel/xKQNsMfKjt0_0000011 415.2 421.1 

@@ -1,0 +1,17 @@
+POI: 			Kuno_Becker 
+Youtube ID: 	_um-Q1jX5BM 
+Video length: 	448.8 sec 
+Set (V): 		dev 
+ 
+Kuno_Becker/_um-Q1jX5BM_0000001 68.9 74.4 
+Kuno_Becker/_um-Q1jX5BM_0000002 137.4 142.0 
+Kuno_Becker/_um-Q1jX5BM_0000003 143.0 150.2 
+Kuno_Becker/_um-Q1jX5BM_0000004 154.3 159.7 
+Kuno_Becker/_um-Q1jX5BM_0000005 209.2 220.4 
+Kuno_Becker/_um-Q1jX5BM_0000006 239.5 244.8 
+Kuno_Becker/_um-Q1jX5BM_0000007 283.4 289.1 
+Kuno_Becker/_um-Q1jX5BM_0000008 295.0 309.3 
+Kuno_Becker/_um-Q1jX5BM_0000009 322.4 327.3 
+Kuno_Becker/_um-Q1jX5BM_0000010 346.2 354.0 
+Kuno_Becker/_um-Q1jX5BM_0000011 354.5 365.8 
+Kuno_Becker/_um-Q1jX5BM_0000012 399.6 405.2 

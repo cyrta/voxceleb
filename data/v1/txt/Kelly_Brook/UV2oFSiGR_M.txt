@@ -1,0 +1,11 @@
+POI: 			Kelly_Brook 
+Youtube ID: 	UV2oFSiGR_M 
+Video length: 	359.9 sec 
+Set (V): 		dev 
+ 
+Kelly_Brook/UV2oFSiGR_M_0000001 73.4 98.4 
+Kelly_Brook/UV2oFSiGR_M_0000002 99.2 110.3 
+Kelly_Brook/UV2oFSiGR_M_0000003 117.4 123.0 
+Kelly_Brook/UV2oFSiGR_M_0000004 151.6 168.6 
+Kelly_Brook/UV2oFSiGR_M_0000005 173.0 181.0 
+Kelly_Brook/UV2oFSiGR_M_0000006 207.5 224.9 

@@ -1,0 +1,9 @@
+POI: 			Corey_Stoll 
+Youtube ID: 	IJ9KQl1DSFU 
+Video length: 	227.5 sec 
+Set (V): 		dev 
+ 
+Corey_Stoll/IJ9KQl1DSFU_0000001 41.2 45.3 
+Corey_Stoll/IJ9KQl1DSFU_0000002 48.5 54.0 
+Corey_Stoll/IJ9KQl1DSFU_0000003 69.3 73.9 
+Corey_Stoll/IJ9KQl1DSFU_0000004 199.0 203.0 

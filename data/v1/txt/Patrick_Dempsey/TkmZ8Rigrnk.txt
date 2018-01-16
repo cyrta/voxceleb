@@ -1,0 +1,8 @@
+POI: 			Patrick_Dempsey 
+Youtube ID: 	TkmZ8Rigrnk 
+Video length: 	259.2 sec 
+Set (V): 		dev 
+ 
+Patrick_Dempsey/TkmZ8Rigrnk_0000001 68.8 73.6 
+Patrick_Dempsey/TkmZ8Rigrnk_0000002 96.9 101.8 
+Patrick_Dempsey/TkmZ8Rigrnk_0000003 123.2 128.2 

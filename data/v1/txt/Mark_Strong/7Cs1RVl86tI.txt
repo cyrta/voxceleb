@@ -1,0 +1,15 @@
+POI: 			Mark_Strong 
+Youtube ID: 	7Cs1RVl86tI 
+Video length: 	315.4 sec 
+Set (V): 		dev 
+ 
+Mark_Strong/7Cs1RVl86tI_0000001 37.1 47.0 
+Mark_Strong/7Cs1RVl86tI_0000002 56.0 119.5 
+Mark_Strong/7Cs1RVl86tI_0000003 121.6 127.3 
+Mark_Strong/7Cs1RVl86tI_0000004 146.3 156.6 
+Mark_Strong/7Cs1RVl86tI_0000005 158.4 173.9 
+Mark_Strong/7Cs1RVl86tI_0000006 202.7 210.3 
+Mark_Strong/7Cs1RVl86tI_0000007 211.5 218.2 
+Mark_Strong/7Cs1RVl86tI_0000008 220.0 225.7 
+Mark_Strong/7Cs1RVl86tI_0000009 226.6 244.9 
+Mark_Strong/7Cs1RVl86tI_0000010 259.6 293.5 

@@ -1,0 +1,9 @@
+POI: 			John_Carroll_Lynch 
+Youtube ID: 	E8--f2BFEWI 
+Video length: 	395.9 sec 
+Set (V): 		dev 
+ 
+John_Carroll_Lynch/E8--f2BFEWI_0000001 13.8 31.6 
+John_Carroll_Lynch/E8--f2BFEWI_0000002 114.0 126.3 
+John_Carroll_Lynch/E8--f2BFEWI_0000003 244.7 258.5 
+John_Carroll_Lynch/E8--f2BFEWI_0000004 259.4 274.9 

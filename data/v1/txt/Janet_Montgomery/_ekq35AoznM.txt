@@ -1,0 +1,12 @@
+POI: 			Janet_Montgomery 
+Youtube ID: 	_ekq35AoznM 
+Video length: 	278.5 sec 
+Set (V): 		dev 
+ 
+Janet_Montgomery/_ekq35AoznM_0000001 40.0 60.6 
+Janet_Montgomery/_ekq35AoznM_0000002 80.5 89.4 
+Janet_Montgomery/_ekq35AoznM_0000003 135.7 156.7 
+Janet_Montgomery/_ekq35AoznM_0000004 168.6 173.3 
+Janet_Montgomery/_ekq35AoznM_0000005 175.5 198.9 
+Janet_Montgomery/_ekq35AoznM_0000006 209.9 227.9 
+Janet_Montgomery/_ekq35AoznM_0000007 242.6 249.4 

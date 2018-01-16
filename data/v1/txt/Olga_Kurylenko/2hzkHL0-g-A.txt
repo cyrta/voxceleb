@@ -1,0 +1,9 @@
+POI: 			Olga_Kurylenko 
+Youtube ID: 	2hzkHL0-g-A 
+Video length: 	788.1 sec 
+Set (V): 		dev 
+ 
+Olga_Kurylenko/2hzkHL0-g-A_0000001 113.2 117.2 
+Olga_Kurylenko/2hzkHL0-g-A_0000002 134.7 140.2 
+Olga_Kurylenko/2hzkHL0-g-A_0000003 541.7 549.9 
+Olga_Kurylenko/2hzkHL0-g-A_0000004 572.6 579.2 

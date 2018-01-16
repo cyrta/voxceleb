@@ -1,0 +1,10 @@
+POI: 			Tyler_Hoechlin 
+Youtube ID: 	6Vs-zSfQZl0 
+Video length: 	431.8 sec 
+Set (V): 		dev 
+ 
+Tyler_Hoechlin/6Vs-zSfQZl0_0000001 39.0 76.5 
+Tyler_Hoechlin/6Vs-zSfQZl0_0000002 124.9 129.0 
+Tyler_Hoechlin/6Vs-zSfQZl0_0000003 167.6 176.3 
+Tyler_Hoechlin/6Vs-zSfQZl0_0000004 246.2 253.7 
+Tyler_Hoechlin/6Vs-zSfQZl0_0000005 255.9 260.4 

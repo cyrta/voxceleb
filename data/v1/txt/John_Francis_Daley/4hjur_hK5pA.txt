@@ -1,0 +1,17 @@
+POI: 			John_Francis_Daley 
+Youtube ID: 	4hjur_hK5pA 
+Video length: 	459.9 sec 
+Set (V): 		dev 
+ 
+John_Francis_Daley/4hjur_hK5pA_0000001 38.2 50.8 
+John_Francis_Daley/4hjur_hK5pA_0000002 83.2 89.4 
+John_Francis_Daley/4hjur_hK5pA_0000003 89.6 98.7 
+John_Francis_Daley/4hjur_hK5pA_0000004 143.5 155.2 
+John_Francis_Daley/4hjur_hK5pA_0000005 216.3 221.1 
+John_Francis_Daley/4hjur_hK5pA_0000006 221.6 226.2 
+John_Francis_Daley/4hjur_hK5pA_0000007 227.0 241.1 
+John_Francis_Daley/4hjur_hK5pA_0000008 243.4 252.2 
+John_Francis_Daley/4hjur_hK5pA_0000009 264.7 271.5 
+John_Francis_Daley/4hjur_hK5pA_0000010 275.8 279.8 
+John_Francis_Daley/4hjur_hK5pA_0000011 290.0 300.3 
+John_Francis_Daley/4hjur_hK5pA_0000012 306.9 316.5 

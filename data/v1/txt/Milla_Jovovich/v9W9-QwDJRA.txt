@@ -1,0 +1,8 @@
+POI: 			Milla_Jovovich 
+Youtube ID: 	v9W9-QwDJRA 
+Video length: 	191.6 sec 
+Set (V): 		dev 
+ 
+Milla_Jovovich/v9W9-QwDJRA_0000001 50.8 60.0 
+Milla_Jovovich/v9W9-QwDJRA_0000002 123.8 128.3 
+Milla_Jovovich/v9W9-QwDJRA_0000003 159.3 165.5 

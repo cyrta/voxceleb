@@ -1,0 +1,13 @@
+POI: 			Jillian_Michaels 
+Youtube ID: 	IXWYUggFN7w 
+Video length: 	188.8 sec 
+Set (V): 		dev 
+ 
+Jillian_Michaels/IXWYUggFN7w_0000001 09.6 17.8 
+Jillian_Michaels/IXWYUggFN7w_0000002 34.9 52.8 
+Jillian_Michaels/IXWYUggFN7w_0000003 55.0 59.9 
+Jillian_Michaels/IXWYUggFN7w_0000004 63.7 68.5 
+Jillian_Michaels/IXWYUggFN7w_0000005 75.1 80.3 
+Jillian_Michaels/IXWYUggFN7w_0000006 109.7 114.4 
+Jillian_Michaels/IXWYUggFN7w_0000007 118.0 124.4 
+Jillian_Michaels/IXWYUggFN7w_0000008 152.8 171.5 

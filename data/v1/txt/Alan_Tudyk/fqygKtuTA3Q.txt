@@ -1,0 +1,8 @@
+POI: 			Alan_Tudyk 
+Youtube ID: 	fqygKtuTA3Q 
+Video length: 	209.1 sec 
+Set (V): 		dev 
+ 
+Alan_Tudyk/fqygKtuTA3Q_0000001 123.1 131.9 
+Alan_Tudyk/fqygKtuTA3Q_0000002 134.8 139.4 
+Alan_Tudyk/fqygKtuTA3Q_0000003 166.5 170.8 

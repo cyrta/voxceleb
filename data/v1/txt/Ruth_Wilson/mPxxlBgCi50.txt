@@ -1,0 +1,11 @@
+POI: 			Ruth_Wilson 
+Youtube ID: 	mPxxlBgCi50 
+Video length: 	1149.3 sec 
+Set (V): 		dev 
+ 
+Ruth_Wilson/mPxxlBgCi50_0000001 161.5 169.7 
+Ruth_Wilson/mPxxlBgCi50_0000002 174.1 181.0 
+Ruth_Wilson/mPxxlBgCi50_0000003 355.6 364.9 
+Ruth_Wilson/mPxxlBgCi50_0000004 371.6 380.2 
+Ruth_Wilson/mPxxlBgCi50_0000005 538.7 545.8 
+Ruth_Wilson/mPxxlBgCi50_0000006 603.1 608.2 

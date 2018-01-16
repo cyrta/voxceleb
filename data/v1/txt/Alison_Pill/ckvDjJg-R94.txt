@@ -1,0 +1,8 @@
+POI: 			Alison_Pill 
+Youtube ID: 	ckvDjJg-R94 
+Video length: 	235.0 sec 
+Set (V): 		dev 
+ 
+Alison_Pill/ckvDjJg-R94_0000001 87.5 97.6 
+Alison_Pill/ckvDjJg-R94_0000002 97.8 102.4 
+Alison_Pill/ckvDjJg-R94_0000003 104.5 116.1 

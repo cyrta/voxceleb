@@ -1,0 +1,8 @@
+POI: 			Elaine_Hendrix 
+Youtube ID: 	qBTOwaSOS-M 
+Video length: 	108.4 sec 
+Set (V): 		test 
+ 
+Elaine_Hendrix/qBTOwaSOS-M_0000001 61.2 73.6 
+Elaine_Hendrix/qBTOwaSOS-M_0000002 63.6 68.1 
+Elaine_Hendrix/qBTOwaSOS-M_0000003 77.0 81.1 

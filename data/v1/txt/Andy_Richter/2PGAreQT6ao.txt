@@ -1,0 +1,9 @@
+POI: 			Andy_Richter 
+Youtube ID: 	2PGAreQT6ao 
+Video length: 	96.7 sec 
+Set (V): 		dev 
+ 
+Andy_Richter/2PGAreQT6ao_0000001 22.5 27.8 
+Andy_Richter/2PGAreQT6ao_0000002 36.5 43.3 
+Andy_Richter/2PGAreQT6ao_0000003 48.4 54.0 
+Andy_Richter/2PGAreQT6ao_0000004 88.9 93.0 

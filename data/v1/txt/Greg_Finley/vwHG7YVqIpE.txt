@@ -1,0 +1,10 @@
+POI: 			Greg_Finley 
+Youtube ID: 	vwHG7YVqIpE 
+Video length: 	161.8 sec 
+Set (V): 		dev 
+ 
+Greg_Finley/vwHG7YVqIpE_0000001 27.3 31.3 
+Greg_Finley/vwHG7YVqIpE_0000002 32.6 38.0 
+Greg_Finley/vwHG7YVqIpE_0000003 105.4 113.4 
+Greg_Finley/vwHG7YVqIpE_0000004 121.7 129.0 
+Greg_Finley/vwHG7YVqIpE_0000005 139.0 143.6 

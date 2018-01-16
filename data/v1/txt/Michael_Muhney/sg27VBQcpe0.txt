@@ -1,0 +1,7 @@
+POI: 			Michael_Muhney 
+Youtube ID: 	sg27VBQcpe0 
+Video length: 	603.9 sec 
+Set (V): 		dev 
+ 
+Michael_Muhney/sg27VBQcpe0_0000001 118.0 122.4 
+Michael_Muhney/sg27VBQcpe0_0000002 126.0 135.0 

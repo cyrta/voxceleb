@@ -1,0 +1,14 @@
+POI: 			Martin_Henderson 
+Youtube ID: 	ByxztElxbc4 
+Video length: 	341.5 sec 
+Set (V): 		dev 
+ 
+Martin_Henderson/ByxztElxbc4_0000001 12.3 18.4 
+Martin_Henderson/ByxztElxbc4_0000002 20.5 30.0 
+Martin_Henderson/ByxztElxbc4_0000003 60.4 71.0 
+Martin_Henderson/ByxztElxbc4_0000004 71.6 85.5 
+Martin_Henderson/ByxztElxbc4_0000005 85.8 95.7 
+Martin_Henderson/ByxztElxbc4_0000006 100.1 113.6 
+Martin_Henderson/ByxztElxbc4_0000007 251.2 261.3 
+Martin_Henderson/ByxztElxbc4_0000008 308.0 319.4 
+Martin_Henderson/ByxztElxbc4_0000009 319.8 326.1 

@@ -1,0 +1,15 @@
+POI: 			Miles_Teller 
+Youtube ID: 	hRvi2LwbWIA 
+Video length: 	718.0 sec 
+Set (V): 		dev 
+ 
+Miles_Teller/hRvi2LwbWIA_0000001 62.0 73.7 
+Miles_Teller/hRvi2LwbWIA_0000002 82.0 90.4 
+Miles_Teller/hRvi2LwbWIA_0000003 92.9 97.6 
+Miles_Teller/hRvi2LwbWIA_0000004 98.3 108.3 
+Miles_Teller/hRvi2LwbWIA_0000005 127.6 137.9 
+Miles_Teller/hRvi2LwbWIA_0000006 138.1 154.2 
+Miles_Teller/hRvi2LwbWIA_0000007 170.4 182.4 
+Miles_Teller/hRvi2LwbWIA_0000008 184.1 193.5 
+Miles_Teller/hRvi2LwbWIA_0000009 202.4 223.7 
+Miles_Teller/hRvi2LwbWIA_0000010 236.7 257.0 

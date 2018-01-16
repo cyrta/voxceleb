@@ -1,0 +1,8 @@
+POI: 			Andrea_Riseborough 
+Youtube ID: 	Jl7LhQwjKXI 
+Video length: 	433.0 sec 
+Set (V): 		dev 
+ 
+Andrea_Riseborough/Jl7LhQwjKXI_0000001 181.2 189.4 
+Andrea_Riseborough/Jl7LhQwjKXI_0000002 210.5 214.6 
+Andrea_Riseborough/Jl7LhQwjKXI_0000003 290.9 297.4 

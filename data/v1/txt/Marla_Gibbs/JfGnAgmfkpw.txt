@@ -1,0 +1,17 @@
+POI: 			Marla_Gibbs 
+Youtube ID: 	JfGnAgmfkpw 
+Video length: 	148.8 sec 
+Set (V): 		dev 
+ 
+Marla_Gibbs/JfGnAgmfkpw_0000001 05.9 12.0 
+Marla_Gibbs/JfGnAgmfkpw_0000002 13.0 21.7 
+Marla_Gibbs/JfGnAgmfkpw_0000003 23.0 27.8 
+Marla_Gibbs/JfGnAgmfkpw_0000004 28.8 45.1 
+Marla_Gibbs/JfGnAgmfkpw_0000005 45.4 51.5 
+Marla_Gibbs/JfGnAgmfkpw_0000006 54.8 62.8 
+Marla_Gibbs/JfGnAgmfkpw_0000007 70.6 88.8 
+Marla_Gibbs/JfGnAgmfkpw_0000008 89.8 102.0 
+Marla_Gibbs/JfGnAgmfkpw_0000009 102.5 107.1 
+Marla_Gibbs/JfGnAgmfkpw_0000010 107.6 112.6 
+Marla_Gibbs/JfGnAgmfkpw_0000011 119.0 130.0 
+Marla_Gibbs/JfGnAgmfkpw_0000012 133.0 139.6 

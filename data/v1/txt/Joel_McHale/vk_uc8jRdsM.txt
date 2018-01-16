@@ -1,0 +1,9 @@
+POI: 			Joel_McHale 
+Youtube ID: 	vk_uc8jRdsM 
+Video length: 	95.2 sec 
+Set (V): 		dev 
+ 
+Joel_McHale/vk_uc8jRdsM_0000001 19.9 28.8 
+Joel_McHale/vk_uc8jRdsM_0000002 29.0 43.2 
+Joel_McHale/vk_uc8jRdsM_0000003 43.6 62.7 
+Joel_McHale/vk_uc8jRdsM_0000004 72.6 82.8 

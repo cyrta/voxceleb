@@ -1,0 +1,10 @@
+POI: 			Jenny_Slate 
+Youtube ID: 	ITuPEZ_neVU 
+Video length: 	219.5 sec 
+Set (V): 		dev 
+ 
+Jenny_Slate/ITuPEZ_neVU_0000001 51.6 56.2 
+Jenny_Slate/ITuPEZ_neVU_0000002 58.4 71.4 
+Jenny_Slate/ITuPEZ_neVU_0000003 76.1 81.2 
+Jenny_Slate/ITuPEZ_neVU_0000004 137.4 142.2 
+Jenny_Slate/ITuPEZ_neVU_0000005 197.3 201.6 

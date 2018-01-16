@@ -1,0 +1,14 @@
+POI: 			Mark_Ruffalo 
+Youtube ID: 	4aJE1wFmLZE 
+Video length: 	301.4 sec 
+Set (V): 		dev 
+ 
+Mark_Ruffalo/4aJE1wFmLZE_0000001 29.3 49.2 
+Mark_Ruffalo/4aJE1wFmLZE_0000002 49.6 54.9 
+Mark_Ruffalo/4aJE1wFmLZE_0000003 56.0 62.0 
+Mark_Ruffalo/4aJE1wFmLZE_0000004 62.1 109.7 
+Mark_Ruffalo/4aJE1wFmLZE_0000005 114.0 126.0 
+Mark_Ruffalo/4aJE1wFmLZE_0000006 150.6 159.6 
+Mark_Ruffalo/4aJE1wFmLZE_0000007 224.3 230.0 
+Mark_Ruffalo/4aJE1wFmLZE_0000008 245.1 258.4 
+Mark_Ruffalo/4aJE1wFmLZE_0000009 269.1 273.3 

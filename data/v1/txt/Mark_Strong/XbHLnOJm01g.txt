@@ -1,0 +1,17 @@
+POI: 			Mark_Strong 
+Youtube ID: 	XbHLnOJm01g 
+Video length: 	283.0 sec 
+Set (V): 		dev 
+ 
+Mark_Strong/XbHLnOJm01g_0000001 19.9 30.6 
+Mark_Strong/XbHLnOJm01g_0000002 46.9 59.9 
+Mark_Strong/XbHLnOJm01g_0000003 89.3 99.0 
+Mark_Strong/XbHLnOJm01g_0000004 99.1 103.5 
+Mark_Strong/XbHLnOJm01g_0000005 124.0 137.3 
+Mark_Strong/XbHLnOJm01g_0000006 146.5 150.9 
+Mark_Strong/XbHLnOJm01g_0000007 180.2 188.0 
+Mark_Strong/XbHLnOJm01g_0000008 188.3 214.6 
+Mark_Strong/XbHLnOJm01g_0000009 236.0 244.6 
+Mark_Strong/XbHLnOJm01g_0000010 246.2 252.2 
+Mark_Strong/XbHLnOJm01g_0000011 252.6 264.4 
+Mark_Strong/XbHLnOJm01g_0000012 265.1 274.6 

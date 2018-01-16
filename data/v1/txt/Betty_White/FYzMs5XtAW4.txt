@@ -1,0 +1,8 @@
+POI: 			Betty_White 
+Youtube ID: 	FYzMs5XtAW4 
+Video length: 	994.4 sec 
+Set (V): 		dev 
+ 
+Betty_White/FYzMs5XtAW4_0000001 77.6 81.9 
+Betty_White/FYzMs5XtAW4_0000002 204.2 211.8 
+Betty_White/FYzMs5XtAW4_0000003 216.6 227.2 

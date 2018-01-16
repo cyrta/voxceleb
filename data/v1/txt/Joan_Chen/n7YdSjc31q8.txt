@@ -1,0 +1,13 @@
+POI: 			Joan_Chen 
+Youtube ID: 	n7YdSjc31q8 
+Video length: 	202.3 sec 
+Set (V): 		dev 
+ 
+Joan_Chen/n7YdSjc31q8_0000001 11.0 17.4 
+Joan_Chen/n7YdSjc31q8_0000002 34.0 43.2 
+Joan_Chen/n7YdSjc31q8_0000003 69.9 77.2 
+Joan_Chen/n7YdSjc31q8_0000004 101.1 106.8 
+Joan_Chen/n7YdSjc31q8_0000005 107.6 117.8 
+Joan_Chen/n7YdSjc31q8_0000006 158.0 172.2 
+Joan_Chen/n7YdSjc31q8_0000007 172.7 177.5 
+Joan_Chen/n7YdSjc31q8_0000008 195.7 200.6 

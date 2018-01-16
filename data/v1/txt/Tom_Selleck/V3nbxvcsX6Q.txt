@@ -1,0 +1,11 @@
+POI: 			Tom_Selleck 
+Youtube ID: 	V3nbxvcsX6Q 
+Video length: 	742.8 sec 
+Set (V): 		dev 
+ 
+Tom_Selleck/V3nbxvcsX6Q_0000001 165.5 174.4 
+Tom_Selleck/V3nbxvcsX6Q_0000002 231.2 235.6 
+Tom_Selleck/V3nbxvcsX6Q_0000003 468.9 473.2 
+Tom_Selleck/V3nbxvcsX6Q_0000004 521.2 526.9 
+Tom_Selleck/V3nbxvcsX6Q_0000005 576.0 582.0 
+Tom_Selleck/V3nbxvcsX6Q_0000006 613.2 622.6 

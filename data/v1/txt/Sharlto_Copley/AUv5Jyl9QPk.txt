@@ -1,0 +1,9 @@
+POI: 			Sharlto_Copley 
+Youtube ID: 	AUv5Jyl9QPk 
+Video length: 	74.9 sec 
+Set (V): 		dev 
+ 
+Sharlto_Copley/AUv5Jyl9QPk_0000001 11.8 24.7 
+Sharlto_Copley/AUv5Jyl9QPk_0000002 28.0 32.0 
+Sharlto_Copley/AUv5Jyl9QPk_0000003 43.6 52.2 
+Sharlto_Copley/AUv5Jyl9QPk_0000004 55.0 64.7 

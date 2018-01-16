@@ -1,0 +1,29 @@
+POI: 			Kenan_Thompson 
+Youtube ID: 	drr525bLzoA 
+Video length: 	729.1 sec 
+Set (V): 		dev 
+ 
+Kenan_Thompson/drr525bLzoA_0000001 86.8 95.2 
+Kenan_Thompson/drr525bLzoA_0000002 95.6 100.6 
+Kenan_Thompson/drr525bLzoA_0000003 106.7 112.6 
+Kenan_Thompson/drr525bLzoA_0000004 131.9 138.3 
+Kenan_Thompson/drr525bLzoA_0000005 190.2 196.8 
+Kenan_Thompson/drr525bLzoA_0000006 206.4 214.6 
+Kenan_Thompson/drr525bLzoA_0000007 241.1 247.8 
+Kenan_Thompson/drr525bLzoA_0000008 250.0 255.1 
+Kenan_Thompson/drr525bLzoA_0000009 278.6 282.6 
+Kenan_Thompson/drr525bLzoA_0000010 364.6 369.8 
+Kenan_Thompson/drr525bLzoA_0000011 377.7 382.1 
+Kenan_Thompson/drr525bLzoA_0000012 403.0 417.7 
+Kenan_Thompson/drr525bLzoA_0000013 418.4 427.4 
+Kenan_Thompson/drr525bLzoA_0000014 442.0 451.2 
+Kenan_Thompson/drr525bLzoA_0000015 456.1 465.6 
+Kenan_Thompson/drr525bLzoA_0000016 484.4 489.0 
+Kenan_Thompson/drr525bLzoA_0000017 490.8 499.0 
+Kenan_Thompson/drr525bLzoA_0000018 549.5 553.7 
+Kenan_Thompson/drr525bLzoA_0000019 563.6 576.7 
+Kenan_Thompson/drr525bLzoA_0000020 621.5 626.2 
+Kenan_Thompson/drr525bLzoA_0000021 626.4 633.7 
+Kenan_Thompson/drr525bLzoA_0000022 656.6 665.0 
+Kenan_Thompson/drr525bLzoA_0000023 665.6 676.8 
+Kenan_Thompson/drr525bLzoA_0000024 693.5 697.6 

@@ -1,0 +1,10 @@
+POI: 			Mitchel_Musso 
+Youtube ID: 	BFuL44m2Qm8 
+Video length: 	380.6 sec 
+Set (V): 		dev 
+ 
+Mitchel_Musso/BFuL44m2Qm8_0000001 31.0 36.7 
+Mitchel_Musso/BFuL44m2Qm8_0000002 122.8 127.1 
+Mitchel_Musso/BFuL44m2Qm8_0000003 156.3 161.4 
+Mitchel_Musso/BFuL44m2Qm8_0000004 254.4 259.2 
+Mitchel_Musso/BFuL44m2Qm8_0000005 261.8 267.9 

@@ -1,0 +1,13 @@
+POI: 			Charles_Dance 
+Youtube ID: 	c43VlB_oSts 
+Video length: 	220.2 sec 
+Set (V): 		dev 
+ 
+Charles_Dance/c43VlB_oSts_0000001 05.9 10.4 
+Charles_Dance/c43VlB_oSts_0000002 10.8 16.1 
+Charles_Dance/c43VlB_oSts_0000003 22.4 30.0 
+Charles_Dance/c43VlB_oSts_0000004 35.7 40.2 
+Charles_Dance/c43VlB_oSts_0000005 41.0 46.1 
+Charles_Dance/c43VlB_oSts_0000006 136.7 141.7 
+Charles_Dance/c43VlB_oSts_0000007 142.0 151.0 
+Charles_Dance/c43VlB_oSts_0000008 155.5 167.1 

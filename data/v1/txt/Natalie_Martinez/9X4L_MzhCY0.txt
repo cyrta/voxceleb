@@ -1,0 +1,13 @@
+POI: 			Natalie_Martinez 
+Youtube ID: 	9X4L_MzhCY0 
+Video length: 	124.2 sec 
+Set (V): 		dev 
+ 
+Natalie_Martinez/9X4L_MzhCY0_0000001 13.0 24.7 
+Natalie_Martinez/9X4L_MzhCY0_0000002 27.4 32.2 
+Natalie_Martinez/9X4L_MzhCY0_0000003 45.1 56.8 
+Natalie_Martinez/9X4L_MzhCY0_0000004 57.0 65.9 
+Natalie_Martinez/9X4L_MzhCY0_0000005 80.4 85.8 
+Natalie_Martinez/9X4L_MzhCY0_0000006 91.1 99.4 
+Natalie_Martinez/9X4L_MzhCY0_0000007 102.9 108.1 
+Natalie_Martinez/9X4L_MzhCY0_0000008 112.1 117.6 

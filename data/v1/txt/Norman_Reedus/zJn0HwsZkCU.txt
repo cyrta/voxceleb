@@ -1,0 +1,15 @@
+POI: 			Norman_Reedus 
+Youtube ID: 	zJn0HwsZkCU 
+Video length: 	619.2 sec 
+Set (V): 		dev 
+ 
+Norman_Reedus/zJn0HwsZkCU_0000001 63.7 67.9 
+Norman_Reedus/zJn0HwsZkCU_0000002 147.0 156.2 
+Norman_Reedus/zJn0HwsZkCU_0000003 156.7 162.2 
+Norman_Reedus/zJn0HwsZkCU_0000004 189.1 193.1 
+Norman_Reedus/zJn0HwsZkCU_0000005 193.9 203.0 
+Norman_Reedus/zJn0HwsZkCU_0000006 252.6 256.8 
+Norman_Reedus/zJn0HwsZkCU_0000007 284.5 288.7 
+Norman_Reedus/zJn0HwsZkCU_0000008 391.2 398.3 
+Norman_Reedus/zJn0HwsZkCU_0000009 437.6 445.9 
+Norman_Reedus/zJn0HwsZkCU_0000010 481.2 492.7 

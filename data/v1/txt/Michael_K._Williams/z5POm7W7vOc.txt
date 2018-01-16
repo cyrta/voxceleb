@@ -1,0 +1,22 @@
+POI: 			Michael_K._Williams 
+Youtube ID: 	z5POm7W7vOc 
+Video length: 	577.1 sec 
+Set (V): 		dev 
+ 
+Michael_K._Williams/z5POm7W7vOc_0000001 60.8 65.0 
+Michael_K._Williams/z5POm7W7vOc_0000002 90.9 95.9 
+Michael_K._Williams/z5POm7W7vOc_0000003 96.0 100.3 
+Michael_K._Williams/z5POm7W7vOc_0000004 229.8 234.2 
+Michael_K._Williams/z5POm7W7vOc_0000005 244.2 248.9 
+Michael_K._Williams/z5POm7W7vOc_0000006 250.1 254.8 
+Michael_K._Williams/z5POm7W7vOc_0000007 255.5 264.1 
+Michael_K._Williams/z5POm7W7vOc_0000008 290.7 299.8 
+Michael_K._Williams/z5POm7W7vOc_0000009 302.8 309.3 
+Michael_K._Williams/z5POm7W7vOc_0000010 309.5 323.4 
+Michael_K._Williams/z5POm7W7vOc_0000011 339.7 346.3 
+Michael_K._Williams/z5POm7W7vOc_0000012 391.5 395.6 
+Michael_K._Williams/z5POm7W7vOc_0000013 398.2 404.1 
+Michael_K._Williams/z5POm7W7vOc_0000014 473.0 480.5 
+Michael_K._Williams/z5POm7W7vOc_0000015 485.5 491.2 
+Michael_K._Williams/z5POm7W7vOc_0000016 493.5 499.2 
+Michael_K._Williams/z5POm7W7vOc_0000017 501.8 512.4 

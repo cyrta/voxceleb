@@ -1,0 +1,9 @@
+POI: 			Jordin_Sparks 
+Youtube ID: 	C60tcxZPHuw 
+Video length: 	259.5 sec 
+Set (V): 		dev 
+ 
+Jordin_Sparks/C60tcxZPHuw_0000001 120.2 126.9 
+Jordin_Sparks/C60tcxZPHuw_0000002 132.2 144.0 
+Jordin_Sparks/C60tcxZPHuw_0000003 146.7 151.0 
+Jordin_Sparks/C60tcxZPHuw_0000004 153.5 159.9 

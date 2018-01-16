@@ -1,0 +1,9 @@
+POI: 			Christian_Kane 
+Youtube ID: 	iHviSV_oY04 
+Video length: 	305.9 sec 
+Set (V): 		dev 
+ 
+Christian_Kane/iHviSV_oY04_0000001 23.0 37.7 
+Christian_Kane/iHviSV_oY04_0000002 189.9 197.2 
+Christian_Kane/iHviSV_oY04_0000003 203.7 209.9 
+Christian_Kane/iHviSV_oY04_0000004 242.8 251.1 

@@ -1,0 +1,16 @@
+POI: 			Dylan_McDermott 
+Youtube ID: 	rAHdNd6rQ0I 
+Video length: 	839.6 sec 
+Set (V): 		dev 
+ 
+Dylan_McDermott/rAHdNd6rQ0I_0000001 362.4 378.2 
+Dylan_McDermott/rAHdNd6rQ0I_0000002 379.0 387.5 
+Dylan_McDermott/rAHdNd6rQ0I_0000003 387.9 392.7 
+Dylan_McDermott/rAHdNd6rQ0I_0000004 439.5 443.5 
+Dylan_McDermott/rAHdNd6rQ0I_0000005 452.2 458.0 
+Dylan_McDermott/rAHdNd6rQ0I_0000006 482.8 493.0 
+Dylan_McDermott/rAHdNd6rQ0I_0000007 494.5 506.3 
+Dylan_McDermott/rAHdNd6rQ0I_0000008 508.2 519.9 
+Dylan_McDermott/rAHdNd6rQ0I_0000009 522.3 539.6 
+Dylan_McDermott/rAHdNd6rQ0I_0000010 549.2 565.0 
+Dylan_McDermott/rAHdNd6rQ0I_0000011 565.2 573.0 

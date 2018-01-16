@@ -1,0 +1,19 @@
+POI: 			Scott_Porter 
+Youtube ID: 	5hg2ijGPp-E 
+Video length: 	166.4 sec 
+Set (V): 		dev 
+ 
+Scott_Porter/5hg2ijGPp-E_0000001 07.6 11.9 
+Scott_Porter/5hg2ijGPp-E_0000002 13.8 19.7 
+Scott_Porter/5hg2ijGPp-E_0000003 20.8 29.6 
+Scott_Porter/5hg2ijGPp-E_0000004 31.3 39.8 
+Scott_Porter/5hg2ijGPp-E_0000005 41.6 48.8 
+Scott_Porter/5hg2ijGPp-E_0000006 50.5 55.4 
+Scott_Porter/5hg2ijGPp-E_0000007 55.6 79.6 
+Scott_Porter/5hg2ijGPp-E_0000008 82.0 95.1 
+Scott_Porter/5hg2ijGPp-E_0000009 103.0 125.6 
+Scott_Porter/5hg2ijGPp-E_0000010 126.2 132.8 
+Scott_Porter/5hg2ijGPp-E_0000011 134.0 142.2 
+Scott_Porter/5hg2ijGPp-E_0000012 143.9 148.2 
+Scott_Porter/5hg2ijGPp-E_0000013 126.7 152.8 
+Scott_Porter/5hg2ijGPp-E_0000014 154.9 160.1 

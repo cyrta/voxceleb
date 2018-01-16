@@ -1,0 +1,14 @@
+POI: 			Seth_Meyers 
+Youtube ID: 	tWAtAU9avEQ 
+Video length: 	336.9 sec 
+Set (V): 		dev 
+ 
+Seth_Meyers/tWAtAU9avEQ_0000001 62.9 68.1 
+Seth_Meyers/tWAtAU9avEQ_0000002 89.0 95.4 
+Seth_Meyers/tWAtAU9avEQ_0000003 107.9 116.5 
+Seth_Meyers/tWAtAU9avEQ_0000004 116.8 125.1 
+Seth_Meyers/tWAtAU9avEQ_0000005 222.0 232.8 
+Seth_Meyers/tWAtAU9avEQ_0000006 248.3 264.0 
+Seth_Meyers/tWAtAU9avEQ_0000007 273.9 278.3 
+Seth_Meyers/tWAtAU9avEQ_0000008 301.5 312.8 
+Seth_Meyers/tWAtAU9avEQ_0000009 314.9 332.4 

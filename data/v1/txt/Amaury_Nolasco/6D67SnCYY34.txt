@@ -1,0 +1,9 @@
+POI: 			Amaury_Nolasco 
+Youtube ID: 	6D67SnCYY34 
+Video length: 	316.3 sec 
+Set (V): 		dev 
+ 
+Amaury_Nolasco/6D67SnCYY34_0000001 17.7 22.0 
+Amaury_Nolasco/6D67SnCYY34_0000002 50.8 56.4 
+Amaury_Nolasco/6D67SnCYY34_0000003 103.8 107.8 
+Amaury_Nolasco/6D67SnCYY34_0000004 185.2 190.9 

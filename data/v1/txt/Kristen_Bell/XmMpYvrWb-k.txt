@@ -1,0 +1,14 @@
+POI: 			Kristen_Bell 
+Youtube ID: 	XmMpYvrWb-k 
+Video length: 	222.3 sec 
+Set (V): 		dev 
+ 
+Kristen_Bell/XmMpYvrWb-k_0000001 28.1 35.0 
+Kristen_Bell/XmMpYvrWb-k_0000002 69.0 77.0 
+Kristen_Bell/XmMpYvrWb-k_0000003 107.4 113.8 
+Kristen_Bell/XmMpYvrWb-k_0000004 121.6 129.7 
+Kristen_Bell/XmMpYvrWb-k_0000005 130.0 134.4 
+Kristen_Bell/XmMpYvrWb-k_0000006 149.4 156.2 
+Kristen_Bell/XmMpYvrWb-k_0000007 165.8 174.8 
+Kristen_Bell/XmMpYvrWb-k_0000008 183.6 188.2 
+Kristen_Bell/XmMpYvrWb-k_0000009 196.5 200.6 

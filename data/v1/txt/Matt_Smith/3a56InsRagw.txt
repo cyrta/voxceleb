@@ -1,0 +1,15 @@
+POI: 			Matt_Smith 
+Youtube ID: 	3a56InsRagw 
+Video length: 	1452.9 sec 
+Set (V): 		dev 
+ 
+Matt_Smith/3a56InsRagw_0000001 82.8 87.0 
+Matt_Smith/3a56InsRagw_0000002 530.8 537.2 
+Matt_Smith/3a56InsRagw_0000003 753.8 757.8 
+Matt_Smith/3a56InsRagw_0000004 777.5 782.6 
+Matt_Smith/3a56InsRagw_0000005 783.4 790.9 
+Matt_Smith/3a56InsRagw_0000006 880.9 885.8 
+Matt_Smith/3a56InsRagw_0000007 1058.0 1069.7 
+Matt_Smith/3a56InsRagw_0000008 1155.2 1159.8 
+Matt_Smith/3a56InsRagw_0000009 1201.2 1208.4 
+Matt_Smith/3a56InsRagw_0000010 1378.1 1383.4 

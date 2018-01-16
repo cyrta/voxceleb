@@ -1,0 +1,20 @@
+POI: 			Joe_Flanigan 
+Youtube ID: 	Idh82vif7No 
+Video length: 	503.0 sec 
+Set (V): 		dev 
+ 
+Joe_Flanigan/Idh82vif7No_0000001 15.1 28.1 
+Joe_Flanigan/Idh82vif7No_0000002 44.8 49.6 
+Joe_Flanigan/Idh82vif7No_0000003 53.2 57.9 
+Joe_Flanigan/Idh82vif7No_0000004 60.9 69.0 
+Joe_Flanigan/Idh82vif7No_0000005 96.1 102.1 
+Joe_Flanigan/Idh82vif7No_0000006 111.2 116.2 
+Joe_Flanigan/Idh82vif7No_0000007 132.1 154.6 
+Joe_Flanigan/Idh82vif7No_0000008 159.8 165.7 
+Joe_Flanigan/Idh82vif7No_0000009 166.7 172.9 
+Joe_Flanigan/Idh82vif7No_0000010 200.3 214.7 
+Joe_Flanigan/Idh82vif7No_0000011 215.0 220.7 
+Joe_Flanigan/Idh82vif7No_0000012 226.6 231.8 
+Joe_Flanigan/Idh82vif7No_0000013 246.3 251.2 
+Joe_Flanigan/Idh82vif7No_0000014 312.0 317.0 
+Joe_Flanigan/Idh82vif7No_0000015 321.3 330.3 

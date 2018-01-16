@@ -1,0 +1,15 @@
+POI: 			Kate_Mansi 
+Youtube ID: 	v45k9BpWVr8 
+Video length: 	267.3 sec 
+Set (V): 		dev 
+ 
+Kate_Mansi/v45k9BpWVr8_0000001 15.1 21.5 
+Kate_Mansi/v45k9BpWVr8_0000002 21.7 36.7 
+Kate_Mansi/v45k9BpWVr8_0000003 40.2 50.0 
+Kate_Mansi/v45k9BpWVr8_0000004 50.2 58.2 
+Kate_Mansi/v45k9BpWVr8_0000005 58.5 62.7 
+Kate_Mansi/v45k9BpWVr8_0000006 63.3 68.1 
+Kate_Mansi/v45k9BpWVr8_0000007 193.2 200.0 
+Kate_Mansi/v45k9BpWVr8_0000008 200.6 214.7 
+Kate_Mansi/v45k9BpWVr8_0000009 215.4 221.2 
+Kate_Mansi/v45k9BpWVr8_0000010 234.5 239.0 

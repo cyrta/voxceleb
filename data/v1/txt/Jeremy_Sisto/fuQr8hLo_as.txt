@@ -1,0 +1,8 @@
+POI: 			Jeremy_Sisto 
+Youtube ID: 	fuQr8hLo_as 
+Video length: 	253.2 sec 
+Set (V): 		dev 
+ 
+Jeremy_Sisto/fuQr8hLo_as_0000001 106.8 118.8 
+Jeremy_Sisto/fuQr8hLo_as_0000002 163.4 175.8 
+Jeremy_Sisto/fuQr8hLo_as_0000003 232.5 244.4 

@@ -1,0 +1,7 @@
+POI: 			Rik_Mayall 
+Youtube ID: 	x6BsMQYIQos 
+Video length: 	474.1 sec 
+Set (V): 		dev 
+ 
+Rik_Mayall/x6BsMQYIQos_0000001 122.5 129.6 
+Rik_Mayall/x6BsMQYIQos_0000002 280.6 298.4 

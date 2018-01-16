@@ -1,0 +1,15 @@
+POI: 			Roger_Ebert 
+Youtube ID: 	P_V-TnaJJXQ 
+Video length: 	146.3 sec 
+Set (V): 		dev 
+ 
+Roger_Ebert/P_V-TnaJJXQ_0000001 06.8 11.3 
+Roger_Ebert/P_V-TnaJJXQ_0000002 11.9 17.6 
+Roger_Ebert/P_V-TnaJJXQ_0000003 30.4 35.7 
+Roger_Ebert/P_V-TnaJJXQ_0000004 51.4 56.2 
+Roger_Ebert/P_V-TnaJJXQ_0000005 67.6 72.8 
+Roger_Ebert/P_V-TnaJJXQ_0000006 73.2 78.4 
+Roger_Ebert/P_V-TnaJJXQ_0000007 93.4 100.6 
+Roger_Ebert/P_V-TnaJJXQ_0000008 105.2 110.7 
+Roger_Ebert/P_V-TnaJJXQ_0000009 119.6 125.1 
+Roger_Ebert/P_V-TnaJJXQ_0000010 126.2 132.8 

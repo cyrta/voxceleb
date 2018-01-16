@@ -1,0 +1,9 @@
+POI: 			Danny_McBride 
+Youtube ID: 	CiSKCDoPOGs 
+Video length: 	89.9 sec 
+Set (V): 		dev 
+ 
+Danny_McBride/CiSKCDoPOGs_0000001 06.9 20.5 
+Danny_McBride/CiSKCDoPOGs_0000002 22.7 34.6 
+Danny_McBride/CiSKCDoPOGs_0000003 40.2 46.8 
+Danny_McBride/CiSKCDoPOGs_0000004 71.5 84.3 

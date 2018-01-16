@@ -1,0 +1,12 @@
+POI: 			Ana_Gasteyer 
+Youtube ID: 	wB8-FSSxLlA 
+Video length: 	183.8 sec 
+Set (V): 		dev 
+ 
+Ana_Gasteyer/wB8-FSSxLlA_0000001 26.0 30.8 
+Ana_Gasteyer/wB8-FSSxLlA_0000002 50.3 60.9 
+Ana_Gasteyer/wB8-FSSxLlA_0000003 98.8 104.8 
+Ana_Gasteyer/wB8-FSSxLlA_0000004 110.7 119.8 
+Ana_Gasteyer/wB8-FSSxLlA_0000005 122.3 129.8 
+Ana_Gasteyer/wB8-FSSxLlA_0000006 133.8 137.8 
+Ana_Gasteyer/wB8-FSSxLlA_0000007 141.2 145.8 

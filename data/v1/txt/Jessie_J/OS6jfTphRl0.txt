@@ -1,0 +1,20 @@
+POI: 			Jessie_J 
+Youtube ID: 	OS6jfTphRl0 
+Video length: 	446.3 sec 
+Set (V): 		dev 
+ 
+Jessie_J/OS6jfTphRl0_0000001 20.8 26.6 
+Jessie_J/OS6jfTphRl0_0000002 52.3 58.8 
+Jessie_J/OS6jfTphRl0_0000003 115.6 134.6 
+Jessie_J/OS6jfTphRl0_0000004 169.6 184.5 
+Jessie_J/OS6jfTphRl0_0000005 193.9 202.2 
+Jessie_J/OS6jfTphRl0_0000006 220.7 235.3 
+Jessie_J/OS6jfTphRl0_0000007 246.0 258.0 
+Jessie_J/OS6jfTphRl0_0000008 267.1 271.4 
+Jessie_J/OS6jfTphRl0_0000009 272.0 276.8 
+Jessie_J/OS6jfTphRl0_0000010 296.7 304.0 
+Jessie_J/OS6jfTphRl0_0000011 336.7 343.0 
+Jessie_J/OS6jfTphRl0_0000012 346.2 354.3 
+Jessie_J/OS6jfTphRl0_0000013 367.7 371.8 
+Jessie_J/OS6jfTphRl0_0000014 396.0 401.6 
+Jessie_J/OS6jfTphRl0_0000015 409.3 414.9 

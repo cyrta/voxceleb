@@ -1,0 +1,16 @@
+POI: 			Kevin_Smith 
+Youtube ID: 	XgI8WGfJimY 
+Video length: 	849.4 sec 
+Set (V): 		dev 
+ 
+Kevin_Smith/XgI8WGfJimY_0000001 353.0 357.6 
+Kevin_Smith/XgI8WGfJimY_0000002 359.5 369.2 
+Kevin_Smith/XgI8WGfJimY_0000003 459.2 465.4 
+Kevin_Smith/XgI8WGfJimY_0000004 477.3 481.4 
+Kevin_Smith/XgI8WGfJimY_0000005 522.2 526.3 
+Kevin_Smith/XgI8WGfJimY_0000006 557.1 561.3 
+Kevin_Smith/XgI8WGfJimY_0000007 589.2 597.1 
+Kevin_Smith/XgI8WGfJimY_0000008 647.2 653.3 
+Kevin_Smith/XgI8WGfJimY_0000009 704.6 711.9 
+Kevin_Smith/XgI8WGfJimY_0000010 783.9 790.5 
+Kevin_Smith/XgI8WGfJimY_0000011 806.4 811.3 

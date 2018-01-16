@@ -1,0 +1,11 @@
+POI: 			Sean_Patrick_Flanery 
+Youtube ID: 	oRYIqokhcng 
+Video length: 	266.8 sec 
+Set (V): 		dev 
+ 
+Sean_Patrick_Flanery/oRYIqokhcng_0000001 44.7 50.1 
+Sean_Patrick_Flanery/oRYIqokhcng_0000002 98.3 108.4 
+Sean_Patrick_Flanery/oRYIqokhcng_0000003 116.3 122.6 
+Sean_Patrick_Flanery/oRYIqokhcng_0000004 128.4 134.4 
+Sean_Patrick_Flanery/oRYIqokhcng_0000005 164.8 174.2 
+Sean_Patrick_Flanery/oRYIqokhcng_0000006 203.1 208.0 

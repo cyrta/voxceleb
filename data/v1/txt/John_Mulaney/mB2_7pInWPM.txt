@@ -1,0 +1,8 @@
+POI: 			John_Mulaney 
+Youtube ID: 	mB2_7pInWPM 
+Video length: 	408.2 sec 
+Set (V): 		dev 
+ 
+John_Mulaney/mB2_7pInWPM_0000001 19.4 25.0 
+John_Mulaney/mB2_7pInWPM_0000002 216.6 220.7 
+John_Mulaney/mB2_7pInWPM_0000003 313.4 319.0 

@@ -1,0 +1,8 @@
+POI: 			Tatiana_Maslany 
+Youtube ID: 	inXh-EbAhBI 
+Video length: 	128.2 sec 
+Set (V): 		dev 
+ 
+Tatiana_Maslany/inXh-EbAhBI_0000001 25.9 31.4 
+Tatiana_Maslany/inXh-EbAhBI_0000002 53.5 61.5 
+Tatiana_Maslany/inXh-EbAhBI_0000003 70.0 74.9 

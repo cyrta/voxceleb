@@ -1,0 +1,16 @@
+POI: 			Nate_Parker 
+Youtube ID: 	JNjPvyEoGXU 
+Video length: 	266.9 sec 
+Set (V): 		dev 
+ 
+Nate_Parker/JNjPvyEoGXU_0000001 16.2 22.7 
+Nate_Parker/JNjPvyEoGXU_0000002 26.7 32.8 
+Nate_Parker/JNjPvyEoGXU_0000003 34.8 41.2 
+Nate_Parker/JNjPvyEoGXU_0000004 42.6 51.3 
+Nate_Parker/JNjPvyEoGXU_0000005 52.2 56.8 
+Nate_Parker/JNjPvyEoGXU_0000006 143.3 168.6 
+Nate_Parker/JNjPvyEoGXU_0000007 175.1 183.0 
+Nate_Parker/JNjPvyEoGXU_0000008 189.2 196.7 
+Nate_Parker/JNjPvyEoGXU_0000009 201.0 205.3 
+Nate_Parker/JNjPvyEoGXU_0000010 206.2 218.1 
+Nate_Parker/JNjPvyEoGXU_0000011 248.7 252.8 

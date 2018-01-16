@@ -1,0 +1,8 @@
+POI: 			Randolph_Mantooth 
+Youtube ID: 	rIThjzDggVk 
+Video length: 	136.5 sec 
+Set (V): 		dev 
+ 
+Randolph_Mantooth/rIThjzDggVk_0000001 23.1 29.4 
+Randolph_Mantooth/rIThjzDggVk_0000002 33.0 42.7 
+Randolph_Mantooth/rIThjzDggVk_0000003 122.9 126.9 

@@ -1,0 +1,22 @@
+POI: 			Katherine_Jenkins 
+Youtube ID: 	H7FAcxxwIQ4 
+Video length: 	611.5 sec 
+Set (V): 		dev 
+ 
+Katherine_Jenkins/H7FAcxxwIQ4_0000001 22.4 31.0 
+Katherine_Jenkins/H7FAcxxwIQ4_0000002 48.7 58.9 
+Katherine_Jenkins/H7FAcxxwIQ4_0000003 59.7 64.5 
+Katherine_Jenkins/H7FAcxxwIQ4_0000004 68.4 72.4 
+Katherine_Jenkins/H7FAcxxwIQ4_0000005 73.1 78.1 
+Katherine_Jenkins/H7FAcxxwIQ4_0000006 79.7 84.6 
+Katherine_Jenkins/H7FAcxxwIQ4_0000007 85.4 89.4 
+Katherine_Jenkins/H7FAcxxwIQ4_0000008 89.6 95.1 
+Katherine_Jenkins/H7FAcxxwIQ4_0000009 99.4 115.9 
+Katherine_Jenkins/H7FAcxxwIQ4_0000010 298.5 303.6 
+Katherine_Jenkins/H7FAcxxwIQ4_0000011 310.4 314.5 
+Katherine_Jenkins/H7FAcxxwIQ4_0000012 321.1 325.6 
+Katherine_Jenkins/H7FAcxxwIQ4_0000013 567.4 575.4 
+Katherine_Jenkins/H7FAcxxwIQ4_0000014 575.5 580.6 
+Katherine_Jenkins/H7FAcxxwIQ4_0000015 581.0 590.8 
+Katherine_Jenkins/H7FAcxxwIQ4_0000016 591.3 603.6 
+Katherine_Jenkins/H7FAcxxwIQ4_0000017 604.7 609.7 

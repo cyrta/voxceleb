@@ -1,0 +1,12 @@
+POI: 			Ray_Winstone 
+Youtube ID: 	ztimazDK1Ks 
+Video length: 	270.2 sec 
+Set (V): 		dev 
+ 
+Ray_Winstone/ztimazDK1Ks_0000001 31.3 36.4 
+Ray_Winstone/ztimazDK1Ks_0000002 38.0 53.4 
+Ray_Winstone/ztimazDK1Ks_0000003 57.7 62.6 
+Ray_Winstone/ztimazDK1Ks_0000004 71.9 79.6 
+Ray_Winstone/ztimazDK1Ks_0000005 117.0 133.4 
+Ray_Winstone/ztimazDK1Ks_0000006 181.6 186.2 
+Ray_Winstone/ztimazDK1Ks_0000007 252.4 258.9 

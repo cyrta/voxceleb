@@ -1,0 +1,18 @@
+POI: 			Rachel_McAdams 
+Youtube ID: 	Vn3d7qBeIqY 
+Video length: 	225.8 sec 
+Set (V): 		dev 
+ 
+Rachel_McAdams/Vn3d7qBeIqY_0000001 16.8 22.0 
+Rachel_McAdams/Vn3d7qBeIqY_0000002 30.7 48.0 
+Rachel_McAdams/Vn3d7qBeIqY_0000003 50.2 54.6 
+Rachel_McAdams/Vn3d7qBeIqY_0000004 55.4 67.6 
+Rachel_McAdams/Vn3d7qBeIqY_0000005 84.8 91.4 
+Rachel_McAdams/Vn3d7qBeIqY_0000006 98.4 106.4 
+Rachel_McAdams/Vn3d7qBeIqY_0000007 107.0 111.9 
+Rachel_McAdams/Vn3d7qBeIqY_0000008 115.8 121.0 
+Rachel_McAdams/Vn3d7qBeIqY_0000009 121.2 127.8 
+Rachel_McAdams/Vn3d7qBeIqY_0000010 139.2 156.5 
+Rachel_McAdams/Vn3d7qBeIqY_0000011 156.6 160.6 
+Rachel_McAdams/Vn3d7qBeIqY_0000012 160.7 164.7 
+Rachel_McAdams/Vn3d7qBeIqY_0000013 174.2 190.6 

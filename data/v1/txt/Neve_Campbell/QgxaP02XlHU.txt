@@ -1,0 +1,14 @@
+POI: 			Neve_Campbell 
+Youtube ID: 	QgxaP02XlHU 
+Video length: 	274.5 sec 
+Set (V): 		dev 
+ 
+Neve_Campbell/QgxaP02XlHU_0000001 60.3 64.4 
+Neve_Campbell/QgxaP02XlHU_0000002 44.7 54.2 
+Neve_Campbell/QgxaP02XlHU_0000003 56.9 64.4 
+Neve_Campbell/QgxaP02XlHU_0000004 72.9 77.1 
+Neve_Campbell/QgxaP02XlHU_0000005 81.5 86.6 
+Neve_Campbell/QgxaP02XlHU_0000006 91.3 96.4 
+Neve_Campbell/QgxaP02XlHU_0000007 97.2 108.7 
+Neve_Campbell/QgxaP02XlHU_0000008 111.7 116.2 
+Neve_Campbell/QgxaP02XlHU_0000009 123.3 129.9 

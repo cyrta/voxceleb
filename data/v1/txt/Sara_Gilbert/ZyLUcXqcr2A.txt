@@ -1,0 +1,9 @@
+POI: 			Sara_Gilbert 
+Youtube ID: 	ZyLUcXqcr2A 
+Video length: 	78.9 sec 
+Set (V): 		dev 
+ 
+Sara_Gilbert/ZyLUcXqcr2A_0000001 27.0 35.5 
+Sara_Gilbert/ZyLUcXqcr2A_0000002 36.0 41.1 
+Sara_Gilbert/ZyLUcXqcr2A_0000003 48.0 58.9 
+Sara_Gilbert/ZyLUcXqcr2A_0000004 64.4 74.4 

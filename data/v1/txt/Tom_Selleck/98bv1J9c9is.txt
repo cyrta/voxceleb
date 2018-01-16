@@ -1,0 +1,19 @@
+POI: 			Tom_Selleck 
+Youtube ID: 	98bv1J9c9is 
+Video length: 	273.8 sec 
+Set (V): 		dev 
+ 
+Tom_Selleck/98bv1J9c9is_0000001 18.6 26.7 
+Tom_Selleck/98bv1J9c9is_0000002 49.9 54.9 
+Tom_Selleck/98bv1J9c9is_0000003 59.4 71.0 
+Tom_Selleck/98bv1J9c9is_0000004 78.8 85.7 
+Tom_Selleck/98bv1J9c9is_0000005 100.1 116.4 
+Tom_Selleck/98bv1J9c9is_0000006 130.8 134.8 
+Tom_Selleck/98bv1J9c9is_0000007 139.8 145.3 
+Tom_Selleck/98bv1J9c9is_0000008 160.9 166.7 
+Tom_Selleck/98bv1J9c9is_0000009 168.2 172.6 
+Tom_Selleck/98bv1J9c9is_0000010 190.3 198.5 
+Tom_Selleck/98bv1J9c9is_0000011 217.0 221.4 
+Tom_Selleck/98bv1J9c9is_0000012 226.8 233.8 
+Tom_Selleck/98bv1J9c9is_0000013 236.9 243.7 
+Tom_Selleck/98bv1J9c9is_0000014 248.6 252.9 

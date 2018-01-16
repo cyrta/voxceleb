@@ -1,0 +1,13 @@
+POI: 			Michelle_Dockery 
+Youtube ID: 	8pzpzGkPino 
+Video length: 	288.8 sec 
+Set (V): 		dev 
+ 
+Michelle_Dockery/8pzpzGkPino_0000001 15.0 19.4 
+Michelle_Dockery/8pzpzGkPino_0000002 35.2 42.4 
+Michelle_Dockery/8pzpzGkPino_0000003 48.2 58.9 
+Michelle_Dockery/8pzpzGkPino_0000004 190.2 195.8 
+Michelle_Dockery/8pzpzGkPino_0000005 200.5 205.0 
+Michelle_Dockery/8pzpzGkPino_0000006 208.4 219.2 
+Michelle_Dockery/8pzpzGkPino_0000007 227.0 233.6 
+Michelle_Dockery/8pzpzGkPino_0000008 263.8 269.2 

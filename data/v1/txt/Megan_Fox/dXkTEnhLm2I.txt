@@ -1,0 +1,8 @@
+POI: 			Megan_Fox 
+Youtube ID: 	dXkTEnhLm2I 
+Video length: 	237.1 sec 
+Set (V): 		dev 
+ 
+Megan_Fox/dXkTEnhLm2I_0000001 47.1 57.3 
+Megan_Fox/dXkTEnhLm2I_0000002 140.4 147.7 
+Megan_Fox/dXkTEnhLm2I_0000003 211.1 219.0 

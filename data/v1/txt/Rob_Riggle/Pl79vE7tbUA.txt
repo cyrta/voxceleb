@@ -1,0 +1,16 @@
+POI: 			Rob_Riggle 
+Youtube ID: 	Pl79vE7tbUA 
+Video length: 	168.8 sec 
+Set (V): 		dev 
+ 
+Rob_Riggle/Pl79vE7tbUA_0000001 10.9 15.4 
+Rob_Riggle/Pl79vE7tbUA_0000002 29.8 35.6 
+Rob_Riggle/Pl79vE7tbUA_0000003 50.1 62.4 
+Rob_Riggle/Pl79vE7tbUA_0000004 70.4 75.6 
+Rob_Riggle/Pl79vE7tbUA_0000005 77.5 83.0 
+Rob_Riggle/Pl79vE7tbUA_0000006 101.6 106.7 
+Rob_Riggle/Pl79vE7tbUA_0000007 119.5 124.2 
+Rob_Riggle/Pl79vE7tbUA_0000008 136.3 145.6 
+Rob_Riggle/Pl79vE7tbUA_0000009 146.3 150.4 
+Rob_Riggle/Pl79vE7tbUA_0000010 151.4 156.0 
+Rob_Riggle/Pl79vE7tbUA_0000011 160.2 164.9 

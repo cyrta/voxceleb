@@ -1,0 +1,8 @@
+POI: 			Matt_Smith 
+Youtube ID: 	doI8mhVErgs 
+Video length: 	488.3 sec 
+Set (V): 		dev 
+ 
+Matt_Smith/doI8mhVErgs_0000001 36.5 41.9 
+Matt_Smith/doI8mhVErgs_0000002 96.6 103.2 
+Matt_Smith/doI8mhVErgs_0000003 207.1 211.6 

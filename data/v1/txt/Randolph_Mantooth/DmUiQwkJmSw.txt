@@ -1,0 +1,16 @@
+POI: 			Randolph_Mantooth 
+Youtube ID: 	DmUiQwkJmSw 
+Video length: 	449.5 sec 
+Set (V): 		dev 
+ 
+Randolph_Mantooth/DmUiQwkJmSw_0000001 33.2 42.1 
+Randolph_Mantooth/DmUiQwkJmSw_0000002 43.4 47.4 
+Randolph_Mantooth/DmUiQwkJmSw_0000003 49.7 56.0 
+Randolph_Mantooth/DmUiQwkJmSw_0000004 56.1 76.1 
+Randolph_Mantooth/DmUiQwkJmSw_0000005 89.0 94.4 
+Randolph_Mantooth/DmUiQwkJmSw_0000006 104.4 114.6 
+Randolph_Mantooth/DmUiQwkJmSw_0000007 120.3 125.2 
+Randolph_Mantooth/DmUiQwkJmSw_0000008 132.8 137.0 
+Randolph_Mantooth/DmUiQwkJmSw_0000009 138.4 143.4 
+Randolph_Mantooth/DmUiQwkJmSw_0000010 207.3 213.0 
+Randolph_Mantooth/DmUiQwkJmSw_0000011 213.6 218.7 

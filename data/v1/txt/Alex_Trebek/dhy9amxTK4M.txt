@@ -1,0 +1,31 @@
+POI: 			Alex_Trebek 
+Youtube ID: 	dhy9amxTK4M 
+Video length: 	382.9 sec 
+Set (V): 		dev 
+ 
+Alex_Trebek/dhy9amxTK4M_0000001 25.7 29.9 
+Alex_Trebek/dhy9amxTK4M_0000002 32.6 40.3 
+Alex_Trebek/dhy9amxTK4M_0000003 46.8 57.9 
+Alex_Trebek/dhy9amxTK4M_0000004 66.6 76.1 
+Alex_Trebek/dhy9amxTK4M_0000005 85.4 89.4 
+Alex_Trebek/dhy9amxTK4M_0000006 95.0 105.0 
+Alex_Trebek/dhy9amxTK4M_0000007 118.9 140.8 
+Alex_Trebek/dhy9amxTK4M_0000008 143.1 147.5 
+Alex_Trebek/dhy9amxTK4M_0000009 150.5 154.6 
+Alex_Trebek/dhy9amxTK4M_0000010 164.4 170.5 
+Alex_Trebek/dhy9amxTK4M_0000011 177.6 181.9 
+Alex_Trebek/dhy9amxTK4M_0000012 182.8 188.9 
+Alex_Trebek/dhy9amxTK4M_0000013 190.9 200.2 
+Alex_Trebek/dhy9amxTK4M_0000014 202.3 211.1 
+Alex_Trebek/dhy9amxTK4M_0000015 213.4 229.7 
+Alex_Trebek/dhy9amxTK4M_0000016 242.0 249.4 
+Alex_Trebek/dhy9amxTK4M_0000017 250.0 259.8 
+Alex_Trebek/dhy9amxTK4M_0000018 262.0 266.7 
+Alex_Trebek/dhy9amxTK4M_0000019 268.7 274.2 
+Alex_Trebek/dhy9amxTK4M_0000020 277.0 282.9 
+Alex_Trebek/dhy9amxTK4M_0000021 298.1 312.5 
+Alex_Trebek/dhy9amxTK4M_0000022 314.6 322.9 
+Alex_Trebek/dhy9amxTK4M_0000023 324.9 333.0 
+Alex_Trebek/dhy9amxTK4M_0000024 348.1 354.7 
+Alex_Trebek/dhy9amxTK4M_0000025 356.9 368.6 
+Alex_Trebek/dhy9amxTK4M_0000026 372.4 377.0 

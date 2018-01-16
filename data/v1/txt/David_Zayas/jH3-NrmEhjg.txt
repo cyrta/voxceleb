@@ -1,0 +1,28 @@
+POI: 			David_Zayas 
+Youtube ID: 	jH3-NrmEhjg 
+Video length: 	676.9 sec 
+Set (V): 		dev 
+ 
+David_Zayas/jH3-NrmEhjg_0000001 02.8 07.0 
+David_Zayas/jH3-NrmEhjg_0000002 165.4 171.0 
+David_Zayas/jH3-NrmEhjg_0000003 171.2 179.9 
+David_Zayas/jH3-NrmEhjg_0000004 186.0 193.4 
+David_Zayas/jH3-NrmEhjg_0000005 211.6 228.2 
+David_Zayas/jH3-NrmEhjg_0000006 246.0 250.5 
+David_Zayas/jH3-NrmEhjg_0000007 259.9 269.6 
+David_Zayas/jH3-NrmEhjg_0000008 300.5 312.0 
+David_Zayas/jH3-NrmEhjg_0000009 312.9 333.2 
+David_Zayas/jH3-NrmEhjg_0000010 359.4 367.8 
+David_Zayas/jH3-NrmEhjg_0000011 381.5 398.4 
+David_Zayas/jH3-NrmEhjg_0000012 399.2 408.6 
+David_Zayas/jH3-NrmEhjg_0000013 412.5 424.7 
+David_Zayas/jH3-NrmEhjg_0000014 433.1 439.8 
+David_Zayas/jH3-NrmEhjg_0000015 445.8 454.6 
+David_Zayas/jH3-NrmEhjg_0000016 455.0 459.9 
+David_Zayas/jH3-NrmEhjg_0000017 493.4 511.3 
+David_Zayas/jH3-NrmEhjg_0000018 514.5 531.9 
+David_Zayas/jH3-NrmEhjg_0000019 542.0 556.0 
+David_Zayas/jH3-NrmEhjg_0000020 556.4 570.5 
+David_Zayas/jH3-NrmEhjg_0000021 610.8 623.6 
+David_Zayas/jH3-NrmEhjg_0000022 627.4 642.8 
+David_Zayas/jH3-NrmEhjg_0000023 656.6 666.8 

@@ -1,0 +1,8 @@
+POI: 			Linda_Gray 
+Youtube ID: 	HcdIcYWSvwY 
+Video length: 	875.4 sec 
+Set (V): 		dev 
+ 
+Linda_Gray/HcdIcYWSvwY_0000001 118.6 124.1 
+Linda_Gray/HcdIcYWSvwY_0000002 129.0 141.0 
+Linda_Gray/HcdIcYWSvwY_0000003 758.4 762.5 

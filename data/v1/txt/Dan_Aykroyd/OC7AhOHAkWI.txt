@@ -1,0 +1,10 @@
+POI: 			Dan_Aykroyd 
+Youtube ID: 	OC7AhOHAkWI 
+Video length: 	793.8 sec 
+Set (V): 		dev 
+ 
+Dan_Aykroyd/OC7AhOHAkWI_0000001 122.9 128.8 
+Dan_Aykroyd/OC7AhOHAkWI_0000002 284.5 289.0 
+Dan_Aykroyd/OC7AhOHAkWI_0000003 329.4 334.5 
+Dan_Aykroyd/OC7AhOHAkWI_0000004 349.5 354.2 
+Dan_Aykroyd/OC7AhOHAkWI_0000005 378.5 385.7 

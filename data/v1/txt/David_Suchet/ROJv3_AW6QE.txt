@@ -1,0 +1,17 @@
+POI: 			David_Suchet 
+Youtube ID: 	ROJv3_AW6QE 
+Video length: 	310.2 sec 
+Set (V): 		dev 
+ 
+David_Suchet/ROJv3_AW6QE_0000001 12.5 19.0 
+David_Suchet/ROJv3_AW6QE_0000002 19.8 25.4 
+David_Suchet/ROJv3_AW6QE_0000003 31.9 37.0 
+David_Suchet/ROJv3_AW6QE_0000004 42.7 52.5 
+David_Suchet/ROJv3_AW6QE_0000005 53.7 60.0 
+David_Suchet/ROJv3_AW6QE_0000006 123.7 131.7 
+David_Suchet/ROJv3_AW6QE_0000007 158.4 168.0 
+David_Suchet/ROJv3_AW6QE_0000008 195.4 202.4 
+David_Suchet/ROJv3_AW6QE_0000009 231.2 235.3 
+David_Suchet/ROJv3_AW6QE_0000010 279.5 287.6 
+David_Suchet/ROJv3_AW6QE_0000011 288.6 301.8 
+David_Suchet/ROJv3_AW6QE_0000012 302.4 307.7 

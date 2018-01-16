@@ -1,0 +1,8 @@
+POI: 			Elaine_Hendrix 
+Youtube ID: 	dX8RBKI2FKc 
+Video length: 	283.4 sec 
+Set (V): 		test 
+ 
+Elaine_Hendrix/dX8RBKI2FKc_0000001 113.5 121.2 
+Elaine_Hendrix/dX8RBKI2FKc_0000002 206.1 214.7 
+Elaine_Hendrix/dX8RBKI2FKc_0000003 262.9 270.9 

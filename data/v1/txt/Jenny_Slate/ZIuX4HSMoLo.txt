@@ -1,0 +1,7 @@
+POI: 			Jenny_Slate 
+Youtube ID: 	ZIuX4HSMoLo 
+Video length: 	137.6 sec 
+Set (V): 		dev 
+ 
+Jenny_Slate/ZIuX4HSMoLo_0000001 25.5 30.5 
+Jenny_Slate/ZIuX4HSMoLo_0000002 93.4 98.9 

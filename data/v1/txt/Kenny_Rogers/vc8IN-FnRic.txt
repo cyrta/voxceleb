@@ -1,0 +1,8 @@
+POI: 			Kenny_Rogers 
+Youtube ID: 	vc8IN-FnRic 
+Video length: 	399.5 sec 
+Set (V): 		dev 
+ 
+Kenny_Rogers/vc8IN-FnRic_0000001 52.7 59.9 
+Kenny_Rogers/vc8IN-FnRic_0000002 68.1 72.8 
+Kenny_Rogers/vc8IN-FnRic_0000003 139.4 148.6 

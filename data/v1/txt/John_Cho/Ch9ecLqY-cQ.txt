@@ -1,0 +1,7 @@
+POI: 			John_Cho 
+Youtube ID: 	Ch9ecLqY-cQ 
+Video length: 	188.6 sec 
+Set (V): 		dev 
+ 
+John_Cho/Ch9ecLqY-cQ_0000001 106.1 120.0 
+John_Cho/Ch9ecLqY-cQ_0000002 151.8 164.2 

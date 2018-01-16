@@ -1,0 +1,25 @@
+POI: 			Stephen_Fry 
+Youtube ID: 	kqm_5g1FtbY 
+Video length: 	459.4 sec 
+Set (V): 		dev 
+ 
+Stephen_Fry/kqm_5g1FtbY_0000001 45.9 50.5 
+Stephen_Fry/kqm_5g1FtbY_0000002 67.7 79.6 
+Stephen_Fry/kqm_5g1FtbY_0000003 115.1 125.8 
+Stephen_Fry/kqm_5g1FtbY_0000004 126.3 130.9 
+Stephen_Fry/kqm_5g1FtbY_0000005 156.7 161.3 
+Stephen_Fry/kqm_5g1FtbY_0000006 163.8 168.2 
+Stephen_Fry/kqm_5g1FtbY_0000007 176.5 180.5 
+Stephen_Fry/kqm_5g1FtbY_0000008 185.7 191.3 
+Stephen_Fry/kqm_5g1FtbY_0000009 204.5 209.0 
+Stephen_Fry/kqm_5g1FtbY_0000010 212.7 217.8 
+Stephen_Fry/kqm_5g1FtbY_0000011 246.7 255.6 
+Stephen_Fry/kqm_5g1FtbY_0000012 262.6 275.0 
+Stephen_Fry/kqm_5g1FtbY_0000013 275.6 279.6 
+Stephen_Fry/kqm_5g1FtbY_0000014 292.0 302.0 
+Stephen_Fry/kqm_5g1FtbY_0000015 339.2 343.8 
+Stephen_Fry/kqm_5g1FtbY_0000016 346.0 350.2 
+Stephen_Fry/kqm_5g1FtbY_0000017 352.3 356.4 
+Stephen_Fry/kqm_5g1FtbY_0000018 373.4 379.2 
+Stephen_Fry/kqm_5g1FtbY_0000019 389.9 394.2 
+Stephen_Fry/kqm_5g1FtbY_0000020 430.1 435.2 

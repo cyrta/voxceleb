@@ -1,0 +1,16 @@
+POI: 			Eddie_Kaye_Thomas 
+Youtube ID: 	L9q6XabEpEI 
+Video length: 	397.5 sec 
+Set (V): 		test 
+ 
+Eddie_Kaye_Thomas/L9q6XabEpEI_0000001 77.7 83.0 
+Eddie_Kaye_Thomas/L9q6XabEpEI_0000002 84.9 95.9 
+Eddie_Kaye_Thomas/L9q6XabEpEI_0000003 119.5 126.7 
+Eddie_Kaye_Thomas/L9q6XabEpEI_0000004 134.1 138.6 
+Eddie_Kaye_Thomas/L9q6XabEpEI_0000005 188.2 195.5 
+Eddie_Kaye_Thomas/L9q6XabEpEI_0000006 225.0 230.5 
+Eddie_Kaye_Thomas/L9q6XabEpEI_0000007 236.8 240.8 
+Eddie_Kaye_Thomas/L9q6XabEpEI_0000008 317.8 323.9 
+Eddie_Kaye_Thomas/L9q6XabEpEI_0000009 338.3 344.2 
+Eddie_Kaye_Thomas/L9q6XabEpEI_0000010 347.3 354.1 
+Eddie_Kaye_Thomas/L9q6XabEpEI_0000011 363.7 369.2 

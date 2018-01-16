@@ -1,0 +1,14 @@
+POI: 			Darren_Criss 
+Youtube ID: 	q9NPk2vmq5I 
+Video length: 	183.9 sec 
+Set (V): 		dev 
+ 
+Darren_Criss/q9NPk2vmq5I_0000001 16.9 21.6 
+Darren_Criss/q9NPk2vmq5I_0000002 32.0 46.0 
+Darren_Criss/q9NPk2vmq5I_0000003 55.7 65.6 
+Darren_Criss/q9NPk2vmq5I_0000004 90.6 94.7 
+Darren_Criss/q9NPk2vmq5I_0000005 99.9 104.8 
+Darren_Criss/q9NPk2vmq5I_0000006 110.3 114.3 
+Darren_Criss/q9NPk2vmq5I_0000007 128.4 134.3 
+Darren_Criss/q9NPk2vmq5I_0000008 145.9 160.5 
+Darren_Criss/q9NPk2vmq5I_0000009 168.6 173.0 

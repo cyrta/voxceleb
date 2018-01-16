@@ -1,0 +1,13 @@
+POI: 			Michael_Madsen 
+Youtube ID: 	Q_C2pzc87Lc 
+Video length: 	329.2 sec 
+Set (V): 		dev 
+ 
+Michael_Madsen/Q_C2pzc87Lc_0000001 87.8 92.5 
+Michael_Madsen/Q_C2pzc87Lc_0000002 113.2 117.2 
+Michael_Madsen/Q_C2pzc87Lc_0000003 186.8 191.3 
+Michael_Madsen/Q_C2pzc87Lc_0000004 219.1 223.4 
+Michael_Madsen/Q_C2pzc87Lc_0000005 241.7 253.0 
+Michael_Madsen/Q_C2pzc87Lc_0000006 286.5 304.7 
+Michael_Madsen/Q_C2pzc87Lc_0000007 311.6 317.7 
+Michael_Madsen/Q_C2pzc87Lc_0000008 319.0 323.0 

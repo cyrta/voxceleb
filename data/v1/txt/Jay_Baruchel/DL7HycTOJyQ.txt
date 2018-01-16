@@ -1,0 +1,21 @@
+POI: 			Jay_Baruchel 
+Youtube ID: 	DL7HycTOJyQ 
+Video length: 	838.9 sec 
+Set (V): 		dev 
+ 
+Jay_Baruchel/DL7HycTOJyQ_0000001 129.7 138.6 
+Jay_Baruchel/DL7HycTOJyQ_0000002 145.4 156.6 
+Jay_Baruchel/DL7HycTOJyQ_0000003 160.4 164.7 
+Jay_Baruchel/DL7HycTOJyQ_0000004 173.8 183.1 
+Jay_Baruchel/DL7HycTOJyQ_0000005 196.7 209.0 
+Jay_Baruchel/DL7HycTOJyQ_0000006 338.7 350.8 
+Jay_Baruchel/DL7HycTOJyQ_0000007 352.6 359.0 
+Jay_Baruchel/DL7HycTOJyQ_0000008 561.3 565.6 
+Jay_Baruchel/DL7HycTOJyQ_0000009 558.6 565.6 
+Jay_Baruchel/DL7HycTOJyQ_0000010 672.6 677.7 
+Jay_Baruchel/DL7HycTOJyQ_0000011 678.2 683.7 
+Jay_Baruchel/DL7HycTOJyQ_0000012 685.7 693.3 
+Jay_Baruchel/DL7HycTOJyQ_0000013 785.5 789.7 
+Jay_Baruchel/DL7HycTOJyQ_0000014 790.5 797.9 
+Jay_Baruchel/DL7HycTOJyQ_0000015 798.6 812.3 
+Jay_Baruchel/DL7HycTOJyQ_0000016 812.6 818.2 

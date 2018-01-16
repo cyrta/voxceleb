@@ -1,0 +1,41 @@
+POI: 			Donald_Glover 
+Youtube ID: 	KOW--TXdhuM 
+Video length: 	1006.3 sec 
+Set (V): 		dev 
+ 
+Donald_Glover/KOW--TXdhuM_0000001 53.1 58.0 
+Donald_Glover/KOW--TXdhuM_0000002 67.4 74.9 
+Donald_Glover/KOW--TXdhuM_0000003 76.0 81.7 
+Donald_Glover/KOW--TXdhuM_0000004 120.4 128.2 
+Donald_Glover/KOW--TXdhuM_0000005 130.4 136.4 
+Donald_Glover/KOW--TXdhuM_0000006 143.5 152.2 
+Donald_Glover/KOW--TXdhuM_0000007 165.4 170.5 
+Donald_Glover/KOW--TXdhuM_0000008 172.0 176.2 
+Donald_Glover/KOW--TXdhuM_0000009 222.2 227.6 
+Donald_Glover/KOW--TXdhuM_0000010 250.6 256.1 
+Donald_Glover/KOW--TXdhuM_0000011 314.6 320.1 
+Donald_Glover/KOW--TXdhuM_0000012 344.7 351.1 
+Donald_Glover/KOW--TXdhuM_0000013 364.0 369.0 
+Donald_Glover/KOW--TXdhuM_0000014 370.0 374.0 
+Donald_Glover/KOW--TXdhuM_0000015 374.6 382.2 
+Donald_Glover/KOW--TXdhuM_0000016 385.5 390.3 
+Donald_Glover/KOW--TXdhuM_0000017 402.8 407.4 
+Donald_Glover/KOW--TXdhuM_0000018 409.6 417.5 
+Donald_Glover/KOW--TXdhuM_0000019 435.8 440.4 
+Donald_Glover/KOW--TXdhuM_0000020 444.8 456.4 
+Donald_Glover/KOW--TXdhuM_0000021 495.6 500.1 
+Donald_Glover/KOW--TXdhuM_0000022 574.9 580.2 
+Donald_Glover/KOW--TXdhuM_0000023 641.1 647.8 
+Donald_Glover/KOW--TXdhuM_0000024 692.9 697.5 
+Donald_Glover/KOW--TXdhuM_0000025 698.6 705.6 
+Donald_Glover/KOW--TXdhuM_0000026 706.4 713.1 
+Donald_Glover/KOW--TXdhuM_0000027 716.1 720.8 
+Donald_Glover/KOW--TXdhuM_0000028 769.1 774.4 
+Donald_Glover/KOW--TXdhuM_0000029 779.9 788.6 
+Donald_Glover/KOW--TXdhuM_0000030 824.9 829.6 
+Donald_Glover/KOW--TXdhuM_0000031 851.4 858.0 
+Donald_Glover/KOW--TXdhuM_0000032 865.1 870.4 
+Donald_Glover/KOW--TXdhuM_0000033 873.5 879.6 
+Donald_Glover/KOW--TXdhuM_0000034 882.2 887.9 
+Donald_Glover/KOW--TXdhuM_0000035 888.8 897.1 
+Donald_Glover/KOW--TXdhuM_0000036 960.0 965.0 

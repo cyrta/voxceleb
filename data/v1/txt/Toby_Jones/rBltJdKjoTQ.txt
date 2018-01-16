@@ -1,0 +1,15 @@
+POI: 			Toby_Jones 
+Youtube ID: 	rBltJdKjoTQ 
+Video length: 	250.7 sec 
+Set (V): 		dev 
+ 
+Toby_Jones/rBltJdKjoTQ_0000001 03.4 09.1 
+Toby_Jones/rBltJdKjoTQ_0000002 22.1 30.4 
+Toby_Jones/rBltJdKjoTQ_0000003 36.2 42.2 
+Toby_Jones/rBltJdKjoTQ_0000004 40.6 55.9 
+Toby_Jones/rBltJdKjoTQ_0000005 80.9 89.0 
+Toby_Jones/rBltJdKjoTQ_0000006 89.2 104.1 
+Toby_Jones/rBltJdKjoTQ_0000007 121.8 135.8 
+Toby_Jones/rBltJdKjoTQ_0000008 171.7 176.1 
+Toby_Jones/rBltJdKjoTQ_0000009 177.1 185.8 
+Toby_Jones/rBltJdKjoTQ_0000010 202.0 206.2 

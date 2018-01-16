@@ -1,0 +1,23 @@
+POI: 			Holliday_Grainger 
+Youtube ID: 	veSad9Nigl4 
+Video length: 	325.9 sec 
+Set (V): 		dev 
+ 
+Holliday_Grainger/veSad9Nigl4_0000001 35.0 50.6 
+Holliday_Grainger/veSad9Nigl4_0000002 51.6 60.2 
+Holliday_Grainger/veSad9Nigl4_0000003 72.4 86.4 
+Holliday_Grainger/veSad9Nigl4_0000004 130.9 137.9 
+Holliday_Grainger/veSad9Nigl4_0000005 141.3 154.5 
+Holliday_Grainger/veSad9Nigl4_0000006 161.1 166.3 
+Holliday_Grainger/veSad9Nigl4_0000007 172.6 187.5 
+Holliday_Grainger/veSad9Nigl4_0000008 189.4 199.3 
+Holliday_Grainger/veSad9Nigl4_0000009 203.5 209.0 
+Holliday_Grainger/veSad9Nigl4_0000010 210.3 218.6 
+Holliday_Grainger/veSad9Nigl4_0000011 220.2 224.3 
+Holliday_Grainger/veSad9Nigl4_0000012 225.5 234.8 
+Holliday_Grainger/veSad9Nigl4_0000013 235.0 251.2 
+Holliday_Grainger/veSad9Nigl4_0000014 264.0 268.6 
+Holliday_Grainger/veSad9Nigl4_0000015 268.8 275.5 
+Holliday_Grainger/veSad9Nigl4_0000016 281.6 291.2 
+Holliday_Grainger/veSad9Nigl4_0000017 292.0 301.7 
+Holliday_Grainger/veSad9Nigl4_0000018 302.6 308.8 

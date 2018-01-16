@@ -1,0 +1,9 @@
+POI: 			Jennifer_Ehle 
+Youtube ID: 	HvleHkiBb3s 
+Video length: 	255.5 sec 
+Set (V): 		dev 
+ 
+Jennifer_Ehle/HvleHkiBb3s_0000001 159.2 170.8 
+Jennifer_Ehle/HvleHkiBb3s_0000002 212.6 221.2 
+Jennifer_Ehle/HvleHkiBb3s_0000003 222.8 235.2 
+Jennifer_Ehle/HvleHkiBb3s_0000004 236.1 250.3 

@@ -1,0 +1,25 @@
+POI: 			Domhnall_Gleeson 
+Youtube ID: 	BNvnSCsKngw 
+Video length: 	374.8 sec 
+Set (V): 		dev 
+ 
+Domhnall_Gleeson/BNvnSCsKngw_0000001 18.7 35.4 
+Domhnall_Gleeson/BNvnSCsKngw_0000002 36.8 41.0 
+Domhnall_Gleeson/BNvnSCsKngw_0000003 41.4 57.3 
+Domhnall_Gleeson/BNvnSCsKngw_0000004 63.1 67.5 
+Domhnall_Gleeson/BNvnSCsKngw_0000005 68.3 80.3 
+Domhnall_Gleeson/BNvnSCsKngw_0000006 87.2 99.0 
+Domhnall_Gleeson/BNvnSCsKngw_0000007 99.7 129.0 
+Domhnall_Gleeson/BNvnSCsKngw_0000008 137.4 149.3 
+Domhnall_Gleeson/BNvnSCsKngw_0000009 158.6 165.8 
+Domhnall_Gleeson/BNvnSCsKngw_0000010 178.1 195.8 
+Domhnall_Gleeson/BNvnSCsKngw_0000011 205.7 218.0 
+Domhnall_Gleeson/BNvnSCsKngw_0000012 232.4 238.0 
+Domhnall_Gleeson/BNvnSCsKngw_0000013 254.3 258.5 
+Domhnall_Gleeson/BNvnSCsKngw_0000014 270.1 280.2 
+Domhnall_Gleeson/BNvnSCsKngw_0000015 280.3 285.3 
+Domhnall_Gleeson/BNvnSCsKngw_0000016 285.4 293.6 
+Domhnall_Gleeson/BNvnSCsKngw_0000017 299.7 313.4 
+Domhnall_Gleeson/BNvnSCsKngw_0000018 318.4 324.4 
+Domhnall_Gleeson/BNvnSCsKngw_0000019 333.0 337.7 
+Domhnall_Gleeson/BNvnSCsKngw_0000020 341.2 361.0 

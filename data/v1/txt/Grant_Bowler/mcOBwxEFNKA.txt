@@ -1,0 +1,10 @@
+POI: 			Grant_Bowler 
+Youtube ID: 	mcOBwxEFNKA 
+Video length: 	69.6 sec 
+Set (V): 		dev 
+ 
+Grant_Bowler/mcOBwxEFNKA_0000001 12.8 25.8 
+Grant_Bowler/mcOBwxEFNKA_0000002 26.6 34.6 
+Grant_Bowler/mcOBwxEFNKA_0000003 35.9 41.7 
+Grant_Bowler/mcOBwxEFNKA_0000004 46.1 53.6 
+Grant_Bowler/mcOBwxEFNKA_0000005 54.4 59.1 

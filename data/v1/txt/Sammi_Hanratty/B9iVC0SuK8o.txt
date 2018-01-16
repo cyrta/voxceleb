@@ -1,0 +1,9 @@
+POI: 			Sammi_Hanratty 
+Youtube ID: 	B9iVC0SuK8o 
+Video length: 	117.9 sec 
+Set (V): 		dev 
+ 
+Sammi_Hanratty/B9iVC0SuK8o_0000001 25.1 31.8 
+Sammi_Hanratty/B9iVC0SuK8o_0000002 41.1 56.6 
+Sammi_Hanratty/B9iVC0SuK8o_0000003 88.3 95.6 
+Sammi_Hanratty/B9iVC0SuK8o_0000004 102.9 113.2 

@@ -1,0 +1,12 @@
+POI: 			Finola_Hughes 
+Youtube ID: 	m-KwDEC7St8 
+Video length: 	438.5 sec 
+Set (V): 		dev 
+ 
+Finola_Hughes/m-KwDEC7St8_0000001 43.5 54.7 
+Finola_Hughes/m-KwDEC7St8_0000002 57.6 64.0 
+Finola_Hughes/m-KwDEC7St8_0000003 126.4 132.8 
+Finola_Hughes/m-KwDEC7St8_0000004 135.2 139.9 
+Finola_Hughes/m-KwDEC7St8_0000005 143.6 149.3 
+Finola_Hughes/m-KwDEC7St8_0000006 156.6 165.2 
+Finola_Hughes/m-KwDEC7St8_0000007 302.8 307.6 

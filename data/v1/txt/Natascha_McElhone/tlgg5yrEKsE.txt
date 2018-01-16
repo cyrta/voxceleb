@@ -1,0 +1,8 @@
+POI: 			Natascha_McElhone 
+Youtube ID: 	tlgg5yrEKsE 
+Video length: 	124.7 sec 
+Set (V): 		dev 
+ 
+Natascha_McElhone/tlgg5yrEKsE_0000001 31.8 36.1 
+Natascha_McElhone/tlgg5yrEKsE_0000002 42.3 49.6 
+Natascha_McElhone/tlgg5yrEKsE_0000003 82.6 87.2 

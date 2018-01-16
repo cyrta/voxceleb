@@ -1,0 +1,12 @@
+POI: 			Katherine_Heigl 
+Youtube ID: 	ILvCnoHCpMs 
+Video length: 	616.7 sec 
+Set (V): 		dev 
+ 
+Katherine_Heigl/ILvCnoHCpMs_0000001 42.5 50.3 
+Katherine_Heigl/ILvCnoHCpMs_0000002 82.0 90.6 
+Katherine_Heigl/ILvCnoHCpMs_0000003 102.9 110.2 
+Katherine_Heigl/ILvCnoHCpMs_0000004 235.1 256.3 
+Katherine_Heigl/ILvCnoHCpMs_0000005 257.1 267.2 
+Katherine_Heigl/ILvCnoHCpMs_0000006 318.2 327.2 
+Katherine_Heigl/ILvCnoHCpMs_0000007 344.4 348.5 

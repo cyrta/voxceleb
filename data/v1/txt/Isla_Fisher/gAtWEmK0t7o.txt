@@ -1,0 +1,17 @@
+POI: 			Isla_Fisher 
+Youtube ID: 	gAtWEmK0t7o 
+Video length: 	246.3 sec 
+Set (V): 		dev 
+ 
+Isla_Fisher/gAtWEmK0t7o_0000001 17.0 21.5 
+Isla_Fisher/gAtWEmK0t7o_0000002 35.3 40.0 
+Isla_Fisher/gAtWEmK0t7o_0000003 40.1 55.2 
+Isla_Fisher/gAtWEmK0t7o_0000004 55.7 72.2 
+Isla_Fisher/gAtWEmK0t7o_0000005 83.1 90.4 
+Isla_Fisher/gAtWEmK0t7o_0000006 90.6 109.5 
+Isla_Fisher/gAtWEmK0t7o_0000007 139.2 150.3 
+Isla_Fisher/gAtWEmK0t7o_0000008 154.7 161.5 
+Isla_Fisher/gAtWEmK0t7o_0000009 162.1 168.2 
+Isla_Fisher/gAtWEmK0t7o_0000010 196.7 205.4 
+Isla_Fisher/gAtWEmK0t7o_0000011 217.0 224.3 
+Isla_Fisher/gAtWEmK0t7o_0000012 224.8 238.9 

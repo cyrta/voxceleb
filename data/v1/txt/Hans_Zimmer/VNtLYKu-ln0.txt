@@ -1,0 +1,17 @@
+POI: 			Hans_Zimmer 
+Youtube ID: 	VNtLYKu-ln0 
+Video length: 	581.3 sec 
+Set (V): 		dev 
+ 
+Hans_Zimmer/VNtLYKu-ln0_0000001 84.1 90.9 
+Hans_Zimmer/VNtLYKu-ln0_0000002 222.4 232.5 
+Hans_Zimmer/VNtLYKu-ln0_0000003 241.8 247.9 
+Hans_Zimmer/VNtLYKu-ln0_0000004 283.5 289.6 
+Hans_Zimmer/VNtLYKu-ln0_0000005 316.4 323.6 
+Hans_Zimmer/VNtLYKu-ln0_0000006 351.7 360.0 
+Hans_Zimmer/VNtLYKu-ln0_0000007 380.8 390.6 
+Hans_Zimmer/VNtLYKu-ln0_0000008 396.6 405.5 
+Hans_Zimmer/VNtLYKu-ln0_0000009 405.6 418.4 
+Hans_Zimmer/VNtLYKu-ln0_0000010 482.9 492.2 
+Hans_Zimmer/VNtLYKu-ln0_0000011 501.8 511.8 
+Hans_Zimmer/VNtLYKu-ln0_0000012 549.2 555.9 

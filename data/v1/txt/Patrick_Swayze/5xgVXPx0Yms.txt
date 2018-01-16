@@ -1,0 +1,16 @@
+POI: 			Patrick_Swayze 
+Youtube ID: 	5xgVXPx0Yms 
+Video length: 	262.7 sec 
+Set (V): 		dev 
+ 
+Patrick_Swayze/5xgVXPx0Yms_0000001 33.1 38.2 
+Patrick_Swayze/5xgVXPx0Yms_0000002 44.2 49.2 
+Patrick_Swayze/5xgVXPx0Yms_0000003 74.4 82.3 
+Patrick_Swayze/5xgVXPx0Yms_0000004 120.0 124.0 
+Patrick_Swayze/5xgVXPx0Yms_0000005 143.7 151.2 
+Patrick_Swayze/5xgVXPx0Yms_0000006 155.2 165.6 
+Patrick_Swayze/5xgVXPx0Yms_0000007 166.4 172.6 
+Patrick_Swayze/5xgVXPx0Yms_0000008 206.5 214.2 
+Patrick_Swayze/5xgVXPx0Yms_0000009 214.4 224.4 
+Patrick_Swayze/5xgVXPx0Yms_0000010 228.0 242.0 
+Patrick_Swayze/5xgVXPx0Yms_0000011 243.9 252.2 

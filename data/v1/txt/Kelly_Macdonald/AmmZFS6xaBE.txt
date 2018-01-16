@@ -1,0 +1,14 @@
+POI: 			Kelly_Macdonald 
+Youtube ID: 	AmmZFS6xaBE 
+Video length: 	463.7 sec 
+Set (V): 		dev 
+ 
+Kelly_Macdonald/AmmZFS6xaBE_0000001 125.6 134.5 
+Kelly_Macdonald/AmmZFS6xaBE_0000002 164.8 170.1 
+Kelly_Macdonald/AmmZFS6xaBE_0000003 177.1 183.7 
+Kelly_Macdonald/AmmZFS6xaBE_0000004 214.6 221.1 
+Kelly_Macdonald/AmmZFS6xaBE_0000005 221.8 232.6 
+Kelly_Macdonald/AmmZFS6xaBE_0000006 244.3 252.9 
+Kelly_Macdonald/AmmZFS6xaBE_0000007 253.3 257.8 
+Kelly_Macdonald/AmmZFS6xaBE_0000008 261.8 270.7 
+Kelly_Macdonald/AmmZFS6xaBE_0000009 283.9 289.0 

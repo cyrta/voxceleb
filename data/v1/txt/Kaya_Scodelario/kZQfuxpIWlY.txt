@@ -1,0 +1,16 @@
+POI: 			Kaya_Scodelario 
+Youtube ID: 	kZQfuxpIWlY 
+Video length: 	243.5 sec 
+Set (V): 		dev 
+ 
+Kaya_Scodelario/kZQfuxpIWlY_0000001 17.2 28.0 
+Kaya_Scodelario/kZQfuxpIWlY_0000002 28.1 32.2 
+Kaya_Scodelario/kZQfuxpIWlY_0000003 32.8 39.8 
+Kaya_Scodelario/kZQfuxpIWlY_0000004 50.2 63.6 
+Kaya_Scodelario/kZQfuxpIWlY_0000005 65.9 101.2 
+Kaya_Scodelario/kZQfuxpIWlY_0000006 103.2 110.8 
+Kaya_Scodelario/kZQfuxpIWlY_0000007 115.4 147.7 
+Kaya_Scodelario/kZQfuxpIWlY_0000008 157.4 168.2 
+Kaya_Scodelario/kZQfuxpIWlY_0000009 171.7 181.2 
+Kaya_Scodelario/kZQfuxpIWlY_0000010 188.9 226.2 
+Kaya_Scodelario/kZQfuxpIWlY_0000011 228.1 235.5 

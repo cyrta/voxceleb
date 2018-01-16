@@ -1,0 +1,9 @@
+POI: 			Garry_Marshall 
+Youtube ID: 	NgI3xyMX1Ss 
+Video length: 	149.9 sec 
+Set (V): 		dev 
+ 
+Garry_Marshall/NgI3xyMX1Ss_0000001 05.9 50.3 
+Garry_Marshall/NgI3xyMX1Ss_0000002 51.2 77.2 
+Garry_Marshall/NgI3xyMX1Ss_0000003 125.0 133.2 
+Garry_Marshall/NgI3xyMX1Ss_0000004 133.8 140.7 

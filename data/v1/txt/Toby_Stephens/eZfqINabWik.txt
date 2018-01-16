@@ -1,0 +1,24 @@
+POI: 			Toby_Stephens 
+Youtube ID: 	eZfqINabWik 
+Video length: 	696.7 sec 
+Set (V): 		dev 
+ 
+Toby_Stephens/eZfqINabWik_0000001 23.2 27.6 
+Toby_Stephens/eZfqINabWik_0000002 95.4 118.6 
+Toby_Stephens/eZfqINabWik_0000003 129.6 133.8 
+Toby_Stephens/eZfqINabWik_0000004 135.6 149.1 
+Toby_Stephens/eZfqINabWik_0000005 149.8 173.2 
+Toby_Stephens/eZfqINabWik_0000006 213.7 222.1 
+Toby_Stephens/eZfqINabWik_0000007 225.0 229.1 
+Toby_Stephens/eZfqINabWik_0000008 229.8 271.7 
+Toby_Stephens/eZfqINabWik_0000009 282.2 304.3 
+Toby_Stephens/eZfqINabWik_0000010 304.9 314.8 
+Toby_Stephens/eZfqINabWik_0000011 316.8 322.1 
+Toby_Stephens/eZfqINabWik_0000012 331.8 348.2 
+Toby_Stephens/eZfqINabWik_0000013 349.2 373.2 
+Toby_Stephens/eZfqINabWik_0000014 377.8 394.0 
+Toby_Stephens/eZfqINabWik_0000015 427.6 442.1 
+Toby_Stephens/eZfqINabWik_0000016 443.0 459.4 
+Toby_Stephens/eZfqINabWik_0000017 478.4 492.6 
+Toby_Stephens/eZfqINabWik_0000018 497.6 501.8 
+Toby_Stephens/eZfqINabWik_0000019 502.6 507.5 

@@ -1,0 +1,17 @@
+POI: 			Steven_Moffat 
+Youtube ID: 	kMvvomL8Y_8 
+Video length: 	303.9 sec 
+Set (V): 		dev 
+ 
+Steven_Moffat/kMvvomL8Y_8_0000001 18.6 29.5 
+Steven_Moffat/kMvvomL8Y_8_0000002 48.1 69.0 
+Steven_Moffat/kMvvomL8Y_8_0000003 70.9 86.1 
+Steven_Moffat/kMvvomL8Y_8_0000004 88.2 99.3 
+Steven_Moffat/kMvvomL8Y_8_0000005 109.2 119.8 
+Steven_Moffat/kMvvomL8Y_8_0000006 120.1 127.8 
+Steven_Moffat/kMvvomL8Y_8_0000007 128.4 137.2 
+Steven_Moffat/kMvvomL8Y_8_0000008 139.7 156.7 
+Steven_Moffat/kMvvomL8Y_8_0000009 157.2 163.6 
+Steven_Moffat/kMvvomL8Y_8_0000010 177.0 206.0 
+Steven_Moffat/kMvvomL8Y_8_0000011 244.4 249.2 
+Steven_Moffat/kMvvomL8Y_8_0000012 254.8 264.7 

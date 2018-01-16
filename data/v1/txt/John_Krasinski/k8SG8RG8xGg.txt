@@ -1,0 +1,13 @@
+POI: 			John_Krasinski 
+Youtube ID: 	k8SG8RG8xGg 
+Video length: 	256.9 sec 
+Set (V): 		dev 
+ 
+John_Krasinski/k8SG8RG8xGg_0000001 08.0 35.8 
+John_Krasinski/k8SG8RG8xGg_0000002 57.5 89.7 
+John_Krasinski/k8SG8RG8xGg_0000003 107.0 119.5 
+John_Krasinski/k8SG8RG8xGg_0000004 124.8 134.8 
+John_Krasinski/k8SG8RG8xGg_0000005 135.1 140.5 
+John_Krasinski/k8SG8RG8xGg_0000006 142.1 166.8 
+John_Krasinski/k8SG8RG8xGg_0000007 168.8 174.1 
+John_Krasinski/k8SG8RG8xGg_0000008 188.6 248.6 

@@ -1,0 +1,18 @@
+POI: 			Tamer_Hassan 
+Youtube ID: 	komX0AFGptk 
+Video length: 	291.3 sec 
+Set (V): 		dev 
+ 
+Tamer_Hassan/komX0AFGptk_0000001 24.2 35.3 
+Tamer_Hassan/komX0AFGptk_0000002 35.9 42.0 
+Tamer_Hassan/komX0AFGptk_0000003 71.0 94.4 
+Tamer_Hassan/komX0AFGptk_0000004 107.7 118.5 
+Tamer_Hassan/komX0AFGptk_0000005 134.2 139.7 
+Tamer_Hassan/komX0AFGptk_0000006 159.8 168.4 
+Tamer_Hassan/komX0AFGptk_0000007 177.6 188.1 
+Tamer_Hassan/komX0AFGptk_0000008 191.3 199.7 
+Tamer_Hassan/komX0AFGptk_0000009 202.0 207.7 
+Tamer_Hassan/komX0AFGptk_0000010 241.9 250.6 
+Tamer_Hassan/komX0AFGptk_0000011 258.0 266.4 
+Tamer_Hassan/komX0AFGptk_0000012 268.2 272.6 
+Tamer_Hassan/komX0AFGptk_0000013 275.0 285.6 

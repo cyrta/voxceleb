@@ -1,0 +1,38 @@
+POI: 			Tom_Hiddleston 
+Youtube ID: 	TYEgmj88Nuo 
+Video length: 	511.6 sec 
+Set (V): 		dev 
+ 
+Tom_Hiddleston/TYEgmj88Nuo_0000001 08.7 17.8 
+Tom_Hiddleston/TYEgmj88Nuo_0000002 18.8 23.2 
+Tom_Hiddleston/TYEgmj88Nuo_0000003 27.6 39.7 
+Tom_Hiddleston/TYEgmj88Nuo_0000004 50.6 58.0 
+Tom_Hiddleston/TYEgmj88Nuo_0000005 89.6 94.1 
+Tom_Hiddleston/TYEgmj88Nuo_0000006 99.0 103.2 
+Tom_Hiddleston/TYEgmj88Nuo_0000007 115.0 128.9 
+Tom_Hiddleston/TYEgmj88Nuo_0000008 130.6 137.7 
+Tom_Hiddleston/TYEgmj88Nuo_0000009 154.1 159.4 
+Tom_Hiddleston/TYEgmj88Nuo_0000010 165.1 174.9 
+Tom_Hiddleston/TYEgmj88Nuo_0000011 82.8 87.6 
+Tom_Hiddleston/TYEgmj88Nuo_0000012 89.2 94.1 
+Tom_Hiddleston/TYEgmj88Nuo_0000013 181.8 187.1 
+Tom_Hiddleston/TYEgmj88Nuo_0000014 200.7 206.2 
+Tom_Hiddleston/TYEgmj88Nuo_0000015 209.7 223.8 
+Tom_Hiddleston/TYEgmj88Nuo_0000016 246.4 253.0 
+Tom_Hiddleston/TYEgmj88Nuo_0000017 261.8 265.9 
+Tom_Hiddleston/TYEgmj88Nuo_0000018 269.6 284.7 
+Tom_Hiddleston/TYEgmj88Nuo_0000019 284.9 291.5 
+Tom_Hiddleston/TYEgmj88Nuo_0000020 298.6 308.2 
+Tom_Hiddleston/TYEgmj88Nuo_0000021 324.3 345.5 
+Tom_Hiddleston/TYEgmj88Nuo_0000022 346.1 350.1 
+Tom_Hiddleston/TYEgmj88Nuo_0000023 350.2 361.0 
+Tom_Hiddleston/TYEgmj88Nuo_0000024 361.4 370.9 
+Tom_Hiddleston/TYEgmj88Nuo_0000025 372.6 383.6 
+Tom_Hiddleston/TYEgmj88Nuo_0000026 387.1 392.9 
+Tom_Hiddleston/TYEgmj88Nuo_0000027 405.5 409.6 
+Tom_Hiddleston/TYEgmj88Nuo_0000028 407.6 426.6 
+Tom_Hiddleston/TYEgmj88Nuo_0000029 427.4 432.2 
+Tom_Hiddleston/TYEgmj88Nuo_0000030 451.3 456.8 
+Tom_Hiddleston/TYEgmj88Nuo_0000031 462.6 472.6 
+Tom_Hiddleston/TYEgmj88Nuo_0000032 473.9 481.1 
+Tom_Hiddleston/TYEgmj88Nuo_0000033 493.4 500.7 

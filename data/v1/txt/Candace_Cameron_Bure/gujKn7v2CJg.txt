@@ -1,0 +1,9 @@
+POI: 			Candace_Cameron_Bure 
+Youtube ID: 	gujKn7v2CJg 
+Video length: 	130.8 sec 
+Set (V): 		dev 
+ 
+Candace_Cameron_Bure/gujKn7v2CJg_0000001 18.8 22.9 
+Candace_Cameron_Bure/gujKn7v2CJg_0000002 45.9 52.7 
+Candace_Cameron_Bure/gujKn7v2CJg_0000003 82.3 91.6 
+Candace_Cameron_Bure/gujKn7v2CJg_0000004 101.0 105.5 

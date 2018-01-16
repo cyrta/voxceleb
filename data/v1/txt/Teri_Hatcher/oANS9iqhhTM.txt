@@ -1,0 +1,8 @@
+POI: 			Teri_Hatcher 
+Youtube ID: 	oANS9iqhhTM 
+Video length: 	202.1 sec 
+Set (V): 		dev 
+ 
+Teri_Hatcher/oANS9iqhhTM_0000001 23.0 29.8 
+Teri_Hatcher/oANS9iqhhTM_0000002 33.5 39.8 
+Teri_Hatcher/oANS9iqhhTM_0000003 40.0 59.0 

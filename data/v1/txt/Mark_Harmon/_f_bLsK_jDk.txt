@@ -1,0 +1,9 @@
+POI: 			Mark_Harmon 
+Youtube ID: 	_f_bLsK_jDk 
+Video length: 	629.9 sec 
+Set (V): 		dev 
+ 
+Mark_Harmon/_f_bLsK_jDk_0000001 126.7 132.0 
+Mark_Harmon/_f_bLsK_jDk_0000002 133.6 143.4 
+Mark_Harmon/_f_bLsK_jDk_0000003 143.5 155.8 
+Mark_Harmon/_f_bLsK_jDk_0000004 537.3 542.9 

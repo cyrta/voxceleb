@@ -1,0 +1,16 @@
+POI: 			Danny_McBride 
+Youtube ID: 	9VRC-vw8NuE 
+Video length: 	279.2 sec 
+Set (V): 		dev 
+ 
+Danny_McBride/9VRC-vw8NuE_0000001 20.6 36.2 
+Danny_McBride/9VRC-vw8NuE_0000002 48.1 53.8 
+Danny_McBride/9VRC-vw8NuE_0000003 63.0 71.8 
+Danny_McBride/9VRC-vw8NuE_0000004 72.8 87.7 
+Danny_McBride/9VRC-vw8NuE_0000005 88.2 94.2 
+Danny_McBride/9VRC-vw8NuE_0000006 109.0 146.7 
+Danny_McBride/9VRC-vw8NuE_0000007 152.6 157.9 
+Danny_McBride/9VRC-vw8NuE_0000008 164.2 181.8 
+Danny_McBride/9VRC-vw8NuE_0000009 204.7 211.0 
+Danny_McBride/9VRC-vw8NuE_0000010 211.3 218.2 
+Danny_McBride/9VRC-vw8NuE_0000011 224.8 229.2 

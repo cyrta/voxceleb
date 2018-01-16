@@ -1,0 +1,9 @@
+POI: 			Doutzen_Kroes 
+Youtube ID: 	23dSOm3axoU 
+Video length: 	222.1 sec 
+Set (V): 		dev 
+ 
+Doutzen_Kroes/23dSOm3axoU_0000001 05.2 09.3 
+Doutzen_Kroes/23dSOm3axoU_0000002 36.6 43.6 
+Doutzen_Kroes/23dSOm3axoU_0000003 59.9 64.3 
+Doutzen_Kroes/23dSOm3axoU_0000004 207.8 217.4 

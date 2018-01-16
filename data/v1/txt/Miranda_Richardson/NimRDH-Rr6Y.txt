@@ -1,0 +1,8 @@
+POI: 			Miranda_Richardson 
+Youtube ID: 	NimRDH-Rr6Y 
+Video length: 	38.1 sec 
+Set (V): 		dev 
+ 
+Miranda_Richardson/NimRDH-Rr6Y_0000001 16.2 22.6 
+Miranda_Richardson/NimRDH-Rr6Y_0000002 23.2 28.0 
+Miranda_Richardson/NimRDH-Rr6Y_0000003 28.2 33.5 

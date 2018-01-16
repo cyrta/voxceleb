@@ -1,0 +1,15 @@
+POI: 			Tom_Ford 
+Youtube ID: 	BFqLRtj_Nh4 
+Video length: 	423.2 sec 
+Set (V): 		dev 
+ 
+Tom_Ford/BFqLRtj_Nh4_0000001 90.8 100.6 
+Tom_Ford/BFqLRtj_Nh4_0000002 151.2 155.2 
+Tom_Ford/BFqLRtj_Nh4_0000003 181.5 187.2 
+Tom_Ford/BFqLRtj_Nh4_0000004 200.2 207.1 
+Tom_Ford/BFqLRtj_Nh4_0000005 213.2 219.4 
+Tom_Ford/BFqLRtj_Nh4_0000006 237.4 246.2 
+Tom_Ford/BFqLRtj_Nh4_0000007 291.7 299.1 
+Tom_Ford/BFqLRtj_Nh4_0000008 299.8 305.7 
+Tom_Ford/BFqLRtj_Nh4_0000009 350.5 354.8 
+Tom_Ford/BFqLRtj_Nh4_0000010 392.9 396.8 

@@ -1,0 +1,9 @@
+POI: 			Kaya_Scodelario 
+Youtube ID: 	HqqLQgVZktQ 
+Video length: 	491.0 sec 
+Set (V): 		dev 
+ 
+Kaya_Scodelario/HqqLQgVZktQ_0000001 136.6 146.4 
+Kaya_Scodelario/HqqLQgVZktQ_0000002 146.5 158.3 
+Kaya_Scodelario/HqqLQgVZktQ_0000003 317.1 351.8 
+Kaya_Scodelario/HqqLQgVZktQ_0000004 353.2 362.8 

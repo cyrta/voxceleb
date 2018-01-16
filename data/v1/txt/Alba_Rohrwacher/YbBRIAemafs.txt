@@ -1,0 +1,16 @@
+POI: 			Alba_Rohrwacher 
+Youtube ID: 	YbBRIAemafs 
+Video length: 	254.1 sec 
+Set (V): 		dev 
+ 
+Alba_Rohrwacher/YbBRIAemafs_0000001 23.7 30.4 
+Alba_Rohrwacher/YbBRIAemafs_0000002 35.6 43.6 
+Alba_Rohrwacher/YbBRIAemafs_0000003 44.1 48.7 
+Alba_Rohrwacher/YbBRIAemafs_0000004 49.6 54.8 
+Alba_Rohrwacher/YbBRIAemafs_0000005 91.5 95.9 
+Alba_Rohrwacher/YbBRIAemafs_0000006 106.6 116.1 
+Alba_Rohrwacher/YbBRIAemafs_0000007 127.2 131.8 
+Alba_Rohrwacher/YbBRIAemafs_0000008 143.9 153.7 
+Alba_Rohrwacher/YbBRIAemafs_0000009 156.1 166.5 
+Alba_Rohrwacher/YbBRIAemafs_0000010 180.1 186.9 
+Alba_Rohrwacher/YbBRIAemafs_0000011 237.0 248.0 

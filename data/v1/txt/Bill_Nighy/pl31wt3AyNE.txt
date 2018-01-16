@@ -1,0 +1,14 @@
+POI: 			Bill_Nighy 
+Youtube ID: 	pl31wt3AyNE 
+Video length: 	1386.9 sec 
+Set (V): 		dev 
+ 
+Bill_Nighy/pl31wt3AyNE_0000001 67.7 72.8 
+Bill_Nighy/pl31wt3AyNE_0000002 85.0 91.1 
+Bill_Nighy/pl31wt3AyNE_0000003 91.4 96.7 
+Bill_Nighy/pl31wt3AyNE_0000004 136.0 143.0 
+Bill_Nighy/pl31wt3AyNE_0000005 312.3 319.0 
+Bill_Nighy/pl31wt3AyNE_0000006 322.1 329.8 
+Bill_Nighy/pl31wt3AyNE_0000007 442.4 447.1 
+Bill_Nighy/pl31wt3AyNE_0000008 984.0 992.1 
+Bill_Nighy/pl31wt3AyNE_0000009 1023.6 1028.8 

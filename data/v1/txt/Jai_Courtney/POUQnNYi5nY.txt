@@ -1,0 +1,9 @@
+POI: 			Jai_Courtney 
+Youtube ID: 	POUQnNYi5nY 
+Video length: 	269.0 sec 
+Set (V): 		dev 
+ 
+Jai_Courtney/POUQnNYi5nY_0000001 25.1 35.3 
+Jai_Courtney/POUQnNYi5nY_0000002 35.9 43.5 
+Jai_Courtney/POUQnNYi5nY_0000003 87.9 95.5 
+Jai_Courtney/POUQnNYi5nY_0000004 141.8 149.6 

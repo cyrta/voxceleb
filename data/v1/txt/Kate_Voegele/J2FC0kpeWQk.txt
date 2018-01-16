@@ -1,0 +1,8 @@
+POI: 			Kate_Voegele 
+Youtube ID: 	J2FC0kpeWQk 
+Video length: 	647.7 sec 
+Set (V): 		dev 
+ 
+Kate_Voegele/J2FC0kpeWQk_0000001 29.4 34.0 
+Kate_Voegele/J2FC0kpeWQk_0000002 133.0 137.5 
+Kate_Voegele/J2FC0kpeWQk_0000003 367.8 374.0 

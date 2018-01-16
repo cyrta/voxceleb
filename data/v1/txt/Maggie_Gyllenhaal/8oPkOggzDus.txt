@@ -1,0 +1,10 @@
+POI: 			Maggie_Gyllenhaal 
+Youtube ID: 	8oPkOggzDus 
+Video length: 	478.4 sec 
+Set (V): 		dev 
+ 
+Maggie_Gyllenhaal/8oPkOggzDus_0000001 25.2 29.2 
+Maggie_Gyllenhaal/8oPkOggzDus_0000002 29.4 36.6 
+Maggie_Gyllenhaal/8oPkOggzDus_0000003 429.8 435.4 
+Maggie_Gyllenhaal/8oPkOggzDus_0000004 446.1 451.2 
+Maggie_Gyllenhaal/8oPkOggzDus_0000005 452.0 465.4 

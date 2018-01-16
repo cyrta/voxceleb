@@ -1,0 +1,7 @@
+POI: 			William_Levy 
+Youtube ID: 	uoR-tTF_apc 
+Video length: 	231.3 sec 
+Set (V): 		dev 
+ 
+William_Levy/uoR-tTF_apc_0000001 101.4 106.0 
+William_Levy/uoR-tTF_apc_0000002 115.2 122.8 

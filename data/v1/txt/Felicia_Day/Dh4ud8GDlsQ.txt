@@ -1,0 +1,27 @@
+POI: 			Felicia_Day 
+Youtube ID: 	Dh4ud8GDlsQ 
+Video length: 	688.4 sec 
+Set (V): 		dev 
+ 
+Felicia_Day/Dh4ud8GDlsQ_0000001 89.9 94.1 
+Felicia_Day/Dh4ud8GDlsQ_0000002 102.3 108.0 
+Felicia_Day/Dh4ud8GDlsQ_0000003 110.8 118.3 
+Felicia_Day/Dh4ud8GDlsQ_0000004 163.2 169.0 
+Felicia_Day/Dh4ud8GDlsQ_0000005 205.3 211.9 
+Felicia_Day/Dh4ud8GDlsQ_0000006 213.2 218.5 
+Felicia_Day/Dh4ud8GDlsQ_0000007 222.5 226.5 
+Felicia_Day/Dh4ud8GDlsQ_0000008 228.7 253.3 
+Felicia_Day/Dh4ud8GDlsQ_0000009 232.8 248.4 
+Felicia_Day/Dh4ud8GDlsQ_0000010 273.7 284.2 
+Felicia_Day/Dh4ud8GDlsQ_0000011 299.1 303.2 
+Felicia_Day/Dh4ud8GDlsQ_0000012 357.6 364.8 
+Felicia_Day/Dh4ud8GDlsQ_0000013 365.8 392.2 
+Felicia_Day/Dh4ud8GDlsQ_0000014 411.5 415.5 
+Felicia_Day/Dh4ud8GDlsQ_0000015 416.0 420.8 
+Felicia_Day/Dh4ud8GDlsQ_0000016 439.8 444.0 
+Felicia_Day/Dh4ud8GDlsQ_0000017 446.2 456.6 
+Felicia_Day/Dh4ud8GDlsQ_0000018 463.9 478.6 
+Felicia_Day/Dh4ud8GDlsQ_0000019 513.2 544.7 
+Felicia_Day/Dh4ud8GDlsQ_0000020 559.3 587.6 
+Felicia_Day/Dh4ud8GDlsQ_0000021 588.6 596.0 
+Felicia_Day/Dh4ud8GDlsQ_0000022 624.6 655.0 

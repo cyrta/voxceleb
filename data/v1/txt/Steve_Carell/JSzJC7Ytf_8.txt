@@ -1,0 +1,20 @@
+POI: 			Steve_Carell 
+Youtube ID: 	JSzJC7Ytf_8 
+Video length: 	634.0 sec 
+Set (V): 		dev 
+ 
+Steve_Carell/JSzJC7Ytf_8_0000001 210.0 217.5 
+Steve_Carell/JSzJC7Ytf_8_0000002 222.1 234.4 
+Steve_Carell/JSzJC7Ytf_8_0000003 248.2 255.3 
+Steve_Carell/JSzJC7Ytf_8_0000004 278.3 282.7 
+Steve_Carell/JSzJC7Ytf_8_0000005 283.8 291.4 
+Steve_Carell/JSzJC7Ytf_8_0000006 292.0 305.9 
+Steve_Carell/JSzJC7Ytf_8_0000007 306.8 313.9 
+Steve_Carell/JSzJC7Ytf_8_0000008 318.9 324.0 
+Steve_Carell/JSzJC7Ytf_8_0000009 324.7 334.0 
+Steve_Carell/JSzJC7Ytf_8_0000010 335.0 344.1 
+Steve_Carell/JSzJC7Ytf_8_0000011 373.6 381.4 
+Steve_Carell/JSzJC7Ytf_8_0000012 381.8 405.1 
+Steve_Carell/JSzJC7Ytf_8_0000013 405.4 416.8 
+Steve_Carell/JSzJC7Ytf_8_0000014 419.8 432.5 
+Steve_Carell/JSzJC7Ytf_8_0000015 432.9 447.2 

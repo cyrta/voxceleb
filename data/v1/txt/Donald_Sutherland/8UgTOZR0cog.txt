@@ -1,0 +1,9 @@
+POI: 			Donald_Sutherland 
+Youtube ID: 	8UgTOZR0cog 
+Video length: 	408.7 sec 
+Set (V): 		dev 
+ 
+Donald_Sutherland/8UgTOZR0cog_0000001 291.2 295.6 
+Donald_Sutherland/8UgTOZR0cog_0000002 312.1 318.6 
+Donald_Sutherland/8UgTOZR0cog_0000003 321.2 327.4 
+Donald_Sutherland/8UgTOZR0cog_0000004 373.9 383.4 

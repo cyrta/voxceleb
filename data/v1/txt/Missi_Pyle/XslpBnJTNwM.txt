@@ -1,0 +1,11 @@
+POI: 			Missi_Pyle 
+Youtube ID: 	XslpBnJTNwM 
+Video length: 	250.0 sec 
+Set (V): 		dev 
+ 
+Missi_Pyle/XslpBnJTNwM_0000001 02.6 07.6 
+Missi_Pyle/XslpBnJTNwM_0000002 61.7 66.8 
+Missi_Pyle/XslpBnJTNwM_0000003 73.8 78.9 
+Missi_Pyle/XslpBnJTNwM_0000004 118.7 125.6 
+Missi_Pyle/XslpBnJTNwM_0000005 216.2 221.9 
+Missi_Pyle/XslpBnJTNwM_0000006 224.0 241.0 

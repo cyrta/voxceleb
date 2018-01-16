@@ -1,0 +1,11 @@
+POI: 			Michael_Jai_White 
+Youtube ID: 	SgqB_gaa2II 
+Video length: 	341.6 sec 
+Set (V): 		dev 
+ 
+Michael_Jai_White/SgqB_gaa2II_0000001 52.2 61.4 
+Michael_Jai_White/SgqB_gaa2II_0000002 195.3 206.2 
+Michael_Jai_White/SgqB_gaa2II_0000003 208.2 213.3 
+Michael_Jai_White/SgqB_gaa2II_0000004 244.8 249.6 
+Michael_Jai_White/SgqB_gaa2II_0000005 263.2 268.1 
+Michael_Jai_White/SgqB_gaa2II_0000006 276.7 286.6 

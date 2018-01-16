@@ -1,0 +1,8 @@
+POI: 			Gloria_Steinem 
+Youtube ID: 	fgM5073sfx8 
+Video length: 	1378.9 sec 
+Set (V): 		dev 
+ 
+Gloria_Steinem/fgM5073sfx8_0000001 552.2 556.8 
+Gloria_Steinem/fgM5073sfx8_0000002 937.0 945.5 
+Gloria_Steinem/fgM5073sfx8_0000003 1365.5 1372.0 

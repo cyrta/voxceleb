@@ -1,0 +1,9 @@
+POI: 			Olivia_Wilde 
+Youtube ID: 	WeHYTEu9J0I 
+Video length: 	422.8 sec 
+Set (V): 		dev 
+ 
+Olivia_Wilde/WeHYTEu9J0I_0000001 90.3 95.7 
+Olivia_Wilde/WeHYTEu9J0I_0000002 110.2 114.5 
+Olivia_Wilde/WeHYTEu9J0I_0000003 222.4 227.0 
+Olivia_Wilde/WeHYTEu9J0I_0000004 237.1 242.2 

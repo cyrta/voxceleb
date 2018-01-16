@@ -1,0 +1,7 @@
+POI: 			Imelda_Staunton 
+Youtube ID: 	9pw7GF9FAm0 
+Video length: 	464.2 sec 
+Set (V): 		dev 
+ 
+Imelda_Staunton/9pw7GF9FAm0_0000001 154.9 161.2 
+Imelda_Staunton/9pw7GF9FAm0_0000002 382.0 388.0 

@@ -1,0 +1,18 @@
+POI: 			Dave_Foley 
+Youtube ID: 	4EtvHjTP-mA 
+Video length: 	1691.3 sec 
+Set (V): 		dev 
+ 
+Dave_Foley/4EtvHjTP-mA_0000001 175.6 180.7 
+Dave_Foley/4EtvHjTP-mA_0000002 280.6 288.2 
+Dave_Foley/4EtvHjTP-mA_0000003 408.1 414.4 
+Dave_Foley/4EtvHjTP-mA_0000004 419.2 424.5 
+Dave_Foley/4EtvHjTP-mA_0000005 425.4 432.2 
+Dave_Foley/4EtvHjTP-mA_0000006 486.8 492.3 
+Dave_Foley/4EtvHjTP-mA_0000007 727.9 732.0 
+Dave_Foley/4EtvHjTP-mA_0000008 834.4 838.6 
+Dave_Foley/4EtvHjTP-mA_0000009 971.4 978.7 
+Dave_Foley/4EtvHjTP-mA_0000010 1050.6 1054.9 
+Dave_Foley/4EtvHjTP-mA_0000011 1106.4 1112.0 
+Dave_Foley/4EtvHjTP-mA_0000012 1193.4 1201.2 
+Dave_Foley/4EtvHjTP-mA_0000013 1288.4 1293.8 

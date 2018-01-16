@@ -1,0 +1,18 @@
+POI: 			Judith_Light 
+Youtube ID: 	Ljgs5PhThzI 
+Video length: 	426.5 sec 
+Set (V): 		dev 
+ 
+Judith_Light/Ljgs5PhThzI_0000001 62.5 68.8 
+Judith_Light/Ljgs5PhThzI_0000002 69.0 73.1 
+Judith_Light/Ljgs5PhThzI_0000003 73.7 79.8 
+Judith_Light/Ljgs5PhThzI_0000004 82.2 88.4 
+Judith_Light/Ljgs5PhThzI_0000005 154.2 164.0 
+Judith_Light/Ljgs5PhThzI_0000006 165.0 169.7 
+Judith_Light/Ljgs5PhThzI_0000007 209.5 218.1 
+Judith_Light/Ljgs5PhThzI_0000008 219.0 227.7 
+Judith_Light/Ljgs5PhThzI_0000009 232.1 241.5 
+Judith_Light/Ljgs5PhThzI_0000010 294.6 298.8 
+Judith_Light/Ljgs5PhThzI_0000011 310.2 317.8 
+Judith_Light/Ljgs5PhThzI_0000012 331.1 335.6 
+Judith_Light/Ljgs5PhThzI_0000013 340.7 346.5 

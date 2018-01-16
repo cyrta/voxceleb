@@ -1,0 +1,18 @@
+POI: 			Taylor_Lautner 
+Youtube ID: 	WRjHTwNFxxs 
+Video length: 	294.3 sec 
+Set (V): 		dev 
+ 
+Taylor_Lautner/WRjHTwNFxxs_0000001 22.8 28.6 
+Taylor_Lautner/WRjHTwNFxxs_0000002 41.7 61.7 
+Taylor_Lautner/WRjHTwNFxxs_0000003 78.0 82.1 
+Taylor_Lautner/WRjHTwNFxxs_0000004 83.5 93.8 
+Taylor_Lautner/WRjHTwNFxxs_0000005 112.4 126.7 
+Taylor_Lautner/WRjHTwNFxxs_0000006 137.7 144.0 
+Taylor_Lautner/WRjHTwNFxxs_0000007 144.4 160.0 
+Taylor_Lautner/WRjHTwNFxxs_0000008 180.7 194.4 
+Taylor_Lautner/WRjHTwNFxxs_0000009 196.2 205.6 
+Taylor_Lautner/WRjHTwNFxxs_0000010 206.3 227.5 
+Taylor_Lautner/WRjHTwNFxxs_0000011 243.8 249.7 
+Taylor_Lautner/WRjHTwNFxxs_0000012 250.0 256.7 
+Taylor_Lautner/WRjHTwNFxxs_0000013 257.0 268.3 

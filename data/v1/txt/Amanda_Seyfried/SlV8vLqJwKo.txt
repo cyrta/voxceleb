@@ -1,0 +1,12 @@
+POI: 			Amanda_Seyfried 
+Youtube ID: 	SlV8vLqJwKo 
+Video length: 	245.3 sec 
+Set (V): 		dev 
+ 
+Amanda_Seyfried/SlV8vLqJwKo_0000001 48.3 52.8 
+Amanda_Seyfried/SlV8vLqJwKo_0000002 87.6 92.5 
+Amanda_Seyfried/SlV8vLqJwKo_0000003 178.6 183.5 
+Amanda_Seyfried/SlV8vLqJwKo_0000004 184.4 190.0 
+Amanda_Seyfried/SlV8vLqJwKo_0000005 190.2 196.4 
+Amanda_Seyfried/SlV8vLqJwKo_0000006 197.0 201.1 
+Amanda_Seyfried/SlV8vLqJwKo_0000007 205.9 211.1 

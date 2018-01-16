@@ -1,0 +1,7 @@
+POI: 			Cyndi_Lauper 
+Youtube ID: 	vPfu9V_VS-A 
+Video length: 	1156.5 sec 
+Set (V): 		dev 
+ 
+Cyndi_Lauper/vPfu9V_VS-A_0000001 448.6 452.8 
+Cyndi_Lauper/vPfu9V_VS-A_0000002 557.3 561.6 

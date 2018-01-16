@@ -1,0 +1,20 @@
+POI: 			Wendell_Pierce 
+Youtube ID: 	AK_wiVBjzeA 
+Video length: 	381.9 sec 
+Set (V): 		dev 
+ 
+Wendell_Pierce/AK_wiVBjzeA_0000001 77.9 89.1 
+Wendell_Pierce/AK_wiVBjzeA_0000002 108.8 116.0 
+Wendell_Pierce/AK_wiVBjzeA_0000003 116.8 122.6 
+Wendell_Pierce/AK_wiVBjzeA_0000004 127.3 135.4 
+Wendell_Pierce/AK_wiVBjzeA_0000005 137.8 143.1 
+Wendell_Pierce/AK_wiVBjzeA_0000006 153.4 160.1 
+Wendell_Pierce/AK_wiVBjzeA_0000007 181.1 187.1 
+Wendell_Pierce/AK_wiVBjzeA_0000008 189.5 200.1 
+Wendell_Pierce/AK_wiVBjzeA_0000009 214.2 228.8 
+Wendell_Pierce/AK_wiVBjzeA_0000010 243.2 247.8 
+Wendell_Pierce/AK_wiVBjzeA_0000011 299.0 306.5 
+Wendell_Pierce/AK_wiVBjzeA_0000012 319.4 323.8 
+Wendell_Pierce/AK_wiVBjzeA_0000013 324.1 335.2 
+Wendell_Pierce/AK_wiVBjzeA_0000014 338.2 351.6 
+Wendell_Pierce/AK_wiVBjzeA_0000015 361.0 377.2 

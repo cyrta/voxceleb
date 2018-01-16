@@ -1,0 +1,8 @@
+POI: 			Katie_Cleary 
+Youtube ID: 	UrglHci5rcc 
+Video length: 	38.8 sec 
+Set (V): 		dev 
+ 
+Katie_Cleary/UrglHci5rcc_0000001 00.8 09.7 
+Katie_Cleary/UrglHci5rcc_0000002 13.8 18.0 
+Katie_Cleary/UrglHci5rcc_0000003 21.8 32.6 

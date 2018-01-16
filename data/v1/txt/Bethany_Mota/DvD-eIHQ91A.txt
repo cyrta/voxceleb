@@ -1,0 +1,8 @@
+POI: 			Bethany_Mota 
+Youtube ID: 	DvD-eIHQ91A 
+Video length: 	287.8 sec 
+Set (V): 		dev 
+ 
+Bethany_Mota/DvD-eIHQ91A_0000001 113.1 117.8 
+Bethany_Mota/DvD-eIHQ91A_0000002 158.7 166.5 
+Bethany_Mota/DvD-eIHQ91A_0000003 281.9 286.2 

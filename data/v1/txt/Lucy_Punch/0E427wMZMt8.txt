@@ -1,0 +1,10 @@
+POI: 			Lucy_Punch 
+Youtube ID: 	0E427wMZMt8 
+Video length: 	123.5 sec 
+Set (V): 		dev 
+ 
+Lucy_Punch/0E427wMZMt8_0000001 27.6 32.6 
+Lucy_Punch/0E427wMZMt8_0000002 36.6 41.4 
+Lucy_Punch/0E427wMZMt8_0000003 53.7 64.7 
+Lucy_Punch/0E427wMZMt8_0000004 88.0 92.5 
+Lucy_Punch/0E427wMZMt8_0000005 102.7 107.4 

@@ -1,0 +1,16 @@
+POI: 			Neal_McDonough 
+Youtube ID: 	mLEsgJJrNlk 
+Video length: 	274.0 sec 
+Set (V): 		dev 
+ 
+Neal_McDonough/mLEsgJJrNlk_0000001 12.9 18.0 
+Neal_McDonough/mLEsgJJrNlk_0000002 22.6 31.8 
+Neal_McDonough/mLEsgJJrNlk_0000003 51.2 55.6 
+Neal_McDonough/mLEsgJJrNlk_0000004 55.7 64.8 
+Neal_McDonough/mLEsgJJrNlk_0000005 173.7 178.4 
+Neal_McDonough/mLEsgJJrNlk_0000006 186.2 191.0 
+Neal_McDonough/mLEsgJJrNlk_0000007 204.6 210.2 
+Neal_McDonough/mLEsgJJrNlk_0000008 233.4 237.6 
+Neal_McDonough/mLEsgJJrNlk_0000009 239.2 243.3 
+Neal_McDonough/mLEsgJJrNlk_0000010 244.3 248.3 
+Neal_McDonough/mLEsgJJrNlk_0000011 251.3 256.5 

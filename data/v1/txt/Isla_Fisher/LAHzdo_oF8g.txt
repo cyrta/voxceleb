@@ -1,0 +1,8 @@
+POI: 			Isla_Fisher 
+Youtube ID: 	LAHzdo_oF8g 
+Video length: 	246.2 sec 
+Set (V): 		dev 
+ 
+Isla_Fisher/LAHzdo_oF8g_0000001 67.3 74.0 
+Isla_Fisher/LAHzdo_oF8g_0000002 129.7 134.8 
+Isla_Fisher/LAHzdo_oF8g_0000003 195.6 201.6 

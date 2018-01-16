@@ -1,0 +1,9 @@
+POI: 			Paul_Giamatti 
+Youtube ID: 	Kliogolv0aE 
+Video length: 	149.8 sec 
+Set (V): 		dev 
+ 
+Paul_Giamatti/Kliogolv0aE_0000001 29.7 37.2 
+Paul_Giamatti/Kliogolv0aE_0000002 47.5 56.0 
+Paul_Giamatti/Kliogolv0aE_0000003 114.4 126.9 
+Paul_Giamatti/Kliogolv0aE_0000004 127.5 134.4 

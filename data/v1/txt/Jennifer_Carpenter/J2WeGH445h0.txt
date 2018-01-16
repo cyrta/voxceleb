@@ -1,0 +1,13 @@
+POI: 			Jennifer_Carpenter 
+Youtube ID: 	J2WeGH445h0 
+Video length: 	247.4 sec 
+Set (V): 		dev 
+ 
+Jennifer_Carpenter/J2WeGH445h0_0000001 40.8 59.8 
+Jennifer_Carpenter/J2WeGH445h0_0000002 72.8 77.1 
+Jennifer_Carpenter/J2WeGH445h0_0000003 79.6 85.5 
+Jennifer_Carpenter/J2WeGH445h0_0000004 88.1 93.2 
+Jennifer_Carpenter/J2WeGH445h0_0000005 111.1 130.6 
+Jennifer_Carpenter/J2WeGH445h0_0000006 153.4 160.6 
+Jennifer_Carpenter/J2WeGH445h0_0000007 161.0 166.4 
+Jennifer_Carpenter/J2WeGH445h0_0000008 189.0 193.9 

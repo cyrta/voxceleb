@@ -1,0 +1,9 @@
+POI: 			Joan_Allen 
+Youtube ID: 	x4mPNaueOcM 
+Video length: 	179.6 sec 
+Set (V): 		dev 
+ 
+Joan_Allen/x4mPNaueOcM_0000001 53.4 57.4 
+Joan_Allen/x4mPNaueOcM_0000002 93.3 97.8 
+Joan_Allen/x4mPNaueOcM_0000003 124.6 130.2 
+Joan_Allen/x4mPNaueOcM_0000004 141.5 145.8 

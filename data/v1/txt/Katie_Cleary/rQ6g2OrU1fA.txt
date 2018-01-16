@@ -1,0 +1,14 @@
+POI: 			Katie_Cleary 
+Youtube ID: 	rQ6g2OrU1fA 
+Video length: 	429.7 sec 
+Set (V): 		dev 
+ 
+Katie_Cleary/rQ6g2OrU1fA_0000001 66.1 73.1 
+Katie_Cleary/rQ6g2OrU1fA_0000002 86.8 94.4 
+Katie_Cleary/rQ6g2OrU1fA_0000003 96.6 105.4 
+Katie_Cleary/rQ6g2OrU1fA_0000004 136.3 144.0 
+Katie_Cleary/rQ6g2OrU1fA_0000005 266.3 272.8 
+Katie_Cleary/rQ6g2OrU1fA_0000006 275.2 285.4 
+Katie_Cleary/rQ6g2OrU1fA_0000007 303.2 309.2 
+Katie_Cleary/rQ6g2OrU1fA_0000008 363.2 367.4 
+Katie_Cleary/rQ6g2OrU1fA_0000009 389.4 394.2 

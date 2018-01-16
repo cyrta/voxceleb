@@ -1,0 +1,7 @@
+POI: 			Miley_Cyrus 
+Youtube ID: 	doczoGFzoRk 
+Video length: 	165.9 sec 
+Set (V): 		dev 
+ 
+Miley_Cyrus/doczoGFzoRk_0000001 63.1 67.6 
+Miley_Cyrus/doczoGFzoRk_0000002 119.4 125.2 

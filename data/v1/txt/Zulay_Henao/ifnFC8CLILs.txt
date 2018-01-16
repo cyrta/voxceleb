@@ -1,0 +1,8 @@
+POI: 			Zulay_Henao 
+Youtube ID: 	ifnFC8CLILs 
+Video length: 	225.2 sec 
+Set (V): 		dev 
+ 
+Zulay_Henao/ifnFC8CLILs_0000001 71.4 75.7 
+Zulay_Henao/ifnFC8CLILs_0000002 184.7 189.1 
+Zulay_Henao/ifnFC8CLILs_0000003 187.8 195.2 

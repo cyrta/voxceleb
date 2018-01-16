@@ -1,0 +1,15 @@
+POI: 			Mary-Louise_Parker 
+Youtube ID: 	IJJJjQY14u8 
+Video length: 	523.7 sec 
+Set (V): 		dev 
+ 
+Mary-Louise_Parker/IJJJjQY14u8_0000001 82.4 87.1 
+Mary-Louise_Parker/IJJJjQY14u8_0000002 87.8 95.5 
+Mary-Louise_Parker/IJJJjQY14u8_0000003 252.1 262.7 
+Mary-Louise_Parker/IJJJjQY14u8_0000004 286.0 294.6 
+Mary-Louise_Parker/IJJJjQY14u8_0000005 347.2 352.9 
+Mary-Louise_Parker/IJJJjQY14u8_0000006 362.7 368.6 
+Mary-Louise_Parker/IJJJjQY14u8_0000007 378.3 384.8 
+Mary-Louise_Parker/IJJJjQY14u8_0000008 411.2 415.4 
+Mary-Louise_Parker/IJJJjQY14u8_0000009 416.5 421.5 
+Mary-Louise_Parker/IJJJjQY14u8_0000010 472.6 481.3 

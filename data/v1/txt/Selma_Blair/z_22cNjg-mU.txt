@@ -1,0 +1,10 @@
+POI: 			Selma_Blair 
+Youtube ID: 	z_22cNjg-mU 
+Video length: 	204.3 sec 
+Set (V): 		dev 
+ 
+Selma_Blair/z_22cNjg-mU_0000001 73.4 81.1 
+Selma_Blair/z_22cNjg-mU_0000002 86.1 98.5 
+Selma_Blair/z_22cNjg-mU_0000003 148.2 159.4 
+Selma_Blair/z_22cNjg-mU_0000004 162.2 171.3 
+Selma_Blair/z_22cNjg-mU_0000005 180.8 190.4 

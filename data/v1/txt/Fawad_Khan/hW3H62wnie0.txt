@@ -1,0 +1,14 @@
+POI: 			Fawad_Khan 
+Youtube ID: 	hW3H62wnie0 
+Video length: 	1437.3 sec 
+Set (V): 		dev 
+ 
+Fawad_Khan/hW3H62wnie0_0000001 239.3 243.6 
+Fawad_Khan/hW3H62wnie0_0000002 305.9 310.2 
+Fawad_Khan/hW3H62wnie0_0000003 479.4 483.6 
+Fawad_Khan/hW3H62wnie0_0000004 503.5 507.8 
+Fawad_Khan/hW3H62wnie0_0000005 508.4 512.7 
+Fawad_Khan/hW3H62wnie0_0000006 660.7 667.2 
+Fawad_Khan/hW3H62wnie0_0000007 923.5 928.5 
+Fawad_Khan/hW3H62wnie0_0000008 1271.9 1279.2 
+Fawad_Khan/hW3H62wnie0_0000009 1351.9 1356.0 

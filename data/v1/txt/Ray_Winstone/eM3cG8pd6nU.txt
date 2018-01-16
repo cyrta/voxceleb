@@ -1,0 +1,16 @@
+POI: 			Ray_Winstone 
+Youtube ID: 	eM3cG8pd6nU 
+Video length: 	296.1 sec 
+Set (V): 		dev 
+ 
+Ray_Winstone/eM3cG8pd6nU_0000001 45.2 51.4 
+Ray_Winstone/eM3cG8pd6nU_0000002 52.8 58.8 
+Ray_Winstone/eM3cG8pd6nU_0000003 75.2 81.6 
+Ray_Winstone/eM3cG8pd6nU_0000004 116.7 122.8 
+Ray_Winstone/eM3cG8pd6nU_0000005 123.6 128.9 
+Ray_Winstone/eM3cG8pd6nU_0000006 148.8 153.3 
+Ray_Winstone/eM3cG8pd6nU_0000007 163.2 171.4 
+Ray_Winstone/eM3cG8pd6nU_0000008 172.2 180.0 
+Ray_Winstone/eM3cG8pd6nU_0000009 202.2 210.4 
+Ray_Winstone/eM3cG8pd6nU_0000010 238.7 244.1 
+Ray_Winstone/eM3cG8pd6nU_0000011 254.9 262.7 

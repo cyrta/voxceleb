@@ -1,0 +1,8 @@
+POI: 			Joel_McHale 
+Youtube ID: 	kxMo_3J5X9E 
+Video length: 	178.5 sec 
+Set (V): 		dev 
+ 
+Joel_McHale/kxMo_3J5X9E_0000001 06.8 11.7 
+Joel_McHale/kxMo_3J5X9E_0000002 16.2 21.3 
+Joel_McHale/kxMo_3J5X9E_0000003 42.9 47.8 

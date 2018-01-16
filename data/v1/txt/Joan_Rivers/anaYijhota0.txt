@@ -1,0 +1,10 @@
+POI: 			Joan_Rivers 
+Youtube ID: 	anaYijhota0 
+Video length: 	622.7 sec 
+Set (V): 		dev 
+ 
+Joan_Rivers/anaYijhota0_0000001 54.4 72.0 
+Joan_Rivers/anaYijhota0_0000002 110.1 116.2 
+Joan_Rivers/anaYijhota0_0000003 359.5 369.0 
+Joan_Rivers/anaYijhota0_0000004 423.2 427.6 
+Joan_Rivers/anaYijhota0_0000005 455.8 465.1 

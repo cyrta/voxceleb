@@ -1,0 +1,8 @@
+POI: 			Nicole_Richie 
+Youtube ID: 	TvDpSHSsoH4 
+Video length: 	195.4 sec 
+Set (V): 		dev 
+ 
+Nicole_Richie/TvDpSHSsoH4_0000001 37.8 46.7 
+Nicole_Richie/TvDpSHSsoH4_0000002 63.6 68.5 
+Nicole_Richie/TvDpSHSsoH4_0000003 134.8 145.1 

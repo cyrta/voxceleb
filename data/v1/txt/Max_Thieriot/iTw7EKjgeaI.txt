@@ -1,0 +1,10 @@
+POI: 			Max_Thieriot 
+Youtube ID: 	iTw7EKjgeaI 
+Video length: 	118.3 sec 
+Set (V): 		dev 
+ 
+Max_Thieriot/iTw7EKjgeaI_0000001 18.5 22.9 
+Max_Thieriot/iTw7EKjgeaI_0000002 27.5 38.6 
+Max_Thieriot/iTw7EKjgeaI_0000003 87.6 92.8 
+Max_Thieriot/iTw7EKjgeaI_0000004 98.7 103.3 
+Max_Thieriot/iTw7EKjgeaI_0000005 103.6 109.8 

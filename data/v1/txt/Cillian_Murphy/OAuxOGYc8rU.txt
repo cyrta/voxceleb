@@ -1,0 +1,9 @@
+POI: 			Cillian_Murphy 
+Youtube ID: 	OAuxOGYc8rU 
+Video length: 	158.6 sec 
+Set (V): 		dev 
+ 
+Cillian_Murphy/OAuxOGYc8rU_0000001 51.6 55.6 
+Cillian_Murphy/OAuxOGYc8rU_0000002 65.4 73.3 
+Cillian_Murphy/OAuxOGYc8rU_0000003 80.7 85.5 
+Cillian_Murphy/OAuxOGYc8rU_0000004 117.3 122.1 

@@ -1,0 +1,10 @@
+POI: 			Ruth_Jones 
+Youtube ID: 	Ro9d1k1wOlk 
+Video length: 	201.7 sec 
+Set (V): 		dev 
+ 
+Ruth_Jones/Ro9d1k1wOlk_0000001 13.2 17.3 
+Ruth_Jones/Ro9d1k1wOlk_0000002 98.8 104.7 
+Ruth_Jones/Ro9d1k1wOlk_0000003 140.2 146.3 
+Ruth_Jones/Ro9d1k1wOlk_0000004 147.1 153.6 
+Ruth_Jones/Ro9d1k1wOlk_0000005 174.2 179.8 

@@ -1,0 +1,13 @@
+POI: 			Alba_Rohrwacher 
+Youtube ID: 	csKBZo0-gKE 
+Video length: 	420.1 sec 
+Set (V): 		dev 
+ 
+Alba_Rohrwacher/csKBZo0-gKE_0000001 109.8 116.9 
+Alba_Rohrwacher/csKBZo0-gKE_0000002 124.0 130.5 
+Alba_Rohrwacher/csKBZo0-gKE_0000003 135.0 139.5 
+Alba_Rohrwacher/csKBZo0-gKE_0000004 178.8 184.2 
+Alba_Rohrwacher/csKBZo0-gKE_0000005 238.8 244.6 
+Alba_Rohrwacher/csKBZo0-gKE_0000006 292.8 300.8 
+Alba_Rohrwacher/csKBZo0-gKE_0000007 380.1 385.4 
+Alba_Rohrwacher/csKBZo0-gKE_0000008 395.6 400.2 

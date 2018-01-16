@@ -1,0 +1,31 @@
+POI: 			Glen_Hansard 
+Youtube ID: 	rX4LkvzySSM 
+Video length: 	541.4 sec 
+Set (V): 		dev 
+ 
+Glen_Hansard/rX4LkvzySSM_0000001 79.4 97.8 
+Glen_Hansard/rX4LkvzySSM_0000002 109.8 118.8 
+Glen_Hansard/rX4LkvzySSM_0000003 124.6 130.7 
+Glen_Hansard/rX4LkvzySSM_0000004 134.8 138.7 
+Glen_Hansard/rX4LkvzySSM_0000005 156.7 170.0 
+Glen_Hansard/rX4LkvzySSM_0000006 176.8 181.3 
+Glen_Hansard/rX4LkvzySSM_0000007 182.6 189.6 
+Glen_Hansard/rX4LkvzySSM_0000008 192.2 198.0 
+Glen_Hansard/rX4LkvzySSM_0000009 199.8 204.3 
+Glen_Hansard/rX4LkvzySSM_0000010 213.3 225.6 
+Glen_Hansard/rX4LkvzySSM_0000011 229.0 263.3 
+Glen_Hansard/rX4LkvzySSM_0000012 266.6 273.5 
+Glen_Hansard/rX4LkvzySSM_0000013 276.7 290.5 
+Glen_Hansard/rX4LkvzySSM_0000014 305.0 312.6 
+Glen_Hansard/rX4LkvzySSM_0000015 314.6 322.8 
+Glen_Hansard/rX4LkvzySSM_0000016 327.2 334.9 
+Glen_Hansard/rX4LkvzySSM_0000017 394.3 401.2 
+Glen_Hansard/rX4LkvzySSM_0000018 410.0 415.4 
+Glen_Hansard/rX4LkvzySSM_0000019 416.6 420.6 
+Glen_Hansard/rX4LkvzySSM_0000020 429.9 441.7 
+Glen_Hansard/rX4LkvzySSM_0000021 442.8 448.5 
+Glen_Hansard/rX4LkvzySSM_0000022 456.3 460.8 
+Glen_Hansard/rX4LkvzySSM_0000023 470.2 475.6 
+Glen_Hansard/rX4LkvzySSM_0000024 470.1 476.0 
+Glen_Hansard/rX4LkvzySSM_0000025 480.6 492.7 
+Glen_Hansard/rX4LkvzySSM_0000026 528.4 532.6 

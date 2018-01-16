@@ -1,0 +1,14 @@
+POI: 			Kevin_Clash 
+Youtube ID: 	k_Pt6x6zl70 
+Video length: 	743.0 sec 
+Set (V): 		dev 
+ 
+Kevin_Clash/k_Pt6x6zl70_0000001 118.7 123.7 
+Kevin_Clash/k_Pt6x6zl70_0000002 234.6 238.7 
+Kevin_Clash/k_Pt6x6zl70_0000003 285.5 289.8 
+Kevin_Clash/k_Pt6x6zl70_0000004 292.0 298.4 
+Kevin_Clash/k_Pt6x6zl70_0000005 310.2 314.2 
+Kevin_Clash/k_Pt6x6zl70_0000006 512.8 518.6 
+Kevin_Clash/k_Pt6x6zl70_0000007 531.2 535.2 
+Kevin_Clash/k_Pt6x6zl70_0000008 557.1 563.7 
+Kevin_Clash/k_Pt6x6zl70_0000009 715.3 720.1 

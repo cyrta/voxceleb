@@ -1,0 +1,7 @@
+POI: 			Keri_Russell 
+Youtube ID: 	MtrDi8_Q0bI 
+Video length: 	212.1 sec 
+Set (V): 		dev 
+ 
+Keri_Russell/MtrDi8_Q0bI_0000001 06.5 15.6 
+Keri_Russell/MtrDi8_Q0bI_0000002 194.8 199.8 

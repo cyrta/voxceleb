@@ -1,0 +1,9 @@
+POI: 			David_Cassidy 
+Youtube ID: 	OH-5dGHLOwA 
+Video length: 	273.1 sec 
+Set (V): 		dev 
+ 
+David_Cassidy/OH-5dGHLOwA_0000001 25.0 30.5 
+David_Cassidy/OH-5dGHLOwA_0000002 33.5 38.4 
+David_Cassidy/OH-5dGHLOwA_0000003 60.0 64.9 
+David_Cassidy/OH-5dGHLOwA_0000004 70.8 77.8 

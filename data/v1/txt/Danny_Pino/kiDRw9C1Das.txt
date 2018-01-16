@@ -1,0 +1,14 @@
+POI: 			Danny_Pino 
+Youtube ID: 	kiDRw9C1Das 
+Video length: 	203.6 sec 
+Set (V): 		dev 
+ 
+Danny_Pino/kiDRw9C1Das_0000001 18.0 22.8 
+Danny_Pino/kiDRw9C1Das_0000002 38.4 44.3 
+Danny_Pino/kiDRw9C1Das_0000003 56.0 63.4 
+Danny_Pino/kiDRw9C1Das_0000004 65.5 70.5 
+Danny_Pino/kiDRw9C1Das_0000005 81.5 87.4 
+Danny_Pino/kiDRw9C1Das_0000006 113.2 117.8 
+Danny_Pino/kiDRw9C1Das_0000007 124.0 130.8 
+Danny_Pino/kiDRw9C1Das_0000008 160.1 166.8 
+Danny_Pino/kiDRw9C1Das_0000009 186.5 191.7 

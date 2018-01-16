@@ -1,0 +1,17 @@
+POI: 			Robbie_Kay 
+Youtube ID: 	SwqPzS1-aoc 
+Video length: 	249.3 sec 
+Set (V): 		dev 
+ 
+Robbie_Kay/SwqPzS1-aoc_0000001 06.2 18.2 
+Robbie_Kay/SwqPzS1-aoc_0000002 21.7 59.8 
+Robbie_Kay/SwqPzS1-aoc_0000003 64.3 72.6 
+Robbie_Kay/SwqPzS1-aoc_0000004 74.1 81.4 
+Robbie_Kay/SwqPzS1-aoc_0000005 81.9 98.3 
+Robbie_Kay/SwqPzS1-aoc_0000006 96.2 109.5 
+Robbie_Kay/SwqPzS1-aoc_0000007 109.6 119.5 
+Robbie_Kay/SwqPzS1-aoc_0000008 123.1 155.2 
+Robbie_Kay/SwqPzS1-aoc_0000009 163.5 174.8 
+Robbie_Kay/SwqPzS1-aoc_0000010 199.1 212.4 
+Robbie_Kay/SwqPzS1-aoc_0000011 216.9 226.8 
+Robbie_Kay/SwqPzS1-aoc_0000012 228.2 242.4 

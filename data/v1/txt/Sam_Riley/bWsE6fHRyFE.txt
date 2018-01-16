@@ -1,0 +1,16 @@
+POI: 			Sam_Riley 
+Youtube ID: 	bWsE6fHRyFE 
+Video length: 	187.0 sec 
+Set (V): 		dev 
+ 
+Sam_Riley/bWsE6fHRyFE_0000001 16.5 22.9 
+Sam_Riley/bWsE6fHRyFE_0000002 35.9 41.2 
+Sam_Riley/bWsE6fHRyFE_0000003 42.0 46.3 
+Sam_Riley/bWsE6fHRyFE_0000004 68.4 73.4 
+Sam_Riley/bWsE6fHRyFE_0000005 73.9 86.8 
+Sam_Riley/bWsE6fHRyFE_0000006 93.5 99.1 
+Sam_Riley/bWsE6fHRyFE_0000007 99.6 103.8 
+Sam_Riley/bWsE6fHRyFE_0000008 123.3 127.9 
+Sam_Riley/bWsE6fHRyFE_0000009 128.9 135.0 
+Sam_Riley/bWsE6fHRyFE_0000010 146.6 160.8 
+Sam_Riley/bWsE6fHRyFE_0000011 168.4 173.1 

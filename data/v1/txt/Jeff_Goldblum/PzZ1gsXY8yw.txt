@@ -1,0 +1,7 @@
+POI: 			Jeff_Goldblum 
+Youtube ID: 	PzZ1gsXY8yw 
+Video length: 	288.5 sec 
+Set (V): 		dev 
+ 
+Jeff_Goldblum/PzZ1gsXY8yw_0000001 95.3 105.9 
+Jeff_Goldblum/PzZ1gsXY8yw_0000002 167.0 171.5 

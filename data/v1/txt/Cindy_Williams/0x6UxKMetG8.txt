@@ -1,0 +1,21 @@
+POI: 			Cindy_Williams 
+Youtube ID: 	0x6UxKMetG8 
+Video length: 	265.7 sec 
+Set (V): 		dev 
+ 
+Cindy_Williams/0x6UxKMetG8_0000001 06.6 14.0 
+Cindy_Williams/0x6UxKMetG8_0000002 14.7 24.1 
+Cindy_Williams/0x6UxKMetG8_0000003 28.7 34.0 
+Cindy_Williams/0x6UxKMetG8_0000004 34.5 40.3 
+Cindy_Williams/0x6UxKMetG8_0000005 44.6 49.4 
+Cindy_Williams/0x6UxKMetG8_0000006 53.9 58.7 
+Cindy_Williams/0x6UxKMetG8_0000007 75.8 93.3 
+Cindy_Williams/0x6UxKMetG8_0000008 101.6 110.9 
+Cindy_Williams/0x6UxKMetG8_0000009 117.3 121.9 
+Cindy_Williams/0x6UxKMetG8_0000010 134.0 151.0 
+Cindy_Williams/0x6UxKMetG8_0000011 154.7 170.7 
+Cindy_Williams/0x6UxKMetG8_0000012 184.7 193.6 
+Cindy_Williams/0x6UxKMetG8_0000013 196.6 209.4 
+Cindy_Williams/0x6UxKMetG8_0000014 211.6 238.4 
+Cindy_Williams/0x6UxKMetG8_0000015 239.7 244.9 
+Cindy_Williams/0x6UxKMetG8_0000016 250.9 256.0 

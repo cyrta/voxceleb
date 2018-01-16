@@ -1,0 +1,9 @@
+POI: 			Kellan_Lutz 
+Youtube ID: 	5TnxCj72FLg 
+Video length: 	244.3 sec 
+Set (V): 		dev 
+ 
+Kellan_Lutz/5TnxCj72FLg_0000001 31.2 39.0 
+Kellan_Lutz/5TnxCj72FLg_0000002 39.6 45.2 
+Kellan_Lutz/5TnxCj72FLg_0000003 45.5 59.5 
+Kellan_Lutz/5TnxCj72FLg_0000004 186.2 201.0 

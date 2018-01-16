@@ -1,0 +1,8 @@
+POI: 			Marisa_Miller 
+Youtube ID: 	u5QPAGacRuE 
+Video length: 	59.6 sec 
+Set (V): 		dev 
+ 
+Marisa_Miller/u5QPAGacRuE_0000001 09.2 14.4 
+Marisa_Miller/u5QPAGacRuE_0000002 19.5 31.9 
+Marisa_Miller/u5QPAGacRuE_0000003 36.5 51.2 

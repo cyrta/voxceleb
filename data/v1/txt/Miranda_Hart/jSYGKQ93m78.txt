@@ -1,0 +1,10 @@
+POI: 			Miranda_Hart 
+Youtube ID: 	jSYGKQ93m78 
+Video length: 	221.2 sec 
+Set (V): 		dev 
+ 
+Miranda_Hart/jSYGKQ93m78_0000001 75.6 81.2 
+Miranda_Hart/jSYGKQ93m78_0000002 85.0 92.2 
+Miranda_Hart/jSYGKQ93m78_0000003 98.4 102.8 
+Miranda_Hart/jSYGKQ93m78_0000004 198.5 202.6 
+Miranda_Hart/jSYGKQ93m78_0000005 209.1 214.6 

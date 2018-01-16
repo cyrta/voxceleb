@@ -1,0 +1,17 @@
+POI: 			Peter_Berg 
+Youtube ID: 	hHgAt_y-Lgw 
+Video length: 	306.8 sec 
+Set (V): 		dev 
+ 
+Peter_Berg/hHgAt_y-Lgw_0000001 08.2 16.8 
+Peter_Berg/hHgAt_y-Lgw_0000002 20.8 27.9 
+Peter_Berg/hHgAt_y-Lgw_0000003 42.8 54.3 
+Peter_Berg/hHgAt_y-Lgw_0000004 59.5 66.4 
+Peter_Berg/hHgAt_y-Lgw_0000005 70.4 78.4 
+Peter_Berg/hHgAt_y-Lgw_0000006 83.4 93.5 
+Peter_Berg/hHgAt_y-Lgw_0000007 97.1 102.6 
+Peter_Berg/hHgAt_y-Lgw_0000008 172.8 179.3 
+Peter_Berg/hHgAt_y-Lgw_0000009 193.6 198.0 
+Peter_Berg/hHgAt_y-Lgw_0000010 201.9 206.0 
+Peter_Berg/hHgAt_y-Lgw_0000011 221.1 227.2 
+Peter_Berg/hHgAt_y-Lgw_0000012 246.5 255.6 

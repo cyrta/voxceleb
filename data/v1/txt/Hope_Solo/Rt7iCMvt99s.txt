@@ -1,0 +1,16 @@
+POI: 			Hope_Solo 
+Youtube ID: 	Rt7iCMvt99s 
+Video length: 	349.6 sec 
+Set (V): 		dev 
+ 
+Hope_Solo/Rt7iCMvt99s_0000001 37.4 45.1 
+Hope_Solo/Rt7iCMvt99s_0000002 68.4 80.6 
+Hope_Solo/Rt7iCMvt99s_0000003 81.4 88.3 
+Hope_Solo/Rt7iCMvt99s_0000004 114.0 118.5 
+Hope_Solo/Rt7iCMvt99s_0000005 119.3 124.6 
+Hope_Solo/Rt7iCMvt99s_0000006 157.0 162.2 
+Hope_Solo/Rt7iCMvt99s_0000007 170.4 174.6 
+Hope_Solo/Rt7iCMvt99s_0000008 175.0 183.1 
+Hope_Solo/Rt7iCMvt99s_0000009 197.0 205.9 
+Hope_Solo/Rt7iCMvt99s_0000010 251.6 256.4 
+Hope_Solo/Rt7iCMvt99s_0000011 332.2 337.9 

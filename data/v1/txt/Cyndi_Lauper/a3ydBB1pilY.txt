@@ -1,0 +1,16 @@
+POI: 			Cyndi_Lauper 
+Youtube ID: 	a3ydBB1pilY 
+Video length: 	897.2 sec 
+Set (V): 		dev 
+ 
+Cyndi_Lauper/a3ydBB1pilY_0000001 63.2 68.3 
+Cyndi_Lauper/a3ydBB1pilY_0000002 273.5 277.8 
+Cyndi_Lauper/a3ydBB1pilY_0000003 281.8 286.7 
+Cyndi_Lauper/a3ydBB1pilY_0000004 287.8 296.9 
+Cyndi_Lauper/a3ydBB1pilY_0000005 477.9 482.2 
+Cyndi_Lauper/a3ydBB1pilY_0000006 490.8 499.0 
+Cyndi_Lauper/a3ydBB1pilY_0000007 583.4 588.4 
+Cyndi_Lauper/a3ydBB1pilY_0000008 591.7 597.4 
+Cyndi_Lauper/a3ydBB1pilY_0000009 748.0 752.2 
+Cyndi_Lauper/a3ydBB1pilY_0000010 778.9 784.2 
+Cyndi_Lauper/a3ydBB1pilY_0000011 796.1 801.3 

@@ -1,0 +1,8 @@
+POI: 			Terrence_Howard 
+Youtube ID: 	kx4-wNTJXW0 
+Video length: 	239.8 sec 
+Set (V): 		dev 
+ 
+Terrence_Howard/kx4-wNTJXW0_0000001 119.8 123.8 
+Terrence_Howard/kx4-wNTJXW0_0000002 151.6 157.1 
+Terrence_Howard/kx4-wNTJXW0_0000003 169.2 175.4 

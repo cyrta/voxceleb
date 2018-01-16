@@ -1,0 +1,12 @@
+POI: 			Jennette_McCurdy 
+Youtube ID: 	55DTPl6k1tQ 
+Video length: 	649.9 sec 
+Set (V): 		dev 
+ 
+Jennette_McCurdy/55DTPl6k1tQ_0000001 442.6 447.4 
+Jennette_McCurdy/55DTPl6k1tQ_0000002 447.7 451.9 
+Jennette_McCurdy/55DTPl6k1tQ_0000003 455.6 460.2 
+Jennette_McCurdy/55DTPl6k1tQ_0000004 488.8 496.5 
+Jennette_McCurdy/55DTPl6k1tQ_0000005 500.6 513.3 
+Jennette_McCurdy/55DTPl6k1tQ_0000006 514.2 521.4 
+Jennette_McCurdy/55DTPl6k1tQ_0000007 551.1 557.0 

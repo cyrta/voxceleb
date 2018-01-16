@@ -1,0 +1,37 @@
+POI: 			James_Woods 
+Youtube ID: 	icobsBy2BwU 
+Video length: 	2196.5 sec 
+Set (V): 		dev 
+ 
+James_Woods/icobsBy2BwU_0000001 498.3 505.6 
+James_Woods/icobsBy2BwU_0000002 506.6 511.0 
+James_Woods/icobsBy2BwU_0000003 556.8 561.6 
+James_Woods/icobsBy2BwU_0000004 700.3 705.0 
+James_Woods/icobsBy2BwU_0000005 825.8 832.2 
+James_Woods/icobsBy2BwU_0000006 885.0 889.4 
+James_Woods/icobsBy2BwU_0000007 935.0 939.5 
+James_Woods/icobsBy2BwU_0000008 1008.5 1014.4 
+James_Woods/icobsBy2BwU_0000009 1089.2 1096.0 
+James_Woods/icobsBy2BwU_0000010 1097.2 1103.7 
+James_Woods/icobsBy2BwU_0000011 1104.1 1114.8 
+James_Woods/icobsBy2BwU_0000012 1140.3 1146.8 
+James_Woods/icobsBy2BwU_0000013 1147.8 1156.1 
+James_Woods/icobsBy2BwU_0000014 1156.8 1161.0 
+James_Woods/icobsBy2BwU_0000015 1174.0 1183.5 
+James_Woods/icobsBy2BwU_0000016 1211.2 1216.9 
+James_Woods/icobsBy2BwU_0000017 1217.8 1222.3 
+James_Woods/icobsBy2BwU_0000018 1244.5 1253.2 
+James_Woods/icobsBy2BwU_0000019 1314.8 1318.8 
+James_Woods/icobsBy2BwU_0000020 1441.8 1454.2 
+James_Woods/icobsBy2BwU_0000021 1455.2 1460.0 
+James_Woods/icobsBy2BwU_0000022 1460.4 1472.1 
+James_Woods/icobsBy2BwU_0000023 1514.6 1524.6 
+James_Woods/icobsBy2BwU_0000024 1540.6 1547.0 
+James_Woods/icobsBy2BwU_0000025 1558.6 1570.5 
+James_Woods/icobsBy2BwU_0000026 1739.3 1757.0 
+James_Woods/icobsBy2BwU_0000027 1795.0 1804.8 
+James_Woods/icobsBy2BwU_0000028 1967.6 1972.8 
+James_Woods/icobsBy2BwU_0000029 1984.3 1991.9 
+James_Woods/icobsBy2BwU_0000030 1993.6 1998.3 
+James_Woods/icobsBy2BwU_0000031 2032.0 2036.2 
+James_Woods/icobsBy2BwU_0000032 2039.6 2049.8 

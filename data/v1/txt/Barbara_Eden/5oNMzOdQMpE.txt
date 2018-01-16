@@ -1,0 +1,7 @@
+POI: 			Barbara_Eden 
+Youtube ID: 	5oNMzOdQMpE 
+Video length: 	338.9 sec 
+Set (V): 		dev 
+ 
+Barbara_Eden/5oNMzOdQMpE_0000001 293.0 297.5 
+Barbara_Eden/5oNMzOdQMpE_0000002 310.9 315.3 

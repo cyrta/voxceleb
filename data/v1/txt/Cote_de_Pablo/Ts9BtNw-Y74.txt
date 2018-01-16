@@ -1,0 +1,12 @@
+POI: 			Cote_de_Pablo 
+Youtube ID: 	Ts9BtNw-Y74 
+Video length: 	305.2 sec 
+Set (V): 		dev 
+ 
+Cote_de_Pablo/Ts9BtNw-Y74_0000001 42.7 46.8 
+Cote_de_Pablo/Ts9BtNw-Y74_0000002 50.7 69.1 
+Cote_de_Pablo/Ts9BtNw-Y74_0000003 71.4 75.9 
+Cote_de_Pablo/Ts9BtNw-Y74_0000004 163.4 170.9 
+Cote_de_Pablo/Ts9BtNw-Y74_0000005 214.9 220.9 
+Cote_de_Pablo/Ts9BtNw-Y74_0000006 235.5 239.6 
+Cote_de_Pablo/Ts9BtNw-Y74_0000007 263.4 272.6 

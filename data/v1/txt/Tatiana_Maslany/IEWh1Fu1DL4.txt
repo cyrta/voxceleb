@@ -1,0 +1,9 @@
+POI: 			Tatiana_Maslany 
+Youtube ID: 	IEWh1Fu1DL4 
+Video length: 	261.7 sec 
+Set (V): 		dev 
+ 
+Tatiana_Maslany/IEWh1Fu1DL4_0000001 71.5 75.6 
+Tatiana_Maslany/IEWh1Fu1DL4_0000002 157.0 169.8 
+Tatiana_Maslany/IEWh1Fu1DL4_0000003 182.7 188.8 
+Tatiana_Maslany/IEWh1Fu1DL4_0000004 201.5 208.5 

@@ -1,0 +1,7 @@
+POI: 			John_Cho 
+Youtube ID: 	cBeluMOisKg 
+Video length: 	166.2 sec 
+Set (V): 		dev 
+ 
+John_Cho/cBeluMOisKg_0000001 89.5 93.4 
+John_Cho/cBeluMOisKg_0000002 93.6 113.9 

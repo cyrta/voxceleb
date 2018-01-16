@@ -1,0 +1,16 @@
+POI: 			Holliday_Grainger 
+Youtube ID: 	v8DrrmZepYg 
+Video length: 	262.2 sec 
+Set (V): 		dev 
+ 
+Holliday_Grainger/v8DrrmZepYg_0000001 52.3 58.0 
+Holliday_Grainger/v8DrrmZepYg_0000002 58.4 63.4 
+Holliday_Grainger/v8DrrmZepYg_0000003 65.8 70.2 
+Holliday_Grainger/v8DrrmZepYg_0000004 71.9 77.9 
+Holliday_Grainger/v8DrrmZepYg_0000005 78.4 89.8 
+Holliday_Grainger/v8DrrmZepYg_0000006 121.3 130.8 
+Holliday_Grainger/v8DrrmZepYg_0000007 143.1 148.1 
+Holliday_Grainger/v8DrrmZepYg_0000008 149.3 167.2 
+Holliday_Grainger/v8DrrmZepYg_0000009 186.3 192.1 
+Holliday_Grainger/v8DrrmZepYg_0000010 215.9 233.4 
+Holliday_Grainger/v8DrrmZepYg_0000011 234.2 242.2 

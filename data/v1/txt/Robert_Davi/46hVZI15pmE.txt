@@ -1,0 +1,10 @@
+POI: 			Robert_Davi 
+Youtube ID: 	46hVZI15pmE 
+Video length: 	257.3 sec 
+Set (V): 		dev 
+ 
+Robert_Davi/46hVZI15pmE_0000001 63.3 77.2 
+Robert_Davi/46hVZI15pmE_0000002 91.2 95.6 
+Robert_Davi/46hVZI15pmE_0000003 162.0 170.4 
+Robert_Davi/46hVZI15pmE_0000004 184.6 190.1 
+Robert_Davi/46hVZI15pmE_0000005 199.3 206.0 

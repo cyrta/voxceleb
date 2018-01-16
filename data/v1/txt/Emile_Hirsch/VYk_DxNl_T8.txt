@@ -1,0 +1,8 @@
+POI: 			Emile_Hirsch 
+Youtube ID: 	VYk_DxNl_T8 
+Video length: 	212.2 sec 
+Set (V): 		test 
+ 
+Emile_Hirsch/VYk_DxNl_T8_0000001 25.1 37.5 
+Emile_Hirsch/VYk_DxNl_T8_0000002 164.2 171.0 
+Emile_Hirsch/VYk_DxNl_T8_0000003 204.5 210.4 

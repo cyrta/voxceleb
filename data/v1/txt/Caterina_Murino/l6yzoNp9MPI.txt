@@ -1,0 +1,22 @@
+POI: 			Caterina_Murino 
+Youtube ID: 	l6yzoNp9MPI 
+Video length: 	1626.9 sec 
+Set (V): 		dev 
+ 
+Caterina_Murino/l6yzoNp9MPI_0000001 485.5 498.4 
+Caterina_Murino/l6yzoNp9MPI_0000002 515.0 528.9 
+Caterina_Murino/l6yzoNp9MPI_0000003 561.6 566.6 
+Caterina_Murino/l6yzoNp9MPI_0000004 597.8 602.4 
+Caterina_Murino/l6yzoNp9MPI_0000005 612.0 620.4 
+Caterina_Murino/l6yzoNp9MPI_0000006 624.5 631.9 
+Caterina_Murino/l6yzoNp9MPI_0000007 661.3 672.6 
+Caterina_Murino/l6yzoNp9MPI_0000008 673.2 677.6 
+Caterina_Murino/l6yzoNp9MPI_0000009 703.0 709.3 
+Caterina_Murino/l6yzoNp9MPI_0000010 844.5 849.1 
+Caterina_Murino/l6yzoNp9MPI_0000011 1315.0 1324.3 
+Caterina_Murino/l6yzoNp9MPI_0000012 1328.1 1333.1 
+Caterina_Murino/l6yzoNp9MPI_0000013 1361.6 1370.6 
+Caterina_Murino/l6yzoNp9MPI_0000014 1406.6 1416.7 
+Caterina_Murino/l6yzoNp9MPI_0000015 1430.7 1440.5 
+Caterina_Murino/l6yzoNp9MPI_0000016 1501.4 1505.4 
+Caterina_Murino/l6yzoNp9MPI_0000017 1559.0 1570.8 

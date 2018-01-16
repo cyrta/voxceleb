@@ -1,0 +1,9 @@
+POI: 			James_Maslow 
+Youtube ID: 	39L8u1wbm_s 
+Video length: 	224.7 sec 
+Set (V): 		dev 
+ 
+James_Maslow/39L8u1wbm_s_0000001 36.8 50.5 
+James_Maslow/39L8u1wbm_s_0000002 113.4 134.0 
+James_Maslow/39L8u1wbm_s_0000003 153.2 165.7 
+James_Maslow/39L8u1wbm_s_0000004 193.3 200.3 

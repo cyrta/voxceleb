@@ -1,0 +1,9 @@
+POI: 			Mischa_Barton 
+Youtube ID: 	bTC6jcY7mww 
+Video length: 	301.4 sec 
+Set (V): 		dev 
+ 
+Mischa_Barton/bTC6jcY7mww_0000001 24.0 32.6 
+Mischa_Barton/bTC6jcY7mww_0000002 58.2 66.6 
+Mischa_Barton/bTC6jcY7mww_0000003 168.0 173.5 
+Mischa_Barton/bTC6jcY7mww_0000004 174.5 178.5 

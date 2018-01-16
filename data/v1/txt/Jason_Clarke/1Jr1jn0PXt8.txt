@@ -1,0 +1,13 @@
+POI: 			Jason_Clarke 
+Youtube ID: 	1Jr1jn0PXt8 
+Video length: 	226.1 sec 
+Set (V): 		dev 
+ 
+Jason_Clarke/1Jr1jn0PXt8_0000001 26.6 40.2 
+Jason_Clarke/1Jr1jn0PXt8_0000002 61.4 76.1 
+Jason_Clarke/1Jr1jn0PXt8_0000003 89.5 94.2 
+Jason_Clarke/1Jr1jn0PXt8_0000004 100.2 115.1 
+Jason_Clarke/1Jr1jn0PXt8_0000005 141.9 148.2 
+Jason_Clarke/1Jr1jn0PXt8_0000006 161.1 167.7 
+Jason_Clarke/1Jr1jn0PXt8_0000007 174.6 179.8 
+Jason_Clarke/1Jr1jn0PXt8_0000008 191.6 201.2 

@@ -1,0 +1,8 @@
+POI: 			Matthew_Fox 
+Youtube ID: 	XLe25GrUdVo 
+Video length: 	136.7 sec 
+Set (V): 		dev 
+ 
+Matthew_Fox/XLe25GrUdVo_0000001 07.4 12.9 
+Matthew_Fox/XLe25GrUdVo_0000002 18.0 23.6 
+Matthew_Fox/XLe25GrUdVo_0000003 30.4 34.8 

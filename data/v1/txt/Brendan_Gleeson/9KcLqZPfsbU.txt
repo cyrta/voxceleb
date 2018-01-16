@@ -1,0 +1,8 @@
+POI: 			Brendan_Gleeson 
+Youtube ID: 	9KcLqZPfsbU 
+Video length: 	263.8 sec 
+Set (V): 		dev 
+ 
+Brendan_Gleeson/9KcLqZPfsbU_0000001 155.8 161.9 
+Brendan_Gleeson/9KcLqZPfsbU_0000002 215.0 220.5 
+Brendan_Gleeson/9KcLqZPfsbU_0000003 223.8 233.5 

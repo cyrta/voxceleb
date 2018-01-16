@@ -1,0 +1,14 @@
+POI: 			John_Hawkes 
+Youtube ID: 	sqB7XFVZiKQ 
+Video length: 	718.7 sec 
+Set (V): 		dev 
+ 
+John_Hawkes/sqB7XFVZiKQ_0000001 51.0 58.8 
+John_Hawkes/sqB7XFVZiKQ_0000002 64.2 71.6 
+John_Hawkes/sqB7XFVZiKQ_0000003 78.6 84.2 
+John_Hawkes/sqB7XFVZiKQ_0000004 84.3 89.4 
+John_Hawkes/sqB7XFVZiKQ_0000005 105.5 113.1 
+John_Hawkes/sqB7XFVZiKQ_0000006 119.4 124.2 
+John_Hawkes/sqB7XFVZiKQ_0000007 374.4 378.6 
+John_Hawkes/sqB7XFVZiKQ_0000008 404.4 411.5 
+John_Hawkes/sqB7XFVZiKQ_0000009 445.1 451.2 

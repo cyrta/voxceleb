@@ -1,0 +1,7 @@
+POI: 			John_Oliver 
+Youtube ID: 	4jP5AAA1XgQ 
+Video length: 	101.0 sec 
+Set (V): 		dev 
+ 
+John_Oliver/4jP5AAA1XgQ_0000001 14.6 19.6 
+John_Oliver/4jP5AAA1XgQ_0000002 60.9 65.1 

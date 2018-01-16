@@ -1,0 +1,21 @@
+POI: 			Katie_Cleary 
+Youtube ID: 	bYcuVgZj_TM 
+Video length: 	287.5 sec 
+Set (V): 		dev 
+ 
+Katie_Cleary/bYcuVgZj_TM_0000001 10.4 14.4 
+Katie_Cleary/bYcuVgZj_TM_0000002 16.5 39.0 
+Katie_Cleary/bYcuVgZj_TM_0000003 42.2 51.9 
+Katie_Cleary/bYcuVgZj_TM_0000004 57.7 69.2 
+Katie_Cleary/bYcuVgZj_TM_0000005 69.6 85.6 
+Katie_Cleary/bYcuVgZj_TM_0000006 88.3 96.6 
+Katie_Cleary/bYcuVgZj_TM_0000007 101.4 111.5 
+Katie_Cleary/bYcuVgZj_TM_0000008 116.8 120.8 
+Katie_Cleary/bYcuVgZj_TM_0000009 134.5 144.5 
+Katie_Cleary/bYcuVgZj_TM_0000010 152.6 157.6 
+Katie_Cleary/bYcuVgZj_TM_0000011 159.8 173.3 
+Katie_Cleary/bYcuVgZj_TM_0000012 174.2 178.5 
+Katie_Cleary/bYcuVgZj_TM_0000013 185.6 192.1 
+Katie_Cleary/bYcuVgZj_TM_0000014 192.7 196.6 
+Katie_Cleary/bYcuVgZj_TM_0000015 208.8 215.0 
+Katie_Cleary/bYcuVgZj_TM_0000016 218.1 229.1 

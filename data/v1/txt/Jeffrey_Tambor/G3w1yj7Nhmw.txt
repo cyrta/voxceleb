@@ -1,0 +1,27 @@
+POI: 			Jeffrey_Tambor 
+Youtube ID: 	G3w1yj7Nhmw 
+Video length: 	305.9 sec 
+Set (V): 		dev 
+ 
+Jeffrey_Tambor/G3w1yj7Nhmw_0000001 07.9 17.4 
+Jeffrey_Tambor/G3w1yj7Nhmw_0000002 25.8 36.7 
+Jeffrey_Tambor/G3w1yj7Nhmw_0000003 38.3 43.4 
+Jeffrey_Tambor/G3w1yj7Nhmw_0000004 49.5 58.4 
+Jeffrey_Tambor/G3w1yj7Nhmw_0000005 66.2 76.2 
+Jeffrey_Tambor/G3w1yj7Nhmw_0000006 83.4 88.8 
+Jeffrey_Tambor/G3w1yj7Nhmw_0000007 93.4 105.3 
+Jeffrey_Tambor/G3w1yj7Nhmw_0000008 111.0 116.1 
+Jeffrey_Tambor/G3w1yj7Nhmw_0000009 129.8 135.2 
+Jeffrey_Tambor/G3w1yj7Nhmw_0000010 137.9 142.9 
+Jeffrey_Tambor/G3w1yj7Nhmw_0000011 146.6 160.6 
+Jeffrey_Tambor/G3w1yj7Nhmw_0000012 161.6 167.5 
+Jeffrey_Tambor/G3w1yj7Nhmw_0000013 187.8 193.6 
+Jeffrey_Tambor/G3w1yj7Nhmw_0000014 195.0 200.3 
+Jeffrey_Tambor/G3w1yj7Nhmw_0000015 208.6 220.4 
+Jeffrey_Tambor/G3w1yj7Nhmw_0000016 220.8 227.5 
+Jeffrey_Tambor/G3w1yj7Nhmw_0000017 229.4 233.5 
+Jeffrey_Tambor/G3w1yj7Nhmw_0000018 238.4 242.5 
+Jeffrey_Tambor/G3w1yj7Nhmw_0000019 247.8 253.4 
+Jeffrey_Tambor/G3w1yj7Nhmw_0000020 257.4 262.5 
+Jeffrey_Tambor/G3w1yj7Nhmw_0000021 265.1 271.1 
+Jeffrey_Tambor/G3w1yj7Nhmw_0000022 279.8 285.0 

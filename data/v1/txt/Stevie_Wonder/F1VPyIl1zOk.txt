@@ -1,0 +1,10 @@
+POI: 			Stevie_Wonder 
+Youtube ID: 	F1VPyIl1zOk 
+Video length: 	1166.9 sec 
+Set (V): 		dev 
+ 
+Stevie_Wonder/F1VPyIl1zOk_0000001 425.1 430.9 
+Stevie_Wonder/F1VPyIl1zOk_0000002 446.5 450.7 
+Stevie_Wonder/F1VPyIl1zOk_0000003 494.2 500.3 
+Stevie_Wonder/F1VPyIl1zOk_0000004 507.6 512.0 
+Stevie_Wonder/F1VPyIl1zOk_0000005 536.3 546.3 

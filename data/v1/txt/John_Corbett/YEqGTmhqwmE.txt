@@ -1,0 +1,12 @@
+POI: 			John_Corbett 
+Youtube ID: 	YEqGTmhqwmE 
+Video length: 	257.0 sec 
+Set (V): 		dev 
+ 
+John_Corbett/YEqGTmhqwmE_0000001 39.5 43.6 
+John_Corbett/YEqGTmhqwmE_0000002 44.5 49.2 
+John_Corbett/YEqGTmhqwmE_0000003 68.4 85.2 
+John_Corbett/YEqGTmhqwmE_0000004 140.7 147.5 
+John_Corbett/YEqGTmhqwmE_0000005 153.5 157.8 
+John_Corbett/YEqGTmhqwmE_0000006 194.7 199.2 
+John_Corbett/YEqGTmhqwmE_0000007 215.4 223.3 

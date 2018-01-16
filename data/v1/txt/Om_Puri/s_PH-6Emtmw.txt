@@ -1,0 +1,12 @@
+POI: 			Om_Puri 
+Youtube ID: 	s_PH-6Emtmw 
+Video length: 	2531.4 sec 
+Set (V): 		dev 
+ 
+Om_Puri/s_PH-6Emtmw_0000001 266.0 270.0 
+Om_Puri/s_PH-6Emtmw_0000002 837.0 841.1 
+Om_Puri/s_PH-6Emtmw_0000003 1703.9 1709.0 
+Om_Puri/s_PH-6Emtmw_0000004 2251.2 2255.9 
+Om_Puri/s_PH-6Emtmw_0000005 2319.2 2323.3 
+Om_Puri/s_PH-6Emtmw_0000006 2324.2 2331.7 
+Om_Puri/s_PH-6Emtmw_0000007 2383.2 2389.1 

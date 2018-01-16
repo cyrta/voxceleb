@@ -1,0 +1,12 @@
+POI: 			Costas_Mandylor 
+Youtube ID: 	soC1nRthcoo 
+Video length: 	275.1 sec 
+Set (V): 		dev 
+ 
+Costas_Mandylor/soC1nRthcoo_0000001 57.8 67.4 
+Costas_Mandylor/soC1nRthcoo_0000002 67.7 78.4 
+Costas_Mandylor/soC1nRthcoo_0000003 88.5 92.4 
+Costas_Mandylor/soC1nRthcoo_0000004 102.3 106.7 
+Costas_Mandylor/soC1nRthcoo_0000005 107.2 112.8 
+Costas_Mandylor/soC1nRthcoo_0000006 132.8 137.2 
+Costas_Mandylor/soC1nRthcoo_0000007 142.1 146.3 

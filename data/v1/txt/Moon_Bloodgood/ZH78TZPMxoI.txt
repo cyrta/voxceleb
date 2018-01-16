@@ -1,0 +1,22 @@
+POI: 			Moon_Bloodgood 
+Youtube ID: 	ZH78TZPMxoI 
+Video length: 	332.5 sec 
+Set (V): 		dev 
+ 
+Moon_Bloodgood/ZH78TZPMxoI_0000001 03.5 08.8 
+Moon_Bloodgood/ZH78TZPMxoI_0000002 12.6 49.8 
+Moon_Bloodgood/ZH78TZPMxoI_0000003 58.5 85.4 
+Moon_Bloodgood/ZH78TZPMxoI_0000004 85.6 94.6 
+Moon_Bloodgood/ZH78TZPMxoI_0000005 102.0 118.6 
+Moon_Bloodgood/ZH78TZPMxoI_0000006 125.1 131.5 
+Moon_Bloodgood/ZH78TZPMxoI_0000007 134.0 144.8 
+Moon_Bloodgood/ZH78TZPMxoI_0000008 174.2 178.7 
+Moon_Bloodgood/ZH78TZPMxoI_0000009 179.0 193.6 
+Moon_Bloodgood/ZH78TZPMxoI_0000010 205.4 210.9 
+Moon_Bloodgood/ZH78TZPMxoI_0000011 211.4 219.2 
+Moon_Bloodgood/ZH78TZPMxoI_0000012 216.3 221.6 
+Moon_Bloodgood/ZH78TZPMxoI_0000013 247.6 266.1 
+Moon_Bloodgood/ZH78TZPMxoI_0000014 266.7 274.0 
+Moon_Bloodgood/ZH78TZPMxoI_0000015 232.6 239.1 
+Moon_Bloodgood/ZH78TZPMxoI_0000016 277.8 306.1 
+Moon_Bloodgood/ZH78TZPMxoI_0000017 310.8 326.9 

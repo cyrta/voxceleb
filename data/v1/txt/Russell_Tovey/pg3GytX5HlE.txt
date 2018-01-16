@@ -1,0 +1,14 @@
+POI: 			Russell_Tovey 
+Youtube ID: 	pg3GytX5HlE 
+Video length: 	454.8 sec 
+Set (V): 		dev 
+ 
+Russell_Tovey/pg3GytX5HlE_0000001 09.2 14.3 
+Russell_Tovey/pg3GytX5HlE_0000002 42.4 47.9 
+Russell_Tovey/pg3GytX5HlE_0000003 64.7 69.0 
+Russell_Tovey/pg3GytX5HlE_0000004 117.1 121.2 
+Russell_Tovey/pg3GytX5HlE_0000005 128.5 135.6 
+Russell_Tovey/pg3GytX5HlE_0000006 191.2 204.2 
+Russell_Tovey/pg3GytX5HlE_0000007 258.1 262.6 
+Russell_Tovey/pg3GytX5HlE_0000008 305.1 309.4 
+Russell_Tovey/pg3GytX5HlE_0000009 368.0 373.1 

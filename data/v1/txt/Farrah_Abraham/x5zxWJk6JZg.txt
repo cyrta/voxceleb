@@ -1,0 +1,10 @@
+POI: 			Farrah_Abraham 
+Youtube ID: 	x5zxWJk6JZg 
+Video length: 	155.6 sec 
+Set (V): 		dev 
+ 
+Farrah_Abraham/x5zxWJk6JZg_0000001 07.9 19.6 
+Farrah_Abraham/x5zxWJk6JZg_0000002 31.0 36.2 
+Farrah_Abraham/x5zxWJk6JZg_0000003 77.6 82.1 
+Farrah_Abraham/x5zxWJk6JZg_0000004 83.3 88.1 
+Farrah_Abraham/x5zxWJk6JZg_0000005 99.0 115.0 

@@ -1,0 +1,11 @@
+POI: 			Don_Rickles 
+Youtube ID: 	aZva3fHcK-M 
+Video length: 	2372.4 sec 
+Set (V): 		dev 
+ 
+Don_Rickles/aZva3fHcK-M_0000001 1388.0 1392.0 
+Don_Rickles/aZva3fHcK-M_0000002 1710.7 1719.2 
+Don_Rickles/aZva3fHcK-M_0000003 1921.9 1925.9 
+Don_Rickles/aZva3fHcK-M_0000004 1951.9 1957.6 
+Don_Rickles/aZva3fHcK-M_0000005 2191.8 2198.0 
+Don_Rickles/aZva3fHcK-M_0000006 2200.2 2206.2 

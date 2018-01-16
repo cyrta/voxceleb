@@ -1,0 +1,8 @@
+POI: 			Efren_Ramirez 
+Youtube ID: 	f0I1IC6DJfo 
+Video length: 	127.6 sec 
+Set (V): 		test 
+ 
+Efren_Ramirez/f0I1IC6DJfo_0000001 17.9 23.0 
+Efren_Ramirez/f0I1IC6DJfo_0000002 25.0 30.6 
+Efren_Ramirez/f0I1IC6DJfo_0000003 34.5 38.7 

@@ -1,0 +1,8 @@
+POI: 			Chloe_Bennet 
+Youtube ID: 	HDeNWk0q21o 
+Video length: 	259.6 sec 
+Set (V): 		dev 
+ 
+Chloe_Bennet/HDeNWk0q21o_0000001 52.9 59.9 
+Chloe_Bennet/HDeNWk0q21o_0000002 149.1 159.6 
+Chloe_Bennet/HDeNWk0q21o_0000003 204.0 209.3 

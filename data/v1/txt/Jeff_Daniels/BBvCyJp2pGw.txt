@@ -1,0 +1,13 @@
+POI: 			Jeff_Daniels 
+Youtube ID: 	BBvCyJp2pGw 
+Video length: 	164.9 sec 
+Set (V): 		dev 
+ 
+Jeff_Daniels/BBvCyJp2pGw_0000001 02.3 07.4 
+Jeff_Daniels/BBvCyJp2pGw_0000002 26.1 34.4 
+Jeff_Daniels/BBvCyJp2pGw_0000003 50.4 54.3 
+Jeff_Daniels/BBvCyJp2pGw_0000004 60.2 67.5 
+Jeff_Daniels/BBvCyJp2pGw_0000005 108.6 113.5 
+Jeff_Daniels/BBvCyJp2pGw_0000006 117.6 124.4 
+Jeff_Daniels/BBvCyJp2pGw_0000007 147.4 151.7 
+Jeff_Daniels/BBvCyJp2pGw_0000008 154.4 158.8 

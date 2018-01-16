@@ -1,0 +1,12 @@
+POI: 			Katharine_McPhee 
+Youtube ID: 	uNEZ8uTtMFo 
+Video length: 	262.2 sec 
+Set (V): 		dev 
+ 
+Katharine_McPhee/uNEZ8uTtMFo_0000001 45.2 54.0 
+Katharine_McPhee/uNEZ8uTtMFo_0000002 54.4 66.4 
+Katharine_McPhee/uNEZ8uTtMFo_0000003 81.9 89.7 
+Katharine_McPhee/uNEZ8uTtMFo_0000004 127.7 135.3 
+Katharine_McPhee/uNEZ8uTtMFo_0000005 136.2 144.9 
+Katharine_McPhee/uNEZ8uTtMFo_0000006 161.7 167.9 
+Katharine_McPhee/uNEZ8uTtMFo_0000007 237.8 242.1 

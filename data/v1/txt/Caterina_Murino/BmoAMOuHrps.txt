@@ -1,0 +1,11 @@
+POI: 			Caterina_Murino 
+Youtube ID: 	BmoAMOuHrps 
+Video length: 	1654.5 sec 
+Set (V): 		dev 
+ 
+Caterina_Murino/BmoAMOuHrps_0000001 453.1 457.6 
+Caterina_Murino/BmoAMOuHrps_0000002 463.1 468.5 
+Caterina_Murino/BmoAMOuHrps_0000003 1372.0 1384.5 
+Caterina_Murino/BmoAMOuHrps_0000004 1417.5 1424.2 
+Caterina_Murino/BmoAMOuHrps_0000005 1554.8 1558.9 
+Caterina_Murino/BmoAMOuHrps_0000006 1573.3 1578.3 

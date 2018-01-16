@@ -1,0 +1,16 @@
+POI: 			Martin_Shaw 
+Youtube ID: 	3sfzgqqtbKM 
+Video length: 	328.3 sec 
+Set (V): 		dev 
+ 
+Martin_Shaw/3sfzgqqtbKM_0000001 43.2 50.9 
+Martin_Shaw/3sfzgqqtbKM_0000002 58.8 63.7 
+Martin_Shaw/3sfzgqqtbKM_0000003 77.3 86.6 
+Martin_Shaw/3sfzgqqtbKM_0000004 105.0 112.0 
+Martin_Shaw/3sfzgqqtbKM_0000005 132.5 136.6 
+Martin_Shaw/3sfzgqqtbKM_0000006 160.8 166.8 
+Martin_Shaw/3sfzgqqtbKM_0000007 205.4 212.1 
+Martin_Shaw/3sfzgqqtbKM_0000008 252.0 258.5 
+Martin_Shaw/3sfzgqqtbKM_0000009 258.7 270.8 
+Martin_Shaw/3sfzgqqtbKM_0000010 299.1 308.8 
+Martin_Shaw/3sfzgqqtbKM_0000011 318.6 324.4 

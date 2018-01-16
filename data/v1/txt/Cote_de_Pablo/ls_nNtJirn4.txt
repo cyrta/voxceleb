@@ -1,0 +1,7 @@
+POI: 			Cote_de_Pablo 
+Youtube ID: 	ls_nNtJirn4 
+Video length: 	400.1 sec 
+Set (V): 		dev 
+ 
+Cote_de_Pablo/ls_nNtJirn4_0000001 72.4 80.4 
+Cote_de_Pablo/ls_nNtJirn4_0000002 291.4 296.6 

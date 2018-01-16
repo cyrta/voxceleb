@@ -1,0 +1,14 @@
+POI: 			Katherine_McNamara 
+Youtube ID: 	PqtgGI6yrSg 
+Video length: 	650.6 sec 
+Set (V): 		dev 
+ 
+Katherine_McNamara/PqtgGI6yrSg_0000001 00.8 10.2 
+Katherine_McNamara/PqtgGI6yrSg_0000002 42.2 51.7 
+Katherine_McNamara/PqtgGI6yrSg_0000003 110.4 114.5 
+Katherine_McNamara/PqtgGI6yrSg_0000004 179.0 185.9 
+Katherine_McNamara/PqtgGI6yrSg_0000005 324.4 330.9 
+Katherine_McNamara/PqtgGI6yrSg_0000006 342.6 357.5 
+Katherine_McNamara/PqtgGI6yrSg_0000007 561.4 570.1 
+Katherine_McNamara/PqtgGI6yrSg_0000008 579.7 584.0 
+Katherine_McNamara/PqtgGI6yrSg_0000009 618.5 624.1 

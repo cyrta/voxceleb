@@ -1,0 +1,19 @@
+POI: 			Scott_Porter 
+Youtube ID: 	j4GlsL0SWU0 
+Video length: 	215.3 sec 
+Set (V): 		dev 
+ 
+Scott_Porter/j4GlsL0SWU0_0000001 05.1 11.0 
+Scott_Porter/j4GlsL0SWU0_0000002 13.2 20.5 
+Scott_Porter/j4GlsL0SWU0_0000003 23.1 40.3 
+Scott_Porter/j4GlsL0SWU0_0000004 55.6 61.1 
+Scott_Porter/j4GlsL0SWU0_0000005 74.2 93.0 
+Scott_Porter/j4GlsL0SWU0_0000006 93.1 99.4 
+Scott_Porter/j4GlsL0SWU0_0000007 102.2 107.1 
+Scott_Porter/j4GlsL0SWU0_0000008 108.9 117.4 
+Scott_Porter/j4GlsL0SWU0_0000009 124.2 130.5 
+Scott_Porter/j4GlsL0SWU0_0000010 120.8 125.0 
+Scott_Porter/j4GlsL0SWU0_0000011 132.4 138.4 
+Scott_Porter/j4GlsL0SWU0_0000012 147.1 165.0 
+Scott_Porter/j4GlsL0SWU0_0000013 165.2 178.3 
+Scott_Porter/j4GlsL0SWU0_0000014 197.5 209.0 

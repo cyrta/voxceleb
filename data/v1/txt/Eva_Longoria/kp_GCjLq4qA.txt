@@ -1,0 +1,10 @@
+POI: 			Eva_Longoria 
+Youtube ID: 	kp_GCjLq4qA 
+Video length: 	118.5 sec 
+Set (V): 		test 
+ 
+Eva_Longoria/kp_GCjLq4qA_0000001 18.1 23.7 
+Eva_Longoria/kp_GCjLq4qA_0000002 25.8 37.8 
+Eva_Longoria/kp_GCjLq4qA_0000003 57.2 66.0 
+Eva_Longoria/kp_GCjLq4qA_0000004 89.4 104.1 
+Eva_Longoria/kp_GCjLq4qA_0000005 104.8 109.3 

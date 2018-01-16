@@ -1,0 +1,42 @@
+POI: 			Erik_Estrada 
+Youtube ID: 	hjvQiiG71rM 
+Video length: 	497.9 sec 
+Set (V): 		test 
+ 
+Erik_Estrada/hjvQiiG71rM_0000001 10.4 19.6 
+Erik_Estrada/hjvQiiG71rM_0000002 23.4 28.3 
+Erik_Estrada/hjvQiiG71rM_0000003 29.6 36.4 
+Erik_Estrada/hjvQiiG71rM_0000004 38.2 53.6 
+Erik_Estrada/hjvQiiG71rM_0000005 54.1 65.3 
+Erik_Estrada/hjvQiiG71rM_0000006 67.1 79.6 
+Erik_Estrada/hjvQiiG71rM_0000007 80.6 85.2 
+Erik_Estrada/hjvQiiG71rM_0000008 94.4 101.1 
+Erik_Estrada/hjvQiiG71rM_0000009 104.2 118.1 
+Erik_Estrada/hjvQiiG71rM_0000010 119.0 127.8 
+Erik_Estrada/hjvQiiG71rM_0000011 139.2 143.6 
+Erik_Estrada/hjvQiiG71rM_0000012 143.9 149.3 
+Erik_Estrada/hjvQiiG71rM_0000013 160.8 168.8 
+Erik_Estrada/hjvQiiG71rM_0000014 175.2 182.6 
+Erik_Estrada/hjvQiiG71rM_0000015 182.7 186.9 
+Erik_Estrada/hjvQiiG71rM_0000016 187.3 195.0 
+Erik_Estrada/hjvQiiG71rM_0000017 206.5 213.7 
+Erik_Estrada/hjvQiiG71rM_0000018 216.7 221.6 
+Erik_Estrada/hjvQiiG71rM_0000019 231.0 246.3 
+Erik_Estrada/hjvQiiG71rM_0000020 254.8 268.4 
+Erik_Estrada/hjvQiiG71rM_0000021 272.3 276.8 
+Erik_Estrada/hjvQiiG71rM_0000022 277.6 284.2 
+Erik_Estrada/hjvQiiG71rM_0000023 287.6 295.8 
+Erik_Estrada/hjvQiiG71rM_0000024 296.0 301.4 
+Erik_Estrada/hjvQiiG71rM_0000025 306.2 311.1 
+Erik_Estrada/hjvQiiG71rM_0000026 311.3 322.1 
+Erik_Estrada/hjvQiiG71rM_0000027 334.0 341.2 
+Erik_Estrada/hjvQiiG71rM_0000028 345.8 355.2 
+Erik_Estrada/hjvQiiG71rM_0000029 358.0 363.9 
+Erik_Estrada/hjvQiiG71rM_0000030 372.8 377.1 
+Erik_Estrada/hjvQiiG71rM_0000031 388.4 395.1 
+Erik_Estrada/hjvQiiG71rM_0000032 403.2 414.8 
+Erik_Estrada/hjvQiiG71rM_0000033 428.3 441.4 
+Erik_Estrada/hjvQiiG71rM_0000034 447.2 454.0 
+Erik_Estrada/hjvQiiG71rM_0000035 458.5 467.5 
+Erik_Estrada/hjvQiiG71rM_0000036 469.2 474.6 
+Erik_Estrada/hjvQiiG71rM_0000037 477.0 495.1 

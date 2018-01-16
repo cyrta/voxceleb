@@ -1,0 +1,10 @@
+POI: 			Karoline_Herfurth 
+Youtube ID: 	LiX3TiTttN4 
+Video length: 	194.8 sec 
+Set (V): 		dev 
+ 
+Karoline_Herfurth/LiX3TiTttN4_0000001 76.1 99.6 
+Karoline_Herfurth/LiX3TiTttN4_0000002 135.6 141.2 
+Karoline_Herfurth/LiX3TiTttN4_0000003 141.5 153.0 
+Karoline_Herfurth/LiX3TiTttN4_0000004 153.1 172.6 
+Karoline_Herfurth/LiX3TiTttN4_0000005 177.5 181.6 

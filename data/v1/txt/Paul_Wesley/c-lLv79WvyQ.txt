@@ -1,0 +1,18 @@
+POI: 			Paul_Wesley 
+Youtube ID: 	c-lLv79WvyQ 
+Video length: 	514.4 sec 
+Set (V): 		dev 
+ 
+Paul_Wesley/c-lLv79WvyQ_0000001 62.2 67.0 
+Paul_Wesley/c-lLv79WvyQ_0000002 68.3 72.8 
+Paul_Wesley/c-lLv79WvyQ_0000003 74.8 81.0 
+Paul_Wesley/c-lLv79WvyQ_0000004 106.4 110.8 
+Paul_Wesley/c-lLv79WvyQ_0000005 137.3 141.4 
+Paul_Wesley/c-lLv79WvyQ_0000006 173.9 183.5 
+Paul_Wesley/c-lLv79WvyQ_0000007 191.4 195.4 
+Paul_Wesley/c-lLv79WvyQ_0000008 203.8 213.6 
+Paul_Wesley/c-lLv79WvyQ_0000009 229.9 235.1 
+Paul_Wesley/c-lLv79WvyQ_0000010 236.6 243.7 
+Paul_Wesley/c-lLv79WvyQ_0000011 298.0 302.9 
+Paul_Wesley/c-lLv79WvyQ_0000012 305.9 310.8 
+Paul_Wesley/c-lLv79WvyQ_0000013 370.1 374.8 

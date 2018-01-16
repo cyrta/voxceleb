@@ -1,0 +1,7 @@
+POI: 			Amanda_Seyfried 
+Youtube ID: 	Tnd3CRhELa0 
+Video length: 	413.2 sec 
+Set (V): 		dev 
+ 
+Amanda_Seyfried/Tnd3CRhELa0_0000001 192.2 199.6 
+Amanda_Seyfried/Tnd3CRhELa0_0000002 269.4 275.4 

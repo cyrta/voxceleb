@@ -1,0 +1,10 @@
+POI: 			Marcia_Gay_Harden 
+Youtube ID: 	QOqA-W_KCTg 
+Video length: 	310.2 sec 
+Set (V): 		dev 
+ 
+Marcia_Gay_Harden/QOqA-W_KCTg_0000001 58.8 73.4 
+Marcia_Gay_Harden/QOqA-W_KCTg_0000002 102.6 109.9 
+Marcia_Gay_Harden/QOqA-W_KCTg_0000003 131.9 138.2 
+Marcia_Gay_Harden/QOqA-W_KCTg_0000004 141.3 150.0 
+Marcia_Gay_Harden/QOqA-W_KCTg_0000005 158.6 162.8 

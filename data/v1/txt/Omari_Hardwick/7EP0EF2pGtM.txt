@@ -1,0 +1,11 @@
+POI: 			Omari_Hardwick 
+Youtube ID: 	7EP0EF2pGtM 
+Video length: 	3024.1 sec 
+Set (V): 		dev 
+ 
+Omari_Hardwick/7EP0EF2pGtM_0000001 262.2 268.6 
+Omari_Hardwick/7EP0EF2pGtM_0000002 270.8 276.2 
+Omari_Hardwick/7EP0EF2pGtM_0000003 280.0 285.1 
+Omari_Hardwick/7EP0EF2pGtM_0000004 982.7 989.4 
+Omari_Hardwick/7EP0EF2pGtM_0000005 1141.6 1147.0 
+Omari_Hardwick/7EP0EF2pGtM_0000006 1994.7 2000.4 

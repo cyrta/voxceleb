@@ -1,0 +1,8 @@
+POI: 			Martine_McCutcheon 
+Youtube ID: 	enxYHcrhGbM 
+Video length: 	121.6 sec 
+Set (V): 		dev 
+ 
+Martine_McCutcheon/enxYHcrhGbM_0000001 20.8 25.9 
+Martine_McCutcheon/enxYHcrhGbM_0000002 70.1 74.9 
+Martine_McCutcheon/enxYHcrhGbM_0000003 88.5 93.7 

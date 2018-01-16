@@ -1,0 +1,7 @@
+POI: 			Rooney_Mara 
+Youtube ID: 	0DdmVsIiWZg 
+Video length: 	83.3 sec 
+Set (V): 		dev 
+ 
+Rooney_Mara/0DdmVsIiWZg_0000001 20.2 24.3 
+Rooney_Mara/0DdmVsIiWZg_0000002 39.4 43.4 

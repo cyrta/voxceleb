@@ -1,0 +1,7 @@
+POI: 			Dean_Cain 
+Youtube ID: 	JZZ3zN2NYOo 
+Video length: 	112.7 sec 
+Set (V): 		dev 
+ 
+Dean_Cain/JZZ3zN2NYOo_0000001 63.3 69.0 
+Dean_Cain/JZZ3zN2NYOo_0000002 72.2 81.7 

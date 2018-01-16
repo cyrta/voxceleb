@@ -1,0 +1,18 @@
+POI: 			Matthew_Fox 
+Youtube ID: 	DYjmBHx5TlI 
+Video length: 	803.8 sec 
+Set (V): 		dev 
+ 
+Matthew_Fox/DYjmBHx5TlI_0000001 146.0 153.1 
+Matthew_Fox/DYjmBHx5TlI_0000002 283.1 288.8 
+Matthew_Fox/DYjmBHx5TlI_0000003 333.0 340.8 
+Matthew_Fox/DYjmBHx5TlI_0000004 359.6 379.5 
+Matthew_Fox/DYjmBHx5TlI_0000005 386.7 391.2 
+Matthew_Fox/DYjmBHx5TlI_0000006 442.7 447.8 
+Matthew_Fox/DYjmBHx5TlI_0000007 447.8 454.5 
+Matthew_Fox/DYjmBHx5TlI_0000008 608.3 615.0 
+Matthew_Fox/DYjmBHx5TlI_0000009 622.7 636.6 
+Matthew_Fox/DYjmBHx5TlI_0000010 644.3 649.2 
+Matthew_Fox/DYjmBHx5TlI_0000011 649.5 659.1 
+Matthew_Fox/DYjmBHx5TlI_0000012 672.3 680.6 
+Matthew_Fox/DYjmBHx5TlI_0000013 698.9 709.1 

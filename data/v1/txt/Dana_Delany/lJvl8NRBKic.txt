@@ -1,0 +1,8 @@
+POI: 			Dana_Delany 
+Youtube ID: 	lJvl8NRBKic 
+Video length: 	113.6 sec 
+Set (V): 		dev 
+ 
+Dana_Delany/lJvl8NRBKic_0000001 62.7 68.9 
+Dana_Delany/lJvl8NRBKic_0000002 69.4 80.1 
+Dana_Delany/lJvl8NRBKic_0000003 90.2 97.5 

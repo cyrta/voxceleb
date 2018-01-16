@@ -1,0 +1,11 @@
+POI: 			Kiernan_Shipka 
+Youtube ID: 	EDAJiTMvw5c 
+Video length: 	1354.1 sec 
+Set (V): 		dev 
+ 
+Kiernan_Shipka/EDAJiTMvw5c_0000001 51.1 55.4 
+Kiernan_Shipka/EDAJiTMvw5c_0000002 63.6 67.8 
+Kiernan_Shipka/EDAJiTMvw5c_0000003 114.2 121.1 
+Kiernan_Shipka/EDAJiTMvw5c_0000004 163.7 168.6 
+Kiernan_Shipka/EDAJiTMvw5c_0000005 205.4 209.4 
+Kiernan_Shipka/EDAJiTMvw5c_0000006 1287.4 1293.0 

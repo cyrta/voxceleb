@@ -1,0 +1,8 @@
+POI: 			Christina_Hendricks 
+Youtube ID: 	x4uROeleyeQ 
+Video length: 	301.0 sec 
+Set (V): 		dev 
+ 
+Christina_Hendricks/x4uROeleyeQ_0000001 73.8 96.1 
+Christina_Hendricks/x4uROeleyeQ_0000002 216.7 224.6 
+Christina_Hendricks/x4uROeleyeQ_0000003 256.1 261.6 

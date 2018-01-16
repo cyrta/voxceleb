@@ -1,0 +1,21 @@
+POI: 			Marie_Osmond 
+Youtube ID: 	1Yzr8PqTyXM 
+Video length: 	499.3 sec 
+Set (V): 		dev 
+ 
+Marie_Osmond/1Yzr8PqTyXM_0000001 53.6 68.5 
+Marie_Osmond/1Yzr8PqTyXM_0000002 75.6 81.8 
+Marie_Osmond/1Yzr8PqTyXM_0000003 94.7 99.8 
+Marie_Osmond/1Yzr8PqTyXM_0000004 100.7 126.6 
+Marie_Osmond/1Yzr8PqTyXM_0000005 132.6 163.4 
+Marie_Osmond/1Yzr8PqTyXM_0000006 188.5 208.4 
+Marie_Osmond/1Yzr8PqTyXM_0000007 214.7 220.0 
+Marie_Osmond/1Yzr8PqTyXM_0000008 222.0 229.4 
+Marie_Osmond/1Yzr8PqTyXM_0000009 245.4 261.7 
+Marie_Osmond/1Yzr8PqTyXM_0000010 306.1 315.7 
+Marie_Osmond/1Yzr8PqTyXM_0000011 316.0 340.0 
+Marie_Osmond/1Yzr8PqTyXM_0000012 377.7 388.2 
+Marie_Osmond/1Yzr8PqTyXM_0000013 404.2 409.9 
+Marie_Osmond/1Yzr8PqTyXM_0000014 415.4 419.4 
+Marie_Osmond/1Yzr8PqTyXM_0000015 420.8 427.2 
+Marie_Osmond/1Yzr8PqTyXM_0000016 434.6 447.2 

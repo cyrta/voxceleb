@@ -1,0 +1,8 @@
+POI: 			Nick_Kroll 
+Youtube ID: 	DUTjQ6pyk10 
+Video length: 	199.7 sec 
+Set (V): 		dev 
+ 
+Nick_Kroll/DUTjQ6pyk10_0000001 23.6 35.8 
+Nick_Kroll/DUTjQ6pyk10_0000002 68.4 75.8 
+Nick_Kroll/DUTjQ6pyk10_0000003 109.6 113.9 

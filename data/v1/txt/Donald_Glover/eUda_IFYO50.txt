@@ -1,0 +1,10 @@
+POI: 			Donald_Glover 
+Youtube ID: 	eUda_IFYO50 
+Video length: 	192.5 sec 
+Set (V): 		dev 
+ 
+Donald_Glover/eUda_IFYO50_0000001 60.4 68.5 
+Donald_Glover/eUda_IFYO50_0000002 83.2 95.9 
+Donald_Glover/eUda_IFYO50_0000003 138.6 142.8 
+Donald_Glover/eUda_IFYO50_0000004 159.2 167.6 
+Donald_Glover/eUda_IFYO50_0000005 182.0 186.6 

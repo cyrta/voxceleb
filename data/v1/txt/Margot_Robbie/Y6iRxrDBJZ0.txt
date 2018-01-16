@@ -1,0 +1,7 @@
+POI: 			Margot_Robbie 
+Youtube ID: 	Y6iRxrDBJZ0 
+Video length: 	109.6 sec 
+Set (V): 		dev 
+ 
+Margot_Robbie/Y6iRxrDBJZ0_0000001 47.4 52.6 
+Margot_Robbie/Y6iRxrDBJZ0_0000002 53.4 59.1 

@@ -1,0 +1,15 @@
+POI: 			Steve_Jobs 
+Youtube ID: 	HwA4PmjF0RY 
+Video length: 	240.0 sec 
+Set (V): 		dev 
+ 
+Steve_Jobs/HwA4PmjF0RY_0000001 14.4 26.9 
+Steve_Jobs/HwA4PmjF0RY_0000002 37.5 42.8 
+Steve_Jobs/HwA4PmjF0RY_0000003 59.4 69.8 
+Steve_Jobs/HwA4PmjF0RY_0000004 72.6 86.7 
+Steve_Jobs/HwA4PmjF0RY_0000005 66.5 74.5 
+Steve_Jobs/HwA4PmjF0RY_0000006 95.1 136.8 
+Steve_Jobs/HwA4PmjF0RY_0000007 157.7 174.4 
+Steve_Jobs/HwA4PmjF0RY_0000008 187.4 199.0 
+Steve_Jobs/HwA4PmjF0RY_0000009 212.7 217.0 
+Steve_Jobs/HwA4PmjF0RY_0000010 218.7 233.3 

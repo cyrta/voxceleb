@@ -1,0 +1,8 @@
+POI: 			Jaime_Winstone 
+Youtube ID: 	rKMrFgmVq-8 
+Video length: 	149.2 sec 
+Set (V): 		dev 
+ 
+Jaime_Winstone/rKMrFgmVq-8_0000001 19.5 28.8 
+Jaime_Winstone/rKMrFgmVq-8_0000002 99.8 104.2 
+Jaime_Winstone/rKMrFgmVq-8_0000003 132.3 138.2 

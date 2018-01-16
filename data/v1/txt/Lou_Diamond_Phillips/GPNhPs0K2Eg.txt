@@ -1,0 +1,10 @@
+POI: 			Lou_Diamond_Phillips 
+Youtube ID: 	GPNhPs0K2Eg 
+Video length: 	454.7 sec 
+Set (V): 		dev 
+ 
+Lou_Diamond_Phillips/GPNhPs0K2Eg_0000001 121.8 132.0 
+Lou_Diamond_Phillips/GPNhPs0K2Eg_0000002 289.0 293.2 
+Lou_Diamond_Phillips/GPNhPs0K2Eg_0000003 317.3 324.1 
+Lou_Diamond_Phillips/GPNhPs0K2Eg_0000004 408.8 415.6 
+Lou_Diamond_Phillips/GPNhPs0K2Eg_0000005 432.5 439.1 

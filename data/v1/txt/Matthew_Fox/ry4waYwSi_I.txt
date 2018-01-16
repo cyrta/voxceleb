@@ -1,0 +1,16 @@
+POI: 			Matthew_Fox 
+Youtube ID: 	ry4waYwSi_I 
+Video length: 	288.3 sec 
+Set (V): 		dev 
+ 
+Matthew_Fox/ry4waYwSi_I_0000001 27.0 31.2 
+Matthew_Fox/ry4waYwSi_I_0000002 52.6 62.3 
+Matthew_Fox/ry4waYwSi_I_0000003 62.7 68.6 
+Matthew_Fox/ry4waYwSi_I_0000004 81.9 86.8 
+Matthew_Fox/ry4waYwSi_I_0000005 91.0 95.6 
+Matthew_Fox/ry4waYwSi_I_0000006 121.0 126.2 
+Matthew_Fox/ry4waYwSi_I_0000007 134.1 150.6 
+Matthew_Fox/ry4waYwSi_I_0000008 205.1 209.8 
+Matthew_Fox/ry4waYwSi_I_0000009 215.0 221.6 
+Matthew_Fox/ry4waYwSi_I_0000010 246.2 250.6 
+Matthew_Fox/ry4waYwSi_I_0000011 252.7 258.0 

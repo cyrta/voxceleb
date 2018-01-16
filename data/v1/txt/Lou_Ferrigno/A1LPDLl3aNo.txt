@@ -1,0 +1,12 @@
+POI: 			Lou_Ferrigno 
+Youtube ID: 	A1LPDLl3aNo 
+Video length: 	310.9 sec 
+Set (V): 		dev 
+ 
+Lou_Ferrigno/A1LPDLl3aNo_0000001 51.1 55.2 
+Lou_Ferrigno/A1LPDLl3aNo_0000002 149.8 157.0 
+Lou_Ferrigno/A1LPDLl3aNo_0000003 172.7 177.1 
+Lou_Ferrigno/A1LPDLl3aNo_0000004 177.7 181.8 
+Lou_Ferrigno/A1LPDLl3aNo_0000005 182.9 188.8 
+Lou_Ferrigno/A1LPDLl3aNo_0000006 268.4 272.4 
+Lou_Ferrigno/A1LPDLl3aNo_0000007 294.8 301.0 

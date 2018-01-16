@@ -1,0 +1,11 @@
+POI: 			Alan_Rickman 
+Youtube ID: 	KyKrzGjekqA 
+Video length: 	568.7 sec 
+Set (V): 		dev 
+ 
+Alan_Rickman/KyKrzGjekqA_0000001 109.5 119.2 
+Alan_Rickman/KyKrzGjekqA_0000002 161.8 165.9 
+Alan_Rickman/KyKrzGjekqA_0000003 168.3 177.4 
+Alan_Rickman/KyKrzGjekqA_0000004 200.4 207.4 
+Alan_Rickman/KyKrzGjekqA_0000005 475.6 483.1 
+Alan_Rickman/KyKrzGjekqA_0000006 492.0 496.7 

@@ -1,0 +1,14 @@
+POI: 			Patton_Oswalt 
+Youtube ID: 	Hr6IjOzFJbQ 
+Video length: 	218.8 sec 
+Set (V): 		dev 
+ 
+Patton_Oswalt/Hr6IjOzFJbQ_0000001 08.4 18.6 
+Patton_Oswalt/Hr6IjOzFJbQ_0000002 20.8 28.9 
+Patton_Oswalt/Hr6IjOzFJbQ_0000003 64.4 70.7 
+Patton_Oswalt/Hr6IjOzFJbQ_0000004 71.7 88.5 
+Patton_Oswalt/Hr6IjOzFJbQ_0000005 100.0 105.8 
+Patton_Oswalt/Hr6IjOzFJbQ_0000006 114.4 126.4 
+Patton_Oswalt/Hr6IjOzFJbQ_0000007 140.3 144.4 
+Patton_Oswalt/Hr6IjOzFJbQ_0000008 145.5 150.7 
+Patton_Oswalt/Hr6IjOzFJbQ_0000009 182.5 188.1 

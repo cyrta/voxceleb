@@ -1,0 +1,11 @@
+POI: 			Tristan_Wilds 
+Youtube ID: 	nElicPM2LRs 
+Video length: 	420.1 sec 
+Set (V): 		dev 
+ 
+Tristan_Wilds/nElicPM2LRs_0000001 183.6 192.9 
+Tristan_Wilds/nElicPM2LRs_0000002 231.5 237.2 
+Tristan_Wilds/nElicPM2LRs_0000003 271.4 279.5 
+Tristan_Wilds/nElicPM2LRs_0000004 312.0 317.8 
+Tristan_Wilds/nElicPM2LRs_0000005 332.8 338.6 
+Tristan_Wilds/nElicPM2LRs_0000006 362.0 367.4 

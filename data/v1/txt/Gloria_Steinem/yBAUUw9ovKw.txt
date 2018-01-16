@@ -1,0 +1,28 @@
+POI: 			Gloria_Steinem 
+Youtube ID: 	yBAUUw9ovKw 
+Video length: 	555.3 sec 
+Set (V): 		dev 
+ 
+Gloria_Steinem/yBAUUw9ovKw_0000001 61.9 68.0 
+Gloria_Steinem/yBAUUw9ovKw_0000002 90.2 96.8 
+Gloria_Steinem/yBAUUw9ovKw_0000003 102.8 116.0 
+Gloria_Steinem/yBAUUw9ovKw_0000004 116.4 121.6 
+Gloria_Steinem/yBAUUw9ovKw_0000005 126.4 132.8 
+Gloria_Steinem/yBAUUw9ovKw_0000006 133.2 140.5 
+Gloria_Steinem/yBAUUw9ovKw_0000007 164.9 173.9 
+Gloria_Steinem/yBAUUw9ovKw_0000008 177.1 186.4 
+Gloria_Steinem/yBAUUw9ovKw_0000009 204.7 209.2 
+Gloria_Steinem/yBAUUw9ovKw_0000010 217.5 225.9 
+Gloria_Steinem/yBAUUw9ovKw_0000011 265.7 271.8 
+Gloria_Steinem/yBAUUw9ovKw_0000012 273.9 280.1 
+Gloria_Steinem/yBAUUw9ovKw_0000013 280.2 291.5 
+Gloria_Steinem/yBAUUw9ovKw_0000014 307.1 312.0 
+Gloria_Steinem/yBAUUw9ovKw_0000015 312.5 331.2 
+Gloria_Steinem/yBAUUw9ovKw_0000016 334.4 339.6 
+Gloria_Steinem/yBAUUw9ovKw_0000017 383.2 388.4 
+Gloria_Steinem/yBAUUw9ovKw_0000018 450.0 457.8 
+Gloria_Steinem/yBAUUw9ovKw_0000019 464.3 470.8 
+Gloria_Steinem/yBAUUw9ovKw_0000020 477.2 487.2 
+Gloria_Steinem/yBAUUw9ovKw_0000021 499.9 506.5 
+Gloria_Steinem/yBAUUw9ovKw_0000022 506.8 516.6 
+Gloria_Steinem/yBAUUw9ovKw_0000023 522.7 527.8 

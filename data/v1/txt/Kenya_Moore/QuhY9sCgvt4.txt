@@ -1,0 +1,20 @@
+POI: 			Kenya_Moore 
+Youtube ID: 	QuhY9sCgvt4 
+Video length: 	380.2 sec 
+Set (V): 		dev 
+ 
+Kenya_Moore/QuhY9sCgvt4_0000001 06.6 13.3 
+Kenya_Moore/QuhY9sCgvt4_0000002 34.6 47.2 
+Kenya_Moore/QuhY9sCgvt4_0000003 61.6 76.0 
+Kenya_Moore/QuhY9sCgvt4_0000004 83.2 97.2 
+Kenya_Moore/QuhY9sCgvt4_0000005 97.8 114.6 
+Kenya_Moore/QuhY9sCgvt4_0000006 145.4 157.8 
+Kenya_Moore/QuhY9sCgvt4_0000007 159.8 164.8 
+Kenya_Moore/QuhY9sCgvt4_0000008 180.4 201.2 
+Kenya_Moore/QuhY9sCgvt4_0000009 203.0 210.2 
+Kenya_Moore/QuhY9sCgvt4_0000010 229.2 235.5 
+Kenya_Moore/QuhY9sCgvt4_0000011 249.3 269.6 
+Kenya_Moore/QuhY9sCgvt4_0000012 275.0 286.9 
+Kenya_Moore/QuhY9sCgvt4_0000013 301.6 319.8 
+Kenya_Moore/QuhY9sCgvt4_0000014 333.4 343.4 
+Kenya_Moore/QuhY9sCgvt4_0000015 344.0 356.6 

@@ -1,0 +1,12 @@
+POI: 			Rose_McIver 
+Youtube ID: 	wi9zrxNgrLE 
+Video length: 	403.0 sec 
+Set (V): 		dev 
+ 
+Rose_McIver/wi9zrxNgrLE_0000001 63.4 68.6 
+Rose_McIver/wi9zrxNgrLE_0000002 149.7 157.0 
+Rose_McIver/wi9zrxNgrLE_0000003 179.9 190.4 
+Rose_McIver/wi9zrxNgrLE_0000004 214.9 219.1 
+Rose_McIver/wi9zrxNgrLE_0000005 222.1 230.6 
+Rose_McIver/wi9zrxNgrLE_0000006 235.2 240.3 
+Rose_McIver/wi9zrxNgrLE_0000007 358.3 363.2 

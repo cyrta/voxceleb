@@ -1,0 +1,8 @@
+POI: 			Stanley_Tucci 
+Youtube ID: 	SSzR39WptFQ 
+Video length: 	118.2 sec 
+Set (V): 		dev 
+ 
+Stanley_Tucci/SSzR39WptFQ_0000001 47.0 51.8 
+Stanley_Tucci/SSzR39WptFQ_0000002 52.0 59.1 
+Stanley_Tucci/SSzR39WptFQ_0000003 68.0 75.0 

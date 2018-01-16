@@ -1,0 +1,9 @@
+POI: 			Reggie_Lee 
+Youtube ID: 	6nDTN5E8POA 
+Video length: 	57.5 sec 
+Set (V): 		dev 
+ 
+Reggie_Lee/6nDTN5E8POA_0000001 01.0 10.0 
+Reggie_Lee/6nDTN5E8POA_0000002 11.8 32.6 
+Reggie_Lee/6nDTN5E8POA_0000003 34.5 45.1 
+Reggie_Lee/6nDTN5E8POA_0000004 47.2 55.0 

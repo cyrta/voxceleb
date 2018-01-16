@@ -1,0 +1,11 @@
+POI: 			Rutger_Hauer 
+Youtube ID: 	JcRWX7NYM6Y 
+Video length: 	93.7 sec 
+Set (V): 		dev 
+ 
+Rutger_Hauer/JcRWX7NYM6Y_0000001 22.3 28.0 
+Rutger_Hauer/JcRWX7NYM6Y_0000002 28.2 32.9 
+Rutger_Hauer/JcRWX7NYM6Y_0000003 34.6 39.0 
+Rutger_Hauer/JcRWX7NYM6Y_0000004 39.6 44.0 
+Rutger_Hauer/JcRWX7NYM6Y_0000005 65.2 70.0 
+Rutger_Hauer/JcRWX7NYM6Y_0000006 76.4 85.6 

@@ -1,0 +1,8 @@
+POI: 			Riz_Ahmed 
+Youtube ID: 	uhu_9qcWDAI 
+Video length: 	136.1 sec 
+Set (V): 		dev 
+ 
+Riz_Ahmed/uhu_9qcWDAI_0000001 13.5 34.8 
+Riz_Ahmed/uhu_9qcWDAI_0000002 39.3 47.5 
+Riz_Ahmed/uhu_9qcWDAI_0000003 49.2 53.5 

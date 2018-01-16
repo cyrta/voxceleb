@@ -1,0 +1,9 @@
+POI: 			Maria_Menounos 
+Youtube ID: 	Jkx4BMLN4kw 
+Video length: 	191.5 sec 
+Set (V): 		dev 
+ 
+Maria_Menounos/Jkx4BMLN4kw_0000001 91.0 99.3 
+Maria_Menounos/Jkx4BMLN4kw_0000002 100.4 111.2 
+Maria_Menounos/Jkx4BMLN4kw_0000003 135.2 149.8 
+Maria_Menounos/Jkx4BMLN4kw_0000004 154.6 163.3 

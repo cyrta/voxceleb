@@ -1,0 +1,12 @@
+POI: 			Zachary_Levi 
+Youtube ID: 	0EbTHVaVEvQ 
+Video length: 	222.8 sec 
+Set (V): 		dev 
+ 
+Zachary_Levi/0EbTHVaVEvQ_0000001 100.4 111.5 
+Zachary_Levi/0EbTHVaVEvQ_0000002 115.0 123.1 
+Zachary_Levi/0EbTHVaVEvQ_0000003 124.2 133.8 
+Zachary_Levi/0EbTHVaVEvQ_0000004 134.4 139.1 
+Zachary_Levi/0EbTHVaVEvQ_0000005 142.5 151.4 
+Zachary_Levi/0EbTHVaVEvQ_0000006 159.4 164.0 
+Zachary_Levi/0EbTHVaVEvQ_0000007 164.6 181.4 

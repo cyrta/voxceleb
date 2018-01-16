@@ -1,0 +1,8 @@
+POI: 			Steve_Carell 
+Youtube ID: 	J_UM4vuanro 
+Video length: 	241.4 sec 
+Set (V): 		dev 
+ 
+Steve_Carell/J_UM4vuanro_0000001 22.8 32.5 
+Steve_Carell/J_UM4vuanro_0000002 198.7 209.0 
+Steve_Carell/J_UM4vuanro_0000003 209.7 223.0 

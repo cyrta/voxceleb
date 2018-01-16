@@ -1,0 +1,7 @@
+POI: 			Michael_Shannon 
+Youtube ID: 	6MeHuDZV-P8 
+Video length: 	369.6 sec 
+Set (V): 		dev 
+ 
+Michael_Shannon/6MeHuDZV-P8_0000001 227.8 236.1 
+Michael_Shannon/6MeHuDZV-P8_0000002 241.9 249.2 

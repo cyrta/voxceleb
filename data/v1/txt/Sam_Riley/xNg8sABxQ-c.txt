@@ -1,0 +1,10 @@
+POI: 			Sam_Riley 
+Youtube ID: 	xNg8sABxQ-c 
+Video length: 	178.5 sec 
+Set (V): 		dev 
+ 
+Sam_Riley/xNg8sABxQ-c_0000001 40.4 50.2 
+Sam_Riley/xNg8sABxQ-c_0000002 67.3 75.1 
+Sam_Riley/xNg8sABxQ-c_0000003 92.9 101.0 
+Sam_Riley/xNg8sABxQ-c_0000004 120.8 128.0 
+Sam_Riley/xNg8sABxQ-c_0000005 141.2 152.3 

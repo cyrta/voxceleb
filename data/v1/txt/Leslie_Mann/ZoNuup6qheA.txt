@@ -1,0 +1,8 @@
+POI: 			Leslie_Mann 
+Youtube ID: 	ZoNuup6qheA 
+Video length: 	260.0 sec 
+Set (V): 		dev 
+ 
+Leslie_Mann/ZoNuup6qheA_0000001 84.9 92.2 
+Leslie_Mann/ZoNuup6qheA_0000002 161.6 167.4 
+Leslie_Mann/ZoNuup6qheA_0000003 222.6 226.8 

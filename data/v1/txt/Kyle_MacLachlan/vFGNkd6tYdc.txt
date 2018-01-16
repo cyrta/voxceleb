@@ -1,0 +1,8 @@
+POI: 			Kyle_MacLachlan 
+Youtube ID: 	vFGNkd6tYdc 
+Video length: 	190.8 sec 
+Set (V): 		dev 
+ 
+Kyle_MacLachlan/vFGNkd6tYdc_0000001 43.3 52.7 
+Kyle_MacLachlan/vFGNkd6tYdc_0000002 73.4 85.1 
+Kyle_MacLachlan/vFGNkd6tYdc_0000003 122.1 127.6 

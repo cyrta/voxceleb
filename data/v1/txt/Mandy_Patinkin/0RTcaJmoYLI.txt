@@ -1,0 +1,18 @@
+POI: 			Mandy_Patinkin 
+Youtube ID: 	0RTcaJmoYLI 
+Video length: 	596.7 sec 
+Set (V): 		dev 
+ 
+Mandy_Patinkin/0RTcaJmoYLI_0000001 30.8 36.7 
+Mandy_Patinkin/0RTcaJmoYLI_0000002 153.0 157.4 
+Mandy_Patinkin/0RTcaJmoYLI_0000003 166.1 173.0 
+Mandy_Patinkin/0RTcaJmoYLI_0000004 223.3 228.0 
+Mandy_Patinkin/0RTcaJmoYLI_0000005 230.5 249.8 
+Mandy_Patinkin/0RTcaJmoYLI_0000006 261.8 266.1 
+Mandy_Patinkin/0RTcaJmoYLI_0000007 280.8 287.2 
+Mandy_Patinkin/0RTcaJmoYLI_0000008 337.5 342.0 
+Mandy_Patinkin/0RTcaJmoYLI_0000009 343.2 359.0 
+Mandy_Patinkin/0RTcaJmoYLI_0000010 475.5 486.0 
+Mandy_Patinkin/0RTcaJmoYLI_0000011 504.0 508.9 
+Mandy_Patinkin/0RTcaJmoYLI_0000012 510.0 516.9 
+Mandy_Patinkin/0RTcaJmoYLI_0000013 526.7 539.1 

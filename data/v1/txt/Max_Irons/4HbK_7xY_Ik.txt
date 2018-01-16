@@ -1,0 +1,8 @@
+POI: 			Max_Irons 
+Youtube ID: 	4HbK_7xY_Ik 
+Video length: 	484.8 sec 
+Set (V): 		dev 
+ 
+Max_Irons/4HbK_7xY_Ik_0000001 219.6 224.0 
+Max_Irons/4HbK_7xY_Ik_0000002 224.9 233.2 
+Max_Irons/4HbK_7xY_Ik_0000003 444.3 449.1 

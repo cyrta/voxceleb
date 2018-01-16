@@ -1,0 +1,9 @@
+POI: 			Hilary_Swank 
+Youtube ID: 	beMhG6PENYI 
+Video length: 	125.0 sec 
+Set (V): 		dev 
+ 
+Hilary_Swank/beMhG6PENYI_0000001 14.4 26.1 
+Hilary_Swank/beMhG6PENYI_0000002 30.9 37.5 
+Hilary_Swank/beMhG6PENYI_0000003 39.0 46.5 
+Hilary_Swank/beMhG6PENYI_0000004 84.3 93.2 

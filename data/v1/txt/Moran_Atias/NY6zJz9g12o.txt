@@ -1,0 +1,11 @@
+POI: 			Moran_Atias 
+Youtube ID: 	NY6zJz9g12o 
+Video length: 	150.3 sec 
+Set (V): 		dev 
+ 
+Moran_Atias/NY6zJz9g12o_0000001 23.5 27.7 
+Moran_Atias/NY6zJz9g12o_0000002 28.3 36.8 
+Moran_Atias/NY6zJz9g12o_0000003 55.4 62.0 
+Moran_Atias/NY6zJz9g12o_0000004 76.1 80.5 
+Moran_Atias/NY6zJz9g12o_0000005 93.1 101.0 
+Moran_Atias/NY6zJz9g12o_0000006 140.8 146.4 

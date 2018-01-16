@@ -1,0 +1,11 @@
+POI: 			Randeep_Hooda 
+Youtube ID: 	zNzlB5JN_kY 
+Video length: 	362.1 sec 
+Set (V): 		dev 
+ 
+Randeep_Hooda/zNzlB5JN_kY_0000001 217.0 222.5 
+Randeep_Hooda/zNzlB5JN_kY_0000002 225.3 231.3 
+Randeep_Hooda/zNzlB5JN_kY_0000003 236.1 240.1 
+Randeep_Hooda/zNzlB5JN_kY_0000004 287.6 292.7 
+Randeep_Hooda/zNzlB5JN_kY_0000005 300.2 306.2 
+Randeep_Hooda/zNzlB5JN_kY_0000006 307.0 313.8 

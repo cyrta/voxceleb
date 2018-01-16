@@ -1,0 +1,11 @@
+POI: 			Wendell_Pierce 
+Youtube ID: 	FVESklm3t6E 
+Video length: 	203.5 sec 
+Set (V): 		dev 
+ 
+Wendell_Pierce/FVESklm3t6E_0000001 25.0 29.0 
+Wendell_Pierce/FVESklm3t6E_0000002 46.5 50.4 
+Wendell_Pierce/FVESklm3t6E_0000003 70.6 76.4 
+Wendell_Pierce/FVESklm3t6E_0000004 84.9 90.8 
+Wendell_Pierce/FVESklm3t6E_0000005 111.0 119.2 
+Wendell_Pierce/FVESklm3t6E_0000006 125.1 139.6 

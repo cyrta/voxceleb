@@ -1,0 +1,10 @@
+POI: 			Lin_Shaye 
+Youtube ID: 	cIhHXr6SaQQ 
+Video length: 	223.0 sec 
+Set (V): 		dev 
+ 
+Lin_Shaye/cIhHXr6SaQQ_0000001 62.0 67.2 
+Lin_Shaye/cIhHXr6SaQQ_0000002 69.6 80.8 
+Lin_Shaye/cIhHXr6SaQQ_0000003 130.6 154.6 
+Lin_Shaye/cIhHXr6SaQQ_0000004 193.4 199.7 
+Lin_Shaye/cIhHXr6SaQQ_0000005 199.9 207.6 

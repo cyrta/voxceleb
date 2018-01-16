@@ -1,0 +1,10 @@
+POI: 			Tony_Curran 
+Youtube ID: 	wdG6_D6xOBY 
+Video length: 	438.3 sec 
+Set (V): 		dev 
+ 
+Tony_Curran/wdG6_D6xOBY_0000001 123.6 129.8 
+Tony_Curran/wdG6_D6xOBY_0000002 188.8 195.3 
+Tony_Curran/wdG6_D6xOBY_0000003 275.2 280.0 
+Tony_Curran/wdG6_D6xOBY_0000004 336.1 342.7 
+Tony_Curran/wdG6_D6xOBY_0000005 389.8 395.3 

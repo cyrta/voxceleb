@@ -1,0 +1,8 @@
+POI: 			Kesha 
+Youtube ID: 	BFEYqLq51gg 
+Video length: 	219.1 sec 
+Set (V): 		dev 
+ 
+Kesha/BFEYqLq51gg_0000001 30.0 40.1 
+Kesha/BFEYqLq51gg_0000002 81.2 91.0 
+Kesha/BFEYqLq51gg_0000003 104.5 111.1 

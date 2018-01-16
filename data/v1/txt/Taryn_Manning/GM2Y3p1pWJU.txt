@@ -1,0 +1,15 @@
+POI: 			Taryn_Manning 
+Youtube ID: 	GM2Y3p1pWJU 
+Video length: 	517.0 sec 
+Set (V): 		dev 
+ 
+Taryn_Manning/GM2Y3p1pWJU_0000001 177.4 187.8 
+Taryn_Manning/GM2Y3p1pWJU_0000002 188.0 192.2 
+Taryn_Manning/GM2Y3p1pWJU_0000003 192.5 199.1 
+Taryn_Manning/GM2Y3p1pWJU_0000004 214.2 220.8 
+Taryn_Manning/GM2Y3p1pWJU_0000005 235.8 244.1 
+Taryn_Manning/GM2Y3p1pWJU_0000006 273.3 284.9 
+Taryn_Manning/GM2Y3p1pWJU_0000007 321.6 326.5 
+Taryn_Manning/GM2Y3p1pWJU_0000008 384.0 400.0 
+Taryn_Manning/GM2Y3p1pWJU_0000009 431.7 437.1 
+Taryn_Manning/GM2Y3p1pWJU_0000010 458.2 471.7 

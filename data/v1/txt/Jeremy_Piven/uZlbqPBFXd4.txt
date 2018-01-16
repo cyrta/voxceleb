@@ -1,0 +1,15 @@
+POI: 			Jeremy_Piven 
+Youtube ID: 	uZlbqPBFXd4 
+Video length: 	466.7 sec 
+Set (V): 		dev 
+ 
+Jeremy_Piven/uZlbqPBFXd4_0000001 78.8 97.8 
+Jeremy_Piven/uZlbqPBFXd4_0000002 109.1 115.8 
+Jeremy_Piven/uZlbqPBFXd4_0000003 144.0 166.8 
+Jeremy_Piven/uZlbqPBFXd4_0000004 173.4 185.1 
+Jeremy_Piven/uZlbqPBFXd4_0000005 223.8 228.4 
+Jeremy_Piven/uZlbqPBFXd4_0000006 250.4 257.1 
+Jeremy_Piven/uZlbqPBFXd4_0000007 257.8 262.6 
+Jeremy_Piven/uZlbqPBFXd4_0000008 270.2 278.8 
+Jeremy_Piven/uZlbqPBFXd4_0000009 297.7 303.8 
+Jeremy_Piven/uZlbqPBFXd4_0000010 409.8 415.1 

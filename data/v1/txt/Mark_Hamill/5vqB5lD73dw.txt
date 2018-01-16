@@ -1,0 +1,26 @@
+POI: 			Mark_Hamill 
+Youtube ID: 	5vqB5lD73dw 
+Video length: 	442.7 sec 
+Set (V): 		dev 
+ 
+Mark_Hamill/5vqB5lD73dw_0000001 36.6 41.8 
+Mark_Hamill/5vqB5lD73dw_0000002 42.2 47.2 
+Mark_Hamill/5vqB5lD73dw_0000003 48.2 58.4 
+Mark_Hamill/5vqB5lD73dw_0000004 67.3 75.7 
+Mark_Hamill/5vqB5lD73dw_0000005 86.8 92.2 
+Mark_Hamill/5vqB5lD73dw_0000006 95.1 100.6 
+Mark_Hamill/5vqB5lD73dw_0000007 109.0 125.2 
+Mark_Hamill/5vqB5lD73dw_0000008 131.2 136.2 
+Mark_Hamill/5vqB5lD73dw_0000009 143.6 152.0 
+Mark_Hamill/5vqB5lD73dw_0000010 154.4 161.8 
+Mark_Hamill/5vqB5lD73dw_0000011 165.9 174.0 
+Mark_Hamill/5vqB5lD73dw_0000012 206.8 215.3 
+Mark_Hamill/5vqB5lD73dw_0000013 215.8 224.3 
+Mark_Hamill/5vqB5lD73dw_0000014 226.0 233.4 
+Mark_Hamill/5vqB5lD73dw_0000015 253.4 261.7 
+Mark_Hamill/5vqB5lD73dw_0000016 304.6 319.8 
+Mark_Hamill/5vqB5lD73dw_0000017 329.5 338.8 
+Mark_Hamill/5vqB5lD73dw_0000018 342.6 360.5 
+Mark_Hamill/5vqB5lD73dw_0000019 366.3 371.2 
+Mark_Hamill/5vqB5lD73dw_0000020 371.5 391.4 
+Mark_Hamill/5vqB5lD73dw_0000021 392.8 398.0 

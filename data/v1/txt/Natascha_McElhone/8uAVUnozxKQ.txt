@@ -1,0 +1,16 @@
+POI: 			Natascha_McElhone 
+Youtube ID: 	8uAVUnozxKQ 
+Video length: 	180.7 sec 
+Set (V): 		dev 
+ 
+Natascha_McElhone/8uAVUnozxKQ_0000001 05.9 11.7 
+Natascha_McElhone/8uAVUnozxKQ_0000002 12.6 17.9 
+Natascha_McElhone/8uAVUnozxKQ_0000003 19.0 45.2 
+Natascha_McElhone/8uAVUnozxKQ_0000004 49.4 62.1 
+Natascha_McElhone/8uAVUnozxKQ_0000005 62.4 76.0 
+Natascha_McElhone/8uAVUnozxKQ_0000006 80.4 84.6 
+Natascha_McElhone/8uAVUnozxKQ_0000007 87.7 92.0 
+Natascha_McElhone/8uAVUnozxKQ_0000008 98.4 111.1 
+Natascha_McElhone/8uAVUnozxKQ_0000009 111.4 124.0 
+Natascha_McElhone/8uAVUnozxKQ_0000010 124.8 154.2 
+Natascha_McElhone/8uAVUnozxKQ_0000011 163.7 170.6 

@@ -1,0 +1,9 @@
+POI: 			James_Roday 
+Youtube ID: 	YhUTg8YFzPs 
+Video length: 	228.6 sec 
+Set (V): 		dev 
+ 
+James_Roday/YhUTg8YFzPs_0000001 56.4 61.1 
+James_Roday/YhUTg8YFzPs_0000002 86.4 92.4 
+James_Roday/YhUTg8YFzPs_0000003 149.8 155.6 
+James_Roday/YhUTg8YFzPs_0000004 194.0 200.5 

@@ -1,0 +1,9 @@
+POI: 			Tom_Ford 
+Youtube ID: 	7CtvpyRfeww 
+Video length: 	76.3 sec 
+Set (V): 		dev 
+ 
+Tom_Ford/7CtvpyRfeww_0000001 05.1 11.5 
+Tom_Ford/7CtvpyRfeww_0000002 15.7 21.8 
+Tom_Ford/7CtvpyRfeww_0000003 38.0 42.2 
+Tom_Ford/7CtvpyRfeww_0000004 50.0 56.5 

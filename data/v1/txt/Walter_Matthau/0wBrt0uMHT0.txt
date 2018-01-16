@@ -1,0 +1,8 @@
+POI: 			Walter_Matthau 
+Youtube ID: 	0wBrt0uMHT0 
+Video length: 	156.0 sec 
+Set (V): 		dev 
+ 
+Walter_Matthau/0wBrt0uMHT0_0000001 39.9 44.3 
+Walter_Matthau/0wBrt0uMHT0_0000002 109.3 113.5 
+Walter_Matthau/0wBrt0uMHT0_0000003 119.8 124.5 

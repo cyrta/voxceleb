@@ -1,0 +1,13 @@
+POI: 			Douglas_Booth 
+Youtube ID: 	nt89P8DbMAk 
+Video length: 	172.1 sec 
+Set (V): 		dev 
+ 
+Douglas_Booth/nt89P8DbMAk_0000001 12.8 26.4 
+Douglas_Booth/nt89P8DbMAk_0000002 31.4 38.5 
+Douglas_Booth/nt89P8DbMAk_0000003 39.6 47.9 
+Douglas_Booth/nt89P8DbMAk_0000004 60.7 70.1 
+Douglas_Booth/nt89P8DbMAk_0000005 72.9 81.3 
+Douglas_Booth/nt89P8DbMAk_0000006 107.4 138.0 
+Douglas_Booth/nt89P8DbMAk_0000007 140.2 150.1 
+Douglas_Booth/nt89P8DbMAk_0000008 165.9 170.6 

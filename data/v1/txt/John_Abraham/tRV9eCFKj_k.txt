@@ -1,0 +1,12 @@
+POI: 			John_Abraham 
+Youtube ID: 	tRV9eCFKj_k 
+Video length: 	373.2 sec 
+Set (V): 		dev 
+ 
+John_Abraham/tRV9eCFKj_k_0000001 57.7 61.7 
+John_Abraham/tRV9eCFKj_k_0000002 113.1 117.4 
+John_Abraham/tRV9eCFKj_k_0000003 117.8 122.4 
+John_Abraham/tRV9eCFKj_k_0000004 151.0 155.6 
+John_Abraham/tRV9eCFKj_k_0000005 222.2 232.2 
+John_Abraham/tRV9eCFKj_k_0000006 304.3 318.5 
+John_Abraham/tRV9eCFKj_k_0000007 319.6 329.1 

@@ -1,0 +1,14 @@
+POI: 			Lucy_Hale 
+Youtube ID: 	GIQ1i33bOxc 
+Video length: 	325.9 sec 
+Set (V): 		dev 
+ 
+Lucy_Hale/GIQ1i33bOxc_0000001 37.7 50.2 
+Lucy_Hale/GIQ1i33bOxc_0000002 91.7 97.2 
+Lucy_Hale/GIQ1i33bOxc_0000003 145.2 149.7 
+Lucy_Hale/GIQ1i33bOxc_0000004 154.9 159.0 
+Lucy_Hale/GIQ1i33bOxc_0000005 184.0 190.6 
+Lucy_Hale/GIQ1i33bOxc_0000006 199.1 206.3 
+Lucy_Hale/GIQ1i33bOxc_0000007 236.5 241.0 
+Lucy_Hale/GIQ1i33bOxc_0000008 253.5 257.5 
+Lucy_Hale/GIQ1i33bOxc_0000009 262.2 272.8 

@@ -1,0 +1,23 @@
+POI: 			Chloe_Dykstra 
+Youtube ID: 	z0e83AMnCiA 
+Video length: 	334.2 sec 
+Set (V): 		dev 
+ 
+Chloe_Dykstra/z0e83AMnCiA_0000001 01.7 09.1 
+Chloe_Dykstra/z0e83AMnCiA_0000002 43.7 48.0 
+Chloe_Dykstra/z0e83AMnCiA_0000003 56.7 61.3 
+Chloe_Dykstra/z0e83AMnCiA_0000004 61.4 68.4 
+Chloe_Dykstra/z0e83AMnCiA_0000005 68.6 76.1 
+Chloe_Dykstra/z0e83AMnCiA_0000006 81.2 88.7 
+Chloe_Dykstra/z0e83AMnCiA_0000007 89.0 102.0 
+Chloe_Dykstra/z0e83AMnCiA_0000008 103.3 123.0 
+Chloe_Dykstra/z0e83AMnCiA_0000009 123.4 128.2 
+Chloe_Dykstra/z0e83AMnCiA_0000010 130.2 136.2 
+Chloe_Dykstra/z0e83AMnCiA_0000011 155.0 160.2 
+Chloe_Dykstra/z0e83AMnCiA_0000012 160.4 169.4 
+Chloe_Dykstra/z0e83AMnCiA_0000013 174.3 179.1 
+Chloe_Dykstra/z0e83AMnCiA_0000014 198.2 213.9 
+Chloe_Dykstra/z0e83AMnCiA_0000015 214.2 221.0 
+Chloe_Dykstra/z0e83AMnCiA_0000016 223.3 243.6 
+Chloe_Dykstra/z0e83AMnCiA_0000017 255.7 281.6 
+Chloe_Dykstra/z0e83AMnCiA_0000018 291.9 303.7 

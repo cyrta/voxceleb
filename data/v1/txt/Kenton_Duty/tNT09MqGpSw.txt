@@ -1,0 +1,9 @@
+POI: 			Kenton_Duty 
+Youtube ID: 	tNT09MqGpSw 
+Video length: 	113.3 sec 
+Set (V): 		dev 
+ 
+Kenton_Duty/tNT09MqGpSw_0000001 08.9 13.1 
+Kenton_Duty/tNT09MqGpSw_0000002 52.0 65.0 
+Kenton_Duty/tNT09MqGpSw_0000003 69.9 76.8 
+Kenton_Duty/tNT09MqGpSw_0000004 82.8 93.0 

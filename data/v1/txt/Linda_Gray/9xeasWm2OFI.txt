@@ -1,0 +1,9 @@
+POI: 			Linda_Gray 
+Youtube ID: 	9xeasWm2OFI 
+Video length: 	221.5 sec 
+Set (V): 		dev 
+ 
+Linda_Gray/9xeasWm2OFI_0000001 22.8 30.0 
+Linda_Gray/9xeasWm2OFI_0000002 69.1 80.8 
+Linda_Gray/9xeasWm2OFI_0000003 128.8 136.0 
+Linda_Gray/9xeasWm2OFI_0000004 184.4 207.2 

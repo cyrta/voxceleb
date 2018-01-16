@@ -1,0 +1,18 @@
+POI: 			Katherine_Jenkins 
+Youtube ID: 	wWsSBJDGg1k 
+Video length: 	581.4 sec 
+Set (V): 		dev 
+ 
+Katherine_Jenkins/wWsSBJDGg1k_0000001 81.6 86.4 
+Katherine_Jenkins/wWsSBJDGg1k_0000002 119.0 124.9 
+Katherine_Jenkins/wWsSBJDGg1k_0000003 138.2 162.2 
+Katherine_Jenkins/wWsSBJDGg1k_0000004 165.8 170.4 
+Katherine_Jenkins/wWsSBJDGg1k_0000005 174.8 179.5 
+Katherine_Jenkins/wWsSBJDGg1k_0000006 179.6 186.2 
+Katherine_Jenkins/wWsSBJDGg1k_0000007 205.6 209.8 
+Katherine_Jenkins/wWsSBJDGg1k_0000008 259.8 280.8 
+Katherine_Jenkins/wWsSBJDGg1k_0000009 390.1 400.2 
+Katherine_Jenkins/wWsSBJDGg1k_0000010 438.7 443.4 
+Katherine_Jenkins/wWsSBJDGg1k_0000011 465.5 470.9 
+Katherine_Jenkins/wWsSBJDGg1k_0000012 488.0 492.3 
+Katherine_Jenkins/wWsSBJDGg1k_0000013 546.2 550.4 

@@ -1,0 +1,8 @@
+POI: 			Rutger_Hauer 
+Youtube ID: 	9GcxwgvzJxk 
+Video length: 	197.1 sec 
+Set (V): 		dev 
+ 
+Rutger_Hauer/9GcxwgvzJxk_0000001 83.8 88.3 
+Rutger_Hauer/9GcxwgvzJxk_0000002 115.0 119.9 
+Rutger_Hauer/9GcxwgvzJxk_0000003 144.0 152.4 

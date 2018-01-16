@@ -1,0 +1,31 @@
+POI: 			Jeff_Goldblum 
+Youtube ID: 	yLbA1yz5hrg 
+Video length: 	939.2 sec 
+Set (V): 		dev 
+ 
+Jeff_Goldblum/yLbA1yz5hrg_0000001 96.4 108.4 
+Jeff_Goldblum/yLbA1yz5hrg_0000002 124.5 128.5 
+Jeff_Goldblum/yLbA1yz5hrg_0000003 137.5 150.3 
+Jeff_Goldblum/yLbA1yz5hrg_0000004 152.4 159.3 
+Jeff_Goldblum/yLbA1yz5hrg_0000005 160.3 183.0 
+Jeff_Goldblum/yLbA1yz5hrg_0000006 223.6 231.0 
+Jeff_Goldblum/yLbA1yz5hrg_0000007 236.8 243.4 
+Jeff_Goldblum/yLbA1yz5hrg_0000008 245.6 250.6 
+Jeff_Goldblum/yLbA1yz5hrg_0000009 256.2 261.5 
+Jeff_Goldblum/yLbA1yz5hrg_0000010 352.0 357.6 
+Jeff_Goldblum/yLbA1yz5hrg_0000011 402.7 407.4 
+Jeff_Goldblum/yLbA1yz5hrg_0000012 422.0 429.5 
+Jeff_Goldblum/yLbA1yz5hrg_0000013 557.6 576.7 
+Jeff_Goldblum/yLbA1yz5hrg_0000014 578.4 587.8 
+Jeff_Goldblum/yLbA1yz5hrg_0000015 618.4 623.4 
+Jeff_Goldblum/yLbA1yz5hrg_0000016 627.6 639.1 
+Jeff_Goldblum/yLbA1yz5hrg_0000017 659.9 665.3 
+Jeff_Goldblum/yLbA1yz5hrg_0000018 668.6 673.9 
+Jeff_Goldblum/yLbA1yz5hrg_0000019 728.9 740.9 
+Jeff_Goldblum/yLbA1yz5hrg_0000020 756.7 766.3 
+Jeff_Goldblum/yLbA1yz5hrg_0000021 771.0 783.0 
+Jeff_Goldblum/yLbA1yz5hrg_0000022 876.4 881.3 
+Jeff_Goldblum/yLbA1yz5hrg_0000023 881.4 886.8 
+Jeff_Goldblum/yLbA1yz5hrg_0000024 887.0 893.8 
+Jeff_Goldblum/yLbA1yz5hrg_0000025 894.8 905.0 
+Jeff_Goldblum/yLbA1yz5hrg_0000026 906.0 910.3 

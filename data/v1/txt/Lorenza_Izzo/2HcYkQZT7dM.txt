@@ -1,0 +1,11 @@
+POI: 			Lorenza_Izzo 
+Youtube ID: 	2HcYkQZT7dM 
+Video length: 	280.4 sec 
+Set (V): 		dev 
+ 
+Lorenza_Izzo/2HcYkQZT7dM_0000001 95.5 101.1 
+Lorenza_Izzo/2HcYkQZT7dM_0000002 165.3 174.5 
+Lorenza_Izzo/2HcYkQZT7dM_0000003 176.9 181.3 
+Lorenza_Izzo/2HcYkQZT7dM_0000004 186.8 194.2 
+Lorenza_Izzo/2HcYkQZT7dM_0000005 201.0 206.0 
+Lorenza_Izzo/2HcYkQZT7dM_0000006 211.2 223.0 

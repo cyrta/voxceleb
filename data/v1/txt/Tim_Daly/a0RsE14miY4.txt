@@ -1,0 +1,15 @@
+POI: 			Tim_Daly 
+Youtube ID: 	a0RsE14miY4 
+Video length: 	197.4 sec 
+Set (V): 		dev 
+ 
+Tim_Daly/a0RsE14miY4_0000001 25.1 33.4 
+Tim_Daly/a0RsE14miY4_0000002 35.4 43.2 
+Tim_Daly/a0RsE14miY4_0000003 45.6 53.5 
+Tim_Daly/a0RsE14miY4_0000004 61.2 67.8 
+Tim_Daly/a0RsE14miY4_0000005 84.4 94.8 
+Tim_Daly/a0RsE14miY4_0000006 97.7 106.2 
+Tim_Daly/a0RsE14miY4_0000007 111.5 117.0 
+Tim_Daly/a0RsE14miY4_0000008 145.2 150.5 
+Tim_Daly/a0RsE14miY4_0000009 167.2 176.0 
+Tim_Daly/a0RsE14miY4_0000010 188.8 195.4 

@@ -1,0 +1,14 @@
+POI: 			Candice_Patton 
+Youtube ID: 	QPHNXybdpdM 
+Video length: 	448.2 sec 
+Set (V): 		dev 
+ 
+Candice_Patton/QPHNXybdpdM_0000001 25.6 33.4 
+Candice_Patton/QPHNXybdpdM_0000002 38.2 44.0 
+Candice_Patton/QPHNXybdpdM_0000003 44.5 52.7 
+Candice_Patton/QPHNXybdpdM_0000004 53.8 62.0 
+Candice_Patton/QPHNXybdpdM_0000005 63.3 68.1 
+Candice_Patton/QPHNXybdpdM_0000006 72.2 78.3 
+Candice_Patton/QPHNXybdpdM_0000007 204.6 209.2 
+Candice_Patton/QPHNXybdpdM_0000008 247.1 253.7 
+Candice_Patton/QPHNXybdpdM_0000009 280.2 285.9 

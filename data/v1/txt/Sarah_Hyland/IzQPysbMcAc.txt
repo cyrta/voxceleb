@@ -1,0 +1,9 @@
+POI: 			Sarah_Hyland 
+Youtube ID: 	IzQPysbMcAc 
+Video length: 	250.8 sec 
+Set (V): 		dev 
+ 
+Sarah_Hyland/IzQPysbMcAc_0000001 87.4 92.2 
+Sarah_Hyland/IzQPysbMcAc_0000002 97.2 101.8 
+Sarah_Hyland/IzQPysbMcAc_0000003 141.8 147.9 
+Sarah_Hyland/IzQPysbMcAc_0000004 194.8 199.9 

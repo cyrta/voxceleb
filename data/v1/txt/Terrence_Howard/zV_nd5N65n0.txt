@@ -1,0 +1,8 @@
+POI: 			Terrence_Howard 
+Youtube ID: 	zV_nd5N65n0 
+Video length: 	780.7 sec 
+Set (V): 		dev 
+ 
+Terrence_Howard/zV_nd5N65n0_0000001 185.0 193.9 
+Terrence_Howard/zV_nd5N65n0_0000002 609.8 618.1 
+Terrence_Howard/zV_nd5N65n0_0000003 733.8 741.5 

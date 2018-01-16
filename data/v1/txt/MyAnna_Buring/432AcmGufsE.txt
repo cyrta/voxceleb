@@ -1,0 +1,16 @@
+POI: 			MyAnna_Buring 
+Youtube ID: 	432AcmGufsE 
+Video length: 	173.6 sec 
+Set (V): 		dev 
+ 
+MyAnna_Buring/432AcmGufsE_0000001 05.3 12.0 
+MyAnna_Buring/432AcmGufsE_0000002 16.6 44.5 
+MyAnna_Buring/432AcmGufsE_0000003 64.6 72.5 
+MyAnna_Buring/432AcmGufsE_0000004 81.2 90.0 
+MyAnna_Buring/432AcmGufsE_0000005 90.8 105.4 
+MyAnna_Buring/432AcmGufsE_0000006 107.9 113.7 
+MyAnna_Buring/432AcmGufsE_0000007 114.0 118.0 
+MyAnna_Buring/432AcmGufsE_0000008 124.8 132.0 
+MyAnna_Buring/432AcmGufsE_0000009 133.3 140.0 
+MyAnna_Buring/432AcmGufsE_0000010 140.3 150.8 
+MyAnna_Buring/432AcmGufsE_0000011 151.0 168.0 

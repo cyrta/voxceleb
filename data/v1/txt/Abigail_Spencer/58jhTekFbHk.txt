@@ -1,0 +1,8 @@
+POI: 			Abigail_Spencer 
+Youtube ID: 	58jhTekFbHk 
+Video length: 	88.2 sec 
+Set (V): 		dev 
+ 
+Abigail_Spencer/58jhTekFbHk_0000001 28.6 40.5 
+Abigail_Spencer/58jhTekFbHk_0000002 45.0 53.9 
+Abigail_Spencer/58jhTekFbHk_0000003 71.0 77.7 

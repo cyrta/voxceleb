@@ -1,0 +1,9 @@
+POI: 			Ryan_Potter 
+Youtube ID: 	bfnhzdChcoY 
+Video length: 	181.5 sec 
+Set (V): 		dev 
+ 
+Ryan_Potter/bfnhzdChcoY_0000001 55.4 67.0 
+Ryan_Potter/bfnhzdChcoY_0000002 73.2 82.5 
+Ryan_Potter/bfnhzdChcoY_0000003 127.2 132.9 
+Ryan_Potter/bfnhzdChcoY_0000004 133.8 160.5 

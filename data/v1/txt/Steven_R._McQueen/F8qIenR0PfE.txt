@@ -1,0 +1,7 @@
+POI: 			Steven_R._McQueen 
+Youtube ID: 	F8qIenR0PfE 
+Video length: 	400.9 sec 
+Set (V): 		dev 
+ 
+Steven_R._McQueen/F8qIenR0PfE_0000001 10.3 15.0 
+Steven_R._McQueen/F8qIenR0PfE_0000002 137.1 144.2 

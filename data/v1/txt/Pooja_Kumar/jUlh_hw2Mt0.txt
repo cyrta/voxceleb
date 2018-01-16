@@ -1,0 +1,16 @@
+POI: 			Pooja_Kumar 
+Youtube ID: 	jUlh_hw2Mt0 
+Video length: 	1188.3 sec 
+Set (V): 		dev 
+ 
+Pooja_Kumar/jUlh_hw2Mt0_0000001 147.5 152.5 
+Pooja_Kumar/jUlh_hw2Mt0_0000002 327.1 335.0 
+Pooja_Kumar/jUlh_hw2Mt0_0000003 336.0 340.3 
+Pooja_Kumar/jUlh_hw2Mt0_0000004 623.5 627.4 
+Pooja_Kumar/jUlh_hw2Mt0_0000005 640.9 647.7 
+Pooja_Kumar/jUlh_hw2Mt0_0000006 647.9 653.3 
+Pooja_Kumar/jUlh_hw2Mt0_0000007 657.0 661.4 
+Pooja_Kumar/jUlh_hw2Mt0_0000008 686.3 707.9 
+Pooja_Kumar/jUlh_hw2Mt0_0000009 708.8 718.4 
+Pooja_Kumar/jUlh_hw2Mt0_0000010 718.7 729.5 
+Pooja_Kumar/jUlh_hw2Mt0_0000011 981.1 1002.2 

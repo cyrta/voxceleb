@@ -1,0 +1,14 @@
+POI: 			Adam_Beach 
+Youtube ID: 	AtavJVP4bCk 
+Video length: 	613.6 sec 
+Set (V): 		dev 
+ 
+Adam_Beach/AtavJVP4bCk_0000001 188.4 192.6 
+Adam_Beach/AtavJVP4bCk_0000002 295.1 301.6 
+Adam_Beach/AtavJVP4bCk_0000003 403.7 408.6 
+Adam_Beach/AtavJVP4bCk_0000004 502.7 512.0 
+Adam_Beach/AtavJVP4bCk_0000005 552.9 558.6 
+Adam_Beach/AtavJVP4bCk_0000006 567.5 572.0 
+Adam_Beach/AtavJVP4bCk_0000007 572.1 578.6 
+Adam_Beach/AtavJVP4bCk_0000008 591.2 597.9 
+Adam_Beach/AtavJVP4bCk_0000009 595.4 599.6 

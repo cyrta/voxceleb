@@ -1,0 +1,14 @@
+POI: 			Katherine_Jenkins 
+Youtube ID: 	Ct1XMedcGHk 
+Video length: 	241.6 sec 
+Set (V): 		dev 
+ 
+Katherine_Jenkins/Ct1XMedcGHk_0000001 30.2 37.2 
+Katherine_Jenkins/Ct1XMedcGHk_0000002 56.2 65.0 
+Katherine_Jenkins/Ct1XMedcGHk_0000003 113.5 117.7 
+Katherine_Jenkins/Ct1XMedcGHk_0000004 119.1 125.4 
+Katherine_Jenkins/Ct1XMedcGHk_0000005 131.9 137.0 
+Katherine_Jenkins/Ct1XMedcGHk_0000006 141.6 145.7 
+Katherine_Jenkins/Ct1XMedcGHk_0000007 146.4 155.2 
+Katherine_Jenkins/Ct1XMedcGHk_0000008 173.0 179.2 
+Katherine_Jenkins/Ct1XMedcGHk_0000009 188.6 200.4 

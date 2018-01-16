@@ -1,0 +1,12 @@
+POI: 			Greg_Grunberg 
+Youtube ID: 	wC8Y_3CfWYY 
+Video length: 	113.0 sec 
+Set (V): 		dev 
+ 
+Greg_Grunberg/wC8Y_3CfWYY_0000001 02.0 18.3 
+Greg_Grunberg/wC8Y_3CfWYY_0000002 22.0 29.6 
+Greg_Grunberg/wC8Y_3CfWYY_0000003 29.8 50.8 
+Greg_Grunberg/wC8Y_3CfWYY_0000004 62.5 69.9 
+Greg_Grunberg/wC8Y_3CfWYY_0000005 73.3 77.8 
+Greg_Grunberg/wC8Y_3CfWYY_0000006 92.0 98.4 
+Greg_Grunberg/wC8Y_3CfWYY_0000007 101.8 106.1 

@@ -1,0 +1,8 @@
+POI: 			Russell_Tovey 
+Youtube ID: 	2tv3Ywlq2wQ 
+Video length: 	786.3 sec 
+Set (V): 		dev 
+ 
+Russell_Tovey/2tv3Ywlq2wQ_0000001 434.8 439.6 
+Russell_Tovey/2tv3Ywlq2wQ_0000002 495.7 500.2 
+Russell_Tovey/2tv3Ywlq2wQ_0000003 507.7 516.7 

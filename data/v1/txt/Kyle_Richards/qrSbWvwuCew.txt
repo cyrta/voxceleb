@@ -1,0 +1,10 @@
+POI: 			Kyle_Richards 
+Youtube ID: 	qrSbWvwuCew 
+Video length: 	384.4 sec 
+Set (V): 		dev 
+ 
+Kyle_Richards/qrSbWvwuCew_0000001 174.0 178.6 
+Kyle_Richards/qrSbWvwuCew_0000002 282.2 290.2 
+Kyle_Richards/qrSbWvwuCew_0000003 295.5 302.3 
+Kyle_Richards/qrSbWvwuCew_0000004 308.2 312.4 
+Kyle_Richards/qrSbWvwuCew_0000005 372.8 380.0 

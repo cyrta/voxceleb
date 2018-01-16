@@ -1,0 +1,12 @@
+POI: 			John_Mulaney 
+Youtube ID: 	jHGyJwyvM7Y 
+Video length: 	172.4 sec 
+Set (V): 		dev 
+ 
+John_Mulaney/jHGyJwyvM7Y_0000001 12.8 19.0 
+John_Mulaney/jHGyJwyvM7Y_0000002 26.1 31.8 
+John_Mulaney/jHGyJwyvM7Y_0000003 61.0 67.9 
+John_Mulaney/jHGyJwyvM7Y_0000004 82.8 89.7 
+John_Mulaney/jHGyJwyvM7Y_0000005 117.0 122.4 
+John_Mulaney/jHGyJwyvM7Y_0000006 123.0 128.8 
+John_Mulaney/jHGyJwyvM7Y_0000007 129.0 136.5 

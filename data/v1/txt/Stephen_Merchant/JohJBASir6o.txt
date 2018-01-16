@@ -1,0 +1,10 @@
+POI: 			Stephen_Merchant 
+Youtube ID: 	JohJBASir6o 
+Video length: 	205.9 sec 
+Set (V): 		dev 
+ 
+Stephen_Merchant/JohJBASir6o_0000001 38.1 43.5 
+Stephen_Merchant/JohJBASir6o_0000002 57.9 63.0 
+Stephen_Merchant/JohJBASir6o_0000003 101.6 108.6 
+Stephen_Merchant/JohJBASir6o_0000004 146.7 152.4 
+Stephen_Merchant/JohJBASir6o_0000005 175.4 182.8 

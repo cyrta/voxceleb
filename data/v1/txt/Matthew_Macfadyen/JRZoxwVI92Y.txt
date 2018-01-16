@@ -1,0 +1,15 @@
+POI: 			Matthew_Macfadyen 
+Youtube ID: 	JRZoxwVI92Y 
+Video length: 	223.5 sec 
+Set (V): 		dev 
+ 
+Matthew_Macfadyen/JRZoxwVI92Y_0000001 14.5 19.4 
+Matthew_Macfadyen/JRZoxwVI92Y_0000002 48.8 61.4 
+Matthew_Macfadyen/JRZoxwVI92Y_0000003 64.0 69.6 
+Matthew_Macfadyen/JRZoxwVI92Y_0000004 71.0 79.8 
+Matthew_Macfadyen/JRZoxwVI92Y_0000005 99.8 104.4 
+Matthew_Macfadyen/JRZoxwVI92Y_0000006 109.5 113.8 
+Matthew_Macfadyen/JRZoxwVI92Y_0000007 123.1 132.8 
+Matthew_Macfadyen/JRZoxwVI92Y_0000008 137.1 141.2 
+Matthew_Macfadyen/JRZoxwVI92Y_0000009 178.0 184.9 
+Matthew_Macfadyen/JRZoxwVI92Y_0000010 199.9 205.5 

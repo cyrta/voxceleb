@@ -1,0 +1,10 @@
+POI: 			Steve_Martin 
+Youtube ID: 	4JSJ44HKx1E 
+Video length: 	382.9 sec 
+Set (V): 		dev 
+ 
+Steve_Martin/4JSJ44HKx1E_0000001 62.9 82.8 
+Steve_Martin/4JSJ44HKx1E_0000002 111.3 122.2 
+Steve_Martin/4JSJ44HKx1E_0000003 122.8 133.2 
+Steve_Martin/4JSJ44HKx1E_0000004 137.4 144.8 
+Steve_Martin/4JSJ44HKx1E_0000005 145.0 149.0 

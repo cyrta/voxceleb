@@ -1,0 +1,16 @@
+POI: 			Jennifer_Beals 
+Youtube ID: 	lbIhDYVHIiI 
+Video length: 	523.2 sec 
+Set (V): 		dev 
+ 
+Jennifer_Beals/lbIhDYVHIiI_0000001 94.0 98.6 
+Jennifer_Beals/lbIhDYVHIiI_0000002 103.8 112.0 
+Jennifer_Beals/lbIhDYVHIiI_0000003 138.6 143.8 
+Jennifer_Beals/lbIhDYVHIiI_0000004 235.1 240.3 
+Jennifer_Beals/lbIhDYVHIiI_0000005 321.2 330.6 
+Jennifer_Beals/lbIhDYVHIiI_0000006 339.8 346.1 
+Jennifer_Beals/lbIhDYVHIiI_0000007 365.8 371.8 
+Jennifer_Beals/lbIhDYVHIiI_0000008 394.1 400.1 
+Jennifer_Beals/lbIhDYVHIiI_0000009 430.6 438.4 
+Jennifer_Beals/lbIhDYVHIiI_0000010 439.4 443.6 
+Jennifer_Beals/lbIhDYVHIiI_0000011 460.6 465.3 

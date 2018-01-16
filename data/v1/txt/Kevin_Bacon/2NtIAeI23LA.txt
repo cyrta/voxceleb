@@ -1,0 +1,7 @@
+POI: 			Kevin_Bacon 
+Youtube ID: 	2NtIAeI23LA 
+Video length: 	827.7 sec 
+Set (V): 		dev 
+ 
+Kevin_Bacon/2NtIAeI23LA_0000001 439.6 444.0 
+Kevin_Bacon/2NtIAeI23LA_0000002 768.0 773.8 

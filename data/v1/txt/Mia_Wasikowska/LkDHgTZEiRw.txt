@@ -1,0 +1,17 @@
+POI: 			Mia_Wasikowska 
+Youtube ID: 	LkDHgTZEiRw 
+Video length: 	194.0 sec 
+Set (V): 		dev 
+ 
+Mia_Wasikowska/LkDHgTZEiRw_0000001 05.8 20.2 
+Mia_Wasikowska/LkDHgTZEiRw_0000002 27.8 37.0 
+Mia_Wasikowska/LkDHgTZEiRw_0000003 40.9 49.0 
+Mia_Wasikowska/LkDHgTZEiRw_0000004 49.0 57.1 
+Mia_Wasikowska/LkDHgTZEiRw_0000005 64.7 68.8 
+Mia_Wasikowska/LkDHgTZEiRw_0000006 71.8 76.3 
+Mia_Wasikowska/LkDHgTZEiRw_0000007 76.5 83.9 
+Mia_Wasikowska/LkDHgTZEiRw_0000008 91.4 101.1 
+Mia_Wasikowska/LkDHgTZEiRw_0000009 105.2 117.5 
+Mia_Wasikowska/LkDHgTZEiRw_0000010 120.7 132.8 
+Mia_Wasikowska/LkDHgTZEiRw_0000011 133.6 139.1 
+Mia_Wasikowska/LkDHgTZEiRw_0000012 147.5 154.5 

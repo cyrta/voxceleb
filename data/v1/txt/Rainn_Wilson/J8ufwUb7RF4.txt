@@ -1,0 +1,18 @@
+POI: 			Rainn_Wilson 
+Youtube ID: 	J8ufwUb7RF4 
+Video length: 	463.2 sec 
+Set (V): 		dev 
+ 
+Rainn_Wilson/J8ufwUb7RF4_0000001 167.6 178.9 
+Rainn_Wilson/J8ufwUb7RF4_0000002 186.2 191.3 
+Rainn_Wilson/J8ufwUb7RF4_0000003 200.1 207.8 
+Rainn_Wilson/J8ufwUb7RF4_0000004 211.7 220.0 
+Rainn_Wilson/J8ufwUb7RF4_0000005 238.5 248.1 
+Rainn_Wilson/J8ufwUb7RF4_0000006 273.6 281.4 
+Rainn_Wilson/J8ufwUb7RF4_0000007 273.2 282.8 
+Rainn_Wilson/J8ufwUb7RF4_0000008 290.2 310.2 
+Rainn_Wilson/J8ufwUb7RF4_0000009 316.5 327.5 
+Rainn_Wilson/J8ufwUb7RF4_0000010 359.0 375.6 
+Rainn_Wilson/J8ufwUb7RF4_0000011 380.6 386.7 
+Rainn_Wilson/J8ufwUb7RF4_0000012 421.1 428.9 
+Rainn_Wilson/J8ufwUb7RF4_0000013 449.1 453.4 

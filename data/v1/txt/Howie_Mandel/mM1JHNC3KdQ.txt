@@ -1,0 +1,15 @@
+POI: 			Howie_Mandel 
+Youtube ID: 	mM1JHNC3KdQ 
+Video length: 	251.4 sec 
+Set (V): 		dev 
+ 
+Howie_Mandel/mM1JHNC3KdQ_0000001 01.4 19.6 
+Howie_Mandel/mM1JHNC3KdQ_0000002 20.4 56.7 
+Howie_Mandel/mM1JHNC3KdQ_0000003 57.2 98.1 
+Howie_Mandel/mM1JHNC3KdQ_0000004 102.2 108.5 
+Howie_Mandel/mM1JHNC3KdQ_0000005 117.2 157.2 
+Howie_Mandel/mM1JHNC3KdQ_0000006 167.5 191.4 
+Howie_Mandel/mM1JHNC3KdQ_0000007 215.7 221.9 
+Howie_Mandel/mM1JHNC3KdQ_0000008 224.2 229.6 
+Howie_Mandel/mM1JHNC3KdQ_0000009 231.0 236.0 
+Howie_Mandel/mM1JHNC3KdQ_0000010 242.2 249.7 

@@ -1,0 +1,13 @@
+POI: 			Agyness_Deyn 
+Youtube ID: 	cnfBsYa5iOM 
+Video length: 	160.3 sec 
+Set (V): 		dev 
+ 
+Agyness_Deyn/cnfBsYa5iOM_0000001 02.6 12.8 
+Agyness_Deyn/cnfBsYa5iOM_0000002 13.8 51.0 
+Agyness_Deyn/cnfBsYa5iOM_0000003 52.2 59.1 
+Agyness_Deyn/cnfBsYa5iOM_0000004 63.4 72.6 
+Agyness_Deyn/cnfBsYa5iOM_0000005 76.0 87.1 
+Agyness_Deyn/cnfBsYa5iOM_0000006 88.0 115.7 
+Agyness_Deyn/cnfBsYa5iOM_0000007 125.9 143.4 
+Agyness_Deyn/cnfBsYa5iOM_0000008 145.1 154.5 

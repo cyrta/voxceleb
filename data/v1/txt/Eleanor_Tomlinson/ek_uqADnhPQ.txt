@@ -1,0 +1,14 @@
+POI: 			Eleanor_Tomlinson 
+Youtube ID: 	ek_uqADnhPQ 
+Video length: 	343.4 sec 
+Set (V): 		test 
+ 
+Eleanor_Tomlinson/ek_uqADnhPQ_0000001 09.6 14.9 
+Eleanor_Tomlinson/ek_uqADnhPQ_0000002 17.4 23.5 
+Eleanor_Tomlinson/ek_uqADnhPQ_0000003 51.8 64.5 
+Eleanor_Tomlinson/ek_uqADnhPQ_0000004 91.5 96.4 
+Eleanor_Tomlinson/ek_uqADnhPQ_0000005 102.2 108.6 
+Eleanor_Tomlinson/ek_uqADnhPQ_0000006 144.5 159.0 
+Eleanor_Tomlinson/ek_uqADnhPQ_0000007 174.0 202.0 
+Eleanor_Tomlinson/ek_uqADnhPQ_0000008 257.8 286.9 
+Eleanor_Tomlinson/ek_uqADnhPQ_0000009 325.4 335.8 

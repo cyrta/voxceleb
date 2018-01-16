@@ -1,0 +1,15 @@
+POI: 			Eric_McCormack 
+Youtube ID: 	SKwsA_nq1P8 
+Video length: 	213.0 sec 
+Set (V): 		test 
+ 
+Eric_McCormack/SKwsA_nq1P8_0000001 10.8 16.2 
+Eric_McCormack/SKwsA_nq1P8_0000002 68.7 79.7 
+Eric_McCormack/SKwsA_nq1P8_0000003 85.9 91.8 
+Eric_McCormack/SKwsA_nq1P8_0000004 93.0 107.1 
+Eric_McCormack/SKwsA_nq1P8_0000005 114.9 122.1 
+Eric_McCormack/SKwsA_nq1P8_0000006 128.8 137.2 
+Eric_McCormack/SKwsA_nq1P8_0000007 142.4 147.5 
+Eric_McCormack/SKwsA_nq1P8_0000008 152.2 164.7 
+Eric_McCormack/SKwsA_nq1P8_0000009 170.0 192.6 
+Eric_McCormack/SKwsA_nq1P8_0000010 197.6 208.8 

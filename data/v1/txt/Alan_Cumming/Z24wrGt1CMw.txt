@@ -1,0 +1,11 @@
+POI: 			Alan_Cumming 
+Youtube ID: 	Z24wrGt1CMw 
+Video length: 	421.5 sec 
+Set (V): 		dev 
+ 
+Alan_Cumming/Z24wrGt1CMw_0000001 104.6 112.0 
+Alan_Cumming/Z24wrGt1CMw_0000002 170.5 177.3 
+Alan_Cumming/Z24wrGt1CMw_0000003 314.0 328.6 
+Alan_Cumming/Z24wrGt1CMw_0000004 329.0 346.6 
+Alan_Cumming/Z24wrGt1CMw_0000005 348.4 353.2 
+Alan_Cumming/Z24wrGt1CMw_0000006 355.7 367.1 

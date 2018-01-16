@@ -1,0 +1,8 @@
+POI: 			Breckin_Meyer 
+Youtube ID: 	C27Q1fbouSw 
+Video length: 	130.4 sec 
+Set (V): 		dev 
+ 
+Breckin_Meyer/C27Q1fbouSw_0000001 35.0 39.8 
+Breckin_Meyer/C27Q1fbouSw_0000002 44.1 52.0 
+Breckin_Meyer/C27Q1fbouSw_0000003 89.0 93.9 

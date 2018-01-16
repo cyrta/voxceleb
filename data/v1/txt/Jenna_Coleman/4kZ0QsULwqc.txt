@@ -1,0 +1,13 @@
+POI: 			Jenna_Coleman 
+Youtube ID: 	4kZ0QsULwqc 
+Video length: 	235.4 sec 
+Set (V): 		dev 
+ 
+Jenna_Coleman/4kZ0QsULwqc_0000001 12.5 30.8 
+Jenna_Coleman/4kZ0QsULwqc_0000002 60.4 72.3 
+Jenna_Coleman/4kZ0QsULwqc_0000003 76.6 81.7 
+Jenna_Coleman/4kZ0QsULwqc_0000004 82.2 89.0 
+Jenna_Coleman/4kZ0QsULwqc_0000005 89.6 94.0 
+Jenna_Coleman/4kZ0QsULwqc_0000006 127.1 136.6 
+Jenna_Coleman/4kZ0QsULwqc_0000007 157.5 169.2 
+Jenna_Coleman/4kZ0QsULwqc_0000008 172.9 179.9 

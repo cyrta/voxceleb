@@ -1,0 +1,11 @@
+POI: 			Aaron_Yoo 
+Youtube ID: 	PP0cQLwYz5M 
+Video length: 	122.4 sec 
+Set (V): 		dev 
+ 
+Aaron_Yoo/PP0cQLwYz5M_0000001 19.4 27.2 
+Aaron_Yoo/PP0cQLwYz5M_0000002 43.1 70.0 
+Aaron_Yoo/PP0cQLwYz5M_0000003 84.4 94.3 
+Aaron_Yoo/PP0cQLwYz5M_0000004 96.8 103.8 
+Aaron_Yoo/PP0cQLwYz5M_0000005 105.0 109.7 
+Aaron_Yoo/PP0cQLwYz5M_0000006 110.8 116.0 

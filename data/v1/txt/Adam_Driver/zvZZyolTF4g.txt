@@ -1,0 +1,10 @@
+POI: 			Adam_Driver 
+Youtube ID: 	zvZZyolTF4g 
+Video length: 	464.4 sec 
+Set (V): 		dev 
+ 
+Adam_Driver/zvZZyolTF4g_0000001 181.1 185.1 
+Adam_Driver/zvZZyolTF4g_0000002 260.2 264.3 
+Adam_Driver/zvZZyolTF4g_0000003 395.2 401.0 
+Adam_Driver/zvZZyolTF4g_0000004 440.4 444.8 
+Adam_Driver/zvZZyolTF4g_0000005 450.0 460.0 

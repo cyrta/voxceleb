@@ -1,0 +1,10 @@
+POI: 			Natalie_Martinez 
+Youtube ID: 	QbvBpmj0_9A 
+Video length: 	84.8 sec 
+Set (V): 		dev 
+ 
+Natalie_Martinez/QbvBpmj0_9A_0000001 07.6 16.3 
+Natalie_Martinez/QbvBpmj0_9A_0000002 17.0 23.4 
+Natalie_Martinez/QbvBpmj0_9A_0000003 29.1 37.6 
+Natalie_Martinez/QbvBpmj0_9A_0000004 38.6 47.2 
+Natalie_Martinez/QbvBpmj0_9A_0000005 47.4 57.7 

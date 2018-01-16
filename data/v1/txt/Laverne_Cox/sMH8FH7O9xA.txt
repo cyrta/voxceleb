@@ -1,0 +1,9 @@
+POI: 			Laverne_Cox 
+Youtube ID: 	sMH8FH7O9xA 
+Video length: 	67.8 sec 
+Set (V): 		dev 
+ 
+Laverne_Cox/sMH8FH7O9xA_0000001 03.0 12.5 
+Laverne_Cox/sMH8FH7O9xA_0000002 19.3 25.2 
+Laverne_Cox/sMH8FH7O9xA_0000003 29.6 34.3 
+Laverne_Cox/sMH8FH7O9xA_0000004 41.8 46.7 

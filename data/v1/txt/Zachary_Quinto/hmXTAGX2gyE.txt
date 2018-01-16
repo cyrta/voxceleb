@@ -1,0 +1,15 @@
+POI: 			Zachary_Quinto 
+Youtube ID: 	hmXTAGX2gyE 
+Video length: 	626.7 sec 
+Set (V): 		dev 
+ 
+Zachary_Quinto/hmXTAGX2gyE_0000001 82.8 89.8 
+Zachary_Quinto/hmXTAGX2gyE_0000002 126.1 137.3 
+Zachary_Quinto/hmXTAGX2gyE_0000003 158.1 165.3 
+Zachary_Quinto/hmXTAGX2gyE_0000004 201.4 207.1 
+Zachary_Quinto/hmXTAGX2gyE_0000005 225.4 232.8 
+Zachary_Quinto/hmXTAGX2gyE_0000006 265.2 270.0 
+Zachary_Quinto/hmXTAGX2gyE_0000007 425.3 432.2 
+Zachary_Quinto/hmXTAGX2gyE_0000008 435.2 439.6 
+Zachary_Quinto/hmXTAGX2gyE_0000009 451.8 459.2 
+Zachary_Quinto/hmXTAGX2gyE_0000010 460.4 466.3 

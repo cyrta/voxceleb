@@ -1,0 +1,8 @@
+POI: 			John_Terry 
+Youtube ID: 	EQq4_JjHQXA 
+Video length: 	80.4 sec 
+Set (V): 		dev 
+ 
+John_Terry/EQq4_JjHQXA_0000001 15.8 36.4 
+John_Terry/EQq4_JjHQXA_0000002 36.6 49.0 
+John_Terry/EQq4_JjHQXA_0000003 61.9 68.5 

@@ -1,0 +1,7 @@
+POI: 			Chloe_Bennet 
+Youtube ID: 	gs-pzlRYlwg 
+Video length: 	338.5 sec 
+Set (V): 		dev 
+ 
+Chloe_Bennet/gs-pzlRYlwg_0000001 183.6 187.5 
+Chloe_Bennet/gs-pzlRYlwg_0000002 275.6 281.0 

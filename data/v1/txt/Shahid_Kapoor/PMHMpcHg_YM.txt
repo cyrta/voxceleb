@@ -1,0 +1,29 @@
+POI: 			Shahid_Kapoor 
+Youtube ID: 	PMHMpcHg_YM 
+Video length: 	1141.5 sec 
+Set (V): 		dev 
+ 
+Shahid_Kapoor/PMHMpcHg_YM_0000001 93.1 100.0 
+Shahid_Kapoor/PMHMpcHg_YM_0000002 108.1 113.1 
+Shahid_Kapoor/PMHMpcHg_YM_0000003 114.9 119.0 
+Shahid_Kapoor/PMHMpcHg_YM_0000004 120.2 125.6 
+Shahid_Kapoor/PMHMpcHg_YM_0000005 150.1 154.1 
+Shahid_Kapoor/PMHMpcHg_YM_0000006 170.4 176.2 
+Shahid_Kapoor/PMHMpcHg_YM_0000007 217.0 227.5 
+Shahid_Kapoor/PMHMpcHg_YM_0000008 257.4 264.6 
+Shahid_Kapoor/PMHMpcHg_YM_0000009 271.3 280.9 
+Shahid_Kapoor/PMHMpcHg_YM_0000010 299.4 303.7 
+Shahid_Kapoor/PMHMpcHg_YM_0000011 370.5 376.4 
+Shahid_Kapoor/PMHMpcHg_YM_0000012 444.7 453.6 
+Shahid_Kapoor/PMHMpcHg_YM_0000013 465.4 470.0 
+Shahid_Kapoor/PMHMpcHg_YM_0000014 594.8 598.8 
+Shahid_Kapoor/PMHMpcHg_YM_0000015 630.4 634.4 
+Shahid_Kapoor/PMHMpcHg_YM_0000016 697.2 701.5 
+Shahid_Kapoor/PMHMpcHg_YM_0000017 702.4 706.6 
+Shahid_Kapoor/PMHMpcHg_YM_0000018 757.6 762.2 
+Shahid_Kapoor/PMHMpcHg_YM_0000019 763.1 767.1 
+Shahid_Kapoor/PMHMpcHg_YM_0000020 792.6 798.2 
+Shahid_Kapoor/PMHMpcHg_YM_0000021 792.5 798.2 
+Shahid_Kapoor/PMHMpcHg_YM_0000022 958.0 963.2 
+Shahid_Kapoor/PMHMpcHg_YM_0000023 984.4 988.4 
+Shahid_Kapoor/PMHMpcHg_YM_0000024 1026.8 1031.3 

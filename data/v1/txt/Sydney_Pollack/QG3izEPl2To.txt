@@ -1,0 +1,11 @@
+POI: 			Sydney_Pollack 
+Youtube ID: 	QG3izEPl2To 
+Video length: 	153.6 sec 
+Set (V): 		dev 
+ 
+Sydney_Pollack/QG3izEPl2To_0000001 44.8 49.4 
+Sydney_Pollack/QG3izEPl2To_0000002 79.8 84.0 
+Sydney_Pollack/QG3izEPl2To_0000003 88.1 93.2 
+Sydney_Pollack/QG3izEPl2To_0000004 97.7 102.1 
+Sydney_Pollack/QG3izEPl2To_0000005 79.3 88.2 
+Sydney_Pollack/QG3izEPl2To_0000006 91.0 95.3 

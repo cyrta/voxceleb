@@ -1,0 +1,7 @@
+POI: 			Erik_Estrada 
+Youtube ID: 	9o3HnyKpHLM 
+Video length: 	708.7 sec 
+Set (V): 		test 
+ 
+Erik_Estrada/9o3HnyKpHLM_0000001 315.4 320.6 
+Erik_Estrada/9o3HnyKpHLM_0000002 439.5 444.7 

@@ -1,0 +1,8 @@
+POI: 			Paul_Feig 
+Youtube ID: 	nHuWlBltoyE 
+Video length: 	196.6 sec 
+Set (V): 		dev 
+ 
+Paul_Feig/nHuWlBltoyE_0000001 51.2 55.4 
+Paul_Feig/nHuWlBltoyE_0000002 55.9 60.7 
+Paul_Feig/nHuWlBltoyE_0000003 71.5 77.6 

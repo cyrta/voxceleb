@@ -1,0 +1,14 @@
+POI: 			Tom_Hiddleston 
+Youtube ID: 	9SU_D8T_D9c 
+Video length: 	240.4 sec 
+Set (V): 		dev 
+ 
+Tom_Hiddleston/9SU_D8T_D9c_0000001 20.4 32.6 
+Tom_Hiddleston/9SU_D8T_D9c_0000002 58.2 62.2 
+Tom_Hiddleston/9SU_D8T_D9c_0000003 63.6 69.4 
+Tom_Hiddleston/9SU_D8T_D9c_0000004 90.6 96.4 
+Tom_Hiddleston/9SU_D8T_D9c_0000005 109.2 115.9 
+Tom_Hiddleston/9SU_D8T_D9c_0000006 116.1 121.9 
+Tom_Hiddleston/9SU_D8T_D9c_0000007 126.4 130.7 
+Tom_Hiddleston/9SU_D8T_D9c_0000008 187.2 195.3 
+Tom_Hiddleston/9SU_D8T_D9c_0000009 195.7 210.5 

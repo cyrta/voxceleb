@@ -1,0 +1,7 @@
+POI: 			Sean_Maher 
+Youtube ID: 	F6PYrH_xnDM 
+Video length: 	259.0 sec 
+Set (V): 		dev 
+ 
+Sean_Maher/F6PYrH_xnDM_0000001 59.8 65.0 
+Sean_Maher/F6PYrH_xnDM_0000002 66.2 71.3 

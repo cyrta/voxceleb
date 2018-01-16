@@ -1,0 +1,9 @@
+POI: 			Meghan_Trainor 
+Youtube ID: 	HQ6UQLyZOIM 
+Video length: 	571.4 sec 
+Set (V): 		dev 
+ 
+Meghan_Trainor/HQ6UQLyZOIM_0000001 55.6 60.1 
+Meghan_Trainor/HQ6UQLyZOIM_0000002 94.1 100.5 
+Meghan_Trainor/HQ6UQLyZOIM_0000003 529.3 533.3 
+Meghan_Trainor/HQ6UQLyZOIM_0000004 533.5 537.6 

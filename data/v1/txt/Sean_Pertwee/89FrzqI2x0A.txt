@@ -1,0 +1,14 @@
+POI: 			Sean_Pertwee 
+Youtube ID: 	89FrzqI2x0A 
+Video length: 	242.0 sec 
+Set (V): 		dev 
+ 
+Sean_Pertwee/89FrzqI2x0A_0000001 09.8 15.2 
+Sean_Pertwee/89FrzqI2x0A_0000002 22.8 29.4 
+Sean_Pertwee/89FrzqI2x0A_0000003 42.2 46.6 
+Sean_Pertwee/89FrzqI2x0A_0000004 50.3 56.9 
+Sean_Pertwee/89FrzqI2x0A_0000005 68.7 74.2 
+Sean_Pertwee/89FrzqI2x0A_0000006 90.7 97.9 
+Sean_Pertwee/89FrzqI2x0A_0000007 105.4 111.0 
+Sean_Pertwee/89FrzqI2x0A_0000008 207.0 217.4 
+Sean_Pertwee/89FrzqI2x0A_0000009 220.4 229.2 

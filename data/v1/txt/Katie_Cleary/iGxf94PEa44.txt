@@ -1,0 +1,9 @@
+POI: 			Katie_Cleary 
+Youtube ID: 	iGxf94PEa44 
+Video length: 	42.0 sec 
+Set (V): 		dev 
+ 
+Katie_Cleary/iGxf94PEa44_0000001 03.2 10.2 
+Katie_Cleary/iGxf94PEa44_0000002 16.1 25.0 
+Katie_Cleary/iGxf94PEa44_0000003 25.2 29.4 
+Katie_Cleary/iGxf94PEa44_0000004 32.5 39.1 

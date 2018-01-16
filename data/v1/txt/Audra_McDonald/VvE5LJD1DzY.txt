@@ -1,0 +1,9 @@
+POI: 			Audra_McDonald 
+Youtube ID: 	VvE5LJD1DzY 
+Video length: 	200.8 sec 
+Set (V): 		dev 
+ 
+Audra_McDonald/VvE5LJD1DzY_0000001 35.3 39.9 
+Audra_McDonald/VvE5LJD1DzY_0000002 66.7 71.4 
+Audra_McDonald/VvE5LJD1DzY_0000003 126.5 135.4 
+Audra_McDonald/VvE5LJD1DzY_0000004 160.7 178.2 

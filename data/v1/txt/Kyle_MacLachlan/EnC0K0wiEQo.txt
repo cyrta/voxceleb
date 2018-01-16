@@ -1,0 +1,7 @@
+POI: 			Kyle_MacLachlan 
+Youtube ID: 	EnC0K0wiEQo 
+Video length: 	1636.5 sec 
+Set (V): 		dev 
+ 
+Kyle_MacLachlan/EnC0K0wiEQo_0000001 345.5 349.5 
+Kyle_MacLachlan/EnC0K0wiEQo_0000002 1086.5 1091.1 

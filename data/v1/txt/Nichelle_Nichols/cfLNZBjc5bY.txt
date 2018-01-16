@@ -1,0 +1,13 @@
+POI: 			Nichelle_Nichols 
+Youtube ID: 	cfLNZBjc5bY 
+Video length: 	138.4 sec 
+Set (V): 		dev 
+ 
+Nichelle_Nichols/cfLNZBjc5bY_0000001 07.7 13.0 
+Nichelle_Nichols/cfLNZBjc5bY_0000002 20.0 24.1 
+Nichelle_Nichols/cfLNZBjc5bY_0000003 33.2 45.9 
+Nichelle_Nichols/cfLNZBjc5bY_0000004 53.9 64.1 
+Nichelle_Nichols/cfLNZBjc5bY_0000005 66.8 72.5 
+Nichelle_Nichols/cfLNZBjc5bY_0000006 78.3 91.2 
+Nichelle_Nichols/cfLNZBjc5bY_0000007 96.2 103.2 
+Nichelle_Nichols/cfLNZBjc5bY_0000008 113.9 118.1 

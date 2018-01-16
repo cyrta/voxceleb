@@ -1,0 +1,17 @@
+POI: 			Bear_Grylls 
+Youtube ID: 	6x6ZSpvDezc 
+Video length: 	501.3 sec 
+Set (V): 		dev 
+ 
+Bear_Grylls/6x6ZSpvDezc_0000001 55.4 82.3 
+Bear_Grylls/6x6ZSpvDezc_0000002 83.5 88.8 
+Bear_Grylls/6x6ZSpvDezc_0000003 96.8 133.0 
+Bear_Grylls/6x6ZSpvDezc_0000004 143.3 158.0 
+Bear_Grylls/6x6ZSpvDezc_0000005 159.8 168.4 
+Bear_Grylls/6x6ZSpvDezc_0000006 211.4 232.5 
+Bear_Grylls/6x6ZSpvDezc_0000007 289.9 294.2 
+Bear_Grylls/6x6ZSpvDezc_0000008 294.8 307.5 
+Bear_Grylls/6x6ZSpvDezc_0000009 429.8 435.8 
+Bear_Grylls/6x6ZSpvDezc_0000010 450.7 468.0 
+Bear_Grylls/6x6ZSpvDezc_0000011 461.4 468.2 
+Bear_Grylls/6x6ZSpvDezc_0000012 469.0 476.3 

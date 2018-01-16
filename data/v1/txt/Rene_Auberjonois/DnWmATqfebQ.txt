@@ -1,0 +1,10 @@
+POI: 			Rene_Auberjonois 
+Youtube ID: 	DnWmATqfebQ 
+Video length: 	340.5 sec 
+Set (V): 		dev 
+ 
+Rene_Auberjonois/DnWmATqfebQ_0000001 175.9 187.6 
+Rene_Auberjonois/DnWmATqfebQ_0000002 210.5 215.6 
+Rene_Auberjonois/DnWmATqfebQ_0000003 216.3 220.6 
+Rene_Auberjonois/DnWmATqfebQ_0000004 270.6 287.2 
+Rene_Auberjonois/DnWmATqfebQ_0000005 295.5 303.2 

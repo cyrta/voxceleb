@@ -1,0 +1,27 @@
+POI: 			Louis_C.K. 
+Youtube ID: 	fnCgpj9eppQ 
+Video length: 	1038.2 sec 
+Set (V): 		dev 
+ 
+Louis_C.K./fnCgpj9eppQ_0000001 54.2 60.4 
+Louis_C.K./fnCgpj9eppQ_0000002 71.4 79.8 
+Louis_C.K./fnCgpj9eppQ_0000003 121.4 134.9 
+Louis_C.K./fnCgpj9eppQ_0000004 155.6 162.7 
+Louis_C.K./fnCgpj9eppQ_0000005 199.9 204.9 
+Louis_C.K./fnCgpj9eppQ_0000006 205.9 211.0 
+Louis_C.K./fnCgpj9eppQ_0000007 338.4 345.2 
+Louis_C.K./fnCgpj9eppQ_0000008 405.2 409.6 
+Louis_C.K./fnCgpj9eppQ_0000009 496.9 502.3 
+Louis_C.K./fnCgpj9eppQ_0000010 574.3 581.5 
+Louis_C.K./fnCgpj9eppQ_0000011 621.8 638.8 
+Louis_C.K./fnCgpj9eppQ_0000012 641.5 646.4 
+Louis_C.K./fnCgpj9eppQ_0000013 657.1 666.0 
+Louis_C.K./fnCgpj9eppQ_0000014 667.2 677.5 
+Louis_C.K./fnCgpj9eppQ_0000015 737.9 747.5 
+Louis_C.K./fnCgpj9eppQ_0000016 760.0 766.2 
+Louis_C.K./fnCgpj9eppQ_0000017 792.6 799.3 
+Louis_C.K./fnCgpj9eppQ_0000018 854.0 858.5 
+Louis_C.K./fnCgpj9eppQ_0000019 886.8 892.3 
+Louis_C.K./fnCgpj9eppQ_0000020 936.6 941.0 
+Louis_C.K./fnCgpj9eppQ_0000021 970.6 974.8 
+Louis_C.K./fnCgpj9eppQ_0000022 986.3 996.7 

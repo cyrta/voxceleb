@@ -1,0 +1,16 @@
+POI: 			Will_Forte 
+Youtube ID: 	7TIVcafjRy8 
+Video length: 	189.3 sec 
+Set (V): 		dev 
+ 
+Will_Forte/7TIVcafjRy8_0000001 23.0 35.4 
+Will_Forte/7TIVcafjRy8_0000002 36.2 40.6 
+Will_Forte/7TIVcafjRy8_0000003 41.2 49.1 
+Will_Forte/7TIVcafjRy8_0000004 52.0 67.1 
+Will_Forte/7TIVcafjRy8_0000005 71.5 78.4 
+Will_Forte/7TIVcafjRy8_0000006 84.1 95.4 
+Will_Forte/7TIVcafjRy8_0000007 100.6 105.2 
+Will_Forte/7TIVcafjRy8_0000008 116.0 122.8 
+Will_Forte/7TIVcafjRy8_0000009 117.7 121.9 
+Will_Forte/7TIVcafjRy8_0000010 134.3 139.0 
+Will_Forte/7TIVcafjRy8_0000011 169.5 183.1 

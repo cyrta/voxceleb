@@ -1,0 +1,13 @@
+POI: 			Kristen_Johnston 
+Youtube ID: 	fAOVuWsi2Lw 
+Video length: 	168.6 sec 
+Set (V): 		dev 
+ 
+Kristen_Johnston/fAOVuWsi2Lw_0000001 33.8 49.2 
+Kristen_Johnston/fAOVuWsi2Lw_0000002 68.8 76.1 
+Kristen_Johnston/fAOVuWsi2Lw_0000003 78.1 91.8 
+Kristen_Johnston/fAOVuWsi2Lw_0000004 98.5 109.6 
+Kristen_Johnston/fAOVuWsi2Lw_0000005 124.5 129.8 
+Kristen_Johnston/fAOVuWsi2Lw_0000006 131.6 137.5 
+Kristen_Johnston/fAOVuWsi2Lw_0000007 144.0 150.6 
+Kristen_Johnston/fAOVuWsi2Lw_0000008 152.7 158.0 

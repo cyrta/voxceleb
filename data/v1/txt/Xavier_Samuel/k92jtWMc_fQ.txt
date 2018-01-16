@@ -1,0 +1,16 @@
+POI: 			Xavier_Samuel 
+Youtube ID: 	k92jtWMc_fQ 
+Video length: 	370.4 sec 
+Set (V): 		dev 
+ 
+Xavier_Samuel/k92jtWMc_fQ_0000001 17.5 22.8 
+Xavier_Samuel/k92jtWMc_fQ_0000002 57.2 61.9 
+Xavier_Samuel/k92jtWMc_fQ_0000003 131.9 137.3 
+Xavier_Samuel/k92jtWMc_fQ_0000004 138.4 144.6 
+Xavier_Samuel/k92jtWMc_fQ_0000005 157.9 162.4 
+Xavier_Samuel/k92jtWMc_fQ_0000006 162.6 170.1 
+Xavier_Samuel/k92jtWMc_fQ_0000007 233.1 240.8 
+Xavier_Samuel/k92jtWMc_fQ_0000008 258.2 264.1 
+Xavier_Samuel/k92jtWMc_fQ_0000009 312.1 316.3 
+Xavier_Samuel/k92jtWMc_fQ_0000010 320.5 324.7 
+Xavier_Samuel/k92jtWMc_fQ_0000011 361.3 365.3 

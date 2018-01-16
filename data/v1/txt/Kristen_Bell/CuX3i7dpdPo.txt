@@ -1,0 +1,8 @@
+POI: 			Kristen_Bell 
+Youtube ID: 	CuX3i7dpdPo 
+Video length: 	399.3 sec 
+Set (V): 		dev 
+ 
+Kristen_Bell/CuX3i7dpdPo_0000001 131.8 138.2 
+Kristen_Bell/CuX3i7dpdPo_0000002 234.3 238.6 
+Kristen_Bell/CuX3i7dpdPo_0000003 375.1 379.4 

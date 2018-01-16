@@ -1,0 +1,9 @@
+POI: 			Olivia_Munn 
+Youtube ID: 	hlRq4AES-YQ 
+Video length: 	331.6 sec 
+Set (V): 		dev 
+ 
+Olivia_Munn/hlRq4AES-YQ_0000001 28.7 33.7 
+Olivia_Munn/hlRq4AES-YQ_0000002 106.2 119.6 
+Olivia_Munn/hlRq4AES-YQ_0000003 187.6 194.2 
+Olivia_Munn/hlRq4AES-YQ_0000004 281.4 291.5 

@@ -1,0 +1,10 @@
+POI: 			Kate_Walsh 
+Youtube ID: 	OODAmigQ1Z4 
+Video length: 	268.2 sec 
+Set (V): 		dev 
+ 
+Kate_Walsh/OODAmigQ1Z4_0000001 186.9 195.0 
+Kate_Walsh/OODAmigQ1Z4_0000002 196.4 207.9 
+Kate_Walsh/OODAmigQ1Z4_0000003 222.3 226.8 
+Kate_Walsh/OODAmigQ1Z4_0000004 227.9 238.1 
+Kate_Walsh/OODAmigQ1Z4_0000005 239.0 252.0 

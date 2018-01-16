@@ -1,0 +1,37 @@
+POI: 			Miley_Cyrus 
+Youtube ID: 	jkyyjMqdck4 
+Video length: 	775.4 sec 
+Set (V): 		dev 
+ 
+Miley_Cyrus/jkyyjMqdck4_0000001 38.7 47.8 
+Miley_Cyrus/jkyyjMqdck4_0000002 53.6 57.7 
+Miley_Cyrus/jkyyjMqdck4_0000003 65.0 73.8 
+Miley_Cyrus/jkyyjMqdck4_0000004 96.0 118.1 
+Miley_Cyrus/jkyyjMqdck4_0000005 132.6 140.1 
+Miley_Cyrus/jkyyjMqdck4_0000006 149.4 159.6 
+Miley_Cyrus/jkyyjMqdck4_0000007 161.4 176.0 
+Miley_Cyrus/jkyyjMqdck4_0000008 176.1 187.5 
+Miley_Cyrus/jkyyjMqdck4_0000009 208.6 224.5 
+Miley_Cyrus/jkyyjMqdck4_0000010 230.9 235.0 
+Miley_Cyrus/jkyyjMqdck4_0000011 269.6 277.2 
+Miley_Cyrus/jkyyjMqdck4_0000012 287.0 296.4 
+Miley_Cyrus/jkyyjMqdck4_0000013 298.1 302.4 
+Miley_Cyrus/jkyyjMqdck4_0000014 316.8 332.6 
+Miley_Cyrus/jkyyjMqdck4_0000015 352.0 368.6 
+Miley_Cyrus/jkyyjMqdck4_0000016 375.8 392.3 
+Miley_Cyrus/jkyyjMqdck4_0000017 393.4 408.1 
+Miley_Cyrus/jkyyjMqdck4_0000018 421.9 430.2 
+Miley_Cyrus/jkyyjMqdck4_0000019 430.9 435.7 
+Miley_Cyrus/jkyyjMqdck4_0000020 437.6 443.2 
+Miley_Cyrus/jkyyjMqdck4_0000021 446.9 460.0 
+Miley_Cyrus/jkyyjMqdck4_0000022 461.4 477.1 
+Miley_Cyrus/jkyyjMqdck4_0000023 485.2 489.7 
+Miley_Cyrus/jkyyjMqdck4_0000024 499.8 505.2 
+Miley_Cyrus/jkyyjMqdck4_0000025 529.2 537.1 
+Miley_Cyrus/jkyyjMqdck4_0000026 547.2 580.4 
+Miley_Cyrus/jkyyjMqdck4_0000027 586.8 595.3 
+Miley_Cyrus/jkyyjMqdck4_0000028 608.0 632.1 
+Miley_Cyrus/jkyyjMqdck4_0000029 640.2 672.4 
+Miley_Cyrus/jkyyjMqdck4_0000030 681.2 693.8 
+Miley_Cyrus/jkyyjMqdck4_0000031 703.2 711.2 
+Miley_Cyrus/jkyyjMqdck4_0000032 729.9 770.9 

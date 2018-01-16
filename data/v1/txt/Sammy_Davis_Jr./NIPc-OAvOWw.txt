@@ -1,0 +1,12 @@
+POI: 			Sammy_Davis_Jr. 
+Youtube ID: 	NIPc-OAvOWw 
+Video length: 	621.3 sec 
+Set (V): 		dev 
+ 
+Sammy_Davis_Jr./NIPc-OAvOWw_0000001 105.2 110.6 
+Sammy_Davis_Jr./NIPc-OAvOWw_0000002 124.9 129.0 
+Sammy_Davis_Jr./NIPc-OAvOWw_0000003 171.3 177.6 
+Sammy_Davis_Jr./NIPc-OAvOWw_0000004 209.8 214.1 
+Sammy_Davis_Jr./NIPc-OAvOWw_0000005 233.3 244.2 
+Sammy_Davis_Jr./NIPc-OAvOWw_0000006 257.5 267.0 
+Sammy_Davis_Jr./NIPc-OAvOWw_0000007 297.4 308.1 

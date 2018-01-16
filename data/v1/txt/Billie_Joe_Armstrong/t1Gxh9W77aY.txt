@@ -1,0 +1,12 @@
+POI: 			Billie_Joe_Armstrong 
+Youtube ID: 	t1Gxh9W77aY 
+Video length: 	523.5 sec 
+Set (V): 		dev 
+ 
+Billie_Joe_Armstrong/t1Gxh9W77aY_0000001 74.0 82.8 
+Billie_Joe_Armstrong/t1Gxh9W77aY_0000002 90.3 95.0 
+Billie_Joe_Armstrong/t1Gxh9W77aY_0000003 100.3 108.3 
+Billie_Joe_Armstrong/t1Gxh9W77aY_0000004 136.4 141.0 
+Billie_Joe_Armstrong/t1Gxh9W77aY_0000005 215.9 220.0 
+Billie_Joe_Armstrong/t1Gxh9W77aY_0000006 349.6 353.9 
+Billie_Joe_Armstrong/t1Gxh9W77aY_0000007 368.0 372.6 

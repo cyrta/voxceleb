@@ -1,0 +1,7 @@
+POI: 			Laura_Carmichael 
+Youtube ID: 	T5vv5uMHh0E 
+Video length: 	349.1 sec 
+Set (V): 		dev 
+ 
+Laura_Carmichael/T5vv5uMHh0E_0000001 187.2 192.4 
+Laura_Carmichael/T5vv5uMHh0E_0000002 193.5 200.6 

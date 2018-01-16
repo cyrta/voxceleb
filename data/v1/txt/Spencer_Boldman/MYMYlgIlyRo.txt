@@ -1,0 +1,22 @@
+POI: 			Spencer_Boldman 
+Youtube ID: 	MYMYlgIlyRo 
+Video length: 	347.2 sec 
+Set (V): 		dev 
+ 
+Spencer_Boldman/MYMYlgIlyRo_0000001 11.8 24.3 
+Spencer_Boldman/MYMYlgIlyRo_0000002 24.5 36.0 
+Spencer_Boldman/MYMYlgIlyRo_0000003 37.0 46.8 
+Spencer_Boldman/MYMYlgIlyRo_0000004 53.4 62.4 
+Spencer_Boldman/MYMYlgIlyRo_0000005 71.0 80.4 
+Spencer_Boldman/MYMYlgIlyRo_0000006 88.3 92.6 
+Spencer_Boldman/MYMYlgIlyRo_0000007 93.2 100.9 
+Spencer_Boldman/MYMYlgIlyRo_0000008 124.0 134.3 
+Spencer_Boldman/MYMYlgIlyRo_0000009 134.6 144.9 
+Spencer_Boldman/MYMYlgIlyRo_0000010 172.5 191.6 
+Spencer_Boldman/MYMYlgIlyRo_0000011 179.4 190.5 
+Spencer_Boldman/MYMYlgIlyRo_0000012 193.4 198.9 
+Spencer_Boldman/MYMYlgIlyRo_0000013 221.2 236.3 
+Spencer_Boldman/MYMYlgIlyRo_0000014 248.2 267.2 
+Spencer_Boldman/MYMYlgIlyRo_0000015 267.9 291.2 
+Spencer_Boldman/MYMYlgIlyRo_0000016 297.6 303.5 
+Spencer_Boldman/MYMYlgIlyRo_0000017 308.3 312.4 

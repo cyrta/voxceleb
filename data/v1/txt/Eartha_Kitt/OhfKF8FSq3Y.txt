@@ -1,0 +1,13 @@
+POI: 			Eartha_Kitt 
+Youtube ID: 	OhfKF8FSq3Y 
+Video length: 	1030.1 sec 
+Set (V): 		test 
+ 
+Eartha_Kitt/OhfKF8FSq3Y_0000001 269.8 277.5 
+Eartha_Kitt/OhfKF8FSq3Y_0000002 350.0 354.3 
+Eartha_Kitt/OhfKF8FSq3Y_0000003 578.5 582.5 
+Eartha_Kitt/OhfKF8FSq3Y_0000004 632.0 636.5 
+Eartha_Kitt/OhfKF8FSq3Y_0000005 650.4 654.9 
+Eartha_Kitt/OhfKF8FSq3Y_0000006 772.9 777.0 
+Eartha_Kitt/OhfKF8FSq3Y_0000007 791.7 796.3 
+Eartha_Kitt/OhfKF8FSq3Y_0000008 944.4 949.6 

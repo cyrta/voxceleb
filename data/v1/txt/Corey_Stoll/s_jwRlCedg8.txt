@@ -1,0 +1,8 @@
+POI: 			Corey_Stoll 
+Youtube ID: 	s_jwRlCedg8 
+Video length: 	127.8 sec 
+Set (V): 		dev 
+ 
+Corey_Stoll/s_jwRlCedg8_0000001 25.0 29.3 
+Corey_Stoll/s_jwRlCedg8_0000002 75.1 81.4 
+Corey_Stoll/s_jwRlCedg8_0000003 88.7 95.4 

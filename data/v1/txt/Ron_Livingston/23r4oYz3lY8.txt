@@ -1,0 +1,7 @@
+POI: 			Ron_Livingston 
+Youtube ID: 	23r4oYz3lY8 
+Video length: 	318.4 sec 
+Set (V): 		dev 
+ 
+Ron_Livingston/23r4oYz3lY8_0000001 36.9 41.6 
+Ron_Livingston/23r4oYz3lY8_0000002 104.1 108.8 

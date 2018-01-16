@@ -1,0 +1,11 @@
+POI: 			David_Mazouz 
+Youtube ID: 	jfNj_OTQzOo 
+Video length: 	405.1 sec 
+Set (V): 		dev 
+ 
+David_Mazouz/jfNj_OTQzOo_0000001 28.4 38.7 
+David_Mazouz/jfNj_OTQzOo_0000002 67.0 71.1 
+David_Mazouz/jfNj_OTQzOo_0000003 162.2 170.0 
+David_Mazouz/jfNj_OTQzOo_0000004 282.2 290.8 
+David_Mazouz/jfNj_OTQzOo_0000005 291.1 295.4 
+David_Mazouz/jfNj_OTQzOo_0000006 298.0 304.0 

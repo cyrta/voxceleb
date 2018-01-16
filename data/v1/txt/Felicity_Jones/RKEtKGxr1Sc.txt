@@ -1,0 +1,10 @@
+POI: 			Felicity_Jones 
+Youtube ID: 	RKEtKGxr1Sc 
+Video length: 	205.5 sec 
+Set (V): 		dev 
+ 
+Felicity_Jones/RKEtKGxr1Sc_0000001 22.0 43.2 
+Felicity_Jones/RKEtKGxr1Sc_0000002 112.0 118.4 
+Felicity_Jones/RKEtKGxr1Sc_0000003 122.8 128.9 
+Felicity_Jones/RKEtKGxr1Sc_0000004 159.0 166.6 
+Felicity_Jones/RKEtKGxr1Sc_0000005 171.7 186.6 

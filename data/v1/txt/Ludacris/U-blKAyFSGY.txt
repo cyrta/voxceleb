@@ -1,0 +1,11 @@
+POI: 			Ludacris 
+Youtube ID: 	U-blKAyFSGY 
+Video length: 	469.0 sec 
+Set (V): 		dev 
+ 
+Ludacris/U-blKAyFSGY_0000001 52.6 57.3 
+Ludacris/U-blKAyFSGY_0000002 143.2 148.2 
+Ludacris/U-blKAyFSGY_0000003 227.6 234.2 
+Ludacris/U-blKAyFSGY_0000004 271.2 286.4 
+Ludacris/U-blKAyFSGY_0000005 334.6 342.4 
+Ludacris/U-blKAyFSGY_0000006 394.6 400.2 

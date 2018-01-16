@@ -1,0 +1,13 @@
+POI: 			Rob_Riggle 
+Youtube ID: 	el7PWl4u2C4 
+Video length: 	242.6 sec 
+Set (V): 		dev 
+ 
+Rob_Riggle/el7PWl4u2C4_0000001 54.7 64.7 
+Rob_Riggle/el7PWl4u2C4_0000002 77.0 81.8 
+Rob_Riggle/el7PWl4u2C4_0000003 83.7 96.0 
+Rob_Riggle/el7PWl4u2C4_0000004 98.9 103.0 
+Rob_Riggle/el7PWl4u2C4_0000005 150.0 157.5 
+Rob_Riggle/el7PWl4u2C4_0000006 157.6 163.3 
+Rob_Riggle/el7PWl4u2C4_0000007 197.7 205.8 
+Rob_Riggle/el7PWl4u2C4_0000008 224.5 229.3 

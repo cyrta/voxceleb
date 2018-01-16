@@ -1,0 +1,11 @@
+POI: 			Serinda_Swan 
+Youtube ID: 	KbqMSVvC8PY 
+Video length: 	194.7 sec 
+Set (V): 		dev 
+ 
+Serinda_Swan/KbqMSVvC8PY_0000001 07.9 16.9 
+Serinda_Swan/KbqMSVvC8PY_0000002 22.2 32.2 
+Serinda_Swan/KbqMSVvC8PY_0000003 67.4 74.3 
+Serinda_Swan/KbqMSVvC8PY_0000004 78.3 88.1 
+Serinda_Swan/KbqMSVvC8PY_0000005 104.8 118.2 
+Serinda_Swan/KbqMSVvC8PY_0000006 166.3 178.2 

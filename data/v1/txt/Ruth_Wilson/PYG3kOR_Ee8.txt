@@ -1,0 +1,14 @@
+POI: 			Ruth_Wilson 
+Youtube ID: 	PYG3kOR_Ee8 
+Video length: 	206.8 sec 
+Set (V): 		dev 
+ 
+Ruth_Wilson/PYG3kOR_Ee8_0000001 13.4 17.9 
+Ruth_Wilson/PYG3kOR_Ee8_0000002 18.8 23.0 
+Ruth_Wilson/PYG3kOR_Ee8_0000003 23.6 39.1 
+Ruth_Wilson/PYG3kOR_Ee8_0000004 60.6 65.0 
+Ruth_Wilson/PYG3kOR_Ee8_0000005 102.7 120.6 
+Ruth_Wilson/PYG3kOR_Ee8_0000006 130.3 139.3 
+Ruth_Wilson/PYG3kOR_Ee8_0000007 139.9 143.9 
+Ruth_Wilson/PYG3kOR_Ee8_0000008 175.1 188.9 
+Ruth_Wilson/PYG3kOR_Ee8_0000009 189.1 199.0 

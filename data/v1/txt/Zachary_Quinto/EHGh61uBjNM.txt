@@ -1,0 +1,11 @@
+POI: 			Zachary_Quinto 
+Youtube ID: 	EHGh61uBjNM 
+Video length: 	229.5 sec 
+Set (V): 		dev 
+ 
+Zachary_Quinto/EHGh61uBjNM_0000001 11.0 19.3 
+Zachary_Quinto/EHGh61uBjNM_0000002 19.9 26.3 
+Zachary_Quinto/EHGh61uBjNM_0000003 85.2 92.2 
+Zachary_Quinto/EHGh61uBjNM_0000004 117.2 125.7 
+Zachary_Quinto/EHGh61uBjNM_0000005 137.6 154.6 
+Zachary_Quinto/EHGh61uBjNM_0000006 162.4 177.1 

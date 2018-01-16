@@ -1,0 +1,14 @@
+POI: 			Peter_Berg 
+Youtube ID: 	EG6PW_dSnk8 
+Video length: 	1075.1 sec 
+Set (V): 		dev 
+ 
+Peter_Berg/EG6PW_dSnk8_0000001 178.0 202.8 
+Peter_Berg/EG6PW_dSnk8_0000002 264.9 271.0 
+Peter_Berg/EG6PW_dSnk8_0000003 271.4 278.5 
+Peter_Berg/EG6PW_dSnk8_0000004 283.1 287.3 
+Peter_Berg/EG6PW_dSnk8_0000005 685.7 701.4 
+Peter_Berg/EG6PW_dSnk8_0000006 704.6 718.3 
+Peter_Berg/EG6PW_dSnk8_0000007 813.3 817.9 
+Peter_Berg/EG6PW_dSnk8_0000008 851.4 858.2 
+Peter_Berg/EG6PW_dSnk8_0000009 952.4 956.7 

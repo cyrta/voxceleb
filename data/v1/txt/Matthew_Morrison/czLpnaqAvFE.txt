@@ -1,0 +1,10 @@
+POI: 			Matthew_Morrison 
+Youtube ID: 	czLpnaqAvFE 
+Video length: 	867.4 sec 
+Set (V): 		dev 
+ 
+Matthew_Morrison/czLpnaqAvFE_0000001 495.8 501.8 
+Matthew_Morrison/czLpnaqAvFE_0000002 503.2 519.7 
+Matthew_Morrison/czLpnaqAvFE_0000003 522.7 527.4 
+Matthew_Morrison/czLpnaqAvFE_0000004 579.8 584.2 
+Matthew_Morrison/czLpnaqAvFE_0000005 732.6 739.3 

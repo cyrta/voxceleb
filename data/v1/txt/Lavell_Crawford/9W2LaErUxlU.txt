@@ -1,0 +1,12 @@
+POI: 			Lavell_Crawford 
+Youtube ID: 	9W2LaErUxlU 
+Video length: 	351.3 sec 
+Set (V): 		dev 
+ 
+Lavell_Crawford/9W2LaErUxlU_0000001 44.6 49.0 
+Lavell_Crawford/9W2LaErUxlU_0000002 104.2 110.4 
+Lavell_Crawford/9W2LaErUxlU_0000003 147.9 154.6 
+Lavell_Crawford/9W2LaErUxlU_0000004 199.7 203.8 
+Lavell_Crawford/9W2LaErUxlU_0000005 206.0 210.0 
+Lavell_Crawford/9W2LaErUxlU_0000006 238.5 242.7 
+Lavell_Crawford/9W2LaErUxlU_0000007 312.2 317.6 

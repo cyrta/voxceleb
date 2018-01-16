@@ -1,0 +1,8 @@
+POI: 			Katy_Perry 
+Youtube ID: 	m3ruBhDHedU 
+Video length: 	225.5 sec 
+Set (V): 		dev 
+ 
+Katy_Perry/m3ruBhDHedU_0000001 47.4 51.4 
+Katy_Perry/m3ruBhDHedU_0000002 128.9 134.8 
+Katy_Perry/m3ruBhDHedU_0000003 172.0 180.8 

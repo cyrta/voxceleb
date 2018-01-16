@@ -1,0 +1,10 @@
+POI: 			Noel_Fielding 
+Youtube ID: 	u8f1n_vugFg 
+Video length: 	567.2 sec 
+Set (V): 		dev 
+ 
+Noel_Fielding/u8f1n_vugFg_0000001 198.1 205.5 
+Noel_Fielding/u8f1n_vugFg_0000002 320.4 325.7 
+Noel_Fielding/u8f1n_vugFg_0000003 383.6 388.0 
+Noel_Fielding/u8f1n_vugFg_0000004 508.7 516.5 
+Noel_Fielding/u8f1n_vugFg_0000005 521.2 529.8 

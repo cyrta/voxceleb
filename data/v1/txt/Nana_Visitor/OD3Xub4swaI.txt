@@ -1,0 +1,8 @@
+POI: 			Nana_Visitor 
+Youtube ID: 	OD3Xub4swaI 
+Video length: 	212.6 sec 
+Set (V): 		dev 
+ 
+Nana_Visitor/OD3Xub4swaI_0000001 17.4 22.6 
+Nana_Visitor/OD3Xub4swaI_0000002 57.5 61.6 
+Nana_Visitor/OD3Xub4swaI_0000003 67.8 73.4 

@@ -1,0 +1,8 @@
+POI: 			Thomas_Haden_Church 
+Youtube ID: 	YeABZ3AWr5k 
+Video length: 	241.3 sec 
+Set (V): 		dev 
+ 
+Thomas_Haden_Church/YeABZ3AWr5k_0000001 43.7 48.2 
+Thomas_Haden_Church/YeABZ3AWr5k_0000002 51.4 68.7 
+Thomas_Haden_Church/YeABZ3AWr5k_0000003 157.6 164.2 

@@ -1,0 +1,11 @@
+POI: 			James_Frain 
+Youtube ID: 	p-u3K3BC52Q 
+Video length: 	156.6 sec 
+Set (V): 		dev 
+ 
+James_Frain/p-u3K3BC52Q_0000001 15.0 35.8 
+James_Frain/p-u3K3BC52Q_0000002 36.2 51.0 
+James_Frain/p-u3K3BC52Q_0000003 73.6 77.7 
+James_Frain/p-u3K3BC52Q_0000004 116.4 120.5 
+James_Frain/p-u3K3BC52Q_0000005 115.8 120.5 
+James_Frain/p-u3K3BC52Q_0000006 138.1 151.6 

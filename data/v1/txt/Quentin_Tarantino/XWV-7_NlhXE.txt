@@ -1,0 +1,42 @@
+POI: 			Quentin_Tarantino 
+Youtube ID: 	XWV-7_NlhXE 
+Video length: 	915.7 sec 
+Set (V): 		dev 
+ 
+Quentin_Tarantino/XWV-7_NlhXE_0000001 16.5 30.1 
+Quentin_Tarantino/XWV-7_NlhXE_0000002 36.2 60.0 
+Quentin_Tarantino/XWV-7_NlhXE_0000003 90.4 95.5 
+Quentin_Tarantino/XWV-7_NlhXE_0000004 97.6 103.2 
+Quentin_Tarantino/XWV-7_NlhXE_0000005 105.4 113.8 
+Quentin_Tarantino/XWV-7_NlhXE_0000006 151.2 155.8 
+Quentin_Tarantino/XWV-7_NlhXE_0000007 157.8 169.2 
+Quentin_Tarantino/XWV-7_NlhXE_0000008 195.5 202.8 
+Quentin_Tarantino/XWV-7_NlhXE_0000009 255.6 263.2 
+Quentin_Tarantino/XWV-7_NlhXE_0000010 314.0 318.8 
+Quentin_Tarantino/XWV-7_NlhXE_0000011 337.3 342.0 
+Quentin_Tarantino/XWV-7_NlhXE_0000012 362.2 366.1 
+Quentin_Tarantino/XWV-7_NlhXE_0000013 375.1 382.5 
+Quentin_Tarantino/XWV-7_NlhXE_0000014 385.6 391.2 
+Quentin_Tarantino/XWV-7_NlhXE_0000015 397.1 403.9 
+Quentin_Tarantino/XWV-7_NlhXE_0000016 406.0 411.0 
+Quentin_Tarantino/XWV-7_NlhXE_0000017 455.2 474.2 
+Quentin_Tarantino/XWV-7_NlhXE_0000018 492.6 502.2 
+Quentin_Tarantino/XWV-7_NlhXE_0000019 509.0 513.8 
+Quentin_Tarantino/XWV-7_NlhXE_0000020 564.9 572.9 
+Quentin_Tarantino/XWV-7_NlhXE_0000021 573.0 581.1 
+Quentin_Tarantino/XWV-7_NlhXE_0000022 582.9 591.4 
+Quentin_Tarantino/XWV-7_NlhXE_0000023 592.1 598.7 
+Quentin_Tarantino/XWV-7_NlhXE_0000024 633.2 638.7 
+Quentin_Tarantino/XWV-7_NlhXE_0000025 640.7 646.6 
+Quentin_Tarantino/XWV-7_NlhXE_0000026 661.3 669.1 
+Quentin_Tarantino/XWV-7_NlhXE_0000027 663.5 682.0 
+Quentin_Tarantino/XWV-7_NlhXE_0000028 697.7 701.8 
+Quentin_Tarantino/XWV-7_NlhXE_0000029 724.2 728.4 
+Quentin_Tarantino/XWV-7_NlhXE_0000030 736.6 742.5 
+Quentin_Tarantino/XWV-7_NlhXE_0000031 750.8 761.4 
+Quentin_Tarantino/XWV-7_NlhXE_0000032 771.9 778.6 
+Quentin_Tarantino/XWV-7_NlhXE_0000033 780.6 789.3 
+Quentin_Tarantino/XWV-7_NlhXE_0000034 819.0 824.0 
+Quentin_Tarantino/XWV-7_NlhXE_0000035 837.1 850.5 
+Quentin_Tarantino/XWV-7_NlhXE_0000036 862.3 881.3 
+Quentin_Tarantino/XWV-7_NlhXE_0000037 887.1 904.0 

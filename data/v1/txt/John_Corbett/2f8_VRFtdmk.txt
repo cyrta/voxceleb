@@ -1,0 +1,20 @@
+POI: 			John_Corbett 
+Youtube ID: 	2f8_VRFtdmk 
+Video length: 	263.3 sec 
+Set (V): 		dev 
+ 
+John_Corbett/2f8_VRFtdmk_0000001 04.2 08.9 
+John_Corbett/2f8_VRFtdmk_0000002 29.0 45.0 
+John_Corbett/2f8_VRFtdmk_0000003 46.8 51.2 
+John_Corbett/2f8_VRFtdmk_0000004 52.5 75.3 
+John_Corbett/2f8_VRFtdmk_0000005 80.7 92.4 
+John_Corbett/2f8_VRFtdmk_0000006 93.6 106.6 
+John_Corbett/2f8_VRFtdmk_0000007 116.1 128.9 
+John_Corbett/2f8_VRFtdmk_0000008 132.5 140.4 
+John_Corbett/2f8_VRFtdmk_0000009 146.8 159.1 
+John_Corbett/2f8_VRFtdmk_0000010 164.4 179.2 
+John_Corbett/2f8_VRFtdmk_0000011 182.5 191.7 
+John_Corbett/2f8_VRFtdmk_0000012 200.0 208.7 
+John_Corbett/2f8_VRFtdmk_0000013 212.4 218.8 
+John_Corbett/2f8_VRFtdmk_0000014 220.6 226.0 
+John_Corbett/2f8_VRFtdmk_0000015 243.3 247.9 

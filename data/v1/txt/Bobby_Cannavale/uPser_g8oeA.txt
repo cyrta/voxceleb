@@ -1,0 +1,24 @@
+POI: 			Bobby_Cannavale 
+Youtube ID: 	uPser_g8oeA 
+Video length: 	259.3 sec 
+Set (V): 		dev 
+ 
+Bobby_Cannavale/uPser_g8oeA_0000001 06.1 11.8 
+Bobby_Cannavale/uPser_g8oeA_0000002 12.9 21.0 
+Bobby_Cannavale/uPser_g8oeA_0000003 24.5 32.8 
+Bobby_Cannavale/uPser_g8oeA_0000004 43.2 50.1 
+Bobby_Cannavale/uPser_g8oeA_0000005 52.7 66.6 
+Bobby_Cannavale/uPser_g8oeA_0000006 69.2 73.7 
+Bobby_Cannavale/uPser_g8oeA_0000007 75.3 81.7 
+Bobby_Cannavale/uPser_g8oeA_0000008 83.1 90.3 
+Bobby_Cannavale/uPser_g8oeA_0000009 94.5 100.4 
+Bobby_Cannavale/uPser_g8oeA_0000010 101.6 107.7 
+Bobby_Cannavale/uPser_g8oeA_0000011 114.3 121.2 
+Bobby_Cannavale/uPser_g8oeA_0000012 122.0 129.8 
+Bobby_Cannavale/uPser_g8oeA_0000013 131.8 140.8 
+Bobby_Cannavale/uPser_g8oeA_0000014 146.8 152.5 
+Bobby_Cannavale/uPser_g8oeA_0000015 167.8 172.7 
+Bobby_Cannavale/uPser_g8oeA_0000016 179.6 185.0 
+Bobby_Cannavale/uPser_g8oeA_0000017 188.0 192.1 
+Bobby_Cannavale/uPser_g8oeA_0000018 192.8 198.3 
+Bobby_Cannavale/uPser_g8oeA_0000019 202.5 214.6 

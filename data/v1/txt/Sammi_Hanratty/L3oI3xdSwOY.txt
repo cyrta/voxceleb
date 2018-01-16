@@ -1,0 +1,10 @@
+POI: 			Sammi_Hanratty 
+Youtube ID: 	L3oI3xdSwOY 
+Video length: 	188.8 sec 
+Set (V): 		dev 
+ 
+Sammi_Hanratty/L3oI3xdSwOY_0000001 17.7 22.8 
+Sammi_Hanratty/L3oI3xdSwOY_0000002 24.8 42.3 
+Sammi_Hanratty/L3oI3xdSwOY_0000003 129.8 143.4 
+Sammi_Hanratty/L3oI3xdSwOY_0000004 153.3 162.5 
+Sammi_Hanratty/L3oI3xdSwOY_0000005 166.0 170.6 

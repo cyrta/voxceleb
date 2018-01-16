@@ -1,0 +1,18 @@
+POI: 			Damian_Lewis 
+Youtube ID: 	5eJtDOsxBu8 
+Video length: 	2526.5 sec 
+Set (V): 		dev 
+ 
+Damian_Lewis/5eJtDOsxBu8_0000001 41.5 49.6 
+Damian_Lewis/5eJtDOsxBu8_0000002 57.4 61.8 
+Damian_Lewis/5eJtDOsxBu8_0000003 104.8 109.6 
+Damian_Lewis/5eJtDOsxBu8_0000004 581.2 587.1 
+Damian_Lewis/5eJtDOsxBu8_0000005 608.2 620.0 
+Damian_Lewis/5eJtDOsxBu8_0000006 631.5 636.2 
+Damian_Lewis/5eJtDOsxBu8_0000007 971.2 981.7 
+Damian_Lewis/5eJtDOsxBu8_0000008 1233.8 1237.8 
+Damian_Lewis/5eJtDOsxBu8_0000009 1243.4 1247.5 
+Damian_Lewis/5eJtDOsxBu8_0000010 1617.3 1622.0 
+Damian_Lewis/5eJtDOsxBu8_0000011 1677.2 1685.5 
+Damian_Lewis/5eJtDOsxBu8_0000012 2228.2 2233.0 
+Damian_Lewis/5eJtDOsxBu8_0000013 2433.8 2438.3 

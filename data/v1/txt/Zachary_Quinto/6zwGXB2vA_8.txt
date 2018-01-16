@@ -1,0 +1,13 @@
+POI: 			Zachary_Quinto 
+Youtube ID: 	6zwGXB2vA_8 
+Video length: 	269.5 sec 
+Set (V): 		dev 
+ 
+Zachary_Quinto/6zwGXB2vA_8_0000001 36.9 40.9 
+Zachary_Quinto/6zwGXB2vA_8_0000002 183.1 194.7 
+Zachary_Quinto/6zwGXB2vA_8_0000003 195.2 201.9 
+Zachary_Quinto/6zwGXB2vA_8_0000004 203.4 211.5 
+Zachary_Quinto/6zwGXB2vA_8_0000005 211.7 216.1 
+Zachary_Quinto/6zwGXB2vA_8_0000006 220.1 226.8 
+Zachary_Quinto/6zwGXB2vA_8_0000007 231.6 235.9 
+Zachary_Quinto/6zwGXB2vA_8_0000008 239.0 252.8 

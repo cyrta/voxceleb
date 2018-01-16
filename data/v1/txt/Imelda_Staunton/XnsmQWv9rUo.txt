@@ -1,0 +1,7 @@
+POI: 			Imelda_Staunton 
+Youtube ID: 	XnsmQWv9rUo 
+Video length: 	63.0 sec 
+Set (V): 		dev 
+ 
+Imelda_Staunton/XnsmQWv9rUo_0000001 04.5 14.8 
+Imelda_Staunton/XnsmQWv9rUo_0000002 40.6 45.6 

@@ -1,0 +1,9 @@
+POI: 			Rooney_Mara 
+Youtube ID: 	XIQjp7IzrP0 
+Video length: 	503.3 sec 
+Set (V): 		dev 
+ 
+Rooney_Mara/XIQjp7IzrP0_0000001 71.2 79.1 
+Rooney_Mara/XIQjp7IzrP0_0000002 252.2 260.7 
+Rooney_Mara/XIQjp7IzrP0_0000003 283.3 287.5 
+Rooney_Mara/XIQjp7IzrP0_0000004 456.7 462.7 

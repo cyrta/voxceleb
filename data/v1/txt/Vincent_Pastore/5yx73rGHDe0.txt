@@ -1,0 +1,8 @@
+POI: 			Vincent_Pastore 
+Youtube ID: 	5yx73rGHDe0 
+Video length: 	127.4 sec 
+Set (V): 		dev 
+ 
+Vincent_Pastore/5yx73rGHDe0_0000001 53.1 57.5 
+Vincent_Pastore/5yx73rGHDe0_0000002 85.1 91.0 
+Vincent_Pastore/5yx73rGHDe0_0000003 102.6 106.7 

@@ -1,0 +1,7 @@
+POI: 			Jon_Lovitz 
+Youtube ID: 	0f2S-IsUb0Q 
+Video length: 	237.3 sec 
+Set (V): 		dev 
+ 
+Jon_Lovitz/0f2S-IsUb0Q_0000001 174.2 179.1 
+Jon_Lovitz/0f2S-IsUb0Q_0000002 184.1 189.2 

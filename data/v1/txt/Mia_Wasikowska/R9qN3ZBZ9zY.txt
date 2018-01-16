@@ -1,0 +1,14 @@
+POI: 			Mia_Wasikowska 
+Youtube ID: 	R9qN3ZBZ9zY 
+Video length: 	231.6 sec 
+Set (V): 		dev 
+ 
+Mia_Wasikowska/R9qN3ZBZ9zY_0000001 20.6 37.2 
+Mia_Wasikowska/R9qN3ZBZ9zY_0000002 67.6 78.0 
+Mia_Wasikowska/R9qN3ZBZ9zY_0000003 78.9 86.3 
+Mia_Wasikowska/R9qN3ZBZ9zY_0000004 94.2 103.9 
+Mia_Wasikowska/R9qN3ZBZ9zY_0000005 128.6 135.8 
+Mia_Wasikowska/R9qN3ZBZ9zY_0000006 137.8 142.9 
+Mia_Wasikowska/R9qN3ZBZ9zY_0000007 164.2 176.6 
+Mia_Wasikowska/R9qN3ZBZ9zY_0000008 192.2 196.4 
+Mia_Wasikowska/R9qN3ZBZ9zY_0000009 187.2 191.5 

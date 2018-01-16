@@ -1,0 +1,11 @@
+POI: 			Tinsel_Korey 
+Youtube ID: 	zvmekRBFC9I 
+Video length: 	575.2 sec 
+Set (V): 		dev 
+ 
+Tinsel_Korey/zvmekRBFC9I_0000001 101.6 106.9 
+Tinsel_Korey/zvmekRBFC9I_0000002 112.1 117.6 
+Tinsel_Korey/zvmekRBFC9I_0000003 129.8 135.4 
+Tinsel_Korey/zvmekRBFC9I_0000004 346.6 351.6 
+Tinsel_Korey/zvmekRBFC9I_0000005 396.9 402.2 
+Tinsel_Korey/zvmekRBFC9I_0000006 410.5 415.5 

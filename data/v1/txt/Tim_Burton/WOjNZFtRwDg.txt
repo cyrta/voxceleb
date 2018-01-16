@@ -1,0 +1,16 @@
+POI: 			Tim_Burton 
+Youtube ID: 	WOjNZFtRwDg 
+Video length: 	525.6 sec 
+Set (V): 		dev 
+ 
+Tim_Burton/WOjNZFtRwDg_0000001 14.2 24.7 
+Tim_Burton/WOjNZFtRwDg_0000002 43.5 53.6 
+Tim_Burton/WOjNZFtRwDg_0000003 54.4 62.6 
+Tim_Burton/WOjNZFtRwDg_0000004 64.4 69.8 
+Tim_Burton/WOjNZFtRwDg_0000005 73.8 80.7 
+Tim_Burton/WOjNZFtRwDg_0000006 81.5 87.6 
+Tim_Burton/WOjNZFtRwDg_0000007 145.0 154.2 
+Tim_Burton/WOjNZFtRwDg_0000008 221.3 226.2 
+Tim_Burton/WOjNZFtRwDg_0000009 253.6 258.4 
+Tim_Burton/WOjNZFtRwDg_0000010 258.8 262.8 
+Tim_Burton/WOjNZFtRwDg_0000011 288.0 294.2 

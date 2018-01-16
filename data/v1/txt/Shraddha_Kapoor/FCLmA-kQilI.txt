@@ -1,0 +1,9 @@
+POI: 			Shraddha_Kapoor 
+Youtube ID: 	FCLmA-kQilI 
+Video length: 	256.5 sec 
+Set (V): 		dev 
+ 
+Shraddha_Kapoor/FCLmA-kQilI_0000001 138.2 147.0 
+Shraddha_Kapoor/FCLmA-kQilI_0000002 179.0 185.6 
+Shraddha_Kapoor/FCLmA-kQilI_0000003 205.3 211.2 
+Shraddha_Kapoor/FCLmA-kQilI_0000004 214.6 222.4 

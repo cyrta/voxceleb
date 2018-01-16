@@ -1,0 +1,12 @@
+POI: 			Sean_Pertwee 
+Youtube ID: 	pN5tCEAVJlY 
+Video length: 	172.4 sec 
+Set (V): 		dev 
+ 
+Sean_Pertwee/pN5tCEAVJlY_0000001 24.2 28.2 
+Sean_Pertwee/pN5tCEAVJlY_0000002 53.5 57.8 
+Sean_Pertwee/pN5tCEAVJlY_0000003 58.1 63.9 
+Sean_Pertwee/pN5tCEAVJlY_0000004 84.7 91.2 
+Sean_Pertwee/pN5tCEAVJlY_0000005 91.7 108.9 
+Sean_Pertwee/pN5tCEAVJlY_0000006 152.3 162.1 
+Sean_Pertwee/pN5tCEAVJlY_0000007 167.0 171.0 

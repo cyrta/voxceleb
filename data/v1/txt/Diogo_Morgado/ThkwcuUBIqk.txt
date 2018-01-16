@@ -1,0 +1,19 @@
+POI: 			Diogo_Morgado 
+Youtube ID: 	ThkwcuUBIqk 
+Video length: 	678.0 sec 
+Set (V): 		dev 
+ 
+Diogo_Morgado/ThkwcuUBIqk_0000001 59.3 64.6 
+Diogo_Morgado/ThkwcuUBIqk_0000002 79.6 83.9 
+Diogo_Morgado/ThkwcuUBIqk_0000003 144.6 149.3 
+Diogo_Morgado/ThkwcuUBIqk_0000004 181.3 186.2 
+Diogo_Morgado/ThkwcuUBIqk_0000005 266.0 270.0 
+Diogo_Morgado/ThkwcuUBIqk_0000006 302.4 307.0 
+Diogo_Morgado/ThkwcuUBIqk_0000007 339.2 345.5 
+Diogo_Morgado/ThkwcuUBIqk_0000008 362.0 366.6 
+Diogo_Morgado/ThkwcuUBIqk_0000009 445.3 452.1 
+Diogo_Morgado/ThkwcuUBIqk_0000010 546.0 551.1 
+Diogo_Morgado/ThkwcuUBIqk_0000011 555.1 561.8 
+Diogo_Morgado/ThkwcuUBIqk_0000012 637.6 643.6 
+Diogo_Morgado/ThkwcuUBIqk_0000013 654.2 658.2 
+Diogo_Morgado/ThkwcuUBIqk_0000014 659.5 663.6 

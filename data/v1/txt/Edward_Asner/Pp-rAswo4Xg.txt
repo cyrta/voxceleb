@@ -1,0 +1,42 @@
+POI: 			Edward_Asner 
+Youtube ID: 	Pp-rAswo4Xg 
+Video length: 	884.2 sec 
+Set (V): 		test 
+ 
+Edward_Asner/Pp-rAswo4Xg_0000001 76.2 80.7 
+Edward_Asner/Pp-rAswo4Xg_0000002 110.8 118.2 
+Edward_Asner/Pp-rAswo4Xg_0000003 121.6 126.2 
+Edward_Asner/Pp-rAswo4Xg_0000004 139.0 143.2 
+Edward_Asner/Pp-rAswo4Xg_0000005 165.5 169.8 
+Edward_Asner/Pp-rAswo4Xg_0000006 172.8 177.4 
+Edward_Asner/Pp-rAswo4Xg_0000007 191.0 197.9 
+Edward_Asner/Pp-rAswo4Xg_0000008 209.8 216.7 
+Edward_Asner/Pp-rAswo4Xg_0000009 216.9 223.0 
+Edward_Asner/Pp-rAswo4Xg_0000010 223.6 230.2 
+Edward_Asner/Pp-rAswo4Xg_0000011 273.4 278.8 
+Edward_Asner/Pp-rAswo4Xg_0000012 283.4 289.6 
+Edward_Asner/Pp-rAswo4Xg_0000013 311.3 316.0 
+Edward_Asner/Pp-rAswo4Xg_0000014 350.5 356.7 
+Edward_Asner/Pp-rAswo4Xg_0000015 361.8 367.6 
+Edward_Asner/Pp-rAswo4Xg_0000016 368.3 377.5 
+Edward_Asner/Pp-rAswo4Xg_0000017 386.7 394.1 
+Edward_Asner/Pp-rAswo4Xg_0000018 416.8 422.4 
+Edward_Asner/Pp-rAswo4Xg_0000019 491.1 495.1 
+Edward_Asner/Pp-rAswo4Xg_0000020 495.8 516.0 
+Edward_Asner/Pp-rAswo4Xg_0000021 517.0 524.9 
+Edward_Asner/Pp-rAswo4Xg_0000022 525.5 529.6 
+Edward_Asner/Pp-rAswo4Xg_0000023 536.7 556.8 
+Edward_Asner/Pp-rAswo4Xg_0000024 595.4 600.5 
+Edward_Asner/Pp-rAswo4Xg_0000025 602.5 632.2 
+Edward_Asner/Pp-rAswo4Xg_0000026 647.2 654.4 
+Edward_Asner/Pp-rAswo4Xg_0000027 655.0 660.2 
+Edward_Asner/Pp-rAswo4Xg_0000028 660.6 665.8 
+Edward_Asner/Pp-rAswo4Xg_0000029 667.3 673.6 
+Edward_Asner/Pp-rAswo4Xg_0000030 677.0 681.6 
+Edward_Asner/Pp-rAswo4Xg_0000031 700.9 705.9 
+Edward_Asner/Pp-rAswo4Xg_0000032 708.0 714.1 
+Edward_Asner/Pp-rAswo4Xg_0000033 759.6 765.4 
+Edward_Asner/Pp-rAswo4Xg_0000034 766.7 771.5 
+Edward_Asner/Pp-rAswo4Xg_0000035 776.5 781.0 
+Edward_Asner/Pp-rAswo4Xg_0000036 804.8 809.6 
+Edward_Asner/Pp-rAswo4Xg_0000037 843.5 849.3 

@@ -1,0 +1,8 @@
+POI: 			Patton_Oswalt 
+Youtube ID: 	ZEUtStHF66M 
+Video length: 	149.1 sec 
+Set (V): 		dev 
+ 
+Patton_Oswalt/ZEUtStHF66M_0000001 10.5 14.6 
+Patton_Oswalt/ZEUtStHF66M_0000002 16.8 27.0 
+Patton_Oswalt/ZEUtStHF66M_0000003 122.8 127.6 

@@ -1,0 +1,7 @@
+POI: 			Tim_Minchin 
+Youtube ID: 	QKhpnBd3EUs 
+Video length: 	196.3 sec 
+Set (V): 		dev 
+ 
+Tim_Minchin/QKhpnBd3EUs_0000001 101.4 106.1 
+Tim_Minchin/QKhpnBd3EUs_0000002 145.6 149.6 

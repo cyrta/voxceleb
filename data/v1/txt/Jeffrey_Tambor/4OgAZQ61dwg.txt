@@ -1,0 +1,16 @@
+POI: 			Jeffrey_Tambor 
+Youtube ID: 	4OgAZQ61dwg 
+Video length: 	158.6 sec 
+Set (V): 		dev 
+ 
+Jeffrey_Tambor/4OgAZQ61dwg_0000001 06.5 29.8 
+Jeffrey_Tambor/4OgAZQ61dwg_0000002 34.2 38.2 
+Jeffrey_Tambor/4OgAZQ61dwg_0000003 41.4 50.8 
+Jeffrey_Tambor/4OgAZQ61dwg_0000004 54.8 60.0 
+Jeffrey_Tambor/4OgAZQ61dwg_0000005 65.2 71.4 
+Jeffrey_Tambor/4OgAZQ61dwg_0000006 72.9 79.3 
+Jeffrey_Tambor/4OgAZQ61dwg_0000007 80.4 84.4 
+Jeffrey_Tambor/4OgAZQ61dwg_0000008 88.6 92.9 
+Jeffrey_Tambor/4OgAZQ61dwg_0000009 105.8 110.5 
+Jeffrey_Tambor/4OgAZQ61dwg_0000010 111.0 115.7 
+Jeffrey_Tambor/4OgAZQ61dwg_0000011 117.0 143.4 

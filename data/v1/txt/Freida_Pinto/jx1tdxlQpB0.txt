@@ -1,0 +1,11 @@
+POI: 			Freida_Pinto 
+Youtube ID: 	jx1tdxlQpB0 
+Video length: 	240.8 sec 
+Set (V): 		dev 
+ 
+Freida_Pinto/jx1tdxlQpB0_0000001 07.6 12.3 
+Freida_Pinto/jx1tdxlQpB0_0000002 17.8 25.2 
+Freida_Pinto/jx1tdxlQpB0_0000003 29.4 34.9 
+Freida_Pinto/jx1tdxlQpB0_0000004 85.1 94.5 
+Freida_Pinto/jx1tdxlQpB0_0000005 94.7 102.1 
+Freida_Pinto/jx1tdxlQpB0_0000006 166.4 182.4 

@@ -1,0 +1,15 @@
+POI: 			Seann_William_Scott 
+Youtube ID: 	A1WoNL52UGk 
+Video length: 	219.6 sec 
+Set (V): 		dev 
+ 
+Seann_William_Scott/A1WoNL52UGk_0000001 06.7 14.7 
+Seann_William_Scott/A1WoNL52UGk_0000002 17.0 21.1 
+Seann_William_Scott/A1WoNL52UGk_0000003 22.1 27.2 
+Seann_William_Scott/A1WoNL52UGk_0000004 149.3 153.9 
+Seann_William_Scott/A1WoNL52UGk_0000005 154.8 174.5 
+Seann_William_Scott/A1WoNL52UGk_0000006 175.6 180.8 
+Seann_William_Scott/A1WoNL52UGk_0000007 182.0 191.6 
+Seann_William_Scott/A1WoNL52UGk_0000008 196.5 201.2 
+Seann_William_Scott/A1WoNL52UGk_0000009 201.4 209.3 
+Seann_William_Scott/A1WoNL52UGk_0000010 209.8 217.2 

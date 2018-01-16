@@ -1,0 +1,17 @@
+POI: 			Drake_Bell 
+Youtube ID: 	1suWlhhvRcs 
+Video length: 	262.1 sec 
+Set (V): 		dev 
+ 
+Drake_Bell/1suWlhhvRcs_0000001 05.0 13.8 
+Drake_Bell/1suWlhhvRcs_0000002 14.4 24.3 
+Drake_Bell/1suWlhhvRcs_0000003 21.6 34.5 
+Drake_Bell/1suWlhhvRcs_0000004 41.6 50.0 
+Drake_Bell/1suWlhhvRcs_0000005 53.0 60.6 
+Drake_Bell/1suWlhhvRcs_0000006 65.9 71.9 
+Drake_Bell/1suWlhhvRcs_0000007 74.1 82.0 
+Drake_Bell/1suWlhhvRcs_0000008 89.7 104.3 
+Drake_Bell/1suWlhhvRcs_0000009 106.3 115.2 
+Drake_Bell/1suWlhhvRcs_0000010 128.3 134.1 
+Drake_Bell/1suWlhhvRcs_0000011 156.3 191.3 
+Drake_Bell/1suWlhhvRcs_0000012 224.4 232.9 

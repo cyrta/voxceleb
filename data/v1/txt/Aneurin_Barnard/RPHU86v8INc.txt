@@ -1,0 +1,8 @@
+POI: 			Aneurin_Barnard 
+Youtube ID: 	RPHU86v8INc 
+Video length: 	145.6 sec 
+Set (V): 		dev 
+ 
+Aneurin_Barnard/RPHU86v8INc_0000001 69.8 74.6 
+Aneurin_Barnard/RPHU86v8INc_0000002 80.9 93.9 
+Aneurin_Barnard/RPHU86v8INc_0000003 94.1 99.2 

@@ -1,0 +1,16 @@
+POI: 			Jillian_Michaels 
+Youtube ID: 	1hDiEkQ_OnM 
+Video length: 	225.4 sec 
+Set (V): 		dev 
+ 
+Jillian_Michaels/1hDiEkQ_OnM_0000001 22.0 30.3 
+Jillian_Michaels/1hDiEkQ_OnM_0000002 35.4 43.0 
+Jillian_Michaels/1hDiEkQ_OnM_0000003 55.3 73.8 
+Jillian_Michaels/1hDiEkQ_OnM_0000004 74.2 79.4 
+Jillian_Michaels/1hDiEkQ_OnM_0000005 81.6 90.1 
+Jillian_Michaels/1hDiEkQ_OnM_0000006 99.2 116.8 
+Jillian_Michaels/1hDiEkQ_OnM_0000007 129.0 143.6 
+Jillian_Michaels/1hDiEkQ_OnM_0000008 145.7 153.6 
+Jillian_Michaels/1hDiEkQ_OnM_0000009 155.7 162.1 
+Jillian_Michaels/1hDiEkQ_OnM_0000010 183.6 189.9 
+Jillian_Michaels/1hDiEkQ_OnM_0000011 197.9 205.8 

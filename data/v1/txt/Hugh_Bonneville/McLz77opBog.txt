@@ -1,0 +1,18 @@
+POI: 			Hugh_Bonneville 
+Youtube ID: 	McLz77opBog 
+Video length: 	402.1 sec 
+Set (V): 		dev 
+ 
+Hugh_Bonneville/McLz77opBog_0000001 15.2 27.2 
+Hugh_Bonneville/McLz77opBog_0000002 42.8 49.3 
+Hugh_Bonneville/McLz77opBog_0000003 50.1 57.5 
+Hugh_Bonneville/McLz77opBog_0000004 58.2 67.4 
+Hugh_Bonneville/McLz77opBog_0000005 78.8 117.8 
+Hugh_Bonneville/McLz77opBog_0000006 118.8 127.6 
+Hugh_Bonneville/McLz77opBog_0000007 147.8 157.6 
+Hugh_Bonneville/McLz77opBog_0000008 157.8 210.0 
+Hugh_Bonneville/McLz77opBog_0000009 226.0 252.2 
+Hugh_Bonneville/McLz77opBog_0000010 252.6 266.1 
+Hugh_Bonneville/McLz77opBog_0000011 273.5 292.4 
+Hugh_Bonneville/McLz77opBog_0000012 315.9 361.0 
+Hugh_Bonneville/McLz77opBog_0000013 361.5 381.2 

@@ -1,0 +1,12 @@
+POI: 			Olga_Kurylenko 
+Youtube ID: 	inITuyb_byE 
+Video length: 	253.1 sec 
+Set (V): 		dev 
+ 
+Olga_Kurylenko/inITuyb_byE_0000001 16.4 23.3 
+Olga_Kurylenko/inITuyb_byE_0000002 28.4 34.9 
+Olga_Kurylenko/inITuyb_byE_0000003 124.1 135.0 
+Olga_Kurylenko/inITuyb_byE_0000004 155.3 162.4 
+Olga_Kurylenko/inITuyb_byE_0000005 188.8 198.5 
+Olga_Kurylenko/inITuyb_byE_0000006 199.4 204.3 
+Olga_Kurylenko/inITuyb_byE_0000007 234.9 243.6 

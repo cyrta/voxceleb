@@ -1,0 +1,9 @@
+POI: 			Sofia_Coppola 
+Youtube ID: 	NpHsaOxKL_0 
+Video length: 	92.3 sec 
+Set (V): 		dev 
+ 
+Sofia_Coppola/NpHsaOxKL_0_0000001 23.7 33.0 
+Sofia_Coppola/NpHsaOxKL_0_0000002 42.6 47.4 
+Sofia_Coppola/NpHsaOxKL_0_0000003 55.2 61.7 
+Sofia_Coppola/NpHsaOxKL_0_0000004 66.5 70.7 

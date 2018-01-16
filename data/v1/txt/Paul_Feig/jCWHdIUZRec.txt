@@ -1,0 +1,13 @@
+POI: 			Paul_Feig 
+Youtube ID: 	jCWHdIUZRec 
+Video length: 	225.0 sec 
+Set (V): 		dev 
+ 
+Paul_Feig/jCWHdIUZRec_0000001 11.3 45.5 
+Paul_Feig/jCWHdIUZRec_0000002 49.7 60.9 
+Paul_Feig/jCWHdIUZRec_0000003 62.7 67.7 
+Paul_Feig/jCWHdIUZRec_0000004 88.9 98.8 
+Paul_Feig/jCWHdIUZRec_0000005 99.9 105.1 
+Paul_Feig/jCWHdIUZRec_0000006 143.7 160.0 
+Paul_Feig/jCWHdIUZRec_0000007 165.2 176.2 
+Paul_Feig/jCWHdIUZRec_0000008 205.1 218.6 

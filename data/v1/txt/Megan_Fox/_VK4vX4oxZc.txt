@@ -1,0 +1,13 @@
+POI: 			Megan_Fox 
+Youtube ID: 	_VK4vX4oxZc 
+Video length: 	386.1 sec 
+Set (V): 		dev 
+ 
+Megan_Fox/_VK4vX4oxZc_0000001 12.5 19.8 
+Megan_Fox/_VK4vX4oxZc_0000002 35.9 43.4 
+Megan_Fox/_VK4vX4oxZc_0000003 89.8 96.4 
+Megan_Fox/_VK4vX4oxZc_0000004 126.5 131.2 
+Megan_Fox/_VK4vX4oxZc_0000005 143.2 151.1 
+Megan_Fox/_VK4vX4oxZc_0000006 201.3 205.3 
+Megan_Fox/_VK4vX4oxZc_0000007 270.1 296.2 
+Megan_Fox/_VK4vX4oxZc_0000008 312.9 317.7 

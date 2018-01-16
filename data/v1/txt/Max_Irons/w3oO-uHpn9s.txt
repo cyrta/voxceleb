@@ -1,0 +1,13 @@
+POI: 			Max_Irons 
+Youtube ID: 	w3oO-uHpn9s 
+Video length: 	277.1 sec 
+Set (V): 		dev 
+ 
+Max_Irons/w3oO-uHpn9s_0000001 79.3 83.5 
+Max_Irons/w3oO-uHpn9s_0000002 87.0 96.5 
+Max_Irons/w3oO-uHpn9s_0000003 97.8 109.5 
+Max_Irons/w3oO-uHpn9s_0000004 120.0 124.1 
+Max_Irons/w3oO-uHpn9s_0000005 234.9 240.1 
+Max_Irons/w3oO-uHpn9s_0000006 242.2 254.4 
+Max_Irons/w3oO-uHpn9s_0000007 256.4 261.8 
+Max_Irons/w3oO-uHpn9s_0000008 262.6 274.5 

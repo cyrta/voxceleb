@@ -1,0 +1,14 @@
+POI: 			John_Amos 
+Youtube ID: 	2sUOzUbhD3g 
+Video length: 	150.7 sec 
+Set (V): 		dev 
+ 
+John_Amos/2sUOzUbhD3g_0000001 06.6 11.9 
+John_Amos/2sUOzUbhD3g_0000002 22.8 27.6 
+John_Amos/2sUOzUbhD3g_0000003 28.6 34.0 
+John_Amos/2sUOzUbhD3g_0000004 43.7 48.6 
+John_Amos/2sUOzUbhD3g_0000005 48.7 53.8 
+John_Amos/2sUOzUbhD3g_0000006 57.4 65.2 
+John_Amos/2sUOzUbhD3g_0000007 78.1 89.1 
+John_Amos/2sUOzUbhD3g_0000008 122.5 128.0 
+John_Amos/2sUOzUbhD3g_0000009 132.8 137.0 

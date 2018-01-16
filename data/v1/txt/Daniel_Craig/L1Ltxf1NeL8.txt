@@ -1,0 +1,16 @@
+POI: 			Daniel_Craig 
+Youtube ID: 	L1Ltxf1NeL8 
+Video length: 	371.9 sec 
+Set (V): 		dev 
+ 
+Daniel_Craig/L1Ltxf1NeL8_0000001 13.5 17.7 
+Daniel_Craig/L1Ltxf1NeL8_0000002 111.9 117.3 
+Daniel_Craig/L1Ltxf1NeL8_0000003 119.0 128.7 
+Daniel_Craig/L1Ltxf1NeL8_0000004 134.9 139.6 
+Daniel_Craig/L1Ltxf1NeL8_0000005 140.7 149.3 
+Daniel_Craig/L1Ltxf1NeL8_0000006 151.2 157.1 
+Daniel_Craig/L1Ltxf1NeL8_0000007 160.8 165.2 
+Daniel_Craig/L1Ltxf1NeL8_0000008 177.2 187.2 
+Daniel_Craig/L1Ltxf1NeL8_0000009 187.6 192.8 
+Daniel_Craig/L1Ltxf1NeL8_0000010 194.3 202.2 
+Daniel_Craig/L1Ltxf1NeL8_0000011 203.2 207.4 

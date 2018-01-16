@@ -1,0 +1,14 @@
+POI: 			Ron_Livingston 
+Youtube ID: 	Xf9g2-pCmn8 
+Video length: 	220.3 sec 
+Set (V): 		dev 
+ 
+Ron_Livingston/Xf9g2-pCmn8_0000001 38.0 46.5 
+Ron_Livingston/Xf9g2-pCmn8_0000002 48.4 67.1 
+Ron_Livingston/Xf9g2-pCmn8_0000003 81.0 85.3 
+Ron_Livingston/Xf9g2-pCmn8_0000004 86.0 93.6 
+Ron_Livingston/Xf9g2-pCmn8_0000005 94.1 99.5 
+Ron_Livingston/Xf9g2-pCmn8_0000006 104.7 110.8 
+Ron_Livingston/Xf9g2-pCmn8_0000007 171.5 176.2 
+Ron_Livingston/Xf9g2-pCmn8_0000008 197.7 205.1 
+Ron_Livingston/Xf9g2-pCmn8_0000009 207.9 215.8 

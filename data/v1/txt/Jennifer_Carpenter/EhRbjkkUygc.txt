@@ -1,0 +1,8 @@
+POI: 			Jennifer_Carpenter 
+Youtube ID: 	EhRbjkkUygc 
+Video length: 	123.6 sec 
+Set (V): 		dev 
+ 
+Jennifer_Carpenter/EhRbjkkUygc_0000001 24.7 39.6 
+Jennifer_Carpenter/EhRbjkkUygc_0000002 40.6 48.9 
+Jennifer_Carpenter/EhRbjkkUygc_0000003 91.4 103.8 

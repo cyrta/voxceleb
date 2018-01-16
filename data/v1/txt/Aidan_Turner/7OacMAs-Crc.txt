@@ -1,0 +1,14 @@
+POI: 			Aidan_Turner 
+Youtube ID: 	7OacMAs-Crc 
+Video length: 	458.2 sec 
+Set (V): 		dev 
+ 
+Aidan_Turner/7OacMAs-Crc_0000001 30.6 39.1 
+Aidan_Turner/7OacMAs-Crc_0000002 110.2 114.2 
+Aidan_Turner/7OacMAs-Crc_0000003 123.9 135.2 
+Aidan_Turner/7OacMAs-Crc_0000004 146.2 154.1 
+Aidan_Turner/7OacMAs-Crc_0000005 154.4 163.6 
+Aidan_Turner/7OacMAs-Crc_0000006 163.8 170.1 
+Aidan_Turner/7OacMAs-Crc_0000007 241.6 247.3 
+Aidan_Turner/7OacMAs-Crc_0000008 249.5 257.6 
+Aidan_Turner/7OacMAs-Crc_0000009 371.6 381.5 

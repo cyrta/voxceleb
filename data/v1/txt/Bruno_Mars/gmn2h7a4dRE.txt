@@ -1,0 +1,17 @@
+POI: 			Bruno_Mars 
+Youtube ID: 	gmn2h7a4dRE 
+Video length: 	724.3 sec 
+Set (V): 		dev 
+ 
+Bruno_Mars/gmn2h7a4dRE_0000001 109.8 116.6 
+Bruno_Mars/gmn2h7a4dRE_0000002 214.7 223.0 
+Bruno_Mars/gmn2h7a4dRE_0000003 280.8 286.1 
+Bruno_Mars/gmn2h7a4dRE_0000004 308.2 315.3 
+Bruno_Mars/gmn2h7a4dRE_0000005 352.0 358.2 
+Bruno_Mars/gmn2h7a4dRE_0000006 391.2 398.6 
+Bruno_Mars/gmn2h7a4dRE_0000007 407.7 412.7 
+Bruno_Mars/gmn2h7a4dRE_0000008 439.4 443.6 
+Bruno_Mars/gmn2h7a4dRE_0000009 443.6 449.8 
+Bruno_Mars/gmn2h7a4dRE_0000010 611.5 618.3 
+Bruno_Mars/gmn2h7a4dRE_0000011 619.4 630.0 
+Bruno_Mars/gmn2h7a4dRE_0000012 646.0 651.0 

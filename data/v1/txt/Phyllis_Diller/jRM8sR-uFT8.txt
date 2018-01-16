@@ -1,0 +1,15 @@
+POI: 			Phyllis_Diller 
+Youtube ID: 	jRM8sR-uFT8 
+Video length: 	153.0 sec 
+Set (V): 		dev 
+ 
+Phyllis_Diller/jRM8sR-uFT8_0000001 07.7 13.3 
+Phyllis_Diller/jRM8sR-uFT8_0000002 13.6 18.3 
+Phyllis_Diller/jRM8sR-uFT8_0000003 20.0 24.4 
+Phyllis_Diller/jRM8sR-uFT8_0000004 50.1 61.4 
+Phyllis_Diller/jRM8sR-uFT8_0000005 70.0 81.9 
+Phyllis_Diller/jRM8sR-uFT8_0000006 83.8 90.4 
+Phyllis_Diller/jRM8sR-uFT8_0000007 95.5 105.8 
+Phyllis_Diller/jRM8sR-uFT8_0000008 108.2 121.5 
+Phyllis_Diller/jRM8sR-uFT8_0000009 127.2 132.2 
+Phyllis_Diller/jRM8sR-uFT8_0000010 136.6 142.8 

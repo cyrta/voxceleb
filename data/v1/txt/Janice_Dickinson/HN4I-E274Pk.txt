@@ -1,0 +1,13 @@
+POI: 			Janice_Dickinson 
+Youtube ID: 	HN4I-E274Pk 
+Video length: 	210.0 sec 
+Set (V): 		dev 
+ 
+Janice_Dickinson/HN4I-E274Pk_0000001 09.7 17.0 
+Janice_Dickinson/HN4I-E274Pk_0000002 39.0 44.5 
+Janice_Dickinson/HN4I-E274Pk_0000003 45.0 51.1 
+Janice_Dickinson/HN4I-E274Pk_0000004 57.2 62.2 
+Janice_Dickinson/HN4I-E274Pk_0000005 93.1 100.2 
+Janice_Dickinson/HN4I-E274Pk_0000006 120.6 129.4 
+Janice_Dickinson/HN4I-E274Pk_0000007 141.0 152.4 
+Janice_Dickinson/HN4I-E274Pk_0000008 161.5 166.8 

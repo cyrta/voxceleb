@@ -1,0 +1,8 @@
+POI: 			Denis_Leary 
+Youtube ID: 	AiO4b-dpNWg 
+Video length: 	207.8 sec 
+Set (V): 		dev 
+ 
+Denis_Leary/AiO4b-dpNWg_0000001 16.7 23.6 
+Denis_Leary/AiO4b-dpNWg_0000002 29.8 43.9 
+Denis_Leary/AiO4b-dpNWg_0000003 131.7 137.4 

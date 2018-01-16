@@ -1,0 +1,13 @@
+POI: 			Janine_Turner 
+Youtube ID: 	NoAlrUEhlX8 
+Video length: 	257.9 sec 
+Set (V): 		dev 
+ 
+Janine_Turner/NoAlrUEhlX8_0000001 52.8 62.5 
+Janine_Turner/NoAlrUEhlX8_0000002 79.9 86.7 
+Janine_Turner/NoAlrUEhlX8_0000003 87.5 98.4 
+Janine_Turner/NoAlrUEhlX8_0000004 99.6 109.6 
+Janine_Turner/NoAlrUEhlX8_0000005 126.0 132.4 
+Janine_Turner/NoAlrUEhlX8_0000006 152.2 166.8 
+Janine_Turner/NoAlrUEhlX8_0000007 199.0 210.4 
+Janine_Turner/NoAlrUEhlX8_0000008 214.6 221.0 

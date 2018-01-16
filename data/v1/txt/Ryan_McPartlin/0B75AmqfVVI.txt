@@ -1,0 +1,8 @@
+POI: 			Ryan_McPartlin 
+Youtube ID: 	0B75AmqfVVI 
+Video length: 	291.3 sec 
+Set (V): 		dev 
+ 
+Ryan_McPartlin/0B75AmqfVVI_0000001 76.2 80.8 
+Ryan_McPartlin/0B75AmqfVVI_0000002 166.4 175.8 
+Ryan_McPartlin/0B75AmqfVVI_0000003 232.6 243.2 

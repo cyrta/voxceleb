@@ -1,0 +1,10 @@
+POI: 			Nick_Thune 
+Youtube ID: 	LGq0V1Lx4R8 
+Video length: 	149.4 sec 
+Set (V): 		dev 
+ 
+Nick_Thune/LGq0V1Lx4R8_0000001 17.4 25.5 
+Nick_Thune/LGq0V1Lx4R8_0000002 37.9 44.9 
+Nick_Thune/LGq0V1Lx4R8_0000003 64.1 70.4 
+Nick_Thune/LGq0V1Lx4R8_0000004 76.5 83.6 
+Nick_Thune/LGq0V1Lx4R8_0000005 108.3 115.4 

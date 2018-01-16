@@ -1,0 +1,8 @@
+POI: 			Sarah_Palin 
+Youtube ID: 	nTi7P_1aoTc 
+Video length: 	241.0 sec 
+Set (V): 		dev 
+ 
+Sarah_Palin/nTi7P_1aoTc_0000001 171.7 182.3 
+Sarah_Palin/nTi7P_1aoTc_0000002 191.5 198.4 
+Sarah_Palin/nTi7P_1aoTc_0000003 190.7 212.6 

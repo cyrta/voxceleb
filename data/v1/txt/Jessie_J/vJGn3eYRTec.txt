@@ -1,0 +1,15 @@
+POI: 			Jessie_J 
+Youtube ID: 	vJGn3eYRTec 
+Video length: 	842.7 sec 
+Set (V): 		dev 
+ 
+Jessie_J/vJGn3eYRTec_0000001 185.5 192.7 
+Jessie_J/vJGn3eYRTec_0000002 231.8 236.8 
+Jessie_J/vJGn3eYRTec_0000003 272.8 278.9 
+Jessie_J/vJGn3eYRTec_0000004 397.8 402.1 
+Jessie_J/vJGn3eYRTec_0000005 461.4 468.3 
+Jessie_J/vJGn3eYRTec_0000006 545.7 553.9 
+Jessie_J/vJGn3eYRTec_0000007 566.1 581.2 
+Jessie_J/vJGn3eYRTec_0000008 592.4 596.8 
+Jessie_J/vJGn3eYRTec_0000009 691.9 696.0 
+Jessie_J/vJGn3eYRTec_0000010 787.2 791.7 

@@ -1,0 +1,7 @@
+POI: 			Meghan_Trainor 
+Youtube ID: 	zcDAMh1WChU 
+Video length: 	145.4 sec 
+Set (V): 		dev 
+ 
+Meghan_Trainor/zcDAMh1WChU_0000001 22.8 31.4 
+Meghan_Trainor/zcDAMh1WChU_0000002 58.1 63.4 

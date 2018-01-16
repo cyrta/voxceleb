@@ -1,0 +1,14 @@
+POI: 			David_Schwimmer 
+Youtube ID: 	PBou1uIhLYs 
+Video length: 	456.4 sec 
+Set (V): 		dev 
+ 
+David_Schwimmer/PBou1uIhLYs_0000001 87.1 91.2 
+David_Schwimmer/PBou1uIhLYs_0000002 180.5 186.5 
+David_Schwimmer/PBou1uIhLYs_0000003 262.8 266.8 
+David_Schwimmer/PBou1uIhLYs_0000004 299.8 304.7 
+David_Schwimmer/PBou1uIhLYs_0000005 320.6 327.4 
+David_Schwimmer/PBou1uIhLYs_0000006 338.7 345.8 
+David_Schwimmer/PBou1uIhLYs_0000007 394.8 399.2 
+David_Schwimmer/PBou1uIhLYs_0000008 399.8 412.1 
+David_Schwimmer/PBou1uIhLYs_0000009 412.2 417.0 

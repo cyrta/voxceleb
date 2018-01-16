@@ -1,0 +1,9 @@
+POI: 			Rhys_Darby 
+Youtube ID: 	oxw1P5kbaAE 
+Video length: 	422.2 sec 
+Set (V): 		dev 
+ 
+Rhys_Darby/oxw1P5kbaAE_0000001 120.7 126.1 
+Rhys_Darby/oxw1P5kbaAE_0000002 146.3 153.5 
+Rhys_Darby/oxw1P5kbaAE_0000003 162.9 170.1 
+Rhys_Darby/oxw1P5kbaAE_0000004 201.0 206.1 

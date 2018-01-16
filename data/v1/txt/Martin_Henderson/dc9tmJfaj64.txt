@@ -1,0 +1,13 @@
+POI: 			Martin_Henderson 
+Youtube ID: 	dc9tmJfaj64 
+Video length: 	345.9 sec 
+Set (V): 		dev 
+ 
+Martin_Henderson/dc9tmJfaj64_0000001 110.3 114.7 
+Martin_Henderson/dc9tmJfaj64_0000002 116.2 128.9 
+Martin_Henderson/dc9tmJfaj64_0000003 131.1 142.2 
+Martin_Henderson/dc9tmJfaj64_0000004 143.4 149.9 
+Martin_Henderson/dc9tmJfaj64_0000005 152.0 157.8 
+Martin_Henderson/dc9tmJfaj64_0000006 169.5 175.6 
+Martin_Henderson/dc9tmJfaj64_0000007 182.0 187.2 
+Martin_Henderson/dc9tmJfaj64_0000008 213.4 220.2 

@@ -1,0 +1,8 @@
+POI: 			Gordon_Ramsay 
+Youtube ID: 	BJuDlt6PJbM 
+Video length: 	210.4 sec 
+Set (V): 		dev 
+ 
+Gordon_Ramsay/BJuDlt6PJbM_0000001 176.3 188.4 
+Gordon_Ramsay/BJuDlt6PJbM_0000002 189.6 193.6 
+Gordon_Ramsay/BJuDlt6PJbM_0000003 173.9 180.3 

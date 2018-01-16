@@ -1,0 +1,9 @@
+POI: 			Michael_Kelly 
+Youtube ID: 	suFk_GZgpXk 
+Video length: 	239.2 sec 
+Set (V): 		dev 
+ 
+Michael_Kelly/suFk_GZgpXk_0000001 88.0 100.7 
+Michael_Kelly/suFk_GZgpXk_0000002 101.0 107.8 
+Michael_Kelly/suFk_GZgpXk_0000003 171.2 192.5 
+Michael_Kelly/suFk_GZgpXk_0000004 194.9 199.0 

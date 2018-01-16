@@ -1,0 +1,7 @@
+POI: 			Joanna_Lumley 
+Youtube ID: 	KEC-hht8A30 
+Video length: 	395.2 sec 
+Set (V): 		dev 
+ 
+Joanna_Lumley/KEC-hht8A30_0000001 67.6 80.4 
+Joanna_Lumley/KEC-hht8A30_0000002 81.0 85.1 

@@ -1,0 +1,13 @@
+POI: 			John_Goodman 
+Youtube ID: 	aGWlzAkouHM 
+Video length: 	301.6 sec 
+Set (V): 		dev 
+ 
+John_Goodman/aGWlzAkouHM_0000001 89.6 94.0 
+John_Goodman/aGWlzAkouHM_0000002 99.0 110.5 
+John_Goodman/aGWlzAkouHM_0000003 144.8 149.7 
+John_Goodman/aGWlzAkouHM_0000004 151.0 155.8 
+John_Goodman/aGWlzAkouHM_0000005 190.7 195.0 
+John_Goodman/aGWlzAkouHM_0000006 215.6 220.1 
+John_Goodman/aGWlzAkouHM_0000007 261.8 266.4 
+John_Goodman/aGWlzAkouHM_0000008 271.1 276.1 

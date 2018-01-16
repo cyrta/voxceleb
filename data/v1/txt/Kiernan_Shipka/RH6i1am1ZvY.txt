@@ -1,0 +1,12 @@
+POI: 			Kiernan_Shipka 
+Youtube ID: 	RH6i1am1ZvY 
+Video length: 	241.9 sec 
+Set (V): 		dev 
+ 
+Kiernan_Shipka/RH6i1am1ZvY_0000001 63.8 76.0 
+Kiernan_Shipka/RH6i1am1ZvY_0000002 91.7 102.4 
+Kiernan_Shipka/RH6i1am1ZvY_0000003 107.2 112.4 
+Kiernan_Shipka/RH6i1am1ZvY_0000004 157.6 163.8 
+Kiernan_Shipka/RH6i1am1ZvY_0000005 164.7 168.8 
+Kiernan_Shipka/RH6i1am1ZvY_0000006 176.4 182.6 
+Kiernan_Shipka/RH6i1am1ZvY_0000007 190.4 195.2 

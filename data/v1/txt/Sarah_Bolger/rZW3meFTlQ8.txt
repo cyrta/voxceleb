@@ -1,0 +1,10 @@
+POI: 			Sarah_Bolger 
+Youtube ID: 	rZW3meFTlQ8 
+Video length: 	96.8 sec 
+Set (V): 		dev 
+ 
+Sarah_Bolger/rZW3meFTlQ8_0000001 07.6 14.5 
+Sarah_Bolger/rZW3meFTlQ8_0000002 14.6 18.8 
+Sarah_Bolger/rZW3meFTlQ8_0000003 39.7 45.3 
+Sarah_Bolger/rZW3meFTlQ8_0000004 68.1 75.3 
+Sarah_Bolger/rZW3meFTlQ8_0000005 76.0 82.8 

@@ -1,0 +1,26 @@
+POI: 			Mark_Harmon 
+Youtube ID: 	zK_Hc5mRhC8 
+Video length: 	615.8 sec 
+Set (V): 		dev 
+ 
+Mark_Harmon/zK_Hc5mRhC8_0000001 136.8 140.8 
+Mark_Harmon/zK_Hc5mRhC8_0000002 152.3 158.8 
+Mark_Harmon/zK_Hc5mRhC8_0000003 183.2 190.0 
+Mark_Harmon/zK_Hc5mRhC8_0000004 209.3 220.4 
+Mark_Harmon/zK_Hc5mRhC8_0000005 221.3 231.1 
+Mark_Harmon/zK_Hc5mRhC8_0000006 240.2 245.0 
+Mark_Harmon/zK_Hc5mRhC8_0000007 305.7 313.6 
+Mark_Harmon/zK_Hc5mRhC8_0000008 314.5 324.2 
+Mark_Harmon/zK_Hc5mRhC8_0000009 326.4 331.5 
+Mark_Harmon/zK_Hc5mRhC8_0000010 335.0 339.2 
+Mark_Harmon/zK_Hc5mRhC8_0000011 346.4 355.2 
+Mark_Harmon/zK_Hc5mRhC8_0000012 376.3 381.0 
+Mark_Harmon/zK_Hc5mRhC8_0000013 389.8 402.0 
+Mark_Harmon/zK_Hc5mRhC8_0000014 425.8 444.5 
+Mark_Harmon/zK_Hc5mRhC8_0000015 449.4 457.0 
+Mark_Harmon/zK_Hc5mRhC8_0000016 471.8 476.7 
+Mark_Harmon/zK_Hc5mRhC8_0000017 479.0 485.0 
+Mark_Harmon/zK_Hc5mRhC8_0000018 485.3 491.8 
+Mark_Harmon/zK_Hc5mRhC8_0000019 494.6 498.6 
+Mark_Harmon/zK_Hc5mRhC8_0000020 567.8 578.8 
+Mark_Harmon/zK_Hc5mRhC8_0000021 582.9 587.9 

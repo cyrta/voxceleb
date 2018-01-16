@@ -1,0 +1,17 @@
+POI: 			Peter_Coyote 
+Youtube ID: 	O8awBsmvtnc 
+Video length: 	328.8 sec 
+Set (V): 		dev 
+ 
+Peter_Coyote/O8awBsmvtnc_0000001 12.1 18.3 
+Peter_Coyote/O8awBsmvtnc_0000002 29.0 35.5 
+Peter_Coyote/O8awBsmvtnc_0000003 55.5 65.6 
+Peter_Coyote/O8awBsmvtnc_0000004 66.5 99.8 
+Peter_Coyote/O8awBsmvtnc_0000005 100.0 107.7 
+Peter_Coyote/O8awBsmvtnc_0000006 118.9 127.9 
+Peter_Coyote/O8awBsmvtnc_0000007 130.9 164.8 
+Peter_Coyote/O8awBsmvtnc_0000008 166.5 173.2 
+Peter_Coyote/O8awBsmvtnc_0000009 208.4 212.6 
+Peter_Coyote/O8awBsmvtnc_0000010 229.7 270.5 
+Peter_Coyote/O8awBsmvtnc_0000011 276.0 282.2 
+Peter_Coyote/O8awBsmvtnc_0000012 290.5 305.2 

@@ -1,0 +1,9 @@
+POI: 			Jack_Coleman 
+Youtube ID: 	T2huaLHjXY0 
+Video length: 	248.0 sec 
+Set (V): 		dev 
+ 
+Jack_Coleman/T2huaLHjXY0_0000001 20.0 24.4 
+Jack_Coleman/T2huaLHjXY0_0000002 57.0 61.5 
+Jack_Coleman/T2huaLHjXY0_0000003 68.3 75.4 
+Jack_Coleman/T2huaLHjXY0_0000004 117.6 129.5 

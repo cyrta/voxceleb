@@ -1,0 +1,18 @@
+POI: 			Brendan_Gleeson 
+Youtube ID: 	rAqtoL86w2Q 
+Video length: 	468.2 sec 
+Set (V): 		dev 
+ 
+Brendan_Gleeson/rAqtoL86w2Q_0000001 88.2 93.6 
+Brendan_Gleeson/rAqtoL86w2Q_0000002 120.5 125.5 
+Brendan_Gleeson/rAqtoL86w2Q_0000003 126.4 133.0 
+Brendan_Gleeson/rAqtoL86w2Q_0000004 137.4 143.8 
+Brendan_Gleeson/rAqtoL86w2Q_0000005 150.3 155.7 
+Brendan_Gleeson/rAqtoL86w2Q_0000006 184.3 198.7 
+Brendan_Gleeson/rAqtoL86w2Q_0000007 286.7 291.6 
+Brendan_Gleeson/rAqtoL86w2Q_0000008 293.2 298.4 
+Brendan_Gleeson/rAqtoL86w2Q_0000009 302.5 309.1 
+Brendan_Gleeson/rAqtoL86w2Q_0000010 353.1 364.1 
+Brendan_Gleeson/rAqtoL86w2Q_0000011 408.8 414.2 
+Brendan_Gleeson/rAqtoL86w2Q_0000012 429.1 437.1 
+Brendan_Gleeson/rAqtoL86w2Q_0000013 445.2 449.3 

@@ -1,0 +1,10 @@
+POI: 			Chazz_Palminteri 
+Youtube ID: 	vVBxA3QHlW4 
+Video length: 	399.4 sec 
+Set (V): 		dev 
+ 
+Chazz_Palminteri/vVBxA3QHlW4_0000001 52.0 59.6 
+Chazz_Palminteri/vVBxA3QHlW4_0000002 109.1 117.5 
+Chazz_Palminteri/vVBxA3QHlW4_0000003 336.0 343.0 
+Chazz_Palminteri/vVBxA3QHlW4_0000004 347.1 354.1 
+Chazz_Palminteri/vVBxA3QHlW4_0000005 354.4 360.8 

@@ -1,0 +1,7 @@
+POI: 			Mark_Feuerstein 
+Youtube ID: 	4uszAnA9aZk 
+Video length: 	126.9 sec 
+Set (V): 		dev 
+ 
+Mark_Feuerstein/4uszAnA9aZk_0000001 20.6 27.6 
+Mark_Feuerstein/4uszAnA9aZk_0000002 40.6 50.8 

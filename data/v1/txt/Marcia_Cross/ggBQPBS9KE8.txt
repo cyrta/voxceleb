@@ -1,0 +1,11 @@
+POI: 			Marcia_Cross 
+Youtube ID: 	ggBQPBS9KE8 
+Video length: 	311.9 sec 
+Set (V): 		dev 
+ 
+Marcia_Cross/ggBQPBS9KE8_0000001 35.5 39.7 
+Marcia_Cross/ggBQPBS9KE8_0000002 121.8 127.2 
+Marcia_Cross/ggBQPBS9KE8_0000003 226.6 231.3 
+Marcia_Cross/ggBQPBS9KE8_0000004 243.8 248.4 
+Marcia_Cross/ggBQPBS9KE8_0000005 256.4 269.2 
+Marcia_Cross/ggBQPBS9KE8_0000006 273.1 281.9 

@@ -1,0 +1,12 @@
+POI: 			Noel_Fielding 
+Youtube ID: 	ztqKJFuorV0 
+Video length: 	281.1 sec 
+Set (V): 		dev 
+ 
+Noel_Fielding/ztqKJFuorV0_0000001 62.3 66.3 
+Noel_Fielding/ztqKJFuorV0_0000002 82.6 92.3 
+Noel_Fielding/ztqKJFuorV0_0000003 102.4 108.5 
+Noel_Fielding/ztqKJFuorV0_0000004 128.8 135.6 
+Noel_Fielding/ztqKJFuorV0_0000005 152.2 156.3 
+Noel_Fielding/ztqKJFuorV0_0000006 164.6 170.0 
+Noel_Fielding/ztqKJFuorV0_0000007 256.2 264.9 

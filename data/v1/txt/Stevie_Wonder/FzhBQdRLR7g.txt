@@ -1,0 +1,7 @@
+POI: 			Stevie_Wonder 
+Youtube ID: 	FzhBQdRLR7g 
+Video length: 	296.1 sec 
+Set (V): 		dev 
+ 
+Stevie_Wonder/FzhBQdRLR7g_0000001 153.0 158.5 
+Stevie_Wonder/FzhBQdRLR7g_0000002 265.7 271.3 

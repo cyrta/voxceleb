@@ -1,0 +1,8 @@
+POI: 			Amy_Schumer 
+Youtube ID: 	rnmoBxio0zM 
+Video length: 	182.6 sec 
+Set (V): 		dev 
+ 
+Amy_Schumer/rnmoBxio0zM_0000001 31.0 38.9 
+Amy_Schumer/rnmoBxio0zM_0000002 46.9 54.2 
+Amy_Schumer/rnmoBxio0zM_0000003 87.0 94.2 

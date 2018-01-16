@@ -1,0 +1,16 @@
+POI: 			Quentin_Tarantino 
+Youtube ID: 	4rYUo-ikylc 
+Video length: 	661.9 sec 
+Set (V): 		dev 
+ 
+Quentin_Tarantino/4rYUo-ikylc_0000001 134.9 141.6 
+Quentin_Tarantino/4rYUo-ikylc_0000002 158.1 162.5 
+Quentin_Tarantino/4rYUo-ikylc_0000003 200.0 206.6 
+Quentin_Tarantino/4rYUo-ikylc_0000004 215.8 231.7 
+Quentin_Tarantino/4rYUo-ikylc_0000005 306.5 315.8 
+Quentin_Tarantino/4rYUo-ikylc_0000006 325.1 333.6 
+Quentin_Tarantino/4rYUo-ikylc_0000007 381.3 386.0 
+Quentin_Tarantino/4rYUo-ikylc_0000008 411.7 419.9 
+Quentin_Tarantino/4rYUo-ikylc_0000009 542.3 546.2 
+Quentin_Tarantino/4rYUo-ikylc_0000010 598.4 604.4 
+Quentin_Tarantino/4rYUo-ikylc_0000011 606.0 611.0 

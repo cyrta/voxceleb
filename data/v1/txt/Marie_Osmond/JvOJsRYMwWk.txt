@@ -1,0 +1,7 @@
+POI: 			Marie_Osmond 
+Youtube ID: 	JvOJsRYMwWk 
+Video length: 	503.2 sec 
+Set (V): 		dev 
+ 
+Marie_Osmond/JvOJsRYMwWk_0000001 383.4 389.0 
+Marie_Osmond/JvOJsRYMwWk_0000002 445.1 451.2 

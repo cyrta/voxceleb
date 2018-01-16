@@ -1,0 +1,14 @@
+POI: 			Oscar_Isaac 
+Youtube ID: 	A6FOc-plNfQ 
+Video length: 	432.4 sec 
+Set (V): 		dev 
+ 
+Oscar_Isaac/A6FOc-plNfQ_0000001 57.3 64.2 
+Oscar_Isaac/A6FOc-plNfQ_0000002 102.2 107.6 
+Oscar_Isaac/A6FOc-plNfQ_0000003 150.6 156.7 
+Oscar_Isaac/A6FOc-plNfQ_0000004 227.2 233.6 
+Oscar_Isaac/A6FOc-plNfQ_0000005 301.3 308.0 
+Oscar_Isaac/A6FOc-plNfQ_0000006 329.0 338.4 
+Oscar_Isaac/A6FOc-plNfQ_0000007 393.0 398.2 
+Oscar_Isaac/A6FOc-plNfQ_0000008 399.2 410.3 
+Oscar_Isaac/A6FOc-plNfQ_0000009 362.4 369.7 

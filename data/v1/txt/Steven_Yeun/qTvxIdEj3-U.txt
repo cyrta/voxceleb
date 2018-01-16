@@ -1,0 +1,13 @@
+POI: 			Steven_Yeun 
+Youtube ID: 	qTvxIdEj3-U 
+Video length: 	285.7 sec 
+Set (V): 		dev 
+ 
+Steven_Yeun/qTvxIdEj3-U_0000001 31.5 45.2 
+Steven_Yeun/qTvxIdEj3-U_0000002 48.7 56.7 
+Steven_Yeun/qTvxIdEj3-U_0000003 118.6 124.9 
+Steven_Yeun/qTvxIdEj3-U_0000004 162.0 173.7 
+Steven_Yeun/qTvxIdEj3-U_0000005 184.4 191.5 
+Steven_Yeun/qTvxIdEj3-U_0000006 207.0 212.4 
+Steven_Yeun/qTvxIdEj3-U_0000007 227.9 233.5 
+Steven_Yeun/qTvxIdEj3-U_0000008 234.0 238.2 

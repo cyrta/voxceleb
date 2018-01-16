@@ -1,0 +1,10 @@
+POI: 			Hope_Solo 
+Youtube ID: 	uu_PFW7_lRw 
+Video length: 	990.4 sec 
+Set (V): 		dev 
+ 
+Hope_Solo/uu_PFW7_lRw_0000001 263.3 267.8 
+Hope_Solo/uu_PFW7_lRw_0000002 644.7 650.8 
+Hope_Solo/uu_PFW7_lRw_0000003 720.5 725.4 
+Hope_Solo/uu_PFW7_lRw_0000004 888.3 898.1 
+Hope_Solo/uu_PFW7_lRw_0000005 959.9 967.8 

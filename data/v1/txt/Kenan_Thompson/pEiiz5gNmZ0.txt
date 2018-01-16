@@ -1,0 +1,14 @@
+POI: 			Kenan_Thompson 
+Youtube ID: 	pEiiz5gNmZ0 
+Video length: 	556.9 sec 
+Set (V): 		dev 
+ 
+Kenan_Thompson/pEiiz5gNmZ0_0000001 97.6 104.6 
+Kenan_Thompson/pEiiz5gNmZ0_0000002 276.9 289.6 
+Kenan_Thompson/pEiiz5gNmZ0_0000003 299.9 313.6 
+Kenan_Thompson/pEiiz5gNmZ0_0000004 334.8 342.3 
+Kenan_Thompson/pEiiz5gNmZ0_0000005 365.8 386.7 
+Kenan_Thompson/pEiiz5gNmZ0_0000006 424.2 429.2 
+Kenan_Thompson/pEiiz5gNmZ0_0000007 430.4 439.2 
+Kenan_Thompson/pEiiz5gNmZ0_0000008 440.6 446.1 
+Kenan_Thompson/pEiiz5gNmZ0_0000009 479.6 495.4 

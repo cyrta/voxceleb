@@ -1,0 +1,12 @@
+POI: 			Mya 
+Youtube ID: 	1IAgr_CRnuE 
+Video length: 	155.8 sec 
+Set (V): 		dev 
+ 
+Mya/1IAgr_CRnuE_0000001 28.2 32.6 
+Mya/1IAgr_CRnuE_0000002 39.6 45.8 
+Mya/1IAgr_CRnuE_0000003 60.6 65.8 
+Mya/1IAgr_CRnuE_0000004 89.6 94.1 
+Mya/1IAgr_CRnuE_0000005 122.4 128.4 
+Mya/1IAgr_CRnuE_0000006 135.4 142.2 
+Mya/1IAgr_CRnuE_0000007 144.2 148.5 

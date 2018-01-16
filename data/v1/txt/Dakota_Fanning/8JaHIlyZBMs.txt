@@ -1,0 +1,13 @@
+POI: 			Dakota_Fanning 
+Youtube ID: 	8JaHIlyZBMs 
+Video length: 	197.9 sec 
+Set (V): 		dev 
+ 
+Dakota_Fanning/8JaHIlyZBMs_0000001 11.4 17.4 
+Dakota_Fanning/8JaHIlyZBMs_0000002 19.6 41.1 
+Dakota_Fanning/8JaHIlyZBMs_0000003 54.5 73.0 
+Dakota_Fanning/8JaHIlyZBMs_0000004 88.8 94.8 
+Dakota_Fanning/8JaHIlyZBMs_0000005 99.0 111.6 
+Dakota_Fanning/8JaHIlyZBMs_0000006 124.2 145.1 
+Dakota_Fanning/8JaHIlyZBMs_0000007 158.3 168.6 
+Dakota_Fanning/8JaHIlyZBMs_0000008 170.4 184.0 

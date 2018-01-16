@@ -1,0 +1,8 @@
+POI: 			David_Harewood 
+Youtube ID: 	IoIZle6MQD8 
+Video length: 	436.0 sec 
+Set (V): 		dev 
+ 
+David_Harewood/IoIZle6MQD8_0000001 250.7 255.8 
+David_Harewood/IoIZle6MQD8_0000002 264.6 269.7 
+David_Harewood/IoIZle6MQD8_0000003 406.0 410.6 

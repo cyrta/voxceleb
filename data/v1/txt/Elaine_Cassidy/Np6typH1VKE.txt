@@ -1,0 +1,8 @@
+POI: 			Elaine_Cassidy 
+Youtube ID: 	Np6typH1VKE 
+Video length: 	61.6 sec 
+Set (V): 		test 
+ 
+Elaine_Cassidy/Np6typH1VKE_0000001 22.6 26.8 
+Elaine_Cassidy/Np6typH1VKE_0000002 27.4 41.7 
+Elaine_Cassidy/Np6typH1VKE_0000003 51.0 58.1 

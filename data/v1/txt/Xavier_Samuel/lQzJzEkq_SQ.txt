@@ -1,0 +1,8 @@
+POI: 			Xavier_Samuel 
+Youtube ID: 	lQzJzEkq_SQ 
+Video length: 	197.3 sec 
+Set (V): 		dev 
+ 
+Xavier_Samuel/lQzJzEkq_SQ_0000001 150.6 158.4 
+Xavier_Samuel/lQzJzEkq_SQ_0000002 159.5 165.9 
+Xavier_Samuel/lQzJzEkq_SQ_0000003 183.8 195.2 

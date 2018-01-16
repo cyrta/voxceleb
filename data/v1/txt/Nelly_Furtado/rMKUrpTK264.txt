@@ -1,0 +1,10 @@
+POI: 			Nelly_Furtado 
+Youtube ID: 	rMKUrpTK264 
+Video length: 	313.9 sec 
+Set (V): 		dev 
+ 
+Nelly_Furtado/rMKUrpTK264_0000001 51.0 55.2 
+Nelly_Furtado/rMKUrpTK264_0000002 88.3 92.5 
+Nelly_Furtado/rMKUrpTK264_0000003 126.9 134.6 
+Nelly_Furtado/rMKUrpTK264_0000004 134.6 145.6 
+Nelly_Furtado/rMKUrpTK264_0000005 146.1 150.8 

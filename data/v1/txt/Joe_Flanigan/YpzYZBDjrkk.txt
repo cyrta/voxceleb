@@ -1,0 +1,11 @@
+POI: 			Joe_Flanigan 
+Youtube ID: 	YpzYZBDjrkk 
+Video length: 	112.9 sec 
+Set (V): 		dev 
+ 
+Joe_Flanigan/YpzYZBDjrkk_0000001 18.0 24.9 
+Joe_Flanigan/YpzYZBDjrkk_0000002 25.0 30.1 
+Joe_Flanigan/YpzYZBDjrkk_0000003 32.9 41.3 
+Joe_Flanigan/YpzYZBDjrkk_0000004 45.9 50.2 
+Joe_Flanigan/YpzYZBDjrkk_0000005 65.0 89.3 
+Joe_Flanigan/YpzYZBDjrkk_0000006 90.2 104.7 

@@ -1,0 +1,11 @@
+POI: 			Stephen_Fry 
+Youtube ID: 	v1WGNXllJik 
+Video length: 	121.8 sec 
+Set (V): 		dev 
+ 
+Stephen_Fry/v1WGNXllJik_0000001 16.2 21.0 
+Stephen_Fry/v1WGNXllJik_0000002 21.4 26.4 
+Stephen_Fry/v1WGNXllJik_0000003 59.6 67.2 
+Stephen_Fry/v1WGNXllJik_0000004 75.1 81.6 
+Stephen_Fry/v1WGNXllJik_0000005 82.9 88.8 
+Stephen_Fry/v1WGNXllJik_0000006 91.8 97.2 

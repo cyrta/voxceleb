@@ -1,0 +1,7 @@
+POI: 			Donnie_Yen 
+Youtube ID: 	4qDDGPCzjT8 
+Video length: 	188.4 sec 
+Set (V): 		dev 
+ 
+Donnie_Yen/4qDDGPCzjT8_0000001 49.0 55.2 
+Donnie_Yen/4qDDGPCzjT8_0000002 87.3 93.9 

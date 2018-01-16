@@ -1,0 +1,9 @@
+POI: 			Steven_Soderbergh 
+Youtube ID: 	mgTU3RV6gX8 
+Video length: 	61.3 sec 
+Set (V): 		dev 
+ 
+Steven_Soderbergh/mgTU3RV6gX8_0000001 21.8 26.2 
+Steven_Soderbergh/mgTU3RV6gX8_0000002 34.6 39.1 
+Steven_Soderbergh/mgTU3RV6gX8_0000003 41.6 47.4 
+Steven_Soderbergh/mgTU3RV6gX8_0000004 50.3 56.3 

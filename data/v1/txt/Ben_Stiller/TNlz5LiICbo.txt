@@ -1,0 +1,8 @@
+POI: 			Ben_Stiller 
+Youtube ID: 	TNlz5LiICbo 
+Video length: 	122.8 sec 
+Set (V): 		dev 
+ 
+Ben_Stiller/TNlz5LiICbo_0000001 79.0 85.5 
+Ben_Stiller/TNlz5LiICbo_0000002 99.6 106.4 
+Ben_Stiller/TNlz5LiICbo_0000003 110.8 116.1 

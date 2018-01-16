@@ -1,0 +1,9 @@
+POI: 			Kangana_Ranaut 
+Youtube ID: 	05gr63nmJS8 
+Video length: 	181.2 sec 
+Set (V): 		dev 
+ 
+Kangana_Ranaut/05gr63nmJS8_0000001 55.6 60.2 
+Kangana_Ranaut/05gr63nmJS8_0000002 91.6 95.8 
+Kangana_Ranaut/05gr63nmJS8_0000003 108.4 127.5 
+Kangana_Ranaut/05gr63nmJS8_0000004 136.2 147.2 

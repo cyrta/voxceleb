@@ -1,0 +1,18 @@
+POI: 			Mary_Lynn_Rajskub 
+Youtube ID: 	BiDP8YU-48I 
+Video length: 	522.0 sec 
+Set (V): 		dev 
+ 
+Mary_Lynn_Rajskub/BiDP8YU-48I_0000001 83.6 94.0 
+Mary_Lynn_Rajskub/BiDP8YU-48I_0000002 95.0 104.4 
+Mary_Lynn_Rajskub/BiDP8YU-48I_0000003 116.4 120.5 
+Mary_Lynn_Rajskub/BiDP8YU-48I_0000004 121.4 125.5 
+Mary_Lynn_Rajskub/BiDP8YU-48I_0000005 130.9 137.6 
+Mary_Lynn_Rajskub/BiDP8YU-48I_0000006 164.6 173.9 
+Mary_Lynn_Rajskub/BiDP8YU-48I_0000007 237.4 241.9 
+Mary_Lynn_Rajskub/BiDP8YU-48I_0000008 276.6 287.2 
+Mary_Lynn_Rajskub/BiDP8YU-48I_0000009 330.4 334.4 
+Mary_Lynn_Rajskub/BiDP8YU-48I_0000010 336.5 341.3 
+Mary_Lynn_Rajskub/BiDP8YU-48I_0000011 403.4 414.9 
+Mary_Lynn_Rajskub/BiDP8YU-48I_0000012 419.0 424.7 
+Mary_Lynn_Rajskub/BiDP8YU-48I_0000013 467.0 477.2 

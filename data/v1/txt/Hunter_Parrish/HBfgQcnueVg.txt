@@ -1,0 +1,13 @@
+POI: 			Hunter_Parrish 
+Youtube ID: 	HBfgQcnueVg 
+Video length: 	620.0 sec 
+Set (V): 		dev 
+ 
+Hunter_Parrish/HBfgQcnueVg_0000001 135.6 140.4 
+Hunter_Parrish/HBfgQcnueVg_0000002 210.1 215.0 
+Hunter_Parrish/HBfgQcnueVg_0000003 247.2 252.0 
+Hunter_Parrish/HBfgQcnueVg_0000004 458.5 466.1 
+Hunter_Parrish/HBfgQcnueVg_0000005 480.2 484.2 
+Hunter_Parrish/HBfgQcnueVg_0000006 486.8 495.0 
+Hunter_Parrish/HBfgQcnueVg_0000007 582.1 586.3 
+Hunter_Parrish/HBfgQcnueVg_0000008 570.0 575.4 

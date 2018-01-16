@@ -1,0 +1,9 @@
+POI: 			Katee_Sackhoff 
+Youtube ID: 	UKQDCcr3Szc 
+Video length: 	133.8 sec 
+Set (V): 		dev 
+ 
+Katee_Sackhoff/UKQDCcr3Szc_0000001 09.3 14.9 
+Katee_Sackhoff/UKQDCcr3Szc_0000002 88.0 92.1 
+Katee_Sackhoff/UKQDCcr3Szc_0000003 94.7 98.7 
+Katee_Sackhoff/UKQDCcr3Szc_0000004 127.9 131.8 

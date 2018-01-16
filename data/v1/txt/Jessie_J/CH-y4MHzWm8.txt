@@ -1,0 +1,8 @@
+POI: 			Jessie_J 
+Youtube ID: 	CH-y4MHzWm8 
+Video length: 	259.5 sec 
+Set (V): 		dev 
+ 
+Jessie_J/CH-y4MHzWm8_0000001 57.8 62.1 
+Jessie_J/CH-y4MHzWm8_0000002 105.4 109.6 
+Jessie_J/CH-y4MHzWm8_0000003 234.7 244.0 

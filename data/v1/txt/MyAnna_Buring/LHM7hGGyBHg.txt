@@ -1,0 +1,16 @@
+POI: 			MyAnna_Buring 
+Youtube ID: 	LHM7hGGyBHg 
+Video length: 	189.6 sec 
+Set (V): 		dev 
+ 
+MyAnna_Buring/LHM7hGGyBHg_0000001 18.6 35.1 
+MyAnna_Buring/LHM7hGGyBHg_0000002 37.0 43.3 
+MyAnna_Buring/LHM7hGGyBHg_0000003 44.8 72.8 
+MyAnna_Buring/LHM7hGGyBHg_0000004 73.3 78.2 
+MyAnna_Buring/LHM7hGGyBHg_0000005 104.8 110.9 
+MyAnna_Buring/LHM7hGGyBHg_0000006 119.5 129.4 
+MyAnna_Buring/LHM7hGGyBHg_0000007 129.9 134.1 
+MyAnna_Buring/LHM7hGGyBHg_0000008 135.6 146.4 
+MyAnna_Buring/LHM7hGGyBHg_0000009 159.8 164.2 
+MyAnna_Buring/LHM7hGGyBHg_0000010 164.5 168.7 
+MyAnna_Buring/LHM7hGGyBHg_0000011 178.1 183.8 

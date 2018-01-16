@@ -1,0 +1,8 @@
+POI: 			Abbie_Cornish 
+Youtube ID: 	zQROl4ZsMVA 
+Video length: 	128.4 sec 
+Set (V): 		dev 
+ 
+Abbie_Cornish/zQROl4ZsMVA_0000001 66.0 74.3 
+Abbie_Cornish/zQROl4ZsMVA_0000002 76.3 81.2 
+Abbie_Cornish/zQROl4ZsMVA_0000003 84.2 89.7 

@@ -1,0 +1,12 @@
+POI: 			Paul_McGann 
+Youtube ID: 	2YU2HhZyrP8 
+Video length: 	368.5 sec 
+Set (V): 		dev 
+ 
+Paul_McGann/2YU2HhZyrP8_0000001 35.2 39.1 
+Paul_McGann/2YU2HhZyrP8_0000002 40.0 44.1 
+Paul_McGann/2YU2HhZyrP8_0000003 81.2 86.2 
+Paul_McGann/2YU2HhZyrP8_0000004 284.4 290.8 
+Paul_McGann/2YU2HhZyrP8_0000005 316.1 321.2 
+Paul_McGann/2YU2HhZyrP8_0000006 348.7 352.9 
+Paul_McGann/2YU2HhZyrP8_0000007 353.5 358.9 

@@ -1,0 +1,10 @@
+POI: 			Mathieu_Kassovitz 
+Youtube ID: 	JrFnEVPrAxU 
+Video length: 	172.7 sec 
+Set (V): 		dev 
+ 
+Mathieu_Kassovitz/JrFnEVPrAxU_0000001 14.9 20.4 
+Mathieu_Kassovitz/JrFnEVPrAxU_0000002 20.7 28.9 
+Mathieu_Kassovitz/JrFnEVPrAxU_0000003 112.0 117.6 
+Mathieu_Kassovitz/JrFnEVPrAxU_0000004 149.7 155.2 
+Mathieu_Kassovitz/JrFnEVPrAxU_0000005 156.2 165.4 

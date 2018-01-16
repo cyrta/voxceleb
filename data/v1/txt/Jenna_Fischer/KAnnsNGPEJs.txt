@@ -1,0 +1,16 @@
+POI: 			Jenna_Fischer 
+Youtube ID: 	KAnnsNGPEJs 
+Video length: 	265.0 sec 
+Set (V): 		dev 
+ 
+Jenna_Fischer/KAnnsNGPEJs_0000001 02.1 08.6 
+Jenna_Fischer/KAnnsNGPEJs_0000002 10.6 15.7 
+Jenna_Fischer/KAnnsNGPEJs_0000003 16.2 20.9 
+Jenna_Fischer/KAnnsNGPEJs_0000004 31.5 35.8 
+Jenna_Fischer/KAnnsNGPEJs_0000005 25.1 29.8 
+Jenna_Fischer/KAnnsNGPEJs_0000006 41.3 46.7 
+Jenna_Fischer/KAnnsNGPEJs_0000007 77.2 85.5 
+Jenna_Fischer/KAnnsNGPEJs_0000008 93.1 98.8 
+Jenna_Fischer/KAnnsNGPEJs_0000009 99.4 122.6 
+Jenna_Fischer/KAnnsNGPEJs_0000010 199.7 212.1 
+Jenna_Fischer/KAnnsNGPEJs_0000011 218.7 228.6 

@@ -1,0 +1,17 @@
+POI: 			Eugenio_Derbez 
+Youtube ID: 	19OCRADWjgA 
+Video length: 	302.8 sec 
+Set (V): 		test 
+ 
+Eugenio_Derbez/19OCRADWjgA_0000001 13.8 22.7 
+Eugenio_Derbez/19OCRADWjgA_0000002 24.6 50.6 
+Eugenio_Derbez/19OCRADWjgA_0000003 57.9 66.2 
+Eugenio_Derbez/19OCRADWjgA_0000004 135.8 141.1 
+Eugenio_Derbez/19OCRADWjgA_0000005 166.8 175.4 
+Eugenio_Derbez/19OCRADWjgA_0000006 182.0 191.8 
+Eugenio_Derbez/19OCRADWjgA_0000007 192.6 206.3 
+Eugenio_Derbez/19OCRADWjgA_0000008 206.8 213.6 
+Eugenio_Derbez/19OCRADWjgA_0000009 216.5 221.6 
+Eugenio_Derbez/19OCRADWjgA_0000010 255.4 267.3 
+Eugenio_Derbez/19OCRADWjgA_0000011 270.3 281.7 
+Eugenio_Derbez/19OCRADWjgA_0000012 282.8 287.0 

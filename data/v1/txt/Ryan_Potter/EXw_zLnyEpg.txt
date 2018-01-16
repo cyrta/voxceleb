@@ -1,0 +1,7 @@
+POI: 			Ryan_Potter 
+Youtube ID: 	EXw_zLnyEpg 
+Video length: 	340.1 sec 
+Set (V): 		dev 
+ 
+Ryan_Potter/EXw_zLnyEpg_0000001 208.5 212.6 
+Ryan_Potter/EXw_zLnyEpg_0000002 221.6 225.8 

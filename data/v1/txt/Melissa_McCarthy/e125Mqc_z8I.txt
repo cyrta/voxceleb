@@ -1,0 +1,8 @@
+POI: 			Melissa_McCarthy 
+Youtube ID: 	e125Mqc_z8I 
+Video length: 	374.7 sec 
+Set (V): 		dev 
+ 
+Melissa_McCarthy/e125Mqc_z8I_0000001 80.1 89.0 
+Melissa_McCarthy/e125Mqc_z8I_0000002 176.4 181.7 
+Melissa_McCarthy/e125Mqc_z8I_0000003 202.2 206.3 

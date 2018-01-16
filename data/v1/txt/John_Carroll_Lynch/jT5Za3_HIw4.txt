@@ -1,0 +1,15 @@
+POI: 			John_Carroll_Lynch 
+Youtube ID: 	jT5Za3_HIw4 
+Video length: 	206.7 sec 
+Set (V): 		dev 
+ 
+John_Carroll_Lynch/jT5Za3_HIw4_0000001 06.8 14.2 
+John_Carroll_Lynch/jT5Za3_HIw4_0000002 24.7 31.0 
+John_Carroll_Lynch/jT5Za3_HIw4_0000003 53.4 62.4 
+John_Carroll_Lynch/jT5Za3_HIw4_0000004 75.1 80.3 
+John_Carroll_Lynch/jT5Za3_HIw4_0000005 109.8 114.6 
+John_Carroll_Lynch/jT5Za3_HIw4_0000006 119.8 133.6 
+John_Carroll_Lynch/jT5Za3_HIw4_0000007 167.7 176.3 
+John_Carroll_Lynch/jT5Za3_HIw4_0000008 177.6 183.7 
+John_Carroll_Lynch/jT5Za3_HIw4_0000009 188.4 192.9 
+John_Carroll_Lynch/jT5Za3_HIw4_0000010 194.5 199.2 

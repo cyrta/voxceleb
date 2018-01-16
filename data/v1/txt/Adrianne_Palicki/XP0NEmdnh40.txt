@@ -1,0 +1,8 @@
+POI: 			Adrianne_Palicki 
+Youtube ID: 	XP0NEmdnh40 
+Video length: 	130.3 sec 
+Set (V): 		dev 
+ 
+Adrianne_Palicki/XP0NEmdnh40_0000001 14.3 28.6 
+Adrianne_Palicki/XP0NEmdnh40_0000002 87.8 92.1 
+Adrianne_Palicki/XP0NEmdnh40_0000003 94.8 99.1 

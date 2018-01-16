@@ -1,0 +1,15 @@
+POI: 			Olivia_Williams 
+Youtube ID: 	6ciWZe60ahQ 
+Video length: 	232.3 sec 
+Set (V): 		dev 
+ 
+Olivia_Williams/6ciWZe60ahQ_0000001 36.2 47.5 
+Olivia_Williams/6ciWZe60ahQ_0000002 55.0 59.9 
+Olivia_Williams/6ciWZe60ahQ_0000003 63.6 71.0 
+Olivia_Williams/6ciWZe60ahQ_0000004 83.8 102.0 
+Olivia_Williams/6ciWZe60ahQ_0000005 115.3 120.0 
+Olivia_Williams/6ciWZe60ahQ_0000006 127.6 141.2 
+Olivia_Williams/6ciWZe60ahQ_0000007 144.9 151.7 
+Olivia_Williams/6ciWZe60ahQ_0000008 172.6 192.1 
+Olivia_Williams/6ciWZe60ahQ_0000009 193.0 198.1 
+Olivia_Williams/6ciWZe60ahQ_0000010 211.1 218.3 

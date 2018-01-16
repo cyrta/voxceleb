@@ -1,0 +1,23 @@
+POI: 			Robert_Picardo 
+Youtube ID: 	XI0jZhZt-Mo 
+Video length: 	352.6 sec 
+Set (V): 		dev 
+ 
+Robert_Picardo/XI0jZhZt-Mo_0000001 19.7 24.4 
+Robert_Picardo/XI0jZhZt-Mo_0000002 33.1 37.8 
+Robert_Picardo/XI0jZhZt-Mo_0000003 59.2 63.4 
+Robert_Picardo/XI0jZhZt-Mo_0000004 69.2 76.2 
+Robert_Picardo/XI0jZhZt-Mo_0000005 120.6 128.2 
+Robert_Picardo/XI0jZhZt-Mo_0000006 129.0 135.0 
+Robert_Picardo/XI0jZhZt-Mo_0000007 138.1 151.1 
+Robert_Picardo/XI0jZhZt-Mo_0000008 161.6 166.3 
+Robert_Picardo/XI0jZhZt-Mo_0000009 169.9 186.8 
+Robert_Picardo/XI0jZhZt-Mo_0000010 203.2 215.6 
+Robert_Picardo/XI0jZhZt-Mo_0000011 216.4 222.7 
+Robert_Picardo/XI0jZhZt-Mo_0000012 227.5 238.2 
+Robert_Picardo/XI0jZhZt-Mo_0000013 239.2 244.7 
+Robert_Picardo/XI0jZhZt-Mo_0000014 249.4 255.7 
+Robert_Picardo/XI0jZhZt-Mo_0000015 257.0 264.5 
+Robert_Picardo/XI0jZhZt-Mo_0000016 279.8 294.1 
+Robert_Picardo/XI0jZhZt-Mo_0000017 301.6 306.0 
+Robert_Picardo/XI0jZhZt-Mo_0000018 318.2 339.1 

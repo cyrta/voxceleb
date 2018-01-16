@@ -1,0 +1,10 @@
+POI: 			Zoe_Saldana 
+Youtube ID: 	4AXVcdYxaUI 
+Video length: 	240.7 sec 
+Set (V): 		dev 
+ 
+Zoe_Saldana/4AXVcdYxaUI_0000001 51.4 58.6 
+Zoe_Saldana/4AXVcdYxaUI_0000002 81.3 90.1 
+Zoe_Saldana/4AXVcdYxaUI_0000003 101.5 116.0 
+Zoe_Saldana/4AXVcdYxaUI_0000004 124.0 132.0 
+Zoe_Saldana/4AXVcdYxaUI_0000005 179.0 189.2 

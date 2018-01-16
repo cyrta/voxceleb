@@ -1,0 +1,20 @@
+POI: 			Scott_Speedman 
+Youtube ID: 	0m_0bY8p9_k 
+Video length: 	591.0 sec 
+Set (V): 		dev 
+ 
+Scott_Speedman/0m_0bY8p9_k_0000001 122.4 130.4 
+Scott_Speedman/0m_0bY8p9_k_0000002 162.8 168.6 
+Scott_Speedman/0m_0bY8p9_k_0000003 138.4 148.0 
+Scott_Speedman/0m_0bY8p9_k_0000004 183.8 188.8 
+Scott_Speedman/0m_0bY8p9_k_0000005 237.8 250.4 
+Scott_Speedman/0m_0bY8p9_k_0000006 255.4 267.8 
+Scott_Speedman/0m_0bY8p9_k_0000007 284.6 291.4 
+Scott_Speedman/0m_0bY8p9_k_0000008 298.7 304.1 
+Scott_Speedman/0m_0bY8p9_k_0000009 310.4 314.8 
+Scott_Speedman/0m_0bY8p9_k_0000010 329.7 338.4 
+Scott_Speedman/0m_0bY8p9_k_0000011 380.7 391.1 
+Scott_Speedman/0m_0bY8p9_k_0000012 414.7 419.1 
+Scott_Speedman/0m_0bY8p9_k_0000013 420.8 425.3 
+Scott_Speedman/0m_0bY8p9_k_0000014 426.4 440.6 
+Scott_Speedman/0m_0bY8p9_k_0000015 518.6 522.8 

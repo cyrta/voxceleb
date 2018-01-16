@@ -1,0 +1,7 @@
+POI: 			Andy_Richter 
+Youtube ID: 	drMRNtbuarQ 
+Video length: 	370.2 sec 
+Set (V): 		dev 
+ 
+Andy_Richter/drMRNtbuarQ_0000001 136.7 141.0 
+Andy_Richter/drMRNtbuarQ_0000002 281.0 286.1 

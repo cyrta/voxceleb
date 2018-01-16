@@ -1,0 +1,9 @@
+POI: 			Jeremy_Irvine 
+Youtube ID: 	JZEMKe7EaFo 
+Video length: 	233.7 sec 
+Set (V): 		dev 
+ 
+Jeremy_Irvine/JZEMKe7EaFo_0000001 160.5 169.0 
+Jeremy_Irvine/JZEMKe7EaFo_0000002 198.5 203.2 
+Jeremy_Irvine/JZEMKe7EaFo_0000003 203.9 209.2 
+Jeremy_Irvine/JZEMKe7EaFo_0000004 213.8 224.6 

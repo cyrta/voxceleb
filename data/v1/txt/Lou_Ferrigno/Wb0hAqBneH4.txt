@@ -1,0 +1,12 @@
+POI: 			Lou_Ferrigno 
+Youtube ID: 	Wb0hAqBneH4 
+Video length: 	138.9 sec 
+Set (V): 		dev 
+ 
+Lou_Ferrigno/Wb0hAqBneH4_0000001 09.3 16.5 
+Lou_Ferrigno/Wb0hAqBneH4_0000002 25.1 33.5 
+Lou_Ferrigno/Wb0hAqBneH4_0000003 35.7 55.2 
+Lou_Ferrigno/Wb0hAqBneH4_0000004 59.2 81.4 
+Lou_Ferrigno/Wb0hAqBneH4_0000005 81.4 93.6 
+Lou_Ferrigno/Wb0hAqBneH4_0000006 94.3 101.8 
+Lou_Ferrigno/Wb0hAqBneH4_0000007 105.6 127.9 

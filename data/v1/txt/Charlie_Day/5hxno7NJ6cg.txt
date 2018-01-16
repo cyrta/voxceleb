@@ -1,0 +1,7 @@
+POI: 			Charlie_Day 
+Youtube ID: 	5hxno7NJ6cg 
+Video length: 	206.0 sec 
+Set (V): 		dev 
+ 
+Charlie_Day/5hxno7NJ6cg_0000001 91.0 96.4 
+Charlie_Day/5hxno7NJ6cg_0000002 110.8 115.8 

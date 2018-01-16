@@ -1,0 +1,12 @@
+POI: 			Jared_Leto 
+Youtube ID: 	Li4auu3JAK4 
+Video length: 	130.1 sec 
+Set (V): 		dev 
+ 
+Jared_Leto/Li4auu3JAK4_0000001 05.0 10.5 
+Jared_Leto/Li4auu3JAK4_0000002 11.8 19.8 
+Jared_Leto/Li4auu3JAK4_0000003 27.8 44.2 
+Jared_Leto/Li4auu3JAK4_0000004 49.5 60.6 
+Jared_Leto/Li4auu3JAK4_0000005 68.6 87.0 
+Jared_Leto/Li4auu3JAK4_0000006 92.3 96.2 
+Jared_Leto/Li4auu3JAK4_0000007 113.8 118.8 

@@ -1,0 +1,8 @@
+POI: 			Keri_Russell 
+Youtube ID: 	cl1asdW_Jxg 
+Video length: 	394.6 sec 
+Set (V): 		dev 
+ 
+Keri_Russell/cl1asdW_Jxg_0000001 131.6 142.0 
+Keri_Russell/cl1asdW_Jxg_0000002 142.8 148.8 
+Keri_Russell/cl1asdW_Jxg_0000003 149.6 159.8 

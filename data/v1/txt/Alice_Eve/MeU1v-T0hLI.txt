@@ -1,0 +1,10 @@
+POI: 			Alice_Eve 
+Youtube ID: 	MeU1v-T0hLI 
+Video length: 	284.0 sec 
+Set (V): 		dev 
+ 
+Alice_Eve/MeU1v-T0hLI_0000001 27.0 31.1 
+Alice_Eve/MeU1v-T0hLI_0000002 35.8 43.6 
+Alice_Eve/MeU1v-T0hLI_0000003 145.7 153.7 
+Alice_Eve/MeU1v-T0hLI_0000004 165.7 169.7 
+Alice_Eve/MeU1v-T0hLI_0000005 176.2 186.4 

@@ -1,0 +1,14 @@
+POI: 			Cindy_Williams 
+Youtube ID: 	RMmg7vVURmE 
+Video length: 	159.0 sec 
+Set (V): 		dev 
+ 
+Cindy_Williams/RMmg7vVURmE_0000001 14.3 23.3 
+Cindy_Williams/RMmg7vVURmE_0000002 23.8 34.4 
+Cindy_Williams/RMmg7vVURmE_0000003 35.1 44.0 
+Cindy_Williams/RMmg7vVURmE_0000004 44.3 56.8 
+Cindy_Williams/RMmg7vVURmE_0000005 60.1 66.5 
+Cindy_Williams/RMmg7vVURmE_0000006 74.4 88.2 
+Cindy_Williams/RMmg7vVURmE_0000007 93.3 97.3 
+Cindy_Williams/RMmg7vVURmE_0000008 98.2 105.0 
+Cindy_Williams/RMmg7vVURmE_0000009 106.1 145.5 

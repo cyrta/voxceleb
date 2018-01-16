@@ -1,0 +1,14 @@
+POI: 			Nana_Visitor 
+Youtube ID: 	tEt3ivecnIA 
+Video length: 	485.8 sec 
+Set (V): 		dev 
+ 
+Nana_Visitor/tEt3ivecnIA_0000001 179.5 183.8 
+Nana_Visitor/tEt3ivecnIA_0000002 191.8 222.0 
+Nana_Visitor/tEt3ivecnIA_0000003 184.2 188.4 
+Nana_Visitor/tEt3ivecnIA_0000004 223.8 228.1 
+Nana_Visitor/tEt3ivecnIA_0000005 227.2 236.3 
+Nana_Visitor/tEt3ivecnIA_0000006 346.7 352.3 
+Nana_Visitor/tEt3ivecnIA_0000007 353.0 363.0 
+Nana_Visitor/tEt3ivecnIA_0000008 363.4 370.8 
+Nana_Visitor/tEt3ivecnIA_0000009 357.2 361.5 

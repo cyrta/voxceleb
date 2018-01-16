@@ -1,0 +1,8 @@
+POI: 			Jerry_Ferrara 
+Youtube ID: 	n1DlFuFgEfw 
+Video length: 	174.2 sec 
+Set (V): 		dev 
+ 
+Jerry_Ferrara/n1DlFuFgEfw_0000001 69.8 77.9 
+Jerry_Ferrara/n1DlFuFgEfw_0000002 90.2 99.1 
+Jerry_Ferrara/n1DlFuFgEfw_0000003 116.3 123.0 

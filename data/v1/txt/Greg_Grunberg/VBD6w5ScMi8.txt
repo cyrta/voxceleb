@@ -1,0 +1,19 @@
+POI: 			Greg_Grunberg 
+Youtube ID: 	VBD6w5ScMi8 
+Video length: 	254.4 sec 
+Set (V): 		dev 
+ 
+Greg_Grunberg/VBD6w5ScMi8_0000001 17.6 31.9 
+Greg_Grunberg/VBD6w5ScMi8_0000002 33.0 39.1 
+Greg_Grunberg/VBD6w5ScMi8_0000003 53.7 58.9 
+Greg_Grunberg/VBD6w5ScMi8_0000004 68.3 84.2 
+Greg_Grunberg/VBD6w5ScMi8_0000005 93.0 97.0 
+Greg_Grunberg/VBD6w5ScMi8_0000006 99.9 106.5 
+Greg_Grunberg/VBD6w5ScMi8_0000007 127.1 145.1 
+Greg_Grunberg/VBD6w5ScMi8_0000008 151.7 170.6 
+Greg_Grunberg/VBD6w5ScMi8_0000009 192.1 196.8 
+Greg_Grunberg/VBD6w5ScMi8_0000010 204.3 208.4 
+Greg_Grunberg/VBD6w5ScMi8_0000011 210.7 215.3 
+Greg_Grunberg/VBD6w5ScMi8_0000012 215.6 223.0 
+Greg_Grunberg/VBD6w5ScMi8_0000013 229.6 239.2 
+Greg_Grunberg/VBD6w5ScMi8_0000014 241.0 245.0 

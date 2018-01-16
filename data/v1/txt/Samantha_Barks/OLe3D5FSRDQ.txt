@@ -1,0 +1,7 @@
+POI: 			Samantha_Barks 
+Youtube ID: 	OLe3D5FSRDQ 
+Video length: 	327.3 sec 
+Set (V): 		dev 
+ 
+Samantha_Barks/OLe3D5FSRDQ_0000001 66.4 73.6 
+Samantha_Barks/OLe3D5FSRDQ_0000002 271.6 276.9 

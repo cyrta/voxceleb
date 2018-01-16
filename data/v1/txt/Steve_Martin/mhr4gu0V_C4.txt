@@ -1,0 +1,12 @@
+POI: 			Steve_Martin 
+Youtube ID: 	mhr4gu0V_C4 
+Video length: 	492.5 sec 
+Set (V): 		dev 
+ 
+Steve_Martin/mhr4gu0V_C4_0000001 54.0 58.4 
+Steve_Martin/mhr4gu0V_C4_0000002 88.0 93.9 
+Steve_Martin/mhr4gu0V_C4_0000003 186.0 204.3 
+Steve_Martin/mhr4gu0V_C4_0000004 225.3 230.2 
+Steve_Martin/mhr4gu0V_C4_0000005 275.8 281.2 
+Steve_Martin/mhr4gu0V_C4_0000006 287.3 291.3 
+Steve_Martin/mhr4gu0V_C4_0000007 422.6 428.3 

@@ -1,0 +1,21 @@
+POI: 			Maya_Rudolph 
+Youtube ID: 	nm9ge3yQaZE 
+Video length: 	396.7 sec 
+Set (V): 		dev 
+ 
+Maya_Rudolph/nm9ge3yQaZE_0000001 10.2 16.8 
+Maya_Rudolph/nm9ge3yQaZE_0000002 18.6 23.2 
+Maya_Rudolph/nm9ge3yQaZE_0000003 25.0 37.4 
+Maya_Rudolph/nm9ge3yQaZE_0000004 64.0 71.4 
+Maya_Rudolph/nm9ge3yQaZE_0000005 75.8 82.8 
+Maya_Rudolph/nm9ge3yQaZE_0000006 84.1 92.9 
+Maya_Rudolph/nm9ge3yQaZE_0000007 89.2 93.2 
+Maya_Rudolph/nm9ge3yQaZE_0000008 123.1 137.1 
+Maya_Rudolph/nm9ge3yQaZE_0000009 158.8 166.0 
+Maya_Rudolph/nm9ge3yQaZE_0000010 228.8 234.2 
+Maya_Rudolph/nm9ge3yQaZE_0000011 239.4 247.4 
+Maya_Rudolph/nm9ge3yQaZE_0000012 249.2 253.9 
+Maya_Rudolph/nm9ge3yQaZE_0000013 254.6 263.5 
+Maya_Rudolph/nm9ge3yQaZE_0000014 314.5 330.2 
+Maya_Rudolph/nm9ge3yQaZE_0000015 331.0 341.0 
+Maya_Rudolph/nm9ge3yQaZE_0000016 363.3 369.6 

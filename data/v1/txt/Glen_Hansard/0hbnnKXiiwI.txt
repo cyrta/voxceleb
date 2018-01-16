@@ -1,0 +1,8 @@
+POI: 			Glen_Hansard 
+Youtube ID: 	0hbnnKXiiwI 
+Video length: 	136.5 sec 
+Set (V): 		dev 
+ 
+Glen_Hansard/0hbnnKXiiwI_0000001 16.2 20.6 
+Glen_Hansard/0hbnnKXiiwI_0000002 27.2 31.9 
+Glen_Hansard/0hbnnKXiiwI_0000003 60.9 67.8 

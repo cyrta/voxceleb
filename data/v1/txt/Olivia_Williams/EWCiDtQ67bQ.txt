@@ -1,0 +1,14 @@
+POI: 			Olivia_Williams 
+Youtube ID: 	EWCiDtQ67bQ 
+Video length: 	504.0 sec 
+Set (V): 		dev 
+ 
+Olivia_Williams/EWCiDtQ67bQ_0000001 138.4 152.4 
+Olivia_Williams/EWCiDtQ67bQ_0000002 153.2 174.8 
+Olivia_Williams/EWCiDtQ67bQ_0000003 176.3 180.8 
+Olivia_Williams/EWCiDtQ67bQ_0000004 190.5 198.6 
+Olivia_Williams/EWCiDtQ67bQ_0000005 199.5 219.7 
+Olivia_Williams/EWCiDtQ67bQ_0000006 225.2 249.9 
+Olivia_Williams/EWCiDtQ67bQ_0000007 250.0 255.3 
+Olivia_Williams/EWCiDtQ67bQ_0000008 260.0 268.9 
+Olivia_Williams/EWCiDtQ67bQ_0000009 274.4 293.1 

@@ -1,0 +1,11 @@
+POI: 			Michael_Bay 
+Youtube ID: 	nfcmvQmcz_I 
+Video length: 	242.5 sec 
+Set (V): 		dev 
+ 
+Michael_Bay/nfcmvQmcz_I_0000001 38.4 50.6 
+Michael_Bay/nfcmvQmcz_I_0000002 90.0 94.7 
+Michael_Bay/nfcmvQmcz_I_0000003 147.8 154.4 
+Michael_Bay/nfcmvQmcz_I_0000004 166.3 170.5 
+Michael_Bay/nfcmvQmcz_I_0000005 201.6 207.2 
+Michael_Bay/nfcmvQmcz_I_0000006 207.8 212.1 

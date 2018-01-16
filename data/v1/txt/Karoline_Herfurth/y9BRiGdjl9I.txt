@@ -1,0 +1,17 @@
+POI: 			Karoline_Herfurth 
+Youtube ID: 	y9BRiGdjl9I 
+Video length: 	382.2 sec 
+Set (V): 		dev 
+ 
+Karoline_Herfurth/y9BRiGdjl9I_0000001 85.9 90.7 
+Karoline_Herfurth/y9BRiGdjl9I_0000002 100.8 107.3 
+Karoline_Herfurth/y9BRiGdjl9I_0000003 109.7 116.9 
+Karoline_Herfurth/y9BRiGdjl9I_0000004 145.0 152.7 
+Karoline_Herfurth/y9BRiGdjl9I_0000005 153.8 158.4 
+Karoline_Herfurth/y9BRiGdjl9I_0000006 200.1 208.1 
+Karoline_Herfurth/y9BRiGdjl9I_0000007 229.1 241.5 
+Karoline_Herfurth/y9BRiGdjl9I_0000008 242.4 253.4 
+Karoline_Herfurth/y9BRiGdjl9I_0000009 254.4 261.9 
+Karoline_Herfurth/y9BRiGdjl9I_0000010 298.3 308.0 
+Karoline_Herfurth/y9BRiGdjl9I_0000011 312.7 319.7 
+Karoline_Herfurth/y9BRiGdjl9I_0000012 356.8 368.8 

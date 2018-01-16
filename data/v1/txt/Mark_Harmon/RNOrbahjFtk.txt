@@ -1,0 +1,26 @@
+POI: 			Mark_Harmon 
+Youtube ID: 	RNOrbahjFtk 
+Video length: 	406.9 sec 
+Set (V): 		dev 
+ 
+Mark_Harmon/RNOrbahjFtk_0000001 26.8 31.0 
+Mark_Harmon/RNOrbahjFtk_0000002 32.0 37.6 
+Mark_Harmon/RNOrbahjFtk_0000003 38.7 42.7 
+Mark_Harmon/RNOrbahjFtk_0000004 48.4 55.6 
+Mark_Harmon/RNOrbahjFtk_0000005 65.3 70.0 
+Mark_Harmon/RNOrbahjFtk_0000006 70.4 75.0 
+Mark_Harmon/RNOrbahjFtk_0000007 97.7 102.1 
+Mark_Harmon/RNOrbahjFtk_0000008 113.5 118.7 
+Mark_Harmon/RNOrbahjFtk_0000009 118.8 123.8 
+Mark_Harmon/RNOrbahjFtk_0000010 129.8 134.4 
+Mark_Harmon/RNOrbahjFtk_0000011 162.5 169.0 
+Mark_Harmon/RNOrbahjFtk_0000012 184.4 191.0 
+Mark_Harmon/RNOrbahjFtk_0000013 226.4 235.8 
+Mark_Harmon/RNOrbahjFtk_0000014 256.0 265.4 
+Mark_Harmon/RNOrbahjFtk_0000015 273.6 282.8 
+Mark_Harmon/RNOrbahjFtk_0000016 303.1 311.2 
+Mark_Harmon/RNOrbahjFtk_0000017 313.4 320.9 
+Mark_Harmon/RNOrbahjFtk_0000018 327.8 337.3 
+Mark_Harmon/RNOrbahjFtk_0000019 341.2 348.0 
+Mark_Harmon/RNOrbahjFtk_0000020 372.7 384.9 
+Mark_Harmon/RNOrbahjFtk_0000021 385.1 390.2 

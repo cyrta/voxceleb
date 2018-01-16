@@ -1,0 +1,9 @@
+POI: 			Kim_Raver 
+Youtube ID: 	Txn387jotNQ 
+Video length: 	183.3 sec 
+Set (V): 		dev 
+ 
+Kim_Raver/Txn387jotNQ_0000001 37.2 46.8 
+Kim_Raver/Txn387jotNQ_0000002 47.3 55.5 
+Kim_Raver/Txn387jotNQ_0000003 71.3 76.0 
+Kim_Raver/Txn387jotNQ_0000004 105.6 146.4 

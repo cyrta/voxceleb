@@ -1,0 +1,8 @@
+POI: 			Hope_Solo 
+Youtube ID: 	EUFyNNZPMl0 
+Video length: 	62.1 sec 
+Set (V): 		dev 
+ 
+Hope_Solo/EUFyNNZPMl0_0000001 02.7 08.5 
+Hope_Solo/EUFyNNZPMl0_0000002 09.2 13.2 
+Hope_Solo/EUFyNNZPMl0_0000003 22.8 26.9 

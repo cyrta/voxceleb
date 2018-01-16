@@ -1,0 +1,10 @@
+POI: 			J.K._Simmons 
+Youtube ID: 	UURMX8YDwIc 
+Video length: 	263.2 sec 
+Set (V): 		dev 
+ 
+J.K._Simmons/UURMX8YDwIc_0000001 100.7 122.4 
+J.K._Simmons/UURMX8YDwIc_0000002 143.1 160.8 
+J.K._Simmons/UURMX8YDwIc_0000003 192.2 201.0 
+J.K._Simmons/UURMX8YDwIc_0000004 228.9 233.6 
+J.K._Simmons/UURMX8YDwIc_0000005 235.0 243.0 

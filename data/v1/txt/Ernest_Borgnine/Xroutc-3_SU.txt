@@ -1,0 +1,15 @@
+POI: 			Ernest_Borgnine 
+Youtube ID: 	Xroutc-3_SU 
+Video length: 	177.8 sec 
+Set (V): 		test 
+ 
+Ernest_Borgnine/Xroutc-3_SU_0000001 22.7 42.1 
+Ernest_Borgnine/Xroutc-3_SU_0000002 43.4 54.2 
+Ernest_Borgnine/Xroutc-3_SU_0000003 56.3 61.3 
+Ernest_Borgnine/Xroutc-3_SU_0000004 61.7 73.1 
+Ernest_Borgnine/Xroutc-3_SU_0000005 73.5 82.6 
+Ernest_Borgnine/Xroutc-3_SU_0000006 91.8 113.3 
+Ernest_Borgnine/Xroutc-3_SU_0000007 119.3 131.1 
+Ernest_Borgnine/Xroutc-3_SU_0000008 134.2 149.1 
+Ernest_Borgnine/Xroutc-3_SU_0000009 149.6 159.0 
+Ernest_Borgnine/Xroutc-3_SU_0000010 160.9 167.2 

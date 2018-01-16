@@ -1,0 +1,20 @@
+POI: 			Shane_West 
+Youtube ID: 	YGaZty9KOGk 
+Video length: 	741.9 sec 
+Set (V): 		dev 
+ 
+Shane_West/YGaZty9KOGk_0000001 54.8 58.8 
+Shane_West/YGaZty9KOGk_0000002 69.4 73.5 
+Shane_West/YGaZty9KOGk_0000003 227.4 231.4 
+Shane_West/YGaZty9KOGk_0000004 304.8 310.5 
+Shane_West/YGaZty9KOGk_0000005 329.6 333.6 
+Shane_West/YGaZty9KOGk_0000006 346.4 352.7 
+Shane_West/YGaZty9KOGk_0000007 384.6 389.8 
+Shane_West/YGaZty9KOGk_0000008 389.9 396.6 
+Shane_West/YGaZty9KOGk_0000009 372.6 378.7 
+Shane_West/YGaZty9KOGk_0000010 434.2 439.1 
+Shane_West/YGaZty9KOGk_0000011 594.9 599.1 
+Shane_West/YGaZty9KOGk_0000012 601.4 606.8 
+Shane_West/YGaZty9KOGk_0000013 615.7 620.9 
+Shane_West/YGaZty9KOGk_0000014 625.2 632.6 
+Shane_West/YGaZty9KOGk_0000015 683.2 687.4 

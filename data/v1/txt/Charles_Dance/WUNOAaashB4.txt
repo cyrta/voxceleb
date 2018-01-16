@@ -1,0 +1,7 @@
+POI: 			Charles_Dance 
+Youtube ID: 	WUNOAaashB4 
+Video length: 	155.0 sec 
+Set (V): 		dev 
+ 
+Charles_Dance/WUNOAaashB4_0000001 29.3 34.5 
+Charles_Dance/WUNOAaashB4_0000002 79.9 85.5 

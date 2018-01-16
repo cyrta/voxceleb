@@ -1,0 +1,12 @@
+POI: 			Danny_Pino 
+Youtube ID: 	lWm5-_Q7z5g 
+Video length: 	462.9 sec 
+Set (V): 		dev 
+ 
+Danny_Pino/lWm5-_Q7z5g_0000001 110.0 132.0 
+Danny_Pino/lWm5-_Q7z5g_0000002 142.3 149.5 
+Danny_Pino/lWm5-_Q7z5g_0000003 160.4 183.2 
+Danny_Pino/lWm5-_Q7z5g_0000004 237.0 241.3 
+Danny_Pino/lWm5-_Q7z5g_0000005 243.7 248.8 
+Danny_Pino/lWm5-_Q7z5g_0000006 298.7 304.4 
+Danny_Pino/lWm5-_Q7z5g_0000007 406.0 421.2 

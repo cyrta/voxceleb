@@ -1,0 +1,11 @@
+POI: 			Kylie_Minogue 
+Youtube ID: 	K_UuPpjkVmI 
+Video length: 	670.5 sec 
+Set (V): 		dev 
+ 
+Kylie_Minogue/K_UuPpjkVmI_0000001 251.4 255.5 
+Kylie_Minogue/K_UuPpjkVmI_0000002 283.8 289.3 
+Kylie_Minogue/K_UuPpjkVmI_0000003 331.0 335.8 
+Kylie_Minogue/K_UuPpjkVmI_0000004 338.1 345.2 
+Kylie_Minogue/K_UuPpjkVmI_0000005 548.5 555.3 
+Kylie_Minogue/K_UuPpjkVmI_0000006 640.8 646.6 

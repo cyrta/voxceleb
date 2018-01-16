@@ -1,0 +1,11 @@
+POI: 			Raini_Rodriguez 
+Youtube ID: 	nPMUtna_8IE 
+Video length: 	70.6 sec 
+Set (V): 		dev 
+ 
+Raini_Rodriguez/nPMUtna_8IE_0000001 10.5 15.3 
+Raini_Rodriguez/nPMUtna_8IE_0000002 19.6 24.1 
+Raini_Rodriguez/nPMUtna_8IE_0000003 27.8 32.2 
+Raini_Rodriguez/nPMUtna_8IE_0000004 36.6 41.9 
+Raini_Rodriguez/nPMUtna_8IE_0000005 45.9 50.7 
+Raini_Rodriguez/nPMUtna_8IE_0000006 54.4 67.8 

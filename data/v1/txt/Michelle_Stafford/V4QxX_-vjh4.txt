@@ -1,0 +1,10 @@
+POI: 			Michelle_Stafford 
+Youtube ID: 	V4QxX_-vjh4 
+Video length: 	248.8 sec 
+Set (V): 		dev 
+ 
+Michelle_Stafford/V4QxX_-vjh4_0000001 33.5 42.6 
+Michelle_Stafford/V4QxX_-vjh4_0000002 42.7 53.6 
+Michelle_Stafford/V4QxX_-vjh4_0000003 63.7 71.7 
+Michelle_Stafford/V4QxX_-vjh4_0000004 86.8 108.0 
+Michelle_Stafford/V4QxX_-vjh4_0000005 118.5 134.8 

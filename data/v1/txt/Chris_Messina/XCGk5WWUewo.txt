@@ -1,0 +1,13 @@
+POI: 			Chris_Messina 
+Youtube ID: 	XCGk5WWUewo 
+Video length: 	236.0 sec 
+Set (V): 		dev 
+ 
+Chris_Messina/XCGk5WWUewo_0000001 21.9 26.1 
+Chris_Messina/XCGk5WWUewo_0000002 41.0 47.7 
+Chris_Messina/XCGk5WWUewo_0000003 51.0 56.5 
+Chris_Messina/XCGk5WWUewo_0000004 107.0 114.2 
+Chris_Messina/XCGk5WWUewo_0000005 157.4 169.1 
+Chris_Messina/XCGk5WWUewo_0000006 172.2 178.6 
+Chris_Messina/XCGk5WWUewo_0000007 182.8 198.4 
+Chris_Messina/XCGk5WWUewo_0000008 198.6 203.4 

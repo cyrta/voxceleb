@@ -1,0 +1,7 @@
+POI: 			Steve_Burton 
+Youtube ID: 	6p2CPsUUJrE 
+Video length: 	133.1 sec 
+Set (V): 		dev 
+ 
+Steve_Burton/6p2CPsUUJrE_0000001 50.0 63.6 
+Steve_Burton/6p2CPsUUJrE_0000002 65.5 70.8 

@@ -1,0 +1,13 @@
+POI: 			Andrew_Rannells 
+Youtube ID: 	8fT6sfBCIrA 
+Video length: 	221.6 sec 
+Set (V): 		dev 
+ 
+Andrew_Rannells/8fT6sfBCIrA_0000001 09.3 21.8 
+Andrew_Rannells/8fT6sfBCIrA_0000002 41.3 50.4 
+Andrew_Rannells/8fT6sfBCIrA_0000003 52.2 64.2 
+Andrew_Rannells/8fT6sfBCIrA_0000004 80.4 84.5 
+Andrew_Rannells/8fT6sfBCIrA_0000005 84.8 103.5 
+Andrew_Rannells/8fT6sfBCIrA_0000006 131.5 136.0 
+Andrew_Rannells/8fT6sfBCIrA_0000007 136.7 162.4 
+Andrew_Rannells/8fT6sfBCIrA_0000008 185.9 197.0 

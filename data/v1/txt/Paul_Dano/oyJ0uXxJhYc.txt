@@ -1,0 +1,22 @@
+POI: 			Paul_Dano 
+Youtube ID: 	oyJ0uXxJhYc 
+Video length: 	317.8 sec 
+Set (V): 		dev 
+ 
+Paul_Dano/oyJ0uXxJhYc_0000001 22.5 35.7 
+Paul_Dano/oyJ0uXxJhYc_0000002 39.2 44.7 
+Paul_Dano/oyJ0uXxJhYc_0000003 59.0 77.5 
+Paul_Dano/oyJ0uXxJhYc_0000004 78.7 85.2 
+Paul_Dano/oyJ0uXxJhYc_0000005 98.0 103.4 
+Paul_Dano/oyJ0uXxJhYc_0000006 103.8 116.1 
+Paul_Dano/oyJ0uXxJhYc_0000007 122.5 129.5 
+Paul_Dano/oyJ0uXxJhYc_0000008 129.6 139.5 
+Paul_Dano/oyJ0uXxJhYc_0000009 141.6 145.6 
+Paul_Dano/oyJ0uXxJhYc_0000010 158.8 181.2 
+Paul_Dano/oyJ0uXxJhYc_0000011 181.3 196.1 
+Paul_Dano/oyJ0uXxJhYc_0000012 206.9 214.4 
+Paul_Dano/oyJ0uXxJhYc_0000013 216.8 223.0 
+Paul_Dano/oyJ0uXxJhYc_0000014 223.3 228.4 
+Paul_Dano/oyJ0uXxJhYc_0000015 257.1 283.0 
+Paul_Dano/oyJ0uXxJhYc_0000016 286.2 290.3 
+Paul_Dano/oyJ0uXxJhYc_0000017 295.9 301.1 

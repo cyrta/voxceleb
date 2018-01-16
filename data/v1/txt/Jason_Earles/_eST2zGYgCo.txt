@@ -1,0 +1,11 @@
+POI: 			Jason_Earles 
+Youtube ID: 	_eST2zGYgCo 
+Video length: 	110.6 sec 
+Set (V): 		dev 
+ 
+Jason_Earles/_eST2zGYgCo_0000001 07.4 17.0 
+Jason_Earles/_eST2zGYgCo_0000002 19.4 23.9 
+Jason_Earles/_eST2zGYgCo_0000003 65.5 69.8 
+Jason_Earles/_eST2zGYgCo_0000004 72.9 81.2 
+Jason_Earles/_eST2zGYgCo_0000005 83.9 88.2 
+Jason_Earles/_eST2zGYgCo_0000006 94.4 102.5 

@@ -1,0 +1,11 @@
+POI: 			Will_Yun_Lee 
+Youtube ID: 	Oxak6oRBUHA 
+Video length: 	153.9 sec 
+Set (V): 		dev 
+ 
+Will_Yun_Lee/Oxak6oRBUHA_0000001 23.3 38.7 
+Will_Yun_Lee/Oxak6oRBUHA_0000002 43.7 50.4 
+Will_Yun_Lee/Oxak6oRBUHA_0000003 59.3 68.4 
+Will_Yun_Lee/Oxak6oRBUHA_0000004 102.6 112.7 
+Will_Yun_Lee/Oxak6oRBUHA_0000005 131.4 140.1 
+Will_Yun_Lee/Oxak6oRBUHA_0000006 143.5 148.2 

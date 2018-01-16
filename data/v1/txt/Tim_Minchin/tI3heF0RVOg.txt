@@ -1,0 +1,13 @@
+POI: 			Tim_Minchin 
+Youtube ID: 	tI3heF0RVOg 
+Video length: 	416.9 sec 
+Set (V): 		dev 
+ 
+Tim_Minchin/tI3heF0RVOg_0000001 57.7 62.5 
+Tim_Minchin/tI3heF0RVOg_0000002 145.2 155.3 
+Tim_Minchin/tI3heF0RVOg_0000003 161.3 172.0 
+Tim_Minchin/tI3heF0RVOg_0000004 222.2 228.2 
+Tim_Minchin/tI3heF0RVOg_0000005 228.9 235.4 
+Tim_Minchin/tI3heF0RVOg_0000006 260.7 267.2 
+Tim_Minchin/tI3heF0RVOg_0000007 330.4 338.1 
+Tim_Minchin/tI3heF0RVOg_0000008 341.7 359.8 

@@ -1,0 +1,11 @@
+POI: 			Yvette_Nicole_Brown 
+Youtube ID: 	dLXjtJDCjN4 
+Video length: 	96.5 sec 
+Set (V): 		dev 
+ 
+Yvette_Nicole_Brown/dLXjtJDCjN4_0000001 18.8 23.4 
+Yvette_Nicole_Brown/dLXjtJDCjN4_0000002 34.5 41.4 
+Yvette_Nicole_Brown/dLXjtJDCjN4_0000003 44.9 51.9 
+Yvette_Nicole_Brown/dLXjtJDCjN4_0000004 56.8 60.8 
+Yvette_Nicole_Brown/dLXjtJDCjN4_0000005 67.4 74.2 
+Yvette_Nicole_Brown/dLXjtJDCjN4_0000006 85.8 90.5 

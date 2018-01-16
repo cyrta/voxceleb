@@ -1,0 +1,9 @@
+POI: 			Adam_Beach 
+Youtube ID: 	JntZkGsH2Cc 
+Video length: 	183.8 sec 
+Set (V): 		dev 
+ 
+Adam_Beach/JntZkGsH2Cc_0000001 07.0 33.3 
+Adam_Beach/JntZkGsH2Cc_0000002 53.1 68.1 
+Adam_Beach/JntZkGsH2Cc_0000003 70.2 81.8 
+Adam_Beach/JntZkGsH2Cc_0000004 114.0 121.2 

@@ -1,0 +1,12 @@
+POI: 			Paul_Scheer 
+Youtube ID: 	YEhj0NORvBM 
+Video length: 	125.8 sec 
+Set (V): 		dev 
+ 
+Paul_Scheer/YEhj0NORvBM_0000001 09.2 14.0 
+Paul_Scheer/YEhj0NORvBM_0000002 27.6 33.4 
+Paul_Scheer/YEhj0NORvBM_0000003 43.0 56.4 
+Paul_Scheer/YEhj0NORvBM_0000004 61.0 77.2 
+Paul_Scheer/YEhj0NORvBM_0000005 79.4 87.3 
+Paul_Scheer/YEhj0NORvBM_0000006 92.5 103.7 
+Paul_Scheer/YEhj0NORvBM_0000007 110.9 117.7 

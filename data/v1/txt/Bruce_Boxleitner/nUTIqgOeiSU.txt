@@ -1,0 +1,8 @@
+POI: 			Bruce_Boxleitner 
+Youtube ID: 	nUTIqgOeiSU 
+Video length: 	369.4 sec 
+Set (V): 		dev 
+ 
+Bruce_Boxleitner/nUTIqgOeiSU_0000001 89.4 94.6 
+Bruce_Boxleitner/nUTIqgOeiSU_0000002 221.3 226.2 
+Bruce_Boxleitner/nUTIqgOeiSU_0000003 231.5 236.8 

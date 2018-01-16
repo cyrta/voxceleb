@@ -1,0 +1,10 @@
+POI: 			Tim_Burton 
+Youtube ID: 	AVSiY2PbTtc 
+Video length: 	521.6 sec 
+Set (V): 		dev 
+ 
+Tim_Burton/AVSiY2PbTtc_0000001 177.0 183.1 
+Tim_Burton/AVSiY2PbTtc_0000002 288.6 293.3 
+Tim_Burton/AVSiY2PbTtc_0000003 340.5 345.3 
+Tim_Burton/AVSiY2PbTtc_0000004 425.2 431.1 
+Tim_Burton/AVSiY2PbTtc_0000005 448.5 452.9 

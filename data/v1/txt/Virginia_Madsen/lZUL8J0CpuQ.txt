@@ -1,0 +1,8 @@
+POI: 			Virginia_Madsen 
+Youtube ID: 	lZUL8J0CpuQ 
+Video length: 	98.2 sec 
+Set (V): 		dev 
+ 
+Virginia_Madsen/lZUL8J0CpuQ_0000001 65.2 73.0 
+Virginia_Madsen/lZUL8J0CpuQ_0000002 77.0 83.0 
+Virginia_Madsen/lZUL8J0CpuQ_0000003 85.8 93.8 

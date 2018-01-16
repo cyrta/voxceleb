@@ -1,0 +1,12 @@
+POI: 			Jason_Earles 
+Youtube ID: 	zLM8coG_92k 
+Video length: 	510.2 sec 
+Set (V): 		dev 
+ 
+Jason_Earles/zLM8coG_92k_0000001 91.2 95.8 
+Jason_Earles/zLM8coG_92k_0000002 96.5 102.9 
+Jason_Earles/zLM8coG_92k_0000003 108.4 112.5 
+Jason_Earles/zLM8coG_92k_0000004 271.1 277.0 
+Jason_Earles/zLM8coG_92k_0000005 279.5 287.7 
+Jason_Earles/zLM8coG_92k_0000006 409.4 418.3 
+Jason_Earles/zLM8coG_92k_0000007 422.4 430.9 

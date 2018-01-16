@@ -1,0 +1,11 @@
+POI: 			Taylor_Momsen 
+Youtube ID: 	qinlUz4izMs 
+Video length: 	723.2 sec 
+Set (V): 		dev 
+ 
+Taylor_Momsen/qinlUz4izMs_0000001 140.4 145.9 
+Taylor_Momsen/qinlUz4izMs_0000002 160.4 165.9 
+Taylor_Momsen/qinlUz4izMs_0000003 259.3 263.4 
+Taylor_Momsen/qinlUz4izMs_0000004 264.9 269.2 
+Taylor_Momsen/qinlUz4izMs_0000005 296.1 302.6 
+Taylor_Momsen/qinlUz4izMs_0000006 376.5 381.6 

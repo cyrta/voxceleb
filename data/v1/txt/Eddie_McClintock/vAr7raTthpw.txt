@@ -1,0 +1,10 @@
+POI: 			Eddie_McClintock 
+Youtube ID: 	vAr7raTthpw 
+Video length: 	596.7 sec 
+Set (V): 		test 
+ 
+Eddie_McClintock/vAr7raTthpw_0000001 46.4 51.2 
+Eddie_McClintock/vAr7raTthpw_0000002 52.4 60.8 
+Eddie_McClintock/vAr7raTthpw_0000003 110.6 115.6 
+Eddie_McClintock/vAr7raTthpw_0000004 185.0 189.1 
+Eddie_McClintock/vAr7raTthpw_0000005 315.0 320.1 

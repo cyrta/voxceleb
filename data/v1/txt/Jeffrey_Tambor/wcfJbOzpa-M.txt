@@ -1,0 +1,11 @@
+POI: 			Jeffrey_Tambor 
+Youtube ID: 	wcfJbOzpa-M 
+Video length: 	126.4 sec 
+Set (V): 		dev 
+ 
+Jeffrey_Tambor/wcfJbOzpa-M_0000001 06.2 16.1 
+Jeffrey_Tambor/wcfJbOzpa-M_0000002 40.3 44.5 
+Jeffrey_Tambor/wcfJbOzpa-M_0000003 40.2 57.1 
+Jeffrey_Tambor/wcfJbOzpa-M_0000004 72.9 81.0 
+Jeffrey_Tambor/wcfJbOzpa-M_0000005 88.9 98.8 
+Jeffrey_Tambor/wcfJbOzpa-M_0000006 105.2 112.7 

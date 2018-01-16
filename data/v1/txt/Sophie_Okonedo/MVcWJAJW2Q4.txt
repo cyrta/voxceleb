@@ -1,0 +1,14 @@
+POI: 			Sophie_Okonedo 
+Youtube ID: 	MVcWJAJW2Q4 
+Video length: 	202.9 sec 
+Set (V): 		dev 
+ 
+Sophie_Okonedo/MVcWJAJW2Q4_0000001 06.1 19.4 
+Sophie_Okonedo/MVcWJAJW2Q4_0000002 19.6 27.7 
+Sophie_Okonedo/MVcWJAJW2Q4_0000003 29.3 34.6 
+Sophie_Okonedo/MVcWJAJW2Q4_0000004 59.0 64.8 
+Sophie_Okonedo/MVcWJAJW2Q4_0000005 67.0 81.5 
+Sophie_Okonedo/MVcWJAJW2Q4_0000006 97.2 103.9 
+Sophie_Okonedo/MVcWJAJW2Q4_0000007 114.7 120.2 
+Sophie_Okonedo/MVcWJAJW2Q4_0000008 152.9 162.1 
+Sophie_Okonedo/MVcWJAJW2Q4_0000009 192.5 199.5 

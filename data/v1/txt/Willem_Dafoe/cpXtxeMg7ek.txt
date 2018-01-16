@@ -1,0 +1,9 @@
+POI: 			Willem_Dafoe 
+Youtube ID: 	cpXtxeMg7ek 
+Video length: 	509.4 sec 
+Set (V): 		dev 
+ 
+Willem_Dafoe/cpXtxeMg7ek_0000001 91.3 100.4 
+Willem_Dafoe/cpXtxeMg7ek_0000002 301.4 305.6 
+Willem_Dafoe/cpXtxeMg7ek_0000003 445.4 449.7 
+Willem_Dafoe/cpXtxeMg7ek_0000004 489.4 493.9 

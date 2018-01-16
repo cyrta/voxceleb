@@ -1,0 +1,11 @@
+POI: 			John_Turturro 
+Youtube ID: 	4K03I8nQ4Bo 
+Video length: 	509.6 sec 
+Set (V): 		dev 
+ 
+John_Turturro/4K03I8nQ4Bo_0000001 50.5 55.0 
+John_Turturro/4K03I8nQ4Bo_0000002 183.2 187.8 
+John_Turturro/4K03I8nQ4Bo_0000003 333.9 338.8 
+John_Turturro/4K03I8nQ4Bo_0000004 371.9 376.1 
+John_Turturro/4K03I8nQ4Bo_0000005 379.4 384.8 
+John_Turturro/4K03I8nQ4Bo_0000006 425.6 430.2 

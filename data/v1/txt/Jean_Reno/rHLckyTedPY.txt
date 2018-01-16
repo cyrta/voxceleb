@@ -1,0 +1,13 @@
+POI: 			Jean_Reno 
+Youtube ID: 	rHLckyTedPY 
+Video length: 	164.7 sec 
+Set (V): 		dev 
+ 
+Jean_Reno/rHLckyTedPY_0000001 05.7 10.5 
+Jean_Reno/rHLckyTedPY_0000002 23.0 28.3 
+Jean_Reno/rHLckyTedPY_0000003 61.4 68.4 
+Jean_Reno/rHLckyTedPY_0000004 82.3 91.9 
+Jean_Reno/rHLckyTedPY_0000005 101.0 109.7 
+Jean_Reno/rHLckyTedPY_0000006 110.6 119.3 
+Jean_Reno/rHLckyTedPY_0000007 129.4 140.2 
+Jean_Reno/rHLckyTedPY_0000008 152.1 157.9 

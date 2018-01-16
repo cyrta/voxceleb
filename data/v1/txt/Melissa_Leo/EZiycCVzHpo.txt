@@ -1,0 +1,12 @@
+POI: 			Melissa_Leo 
+Youtube ID: 	EZiycCVzHpo 
+Video length: 	543.8 sec 
+Set (V): 		dev 
+ 
+Melissa_Leo/EZiycCVzHpo_0000001 305.2 312.8 
+Melissa_Leo/EZiycCVzHpo_0000002 318.8 328.3 
+Melissa_Leo/EZiycCVzHpo_0000003 330.0 344.2 
+Melissa_Leo/EZiycCVzHpo_0000004 305.3 312.7 
+Melissa_Leo/EZiycCVzHpo_0000005 318.5 327.8 
+Melissa_Leo/EZiycCVzHpo_0000006 485.0 492.7 
+Melissa_Leo/EZiycCVzHpo_0000007 497.2 502.2 

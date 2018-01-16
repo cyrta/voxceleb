@@ -1,0 +1,7 @@
+POI: 			Dawn_French 
+Youtube ID: 	KSMgTcj1dE4 
+Video length: 	282.3 sec 
+Set (V): 		dev 
+ 
+Dawn_French/KSMgTcj1dE4_0000001 169.5 175.6 
+Dawn_French/KSMgTcj1dE4_0000002 183.3 187.6 

@@ -1,0 +1,7 @@
+POI: 			Ludacris 
+Youtube ID: 	EllKmlVrbG0 
+Video length: 	118.0 sec 
+Set (V): 		dev 
+ 
+Ludacris/EllKmlVrbG0_0000001 13.2 22.6 
+Ludacris/EllKmlVrbG0_0000002 62.3 72.9 

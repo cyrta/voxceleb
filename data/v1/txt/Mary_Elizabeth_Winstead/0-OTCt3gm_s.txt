@@ -1,0 +1,20 @@
+POI: 			Mary_Elizabeth_Winstead 
+Youtube ID: 	0-OTCt3gm_s 
+Video length: 	481.6 sec 
+Set (V): 		dev 
+ 
+Mary_Elizabeth_Winstead/0-OTCt3gm_s_0000001 13.5 28.0 
+Mary_Elizabeth_Winstead/0-OTCt3gm_s_0000002 28.4 36.2 
+Mary_Elizabeth_Winstead/0-OTCt3gm_s_0000003 43.6 48.5 
+Mary_Elizabeth_Winstead/0-OTCt3gm_s_0000004 65.5 69.6 
+Mary_Elizabeth_Winstead/0-OTCt3gm_s_0000005 72.5 89.3 
+Mary_Elizabeth_Winstead/0-OTCt3gm_s_0000006 106.8 111.7 
+Mary_Elizabeth_Winstead/0-OTCt3gm_s_0000007 118.5 139.1 
+Mary_Elizabeth_Winstead/0-OTCt3gm_s_0000008 139.4 144.0 
+Mary_Elizabeth_Winstead/0-OTCt3gm_s_0000009 176.9 182.8 
+Mary_Elizabeth_Winstead/0-OTCt3gm_s_0000010 183.6 192.7 
+Mary_Elizabeth_Winstead/0-OTCt3gm_s_0000011 201.8 220.6 
+Mary_Elizabeth_Winstead/0-OTCt3gm_s_0000012 225.3 230.5 
+Mary_Elizabeth_Winstead/0-OTCt3gm_s_0000013 235.4 244.9 
+Mary_Elizabeth_Winstead/0-OTCt3gm_s_0000014 247.0 256.6 
+Mary_Elizabeth_Winstead/0-OTCt3gm_s_0000015 300.6 316.6 

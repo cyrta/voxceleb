@@ -1,0 +1,10 @@
+POI: 			Brendan_Gleeson 
+Youtube ID: 	WGs_AfC1lTU 
+Video length: 	352.3 sec 
+Set (V): 		dev 
+ 
+Brendan_Gleeson/WGs_AfC1lTU_0000001 61.1 65.4 
+Brendan_Gleeson/WGs_AfC1lTU_0000002 81.2 87.4 
+Brendan_Gleeson/WGs_AfC1lTU_0000003 138.5 145.7 
+Brendan_Gleeson/WGs_AfC1lTU_0000004 146.8 155.7 
+Brendan_Gleeson/WGs_AfC1lTU_0000005 229.8 237.5 

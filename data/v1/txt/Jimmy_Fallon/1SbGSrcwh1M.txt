@@ -1,0 +1,8 @@
+POI: 			Jimmy_Fallon 
+Youtube ID: 	1SbGSrcwh1M 
+Video length: 	383.2 sec 
+Set (V): 		dev 
+ 
+Jimmy_Fallon/1SbGSrcwh1M_0000001 80.8 95.4 
+Jimmy_Fallon/1SbGSrcwh1M_0000002 96.8 103.4 
+Jimmy_Fallon/1SbGSrcwh1M_0000003 194.4 211.3 

@@ -1,0 +1,7 @@
+POI: 			John_Hodgman 
+Youtube ID: 	Jaue_VfRx1o 
+Video length: 	291.3 sec 
+Set (V): 		dev 
+ 
+John_Hodgman/Jaue_VfRx1o_0000001 101.1 105.0 
+John_Hodgman/Jaue_VfRx1o_0000002 169.0 173.0 

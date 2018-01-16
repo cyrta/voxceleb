@@ -1,0 +1,8 @@
+POI: 			Oona_Chaplin 
+Youtube ID: 	jqtJGF51KcY 
+Video length: 	172.3 sec 
+Set (V): 		dev 
+ 
+Oona_Chaplin/jqtJGF51KcY_0000001 30.1 35.4 
+Oona_Chaplin/jqtJGF51KcY_0000002 73.4 77.6 
+Oona_Chaplin/jqtJGF51KcY_0000003 83.3 87.8 

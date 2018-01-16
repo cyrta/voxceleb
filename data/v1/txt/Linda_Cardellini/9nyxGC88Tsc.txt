@@ -1,0 +1,7 @@
+POI: 			Linda_Cardellini 
+Youtube ID: 	9nyxGC88Tsc 
+Video length: 	462.6 sec 
+Set (V): 		dev 
+ 
+Linda_Cardellini/9nyxGC88Tsc_0000001 276.3 284.8 
+Linda_Cardellini/9nyxGC88Tsc_0000002 384.7 388.8 

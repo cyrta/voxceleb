@@ -1,0 +1,7 @@
+POI: 			Michael_C._Hall 
+Youtube ID: 	A5fLStP_FaE 
+Video length: 	277.8 sec 
+Set (V): 		dev 
+ 
+Michael_C._Hall/A5fLStP_FaE_0000001 130.7 134.8 
+Michael_C._Hall/A5fLStP_FaE_0000002 176.6 180.6 

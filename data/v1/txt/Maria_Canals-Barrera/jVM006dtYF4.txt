@@ -1,0 +1,9 @@
+POI: 			Maria_Canals-Barrera 
+Youtube ID: 	jVM006dtYF4 
+Video length: 	621.9 sec 
+Set (V): 		dev 
+ 
+Maria_Canals-Barrera/jVM006dtYF4_0000001 60.5 64.9 
+Maria_Canals-Barrera/jVM006dtYF4_0000002 300.1 305.0 
+Maria_Canals-Barrera/jVM006dtYF4_0000003 306.8 310.9 
+Maria_Canals-Barrera/jVM006dtYF4_0000004 408.4 412.8 

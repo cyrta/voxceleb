@@ -1,0 +1,21 @@
+POI: 			Danny_McBride 
+Youtube ID: 	Xz6EDTadgt8 
+Video length: 	454.6 sec 
+Set (V): 		dev 
+ 
+Danny_McBride/Xz6EDTadgt8_0000001 50.0 65.6 
+Danny_McBride/Xz6EDTadgt8_0000002 88.0 105.8 
+Danny_McBride/Xz6EDTadgt8_0000003 125.0 136.9 
+Danny_McBride/Xz6EDTadgt8_0000004 155.6 172.7 
+Danny_McBride/Xz6EDTadgt8_0000005 195.9 213.1 
+Danny_McBride/Xz6EDTadgt8_0000006 213.6 221.5 
+Danny_McBride/Xz6EDTadgt8_0000007 237.6 246.7 
+Danny_McBride/Xz6EDTadgt8_0000008 262.7 267.6 
+Danny_McBride/Xz6EDTadgt8_0000009 267.9 277.8 
+Danny_McBride/Xz6EDTadgt8_0000010 296.3 305.4 
+Danny_McBride/Xz6EDTadgt8_0000011 306.3 312.6 
+Danny_McBride/Xz6EDTadgt8_0000012 330.5 338.2 
+Danny_McBride/Xz6EDTadgt8_0000013 346.8 363.5 
+Danny_McBride/Xz6EDTadgt8_0000014 368.4 374.5 
+Danny_McBride/Xz6EDTadgt8_0000015 399.8 413.1 
+Danny_McBride/Xz6EDTadgt8_0000016 434.4 448.3 

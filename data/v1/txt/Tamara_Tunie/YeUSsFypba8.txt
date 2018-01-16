@@ -1,0 +1,28 @@
+POI: 			Tamara_Tunie 
+Youtube ID: 	YeUSsFypba8 
+Video length: 	672.9 sec 
+Set (V): 		dev 
+ 
+Tamara_Tunie/YeUSsFypba8_0000001 39.3 46.2 
+Tamara_Tunie/YeUSsFypba8_0000002 71.3 82.6 
+Tamara_Tunie/YeUSsFypba8_0000003 116.3 132.1 
+Tamara_Tunie/YeUSsFypba8_0000004 137.9 150.9 
+Tamara_Tunie/YeUSsFypba8_0000005 158.3 164.1 
+Tamara_Tunie/YeUSsFypba8_0000006 184.5 191.6 
+Tamara_Tunie/YeUSsFypba8_0000007 293.6 299.6 
+Tamara_Tunie/YeUSsFypba8_0000008 300.8 312.0 
+Tamara_Tunie/YeUSsFypba8_0000009 317.7 327.0 
+Tamara_Tunie/YeUSsFypba8_0000010 329.3 333.7 
+Tamara_Tunie/YeUSsFypba8_0000011 361.3 372.6 
+Tamara_Tunie/YeUSsFypba8_0000012 386.8 414.1 
+Tamara_Tunie/YeUSsFypba8_0000013 439.2 458.5 
+Tamara_Tunie/YeUSsFypba8_0000014 474.9 485.8 
+Tamara_Tunie/YeUSsFypba8_0000015 518.2 523.1 
+Tamara_Tunie/YeUSsFypba8_0000016 525.8 531.4 
+Tamara_Tunie/YeUSsFypba8_0000017 539.9 552.4 
+Tamara_Tunie/YeUSsFypba8_0000018 552.6 579.7 
+Tamara_Tunie/YeUSsFypba8_0000019 584.0 593.3 
+Tamara_Tunie/YeUSsFypba8_0000020 605.3 620.0 
+Tamara_Tunie/YeUSsFypba8_0000021 620.1 629.0 
+Tamara_Tunie/YeUSsFypba8_0000022 638.2 643.2 
+Tamara_Tunie/YeUSsFypba8_0000023 643.8 649.6 

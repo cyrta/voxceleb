@@ -1,0 +1,9 @@
+POI: 			Tamara_Taylor 
+Youtube ID: 	y1hoJLmCreg 
+Video length: 	421.8 sec 
+Set (V): 		dev 
+ 
+Tamara_Taylor/y1hoJLmCreg_0000001 156.3 160.8 
+Tamara_Taylor/y1hoJLmCreg_0000002 187.8 191.8 
+Tamara_Taylor/y1hoJLmCreg_0000003 255.2 260.0 
+Tamara_Taylor/y1hoJLmCreg_0000004 327.9 331.9 

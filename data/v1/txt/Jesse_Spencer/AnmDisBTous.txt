@@ -1,0 +1,9 @@
+POI: 			Jesse_Spencer 
+Youtube ID: 	AnmDisBTous 
+Video length: 	123.7 sec 
+Set (V): 		dev 
+ 
+Jesse_Spencer/AnmDisBTous_0000001 28.0 33.3 
+Jesse_Spencer/AnmDisBTous_0000002 62.8 77.5 
+Jesse_Spencer/AnmDisBTous_0000003 85.0 90.3 
+Jesse_Spencer/AnmDisBTous_0000004 100.2 105.3 

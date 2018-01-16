@@ -1,0 +1,8 @@
+POI: 			Chris_Martin 
+Youtube ID: 	7WRTfE-gTm0 
+Video length: 	363.2 sec 
+Set (V): 		dev 
+ 
+Chris_Martin/7WRTfE-gTm0_0000001 117.4 124.6 
+Chris_Martin/7WRTfE-gTm0_0000002 220.2 227.3 
+Chris_Martin/7WRTfE-gTm0_0000003 244.7 252.9 

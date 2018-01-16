@@ -1,0 +1,7 @@
+POI: 			Ken_Jeong 
+Youtube ID: 	w2EwD1kykmQ 
+Video length: 	245.0 sec 
+Set (V): 		dev 
+ 
+Ken_Jeong/w2EwD1kykmQ_0000001 203.5 209.4 
+Ken_Jeong/w2EwD1kykmQ_0000002 224.5 229.0 

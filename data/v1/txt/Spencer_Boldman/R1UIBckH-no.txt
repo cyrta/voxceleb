@@ -1,0 +1,14 @@
+POI: 			Spencer_Boldman 
+Youtube ID: 	R1UIBckH-no 
+Video length: 	298.7 sec 
+Set (V): 		dev 
+ 
+Spencer_Boldman/R1UIBckH-no_0000001 62.9 67.4 
+Spencer_Boldman/R1UIBckH-no_0000002 83.1 88.4 
+Spencer_Boldman/R1UIBckH-no_0000003 114.3 119.9 
+Spencer_Boldman/R1UIBckH-no_0000004 128.2 132.4 
+Spencer_Boldman/R1UIBckH-no_0000005 235.2 241.2 
+Spencer_Boldman/R1UIBckH-no_0000006 242.6 247.0 
+Spencer_Boldman/R1UIBckH-no_0000007 265.4 270.7 
+Spencer_Boldman/R1UIBckH-no_0000008 275.0 280.2 
+Spencer_Boldman/R1UIBckH-no_0000009 285.8 289.9 

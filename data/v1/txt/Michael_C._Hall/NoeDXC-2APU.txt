@@ -1,0 +1,18 @@
+POI: 			Michael_C._Hall 
+Youtube ID: 	NoeDXC-2APU 
+Video length: 	614.6 sec 
+Set (V): 		dev 
+ 
+Michael_C._Hall/NoeDXC-2APU_0000001 27.0 33.9 
+Michael_C._Hall/NoeDXC-2APU_0000002 42.9 49.8 
+Michael_C._Hall/NoeDXC-2APU_0000003 78.0 84.7 
+Michael_C._Hall/NoeDXC-2APU_0000004 135.1 139.1 
+Michael_C._Hall/NoeDXC-2APU_0000005 198.2 202.6 
+Michael_C._Hall/NoeDXC-2APU_0000006 254.6 258.8 
+Michael_C._Hall/NoeDXC-2APU_0000007 267.6 272.2 
+Michael_C._Hall/NoeDXC-2APU_0000008 310.6 315.4 
+Michael_C._Hall/NoeDXC-2APU_0000009 316.0 322.1 
+Michael_C._Hall/NoeDXC-2APU_0000010 328.1 333.6 
+Michael_C._Hall/NoeDXC-2APU_0000011 432.1 438.7 
+Michael_C._Hall/NoeDXC-2APU_0000012 552.1 556.1 
+Michael_C._Hall/NoeDXC-2APU_0000013 575.3 579.6 

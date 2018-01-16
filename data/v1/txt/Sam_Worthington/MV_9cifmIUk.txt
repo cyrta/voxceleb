@@ -1,0 +1,12 @@
+POI: 			Sam_Worthington 
+Youtube ID: 	MV_9cifmIUk 
+Video length: 	188.4 sec 
+Set (V): 		dev 
+ 
+Sam_Worthington/MV_9cifmIUk_0000001 33.0 41.3 
+Sam_Worthington/MV_9cifmIUk_0000002 46.7 52.2 
+Sam_Worthington/MV_9cifmIUk_0000003 95.1 99.6 
+Sam_Worthington/MV_9cifmIUk_0000004 110.4 117.8 
+Sam_Worthington/MV_9cifmIUk_0000005 132.4 142.7 
+Sam_Worthington/MV_9cifmIUk_0000006 143.3 150.6 
+Sam_Worthington/MV_9cifmIUk_0000007 175.4 181.6 

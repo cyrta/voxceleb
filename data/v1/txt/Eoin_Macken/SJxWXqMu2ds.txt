@@ -1,0 +1,15 @@
+POI: 			Eoin_Macken 
+Youtube ID: 	SJxWXqMu2ds 
+Video length: 	365.7 sec 
+Set (V): 		test 
+ 
+Eoin_Macken/SJxWXqMu2ds_0000001 41.5 48.3 
+Eoin_Macken/SJxWXqMu2ds_0000002 59.6 70.6 
+Eoin_Macken/SJxWXqMu2ds_0000003 77.9 83.4 
+Eoin_Macken/SJxWXqMu2ds_0000004 139.8 152.9 
+Eoin_Macken/SJxWXqMu2ds_0000005 155.3 162.5 
+Eoin_Macken/SJxWXqMu2ds_0000006 184.6 200.8 
+Eoin_Macken/SJxWXqMu2ds_0000007 235.1 267.5 
+Eoin_Macken/SJxWXqMu2ds_0000008 277.5 282.4 
+Eoin_Macken/SJxWXqMu2ds_0000009 296.4 309.4 
+Eoin_Macken/SJxWXqMu2ds_0000010 310.0 319.2 

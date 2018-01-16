@@ -1,0 +1,7 @@
+POI: 			James_Lafferty 
+Youtube ID: 	TXDEteqgk94 
+Video length: 	192.4 sec 
+Set (V): 		dev 
+ 
+James_Lafferty/TXDEteqgk94_0000001 98.6 102.9 
+James_Lafferty/TXDEteqgk94_0000002 180.2 190.1 

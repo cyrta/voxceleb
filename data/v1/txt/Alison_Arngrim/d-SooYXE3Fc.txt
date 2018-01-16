@@ -1,0 +1,15 @@
+POI: 			Alison_Arngrim 
+Youtube ID: 	d-SooYXE3Fc 
+Video length: 	269.7 sec 
+Set (V): 		dev 
+ 
+Alison_Arngrim/d-SooYXE3Fc_0000001 31.7 40.0 
+Alison_Arngrim/d-SooYXE3Fc_0000002 48.9 53.3 
+Alison_Arngrim/d-SooYXE3Fc_0000003 55.4 64.4 
+Alison_Arngrim/d-SooYXE3Fc_0000004 73.7 82.0 
+Alison_Arngrim/d-SooYXE3Fc_0000005 103.5 118.0 
+Alison_Arngrim/d-SooYXE3Fc_0000006 146.7 151.1 
+Alison_Arngrim/d-SooYXE3Fc_0000007 158.9 167.9 
+Alison_Arngrim/d-SooYXE3Fc_0000008 182.9 194.7 
+Alison_Arngrim/d-SooYXE3Fc_0000009 220.0 226.0 
+Alison_Arngrim/d-SooYXE3Fc_0000010 246.0 254.3 

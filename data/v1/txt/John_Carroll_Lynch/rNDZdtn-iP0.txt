@@ -1,0 +1,7 @@
+POI: 			John_Carroll_Lynch 
+Youtube ID: 	rNDZdtn-iP0 
+Video length: 	123.7 sec 
+Set (V): 		dev 
+ 
+John_Carroll_Lynch/rNDZdtn-iP0_0000001 44.7 48.6 
+John_Carroll_Lynch/rNDZdtn-iP0_0000002 65.8 73.6 

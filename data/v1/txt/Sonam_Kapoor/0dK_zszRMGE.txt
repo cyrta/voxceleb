@@ -1,0 +1,18 @@
+POI: 			Sonam_Kapoor 
+Youtube ID: 	0dK_zszRMGE 
+Video length: 	369.3 sec 
+Set (V): 		dev 
+ 
+Sonam_Kapoor/0dK_zszRMGE_0000001 17.5 30.6 
+Sonam_Kapoor/0dK_zszRMGE_0000002 34.6 39.4 
+Sonam_Kapoor/0dK_zszRMGE_0000003 67.9 75.8 
+Sonam_Kapoor/0dK_zszRMGE_0000004 91.1 105.6 
+Sonam_Kapoor/0dK_zszRMGE_0000005 106.8 114.6 
+Sonam_Kapoor/0dK_zszRMGE_0000006 137.3 147.8 
+Sonam_Kapoor/0dK_zszRMGE_0000007 182.8 187.7 
+Sonam_Kapoor/0dK_zszRMGE_0000008 221.9 229.6 
+Sonam_Kapoor/0dK_zszRMGE_0000009 241.4 250.4 
+Sonam_Kapoor/0dK_zszRMGE_0000010 264.2 276.4 
+Sonam_Kapoor/0dK_zszRMGE_0000011 296.5 302.8 
+Sonam_Kapoor/0dK_zszRMGE_0000012 321.2 326.2 
+Sonam_Kapoor/0dK_zszRMGE_0000013 352.6 357.8 

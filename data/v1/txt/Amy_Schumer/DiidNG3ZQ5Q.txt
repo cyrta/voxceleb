@@ -1,0 +1,13 @@
+POI: 			Amy_Schumer 
+Youtube ID: 	DiidNG3ZQ5Q 
+Video length: 	378.6 sec 
+Set (V): 		dev 
+ 
+Amy_Schumer/DiidNG3ZQ5Q_0000001 39.2 48.5 
+Amy_Schumer/DiidNG3ZQ5Q_0000002 110.4 117.7 
+Amy_Schumer/DiidNG3ZQ5Q_0000003 140.2 144.4 
+Amy_Schumer/DiidNG3ZQ5Q_0000004 153.2 160.7 
+Amy_Schumer/DiidNG3ZQ5Q_0000005 172.4 183.6 
+Amy_Schumer/DiidNG3ZQ5Q_0000006 266.7 270.7 
+Amy_Schumer/DiidNG3ZQ5Q_0000007 271.1 276.0 
+Amy_Schumer/DiidNG3ZQ5Q_0000008 314.6 320.6 

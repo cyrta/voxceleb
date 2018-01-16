@@ -1,0 +1,12 @@
+POI: 			Richard_E._Grant 
+Youtube ID: 	DZl7b4RwF9I 
+Video length: 	121.3 sec 
+Set (V): 		dev 
+ 
+Richard_E._Grant/DZl7b4RwF9I_0000001 03.1 08.0 
+Richard_E._Grant/DZl7b4RwF9I_0000002 08.7 12.9 
+Richard_E._Grant/DZl7b4RwF9I_0000003 18.7 24.1 
+Richard_E._Grant/DZl7b4RwF9I_0000004 45.5 71.1 
+Richard_E._Grant/DZl7b4RwF9I_0000005 77.3 88.4 
+Richard_E._Grant/DZl7b4RwF9I_0000006 99.3 106.1 
+Richard_E._Grant/DZl7b4RwF9I_0000007 106.3 113.9 

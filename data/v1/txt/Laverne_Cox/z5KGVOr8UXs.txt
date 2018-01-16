@@ -1,0 +1,16 @@
+POI: 			Laverne_Cox 
+Youtube ID: 	z5KGVOr8UXs 
+Video length: 	511.0 sec 
+Set (V): 		dev 
+ 
+Laverne_Cox/z5KGVOr8UXs_0000001 53.4 61.8 
+Laverne_Cox/z5KGVOr8UXs_0000002 91.7 99.1 
+Laverne_Cox/z5KGVOr8UXs_0000003 177.4 193.3 
+Laverne_Cox/z5KGVOr8UXs_0000004 216.8 237.2 
+Laverne_Cox/z5KGVOr8UXs_0000005 295.1 304.2 
+Laverne_Cox/z5KGVOr8UXs_0000006 304.9 313.2 
+Laverne_Cox/z5KGVOr8UXs_0000007 331.3 336.6 
+Laverne_Cox/z5KGVOr8UXs_0000008 338.9 350.3 
+Laverne_Cox/z5KGVOr8UXs_0000009 375.4 380.2 
+Laverne_Cox/z5KGVOr8UXs_0000010 459.7 468.8 
+Laverne_Cox/z5KGVOr8UXs_0000011 469.2 484.7 

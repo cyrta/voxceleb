@@ -1,0 +1,19 @@
+POI: 			Lesley_Manville 
+Youtube ID: 	LiuMxzOZ374 
+Video length: 	278.3 sec 
+Set (V): 		dev 
+ 
+Lesley_Manville/LiuMxzOZ374_0000001 41.1 51.0 
+Lesley_Manville/LiuMxzOZ374_0000002 59.0 68.2 
+Lesley_Manville/LiuMxzOZ374_0000003 71.3 84.6 
+Lesley_Manville/LiuMxzOZ374_0000004 100.3 110.2 
+Lesley_Manville/LiuMxzOZ374_0000005 117.0 121.6 
+Lesley_Manville/LiuMxzOZ374_0000006 125.2 133.5 
+Lesley_Manville/LiuMxzOZ374_0000007 133.8 143.2 
+Lesley_Manville/LiuMxzOZ374_0000008 144.7 155.0 
+Lesley_Manville/LiuMxzOZ374_0000009 161.7 171.3 
+Lesley_Manville/LiuMxzOZ374_0000010 199.0 208.2 
+Lesley_Manville/LiuMxzOZ374_0000011 208.8 216.2 
+Lesley_Manville/LiuMxzOZ374_0000012 219.1 230.1 
+Lesley_Manville/LiuMxzOZ374_0000013 242.2 251.0 
+Lesley_Manville/LiuMxzOZ374_0000014 260.7 265.0 

@@ -1,0 +1,9 @@
+POI: 			Pablo_Schreiber 
+Youtube ID: 	N89yv4YQuIU 
+Video length: 	81.0 sec 
+Set (V): 		dev 
+ 
+Pablo_Schreiber/N89yv4YQuIU_0000001 23.7 38.6 
+Pablo_Schreiber/N89yv4YQuIU_0000002 39.5 43.5 
+Pablo_Schreiber/N89yv4YQuIU_0000003 43.7 59.6 
+Pablo_Schreiber/N89yv4YQuIU_0000004 62.2 71.8 

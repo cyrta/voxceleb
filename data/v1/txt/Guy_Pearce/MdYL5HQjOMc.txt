@@ -1,0 +1,7 @@
+POI: 			Guy_Pearce 
+Youtube ID: 	MdYL5HQjOMc 
+Video length: 	1125.8 sec 
+Set (V): 		dev 
+ 
+Guy_Pearce/MdYL5HQjOMc_0000001 985.0 1003.6 
+Guy_Pearce/MdYL5HQjOMc_0000002 1072.5 1078.6 

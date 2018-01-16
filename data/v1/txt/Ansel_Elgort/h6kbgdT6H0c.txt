@@ -1,0 +1,10 @@
+POI: 			Ansel_Elgort 
+Youtube ID: 	h6kbgdT6H0c 
+Video length: 	231.7 sec 
+Set (V): 		dev 
+ 
+Ansel_Elgort/h6kbgdT6H0c_0000001 67.9 74.1 
+Ansel_Elgort/h6kbgdT6H0c_0000002 82.5 87.6 
+Ansel_Elgort/h6kbgdT6H0c_0000003 90.6 101.9 
+Ansel_Elgort/h6kbgdT6H0c_0000004 166.0 170.3 
+Ansel_Elgort/h6kbgdT6H0c_0000005 215.8 227.9 

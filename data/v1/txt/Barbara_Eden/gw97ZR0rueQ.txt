@@ -1,0 +1,11 @@
+POI: 			Barbara_Eden 
+Youtube ID: 	gw97ZR0rueQ 
+Video length: 	213.2 sec 
+Set (V): 		dev 
+ 
+Barbara_Eden/gw97ZR0rueQ_0000001 13.6 18.3 
+Barbara_Eden/gw97ZR0rueQ_0000002 32.3 38.8 
+Barbara_Eden/gw97ZR0rueQ_0000003 105.8 109.9 
+Barbara_Eden/gw97ZR0rueQ_0000004 110.9 116.6 
+Barbara_Eden/gw97ZR0rueQ_0000005 144.2 148.3 
+Barbara_Eden/gw97ZR0rueQ_0000006 158.6 179.1 

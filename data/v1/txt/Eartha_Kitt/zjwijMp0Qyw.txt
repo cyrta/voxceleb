@@ -1,0 +1,8 @@
+POI: 			Eartha_Kitt 
+Youtube ID: 	zjwijMp0Qyw 
+Video length: 	65.4 sec 
+Set (V): 		test 
+ 
+Eartha_Kitt/zjwijMp0Qyw_0000001 00.7 05.6 
+Eartha_Kitt/zjwijMp0Qyw_0000002 24.1 33.1 
+Eartha_Kitt/zjwijMp0Qyw_0000003 50.3 54.8 

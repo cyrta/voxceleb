@@ -1,0 +1,13 @@
+POI: 			Geri_Halliwell 
+Youtube ID: 	LCcDJHNj7i8 
+Video length: 	299.5 sec 
+Set (V): 		dev 
+ 
+Geri_Halliwell/LCcDJHNj7i8_0000001 39.6 45.0 
+Geri_Halliwell/LCcDJHNj7i8_0000002 78.9 86.0 
+Geri_Halliwell/LCcDJHNj7i8_0000003 155.1 162.8 
+Geri_Halliwell/LCcDJHNj7i8_0000004 192.4 201.5 
+Geri_Halliwell/LCcDJHNj7i8_0000005 210.8 216.7 
+Geri_Halliwell/LCcDJHNj7i8_0000006 227.1 234.5 
+Geri_Halliwell/LCcDJHNj7i8_0000007 251.0 256.5 
+Geri_Halliwell/LCcDJHNj7i8_0000008 279.0 284.5 

@@ -1,0 +1,11 @@
+POI: 			Luke_Arnold 
+Youtube ID: 	SwUW1Ctrlf0 
+Video length: 	420.2 sec 
+Set (V): 		dev 
+ 
+Luke_Arnold/SwUW1Ctrlf0_0000001 101.2 108.0 
+Luke_Arnold/SwUW1Ctrlf0_0000002 111.7 116.8 
+Luke_Arnold/SwUW1Ctrlf0_0000003 185.2 190.5 
+Luke_Arnold/SwUW1Ctrlf0_0000004 221.1 226.4 
+Luke_Arnold/SwUW1Ctrlf0_0000005 294.1 298.3 
+Luke_Arnold/SwUW1Ctrlf0_0000006 341.7 346.6 

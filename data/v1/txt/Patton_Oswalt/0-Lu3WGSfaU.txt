@@ -1,0 +1,16 @@
+POI: 			Patton_Oswalt 
+Youtube ID: 	0-Lu3WGSfaU 
+Video length: 	271.1 sec 
+Set (V): 		dev 
+ 
+Patton_Oswalt/0-Lu3WGSfaU_0000001 15.2 21.8 
+Patton_Oswalt/0-Lu3WGSfaU_0000002 21.8 34.6 
+Patton_Oswalt/0-Lu3WGSfaU_0000003 52.4 70.1 
+Patton_Oswalt/0-Lu3WGSfaU_0000004 94.6 100.4 
+Patton_Oswalt/0-Lu3WGSfaU_0000005 118.2 130.8 
+Patton_Oswalt/0-Lu3WGSfaU_0000006 137.6 143.4 
+Patton_Oswalt/0-Lu3WGSfaU_0000007 145.9 154.4 
+Patton_Oswalt/0-Lu3WGSfaU_0000008 167.0 171.2 
+Patton_Oswalt/0-Lu3WGSfaU_0000009 187.9 199.7 
+Patton_Oswalt/0-Lu3WGSfaU_0000010 228.4 235.3 
+Patton_Oswalt/0-Lu3WGSfaU_0000011 238.4 244.4 

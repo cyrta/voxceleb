@@ -1,0 +1,9 @@
+POI: 			Eddie_Kaye_Thomas 
+Youtube ID: 	xbGp2KSUr0E 
+Video length: 	296.1 sec 
+Set (V): 		test 
+ 
+Eddie_Kaye_Thomas/xbGp2KSUr0E_0000001 87.0 99.8 
+Eddie_Kaye_Thomas/xbGp2KSUr0E_0000002 184.3 189.3 
+Eddie_Kaye_Thomas/xbGp2KSUr0E_0000003 232.2 240.3 
+Eddie_Kaye_Thomas/xbGp2KSUr0E_0000004 240.6 245.4 

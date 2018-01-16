@@ -1,0 +1,14 @@
+POI: 			Mya 
+Youtube ID: 	en4anTlXsQg 
+Video length: 	158.6 sec 
+Set (V): 		dev 
+ 
+Mya/en4anTlXsQg_0000001 13.9 18.3 
+Mya/en4anTlXsQg_0000002 22.6 27.3 
+Mya/en4anTlXsQg_0000003 37.8 42.6 
+Mya/en4anTlXsQg_0000004 50.6 55.1 
+Mya/en4anTlXsQg_0000005 63.7 71.2 
+Mya/en4anTlXsQg_0000006 76.7 80.7 
+Mya/en4anTlXsQg_0000007 98.7 102.8 
+Mya/en4anTlXsQg_0000008 114.1 118.3 
+Mya/en4anTlXsQg_0000009 140.4 145.4 

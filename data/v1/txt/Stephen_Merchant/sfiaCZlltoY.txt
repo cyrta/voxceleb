@@ -1,0 +1,7 @@
+POI: 			Stephen_Merchant 
+Youtube ID: 	sfiaCZlltoY 
+Video length: 	351.0 sec 
+Set (V): 		dev 
+ 
+Stephen_Merchant/sfiaCZlltoY_0000001 46.4 52.6 
+Stephen_Merchant/sfiaCZlltoY_0000002 141.0 146.7 

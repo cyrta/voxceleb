@@ -1,0 +1,9 @@
+POI: 			Milla_Jovovich 
+Youtube ID: 	1-pnon4hZeQ 
+Video length: 	502.9 sec 
+Set (V): 		dev 
+ 
+Milla_Jovovich/1-pnon4hZeQ_0000001 166.6 171.5 
+Milla_Jovovich/1-pnon4hZeQ_0000002 209.4 220.2 
+Milla_Jovovich/1-pnon4hZeQ_0000003 299.6 303.7 
+Milla_Jovovich/1-pnon4hZeQ_0000004 303.8 313.9 

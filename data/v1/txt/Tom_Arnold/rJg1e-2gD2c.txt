@@ -1,0 +1,38 @@
+POI: 			Tom_Arnold 
+Youtube ID: 	rJg1e-2gD2c 
+Video length: 	1160.1 sec 
+Set (V): 		dev 
+ 
+Tom_Arnold/rJg1e-2gD2c_0000001 46.9 72.2 
+Tom_Arnold/rJg1e-2gD2c_0000002 80.1 88.1 
+Tom_Arnold/rJg1e-2gD2c_0000003 88.5 119.1 
+Tom_Arnold/rJg1e-2gD2c_0000004 124.1 133.3 
+Tom_Arnold/rJg1e-2gD2c_0000005 158.8 170.6 
+Tom_Arnold/rJg1e-2gD2c_0000006 181.8 193.7 
+Tom_Arnold/rJg1e-2gD2c_0000007 197.9 205.4 
+Tom_Arnold/rJg1e-2gD2c_0000008 221.0 231.0 
+Tom_Arnold/rJg1e-2gD2c_0000009 238.5 253.6 
+Tom_Arnold/rJg1e-2gD2c_0000010 237.8 241.9 
+Tom_Arnold/rJg1e-2gD2c_0000011 263.4 269.9 
+Tom_Arnold/rJg1e-2gD2c_0000012 332.6 354.8 
+Tom_Arnold/rJg1e-2gD2c_0000013 399.4 416.4 
+Tom_Arnold/rJg1e-2gD2c_0000014 422.8 429.8 
+Tom_Arnold/rJg1e-2gD2c_0000015 498.1 508.0 
+Tom_Arnold/rJg1e-2gD2c_0000016 552.9 558.9 
+Tom_Arnold/rJg1e-2gD2c_0000017 647.3 654.9 
+Tom_Arnold/rJg1e-2gD2c_0000018 655.2 659.4 
+Tom_Arnold/rJg1e-2gD2c_0000019 660.5 670.3 
+Tom_Arnold/rJg1e-2gD2c_0000020 675.2 681.3 
+Tom_Arnold/rJg1e-2gD2c_0000021 711.2 723.5 
+Tom_Arnold/rJg1e-2gD2c_0000022 830.2 837.9 
+Tom_Arnold/rJg1e-2gD2c_0000023 843.6 848.0 
+Tom_Arnold/rJg1e-2gD2c_0000024 892.8 915.3 
+Tom_Arnold/rJg1e-2gD2c_0000025 912.2 929.2 
+Tom_Arnold/rJg1e-2gD2c_0000026 964.5 983.8 
+Tom_Arnold/rJg1e-2gD2c_0000027 984.5 991.8 
+Tom_Arnold/rJg1e-2gD2c_0000028 998.4 1011.6 
+Tom_Arnold/rJg1e-2gD2c_0000029 1011.7 1023.2 
+Tom_Arnold/rJg1e-2gD2c_0000030 1045.8 1050.0 
+Tom_Arnold/rJg1e-2gD2c_0000031 1067.1 1075.4 
+Tom_Arnold/rJg1e-2gD2c_0000032 1078.8 1089.9 
+Tom_Arnold/rJg1e-2gD2c_0000033 1095.1 1104.1 

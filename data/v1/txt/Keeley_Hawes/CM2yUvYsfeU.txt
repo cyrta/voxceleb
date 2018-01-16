@@ -1,0 +1,8 @@
+POI: 			Keeley_Hawes 
+Youtube ID: 	CM2yUvYsfeU 
+Video length: 	89.6 sec 
+Set (V): 		dev 
+ 
+Keeley_Hawes/CM2yUvYsfeU_0000001 25.0 29.4 
+Keeley_Hawes/CM2yUvYsfeU_0000002 70.2 76.3 
+Keeley_Hawes/CM2yUvYsfeU_0000003 79.6 84.6 

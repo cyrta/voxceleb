@@ -1,0 +1,10 @@
+POI: 			Rainn_Wilson 
+Youtube ID: 	GZAflHkTbgs 
+Video length: 	258.6 sec 
+Set (V): 		dev 
+ 
+Rainn_Wilson/GZAflHkTbgs_0000001 90.0 96.0 
+Rainn_Wilson/GZAflHkTbgs_0000002 142.4 146.7 
+Rainn_Wilson/GZAflHkTbgs_0000003 159.3 164.0 
+Rainn_Wilson/GZAflHkTbgs_0000004 214.8 219.8 
+Rainn_Wilson/GZAflHkTbgs_0000005 228.8 240.0 

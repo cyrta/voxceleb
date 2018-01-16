@@ -1,0 +1,8 @@
+POI: 			Keegan_Allen 
+Youtube ID: 	cLprnfb7hFE 
+Video length: 	223.2 sec 
+Set (V): 		dev 
+ 
+Keegan_Allen/cLprnfb7hFE_0000001 33.4 37.7 
+Keegan_Allen/cLprnfb7hFE_0000002 45.9 51.2 
+Keegan_Allen/cLprnfb7hFE_0000003 52.2 61.2 

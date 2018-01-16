@@ -1,0 +1,12 @@
+POI: 			Jay_Baruchel 
+Youtube ID: 	O-PWYYNpG-E 
+Video length: 	243.0 sec 
+Set (V): 		dev 
+ 
+Jay_Baruchel/O-PWYYNpG-E_0000001 12.5 18.4 
+Jay_Baruchel/O-PWYYNpG-E_0000002 91.1 95.8 
+Jay_Baruchel/O-PWYYNpG-E_0000003 125.0 132.0 
+Jay_Baruchel/O-PWYYNpG-E_0000004 149.0 160.2 
+Jay_Baruchel/O-PWYYNpG-E_0000005 187.7 194.3 
+Jay_Baruchel/O-PWYYNpG-E_0000006 200.3 204.6 
+Jay_Baruchel/O-PWYYNpG-E_0000007 213.8 222.0 

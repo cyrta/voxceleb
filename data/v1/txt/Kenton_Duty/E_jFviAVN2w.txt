@@ -1,0 +1,24 @@
+POI: 			Kenton_Duty 
+Youtube ID: 	E_jFviAVN2w 
+Video length: 	675.2 sec 
+Set (V): 		dev 
+ 
+Kenton_Duty/E_jFviAVN2w_0000001 228.9 248.7 
+Kenton_Duty/E_jFviAVN2w_0000002 257.8 273.0 
+Kenton_Duty/E_jFviAVN2w_0000003 273.6 280.1 
+Kenton_Duty/E_jFviAVN2w_0000004 297.0 303.2 
+Kenton_Duty/E_jFviAVN2w_0000005 303.6 308.5 
+Kenton_Duty/E_jFviAVN2w_0000006 315.6 331.2 
+Kenton_Duty/E_jFviAVN2w_0000007 333.7 342.9 
+Kenton_Duty/E_jFviAVN2w_0000008 371.6 376.3 
+Kenton_Duty/E_jFviAVN2w_0000009 392.3 406.2 
+Kenton_Duty/E_jFviAVN2w_0000010 413.6 428.2 
+Kenton_Duty/E_jFviAVN2w_0000011 439.3 444.4 
+Kenton_Duty/E_jFviAVN2w_0000012 445.4 456.8 
+Kenton_Duty/E_jFviAVN2w_0000013 470.4 478.2 
+Kenton_Duty/E_jFviAVN2w_0000014 514.2 527.1 
+Kenton_Duty/E_jFviAVN2w_0000015 546.6 562.0 
+Kenton_Duty/E_jFviAVN2w_0000016 567.0 574.5 
+Kenton_Duty/E_jFviAVN2w_0000017 576.7 582.2 
+Kenton_Duty/E_jFviAVN2w_0000018 592.2 619.7 
+Kenton_Duty/E_jFviAVN2w_0000019 623.4 630.6 

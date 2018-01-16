@@ -1,0 +1,7 @@
+POI: 			Hugh_Laurie 
+Youtube ID: 	jGG0bEkl9U4 
+Video length: 	2364.2 sec 
+Set (V): 		dev 
+ 
+Hugh_Laurie/jGG0bEkl9U4_0000001 1240.1 1245.2 
+Hugh_Laurie/jGG0bEkl9U4_0000002 1375.6 1382.0 

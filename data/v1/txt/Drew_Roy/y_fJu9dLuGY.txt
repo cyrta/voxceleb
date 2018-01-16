@@ -1,0 +1,7 @@
+POI: 			Drew_Roy 
+Youtube ID: 	y_fJu9dLuGY 
+Video length: 	216.8 sec 
+Set (V): 		dev 
+ 
+Drew_Roy/y_fJu9dLuGY_0000001 111.1 115.4 
+Drew_Roy/y_fJu9dLuGY_0000002 117.3 122.6 

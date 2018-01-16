@@ -1,0 +1,12 @@
+POI: 			Katey_Sagal 
+Youtube ID: 	cWpVjyNZBNM 
+Video length: 	204.1 sec 
+Set (V): 		dev 
+ 
+Katey_Sagal/cWpVjyNZBNM_0000001 24.2 53.8 
+Katey_Sagal/cWpVjyNZBNM_0000002 78.1 93.2 
+Katey_Sagal/cWpVjyNZBNM_0000003 102.1 107.8 
+Katey_Sagal/cWpVjyNZBNM_0000004 117.2 135.3 
+Katey_Sagal/cWpVjyNZBNM_0000005 167.8 172.1 
+Katey_Sagal/cWpVjyNZBNM_0000006 179.6 184.4 
+Katey_Sagal/cWpVjyNZBNM_0000007 186.9 193.0 

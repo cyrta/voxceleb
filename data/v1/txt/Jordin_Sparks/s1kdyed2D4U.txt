@@ -1,0 +1,8 @@
+POI: 			Jordin_Sparks 
+Youtube ID: 	s1kdyed2D4U 
+Video length: 	60.1 sec 
+Set (V): 		dev 
+ 
+Jordin_Sparks/s1kdyed2D4U_0000001 10.8 16.4 
+Jordin_Sparks/s1kdyed2D4U_0000002 34.6 40.2 
+Jordin_Sparks/s1kdyed2D4U_0000003 48.0 52.1 

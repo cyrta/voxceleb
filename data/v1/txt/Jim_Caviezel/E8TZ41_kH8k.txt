@@ -1,0 +1,13 @@
+POI: 			Jim_Caviezel 
+Youtube ID: 	E8TZ41_kH8k 
+Video length: 	1006.2 sec 
+Set (V): 		dev 
+ 
+Jim_Caviezel/E8TZ41_kH8k_0000001 107.2 120.8 
+Jim_Caviezel/E8TZ41_kH8k_0000002 178.8 186.2 
+Jim_Caviezel/E8TZ41_kH8k_0000003 188.3 192.2 
+Jim_Caviezel/E8TZ41_kH8k_0000004 192.8 198.9 
+Jim_Caviezel/E8TZ41_kH8k_0000005 205.6 216.0 
+Jim_Caviezel/E8TZ41_kH8k_0000006 236.0 242.5 
+Jim_Caviezel/E8TZ41_kH8k_0000007 243.7 249.1 
+Jim_Caviezel/E8TZ41_kH8k_0000008 253.5 258.0 

@@ -1,0 +1,8 @@
+POI: 			Mark_Ruffalo 
+Youtube ID: 	yaULQKwKkfY 
+Video length: 	505.1 sec 
+Set (V): 		dev 
+ 
+Mark_Ruffalo/yaULQKwKkfY_0000001 259.6 265.3 
+Mark_Ruffalo/yaULQKwKkfY_0000002 414.3 419.6 
+Mark_Ruffalo/yaULQKwKkfY_0000003 457.6 461.8 

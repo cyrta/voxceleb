@@ -1,0 +1,26 @@
+POI: 			Brendan_Gleeson 
+Youtube ID: 	64OTosuTAWI 
+Video length: 	417.5 sec 
+Set (V): 		dev 
+ 
+Brendan_Gleeson/64OTosuTAWI_0000001 10.1 14.6 
+Brendan_Gleeson/64OTosuTAWI_0000002 21.6 25.5 
+Brendan_Gleeson/64OTosuTAWI_0000003 34.4 48.2 
+Brendan_Gleeson/64OTosuTAWI_0000004 82.0 94.8 
+Brendan_Gleeson/64OTosuTAWI_0000005 98.6 110.1 
+Brendan_Gleeson/64OTosuTAWI_0000006 120.2 138.0 
+Brendan_Gleeson/64OTosuTAWI_0000007 138.1 145.0 
+Brendan_Gleeson/64OTosuTAWI_0000008 152.0 158.6 
+Brendan_Gleeson/64OTosuTAWI_0000009 169.2 175.0 
+Brendan_Gleeson/64OTosuTAWI_0000010 175.6 179.8 
+Brendan_Gleeson/64OTosuTAWI_0000011 181.3 187.1 
+Brendan_Gleeson/64OTosuTAWI_0000012 203.8 210.5 
+Brendan_Gleeson/64OTosuTAWI_0000013 214.4 223.2 
+Brendan_Gleeson/64OTosuTAWI_0000014 224.0 231.4 
+Brendan_Gleeson/64OTosuTAWI_0000015 232.9 241.4 
+Brendan_Gleeson/64OTosuTAWI_0000016 269.0 281.5 
+Brendan_Gleeson/64OTosuTAWI_0000017 293.8 298.3 
+Brendan_Gleeson/64OTosuTAWI_0000018 299.6 303.9 
+Brendan_Gleeson/64OTosuTAWI_0000019 319.2 325.9 
+Brendan_Gleeson/64OTosuTAWI_0000020 333.7 339.8 
+Brendan_Gleeson/64OTosuTAWI_0000021 366.3 379.6 

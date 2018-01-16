@@ -1,0 +1,13 @@
+POI: 			Riz_Ahmed 
+Youtube ID: 	qaAbMqZ-9uk 
+Video length: 	229.5 sec 
+Set (V): 		dev 
+ 
+Riz_Ahmed/qaAbMqZ-9uk_0000001 13.3 28.3 
+Riz_Ahmed/qaAbMqZ-9uk_0000002 56.4 72.0 
+Riz_Ahmed/qaAbMqZ-9uk_0000003 91.4 101.2 
+Riz_Ahmed/qaAbMqZ-9uk_0000004 103.2 112.5 
+Riz_Ahmed/qaAbMqZ-9uk_0000005 123.5 128.0 
+Riz_Ahmed/qaAbMqZ-9uk_0000006 145.0 161.6 
+Riz_Ahmed/qaAbMqZ-9uk_0000007 190.7 203.8 
+Riz_Ahmed/qaAbMqZ-9uk_0000008 204.6 210.3 

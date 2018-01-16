@@ -1,0 +1,8 @@
+POI: 			Leslie_Mann 
+Youtube ID: 	5ghbV--eL-w 
+Video length: 	269.9 sec 
+Set (V): 		dev 
+ 
+Leslie_Mann/5ghbV--eL-w_0000001 41.6 45.7 
+Leslie_Mann/5ghbV--eL-w_0000002 46.7 51.1 
+Leslie_Mann/5ghbV--eL-w_0000003 213.6 220.4 

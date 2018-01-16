@@ -1,0 +1,9 @@
+POI: 			Shahid_Kapoor 
+Youtube ID: 	wuU__GdjnJE 
+Video length: 	660.8 sec 
+Set (V): 		dev 
+ 
+Shahid_Kapoor/wuU__GdjnJE_0000001 270.6 274.6 
+Shahid_Kapoor/wuU__GdjnJE_0000002 320.3 326.2 
+Shahid_Kapoor/wuU__GdjnJE_0000003 394.1 401.3 
+Shahid_Kapoor/wuU__GdjnJE_0000004 596.2 601.5 

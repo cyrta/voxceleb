@@ -1,0 +1,12 @@
+POI: 			James_Cosmo 
+Youtube ID: 	Bp9jLsjNr4M 
+Video length: 	144.1 sec 
+Set (V): 		dev 
+ 
+James_Cosmo/Bp9jLsjNr4M_0000001 05.3 32.8 
+James_Cosmo/Bp9jLsjNr4M_0000002 57.4 64.8 
+James_Cosmo/Bp9jLsjNr4M_0000003 69.5 79.0 
+James_Cosmo/Bp9jLsjNr4M_0000004 81.1 88.6 
+James_Cosmo/Bp9jLsjNr4M_0000005 92.9 98.2 
+James_Cosmo/Bp9jLsjNr4M_0000006 118.2 122.4 
+James_Cosmo/Bp9jLsjNr4M_0000007 123.1 136.4 

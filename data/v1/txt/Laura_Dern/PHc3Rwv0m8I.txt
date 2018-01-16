@@ -1,0 +1,21 @@
+POI: 			Laura_Dern 
+Youtube ID: 	PHc3Rwv0m8I 
+Video length: 	241.4 sec 
+Set (V): 		dev 
+ 
+Laura_Dern/PHc3Rwv0m8I_0000001 14.8 22.0 
+Laura_Dern/PHc3Rwv0m8I_0000002 24.1 29.9 
+Laura_Dern/PHc3Rwv0m8I_0000003 34.4 44.8 
+Laura_Dern/PHc3Rwv0m8I_0000004 47.8 62.9 
+Laura_Dern/PHc3Rwv0m8I_0000005 62.0 66.5 
+Laura_Dern/PHc3Rwv0m8I_0000006 68.5 105.5 
+Laura_Dern/PHc3Rwv0m8I_0000007 117.1 121.1 
+Laura_Dern/PHc3Rwv0m8I_0000008 121.7 128.2 
+Laura_Dern/PHc3Rwv0m8I_0000009 133.6 137.9 
+Laura_Dern/PHc3Rwv0m8I_0000010 117.1 121.0 
+Laura_Dern/PHc3Rwv0m8I_0000011 121.7 138.0 
+Laura_Dern/PHc3Rwv0m8I_0000012 156.2 169.7 
+Laura_Dern/PHc3Rwv0m8I_0000013 171.2 194.6 
+Laura_Dern/PHc3Rwv0m8I_0000014 198.6 206.0 
+Laura_Dern/PHc3Rwv0m8I_0000015 211.4 234.8 
+Laura_Dern/PHc3Rwv0m8I_0000016 156.1 161.6 

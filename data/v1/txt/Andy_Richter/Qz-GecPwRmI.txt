@@ -1,0 +1,14 @@
+POI: 			Andy_Richter 
+Youtube ID: 	Qz-GecPwRmI 
+Video length: 	155.4 sec 
+Set (V): 		dev 
+ 
+Andy_Richter/Qz-GecPwRmI_0000001 13.9 18.8 
+Andy_Richter/Qz-GecPwRmI_0000002 20.2 25.2 
+Andy_Richter/Qz-GecPwRmI_0000003 35.1 40.7 
+Andy_Richter/Qz-GecPwRmI_0000004 57.2 64.9 
+Andy_Richter/Qz-GecPwRmI_0000005 65.0 77.5 
+Andy_Richter/Qz-GecPwRmI_0000006 106.2 113.9 
+Andy_Richter/Qz-GecPwRmI_0000007 114.8 120.0 
+Andy_Richter/Qz-GecPwRmI_0000008 128.3 132.7 
+Andy_Richter/Qz-GecPwRmI_0000009 133.0 138.0 

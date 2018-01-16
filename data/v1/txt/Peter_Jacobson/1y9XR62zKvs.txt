@@ -1,0 +1,11 @@
+POI: 			Peter_Jacobson 
+Youtube ID: 	1y9XR62zKvs 
+Video length: 	274.9 sec 
+Set (V): 		dev 
+ 
+Peter_Jacobson/1y9XR62zKvs_0000001 27.2 33.6 
+Peter_Jacobson/1y9XR62zKvs_0000002 67.5 71.6 
+Peter_Jacobson/1y9XR62zKvs_0000003 131.1 139.0 
+Peter_Jacobson/1y9XR62zKvs_0000004 142.7 149.7 
+Peter_Jacobson/1y9XR62zKvs_0000005 234.6 241.5 
+Peter_Jacobson/1y9XR62zKvs_0000006 260.3 265.3 

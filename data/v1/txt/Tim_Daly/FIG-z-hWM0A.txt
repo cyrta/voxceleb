@@ -1,0 +1,15 @@
+POI: 			Tim_Daly 
+Youtube ID: 	FIG-z-hWM0A 
+Video length: 	378.6 sec 
+Set (V): 		dev 
+ 
+Tim_Daly/FIG-z-hWM0A_0000001 88.4 94.3 
+Tim_Daly/FIG-z-hWM0A_0000002 101.9 106.1 
+Tim_Daly/FIG-z-hWM0A_0000003 172.0 188.1 
+Tim_Daly/FIG-z-hWM0A_0000004 196.0 201.0 
+Tim_Daly/FIG-z-hWM0A_0000005 208.8 213.8 
+Tim_Daly/FIG-z-hWM0A_0000006 254.0 259.2 
+Tim_Daly/FIG-z-hWM0A_0000007 263.3 269.0 
+Tim_Daly/FIG-z-hWM0A_0000008 289.1 293.4 
+Tim_Daly/FIG-z-hWM0A_0000009 300.2 317.7 
+Tim_Daly/FIG-z-hWM0A_0000010 331.7 340.6 

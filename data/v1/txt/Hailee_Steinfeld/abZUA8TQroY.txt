@@ -1,0 +1,12 @@
+POI: 			Hailee_Steinfeld 
+Youtube ID: 	abZUA8TQroY 
+Video length: 	355.7 sec 
+Set (V): 		dev 
+ 
+Hailee_Steinfeld/abZUA8TQroY_0000001 56.8 61.6 
+Hailee_Steinfeld/abZUA8TQroY_0000002 160.9 167.6 
+Hailee_Steinfeld/abZUA8TQroY_0000003 168.8 173.8 
+Hailee_Steinfeld/abZUA8TQroY_0000004 174.4 178.8 
+Hailee_Steinfeld/abZUA8TQroY_0000005 310.1 314.2 
+Hailee_Steinfeld/abZUA8TQroY_0000006 323.2 330.4 
+Hailee_Steinfeld/abZUA8TQroY_0000007 336.6 341.4 

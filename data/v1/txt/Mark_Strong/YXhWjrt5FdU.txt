@@ -1,0 +1,11 @@
+POI: 			Mark_Strong 
+Youtube ID: 	YXhWjrt5FdU 
+Video length: 	253.6 sec 
+Set (V): 		dev 
+ 
+Mark_Strong/YXhWjrt5FdU_0000001 44.4 56.0 
+Mark_Strong/YXhWjrt5FdU_0000002 58.1 63.7 
+Mark_Strong/YXhWjrt5FdU_0000003 155.6 171.8 
+Mark_Strong/YXhWjrt5FdU_0000004 173.0 184.0 
+Mark_Strong/YXhWjrt5FdU_0000005 219.3 240.4 
+Mark_Strong/YXhWjrt5FdU_0000006 240.7 246.6 

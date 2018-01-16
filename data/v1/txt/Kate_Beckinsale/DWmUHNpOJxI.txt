@@ -1,0 +1,7 @@
+POI: 			Kate_Beckinsale 
+Youtube ID: 	DWmUHNpOJxI 
+Video length: 	508.9 sec 
+Set (V): 		dev 
+ 
+Kate_Beckinsale/DWmUHNpOJxI_0000001 48.8 56.4 
+Kate_Beckinsale/DWmUHNpOJxI_0000002 95.2 111.6 

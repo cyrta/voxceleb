@@ -1,0 +1,7 @@
+POI: 			Alison_Pill 
+Youtube ID: 	Pc_rgHideVU 
+Video length: 	154.0 sec 
+Set (V): 		dev 
+ 
+Alison_Pill/Pc_rgHideVU_0000001 65.3 71.6 
+Alison_Pill/Pc_rgHideVU_0000002 107.5 122.6 

@@ -1,0 +1,11 @@
+POI: 			Eugenio_Derbez 
+Youtube ID: 	t0EX2dOBQjw 
+Video length: 	419.9 sec 
+Set (V): 		test 
+ 
+Eugenio_Derbez/t0EX2dOBQjw_0000001 58.8 74.5 
+Eugenio_Derbez/t0EX2dOBQjw_0000002 161.6 168.3 
+Eugenio_Derbez/t0EX2dOBQjw_0000003 169.8 174.3 
+Eugenio_Derbez/t0EX2dOBQjw_0000004 174.6 178.9 
+Eugenio_Derbez/t0EX2dOBQjw_0000005 198.9 205.2 
+Eugenio_Derbez/t0EX2dOBQjw_0000006 218.0 222.9 

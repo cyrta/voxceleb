@@ -1,0 +1,14 @@
+POI: 			Zachary_Quinto 
+Youtube ID: 	ULBH3A8DjPM 
+Video length: 	333.3 sec 
+Set (V): 		dev 
+ 
+Zachary_Quinto/ULBH3A8DjPM_0000001 71.4 77.7 
+Zachary_Quinto/ULBH3A8DjPM_0000002 78.4 83.3 
+Zachary_Quinto/ULBH3A8DjPM_0000003 89.4 94.9 
+Zachary_Quinto/ULBH3A8DjPM_0000004 95.1 103.5 
+Zachary_Quinto/ULBH3A8DjPM_0000005 124.0 129.2 
+Zachary_Quinto/ULBH3A8DjPM_0000006 140.2 150.3 
+Zachary_Quinto/ULBH3A8DjPM_0000007 186.6 195.3 
+Zachary_Quinto/ULBH3A8DjPM_0000008 212.7 223.5 
+Zachary_Quinto/ULBH3A8DjPM_0000009 284.3 314.1 

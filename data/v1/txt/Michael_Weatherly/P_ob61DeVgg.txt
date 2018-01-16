@@ -1,0 +1,8 @@
+POI: 			Michael_Weatherly 
+Youtube ID: 	P_ob61DeVgg 
+Video length: 	290.3 sec 
+Set (V): 		dev 
+ 
+Michael_Weatherly/P_ob61DeVgg_0000001 237.5 242.4 
+Michael_Weatherly/P_ob61DeVgg_0000002 244.7 250.7 
+Michael_Weatherly/P_ob61DeVgg_0000003 257.5 268.3 

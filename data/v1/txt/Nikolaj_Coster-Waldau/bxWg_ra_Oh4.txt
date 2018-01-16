@@ -1,0 +1,8 @@
+POI: 			Nikolaj_Coster-Waldau 
+Youtube ID: 	bxWg_ra_Oh4 
+Video length: 	1665.3 sec 
+Set (V): 		dev 
+ 
+Nikolaj_Coster-Waldau/bxWg_ra_Oh4_0000001 1410.0 1415.4 
+Nikolaj_Coster-Waldau/bxWg_ra_Oh4_0000002 1560.0 1564.2 
+Nikolaj_Coster-Waldau/bxWg_ra_Oh4_0000003 1580.4 1587.2 

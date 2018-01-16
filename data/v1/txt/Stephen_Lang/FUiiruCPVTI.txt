@@ -1,0 +1,22 @@
+POI: 			Stephen_Lang 
+Youtube ID: 	FUiiruCPVTI 
+Video length: 	436.2 sec 
+Set (V): 		dev 
+ 
+Stephen_Lang/FUiiruCPVTI_0000001 10.8 19.9 
+Stephen_Lang/FUiiruCPVTI_0000002 21.0 25.5 
+Stephen_Lang/FUiiruCPVTI_0000003 27.9 40.4 
+Stephen_Lang/FUiiruCPVTI_0000004 40.8 65.2 
+Stephen_Lang/FUiiruCPVTI_0000005 76.5 83.4 
+Stephen_Lang/FUiiruCPVTI_0000006 83.9 94.0 
+Stephen_Lang/FUiiruCPVTI_0000007 94.8 101.8 
+Stephen_Lang/FUiiruCPVTI_0000008 103.0 107.7 
+Stephen_Lang/FUiiruCPVTI_0000009 212.9 247.2 
+Stephen_Lang/FUiiruCPVTI_0000010 271.7 276.2 
+Stephen_Lang/FUiiruCPVTI_0000011 276.5 291.6 
+Stephen_Lang/FUiiruCPVTI_0000012 294.0 313.7 
+Stephen_Lang/FUiiruCPVTI_0000013 314.9 321.4 
+Stephen_Lang/FUiiruCPVTI_0000014 334.0 345.8 
+Stephen_Lang/FUiiruCPVTI_0000015 354.2 363.0 
+Stephen_Lang/FUiiruCPVTI_0000016 415.6 420.3 
+Stephen_Lang/FUiiruCPVTI_0000017 426.8 430.8 

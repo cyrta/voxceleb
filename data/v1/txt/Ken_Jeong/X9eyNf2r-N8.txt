@@ -1,0 +1,7 @@
+POI: 			Ken_Jeong 
+Youtube ID: 	X9eyNf2r-N8 
+Video length: 	184.2 sec 
+Set (V): 		dev 
+ 
+Ken_Jeong/X9eyNf2r-N8_0000001 28.8 33.4 
+Ken_Jeong/X9eyNf2r-N8_0000002 50.8 62.7 

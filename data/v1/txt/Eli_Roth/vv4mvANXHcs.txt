@@ -1,0 +1,9 @@
+POI: 			Eli_Roth 
+Youtube ID: 	vv4mvANXHcs 
+Video length: 	293.0 sec 
+Set (V): 		test 
+ 
+Eli_Roth/vv4mvANXHcs_0000001 12.9 77.6 
+Eli_Roth/vv4mvANXHcs_0000002 191.4 206.3 
+Eli_Roth/vv4mvANXHcs_0000003 217.0 234.7 
+Eli_Roth/vv4mvANXHcs_0000004 236.7 286.0 

@@ -1,0 +1,20 @@
+POI: 			Jorge_Garcia 
+Youtube ID: 	je-E0NIk6cM 
+Video length: 	599.8 sec 
+Set (V): 		dev 
+ 
+Jorge_Garcia/je-E0NIk6cM_0000001 80.8 85.2 
+Jorge_Garcia/je-E0NIk6cM_0000002 97.4 102.1 
+Jorge_Garcia/je-E0NIk6cM_0000003 113.9 118.9 
+Jorge_Garcia/je-E0NIk6cM_0000004 190.2 198.0 
+Jorge_Garcia/je-E0NIk6cM_0000005 198.5 202.8 
+Jorge_Garcia/je-E0NIk6cM_0000006 213.1 219.0 
+Jorge_Garcia/je-E0NIk6cM_0000007 277.9 282.0 
+Jorge_Garcia/je-E0NIk6cM_0000008 285.2 289.4 
+Jorge_Garcia/je-E0NIk6cM_0000009 331.2 344.4 
+Jorge_Garcia/je-E0NIk6cM_0000010 481.5 486.4 
+Jorge_Garcia/je-E0NIk6cM_0000011 486.9 500.2 
+Jorge_Garcia/je-E0NIk6cM_0000012 560.2 565.1 
+Jorge_Garcia/je-E0NIk6cM_0000013 565.5 570.2 
+Jorge_Garcia/je-E0NIk6cM_0000014 572.9 582.3 
+Jorge_Garcia/je-E0NIk6cM_0000015 565.7 571.2 

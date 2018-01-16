@@ -1,0 +1,9 @@
+POI: 			Maya_Rudolph 
+Youtube ID: 	R5z-fbCN6ME 
+Video length: 	81.1 sec 
+Set (V): 		dev 
+ 
+Maya_Rudolph/R5z-fbCN6ME_0000001 15.3 21.3 
+Maya_Rudolph/R5z-fbCN6ME_0000002 25.2 32.4 
+Maya_Rudolph/R5z-fbCN6ME_0000003 36.3 42.9 
+Maya_Rudolph/R5z-fbCN6ME_0000004 48.6 52.6 

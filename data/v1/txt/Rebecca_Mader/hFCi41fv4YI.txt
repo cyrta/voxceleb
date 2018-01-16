@@ -1,0 +1,9 @@
+POI: 			Rebecca_Mader 
+Youtube ID: 	hFCi41fv4YI 
+Video length: 	250.7 sec 
+Set (V): 		dev 
+ 
+Rebecca_Mader/hFCi41fv4YI_0000001 102.4 112.0 
+Rebecca_Mader/hFCi41fv4YI_0000002 124.9 128.8 
+Rebecca_Mader/hFCi41fv4YI_0000003 167.9 172.0 
+Rebecca_Mader/hFCi41fv4YI_0000004 172.5 177.6 

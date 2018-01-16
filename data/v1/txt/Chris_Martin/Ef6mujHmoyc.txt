@@ -1,0 +1,16 @@
+POI: 			Chris_Martin 
+Youtube ID: 	Ef6mujHmoyc 
+Video length: 	900.2 sec 
+Set (V): 		dev 
+ 
+Chris_Martin/Ef6mujHmoyc_0000001 01.0 10.1 
+Chris_Martin/Ef6mujHmoyc_0000002 123.2 129.8 
+Chris_Martin/Ef6mujHmoyc_0000003 240.4 258.2 
+Chris_Martin/Ef6mujHmoyc_0000004 390.4 398.4 
+Chris_Martin/Ef6mujHmoyc_0000005 513.0 517.6 
+Chris_Martin/Ef6mujHmoyc_0000006 552.8 565.8 
+Chris_Martin/Ef6mujHmoyc_0000007 578.2 582.6 
+Chris_Martin/Ef6mujHmoyc_0000008 582.8 593.0 
+Chris_Martin/Ef6mujHmoyc_0000009 610.1 615.4 
+Chris_Martin/Ef6mujHmoyc_0000010 665.8 673.6 
+Chris_Martin/Ef6mujHmoyc_0000011 680.8 686.8 

@@ -1,0 +1,17 @@
+POI: 			Doutzen_Kroes 
+Youtube ID: 	u0qOI6_q5ZY 
+Video length: 	241.6 sec 
+Set (V): 		dev 
+ 
+Doutzen_Kroes/u0qOI6_q5ZY_0000001 14.1 18.2 
+Doutzen_Kroes/u0qOI6_q5ZY_0000002 21.7 37.2 
+Doutzen_Kroes/u0qOI6_q5ZY_0000003 54.6 75.7 
+Doutzen_Kroes/u0qOI6_q5ZY_0000004 80.4 84.5 
+Doutzen_Kroes/u0qOI6_q5ZY_0000005 98.3 115.4 
+Doutzen_Kroes/u0qOI6_q5ZY_0000006 123.8 130.8 
+Doutzen_Kroes/u0qOI6_q5ZY_0000007 149.5 155.5 
+Doutzen_Kroes/u0qOI6_q5ZY_0000008 157.7 162.4 
+Doutzen_Kroes/u0qOI6_q5ZY_0000009 166.2 170.9 
+Doutzen_Kroes/u0qOI6_q5ZY_0000010 189.5 195.1 
+Doutzen_Kroes/u0qOI6_q5ZY_0000011 196.1 204.5 
+Doutzen_Kroes/u0qOI6_q5ZY_0000012 232.3 237.5 

@@ -1,0 +1,12 @@
+POI: 			Ed_Westwick 
+Youtube ID: 	gO805KoL2RM 
+Video length: 	389.4 sec 
+Set (V): 		test 
+ 
+Ed_Westwick/gO805KoL2RM_0000001 95.5 107.3 
+Ed_Westwick/gO805KoL2RM_0000002 179.8 187.1 
+Ed_Westwick/gO805KoL2RM_0000003 187.2 193.6 
+Ed_Westwick/gO805KoL2RM_0000004 215.2 219.2 
+Ed_Westwick/gO805KoL2RM_0000005 266.4 275.8 
+Ed_Westwick/gO805KoL2RM_0000006 359.7 366.6 
+Ed_Westwick/gO805KoL2RM_0000007 374.2 379.3 

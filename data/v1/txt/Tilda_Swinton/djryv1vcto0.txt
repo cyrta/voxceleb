@@ -1,0 +1,18 @@
+POI: 			Tilda_Swinton 
+Youtube ID: 	djryv1vcto0 
+Video length: 	727.2 sec 
+Set (V): 		dev 
+ 
+Tilda_Swinton/djryv1vcto0_0000001 169.3 173.4 
+Tilda_Swinton/djryv1vcto0_0000002 296.8 303.6 
+Tilda_Swinton/djryv1vcto0_0000003 311.1 318.0 
+Tilda_Swinton/djryv1vcto0_0000004 321.2 325.6 
+Tilda_Swinton/djryv1vcto0_0000005 329.7 335.0 
+Tilda_Swinton/djryv1vcto0_0000006 343.2 348.0 
+Tilda_Swinton/djryv1vcto0_0000007 367.7 373.3 
+Tilda_Swinton/djryv1vcto0_0000008 386.8 400.2 
+Tilda_Swinton/djryv1vcto0_0000009 415.7 421.2 
+Tilda_Swinton/djryv1vcto0_0000010 439.5 445.0 
+Tilda_Swinton/djryv1vcto0_0000011 545.6 550.4 
+Tilda_Swinton/djryv1vcto0_0000012 637.8 641.9 
+Tilda_Swinton/djryv1vcto0_0000013 657.4 663.4 

@@ -1,0 +1,14 @@
+POI: 			Edward_Asner 
+Youtube ID: 	shA_TsV-PFs 
+Video length: 	260.3 sec 
+Set (V): 		test 
+ 
+Edward_Asner/shA_TsV-PFs_0000001 10.2 29.8 
+Edward_Asner/shA_TsV-PFs_0000002 46.9 51.6 
+Edward_Asner/shA_TsV-PFs_0000003 54.2 60.4 
+Edward_Asner/shA_TsV-PFs_0000004 66.8 72.0 
+Edward_Asner/shA_TsV-PFs_0000005 84.3 101.8 
+Edward_Asner/shA_TsV-PFs_0000006 109.7 115.7 
+Edward_Asner/shA_TsV-PFs_0000007 135.0 139.7 
+Edward_Asner/shA_TsV-PFs_0000008 190.4 196.4 
+Edward_Asner/shA_TsV-PFs_0000009 212.8 216.9 

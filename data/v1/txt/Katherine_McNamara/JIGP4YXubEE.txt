@@ -1,0 +1,7 @@
+POI: 			Katherine_McNamara 
+Youtube ID: 	JIGP4YXubEE 
+Video length: 	3620.1 sec 
+Set (V): 		dev 
+ 
+Katherine_McNamara/JIGP4YXubEE_0000001 316.2 321.8 
+Katherine_McNamara/JIGP4YXubEE_0000002 428.1 432.2 

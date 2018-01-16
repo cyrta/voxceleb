@@ -1,0 +1,8 @@
+POI: 			Olivia_Wilde 
+Youtube ID: 	bV6cC-rUMCs 
+Video length: 	199.6 sec 
+Set (V): 		dev 
+ 
+Olivia_Wilde/bV6cC-rUMCs_0000001 74.0 82.9 
+Olivia_Wilde/bV6cC-rUMCs_0000002 150.1 155.4 
+Olivia_Wilde/bV6cC-rUMCs_0000003 172.5 179.4 

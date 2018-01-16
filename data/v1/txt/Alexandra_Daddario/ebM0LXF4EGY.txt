@@ -1,0 +1,8 @@
+POI: 			Alexandra_Daddario 
+Youtube ID: 	ebM0LXF4EGY 
+Video length: 	480.7 sec 
+Set (V): 		dev 
+ 
+Alexandra_Daddario/ebM0LXF4EGY_0000001 119.4 126.2 
+Alexandra_Daddario/ebM0LXF4EGY_0000002 131.2 143.0 
+Alexandra_Daddario/ebM0LXF4EGY_0000003 150.1 155.9 

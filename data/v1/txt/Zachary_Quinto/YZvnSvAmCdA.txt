@@ -1,0 +1,12 @@
+POI: 			Zachary_Quinto 
+Youtube ID: 	YZvnSvAmCdA 
+Video length: 	300.0 sec 
+Set (V): 		dev 
+ 
+Zachary_Quinto/YZvnSvAmCdA_0000001 108.1 114.0 
+Zachary_Quinto/YZvnSvAmCdA_0000002 124.6 130.4 
+Zachary_Quinto/YZvnSvAmCdA_0000003 131.2 140.0 
+Zachary_Quinto/YZvnSvAmCdA_0000004 207.5 212.4 
+Zachary_Quinto/YZvnSvAmCdA_0000005 213.2 223.0 
+Zachary_Quinto/YZvnSvAmCdA_0000006 230.5 240.9 
+Zachary_Quinto/YZvnSvAmCdA_0000007 255.2 263.6 

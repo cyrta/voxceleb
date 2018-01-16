@@ -1,0 +1,18 @@
+POI: 			Zachary_Quinto 
+Youtube ID: 	5hBbAqRV_uc 
+Video length: 	510.6 sec 
+Set (V): 		dev 
+ 
+Zachary_Quinto/5hBbAqRV_uc_0000001 52.5 60.1 
+Zachary_Quinto/5hBbAqRV_uc_0000002 85.8 92.6 
+Zachary_Quinto/5hBbAqRV_uc_0000003 108.9 119.4 
+Zachary_Quinto/5hBbAqRV_uc_0000004 165.0 179.6 
+Zachary_Quinto/5hBbAqRV_uc_0000005 211.9 223.3 
+Zachary_Quinto/5hBbAqRV_uc_0000006 359.7 364.5 
+Zachary_Quinto/5hBbAqRV_uc_0000007 369.5 388.0 
+Zachary_Quinto/5hBbAqRV_uc_0000008 389.6 393.8 
+Zachary_Quinto/5hBbAqRV_uc_0000009 437.3 441.4 
+Zachary_Quinto/5hBbAqRV_uc_0000010 445.7 452.2 
+Zachary_Quinto/5hBbAqRV_uc_0000011 459.6 465.4 
+Zachary_Quinto/5hBbAqRV_uc_0000012 466.2 471.6 
+Zachary_Quinto/5hBbAqRV_uc_0000013 484.1 489.8 

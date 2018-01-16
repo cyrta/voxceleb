@@ -1,0 +1,20 @@
+POI: 			Norman_Reedus 
+Youtube ID: 	2RrEVzxq_OY 
+Video length: 	1538.3 sec 
+Set (V): 		dev 
+ 
+Norman_Reedus/2RrEVzxq_OY_0000001 36.7 45.1 
+Norman_Reedus/2RrEVzxq_OY_0000002 242.0 248.2 
+Norman_Reedus/2RrEVzxq_OY_0000003 433.7 437.7 
+Norman_Reedus/2RrEVzxq_OY_0000004 460.3 465.4 
+Norman_Reedus/2RrEVzxq_OY_0000005 516.9 523.7 
+Norman_Reedus/2RrEVzxq_OY_0000006 524.9 529.0 
+Norman_Reedus/2RrEVzxq_OY_0000007 683.6 691.6 
+Norman_Reedus/2RrEVzxq_OY_0000008 696.2 704.0 
+Norman_Reedus/2RrEVzxq_OY_0000009 705.3 709.9 
+Norman_Reedus/2RrEVzxq_OY_0000010 808.7 816.0 
+Norman_Reedus/2RrEVzxq_OY_0000011 817.0 823.1 
+Norman_Reedus/2RrEVzxq_OY_0000012 823.7 828.2 
+Norman_Reedus/2RrEVzxq_OY_0000013 884.3 891.3 
+Norman_Reedus/2RrEVzxq_OY_0000014 1140.4 1144.6 
+Norman_Reedus/2RrEVzxq_OY_0000015 1376.2 1380.9 

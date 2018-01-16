@@ -1,0 +1,12 @@
+POI: 			Alex_Trebek 
+Youtube ID: 	ycz4HbK8diE 
+Video length: 	239.7 sec 
+Set (V): 		dev 
+ 
+Alex_Trebek/ycz4HbK8diE_0000001 89.0 97.9 
+Alex_Trebek/ycz4HbK8diE_0000002 98.5 114.5 
+Alex_Trebek/ycz4HbK8diE_0000003 114.6 119.4 
+Alex_Trebek/ycz4HbK8diE_0000004 120.7 131.3 
+Alex_Trebek/ycz4HbK8diE_0000005 131.4 152.8 
+Alex_Trebek/ycz4HbK8diE_0000006 214.1 219.2 
+Alex_Trebek/ycz4HbK8diE_0000007 219.7 238.0 

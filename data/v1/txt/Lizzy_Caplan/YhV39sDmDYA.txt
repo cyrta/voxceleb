@@ -1,0 +1,14 @@
+POI: 			Lizzy_Caplan 
+Youtube ID: 	YhV39sDmDYA 
+Video length: 	211.5 sec 
+Set (V): 		dev 
+ 
+Lizzy_Caplan/YhV39sDmDYA_0000001 05.0 28.2 
+Lizzy_Caplan/YhV39sDmDYA_0000002 49.6 64.2 
+Lizzy_Caplan/YhV39sDmDYA_0000003 65.8 81.9 
+Lizzy_Caplan/YhV39sDmDYA_0000004 91.3 121.0 
+Lizzy_Caplan/YhV39sDmDYA_0000005 133.2 150.8 
+Lizzy_Caplan/YhV39sDmDYA_0000006 152.0 156.1 
+Lizzy_Caplan/YhV39sDmDYA_0000007 161.1 165.9 
+Lizzy_Caplan/YhV39sDmDYA_0000008 169.2 177.3 
+Lizzy_Caplan/YhV39sDmDYA_0000009 177.4 206.0 

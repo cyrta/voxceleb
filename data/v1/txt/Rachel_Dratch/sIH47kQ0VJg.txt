@@ -1,0 +1,18 @@
+POI: 			Rachel_Dratch 
+Youtube ID: 	sIH47kQ0VJg 
+Video length: 	366.5 sec 
+Set (V): 		dev 
+ 
+Rachel_Dratch/sIH47kQ0VJg_0000001 70.4 85.4 
+Rachel_Dratch/sIH47kQ0VJg_0000002 85.6 89.9 
+Rachel_Dratch/sIH47kQ0VJg_0000003 99.6 107.0 
+Rachel_Dratch/sIH47kQ0VJg_0000004 111.7 122.1 
+Rachel_Dratch/sIH47kQ0VJg_0000005 132.9 137.2 
+Rachel_Dratch/sIH47kQ0VJg_0000006 150.3 154.3 
+Rachel_Dratch/sIH47kQ0VJg_0000007 192.0 199.8 
+Rachel_Dratch/sIH47kQ0VJg_0000008 205.9 212.0 
+Rachel_Dratch/sIH47kQ0VJg_0000009 212.7 217.6 
+Rachel_Dratch/sIH47kQ0VJg_0000010 225.4 236.6 
+Rachel_Dratch/sIH47kQ0VJg_0000011 249.4 257.2 
+Rachel_Dratch/sIH47kQ0VJg_0000012 272.0 278.0 
+Rachel_Dratch/sIH47kQ0VJg_0000013 292.7 313.2 

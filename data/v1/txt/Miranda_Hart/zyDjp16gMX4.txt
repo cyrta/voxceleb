@@ -1,0 +1,9 @@
+POI: 			Miranda_Hart 
+Youtube ID: 	zyDjp16gMX4 
+Video length: 	356.8 sec 
+Set (V): 		dev 
+ 
+Miranda_Hart/zyDjp16gMX4_0000001 71.4 78.9 
+Miranda_Hart/zyDjp16gMX4_0000002 117.6 121.8 
+Miranda_Hart/zyDjp16gMX4_0000003 141.4 146.9 
+Miranda_Hart/zyDjp16gMX4_0000004 267.7 271.8 

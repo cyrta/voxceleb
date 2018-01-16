@@ -1,0 +1,7 @@
+POI: 			Mark_Strong 
+Youtube ID: 	0IsU2mvSo9A 
+Video length: 	399.6 sec 
+Set (V): 		dev 
+ 
+Mark_Strong/0IsU2mvSo9A_0000001 34.6 38.5 
+Mark_Strong/0IsU2mvSo9A_0000002 291.4 295.5 

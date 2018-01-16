@@ -1,0 +1,22 @@
+POI: 			Stevie_Wonder 
+Youtube ID: 	lWOn2zc-3dU 
+Video length: 	407.8 sec 
+Set (V): 		dev 
+ 
+Stevie_Wonder/lWOn2zc-3dU_0000001 51.6 56.6 
+Stevie_Wonder/lWOn2zc-3dU_0000002 61.8 66.3 
+Stevie_Wonder/lWOn2zc-3dU_0000003 91.3 97.2 
+Stevie_Wonder/lWOn2zc-3dU_0000004 98.7 106.1 
+Stevie_Wonder/lWOn2zc-3dU_0000005 151.3 156.7 
+Stevie_Wonder/lWOn2zc-3dU_0000006 170.2 180.5 
+Stevie_Wonder/lWOn2zc-3dU_0000007 197.9 203.4 
+Stevie_Wonder/lWOn2zc-3dU_0000008 225.2 231.2 
+Stevie_Wonder/lWOn2zc-3dU_0000009 232.1 237.7 
+Stevie_Wonder/lWOn2zc-3dU_0000010 237.9 242.0 
+Stevie_Wonder/lWOn2zc-3dU_0000011 247.7 252.1 
+Stevie_Wonder/lWOn2zc-3dU_0000012 252.8 256.8 
+Stevie_Wonder/lWOn2zc-3dU_0000013 299.3 305.1 
+Stevie_Wonder/lWOn2zc-3dU_0000014 342.1 356.4 
+Stevie_Wonder/lWOn2zc-3dU_0000015 359.0 363.1 
+Stevie_Wonder/lWOn2zc-3dU_0000016 364.2 368.5 
+Stevie_Wonder/lWOn2zc-3dU_0000017 372.0 376.5 

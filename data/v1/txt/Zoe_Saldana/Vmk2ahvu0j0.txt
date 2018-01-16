@@ -1,0 +1,13 @@
+POI: 			Zoe_Saldana 
+Youtube ID: 	Vmk2ahvu0j0 
+Video length: 	249.9 sec 
+Set (V): 		dev 
+ 
+Zoe_Saldana/Vmk2ahvu0j0_0000001 48.4 58.4 
+Zoe_Saldana/Vmk2ahvu0j0_0000002 60.3 65.5 
+Zoe_Saldana/Vmk2ahvu0j0_0000003 83.8 98.2 
+Zoe_Saldana/Vmk2ahvu0j0_0000004 110.2 148.2 
+Zoe_Saldana/Vmk2ahvu0j0_0000005 157.6 167.0 
+Zoe_Saldana/Vmk2ahvu0j0_0000006 174.6 187.5 
+Zoe_Saldana/Vmk2ahvu0j0_0000007 200.9 211.2 
+Zoe_Saldana/Vmk2ahvu0j0_0000008 213.1 227.3 

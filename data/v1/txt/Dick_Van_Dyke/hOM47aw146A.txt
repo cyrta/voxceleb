@@ -1,0 +1,9 @@
+POI: 			Dick_Van_Dyke 
+Youtube ID: 	hOM47aw146A 
+Video length: 	541.4 sec 
+Set (V): 		dev 
+ 
+Dick_Van_Dyke/hOM47aw146A_0000001 68.8 76.4 
+Dick_Van_Dyke/hOM47aw146A_0000002 111.1 115.4 
+Dick_Van_Dyke/hOM47aw146A_0000003 191.4 197.9 
+Dick_Van_Dyke/hOM47aw146A_0000004 394.5 400.0 

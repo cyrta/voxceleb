@@ -1,0 +1,11 @@
+POI: 			Jared_Harris 
+Youtube ID: 	LK7Mg5nxRwc 
+Video length: 	306.4 sec 
+Set (V): 		dev 
+ 
+Jared_Harris/LK7Mg5nxRwc_0000001 90.0 96.7 
+Jared_Harris/LK7Mg5nxRwc_0000002 97.8 102.4 
+Jared_Harris/LK7Mg5nxRwc_0000003 154.3 160.5 
+Jared_Harris/LK7Mg5nxRwc_0000004 173.1 177.5 
+Jared_Harris/LK7Mg5nxRwc_0000005 268.8 275.4 
+Jared_Harris/LK7Mg5nxRwc_0000006 276.1 283.7 

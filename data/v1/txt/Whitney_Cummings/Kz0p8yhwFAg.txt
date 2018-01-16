@@ -1,0 +1,13 @@
+POI: 			Whitney_Cummings 
+Youtube ID: 	Kz0p8yhwFAg 
+Video length: 	244.0 sec 
+Set (V): 		dev 
+ 
+Whitney_Cummings/Kz0p8yhwFAg_0000001 78.7 83.9 
+Whitney_Cummings/Kz0p8yhwFAg_0000002 91.9 97.8 
+Whitney_Cummings/Kz0p8yhwFAg_0000003 118.0 122.7 
+Whitney_Cummings/Kz0p8yhwFAg_0000004 124.5 128.5 
+Whitney_Cummings/Kz0p8yhwFAg_0000005 160.0 168.2 
+Whitney_Cummings/Kz0p8yhwFAg_0000006 169.0 179.5 
+Whitney_Cummings/Kz0p8yhwFAg_0000007 181.4 187.1 
+Whitney_Cummings/Kz0p8yhwFAg_0000008 213.5 218.0 

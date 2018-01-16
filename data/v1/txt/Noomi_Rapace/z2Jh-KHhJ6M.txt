@@ -1,0 +1,7 @@
+POI: 			Noomi_Rapace 
+Youtube ID: 	z2Jh-KHhJ6M 
+Video length: 	379.4 sec 
+Set (V): 		dev 
+ 
+Noomi_Rapace/z2Jh-KHhJ6M_0000001 204.7 214.4 
+Noomi_Rapace/z2Jh-KHhJ6M_0000002 261.9 268.5 

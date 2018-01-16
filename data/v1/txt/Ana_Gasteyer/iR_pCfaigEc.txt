@@ -1,0 +1,10 @@
+POI: 			Ana_Gasteyer 
+Youtube ID: 	iR_pCfaigEc 
+Video length: 	94.1 sec 
+Set (V): 		dev 
+ 
+Ana_Gasteyer/iR_pCfaigEc_0000001 26.0 34.1 
+Ana_Gasteyer/iR_pCfaigEc_0000002 51.0 55.8 
+Ana_Gasteyer/iR_pCfaigEc_0000003 56.9 60.9 
+Ana_Gasteyer/iR_pCfaigEc_0000004 67.8 72.6 
+Ana_Gasteyer/iR_pCfaigEc_0000005 83.6 88.5 

@@ -1,0 +1,7 @@
+POI: 			Sarah_Paulson 
+Youtube ID: 	2-IYCuPGEes 
+Video length: 	154.8 sec 
+Set (V): 		dev 
+ 
+Sarah_Paulson/2-IYCuPGEes_0000001 99.5 104.1 
+Sarah_Paulson/2-IYCuPGEes_0000002 132.2 137.7 

@@ -1,0 +1,8 @@
+POI: 			Sarah_Wayne_Callies 
+Youtube ID: 	URlibD7tmno 
+Video length: 	158.9 sec 
+Set (V): 		dev 
+ 
+Sarah_Wayne_Callies/URlibD7tmno_0000001 00.9 06.2 
+Sarah_Wayne_Callies/URlibD7tmno_0000002 06.5 29.7 
+Sarah_Wayne_Callies/URlibD7tmno_0000003 33.8 39.9 

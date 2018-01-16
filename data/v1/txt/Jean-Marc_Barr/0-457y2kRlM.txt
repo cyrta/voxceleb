@@ -1,0 +1,14 @@
+POI: 			Jean-Marc_Barr 
+Youtube ID: 	0-457y2kRlM 
+Video length: 	550.5 sec 
+Set (V): 		dev 
+ 
+Jean-Marc_Barr/0-457y2kRlM_0000001 81.6 86.2 
+Jean-Marc_Barr/0-457y2kRlM_0000002 91.7 96.6 
+Jean-Marc_Barr/0-457y2kRlM_0000003 116.6 120.8 
+Jean-Marc_Barr/0-457y2kRlM_0000004 221.0 225.9 
+Jean-Marc_Barr/0-457y2kRlM_0000005 258.1 263.5 
+Jean-Marc_Barr/0-457y2kRlM_0000006 319.9 325.9 
+Jean-Marc_Barr/0-457y2kRlM_0000007 424.4 428.6 
+Jean-Marc_Barr/0-457y2kRlM_0000008 445.7 451.8 
+Jean-Marc_Barr/0-457y2kRlM_0000009 456.0 462.8 

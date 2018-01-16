@@ -1,0 +1,13 @@
+POI: 			Ben_Feldman 
+Youtube ID: 	nqWw-qlkj08 
+Video length: 	392.5 sec 
+Set (V): 		dev 
+ 
+Ben_Feldman/nqWw-qlkj08_0000001 123.6 128.2 
+Ben_Feldman/nqWw-qlkj08_0000002 129.2 149.7 
+Ben_Feldman/nqWw-qlkj08_0000003 202.7 207.5 
+Ben_Feldman/nqWw-qlkj08_0000004 208.4 213.7 
+Ben_Feldman/nqWw-qlkj08_0000005 215.2 234.9 
+Ben_Feldman/nqWw-qlkj08_0000006 236.9 253.9 
+Ben_Feldman/nqWw-qlkj08_0000007 329.3 349.7 
+Ben_Feldman/nqWw-qlkj08_0000008 372.0 382.9 

@@ -1,0 +1,8 @@
+POI: 			Katie_Aselton 
+Youtube ID: 	GRdcuS1VOWo 
+Video length: 	322.1 sec 
+Set (V): 		dev 
+ 
+Katie_Aselton/GRdcuS1VOWo_0000001 58.5 62.6 
+Katie_Aselton/GRdcuS1VOWo_0000002 125.6 132.4 
+Katie_Aselton/GRdcuS1VOWo_0000003 147.2 155.5 

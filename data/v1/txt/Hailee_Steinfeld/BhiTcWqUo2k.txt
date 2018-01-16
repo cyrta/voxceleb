@@ -1,0 +1,9 @@
+POI: 			Hailee_Steinfeld 
+Youtube ID: 	BhiTcWqUo2k 
+Video length: 	327.1 sec 
+Set (V): 		dev 
+ 
+Hailee_Steinfeld/BhiTcWqUo2k_0000001 14.0 22.8 
+Hailee_Steinfeld/BhiTcWqUo2k_0000002 72.3 87.2 
+Hailee_Steinfeld/BhiTcWqUo2k_0000003 87.3 92.3 
+Hailee_Steinfeld/BhiTcWqUo2k_0000004 181.4 185.6 

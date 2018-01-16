@@ -1,0 +1,12 @@
+POI: 			Jeremy_Sisto 
+Youtube ID: 	BymZkozY5OA 
+Video length: 	281.8 sec 
+Set (V): 		dev 
+ 
+Jeremy_Sisto/BymZkozY5OA_0000001 34.1 44.9 
+Jeremy_Sisto/BymZkozY5OA_0000002 60.2 65.9 
+Jeremy_Sisto/BymZkozY5OA_0000003 69.8 74.7 
+Jeremy_Sisto/BymZkozY5OA_0000004 99.9 109.6 
+Jeremy_Sisto/BymZkozY5OA_0000005 155.0 161.4 
+Jeremy_Sisto/BymZkozY5OA_0000006 176.0 180.0 
+Jeremy_Sisto/BymZkozY5OA_0000007 212.1 222.6 

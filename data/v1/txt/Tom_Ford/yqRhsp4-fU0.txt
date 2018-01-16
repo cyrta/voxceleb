@@ -1,0 +1,8 @@
+POI: 			Tom_Ford 
+Youtube ID: 	yqRhsp4-fU0 
+Video length: 	395.2 sec 
+Set (V): 		dev 
+ 
+Tom_Ford/yqRhsp4-fU0_0000001 13.0 19.1 
+Tom_Ford/yqRhsp4-fU0_0000002 62.2 72.7 
+Tom_Ford/yqRhsp4-fU0_0000003 196.3 204.2 

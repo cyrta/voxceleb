@@ -1,0 +1,9 @@
+POI: 			Sheryl_Lee_Ralph 
+Youtube ID: 	e216s0XVJIA 
+Video length: 	260.4 sec 
+Set (V): 		dev 
+ 
+Sheryl_Lee_Ralph/e216s0XVJIA_0000001 80.2 94.3 
+Sheryl_Lee_Ralph/e216s0XVJIA_0000002 135.6 150.6 
+Sheryl_Lee_Ralph/e216s0XVJIA_0000003 168.3 174.5 
+Sheryl_Lee_Ralph/e216s0XVJIA_0000004 182.4 190.6 

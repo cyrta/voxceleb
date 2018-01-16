@@ -1,0 +1,9 @@
+POI: 			Michael_Cudlitz 
+Youtube ID: 	RW4U4bB0AMY 
+Video length: 	226.8 sec 
+Set (V): 		dev 
+ 
+Michael_Cudlitz/RW4U4bB0AMY_0000001 29.6 34.2 
+Michael_Cudlitz/RW4U4bB0AMY_0000002 81.6 88.9 
+Michael_Cudlitz/RW4U4bB0AMY_0000003 142.9 148.6 
+Michael_Cudlitz/RW4U4bB0AMY_0000004 195.2 200.6 

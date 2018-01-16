@@ -1,0 +1,7 @@
+POI: 			Melissa_Leo 
+Youtube ID: 	HbcvFwndLPc 
+Video length: 	223.5 sec 
+Set (V): 		dev 
+ 
+Melissa_Leo/HbcvFwndLPc_0000001 118.8 130.9 
+Melissa_Leo/HbcvFwndLPc_0000002 131.2 135.2 

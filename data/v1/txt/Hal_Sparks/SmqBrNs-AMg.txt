@@ -1,0 +1,11 @@
+POI: 			Hal_Sparks 
+Youtube ID: 	SmqBrNs-AMg 
+Video length: 	199.9 sec 
+Set (V): 		dev 
+ 
+Hal_Sparks/SmqBrNs-AMg_0000001 64.4 71.2 
+Hal_Sparks/SmqBrNs-AMg_0000002 72.7 77.3 
+Hal_Sparks/SmqBrNs-AMg_0000003 80.3 90.6 
+Hal_Sparks/SmqBrNs-AMg_0000004 119.8 124.3 
+Hal_Sparks/SmqBrNs-AMg_0000005 136.4 142.2 
+Hal_Sparks/SmqBrNs-AMg_0000006 144.5 149.2 

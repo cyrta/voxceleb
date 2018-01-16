@@ -1,0 +1,11 @@
+POI: 			T.J._Miller 
+Youtube ID: 	EGmlkOP6WMs 
+Video length: 	395.7 sec 
+Set (V): 		dev 
+ 
+T.J._Miller/EGmlkOP6WMs_0000001 173.9 183.8 
+T.J._Miller/EGmlkOP6WMs_0000002 188.8 197.3 
+T.J._Miller/EGmlkOP6WMs_0000003 199.7 205.4 
+T.J._Miller/EGmlkOP6WMs_0000004 248.9 262.3 
+T.J._Miller/EGmlkOP6WMs_0000005 262.7 268.9 
+T.J._Miller/EGmlkOP6WMs_0000006 287.3 305.8 

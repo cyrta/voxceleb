@@ -1,0 +1,17 @@
+POI: 			Sienna_Guillory 
+Youtube ID: 	AUQRp8D66hE 
+Video length: 	163.2 sec 
+Set (V): 		dev 
+ 
+Sienna_Guillory/AUQRp8D66hE_0000001 02.7 10.0 
+Sienna_Guillory/AUQRp8D66hE_0000002 13.0 19.6 
+Sienna_Guillory/AUQRp8D66hE_0000003 36.4 41.2 
+Sienna_Guillory/AUQRp8D66hE_0000004 44.0 58.2 
+Sienna_Guillory/AUQRp8D66hE_0000005 65.6 73.2 
+Sienna_Guillory/AUQRp8D66hE_0000006 76.3 81.0 
+Sienna_Guillory/AUQRp8D66hE_0000007 84.1 88.2 
+Sienna_Guillory/AUQRp8D66hE_0000008 89.3 97.4 
+Sienna_Guillory/AUQRp8D66hE_0000009 120.0 126.6 
+Sienna_Guillory/AUQRp8D66hE_0000010 127.6 132.2 
+Sienna_Guillory/AUQRp8D66hE_0000011 135.3 139.6 
+Sienna_Guillory/AUQRp8D66hE_0000012 140.2 157.6 

@@ -1,0 +1,15 @@
+POI: 			Greg_Grunberg 
+Youtube ID: 	pYi_jIz_VSw 
+Video length: 	365.3 sec 
+Set (V): 		dev 
+ 
+Greg_Grunberg/pYi_jIz_VSw_0000001 50.4 61.0 
+Greg_Grunberg/pYi_jIz_VSw_0000002 75.2 82.8 
+Greg_Grunberg/pYi_jIz_VSw_0000003 84.1 104.1 
+Greg_Grunberg/pYi_jIz_VSw_0000004 105.5 109.6 
+Greg_Grunberg/pYi_jIz_VSw_0000005 109.8 115.2 
+Greg_Grunberg/pYi_jIz_VSw_0000006 123.0 130.3 
+Greg_Grunberg/pYi_jIz_VSw_0000007 131.2 146.3 
+Greg_Grunberg/pYi_jIz_VSw_0000008 263.2 271.0 
+Greg_Grunberg/pYi_jIz_VSw_0000009 287.4 295.4 
+Greg_Grunberg/pYi_jIz_VSw_0000010 296.7 306.6 

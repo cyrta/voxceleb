@@ -1,0 +1,8 @@
+POI: 			Mary-Louise_Parker 
+Youtube ID: 	r7qsqKmv1L0 
+Video length: 	106.0 sec 
+Set (V): 		dev 
+ 
+Mary-Louise_Parker/r7qsqKmv1L0_0000001 43.8 53.0 
+Mary-Louise_Parker/r7qsqKmv1L0_0000002 54.3 59.9 
+Mary-Louise_Parker/r7qsqKmv1L0_0000003 60.2 66.3 

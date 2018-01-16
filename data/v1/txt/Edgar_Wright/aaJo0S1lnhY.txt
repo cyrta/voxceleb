@@ -1,0 +1,10 @@
+POI: 			Edgar_Wright 
+Youtube ID: 	aaJo0S1lnhY 
+Video length: 	332.5 sec 
+Set (V): 		test 
+ 
+Edgar_Wright/aaJo0S1lnhY_0000001 16.2 24.1 
+Edgar_Wright/aaJo0S1lnhY_0000002 30.8 35.3 
+Edgar_Wright/aaJo0S1lnhY_0000003 53.3 67.4 
+Edgar_Wright/aaJo0S1lnhY_0000004 70.4 76.2 
+Edgar_Wright/aaJo0S1lnhY_0000005 260.7 273.4 

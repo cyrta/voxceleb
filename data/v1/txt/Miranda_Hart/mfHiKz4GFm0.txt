@@ -1,0 +1,13 @@
+POI: 			Miranda_Hart 
+Youtube ID: 	mfHiKz4GFm0 
+Video length: 	433.8 sec 
+Set (V): 		dev 
+ 
+Miranda_Hart/mfHiKz4GFm0_0000001 67.3 71.9 
+Miranda_Hart/mfHiKz4GFm0_0000002 95.8 101.5 
+Miranda_Hart/mfHiKz4GFm0_0000003 125.0 133.8 
+Miranda_Hart/mfHiKz4GFm0_0000004 137.4 145.4 
+Miranda_Hart/mfHiKz4GFm0_0000005 165.8 173.4 
+Miranda_Hart/mfHiKz4GFm0_0000006 178.2 184.4 
+Miranda_Hart/mfHiKz4GFm0_0000007 192.5 197.6 
+Miranda_Hart/mfHiKz4GFm0_0000008 242.1 246.8 

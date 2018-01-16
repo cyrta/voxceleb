@@ -1,0 +1,11 @@
+POI: 			Jake_Abel 
+Youtube ID: 	6m385t5D0cw 
+Video length: 	179.7 sec 
+Set (V): 		dev 
+ 
+Jake_Abel/6m385t5D0cw_0000001 13.8 19.4 
+Jake_Abel/6m385t5D0cw_0000002 46.6 60.7 
+Jake_Abel/6m385t5D0cw_0000003 65.9 71.9 
+Jake_Abel/6m385t5D0cw_0000004 128.0 132.4 
+Jake_Abel/6m385t5D0cw_0000005 132.8 137.4 
+Jake_Abel/6m385t5D0cw_0000006 142.6 149.6 

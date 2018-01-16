@@ -1,0 +1,10 @@
+POI: 			Judith_Light 
+Youtube ID: 	qaDesENtnSQ 
+Video length: 	129.4 sec 
+Set (V): 		dev 
+ 
+Judith_Light/qaDesENtnSQ_0000001 51.1 57.4 
+Judith_Light/qaDesENtnSQ_0000002 65.6 70.4 
+Judith_Light/qaDesENtnSQ_0000003 71.9 81.9 
+Judith_Light/qaDesENtnSQ_0000004 82.8 91.8 
+Judith_Light/qaDesENtnSQ_0000005 108.8 119.6 

@@ -1,0 +1,29 @@
+POI: 			India_de_Beaufort 
+Youtube ID: 	oUnwhvqbdN4 
+Video length: 	379.9 sec 
+Set (V): 		dev 
+ 
+India_de_Beaufort/oUnwhvqbdN4_0000001 09.6 14.4 
+India_de_Beaufort/oUnwhvqbdN4_0000002 35.6 44.9 
+India_de_Beaufort/oUnwhvqbdN4_0000003 104.9 110.0 
+India_de_Beaufort/oUnwhvqbdN4_0000004 120.2 130.6 
+India_de_Beaufort/oUnwhvqbdN4_0000005 145.3 152.9 
+India_de_Beaufort/oUnwhvqbdN4_0000006 157.5 170.2 
+India_de_Beaufort/oUnwhvqbdN4_0000007 170.7 176.0 
+India_de_Beaufort/oUnwhvqbdN4_0000008 183.8 188.7 
+India_de_Beaufort/oUnwhvqbdN4_0000009 190.1 194.8 
+India_de_Beaufort/oUnwhvqbdN4_0000010 195.8 209.8 
+India_de_Beaufort/oUnwhvqbdN4_0000011 210.0 224.7 
+India_de_Beaufort/oUnwhvqbdN4_0000012 227.7 234.6 
+India_de_Beaufort/oUnwhvqbdN4_0000013 240.0 244.4 
+India_de_Beaufort/oUnwhvqbdN4_0000014 248.9 255.2 
+India_de_Beaufort/oUnwhvqbdN4_0000015 261.7 268.2 
+India_de_Beaufort/oUnwhvqbdN4_0000016 271.2 276.1 
+India_de_Beaufort/oUnwhvqbdN4_0000017 286.0 293.6 
+India_de_Beaufort/oUnwhvqbdN4_0000018 293.9 298.4 
+India_de_Beaufort/oUnwhvqbdN4_0000019 298.5 311.8 
+India_de_Beaufort/oUnwhvqbdN4_0000020 321.6 328.6 
+India_de_Beaufort/oUnwhvqbdN4_0000021 328.6 339.4 
+India_de_Beaufort/oUnwhvqbdN4_0000022 340.1 345.8 
+India_de_Beaufort/oUnwhvqbdN4_0000023 345.9 353.3 
+India_de_Beaufort/oUnwhvqbdN4_0000024 356.3 365.4 

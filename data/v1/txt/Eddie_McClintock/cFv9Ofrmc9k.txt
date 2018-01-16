@@ -1,0 +1,7 @@
+POI: 			Eddie_McClintock 
+Youtube ID: 	cFv9Ofrmc9k 
+Video length: 	229.9 sec 
+Set (V): 		test 
+ 
+Eddie_McClintock/cFv9Ofrmc9k_0000001 58.3 62.3 
+Eddie_McClintock/cFv9Ofrmc9k_0000002 146.6 154.4 

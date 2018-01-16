@@ -1,0 +1,8 @@
+POI: 			Katy_Perry 
+Youtube ID: 	5ysre92g3pE 
+Video length: 	334.8 sec 
+Set (V): 		dev 
+ 
+Katy_Perry/5ysre92g3pE_0000001 127.6 135.1 
+Katy_Perry/5ysre92g3pE_0000002 289.4 298.8 
+Katy_Perry/5ysre92g3pE_0000003 307.8 315.0 

@@ -1,0 +1,8 @@
+POI: 			Heidi_Montag 
+Youtube ID: 	SLCIqAvjFFg 
+Video length: 	223.5 sec 
+Set (V): 		dev 
+ 
+Heidi_Montag/SLCIqAvjFFg_0000001 83.9 91.7 
+Heidi_Montag/SLCIqAvjFFg_0000002 92.7 108.5 
+Heidi_Montag/SLCIqAvjFFg_0000003 177.2 186.9 

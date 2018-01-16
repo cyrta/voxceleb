@@ -1,0 +1,16 @@
+POI: 			Andrew_Scott 
+Youtube ID: 	ChIiXQuf9Sc 
+Video length: 	504.9 sec 
+Set (V): 		dev 
+ 
+Andrew_Scott/ChIiXQuf9Sc_0000001 75.3 80.1 
+Andrew_Scott/ChIiXQuf9Sc_0000002 213.5 218.1 
+Andrew_Scott/ChIiXQuf9Sc_0000003 234.0 241.7 
+Andrew_Scott/ChIiXQuf9Sc_0000004 264.3 268.8 
+Andrew_Scott/ChIiXQuf9Sc_0000005 283.8 289.9 
+Andrew_Scott/ChIiXQuf9Sc_0000006 305.7 310.0 
+Andrew_Scott/ChIiXQuf9Sc_0000007 322.9 327.1 
+Andrew_Scott/ChIiXQuf9Sc_0000008 355.0 359.2 
+Andrew_Scott/ChIiXQuf9Sc_0000009 381.2 389.1 
+Andrew_Scott/ChIiXQuf9Sc_0000010 407.7 412.2 
+Andrew_Scott/ChIiXQuf9Sc_0000011 477.9 481.9 

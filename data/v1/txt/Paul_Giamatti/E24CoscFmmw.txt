@@ -1,0 +1,22 @@
+POI: 			Paul_Giamatti 
+Youtube ID: 	E24CoscFmmw 
+Video length: 	475.6 sec 
+Set (V): 		dev 
+ 
+Paul_Giamatti/E24CoscFmmw_0000001 10.8 17.8 
+Paul_Giamatti/E24CoscFmmw_0000002 56.4 60.4 
+Paul_Giamatti/E24CoscFmmw_0000003 87.0 92.5 
+Paul_Giamatti/E24CoscFmmw_0000004 166.7 176.7 
+Paul_Giamatti/E24CoscFmmw_0000005 217.6 221.8 
+Paul_Giamatti/E24CoscFmmw_0000006 224.1 236.2 
+Paul_Giamatti/E24CoscFmmw_0000007 247.8 252.1 
+Paul_Giamatti/E24CoscFmmw_0000008 273.5 279.2 
+Paul_Giamatti/E24CoscFmmw_0000009 286.2 290.8 
+Paul_Giamatti/E24CoscFmmw_0000010 312.6 323.6 
+Paul_Giamatti/E24CoscFmmw_0000011 330.6 340.0 
+Paul_Giamatti/E24CoscFmmw_0000012 349.5 363.1 
+Paul_Giamatti/E24CoscFmmw_0000013 364.0 369.4 
+Paul_Giamatti/E24CoscFmmw_0000014 370.2 378.6 
+Paul_Giamatti/E24CoscFmmw_0000015 391.4 398.0 
+Paul_Giamatti/E24CoscFmmw_0000016 403.7 411.2 
+Paul_Giamatti/E24CoscFmmw_0000017 411.4 417.9 

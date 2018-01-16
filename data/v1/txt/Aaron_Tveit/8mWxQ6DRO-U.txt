@@ -1,0 +1,9 @@
+POI: 			Aaron_Tveit 
+Youtube ID: 	8mWxQ6DRO-U 
+Video length: 	341.3 sec 
+Set (V): 		dev 
+ 
+Aaron_Tveit/8mWxQ6DRO-U_0000001 181.2 193.9 
+Aaron_Tveit/8mWxQ6DRO-U_0000002 210.2 217.8 
+Aaron_Tveit/8mWxQ6DRO-U_0000003 255.3 259.2 
+Aaron_Tveit/8mWxQ6DRO-U_0000004 297.3 306.1 

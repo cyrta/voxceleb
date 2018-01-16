@@ -1,0 +1,15 @@
+POI: 			Theo_James 
+Youtube ID: 	sMN2FjMoJG0 
+Video length: 	258.8 sec 
+Set (V): 		dev 
+ 
+Theo_James/sMN2FjMoJG0_0000001 08.5 19.9 
+Theo_James/sMN2FjMoJG0_0000002 25.7 30.4 
+Theo_James/sMN2FjMoJG0_0000003 52.4 71.2 
+Theo_James/sMN2FjMoJG0_0000004 90.2 95.0 
+Theo_James/sMN2FjMoJG0_0000005 95.2 108.6 
+Theo_James/sMN2FjMoJG0_0000006 155.6 163.2 
+Theo_James/sMN2FjMoJG0_0000007 164.7 169.4 
+Theo_James/sMN2FjMoJG0_0000008 169.5 192.7 
+Theo_James/sMN2FjMoJG0_0000009 217.6 240.9 
+Theo_James/sMN2FjMoJG0_0000010 241.9 249.9 

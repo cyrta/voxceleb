@@ -1,0 +1,17 @@
+POI: 			Roma_Downey 
+Youtube ID: 	vv_ZIX9rxfY 
+Video length: 	330.3 sec 
+Set (V): 		dev 
+ 
+Roma_Downey/vv_ZIX9rxfY_0000001 80.8 91.7 
+Roma_Downey/vv_ZIX9rxfY_0000002 127.9 139.2 
+Roma_Downey/vv_ZIX9rxfY_0000003 147.9 157.3 
+Roma_Downey/vv_ZIX9rxfY_0000004 172.6 197.1 
+Roma_Downey/vv_ZIX9rxfY_0000005 205.0 212.3 
+Roma_Downey/vv_ZIX9rxfY_0000006 213.6 221.8 
+Roma_Downey/vv_ZIX9rxfY_0000007 223.8 228.7 
+Roma_Downey/vv_ZIX9rxfY_0000008 243.8 247.8 
+Roma_Downey/vv_ZIX9rxfY_0000009 271.8 284.2 
+Roma_Downey/vv_ZIX9rxfY_0000010 290.6 295.7 
+Roma_Downey/vv_ZIX9rxfY_0000011 305.2 313.4 
+Roma_Downey/vv_ZIX9rxfY_0000012 318.4 326.5 

@@ -1,0 +1,9 @@
+POI: 			Tom_Kenny 
+Youtube ID: 	9O_RaQFYV-Q 
+Video length: 	343.1 sec 
+Set (V): 		dev 
+ 
+Tom_Kenny/9O_RaQFYV-Q_0000001 62.3 76.4 
+Tom_Kenny/9O_RaQFYV-Q_0000002 283.5 289.3 
+Tom_Kenny/9O_RaQFYV-Q_0000003 291.2 322.4 
+Tom_Kenny/9O_RaQFYV-Q_0000004 324.2 338.9 

@@ -1,0 +1,10 @@
+POI: 			Kate_Voegele 
+Youtube ID: 	lWwU44Wq67o 
+Video length: 	146.8 sec 
+Set (V): 		dev 
+ 
+Kate_Voegele/lWwU44Wq67o_0000001 28.6 32.6 
+Kate_Voegele/lWwU44Wq67o_0000002 35.2 41.3 
+Kate_Voegele/lWwU44Wq67o_0000003 81.8 86.8 
+Kate_Voegele/lWwU44Wq67o_0000004 116.9 121.7 
+Kate_Voegele/lWwU44Wq67o_0000005 132.3 140.4 

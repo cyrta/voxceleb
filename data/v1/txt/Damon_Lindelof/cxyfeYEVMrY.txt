@@ -1,0 +1,19 @@
+POI: 			Damon_Lindelof 
+Youtube ID: 	cxyfeYEVMrY 
+Video length: 	373.3 sec 
+Set (V): 		dev 
+ 
+Damon_Lindelof/cxyfeYEVMrY_0000001 29.8 38.5 
+Damon_Lindelof/cxyfeYEVMrY_0000002 45.5 50.7 
+Damon_Lindelof/cxyfeYEVMrY_0000003 88.4 97.6 
+Damon_Lindelof/cxyfeYEVMrY_0000004 104.3 108.8 
+Damon_Lindelof/cxyfeYEVMrY_0000005 136.1 141.8 
+Damon_Lindelof/cxyfeYEVMrY_0000006 143.7 155.4 
+Damon_Lindelof/cxyfeYEVMrY_0000007 166.3 170.5 
+Damon_Lindelof/cxyfeYEVMrY_0000008 177.7 187.5 
+Damon_Lindelof/cxyfeYEVMrY_0000009 189.5 205.0 
+Damon_Lindelof/cxyfeYEVMrY_0000010 219.4 226.2 
+Damon_Lindelof/cxyfeYEVMrY_0000011 232.4 243.1 
+Damon_Lindelof/cxyfeYEVMrY_0000012 245.2 266.0 
+Damon_Lindelof/cxyfeYEVMrY_0000013 270.8 283.2 
+Damon_Lindelof/cxyfeYEVMrY_0000014 304.6 329.9 

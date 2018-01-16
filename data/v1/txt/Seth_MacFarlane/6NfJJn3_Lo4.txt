@@ -1,0 +1,23 @@
+POI: 			Seth_MacFarlane 
+Youtube ID: 	6NfJJn3_Lo4 
+Video length: 	796.0 sec 
+Set (V): 		dev 
+ 
+Seth_MacFarlane/6NfJJn3_Lo4_0000001 15.8 21.1 
+Seth_MacFarlane/6NfJJn3_Lo4_0000002 87.0 91.2 
+Seth_MacFarlane/6NfJJn3_Lo4_0000003 117.0 125.8 
+Seth_MacFarlane/6NfJJn3_Lo4_0000004 206.8 215.6 
+Seth_MacFarlane/6NfJJn3_Lo4_0000005 228.5 233.6 
+Seth_MacFarlane/6NfJJn3_Lo4_0000006 282.2 287.0 
+Seth_MacFarlane/6NfJJn3_Lo4_0000007 287.2 293.2 
+Seth_MacFarlane/6NfJJn3_Lo4_0000008 363.0 367.6 
+Seth_MacFarlane/6NfJJn3_Lo4_0000009 403.6 410.4 
+Seth_MacFarlane/6NfJJn3_Lo4_0000010 416.5 428.2 
+Seth_MacFarlane/6NfJJn3_Lo4_0000011 428.8 437.3 
+Seth_MacFarlane/6NfJJn3_Lo4_0000012 529.0 536.5 
+Seth_MacFarlane/6NfJJn3_Lo4_0000013 538.0 542.1 
+Seth_MacFarlane/6NfJJn3_Lo4_0000014 542.3 547.1 
+Seth_MacFarlane/6NfJJn3_Lo4_0000015 548.4 566.8 
+Seth_MacFarlane/6NfJJn3_Lo4_0000016 568.0 573.4 
+Seth_MacFarlane/6NfJJn3_Lo4_0000017 582.4 591.1 
+Seth_MacFarlane/6NfJJn3_Lo4_0000018 591.2 609.1 

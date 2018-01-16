@@ -1,0 +1,9 @@
+POI: 			Cristin_Milioti 
+Youtube ID: 	xhu6gBgKUB4 
+Video length: 	418.3 sec 
+Set (V): 		dev 
+ 
+Cristin_Milioti/xhu6gBgKUB4_0000001 75.0 89.9 
+Cristin_Milioti/xhu6gBgKUB4_0000002 153.6 164.2 
+Cristin_Milioti/xhu6gBgKUB4_0000003 307.8 316.6 
+Cristin_Milioti/xhu6gBgKUB4_0000004 393.4 397.4 

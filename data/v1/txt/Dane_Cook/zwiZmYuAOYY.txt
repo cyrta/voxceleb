@@ -1,0 +1,15 @@
+POI: 			Dane_Cook 
+Youtube ID: 	zwiZmYuAOYY 
+Video length: 	216.4 sec 
+Set (V): 		dev 
+ 
+Dane_Cook/zwiZmYuAOYY_0000001 34.5 62.5 
+Dane_Cook/zwiZmYuAOYY_0000002 64.8 72.9 
+Dane_Cook/zwiZmYuAOYY_0000003 76.6 81.7 
+Dane_Cook/zwiZmYuAOYY_0000004 83.3 91.5 
+Dane_Cook/zwiZmYuAOYY_0000005 94.1 109.1 
+Dane_Cook/zwiZmYuAOYY_0000006 82.0 98.0 
+Dane_Cook/zwiZmYuAOYY_0000007 120.6 132.2 
+Dane_Cook/zwiZmYuAOYY_0000008 132.6 148.3 
+Dane_Cook/zwiZmYuAOYY_0000009 148.7 155.2 
+Dane_Cook/zwiZmYuAOYY_0000010 169.6 200.1 

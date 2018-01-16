@@ -1,0 +1,11 @@
+POI: 			Wes_Bentley 
+Youtube ID: 	WLFdAMkPUW0 
+Video length: 	57.2 sec 
+Set (V): 		dev 
+ 
+Wes_Bentley/WLFdAMkPUW0_0000001 08.0 13.5 
+Wes_Bentley/WLFdAMkPUW0_0000002 16.1 22.2 
+Wes_Bentley/WLFdAMkPUW0_0000003 28.4 33.6 
+Wes_Bentley/WLFdAMkPUW0_0000004 34.6 39.5 
+Wes_Bentley/WLFdAMkPUW0_0000005 41.0 46.0 
+Wes_Bentley/WLFdAMkPUW0_0000006 46.9 55.5 

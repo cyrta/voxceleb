@@ -1,0 +1,14 @@
+POI: 			Kyle_Richards 
+Youtube ID: 	2rClMUX7vqY 
+Video length: 	324.3 sec 
+Set (V): 		dev 
+ 
+Kyle_Richards/2rClMUX7vqY_0000001 67.1 72.4 
+Kyle_Richards/2rClMUX7vqY_0000002 86.8 96.7 
+Kyle_Richards/2rClMUX7vqY_0000003 107.5 112.5 
+Kyle_Richards/2rClMUX7vqY_0000004 155.5 159.8 
+Kyle_Richards/2rClMUX7vqY_0000005 175.8 180.4 
+Kyle_Richards/2rClMUX7vqY_0000006 201.4 218.4 
+Kyle_Richards/2rClMUX7vqY_0000007 250.0 261.6 
+Kyle_Richards/2rClMUX7vqY_0000008 269.1 276.4 
+Kyle_Richards/2rClMUX7vqY_0000009 288.2 299.1 

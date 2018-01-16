@@ -1,0 +1,7 @@
+POI: 			Garry_Marshall 
+Youtube ID: 	wlG8mwxqbjA 
+Video length: 	257.0 sec 
+Set (V): 		dev 
+ 
+Garry_Marshall/wlG8mwxqbjA_0000001 53.5 74.0 
+Garry_Marshall/wlG8mwxqbjA_0000002 185.2 193.9 

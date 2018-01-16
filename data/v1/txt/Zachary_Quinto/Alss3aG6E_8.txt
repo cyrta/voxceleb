@@ -1,0 +1,14 @@
+POI: 			Zachary_Quinto 
+Youtube ID: 	Alss3aG6E_8 
+Video length: 	237.7 sec 
+Set (V): 		dev 
+ 
+Zachary_Quinto/Alss3aG6E_8_0000001 24.6 28.6 
+Zachary_Quinto/Alss3aG6E_8_0000002 34.0 39.8 
+Zachary_Quinto/Alss3aG6E_8_0000003 39.9 44.8 
+Zachary_Quinto/Alss3aG6E_8_0000004 46.5 53.1 
+Zachary_Quinto/Alss3aG6E_8_0000005 115.6 121.7 
+Zachary_Quinto/Alss3aG6E_8_0000006 124.9 135.3 
+Zachary_Quinto/Alss3aG6E_8_0000007 156.4 160.9 
+Zachary_Quinto/Alss3aG6E_8_0000008 162.8 169.0 
+Zachary_Quinto/Alss3aG6E_8_0000009 169.4 179.8 

@@ -1,0 +1,9 @@
+POI: 			Penn_Jillette 
+Youtube ID: 	JTpHK9w0fnU 
+Video length: 	252.7 sec 
+Set (V): 		dev 
+ 
+Penn_Jillette/JTpHK9w0fnU_0000001 124.1 128.4 
+Penn_Jillette/JTpHK9w0fnU_0000002 142.3 146.3 
+Penn_Jillette/JTpHK9w0fnU_0000003 156.4 160.4 
+Penn_Jillette/JTpHK9w0fnU_0000004 170.4 175.6 

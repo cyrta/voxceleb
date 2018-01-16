@@ -1,0 +1,10 @@
+POI: 			Roma_Downey 
+Youtube ID: 	ode1-sX9bWY 
+Video length: 	393.8 sec 
+Set (V): 		dev 
+ 
+Roma_Downey/ode1-sX9bWY_0000001 108.0 112.4 
+Roma_Downey/ode1-sX9bWY_0000002 117.6 121.8 
+Roma_Downey/ode1-sX9bWY_0000003 128.5 133.2 
+Roma_Downey/ode1-sX9bWY_0000004 240.2 247.3 
+Roma_Downey/ode1-sX9bWY_0000005 257.4 264.7 

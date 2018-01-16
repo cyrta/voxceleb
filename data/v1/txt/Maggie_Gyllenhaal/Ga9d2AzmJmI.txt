@@ -1,0 +1,15 @@
+POI: 			Maggie_Gyllenhaal 
+Youtube ID: 	Ga9d2AzmJmI 
+Video length: 	332.7 sec 
+Set (V): 		dev 
+ 
+Maggie_Gyllenhaal/Ga9d2AzmJmI_0000001 23.8 28.3 
+Maggie_Gyllenhaal/Ga9d2AzmJmI_0000002 30.6 38.4 
+Maggie_Gyllenhaal/Ga9d2AzmJmI_0000003 40.4 46.6 
+Maggie_Gyllenhaal/Ga9d2AzmJmI_0000004 49.8 55.5 
+Maggie_Gyllenhaal/Ga9d2AzmJmI_0000005 248.4 252.7 
+Maggie_Gyllenhaal/Ga9d2AzmJmI_0000006 252.8 257.8 
+Maggie_Gyllenhaal/Ga9d2AzmJmI_0000007 258.4 277.2 
+Maggie_Gyllenhaal/Ga9d2AzmJmI_0000008 283.2 291.5 
+Maggie_Gyllenhaal/Ga9d2AzmJmI_0000009 292.8 300.7 
+Maggie_Gyllenhaal/Ga9d2AzmJmI_0000010 311.0 319.0 

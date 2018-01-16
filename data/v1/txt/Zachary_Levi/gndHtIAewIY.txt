@@ -1,0 +1,8 @@
+POI: 			Zachary_Levi 
+Youtube ID: 	gndHtIAewIY 
+Video length: 	196.6 sec 
+Set (V): 		dev 
+ 
+Zachary_Levi/gndHtIAewIY_0000001 91.0 102.8 
+Zachary_Levi/gndHtIAewIY_0000002 103.0 115.0 
+Zachary_Levi/gndHtIAewIY_0000003 121.1 128.7 

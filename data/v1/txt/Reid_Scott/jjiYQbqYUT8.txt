@@ -1,0 +1,16 @@
+POI: 			Reid_Scott 
+Youtube ID: 	jjiYQbqYUT8 
+Video length: 	141.4 sec 
+Set (V): 		dev 
+ 
+Reid_Scott/jjiYQbqYUT8_0000001 13.4 20.3 
+Reid_Scott/jjiYQbqYUT8_0000002 21.2 27.4 
+Reid_Scott/jjiYQbqYUT8_0000003 28.2 34.2 
+Reid_Scott/jjiYQbqYUT8_0000004 29.9 34.9 
+Reid_Scott/jjiYQbqYUT8_0000005 35.2 41.0 
+Reid_Scott/jjiYQbqYUT8_0000006 50.3 58.8 
+Reid_Scott/jjiYQbqYUT8_0000007 75.4 83.4 
+Reid_Scott/jjiYQbqYUT8_0000008 84.7 89.6 
+Reid_Scott/jjiYQbqYUT8_0000009 97.2 106.7 
+Reid_Scott/jjiYQbqYUT8_0000010 108.2 113.8 
+Reid_Scott/jjiYQbqYUT8_0000011 128.7 134.9 

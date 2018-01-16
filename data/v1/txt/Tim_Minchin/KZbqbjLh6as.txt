@@ -1,0 +1,11 @@
+POI: 			Tim_Minchin 
+Youtube ID: 	KZbqbjLh6as 
+Video length: 	320.5 sec 
+Set (V): 		dev 
+ 
+Tim_Minchin/KZbqbjLh6as_0000001 46.3 51.3 
+Tim_Minchin/KZbqbjLh6as_0000002 53.6 57.6 
+Tim_Minchin/KZbqbjLh6as_0000003 186.8 195.8 
+Tim_Minchin/KZbqbjLh6as_0000004 235.3 243.6 
+Tim_Minchin/KZbqbjLh6as_0000005 262.8 267.0 
+Tim_Minchin/KZbqbjLh6as_0000006 276.8 283.0 

@@ -1,0 +1,8 @@
+POI: 			Elle_Fanning 
+Youtube ID: 	lJQTN_wK9vA 
+Video length: 	390.5 sec 
+Set (V): 		test 
+ 
+Elle_Fanning/lJQTN_wK9vA_0000001 134.4 152.5 
+Elle_Fanning/lJQTN_wK9vA_0000002 236.6 247.3 
+Elle_Fanning/lJQTN_wK9vA_0000003 332.5 338.0 

@@ -1,0 +1,12 @@
+POI: 			Ellen_Wong 
+Youtube ID: 	JzNVSA7eFwc 
+Video length: 	302.3 sec 
+Set (V): 		test 
+ 
+Ellen_Wong/JzNVSA7eFwc_0000001 64.0 81.9 
+Ellen_Wong/JzNVSA7eFwc_0000002 109.1 133.8 
+Ellen_Wong/JzNVSA7eFwc_0000003 141.7 165.8 
+Ellen_Wong/JzNVSA7eFwc_0000004 166.4 171.2 
+Ellen_Wong/JzNVSA7eFwc_0000005 191.2 199.7 
+Ellen_Wong/JzNVSA7eFwc_0000006 210.5 233.2 
+Ellen_Wong/JzNVSA7eFwc_0000007 240.5 285.6 

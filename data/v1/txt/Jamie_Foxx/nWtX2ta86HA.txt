@@ -1,0 +1,22 @@
+POI: 			Jamie_Foxx 
+Youtube ID: 	nWtX2ta86HA 
+Video length: 	316.1 sec 
+Set (V): 		dev 
+ 
+Jamie_Foxx/nWtX2ta86HA_0000001 26.8 34.6 
+Jamie_Foxx/nWtX2ta86HA_0000002 37.1 44.1 
+Jamie_Foxx/nWtX2ta86HA_0000003 46.4 51.4 
+Jamie_Foxx/nWtX2ta86HA_0000004 67.5 77.8 
+Jamie_Foxx/nWtX2ta86HA_0000005 97.9 109.3 
+Jamie_Foxx/nWtX2ta86HA_0000006 115.8 120.3 
+Jamie_Foxx/nWtX2ta86HA_0000007 154.8 164.4 
+Jamie_Foxx/nWtX2ta86HA_0000008 174.4 183.0 
+Jamie_Foxx/nWtX2ta86HA_0000009 194.6 198.6 
+Jamie_Foxx/nWtX2ta86HA_0000010 200.7 207.8 
+Jamie_Foxx/nWtX2ta86HA_0000011 211.6 216.7 
+Jamie_Foxx/nWtX2ta86HA_0000012 239.0 243.0 
+Jamie_Foxx/nWtX2ta86HA_0000013 244.4 248.8 
+Jamie_Foxx/nWtX2ta86HA_0000014 249.4 258.2 
+Jamie_Foxx/nWtX2ta86HA_0000015 259.5 264.2 
+Jamie_Foxx/nWtX2ta86HA_0000016 265.2 271.8 
+Jamie_Foxx/nWtX2ta86HA_0000017 282.1 291.9 

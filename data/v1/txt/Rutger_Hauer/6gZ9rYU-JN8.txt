@@ -1,0 +1,10 @@
+POI: 			Rutger_Hauer 
+Youtube ID: 	6gZ9rYU-JN8 
+Video length: 	566.6 sec 
+Set (V): 		dev 
+ 
+Rutger_Hauer/6gZ9rYU-JN8_0000001 370.4 383.0 
+Rutger_Hauer/6gZ9rYU-JN8_0000002 383.8 388.3 
+Rutger_Hauer/6gZ9rYU-JN8_0000003 398.4 404.5 
+Rutger_Hauer/6gZ9rYU-JN8_0000004 405.0 409.1 
+Rutger_Hauer/6gZ9rYU-JN8_0000005 409.8 414.1 

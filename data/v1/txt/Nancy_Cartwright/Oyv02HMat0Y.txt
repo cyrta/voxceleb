@@ -1,0 +1,7 @@
+POI: 			Nancy_Cartwright 
+Youtube ID: 	Oyv02HMat0Y 
+Video length: 	192.1 sec 
+Set (V): 		dev 
+ 
+Nancy_Cartwright/Oyv02HMat0Y_0000001 89.6 94.7 
+Nancy_Cartwright/Oyv02HMat0Y_0000002 113.9 118.4 

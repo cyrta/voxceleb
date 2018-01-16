@@ -1,0 +1,13 @@
+POI: 			Shemar_Moore 
+Youtube ID: 	oAEPW1zRYy0 
+Video length: 	590.6 sec 
+Set (V): 		dev 
+ 
+Shemar_Moore/oAEPW1zRYy0_0000001 220.6 227.3 
+Shemar_Moore/oAEPW1zRYy0_0000002 367.8 375.1 
+Shemar_Moore/oAEPW1zRYy0_0000003 391.0 396.2 
+Shemar_Moore/oAEPW1zRYy0_0000004 399.0 403.0 
+Shemar_Moore/oAEPW1zRYy0_0000005 408.4 413.0 
+Shemar_Moore/oAEPW1zRYy0_0000006 413.8 420.4 
+Shemar_Moore/oAEPW1zRYy0_0000007 487.8 493.3 
+Shemar_Moore/oAEPW1zRYy0_0000008 550.9 555.3 

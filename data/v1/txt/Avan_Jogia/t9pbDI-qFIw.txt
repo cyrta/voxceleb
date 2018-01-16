@@ -1,0 +1,8 @@
+POI: 			Avan_Jogia 
+Youtube ID: 	t9pbDI-qFIw 
+Video length: 	225.6 sec 
+Set (V): 		dev 
+ 
+Avan_Jogia/t9pbDI-qFIw_0000001 110.7 114.8 
+Avan_Jogia/t9pbDI-qFIw_0000002 117.8 125.9 
+Avan_Jogia/t9pbDI-qFIw_0000003 208.8 212.9 

@@ -1,0 +1,13 @@
+POI: 			Will_Poulter 
+Youtube ID: 	GhOp1dhY54k 
+Video length: 	491.8 sec 
+Set (V): 		dev 
+ 
+Will_Poulter/GhOp1dhY54k_0000001 07.1 15.8 
+Will_Poulter/GhOp1dhY54k_0000002 21.4 33.4 
+Will_Poulter/GhOp1dhY54k_0000003 141.5 145.8 
+Will_Poulter/GhOp1dhY54k_0000004 146.5 152.0 
+Will_Poulter/GhOp1dhY54k_0000005 296.8 302.3 
+Will_Poulter/GhOp1dhY54k_0000006 302.6 308.6 
+Will_Poulter/GhOp1dhY54k_0000007 368.8 376.9 
+Will_Poulter/GhOp1dhY54k_0000008 479.6 485.3 

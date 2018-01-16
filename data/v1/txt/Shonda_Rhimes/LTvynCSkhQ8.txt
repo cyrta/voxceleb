@@ -1,0 +1,10 @@
+POI: 			Shonda_Rhimes 
+Youtube ID: 	LTvynCSkhQ8 
+Video length: 	155.5 sec 
+Set (V): 		dev 
+ 
+Shonda_Rhimes/LTvynCSkhQ8_0000001 01.6 10.3 
+Shonda_Rhimes/LTvynCSkhQ8_0000002 17.9 28.2 
+Shonda_Rhimes/LTvynCSkhQ8_0000003 42.6 62.1 
+Shonda_Rhimes/LTvynCSkhQ8_0000004 88.3 93.0 
+Shonda_Rhimes/LTvynCSkhQ8_0000005 115.5 125.2 

@@ -1,0 +1,18 @@
+POI: 			Marion_Cotillard 
+Youtube ID: 	NyGdKn6TA2U 
+Video length: 	233.6 sec 
+Set (V): 		dev 
+ 
+Marion_Cotillard/NyGdKn6TA2U_0000001 20.5 28.0 
+Marion_Cotillard/NyGdKn6TA2U_0000002 44.9 53.9 
+Marion_Cotillard/NyGdKn6TA2U_0000003 65.8 77.2 
+Marion_Cotillard/NyGdKn6TA2U_0000004 87.8 98.8 
+Marion_Cotillard/NyGdKn6TA2U_0000005 100.0 104.7 
+Marion_Cotillard/NyGdKn6TA2U_0000006 105.6 119.0 
+Marion_Cotillard/NyGdKn6TA2U_0000007 125.3 133.7 
+Marion_Cotillard/NyGdKn6TA2U_0000008 138.0 149.4 
+Marion_Cotillard/NyGdKn6TA2U_0000009 152.9 159.5 
+Marion_Cotillard/NyGdKn6TA2U_0000010 163.3 176.1 
+Marion_Cotillard/NyGdKn6TA2U_0000011 178.1 204.4 
+Marion_Cotillard/NyGdKn6TA2U_0000012 205.5 216.1 
+Marion_Cotillard/NyGdKn6TA2U_0000013 225.4 230.8 

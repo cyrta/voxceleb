@@ -1,0 +1,14 @@
+POI: 			Paul_Wesley 
+Youtube ID: 	yBoXUDfVFO8 
+Video length: 	220.4 sec 
+Set (V): 		dev 
+ 
+Paul_Wesley/yBoXUDfVFO8_0000001 74.2 85.7 
+Paul_Wesley/yBoXUDfVFO8_0000002 94.0 99.6 
+Paul_Wesley/yBoXUDfVFO8_0000003 100.3 105.4 
+Paul_Wesley/yBoXUDfVFO8_0000004 110.6 116.1 
+Paul_Wesley/yBoXUDfVFO8_0000005 116.4 124.1 
+Paul_Wesley/yBoXUDfVFO8_0000006 136.2 141.0 
+Paul_Wesley/yBoXUDfVFO8_0000007 172.8 180.5 
+Paul_Wesley/yBoXUDfVFO8_0000008 196.2 210.2 
+Paul_Wesley/yBoXUDfVFO8_0000009 210.7 215.9 

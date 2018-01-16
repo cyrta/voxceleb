@@ -1,0 +1,7 @@
+POI: 			Peter_Berg 
+Youtube ID: 	W2Gtawo_DI4 
+Video length: 	311.4 sec 
+Set (V): 		dev 
+ 
+Peter_Berg/W2Gtawo_DI4_0000001 120.4 124.5 
+Peter_Berg/W2Gtawo_DI4_0000002 125.1 143.6 

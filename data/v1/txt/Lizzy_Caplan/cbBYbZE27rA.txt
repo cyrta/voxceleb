@@ -1,0 +1,12 @@
+POI: 			Lizzy_Caplan 
+Youtube ID: 	cbBYbZE27rA 
+Video length: 	543.4 sec 
+Set (V): 		dev 
+ 
+Lizzy_Caplan/cbBYbZE27rA_0000001 39.0 43.8 
+Lizzy_Caplan/cbBYbZE27rA_0000002 48.6 54.2 
+Lizzy_Caplan/cbBYbZE27rA_0000003 64.6 72.5 
+Lizzy_Caplan/cbBYbZE27rA_0000004 149.0 154.4 
+Lizzy_Caplan/cbBYbZE27rA_0000005 159.6 163.7 
+Lizzy_Caplan/cbBYbZE27rA_0000006 264.5 273.4 
+Lizzy_Caplan/cbBYbZE27rA_0000007 297.2 303.0 

@@ -1,0 +1,13 @@
+POI: 			David_Harewood 
+Youtube ID: 	u8Q1K6jLQAQ 
+Video length: 	214.6 sec 
+Set (V): 		dev 
+ 
+David_Harewood/u8Q1K6jLQAQ_0000001 42.4 72.1 
+David_Harewood/u8Q1K6jLQAQ_0000002 75.8 87.1 
+David_Harewood/u8Q1K6jLQAQ_0000003 133.7 140.5 
+David_Harewood/u8Q1K6jLQAQ_0000004 143.1 147.2 
+David_Harewood/u8Q1K6jLQAQ_0000005 150.9 157.4 
+David_Harewood/u8Q1K6jLQAQ_0000006 164.9 169.6 
+David_Harewood/u8Q1K6jLQAQ_0000007 171.9 177.3 
+David_Harewood/u8Q1K6jLQAQ_0000008 179.7 189.8 

@@ -1,0 +1,14 @@
+POI: 			Indira_Varma 
+Youtube ID: 	CFEDwCw8xr0 
+Video length: 	191.8 sec 
+Set (V): 		dev 
+ 
+Indira_Varma/CFEDwCw8xr0_0000001 22.1 26.1 
+Indira_Varma/CFEDwCw8xr0_0000002 35.2 43.7 
+Indira_Varma/CFEDwCw8xr0_0000003 84.8 101.3 
+Indira_Varma/CFEDwCw8xr0_0000004 101.4 105.8 
+Indira_Varma/CFEDwCw8xr0_0000005 106.2 112.0 
+Indira_Varma/CFEDwCw8xr0_0000006 119.4 131.0 
+Indira_Varma/CFEDwCw8xr0_0000007 131.8 137.1 
+Indira_Varma/CFEDwCw8xr0_0000008 164.4 168.5 
+Indira_Varma/CFEDwCw8xr0_0000009 176.2 180.6 

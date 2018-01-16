@@ -1,0 +1,13 @@
+POI: 			Sung_Kang 
+Youtube ID: 	L4ZHgkOiDP8 
+Video length: 	115.8 sec 
+Set (V): 		dev 
+ 
+Sung_Kang/L4ZHgkOiDP8_0000001 16.7 24.5 
+Sung_Kang/L4ZHgkOiDP8_0000002 27.4 32.9 
+Sung_Kang/L4ZHgkOiDP8_0000003 35.0 47.4 
+Sung_Kang/L4ZHgkOiDP8_0000004 50.6 55.1 
+Sung_Kang/L4ZHgkOiDP8_0000005 55.2 59.6 
+Sung_Kang/L4ZHgkOiDP8_0000006 74.0 81.7 
+Sung_Kang/L4ZHgkOiDP8_0000007 82.0 87.3 
+Sung_Kang/L4ZHgkOiDP8_0000008 87.4 93.0 

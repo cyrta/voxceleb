@@ -1,0 +1,21 @@
+POI: 			Mary_McDonnell 
+Youtube ID: 	rcuRuLAZ3LI 
+Video length: 	296.5 sec 
+Set (V): 		dev 
+ 
+Mary_McDonnell/rcuRuLAZ3LI_0000001 26.2 40.6 
+Mary_McDonnell/rcuRuLAZ3LI_0000002 55.8 66.9 
+Mary_McDonnell/rcuRuLAZ3LI_0000003 73.0 82.0 
+Mary_McDonnell/rcuRuLAZ3LI_0000004 83.0 87.0 
+Mary_McDonnell/rcuRuLAZ3LI_0000005 119.4 129.0 
+Mary_McDonnell/rcuRuLAZ3LI_0000006 133.9 142.4 
+Mary_McDonnell/rcuRuLAZ3LI_0000007 153.8 158.6 
+Mary_McDonnell/rcuRuLAZ3LI_0000008 171.5 175.9 
+Mary_McDonnell/rcuRuLAZ3LI_0000009 182.0 186.3 
+Mary_McDonnell/rcuRuLAZ3LI_0000010 186.4 190.7 
+Mary_McDonnell/rcuRuLAZ3LI_0000011 203.2 209.2 
+Mary_McDonnell/rcuRuLAZ3LI_0000012 211.8 218.0 
+Mary_McDonnell/rcuRuLAZ3LI_0000013 223.9 235.3 
+Mary_McDonnell/rcuRuLAZ3LI_0000014 249.2 253.7 
+Mary_McDonnell/rcuRuLAZ3LI_0000015 251.7 259.1 
+Mary_McDonnell/rcuRuLAZ3LI_0000016 261.7 270.9 

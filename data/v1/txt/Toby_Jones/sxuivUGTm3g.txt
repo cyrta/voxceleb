@@ -1,0 +1,11 @@
+POI: 			Toby_Jones 
+Youtube ID: 	sxuivUGTm3g 
+Video length: 	100.8 sec 
+Set (V): 		dev 
+ 
+Toby_Jones/sxuivUGTm3g_0000001 09.6 13.7 
+Toby_Jones/sxuivUGTm3g_0000002 14.3 18.4 
+Toby_Jones/sxuivUGTm3g_0000003 37.2 43.2 
+Toby_Jones/sxuivUGTm3g_0000004 47.6 55.4 
+Toby_Jones/sxuivUGTm3g_0000005 57.8 64.7 
+Toby_Jones/sxuivUGTm3g_0000006 65.8 74.2 

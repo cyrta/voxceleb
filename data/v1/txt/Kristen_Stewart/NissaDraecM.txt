@@ -1,0 +1,10 @@
+POI: 			Kristen_Stewart 
+Youtube ID: 	NissaDraecM 
+Video length: 	307.9 sec 
+Set (V): 		dev 
+ 
+Kristen_Stewart/NissaDraecM_0000001 37.8 42.4 
+Kristen_Stewart/NissaDraecM_0000002 160.0 164.2 
+Kristen_Stewart/NissaDraecM_0000003 237.0 249.2 
+Kristen_Stewart/NissaDraecM_0000004 253.1 257.2 
+Kristen_Stewart/NissaDraecM_0000005 257.6 262.0 

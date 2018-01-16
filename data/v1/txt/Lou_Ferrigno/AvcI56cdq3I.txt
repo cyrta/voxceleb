@@ -1,0 +1,26 @@
+POI: 			Lou_Ferrigno 
+Youtube ID: 	AvcI56cdq3I 
+Video length: 	399.8 sec 
+Set (V): 		dev 
+ 
+Lou_Ferrigno/AvcI56cdq3I_0000001 54.0 59.8 
+Lou_Ferrigno/AvcI56cdq3I_0000002 60.0 68.7 
+Lou_Ferrigno/AvcI56cdq3I_0000003 70.8 79.7 
+Lou_Ferrigno/AvcI56cdq3I_0000004 84.2 89.6 
+Lou_Ferrigno/AvcI56cdq3I_0000005 99.6 116.7 
+Lou_Ferrigno/AvcI56cdq3I_0000006 118.8 135.0 
+Lou_Ferrigno/AvcI56cdq3I_0000007 153.1 157.5 
+Lou_Ferrigno/AvcI56cdq3I_0000008 159.8 164.9 
+Lou_Ferrigno/AvcI56cdq3I_0000009 169.7 177.3 
+Lou_Ferrigno/AvcI56cdq3I_0000010 179.6 186.3 
+Lou_Ferrigno/AvcI56cdq3I_0000011 199.0 203.0 
+Lou_Ferrigno/AvcI56cdq3I_0000012 215.0 228.0 
+Lou_Ferrigno/AvcI56cdq3I_0000013 249.7 254.8 
+Lou_Ferrigno/AvcI56cdq3I_0000014 261.4 268.1 
+Lou_Ferrigno/AvcI56cdq3I_0000015 268.6 273.9 
+Lou_Ferrigno/AvcI56cdq3I_0000016 275.8 288.6 
+Lou_Ferrigno/AvcI56cdq3I_0000017 303.2 311.2 
+Lou_Ferrigno/AvcI56cdq3I_0000018 312.8 320.0 
+Lou_Ferrigno/AvcI56cdq3I_0000019 324.9 331.6 
+Lou_Ferrigno/AvcI56cdq3I_0000020 346.8 358.2 
+Lou_Ferrigno/AvcI56cdq3I_0000021 365.5 381.8 

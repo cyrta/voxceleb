@@ -1,0 +1,17 @@
+POI: 			Robert_Sheehan 
+Youtube ID: 	oXGQICBI-k8 
+Video length: 	276.7 sec 
+Set (V): 		dev 
+ 
+Robert_Sheehan/oXGQICBI-k8_0000001 59.2 64.2 
+Robert_Sheehan/oXGQICBI-k8_0000002 70.1 77.1 
+Robert_Sheehan/oXGQICBI-k8_0000003 100.5 107.5 
+Robert_Sheehan/oXGQICBI-k8_0000004 130.1 134.2 
+Robert_Sheehan/oXGQICBI-k8_0000005 134.8 142.2 
+Robert_Sheehan/oXGQICBI-k8_0000006 151.8 161.6 
+Robert_Sheehan/oXGQICBI-k8_0000007 165.5 175.5 
+Robert_Sheehan/oXGQICBI-k8_0000008 193.8 199.6 
+Robert_Sheehan/oXGQICBI-k8_0000009 204.3 209.0 
+Robert_Sheehan/oXGQICBI-k8_0000010 234.2 242.4 
+Robert_Sheehan/oXGQICBI-k8_0000011 252.2 257.0 
+Robert_Sheehan/oXGQICBI-k8_0000012 257.7 263.4 

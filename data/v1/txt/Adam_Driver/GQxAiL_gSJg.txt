@@ -1,0 +1,31 @@
+POI: 			Adam_Driver 
+Youtube ID: 	GQxAiL_gSJg 
+Video length: 	314.5 sec 
+Set (V): 		dev 
+ 
+Adam_Driver/GQxAiL_gSJg_0000001 08.4 15.1 
+Adam_Driver/GQxAiL_gSJg_0000002 17.7 23.7 
+Adam_Driver/GQxAiL_gSJg_0000003 24.3 32.9 
+Adam_Driver/GQxAiL_gSJg_0000004 34.4 41.8 
+Adam_Driver/GQxAiL_gSJg_0000005 46.3 55.6 
+Adam_Driver/GQxAiL_gSJg_0000006 60.8 65.8 
+Adam_Driver/GQxAiL_gSJg_0000007 65.8 78.3 
+Adam_Driver/GQxAiL_gSJg_0000008 89.3 104.9 
+Adam_Driver/GQxAiL_gSJg_0000009 109.6 119.6 
+Adam_Driver/GQxAiL_gSJg_0000010 120.4 124.4 
+Adam_Driver/GQxAiL_gSJg_0000011 124.4 138.4 
+Adam_Driver/GQxAiL_gSJg_0000012 148.8 154.5 
+Adam_Driver/GQxAiL_gSJg_0000013 158.3 166.2 
+Adam_Driver/GQxAiL_gSJg_0000014 177.8 182.6 
+Adam_Driver/GQxAiL_gSJg_0000015 183.6 190.4 
+Adam_Driver/GQxAiL_gSJg_0000016 192.2 196.2 
+Adam_Driver/GQxAiL_gSJg_0000017 197.8 205.4 
+Adam_Driver/GQxAiL_gSJg_0000018 206.0 221.9 
+Adam_Driver/GQxAiL_gSJg_0000019 225.6 229.6 
+Adam_Driver/GQxAiL_gSJg_0000020 230.8 241.2 
+Adam_Driver/GQxAiL_gSJg_0000021 242.5 256.1 
+Adam_Driver/GQxAiL_gSJg_0000022 259.2 263.5 
+Adam_Driver/GQxAiL_gSJg_0000023 276.4 280.7 
+Adam_Driver/GQxAiL_gSJg_0000024 286.3 292.4 
+Adam_Driver/GQxAiL_gSJg_0000025 296.2 303.5 
+Adam_Driver/GQxAiL_gSJg_0000026 306.9 312.8 

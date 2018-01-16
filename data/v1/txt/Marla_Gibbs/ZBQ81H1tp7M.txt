@@ -1,0 +1,9 @@
+POI: 			Marla_Gibbs 
+Youtube ID: 	ZBQ81H1tp7M 
+Video length: 	79.0 sec 
+Set (V): 		dev 
+ 
+Marla_Gibbs/ZBQ81H1tp7M_0000001 10.0 16.9 
+Marla_Gibbs/ZBQ81H1tp7M_0000002 20.6 30.3 
+Marla_Gibbs/ZBQ81H1tp7M_0000003 35.2 41.6 
+Marla_Gibbs/ZBQ81H1tp7M_0000004 50.8 69.5 

@@ -1,0 +1,14 @@
+POI: 			Xavier_Samuel 
+Youtube ID: 	BKDW2oKzW-A 
+Video length: 	469.4 sec 
+Set (V): 		dev 
+ 
+Xavier_Samuel/BKDW2oKzW-A_0000001 81.5 86.3 
+Xavier_Samuel/BKDW2oKzW-A_0000002 95.1 99.4 
+Xavier_Samuel/BKDW2oKzW-A_0000003 203.0 208.0 
+Xavier_Samuel/BKDW2oKzW-A_0000004 250.2 255.4 
+Xavier_Samuel/BKDW2oKzW-A_0000005 284.6 289.2 
+Xavier_Samuel/BKDW2oKzW-A_0000006 295.4 300.8 
+Xavier_Samuel/BKDW2oKzW-A_0000007 307.8 314.7 
+Xavier_Samuel/BKDW2oKzW-A_0000008 315.8 319.8 
+Xavier_Samuel/BKDW2oKzW-A_0000009 336.9 342.1 

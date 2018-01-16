@@ -1,0 +1,21 @@
+POI: 			Diego_Luna 
+Youtube ID: 	d5gdsyQGttY 
+Video length: 	289.8 sec 
+Set (V): 		dev 
+ 
+Diego_Luna/d5gdsyQGttY_0000001 09.5 14.2 
+Diego_Luna/d5gdsyQGttY_0000002 41.2 46.1 
+Diego_Luna/d5gdsyQGttY_0000003 47.5 53.5 
+Diego_Luna/d5gdsyQGttY_0000004 82.5 87.2 
+Diego_Luna/d5gdsyQGttY_0000005 87.5 97.5 
+Diego_Luna/d5gdsyQGttY_0000006 126.3 134.6 
+Diego_Luna/d5gdsyQGttY_0000007 136.5 140.9 
+Diego_Luna/d5gdsyQGttY_0000008 152.0 158.9 
+Diego_Luna/d5gdsyQGttY_0000009 136.7 140.7 
+Diego_Luna/d5gdsyQGttY_0000010 169.6 174.7 
+Diego_Luna/d5gdsyQGttY_0000011 179.9 185.1 
+Diego_Luna/d5gdsyQGttY_0000012 198.6 202.8 
+Diego_Luna/d5gdsyQGttY_0000013 234.8 241.8 
+Diego_Luna/d5gdsyQGttY_0000014 245.2 249.2 
+Diego_Luna/d5gdsyQGttY_0000015 265.9 271.3 
+Diego_Luna/d5gdsyQGttY_0000016 277.1 286.1 

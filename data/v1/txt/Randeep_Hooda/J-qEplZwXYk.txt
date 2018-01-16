@@ -1,0 +1,12 @@
+POI: 			Randeep_Hooda 
+Youtube ID: 	J-qEplZwXYk 
+Video length: 	203.8 sec 
+Set (V): 		dev 
+ 
+Randeep_Hooda/J-qEplZwXYk_0000001 40.4 46.6 
+Randeep_Hooda/J-qEplZwXYk_0000002 57.5 62.2 
+Randeep_Hooda/J-qEplZwXYk_0000003 90.8 95.2 
+Randeep_Hooda/J-qEplZwXYk_0000004 116.6 121.2 
+Randeep_Hooda/J-qEplZwXYk_0000005 126.0 131.6 
+Randeep_Hooda/J-qEplZwXYk_0000006 147.4 152.2 
+Randeep_Hooda/J-qEplZwXYk_0000007 180.5 187.5 

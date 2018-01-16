@@ -1,0 +1,14 @@
+POI: 			Sharlto_Copley 
+Youtube ID: 	PTrBg501LNw 
+Video length: 	201.5 sec 
+Set (V): 		dev 
+ 
+Sharlto_Copley/PTrBg501LNw_0000001 01.6 14.2 
+Sharlto_Copley/PTrBg501LNw_0000002 26.9 63.4 
+Sharlto_Copley/PTrBg501LNw_0000003 75.5 89.8 
+Sharlto_Copley/PTrBg501LNw_0000004 90.4 103.4 
+Sharlto_Copley/PTrBg501LNw_0000005 104.1 112.6 
+Sharlto_Copley/PTrBg501LNw_0000006 116.2 124.9 
+Sharlto_Copley/PTrBg501LNw_0000007 143.6 171.4 
+Sharlto_Copley/PTrBg501LNw_0000008 172.1 179.6 
+Sharlto_Copley/PTrBg501LNw_0000009 179.9 193.3 

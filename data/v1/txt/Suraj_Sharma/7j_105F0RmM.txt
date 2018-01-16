@@ -1,0 +1,14 @@
+POI: 			Suraj_Sharma 
+Youtube ID: 	7j_105F0RmM 
+Video length: 	194.3 sec 
+Set (V): 		dev 
+ 
+Suraj_Sharma/7j_105F0RmM_0000001 00.7 33.4 
+Suraj_Sharma/7j_105F0RmM_0000002 33.5 48.6 
+Suraj_Sharma/7j_105F0RmM_0000003 71.6 91.2 
+Suraj_Sharma/7j_105F0RmM_0000004 93.7 101.3 
+Suraj_Sharma/7j_105F0RmM_0000005 107.3 142.7 
+Suraj_Sharma/7j_105F0RmM_0000006 145.0 152.4 
+Suraj_Sharma/7j_105F0RmM_0000007 155.6 161.8 
+Suraj_Sharma/7j_105F0RmM_0000008 163.2 170.9 
+Suraj_Sharma/7j_105F0RmM_0000009 171.2 175.1 

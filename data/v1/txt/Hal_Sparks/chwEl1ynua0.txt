@@ -1,0 +1,7 @@
+POI: 			Hal_Sparks 
+Youtube ID: 	chwEl1ynua0 
+Video length: 	222.6 sec 
+Set (V): 		dev 
+ 
+Hal_Sparks/chwEl1ynua0_0000001 125.2 146.4 
+Hal_Sparks/chwEl1ynua0_0000002 155.4 163.0 

@@ -1,0 +1,12 @@
+POI: 			Wim_Wenders 
+Youtube ID: 	ETJBB-_ghng 
+Video length: 	252.0 sec 
+Set (V): 		dev 
+ 
+Wim_Wenders/ETJBB-_ghng_0000001 48.6 52.8 
+Wim_Wenders/ETJBB-_ghng_0000002 58.7 67.5 
+Wim_Wenders/ETJBB-_ghng_0000003 159.2 163.2 
+Wim_Wenders/ETJBB-_ghng_0000004 205.4 213.0 
+Wim_Wenders/ETJBB-_ghng_0000005 214.1 218.2 
+Wim_Wenders/ETJBB-_ghng_0000006 224.8 235.8 
+Wim_Wenders/ETJBB-_ghng_0000007 236.6 241.0 

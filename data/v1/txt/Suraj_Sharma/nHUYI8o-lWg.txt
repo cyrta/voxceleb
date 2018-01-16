@@ -1,0 +1,12 @@
+POI: 			Suraj_Sharma 
+Youtube ID: 	nHUYI8o-lWg 
+Video length: 	146.6 sec 
+Set (V): 		dev 
+ 
+Suraj_Sharma/nHUYI8o-lWg_0000001 11.5 24.7 
+Suraj_Sharma/nHUYI8o-lWg_0000002 27.6 34.8 
+Suraj_Sharma/nHUYI8o-lWg_0000003 45.0 50.0 
+Suraj_Sharma/nHUYI8o-lWg_0000004 66.7 71.1 
+Suraj_Sharma/nHUYI8o-lWg_0000005 93.0 97.2 
+Suraj_Sharma/nHUYI8o-lWg_0000006 116.2 120.2 
+Suraj_Sharma/nHUYI8o-lWg_0000007 125.1 129.3 

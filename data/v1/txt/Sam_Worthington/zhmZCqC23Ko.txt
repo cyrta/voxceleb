@@ -1,0 +1,9 @@
+POI: 			Sam_Worthington 
+Youtube ID: 	zhmZCqC23Ko 
+Video length: 	59.2 sec 
+Set (V): 		dev 
+ 
+Sam_Worthington/zhmZCqC23Ko_0000001 09.4 14.1 
+Sam_Worthington/zhmZCqC23Ko_0000002 14.4 20.7 
+Sam_Worthington/zhmZCqC23Ko_0000003 37.5 42.3 
+Sam_Worthington/zhmZCqC23Ko_0000004 44.1 49.8 

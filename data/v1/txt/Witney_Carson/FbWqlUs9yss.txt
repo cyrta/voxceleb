@@ -1,0 +1,9 @@
+POI: 			Witney_Carson 
+Youtube ID: 	FbWqlUs9yss 
+Video length: 	757.0 sec 
+Set (V): 		dev 
+ 
+Witney_Carson/FbWqlUs9yss_0000001 30.6 45.6 
+Witney_Carson/FbWqlUs9yss_0000002 446.3 450.8 
+Witney_Carson/FbWqlUs9yss_0000003 451.6 458.6 
+Witney_Carson/FbWqlUs9yss_0000004 459.2 463.3 

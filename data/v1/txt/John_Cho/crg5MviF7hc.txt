@@ -1,0 +1,7 @@
+POI: 			John_Cho 
+Youtube ID: 	crg5MviF7hc 
+Video length: 	113.2 sec 
+Set (V): 		dev 
+ 
+John_Cho/crg5MviF7hc_0000001 22.8 27.4 
+John_Cho/crg5MviF7hc_0000002 28.1 33.2 

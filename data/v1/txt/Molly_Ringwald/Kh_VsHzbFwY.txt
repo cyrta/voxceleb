@@ -1,0 +1,12 @@
+POI: 			Molly_Ringwald 
+Youtube ID: 	Kh_VsHzbFwY 
+Video length: 	358.4 sec 
+Set (V): 		dev 
+ 
+Molly_Ringwald/Kh_VsHzbFwY_0000001 175.6 182.9 
+Molly_Ringwald/Kh_VsHzbFwY_0000002 231.9 239.7 
+Molly_Ringwald/Kh_VsHzbFwY_0000003 240.8 245.2 
+Molly_Ringwald/Kh_VsHzbFwY_0000004 273.7 283.5 
+Molly_Ringwald/Kh_VsHzbFwY_0000005 298.7 303.8 
+Molly_Ringwald/Kh_VsHzbFwY_0000006 317.3 321.4 
+Molly_Ringwald/Kh_VsHzbFwY_0000007 331.9 340.4 

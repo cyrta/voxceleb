@@ -1,0 +1,12 @@
+POI: 			Rade_Serbedzija 
+Youtube ID: 	HBnIsJMREBQ 
+Video length: 	771.5 sec 
+Set (V): 		dev 
+ 
+Rade_Serbedzija/HBnIsJMREBQ_0000001 332.7 342.2 
+Rade_Serbedzija/HBnIsJMREBQ_0000002 585.4 590.5 
+Rade_Serbedzija/HBnIsJMREBQ_0000003 614.6 620.2 
+Rade_Serbedzija/HBnIsJMREBQ_0000004 629.6 637.9 
+Rade_Serbedzija/HBnIsJMREBQ_0000005 647.6 652.2 
+Rade_Serbedzija/HBnIsJMREBQ_0000006 653.2 659.8 
+Rade_Serbedzija/HBnIsJMREBQ_0000007 676.4 681.0 

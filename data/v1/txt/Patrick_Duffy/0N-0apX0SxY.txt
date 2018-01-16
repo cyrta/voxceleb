@@ -1,0 +1,17 @@
+POI: 			Patrick_Duffy 
+Youtube ID: 	0N-0apX0SxY 
+Video length: 	653.9 sec 
+Set (V): 		dev 
+ 
+Patrick_Duffy/0N-0apX0SxY_0000001 138.1 142.9 
+Patrick_Duffy/0N-0apX0SxY_0000002 167.2 172.3 
+Patrick_Duffy/0N-0apX0SxY_0000003 174.3 179.4 
+Patrick_Duffy/0N-0apX0SxY_0000004 183.8 189.0 
+Patrick_Duffy/0N-0apX0SxY_0000005 321.6 330.8 
+Patrick_Duffy/0N-0apX0SxY_0000006 415.0 419.4 
+Patrick_Duffy/0N-0apX0SxY_0000007 422.3 426.6 
+Patrick_Duffy/0N-0apX0SxY_0000008 479.2 483.3 
+Patrick_Duffy/0N-0apX0SxY_0000009 503.4 509.8 
+Patrick_Duffy/0N-0apX0SxY_0000010 557.5 561.6 
+Patrick_Duffy/0N-0apX0SxY_0000011 604.8 609.0 
+Patrick_Duffy/0N-0apX0SxY_0000012 616.8 633.8 

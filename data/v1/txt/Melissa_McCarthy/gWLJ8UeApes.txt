@@ -1,0 +1,8 @@
+POI: 			Melissa_McCarthy 
+Youtube ID: 	gWLJ8UeApes 
+Video length: 	706.6 sec 
+Set (V): 		dev 
+ 
+Melissa_McCarthy/gWLJ8UeApes_0000001 223.8 228.2 
+Melissa_McCarthy/gWLJ8UeApes_0000002 286.4 292.0 
+Melissa_McCarthy/gWLJ8UeApes_0000003 307.4 312.5 

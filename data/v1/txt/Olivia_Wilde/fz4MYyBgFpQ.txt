@@ -1,0 +1,22 @@
+POI: 			Olivia_Wilde 
+Youtube ID: 	fz4MYyBgFpQ 
+Video length: 	207.3 sec 
+Set (V): 		dev 
+ 
+Olivia_Wilde/fz4MYyBgFpQ_0000001 05.7 21.4 
+Olivia_Wilde/fz4MYyBgFpQ_0000002 21.8 31.6 
+Olivia_Wilde/fz4MYyBgFpQ_0000003 33.4 41.0 
+Olivia_Wilde/fz4MYyBgFpQ_0000004 47.6 52.1 
+Olivia_Wilde/fz4MYyBgFpQ_0000005 53.1 60.4 
+Olivia_Wilde/fz4MYyBgFpQ_0000006 61.7 68.6 
+Olivia_Wilde/fz4MYyBgFpQ_0000007 69.0 77.8 
+Olivia_Wilde/fz4MYyBgFpQ_0000008 77.9 82.6 
+Olivia_Wilde/fz4MYyBgFpQ_0000009 121.8 127.8 
+Olivia_Wilde/fz4MYyBgFpQ_0000010 128.7 136.1 
+Olivia_Wilde/fz4MYyBgFpQ_0000011 179.6 194.9 
+Olivia_Wilde/fz4MYyBgFpQ_0000012 195.1 205.1 
+Olivia_Wilde/fz4MYyBgFpQ_0000013 99.8 104.5 
+Olivia_Wilde/fz4MYyBgFpQ_0000014 119.2 126.3 
+Olivia_Wilde/fz4MYyBgFpQ_0000015 126.7 143.6 
+Olivia_Wilde/fz4MYyBgFpQ_0000016 144.2 148.8 
+Olivia_Wilde/fz4MYyBgFpQ_0000017 167.3 173.8 

@@ -1,0 +1,37 @@
+POI: 			Jeremy_Irons 
+Youtube ID: 	XBHw-TNznw4 
+Video length: 	892.3 sec 
+Set (V): 		dev 
+ 
+Jeremy_Irons/XBHw-TNznw4_0000001 69.2 75.2 
+Jeremy_Irons/XBHw-TNznw4_0000002 79.1 83.4 
+Jeremy_Irons/XBHw-TNznw4_0000003 102.8 108.9 
+Jeremy_Irons/XBHw-TNznw4_0000004 127.1 131.4 
+Jeremy_Irons/XBHw-TNznw4_0000005 158.7 163.4 
+Jeremy_Irons/XBHw-TNznw4_0000006 292.0 297.2 
+Jeremy_Irons/XBHw-TNznw4_0000007 321.8 330.0 
+Jeremy_Irons/XBHw-TNznw4_0000008 347.9 352.3 
+Jeremy_Irons/XBHw-TNznw4_0000009 419.9 424.6 
+Jeremy_Irons/XBHw-TNznw4_0000010 426.0 431.2 
+Jeremy_Irons/XBHw-TNznw4_0000011 436.1 442.8 
+Jeremy_Irons/XBHw-TNznw4_0000012 472.4 477.7 
+Jeremy_Irons/XBHw-TNznw4_0000013 481.5 491.7 
+Jeremy_Irons/XBHw-TNznw4_0000014 535.1 543.4 
+Jeremy_Irons/XBHw-TNznw4_0000015 590.4 594.9 
+Jeremy_Irons/XBHw-TNznw4_0000016 617.2 621.7 
+Jeremy_Irons/XBHw-TNznw4_0000017 725.2 729.9 
+Jeremy_Irons/XBHw-TNznw4_0000018 731.5 736.2 
+Jeremy_Irons/XBHw-TNznw4_0000019 744.8 758.6 
+Jeremy_Irons/XBHw-TNznw4_0000020 763.4 768.4 
+Jeremy_Irons/XBHw-TNznw4_0000021 770.4 775.6 
+Jeremy_Irons/XBHw-TNznw4_0000022 775.8 782.2 
+Jeremy_Irons/XBHw-TNznw4_0000023 783.1 793.1 
+Jeremy_Irons/XBHw-TNznw4_0000024 793.7 799.5 
+Jeremy_Irons/XBHw-TNznw4_0000025 805.7 810.3 
+Jeremy_Irons/XBHw-TNznw4_0000026 812.8 817.5 
+Jeremy_Irons/XBHw-TNznw4_0000027 820.0 832.1 
+Jeremy_Irons/XBHw-TNznw4_0000028 832.5 843.5 
+Jeremy_Irons/XBHw-TNznw4_0000029 844.5 850.6 
+Jeremy_Irons/XBHw-TNznw4_0000030 856.0 861.3 
+Jeremy_Irons/XBHw-TNznw4_0000031 865.1 871.4 
+Jeremy_Irons/XBHw-TNznw4_0000032 877.8 884.4 

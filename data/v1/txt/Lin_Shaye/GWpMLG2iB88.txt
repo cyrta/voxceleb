@@ -1,0 +1,11 @@
+POI: 			Lin_Shaye 
+Youtube ID: 	GWpMLG2iB88 
+Video length: 	209.7 sec 
+Set (V): 		dev 
+ 
+Lin_Shaye/GWpMLG2iB88_0000001 82.9 95.0 
+Lin_Shaye/GWpMLG2iB88_0000002 118.4 125.4 
+Lin_Shaye/GWpMLG2iB88_0000003 128.0 135.1 
+Lin_Shaye/GWpMLG2iB88_0000004 137.6 146.4 
+Lin_Shaye/GWpMLG2iB88_0000005 148.9 156.3 
+Lin_Shaye/GWpMLG2iB88_0000006 160.2 169.8 

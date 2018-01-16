@@ -1,0 +1,18 @@
+POI: 			Pierre_Niney 
+Youtube ID: 	H2V2xQT3vvI 
+Video length: 	1115.2 sec 
+Set (V): 		dev 
+ 
+Pierre_Niney/H2V2xQT3vvI_0000001 31.1 35.7 
+Pierre_Niney/H2V2xQT3vvI_0000002 91.6 97.4 
+Pierre_Niney/H2V2xQT3vvI_0000003 118.7 125.1 
+Pierre_Niney/H2V2xQT3vvI_0000004 218.0 223.4 
+Pierre_Niney/H2V2xQT3vvI_0000005 246.1 254.1 
+Pierre_Niney/H2V2xQT3vvI_0000006 281.7 286.4 
+Pierre_Niney/H2V2xQT3vvI_0000007 323.0 328.4 
+Pierre_Niney/H2V2xQT3vvI_0000008 424.5 434.3 
+Pierre_Niney/H2V2xQT3vvI_0000009 450.6 455.7 
+Pierre_Niney/H2V2xQT3vvI_0000010 482.8 488.1 
+Pierre_Niney/H2V2xQT3vvI_0000011 580.6 585.0 
+Pierre_Niney/H2V2xQT3vvI_0000012 655.4 659.6 
+Pierre_Niney/H2V2xQT3vvI_0000013 907.8 913.6 

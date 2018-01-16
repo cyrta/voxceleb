@@ -1,0 +1,13 @@
+POI: 			Darren_Criss 
+Youtube ID: 	uT7lW7HX5ik 
+Video length: 	381.2 sec 
+Set (V): 		dev 
+ 
+Darren_Criss/uT7lW7HX5ik_0000001 82.0 90.5 
+Darren_Criss/uT7lW7HX5ik_0000002 106.0 110.8 
+Darren_Criss/uT7lW7HX5ik_0000003 129.8 134.2 
+Darren_Criss/uT7lW7HX5ik_0000004 231.2 235.6 
+Darren_Criss/uT7lW7HX5ik_0000005 315.1 330.1 
+Darren_Criss/uT7lW7HX5ik_0000006 336.8 342.6 
+Darren_Criss/uT7lW7HX5ik_0000007 347.2 351.3 
+Darren_Criss/uT7lW7HX5ik_0000008 351.7 359.4 

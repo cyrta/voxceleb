@@ -1,0 +1,11 @@
+POI: 			Adam_Brody 
+Youtube ID: 	5ssVY9a5X-M 
+Video length: 	122.8 sec 
+Set (V): 		dev 
+ 
+Adam_Brody/5ssVY9a5X-M_0000001 15.7 22.0 
+Adam_Brody/5ssVY9a5X-M_0000002 29.6 33.8 
+Adam_Brody/5ssVY9a5X-M_0000003 39.0 45.4 
+Adam_Brody/5ssVY9a5X-M_0000004 51.8 58.1 
+Adam_Brody/5ssVY9a5X-M_0000005 71.5 79.6 
+Adam_Brody/5ssVY9a5X-M_0000006 80.5 86.9 

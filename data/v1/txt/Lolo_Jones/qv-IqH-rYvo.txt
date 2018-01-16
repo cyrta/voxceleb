@@ -1,0 +1,7 @@
+POI: 			Lolo_Jones 
+Youtube ID: 	qv-IqH-rYvo 
+Video length: 	187.2 sec 
+Set (V): 		dev 
+ 
+Lolo_Jones/qv-IqH-rYvo_0000001 74.2 82.7 
+Lolo_Jones/qv-IqH-rYvo_0000002 167.1 171.2 

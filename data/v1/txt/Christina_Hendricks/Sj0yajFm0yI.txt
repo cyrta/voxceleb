@@ -1,0 +1,9 @@
+POI: 			Christina_Hendricks 
+Youtube ID: 	Sj0yajFm0yI 
+Video length: 	168.0 sec 
+Set (V): 		dev 
+ 
+Christina_Hendricks/Sj0yajFm0yI_0000001 11.7 17.2 
+Christina_Hendricks/Sj0yajFm0yI_0000002 54.4 60.9 
+Christina_Hendricks/Sj0yajFm0yI_0000003 76.4 80.7 
+Christina_Hendricks/Sj0yajFm0yI_0000004 153.0 163.5 

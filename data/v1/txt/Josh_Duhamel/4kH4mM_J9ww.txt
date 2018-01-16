@@ -1,0 +1,7 @@
+POI: 			Josh_Duhamel 
+Youtube ID: 	4kH4mM_J9ww 
+Video length: 	528.8 sec 
+Set (V): 		dev 
+ 
+Josh_Duhamel/4kH4mM_J9ww_0000001 478.4 485.5 
+Josh_Duhamel/4kH4mM_J9ww_0000002 486.3 490.7 

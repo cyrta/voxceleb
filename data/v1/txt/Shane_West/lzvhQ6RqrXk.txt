@@ -1,0 +1,11 @@
+POI: 			Shane_West 
+Youtube ID: 	lzvhQ6RqrXk 
+Video length: 	278.7 sec 
+Set (V): 		dev 
+ 
+Shane_West/lzvhQ6RqrXk_0000001 37.5 43.2 
+Shane_West/lzvhQ6RqrXk_0000002 45.3 53.0 
+Shane_West/lzvhQ6RqrXk_0000003 131.3 144.6 
+Shane_West/lzvhQ6RqrXk_0000004 171.9 180.0 
+Shane_West/lzvhQ6RqrXk_0000005 203.0 207.0 
+Shane_West/lzvhQ6RqrXk_0000006 251.8 256.8 

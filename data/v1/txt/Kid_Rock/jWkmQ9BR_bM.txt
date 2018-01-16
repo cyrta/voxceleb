@@ -1,0 +1,13 @@
+POI: 			Kid_Rock 
+Youtube ID: 	jWkmQ9BR_bM 
+Video length: 	562.9 sec 
+Set (V): 		dev 
+ 
+Kid_Rock/jWkmQ9BR_bM_0000001 49.3 55.6 
+Kid_Rock/jWkmQ9BR_bM_0000002 94.5 98.7 
+Kid_Rock/jWkmQ9BR_bM_0000003 146.9 152.7 
+Kid_Rock/jWkmQ9BR_bM_0000004 221.7 225.9 
+Kid_Rock/jWkmQ9BR_bM_0000005 239.8 245.8 
+Kid_Rock/jWkmQ9BR_bM_0000006 248.1 258.8 
+Kid_Rock/jWkmQ9BR_bM_0000007 319.2 325.5 
+Kid_Rock/jWkmQ9BR_bM_0000008 535.2 539.3 

@@ -1,0 +1,10 @@
+POI: 			Bill_Nighy 
+Youtube ID: 	DpWLNYFPT9U 
+Video length: 	185.1 sec 
+Set (V): 		dev 
+ 
+Bill_Nighy/DpWLNYFPT9U_0000001 21.1 25.9 
+Bill_Nighy/DpWLNYFPT9U_0000002 33.3 47.1 
+Bill_Nighy/DpWLNYFPT9U_0000003 84.5 91.3 
+Bill_Nighy/DpWLNYFPT9U_0000004 105.2 109.6 
+Bill_Nighy/DpWLNYFPT9U_0000005 160.7 176.8 

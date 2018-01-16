@@ -1,0 +1,12 @@
+POI: 			John_Hawkes 
+Youtube ID: 	nnN_zAFoJkA 
+Video length: 	320.0 sec 
+Set (V): 		dev 
+ 
+John_Hawkes/nnN_zAFoJkA_0000001 88.3 93.4 
+John_Hawkes/nnN_zAFoJkA_0000002 107.8 112.1 
+John_Hawkes/nnN_zAFoJkA_0000003 118.4 125.1 
+John_Hawkes/nnN_zAFoJkA_0000004 148.8 152.8 
+John_Hawkes/nnN_zAFoJkA_0000005 219.8 224.5 
+John_Hawkes/nnN_zAFoJkA_0000006 243.4 253.7 
+John_Hawkes/nnN_zAFoJkA_0000007 296.3 300.8 

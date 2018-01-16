@@ -1,0 +1,23 @@
+POI: 			Mathieu_Amalric 
+Youtube ID: 	7ApnKSGI_Q0 
+Video length: 	568.0 sec 
+Set (V): 		dev 
+ 
+Mathieu_Amalric/7ApnKSGI_Q0_0000001 79.3 85.0 
+Mathieu_Amalric/7ApnKSGI_Q0_0000002 104.4 109.4 
+Mathieu_Amalric/7ApnKSGI_Q0_0000003 145.8 150.2 
+Mathieu_Amalric/7ApnKSGI_Q0_0000004 185.6 189.9 
+Mathieu_Amalric/7ApnKSGI_Q0_0000005 201.0 205.8 
+Mathieu_Amalric/7ApnKSGI_Q0_0000006 207.4 211.9 
+Mathieu_Amalric/7ApnKSGI_Q0_0000007 279.0 288.4 
+Mathieu_Amalric/7ApnKSGI_Q0_0000008 297.6 302.0 
+Mathieu_Amalric/7ApnKSGI_Q0_0000009 312.3 318.4 
+Mathieu_Amalric/7ApnKSGI_Q0_0000010 333.8 340.0 
+Mathieu_Amalric/7ApnKSGI_Q0_0000011 340.2 345.7 
+Mathieu_Amalric/7ApnKSGI_Q0_0000012 367.0 374.0 
+Mathieu_Amalric/7ApnKSGI_Q0_0000013 397.5 401.7 
+Mathieu_Amalric/7ApnKSGI_Q0_0000014 423.3 427.3 
+Mathieu_Amalric/7ApnKSGI_Q0_0000015 436.9 442.0 
+Mathieu_Amalric/7ApnKSGI_Q0_0000016 452.5 456.8 
+Mathieu_Amalric/7ApnKSGI_Q0_0000017 509.0 514.2 
+Mathieu_Amalric/7ApnKSGI_Q0_0000018 530.9 535.0 

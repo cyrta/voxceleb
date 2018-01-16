@@ -1,0 +1,26 @@
+POI: 			Ernest_Borgnine 
+Youtube ID: 	7byARrJfhlI 
+Video length: 	349.2 sec 
+Set (V): 		test 
+ 
+Ernest_Borgnine/7byARrJfhlI_0000001 12.1 18.1 
+Ernest_Borgnine/7byARrJfhlI_0000002 41.2 49.8 
+Ernest_Borgnine/7byARrJfhlI_0000003 52.7 62.1 
+Ernest_Borgnine/7byARrJfhlI_0000004 66.7 71.6 
+Ernest_Borgnine/7byARrJfhlI_0000005 52.6 62.0 
+Ernest_Borgnine/7byARrJfhlI_0000006 66.6 71.8 
+Ernest_Borgnine/7byARrJfhlI_0000007 76.4 109.0 
+Ernest_Borgnine/7byARrJfhlI_0000008 116.5 134.4 
+Ernest_Borgnine/7byARrJfhlI_0000009 137.3 147.1 
+Ernest_Borgnine/7byARrJfhlI_0000010 154.7 170.6 
+Ernest_Borgnine/7byARrJfhlI_0000011 172.4 177.0 
+Ernest_Borgnine/7byARrJfhlI_0000012 181.6 189.0 
+Ernest_Borgnine/7byARrJfhlI_0000013 204.7 210.6 
+Ernest_Borgnine/7byARrJfhlI_0000014 222.9 229.2 
+Ernest_Borgnine/7byARrJfhlI_0000015 231.0 235.9 
+Ernest_Borgnine/7byARrJfhlI_0000016 237.6 247.6 
+Ernest_Borgnine/7byARrJfhlI_0000017 253.1 263.1 
+Ernest_Borgnine/7byARrJfhlI_0000018 272.0 277.7 
+Ernest_Borgnine/7byARrJfhlI_0000019 283.6 288.0 
+Ernest_Borgnine/7byARrJfhlI_0000020 289.1 317.4 
+Ernest_Borgnine/7byARrJfhlI_0000021 322.3 329.5 

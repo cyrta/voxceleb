@@ -1,0 +1,7 @@
+POI: 			Regina_Hall 
+Youtube ID: 	OJIfvnH1ymk 
+Video length: 	87.6 sec 
+Set (V): 		dev 
+ 
+Regina_Hall/OJIfvnH1ymk_0000001 22.2 27.3 
+Regina_Hall/OJIfvnH1ymk_0000002 37.8 45.7 

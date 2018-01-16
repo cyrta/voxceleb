@@ -1,0 +1,12 @@
+POI: 			Jack_Whitehall 
+Youtube ID: 	Cl3h2haoyEs 
+Video length: 	196.5 sec 
+Set (V): 		dev 
+ 
+Jack_Whitehall/Cl3h2haoyEs_0000001 37.7 44.2 
+Jack_Whitehall/Cl3h2haoyEs_0000002 61.1 66.5 
+Jack_Whitehall/Cl3h2haoyEs_0000003 83.4 95.9 
+Jack_Whitehall/Cl3h2haoyEs_0000004 100.0 107.0 
+Jack_Whitehall/Cl3h2haoyEs_0000005 120.9 132.8 
+Jack_Whitehall/Cl3h2haoyEs_0000006 133.9 143.3 
+Jack_Whitehall/Cl3h2haoyEs_0000007 158.4 168.5 

@@ -1,0 +1,16 @@
+POI: 			David_Tennant 
+Youtube ID: 	HGD9R_TaPMc 
+Video length: 	579.8 sec 
+Set (V): 		dev 
+ 
+David_Tennant/HGD9R_TaPMc_0000001 164.2 168.6 
+David_Tennant/HGD9R_TaPMc_0000002 177.4 193.7 
+David_Tennant/HGD9R_TaPMc_0000003 217.6 221.9 
+David_Tennant/HGD9R_TaPMc_0000004 277.0 282.0 
+David_Tennant/HGD9R_TaPMc_0000005 318.6 327.5 
+David_Tennant/HGD9R_TaPMc_0000006 369.5 374.3 
+David_Tennant/HGD9R_TaPMc_0000007 422.6 427.5 
+David_Tennant/HGD9R_TaPMc_0000008 436.5 444.8 
+David_Tennant/HGD9R_TaPMc_0000009 449.4 455.4 
+David_Tennant/HGD9R_TaPMc_0000010 478.1 482.0 
+David_Tennant/HGD9R_TaPMc_0000011 526.0 531.1 

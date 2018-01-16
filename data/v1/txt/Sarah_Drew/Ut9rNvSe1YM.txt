@@ -1,0 +1,9 @@
+POI: 			Sarah_Drew 
+Youtube ID: 	Ut9rNvSe1YM 
+Video length: 	96.2 sec 
+Set (V): 		dev 
+ 
+Sarah_Drew/Ut9rNvSe1YM_0000001 20.0 28.8 
+Sarah_Drew/Ut9rNvSe1YM_0000002 29.3 43.0 
+Sarah_Drew/Ut9rNvSe1YM_0000003 45.9 61.4 
+Sarah_Drew/Ut9rNvSe1YM_0000004 63.8 79.5 

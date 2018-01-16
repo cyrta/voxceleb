@@ -1,0 +1,7 @@
+POI: 			Sheridan_Smith 
+Youtube ID: 	2drmze5ZE_s 
+Video length: 	932.4 sec 
+Set (V): 		dev 
+ 
+Sheridan_Smith/2drmze5ZE_s_0000001 567.8 571.7 
+Sheridan_Smith/2drmze5ZE_s_0000002 623.4 629.4 

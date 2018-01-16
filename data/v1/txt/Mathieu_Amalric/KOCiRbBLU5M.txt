@@ -1,0 +1,7 @@
+POI: 			Mathieu_Amalric 
+Youtube ID: 	KOCiRbBLU5M 
+Video length: 	622.3 sec 
+Set (V): 		dev 
+ 
+Mathieu_Amalric/KOCiRbBLU5M_0000001 20.1 24.7 
+Mathieu_Amalric/KOCiRbBLU5M_0000002 420.3 425.4 

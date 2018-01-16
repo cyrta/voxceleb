@@ -1,0 +1,7 @@
+POI: 			Victoria_Justice 
+Youtube ID: 	8ihHIHRmhZM 
+Video length: 	142.0 sec 
+Set (V): 		dev 
+ 
+Victoria_Justice/8ihHIHRmhZM_0000001 81.7 88.5 
+Victoria_Justice/8ihHIHRmhZM_0000002 96.0 103.1 

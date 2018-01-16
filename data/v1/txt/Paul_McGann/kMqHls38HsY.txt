@@ -1,0 +1,9 @@
+POI: 			Paul_McGann 
+Youtube ID: 	kMqHls38HsY 
+Video length: 	142.0 sec 
+Set (V): 		dev 
+ 
+Paul_McGann/kMqHls38HsY_0000001 70.6 75.6 
+Paul_McGann/kMqHls38HsY_0000002 80.3 84.6 
+Paul_McGann/kMqHls38HsY_0000003 91.4 96.2 
+Paul_McGann/kMqHls38HsY_0000004 124.5 130.8 

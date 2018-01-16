@@ -1,0 +1,8 @@
+POI: 			Brett_Davern 
+Youtube ID: 	WXu5vaO0lQM 
+Video length: 	357.8 sec 
+Set (V): 		dev 
+ 
+Brett_Davern/WXu5vaO0lQM_0000001 244.7 249.3 
+Brett_Davern/WXu5vaO0lQM_0000002 311.1 319.6 
+Brett_Davern/WXu5vaO0lQM_0000003 330.0 334.2 

@@ -1,0 +1,23 @@
+POI: 			Jana_Kramer 
+Youtube ID: 	at-3FO1kIC4 
+Video length: 	408.6 sec 
+Set (V): 		dev 
+ 
+Jana_Kramer/at-3FO1kIC4_0000001 13.2 18.2 
+Jana_Kramer/at-3FO1kIC4_0000002 23.8 36.1 
+Jana_Kramer/at-3FO1kIC4_0000003 39.6 45.1 
+Jana_Kramer/at-3FO1kIC4_0000004 57.2 63.5 
+Jana_Kramer/at-3FO1kIC4_0000005 68.6 72.7 
+Jana_Kramer/at-3FO1kIC4_0000006 101.7 106.2 
+Jana_Kramer/at-3FO1kIC4_0000007 123.7 129.5 
+Jana_Kramer/at-3FO1kIC4_0000008 130.2 136.2 
+Jana_Kramer/at-3FO1kIC4_0000009 221.8 227.9 
+Jana_Kramer/at-3FO1kIC4_0000010 240.8 245.0 
+Jana_Kramer/at-3FO1kIC4_0000011 252.5 256.7 
+Jana_Kramer/at-3FO1kIC4_0000012 261.8 273.0 
+Jana_Kramer/at-3FO1kIC4_0000013 302.5 308.8 
+Jana_Kramer/at-3FO1kIC4_0000014 325.4 329.6 
+Jana_Kramer/at-3FO1kIC4_0000015 346.5 355.6 
+Jana_Kramer/at-3FO1kIC4_0000016 365.8 379.4 
+Jana_Kramer/at-3FO1kIC4_0000017 389.0 393.1 
+Jana_Kramer/at-3FO1kIC4_0000018 394.8 404.5 

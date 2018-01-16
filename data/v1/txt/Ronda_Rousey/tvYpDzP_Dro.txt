@@ -1,0 +1,19 @@
+POI: 			Ronda_Rousey 
+Youtube ID: 	tvYpDzP_Dro 
+Video length: 	364.3 sec 
+Set (V): 		dev 
+ 
+Ronda_Rousey/tvYpDzP_Dro_0000001 58.2 62.4 
+Ronda_Rousey/tvYpDzP_Dro_0000002 63.6 71.1 
+Ronda_Rousey/tvYpDzP_Dro_0000003 97.2 103.5 
+Ronda_Rousey/tvYpDzP_Dro_0000004 103.7 109.4 
+Ronda_Rousey/tvYpDzP_Dro_0000005 109.8 117.9 
+Ronda_Rousey/tvYpDzP_Dro_0000006 122.7 129.6 
+Ronda_Rousey/tvYpDzP_Dro_0000007 130.0 138.2 
+Ronda_Rousey/tvYpDzP_Dro_0000008 183.1 188.9 
+Ronda_Rousey/tvYpDzP_Dro_0000009 204.2 211.5 
+Ronda_Rousey/tvYpDzP_Dro_0000010 213.7 221.8 
+Ronda_Rousey/tvYpDzP_Dro_0000011 224.8 230.0 
+Ronda_Rousey/tvYpDzP_Dro_0000012 241.2 254.7 
+Ronda_Rousey/tvYpDzP_Dro_0000013 290.6 295.0 
+Ronda_Rousey/tvYpDzP_Dro_0000014 307.2 312.1 

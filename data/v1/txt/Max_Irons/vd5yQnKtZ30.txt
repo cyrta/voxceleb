@@ -1,0 +1,14 @@
+POI: 			Max_Irons 
+Youtube ID: 	vd5yQnKtZ30 
+Video length: 	216.2 sec 
+Set (V): 		dev 
+ 
+Max_Irons/vd5yQnKtZ30_0000001 19.8 26.5 
+Max_Irons/vd5yQnKtZ30_0000002 60.0 65.2 
+Max_Irons/vd5yQnKtZ30_0000003 66.1 71.8 
+Max_Irons/vd5yQnKtZ30_0000004 93.3 99.4 
+Max_Irons/vd5yQnKtZ30_0000005 100.8 107.1 
+Max_Irons/vd5yQnKtZ30_0000006 112.4 117.2 
+Max_Irons/vd5yQnKtZ30_0000007 134.1 149.2 
+Max_Irons/vd5yQnKtZ30_0000008 151.0 155.3 
+Max_Irons/vd5yQnKtZ30_0000009 185.2 189.8 

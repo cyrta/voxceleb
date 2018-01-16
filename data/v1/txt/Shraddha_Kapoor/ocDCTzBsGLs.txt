@@ -1,0 +1,11 @@
+POI: 			Shraddha_Kapoor 
+Youtube ID: 	ocDCTzBsGLs 
+Video length: 	1001.9 sec 
+Set (V): 		dev 
+ 
+Shraddha_Kapoor/ocDCTzBsGLs_0000001 65.1 72.2 
+Shraddha_Kapoor/ocDCTzBsGLs_0000002 80.0 87.5 
+Shraddha_Kapoor/ocDCTzBsGLs_0000003 214.9 219.1 
+Shraddha_Kapoor/ocDCTzBsGLs_0000004 642.0 647.4 
+Shraddha_Kapoor/ocDCTzBsGLs_0000005 808.8 812.9 
+Shraddha_Kapoor/ocDCTzBsGLs_0000006 873.8 880.3 

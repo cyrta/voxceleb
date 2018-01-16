@@ -1,0 +1,11 @@
+POI: 			Lisa_Whelchel 
+Youtube ID: 	uPlqem-F740 
+Video length: 	309.4 sec 
+Set (V): 		dev 
+ 
+Lisa_Whelchel/uPlqem-F740_0000001 103.1 108.9 
+Lisa_Whelchel/uPlqem-F740_0000002 131.4 138.3 
+Lisa_Whelchel/uPlqem-F740_0000003 227.0 231.7 
+Lisa_Whelchel/uPlqem-F740_0000004 236.5 243.6 
+Lisa_Whelchel/uPlqem-F740_0000005 258.5 267.2 
+Lisa_Whelchel/uPlqem-F740_0000006 279.8 284.4 

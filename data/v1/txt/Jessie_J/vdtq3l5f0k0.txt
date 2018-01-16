@@ -1,0 +1,26 @@
+POI: 			Jessie_J 
+Youtube ID: 	vdtq3l5f0k0 
+Video length: 	682.6 sec 
+Set (V): 		dev 
+ 
+Jessie_J/vdtq3l5f0k0_0000001 18.2 26.5 
+Jessie_J/vdtq3l5f0k0_0000002 35.5 45.2 
+Jessie_J/vdtq3l5f0k0_0000003 47.2 59.8 
+Jessie_J/vdtq3l5f0k0_0000004 73.2 85.2 
+Jessie_J/vdtq3l5f0k0_0000005 85.6 91.3 
+Jessie_J/vdtq3l5f0k0_0000006 97.3 112.6 
+Jessie_J/vdtq3l5f0k0_0000007 211.7 217.3 
+Jessie_J/vdtq3l5f0k0_0000008 279.1 284.0 
+Jessie_J/vdtq3l5f0k0_0000009 284.7 289.5 
+Jessie_J/vdtq3l5f0k0_0000010 300.7 305.5 
+Jessie_J/vdtq3l5f0k0_0000011 297.1 303.0 
+Jessie_J/vdtq3l5f0k0_0000012 362.1 371.4 
+Jessie_J/vdtq3l5f0k0_0000013 372.6 377.7 
+Jessie_J/vdtq3l5f0k0_0000014 379.6 384.8 
+Jessie_J/vdtq3l5f0k0_0000015 389.0 393.2 
+Jessie_J/vdtq3l5f0k0_0000016 402.6 414.9 
+Jessie_J/vdtq3l5f0k0_0000017 423.4 429.1 
+Jessie_J/vdtq3l5f0k0_0000018 433.5 441.3 
+Jessie_J/vdtq3l5f0k0_0000019 445.1 450.2 
+Jessie_J/vdtq3l5f0k0_0000020 625.0 630.3 
+Jessie_J/vdtq3l5f0k0_0000021 673.2 677.9 

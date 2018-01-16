@@ -1,0 +1,12 @@
+POI: 			Bruno_Ganz 
+Youtube ID: 	5G2weYmtz88 
+Video length: 	371.5 sec 
+Set (V): 		dev 
+ 
+Bruno_Ganz/5G2weYmtz88_0000001 109.4 113.4 
+Bruno_Ganz/5G2weYmtz88_0000002 154.5 159.2 
+Bruno_Ganz/5G2weYmtz88_0000003 174.0 178.4 
+Bruno_Ganz/5G2weYmtz88_0000004 218.9 224.5 
+Bruno_Ganz/5G2weYmtz88_0000005 308.7 313.0 
+Bruno_Ganz/5G2weYmtz88_0000006 343.0 348.0 
+Bruno_Ganz/5G2weYmtz88_0000007 365.6 369.8 

@@ -1,0 +1,9 @@
+POI: 			Aldis_Hodge 
+Youtube ID: 	UKQ_6-OyPnw 
+Video length: 	291.5 sec 
+Set (V): 		dev 
+ 
+Aldis_Hodge/UKQ_6-OyPnw_0000001 27.4 32.0 
+Aldis_Hodge/UKQ_6-OyPnw_0000002 192.9 197.8 
+Aldis_Hodge/UKQ_6-OyPnw_0000003 201.1 209.8 
+Aldis_Hodge/UKQ_6-OyPnw_0000004 251.9 256.0 

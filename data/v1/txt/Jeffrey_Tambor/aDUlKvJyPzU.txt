@@ -1,0 +1,9 @@
+POI: 			Jeffrey_Tambor 
+Youtube ID: 	aDUlKvJyPzU 
+Video length: 	76.4 sec 
+Set (V): 		dev 
+ 
+Jeffrey_Tambor/aDUlKvJyPzU_0000001 33.4 40.4 
+Jeffrey_Tambor/aDUlKvJyPzU_0000002 51.9 56.4 
+Jeffrey_Tambor/aDUlKvJyPzU_0000003 66.5 74.8 
+Jeffrey_Tambor/aDUlKvJyPzU_0000004 59.4 65.8 

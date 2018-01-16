@@ -1,0 +1,18 @@
+POI: 			David_Giuntoli 
+Youtube ID: 	y9qi9HFSsjg 
+Video length: 	195.6 sec 
+Set (V): 		dev 
+ 
+David_Giuntoli/y9qi9HFSsjg_0000001 17.9 22.7 
+David_Giuntoli/y9qi9HFSsjg_0000002 23.6 31.9 
+David_Giuntoli/y9qi9HFSsjg_0000003 32.8 36.8 
+David_Giuntoli/y9qi9HFSsjg_0000004 37.4 46.0 
+David_Giuntoli/y9qi9HFSsjg_0000005 49.4 54.1 
+David_Giuntoli/y9qi9HFSsjg_0000006 68.6 73.0 
+David_Giuntoli/y9qi9HFSsjg_0000007 74.5 83.4 
+David_Giuntoli/y9qi9HFSsjg_0000008 83.6 90.3 
+David_Giuntoli/y9qi9HFSsjg_0000009 95.6 100.0 
+David_Giuntoli/y9qi9HFSsjg_0000010 105.9 110.8 
+David_Giuntoli/y9qi9HFSsjg_0000011 120.3 134.2 
+David_Giuntoli/y9qi9HFSsjg_0000012 154.2 159.0 
+David_Giuntoli/y9qi9HFSsjg_0000013 181.0 187.1 

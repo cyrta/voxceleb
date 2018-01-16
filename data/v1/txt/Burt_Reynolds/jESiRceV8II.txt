@@ -1,0 +1,10 @@
+POI: 			Burt_Reynolds 
+Youtube ID: 	jESiRceV8II 
+Video length: 	674.2 sec 
+Set (V): 		dev 
+ 
+Burt_Reynolds/jESiRceV8II_0000001 134.4 142.9 
+Burt_Reynolds/jESiRceV8II_0000002 517.0 521.2 
+Burt_Reynolds/jESiRceV8II_0000003 565.2 573.2 
+Burt_Reynolds/jESiRceV8II_0000004 635.2 639.4 
+Burt_Reynolds/jESiRceV8II_0000005 662.4 666.4 

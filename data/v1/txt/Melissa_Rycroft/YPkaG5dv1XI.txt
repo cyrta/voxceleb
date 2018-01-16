@@ -1,0 +1,14 @@
+POI: 			Melissa_Rycroft 
+Youtube ID: 	YPkaG5dv1XI 
+Video length: 	296.1 sec 
+Set (V): 		dev 
+ 
+Melissa_Rycroft/YPkaG5dv1XI_0000001 62.1 66.4 
+Melissa_Rycroft/YPkaG5dv1XI_0000002 67.2 73.9 
+Melissa_Rycroft/YPkaG5dv1XI_0000003 102.1 113.1 
+Melissa_Rycroft/YPkaG5dv1XI_0000004 113.2 121.5 
+Melissa_Rycroft/YPkaG5dv1XI_0000005 125.2 129.2 
+Melissa_Rycroft/YPkaG5dv1XI_0000006 179.5 190.8 
+Melissa_Rycroft/YPkaG5dv1XI_0000007 264.6 269.9 
+Melissa_Rycroft/YPkaG5dv1XI_0000008 271.4 275.4 
+Melissa_Rycroft/YPkaG5dv1XI_0000009 281.4 285.7 

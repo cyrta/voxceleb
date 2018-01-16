@@ -1,0 +1,8 @@
+POI: 			Michael_C._Hall 
+Youtube ID: 	GTgabf1VZLE 
+Video length: 	214.0 sec 
+Set (V): 		dev 
+ 
+Michael_C._Hall/GTgabf1VZLE_0000001 85.0 93.0 
+Michael_C._Hall/GTgabf1VZLE_0000002 152.8 158.6 
+Michael_C._Hall/GTgabf1VZLE_0000003 185.0 197.6 

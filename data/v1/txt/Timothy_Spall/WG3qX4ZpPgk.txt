@@ -1,0 +1,11 @@
+POI: 			Timothy_Spall 
+Youtube ID: 	WG3qX4ZpPgk 
+Video length: 	243.7 sec 
+Set (V): 		dev 
+ 
+Timothy_Spall/WG3qX4ZpPgk_0000001 31.1 35.8 
+Timothy_Spall/WG3qX4ZpPgk_0000002 113.4 117.8 
+Timothy_Spall/WG3qX4ZpPgk_0000003 138.5 143.7 
+Timothy_Spall/WG3qX4ZpPgk_0000004 144.9 155.2 
+Timothy_Spall/WG3qX4ZpPgk_0000005 190.4 195.1 
+Timothy_Spall/WG3qX4ZpPgk_0000006 197.5 207.2 

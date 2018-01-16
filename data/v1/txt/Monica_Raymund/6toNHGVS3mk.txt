@@ -1,0 +1,13 @@
+POI: 			Monica_Raymund 
+Youtube ID: 	6toNHGVS3mk 
+Video length: 	115.4 sec 
+Set (V): 		dev 
+ 
+Monica_Raymund/6toNHGVS3mk_0000001 04.1 11.2 
+Monica_Raymund/6toNHGVS3mk_0000002 14.5 23.4 
+Monica_Raymund/6toNHGVS3mk_0000003 25.0 32.7 
+Monica_Raymund/6toNHGVS3mk_0000004 45.1 49.2 
+Monica_Raymund/6toNHGVS3mk_0000005 64.0 70.4 
+Monica_Raymund/6toNHGVS3mk_0000006 73.5 79.4 
+Monica_Raymund/6toNHGVS3mk_0000007 79.5 89.7 
+Monica_Raymund/6toNHGVS3mk_0000008 97.4 110.7 

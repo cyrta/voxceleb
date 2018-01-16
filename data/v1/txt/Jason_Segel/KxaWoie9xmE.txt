@@ -1,0 +1,8 @@
+POI: 			Jason_Segel 
+Youtube ID: 	KxaWoie9xmE 
+Video length: 	255.7 sec 
+Set (V): 		dev 
+ 
+Jason_Segel/KxaWoie9xmE_0000001 118.8 126.2 
+Jason_Segel/KxaWoie9xmE_0000002 205.1 211.3 
+Jason_Segel/KxaWoie9xmE_0000003 211.5 215.7 

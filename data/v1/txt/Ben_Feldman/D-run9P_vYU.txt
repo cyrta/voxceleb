@@ -1,0 +1,10 @@
+POI: 			Ben_Feldman 
+Youtube ID: 	D-run9P_vYU 
+Video length: 	97.6 sec 
+Set (V): 		dev 
+ 
+Ben_Feldman/D-run9P_vYU_0000001 11.8 22.6 
+Ben_Feldman/D-run9P_vYU_0000002 24.5 43.4 
+Ben_Feldman/D-run9P_vYU_0000003 58.3 62.9 
+Ben_Feldman/D-run9P_vYU_0000004 65.6 75.7 
+Ben_Feldman/D-run9P_vYU_0000005 78.0 83.4 

@@ -1,0 +1,8 @@
+POI: 			Michael_Cudlitz 
+Youtube ID: 	OZPyJO2kX1U 
+Video length: 	317.4 sec 
+Set (V): 		dev 
+ 
+Michael_Cudlitz/OZPyJO2kX1U_0000001 77.1 82.9 
+Michael_Cudlitz/OZPyJO2kX1U_0000002 96.0 101.1 
+Michael_Cudlitz/OZPyJO2kX1U_0000003 180.4 185.3 

@@ -1,0 +1,9 @@
+POI: 			Idina_Menzel 
+Youtube ID: 	H1byd5ph-S4 
+Video length: 	293.5 sec 
+Set (V): 		dev 
+ 
+Idina_Menzel/H1byd5ph-S4_0000001 76.8 87.8 
+Idina_Menzel/H1byd5ph-S4_0000002 225.9 232.0 
+Idina_Menzel/H1byd5ph-S4_0000003 254.4 260.2 
+Idina_Menzel/H1byd5ph-S4_0000004 277.4 281.6 

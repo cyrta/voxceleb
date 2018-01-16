@@ -1,0 +1,9 @@
+POI: 			Sean_Bean 
+Youtube ID: 	GS8btudTU9c 
+Video length: 	288.4 sec 
+Set (V): 		dev 
+ 
+Sean_Bean/GS8btudTU9c_0000001 55.8 68.9 
+Sean_Bean/GS8btudTU9c_0000002 120.2 126.2 
+Sean_Bean/GS8btudTU9c_0000003 128.0 134.2 
+Sean_Bean/GS8btudTU9c_0000004 146.0 151.8 

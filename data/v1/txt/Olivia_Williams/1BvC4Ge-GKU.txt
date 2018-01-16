@@ -1,0 +1,7 @@
+POI: 			Olivia_Williams 
+Youtube ID: 	1BvC4Ge-GKU 
+Video length: 	124.3 sec 
+Set (V): 		dev 
+ 
+Olivia_Williams/1BvC4Ge-GKU_0000001 45.5 55.5 
+Olivia_Williams/1BvC4Ge-GKU_0000002 56.1 65.6 

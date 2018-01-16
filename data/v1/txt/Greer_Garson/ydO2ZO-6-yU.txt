@@ -1,0 +1,24 @@
+POI: 			Greer_Garson 
+Youtube ID: 	ydO2ZO-6-yU 
+Video length: 	608.2 sec 
+Set (V): 		dev 
+ 
+Greer_Garson/ydO2ZO-6-yU_0000001 118.2 130.6 
+Greer_Garson/ydO2ZO-6-yU_0000002 140.2 144.4 
+Greer_Garson/ydO2ZO-6-yU_0000003 160.2 180.2 
+Greer_Garson/ydO2ZO-6-yU_0000004 190.5 197.6 
+Greer_Garson/ydO2ZO-6-yU_0000005 204.0 213.8 
+Greer_Garson/ydO2ZO-6-yU_0000006 220.4 236.5 
+Greer_Garson/ydO2ZO-6-yU_0000007 241.1 245.9 
+Greer_Garson/ydO2ZO-6-yU_0000008 276.4 283.7 
+Greer_Garson/ydO2ZO-6-yU_0000009 371.7 393.0 
+Greer_Garson/ydO2ZO-6-yU_0000010 403.8 417.0 
+Greer_Garson/ydO2ZO-6-yU_0000011 431.6 448.4 
+Greer_Garson/ydO2ZO-6-yU_0000012 450.6 466.0 
+Greer_Garson/ydO2ZO-6-yU_0000013 472.6 517.2 
+Greer_Garson/ydO2ZO-6-yU_0000014 532.1 538.8 
+Greer_Garson/ydO2ZO-6-yU_0000015 541.8 546.8 
+Greer_Garson/ydO2ZO-6-yU_0000016 552.8 575.2 
+Greer_Garson/ydO2ZO-6-yU_0000017 577.5 582.6 
+Greer_Garson/ydO2ZO-6-yU_0000018 584.8 589.0 
+Greer_Garson/ydO2ZO-6-yU_0000019 589.4 604.8 

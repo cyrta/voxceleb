@@ -1,0 +1,9 @@
+POI: 			Alice_Eve 
+Youtube ID: 	CzoVmf9MMeE 
+Video length: 	328.2 sec 
+Set (V): 		dev 
+ 
+Alice_Eve/CzoVmf9MMeE_0000001 64.6 71.8 
+Alice_Eve/CzoVmf9MMeE_0000002 174.5 181.0 
+Alice_Eve/CzoVmf9MMeE_0000003 194.8 200.4 
+Alice_Eve/CzoVmf9MMeE_0000004 205.1 215.2 

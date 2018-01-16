@@ -1,0 +1,9 @@
+POI: 			Rita_Ora 
+Youtube ID: 	rE3My96atgs 
+Video length: 	373.8 sec 
+Set (V): 		dev 
+ 
+Rita_Ora/rE3My96atgs_0000001 47.2 51.2 
+Rita_Ora/rE3My96atgs_0000002 224.4 228.9 
+Rita_Ora/rE3My96atgs_0000003 332.4 337.0 
+Rita_Ora/rE3My96atgs_0000004 344.0 348.6 

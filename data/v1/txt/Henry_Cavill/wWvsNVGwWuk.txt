@@ -1,0 +1,9 @@
+POI: 			Henry_Cavill 
+Youtube ID: 	wWvsNVGwWuk 
+Video length: 	216.8 sec 
+Set (V): 		dev 
+ 
+Henry_Cavill/wWvsNVGwWuk_0000001 58.5 65.7 
+Henry_Cavill/wWvsNVGwWuk_0000002 88.0 96.7 
+Henry_Cavill/wWvsNVGwWuk_0000003 111.0 115.3 
+Henry_Cavill/wWvsNVGwWuk_0000004 121.7 129.1 

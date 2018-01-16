@@ -1,0 +1,8 @@
+POI: 			Walton_Goggins 
+Youtube ID: 	UrVHiv8U_JI 
+Video length: 	97.0 sec 
+Set (V): 		dev 
+ 
+Walton_Goggins/UrVHiv8U_JI_0000001 72.0 79.5 
+Walton_Goggins/UrVHiv8U_JI_0000002 80.0 84.4 
+Walton_Goggins/UrVHiv8U_JI_0000003 85.4 91.3 

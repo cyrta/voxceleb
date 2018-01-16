@@ -1,0 +1,16 @@
+POI: 			Gregg_Sulkin 
+Youtube ID: 	np90tQygIJg 
+Video length: 	380.4 sec 
+Set (V): 		dev 
+ 
+Gregg_Sulkin/np90tQygIJg_0000001 73.1 79.0 
+Gregg_Sulkin/np90tQygIJg_0000002 89.0 100.6 
+Gregg_Sulkin/np90tQygIJg_0000003 106.1 113.8 
+Gregg_Sulkin/np90tQygIJg_0000004 138.4 145.0 
+Gregg_Sulkin/np90tQygIJg_0000005 205.2 209.8 
+Gregg_Sulkin/np90tQygIJg_0000006 218.4 224.2 
+Gregg_Sulkin/np90tQygIJg_0000007 257.8 263.1 
+Gregg_Sulkin/np90tQygIJg_0000008 269.8 274.4 
+Gregg_Sulkin/np90tQygIJg_0000009 305.7 310.3 
+Gregg_Sulkin/np90tQygIJg_0000010 348.6 353.5 
+Gregg_Sulkin/np90tQygIJg_0000011 364.6 368.6 

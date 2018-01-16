@@ -1,0 +1,8 @@
+POI: 			Tom_Mison 
+Youtube ID: 	67fI5sFiits 
+Video length: 	130.4 sec 
+Set (V): 		dev 
+ 
+Tom_Mison/67fI5sFiits_0000001 20.6 27.9 
+Tom_Mison/67fI5sFiits_0000002 28.7 45.6 
+Tom_Mison/67fI5sFiits_0000003 108.6 112.7 

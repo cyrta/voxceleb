@@ -1,0 +1,10 @@
+POI: 			Lena_Horne 
+Youtube ID: 	HKLErsgF_P4 
+Video length: 	901.5 sec 
+Set (V): 		dev 
+ 
+Lena_Horne/HKLErsgF_P4_0000001 337.1 342.1 
+Lena_Horne/HKLErsgF_P4_0000002 490.0 495.4 
+Lena_Horne/HKLErsgF_P4_0000003 765.6 771.8 
+Lena_Horne/HKLErsgF_P4_0000004 772.3 778.3 
+Lena_Horne/HKLErsgF_P4_0000005 780.2 790.8 

@@ -1,0 +1,18 @@
+POI: 			Sam_Worthington 
+Youtube ID: 	gWXSOM6kU5M 
+Video length: 	186.4 sec 
+Set (V): 		dev 
+ 
+Sam_Worthington/gWXSOM6kU5M_0000001 12.6 23.6 
+Sam_Worthington/gWXSOM6kU5M_0000002 28.5 37.6 
+Sam_Worthington/gWXSOM6kU5M_0000003 38.1 42.1 
+Sam_Worthington/gWXSOM6kU5M_0000004 42.8 48.5 
+Sam_Worthington/gWXSOM6kU5M_0000005 49.6 64.5 
+Sam_Worthington/gWXSOM6kU5M_0000006 68.6 75.1 
+Sam_Worthington/gWXSOM6kU5M_0000007 77.8 82.6 
+Sam_Worthington/gWXSOM6kU5M_0000008 85.1 91.8 
+Sam_Worthington/gWXSOM6kU5M_0000009 92.4 97.4 
+Sam_Worthington/gWXSOM6kU5M_0000010 101.5 108.6 
+Sam_Worthington/gWXSOM6kU5M_0000011 108.8 115.9 
+Sam_Worthington/gWXSOM6kU5M_0000012 124.4 129.1 
+Sam_Worthington/gWXSOM6kU5M_0000013 133.4 144.5 

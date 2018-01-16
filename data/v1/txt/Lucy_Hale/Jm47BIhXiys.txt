@@ -1,0 +1,8 @@
+POI: 			Lucy_Hale 
+Youtube ID: 	Jm47BIhXiys 
+Video length: 	273.4 sec 
+Set (V): 		dev 
+ 
+Lucy_Hale/Jm47BIhXiys_0000001 100.3 104.3 
+Lucy_Hale/Jm47BIhXiys_0000002 115.6 125.0 
+Lucy_Hale/Jm47BIhXiys_0000003 228.2 232.4 

@@ -1,0 +1,15 @@
+POI: 			Fred_Williamson 
+Youtube ID: 	dg0LzcKiONg 
+Video length: 	188.7 sec 
+Set (V): 		dev 
+ 
+Fred_Williamson/dg0LzcKiONg_0000001 05.2 10.0 
+Fred_Williamson/dg0LzcKiONg_0000002 12.2 20.9 
+Fred_Williamson/dg0LzcKiONg_0000003 30.6 36.7 
+Fred_Williamson/dg0LzcKiONg_0000004 48.4 53.3 
+Fred_Williamson/dg0LzcKiONg_0000005 87.8 109.1 
+Fred_Williamson/dg0LzcKiONg_0000006 120.6 138.4 
+Fred_Williamson/dg0LzcKiONg_0000007 145.0 149.4 
+Fred_Williamson/dg0LzcKiONg_0000008 153.1 162.8 
+Fred_Williamson/dg0LzcKiONg_0000009 167.4 176.2 
+Fred_Williamson/dg0LzcKiONg_0000010 178.6 183.0 

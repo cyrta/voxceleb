@@ -1,0 +1,12 @@
+POI: 			Jay_Baruchel 
+Youtube ID: 	iz6T9UHAZLw 
+Video length: 	322.4 sec 
+Set (V): 		dev 
+ 
+Jay_Baruchel/iz6T9UHAZLw_0000001 54.8 65.0 
+Jay_Baruchel/iz6T9UHAZLw_0000002 65.1 73.3 
+Jay_Baruchel/iz6T9UHAZLw_0000003 74.2 78.3 
+Jay_Baruchel/iz6T9UHAZLw_0000004 115.6 119.7 
+Jay_Baruchel/iz6T9UHAZLw_0000005 120.7 125.5 
+Jay_Baruchel/iz6T9UHAZLw_0000006 126.9 139.4 
+Jay_Baruchel/iz6T9UHAZLw_0000007 146.2 151.8 

@@ -1,0 +1,12 @@
+POI: 			Sonam_Kapoor 
+Youtube ID: 	5oDO9Avn0qg 
+Video length: 	304.6 sec 
+Set (V): 		dev 
+ 
+Sonam_Kapoor/5oDO9Avn0qg_0000001 68.5 72.7 
+Sonam_Kapoor/5oDO9Avn0qg_0000002 163.6 171.3 
+Sonam_Kapoor/5oDO9Avn0qg_0000003 173.2 183.4 
+Sonam_Kapoor/5oDO9Avn0qg_0000004 185.8 198.2 
+Sonam_Kapoor/5oDO9Avn0qg_0000005 202.8 206.9 
+Sonam_Kapoor/5oDO9Avn0qg_0000006 209.0 214.2 
+Sonam_Kapoor/5oDO9Avn0qg_0000007 260.4 281.6 

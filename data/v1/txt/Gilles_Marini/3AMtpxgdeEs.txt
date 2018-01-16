@@ -1,0 +1,10 @@
+POI: 			Gilles_Marini 
+Youtube ID: 	3AMtpxgdeEs 
+Video length: 	524.8 sec 
+Set (V): 		dev 
+ 
+Gilles_Marini/3AMtpxgdeEs_0000001 14.8 21.5 
+Gilles_Marini/3AMtpxgdeEs_0000002 26.4 34.2 
+Gilles_Marini/3AMtpxgdeEs_0000003 51.3 55.4 
+Gilles_Marini/3AMtpxgdeEs_0000004 63.9 68.5 
+Gilles_Marini/3AMtpxgdeEs_0000005 318.6 327.6 

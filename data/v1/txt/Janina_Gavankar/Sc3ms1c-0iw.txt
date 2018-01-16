@@ -1,0 +1,10 @@
+POI: 			Janina_Gavankar 
+Youtube ID: 	Sc3ms1c-0iw 
+Video length: 	263.9 sec 
+Set (V): 		dev 
+ 
+Janina_Gavankar/Sc3ms1c-0iw_0000001 86.5 91.8 
+Janina_Gavankar/Sc3ms1c-0iw_0000002 111.6 117.5 
+Janina_Gavankar/Sc3ms1c-0iw_0000003 145.9 159.4 
+Janina_Gavankar/Sc3ms1c-0iw_0000004 169.4 177.1 
+Janina_Gavankar/Sc3ms1c-0iw_0000005 178.9 183.2 

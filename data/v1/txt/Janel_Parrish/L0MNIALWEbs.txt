@@ -1,0 +1,9 @@
+POI: 			Janel_Parrish 
+Youtube ID: 	L0MNIALWEbs 
+Video length: 	514.6 sec 
+Set (V): 		dev 
+ 
+Janel_Parrish/L0MNIALWEbs_0000001 251.2 256.6 
+Janel_Parrish/L0MNIALWEbs_0000002 259.2 264.1 
+Janel_Parrish/L0MNIALWEbs_0000003 320.7 327.2 
+Janel_Parrish/L0MNIALWEbs_0000004 329.4 333.6 

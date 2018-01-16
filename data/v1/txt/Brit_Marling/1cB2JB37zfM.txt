@@ -1,0 +1,9 @@
+POI: 			Brit_Marling 
+Youtube ID: 	1cB2JB37zfM 
+Video length: 	196.3 sec 
+Set (V): 		dev 
+ 
+Brit_Marling/1cB2JB37zfM_0000001 13.3 28.4 
+Brit_Marling/1cB2JB37zfM_0000002 41.0 45.3 
+Brit_Marling/1cB2JB37zfM_0000003 178.5 183.4 
+Brit_Marling/1cB2JB37zfM_0000004 183.6 188.9 

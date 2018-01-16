@@ -1,0 +1,9 @@
+POI: 			Johnny_Galecki 
+Youtube ID: 	vPIx1a616P4 
+Video length: 	266.1 sec 
+Set (V): 		dev 
+ 
+Johnny_Galecki/vPIx1a616P4_0000001 61.0 65.2 
+Johnny_Galecki/vPIx1a616P4_0000002 80.4 85.3 
+Johnny_Galecki/vPIx1a616P4_0000003 222.1 229.6 
+Johnny_Galecki/vPIx1a616P4_0000004 249.7 255.1 

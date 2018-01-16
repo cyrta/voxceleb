@@ -1,0 +1,10 @@
+POI: 			Paul_Giamatti 
+Youtube ID: 	ovIHChlGnTw 
+Video length: 	370.7 sec 
+Set (V): 		dev 
+ 
+Paul_Giamatti/ovIHChlGnTw_0000001 133.9 138.0 
+Paul_Giamatti/ovIHChlGnTw_0000002 138.9 144.2 
+Paul_Giamatti/ovIHChlGnTw_0000003 183.8 188.0 
+Paul_Giamatti/ovIHChlGnTw_0000004 324.2 331.0 
+Paul_Giamatti/ovIHChlGnTw_0000005 352.2 359.8 

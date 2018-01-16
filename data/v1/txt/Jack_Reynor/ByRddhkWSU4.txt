@@ -1,0 +1,9 @@
+POI: 			Jack_Reynor 
+Youtube ID: 	ByRddhkWSU4 
+Video length: 	761.5 sec 
+Set (V): 		dev 
+ 
+Jack_Reynor/ByRddhkWSU4_0000001 254.7 259.0 
+Jack_Reynor/ByRddhkWSU4_0000002 271.0 276.0 
+Jack_Reynor/ByRddhkWSU4_0000003 600.4 605.0 
+Jack_Reynor/ByRddhkWSU4_0000004 631.3 638.8 

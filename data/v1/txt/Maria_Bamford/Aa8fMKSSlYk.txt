@@ -1,0 +1,11 @@
+POI: 			Maria_Bamford 
+Youtube ID: 	Aa8fMKSSlYk 
+Video length: 	561.9 sec 
+Set (V): 		dev 
+ 
+Maria_Bamford/Aa8fMKSSlYk_0000001 233.9 240.0 
+Maria_Bamford/Aa8fMKSSlYk_0000002 290.9 299.0 
+Maria_Bamford/Aa8fMKSSlYk_0000003 340.8 352.6 
+Maria_Bamford/Aa8fMKSSlYk_0000004 383.9 389.1 
+Maria_Bamford/Aa8fMKSSlYk_0000005 504.0 510.2 
+Maria_Bamford/Aa8fMKSSlYk_0000006 538.4 544.1 

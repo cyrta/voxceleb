@@ -1,0 +1,8 @@
+POI: 			Miranda_Cosgrove 
+Youtube ID: 	4DzSxPn5M2k 
+Video length: 	187.3 sec 
+Set (V): 		dev 
+ 
+Miranda_Cosgrove/4DzSxPn5M2k_0000001 73.0 78.6 
+Miranda_Cosgrove/4DzSxPn5M2k_0000002 111.7 116.6 
+Miranda_Cosgrove/4DzSxPn5M2k_0000003 125.8 132.3 

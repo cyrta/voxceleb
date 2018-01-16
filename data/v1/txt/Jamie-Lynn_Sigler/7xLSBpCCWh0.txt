@@ -1,0 +1,10 @@
+POI: 			Jamie-Lynn_Sigler 
+Youtube ID: 	7xLSBpCCWh0 
+Video length: 	181.3 sec 
+Set (V): 		dev 
+ 
+Jamie-Lynn_Sigler/7xLSBpCCWh0_0000001 59.8 64.0 
+Jamie-Lynn_Sigler/7xLSBpCCWh0_0000002 108.7 114.8 
+Jamie-Lynn_Sigler/7xLSBpCCWh0_0000003 137.6 148.2 
+Jamie-Lynn_Sigler/7xLSBpCCWh0_0000004 155.7 161.7 
+Jamie-Lynn_Sigler/7xLSBpCCWh0_0000005 164.2 168.8 

@@ -1,0 +1,8 @@
+POI: 			Riz_Ahmed 
+Youtube ID: 	k1RM2xSI3iU 
+Video length: 	90.3 sec 
+Set (V): 		dev 
+ 
+Riz_Ahmed/k1RM2xSI3iU_0000001 16.8 30.2 
+Riz_Ahmed/k1RM2xSI3iU_0000002 35.0 39.5 
+Riz_Ahmed/k1RM2xSI3iU_0000003 44.5 63.4 

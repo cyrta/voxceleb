@@ -1,0 +1,7 @@
+POI: 			Steve_Martin 
+Youtube ID: 	gNh6JO5FnkQ 
+Video length: 	571.0 sec 
+Set (V): 		dev 
+ 
+Steve_Martin/gNh6JO5FnkQ_0000001 177.6 181.7 
+Steve_Martin/gNh6JO5FnkQ_0000002 382.3 387.5 

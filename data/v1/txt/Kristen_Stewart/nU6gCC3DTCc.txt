@@ -1,0 +1,11 @@
+POI: 			Kristen_Stewart 
+Youtube ID: 	nU6gCC3DTCc 
+Video length: 	304.1 sec 
+Set (V): 		dev 
+ 
+Kristen_Stewart/nU6gCC3DTCc_0000001 70.2 77.2 
+Kristen_Stewart/nU6gCC3DTCc_0000002 82.1 86.9 
+Kristen_Stewart/nU6gCC3DTCc_0000003 122.3 127.2 
+Kristen_Stewart/nU6gCC3DTCc_0000004 130.4 137.8 
+Kristen_Stewart/nU6gCC3DTCc_0000005 193.7 199.6 
+Kristen_Stewart/nU6gCC3DTCc_0000006 257.0 263.7 

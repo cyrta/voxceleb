@@ -1,0 +1,16 @@
+POI: 			Miranda_Lambert 
+Youtube ID: 	8Z976TXlMaw 
+Video length: 	371.2 sec 
+Set (V): 		dev 
+ 
+Miranda_Lambert/8Z976TXlMaw_0000001 45.5 52.4 
+Miranda_Lambert/8Z976TXlMaw_0000002 73.9 81.0 
+Miranda_Lambert/8Z976TXlMaw_0000003 81.7 88.8 
+Miranda_Lambert/8Z976TXlMaw_0000004 103.8 109.6 
+Miranda_Lambert/8Z976TXlMaw_0000005 140.2 151.0 
+Miranda_Lambert/8Z976TXlMaw_0000006 177.2 187.6 
+Miranda_Lambert/8Z976TXlMaw_0000007 220.7 232.4 
+Miranda_Lambert/8Z976TXlMaw_0000008 233.2 238.9 
+Miranda_Lambert/8Z976TXlMaw_0000009 258.2 283.3 
+Miranda_Lambert/8Z976TXlMaw_0000010 293.6 309.6 
+Miranda_Lambert/8Z976TXlMaw_0000011 334.8 354.9 

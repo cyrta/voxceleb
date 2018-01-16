@@ -1,0 +1,8 @@
+POI: 			Andrew_Rannells 
+Youtube ID: 	G231vixGqW0 
+Video length: 	175.9 sec 
+Set (V): 		dev 
+ 
+Andrew_Rannells/G231vixGqW0_0000001 15.4 20.8 
+Andrew_Rannells/G231vixGqW0_0000002 62.2 77.9 
+Andrew_Rannells/G231vixGqW0_0000003 82.0 94.7 

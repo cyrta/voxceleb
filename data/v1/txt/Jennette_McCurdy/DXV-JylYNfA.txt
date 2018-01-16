@@ -1,0 +1,17 @@
+POI: 			Jennette_McCurdy 
+Youtube ID: 	DXV-JylYNfA 
+Video length: 	484.4 sec 
+Set (V): 		dev 
+ 
+Jennette_McCurdy/DXV-JylYNfA_0000001 14.7 25.5 
+Jennette_McCurdy/DXV-JylYNfA_0000002 26.4 37.6 
+Jennette_McCurdy/DXV-JylYNfA_0000003 49.3 62.8 
+Jennette_McCurdy/DXV-JylYNfA_0000004 64.0 72.6 
+Jennette_McCurdy/DXV-JylYNfA_0000005 72.6 82.8 
+Jennette_McCurdy/DXV-JylYNfA_0000006 127.9 141.0 
+Jennette_McCurdy/DXV-JylYNfA_0000007 174.5 205.3 
+Jennette_McCurdy/DXV-JylYNfA_0000008 222.4 229.8 
+Jennette_McCurdy/DXV-JylYNfA_0000009 265.0 277.5 
+Jennette_McCurdy/DXV-JylYNfA_0000010 278.2 307.6 
+Jennette_McCurdy/DXV-JylYNfA_0000011 342.4 354.9 
+Jennette_McCurdy/DXV-JylYNfA_0000012 431.6 444.2 

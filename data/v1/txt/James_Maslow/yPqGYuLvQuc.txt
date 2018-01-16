@@ -1,0 +1,10 @@
+POI: 			James_Maslow 
+Youtube ID: 	yPqGYuLvQuc 
+Video length: 	278.1 sec 
+Set (V): 		dev 
+ 
+James_Maslow/yPqGYuLvQuc_0000001 83.6 93.1 
+James_Maslow/yPqGYuLvQuc_0000002 136.6 140.6 
+James_Maslow/yPqGYuLvQuc_0000003 179.8 183.8 
+James_Maslow/yPqGYuLvQuc_0000004 212.0 217.6 
+James_Maslow/yPqGYuLvQuc_0000005 229.3 236.5 

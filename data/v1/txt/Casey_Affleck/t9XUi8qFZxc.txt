@@ -1,0 +1,12 @@
+POI: 			Casey_Affleck 
+Youtube ID: 	t9XUi8qFZxc 
+Video length: 	328.5 sec 
+Set (V): 		dev 
+ 
+Casey_Affleck/t9XUi8qFZxc_0000001 124.6 130.3 
+Casey_Affleck/t9XUi8qFZxc_0000002 156.7 163.3 
+Casey_Affleck/t9XUi8qFZxc_0000003 170.6 175.4 
+Casey_Affleck/t9XUi8qFZxc_0000004 220.9 256.4 
+Casey_Affleck/t9XUi8qFZxc_0000005 262.1 279.2 
+Casey_Affleck/t9XUi8qFZxc_0000006 279.5 294.4 
+Casey_Affleck/t9XUi8qFZxc_0000007 298.0 302.9 

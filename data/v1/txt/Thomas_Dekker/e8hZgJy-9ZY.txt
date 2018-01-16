@@ -1,0 +1,16 @@
+POI: 			Thomas_Dekker 
+Youtube ID: 	e8hZgJy-9ZY 
+Video length: 	203.0 sec 
+Set (V): 		dev 
+ 
+Thomas_Dekker/e8hZgJy-9ZY_0000001 06.5 28.9 
+Thomas_Dekker/e8hZgJy-9ZY_0000002 29.7 36.8 
+Thomas_Dekker/e8hZgJy-9ZY_0000003 40.1 45.4 
+Thomas_Dekker/e8hZgJy-9ZY_0000004 45.9 51.4 
+Thomas_Dekker/e8hZgJy-9ZY_0000005 52.1 61.6 
+Thomas_Dekker/e8hZgJy-9ZY_0000006 68.6 75.6 
+Thomas_Dekker/e8hZgJy-9ZY_0000007 85.7 111.1 
+Thomas_Dekker/e8hZgJy-9ZY_0000008 114.9 124.6 
+Thomas_Dekker/e8hZgJy-9ZY_0000009 125.7 136.6 
+Thomas_Dekker/e8hZgJy-9ZY_0000010 149.7 154.6 
+Thomas_Dekker/e8hZgJy-9ZY_0000011 165.8 200.6 

@@ -1,0 +1,28 @@
+POI: 			Molly_Ringwald 
+Youtube ID: 	pZZgbCIOpyY 
+Video length: 	533.9 sec 
+Set (V): 		dev 
+ 
+Molly_Ringwald/pZZgbCIOpyY_0000001 12.9 29.2 
+Molly_Ringwald/pZZgbCIOpyY_0000002 39.2 48.6 
+Molly_Ringwald/pZZgbCIOpyY_0000003 79.5 107.3 
+Molly_Ringwald/pZZgbCIOpyY_0000004 114.6 129.9 
+Molly_Ringwald/pZZgbCIOpyY_0000005 146.6 161.1 
+Molly_Ringwald/pZZgbCIOpyY_0000006 163.1 174.7 
+Molly_Ringwald/pZZgbCIOpyY_0000007 184.3 196.5 
+Molly_Ringwald/pZZgbCIOpyY_0000008 198.0 202.7 
+Molly_Ringwald/pZZgbCIOpyY_0000009 202.8 210.5 
+Molly_Ringwald/pZZgbCIOpyY_0000010 212.3 222.0 
+Molly_Ringwald/pZZgbCIOpyY_0000011 237.3 253.4 
+Molly_Ringwald/pZZgbCIOpyY_0000012 255.0 271.7 
+Molly_Ringwald/pZZgbCIOpyY_0000013 289.2 322.0 
+Molly_Ringwald/pZZgbCIOpyY_0000014 344.6 350.2 
+Molly_Ringwald/pZZgbCIOpyY_0000015 367.8 373.9 
+Molly_Ringwald/pZZgbCIOpyY_0000016 390.7 396.2 
+Molly_Ringwald/pZZgbCIOpyY_0000017 396.4 401.2 
+Molly_Ringwald/pZZgbCIOpyY_0000018 403.6 412.4 
+Molly_Ringwald/pZZgbCIOpyY_0000019 431.3 437.8 
+Molly_Ringwald/pZZgbCIOpyY_0000020 452.5 461.8 
+Molly_Ringwald/pZZgbCIOpyY_0000021 482.6 488.8 
+Molly_Ringwald/pZZgbCIOpyY_0000022 494.0 498.4 
+Molly_Ringwald/pZZgbCIOpyY_0000023 501.2 506.4 

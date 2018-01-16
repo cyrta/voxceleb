@@ -1,0 +1,12 @@
+POI: 			Jeff_Garlin 
+Youtube ID: 	iv9dymzJ6C0 
+Video length: 	268.3 sec 
+Set (V): 		dev 
+ 
+Jeff_Garlin/iv9dymzJ6C0_0000001 52.9 57.0 
+Jeff_Garlin/iv9dymzJ6C0_0000002 92.2 99.2 
+Jeff_Garlin/iv9dymzJ6C0_0000003 111.6 117.6 
+Jeff_Garlin/iv9dymzJ6C0_0000004 177.2 183.6 
+Jeff_Garlin/iv9dymzJ6C0_0000005 187.4 196.6 
+Jeff_Garlin/iv9dymzJ6C0_0000006 207.4 214.4 
+Jeff_Garlin/iv9dymzJ6C0_0000007 233.4 237.4 

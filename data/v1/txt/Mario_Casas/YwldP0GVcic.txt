@@ -1,0 +1,7 @@
+POI: 			Mario_Casas 
+Youtube ID: 	YwldP0GVcic 
+Video length: 	364.0 sec 
+Set (V): 		dev 
+ 
+Mario_Casas/YwldP0GVcic_0000001 191.4 196.2 
+Mario_Casas/YwldP0GVcic_0000002 197.5 203.8 

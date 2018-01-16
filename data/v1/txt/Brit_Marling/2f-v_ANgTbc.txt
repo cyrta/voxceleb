@@ -1,0 +1,15 @@
+POI: 			Brit_Marling 
+Youtube ID: 	2f-v_ANgTbc 
+Video length: 	486.3 sec 
+Set (V): 		dev 
+ 
+Brit_Marling/2f-v_ANgTbc_0000001 38.2 44.0 
+Brit_Marling/2f-v_ANgTbc_0000002 119.8 126.6 
+Brit_Marling/2f-v_ANgTbc_0000003 126.9 134.3 
+Brit_Marling/2f-v_ANgTbc_0000004 227.4 234.5 
+Brit_Marling/2f-v_ANgTbc_0000005 251.6 256.3 
+Brit_Marling/2f-v_ANgTbc_0000006 258.2 267.6 
+Brit_Marling/2f-v_ANgTbc_0000007 310.9 326.5 
+Brit_Marling/2f-v_ANgTbc_0000008 420.6 428.3 
+Brit_Marling/2f-v_ANgTbc_0000009 429.4 438.4 
+Brit_Marling/2f-v_ANgTbc_0000010 438.5 452.6 

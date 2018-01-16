@@ -1,0 +1,26 @@
+POI: 			Matthew_Goode 
+Youtube ID: 	MdlgWiFip0E 
+Video length: 	447.7 sec 
+Set (V): 		dev 
+ 
+Matthew_Goode/MdlgWiFip0E_0000001 13.2 18.1 
+Matthew_Goode/MdlgWiFip0E_0000002 18.6 22.8 
+Matthew_Goode/MdlgWiFip0E_0000003 35.2 40.0 
+Matthew_Goode/MdlgWiFip0E_0000004 43.3 48.6 
+Matthew_Goode/MdlgWiFip0E_0000005 48.9 54.3 
+Matthew_Goode/MdlgWiFip0E_0000006 97.8 113.9 
+Matthew_Goode/MdlgWiFip0E_0000007 122.4 126.9 
+Matthew_Goode/MdlgWiFip0E_0000008 128.3 141.8 
+Matthew_Goode/MdlgWiFip0E_0000009 189.4 194.0 
+Matthew_Goode/MdlgWiFip0E_0000010 228.2 236.6 
+Matthew_Goode/MdlgWiFip0E_0000011 259.9 268.9 
+Matthew_Goode/MdlgWiFip0E_0000012 274.2 278.6 
+Matthew_Goode/MdlgWiFip0E_0000013 279.2 286.7 
+Matthew_Goode/MdlgWiFip0E_0000014 287.0 293.1 
+Matthew_Goode/MdlgWiFip0E_0000015 294.5 300.0 
+Matthew_Goode/MdlgWiFip0E_0000016 324.0 328.0 
+Matthew_Goode/MdlgWiFip0E_0000017 332.4 337.9 
+Matthew_Goode/MdlgWiFip0E_0000018 349.2 356.6 
+Matthew_Goode/MdlgWiFip0E_0000019 378.8 383.0 
+Matthew_Goode/MdlgWiFip0E_0000020 398.6 407.4 
+Matthew_Goode/MdlgWiFip0E_0000021 411.1 417.4 

@@ -1,0 +1,21 @@
+POI: 			Natascha_McElhone 
+Youtube ID: 	VchnPnqvXG8 
+Video length: 	351.2 sec 
+Set (V): 		dev 
+ 
+Natascha_McElhone/VchnPnqvXG8_0000001 22.6 30.3 
+Natascha_McElhone/VchnPnqvXG8_0000002 42.6 47.3 
+Natascha_McElhone/VchnPnqvXG8_0000003 57.7 69.0 
+Natascha_McElhone/VchnPnqvXG8_0000004 89.6 96.7 
+Natascha_McElhone/VchnPnqvXG8_0000005 113.2 120.5 
+Natascha_McElhone/VchnPnqvXG8_0000006 123.6 128.8 
+Natascha_McElhone/VchnPnqvXG8_0000007 129.5 138.7 
+Natascha_McElhone/VchnPnqvXG8_0000008 141.1 145.7 
+Natascha_McElhone/VchnPnqvXG8_0000009 146.2 155.4 
+Natascha_McElhone/VchnPnqvXG8_0000010 159.5 165.6 
+Natascha_McElhone/VchnPnqvXG8_0000011 197.5 201.6 
+Natascha_McElhone/VchnPnqvXG8_0000012 205.3 211.4 
+Natascha_McElhone/VchnPnqvXG8_0000013 228.0 235.3 
+Natascha_McElhone/VchnPnqvXG8_0000014 273.3 279.6 
+Natascha_McElhone/VchnPnqvXG8_0000015 301.9 308.1 
+Natascha_McElhone/VchnPnqvXG8_0000016 323.5 329.8 

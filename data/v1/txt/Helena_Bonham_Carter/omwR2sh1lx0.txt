@@ -1,0 +1,14 @@
+POI: 			Helena_Bonham_Carter 
+Youtube ID: 	omwR2sh1lx0 
+Video length: 	386.0 sec 
+Set (V): 		dev 
+ 
+Helena_Bonham_Carter/omwR2sh1lx0_0000001 23.1 28.9 
+Helena_Bonham_Carter/omwR2sh1lx0_0000002 35.8 40.4 
+Helena_Bonham_Carter/omwR2sh1lx0_0000003 70.4 75.4 
+Helena_Bonham_Carter/omwR2sh1lx0_0000004 88.3 93.1 
+Helena_Bonham_Carter/omwR2sh1lx0_0000005 131.7 135.8 
+Helena_Bonham_Carter/omwR2sh1lx0_0000006 159.1 164.4 
+Helena_Bonham_Carter/omwR2sh1lx0_0000007 178.1 184.6 
+Helena_Bonham_Carter/omwR2sh1lx0_0000008 200.9 207.6 
+Helena_Bonham_Carter/omwR2sh1lx0_0000009 211.6 217.6 

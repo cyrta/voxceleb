@@ -1,0 +1,12 @@
+POI: 			Tim_Minchin 
+Youtube ID: 	wYt7jhU6tPE 
+Video length: 	255.5 sec 
+Set (V): 		dev 
+ 
+Tim_Minchin/wYt7jhU6tPE_0000001 30.2 36.6 
+Tim_Minchin/wYt7jhU6tPE_0000002 76.4 80.7 
+Tim_Minchin/wYt7jhU6tPE_0000003 99.7 103.6 
+Tim_Minchin/wYt7jhU6tPE_0000004 122.6 127.4 
+Tim_Minchin/wYt7jhU6tPE_0000005 128.1 135.8 
+Tim_Minchin/wYt7jhU6tPE_0000006 182.8 189.3 
+Tim_Minchin/wYt7jhU6tPE_0000007 234.4 244.1 

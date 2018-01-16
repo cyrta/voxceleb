@@ -1,0 +1,7 @@
+POI: 			Miriam_Margolyes 
+Youtube ID: 	F186jg6MsGQ 
+Video length: 	154.7 sec 
+Set (V): 		dev 
+ 
+Miriam_Margolyes/F186jg6MsGQ_0000001 50.1 55.0 
+Miriam_Margolyes/F186jg6MsGQ_0000002 61.9 66.5 

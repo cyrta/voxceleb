@@ -1,0 +1,25 @@
+POI: 			Molly_Ringwald 
+Youtube ID: 	9Rg_q0gWSJE 
+Video length: 	977.0 sec 
+Set (V): 		dev 
+ 
+Molly_Ringwald/9Rg_q0gWSJE_0000001 327.9 335.7 
+Molly_Ringwald/9Rg_q0gWSJE_0000002 336.6 350.6 
+Molly_Ringwald/9Rg_q0gWSJE_0000003 363.6 373.5 
+Molly_Ringwald/9Rg_q0gWSJE_0000004 377.8 398.6 
+Molly_Ringwald/9Rg_q0gWSJE_0000005 399.6 403.8 
+Molly_Ringwald/9Rg_q0gWSJE_0000006 421.7 432.4 
+Molly_Ringwald/9Rg_q0gWSJE_0000007 434.1 444.4 
+Molly_Ringwald/9Rg_q0gWSJE_0000008 451.0 460.8 
+Molly_Ringwald/9Rg_q0gWSJE_0000009 464.9 469.7 
+Molly_Ringwald/9Rg_q0gWSJE_0000010 470.2 481.0 
+Molly_Ringwald/9Rg_q0gWSJE_0000011 483.8 488.3 
+Molly_Ringwald/9Rg_q0gWSJE_0000012 500.2 511.9 
+Molly_Ringwald/9Rg_q0gWSJE_0000013 530.9 535.2 
+Molly_Ringwald/9Rg_q0gWSJE_0000014 360.0 373.6 
+Molly_Ringwald/9Rg_q0gWSJE_0000015 377.8 403.8 
+Molly_Ringwald/9Rg_q0gWSJE_0000016 417.5 423.6 
+Molly_Ringwald/9Rg_q0gWSJE_0000017 603.8 617.4 
+Molly_Ringwald/9Rg_q0gWSJE_0000018 635.3 639.6 
+Molly_Ringwald/9Rg_q0gWSJE_0000019 650.7 659.6 
+Molly_Ringwald/9Rg_q0gWSJE_0000020 661.7 671.6 

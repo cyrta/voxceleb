@@ -1,0 +1,11 @@
+POI: 			Andrea_Riseborough 
+Youtube ID: 	6OUWWa4tdJw 
+Video length: 	458.4 sec 
+Set (V): 		dev 
+ 
+Andrea_Riseborough/6OUWWa4tdJw_0000001 217.9 222.0 
+Andrea_Riseborough/6OUWWa4tdJw_0000002 230.4 234.4 
+Andrea_Riseborough/6OUWWa4tdJw_0000003 237.5 247.6 
+Andrea_Riseborough/6OUWWa4tdJw_0000004 274.8 279.3 
+Andrea_Riseborough/6OUWWa4tdJw_0000005 282.4 286.6 
+Andrea_Riseborough/6OUWWa4tdJw_0000006 344.8 349.0 

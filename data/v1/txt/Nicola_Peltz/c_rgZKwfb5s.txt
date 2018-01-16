@@ -1,0 +1,9 @@
+POI: 			Nicola_Peltz 
+Youtube ID: 	c_rgZKwfb5s 
+Video length: 	73.6 sec 
+Set (V): 		dev 
+ 
+Nicola_Peltz/c_rgZKwfb5s_0000001 15.5 20.6 
+Nicola_Peltz/c_rgZKwfb5s_0000002 21.6 25.7 
+Nicola_Peltz/c_rgZKwfb5s_0000003 34.8 41.3 
+Nicola_Peltz/c_rgZKwfb5s_0000004 58.3 72.1 

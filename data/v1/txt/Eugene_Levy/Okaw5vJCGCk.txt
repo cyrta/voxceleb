@@ -1,0 +1,6 @@
+POI: 			Eugene_Levy 
+Youtube ID: 	Okaw5vJCGCk 
+Video length: 	365.0 sec 
+Set (V): 		test 
+ 
+Eugene_Levy/Okaw5vJCGCk_0000001 234.0 239.8 

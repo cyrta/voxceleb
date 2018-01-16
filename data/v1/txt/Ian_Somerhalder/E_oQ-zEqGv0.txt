@@ -1,0 +1,7 @@
+POI: 			Ian_Somerhalder 
+Youtube ID: 	E_oQ-zEqGv0 
+Video length: 	127.0 sec 
+Set (V): 		dev 
+ 
+Ian_Somerhalder/E_oQ-zEqGv0_0000001 24.3 29.8 
+Ian_Somerhalder/E_oQ-zEqGv0_0000002 118.0 123.0 

@@ -1,0 +1,22 @@
+POI: 			Laura_Dern 
+Youtube ID: 	MuBWb12hwUw 
+Video length: 	512.8 sec 
+Set (V): 		dev 
+ 
+Laura_Dern/MuBWb12hwUw_0000001 25.6 36.9 
+Laura_Dern/MuBWb12hwUw_0000002 55.0 64.6 
+Laura_Dern/MuBWb12hwUw_0000003 76.5 103.1 
+Laura_Dern/MuBWb12hwUw_0000004 115.8 125.0 
+Laura_Dern/MuBWb12hwUw_0000005 144.7 150.4 
+Laura_Dern/MuBWb12hwUw_0000006 220.2 237.3 
+Laura_Dern/MuBWb12hwUw_0000007 261.1 266.2 
+Laura_Dern/MuBWb12hwUw_0000008 268.2 272.4 
+Laura_Dern/MuBWb12hwUw_0000009 274.7 285.9 
+Laura_Dern/MuBWb12hwUw_0000010 319.1 325.2 
+Laura_Dern/MuBWb12hwUw_0000011 325.9 335.8 
+Laura_Dern/MuBWb12hwUw_0000012 336.2 341.7 
+Laura_Dern/MuBWb12hwUw_0000013 354.0 361.6 
+Laura_Dern/MuBWb12hwUw_0000014 399.3 426.6 
+Laura_Dern/MuBWb12hwUw_0000015 431.6 438.2 
+Laura_Dern/MuBWb12hwUw_0000016 449.7 454.2 
+Laura_Dern/MuBWb12hwUw_0000017 466.0 471.0 

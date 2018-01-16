@@ -1,0 +1,9 @@
+POI: 			Tim_Gunn 
+Youtube ID: 	NLDCAPZIVCg 
+Video length: 	263.8 sec 
+Set (V): 		dev 
+ 
+Tim_Gunn/NLDCAPZIVCg_0000001 41.4 48.0 
+Tim_Gunn/NLDCAPZIVCg_0000002 85.2 90.2 
+Tim_Gunn/NLDCAPZIVCg_0000003 122.4 127.6 
+Tim_Gunn/NLDCAPZIVCg_0000004 193.9 198.0 

@@ -1,0 +1,9 @@
+POI: 			Sterling_Knight 
+Youtube ID: 	6YAezB4rN4U 
+Video length: 	326.0 sec 
+Set (V): 		dev 
+ 
+Sterling_Knight/6YAezB4rN4U_0000001 162.8 166.8 
+Sterling_Knight/6YAezB4rN4U_0000002 198.5 205.9 
+Sterling_Knight/6YAezB4rN4U_0000003 216.9 223.0 
+Sterling_Knight/6YAezB4rN4U_0000004 241.1 247.6 

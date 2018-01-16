@@ -1,0 +1,15 @@
+POI: 			January_Jones 
+Youtube ID: 	Zik7YaVEkkU 
+Video length: 	119.1 sec 
+Set (V): 		dev 
+ 
+January_Jones/Zik7YaVEkkU_0000001 07.3 12.1 
+January_Jones/Zik7YaVEkkU_0000002 12.3 22.6 
+January_Jones/Zik7YaVEkkU_0000003 25.1 29.1 
+January_Jones/Zik7YaVEkkU_0000004 36.8 42.0 
+January_Jones/Zik7YaVEkkU_0000005 45.0 50.0 
+January_Jones/Zik7YaVEkkU_0000006 58.3 62.2 
+January_Jones/Zik7YaVEkkU_0000007 74.6 78.6 
+January_Jones/Zik7YaVEkkU_0000008 79.5 87.2 
+January_Jones/Zik7YaVEkkU_0000009 88.8 97.8 
+January_Jones/Zik7YaVEkkU_0000010 104.2 109.5 

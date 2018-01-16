@@ -1,0 +1,8 @@
+POI: 			Ryan_Ochoa 
+Youtube ID: 	Qgt8RDWmI9c 
+Video length: 	227.9 sec 
+Set (V): 		dev 
+ 
+Ryan_Ochoa/Qgt8RDWmI9c_0000001 83.0 87.6 
+Ryan_Ochoa/Qgt8RDWmI9c_0000002 98.0 107.7 
+Ryan_Ochoa/Qgt8RDWmI9c_0000003 129.3 136.3 

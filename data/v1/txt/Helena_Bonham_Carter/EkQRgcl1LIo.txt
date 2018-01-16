@@ -1,0 +1,12 @@
+POI: 			Helena_Bonham_Carter 
+Youtube ID: 	EkQRgcl1LIo 
+Video length: 	483.1 sec 
+Set (V): 		dev 
+ 
+Helena_Bonham_Carter/EkQRgcl1LIo_0000001 175.3 180.0 
+Helena_Bonham_Carter/EkQRgcl1LIo_0000002 216.0 225.8 
+Helena_Bonham_Carter/EkQRgcl1LIo_0000003 227.1 233.4 
+Helena_Bonham_Carter/EkQRgcl1LIo_0000004 248.2 253.4 
+Helena_Bonham_Carter/EkQRgcl1LIo_0000005 301.7 306.3 
+Helena_Bonham_Carter/EkQRgcl1LIo_0000006 325.8 335.0 
+Helena_Bonham_Carter/EkQRgcl1LIo_0000007 342.0 347.6 

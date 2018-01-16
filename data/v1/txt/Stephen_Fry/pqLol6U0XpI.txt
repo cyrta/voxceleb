@@ -1,0 +1,21 @@
+POI: 			Stephen_Fry 
+Youtube ID: 	pqLol6U0XpI 
+Video length: 	432.0 sec 
+Set (V): 		dev 
+ 
+Stephen_Fry/pqLol6U0XpI_0000001 19.8 31.4 
+Stephen_Fry/pqLol6U0XpI_0000002 42.1 47.6 
+Stephen_Fry/pqLol6U0XpI_0000003 51.9 56.8 
+Stephen_Fry/pqLol6U0XpI_0000004 127.1 146.6 
+Stephen_Fry/pqLol6U0XpI_0000005 152.4 178.4 
+Stephen_Fry/pqLol6U0XpI_0000006 175.4 183.4 
+Stephen_Fry/pqLol6U0XpI_0000007 189.0 195.2 
+Stephen_Fry/pqLol6U0XpI_0000008 235.5 239.7 
+Stephen_Fry/pqLol6U0XpI_0000009 272.9 277.8 
+Stephen_Fry/pqLol6U0XpI_0000010 285.6 298.3 
+Stephen_Fry/pqLol6U0XpI_0000011 342.0 350.5 
+Stephen_Fry/pqLol6U0XpI_0000012 350.8 358.8 
+Stephen_Fry/pqLol6U0XpI_0000013 359.2 368.1 
+Stephen_Fry/pqLol6U0XpI_0000014 400.6 405.4 
+Stephen_Fry/pqLol6U0XpI_0000015 406.8 411.6 
+Stephen_Fry/pqLol6U0XpI_0000016 411.9 417.6 

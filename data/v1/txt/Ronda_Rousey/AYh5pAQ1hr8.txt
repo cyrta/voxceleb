@@ -1,0 +1,8 @@
+POI: 			Ronda_Rousey 
+Youtube ID: 	AYh5pAQ1hr8 
+Video length: 	91.6 sec 
+Set (V): 		dev 
+ 
+Ronda_Rousey/AYh5pAQ1hr8_0000001 06.6 22.2 
+Ronda_Rousey/AYh5pAQ1hr8_0000002 34.4 48.1 
+Ronda_Rousey/AYh5pAQ1hr8_0000003 62.4 68.1 

@@ -1,0 +1,9 @@
+POI: 			Will_Poulter 
+Youtube ID: 	4T4E9aiOR7U 
+Video length: 	617.4 sec 
+Set (V): 		dev 
+ 
+Will_Poulter/4T4E9aiOR7U_0000001 232.6 243.3 
+Will_Poulter/4T4E9aiOR7U_0000002 249.2 256.2 
+Will_Poulter/4T4E9aiOR7U_0000003 256.9 261.6 
+Will_Poulter/4T4E9aiOR7U_0000004 436.9 443.0 

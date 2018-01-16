@@ -1,0 +1,9 @@
+POI: 			Senta_Berger 
+Youtube ID: 	J6EuWRWjnY8 
+Video length: 	601.4 sec 
+Set (V): 		dev 
+ 
+Senta_Berger/J6EuWRWjnY8_0000001 489.8 495.7 
+Senta_Berger/J6EuWRWjnY8_0000002 545.7 555.9 
+Senta_Berger/J6EuWRWjnY8_0000003 565.5 570.2 
+Senta_Berger/J6EuWRWjnY8_0000004 589.3 595.3 

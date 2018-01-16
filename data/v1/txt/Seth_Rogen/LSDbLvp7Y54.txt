@@ -1,0 +1,7 @@
+POI: 			Seth_Rogen 
+Youtube ID: 	LSDbLvp7Y54 
+Video length: 	353.0 sec 
+Set (V): 		dev 
+ 
+Seth_Rogen/LSDbLvp7Y54_0000001 168.5 177.1 
+Seth_Rogen/LSDbLvp7Y54_0000002 178.1 182.7 

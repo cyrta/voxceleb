@@ -1,0 +1,20 @@
+POI: 			Ezra_Miller 
+Youtube ID: 	vobW27_-JyQ 
+Video length: 	439.8 sec 
+Set (V): 		test 
+ 
+Ezra_Miller/vobW27_-JyQ_0000001 85.4 90.0 
+Ezra_Miller/vobW27_-JyQ_0000002 126.5 139.2 
+Ezra_Miller/vobW27_-JyQ_0000003 141.2 148.6 
+Ezra_Miller/vobW27_-JyQ_0000004 166.6 173.1 
+Ezra_Miller/vobW27_-JyQ_0000005 196.8 202.6 
+Ezra_Miller/vobW27_-JyQ_0000006 207.0 211.5 
+Ezra_Miller/vobW27_-JyQ_0000007 192.4 199.1 
+Ezra_Miller/vobW27_-JyQ_0000008 228.6 239.9 
+Ezra_Miller/vobW27_-JyQ_0000009 258.6 270.4 
+Ezra_Miller/vobW27_-JyQ_0000010 273.2 292.1 
+Ezra_Miller/vobW27_-JyQ_0000011 310.3 328.9 
+Ezra_Miller/vobW27_-JyQ_0000012 331.2 339.5 
+Ezra_Miller/vobW27_-JyQ_0000013 340.2 344.7 
+Ezra_Miller/vobW27_-JyQ_0000014 389.2 394.4 
+Ezra_Miller/vobW27_-JyQ_0000015 396.7 400.9 

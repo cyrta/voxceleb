@@ -1,0 +1,14 @@
+POI: 			Geri_Halliwell 
+Youtube ID: 	S7RvlNtUTl0 
+Video length: 	351.7 sec 
+Set (V): 		dev 
+ 
+Geri_Halliwell/S7RvlNtUTl0_0000001 31.4 35.6 
+Geri_Halliwell/S7RvlNtUTl0_0000002 35.7 42.0 
+Geri_Halliwell/S7RvlNtUTl0_0000003 50.2 55.0 
+Geri_Halliwell/S7RvlNtUTl0_0000004 111.4 118.8 
+Geri_Halliwell/S7RvlNtUTl0_0000005 163.6 169.8 
+Geri_Halliwell/S7RvlNtUTl0_0000006 172.9 180.8 
+Geri_Halliwell/S7RvlNtUTl0_0000007 219.8 233.6 
+Geri_Halliwell/S7RvlNtUTl0_0000008 279.4 285.5 
+Geri_Halliwell/S7RvlNtUTl0_0000009 296.3 304.7 

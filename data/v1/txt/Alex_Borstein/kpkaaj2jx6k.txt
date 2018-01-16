@@ -1,0 +1,9 @@
+POI: 			Alex_Borstein 
+Youtube ID: 	kpkaaj2jx6k 
+Video length: 	141.8 sec 
+Set (V): 		dev 
+ 
+Alex_Borstein/kpkaaj2jx6k_0000001 19.5 24.1 
+Alex_Borstein/kpkaaj2jx6k_0000002 62.3 72.2 
+Alex_Borstein/kpkaaj2jx6k_0000003 106.7 114.4 
+Alex_Borstein/kpkaaj2jx6k_0000004 127.6 131.6 

@@ -1,0 +1,10 @@
+POI: 			Miles_Teller 
+Youtube ID: 	LXtdz-4roQ0 
+Video length: 	242.4 sec 
+Set (V): 		dev 
+ 
+Miles_Teller/LXtdz-4roQ0_0000001 59.6 65.2 
+Miles_Teller/LXtdz-4roQ0_0000002 67.9 73.0 
+Miles_Teller/LXtdz-4roQ0_0000003 109.2 113.9 
+Miles_Teller/LXtdz-4roQ0_0000004 118.8 151.4 
+Miles_Teller/LXtdz-4roQ0_0000005 194.4 200.8 

@@ -1,0 +1,14 @@
+POI: 			Silas_Weir_Mitchell 
+Youtube ID: 	SIQ2HQIcMUU 
+Video length: 	104.2 sec 
+Set (V): 		dev 
+ 
+Silas_Weir_Mitchell/SIQ2HQIcMUU_0000001 00.8 06.4 
+Silas_Weir_Mitchell/SIQ2HQIcMUU_0000002 11.4 17.6 
+Silas_Weir_Mitchell/SIQ2HQIcMUU_0000003 18.4 35.4 
+Silas_Weir_Mitchell/SIQ2HQIcMUU_0000004 37.0 42.6 
+Silas_Weir_Mitchell/SIQ2HQIcMUU_0000005 44.8 50.0 
+Silas_Weir_Mitchell/SIQ2HQIcMUU_0000006 60.0 64.8 
+Silas_Weir_Mitchell/SIQ2HQIcMUU_0000007 78.2 84.9 
+Silas_Weir_Mitchell/SIQ2HQIcMUU_0000008 85.5 93.6 
+Silas_Weir_Mitchell/SIQ2HQIcMUU_0000009 96.4 101.4 

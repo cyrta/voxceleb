@@ -1,0 +1,14 @@
+POI: 			Nathalie_Emmanuel 
+Youtube ID: 	6D6GMQoOImI 
+Video length: 	196.5 sec 
+Set (V): 		dev 
+ 
+Nathalie_Emmanuel/6D6GMQoOImI_0000001 06.1 17.5 
+Nathalie_Emmanuel/6D6GMQoOImI_0000002 74.4 81.1 
+Nathalie_Emmanuel/6D6GMQoOImI_0000003 81.3 86.7 
+Nathalie_Emmanuel/6D6GMQoOImI_0000004 104.8 116.3 
+Nathalie_Emmanuel/6D6GMQoOImI_0000005 117.0 126.2 
+Nathalie_Emmanuel/6D6GMQoOImI_0000006 131.0 138.0 
+Nathalie_Emmanuel/6D6GMQoOImI_0000007 143.6 152.7 
+Nathalie_Emmanuel/6D6GMQoOImI_0000008 118.8 126.0 
+Nathalie_Emmanuel/6D6GMQoOImI_0000009 162.5 169.3 

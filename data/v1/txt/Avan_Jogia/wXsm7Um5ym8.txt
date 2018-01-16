@@ -1,0 +1,7 @@
+POI: 			Avan_Jogia 
+Youtube ID: 	wXsm7Um5ym8 
+Video length: 	222.0 sec 
+Set (V): 		dev 
+ 
+Avan_Jogia/wXsm7Um5ym8_0000001 65.2 72.1 
+Avan_Jogia/wXsm7Um5ym8_0000002 162.6 169.3 

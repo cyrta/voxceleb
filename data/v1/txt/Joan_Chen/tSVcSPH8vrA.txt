@@ -1,0 +1,11 @@
+POI: 			Joan_Chen 
+Youtube ID: 	tSVcSPH8vrA 
+Video length: 	192.1 sec 
+Set (V): 		dev 
+ 
+Joan_Chen/tSVcSPH8vrA_0000001 14.0 19.5 
+Joan_Chen/tSVcSPH8vrA_0000002 20.7 26.7 
+Joan_Chen/tSVcSPH8vrA_0000003 32.4 37.6 
+Joan_Chen/tSVcSPH8vrA_0000004 105.8 111.2 
+Joan_Chen/tSVcSPH8vrA_0000005 142.7 148.3 
+Joan_Chen/tSVcSPH8vrA_0000006 164.4 169.3 

@@ -1,0 +1,8 @@
+POI: 			Zoe_Saldana 
+Youtube ID: 	DmgpPyxGw3c 
+Video length: 	334.8 sec 
+Set (V): 		dev 
+ 
+Zoe_Saldana/DmgpPyxGw3c_0000001 191.0 196.0 
+Zoe_Saldana/DmgpPyxGw3c_0000002 196.4 203.5 
+Zoe_Saldana/DmgpPyxGw3c_0000003 292.5 297.0 

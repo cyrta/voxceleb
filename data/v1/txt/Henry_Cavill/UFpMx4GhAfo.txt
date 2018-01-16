@@ -1,0 +1,10 @@
+POI: 			Henry_Cavill 
+Youtube ID: 	UFpMx4GhAfo 
+Video length: 	289.9 sec 
+Set (V): 		dev 
+ 
+Henry_Cavill/UFpMx4GhAfo_0000001 88.6 99.1 
+Henry_Cavill/UFpMx4GhAfo_0000002 179.0 186.2 
+Henry_Cavill/UFpMx4GhAfo_0000003 201.4 213.7 
+Henry_Cavill/UFpMx4GhAfo_0000004 237.3 242.3 
+Henry_Cavill/UFpMx4GhAfo_0000005 266.2 270.5 

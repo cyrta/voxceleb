@@ -1,0 +1,12 @@
+POI: 			Jared_Leto 
+Youtube ID: 	EbGsEyE5UXc 
+Video length: 	544.8 sec 
+Set (V): 		dev 
+ 
+Jared_Leto/EbGsEyE5UXc_0000001 233.1 238.4 
+Jared_Leto/EbGsEyE5UXc_0000002 256.9 261.3 
+Jared_Leto/EbGsEyE5UXc_0000003 271.6 278.5 
+Jared_Leto/EbGsEyE5UXc_0000004 296.5 308.6 
+Jared_Leto/EbGsEyE5UXc_0000005 337.6 349.7 
+Jared_Leto/EbGsEyE5UXc_0000006 481.5 486.6 
+Jared_Leto/EbGsEyE5UXc_0000007 492.5 496.7 

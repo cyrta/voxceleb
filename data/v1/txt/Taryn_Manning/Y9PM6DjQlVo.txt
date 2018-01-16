@@ -1,0 +1,7 @@
+POI: 			Taryn_Manning 
+Youtube ID: 	Y9PM6DjQlVo 
+Video length: 	196.6 sec 
+Set (V): 		dev 
+ 
+Taryn_Manning/Y9PM6DjQlVo_0000001 32.6 37.4 
+Taryn_Manning/Y9PM6DjQlVo_0000002 100.5 104.4 

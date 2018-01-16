@@ -1,0 +1,9 @@
+POI: 			Olivia_Cooke 
+Youtube ID: 	IO2P81-7L2A 
+Video length: 	333.2 sec 
+Set (V): 		dev 
+ 
+Olivia_Cooke/IO2P81-7L2A_0000001 180.9 190.4 
+Olivia_Cooke/IO2P81-7L2A_0000002 193.8 199.9 
+Olivia_Cooke/IO2P81-7L2A_0000003 278.3 283.5 
+Olivia_Cooke/IO2P81-7L2A_0000004 286.3 293.6 

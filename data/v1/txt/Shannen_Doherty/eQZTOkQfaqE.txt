@@ -1,0 +1,8 @@
+POI: 			Shannen_Doherty 
+Youtube ID: 	eQZTOkQfaqE 
+Video length: 	459.6 sec 
+Set (V): 		dev 
+ 
+Shannen_Doherty/eQZTOkQfaqE_0000001 23.1 28.8 
+Shannen_Doherty/eQZTOkQfaqE_0000002 242.2 247.4 
+Shannen_Doherty/eQZTOkQfaqE_0000003 414.4 419.4 

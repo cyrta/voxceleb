@@ -1,0 +1,15 @@
+POI: 			Ezra_Miller 
+Youtube ID: 	_z_BR0ERa9g 
+Video length: 	252.2 sec 
+Set (V): 		test 
+ 
+Ezra_Miller/_z_BR0ERa9g_0000001 19.1 25.0 
+Ezra_Miller/_z_BR0ERa9g_0000002 49.2 55.0 
+Ezra_Miller/_z_BR0ERa9g_0000003 78.1 82.6 
+Ezra_Miller/_z_BR0ERa9g_0000004 121.8 128.8 
+Ezra_Miller/_z_BR0ERa9g_0000005 130.1 134.1 
+Ezra_Miller/_z_BR0ERa9g_0000006 168.5 174.2 
+Ezra_Miller/_z_BR0ERa9g_0000007 183.3 193.9 
+Ezra_Miller/_z_BR0ERa9g_0000008 219.6 224.0 
+Ezra_Miller/_z_BR0ERa9g_0000009 227.7 237.0 
+Ezra_Miller/_z_BR0ERa9g_0000010 239.9 245.1 

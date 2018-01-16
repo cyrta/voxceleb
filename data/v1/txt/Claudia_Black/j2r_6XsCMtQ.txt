@@ -1,0 +1,14 @@
+POI: 			Claudia_Black 
+Youtube ID: 	j2r_6XsCMtQ 
+Video length: 	230.2 sec 
+Set (V): 		dev 
+ 
+Claudia_Black/j2r_6XsCMtQ_0000001 03.0 12.2 
+Claudia_Black/j2r_6XsCMtQ_0000002 14.1 19.0 
+Claudia_Black/j2r_6XsCMtQ_0000003 19.2 25.2 
+Claudia_Black/j2r_6XsCMtQ_0000004 118.7 131.8 
+Claudia_Black/j2r_6XsCMtQ_0000005 133.6 145.2 
+Claudia_Black/j2r_6XsCMtQ_0000006 145.1 157.8 
+Claudia_Black/j2r_6XsCMtQ_0000007 158.2 162.5 
+Claudia_Black/j2r_6XsCMtQ_0000008 198.8 210.7 
+Claudia_Black/j2r_6XsCMtQ_0000009 221.5 227.2 

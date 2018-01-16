@@ -1,0 +1,10 @@
+POI: 			Paul_Wesley 
+Youtube ID: 	JVJmiV0FVXM 
+Video length: 	241.1 sec 
+Set (V): 		dev 
+ 
+Paul_Wesley/JVJmiV0FVXM_0000001 83.3 88.2 
+Paul_Wesley/JVJmiV0FVXM_0000002 137.3 144.2 
+Paul_Wesley/JVJmiV0FVXM_0000003 152.2 157.8 
+Paul_Wesley/JVJmiV0FVXM_0000004 173.9 180.4 
+Paul_Wesley/JVJmiV0FVXM_0000005 206.5 213.9 

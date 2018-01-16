@@ -1,0 +1,10 @@
+POI: 			Joan_Chen 
+Youtube ID: 	EDU4oSS3pow 
+Video length: 	353.8 sec 
+Set (V): 		dev 
+ 
+Joan_Chen/EDU4oSS3pow_0000001 98.0 105.5 
+Joan_Chen/EDU4oSS3pow_0000002 106.3 112.1 
+Joan_Chen/EDU4oSS3pow_0000003 150.9 156.5 
+Joan_Chen/EDU4oSS3pow_0000004 203.4 217.2 
+Joan_Chen/EDU4oSS3pow_0000005 307.3 313.6 

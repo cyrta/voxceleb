@@ -1,0 +1,13 @@
+POI: 			Mark_Hamill 
+Youtube ID: 	45ifg3S8lgc 
+Video length: 	2123.6 sec 
+Set (V): 		dev 
+ 
+Mark_Hamill/45ifg3S8lgc_0000001 144.2 149.1 
+Mark_Hamill/45ifg3S8lgc_0000002 208.0 212.8 
+Mark_Hamill/45ifg3S8lgc_0000003 411.0 416.1 
+Mark_Hamill/45ifg3S8lgc_0000004 572.9 578.0 
+Mark_Hamill/45ifg3S8lgc_0000005 652.6 656.9 
+Mark_Hamill/45ifg3S8lgc_0000006 955.4 961.4 
+Mark_Hamill/45ifg3S8lgc_0000007 1878.0 1882.2 
+Mark_Hamill/45ifg3S8lgc_0000008 1882.6 1887.6 

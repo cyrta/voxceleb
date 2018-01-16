@@ -1,0 +1,28 @@
+POI: 			Jonathan_Jackson 
+Youtube ID: 	Slku3LHRpn4 
+Video length: 	339.2 sec 
+Set (V): 		dev 
+ 
+Jonathan_Jackson/Slku3LHRpn4_0000001 17.6 22.0 
+Jonathan_Jackson/Slku3LHRpn4_0000002 30.8 34.9 
+Jonathan_Jackson/Slku3LHRpn4_0000003 43.1 53.9 
+Jonathan_Jackson/Slku3LHRpn4_0000004 54.9 64.9 
+Jonathan_Jackson/Slku3LHRpn4_0000005 75.2 79.5 
+Jonathan_Jackson/Slku3LHRpn4_0000006 89.7 93.8 
+Jonathan_Jackson/Slku3LHRpn4_0000007 95.6 100.2 
+Jonathan_Jackson/Slku3LHRpn4_0000008 101.1 106.8 
+Jonathan_Jackson/Slku3LHRpn4_0000009 118.3 125.2 
+Jonathan_Jackson/Slku3LHRpn4_0000010 146.9 151.4 
+Jonathan_Jackson/Slku3LHRpn4_0000011 183.0 187.2 
+Jonathan_Jackson/Slku3LHRpn4_0000012 195.3 205.6 
+Jonathan_Jackson/Slku3LHRpn4_0000013 207.8 213.9 
+Jonathan_Jackson/Slku3LHRpn4_0000014 220.2 225.9 
+Jonathan_Jackson/Slku3LHRpn4_0000015 235.3 241.0 
+Jonathan_Jackson/Slku3LHRpn4_0000016 242.0 247.0 
+Jonathan_Jackson/Slku3LHRpn4_0000017 255.2 260.2 
+Jonathan_Jackson/Slku3LHRpn4_0000018 260.2 264.6 
+Jonathan_Jackson/Slku3LHRpn4_0000019 266.6 273.5 
+Jonathan_Jackson/Slku3LHRpn4_0000020 284.6 291.1 
+Jonathan_Jackson/Slku3LHRpn4_0000021 292.8 297.8 
+Jonathan_Jackson/Slku3LHRpn4_0000022 302.2 309.7 
+Jonathan_Jackson/Slku3LHRpn4_0000023 319.8 326.3 

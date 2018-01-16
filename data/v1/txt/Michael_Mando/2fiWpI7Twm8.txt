@@ -1,0 +1,11 @@
+POI: 			Michael_Mando 
+Youtube ID: 	2fiWpI7Twm8 
+Video length: 	144.3 sec 
+Set (V): 		dev 
+ 
+Michael_Mando/2fiWpI7Twm8_0000001 45.3 52.1 
+Michael_Mando/2fiWpI7Twm8_0000002 54.7 59.3 
+Michael_Mando/2fiWpI7Twm8_0000003 76.6 83.2 
+Michael_Mando/2fiWpI7Twm8_0000004 83.8 90.7 
+Michael_Mando/2fiWpI7Twm8_0000005 93.4 101.1 
+Michael_Mando/2fiWpI7Twm8_0000006 119.3 132.4 

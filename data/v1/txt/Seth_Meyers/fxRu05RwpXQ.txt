@@ -1,0 +1,12 @@
+POI: 			Seth_Meyers 
+Youtube ID: 	fxRu05RwpXQ 
+Video length: 	455.6 sec 
+Set (V): 		dev 
+ 
+Seth_Meyers/fxRu05RwpXQ_0000001 163.8 168.4 
+Seth_Meyers/fxRu05RwpXQ_0000002 177.0 187.4 
+Seth_Meyers/fxRu05RwpXQ_0000003 231.0 236.3 
+Seth_Meyers/fxRu05RwpXQ_0000004 257.6 264.6 
+Seth_Meyers/fxRu05RwpXQ_0000005 306.8 318.5 
+Seth_Meyers/fxRu05RwpXQ_0000006 392.1 405.8 
+Seth_Meyers/fxRu05RwpXQ_0000007 422.6 427.0 

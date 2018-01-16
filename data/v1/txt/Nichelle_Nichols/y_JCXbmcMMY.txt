@@ -1,0 +1,19 @@
+POI: 			Nichelle_Nichols 
+Youtube ID: 	y_JCXbmcMMY 
+Video length: 	424.3 sec 
+Set (V): 		dev 
+ 
+Nichelle_Nichols/y_JCXbmcMMY_0000001 58.0 67.4 
+Nichelle_Nichols/y_JCXbmcMMY_0000002 103.2 115.4 
+Nichelle_Nichols/y_JCXbmcMMY_0000003 120.7 125.1 
+Nichelle_Nichols/y_JCXbmcMMY_0000004 127.0 132.5 
+Nichelle_Nichols/y_JCXbmcMMY_0000005 143.9 149.6 
+Nichelle_Nichols/y_JCXbmcMMY_0000006 192.2 198.4 
+Nichelle_Nichols/y_JCXbmcMMY_0000007 239.1 244.4 
+Nichelle_Nichols/y_JCXbmcMMY_0000008 277.6 284.8 
+Nichelle_Nichols/y_JCXbmcMMY_0000009 297.8 305.5 
+Nichelle_Nichols/y_JCXbmcMMY_0000010 305.9 313.8 
+Nichelle_Nichols/y_JCXbmcMMY_0000011 344.5 348.5 
+Nichelle_Nichols/y_JCXbmcMMY_0000012 354.2 358.1 
+Nichelle_Nichols/y_JCXbmcMMY_0000013 400.2 406.0 
+Nichelle_Nichols/y_JCXbmcMMY_0000014 411.9 421.1 

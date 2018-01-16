@@ -1,0 +1,8 @@
+POI: 			Claudia_Lee 
+Youtube ID: 	mxfUmJJMEGc 
+Video length: 	249.0 sec 
+Set (V): 		dev 
+ 
+Claudia_Lee/mxfUmJJMEGc_0000001 19.5 24.5 
+Claudia_Lee/mxfUmJJMEGc_0000002 166.6 170.7 
+Claudia_Lee/mxfUmJJMEGc_0000003 171.7 179.3 

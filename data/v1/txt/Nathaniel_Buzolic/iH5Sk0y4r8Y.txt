@@ -1,0 +1,23 @@
+POI: 			Nathaniel_Buzolic 
+Youtube ID: 	iH5Sk0y4r8Y 
+Video length: 	390.2 sec 
+Set (V): 		dev 
+ 
+Nathaniel_Buzolic/iH5Sk0y4r8Y_0000001 20.3 42.2 
+Nathaniel_Buzolic/iH5Sk0y4r8Y_0000002 42.4 51.0 
+Nathaniel_Buzolic/iH5Sk0y4r8Y_0000003 86.4 91.3 
+Nathaniel_Buzolic/iH5Sk0y4r8Y_0000004 92.2 103.6 
+Nathaniel_Buzolic/iH5Sk0y4r8Y_0000005 116.6 123.2 
+Nathaniel_Buzolic/iH5Sk0y4r8Y_0000006 140.6 152.2 
+Nathaniel_Buzolic/iH5Sk0y4r8Y_0000007 153.0 169.0 
+Nathaniel_Buzolic/iH5Sk0y4r8Y_0000008 178.6 183.4 
+Nathaniel_Buzolic/iH5Sk0y4r8Y_0000009 183.9 189.7 
+Nathaniel_Buzolic/iH5Sk0y4r8Y_0000010 203.0 209.9 
+Nathaniel_Buzolic/iH5Sk0y4r8Y_0000011 233.8 240.0 
+Nathaniel_Buzolic/iH5Sk0y4r8Y_0000012 245.8 249.9 
+Nathaniel_Buzolic/iH5Sk0y4r8Y_0000013 264.0 273.2 
+Nathaniel_Buzolic/iH5Sk0y4r8Y_0000014 279.7 305.8 
+Nathaniel_Buzolic/iH5Sk0y4r8Y_0000015 307.6 313.2 
+Nathaniel_Buzolic/iH5Sk0y4r8Y_0000016 315.3 321.8 
+Nathaniel_Buzolic/iH5Sk0y4r8Y_0000017 328.0 333.6 
+Nathaniel_Buzolic/iH5Sk0y4r8Y_0000018 341.2 378.6 

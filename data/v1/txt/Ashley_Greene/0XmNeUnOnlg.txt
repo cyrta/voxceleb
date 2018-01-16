@@ -1,0 +1,7 @@
+POI: 			Ashley_Greene 
+Youtube ID: 	0XmNeUnOnlg 
+Video length: 	302.1 sec 
+Set (V): 		dev 
+ 
+Ashley_Greene/0XmNeUnOnlg_0000001 95.4 99.4 
+Ashley_Greene/0XmNeUnOnlg_0000002 223.5 227.6 

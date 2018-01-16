@@ -1,0 +1,10 @@
+POI: 			James_Lafferty 
+Youtube ID: 	Rer5OIr3K5A 
+Video length: 	303.8 sec 
+Set (V): 		dev 
+ 
+James_Lafferty/Rer5OIr3K5A_0000001 14.2 20.5 
+James_Lafferty/Rer5OIr3K5A_0000002 99.8 109.0 
+James_Lafferty/Rer5OIr3K5A_0000003 118.1 125.3 
+James_Lafferty/Rer5OIr3K5A_0000004 136.4 153.0 
+James_Lafferty/Rer5OIr3K5A_0000005 181.9 191.4 

@@ -1,0 +1,13 @@
+POI: 			Anne_Hathaway 
+Youtube ID: 	nkX0h_NVGA8 
+Video length: 	318.3 sec 
+Set (V): 		dev 
+ 
+Anne_Hathaway/nkX0h_NVGA8_0000001 114.2 121.5 
+Anne_Hathaway/nkX0h_NVGA8_0000002 177.8 183.4 
+Anne_Hathaway/nkX0h_NVGA8_0000003 219.0 224.8 
+Anne_Hathaway/nkX0h_NVGA8_0000004 225.0 231.0 
+Anne_Hathaway/nkX0h_NVGA8_0000005 231.1 238.7 
+Anne_Hathaway/nkX0h_NVGA8_0000006 244.0 248.8 
+Anne_Hathaway/nkX0h_NVGA8_0000007 296.7 302.6 
+Anne_Hathaway/nkX0h_NVGA8_0000008 305.8 309.9 

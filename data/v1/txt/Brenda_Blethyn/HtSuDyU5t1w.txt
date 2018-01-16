@@ -1,0 +1,7 @@
+POI: 			Brenda_Blethyn 
+Youtube ID: 	HtSuDyU5t1w 
+Video length: 	65.8 sec 
+Set (V): 		dev 
+ 
+Brenda_Blethyn/HtSuDyU5t1w_0000001 29.4 37.5 
+Brenda_Blethyn/HtSuDyU5t1w_0000002 58.1 64.3 

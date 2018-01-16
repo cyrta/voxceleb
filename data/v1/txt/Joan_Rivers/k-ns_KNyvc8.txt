@@ -1,0 +1,12 @@
+POI: 			Joan_Rivers 
+Youtube ID: 	k-ns_KNyvc8 
+Video length: 	561.6 sec 
+Set (V): 		dev 
+ 
+Joan_Rivers/k-ns_KNyvc8_0000001 71.5 78.1 
+Joan_Rivers/k-ns_KNyvc8_0000002 95.7 102.0 
+Joan_Rivers/k-ns_KNyvc8_0000003 221.9 226.1 
+Joan_Rivers/k-ns_KNyvc8_0000004 267.9 272.1 
+Joan_Rivers/k-ns_KNyvc8_0000005 274.4 280.8 
+Joan_Rivers/k-ns_KNyvc8_0000006 283.4 288.9 
+Joan_Rivers/k-ns_KNyvc8_0000007 283.4 287.8 

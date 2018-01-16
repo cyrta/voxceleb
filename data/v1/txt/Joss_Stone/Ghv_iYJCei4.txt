@@ -1,0 +1,14 @@
+POI: 			Joss_Stone 
+Youtube ID: 	Ghv_iYJCei4 
+Video length: 	347.2 sec 
+Set (V): 		dev 
+ 
+Joss_Stone/Ghv_iYJCei4_0000001 43.3 49.7 
+Joss_Stone/Ghv_iYJCei4_0000002 83.5 92.1 
+Joss_Stone/Ghv_iYJCei4_0000003 225.5 230.2 
+Joss_Stone/Ghv_iYJCei4_0000004 244.7 250.7 
+Joss_Stone/Ghv_iYJCei4_0000005 263.8 268.3 
+Joss_Stone/Ghv_iYJCei4_0000006 269.0 273.1 
+Joss_Stone/Ghv_iYJCei4_0000007 287.2 293.1 
+Joss_Stone/Ghv_iYJCei4_0000008 299.5 306.6 
+Joss_Stone/Ghv_iYJCei4_0000009 312.5 321.8 

@@ -1,0 +1,8 @@
+POI: 			Cedric_the_Entertainer 
+Youtube ID: 	SM17Zjm05s8 
+Video length: 	172.9 sec 
+Set (V): 		dev 
+ 
+Cedric_the_Entertainer/SM17Zjm05s8_0000001 16.8 24.5 
+Cedric_the_Entertainer/SM17Zjm05s8_0000002 94.6 122.5 
+Cedric_the_Entertainer/SM17Zjm05s8_0000003 136.9 141.5 

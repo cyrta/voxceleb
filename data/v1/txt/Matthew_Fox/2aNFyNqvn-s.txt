@@ -1,0 +1,11 @@
+POI: 			Matthew_Fox 
+Youtube ID: 	2aNFyNqvn-s 
+Video length: 	352.8 sec 
+Set (V): 		dev 
+ 
+Matthew_Fox/2aNFyNqvn-s_0000001 37.0 57.7 
+Matthew_Fox/2aNFyNqvn-s_0000002 73.2 78.4 
+Matthew_Fox/2aNFyNqvn-s_0000003 90.7 94.9 
+Matthew_Fox/2aNFyNqvn-s_0000004 126.3 135.7 
+Matthew_Fox/2aNFyNqvn-s_0000005 161.0 169.3 
+Matthew_Fox/2aNFyNqvn-s_0000006 312.2 316.9 

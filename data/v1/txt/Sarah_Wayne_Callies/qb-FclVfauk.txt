@@ -1,0 +1,8 @@
+POI: 			Sarah_Wayne_Callies 
+Youtube ID: 	qb-FclVfauk 
+Video length: 	614.2 sec 
+Set (V): 		dev 
+ 
+Sarah_Wayne_Callies/qb-FclVfauk_0000001 20.2 27.1 
+Sarah_Wayne_Callies/qb-FclVfauk_0000002 32.3 39.3 
+Sarah_Wayne_Callies/qb-FclVfauk_0000003 40.2 44.6 

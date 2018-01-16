@@ -1,0 +1,11 @@
+POI: 			Laverne_Cox 
+Youtube ID: 	f5a3PcAe_II 
+Video length: 	318.9 sec 
+Set (V): 		dev 
+ 
+Laverne_Cox/f5a3PcAe_II_0000001 55.2 82.8 
+Laverne_Cox/f5a3PcAe_II_0000002 87.4 110.2 
+Laverne_Cox/f5a3PcAe_II_0000003 167.2 186.7 
+Laverne_Cox/f5a3PcAe_II_0000004 187.6 191.9 
+Laverne_Cox/f5a3PcAe_II_0000005 299.6 304.4 
+Laverne_Cox/f5a3PcAe_II_0000006 299.4 305.5 

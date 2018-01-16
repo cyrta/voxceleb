@@ -1,0 +1,17 @@
+POI: 			John_Gallagher_Jr. 
+Youtube ID: 	zlKwGo2nNzc 
+Video length: 	200.8 sec 
+Set (V): 		dev 
+ 
+John_Gallagher_Jr./zlKwGo2nNzc_0000001 13.3 20.0 
+John_Gallagher_Jr./zlKwGo2nNzc_0000002 20.1 36.8 
+John_Gallagher_Jr./zlKwGo2nNzc_0000003 37.3 43.0 
+John_Gallagher_Jr./zlKwGo2nNzc_0000004 56.6 76.6 
+John_Gallagher_Jr./zlKwGo2nNzc_0000005 77.6 83.0 
+John_Gallagher_Jr./zlKwGo2nNzc_0000006 95.4 102.1 
+John_Gallagher_Jr./zlKwGo2nNzc_0000007 104.3 117.2 
+John_Gallagher_Jr./zlKwGo2nNzc_0000008 118.0 125.3 
+John_Gallagher_Jr./zlKwGo2nNzc_0000009 125.8 131.6 
+John_Gallagher_Jr./zlKwGo2nNzc_0000010 140.3 144.7 
+John_Gallagher_Jr./zlKwGo2nNzc_0000011 155.0 162.6 
+John_Gallagher_Jr./zlKwGo2nNzc_0000012 170.8 179.3 

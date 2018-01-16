@@ -1,0 +1,9 @@
+POI: 			Alan_Cumming 
+Youtube ID: 	4lBc102-Rko 
+Video length: 	279.8 sec 
+Set (V): 		dev 
+ 
+Alan_Cumming/4lBc102-Rko_0000001 85.0 90.7 
+Alan_Cumming/4lBc102-Rko_0000002 190.2 206.4 
+Alan_Cumming/4lBc102-Rko_0000003 220.7 224.7 
+Alan_Cumming/4lBc102-Rko_0000004 234.1 239.4 

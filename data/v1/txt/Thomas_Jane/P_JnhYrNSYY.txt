@@ -1,0 +1,10 @@
+POI: 			Thomas_Jane 
+Youtube ID: 	P_JnhYrNSYY 
+Video length: 	325.8 sec 
+Set (V): 		dev 
+ 
+Thomas_Jane/P_JnhYrNSYY_0000001 34.1 44.3 
+Thomas_Jane/P_JnhYrNSYY_0000002 124.7 129.8 
+Thomas_Jane/P_JnhYrNSYY_0000003 145.6 149.6 
+Thomas_Jane/P_JnhYrNSYY_0000004 170.9 176.0 
+Thomas_Jane/P_JnhYrNSYY_0000005 300.3 304.7 

@@ -1,0 +1,14 @@
+POI: 			Grant_Bowler 
+Youtube ID: 	3R7U1gb2Tk4 
+Video length: 	129.6 sec 
+Set (V): 		dev 
+ 
+Grant_Bowler/3R7U1gb2Tk4_0000001 12.8 24.2 
+Grant_Bowler/3R7U1gb2Tk4_0000002 29.9 38.2 
+Grant_Bowler/3R7U1gb2Tk4_0000003 40.8 49.5 
+Grant_Bowler/3R7U1gb2Tk4_0000004 70.8 83.8 
+Grant_Bowler/3R7U1gb2Tk4_0000005 86.2 94.2 
+Grant_Bowler/3R7U1gb2Tk4_0000006 37.2 49.4 
+Grant_Bowler/3R7U1gb2Tk4_0000007 53.6 58.3 
+Grant_Bowler/3R7U1gb2Tk4_0000008 58.6 65.8 
+Grant_Bowler/3R7U1gb2Tk4_0000009 102.6 124.0 

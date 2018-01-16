@@ -1,0 +1,11 @@
+POI: 			Patrick_Wilson 
+Youtube ID: 	0cUHtYjorpw 
+Video length: 	212.0 sec 
+Set (V): 		dev 
+ 
+Patrick_Wilson/0cUHtYjorpw_0000001 21.0 25.1 
+Patrick_Wilson/0cUHtYjorpw_0000002 59.4 63.6 
+Patrick_Wilson/0cUHtYjorpw_0000003 65.8 85.8 
+Patrick_Wilson/0cUHtYjorpw_0000004 86.0 95.8 
+Patrick_Wilson/0cUHtYjorpw_0000005 157.4 162.0 
+Patrick_Wilson/0cUHtYjorpw_0000006 171.1 179.1 

@@ -1,0 +1,10 @@
+POI: 			Katie_Aselton 
+Youtube ID: 	7iK-iPPL08w 
+Video length: 	282.6 sec 
+Set (V): 		dev 
+ 
+Katie_Aselton/7iK-iPPL08w_0000001 74.2 82.0 
+Katie_Aselton/7iK-iPPL08w_0000002 144.5 150.1 
+Katie_Aselton/7iK-iPPL08w_0000003 165.0 170.2 
+Katie_Aselton/7iK-iPPL08w_0000004 240.5 248.2 
+Katie_Aselton/7iK-iPPL08w_0000005 260.3 267.2 

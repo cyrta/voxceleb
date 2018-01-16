@@ -1,0 +1,32 @@
+POI: 			Danny_Pino 
+Youtube ID: 	eErQo6iViGU 
+Video length: 	346.4 sec 
+Set (V): 		dev 
+ 
+Danny_Pino/eErQo6iViGU_0000001 14.6 20.8 
+Danny_Pino/eErQo6iViGU_0000002 36.3 48.4 
+Danny_Pino/eErQo6iViGU_0000003 71.6 76.2 
+Danny_Pino/eErQo6iViGU_0000004 82.8 88.9 
+Danny_Pino/eErQo6iViGU_0000005 117.0 121.5 
+Danny_Pino/eErQo6iViGU_0000006 131.8 136.0 
+Danny_Pino/eErQo6iViGU_0000007 139.0 151.2 
+Danny_Pino/eErQo6iViGU_0000008 173.0 177.1 
+Danny_Pino/eErQo6iViGU_0000009 177.7 185.3 
+Danny_Pino/eErQo6iViGU_0000010 191.1 210.6 
+Danny_Pino/eErQo6iViGU_0000011 236.7 240.7 
+Danny_Pino/eErQo6iViGU_0000012 241.6 252.0 
+Danny_Pino/eErQo6iViGU_0000013 36.4 48.4 
+Danny_Pino/eErQo6iViGU_0000014 56.5 61.0 
+Danny_Pino/eErQo6iViGU_0000015 64.8 70.4 
+Danny_Pino/eErQo6iViGU_0000016 71.4 77.4 
+Danny_Pino/eErQo6iViGU_0000017 78.4 91.0 
+Danny_Pino/eErQo6iViGU_0000018 97.7 103.0 
+Danny_Pino/eErQo6iViGU_0000019 103.6 107.9 
+Danny_Pino/eErQo6iViGU_0000020 117.0 121.2 
+Danny_Pino/eErQo6iViGU_0000021 131.8 136.0 
+Danny_Pino/eErQo6iViGU_0000022 139.0 149.0 
+Danny_Pino/eErQo6iViGU_0000023 172.9 177.0 
+Danny_Pino/eErQo6iViGU_0000024 177.8 185.2 
+Danny_Pino/eErQo6iViGU_0000025 191.1 210.6 
+Danny_Pino/eErQo6iViGU_0000026 222.3 229.0 
+Danny_Pino/eErQo6iViGU_0000027 325.0 339.8 

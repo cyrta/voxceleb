@@ -1,0 +1,7 @@
+POI: 			Mario_Casas 
+Youtube ID: 	A8-uShr2gJc 
+Video length: 	187.9 sec 
+Set (V): 		dev 
+ 
+Mario_Casas/A8-uShr2gJc_0000001 139.8 144.2 
+Mario_Casas/A8-uShr2gJc_0000002 158.2 162.4 

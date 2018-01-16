@@ -1,0 +1,14 @@
+POI: 			Natalie_Martinez 
+Youtube ID: 	SKkkV5DqlAk 
+Video length: 	231.6 sec 
+Set (V): 		dev 
+ 
+Natalie_Martinez/SKkkV5DqlAk_0000001 23.0 51.8 
+Natalie_Martinez/SKkkV5DqlAk_0000002 52.7 57.8 
+Natalie_Martinez/SKkkV5DqlAk_0000003 65.7 92.0 
+Natalie_Martinez/SKkkV5DqlAk_0000004 104.9 123.4 
+Natalie_Martinez/SKkkV5DqlAk_0000005 139.6 161.5 
+Natalie_Martinez/SKkkV5DqlAk_0000006 161.7 165.9 
+Natalie_Martinez/SKkkV5DqlAk_0000007 169.0 175.1 
+Natalie_Martinez/SKkkV5DqlAk_0000008 185.8 192.8 
+Natalie_Martinez/SKkkV5DqlAk_0000009 210.2 215.4 

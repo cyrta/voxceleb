@@ -1,0 +1,9 @@
+POI: 			Rachel_McAdams 
+Youtube ID: 	FFWJ89X85A0 
+Video length: 	282.7 sec 
+Set (V): 		dev 
+ 
+Rachel_McAdams/FFWJ89X85A0_0000001 43.2 47.4 
+Rachel_McAdams/FFWJ89X85A0_0000002 122.7 127.8 
+Rachel_McAdams/FFWJ89X85A0_0000003 157.8 162.6 
+Rachel_McAdams/FFWJ89X85A0_0000004 227.5 232.3 

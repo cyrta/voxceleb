@@ -1,0 +1,9 @@
+POI: 			Tim_Gunn 
+Youtube ID: 	ZL7wvRSGYXI 
+Video length: 	220.3 sec 
+Set (V): 		dev 
+ 
+Tim_Gunn/ZL7wvRSGYXI_0000001 32.0 39.1 
+Tim_Gunn/ZL7wvRSGYXI_0000002 39.4 52.2 
+Tim_Gunn/ZL7wvRSGYXI_0000003 116.7 122.1 
+Tim_Gunn/ZL7wvRSGYXI_0000004 188.7 195.8 

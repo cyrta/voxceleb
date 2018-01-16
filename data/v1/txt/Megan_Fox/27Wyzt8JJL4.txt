@@ -1,0 +1,12 @@
+POI: 			Megan_Fox 
+Youtube ID: 	27Wyzt8JJL4 
+Video length: 	236.8 sec 
+Set (V): 		dev 
+ 
+Megan_Fox/27Wyzt8JJL4_0000001 35.6 42.1 
+Megan_Fox/27Wyzt8JJL4_0000002 83.4 90.8 
+Megan_Fox/27Wyzt8JJL4_0000003 99.8 108.5 
+Megan_Fox/27Wyzt8JJL4_0000004 125.6 129.6 
+Megan_Fox/27Wyzt8JJL4_0000005 139.4 149.8 
+Megan_Fox/27Wyzt8JJL4_0000006 172.6 177.8 
+Megan_Fox/27Wyzt8JJL4_0000007 217.2 223.2 

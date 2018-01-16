@@ -1,0 +1,19 @@
+POI: 			Nichelle_Nichols 
+Youtube ID: 	X2AX34Fs4wQ 
+Video length: 	252.5 sec 
+Set (V): 		dev 
+ 
+Nichelle_Nichols/X2AX34Fs4wQ_0000001 14.4 19.6 
+Nichelle_Nichols/X2AX34Fs4wQ_0000002 27.0 31.3 
+Nichelle_Nichols/X2AX34Fs4wQ_0000003 44.6 51.3 
+Nichelle_Nichols/X2AX34Fs4wQ_0000004 64.1 69.1 
+Nichelle_Nichols/X2AX34Fs4wQ_0000005 69.2 73.3 
+Nichelle_Nichols/X2AX34Fs4wQ_0000006 95.9 104.4 
+Nichelle_Nichols/X2AX34Fs4wQ_0000007 110.2 121.4 
+Nichelle_Nichols/X2AX34Fs4wQ_0000008 135.0 142.5 
+Nichelle_Nichols/X2AX34Fs4wQ_0000009 167.9 174.7 
+Nichelle_Nichols/X2AX34Fs4wQ_0000010 179.9 184.1 
+Nichelle_Nichols/X2AX34Fs4wQ_0000011 196.0 201.0 
+Nichelle_Nichols/X2AX34Fs4wQ_0000012 201.8 207.5 
+Nichelle_Nichols/X2AX34Fs4wQ_0000013 213.6 222.6 
+Nichelle_Nichols/X2AX34Fs4wQ_0000014 224.7 241.4 

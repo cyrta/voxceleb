@@ -1,0 +1,11 @@
+POI: 			Kendra_Wilkinson 
+Youtube ID: 	Qi-6GTqdBvA 
+Video length: 	340.5 sec 
+Set (V): 		dev 
+ 
+Kendra_Wilkinson/Qi-6GTqdBvA_0000001 91.6 97.8 
+Kendra_Wilkinson/Qi-6GTqdBvA_0000002 139.0 143.3 
+Kendra_Wilkinson/Qi-6GTqdBvA_0000003 154.6 168.0 
+Kendra_Wilkinson/Qi-6GTqdBvA_0000004 231.5 236.9 
+Kendra_Wilkinson/Qi-6GTqdBvA_0000005 243.8 269.3 
+Kendra_Wilkinson/Qi-6GTqdBvA_0000006 286.5 301.0 

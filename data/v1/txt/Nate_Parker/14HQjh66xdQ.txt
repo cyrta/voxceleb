@@ -1,0 +1,30 @@
+POI: 			Nate_Parker 
+Youtube ID: 	14HQjh66xdQ 
+Video length: 	658.0 sec 
+Set (V): 		dev 
+ 
+Nate_Parker/14HQjh66xdQ_0000001 23.4 30.8 
+Nate_Parker/14HQjh66xdQ_0000002 39.9 44.2 
+Nate_Parker/14HQjh66xdQ_0000003 61.3 66.6 
+Nate_Parker/14HQjh66xdQ_0000004 73.5 78.0 
+Nate_Parker/14HQjh66xdQ_0000005 88.3 93.1 
+Nate_Parker/14HQjh66xdQ_0000006 144.9 151.7 
+Nate_Parker/14HQjh66xdQ_0000007 161.3 165.8 
+Nate_Parker/14HQjh66xdQ_0000008 167.4 174.6 
+Nate_Parker/14HQjh66xdQ_0000009 175.5 180.6 
+Nate_Parker/14HQjh66xdQ_0000010 264.1 269.2 
+Nate_Parker/14HQjh66xdQ_0000011 282.2 287.4 
+Nate_Parker/14HQjh66xdQ_0000012 310.8 319.6 
+Nate_Parker/14HQjh66xdQ_0000013 321.8 331.8 
+Nate_Parker/14HQjh66xdQ_0000014 355.2 359.4 
+Nate_Parker/14HQjh66xdQ_0000015 367.6 372.5 
+Nate_Parker/14HQjh66xdQ_0000016 375.7 384.2 
+Nate_Parker/14HQjh66xdQ_0000017 398.8 405.8 
+Nate_Parker/14HQjh66xdQ_0000018 424.4 428.6 
+Nate_Parker/14HQjh66xdQ_0000019 434.9 440.0 
+Nate_Parker/14HQjh66xdQ_0000020 480.6 486.8 
+Nate_Parker/14HQjh66xdQ_0000021 491.2 496.3 
+Nate_Parker/14HQjh66xdQ_0000022 554.1 560.0 
+Nate_Parker/14HQjh66xdQ_0000023 591.4 599.6 
+Nate_Parker/14HQjh66xdQ_0000024 605.6 609.8 
+Nate_Parker/14HQjh66xdQ_0000025 612.3 617.8 

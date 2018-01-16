@@ -1,0 +1,8 @@
+POI: 			Donald_Glover 
+Youtube ID: 	BEytPYseCjg 
+Video length: 	412.0 sec 
+Set (V): 		dev 
+ 
+Donald_Glover/BEytPYseCjg_0000001 128.9 134.0 
+Donald_Glover/BEytPYseCjg_0000002 161.2 170.8 
+Donald_Glover/BEytPYseCjg_0000003 345.5 349.8 

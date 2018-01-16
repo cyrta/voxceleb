@@ -1,0 +1,8 @@
+POI: 			Will_Arnett 
+Youtube ID: 	mLD7wB732s0 
+Video length: 	257.2 sec 
+Set (V): 		dev 
+ 
+Will_Arnett/mLD7wB732s0_0000001 92.6 96.9 
+Will_Arnett/mLD7wB732s0_0000002 182.5 187.0 
+Will_Arnett/mLD7wB732s0_0000003 217.8 227.6 

@@ -1,0 +1,25 @@
+POI: 			Paddy_Considine 
+Youtube ID: 	eTefQFzjEUw 
+Video length: 	490.5 sec 
+Set (V): 		dev 
+ 
+Paddy_Considine/eTefQFzjEUw_0000001 12.4 22.0 
+Paddy_Considine/eTefQFzjEUw_0000002 24.6 36.3 
+Paddy_Considine/eTefQFzjEUw_0000003 38.4 47.9 
+Paddy_Considine/eTefQFzjEUw_0000004 105.2 112.3 
+Paddy_Considine/eTefQFzjEUw_0000005 130.1 135.6 
+Paddy_Considine/eTefQFzjEUw_0000006 143.0 151.6 
+Paddy_Considine/eTefQFzjEUw_0000007 163.1 173.6 
+Paddy_Considine/eTefQFzjEUw_0000008 180.8 184.8 
+Paddy_Considine/eTefQFzjEUw_0000009 187.4 194.2 
+Paddy_Considine/eTefQFzjEUw_0000010 213.0 220.1 
+Paddy_Considine/eTefQFzjEUw_0000011 222.4 233.3 
+Paddy_Considine/eTefQFzjEUw_0000012 233.7 238.3 
+Paddy_Considine/eTefQFzjEUw_0000013 245.4 263.9 
+Paddy_Considine/eTefQFzjEUw_0000014 265.0 271.6 
+Paddy_Considine/eTefQFzjEUw_0000015 283.4 291.1 
+Paddy_Considine/eTefQFzjEUw_0000016 293.3 297.4 
+Paddy_Considine/eTefQFzjEUw_0000017 444.3 448.4 
+Paddy_Considine/eTefQFzjEUw_0000018 448.6 455.0 
+Paddy_Considine/eTefQFzjEUw_0000019 464.5 469.8 
+Paddy_Considine/eTefQFzjEUw_0000020 476.6 481.8 

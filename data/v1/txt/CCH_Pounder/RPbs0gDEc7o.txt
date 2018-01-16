@@ -1,0 +1,7 @@
+POI: 			CCH_Pounder 
+Youtube ID: 	RPbs0gDEc7o 
+Video length: 	635.6 sec 
+Set (V): 		dev 
+ 
+CCH_Pounder/RPbs0gDEc7o_0000001 364.7 369.6 
+CCH_Pounder/RPbs0gDEc7o_0000002 380.2 384.4 

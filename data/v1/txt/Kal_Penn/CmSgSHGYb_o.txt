@@ -1,0 +1,7 @@
+POI: 			Kal_Penn 
+Youtube ID: 	CmSgSHGYb_o 
+Video length: 	247.9 sec 
+Set (V): 		dev 
+ 
+Kal_Penn/CmSgSHGYb_o_0000001 131.6 136.2 
+Kal_Penn/CmSgSHGYb_o_0000002 141.3 145.2 

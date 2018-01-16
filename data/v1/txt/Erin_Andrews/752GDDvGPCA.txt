@@ -1,0 +1,7 @@
+POI: 			Erin_Andrews 
+Youtube ID: 	752GDDvGPCA 
+Video length: 	122.5 sec 
+Set (V): 		test 
+ 
+Erin_Andrews/752GDDvGPCA_0000001 06.5 30.6 
+Erin_Andrews/752GDDvGPCA_0000002 90.4 95.5 

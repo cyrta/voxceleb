@@ -1,0 +1,20 @@
+POI: 			Adam_Driver 
+Youtube ID: 	nCwwVjPNloY 
+Video length: 	1082.3 sec 
+Set (V): 		dev 
+ 
+Adam_Driver/nCwwVjPNloY_0000001 24.2 32.4 
+Adam_Driver/nCwwVjPNloY_0000002 37.9 45.0 
+Adam_Driver/nCwwVjPNloY_0000003 73.8 82.9 
+Adam_Driver/nCwwVjPNloY_0000004 85.1 91.4 
+Adam_Driver/nCwwVjPNloY_0000005 179.4 184.6 
+Adam_Driver/nCwwVjPNloY_0000006 206.5 225.1 
+Adam_Driver/nCwwVjPNloY_0000007 243.0 247.6 
+Adam_Driver/nCwwVjPNloY_0000008 253.7 260.8 
+Adam_Driver/nCwwVjPNloY_0000009 283.3 293.3 
+Adam_Driver/nCwwVjPNloY_0000010 300.5 308.6 
+Adam_Driver/nCwwVjPNloY_0000011 320.4 333.0 
+Adam_Driver/nCwwVjPNloY_0000012 343.2 348.8 
+Adam_Driver/nCwwVjPNloY_0000013 422.8 429.0 
+Adam_Driver/nCwwVjPNloY_0000014 439.1 445.6 
+Adam_Driver/nCwwVjPNloY_0000015 465.8 475.2 

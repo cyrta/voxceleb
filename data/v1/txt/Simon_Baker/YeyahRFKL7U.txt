@@ -1,0 +1,12 @@
+POI: 			Simon_Baker 
+Youtube ID: 	YeyahRFKL7U 
+Video length: 	753.0 sec 
+Set (V): 		dev 
+ 
+Simon_Baker/YeyahRFKL7U_0000001 146.5 153.8 
+Simon_Baker/YeyahRFKL7U_0000002 220.2 226.8 
+Simon_Baker/YeyahRFKL7U_0000003 254.9 259.0 
+Simon_Baker/YeyahRFKL7U_0000004 263.7 268.1 
+Simon_Baker/YeyahRFKL7U_0000005 377.0 381.5 
+Simon_Baker/YeyahRFKL7U_0000006 582.9 586.8 
+Simon_Baker/YeyahRFKL7U_0000007 629.5 633.6 

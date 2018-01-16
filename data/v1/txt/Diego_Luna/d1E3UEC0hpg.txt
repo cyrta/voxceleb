@@ -1,0 +1,15 @@
+POI: 			Diego_Luna 
+Youtube ID: 	d1E3UEC0hpg 
+Video length: 	259.0 sec 
+Set (V): 		dev 
+ 
+Diego_Luna/d1E3UEC0hpg_0000001 00.9 05.4 
+Diego_Luna/d1E3UEC0hpg_0000002 15.6 21.7 
+Diego_Luna/d1E3UEC0hpg_0000003 67.0 71.5 
+Diego_Luna/d1E3UEC0hpg_0000004 122.9 130.8 
+Diego_Luna/d1E3UEC0hpg_0000005 147.6 151.9 
+Diego_Luna/d1E3UEC0hpg_0000006 184.8 189.4 
+Diego_Luna/d1E3UEC0hpg_0000007 184.8 192.8 
+Diego_Luna/d1E3UEC0hpg_0000008 218.0 223.4 
+Diego_Luna/d1E3UEC0hpg_0000009 224.8 230.5 
+Diego_Luna/d1E3UEC0hpg_0000010 241.3 246.9 

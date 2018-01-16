@@ -1,0 +1,9 @@
+POI: 			Jaime_Winstone 
+Youtube ID: 	ewwS4FafxYM 
+Video length: 	376.8 sec 
+Set (V): 		dev 
+ 
+Jaime_Winstone/ewwS4FafxYM_0000001 24.5 30.9 
+Jaime_Winstone/ewwS4FafxYM_0000002 31.8 42.2 
+Jaime_Winstone/ewwS4FafxYM_0000003 42.4 48.4 
+Jaime_Winstone/ewwS4FafxYM_0000004 102.3 121.6 

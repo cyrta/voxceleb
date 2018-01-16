@@ -1,0 +1,8 @@
+POI: 			Sam_Heughan 
+Youtube ID: 	6qmmQ93AtI8 
+Video length: 	408.9 sec 
+Set (V): 		dev 
+ 
+Sam_Heughan/6qmmQ93AtI8_0000001 62.4 68.9 
+Sam_Heughan/6qmmQ93AtI8_0000002 160.3 164.3 
+Sam_Heughan/6qmmQ93AtI8_0000003 338.2 348.2 

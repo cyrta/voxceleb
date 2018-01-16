@@ -1,0 +1,8 @@
+POI: 			Jack_Lemmon 
+Youtube ID: 	k5qX_06p6TI 
+Video length: 	466.9 sec 
+Set (V): 		dev 
+ 
+Jack_Lemmon/k5qX_06p6TI_0000001 441.9 448.9 
+Jack_Lemmon/k5qX_06p6TI_0000002 449.2 454.4 
+Jack_Lemmon/k5qX_06p6TI_0000003 456.7 462.1 

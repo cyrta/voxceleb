@@ -1,0 +1,10 @@
+POI: 			Phyllis_Diller 
+Youtube ID: 	CXnuFo9mEtw 
+Video length: 	588.8 sec 
+Set (V): 		dev 
+ 
+Phyllis_Diller/CXnuFo9mEtw_0000001 17.5 21.9 
+Phyllis_Diller/CXnuFo9mEtw_0000002 140.8 149.4 
+Phyllis_Diller/CXnuFo9mEtw_0000003 485.9 491.8 
+Phyllis_Diller/CXnuFo9mEtw_0000004 527.6 538.1 
+Phyllis_Diller/CXnuFo9mEtw_0000005 540.1 544.8 

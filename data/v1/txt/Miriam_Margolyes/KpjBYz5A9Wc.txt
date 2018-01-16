@@ -1,0 +1,25 @@
+POI: 			Miriam_Margolyes 
+Youtube ID: 	KpjBYz5A9Wc 
+Video length: 	243.6 sec 
+Set (V): 		dev 
+ 
+Miriam_Margolyes/KpjBYz5A9Wc_0000001 08.8 25.2 
+Miriam_Margolyes/KpjBYz5A9Wc_0000002 25.6 37.1 
+Miriam_Margolyes/KpjBYz5A9Wc_0000003 39.2 47.3 
+Miriam_Margolyes/KpjBYz5A9Wc_0000004 47.5 62.3 
+Miriam_Margolyes/KpjBYz5A9Wc_0000005 68.4 78.3 
+Miriam_Margolyes/KpjBYz5A9Wc_0000006 91.2 95.2 
+Miriam_Margolyes/KpjBYz5A9Wc_0000007 99.7 103.9 
+Miriam_Margolyes/KpjBYz5A9Wc_0000008 105.0 112.8 
+Miriam_Margolyes/KpjBYz5A9Wc_0000009 113.0 119.8 
+Miriam_Margolyes/KpjBYz5A9Wc_0000010 119.9 124.2 
+Miriam_Margolyes/KpjBYz5A9Wc_0000011 130.1 137.5 
+Miriam_Margolyes/KpjBYz5A9Wc_0000012 137.6 144.3 
+Miriam_Margolyes/KpjBYz5A9Wc_0000013 157.2 162.4 
+Miriam_Margolyes/KpjBYz5A9Wc_0000014 167.4 174.6 
+Miriam_Margolyes/KpjBYz5A9Wc_0000015 184.7 189.4 
+Miriam_Margolyes/KpjBYz5A9Wc_0000016 191.8 199.1 
+Miriam_Margolyes/KpjBYz5A9Wc_0000017 199.2 204.5 
+Miriam_Margolyes/KpjBYz5A9Wc_0000018 209.9 234.5 
+Miriam_Margolyes/KpjBYz5A9Wc_0000019 221.9 234.5 
+Miriam_Margolyes/KpjBYz5A9Wc_0000020 237.2 242.2 

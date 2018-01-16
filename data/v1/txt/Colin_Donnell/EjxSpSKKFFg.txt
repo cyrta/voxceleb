@@ -1,0 +1,8 @@
+POI: 			Colin_Donnell 
+Youtube ID: 	EjxSpSKKFFg 
+Video length: 	276.0 sec 
+Set (V): 		dev 
+ 
+Colin_Donnell/EjxSpSKKFFg_0000001 57.2 63.0 
+Colin_Donnell/EjxSpSKKFFg_0000002 211.0 216.0 
+Colin_Donnell/EjxSpSKKFFg_0000003 210.4 215.8 

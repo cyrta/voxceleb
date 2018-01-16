@@ -1,0 +1,10 @@
+POI: 			Charice 
+Youtube ID: 	dZGwAFXVy5g 
+Video length: 	293.1 sec 
+Set (V): 		dev 
+ 
+Charice/dZGwAFXVy5g_0000001 21.0 26.4 
+Charice/dZGwAFXVy5g_0000002 143.5 158.8 
+Charice/dZGwAFXVy5g_0000003 196.8 200.8 
+Charice/dZGwAFXVy5g_0000004 202.1 209.1 
+Charice/dZGwAFXVy5g_0000005 212.5 216.6 

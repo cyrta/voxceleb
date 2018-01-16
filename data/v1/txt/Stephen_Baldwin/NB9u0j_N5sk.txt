@@ -1,0 +1,10 @@
+POI: 			Stephen_Baldwin 
+Youtube ID: 	NB9u0j_N5sk 
+Video length: 	198.0 sec 
+Set (V): 		dev 
+ 
+Stephen_Baldwin/NB9u0j_N5sk_0000001 22.6 32.2 
+Stephen_Baldwin/NB9u0j_N5sk_0000002 35.2 49.0 
+Stephen_Baldwin/NB9u0j_N5sk_0000003 50.0 54.9 
+Stephen_Baldwin/NB9u0j_N5sk_0000004 55.9 59.9 
+Stephen_Baldwin/NB9u0j_N5sk_0000005 134.1 151.8 

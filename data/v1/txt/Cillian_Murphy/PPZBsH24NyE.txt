@@ -1,0 +1,21 @@
+POI: 			Cillian_Murphy 
+Youtube ID: 	PPZBsH24NyE 
+Video length: 	343.4 sec 
+Set (V): 		dev 
+ 
+Cillian_Murphy/PPZBsH24NyE_0000001 71.2 82.3 
+Cillian_Murphy/PPZBsH24NyE_0000002 93.0 97.4 
+Cillian_Murphy/PPZBsH24NyE_0000003 117.6 126.8 
+Cillian_Murphy/PPZBsH24NyE_0000004 158.8 164.7 
+Cillian_Murphy/PPZBsH24NyE_0000005 184.9 189.9 
+Cillian_Murphy/PPZBsH24NyE_0000006 190.6 195.7 
+Cillian_Murphy/PPZBsH24NyE_0000007 199.1 203.8 
+Cillian_Murphy/PPZBsH24NyE_0000008 206.2 211.0 
+Cillian_Murphy/PPZBsH24NyE_0000009 213.0 218.6 
+Cillian_Murphy/PPZBsH24NyE_0000010 218.8 231.2 
+Cillian_Murphy/PPZBsH24NyE_0000011 244.7 251.8 
+Cillian_Murphy/PPZBsH24NyE_0000012 269.6 281.3 
+Cillian_Murphy/PPZBsH24NyE_0000013 282.2 294.5 
+Cillian_Murphy/PPZBsH24NyE_0000014 301.3 306.7 
+Cillian_Murphy/PPZBsH24NyE_0000015 315.6 321.6 
+Cillian_Murphy/PPZBsH24NyE_0000016 322.7 327.9 

@@ -1,0 +1,12 @@
+POI: 			Rene_Auberjonois 
+Youtube ID: 	P8O80I9OgR4 
+Video length: 	200.4 sec 
+Set (V): 		dev 
+ 
+Rene_Auberjonois/P8O80I9OgR4_0000001 16.8 20.9 
+Rene_Auberjonois/P8O80I9OgR4_0000002 63.1 67.2 
+Rene_Auberjonois/P8O80I9OgR4_0000003 68.1 73.2 
+Rene_Auberjonois/P8O80I9OgR4_0000004 100.0 104.5 
+Rene_Auberjonois/P8O80I9OgR4_0000005 116.1 123.2 
+Rene_Auberjonois/P8O80I9OgR4_0000006 155.8 162.6 
+Rene_Auberjonois/P8O80I9OgR4_0000007 176.2 181.8 

@@ -1,0 +1,8 @@
+POI: 			Julia_Louis-Dreyfus 
+Youtube ID: 	oPgdsm4tVDY 
+Video length: 	366.3 sec 
+Set (V): 		dev 
+ 
+Julia_Louis-Dreyfus/oPgdsm4tVDY_0000001 191.4 195.4 
+Julia_Louis-Dreyfus/oPgdsm4tVDY_0000002 199.2 203.3 
+Julia_Louis-Dreyfus/oPgdsm4tVDY_0000003 331.0 339.5 

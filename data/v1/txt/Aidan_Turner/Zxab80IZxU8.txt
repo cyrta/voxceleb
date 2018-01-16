@@ -1,0 +1,13 @@
+POI: 			Aidan_Turner 
+Youtube ID: 	Zxab80IZxU8 
+Video length: 	181.1 sec 
+Set (V): 		dev 
+ 
+Aidan_Turner/Zxab80IZxU8_0000001 21.4 30.4 
+Aidan_Turner/Zxab80IZxU8_0000002 30.6 42.7 
+Aidan_Turner/Zxab80IZxU8_0000003 65.6 80.8 
+Aidan_Turner/Zxab80IZxU8_0000004 83.9 92.2 
+Aidan_Turner/Zxab80IZxU8_0000005 112.5 117.2 
+Aidan_Turner/Zxab80IZxU8_0000006 126.7 134.5 
+Aidan_Turner/Zxab80IZxU8_0000007 136.8 150.0 
+Aidan_Turner/Zxab80IZxU8_0000008 151.1 156.3 

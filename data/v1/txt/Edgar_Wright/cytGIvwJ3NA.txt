@@ -1,0 +1,10 @@
+POI: 			Edgar_Wright 
+Youtube ID: 	cytGIvwJ3NA 
+Video length: 	301.0 sec 
+Set (V): 		test 
+ 
+Edgar_Wright/cytGIvwJ3NA_0000001 56.0 63.1 
+Edgar_Wright/cytGIvwJ3NA_0000002 64.5 72.6 
+Edgar_Wright/cytGIvwJ3NA_0000003 76.7 92.4 
+Edgar_Wright/cytGIvwJ3NA_0000004 128.0 133.6 
+Edgar_Wright/cytGIvwJ3NA_0000005 234.1 240.9 

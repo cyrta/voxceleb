@@ -1,0 +1,26 @@
+POI: 			Dan_Aykroyd 
+Youtube ID: 	9cQ4yFinePo 
+Video length: 	691.5 sec 
+Set (V): 		dev 
+ 
+Dan_Aykroyd/9cQ4yFinePo_0000001 114.4 119.6 
+Dan_Aykroyd/9cQ4yFinePo_0000002 120.0 144.9 
+Dan_Aykroyd/9cQ4yFinePo_0000003 163.2 168.2 
+Dan_Aykroyd/9cQ4yFinePo_0000004 174.8 181.6 
+Dan_Aykroyd/9cQ4yFinePo_0000005 182.6 202.7 
+Dan_Aykroyd/9cQ4yFinePo_0000006 220.0 227.4 
+Dan_Aykroyd/9cQ4yFinePo_0000007 232.6 246.0 
+Dan_Aykroyd/9cQ4yFinePo_0000008 247.2 287.3 
+Dan_Aykroyd/9cQ4yFinePo_0000009 288.0 303.0 
+Dan_Aykroyd/9cQ4yFinePo_0000010 289.1 303.5 
+Dan_Aykroyd/9cQ4yFinePo_0000011 317.7 323.9 
+Dan_Aykroyd/9cQ4yFinePo_0000012 350.1 360.1 
+Dan_Aykroyd/9cQ4yFinePo_0000013 362.0 367.4 
+Dan_Aykroyd/9cQ4yFinePo_0000014 367.6 371.8 
+Dan_Aykroyd/9cQ4yFinePo_0000015 380.2 388.8 
+Dan_Aykroyd/9cQ4yFinePo_0000016 390.5 394.9 
+Dan_Aykroyd/9cQ4yFinePo_0000017 400.1 411.3 
+Dan_Aykroyd/9cQ4yFinePo_0000018 567.1 581.0 
+Dan_Aykroyd/9cQ4yFinePo_0000019 582.2 586.9 
+Dan_Aykroyd/9cQ4yFinePo_0000020 618.6 624.6 
+Dan_Aykroyd/9cQ4yFinePo_0000021 654.4 659.1 

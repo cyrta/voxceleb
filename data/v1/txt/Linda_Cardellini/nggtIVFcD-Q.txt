@@ -1,0 +1,14 @@
+POI: 			Linda_Cardellini 
+Youtube ID: 	nggtIVFcD-Q 
+Video length: 	507.7 sec 
+Set (V): 		dev 
+ 
+Linda_Cardellini/nggtIVFcD-Q_0000001 24.2 31.0 
+Linda_Cardellini/nggtIVFcD-Q_0000002 45.2 50.9 
+Linda_Cardellini/nggtIVFcD-Q_0000003 53.0 65.7 
+Linda_Cardellini/nggtIVFcD-Q_0000004 66.2 74.9 
+Linda_Cardellini/nggtIVFcD-Q_0000005 361.7 370.1 
+Linda_Cardellini/nggtIVFcD-Q_0000006 396.4 410.4 
+Linda_Cardellini/nggtIVFcD-Q_0000007 427.6 432.0 
+Linda_Cardellini/nggtIVFcD-Q_0000008 435.9 443.6 
+Linda_Cardellini/nggtIVFcD-Q_0000009 454.7 460.1 

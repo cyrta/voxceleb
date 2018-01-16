@@ -1,0 +1,12 @@
+POI: 			Mira_Furlan 
+Youtube ID: 	dUVhSs8GsZQ 
+Video length: 	401.2 sec 
+Set (V): 		dev 
+ 
+Mira_Furlan/dUVhSs8GsZQ_0000001 16.8 22.0 
+Mira_Furlan/dUVhSs8GsZQ_0000002 90.4 94.9 
+Mira_Furlan/dUVhSs8GsZQ_0000003 112.4 117.9 
+Mira_Furlan/dUVhSs8GsZQ_0000004 246.7 250.8 
+Mira_Furlan/dUVhSs8GsZQ_0000005 251.1 255.3 
+Mira_Furlan/dUVhSs8GsZQ_0000006 338.7 349.8 
+Mira_Furlan/dUVhSs8GsZQ_0000007 370.5 375.1 

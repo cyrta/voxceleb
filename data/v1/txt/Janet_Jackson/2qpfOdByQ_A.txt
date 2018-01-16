@@ -1,0 +1,7 @@
+POI: 			Janet_Jackson 
+Youtube ID: 	2qpfOdByQ_A 
+Video length: 	640.4 sec 
+Set (V): 		dev 
+ 
+Janet_Jackson/2qpfOdByQ_A_0000001 99.8 105.8 
+Janet_Jackson/2qpfOdByQ_A_0000002 149.8 156.0 

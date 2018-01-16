@@ -1,0 +1,8 @@
+POI: 			Riz_Ahmed 
+Youtube ID: 	I37gqDzNzj0 
+Video length: 	212.1 sec 
+Set (V): 		dev 
+ 
+Riz_Ahmed/I37gqDzNzj0_0000001 31.1 38.8 
+Riz_Ahmed/I37gqDzNzj0_0000002 51.8 56.0 
+Riz_Ahmed/I37gqDzNzj0_0000003 89.9 96.6 

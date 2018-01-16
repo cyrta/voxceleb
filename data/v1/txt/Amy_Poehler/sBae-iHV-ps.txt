@@ -1,0 +1,22 @@
+POI: 			Amy_Poehler 
+Youtube ID: 	sBae-iHV-ps 
+Video length: 	301.8 sec 
+Set (V): 		dev 
+ 
+Amy_Poehler/sBae-iHV-ps_0000001 03.0 13.0 
+Amy_Poehler/sBae-iHV-ps_0000002 14.6 38.5 
+Amy_Poehler/sBae-iHV-ps_0000003 41.6 61.5 
+Amy_Poehler/sBae-iHV-ps_0000004 62.6 68.4 
+Amy_Poehler/sBae-iHV-ps_0000005 68.7 73.6 
+Amy_Poehler/sBae-iHV-ps_0000006 75.2 80.3 
+Amy_Poehler/sBae-iHV-ps_0000007 85.5 91.5 
+Amy_Poehler/sBae-iHV-ps_0000008 104.6 117.3 
+Amy_Poehler/sBae-iHV-ps_0000009 174.8 181.0 
+Amy_Poehler/sBae-iHV-ps_0000010 181.9 191.3 
+Amy_Poehler/sBae-iHV-ps_0000011 212.1 216.4 
+Amy_Poehler/sBae-iHV-ps_0000012 217.9 226.1 
+Amy_Poehler/sBae-iHV-ps_0000013 236.2 242.0 
+Amy_Poehler/sBae-iHV-ps_0000014 244.0 255.9 
+Amy_Poehler/sBae-iHV-ps_0000015 268.2 279.8 
+Amy_Poehler/sBae-iHV-ps_0000016 280.9 285.6 
+Amy_Poehler/sBae-iHV-ps_0000017 287.7 295.6 

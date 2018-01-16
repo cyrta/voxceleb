@@ -1,0 +1,10 @@
+POI: 			MyAnna_Buring 
+Youtube ID: 	S7mvfCNp5N4 
+Video length: 	170.2 sec 
+Set (V): 		dev 
+ 
+MyAnna_Buring/S7mvfCNp5N4_0000001 30.3 34.8 
+MyAnna_Buring/S7mvfCNp5N4_0000002 49.6 63.1 
+MyAnna_Buring/S7mvfCNp5N4_0000003 85.3 89.6 
+MyAnna_Buring/S7mvfCNp5N4_0000004 93.2 100.6 
+MyAnna_Buring/S7mvfCNp5N4_0000005 115.6 120.8 

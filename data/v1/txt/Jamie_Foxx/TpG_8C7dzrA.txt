@@ -1,0 +1,9 @@
+POI: 			Jamie_Foxx 
+Youtube ID: 	TpG_8C7dzrA 
+Video length: 	687.3 sec 
+Set (V): 		dev 
+ 
+Jamie_Foxx/TpG_8C7dzrA_0000001 422.6 429.2 
+Jamie_Foxx/TpG_8C7dzrA_0000002 549.2 553.6 
+Jamie_Foxx/TpG_8C7dzrA_0000003 605.9 611.0 
+Jamie_Foxx/TpG_8C7dzrA_0000004 612.0 616.2 

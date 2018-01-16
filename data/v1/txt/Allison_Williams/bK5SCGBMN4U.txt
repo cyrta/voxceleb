@@ -1,0 +1,10 @@
+POI: 			Allison_Williams 
+Youtube ID: 	bK5SCGBMN4U 
+Video length: 	107.8 sec 
+Set (V): 		dev 
+ 
+Allison_Williams/bK5SCGBMN4U_0000001 02.2 08.4 
+Allison_Williams/bK5SCGBMN4U_0000002 10.7 15.4 
+Allison_Williams/bK5SCGBMN4U_0000003 16.4 22.3 
+Allison_Williams/bK5SCGBMN4U_0000004 29.1 33.8 
+Allison_Williams/bK5SCGBMN4U_0000005 34.1 38.4 

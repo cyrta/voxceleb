@@ -1,0 +1,8 @@
+POI: 			Jim_Jefferies 
+Youtube ID: 	iGYEBATkTUs 
+Video length: 	304.8 sec 
+Set (V): 		dev 
+ 
+Jim_Jefferies/iGYEBATkTUs_0000001 34.2 40.7 
+Jim_Jefferies/iGYEBATkTUs_0000002 41.0 47.6 
+Jim_Jefferies/iGYEBATkTUs_0000003 159.6 166.2 

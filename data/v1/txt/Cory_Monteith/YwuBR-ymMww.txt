@@ -1,0 +1,7 @@
+POI: 			Cory_Monteith 
+Youtube ID: 	YwuBR-ymMww 
+Video length: 	82.4 sec 
+Set (V): 		dev 
+ 
+Cory_Monteith/YwuBR-ymMww_0000001 35.0 57.7 
+Cory_Monteith/YwuBR-ymMww_0000002 65.6 76.8 

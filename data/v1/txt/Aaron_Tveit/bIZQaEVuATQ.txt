@@ -1,0 +1,21 @@
+POI: 			Aaron_Tveit 
+Youtube ID: 	bIZQaEVuATQ 
+Video length: 	399.8 sec 
+Set (V): 		dev 
+ 
+Aaron_Tveit/bIZQaEVuATQ_0000001 42.0 46.9 
+Aaron_Tveit/bIZQaEVuATQ_0000002 48.9 59.0 
+Aaron_Tveit/bIZQaEVuATQ_0000003 66.0 73.8 
+Aaron_Tveit/bIZQaEVuATQ_0000004 87.5 94.7 
+Aaron_Tveit/bIZQaEVuATQ_0000005 132.5 140.6 
+Aaron_Tveit/bIZQaEVuATQ_0000006 153.8 159.8 
+Aaron_Tveit/bIZQaEVuATQ_0000007 182.4 188.2 
+Aaron_Tveit/bIZQaEVuATQ_0000008 194.3 200.8 
+Aaron_Tveit/bIZQaEVuATQ_0000009 208.7 214.3 
+Aaron_Tveit/bIZQaEVuATQ_0000010 272.0 278.4 
+Aaron_Tveit/bIZQaEVuATQ_0000011 280.4 285.0 
+Aaron_Tveit/bIZQaEVuATQ_0000012 292.5 296.7 
+Aaron_Tveit/bIZQaEVuATQ_0000013 318.1 323.2 
+Aaron_Tveit/bIZQaEVuATQ_0000014 325.4 335.4 
+Aaron_Tveit/bIZQaEVuATQ_0000015 351.8 363.4 
+Aaron_Tveit/bIZQaEVuATQ_0000016 374.3 378.8 

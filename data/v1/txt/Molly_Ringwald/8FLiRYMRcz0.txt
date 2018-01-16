@@ -1,0 +1,10 @@
+POI: 			Molly_Ringwald 
+Youtube ID: 	8FLiRYMRcz0 
+Video length: 	311.8 sec 
+Set (V): 		dev 
+ 
+Molly_Ringwald/8FLiRYMRcz0_0000001 116.3 121.9 
+Molly_Ringwald/8FLiRYMRcz0_0000002 158.6 165.9 
+Molly_Ringwald/8FLiRYMRcz0_0000003 184.8 193.8 
+Molly_Ringwald/8FLiRYMRcz0_0000004 206.1 210.4 
+Molly_Ringwald/8FLiRYMRcz0_0000005 227.0 235.8 

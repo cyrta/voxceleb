@@ -1,0 +1,8 @@
+POI: 			Diane_Kruger 
+Youtube ID: 	5e994PbAWH8 
+Video length: 	851.2 sec 
+Set (V): 		dev 
+ 
+Diane_Kruger/5e994PbAWH8_0000001 79.0 84.5 
+Diane_Kruger/5e994PbAWH8_0000002 286.3 290.4 
+Diane_Kruger/5e994PbAWH8_0000003 683.4 687.6 

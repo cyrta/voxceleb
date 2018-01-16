@@ -1,0 +1,9 @@
+POI: 			Phyllis_Diller 
+Youtube ID: 	Q0CtElsH1AU 
+Video length: 	182.5 sec 
+Set (V): 		dev 
+ 
+Phyllis_Diller/Q0CtElsH1AU_0000001 120.8 125.6 
+Phyllis_Diller/Q0CtElsH1AU_0000002 130.1 135.2 
+Phyllis_Diller/Q0CtElsH1AU_0000003 135.5 140.0 
+Phyllis_Diller/Q0CtElsH1AU_0000004 150.1 162.9 

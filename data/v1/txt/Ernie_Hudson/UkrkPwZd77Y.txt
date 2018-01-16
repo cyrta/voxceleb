@@ -1,0 +1,7 @@
+POI: 			Ernie_Hudson 
+Youtube ID: 	UkrkPwZd77Y 
+Video length: 	276.1 sec 
+Set (V): 		test 
+ 
+Ernie_Hudson/UkrkPwZd77Y_0000001 106.8 111.9 
+Ernie_Hudson/UkrkPwZd77Y_0000002 202.4 207.4 

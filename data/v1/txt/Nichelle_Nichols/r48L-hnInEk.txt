@@ -1,0 +1,11 @@
+POI: 			Nichelle_Nichols 
+Youtube ID: 	r48L-hnInEk 
+Video length: 	202.3 sec 
+Set (V): 		dev 
+ 
+Nichelle_Nichols/r48L-hnInEk_0000001 46.8 51.8 
+Nichelle_Nichols/r48L-hnInEk_0000002 68.6 74.7 
+Nichelle_Nichols/r48L-hnInEk_0000003 122.5 134.2 
+Nichelle_Nichols/r48L-hnInEk_0000004 138.8 145.8 
+Nichelle_Nichols/r48L-hnInEk_0000005 157.7 163.4 
+Nichelle_Nichols/r48L-hnInEk_0000006 183.4 188.6 

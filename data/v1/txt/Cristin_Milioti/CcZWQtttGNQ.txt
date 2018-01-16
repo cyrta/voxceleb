@@ -1,0 +1,13 @@
+POI: 			Cristin_Milioti 
+Youtube ID: 	CcZWQtttGNQ 
+Video length: 	876.6 sec 
+Set (V): 		dev 
+ 
+Cristin_Milioti/CcZWQtttGNQ_0000001 124.2 128.7 
+Cristin_Milioti/CcZWQtttGNQ_0000002 205.3 210.9 
+Cristin_Milioti/CcZWQtttGNQ_0000003 379.9 388.2 
+Cristin_Milioti/CcZWQtttGNQ_0000004 472.6 484.7 
+Cristin_Milioti/CcZWQtttGNQ_0000005 487.3 491.8 
+Cristin_Milioti/CcZWQtttGNQ_0000006 582.8 589.5 
+Cristin_Milioti/CcZWQtttGNQ_0000007 589.8 595.3 
+Cristin_Milioti/CcZWQtttGNQ_0000008 657.0 667.8 

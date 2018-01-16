@@ -1,0 +1,9 @@
+POI: 			Aneurin_Barnard 
+Youtube ID: 	sRkkYr-lFYk 
+Video length: 	350.5 sec 
+Set (V): 		dev 
+ 
+Aneurin_Barnard/sRkkYr-lFYk_0000001 154.0 164.0 
+Aneurin_Barnard/sRkkYr-lFYk_0000002 299.1 306.4 
+Aneurin_Barnard/sRkkYr-lFYk_0000003 309.3 315.2 
+Aneurin_Barnard/sRkkYr-lFYk_0000004 321.0 335.0 

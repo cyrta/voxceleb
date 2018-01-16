@@ -1,0 +1,10 @@
+POI: 			Kristen_Stewart 
+Youtube ID: 	VS2cCb2IqxI 
+Video length: 	608.9 sec 
+Set (V): 		dev 
+ 
+Kristen_Stewart/VS2cCb2IqxI_0000001 213.5 220.3 
+Kristen_Stewart/VS2cCb2IqxI_0000002 228.6 235.0 
+Kristen_Stewart/VS2cCb2IqxI_0000003 291.8 296.1 
+Kristen_Stewart/VS2cCb2IqxI_0000004 300.2 306.4 
+Kristen_Stewart/VS2cCb2IqxI_0000005 353.0 362.3 

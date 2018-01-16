@@ -1,0 +1,13 @@
+POI: 			Maya_Rudolph 
+Youtube ID: 	nIDxrxaeskE 
+Video length: 	198.8 sec 
+Set (V): 		dev 
+ 
+Maya_Rudolph/nIDxrxaeskE_0000001 36.7 40.8 
+Maya_Rudolph/nIDxrxaeskE_0000002 42.9 53.5 
+Maya_Rudolph/nIDxrxaeskE_0000003 75.2 81.4 
+Maya_Rudolph/nIDxrxaeskE_0000004 83.5 90.2 
+Maya_Rudolph/nIDxrxaeskE_0000005 106.9 111.3 
+Maya_Rudolph/nIDxrxaeskE_0000006 120.0 126.4 
+Maya_Rudolph/nIDxrxaeskE_0000007 147.3 162.2 
+Maya_Rudolph/nIDxrxaeskE_0000008 175.9 182.0 

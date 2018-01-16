@@ -1,0 +1,13 @@
+POI: 			Alan_Tudyk 
+Youtube ID: 	PpJ-V3Gyr1U 
+Video length: 	414.7 sec 
+Set (V): 		dev 
+ 
+Alan_Tudyk/PpJ-V3Gyr1U_0000001 130.3 135.7 
+Alan_Tudyk/PpJ-V3Gyr1U_0000002 161.3 166.8 
+Alan_Tudyk/PpJ-V3Gyr1U_0000003 170.6 184.6 
+Alan_Tudyk/PpJ-V3Gyr1U_0000004 208.7 213.1 
+Alan_Tudyk/PpJ-V3Gyr1U_0000005 294.3 298.7 
+Alan_Tudyk/PpJ-V3Gyr1U_0000006 353.5 358.6 
+Alan_Tudyk/PpJ-V3Gyr1U_0000007 370.2 376.2 
+Alan_Tudyk/PpJ-V3Gyr1U_0000008 382.8 389.8 

@@ -1,0 +1,8 @@
+POI: 			Drew_Carey 
+Youtube ID: 	y6Ua1mJphxs 
+Video length: 	195.2 sec 
+Set (V): 		dev 
+ 
+Drew_Carey/y6Ua1mJphxs_0000001 36.0 43.3 
+Drew_Carey/y6Ua1mJphxs_0000002 58.4 62.5 
+Drew_Carey/y6Ua1mJphxs_0000003 155.9 160.7 

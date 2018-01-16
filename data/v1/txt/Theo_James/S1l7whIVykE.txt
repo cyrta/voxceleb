@@ -1,0 +1,11 @@
+POI: 			Theo_James 
+Youtube ID: 	S1l7whIVykE 
+Video length: 	149.6 sec 
+Set (V): 		dev 
+ 
+Theo_James/S1l7whIVykE_0000001 84.0 89.0 
+Theo_James/S1l7whIVykE_0000002 99.7 104.9 
+Theo_James/S1l7whIVykE_0000003 105.8 111.6 
+Theo_James/S1l7whIVykE_0000004 116.0 122.6 
+Theo_James/S1l7whIVykE_0000005 125.9 131.7 
+Theo_James/S1l7whIVykE_0000006 136.3 140.7 

@@ -1,0 +1,9 @@
+POI: 			Carolyn_Hennesy 
+Youtube ID: 	QHAcqr3lB1o 
+Video length: 	105.1 sec 
+Set (V): 		dev 
+ 
+Carolyn_Hennesy/QHAcqr3lB1o_0000001 46.4 57.9 
+Carolyn_Hennesy/QHAcqr3lB1o_0000002 59.7 63.8 
+Carolyn_Hennesy/QHAcqr3lB1o_0000003 64.6 69.2 
+Carolyn_Hennesy/QHAcqr3lB1o_0000004 71.7 85.1 

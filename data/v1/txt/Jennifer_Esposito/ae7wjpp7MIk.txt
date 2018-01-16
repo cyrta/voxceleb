@@ -1,0 +1,16 @@
+POI: 			Jennifer_Esposito 
+Youtube ID: 	ae7wjpp7MIk 
+Video length: 	500.1 sec 
+Set (V): 		dev 
+ 
+Jennifer_Esposito/ae7wjpp7MIk_0000001 17.0 35.9 
+Jennifer_Esposito/ae7wjpp7MIk_0000002 75.6 90.9 
+Jennifer_Esposito/ae7wjpp7MIk_0000003 94.5 100.2 
+Jennifer_Esposito/ae7wjpp7MIk_0000004 104.6 115.0 
+Jennifer_Esposito/ae7wjpp7MIk_0000005 120.3 132.9 
+Jennifer_Esposito/ae7wjpp7MIk_0000006 164.0 168.4 
+Jennifer_Esposito/ae7wjpp7MIk_0000007 173.1 182.8 
+Jennifer_Esposito/ae7wjpp7MIk_0000008 195.8 202.0 
+Jennifer_Esposito/ae7wjpp7MIk_0000009 207.1 217.6 
+Jennifer_Esposito/ae7wjpp7MIk_0000010 465.0 471.7 
+Jennifer_Esposito/ae7wjpp7MIk_0000011 480.5 497.6 

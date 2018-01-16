@@ -1,0 +1,14 @@
+POI: 			Michael_Kelly 
+Youtube ID: 	JODjFJuaeIU 
+Video length: 	327.9 sec 
+Set (V): 		dev 
+ 
+Michael_Kelly/JODjFJuaeIU_0000001 67.5 72.1 
+Michael_Kelly/JODjFJuaeIU_0000002 87.3 92.5 
+Michael_Kelly/JODjFJuaeIU_0000003 107.4 111.5 
+Michael_Kelly/JODjFJuaeIU_0000004 134.1 142.2 
+Michael_Kelly/JODjFJuaeIU_0000005 154.1 158.4 
+Michael_Kelly/JODjFJuaeIU_0000006 193.5 199.0 
+Michael_Kelly/JODjFJuaeIU_0000007 260.1 269.0 
+Michael_Kelly/JODjFJuaeIU_0000008 278.9 283.2 
+Michael_Kelly/JODjFJuaeIU_0000009 285.2 289.3 

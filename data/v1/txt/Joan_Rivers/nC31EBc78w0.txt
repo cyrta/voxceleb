@@ -1,0 +1,16 @@
+POI: 			Joan_Rivers 
+Youtube ID: 	nC31EBc78w0 
+Video length: 	771.0 sec 
+Set (V): 		dev 
+ 
+Joan_Rivers/nC31EBc78w0_0000001 84.3 90.0 
+Joan_Rivers/nC31EBc78w0_0000002 157.1 161.8 
+Joan_Rivers/nC31EBc78w0_0000003 198.0 203.8 
+Joan_Rivers/nC31EBc78w0_0000004 215.3 226.3 
+Joan_Rivers/nC31EBc78w0_0000005 251.0 255.4 
+Joan_Rivers/nC31EBc78w0_0000006 295.6 300.0 
+Joan_Rivers/nC31EBc78w0_0000007 301.8 308.9 
+Joan_Rivers/nC31EBc78w0_0000008 319.9 326.1 
+Joan_Rivers/nC31EBc78w0_0000009 607.5 615.2 
+Joan_Rivers/nC31EBc78w0_0000010 693.8 699.0 
+Joan_Rivers/nC31EBc78w0_0000011 699.9 705.2 

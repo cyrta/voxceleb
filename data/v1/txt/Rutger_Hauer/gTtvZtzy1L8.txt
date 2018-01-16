@@ -1,0 +1,9 @@
+POI: 			Rutger_Hauer 
+Youtube ID: 	gTtvZtzy1L8 
+Video length: 	464.1 sec 
+Set (V): 		dev 
+ 
+Rutger_Hauer/gTtvZtzy1L8_0000001 144.3 148.6 
+Rutger_Hauer/gTtvZtzy1L8_0000002 150.3 157.3 
+Rutger_Hauer/gTtvZtzy1L8_0000003 174.9 178.9 
+Rutger_Hauer/gTtvZtzy1L8_0000004 282.8 287.9 

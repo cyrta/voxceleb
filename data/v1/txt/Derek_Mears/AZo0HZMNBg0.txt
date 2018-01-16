@@ -1,0 +1,11 @@
+POI: 			Derek_Mears 
+Youtube ID: 	AZo0HZMNBg0 
+Video length: 	320.0 sec 
+Set (V): 		dev 
+ 
+Derek_Mears/AZo0HZMNBg0_0000001 33.4 39.6 
+Derek_Mears/AZo0HZMNBg0_0000002 44.2 54.2 
+Derek_Mears/AZo0HZMNBg0_0000003 79.8 86.2 
+Derek_Mears/AZo0HZMNBg0_0000004 124.4 129.1 
+Derek_Mears/AZo0HZMNBg0_0000005 274.8 285.0 
+Derek_Mears/AZo0HZMNBg0_0000006 285.4 289.8 

@@ -1,0 +1,10 @@
+POI: 			Corey_Stoll 
+Youtube ID: 	QoDYpp9RueE 
+Video length: 	302.4 sec 
+Set (V): 		dev 
+ 
+Corey_Stoll/QoDYpp9RueE_0000001 219.1 226.8 
+Corey_Stoll/QoDYpp9RueE_0000002 232.1 236.8 
+Corey_Stoll/QoDYpp9RueE_0000003 247.0 251.9 
+Corey_Stoll/QoDYpp9RueE_0000004 264.4 268.8 
+Corey_Stoll/QoDYpp9RueE_0000005 273.9 278.1 

@@ -1,0 +1,26 @@
+POI: 			Janeane_Garofalo 
+Youtube ID: 	BFloL8dalJ8 
+Video length: 	1815.1 sec 
+Set (V): 		dev 
+ 
+Janeane_Garofalo/BFloL8dalJ8_0000001 364.8 370.0 
+Janeane_Garofalo/BFloL8dalJ8_0000002 422.1 428.7 
+Janeane_Garofalo/BFloL8dalJ8_0000003 502.8 507.6 
+Janeane_Garofalo/BFloL8dalJ8_0000004 570.2 576.3 
+Janeane_Garofalo/BFloL8dalJ8_0000005 583.8 598.6 
+Janeane_Garofalo/BFloL8dalJ8_0000006 683.6 688.8 
+Janeane_Garofalo/BFloL8dalJ8_0000007 721.7 728.7 
+Janeane_Garofalo/BFloL8dalJ8_0000008 810.2 822.9 
+Janeane_Garofalo/BFloL8dalJ8_0000009 823.9 829.1 
+Janeane_Garofalo/BFloL8dalJ8_0000010 868.5 873.1 
+Janeane_Garofalo/BFloL8dalJ8_0000011 918.4 922.6 
+Janeane_Garofalo/BFloL8dalJ8_0000012 934.4 938.5 
+Janeane_Garofalo/BFloL8dalJ8_0000013 1097.2 1103.9 
+Janeane_Garofalo/BFloL8dalJ8_0000014 1106.4 1113.7 
+Janeane_Garofalo/BFloL8dalJ8_0000015 1478.1 1488.6 
+Janeane_Garofalo/BFloL8dalJ8_0000016 1528.5 1532.5 
+Janeane_Garofalo/BFloL8dalJ8_0000017 1597.0 1601.3 
+Janeane_Garofalo/BFloL8dalJ8_0000018 1603.5 1609.3 
+Janeane_Garofalo/BFloL8dalJ8_0000019 1627.3 1632.1 
+Janeane_Garofalo/BFloL8dalJ8_0000020 1648.3 1653.7 
+Janeane_Garofalo/BFloL8dalJ8_0000021 1688.5 1692.5 

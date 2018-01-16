@@ -1,0 +1,8 @@
+POI: 			Mark_Ruffalo 
+Youtube ID: 	Ujp12PU8j58 
+Video length: 	323.0 sec 
+Set (V): 		dev 
+ 
+Mark_Ruffalo/Ujp12PU8j58_0000001 109.7 114.1 
+Mark_Ruffalo/Ujp12PU8j58_0000002 146.0 150.4 
+Mark_Ruffalo/Ujp12PU8j58_0000003 154.0 167.4 

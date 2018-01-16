@@ -1,0 +1,9 @@
+POI: 			Kim_Raver 
+Youtube ID: 	hpLL_N1mSSE 
+Video length: 	216.3 sec 
+Set (V): 		dev 
+ 
+Kim_Raver/hpLL_N1mSSE_0000001 57.6 68.9 
+Kim_Raver/hpLL_N1mSSE_0000002 70.0 87.4 
+Kim_Raver/hpLL_N1mSSE_0000003 178.7 184.2 
+Kim_Raver/hpLL_N1mSSE_0000004 184.4 197.2 

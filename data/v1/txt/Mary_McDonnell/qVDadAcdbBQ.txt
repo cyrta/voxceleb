@@ -1,0 +1,23 @@
+POI: 			Mary_McDonnell 
+Youtube ID: 	qVDadAcdbBQ 
+Video length: 	424.7 sec 
+Set (V): 		dev 
+ 
+Mary_McDonnell/qVDadAcdbBQ_0000001 36.0 50.1 
+Mary_McDonnell/qVDadAcdbBQ_0000002 54.3 70.0 
+Mary_McDonnell/qVDadAcdbBQ_0000003 71.3 80.3 
+Mary_McDonnell/qVDadAcdbBQ_0000004 93.8 122.7 
+Mary_McDonnell/qVDadAcdbBQ_0000005 134.4 142.2 
+Mary_McDonnell/qVDadAcdbBQ_0000006 143.3 151.2 
+Mary_McDonnell/qVDadAcdbBQ_0000007 165.6 175.8 
+Mary_McDonnell/qVDadAcdbBQ_0000008 190.5 202.8 
+Mary_McDonnell/qVDadAcdbBQ_0000009 203.9 221.1 
+Mary_McDonnell/qVDadAcdbBQ_0000010 230.1 234.4 
+Mary_McDonnell/qVDadAcdbBQ_0000011 238.5 248.7 
+Mary_McDonnell/qVDadAcdbBQ_0000012 271.6 290.5 
+Mary_McDonnell/qVDadAcdbBQ_0000013 291.2 297.3 
+Mary_McDonnell/qVDadAcdbBQ_0000014 279.5 288.4 
+Mary_McDonnell/qVDadAcdbBQ_0000015 299.8 305.7 
+Mary_McDonnell/qVDadAcdbBQ_0000016 325.1 329.7 
+Mary_McDonnell/qVDadAcdbBQ_0000017 331.0 352.4 
+Mary_McDonnell/qVDadAcdbBQ_0000018 364.6 392.5 

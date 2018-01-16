@@ -1,0 +1,9 @@
+POI: 			Daniel_Tosh 
+Youtube ID: 	pRquBwhfc7w 
+Video length: 	263.3 sec 
+Set (V): 		dev 
+ 
+Daniel_Tosh/pRquBwhfc7w_0000001 23.8 35.8 
+Daniel_Tosh/pRquBwhfc7w_0000002 65.3 69.6 
+Daniel_Tosh/pRquBwhfc7w_0000003 75.0 83.0 
+Daniel_Tosh/pRquBwhfc7w_0000004 89.1 112.1 

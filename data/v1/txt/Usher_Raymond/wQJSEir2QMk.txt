@@ -1,0 +1,12 @@
+POI: 			Usher_Raymond 
+Youtube ID: 	wQJSEir2QMk 
+Video length: 	424.4 sec 
+Set (V): 		dev 
+ 
+Usher_Raymond/wQJSEir2QMk_0000001 52.3 58.2 
+Usher_Raymond/wQJSEir2QMk_0000002 72.1 77.2 
+Usher_Raymond/wQJSEir2QMk_0000003 78.0 82.7 
+Usher_Raymond/wQJSEir2QMk_0000004 96.2 106.4 
+Usher_Raymond/wQJSEir2QMk_0000005 108.8 114.6 
+Usher_Raymond/wQJSEir2QMk_0000006 390.3 408.9 
+Usher_Raymond/wQJSEir2QMk_0000007 410.4 415.3 

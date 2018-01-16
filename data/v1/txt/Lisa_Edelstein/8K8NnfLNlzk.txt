@@ -1,0 +1,10 @@
+POI: 			Lisa_Edelstein 
+Youtube ID: 	8K8NnfLNlzk 
+Video length: 	274.8 sec 
+Set (V): 		dev 
+ 
+Lisa_Edelstein/8K8NnfLNlzk_0000001 183.7 193.1 
+Lisa_Edelstein/8K8NnfLNlzk_0000002 193.5 199.4 
+Lisa_Edelstein/8K8NnfLNlzk_0000003 199.8 207.8 
+Lisa_Edelstein/8K8NnfLNlzk_0000004 217.7 223.0 
+Lisa_Edelstein/8K8NnfLNlzk_0000005 228.7 241.4 

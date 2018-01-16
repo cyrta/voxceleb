@@ -1,0 +1,10 @@
+POI: 			Kiernan_Shipka 
+Youtube ID: 	fSyEkG9bi2Y 
+Video length: 	286.2 sec 
+Set (V): 		dev 
+ 
+Kiernan_Shipka/fSyEkG9bi2Y_0000001 54.1 61.3 
+Kiernan_Shipka/fSyEkG9bi2Y_0000002 68.1 72.8 
+Kiernan_Shipka/fSyEkG9bi2Y_0000003 85.0 93.3 
+Kiernan_Shipka/fSyEkG9bi2Y_0000004 117.0 124.4 
+Kiernan_Shipka/fSyEkG9bi2Y_0000005 126.8 134.4 

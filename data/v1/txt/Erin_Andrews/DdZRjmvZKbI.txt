@@ -1,0 +1,7 @@
+POI: 			Erin_Andrews 
+Youtube ID: 	DdZRjmvZKbI 
+Video length: 	104.5 sec 
+Set (V): 		test 
+ 
+Erin_Andrews/DdZRjmvZKbI_0000001 64.0 68.3 
+Erin_Andrews/DdZRjmvZKbI_0000002 87.9 93.7 

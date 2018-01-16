@@ -1,0 +1,8 @@
+POI: 			Natalie_Portman 
+Youtube ID: 	Ax2W73M2Q-E 
+Video length: 	103.7 sec 
+Set (V): 		dev 
+ 
+Natalie_Portman/Ax2W73M2Q-E_0000001 20.3 25.3 
+Natalie_Portman/Ax2W73M2Q-E_0000002 32.2 38.6 
+Natalie_Portman/Ax2W73M2Q-E_0000003 74.2 83.4 

@@ -1,0 +1,9 @@
+POI: 			Edgar_Wright 
+Youtube ID: 	wVIZhnJ79sI 
+Video length: 	592.3 sec 
+Set (V): 		test 
+ 
+Edgar_Wright/wVIZhnJ79sI_0000001 107.8 113.2 
+Edgar_Wright/wVIZhnJ79sI_0000002 114.0 120.5 
+Edgar_Wright/wVIZhnJ79sI_0000003 120.6 124.6 
+Edgar_Wright/wVIZhnJ79sI_0000004 283.4 288.1 

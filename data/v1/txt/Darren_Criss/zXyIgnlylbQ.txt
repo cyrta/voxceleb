@@ -1,0 +1,8 @@
+POI: 			Darren_Criss 
+Youtube ID: 	zXyIgnlylbQ 
+Video length: 	496.9 sec 
+Set (V): 		dev 
+ 
+Darren_Criss/zXyIgnlylbQ_0000001 65.9 70.7 
+Darren_Criss/zXyIgnlylbQ_0000002 131.4 136.2 
+Darren_Criss/zXyIgnlylbQ_0000003 189.3 194.9 

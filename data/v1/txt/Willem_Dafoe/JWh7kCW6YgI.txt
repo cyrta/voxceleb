@@ -1,0 +1,13 @@
+POI: 			Willem_Dafoe 
+Youtube ID: 	JWh7kCW6YgI 
+Video length: 	389.1 sec 
+Set (V): 		dev 
+ 
+Willem_Dafoe/JWh7kCW6YgI_0000001 70.6 76.2 
+Willem_Dafoe/JWh7kCW6YgI_0000002 130.7 136.1 
+Willem_Dafoe/JWh7kCW6YgI_0000003 146.1 150.4 
+Willem_Dafoe/JWh7kCW6YgI_0000004 161.6 165.7 
+Willem_Dafoe/JWh7kCW6YgI_0000005 182.5 189.0 
+Willem_Dafoe/JWh7kCW6YgI_0000006 221.0 225.1 
+Willem_Dafoe/JWh7kCW6YgI_0000007 239.7 243.8 
+Willem_Dafoe/JWh7kCW6YgI_0000008 312.8 318.8 

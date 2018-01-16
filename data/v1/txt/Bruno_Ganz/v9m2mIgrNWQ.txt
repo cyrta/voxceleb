@@ -1,0 +1,7 @@
+POI: 			Bruno_Ganz 
+Youtube ID: 	v9m2mIgrNWQ 
+Video length: 	119.2 sec 
+Set (V): 		dev 
+ 
+Bruno_Ganz/v9m2mIgrNWQ_0000001 89.4 94.6 
+Bruno_Ganz/v9m2mIgrNWQ_0000002 102.2 107.4 

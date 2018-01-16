@@ -1,0 +1,13 @@
+POI: 			Ted_Danson 
+Youtube ID: 	XrKM_LrA6_U 
+Video length: 	803.0 sec 
+Set (V): 		dev 
+ 
+Ted_Danson/XrKM_LrA6_U_0000001 211.9 216.3 
+Ted_Danson/XrKM_LrA6_U_0000002 221.8 228.0 
+Ted_Danson/XrKM_LrA6_U_0000003 315.6 325.7 
+Ted_Danson/XrKM_LrA6_U_0000004 383.9 390.6 
+Ted_Danson/XrKM_LrA6_U_0000005 402.5 406.6 
+Ted_Danson/XrKM_LrA6_U_0000006 442.9 449.7 
+Ted_Danson/XrKM_LrA6_U_0000007 574.0 578.2 
+Ted_Danson/XrKM_LrA6_U_0000008 769.5 775.1 

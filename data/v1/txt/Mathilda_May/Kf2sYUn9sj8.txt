@@ -1,0 +1,15 @@
+POI: 			Mathilda_May 
+Youtube ID: 	Kf2sYUn9sj8 
+Video length: 	857.7 sec 
+Set (V): 		dev 
+ 
+Mathilda_May/Kf2sYUn9sj8_0000001 46.8 60.7 
+Mathilda_May/Kf2sYUn9sj8_0000002 85.0 90.1 
+Mathilda_May/Kf2sYUn9sj8_0000003 155.5 165.2 
+Mathilda_May/Kf2sYUn9sj8_0000004 181.0 185.7 
+Mathilda_May/Kf2sYUn9sj8_0000005 255.7 261.9 
+Mathilda_May/Kf2sYUn9sj8_0000006 323.8 329.2 
+Mathilda_May/Kf2sYUn9sj8_0000007 339.7 344.0 
+Mathilda_May/Kf2sYUn9sj8_0000008 488.7 493.0 
+Mathilda_May/Kf2sYUn9sj8_0000009 639.4 647.4 
+Mathilda_May/Kf2sYUn9sj8_0000010 696.2 702.5 

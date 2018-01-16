@@ -1,0 +1,8 @@
+POI: 			CCH_Pounder 
+Youtube ID: 	2qiHu6rrGvI 
+Video length: 	433.0 sec 
+Set (V): 		dev 
+ 
+CCH_Pounder/2qiHu6rrGvI_0000001 04.6 16.7 
+CCH_Pounder/2qiHu6rrGvI_0000002 66.7 71.4 
+CCH_Pounder/2qiHu6rrGvI_0000003 155.9 160.5 

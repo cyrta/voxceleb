@@ -1,0 +1,17 @@
+POI: 			Amy_Schumer 
+Youtube ID: 	Db9N4zr4XlQ 
+Video length: 	447.9 sec 
+Set (V): 		dev 
+ 
+Amy_Schumer/Db9N4zr4XlQ_0000001 82.3 90.6 
+Amy_Schumer/Db9N4zr4XlQ_0000002 96.2 102.0 
+Amy_Schumer/Db9N4zr4XlQ_0000003 111.5 118.6 
+Amy_Schumer/Db9N4zr4XlQ_0000004 134.0 151.4 
+Amy_Schumer/Db9N4zr4XlQ_0000005 168.4 181.3 
+Amy_Schumer/Db9N4zr4XlQ_0000006 196.2 202.1 
+Amy_Schumer/Db9N4zr4XlQ_0000007 239.6 249.0 
+Amy_Schumer/Db9N4zr4XlQ_0000008 252.0 262.8 
+Amy_Schumer/Db9N4zr4XlQ_0000009 279.2 283.8 
+Amy_Schumer/Db9N4zr4XlQ_0000010 312.0 318.6 
+Amy_Schumer/Db9N4zr4XlQ_0000011 395.5 402.1 
+Amy_Schumer/Db9N4zr4XlQ_0000012 414.3 419.6 

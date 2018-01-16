@@ -1,0 +1,17 @@
+POI: 			Dawn_Wells 
+Youtube ID: 	8x6DgL2yLfQ 
+Video length: 	479.9 sec 
+Set (V): 		dev 
+ 
+Dawn_Wells/8x6DgL2yLfQ_0000001 15.2 19.7 
+Dawn_Wells/8x6DgL2yLfQ_0000002 19.9 24.3 
+Dawn_Wells/8x6DgL2yLfQ_0000003 25.2 31.0 
+Dawn_Wells/8x6DgL2yLfQ_0000004 92.4 102.4 
+Dawn_Wells/8x6DgL2yLfQ_0000005 140.1 153.0 
+Dawn_Wells/8x6DgL2yLfQ_0000006 256.6 266.2 
+Dawn_Wells/8x6DgL2yLfQ_0000007 266.6 273.0 
+Dawn_Wells/8x6DgL2yLfQ_0000008 285.5 290.5 
+Dawn_Wells/8x6DgL2yLfQ_0000009 313.7 335.8 
+Dawn_Wells/8x6DgL2yLfQ_0000010 384.1 393.2 
+Dawn_Wells/8x6DgL2yLfQ_0000011 435.0 443.0 
+Dawn_Wells/8x6DgL2yLfQ_0000012 445.4 449.4 

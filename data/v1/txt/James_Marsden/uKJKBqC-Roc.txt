@@ -1,0 +1,26 @@
+POI: 			James_Marsden 
+Youtube ID: 	uKJKBqC-Roc 
+Video length: 	761.9 sec 
+Set (V): 		dev 
+ 
+James_Marsden/uKJKBqC-Roc_0000001 73.5 84.5 
+James_Marsden/uKJKBqC-Roc_0000002 108.0 113.5 
+James_Marsden/uKJKBqC-Roc_0000003 121.3 125.5 
+James_Marsden/uKJKBqC-Roc_0000004 136.8 141.3 
+James_Marsden/uKJKBqC-Roc_0000005 171.4 179.5 
+James_Marsden/uKJKBqC-Roc_0000006 185.6 192.4 
+James_Marsden/uKJKBqC-Roc_0000007 328.4 345.0 
+James_Marsden/uKJKBqC-Roc_0000008 345.5 351.7 
+James_Marsden/uKJKBqC-Roc_0000009 411.9 440.5 
+James_Marsden/uKJKBqC-Roc_0000010 472.4 477.0 
+James_Marsden/uKJKBqC-Roc_0000011 477.2 482.0 
+James_Marsden/uKJKBqC-Roc_0000012 485.7 495.8 
+James_Marsden/uKJKBqC-Roc_0000013 517.8 526.0 
+James_Marsden/uKJKBqC-Roc_0000014 526.8 532.9 
+James_Marsden/uKJKBqC-Roc_0000015 575.6 586.5 
+James_Marsden/uKJKBqC-Roc_0000016 589.8 594.3 
+James_Marsden/uKJKBqC-Roc_0000017 602.0 607.2 
+James_Marsden/uKJKBqC-Roc_0000018 608.3 616.2 
+James_Marsden/uKJKBqC-Roc_0000019 616.4 622.2 
+James_Marsden/uKJKBqC-Roc_0000020 622.4 628.4 
+James_Marsden/uKJKBqC-Roc_0000021 596.8 602.4 

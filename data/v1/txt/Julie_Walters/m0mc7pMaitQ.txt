@@ -1,0 +1,7 @@
+POI: 			Julie_Walters 
+Youtube ID: 	m0mc7pMaitQ 
+Video length: 	144.1 sec 
+Set (V): 		dev 
+ 
+Julie_Walters/m0mc7pMaitQ_0000001 23.5 32.2 
+Julie_Walters/m0mc7pMaitQ_0000002 90.5 97.3 

@@ -1,0 +1,7 @@
+POI: 			Gemma_Atkinson 
+Youtube ID: 	iLJAwgYbpZk 
+Video length: 	374.6 sec 
+Set (V): 		dev 
+ 
+Gemma_Atkinson/iLJAwgYbpZk_0000001 102.2 108.2 
+Gemma_Atkinson/iLJAwgYbpZk_0000002 172.5 176.8 

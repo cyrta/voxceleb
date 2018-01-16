@@ -1,0 +1,16 @@
+POI: 			Janice_Dickinson 
+Youtube ID: 	q-74FU_R2OU 
+Video length: 	412.6 sec 
+Set (V): 		dev 
+ 
+Janice_Dickinson/q-74FU_R2OU_0000001 23.1 48.7 
+Janice_Dickinson/q-74FU_R2OU_0000002 55.2 72.6 
+Janice_Dickinson/q-74FU_R2OU_0000003 77.5 98.3 
+Janice_Dickinson/q-74FU_R2OU_0000004 103.5 113.4 
+Janice_Dickinson/q-74FU_R2OU_0000005 125.5 131.5 
+Janice_Dickinson/q-74FU_R2OU_0000006 149.4 167.9 
+Janice_Dickinson/q-74FU_R2OU_0000007 184.0 210.5 
+Janice_Dickinson/q-74FU_R2OU_0000008 239.8 248.0 
+Janice_Dickinson/q-74FU_R2OU_0000009 249.1 283.6 
+Janice_Dickinson/q-74FU_R2OU_0000010 288.9 301.4 
+Janice_Dickinson/q-74FU_R2OU_0000011 319.2 325.4 

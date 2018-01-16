@@ -1,0 +1,17 @@
+POI: 			Barbara_Eden 
+Youtube ID: 	Gy4tSFBlmQ8 
+Video length: 	153.1 sec 
+Set (V): 		dev 
+ 
+Barbara_Eden/Gy4tSFBlmQ8_0000001 14.8 26.1 
+Barbara_Eden/Gy4tSFBlmQ8_0000002 32.8 40.4 
+Barbara_Eden/Gy4tSFBlmQ8_0000003 46.8 51.4 
+Barbara_Eden/Gy4tSFBlmQ8_0000004 60.6 65.4 
+Barbara_Eden/Gy4tSFBlmQ8_0000005 81.4 87.2 
+Barbara_Eden/Gy4tSFBlmQ8_0000006 87.4 97.3 
+Barbara_Eden/Gy4tSFBlmQ8_0000007 97.6 106.7 
+Barbara_Eden/Gy4tSFBlmQ8_0000008 109.8 114.3 
+Barbara_Eden/Gy4tSFBlmQ8_0000009 115.0 119.0 
+Barbara_Eden/Gy4tSFBlmQ8_0000010 124.8 129.9 
+Barbara_Eden/Gy4tSFBlmQ8_0000011 131.0 136.4 
+Barbara_Eden/Gy4tSFBlmQ8_0000012 137.0 142.6 

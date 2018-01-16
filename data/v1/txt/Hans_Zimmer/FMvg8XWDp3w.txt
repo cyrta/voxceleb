@@ -1,0 +1,20 @@
+POI: 			Hans_Zimmer 
+Youtube ID: 	FMvg8XWDp3w 
+Video length: 	599.6 sec 
+Set (V): 		dev 
+ 
+Hans_Zimmer/FMvg8XWDp3w_0000001 42.5 52.3 
+Hans_Zimmer/FMvg8XWDp3w_0000002 156.8 161.5 
+Hans_Zimmer/FMvg8XWDp3w_0000003 224.3 228.8 
+Hans_Zimmer/FMvg8XWDp3w_0000004 303.0 308.5 
+Hans_Zimmer/FMvg8XWDp3w_0000005 310.4 318.5 
+Hans_Zimmer/FMvg8XWDp3w_0000006 319.2 330.6 
+Hans_Zimmer/FMvg8XWDp3w_0000007 350.3 355.8 
+Hans_Zimmer/FMvg8XWDp3w_0000008 366.4 370.6 
+Hans_Zimmer/FMvg8XWDp3w_0000009 438.7 443.8 
+Hans_Zimmer/FMvg8XWDp3w_0000010 477.0 482.6 
+Hans_Zimmer/FMvg8XWDp3w_0000011 483.8 491.4 
+Hans_Zimmer/FMvg8XWDp3w_0000012 491.6 495.6 
+Hans_Zimmer/FMvg8XWDp3w_0000013 519.9 526.2 
+Hans_Zimmer/FMvg8XWDp3w_0000014 541.7 551.2 
+Hans_Zimmer/FMvg8XWDp3w_0000015 584.8 589.6 

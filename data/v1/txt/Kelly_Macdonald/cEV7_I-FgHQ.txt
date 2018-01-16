@@ -1,0 +1,11 @@
+POI: 			Kelly_Macdonald 
+Youtube ID: 	cEV7_I-FgHQ 
+Video length: 	546.3 sec 
+Set (V): 		dev 
+ 
+Kelly_Macdonald/cEV7_I-FgHQ_0000001 74.8 79.2 
+Kelly_Macdonald/cEV7_I-FgHQ_0000002 92.6 98.2 
+Kelly_Macdonald/cEV7_I-FgHQ_0000003 183.2 188.0 
+Kelly_Macdonald/cEV7_I-FgHQ_0000004 239.8 244.8 
+Kelly_Macdonald/cEV7_I-FgHQ_0000005 252.1 256.0 
+Kelly_Macdonald/cEV7_I-FgHQ_0000006 414.3 420.7 

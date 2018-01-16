@@ -1,0 +1,40 @@
+POI: 			Lisa_Kudrow 
+Youtube ID: 	cjPSk9ZfevI 
+Video length: 	533.4 sec 
+Set (V): 		dev 
+ 
+Lisa_Kudrow/cjPSk9ZfevI_0000001 17.6 22.2 
+Lisa_Kudrow/cjPSk9ZfevI_0000002 28.1 32.2 
+Lisa_Kudrow/cjPSk9ZfevI_0000003 33.2 48.4 
+Lisa_Kudrow/cjPSk9ZfevI_0000004 50.4 56.0 
+Lisa_Kudrow/cjPSk9ZfevI_0000005 60.7 71.6 
+Lisa_Kudrow/cjPSk9ZfevI_0000006 80.4 86.4 
+Lisa_Kudrow/cjPSk9ZfevI_0000007 105.6 113.2 
+Lisa_Kudrow/cjPSk9ZfevI_0000008 125.8 131.6 
+Lisa_Kudrow/cjPSk9ZfevI_0000009 137.0 141.1 
+Lisa_Kudrow/cjPSk9ZfevI_0000010 142.2 152.6 
+Lisa_Kudrow/cjPSk9ZfevI_0000011 153.4 158.0 
+Lisa_Kudrow/cjPSk9ZfevI_0000012 158.3 173.5 
+Lisa_Kudrow/cjPSk9ZfevI_0000013 178.6 182.8 
+Lisa_Kudrow/cjPSk9ZfevI_0000014 186.8 196.6 
+Lisa_Kudrow/cjPSk9ZfevI_0000015 204.2 210.8 
+Lisa_Kudrow/cjPSk9ZfevI_0000016 211.8 217.6 
+Lisa_Kudrow/cjPSk9ZfevI_0000017 222.7 228.5 
+Lisa_Kudrow/cjPSk9ZfevI_0000018 234.6 238.8 
+Lisa_Kudrow/cjPSk9ZfevI_0000019 239.4 246.0 
+Lisa_Kudrow/cjPSk9ZfevI_0000020 247.0 264.6 
+Lisa_Kudrow/cjPSk9ZfevI_0000021 272.4 278.2 
+Lisa_Kudrow/cjPSk9ZfevI_0000022 302.8 312.1 
+Lisa_Kudrow/cjPSk9ZfevI_0000023 319.9 325.1 
+Lisa_Kudrow/cjPSk9ZfevI_0000024 342.6 348.8 
+Lisa_Kudrow/cjPSk9ZfevI_0000025 359.9 366.6 
+Lisa_Kudrow/cjPSk9ZfevI_0000026 367.4 372.4 
+Lisa_Kudrow/cjPSk9ZfevI_0000027 382.4 387.2 
+Lisa_Kudrow/cjPSk9ZfevI_0000028 394.4 400.6 
+Lisa_Kudrow/cjPSk9ZfevI_0000029 406.7 412.1 
+Lisa_Kudrow/cjPSk9ZfevI_0000030 419.0 430.0 
+Lisa_Kudrow/cjPSk9ZfevI_0000031 444.9 450.2 
+Lisa_Kudrow/cjPSk9ZfevI_0000032 451.9 458.8 
+Lisa_Kudrow/cjPSk9ZfevI_0000033 463.8 476.7 
+Lisa_Kudrow/cjPSk9ZfevI_0000034 477.8 487.4 
+Lisa_Kudrow/cjPSk9ZfevI_0000035 496.8 500.9 

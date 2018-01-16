@@ -1,0 +1,8 @@
+POI: 			Mia_Wasikowska 
+Youtube ID: 	n2375MHW_u8 
+Video length: 	310.3 sec 
+Set (V): 		dev 
+ 
+Mia_Wasikowska/n2375MHW_u8_0000001 48.5 55.9 
+Mia_Wasikowska/n2375MHW_u8_0000002 59.8 64.3 
+Mia_Wasikowska/n2375MHW_u8_0000003 179.0 183.9 

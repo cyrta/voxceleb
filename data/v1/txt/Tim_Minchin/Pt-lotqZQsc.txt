@@ -1,0 +1,11 @@
+POI: 			Tim_Minchin 
+Youtube ID: 	Pt-lotqZQsc 
+Video length: 	175.9 sec 
+Set (V): 		dev 
+ 
+Tim_Minchin/Pt-lotqZQsc_0000001 05.5 09.5 
+Tim_Minchin/Pt-lotqZQsc_0000002 10.0 14.7 
+Tim_Minchin/Pt-lotqZQsc_0000003 44.7 49.8 
+Tim_Minchin/Pt-lotqZQsc_0000004 56.4 65.0 
+Tim_Minchin/Pt-lotqZQsc_0000005 98.9 103.0 
+Tim_Minchin/Pt-lotqZQsc_0000006 107.7 114.4 

@@ -1,0 +1,9 @@
+POI: 			Brit_Marling 
+Youtube ID: 	Mx9hN4LD_oI 
+Video length: 	149.3 sec 
+Set (V): 		dev 
+ 
+Brit_Marling/Mx9hN4LD_oI_0000001 56.0 62.0 
+Brit_Marling/Mx9hN4LD_oI_0000002 64.1 82.2 
+Brit_Marling/Mx9hN4LD_oI_0000003 86.2 90.6 
+Brit_Marling/Mx9hN4LD_oI_0000004 92.7 102.4 

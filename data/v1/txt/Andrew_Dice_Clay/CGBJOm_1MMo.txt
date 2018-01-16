@@ -1,0 +1,6 @@
+POI: 			Andrew_Dice_Clay 
+Youtube ID: 	CGBJOm_1MMo 
+Video length: 	1850.5 sec 
+Set (V): 		dev 
+ 
+Andrew_Dice_Clay/CGBJOm_1MMo_0000001 1041.0 1045.6 

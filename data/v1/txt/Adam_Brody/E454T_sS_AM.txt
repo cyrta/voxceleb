@@ -1,0 +1,7 @@
+POI: 			Adam_Brody 
+Youtube ID: 	E454T_sS_AM 
+Video length: 	258.7 sec 
+Set (V): 		dev 
+ 
+Adam_Brody/E454T_sS_AM_0000001 29.2 34.6 
+Adam_Brody/E454T_sS_AM_0000002 96.4 101.8 

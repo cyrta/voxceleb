@@ -1,0 +1,30 @@
+POI: 			Susan_Lucci 
+Youtube ID: 	i9BFdwyoC8I 
+Video length: 	678.8 sec 
+Set (V): 		dev 
+ 
+Susan_Lucci/i9BFdwyoC8I_0000001 52.4 59.9 
+Susan_Lucci/i9BFdwyoC8I_0000002 72.7 95.8 
+Susan_Lucci/i9BFdwyoC8I_0000003 104.6 115.5 
+Susan_Lucci/i9BFdwyoC8I_0000004 119.8 124.9 
+Susan_Lucci/i9BFdwyoC8I_0000005 166.1 170.9 
+Susan_Lucci/i9BFdwyoC8I_0000006 175.1 184.7 
+Susan_Lucci/i9BFdwyoC8I_0000007 193.8 204.9 
+Susan_Lucci/i9BFdwyoC8I_0000008 225.6 249.7 
+Susan_Lucci/i9BFdwyoC8I_0000009 253.6 264.0 
+Susan_Lucci/i9BFdwyoC8I_0000010 283.9 288.6 
+Susan_Lucci/i9BFdwyoC8I_0000011 288.9 293.4 
+Susan_Lucci/i9BFdwyoC8I_0000012 321.8 329.7 
+Susan_Lucci/i9BFdwyoC8I_0000013 330.4 343.6 
+Susan_Lucci/i9BFdwyoC8I_0000014 359.2 379.2 
+Susan_Lucci/i9BFdwyoC8I_0000015 408.7 431.1 
+Susan_Lucci/i9BFdwyoC8I_0000016 431.7 437.2 
+Susan_Lucci/i9BFdwyoC8I_0000017 476.1 483.6 
+Susan_Lucci/i9BFdwyoC8I_0000018 489.7 493.7 
+Susan_Lucci/i9BFdwyoC8I_0000019 504.7 509.7 
+Susan_Lucci/i9BFdwyoC8I_0000020 522.0 526.4 
+Susan_Lucci/i9BFdwyoC8I_0000021 550.0 569.0 
+Susan_Lucci/i9BFdwyoC8I_0000022 569.4 581.4 
+Susan_Lucci/i9BFdwyoC8I_0000023 611.8 619.7 
+Susan_Lucci/i9BFdwyoC8I_0000024 622.0 639.3 
+Susan_Lucci/i9BFdwyoC8I_0000025 639.6 644.7 

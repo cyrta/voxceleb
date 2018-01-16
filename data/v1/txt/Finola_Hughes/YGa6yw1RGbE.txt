@@ -1,0 +1,9 @@
+POI: 			Finola_Hughes 
+Youtube ID: 	YGa6yw1RGbE 
+Video length: 	653.0 sec 
+Set (V): 		dev 
+ 
+Finola_Hughes/YGa6yw1RGbE_0000001 445.9 453.3 
+Finola_Hughes/YGa6yw1RGbE_0000002 454.6 458.8 
+Finola_Hughes/YGa6yw1RGbE_0000003 517.0 522.0 
+Finola_Hughes/YGa6yw1RGbE_0000004 590.3 597.2 

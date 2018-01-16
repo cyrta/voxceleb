@@ -1,0 +1,8 @@
+POI: 			Tracy_Morgan 
+Youtube ID: 	NKDeGIm3yoY 
+Video length: 	568.2 sec 
+Set (V): 		dev 
+ 
+Tracy_Morgan/NKDeGIm3yoY_0000001 86.2 90.6 
+Tracy_Morgan/NKDeGIm3yoY_0000002 350.8 357.4 
+Tracy_Morgan/NKDeGIm3yoY_0000003 504.4 510.2 

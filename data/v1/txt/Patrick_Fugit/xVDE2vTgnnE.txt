@@ -1,0 +1,9 @@
+POI: 			Patrick_Fugit 
+Youtube ID: 	xVDE2vTgnnE 
+Video length: 	66.8 sec 
+Set (V): 		dev 
+ 
+Patrick_Fugit/xVDE2vTgnnE_0000001 30.6 36.9 
+Patrick_Fugit/xVDE2vTgnnE_0000002 46.4 54.2 
+Patrick_Fugit/xVDE2vTgnnE_0000003 56.4 60.6 
+Patrick_Fugit/xVDE2vTgnnE_0000004 56.4 62.4 

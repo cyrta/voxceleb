@@ -1,0 +1,20 @@
+POI: 			Adam_Copeland 
+Youtube ID: 	g3SlFv2ui8A 
+Video length: 	639.4 sec 
+Set (V): 		dev 
+ 
+Adam_Copeland/g3SlFv2ui8A_0000001 50.8 60.8 
+Adam_Copeland/g3SlFv2ui8A_0000002 107.6 112.3 
+Adam_Copeland/g3SlFv2ui8A_0000003 116.6 120.6 
+Adam_Copeland/g3SlFv2ui8A_0000004 148.4 158.2 
+Adam_Copeland/g3SlFv2ui8A_0000005 170.6 175.0 
+Adam_Copeland/g3SlFv2ui8A_0000006 175.9 181.8 
+Adam_Copeland/g3SlFv2ui8A_0000007 205.2 214.1 
+Adam_Copeland/g3SlFv2ui8A_0000008 249.6 258.6 
+Adam_Copeland/g3SlFv2ui8A_0000009 271.7 276.0 
+Adam_Copeland/g3SlFv2ui8A_0000010 319.4 325.6 
+Adam_Copeland/g3SlFv2ui8A_0000011 351.1 359.6 
+Adam_Copeland/g3SlFv2ui8A_0000012 425.7 431.7 
+Adam_Copeland/g3SlFv2ui8A_0000013 471.5 476.4 
+Adam_Copeland/g3SlFv2ui8A_0000014 482.6 496.0 
+Adam_Copeland/g3SlFv2ui8A_0000015 531.6 537.8 

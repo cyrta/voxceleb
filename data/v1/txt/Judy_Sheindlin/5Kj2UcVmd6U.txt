@@ -1,0 +1,11 @@
+POI: 			Judy_Sheindlin 
+Youtube ID: 	5Kj2UcVmd6U 
+Video length: 	84.2 sec 
+Set (V): 		dev 
+ 
+Judy_Sheindlin/5Kj2UcVmd6U_0000001 12.5 17.8 
+Judy_Sheindlin/5Kj2UcVmd6U_0000002 25.4 34.2 
+Judy_Sheindlin/5Kj2UcVmd6U_0000003 36.1 41.4 
+Judy_Sheindlin/5Kj2UcVmd6U_0000004 42.9 49.7 
+Judy_Sheindlin/5Kj2UcVmd6U_0000005 51.0 67.5 
+Judy_Sheindlin/5Kj2UcVmd6U_0000006 68.3 76.8 

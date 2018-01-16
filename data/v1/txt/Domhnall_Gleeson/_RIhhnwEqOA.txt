@@ -1,0 +1,8 @@
+POI: 			Domhnall_Gleeson 
+Youtube ID: 	_RIhhnwEqOA 
+Video length: 	177.0 sec 
+Set (V): 		dev 
+ 
+Domhnall_Gleeson/_RIhhnwEqOA_0000001 57.9 64.0 
+Domhnall_Gleeson/_RIhhnwEqOA_0000002 68.6 73.5 
+Domhnall_Gleeson/_RIhhnwEqOA_0000003 97.8 103.2 

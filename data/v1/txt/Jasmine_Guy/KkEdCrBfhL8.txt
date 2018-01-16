@@ -1,0 +1,8 @@
+POI: 			Jasmine_Guy 
+Youtube ID: 	KkEdCrBfhL8 
+Video length: 	1136.7 sec 
+Set (V): 		dev 
+ 
+Jasmine_Guy/KkEdCrBfhL8_0000001 294.5 301.8 
+Jasmine_Guy/KkEdCrBfhL8_0000002 796.2 807.2 
+Jasmine_Guy/KkEdCrBfhL8_0000003 975.3 980.1 

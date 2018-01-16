@@ -1,0 +1,8 @@
+POI: 			Emily_Atack 
+Youtube ID: 	aQ6uxeakacs 
+Video length: 	68.8 sec 
+Set (V): 		test 
+ 
+Emily_Atack/aQ6uxeakacs_0000001 04.4 23.4 
+Emily_Atack/aQ6uxeakacs_0000002 34.2 53.3 
+Emily_Atack/aQ6uxeakacs_0000003 56.2 63.3 

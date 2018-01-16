@@ -1,0 +1,17 @@
+POI: 			Sam_Neill 
+Youtube ID: 	RY_BazhnU44 
+Video length: 	844.9 sec 
+Set (V): 		dev 
+ 
+Sam_Neill/RY_BazhnU44_0000001 92.4 98.6 
+Sam_Neill/RY_BazhnU44_0000002 106.2 110.2 
+Sam_Neill/RY_BazhnU44_0000003 156.2 161.2 
+Sam_Neill/RY_BazhnU44_0000004 298.0 304.9 
+Sam_Neill/RY_BazhnU44_0000005 348.8 353.3 
+Sam_Neill/RY_BazhnU44_0000006 392.3 397.7 
+Sam_Neill/RY_BazhnU44_0000007 402.8 407.7 
+Sam_Neill/RY_BazhnU44_0000008 485.0 490.9 
+Sam_Neill/RY_BazhnU44_0000009 535.5 541.0 
+Sam_Neill/RY_BazhnU44_0000010 549.6 553.8 
+Sam_Neill/RY_BazhnU44_0000011 694.9 701.6 
+Sam_Neill/RY_BazhnU44_0000012 738.6 744.8 

@@ -1,0 +1,12 @@
+POI: 			Jeremy_Irvine 
+Youtube ID: 	uyqP6tomwOo 
+Video length: 	633.9 sec 
+Set (V): 		dev 
+ 
+Jeremy_Irvine/uyqP6tomwOo_0000001 169.8 175.8 
+Jeremy_Irvine/uyqP6tomwOo_0000002 441.1 452.1 
+Jeremy_Irvine/uyqP6tomwOo_0000003 452.9 464.8 
+Jeremy_Irvine/uyqP6tomwOo_0000004 465.0 469.7 
+Jeremy_Irvine/uyqP6tomwOo_0000005 472.1 481.8 
+Jeremy_Irvine/uyqP6tomwOo_0000006 509.5 517.3 
+Jeremy_Irvine/uyqP6tomwOo_0000007 541.5 547.1 

@@ -1,0 +1,11 @@
+POI: 			NeNe_Leakes 
+Youtube ID: 	HvApxAeMgpw 
+Video length: 	621.2 sec 
+Set (V): 		dev 
+ 
+NeNe_Leakes/HvApxAeMgpw_0000001 281.5 287.2 
+NeNe_Leakes/HvApxAeMgpw_0000002 288.1 294.0 
+NeNe_Leakes/HvApxAeMgpw_0000003 341.2 351.6 
+NeNe_Leakes/HvApxAeMgpw_0000004 380.6 386.4 
+NeNe_Leakes/HvApxAeMgpw_0000005 411.7 416.0 
+NeNe_Leakes/HvApxAeMgpw_0000006 457.8 464.6 

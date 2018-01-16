@@ -1,0 +1,11 @@
+POI: 			Naomie_Harris 
+Youtube ID: 	P2-wJFPigB8 
+Video length: 	447.0 sec 
+Set (V): 		dev 
+ 
+Naomie_Harris/P2-wJFPigB8_0000001 102.4 112.6 
+Naomie_Harris/P2-wJFPigB8_0000002 122.9 131.2 
+Naomie_Harris/P2-wJFPigB8_0000003 146.4 152.8 
+Naomie_Harris/P2-wJFPigB8_0000004 180.3 184.8 
+Naomie_Harris/P2-wJFPigB8_0000005 256.8 264.6 
+Naomie_Harris/P2-wJFPigB8_0000006 289.8 294.5 

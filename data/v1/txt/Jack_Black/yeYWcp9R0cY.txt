@@ -1,0 +1,9 @@
+POI: 			Jack_Black 
+Youtube ID: 	yeYWcp9R0cY 
+Video length: 	274.9 sec 
+Set (V): 		dev 
+ 
+Jack_Black/yeYWcp9R0cY_0000001 18.9 23.0 
+Jack_Black/yeYWcp9R0cY_0000002 63.0 68.3 
+Jack_Black/yeYWcp9R0cY_0000003 94.1 105.7 
+Jack_Black/yeYWcp9R0cY_0000004 129.2 136.0 

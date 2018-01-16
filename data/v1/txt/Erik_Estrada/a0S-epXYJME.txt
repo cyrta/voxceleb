@@ -1,0 +1,10 @@
+POI: 			Erik_Estrada 
+Youtube ID: 	a0S-epXYJME 
+Video length: 	265.2 sec 
+Set (V): 		test 
+ 
+Erik_Estrada/a0S-epXYJME_0000001 43.3 52.2 
+Erik_Estrada/a0S-epXYJME_0000002 59.9 66.6 
+Erik_Estrada/a0S-epXYJME_0000003 161.9 173.9 
+Erik_Estrada/a0S-epXYJME_0000004 178.9 185.1 
+Erik_Estrada/a0S-epXYJME_0000005 191.0 225.3 

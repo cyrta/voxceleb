@@ -1,0 +1,10 @@
+POI: 			Peter_Capaldi 
+Youtube ID: 	aS93O-xC-D8 
+Video length: 	208.8 sec 
+Set (V): 		dev 
+ 
+Peter_Capaldi/aS93O-xC-D8_0000001 16.0 22.5 
+Peter_Capaldi/aS93O-xC-D8_0000002 40.6 51.4 
+Peter_Capaldi/aS93O-xC-D8_0000003 60.4 65.0 
+Peter_Capaldi/aS93O-xC-D8_0000004 89.0 93.3 
+Peter_Capaldi/aS93O-xC-D8_0000005 111.6 123.7 

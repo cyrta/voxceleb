@@ -1,0 +1,9 @@
+POI: 			Cillian_Murphy 
+Youtube ID: 	q1rpJg8961o 
+Video length: 	375.9 sec 
+Set (V): 		dev 
+ 
+Cillian_Murphy/q1rpJg8961o_0000001 45.6 51.4 
+Cillian_Murphy/q1rpJg8961o_0000002 55.2 60.3 
+Cillian_Murphy/q1rpJg8961o_0000003 250.5 255.0 
+Cillian_Murphy/q1rpJg8961o_0000004 284.3 289.5 

@@ -1,0 +1,16 @@
+POI: 			Mathieu_Amalric 
+Youtube ID: 	qH9B_6IMDek 
+Video length: 	398.9 sec 
+Set (V): 		dev 
+ 
+Mathieu_Amalric/qH9B_6IMDek_0000001 59.9 64.0 
+Mathieu_Amalric/qH9B_6IMDek_0000002 72.0 76.3 
+Mathieu_Amalric/qH9B_6IMDek_0000003 95.3 100.3 
+Mathieu_Amalric/qH9B_6IMDek_0000004 232.2 242.1 
+Mathieu_Amalric/qH9B_6IMDek_0000005 246.8 252.4 
+Mathieu_Amalric/qH9B_6IMDek_0000006 259.7 263.9 
+Mathieu_Amalric/qH9B_6IMDek_0000007 272.8 277.3 
+Mathieu_Amalric/qH9B_6IMDek_0000008 324.4 328.6 
+Mathieu_Amalric/qH9B_6IMDek_0000009 329.3 333.8 
+Mathieu_Amalric/qH9B_6IMDek_0000010 343.9 348.6 
+Mathieu_Amalric/qH9B_6IMDek_0000011 370.2 375.4 

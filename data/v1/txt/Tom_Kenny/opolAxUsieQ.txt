@@ -1,0 +1,12 @@
+POI: 			Tom_Kenny 
+Youtube ID: 	opolAxUsieQ 
+Video length: 	294.6 sec 
+Set (V): 		dev 
+ 
+Tom_Kenny/opolAxUsieQ_0000001 25.5 41.2 
+Tom_Kenny/opolAxUsieQ_0000002 109.5 116.0 
+Tom_Kenny/opolAxUsieQ_0000003 116.2 121.0 
+Tom_Kenny/opolAxUsieQ_0000004 142.4 146.8 
+Tom_Kenny/opolAxUsieQ_0000005 189.4 198.0 
+Tom_Kenny/opolAxUsieQ_0000006 225.2 233.1 
+Tom_Kenny/opolAxUsieQ_0000007 268.4 276.6 

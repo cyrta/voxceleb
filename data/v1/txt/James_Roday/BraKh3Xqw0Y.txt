@@ -1,0 +1,12 @@
+POI: 			James_Roday 
+Youtube ID: 	BraKh3Xqw0Y 
+Video length: 	151.6 sec 
+Set (V): 		dev 
+ 
+James_Roday/BraKh3Xqw0Y_0000001 00.8 05.9 
+James_Roday/BraKh3Xqw0Y_0000002 26.8 32.1 
+James_Roday/BraKh3Xqw0Y_0000003 55.0 59.1 
+James_Roday/BraKh3Xqw0Y_0000004 64.8 69.9 
+James_Roday/BraKh3Xqw0Y_0000005 85.5 95.8 
+James_Roday/BraKh3Xqw0Y_0000006 112.6 120.9 
+James_Roday/BraKh3Xqw0Y_0000007 129.9 136.4 

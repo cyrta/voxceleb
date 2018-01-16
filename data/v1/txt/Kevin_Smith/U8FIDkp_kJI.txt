@@ -1,0 +1,25 @@
+POI: 			Kevin_Smith 
+Youtube ID: 	U8FIDkp_kJI 
+Video length: 	741.3 sec 
+Set (V): 		dev 
+ 
+Kevin_Smith/U8FIDkp_kJI_0000001 87.6 92.3 
+Kevin_Smith/U8FIDkp_kJI_0000002 170.1 175.4 
+Kevin_Smith/U8FIDkp_kJI_0000003 183.5 193.0 
+Kevin_Smith/U8FIDkp_kJI_0000004 199.2 206.6 
+Kevin_Smith/U8FIDkp_kJI_0000005 209.6 217.4 
+Kevin_Smith/U8FIDkp_kJI_0000006 223.0 229.1 
+Kevin_Smith/U8FIDkp_kJI_0000007 229.4 233.6 
+Kevin_Smith/U8FIDkp_kJI_0000008 238.2 245.3 
+Kevin_Smith/U8FIDkp_kJI_0000009 276.4 290.0 
+Kevin_Smith/U8FIDkp_kJI_0000010 290.2 299.5 
+Kevin_Smith/U8FIDkp_kJI_0000011 304.0 327.1 
+Kevin_Smith/U8FIDkp_kJI_0000012 331.2 350.9 
+Kevin_Smith/U8FIDkp_kJI_0000013 465.1 479.2 
+Kevin_Smith/U8FIDkp_kJI_0000014 485.0 501.0 
+Kevin_Smith/U8FIDkp_kJI_0000015 521.1 525.8 
+Kevin_Smith/U8FIDkp_kJI_0000016 529.2 539.5 
+Kevin_Smith/U8FIDkp_kJI_0000017 636.6 647.6 
+Kevin_Smith/U8FIDkp_kJI_0000018 653.6 663.3 
+Kevin_Smith/U8FIDkp_kJI_0000019 692.2 697.9 
+Kevin_Smith/U8FIDkp_kJI_0000020 702.4 712.2 

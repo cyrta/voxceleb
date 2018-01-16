@@ -1,0 +1,21 @@
+POI: 			Paul_McGann 
+Youtube ID: 	OtrH3pLYkcI 
+Video length: 	491.9 sec 
+Set (V): 		dev 
+ 
+Paul_McGann/OtrH3pLYkcI_0000001 22.2 35.6 
+Paul_McGann/OtrH3pLYkcI_0000002 36.0 40.5 
+Paul_McGann/OtrH3pLYkcI_0000003 75.8 79.8 
+Paul_McGann/OtrH3pLYkcI_0000004 90.1 95.8 
+Paul_McGann/OtrH3pLYkcI_0000005 142.6 146.9 
+Paul_McGann/OtrH3pLYkcI_0000006 160.9 165.8 
+Paul_McGann/OtrH3pLYkcI_0000007 168.3 177.4 
+Paul_McGann/OtrH3pLYkcI_0000008 208.0 212.2 
+Paul_McGann/OtrH3pLYkcI_0000009 216.0 220.6 
+Paul_McGann/OtrH3pLYkcI_0000010 235.8 243.2 
+Paul_McGann/OtrH3pLYkcI_0000011 282.3 286.8 
+Paul_McGann/OtrH3pLYkcI_0000012 290.6 294.7 
+Paul_McGann/OtrH3pLYkcI_0000013 325.2 331.1 
+Paul_McGann/OtrH3pLYkcI_0000014 399.5 403.7 
+Paul_McGann/OtrH3pLYkcI_0000015 409.8 414.2 
+Paul_McGann/OtrH3pLYkcI_0000016 446.0 451.0 

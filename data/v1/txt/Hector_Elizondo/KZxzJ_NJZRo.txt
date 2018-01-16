@@ -1,0 +1,12 @@
+POI: 			Hector_Elizondo 
+Youtube ID: 	KZxzJ_NJZRo 
+Video length: 	207.0 sec 
+Set (V): 		dev 
+ 
+Hector_Elizondo/KZxzJ_NJZRo_0000001 17.4 21.6 
+Hector_Elizondo/KZxzJ_NJZRo_0000002 35.0 40.2 
+Hector_Elizondo/KZxzJ_NJZRo_0000003 46.8 53.4 
+Hector_Elizondo/KZxzJ_NJZRo_0000004 55.4 61.4 
+Hector_Elizondo/KZxzJ_NJZRo_0000005 80.2 90.3 
+Hector_Elizondo/KZxzJ_NJZRo_0000006 111.8 119.8 
+Hector_Elizondo/KZxzJ_NJZRo_0000007 146.8 151.3 

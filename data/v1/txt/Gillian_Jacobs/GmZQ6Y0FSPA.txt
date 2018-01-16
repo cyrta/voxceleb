@@ -1,0 +1,8 @@
+POI: 			Gillian_Jacobs 
+Youtube ID: 	GmZQ6Y0FSPA 
+Video length: 	186.2 sec 
+Set (V): 		dev 
+ 
+Gillian_Jacobs/GmZQ6Y0FSPA_0000001 36.0 41.3 
+Gillian_Jacobs/GmZQ6Y0FSPA_0000002 43.1 47.6 
+Gillian_Jacobs/GmZQ6Y0FSPA_0000003 171.6 178.5 

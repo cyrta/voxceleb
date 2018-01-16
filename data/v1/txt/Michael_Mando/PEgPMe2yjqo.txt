@@ -1,0 +1,10 @@
+POI: 			Michael_Mando 
+Youtube ID: 	PEgPMe2yjqo 
+Video length: 	224.6 sec 
+Set (V): 		dev 
+ 
+Michael_Mando/PEgPMe2yjqo_0000001 20.5 25.0 
+Michael_Mando/PEgPMe2yjqo_0000002 28.8 33.4 
+Michael_Mando/PEgPMe2yjqo_0000003 79.0 89.8 
+Michael_Mando/PEgPMe2yjqo_0000004 126.2 132.3 
+Michael_Mando/PEgPMe2yjqo_0000005 176.8 181.2 

@@ -1,0 +1,13 @@
+POI: 			Kriti_Sanon 
+Youtube ID: 	40dKTycbXkk 
+Video length: 	200.9 sec 
+Set (V): 		dev 
+ 
+Kriti_Sanon/40dKTycbXkk_0000001 34.5 43.8 
+Kriti_Sanon/40dKTycbXkk_0000002 70.0 76.1 
+Kriti_Sanon/40dKTycbXkk_0000003 76.6 81.8 
+Kriti_Sanon/40dKTycbXkk_0000004 86.4 91.3 
+Kriti_Sanon/40dKTycbXkk_0000005 92.3 96.6 
+Kriti_Sanon/40dKTycbXkk_0000006 103.9 119.1 
+Kriti_Sanon/40dKTycbXkk_0000007 119.5 124.4 
+Kriti_Sanon/40dKTycbXkk_0000008 125.2 134.0 

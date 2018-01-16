@@ -1,0 +1,16 @@
+POI: 			Joan_Cusack 
+Youtube ID: 	o0p1v4IdsAA 
+Video length: 	598.4 sec 
+Set (V): 		dev 
+ 
+Joan_Cusack/o0p1v4IdsAA_0000001 329.9 346.5 
+Joan_Cusack/o0p1v4IdsAA_0000002 347.9 354.7 
+Joan_Cusack/o0p1v4IdsAA_0000003 372.4 378.6 
+Joan_Cusack/o0p1v4IdsAA_0000004 385.7 391.4 
+Joan_Cusack/o0p1v4IdsAA_0000005 392.3 401.9 
+Joan_Cusack/o0p1v4IdsAA_0000006 410.0 414.2 
+Joan_Cusack/o0p1v4IdsAA_0000007 414.4 423.2 
+Joan_Cusack/o0p1v4IdsAA_0000008 423.6 428.8 
+Joan_Cusack/o0p1v4IdsAA_0000009 435.8 441.7 
+Joan_Cusack/o0p1v4IdsAA_0000010 456.4 460.8 
+Joan_Cusack/o0p1v4IdsAA_0000011 468.2 476.9 

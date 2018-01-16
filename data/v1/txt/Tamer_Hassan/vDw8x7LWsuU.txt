@@ -1,0 +1,14 @@
+POI: 			Tamer_Hassan 
+Youtube ID: 	vDw8x7LWsuU 
+Video length: 	266.0 sec 
+Set (V): 		dev 
+ 
+Tamer_Hassan/vDw8x7LWsuU_0000001 16.2 24.9 
+Tamer_Hassan/vDw8x7LWsuU_0000002 96.5 100.6 
+Tamer_Hassan/vDw8x7LWsuU_0000003 108.7 113.5 
+Tamer_Hassan/vDw8x7LWsuU_0000004 135.7 158.2 
+Tamer_Hassan/vDw8x7LWsuU_0000005 161.5 165.8 
+Tamer_Hassan/vDw8x7LWsuU_0000006 169.7 180.7 
+Tamer_Hassan/vDw8x7LWsuU_0000007 181.0 186.0 
+Tamer_Hassan/vDw8x7LWsuU_0000008 197.4 204.9 
+Tamer_Hassan/vDw8x7LWsuU_0000009 205.1 212.5 

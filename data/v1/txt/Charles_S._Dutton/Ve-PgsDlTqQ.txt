@@ -1,0 +1,9 @@
+POI: 			Charles_S._Dutton 
+Youtube ID: 	Ve-PgsDlTqQ 
+Video length: 	649.6 sec 
+Set (V): 		dev 
+ 
+Charles_S._Dutton/Ve-PgsDlTqQ_0000001 309.5 320.2 
+Charles_S._Dutton/Ve-PgsDlTqQ_0000002 322.2 329.8 
+Charles_S._Dutton/Ve-PgsDlTqQ_0000003 331.8 340.4 
+Charles_S._Dutton/Ve-PgsDlTqQ_0000004 341.4 348.9 

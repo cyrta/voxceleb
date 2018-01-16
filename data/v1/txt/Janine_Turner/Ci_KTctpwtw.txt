@@ -1,0 +1,9 @@
+POI: 			Janine_Turner 
+Youtube ID: 	Ci_KTctpwtw 
+Video length: 	227.6 sec 
+Set (V): 		dev 
+ 
+Janine_Turner/Ci_KTctpwtw_0000001 47.0 51.0 
+Janine_Turner/Ci_KTctpwtw_0000002 53.1 57.4 
+Janine_Turner/Ci_KTctpwtw_0000003 62.0 69.5 
+Janine_Turner/Ci_KTctpwtw_0000004 127.3 132.5 

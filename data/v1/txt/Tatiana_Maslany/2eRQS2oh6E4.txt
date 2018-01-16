@@ -1,0 +1,13 @@
+POI: 			Tatiana_Maslany 
+Youtube ID: 	2eRQS2oh6E4 
+Video length: 	307.2 sec 
+Set (V): 		dev 
+ 
+Tatiana_Maslany/2eRQS2oh6E4_0000001 51.1 64.5 
+Tatiana_Maslany/2eRQS2oh6E4_0000002 89.2 93.2 
+Tatiana_Maslany/2eRQS2oh6E4_0000003 101.4 113.2 
+Tatiana_Maslany/2eRQS2oh6E4_0000004 125.0 136.5 
+Tatiana_Maslany/2eRQS2oh6E4_0000005 169.4 179.6 
+Tatiana_Maslany/2eRQS2oh6E4_0000006 180.2 184.4 
+Tatiana_Maslany/2eRQS2oh6E4_0000007 222.8 227.4 
+Tatiana_Maslany/2eRQS2oh6E4_0000008 257.0 264.0 

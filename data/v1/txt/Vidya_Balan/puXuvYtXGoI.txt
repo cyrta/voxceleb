@@ -1,0 +1,22 @@
+POI: 			Vidya_Balan 
+Youtube ID: 	puXuvYtXGoI 
+Video length: 	1401.3 sec 
+Set (V): 		dev 
+ 
+Vidya_Balan/puXuvYtXGoI_0000001 88.8 94.3 
+Vidya_Balan/puXuvYtXGoI_0000002 260.4 266.4 
+Vidya_Balan/puXuvYtXGoI_0000003 387.6 394.8 
+Vidya_Balan/puXuvYtXGoI_0000004 408.5 414.3 
+Vidya_Balan/puXuvYtXGoI_0000005 435.0 439.3 
+Vidya_Balan/puXuvYtXGoI_0000006 447.3 454.9 
+Vidya_Balan/puXuvYtXGoI_0000007 610.8 621.6 
+Vidya_Balan/puXuvYtXGoI_0000008 744.6 749.1 
+Vidya_Balan/puXuvYtXGoI_0000009 864.8 870.4 
+Vidya_Balan/puXuvYtXGoI_0000010 1014.9 1024.0 
+Vidya_Balan/puXuvYtXGoI_0000011 1088.4 1095.7 
+Vidya_Balan/puXuvYtXGoI_0000012 1113.0 1118.4 
+Vidya_Balan/puXuvYtXGoI_0000013 1148.6 1153.0 
+Vidya_Balan/puXuvYtXGoI_0000014 1156.4 1167.8 
+Vidya_Balan/puXuvYtXGoI_0000015 1178.6 1183.2 
+Vidya_Balan/puXuvYtXGoI_0000016 1237.7 1242.9 
+Vidya_Balan/puXuvYtXGoI_0000017 1247.3 1253.4 

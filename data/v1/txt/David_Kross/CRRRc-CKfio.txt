@@ -1,0 +1,35 @@
+POI: 			David_Kross 
+Youtube ID: 	CRRRc-CKfio 
+Video length: 	535.8 sec 
+Set (V): 		dev 
+ 
+David_Kross/CRRRc-CKfio_0000001 64.6 71.0 
+David_Kross/CRRRc-CKfio_0000002 74.6 81.0 
+David_Kross/CRRRc-CKfio_0000003 86.0 96.0 
+David_Kross/CRRRc-CKfio_0000004 113.8 119.1 
+David_Kross/CRRRc-CKfio_0000005 124.4 129.5 
+David_Kross/CRRRc-CKfio_0000006 158.4 167.0 
+David_Kross/CRRRc-CKfio_0000007 167.1 175.4 
+David_Kross/CRRRc-CKfio_0000008 175.6 182.5 
+David_Kross/CRRRc-CKfio_0000009 183.6 188.2 
+David_Kross/CRRRc-CKfio_0000010 208.8 214.9 
+David_Kross/CRRRc-CKfio_0000011 215.1 219.2 
+David_Kross/CRRRc-CKfio_0000012 231.1 236.6 
+David_Kross/CRRRc-CKfio_0000013 245.2 256.0 
+David_Kross/CRRRc-CKfio_0000014 274.8 279.4 
+David_Kross/CRRRc-CKfio_0000015 280.4 284.6 
+David_Kross/CRRRc-CKfio_0000016 288.6 304.2 
+David_Kross/CRRRc-CKfio_0000017 307.4 312.8 
+David_Kross/CRRRc-CKfio_0000018 329.7 335.8 
+David_Kross/CRRRc-CKfio_0000019 337.0 343.9 
+David_Kross/CRRRc-CKfio_0000020 348.8 356.3 
+David_Kross/CRRRc-CKfio_0000021 357.3 363.1 
+David_Kross/CRRRc-CKfio_0000022 375.8 386.5 
+David_Kross/CRRRc-CKfio_0000023 389.6 393.8 
+David_Kross/CRRRc-CKfio_0000024 394.6 400.7 
+David_Kross/CRRRc-CKfio_0000025 402.6 414.7 
+David_Kross/CRRRc-CKfio_0000026 434.1 439.8 
+David_Kross/CRRRc-CKfio_0000027 445.3 452.1 
+David_Kross/CRRRc-CKfio_0000028 486.7 491.1 
+David_Kross/CRRRc-CKfio_0000029 500.8 507.0 
+David_Kross/CRRRc-CKfio_0000030 519.6 526.7 

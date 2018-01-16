@@ -1,0 +1,17 @@
+POI: 			Martin_Shaw 
+Youtube ID: 	5KpXlTcmrak 
+Video length: 	353.0 sec 
+Set (V): 		dev 
+ 
+Martin_Shaw/5KpXlTcmrak_0000001 14.9 19.0 
+Martin_Shaw/5KpXlTcmrak_0000002 32.4 36.8 
+Martin_Shaw/5KpXlTcmrak_0000003 77.5 85.6 
+Martin_Shaw/5KpXlTcmrak_0000004 95.7 99.8 
+Martin_Shaw/5KpXlTcmrak_0000005 100.2 117.9 
+Martin_Shaw/5KpXlTcmrak_0000006 143.4 156.1 
+Martin_Shaw/5KpXlTcmrak_0000007 218.8 228.0 
+Martin_Shaw/5KpXlTcmrak_0000008 234.1 238.6 
+Martin_Shaw/5KpXlTcmrak_0000009 293.1 301.4 
+Martin_Shaw/5KpXlTcmrak_0000010 301.9 306.3 
+Martin_Shaw/5KpXlTcmrak_0000011 317.1 321.2 
+Martin_Shaw/5KpXlTcmrak_0000012 334.2 339.5 

@@ -1,0 +1,13 @@
+POI: 			Chris_Pine 
+Youtube ID: 	b_yQb6Es4xc 
+Video length: 	296.2 sec 
+Set (V): 		dev 
+ 
+Chris_Pine/b_yQb6Es4xc_0000001 48.5 52.6 
+Chris_Pine/b_yQb6Es4xc_0000002 74.6 85.3 
+Chris_Pine/b_yQb6Es4xc_0000003 182.8 187.5 
+Chris_Pine/b_yQb6Es4xc_0000004 214.9 221.2 
+Chris_Pine/b_yQb6Es4xc_0000005 242.3 247.5 
+Chris_Pine/b_yQb6Es4xc_0000006 248.1 252.6 
+Chris_Pine/b_yQb6Es4xc_0000007 271.1 278.1 
+Chris_Pine/b_yQb6Es4xc_0000008 269.5 276.7 

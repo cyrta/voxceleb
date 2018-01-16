@@ -1,0 +1,8 @@
+POI: 			Kenya_Moore 
+Youtube ID: 	DXVCgo3lHmo 
+Video length: 	318.7 sec 
+Set (V): 		dev 
+ 
+Kenya_Moore/DXVCgo3lHmo_0000001 51.1 55.4 
+Kenya_Moore/DXVCgo3lHmo_0000002 82.9 87.1 
+Kenya_Moore/DXVCgo3lHmo_0000003 258.1 262.3 

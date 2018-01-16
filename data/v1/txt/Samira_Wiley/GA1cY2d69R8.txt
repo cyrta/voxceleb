@@ -1,0 +1,9 @@
+POI: 			Samira_Wiley 
+Youtube ID: 	GA1cY2d69R8 
+Video length: 	373.8 sec 
+Set (V): 		dev 
+ 
+Samira_Wiley/GA1cY2d69R8_0000001 57.0 61.9 
+Samira_Wiley/GA1cY2d69R8_0000002 62.0 67.1 
+Samira_Wiley/GA1cY2d69R8_0000003 189.0 193.1 
+Samira_Wiley/GA1cY2d69R8_0000004 214.9 220.2 

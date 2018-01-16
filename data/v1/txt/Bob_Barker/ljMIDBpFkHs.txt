@@ -1,0 +1,11 @@
+POI: 			Bob_Barker 
+Youtube ID: 	ljMIDBpFkHs 
+Video length: 	105.2 sec 
+Set (V): 		dev 
+ 
+Bob_Barker/ljMIDBpFkHs_0000001 07.6 13.8 
+Bob_Barker/ljMIDBpFkHs_0000002 18.2 28.0 
+Bob_Barker/ljMIDBpFkHs_0000003 28.5 37.2 
+Bob_Barker/ljMIDBpFkHs_0000004 42.0 52.8 
+Bob_Barker/ljMIDBpFkHs_0000005 62.9 70.1 
+Bob_Barker/ljMIDBpFkHs_0000006 78.4 92.9 

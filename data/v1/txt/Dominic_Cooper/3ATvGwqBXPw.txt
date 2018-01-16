@@ -1,0 +1,14 @@
+POI: 			Dominic_Cooper 
+Youtube ID: 	3ATvGwqBXPw 
+Video length: 	228.6 sec 
+Set (V): 		dev 
+ 
+Dominic_Cooper/3ATvGwqBXPw_0000001 27.2 31.4 
+Dominic_Cooper/3ATvGwqBXPw_0000002 46.2 59.0 
+Dominic_Cooper/3ATvGwqBXPw_0000003 77.9 90.0 
+Dominic_Cooper/3ATvGwqBXPw_0000004 94.0 98.3 
+Dominic_Cooper/3ATvGwqBXPw_0000005 106.2 116.4 
+Dominic_Cooper/3ATvGwqBXPw_0000006 117.0 122.6 
+Dominic_Cooper/3ATvGwqBXPw_0000007 133.2 158.1 
+Dominic_Cooper/3ATvGwqBXPw_0000008 172.8 179.7 
+Dominic_Cooper/3ATvGwqBXPw_0000009 223.1 227.1 

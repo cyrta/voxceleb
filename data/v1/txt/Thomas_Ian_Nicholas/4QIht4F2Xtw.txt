@@ -1,0 +1,9 @@
+POI: 			Thomas_Ian_Nicholas 
+Youtube ID: 	4QIht4F2Xtw 
+Video length: 	224.6 sec 
+Set (V): 		dev 
+ 
+Thomas_Ian_Nicholas/4QIht4F2Xtw_0000001 05.4 13.8 
+Thomas_Ian_Nicholas/4QIht4F2Xtw_0000002 23.3 30.2 
+Thomas_Ian_Nicholas/4QIht4F2Xtw_0000003 205.3 210.4 
+Thomas_Ian_Nicholas/4QIht4F2Xtw_0000004 213.9 220.2 

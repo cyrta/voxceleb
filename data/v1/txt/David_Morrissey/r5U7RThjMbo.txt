@@ -1,0 +1,10 @@
+POI: 			David_Morrissey 
+Youtube ID: 	r5U7RThjMbo 
+Video length: 	107.9 sec 
+Set (V): 		dev 
+ 
+David_Morrissey/r5U7RThjMbo_0000001 28.0 32.8 
+David_Morrissey/r5U7RThjMbo_0000002 38.9 46.2 
+David_Morrissey/r5U7RThjMbo_0000003 56.4 60.7 
+David_Morrissey/r5U7RThjMbo_0000004 61.6 67.0 
+David_Morrissey/r5U7RThjMbo_0000005 85.1 90.3 

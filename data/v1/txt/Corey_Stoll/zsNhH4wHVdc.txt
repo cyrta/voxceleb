@@ -1,0 +1,8 @@
+POI: 			Corey_Stoll 
+Youtube ID: 	zsNhH4wHVdc 
+Video length: 	205.5 sec 
+Set (V): 		dev 
+ 
+Corey_Stoll/zsNhH4wHVdc_0000001 62.8 67.1 
+Corey_Stoll/zsNhH4wHVdc_0000002 119.6 128.4 
+Corey_Stoll/zsNhH4wHVdc_0000003 158.9 165.4 

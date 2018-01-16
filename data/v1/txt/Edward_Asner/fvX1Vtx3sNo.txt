@@ -1,0 +1,11 @@
+POI: 			Edward_Asner 
+Youtube ID: 	fvX1Vtx3sNo 
+Video length: 	300.7 sec 
+Set (V): 		test 
+ 
+Edward_Asner/fvX1Vtx3sNo_0000001 117.1 124.4 
+Edward_Asner/fvX1Vtx3sNo_0000002 125.8 131.0 
+Edward_Asner/fvX1Vtx3sNo_0000003 236.1 241.8 
+Edward_Asner/fvX1Vtx3sNo_0000004 263.2 267.6 
+Edward_Asner/fvX1Vtx3sNo_0000005 257.6 262.3 
+Edward_Asner/fvX1Vtx3sNo_0000006 263.2 267.6 

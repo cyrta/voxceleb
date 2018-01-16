@@ -1,0 +1,8 @@
+POI: 			Hugh_Dancy 
+Youtube ID: 	MBCjG0CcQDE 
+Video length: 	254.6 sec 
+Set (V): 		dev 
+ 
+Hugh_Dancy/MBCjG0CcQDE_0000001 25.8 38.4 
+Hugh_Dancy/MBCjG0CcQDE_0000002 41.4 49.0 
+Hugh_Dancy/MBCjG0CcQDE_0000003 114.7 149.3 

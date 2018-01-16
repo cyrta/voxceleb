@@ -1,0 +1,10 @@
+POI: 			Ben_McKenzie 
+Youtube ID: 	bTUbI1FdSAI 
+Video length: 	238.5 sec 
+Set (V): 		dev 
+ 
+Ben_McKenzie/bTUbI1FdSAI_0000001 14.7 40.4 
+Ben_McKenzie/bTUbI1FdSAI_0000002 45.0 52.1 
+Ben_McKenzie/bTUbI1FdSAI_0000003 113.7 119.7 
+Ben_McKenzie/bTUbI1FdSAI_0000004 120.3 125.3 
+Ben_McKenzie/bTUbI1FdSAI_0000005 143.1 148.0 

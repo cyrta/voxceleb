@@ -1,0 +1,8 @@
+POI: 			Cote_de_Pablo 
+Youtube ID: 	4R7Ms1-SaCY 
+Video length: 	599.7 sec 
+Set (V): 		dev 
+ 
+Cote_de_Pablo/4R7Ms1-SaCY_0000001 107.0 112.2 
+Cote_de_Pablo/4R7Ms1-SaCY_0000002 262.4 272.1 
+Cote_de_Pablo/4R7Ms1-SaCY_0000003 287.1 291.4 

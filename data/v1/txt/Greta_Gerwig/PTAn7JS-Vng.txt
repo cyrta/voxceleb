@@ -1,0 +1,10 @@
+POI: 			Greta_Gerwig 
+Youtube ID: 	PTAn7JS-Vng 
+Video length: 	190.2 sec 
+Set (V): 		dev 
+ 
+Greta_Gerwig/PTAn7JS-Vng_0000001 116.3 121.7 
+Greta_Gerwig/PTAn7JS-Vng_0000002 126.9 138.6 
+Greta_Gerwig/PTAn7JS-Vng_0000003 140.7 145.6 
+Greta_Gerwig/PTAn7JS-Vng_0000004 160.8 173.4 
+Greta_Gerwig/PTAn7JS-Vng_0000005 176.1 182.9 

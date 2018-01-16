@@ -1,0 +1,15 @@
+POI: 			Paul_Gross 
+Youtube ID: 	mGBRuI2HWl0 
+Video length: 	311.3 sec 
+Set (V): 		dev 
+ 
+Paul_Gross/mGBRuI2HWl0_0000001 49.2 68.9 
+Paul_Gross/mGBRuI2HWl0_0000002 83.4 88.8 
+Paul_Gross/mGBRuI2HWl0_0000003 91.3 96.5 
+Paul_Gross/mGBRuI2HWl0_0000004 103.1 112.1 
+Paul_Gross/mGBRuI2HWl0_0000005 210.0 230.1 
+Paul_Gross/mGBRuI2HWl0_0000006 233.7 247.4 
+Paul_Gross/mGBRuI2HWl0_0000007 252.4 261.0 
+Paul_Gross/mGBRuI2HWl0_0000008 261.3 265.3 
+Paul_Gross/mGBRuI2HWl0_0000009 267.6 272.6 
+Paul_Gross/mGBRuI2HWl0_0000010 295.3 300.7 

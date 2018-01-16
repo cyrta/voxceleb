@@ -1,0 +1,8 @@
+POI: 			Mandy_Patinkin 
+Youtube ID: 	n8sgGgoBPY4 
+Video length: 	184.0 sec 
+Set (V): 		dev 
+ 
+Mandy_Patinkin/n8sgGgoBPY4_0000001 20.0 27.8 
+Mandy_Patinkin/n8sgGgoBPY4_0000002 26.7 31.6 
+Mandy_Patinkin/n8sgGgoBPY4_0000003 39.9 45.0 

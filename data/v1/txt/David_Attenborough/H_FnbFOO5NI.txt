@@ -1,0 +1,34 @@
+POI: 			David_Attenborough 
+Youtube ID: 	H_FnbFOO5NI 
+Video length: 	490.5 sec 
+Set (V): 		dev 
+ 
+David_Attenborough/H_FnbFOO5NI_0000001 30.0 35.6 
+David_Attenborough/H_FnbFOO5NI_0000002 47.6 51.8 
+David_Attenborough/H_FnbFOO5NI_0000003 52.9 57.4 
+David_Attenborough/H_FnbFOO5NI_0000004 71.7 77.0 
+David_Attenborough/H_FnbFOO5NI_0000005 83.4 87.7 
+David_Attenborough/H_FnbFOO5NI_0000006 91.6 95.8 
+David_Attenborough/H_FnbFOO5NI_0000007 105.9 116.0 
+David_Attenborough/H_FnbFOO5NI_0000008 121.7 126.8 
+David_Attenborough/H_FnbFOO5NI_0000009 157.7 162.8 
+David_Attenborough/H_FnbFOO5NI_0000010 166.6 173.2 
+David_Attenborough/H_FnbFOO5NI_0000011 177.4 182.0 
+David_Attenborough/H_FnbFOO5NI_0000012 187.0 191.2 
+David_Attenborough/H_FnbFOO5NI_0000013 193.1 199.8 
+David_Attenborough/H_FnbFOO5NI_0000014 201.0 208.4 
+David_Attenborough/H_FnbFOO5NI_0000015 211.7 218.8 
+David_Attenborough/H_FnbFOO5NI_0000016 229.8 235.6 
+David_Attenborough/H_FnbFOO5NI_0000017 253.4 259.8 
+David_Attenborough/H_FnbFOO5NI_0000018 260.9 266.3 
+David_Attenborough/H_FnbFOO5NI_0000019 298.8 302.9 
+David_Attenborough/H_FnbFOO5NI_0000020 308.9 314.4 
+David_Attenborough/H_FnbFOO5NI_0000021 316.8 321.3 
+David_Attenborough/H_FnbFOO5NI_0000022 321.8 326.4 
+David_Attenborough/H_FnbFOO5NI_0000023 334.8 342.8 
+David_Attenborough/H_FnbFOO5NI_0000024 351.1 355.7 
+David_Attenborough/H_FnbFOO5NI_0000025 381.6 387.4 
+David_Attenborough/H_FnbFOO5NI_0000026 391.7 405.2 
+David_Attenborough/H_FnbFOO5NI_0000027 421.6 426.2 
+David_Attenborough/H_FnbFOO5NI_0000028 429.8 435.7 
+David_Attenborough/H_FnbFOO5NI_0000029 436.4 440.8 

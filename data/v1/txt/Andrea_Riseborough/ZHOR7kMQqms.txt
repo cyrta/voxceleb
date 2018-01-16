@@ -1,0 +1,7 @@
+POI: 			Andrea_Riseborough 
+Youtube ID: 	ZHOR7kMQqms 
+Video length: 	143.3 sec 
+Set (V): 		dev 
+ 
+Andrea_Riseborough/ZHOR7kMQqms_0000001 38.6 43.0 
+Andrea_Riseborough/ZHOR7kMQqms_0000002 109.4 116.5 

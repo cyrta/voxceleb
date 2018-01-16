@@ -1,0 +1,20 @@
+POI: 			David_Mazouz 
+Youtube ID: 	9TVyLvhBmbo 
+Video length: 	341.6 sec 
+Set (V): 		dev 
+ 
+David_Mazouz/9TVyLvhBmbo_0000001 35.7 42.3 
+David_Mazouz/9TVyLvhBmbo_0000002 70.9 75.5 
+David_Mazouz/9TVyLvhBmbo_0000003 85.9 90.7 
+David_Mazouz/9TVyLvhBmbo_0000004 108.0 112.8 
+David_Mazouz/9TVyLvhBmbo_0000005 114.9 120.3 
+David_Mazouz/9TVyLvhBmbo_0000006 124.6 128.8 
+David_Mazouz/9TVyLvhBmbo_0000007 142.9 147.8 
+David_Mazouz/9TVyLvhBmbo_0000008 149.4 154.0 
+David_Mazouz/9TVyLvhBmbo_0000009 154.2 165.2 
+David_Mazouz/9TVyLvhBmbo_0000010 165.3 173.4 
+David_Mazouz/9TVyLvhBmbo_0000011 206.1 215.8 
+David_Mazouz/9TVyLvhBmbo_0000012 256.2 262.4 
+David_Mazouz/9TVyLvhBmbo_0000013 278.6 283.9 
+David_Mazouz/9TVyLvhBmbo_0000014 299.2 304.0 
+David_Mazouz/9TVyLvhBmbo_0000015 318.9 325.8 

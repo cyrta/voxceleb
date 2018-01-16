@@ -1,0 +1,9 @@
+POI: 			Dick_Van_Dyke 
+Youtube ID: 	MmKE277HcVw 
+Video length: 	233.6 sec 
+Set (V): 		dev 
+ 
+Dick_Van_Dyke/MmKE277HcVw_0000001 20.0 24.8 
+Dick_Van_Dyke/MmKE277HcVw_0000002 32.9 41.8 
+Dick_Van_Dyke/MmKE277HcVw_0000003 101.9 108.9 
+Dick_Van_Dyke/MmKE277HcVw_0000004 146.4 152.2 

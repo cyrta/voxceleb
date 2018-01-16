@@ -1,0 +1,11 @@
+POI: 			Raini_Rodriguez 
+Youtube ID: 	T4kytZc5DZ4 
+Video length: 	319.1 sec 
+Set (V): 		dev 
+ 
+Raini_Rodriguez/T4kytZc5DZ4_0000001 70.7 75.2 
+Raini_Rodriguez/T4kytZc5DZ4_0000002 123.5 127.8 
+Raini_Rodriguez/T4kytZc5DZ4_0000003 189.1 196.2 
+Raini_Rodriguez/T4kytZc5DZ4_0000004 229.2 245.1 
+Raini_Rodriguez/T4kytZc5DZ4_0000005 250.3 257.9 
+Raini_Rodriguez/T4kytZc5DZ4_0000006 278.6 290.2 

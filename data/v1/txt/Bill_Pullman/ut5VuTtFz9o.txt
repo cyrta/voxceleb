@@ -1,0 +1,23 @@
+POI: 			Bill_Pullman 
+Youtube ID: 	ut5VuTtFz9o 
+Video length: 	313.2 sec 
+Set (V): 		dev 
+ 
+Bill_Pullman/ut5VuTtFz9o_0000001 02.8 08.4 
+Bill_Pullman/ut5VuTtFz9o_0000002 18.7 27.6 
+Bill_Pullman/ut5VuTtFz9o_0000003 44.0 48.6 
+Bill_Pullman/ut5VuTtFz9o_0000004 53.3 62.6 
+Bill_Pullman/ut5VuTtFz9o_0000005 62.9 69.4 
+Bill_Pullman/ut5VuTtFz9o_0000006 78.2 87.8 
+Bill_Pullman/ut5VuTtFz9o_0000007 96.9 101.6 
+Bill_Pullman/ut5VuTtFz9o_0000008 117.9 124.1 
+Bill_Pullman/ut5VuTtFz9o_0000009 127.1 131.7 
+Bill_Pullman/ut5VuTtFz9o_0000010 135.6 140.2 
+Bill_Pullman/ut5VuTtFz9o_0000011 152.2 156.4 
+Bill_Pullman/ut5VuTtFz9o_0000012 157.5 163.0 
+Bill_Pullman/ut5VuTtFz9o_0000013 194.6 199.8 
+Bill_Pullman/ut5VuTtFz9o_0000014 212.2 218.2 
+Bill_Pullman/ut5VuTtFz9o_0000015 240.3 245.3 
+Bill_Pullman/ut5VuTtFz9o_0000016 259.3 264.2 
+Bill_Pullman/ut5VuTtFz9o_0000017 268.8 274.9 
+Bill_Pullman/ut5VuTtFz9o_0000018 293.0 303.1 

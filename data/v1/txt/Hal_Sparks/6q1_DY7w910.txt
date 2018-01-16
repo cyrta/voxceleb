@@ -1,0 +1,11 @@
+POI: 			Hal_Sparks 
+Youtube ID: 	6q1_DY7w910 
+Video length: 	402.3 sec 
+Set (V): 		dev 
+ 
+Hal_Sparks/6q1_DY7w910_0000001 118.6 123.1 
+Hal_Sparks/6q1_DY7w910_0000002 143.8 148.6 
+Hal_Sparks/6q1_DY7w910_0000003 161.6 166.3 
+Hal_Sparks/6q1_DY7w910_0000004 176.1 181.7 
+Hal_Sparks/6q1_DY7w910_0000005 268.5 273.9 
+Hal_Sparks/6q1_DY7w910_0000006 294.7 309.5 

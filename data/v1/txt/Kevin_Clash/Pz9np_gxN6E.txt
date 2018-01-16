@@ -1,0 +1,33 @@
+POI: 			Kevin_Clash 
+Youtube ID: 	Pz9np_gxN6E 
+Video length: 	384.3 sec 
+Set (V): 		dev 
+ 
+Kevin_Clash/Pz9np_gxN6E_0000001 24.1 30.9 
+Kevin_Clash/Pz9np_gxN6E_0000002 31.9 42.2 
+Kevin_Clash/Pz9np_gxN6E_0000003 44.2 51.1 
+Kevin_Clash/Pz9np_gxN6E_0000004 52.8 63.5 
+Kevin_Clash/Pz9np_gxN6E_0000005 72.5 76.8 
+Kevin_Clash/Pz9np_gxN6E_0000006 80.3 97.2 
+Kevin_Clash/Pz9np_gxN6E_0000007 97.0 101.4 
+Kevin_Clash/Pz9np_gxN6E_0000008 114.0 121.4 
+Kevin_Clash/Pz9np_gxN6E_0000009 126.9 132.7 
+Kevin_Clash/Pz9np_gxN6E_0000010 133.7 138.7 
+Kevin_Clash/Pz9np_gxN6E_0000011 149.4 162.8 
+Kevin_Clash/Pz9np_gxN6E_0000012 163.8 168.0 
+Kevin_Clash/Pz9np_gxN6E_0000013 168.4 176.1 
+Kevin_Clash/Pz9np_gxN6E_0000014 177.2 183.4 
+Kevin_Clash/Pz9np_gxN6E_0000015 186.7 191.4 
+Kevin_Clash/Pz9np_gxN6E_0000016 202.4 220.2 
+Kevin_Clash/Pz9np_gxN6E_0000017 221.0 228.3 
+Kevin_Clash/Pz9np_gxN6E_0000018 233.4 241.7 
+Kevin_Clash/Pz9np_gxN6E_0000019 250.4 255.4 
+Kevin_Clash/Pz9np_gxN6E_0000020 257.5 262.0 
+Kevin_Clash/Pz9np_gxN6E_0000021 293.2 297.3 
+Kevin_Clash/Pz9np_gxN6E_0000022 297.6 301.6 
+Kevin_Clash/Pz9np_gxN6E_0000023 318.4 326.8 
+Kevin_Clash/Pz9np_gxN6E_0000024 332.5 337.2 
+Kevin_Clash/Pz9np_gxN6E_0000025 347.2 353.8 
+Kevin_Clash/Pz9np_gxN6E_0000026 353.8 362.7 
+Kevin_Clash/Pz9np_gxN6E_0000027 363.4 368.6 
+Kevin_Clash/Pz9np_gxN6E_0000028 370.0 374.1 

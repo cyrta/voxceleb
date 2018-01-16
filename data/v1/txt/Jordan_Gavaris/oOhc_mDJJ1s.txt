@@ -1,0 +1,8 @@
+POI: 			Jordan_Gavaris 
+Youtube ID: 	oOhc_mDJJ1s 
+Video length: 	135.6 sec 
+Set (V): 		dev 
+ 
+Jordan_Gavaris/oOhc_mDJJ1s_0000001 28.5 33.9 
+Jordan_Gavaris/oOhc_mDJJ1s_0000002 37.0 44.4 
+Jordan_Gavaris/oOhc_mDJJ1s_0000003 44.6 64.7 

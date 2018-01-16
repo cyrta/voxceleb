@@ -1,0 +1,8 @@
+POI: 			Andrea_Riseborough 
+Youtube ID: 	tiRBopKus6w 
+Video length: 	97.3 sec 
+Set (V): 		dev 
+ 
+Andrea_Riseborough/tiRBopKus6w_0000001 21.0 25.2 
+Andrea_Riseborough/tiRBopKus6w_0000002 27.9 32.1 
+Andrea_Riseborough/tiRBopKus6w_0000003 28.0 32.1 

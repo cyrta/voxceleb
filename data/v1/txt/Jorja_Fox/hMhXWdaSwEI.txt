@@ -1,0 +1,9 @@
+POI: 			Jorja_Fox 
+Youtube ID: 	hMhXWdaSwEI 
+Video length: 	56.8 sec 
+Set (V): 		dev 
+ 
+Jorja_Fox/hMhXWdaSwEI_0000001 02.8 13.2 
+Jorja_Fox/hMhXWdaSwEI_0000002 13.3 19.6 
+Jorja_Fox/hMhXWdaSwEI_0000003 30.8 34.9 
+Jorja_Fox/hMhXWdaSwEI_0000004 46.9 53.2 

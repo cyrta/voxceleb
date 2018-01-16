@@ -1,0 +1,20 @@
+POI: 			Mark_Strong 
+Youtube ID: 	psPu6ooU8tA 
+Video length: 	292.0 sec 
+Set (V): 		dev 
+ 
+Mark_Strong/psPu6ooU8tA_0000001 12.5 38.0 
+Mark_Strong/psPu6ooU8tA_0000002 47.5 53.8 
+Mark_Strong/psPu6ooU8tA_0000003 54.3 64.5 
+Mark_Strong/psPu6ooU8tA_0000004 71.6 81.6 
+Mark_Strong/psPu6ooU8tA_0000005 81.8 88.3 
+Mark_Strong/psPu6ooU8tA_0000006 89.6 104.4 
+Mark_Strong/psPu6ooU8tA_0000007 111.8 140.8 
+Mark_Strong/psPu6ooU8tA_0000008 141.5 149.7 
+Mark_Strong/psPu6ooU8tA_0000009 164.4 191.4 
+Mark_Strong/psPu6ooU8tA_0000010 201.9 209.8 
+Mark_Strong/psPu6ooU8tA_0000011 210.0 225.8 
+Mark_Strong/psPu6ooU8tA_0000012 226.8 230.9 
+Mark_Strong/psPu6ooU8tA_0000013 244.0 248.8 
+Mark_Strong/psPu6ooU8tA_0000014 249.2 265.1 
+Mark_Strong/psPu6ooU8tA_0000015 266.6 272.7 

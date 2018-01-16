@@ -1,0 +1,8 @@
+POI: 			Michelle_Monaghan 
+Youtube ID: 	Z1k_5KJMfqs 
+Video length: 	189.4 sec 
+Set (V): 		dev 
+ 
+Michelle_Monaghan/Z1k_5KJMfqs_0000001 80.3 87.8 
+Michelle_Monaghan/Z1k_5KJMfqs_0000002 156.7 162.5 
+Michelle_Monaghan/Z1k_5KJMfqs_0000003 162.6 171.5 

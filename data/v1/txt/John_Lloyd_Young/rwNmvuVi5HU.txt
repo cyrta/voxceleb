@@ -1,0 +1,14 @@
+POI: 			John_Lloyd_Young 
+Youtube ID: 	rwNmvuVi5HU 
+Video length: 	299.7 sec 
+Set (V): 		dev 
+ 
+John_Lloyd_Young/rwNmvuVi5HU_0000001 54.7 60.1 
+John_Lloyd_Young/rwNmvuVi5HU_0000002 77.4 88.6 
+John_Lloyd_Young/rwNmvuVi5HU_0000003 92.3 98.7 
+John_Lloyd_Young/rwNmvuVi5HU_0000004 114.5 149.4 
+John_Lloyd_Young/rwNmvuVi5HU_0000005 150.0 154.6 
+John_Lloyd_Young/rwNmvuVi5HU_0000006 155.4 180.9 
+John_Lloyd_Young/rwNmvuVi5HU_0000007 213.6 218.5 
+John_Lloyd_Young/rwNmvuVi5HU_0000008 225.0 229.3 
+John_Lloyd_Young/rwNmvuVi5HU_0000009 254.1 269.8 

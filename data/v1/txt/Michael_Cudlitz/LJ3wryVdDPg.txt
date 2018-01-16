@@ -1,0 +1,19 @@
+POI: 			Michael_Cudlitz 
+Youtube ID: 	LJ3wryVdDPg 
+Video length: 	665.9 sec 
+Set (V): 		dev 
+ 
+Michael_Cudlitz/LJ3wryVdDPg_0000001 368.5 378.3 
+Michael_Cudlitz/LJ3wryVdDPg_0000002 385.2 390.4 
+Michael_Cudlitz/LJ3wryVdDPg_0000003 412.3 418.0 
+Michael_Cudlitz/LJ3wryVdDPg_0000004 431.0 437.8 
+Michael_Cudlitz/LJ3wryVdDPg_0000005 444.7 453.3 
+Michael_Cudlitz/LJ3wryVdDPg_0000006 456.9 461.5 
+Michael_Cudlitz/LJ3wryVdDPg_0000007 477.1 481.3 
+Michael_Cudlitz/LJ3wryVdDPg_0000008 482.4 486.9 
+Michael_Cudlitz/LJ3wryVdDPg_0000009 520.4 524.4 
+Michael_Cudlitz/LJ3wryVdDPg_0000010 565.9 571.4 
+Michael_Cudlitz/LJ3wryVdDPg_0000011 576.7 583.2 
+Michael_Cudlitz/LJ3wryVdDPg_0000012 584.4 590.7 
+Michael_Cudlitz/LJ3wryVdDPg_0000013 592.8 605.7 
+Michael_Cudlitz/LJ3wryVdDPg_0000014 630.5 638.0 

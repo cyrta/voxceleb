@@ -1,0 +1,17 @@
+POI: 			Omari_Hardwick 
+Youtube ID: 	uqyFDkFlkr4 
+Video length: 	545.9 sec 
+Set (V): 		dev 
+ 
+Omari_Hardwick/uqyFDkFlkr4_0000001 328.1 337.2 
+Omari_Hardwick/uqyFDkFlkr4_0000002 343.8 349.8 
+Omari_Hardwick/uqyFDkFlkr4_0000003 352.4 389.2 
+Omari_Hardwick/uqyFDkFlkr4_0000004 387.1 402.1 
+Omari_Hardwick/uqyFDkFlkr4_0000005 409.8 420.8 
+Omari_Hardwick/uqyFDkFlkr4_0000006 421.0 446.2 
+Omari_Hardwick/uqyFDkFlkr4_0000007 449.2 465.6 
+Omari_Hardwick/uqyFDkFlkr4_0000008 466.3 480.7 
+Omari_Hardwick/uqyFDkFlkr4_0000009 482.9 488.3 
+Omari_Hardwick/uqyFDkFlkr4_0000010 490.3 496.9 
+Omari_Hardwick/uqyFDkFlkr4_0000011 499.0 518.4 
+Omari_Hardwick/uqyFDkFlkr4_0000012 520.8 528.1 

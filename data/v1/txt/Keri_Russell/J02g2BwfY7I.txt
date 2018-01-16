@@ -1,0 +1,12 @@
+POI: 			Keri_Russell 
+Youtube ID: 	J02g2BwfY7I 
+Video length: 	1006.7 sec 
+Set (V): 		dev 
+ 
+Keri_Russell/J02g2BwfY7I_0000001 74.8 83.9 
+Keri_Russell/J02g2BwfY7I_0000002 84.1 92.2 
+Keri_Russell/J02g2BwfY7I_0000003 92.4 98.4 
+Keri_Russell/J02g2BwfY7I_0000004 163.7 169.4 
+Keri_Russell/J02g2BwfY7I_0000005 220.0 224.2 
+Keri_Russell/J02g2BwfY7I_0000006 788.8 796.9 
+Keri_Russell/J02g2BwfY7I_0000007 800.6 806.6 

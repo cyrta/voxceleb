@@ -1,0 +1,10 @@
+POI: 			Dan_Stevens 
+Youtube ID: 	uFovYf8F23o 
+Video length: 	90.0 sec 
+Set (V): 		dev 
+ 
+Dan_Stevens/uFovYf8F23o_0000001 08.0 23.1 
+Dan_Stevens/uFovYf8F23o_0000002 37.5 42.8 
+Dan_Stevens/uFovYf8F23o_0000003 51.3 60.2 
+Dan_Stevens/uFovYf8F23o_0000004 68.0 74.8 
+Dan_Stevens/uFovYf8F23o_0000005 74.9 81.6 

@@ -1,0 +1,10 @@
+POI: 			Mathieu_Kassovitz 
+Youtube ID: 	ut5KBaeumRg 
+Video length: 	342.9 sec 
+Set (V): 		dev 
+ 
+Mathieu_Kassovitz/ut5KBaeumRg_0000001 14.6 20.0 
+Mathieu_Kassovitz/ut5KBaeumRg_0000002 28.8 34.5 
+Mathieu_Kassovitz/ut5KBaeumRg_0000003 37.0 41.5 
+Mathieu_Kassovitz/ut5KBaeumRg_0000004 89.8 95.3 
+Mathieu_Kassovitz/ut5KBaeumRg_0000005 189.7 193.8 

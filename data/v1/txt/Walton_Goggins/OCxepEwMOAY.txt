@@ -1,0 +1,12 @@
+POI: 			Walton_Goggins 
+Youtube ID: 	OCxepEwMOAY 
+Video length: 	631.0 sec 
+Set (V): 		dev 
+ 
+Walton_Goggins/OCxepEwMOAY_0000001 277.6 285.0 
+Walton_Goggins/OCxepEwMOAY_0000002 285.3 290.6 
+Walton_Goggins/OCxepEwMOAY_0000003 374.3 378.4 
+Walton_Goggins/OCxepEwMOAY_0000004 475.1 480.4 
+Walton_Goggins/OCxepEwMOAY_0000005 482.9 487.2 
+Walton_Goggins/OCxepEwMOAY_0000006 564.7 569.9 
+Walton_Goggins/OCxepEwMOAY_0000007 599.6 605.8 

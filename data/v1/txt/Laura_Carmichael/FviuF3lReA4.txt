@@ -1,0 +1,12 @@
+POI: 			Laura_Carmichael 
+Youtube ID: 	FviuF3lReA4 
+Video length: 	298.0 sec 
+Set (V): 		dev 
+ 
+Laura_Carmichael/FviuF3lReA4_0000001 48.4 53.0 
+Laura_Carmichael/FviuF3lReA4_0000002 79.8 86.9 
+Laura_Carmichael/FviuF3lReA4_0000003 98.6 105.0 
+Laura_Carmichael/FviuF3lReA4_0000004 116.6 122.0 
+Laura_Carmichael/FviuF3lReA4_0000005 128.2 132.6 
+Laura_Carmichael/FviuF3lReA4_0000006 169.1 175.4 
+Laura_Carmichael/FviuF3lReA4_0000007 279.2 283.4 

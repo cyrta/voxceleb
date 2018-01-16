@@ -1,0 +1,9 @@
+POI: 			Steve_Martin 
+Youtube ID: 	aB6bpFvzjns 
+Video length: 	213.0 sec 
+Set (V): 		dev 
+ 
+Steve_Martin/aB6bpFvzjns_0000001 02.3 08.6 
+Steve_Martin/aB6bpFvzjns_0000002 31.6 38.0 
+Steve_Martin/aB6bpFvzjns_0000003 157.0 161.2 
+Steve_Martin/aB6bpFvzjns_0000004 167.7 173.4 

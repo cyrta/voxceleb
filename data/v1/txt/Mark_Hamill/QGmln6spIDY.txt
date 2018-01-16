@@ -1,0 +1,11 @@
+POI: 			Mark_Hamill 
+Youtube ID: 	QGmln6spIDY 
+Video length: 	259.1 sec 
+Set (V): 		dev 
+ 
+Mark_Hamill/QGmln6spIDY_0000001 39.3 47.4 
+Mark_Hamill/QGmln6spIDY_0000002 76.7 83.6 
+Mark_Hamill/QGmln6spIDY_0000003 96.2 102.5 
+Mark_Hamill/QGmln6spIDY_0000004 193.1 198.6 
+Mark_Hamill/QGmln6spIDY_0000005 221.4 230.2 
+Mark_Hamill/QGmln6spIDY_0000006 240.0 246.4 

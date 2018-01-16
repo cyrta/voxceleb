@@ -1,0 +1,7 @@
+POI: 			Vincent_Cassel 
+Youtube ID: 	2P_L8PXC5bg 
+Video length: 	320.7 sec 
+Set (V): 		dev 
+ 
+Vincent_Cassel/2P_L8PXC5bg_0000001 204.6 209.8 
+Vincent_Cassel/2P_L8PXC5bg_0000002 234.3 242.7 

@@ -1,0 +1,7 @@
+POI: 			Brad_Paisley 
+Youtube ID: 	162fYibxaxk 
+Video length: 	160.2 sec 
+Set (V): 		dev 
+ 
+Brad_Paisley/162fYibxaxk_0000001 31.2 43.0 
+Brad_Paisley/162fYibxaxk_0000002 71.6 83.7 

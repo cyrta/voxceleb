@@ -1,0 +1,19 @@
+POI: 			Chadwick_Boseman 
+Youtube ID: 	UY78OKD1Ps4 
+Video length: 	239.6 sec 
+Set (V): 		dev 
+ 
+Chadwick_Boseman/UY78OKD1Ps4_0000001 08.9 13.6 
+Chadwick_Boseman/UY78OKD1Ps4_0000002 25.9 33.0 
+Chadwick_Boseman/UY78OKD1Ps4_0000003 33.5 37.5 
+Chadwick_Boseman/UY78OKD1Ps4_0000004 41.1 47.0 
+Chadwick_Boseman/UY78OKD1Ps4_0000005 60.2 68.6 
+Chadwick_Boseman/UY78OKD1Ps4_0000006 69.9 75.7 
+Chadwick_Boseman/UY78OKD1Ps4_0000007 78.3 89.6 
+Chadwick_Boseman/UY78OKD1Ps4_0000008 101.8 106.9 
+Chadwick_Boseman/UY78OKD1Ps4_0000009 118.3 122.3 
+Chadwick_Boseman/UY78OKD1Ps4_0000010 136.0 140.3 
+Chadwick_Boseman/UY78OKD1Ps4_0000011 143.8 148.0 
+Chadwick_Boseman/UY78OKD1Ps4_0000012 150.2 154.4 
+Chadwick_Boseman/UY78OKD1Ps4_0000013 181.7 188.4 
+Chadwick_Boseman/UY78OKD1Ps4_0000014 205.0 210.9 

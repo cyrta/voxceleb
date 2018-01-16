@@ -1,0 +1,14 @@
+POI: 			Tatiana_Maslany 
+Youtube ID: 	Tb19SsRhIq4 
+Video length: 	443.9 sec 
+Set (V): 		dev 
+ 
+Tatiana_Maslany/Tb19SsRhIq4_0000001 86.5 96.0 
+Tatiana_Maslany/Tb19SsRhIq4_0000002 103.2 117.3 
+Tatiana_Maslany/Tb19SsRhIq4_0000003 133.3 144.8 
+Tatiana_Maslany/Tb19SsRhIq4_0000004 199.5 208.4 
+Tatiana_Maslany/Tb19SsRhIq4_0000005 208.5 214.9 
+Tatiana_Maslany/Tb19SsRhIq4_0000006 268.3 280.6 
+Tatiana_Maslany/Tb19SsRhIq4_0000007 307.2 311.6 
+Tatiana_Maslany/Tb19SsRhIq4_0000008 351.7 356.1 
+Tatiana_Maslany/Tb19SsRhIq4_0000009 403.4 409.2 

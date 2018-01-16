@@ -1,0 +1,10 @@
+POI: 			Tyler_Hoechlin 
+Youtube ID: 	KaNyviI93n8 
+Video length: 	156.6 sec 
+Set (V): 		dev 
+ 
+Tyler_Hoechlin/KaNyviI93n8_0000001 48.2 70.8 
+Tyler_Hoechlin/KaNyviI93n8_0000002 85.0 92.8 
+Tyler_Hoechlin/KaNyviI93n8_0000003 93.1 97.4 
+Tyler_Hoechlin/KaNyviI93n8_0000004 99.9 106.4 
+Tyler_Hoechlin/KaNyviI93n8_0000005 130.1 135.0 

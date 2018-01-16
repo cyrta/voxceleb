@@ -1,0 +1,8 @@
+POI: 			Alex_Pettyfer 
+Youtube ID: 	KndaShSu5zA 
+Video length: 	320.7 sec 
+Set (V): 		dev 
+ 
+Alex_Pettyfer/KndaShSu5zA_0000001 53.4 57.6 
+Alex_Pettyfer/KndaShSu5zA_0000002 59.4 66.3 
+Alex_Pettyfer/KndaShSu5zA_0000003 115.3 122.6 

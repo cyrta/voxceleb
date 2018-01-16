@@ -1,0 +1,7 @@
+POI: 			Fiona_Shaw 
+Youtube ID: 	hpgEXjdZoR4 
+Video length: 	63.3 sec 
+Set (V): 		dev 
+ 
+Fiona_Shaw/hpgEXjdZoR4_0000001 23.4 28.7 
+Fiona_Shaw/hpgEXjdZoR4_0000002 35.2 45.0 

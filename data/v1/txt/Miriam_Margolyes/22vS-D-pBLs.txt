@@ -1,0 +1,8 @@
+POI: 			Miriam_Margolyes 
+Youtube ID: 	22vS-D-pBLs 
+Video length: 	646.7 sec 
+Set (V): 		dev 
+ 
+Miriam_Margolyes/22vS-D-pBLs_0000001 144.7 155.4 
+Miriam_Margolyes/22vS-D-pBLs_0000002 193.7 198.2 
+Miriam_Margolyes/22vS-D-pBLs_0000003 329.0 340.4 

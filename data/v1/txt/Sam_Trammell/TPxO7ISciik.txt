@@ -1,0 +1,7 @@
+POI: 			Sam_Trammell 
+Youtube ID: 	TPxO7ISciik 
+Video length: 	31.1 sec 
+Set (V): 		dev 
+ 
+Sam_Trammell/TPxO7ISciik_0000001 10.8 16.9 
+Sam_Trammell/TPxO7ISciik_0000002 18.7 25.5 

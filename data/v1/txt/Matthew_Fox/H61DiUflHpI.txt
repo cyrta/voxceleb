@@ -1,0 +1,16 @@
+POI: 			Matthew_Fox 
+Youtube ID: 	H61DiUflHpI 
+Video length: 	272.2 sec 
+Set (V): 		dev 
+ 
+Matthew_Fox/H61DiUflHpI_0000001 36.8 42.1 
+Matthew_Fox/H61DiUflHpI_0000002 42.7 48.5 
+Matthew_Fox/H61DiUflHpI_0000003 59.4 63.9 
+Matthew_Fox/H61DiUflHpI_0000004 67.2 72.3 
+Matthew_Fox/H61DiUflHpI_0000005 100.5 108.0 
+Matthew_Fox/H61DiUflHpI_0000006 108.2 129.5 
+Matthew_Fox/H61DiUflHpI_0000007 134.0 154.0 
+Matthew_Fox/H61DiUflHpI_0000008 166.8 194.5 
+Matthew_Fox/H61DiUflHpI_0000009 195.8 203.0 
+Matthew_Fox/H61DiUflHpI_0000010 203.4 212.4 
+Matthew_Fox/H61DiUflHpI_0000011 232.6 267.4 

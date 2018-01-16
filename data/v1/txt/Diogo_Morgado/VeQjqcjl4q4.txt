@@ -1,0 +1,13 @@
+POI: 			Diogo_Morgado 
+Youtube ID: 	VeQjqcjl4q4 
+Video length: 	416.6 sec 
+Set (V): 		dev 
+ 
+Diogo_Morgado/VeQjqcjl4q4_0000001 59.8 67.3 
+Diogo_Morgado/VeQjqcjl4q4_0000002 98.8 103.6 
+Diogo_Morgado/VeQjqcjl4q4_0000003 217.5 222.4 
+Diogo_Morgado/VeQjqcjl4q4_0000004 263.6 282.6 
+Diogo_Morgado/VeQjqcjl4q4_0000005 287.0 292.4 
+Diogo_Morgado/VeQjqcjl4q4_0000006 312.4 317.1 
+Diogo_Morgado/VeQjqcjl4q4_0000007 318.8 327.9 
+Diogo_Morgado/VeQjqcjl4q4_0000008 332.8 346.3 

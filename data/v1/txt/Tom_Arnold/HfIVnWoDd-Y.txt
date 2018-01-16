@@ -1,0 +1,15 @@
+POI: 			Tom_Arnold 
+Youtube ID: 	HfIVnWoDd-Y 
+Video length: 	664.8 sec 
+Set (V): 		dev 
+ 
+Tom_Arnold/HfIVnWoDd-Y_0000001 94.4 98.6 
+Tom_Arnold/HfIVnWoDd-Y_0000002 111.5 128.2 
+Tom_Arnold/HfIVnWoDd-Y_0000003 129.0 133.6 
+Tom_Arnold/HfIVnWoDd-Y_0000004 140.2 144.8 
+Tom_Arnold/HfIVnWoDd-Y_0000005 148.1 153.4 
+Tom_Arnold/HfIVnWoDd-Y_0000006 368.8 374.8 
+Tom_Arnold/HfIVnWoDd-Y_0000007 375.7 382.4 
+Tom_Arnold/HfIVnWoDd-Y_0000008 394.2 410.4 
+Tom_Arnold/HfIVnWoDd-Y_0000009 583.7 589.9 
+Tom_Arnold/HfIVnWoDd-Y_0000010 603.2 621.0 

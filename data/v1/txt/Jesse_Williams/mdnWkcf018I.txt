@@ -1,0 +1,10 @@
+POI: 			Jesse_Williams 
+Youtube ID: 	mdnWkcf018I 
+Video length: 	287.0 sec 
+Set (V): 		dev 
+ 
+Jesse_Williams/mdnWkcf018I_0000001 56.0 67.5 
+Jesse_Williams/mdnWkcf018I_0000002 128.0 144.3 
+Jesse_Williams/mdnWkcf018I_0000003 182.9 192.4 
+Jesse_Williams/mdnWkcf018I_0000004 193.1 208.8 
+Jesse_Williams/mdnWkcf018I_0000005 216.6 227.8 

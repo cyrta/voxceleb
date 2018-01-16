@@ -1,0 +1,30 @@
+POI: 			Alison_Pill 
+Youtube ID: 	e93OOf47Qak 
+Video length: 	514.1 sec 
+Set (V): 		dev 
+ 
+Alison_Pill/e93OOf47Qak_0000001 03.0 13.8 
+Alison_Pill/e93OOf47Qak_0000002 22.4 28.2 
+Alison_Pill/e93OOf47Qak_0000003 43.6 79.5 
+Alison_Pill/e93OOf47Qak_0000004 87.1 92.0 
+Alison_Pill/e93OOf47Qak_0000005 103.4 142.2 
+Alison_Pill/e93OOf47Qak_0000006 167.6 211.2 
+Alison_Pill/e93OOf47Qak_0000007 218.6 224.0 
+Alison_Pill/e93OOf47Qak_0000008 229.4 238.4 
+Alison_Pill/e93OOf47Qak_0000009 74.4 79.5 
+Alison_Pill/e93OOf47Qak_0000010 105.8 112.6 
+Alison_Pill/e93OOf47Qak_0000011 113.0 142.3 
+Alison_Pill/e93OOf47Qak_0000012 157.5 162.8 
+Alison_Pill/e93OOf47Qak_0000013 166.0 224.1 
+Alison_Pill/e93OOf47Qak_0000014 229.6 238.8 
+Alison_Pill/e93OOf47Qak_0000015 244.0 269.0 
+Alison_Pill/e93OOf47Qak_0000016 269.6 285.1 
+Alison_Pill/e93OOf47Qak_0000017 291.9 296.2 
+Alison_Pill/e93OOf47Qak_0000018 298.2 311.7 
+Alison_Pill/e93OOf47Qak_0000019 333.6 359.2 
+Alison_Pill/e93OOf47Qak_0000020 360.2 368.6 
+Alison_Pill/e93OOf47Qak_0000021 387.9 416.9 
+Alison_Pill/e93OOf47Qak_0000022 422.5 427.6 
+Alison_Pill/e93OOf47Qak_0000023 444.4 487.7 
+Alison_Pill/e93OOf47Qak_0000024 456.6 484.0 
+Alison_Pill/e93OOf47Qak_0000025 499.8 511.0 

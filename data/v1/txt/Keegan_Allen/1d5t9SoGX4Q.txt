@@ -1,0 +1,14 @@
+POI: 			Keegan_Allen 
+Youtube ID: 	1d5t9SoGX4Q 
+Video length: 	221.9 sec 
+Set (V): 		dev 
+ 
+Keegan_Allen/1d5t9SoGX4Q_0000001 27.6 35.9 
+Keegan_Allen/1d5t9SoGX4Q_0000002 44.6 52.9 
+Keegan_Allen/1d5t9SoGX4Q_0000003 53.9 58.1 
+Keegan_Allen/1d5t9SoGX4Q_0000004 83.3 89.9 
+Keegan_Allen/1d5t9SoGX4Q_0000005 127.8 132.2 
+Keegan_Allen/1d5t9SoGX4Q_0000006 134.0 138.8 
+Keegan_Allen/1d5t9SoGX4Q_0000007 156.3 167.2 
+Keegan_Allen/1d5t9SoGX4Q_0000008 187.2 195.2 
+Keegan_Allen/1d5t9SoGX4Q_0000009 197.8 206.6 

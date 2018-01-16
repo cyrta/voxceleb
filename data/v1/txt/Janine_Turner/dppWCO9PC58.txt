@@ -1,0 +1,24 @@
+POI: 			Janine_Turner 
+Youtube ID: 	dppWCO9PC58 
+Video length: 	436.4 sec 
+Set (V): 		dev 
+ 
+Janine_Turner/dppWCO9PC58_0000001 57.1 61.6 
+Janine_Turner/dppWCO9PC58_0000002 74.8 80.2 
+Janine_Turner/dppWCO9PC58_0000003 95.4 99.4 
+Janine_Turner/dppWCO9PC58_0000004 113.7 131.5 
+Janine_Turner/dppWCO9PC58_0000005 157.0 168.2 
+Janine_Turner/dppWCO9PC58_0000006 180.0 197.6 
+Janine_Turner/dppWCO9PC58_0000007 220.7 228.2 
+Janine_Turner/dppWCO9PC58_0000008 235.7 240.9 
+Janine_Turner/dppWCO9PC58_0000009 260.8 265.5 
+Janine_Turner/dppWCO9PC58_0000010 260.8 266.9 
+Janine_Turner/dppWCO9PC58_0000011 271.0 275.1 
+Janine_Turner/dppWCO9PC58_0000012 281.0 293.4 
+Janine_Turner/dppWCO9PC58_0000013 315.1 327.2 
+Janine_Turner/dppWCO9PC58_0000014 329.3 338.1 
+Janine_Turner/dppWCO9PC58_0000015 339.1 343.4 
+Janine_Turner/dppWCO9PC58_0000016 345.9 349.8 
+Janine_Turner/dppWCO9PC58_0000017 376.4 381.0 
+Janine_Turner/dppWCO9PC58_0000018 385.5 390.7 
+Janine_Turner/dppWCO9PC58_0000019 395.1 404.3 

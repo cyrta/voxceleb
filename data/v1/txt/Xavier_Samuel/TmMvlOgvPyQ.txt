@@ -1,0 +1,10 @@
+POI: 			Xavier_Samuel 
+Youtube ID: 	TmMvlOgvPyQ 
+Video length: 	523.3 sec 
+Set (V): 		dev 
+ 
+Xavier_Samuel/TmMvlOgvPyQ_0000001 133.3 138.4 
+Xavier_Samuel/TmMvlOgvPyQ_0000002 393.5 401.9 
+Xavier_Samuel/TmMvlOgvPyQ_0000003 407.4 415.8 
+Xavier_Samuel/TmMvlOgvPyQ_0000004 503.6 510.1 
+Xavier_Samuel/TmMvlOgvPyQ_0000005 510.8 516.0 

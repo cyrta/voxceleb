@@ -1,0 +1,12 @@
+POI: 			Josh_Henderson 
+Youtube ID: 	FnLWanCixkE 
+Video length: 	184.6 sec 
+Set (V): 		dev 
+ 
+Josh_Henderson/FnLWanCixkE_0000001 30.8 42.5 
+Josh_Henderson/FnLWanCixkE_0000002 58.2 68.1 
+Josh_Henderson/FnLWanCixkE_0000003 78.4 87.6 
+Josh_Henderson/FnLWanCixkE_0000004 107.0 111.6 
+Josh_Henderson/FnLWanCixkE_0000005 112.4 122.2 
+Josh_Henderson/FnLWanCixkE_0000006 136.5 140.5 
+Josh_Henderson/FnLWanCixkE_0000007 142.3 148.8 

@@ -1,0 +1,21 @@
+POI: 			Samuel_L._Jackson 
+Youtube ID: 	tMZV0DGmu2k 
+Video length: 	876.6 sec 
+Set (V): 		dev 
+ 
+Samuel_L._Jackson/tMZV0DGmu2k_0000001 210.2 223.3 
+Samuel_L._Jackson/tMZV0DGmu2k_0000002 234.4 240.0 
+Samuel_L._Jackson/tMZV0DGmu2k_0000003 264.2 272.4 
+Samuel_L._Jackson/tMZV0DGmu2k_0000004 285.4 289.8 
+Samuel_L._Jackson/tMZV0DGmu2k_0000005 315.2 323.1 
+Samuel_L._Jackson/tMZV0DGmu2k_0000006 346.6 357.2 
+Samuel_L._Jackson/tMZV0DGmu2k_0000007 357.5 369.0 
+Samuel_L._Jackson/tMZV0DGmu2k_0000008 372.1 376.2 
+Samuel_L._Jackson/tMZV0DGmu2k_0000009 406.5 413.2 
+Samuel_L._Jackson/tMZV0DGmu2k_0000010 426.6 435.2 
+Samuel_L._Jackson/tMZV0DGmu2k_0000011 480.2 489.6 
+Samuel_L._Jackson/tMZV0DGmu2k_0000012 489.7 494.7 
+Samuel_L._Jackson/tMZV0DGmu2k_0000013 668.4 674.1 
+Samuel_L._Jackson/tMZV0DGmu2k_0000014 701.3 709.4 
+Samuel_L._Jackson/tMZV0DGmu2k_0000015 757.0 769.8 
+Samuel_L._Jackson/tMZV0DGmu2k_0000016 788.5 793.5 

@@ -1,0 +1,8 @@
+POI: 			Kelly_Rutherford 
+Youtube ID: 	Gzam5nAQQgc 
+Video length: 	400.4 sec 
+Set (V): 		dev 
+ 
+Kelly_Rutherford/Gzam5nAQQgc_0000001 68.2 80.7 
+Kelly_Rutherford/Gzam5nAQQgc_0000002 114.2 120.6 
+Kelly_Rutherford/Gzam5nAQQgc_0000003 136.9 143.3 

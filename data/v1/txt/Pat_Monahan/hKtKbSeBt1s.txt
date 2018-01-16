@@ -1,0 +1,15 @@
+POI: 			Pat_Monahan 
+Youtube ID: 	hKtKbSeBt1s 
+Video length: 	990.2 sec 
+Set (V): 		dev 
+ 
+Pat_Monahan/hKtKbSeBt1s_0000001 19.9 25.5 
+Pat_Monahan/hKtKbSeBt1s_0000002 62.7 67.0 
+Pat_Monahan/hKtKbSeBt1s_0000003 222.0 226.6 
+Pat_Monahan/hKtKbSeBt1s_0000004 503.3 507.6 
+Pat_Monahan/hKtKbSeBt1s_0000005 577.9 583.0 
+Pat_Monahan/hKtKbSeBt1s_0000006 719.8 724.1 
+Pat_Monahan/hKtKbSeBt1s_0000007 748.0 751.9 
+Pat_Monahan/hKtKbSeBt1s_0000008 755.9 763.0 
+Pat_Monahan/hKtKbSeBt1s_0000009 810.3 815.5 
+Pat_Monahan/hKtKbSeBt1s_0000010 892.4 896.6 

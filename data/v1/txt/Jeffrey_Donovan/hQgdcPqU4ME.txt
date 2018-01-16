@@ -1,0 +1,8 @@
+POI: 			Jeffrey_Donovan 
+Youtube ID: 	hQgdcPqU4ME 
+Video length: 	229.6 sec 
+Set (V): 		dev 
+ 
+Jeffrey_Donovan/hQgdcPqU4ME_0000001 68.6 74.6 
+Jeffrey_Donovan/hQgdcPqU4ME_0000002 126.0 136.8 
+Jeffrey_Donovan/hQgdcPqU4ME_0000003 139.0 148.4 

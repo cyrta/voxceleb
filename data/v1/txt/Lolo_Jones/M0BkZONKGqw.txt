@@ -1,0 +1,9 @@
+POI: 			Lolo_Jones 
+Youtube ID: 	M0BkZONKGqw 
+Video length: 	98.4 sec 
+Set (V): 		dev 
+ 
+Lolo_Jones/M0BkZONKGqw_0000001 14.5 19.6 
+Lolo_Jones/M0BkZONKGqw_0000002 22.0 27.1 
+Lolo_Jones/M0BkZONKGqw_0000003 62.3 77.0 
+Lolo_Jones/M0BkZONKGqw_0000004 77.1 81.6 

@@ -1,0 +1,7 @@
+POI: 			Cher 
+Youtube ID: 	NJMXJX1VGx0 
+Video length: 	151.7 sec 
+Set (V): 		dev 
+ 
+Cher/NJMXJX1VGx0_0000001 67.4 76.5 
+Cher/NJMXJX1VGx0_0000002 130.6 135.9 

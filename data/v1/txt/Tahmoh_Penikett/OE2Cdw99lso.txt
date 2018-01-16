@@ -1,0 +1,10 @@
+POI: 			Tahmoh_Penikett 
+Youtube ID: 	OE2Cdw99lso 
+Video length: 	324.1 sec 
+Set (V): 		dev 
+ 
+Tahmoh_Penikett/OE2Cdw99lso_0000001 72.0 82.3 
+Tahmoh_Penikett/OE2Cdw99lso_0000002 84.5 90.4 
+Tahmoh_Penikett/OE2Cdw99lso_0000003 154.2 162.2 
+Tahmoh_Penikett/OE2Cdw99lso_0000004 242.2 250.8 
+Tahmoh_Penikett/OE2Cdw99lso_0000005 242.2 246.5 

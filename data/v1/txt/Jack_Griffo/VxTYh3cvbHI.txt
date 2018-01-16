@@ -1,0 +1,9 @@
+POI: 			Jack_Griffo 
+Youtube ID: 	VxTYh3cvbHI 
+Video length: 	312.8 sec 
+Set (V): 		dev 
+ 
+Jack_Griffo/VxTYh3cvbHI_0000001 58.8 67.4 
+Jack_Griffo/VxTYh3cvbHI_0000002 105.6 113.9 
+Jack_Griffo/VxTYh3cvbHI_0000003 208.8 213.6 
+Jack_Griffo/VxTYh3cvbHI_0000004 281.6 288.4 

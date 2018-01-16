@@ -1,0 +1,7 @@
+POI: 			Taryn_Manning 
+Youtube ID: 	ihFHr821-K0 
+Video length: 	114.8 sec 
+Set (V): 		dev 
+ 
+Taryn_Manning/ihFHr821-K0_0000001 30.3 37.7 
+Taryn_Manning/ihFHr821-K0_0000002 39.8 47.4 

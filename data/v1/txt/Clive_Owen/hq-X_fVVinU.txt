@@ -1,0 +1,9 @@
+POI: 			Clive_Owen 
+Youtube ID: 	hq-X_fVVinU 
+Video length: 	208.1 sec 
+Set (V): 		dev 
+ 
+Clive_Owen/hq-X_fVVinU_0000001 10.3 14.8 
+Clive_Owen/hq-X_fVVinU_0000002 15.2 28.0 
+Clive_Owen/hq-X_fVVinU_0000003 28.7 37.2 
+Clive_Owen/hq-X_fVVinU_0000004 38.0 45.4 

@@ -1,0 +1,8 @@
+POI: 			Daniel_Dae_Kim 
+Youtube ID: 	PQMTlpaj4c0 
+Video length: 	313.7 sec 
+Set (V): 		dev 
+ 
+Daniel_Dae_Kim/PQMTlpaj4c0_0000001 61.9 65.9 
+Daniel_Dae_Kim/PQMTlpaj4c0_0000002 187.5 191.7 
+Daniel_Dae_Kim/PQMTlpaj4c0_0000003 201.4 205.6 

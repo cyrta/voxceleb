@@ -1,0 +1,18 @@
+POI: 			Ted_Danson 
+Youtube ID: 	dHt4Ww-j2gI 
+Video length: 	2316.9 sec 
+Set (V): 		dev 
+ 
+Ted_Danson/dHt4Ww-j2gI_0000001 144.9 149.8 
+Ted_Danson/dHt4Ww-j2gI_0000002 155.7 161.7 
+Ted_Danson/dHt4Ww-j2gI_0000003 170.4 177.7 
+Ted_Danson/dHt4Ww-j2gI_0000004 214.1 218.3 
+Ted_Danson/dHt4Ww-j2gI_0000005 408.4 413.0 
+Ted_Danson/dHt4Ww-j2gI_0000006 811.6 816.3 
+Ted_Danson/dHt4Ww-j2gI_0000007 829.3 834.2 
+Ted_Danson/dHt4Ww-j2gI_0000008 1008.4 1012.4 
+Ted_Danson/dHt4Ww-j2gI_0000009 1119.0 1123.3 
+Ted_Danson/dHt4Ww-j2gI_0000010 1655.1 1659.5 
+Ted_Danson/dHt4Ww-j2gI_0000011 1665.0 1669.5 
+Ted_Danson/dHt4Ww-j2gI_0000012 1908.0 1912.6 
+Ted_Danson/dHt4Ww-j2gI_0000013 1954.5 1959.0 

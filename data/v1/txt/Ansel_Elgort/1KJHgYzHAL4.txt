@@ -1,0 +1,9 @@
+POI: 			Ansel_Elgort 
+Youtube ID: 	1KJHgYzHAL4 
+Video length: 	298.3 sec 
+Set (V): 		dev 
+ 
+Ansel_Elgort/1KJHgYzHAL4_0000001 35.1 52.8 
+Ansel_Elgort/1KJHgYzHAL4_0000002 59.0 69.2 
+Ansel_Elgort/1KJHgYzHAL4_0000003 146.7 152.6 
+Ansel_Elgort/1KJHgYzHAL4_0000004 202.0 214.9 

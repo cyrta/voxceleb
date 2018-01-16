@@ -1,0 +1,17 @@
+POI: 			Monica_Raymund 
+Youtube ID: 	J5Mrn2k3kwE 
+Video length: 	182.8 sec 
+Set (V): 		dev 
+ 
+Monica_Raymund/J5Mrn2k3kwE_0000001 02.0 07.4 
+Monica_Raymund/J5Mrn2k3kwE_0000002 07.8 12.3 
+Monica_Raymund/J5Mrn2k3kwE_0000003 15.5 23.3 
+Monica_Raymund/J5Mrn2k3kwE_0000004 66.8 76.6 
+Monica_Raymund/J5Mrn2k3kwE_0000005 77.0 82.4 
+Monica_Raymund/J5Mrn2k3kwE_0000006 87.5 97.1 
+Monica_Raymund/J5Mrn2k3kwE_0000007 98.1 109.0 
+Monica_Raymund/J5Mrn2k3kwE_0000008 116.5 120.5 
+Monica_Raymund/J5Mrn2k3kwE_0000009 122.4 127.2 
+Monica_Raymund/J5Mrn2k3kwE_0000010 127.7 134.2 
+Monica_Raymund/J5Mrn2k3kwE_0000011 138.2 143.2 
+Monica_Raymund/J5Mrn2k3kwE_0000012 144.8 151.7 

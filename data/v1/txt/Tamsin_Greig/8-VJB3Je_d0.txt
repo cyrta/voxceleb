@@ -1,0 +1,10 @@
+POI: 			Tamsin_Greig 
+Youtube ID: 	8-VJB3Je_d0 
+Video length: 	125.4 sec 
+Set (V): 		dev 
+ 
+Tamsin_Greig/8-VJB3Je_d0_0000001 03.3 09.7 
+Tamsin_Greig/8-VJB3Je_d0_0000002 26.8 32.4 
+Tamsin_Greig/8-VJB3Je_d0_0000003 58.9 62.9 
+Tamsin_Greig/8-VJB3Je_d0_0000004 78.4 83.3 
+Tamsin_Greig/8-VJB3Je_d0_0000005 91.0 95.2 

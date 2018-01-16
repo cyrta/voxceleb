@@ -1,0 +1,7 @@
+POI: 			Steve_Harvey 
+Youtube ID: 	5s6Ek51IAgs 
+Video length: 	1539.0 sec 
+Set (V): 		dev 
+ 
+Steve_Harvey/5s6Ek51IAgs_0000001 91.3 96.3 
+Steve_Harvey/5s6Ek51IAgs_0000002 988.5 993.4 

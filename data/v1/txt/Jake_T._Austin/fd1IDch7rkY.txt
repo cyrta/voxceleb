@@ -1,0 +1,18 @@
+POI: 			Jake_T._Austin 
+Youtube ID: 	fd1IDch7rkY 
+Video length: 	1142.0 sec 
+Set (V): 		dev 
+ 
+Jake_T._Austin/fd1IDch7rkY_0000001 191.6 197.5 
+Jake_T._Austin/fd1IDch7rkY_0000002 198.2 202.2 
+Jake_T._Austin/fd1IDch7rkY_0000003 212.1 218.8 
+Jake_T._Austin/fd1IDch7rkY_0000004 222.0 226.1 
+Jake_T._Austin/fd1IDch7rkY_0000005 360.4 365.8 
+Jake_T._Austin/fd1IDch7rkY_0000006 375.1 383.1 
+Jake_T._Austin/fd1IDch7rkY_0000007 641.1 646.1 
+Jake_T._Austin/fd1IDch7rkY_0000008 651.1 659.8 
+Jake_T._Austin/fd1IDch7rkY_0000009 774.3 780.7 
+Jake_T._Austin/fd1IDch7rkY_0000010 790.3 795.9 
+Jake_T._Austin/fd1IDch7rkY_0000011 947.6 955.0 
+Jake_T._Austin/fd1IDch7rkY_0000012 957.1 961.2 
+Jake_T._Austin/fd1IDch7rkY_0000013 1125.4 1131.0 

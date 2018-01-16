@@ -1,0 +1,23 @@
+POI: 			Steven_Moffat 
+Youtube ID: 	WdkeFAVKajk 
+Video length: 	375.2 sec 
+Set (V): 		dev 
+ 
+Steven_Moffat/WdkeFAVKajk_0000001 01.9 16.0 
+Steven_Moffat/WdkeFAVKajk_0000002 25.4 47.8 
+Steven_Moffat/WdkeFAVKajk_0000003 52.9 59.2 
+Steven_Moffat/WdkeFAVKajk_0000004 63.0 91.1 
+Steven_Moffat/WdkeFAVKajk_0000005 98.9 111.5 
+Steven_Moffat/WdkeFAVKajk_0000006 112.4 120.6 
+Steven_Moffat/WdkeFAVKajk_0000007 123.1 137.2 
+Steven_Moffat/WdkeFAVKajk_0000008 141.8 169.7 
+Steven_Moffat/WdkeFAVKajk_0000009 170.2 187.6 
+Steven_Moffat/WdkeFAVKajk_0000010 195.3 200.1 
+Steven_Moffat/WdkeFAVKajk_0000011 210.2 229.5 
+Steven_Moffat/WdkeFAVKajk_0000012 230.5 236.6 
+Steven_Moffat/WdkeFAVKajk_0000013 236.8 242.9 
+Steven_Moffat/WdkeFAVKajk_0000014 244.1 252.8 
+Steven_Moffat/WdkeFAVKajk_0000015 253.3 273.8 
+Steven_Moffat/WdkeFAVKajk_0000016 274.0 278.8 
+Steven_Moffat/WdkeFAVKajk_0000017 339.4 347.2 
+Steven_Moffat/WdkeFAVKajk_0000018 349.3 363.4 

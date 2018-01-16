@@ -1,0 +1,24 @@
+POI: 			Molly_Ringwald 
+Youtube ID: 	I_Edoo9lEOM 
+Video length: 	407.6 sec 
+Set (V): 		dev 
+ 
+Molly_Ringwald/I_Edoo9lEOM_0000001 08.1 20.8 
+Molly_Ringwald/I_Edoo9lEOM_0000002 28.8 47.5 
+Molly_Ringwald/I_Edoo9lEOM_0000003 61.1 72.0 
+Molly_Ringwald/I_Edoo9lEOM_0000004 82.5 100.9 
+Molly_Ringwald/I_Edoo9lEOM_0000005 125.1 149.9 
+Molly_Ringwald/I_Edoo9lEOM_0000006 155.4 168.5 
+Molly_Ringwald/I_Edoo9lEOM_0000007 182.9 187.9 
+Molly_Ringwald/I_Edoo9lEOM_0000008 198.6 209.8 
+Molly_Ringwald/I_Edoo9lEOM_0000009 210.0 214.3 
+Molly_Ringwald/I_Edoo9lEOM_0000010 230.3 234.5 
+Molly_Ringwald/I_Edoo9lEOM_0000011 230.4 235.4 
+Molly_Ringwald/I_Edoo9lEOM_0000012 238.5 242.5 
+Molly_Ringwald/I_Edoo9lEOM_0000013 250.0 258.9 
+Molly_Ringwald/I_Edoo9lEOM_0000014 271.6 286.3 
+Molly_Ringwald/I_Edoo9lEOM_0000015 287.0 297.3 
+Molly_Ringwald/I_Edoo9lEOM_0000016 306.8 311.4 
+Molly_Ringwald/I_Edoo9lEOM_0000017 313.5 327.3 
+Molly_Ringwald/I_Edoo9lEOM_0000018 357.7 371.8 
+Molly_Ringwald/I_Edoo9lEOM_0000019 391.1 396.0 

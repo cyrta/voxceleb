@@ -1,0 +1,8 @@
+POI: 			Marcia_Cross 
+Youtube ID: 	xNtqHletE9g 
+Video length: 	180.9 sec 
+Set (V): 		dev 
+ 
+Marcia_Cross/xNtqHletE9g_0000001 84.9 91.3 
+Marcia_Cross/xNtqHletE9g_0000002 102.2 106.4 
+Marcia_Cross/xNtqHletE9g_0000003 152.2 157.8 

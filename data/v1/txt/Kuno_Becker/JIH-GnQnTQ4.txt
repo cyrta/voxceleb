@@ -1,0 +1,11 @@
+POI: 			Kuno_Becker 
+Youtube ID: 	JIH-GnQnTQ4 
+Video length: 	112.5 sec 
+Set (V): 		dev 
+ 
+Kuno_Becker/JIH-GnQnTQ4_0000001 07.4 27.4 
+Kuno_Becker/JIH-GnQnTQ4_0000002 38.2 55.1 
+Kuno_Becker/JIH-GnQnTQ4_0000003 57.7 77.1 
+Kuno_Becker/JIH-GnQnTQ4_0000004 79.7 89.8 
+Kuno_Becker/JIH-GnQnTQ4_0000005 90.5 97.0 
+Kuno_Becker/JIH-GnQnTQ4_0000006 97.4 110.5 

@@ -1,0 +1,15 @@
+POI: 			Melissa_Rauch 
+Youtube ID: 	Jl6h8vUSYf4 
+Video length: 	565.3 sec 
+Set (V): 		dev 
+ 
+Melissa_Rauch/Jl6h8vUSYf4_0000001 25.7 31.3 
+Melissa_Rauch/Jl6h8vUSYf4_0000002 32.6 41.2 
+Melissa_Rauch/Jl6h8vUSYf4_0000003 80.4 86.4 
+Melissa_Rauch/Jl6h8vUSYf4_0000004 135.2 142.0 
+Melissa_Rauch/Jl6h8vUSYf4_0000005 250.0 256.6 
+Melissa_Rauch/Jl6h8vUSYf4_0000006 276.1 286.7 
+Melissa_Rauch/Jl6h8vUSYf4_0000007 339.7 344.0 
+Melissa_Rauch/Jl6h8vUSYf4_0000008 417.1 422.5 
+Melissa_Rauch/Jl6h8vUSYf4_0000009 462.7 481.4 
+Melissa_Rauch/Jl6h8vUSYf4_0000010 554.2 558.9 

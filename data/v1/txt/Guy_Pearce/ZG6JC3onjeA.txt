@@ -1,0 +1,7 @@
+POI: 			Guy_Pearce 
+Youtube ID: 	ZG6JC3onjeA 
+Video length: 	124.6 sec 
+Set (V): 		dev 
+ 
+Guy_Pearce/ZG6JC3onjeA_0000001 14.0 23.0 
+Guy_Pearce/ZG6JC3onjeA_0000002 23.4 32.1 

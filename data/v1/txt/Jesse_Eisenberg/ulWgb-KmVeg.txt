@@ -1,0 +1,11 @@
+POI: 			Jesse_Eisenberg 
+Youtube ID: 	ulWgb-KmVeg 
+Video length: 	560.8 sec 
+Set (V): 		dev 
+ 
+Jesse_Eisenberg/ulWgb-KmVeg_0000001 73.7 80.1 
+Jesse_Eisenberg/ulWgb-KmVeg_0000002 81.9 87.2 
+Jesse_Eisenberg/ulWgb-KmVeg_0000003 87.3 96.6 
+Jesse_Eisenberg/ulWgb-KmVeg_0000004 100.6 109.8 
+Jesse_Eisenberg/ulWgb-KmVeg_0000005 109.9 125.0 
+Jesse_Eisenberg/ulWgb-KmVeg_0000006 146.2 153.8 

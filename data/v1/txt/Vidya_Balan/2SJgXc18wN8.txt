@@ -1,0 +1,10 @@
+POI: 			Vidya_Balan 
+Youtube ID: 	2SJgXc18wN8 
+Video length: 	332.8 sec 
+Set (V): 		dev 
+ 
+Vidya_Balan/2SJgXc18wN8_0000001 20.0 28.1 
+Vidya_Balan/2SJgXc18wN8_0000002 138.0 143.1 
+Vidya_Balan/2SJgXc18wN8_0000003 245.8 252.0 
+Vidya_Balan/2SJgXc18wN8_0000004 288.5 295.1 
+Vidya_Balan/2SJgXc18wN8_0000005 299.6 304.4 

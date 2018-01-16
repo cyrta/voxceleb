@@ -1,0 +1,13 @@
+POI: 			Eddie_Griffin 
+Youtube ID: 	dkN2DIBrXqQ 
+Video length: 	274.1 sec 
+Set (V): 		test 
+ 
+Eddie_Griffin/dkN2DIBrXqQ_0000001 23.1 28.4 
+Eddie_Griffin/dkN2DIBrXqQ_0000002 34.3 39.3 
+Eddie_Griffin/dkN2DIBrXqQ_0000003 44.2 48.3 
+Eddie_Griffin/dkN2DIBrXqQ_0000004 81.2 86.6 
+Eddie_Griffin/dkN2DIBrXqQ_0000005 100.3 106.8 
+Eddie_Griffin/dkN2DIBrXqQ_0000006 107.7 114.4 
+Eddie_Griffin/dkN2DIBrXqQ_0000007 141.3 150.5 
+Eddie_Griffin/dkN2DIBrXqQ_0000008 168.1 185.9 

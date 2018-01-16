@@ -1,0 +1,8 @@
+POI: 			Imelda_Staunton 
+Youtube ID: 	2oGkz42UJ8Y 
+Video length: 	63.0 sec 
+Set (V): 		dev 
+ 
+Imelda_Staunton/2oGkz42UJ8Y_0000001 06.3 10.9 
+Imelda_Staunton/2oGkz42UJ8Y_0000002 32.0 48.4 
+Imelda_Staunton/2oGkz42UJ8Y_0000003 52.3 57.3 

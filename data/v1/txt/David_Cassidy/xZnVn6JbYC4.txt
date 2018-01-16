@@ -1,0 +1,17 @@
+POI: 			David_Cassidy 
+Youtube ID: 	xZnVn6JbYC4 
+Video length: 	410.3 sec 
+Set (V): 		dev 
+ 
+David_Cassidy/xZnVn6JbYC4_0000001 75.8 132.2 
+David_Cassidy/xZnVn6JbYC4_0000002 134.2 159.4 
+David_Cassidy/xZnVn6JbYC4_0000003 169.0 195.4 
+David_Cassidy/xZnVn6JbYC4_0000004 199.7 247.2 
+David_Cassidy/xZnVn6JbYC4_0000005 266.0 270.0 
+David_Cassidy/xZnVn6JbYC4_0000006 273.7 279.5 
+David_Cassidy/xZnVn6JbYC4_0000007 281.2 293.3 
+David_Cassidy/xZnVn6JbYC4_0000008 294.4 302.4 
+David_Cassidy/xZnVn6JbYC4_0000009 316.7 345.4 
+David_Cassidy/xZnVn6JbYC4_0000010 358.0 369.1 
+David_Cassidy/xZnVn6JbYC4_0000011 386.4 390.8 
+David_Cassidy/xZnVn6JbYC4_0000012 391.0 401.3 

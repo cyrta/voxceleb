@@ -1,0 +1,7 @@
+POI: 			Asa_Butterfield 
+Youtube ID: 	MhTuIFYwq_c 
+Video length: 	237.6 sec 
+Set (V): 		dev 
+ 
+Asa_Butterfield/MhTuIFYwq_c_0000001 97.4 102.6 
+Asa_Butterfield/MhTuIFYwq_c_0000002 109.6 117.5 

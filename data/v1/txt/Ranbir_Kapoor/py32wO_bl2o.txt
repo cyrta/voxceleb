@@ -1,0 +1,8 @@
+POI: 			Ranbir_Kapoor 
+Youtube ID: 	py32wO_bl2o 
+Video length: 	608.1 sec 
+Set (V): 		dev 
+ 
+Ranbir_Kapoor/py32wO_bl2o_0000001 74.9 80.0 
+Ranbir_Kapoor/py32wO_bl2o_0000002 154.6 158.6 
+Ranbir_Kapoor/py32wO_bl2o_0000003 170.4 174.4 

@@ -1,0 +1,10 @@
+POI: 			Janet_Jackson 
+Youtube ID: 	PmJWmnd_cyw 
+Video length: 	348.2 sec 
+Set (V): 		dev 
+ 
+Janet_Jackson/PmJWmnd_cyw_0000001 29.0 37.5 
+Janet_Jackson/PmJWmnd_cyw_0000002 59.2 68.2 
+Janet_Jackson/PmJWmnd_cyw_0000003 176.3 181.0 
+Janet_Jackson/PmJWmnd_cyw_0000004 209.6 213.7 
+Janet_Jackson/PmJWmnd_cyw_0000005 291.4 299.4 

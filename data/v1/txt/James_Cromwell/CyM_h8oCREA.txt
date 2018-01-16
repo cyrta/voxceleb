@@ -1,0 +1,10 @@
+POI: 			James_Cromwell 
+Youtube ID: 	CyM_h8oCREA 
+Video length: 	99.3 sec 
+Set (V): 		dev 
+ 
+James_Cromwell/CyM_h8oCREA_0000001 12.2 17.0 
+James_Cromwell/CyM_h8oCREA_0000002 28.8 35.0 
+James_Cromwell/CyM_h8oCREA_0000003 58.6 64.6 
+James_Cromwell/CyM_h8oCREA_0000004 67.1 85.8 
+James_Cromwell/CyM_h8oCREA_0000005 87.3 92.8 

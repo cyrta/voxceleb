@@ -1,0 +1,14 @@
+POI: 			Lily_Collins 
+Youtube ID: 	Ij0_Z5wv3FE 
+Video length: 	190.2 sec 
+Set (V): 		dev 
+ 
+Lily_Collins/Ij0_Z5wv3FE_0000001 14.0 18.2 
+Lily_Collins/Ij0_Z5wv3FE_0000002 18.4 26.9 
+Lily_Collins/Ij0_Z5wv3FE_0000003 38.2 43.3 
+Lily_Collins/Ij0_Z5wv3FE_0000004 46.2 51.5 
+Lily_Collins/Ij0_Z5wv3FE_0000005 52.3 58.2 
+Lily_Collins/Ij0_Z5wv3FE_0000006 74.5 79.3 
+Lily_Collins/Ij0_Z5wv3FE_0000007 119.5 123.6 
+Lily_Collins/Ij0_Z5wv3FE_0000008 132.8 139.1 
+Lily_Collins/Ij0_Z5wv3FE_0000009 158.6 177.0 

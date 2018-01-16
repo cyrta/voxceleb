@@ -1,0 +1,7 @@
+POI: 			Alan_Tudyk 
+Youtube ID: 	t7GF4Nj_nwc 
+Video length: 	888.8 sec 
+Set (V): 		dev 
+ 
+Alan_Tudyk/t7GF4Nj_nwc_0000001 99.5 106.9 
+Alan_Tudyk/t7GF4Nj_nwc_0000002 319.6 324.0 

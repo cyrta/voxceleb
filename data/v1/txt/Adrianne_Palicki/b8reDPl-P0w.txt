@@ -1,0 +1,11 @@
+POI: 			Adrianne_Palicki 
+Youtube ID: 	b8reDPl-P0w 
+Video length: 	235.5 sec 
+Set (V): 		dev 
+ 
+Adrianne_Palicki/b8reDPl-P0w_0000001 25.1 29.1 
+Adrianne_Palicki/b8reDPl-P0w_0000002 29.3 34.3 
+Adrianne_Palicki/b8reDPl-P0w_0000003 104.0 114.0 
+Adrianne_Palicki/b8reDPl-P0w_0000004 116.5 121.0 
+Adrianne_Palicki/b8reDPl-P0w_0000005 184.2 191.1 
+Adrianne_Palicki/b8reDPl-P0w_0000006 207.9 216.8 

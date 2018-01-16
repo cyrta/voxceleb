@@ -1,0 +1,10 @@
+POI: 			Raoul_Bova 
+Youtube ID: 	nY0L11R4fxY 
+Video length: 	450.5 sec 
+Set (V): 		dev 
+ 
+Raoul_Bova/nY0L11R4fxY_0000001 200.4 209.4 
+Raoul_Bova/nY0L11R4fxY_0000002 236.1 242.0 
+Raoul_Bova/nY0L11R4fxY_0000003 275.2 279.4 
+Raoul_Bova/nY0L11R4fxY_0000004 348.7 354.3 
+Raoul_Bova/nY0L11R4fxY_0000005 356.2 361.0 

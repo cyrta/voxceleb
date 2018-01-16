@@ -1,0 +1,16 @@
+POI: 			Kelly_Monaco 
+Youtube ID: 	kDJQ4RI4OXw 
+Video length: 	623.8 sec 
+Set (V): 		dev 
+ 
+Kelly_Monaco/kDJQ4RI4OXw_0000001 246.6 258.1 
+Kelly_Monaco/kDJQ4RI4OXw_0000002 263.9 268.3 
+Kelly_Monaco/kDJQ4RI4OXw_0000003 273.4 281.6 
+Kelly_Monaco/kDJQ4RI4OXw_0000004 341.2 346.9 
+Kelly_Monaco/kDJQ4RI4OXw_0000005 409.0 413.2 
+Kelly_Monaco/kDJQ4RI4OXw_0000006 415.0 426.0 
+Kelly_Monaco/kDJQ4RI4OXw_0000007 426.1 434.0 
+Kelly_Monaco/kDJQ4RI4OXw_0000008 536.4 541.2 
+Kelly_Monaco/kDJQ4RI4OXw_0000009 543.6 553.7 
+Kelly_Monaco/kDJQ4RI4OXw_0000010 555.1 560.8 
+Kelly_Monaco/kDJQ4RI4OXw_0000011 563.9 570.1 

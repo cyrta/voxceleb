@@ -1,0 +1,9 @@
+POI: 			Blake_Shelton 
+Youtube ID: 	y07Pj1s7btQ 
+Video length: 	92.6 sec 
+Set (V): 		dev 
+ 
+Blake_Shelton/y07Pj1s7btQ_0000001 17.1 22.7 
+Blake_Shelton/y07Pj1s7btQ_0000002 34.2 38.7 
+Blake_Shelton/y07Pj1s7btQ_0000003 39.2 45.1 
+Blake_Shelton/y07Pj1s7btQ_0000004 57.8 65.8 

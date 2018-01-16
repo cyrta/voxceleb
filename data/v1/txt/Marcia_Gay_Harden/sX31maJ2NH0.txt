@@ -1,0 +1,10 @@
+POI: 			Marcia_Gay_Harden 
+Youtube ID: 	sX31maJ2NH0 
+Video length: 	189.7 sec 
+Set (V): 		dev 
+ 
+Marcia_Gay_Harden/sX31maJ2NH0_0000001 100.8 106.0 
+Marcia_Gay_Harden/sX31maJ2NH0_0000002 107.6 116.2 
+Marcia_Gay_Harden/sX31maJ2NH0_0000003 118.4 123.3 
+Marcia_Gay_Harden/sX31maJ2NH0_0000004 129.0 138.9 
+Marcia_Gay_Harden/sX31maJ2NH0_0000005 140.3 146.9 

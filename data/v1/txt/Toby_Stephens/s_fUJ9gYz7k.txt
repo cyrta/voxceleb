@@ -1,0 +1,16 @@
+POI: 			Toby_Stephens 
+Youtube ID: 	s_fUJ9gYz7k 
+Video length: 	404.0 sec 
+Set (V): 		dev 
+ 
+Toby_Stephens/s_fUJ9gYz7k_0000001 90.1 102.4 
+Toby_Stephens/s_fUJ9gYz7k_0000002 107.2 113.8 
+Toby_Stephens/s_fUJ9gYz7k_0000003 142.1 147.2 
+Toby_Stephens/s_fUJ9gYz7k_0000004 148.0 153.0 
+Toby_Stephens/s_fUJ9gYz7k_0000005 170.8 183.6 
+Toby_Stephens/s_fUJ9gYz7k_0000006 260.3 276.5 
+Toby_Stephens/s_fUJ9gYz7k_0000007 284.0 295.6 
+Toby_Stephens/s_fUJ9gYz7k_0000008 314.6 325.9 
+Toby_Stephens/s_fUJ9gYz7k_0000009 358.2 375.0 
+Toby_Stephens/s_fUJ9gYz7k_0000010 375.4 383.8 
+Toby_Stephens/s_fUJ9gYz7k_0000011 389.6 393.5 

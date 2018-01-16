@@ -1,0 +1,14 @@
+POI: 			Andrew_Scott 
+Youtube ID: 	7mdJ1akKefg 
+Video length: 	323.5 sec 
+Set (V): 		dev 
+ 
+Andrew_Scott/7mdJ1akKefg_0000001 113.4 121.7 
+Andrew_Scott/7mdJ1akKefg_0000002 122.8 127.8 
+Andrew_Scott/7mdJ1akKefg_0000003 139.6 145.5 
+Andrew_Scott/7mdJ1akKefg_0000004 159.8 169.2 
+Andrew_Scott/7mdJ1akKefg_0000005 170.0 181.2 
+Andrew_Scott/7mdJ1akKefg_0000006 187.8 201.4 
+Andrew_Scott/7mdJ1akKefg_0000007 220.9 228.2 
+Andrew_Scott/7mdJ1akKefg_0000008 229.9 235.8 
+Andrew_Scott/7mdJ1akKefg_0000009 245.9 250.0 

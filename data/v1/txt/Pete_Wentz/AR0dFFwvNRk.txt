@@ -1,0 +1,8 @@
+POI: 			Pete_Wentz 
+Youtube ID: 	AR0dFFwvNRk 
+Video length: 	79.5 sec 
+Set (V): 		dev 
+ 
+Pete_Wentz/AR0dFFwvNRk_0000001 00.8 05.1 
+Pete_Wentz/AR0dFFwvNRk_0000002 47.4 51.6 
+Pete_Wentz/AR0dFFwvNRk_0000003 68.0 74.0 

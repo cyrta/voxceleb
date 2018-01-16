@@ -1,0 +1,7 @@
+POI: 			Laz_Alonso 
+Youtube ID: 	t0NNV3mspNg 
+Video length: 	468.1 sec 
+Set (V): 		dev 
+ 
+Laz_Alonso/t0NNV3mspNg_0000001 299.3 311.7 
+Laz_Alonso/t0NNV3mspNg_0000002 371.9 386.5 

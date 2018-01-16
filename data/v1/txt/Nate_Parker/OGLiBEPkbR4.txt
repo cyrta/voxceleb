@@ -1,0 +1,7 @@
+POI: 			Nate_Parker 
+Youtube ID: 	OGLiBEPkbR4 
+Video length: 	136.8 sec 
+Set (V): 		dev 
+ 
+Nate_Parker/OGLiBEPkbR4_0000001 19.8 25.5 
+Nate_Parker/OGLiBEPkbR4_0000002 123.5 129.7 

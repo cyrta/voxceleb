@@ -1,0 +1,10 @@
+POI: 			Candace_Cameron_Bure 
+Youtube ID: 	e4FoER8nqx0 
+Video length: 	114.9 sec 
+Set (V): 		dev 
+ 
+Candace_Cameron_Bure/e4FoER8nqx0_0000001 07.2 18.2 
+Candace_Cameron_Bure/e4FoER8nqx0_0000002 24.2 45.0 
+Candace_Cameron_Bure/e4FoER8nqx0_0000003 56.2 71.9 
+Candace_Cameron_Bure/e4FoER8nqx0_0000004 75.8 88.7 
+Candace_Cameron_Bure/e4FoER8nqx0_0000005 96.2 100.5 

@@ -1,0 +1,23 @@
+POI: 			Andrew_Lee_Potts 
+Youtube ID: 	7Il-q2PJxgY 
+Video length: 	339.3 sec 
+Set (V): 		dev 
+ 
+Andrew_Lee_Potts/7Il-q2PJxgY_0000001 07.6 21.2 
+Andrew_Lee_Potts/7Il-q2PJxgY_0000002 34.2 40.8 
+Andrew_Lee_Potts/7Il-q2PJxgY_0000003 47.8 51.8 
+Andrew_Lee_Potts/7Il-q2PJxgY_0000004 52.2 56.8 
+Andrew_Lee_Potts/7Il-q2PJxgY_0000005 58.9 67.3 
+Andrew_Lee_Potts/7Il-q2PJxgY_0000006 67.8 73.8 
+Andrew_Lee_Potts/7Il-q2PJxgY_0000007 80.0 109.9 
+Andrew_Lee_Potts/7Il-q2PJxgY_0000008 150.5 156.0 
+Andrew_Lee_Potts/7Il-q2PJxgY_0000009 163.7 173.0 
+Andrew_Lee_Potts/7Il-q2PJxgY_0000010 183.0 200.0 
+Andrew_Lee_Potts/7Il-q2PJxgY_0000011 201.8 206.5 
+Andrew_Lee_Potts/7Il-q2PJxgY_0000012 210.0 217.3 
+Andrew_Lee_Potts/7Il-q2PJxgY_0000013 240.1 249.9 
+Andrew_Lee_Potts/7Il-q2PJxgY_0000014 268.5 273.0 
+Andrew_Lee_Potts/7Il-q2PJxgY_0000015 278.6 282.8 
+Andrew_Lee_Potts/7Il-q2PJxgY_0000016 285.7 295.1 
+Andrew_Lee_Potts/7Il-q2PJxgY_0000017 304.0 315.1 
+Andrew_Lee_Potts/7Il-q2PJxgY_0000018 323.8 328.8 

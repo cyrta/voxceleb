@@ -1,0 +1,11 @@
+POI: 			Stanley_Tucci 
+Youtube ID: 	xShpBjjehNE 
+Video length: 	281.6 sec 
+Set (V): 		dev 
+ 
+Stanley_Tucci/xShpBjjehNE_0000001 71.7 77.0 
+Stanley_Tucci/xShpBjjehNE_0000002 159.9 164.8 
+Stanley_Tucci/xShpBjjehNE_0000003 165.0 170.1 
+Stanley_Tucci/xShpBjjehNE_0000004 215.8 222.4 
+Stanley_Tucci/xShpBjjehNE_0000005 223.5 228.1 
+Stanley_Tucci/xShpBjjehNE_0000006 231.4 237.4 

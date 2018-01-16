@@ -1,0 +1,7 @@
+POI: 			Cyndi_Lauper 
+Youtube ID: 	V4Snru54Za0 
+Video length: 	677.9 sec 
+Set (V): 		dev 
+ 
+Cyndi_Lauper/V4Snru54Za0_0000001 394.8 399.0 
+Cyndi_Lauper/V4Snru54Za0_0000002 402.7 407.1 

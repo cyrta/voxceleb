@@ -1,0 +1,10 @@
+POI: 			Alison_Pill 
+Youtube ID: 	uxwIr4Y4bdc 
+Video length: 	358.3 sec 
+Set (V): 		dev 
+ 
+Alison_Pill/uxwIr4Y4bdc_0000001 10.6 15.7 
+Alison_Pill/uxwIr4Y4bdc_0000002 106.3 114.0 
+Alison_Pill/uxwIr4Y4bdc_0000003 119.7 131.2 
+Alison_Pill/uxwIr4Y4bdc_0000004 268.2 279.3 
+Alison_Pill/uxwIr4Y4bdc_0000005 315.9 325.9 

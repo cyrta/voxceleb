@@ -1,0 +1,19 @@
+POI: 			Karla_Souza 
+Youtube ID: 	6kgmOygAvMs 
+Video length: 	255.7 sec 
+Set (V): 		dev 
+ 
+Karla_Souza/6kgmOygAvMs_0000001 28.1 32.1 
+Karla_Souza/6kgmOygAvMs_0000002 35.8 46.2 
+Karla_Souza/6kgmOygAvMs_0000003 57.8 62.5 
+Karla_Souza/6kgmOygAvMs_0000004 63.6 68.2 
+Karla_Souza/6kgmOygAvMs_0000005 95.6 103.3 
+Karla_Souza/6kgmOygAvMs_0000006 104.4 113.0 
+Karla_Souza/6kgmOygAvMs_0000007 149.3 167.3 
+Karla_Souza/6kgmOygAvMs_0000008 169.3 173.4 
+Karla_Souza/6kgmOygAvMs_0000009 173.6 177.9 
+Karla_Souza/6kgmOygAvMs_0000010 187.7 191.8 
+Karla_Souza/6kgmOygAvMs_0000011 205.5 213.1 
+Karla_Souza/6kgmOygAvMs_0000012 214.0 219.6 
+Karla_Souza/6kgmOygAvMs_0000013 220.8 226.5 
+Karla_Souza/6kgmOygAvMs_0000014 231.6 239.0 

@@ -1,0 +1,8 @@
+POI: 			Jamie_Chung 
+Youtube ID: 	quSLBYd4QrA 
+Video length: 	242.1 sec 
+Set (V): 		dev 
+ 
+Jamie_Chung/quSLBYd4QrA_0000001 18.8 25.0 
+Jamie_Chung/quSLBYd4QrA_0000002 65.6 70.2 
+Jamie_Chung/quSLBYd4QrA_0000003 183.4 187.4 

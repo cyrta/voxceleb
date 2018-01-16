@@ -1,0 +1,7 @@
+POI: 			Willem_Dafoe 
+Youtube ID: 	4pTIaCX8NHo 
+Video length: 	200.7 sec 
+Set (V): 		dev 
+ 
+Willem_Dafoe/4pTIaCX8NHo_0000001 52.6 71.7 
+Willem_Dafoe/4pTIaCX8NHo_0000002 72.1 83.0 

@@ -1,0 +1,9 @@
+POI: 			Andrew_Dice_Clay 
+Youtube ID: 	yjXAZlRGKaE 
+Video length: 	220.2 sec 
+Set (V): 		dev 
+ 
+Andrew_Dice_Clay/yjXAZlRGKaE_0000001 77.7 81.8 
+Andrew_Dice_Clay/yjXAZlRGKaE_0000002 118.9 128.9 
+Andrew_Dice_Clay/yjXAZlRGKaE_0000003 138.3 142.8 
+Andrew_Dice_Clay/yjXAZlRGKaE_0000004 160.1 164.1 

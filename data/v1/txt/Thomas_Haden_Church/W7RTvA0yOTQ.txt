@@ -1,0 +1,14 @@
+POI: 			Thomas_Haden_Church 
+Youtube ID: 	W7RTvA0yOTQ 
+Video length: 	306.8 sec 
+Set (V): 		dev 
+ 
+Thomas_Haden_Church/W7RTvA0yOTQ_0000001 54.0 77.9 
+Thomas_Haden_Church/W7RTvA0yOTQ_0000002 85.0 96.7 
+Thomas_Haden_Church/W7RTvA0yOTQ_0000003 97.2 107.2 
+Thomas_Haden_Church/W7RTvA0yOTQ_0000004 130.8 144.9 
+Thomas_Haden_Church/W7RTvA0yOTQ_0000005 145.2 158.0 
+Thomas_Haden_Church/W7RTvA0yOTQ_0000006 160.0 173.8 
+Thomas_Haden_Church/W7RTvA0yOTQ_0000007 183.3 187.4 
+Thomas_Haden_Church/W7RTvA0yOTQ_0000008 211.5 217.4 
+Thomas_Haden_Church/W7RTvA0yOTQ_0000009 260.2 283.6 

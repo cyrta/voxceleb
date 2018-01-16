@@ -1,0 +1,7 @@
+POI: 			Mark_Ruffalo 
+Youtube ID: 	0EmKvKANWco 
+Video length: 	124.3 sec 
+Set (V): 		dev 
+ 
+Mark_Ruffalo/0EmKvKANWco_0000001 27.3 33.6 
+Mark_Ruffalo/0EmKvKANWco_0000002 93.1 104.1 

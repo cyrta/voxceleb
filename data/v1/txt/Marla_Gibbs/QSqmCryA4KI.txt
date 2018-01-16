@@ -1,0 +1,14 @@
+POI: 			Marla_Gibbs 
+Youtube ID: 	QSqmCryA4KI 
+Video length: 	86.9 sec 
+Set (V): 		dev 
+ 
+Marla_Gibbs/QSqmCryA4KI_0000001 10.9 19.0 
+Marla_Gibbs/QSqmCryA4KI_0000002 20.2 25.4 
+Marla_Gibbs/QSqmCryA4KI_0000003 27.1 33.3 
+Marla_Gibbs/QSqmCryA4KI_0000004 37.7 43.3 
+Marla_Gibbs/QSqmCryA4KI_0000005 44.1 49.5 
+Marla_Gibbs/QSqmCryA4KI_0000006 51.0 56.9 
+Marla_Gibbs/QSqmCryA4KI_0000007 58.2 62.6 
+Marla_Gibbs/QSqmCryA4KI_0000008 62.7 68.8 
+Marla_Gibbs/QSqmCryA4KI_0000009 70.1 77.7 

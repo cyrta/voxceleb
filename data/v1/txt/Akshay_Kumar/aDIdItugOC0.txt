@@ -1,0 +1,12 @@
+POI: 			Akshay_Kumar 
+Youtube ID: 	aDIdItugOC0 
+Video length: 	142.3 sec 
+Set (V): 		dev 
+ 
+Akshay_Kumar/aDIdItugOC0_0000001 28.8 33.7 
+Akshay_Kumar/aDIdItugOC0_0000002 58.7 65.3 
+Akshay_Kumar/aDIdItugOC0_0000003 67.0 71.2 
+Akshay_Kumar/aDIdItugOC0_0000004 91.1 109.5 
+Akshay_Kumar/aDIdItugOC0_0000005 113.3 118.5 
+Akshay_Kumar/aDIdItugOC0_0000006 119.9 124.0 
+Akshay_Kumar/aDIdItugOC0_0000007 133.5 138.2 

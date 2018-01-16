@@ -1,0 +1,8 @@
+POI: 			John_Simm 
+Youtube ID: 	ARYiMFd88Kc 
+Video length: 	510.5 sec 
+Set (V): 		dev 
+ 
+John_Simm/ARYiMFd88Kc_0000001 101.1 106.2 
+John_Simm/ARYiMFd88Kc_0000002 313.0 317.0 
+John_Simm/ARYiMFd88Kc_0000003 382.7 391.8 

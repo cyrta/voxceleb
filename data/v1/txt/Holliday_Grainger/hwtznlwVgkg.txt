@@ -1,0 +1,27 @@
+POI: 			Holliday_Grainger 
+Youtube ID: 	hwtznlwVgkg 
+Video length: 	453.2 sec 
+Set (V): 		dev 
+ 
+Holliday_Grainger/hwtznlwVgkg_0000001 13.9 37.6 
+Holliday_Grainger/hwtznlwVgkg_0000002 41.8 46.0 
+Holliday_Grainger/hwtznlwVgkg_0000003 92.1 98.8 
+Holliday_Grainger/hwtznlwVgkg_0000004 99.1 105.0 
+Holliday_Grainger/hwtznlwVgkg_0000005 106.8 121.1 
+Holliday_Grainger/hwtznlwVgkg_0000006 144.0 165.1 
+Holliday_Grainger/hwtznlwVgkg_0000007 192.8 203.8 
+Holliday_Grainger/hwtznlwVgkg_0000008 204.7 214.3 
+Holliday_Grainger/hwtznlwVgkg_0000009 215.3 228.6 
+Holliday_Grainger/hwtznlwVgkg_0000010 233.0 237.6 
+Holliday_Grainger/hwtznlwVgkg_0000011 237.8 241.8 
+Holliday_Grainger/hwtznlwVgkg_0000012 260.3 265.0 
+Holliday_Grainger/hwtznlwVgkg_0000013 265.6 282.3 
+Holliday_Grainger/hwtznlwVgkg_0000014 284.7 293.8 
+Holliday_Grainger/hwtznlwVgkg_0000015 314.1 320.0 
+Holliday_Grainger/hwtznlwVgkg_0000016 323.1 328.2 
+Holliday_Grainger/hwtznlwVgkg_0000017 329.8 335.6 
+Holliday_Grainger/hwtznlwVgkg_0000018 362.4 367.3 
+Holliday_Grainger/hwtznlwVgkg_0000019 378.9 390.5 
+Holliday_Grainger/hwtznlwVgkg_0000020 392.3 397.8 
+Holliday_Grainger/hwtznlwVgkg_0000021 402.5 411.4 
+Holliday_Grainger/hwtznlwVgkg_0000022 423.2 434.2 

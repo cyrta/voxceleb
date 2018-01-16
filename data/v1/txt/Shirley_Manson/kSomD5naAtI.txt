@@ -1,0 +1,17 @@
+POI: 			Shirley_Manson 
+Youtube ID: 	kSomD5naAtI 
+Video length: 	364.1 sec 
+Set (V): 		dev 
+ 
+Shirley_Manson/kSomD5naAtI_0000001 68.9 75.5 
+Shirley_Manson/kSomD5naAtI_0000002 79.7 90.9 
+Shirley_Manson/kSomD5naAtI_0000003 99.5 112.1 
+Shirley_Manson/kSomD5naAtI_0000004 118.0 140.9 
+Shirley_Manson/kSomD5naAtI_0000005 185.0 194.0 
+Shirley_Manson/kSomD5naAtI_0000006 194.6 215.2 
+Shirley_Manson/kSomD5naAtI_0000007 220.6 230.4 
+Shirley_Manson/kSomD5naAtI_0000008 232.3 236.6 
+Shirley_Manson/kSomD5naAtI_0000009 290.0 300.7 
+Shirley_Manson/kSomD5naAtI_0000010 301.2 315.0 
+Shirley_Manson/kSomD5naAtI_0000011 344.0 348.0 
+Shirley_Manson/kSomD5naAtI_0000012 348.5 356.2 

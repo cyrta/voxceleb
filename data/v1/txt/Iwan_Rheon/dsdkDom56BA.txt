@@ -1,0 +1,10 @@
+POI: 			Iwan_Rheon 
+Youtube ID: 	dsdkDom56BA 
+Video length: 	156.9 sec 
+Set (V): 		dev 
+ 
+Iwan_Rheon/dsdkDom56BA_0000001 30.6 42.2 
+Iwan_Rheon/dsdkDom56BA_0000002 59.5 65.7 
+Iwan_Rheon/dsdkDom56BA_0000003 83.1 88.4 
+Iwan_Rheon/dsdkDom56BA_0000004 102.9 114.4 
+Iwan_Rheon/dsdkDom56BA_0000005 128.8 138.6 

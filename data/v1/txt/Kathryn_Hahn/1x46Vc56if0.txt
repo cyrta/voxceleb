@@ -1,0 +1,10 @@
+POI: 			Kathryn_Hahn 
+Youtube ID: 	1x46Vc56if0 
+Video length: 	248.5 sec 
+Set (V): 		dev 
+ 
+Kathryn_Hahn/1x46Vc56if0_0000001 40.6 47.0 
+Kathryn_Hahn/1x46Vc56if0_0000002 70.4 79.6 
+Kathryn_Hahn/1x46Vc56if0_0000003 98.0 112.9 
+Kathryn_Hahn/1x46Vc56if0_0000004 116.8 122.4 
+Kathryn_Hahn/1x46Vc56if0_0000005 195.6 200.2 

@@ -1,0 +1,25 @@
+POI: 			Miranda_Kerr 
+Youtube ID: 	ZgtAh6BFRIk 
+Video length: 	644.2 sec 
+Set (V): 		dev 
+ 
+Miranda_Kerr/ZgtAh6BFRIk_0000001 78.1 83.2 
+Miranda_Kerr/ZgtAh6BFRIk_0000002 84.2 89.6 
+Miranda_Kerr/ZgtAh6BFRIk_0000003 91.9 97.8 
+Miranda_Kerr/ZgtAh6BFRIk_0000004 155.8 160.6 
+Miranda_Kerr/ZgtAh6BFRIk_0000005 162.0 172.6 
+Miranda_Kerr/ZgtAh6BFRIk_0000006 175.5 180.2 
+Miranda_Kerr/ZgtAh6BFRIk_0000007 180.3 185.8 
+Miranda_Kerr/ZgtAh6BFRIk_0000008 227.8 235.0 
+Miranda_Kerr/ZgtAh6BFRIk_0000009 239.4 244.6 
+Miranda_Kerr/ZgtAh6BFRIk_0000010 267.5 271.4 
+Miranda_Kerr/ZgtAh6BFRIk_0000011 306.4 310.4 
+Miranda_Kerr/ZgtAh6BFRIk_0000012 320.7 326.8 
+Miranda_Kerr/ZgtAh6BFRIk_0000013 361.2 365.3 
+Miranda_Kerr/ZgtAh6BFRIk_0000014 410.2 416.1 
+Miranda_Kerr/ZgtAh6BFRIk_0000015 422.8 428.8 
+Miranda_Kerr/ZgtAh6BFRIk_0000016 429.7 433.8 
+Miranda_Kerr/ZgtAh6BFRIk_0000017 489.1 509.9 
+Miranda_Kerr/ZgtAh6BFRIk_0000018 562.6 567.1 
+Miranda_Kerr/ZgtAh6BFRIk_0000019 603.2 609.1 
+Miranda_Kerr/ZgtAh6BFRIk_0000020 609.7 619.8 

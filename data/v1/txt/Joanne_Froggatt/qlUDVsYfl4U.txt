@@ -1,0 +1,8 @@
+POI: 			Joanne_Froggatt 
+Youtube ID: 	qlUDVsYfl4U 
+Video length: 	246.2 sec 
+Set (V): 		dev 
+ 
+Joanne_Froggatt/qlUDVsYfl4U_0000001 25.8 40.2 
+Joanne_Froggatt/qlUDVsYfl4U_0000002 74.2 91.7 
+Joanne_Froggatt/qlUDVsYfl4U_0000003 191.0 217.6 

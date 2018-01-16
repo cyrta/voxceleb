@@ -1,0 +1,8 @@
+POI: 			Anne_Hathaway 
+Youtube ID: 	7nEHZZi6_nU 
+Video length: 	175.3 sec 
+Set (V): 		dev 
+ 
+Anne_Hathaway/7nEHZZi6_nU_0000001 49.2 54.1 
+Anne_Hathaway/7nEHZZi6_nU_0000002 63.6 73.4 
+Anne_Hathaway/7nEHZZi6_nU_0000003 129.7 133.8 

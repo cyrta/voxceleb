@@ -1,0 +1,7 @@
+POI: 			Richard_Madden 
+Youtube ID: 	JcmyelKn9TE 
+Video length: 	133.7 sec 
+Set (V): 		dev 
+ 
+Richard_Madden/JcmyelKn9TE_0000001 58.9 70.2 
+Richard_Madden/JcmyelKn9TE_0000002 95.5 104.9 

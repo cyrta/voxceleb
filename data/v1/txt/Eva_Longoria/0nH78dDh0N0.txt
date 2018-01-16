@@ -1,0 +1,26 @@
+POI: 			Eva_Longoria 
+Youtube ID: 	0nH78dDh0N0 
+Video length: 	592.8 sec 
+Set (V): 		test 
+ 
+Eva_Longoria/0nH78dDh0N0_0000001 31.3 61.4 
+Eva_Longoria/0nH78dDh0N0_0000002 62.7 72.9 
+Eva_Longoria/0nH78dDh0N0_0000003 82.2 98.6 
+Eva_Longoria/0nH78dDh0N0_0000004 99.0 123.0 
+Eva_Longoria/0nH78dDh0N0_0000005 126.0 133.7 
+Eva_Longoria/0nH78dDh0N0_0000006 218.0 232.6 
+Eva_Longoria/0nH78dDh0N0_0000007 238.1 264.2 
+Eva_Longoria/0nH78dDh0N0_0000008 264.4 294.4 
+Eva_Longoria/0nH78dDh0N0_0000009 302.4 326.1 
+Eva_Longoria/0nH78dDh0N0_0000010 327.0 331.1 
+Eva_Longoria/0nH78dDh0N0_0000011 349.4 360.0 
+Eva_Longoria/0nH78dDh0N0_0000012 361.1 371.4 
+Eva_Longoria/0nH78dDh0N0_0000013 380.9 387.4 
+Eva_Longoria/0nH78dDh0N0_0000014 389.5 396.4 
+Eva_Longoria/0nH78dDh0N0_0000015 401.6 407.1 
+Eva_Longoria/0nH78dDh0N0_0000016 418.6 433.3 
+Eva_Longoria/0nH78dDh0N0_0000017 438.8 445.1 
+Eva_Longoria/0nH78dDh0N0_0000018 477.1 494.4 
+Eva_Longoria/0nH78dDh0N0_0000019 499.0 542.7 
+Eva_Longoria/0nH78dDh0N0_0000020 546.5 568.7 
+Eva_Longoria/0nH78dDh0N0_0000021 571.6 579.3 

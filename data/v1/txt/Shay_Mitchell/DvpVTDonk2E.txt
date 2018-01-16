@@ -1,0 +1,7 @@
+POI: 			Shay_Mitchell 
+Youtube ID: 	DvpVTDonk2E 
+Video length: 	242.2 sec 
+Set (V): 		dev 
+ 
+Shay_Mitchell/DvpVTDonk2E_0000001 134.0 138.6 
+Shay_Mitchell/DvpVTDonk2E_0000002 139.6 147.0 

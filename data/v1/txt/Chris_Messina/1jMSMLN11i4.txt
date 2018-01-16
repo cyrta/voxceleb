@@ -1,0 +1,20 @@
+POI: 			Chris_Messina 
+Youtube ID: 	1jMSMLN11i4 
+Video length: 	466.4 sec 
+Set (V): 		dev 
+ 
+Chris_Messina/1jMSMLN11i4_0000001 66.1 70.7 
+Chris_Messina/1jMSMLN11i4_0000002 73.3 81.8 
+Chris_Messina/1jMSMLN11i4_0000003 108.7 118.6 
+Chris_Messina/1jMSMLN11i4_0000004 128.0 134.0 
+Chris_Messina/1jMSMLN11i4_0000005 142.1 146.1 
+Chris_Messina/1jMSMLN11i4_0000006 156.9 170.2 
+Chris_Messina/1jMSMLN11i4_0000007 185.3 193.6 
+Chris_Messina/1jMSMLN11i4_0000008 214.6 227.1 
+Chris_Messina/1jMSMLN11i4_0000009 232.5 238.6 
+Chris_Messina/1jMSMLN11i4_0000010 257.4 261.8 
+Chris_Messina/1jMSMLN11i4_0000011 278.2 290.8 
+Chris_Messina/1jMSMLN11i4_0000012 291.1 298.0 
+Chris_Messina/1jMSMLN11i4_0000013 298.9 303.2 
+Chris_Messina/1jMSMLN11i4_0000014 345.0 349.1 
+Chris_Messina/1jMSMLN11i4_0000015 369.6 374.9 

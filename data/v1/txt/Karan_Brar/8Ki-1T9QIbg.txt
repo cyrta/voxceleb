@@ -1,0 +1,9 @@
+POI: 			Karan_Brar 
+Youtube ID: 	8Ki-1T9QIbg 
+Video length: 	129.8 sec 
+Set (V): 		dev 
+ 
+Karan_Brar/8Ki-1T9QIbg_0000001 31.5 42.9 
+Karan_Brar/8Ki-1T9QIbg_0000002 45.3 54.2 
+Karan_Brar/8Ki-1T9QIbg_0000003 82.2 87.4 
+Karan_Brar/8Ki-1T9QIbg_0000004 115.6 121.0 

@@ -1,0 +1,10 @@
+POI: 			Kenan_Thompson 
+Youtube ID: 	ksu7hmVcB4M 
+Video length: 	235.6 sec 
+Set (V): 		dev 
+ 
+Kenan_Thompson/ksu7hmVcB4M_0000001 23.7 33.2 
+Kenan_Thompson/ksu7hmVcB4M_0000002 38.1 43.6 
+Kenan_Thompson/ksu7hmVcB4M_0000003 73.8 80.6 
+Kenan_Thompson/ksu7hmVcB4M_0000004 136.0 140.1 
+Kenan_Thompson/ksu7hmVcB4M_0000005 142.1 147.2 

@@ -1,0 +1,7 @@
+POI: 			Bear_Grylls 
+Youtube ID: 	RpJ8fpOmXGU 
+Video length: 	357.8 sec 
+Set (V): 		dev 
+ 
+Bear_Grylls/RpJ8fpOmXGU_0000001 32.1 58.9 
+Bear_Grylls/RpJ8fpOmXGU_0000002 60.4 65.4 

@@ -1,0 +1,10 @@
+POI: 			Daniel_Auteuil 
+Youtube ID: 	UWjAAXcrWmE 
+Video length: 	2320.8 sec 
+Set (V): 		dev 
+ 
+Daniel_Auteuil/UWjAAXcrWmE_0000001 165.7 176.1 
+Daniel_Auteuil/UWjAAXcrWmE_0000002 402.8 409.2 
+Daniel_Auteuil/UWjAAXcrWmE_0000003 787.8 792.3 
+Daniel_Auteuil/UWjAAXcrWmE_0000004 801.3 807.4 
+Daniel_Auteuil/UWjAAXcrWmE_0000005 1527.2 1534.0 

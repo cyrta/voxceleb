@@ -1,0 +1,7 @@
+POI: 			Daniel_Craig 
+Youtube ID: 	bujAvYxs3N0 
+Video length: 	658.7 sec 
+Set (V): 		dev 
+ 
+Daniel_Craig/bujAvYxs3N0_0000001 476.0 480.3 
+Daniel_Craig/bujAvYxs3N0_0000002 585.8 591.7 

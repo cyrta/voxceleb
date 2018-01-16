@@ -1,0 +1,8 @@
+POI: 			Luc_Besson 
+Youtube ID: 	5sxgANzBHWo 
+Video length: 	285.0 sec 
+Set (V): 		dev 
+ 
+Luc_Besson/5sxgANzBHWo_0000001 42.7 47.6 
+Luc_Besson/5sxgANzBHWo_0000002 213.1 217.0 
+Luc_Besson/5sxgANzBHWo_0000003 254.6 259.2 

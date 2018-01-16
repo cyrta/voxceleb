@@ -1,0 +1,18 @@
+POI: 			Goran_Visnjic 
+Youtube ID: 	QUWsalAbmFc 
+Video length: 	312.5 sec 
+Set (V): 		dev 
+ 
+Goran_Visnjic/QUWsalAbmFc_0000001 12.9 18.1 
+Goran_Visnjic/QUWsalAbmFc_0000002 24.6 29.3 
+Goran_Visnjic/QUWsalAbmFc_0000003 30.3 35.7 
+Goran_Visnjic/QUWsalAbmFc_0000004 56.0 63.5 
+Goran_Visnjic/QUWsalAbmFc_0000005 68.6 78.0 
+Goran_Visnjic/QUWsalAbmFc_0000006 84.2 96.5 
+Goran_Visnjic/QUWsalAbmFc_0000007 106.2 117.2 
+Goran_Visnjic/QUWsalAbmFc_0000008 204.5 213.9 
+Goran_Visnjic/QUWsalAbmFc_0000009 228.6 236.1 
+Goran_Visnjic/QUWsalAbmFc_0000010 267.2 273.4 
+Goran_Visnjic/QUWsalAbmFc_0000011 279.5 285.4 
+Goran_Visnjic/QUWsalAbmFc_0000012 285.5 294.4 
+Goran_Visnjic/QUWsalAbmFc_0000013 297.9 306.0 

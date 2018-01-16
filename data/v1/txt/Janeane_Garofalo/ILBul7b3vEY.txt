@@ -1,0 +1,12 @@
+POI: 			Janeane_Garofalo 
+Youtube ID: 	ILBul7b3vEY 
+Video length: 	496.1 sec 
+Set (V): 		dev 
+ 
+Janeane_Garofalo/ILBul7b3vEY_0000001 100.6 104.6 
+Janeane_Garofalo/ILBul7b3vEY_0000002 137.0 142.6 
+Janeane_Garofalo/ILBul7b3vEY_0000003 317.8 331.8 
+Janeane_Garofalo/ILBul7b3vEY_0000004 341.4 357.7 
+Janeane_Garofalo/ILBul7b3vEY_0000005 365.1 373.2 
+Janeane_Garofalo/ILBul7b3vEY_0000006 423.2 431.2 
+Janeane_Garofalo/ILBul7b3vEY_0000007 438.3 443.2 

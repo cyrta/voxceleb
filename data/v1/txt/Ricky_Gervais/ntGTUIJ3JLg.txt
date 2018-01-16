@@ -1,0 +1,17 @@
+POI: 			Ricky_Gervais 
+Youtube ID: 	ntGTUIJ3JLg 
+Video length: 	564.6 sec 
+Set (V): 		dev 
+ 
+Ricky_Gervais/ntGTUIJ3JLg_0000001 113.0 118.4 
+Ricky_Gervais/ntGTUIJ3JLg_0000002 119.4 128.6 
+Ricky_Gervais/ntGTUIJ3JLg_0000003 214.3 220.3 
+Ricky_Gervais/ntGTUIJ3JLg_0000004 244.6 264.0 
+Ricky_Gervais/ntGTUIJ3JLg_0000005 279.3 286.8 
+Ricky_Gervais/ntGTUIJ3JLg_0000006 364.0 373.8 
+Ricky_Gervais/ntGTUIJ3JLg_0000007 381.4 397.2 
+Ricky_Gervais/ntGTUIJ3JLg_0000008 415.4 421.0 
+Ricky_Gervais/ntGTUIJ3JLg_0000009 422.4 432.6 
+Ricky_Gervais/ntGTUIJ3JLg_0000010 453.4 458.1 
+Ricky_Gervais/ntGTUIJ3JLg_0000011 468.4 473.8 
+Ricky_Gervais/ntGTUIJ3JLg_0000012 525.0 529.0 

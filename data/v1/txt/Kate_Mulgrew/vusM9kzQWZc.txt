@@ -1,0 +1,12 @@
+POI: 			Kate_Mulgrew 
+Youtube ID: 	vusM9kzQWZc 
+Video length: 	311.6 sec 
+Set (V): 		dev 
+ 
+Kate_Mulgrew/vusM9kzQWZc_0000001 121.5 131.5 
+Kate_Mulgrew/vusM9kzQWZc_0000002 133.0 148.2 
+Kate_Mulgrew/vusM9kzQWZc_0000003 170.2 181.8 
+Kate_Mulgrew/vusM9kzQWZc_0000004 182.3 196.6 
+Kate_Mulgrew/vusM9kzQWZc_0000005 202.9 211.9 
+Kate_Mulgrew/vusM9kzQWZc_0000006 236.9 241.4 
+Kate_Mulgrew/vusM9kzQWZc_0000007 248.7 252.9 

@@ -1,0 +1,21 @@
+POI: 			Julian_Sands 
+Youtube ID: 	YL7T8zImy74 
+Video length: 	263.1 sec 
+Set (V): 		dev 
+ 
+Julian_Sands/YL7T8zImy74_0000001 22.9 29.1 
+Julian_Sands/YL7T8zImy74_0000002 32.3 36.6 
+Julian_Sands/YL7T8zImy74_0000003 51.1 63.3 
+Julian_Sands/YL7T8zImy74_0000004 73.0 79.2 
+Julian_Sands/YL7T8zImy74_0000005 79.4 85.2 
+Julian_Sands/YL7T8zImy74_0000006 87.1 92.7 
+Julian_Sands/YL7T8zImy74_0000007 93.7 105.2 
+Julian_Sands/YL7T8zImy74_0000008 106.4 110.8 
+Julian_Sands/YL7T8zImy74_0000009 152.1 158.7 
+Julian_Sands/YL7T8zImy74_0000010 159.4 164.7 
+Julian_Sands/YL7T8zImy74_0000011 165.6 171.1 
+Julian_Sands/YL7T8zImy74_0000012 173.1 178.2 
+Julian_Sands/YL7T8zImy74_0000013 179.1 191.9 
+Julian_Sands/YL7T8zImy74_0000014 199.9 204.5 
+Julian_Sands/YL7T8zImy74_0000015 207.0 214.2 
+Julian_Sands/YL7T8zImy74_0000016 228.7 234.6 

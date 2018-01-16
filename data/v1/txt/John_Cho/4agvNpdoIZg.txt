@@ -1,0 +1,8 @@
+POI: 			John_Cho 
+Youtube ID: 	4agvNpdoIZg 
+Video length: 	186.2 sec 
+Set (V): 		dev 
+ 
+John_Cho/4agvNpdoIZg_0000001 35.6 41.6 
+John_Cho/4agvNpdoIZg_0000002 46.8 57.6 
+John_Cho/4agvNpdoIZg_0000003 164.0 175.6 

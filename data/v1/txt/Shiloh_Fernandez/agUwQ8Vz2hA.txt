@@ -1,0 +1,11 @@
+POI: 			Shiloh_Fernandez 
+Youtube ID: 	agUwQ8Vz2hA 
+Video length: 	312.5 sec 
+Set (V): 		dev 
+ 
+Shiloh_Fernandez/agUwQ8Vz2hA_0000001 176.9 184.8 
+Shiloh_Fernandez/agUwQ8Vz2hA_0000002 232.5 239.4 
+Shiloh_Fernandez/agUwQ8Vz2hA_0000003 268.1 272.7 
+Shiloh_Fernandez/agUwQ8Vz2hA_0000004 278.0 287.2 
+Shiloh_Fernandez/agUwQ8Vz2hA_0000005 295.4 300.8 
+Shiloh_Fernandez/agUwQ8Vz2hA_0000006 301.1 306.0 

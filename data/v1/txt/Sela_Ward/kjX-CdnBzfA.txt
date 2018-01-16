@@ -1,0 +1,7 @@
+POI: 			Sela_Ward 
+Youtube ID: 	kjX-CdnBzfA 
+Video length: 	401.6 sec 
+Set (V): 		dev 
+ 
+Sela_Ward/kjX-CdnBzfA_0000001 70.4 74.4 
+Sela_Ward/kjX-CdnBzfA_0000002 170.2 174.7 

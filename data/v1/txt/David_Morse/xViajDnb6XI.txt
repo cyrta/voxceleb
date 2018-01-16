@@ -1,0 +1,15 @@
+POI: 			David_Morse 
+Youtube ID: 	xViajDnb6XI 
+Video length: 	296.0 sec 
+Set (V): 		dev 
+ 
+David_Morse/xViajDnb6XI_0000001 49.5 63.5 
+David_Morse/xViajDnb6XI_0000002 92.9 100.5 
+David_Morse/xViajDnb6XI_0000003 141.2 150.9 
+David_Morse/xViajDnb6XI_0000004 170.6 178.9 
+David_Morse/xViajDnb6XI_0000005 189.0 194.2 
+David_Morse/xViajDnb6XI_0000006 207.8 219.4 
+David_Morse/xViajDnb6XI_0000007 220.2 225.4 
+David_Morse/xViajDnb6XI_0000008 229.8 237.8 
+David_Morse/xViajDnb6XI_0000009 251.0 256.6 
+David_Morse/xViajDnb6XI_0000010 262.4 273.9 

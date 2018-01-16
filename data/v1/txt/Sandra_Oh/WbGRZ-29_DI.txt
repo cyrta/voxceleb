@@ -1,0 +1,9 @@
+POI: 			Sandra_Oh 
+Youtube ID: 	WbGRZ-29_DI 
+Video length: 	883.7 sec 
+Set (V): 		dev 
+ 
+Sandra_Oh/WbGRZ-29_DI_0000001 286.0 290.4 
+Sandra_Oh/WbGRZ-29_DI_0000002 561.8 567.8 
+Sandra_Oh/WbGRZ-29_DI_0000003 601.6 606.0 
+Sandra_Oh/WbGRZ-29_DI_0000004 749.0 753.0 

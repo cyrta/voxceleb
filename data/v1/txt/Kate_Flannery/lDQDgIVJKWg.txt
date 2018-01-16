@@ -1,0 +1,11 @@
+POI: 			Kate_Flannery 
+Youtube ID: 	lDQDgIVJKWg 
+Video length: 	506.1 sec 
+Set (V): 		dev 
+ 
+Kate_Flannery/lDQDgIVJKWg_0000001 194.1 199.4 
+Kate_Flannery/lDQDgIVJKWg_0000002 204.8 209.5 
+Kate_Flannery/lDQDgIVJKWg_0000003 216.6 220.9 
+Kate_Flannery/lDQDgIVJKWg_0000004 286.9 291.3 
+Kate_Flannery/lDQDgIVJKWg_0000005 294.8 302.6 
+Kate_Flannery/lDQDgIVJKWg_0000006 345.6 349.6 

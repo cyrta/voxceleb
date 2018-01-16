@@ -1,0 +1,8 @@
+POI: 			Tom_Ford 
+Youtube ID: 	FL8ky8vx90s 
+Video length: 	105.8 sec 
+Set (V): 		dev 
+ 
+Tom_Ford/FL8ky8vx90s_0000001 11.9 23.1 
+Tom_Ford/FL8ky8vx90s_0000002 30.9 36.5 
+Tom_Ford/FL8ky8vx90s_0000003 81.6 87.6 

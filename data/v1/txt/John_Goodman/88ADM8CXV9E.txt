@@ -1,0 +1,8 @@
+POI: 			John_Goodman 
+Youtube ID: 	88ADM8CXV9E 
+Video length: 	423.3 sec 
+Set (V): 		dev 
+ 
+John_Goodman/88ADM8CXV9E_0000001 159.2 163.8 
+John_Goodman/88ADM8CXV9E_0000002 290.3 296.7 
+John_Goodman/88ADM8CXV9E_0000003 365.4 373.2 

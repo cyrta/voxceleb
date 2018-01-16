@@ -1,0 +1,16 @@
+POI: 			Hilary_Swank 
+Youtube ID: 	wv-z1VkLzko 
+Video length: 	500.1 sec 
+Set (V): 		dev 
+ 
+Hilary_Swank/wv-z1VkLzko_0000001 314.8 337.0 
+Hilary_Swank/wv-z1VkLzko_0000002 338.1 356.3 
+Hilary_Swank/wv-z1VkLzko_0000003 359.0 365.5 
+Hilary_Swank/wv-z1VkLzko_0000004 370.8 393.8 
+Hilary_Swank/wv-z1VkLzko_0000005 396.4 400.8 
+Hilary_Swank/wv-z1VkLzko_0000006 402.2 408.0 
+Hilary_Swank/wv-z1VkLzko_0000007 408.6 423.9 
+Hilary_Swank/wv-z1VkLzko_0000008 425.9 430.6 
+Hilary_Swank/wv-z1VkLzko_0000009 444.4 456.0 
+Hilary_Swank/wv-z1VkLzko_0000010 457.8 467.4 
+Hilary_Swank/wv-z1VkLzko_0000011 467.7 482.0 

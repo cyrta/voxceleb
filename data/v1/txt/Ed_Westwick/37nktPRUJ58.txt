@@ -1,0 +1,8 @@
+POI: 			Ed_Westwick 
+Youtube ID: 	37nktPRUJ58 
+Video length: 	159.2 sec 
+Set (V): 		test 
+ 
+Ed_Westwick/37nktPRUJ58_0000001 10.3 15.8 
+Ed_Westwick/37nktPRUJ58_0000002 30.0 36.3 
+Ed_Westwick/37nktPRUJ58_0000003 50.0 54.1 

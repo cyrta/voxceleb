@@ -1,0 +1,7 @@
+POI: 			Lotte_Verbeek 
+Youtube ID: 	jcr8qst902Q 
+Video length: 	94.4 sec 
+Set (V): 		dev 
+ 
+Lotte_Verbeek/jcr8qst902Q_0000001 32.5 38.8 
+Lotte_Verbeek/jcr8qst902Q_0000002 60.2 68.8 

@@ -1,0 +1,11 @@
+POI: 			Sherri_Shepherd 
+Youtube ID: 	Ff4GN89IpTU 
+Video length: 	154.8 sec 
+Set (V): 		dev 
+ 
+Sherri_Shepherd/Ff4GN89IpTU_0000001 09.2 17.0 
+Sherri_Shepherd/Ff4GN89IpTU_0000002 20.8 31.8 
+Sherri_Shepherd/Ff4GN89IpTU_0000003 55.6 61.2 
+Sherri_Shepherd/Ff4GN89IpTU_0000004 84.6 89.8 
+Sherri_Shepherd/Ff4GN89IpTU_0000005 90.7 100.3 
+Sherri_Shepherd/Ff4GN89IpTU_0000006 112.5 121.6 

@@ -1,0 +1,11 @@
+POI: 			Johnny_Galecki 
+Youtube ID: 	9KH70MhbLOM 
+Video length: 	176.0 sec 
+Set (V): 		dev 
+ 
+Johnny_Galecki/9KH70MhbLOM_0000001 10.2 16.3 
+Johnny_Galecki/9KH70MhbLOM_0000002 27.0 31.4 
+Johnny_Galecki/9KH70MhbLOM_0000003 32.3 36.4 
+Johnny_Galecki/9KH70MhbLOM_0000004 68.9 74.4 
+Johnny_Galecki/9KH70MhbLOM_0000005 117.6 130.6 
+Johnny_Galecki/9KH70MhbLOM_0000006 134.5 140.0 

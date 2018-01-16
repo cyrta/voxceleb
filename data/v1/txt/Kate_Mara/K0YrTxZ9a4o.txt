@@ -1,0 +1,9 @@
+POI: 			Kate_Mara 
+Youtube ID: 	K0YrTxZ9a4o 
+Video length: 	172.7 sec 
+Set (V): 		dev 
+ 
+Kate_Mara/K0YrTxZ9a4o_0000001 15.2 29.8 
+Kate_Mara/K0YrTxZ9a4o_0000002 31.2 37.3 
+Kate_Mara/K0YrTxZ9a4o_0000003 39.8 51.4 
+Kate_Mara/K0YrTxZ9a4o_0000004 116.2 149.0 

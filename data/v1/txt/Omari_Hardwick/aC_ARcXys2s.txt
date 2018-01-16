@@ -1,0 +1,8 @@
+POI: 			Omari_Hardwick 
+Youtube ID: 	aC_ARcXys2s 
+Video length: 	107.8 sec 
+Set (V): 		dev 
+ 
+Omari_Hardwick/aC_ARcXys2s_0000001 18.0 22.3 
+Omari_Hardwick/aC_ARcXys2s_0000002 28.1 39.4 
+Omari_Hardwick/aC_ARcXys2s_0000003 77.1 83.2 

@@ -1,0 +1,10 @@
+POI: 			Peter_Facinelli 
+Youtube ID: 	HnUcElU-IxE 
+Video length: 	237.8 sec 
+Set (V): 		dev 
+ 
+Peter_Facinelli/HnUcElU-IxE_0000001 16.5 27.6 
+Peter_Facinelli/HnUcElU-IxE_0000002 147.6 165.8 
+Peter_Facinelli/HnUcElU-IxE_0000003 171.4 175.8 
+Peter_Facinelli/HnUcElU-IxE_0000004 205.2 209.3 
+Peter_Facinelli/HnUcElU-IxE_0000005 214.8 221.8 

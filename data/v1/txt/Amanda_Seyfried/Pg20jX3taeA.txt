@@ -1,0 +1,7 @@
+POI: 			Amanda_Seyfried 
+Youtube ID: 	Pg20jX3taeA 
+Video length: 	95.1 sec 
+Set (V): 		dev 
+ 
+Amanda_Seyfried/Pg20jX3taeA_0000001 70.9 75.0 
+Amanda_Seyfried/Pg20jX3taeA_0000002 84.9 89.1 

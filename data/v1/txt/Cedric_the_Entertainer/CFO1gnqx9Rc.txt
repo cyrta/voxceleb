@@ -1,0 +1,10 @@
+POI: 			Cedric_the_Entertainer 
+Youtube ID: 	CFO1gnqx9Rc 
+Video length: 	215.0 sec 
+Set (V): 		dev 
+ 
+Cedric_the_Entertainer/CFO1gnqx9Rc_0000001 57.8 73.6 
+Cedric_the_Entertainer/CFO1gnqx9Rc_0000002 87.6 106.6 
+Cedric_the_Entertainer/CFO1gnqx9Rc_0000003 171.6 179.4 
+Cedric_the_Entertainer/CFO1gnqx9Rc_0000004 183.0 188.7 
+Cedric_the_Entertainer/CFO1gnqx9Rc_0000005 188.8 196.6 

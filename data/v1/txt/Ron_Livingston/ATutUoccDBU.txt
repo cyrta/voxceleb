@@ -1,0 +1,7 @@
+POI: 			Ron_Livingston 
+Youtube ID: 	ATutUoccDBU 
+Video length: 	1611.8 sec 
+Set (V): 		dev 
+ 
+Ron_Livingston/ATutUoccDBU_0000001 239.4 250.0 
+Ron_Livingston/ATutUoccDBU_0000002 258.0 262.7 

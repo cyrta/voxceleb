@@ -1,0 +1,19 @@
+POI: 			Erik_Estrada 
+Youtube ID: 	U_1vfIVOigA 
+Video length: 	277.8 sec 
+Set (V): 		test 
+ 
+Erik_Estrada/U_1vfIVOigA_0000001 00.8 06.1 
+Erik_Estrada/U_1vfIVOigA_0000002 38.2 46.2 
+Erik_Estrada/U_1vfIVOigA_0000003 47.6 54.6 
+Erik_Estrada/U_1vfIVOigA_0000004 78.1 84.1 
+Erik_Estrada/U_1vfIVOigA_0000005 102.3 110.6 
+Erik_Estrada/U_1vfIVOigA_0000006 133.7 139.7 
+Erik_Estrada/U_1vfIVOigA_0000007 141.9 147.6 
+Erik_Estrada/U_1vfIVOigA_0000008 153.6 162.4 
+Erik_Estrada/U_1vfIVOigA_0000009 163.5 186.5 
+Erik_Estrada/U_1vfIVOigA_0000010 193.6 201.1 
+Erik_Estrada/U_1vfIVOigA_0000011 207.6 213.5 
+Erik_Estrada/U_1vfIVOigA_0000012 230.4 241.5 
+Erik_Estrada/U_1vfIVOigA_0000013 245.2 249.2 
+Erik_Estrada/U_1vfIVOigA_0000014 254.9 262.0 

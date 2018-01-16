@@ -1,0 +1,8 @@
+POI: 			Riley_Smith 
+Youtube ID: 	ZzeVR-d_uRg 
+Video length: 	425.8 sec 
+Set (V): 		dev 
+ 
+Riley_Smith/ZzeVR-d_uRg_0000001 104.9 114.4 
+Riley_Smith/ZzeVR-d_uRg_0000002 191.9 197.3 
+Riley_Smith/ZzeVR-d_uRg_0000003 273.9 279.6 

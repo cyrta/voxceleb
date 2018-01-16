@@ -1,0 +1,10 @@
+POI: 			Cheryl_Ladd 
+Youtube ID: 	gFnysQC4yto 
+Video length: 	456.2 sec 
+Set (V): 		dev 
+ 
+Cheryl_Ladd/gFnysQC4yto_0000001 73.4 79.4 
+Cheryl_Ladd/gFnysQC4yto_0000002 235.6 240.9 
+Cheryl_Ladd/gFnysQC4yto_0000003 242.9 319.4 
+Cheryl_Ladd/gFnysQC4yto_0000004 386.1 393.6 
+Cheryl_Ladd/gFnysQC4yto_0000005 394.3 404.1 

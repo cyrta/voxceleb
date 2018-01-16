@@ -1,0 +1,7 @@
+POI: 			Cilla_Black 
+Youtube ID: 	VlR_Imgy3a4 
+Video length: 	397.6 sec 
+Set (V): 		dev 
+ 
+Cilla_Black/VlR_Imgy3a4_0000001 299.1 304.0 
+Cilla_Black/VlR_Imgy3a4_0000002 364.7 369.4 

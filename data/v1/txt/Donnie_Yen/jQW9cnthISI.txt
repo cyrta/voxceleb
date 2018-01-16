@@ -1,0 +1,13 @@
+POI: 			Donnie_Yen 
+Youtube ID: 	jQW9cnthISI 
+Video length: 	290.7 sec 
+Set (V): 		dev 
+ 
+Donnie_Yen/jQW9cnthISI_0000001 51.2 57.0 
+Donnie_Yen/jQW9cnthISI_0000002 57.8 74.8 
+Donnie_Yen/jQW9cnthISI_0000003 86.0 90.3 
+Donnie_Yen/jQW9cnthISI_0000004 91.4 105.7 
+Donnie_Yen/jQW9cnthISI_0000005 141.2 149.6 
+Donnie_Yen/jQW9cnthISI_0000006 195.6 199.6 
+Donnie_Yen/jQW9cnthISI_0000007 200.9 206.6 
+Donnie_Yen/jQW9cnthISI_0000008 245.6 250.4 

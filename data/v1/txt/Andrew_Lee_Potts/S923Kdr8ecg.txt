@@ -1,0 +1,13 @@
+POI: 			Andrew_Lee_Potts 
+Youtube ID: 	S923Kdr8ecg 
+Video length: 	409.5 sec 
+Set (V): 		dev 
+ 
+Andrew_Lee_Potts/S923Kdr8ecg_0000001 122.8 128.1 
+Andrew_Lee_Potts/S923Kdr8ecg_0000002 209.4 217.4 
+Andrew_Lee_Potts/S923Kdr8ecg_0000003 255.5 259.8 
+Andrew_Lee_Potts/S923Kdr8ecg_0000004 264.6 269.1 
+Andrew_Lee_Potts/S923Kdr8ecg_0000005 353.3 359.1 
+Andrew_Lee_Potts/S923Kdr8ecg_0000006 369.4 374.8 
+Andrew_Lee_Potts/S923Kdr8ecg_0000007 387.0 392.4 
+Andrew_Lee_Potts/S923Kdr8ecg_0000008 394.3 399.2 

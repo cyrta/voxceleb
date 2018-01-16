@@ -1,0 +1,10 @@
+POI: 			Oliver_Platt 
+Youtube ID: 	g9WgMX7C5no 
+Video length: 	222.4 sec 
+Set (V): 		dev 
+ 
+Oliver_Platt/g9WgMX7C5no_0000001 67.5 74.0 
+Oliver_Platt/g9WgMX7C5no_0000002 87.1 91.5 
+Oliver_Platt/g9WgMX7C5no_0000003 99.1 110.1 
+Oliver_Platt/g9WgMX7C5no_0000004 161.6 182.5 
+Oliver_Platt/g9WgMX7C5no_0000005 192.3 196.3 

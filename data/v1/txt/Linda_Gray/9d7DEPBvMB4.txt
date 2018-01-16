@@ -1,0 +1,11 @@
+POI: 			Linda_Gray 
+Youtube ID: 	9d7DEPBvMB4 
+Video length: 	255.1 sec 
+Set (V): 		dev 
+ 
+Linda_Gray/9d7DEPBvMB4_0000001 50.6 55.8 
+Linda_Gray/9d7DEPBvMB4_0000002 56.5 63.1 
+Linda_Gray/9d7DEPBvMB4_0000003 137.6 142.0 
+Linda_Gray/9d7DEPBvMB4_0000004 196.1 203.2 
+Linda_Gray/9d7DEPBvMB4_0000005 203.4 209.0 
+Linda_Gray/9d7DEPBvMB4_0000006 210.7 217.2 

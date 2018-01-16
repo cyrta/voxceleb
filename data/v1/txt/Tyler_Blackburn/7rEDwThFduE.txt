@@ -1,0 +1,12 @@
+POI: 			Tyler_Blackburn 
+Youtube ID: 	7rEDwThFduE 
+Video length: 	211.7 sec 
+Set (V): 		dev 
+ 
+Tyler_Blackburn/7rEDwThFduE_0000001 21.7 29.2 
+Tyler_Blackburn/7rEDwThFduE_0000002 32.8 37.1 
+Tyler_Blackburn/7rEDwThFduE_0000003 75.7 86.6 
+Tyler_Blackburn/7rEDwThFduE_0000004 125.0 131.0 
+Tyler_Blackburn/7rEDwThFduE_0000005 158.7 162.7 
+Tyler_Blackburn/7rEDwThFduE_0000006 174.3 178.4 
+Tyler_Blackburn/7rEDwThFduE_0000007 189.8 195.2 

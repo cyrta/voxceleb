@@ -1,0 +1,10 @@
+POI: 			Kathryn_Prescott 
+Youtube ID: 	aJpiA_YgiYg 
+Video length: 	324.9 sec 
+Set (V): 		dev 
+ 
+Kathryn_Prescott/aJpiA_YgiYg_0000001 33.4 38.5 
+Kathryn_Prescott/aJpiA_YgiYg_0000002 45.1 50.0 
+Kathryn_Prescott/aJpiA_YgiYg_0000003 120.9 126.9 
+Kathryn_Prescott/aJpiA_YgiYg_0000004 143.4 156.8 
+Kathryn_Prescott/aJpiA_YgiYg_0000005 315.1 320.0 

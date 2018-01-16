@@ -1,0 +1,13 @@
+POI: 			Dick_Van_Dyke 
+Youtube ID: 	FRh6oVGhYUc 
+Video length: 	670.5 sec 
+Set (V): 		dev 
+ 
+Dick_Van_Dyke/FRh6oVGhYUc_0000001 109.5 118.9 
+Dick_Van_Dyke/FRh6oVGhYUc_0000002 124.7 130.3 
+Dick_Van_Dyke/FRh6oVGhYUc_0000003 238.8 243.6 
+Dick_Van_Dyke/FRh6oVGhYUc_0000004 339.2 351.5 
+Dick_Van_Dyke/FRh6oVGhYUc_0000005 480.9 488.6 
+Dick_Van_Dyke/FRh6oVGhYUc_0000006 488.7 498.5 
+Dick_Van_Dyke/FRh6oVGhYUc_0000007 627.3 631.8 
+Dick_Van_Dyke/FRh6oVGhYUc_0000008 642.4 647.8 

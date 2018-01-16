@@ -1,0 +1,20 @@
+POI: 			Chris_Lowell 
+Youtube ID: 	mXPlFxb_BPo 
+Video length: 	308.4 sec 
+Set (V): 		dev 
+ 
+Chris_Lowell/mXPlFxb_BPo_0000001 19.3 50.6 
+Chris_Lowell/mXPlFxb_BPo_0000002 51.5 62.2 
+Chris_Lowell/mXPlFxb_BPo_0000003 64.3 72.8 
+Chris_Lowell/mXPlFxb_BPo_0000004 78.9 84.1 
+Chris_Lowell/mXPlFxb_BPo_0000005 85.2 89.2 
+Chris_Lowell/mXPlFxb_BPo_0000006 90.3 104.0 
+Chris_Lowell/mXPlFxb_BPo_0000007 109.1 113.3 
+Chris_Lowell/mXPlFxb_BPo_0000008 119.4 134.5 
+Chris_Lowell/mXPlFxb_BPo_0000009 136.4 144.7 
+Chris_Lowell/mXPlFxb_BPo_0000010 145.2 164.7 
+Chris_Lowell/mXPlFxb_BPo_0000011 164.9 169.0 
+Chris_Lowell/mXPlFxb_BPo_0000012 173.7 177.6 
+Chris_Lowell/mXPlFxb_BPo_0000013 193.7 211.6 
+Chris_Lowell/mXPlFxb_BPo_0000014 223.7 257.2 
+Chris_Lowell/mXPlFxb_BPo_0000015 267.8 288.0 

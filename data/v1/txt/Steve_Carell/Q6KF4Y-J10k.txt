@@ -1,0 +1,7 @@
+POI: 			Steve_Carell 
+Youtube ID: 	Q6KF4Y-J10k 
+Video length: 	635.5 sec 
+Set (V): 		dev 
+ 
+Steve_Carell/Q6KF4Y-J10k_0000001 190.4 195.6 
+Steve_Carell/Q6KF4Y-J10k_0000002 414.0 420.7 

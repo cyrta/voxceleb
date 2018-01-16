@@ -1,0 +1,17 @@
+POI: 			Janeane_Garofalo 
+Youtube ID: 	SErC0C5Hoew 
+Video length: 	501.0 sec 
+Set (V): 		dev 
+ 
+Janeane_Garofalo/SErC0C5Hoew_0000001 73.7 77.8 
+Janeane_Garofalo/SErC0C5Hoew_0000002 105.0 118.2 
+Janeane_Garofalo/SErC0C5Hoew_0000003 139.0 145.7 
+Janeane_Garofalo/SErC0C5Hoew_0000004 165.7 171.7 
+Janeane_Garofalo/SErC0C5Hoew_0000005 202.5 208.5 
+Janeane_Garofalo/SErC0C5Hoew_0000006 239.7 245.2 
+Janeane_Garofalo/SErC0C5Hoew_0000007 287.7 296.8 
+Janeane_Garofalo/SErC0C5Hoew_0000008 369.4 375.6 
+Janeane_Garofalo/SErC0C5Hoew_0000009 381.3 388.1 
+Janeane_Garofalo/SErC0C5Hoew_0000010 401.8 419.9 
+Janeane_Garofalo/SErC0C5Hoew_0000011 437.8 451.8 
+Janeane_Garofalo/SErC0C5Hoew_0000012 451.9 459.0 

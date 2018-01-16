@@ -1,0 +1,10 @@
+POI: 			Julianne_Nicholson 
+Youtube ID: 	HOzXPNcfSN8 
+Video length: 	212.1 sec 
+Set (V): 		dev 
+ 
+Julianne_Nicholson/HOzXPNcfSN8_0000001 96.7 100.9 
+Julianne_Nicholson/HOzXPNcfSN8_0000002 101.1 109.8 
+Julianne_Nicholson/HOzXPNcfSN8_0000003 166.4 170.5 
+Julianne_Nicholson/HOzXPNcfSN8_0000004 175.1 185.8 
+Julianne_Nicholson/HOzXPNcfSN8_0000005 197.2 205.4 

@@ -1,0 +1,23 @@
+POI: 			Tracy_Morgan 
+Youtube ID: 	cET-p9LhzHo 
+Video length: 	487.5 sec 
+Set (V): 		dev 
+ 
+Tracy_Morgan/cET-p9LhzHo_0000001 12.8 17.5 
+Tracy_Morgan/cET-p9LhzHo_0000002 32.9 39.7 
+Tracy_Morgan/cET-p9LhzHo_0000003 40.3 52.8 
+Tracy_Morgan/cET-p9LhzHo_0000004 80.0 88.0 
+Tracy_Morgan/cET-p9LhzHo_0000005 109.7 128.0 
+Tracy_Morgan/cET-p9LhzHo_0000006 149.8 153.8 
+Tracy_Morgan/cET-p9LhzHo_0000007 188.3 193.0 
+Tracy_Morgan/cET-p9LhzHo_0000008 194.8 201.1 
+Tracy_Morgan/cET-p9LhzHo_0000009 222.0 227.1 
+Tracy_Morgan/cET-p9LhzHo_0000010 228.8 234.3 
+Tracy_Morgan/cET-p9LhzHo_0000011 277.4 290.8 
+Tracy_Morgan/cET-p9LhzHo_0000012 291.9 307.2 
+Tracy_Morgan/cET-p9LhzHo_0000013 307.4 312.8 
+Tracy_Morgan/cET-p9LhzHo_0000014 346.1 365.6 
+Tracy_Morgan/cET-p9LhzHo_0000015 365.8 370.5 
+Tracy_Morgan/cET-p9LhzHo_0000016 378.8 389.2 
+Tracy_Morgan/cET-p9LhzHo_0000017 403.2 411.4 
+Tracy_Morgan/cET-p9LhzHo_0000018 412.2 431.2 

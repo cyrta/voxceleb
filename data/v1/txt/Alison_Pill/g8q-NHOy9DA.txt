@@ -1,0 +1,10 @@
+POI: 			Alison_Pill 
+Youtube ID: 	g8q-NHOy9DA 
+Video length: 	233.4 sec 
+Set (V): 		dev 
+ 
+Alison_Pill/g8q-NHOy9DA_0000001 105.7 109.7 
+Alison_Pill/g8q-NHOy9DA_0000002 118.6 131.5 
+Alison_Pill/g8q-NHOy9DA_0000003 132.6 145.2 
+Alison_Pill/g8q-NHOy9DA_0000004 195.1 209.8 
+Alison_Pill/g8q-NHOy9DA_0000005 216.1 225.9 

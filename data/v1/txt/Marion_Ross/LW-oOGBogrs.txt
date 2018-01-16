@@ -1,0 +1,23 @@
+POI: 			Marion_Ross 
+Youtube ID: 	LW-oOGBogrs 
+Video length: 	370.1 sec 
+Set (V): 		dev 
+ 
+Marion_Ross/LW-oOGBogrs_0000001 05.8 11.4 
+Marion_Ross/LW-oOGBogrs_0000002 14.2 22.9 
+Marion_Ross/LW-oOGBogrs_0000003 24.2 30.9 
+Marion_Ross/LW-oOGBogrs_0000004 31.1 35.3 
+Marion_Ross/LW-oOGBogrs_0000005 38.2 45.6 
+Marion_Ross/LW-oOGBogrs_0000006 64.6 79.9 
+Marion_Ross/LW-oOGBogrs_0000007 87.6 93.6 
+Marion_Ross/LW-oOGBogrs_0000008 103.9 111.7 
+Marion_Ross/LW-oOGBogrs_0000009 138.4 143.2 
+Marion_Ross/LW-oOGBogrs_0000010 167.8 172.2 
+Marion_Ross/LW-oOGBogrs_0000011 228.1 232.7 
+Marion_Ross/LW-oOGBogrs_0000012 235.7 241.4 
+Marion_Ross/LW-oOGBogrs_0000013 249.8 255.8 
+Marion_Ross/LW-oOGBogrs_0000014 261.0 266.9 
+Marion_Ross/LW-oOGBogrs_0000015 273.2 277.8 
+Marion_Ross/LW-oOGBogrs_0000016 278.8 285.0 
+Marion_Ross/LW-oOGBogrs_0000017 355.4 359.7 
+Marion_Ross/LW-oOGBogrs_0000018 359.9 363.9 

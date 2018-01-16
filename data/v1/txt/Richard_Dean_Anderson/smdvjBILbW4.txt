@@ -1,0 +1,19 @@
+POI: 			Richard_Dean_Anderson 
+Youtube ID: 	smdvjBILbW4 
+Video length: 	722.6 sec 
+Set (V): 		dev 
+ 
+Richard_Dean_Anderson/smdvjBILbW4_0000001 219.2 224.0 
+Richard_Dean_Anderson/smdvjBILbW4_0000002 252.8 258.6 
+Richard_Dean_Anderson/smdvjBILbW4_0000003 390.2 399.7 
+Richard_Dean_Anderson/smdvjBILbW4_0000004 400.8 409.2 
+Richard_Dean_Anderson/smdvjBILbW4_0000005 409.4 422.4 
+Richard_Dean_Anderson/smdvjBILbW4_0000006 444.2 451.4 
+Richard_Dean_Anderson/smdvjBILbW4_0000007 465.8 471.0 
+Richard_Dean_Anderson/smdvjBILbW4_0000008 476.2 481.7 
+Richard_Dean_Anderson/smdvjBILbW4_0000009 482.4 489.3 
+Richard_Dean_Anderson/smdvjBILbW4_0000010 509.2 519.3 
+Richard_Dean_Anderson/smdvjBILbW4_0000011 519.4 529.4 
+Richard_Dean_Anderson/smdvjBILbW4_0000012 537.0 551.0 
+Richard_Dean_Anderson/smdvjBILbW4_0000013 557.7 562.1 
+Richard_Dean_Anderson/smdvjBILbW4_0000014 593.8 598.6 

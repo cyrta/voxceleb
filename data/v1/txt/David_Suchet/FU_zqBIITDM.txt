@@ -1,0 +1,8 @@
+POI: 			David_Suchet 
+Youtube ID: 	FU_zqBIITDM 
+Video length: 	643.7 sec 
+Set (V): 		dev 
+ 
+David_Suchet/FU_zqBIITDM_0000001 441.4 447.7 
+David_Suchet/FU_zqBIITDM_0000002 578.2 590.6 
+David_Suchet/FU_zqBIITDM_0000003 595.0 600.6 

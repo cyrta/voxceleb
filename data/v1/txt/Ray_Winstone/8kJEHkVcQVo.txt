@@ -1,0 +1,8 @@
+POI: 			Ray_Winstone 
+Youtube ID: 	8kJEHkVcQVo 
+Video length: 	562.3 sec 
+Set (V): 		dev 
+ 
+Ray_Winstone/8kJEHkVcQVo_0000001 199.9 206.8 
+Ray_Winstone/8kJEHkVcQVo_0000002 207.1 213.0 
+Ray_Winstone/8kJEHkVcQVo_0000003 390.9 396.0 

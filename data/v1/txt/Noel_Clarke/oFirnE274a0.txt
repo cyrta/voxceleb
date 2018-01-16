@@ -1,0 +1,15 @@
+POI: 			Noel_Clarke 
+Youtube ID: 	oFirnE274a0 
+Video length: 	277.1 sec 
+Set (V): 		dev 
+ 
+Noel_Clarke/oFirnE274a0_0000001 39.7 44.2 
+Noel_Clarke/oFirnE274a0_0000002 44.5 49.6 
+Noel_Clarke/oFirnE274a0_0000003 74.0 87.6 
+Noel_Clarke/oFirnE274a0_0000004 87.8 92.6 
+Noel_Clarke/oFirnE274a0_0000005 133.5 147.2 
+Noel_Clarke/oFirnE274a0_0000006 178.8 183.2 
+Noel_Clarke/oFirnE274a0_0000007 203.1 207.1 
+Noel_Clarke/oFirnE274a0_0000008 211.3 221.0 
+Noel_Clarke/oFirnE274a0_0000009 221.1 226.2 
+Noel_Clarke/oFirnE274a0_0000010 249.7 262.3 

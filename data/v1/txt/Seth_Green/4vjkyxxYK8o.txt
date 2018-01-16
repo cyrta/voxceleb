@@ -1,0 +1,7 @@
+POI: 			Seth_Green 
+Youtube ID: 	4vjkyxxYK8o 
+Video length: 	658.1 sec 
+Set (V): 		dev 
+ 
+Seth_Green/4vjkyxxYK8o_0000001 496.7 500.8 
+Seth_Green/4vjkyxxYK8o_0000002 584.2 601.6 

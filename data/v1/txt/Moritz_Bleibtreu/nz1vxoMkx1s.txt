@@ -1,0 +1,23 @@
+POI: 			Moritz_Bleibtreu 
+Youtube ID: 	nz1vxoMkx1s 
+Video length: 	519.8 sec 
+Set (V): 		dev 
+ 
+Moritz_Bleibtreu/nz1vxoMkx1s_0000001 29.0 35.7 
+Moritz_Bleibtreu/nz1vxoMkx1s_0000002 66.8 70.8 
+Moritz_Bleibtreu/nz1vxoMkx1s_0000003 84.0 90.1 
+Moritz_Bleibtreu/nz1vxoMkx1s_0000004 123.1 128.0 
+Moritz_Bleibtreu/nz1vxoMkx1s_0000005 128.8 133.2 
+Moritz_Bleibtreu/nz1vxoMkx1s_0000006 175.1 180.7 
+Moritz_Bleibtreu/nz1vxoMkx1s_0000007 199.3 204.0 
+Moritz_Bleibtreu/nz1vxoMkx1s_0000008 218.2 224.9 
+Moritz_Bleibtreu/nz1vxoMkx1s_0000009 251.2 256.4 
+Moritz_Bleibtreu/nz1vxoMkx1s_0000010 258.1 266.0 
+Moritz_Bleibtreu/nz1vxoMkx1s_0000011 261.9 267.8 
+Moritz_Bleibtreu/nz1vxoMkx1s_0000012 275.0 282.9 
+Moritz_Bleibtreu/nz1vxoMkx1s_0000013 333.2 338.0 
+Moritz_Bleibtreu/nz1vxoMkx1s_0000014 357.2 361.3 
+Moritz_Bleibtreu/nz1vxoMkx1s_0000015 361.4 365.9 
+Moritz_Bleibtreu/nz1vxoMkx1s_0000016 370.7 375.4 
+Moritz_Bleibtreu/nz1vxoMkx1s_0000017 394.2 400.1 
+Moritz_Bleibtreu/nz1vxoMkx1s_0000018 415.3 424.9 

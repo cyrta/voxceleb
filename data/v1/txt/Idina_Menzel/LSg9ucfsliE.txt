@@ -1,0 +1,8 @@
+POI: 			Idina_Menzel 
+Youtube ID: 	LSg9ucfsliE 
+Video length: 	540.7 sec 
+Set (V): 		dev 
+ 
+Idina_Menzel/LSg9ucfsliE_0000001 169.2 177.8 
+Idina_Menzel/LSg9ucfsliE_0000002 197.6 204.8 
+Idina_Menzel/LSg9ucfsliE_0000003 484.8 489.0 

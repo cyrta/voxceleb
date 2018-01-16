@@ -1,0 +1,8 @@
+POI: 			Chiwetel_Ejiofor 
+Youtube ID: 	RHOCAJZQp10 
+Video length: 	281.6 sec 
+Set (V): 		dev 
+ 
+Chiwetel_Ejiofor/RHOCAJZQp10_0000001 65.5 70.1 
+Chiwetel_Ejiofor/RHOCAJZQp10_0000002 73.8 97.0 
+Chiwetel_Ejiofor/RHOCAJZQp10_0000003 188.8 198.2 

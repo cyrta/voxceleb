@@ -1,0 +1,11 @@
+POI: 			Alain_Delon 
+Youtube ID: 	5AfbbZolonc 
+Video length: 	441.0 sec 
+Set (V): 		dev 
+ 
+Alain_Delon/5AfbbZolonc_0000001 94.7 103.2 
+Alain_Delon/5AfbbZolonc_0000002 138.0 142.4 
+Alain_Delon/5AfbbZolonc_0000003 264.6 277.4 
+Alain_Delon/5AfbbZolonc_0000004 279.2 284.6 
+Alain_Delon/5AfbbZolonc_0000005 345.8 352.6 
+Alain_Delon/5AfbbZolonc_0000006 353.7 358.0 

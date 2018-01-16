@@ -1,0 +1,10 @@
+POI: 			Ryan_Phillippe 
+Youtube ID: 	tlSza-LwOzU 
+Video length: 	66.5 sec 
+Set (V): 		dev 
+ 
+Ryan_Phillippe/tlSza-LwOzU_0000001 01.8 07.1 
+Ryan_Phillippe/tlSza-LwOzU_0000002 25.0 32.2 
+Ryan_Phillippe/tlSza-LwOzU_0000003 36.8 43.7 
+Ryan_Phillippe/tlSza-LwOzU_0000004 47.1 56.4 
+Ryan_Phillippe/tlSza-LwOzU_0000005 59.9 64.8 

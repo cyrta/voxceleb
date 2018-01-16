@@ -1,0 +1,7 @@
+POI: 			Thomas_Dekker 
+Youtube ID: 	Ch7xCsLFtrc 
+Video length: 	289.6 sec 
+Set (V): 		dev 
+ 
+Thomas_Dekker/Ch7xCsLFtrc_0000001 88.6 92.5 
+Thomas_Dekker/Ch7xCsLFtrc_0000002 148.8 153.5 

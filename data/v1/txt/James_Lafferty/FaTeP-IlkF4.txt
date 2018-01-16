@@ -1,0 +1,12 @@
+POI: 			James_Lafferty 
+Youtube ID: 	FaTeP-IlkF4 
+Video length: 	347.6 sec 
+Set (V): 		dev 
+ 
+James_Lafferty/FaTeP-IlkF4_0000001 65.0 72.5 
+James_Lafferty/FaTeP-IlkF4_0000002 108.5 115.7 
+James_Lafferty/FaTeP-IlkF4_0000003 186.8 193.4 
+James_Lafferty/FaTeP-IlkF4_0000004 195.8 201.0 
+James_Lafferty/FaTeP-IlkF4_0000005 268.6 272.6 
+James_Lafferty/FaTeP-IlkF4_0000006 281.4 285.7 
+James_Lafferty/FaTeP-IlkF4_0000007 291.2 298.8 

@@ -1,0 +1,8 @@
+POI: 			David_Mamet 
+Youtube ID: 	oTuWuEuO_iY 
+Video length: 	153.2 sec 
+Set (V): 		dev 
+ 
+David_Mamet/oTuWuEuO_iY_0000001 52.6 57.4 
+David_Mamet/oTuWuEuO_iY_0000002 65.4 75.8 
+David_Mamet/oTuWuEuO_iY_0000003 100.8 105.3 

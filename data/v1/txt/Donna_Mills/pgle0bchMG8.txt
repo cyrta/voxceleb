@@ -1,0 +1,30 @@
+POI: 			Donna_Mills 
+Youtube ID: 	pgle0bchMG8 
+Video length: 	1230.3 sec 
+Set (V): 		dev 
+ 
+Donna_Mills/pgle0bchMG8_0000001 23.3 28.8 
+Donna_Mills/pgle0bchMG8_0000002 30.6 34.8 
+Donna_Mills/pgle0bchMG8_0000003 152.0 157.5 
+Donna_Mills/pgle0bchMG8_0000004 204.1 211.8 
+Donna_Mills/pgle0bchMG8_0000005 296.6 302.6 
+Donna_Mills/pgle0bchMG8_0000006 303.0 309.6 
+Donna_Mills/pgle0bchMG8_0000007 378.5 386.5 
+Donna_Mills/pgle0bchMG8_0000008 388.8 394.2 
+Donna_Mills/pgle0bchMG8_0000009 434.8 446.4 
+Donna_Mills/pgle0bchMG8_0000010 453.1 458.7 
+Donna_Mills/pgle0bchMG8_0000011 483.4 487.6 
+Donna_Mills/pgle0bchMG8_0000012 524.2 528.7 
+Donna_Mills/pgle0bchMG8_0000013 530.6 542.0 
+Donna_Mills/pgle0bchMG8_0000014 619.0 629.9 
+Donna_Mills/pgle0bchMG8_0000015 678.2 695.0 
+Donna_Mills/pgle0bchMG8_0000016 742.5 751.7 
+Donna_Mills/pgle0bchMG8_0000017 791.1 796.6 
+Donna_Mills/pgle0bchMG8_0000018 796.8 803.2 
+Donna_Mills/pgle0bchMG8_0000019 804.2 809.8 
+Donna_Mills/pgle0bchMG8_0000020 829.5 836.2 
+Donna_Mills/pgle0bchMG8_0000021 901.4 905.9 
+Donna_Mills/pgle0bchMG8_0000022 937.5 943.2 
+Donna_Mills/pgle0bchMG8_0000023 953.6 958.7 
+Donna_Mills/pgle0bchMG8_0000024 1033.4 1040.1 
+Donna_Mills/pgle0bchMG8_0000025 1196.2 1202.8 

@@ -1,0 +1,10 @@
+POI: 			Jesse_McCartney 
+Youtube ID: 	A-OenHpTEx8 
+Video length: 	266.9 sec 
+Set (V): 		dev 
+ 
+Jesse_McCartney/A-OenHpTEx8_0000001 60.7 68.8 
+Jesse_McCartney/A-OenHpTEx8_0000002 82.0 88.4 
+Jesse_McCartney/A-OenHpTEx8_0000003 112.1 127.4 
+Jesse_McCartney/A-OenHpTEx8_0000004 136.8 142.3 
+Jesse_McCartney/A-OenHpTEx8_0000005 171.6 177.5 

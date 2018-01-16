@@ -1,0 +1,17 @@
+POI: 			John_Turturro 
+Youtube ID: 	zK585JHLWOg 
+Video length: 	1219.4 sec 
+Set (V): 		dev 
+ 
+John_Turturro/zK585JHLWOg_0000001 110.5 127.8 
+John_Turturro/zK585JHLWOg_0000002 289.7 296.0 
+John_Turturro/zK585JHLWOg_0000003 297.0 301.5 
+John_Turturro/zK585JHLWOg_0000004 301.6 305.6 
+John_Turturro/zK585JHLWOg_0000005 306.0 310.6 
+John_Turturro/zK585JHLWOg_0000006 314.5 321.5 
+John_Turturro/zK585JHLWOg_0000007 755.1 760.4 
+John_Turturro/zK585JHLWOg_0000008 761.4 768.0 
+John_Turturro/zK585JHLWOg_0000009 775.6 780.4 
+John_Turturro/zK585JHLWOg_0000010 979.1 984.6 
+John_Turturro/zK585JHLWOg_0000011 991.0 998.3 
+John_Turturro/zK585JHLWOg_0000012 1002.1 1008.4 

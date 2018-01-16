@@ -1,0 +1,21 @@
+POI: 			Joseph_Gordon-Levitt 
+Youtube ID: 	TnGvWJiN5ng 
+Video length: 	310.1 sec 
+Set (V): 		dev 
+ 
+Joseph_Gordon-Levitt/TnGvWJiN5ng_0000001 35.9 44.0 
+Joseph_Gordon-Levitt/TnGvWJiN5ng_0000002 44.9 56.4 
+Joseph_Gordon-Levitt/TnGvWJiN5ng_0000003 115.6 129.3 
+Joseph_Gordon-Levitt/TnGvWJiN5ng_0000004 130.1 135.2 
+Joseph_Gordon-Levitt/TnGvWJiN5ng_0000005 136.0 140.5 
+Joseph_Gordon-Levitt/TnGvWJiN5ng_0000006 143.3 148.7 
+Joseph_Gordon-Levitt/TnGvWJiN5ng_0000007 150.1 159.0 
+Joseph_Gordon-Levitt/TnGvWJiN5ng_0000008 162.6 166.7 
+Joseph_Gordon-Levitt/TnGvWJiN5ng_0000009 170.2 175.3 
+Joseph_Gordon-Levitt/TnGvWJiN5ng_0000010 176.3 182.3 
+Joseph_Gordon-Levitt/TnGvWJiN5ng_0000011 188.5 194.0 
+Joseph_Gordon-Levitt/TnGvWJiN5ng_0000012 244.8 250.6 
+Joseph_Gordon-Levitt/TnGvWJiN5ng_0000013 256.5 262.5 
+Joseph_Gordon-Levitt/TnGvWJiN5ng_0000014 263.4 275.2 
+Joseph_Gordon-Levitt/TnGvWJiN5ng_0000015 277.5 285.4 
+Joseph_Gordon-Levitt/TnGvWJiN5ng_0000016 291.7 299.2 

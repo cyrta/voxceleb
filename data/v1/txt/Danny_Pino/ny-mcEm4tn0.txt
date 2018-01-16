@@ -1,0 +1,16 @@
+POI: 			Danny_Pino 
+Youtube ID: 	ny-mcEm4tn0 
+Video length: 	203.6 sec 
+Set (V): 		dev 
+ 
+Danny_Pino/ny-mcEm4tn0_0000001 18.0 22.4 
+Danny_Pino/ny-mcEm4tn0_0000002 38.4 44.8 
+Danny_Pino/ny-mcEm4tn0_0000003 50.2 55.9 
+Danny_Pino/ny-mcEm4tn0_0000004 56.0 63.2 
+Danny_Pino/ny-mcEm4tn0_0000005 65.6 70.8 
+Danny_Pino/ny-mcEm4tn0_0000006 81.4 87.8 
+Danny_Pino/ny-mcEm4tn0_0000007 111.4 118.7 
+Danny_Pino/ny-mcEm4tn0_0000008 124.2 134.1 
+Danny_Pino/ny-mcEm4tn0_0000009 150.3 157.2 
+Danny_Pino/ny-mcEm4tn0_0000010 161.1 175.4 
+Danny_Pino/ny-mcEm4tn0_0000011 186.5 191.7 

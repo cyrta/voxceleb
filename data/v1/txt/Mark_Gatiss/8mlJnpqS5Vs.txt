@@ -1,0 +1,14 @@
+POI: 			Mark_Gatiss 
+Youtube ID: 	8mlJnpqS5Vs 
+Video length: 	187.6 sec 
+Set (V): 		dev 
+ 
+Mark_Gatiss/8mlJnpqS5Vs_0000001 55.4 67.5 
+Mark_Gatiss/8mlJnpqS5Vs_0000002 68.0 75.5 
+Mark_Gatiss/8mlJnpqS5Vs_0000003 76.4 90.2 
+Mark_Gatiss/8mlJnpqS5Vs_0000004 91.0 95.2 
+Mark_Gatiss/8mlJnpqS5Vs_0000005 106.8 115.7 
+Mark_Gatiss/8mlJnpqS5Vs_0000006 118.5 125.5 
+Mark_Gatiss/8mlJnpqS5Vs_0000007 131.7 139.3 
+Mark_Gatiss/8mlJnpqS5Vs_0000008 139.9 149.7 
+Mark_Gatiss/8mlJnpqS5Vs_0000009 159.3 164.1 

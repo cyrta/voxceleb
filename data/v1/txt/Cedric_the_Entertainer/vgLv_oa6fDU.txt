@@ -1,0 +1,7 @@
+POI: 			Cedric_the_Entertainer 
+Youtube ID: 	vgLv_oa6fDU 
+Video length: 	273.1 sec 
+Set (V): 		dev 
+ 
+Cedric_the_Entertainer/vgLv_oa6fDU_0000001 173.0 177.0 
+Cedric_the_Entertainer/vgLv_oa6fDU_0000002 230.8 236.1 

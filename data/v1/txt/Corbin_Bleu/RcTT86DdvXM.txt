@@ -1,0 +1,9 @@
+POI: 			Corbin_Bleu 
+Youtube ID: 	RcTT86DdvXM 
+Video length: 	380.0 sec 
+Set (V): 		dev 
+ 
+Corbin_Bleu/RcTT86DdvXM_0000001 90.8 103.3 
+Corbin_Bleu/RcTT86DdvXM_0000002 142.1 149.0 
+Corbin_Bleu/RcTT86DdvXM_0000003 155.8 162.6 
+Corbin_Bleu/RcTT86DdvXM_0000004 174.5 179.3 

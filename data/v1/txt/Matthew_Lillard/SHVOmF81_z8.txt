@@ -1,0 +1,15 @@
+POI: 			Matthew_Lillard 
+Youtube ID: 	SHVOmF81_z8 
+Video length: 	249.2 sec 
+Set (V): 		dev 
+ 
+Matthew_Lillard/SHVOmF81_z8_0000001 43.9 54.4 
+Matthew_Lillard/SHVOmF81_z8_0000002 84.1 88.8 
+Matthew_Lillard/SHVOmF81_z8_0000003 122.9 130.6 
+Matthew_Lillard/SHVOmF81_z8_0000004 177.4 181.9 
+Matthew_Lillard/SHVOmF81_z8_0000005 175.5 181.9 
+Matthew_Lillard/SHVOmF81_z8_0000006 183.6 188.1 
+Matthew_Lillard/SHVOmF81_z8_0000007 190.5 197.4 
+Matthew_Lillard/SHVOmF81_z8_0000008 203.0 217.3 
+Matthew_Lillard/SHVOmF81_z8_0000009 222.2 226.2 
+Matthew_Lillard/SHVOmF81_z8_0000010 228.8 235.3 

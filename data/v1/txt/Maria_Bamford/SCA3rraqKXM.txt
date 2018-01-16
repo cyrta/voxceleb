@@ -1,0 +1,16 @@
+POI: 			Maria_Bamford 
+Youtube ID: 	SCA3rraqKXM 
+Video length: 	308.6 sec 
+Set (V): 		dev 
+ 
+Maria_Bamford/SCA3rraqKXM_0000001 18.9 25.1 
+Maria_Bamford/SCA3rraqKXM_0000002 31.8 36.2 
+Maria_Bamford/SCA3rraqKXM_0000003 56.0 61.8 
+Maria_Bamford/SCA3rraqKXM_0000004 62.7 68.2 
+Maria_Bamford/SCA3rraqKXM_0000005 78.8 83.0 
+Maria_Bamford/SCA3rraqKXM_0000006 84.4 99.2 
+Maria_Bamford/SCA3rraqKXM_0000007 139.5 146.8 
+Maria_Bamford/SCA3rraqKXM_0000008 154.9 161.8 
+Maria_Bamford/SCA3rraqKXM_0000009 175.2 181.5 
+Maria_Bamford/SCA3rraqKXM_0000010 228.3 232.8 
+Maria_Bamford/SCA3rraqKXM_0000011 247.6 254.1 

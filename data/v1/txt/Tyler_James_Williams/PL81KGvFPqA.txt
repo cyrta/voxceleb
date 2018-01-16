@@ -1,0 +1,12 @@
+POI: 			Tyler_James_Williams 
+Youtube ID: 	PL81KGvFPqA 
+Video length: 	128.5 sec 
+Set (V): 		dev 
+ 
+Tyler_James_Williams/PL81KGvFPqA_0000001 07.1 11.8 
+Tyler_James_Williams/PL81KGvFPqA_0000002 16.9 29.1 
+Tyler_James_Williams/PL81KGvFPqA_0000003 59.8 67.4 
+Tyler_James_Williams/PL81KGvFPqA_0000004 75.3 80.9 
+Tyler_James_Williams/PL81KGvFPqA_0000005 96.2 103.4 
+Tyler_James_Williams/PL81KGvFPqA_0000006 116.3 123.1 
+Tyler_James_Williams/PL81KGvFPqA_0000007 116.4 123.2 

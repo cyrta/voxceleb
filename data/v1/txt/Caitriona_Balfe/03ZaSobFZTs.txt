@@ -1,0 +1,9 @@
+POI: 			Caitriona_Balfe 
+Youtube ID: 	03ZaSobFZTs 
+Video length: 	451.9 sec 
+Set (V): 		dev 
+ 
+Caitriona_Balfe/03ZaSobFZTs_0000001 121.8 126.5 
+Caitriona_Balfe/03ZaSobFZTs_0000002 126.6 146.2 
+Caitriona_Balfe/03ZaSobFZTs_0000003 201.4 216.2 
+Caitriona_Balfe/03ZaSobFZTs_0000004 348.2 361.0 

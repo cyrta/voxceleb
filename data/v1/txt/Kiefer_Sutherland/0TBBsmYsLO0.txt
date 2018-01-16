@@ -1,0 +1,12 @@
+POI: 			Kiefer_Sutherland 
+Youtube ID: 	0TBBsmYsLO0 
+Video length: 	423.2 sec 
+Set (V): 		dev 
+ 
+Kiefer_Sutherland/0TBBsmYsLO0_0000001 98.0 118.4 
+Kiefer_Sutherland/0TBBsmYsLO0_0000002 118.9 128.0 
+Kiefer_Sutherland/0TBBsmYsLO0_0000003 277.6 283.4 
+Kiefer_Sutherland/0TBBsmYsLO0_0000004 328.8 337.9 
+Kiefer_Sutherland/0TBBsmYsLO0_0000005 356.6 363.0 
+Kiefer_Sutherland/0TBBsmYsLO0_0000006 382.1 390.6 
+Kiefer_Sutherland/0TBBsmYsLO0_0000007 406.1 415.0 

@@ -1,0 +1,7 @@
+POI: 			Daniel_Auteuil 
+Youtube ID: 	rJFtKwEasNo 
+Video length: 	232.8 sec 
+Set (V): 		dev 
+ 
+Daniel_Auteuil/rJFtKwEasNo_0000001 165.0 169.4 
+Daniel_Auteuil/rJFtKwEasNo_0000002 183.6 190.0 

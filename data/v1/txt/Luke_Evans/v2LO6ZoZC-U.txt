@@ -1,0 +1,13 @@
+POI: 			Luke_Evans 
+Youtube ID: 	v2LO6ZoZC-U 
+Video length: 	276.1 sec 
+Set (V): 		dev 
+ 
+Luke_Evans/v2LO6ZoZC-U_0000001 21.8 27.6 
+Luke_Evans/v2LO6ZoZC-U_0000002 53.0 59.4 
+Luke_Evans/v2LO6ZoZC-U_0000003 64.1 71.0 
+Luke_Evans/v2LO6ZoZC-U_0000004 93.6 98.2 
+Luke_Evans/v2LO6ZoZC-U_0000005 99.3 106.6 
+Luke_Evans/v2LO6ZoZC-U_0000006 143.2 147.8 
+Luke_Evans/v2LO6ZoZC-U_0000007 217.7 224.5 
+Luke_Evans/v2LO6ZoZC-U_0000008 231.8 242.4 

@@ -1,0 +1,15 @@
+POI: 			Guillaume_Canet 
+Youtube ID: 	zu-lTQYmYYQ 
+Video length: 	328.1 sec 
+Set (V): 		dev 
+ 
+Guillaume_Canet/zu-lTQYmYYQ_0000001 36.2 43.3 
+Guillaume_Canet/zu-lTQYmYYQ_0000002 47.7 52.0 
+Guillaume_Canet/zu-lTQYmYYQ_0000003 57.0 62.6 
+Guillaume_Canet/zu-lTQYmYYQ_0000004 79.4 84.2 
+Guillaume_Canet/zu-lTQYmYYQ_0000005 92.8 99.5 
+Guillaume_Canet/zu-lTQYmYYQ_0000006 101.2 105.2 
+Guillaume_Canet/zu-lTQYmYYQ_0000007 105.5 112.2 
+Guillaume_Canet/zu-lTQYmYYQ_0000008 118.6 122.8 
+Guillaume_Canet/zu-lTQYmYYQ_0000009 128.2 133.3 
+Guillaume_Canet/zu-lTQYmYYQ_0000010 133.4 137.9 

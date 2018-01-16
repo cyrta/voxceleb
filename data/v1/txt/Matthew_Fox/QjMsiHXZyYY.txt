@@ -1,0 +1,12 @@
+POI: 			Matthew_Fox 
+Youtube ID: 	QjMsiHXZyYY 
+Video length: 	865.4 sec 
+Set (V): 		dev 
+ 
+Matthew_Fox/QjMsiHXZyYY_0000001 28.4 34.0 
+Matthew_Fox/QjMsiHXZyYY_0000002 41.6 47.1 
+Matthew_Fox/QjMsiHXZyYY_0000003 537.1 545.2 
+Matthew_Fox/QjMsiHXZyYY_0000004 603.3 609.0 
+Matthew_Fox/QjMsiHXZyYY_0000005 614.0 618.5 
+Matthew_Fox/QjMsiHXZyYY_0000006 630.3 635.5 
+Matthew_Fox/QjMsiHXZyYY_0000007 645.3 649.4 

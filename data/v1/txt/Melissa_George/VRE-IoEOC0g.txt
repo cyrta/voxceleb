@@ -1,0 +1,14 @@
+POI: 			Melissa_George 
+Youtube ID: 	VRE-IoEOC0g 
+Video length: 	298.4 sec 
+Set (V): 		dev 
+ 
+Melissa_George/VRE-IoEOC0g_0000001 72.3 81.1 
+Melissa_George/VRE-IoEOC0g_0000002 92.7 100.0 
+Melissa_George/VRE-IoEOC0g_0000003 100.8 106.4 
+Melissa_George/VRE-IoEOC0g_0000004 107.4 114.9 
+Melissa_George/VRE-IoEOC0g_0000005 140.4 149.6 
+Melissa_George/VRE-IoEOC0g_0000006 196.8 207.8 
+Melissa_George/VRE-IoEOC0g_0000007 224.2 237.4 
+Melissa_George/VRE-IoEOC0g_0000008 246.8 251.2 
+Melissa_George/VRE-IoEOC0g_0000009 271.0 281.8 

@@ -1,0 +1,12 @@
+POI: 			Kelly_Monaco 
+Youtube ID: 	sZVcqC3TL7A 
+Video length: 	181.6 sec 
+Set (V): 		dev 
+ 
+Kelly_Monaco/sZVcqC3TL7A_0000001 40.4 45.0 
+Kelly_Monaco/sZVcqC3TL7A_0000002 49.4 53.8 
+Kelly_Monaco/sZVcqC3TL7A_0000003 58.1 64.8 
+Kelly_Monaco/sZVcqC3TL7A_0000004 92.3 98.2 
+Kelly_Monaco/sZVcqC3TL7A_0000005 127.2 136.7 
+Kelly_Monaco/sZVcqC3TL7A_0000006 148.5 160.2 
+Kelly_Monaco/sZVcqC3TL7A_0000007 163.8 174.8 

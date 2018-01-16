@@ -1,0 +1,10 @@
+POI: 			Charlotte_Gainsbourg 
+Youtube ID: 	OEKrSKPk9F8 
+Video length: 	306.4 sec 
+Set (V): 		dev 
+ 
+Charlotte_Gainsbourg/OEKrSKPk9F8_0000001 36.9 41.3 
+Charlotte_Gainsbourg/OEKrSKPk9F8_0000002 42.5 47.4 
+Charlotte_Gainsbourg/OEKrSKPk9F8_0000003 54.1 60.1 
+Charlotte_Gainsbourg/OEKrSKPk9F8_0000004 78.4 83.4 
+Charlotte_Gainsbourg/OEKrSKPk9F8_0000005 84.1 88.2 

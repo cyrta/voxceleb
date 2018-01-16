@@ -1,0 +1,17 @@
+POI: 			Eddie_Izzard 
+Youtube ID: 	0LbtndiXJC0 
+Video length: 	425.1 sec 
+Set (V): 		test 
+ 
+Eddie_Izzard/0LbtndiXJC0_0000001 23.0 44.7 
+Eddie_Izzard/0LbtndiXJC0_0000002 60.5 84.7 
+Eddie_Izzard/0LbtndiXJC0_0000003 100.4 104.6 
+Eddie_Izzard/0LbtndiXJC0_0000004 105.4 118.4 
+Eddie_Izzard/0LbtndiXJC0_0000005 119.2 123.7 
+Eddie_Izzard/0LbtndiXJC0_0000006 139.5 144.6 
+Eddie_Izzard/0LbtndiXJC0_0000007 306.1 315.4 
+Eddie_Izzard/0LbtndiXJC0_0000008 337.8 342.6 
+Eddie_Izzard/0LbtndiXJC0_0000009 353.6 373.8 
+Eddie_Izzard/0LbtndiXJC0_0000010 378.0 383.8 
+Eddie_Izzard/0LbtndiXJC0_0000011 394.0 406.3 
+Eddie_Izzard/0LbtndiXJC0_0000012 407.3 417.4 

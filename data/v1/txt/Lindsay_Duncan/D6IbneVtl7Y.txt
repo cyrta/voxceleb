@@ -1,0 +1,11 @@
+POI: 			Lindsay_Duncan 
+Youtube ID: 	D6IbneVtl7Y 
+Video length: 	138.2 sec 
+Set (V): 		dev 
+ 
+Lindsay_Duncan/D6IbneVtl7Y_0000001 09.0 14.6 
+Lindsay_Duncan/D6IbneVtl7Y_0000002 40.1 45.1 
+Lindsay_Duncan/D6IbneVtl7Y_0000003 60.3 64.2 
+Lindsay_Duncan/D6IbneVtl7Y_0000004 75.1 79.8 
+Lindsay_Duncan/D6IbneVtl7Y_0000005 83.2 87.6 
+Lindsay_Duncan/D6IbneVtl7Y_0000006 104.6 110.5 

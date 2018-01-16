@@ -1,0 +1,7 @@
+POI: 			John_Cho 
+Youtube ID: 	29bjD3t99TU 
+Video length: 	308.3 sec 
+Set (V): 		dev 
+ 
+John_Cho/29bjD3t99TU_0000001 44.4 48.5 
+John_Cho/29bjD3t99TU_0000002 49.1 54.0 

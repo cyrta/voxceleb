@@ -1,0 +1,24 @@
+POI: 			Kevin_McHale 
+Youtube ID: 	TEBmp9w6gh0 
+Video length: 	511.7 sec 
+Set (V): 		dev 
+ 
+Kevin_McHale/TEBmp9w6gh0_0000001 17.8 23.2 
+Kevin_McHale/TEBmp9w6gh0_0000002 25.7 32.5 
+Kevin_McHale/TEBmp9w6gh0_0000003 37.0 41.2 
+Kevin_McHale/TEBmp9w6gh0_0000004 48.2 54.8 
+Kevin_McHale/TEBmp9w6gh0_0000005 55.6 70.0 
+Kevin_McHale/TEBmp9w6gh0_0000006 77.0 84.5 
+Kevin_McHale/TEBmp9w6gh0_0000007 93.6 99.5 
+Kevin_McHale/TEBmp9w6gh0_0000008 103.1 108.3 
+Kevin_McHale/TEBmp9w6gh0_0000009 141.1 148.9 
+Kevin_McHale/TEBmp9w6gh0_0000010 156.2 167.8 
+Kevin_McHale/TEBmp9w6gh0_0000011 196.9 202.2 
+Kevin_McHale/TEBmp9w6gh0_0000012 248.1 278.1 
+Kevin_McHale/TEBmp9w6gh0_0000013 280.5 293.9 
+Kevin_McHale/TEBmp9w6gh0_0000014 303.2 308.6 
+Kevin_McHale/TEBmp9w6gh0_0000015 356.5 363.3 
+Kevin_McHale/TEBmp9w6gh0_0000016 363.5 368.5 
+Kevin_McHale/TEBmp9w6gh0_0000017 390.7 398.5 
+Kevin_McHale/TEBmp9w6gh0_0000018 432.4 438.6 
+Kevin_McHale/TEBmp9w6gh0_0000019 460.0 466.2 

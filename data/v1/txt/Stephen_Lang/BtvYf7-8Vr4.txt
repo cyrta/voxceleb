@@ -1,0 +1,13 @@
+POI: 			Stephen_Lang 
+Youtube ID: 	BtvYf7-8Vr4 
+Video length: 	175.8 sec 
+Set (V): 		dev 
+ 
+Stephen_Lang/BtvYf7-8Vr4_0000001 27.4 46.6 
+Stephen_Lang/BtvYf7-8Vr4_0000002 47.0 60.1 
+Stephen_Lang/BtvYf7-8Vr4_0000003 67.6 77.7 
+Stephen_Lang/BtvYf7-8Vr4_0000004 81.2 87.9 
+Stephen_Lang/BtvYf7-8Vr4_0000005 88.1 98.6 
+Stephen_Lang/BtvYf7-8Vr4_0000006 99.1 103.5 
+Stephen_Lang/BtvYf7-8Vr4_0000007 123.4 134.0 
+Stephen_Lang/BtvYf7-8Vr4_0000008 138.4 148.2 

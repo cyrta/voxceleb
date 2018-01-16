@@ -1,0 +1,13 @@
+POI: 			Adrianne_Curry 
+Youtube ID: 	EYYiAyJk1w8 
+Video length: 	146.5 sec 
+Set (V): 		dev 
+ 
+Adrianne_Curry/EYYiAyJk1w8_0000001 11.2 16.0 
+Adrianne_Curry/EYYiAyJk1w8_0000002 55.6 59.9 
+Adrianne_Curry/EYYiAyJk1w8_0000003 73.4 77.5 
+Adrianne_Curry/EYYiAyJk1w8_0000004 84.2 91.3 
+Adrianne_Curry/EYYiAyJk1w8_0000005 98.1 102.3 
+Adrianne_Curry/EYYiAyJk1w8_0000006 114.7 120.1 
+Adrianne_Curry/EYYiAyJk1w8_0000007 127.6 132.0 
+Adrianne_Curry/EYYiAyJk1w8_0000008 136.9 141.2 

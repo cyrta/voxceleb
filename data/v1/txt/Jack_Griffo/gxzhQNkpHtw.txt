@@ -1,0 +1,7 @@
+POI: 			Jack_Griffo 
+Youtube ID: 	gxzhQNkpHtw 
+Video length: 	156.9 sec 
+Set (V): 		dev 
+ 
+Jack_Griffo/gxzhQNkpHtw_0000001 25.6 45.8 
+Jack_Griffo/gxzhQNkpHtw_0000002 69.3 75.9 

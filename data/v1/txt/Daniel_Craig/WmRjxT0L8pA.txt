@@ -1,0 +1,12 @@
+POI: 			Daniel_Craig 
+Youtube ID: 	WmRjxT0L8pA 
+Video length: 	559.8 sec 
+Set (V): 		dev 
+ 
+Daniel_Craig/WmRjxT0L8pA_0000001 124.4 132.2 
+Daniel_Craig/WmRjxT0L8pA_0000002 226.4 233.3 
+Daniel_Craig/WmRjxT0L8pA_0000003 237.0 242.5 
+Daniel_Craig/WmRjxT0L8pA_0000004 284.8 292.0 
+Daniel_Craig/WmRjxT0L8pA_0000005 503.3 511.4 
+Daniel_Craig/WmRjxT0L8pA_0000006 513.6 518.4 
+Daniel_Craig/WmRjxT0L8pA_0000007 537.2 541.4 

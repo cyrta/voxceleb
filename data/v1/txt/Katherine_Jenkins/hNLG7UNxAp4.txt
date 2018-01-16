@@ -1,0 +1,12 @@
+POI: 			Katherine_Jenkins 
+Youtube ID: 	hNLG7UNxAp4 
+Video length: 	107.8 sec 
+Set (V): 		dev 
+ 
+Katherine_Jenkins/hNLG7UNxAp4_0000001 08.9 13.0 
+Katherine_Jenkins/hNLG7UNxAp4_0000002 17.0 24.6 
+Katherine_Jenkins/hNLG7UNxAp4_0000003 32.0 36.0 
+Katherine_Jenkins/hNLG7UNxAp4_0000004 57.9 62.8 
+Katherine_Jenkins/hNLG7UNxAp4_0000005 65.1 70.7 
+Katherine_Jenkins/hNLG7UNxAp4_0000006 74.2 79.0 
+Katherine_Jenkins/hNLG7UNxAp4_0000007 82.9 87.3 

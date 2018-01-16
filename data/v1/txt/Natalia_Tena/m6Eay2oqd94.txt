@@ -1,0 +1,14 @@
+POI: 			Natalia_Tena 
+Youtube ID: 	m6Eay2oqd94 
+Video length: 	406.3 sec 
+Set (V): 		dev 
+ 
+Natalia_Tena/m6Eay2oqd94_0000001 67.2 77.2 
+Natalia_Tena/m6Eay2oqd94_0000002 105.9 113.5 
+Natalia_Tena/m6Eay2oqd94_0000003 133.8 137.9 
+Natalia_Tena/m6Eay2oqd94_0000004 143.2 151.6 
+Natalia_Tena/m6Eay2oqd94_0000005 281.4 286.0 
+Natalia_Tena/m6Eay2oqd94_0000006 292.5 297.9 
+Natalia_Tena/m6Eay2oqd94_0000007 298.4 302.8 
+Natalia_Tena/m6Eay2oqd94_0000008 313.1 317.6 
+Natalia_Tena/m6Eay2oqd94_0000009 361.8 366.2 

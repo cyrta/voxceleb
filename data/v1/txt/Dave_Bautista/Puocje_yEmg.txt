@@ -1,0 +1,22 @@
+POI: 			Dave_Bautista 
+Youtube ID: 	Puocje_yEmg 
+Video length: 	338.2 sec 
+Set (V): 		dev 
+ 
+Dave_Bautista/Puocje_yEmg_0000001 01.0 06.9 
+Dave_Bautista/Puocje_yEmg_0000002 07.7 12.8 
+Dave_Bautista/Puocje_yEmg_0000003 21.6 26.0 
+Dave_Bautista/Puocje_yEmg_0000004 28.8 34.7 
+Dave_Bautista/Puocje_yEmg_0000005 59.8 72.2 
+Dave_Bautista/Puocje_yEmg_0000006 78.0 90.8 
+Dave_Bautista/Puocje_yEmg_0000007 117.6 122.3 
+Dave_Bautista/Puocje_yEmg_0000008 128.8 134.0 
+Dave_Bautista/Puocje_yEmg_0000009 153.8 159.8 
+Dave_Bautista/Puocje_yEmg_0000010 159.9 164.1 
+Dave_Bautista/Puocje_yEmg_0000011 185.0 195.9 
+Dave_Bautista/Puocje_yEmg_0000012 197.7 202.8 
+Dave_Bautista/Puocje_yEmg_0000013 236.8 252.7 
+Dave_Bautista/Puocje_yEmg_0000014 262.8 267.9 
+Dave_Bautista/Puocje_yEmg_0000015 291.8 297.2 
+Dave_Bautista/Puocje_yEmg_0000016 306.4 314.6 
+Dave_Bautista/Puocje_yEmg_0000017 316.2 328.3 

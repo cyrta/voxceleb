@@ -1,0 +1,9 @@
+POI: 			Stephen_Lang 
+Youtube ID: 	abUiu3ceOvY 
+Video length: 	70.5 sec 
+Set (V): 		dev 
+ 
+Stephen_Lang/abUiu3ceOvY_0000001 08.9 32.0 
+Stephen_Lang/abUiu3ceOvY_0000002 37.3 41.7 
+Stephen_Lang/abUiu3ceOvY_0000003 43.0 51.7 
+Stephen_Lang/abUiu3ceOvY_0000004 54.3 62.8 

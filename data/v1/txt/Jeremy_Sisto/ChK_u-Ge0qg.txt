@@ -1,0 +1,8 @@
+POI: 			Jeremy_Sisto 
+Youtube ID: 	ChK_u-Ge0qg 
+Video length: 	348.9 sec 
+Set (V): 		dev 
+ 
+Jeremy_Sisto/ChK_u-Ge0qg_0000001 177.4 185.0 
+Jeremy_Sisto/ChK_u-Ge0qg_0000002 185.6 192.3 
+Jeremy_Sisto/ChK_u-Ge0qg_0000003 318.9 326.0 

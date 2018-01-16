@@ -1,0 +1,15 @@
+POI: 			Michelle_Monaghan 
+Youtube ID: 	OjuDpeB_1U8 
+Video length: 	222.5 sec 
+Set (V): 		dev 
+ 
+Michelle_Monaghan/OjuDpeB_1U8_0000001 18.7 31.2 
+Michelle_Monaghan/OjuDpeB_1U8_0000002 37.8 43.1 
+Michelle_Monaghan/OjuDpeB_1U8_0000003 55.8 64.9 
+Michelle_Monaghan/OjuDpeB_1U8_0000004 74.0 86.1 
+Michelle_Monaghan/OjuDpeB_1U8_0000005 94.0 101.2 
+Michelle_Monaghan/OjuDpeB_1U8_0000006 103.4 111.2 
+Michelle_Monaghan/OjuDpeB_1U8_0000007 124.3 129.7 
+Michelle_Monaghan/OjuDpeB_1U8_0000008 141.8 146.3 
+Michelle_Monaghan/OjuDpeB_1U8_0000009 147.1 155.0 
+Michelle_Monaghan/OjuDpeB_1U8_0000010 179.4 201.5 

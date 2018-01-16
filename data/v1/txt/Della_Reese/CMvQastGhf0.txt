@@ -1,0 +1,9 @@
+POI: 			Della_Reese 
+Youtube ID: 	CMvQastGhf0 
+Video length: 	70.2 sec 
+Set (V): 		dev 
+ 
+Della_Reese/CMvQastGhf0_0000001 30.3 36.7 
+Della_Reese/CMvQastGhf0_0000002 39.2 43.3 
+Della_Reese/CMvQastGhf0_0000003 47.7 54.9 
+Della_Reese/CMvQastGhf0_0000004 55.6 61.0 

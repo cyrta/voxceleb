@@ -1,0 +1,13 @@
+POI: 			Josh_Brolin 
+Youtube ID: 	nPHpd1JQnzU 
+Video length: 	178.7 sec 
+Set (V): 		dev 
+ 
+Josh_Brolin/nPHpd1JQnzU_0000001 17.2 21.8 
+Josh_Brolin/nPHpd1JQnzU_0000002 22.2 29.2 
+Josh_Brolin/nPHpd1JQnzU_0000003 55.3 61.8 
+Josh_Brolin/nPHpd1JQnzU_0000004 62.5 76.2 
+Josh_Brolin/nPHpd1JQnzU_0000005 78.4 93.2 
+Josh_Brolin/nPHpd1JQnzU_0000006 99.4 106.4 
+Josh_Brolin/nPHpd1JQnzU_0000007 118.6 123.1 
+Josh_Brolin/nPHpd1JQnzU_0000008 123.6 131.8 

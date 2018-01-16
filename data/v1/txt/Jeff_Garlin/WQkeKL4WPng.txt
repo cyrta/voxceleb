@@ -1,0 +1,10 @@
+POI: 			Jeff_Garlin 
+Youtube ID: 	WQkeKL4WPng 
+Video length: 	307.3 sec 
+Set (V): 		dev 
+ 
+Jeff_Garlin/WQkeKL4WPng_0000001 18.4 24.3 
+Jeff_Garlin/WQkeKL4WPng_0000002 35.2 43.1 
+Jeff_Garlin/WQkeKL4WPng_0000003 59.0 66.1 
+Jeff_Garlin/WQkeKL4WPng_0000004 171.7 180.2 
+Jeff_Garlin/WQkeKL4WPng_0000005 203.7 217.2 

@@ -1,0 +1,9 @@
+POI: 			Melody_Thomas_Scott 
+Youtube ID: 	XPctn5NSrD0 
+Video length: 	378.0 sec 
+Set (V): 		dev 
+ 
+Melody_Thomas_Scott/XPctn5NSrD0_0000001 78.4 82.7 
+Melody_Thomas_Scott/XPctn5NSrD0_0000002 86.5 131.0 
+Melody_Thomas_Scott/XPctn5NSrD0_0000003 132.5 139.1 
+Melody_Thomas_Scott/XPctn5NSrD0_0000004 287.2 293.7 

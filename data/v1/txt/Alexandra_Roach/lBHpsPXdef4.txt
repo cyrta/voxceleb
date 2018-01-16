@@ -1,0 +1,9 @@
+POI: 			Alexandra_Roach 
+Youtube ID: 	lBHpsPXdef4 
+Video length: 	357.2 sec 
+Set (V): 		dev 
+ 
+Alexandra_Roach/lBHpsPXdef4_0000001 78.1 109.6 
+Alexandra_Roach/lBHpsPXdef4_0000002 168.4 197.2 
+Alexandra_Roach/lBHpsPXdef4_0000003 197.5 202.0 
+Alexandra_Roach/lBHpsPXdef4_0000004 305.6 341.2 

@@ -1,0 +1,8 @@
+POI: 			Zach_Galifianakis 
+Youtube ID: 	eipT9BRvqYE 
+Video length: 	313.6 sec 
+Set (V): 		dev 
+ 
+Zach_Galifianakis/eipT9BRvqYE_0000001 129.3 136.8 
+Zach_Galifianakis/eipT9BRvqYE_0000002 137.6 142.0 
+Zach_Galifianakis/eipT9BRvqYE_0000003 147.3 151.4 

@@ -1,0 +1,11 @@
+POI: 			Stephen_Mangan 
+Youtube ID: 	5UEvRMV-oSk 
+Video length: 	175.4 sec 
+Set (V): 		dev 
+ 
+Stephen_Mangan/5UEvRMV-oSk_0000001 07.5 14.1 
+Stephen_Mangan/5UEvRMV-oSk_0000002 91.8 103.2 
+Stephen_Mangan/5UEvRMV-oSk_0000003 106.3 111.0 
+Stephen_Mangan/5UEvRMV-oSk_0000004 128.8 141.2 
+Stephen_Mangan/5UEvRMV-oSk_0000005 142.4 149.1 
+Stephen_Mangan/5UEvRMV-oSk_0000006 163.8 168.5 

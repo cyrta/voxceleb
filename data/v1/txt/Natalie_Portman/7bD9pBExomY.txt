@@ -1,0 +1,8 @@
+POI: 			Natalie_Portman 
+Youtube ID: 	7bD9pBExomY 
+Video length: 	263.4 sec 
+Set (V): 		dev 
+ 
+Natalie_Portman/7bD9pBExomY_0000001 91.6 98.2 
+Natalie_Portman/7bD9pBExomY_0000002 160.9 165.9 
+Natalie_Portman/7bD9pBExomY_0000003 214.8 219.2 

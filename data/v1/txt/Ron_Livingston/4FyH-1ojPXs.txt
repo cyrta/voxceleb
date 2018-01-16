@@ -1,0 +1,9 @@
+POI: 			Ron_Livingston 
+Youtube ID: 	4FyH-1ojPXs 
+Video length: 	351.6 sec 
+Set (V): 		dev 
+ 
+Ron_Livingston/4FyH-1ojPXs_0000001 50.0 55.8 
+Ron_Livingston/4FyH-1ojPXs_0000002 316.4 320.6 
+Ron_Livingston/4FyH-1ojPXs_0000003 326.7 331.8 
+Ron_Livingston/4FyH-1ojPXs_0000004 333.2 339.3 

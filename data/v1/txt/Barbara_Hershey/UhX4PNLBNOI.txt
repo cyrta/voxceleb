@@ -1,0 +1,10 @@
+POI: 			Barbara_Hershey 
+Youtube ID: 	UhX4PNLBNOI 
+Video length: 	317.6 sec 
+Set (V): 		dev 
+ 
+Barbara_Hershey/UhX4PNLBNOI_0000001 11.2 17.0 
+Barbara_Hershey/UhX4PNLBNOI_0000002 40.8 46.5 
+Barbara_Hershey/UhX4PNLBNOI_0000003 94.2 98.4 
+Barbara_Hershey/UhX4PNLBNOI_0000004 245.2 251.7 
+Barbara_Hershey/UhX4PNLBNOI_0000005 259.1 265.6 

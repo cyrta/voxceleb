@@ -1,0 +1,9 @@
+POI: 			Carrie_Fisher 
+Youtube ID: 	SBvppBVAf9k 
+Video length: 	1238.6 sec 
+Set (V): 		dev 
+ 
+Carrie_Fisher/SBvppBVAf9k_0000001 604.6 610.1 
+Carrie_Fisher/SBvppBVAf9k_0000002 680.4 685.8 
+Carrie_Fisher/SBvppBVAf9k_0000003 713.1 720.4 
+Carrie_Fisher/SBvppBVAf9k_0000004 995.7 1000.2 

@@ -1,0 +1,13 @@
+POI: 			Rob_Dyrdek 
+Youtube ID: 	YCPienroy7M 
+Video length: 	164.9 sec 
+Set (V): 		dev 
+ 
+Rob_Dyrdek/YCPienroy7M_0000001 03.6 14.9 
+Rob_Dyrdek/YCPienroy7M_0000002 35.7 45.2 
+Rob_Dyrdek/YCPienroy7M_0000003 52.0 69.7 
+Rob_Dyrdek/YCPienroy7M_0000004 78.2 90.2 
+Rob_Dyrdek/YCPienroy7M_0000005 93.8 100.0 
+Rob_Dyrdek/YCPienroy7M_0000006 100.8 113.5 
+Rob_Dyrdek/YCPienroy7M_0000007 124.6 134.0 
+Rob_Dyrdek/YCPienroy7M_0000008 134.2 144.7 

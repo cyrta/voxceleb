@@ -1,0 +1,16 @@
+POI: 			Zachary_Quinto 
+Youtube ID: 	CNA06a6vYUo 
+Video length: 	310.0 sec 
+Set (V): 		dev 
+ 
+Zachary_Quinto/CNA06a6vYUo_0000001 40.0 72.7 
+Zachary_Quinto/CNA06a6vYUo_0000002 75.9 89.0 
+Zachary_Quinto/CNA06a6vYUo_0000003 89.5 104.2 
+Zachary_Quinto/CNA06a6vYUo_0000004 108.1 115.7 
+Zachary_Quinto/CNA06a6vYUo_0000005 163.6 181.0 
+Zachary_Quinto/CNA06a6vYUo_0000006 181.8 193.6 
+Zachary_Quinto/CNA06a6vYUo_0000007 194.7 201.3 
+Zachary_Quinto/CNA06a6vYUo_0000008 201.8 206.9 
+Zachary_Quinto/CNA06a6vYUo_0000009 262.6 274.3 
+Zachary_Quinto/CNA06a6vYUo_0000010 275.2 285.4 
+Zachary_Quinto/CNA06a6vYUo_0000011 285.6 296.4 

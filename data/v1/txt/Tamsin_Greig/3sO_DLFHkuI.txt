@@ -1,0 +1,13 @@
+POI: 			Tamsin_Greig 
+Youtube ID: 	3sO_DLFHkuI 
+Video length: 	287.7 sec 
+Set (V): 		dev 
+ 
+Tamsin_Greig/3sO_DLFHkuI_0000001 12.2 23.5 
+Tamsin_Greig/3sO_DLFHkuI_0000002 26.3 32.6 
+Tamsin_Greig/3sO_DLFHkuI_0000003 78.8 83.2 
+Tamsin_Greig/3sO_DLFHkuI_0000004 85.4 90.5 
+Tamsin_Greig/3sO_DLFHkuI_0000005 116.9 120.9 
+Tamsin_Greig/3sO_DLFHkuI_0000006 122.0 126.1 
+Tamsin_Greig/3sO_DLFHkuI_0000007 170.8 178.4 
+Tamsin_Greig/3sO_DLFHkuI_0000008 235.0 241.6 

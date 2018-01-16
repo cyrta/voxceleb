@@ -1,0 +1,23 @@
+POI: 			Jessica_Lowndes 
+Youtube ID: 	bnjgG7dzIfY 
+Video length: 	500.6 sec 
+Set (V): 		dev 
+ 
+Jessica_Lowndes/bnjgG7dzIfY_0000001 32.0 37.4 
+Jessica_Lowndes/bnjgG7dzIfY_0000002 37.9 43.6 
+Jessica_Lowndes/bnjgG7dzIfY_0000003 59.6 64.6 
+Jessica_Lowndes/bnjgG7dzIfY_0000004 150.3 154.6 
+Jessica_Lowndes/bnjgG7dzIfY_0000005 185.4 189.7 
+Jessica_Lowndes/bnjgG7dzIfY_0000006 193.6 199.9 
+Jessica_Lowndes/bnjgG7dzIfY_0000007 219.0 223.0 
+Jessica_Lowndes/bnjgG7dzIfY_0000008 243.6 247.8 
+Jessica_Lowndes/bnjgG7dzIfY_0000009 249.0 259.7 
+Jessica_Lowndes/bnjgG7dzIfY_0000010 261.8 267.4 
+Jessica_Lowndes/bnjgG7dzIfY_0000011 275.6 283.4 
+Jessica_Lowndes/bnjgG7dzIfY_0000012 321.5 331.2 
+Jessica_Lowndes/bnjgG7dzIfY_0000013 359.3 368.3 
+Jessica_Lowndes/bnjgG7dzIfY_0000014 378.8 382.8 
+Jessica_Lowndes/bnjgG7dzIfY_0000015 390.2 395.5 
+Jessica_Lowndes/bnjgG7dzIfY_0000016 396.0 400.0 
+Jessica_Lowndes/bnjgG7dzIfY_0000017 412.5 417.0 
+Jessica_Lowndes/bnjgG7dzIfY_0000018 432.4 438.0 

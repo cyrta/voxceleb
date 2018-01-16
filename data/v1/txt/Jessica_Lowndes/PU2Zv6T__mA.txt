@@ -1,0 +1,19 @@
+POI: 			Jessica_Lowndes 
+Youtube ID: 	PU2Zv6T__mA 
+Video length: 	261.9 sec 
+Set (V): 		dev 
+ 
+Jessica_Lowndes/PU2Zv6T__mA_0000001 23.5 30.4 
+Jessica_Lowndes/PU2Zv6T__mA_0000002 31.5 48.2 
+Jessica_Lowndes/PU2Zv6T__mA_0000003 48.4 55.5 
+Jessica_Lowndes/PU2Zv6T__mA_0000004 58.8 65.0 
+Jessica_Lowndes/PU2Zv6T__mA_0000005 69.6 75.8 
+Jessica_Lowndes/PU2Zv6T__mA_0000006 76.0 80.1 
+Jessica_Lowndes/PU2Zv6T__mA_0000007 80.8 86.1 
+Jessica_Lowndes/PU2Zv6T__mA_0000008 120.5 124.6 
+Jessica_Lowndes/PU2Zv6T__mA_0000009 153.0 169.8 
+Jessica_Lowndes/PU2Zv6T__mA_0000010 170.6 175.6 
+Jessica_Lowndes/PU2Zv6T__mA_0000011 198.5 209.6 
+Jessica_Lowndes/PU2Zv6T__mA_0000012 210.8 216.0 
+Jessica_Lowndes/PU2Zv6T__mA_0000013 239.4 243.8 
+Jessica_Lowndes/PU2Zv6T__mA_0000014 247.3 256.6 

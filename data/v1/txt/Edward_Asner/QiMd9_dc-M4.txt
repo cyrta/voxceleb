@@ -1,0 +1,8 @@
+POI: 			Edward_Asner 
+Youtube ID: 	QiMd9_dc-M4 
+Video length: 	105.7 sec 
+Set (V): 		test 
+ 
+Edward_Asner/QiMd9_dc-M4_0000001 33.9 41.3 
+Edward_Asner/QiMd9_dc-M4_0000002 50.2 56.1 
+Edward_Asner/QiMd9_dc-M4_0000003 78.7 84.0 

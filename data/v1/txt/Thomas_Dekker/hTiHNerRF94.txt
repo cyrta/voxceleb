@@ -1,0 +1,10 @@
+POI: 			Thomas_Dekker 
+Youtube ID: 	hTiHNerRF94 
+Video length: 	469.5 sec 
+Set (V): 		dev 
+ 
+Thomas_Dekker/hTiHNerRF94_0000001 74.0 77.9 
+Thomas_Dekker/hTiHNerRF94_0000002 78.6 82.7 
+Thomas_Dekker/hTiHNerRF94_0000003 92.7 96.9 
+Thomas_Dekker/hTiHNerRF94_0000004 98.5 103.6 
+Thomas_Dekker/hTiHNerRF94_0000005 123.8 129.1 

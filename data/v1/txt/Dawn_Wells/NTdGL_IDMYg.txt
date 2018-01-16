@@ -1,0 +1,10 @@
+POI: 			Dawn_Wells 
+Youtube ID: 	NTdGL_IDMYg 
+Video length: 	348.2 sec 
+Set (V): 		dev 
+ 
+Dawn_Wells/NTdGL_IDMYg_0000001 164.6 171.5 
+Dawn_Wells/NTdGL_IDMYg_0000002 176.7 187.5 
+Dawn_Wells/NTdGL_IDMYg_0000003 191.1 196.9 
+Dawn_Wells/NTdGL_IDMYg_0000004 294.6 301.7 
+Dawn_Wells/NTdGL_IDMYg_0000005 312.2 327.0 

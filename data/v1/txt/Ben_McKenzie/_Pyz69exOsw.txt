@@ -1,0 +1,8 @@
+POI: 			Ben_McKenzie 
+Youtube ID: 	_Pyz69exOsw 
+Video length: 	256.8 sec 
+Set (V): 		dev 
+ 
+Ben_McKenzie/_Pyz69exOsw_0000001 75.6 80.9 
+Ben_McKenzie/_Pyz69exOsw_0000002 88.6 94.6 
+Ben_McKenzie/_Pyz69exOsw_0000003 131.8 144.8 

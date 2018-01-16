@@ -1,0 +1,10 @@
+POI: 			Olga_Kurylenko 
+Youtube ID: 	1mg_LEjRqyA 
+Video length: 	190.9 sec 
+Set (V): 		dev 
+ 
+Olga_Kurylenko/1mg_LEjRqyA_0000001 22.4 28.8 
+Olga_Kurylenko/1mg_LEjRqyA_0000002 28.9 41.0 
+Olga_Kurylenko/1mg_LEjRqyA_0000003 45.8 56.7 
+Olga_Kurylenko/1mg_LEjRqyA_0000004 73.7 85.0 
+Olga_Kurylenko/1mg_LEjRqyA_0000005 125.3 135.8 

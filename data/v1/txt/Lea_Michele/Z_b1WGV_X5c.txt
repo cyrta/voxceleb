@@ -1,0 +1,8 @@
+POI: 			Lea_Michele 
+Youtube ID: 	Z_b1WGV_X5c 
+Video length: 	161.7 sec 
+Set (V): 		dev 
+ 
+Lea_Michele/Z_b1WGV_X5c_0000001 120.7 128.2 
+Lea_Michele/Z_b1WGV_X5c_0000002 143.4 150.8 
+Lea_Michele/Z_b1WGV_X5c_0000003 146.2 152.7 

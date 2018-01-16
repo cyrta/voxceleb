@@ -1,0 +1,8 @@
+POI: 			Katherine_Heigl 
+Youtube ID: 	xxWABB0aFNY 
+Video length: 	362.2 sec 
+Set (V): 		dev 
+ 
+Katherine_Heigl/xxWABB0aFNY_0000001 39.3 43.3 
+Katherine_Heigl/xxWABB0aFNY_0000002 241.8 245.8 
+Katherine_Heigl/xxWABB0aFNY_0000003 266.6 272.4 

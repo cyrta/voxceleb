@@ -1,0 +1,11 @@
+POI: 			Chace_Crawford 
+Youtube ID: 	Gg0URxD-0U4 
+Video length: 	233.9 sec 
+Set (V): 		dev 
+ 
+Chace_Crawford/Gg0URxD-0U4_0000001 55.7 60.8 
+Chace_Crawford/Gg0URxD-0U4_0000002 76.0 83.6 
+Chace_Crawford/Gg0URxD-0U4_0000003 153.0 158.4 
+Chace_Crawford/Gg0URxD-0U4_0000004 176.0 181.2 
+Chace_Crawford/Gg0URxD-0U4_0000005 196.4 203.9 
+Chace_Crawford/Gg0URxD-0U4_0000006 211.0 215.4 

@@ -1,0 +1,8 @@
+POI: 			Stephen_Baldwin 
+Youtube ID: 	ls6FMJmLw6s 
+Video length: 	269.9 sec 
+Set (V): 		dev 
+ 
+Stephen_Baldwin/ls6FMJmLw6s_0000001 04.2 13.0 
+Stephen_Baldwin/ls6FMJmLw6s_0000002 18.6 22.7 
+Stephen_Baldwin/ls6FMJmLw6s_0000003 31.2 39.6 

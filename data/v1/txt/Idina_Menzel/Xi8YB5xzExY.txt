@@ -1,0 +1,15 @@
+POI: 			Idina_Menzel 
+Youtube ID: 	Xi8YB5xzExY 
+Video length: 	478.5 sec 
+Set (V): 		dev 
+ 
+Idina_Menzel/Xi8YB5xzExY_0000001 160.4 166.3 
+Idina_Menzel/Xi8YB5xzExY_0000002 215.2 219.5 
+Idina_Menzel/Xi8YB5xzExY_0000003 226.0 231.2 
+Idina_Menzel/Xi8YB5xzExY_0000004 238.0 242.6 
+Idina_Menzel/Xi8YB5xzExY_0000005 257.6 263.2 
+Idina_Menzel/Xi8YB5xzExY_0000006 302.6 308.7 
+Idina_Menzel/Xi8YB5xzExY_0000007 314.5 319.8 
+Idina_Menzel/Xi8YB5xzExY_0000008 372.5 379.1 
+Idina_Menzel/Xi8YB5xzExY_0000009 384.6 390.2 
+Idina_Menzel/Xi8YB5xzExY_0000010 442.9 448.8 

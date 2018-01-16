@@ -1,0 +1,13 @@
+POI: 			Barbara_Eden 
+Youtube ID: 	g5j9VN3SMTc 
+Video length: 	360.9 sec 
+Set (V): 		dev 
+ 
+Barbara_Eden/g5j9VN3SMTc_0000001 76.7 88.3 
+Barbara_Eden/g5j9VN3SMTc_0000002 89.5 94.5 
+Barbara_Eden/g5j9VN3SMTc_0000003 134.7 139.6 
+Barbara_Eden/g5j9VN3SMTc_0000004 151.6 158.8 
+Barbara_Eden/g5j9VN3SMTc_0000005 206.7 225.0 
+Barbara_Eden/g5j9VN3SMTc_0000006 233.2 240.5 
+Barbara_Eden/g5j9VN3SMTc_0000007 242.4 246.6 
+Barbara_Eden/g5j9VN3SMTc_0000008 274.9 284.6 

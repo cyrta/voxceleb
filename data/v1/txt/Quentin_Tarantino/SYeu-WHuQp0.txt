@@ -1,0 +1,12 @@
+POI: 			Quentin_Tarantino 
+Youtube ID: 	SYeu-WHuQp0 
+Video length: 	595.8 sec 
+Set (V): 		dev 
+ 
+Quentin_Tarantino/SYeu-WHuQp0_0000001 236.4 240.7 
+Quentin_Tarantino/SYeu-WHuQp0_0000002 267.3 271.9 
+Quentin_Tarantino/SYeu-WHuQp0_0000003 350.8 362.1 
+Quentin_Tarantino/SYeu-WHuQp0_0000004 436.4 441.3 
+Quentin_Tarantino/SYeu-WHuQp0_0000005 484.3 488.3 
+Quentin_Tarantino/SYeu-WHuQp0_0000006 522.6 528.3 
+Quentin_Tarantino/SYeu-WHuQp0_0000007 534.3 543.6 

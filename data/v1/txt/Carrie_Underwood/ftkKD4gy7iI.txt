@@ -1,0 +1,8 @@
+POI: 			Carrie_Underwood 
+Youtube ID: 	ftkKD4gy7iI 
+Video length: 	143.1 sec 
+Set (V): 		dev 
+ 
+Carrie_Underwood/ftkKD4gy7iI_0000001 77.6 82.2 
+Carrie_Underwood/ftkKD4gy7iI_0000002 108.2 113.4 
+Carrie_Underwood/ftkKD4gy7iI_0000003 118.6 123.8 

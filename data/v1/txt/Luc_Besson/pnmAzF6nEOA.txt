@@ -1,0 +1,22 @@
+POI: 			Luc_Besson 
+Youtube ID: 	pnmAzF6nEOA 
+Video length: 	572.5 sec 
+Set (V): 		dev 
+ 
+Luc_Besson/pnmAzF6nEOA_0000001 70.2 75.8 
+Luc_Besson/pnmAzF6nEOA_0000002 106.0 112.7 
+Luc_Besson/pnmAzF6nEOA_0000003 124.1 128.2 
+Luc_Besson/pnmAzF6nEOA_0000004 129.3 134.6 
+Luc_Besson/pnmAzF6nEOA_0000005 187.7 192.8 
+Luc_Besson/pnmAzF6nEOA_0000006 194.4 200.1 
+Luc_Besson/pnmAzF6nEOA_0000007 331.5 338.4 
+Luc_Besson/pnmAzF6nEOA_0000008 351.1 356.0 
+Luc_Besson/pnmAzF6nEOA_0000009 358.6 363.7 
+Luc_Besson/pnmAzF6nEOA_0000010 408.3 415.2 
+Luc_Besson/pnmAzF6nEOA_0000011 416.0 420.8 
+Luc_Besson/pnmAzF6nEOA_0000012 426.9 435.8 
+Luc_Besson/pnmAzF6nEOA_0000013 448.1 455.0 
+Luc_Besson/pnmAzF6nEOA_0000014 475.5 485.0 
+Luc_Besson/pnmAzF6nEOA_0000015 499.6 504.4 
+Luc_Besson/pnmAzF6nEOA_0000016 505.0 509.6 
+Luc_Besson/pnmAzF6nEOA_0000017 526.5 538.0 

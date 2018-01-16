@@ -1,0 +1,10 @@
+POI: 			Quentin_Tarantino 
+Youtube ID: 	foRhVd7id9s 
+Video length: 	376.9 sec 
+Set (V): 		dev 
+ 
+Quentin_Tarantino/foRhVd7id9s_0000001 43.8 49.2 
+Quentin_Tarantino/foRhVd7id9s_0000002 99.9 106.0 
+Quentin_Tarantino/foRhVd7id9s_0000003 108.2 119.0 
+Quentin_Tarantino/foRhVd7id9s_0000004 205.9 209.9 
+Quentin_Tarantino/foRhVd7id9s_0000005 299.4 303.4 

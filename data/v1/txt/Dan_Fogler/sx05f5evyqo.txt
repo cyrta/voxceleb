@@ -1,0 +1,7 @@
+POI: 			Dan_Fogler 
+Youtube ID: 	sx05f5evyqo 
+Video length: 	77.0 sec 
+Set (V): 		dev 
+ 
+Dan_Fogler/sx05f5evyqo_0000001 22.6 29.5 
+Dan_Fogler/sx05f5evyqo_0000002 50.6 64.4 

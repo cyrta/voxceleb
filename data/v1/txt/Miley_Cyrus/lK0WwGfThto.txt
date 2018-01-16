@@ -1,0 +1,13 @@
+POI: 			Miley_Cyrus 
+Youtube ID: 	lK0WwGfThto 
+Video length: 	226.3 sec 
+Set (V): 		dev 
+ 
+Miley_Cyrus/lK0WwGfThto_0000001 02.7 09.5 
+Miley_Cyrus/lK0WwGfThto_0000002 76.1 81.0 
+Miley_Cyrus/lK0WwGfThto_0000003 93.7 105.3 
+Miley_Cyrus/lK0WwGfThto_0000004 114.6 125.6 
+Miley_Cyrus/lK0WwGfThto_0000005 130.8 137.0 
+Miley_Cyrus/lK0WwGfThto_0000006 143.4 147.7 
+Miley_Cyrus/lK0WwGfThto_0000007 169.1 185.2 
+Miley_Cyrus/lK0WwGfThto_0000008 185.4 195.9 

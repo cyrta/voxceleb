@@ -1,0 +1,12 @@
+POI: 			Sam_Waterston 
+Youtube ID: 	DkNenA7OSHk 
+Video length: 	203.0 sec 
+Set (V): 		dev 
+ 
+Sam_Waterston/DkNenA7OSHk_0000001 29.6 37.5 
+Sam_Waterston/DkNenA7OSHk_0000002 38.5 42.6 
+Sam_Waterston/DkNenA7OSHk_0000003 48.0 58.2 
+Sam_Waterston/DkNenA7OSHk_0000004 59.0 63.6 
+Sam_Waterston/DkNenA7OSHk_0000005 63.8 69.6 
+Sam_Waterston/DkNenA7OSHk_0000006 74.3 84.2 
+Sam_Waterston/DkNenA7OSHk_0000007 180.5 185.6 

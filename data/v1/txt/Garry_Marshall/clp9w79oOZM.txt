@@ -1,0 +1,26 @@
+POI: 			Garry_Marshall 
+Youtube ID: 	clp9w79oOZM 
+Video length: 	408.7 sec 
+Set (V): 		dev 
+ 
+Garry_Marshall/clp9w79oOZM_0000001 09.6 15.6 
+Garry_Marshall/clp9w79oOZM_0000002 14.6 21.9 
+Garry_Marshall/clp9w79oOZM_0000003 24.2 32.5 
+Garry_Marshall/clp9w79oOZM_0000004 39.8 47.2 
+Garry_Marshall/clp9w79oOZM_0000005 47.9 61.7 
+Garry_Marshall/clp9w79oOZM_0000006 64.1 87.1 
+Garry_Marshall/clp9w79oOZM_0000007 87.5 94.2 
+Garry_Marshall/clp9w79oOZM_0000008 103.2 113.7 
+Garry_Marshall/clp9w79oOZM_0000009 114.2 122.8 
+Garry_Marshall/clp9w79oOZM_0000010 131.4 136.3 
+Garry_Marshall/clp9w79oOZM_0000011 143.9 149.1 
+Garry_Marshall/clp9w79oOZM_0000012 25.3 32.4 
+Garry_Marshall/clp9w79oOZM_0000013 149.2 177.4 
+Garry_Marshall/clp9w79oOZM_0000014 186.4 199.5 
+Garry_Marshall/clp9w79oOZM_0000015 199.6 220.2 
+Garry_Marshall/clp9w79oOZM_0000016 221.6 228.2 
+Garry_Marshall/clp9w79oOZM_0000017 313.2 335.9 
+Garry_Marshall/clp9w79oOZM_0000018 336.7 352.3 
+Garry_Marshall/clp9w79oOZM_0000019 354.1 363.6 
+Garry_Marshall/clp9w79oOZM_0000020 364.2 369.9 
+Garry_Marshall/clp9w79oOZM_0000021 381.1 398.9 

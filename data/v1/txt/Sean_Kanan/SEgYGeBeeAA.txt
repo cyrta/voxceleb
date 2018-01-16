@@ -1,0 +1,13 @@
+POI: 			Sean_Kanan 
+Youtube ID: 	SEgYGeBeeAA 
+Video length: 	294.6 sec 
+Set (V): 		dev 
+ 
+Sean_Kanan/SEgYGeBeeAA_0000001 30.5 46.0 
+Sean_Kanan/SEgYGeBeeAA_0000002 48.0 55.0 
+Sean_Kanan/SEgYGeBeeAA_0000003 146.8 151.0 
+Sean_Kanan/SEgYGeBeeAA_0000004 177.1 181.3 
+Sean_Kanan/SEgYGeBeeAA_0000005 185.4 196.7 
+Sean_Kanan/SEgYGeBeeAA_0000006 202.0 241.4 
+Sean_Kanan/SEgYGeBeeAA_0000007 263.4 276.6 
+Sean_Kanan/SEgYGeBeeAA_0000008 279.1 288.6 

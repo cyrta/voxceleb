@@ -1,0 +1,8 @@
+POI: 			Chelsea_Handler 
+Youtube ID: 	GSxuvuI8fNo 
+Video length: 	152.2 sec 
+Set (V): 		dev 
+ 
+Chelsea_Handler/GSxuvuI8fNo_0000001 53.5 59.1 
+Chelsea_Handler/GSxuvuI8fNo_0000002 69.4 76.2 
+Chelsea_Handler/GSxuvuI8fNo_0000003 82.7 88.3 

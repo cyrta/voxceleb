@@ -1,0 +1,8 @@
+POI: 			David_Jason 
+Youtube ID: 	kUtomjQS8U0 
+Video length: 	148.0 sec 
+Set (V): 		dev 
+ 
+David_Jason/kUtomjQS8U0_0000001 44.9 55.2 
+David_Jason/kUtomjQS8U0_0000002 69.2 73.4 
+David_Jason/kUtomjQS8U0_0000003 127.0 132.2 

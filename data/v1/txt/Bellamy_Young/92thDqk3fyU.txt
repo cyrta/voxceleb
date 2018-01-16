@@ -1,0 +1,8 @@
+POI: 			Bellamy_Young 
+Youtube ID: 	92thDqk3fyU 
+Video length: 	281.3 sec 
+Set (V): 		dev 
+ 
+Bellamy_Young/92thDqk3fyU_0000001 82.8 89.6 
+Bellamy_Young/92thDqk3fyU_0000002 182.8 187.9 
+Bellamy_Young/92thDqk3fyU_0000003 191.9 202.7 

@@ -1,0 +1,8 @@
+POI: 			Imelda_Staunton 
+Youtube ID: 	t1MeSjxI74I 
+Video length: 	387.8 sec 
+Set (V): 		dev 
+ 
+Imelda_Staunton/t1MeSjxI74I_0000001 145.1 149.5 
+Imelda_Staunton/t1MeSjxI74I_0000002 150.0 162.4 
+Imelda_Staunton/t1MeSjxI74I_0000003 163.4 170.7 

@@ -1,0 +1,8 @@
+POI: 			Rob_Reiner 
+Youtube ID: 	d8H0ZdING7Y 
+Video length: 	454.0 sec 
+Set (V): 		dev 
+ 
+Rob_Reiner/d8H0ZdING7Y_0000001 57.6 87.1 
+Rob_Reiner/d8H0ZdING7Y_0000002 264.1 269.0 
+Rob_Reiner/d8H0ZdING7Y_0000003 423.5 430.8 

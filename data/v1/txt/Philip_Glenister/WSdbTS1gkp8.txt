@@ -1,0 +1,9 @@
+POI: 			Philip_Glenister 
+Youtube ID: 	WSdbTS1gkp8 
+Video length: 	378.5 sec 
+Set (V): 		dev 
+ 
+Philip_Glenister/WSdbTS1gkp8_0000001 139.5 143.6 
+Philip_Glenister/WSdbTS1gkp8_0000002 200.0 204.3 
+Philip_Glenister/WSdbTS1gkp8_0000003 209.8 214.4 
+Philip_Glenister/WSdbTS1gkp8_0000004 264.1 270.2 

@@ -1,0 +1,8 @@
+POI: 			Rob_Riggle 
+Youtube ID: 	tMVtOwY7P4A 
+Video length: 	94.0 sec 
+Set (V): 		dev 
+ 
+Rob_Riggle/tMVtOwY7P4A_0000001 08.6 27.8 
+Rob_Riggle/tMVtOwY7P4A_0000002 40.3 65.5 
+Rob_Riggle/tMVtOwY7P4A_0000003 72.0 81.5 

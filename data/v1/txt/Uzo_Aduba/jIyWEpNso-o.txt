@@ -1,0 +1,8 @@
+POI: 			Uzo_Aduba 
+Youtube ID: 	jIyWEpNso-o 
+Video length: 	322.3 sec 
+Set (V): 		dev 
+ 
+Uzo_Aduba/jIyWEpNso-o_0000001 123.0 129.9 
+Uzo_Aduba/jIyWEpNso-o_0000002 258.6 264.3 
+Uzo_Aduba/jIyWEpNso-o_0000003 293.8 298.1 

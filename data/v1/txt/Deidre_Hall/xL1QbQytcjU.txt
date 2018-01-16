@@ -1,0 +1,7 @@
+POI: 			Deidre_Hall 
+Youtube ID: 	xL1QbQytcjU 
+Video length: 	298.1 sec 
+Set (V): 		dev 
+ 
+Deidre_Hall/xL1QbQytcjU_0000001 75.2 79.1 
+Deidre_Hall/xL1QbQytcjU_0000002 175.4 183.5 

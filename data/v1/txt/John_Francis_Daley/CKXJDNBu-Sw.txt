@@ -1,0 +1,8 @@
+POI: 			John_Francis_Daley 
+Youtube ID: 	CKXJDNBu-Sw 
+Video length: 	88.2 sec 
+Set (V): 		dev 
+ 
+John_Francis_Daley/CKXJDNBu-Sw_0000001 09.0 15.0 
+John_Francis_Daley/CKXJDNBu-Sw_0000002 47.6 51.7 
+John_Francis_Daley/CKXJDNBu-Sw_0000003 69.0 74.1 

@@ -1,0 +1,7 @@
+POI: 			Adam_Driver 
+Youtube ID: 	1miD-AWtXqk 
+Video length: 	382.0 sec 
+Set (V): 		dev 
+ 
+Adam_Driver/1miD-AWtXqk_0000001 27.9 32.8 
+Adam_Driver/1miD-AWtXqk_0000002 35.5 40.3 

@@ -1,0 +1,13 @@
+POI: 			Olga_Kurylenko 
+Youtube ID: 	IKe_DdnLoBU 
+Video length: 	247.7 sec 
+Set (V): 		dev 
+ 
+Olga_Kurylenko/IKe_DdnLoBU_0000001 15.2 20.9 
+Olga_Kurylenko/IKe_DdnLoBU_0000002 49.9 59.4 
+Olga_Kurylenko/IKe_DdnLoBU_0000003 75.1 79.9 
+Olga_Kurylenko/IKe_DdnLoBU_0000004 139.7 146.4 
+Olga_Kurylenko/IKe_DdnLoBU_0000005 146.8 154.7 
+Olga_Kurylenko/IKe_DdnLoBU_0000006 173.8 182.8 
+Olga_Kurylenko/IKe_DdnLoBU_0000007 218.0 222.8 
+Olga_Kurylenko/IKe_DdnLoBU_0000008 223.5 228.2 

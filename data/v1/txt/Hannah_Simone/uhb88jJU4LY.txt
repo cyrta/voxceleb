@@ -1,0 +1,9 @@
+POI: 			Hannah_Simone 
+Youtube ID: 	uhb88jJU4LY 
+Video length: 	148.6 sec 
+Set (V): 		dev 
+ 
+Hannah_Simone/uhb88jJU4LY_0000001 12.6 18.1 
+Hannah_Simone/uhb88jJU4LY_0000002 88.6 92.9 
+Hannah_Simone/uhb88jJU4LY_0000003 104.8 110.5 
+Hannah_Simone/uhb88jJU4LY_0000004 110.8 117.1 

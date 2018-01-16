@@ -1,0 +1,8 @@
+POI: 			Rade_Serbedzija 
+Youtube ID: 	UFVlqwGkw7c 
+Video length: 	1522.1 sec 
+Set (V): 		dev 
+ 
+Rade_Serbedzija/UFVlqwGkw7c_0000001 338.2 348.8 
+Rade_Serbedzija/UFVlqwGkw7c_0000002 408.6 415.9 
+Rade_Serbedzija/UFVlqwGkw7c_0000003 495.3 499.2 

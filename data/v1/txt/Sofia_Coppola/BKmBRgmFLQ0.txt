@@ -1,0 +1,20 @@
+POI: 			Sofia_Coppola 
+Youtube ID: 	BKmBRgmFLQ0 
+Video length: 	291.7 sec 
+Set (V): 		dev 
+ 
+Sofia_Coppola/BKmBRgmFLQ0_0000001 15.6 26.5 
+Sofia_Coppola/BKmBRgmFLQ0_0000002 53.4 58.2 
+Sofia_Coppola/BKmBRgmFLQ0_0000003 75.9 80.4 
+Sofia_Coppola/BKmBRgmFLQ0_0000004 92.4 100.1 
+Sofia_Coppola/BKmBRgmFLQ0_0000005 101.1 109.5 
+Sofia_Coppola/BKmBRgmFLQ0_0000006 129.6 136.5 
+Sofia_Coppola/BKmBRgmFLQ0_0000007 152.6 160.5 
+Sofia_Coppola/BKmBRgmFLQ0_0000008 161.3 176.9 
+Sofia_Coppola/BKmBRgmFLQ0_0000009 188.9 197.3 
+Sofia_Coppola/BKmBRgmFLQ0_0000010 214.2 222.0 
+Sofia_Coppola/BKmBRgmFLQ0_0000011 227.2 231.6 
+Sofia_Coppola/BKmBRgmFLQ0_0000012 243.0 247.5 
+Sofia_Coppola/BKmBRgmFLQ0_0000013 247.6 256.1 
+Sofia_Coppola/BKmBRgmFLQ0_0000014 276.3 280.9 
+Sofia_Coppola/BKmBRgmFLQ0_0000015 281.0 286.2 

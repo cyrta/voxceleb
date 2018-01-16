@@ -1,0 +1,11 @@
+POI: 			Anne_Hathaway 
+Youtube ID: 	J9cHmdyBX04 
+Video length: 	95.1 sec 
+Set (V): 		dev 
+ 
+Anne_Hathaway/J9cHmdyBX04_0000001 03.8 18.9 
+Anne_Hathaway/J9cHmdyBX04_0000002 21.3 33.8 
+Anne_Hathaway/J9cHmdyBX04_0000003 35.7 46.5 
+Anne_Hathaway/J9cHmdyBX04_0000004 49.2 57.7 
+Anne_Hathaway/J9cHmdyBX04_0000005 60.0 65.8 
+Anne_Hathaway/J9cHmdyBX04_0000006 74.6 81.5 

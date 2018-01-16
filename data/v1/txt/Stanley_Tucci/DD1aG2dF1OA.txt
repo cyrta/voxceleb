@@ -1,0 +1,13 @@
+POI: 			Stanley_Tucci 
+Youtube ID: 	DD1aG2dF1OA 
+Video length: 	378.3 sec 
+Set (V): 		dev 
+ 
+Stanley_Tucci/DD1aG2dF1OA_0000001 52.8 57.7 
+Stanley_Tucci/DD1aG2dF1OA_0000002 90.2 95.6 
+Stanley_Tucci/DD1aG2dF1OA_0000003 95.8 103.6 
+Stanley_Tucci/DD1aG2dF1OA_0000004 122.9 129.6 
+Stanley_Tucci/DD1aG2dF1OA_0000005 198.8 206.0 
+Stanley_Tucci/DD1aG2dF1OA_0000006 271.0 276.2 
+Stanley_Tucci/DD1aG2dF1OA_0000007 289.8 294.9 
+Stanley_Tucci/DD1aG2dF1OA_0000008 347.5 356.3 

@@ -1,0 +1,12 @@
+POI: 			Julie_Gonzalo 
+Youtube ID: 	v3BTWaxPaC8 
+Video length: 	283.7 sec 
+Set (V): 		dev 
+ 
+Julie_Gonzalo/v3BTWaxPaC8_0000001 55.5 64.5 
+Julie_Gonzalo/v3BTWaxPaC8_0000002 89.2 105.1 
+Julie_Gonzalo/v3BTWaxPaC8_0000003 105.6 114.6 
+Julie_Gonzalo/v3BTWaxPaC8_0000004 192.0 201.1 
+Julie_Gonzalo/v3BTWaxPaC8_0000005 205.2 211.8 
+Julie_Gonzalo/v3BTWaxPaC8_0000006 258.8 262.9 
+Julie_Gonzalo/v3BTWaxPaC8_0000007 267.4 271.6 

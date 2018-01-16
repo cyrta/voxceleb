@@ -1,0 +1,22 @@
+POI: 			Garry_Marshall 
+Youtube ID: 	uCm1c-EyrPU 
+Video length: 	238.3 sec 
+Set (V): 		dev 
+ 
+Garry_Marshall/uCm1c-EyrPU_0000001 09.6 18.0 
+Garry_Marshall/uCm1c-EyrPU_0000002 19.0 23.7 
+Garry_Marshall/uCm1c-EyrPU_0000003 24.6 30.6 
+Garry_Marshall/uCm1c-EyrPU_0000004 32.2 38.3 
+Garry_Marshall/uCm1c-EyrPU_0000005 41.4 46.2 
+Garry_Marshall/uCm1c-EyrPU_0000006 47.1 63.0 
+Garry_Marshall/uCm1c-EyrPU_0000007 67.2 78.4 
+Garry_Marshall/uCm1c-EyrPU_0000008 79.2 88.9 
+Garry_Marshall/uCm1c-EyrPU_0000009 97.8 113.4 
+Garry_Marshall/uCm1c-EyrPU_0000010 115.2 124.7 
+Garry_Marshall/uCm1c-EyrPU_0000011 125.0 140.0 
+Garry_Marshall/uCm1c-EyrPU_0000012 141.1 150.8 
+Garry_Marshall/uCm1c-EyrPU_0000013 154.8 163.5 
+Garry_Marshall/uCm1c-EyrPU_0000014 164.3 168.6 
+Garry_Marshall/uCm1c-EyrPU_0000015 170.4 187.3 
+Garry_Marshall/uCm1c-EyrPU_0000016 193.2 213.8 
+Garry_Marshall/uCm1c-EyrPU_0000017 214.4 227.8 

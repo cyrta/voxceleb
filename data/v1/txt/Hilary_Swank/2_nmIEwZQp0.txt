@@ -1,0 +1,7 @@
+POI: 			Hilary_Swank 
+Youtube ID: 	2_nmIEwZQp0 
+Video length: 	62.3 sec 
+Set (V): 		dev 
+ 
+Hilary_Swank/2_nmIEwZQp0_0000001 31.3 39.2 
+Hilary_Swank/2_nmIEwZQp0_0000002 42.3 46.4 

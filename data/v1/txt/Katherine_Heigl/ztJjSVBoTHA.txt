@@ -1,0 +1,13 @@
+POI: 			Katherine_Heigl 
+Youtube ID: 	ztJjSVBoTHA 
+Video length: 	396.4 sec 
+Set (V): 		dev 
+ 
+Katherine_Heigl/ztJjSVBoTHA_0000001 51.6 57.2 
+Katherine_Heigl/ztJjSVBoTHA_0000002 128.4 135.2 
+Katherine_Heigl/ztJjSVBoTHA_0000003 136.0 144.4 
+Katherine_Heigl/ztJjSVBoTHA_0000004 277.9 288.9 
+Katherine_Heigl/ztJjSVBoTHA_0000005 315.9 323.5 
+Katherine_Heigl/ztJjSVBoTHA_0000006 324.5 334.8 
+Katherine_Heigl/ztJjSVBoTHA_0000007 335.2 340.7 
+Katherine_Heigl/ztJjSVBoTHA_0000008 358.6 376.3 

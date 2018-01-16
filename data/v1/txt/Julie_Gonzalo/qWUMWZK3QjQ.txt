@@ -1,0 +1,8 @@
+POI: 			Julie_Gonzalo 
+Youtube ID: 	qWUMWZK3QjQ 
+Video length: 	555.8 sec 
+Set (V): 		dev 
+ 
+Julie_Gonzalo/qWUMWZK3QjQ_0000001 231.3 235.8 
+Julie_Gonzalo/qWUMWZK3QjQ_0000002 271.4 275.5 
+Julie_Gonzalo/qWUMWZK3QjQ_0000003 386.3 390.4 

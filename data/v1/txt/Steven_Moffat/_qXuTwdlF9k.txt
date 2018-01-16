@@ -1,0 +1,42 @@
+POI: 			Steven_Moffat 
+Youtube ID: 	_qXuTwdlF9k 
+Video length: 	680.9 sec 
+Set (V): 		dev 
+ 
+Steven_Moffat/_qXuTwdlF9k_0000001 06.0 20.0 
+Steven_Moffat/_qXuTwdlF9k_0000002 22.9 28.1 
+Steven_Moffat/_qXuTwdlF9k_0000003 31.1 44.3 
+Steven_Moffat/_qXuTwdlF9k_0000004 51.7 66.2 
+Steven_Moffat/_qXuTwdlF9k_0000005 71.1 78.6 
+Steven_Moffat/_qXuTwdlF9k_0000006 80.8 117.3 
+Steven_Moffat/_qXuTwdlF9k_0000007 123.1 127.5 
+Steven_Moffat/_qXuTwdlF9k_0000008 129.5 141.1 
+Steven_Moffat/_qXuTwdlF9k_0000009 148.4 152.7 
+Steven_Moffat/_qXuTwdlF9k_0000010 152.0 197.0 
+Steven_Moffat/_qXuTwdlF9k_0000011 197.8 211.0 
+Steven_Moffat/_qXuTwdlF9k_0000012 214.1 223.9 
+Steven_Moffat/_qXuTwdlF9k_0000013 229.0 238.3 
+Steven_Moffat/_qXuTwdlF9k_0000014 239.2 252.7 
+Steven_Moffat/_qXuTwdlF9k_0000015 255.7 267.0 
+Steven_Moffat/_qXuTwdlF9k_0000016 269.1 278.6 
+Steven_Moffat/_qXuTwdlF9k_0000017 281.2 285.4 
+Steven_Moffat/_qXuTwdlF9k_0000018 292.6 315.0 
+Steven_Moffat/_qXuTwdlF9k_0000019 317.3 336.4 
+Steven_Moffat/_qXuTwdlF9k_0000020 347.0 354.4 
+Steven_Moffat/_qXuTwdlF9k_0000021 355.2 362.3 
+Steven_Moffat/_qXuTwdlF9k_0000022 364.3 376.7 
+Steven_Moffat/_qXuTwdlF9k_0000023 378.7 386.9 
+Steven_Moffat/_qXuTwdlF9k_0000024 390.0 397.4 
+Steven_Moffat/_qXuTwdlF9k_0000025 398.9 425.8 
+Steven_Moffat/_qXuTwdlF9k_0000026 430.9 440.2 
+Steven_Moffat/_qXuTwdlF9k_0000027 442.7 467.4 
+Steven_Moffat/_qXuTwdlF9k_0000028 468.5 473.5 
+Steven_Moffat/_qXuTwdlF9k_0000029 481.4 500.6 
+Steven_Moffat/_qXuTwdlF9k_0000030 501.2 506.9 
+Steven_Moffat/_qXuTwdlF9k_0000031 511.6 526.0 
+Steven_Moffat/_qXuTwdlF9k_0000032 531.0 536.4 
+Steven_Moffat/_qXuTwdlF9k_0000033 536.8 543.3 
+Steven_Moffat/_qXuTwdlF9k_0000034 549.3 601.2 
+Steven_Moffat/_qXuTwdlF9k_0000035 610.0 635.4 
+Steven_Moffat/_qXuTwdlF9k_0000036 637.6 667.6 
+Steven_Moffat/_qXuTwdlF9k_0000037 652.4 670.4 

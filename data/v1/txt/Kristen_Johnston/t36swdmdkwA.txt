@@ -1,0 +1,10 @@
+POI: 			Kristen_Johnston 
+Youtube ID: 	t36swdmdkwA 
+Video length: 	225.9 sec 
+Set (V): 		dev 
+ 
+Kristen_Johnston/t36swdmdkwA_0000001 33.4 43.4 
+Kristen_Johnston/t36swdmdkwA_0000002 91.1 95.8 
+Kristen_Johnston/t36swdmdkwA_0000003 137.7 141.8 
+Kristen_Johnston/t36swdmdkwA_0000004 169.9 174.3 
+Kristen_Johnston/t36swdmdkwA_0000005 200.8 205.0 

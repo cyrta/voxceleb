@@ -1,0 +1,9 @@
+POI: 			Sara_Ramirez 
+Youtube ID: 	DWGw-h0-xyA 
+Video length: 	87.5 sec 
+Set (V): 		dev 
+ 
+Sara_Ramirez/DWGw-h0-xyA_0000001 06.7 35.6 
+Sara_Ramirez/DWGw-h0-xyA_0000002 42.3 46.6 
+Sara_Ramirez/DWGw-h0-xyA_0000003 52.6 58.1 
+Sara_Ramirez/DWGw-h0-xyA_0000004 67.4 75.4 

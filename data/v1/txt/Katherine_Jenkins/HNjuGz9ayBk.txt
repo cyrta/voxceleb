@@ -1,0 +1,9 @@
+POI: 			Katherine_Jenkins 
+Youtube ID: 	HNjuGz9ayBk 
+Video length: 	94.9 sec 
+Set (V): 		dev 
+ 
+Katherine_Jenkins/HNjuGz9ayBk_0000001 12.1 24.4 
+Katherine_Jenkins/HNjuGz9ayBk_0000002 28.3 35.3 
+Katherine_Jenkins/HNjuGz9ayBk_0000003 36.0 42.2 
+Katherine_Jenkins/HNjuGz9ayBk_0000004 47.2 61.1 

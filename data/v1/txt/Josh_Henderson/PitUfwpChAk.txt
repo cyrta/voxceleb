@@ -1,0 +1,9 @@
+POI: 			Josh_Henderson 
+Youtube ID: 	PitUfwpChAk 
+Video length: 	114.4 sec 
+Set (V): 		dev 
+ 
+Josh_Henderson/PitUfwpChAk_0000001 29.3 33.4 
+Josh_Henderson/PitUfwpChAk_0000002 53.0 57.4 
+Josh_Henderson/PitUfwpChAk_0000003 59.6 67.1 
+Josh_Henderson/PitUfwpChAk_0000004 82.5 96.2 

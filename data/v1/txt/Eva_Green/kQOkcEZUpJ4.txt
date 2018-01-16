@@ -1,0 +1,13 @@
+POI: 			Eva_Green 
+Youtube ID: 	kQOkcEZUpJ4 
+Video length: 	168.6 sec 
+Set (V): 		test 
+ 
+Eva_Green/kQOkcEZUpJ4_0000001 00.7 11.6 
+Eva_Green/kQOkcEZUpJ4_0000002 39.6 44.2 
+Eva_Green/kQOkcEZUpJ4_0000003 52.3 61.6 
+Eva_Green/kQOkcEZUpJ4_0000004 61.8 69.0 
+Eva_Green/kQOkcEZUpJ4_0000005 69.6 73.7 
+Eva_Green/kQOkcEZUpJ4_0000006 94.1 101.0 
+Eva_Green/kQOkcEZUpJ4_0000007 106.3 110.9 
+Eva_Green/kQOkcEZUpJ4_0000008 147.7 155.1 

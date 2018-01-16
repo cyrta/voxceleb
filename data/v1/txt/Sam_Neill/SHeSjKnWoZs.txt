@@ -1,0 +1,8 @@
+POI: 			Sam_Neill 
+Youtube ID: 	SHeSjKnWoZs 
+Video length: 	582.0 sec 
+Set (V): 		dev 
+ 
+Sam_Neill/SHeSjKnWoZs_0000001 73.0 77.2 
+Sam_Neill/SHeSjKnWoZs_0000002 167.9 173.2 
+Sam_Neill/SHeSjKnWoZs_0000003 396.7 401.2 

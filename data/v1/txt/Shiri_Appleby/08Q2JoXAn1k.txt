@@ -1,0 +1,14 @@
+POI: 			Shiri_Appleby 
+Youtube ID: 	08Q2JoXAn1k 
+Video length: 	509.9 sec 
+Set (V): 		dev 
+ 
+Shiri_Appleby/08Q2JoXAn1k_0000001 12.0 24.8 
+Shiri_Appleby/08Q2JoXAn1k_0000002 55.4 120.2 
+Shiri_Appleby/08Q2JoXAn1k_0000003 200.8 214.1 
+Shiri_Appleby/08Q2JoXAn1k_0000004 214.5 220.8 
+Shiri_Appleby/08Q2JoXAn1k_0000005 222.9 227.4 
+Shiri_Appleby/08Q2JoXAn1k_0000006 344.8 354.6 
+Shiri_Appleby/08Q2JoXAn1k_0000007 358.0 363.2 
+Shiri_Appleby/08Q2JoXAn1k_0000008 365.4 380.2 
+Shiri_Appleby/08Q2JoXAn1k_0000009 486.7 495.2 

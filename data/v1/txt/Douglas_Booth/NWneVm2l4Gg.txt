@@ -1,0 +1,7 @@
+POI: 			Douglas_Booth 
+Youtube ID: 	NWneVm2l4Gg 
+Video length: 	168.1 sec 
+Set (V): 		dev 
+ 
+Douglas_Booth/NWneVm2l4Gg_0000001 19.4 23.7 
+Douglas_Booth/NWneVm2l4Gg_0000002 79.3 86.5 

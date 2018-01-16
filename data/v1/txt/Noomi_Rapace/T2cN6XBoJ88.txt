@@ -1,0 +1,7 @@
+POI: 			Noomi_Rapace 
+Youtube ID: 	T2cN6XBoJ88 
+Video length: 	153.5 sec 
+Set (V): 		dev 
+ 
+Noomi_Rapace/T2cN6XBoJ88_0000001 18.9 24.1 
+Noomi_Rapace/T2cN6XBoJ88_0000002 44.5 50.3 

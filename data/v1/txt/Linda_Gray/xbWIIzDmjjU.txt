@@ -1,0 +1,14 @@
+POI: 			Linda_Gray 
+Youtube ID: 	xbWIIzDmjjU 
+Video length: 	370.6 sec 
+Set (V): 		dev 
+ 
+Linda_Gray/xbWIIzDmjjU_0000001 87.9 92.1 
+Linda_Gray/xbWIIzDmjjU_0000002 119.1 124.1 
+Linda_Gray/xbWIIzDmjjU_0000003 124.2 128.7 
+Linda_Gray/xbWIIzDmjjU_0000004 133.1 139.0 
+Linda_Gray/xbWIIzDmjjU_0000005 139.9 145.5 
+Linda_Gray/xbWIIzDmjjU_0000006 153.2 157.5 
+Linda_Gray/xbWIIzDmjjU_0000007 209.4 216.4 
+Linda_Gray/xbWIIzDmjjU_0000008 221.2 238.2 
+Linda_Gray/xbWIIzDmjjU_0000009 300.4 304.8 

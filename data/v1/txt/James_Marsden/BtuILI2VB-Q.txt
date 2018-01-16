@@ -1,0 +1,10 @@
+POI: 			James_Marsden 
+Youtube ID: 	BtuILI2VB-Q 
+Video length: 	211.5 sec 
+Set (V): 		dev 
+ 
+James_Marsden/BtuILI2VB-Q_0000001 33.6 40.6 
+James_Marsden/BtuILI2VB-Q_0000002 87.4 95.4 
+James_Marsden/BtuILI2VB-Q_0000003 140.0 144.1 
+James_Marsden/BtuILI2VB-Q_0000004 151.2 158.4 
+James_Marsden/BtuILI2VB-Q_0000005 189.8 194.9 

@@ -1,0 +1,18 @@
+POI: 			Kylie_Minogue 
+Youtube ID: 	TRjt3uHU95U 
+Video length: 	775.3 sec 
+Set (V): 		dev 
+ 
+Kylie_Minogue/TRjt3uHU95U_0000001 28.3 33.9 
+Kylie_Minogue/TRjt3uHU95U_0000002 103.5 110.3 
+Kylie_Minogue/TRjt3uHU95U_0000003 145.1 149.6 
+Kylie_Minogue/TRjt3uHU95U_0000004 226.0 235.8 
+Kylie_Minogue/TRjt3uHU95U_0000005 245.8 251.3 
+Kylie_Minogue/TRjt3uHU95U_0000006 294.6 299.2 
+Kylie_Minogue/TRjt3uHU95U_0000007 352.9 357.5 
+Kylie_Minogue/TRjt3uHU95U_0000008 379.2 385.0 
+Kylie_Minogue/TRjt3uHU95U_0000009 396.4 400.3 
+Kylie_Minogue/TRjt3uHU95U_0000010 513.0 518.7 
+Kylie_Minogue/TRjt3uHU95U_0000011 649.0 653.3 
+Kylie_Minogue/TRjt3uHU95U_0000012 692.4 697.9 
+Kylie_Minogue/TRjt3uHU95U_0000013 706.8 714.9 

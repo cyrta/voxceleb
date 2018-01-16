@@ -1,0 +1,11 @@
+POI: 			Brit_Marling 
+Youtube ID: 	rwN0Jpxfi44 
+Video length: 	331.7 sec 
+Set (V): 		dev 
+ 
+Brit_Marling/rwN0Jpxfi44_0000001 52.7 57.6 
+Brit_Marling/rwN0Jpxfi44_0000002 58.7 63.4 
+Brit_Marling/rwN0Jpxfi44_0000003 67.8 73.9 
+Brit_Marling/rwN0Jpxfi44_0000004 126.0 136.9 
+Brit_Marling/rwN0Jpxfi44_0000005 194.8 199.8 
+Brit_Marling/rwN0Jpxfi44_0000006 202.1 209.4 

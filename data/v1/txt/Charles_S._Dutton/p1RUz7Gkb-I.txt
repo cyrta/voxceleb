@@ -1,0 +1,10 @@
+POI: 			Charles_S._Dutton 
+Youtube ID: 	p1RUz7Gkb-I 
+Video length: 	277.0 sec 
+Set (V): 		dev 
+ 
+Charles_S._Dutton/p1RUz7Gkb-I_0000001 53.9 58.6 
+Charles_S._Dutton/p1RUz7Gkb-I_0000002 62.8 67.8 
+Charles_S._Dutton/p1RUz7Gkb-I_0000003 88.1 92.1 
+Charles_S._Dutton/p1RUz7Gkb-I_0000004 123.3 128.6 
+Charles_S._Dutton/p1RUz7Gkb-I_0000005 157.5 163.8 

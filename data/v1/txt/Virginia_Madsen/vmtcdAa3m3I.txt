@@ -1,0 +1,10 @@
+POI: 			Virginia_Madsen 
+Youtube ID: 	vmtcdAa3m3I 
+Video length: 	108.9 sec 
+Set (V): 		dev 
+ 
+Virginia_Madsen/vmtcdAa3m3I_0000001 24.3 28.3 
+Virginia_Madsen/vmtcdAa3m3I_0000002 32.4 38.0 
+Virginia_Madsen/vmtcdAa3m3I_0000003 44.6 52.1 
+Virginia_Madsen/vmtcdAa3m3I_0000004 52.4 64.6 
+Virginia_Madsen/vmtcdAa3m3I_0000005 77.5 92.0 

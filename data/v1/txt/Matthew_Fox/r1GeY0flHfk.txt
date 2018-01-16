@@ -1,0 +1,7 @@
+POI: 			Matthew_Fox 
+Youtube ID: 	r1GeY0flHfk 
+Video length: 	381.8 sec 
+Set (V): 		dev 
+ 
+Matthew_Fox/r1GeY0flHfk_0000001 64.8 69.9 
+Matthew_Fox/r1GeY0flHfk_0000002 242.0 246.1 

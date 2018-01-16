@@ -1,0 +1,7 @@
+POI: 			Guy_Pearce 
+Youtube ID: 	HuFcGGJog60 
+Video length: 	219.2 sec 
+Set (V): 		dev 
+ 
+Guy_Pearce/HuFcGGJog60_0000001 59.5 68.0 
+Guy_Pearce/HuFcGGJog60_0000002 97.0 111.4 

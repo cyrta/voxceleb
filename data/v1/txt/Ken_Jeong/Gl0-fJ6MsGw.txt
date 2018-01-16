@@ -1,0 +1,10 @@
+POI: 			Ken_Jeong 
+Youtube ID: 	Gl0-fJ6MsGw 
+Video length: 	440.8 sec 
+Set (V): 		dev 
+ 
+Ken_Jeong/Gl0-fJ6MsGw_0000001 259.8 265.9 
+Ken_Jeong/Gl0-fJ6MsGw_0000002 270.4 280.6 
+Ken_Jeong/Gl0-fJ6MsGw_0000003 280.7 290.9 
+Ken_Jeong/Gl0-fJ6MsGw_0000004 291.2 297.8 
+Ken_Jeong/Gl0-fJ6MsGw_0000005 301.4 306.9 

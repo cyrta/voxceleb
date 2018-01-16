@@ -1,0 +1,10 @@
+POI: 			Yvette_Nicole_Brown 
+Youtube ID: 	MmPPKof1sQY 
+Video length: 	104.3 sec 
+Set (V): 		dev 
+ 
+Yvette_Nicole_Brown/MmPPKof1sQY_0000001 12.4 22.4 
+Yvette_Nicole_Brown/MmPPKof1sQY_0000002 28.8 36.5 
+Yvette_Nicole_Brown/MmPPKof1sQY_0000003 55.0 62.5 
+Yvette_Nicole_Brown/MmPPKof1sQY_0000004 69.6 74.3 
+Yvette_Nicole_Brown/MmPPKof1sQY_0000005 77.7 84.4 

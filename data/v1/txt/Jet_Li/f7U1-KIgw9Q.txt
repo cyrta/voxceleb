@@ -1,0 +1,7 @@
+POI: 			Jet_Li 
+Youtube ID: 	f7U1-KIgw9Q 
+Video length: 	1258.3 sec 
+Set (V): 		dev 
+ 
+Jet_Li/f7U1-KIgw9Q_0000001 350.0 354.2 
+Jet_Li/f7U1-KIgw9Q_0000002 797.1 802.0 

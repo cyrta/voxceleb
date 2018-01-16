@@ -1,0 +1,25 @@
+POI: 			Lauryn_Hill 
+Youtube ID: 	mN5eC-0m9OA 
+Video length: 	390.8 sec 
+Set (V): 		dev 
+ 
+Lauryn_Hill/mN5eC-0m9OA_0000001 05.6 11.6 
+Lauryn_Hill/mN5eC-0m9OA_0000002 12.5 16.6 
+Lauryn_Hill/mN5eC-0m9OA_0000003 26.7 46.6 
+Lauryn_Hill/mN5eC-0m9OA_0000004 53.8 59.0 
+Lauryn_Hill/mN5eC-0m9OA_0000005 61.2 75.1 
+Lauryn_Hill/mN5eC-0m9OA_0000006 115.2 129.2 
+Lauryn_Hill/mN5eC-0m9OA_0000007 131.2 138.1 
+Lauryn_Hill/mN5eC-0m9OA_0000008 139.3 152.3 
+Lauryn_Hill/mN5eC-0m9OA_0000009 153.5 172.7 
+Lauryn_Hill/mN5eC-0m9OA_0000010 185.0 198.2 
+Lauryn_Hill/mN5eC-0m9OA_0000011 215.7 219.8 
+Lauryn_Hill/mN5eC-0m9OA_0000012 220.0 224.0 
+Lauryn_Hill/mN5eC-0m9OA_0000013 239.6 247.8 
+Lauryn_Hill/mN5eC-0m9OA_0000014 261.6 272.3 
+Lauryn_Hill/mN5eC-0m9OA_0000015 273.2 283.7 
+Lauryn_Hill/mN5eC-0m9OA_0000016 296.0 301.3 
+Lauryn_Hill/mN5eC-0m9OA_0000017 302.8 307.2 
+Lauryn_Hill/mN5eC-0m9OA_0000018 308.4 317.4 
+Lauryn_Hill/mN5eC-0m9OA_0000019 318.0 324.8 
+Lauryn_Hill/mN5eC-0m9OA_0000020 364.3 377.1 

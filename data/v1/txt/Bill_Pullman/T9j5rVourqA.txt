@@ -1,0 +1,28 @@
+POI: 			Bill_Pullman 
+Youtube ID: 	T9j5rVourqA 
+Video length: 	466.3 sec 
+Set (V): 		dev 
+ 
+Bill_Pullman/T9j5rVourqA_0000001 33.6 38.8 
+Bill_Pullman/T9j5rVourqA_0000002 46.6 56.5 
+Bill_Pullman/T9j5rVourqA_0000003 57.4 63.7 
+Bill_Pullman/T9j5rVourqA_0000004 66.2 72.3 
+Bill_Pullman/T9j5rVourqA_0000005 73.5 77.6 
+Bill_Pullman/T9j5rVourqA_0000006 122.1 136.9 
+Bill_Pullman/T9j5rVourqA_0000007 167.4 173.4 
+Bill_Pullman/T9j5rVourqA_0000008 174.0 179.3 
+Bill_Pullman/T9j5rVourqA_0000009 192.0 198.7 
+Bill_Pullman/T9j5rVourqA_0000010 198.8 210.7 
+Bill_Pullman/T9j5rVourqA_0000011 215.2 228.4 
+Bill_Pullman/T9j5rVourqA_0000012 228.5 240.8 
+Bill_Pullman/T9j5rVourqA_0000013 241.5 247.2 
+Bill_Pullman/T9j5rVourqA_0000014 250.7 254.9 
+Bill_Pullman/T9j5rVourqA_0000015 255.6 268.3 
+Bill_Pullman/T9j5rVourqA_0000016 269.8 282.9 
+Bill_Pullman/T9j5rVourqA_0000017 284.8 296.4 
+Bill_Pullman/T9j5rVourqA_0000018 306.7 325.1 
+Bill_Pullman/T9j5rVourqA_0000019 334.4 342.0 
+Bill_Pullman/T9j5rVourqA_0000020 342.9 351.0 
+Bill_Pullman/T9j5rVourqA_0000021 352.0 369.7 
+Bill_Pullman/T9j5rVourqA_0000022 384.0 388.6 
+Bill_Pullman/T9j5rVourqA_0000023 388.6 393.4 

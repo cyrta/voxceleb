@@ -1,0 +1,10 @@
+POI: 			Natalie_Portman 
+Youtube ID: 	5mlzB0JRY9k 
+Video length: 	645.9 sec 
+Set (V): 		dev 
+ 
+Natalie_Portman/5mlzB0JRY9k_0000001 88.0 107.5 
+Natalie_Portman/5mlzB0JRY9k_0000002 299.3 303.7 
+Natalie_Portman/5mlzB0JRY9k_0000003 310.2 348.6 
+Natalie_Portman/5mlzB0JRY9k_0000004 356.4 360.4 
+Natalie_Portman/5mlzB0JRY9k_0000005 470.2 479.6 

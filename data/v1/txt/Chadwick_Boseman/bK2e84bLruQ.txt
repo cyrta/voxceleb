@@ -1,0 +1,9 @@
+POI: 			Chadwick_Boseman 
+Youtube ID: 	bK2e84bLruQ 
+Video length: 	245.0 sec 
+Set (V): 		dev 
+ 
+Chadwick_Boseman/bK2e84bLruQ_0000001 201.4 211.8 
+Chadwick_Boseman/bK2e84bLruQ_0000002 212.3 221.4 
+Chadwick_Boseman/bK2e84bLruQ_0000003 227.6 234.4 
+Chadwick_Boseman/bK2e84bLruQ_0000004 235.5 242.2 

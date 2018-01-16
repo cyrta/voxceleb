@@ -1,0 +1,8 @@
+POI: 			Dove_Cameron 
+Youtube ID: 	WfVw8LIGilQ 
+Video length: 	438.3 sec 
+Set (V): 		dev 
+ 
+Dove_Cameron/WfVw8LIGilQ_0000001 107.6 111.7 
+Dove_Cameron/WfVw8LIGilQ_0000002 154.3 159.3 
+Dove_Cameron/WfVw8LIGilQ_0000003 348.6 353.3 

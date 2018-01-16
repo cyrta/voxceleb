@@ -1,0 +1,10 @@
+POI: 			Marc_Forster 
+Youtube ID: 	EIwOS943wps 
+Video length: 	459.3 sec 
+Set (V): 		dev 
+ 
+Marc_Forster/EIwOS943wps_0000001 18.9 37.1 
+Marc_Forster/EIwOS943wps_0000002 75.4 93.9 
+Marc_Forster/EIwOS943wps_0000003 115.8 130.2 
+Marc_Forster/EIwOS943wps_0000004 139.5 151.8 
+Marc_Forster/EIwOS943wps_0000005 189.9 194.0 

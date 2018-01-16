@@ -1,0 +1,13 @@
+POI: 			Helena_Bonham_Carter 
+Youtube ID: 	HGnt_YI-BC4 
+Video length: 	234.8 sec 
+Set (V): 		dev 
+ 
+Helena_Bonham_Carter/HGnt_YI-BC4_0000001 15.8 21.0 
+Helena_Bonham_Carter/HGnt_YI-BC4_0000002 28.3 39.3 
+Helena_Bonham_Carter/HGnt_YI-BC4_0000003 45.7 54.8 
+Helena_Bonham_Carter/HGnt_YI-BC4_0000004 94.7 98.8 
+Helena_Bonham_Carter/HGnt_YI-BC4_0000005 135.5 142.2 
+Helena_Bonham_Carter/HGnt_YI-BC4_0000006 146.4 150.7 
+Helena_Bonham_Carter/HGnt_YI-BC4_0000007 151.9 158.0 
+Helena_Bonham_Carter/HGnt_YI-BC4_0000008 184.7 191.5 

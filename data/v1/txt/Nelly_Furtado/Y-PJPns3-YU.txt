@@ -1,0 +1,20 @@
+POI: 			Nelly_Furtado 
+Youtube ID: 	Y-PJPns3-YU 
+Video length: 	532.8 sec 
+Set (V): 		dev 
+ 
+Nelly_Furtado/Y-PJPns3-YU_0000001 15.0 21.2 
+Nelly_Furtado/Y-PJPns3-YU_0000002 25.4 33.6 
+Nelly_Furtado/Y-PJPns3-YU_0000003 35.7 47.6 
+Nelly_Furtado/Y-PJPns3-YU_0000004 96.8 102.6 
+Nelly_Furtado/Y-PJPns3-YU_0000005 223.4 241.6 
+Nelly_Furtado/Y-PJPns3-YU_0000006 256.0 261.2 
+Nelly_Furtado/Y-PJPns3-YU_0000007 263.0 269.5 
+Nelly_Furtado/Y-PJPns3-YU_0000008 269.8 273.8 
+Nelly_Furtado/Y-PJPns3-YU_0000009 283.8 291.7 
+Nelly_Furtado/Y-PJPns3-YU_0000010 326.4 331.5 
+Nelly_Furtado/Y-PJPns3-YU_0000011 334.0 338.6 
+Nelly_Furtado/Y-PJPns3-YU_0000012 340.6 347.4 
+Nelly_Furtado/Y-PJPns3-YU_0000013 370.7 377.2 
+Nelly_Furtado/Y-PJPns3-YU_0000014 389.6 407.0 
+Nelly_Furtado/Y-PJPns3-YU_0000015 448.7 452.8 

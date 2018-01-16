@@ -1,0 +1,21 @@
+POI: 			Jeremy_Irons 
+Youtube ID: 	lpBwqoi6ovs 
+Video length: 	321.3 sec 
+Set (V): 		dev 
+ 
+Jeremy_Irons/lpBwqoi6ovs_0000001 04.1 13.2 
+Jeremy_Irons/lpBwqoi6ovs_0000002 13.4 24.0 
+Jeremy_Irons/lpBwqoi6ovs_0000003 39.0 47.6 
+Jeremy_Irons/lpBwqoi6ovs_0000004 90.5 95.4 
+Jeremy_Irons/lpBwqoi6ovs_0000005 100.6 105.6 
+Jeremy_Irons/lpBwqoi6ovs_0000006 107.2 112.9 
+Jeremy_Irons/lpBwqoi6ovs_0000007 151.8 160.6 
+Jeremy_Irons/lpBwqoi6ovs_0000008 161.1 166.0 
+Jeremy_Irons/lpBwqoi6ovs_0000009 167.0 174.3 
+Jeremy_Irons/lpBwqoi6ovs_0000010 175.2 180.1 
+Jeremy_Irons/lpBwqoi6ovs_0000011 201.6 211.2 
+Jeremy_Irons/lpBwqoi6ovs_0000012 211.3 217.2 
+Jeremy_Irons/lpBwqoi6ovs_0000013 237.5 247.7 
+Jeremy_Irons/lpBwqoi6ovs_0000014 254.3 271.6 
+Jeremy_Irons/lpBwqoi6ovs_0000015 272.0 277.0 
+Jeremy_Irons/lpBwqoi6ovs_0000016 306.0 311.6 

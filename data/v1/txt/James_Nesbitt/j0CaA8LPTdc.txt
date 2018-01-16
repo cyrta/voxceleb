@@ -1,0 +1,11 @@
+POI: 			James_Nesbitt 
+Youtube ID: 	j0CaA8LPTdc 
+Video length: 	247.9 sec 
+Set (V): 		dev 
+ 
+James_Nesbitt/j0CaA8LPTdc_0000001 43.6 49.2 
+James_Nesbitt/j0CaA8LPTdc_0000002 49.6 71.6 
+James_Nesbitt/j0CaA8LPTdc_0000003 73.6 78.2 
+James_Nesbitt/j0CaA8LPTdc_0000004 84.9 117.7 
+James_Nesbitt/j0CaA8LPTdc_0000005 157.6 187.2 
+James_Nesbitt/j0CaA8LPTdc_0000006 225.2 241.8 

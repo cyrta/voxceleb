@@ -1,0 +1,9 @@
+POI: 			Terence_Stamp 
+Youtube ID: 	6AxfLOkf__k 
+Video length: 	116.4 sec 
+Set (V): 		dev 
+ 
+Terence_Stamp/6AxfLOkf__k_0000001 10.4 15.7 
+Terence_Stamp/6AxfLOkf__k_0000002 15.8 22.0 
+Terence_Stamp/6AxfLOkf__k_0000003 23.2 29.4 
+Terence_Stamp/6AxfLOkf__k_0000004 40.9 47.0 

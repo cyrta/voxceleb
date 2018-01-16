@@ -1,0 +1,8 @@
+POI: 			Eric_Roberts 
+Youtube ID: 	6-VE8e8RtZE 
+Video length: 	42.6 sec 
+Set (V): 		test 
+ 
+Eric_Roberts/6-VE8e8RtZE_0000001 02.6 17.3 
+Eric_Roberts/6-VE8e8RtZE_0000002 17.5 25.3 
+Eric_Roberts/6-VE8e8RtZE_0000003 26.9 38.0 

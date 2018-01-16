@@ -1,0 +1,10 @@
+POI: 			David_Morrissey 
+Youtube ID: 	h2y2CG-DTMs 
+Video length: 	256.6 sec 
+Set (V): 		dev 
+ 
+David_Morrissey/h2y2CG-DTMs_0000001 21.8 27.8 
+David_Morrissey/h2y2CG-DTMs_0000002 59.0 64.9 
+David_Morrissey/h2y2CG-DTMs_0000003 71.4 79.5 
+David_Morrissey/h2y2CG-DTMs_0000004 154.3 169.1 
+David_Morrissey/h2y2CG-DTMs_0000005 216.6 228.8 

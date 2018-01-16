@@ -1,0 +1,12 @@
+POI: 			Brian_Cox 
+Youtube ID: 	y0DycW2Tzb0 
+Video length: 	446.9 sec 
+Set (V): 		dev 
+ 
+Brian_Cox/y0DycW2Tzb0_0000001 125.0 129.0 
+Brian_Cox/y0DycW2Tzb0_0000002 183.2 187.2 
+Brian_Cox/y0DycW2Tzb0_0000003 243.2 247.9 
+Brian_Cox/y0DycW2Tzb0_0000004 254.0 258.8 
+Brian_Cox/y0DycW2Tzb0_0000005 284.7 289.6 
+Brian_Cox/y0DycW2Tzb0_0000006 331.5 336.4 
+Brian_Cox/y0DycW2Tzb0_0000007 340.7 350.1 

@@ -1,0 +1,13 @@
+POI: 			Gemma_Atkinson 
+Youtube ID: 	3tDl-eB-Xtw 
+Video length: 	131.8 sec 
+Set (V): 		dev 
+ 
+Gemma_Atkinson/3tDl-eB-Xtw_0000001 10.4 19.9 
+Gemma_Atkinson/3tDl-eB-Xtw_0000002 21.5 33.9 
+Gemma_Atkinson/3tDl-eB-Xtw_0000003 51.2 59.8 
+Gemma_Atkinson/3tDl-eB-Xtw_0000004 64.7 72.8 
+Gemma_Atkinson/3tDl-eB-Xtw_0000005 75.0 84.6 
+Gemma_Atkinson/3tDl-eB-Xtw_0000006 94.0 98.4 
+Gemma_Atkinson/3tDl-eB-Xtw_0000007 98.5 111.2 
+Gemma_Atkinson/3tDl-eB-Xtw_0000008 117.8 127.2 

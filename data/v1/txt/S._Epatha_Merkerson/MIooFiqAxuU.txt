@@ -1,0 +1,16 @@
+POI: 			S._Epatha_Merkerson 
+Youtube ID: 	MIooFiqAxuU 
+Video length: 	264.2 sec 
+Set (V): 		dev 
+ 
+S._Epatha_Merkerson/MIooFiqAxuU_0000001 48.0 63.7 
+S._Epatha_Merkerson/MIooFiqAxuU_0000002 66.4 73.5 
+S._Epatha_Merkerson/MIooFiqAxuU_0000003 100.0 107.2 
+S._Epatha_Merkerson/MIooFiqAxuU_0000004 111.0 124.0 
+S._Epatha_Merkerson/MIooFiqAxuU_0000005 125.8 136.8 
+S._Epatha_Merkerson/MIooFiqAxuU_0000006 137.7 162.9 
+S._Epatha_Merkerson/MIooFiqAxuU_0000007 163.0 167.6 
+S._Epatha_Merkerson/MIooFiqAxuU_0000008 169.2 193.3 
+S._Epatha_Merkerson/MIooFiqAxuU_0000009 195.8 200.1 
+S._Epatha_Merkerson/MIooFiqAxuU_0000010 203.6 210.0 
+S._Epatha_Merkerson/MIooFiqAxuU_0000011 223.9 244.0 

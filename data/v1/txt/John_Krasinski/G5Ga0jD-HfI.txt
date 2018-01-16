@@ -1,0 +1,8 @@
+POI: 			John_Krasinski 
+Youtube ID: 	G5Ga0jD-HfI 
+Video length: 	439.1 sec 
+Set (V): 		dev 
+ 
+John_Krasinski/G5Ga0jD-HfI_0000001 246.7 256.2 
+John_Krasinski/G5Ga0jD-HfI_0000002 351.6 355.9 
+John_Krasinski/G5Ga0jD-HfI_0000003 386.1 390.5 

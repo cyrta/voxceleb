@@ -1,0 +1,10 @@
+POI: 			Will_Poulter 
+Youtube ID: 	oCyLvUJqHWs 
+Video length: 	262.8 sec 
+Set (V): 		dev 
+ 
+Will_Poulter/oCyLvUJqHWs_0000001 06.8 10.7 
+Will_Poulter/oCyLvUJqHWs_0000002 15.3 28.8 
+Will_Poulter/oCyLvUJqHWs_0000003 34.7 39.4 
+Will_Poulter/oCyLvUJqHWs_0000004 104.0 109.4 
+Will_Poulter/oCyLvUJqHWs_0000005 212.8 219.0 

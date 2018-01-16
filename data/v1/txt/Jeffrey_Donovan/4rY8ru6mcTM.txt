@@ -1,0 +1,14 @@
+POI: 			Jeffrey_Donovan 
+Youtube ID: 	4rY8ru6mcTM 
+Video length: 	431.6 sec 
+Set (V): 		dev 
+ 
+Jeffrey_Donovan/4rY8ru6mcTM_0000001 49.2 54.0 
+Jeffrey_Donovan/4rY8ru6mcTM_0000002 54.1 62.2 
+Jeffrey_Donovan/4rY8ru6mcTM_0000003 71.0 101.8 
+Jeffrey_Donovan/4rY8ru6mcTM_0000004 108.1 128.2 
+Jeffrey_Donovan/4rY8ru6mcTM_0000005 216.2 223.2 
+Jeffrey_Donovan/4rY8ru6mcTM_0000006 317.2 333.6 
+Jeffrey_Donovan/4rY8ru6mcTM_0000007 343.0 347.7 
+Jeffrey_Donovan/4rY8ru6mcTM_0000008 348.2 361.3 
+Jeffrey_Donovan/4rY8ru6mcTM_0000009 370.3 380.6 

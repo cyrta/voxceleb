@@ -1,0 +1,7 @@
+POI: 			Ernest_Borgnine 
+Youtube ID: 	bWLcvTrjnQU 
+Video length: 	174.9 sec 
+Set (V): 		test 
+ 
+Ernest_Borgnine/bWLcvTrjnQU_0000001 41.0 45.1 
+Ernest_Borgnine/bWLcvTrjnQU_0000002 126.0 130.1 

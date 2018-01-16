@@ -1,0 +1,7 @@
+POI: 			Diane_Kruger 
+Youtube ID: 	xy9NG2gAULE 
+Video length: 	302.1 sec 
+Set (V): 		dev 
+ 
+Diane_Kruger/xy9NG2gAULE_0000001 228.0 234.0 
+Diane_Kruger/xy9NG2gAULE_0000002 239.5 245.5 

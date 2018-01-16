@@ -1,0 +1,14 @@
+POI: 			Janine_Turner 
+Youtube ID: 	BfjcFTV3rFA 
+Video length: 	286.1 sec 
+Set (V): 		dev 
+ 
+Janine_Turner/BfjcFTV3rFA_0000001 86.5 104.7 
+Janine_Turner/BfjcFTV3rFA_0000002 106.8 112.9 
+Janine_Turner/BfjcFTV3rFA_0000003 115.0 123.3 
+Janine_Turner/BfjcFTV3rFA_0000004 171.7 198.0 
+Janine_Turner/BfjcFTV3rFA_0000005 226.0 231.2 
+Janine_Turner/BfjcFTV3rFA_0000006 231.5 248.4 
+Janine_Turner/BfjcFTV3rFA_0000007 250.5 259.2 
+Janine_Turner/BfjcFTV3rFA_0000008 261.7 269.6 
+Janine_Turner/BfjcFTV3rFA_0000009 271.1 276.0 

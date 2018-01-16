@@ -1,0 +1,9 @@
+POI: 			Rebel_Wilson 
+Youtube ID: 	4ylLckq07cQ 
+Video length: 	217.2 sec 
+Set (V): 		dev 
+ 
+Rebel_Wilson/4ylLckq07cQ_0000001 68.8 73.5 
+Rebel_Wilson/4ylLckq07cQ_0000002 77.2 82.5 
+Rebel_Wilson/4ylLckq07cQ_0000003 161.3 168.2 
+Rebel_Wilson/4ylLckq07cQ_0000004 172.5 176.5 

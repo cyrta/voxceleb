@@ -1,0 +1,15 @@
+POI: 			Bear_Grylls 
+Youtube ID: 	M1uAq-wp01Q 
+Video length: 	310.0 sec 
+Set (V): 		dev 
+ 
+Bear_Grylls/M1uAq-wp01Q_0000001 02.8 09.3 
+Bear_Grylls/M1uAq-wp01Q_0000002 42.4 49.3 
+Bear_Grylls/M1uAq-wp01Q_0000003 82.6 87.4 
+Bear_Grylls/M1uAq-wp01Q_0000004 99.6 104.6 
+Bear_Grylls/M1uAq-wp01Q_0000005 116.2 124.3 
+Bear_Grylls/M1uAq-wp01Q_0000006 152.4 158.9 
+Bear_Grylls/M1uAq-wp01Q_0000007 170.0 177.8 
+Bear_Grylls/M1uAq-wp01Q_0000008 190.4 196.6 
+Bear_Grylls/M1uAq-wp01Q_0000009 231.2 239.6 
+Bear_Grylls/M1uAq-wp01Q_0000010 288.1 292.1 

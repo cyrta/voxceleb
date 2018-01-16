@@ -1,0 +1,11 @@
+POI: 			Sheridan_Smith 
+Youtube ID: 	KSsKOIYLKU8 
+Video length: 	133.1 sec 
+Set (V): 		dev 
+ 
+Sheridan_Smith/KSsKOIYLKU8_0000001 08.3 14.4 
+Sheridan_Smith/KSsKOIYLKU8_0000002 29.3 38.6 
+Sheridan_Smith/KSsKOIYLKU8_0000003 62.2 76.4 
+Sheridan_Smith/KSsKOIYLKU8_0000004 86.3 92.9 
+Sheridan_Smith/KSsKOIYLKU8_0000005 103.1 112.1 
+Sheridan_Smith/KSsKOIYLKU8_0000006 121.8 126.6 

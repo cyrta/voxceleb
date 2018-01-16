@@ -1,0 +1,9 @@
+POI: 			Kendra_Wilkinson 
+Youtube ID: 	6qQD_rT9gTg 
+Video length: 	332.0 sec 
+Set (V): 		dev 
+ 
+Kendra_Wilkinson/6qQD_rT9gTg_0000001 114.6 119.6 
+Kendra_Wilkinson/6qQD_rT9gTg_0000002 120.4 132.6 
+Kendra_Wilkinson/6qQD_rT9gTg_0000003 225.6 231.4 
+Kendra_Wilkinson/6qQD_rT9gTg_0000004 269.4 289.1 

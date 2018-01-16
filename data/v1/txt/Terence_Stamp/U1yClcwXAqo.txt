@@ -1,0 +1,15 @@
+POI: 			Terence_Stamp 
+Youtube ID: 	U1yClcwXAqo 
+Video length: 	245.4 sec 
+Set (V): 		dev 
+ 
+Terence_Stamp/U1yClcwXAqo_0000001 08.5 13.8 
+Terence_Stamp/U1yClcwXAqo_0000002 42.6 46.6 
+Terence_Stamp/U1yClcwXAqo_0000003 52.0 57.5 
+Terence_Stamp/U1yClcwXAqo_0000004 58.1 67.0 
+Terence_Stamp/U1yClcwXAqo_0000005 80.1 86.8 
+Terence_Stamp/U1yClcwXAqo_0000006 146.8 153.0 
+Terence_Stamp/U1yClcwXAqo_0000007 145.4 153.3 
+Terence_Stamp/U1yClcwXAqo_0000008 161.9 166.0 
+Terence_Stamp/U1yClcwXAqo_0000009 185.8 192.1 
+Terence_Stamp/U1yClcwXAqo_0000010 211.6 218.2 

@@ -1,0 +1,18 @@
+POI: 			Tyler_Blackburn 
+Youtube ID: 	9cb0gnKnwqo 
+Video length: 	678.1 sec 
+Set (V): 		dev 
+ 
+Tyler_Blackburn/9cb0gnKnwqo_0000001 38.6 45.6 
+Tyler_Blackburn/9cb0gnKnwqo_0000002 83.6 91.0 
+Tyler_Blackburn/9cb0gnKnwqo_0000003 169.5 174.3 
+Tyler_Blackburn/9cb0gnKnwqo_0000004 175.2 179.8 
+Tyler_Blackburn/9cb0gnKnwqo_0000005 212.2 218.0 
+Tyler_Blackburn/9cb0gnKnwqo_0000006 220.1 236.2 
+Tyler_Blackburn/9cb0gnKnwqo_0000007 236.5 242.6 
+Tyler_Blackburn/9cb0gnKnwqo_0000008 468.2 472.4 
+Tyler_Blackburn/9cb0gnKnwqo_0000009 474.0 478.4 
+Tyler_Blackburn/9cb0gnKnwqo_0000010 480.7 485.8 
+Tyler_Blackburn/9cb0gnKnwqo_0000011 486.6 496.8 
+Tyler_Blackburn/9cb0gnKnwqo_0000012 581.3 592.3 
+Tyler_Blackburn/9cb0gnKnwqo_0000013 595.7 607.2 

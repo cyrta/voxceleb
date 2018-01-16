@@ -1,0 +1,16 @@
+POI: 			Gemma_Atkinson 
+Youtube ID: 	5BK6NhlLupE 
+Video length: 	232.0 sec 
+Set (V): 		dev 
+ 
+Gemma_Atkinson/5BK6NhlLupE_0000001 15.1 30.8 
+Gemma_Atkinson/5BK6NhlLupE_0000002 32.8 41.4 
+Gemma_Atkinson/5BK6NhlLupE_0000003 41.7 53.9 
+Gemma_Atkinson/5BK6NhlLupE_0000004 61.8 66.4 
+Gemma_Atkinson/5BK6NhlLupE_0000005 70.3 77.1 
+Gemma_Atkinson/5BK6NhlLupE_0000006 80.2 86.8 
+Gemma_Atkinson/5BK6NhlLupE_0000007 92.2 111.3 
+Gemma_Atkinson/5BK6NhlLupE_0000008 121.0 131.0 
+Gemma_Atkinson/5BK6NhlLupE_0000009 143.2 147.4 
+Gemma_Atkinson/5BK6NhlLupE_0000010 193.8 200.8 
+Gemma_Atkinson/5BK6NhlLupE_0000011 215.8 224.2 

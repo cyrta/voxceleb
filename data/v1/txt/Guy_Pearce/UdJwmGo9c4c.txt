@@ -1,0 +1,19 @@
+POI: 			Guy_Pearce 
+Youtube ID: 	UdJwmGo9c4c 
+Video length: 	287.4 sec 
+Set (V): 		dev 
+ 
+Guy_Pearce/UdJwmGo9c4c_0000001 18.2 22.8 
+Guy_Pearce/UdJwmGo9c4c_0000002 23.8 36.6 
+Guy_Pearce/UdJwmGo9c4c_0000003 40.3 48.8 
+Guy_Pearce/UdJwmGo9c4c_0000004 51.5 55.7 
+Guy_Pearce/UdJwmGo9c4c_0000005 60.3 85.2 
+Guy_Pearce/UdJwmGo9c4c_0000006 85.3 107.4 
+Guy_Pearce/UdJwmGo9c4c_0000007 114.1 125.1 
+Guy_Pearce/UdJwmGo9c4c_0000008 137.0 149.6 
+Guy_Pearce/UdJwmGo9c4c_0000009 162.9 193.5 
+Guy_Pearce/UdJwmGo9c4c_0000010 199.2 217.7 
+Guy_Pearce/UdJwmGo9c4c_0000011 220.2 228.0 
+Guy_Pearce/UdJwmGo9c4c_0000012 240.0 244.8 
+Guy_Pearce/UdJwmGo9c4c_0000013 245.2 271.0 
+Guy_Pearce/UdJwmGo9c4c_0000014 271.3 276.5 

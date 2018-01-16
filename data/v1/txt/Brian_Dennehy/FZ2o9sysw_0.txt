@@ -1,0 +1,12 @@
+POI: 			Brian_Dennehy 
+Youtube ID: 	FZ2o9sysw_0 
+Video length: 	298.2 sec 
+Set (V): 		dev 
+ 
+Brian_Dennehy/FZ2o9sysw_0_0000001 26.3 31.2 
+Brian_Dennehy/FZ2o9sysw_0_0000002 32.6 38.4 
+Brian_Dennehy/FZ2o9sysw_0_0000003 55.0 59.1 
+Brian_Dennehy/FZ2o9sysw_0_0000004 102.9 106.9 
+Brian_Dennehy/FZ2o9sysw_0_0000005 158.0 162.7 
+Brian_Dennehy/FZ2o9sysw_0_0000006 179.4 188.2 
+Brian_Dennehy/FZ2o9sysw_0_0000007 240.8 245.4 

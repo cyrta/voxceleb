@@ -1,0 +1,12 @@
+POI: 			Danny_Dyer 
+Youtube ID: 	XQsBSQVBzJQ 
+Video length: 	251.2 sec 
+Set (V): 		dev 
+ 
+Danny_Dyer/XQsBSQVBzJQ_0000001 22.4 27.5 
+Danny_Dyer/XQsBSQVBzJQ_0000002 42.1 47.6 
+Danny_Dyer/XQsBSQVBzJQ_0000003 88.1 95.2 
+Danny_Dyer/XQsBSQVBzJQ_0000004 125.6 129.8 
+Danny_Dyer/XQsBSQVBzJQ_0000005 159.2 164.8 
+Danny_Dyer/XQsBSQVBzJQ_0000006 187.8 193.2 
+Danny_Dyer/XQsBSQVBzJQ_0000007 207.2 212.6 

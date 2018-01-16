@@ -1,0 +1,8 @@
+POI: 			Goran_Visnjic 
+Youtube ID: 	GXhOa55M_Ro 
+Video length: 	120.5 sec 
+Set (V): 		dev 
+ 
+Goran_Visnjic/GXhOa55M_Ro_0000001 49.4 55.8 
+Goran_Visnjic/GXhOa55M_Ro_0000002 58.6 62.9 
+Goran_Visnjic/GXhOa55M_Ro_0000003 99.6 104.4 

@@ -1,0 +1,9 @@
+POI: 			Ellen_Burstyn 
+Youtube ID: 	ryVdclLx7Yo 
+Video length: 	535.0 sec 
+Set (V): 		test 
+ 
+Ellen_Burstyn/ryVdclLx7Yo_0000001 236.1 245.4 
+Ellen_Burstyn/ryVdclLx7Yo_0000002 268.2 275.6 
+Ellen_Burstyn/ryVdclLx7Yo_0000003 276.4 282.6 
+Ellen_Burstyn/ryVdclLx7Yo_0000004 285.5 289.6 

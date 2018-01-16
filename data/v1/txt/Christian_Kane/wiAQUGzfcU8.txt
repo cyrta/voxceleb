@@ -1,0 +1,14 @@
+POI: 			Christian_Kane 
+Youtube ID: 	wiAQUGzfcU8 
+Video length: 	237.5 sec 
+Set (V): 		dev 
+ 
+Christian_Kane/wiAQUGzfcU8_0000001 17.9 27.2 
+Christian_Kane/wiAQUGzfcU8_0000002 44.8 50.8 
+Christian_Kane/wiAQUGzfcU8_0000003 52.8 57.8 
+Christian_Kane/wiAQUGzfcU8_0000004 69.1 83.7 
+Christian_Kane/wiAQUGzfcU8_0000005 94.5 106.2 
+Christian_Kane/wiAQUGzfcU8_0000006 106.4 113.3 
+Christian_Kane/wiAQUGzfcU8_0000007 116.8 134.7 
+Christian_Kane/wiAQUGzfcU8_0000008 181.7 199.1 
+Christian_Kane/wiAQUGzfcU8_0000009 202.5 208.7 

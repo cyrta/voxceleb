@@ -1,0 +1,9 @@
+POI: 			Kesha 
+Youtube ID: 	Go-P65KZgpw 
+Video length: 	193.5 sec 
+Set (V): 		dev 
+ 
+Kesha/Go-P65KZgpw_0000001 04.3 13.4 
+Kesha/Go-P65KZgpw_0000002 54.9 60.7 
+Kesha/Go-P65KZgpw_0000003 142.2 147.2 
+Kesha/Go-P65KZgpw_0000004 148.0 152.8 

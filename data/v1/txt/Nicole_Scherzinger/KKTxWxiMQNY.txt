@@ -1,0 +1,7 @@
+POI: 			Nicole_Scherzinger 
+Youtube ID: 	KKTxWxiMQNY 
+Video length: 	807.4 sec 
+Set (V): 		dev 
+ 
+Nicole_Scherzinger/KKTxWxiMQNY_0000001 169.3 175.1 
+Nicole_Scherzinger/KKTxWxiMQNY_0000002 200.2 206.8 

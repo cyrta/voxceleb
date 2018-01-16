@@ -1,0 +1,9 @@
+POI: 			Christopher_Mintz-Plasse 
+Youtube ID: 	E-alyDkXNvA 
+Video length: 	151.9 sec 
+Set (V): 		dev 
+ 
+Christopher_Mintz-Plasse/E-alyDkXNvA_0000001 11.0 30.2 
+Christopher_Mintz-Plasse/E-alyDkXNvA_0000002 41.8 70.3 
+Christopher_Mintz-Plasse/E-alyDkXNvA_0000003 84.8 93.0 
+Christopher_Mintz-Plasse/E-alyDkXNvA_0000004 111.4 126.4 

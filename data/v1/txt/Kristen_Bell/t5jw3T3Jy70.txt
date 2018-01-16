@@ -1,0 +1,7 @@
+POI: 			Kristen_Bell 
+Youtube ID: 	t5jw3T3Jy70 
+Video length: 	222.9 sec 
+Set (V): 		dev 
+ 
+Kristen_Bell/t5jw3T3Jy70_0000001 54.6 60.2 
+Kristen_Bell/t5jw3T3Jy70_0000002 68.6 72.9 

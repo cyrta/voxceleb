@@ -1,0 +1,9 @@
+POI: 			Julianne_Nicholson 
+Youtube ID: 	hBNKNyQElLg 
+Video length: 	70.8 sec 
+Set (V): 		dev 
+ 
+Julianne_Nicholson/hBNKNyQElLg_0000001 02.2 06.8 
+Julianne_Nicholson/hBNKNyQElLg_0000002 11.0 16.2 
+Julianne_Nicholson/hBNKNyQElLg_0000003 56.1 61.7 
+Julianne_Nicholson/hBNKNyQElLg_0000004 61.8 68.7 

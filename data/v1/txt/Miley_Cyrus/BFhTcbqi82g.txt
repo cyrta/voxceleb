@@ -1,0 +1,11 @@
+POI: 			Miley_Cyrus 
+Youtube ID: 	BFhTcbqi82g 
+Video length: 	347.6 sec 
+Set (V): 		dev 
+ 
+Miley_Cyrus/BFhTcbqi82g_0000001 140.0 145.0 
+Miley_Cyrus/BFhTcbqi82g_0000002 149.8 154.0 
+Miley_Cyrus/BFhTcbqi82g_0000003 195.4 203.8 
+Miley_Cyrus/BFhTcbqi82g_0000004 247.0 255.8 
+Miley_Cyrus/BFhTcbqi82g_0000005 272.6 280.8 
+Miley_Cyrus/BFhTcbqi82g_0000006 320.0 330.9 

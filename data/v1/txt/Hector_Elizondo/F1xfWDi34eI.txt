@@ -1,0 +1,13 @@
+POI: 			Hector_Elizondo 
+Youtube ID: 	F1xfWDi34eI 
+Video length: 	241.1 sec 
+Set (V): 		dev 
+ 
+Hector_Elizondo/F1xfWDi34eI_0000001 10.2 14.4 
+Hector_Elizondo/F1xfWDi34eI_0000002 49.2 54.4 
+Hector_Elizondo/F1xfWDi34eI_0000003 63.0 70.4 
+Hector_Elizondo/F1xfWDi34eI_0000004 72.4 78.1 
+Hector_Elizondo/F1xfWDi34eI_0000005 105.0 120.7 
+Hector_Elizondo/F1xfWDi34eI_0000006 143.8 154.4 
+Hector_Elizondo/F1xfWDi34eI_0000007 179.5 193.6 
+Hector_Elizondo/F1xfWDi34eI_0000008 224.2 228.2 

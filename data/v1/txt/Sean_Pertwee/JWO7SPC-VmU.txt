@@ -1,0 +1,7 @@
+POI: 			Sean_Pertwee 
+Youtube ID: 	JWO7SPC-VmU 
+Video length: 	335.3 sec 
+Set (V): 		dev 
+ 
+Sean_Pertwee/JWO7SPC-VmU_0000001 145.3 153.8 
+Sean_Pertwee/JWO7SPC-VmU_0000002 203.4 208.1 

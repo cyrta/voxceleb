@@ -1,0 +1,10 @@
+POI: 			John_Hodgman 
+Youtube ID: 	9DIKFU9gbbs 
+Video length: 	229.7 sec 
+Set (V): 		dev 
+ 
+John_Hodgman/9DIKFU9gbbs_0000001 71.2 75.9 
+John_Hodgman/9DIKFU9gbbs_0000002 118.0 125.5 
+John_Hodgman/9DIKFU9gbbs_0000003 132.7 137.8 
+John_Hodgman/9DIKFU9gbbs_0000004 144.4 151.7 
+John_Hodgman/9DIKFU9gbbs_0000005 194.4 199.3 

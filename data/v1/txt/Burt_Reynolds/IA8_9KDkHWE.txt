@@ -1,0 +1,11 @@
+POI: 			Burt_Reynolds 
+Youtube ID: 	IA8_9KDkHWE 
+Video length: 	698.1 sec 
+Set (V): 		dev 
+ 
+Burt_Reynolds/IA8_9KDkHWE_0000001 12.3 17.9 
+Burt_Reynolds/IA8_9KDkHWE_0000002 18.8 24.2 
+Burt_Reynolds/IA8_9KDkHWE_0000003 97.3 102.0 
+Burt_Reynolds/IA8_9KDkHWE_0000004 318.7 324.0 
+Burt_Reynolds/IA8_9KDkHWE_0000005 332.0 336.3 
+Burt_Reynolds/IA8_9KDkHWE_0000006 497.6 502.4 

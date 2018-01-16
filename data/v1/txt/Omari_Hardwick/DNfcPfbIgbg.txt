@@ -1,0 +1,12 @@
+POI: 			Omari_Hardwick 
+Youtube ID: 	DNfcPfbIgbg 
+Video length: 	371.3 sec 
+Set (V): 		dev 
+ 
+Omari_Hardwick/DNfcPfbIgbg_0000001 21.8 35.3 
+Omari_Hardwick/DNfcPfbIgbg_0000002 40.5 48.7 
+Omari_Hardwick/DNfcPfbIgbg_0000003 53.6 60.4 
+Omari_Hardwick/DNfcPfbIgbg_0000004 61.4 67.4 
+Omari_Hardwick/DNfcPfbIgbg_0000005 129.7 134.4 
+Omari_Hardwick/DNfcPfbIgbg_0000006 139.3 148.3 
+Omari_Hardwick/DNfcPfbIgbg_0000007 148.4 155.0 

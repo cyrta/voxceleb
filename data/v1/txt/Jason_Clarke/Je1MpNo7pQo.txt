@@ -1,0 +1,8 @@
+POI: 			Jason_Clarke 
+Youtube ID: 	Je1MpNo7pQo 
+Video length: 	254.4 sec 
+Set (V): 		dev 
+ 
+Jason_Clarke/Je1MpNo7pQo_0000001 68.4 74.2 
+Jason_Clarke/Je1MpNo7pQo_0000002 81.4 87.6 
+Jason_Clarke/Je1MpNo7pQo_0000003 136.7 142.4 

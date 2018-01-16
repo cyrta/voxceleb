@@ -1,0 +1,11 @@
+POI: 			Paul_Scheer 
+Youtube ID: 	lJ03WKHHkiQ 
+Video length: 	291.4 sec 
+Set (V): 		dev 
+ 
+Paul_Scheer/lJ03WKHHkiQ_0000001 17.7 23.7 
+Paul_Scheer/lJ03WKHHkiQ_0000002 109.0 119.4 
+Paul_Scheer/lJ03WKHHkiQ_0000003 139.2 146.2 
+Paul_Scheer/lJ03WKHHkiQ_0000004 158.4 162.6 
+Paul_Scheer/lJ03WKHHkiQ_0000005 241.8 248.2 
+Paul_Scheer/lJ03WKHHkiQ_0000006 258.1 263.9 

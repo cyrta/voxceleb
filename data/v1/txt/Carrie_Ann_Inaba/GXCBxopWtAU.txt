@@ -1,0 +1,12 @@
+POI: 			Carrie_Ann_Inaba 
+Youtube ID: 	GXCBxopWtAU 
+Video length: 	211.9 sec 
+Set (V): 		dev 
+ 
+Carrie_Ann_Inaba/GXCBxopWtAU_0000001 13.6 21.5 
+Carrie_Ann_Inaba/GXCBxopWtAU_0000002 24.4 32.1 
+Carrie_Ann_Inaba/GXCBxopWtAU_0000003 40.5 62.4 
+Carrie_Ann_Inaba/GXCBxopWtAU_0000004 66.3 76.2 
+Carrie_Ann_Inaba/GXCBxopWtAU_0000005 108.0 118.2 
+Carrie_Ann_Inaba/GXCBxopWtAU_0000006 156.1 162.3 
+Carrie_Ann_Inaba/GXCBxopWtAU_0000007 191.9 199.6 

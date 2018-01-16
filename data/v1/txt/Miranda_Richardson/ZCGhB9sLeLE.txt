@@ -1,0 +1,10 @@
+POI: 			Miranda_Richardson 
+Youtube ID: 	ZCGhB9sLeLE 
+Video length: 	260.1 sec 
+Set (V): 		dev 
+ 
+Miranda_Richardson/ZCGhB9sLeLE_0000001 36.9 43.2 
+Miranda_Richardson/ZCGhB9sLeLE_0000002 45.1 53.9 
+Miranda_Richardson/ZCGhB9sLeLE_0000003 68.1 73.1 
+Miranda_Richardson/ZCGhB9sLeLE_0000004 206.6 210.9 
+Miranda_Richardson/ZCGhB9sLeLE_0000005 218.2 224.8 

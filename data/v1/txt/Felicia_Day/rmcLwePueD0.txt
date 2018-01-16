@@ -1,0 +1,12 @@
+POI: 			Felicia_Day 
+Youtube ID: 	rmcLwePueD0 
+Video length: 	174.6 sec 
+Set (V): 		dev 
+ 
+Felicia_Day/rmcLwePueD0_0000001 07.7 40.4 
+Felicia_Day/rmcLwePueD0_0000002 42.9 52.6 
+Felicia_Day/rmcLwePueD0_0000003 54.4 83.5 
+Felicia_Day/rmcLwePueD0_0000004 86.2 93.1 
+Felicia_Day/rmcLwePueD0_0000005 99.8 113.0 
+Felicia_Day/rmcLwePueD0_0000006 126.8 146.9 
+Felicia_Day/rmcLwePueD0_0000007 151.9 155.9 

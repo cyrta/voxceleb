@@ -1,0 +1,7 @@
+POI: 			Richard_Ayoade 
+Youtube ID: 	6Kj8nj9BKW8 
+Video length: 	148.8 sec 
+Set (V): 		dev 
+ 
+Richard_Ayoade/6Kj8nj9BKW8_0000001 72.3 76.5 
+Richard_Ayoade/6Kj8nj9BKW8_0000002 81.2 90.8 

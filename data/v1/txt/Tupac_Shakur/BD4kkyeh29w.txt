@@ -1,0 +1,11 @@
+POI: 			Tupac_Shakur 
+Youtube ID: 	BD4kkyeh29w 
+Video length: 	1122.2 sec 
+Set (V): 		dev 
+ 
+Tupac_Shakur/BD4kkyeh29w_0000001 295.3 305.0 
+Tupac_Shakur/BD4kkyeh29w_0000002 318.3 324.4 
+Tupac_Shakur/BD4kkyeh29w_0000003 385.0 392.6 
+Tupac_Shakur/BD4kkyeh29w_0000004 443.5 452.4 
+Tupac_Shakur/BD4kkyeh29w_0000005 499.3 504.0 
+Tupac_Shakur/BD4kkyeh29w_0000006 1077.4 1082.0 

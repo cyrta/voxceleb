@@ -1,0 +1,11 @@
+POI: 			Tamer_Hassan 
+Youtube ID: 	2n8y1cwQoyo 
+Video length: 	1479.3 sec 
+Set (V): 		dev 
+ 
+Tamer_Hassan/2n8y1cwQoyo_0000001 420.1 424.7 
+Tamer_Hassan/2n8y1cwQoyo_0000002 433.4 437.7 
+Tamer_Hassan/2n8y1cwQoyo_0000003 442.4 447.1 
+Tamer_Hassan/2n8y1cwQoyo_0000004 497.5 503.8 
+Tamer_Hassan/2n8y1cwQoyo_0000005 518.8 523.4 
+Tamer_Hassan/2n8y1cwQoyo_0000006 933.2 938.6 

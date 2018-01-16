@@ -1,0 +1,7 @@
+POI: 			Matthew_Goode 
+Youtube ID: 	wEqqezqkPpQ 
+Video length: 	196.4 sec 
+Set (V): 		dev 
+ 
+Matthew_Goode/wEqqezqkPpQ_0000001 67.3 76.0 
+Matthew_Goode/wEqqezqkPpQ_0000002 83.0 87.2 

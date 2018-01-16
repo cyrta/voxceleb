@@ -1,0 +1,7 @@
+POI: 			Patrick_Fugit 
+Youtube ID: 	0MXIsO8IK2A 
+Video length: 	137.3 sec 
+Set (V): 		dev 
+ 
+Patrick_Fugit/0MXIsO8IK2A_0000001 08.9 15.5 
+Patrick_Fugit/0MXIsO8IK2A_0000002 76.4 84.3 

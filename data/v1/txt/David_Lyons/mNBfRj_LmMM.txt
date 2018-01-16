@@ -1,0 +1,7 @@
+POI: 			David_Lyons 
+Youtube ID: 	mNBfRj_LmMM 
+Video length: 	116.9 sec 
+Set (V): 		dev 
+ 
+David_Lyons/mNBfRj_LmMM_0000001 30.5 40.2 
+David_Lyons/mNBfRj_LmMM_0000002 42.2 55.9 

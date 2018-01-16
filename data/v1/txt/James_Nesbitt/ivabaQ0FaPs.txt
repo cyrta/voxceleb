@@ -1,0 +1,8 @@
+POI: 			James_Nesbitt 
+Youtube ID: 	ivabaQ0FaPs 
+Video length: 	136.8 sec 
+Set (V): 		dev 
+ 
+James_Nesbitt/ivabaQ0FaPs_0000001 70.6 76.8 
+James_Nesbitt/ivabaQ0FaPs_0000002 77.8 105.2 
+James_Nesbitt/ivabaQ0FaPs_0000003 107.0 130.2 

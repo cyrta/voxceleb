@@ -1,0 +1,8 @@
+POI: 			Victoria_Rowell 
+Youtube ID: 	8fHbVLxvVgc 
+Video length: 	875.8 sec 
+Set (V): 		dev 
+ 
+Victoria_Rowell/8fHbVLxvVgc_0000001 17.6 26.8 
+Victoria_Rowell/8fHbVLxvVgc_0000002 697.2 702.5 
+Victoria_Rowell/8fHbVLxvVgc_0000003 831.8 836.9 

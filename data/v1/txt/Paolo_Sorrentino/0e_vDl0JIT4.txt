@@ -1,0 +1,10 @@
+POI: 			Paolo_Sorrentino 
+Youtube ID: 	0e_vDl0JIT4 
+Video length: 	343.6 sec 
+Set (V): 		dev 
+ 
+Paolo_Sorrentino/0e_vDl0JIT4_0000001 118.6 124.1 
+Paolo_Sorrentino/0e_vDl0JIT4_0000002 210.1 215.1 
+Paolo_Sorrentino/0e_vDl0JIT4_0000003 217.2 224.3 
+Paolo_Sorrentino/0e_vDl0JIT4_0000004 237.2 241.4 
+Paolo_Sorrentino/0e_vDl0JIT4_0000005 304.6 311.9 

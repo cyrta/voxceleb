@@ -1,0 +1,11 @@
+POI: 			Will_Mellor 
+Youtube ID: 	AiJinimEdKA 
+Video length: 	217.5 sec 
+Set (V): 		dev 
+ 
+Will_Mellor/AiJinimEdKA_0000001 30.7 49.4 
+Will_Mellor/AiJinimEdKA_0000002 60.0 76.2 
+Will_Mellor/AiJinimEdKA_0000003 104.6 111.0 
+Will_Mellor/AiJinimEdKA_0000004 119.2 125.6 
+Will_Mellor/AiJinimEdKA_0000005 135.6 146.8 
+Will_Mellor/AiJinimEdKA_0000006 162.7 167.1 

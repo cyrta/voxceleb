@@ -1,0 +1,9 @@
+POI: 			Lorde 
+Youtube ID: 	o_f4H3CSYWI 
+Video length: 	125.3 sec 
+Set (V): 		dev 
+ 
+Lorde/o_f4H3CSYWI_0000001 29.0 35.1 
+Lorde/o_f4H3CSYWI_0000002 82.0 87.3 
+Lorde/o_f4H3CSYWI_0000003 95.2 100.3 
+Lorde/o_f4H3CSYWI_0000004 115.8 119.9 

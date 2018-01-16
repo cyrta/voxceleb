@@ -1,0 +1,11 @@
+POI: 			Aamir_Khan 
+Youtube ID: 	A8SBCxYzJgs 
+Video length: 	490.5 sec 
+Set (V): 		dev 
+ 
+Aamir_Khan/A8SBCxYzJgs_0000001 180.6 184.7 
+Aamir_Khan/A8SBCxYzJgs_0000002 350.2 354.2 
+Aamir_Khan/A8SBCxYzJgs_0000003 365.4 371.2 
+Aamir_Khan/A8SBCxYzJgs_0000004 417.5 422.6 
+Aamir_Khan/A8SBCxYzJgs_0000005 429.8 436.1 
+Aamir_Khan/A8SBCxYzJgs_0000006 436.2 441.7 

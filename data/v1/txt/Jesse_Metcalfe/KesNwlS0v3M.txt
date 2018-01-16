@@ -1,0 +1,7 @@
+POI: 			Jesse_Metcalfe 
+Youtube ID: 	KesNwlS0v3M 
+Video length: 	381.0 sec 
+Set (V): 		dev 
+ 
+Jesse_Metcalfe/KesNwlS0v3M_0000001 30.8 36.2 
+Jesse_Metcalfe/KesNwlS0v3M_0000002 136.9 141.6 

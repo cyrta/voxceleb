@@ -1,0 +1,13 @@
+POI: 			Mia_Wasikowska 
+Youtube ID: 	1GJo0VxRXsE 
+Video length: 	224.4 sec 
+Set (V): 		dev 
+ 
+Mia_Wasikowska/1GJo0VxRXsE_0000001 60.1 83.6 
+Mia_Wasikowska/1GJo0VxRXsE_0000002 84.6 93.0 
+Mia_Wasikowska/1GJo0VxRXsE_0000003 93.6 107.8 
+Mia_Wasikowska/1GJo0VxRXsE_0000004 116.1 128.2 
+Mia_Wasikowska/1GJo0VxRXsE_0000005 128.7 148.9 
+Mia_Wasikowska/1GJo0VxRXsE_0000006 159.4 180.8 
+Mia_Wasikowska/1GJo0VxRXsE_0000007 182.0 188.6 
+Mia_Wasikowska/1GJo0VxRXsE_0000008 198.1 208.6 

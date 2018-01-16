@@ -1,0 +1,31 @@
+POI: 			Sam_Heughan 
+Youtube ID: 	g80aSmCz9Ag 
+Video length: 	1324.7 sec 
+Set (V): 		dev 
+ 
+Sam_Heughan/g80aSmCz9Ag_0000001 16.7 23.3 
+Sam_Heughan/g80aSmCz9Ag_0000002 44.7 51.0 
+Sam_Heughan/g80aSmCz9Ag_0000003 91.4 96.1 
+Sam_Heughan/g80aSmCz9Ag_0000004 113.6 120.3 
+Sam_Heughan/g80aSmCz9Ag_0000005 196.8 203.5 
+Sam_Heughan/g80aSmCz9Ag_0000006 316.5 321.0 
+Sam_Heughan/g80aSmCz9Ag_0000007 323.7 327.9 
+Sam_Heughan/g80aSmCz9Ag_0000008 380.8 385.0 
+Sam_Heughan/g80aSmCz9Ag_0000009 419.3 424.4 
+Sam_Heughan/g80aSmCz9Ag_0000010 458.1 465.2 
+Sam_Heughan/g80aSmCz9Ag_0000011 712.2 717.2 
+Sam_Heughan/g80aSmCz9Ag_0000012 718.5 728.4 
+Sam_Heughan/g80aSmCz9Ag_0000013 762.1 766.4 
+Sam_Heughan/g80aSmCz9Ag_0000014 766.8 772.8 
+Sam_Heughan/g80aSmCz9Ag_0000015 796.0 802.2 
+Sam_Heughan/g80aSmCz9Ag_0000016 803.0 807.8 
+Sam_Heughan/g80aSmCz9Ag_0000017 883.5 894.6 
+Sam_Heughan/g80aSmCz9Ag_0000018 922.9 928.9 
+Sam_Heughan/g80aSmCz9Ag_0000019 987.2 991.7 
+Sam_Heughan/g80aSmCz9Ag_0000020 1001.0 1006.9 
+Sam_Heughan/g80aSmCz9Ag_0000021 1007.0 1014.7 
+Sam_Heughan/g80aSmCz9Ag_0000022 1037.2 1046.8 
+Sam_Heughan/g80aSmCz9Ag_0000023 1084.5 1091.6 
+Sam_Heughan/g80aSmCz9Ag_0000024 1096.7 1104.5 
+Sam_Heughan/g80aSmCz9Ag_0000025 1114.4 1123.2 
+Sam_Heughan/g80aSmCz9Ag_0000026 1305.1 1311.9 

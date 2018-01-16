@@ -1,0 +1,11 @@
+POI: 			Rita_Ora 
+Youtube ID: 	p6xwhCREA94 
+Video length: 	259.0 sec 
+Set (V): 		dev 
+ 
+Rita_Ora/p6xwhCREA94_0000001 18.9 32.9 
+Rita_Ora/p6xwhCREA94_0000002 105.6 121.8 
+Rita_Ora/p6xwhCREA94_0000003 129.5 134.5 
+Rita_Ora/p6xwhCREA94_0000004 135.1 140.5 
+Rita_Ora/p6xwhCREA94_0000005 180.8 185.2 
+Rita_Ora/p6xwhCREA94_0000006 185.5 190.9 

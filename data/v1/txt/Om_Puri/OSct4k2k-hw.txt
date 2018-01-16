@@ -1,0 +1,8 @@
+POI: 			Om_Puri 
+Youtube ID: 	OSct4k2k-hw 
+Video length: 	226.8 sec 
+Set (V): 		dev 
+ 
+Om_Puri/OSct4k2k-hw_0000001 02.0 06.2 
+Om_Puri/OSct4k2k-hw_0000002 75.5 80.2 
+Om_Puri/OSct4k2k-hw_0000003 208.2 212.6 

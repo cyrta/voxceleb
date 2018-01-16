@@ -1,0 +1,9 @@
+POI: 			Brian_Blessed 
+Youtube ID: 	nq47W2bm5gg 
+Video length: 	206.2 sec 
+Set (V): 		dev 
+ 
+Brian_Blessed/nq47W2bm5gg_0000001 63.0 66.9 
+Brian_Blessed/nq47W2bm5gg_0000002 99.5 104.1 
+Brian_Blessed/nq47W2bm5gg_0000003 182.3 188.5 
+Brian_Blessed/nq47W2bm5gg_0000004 189.4 194.8 

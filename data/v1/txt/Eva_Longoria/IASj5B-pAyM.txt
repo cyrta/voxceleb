@@ -1,0 +1,16 @@
+POI: 			Eva_Longoria 
+Youtube ID: 	IASj5B-pAyM 
+Video length: 	428.8 sec 
+Set (V): 		test 
+ 
+Eva_Longoria/IASj5B-pAyM_0000001 10.6 17.5 
+Eva_Longoria/IASj5B-pAyM_0000002 23.3 31.5 
+Eva_Longoria/IASj5B-pAyM_0000003 76.5 97.1 
+Eva_Longoria/IASj5B-pAyM_0000004 115.1 126.3 
+Eva_Longoria/IASj5B-pAyM_0000005 131.0 142.4 
+Eva_Longoria/IASj5B-pAyM_0000006 171.2 180.1 
+Eva_Longoria/IASj5B-pAyM_0000007 216.6 226.0 
+Eva_Longoria/IASj5B-pAyM_0000008 257.9 262.8 
+Eva_Longoria/IASj5B-pAyM_0000009 272.9 279.3 
+Eva_Longoria/IASj5B-pAyM_0000010 285.3 291.3 
+Eva_Longoria/IASj5B-pAyM_0000011 301.4 311.2 

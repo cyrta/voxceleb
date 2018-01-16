@@ -1,0 +1,15 @@
+POI: 			Wentworth_Miller 
+Youtube ID: 	D08zR8-ufDk 
+Video length: 	572.1 sec 
+Set (V): 		dev 
+ 
+Wentworth_Miller/D08zR8-ufDk_0000001 183.8 204.3 
+Wentworth_Miller/D08zR8-ufDk_0000002 253.6 263.0 
+Wentworth_Miller/D08zR8-ufDk_0000003 301.5 308.4 
+Wentworth_Miller/D08zR8-ufDk_0000004 308.8 314.2 
+Wentworth_Miller/D08zR8-ufDk_0000005 348.8 380.8 
+Wentworth_Miller/D08zR8-ufDk_0000006 381.5 388.3 
+Wentworth_Miller/D08zR8-ufDk_0000007 417.4 428.0 
+Wentworth_Miller/D08zR8-ufDk_0000008 444.5 464.1 
+Wentworth_Miller/D08zR8-ufDk_0000009 479.6 497.4 
+Wentworth_Miller/D08zR8-ufDk_0000010 517.8 526.7 

@@ -1,0 +1,9 @@
+POI: 			Stana_Katic 
+Youtube ID: 	jvBQzuwjg9E 
+Video length: 	472.6 sec 
+Set (V): 		dev 
+ 
+Stana_Katic/jvBQzuwjg9E_0000001 188.0 201.3 
+Stana_Katic/jvBQzuwjg9E_0000002 202.4 214.0 
+Stana_Katic/jvBQzuwjg9E_0000003 282.0 290.0 
+Stana_Katic/jvBQzuwjg9E_0000004 327.6 331.8 

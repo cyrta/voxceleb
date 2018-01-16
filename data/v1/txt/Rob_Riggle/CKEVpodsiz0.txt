@@ -1,0 +1,7 @@
+POI: 			Rob_Riggle 
+Youtube ID: 	CKEVpodsiz0 
+Video length: 	117.5 sec 
+Set (V): 		dev 
+ 
+Rob_Riggle/CKEVpodsiz0_0000001 46.3 52.0 
+Rob_Riggle/CKEVpodsiz0_0000002 63.9 68.4 

@@ -1,0 +1,17 @@
+POI: 			Dakota_Fanning 
+Youtube ID: 	wi3RFDG57J4 
+Video length: 	257.2 sec 
+Set (V): 		dev 
+ 
+Dakota_Fanning/wi3RFDG57J4_0000001 71.5 75.8 
+Dakota_Fanning/wi3RFDG57J4_0000002 77.6 84.2 
+Dakota_Fanning/wi3RFDG57J4_0000003 86.4 95.3 
+Dakota_Fanning/wi3RFDG57J4_0000004 95.6 125.4 
+Dakota_Fanning/wi3RFDG57J4_0000005 125.8 130.2 
+Dakota_Fanning/wi3RFDG57J4_0000006 130.6 135.8 
+Dakota_Fanning/wi3RFDG57J4_0000007 150.0 179.1 
+Dakota_Fanning/wi3RFDG57J4_0000008 201.5 210.9 
+Dakota_Fanning/wi3RFDG57J4_0000009 211.7 220.3 
+Dakota_Fanning/wi3RFDG57J4_0000010 222.3 233.6 
+Dakota_Fanning/wi3RFDG57J4_0000011 234.7 242.6 
+Dakota_Fanning/wi3RFDG57J4_0000012 246.0 252.2 

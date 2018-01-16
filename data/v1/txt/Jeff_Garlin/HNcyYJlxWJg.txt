@@ -1,0 +1,10 @@
+POI: 			Jeff_Garlin 
+Youtube ID: 	HNcyYJlxWJg 
+Video length: 	192.3 sec 
+Set (V): 		dev 
+ 
+Jeff_Garlin/HNcyYJlxWJg_0000001 35.2 39.7 
+Jeff_Garlin/HNcyYJlxWJg_0000002 70.8 74.9 
+Jeff_Garlin/HNcyYJlxWJg_0000003 77.1 81.8 
+Jeff_Garlin/HNcyYJlxWJg_0000004 82.6 87.0 
+Jeff_Garlin/HNcyYJlxWJg_0000005 163.0 168.0 

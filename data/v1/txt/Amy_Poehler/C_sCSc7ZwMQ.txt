@@ -1,0 +1,8 @@
+POI: 			Amy_Poehler 
+Youtube ID: 	C_sCSc7ZwMQ 
+Video length: 	212.3 sec 
+Set (V): 		dev 
+ 
+Amy_Poehler/C_sCSc7ZwMQ_0000001 16.8 22.1 
+Amy_Poehler/C_sCSc7ZwMQ_0000002 112.5 121.8 
+Amy_Poehler/C_sCSc7ZwMQ_0000003 122.7 127.8 

@@ -1,0 +1,8 @@
+POI: 			Peter_Jacobson 
+Youtube ID: 	Zd4vsnFXEqk 
+Video length: 	199.8 sec 
+Set (V): 		dev 
+ 
+Peter_Jacobson/Zd4vsnFXEqk_0000001 17.0 21.2 
+Peter_Jacobson/Zd4vsnFXEqk_0000002 50.9 63.5 
+Peter_Jacobson/Zd4vsnFXEqk_0000003 116.0 138.6 

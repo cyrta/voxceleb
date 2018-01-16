@@ -1,0 +1,14 @@
+POI: 			Nicola_Peltz 
+Youtube ID: 	6tDo7JhRzJQ 
+Video length: 	499.1 sec 
+Set (V): 		dev 
+ 
+Nicola_Peltz/6tDo7JhRzJQ_0000001 68.8 84.5 
+Nicola_Peltz/6tDo7JhRzJQ_0000002 159.0 181.0 
+Nicola_Peltz/6tDo7JhRzJQ_0000003 212.4 219.6 
+Nicola_Peltz/6tDo7JhRzJQ_0000004 220.0 224.6 
+Nicola_Peltz/6tDo7JhRzJQ_0000005 273.5 282.7 
+Nicola_Peltz/6tDo7JhRzJQ_0000006 283.5 292.9 
+Nicola_Peltz/6tDo7JhRzJQ_0000007 330.1 338.2 
+Nicola_Peltz/6tDo7JhRzJQ_0000008 341.0 352.4 
+Nicola_Peltz/6tDo7JhRzJQ_0000009 354.7 361.0 

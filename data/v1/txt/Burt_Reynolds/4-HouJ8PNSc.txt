@@ -1,0 +1,9 @@
+POI: 			Burt_Reynolds 
+Youtube ID: 	4-HouJ8PNSc 
+Video length: 	746.3 sec 
+Set (V): 		dev 
+ 
+Burt_Reynolds/4-HouJ8PNSc_0000001 373.8 379.6 
+Burt_Reynolds/4-HouJ8PNSc_0000002 443.5 453.3 
+Burt_Reynolds/4-HouJ8PNSc_0000003 503.2 509.3 
+Burt_Reynolds/4-HouJ8PNSc_0000004 536.6 540.7 

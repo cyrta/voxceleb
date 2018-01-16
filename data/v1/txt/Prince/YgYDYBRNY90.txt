@@ -1,0 +1,9 @@
+POI: 			Prince 
+Youtube ID: 	YgYDYBRNY90 
+Video length: 	441.7 sec 
+Set (V): 		dev 
+ 
+Prince/YgYDYBRNY90_0000001 311.9 316.0 
+Prince/YgYDYBRNY90_0000002 344.5 349.1 
+Prince/YgYDYBRNY90_0000003 381.7 389.1 
+Prince/YgYDYBRNY90_0000004 405.4 411.8 

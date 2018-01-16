@@ -1,0 +1,11 @@
+POI: 			Miranda_Richardson 
+Youtube ID: 	iv1VRG04WB0 
+Video length: 	1054.3 sec 
+Set (V): 		dev 
+ 
+Miranda_Richardson/iv1VRG04WB0_0000001 230.7 234.6 
+Miranda_Richardson/iv1VRG04WB0_0000002 412.3 418.0 
+Miranda_Richardson/iv1VRG04WB0_0000003 421.3 426.9 
+Miranda_Richardson/iv1VRG04WB0_0000004 446.8 454.4 
+Miranda_Richardson/iv1VRG04WB0_0000005 881.4 886.0 
+Miranda_Richardson/iv1VRG04WB0_0000006 899.0 903.0 

@@ -1,0 +1,9 @@
+POI: 			Dave_Bautista 
+Youtube ID: 	jtRzXxrBzRU 
+Video length: 	306.6 sec 
+Set (V): 		dev 
+ 
+Dave_Bautista/jtRzXxrBzRU_0000001 30.4 35.6 
+Dave_Bautista/jtRzXxrBzRU_0000002 38.0 44.6 
+Dave_Bautista/jtRzXxrBzRU_0000003 45.0 49.9 
+Dave_Bautista/jtRzXxrBzRU_0000004 124.7 131.6 

@@ -1,0 +1,9 @@
+POI: 			Tatiana_Maslany 
+Youtube ID: 	sihrbjCiUOM 
+Video length: 	111.8 sec 
+Set (V): 		dev 
+ 
+Tatiana_Maslany/sihrbjCiUOM_0000001 23.8 28.1 
+Tatiana_Maslany/sihrbjCiUOM_0000002 50.8 54.8 
+Tatiana_Maslany/sihrbjCiUOM_0000003 93.0 101.6 
+Tatiana_Maslany/sihrbjCiUOM_0000004 104.2 109.7 

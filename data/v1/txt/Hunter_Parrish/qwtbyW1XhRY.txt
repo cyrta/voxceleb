@@ -1,0 +1,7 @@
+POI: 			Hunter_Parrish 
+Youtube ID: 	qwtbyW1XhRY 
+Video length: 	209.0 sec 
+Set (V): 		dev 
+ 
+Hunter_Parrish/qwtbyW1XhRY_0000001 125.7 131.4 
+Hunter_Parrish/qwtbyW1XhRY_0000002 157.4 167.0 

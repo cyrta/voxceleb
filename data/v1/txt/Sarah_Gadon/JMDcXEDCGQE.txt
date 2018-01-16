@@ -1,0 +1,9 @@
+POI: 			Sarah_Gadon 
+Youtube ID: 	JMDcXEDCGQE 
+Video length: 	116.2 sec 
+Set (V): 		dev 
+ 
+Sarah_Gadon/JMDcXEDCGQE_0000001 22.4 26.4 
+Sarah_Gadon/JMDcXEDCGQE_0000002 35.4 42.3 
+Sarah_Gadon/JMDcXEDCGQE_0000003 53.4 59.4 
+Sarah_Gadon/JMDcXEDCGQE_0000004 90.0 94.2 

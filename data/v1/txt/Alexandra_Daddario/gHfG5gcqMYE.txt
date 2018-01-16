@@ -1,0 +1,10 @@
+POI: 			Alexandra_Daddario 
+Youtube ID: 	gHfG5gcqMYE 
+Video length: 	179.7 sec 
+Set (V): 		dev 
+ 
+Alexandra_Daddario/gHfG5gcqMYE_0000001 52.6 67.0 
+Alexandra_Daddario/gHfG5gcqMYE_0000002 76.6 81.4 
+Alexandra_Daddario/gHfG5gcqMYE_0000003 94.3 100.3 
+Alexandra_Daddario/gHfG5gcqMYE_0000004 117.6 124.2 
+Alexandra_Daddario/gHfG5gcqMYE_0000005 137.8 143.8 

@@ -1,0 +1,11 @@
+POI: 			Joan_Rivers 
+Youtube ID: 	GmAsFIdLg9A 
+Video length: 	397.0 sec 
+Set (V): 		dev 
+ 
+Joan_Rivers/GmAsFIdLg9A_0000001 94.0 98.7 
+Joan_Rivers/GmAsFIdLg9A_0000002 133.3 139.6 
+Joan_Rivers/GmAsFIdLg9A_0000003 200.6 204.5 
+Joan_Rivers/GmAsFIdLg9A_0000004 299.0 306.6 
+Joan_Rivers/GmAsFIdLg9A_0000005 345.4 350.8 
+Joan_Rivers/GmAsFIdLg9A_0000006 362.4 368.3 

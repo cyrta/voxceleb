@@ -1,0 +1,10 @@
+POI: 			Santiago_Cabrera 
+Youtube ID: 	QKDg9j3KKXk 
+Video length: 	120.5 sec 
+Set (V): 		dev 
+ 
+Santiago_Cabrera/QKDg9j3KKXk_0000001 16.1 36.0 
+Santiago_Cabrera/QKDg9j3KKXk_0000002 48.9 58.2 
+Santiago_Cabrera/QKDg9j3KKXk_0000003 58.6 62.6 
+Santiago_Cabrera/QKDg9j3KKXk_0000004 82.7 87.3 
+Santiago_Cabrera/QKDg9j3KKXk_0000005 88.8 94.4 

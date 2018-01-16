@@ -1,0 +1,13 @@
+POI: 			Russell_Tovey 
+Youtube ID: 	HWPb7gHaBR4 
+Video length: 	158.2 sec 
+Set (V): 		dev 
+ 
+Russell_Tovey/HWPb7gHaBR4_0000001 22.5 30.1 
+Russell_Tovey/HWPb7gHaBR4_0000002 30.4 36.1 
+Russell_Tovey/HWPb7gHaBR4_0000003 36.2 42.6 
+Russell_Tovey/HWPb7gHaBR4_0000004 45.7 50.4 
+Russell_Tovey/HWPb7gHaBR4_0000005 64.2 77.8 
+Russell_Tovey/HWPb7gHaBR4_0000006 78.8 87.6 
+Russell_Tovey/HWPb7gHaBR4_0000007 93.7 105.6 
+Russell_Tovey/HWPb7gHaBR4_0000008 128.5 139.6 

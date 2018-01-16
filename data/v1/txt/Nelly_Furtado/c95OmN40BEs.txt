@@ -1,0 +1,11 @@
+POI: 			Nelly_Furtado 
+Youtube ID: 	c95OmN40BEs 
+Video length: 	140.4 sec 
+Set (V): 		dev 
+ 
+Nelly_Furtado/c95OmN40BEs_0000001 36.8 42.4 
+Nelly_Furtado/c95OmN40BEs_0000002 44.8 53.4 
+Nelly_Furtado/c95OmN40BEs_0000003 58.6 65.0 
+Nelly_Furtado/c95OmN40BEs_0000004 92.2 104.1 
+Nelly_Furtado/c95OmN40BEs_0000005 117.7 125.1 
+Nelly_Furtado/c95OmN40BEs_0000006 129.4 133.4 

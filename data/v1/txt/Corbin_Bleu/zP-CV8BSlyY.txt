@@ -1,0 +1,9 @@
+POI: 			Corbin_Bleu 
+Youtube ID: 	zP-CV8BSlyY 
+Video length: 	288.1 sec 
+Set (V): 		dev 
+ 
+Corbin_Bleu/zP-CV8BSlyY_0000001 38.8 43.2 
+Corbin_Bleu/zP-CV8BSlyY_0000002 121.1 126.5 
+Corbin_Bleu/zP-CV8BSlyY_0000003 129.2 133.4 
+Corbin_Bleu/zP-CV8BSlyY_0000004 135.7 139.7 

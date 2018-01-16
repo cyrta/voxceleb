@@ -1,0 +1,14 @@
+POI: 			Drake_Bell 
+Youtube ID: 	oiHBY7YUFYw 
+Video length: 	318.7 sec 
+Set (V): 		dev 
+ 
+Drake_Bell/oiHBY7YUFYw_0000001 18.0 30.6 
+Drake_Bell/oiHBY7YUFYw_0000002 39.9 44.0 
+Drake_Bell/oiHBY7YUFYw_0000003 46.6 52.6 
+Drake_Bell/oiHBY7YUFYw_0000004 61.3 76.6 
+Drake_Bell/oiHBY7YUFYw_0000005 122.8 128.2 
+Drake_Bell/oiHBY7YUFYw_0000006 197.4 201.4 
+Drake_Bell/oiHBY7YUFYw_0000007 217.6 222.2 
+Drake_Bell/oiHBY7YUFYw_0000008 253.4 264.2 
+Drake_Bell/oiHBY7YUFYw_0000009 293.0 299.1 

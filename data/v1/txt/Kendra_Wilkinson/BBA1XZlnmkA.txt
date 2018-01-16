@@ -1,0 +1,19 @@
+POI: 			Kendra_Wilkinson 
+Youtube ID: 	BBA1XZlnmkA 
+Video length: 	220.5 sec 
+Set (V): 		dev 
+ 
+Kendra_Wilkinson/BBA1XZlnmkA_0000001 00.9 04.9 
+Kendra_Wilkinson/BBA1XZlnmkA_0000002 10.0 16.0 
+Kendra_Wilkinson/BBA1XZlnmkA_0000003 17.3 25.5 
+Kendra_Wilkinson/BBA1XZlnmkA_0000004 55.3 59.5 
+Kendra_Wilkinson/BBA1XZlnmkA_0000005 60.3 68.2 
+Kendra_Wilkinson/BBA1XZlnmkA_0000006 78.3 83.1 
+Kendra_Wilkinson/BBA1XZlnmkA_0000007 101.1 106.2 
+Kendra_Wilkinson/BBA1XZlnmkA_0000008 106.9 113.7 
+Kendra_Wilkinson/BBA1XZlnmkA_0000009 146.9 152.1 
+Kendra_Wilkinson/BBA1XZlnmkA_0000010 160.9 169.2 
+Kendra_Wilkinson/BBA1XZlnmkA_0000011 171.3 180.0 
+Kendra_Wilkinson/BBA1XZlnmkA_0000012 181.8 188.4 
+Kendra_Wilkinson/BBA1XZlnmkA_0000013 190.5 195.8 
+Kendra_Wilkinson/BBA1XZlnmkA_0000014 210.3 214.8 

@@ -1,0 +1,12 @@
+POI: 			Tom_Arnold 
+Youtube ID: 	JL5VaNbHMYc 
+Video length: 	601.0 sec 
+Set (V): 		dev 
+ 
+Tom_Arnold/JL5VaNbHMYc_0000001 05.6 09.7 
+Tom_Arnold/JL5VaNbHMYc_0000002 33.1 37.7 
+Tom_Arnold/JL5VaNbHMYc_0000003 49.2 53.4 
+Tom_Arnold/JL5VaNbHMYc_0000004 228.4 232.4 
+Tom_Arnold/JL5VaNbHMYc_0000005 396.0 405.1 
+Tom_Arnold/JL5VaNbHMYc_0000006 477.0 481.3 
+Tom_Arnold/JL5VaNbHMYc_0000007 484.3 489.8 

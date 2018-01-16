@@ -1,0 +1,9 @@
+POI: 			Rob_Corddry 
+Youtube ID: 	AWzJXB8M-Go 
+Video length: 	359.8 sec 
+Set (V): 		dev 
+ 
+Rob_Corddry/AWzJXB8M-Go_0000001 142.5 148.0 
+Rob_Corddry/AWzJXB8M-Go_0000002 161.5 169.3 
+Rob_Corddry/AWzJXB8M-Go_0000003 234.8 239.0 
+Rob_Corddry/AWzJXB8M-Go_0000004 329.4 352.4 

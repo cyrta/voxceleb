@@ -1,0 +1,15 @@
+POI: 			Sharni_Vinson 
+Youtube ID: 	KZb1UVnaDfI 
+Video length: 	187.0 sec 
+Set (V): 		dev 
+ 
+Sharni_Vinson/KZb1UVnaDfI_0000001 07.5 18.8 
+Sharni_Vinson/KZb1UVnaDfI_0000002 27.1 31.6 
+Sharni_Vinson/KZb1UVnaDfI_0000003 34.4 38.8 
+Sharni_Vinson/KZb1UVnaDfI_0000004 39.6 50.4 
+Sharni_Vinson/KZb1UVnaDfI_0000005 56.4 68.2 
+Sharni_Vinson/KZb1UVnaDfI_0000006 121.3 125.9 
+Sharni_Vinson/KZb1UVnaDfI_0000007 136.0 152.3 
+Sharni_Vinson/KZb1UVnaDfI_0000008 154.5 159.4 
+Sharni_Vinson/KZb1UVnaDfI_0000009 160.2 175.3 
+Sharni_Vinson/KZb1UVnaDfI_0000010 176.4 181.3 

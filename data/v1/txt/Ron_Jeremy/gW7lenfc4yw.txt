@@ -1,0 +1,11 @@
+POI: 			Ron_Jeremy 
+Youtube ID: 	gW7lenfc4yw 
+Video length: 	130.1 sec 
+Set (V): 		dev 
+ 
+Ron_Jeremy/gW7lenfc4yw_0000001 19.0 25.8 
+Ron_Jeremy/gW7lenfc4yw_0000002 36.8 40.8 
+Ron_Jeremy/gW7lenfc4yw_0000003 44.2 58.6 
+Ron_Jeremy/gW7lenfc4yw_0000004 60.2 79.0 
+Ron_Jeremy/gW7lenfc4yw_0000005 60.8 78.0 
+Ron_Jeremy/gW7lenfc4yw_0000006 81.3 88.1 

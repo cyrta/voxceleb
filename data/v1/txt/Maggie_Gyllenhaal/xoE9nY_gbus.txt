@@ -1,0 +1,11 @@
+POI: 			Maggie_Gyllenhaal 
+Youtube ID: 	xoE9nY_gbus 
+Video length: 	201.1 sec 
+Set (V): 		dev 
+ 
+Maggie_Gyllenhaal/xoE9nY_gbus_0000001 22.6 26.7 
+Maggie_Gyllenhaal/xoE9nY_gbus_0000002 28.1 39.8 
+Maggie_Gyllenhaal/xoE9nY_gbus_0000003 46.3 51.8 
+Maggie_Gyllenhaal/xoE9nY_gbus_0000004 107.1 111.6 
+Maggie_Gyllenhaal/xoE9nY_gbus_0000005 161.8 170.2 
+Maggie_Gyllenhaal/xoE9nY_gbus_0000006 171.3 176.0 

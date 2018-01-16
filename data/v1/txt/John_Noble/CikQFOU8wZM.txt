@@ -1,0 +1,10 @@
+POI: 			John_Noble 
+Youtube ID: 	CikQFOU8wZM 
+Video length: 	145.6 sec 
+Set (V): 		dev 
+ 
+John_Noble/CikQFOU8wZM_0000001 22.0 26.0 
+John_Noble/CikQFOU8wZM_0000002 28.8 33.8 
+John_Noble/CikQFOU8wZM_0000003 69.4 75.2 
+John_Noble/CikQFOU8wZM_0000004 109.6 116.0 
+John_Noble/CikQFOU8wZM_0000005 128.4 132.6 

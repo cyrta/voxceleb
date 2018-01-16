@@ -1,0 +1,7 @@
+POI: 			T.J._Miller 
+Youtube ID: 	FwR1K1rL3QI 
+Video length: 	389.3 sec 
+Set (V): 		dev 
+ 
+T.J._Miller/FwR1K1rL3QI_0000001 209.6 213.7 
+T.J._Miller/FwR1K1rL3QI_0000002 214.7 220.0 

@@ -1,0 +1,9 @@
+POI: 			Deidre_Hall 
+Youtube ID: 	aTfqksNSISc 
+Video length: 	359.3 sec 
+Set (V): 		dev 
+ 
+Deidre_Hall/aTfqksNSISc_0000001 105.8 109.9 
+Deidre_Hall/aTfqksNSISc_0000002 320.0 331.3 
+Deidre_Hall/aTfqksNSISc_0000003 335.7 340.4 
+Deidre_Hall/aTfqksNSISc_0000004 340.6 346.1 

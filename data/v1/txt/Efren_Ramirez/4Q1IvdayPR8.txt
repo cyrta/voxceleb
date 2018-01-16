@@ -1,0 +1,24 @@
+POI: 			Efren_Ramirez 
+Youtube ID: 	4Q1IvdayPR8 
+Video length: 	329.7 sec 
+Set (V): 		test 
+ 
+Efren_Ramirez/4Q1IvdayPR8_0000001 32.0 38.3 
+Efren_Ramirez/4Q1IvdayPR8_0000002 42.6 46.8 
+Efren_Ramirez/4Q1IvdayPR8_0000003 47.3 60.0 
+Efren_Ramirez/4Q1IvdayPR8_0000004 67.4 72.7 
+Efren_Ramirez/4Q1IvdayPR8_0000005 77.2 84.8 
+Efren_Ramirez/4Q1IvdayPR8_0000006 86.0 91.7 
+Efren_Ramirez/4Q1IvdayPR8_0000007 96.9 105.3 
+Efren_Ramirez/4Q1IvdayPR8_0000008 144.1 169.4 
+Efren_Ramirez/4Q1IvdayPR8_0000009 182.3 192.0 
+Efren_Ramirez/4Q1IvdayPR8_0000010 192.5 198.0 
+Efren_Ramirez/4Q1IvdayPR8_0000011 206.4 211.6 
+Efren_Ramirez/4Q1IvdayPR8_0000012 226.1 232.9 
+Efren_Ramirez/4Q1IvdayPR8_0000013 233.5 242.2 
+Efren_Ramirez/4Q1IvdayPR8_0000014 259.4 264.0 
+Efren_Ramirez/4Q1IvdayPR8_0000015 280.9 285.3 
+Efren_Ramirez/4Q1IvdayPR8_0000016 290.6 297.7 
+Efren_Ramirez/4Q1IvdayPR8_0000017 293.6 297.7 
+Efren_Ramirez/4Q1IvdayPR8_0000018 302.8 308.6 
+Efren_Ramirez/4Q1IvdayPR8_0000019 312.9 318.1 

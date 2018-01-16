@@ -1,0 +1,23 @@
+POI: 			Guy_Pearce 
+Youtube ID: 	FSYBIpxVoaQ 
+Video length: 	374.8 sec 
+Set (V): 		dev 
+ 
+Guy_Pearce/FSYBIpxVoaQ_0000001 07.6 13.4 
+Guy_Pearce/FSYBIpxVoaQ_0000002 18.1 22.8 
+Guy_Pearce/FSYBIpxVoaQ_0000003 25.9 30.4 
+Guy_Pearce/FSYBIpxVoaQ_0000004 33.1 37.3 
+Guy_Pearce/FSYBIpxVoaQ_0000005 59.6 64.4 
+Guy_Pearce/FSYBIpxVoaQ_0000006 123.2 129.2 
+Guy_Pearce/FSYBIpxVoaQ_0000007 132.4 138.1 
+Guy_Pearce/FSYBIpxVoaQ_0000008 149.0 154.6 
+Guy_Pearce/FSYBIpxVoaQ_0000009 158.6 168.8 
+Guy_Pearce/FSYBIpxVoaQ_0000010 183.6 187.7 
+Guy_Pearce/FSYBIpxVoaQ_0000011 192.8 196.8 
+Guy_Pearce/FSYBIpxVoaQ_0000012 200.0 205.2 
+Guy_Pearce/FSYBIpxVoaQ_0000013 221.7 230.1 
+Guy_Pearce/FSYBIpxVoaQ_0000014 262.9 267.6 
+Guy_Pearce/FSYBIpxVoaQ_0000015 268.0 274.0 
+Guy_Pearce/FSYBIpxVoaQ_0000016 280.5 284.8 
+Guy_Pearce/FSYBIpxVoaQ_0000017 315.6 323.2 
+Guy_Pearce/FSYBIpxVoaQ_0000018 332.0 344.2 

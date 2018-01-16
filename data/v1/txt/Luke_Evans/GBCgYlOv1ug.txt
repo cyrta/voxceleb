@@ -1,0 +1,23 @@
+POI: 			Luke_Evans 
+Youtube ID: 	GBCgYlOv1ug 
+Video length: 	2136.2 sec 
+Set (V): 		dev 
+ 
+Luke_Evans/GBCgYlOv1ug_0000001 395.7 400.2 
+Luke_Evans/GBCgYlOv1ug_0000002 472.8 480.9 
+Luke_Evans/GBCgYlOv1ug_0000003 552.6 557.2 
+Luke_Evans/GBCgYlOv1ug_0000004 558.6 571.7 
+Luke_Evans/GBCgYlOv1ug_0000005 583.2 594.2 
+Luke_Evans/GBCgYlOv1ug_0000006 582.0 596.6 
+Luke_Evans/GBCgYlOv1ug_0000007 732.2 747.4 
+Luke_Evans/GBCgYlOv1ug_0000008 749.7 755.1 
+Luke_Evans/GBCgYlOv1ug_0000009 757.6 763.3 
+Luke_Evans/GBCgYlOv1ug_0000010 1036.1 1040.6 
+Luke_Evans/GBCgYlOv1ug_0000011 1162.0 1172.2 
+Luke_Evans/GBCgYlOv1ug_0000012 1174.0 1179.9 
+Luke_Evans/GBCgYlOv1ug_0000013 1180.3 1186.2 
+Luke_Evans/GBCgYlOv1ug_0000014 1188.2 1196.0 
+Luke_Evans/GBCgYlOv1ug_0000015 1199.5 1203.6 
+Luke_Evans/GBCgYlOv1ug_0000016 1577.4 1582.4 
+Luke_Evans/GBCgYlOv1ug_0000017 1849.0 1856.6 
+Luke_Evans/GBCgYlOv1ug_0000018 1857.6 1863.2 

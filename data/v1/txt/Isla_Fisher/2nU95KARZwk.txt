@@ -1,0 +1,8 @@
+POI: 			Isla_Fisher 
+Youtube ID: 	2nU95KARZwk 
+Video length: 	75.5 sec 
+Set (V): 		dev 
+ 
+Isla_Fisher/2nU95KARZwk_0000001 07.9 21.8 
+Isla_Fisher/2nU95KARZwk_0000002 30.6 44.8 
+Isla_Fisher/2nU95KARZwk_0000003 50.5 60.0 

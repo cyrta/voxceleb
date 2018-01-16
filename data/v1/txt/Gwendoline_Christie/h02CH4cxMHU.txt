@@ -1,0 +1,16 @@
+POI: 			Gwendoline_Christie 
+Youtube ID: 	h02CH4cxMHU 
+Video length: 	248.9 sec 
+Set (V): 		dev 
+ 
+Gwendoline_Christie/h02CH4cxMHU_0000001 07.8 19.0 
+Gwendoline_Christie/h02CH4cxMHU_0000002 23.4 31.6 
+Gwendoline_Christie/h02CH4cxMHU_0000003 42.9 46.9 
+Gwendoline_Christie/h02CH4cxMHU_0000004 61.6 72.4 
+Gwendoline_Christie/h02CH4cxMHU_0000005 77.1 82.8 
+Gwendoline_Christie/h02CH4cxMHU_0000006 83.6 95.9 
+Gwendoline_Christie/h02CH4cxMHU_0000007 97.7 146.0 
+Gwendoline_Christie/h02CH4cxMHU_0000008 205.5 217.0 
+Gwendoline_Christie/h02CH4cxMHU_0000009 219.0 229.3 
+Gwendoline_Christie/h02CH4cxMHU_0000010 230.0 238.6 
+Gwendoline_Christie/h02CH4cxMHU_0000011 242.1 247.3 

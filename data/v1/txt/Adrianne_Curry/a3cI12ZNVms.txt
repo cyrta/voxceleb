@@ -1,0 +1,10 @@
+POI: 			Adrianne_Curry 
+Youtube ID: 	a3cI12ZNVms 
+Video length: 	190.4 sec 
+Set (V): 		dev 
+ 
+Adrianne_Curry/a3cI12ZNVms_0000001 84.8 98.3 
+Adrianne_Curry/a3cI12ZNVms_0000002 105.2 122.8 
+Adrianne_Curry/a3cI12ZNVms_0000003 125.0 133.0 
+Adrianne_Curry/a3cI12ZNVms_0000004 137.2 142.4 
+Adrianne_Curry/a3cI12ZNVms_0000005 142.8 158.2 

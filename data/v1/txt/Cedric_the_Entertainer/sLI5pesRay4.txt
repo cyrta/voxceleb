@@ -1,0 +1,9 @@
+POI: 			Cedric_the_Entertainer 
+Youtube ID: 	sLI5pesRay4 
+Video length: 	225.4 sec 
+Set (V): 		dev 
+ 
+Cedric_the_Entertainer/sLI5pesRay4_0000001 14.6 18.6 
+Cedric_the_Entertainer/sLI5pesRay4_0000002 26.6 32.2 
+Cedric_the_Entertainer/sLI5pesRay4_0000003 71.9 77.1 
+Cedric_the_Entertainer/sLI5pesRay4_0000004 145.0 151.1 

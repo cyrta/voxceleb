@@ -1,0 +1,15 @@
+POI: 			Peter_Berg 
+Youtube ID: 	2_DRi3kv8GU 
+Video length: 	321.0 sec 
+Set (V): 		dev 
+ 
+Peter_Berg/2_DRi3kv8GU_0000001 30.1 36.8 
+Peter_Berg/2_DRi3kv8GU_0000002 57.2 70.6 
+Peter_Berg/2_DRi3kv8GU_0000003 97.2 101.7 
+Peter_Berg/2_DRi3kv8GU_0000004 120.9 127.4 
+Peter_Berg/2_DRi3kv8GU_0000005 131.4 141.4 
+Peter_Berg/2_DRi3kv8GU_0000006 205.0 211.3 
+Peter_Berg/2_DRi3kv8GU_0000007 221.8 228.6 
+Peter_Berg/2_DRi3kv8GU_0000008 232.8 240.4 
+Peter_Berg/2_DRi3kv8GU_0000009 242.8 258.2 
+Peter_Berg/2_DRi3kv8GU_0000010 266.5 280.5 

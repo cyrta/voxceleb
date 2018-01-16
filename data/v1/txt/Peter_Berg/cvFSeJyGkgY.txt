@@ -1,0 +1,8 @@
+POI: 			Peter_Berg 
+Youtube ID: 	cvFSeJyGkgY 
+Video length: 	223.2 sec 
+Set (V): 		dev 
+ 
+Peter_Berg/cvFSeJyGkgY_0000001 93.1 97.8 
+Peter_Berg/cvFSeJyGkgY_0000002 100.9 106.7 
+Peter_Berg/cvFSeJyGkgY_0000003 111.4 115.7 

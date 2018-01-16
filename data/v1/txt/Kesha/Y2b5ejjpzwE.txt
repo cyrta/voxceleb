@@ -1,0 +1,9 @@
+POI: 			Kesha 
+Youtube ID: 	Y2b5ejjpzwE 
+Video length: 	444.5 sec 
+Set (V): 		dev 
+ 
+Kesha/Y2b5ejjpzwE_0000001 56.9 62.2 
+Kesha/Y2b5ejjpzwE_0000002 90.7 96.7 
+Kesha/Y2b5ejjpzwE_0000003 140.6 146.0 
+Kesha/Y2b5ejjpzwE_0000004 395.4 408.9 

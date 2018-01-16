@@ -1,0 +1,11 @@
+POI: 			Antonio_Cupo 
+Youtube ID: 	zzee_m1OP_s 
+Video length: 	144.6 sec 
+Set (V): 		dev 
+ 
+Antonio_Cupo/zzee_m1OP_s_0000001 34.2 40.0 
+Antonio_Cupo/zzee_m1OP_s_0000002 65.1 70.4 
+Antonio_Cupo/zzee_m1OP_s_0000003 75.8 83.8 
+Antonio_Cupo/zzee_m1OP_s_0000004 91.8 99.1 
+Antonio_Cupo/zzee_m1OP_s_0000005 112.6 117.3 
+Antonio_Cupo/zzee_m1OP_s_0000006 118.1 124.9 

@@ -1,0 +1,12 @@
+POI: 			Anton_Yelchin 
+Youtube ID: 	VlzO7Uzdu80 
+Video length: 	1020.3 sec 
+Set (V): 		dev 
+ 
+Anton_Yelchin/VlzO7Uzdu80_0000001 214.8 219.5 
+Anton_Yelchin/VlzO7Uzdu80_0000002 565.6 571.1 
+Anton_Yelchin/VlzO7Uzdu80_0000003 892.6 901.1 
+Anton_Yelchin/VlzO7Uzdu80_0000004 915.4 926.9 
+Anton_Yelchin/VlzO7Uzdu80_0000005 931.6 941.0 
+Anton_Yelchin/VlzO7Uzdu80_0000006 956.5 966.8 
+Anton_Yelchin/VlzO7Uzdu80_0000007 967.2 977.3 

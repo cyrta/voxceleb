@@ -1,0 +1,8 @@
+POI: 			Jet_Li 
+Youtube ID: 	dYtbNem-D6M 
+Video length: 	683.7 sec 
+Set (V): 		dev 
+ 
+Jet_Li/dYtbNem-D6M_0000001 98.0 102.2 
+Jet_Li/dYtbNem-D6M_0000002 339.4 346.2 
+Jet_Li/dYtbNem-D6M_0000003 373.9 378.5 

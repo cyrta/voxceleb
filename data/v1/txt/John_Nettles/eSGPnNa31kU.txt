@@ -1,0 +1,17 @@
+POI: 			John_Nettles 
+Youtube ID: 	eSGPnNa31kU 
+Video length: 	405.9 sec 
+Set (V): 		dev 
+ 
+John_Nettles/eSGPnNa31kU_0000001 92.0 108.3 
+John_Nettles/eSGPnNa31kU_0000002 148.3 156.2 
+John_Nettles/eSGPnNa31kU_0000003 159.2 172.5 
+John_Nettles/eSGPnNa31kU_0000004 176.3 185.8 
+John_Nettles/eSGPnNa31kU_0000005 219.4 224.0 
+John_Nettles/eSGPnNa31kU_0000006 249.3 253.9 
+John_Nettles/eSGPnNa31kU_0000007 254.6 260.4 
+John_Nettles/eSGPnNa31kU_0000008 290.3 300.5 
+John_Nettles/eSGPnNa31kU_0000009 305.0 309.8 
+John_Nettles/eSGPnNa31kU_0000010 321.2 329.7 
+John_Nettles/eSGPnNa31kU_0000011 378.5 384.3 
+John_Nettles/eSGPnNa31kU_0000012 386.6 393.3 

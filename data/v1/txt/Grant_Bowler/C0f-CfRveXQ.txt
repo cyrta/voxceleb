@@ -1,0 +1,7 @@
+POI: 			Grant_Bowler 
+Youtube ID: 	C0f-CfRveXQ 
+Video length: 	115.8 sec 
+Set (V): 		dev 
+ 
+Grant_Bowler/C0f-CfRveXQ_0000001 47.8 52.1 
+Grant_Bowler/C0f-CfRveXQ_0000002 89.5 94.4 

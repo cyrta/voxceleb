@@ -1,0 +1,8 @@
+POI: 			Seth_Meyers 
+Youtube ID: 	oOOKU-WSmKk 
+Video length: 	363.3 sec 
+Set (V): 		dev 
+ 
+Seth_Meyers/oOOKU-WSmKk_0000001 40.8 45.4 
+Seth_Meyers/oOOKU-WSmKk_0000002 93.4 98.0 
+Seth_Meyers/oOOKU-WSmKk_0000003 155.8 160.6 

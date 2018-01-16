@@ -1,0 +1,14 @@
+POI: 			Jessica_De_Gouw 
+Youtube ID: 	oRqD5ScWqkA 
+Video length: 	812.3 sec 
+Set (V): 		dev 
+ 
+Jessica_De_Gouw/oRqD5ScWqkA_0000001 668.8 679.3 
+Jessica_De_Gouw/oRqD5ScWqkA_0000002 679.5 697.5 
+Jessica_De_Gouw/oRqD5ScWqkA_0000003 706.4 720.1 
+Jessica_De_Gouw/oRqD5ScWqkA_0000004 720.3 738.8 
+Jessica_De_Gouw/oRqD5ScWqkA_0000005 739.0 744.5 
+Jessica_De_Gouw/oRqD5ScWqkA_0000006 746.6 752.7 
+Jessica_De_Gouw/oRqD5ScWqkA_0000007 753.2 759.4 
+Jessica_De_Gouw/oRqD5ScWqkA_0000008 767.4 783.5 
+Jessica_De_Gouw/oRqD5ScWqkA_0000009 786.4 806.2 

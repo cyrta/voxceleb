@@ -1,0 +1,12 @@
+POI: 			Kevin_McHale 
+Youtube ID: 	joz9ff0mGOw 
+Video length: 	164.6 sec 
+Set (V): 		dev 
+ 
+Kevin_McHale/joz9ff0mGOw_0000001 19.0 24.0 
+Kevin_McHale/joz9ff0mGOw_0000002 31.2 35.2 
+Kevin_McHale/joz9ff0mGOw_0000003 53.8 62.9 
+Kevin_McHale/joz9ff0mGOw_0000004 63.8 72.8 
+Kevin_McHale/joz9ff0mGOw_0000005 101.8 111.0 
+Kevin_McHale/joz9ff0mGOw_0000006 113.2 118.3 
+Kevin_McHale/joz9ff0mGOw_0000007 125.4 132.0 

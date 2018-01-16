@@ -1,0 +1,11 @@
+POI: 			Della_Reese 
+Youtube ID: 	RGcveWKWrPI 
+Video length: 	96.0 sec 
+Set (V): 		dev 
+ 
+Della_Reese/RGcveWKWrPI_0000001 21.4 26.6 
+Della_Reese/RGcveWKWrPI_0000002 28.4 36.2 
+Della_Reese/RGcveWKWrPI_0000003 43.4 48.1 
+Della_Reese/RGcveWKWrPI_0000004 58.3 66.1 
+Della_Reese/RGcveWKWrPI_0000005 66.6 71.5 
+Della_Reese/RGcveWKWrPI_0000006 78.6 86.2 

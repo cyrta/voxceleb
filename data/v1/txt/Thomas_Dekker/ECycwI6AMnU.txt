@@ -1,0 +1,9 @@
+POI: 			Thomas_Dekker 
+Youtube ID: 	ECycwI6AMnU 
+Video length: 	226.8 sec 
+Set (V): 		dev 
+ 
+Thomas_Dekker/ECycwI6AMnU_0000001 57.7 64.0 
+Thomas_Dekker/ECycwI6AMnU_0000002 68.5 76.1 
+Thomas_Dekker/ECycwI6AMnU_0000003 91.4 105.5 
+Thomas_Dekker/ECycwI6AMnU_0000004 196.2 209.8 

@@ -1,0 +1,8 @@
+POI: 			Evanna_Lynch 
+Youtube ID: 	sGqnn4WpQCI 
+Video length: 	225.1 sec 
+Set (V): 		test 
+ 
+Evanna_Lynch/sGqnn4WpQCI_0000001 29.0 33.6 
+Evanna_Lynch/sGqnn4WpQCI_0000002 38.6 52.1 
+Evanna_Lynch/sGqnn4WpQCI_0000003 55.3 61.8 

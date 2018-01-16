@@ -1,0 +1,10 @@
+POI: 			Freida_Pinto 
+Youtube ID: 	Q7_tcoLIaMk 
+Video length: 	231.1 sec 
+Set (V): 		dev 
+ 
+Freida_Pinto/Q7_tcoLIaMk_0000001 47.7 53.3 
+Freida_Pinto/Q7_tcoLIaMk_0000002 131.8 143.0 
+Freida_Pinto/Q7_tcoLIaMk_0000003 144.0 155.7 
+Freida_Pinto/Q7_tcoLIaMk_0000004 159.5 170.2 
+Freida_Pinto/Q7_tcoLIaMk_0000005 177.3 181.4 

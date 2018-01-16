@@ -1,0 +1,16 @@
+POI: 			Ben_McKenzie 
+Youtube ID: 	H2kFcz7L_Q0 
+Video length: 	198.1 sec 
+Set (V): 		dev 
+ 
+Ben_McKenzie/H2kFcz7L_Q0_0000001 19.0 33.8 
+Ben_McKenzie/H2kFcz7L_Q0_0000002 37.3 41.9 
+Ben_McKenzie/H2kFcz7L_Q0_0000003 46.6 53.4 
+Ben_McKenzie/H2kFcz7L_Q0_0000004 48.9 54.6 
+Ben_McKenzie/H2kFcz7L_Q0_0000005 58.0 68.7 
+Ben_McKenzie/H2kFcz7L_Q0_0000006 90.0 98.6 
+Ben_McKenzie/H2kFcz7L_Q0_0000007 99.2 105.2 
+Ben_McKenzie/H2kFcz7L_Q0_0000008 120.3 124.3 
+Ben_McKenzie/H2kFcz7L_Q0_0000009 128.4 135.9 
+Ben_McKenzie/H2kFcz7L_Q0_0000010 140.1 144.8 
+Ben_McKenzie/H2kFcz7L_Q0_0000011 146.0 151.4 

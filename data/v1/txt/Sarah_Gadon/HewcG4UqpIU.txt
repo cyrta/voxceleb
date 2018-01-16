@@ -1,0 +1,14 @@
+POI: 			Sarah_Gadon 
+Youtube ID: 	HewcG4UqpIU 
+Video length: 	216.8 sec 
+Set (V): 		dev 
+ 
+Sarah_Gadon/HewcG4UqpIU_0000001 17.5 25.1 
+Sarah_Gadon/HewcG4UqpIU_0000002 33.2 47.0 
+Sarah_Gadon/HewcG4UqpIU_0000003 47.6 61.0 
+Sarah_Gadon/HewcG4UqpIU_0000004 61.3 72.8 
+Sarah_Gadon/HewcG4UqpIU_0000005 80.8 115.7 
+Sarah_Gadon/HewcG4UqpIU_0000006 120.3 136.2 
+Sarah_Gadon/HewcG4UqpIU_0000007 147.2 177.4 
+Sarah_Gadon/HewcG4UqpIU_0000008 184.6 202.8 
+Sarah_Gadon/HewcG4UqpIU_0000009 203.6 208.1 

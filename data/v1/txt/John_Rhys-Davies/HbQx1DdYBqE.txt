@@ -1,0 +1,8 @@
+POI: 			John_Rhys-Davies 
+Youtube ID: 	HbQx1DdYBqE 
+Video length: 	189.4 sec 
+Set (V): 		dev 
+ 
+John_Rhys-Davies/HbQx1DdYBqE_0000001 34.4 40.4 
+John_Rhys-Davies/HbQx1DdYBqE_0000002 44.8 48.8 
+John_Rhys-Davies/HbQx1DdYBqE_0000003 92.0 96.4 

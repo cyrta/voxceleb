@@ -1,0 +1,7 @@
+POI: 			David_Koechner 
+Youtube ID: 	NxB-_DrYL0I 
+Video length: 	178.4 sec 
+Set (V): 		dev 
+ 
+David_Koechner/NxB-_DrYL0I_0000001 67.3 71.3 
+David_Koechner/NxB-_DrYL0I_0000002 71.9 76.4 

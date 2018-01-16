@@ -1,0 +1,9 @@
+POI: 			Shahid_Kapoor 
+Youtube ID: 	mm4AON-l1F4 
+Video length: 	111.0 sec 
+Set (V): 		dev 
+ 
+Shahid_Kapoor/mm4AON-l1F4_0000001 19.8 26.4 
+Shahid_Kapoor/mm4AON-l1F4_0000002 29.6 34.8 
+Shahid_Kapoor/mm4AON-l1F4_0000003 77.2 84.5 
+Shahid_Kapoor/mm4AON-l1F4_0000004 87.9 94.3 

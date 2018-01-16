@@ -1,0 +1,16 @@
+POI: 			Darren_Criss 
+Youtube ID: 	1N4FDDkvgK8 
+Video length: 	507.3 sec 
+Set (V): 		dev 
+ 
+Darren_Criss/1N4FDDkvgK8_0000001 13.5 22.4 
+Darren_Criss/1N4FDDkvgK8_0000002 32.5 39.8 
+Darren_Criss/1N4FDDkvgK8_0000003 97.5 106.3 
+Darren_Criss/1N4FDDkvgK8_0000004 154.0 161.0 
+Darren_Criss/1N4FDDkvgK8_0000005 170.6 175.6 
+Darren_Criss/1N4FDDkvgK8_0000006 176.2 180.2 
+Darren_Criss/1N4FDDkvgK8_0000007 210.6 225.8 
+Darren_Criss/1N4FDDkvgK8_0000008 228.1 234.4 
+Darren_Criss/1N4FDDkvgK8_0000009 273.2 287.4 
+Darren_Criss/1N4FDDkvgK8_0000010 295.8 311.5 
+Darren_Criss/1N4FDDkvgK8_0000011 363.8 370.9 

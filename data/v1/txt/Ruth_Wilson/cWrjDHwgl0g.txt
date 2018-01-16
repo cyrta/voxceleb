@@ -1,0 +1,7 @@
+POI: 			Ruth_Wilson 
+Youtube ID: 	cWrjDHwgl0g 
+Video length: 	226.8 sec 
+Set (V): 		dev 
+ 
+Ruth_Wilson/cWrjDHwgl0g_0000001 131.4 147.1 
+Ruth_Wilson/cWrjDHwgl0g_0000002 195.9 200.3 

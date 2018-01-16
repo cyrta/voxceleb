@@ -1,0 +1,9 @@
+POI: 			Amber_Riley 
+Youtube ID: 	yOX5__6hIC8 
+Video length: 	321.8 sec 
+Set (V): 		dev 
+ 
+Amber_Riley/yOX5__6hIC8_0000001 149.8 156.4 
+Amber_Riley/yOX5__6hIC8_0000002 159.5 164.0 
+Amber_Riley/yOX5__6hIC8_0000003 196.3 201.4 
+Amber_Riley/yOX5__6hIC8_0000004 295.4 308.4 

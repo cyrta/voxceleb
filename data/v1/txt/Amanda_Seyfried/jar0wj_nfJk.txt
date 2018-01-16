@@ -1,0 +1,8 @@
+POI: 			Amanda_Seyfried 
+Youtube ID: 	jar0wj_nfJk 
+Video length: 	555.5 sec 
+Set (V): 		dev 
+ 
+Amanda_Seyfried/jar0wj_nfJk_0000001 146.4 151.3 
+Amanda_Seyfried/jar0wj_nfJk_0000002 316.4 320.8 
+Amanda_Seyfried/jar0wj_nfJk_0000003 499.8 505.4 

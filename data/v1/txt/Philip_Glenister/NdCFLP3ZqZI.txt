@@ -1,0 +1,14 @@
+POI: 			Philip_Glenister 
+Youtube ID: 	NdCFLP3ZqZI 
+Video length: 	354.8 sec 
+Set (V): 		dev 
+ 
+Philip_Glenister/NdCFLP3ZqZI_0000001 25.6 31.8 
+Philip_Glenister/NdCFLP3ZqZI_0000002 56.5 61.3 
+Philip_Glenister/NdCFLP3ZqZI_0000003 68.6 72.8 
+Philip_Glenister/NdCFLP3ZqZI_0000004 88.5 93.4 
+Philip_Glenister/NdCFLP3ZqZI_0000005 100.3 105.2 
+Philip_Glenister/NdCFLP3ZqZI_0000006 147.3 152.2 
+Philip_Glenister/NdCFLP3ZqZI_0000007 159.3 163.8 
+Philip_Glenister/NdCFLP3ZqZI_0000008 202.3 208.9 
+Philip_Glenister/NdCFLP3ZqZI_0000009 213.2 218.1 

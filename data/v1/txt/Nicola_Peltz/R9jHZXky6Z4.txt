@@ -1,0 +1,10 @@
+POI: 			Nicola_Peltz 
+Youtube ID: 	R9jHZXky6Z4 
+Video length: 	358.8 sec 
+Set (V): 		dev 
+ 
+Nicola_Peltz/R9jHZXky6Z4_0000001 40.4 44.4 
+Nicola_Peltz/R9jHZXky6Z4_0000002 112.2 118.8 
+Nicola_Peltz/R9jHZXky6Z4_0000003 163.0 179.4 
+Nicola_Peltz/R9jHZXky6Z4_0000004 181.7 188.8 
+Nicola_Peltz/R9jHZXky6Z4_0000005 322.4 333.3 

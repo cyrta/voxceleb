@@ -1,0 +1,6 @@
+POI: 			David_Letterman 
+Youtube ID: 	XdYAqYMJXEs 
+Video length: 	846.2 sec 
+Set (V): 		dev 
+ 
+David_Letterman/XdYAqYMJXEs_0000001 831.0 835.9 

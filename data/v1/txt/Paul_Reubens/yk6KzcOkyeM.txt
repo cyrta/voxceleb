@@ -1,0 +1,15 @@
+POI: 			Paul_Reubens 
+Youtube ID: 	yk6KzcOkyeM 
+Video length: 	282.8 sec 
+Set (V): 		dev 
+ 
+Paul_Reubens/yk6KzcOkyeM_0000001 89.6 93.7 
+Paul_Reubens/yk6KzcOkyeM_0000002 96.9 103.7 
+Paul_Reubens/yk6KzcOkyeM_0000003 124.7 129.2 
+Paul_Reubens/yk6KzcOkyeM_0000004 146.8 152.2 
+Paul_Reubens/yk6KzcOkyeM_0000005 177.4 182.3 
+Paul_Reubens/yk6KzcOkyeM_0000006 185.8 193.0 
+Paul_Reubens/yk6KzcOkyeM_0000007 229.4 234.6 
+Paul_Reubens/yk6KzcOkyeM_0000008 235.3 245.2 
+Paul_Reubens/yk6KzcOkyeM_0000009 249.4 255.2 
+Paul_Reubens/yk6KzcOkyeM_0000010 255.7 260.0 

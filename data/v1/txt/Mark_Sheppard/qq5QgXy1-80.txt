@@ -1,0 +1,12 @@
+POI: 			Mark_Sheppard 
+Youtube ID: 	qq5QgXy1-80 
+Video length: 	158.0 sec 
+Set (V): 		dev 
+ 
+Mark_Sheppard/qq5QgXy1-80_0000001 17.4 22.3 
+Mark_Sheppard/qq5QgXy1-80_0000002 60.6 65.9 
+Mark_Sheppard/qq5QgXy1-80_0000003 66.6 71.1 
+Mark_Sheppard/qq5QgXy1-80_0000004 89.0 97.8 
+Mark_Sheppard/qq5QgXy1-80_0000005 115.4 120.6 
+Mark_Sheppard/qq5QgXy1-80_0000006 131.0 135.2 
+Mark_Sheppard/qq5QgXy1-80_0000007 145.2 156.2 

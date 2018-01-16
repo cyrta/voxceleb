@@ -1,0 +1,16 @@
+POI: 			Miranda_Lambert 
+Youtube ID: 	ZoHKX2DKvIE 
+Video length: 	270.7 sec 
+Set (V): 		dev 
+ 
+Miranda_Lambert/ZoHKX2DKvIE_0000001 27.0 32.4 
+Miranda_Lambert/ZoHKX2DKvIE_0000002 33.0 41.1 
+Miranda_Lambert/ZoHKX2DKvIE_0000003 45.5 50.4 
+Miranda_Lambert/ZoHKX2DKvIE_0000004 58.4 63.7 
+Miranda_Lambert/ZoHKX2DKvIE_0000005 64.4 85.9 
+Miranda_Lambert/ZoHKX2DKvIE_0000006 102.9 110.1 
+Miranda_Lambert/ZoHKX2DKvIE_0000007 114.4 118.6 
+Miranda_Lambert/ZoHKX2DKvIE_0000008 168.9 173.7 
+Miranda_Lambert/ZoHKX2DKvIE_0000009 176.0 181.4 
+Miranda_Lambert/ZoHKX2DKvIE_0000010 182.2 186.6 
+Miranda_Lambert/ZoHKX2DKvIE_0000011 187.0 198.2 

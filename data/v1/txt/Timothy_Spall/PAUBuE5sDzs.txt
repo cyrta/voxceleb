@@ -1,0 +1,7 @@
+POI: 			Timothy_Spall 
+Youtube ID: 	PAUBuE5sDzs 
+Video length: 	63.6 sec 
+Set (V): 		dev 
+ 
+Timothy_Spall/PAUBuE5sDzs_0000001 05.2 13.9 
+Timothy_Spall/PAUBuE5sDzs_0000002 20.0 48.0 

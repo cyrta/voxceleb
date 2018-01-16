@@ -1,0 +1,11 @@
+POI: 			Ken_Jeong 
+Youtube ID: 	_XM3oFWkBd8 
+Video length: 	440.5 sec 
+Set (V): 		dev 
+ 
+Ken_Jeong/_XM3oFWkBd8_0000001 165.8 184.8 
+Ken_Jeong/_XM3oFWkBd8_0000002 213.3 225.7 
+Ken_Jeong/_XM3oFWkBd8_0000003 226.7 235.8 
+Ken_Jeong/_XM3oFWkBd8_0000004 256.7 267.6 
+Ken_Jeong/_XM3oFWkBd8_0000005 337.6 350.4 
+Ken_Jeong/_XM3oFWkBd8_0000006 351.0 372.2 

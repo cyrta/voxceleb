@@ -1,0 +1,11 @@
+POI: 			Lisa_Rinna 
+Youtube ID: 	cXSO8LLS3Nw 
+Video length: 	517.4 sec 
+Set (V): 		dev 
+ 
+Lisa_Rinna/cXSO8LLS3Nw_0000001 108.4 121.1 
+Lisa_Rinna/cXSO8LLS3Nw_0000002 161.1 166.9 
+Lisa_Rinna/cXSO8LLS3Nw_0000003 376.5 384.0 
+Lisa_Rinna/cXSO8LLS3Nw_0000004 388.8 395.4 
+Lisa_Rinna/cXSO8LLS3Nw_0000005 433.9 440.5 
+Lisa_Rinna/cXSO8LLS3Nw_0000006 472.6 478.4 

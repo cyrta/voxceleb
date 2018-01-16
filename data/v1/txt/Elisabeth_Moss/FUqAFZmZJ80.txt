@@ -1,0 +1,26 @@
+POI: 			Elisabeth_Moss 
+Youtube ID: 	FUqAFZmZJ80 
+Video length: 	881.4 sec 
+Set (V): 		test 
+ 
+Elisabeth_Moss/FUqAFZmZJ80_0000001 53.2 57.3 
+Elisabeth_Moss/FUqAFZmZJ80_0000002 68.6 73.3 
+Elisabeth_Moss/FUqAFZmZJ80_0000003 75.6 79.6 
+Elisabeth_Moss/FUqAFZmZJ80_0000004 81.7 91.2 
+Elisabeth_Moss/FUqAFZmZJ80_0000005 91.3 95.8 
+Elisabeth_Moss/FUqAFZmZJ80_0000006 99.8 107.2 
+Elisabeth_Moss/FUqAFZmZJ80_0000007 115.8 120.8 
+Elisabeth_Moss/FUqAFZmZJ80_0000008 153.0 157.5 
+Elisabeth_Moss/FUqAFZmZJ80_0000009 243.0 250.8 
+Elisabeth_Moss/FUqAFZmZJ80_0000010 252.0 256.0 
+Elisabeth_Moss/FUqAFZmZJ80_0000011 274.5 281.1 
+Elisabeth_Moss/FUqAFZmZJ80_0000012 325.7 333.4 
+Elisabeth_Moss/FUqAFZmZJ80_0000013 338.3 347.5 
+Elisabeth_Moss/FUqAFZmZJ80_0000014 349.0 354.5 
+Elisabeth_Moss/FUqAFZmZJ80_0000015 570.0 575.2 
+Elisabeth_Moss/FUqAFZmZJ80_0000016 638.4 642.7 
+Elisabeth_Moss/FUqAFZmZJ80_0000017 647.6 654.2 
+Elisabeth_Moss/FUqAFZmZJ80_0000018 707.6 714.1 
+Elisabeth_Moss/FUqAFZmZJ80_0000019 786.6 798.4 
+Elisabeth_Moss/FUqAFZmZJ80_0000020 799.2 807.3 
+Elisabeth_Moss/FUqAFZmZJ80_0000021 812.8 816.9 

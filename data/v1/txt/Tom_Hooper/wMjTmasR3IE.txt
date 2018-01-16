@@ -1,0 +1,11 @@
+POI: 			Tom_Hooper 
+Youtube ID: 	wMjTmasR3IE 
+Video length: 	141.0 sec 
+Set (V): 		dev 
+ 
+Tom_Hooper/wMjTmasR3IE_0000001 16.1 39.8 
+Tom_Hooper/wMjTmasR3IE_0000002 40.3 51.1 
+Tom_Hooper/wMjTmasR3IE_0000003 54.6 60.9 
+Tom_Hooper/wMjTmasR3IE_0000004 67.6 77.3 
+Tom_Hooper/wMjTmasR3IE_0000005 87.5 91.8 
+Tom_Hooper/wMjTmasR3IE_0000006 111.6 122.0 

@@ -1,0 +1,9 @@
+POI: 			Julia_Roberts 
+Youtube ID: 	TQNmsmyjJ80 
+Video length: 	388.7 sec 
+Set (V): 		dev 
+ 
+Julia_Roberts/TQNmsmyjJ80_0000001 117.8 121.9 
+Julia_Roberts/TQNmsmyjJ80_0000002 138.2 143.3 
+Julia_Roberts/TQNmsmyjJ80_0000003 148.4 158.0 
+Julia_Roberts/TQNmsmyjJ80_0000004 265.2 273.0 

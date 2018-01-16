@@ -1,0 +1,12 @@
+POI: 			Steven_Yeun 
+Youtube ID: 	nFtgwoG2_wI 
+Video length: 	268.4 sec 
+Set (V): 		dev 
+ 
+Steven_Yeun/nFtgwoG2_wI_0000001 34.1 42.8 
+Steven_Yeun/nFtgwoG2_wI_0000002 90.7 96.5 
+Steven_Yeun/nFtgwoG2_wI_0000003 118.5 128.8 
+Steven_Yeun/nFtgwoG2_wI_0000004 130.8 145.7 
+Steven_Yeun/nFtgwoG2_wI_0000005 184.8 189.0 
+Steven_Yeun/nFtgwoG2_wI_0000006 208.5 213.5 
+Steven_Yeun/nFtgwoG2_wI_0000007 233.6 237.7 

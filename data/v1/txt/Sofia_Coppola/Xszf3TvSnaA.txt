@@ -1,0 +1,12 @@
+POI: 			Sofia_Coppola 
+Youtube ID: 	Xszf3TvSnaA 
+Video length: 	297.5 sec 
+Set (V): 		dev 
+ 
+Sofia_Coppola/Xszf3TvSnaA_0000001 47.8 52.7 
+Sofia_Coppola/Xszf3TvSnaA_0000002 64.1 68.3 
+Sofia_Coppola/Xszf3TvSnaA_0000003 162.6 167.4 
+Sofia_Coppola/Xszf3TvSnaA_0000004 182.5 188.6 
+Sofia_Coppola/Xszf3TvSnaA_0000005 209.3 216.8 
+Sofia_Coppola/Xszf3TvSnaA_0000006 263.4 269.7 
+Sofia_Coppola/Xszf3TvSnaA_0000007 272.4 276.6 

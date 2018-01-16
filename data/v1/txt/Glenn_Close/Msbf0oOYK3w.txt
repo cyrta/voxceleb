@@ -1,0 +1,8 @@
+POI: 			Glenn_Close 
+Youtube ID: 	Msbf0oOYK3w 
+Video length: 	76.5 sec 
+Set (V): 		dev 
+ 
+Glenn_Close/Msbf0oOYK3w_0000001 05.4 14.1 
+Glenn_Close/Msbf0oOYK3w_0000002 15.6 20.4 
+Glenn_Close/Msbf0oOYK3w_0000003 34.7 48.4 

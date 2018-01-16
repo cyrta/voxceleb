@@ -1,0 +1,13 @@
+POI: 			William_Levy 
+Youtube ID: 	RndrQF7d5jg 
+Video length: 	248.7 sec 
+Set (V): 		dev 
+ 
+William_Levy/RndrQF7d5jg_0000001 48.7 54.4 
+William_Levy/RndrQF7d5jg_0000002 56.4 74.2 
+William_Levy/RndrQF7d5jg_0000003 98.7 105.6 
+William_Levy/RndrQF7d5jg_0000004 105.9 116.8 
+William_Levy/RndrQF7d5jg_0000005 148.0 153.4 
+William_Levy/RndrQF7d5jg_0000006 178.6 184.1 
+William_Levy/RndrQF7d5jg_0000007 185.6 190.1 
+William_Levy/RndrQF7d5jg_0000008 192.4 199.5 

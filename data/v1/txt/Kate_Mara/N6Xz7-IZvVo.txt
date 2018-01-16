@@ -1,0 +1,9 @@
+POI: 			Kate_Mara 
+Youtube ID: 	N6Xz7-IZvVo 
+Video length: 	397.4 sec 
+Set (V): 		dev 
+ 
+Kate_Mara/N6Xz7-IZvVo_0000001 118.5 128.8 
+Kate_Mara/N6Xz7-IZvVo_0000002 128.9 133.9 
+Kate_Mara/N6Xz7-IZvVo_0000003 231.6 237.8 
+Kate_Mara/N6Xz7-IZvVo_0000004 238.0 250.1 

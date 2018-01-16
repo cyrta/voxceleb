@@ -1,0 +1,8 @@
+POI: 			Tim_Minchin 
+Youtube ID: 	SLtEbusVZMA 
+Video length: 	249.5 sec 
+Set (V): 		dev 
+ 
+Tim_Minchin/SLtEbusVZMA_0000001 40.2 44.6 
+Tim_Minchin/SLtEbusVZMA_0000002 80.4 85.2 
+Tim_Minchin/SLtEbusVZMA_0000003 204.4 208.7 

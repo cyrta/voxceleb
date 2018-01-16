@@ -1,0 +1,18 @@
+POI: 			Eoin_Macken 
+Youtube ID: 	nAtqrkWKIhM 
+Video length: 	508.4 sec 
+Set (V): 		test 
+ 
+Eoin_Macken/nAtqrkWKIhM_0000001 31.1 35.5 
+Eoin_Macken/nAtqrkWKIhM_0000002 35.6 43.3 
+Eoin_Macken/nAtqrkWKIhM_0000003 78.6 83.4 
+Eoin_Macken/nAtqrkWKIhM_0000004 88.7 97.0 
+Eoin_Macken/nAtqrkWKIhM_0000005 134.3 146.7 
+Eoin_Macken/nAtqrkWKIhM_0000006 180.3 187.9 
+Eoin_Macken/nAtqrkWKIhM_0000007 193.2 197.3 
+Eoin_Macken/nAtqrkWKIhM_0000008 243.0 256.5 
+Eoin_Macken/nAtqrkWKIhM_0000009 277.2 284.7 
+Eoin_Macken/nAtqrkWKIhM_0000010 321.2 325.4 
+Eoin_Macken/nAtqrkWKIhM_0000011 332.2 337.7 
+Eoin_Macken/nAtqrkWKIhM_0000012 381.0 386.8 
+Eoin_Macken/nAtqrkWKIhM_0000013 440.3 445.1 

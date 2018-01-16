@@ -1,0 +1,9 @@
+POI: 			Kris_Jenner 
+Youtube ID: 	c5EgPXj1Qdc 
+Video length: 	339.6 sec 
+Set (V): 		dev 
+ 
+Kris_Jenner/c5EgPXj1Qdc_0000001 17.8 21.9 
+Kris_Jenner/c5EgPXj1Qdc_0000002 80.0 84.8 
+Kris_Jenner/c5EgPXj1Qdc_0000003 122.8 133.6 
+Kris_Jenner/c5EgPXj1Qdc_0000004 184.8 192.4 

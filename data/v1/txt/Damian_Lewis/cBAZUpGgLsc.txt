@@ -1,0 +1,8 @@
+POI: 			Damian_Lewis 
+Youtube ID: 	cBAZUpGgLsc 
+Video length: 	488.2 sec 
+Set (V): 		dev 
+ 
+Damian_Lewis/cBAZUpGgLsc_0000001 193.5 199.2 
+Damian_Lewis/cBAZUpGgLsc_0000002 359.6 364.1 
+Damian_Lewis/cBAZUpGgLsc_0000003 477.3 482.4 

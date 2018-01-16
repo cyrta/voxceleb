@@ -1,0 +1,9 @@
+POI: 			Lolo_Jones 
+Youtube ID: 	x1Wpv6-6BHs 
+Video length: 	117.2 sec 
+Set (V): 		dev 
+ 
+Lolo_Jones/x1Wpv6-6BHs_0000001 09.7 17.1 
+Lolo_Jones/x1Wpv6-6BHs_0000002 49.4 57.7 
+Lolo_Jones/x1Wpv6-6BHs_0000003 73.1 82.6 
+Lolo_Jones/x1Wpv6-6BHs_0000004 91.9 108.2 

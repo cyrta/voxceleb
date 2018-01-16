@@ -1,0 +1,7 @@
+POI: 			Gilles_Marini 
+Youtube ID: 	4vMSaPnUodU 
+Video length: 	138.6 sec 
+Set (V): 		dev 
+ 
+Gilles_Marini/4vMSaPnUodU_0000001 85.6 91.6 
+Gilles_Marini/4vMSaPnUodU_0000002 92.3 97.2 

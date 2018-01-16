@@ -1,0 +1,7 @@
+POI: 			Wanda_Sykes 
+Youtube ID: 	NG8vQ3PDOKM 
+Video length: 	225.0 sec 
+Set (V): 		dev 
+ 
+Wanda_Sykes/NG8vQ3PDOKM_0000001 124.5 131.5 
+Wanda_Sykes/NG8vQ3PDOKM_0000002 149.6 154.1 

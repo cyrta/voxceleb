@@ -1,0 +1,9 @@
+POI: 			Sally_Hawkins 
+Youtube ID: 	HAni6E_qLW4 
+Video length: 	71.0 sec 
+Set (V): 		dev 
+ 
+Sally_Hawkins/HAni6E_qLW4_0000001 05.5 16.5 
+Sally_Hawkins/HAni6E_qLW4_0000002 43.5 48.0 
+Sally_Hawkins/HAni6E_qLW4_0000003 51.0 62.4 
+Sally_Hawkins/HAni6E_qLW4_0000004 63.4 68.0 

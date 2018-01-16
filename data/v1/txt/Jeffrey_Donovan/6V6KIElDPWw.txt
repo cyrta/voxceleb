@@ -1,0 +1,17 @@
+POI: 			Jeffrey_Donovan 
+Youtube ID: 	6V6KIElDPWw 
+Video length: 	469.6 sec 
+Set (V): 		dev 
+ 
+Jeffrey_Donovan/6V6KIElDPWw_0000001 57.7 68.2 
+Jeffrey_Donovan/6V6KIElDPWw_0000002 70.6 75.7 
+Jeffrey_Donovan/6V6KIElDPWw_0000003 75.8 83.8 
+Jeffrey_Donovan/6V6KIElDPWw_0000004 84.6 90.4 
+Jeffrey_Donovan/6V6KIElDPWw_0000005 104.0 117.7 
+Jeffrey_Donovan/6V6KIElDPWw_0000006 135.5 145.9 
+Jeffrey_Donovan/6V6KIElDPWw_0000007 146.4 156.1 
+Jeffrey_Donovan/6V6KIElDPWw_0000008 156.2 163.0 
+Jeffrey_Donovan/6V6KIElDPWw_0000009 174.5 180.0 
+Jeffrey_Donovan/6V6KIElDPWw_0000010 224.6 239.6 
+Jeffrey_Donovan/6V6KIElDPWw_0000011 287.5 295.8 
+Jeffrey_Donovan/6V6KIElDPWw_0000012 316.8 332.5 

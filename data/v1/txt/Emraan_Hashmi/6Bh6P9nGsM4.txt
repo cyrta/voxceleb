@@ -1,0 +1,10 @@
+POI: 			Emraan_Hashmi 
+Youtube ID: 	6Bh6P9nGsM4 
+Video length: 	537.9 sec 
+Set (V): 		test 
+ 
+Emraan_Hashmi/6Bh6P9nGsM4_0000001 48.0 52.4 
+Emraan_Hashmi/6Bh6P9nGsM4_0000002 194.6 198.8 
+Emraan_Hashmi/6Bh6P9nGsM4_0000003 356.7 361.9 
+Emraan_Hashmi/6Bh6P9nGsM4_0000004 367.1 371.8 
+Emraan_Hashmi/6Bh6P9nGsM4_0000005 377.1 381.0 

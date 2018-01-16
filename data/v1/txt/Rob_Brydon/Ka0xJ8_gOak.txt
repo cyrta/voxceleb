@@ -1,0 +1,12 @@
+POI: 			Rob_Brydon 
+Youtube ID: 	Ka0xJ8_gOak 
+Video length: 	189.9 sec 
+Set (V): 		dev 
+ 
+Rob_Brydon/Ka0xJ8_gOak_0000001 27.8 32.6 
+Rob_Brydon/Ka0xJ8_gOak_0000002 59.8 69.6 
+Rob_Brydon/Ka0xJ8_gOak_0000003 80.0 84.5 
+Rob_Brydon/Ka0xJ8_gOak_0000004 90.8 95.9 
+Rob_Brydon/Ka0xJ8_gOak_0000005 105.0 109.2 
+Rob_Brydon/Ka0xJ8_gOak_0000006 143.6 147.8 
+Rob_Brydon/Ka0xJ8_gOak_0000007 169.7 179.2 

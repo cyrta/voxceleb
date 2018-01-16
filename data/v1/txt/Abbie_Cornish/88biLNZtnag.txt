@@ -1,0 +1,8 @@
+POI: 			Abbie_Cornish 
+Youtube ID: 	88biLNZtnag 
+Video length: 	132.0 sec 
+Set (V): 		dev 
+ 
+Abbie_Cornish/88biLNZtnag_0000001 08.0 13.3 
+Abbie_Cornish/88biLNZtnag_0000002 16.8 34.9 
+Abbie_Cornish/88biLNZtnag_0000003 50.2 55.4 

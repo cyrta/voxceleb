@@ -1,0 +1,12 @@
+POI: 			Josh_Brolin 
+Youtube ID: 	t94en003u8g 
+Video length: 	310.6 sec 
+Set (V): 		dev 
+ 
+Josh_Brolin/t94en003u8g_0000001 107.7 114.9 
+Josh_Brolin/t94en003u8g_0000002 126.7 130.8 
+Josh_Brolin/t94en003u8g_0000003 131.4 137.8 
+Josh_Brolin/t94en003u8g_0000004 158.7 172.0 
+Josh_Brolin/t94en003u8g_0000005 178.8 187.2 
+Josh_Brolin/t94en003u8g_0000006 231.3 236.0 
+Josh_Brolin/t94en003u8g_0000007 239.1 252.0 

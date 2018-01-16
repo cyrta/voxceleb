@@ -1,0 +1,11 @@
+POI: 			Lisa_Edelstein 
+Youtube ID: 	hXBGlMdGNmU 
+Video length: 	241.8 sec 
+Set (V): 		dev 
+ 
+Lisa_Edelstein/hXBGlMdGNmU_0000001 99.2 104.8 
+Lisa_Edelstein/hXBGlMdGNmU_0000002 112.7 117.0 
+Lisa_Edelstein/hXBGlMdGNmU_0000003 136.3 149.8 
+Lisa_Edelstein/hXBGlMdGNmU_0000004 155.8 162.0 
+Lisa_Edelstein/hXBGlMdGNmU_0000005 172.5 177.0 
+Lisa_Edelstein/hXBGlMdGNmU_0000006 193.4 198.7 

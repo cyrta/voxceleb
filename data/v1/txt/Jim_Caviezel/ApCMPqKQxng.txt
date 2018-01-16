@@ -1,0 +1,15 @@
+POI: 			Jim_Caviezel 
+Youtube ID: 	ApCMPqKQxng 
+Video length: 	300.3 sec 
+Set (V): 		dev 
+ 
+Jim_Caviezel/ApCMPqKQxng_0000001 112.0 118.4 
+Jim_Caviezel/ApCMPqKQxng_0000002 150.0 155.5 
+Jim_Caviezel/ApCMPqKQxng_0000003 156.5 165.5 
+Jim_Caviezel/ApCMPqKQxng_0000004 177.0 181.4 
+Jim_Caviezel/ApCMPqKQxng_0000005 181.6 186.0 
+Jim_Caviezel/ApCMPqKQxng_0000006 190.0 195.7 
+Jim_Caviezel/ApCMPqKQxng_0000007 231.2 237.3 
+Jim_Caviezel/ApCMPqKQxng_0000008 243.2 250.8 
+Jim_Caviezel/ApCMPqKQxng_0000009 254.2 260.1 
+Jim_Caviezel/ApCMPqKQxng_0000010 276.4 281.9 

@@ -1,0 +1,8 @@
+POI: 			Kierston_Wareing 
+Youtube ID: 	GPt5nbr9x6E 
+Video length: 	162.5 sec 
+Set (V): 		dev 
+ 
+Kierston_Wareing/GPt5nbr9x6E_0000001 43.1 48.6 
+Kierston_Wareing/GPt5nbr9x6E_0000002 49.4 55.7 
+Kierston_Wareing/GPt5nbr9x6E_0000003 96.7 102.6 

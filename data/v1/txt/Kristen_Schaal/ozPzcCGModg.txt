@@ -1,0 +1,7 @@
+POI: 			Kristen_Schaal 
+Youtube ID: 	ozPzcCGModg 
+Video length: 	317.4 sec 
+Set (V): 		dev 
+ 
+Kristen_Schaal/ozPzcCGModg_0000001 146.1 150.8 
+Kristen_Schaal/ozPzcCGModg_0000002 255.4 264.4 

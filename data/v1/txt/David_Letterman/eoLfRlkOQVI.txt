@@ -1,0 +1,6 @@
+POI: 			David_Letterman 
+Youtube ID: 	eoLfRlkOQVI 
+Video length: 	833.9 sec 
+Set (V): 		dev 
+ 
+David_Letterman/eoLfRlkOQVI_0000001 28.5 34.8 

@@ -1,0 +1,8 @@
+POI: 			Karoline_Herfurth 
+Youtube ID: 	dSy6xGEqINY 
+Video length: 	242.1 sec 
+Set (V): 		dev 
+ 
+Karoline_Herfurth/dSy6xGEqINY_0000001 28.5 34.3 
+Karoline_Herfurth/dSy6xGEqINY_0000002 65.0 72.3 
+Karoline_Herfurth/dSy6xGEqINY_0000003 183.8 188.0 

@@ -1,0 +1,8 @@
+POI: 			Fanny_Ardant 
+Youtube ID: 	ajS5rj9BwOA 
+Video length: 	430.1 sec 
+Set (V): 		dev 
+ 
+Fanny_Ardant/ajS5rj9BwOA_0000001 255.2 263.1 
+Fanny_Ardant/ajS5rj9BwOA_0000002 388.2 393.1 
+Fanny_Ardant/ajS5rj9BwOA_0000003 398.2 406.5 

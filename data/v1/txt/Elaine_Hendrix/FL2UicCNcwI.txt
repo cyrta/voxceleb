@@ -1,0 +1,8 @@
+POI: 			Elaine_Hendrix 
+Youtube ID: 	FL2UicCNcwI 
+Video length: 	126.5 sec 
+Set (V): 		test 
+ 
+Elaine_Hendrix/FL2UicCNcwI_0000001 43.0 50.7 
+Elaine_Hendrix/FL2UicCNcwI_0000002 80.4 85.9 
+Elaine_Hendrix/FL2UicCNcwI_0000003 94.7 99.0 

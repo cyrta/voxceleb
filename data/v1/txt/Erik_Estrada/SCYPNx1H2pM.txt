@@ -1,0 +1,9 @@
+POI: 			Erik_Estrada 
+Youtube ID: 	SCYPNx1H2pM 
+Video length: 	281.3 sec 
+Set (V): 		test 
+ 
+Erik_Estrada/SCYPNx1H2pM_0000001 57.9 66.4 
+Erik_Estrada/SCYPNx1H2pM_0000002 83.8 99.6 
+Erik_Estrada/SCYPNx1H2pM_0000003 171.0 179.0 
+Erik_Estrada/SCYPNx1H2pM_0000004 242.0 246.5 

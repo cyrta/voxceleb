@@ -1,0 +1,7 @@
+POI: 			Mathieu_Kassovitz 
+Youtube ID: 	aDmjkC2SMNw 
+Video length: 	146.6 sec 
+Set (V): 		dev 
+ 
+Mathieu_Kassovitz/aDmjkC2SMNw_0000001 80.6 84.8 
+Mathieu_Kassovitz/aDmjkC2SMNw_0000002 92.2 96.4 

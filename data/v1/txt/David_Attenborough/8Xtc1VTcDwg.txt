@@ -1,0 +1,7 @@
+POI: 			David_Attenborough 
+Youtube ID: 	8Xtc1VTcDwg 
+Video length: 	110.0 sec 
+Set (V): 		dev 
+ 
+David_Attenborough/8Xtc1VTcDwg_0000001 46.7 52.7 
+David_Attenborough/8Xtc1VTcDwg_0000002 69.3 76.4 

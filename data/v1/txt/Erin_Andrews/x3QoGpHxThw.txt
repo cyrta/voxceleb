@@ -1,0 +1,10 @@
+POI: 			Erin_Andrews 
+Youtube ID: 	x3QoGpHxThw 
+Video length: 	206.9 sec 
+Set (V): 		test 
+ 
+Erin_Andrews/x3QoGpHxThw_0000001 31.9 45.4 
+Erin_Andrews/x3QoGpHxThw_0000002 95.6 100.4 
+Erin_Andrews/x3QoGpHxThw_0000003 101.6 120.2 
+Erin_Andrews/x3QoGpHxThw_0000004 74.4 81.4 
+Erin_Andrews/x3QoGpHxThw_0000005 84.6 94.9 

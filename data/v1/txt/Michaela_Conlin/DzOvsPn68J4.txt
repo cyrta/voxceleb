@@ -1,0 +1,11 @@
+POI: 			Michaela_Conlin 
+Youtube ID: 	DzOvsPn68J4 
+Video length: 	138.4 sec 
+Set (V): 		dev 
+ 
+Michaela_Conlin/DzOvsPn68J4_0000001 10.1 21.2 
+Michaela_Conlin/DzOvsPn68J4_0000002 21.5 25.8 
+Michaela_Conlin/DzOvsPn68J4_0000003 43.1 60.5 
+Michaela_Conlin/DzOvsPn68J4_0000004 102.9 110.9 
+Michaela_Conlin/DzOvsPn68J4_0000005 113.6 119.2 
+Michaela_Conlin/DzOvsPn68J4_0000006 122.5 126.8 

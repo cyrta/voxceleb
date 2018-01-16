@@ -1,0 +1,17 @@
+POI: 			Elaine_Cassidy 
+Youtube ID: 	v0Q-VyO4TjI 
+Video length: 	204.5 sec 
+Set (V): 		test 
+ 
+Elaine_Cassidy/v0Q-VyO4TjI_0000001 18.0 31.4 
+Elaine_Cassidy/v0Q-VyO4TjI_0000002 34.2 38.5 
+Elaine_Cassidy/v0Q-VyO4TjI_0000003 39.5 49.2 
+Elaine_Cassidy/v0Q-VyO4TjI_0000004 69.6 84.3 
+Elaine_Cassidy/v0Q-VyO4TjI_0000005 84.5 95.4 
+Elaine_Cassidy/v0Q-VyO4TjI_0000006 108.8 113.9 
+Elaine_Cassidy/v0Q-VyO4TjI_0000007 119.7 127.6 
+Elaine_Cassidy/v0Q-VyO4TjI_0000008 129.5 133.6 
+Elaine_Cassidy/v0Q-VyO4TjI_0000009 153.6 160.3 
+Elaine_Cassidy/v0Q-VyO4TjI_0000010 165.8 170.3 
+Elaine_Cassidy/v0Q-VyO4TjI_0000011 172.1 191.4 
+Elaine_Cassidy/v0Q-VyO4TjI_0000012 195.5 202.8 

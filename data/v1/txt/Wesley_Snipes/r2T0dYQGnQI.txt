@@ -1,0 +1,10 @@
+POI: 			Wesley_Snipes 
+Youtube ID: 	r2T0dYQGnQI 
+Video length: 	114.8 sec 
+Set (V): 		dev 
+ 
+Wesley_Snipes/r2T0dYQGnQI_0000001 17.9 25.7 
+Wesley_Snipes/r2T0dYQGnQI_0000002 26.2 30.7 
+Wesley_Snipes/r2T0dYQGnQI_0000003 36.4 40.4 
+Wesley_Snipes/r2T0dYQGnQI_0000004 41.3 47.9 
+Wesley_Snipes/r2T0dYQGnQI_0000005 70.0 74.7 

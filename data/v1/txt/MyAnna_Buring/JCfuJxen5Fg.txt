@@ -1,0 +1,8 @@
+POI: 			MyAnna_Buring 
+Youtube ID: 	JCfuJxen5Fg 
+Video length: 	120.7 sec 
+Set (V): 		dev 
+ 
+MyAnna_Buring/JCfuJxen5Fg_0000001 31.2 36.3 
+MyAnna_Buring/JCfuJxen5Fg_0000002 40.2 47.9 
+MyAnna_Buring/JCfuJxen5Fg_0000003 89.5 101.6 

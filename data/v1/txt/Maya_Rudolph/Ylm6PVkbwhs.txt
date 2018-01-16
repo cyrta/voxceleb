@@ -1,0 +1,9 @@
+POI: 			Maya_Rudolph 
+Youtube ID: 	Ylm6PVkbwhs 
+Video length: 	198.6 sec 
+Set (V): 		dev 
+ 
+Maya_Rudolph/Ylm6PVkbwhs_0000001 63.7 68.7 
+Maya_Rudolph/Ylm6PVkbwhs_0000002 160.7 164.9 
+Maya_Rudolph/Ylm6PVkbwhs_0000003 165.7 171.8 
+Maya_Rudolph/Ylm6PVkbwhs_0000004 176.2 185.4 

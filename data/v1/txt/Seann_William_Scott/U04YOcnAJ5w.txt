@@ -1,0 +1,20 @@
+POI: 			Seann_William_Scott 
+Youtube ID: 	U04YOcnAJ5w 
+Video length: 	307.2 sec 
+Set (V): 		dev 
+ 
+Seann_William_Scott/U04YOcnAJ5w_0000001 16.4 39.5 
+Seann_William_Scott/U04YOcnAJ5w_0000002 43.8 50.2 
+Seann_William_Scott/U04YOcnAJ5w_0000003 52.2 58.5 
+Seann_William_Scott/U04YOcnAJ5w_0000004 74.7 94.9 
+Seann_William_Scott/U04YOcnAJ5w_0000005 95.2 129.8 
+Seann_William_Scott/U04YOcnAJ5w_0000006 138.7 153.5 
+Seann_William_Scott/U04YOcnAJ5w_0000007 154.2 158.6 
+Seann_William_Scott/U04YOcnAJ5w_0000008 158.8 163.7 
+Seann_William_Scott/U04YOcnAJ5w_0000009 164.7 173.8 
+Seann_William_Scott/U04YOcnAJ5w_0000010 185.3 192.4 
+Seann_William_Scott/U04YOcnAJ5w_0000011 198.6 203.0 
+Seann_William_Scott/U04YOcnAJ5w_0000012 203.2 212.8 
+Seann_William_Scott/U04YOcnAJ5w_0000013 215.0 234.8 
+Seann_William_Scott/U04YOcnAJ5w_0000014 258.8 295.2 
+Seann_William_Scott/U04YOcnAJ5w_0000015 295.3 299.9 

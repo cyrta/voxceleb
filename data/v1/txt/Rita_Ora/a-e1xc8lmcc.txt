@@ -1,0 +1,8 @@
+POI: 			Rita_Ora 
+Youtube ID: 	a-e1xc8lmcc 
+Video length: 	483.5 sec 
+Set (V): 		dev 
+ 
+Rita_Ora/a-e1xc8lmcc_0000001 80.0 95.0 
+Rita_Ora/a-e1xc8lmcc_0000002 145.7 153.2 
+Rita_Ora/a-e1xc8lmcc_0000003 174.3 178.3 

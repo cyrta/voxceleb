@@ -1,0 +1,7 @@
+POI: 			Sydney_Pollack 
+Youtube ID: 	jjEhkwCosGs 
+Video length: 	43.7 sec 
+Set (V): 		dev 
+ 
+Sydney_Pollack/jjEhkwCosGs_0000001 07.2 14.4 
+Sydney_Pollack/jjEhkwCosGs_0000002 16.1 25.8 

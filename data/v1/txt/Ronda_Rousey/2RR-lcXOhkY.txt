@@ -1,0 +1,8 @@
+POI: 			Ronda_Rousey 
+Youtube ID: 	2RR-lcXOhkY 
+Video length: 	309.8 sec 
+Set (V): 		dev 
+ 
+Ronda_Rousey/2RR-lcXOhkY_0000001 70.6 79.9 
+Ronda_Rousey/2RR-lcXOhkY_0000002 136.8 144.4 
+Ronda_Rousey/2RR-lcXOhkY_0000003 192.2 196.4 

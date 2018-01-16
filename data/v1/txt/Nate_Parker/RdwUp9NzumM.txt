@@ -1,0 +1,13 @@
+POI: 			Nate_Parker 
+Youtube ID: 	RdwUp9NzumM 
+Video length: 	243.5 sec 
+Set (V): 		dev 
+ 
+Nate_Parker/RdwUp9NzumM_0000001 58.1 67.2 
+Nate_Parker/RdwUp9NzumM_0000002 85.7 98.1 
+Nate_Parker/RdwUp9NzumM_0000003 133.5 142.8 
+Nate_Parker/RdwUp9NzumM_0000004 143.0 151.0 
+Nate_Parker/RdwUp9NzumM_0000005 151.4 161.2 
+Nate_Parker/RdwUp9NzumM_0000006 163.1 170.3 
+Nate_Parker/RdwUp9NzumM_0000007 192.0 196.1 
+Nate_Parker/RdwUp9NzumM_0000008 196.3 216.6 

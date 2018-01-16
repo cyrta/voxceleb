@@ -1,0 +1,8 @@
+POI: 			Aaron_Tveit 
+Youtube ID: 	IEV-I9f21ns 
+Video length: 	216.7 sec 
+Set (V): 		dev 
+ 
+Aaron_Tveit/IEV-I9f21ns_0000001 92.0 101.0 
+Aaron_Tveit/IEV-I9f21ns_0000002 165.6 178.5 
+Aaron_Tveit/IEV-I9f21ns_0000003 179.6 196.5 

@@ -1,0 +1,9 @@
+POI: 			Harry_Treadaway 
+Youtube ID: 	mPfSGoUT-4s 
+Video length: 	364.4 sec 
+Set (V): 		dev 
+ 
+Harry_Treadaway/mPfSGoUT-4s_0000001 105.9 112.2 
+Harry_Treadaway/mPfSGoUT-4s_0000002 175.7 182.8 
+Harry_Treadaway/mPfSGoUT-4s_0000003 183.1 194.3 
+Harry_Treadaway/mPfSGoUT-4s_0000004 260.2 264.2 

@@ -1,0 +1,41 @@
+POI: 			Ernest_Borgnine 
+Youtube ID: 	1ZyvrJaiLQk 
+Video length: 	1660.8 sec 
+Set (V): 		test 
+ 
+Ernest_Borgnine/1ZyvrJaiLQk_0000001 143.9 149.0 
+Ernest_Borgnine/1ZyvrJaiLQk_0000002 153.0 158.2 
+Ernest_Borgnine/1ZyvrJaiLQk_0000003 159.6 167.0 
+Ernest_Borgnine/1ZyvrJaiLQk_0000004 169.0 175.1 
+Ernest_Borgnine/1ZyvrJaiLQk_0000005 199.4 207.2 
+Ernest_Borgnine/1ZyvrJaiLQk_0000006 220.6 230.2 
+Ernest_Borgnine/1ZyvrJaiLQk_0000007 255.4 262.6 
+Ernest_Borgnine/1ZyvrJaiLQk_0000008 267.9 273.3 
+Ernest_Borgnine/1ZyvrJaiLQk_0000009 275.9 284.8 
+Ernest_Borgnine/1ZyvrJaiLQk_0000010 285.5 289.8 
+Ernest_Borgnine/1ZyvrJaiLQk_0000011 338.0 350.3 
+Ernest_Borgnine/1ZyvrJaiLQk_0000012 356.5 364.8 
+Ernest_Borgnine/1ZyvrJaiLQk_0000013 369.1 386.3 
+Ernest_Borgnine/1ZyvrJaiLQk_0000014 387.2 396.4 
+Ernest_Borgnine/1ZyvrJaiLQk_0000015 400.9 413.7 
+Ernest_Borgnine/1ZyvrJaiLQk_0000016 423.1 428.0 
+Ernest_Borgnine/1ZyvrJaiLQk_0000017 452.7 457.5 
+Ernest_Borgnine/1ZyvrJaiLQk_0000018 460.7 482.2 
+Ernest_Borgnine/1ZyvrJaiLQk_0000019 483.8 489.2 
+Ernest_Borgnine/1ZyvrJaiLQk_0000020 491.0 496.7 
+Ernest_Borgnine/1ZyvrJaiLQk_0000021 542.2 549.2 
+Ernest_Borgnine/1ZyvrJaiLQk_0000022 567.6 572.4 
+Ernest_Borgnine/1ZyvrJaiLQk_0000023 631.8 636.0 
+Ernest_Borgnine/1ZyvrJaiLQk_0000024 651.4 660.5 
+Ernest_Borgnine/1ZyvrJaiLQk_0000025 669.3 677.2 
+Ernest_Borgnine/1ZyvrJaiLQk_0000026 677.6 682.0 
+Ernest_Borgnine/1ZyvrJaiLQk_0000027 689.0 698.9 
+Ernest_Borgnine/1ZyvrJaiLQk_0000028 700.1 708.4 
+Ernest_Borgnine/1ZyvrJaiLQk_0000029 906.3 911.3 
+Ernest_Borgnine/1ZyvrJaiLQk_0000030 913.0 917.0 
+Ernest_Borgnine/1ZyvrJaiLQk_0000031 1048.8 1054.7 
+Ernest_Borgnine/1ZyvrJaiLQk_0000032 1073.0 1077.1 
+Ernest_Borgnine/1ZyvrJaiLQk_0000033 1109.6 1117.5 
+Ernest_Borgnine/1ZyvrJaiLQk_0000034 1201.7 1206.9 
+Ernest_Borgnine/1ZyvrJaiLQk_0000035 1219.1 1224.2 
+Ernest_Borgnine/1ZyvrJaiLQk_0000036 1239.9 1250.8 

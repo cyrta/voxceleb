@@ -1,0 +1,12 @@
+POI: 			Walton_Goggins 
+Youtube ID: 	g5BMtwdZgW0 
+Video length: 	327.3 sec 
+Set (V): 		dev 
+ 
+Walton_Goggins/g5BMtwdZgW0_0000001 49.6 61.4 
+Walton_Goggins/g5BMtwdZgW0_0000002 88.4 110.3 
+Walton_Goggins/g5BMtwdZgW0_0000003 121.3 126.8 
+Walton_Goggins/g5BMtwdZgW0_0000004 158.2 162.2 
+Walton_Goggins/g5BMtwdZgW0_0000005 176.6 191.0 
+Walton_Goggins/g5BMtwdZgW0_0000006 257.5 276.2 
+Walton_Goggins/g5BMtwdZgW0_0000007 279.6 292.0 

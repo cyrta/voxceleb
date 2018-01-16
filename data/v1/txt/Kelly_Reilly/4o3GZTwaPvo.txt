@@ -1,0 +1,15 @@
+POI: 			Kelly_Reilly 
+Youtube ID: 	4o3GZTwaPvo 
+Video length: 	282.8 sec 
+Set (V): 		dev 
+ 
+Kelly_Reilly/4o3GZTwaPvo_0000001 15.2 19.5 
+Kelly_Reilly/4o3GZTwaPvo_0000002 19.6 25.9 
+Kelly_Reilly/4o3GZTwaPvo_0000003 37.4 45.4 
+Kelly_Reilly/4o3GZTwaPvo_0000004 65.7 72.4 
+Kelly_Reilly/4o3GZTwaPvo_0000005 116.1 124.4 
+Kelly_Reilly/4o3GZTwaPvo_0000006 129.5 138.1 
+Kelly_Reilly/4o3GZTwaPvo_0000007 141.3 148.4 
+Kelly_Reilly/4o3GZTwaPvo_0000008 169.8 180.3 
+Kelly_Reilly/4o3GZTwaPvo_0000009 188.0 195.3 
+Kelly_Reilly/4o3GZTwaPvo_0000010 215.2 232.1 

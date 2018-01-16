@@ -1,0 +1,10 @@
+POI: 			John_Hawkes 
+Youtube ID: 	Jzcll_IHnyc 
+Video length: 	127.0 sec 
+Set (V): 		dev 
+ 
+John_Hawkes/Jzcll_IHnyc_0000001 01.9 09.2 
+John_Hawkes/Jzcll_IHnyc_0000002 39.8 48.4 
+John_Hawkes/Jzcll_IHnyc_0000003 61.8 66.9 
+John_Hawkes/Jzcll_IHnyc_0000004 71.2 76.1 
+John_Hawkes/Jzcll_IHnyc_0000005 101.8 111.2 

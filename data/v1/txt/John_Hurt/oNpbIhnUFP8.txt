@@ -1,0 +1,6 @@
+POI: 			John_Hurt 
+Youtube ID: 	oNpbIhnUFP8 
+Video length: 	389.1 sec 
+Set (V): 		dev 
+ 
+John_Hurt/oNpbIhnUFP8_0000001 39.8 43.9 

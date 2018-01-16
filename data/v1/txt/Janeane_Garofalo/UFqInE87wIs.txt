@@ -1,0 +1,12 @@
+POI: 			Janeane_Garofalo 
+Youtube ID: 	UFqInE87wIs 
+Video length: 	349.5 sec 
+Set (V): 		dev 
+ 
+Janeane_Garofalo/UFqInE87wIs_0000001 30.8 43.2 
+Janeane_Garofalo/UFqInE87wIs_0000002 90.8 107.2 
+Janeane_Garofalo/UFqInE87wIs_0000003 119.4 127.2 
+Janeane_Garofalo/UFqInE87wIs_0000004 166.3 170.3 
+Janeane_Garofalo/UFqInE87wIs_0000005 188.1 192.6 
+Janeane_Garofalo/UFqInE87wIs_0000006 269.5 273.5 
+Janeane_Garofalo/UFqInE87wIs_0000007 314.0 319.0 

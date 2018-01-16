@@ -1,0 +1,20 @@
+POI: 			Jason_Clarke 
+Youtube ID: 	5Ft4a8JgeKY 
+Video length: 	297.2 sec 
+Set (V): 		dev 
+ 
+Jason_Clarke/5Ft4a8JgeKY_0000001 27.6 38.3 
+Jason_Clarke/5Ft4a8JgeKY_0000002 39.0 54.7 
+Jason_Clarke/5Ft4a8JgeKY_0000003 84.4 95.6 
+Jason_Clarke/5Ft4a8JgeKY_0000004 101.5 114.5 
+Jason_Clarke/5Ft4a8JgeKY_0000005 115.4 125.7 
+Jason_Clarke/5Ft4a8JgeKY_0000006 128.0 135.2 
+Jason_Clarke/5Ft4a8JgeKY_0000007 149.1 155.8 
+Jason_Clarke/5Ft4a8JgeKY_0000008 161.5 174.7 
+Jason_Clarke/5Ft4a8JgeKY_0000009 175.2 184.9 
+Jason_Clarke/5Ft4a8JgeKY_0000010 189.4 196.6 
+Jason_Clarke/5Ft4a8JgeKY_0000011 212.0 221.3 
+Jason_Clarke/5Ft4a8JgeKY_0000012 230.5 238.4 
+Jason_Clarke/5Ft4a8JgeKY_0000013 244.3 252.4 
+Jason_Clarke/5Ft4a8JgeKY_0000014 258.9 264.1 
+Jason_Clarke/5Ft4a8JgeKY_0000015 280.7 290.1 

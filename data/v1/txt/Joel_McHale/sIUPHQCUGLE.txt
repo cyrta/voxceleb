@@ -1,0 +1,6 @@
+POI: 			Joel_McHale 
+Youtube ID: 	sIUPHQCUGLE 
+Video length: 	272.6 sec 
+Set (V): 		dev 
+ 
+Joel_McHale/sIUPHQCUGLE_0000001 51.0 55.7 

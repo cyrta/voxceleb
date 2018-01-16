@@ -1,0 +1,10 @@
+POI: 			Elle_Fanning 
+Youtube ID: 	ZAK9gLYNqPs 
+Video length: 	226.7 sec 
+Set (V): 		test 
+ 
+Elle_Fanning/ZAK9gLYNqPs_0000001 39.2 46.8 
+Elle_Fanning/ZAK9gLYNqPs_0000002 48.9 64.2 
+Elle_Fanning/ZAK9gLYNqPs_0000003 179.3 191.9 
+Elle_Fanning/ZAK9gLYNqPs_0000004 192.2 196.7 
+Elle_Fanning/ZAK9gLYNqPs_0000005 210.2 217.9 

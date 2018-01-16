@@ -1,0 +1,15 @@
+POI: 			Kenya_Moore 
+Youtube ID: 	HQkU71i8mlM 
+Video length: 	323.8 sec 
+Set (V): 		dev 
+ 
+Kenya_Moore/HQkU71i8mlM_0000001 35.0 52.2 
+Kenya_Moore/HQkU71i8mlM_0000002 70.1 75.5 
+Kenya_Moore/HQkU71i8mlM_0000003 98.3 113.7 
+Kenya_Moore/HQkU71i8mlM_0000004 135.6 144.4 
+Kenya_Moore/HQkU71i8mlM_0000005 154.1 164.0 
+Kenya_Moore/HQkU71i8mlM_0000006 177.6 184.4 
+Kenya_Moore/HQkU71i8mlM_0000007 233.2 242.1 
+Kenya_Moore/HQkU71i8mlM_0000008 252.5 262.9 
+Kenya_Moore/HQkU71i8mlM_0000009 273.9 282.3 
+Kenya_Moore/HQkU71i8mlM_0000010 300.4 305.9 

@@ -1,0 +1,17 @@
+POI: 			Carrie_Underwood 
+Youtube ID: 	puFI59ljSdo 
+Video length: 	744.2 sec 
+Set (V): 		dev 
+ 
+Carrie_Underwood/puFI59ljSdo_0000001 74.0 82.1 
+Carrie_Underwood/puFI59ljSdo_0000002 103.6 114.8 
+Carrie_Underwood/puFI59ljSdo_0000003 154.6 166.9 
+Carrie_Underwood/puFI59ljSdo_0000004 256.3 265.4 
+Carrie_Underwood/puFI59ljSdo_0000005 330.2 343.6 
+Carrie_Underwood/puFI59ljSdo_0000006 382.8 389.0 
+Carrie_Underwood/puFI59ljSdo_0000007 452.7 459.4 
+Carrie_Underwood/puFI59ljSdo_0000008 474.2 484.1 
+Carrie_Underwood/puFI59ljSdo_0000009 484.8 491.4 
+Carrie_Underwood/puFI59ljSdo_0000010 548.8 553.3 
+Carrie_Underwood/puFI59ljSdo_0000011 569.7 583.1 
+Carrie_Underwood/puFI59ljSdo_0000012 676.2 684.6 

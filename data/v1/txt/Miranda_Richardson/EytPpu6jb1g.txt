@@ -1,0 +1,11 @@
+POI: 			Miranda_Richardson 
+Youtube ID: 	EytPpu6jb1g 
+Video length: 	234.4 sec 
+Set (V): 		dev 
+ 
+Miranda_Richardson/EytPpu6jb1g_0000001 65.1 70.3 
+Miranda_Richardson/EytPpu6jb1g_0000002 78.6 82.8 
+Miranda_Richardson/EytPpu6jb1g_0000003 91.6 95.8 
+Miranda_Richardson/EytPpu6jb1g_0000004 140.6 144.8 
+Miranda_Richardson/EytPpu6jb1g_0000005 166.3 170.4 
+Miranda_Richardson/EytPpu6jb1g_0000006 172.3 178.6 

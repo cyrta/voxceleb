@@ -1,0 +1,11 @@
+POI: 			Pierfrancesco_Favino 
+Youtube ID: 	o4GBQZ5UhQg 
+Video length: 	234.5 sec 
+Set (V): 		dev 
+ 
+Pierfrancesco_Favino/o4GBQZ5UhQg_0000001 83.4 87.3 
+Pierfrancesco_Favino/o4GBQZ5UhQg_0000002 90.6 95.2 
+Pierfrancesco_Favino/o4GBQZ5UhQg_0000003 116.4 120.7 
+Pierfrancesco_Favino/o4GBQZ5UhQg_0000004 141.4 146.0 
+Pierfrancesco_Favino/o4GBQZ5UhQg_0000005 165.7 170.0 
+Pierfrancesco_Favino/o4GBQZ5UhQg_0000006 219.6 225.4 

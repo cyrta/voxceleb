@@ -1,0 +1,9 @@
+POI: 			Will_Forte 
+Youtube ID: 	DGNRvw7sNLM 
+Video length: 	166.8 sec 
+Set (V): 		dev 
+ 
+Will_Forte/DGNRvw7sNLM_0000001 05.0 09.2 
+Will_Forte/DGNRvw7sNLM_0000002 11.6 33.6 
+Will_Forte/DGNRvw7sNLM_0000003 70.3 75.6 
+Will_Forte/DGNRvw7sNLM_0000004 93.6 99.2 

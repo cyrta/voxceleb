@@ -1,0 +1,13 @@
+POI: 			Barbara_Eden 
+Youtube ID: 	daPvCLLjISg 
+Video length: 	423.3 sec 
+Set (V): 		dev 
+ 
+Barbara_Eden/daPvCLLjISg_0000001 95.8 100.0 
+Barbara_Eden/daPvCLLjISg_0000002 128.1 139.9 
+Barbara_Eden/daPvCLLjISg_0000003 145.1 152.9 
+Barbara_Eden/daPvCLLjISg_0000004 164.3 168.8 
+Barbara_Eden/daPvCLLjISg_0000005 185.2 190.0 
+Barbara_Eden/daPvCLLjISg_0000006 288.2 292.9 
+Barbara_Eden/daPvCLLjISg_0000007 345.2 351.2 
+Barbara_Eden/daPvCLLjISg_0000008 356.2 361.0 

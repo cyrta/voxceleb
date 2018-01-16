@@ -1,0 +1,11 @@
+POI: 			Jon_Favreau 
+Youtube ID: 	c1CLEbI5dCE 
+Video length: 	307.1 sec 
+Set (V): 		dev 
+ 
+Jon_Favreau/c1CLEbI5dCE_0000001 31.5 45.8 
+Jon_Favreau/c1CLEbI5dCE_0000002 53.2 66.4 
+Jon_Favreau/c1CLEbI5dCE_0000003 79.8 86.0 
+Jon_Favreau/c1CLEbI5dCE_0000004 144.0 150.5 
+Jon_Favreau/c1CLEbI5dCE_0000005 274.2 279.8 
+Jon_Favreau/c1CLEbI5dCE_0000006 285.9 295.2 

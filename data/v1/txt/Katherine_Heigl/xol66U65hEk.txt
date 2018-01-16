@@ -1,0 +1,11 @@
+POI: 			Katherine_Heigl 
+Youtube ID: 	xol66U65hEk 
+Video length: 	360.6 sec 
+Set (V): 		dev 
+ 
+Katherine_Heigl/xol66U65hEk_0000001 07.4 18.4 
+Katherine_Heigl/xol66U65hEk_0000002 143.6 153.1 
+Katherine_Heigl/xol66U65hEk_0000003 154.0 173.6 
+Katherine_Heigl/xol66U65hEk_0000004 313.3 328.3 
+Katherine_Heigl/xol66U65hEk_0000005 343.8 353.4 
+Katherine_Heigl/xol66U65hEk_0000006 326.9 330.9 

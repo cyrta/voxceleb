@@ -1,0 +1,8 @@
+POI: 			Vince_Gilligan 
+Youtube ID: 	ujMzR3xNqr4 
+Video length: 	244.6 sec 
+Set (V): 		dev 
+ 
+Vince_Gilligan/ujMzR3xNqr4_0000001 37.5 45.5 
+Vince_Gilligan/ujMzR3xNqr4_0000002 99.5 108.2 
+Vince_Gilligan/ujMzR3xNqr4_0000003 111.5 135.2 

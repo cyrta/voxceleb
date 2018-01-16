@@ -1,0 +1,21 @@
+POI: 			Mario_Lopez 
+Youtube ID: 	PBHERBsYv-w 
+Video length: 	3174.0 sec 
+Set (V): 		dev 
+ 
+Mario_Lopez/PBHERBsYv-w_0000001 607.2 612.4 
+Mario_Lopez/PBHERBsYv-w_0000002 623.4 627.7 
+Mario_Lopez/PBHERBsYv-w_0000003 671.6 676.9 
+Mario_Lopez/PBHERBsYv-w_0000004 788.2 793.1 
+Mario_Lopez/PBHERBsYv-w_0000005 883.4 887.4 
+Mario_Lopez/PBHERBsYv-w_0000006 1030.9 1037.0 
+Mario_Lopez/PBHERBsYv-w_0000007 1037.7 1043.5 
+Mario_Lopez/PBHERBsYv-w_0000008 1344.0 1351.8 
+Mario_Lopez/PBHERBsYv-w_0000009 1595.0 1600.4 
+Mario_Lopez/PBHERBsYv-w_0000010 1681.4 1690.8 
+Mario_Lopez/PBHERBsYv-w_0000011 1776.1 1781.2 
+Mario_Lopez/PBHERBsYv-w_0000012 1925.2 1930.1 
+Mario_Lopez/PBHERBsYv-w_0000013 2095.5 2100.8 
+Mario_Lopez/PBHERBsYv-w_0000014 2673.3 2685.8 
+Mario_Lopez/PBHERBsYv-w_0000015 2908.2 2913.1 
+Mario_Lopez/PBHERBsYv-w_0000016 2913.2 2918.4 

@@ -1,0 +1,11 @@
+POI: 			James_Frain 
+Youtube ID: 	YqFq2x4s0eM 
+Video length: 	104.9 sec 
+Set (V): 		dev 
+ 
+James_Frain/YqFq2x4s0eM_0000001 01.2 10.8 
+James_Frain/YqFq2x4s0eM_0000002 15.0 19.7 
+James_Frain/YqFq2x4s0eM_0000003 20.0 24.0 
+James_Frain/YqFq2x4s0eM_0000004 26.4 37.8 
+James_Frain/YqFq2x4s0eM_0000005 84.3 90.7 
+James_Frain/YqFq2x4s0eM_0000006 96.9 101.9 

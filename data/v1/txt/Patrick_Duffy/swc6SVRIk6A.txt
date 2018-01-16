@@ -1,0 +1,32 @@
+POI: 			Patrick_Duffy 
+Youtube ID: 	swc6SVRIk6A 
+Video length: 	682.5 sec 
+Set (V): 		dev 
+ 
+Patrick_Duffy/swc6SVRIk6A_0000001 59.8 65.4 
+Patrick_Duffy/swc6SVRIk6A_0000002 135.5 139.6 
+Patrick_Duffy/swc6SVRIk6A_0000003 157.2 165.2 
+Patrick_Duffy/swc6SVRIk6A_0000004 168.4 176.0 
+Patrick_Duffy/swc6SVRIk6A_0000005 196.2 200.8 
+Patrick_Duffy/swc6SVRIk6A_0000006 202.7 206.8 
+Patrick_Duffy/swc6SVRIk6A_0000007 248.5 253.0 
+Patrick_Duffy/swc6SVRIk6A_0000008 253.9 261.4 
+Patrick_Duffy/swc6SVRIk6A_0000009 271.1 278.4 
+Patrick_Duffy/swc6SVRIk6A_0000010 317.7 323.2 
+Patrick_Duffy/swc6SVRIk6A_0000011 325.4 330.3 
+Patrick_Duffy/swc6SVRIk6A_0000012 333.0 339.3 
+Patrick_Duffy/swc6SVRIk6A_0000013 340.8 347.8 
+Patrick_Duffy/swc6SVRIk6A_0000014 348.1 357.1 
+Patrick_Duffy/swc6SVRIk6A_0000015 392.0 398.0 
+Patrick_Duffy/swc6SVRIk6A_0000016 398.1 410.7 
+Patrick_Duffy/swc6SVRIk6A_0000017 428.2 437.2 
+Patrick_Duffy/swc6SVRIk6A_0000018 437.4 443.3 
+Patrick_Duffy/swc6SVRIk6A_0000019 452.2 460.2 
+Patrick_Duffy/swc6SVRIk6A_0000020 465.3 469.5 
+Patrick_Duffy/swc6SVRIk6A_0000021 470.0 480.9 
+Patrick_Duffy/swc6SVRIk6A_0000022 499.4 507.0 
+Patrick_Duffy/swc6SVRIk6A_0000023 526.3 532.8 
+Patrick_Duffy/swc6SVRIk6A_0000024 580.0 588.9 
+Patrick_Duffy/swc6SVRIk6A_0000025 595.2 603.6 
+Patrick_Duffy/swc6SVRIk6A_0000026 605.8 618.8 
+Patrick_Duffy/swc6SVRIk6A_0000027 631.4 637.8 

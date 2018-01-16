@@ -1,0 +1,7 @@
+POI: 			Kal_Penn 
+Youtube ID: 	3DglmiOv7WI 
+Video length: 	220.8 sec 
+Set (V): 		dev 
+ 
+Kal_Penn/3DglmiOv7WI_0000001 99.3 104.0 
+Kal_Penn/3DglmiOv7WI_0000002 170.4 174.4 

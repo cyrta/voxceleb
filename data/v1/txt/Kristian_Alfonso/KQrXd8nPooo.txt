@@ -1,0 +1,10 @@
+POI: 			Kristian_Alfonso 
+Youtube ID: 	KQrXd8nPooo 
+Video length: 	158.4 sec 
+Set (V): 		dev 
+ 
+Kristian_Alfonso/KQrXd8nPooo_0000001 16.5 31.0 
+Kristian_Alfonso/KQrXd8nPooo_0000002 31.4 38.0 
+Kristian_Alfonso/KQrXd8nPooo_0000003 92.8 98.8 
+Kristian_Alfonso/KQrXd8nPooo_0000004 103.2 122.2 
+Kristian_Alfonso/KQrXd8nPooo_0000005 132.8 156.7 

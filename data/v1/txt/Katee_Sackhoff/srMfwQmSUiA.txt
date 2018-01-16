@@ -1,0 +1,16 @@
+POI: 			Katee_Sackhoff 
+Youtube ID: 	srMfwQmSUiA 
+Video length: 	353.1 sec 
+Set (V): 		dev 
+ 
+Katee_Sackhoff/srMfwQmSUiA_0000001 45.5 50.1 
+Katee_Sackhoff/srMfwQmSUiA_0000002 166.5 174.1 
+Katee_Sackhoff/srMfwQmSUiA_0000003 175.4 179.7 
+Katee_Sackhoff/srMfwQmSUiA_0000004 184.2 189.3 
+Katee_Sackhoff/srMfwQmSUiA_0000005 190.4 195.3 
+Katee_Sackhoff/srMfwQmSUiA_0000006 195.8 201.4 
+Katee_Sackhoff/srMfwQmSUiA_0000007 249.8 254.3 
+Katee_Sackhoff/srMfwQmSUiA_0000008 261.0 266.2 
+Katee_Sackhoff/srMfwQmSUiA_0000009 266.7 270.8 
+Katee_Sackhoff/srMfwQmSUiA_0000010 271.7 281.4 
+Katee_Sackhoff/srMfwQmSUiA_0000011 297.7 306.8 

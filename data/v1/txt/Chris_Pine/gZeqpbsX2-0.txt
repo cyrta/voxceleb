@@ -1,0 +1,7 @@
+POI: 			Chris_Pine 
+Youtube ID: 	gZeqpbsX2-0 
+Video length: 	148.5 sec 
+Set (V): 		dev 
+ 
+Chris_Pine/gZeqpbsX2-0_0000001 50.4 54.6 
+Chris_Pine/gZeqpbsX2-0_0000002 55.3 62.5 

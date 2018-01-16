@@ -1,0 +1,25 @@
+POI: 			Dot-Marie_Jones 
+Youtube ID: 	bXpavyiCu10 
+Video length: 	462.7 sec 
+Set (V): 		dev 
+ 
+Dot-Marie_Jones/bXpavyiCu10_0000001 20.3 26.6 
+Dot-Marie_Jones/bXpavyiCu10_0000002 27.4 44.6 
+Dot-Marie_Jones/bXpavyiCu10_0000003 51.7 56.2 
+Dot-Marie_Jones/bXpavyiCu10_0000004 58.4 64.4 
+Dot-Marie_Jones/bXpavyiCu10_0000005 77.3 86.5 
+Dot-Marie_Jones/bXpavyiCu10_0000006 137.3 142.6 
+Dot-Marie_Jones/bXpavyiCu10_0000007 144.0 150.6 
+Dot-Marie_Jones/bXpavyiCu10_0000008 150.8 161.0 
+Dot-Marie_Jones/bXpavyiCu10_0000009 163.6 176.8 
+Dot-Marie_Jones/bXpavyiCu10_0000010 199.2 224.4 
+Dot-Marie_Jones/bXpavyiCu10_0000011 244.2 256.0 
+Dot-Marie_Jones/bXpavyiCu10_0000012 261.5 270.1 
+Dot-Marie_Jones/bXpavyiCu10_0000013 292.2 300.2 
+Dot-Marie_Jones/bXpavyiCu10_0000014 301.0 306.7 
+Dot-Marie_Jones/bXpavyiCu10_0000015 308.1 317.2 
+Dot-Marie_Jones/bXpavyiCu10_0000016 332.2 339.6 
+Dot-Marie_Jones/bXpavyiCu10_0000017 339.7 346.9 
+Dot-Marie_Jones/bXpavyiCu10_0000018 362.6 380.0 
+Dot-Marie_Jones/bXpavyiCu10_0000019 394.1 409.8 
+Dot-Marie_Jones/bXpavyiCu10_0000020 442.5 446.6 

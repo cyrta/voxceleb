@@ -1,0 +1,11 @@
+POI: 			Victoria_Rowell 
+Youtube ID: 	PDp6bwtUPJ8 
+Video length: 	880.8 sec 
+Set (V): 		dev 
+ 
+Victoria_Rowell/PDp6bwtUPJ8_0000001 316.7 323.1 
+Victoria_Rowell/PDp6bwtUPJ8_0000002 684.7 690.8 
+Victoria_Rowell/PDp6bwtUPJ8_0000003 702.2 707.4 
+Victoria_Rowell/PDp6bwtUPJ8_0000004 732.5 739.5 
+Victoria_Rowell/PDp6bwtUPJ8_0000005 803.0 812.5 
+Victoria_Rowell/PDp6bwtUPJ8_0000006 822.0 826.0 

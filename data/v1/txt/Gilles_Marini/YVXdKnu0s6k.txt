@@ -1,0 +1,8 @@
+POI: 			Gilles_Marini 
+Youtube ID: 	YVXdKnu0s6k 
+Video length: 	97.9 sec 
+Set (V): 		dev 
+ 
+Gilles_Marini/YVXdKnu0s6k_0000001 09.1 19.9 
+Gilles_Marini/YVXdKnu0s6k_0000002 65.1 75.6 
+Gilles_Marini/YVXdKnu0s6k_0000003 86.9 92.7 

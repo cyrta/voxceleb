@@ -1,0 +1,15 @@
+POI: 			Senta_Berger 
+Youtube ID: 	XhaEuVtX4cg 
+Video length: 	452.7 sec 
+Set (V): 		dev 
+ 
+Senta_Berger/XhaEuVtX4cg_0000001 14.8 22.2 
+Senta_Berger/XhaEuVtX4cg_0000002 72.7 94.9 
+Senta_Berger/XhaEuVtX4cg_0000003 108.0 113.3 
+Senta_Berger/XhaEuVtX4cg_0000004 115.2 141.2 
+Senta_Berger/XhaEuVtX4cg_0000005 141.5 156.6 
+Senta_Berger/XhaEuVtX4cg_0000006 176.6 181.7 
+Senta_Berger/XhaEuVtX4cg_0000007 181.8 213.1 
+Senta_Berger/XhaEuVtX4cg_0000008 329.3 342.2 
+Senta_Berger/XhaEuVtX4cg_0000009 358.9 367.0 
+Senta_Berger/XhaEuVtX4cg_0000010 369.2 375.9 

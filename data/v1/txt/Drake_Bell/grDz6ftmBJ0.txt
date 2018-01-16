@@ -1,0 +1,10 @@
+POI: 			Drake_Bell 
+Youtube ID: 	grDz6ftmBJ0 
+Video length: 	278.8 sec 
+Set (V): 		dev 
+ 
+Drake_Bell/grDz6ftmBJ0_0000001 55.4 61.1 
+Drake_Bell/grDz6ftmBJ0_0000002 104.6 108.6 
+Drake_Bell/grDz6ftmBJ0_0000003 120.9 136.2 
+Drake_Bell/grDz6ftmBJ0_0000004 254.3 258.6 
+Drake_Bell/grDz6ftmBJ0_0000005 259.8 265.0 

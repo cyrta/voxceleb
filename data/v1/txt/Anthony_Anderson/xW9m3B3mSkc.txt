@@ -1,0 +1,9 @@
+POI: 			Anthony_Anderson 
+Youtube ID: 	xW9m3B3mSkc 
+Video length: 	162.0 sec 
+Set (V): 		dev 
+ 
+Anthony_Anderson/xW9m3B3mSkc_0000001 09.7 27.4 
+Anthony_Anderson/xW9m3B3mSkc_0000002 57.0 65.6 
+Anthony_Anderson/xW9m3B3mSkc_0000003 119.2 125.0 
+Anthony_Anderson/xW9m3B3mSkc_0000004 133.1 137.6 

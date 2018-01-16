@@ -1,0 +1,8 @@
+POI: 			NeNe_Leakes 
+Youtube ID: 	CcQ-eeYligI 
+Video length: 	742.0 sec 
+Set (V): 		dev 
+ 
+NeNe_Leakes/CcQ-eeYligI_0000001 257.4 262.3 
+NeNe_Leakes/CcQ-eeYligI_0000002 333.0 339.5 
+NeNe_Leakes/CcQ-eeYligI_0000003 372.9 381.4 

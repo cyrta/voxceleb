@@ -1,0 +1,10 @@
+POI: 			Charlotte_Gainsbourg 
+Youtube ID: 	lxxYRnSlnLY 
+Video length: 	481.7 sec 
+Set (V): 		dev 
+ 
+Charlotte_Gainsbourg/lxxYRnSlnLY_0000001 53.4 59.1 
+Charlotte_Gainsbourg/lxxYRnSlnLY_0000002 64.4 69.3 
+Charlotte_Gainsbourg/lxxYRnSlnLY_0000003 243.7 249.8 
+Charlotte_Gainsbourg/lxxYRnSlnLY_0000004 279.2 284.3 
+Charlotte_Gainsbourg/lxxYRnSlnLY_0000005 318.4 325.5 

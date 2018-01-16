@@ -1,0 +1,19 @@
+POI: 			Chris_Martin 
+Youtube ID: 	dATog1S1tIw 
+Video length: 	430.9 sec 
+Set (V): 		dev 
+ 
+Chris_Martin/dATog1S1tIw_0000001 112.5 118.0 
+Chris_Martin/dATog1S1tIw_0000002 119.6 131.0 
+Chris_Martin/dATog1S1tIw_0000003 155.8 166.4 
+Chris_Martin/dATog1S1tIw_0000004 172.4 197.6 
+Chris_Martin/dATog1S1tIw_0000005 210.0 214.2 
+Chris_Martin/dATog1S1tIw_0000006 220.0 225.0 
+Chris_Martin/dATog1S1tIw_0000007 225.5 229.6 
+Chris_Martin/dATog1S1tIw_0000008 291.5 296.0 
+Chris_Martin/dATog1S1tIw_0000009 296.4 310.1 
+Chris_Martin/dATog1S1tIw_0000010 312.0 323.1 
+Chris_Martin/dATog1S1tIw_0000011 341.6 346.6 
+Chris_Martin/dATog1S1tIw_0000012 370.3 381.6 
+Chris_Martin/dATog1S1tIw_0000013 393.8 398.6 
+Chris_Martin/dATog1S1tIw_0000014 409.1 414.4 

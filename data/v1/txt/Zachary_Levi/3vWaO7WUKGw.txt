@@ -1,0 +1,7 @@
+POI: 			Zachary_Levi 
+Youtube ID: 	3vWaO7WUKGw 
+Video length: 	291.2 sec 
+Set (V): 		dev 
+ 
+Zachary_Levi/3vWaO7WUKGw_0000001 252.3 256.4 
+Zachary_Levi/3vWaO7WUKGw_0000002 265.3 280.4 

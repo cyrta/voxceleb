@@ -1,0 +1,8 @@
+POI: 			Octavia_Spencer 
+Youtube ID: 	CjFAAmcP09c 
+Video length: 	215.2 sec 
+Set (V): 		dev 
+ 
+Octavia_Spencer/CjFAAmcP09c_0000001 66.0 70.2 
+Octavia_Spencer/CjFAAmcP09c_0000002 82.7 86.7 
+Octavia_Spencer/CjFAAmcP09c_0000003 87.4 93.1 

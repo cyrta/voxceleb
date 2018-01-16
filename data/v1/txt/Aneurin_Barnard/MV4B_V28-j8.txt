@@ -1,0 +1,11 @@
+POI: 			Aneurin_Barnard 
+Youtube ID: 	MV4B_V28-j8 
+Video length: 	112.7 sec 
+Set (V): 		dev 
+ 
+Aneurin_Barnard/MV4B_V28-j8_0000001 06.1 29.9 
+Aneurin_Barnard/MV4B_V28-j8_0000002 39.4 43.8 
+Aneurin_Barnard/MV4B_V28-j8_0000003 57.5 62.0 
+Aneurin_Barnard/MV4B_V28-j8_0000004 62.6 67.4 
+Aneurin_Barnard/MV4B_V28-j8_0000005 75.6 80.3 
+Aneurin_Barnard/MV4B_V28-j8_0000006 97.9 102.9 

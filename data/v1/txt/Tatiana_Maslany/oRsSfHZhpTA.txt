@@ -1,0 +1,10 @@
+POI: 			Tatiana_Maslany 
+Youtube ID: 	oRsSfHZhpTA 
+Video length: 	59.6 sec 
+Set (V): 		dev 
+ 
+Tatiana_Maslany/oRsSfHZhpTA_0000001 07.0 14.5 
+Tatiana_Maslany/oRsSfHZhpTA_0000002 16.7 22.6 
+Tatiana_Maslany/oRsSfHZhpTA_0000003 25.3 29.9 
+Tatiana_Maslany/oRsSfHZhpTA_0000004 37.3 48.1 
+Tatiana_Maslany/oRsSfHZhpTA_0000005 49.4 54.7 

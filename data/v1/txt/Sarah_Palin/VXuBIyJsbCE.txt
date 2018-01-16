@@ -1,0 +1,9 @@
+POI: 			Sarah_Palin 
+Youtube ID: 	VXuBIyJsbCE 
+Video length: 	494.1 sec 
+Set (V): 		dev 
+ 
+Sarah_Palin/VXuBIyJsbCE_0000001 46.6 52.9 
+Sarah_Palin/VXuBIyJsbCE_0000002 62.8 68.1 
+Sarah_Palin/VXuBIyJsbCE_0000003 136.8 142.3 
+Sarah_Palin/VXuBIyJsbCE_0000004 176.3 182.0 

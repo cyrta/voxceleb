@@ -1,0 +1,11 @@
+POI: 			Richard_Kind 
+Youtube ID: 	n0V3Urny3CI 
+Video length: 	545.1 sec 
+Set (V): 		dev 
+ 
+Richard_Kind/n0V3Urny3CI_0000001 100.0 104.1 
+Richard_Kind/n0V3Urny3CI_0000002 104.2 109.8 
+Richard_Kind/n0V3Urny3CI_0000003 124.6 128.9 
+Richard_Kind/n0V3Urny3CI_0000004 135.6 140.0 
+Richard_Kind/n0V3Urny3CI_0000005 188.8 194.6 
+Richard_Kind/n0V3Urny3CI_0000006 202.1 209.4 

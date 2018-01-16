@@ -1,0 +1,11 @@
+POI: 			Rosie_Huntington-Whiteley 
+Youtube ID: 	eaDcI7M_GcU 
+Video length: 	173.1 sec 
+Set (V): 		dev 
+ 
+Rosie_Huntington-Whiteley/eaDcI7M_GcU_0000001 18.9 24.8 
+Rosie_Huntington-Whiteley/eaDcI7M_GcU_0000002 25.3 38.0 
+Rosie_Huntington-Whiteley/eaDcI7M_GcU_0000003 38.9 46.8 
+Rosie_Huntington-Whiteley/eaDcI7M_GcU_0000004 49.8 55.0 
+Rosie_Huntington-Whiteley/eaDcI7M_GcU_0000005 55.4 61.4 
+Rosie_Huntington-Whiteley/eaDcI7M_GcU_0000006 62.3 66.8 

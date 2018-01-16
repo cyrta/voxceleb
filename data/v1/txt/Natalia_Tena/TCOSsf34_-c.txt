@@ -1,0 +1,7 @@
+POI: 			Natalia_Tena 
+Youtube ID: 	TCOSsf34_-c 
+Video length: 	483.5 sec 
+Set (V): 		dev 
+ 
+Natalia_Tena/TCOSsf34_-c_0000001 343.5 350.0 
+Natalia_Tena/TCOSsf34_-c_0000002 454.3 463.7 

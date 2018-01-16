@@ -1,0 +1,10 @@
+POI: 			John_Slattery 
+Youtube ID: 	MHR33zNFPbI 
+Video length: 	338.2 sec 
+Set (V): 		dev 
+ 
+John_Slattery/MHR33zNFPbI_0000001 33.7 44.0 
+John_Slattery/MHR33zNFPbI_0000002 46.7 54.9 
+John_Slattery/MHR33zNFPbI_0000003 250.5 257.5 
+John_Slattery/MHR33zNFPbI_0000004 295.7 302.9 
+John_Slattery/MHR33zNFPbI_0000005 307.9 328.2 

@@ -1,0 +1,8 @@
+POI: 			Jai_Courtney 
+Youtube ID: 	eo9GozESSIE 
+Video length: 	235.5 sec 
+Set (V): 		dev 
+ 
+Jai_Courtney/eo9GozESSIE_0000001 145.0 152.4 
+Jai_Courtney/eo9GozESSIE_0000002 152.6 156.8 
+Jai_Courtney/eo9GozESSIE_0000003 157.8 169.8 

@@ -1,0 +1,9 @@
+POI: 			Ken_Jeong 
+Youtube ID: 	tLq_QITBFVA 
+Video length: 	194.5 sec 
+Set (V): 		dev 
+ 
+Ken_Jeong/tLq_QITBFVA_0000001 19.8 30.4 
+Ken_Jeong/tLq_QITBFVA_0000002 39.2 46.7 
+Ken_Jeong/tLq_QITBFVA_0000003 60.4 72.7 
+Ken_Jeong/tLq_QITBFVA_0000004 89.3 95.9 

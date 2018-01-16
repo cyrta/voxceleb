@@ -1,0 +1,7 @@
+POI: 			Kris_Jenner 
+Youtube ID: 	9DwuJTYDwTw 
+Video length: 	145.8 sec 
+Set (V): 		dev 
+ 
+Kris_Jenner/9DwuJTYDwTw_0000001 78.0 82.0 
+Kris_Jenner/9DwuJTYDwTw_0000002 115.8 122.2 

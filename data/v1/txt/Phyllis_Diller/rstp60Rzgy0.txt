@@ -1,0 +1,29 @@
+POI: 			Phyllis_Diller 
+Youtube ID: 	rstp60Rzgy0 
+Video length: 	1021.2 sec 
+Set (V): 		dev 
+ 
+Phyllis_Diller/rstp60Rzgy0_0000001 192.9 204.0 
+Phyllis_Diller/rstp60Rzgy0_0000002 252.3 264.1 
+Phyllis_Diller/rstp60Rzgy0_0000003 272.6 278.1 
+Phyllis_Diller/rstp60Rzgy0_0000004 306.2 312.2 
+Phyllis_Diller/rstp60Rzgy0_0000005 316.3 321.7 
+Phyllis_Diller/rstp60Rzgy0_0000006 486.4 494.0 
+Phyllis_Diller/rstp60Rzgy0_0000007 497.0 501.6 
+Phyllis_Diller/rstp60Rzgy0_0000008 506.2 520.1 
+Phyllis_Diller/rstp60Rzgy0_0000009 526.6 530.8 
+Phyllis_Diller/rstp60Rzgy0_0000010 541.9 553.3 
+Phyllis_Diller/rstp60Rzgy0_0000011 561.8 567.2 
+Phyllis_Diller/rstp60Rzgy0_0000012 658.6 664.8 
+Phyllis_Diller/rstp60Rzgy0_0000013 685.2 693.1 
+Phyllis_Diller/rstp60Rzgy0_0000014 703.9 708.6 
+Phyllis_Diller/rstp60Rzgy0_0000015 739.7 745.2 
+Phyllis_Diller/rstp60Rzgy0_0000016 830.3 834.4 
+Phyllis_Diller/rstp60Rzgy0_0000017 835.8 840.2 
+Phyllis_Diller/rstp60Rzgy0_0000018 857.1 862.3 
+Phyllis_Diller/rstp60Rzgy0_0000019 876.9 887.4 
+Phyllis_Diller/rstp60Rzgy0_0000020 895.4 904.1 
+Phyllis_Diller/rstp60Rzgy0_0000021 909.6 914.6 
+Phyllis_Diller/rstp60Rzgy0_0000022 932.4 940.5 
+Phyllis_Diller/rstp60Rzgy0_0000023 968.1 972.8 
+Phyllis_Diller/rstp60Rzgy0_0000024 976.2 980.1 

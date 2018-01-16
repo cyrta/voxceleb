@@ -1,0 +1,11 @@
+POI: 			Tracey_Gold 
+Youtube ID: 	PInE4QmPngE 
+Video length: 	560.1 sec 
+Set (V): 		dev 
+ 
+Tracey_Gold/PInE4QmPngE_0000001 106.6 119.6 
+Tracey_Gold/PInE4QmPngE_0000002 120.4 125.9 
+Tracey_Gold/PInE4QmPngE_0000003 227.2 257.7 
+Tracey_Gold/PInE4QmPngE_0000004 260.8 282.8 
+Tracey_Gold/PInE4QmPngE_0000005 416.3 423.2 
+Tracey_Gold/PInE4QmPngE_0000006 423.4 431.0 

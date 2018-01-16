@@ -1,0 +1,8 @@
+POI: 			Lesley_Manville 
+Youtube ID: 	n9V7Ze1yfBw 
+Video length: 	86.1 sec 
+Set (V): 		dev 
+ 
+Lesley_Manville/n9V7Ze1yfBw_0000001 16.8 22.5 
+Lesley_Manville/n9V7Ze1yfBw_0000002 27.3 35.2 
+Lesley_Manville/n9V7Ze1yfBw_0000003 73.7 80.5 

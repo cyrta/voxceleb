@@ -1,0 +1,15 @@
+POI: 			Marc_Webb 
+Youtube ID: 	Bmw9BYaSCMU 
+Video length: 	251.8 sec 
+Set (V): 		dev 
+ 
+Marc_Webb/Bmw9BYaSCMU_0000001 12.2 17.4 
+Marc_Webb/Bmw9BYaSCMU_0000002 19.6 23.7 
+Marc_Webb/Bmw9BYaSCMU_0000003 25.0 31.0 
+Marc_Webb/Bmw9BYaSCMU_0000004 32.0 42.0 
+Marc_Webb/Bmw9BYaSCMU_0000005 71.6 75.6 
+Marc_Webb/Bmw9BYaSCMU_0000006 107.5 120.5 
+Marc_Webb/Bmw9BYaSCMU_0000007 127.2 134.6 
+Marc_Webb/Bmw9BYaSCMU_0000008 159.2 165.2 
+Marc_Webb/Bmw9BYaSCMU_0000009 187.4 191.3 
+Marc_Webb/Bmw9BYaSCMU_0000010 216.7 224.5 

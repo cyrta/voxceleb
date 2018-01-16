@@ -1,0 +1,17 @@
+POI: 			John_Hurt 
+Youtube ID: 	8lxZSwUdY9Q 
+Video length: 	253.8 sec 
+Set (V): 		dev 
+ 
+John_Hurt/8lxZSwUdY9Q_0000001 15.1 21.0 
+John_Hurt/8lxZSwUdY9Q_0000002 26.9 32.6 
+John_Hurt/8lxZSwUdY9Q_0000003 61.0 66.9 
+John_Hurt/8lxZSwUdY9Q_0000004 82.1 86.9 
+John_Hurt/8lxZSwUdY9Q_0000005 111.0 117.4 
+John_Hurt/8lxZSwUdY9Q_0000006 122.0 126.6 
+John_Hurt/8lxZSwUdY9Q_0000007 127.2 131.3 
+John_Hurt/8lxZSwUdY9Q_0000008 141.4 149.4 
+John_Hurt/8lxZSwUdY9Q_0000009 154.6 161.0 
+John_Hurt/8lxZSwUdY9Q_0000010 182.2 187.0 
+John_Hurt/8lxZSwUdY9Q_0000011 202.8 207.5 
+John_Hurt/8lxZSwUdY9Q_0000012 213.2 218.4 

@@ -1,0 +1,23 @@
+POI: 			James_Nesbitt 
+Youtube ID: 	R8B7yQKbsC0 
+Video length: 	348.9 sec 
+Set (V): 		dev 
+ 
+James_Nesbitt/R8B7yQKbsC0_0000001 55.7 72.0 
+James_Nesbitt/R8B7yQKbsC0_0000002 73.8 78.3 
+James_Nesbitt/R8B7yQKbsC0_0000003 87.4 105.0 
+James_Nesbitt/R8B7yQKbsC0_0000004 105.2 117.7 
+James_Nesbitt/R8B7yQKbsC0_0000005 118.6 132.4 
+James_Nesbitt/R8B7yQKbsC0_0000006 137.8 145.8 
+James_Nesbitt/R8B7yQKbsC0_0000007 146.3 157.8 
+James_Nesbitt/R8B7yQKbsC0_0000008 159.7 163.7 
+James_Nesbitt/R8B7yQKbsC0_0000009 165.7 176.6 
+James_Nesbitt/R8B7yQKbsC0_0000010 179.4 192.1 
+James_Nesbitt/R8B7yQKbsC0_0000011 194.0 202.2 
+James_Nesbitt/R8B7yQKbsC0_0000012 203.4 213.8 
+James_Nesbitt/R8B7yQKbsC0_0000013 230.7 254.6 
+James_Nesbitt/R8B7yQKbsC0_0000014 256.4 264.1 
+James_Nesbitt/R8B7yQKbsC0_0000015 266.2 281.0 
+James_Nesbitt/R8B7yQKbsC0_0000016 282.9 288.9 
+James_Nesbitt/R8B7yQKbsC0_0000017 294.6 312.0 
+James_Nesbitt/R8B7yQKbsC0_0000018 316.0 333.9 

@@ -1,0 +1,12 @@
+POI: 			J.K._Simmons 
+Youtube ID: 	mP6jFhhui90 
+Video length: 	142.0 sec 
+Set (V): 		dev 
+ 
+J.K._Simmons/mP6jFhhui90_0000001 11.6 17.9 
+J.K._Simmons/mP6jFhhui90_0000002 19.2 25.8 
+J.K._Simmons/mP6jFhhui90_0000003 60.0 65.2 
+J.K._Simmons/mP6jFhhui90_0000004 66.0 72.6 
+J.K._Simmons/mP6jFhhui90_0000005 74.8 80.4 
+J.K._Simmons/mP6jFhhui90_0000006 87.8 96.4 
+J.K._Simmons/mP6jFhhui90_0000007 97.4 103.3 

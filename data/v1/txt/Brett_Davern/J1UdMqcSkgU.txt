@@ -1,0 +1,14 @@
+POI: 			Brett_Davern 
+Youtube ID: 	J1UdMqcSkgU 
+Video length: 	171.5 sec 
+Set (V): 		dev 
+ 
+Brett_Davern/J1UdMqcSkgU_0000001 00.7 04.8 
+Brett_Davern/J1UdMqcSkgU_0000002 18.8 25.3 
+Brett_Davern/J1UdMqcSkgU_0000003 27.1 42.4 
+Brett_Davern/J1UdMqcSkgU_0000004 59.6 67.4 
+Brett_Davern/J1UdMqcSkgU_0000005 69.4 75.1 
+Brett_Davern/J1UdMqcSkgU_0000006 125.4 129.6 
+Brett_Davern/J1UdMqcSkgU_0000007 134.3 140.2 
+Brett_Davern/J1UdMqcSkgU_0000008 142.1 146.3 
+Brett_Davern/J1UdMqcSkgU_0000009 152.3 161.9 

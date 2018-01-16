@@ -1,0 +1,8 @@
+POI: 			Gillian_Jacobs 
+Youtube ID: 	OYE88RqpOdE 
+Video length: 	91.8 sec 
+Set (V): 		dev 
+ 
+Gillian_Jacobs/OYE88RqpOdE_0000001 10.0 14.7 
+Gillian_Jacobs/OYE88RqpOdE_0000002 34.6 44.8 
+Gillian_Jacobs/OYE88RqpOdE_0000003 65.2 78.4 

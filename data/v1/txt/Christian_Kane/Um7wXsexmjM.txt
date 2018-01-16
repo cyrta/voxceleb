@@ -1,0 +1,22 @@
+POI: 			Christian_Kane 
+Youtube ID: 	Um7wXsexmjM 
+Video length: 	1130.5 sec 
+Set (V): 		dev 
+ 
+Christian_Kane/Um7wXsexmjM_0000001 93.5 98.4 
+Christian_Kane/Um7wXsexmjM_0000002 131.7 135.9 
+Christian_Kane/Um7wXsexmjM_0000003 301.6 306.8 
+Christian_Kane/Um7wXsexmjM_0000004 445.8 450.1 
+Christian_Kane/Um7wXsexmjM_0000005 461.9 469.3 
+Christian_Kane/Um7wXsexmjM_0000006 474.6 479.0 
+Christian_Kane/Um7wXsexmjM_0000007 484.4 489.6 
+Christian_Kane/Um7wXsexmjM_0000008 499.6 504.8 
+Christian_Kane/Um7wXsexmjM_0000009 542.8 547.7 
+Christian_Kane/Um7wXsexmjM_0000010 693.4 698.9 
+Christian_Kane/Um7wXsexmjM_0000011 795.6 800.4 
+Christian_Kane/Um7wXsexmjM_0000012 800.6 804.7 
+Christian_Kane/Um7wXsexmjM_0000013 855.7 861.4 
+Christian_Kane/Um7wXsexmjM_0000014 915.2 920.3 
+Christian_Kane/Um7wXsexmjM_0000015 944.6 951.1 
+Christian_Kane/Um7wXsexmjM_0000016 999.4 1005.5 
+Christian_Kane/Um7wXsexmjM_0000017 1076.2 1081.2 

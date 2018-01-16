@@ -1,0 +1,8 @@
+POI: 			Regina_Hall 
+Youtube ID: 	IXwnjoHthfA 
+Video length: 	298.7 sec 
+Set (V): 		dev 
+ 
+Regina_Hall/IXwnjoHthfA_0000001 108.9 113.9 
+Regina_Hall/IXwnjoHthfA_0000002 225.8 231.3 
+Regina_Hall/IXwnjoHthfA_0000003 237.2 241.4 

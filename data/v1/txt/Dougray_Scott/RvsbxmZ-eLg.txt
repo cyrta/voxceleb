@@ -1,0 +1,14 @@
+POI: 			Dougray_Scott 
+Youtube ID: 	RvsbxmZ-eLg 
+Video length: 	214.8 sec 
+Set (V): 		dev 
+ 
+Dougray_Scott/RvsbxmZ-eLg_0000001 33.1 40.1 
+Dougray_Scott/RvsbxmZ-eLg_0000002 40.5 45.5 
+Dougray_Scott/RvsbxmZ-eLg_0000003 46.6 51.2 
+Dougray_Scott/RvsbxmZ-eLg_0000004 72.5 80.3 
+Dougray_Scott/RvsbxmZ-eLg_0000005 99.9 105.6 
+Dougray_Scott/RvsbxmZ-eLg_0000006 113.0 117.4 
+Dougray_Scott/RvsbxmZ-eLg_0000007 118.2 122.9 
+Dougray_Scott/RvsbxmZ-eLg_0000008 123.1 127.5 
+Dougray_Scott/RvsbxmZ-eLg_0000009 131.9 139.5 

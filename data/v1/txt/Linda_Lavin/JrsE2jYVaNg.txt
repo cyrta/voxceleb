@@ -1,0 +1,18 @@
+POI: 			Linda_Lavin 
+Youtube ID: 	JrsE2jYVaNg 
+Video length: 	564.6 sec 
+Set (V): 		dev 
+ 
+Linda_Lavin/JrsE2jYVaNg_0000001 32.0 42.1 
+Linda_Lavin/JrsE2jYVaNg_0000002 46.8 55.1 
+Linda_Lavin/JrsE2jYVaNg_0000003 55.6 69.5 
+Linda_Lavin/JrsE2jYVaNg_0000004 66.6 72.5 
+Linda_Lavin/JrsE2jYVaNg_0000005 118.2 128.5 
+Linda_Lavin/JrsE2jYVaNg_0000006 129.6 135.7 
+Linda_Lavin/JrsE2jYVaNg_0000007 159.2 177.0 
+Linda_Lavin/JrsE2jYVaNg_0000008 177.1 206.2 
+Linda_Lavin/JrsE2jYVaNg_0000009 209.6 215.6 
+Linda_Lavin/JrsE2jYVaNg_0000010 227.7 239.0 
+Linda_Lavin/JrsE2jYVaNg_0000011 342.2 347.8 
+Linda_Lavin/JrsE2jYVaNg_0000012 422.6 450.7 
+Linda_Lavin/JrsE2jYVaNg_0000013 535.6 544.6 

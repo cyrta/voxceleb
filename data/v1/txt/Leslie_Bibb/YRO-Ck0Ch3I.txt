@@ -1,0 +1,8 @@
+POI: 			Leslie_Bibb 
+Youtube ID: 	YRO-Ck0Ch3I 
+Video length: 	187.5 sec 
+Set (V): 		dev 
+ 
+Leslie_Bibb/YRO-Ck0Ch3I_0000001 74.9 79.3 
+Leslie_Bibb/YRO-Ck0Ch3I_0000002 86.7 93.0 
+Leslie_Bibb/YRO-Ck0Ch3I_0000003 159.4 163.9 

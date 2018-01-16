@@ -1,0 +1,10 @@
+POI: 			Gemma_Arterton 
+Youtube ID: 	l45XE2G0hA0 
+Video length: 	486.2 sec 
+Set (V): 		dev 
+ 
+Gemma_Arterton/l45XE2G0hA0_0000001 117.4 124.3 
+Gemma_Arterton/l45XE2G0hA0_0000002 229.5 233.9 
+Gemma_Arterton/l45XE2G0hA0_0000003 234.0 238.2 
+Gemma_Arterton/l45XE2G0hA0_0000004 269.0 276.7 
+Gemma_Arterton/l45XE2G0hA0_0000005 408.0 412.4 

@@ -1,0 +1,7 @@
+POI: 			Sean_Connery 
+Youtube ID: 	gBuE1N8XpwE 
+Video length: 	611.9 sec 
+Set (V): 		dev 
+ 
+Sean_Connery/gBuE1N8XpwE_0000001 222.2 231.0 
+Sean_Connery/gBuE1N8XpwE_0000002 494.4 498.9 

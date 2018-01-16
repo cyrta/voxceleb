@@ -1,0 +1,23 @@
+POI: 			Derek_Theler 
+Youtube ID: 	FuJ1Dgh4udk 
+Video length: 	542.1 sec 
+Set (V): 		dev 
+ 
+Derek_Theler/FuJ1Dgh4udk_0000001 40.4 52.2 
+Derek_Theler/FuJ1Dgh4udk_0000002 61.2 65.7 
+Derek_Theler/FuJ1Dgh4udk_0000003 67.9 74.9 
+Derek_Theler/FuJ1Dgh4udk_0000004 88.0 93.8 
+Derek_Theler/FuJ1Dgh4udk_0000005 113.8 118.0 
+Derek_Theler/FuJ1Dgh4udk_0000006 120.3 125.4 
+Derek_Theler/FuJ1Dgh4udk_0000007 139.2 144.6 
+Derek_Theler/FuJ1Dgh4udk_0000008 145.0 149.4 
+Derek_Theler/FuJ1Dgh4udk_0000009 163.2 175.3 
+Derek_Theler/FuJ1Dgh4udk_0000010 184.5 190.8 
+Derek_Theler/FuJ1Dgh4udk_0000011 238.2 242.5 
+Derek_Theler/FuJ1Dgh4udk_0000012 243.8 251.7 
+Derek_Theler/FuJ1Dgh4udk_0000013 255.7 269.0 
+Derek_Theler/FuJ1Dgh4udk_0000014 293.3 297.9 
+Derek_Theler/FuJ1Dgh4udk_0000015 301.8 309.4 
+Derek_Theler/FuJ1Dgh4udk_0000016 407.9 412.3 
+Derek_Theler/FuJ1Dgh4udk_0000017 421.4 427.7 
+Derek_Theler/FuJ1Dgh4udk_0000018 432.3 437.8 

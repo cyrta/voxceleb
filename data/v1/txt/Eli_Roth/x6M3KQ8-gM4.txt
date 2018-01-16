@@ -1,0 +1,9 @@
+POI: 			Eli_Roth 
+Youtube ID: 	x6M3KQ8-gM4 
+Video length: 	277.6 sec 
+Set (V): 		test 
+ 
+Eli_Roth/x6M3KQ8-gM4_0000001 00.7 17.6 
+Eli_Roth/x6M3KQ8-gM4_0000002 29.4 67.9 
+Eli_Roth/x6M3KQ8-gM4_0000003 225.7 241.6 
+Eli_Roth/x6M3KQ8-gM4_0000004 247.3 272.0 

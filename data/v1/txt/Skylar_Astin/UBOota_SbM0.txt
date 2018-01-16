@@ -1,0 +1,17 @@
+POI: 			Skylar_Astin 
+Youtube ID: 	UBOota_SbM0 
+Video length: 	162.6 sec 
+Set (V): 		dev 
+ 
+Skylar_Astin/UBOota_SbM0_0000001 04.0 09.4 
+Skylar_Astin/UBOota_SbM0_0000002 11.2 22.0 
+Skylar_Astin/UBOota_SbM0_0000003 23.8 38.4 
+Skylar_Astin/UBOota_SbM0_0000004 38.6 49.4 
+Skylar_Astin/UBOota_SbM0_0000005 53.9 62.8 
+Skylar_Astin/UBOota_SbM0_0000006 64.4 81.5 
+Skylar_Astin/UBOota_SbM0_0000007 91.1 95.6 
+Skylar_Astin/UBOota_SbM0_0000008 96.8 107.8 
+Skylar_Astin/UBOota_SbM0_0000009 108.2 121.8 
+Skylar_Astin/UBOota_SbM0_0000010 128.8 142.7 
+Skylar_Astin/UBOota_SbM0_0000011 143.3 148.2 
+Skylar_Astin/UBOota_SbM0_0000012 149.2 155.4 

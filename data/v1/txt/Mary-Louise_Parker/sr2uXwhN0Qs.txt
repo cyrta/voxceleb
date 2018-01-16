@@ -1,0 +1,7 @@
+POI: 			Mary-Louise_Parker 
+Youtube ID: 	sr2uXwhN0Qs 
+Video length: 	307.2 sec 
+Set (V): 		dev 
+ 
+Mary-Louise_Parker/sr2uXwhN0Qs_0000001 58.0 62.0 
+Mary-Louise_Parker/sr2uXwhN0Qs_0000002 235.3 244.9 

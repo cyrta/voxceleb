@@ -1,0 +1,10 @@
+POI: 			America_Ferrera 
+Youtube ID: 	Sj_lxKmy7LM 
+Video length: 	245.6 sec 
+Set (V): 		dev 
+ 
+America_Ferrera/Sj_lxKmy7LM_0000001 25.9 39.2 
+America_Ferrera/Sj_lxKmy7LM_0000002 39.6 45.5 
+America_Ferrera/Sj_lxKmy7LM_0000003 59.0 68.8 
+America_Ferrera/Sj_lxKmy7LM_0000004 69.2 79.0 
+America_Ferrera/Sj_lxKmy7LM_0000005 83.0 89.6 

@@ -1,0 +1,9 @@
+POI: 			Sean_Bean 
+Youtube ID: 	SUEmbQVo6Yc 
+Video length: 	184.6 sec 
+Set (V): 		dev 
+ 
+Sean_Bean/SUEmbQVo6Yc_0000001 39.0 43.7 
+Sean_Bean/SUEmbQVo6Yc_0000002 50.6 56.0 
+Sean_Bean/SUEmbQVo6Yc_0000003 65.4 70.3 
+Sean_Bean/SUEmbQVo6Yc_0000004 118.6 123.1 

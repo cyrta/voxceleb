@@ -1,0 +1,7 @@
+POI: 			Danny_Dyer 
+Youtube ID: 	X27cgpi1VKM 
+Video length: 	642.2 sec 
+Set (V): 		dev 
+ 
+Danny_Dyer/X27cgpi1VKM_0000001 45.3 49.5 
+Danny_Dyer/X27cgpi1VKM_0000002 629.7 634.7 

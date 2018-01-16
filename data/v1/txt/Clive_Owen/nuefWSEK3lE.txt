@@ -1,0 +1,8 @@
+POI: 			Clive_Owen 
+Youtube ID: 	nuefWSEK3lE 
+Video length: 	349.8 sec 
+Set (V): 		dev 
+ 
+Clive_Owen/nuefWSEK3lE_0000001 24.5 31.8 
+Clive_Owen/nuefWSEK3lE_0000002 33.0 38.6 
+Clive_Owen/nuefWSEK3lE_0000003 175.6 183.1 

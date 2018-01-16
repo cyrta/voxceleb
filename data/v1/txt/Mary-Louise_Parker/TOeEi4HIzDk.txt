@@ -1,0 +1,18 @@
+POI: 			Mary-Louise_Parker 
+Youtube ID: 	TOeEi4HIzDk 
+Video length: 	276.6 sec 
+Set (V): 		dev 
+ 
+Mary-Louise_Parker/TOeEi4HIzDk_0000001 20.2 33.1 
+Mary-Louise_Parker/TOeEi4HIzDk_0000002 46.7 54.0 
+Mary-Louise_Parker/TOeEi4HIzDk_0000003 54.6 61.6 
+Mary-Louise_Parker/TOeEi4HIzDk_0000004 78.9 94.6 
+Mary-Louise_Parker/TOeEi4HIzDk_0000005 95.7 116.7 
+Mary-Louise_Parker/TOeEi4HIzDk_0000006 121.7 131.5 
+Mary-Louise_Parker/TOeEi4HIzDk_0000007 136.8 142.7 
+Mary-Louise_Parker/TOeEi4HIzDk_0000008 146.4 150.4 
+Mary-Louise_Parker/TOeEi4HIzDk_0000009 150.6 165.3 
+Mary-Louise_Parker/TOeEi4HIzDk_0000010 169.9 182.6 
+Mary-Louise_Parker/TOeEi4HIzDk_0000011 183.8 187.9 
+Mary-Louise_Parker/TOeEi4HIzDk_0000012 205.6 226.6 
+Mary-Louise_Parker/TOeEi4HIzDk_0000013 230.0 250.6 

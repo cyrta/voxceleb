@@ -1,0 +1,16 @@
+POI: 			Iwan_Rheon 
+Youtube ID: 	tpgbT4lAZAY 
+Video length: 	264.9 sec 
+Set (V): 		dev 
+ 
+Iwan_Rheon/tpgbT4lAZAY_0000001 22.3 26.8 
+Iwan_Rheon/tpgbT4lAZAY_0000002 55.0 62.1 
+Iwan_Rheon/tpgbT4lAZAY_0000003 72.8 78.1 
+Iwan_Rheon/tpgbT4lAZAY_0000004 95.3 100.4 
+Iwan_Rheon/tpgbT4lAZAY_0000005 104.8 111.3 
+Iwan_Rheon/tpgbT4lAZAY_0000006 119.5 128.0 
+Iwan_Rheon/tpgbT4lAZAY_0000007 153.0 160.6 
+Iwan_Rheon/tpgbT4lAZAY_0000008 170.4 185.6 
+Iwan_Rheon/tpgbT4lAZAY_0000009 208.8 218.8 
+Iwan_Rheon/tpgbT4lAZAY_0000010 219.2 237.9 
+Iwan_Rheon/tpgbT4lAZAY_0000011 247.0 251.8 

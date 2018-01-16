@@ -1,0 +1,13 @@
+POI: 			Cheryl_Ladd 
+Youtube ID: 	sJrpUg3CQBA 
+Video length: 	698.0 sec 
+Set (V): 		dev 
+ 
+Cheryl_Ladd/sJrpUg3CQBA_0000001 89.9 94.3 
+Cheryl_Ladd/sJrpUg3CQBA_0000002 206.6 214.4 
+Cheryl_Ladd/sJrpUg3CQBA_0000003 214.7 220.3 
+Cheryl_Ladd/sJrpUg3CQBA_0000004 329.3 333.8 
+Cheryl_Ladd/sJrpUg3CQBA_0000005 359.0 364.7 
+Cheryl_Ladd/sJrpUg3CQBA_0000006 432.7 436.9 
+Cheryl_Ladd/sJrpUg3CQBA_0000007 469.3 478.4 
+Cheryl_Ladd/sJrpUg3CQBA_0000008 505.4 512.4 

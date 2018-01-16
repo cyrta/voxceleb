@@ -1,0 +1,9 @@
+POI: 			Witney_Carson 
+Youtube ID: 	qBEQJhIyD7c 
+Video length: 	150.3 sec 
+Set (V): 		dev 
+ 
+Witney_Carson/qBEQJhIyD7c_0000001 26.5 46.7 
+Witney_Carson/qBEQJhIyD7c_0000002 79.1 85.7 
+Witney_Carson/qBEQJhIyD7c_0000003 111.0 115.2 
+Witney_Carson/qBEQJhIyD7c_0000004 128.4 132.4 

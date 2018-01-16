@@ -1,0 +1,10 @@
+POI: 			David_Faustino 
+Youtube ID: 	Z5nJP-xiGZ0 
+Video length: 	550.2 sec 
+Set (V): 		dev 
+ 
+David_Faustino/Z5nJP-xiGZ0_0000001 124.6 130.0 
+David_Faustino/Z5nJP-xiGZ0_0000002 210.2 214.2 
+David_Faustino/Z5nJP-xiGZ0_0000003 347.4 351.8 
+David_Faustino/Z5nJP-xiGZ0_0000004 474.5 484.8 
+David_Faustino/Z5nJP-xiGZ0_0000005 496.6 500.6 

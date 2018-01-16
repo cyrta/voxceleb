@@ -1,0 +1,7 @@
+POI: 			Patton_Oswalt 
+Youtube ID: 	2lzeu2ILPGw 
+Video length: 	81.9 sec 
+Set (V): 		dev 
+ 
+Patton_Oswalt/2lzeu2ILPGw_0000001 14.9 20.3 
+Patton_Oswalt/2lzeu2ILPGw_0000002 71.9 76.2 

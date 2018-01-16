@@ -1,0 +1,12 @@
+POI: 			Breckin_Meyer 
+Youtube ID: 	JO5RGxjJRhg 
+Video length: 	775.9 sec 
+Set (V): 		dev 
+ 
+Breckin_Meyer/JO5RGxjJRhg_0000001 180.9 185.0 
+Breckin_Meyer/JO5RGxjJRhg_0000002 220.6 225.5 
+Breckin_Meyer/JO5RGxjJRhg_0000003 229.5 236.4 
+Breckin_Meyer/JO5RGxjJRhg_0000004 264.7 272.8 
+Breckin_Meyer/JO5RGxjJRhg_0000005 375.1 386.2 
+Breckin_Meyer/JO5RGxjJRhg_0000006 393.2 397.6 
+Breckin_Meyer/JO5RGxjJRhg_0000007 619.6 627.0 

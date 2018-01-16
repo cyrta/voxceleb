@@ -1,0 +1,13 @@
+POI: 			Lucie_Arnaz 
+Youtube ID: 	vLZ9oqNFPOY 
+Video length: 	122.9 sec 
+Set (V): 		dev 
+ 
+Lucie_Arnaz/vLZ9oqNFPOY_0000001 03.6 10.0 
+Lucie_Arnaz/vLZ9oqNFPOY_0000002 12.7 24.4 
+Lucie_Arnaz/vLZ9oqNFPOY_0000003 28.8 38.4 
+Lucie_Arnaz/vLZ9oqNFPOY_0000004 42.8 53.8 
+Lucie_Arnaz/vLZ9oqNFPOY_0000005 70.3 76.2 
+Lucie_Arnaz/vLZ9oqNFPOY_0000006 76.5 82.3 
+Lucie_Arnaz/vLZ9oqNFPOY_0000007 84.4 91.6 
+Lucie_Arnaz/vLZ9oqNFPOY_0000008 93.1 113.3 

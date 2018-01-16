@@ -1,0 +1,11 @@
+POI: 			David_Mamet 
+Youtube ID: 	5212739X5zM 
+Video length: 	163.8 sec 
+Set (V): 		dev 
+ 
+David_Mamet/5212739X5zM_0000001 73.8 77.9 
+David_Mamet/5212739X5zM_0000002 83.7 88.2 
+David_Mamet/5212739X5zM_0000003 88.4 93.4 
+David_Mamet/5212739X5zM_0000004 98.8 103.9 
+David_Mamet/5212739X5zM_0000005 119.7 126.3 
+David_Mamet/5212739X5zM_0000006 126.9 135.0 

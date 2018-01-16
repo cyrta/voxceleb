@@ -1,0 +1,11 @@
+POI: 			Kevin_Clash 
+Youtube ID: 	ckA5FV8yjbM 
+Video length: 	282.0 sec 
+Set (V): 		dev 
+ 
+Kevin_Clash/ckA5FV8yjbM_0000001 43.6 49.7 
+Kevin_Clash/ckA5FV8yjbM_0000002 50.1 58.3 
+Kevin_Clash/ckA5FV8yjbM_0000003 53.5 64.4 
+Kevin_Clash/ckA5FV8yjbM_0000004 97.6 101.7 
+Kevin_Clash/ckA5FV8yjbM_0000005 106.2 116.2 
+Kevin_Clash/ckA5FV8yjbM_0000006 153.0 157.9 

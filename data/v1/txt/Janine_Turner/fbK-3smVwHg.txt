@@ -1,0 +1,10 @@
+POI: 			Janine_Turner 
+Youtube ID: 	fbK-3smVwHg 
+Video length: 	159.6 sec 
+Set (V): 		dev 
+ 
+Janine_Turner/fbK-3smVwHg_0000001 32.9 51.3 
+Janine_Turner/fbK-3smVwHg_0000002 67.8 89.9 
+Janine_Turner/fbK-3smVwHg_0000003 119.8 127.0 
+Janine_Turner/fbK-3smVwHg_0000004 129.4 139.2 
+Janine_Turner/fbK-3smVwHg_0000005 141.6 146.4 

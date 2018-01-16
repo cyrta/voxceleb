@@ -1,0 +1,10 @@
+POI: 			Rob_Corddry 
+Youtube ID: 	VeywXYv7hKY 
+Video length: 	409.6 sec 
+Set (V): 		dev 
+ 
+Rob_Corddry/VeywXYv7hKY_0000001 172.1 180.9 
+Rob_Corddry/VeywXYv7hKY_0000002 187.8 192.0 
+Rob_Corddry/VeywXYv7hKY_0000003 199.9 210.0 
+Rob_Corddry/VeywXYv7hKY_0000004 224.1 231.2 
+Rob_Corddry/VeywXYv7hKY_0000005 243.8 250.6 

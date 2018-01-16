@@ -1,0 +1,9 @@
+POI: 			Jeremy_Renner 
+Youtube ID: 	zycbZtiymjg 
+Video length: 	195.2 sec 
+Set (V): 		dev 
+ 
+Jeremy_Renner/zycbZtiymjg_0000001 08.4 18.6 
+Jeremy_Renner/zycbZtiymjg_0000002 90.0 95.8 
+Jeremy_Renner/zycbZtiymjg_0000003 98.1 102.7 
+Jeremy_Renner/zycbZtiymjg_0000004 137.4 145.2 

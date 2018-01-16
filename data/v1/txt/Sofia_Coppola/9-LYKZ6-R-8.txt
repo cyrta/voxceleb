@@ -1,0 +1,13 @@
+POI: 			Sofia_Coppola 
+Youtube ID: 	9-LYKZ6-R-8 
+Video length: 	239.4 sec 
+Set (V): 		dev 
+ 
+Sofia_Coppola/9-LYKZ6-R-8_0000001 20.9 25.0 
+Sofia_Coppola/9-LYKZ6-R-8_0000002 66.4 70.6 
+Sofia_Coppola/9-LYKZ6-R-8_0000003 120.3 126.6 
+Sofia_Coppola/9-LYKZ6-R-8_0000004 169.0 177.4 
+Sofia_Coppola/9-LYKZ6-R-8_0000005 178.8 183.2 
+Sofia_Coppola/9-LYKZ6-R-8_0000006 196.2 201.4 
+Sofia_Coppola/9-LYKZ6-R-8_0000007 202.9 207.6 
+Sofia_Coppola/9-LYKZ6-R-8_0000008 213.3 218.5 

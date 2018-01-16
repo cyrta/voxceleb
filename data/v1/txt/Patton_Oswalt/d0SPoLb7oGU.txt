@@ -1,0 +1,11 @@
+POI: 			Patton_Oswalt 
+Youtube ID: 	d0SPoLb7oGU 
+Video length: 	301.5 sec 
+Set (V): 		dev 
+ 
+Patton_Oswalt/d0SPoLb7oGU_0000001 67.6 74.2 
+Patton_Oswalt/d0SPoLb7oGU_0000002 108.9 113.1 
+Patton_Oswalt/d0SPoLb7oGU_0000003 114.8 125.0 
+Patton_Oswalt/d0SPoLb7oGU_0000004 153.4 160.8 
+Patton_Oswalt/d0SPoLb7oGU_0000005 181.9 189.0 
+Patton_Oswalt/d0SPoLb7oGU_0000006 270.6 283.0 

@@ -1,0 +1,27 @@
+POI: 			Breckin_Meyer 
+Youtube ID: 	Vod1r77aj8E 
+Video length: 	784.0 sec 
+Set (V): 		dev 
+ 
+Breckin_Meyer/Vod1r77aj8E_0000001 164.4 173.5 
+Breckin_Meyer/Vod1r77aj8E_0000002 179.2 185.1 
+Breckin_Meyer/Vod1r77aj8E_0000003 199.7 207.4 
+Breckin_Meyer/Vod1r77aj8E_0000004 320.9 325.7 
+Breckin_Meyer/Vod1r77aj8E_0000005 346.2 365.4 
+Breckin_Meyer/Vod1r77aj8E_0000006 401.9 408.9 
+Breckin_Meyer/Vod1r77aj8E_0000007 413.7 418.1 
+Breckin_Meyer/Vod1r77aj8E_0000008 423.8 428.6 
+Breckin_Meyer/Vod1r77aj8E_0000009 432.0 437.6 
+Breckin_Meyer/Vod1r77aj8E_0000010 453.0 457.4 
+Breckin_Meyer/Vod1r77aj8E_0000011 494.8 503.2 
+Breckin_Meyer/Vod1r77aj8E_0000012 503.4 507.6 
+Breckin_Meyer/Vod1r77aj8E_0000013 508.6 522.2 
+Breckin_Meyer/Vod1r77aj8E_0000014 542.2 561.6 
+Breckin_Meyer/Vod1r77aj8E_0000015 576.2 593.4 
+Breckin_Meyer/Vod1r77aj8E_0000016 607.6 613.6 
+Breckin_Meyer/Vod1r77aj8E_0000017 638.2 668.0 
+Breckin_Meyer/Vod1r77aj8E_0000018 687.6 696.2 
+Breckin_Meyer/Vod1r77aj8E_0000019 696.4 702.5 
+Breckin_Meyer/Vod1r77aj8E_0000020 711.9 716.1 
+Breckin_Meyer/Vod1r77aj8E_0000021 718.6 722.9 
+Breckin_Meyer/Vod1r77aj8E_0000022 747.2 752.8 

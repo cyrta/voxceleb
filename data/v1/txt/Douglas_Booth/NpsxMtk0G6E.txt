@@ -1,0 +1,10 @@
+POI: 			Douglas_Booth 
+Youtube ID: 	NpsxMtk0G6E 
+Video length: 	337.4 sec 
+Set (V): 		dev 
+ 
+Douglas_Booth/NpsxMtk0G6E_0000001 52.0 59.4 
+Douglas_Booth/NpsxMtk0G6E_0000002 132.5 137.0 
+Douglas_Booth/NpsxMtk0G6E_0000003 142.6 147.2 
+Douglas_Booth/NpsxMtk0G6E_0000004 289.2 296.1 
+Douglas_Booth/NpsxMtk0G6E_0000005 299.4 303.4 

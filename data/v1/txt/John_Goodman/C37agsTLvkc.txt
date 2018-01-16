@@ -1,0 +1,11 @@
+POI: 			John_Goodman 
+Youtube ID: 	C37agsTLvkc 
+Video length: 	218.1 sec 
+Set (V): 		dev 
+ 
+John_Goodman/C37agsTLvkc_0000001 17.0 21.0 
+John_Goodman/C37agsTLvkc_0000002 32.6 40.8 
+John_Goodman/C37agsTLvkc_0000003 90.2 95.8 
+John_Goodman/C37agsTLvkc_0000004 152.4 158.0 
+John_Goodman/C37agsTLvkc_0000005 166.5 175.9 
+John_Goodman/C37agsTLvkc_0000006 194.4 199.8 

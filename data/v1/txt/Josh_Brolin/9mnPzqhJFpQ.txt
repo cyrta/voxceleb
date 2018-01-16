@@ -1,0 +1,15 @@
+POI: 			Josh_Brolin 
+Youtube ID: 	9mnPzqhJFpQ 
+Video length: 	187.3 sec 
+Set (V): 		dev 
+ 
+Josh_Brolin/9mnPzqhJFpQ_0000001 08.3 13.6 
+Josh_Brolin/9mnPzqhJFpQ_0000002 38.8 48.3 
+Josh_Brolin/9mnPzqhJFpQ_0000003 44.9 53.0 
+Josh_Brolin/9mnPzqhJFpQ_0000004 53.1 61.6 
+Josh_Brolin/9mnPzqhJFpQ_0000005 70.6 78.9 
+Josh_Brolin/9mnPzqhJFpQ_0000006 82.7 94.4 
+Josh_Brolin/9mnPzqhJFpQ_0000007 107.0 114.9 
+Josh_Brolin/9mnPzqhJFpQ_0000008 117.0 124.3 
+Josh_Brolin/9mnPzqhJFpQ_0000009 125.5 130.2 
+Josh_Brolin/9mnPzqhJFpQ_0000010 144.6 155.1 

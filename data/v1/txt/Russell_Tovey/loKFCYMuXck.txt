@@ -1,0 +1,16 @@
+POI: 			Russell_Tovey 
+Youtube ID: 	loKFCYMuXck 
+Video length: 	408.8 sec 
+Set (V): 		dev 
+ 
+Russell_Tovey/loKFCYMuXck_0000001 17.3 22.6 
+Russell_Tovey/loKFCYMuXck_0000002 35.2 42.1 
+Russell_Tovey/loKFCYMuXck_0000003 113.1 118.6 
+Russell_Tovey/loKFCYMuXck_0000004 127.5 138.6 
+Russell_Tovey/loKFCYMuXck_0000005 147.1 152.0 
+Russell_Tovey/loKFCYMuXck_0000006 181.6 186.3 
+Russell_Tovey/loKFCYMuXck_0000007 215.2 219.6 
+Russell_Tovey/loKFCYMuXck_0000008 252.0 256.5 
+Russell_Tovey/loKFCYMuXck_0000009 261.4 265.4 
+Russell_Tovey/loKFCYMuXck_0000010 277.4 285.4 
+Russell_Tovey/loKFCYMuXck_0000011 289.6 296.5 

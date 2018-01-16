@@ -1,0 +1,12 @@
+POI: 			Peter_Berg 
+Youtube ID: 	0tSHo8LOpo4 
+Video length: 	176.3 sec 
+Set (V): 		dev 
+ 
+Peter_Berg/0tSHo8LOpo4_0000001 21.0 28.8 
+Peter_Berg/0tSHo8LOpo4_0000002 52.4 58.9 
+Peter_Berg/0tSHo8LOpo4_0000003 67.2 74.1 
+Peter_Berg/0tSHo8LOpo4_0000004 103.8 111.0 
+Peter_Berg/0tSHo8LOpo4_0000005 112.3 118.0 
+Peter_Berg/0tSHo8LOpo4_0000006 120.7 126.8 
+Peter_Berg/0tSHo8LOpo4_0000007 146.6 153.0 

@@ -1,0 +1,8 @@
+POI: 			Ricky_Gervais 
+Youtube ID: 	P5ZOwNK6n9U 
+Video length: 	287.0 sec 
+Set (V): 		dev 
+ 
+Ricky_Gervais/P5ZOwNK6n9U_0000001 23.4 30.2 
+Ricky_Gervais/P5ZOwNK6n9U_0000002 99.9 105.7 
+Ricky_Gervais/P5ZOwNK6n9U_0000003 148.2 152.9 

@@ -1,0 +1,18 @@
+POI: 			Niall_Horan 
+Youtube ID: 	w7CfqmaKgn0 
+Video length: 	385.0 sec 
+Set (V): 		dev 
+ 
+Niall_Horan/w7CfqmaKgn0_0000001 04.5 08.6 
+Niall_Horan/w7CfqmaKgn0_0000002 19.3 29.8 
+Niall_Horan/w7CfqmaKgn0_0000003 112.7 119.4 
+Niall_Horan/w7CfqmaKgn0_0000004 123.3 130.3 
+Niall_Horan/w7CfqmaKgn0_0000005 141.6 147.2 
+Niall_Horan/w7CfqmaKgn0_0000006 153.7 159.8 
+Niall_Horan/w7CfqmaKgn0_0000007 161.0 180.8 
+Niall_Horan/w7CfqmaKgn0_0000008 187.6 204.4 
+Niall_Horan/w7CfqmaKgn0_0000009 205.2 214.8 
+Niall_Horan/w7CfqmaKgn0_0000010 231.6 235.6 
+Niall_Horan/w7CfqmaKgn0_0000011 238.4 242.4 
+Niall_Horan/w7CfqmaKgn0_0000012 243.4 249.5 
+Niall_Horan/w7CfqmaKgn0_0000013 288.4 294.3 

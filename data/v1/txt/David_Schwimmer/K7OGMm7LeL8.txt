@@ -1,0 +1,7 @@
+POI: 			David_Schwimmer 
+Youtube ID: 	K7OGMm7LeL8 
+Video length: 	151.0 sec 
+Set (V): 		dev 
+ 
+David_Schwimmer/K7OGMm7LeL8_0000001 99.1 105.8 
+David_Schwimmer/K7OGMm7LeL8_0000002 114.8 119.0 

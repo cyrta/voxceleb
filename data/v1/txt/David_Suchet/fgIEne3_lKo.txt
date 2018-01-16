@@ -1,0 +1,25 @@
+POI: 			David_Suchet 
+Youtube ID: 	fgIEne3_lKo 
+Video length: 	549.7 sec 
+Set (V): 		dev 
+ 
+David_Suchet/fgIEne3_lKo_0000001 84.4 89.2 
+David_Suchet/fgIEne3_lKo_0000002 96.6 101.8 
+David_Suchet/fgIEne3_lKo_0000003 120.0 126.1 
+David_Suchet/fgIEne3_lKo_0000004 126.6 130.9 
+David_Suchet/fgIEne3_lKo_0000005 144.8 151.2 
+David_Suchet/fgIEne3_lKo_0000006 154.9 165.0 
+David_Suchet/fgIEne3_lKo_0000007 179.9 191.7 
+David_Suchet/fgIEne3_lKo_0000008 213.3 218.8 
+David_Suchet/fgIEne3_lKo_0000009 232.7 236.8 
+David_Suchet/fgIEne3_lKo_0000010 252.5 259.6 
+David_Suchet/fgIEne3_lKo_0000011 267.7 272.6 
+David_Suchet/fgIEne3_lKo_0000012 275.1 280.2 
+David_Suchet/fgIEne3_lKo_0000013 280.2 286.6 
+David_Suchet/fgIEne3_lKo_0000014 314.5 320.0 
+David_Suchet/fgIEne3_lKo_0000015 347.2 377.5 
+David_Suchet/fgIEne3_lKo_0000016 382.1 392.4 
+David_Suchet/fgIEne3_lKo_0000017 405.0 411.7 
+David_Suchet/fgIEne3_lKo_0000018 425.4 430.7 
+David_Suchet/fgIEne3_lKo_0000019 438.8 447.2 
+David_Suchet/fgIEne3_lKo_0000020 456.0 467.7 

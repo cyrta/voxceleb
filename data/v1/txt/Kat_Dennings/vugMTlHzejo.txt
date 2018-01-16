@@ -1,0 +1,10 @@
+POI: 			Kat_Dennings 
+Youtube ID: 	vugMTlHzejo 
+Video length: 	146.0 sec 
+Set (V): 		dev 
+ 
+Kat_Dennings/vugMTlHzejo_0000001 20.9 27.4 
+Kat_Dennings/vugMTlHzejo_0000002 32.3 36.4 
+Kat_Dennings/vugMTlHzejo_0000003 57.6 62.9 
+Kat_Dennings/vugMTlHzejo_0000004 74.0 88.3 
+Kat_Dennings/vugMTlHzejo_0000005 90.0 94.8 

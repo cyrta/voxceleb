@@ -1,0 +1,11 @@
+POI: 			Ezra_Miller 
+Youtube ID: 	V_tzoDBiP8A 
+Video length: 	804.2 sec 
+Set (V): 		test 
+ 
+Ezra_Miller/V_tzoDBiP8A_0000001 242.8 252.9 
+Ezra_Miller/V_tzoDBiP8A_0000002 274.8 279.0 
+Ezra_Miller/V_tzoDBiP8A_0000003 310.7 316.2 
+Ezra_Miller/V_tzoDBiP8A_0000004 320.8 342.7 
+Ezra_Miller/V_tzoDBiP8A_0000005 389.0 393.8 
+Ezra_Miller/V_tzoDBiP8A_0000006 412.6 419.7 

@@ -1,0 +1,10 @@
+POI: 			Tinsel_Korey 
+Youtube ID: 	ixpTkk5wuWY 
+Video length: 	131.7 sec 
+Set (V): 		dev 
+ 
+Tinsel_Korey/ixpTkk5wuWY_0000001 36.2 50.4 
+Tinsel_Korey/ixpTkk5wuWY_0000002 73.3 85.3 
+Tinsel_Korey/ixpTkk5wuWY_0000003 90.8 95.6 
+Tinsel_Korey/ixpTkk5wuWY_0000004 95.9 103.6 
+Tinsel_Korey/ixpTkk5wuWY_0000005 111.7 116.1 

@@ -1,0 +1,8 @@
+POI: 			Willem_Dafoe 
+Youtube ID: 	LHhNrYPIBes 
+Video length: 	66.5 sec 
+Set (V): 		dev 
+ 
+Willem_Dafoe/LHhNrYPIBes_0000001 10.4 23.8 
+Willem_Dafoe/LHhNrYPIBes_0000002 30.5 34.6 
+Willem_Dafoe/LHhNrYPIBes_0000003 42.1 56.0 

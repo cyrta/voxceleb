@@ -1,0 +1,14 @@
+POI: 			Cindy_Williams 
+Youtube ID: 	QGZMOy6srzI 
+Video length: 	149.7 sec 
+Set (V): 		dev 
+ 
+Cindy_Williams/QGZMOy6srzI_0000001 14.9 22.3 
+Cindy_Williams/QGZMOy6srzI_0000002 23.8 48.3 
+Cindy_Williams/QGZMOy6srzI_0000003 50.2 58.7 
+Cindy_Williams/QGZMOy6srzI_0000004 62.4 82.1 
+Cindy_Williams/QGZMOy6srzI_0000005 82.8 90.0 
+Cindy_Williams/QGZMOy6srzI_0000006 90.9 102.3 
+Cindy_Williams/QGZMOy6srzI_0000007 102.5 123.8 
+Cindy_Williams/QGZMOy6srzI_0000008 124.6 131.0 
+Cindy_Williams/QGZMOy6srzI_0000009 131.4 135.7 

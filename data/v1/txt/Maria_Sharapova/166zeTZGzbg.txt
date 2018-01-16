@@ -1,0 +1,43 @@
+POI: 			Maria_Sharapova 
+Youtube ID: 	166zeTZGzbg 
+Video length: 	1002.8 sec 
+Set (V): 		dev 
+ 
+Maria_Sharapova/166zeTZGzbg_0000001 46.9 52.6 
+Maria_Sharapova/166zeTZGzbg_0000002 99.7 110.0 
+Maria_Sharapova/166zeTZGzbg_0000003 144.0 149.0 
+Maria_Sharapova/166zeTZGzbg_0000004 149.8 155.9 
+Maria_Sharapova/166zeTZGzbg_0000005 156.5 166.2 
+Maria_Sharapova/166zeTZGzbg_0000006 175.3 180.6 
+Maria_Sharapova/166zeTZGzbg_0000007 196.0 202.0 
+Maria_Sharapova/166zeTZGzbg_0000008 211.8 217.2 
+Maria_Sharapova/166zeTZGzbg_0000009 235.4 245.4 
+Maria_Sharapova/166zeTZGzbg_0000010 245.8 257.1 
+Maria_Sharapova/166zeTZGzbg_0000011 264.3 282.8 
+Maria_Sharapova/166zeTZGzbg_0000012 288.2 297.1 
+Maria_Sharapova/166zeTZGzbg_0000013 332.0 339.1 
+Maria_Sharapova/166zeTZGzbg_0000014 350.2 356.0 
+Maria_Sharapova/166zeTZGzbg_0000015 371.4 390.1 
+Maria_Sharapova/166zeTZGzbg_0000016 432.3 437.6 
+Maria_Sharapova/166zeTZGzbg_0000017 427.4 431.7 
+Maria_Sharapova/166zeTZGzbg_0000018 432.4 439.4 
+Maria_Sharapova/166zeTZGzbg_0000019 440.0 446.8 
+Maria_Sharapova/166zeTZGzbg_0000020 463.0 468.8 
+Maria_Sharapova/166zeTZGzbg_0000021 471.3 477.8 
+Maria_Sharapova/166zeTZGzbg_0000022 511.1 518.4 
+Maria_Sharapova/166zeTZGzbg_0000023 527.2 535.1 
+Maria_Sharapova/166zeTZGzbg_0000024 549.6 572.5 
+Maria_Sharapova/166zeTZGzbg_0000025 587.4 596.9 
+Maria_Sharapova/166zeTZGzbg_0000026 603.8 619.6 
+Maria_Sharapova/166zeTZGzbg_0000027 636.1 644.5 
+Maria_Sharapova/166zeTZGzbg_0000028 644.8 664.3 
+Maria_Sharapova/166zeTZGzbg_0000029 675.9 682.5 
+Maria_Sharapova/166zeTZGzbg_0000030 737.7 747.6 
+Maria_Sharapova/166zeTZGzbg_0000031 757.4 762.5 
+Maria_Sharapova/166zeTZGzbg_0000032 780.0 800.0 
+Maria_Sharapova/166zeTZGzbg_0000033 813.9 818.7 
+Maria_Sharapova/166zeTZGzbg_0000034 819.5 825.2 
+Maria_Sharapova/166zeTZGzbg_0000035 886.6 893.9 
+Maria_Sharapova/166zeTZGzbg_0000036 902.6 909.8 
+Maria_Sharapova/166zeTZGzbg_0000037 902.6 907.4 
+Maria_Sharapova/166zeTZGzbg_0000038 941.3 955.6 

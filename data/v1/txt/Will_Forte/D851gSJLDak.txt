@@ -1,0 +1,8 @@
+POI: 			Will_Forte 
+Youtube ID: 	D851gSJLDak 
+Video length: 	157.3 sec 
+Set (V): 		dev 
+ 
+Will_Forte/D851gSJLDak_0000001 09.6 15.1 
+Will_Forte/D851gSJLDak_0000002 77.5 85.0 
+Will_Forte/D851gSJLDak_0000003 109.6 126.4 

@@ -1,0 +1,15 @@
+POI: 			Adam_Driver 
+Youtube ID: 	EHSEDnLxkC4 
+Video length: 	231.1 sec 
+Set (V): 		dev 
+ 
+Adam_Driver/EHSEDnLxkC4_0000001 06.4 12.8 
+Adam_Driver/EHSEDnLxkC4_0000002 16.9 21.6 
+Adam_Driver/EHSEDnLxkC4_0000003 72.6 79.3 
+Adam_Driver/EHSEDnLxkC4_0000004 84.6 93.4 
+Adam_Driver/EHSEDnLxkC4_0000005 113.6 120.2 
+Adam_Driver/EHSEDnLxkC4_0000006 161.6 166.9 
+Adam_Driver/EHSEDnLxkC4_0000007 167.2 175.4 
+Adam_Driver/EHSEDnLxkC4_0000008 187.5 196.0 
+Adam_Driver/EHSEDnLxkC4_0000009 207.1 212.6 
+Adam_Driver/EHSEDnLxkC4_0000010 219.0 225.8 

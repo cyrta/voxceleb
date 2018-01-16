@@ -1,0 +1,22 @@
+POI: 			Katy_Perry 
+Youtube ID: 	Bi7kCsbg5L0 
+Video length: 	490.2 sec 
+Set (V): 		dev 
+ 
+Katy_Perry/Bi7kCsbg5L0_0000001 81.0 91.6 
+Katy_Perry/Bi7kCsbg5L0_0000002 100.0 114.9 
+Katy_Perry/Bi7kCsbg5L0_0000003 173.2 185.2 
+Katy_Perry/Bi7kCsbg5L0_0000004 200.6 229.2 
+Katy_Perry/Bi7kCsbg5L0_0000005 230.0 237.9 
+Katy_Perry/Bi7kCsbg5L0_0000006 228.9 238.3 
+Katy_Perry/Bi7kCsbg5L0_0000007 250.1 257.5 
+Katy_Perry/Bi7kCsbg5L0_0000008 259.4 270.4 
+Katy_Perry/Bi7kCsbg5L0_0000009 298.7 337.1 
+Katy_Perry/Bi7kCsbg5L0_0000010 338.1 346.9 
+Katy_Perry/Bi7kCsbg5L0_0000011 350.9 359.8 
+Katy_Perry/Bi7kCsbg5L0_0000012 379.7 392.6 
+Katy_Perry/Bi7kCsbg5L0_0000013 393.3 398.9 
+Katy_Perry/Bi7kCsbg5L0_0000014 403.9 413.4 
+Katy_Perry/Bi7kCsbg5L0_0000015 434.6 439.2 
+Katy_Perry/Bi7kCsbg5L0_0000016 439.3 463.4 
+Katy_Perry/Bi7kCsbg5L0_0000017 465.8 470.4 

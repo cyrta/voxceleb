@@ -1,0 +1,17 @@
+POI: 			Jared_Harris 
+Youtube ID: 	_hTuEeKBNSE 
+Video length: 	303.0 sec 
+Set (V): 		dev 
+ 
+Jared_Harris/_hTuEeKBNSE_0000001 41.6 52.8 
+Jared_Harris/_hTuEeKBNSE_0000002 52.9 63.1 
+Jared_Harris/_hTuEeKBNSE_0000003 84.5 88.7 
+Jared_Harris/_hTuEeKBNSE_0000004 89.0 109.1 
+Jared_Harris/_hTuEeKBNSE_0000005 116.4 121.7 
+Jared_Harris/_hTuEeKBNSE_0000006 121.9 126.4 
+Jared_Harris/_hTuEeKBNSE_0000007 140.1 150.8 
+Jared_Harris/_hTuEeKBNSE_0000008 165.1 181.5 
+Jared_Harris/_hTuEeKBNSE_0000009 194.2 212.4 
+Jared_Harris/_hTuEeKBNSE_0000010 238.4 246.1 
+Jared_Harris/_hTuEeKBNSE_0000011 248.7 252.6 
+Jared_Harris/_hTuEeKBNSE_0000012 271.4 281.6 

@@ -1,0 +1,18 @@
+POI: 			Nelly_Furtado 
+Youtube ID: 	PiG6xlmh7Pc 
+Video length: 	287.0 sec 
+Set (V): 		dev 
+ 
+Nelly_Furtado/PiG6xlmh7Pc_0000001 08.8 14.8 
+Nelly_Furtado/PiG6xlmh7Pc_0000002 18.0 25.2 
+Nelly_Furtado/PiG6xlmh7Pc_0000003 25.8 30.6 
+Nelly_Furtado/PiG6xlmh7Pc_0000004 61.0 71.5 
+Nelly_Furtado/PiG6xlmh7Pc_0000005 83.6 89.4 
+Nelly_Furtado/PiG6xlmh7Pc_0000006 111.5 118.6 
+Nelly_Furtado/PiG6xlmh7Pc_0000007 136.9 143.0 
+Nelly_Furtado/PiG6xlmh7Pc_0000008 152.1 158.8 
+Nelly_Furtado/PiG6xlmh7Pc_0000009 168.5 180.1 
+Nelly_Furtado/PiG6xlmh7Pc_0000010 182.2 187.0 
+Nelly_Furtado/PiG6xlmh7Pc_0000011 218.9 224.4 
+Nelly_Furtado/PiG6xlmh7Pc_0000012 240.1 244.8 
+Nelly_Furtado/PiG6xlmh7Pc_0000013 268.9 275.1 

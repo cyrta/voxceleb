@@ -1,0 +1,19 @@
+POI: 			Scott_Porter 
+Youtube ID: 	C8jvqE675CU 
+Video length: 	242.9 sec 
+Set (V): 		dev 
+ 
+Scott_Porter/C8jvqE675CU_0000001 18.6 27.2 
+Scott_Porter/C8jvqE675CU_0000002 70.5 77.8 
+Scott_Porter/C8jvqE675CU_0000003 91.6 97.2 
+Scott_Porter/C8jvqE675CU_0000004 104.7 109.9 
+Scott_Porter/C8jvqE675CU_0000005 115.4 120.0 
+Scott_Porter/C8jvqE675CU_0000006 120.2 128.0 
+Scott_Porter/C8jvqE675CU_0000007 131.0 135.8 
+Scott_Porter/C8jvqE675CU_0000008 137.0 144.0 
+Scott_Porter/C8jvqE675CU_0000009 145.4 149.5 
+Scott_Porter/C8jvqE675CU_0000010 170.8 175.3 
+Scott_Porter/C8jvqE675CU_0000011 176.0 189.1 
+Scott_Porter/C8jvqE675CU_0000012 196.0 200.8 
+Scott_Porter/C8jvqE675CU_0000013 215.6 220.0 
+Scott_Porter/C8jvqE675CU_0000014 228.9 234.6 

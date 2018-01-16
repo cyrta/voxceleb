@@ -1,0 +1,11 @@
+POI: 			Ryan_Potter 
+Youtube ID: 	6jGM5jK9rlY 
+Video length: 	258.3 sec 
+Set (V): 		dev 
+ 
+Ryan_Potter/6jGM5jK9rlY_0000001 51.6 58.0 
+Ryan_Potter/6jGM5jK9rlY_0000002 59.0 66.9 
+Ryan_Potter/6jGM5jK9rlY_0000003 69.1 83.0 
+Ryan_Potter/6jGM5jK9rlY_0000004 96.8 102.4 
+Ryan_Potter/6jGM5jK9rlY_0000005 128.6 144.0 
+Ryan_Potter/6jGM5jK9rlY_0000006 167.0 186.8 

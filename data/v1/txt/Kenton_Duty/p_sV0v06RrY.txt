@@ -1,0 +1,11 @@
+POI: 			Kenton_Duty 
+Youtube ID: 	p_sV0v06RrY 
+Video length: 	573.8 sec 
+Set (V): 		dev 
+ 
+Kenton_Duty/p_sV0v06RrY_0000001 79.0 83.9 
+Kenton_Duty/p_sV0v06RrY_0000002 117.0 122.4 
+Kenton_Duty/p_sV0v06RrY_0000003 268.8 274.1 
+Kenton_Duty/p_sV0v06RrY_0000004 456.4 460.9 
+Kenton_Duty/p_sV0v06RrY_0000005 512.2 516.3 
+Kenton_Duty/p_sV0v06RrY_0000006 547.7 552.2 

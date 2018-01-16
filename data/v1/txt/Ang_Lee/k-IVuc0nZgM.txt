@@ -1,0 +1,7 @@
+POI: 			Ang_Lee 
+Youtube ID: 	k-IVuc0nZgM 
+Video length: 	291.7 sec 
+Set (V): 		dev 
+ 
+Ang_Lee/k-IVuc0nZgM_0000001 183.6 189.4 
+Ang_Lee/k-IVuc0nZgM_0000002 213.9 220.3 

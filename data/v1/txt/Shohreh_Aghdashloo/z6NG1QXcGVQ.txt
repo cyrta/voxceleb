@@ -1,0 +1,10 @@
+POI: 			Shohreh_Aghdashloo 
+Youtube ID: 	z6NG1QXcGVQ 
+Video length: 	270.4 sec 
+Set (V): 		dev 
+ 
+Shohreh_Aghdashloo/z6NG1QXcGVQ_0000001 13.0 18.6 
+Shohreh_Aghdashloo/z6NG1QXcGVQ_0000002 27.9 32.7 
+Shohreh_Aghdashloo/z6NG1QXcGVQ_0000003 32.9 47.4 
+Shohreh_Aghdashloo/z6NG1QXcGVQ_0000004 50.8 60.4 
+Shohreh_Aghdashloo/z6NG1QXcGVQ_0000005 68.8 76.4 

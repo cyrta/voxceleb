@@ -1,0 +1,7 @@
+POI: 			Dove_Cameron 
+Youtube ID: 	SS31a1111v0 
+Video length: 	278.6 sec 
+Set (V): 		dev 
+ 
+Dove_Cameron/SS31a1111v0_0000001 125.9 130.3 
+Dove_Cameron/SS31a1111v0_0000002 142.7 147.4 

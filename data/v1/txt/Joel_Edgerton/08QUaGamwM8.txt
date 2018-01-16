@@ -1,0 +1,8 @@
+POI: 			Joel_Edgerton 
+Youtube ID: 	08QUaGamwM8 
+Video length: 	171.1 sec 
+Set (V): 		dev 
+ 
+Joel_Edgerton/08QUaGamwM8_0000001 17.7 22.9 
+Joel_Edgerton/08QUaGamwM8_0000002 27.3 31.3 
+Joel_Edgerton/08QUaGamwM8_0000003 36.6 41.3 

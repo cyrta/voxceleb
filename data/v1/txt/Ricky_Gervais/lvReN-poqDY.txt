@@ -1,0 +1,12 @@
+POI: 			Ricky_Gervais 
+Youtube ID: 	lvReN-poqDY 
+Video length: 	1171.4 sec 
+Set (V): 		dev 
+ 
+Ricky_Gervais/lvReN-poqDY_0000001 10.7 15.4 
+Ricky_Gervais/lvReN-poqDY_0000002 16.4 20.4 
+Ricky_Gervais/lvReN-poqDY_0000003 406.3 410.5 
+Ricky_Gervais/lvReN-poqDY_0000004 671.2 675.9 
+Ricky_Gervais/lvReN-poqDY_0000005 688.5 692.9 
+Ricky_Gervais/lvReN-poqDY_0000006 969.6 973.6 
+Ricky_Gervais/lvReN-poqDY_0000007 1093.0 1098.7 

@@ -1,0 +1,12 @@
+POI: 			Mandy_Patinkin 
+Youtube ID: 	CGO7jRKDqjM 
+Video length: 	126.3 sec 
+Set (V): 		dev 
+ 
+Mandy_Patinkin/CGO7jRKDqjM_0000001 16.8 21.8 
+Mandy_Patinkin/CGO7jRKDqjM_0000002 22.6 33.4 
+Mandy_Patinkin/CGO7jRKDqjM_0000003 23.0 31.8 
+Mandy_Patinkin/CGO7jRKDqjM_0000004 39.9 46.2 
+Mandy_Patinkin/CGO7jRKDqjM_0000005 91.1 98.2 
+Mandy_Patinkin/CGO7jRKDqjM_0000006 98.7 110.3 
+Mandy_Patinkin/CGO7jRKDqjM_0000007 78.6 92.9 

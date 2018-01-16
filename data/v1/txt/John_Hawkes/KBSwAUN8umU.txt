@@ -1,0 +1,7 @@
+POI: 			John_Hawkes 
+Youtube ID: 	KBSwAUN8umU 
+Video length: 	105.7 sec 
+Set (V): 		dev 
+ 
+John_Hawkes/KBSwAUN8umU_0000001 12.1 17.0 
+John_Hawkes/KBSwAUN8umU_0000002 27.6 32.1 

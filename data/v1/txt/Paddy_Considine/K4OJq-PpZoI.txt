@@ -1,0 +1,30 @@
+POI: 			Paddy_Considine 
+Youtube ID: 	K4OJq-PpZoI 
+Video length: 	521.0 sec 
+Set (V): 		dev 
+ 
+Paddy_Considine/K4OJq-PpZoI_0000001 28.0 35.9 
+Paddy_Considine/K4OJq-PpZoI_0000002 83.0 88.9 
+Paddy_Considine/K4OJq-PpZoI_0000003 90.0 96.8 
+Paddy_Considine/K4OJq-PpZoI_0000004 104.5 112.1 
+Paddy_Considine/K4OJq-PpZoI_0000005 162.1 167.3 
+Paddy_Considine/K4OJq-PpZoI_0000006 176.8 182.2 
+Paddy_Considine/K4OJq-PpZoI_0000007 184.2 188.6 
+Paddy_Considine/K4OJq-PpZoI_0000008 189.0 197.9 
+Paddy_Considine/K4OJq-PpZoI_0000009 209.9 214.0 
+Paddy_Considine/K4OJq-PpZoI_0000010 219.3 223.5 
+Paddy_Considine/K4OJq-PpZoI_0000011 224.6 231.7 
+Paddy_Considine/K4OJq-PpZoI_0000012 233.6 240.6 
+Paddy_Considine/K4OJq-PpZoI_0000013 241.6 246.0 
+Paddy_Considine/K4OJq-PpZoI_0000014 253.4 260.8 
+Paddy_Considine/K4OJq-PpZoI_0000015 290.8 299.9 
+Paddy_Considine/K4OJq-PpZoI_0000016 300.5 304.9 
+Paddy_Considine/K4OJq-PpZoI_0000017 308.1 336.8 
+Paddy_Considine/K4OJq-PpZoI_0000018 356.7 361.7 
+Paddy_Considine/K4OJq-PpZoI_0000019 449.8 453.8 
+Paddy_Considine/K4OJq-PpZoI_0000020 453.9 463.4 
+Paddy_Considine/K4OJq-PpZoI_0000021 464.6 469.6 
+Paddy_Considine/K4OJq-PpZoI_0000022 479.2 483.8 
+Paddy_Considine/K4OJq-PpZoI_0000023 489.1 494.3 
+Paddy_Considine/K4OJq-PpZoI_0000024 494.6 503.1 
+Paddy_Considine/K4OJq-PpZoI_0000025 505.2 511.0 

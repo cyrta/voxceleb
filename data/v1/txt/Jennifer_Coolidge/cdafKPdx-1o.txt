@@ -1,0 +1,8 @@
+POI: 			Jennifer_Coolidge 
+Youtube ID: 	cdafKPdx-1o 
+Video length: 	566.8 sec 
+Set (V): 		dev 
+ 
+Jennifer_Coolidge/cdafKPdx-1o_0000001 45.8 50.9 
+Jennifer_Coolidge/cdafKPdx-1o_0000002 83.5 88.8 
+Jennifer_Coolidge/cdafKPdx-1o_0000003 523.2 532.4 

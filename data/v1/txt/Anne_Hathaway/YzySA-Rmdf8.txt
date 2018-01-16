@@ -1,0 +1,16 @@
+POI: 			Anne_Hathaway 
+Youtube ID: 	YzySA-Rmdf8 
+Video length: 	358.4 sec 
+Set (V): 		dev 
+ 
+Anne_Hathaway/YzySA-Rmdf8_0000001 41.4 47.5 
+Anne_Hathaway/YzySA-Rmdf8_0000002 50.3 55.2 
+Anne_Hathaway/YzySA-Rmdf8_0000003 68.5 77.9 
+Anne_Hathaway/YzySA-Rmdf8_0000004 78.7 85.1 
+Anne_Hathaway/YzySA-Rmdf8_0000005 85.7 110.7 
+Anne_Hathaway/YzySA-Rmdf8_0000006 143.3 147.9 
+Anne_Hathaway/YzySA-Rmdf8_0000007 149.9 175.2 
+Anne_Hathaway/YzySA-Rmdf8_0000008 177.0 181.2 
+Anne_Hathaway/YzySA-Rmdf8_0000009 218.4 234.1 
+Anne_Hathaway/YzySA-Rmdf8_0000010 243.2 266.2 
+Anne_Hathaway/YzySA-Rmdf8_0000011 283.2 309.5 

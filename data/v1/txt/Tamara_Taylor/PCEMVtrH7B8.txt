@@ -1,0 +1,19 @@
+POI: 			Tamara_Taylor 
+Youtube ID: 	PCEMVtrH7B8 
+Video length: 	228.5 sec 
+Set (V): 		dev 
+ 
+Tamara_Taylor/PCEMVtrH7B8_0000001 10.5 19.3 
+Tamara_Taylor/PCEMVtrH7B8_0000002 20.2 28.2 
+Tamara_Taylor/PCEMVtrH7B8_0000003 30.9 44.8 
+Tamara_Taylor/PCEMVtrH7B8_0000004 53.1 67.8 
+Tamara_Taylor/PCEMVtrH7B8_0000005 69.5 74.9 
+Tamara_Taylor/PCEMVtrH7B8_0000006 75.9 87.6 
+Tamara_Taylor/PCEMVtrH7B8_0000007 103.8 115.0 
+Tamara_Taylor/PCEMVtrH7B8_0000008 133.3 148.8 
+Tamara_Taylor/PCEMVtrH7B8_0000009 152.8 162.2 
+Tamara_Taylor/PCEMVtrH7B8_0000010 176.4 180.6 
+Tamara_Taylor/PCEMVtrH7B8_0000011 191.0 197.0 
+Tamara_Taylor/PCEMVtrH7B8_0000012 198.7 207.7 
+Tamara_Taylor/PCEMVtrH7B8_0000013 191.0 207.7 
+Tamara_Taylor/PCEMVtrH7B8_0000014 214.6 220.0 

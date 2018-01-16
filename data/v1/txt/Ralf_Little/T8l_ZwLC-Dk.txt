@@ -1,0 +1,11 @@
+POI: 			Ralf_Little 
+Youtube ID: 	T8l_ZwLC-Dk 
+Video length: 	190.0 sec 
+Set (V): 		dev 
+ 
+Ralf_Little/T8l_ZwLC-Dk_0000001 13.0 27.4 
+Ralf_Little/T8l_ZwLC-Dk_0000002 37.3 49.5 
+Ralf_Little/T8l_ZwLC-Dk_0000003 66.3 70.4 
+Ralf_Little/T8l_ZwLC-Dk_0000004 111.9 117.8 
+Ralf_Little/T8l_ZwLC-Dk_0000005 118.0 123.9 
+Ralf_Little/T8l_ZwLC-Dk_0000006 152.4 184.3 

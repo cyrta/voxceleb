@@ -1,0 +1,18 @@
+POI: 			Jeremy_Piven 
+Youtube ID: 	GMwBycbefP0 
+Video length: 	286.7 sec 
+Set (V): 		dev 
+ 
+Jeremy_Piven/GMwBycbefP0_0000001 12.8 17.7 
+Jeremy_Piven/GMwBycbefP0_0000002 37.8 43.2 
+Jeremy_Piven/GMwBycbefP0_0000003 66.4 87.5 
+Jeremy_Piven/GMwBycbefP0_0000004 107.7 112.6 
+Jeremy_Piven/GMwBycbefP0_0000005 122.8 128.7 
+Jeremy_Piven/GMwBycbefP0_0000006 130.8 136.5 
+Jeremy_Piven/GMwBycbefP0_0000007 144.6 154.0 
+Jeremy_Piven/GMwBycbefP0_0000008 164.7 168.9 
+Jeremy_Piven/GMwBycbefP0_0000009 190.8 199.4 
+Jeremy_Piven/GMwBycbefP0_0000010 200.7 206.5 
+Jeremy_Piven/GMwBycbefP0_0000011 208.6 215.2 
+Jeremy_Piven/GMwBycbefP0_0000012 239.9 246.0 
+Jeremy_Piven/GMwBycbefP0_0000013 247.9 271.8 

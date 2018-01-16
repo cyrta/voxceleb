@@ -1,0 +1,22 @@
+POI: 			Darren_Criss 
+Youtube ID: 	eamyOSArols 
+Video length: 	470.8 sec 
+Set (V): 		dev 
+ 
+Darren_Criss/eamyOSArols_0000001 78.9 86.8 
+Darren_Criss/eamyOSArols_0000002 94.6 102.3 
+Darren_Criss/eamyOSArols_0000003 113.8 121.3 
+Darren_Criss/eamyOSArols_0000004 125.5 130.2 
+Darren_Criss/eamyOSArols_0000005 159.4 164.4 
+Darren_Criss/eamyOSArols_0000006 165.7 176.4 
+Darren_Criss/eamyOSArols_0000007 179.4 184.9 
+Darren_Criss/eamyOSArols_0000008 197.7 203.6 
+Darren_Criss/eamyOSArols_0000009 207.6 216.4 
+Darren_Criss/eamyOSArols_0000010 217.1 229.2 
+Darren_Criss/eamyOSArols_0000011 241.6 254.5 
+Darren_Criss/eamyOSArols_0000012 259.8 268.4 
+Darren_Criss/eamyOSArols_0000013 272.9 283.7 
+Darren_Criss/eamyOSArols_0000014 308.1 324.6 
+Darren_Criss/eamyOSArols_0000015 329.1 333.2 
+Darren_Criss/eamyOSArols_0000016 339.2 343.6 
+Darren_Criss/eamyOSArols_0000017 345.2 357.2 

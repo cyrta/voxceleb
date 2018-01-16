@@ -1,0 +1,7 @@
+POI: 			Linda_Evans 
+Youtube ID: 	wz2A4pO8oq4 
+Video length: 	830.2 sec 
+Set (V): 		dev 
+ 
+Linda_Evans/wz2A4pO8oq4_0000001 81.7 85.7 
+Linda_Evans/wz2A4pO8oq4_0000002 85.9 90.0 

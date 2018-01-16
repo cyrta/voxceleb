@@ -1,0 +1,16 @@
+POI: 			Domhnall_Gleeson 
+Youtube ID: 	pV53MBpZNSY 
+Video length: 	403.6 sec 
+Set (V): 		dev 
+ 
+Domhnall_Gleeson/pV53MBpZNSY_0000001 15.8 20.5 
+Domhnall_Gleeson/pV53MBpZNSY_0000002 26.6 32.6 
+Domhnall_Gleeson/pV53MBpZNSY_0000003 33.6 42.4 
+Domhnall_Gleeson/pV53MBpZNSY_0000004 43.4 51.2 
+Domhnall_Gleeson/pV53MBpZNSY_0000005 51.4 62.4 
+Domhnall_Gleeson/pV53MBpZNSY_0000006 155.4 165.6 
+Domhnall_Gleeson/pV53MBpZNSY_0000007 167.4 186.5 
+Domhnall_Gleeson/pV53MBpZNSY_0000008 242.2 247.0 
+Domhnall_Gleeson/pV53MBpZNSY_0000009 255.6 260.3 
+Domhnall_Gleeson/pV53MBpZNSY_0000010 261.0 271.7 
+Domhnall_Gleeson/pV53MBpZNSY_0000011 333.9 346.9 

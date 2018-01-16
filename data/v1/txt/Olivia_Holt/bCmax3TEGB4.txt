@@ -1,0 +1,12 @@
+POI: 			Olivia_Holt 
+Youtube ID: 	bCmax3TEGB4 
+Video length: 	302.6 sec 
+Set (V): 		dev 
+ 
+Olivia_Holt/bCmax3TEGB4_0000001 17.8 22.5 
+Olivia_Holt/bCmax3TEGB4_0000002 59.2 71.5 
+Olivia_Holt/bCmax3TEGB4_0000003 78.0 87.1 
+Olivia_Holt/bCmax3TEGB4_0000004 96.2 115.8 
+Olivia_Holt/bCmax3TEGB4_0000005 131.2 144.9 
+Olivia_Holt/bCmax3TEGB4_0000006 177.0 188.9 
+Olivia_Holt/bCmax3TEGB4_0000007 189.0 200.9 

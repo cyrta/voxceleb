@@ -1,0 +1,14 @@
+POI: 			Wim_Wenders 
+Youtube ID: 	PuAMxr3rppY 
+Video length: 	410.7 sec 
+Set (V): 		dev 
+ 
+Wim_Wenders/PuAMxr3rppY_0000001 138.2 142.7 
+Wim_Wenders/PuAMxr3rppY_0000002 146.8 151.2 
+Wim_Wenders/PuAMxr3rppY_0000003 160.9 169.2 
+Wim_Wenders/PuAMxr3rppY_0000004 208.6 216.4 
+Wim_Wenders/PuAMxr3rppY_0000005 260.5 267.4 
+Wim_Wenders/PuAMxr3rppY_0000006 268.9 279.6 
+Wim_Wenders/PuAMxr3rppY_0000007 311.5 315.7 
+Wim_Wenders/PuAMxr3rppY_0000008 325.8 329.9 
+Wim_Wenders/PuAMxr3rppY_0000009 335.7 339.6 

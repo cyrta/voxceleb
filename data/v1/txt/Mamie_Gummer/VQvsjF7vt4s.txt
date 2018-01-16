@@ -1,0 +1,9 @@
+POI: 			Mamie_Gummer 
+Youtube ID: 	VQvsjF7vt4s 
+Video length: 	83.0 sec 
+Set (V): 		dev 
+ 
+Mamie_Gummer/VQvsjF7vt4s_0000001 11.9 16.5 
+Mamie_Gummer/VQvsjF7vt4s_0000002 23.5 34.3 
+Mamie_Gummer/VQvsjF7vt4s_0000003 46.8 50.8 
+Mamie_Gummer/VQvsjF7vt4s_0000004 65.8 73.1 

@@ -1,0 +1,7 @@
+POI: 			Jean_Reno 
+Youtube ID: 	tL9Z8Y3DyMU 
+Video length: 	120.6 sec 
+Set (V): 		dev 
+ 
+Jean_Reno/tL9Z8Y3DyMU_0000001 22.0 31.6 
+Jean_Reno/tL9Z8Y3DyMU_0000002 31.7 36.0 

@@ -1,0 +1,12 @@
+POI: 			Alison_Arngrim 
+Youtube ID: 	TUswon1ZAXw 
+Video length: 	1198.4 sec 
+Set (V): 		dev 
+ 
+Alison_Arngrim/TUswon1ZAXw_0000001 239.2 244.0 
+Alison_Arngrim/TUswon1ZAXw_0000002 292.1 297.8 
+Alison_Arngrim/TUswon1ZAXw_0000003 641.3 646.2 
+Alison_Arngrim/TUswon1ZAXw_0000004 694.4 698.6 
+Alison_Arngrim/TUswon1ZAXw_0000005 764.2 769.7 
+Alison_Arngrim/TUswon1ZAXw_0000006 801.7 806.9 
+Alison_Arngrim/TUswon1ZAXw_0000007 818.7 822.6 

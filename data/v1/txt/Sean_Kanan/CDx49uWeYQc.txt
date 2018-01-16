@@ -1,0 +1,7 @@
+POI: 			Sean_Kanan 
+Youtube ID: 	CDx49uWeYQc 
+Video length: 	125.5 sec 
+Set (V): 		dev 
+ 
+Sean_Kanan/CDx49uWeYQc_0000001 90.0 99.1 
+Sean_Kanan/CDx49uWeYQc_0000002 100.4 106.3 

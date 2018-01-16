@@ -1,0 +1,9 @@
+POI: 			John_Terry 
+Youtube ID: 	arsRwVQhDwk 
+Video length: 	59.1 sec 
+Set (V): 		dev 
+ 
+John_Terry/arsRwVQhDwk_0000001 04.8 17.4 
+John_Terry/arsRwVQhDwk_0000002 26.0 35.3 
+John_Terry/arsRwVQhDwk_0000003 35.7 42.1 
+John_Terry/arsRwVQhDwk_0000004 44.2 57.6 

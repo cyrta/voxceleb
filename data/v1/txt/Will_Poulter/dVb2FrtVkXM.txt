@@ -1,0 +1,8 @@
+POI: 			Will_Poulter 
+Youtube ID: 	dVb2FrtVkXM 
+Video length: 	345.1 sec 
+Set (V): 		dev 
+ 
+Will_Poulter/dVb2FrtVkXM_0000001 59.3 64.2 
+Will_Poulter/dVb2FrtVkXM_0000002 67.3 93.5 
+Will_Poulter/dVb2FrtVkXM_0000003 123.8 127.8 

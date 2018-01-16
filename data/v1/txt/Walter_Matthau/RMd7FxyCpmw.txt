@@ -1,0 +1,15 @@
+POI: 			Walter_Matthau 
+Youtube ID: 	RMd7FxyCpmw 
+Video length: 	4938.9 sec 
+Set (V): 		dev 
+ 
+Walter_Matthau/RMd7FxyCpmw_0000001 2034.4 2039.7 
+Walter_Matthau/RMd7FxyCpmw_0000002 2078.1 2084.5 
+Walter_Matthau/RMd7FxyCpmw_0000003 2174.9 2179.1 
+Walter_Matthau/RMd7FxyCpmw_0000004 2326.2 2330.9 
+Walter_Matthau/RMd7FxyCpmw_0000005 2342.5 2346.9 
+Walter_Matthau/RMd7FxyCpmw_0000006 2390.2 2394.8 
+Walter_Matthau/RMd7FxyCpmw_0000007 3253.2 3258.5 
+Walter_Matthau/RMd7FxyCpmw_0000008 3296.8 3303.4 
+Walter_Matthau/RMd7FxyCpmw_0000009 3326.4 3330.4 
+Walter_Matthau/RMd7FxyCpmw_0000010 3393.6 3397.7 

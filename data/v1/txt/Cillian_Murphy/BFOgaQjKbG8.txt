@@ -1,0 +1,9 @@
+POI: 			Cillian_Murphy 
+Youtube ID: 	BFOgaQjKbG8 
+Video length: 	67.2 sec 
+Set (V): 		dev 
+ 
+Cillian_Murphy/BFOgaQjKbG8_0000001 15.4 31.1 
+Cillian_Murphy/BFOgaQjKbG8_0000002 41.4 46.9 
+Cillian_Murphy/BFOgaQjKbG8_0000003 48.4 53.2 
+Cillian_Murphy/BFOgaQjKbG8_0000004 55.6 60.7 

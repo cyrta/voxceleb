@@ -1,0 +1,28 @@
+POI: 			Ernest_Borgnine 
+Youtube ID: 	Fi8lnFPYgII 
+Video length: 	444.1 sec 
+Set (V): 		test 
+ 
+Ernest_Borgnine/Fi8lnFPYgII_0000001 35.4 41.4 
+Ernest_Borgnine/Fi8lnFPYgII_0000002 42.3 47.2 
+Ernest_Borgnine/Fi8lnFPYgII_0000003 47.9 51.9 
+Ernest_Borgnine/Fi8lnFPYgII_0000004 66.6 72.2 
+Ernest_Borgnine/Fi8lnFPYgII_0000005 80.3 88.7 
+Ernest_Borgnine/Fi8lnFPYgII_0000006 93.2 98.0 
+Ernest_Borgnine/Fi8lnFPYgII_0000007 98.2 102.4 
+Ernest_Borgnine/Fi8lnFPYgII_0000008 104.1 108.5 
+Ernest_Borgnine/Fi8lnFPYgII_0000009 106.5 112.0 
+Ernest_Borgnine/Fi8lnFPYgII_0000010 113.0 117.9 
+Ernest_Borgnine/Fi8lnFPYgII_0000011 150.0 162.0 
+Ernest_Borgnine/Fi8lnFPYgII_0000012 163.8 171.2 
+Ernest_Borgnine/Fi8lnFPYgII_0000013 172.0 178.6 
+Ernest_Borgnine/Fi8lnFPYgII_0000014 189.1 195.7 
+Ernest_Borgnine/Fi8lnFPYgII_0000015 202.9 209.7 
+Ernest_Borgnine/Fi8lnFPYgII_0000016 217.1 229.8 
+Ernest_Borgnine/Fi8lnFPYgII_0000017 238.4 244.8 
+Ernest_Borgnine/Fi8lnFPYgII_0000018 292.5 303.2 
+Ernest_Borgnine/Fi8lnFPYgII_0000019 324.9 329.4 
+Ernest_Borgnine/Fi8lnFPYgII_0000020 348.8 353.5 
+Ernest_Borgnine/Fi8lnFPYgII_0000021 354.0 365.1 
+Ernest_Borgnine/Fi8lnFPYgII_0000022 383.5 396.3 
+Ernest_Borgnine/Fi8lnFPYgII_0000023 398.6 406.3 

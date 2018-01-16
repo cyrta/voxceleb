@@ -1,0 +1,8 @@
+POI: 			Will_Arnett 
+Youtube ID: 	hv5k4WTa0GI 
+Video length: 	248.2 sec 
+Set (V): 		dev 
+ 
+Will_Arnett/hv5k4WTa0GI_0000001 44.3 48.3 
+Will_Arnett/hv5k4WTa0GI_0000002 124.3 130.1 
+Will_Arnett/hv5k4WTa0GI_0000003 165.2 170.7 

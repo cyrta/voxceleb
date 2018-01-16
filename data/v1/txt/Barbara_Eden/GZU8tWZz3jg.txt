@@ -1,0 +1,13 @@
+POI: 			Barbara_Eden 
+Youtube ID: 	GZU8tWZz3jg 
+Video length: 	172.4 sec 
+Set (V): 		dev 
+ 
+Barbara_Eden/GZU8tWZz3jg_0000001 06.2 14.9 
+Barbara_Eden/GZU8tWZz3jg_0000002 17.5 30.3 
+Barbara_Eden/GZU8tWZz3jg_0000003 40.1 46.4 
+Barbara_Eden/GZU8tWZz3jg_0000004 64.5 72.8 
+Barbara_Eden/GZU8tWZz3jg_0000005 88.2 96.4 
+Barbara_Eden/GZU8tWZz3jg_0000006 112.8 117.2 
+Barbara_Eden/GZU8tWZz3jg_0000007 117.3 124.7 
+Barbara_Eden/GZU8tWZz3jg_0000008 130.3 134.3 

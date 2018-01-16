@@ -1,0 +1,19 @@
+POI: 			David_Tennant 
+Youtube ID: 	vZySewkDmnk 
+Video length: 	596.7 sec 
+Set (V): 		dev 
+ 
+David_Tennant/vZySewkDmnk_0000001 24.4 34.2 
+David_Tennant/vZySewkDmnk_0000002 61.4 68.4 
+David_Tennant/vZySewkDmnk_0000003 69.0 74.0 
+David_Tennant/vZySewkDmnk_0000004 75.1 80.2 
+David_Tennant/vZySewkDmnk_0000005 154.2 162.0 
+David_Tennant/vZySewkDmnk_0000006 206.2 210.4 
+David_Tennant/vZySewkDmnk_0000007 221.7 227.0 
+David_Tennant/vZySewkDmnk_0000008 227.7 232.1 
+David_Tennant/vZySewkDmnk_0000009 432.4 449.8 
+David_Tennant/vZySewkDmnk_0000010 462.4 468.2 
+David_Tennant/vZySewkDmnk_0000011 486.6 491.5 
+David_Tennant/vZySewkDmnk_0000012 498.5 504.7 
+David_Tennant/vZySewkDmnk_0000013 513.9 520.4 
+David_Tennant/vZySewkDmnk_0000014 558.6 567.6 

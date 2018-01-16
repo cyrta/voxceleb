@@ -1,0 +1,8 @@
+POI: 			Jillian_Michaels 
+Youtube ID: 	n7oO1fLdiSA 
+Video length: 	131.5 sec 
+Set (V): 		dev 
+ 
+Jillian_Michaels/n7oO1fLdiSA_0000001 47.5 56.3 
+Jillian_Michaels/n7oO1fLdiSA_0000002 94.4 102.8 
+Jillian_Michaels/n7oO1fLdiSA_0000003 121.2 125.6 

@@ -1,0 +1,25 @@
+POI: 			Greta_Gerwig 
+Youtube ID: 	Zrnlm_OHlWU 
+Video length: 	1665.8 sec 
+Set (V): 		dev 
+ 
+Greta_Gerwig/Zrnlm_OHlWU_0000001 296.7 301.2 
+Greta_Gerwig/Zrnlm_OHlWU_0000002 305.5 309.6 
+Greta_Gerwig/Zrnlm_OHlWU_0000003 311.2 317.2 
+Greta_Gerwig/Zrnlm_OHlWU_0000004 323.0 329.3 
+Greta_Gerwig/Zrnlm_OHlWU_0000005 340.1 344.7 
+Greta_Gerwig/Zrnlm_OHlWU_0000006 854.9 861.4 
+Greta_Gerwig/Zrnlm_OHlWU_0000007 876.0 881.4 
+Greta_Gerwig/Zrnlm_OHlWU_0000008 886.3 890.4 
+Greta_Gerwig/Zrnlm_OHlWU_0000009 1446.0 1453.7 
+Greta_Gerwig/Zrnlm_OHlWU_0000010 1455.8 1461.9 
+Greta_Gerwig/Zrnlm_OHlWU_0000011 1462.0 1467.8 
+Greta_Gerwig/Zrnlm_OHlWU_0000012 1470.1 1479.8 
+Greta_Gerwig/Zrnlm_OHlWU_0000013 1490.6 1498.2 
+Greta_Gerwig/Zrnlm_OHlWU_0000014 1503.2 1510.0 
+Greta_Gerwig/Zrnlm_OHlWU_0000015 1510.2 1514.4 
+Greta_Gerwig/Zrnlm_OHlWU_0000016 1514.5 1522.1 
+Greta_Gerwig/Zrnlm_OHlWU_0000017 1523.0 1530.4 
+Greta_Gerwig/Zrnlm_OHlWU_0000018 1534.7 1538.9 
+Greta_Gerwig/Zrnlm_OHlWU_0000019 1539.5 1543.7 
+Greta_Gerwig/Zrnlm_OHlWU_0000020 1562.6 1569.8 

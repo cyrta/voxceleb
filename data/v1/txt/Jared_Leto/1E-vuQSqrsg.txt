@@ -1,0 +1,9 @@
+POI: 			Jared_Leto 
+Youtube ID: 	1E-vuQSqrsg 
+Video length: 	324.3 sec 
+Set (V): 		dev 
+ 
+Jared_Leto/1E-vuQSqrsg_0000001 69.2 75.6 
+Jared_Leto/1E-vuQSqrsg_0000002 124.6 134.0 
+Jared_Leto/1E-vuQSqrsg_0000003 205.3 210.0 
+Jared_Leto/1E-vuQSqrsg_0000004 214.0 221.3 

@@ -1,0 +1,19 @@
+POI: 			Casey_Affleck 
+Youtube ID: 	98fSv4O50jk 
+Video length: 	587.3 sec 
+Set (V): 		dev 
+ 
+Casey_Affleck/98fSv4O50jk_0000001 13.8 23.8 
+Casey_Affleck/98fSv4O50jk_0000002 44.2 65.6 
+Casey_Affleck/98fSv4O50jk_0000003 69.7 93.6 
+Casey_Affleck/98fSv4O50jk_0000004 151.2 157.8 
+Casey_Affleck/98fSv4O50jk_0000005 158.3 186.6 
+Casey_Affleck/98fSv4O50jk_0000006 273.3 288.9 
+Casey_Affleck/98fSv4O50jk_0000007 311.6 315.9 
+Casey_Affleck/98fSv4O50jk_0000008 316.4 327.2 
+Casey_Affleck/98fSv4O50jk_0000009 328.2 334.2 
+Casey_Affleck/98fSv4O50jk_0000010 461.3 479.2 
+Casey_Affleck/98fSv4O50jk_0000011 481.5 490.7 
+Casey_Affleck/98fSv4O50jk_0000012 490.8 498.3 
+Casey_Affleck/98fSv4O50jk_0000013 498.4 515.0 
+Casey_Affleck/98fSv4O50jk_0000014 516.0 526.3 

@@ -1,0 +1,9 @@
+POI: 			Gemma_Atkinson 
+Youtube ID: 	86_HVO47Vdg 
+Video length: 	239.6 sec 
+Set (V): 		dev 
+ 
+Gemma_Atkinson/86_HVO47Vdg_0000001 90.6 96.0 
+Gemma_Atkinson/86_HVO47Vdg_0000002 129.5 133.7 
+Gemma_Atkinson/86_HVO47Vdg_0000003 171.5 175.7 
+Gemma_Atkinson/86_HVO47Vdg_0000004 218.8 225.6 

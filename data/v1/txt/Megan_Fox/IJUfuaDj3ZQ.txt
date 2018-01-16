@@ -1,0 +1,13 @@
+POI: 			Megan_Fox 
+Youtube ID: 	IJUfuaDj3ZQ 
+Video length: 	152.8 sec 
+Set (V): 		dev 
+ 
+Megan_Fox/IJUfuaDj3ZQ_0000001 14.6 19.1 
+Megan_Fox/IJUfuaDj3ZQ_0000002 36.4 40.7 
+Megan_Fox/IJUfuaDj3ZQ_0000003 44.1 51.3 
+Megan_Fox/IJUfuaDj3ZQ_0000004 67.3 76.8 
+Megan_Fox/IJUfuaDj3ZQ_0000005 80.6 88.4 
+Megan_Fox/IJUfuaDj3ZQ_0000006 103.1 107.8 
+Megan_Fox/IJUfuaDj3ZQ_0000007 108.7 114.2 
+Megan_Fox/IJUfuaDj3ZQ_0000008 126.2 133.8 

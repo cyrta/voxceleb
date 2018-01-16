@@ -1,0 +1,15 @@
+POI: 			Cory_Monteith 
+Youtube ID: 	zJ0EImmvwko 
+Video length: 	127.4 sec 
+Set (V): 		dev 
+ 
+Cory_Monteith/zJ0EImmvwko_0000001 05.1 15.8 
+Cory_Monteith/zJ0EImmvwko_0000002 17.4 25.4 
+Cory_Monteith/zJ0EImmvwko_0000003 32.2 39.8 
+Cory_Monteith/zJ0EImmvwko_0000004 46.2 54.9 
+Cory_Monteith/zJ0EImmvwko_0000005 55.8 60.2 
+Cory_Monteith/zJ0EImmvwko_0000006 69.8 76.4 
+Cory_Monteith/zJ0EImmvwko_0000007 81.3 86.8 
+Cory_Monteith/zJ0EImmvwko_0000008 90.0 113.0 
+Cory_Monteith/zJ0EImmvwko_0000009 116.2 120.7 
+Cory_Monteith/zJ0EImmvwko_0000010 120.9 125.3 

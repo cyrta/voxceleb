@@ -1,0 +1,12 @@
+POI: 			Vincent_Martella 
+Youtube ID: 	hqZbzAq-RJ4 
+Video length: 	287.3 sec 
+Set (V): 		dev 
+ 
+Vincent_Martella/hqZbzAq-RJ4_0000001 65.0 72.8 
+Vincent_Martella/hqZbzAq-RJ4_0000002 87.4 93.7 
+Vincent_Martella/hqZbzAq-RJ4_0000003 100.8 106.2 
+Vincent_Martella/hqZbzAq-RJ4_0000004 182.7 188.5 
+Vincent_Martella/hqZbzAq-RJ4_0000005 201.5 206.2 
+Vincent_Martella/hqZbzAq-RJ4_0000006 210.2 216.4 
+Vincent_Martella/hqZbzAq-RJ4_0000007 238.9 243.7 

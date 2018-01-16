@@ -1,0 +1,13 @@
+POI: 			Martin_Henderson 
+Youtube ID: 	eAjBov8Hjmo 
+Video length: 	264.4 sec 
+Set (V): 		dev 
+ 
+Martin_Henderson/eAjBov8Hjmo_0000001 35.9 39.8 
+Martin_Henderson/eAjBov8Hjmo_0000002 40.9 44.9 
+Martin_Henderson/eAjBov8Hjmo_0000003 53.8 63.0 
+Martin_Henderson/eAjBov8Hjmo_0000004 82.4 88.9 
+Martin_Henderson/eAjBov8Hjmo_0000005 121.2 126.1 
+Martin_Henderson/eAjBov8Hjmo_0000006 158.5 162.8 
+Martin_Henderson/eAjBov8Hjmo_0000007 194.3 199.0 
+Martin_Henderson/eAjBov8Hjmo_0000008 232.4 237.7 

@@ -1,0 +1,9 @@
+POI: 			Eva_Green 
+Youtube ID: 	a2rD02CrRdU 
+Video length: 	195.2 sec 
+Set (V): 		test 
+ 
+Eva_Green/a2rD02CrRdU_0000001 25.7 30.7 
+Eva_Green/a2rD02CrRdU_0000002 71.0 75.1 
+Eva_Green/a2rD02CrRdU_0000003 111.1 115.4 
+Eva_Green/a2rD02CrRdU_0000004 162.4 166.4 

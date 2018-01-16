@@ -1,0 +1,12 @@
+POI: 			James_Badge_Dale 
+Youtube ID: 	JvcyFCwUpMo 
+Video length: 	128.8 sec 
+Set (V): 		dev 
+ 
+James_Badge_Dale/JvcyFCwUpMo_0000001 10.2 17.3 
+James_Badge_Dale/JvcyFCwUpMo_0000002 18.8 24.5 
+James_Badge_Dale/JvcyFCwUpMo_0000003 40.9 45.4 
+James_Badge_Dale/JvcyFCwUpMo_0000004 55.8 62.1 
+James_Badge_Dale/JvcyFCwUpMo_0000005 62.6 68.5 
+James_Badge_Dale/JvcyFCwUpMo_0000006 76.3 81.6 
+James_Badge_Dale/JvcyFCwUpMo_0000007 90.6 104.4 

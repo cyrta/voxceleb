@@ -1,0 +1,8 @@
+POI: 			Steven_Moffat 
+Youtube ID: 	UOk7gtg-nyU 
+Video length: 	133.7 sec 
+Set (V): 		dev 
+ 
+Steven_Moffat/UOk7gtg-nyU_0000001 15.0 23.6 
+Steven_Moffat/UOk7gtg-nyU_0000002 43.6 57.4 
+Steven_Moffat/UOk7gtg-nyU_0000003 120.2 124.5 

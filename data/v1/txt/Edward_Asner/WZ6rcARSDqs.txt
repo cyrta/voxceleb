@@ -1,0 +1,9 @@
+POI: 			Edward_Asner 
+Youtube ID: 	WZ6rcARSDqs 
+Video length: 	271.5 sec 
+Set (V): 		test 
+ 
+Edward_Asner/WZ6rcARSDqs_0000001 73.3 78.6 
+Edward_Asner/WZ6rcARSDqs_0000002 142.1 146.1 
+Edward_Asner/WZ6rcARSDqs_0000003 237.4 243.1 
+Edward_Asner/WZ6rcARSDqs_0000004 254.8 261.1 

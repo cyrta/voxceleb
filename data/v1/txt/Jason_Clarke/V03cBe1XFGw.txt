@@ -1,0 +1,11 @@
+POI: 			Jason_Clarke 
+Youtube ID: 	V03cBe1XFGw 
+Video length: 	202.8 sec 
+Set (V): 		dev 
+ 
+Jason_Clarke/V03cBe1XFGw_0000001 59.2 68.2 
+Jason_Clarke/V03cBe1XFGw_0000002 78.6 96.0 
+Jason_Clarke/V03cBe1XFGw_0000003 124.6 129.0 
+Jason_Clarke/V03cBe1XFGw_0000004 129.8 135.8 
+Jason_Clarke/V03cBe1XFGw_0000005 136.6 142.2 
+Jason_Clarke/V03cBe1XFGw_0000006 164.7 175.3 

@@ -1,0 +1,10 @@
+POI: 			Josh_Radnor 
+Youtube ID: 	1WydqWcPBPY 
+Video length: 	383.0 sec 
+Set (V): 		dev 
+ 
+Josh_Radnor/1WydqWcPBPY_0000001 37.6 44.5 
+Josh_Radnor/1WydqWcPBPY_0000002 55.7 60.1 
+Josh_Radnor/1WydqWcPBPY_0000003 74.0 78.4 
+Josh_Radnor/1WydqWcPBPY_0000004 168.9 174.2 
+Josh_Radnor/1WydqWcPBPY_0000005 368.2 372.2 

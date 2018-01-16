@@ -1,0 +1,15 @@
+POI: 			Cillian_Murphy 
+Youtube ID: 	foLVL98ayhI 
+Video length: 	210.1 sec 
+Set (V): 		dev 
+ 
+Cillian_Murphy/foLVL98ayhI_0000001 07.3 14.0 
+Cillian_Murphy/foLVL98ayhI_0000002 19.3 27.0 
+Cillian_Murphy/foLVL98ayhI_0000003 69.1 73.4 
+Cillian_Murphy/foLVL98ayhI_0000004 78.6 84.7 
+Cillian_Murphy/foLVL98ayhI_0000005 85.8 92.3 
+Cillian_Murphy/foLVL98ayhI_0000006 101.0 108.6 
+Cillian_Murphy/foLVL98ayhI_0000007 135.3 139.9 
+Cillian_Murphy/foLVL98ayhI_0000008 146.6 152.2 
+Cillian_Murphy/foLVL98ayhI_0000009 154.5 160.0 
+Cillian_Murphy/foLVL98ayhI_0000010 195.6 202.5 

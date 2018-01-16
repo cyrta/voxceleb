@@ -1,0 +1,9 @@
+POI: 			Janet_Jackson 
+Youtube ID: 	PWOj1RUJXus 
+Video length: 	614.6 sec 
+Set (V): 		dev 
+ 
+Janet_Jackson/PWOj1RUJXus_0000001 275.1 279.6 
+Janet_Jackson/PWOj1RUJXus_0000002 363.8 369.3 
+Janet_Jackson/PWOj1RUJXus_0000003 376.9 383.0 
+Janet_Jackson/PWOj1RUJXus_0000004 423.0 429.1 

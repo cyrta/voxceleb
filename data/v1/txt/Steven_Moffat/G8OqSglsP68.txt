@@ -1,0 +1,38 @@
+POI: 			Steven_Moffat 
+Youtube ID: 	G8OqSglsP68 
+Video length: 	1059.9 sec 
+Set (V): 		dev 
+ 
+Steven_Moffat/G8OqSglsP68_0000001 48.0 52.6 
+Steven_Moffat/G8OqSglsP68_0000002 114.4 138.4 
+Steven_Moffat/G8OqSglsP68_0000003 141.7 147.0 
+Steven_Moffat/G8OqSglsP68_0000004 160.9 182.3 
+Steven_Moffat/G8OqSglsP68_0000005 183.0 195.5 
+Steven_Moffat/G8OqSglsP68_0000006 214.9 230.6 
+Steven_Moffat/G8OqSglsP68_0000007 231.9 251.3 
+Steven_Moffat/G8OqSglsP68_0000008 277.8 287.3 
+Steven_Moffat/G8OqSglsP68_0000009 292.0 298.2 
+Steven_Moffat/G8OqSglsP68_0000010 306.1 312.6 
+Steven_Moffat/G8OqSglsP68_0000011 335.4 339.5 
+Steven_Moffat/G8OqSglsP68_0000012 348.0 363.3 
+Steven_Moffat/G8OqSglsP68_0000013 368.2 376.1 
+Steven_Moffat/G8OqSglsP68_0000014 391.3 395.4 
+Steven_Moffat/G8OqSglsP68_0000015 396.4 401.9 
+Steven_Moffat/G8OqSglsP68_0000016 402.5 413.0 
+Steven_Moffat/G8OqSglsP68_0000017 415.0 425.0 
+Steven_Moffat/G8OqSglsP68_0000018 455.8 460.8 
+Steven_Moffat/G8OqSglsP68_0000019 462.9 478.5 
+Steven_Moffat/G8OqSglsP68_0000020 499.5 505.7 
+Steven_Moffat/G8OqSglsP68_0000021 542.6 546.7 
+Steven_Moffat/G8OqSglsP68_0000022 548.6 553.9 
+Steven_Moffat/G8OqSglsP68_0000023 578.6 586.4 
+Steven_Moffat/G8OqSglsP68_0000024 641.6 646.0 
+Steven_Moffat/G8OqSglsP68_0000025 672.7 678.6 
+Steven_Moffat/G8OqSglsP68_0000026 718.9 723.2 
+Steven_Moffat/G8OqSglsP68_0000027 764.4 771.9 
+Steven_Moffat/G8OqSglsP68_0000028 780.4 786.2 
+Steven_Moffat/G8OqSglsP68_0000029 814.4 819.8 
+Steven_Moffat/G8OqSglsP68_0000030 872.0 878.7 
+Steven_Moffat/G8OqSglsP68_0000031 970.3 975.7 
+Steven_Moffat/G8OqSglsP68_0000032 998.1 1008.3 
+Steven_Moffat/G8OqSglsP68_0000033 1013.0 1017.7 

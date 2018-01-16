@@ -1,0 +1,7 @@
+POI: 			Scott_Speedman 
+Youtube ID: 	2amKRMvXeDg 
+Video length: 	423.2 sec 
+Set (V): 		dev 
+ 
+Scott_Speedman/2amKRMvXeDg_0000001 144.6 157.4 
+Scott_Speedman/2amKRMvXeDg_0000002 295.8 311.6 

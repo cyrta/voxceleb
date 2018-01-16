@@ -1,0 +1,9 @@
+POI: 			Kevin_Smith 
+Youtube ID: 	4-7dvf7EUwY 
+Video length: 	621.2 sec 
+Set (V): 		dev 
+ 
+Kevin_Smith/4-7dvf7EUwY_0000001 169.8 174.9 
+Kevin_Smith/4-7dvf7EUwY_0000002 193.6 199.2 
+Kevin_Smith/4-7dvf7EUwY_0000003 420.3 424.6 
+Kevin_Smith/4-7dvf7EUwY_0000004 475.0 480.4 

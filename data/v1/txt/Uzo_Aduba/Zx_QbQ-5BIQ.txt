@@ -1,0 +1,15 @@
+POI: 			Uzo_Aduba 
+Youtube ID: 	Zx_QbQ-5BIQ 
+Video length: 	403.9 sec 
+Set (V): 		dev 
+ 
+Uzo_Aduba/Zx_QbQ-5BIQ_0000001 91.6 106.4 
+Uzo_Aduba/Zx_QbQ-5BIQ_0000002 176.0 181.7 
+Uzo_Aduba/Zx_QbQ-5BIQ_0000003 197.1 201.6 
+Uzo_Aduba/Zx_QbQ-5BIQ_0000004 214.7 219.2 
+Uzo_Aduba/Zx_QbQ-5BIQ_0000005 227.5 237.0 
+Uzo_Aduba/Zx_QbQ-5BIQ_0000006 237.7 246.6 
+Uzo_Aduba/Zx_QbQ-5BIQ_0000007 264.2 269.1 
+Uzo_Aduba/Zx_QbQ-5BIQ_0000008 285.0 294.0 
+Uzo_Aduba/Zx_QbQ-5BIQ_0000009 355.1 370.3 
+Uzo_Aduba/Zx_QbQ-5BIQ_0000010 371.2 375.9 

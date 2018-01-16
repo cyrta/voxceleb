@@ -1,0 +1,8 @@
+POI: 			Sammi_Hanratty 
+Youtube ID: 	8fZcI5FrkY4 
+Video length: 	113.5 sec 
+Set (V): 		dev 
+ 
+Sammi_Hanratty/8fZcI5FrkY4_0000001 28.0 32.8 
+Sammi_Hanratty/8fZcI5FrkY4_0000002 35.7 44.8 
+Sammi_Hanratty/8fZcI5FrkY4_0000003 57.0 61.1 

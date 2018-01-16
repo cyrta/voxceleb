@@ -1,0 +1,11 @@
+POI: 			Lily_Collins 
+Youtube ID: 	ZtpUeuO52U4 
+Video length: 	303.5 sec 
+Set (V): 		dev 
+ 
+Lily_Collins/ZtpUeuO52U4_0000001 22.4 28.3 
+Lily_Collins/ZtpUeuO52U4_0000002 52.0 58.5 
+Lily_Collins/ZtpUeuO52U4_0000003 107.1 111.1 
+Lily_Collins/ZtpUeuO52U4_0000004 177.9 184.8 
+Lily_Collins/ZtpUeuO52U4_0000005 185.4 190.4 
+Lily_Collins/ZtpUeuO52U4_0000006 228.7 242.8 

@@ -1,0 +1,16 @@
+POI: 			James_Marsden 
+Youtube ID: 	Tu2ZZgg-2Zg 
+Video length: 	220.5 sec 
+Set (V): 		dev 
+ 
+James_Marsden/Tu2ZZgg-2Zg_0000001 14.5 20.0 
+James_Marsden/Tu2ZZgg-2Zg_0000002 23.2 28.4 
+James_Marsden/Tu2ZZgg-2Zg_0000003 28.6 34.3 
+James_Marsden/Tu2ZZgg-2Zg_0000004 42.7 49.1 
+James_Marsden/Tu2ZZgg-2Zg_0000005 49.6 56.4 
+James_Marsden/Tu2ZZgg-2Zg_0000006 95.2 101.7 
+James_Marsden/Tu2ZZgg-2Zg_0000007 102.7 107.6 
+James_Marsden/Tu2ZZgg-2Zg_0000008 110.5 117.4 
+James_Marsden/Tu2ZZgg-2Zg_0000009 121.6 130.7 
+James_Marsden/Tu2ZZgg-2Zg_0000010 188.3 202.1 
+James_Marsden/Tu2ZZgg-2Zg_0000011 203.3 218.5 

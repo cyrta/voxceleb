@@ -1,0 +1,8 @@
+POI: 			Jana_Kramer 
+Youtube ID: 	ijlt9oQhjgg 
+Video length: 	268.9 sec 
+Set (V): 		dev 
+ 
+Jana_Kramer/ijlt9oQhjgg_0000001 16.2 21.7 
+Jana_Kramer/ijlt9oQhjgg_0000002 68.4 75.1 
+Jana_Kramer/ijlt9oQhjgg_0000003 132.1 141.5 

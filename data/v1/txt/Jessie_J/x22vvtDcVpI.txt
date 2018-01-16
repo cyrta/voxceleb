@@ -1,0 +1,12 @@
+POI: 			Jessie_J 
+Youtube ID: 	x22vvtDcVpI 
+Video length: 	813.2 sec 
+Set (V): 		dev 
+ 
+Jessie_J/x22vvtDcVpI_0000001 160.0 164.6 
+Jessie_J/x22vvtDcVpI_0000002 241.8 246.8 
+Jessie_J/x22vvtDcVpI_0000003 247.0 253.5 
+Jessie_J/x22vvtDcVpI_0000004 360.4 367.7 
+Jessie_J/x22vvtDcVpI_0000005 379.2 384.0 
+Jessie_J/x22vvtDcVpI_0000006 445.5 453.4 
+Jessie_J/x22vvtDcVpI_0000007 502.2 509.0 

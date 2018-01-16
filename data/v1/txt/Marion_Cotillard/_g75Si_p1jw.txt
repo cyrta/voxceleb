@@ -1,0 +1,18 @@
+POI: 			Marion_Cotillard 
+Youtube ID: 	_g75Si_p1jw 
+Video length: 	583.3 sec 
+Set (V): 		dev 
+ 
+Marion_Cotillard/_g75Si_p1jw_0000001 130.1 142.7 
+Marion_Cotillard/_g75Si_p1jw_0000002 143.7 151.1 
+Marion_Cotillard/_g75Si_p1jw_0000003 162.4 166.8 
+Marion_Cotillard/_g75Si_p1jw_0000004 186.2 190.6 
+Marion_Cotillard/_g75Si_p1jw_0000005 227.3 235.0 
+Marion_Cotillard/_g75Si_p1jw_0000006 304.2 309.4 
+Marion_Cotillard/_g75Si_p1jw_0000007 335.4 341.7 
+Marion_Cotillard/_g75Si_p1jw_0000008 388.9 393.0 
+Marion_Cotillard/_g75Si_p1jw_0000009 394.6 399.1 
+Marion_Cotillard/_g75Si_p1jw_0000010 440.0 445.3 
+Marion_Cotillard/_g75Si_p1jw_0000011 500.1 505.3 
+Marion_Cotillard/_g75Si_p1jw_0000012 515.5 520.1 
+Marion_Cotillard/_g75Si_p1jw_0000013 552.2 559.9 

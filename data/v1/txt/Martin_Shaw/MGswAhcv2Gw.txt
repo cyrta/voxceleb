@@ -1,0 +1,13 @@
+POI: 			Martin_Shaw 
+Youtube ID: 	MGswAhcv2Gw 
+Video length: 	302.2 sec 
+Set (V): 		dev 
+ 
+Martin_Shaw/MGswAhcv2Gw_0000001 14.6 20.1 
+Martin_Shaw/MGswAhcv2Gw_0000002 43.5 51.9 
+Martin_Shaw/MGswAhcv2Gw_0000003 96.0 102.0 
+Martin_Shaw/MGswAhcv2Gw_0000004 108.1 112.7 
+Martin_Shaw/MGswAhcv2Gw_0000005 141.0 146.2 
+Martin_Shaw/MGswAhcv2Gw_0000006 171.0 176.3 
+Martin_Shaw/MGswAhcv2Gw_0000007 213.8 223.2 
+Martin_Shaw/MGswAhcv2Gw_0000008 246.8 254.2 

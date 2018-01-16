@@ -1,0 +1,8 @@
+POI: 			Dana_Delany 
+Youtube ID: 	xftevGLBr40 
+Video length: 	268.5 sec 
+Set (V): 		dev 
+ 
+Dana_Delany/xftevGLBr40_0000001 06.8 12.0 
+Dana_Delany/xftevGLBr40_0000002 74.1 81.7 
+Dana_Delany/xftevGLBr40_0000003 112.4 117.5 

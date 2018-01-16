@@ -1,0 +1,7 @@
+POI: 			James_Maslow 
+Youtube ID: 	vGL04-PiFv0 
+Video length: 	224.2 sec 
+Set (V): 		dev 
+ 
+James_Maslow/vGL04-PiFv0_0000001 63.4 69.0 
+James_Maslow/vGL04-PiFv0_0000002 77.4 81.9 

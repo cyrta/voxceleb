@@ -1,0 +1,8 @@
+POI: 			Elle_Fanning 
+Youtube ID: 	FP4TghS5_UQ 
+Video length: 	299.3 sec 
+Set (V): 		test 
+ 
+Elle_Fanning/FP4TghS5_UQ_0000001 147.8 161.4 
+Elle_Fanning/FP4TghS5_UQ_0000002 162.2 167.4 
+Elle_Fanning/FP4TghS5_UQ_0000003 267.7 276.1 

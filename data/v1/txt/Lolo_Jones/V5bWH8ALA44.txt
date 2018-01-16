@@ -1,0 +1,10 @@
+POI: 			Lolo_Jones 
+Youtube ID: 	V5bWH8ALA44 
+Video length: 	163.1 sec 
+Set (V): 		dev 
+ 
+Lolo_Jones/V5bWH8ALA44_0000001 66.0 75.2 
+Lolo_Jones/V5bWH8ALA44_0000002 85.5 89.6 
+Lolo_Jones/V5bWH8ALA44_0000003 106.9 113.2 
+Lolo_Jones/V5bWH8ALA44_0000004 126.4 131.8 
+Lolo_Jones/V5bWH8ALA44_0000005 143.2 148.6 

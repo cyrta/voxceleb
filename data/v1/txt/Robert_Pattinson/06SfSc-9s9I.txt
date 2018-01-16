@@ -1,0 +1,12 @@
+POI: 			Robert_Pattinson 
+Youtube ID: 	06SfSc-9s9I 
+Video length: 	215.4 sec 
+Set (V): 		dev 
+ 
+Robert_Pattinson/06SfSc-9s9I_0000001 36.3 40.6 
+Robert_Pattinson/06SfSc-9s9I_0000002 45.2 49.8 
+Robert_Pattinson/06SfSc-9s9I_0000003 99.1 113.7 
+Robert_Pattinson/06SfSc-9s9I_0000004 115.1 126.6 
+Robert_Pattinson/06SfSc-9s9I_0000005 142.2 149.7 
+Robert_Pattinson/06SfSc-9s9I_0000006 150.8 156.6 
+Robert_Pattinson/06SfSc-9s9I_0000007 183.7 191.6 

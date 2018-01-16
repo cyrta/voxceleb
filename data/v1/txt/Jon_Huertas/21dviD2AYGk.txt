@@ -1,0 +1,7 @@
+POI: 			Jon_Huertas 
+Youtube ID: 	21dviD2AYGk 
+Video length: 	216.2 sec 
+Set (V): 		dev 
+ 
+Jon_Huertas/21dviD2AYGk_0000001 86.0 95.0 
+Jon_Huertas/21dviD2AYGk_0000002 174.7 180.4 

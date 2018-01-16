@@ -1,0 +1,8 @@
+POI: 			Lucy_Punch 
+Youtube ID: 	oeG40DZZqe0 
+Video length: 	285.9 sec 
+Set (V): 		dev 
+ 
+Lucy_Punch/oeG40DZZqe0_0000001 65.5 70.2 
+Lucy_Punch/oeG40DZZqe0_0000002 179.1 183.4 
+Lucy_Punch/oeG40DZZqe0_0000003 201.6 207.0 

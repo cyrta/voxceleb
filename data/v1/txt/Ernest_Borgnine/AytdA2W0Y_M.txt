@@ -1,0 +1,14 @@
+POI: 			Ernest_Borgnine 
+Youtube ID: 	AytdA2W0Y_M 
+Video length: 	127.3 sec 
+Set (V): 		test 
+ 
+Ernest_Borgnine/AytdA2W0Y_M_0000001 09.4 24.1 
+Ernest_Borgnine/AytdA2W0Y_M_0000002 26.3 30.6 
+Ernest_Borgnine/AytdA2W0Y_M_0000003 32.0 36.6 
+Ernest_Borgnine/AytdA2W0Y_M_0000004 37.1 51.5 
+Ernest_Borgnine/AytdA2W0Y_M_0000005 58.0 64.7 
+Ernest_Borgnine/AytdA2W0Y_M_0000006 65.2 70.9 
+Ernest_Borgnine/AytdA2W0Y_M_0000007 71.0 78.2 
+Ernest_Borgnine/AytdA2W0Y_M_0000008 81.5 86.5 
+Ernest_Borgnine/AytdA2W0Y_M_0000009 86.8 102.6 

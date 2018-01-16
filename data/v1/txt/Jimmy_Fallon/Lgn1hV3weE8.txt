@@ -1,0 +1,7 @@
+POI: 			Jimmy_Fallon 
+Youtube ID: 	Lgn1hV3weE8 
+Video length: 	634.9 sec 
+Set (V): 		dev 
+ 
+Jimmy_Fallon/Lgn1hV3weE8_0000001 05.0 13.8 
+Jimmy_Fallon/Lgn1hV3weE8_0000002 623.2 630.8 

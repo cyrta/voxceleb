@@ -1,0 +1,8 @@
+POI: 			Melissa_Rauch 
+Youtube ID: 	vC7h11_Q4Qc 
+Video length: 	180.5 sec 
+Set (V): 		dev 
+ 
+Melissa_Rauch/vC7h11_Q4Qc_0000001 77.6 86.4 
+Melissa_Rauch/vC7h11_Q4Qc_0000002 87.2 97.4 
+Melissa_Rauch/vC7h11_Q4Qc_0000003 98.3 107.8 

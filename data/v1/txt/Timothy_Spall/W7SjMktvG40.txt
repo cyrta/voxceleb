@@ -1,0 +1,9 @@
+POI: 			Timothy_Spall 
+Youtube ID: 	W7SjMktvG40 
+Video length: 	192.2 sec 
+Set (V): 		dev 
+ 
+Timothy_Spall/W7SjMktvG40_0000001 85.3 89.3 
+Timothy_Spall/W7SjMktvG40_0000002 117.0 123.0 
+Timothy_Spall/W7SjMktvG40_0000003 135.0 139.9 
+Timothy_Spall/W7SjMktvG40_0000004 159.0 164.0 

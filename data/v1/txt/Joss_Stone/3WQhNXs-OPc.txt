@@ -1,0 +1,7 @@
+POI: 			Joss_Stone 
+Youtube ID: 	3WQhNXs-OPc 
+Video length: 	369.3 sec 
+Set (V): 		dev 
+ 
+Joss_Stone/3WQhNXs-OPc_0000001 160.2 164.4 
+Joss_Stone/3WQhNXs-OPc_0000002 216.8 228.0 

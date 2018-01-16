@@ -1,0 +1,6 @@
+POI: 			Taylor_Swift 
+Youtube ID: 	obBP8GLLti0 
+Video length: 	317.5 sec 
+Set (V): 		dev 
+ 
+Taylor_Swift/obBP8GLLti0_0000001 286.0 296.2 

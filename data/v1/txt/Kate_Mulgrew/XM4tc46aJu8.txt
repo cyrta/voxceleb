@@ -1,0 +1,13 @@
+POI: 			Kate_Mulgrew 
+Youtube ID: 	XM4tc46aJu8 
+Video length: 	291.1 sec 
+Set (V): 		dev 
+ 
+Kate_Mulgrew/XM4tc46aJu8_0000001 37.1 42.3 
+Kate_Mulgrew/XM4tc46aJu8_0000002 69.9 76.1 
+Kate_Mulgrew/XM4tc46aJu8_0000003 106.4 110.4 
+Kate_Mulgrew/XM4tc46aJu8_0000004 111.2 116.0 
+Kate_Mulgrew/XM4tc46aJu8_0000005 228.1 232.1 
+Kate_Mulgrew/XM4tc46aJu8_0000006 243.7 248.9 
+Kate_Mulgrew/XM4tc46aJu8_0000007 250.4 254.5 
+Kate_Mulgrew/XM4tc46aJu8_0000008 280.2 285.3 

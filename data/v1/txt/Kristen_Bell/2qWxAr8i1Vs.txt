@@ -1,0 +1,9 @@
+POI: 			Kristen_Bell 
+Youtube ID: 	2qWxAr8i1Vs 
+Video length: 	175.2 sec 
+Set (V): 		dev 
+ 
+Kristen_Bell/2qWxAr8i1Vs_0000001 42.4 47.6 
+Kristen_Bell/2qWxAr8i1Vs_0000002 64.9 79.7 
+Kristen_Bell/2qWxAr8i1Vs_0000003 87.0 100.3 
+Kristen_Bell/2qWxAr8i1Vs_0000004 100.7 109.9 

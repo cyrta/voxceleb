@@ -1,0 +1,8 @@
+POI: 			Marilu_Henner 
+Youtube ID: 	iyvo4D5n_tg 
+Video length: 	366.3 sec 
+Set (V): 		dev 
+ 
+Marilu_Henner/iyvo4D5n_tg_0000001 52.0 57.1 
+Marilu_Henner/iyvo4D5n_tg_0000002 132.5 146.4 
+Marilu_Henner/iyvo4D5n_tg_0000003 229.3 235.3 

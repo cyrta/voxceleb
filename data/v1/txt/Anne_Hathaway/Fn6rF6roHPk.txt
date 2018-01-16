@@ -1,0 +1,8 @@
+POI: 			Anne_Hathaway 
+Youtube ID: 	Fn6rF6roHPk 
+Video length: 	432.7 sec 
+Set (V): 		dev 
+ 
+Anne_Hathaway/Fn6rF6roHPk_0000001 18.0 22.0 
+Anne_Hathaway/Fn6rF6roHPk_0000002 86.5 90.6 
+Anne_Hathaway/Fn6rF6roHPk_0000003 161.5 166.2 

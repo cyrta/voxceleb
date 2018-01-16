@@ -1,0 +1,10 @@
+POI: 			Cameron_Boyce 
+Youtube ID: 	PLq7VpHTd_I 
+Video length: 	464.2 sec 
+Set (V): 		dev 
+ 
+Cameron_Boyce/PLq7VpHTd_I_0000001 94.1 103.3 
+Cameron_Boyce/PLq7VpHTd_I_0000002 223.6 228.8 
+Cameron_Boyce/PLq7VpHTd_I_0000003 246.3 250.5 
+Cameron_Boyce/PLq7VpHTd_I_0000004 396.0 402.2 
+Cameron_Boyce/PLq7VpHTd_I_0000005 432.6 436.9 

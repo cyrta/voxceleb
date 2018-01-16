@@ -1,0 +1,8 @@
+POI: 			Garry_Marshall 
+Youtube ID: 	YumAteaMRKc 
+Video length: 	85.0 sec 
+Set (V): 		dev 
+ 
+Garry_Marshall/YumAteaMRKc_0000001 15.7 19.8 
+Garry_Marshall/YumAteaMRKc_0000002 21.6 26.7 
+Garry_Marshall/YumAteaMRKc_0000003 30.7 39.6 

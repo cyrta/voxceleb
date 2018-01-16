@@ -1,0 +1,18 @@
+POI: 			Aidan_Turner 
+Youtube ID: 	ywRolvE7ToY 
+Video length: 	224.5 sec 
+Set (V): 		dev 
+ 
+Aidan_Turner/ywRolvE7ToY_0000001 05.0 11.6 
+Aidan_Turner/ywRolvE7ToY_0000002 18.3 31.0 
+Aidan_Turner/ywRolvE7ToY_0000003 31.9 40.2 
+Aidan_Turner/ywRolvE7ToY_0000004 46.4 57.0 
+Aidan_Turner/ywRolvE7ToY_0000005 69.1 77.1 
+Aidan_Turner/ywRolvE7ToY_0000006 78.3 96.6 
+Aidan_Turner/ywRolvE7ToY_0000007 102.0 110.1 
+Aidan_Turner/ywRolvE7ToY_0000008 126.2 131.0 
+Aidan_Turner/ywRolvE7ToY_0000009 153.7 158.5 
+Aidan_Turner/ywRolvE7ToY_0000010 163.6 175.3 
+Aidan_Turner/ywRolvE7ToY_0000011 175.8 180.7 
+Aidan_Turner/ywRolvE7ToY_0000012 181.0 194.8 
+Aidan_Turner/ywRolvE7ToY_0000013 195.7 211.7 

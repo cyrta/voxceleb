@@ -1,0 +1,8 @@
+POI: 			Donna_Murphy 
+Youtube ID: 	QDLTmHwekpI 
+Video length: 	97.3 sec 
+Set (V): 		dev 
+ 
+Donna_Murphy/QDLTmHwekpI_0000001 15.4 20.6 
+Donna_Murphy/QDLTmHwekpI_0000002 42.8 50.5 
+Donna_Murphy/QDLTmHwekpI_0000003 80.9 88.4 

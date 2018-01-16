@@ -1,0 +1,15 @@
+POI: 			Ryan_Potter 
+Youtube ID: 	Bv8KIfGtQpE 
+Video length: 	149.7 sec 
+Set (V): 		dev 
+ 
+Ryan_Potter/Bv8KIfGtQpE_0000001 12.4 18.6 
+Ryan_Potter/Bv8KIfGtQpE_0000002 41.4 45.8 
+Ryan_Potter/Bv8KIfGtQpE_0000003 47.4 55.4 
+Ryan_Potter/Bv8KIfGtQpE_0000004 57.2 66.4 
+Ryan_Potter/Bv8KIfGtQpE_0000005 67.0 73.8 
+Ryan_Potter/Bv8KIfGtQpE_0000006 86.7 92.8 
+Ryan_Potter/Bv8KIfGtQpE_0000007 97.8 102.1 
+Ryan_Potter/Bv8KIfGtQpE_0000008 117.4 124.1 
+Ryan_Potter/Bv8KIfGtQpE_0000009 126.1 132.0 
+Ryan_Potter/Bv8KIfGtQpE_0000010 134.8 143.0 

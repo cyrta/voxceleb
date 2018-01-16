@@ -1,0 +1,10 @@
+POI: 			Marcia_Gay_Harden 
+Youtube ID: 	ll0t35YVhiU 
+Video length: 	717.1 sec 
+Set (V): 		dev 
+ 
+Marcia_Gay_Harden/ll0t35YVhiU_0000001 285.3 291.8 
+Marcia_Gay_Harden/ll0t35YVhiU_0000002 292.2 299.7 
+Marcia_Gay_Harden/ll0t35YVhiU_0000003 303.9 321.4 
+Marcia_Gay_Harden/ll0t35YVhiU_0000004 321.7 327.2 
+Marcia_Gay_Harden/ll0t35YVhiU_0000005 327.9 333.3 

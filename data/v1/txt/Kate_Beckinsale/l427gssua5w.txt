@@ -1,0 +1,16 @@
+POI: 			Kate_Beckinsale 
+Youtube ID: 	l427gssua5w 
+Video length: 	560.4 sec 
+Set (V): 		dev 
+ 
+Kate_Beckinsale/l427gssua5w_0000001 142.2 148.9 
+Kate_Beckinsale/l427gssua5w_0000002 208.0 216.0 
+Kate_Beckinsale/l427gssua5w_0000003 245.4 253.1 
+Kate_Beckinsale/l427gssua5w_0000004 260.0 265.0 
+Kate_Beckinsale/l427gssua5w_0000005 319.3 325.6 
+Kate_Beckinsale/l427gssua5w_0000006 377.8 382.2 
+Kate_Beckinsale/l427gssua5w_0000007 443.0 455.1 
+Kate_Beckinsale/l427gssua5w_0000008 479.6 485.4 
+Kate_Beckinsale/l427gssua5w_0000009 485.5 490.4 
+Kate_Beckinsale/l427gssua5w_0000010 504.8 509.2 
+Kate_Beckinsale/l427gssua5w_0000011 514.2 525.9 

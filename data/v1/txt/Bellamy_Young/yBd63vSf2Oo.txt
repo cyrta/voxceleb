@@ -1,0 +1,12 @@
+POI: 			Bellamy_Young 
+Youtube ID: 	yBd63vSf2Oo 
+Video length: 	729.9 sec 
+Set (V): 		dev 
+ 
+Bellamy_Young/yBd63vSf2Oo_0000001 215.4 222.2 
+Bellamy_Young/yBd63vSf2Oo_0000002 229.0 235.8 
+Bellamy_Young/yBd63vSf2Oo_0000003 248.1 252.8 
+Bellamy_Young/yBd63vSf2Oo_0000004 302.8 307.7 
+Bellamy_Young/yBd63vSf2Oo_0000005 358.1 362.6 
+Bellamy_Young/yBd63vSf2Oo_0000006 441.2 448.0 
+Bellamy_Young/yBd63vSf2Oo_0000007 454.8 459.0 

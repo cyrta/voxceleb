@@ -1,0 +1,8 @@
+POI: 			Sarah_Gadon 
+Youtube ID: 	h6db-LEVxjo 
+Video length: 	61.5 sec 
+Set (V): 		dev 
+ 
+Sarah_Gadon/h6db-LEVxjo_0000001 15.9 23.2 
+Sarah_Gadon/h6db-LEVxjo_0000002 46.0 50.2 
+Sarah_Gadon/h6db-LEVxjo_0000003 50.9 55.2 

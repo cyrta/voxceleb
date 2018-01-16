@@ -1,0 +1,9 @@
+POI: 			William_Fichtner 
+Youtube ID: 	yTaIN9yoK0k 
+Video length: 	64.2 sec 
+Set (V): 		dev 
+ 
+William_Fichtner/yTaIN9yoK0k_0000001 02.0 07.3 
+William_Fichtner/yTaIN9yoK0k_0000002 20.6 36.4 
+William_Fichtner/yTaIN9yoK0k_0000003 41.4 47.6 
+William_Fichtner/yTaIN9yoK0k_0000004 48.4 53.0 

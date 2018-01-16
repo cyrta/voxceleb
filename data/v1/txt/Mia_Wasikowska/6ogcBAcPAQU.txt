@@ -1,0 +1,17 @@
+POI: 			Mia_Wasikowska 
+Youtube ID: 	6ogcBAcPAQU 
+Video length: 	222.6 sec 
+Set (V): 		dev 
+ 
+Mia_Wasikowska/6ogcBAcPAQU_0000001 23.2 30.0 
+Mia_Wasikowska/6ogcBAcPAQU_0000002 30.4 38.0 
+Mia_Wasikowska/6ogcBAcPAQU_0000003 43.4 49.9 
+Mia_Wasikowska/6ogcBAcPAQU_0000004 65.7 70.0 
+Mia_Wasikowska/6ogcBAcPAQU_0000005 71.0 76.6 
+Mia_Wasikowska/6ogcBAcPAQU_0000006 80.9 88.5 
+Mia_Wasikowska/6ogcBAcPAQU_0000007 102.6 109.7 
+Mia_Wasikowska/6ogcBAcPAQU_0000008 140.1 146.2 
+Mia_Wasikowska/6ogcBAcPAQU_0000009 156.3 164.8 
+Mia_Wasikowska/6ogcBAcPAQU_0000010 172.9 180.4 
+Mia_Wasikowska/6ogcBAcPAQU_0000011 183.0 189.6 
+Mia_Wasikowska/6ogcBAcPAQU_0000012 198.1 216.0 

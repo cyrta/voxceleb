@@ -1,0 +1,19 @@
+POI: 			Sarah_Paulson 
+Youtube ID: 	VN0rY2wsKRg 
+Video length: 	451.2 sec 
+Set (V): 		dev 
+ 
+Sarah_Paulson/VN0rY2wsKRg_0000001 32.0 41.8 
+Sarah_Paulson/VN0rY2wsKRg_0000002 53.3 58.6 
+Sarah_Paulson/VN0rY2wsKRg_0000003 146.8 151.4 
+Sarah_Paulson/VN0rY2wsKRg_0000004 152.1 163.3 
+Sarah_Paulson/VN0rY2wsKRg_0000005 170.6 181.3 
+Sarah_Paulson/VN0rY2wsKRg_0000006 192.9 200.9 
+Sarah_Paulson/VN0rY2wsKRg_0000007 208.9 215.4 
+Sarah_Paulson/VN0rY2wsKRg_0000008 269.2 274.0 
+Sarah_Paulson/VN0rY2wsKRg_0000009 276.8 299.0 
+Sarah_Paulson/VN0rY2wsKRg_0000010 326.6 333.4 
+Sarah_Paulson/VN0rY2wsKRg_0000011 346.7 356.8 
+Sarah_Paulson/VN0rY2wsKRg_0000012 358.5 362.8 
+Sarah_Paulson/VN0rY2wsKRg_0000013 364.9 379.7 
+Sarah_Paulson/VN0rY2wsKRg_0000014 381.2 416.4 

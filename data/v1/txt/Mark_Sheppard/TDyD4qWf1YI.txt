@@ -1,0 +1,18 @@
+POI: 			Mark_Sheppard 
+Youtube ID: 	TDyD4qWf1YI 
+Video length: 	215.7 sec 
+Set (V): 		dev 
+ 
+Mark_Sheppard/TDyD4qWf1YI_0000001 20.8 25.8 
+Mark_Sheppard/TDyD4qWf1YI_0000002 30.1 35.8 
+Mark_Sheppard/TDyD4qWf1YI_0000003 39.2 44.4 
+Mark_Sheppard/TDyD4qWf1YI_0000004 97.7 104.3 
+Mark_Sheppard/TDyD4qWf1YI_0000005 104.5 112.2 
+Mark_Sheppard/TDyD4qWf1YI_0000006 114.2 118.8 
+Mark_Sheppard/TDyD4qWf1YI_0000007 119.3 127.5 
+Mark_Sheppard/TDyD4qWf1YI_0000008 141.0 147.7 
+Mark_Sheppard/TDyD4qWf1YI_0000009 144.3 150.1 
+Mark_Sheppard/TDyD4qWf1YI_0000010 152.1 161.3 
+Mark_Sheppard/TDyD4qWf1YI_0000011 163.3 167.8 
+Mark_Sheppard/TDyD4qWf1YI_0000012 172.0 177.5 
+Mark_Sheppard/TDyD4qWf1YI_0000013 182.2 188.1 

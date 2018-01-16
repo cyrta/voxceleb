@@ -1,0 +1,7 @@
+POI: 			Douglas_Booth 
+Youtube ID: 	pmZA1DsFXzU 
+Video length: 	246.3 sec 
+Set (V): 		dev 
+ 
+Douglas_Booth/pmZA1DsFXzU_0000001 43.8 49.6 
+Douglas_Booth/pmZA1DsFXzU_0000002 51.7 56.2 

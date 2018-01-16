@@ -1,0 +1,12 @@
+POI: 			Michelle_Keegan 
+Youtube ID: 	cq22vTu5LrU 
+Video length: 	323.7 sec 
+Set (V): 		dev 
+ 
+Michelle_Keegan/cq22vTu5LrU_0000001 83.3 89.8 
+Michelle_Keegan/cq22vTu5LrU_0000002 102.1 114.1 
+Michelle_Keegan/cq22vTu5LrU_0000003 120.2 125.6 
+Michelle_Keegan/cq22vTu5LrU_0000004 133.0 158.6 
+Michelle_Keegan/cq22vTu5LrU_0000005 162.9 171.5 
+Michelle_Keegan/cq22vTu5LrU_0000006 218.6 226.8 
+Michelle_Keegan/cq22vTu5LrU_0000007 288.8 299.4 

@@ -1,0 +1,10 @@
+POI: 			Amy_Schumer 
+Youtube ID: 	RgX2HY2iyVQ 
+Video length: 	363.9 sec 
+Set (V): 		dev 
+ 
+Amy_Schumer/RgX2HY2iyVQ_0000001 35.5 40.8 
+Amy_Schumer/RgX2HY2iyVQ_0000002 50.1 54.6 
+Amy_Schumer/RgX2HY2iyVQ_0000003 232.4 236.7 
+Amy_Schumer/RgX2HY2iyVQ_0000004 250.3 256.2 
+Amy_Schumer/RgX2HY2iyVQ_0000005 308.6 314.8 

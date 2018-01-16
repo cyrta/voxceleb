@@ -1,0 +1,11 @@
+POI: 			Gemma_Arterton 
+Youtube ID: 	vMc7ESc-qV8 
+Video length: 	343.0 sec 
+Set (V): 		dev 
+ 
+Gemma_Arterton/vMc7ESc-qV8_0000001 24.2 71.6 
+Gemma_Arterton/vMc7ESc-qV8_0000002 78.5 106.4 
+Gemma_Arterton/vMc7ESc-qV8_0000003 123.2 147.4 
+Gemma_Arterton/vMc7ESc-qV8_0000004 163.2 172.4 
+Gemma_Arterton/vMc7ESc-qV8_0000005 172.8 177.3 
+Gemma_Arterton/vMc7ESc-qV8_0000006 177.5 184.2 

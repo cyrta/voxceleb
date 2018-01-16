@@ -1,0 +1,16 @@
+POI: 			John_Amos 
+Youtube ID: 	toVSxKV_2eI 
+Video length: 	157.3 sec 
+Set (V): 		dev 
+ 
+John_Amos/toVSxKV_2eI_0000001 11.2 28.1 
+John_Amos/toVSxKV_2eI_0000002 37.3 52.3 
+John_Amos/toVSxKV_2eI_0000003 52.5 58.8 
+John_Amos/toVSxKV_2eI_0000004 61.0 66.6 
+John_Amos/toVSxKV_2eI_0000005 73.2 78.5 
+John_Amos/toVSxKV_2eI_0000006 82.2 87.4 
+John_Amos/toVSxKV_2eI_0000007 100.6 107.3 
+John_Amos/toVSxKV_2eI_0000008 115.8 120.5 
+John_Amos/toVSxKV_2eI_0000009 121.9 129.9 
+John_Amos/toVSxKV_2eI_0000010 131.0 135.5 
+John_Amos/toVSxKV_2eI_0000011 135.6 142.9 

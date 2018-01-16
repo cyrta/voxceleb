@@ -1,0 +1,12 @@
+POI: 			Kat_Dennings 
+Youtube ID: 	x3RNVx2PFf8 
+Video length: 	126.6 sec 
+Set (V): 		dev 
+ 
+Kat_Dennings/x3RNVx2PFf8_0000001 08.8 13.4 
+Kat_Dennings/x3RNVx2PFf8_0000002 13.9 24.0 
+Kat_Dennings/x3RNVx2PFf8_0000003 30.5 37.6 
+Kat_Dennings/x3RNVx2PFf8_0000004 76.7 83.4 
+Kat_Dennings/x3RNVx2PFf8_0000005 88.2 95.6 
+Kat_Dennings/x3RNVx2PFf8_0000006 95.7 101.6 
+Kat_Dennings/x3RNVx2PFf8_0000007 114.7 122.8 

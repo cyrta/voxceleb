@@ -1,0 +1,9 @@
+POI: 			Jeffrey_Donovan 
+Youtube ID: 	O2ZM52bWK4Q 
+Video length: 	825.4 sec 
+Set (V): 		dev 
+ 
+Jeffrey_Donovan/O2ZM52bWK4Q_0000001 399.5 412.8 
+Jeffrey_Donovan/O2ZM52bWK4Q_0000002 426.5 430.9 
+Jeffrey_Donovan/O2ZM52bWK4Q_0000003 434.2 440.4 
+Jeffrey_Donovan/O2ZM52bWK4Q_0000004 454.8 460.8 

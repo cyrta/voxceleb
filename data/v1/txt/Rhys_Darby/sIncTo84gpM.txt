@@ -1,0 +1,16 @@
+POI: 			Rhys_Darby 
+Youtube ID: 	sIncTo84gpM 
+Video length: 	717.3 sec 
+Set (V): 		dev 
+ 
+Rhys_Darby/sIncTo84gpM_0000001 145.7 150.6 
+Rhys_Darby/sIncTo84gpM_0000002 167.8 174.0 
+Rhys_Darby/sIncTo84gpM_0000003 245.6 250.4 
+Rhys_Darby/sIncTo84gpM_0000004 260.5 266.6 
+Rhys_Darby/sIncTo84gpM_0000005 304.1 314.6 
+Rhys_Darby/sIncTo84gpM_0000006 390.2 394.4 
+Rhys_Darby/sIncTo84gpM_0000007 398.4 408.2 
+Rhys_Darby/sIncTo84gpM_0000008 431.7 436.8 
+Rhys_Darby/sIncTo84gpM_0000009 521.0 529.7 
+Rhys_Darby/sIncTo84gpM_0000010 537.7 545.4 
+Rhys_Darby/sIncTo84gpM_0000011 549.6 555.9 

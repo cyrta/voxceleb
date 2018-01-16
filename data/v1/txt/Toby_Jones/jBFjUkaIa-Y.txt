@@ -1,0 +1,13 @@
+POI: 			Toby_Jones 
+Youtube ID: 	jBFjUkaIa-Y 
+Video length: 	258.3 sec 
+Set (V): 		dev 
+ 
+Toby_Jones/jBFjUkaIa-Y_0000001 33.7 37.7 
+Toby_Jones/jBFjUkaIa-Y_0000002 56.5 64.2 
+Toby_Jones/jBFjUkaIa-Y_0000003 72.5 81.0 
+Toby_Jones/jBFjUkaIa-Y_0000004 92.3 96.6 
+Toby_Jones/jBFjUkaIa-Y_0000005 111.6 117.0 
+Toby_Jones/jBFjUkaIa-Y_0000006 177.4 189.6 
+Toby_Jones/jBFjUkaIa-Y_0000007 197.5 205.2 
+Toby_Jones/jBFjUkaIa-Y_0000008 213.9 217.9 

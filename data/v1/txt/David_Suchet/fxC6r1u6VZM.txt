@@ -1,0 +1,9 @@
+POI: 			David_Suchet 
+Youtube ID: 	fxC6r1u6VZM 
+Video length: 	265.4 sec 
+Set (V): 		dev 
+ 
+David_Suchet/fxC6r1u6VZM_0000001 52.0 59.4 
+David_Suchet/fxC6r1u6VZM_0000002 76.2 84.1 
+David_Suchet/fxC6r1u6VZM_0000003 107.8 118.2 
+David_Suchet/fxC6r1u6VZM_0000004 168.3 172.8 

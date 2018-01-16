@@ -1,0 +1,7 @@
+POI: 			Jeremy_Renner 
+Youtube ID: 	f93lPlkWuvw 
+Video length: 	207.8 sec 
+Set (V): 		dev 
+ 
+Jeremy_Renner/f93lPlkWuvw_0000001 25.6 30.4 
+Jeremy_Renner/f93lPlkWuvw_0000002 117.7 122.4 

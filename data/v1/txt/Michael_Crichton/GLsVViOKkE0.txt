@@ -1,0 +1,13 @@
+POI: 			Michael_Crichton 
+Youtube ID: 	GLsVViOKkE0 
+Video length: 	587.5 sec 
+Set (V): 		dev 
+ 
+Michael_Crichton/GLsVViOKkE0_0000001 165.2 170.6 
+Michael_Crichton/GLsVViOKkE0_0000002 176.1 183.1 
+Michael_Crichton/GLsVViOKkE0_0000003 241.7 246.0 
+Michael_Crichton/GLsVViOKkE0_0000004 305.2 312.1 
+Michael_Crichton/GLsVViOKkE0_0000005 314.9 320.6 
+Michael_Crichton/GLsVViOKkE0_0000006 386.5 392.3 
+Michael_Crichton/GLsVViOKkE0_0000007 399.4 405.4 
+Michael_Crichton/GLsVViOKkE0_0000008 407.6 411.5 

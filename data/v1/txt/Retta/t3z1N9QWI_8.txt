@@ -1,0 +1,11 @@
+POI: 			Retta 
+Youtube ID: 	t3z1N9QWI_8 
+Video length: 	247.0 sec 
+Set (V): 		dev 
+ 
+Retta/t3z1N9QWI_8_0000001 84.2 91.4 
+Retta/t3z1N9QWI_8_0000002 91.8 103.9 
+Retta/t3z1N9QWI_8_0000003 121.5 137.3 
+Retta/t3z1N9QWI_8_0000004 148.4 159.6 
+Retta/t3z1N9QWI_8_0000005 183.4 200.1 
+Retta/t3z1N9QWI_8_0000006 205.7 212.9 

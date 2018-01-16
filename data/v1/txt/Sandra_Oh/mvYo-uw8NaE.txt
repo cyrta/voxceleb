@@ -1,0 +1,12 @@
+POI: 			Sandra_Oh 
+Youtube ID: 	mvYo-uw8NaE 
+Video length: 	1556.8 sec 
+Set (V): 		dev 
+ 
+Sandra_Oh/mvYo-uw8NaE_0000001 952.2 958.0 
+Sandra_Oh/mvYo-uw8NaE_0000002 961.0 966.5 
+Sandra_Oh/mvYo-uw8NaE_0000003 1063.9 1068.4 
+Sandra_Oh/mvYo-uw8NaE_0000004 1103.7 1109.2 
+Sandra_Oh/mvYo-uw8NaE_0000005 1130.8 1140.9 
+Sandra_Oh/mvYo-uw8NaE_0000006 1235.8 1240.2 
+Sandra_Oh/mvYo-uw8NaE_0000007 1390.9 1396.2 

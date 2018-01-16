@@ -1,0 +1,7 @@
+POI: 			Shane_West 
+Youtube ID: 	M44AVe_BcGE 
+Video length: 	444.2 sec 
+Set (V): 		dev 
+ 
+Shane_West/M44AVe_BcGE_0000001 106.7 113.0 
+Shane_West/M44AVe_BcGE_0000002 348.8 353.2 

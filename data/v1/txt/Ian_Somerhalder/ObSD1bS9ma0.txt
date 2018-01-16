@@ -1,0 +1,8 @@
+POI: 			Ian_Somerhalder 
+Youtube ID: 	ObSD1bS9ma0 
+Video length: 	239.5 sec 
+Set (V): 		dev 
+ 
+Ian_Somerhalder/ObSD1bS9ma0_0000001 80.5 86.0 
+Ian_Somerhalder/ObSD1bS9ma0_0000002 168.0 172.3 
+Ian_Somerhalder/ObSD1bS9ma0_0000003 222.7 227.0 

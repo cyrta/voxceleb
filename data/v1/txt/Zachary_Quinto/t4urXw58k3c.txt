@@ -1,0 +1,14 @@
+POI: 			Zachary_Quinto 
+Youtube ID: 	t4urXw58k3c 
+Video length: 	304.7 sec 
+Set (V): 		dev 
+ 
+Zachary_Quinto/t4urXw58k3c_0000001 71.0 76.6 
+Zachary_Quinto/t4urXw58k3c_0000002 77.0 82.1 
+Zachary_Quinto/t4urXw58k3c_0000003 111.4 121.1 
+Zachary_Quinto/t4urXw58k3c_0000004 122.2 131.6 
+Zachary_Quinto/t4urXw58k3c_0000005 145.0 149.4 
+Zachary_Quinto/t4urXw58k3c_0000006 220.0 235.0 
+Zachary_Quinto/t4urXw58k3c_0000007 238.4 243.6 
+Zachary_Quinto/t4urXw58k3c_0000008 278.4 285.6 
+Zachary_Quinto/t4urXw58k3c_0000009 287.7 296.0 

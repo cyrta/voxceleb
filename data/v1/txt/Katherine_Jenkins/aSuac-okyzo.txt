@@ -1,0 +1,12 @@
+POI: 			Katherine_Jenkins 
+Youtube ID: 	aSuac-okyzo 
+Video length: 	451.1 sec 
+Set (V): 		dev 
+ 
+Katherine_Jenkins/aSuac-okyzo_0000001 94.3 99.3 
+Katherine_Jenkins/aSuac-okyzo_0000002 165.4 170.6 
+Katherine_Jenkins/aSuac-okyzo_0000003 177.0 183.3 
+Katherine_Jenkins/aSuac-okyzo_0000004 200.6 204.8 
+Katherine_Jenkins/aSuac-okyzo_0000005 258.8 263.0 
+Katherine_Jenkins/aSuac-okyzo_0000006 293.2 297.5 
+Katherine_Jenkins/aSuac-okyzo_0000007 386.3 393.2 

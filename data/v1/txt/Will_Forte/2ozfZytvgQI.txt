@@ -1,0 +1,7 @@
+POI: 			Will_Forte 
+Youtube ID: 	2ozfZytvgQI 
+Video length: 	144.5 sec 
+Set (V): 		dev 
+ 
+Will_Forte/2ozfZytvgQI_0000001 73.6 77.9 
+Will_Forte/2ozfZytvgQI_0000002 100.2 104.2 

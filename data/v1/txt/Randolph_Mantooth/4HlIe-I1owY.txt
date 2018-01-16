@@ -1,0 +1,12 @@
+POI: 			Randolph_Mantooth 
+Youtube ID: 	4HlIe-I1owY 
+Video length: 	147.2 sec 
+Set (V): 		dev 
+ 
+Randolph_Mantooth/4HlIe-I1owY_0000001 28.5 34.7 
+Randolph_Mantooth/4HlIe-I1owY_0000002 36.8 41.6 
+Randolph_Mantooth/4HlIe-I1owY_0000003 79.1 85.5 
+Randolph_Mantooth/4HlIe-I1owY_0000004 87.4 93.2 
+Randolph_Mantooth/4HlIe-I1owY_0000005 93.5 98.8 
+Randolph_Mantooth/4HlIe-I1owY_0000006 102.9 113.0 
+Randolph_Mantooth/4HlIe-I1owY_0000007 116.2 122.0 

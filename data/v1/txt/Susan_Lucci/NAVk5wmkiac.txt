@@ -1,0 +1,14 @@
+POI: 			Susan_Lucci 
+Youtube ID: 	NAVk5wmkiac 
+Video length: 	402.7 sec 
+Set (V): 		dev 
+ 
+Susan_Lucci/NAVk5wmkiac_0000001 72.1 78.4 
+Susan_Lucci/NAVk5wmkiac_0000002 123.9 134.6 
+Susan_Lucci/NAVk5wmkiac_0000003 139.6 150.3 
+Susan_Lucci/NAVk5wmkiac_0000004 160.3 172.0 
+Susan_Lucci/NAVk5wmkiac_0000005 206.6 211.3 
+Susan_Lucci/NAVk5wmkiac_0000006 290.4 296.4 
+Susan_Lucci/NAVk5wmkiac_0000007 336.2 345.7 
+Susan_Lucci/NAVk5wmkiac_0000008 348.4 362.5 
+Susan_Lucci/NAVk5wmkiac_0000009 366.8 372.8 

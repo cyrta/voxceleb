@@ -1,0 +1,8 @@
+POI: 			Chi_McBride 
+Youtube ID: 	8Afuhb9JHbw 
+Video length: 	119.0 sec 
+Set (V): 		dev 
+ 
+Chi_McBride/8Afuhb9JHbw_0000001 80.4 89.0 
+Chi_McBride/8Afuhb9JHbw_0000002 89.3 94.7 
+Chi_McBride/8Afuhb9JHbw_0000003 95.4 102.0 

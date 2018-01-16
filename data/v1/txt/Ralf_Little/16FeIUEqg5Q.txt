@@ -1,0 +1,12 @@
+POI: 			Ralf_Little 
+Youtube ID: 	16FeIUEqg5Q 
+Video length: 	267.3 sec 
+Set (V): 		dev 
+ 
+Ralf_Little/16FeIUEqg5Q_0000001 06.0 14.4 
+Ralf_Little/16FeIUEqg5Q_0000002 14.5 19.8 
+Ralf_Little/16FeIUEqg5Q_0000003 43.3 49.4 
+Ralf_Little/16FeIUEqg5Q_0000004 80.8 87.0 
+Ralf_Little/16FeIUEqg5Q_0000005 100.2 106.9 
+Ralf_Little/16FeIUEqg5Q_0000006 213.4 218.0 
+Ralf_Little/16FeIUEqg5Q_0000007 243.8 248.2 

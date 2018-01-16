@@ -1,0 +1,10 @@
+POI: 			Cillian_Murphy 
+Youtube ID: 	ulpFuyjN0O0 
+Video length: 	174.3 sec 
+Set (V): 		dev 
+ 
+Cillian_Murphy/ulpFuyjN0O0_0000001 37.1 41.9 
+Cillian_Murphy/ulpFuyjN0O0_0000002 42.6 49.6 
+Cillian_Murphy/ulpFuyjN0O0_0000003 86.0 90.5 
+Cillian_Murphy/ulpFuyjN0O0_0000004 103.0 107.4 
+Cillian_Murphy/ulpFuyjN0O0_0000005 116.1 121.8 

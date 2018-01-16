@@ -1,0 +1,8 @@
+POI: 			Vince_Gilligan 
+Youtube ID: 	mehU6bkQbY4 
+Video length: 	166.8 sec 
+Set (V): 		dev 
+ 
+Vince_Gilligan/mehU6bkQbY4_0000001 99.2 105.5 
+Vince_Gilligan/mehU6bkQbY4_0000002 107.4 111.6 
+Vince_Gilligan/mehU6bkQbY4_0000003 120.9 128.4 

@@ -1,0 +1,8 @@
+POI: 			Diablo_Cody 
+Youtube ID: 	WqyQqE9Rff4 
+Video length: 	158.0 sec 
+Set (V): 		dev 
+ 
+Diablo_Cody/WqyQqE9Rff4_0000001 45.6 49.9 
+Diablo_Cody/WqyQqE9Rff4_0000002 62.0 66.0 
+Diablo_Cody/WqyQqE9Rff4_0000003 72.8 77.6 

@@ -1,0 +1,11 @@
+POI: 			Idina_Menzel 
+Youtube ID: 	4ry5D-jgSQU 
+Video length: 	648.9 sec 
+Set (V): 		dev 
+ 
+Idina_Menzel/4ry5D-jgSQU_0000001 37.1 41.6 
+Idina_Menzel/4ry5D-jgSQU_0000002 47.8 56.3 
+Idina_Menzel/4ry5D-jgSQU_0000003 189.2 193.2 
+Idina_Menzel/4ry5D-jgSQU_0000004 207.2 211.8 
+Idina_Menzel/4ry5D-jgSQU_0000005 216.8 220.7 
+Idina_Menzel/4ry5D-jgSQU_0000006 418.4 425.3 

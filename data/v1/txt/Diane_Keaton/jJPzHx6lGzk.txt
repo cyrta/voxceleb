@@ -1,0 +1,10 @@
+POI: 			Diane_Keaton 
+Youtube ID: 	jJPzHx6lGzk 
+Video length: 	719.5 sec 
+Set (V): 		dev 
+ 
+Diane_Keaton/jJPzHx6lGzk_0000001 120.2 124.9 
+Diane_Keaton/jJPzHx6lGzk_0000002 142.6 148.6 
+Diane_Keaton/jJPzHx6lGzk_0000003 361.0 366.1 
+Diane_Keaton/jJPzHx6lGzk_0000004 505.5 509.6 
+Diane_Keaton/jJPzHx6lGzk_0000005 598.9 607.9 

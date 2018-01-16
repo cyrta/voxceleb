@@ -1,0 +1,7 @@
+POI: 			Ray_Winstone 
+Youtube ID: 	CgfOhTmcNyc 
+Video length: 	43.1 sec 
+Set (V): 		dev 
+ 
+Ray_Winstone/CgfOhTmcNyc_0000001 16.8 29.3 
+Ray_Winstone/CgfOhTmcNyc_0000002 34.2 39.2 

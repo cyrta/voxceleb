@@ -1,0 +1,11 @@
+POI: 			Pierre_Niney 
+Youtube ID: 	x2IuT1XamtQ 
+Video length: 	378.2 sec 
+Set (V): 		dev 
+ 
+Pierre_Niney/x2IuT1XamtQ_0000001 32.2 41.8 
+Pierre_Niney/x2IuT1XamtQ_0000002 49.0 54.2 
+Pierre_Niney/x2IuT1XamtQ_0000003 149.9 154.4 
+Pierre_Niney/x2IuT1XamtQ_0000004 172.4 177.1 
+Pierre_Niney/x2IuT1XamtQ_0000005 211.5 218.9 
+Pierre_Niney/x2IuT1XamtQ_0000006 236.2 250.0 

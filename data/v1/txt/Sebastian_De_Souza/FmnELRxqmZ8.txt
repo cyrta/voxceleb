@@ -1,0 +1,9 @@
+POI: 			Sebastian_De_Souza 
+Youtube ID: 	FmnELRxqmZ8 
+Video length: 	300.3 sec 
+Set (V): 		dev 
+ 
+Sebastian_De_Souza/FmnELRxqmZ8_0000001 80.6 84.8 
+Sebastian_De_Souza/FmnELRxqmZ8_0000002 115.5 122.1 
+Sebastian_De_Souza/FmnELRxqmZ8_0000003 131.2 137.6 
+Sebastian_De_Souza/FmnELRxqmZ8_0000004 167.2 172.2 

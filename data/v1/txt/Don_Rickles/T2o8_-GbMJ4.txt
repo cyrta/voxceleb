@@ -1,0 +1,9 @@
+POI: 			Don_Rickles 
+Youtube ID: 	T2o8_-GbMJ4 
+Video length: 	522.7 sec 
+Set (V): 		dev 
+ 
+Don_Rickles/T2o8_-GbMJ4_0000001 279.9 288.3 
+Don_Rickles/T2o8_-GbMJ4_0000002 410.4 414.9 
+Don_Rickles/T2o8_-GbMJ4_0000003 416.9 424.6 
+Don_Rickles/T2o8_-GbMJ4_0000004 470.9 475.4 

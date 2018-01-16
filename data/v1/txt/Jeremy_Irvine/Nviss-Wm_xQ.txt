@@ -1,0 +1,9 @@
+POI: 			Jeremy_Irvine 
+Youtube ID: 	Nviss-Wm_xQ 
+Video length: 	306.2 sec 
+Set (V): 		dev 
+ 
+Jeremy_Irvine/Nviss-Wm_xQ_0000001 89.8 96.8 
+Jeremy_Irvine/Nviss-Wm_xQ_0000002 197.2 201.5 
+Jeremy_Irvine/Nviss-Wm_xQ_0000003 206.9 212.7 
+Jeremy_Irvine/Nviss-Wm_xQ_0000004 248.2 253.6 

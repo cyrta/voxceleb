@@ -1,0 +1,8 @@
+POI: 			NeNe_Leakes 
+Youtube ID: 	p3FGyL58Onc 
+Video length: 	1597.3 sec 
+Set (V): 		dev 
+ 
+NeNe_Leakes/p3FGyL58Onc_0000001 124.2 129.6 
+NeNe_Leakes/p3FGyL58Onc_0000002 374.3 378.4 
+NeNe_Leakes/p3FGyL58Onc_0000003 1527.6 1533.2 

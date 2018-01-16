@@ -1,0 +1,15 @@
+POI: 			Thomas_Haden_Church 
+Youtube ID: 	GaKIJFIHef0 
+Video length: 	423.8 sec 
+Set (V): 		dev 
+ 
+Thomas_Haden_Church/GaKIJFIHef0_0000001 46.6 54.0 
+Thomas_Haden_Church/GaKIJFIHef0_0000002 60.5 65.2 
+Thomas_Haden_Church/GaKIJFIHef0_0000003 245.6 249.8 
+Thomas_Haden_Church/GaKIJFIHef0_0000004 251.2 261.5 
+Thomas_Haden_Church/GaKIJFIHef0_0000005 272.6 277.1 
+Thomas_Haden_Church/GaKIJFIHef0_0000006 278.3 282.4 
+Thomas_Haden_Church/GaKIJFIHef0_0000007 283.1 293.9 
+Thomas_Haden_Church/GaKIJFIHef0_0000008 295.9 301.5 
+Thomas_Haden_Church/GaKIJFIHef0_0000009 302.4 326.0 
+Thomas_Haden_Church/GaKIJFIHef0_0000010 336.2 343.4 

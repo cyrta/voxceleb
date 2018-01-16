@@ -1,0 +1,9 @@
+POI: 			Lisa_Ray 
+Youtube ID: 	Qu_ow3H4dpM 
+Video length: 	185.1 sec 
+Set (V): 		dev 
+ 
+Lisa_Ray/Qu_ow3H4dpM_0000001 08.2 12.7 
+Lisa_Ray/Qu_ow3H4dpM_0000002 68.9 74.1 
+Lisa_Ray/Qu_ow3H4dpM_0000003 79.8 84.4 
+Lisa_Ray/Qu_ow3H4dpM_0000004 91.4 96.6 

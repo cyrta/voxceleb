@@ -1,0 +1,13 @@
+POI: 			Seth_MacFarlane 
+Youtube ID: 	SkE1gF-0vxI 
+Video length: 	674.1 sec 
+Set (V): 		dev 
+ 
+Seth_MacFarlane/SkE1gF-0vxI_0000001 139.4 146.2 
+Seth_MacFarlane/SkE1gF-0vxI_0000002 541.4 547.9 
+Seth_MacFarlane/SkE1gF-0vxI_0000003 566.4 570.4 
+Seth_MacFarlane/SkE1gF-0vxI_0000004 589.2 595.1 
+Seth_MacFarlane/SkE1gF-0vxI_0000005 625.0 633.2 
+Seth_MacFarlane/SkE1gF-0vxI_0000006 634.0 640.9 
+Seth_MacFarlane/SkE1gF-0vxI_0000007 644.9 652.6 
+Seth_MacFarlane/SkE1gF-0vxI_0000008 655.8 660.5 

@@ -1,0 +1,25 @@
+POI: 			Jeremy_Clarkson 
+Youtube ID: 	z07nk7EH4rQ 
+Video length: 	1367.9 sec 
+Set (V): 		dev 
+ 
+Jeremy_Clarkson/z07nk7EH4rQ_0000001 29.5 34.6 
+Jeremy_Clarkson/z07nk7EH4rQ_0000002 150.1 155.7 
+Jeremy_Clarkson/z07nk7EH4rQ_0000003 170.1 175.2 
+Jeremy_Clarkson/z07nk7EH4rQ_0000004 221.0 225.0 
+Jeremy_Clarkson/z07nk7EH4rQ_0000005 238.6 242.6 
+Jeremy_Clarkson/z07nk7EH4rQ_0000006 245.3 250.9 
+Jeremy_Clarkson/z07nk7EH4rQ_0000007 283.2 287.9 
+Jeremy_Clarkson/z07nk7EH4rQ_0000008 348.3 354.0 
+Jeremy_Clarkson/z07nk7EH4rQ_0000009 372.8 379.6 
+Jeremy_Clarkson/z07nk7EH4rQ_0000010 401.5 406.0 
+Jeremy_Clarkson/z07nk7EH4rQ_0000011 484.6 491.6 
+Jeremy_Clarkson/z07nk7EH4rQ_0000012 1008.0 1016.4 
+Jeremy_Clarkson/z07nk7EH4rQ_0000013 1064.2 1068.8 
+Jeremy_Clarkson/z07nk7EH4rQ_0000014 1068.9 1074.9 
+Jeremy_Clarkson/z07nk7EH4rQ_0000015 1102.1 1113.5 
+Jeremy_Clarkson/z07nk7EH4rQ_0000016 1143.5 1150.0 
+Jeremy_Clarkson/z07nk7EH4rQ_0000017 1150.2 1159.7 
+Jeremy_Clarkson/z07nk7EH4rQ_0000018 1160.6 1175.5 
+Jeremy_Clarkson/z07nk7EH4rQ_0000019 1176.5 1190.2 
+Jeremy_Clarkson/z07nk7EH4rQ_0000020 1192.0 1207.1 

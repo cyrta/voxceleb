@@ -1,0 +1,17 @@
+POI: 			Alan_Alda 
+Youtube ID: 	A_blsQbRRC8 
+Video length: 	369.2 sec 
+Set (V): 		dev 
+ 
+Alan_Alda/A_blsQbRRC8_0000001 07.0 22.8 
+Alan_Alda/A_blsQbRRC8_0000002 31.2 41.1 
+Alan_Alda/A_blsQbRRC8_0000003 52.4 64.2 
+Alan_Alda/A_blsQbRRC8_0000004 94.2 105.7 
+Alan_Alda/A_blsQbRRC8_0000005 136.6 154.0 
+Alan_Alda/A_blsQbRRC8_0000006 154.2 166.3 
+Alan_Alda/A_blsQbRRC8_0000007 179.3 195.7 
+Alan_Alda/A_blsQbRRC8_0000008 199.4 235.0 
+Alan_Alda/A_blsQbRRC8_0000009 256.9 279.0 
+Alan_Alda/A_blsQbRRC8_0000010 295.6 307.8 
+Alan_Alda/A_blsQbRRC8_0000011 327.1 341.6 
+Alan_Alda/A_blsQbRRC8_0000012 343.3 362.3 

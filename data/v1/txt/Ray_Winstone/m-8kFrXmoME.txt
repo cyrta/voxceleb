@@ -1,0 +1,7 @@
+POI: 			Ray_Winstone 
+Youtube ID: 	m-8kFrXmoME 
+Video length: 	154.1 sec 
+Set (V): 		dev 
+ 
+Ray_Winstone/m-8kFrXmoME_0000001 20.8 26.1 
+Ray_Winstone/m-8kFrXmoME_0000002 132.8 142.9 

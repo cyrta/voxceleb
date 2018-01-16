@@ -1,0 +1,20 @@
+POI: 			Wendy_Williams 
+Youtube ID: 	qxG38OMQ1W4 
+Video length: 	464.8 sec 
+Set (V): 		dev 
+ 
+Wendy_Williams/qxG38OMQ1W4_0000001 21.8 27.5 
+Wendy_Williams/qxG38OMQ1W4_0000002 42.2 51.9 
+Wendy_Williams/qxG38OMQ1W4_0000003 77.4 89.1 
+Wendy_Williams/qxG38OMQ1W4_0000004 107.1 112.4 
+Wendy_Williams/qxG38OMQ1W4_0000005 172.4 179.3 
+Wendy_Williams/qxG38OMQ1W4_0000006 190.3 201.9 
+Wendy_Williams/qxG38OMQ1W4_0000007 213.4 227.5 
+Wendy_Williams/qxG38OMQ1W4_0000008 228.4 234.9 
+Wendy_Williams/qxG38OMQ1W4_0000009 248.7 264.7 
+Wendy_Williams/qxG38OMQ1W4_0000010 268.2 285.6 
+Wendy_Williams/qxG38OMQ1W4_0000011 298.9 312.8 
+Wendy_Williams/qxG38OMQ1W4_0000012 351.5 357.8 
+Wendy_Williams/qxG38OMQ1W4_0000013 381.1 385.2 
+Wendy_Williams/qxG38OMQ1W4_0000014 400.4 410.6 
+Wendy_Williams/qxG38OMQ1W4_0000015 432.7 437.2 

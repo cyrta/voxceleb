@@ -1,0 +1,8 @@
+POI: 			Andrew_Lee_Potts 
+Youtube ID: 	3q0mWGrxlnY 
+Video length: 	125.8 sec 
+Set (V): 		dev 
+ 
+Andrew_Lee_Potts/3q0mWGrxlnY_0000001 43.9 48.4 
+Andrew_Lee_Potts/3q0mWGrxlnY_0000002 81.1 85.9 
+Andrew_Lee_Potts/3q0mWGrxlnY_0000003 109.0 118.8 

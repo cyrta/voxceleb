@@ -1,0 +1,18 @@
+POI: 			Jonathan_Rhys_Meyers 
+Youtube ID: 	qupY4hAS6h4 
+Video length: 	700.9 sec 
+Set (V): 		dev 
+ 
+Jonathan_Rhys_Meyers/qupY4hAS6h4_0000001 42.8 52.1 
+Jonathan_Rhys_Meyers/qupY4hAS6h4_0000002 78.8 83.6 
+Jonathan_Rhys_Meyers/qupY4hAS6h4_0000003 83.6 89.6 
+Jonathan_Rhys_Meyers/qupY4hAS6h4_0000004 156.8 165.0 
+Jonathan_Rhys_Meyers/qupY4hAS6h4_0000005 238.6 242.9 
+Jonathan_Rhys_Meyers/qupY4hAS6h4_0000006 261.0 266.0 
+Jonathan_Rhys_Meyers/qupY4hAS6h4_0000007 357.0 361.8 
+Jonathan_Rhys_Meyers/qupY4hAS6h4_0000008 496.9 501.8 
+Jonathan_Rhys_Meyers/qupY4hAS6h4_0000009 504.0 508.7 
+Jonathan_Rhys_Meyers/qupY4hAS6h4_0000010 510.6 522.8 
+Jonathan_Rhys_Meyers/qupY4hAS6h4_0000011 523.6 529.8 
+Jonathan_Rhys_Meyers/qupY4hAS6h4_0000012 532.5 548.5 
+Jonathan_Rhys_Meyers/qupY4hAS6h4_0000013 569.5 573.7 

@@ -1,0 +1,9 @@
+POI: 			Shane_West 
+Youtube ID: 	7FnMjCMIS8k 
+Video length: 	236.4 sec 
+Set (V): 		dev 
+ 
+Shane_West/7FnMjCMIS8k_0000001 55.5 62.3 
+Shane_West/7FnMjCMIS8k_0000002 87.3 91.8 
+Shane_West/7FnMjCMIS8k_0000003 141.1 153.0 
+Shane_West/7FnMjCMIS8k_0000004 176.8 185.1 

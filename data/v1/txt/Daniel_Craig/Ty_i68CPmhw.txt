@@ -1,0 +1,10 @@
+POI: 			Daniel_Craig 
+Youtube ID: 	Ty_i68CPmhw 
+Video length: 	345.2 sec 
+Set (V): 		dev 
+ 
+Daniel_Craig/Ty_i68CPmhw_0000001 137.0 142.9 
+Daniel_Craig/Ty_i68CPmhw_0000002 164.9 170.4 
+Daniel_Craig/Ty_i68CPmhw_0000003 202.2 209.3 
+Daniel_Craig/Ty_i68CPmhw_0000004 266.5 277.4 
+Daniel_Craig/Ty_i68CPmhw_0000005 305.7 310.7 

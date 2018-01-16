@@ -1,0 +1,8 @@
+POI: 			Asa_Butterfield 
+Youtube ID: 	fiV-CwHQJkM 
+Video length: 	246.0 sec 
+Set (V): 		dev 
+ 
+Asa_Butterfield/fiV-CwHQJkM_0000001 77.5 81.4 
+Asa_Butterfield/fiV-CwHQJkM_0000002 109.9 119.4 
+Asa_Butterfield/fiV-CwHQJkM_0000003 226.5 231.6 

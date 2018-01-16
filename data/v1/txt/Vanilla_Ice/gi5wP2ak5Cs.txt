@@ -1,0 +1,11 @@
+POI: 			Vanilla_Ice 
+Youtube ID: 	gi5wP2ak5Cs 
+Video length: 	347.6 sec 
+Set (V): 		dev 
+ 
+Vanilla_Ice/gi5wP2ak5Cs_0000001 157.1 162.5 
+Vanilla_Ice/gi5wP2ak5Cs_0000002 268.4 276.3 
+Vanilla_Ice/gi5wP2ak5Cs_0000003 295.0 307.4 
+Vanilla_Ice/gi5wP2ak5Cs_0000004 307.6 319.8 
+Vanilla_Ice/gi5wP2ak5Cs_0000005 321.8 327.3 
+Vanilla_Ice/gi5wP2ak5Cs_0000006 328.2 332.9 

@@ -1,0 +1,16 @@
+POI: 			John_Oliver 
+Youtube ID: 	IAR3cb1V_ss 
+Video length: 	742.6 sec 
+Set (V): 		dev 
+ 
+John_Oliver/IAR3cb1V_ss_0000001 112.2 122.2 
+John_Oliver/IAR3cb1V_ss_0000002 200.6 214.7 
+John_Oliver/IAR3cb1V_ss_0000003 285.0 292.7 
+John_Oliver/IAR3cb1V_ss_0000004 308.4 316.2 
+John_Oliver/IAR3cb1V_ss_0000005 389.6 400.7 
+John_Oliver/IAR3cb1V_ss_0000006 414.0 425.7 
+John_Oliver/IAR3cb1V_ss_0000007 539.7 551.0 
+John_Oliver/IAR3cb1V_ss_0000008 554.5 558.7 
+John_Oliver/IAR3cb1V_ss_0000009 582.2 593.9 
+John_Oliver/IAR3cb1V_ss_0000010 676.9 681.4 
+John_Oliver/IAR3cb1V_ss_0000011 722.6 728.4 

@@ -1,0 +1,9 @@
+POI: 			Abbie_Cornish 
+Youtube ID: 	nzDmrjyy8ls 
+Video length: 	161.1 sec 
+Set (V): 		dev 
+ 
+Abbie_Cornish/nzDmrjyy8ls_0000001 21.0 36.0 
+Abbie_Cornish/nzDmrjyy8ls_0000002 70.6 76.4 
+Abbie_Cornish/nzDmrjyy8ls_0000003 101.6 116.0 
+Abbie_Cornish/nzDmrjyy8ls_0000004 124.0 142.0 

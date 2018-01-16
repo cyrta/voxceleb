@@ -1,0 +1,8 @@
+POI: 			Laz_Alonso 
+Youtube ID: 	rKPv0u21MFA 
+Video length: 	294.7 sec 
+Set (V): 		dev 
+ 
+Laz_Alonso/rKPv0u21MFA_0000001 165.7 169.9 
+Laz_Alonso/rKPv0u21MFA_0000002 170.0 175.0 
+Laz_Alonso/rKPv0u21MFA_0000003 259.4 265.2 

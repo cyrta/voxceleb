@@ -1,0 +1,10 @@
+POI: 			Dominic_Cooper 
+Youtube ID: 	8F0L8F9V8js 
+Video length: 	246.3 sec 
+Set (V): 		dev 
+ 
+Dominic_Cooper/8F0L8F9V8js_0000001 14.4 31.1 
+Dominic_Cooper/8F0L8F9V8js_0000002 53.7 64.8 
+Dominic_Cooper/8F0L8F9V8js_0000003 68.9 78.0 
+Dominic_Cooper/8F0L8F9V8js_0000004 90.2 123.2 
+Dominic_Cooper/8F0L8F9V8js_0000005 145.1 149.2 

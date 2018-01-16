@@ -1,0 +1,10 @@
+POI: 			David_Letterman 
+Youtube ID: 	6MvpOoINGzI 
+Video length: 	714.0 sec 
+Set (V): 		dev 
+ 
+David_Letterman/6MvpOoINGzI_0000001 30.1 45.6 
+David_Letterman/6MvpOoINGzI_0000002 336.3 340.6 
+David_Letterman/6MvpOoINGzI_0000003 401.1 406.2 
+David_Letterman/6MvpOoINGzI_0000004 510.4 520.9 
+David_Letterman/6MvpOoINGzI_0000005 619.1 626.0 

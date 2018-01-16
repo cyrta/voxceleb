@@ -1,0 +1,7 @@
+POI: 			John_Noble 
+Youtube ID: 	RAUKbZZ9iLk 
+Video length: 	528.9 sec 
+Set (V): 		dev 
+ 
+John_Noble/RAUKbZZ9iLk_0000001 378.0 383.2 
+John_Noble/RAUKbZZ9iLk_0000002 508.6 513.1 

@@ -1,0 +1,13 @@
+POI: 			John_Lloyd_Young 
+Youtube ID: 	zKOK2dFbZ0M 
+Video length: 	296.0 sec 
+Set (V): 		dev 
+ 
+John_Lloyd_Young/zKOK2dFbZ0M_0000001 42.9 47.5 
+John_Lloyd_Young/zKOK2dFbZ0M_0000002 122.4 131.6 
+John_Lloyd_Young/zKOK2dFbZ0M_0000003 146.0 151.1 
+John_Lloyd_Young/zKOK2dFbZ0M_0000004 167.7 179.6 
+John_Lloyd_Young/zKOK2dFbZ0M_0000005 180.9 185.1 
+John_Lloyd_Young/zKOK2dFbZ0M_0000006 191.4 197.9 
+John_Lloyd_Young/zKOK2dFbZ0M_0000007 198.6 203.3 
+John_Lloyd_Young/zKOK2dFbZ0M_0000008 203.7 208.4 

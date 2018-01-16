@@ -1,0 +1,12 @@
+POI: 			Katheryn_Winnick 
+Youtube ID: 	Wmsk6X54Scg 
+Video length: 	678.0 sec 
+Set (V): 		dev 
+ 
+Katheryn_Winnick/Wmsk6X54Scg_0000001 286.6 300.1 
+Katheryn_Winnick/Wmsk6X54Scg_0000002 300.2 313.9 
+Katheryn_Winnick/Wmsk6X54Scg_0000003 314.8 320.2 
+Katheryn_Winnick/Wmsk6X54Scg_0000004 355.2 363.1 
+Katheryn_Winnick/Wmsk6X54Scg_0000005 478.6 483.2 
+Katheryn_Winnick/Wmsk6X54Scg_0000006 484.5 492.2 
+Katheryn_Winnick/Wmsk6X54Scg_0000007 605.2 616.1 

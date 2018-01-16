@@ -1,0 +1,40 @@
+POI: 			Vince_Gilligan 
+Youtube ID: 	suSnxN1Wm8c 
+Video length: 	2405.3 sec 
+Set (V): 		dev 
+ 
+Vince_Gilligan/suSnxN1Wm8c_0000001 182.4 186.4 
+Vince_Gilligan/suSnxN1Wm8c_0000002 730.2 736.7 
+Vince_Gilligan/suSnxN1Wm8c_0000003 779.6 785.6 
+Vince_Gilligan/suSnxN1Wm8c_0000004 811.5 817.4 
+Vince_Gilligan/suSnxN1Wm8c_0000005 839.3 844.5 
+Vince_Gilligan/suSnxN1Wm8c_0000006 1015.9 1020.2 
+Vince_Gilligan/suSnxN1Wm8c_0000007 1606.0 1610.4 
+Vince_Gilligan/suSnxN1Wm8c_0000008 1757.4 1763.7 
+Vince_Gilligan/suSnxN1Wm8c_0000009 1770.8 1788.8 
+Vince_Gilligan/suSnxN1Wm8c_0000010 1792.1 1798.0 
+Vince_Gilligan/suSnxN1Wm8c_0000011 1824.9 1834.4 
+Vince_Gilligan/suSnxN1Wm8c_0000012 1841.4 1852.6 
+Vince_Gilligan/suSnxN1Wm8c_0000013 1852.7 1861.1 
+Vince_Gilligan/suSnxN1Wm8c_0000014 1862.7 1871.2 
+Vince_Gilligan/suSnxN1Wm8c_0000015 1889.0 1904.9 
+Vince_Gilligan/suSnxN1Wm8c_0000016 1916.0 1935.2 
+Vince_Gilligan/suSnxN1Wm8c_0000017 1935.6 1947.2 
+Vince_Gilligan/suSnxN1Wm8c_0000018 1949.8 1961.4 
+Vince_Gilligan/suSnxN1Wm8c_0000019 1961.7 1969.3 
+Vince_Gilligan/suSnxN1Wm8c_0000020 1969.8 1990.8 
+Vince_Gilligan/suSnxN1Wm8c_0000021 1996.4 2002.0 
+Vince_Gilligan/suSnxN1Wm8c_0000022 2035.1 2045.4 
+Vince_Gilligan/suSnxN1Wm8c_0000023 2045.9 2053.2 
+Vince_Gilligan/suSnxN1Wm8c_0000024 2055.8 2074.6 
+Vince_Gilligan/suSnxN1Wm8c_0000025 2078.2 2082.7 
+Vince_Gilligan/suSnxN1Wm8c_0000026 2108.5 2120.1 
+Vince_Gilligan/suSnxN1Wm8c_0000027 2177.8 2183.3 
+Vince_Gilligan/suSnxN1Wm8c_0000028 2183.9 2218.4 
+Vince_Gilligan/suSnxN1Wm8c_0000029 2219.0 2225.8 
+Vince_Gilligan/suSnxN1Wm8c_0000030 2230.5 2237.8 
+Vince_Gilligan/suSnxN1Wm8c_0000031 2252.1 2259.8 
+Vince_Gilligan/suSnxN1Wm8c_0000032 2261.8 2266.5 
+Vince_Gilligan/suSnxN1Wm8c_0000033 2272.3 2280.6 
+Vince_Gilligan/suSnxN1Wm8c_0000034 2314.6 2324.4 
+Vince_Gilligan/suSnxN1Wm8c_0000035 2372.8 2377.7 

@@ -1,0 +1,9 @@
+POI: 			Oliver_Platt 
+Youtube ID: 	Ii01R1PdVII 
+Video length: 	506.6 sec 
+Set (V): 		dev 
+ 
+Oliver_Platt/Ii01R1PdVII_0000001 453.5 468.7 
+Oliver_Platt/Ii01R1PdVII_0000002 469.6 474.0 
+Oliver_Platt/Ii01R1PdVII_0000003 475.4 486.2 
+Oliver_Platt/Ii01R1PdVII_0000004 488.2 498.0 

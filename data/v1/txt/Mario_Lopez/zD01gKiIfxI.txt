@@ -1,0 +1,7 @@
+POI: 			Mario_Lopez 
+Youtube ID: 	zD01gKiIfxI 
+Video length: 	242.8 sec 
+Set (V): 		dev 
+ 
+Mario_Lopez/zD01gKiIfxI_0000001 30.4 34.7 
+Mario_Lopez/zD01gKiIfxI_0000002 38.8 44.1 

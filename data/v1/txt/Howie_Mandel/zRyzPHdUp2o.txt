@@ -1,0 +1,10 @@
+POI: 			Howie_Mandel 
+Youtube ID: 	zRyzPHdUp2o 
+Video length: 	323.4 sec 
+Set (V): 		dev 
+ 
+Howie_Mandel/zRyzPHdUp2o_0000001 16.3 21.7 
+Howie_Mandel/zRyzPHdUp2o_0000002 27.4 33.5 
+Howie_Mandel/zRyzPHdUp2o_0000003 88.6 93.3 
+Howie_Mandel/zRyzPHdUp2o_0000004 101.2 105.9 
+Howie_Mandel/zRyzPHdUp2o_0000005 277.3 283.0 

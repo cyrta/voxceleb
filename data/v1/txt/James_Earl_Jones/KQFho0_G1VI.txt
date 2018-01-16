@@ -1,0 +1,7 @@
+POI: 			James_Earl_Jones 
+Youtube ID: 	KQFho0_G1VI 
+Video length: 	101.1 sec 
+Set (V): 		dev 
+ 
+James_Earl_Jones/KQFho0_G1VI_0000001 62.0 70.0 
+James_Earl_Jones/KQFho0_G1VI_0000002 73.4 83.7 

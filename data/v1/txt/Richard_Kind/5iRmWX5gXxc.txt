@@ -1,0 +1,12 @@
+POI: 			Richard_Kind 
+Youtube ID: 	5iRmWX5gXxc 
+Video length: 	228.6 sec 
+Set (V): 		dev 
+ 
+Richard_Kind/5iRmWX5gXxc_0000001 35.8 41.1 
+Richard_Kind/5iRmWX5gXxc_0000002 46.6 63.5 
+Richard_Kind/5iRmWX5gXxc_0000003 69.6 82.1 
+Richard_Kind/5iRmWX5gXxc_0000004 95.0 102.8 
+Richard_Kind/5iRmWX5gXxc_0000005 117.9 128.8 
+Richard_Kind/5iRmWX5gXxc_0000006 137.8 160.3 
+Richard_Kind/5iRmWX5gXxc_0000007 190.1 196.4 

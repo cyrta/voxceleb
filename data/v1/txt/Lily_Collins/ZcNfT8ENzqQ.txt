@@ -1,0 +1,11 @@
+POI: 			Lily_Collins 
+Youtube ID: 	ZcNfT8ENzqQ 
+Video length: 	397.1 sec 
+Set (V): 		dev 
+ 
+Lily_Collins/ZcNfT8ENzqQ_0000001 59.8 66.5 
+Lily_Collins/ZcNfT8ENzqQ_0000002 67.1 91.9 
+Lily_Collins/ZcNfT8ENzqQ_0000003 199.4 212.7 
+Lily_Collins/ZcNfT8ENzqQ_0000004 225.0 233.7 
+Lily_Collins/ZcNfT8ENzqQ_0000005 234.0 244.5 
+Lily_Collins/ZcNfT8ENzqQ_0000006 286.8 295.9 

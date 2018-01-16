@@ -1,0 +1,7 @@
+POI: 			Lisa_Whelchel 
+Youtube ID: 	yIC_whaNIsk 
+Video length: 	100.9 sec 
+Set (V): 		dev 
+ 
+Lisa_Whelchel/yIC_whaNIsk_0000001 38.2 43.5 
+Lisa_Whelchel/yIC_whaNIsk_0000002 60.3 64.6 

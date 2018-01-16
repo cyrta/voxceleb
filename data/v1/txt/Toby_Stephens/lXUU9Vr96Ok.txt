@@ -1,0 +1,8 @@
+POI: 			Toby_Stephens 
+Youtube ID: 	lXUU9Vr96Ok 
+Video length: 	260.2 sec 
+Set (V): 		dev 
+ 
+Toby_Stephens/lXUU9Vr96Ok_0000001 151.4 157.8 
+Toby_Stephens/lXUU9Vr96Ok_0000002 197.3 202.1 
+Toby_Stephens/lXUU9Vr96Ok_0000003 221.4 226.9 

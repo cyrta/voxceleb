@@ -1,0 +1,7 @@
+POI: 			Josh_Gad 
+Youtube ID: 	8HnFow2pNIE 
+Video length: 	261.4 sec 
+Set (V): 		dev 
+ 
+Josh_Gad/8HnFow2pNIE_0000001 60.2 66.1 
+Josh_Gad/8HnFow2pNIE_0000002 72.2 76.5 

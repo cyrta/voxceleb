@@ -1,0 +1,17 @@
+POI: 			Jack_Coleman 
+Youtube ID: 	UkZsd-dpZTg 
+Video length: 	188.8 sec 
+Set (V): 		dev 
+ 
+Jack_Coleman/UkZsd-dpZTg_0000001 03.6 13.7 
+Jack_Coleman/UkZsd-dpZTg_0000002 18.0 27.0 
+Jack_Coleman/UkZsd-dpZTg_0000003 33.1 61.8 
+Jack_Coleman/UkZsd-dpZTg_0000004 64.6 78.0 
+Jack_Coleman/UkZsd-dpZTg_0000005 79.5 90.6 
+Jack_Coleman/UkZsd-dpZTg_0000006 97.4 101.5 
+Jack_Coleman/UkZsd-dpZTg_0000007 101.8 106.8 
+Jack_Coleman/UkZsd-dpZTg_0000008 109.8 126.6 
+Jack_Coleman/UkZsd-dpZTg_0000009 126.8 131.4 
+Jack_Coleman/UkZsd-dpZTg_0000010 131.9 140.2 
+Jack_Coleman/UkZsd-dpZTg_0000011 153.8 164.8 
+Jack_Coleman/UkZsd-dpZTg_0000012 173.5 178.2 

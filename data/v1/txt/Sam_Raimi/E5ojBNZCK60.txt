@@ -1,0 +1,11 @@
+POI: 			Sam_Raimi 
+Youtube ID: 	E5ojBNZCK60 
+Video length: 	96.1 sec 
+Set (V): 		dev 
+ 
+Sam_Raimi/E5ojBNZCK60_0000001 02.3 16.4 
+Sam_Raimi/E5ojBNZCK60_0000002 21.3 32.5 
+Sam_Raimi/E5ojBNZCK60_0000003 36.6 43.3 
+Sam_Raimi/E5ojBNZCK60_0000004 48.6 67.6 
+Sam_Raimi/E5ojBNZCK60_0000005 68.4 85.2 
+Sam_Raimi/E5ojBNZCK60_0000006 85.4 94.1 

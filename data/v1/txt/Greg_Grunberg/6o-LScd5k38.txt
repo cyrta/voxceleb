@@ -1,0 +1,17 @@
+POI: 			Greg_Grunberg 
+Youtube ID: 	6o-LScd5k38 
+Video length: 	452.5 sec 
+Set (V): 		dev 
+ 
+Greg_Grunberg/6o-LScd5k38_0000001 28.2 40.5 
+Greg_Grunberg/6o-LScd5k38_0000002 46.8 61.8 
+Greg_Grunberg/6o-LScd5k38_0000003 64.2 73.0 
+Greg_Grunberg/6o-LScd5k38_0000004 104.3 109.6 
+Greg_Grunberg/6o-LScd5k38_0000005 138.1 148.8 
+Greg_Grunberg/6o-LScd5k38_0000006 154.5 162.6 
+Greg_Grunberg/6o-LScd5k38_0000007 178.7 184.1 
+Greg_Grunberg/6o-LScd5k38_0000008 186.4 206.8 
+Greg_Grunberg/6o-LScd5k38_0000009 230.5 237.9 
+Greg_Grunberg/6o-LScd5k38_0000010 284.8 292.3 
+Greg_Grunberg/6o-LScd5k38_0000011 301.9 306.2 
+Greg_Grunberg/6o-LScd5k38_0000012 382.8 416.4 

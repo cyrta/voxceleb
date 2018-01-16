@@ -1,0 +1,10 @@
+POI: 			Kelli_Giddish 
+Youtube ID: 	FYI_h1MjZYs 
+Video length: 	142.4 sec 
+Set (V): 		dev 
+ 
+Kelli_Giddish/FYI_h1MjZYs_0000001 35.7 43.2 
+Kelli_Giddish/FYI_h1MjZYs_0000002 46.9 53.1 
+Kelli_Giddish/FYI_h1MjZYs_0000003 56.5 62.5 
+Kelli_Giddish/FYI_h1MjZYs_0000004 119.6 123.8 
+Kelli_Giddish/FYI_h1MjZYs_0000005 124.5 128.5 

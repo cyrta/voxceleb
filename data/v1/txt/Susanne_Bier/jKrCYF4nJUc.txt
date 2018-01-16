@@ -1,0 +1,8 @@
+POI: 			Susanne_Bier 
+Youtube ID: 	jKrCYF4nJUc 
+Video length: 	178.2 sec 
+Set (V): 		dev 
+ 
+Susanne_Bier/jKrCYF4nJUc_0000001 32.4 51.2 
+Susanne_Bier/jKrCYF4nJUc_0000002 83.5 118.8 
+Susanne_Bier/jKrCYF4nJUc_0000003 147.7 156.9 

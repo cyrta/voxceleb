@@ -1,0 +1,9 @@
+POI: 			Vanessa_Marcil 
+Youtube ID: 	8AHKMsnyn0Q 
+Video length: 	468.3 sec 
+Set (V): 		dev 
+ 
+Vanessa_Marcil/8AHKMsnyn0Q_0000001 278.9 286.3 
+Vanessa_Marcil/8AHKMsnyn0Q_0000002 289.7 295.5 
+Vanessa_Marcil/8AHKMsnyn0Q_0000003 301.1 306.9 
+Vanessa_Marcil/8AHKMsnyn0Q_0000004 307.3 315.9 

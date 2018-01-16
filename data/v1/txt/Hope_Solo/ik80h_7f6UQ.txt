@@ -1,0 +1,7 @@
+POI: 			Hope_Solo 
+Youtube ID: 	ik80h_7f6UQ 
+Video length: 	291.3 sec 
+Set (V): 		dev 
+ 
+Hope_Solo/ik80h_7f6UQ_0000001 226.1 232.6 
+Hope_Solo/ik80h_7f6UQ_0000002 251.8 259.6 

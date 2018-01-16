@@ -1,0 +1,9 @@
+POI: 			John_Hawkes 
+Youtube ID: 	pvAnCk52wRw 
+Video length: 	298.6 sec 
+Set (V): 		dev 
+ 
+John_Hawkes/pvAnCk52wRw_0000001 104.1 110.4 
+John_Hawkes/pvAnCk52wRw_0000002 132.0 137.6 
+John_Hawkes/pvAnCk52wRw_0000003 177.4 182.0 
+John_Hawkes/pvAnCk52wRw_0000004 268.5 272.5 

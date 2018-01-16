@@ -1,0 +1,7 @@
+POI: 			Shirley_Manson 
+Youtube ID: 	kURhQxo-FQA 
+Video length: 	61.6 sec 
+Set (V): 		dev 
+ 
+Shirley_Manson/kURhQxo-FQA_0000001 12.1 22.2 
+Shirley_Manson/kURhQxo-FQA_0000002 24.1 34.4 

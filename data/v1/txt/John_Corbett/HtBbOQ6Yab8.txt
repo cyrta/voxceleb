@@ -1,0 +1,44 @@
+POI: 			John_Corbett 
+Youtube ID: 	HtBbOQ6Yab8 
+Video length: 	1182.8 sec 
+Set (V): 		dev 
+ 
+John_Corbett/HtBbOQ6Yab8_0000001 26.1 36.0 
+John_Corbett/HtBbOQ6Yab8_0000002 40.3 47.9 
+John_Corbett/HtBbOQ6Yab8_0000003 77.3 82.9 
+John_Corbett/HtBbOQ6Yab8_0000004 83.1 92.1 
+John_Corbett/HtBbOQ6Yab8_0000005 148.9 153.1 
+John_Corbett/HtBbOQ6Yab8_0000006 157.8 163.8 
+John_Corbett/HtBbOQ6Yab8_0000007 168.6 172.6 
+John_Corbett/HtBbOQ6Yab8_0000008 194.4 203.7 
+John_Corbett/HtBbOQ6Yab8_0000009 236.8 241.2 
+John_Corbett/HtBbOQ6Yab8_0000010 258.5 263.1 
+John_Corbett/HtBbOQ6Yab8_0000011 272.2 286.6 
+John_Corbett/HtBbOQ6Yab8_0000012 325.4 331.4 
+John_Corbett/HtBbOQ6Yab8_0000013 361.5 369.9 
+John_Corbett/HtBbOQ6Yab8_0000014 382.4 387.4 
+John_Corbett/HtBbOQ6Yab8_0000015 418.2 427.3 
+John_Corbett/HtBbOQ6Yab8_0000016 429.0 438.5 
+John_Corbett/HtBbOQ6Yab8_0000017 480.6 486.7 
+John_Corbett/HtBbOQ6Yab8_0000018 487.2 491.3 
+John_Corbett/HtBbOQ6Yab8_0000019 492.0 499.7 
+John_Corbett/HtBbOQ6Yab8_0000020 509.2 514.4 
+John_Corbett/HtBbOQ6Yab8_0000021 523.0 534.0 
+John_Corbett/HtBbOQ6Yab8_0000022 648.4 653.0 
+John_Corbett/HtBbOQ6Yab8_0000023 653.7 658.3 
+John_Corbett/HtBbOQ6Yab8_0000024 692.3 700.1 
+John_Corbett/HtBbOQ6Yab8_0000025 733.2 738.9 
+John_Corbett/HtBbOQ6Yab8_0000026 784.4 790.9 
+John_Corbett/HtBbOQ6Yab8_0000027 819.6 825.9 
+John_Corbett/HtBbOQ6Yab8_0000028 851.1 857.9 
+John_Corbett/HtBbOQ6Yab8_0000029 863.6 870.6 
+John_Corbett/HtBbOQ6Yab8_0000030 899.6 906.9 
+John_Corbett/HtBbOQ6Yab8_0000031 919.8 926.9 
+John_Corbett/HtBbOQ6Yab8_0000032 959.0 964.1 
+John_Corbett/HtBbOQ6Yab8_0000033 969.2 980.2 
+John_Corbett/HtBbOQ6Yab8_0000034 1034.7 1040.3 
+John_Corbett/HtBbOQ6Yab8_0000035 1069.0 1074.4 
+John_Corbett/HtBbOQ6Yab8_0000036 1089.0 1100.8 
+John_Corbett/HtBbOQ6Yab8_0000037 1103.2 1107.7 
+John_Corbett/HtBbOQ6Yab8_0000038 1124.4 1128.7 
+John_Corbett/HtBbOQ6Yab8_0000039 1131.6 1136.4 

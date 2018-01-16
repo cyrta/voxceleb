@@ -1,0 +1,10 @@
+POI: 			Robert_Vaughn 
+Youtube ID: 	S-es-AGlOK8 
+Video length: 	91.2 sec 
+Set (V): 		dev 
+ 
+Robert_Vaughn/S-es-AGlOK8_0000001 10.2 23.0 
+Robert_Vaughn/S-es-AGlOK8_0000002 23.9 30.7 
+Robert_Vaughn/S-es-AGlOK8_0000003 31.8 41.5 
+Robert_Vaughn/S-es-AGlOK8_0000004 52.9 62.4 
+Robert_Vaughn/S-es-AGlOK8_0000005 76.2 80.6 

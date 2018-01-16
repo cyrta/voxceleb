@@ -1,0 +1,8 @@
+POI: 			Tom_Hiddleston 
+Youtube ID: 	m2stV_vVOU0 
+Video length: 	375.9 sec 
+Set (V): 		dev 
+ 
+Tom_Hiddleston/m2stV_vVOU0_0000001 56.9 62.8 
+Tom_Hiddleston/m2stV_vVOU0_0000002 160.6 164.8 
+Tom_Hiddleston/m2stV_vVOU0_0000003 285.5 295.1 

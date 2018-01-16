@@ -1,0 +1,11 @@
+POI: 			Jeff_Garlin 
+Youtube ID: 	rSCctDt7vYo 
+Video length: 	238.7 sec 
+Set (V): 		dev 
+ 
+Jeff_Garlin/rSCctDt7vYo_0000001 51.0 59.7 
+Jeff_Garlin/rSCctDt7vYo_0000002 93.6 98.0 
+Jeff_Garlin/rSCctDt7vYo_0000003 140.1 148.6 
+Jeff_Garlin/rSCctDt7vYo_0000004 153.7 158.3 
+Jeff_Garlin/rSCctDt7vYo_0000005 171.3 190.6 
+Jeff_Garlin/rSCctDt7vYo_0000006 221.0 225.4 

@@ -1,0 +1,19 @@
+POI: 			William_Baldwin 
+Youtube ID: 	j_lfh1GJsaM 
+Video length: 	358.0 sec 
+Set (V): 		dev 
+ 
+William_Baldwin/j_lfh1GJsaM_0000001 15.3 19.5 
+William_Baldwin/j_lfh1GJsaM_0000002 19.8 24.6 
+William_Baldwin/j_lfh1GJsaM_0000003 34.3 47.6 
+William_Baldwin/j_lfh1GJsaM_0000004 131.2 136.2 
+William_Baldwin/j_lfh1GJsaM_0000005 152.8 158.8 
+William_Baldwin/j_lfh1GJsaM_0000006 237.2 241.2 
+William_Baldwin/j_lfh1GJsaM_0000007 242.7 252.2 
+William_Baldwin/j_lfh1GJsaM_0000008 253.0 257.1 
+William_Baldwin/j_lfh1GJsaM_0000009 259.7 264.7 
+William_Baldwin/j_lfh1GJsaM_0000010 265.4 274.2 
+William_Baldwin/j_lfh1GJsaM_0000011 274.7 282.4 
+William_Baldwin/j_lfh1GJsaM_0000012 287.5 305.1 
+William_Baldwin/j_lfh1GJsaM_0000013 311.6 317.7 
+William_Baldwin/j_lfh1GJsaM_0000014 336.4 340.8 

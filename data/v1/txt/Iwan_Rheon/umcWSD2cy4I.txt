@@ -1,0 +1,9 @@
+POI: 			Iwan_Rheon 
+Youtube ID: 	umcWSD2cy4I 
+Video length: 	80.1 sec 
+Set (V): 		dev 
+ 
+Iwan_Rheon/umcWSD2cy4I_0000001 10.2 18.2 
+Iwan_Rheon/umcWSD2cy4I_0000002 18.8 28.0 
+Iwan_Rheon/umcWSD2cy4I_0000003 43.5 48.8 
+Iwan_Rheon/umcWSD2cy4I_0000004 56.1 68.0 

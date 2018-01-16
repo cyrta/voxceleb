@@ -1,0 +1,16 @@
+POI: 			Cliff_Curtis 
+Youtube ID: 	5fyJVNsIbJM 
+Video length: 	424.0 sec 
+Set (V): 		dev 
+ 
+Cliff_Curtis/5fyJVNsIbJM_0000001 109.3 114.6 
+Cliff_Curtis/5fyJVNsIbJM_0000002 184.0 188.5 
+Cliff_Curtis/5fyJVNsIbJM_0000003 238.1 243.2 
+Cliff_Curtis/5fyJVNsIbJM_0000004 253.2 257.6 
+Cliff_Curtis/5fyJVNsIbJM_0000005 262.2 270.2 
+Cliff_Curtis/5fyJVNsIbJM_0000006 274.6 283.7 
+Cliff_Curtis/5fyJVNsIbJM_0000007 305.0 310.3 
+Cliff_Curtis/5fyJVNsIbJM_0000008 311.1 315.9 
+Cliff_Curtis/5fyJVNsIbJM_0000009 340.4 347.2 
+Cliff_Curtis/5fyJVNsIbJM_0000010 383.2 388.4 
+Cliff_Curtis/5fyJVNsIbJM_0000011 398.6 405.9 

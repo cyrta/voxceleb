@@ -1,0 +1,8 @@
+POI: 			Diane_Keaton 
+Youtube ID: 	1tOdHYSW3-Y 
+Video length: 	251.4 sec 
+Set (V): 		dev 
+ 
+Diane_Keaton/1tOdHYSW3-Y_0000001 16.3 22.8 
+Diane_Keaton/1tOdHYSW3-Y_0000002 24.2 29.5 
+Diane_Keaton/1tOdHYSW3-Y_0000003 210.7 216.6 

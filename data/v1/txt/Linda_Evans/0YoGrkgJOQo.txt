@@ -1,0 +1,7 @@
+POI: 			Linda_Evans 
+Youtube ID: 	0YoGrkgJOQo 
+Video length: 	127.5 sec 
+Set (V): 		dev 
+ 
+Linda_Evans/0YoGrkgJOQo_0000001 14.8 20.0 
+Linda_Evans/0YoGrkgJOQo_0000002 109.3 113.5 

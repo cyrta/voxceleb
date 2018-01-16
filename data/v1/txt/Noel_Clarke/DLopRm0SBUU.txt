@@ -1,0 +1,12 @@
+POI: 			Noel_Clarke 
+Youtube ID: 	DLopRm0SBUU 
+Video length: 	169.2 sec 
+Set (V): 		dev 
+ 
+Noel_Clarke/DLopRm0SBUU_0000001 02.6 15.5 
+Noel_Clarke/DLopRm0SBUU_0000002 20.2 26.2 
+Noel_Clarke/DLopRm0SBUU_0000003 28.2 33.0 
+Noel_Clarke/DLopRm0SBUU_0000004 37.0 41.2 
+Noel_Clarke/DLopRm0SBUU_0000005 58.1 63.1 
+Noel_Clarke/DLopRm0SBUU_0000006 65.4 76.6 
+Noel_Clarke/DLopRm0SBUU_0000007 101.0 106.8 

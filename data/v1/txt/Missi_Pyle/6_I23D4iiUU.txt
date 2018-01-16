@@ -1,0 +1,7 @@
+POI: 			Missi_Pyle 
+Youtube ID: 	6_I23D4iiUU 
+Video length: 	300.0 sec 
+Set (V): 		dev 
+ 
+Missi_Pyle/6_I23D4iiUU_0000001 198.0 204.9 
+Missi_Pyle/6_I23D4iiUU_0000002 275.8 280.6 

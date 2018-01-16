@@ -1,0 +1,15 @@
+POI: 			Henry_Cavill 
+Youtube ID: 	tM0Egax9hpg 
+Video length: 	526.1 sec 
+Set (V): 		dev 
+ 
+Henry_Cavill/tM0Egax9hpg_0000001 09.8 23.9 
+Henry_Cavill/tM0Egax9hpg_0000002 28.0 34.1 
+Henry_Cavill/tM0Egax9hpg_0000003 77.2 82.4 
+Henry_Cavill/tM0Egax9hpg_0000004 130.3 134.6 
+Henry_Cavill/tM0Egax9hpg_0000005 195.4 205.2 
+Henry_Cavill/tM0Egax9hpg_0000006 306.6 323.4 
+Henry_Cavill/tM0Egax9hpg_0000007 327.1 333.0 
+Henry_Cavill/tM0Egax9hpg_0000008 442.5 447.5 
+Henry_Cavill/tM0Egax9hpg_0000009 450.0 485.2 
+Henry_Cavill/tM0Egax9hpg_0000010 495.7 520.7 

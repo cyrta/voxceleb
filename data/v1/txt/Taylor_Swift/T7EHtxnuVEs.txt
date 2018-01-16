@@ -1,0 +1,8 @@
+POI: 			Taylor_Swift 
+Youtube ID: 	T7EHtxnuVEs 
+Video length: 	201.3 sec 
+Set (V): 		dev 
+ 
+Taylor_Swift/T7EHtxnuVEs_0000001 102.0 109.0 
+Taylor_Swift/T7EHtxnuVEs_0000002 109.6 115.0 
+Taylor_Swift/T7EHtxnuVEs_0000003 159.3 165.1 

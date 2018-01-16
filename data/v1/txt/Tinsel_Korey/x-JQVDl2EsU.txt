@@ -1,0 +1,11 @@
+POI: 			Tinsel_Korey 
+Youtube ID: 	x-JQVDl2EsU 
+Video length: 	176.5 sec 
+Set (V): 		dev 
+ 
+Tinsel_Korey/x-JQVDl2EsU_0000001 42.0 46.2 
+Tinsel_Korey/x-JQVDl2EsU_0000002 73.2 77.3 
+Tinsel_Korey/x-JQVDl2EsU_0000003 96.5 102.5 
+Tinsel_Korey/x-JQVDl2EsU_0000004 115.8 120.4 
+Tinsel_Korey/x-JQVDl2EsU_0000005 120.6 124.8 
+Tinsel_Korey/x-JQVDl2EsU_0000006 141.9 145.9 

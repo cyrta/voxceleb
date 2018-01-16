@@ -1,0 +1,11 @@
+POI: 			James_Frain 
+Youtube ID: 	MqR1zr7EQlA 
+Video length: 	239.6 sec 
+Set (V): 		dev 
+ 
+James_Frain/MqR1zr7EQlA_0000001 92.5 97.2 
+James_Frain/MqR1zr7EQlA_0000002 97.4 102.4 
+James_Frain/MqR1zr7EQlA_0000003 103.0 108.4 
+James_Frain/MqR1zr7EQlA_0000004 108.7 116.5 
+James_Frain/MqR1zr7EQlA_0000005 119.6 123.9 
+James_Frain/MqR1zr7EQlA_0000006 144.7 172.0 

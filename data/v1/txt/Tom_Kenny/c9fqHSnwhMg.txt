@@ -1,0 +1,14 @@
+POI: 			Tom_Kenny 
+Youtube ID: 	c9fqHSnwhMg 
+Video length: 	177.1 sec 
+Set (V): 		dev 
+ 
+Tom_Kenny/c9fqHSnwhMg_0000001 49.2 53.4 
+Tom_Kenny/c9fqHSnwhMg_0000002 61.5 69.1 
+Tom_Kenny/c9fqHSnwhMg_0000003 89.3 100.3 
+Tom_Kenny/c9fqHSnwhMg_0000004 92.5 106.3 
+Tom_Kenny/c9fqHSnwhMg_0000005 107.1 116.3 
+Tom_Kenny/c9fqHSnwhMg_0000006 116.8 124.8 
+Tom_Kenny/c9fqHSnwhMg_0000007 135.9 142.1 
+Tom_Kenny/c9fqHSnwhMg_0000008 117.9 125.4 
+Tom_Kenny/c9fqHSnwhMg_0000009 150.9 155.7 

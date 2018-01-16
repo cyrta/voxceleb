@@ -1,0 +1,9 @@
+POI: 			Zachary_Gordon 
+Youtube ID: 	vpUaGfi9KY8 
+Video length: 	138.7 sec 
+Set (V): 		dev 
+ 
+Zachary_Gordon/vpUaGfi9KY8_0000001 85.9 96.0 
+Zachary_Gordon/vpUaGfi9KY8_0000002 96.8 101.6 
+Zachary_Gordon/vpUaGfi9KY8_0000003 102.1 108.0 
+Zachary_Gordon/vpUaGfi9KY8_0000004 108.5 121.2 

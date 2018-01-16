@@ -1,0 +1,17 @@
+POI: 			Janice_Dickinson 
+Youtube ID: 	rALmazbJgyo 
+Video length: 	567.4 sec 
+Set (V): 		dev 
+ 
+Janice_Dickinson/rALmazbJgyo_0000001 64.3 68.9 
+Janice_Dickinson/rALmazbJgyo_0000002 144.0 149.0 
+Janice_Dickinson/rALmazbJgyo_0000003 194.1 202.6 
+Janice_Dickinson/rALmazbJgyo_0000004 218.0 223.1 
+Janice_Dickinson/rALmazbJgyo_0000005 231.0 235.0 
+Janice_Dickinson/rALmazbJgyo_0000006 237.8 242.2 
+Janice_Dickinson/rALmazbJgyo_0000007 285.3 290.0 
+Janice_Dickinson/rALmazbJgyo_0000008 332.7 338.8 
+Janice_Dickinson/rALmazbJgyo_0000009 356.9 366.5 
+Janice_Dickinson/rALmazbJgyo_0000010 409.3 417.1 
+Janice_Dickinson/rALmazbJgyo_0000011 500.3 511.7 
+Janice_Dickinson/rALmazbJgyo_0000012 522.1 535.4 

@@ -1,0 +1,9 @@
+POI: 			Jim_Broadbent 
+Youtube ID: 	gX2cwcoVQrE 
+Video length: 	90.5 sec 
+Set (V): 		dev 
+ 
+Jim_Broadbent/gX2cwcoVQrE_0000001 04.4 14.4 
+Jim_Broadbent/gX2cwcoVQrE_0000002 28.5 33.4 
+Jim_Broadbent/gX2cwcoVQrE_0000003 40.0 45.6 
+Jim_Broadbent/gX2cwcoVQrE_0000004 76.3 80.7 

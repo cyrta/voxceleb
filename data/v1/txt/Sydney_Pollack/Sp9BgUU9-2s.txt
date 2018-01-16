@@ -1,0 +1,20 @@
+POI: 			Sydney_Pollack 
+Youtube ID: 	Sp9BgUU9-2s 
+Video length: 	290.7 sec 
+Set (V): 		dev 
+ 
+Sydney_Pollack/Sp9BgUU9-2s_0000001 14.2 20.4 
+Sydney_Pollack/Sp9BgUU9-2s_0000002 26.1 35.0 
+Sydney_Pollack/Sp9BgUU9-2s_0000003 39.8 56.6 
+Sydney_Pollack/Sp9BgUU9-2s_0000004 57.7 64.8 
+Sydney_Pollack/Sp9BgUU9-2s_0000005 68.9 75.2 
+Sydney_Pollack/Sp9BgUU9-2s_0000006 82.7 89.6 
+Sydney_Pollack/Sp9BgUU9-2s_0000007 101.4 107.1 
+Sydney_Pollack/Sp9BgUU9-2s_0000008 131.8 137.0 
+Sydney_Pollack/Sp9BgUU9-2s_0000009 164.4 169.4 
+Sydney_Pollack/Sp9BgUU9-2s_0000010 170.8 174.8 
+Sydney_Pollack/Sp9BgUU9-2s_0000011 214.5 228.5 
+Sydney_Pollack/Sp9BgUU9-2s_0000012 237.1 247.6 
+Sydney_Pollack/Sp9BgUU9-2s_0000013 255.0 260.2 
+Sydney_Pollack/Sp9BgUU9-2s_0000014 270.6 279.8 
+Sydney_Pollack/Sp9BgUU9-2s_0000015 283.2 289.1 

@@ -1,0 +1,10 @@
+POI: 			Zack_Snyder 
+Youtube ID: 	lhJP-kZtxBo 
+Video length: 	241.5 sec 
+Set (V): 		dev 
+ 
+Zack_Snyder/lhJP-kZtxBo_0000001 25.6 30.4 
+Zack_Snyder/lhJP-kZtxBo_0000002 41.8 47.4 
+Zack_Snyder/lhJP-kZtxBo_0000003 54.6 59.6 
+Zack_Snyder/lhJP-kZtxBo_0000004 86.3 93.7 
+Zack_Snyder/lhJP-kZtxBo_0000005 152.2 159.5 

@@ -1,0 +1,7 @@
+POI: 			Ben_Stiller 
+Youtube ID: 	mZMsAxYzY98 
+Video length: 	259.6 sec 
+Set (V): 		dev 
+ 
+Ben_Stiller/mZMsAxYzY98_0000001 215.5 220.9 
+Ben_Stiller/mZMsAxYzY98_0000002 221.8 229.4 

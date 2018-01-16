@@ -1,0 +1,9 @@
+POI: 			Geri_Halliwell 
+Youtube ID: 	N6OxOVzvhVY 
+Video length: 	291.8 sec 
+Set (V): 		dev 
+ 
+Geri_Halliwell/N6OxOVzvhVY_0000001 72.9 80.7 
+Geri_Halliwell/N6OxOVzvhVY_0000002 130.3 134.7 
+Geri_Halliwell/N6OxOVzvhVY_0000003 183.3 192.0 
+Geri_Halliwell/N6OxOVzvhVY_0000004 206.6 211.0 

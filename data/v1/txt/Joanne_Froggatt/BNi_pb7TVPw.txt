@@ -1,0 +1,9 @@
+POI: 			Joanne_Froggatt 
+Youtube ID: 	BNi_pb7TVPw 
+Video length: 	628.7 sec 
+Set (V): 		dev 
+ 
+Joanne_Froggatt/BNi_pb7TVPw_0000001 253.5 264.6 
+Joanne_Froggatt/BNi_pb7TVPw_0000002 271.0 281.5 
+Joanne_Froggatt/BNi_pb7TVPw_0000003 463.9 473.1 
+Joanne_Froggatt/BNi_pb7TVPw_0000004 479.8 486.2 

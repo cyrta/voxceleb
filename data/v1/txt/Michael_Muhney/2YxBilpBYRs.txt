@@ -1,0 +1,19 @@
+POI: 			Michael_Muhney 
+Youtube ID: 	2YxBilpBYRs 
+Video length: 	241.5 sec 
+Set (V): 		dev 
+ 
+Michael_Muhney/2YxBilpBYRs_0000001 17.5 25.3 
+Michael_Muhney/2YxBilpBYRs_0000002 29.5 44.3 
+Michael_Muhney/2YxBilpBYRs_0000003 56.0 62.4 
+Michael_Muhney/2YxBilpBYRs_0000004 62.9 74.1 
+Michael_Muhney/2YxBilpBYRs_0000005 74.8 79.7 
+Michael_Muhney/2YxBilpBYRs_0000006 84.7 90.6 
+Michael_Muhney/2YxBilpBYRs_0000007 97.2 109.9 
+Michael_Muhney/2YxBilpBYRs_0000008 112.0 119.4 
+Michael_Muhney/2YxBilpBYRs_0000009 122.2 139.6 
+Michael_Muhney/2YxBilpBYRs_0000010 140.2 149.8 
+Michael_Muhney/2YxBilpBYRs_0000011 158.8 175.2 
+Michael_Muhney/2YxBilpBYRs_0000012 184.0 198.9 
+Michael_Muhney/2YxBilpBYRs_0000013 203.7 215.2 
+Michael_Muhney/2YxBilpBYRs_0000014 222.0 235.5 

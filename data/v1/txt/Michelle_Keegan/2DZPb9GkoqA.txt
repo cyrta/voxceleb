@@ -1,0 +1,9 @@
+POI: 			Michelle_Keegan 
+Youtube ID: 	2DZPb9GkoqA 
+Video length: 	429.3 sec 
+Set (V): 		dev 
+ 
+Michelle_Keegan/2DZPb9GkoqA_0000001 147.4 154.2 
+Michelle_Keegan/2DZPb9GkoqA_0000002 202.9 207.3 
+Michelle_Keegan/2DZPb9GkoqA_0000003 285.5 294.2 
+Michelle_Keegan/2DZPb9GkoqA_0000004 365.9 370.3 

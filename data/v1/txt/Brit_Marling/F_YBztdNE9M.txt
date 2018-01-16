@@ -1,0 +1,23 @@
+POI: 			Brit_Marling 
+Youtube ID: 	F_YBztdNE9M 
+Video length: 	1920.8 sec 
+Set (V): 		dev 
+ 
+Brit_Marling/F_YBztdNE9M_0000001 130.7 136.8 
+Brit_Marling/F_YBztdNE9M_0000002 143.4 151.4 
+Brit_Marling/F_YBztdNE9M_0000003 146.8 152.3 
+Brit_Marling/F_YBztdNE9M_0000004 160.6 171.9 
+Brit_Marling/F_YBztdNE9M_0000005 296.6 310.6 
+Brit_Marling/F_YBztdNE9M_0000006 568.0 572.3 
+Brit_Marling/F_YBztdNE9M_0000007 1205.4 1211.2 
+Brit_Marling/F_YBztdNE9M_0000008 1214.7 1224.5 
+Brit_Marling/F_YBztdNE9M_0000009 1228.7 1249.6 
+Brit_Marling/F_YBztdNE9M_0000010 1331.0 1339.3 
+Brit_Marling/F_YBztdNE9M_0000011 1341.3 1348.0 
+Brit_Marling/F_YBztdNE9M_0000012 1348.2 1352.9 
+Brit_Marling/F_YBztdNE9M_0000013 1353.0 1358.6 
+Brit_Marling/F_YBztdNE9M_0000014 1359.7 1367.4 
+Brit_Marling/F_YBztdNE9M_0000015 1368.4 1373.3 
+Brit_Marling/F_YBztdNE9M_0000016 1632.2 1640.2 
+Brit_Marling/F_YBztdNE9M_0000017 1642.1 1646.4 
+Brit_Marling/F_YBztdNE9M_0000018 1655.4 1663.3 

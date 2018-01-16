@@ -1,0 +1,7 @@
+POI: 			Kenny_Rogers 
+Youtube ID: 	YI4U0qpkC_A 
+Video length: 	215.8 sec 
+Set (V): 		dev 
+ 
+Kenny_Rogers/YI4U0qpkC_A_0000001 32.1 37.4 
+Kenny_Rogers/YI4U0qpkC_A_0000002 201.7 208.5 

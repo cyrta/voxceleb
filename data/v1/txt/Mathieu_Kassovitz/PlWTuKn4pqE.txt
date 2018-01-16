@@ -1,0 +1,7 @@
+POI: 			Mathieu_Kassovitz 
+Youtube ID: 	PlWTuKn4pqE 
+Video length: 	180.8 sec 
+Set (V): 		dev 
+ 
+Mathieu_Kassovitz/PlWTuKn4pqE_0000001 63.0 67.4 
+Mathieu_Kassovitz/PlWTuKn4pqE_0000002 151.1 155.7 

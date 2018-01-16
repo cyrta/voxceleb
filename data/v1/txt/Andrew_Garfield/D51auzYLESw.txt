@@ -1,0 +1,14 @@
+POI: 			Andrew_Garfield 
+Youtube ID: 	D51auzYLESw 
+Video length: 	263.3 sec 
+Set (V): 		dev 
+ 
+Andrew_Garfield/D51auzYLESw_0000001 42.3 46.9 
+Andrew_Garfield/D51auzYLESw_0000002 47.6 54.1 
+Andrew_Garfield/D51auzYLESw_0000003 45.6 49.9 
+Andrew_Garfield/D51auzYLESw_0000004 56.8 64.6 
+Andrew_Garfield/D51auzYLESw_0000005 65.3 73.1 
+Andrew_Garfield/D51auzYLESw_0000006 74.8 80.4 
+Andrew_Garfield/D51auzYLESw_0000007 80.5 95.4 
+Andrew_Garfield/D51auzYLESw_0000008 185.2 190.7 
+Andrew_Garfield/D51auzYLESw_0000009 192.0 216.6 

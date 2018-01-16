@@ -1,0 +1,7 @@
+POI: 			Mario_Casas 
+Youtube ID: 	3GBBB5hhAPw 
+Video length: 	180.0 sec 
+Set (V): 		dev 
+ 
+Mario_Casas/3GBBB5hhAPw_0000001 61.6 66.7 
+Mario_Casas/3GBBB5hhAPw_0000002 82.3 86.9 

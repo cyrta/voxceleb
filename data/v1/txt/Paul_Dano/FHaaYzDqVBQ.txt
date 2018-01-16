@@ -1,0 +1,12 @@
+POI: 			Paul_Dano 
+Youtube ID: 	FHaaYzDqVBQ 
+Video length: 	298.0 sec 
+Set (V): 		dev 
+ 
+Paul_Dano/FHaaYzDqVBQ_0000001 108.5 115.3 
+Paul_Dano/FHaaYzDqVBQ_0000002 136.2 140.8 
+Paul_Dano/FHaaYzDqVBQ_0000003 144.8 151.7 
+Paul_Dano/FHaaYzDqVBQ_0000004 173.7 178.8 
+Paul_Dano/FHaaYzDqVBQ_0000005 218.0 224.7 
+Paul_Dano/FHaaYzDqVBQ_0000006 234.8 242.0 
+Paul_Dano/FHaaYzDqVBQ_0000007 265.6 272.2 

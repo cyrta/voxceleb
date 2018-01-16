@@ -1,0 +1,12 @@
+POI: 			David_Wenham 
+Youtube ID: 	XzrV2_772Zg 
+Video length: 	436.2 sec 
+Set (V): 		dev 
+ 
+David_Wenham/XzrV2_772Zg_0000001 83.2 94.6 
+David_Wenham/XzrV2_772Zg_0000002 101.4 105.5 
+David_Wenham/XzrV2_772Zg_0000003 166.8 174.6 
+David_Wenham/XzrV2_772Zg_0000004 179.0 184.0 
+David_Wenham/XzrV2_772Zg_0000005 205.6 218.3 
+David_Wenham/XzrV2_772Zg_0000006 304.5 308.5 
+David_Wenham/XzrV2_772Zg_0000007 355.9 360.5 

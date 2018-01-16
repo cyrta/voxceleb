@@ -1,0 +1,9 @@
+POI: 			Eli_Roth 
+Youtube ID: 	QitLqlca660 
+Video length: 	387.1 sec 
+Set (V): 		test 
+ 
+Eli_Roth/QitLqlca660_0000001 79.2 96.4 
+Eli_Roth/QitLqlca660_0000002 166.0 180.2 
+Eli_Roth/QitLqlca660_0000003 180.3 188.1 
+Eli_Roth/QitLqlca660_0000004 351.5 369.1 

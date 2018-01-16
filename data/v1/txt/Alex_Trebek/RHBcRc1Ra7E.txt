@@ -1,0 +1,6 @@
+POI: 			Alex_Trebek 
+Youtube ID: 	RHBcRc1Ra7E 
+Video length: 	523.2 sec 
+Set (V): 		dev 
+ 
+Alex_Trebek/RHBcRc1Ra7E_0000001 246.1 252.1 

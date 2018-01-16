@@ -1,0 +1,7 @@
+POI: 			Corey_Stoll 
+Youtube ID: 	cygeAw35g-I 
+Video length: 	101.0 sec 
+Set (V): 		dev 
+ 
+Corey_Stoll/cygeAw35g-I_0000001 35.6 41.1 
+Corey_Stoll/cygeAw35g-I_0000002 54.5 61.4 

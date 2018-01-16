@@ -1,0 +1,8 @@
+POI: 			Michael_Cera 
+Youtube ID: 	7LcN6ETgW44 
+Video length: 	219.6 sec 
+Set (V): 		dev 
+ 
+Michael_Cera/7LcN6ETgW44_0000001 24.8 30.7 
+Michael_Cera/7LcN6ETgW44_0000002 36.1 44.0 
+Michael_Cera/7LcN6ETgW44_0000003 45.3 49.5 

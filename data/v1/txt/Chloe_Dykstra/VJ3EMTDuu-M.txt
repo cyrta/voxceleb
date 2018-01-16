@@ -1,0 +1,19 @@
+POI: 			Chloe_Dykstra 
+Youtube ID: 	VJ3EMTDuu-M 
+Video length: 	391.4 sec 
+Set (V): 		dev 
+ 
+Chloe_Dykstra/VJ3EMTDuu-M_0000001 11.0 17.0 
+Chloe_Dykstra/VJ3EMTDuu-M_0000002 27.8 33.0 
+Chloe_Dykstra/VJ3EMTDuu-M_0000003 48.8 54.0 
+Chloe_Dykstra/VJ3EMTDuu-M_0000004 56.4 69.9 
+Chloe_Dykstra/VJ3EMTDuu-M_0000005 80.7 87.3 
+Chloe_Dykstra/VJ3EMTDuu-M_0000006 125.7 130.1 
+Chloe_Dykstra/VJ3EMTDuu-M_0000007 139.0 147.2 
+Chloe_Dykstra/VJ3EMTDuu-M_0000008 161.8 182.0 
+Chloe_Dykstra/VJ3EMTDuu-M_0000009 227.9 231.8 
+Chloe_Dykstra/VJ3EMTDuu-M_0000010 253.1 264.8 
+Chloe_Dykstra/VJ3EMTDuu-M_0000011 278.7 284.8 
+Chloe_Dykstra/VJ3EMTDuu-M_0000012 303.2 329.3 
+Chloe_Dykstra/VJ3EMTDuu-M_0000013 340.8 360.4 
+Chloe_Dykstra/VJ3EMTDuu-M_0000014 365.0 380.7 

@@ -1,0 +1,15 @@
+POI: 			Cory_Monteith 
+Youtube ID: 	tjYSDGVX19I 
+Video length: 	486.0 sec 
+Set (V): 		dev 
+ 
+Cory_Monteith/tjYSDGVX19I_0000001 43.5 50.2 
+Cory_Monteith/tjYSDGVX19I_0000002 134.9 139.2 
+Cory_Monteith/tjYSDGVX19I_0000003 144.7 153.4 
+Cory_Monteith/tjYSDGVX19I_0000004 192.7 199.7 
+Cory_Monteith/tjYSDGVX19I_0000005 233.0 238.2 
+Cory_Monteith/tjYSDGVX19I_0000006 293.9 300.4 
+Cory_Monteith/tjYSDGVX19I_0000007 349.4 355.7 
+Cory_Monteith/tjYSDGVX19I_0000008 356.1 362.9 
+Cory_Monteith/tjYSDGVX19I_0000009 363.0 369.5 
+Cory_Monteith/tjYSDGVX19I_0000010 384.3 397.7 

@@ -1,0 +1,11 @@
+POI: 			Janet_Jackson 
+Youtube ID: 	U7dRm7NKY-c 
+Video length: 	898.5 sec 
+Set (V): 		dev 
+ 
+Janet_Jackson/U7dRm7NKY-c_0000001 122.5 128.4 
+Janet_Jackson/U7dRm7NKY-c_0000002 140.4 147.0 
+Janet_Jackson/U7dRm7NKY-c_0000003 204.0 208.5 
+Janet_Jackson/U7dRm7NKY-c_0000004 430.2 435.6 
+Janet_Jackson/U7dRm7NKY-c_0000005 726.3 735.4 
+Janet_Jackson/U7dRm7NKY-c_0000006 739.3 744.1 

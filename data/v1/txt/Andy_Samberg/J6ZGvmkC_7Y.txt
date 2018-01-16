@@ -1,0 +1,9 @@
+POI: 			Andy_Samberg 
+Youtube ID: 	J6ZGvmkC_7Y 
+Video length: 	122.1 sec 
+Set (V): 		dev 
+ 
+Andy_Samberg/J6ZGvmkC_7Y_0000001 27.1 31.4 
+Andy_Samberg/J6ZGvmkC_7Y_0000002 39.8 46.0 
+Andy_Samberg/J6ZGvmkC_7Y_0000003 51.7 56.8 
+Andy_Samberg/J6ZGvmkC_7Y_0000004 66.3 79.9 

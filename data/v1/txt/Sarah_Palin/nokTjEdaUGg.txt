@@ -1,0 +1,9 @@
+POI: 			Sarah_Palin 
+Youtube ID: 	nokTjEdaUGg 
+Video length: 	88.4 sec 
+Set (V): 		dev 
+ 
+Sarah_Palin/nokTjEdaUGg_0000001 07.8 18.2 
+Sarah_Palin/nokTjEdaUGg_0000002 37.4 41.4 
+Sarah_Palin/nokTjEdaUGg_0000003 47.6 53.5 
+Sarah_Palin/nokTjEdaUGg_0000004 55.5 81.9 

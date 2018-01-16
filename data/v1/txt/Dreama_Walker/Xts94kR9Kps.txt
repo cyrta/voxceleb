@@ -1,0 +1,8 @@
+POI: 			Dreama_Walker 
+Youtube ID: 	Xts94kR9Kps 
+Video length: 	188.0 sec 
+Set (V): 		dev 
+ 
+Dreama_Walker/Xts94kR9Kps_0000001 81.1 89.2 
+Dreama_Walker/Xts94kR9Kps_0000002 99.8 107.8 
+Dreama_Walker/Xts94kR9Kps_0000003 165.9 171.1 

@@ -1,0 +1,10 @@
+POI: 			Pierre_Niney 
+Youtube ID: 	21_H0W0iuaU 
+Video length: 	110.3 sec 
+Set (V): 		dev 
+ 
+Pierre_Niney/21_H0W0iuaU_0000001 14.6 20.5 
+Pierre_Niney/21_H0W0iuaU_0000002 22.8 35.7 
+Pierre_Niney/21_H0W0iuaU_0000003 35.9 47.6 
+Pierre_Niney/21_H0W0iuaU_0000004 60.9 66.6 
+Pierre_Niney/21_H0W0iuaU_0000005 87.0 92.0 

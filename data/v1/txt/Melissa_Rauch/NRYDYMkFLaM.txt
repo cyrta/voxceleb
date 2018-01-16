@@ -1,0 +1,10 @@
+POI: 			Melissa_Rauch 
+Youtube ID: 	NRYDYMkFLaM 
+Video length: 	507.1 sec 
+Set (V): 		dev 
+ 
+Melissa_Rauch/NRYDYMkFLaM_0000001 169.0 174.8 
+Melissa_Rauch/NRYDYMkFLaM_0000002 187.9 192.6 
+Melissa_Rauch/NRYDYMkFLaM_0000003 233.0 238.1 
+Melissa_Rauch/NRYDYMkFLaM_0000004 257.3 262.3 
+Melissa_Rauch/NRYDYMkFLaM_0000005 265.5 273.7 

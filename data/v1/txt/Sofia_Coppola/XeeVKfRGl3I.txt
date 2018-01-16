@@ -1,0 +1,13 @@
+POI: 			Sofia_Coppola 
+Youtube ID: 	XeeVKfRGl3I 
+Video length: 	368.0 sec 
+Set (V): 		dev 
+ 
+Sofia_Coppola/XeeVKfRGl3I_0000001 157.8 164.8 
+Sofia_Coppola/XeeVKfRGl3I_0000002 206.9 211.3 
+Sofia_Coppola/XeeVKfRGl3I_0000003 239.9 244.6 
+Sofia_Coppola/XeeVKfRGl3I_0000004 245.6 250.8 
+Sofia_Coppola/XeeVKfRGl3I_0000005 273.2 277.2 
+Sofia_Coppola/XeeVKfRGl3I_0000006 278.0 283.5 
+Sofia_Coppola/XeeVKfRGl3I_0000007 311.6 316.0 
+Sofia_Coppola/XeeVKfRGl3I_0000008 320.3 324.8 

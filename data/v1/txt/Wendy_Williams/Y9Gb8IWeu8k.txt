@@ -1,0 +1,8 @@
+POI: 			Wendy_Williams 
+Youtube ID: 	Y9Gb8IWeu8k 
+Video length: 	608.9 sec 
+Set (V): 		dev 
+ 
+Wendy_Williams/Y9Gb8IWeu8k_0000001 329.2 333.5 
+Wendy_Williams/Y9Gb8IWeu8k_0000002 397.0 405.4 
+Wendy_Williams/Y9Gb8IWeu8k_0000003 406.4 415.4 

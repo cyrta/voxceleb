@@ -1,0 +1,10 @@
+POI: 			Loan_Chabanol 
+Youtube ID: 	8Xemj5329Ec 
+Video length: 	123.3 sec 
+Set (V): 		dev 
+ 
+Loan_Chabanol/8Xemj5329Ec_0000001 14.8 20.6 
+Loan_Chabanol/8Xemj5329Ec_0000002 43.1 65.8 
+Loan_Chabanol/8Xemj5329Ec_0000003 78.4 85.2 
+Loan_Chabanol/8Xemj5329Ec_0000004 88.9 93.8 
+Loan_Chabanol/8Xemj5329Ec_0000005 100.1 105.6 

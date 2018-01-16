@@ -1,0 +1,11 @@
+POI: 			Andrew_Scott 
+Youtube ID: 	POYdztvg0nE 
+Video length: 	190.2 sec 
+Set (V): 		dev 
+ 
+Andrew_Scott/POYdztvg0nE_0000001 05.2 10.9 
+Andrew_Scott/POYdztvg0nE_0000002 20.9 27.9 
+Andrew_Scott/POYdztvg0nE_0000003 28.5 33.1 
+Andrew_Scott/POYdztvg0nE_0000004 54.9 59.6 
+Andrew_Scott/POYdztvg0nE_0000005 62.0 76.8 
+Andrew_Scott/POYdztvg0nE_0000006 158.2 177.6 

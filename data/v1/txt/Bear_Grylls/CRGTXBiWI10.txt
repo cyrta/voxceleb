@@ -1,0 +1,6 @@
+POI: 			Bear_Grylls 
+Youtube ID: 	CRGTXBiWI10 
+Video length: 	90.5 sec 
+Set (V): 		dev 
+ 
+Bear_Grylls/CRGTXBiWI10_0000001 40.9 46.8 

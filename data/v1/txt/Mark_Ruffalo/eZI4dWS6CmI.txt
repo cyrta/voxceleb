@@ -1,0 +1,17 @@
+POI: 			Mark_Ruffalo 
+Youtube ID: 	eZI4dWS6CmI 
+Video length: 	464.8 sec 
+Set (V): 		dev 
+ 
+Mark_Ruffalo/eZI4dWS6CmI_0000001 64.2 73.0 
+Mark_Ruffalo/eZI4dWS6CmI_0000002 196.2 200.6 
+Mark_Ruffalo/eZI4dWS6CmI_0000003 205.4 214.3 
+Mark_Ruffalo/eZI4dWS6CmI_0000004 215.4 223.3 
+Mark_Ruffalo/eZI4dWS6CmI_0000005 228.8 233.5 
+Mark_Ruffalo/eZI4dWS6CmI_0000006 242.8 249.0 
+Mark_Ruffalo/eZI4dWS6CmI_0000007 257.1 261.4 
+Mark_Ruffalo/eZI4dWS6CmI_0000008 263.6 269.9 
+Mark_Ruffalo/eZI4dWS6CmI_0000009 283.6 295.6 
+Mark_Ruffalo/eZI4dWS6CmI_0000010 323.5 329.0 
+Mark_Ruffalo/eZI4dWS6CmI_0000011 371.5 383.3 
+Mark_Ruffalo/eZI4dWS6CmI_0000012 390.6 395.4 

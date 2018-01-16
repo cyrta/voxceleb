@@ -1,0 +1,10 @@
+POI: 			Viggo_Mortensen 
+Youtube ID: 	voTTV7oqJmw 
+Video length: 	312.8 sec 
+Set (V): 		dev 
+ 
+Viggo_Mortensen/voTTV7oqJmw_0000001 121.5 127.0 
+Viggo_Mortensen/voTTV7oqJmw_0000002 140.6 149.7 
+Viggo_Mortensen/voTTV7oqJmw_0000003 150.5 160.6 
+Viggo_Mortensen/voTTV7oqJmw_0000004 164.2 172.5 
+Viggo_Mortensen/voTTV7oqJmw_0000005 251.6 255.6 

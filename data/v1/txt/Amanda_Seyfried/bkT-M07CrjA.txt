@@ -1,0 +1,8 @@
+POI: 			Amanda_Seyfried 
+Youtube ID: 	bkT-M07CrjA 
+Video length: 	289.5 sec 
+Set (V): 		dev 
+ 
+Amanda_Seyfried/bkT-M07CrjA_0000001 33.4 39.6 
+Amanda_Seyfried/bkT-M07CrjA_0000002 119.0 125.0 
+Amanda_Seyfried/bkT-M07CrjA_0000003 254.5 260.5 

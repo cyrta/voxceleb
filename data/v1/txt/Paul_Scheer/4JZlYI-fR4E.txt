@@ -1,0 +1,13 @@
+POI: 			Paul_Scheer 
+Youtube ID: 	4JZlYI-fR4E 
+Video length: 	620.8 sec 
+Set (V): 		dev 
+ 
+Paul_Scheer/4JZlYI-fR4E_0000001 102.4 107.0 
+Paul_Scheer/4JZlYI-fR4E_0000002 181.8 187.9 
+Paul_Scheer/4JZlYI-fR4E_0000003 227.1 233.0 
+Paul_Scheer/4JZlYI-fR4E_0000004 258.4 262.8 
+Paul_Scheer/4JZlYI-fR4E_0000005 322.4 328.2 
+Paul_Scheer/4JZlYI-fR4E_0000006 348.9 356.4 
+Paul_Scheer/4JZlYI-fR4E_0000007 361.4 369.2 
+Paul_Scheer/4JZlYI-fR4E_0000008 391.6 397.2 

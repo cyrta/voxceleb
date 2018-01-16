@@ -1,0 +1,20 @@
+POI: 			Joseph_Gordon-Levitt 
+Youtube ID: 	fVPaH6_yrmE 
+Video length: 	744.6 sec 
+Set (V): 		dev 
+ 
+Joseph_Gordon-Levitt/fVPaH6_yrmE_0000001 112.2 123.3 
+Joseph_Gordon-Levitt/fVPaH6_yrmE_0000002 140.3 146.9 
+Joseph_Gordon-Levitt/fVPaH6_yrmE_0000003 181.6 189.5 
+Joseph_Gordon-Levitt/fVPaH6_yrmE_0000004 240.2 245.5 
+Joseph_Gordon-Levitt/fVPaH6_yrmE_0000005 255.4 260.8 
+Joseph_Gordon-Levitt/fVPaH6_yrmE_0000006 266.7 272.0 
+Joseph_Gordon-Levitt/fVPaH6_yrmE_0000007 296.4 302.2 
+Joseph_Gordon-Levitt/fVPaH6_yrmE_0000008 324.9 334.1 
+Joseph_Gordon-Levitt/fVPaH6_yrmE_0000009 413.5 421.8 
+Joseph_Gordon-Levitt/fVPaH6_yrmE_0000010 443.0 447.7 
+Joseph_Gordon-Levitt/fVPaH6_yrmE_0000011 482.6 488.6 
+Joseph_Gordon-Levitt/fVPaH6_yrmE_0000012 592.9 603.2 
+Joseph_Gordon-Levitt/fVPaH6_yrmE_0000013 625.0 631.8 
+Joseph_Gordon-Levitt/fVPaH6_yrmE_0000014 679.2 687.5 
+Joseph_Gordon-Levitt/fVPaH6_yrmE_0000015 694.4 700.9 

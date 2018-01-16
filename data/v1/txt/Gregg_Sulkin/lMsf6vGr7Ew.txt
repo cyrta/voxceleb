@@ -1,0 +1,17 @@
+POI: 			Gregg_Sulkin 
+Youtube ID: 	lMsf6vGr7Ew 
+Video length: 	273.5 sec 
+Set (V): 		dev 
+ 
+Gregg_Sulkin/lMsf6vGr7Ew_0000001 31.3 42.6 
+Gregg_Sulkin/lMsf6vGr7Ew_0000002 43.4 48.5 
+Gregg_Sulkin/lMsf6vGr7Ew_0000003 49.3 54.6 
+Gregg_Sulkin/lMsf6vGr7Ew_0000004 73.6 84.9 
+Gregg_Sulkin/lMsf6vGr7Ew_0000005 85.1 99.4 
+Gregg_Sulkin/lMsf6vGr7Ew_0000006 100.2 107.9 
+Gregg_Sulkin/lMsf6vGr7Ew_0000007 141.6 146.2 
+Gregg_Sulkin/lMsf6vGr7Ew_0000008 160.4 172.4 
+Gregg_Sulkin/lMsf6vGr7Ew_0000009 173.4 178.3 
+Gregg_Sulkin/lMsf6vGr7Ew_0000010 185.0 192.8 
+Gregg_Sulkin/lMsf6vGr7Ew_0000011 195.1 200.2 
+Gregg_Sulkin/lMsf6vGr7Ew_0000012 233.4 237.6 

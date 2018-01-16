@@ -1,0 +1,8 @@
+POI: 			John_Goodman 
+Youtube ID: 	mJRM_FbnSjQ 
+Video length: 	168.3 sec 
+Set (V): 		dev 
+ 
+John_Goodman/mJRM_FbnSjQ_0000001 38.9 46.2 
+John_Goodman/mJRM_FbnSjQ_0000002 115.8 123.9 
+John_Goodman/mJRM_FbnSjQ_0000003 132.6 145.8 

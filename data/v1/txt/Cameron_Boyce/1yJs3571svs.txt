@@ -1,0 +1,10 @@
+POI: 			Cameron_Boyce 
+Youtube ID: 	1yJs3571svs 
+Video length: 	394.6 sec 
+Set (V): 		dev 
+ 
+Cameron_Boyce/1yJs3571svs_0000001 17.4 23.9 
+Cameron_Boyce/1yJs3571svs_0000002 171.6 180.7 
+Cameron_Boyce/1yJs3571svs_0000003 187.1 192.6 
+Cameron_Boyce/1yJs3571svs_0000004 196.7 206.7 
+Cameron_Boyce/1yJs3571svs_0000005 208.2 219.2 

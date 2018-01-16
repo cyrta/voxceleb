@@ -1,0 +1,9 @@
+POI: 			Lorde 
+Youtube ID: 	0_fTV0M1ITs 
+Video length: 	178.9 sec 
+Set (V): 		dev 
+ 
+Lorde/0_fTV0M1ITs_0000001 10.2 15.4 
+Lorde/0_fTV0M1ITs_0000002 67.8 72.6 
+Lorde/0_fTV0M1ITs_0000003 77.4 86.2 
+Lorde/0_fTV0M1ITs_0000004 159.1 163.3 

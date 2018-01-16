@@ -1,0 +1,8 @@
+POI: 			Wilson_Cruz 
+Youtube ID: 	C5gIfM0i-ps 
+Video length: 	152.3 sec 
+Set (V): 		dev 
+ 
+Wilson_Cruz/C5gIfM0i-ps_0000001 71.1 87.4 
+Wilson_Cruz/C5gIfM0i-ps_0000002 101.5 105.8 
+Wilson_Cruz/C5gIfM0i-ps_0000003 113.6 121.9 

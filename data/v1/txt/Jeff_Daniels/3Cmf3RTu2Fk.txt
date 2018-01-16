@@ -1,0 +1,9 @@
+POI: 			Jeff_Daniels 
+Youtube ID: 	3Cmf3RTu2Fk 
+Video length: 	199.4 sec 
+Set (V): 		dev 
+ 
+Jeff_Daniels/3Cmf3RTu2Fk_0000001 14.3 24.0 
+Jeff_Daniels/3Cmf3RTu2Fk_0000002 76.2 84.4 
+Jeff_Daniels/3Cmf3RTu2Fk_0000003 86.5 95.0 
+Jeff_Daniels/3Cmf3RTu2Fk_0000004 140.4 146.6 

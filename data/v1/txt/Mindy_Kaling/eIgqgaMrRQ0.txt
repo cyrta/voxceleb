@@ -1,0 +1,7 @@
+POI: 			Mindy_Kaling 
+Youtube ID: 	eIgqgaMrRQ0 
+Video length: 	145.1 sec 
+Set (V): 		dev 
+ 
+Mindy_Kaling/eIgqgaMrRQ0_0000001 84.8 90.9 
+Mindy_Kaling/eIgqgaMrRQ0_0000002 122.0 128.0 

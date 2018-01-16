@@ -1,0 +1,14 @@
+POI: 			Kate_Flannery 
+Youtube ID: 	lO1J5pGukkc 
+Video length: 	455.5 sec 
+Set (V): 		dev 
+ 
+Kate_Flannery/lO1J5pGukkc_0000001 107.3 113.4 
+Kate_Flannery/lO1J5pGukkc_0000002 117.6 124.1 
+Kate_Flannery/lO1J5pGukkc_0000003 171.1 176.6 
+Kate_Flannery/lO1J5pGukkc_0000004 186.6 193.6 
+Kate_Flannery/lO1J5pGukkc_0000005 213.4 218.4 
+Kate_Flannery/lO1J5pGukkc_0000006 237.2 250.2 
+Kate_Flannery/lO1J5pGukkc_0000007 283.2 287.4 
+Kate_Flannery/lO1J5pGukkc_0000008 299.8 306.2 
+Kate_Flannery/lO1J5pGukkc_0000009 362.4 370.0 

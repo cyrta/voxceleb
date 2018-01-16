@@ -1,0 +1,7 @@
+POI: 			Will_Forte 
+Youtube ID: 	u_UuXF01dIw 
+Video length: 	359.5 sec 
+Set (V): 		dev 
+ 
+Will_Forte/u_UuXF01dIw_0000001 80.8 92.1 
+Will_Forte/u_UuXF01dIw_0000002 113.7 119.6 

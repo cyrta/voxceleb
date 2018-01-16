@@ -1,0 +1,7 @@
+POI: 			Janet_McTeer 
+Youtube ID: 	VhzrJF70Rzc 
+Video length: 	356.5 sec 
+Set (V): 		dev 
+ 
+Janet_McTeer/VhzrJF70Rzc_0000001 42.7 49.1 
+Janet_McTeer/VhzrJF70Rzc_0000002 334.0 338.2 

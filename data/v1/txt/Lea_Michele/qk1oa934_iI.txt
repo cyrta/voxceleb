@@ -1,0 +1,9 @@
+POI: 			Lea_Michele 
+Youtube ID: 	qk1oa934_iI 
+Video length: 	367.8 sec 
+Set (V): 		dev 
+ 
+Lea_Michele/qk1oa934_iI_0000001 160.5 167.0 
+Lea_Michele/qk1oa934_iI_0000002 206.5 210.4 
+Lea_Michele/qk1oa934_iI_0000003 216.0 220.1 
+Lea_Michele/qk1oa934_iI_0000004 247.6 254.6 

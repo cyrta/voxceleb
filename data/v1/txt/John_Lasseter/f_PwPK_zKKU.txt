@@ -1,0 +1,8 @@
+POI: 			John_Lasseter 
+Youtube ID: 	f_PwPK_zKKU 
+Video length: 	395.6 sec 
+Set (V): 		dev 
+ 
+John_Lasseter/f_PwPK_zKKU_0000001 13.5 18.0 
+John_Lasseter/f_PwPK_zKKU_0000002 96.8 101.1 
+John_Lasseter/f_PwPK_zKKU_0000003 330.2 334.6 

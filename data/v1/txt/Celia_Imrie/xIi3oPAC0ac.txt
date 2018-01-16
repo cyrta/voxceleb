@@ -1,0 +1,9 @@
+POI: 			Celia_Imrie 
+Youtube ID: 	xIi3oPAC0ac 
+Video length: 	151.7 sec 
+Set (V): 		dev 
+ 
+Celia_Imrie/xIi3oPAC0ac_0000001 21.5 34.9 
+Celia_Imrie/xIi3oPAC0ac_0000002 44.4 50.6 
+Celia_Imrie/xIi3oPAC0ac_0000003 60.0 67.7 
+Celia_Imrie/xIi3oPAC0ac_0000004 121.4 128.1 

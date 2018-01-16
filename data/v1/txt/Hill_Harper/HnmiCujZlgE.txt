@@ -1,0 +1,6 @@
+POI: 			Hill_Harper 
+Youtube ID: 	HnmiCujZlgE 
+Video length: 	238.9 sec 
+Set (V): 		dev 
+ 
+Hill_Harper/HnmiCujZlgE_0000001 99.4 105.8 

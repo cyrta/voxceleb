@@ -1,0 +1,14 @@
+POI: 			Moran_Atias 
+Youtube ID: 	entyCxoaUZI 
+Video length: 	152.8 sec 
+Set (V): 		dev 
+ 
+Moran_Atias/entyCxoaUZI_0000001 01.1 16.1 
+Moran_Atias/entyCxoaUZI_0000002 16.2 21.5 
+Moran_Atias/entyCxoaUZI_0000003 27.2 33.2 
+Moran_Atias/entyCxoaUZI_0000004 48.6 55.9 
+Moran_Atias/entyCxoaUZI_0000005 69.0 79.6 
+Moran_Atias/entyCxoaUZI_0000006 113.6 121.9 
+Moran_Atias/entyCxoaUZI_0000007 122.5 134.0 
+Moran_Atias/entyCxoaUZI_0000008 135.0 141.9 
+Moran_Atias/entyCxoaUZI_0000009 142.4 151.0 

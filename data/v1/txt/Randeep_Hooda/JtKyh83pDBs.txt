@@ -1,0 +1,10 @@
+POI: 			Randeep_Hooda 
+Youtube ID: 	JtKyh83pDBs 
+Video length: 	484.1 sec 
+Set (V): 		dev 
+ 
+Randeep_Hooda/JtKyh83pDBs_0000001 51.8 55.8 
+Randeep_Hooda/JtKyh83pDBs_0000002 96.2 101.8 
+Randeep_Hooda/JtKyh83pDBs_0000003 102.2 108.5 
+Randeep_Hooda/JtKyh83pDBs_0000004 138.6 151.2 
+Randeep_Hooda/JtKyh83pDBs_0000005 165.5 170.6 

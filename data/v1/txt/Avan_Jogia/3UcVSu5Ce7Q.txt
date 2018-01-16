@@ -1,0 +1,10 @@
+POI: 			Avan_Jogia 
+Youtube ID: 	3UcVSu5Ce7Q 
+Video length: 	194.1 sec 
+Set (V): 		dev 
+ 
+Avan_Jogia/3UcVSu5Ce7Q_0000001 51.6 57.4 
+Avan_Jogia/3UcVSu5Ce7Q_0000002 59.4 65.2 
+Avan_Jogia/3UcVSu5Ce7Q_0000003 73.6 79.4 
+Avan_Jogia/3UcVSu5Ce7Q_0000004 85.6 93.9 
+Avan_Jogia/3UcVSu5Ce7Q_0000005 99.6 103.7 

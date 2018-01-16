@@ -1,0 +1,10 @@
+POI: 			Dylan_Moran 
+Youtube ID: 	wgkbboPvjM4 
+Video length: 	607.6 sec 
+Set (V): 		dev 
+ 
+Dylan_Moran/wgkbboPvjM4_0000001 21.6 26.5 
+Dylan_Moran/wgkbboPvjM4_0000002 37.8 45.7 
+Dylan_Moran/wgkbboPvjM4_0000003 369.4 377.1 
+Dylan_Moran/wgkbboPvjM4_0000004 441.0 446.9 
+Dylan_Moran/wgkbboPvjM4_0000005 443.3 450.0 

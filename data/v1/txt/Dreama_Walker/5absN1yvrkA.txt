@@ -1,0 +1,13 @@
+POI: 			Dreama_Walker 
+Youtube ID: 	5absN1yvrkA 
+Video length: 	418.9 sec 
+Set (V): 		dev 
+ 
+Dreama_Walker/5absN1yvrkA_0000001 31.4 42.8 
+Dreama_Walker/5absN1yvrkA_0000002 86.6 92.3 
+Dreama_Walker/5absN1yvrkA_0000003 229.4 240.9 
+Dreama_Walker/5absN1yvrkA_0000004 242.8 250.9 
+Dreama_Walker/5absN1yvrkA_0000005 251.2 259.7 
+Dreama_Walker/5absN1yvrkA_0000006 260.3 272.6 
+Dreama_Walker/5absN1yvrkA_0000007 273.3 289.4 
+Dreama_Walker/5absN1yvrkA_0000008 387.8 396.5 

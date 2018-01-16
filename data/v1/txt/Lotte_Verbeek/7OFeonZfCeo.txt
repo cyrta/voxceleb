@@ -1,0 +1,7 @@
+POI: 			Lotte_Verbeek 
+Youtube ID: 	7OFeonZfCeo 
+Video length: 	190.6 sec 
+Set (V): 		dev 
+ 
+Lotte_Verbeek/7OFeonZfCeo_0000001 50.5 54.6 
+Lotte_Verbeek/7OFeonZfCeo_0000002 158.6 163.4 

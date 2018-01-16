@@ -1,0 +1,19 @@
+POI: 			Josh_Gad 
+Youtube ID: 	IvdtqYVM-VE 
+Video length: 	193.6 sec 
+Set (V): 		dev 
+ 
+Josh_Gad/IvdtqYVM-VE_0000001 11.0 25.0 
+Josh_Gad/IvdtqYVM-VE_0000002 25.8 30.0 
+Josh_Gad/IvdtqYVM-VE_0000003 30.1 35.4 
+Josh_Gad/IvdtqYVM-VE_0000004 35.6 39.9 
+Josh_Gad/IvdtqYVM-VE_0000005 40.2 46.5 
+Josh_Gad/IvdtqYVM-VE_0000006 52.5 57.2 
+Josh_Gad/IvdtqYVM-VE_0000007 59.5 69.1 
+Josh_Gad/IvdtqYVM-VE_0000008 82.7 88.0 
+Josh_Gad/IvdtqYVM-VE_0000009 88.1 92.2 
+Josh_Gad/IvdtqYVM-VE_0000010 97.7 124.0 
+Josh_Gad/IvdtqYVM-VE_0000011 129.1 139.4 
+Josh_Gad/IvdtqYVM-VE_0000012 139.6 144.4 
+Josh_Gad/IvdtqYVM-VE_0000013 150.3 154.6 
+Josh_Gad/IvdtqYVM-VE_0000014 175.5 187.0 

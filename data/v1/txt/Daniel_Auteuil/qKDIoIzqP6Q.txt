@@ -1,0 +1,7 @@
+POI: 			Daniel_Auteuil 
+Youtube ID: 	qKDIoIzqP6Q 
+Video length: 	244.0 sec 
+Set (V): 		dev 
+ 
+Daniel_Auteuil/qKDIoIzqP6Q_0000001 64.1 68.7 
+Daniel_Auteuil/qKDIoIzqP6Q_0000002 136.5 141.5 

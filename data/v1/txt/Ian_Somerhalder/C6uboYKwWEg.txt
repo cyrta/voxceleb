@@ -1,0 +1,13 @@
+POI: 			Ian_Somerhalder 
+Youtube ID: 	C6uboYKwWEg 
+Video length: 	403.7 sec 
+Set (V): 		dev 
+ 
+Ian_Somerhalder/C6uboYKwWEg_0000001 148.8 157.2 
+Ian_Somerhalder/C6uboYKwWEg_0000002 209.7 218.9 
+Ian_Somerhalder/C6uboYKwWEg_0000003 230.0 235.6 
+Ian_Somerhalder/C6uboYKwWEg_0000004 284.6 289.2 
+Ian_Somerhalder/C6uboYKwWEg_0000005 290.3 297.1 
+Ian_Somerhalder/C6uboYKwWEg_0000006 336.7 345.6 
+Ian_Somerhalder/C6uboYKwWEg_0000007 354.5 359.3 
+Ian_Somerhalder/C6uboYKwWEg_0000008 366.4 371.2 

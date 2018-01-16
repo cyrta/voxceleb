@@ -1,0 +1,9 @@
+POI: 			Melissa_George 
+Youtube ID: 	uH3cFAJv8xs 
+Video length: 	135.0 sec 
+Set (V): 		dev 
+ 
+Melissa_George/uH3cFAJv8xs_0000001 06.6 12.8 
+Melissa_George/uH3cFAJv8xs_0000002 15.4 21.5 
+Melissa_George/uH3cFAJv8xs_0000003 91.8 98.4 
+Melissa_George/uH3cFAJv8xs_0000004 115.3 120.4 

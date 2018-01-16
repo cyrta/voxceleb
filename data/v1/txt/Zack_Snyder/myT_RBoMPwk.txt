@@ -1,0 +1,10 @@
+POI: 			Zack_Snyder 
+Youtube ID: 	myT_RBoMPwk 
+Video length: 	193.0 sec 
+Set (V): 		dev 
+ 
+Zack_Snyder/myT_RBoMPwk_0000001 05.1 11.9 
+Zack_Snyder/myT_RBoMPwk_0000002 16.0 27.9 
+Zack_Snyder/myT_RBoMPwk_0000003 117.6 125.7 
+Zack_Snyder/myT_RBoMPwk_0000004 134.8 142.2 
+Zack_Snyder/myT_RBoMPwk_0000005 147.3 155.6 

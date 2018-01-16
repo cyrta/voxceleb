@@ -1,0 +1,9 @@
+POI: 			Dean_Cain 
+Youtube ID: 	EtaRaS_l6Vo 
+Video length: 	278.9 sec 
+Set (V): 		dev 
+ 
+Dean_Cain/EtaRaS_l6Vo_0000001 36.8 41.3 
+Dean_Cain/EtaRaS_l6Vo_0000002 46.2 54.4 
+Dean_Cain/EtaRaS_l6Vo_0000003 90.8 97.2 
+Dean_Cain/EtaRaS_l6Vo_0000004 180.3 196.6 

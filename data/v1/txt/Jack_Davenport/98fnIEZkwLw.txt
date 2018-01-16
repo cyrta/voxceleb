@@ -1,0 +1,11 @@
+POI: 			Jack_Davenport 
+Youtube ID: 	98fnIEZkwLw 
+Video length: 	161.8 sec 
+Set (V): 		dev 
+ 
+Jack_Davenport/98fnIEZkwLw_0000001 07.4 25.5 
+Jack_Davenport/98fnIEZkwLw_0000002 35.6 40.0 
+Jack_Davenport/98fnIEZkwLw_0000003 51.8 69.3 
+Jack_Davenport/98fnIEZkwLw_0000004 71.5 79.2 
+Jack_Davenport/98fnIEZkwLw_0000005 98.4 108.5 
+Jack_Davenport/98fnIEZkwLw_0000006 125.1 130.0 

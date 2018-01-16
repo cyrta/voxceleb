@@ -1,0 +1,16 @@
+POI: 			Mathieu_Amalric 
+Youtube ID: 	Klv3JuHv-jM 
+Video length: 	1140.7 sec 
+Set (V): 		dev 
+ 
+Mathieu_Amalric/Klv3JuHv-jM_0000001 139.3 143.3 
+Mathieu_Amalric/Klv3JuHv-jM_0000002 162.8 169.5 
+Mathieu_Amalric/Klv3JuHv-jM_0000003 442.6 448.4 
+Mathieu_Amalric/Klv3JuHv-jM_0000004 477.1 482.1 
+Mathieu_Amalric/Klv3JuHv-jM_0000005 585.3 590.2 
+Mathieu_Amalric/Klv3JuHv-jM_0000006 615.0 619.5 
+Mathieu_Amalric/Klv3JuHv-jM_0000007 731.2 736.5 
+Mathieu_Amalric/Klv3JuHv-jM_0000008 775.3 781.1 
+Mathieu_Amalric/Klv3JuHv-jM_0000009 845.7 851.6 
+Mathieu_Amalric/Klv3JuHv-jM_0000010 977.6 982.5 
+Mathieu_Amalric/Klv3JuHv-jM_0000011 1019.2 1023.2 

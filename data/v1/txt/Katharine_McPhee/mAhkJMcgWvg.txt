@@ -1,0 +1,7 @@
+POI: 			Katharine_McPhee 
+Youtube ID: 	mAhkJMcgWvg 
+Video length: 	276.7 sec 
+Set (V): 		dev 
+ 
+Katharine_McPhee/mAhkJMcgWvg_0000001 222.0 227.6 
+Katharine_McPhee/mAhkJMcgWvg_0000002 231.1 247.0 

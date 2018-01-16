@@ -1,0 +1,13 @@
+POI: 			Jean_Reno 
+Youtube ID: 	QBXnMe4qHwY 
+Video length: 	178.0 sec 
+Set (V): 		dev 
+ 
+Jean_Reno/QBXnMe4qHwY_0000001 09.5 18.8 
+Jean_Reno/QBXnMe4qHwY_0000002 22.7 30.3 
+Jean_Reno/QBXnMe4qHwY_0000003 63.6 68.3 
+Jean_Reno/QBXnMe4qHwY_0000004 69.7 75.5 
+Jean_Reno/QBXnMe4qHwY_0000005 98.9 107.2 
+Jean_Reno/QBXnMe4qHwY_0000006 136.4 143.3 
+Jean_Reno/QBXnMe4qHwY_0000007 145.2 149.8 
+Jean_Reno/QBXnMe4qHwY_0000008 150.8 162.7 

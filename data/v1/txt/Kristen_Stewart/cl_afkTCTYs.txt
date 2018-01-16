@@ -1,0 +1,12 @@
+POI: 			Kristen_Stewart 
+Youtube ID: 	cl_afkTCTYs 
+Video length: 	199.8 sec 
+Set (V): 		dev 
+ 
+Kristen_Stewart/cl_afkTCTYs_0000001 12.0 19.1 
+Kristen_Stewart/cl_afkTCTYs_0000002 50.4 54.6 
+Kristen_Stewart/cl_afkTCTYs_0000003 103.4 108.7 
+Kristen_Stewart/cl_afkTCTYs_0000004 121.2 128.0 
+Kristen_Stewart/cl_afkTCTYs_0000005 148.3 152.4 
+Kristen_Stewart/cl_afkTCTYs_0000006 160.6 165.3 
+Kristen_Stewart/cl_afkTCTYs_0000007 181.5 187.9 

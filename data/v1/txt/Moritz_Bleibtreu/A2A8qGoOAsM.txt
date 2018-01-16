@@ -1,0 +1,9 @@
+POI: 			Moritz_Bleibtreu 
+Youtube ID: 	A2A8qGoOAsM 
+Video length: 	575.9 sec 
+Set (V): 		dev 
+ 
+Moritz_Bleibtreu/A2A8qGoOAsM_0000001 184.5 189.7 
+Moritz_Bleibtreu/A2A8qGoOAsM_0000002 474.6 479.2 
+Moritz_Bleibtreu/A2A8qGoOAsM_0000003 489.6 493.9 
+Moritz_Bleibtreu/A2A8qGoOAsM_0000004 494.7 499.6 

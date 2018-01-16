@@ -1,0 +1,29 @@
+POI: 			Janice_Dickinson 
+Youtube ID: 	jTFbjNt7qI0 
+Video length: 	660.8 sec 
+Set (V): 		dev 
+ 
+Janice_Dickinson/jTFbjNt7qI0_0000001 31.4 35.5 
+Janice_Dickinson/jTFbjNt7qI0_0000002 42.0 48.6 
+Janice_Dickinson/jTFbjNt7qI0_0000003 70.4 75.5 
+Janice_Dickinson/jTFbjNt7qI0_0000004 106.8 113.8 
+Janice_Dickinson/jTFbjNt7qI0_0000005 155.2 161.9 
+Janice_Dickinson/jTFbjNt7qI0_0000006 175.9 181.6 
+Janice_Dickinson/jTFbjNt7qI0_0000007 214.4 219.4 
+Janice_Dickinson/jTFbjNt7qI0_0000008 263.5 269.3 
+Janice_Dickinson/jTFbjNt7qI0_0000009 281.8 288.2 
+Janice_Dickinson/jTFbjNt7qI0_0000010 366.4 376.0 
+Janice_Dickinson/jTFbjNt7qI0_0000011 406.2 414.0 
+Janice_Dickinson/jTFbjNt7qI0_0000012 429.5 434.5 
+Janice_Dickinson/jTFbjNt7qI0_0000013 448.6 457.4 
+Janice_Dickinson/jTFbjNt7qI0_0000014 458.4 464.6 
+Janice_Dickinson/jTFbjNt7qI0_0000015 458.4 465.6 
+Janice_Dickinson/jTFbjNt7qI0_0000016 487.9 492.1 
+Janice_Dickinson/jTFbjNt7qI0_0000017 519.2 525.2 
+Janice_Dickinson/jTFbjNt7qI0_0000018 531.3 537.5 
+Janice_Dickinson/jTFbjNt7qI0_0000019 556.5 560.5 
+Janice_Dickinson/jTFbjNt7qI0_0000020 580.4 585.6 
+Janice_Dickinson/jTFbjNt7qI0_0000021 589.4 599.3 
+Janice_Dickinson/jTFbjNt7qI0_0000022 602.1 607.9 
+Janice_Dickinson/jTFbjNt7qI0_0000023 610.3 619.6 
+Janice_Dickinson/jTFbjNt7qI0_0000024 626.5 638.0 

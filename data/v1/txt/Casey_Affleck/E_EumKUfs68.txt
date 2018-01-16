@@ -1,0 +1,9 @@
+POI: 			Casey_Affleck 
+Youtube ID: 	E_EumKUfs68 
+Video length: 	468.3 sec 
+Set (V): 		dev 
+ 
+Casey_Affleck/E_EumKUfs68_0000001 208.6 214.8 
+Casey_Affleck/E_EumKUfs68_0000002 346.4 351.4 
+Casey_Affleck/E_EumKUfs68_0000003 445.4 452.5 
+Casey_Affleck/E_EumKUfs68_0000004 459.1 463.6 

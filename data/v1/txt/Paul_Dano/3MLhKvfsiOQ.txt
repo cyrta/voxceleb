@@ -1,0 +1,15 @@
+POI: 			Paul_Dano 
+Youtube ID: 	3MLhKvfsiOQ 
+Video length: 	247.1 sec 
+Set (V): 		dev 
+ 
+Paul_Dano/3MLhKvfsiOQ_0000001 14.4 36.6 
+Paul_Dano/3MLhKvfsiOQ_0000002 53.3 57.7 
+Paul_Dano/3MLhKvfsiOQ_0000003 58.5 71.5 
+Paul_Dano/3MLhKvfsiOQ_0000004 72.6 95.9 
+Paul_Dano/3MLhKvfsiOQ_0000005 103.5 125.9 
+Paul_Dano/3MLhKvfsiOQ_0000006 158.1 172.6 
+Paul_Dano/3MLhKvfsiOQ_0000007 172.8 181.8 
+Paul_Dano/3MLhKvfsiOQ_0000008 208.2 225.1 
+Paul_Dano/3MLhKvfsiOQ_0000009 226.0 231.6 
+Paul_Dano/3MLhKvfsiOQ_0000010 233.7 239.2 

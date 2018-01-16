@@ -1,0 +1,7 @@
+POI: 			Melissa_Leo 
+Youtube ID: 	3p5JNyJd5zE 
+Video length: 	362.8 sec 
+Set (V): 		dev 
+ 
+Melissa_Leo/3p5JNyJd5zE_0000001 47.3 63.2 
+Melissa_Leo/3p5JNyJd5zE_0000002 91.2 96.0 

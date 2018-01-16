@@ -1,0 +1,9 @@
+POI: 			Mary_McDonnell 
+Youtube ID: 	nV-TH4aW-eo 
+Video length: 	801.2 sec 
+Set (V): 		dev 
+ 
+Mary_McDonnell/nV-TH4aW-eo_0000001 290.2 294.2 
+Mary_McDonnell/nV-TH4aW-eo_0000002 408.8 413.2 
+Mary_McDonnell/nV-TH4aW-eo_0000003 508.4 513.5 
+Mary_McDonnell/nV-TH4aW-eo_0000004 768.0 773.2 

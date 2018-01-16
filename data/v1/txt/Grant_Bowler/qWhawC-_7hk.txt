@@ -1,0 +1,10 @@
+POI: 			Grant_Bowler 
+Youtube ID: 	qWhawC-_7hk 
+Video length: 	346.0 sec 
+Set (V): 		dev 
+ 
+Grant_Bowler/qWhawC-_7hk_0000001 252.8 258.2 
+Grant_Bowler/qWhawC-_7hk_0000002 258.6 266.6 
+Grant_Bowler/qWhawC-_7hk_0000003 296.1 300.6 
+Grant_Bowler/qWhawC-_7hk_0000004 304.1 309.8 
+Grant_Bowler/qWhawC-_7hk_0000005 311.6 316.4 

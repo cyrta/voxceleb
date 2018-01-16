@@ -1,0 +1,19 @@
+POI: 			Florence_Henderson 
+Youtube ID: 	qnZCaMeoU8o 
+Video length: 	244.4 sec 
+Set (V): 		dev 
+ 
+Florence_Henderson/qnZCaMeoU8o_0000001 08.8 18.4 
+Florence_Henderson/qnZCaMeoU8o_0000002 28.4 59.6 
+Florence_Henderson/qnZCaMeoU8o_0000003 61.0 69.1 
+Florence_Henderson/qnZCaMeoU8o_0000004 73.5 89.7 
+Florence_Henderson/qnZCaMeoU8o_0000005 97.3 103.4 
+Florence_Henderson/qnZCaMeoU8o_0000006 118.8 124.9 
+Florence_Henderson/qnZCaMeoU8o_0000007 126.6 131.2 
+Florence_Henderson/qnZCaMeoU8o_0000008 137.2 160.6 
+Florence_Henderson/qnZCaMeoU8o_0000009 161.0 167.4 
+Florence_Henderson/qnZCaMeoU8o_0000010 168.1 175.6 
+Florence_Henderson/qnZCaMeoU8o_0000011 178.5 192.3 
+Florence_Henderson/qnZCaMeoU8o_0000012 195.0 206.4 
+Florence_Henderson/qnZCaMeoU8o_0000013 206.9 213.4 
+Florence_Henderson/qnZCaMeoU8o_0000014 215.3 221.0 

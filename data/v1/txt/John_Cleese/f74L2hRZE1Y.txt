@@ -1,0 +1,6 @@
+POI: 			John_Cleese 
+Youtube ID: 	f74L2hRZE1Y 
+Video length: 	230.9 sec 
+Set (V): 		dev 
+ 
+John_Cleese/f74L2hRZE1Y_0000001 70.8 75.4 

@@ -1,0 +1,18 @@
+POI: 			Douglas_Booth 
+Youtube ID: 	TEqSqk4HYsM 
+Video length: 	417.2 sec 
+Set (V): 		dev 
+ 
+Douglas_Booth/TEqSqk4HYsM_0000001 44.5 81.4 
+Douglas_Booth/TEqSqk4HYsM_0000002 81.6 85.6 
+Douglas_Booth/TEqSqk4HYsM_0000003 114.6 130.0 
+Douglas_Booth/TEqSqk4HYsM_0000004 181.4 187.6 
+Douglas_Booth/TEqSqk4HYsM_0000005 219.7 223.7 
+Douglas_Booth/TEqSqk4HYsM_0000006 231.4 236.1 
+Douglas_Booth/TEqSqk4HYsM_0000007 236.6 245.9 
+Douglas_Booth/TEqSqk4HYsM_0000008 281.0 285.5 
+Douglas_Booth/TEqSqk4HYsM_0000009 296.0 302.4 
+Douglas_Booth/TEqSqk4HYsM_0000010 303.2 312.1 
+Douglas_Booth/TEqSqk4HYsM_0000011 317.7 337.1 
+Douglas_Booth/TEqSqk4HYsM_0000012 355.0 382.2 
+Douglas_Booth/TEqSqk4HYsM_0000013 386.2 392.9 

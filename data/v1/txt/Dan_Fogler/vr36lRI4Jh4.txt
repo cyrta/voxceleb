@@ -1,0 +1,24 @@
+POI: 			Dan_Fogler 
+Youtube ID: 	vr36lRI4Jh4 
+Video length: 	511.8 sec 
+Set (V): 		dev 
+ 
+Dan_Fogler/vr36lRI4Jh4_0000001 87.8 96.0 
+Dan_Fogler/vr36lRI4Jh4_0000002 96.2 100.2 
+Dan_Fogler/vr36lRI4Jh4_0000003 104.3 118.6 
+Dan_Fogler/vr36lRI4Jh4_0000004 122.0 131.4 
+Dan_Fogler/vr36lRI4Jh4_0000005 149.4 153.4 
+Dan_Fogler/vr36lRI4Jh4_0000006 157.2 168.4 
+Dan_Fogler/vr36lRI4Jh4_0000007 185.5 200.3 
+Dan_Fogler/vr36lRI4Jh4_0000008 232.0 237.0 
+Dan_Fogler/vr36lRI4Jh4_0000009 242.5 246.7 
+Dan_Fogler/vr36lRI4Jh4_0000010 273.7 280.2 
+Dan_Fogler/vr36lRI4Jh4_0000011 302.7 326.6 
+Dan_Fogler/vr36lRI4Jh4_0000012 328.1 346.5 
+Dan_Fogler/vr36lRI4Jh4_0000013 349.8 354.0 
+Dan_Fogler/vr36lRI4Jh4_0000014 393.1 399.3 
+Dan_Fogler/vr36lRI4Jh4_0000015 399.8 405.1 
+Dan_Fogler/vr36lRI4Jh4_0000016 426.4 431.2 
+Dan_Fogler/vr36lRI4Jh4_0000017 437.0 441.1 
+Dan_Fogler/vr36lRI4Jh4_0000018 456.0 477.4 
+Dan_Fogler/vr36lRI4Jh4_0000019 478.2 487.6 

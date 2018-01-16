@@ -1,0 +1,10 @@
+POI: 			William_Fichtner 
+Youtube ID: 	bC4XRYBKVGM 
+Video length: 	159.0 sec 
+Set (V): 		dev 
+ 
+William_Fichtner/bC4XRYBKVGM_0000001 25.2 31.6 
+William_Fichtner/bC4XRYBKVGM_0000002 69.5 75.2 
+William_Fichtner/bC4XRYBKVGM_0000003 76.2 83.3 
+William_Fichtner/bC4XRYBKVGM_0000004 85.2 89.2 
+William_Fichtner/bC4XRYBKVGM_0000005 111.7 116.5 

@@ -1,0 +1,7 @@
+POI: 			David_Schwimmer 
+Youtube ID: 	JCT_OTEPBQU 
+Video length: 	157.2 sec 
+Set (V): 		dev 
+ 
+David_Schwimmer/JCT_OTEPBQU_0000001 35.2 40.6 
+David_Schwimmer/JCT_OTEPBQU_0000002 150.0 154.0 

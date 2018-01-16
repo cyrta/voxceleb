@@ -1,0 +1,8 @@
+POI: 			Richard_Kind 
+Youtube ID: 	4DpXrT_LnF4 
+Video length: 	490.7 sec 
+Set (V): 		dev 
+ 
+Richard_Kind/4DpXrT_LnF4_0000001 115.9 123.0 
+Richard_Kind/4DpXrT_LnF4_0000002 392.7 401.9 
+Richard_Kind/4DpXrT_LnF4_0000003 403.0 407.3 

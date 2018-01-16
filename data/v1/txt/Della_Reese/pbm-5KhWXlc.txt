@@ -1,0 +1,15 @@
+POI: 			Della_Reese 
+Youtube ID: 	pbm-5KhWXlc 
+Video length: 	184.9 sec 
+Set (V): 		dev 
+ 
+Della_Reese/pbm-5KhWXlc_0000001 02.0 06.2 
+Della_Reese/pbm-5KhWXlc_0000002 20.6 30.6 
+Della_Reese/pbm-5KhWXlc_0000003 31.5 36.4 
+Della_Reese/pbm-5KhWXlc_0000004 47.3 53.0 
+Della_Reese/pbm-5KhWXlc_0000005 62.4 75.1 
+Della_Reese/pbm-5KhWXlc_0000006 75.6 81.4 
+Della_Reese/pbm-5KhWXlc_0000007 81.8 86.3 
+Della_Reese/pbm-5KhWXlc_0000008 87.8 99.3 
+Della_Reese/pbm-5KhWXlc_0000009 102.7 108.8 
+Della_Reese/pbm-5KhWXlc_0000010 136.6 162.2 

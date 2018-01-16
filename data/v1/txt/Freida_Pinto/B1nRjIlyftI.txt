@@ -1,0 +1,11 @@
+POI: 			Freida_Pinto 
+Youtube ID: 	B1nRjIlyftI 
+Video length: 	399.8 sec 
+Set (V): 		dev 
+ 
+Freida_Pinto/B1nRjIlyftI_0000001 24.4 28.8 
+Freida_Pinto/B1nRjIlyftI_0000002 116.9 122.1 
+Freida_Pinto/B1nRjIlyftI_0000003 154.8 167.9 
+Freida_Pinto/B1nRjIlyftI_0000004 170.7 175.1 
+Freida_Pinto/B1nRjIlyftI_0000005 263.1 268.2 
+Freida_Pinto/B1nRjIlyftI_0000006 308.1 314.8 

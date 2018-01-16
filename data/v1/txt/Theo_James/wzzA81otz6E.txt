@@ -1,0 +1,17 @@
+POI: 			Theo_James 
+Youtube ID: 	wzzA81otz6E 
+Video length: 	313.5 sec 
+Set (V): 		dev 
+ 
+Theo_James/wzzA81otz6E_0000001 34.9 39.1 
+Theo_James/wzzA81otz6E_0000002 71.3 80.7 
+Theo_James/wzzA81otz6E_0000003 81.6 86.7 
+Theo_James/wzzA81otz6E_0000004 114.3 128.3 
+Theo_James/wzzA81otz6E_0000005 128.8 136.9 
+Theo_James/wzzA81otz6E_0000006 138.3 143.4 
+Theo_James/wzzA81otz6E_0000007 170.6 175.5 
+Theo_James/wzzA81otz6E_0000008 176.8 181.0 
+Theo_James/wzzA81otz6E_0000009 197.9 202.7 
+Theo_James/wzzA81otz6E_0000010 220.8 225.5 
+Theo_James/wzzA81otz6E_0000011 261.2 274.2 
+Theo_James/wzzA81otz6E_0000012 275.2 279.2 

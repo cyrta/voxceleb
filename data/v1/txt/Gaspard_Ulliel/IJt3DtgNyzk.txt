@@ -1,0 +1,14 @@
+POI: 			Gaspard_Ulliel 
+Youtube ID: 	IJt3DtgNyzk 
+Video length: 	316.6 sec 
+Set (V): 		dev 
+ 
+Gaspard_Ulliel/IJt3DtgNyzk_0000001 40.6 45.9 
+Gaspard_Ulliel/IJt3DtgNyzk_0000002 76.1 80.9 
+Gaspard_Ulliel/IJt3DtgNyzk_0000003 88.4 93.4 
+Gaspard_Ulliel/IJt3DtgNyzk_0000004 110.9 117.0 
+Gaspard_Ulliel/IJt3DtgNyzk_0000005 129.1 135.3 
+Gaspard_Ulliel/IJt3DtgNyzk_0000006 172.0 177.5 
+Gaspard_Ulliel/IJt3DtgNyzk_0000007 187.6 191.9 
+Gaspard_Ulliel/IJt3DtgNyzk_0000008 226.4 230.9 
+Gaspard_Ulliel/IJt3DtgNyzk_0000009 294.8 301.6 

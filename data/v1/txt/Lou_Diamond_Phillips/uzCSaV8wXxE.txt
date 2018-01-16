@@ -1,0 +1,13 @@
+POI: 			Lou_Diamond_Phillips 
+Youtube ID: 	uzCSaV8wXxE 
+Video length: 	565.7 sec 
+Set (V): 		dev 
+ 
+Lou_Diamond_Phillips/uzCSaV8wXxE_0000001 106.0 136.7 
+Lou_Diamond_Phillips/uzCSaV8wXxE_0000002 137.4 141.8 
+Lou_Diamond_Phillips/uzCSaV8wXxE_0000003 142.6 147.0 
+Lou_Diamond_Phillips/uzCSaV8wXxE_0000004 287.8 298.9 
+Lou_Diamond_Phillips/uzCSaV8wXxE_0000005 299.2 330.4 
+Lou_Diamond_Phillips/uzCSaV8wXxE_0000006 330.5 358.0 
+Lou_Diamond_Phillips/uzCSaV8wXxE_0000007 413.0 435.9 
+Lou_Diamond_Phillips/uzCSaV8wXxE_0000008 436.1 449.4 

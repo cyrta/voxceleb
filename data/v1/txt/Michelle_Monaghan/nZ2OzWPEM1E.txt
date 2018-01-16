@@ -1,0 +1,9 @@
+POI: 			Michelle_Monaghan 
+Youtube ID: 	nZ2OzWPEM1E 
+Video length: 	168.4 sec 
+Set (V): 		dev 
+ 
+Michelle_Monaghan/nZ2OzWPEM1E_0000001 36.0 47.0 
+Michelle_Monaghan/nZ2OzWPEM1E_0000002 54.1 60.7 
+Michelle_Monaghan/nZ2OzWPEM1E_0000003 61.6 65.6 
+Michelle_Monaghan/nZ2OzWPEM1E_0000004 134.6 148.9 

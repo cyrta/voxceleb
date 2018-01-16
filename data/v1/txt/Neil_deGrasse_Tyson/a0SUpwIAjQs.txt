@@ -1,0 +1,18 @@
+POI: 			Neil_deGrasse_Tyson 
+Youtube ID: 	a0SUpwIAjQs 
+Video length: 	348.7 sec 
+Set (V): 		dev 
+ 
+Neil_deGrasse_Tyson/a0SUpwIAjQs_0000001 14.9 21.4 
+Neil_deGrasse_Tyson/a0SUpwIAjQs_0000002 110.0 116.7 
+Neil_deGrasse_Tyson/a0SUpwIAjQs_0000003 121.4 127.0 
+Neil_deGrasse_Tyson/a0SUpwIAjQs_0000004 133.6 140.2 
+Neil_deGrasse_Tyson/a0SUpwIAjQs_0000005 143.8 149.6 
+Neil_deGrasse_Tyson/a0SUpwIAjQs_0000006 165.8 177.4 
+Neil_deGrasse_Tyson/a0SUpwIAjQs_0000007 171.2 179.2 
+Neil_deGrasse_Tyson/a0SUpwIAjQs_0000008 225.6 231.5 
+Neil_deGrasse_Tyson/a0SUpwIAjQs_0000009 238.1 247.1 
+Neil_deGrasse_Tyson/a0SUpwIAjQs_0000010 247.7 253.4 
+Neil_deGrasse_Tyson/a0SUpwIAjQs_0000011 286.5 291.4 
+Neil_deGrasse_Tyson/a0SUpwIAjQs_0000012 311.1 315.3 
+Neil_deGrasse_Tyson/a0SUpwIAjQs_0000013 318.6 325.0 

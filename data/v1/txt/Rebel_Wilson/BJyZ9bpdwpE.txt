@@ -1,0 +1,7 @@
+POI: 			Rebel_Wilson 
+Youtube ID: 	BJyZ9bpdwpE 
+Video length: 	260.2 sec 
+Set (V): 		dev 
+ 
+Rebel_Wilson/BJyZ9bpdwpE_0000001 34.0 38.9 
+Rebel_Wilson/BJyZ9bpdwpE_0000002 125.4 129.7 

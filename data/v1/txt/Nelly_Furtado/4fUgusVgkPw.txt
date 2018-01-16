@@ -1,0 +1,9 @@
+POI: 			Nelly_Furtado 
+Youtube ID: 	4fUgusVgkPw 
+Video length: 	588.9 sec 
+Set (V): 		dev 
+ 
+Nelly_Furtado/4fUgusVgkPw_0000001 144.8 149.1 
+Nelly_Furtado/4fUgusVgkPw_0000002 171.4 176.9 
+Nelly_Furtado/4fUgusVgkPw_0000003 209.9 215.5 
+Nelly_Furtado/4fUgusVgkPw_0000004 224.4 233.8 

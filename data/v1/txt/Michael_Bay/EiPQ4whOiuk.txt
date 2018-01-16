@@ -1,0 +1,18 @@
+POI: 			Michael_Bay 
+Youtube ID: 	EiPQ4whOiuk 
+Video length: 	263.5 sec 
+Set (V): 		dev 
+ 
+Michael_Bay/EiPQ4whOiuk_0000001 44.0 49.0 
+Michael_Bay/EiPQ4whOiuk_0000002 52.4 57.3 
+Michael_Bay/EiPQ4whOiuk_0000003 61.8 67.8 
+Michael_Bay/EiPQ4whOiuk_0000004 71.6 77.0 
+Michael_Bay/EiPQ4whOiuk_0000005 84.5 88.8 
+Michael_Bay/EiPQ4whOiuk_0000006 90.3 100.9 
+Michael_Bay/EiPQ4whOiuk_0000007 116.5 123.7 
+Michael_Bay/EiPQ4whOiuk_0000008 124.5 128.4 
+Michael_Bay/EiPQ4whOiuk_0000009 145.7 153.2 
+Michael_Bay/EiPQ4whOiuk_0000010 153.6 161.0 
+Michael_Bay/EiPQ4whOiuk_0000011 183.3 190.0 
+Michael_Bay/EiPQ4whOiuk_0000012 215.6 221.0 
+Michael_Bay/EiPQ4whOiuk_0000013 236.3 244.2 

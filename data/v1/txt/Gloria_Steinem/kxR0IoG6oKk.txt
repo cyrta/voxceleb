@@ -1,0 +1,14 @@
+POI: 			Gloria_Steinem 
+Youtube ID: 	kxR0IoG6oKk 
+Video length: 	112.4 sec 
+Set (V): 		dev 
+ 
+Gloria_Steinem/kxR0IoG6oKk_0000001 07.7 12.8 
+Gloria_Steinem/kxR0IoG6oKk_0000002 13.9 19.9 
+Gloria_Steinem/kxR0IoG6oKk_0000003 22.4 31.9 
+Gloria_Steinem/kxR0IoG6oKk_0000004 33.6 42.1 
+Gloria_Steinem/kxR0IoG6oKk_0000005 61.8 66.1 
+Gloria_Steinem/kxR0IoG6oKk_0000006 66.4 74.4 
+Gloria_Steinem/kxR0IoG6oKk_0000007 76.8 90.1 
+Gloria_Steinem/kxR0IoG6oKk_0000008 90.6 99.0 
+Gloria_Steinem/kxR0IoG6oKk_0000009 106.9 111.0 

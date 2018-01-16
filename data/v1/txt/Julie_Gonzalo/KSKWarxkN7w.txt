@@ -1,0 +1,11 @@
+POI: 			Julie_Gonzalo 
+Youtube ID: 	KSKWarxkN7w 
+Video length: 	350.7 sec 
+Set (V): 		dev 
+ 
+Julie_Gonzalo/KSKWarxkN7w_0000001 70.1 79.0 
+Julie_Gonzalo/KSKWarxkN7w_0000002 137.5 144.4 
+Julie_Gonzalo/KSKWarxkN7w_0000003 198.1 202.3 
+Julie_Gonzalo/KSKWarxkN7w_0000004 224.7 230.6 
+Julie_Gonzalo/KSKWarxkN7w_0000005 236.9 244.4 
+Julie_Gonzalo/KSKWarxkN7w_0000006 250.4 255.9 

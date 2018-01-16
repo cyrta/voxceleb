@@ -1,0 +1,9 @@
+POI: 			Luke_Arnold 
+Youtube ID: 	Mw3T9_i3t9U 
+Video length: 	244.1 sec 
+Set (V): 		dev 
+ 
+Luke_Arnold/Mw3T9_i3t9U_0000001 44.1 65.2 
+Luke_Arnold/Mw3T9_i3t9U_0000002 80.0 125.0 
+Luke_Arnold/Mw3T9_i3t9U_0000003 156.9 185.4 
+Luke_Arnold/Mw3T9_i3t9U_0000004 183.0 200.2 

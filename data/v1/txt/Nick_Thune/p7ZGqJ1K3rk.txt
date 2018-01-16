@@ -1,0 +1,12 @@
+POI: 			Nick_Thune 
+Youtube ID: 	p7ZGqJ1K3rk 
+Video length: 	1133.0 sec 
+Set (V): 		dev 
+ 
+Nick_Thune/p7ZGqJ1K3rk_0000001 60.6 68.1 
+Nick_Thune/p7ZGqJ1K3rk_0000002 100.9 108.4 
+Nick_Thune/p7ZGqJ1K3rk_0000003 214.0 220.6 
+Nick_Thune/p7ZGqJ1K3rk_0000004 294.9 299.4 
+Nick_Thune/p7ZGqJ1K3rk_0000005 565.6 587.4 
+Nick_Thune/p7ZGqJ1K3rk_0000006 827.6 834.7 
+Nick_Thune/p7ZGqJ1K3rk_0000007 1007.0 1011.4 

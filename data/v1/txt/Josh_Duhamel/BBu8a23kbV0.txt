@@ -1,0 +1,8 @@
+POI: 			Josh_Duhamel 
+Youtube ID: 	BBu8a23kbV0 
+Video length: 	348.4 sec 
+Set (V): 		dev 
+ 
+Josh_Duhamel/BBu8a23kbV0_0000001 113.6 122.6 
+Josh_Duhamel/BBu8a23kbV0_0000002 131.8 135.9 
+Josh_Duhamel/BBu8a23kbV0_0000003 140.0 148.6 

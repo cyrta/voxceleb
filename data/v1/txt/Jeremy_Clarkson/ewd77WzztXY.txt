@@ -1,0 +1,7 @@
+POI: 			Jeremy_Clarkson 
+Youtube ID: 	ewd77WzztXY 
+Video length: 	715.4 sec 
+Set (V): 		dev 
+ 
+Jeremy_Clarkson/ewd77WzztXY_0000001 45.8 52.8 
+Jeremy_Clarkson/ewd77WzztXY_0000002 539.1 543.1 

@@ -1,0 +1,15 @@
+POI: 			Yeardley_Smith 
+Youtube ID: 	3M-MKKnBQ4s 
+Video length: 	303.7 sec 
+Set (V): 		dev 
+ 
+Yeardley_Smith/3M-MKKnBQ4s_0000001 13.1 18.2 
+Yeardley_Smith/3M-MKKnBQ4s_0000002 20.9 29.8 
+Yeardley_Smith/3M-MKKnBQ4s_0000003 74.6 82.3 
+Yeardley_Smith/3M-MKKnBQ4s_0000004 83.8 90.6 
+Yeardley_Smith/3M-MKKnBQ4s_0000005 111.7 118.4 
+Yeardley_Smith/3M-MKKnBQ4s_0000006 184.5 188.8 
+Yeardley_Smith/3M-MKKnBQ4s_0000007 190.1 195.7 
+Yeardley_Smith/3M-MKKnBQ4s_0000008 200.3 204.6 
+Yeardley_Smith/3M-MKKnBQ4s_0000009 280.1 285.6 
+Yeardley_Smith/3M-MKKnBQ4s_0000010 286.6 293.3 

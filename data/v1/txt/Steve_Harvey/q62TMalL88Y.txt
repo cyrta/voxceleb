@@ -1,0 +1,11 @@
+POI: 			Steve_Harvey 
+Youtube ID: 	q62TMalL88Y 
+Video length: 	416.8 sec 
+Set (V): 		dev 
+ 
+Steve_Harvey/q62TMalL88Y_0000001 01.0 06.7 
+Steve_Harvey/q62TMalL88Y_0000002 07.0 16.0 
+Steve_Harvey/q62TMalL88Y_0000003 269.4 280.7 
+Steve_Harvey/q62TMalL88Y_0000004 295.8 300.9 
+Steve_Harvey/q62TMalL88Y_0000005 311.7 328.9 
+Steve_Harvey/q62TMalL88Y_0000006 372.4 380.8 

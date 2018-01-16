@@ -1,0 +1,35 @@
+POI: 			Gates_McFadden 
+Youtube ID: 	EXBuk_FwHu0 
+Video length: 	525.6 sec 
+Set (V): 		dev 
+ 
+Gates_McFadden/EXBuk_FwHu0_0000001 17.7 21.8 
+Gates_McFadden/EXBuk_FwHu0_0000002 33.0 39.6 
+Gates_McFadden/EXBuk_FwHu0_0000003 40.6 47.1 
+Gates_McFadden/EXBuk_FwHu0_0000004 49.7 57.6 
+Gates_McFadden/EXBuk_FwHu0_0000005 68.9 74.1 
+Gates_McFadden/EXBuk_FwHu0_0000006 77.7 91.2 
+Gates_McFadden/EXBuk_FwHu0_0000007 110.1 115.1 
+Gates_McFadden/EXBuk_FwHu0_0000008 115.8 120.7 
+Gates_McFadden/EXBuk_FwHu0_0000009 123.7 129.5 
+Gates_McFadden/EXBuk_FwHu0_0000010 133.8 138.6 
+Gates_McFadden/EXBuk_FwHu0_0000011 143.5 148.7 
+Gates_McFadden/EXBuk_FwHu0_0000012 160.5 165.1 
+Gates_McFadden/EXBuk_FwHu0_0000013 166.4 178.2 
+Gates_McFadden/EXBuk_FwHu0_0000014 197.7 207.3 
+Gates_McFadden/EXBuk_FwHu0_0000015 213.2 221.7 
+Gates_McFadden/EXBuk_FwHu0_0000016 222.3 226.5 
+Gates_McFadden/EXBuk_FwHu0_0000017 226.8 239.7 
+Gates_McFadden/EXBuk_FwHu0_0000018 245.4 251.8 
+Gates_McFadden/EXBuk_FwHu0_0000019 257.2 261.9 
+Gates_McFadden/EXBuk_FwHu0_0000020 275.5 281.0 
+Gates_McFadden/EXBuk_FwHu0_0000021 292.9 303.4 
+Gates_McFadden/EXBuk_FwHu0_0000022 326.0 337.9 
+Gates_McFadden/EXBuk_FwHu0_0000023 338.7 351.7 
+Gates_McFadden/EXBuk_FwHu0_0000024 378.3 386.5 
+Gates_McFadden/EXBuk_FwHu0_0000025 420.1 425.4 
+Gates_McFadden/EXBuk_FwHu0_0000026 425.7 430.9 
+Gates_McFadden/EXBuk_FwHu0_0000027 433.9 442.6 
+Gates_McFadden/EXBuk_FwHu0_0000028 456.3 461.7 
+Gates_McFadden/EXBuk_FwHu0_0000029 473.2 480.0 
+Gates_McFadden/EXBuk_FwHu0_0000030 481.1 488.6 

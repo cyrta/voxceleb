@@ -1,0 +1,14 @@
+POI: 			William_Baldwin 
+Youtube ID: 	tlDKDkmGqMY 
+Video length: 	260.8 sec 
+Set (V): 		dev 
+ 
+William_Baldwin/tlDKDkmGqMY_0000001 30.4 46.3 
+William_Baldwin/tlDKDkmGqMY_0000002 55.9 64.6 
+William_Baldwin/tlDKDkmGqMY_0000003 68.9 79.7 
+William_Baldwin/tlDKDkmGqMY_0000004 80.6 86.4 
+William_Baldwin/tlDKDkmGqMY_0000005 140.7 147.4 
+William_Baldwin/tlDKDkmGqMY_0000006 147.6 152.2 
+William_Baldwin/tlDKDkmGqMY_0000007 171.4 179.0 
+William_Baldwin/tlDKDkmGqMY_0000008 214.0 225.7 
+William_Baldwin/tlDKDkmGqMY_0000009 231.0 245.6 

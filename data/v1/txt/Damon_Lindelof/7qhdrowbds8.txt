@@ -1,0 +1,13 @@
+POI: 			Damon_Lindelof 
+Youtube ID: 	7qhdrowbds8 
+Video length: 	265.9 sec 
+Set (V): 		dev 
+ 
+Damon_Lindelof/7qhdrowbds8_0000001 71.9 76.8 
+Damon_Lindelof/7qhdrowbds8_0000002 97.0 104.1 
+Damon_Lindelof/7qhdrowbds8_0000003 106.2 115.0 
+Damon_Lindelof/7qhdrowbds8_0000004 117.7 129.8 
+Damon_Lindelof/7qhdrowbds8_0000005 140.7 147.8 
+Damon_Lindelof/7qhdrowbds8_0000006 152.8 157.4 
+Damon_Lindelof/7qhdrowbds8_0000007 170.0 176.8 
+Damon_Lindelof/7qhdrowbds8_0000008 223.6 228.1 

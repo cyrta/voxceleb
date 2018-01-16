@@ -1,0 +1,23 @@
+POI: 			David_Mazouz 
+Youtube ID: 	wk5rnBUUOhg 
+Video length: 	320.5 sec 
+Set (V): 		dev 
+ 
+David_Mazouz/wk5rnBUUOhg_0000001 17.1 22.6 
+David_Mazouz/wk5rnBUUOhg_0000002 56.4 62.7 
+David_Mazouz/wk5rnBUUOhg_0000003 84.2 91.2 
+David_Mazouz/wk5rnBUUOhg_0000004 117.0 124.5 
+David_Mazouz/wk5rnBUUOhg_0000005 174.3 180.7 
+David_Mazouz/wk5rnBUUOhg_0000006 198.9 204.3 
+David_Mazouz/wk5rnBUUOhg_0000007 225.2 233.3 
+David_Mazouz/wk5rnBUUOhg_0000008 234.6 243.2 
+David_Mazouz/wk5rnBUUOhg_0000009 243.6 249.4 
+David_Mazouz/wk5rnBUUOhg_0000010 84.2 95.3 
+David_Mazouz/wk5rnBUUOhg_0000011 107.1 111.3 
+David_Mazouz/wk5rnBUUOhg_0000012 116.9 127.2 
+David_Mazouz/wk5rnBUUOhg_0000013 159.6 163.7 
+David_Mazouz/wk5rnBUUOhg_0000014 195.4 203.9 
+David_Mazouz/wk5rnBUUOhg_0000015 220.4 224.7 
+David_Mazouz/wk5rnBUUOhg_0000016 225.4 230.0 
+David_Mazouz/wk5rnBUUOhg_0000017 262.0 266.1 
+David_Mazouz/wk5rnBUUOhg_0000018 268.0 272.2 

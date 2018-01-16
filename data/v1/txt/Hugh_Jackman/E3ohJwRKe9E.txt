@@ -1,0 +1,19 @@
+POI: 			Hugh_Jackman 
+Youtube ID: 	E3ohJwRKe9E 
+Video length: 	355.1 sec 
+Set (V): 		dev 
+ 
+Hugh_Jackman/E3ohJwRKe9E_0000001 56.2 63.7 
+Hugh_Jackman/E3ohJwRKe9E_0000002 68.5 92.9 
+Hugh_Jackman/E3ohJwRKe9E_0000003 94.7 105.9 
+Hugh_Jackman/E3ohJwRKe9E_0000004 106.4 112.1 
+Hugh_Jackman/E3ohJwRKe9E_0000005 131.4 135.8 
+Hugh_Jackman/E3ohJwRKe9E_0000006 136.6 147.4 
+Hugh_Jackman/E3ohJwRKe9E_0000007 148.4 160.3 
+Hugh_Jackman/E3ohJwRKe9E_0000008 160.7 166.8 
+Hugh_Jackman/E3ohJwRKe9E_0000009 167.0 183.1 
+Hugh_Jackman/E3ohJwRKe9E_0000010 216.9 221.0 
+Hugh_Jackman/E3ohJwRKe9E_0000011 238.8 260.1 
+Hugh_Jackman/E3ohJwRKe9E_0000012 261.6 266.7 
+Hugh_Jackman/E3ohJwRKe9E_0000013 269.1 276.2 
+Hugh_Jackman/E3ohJwRKe9E_0000014 304.8 315.1 

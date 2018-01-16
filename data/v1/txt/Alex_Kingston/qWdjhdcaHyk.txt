@@ -1,0 +1,10 @@
+POI: 			Alex_Kingston 
+Youtube ID: 	qWdjhdcaHyk 
+Video length: 	438.0 sec 
+Set (V): 		dev 
+ 
+Alex_Kingston/qWdjhdcaHyk_0000001 215.5 219.7 
+Alex_Kingston/qWdjhdcaHyk_0000002 357.1 369.1 
+Alex_Kingston/qWdjhdcaHyk_0000003 376.9 389.8 
+Alex_Kingston/qWdjhdcaHyk_0000004 390.3 396.0 
+Alex_Kingston/qWdjhdcaHyk_0000005 412.0 433.4 

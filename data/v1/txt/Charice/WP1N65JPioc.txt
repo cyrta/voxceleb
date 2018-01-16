@@ -1,0 +1,7 @@
+POI: 			Charice 
+Youtube ID: 	WP1N65JPioc 
+Video length: 	60.2 sec 
+Set (V): 		dev 
+ 
+Charice/WP1N65JPioc_0000001 09.1 17.3 
+Charice/WP1N65JPioc_0000002 40.6 47.1 

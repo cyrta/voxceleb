@@ -1,0 +1,9 @@
+POI: 			Rooney_Mara 
+Youtube ID: 	5bGegGMNr84 
+Video length: 	139.3 sec 
+Set (V): 		dev 
+ 
+Rooney_Mara/5bGegGMNr84_0000001 49.7 53.8 
+Rooney_Mara/5bGegGMNr84_0000002 54.6 62.6 
+Rooney_Mara/5bGegGMNr84_0000003 71.4 76.4 
+Rooney_Mara/5bGegGMNr84_0000004 124.1 133.7 

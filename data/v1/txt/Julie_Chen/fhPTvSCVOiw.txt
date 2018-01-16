@@ -1,0 +1,9 @@
+POI: 			Julie_Chen 
+Youtube ID: 	fhPTvSCVOiw 
+Video length: 	245.2 sec 
+Set (V): 		dev 
+ 
+Julie_Chen/fhPTvSCVOiw_0000001 39.8 46.4 
+Julie_Chen/fhPTvSCVOiw_0000002 56.1 63.8 
+Julie_Chen/fhPTvSCVOiw_0000003 187.8 196.6 
+Julie_Chen/fhPTvSCVOiw_0000004 213.8 224.3 

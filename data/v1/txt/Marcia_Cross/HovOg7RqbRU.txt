@@ -1,0 +1,7 @@
+POI: 			Marcia_Cross 
+Youtube ID: 	HovOg7RqbRU 
+Video length: 	147.8 sec 
+Set (V): 		dev 
+ 
+Marcia_Cross/HovOg7RqbRU_0000001 08.4 12.6 
+Marcia_Cross/HovOg7RqbRU_0000002 14.6 19.8 

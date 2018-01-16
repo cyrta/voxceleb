@@ -1,0 +1,9 @@
+POI: 			Odette_Annable 
+Youtube ID: 	6KYKldlmy1o 
+Video length: 	115.3 sec 
+Set (V): 		dev 
+ 
+Odette_Annable/6KYKldlmy1o_0000001 33.4 39.2 
+Odette_Annable/6KYKldlmy1o_0000002 40.1 46.9 
+Odette_Annable/6KYKldlmy1o_0000003 65.3 84.8 
+Odette_Annable/6KYKldlmy1o_0000004 91.8 110.4 

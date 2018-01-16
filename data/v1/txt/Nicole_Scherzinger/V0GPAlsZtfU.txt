@@ -1,0 +1,8 @@
+POI: 			Nicole_Scherzinger 
+Youtube ID: 	V0GPAlsZtfU 
+Video length: 	387.6 sec 
+Set (V): 		dev 
+ 
+Nicole_Scherzinger/V0GPAlsZtfU_0000001 42.0 48.2 
+Nicole_Scherzinger/V0GPAlsZtfU_0000002 112.2 117.2 
+Nicole_Scherzinger/V0GPAlsZtfU_0000003 245.1 250.2 

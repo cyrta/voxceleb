@@ -1,0 +1,10 @@
+POI: 			Mary-Louise_Parker 
+Youtube ID: 	020Ug5rAGB8 
+Video length: 	524.3 sec 
+Set (V): 		dev 
+ 
+Mary-Louise_Parker/020Ug5rAGB8_0000001 121.7 127.1 
+Mary-Louise_Parker/020Ug5rAGB8_0000002 235.2 242.9 
+Mary-Louise_Parker/020Ug5rAGB8_0000003 265.0 272.9 
+Mary-Louise_Parker/020Ug5rAGB8_0000004 274.5 279.0 
+Mary-Louise_Parker/020Ug5rAGB8_0000005 389.7 396.6 

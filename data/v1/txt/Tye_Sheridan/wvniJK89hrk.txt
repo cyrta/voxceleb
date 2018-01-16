@@ -1,0 +1,7 @@
+POI: 			Tye_Sheridan 
+Youtube ID: 	wvniJK89hrk 
+Video length: 	318.8 sec 
+Set (V): 		dev 
+ 
+Tye_Sheridan/wvniJK89hrk_0000001 72.5 79.0 
+Tye_Sheridan/wvniJK89hrk_0000002 243.6 248.8 

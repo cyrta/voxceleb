@@ -1,0 +1,42 @@
+POI: 			Aaron_Tveit 
+Youtube ID: 	lu_eVSfv3Tg 
+Video length: 	1026.0 sec 
+Set (V): 		dev 
+ 
+Aaron_Tveit/lu_eVSfv3Tg_0000001 40.2 44.4 
+Aaron_Tveit/lu_eVSfv3Tg_0000002 45.3 49.8 
+Aaron_Tveit/lu_eVSfv3Tg_0000003 50.0 55.0 
+Aaron_Tveit/lu_eVSfv3Tg_0000004 71.0 82.3 
+Aaron_Tveit/lu_eVSfv3Tg_0000005 92.9 98.3 
+Aaron_Tveit/lu_eVSfv3Tg_0000006 126.1 132.5 
+Aaron_Tveit/lu_eVSfv3Tg_0000007 148.5 152.5 
+Aaron_Tveit/lu_eVSfv3Tg_0000008 225.4 235.3 
+Aaron_Tveit/lu_eVSfv3Tg_0000009 250.7 261.8 
+Aaron_Tveit/lu_eVSfv3Tg_0000010 285.1 300.8 
+Aaron_Tveit/lu_eVSfv3Tg_0000011 311.3 323.4 
+Aaron_Tveit/lu_eVSfv3Tg_0000012 327.2 337.4 
+Aaron_Tveit/lu_eVSfv3Tg_0000013 346.0 355.1 
+Aaron_Tveit/lu_eVSfv3Tg_0000014 356.9 368.5 
+Aaron_Tveit/lu_eVSfv3Tg_0000015 376.3 381.2 
+Aaron_Tveit/lu_eVSfv3Tg_0000016 390.0 400.0 
+Aaron_Tveit/lu_eVSfv3Tg_0000017 400.4 407.8 
+Aaron_Tveit/lu_eVSfv3Tg_0000018 494.1 502.7 
+Aaron_Tveit/lu_eVSfv3Tg_0000019 541.6 555.0 
+Aaron_Tveit/lu_eVSfv3Tg_0000020 559.2 570.5 
+Aaron_Tveit/lu_eVSfv3Tg_0000021 590.3 600.0 
+Aaron_Tveit/lu_eVSfv3Tg_0000022 611.0 621.1 
+Aaron_Tveit/lu_eVSfv3Tg_0000023 621.3 626.6 
+Aaron_Tveit/lu_eVSfv3Tg_0000024 635.0 642.5 
+Aaron_Tveit/lu_eVSfv3Tg_0000025 653.8 658.8 
+Aaron_Tveit/lu_eVSfv3Tg_0000026 701.6 708.1 
+Aaron_Tveit/lu_eVSfv3Tg_0000027 714.4 723.2 
+Aaron_Tveit/lu_eVSfv3Tg_0000028 730.1 737.9 
+Aaron_Tveit/lu_eVSfv3Tg_0000029 770.0 774.0 
+Aaron_Tveit/lu_eVSfv3Tg_0000030 787.2 795.8 
+Aaron_Tveit/lu_eVSfv3Tg_0000031 825.4 829.4 
+Aaron_Tveit/lu_eVSfv3Tg_0000032 838.6 852.5 
+Aaron_Tveit/lu_eVSfv3Tg_0000033 871.4 885.9 
+Aaron_Tveit/lu_eVSfv3Tg_0000034 890.3 897.6 
+Aaron_Tveit/lu_eVSfv3Tg_0000035 939.9 945.4 
+Aaron_Tveit/lu_eVSfv3Tg_0000036 982.0 986.3 
+Aaron_Tveit/lu_eVSfv3Tg_0000037 992.3 999.2 

@@ -1,0 +1,7 @@
+POI: 			Fergie 
+Youtube ID: 	tS_TyXA9Od4 
+Video length: 	177.3 sec 
+Set (V): 		dev 
+ 
+Fergie/tS_TyXA9Od4_0000001 14.9 24.5 
+Fergie/tS_TyXA9Od4_0000002 18.4 24.6 

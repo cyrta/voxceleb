@@ -1,0 +1,15 @@
+POI: 			Marla_Gibbs 
+Youtube ID: 	RFBG5xtfqqQ 
+Video length: 	356.2 sec 
+Set (V): 		dev 
+ 
+Marla_Gibbs/RFBG5xtfqqQ_0000001 109.3 130.7 
+Marla_Gibbs/RFBG5xtfqqQ_0000002 133.8 141.8 
+Marla_Gibbs/RFBG5xtfqqQ_0000003 148.1 171.5 
+Marla_Gibbs/RFBG5xtfqqQ_0000004 179.0 184.8 
+Marla_Gibbs/RFBG5xtfqqQ_0000005 185.1 194.7 
+Marla_Gibbs/RFBG5xtfqqQ_0000006 194.8 200.1 
+Marla_Gibbs/RFBG5xtfqqQ_0000007 215.4 226.1 
+Marla_Gibbs/RFBG5xtfqqQ_0000008 226.6 238.9 
+Marla_Gibbs/RFBG5xtfqqQ_0000009 249.2 268.4 
+Marla_Gibbs/RFBG5xtfqqQ_0000010 272.6 280.9 

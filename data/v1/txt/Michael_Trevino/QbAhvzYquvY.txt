@@ -1,0 +1,8 @@
+POI: 			Michael_Trevino 
+Youtube ID: 	QbAhvzYquvY 
+Video length: 	181.5 sec 
+Set (V): 		dev 
+ 
+Michael_Trevino/QbAhvzYquvY_0000001 76.2 81.2 
+Michael_Trevino/QbAhvzYquvY_0000002 100.4 110.2 
+Michael_Trevino/QbAhvzYquvY_0000003 167.6 174.7 

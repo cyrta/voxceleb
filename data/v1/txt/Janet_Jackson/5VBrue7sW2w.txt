@@ -1,0 +1,8 @@
+POI: 			Janet_Jackson 
+Youtube ID: 	5VBrue7sW2w 
+Video length: 	785.7 sec 
+Set (V): 		dev 
+ 
+Janet_Jackson/5VBrue7sW2w_0000001 104.6 108.8 
+Janet_Jackson/5VBrue7sW2w_0000002 628.2 632.4 
+Janet_Jackson/5VBrue7sW2w_0000003 647.2 652.2 

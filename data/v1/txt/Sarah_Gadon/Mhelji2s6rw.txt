@@ -1,0 +1,8 @@
+POI: 			Sarah_Gadon 
+Youtube ID: 	Mhelji2s6rw 
+Video length: 	222.0 sec 
+Set (V): 		dev 
+ 
+Sarah_Gadon/Mhelji2s6rw_0000001 53.8 62.8 
+Sarah_Gadon/Mhelji2s6rw_0000002 67.9 74.2 
+Sarah_Gadon/Mhelji2s6rw_0000003 181.7 194.6 

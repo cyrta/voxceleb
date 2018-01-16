@@ -1,0 +1,16 @@
+POI: 			Harvey_Keitel 
+Youtube ID: 	xlzgVPTKAc0 
+Video length: 	1767.1 sec 
+Set (V): 		dev 
+ 
+Harvey_Keitel/xlzgVPTKAc0_0000001 408.6 414.6 
+Harvey_Keitel/xlzgVPTKAc0_0000002 425.3 430.7 
+Harvey_Keitel/xlzgVPTKAc0_0000003 433.3 442.7 
+Harvey_Keitel/xlzgVPTKAc0_0000004 446.4 455.2 
+Harvey_Keitel/xlzgVPTKAc0_0000005 490.3 497.9 
+Harvey_Keitel/xlzgVPTKAc0_0000006 963.5 973.9 
+Harvey_Keitel/xlzgVPTKAc0_0000007 983.3 994.7 
+Harvey_Keitel/xlzgVPTKAc0_0000008 999.3 1007.6 
+Harvey_Keitel/xlzgVPTKAc0_0000009 1015.2 1019.7 
+Harvey_Keitel/xlzgVPTKAc0_0000010 1373.2 1385.2 
+Harvey_Keitel/xlzgVPTKAc0_0000011 1389.6 1400.7 

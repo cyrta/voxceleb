@@ -1,0 +1,15 @@
+POI: 			Gwendoline_Christie 
+Youtube ID: 	iCC_z72DRmc 
+Video length: 	431.5 sec 
+Set (V): 		dev 
+ 
+Gwendoline_Christie/iCC_z72DRmc_0000001 67.4 71.7 
+Gwendoline_Christie/iCC_z72DRmc_0000002 101.5 110.1 
+Gwendoline_Christie/iCC_z72DRmc_0000003 123.4 128.8 
+Gwendoline_Christie/iCC_z72DRmc_0000004 129.4 133.6 
+Gwendoline_Christie/iCC_z72DRmc_0000005 144.7 160.9 
+Gwendoline_Christie/iCC_z72DRmc_0000006 171.2 178.5 
+Gwendoline_Christie/iCC_z72DRmc_0000007 233.0 237.1 
+Gwendoline_Christie/iCC_z72DRmc_0000008 264.0 272.3 
+Gwendoline_Christie/iCC_z72DRmc_0000009 333.9 345.7 
+Gwendoline_Christie/iCC_z72DRmc_0000010 346.5 356.3 

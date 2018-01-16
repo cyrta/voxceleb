@@ -1,0 +1,17 @@
+POI: 			Terence_Stamp 
+Youtube ID: 	yIQrysyKI-o 
+Video length: 	260.3 sec 
+Set (V): 		dev 
+ 
+Terence_Stamp/yIQrysyKI-o_0000001 18.4 22.5 
+Terence_Stamp/yIQrysyKI-o_0000002 49.6 54.2 
+Terence_Stamp/yIQrysyKI-o_0000003 54.6 59.1 
+Terence_Stamp/yIQrysyKI-o_0000004 76.6 82.2 
+Terence_Stamp/yIQrysyKI-o_0000005 95.0 101.2 
+Terence_Stamp/yIQrysyKI-o_0000006 102.2 107.8 
+Terence_Stamp/yIQrysyKI-o_0000007 108.2 115.1 
+Terence_Stamp/yIQrysyKI-o_0000008 115.2 125.6 
+Terence_Stamp/yIQrysyKI-o_0000009 128.3 134.6 
+Terence_Stamp/yIQrysyKI-o_0000010 168.5 174.4 
+Terence_Stamp/yIQrysyKI-o_0000011 183.3 189.2 
+Terence_Stamp/yIQrysyKI-o_0000012 202.3 206.6 

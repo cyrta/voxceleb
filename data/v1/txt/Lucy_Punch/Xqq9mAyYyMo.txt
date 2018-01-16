@@ -1,0 +1,28 @@
+POI: 			Lucy_Punch 
+Youtube ID: 	Xqq9mAyYyMo 
+Video length: 	542.1 sec 
+Set (V): 		dev 
+ 
+Lucy_Punch/Xqq9mAyYyMo_0000001 29.0 41.5 
+Lucy_Punch/Xqq9mAyYyMo_0000002 43.9 54.4 
+Lucy_Punch/Xqq9mAyYyMo_0000003 58.4 63.3 
+Lucy_Punch/Xqq9mAyYyMo_0000004 79.5 85.1 
+Lucy_Punch/Xqq9mAyYyMo_0000005 88.5 122.0 
+Lucy_Punch/Xqq9mAyYyMo_0000006 129.2 138.8 
+Lucy_Punch/Xqq9mAyYyMo_0000007 211.2 221.8 
+Lucy_Punch/Xqq9mAyYyMo_0000008 239.3 251.3 
+Lucy_Punch/Xqq9mAyYyMo_0000009 253.1 257.9 
+Lucy_Punch/Xqq9mAyYyMo_0000010 264.0 268.0 
+Lucy_Punch/Xqq9mAyYyMo_0000011 307.5 313.6 
+Lucy_Punch/Xqq9mAyYyMo_0000012 313.8 326.2 
+Lucy_Punch/Xqq9mAyYyMo_0000013 327.0 333.2 
+Lucy_Punch/Xqq9mAyYyMo_0000014 348.4 357.0 
+Lucy_Punch/Xqq9mAyYyMo_0000015 357.4 366.6 
+Lucy_Punch/Xqq9mAyYyMo_0000016 376.4 382.1 
+Lucy_Punch/Xqq9mAyYyMo_0000017 382.5 396.0 
+Lucy_Punch/Xqq9mAyYyMo_0000018 357.4 363.8 
+Lucy_Punch/Xqq9mAyYyMo_0000019 437.8 448.6 
+Lucy_Punch/Xqq9mAyYyMo_0000020 450.0 463.8 
+Lucy_Punch/Xqq9mAyYyMo_0000021 483.1 495.8 
+Lucy_Punch/Xqq9mAyYyMo_0000022 505.5 514.7 
+Lucy_Punch/Xqq9mAyYyMo_0000023 514.8 526.5 

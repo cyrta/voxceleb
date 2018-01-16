@@ -1,0 +1,12 @@
+POI: 			Judith_Light 
+Youtube ID: 	6zB_rRyLii4 
+Video length: 	328.3 sec 
+Set (V): 		dev 
+ 
+Judith_Light/6zB_rRyLii4_0000001 161.5 167.1 
+Judith_Light/6zB_rRyLii4_0000002 189.0 194.1 
+Judith_Light/6zB_rRyLii4_0000003 197.6 206.2 
+Judith_Light/6zB_rRyLii4_0000004 206.8 218.7 
+Judith_Light/6zB_rRyLii4_0000005 229.8 240.0 
+Judith_Light/6zB_rRyLii4_0000006 244.3 249.4 
+Judith_Light/6zB_rRyLii4_0000007 250.4 254.8 

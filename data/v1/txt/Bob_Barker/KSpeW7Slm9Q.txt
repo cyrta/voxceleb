@@ -1,0 +1,11 @@
+POI: 			Bob_Barker 
+Youtube ID: 	KSpeW7Slm9Q 
+Video length: 	604.1 sec 
+Set (V): 		dev 
+ 
+Bob_Barker/KSpeW7Slm9Q_0000001 135.0 139.4 
+Bob_Barker/KSpeW7Slm9Q_0000002 164.3 170.1 
+Bob_Barker/KSpeW7Slm9Q_0000003 188.6 194.9 
+Bob_Barker/KSpeW7Slm9Q_0000004 279.6 283.7 
+Bob_Barker/KSpeW7Slm9Q_0000005 421.7 426.2 
+Bob_Barker/KSpeW7Slm9Q_0000006 439.4 447.7 

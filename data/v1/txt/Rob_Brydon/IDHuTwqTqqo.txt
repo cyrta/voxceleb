@@ -1,0 +1,7 @@
+POI: 			Rob_Brydon 
+Youtube ID: 	IDHuTwqTqqo 
+Video length: 	131.8 sec 
+Set (V): 		dev 
+ 
+Rob_Brydon/IDHuTwqTqqo_0000001 41.2 58.6 
+Rob_Brydon/IDHuTwqTqqo_0000002 61.8 72.4 

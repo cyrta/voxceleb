@@ -1,0 +1,38 @@
+POI: 			Lorde 
+Youtube ID: 	buSvypnchSM 
+Video length: 	1233.3 sec 
+Set (V): 		dev 
+ 
+Lorde/buSvypnchSM_0000001 08.9 13.2 
+Lorde/buSvypnchSM_0000002 26.2 31.4 
+Lorde/buSvypnchSM_0000003 39.7 43.9 
+Lorde/buSvypnchSM_0000004 89.5 94.0 
+Lorde/buSvypnchSM_0000005 199.6 204.0 
+Lorde/buSvypnchSM_0000006 205.5 210.6 
+Lorde/buSvypnchSM_0000007 211.5 215.7 
+Lorde/buSvypnchSM_0000008 249.6 253.8 
+Lorde/buSvypnchSM_0000009 260.6 265.0 
+Lorde/buSvypnchSM_0000010 327.8 332.6 
+Lorde/buSvypnchSM_0000011 348.4 352.8 
+Lorde/buSvypnchSM_0000012 354.4 358.5 
+Lorde/buSvypnchSM_0000013 405.8 410.9 
+Lorde/buSvypnchSM_0000014 415.7 420.3 
+Lorde/buSvypnchSM_0000015 511.5 516.4 
+Lorde/buSvypnchSM_0000016 516.8 523.3 
+Lorde/buSvypnchSM_0000017 530.6 536.8 
+Lorde/buSvypnchSM_0000018 572.3 581.7 
+Lorde/buSvypnchSM_0000019 641.2 653.0 
+Lorde/buSvypnchSM_0000020 705.4 714.3 
+Lorde/buSvypnchSM_0000021 718.1 725.7 
+Lorde/buSvypnchSM_0000022 764.5 769.2 
+Lorde/buSvypnchSM_0000023 827.0 832.8 
+Lorde/buSvypnchSM_0000024 881.3 886.1 
+Lorde/buSvypnchSM_0000025 892.0 897.5 
+Lorde/buSvypnchSM_0000026 933.0 937.5 
+Lorde/buSvypnchSM_0000027 971.0 978.2 
+Lorde/buSvypnchSM_0000028 1019.3 1023.4 
+Lorde/buSvypnchSM_0000029 1043.0 1050.8 
+Lorde/buSvypnchSM_0000030 1051.3 1055.9 
+Lorde/buSvypnchSM_0000031 1200.6 1205.5 
+Lorde/buSvypnchSM_0000032 1205.6 1209.9 
+Lorde/buSvypnchSM_0000033 1215.9 1221.6 

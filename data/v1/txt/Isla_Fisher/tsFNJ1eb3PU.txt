@@ -1,0 +1,7 @@
+POI: 			Isla_Fisher 
+Youtube ID: 	tsFNJ1eb3PU 
+Video length: 	198.4 sec 
+Set (V): 		dev 
+ 
+Isla_Fisher/tsFNJ1eb3PU_0000001 152.2 156.9 
+Isla_Fisher/tsFNJ1eb3PU_0000002 161.3 174.7 

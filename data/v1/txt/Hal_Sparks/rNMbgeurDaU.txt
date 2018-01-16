@@ -1,0 +1,11 @@
+POI: 			Hal_Sparks 
+Youtube ID: 	rNMbgeurDaU 
+Video length: 	195.0 sec 
+Set (V): 		dev 
+ 
+Hal_Sparks/rNMbgeurDaU_0000001 14.8 27.3 
+Hal_Sparks/rNMbgeurDaU_0000002 100.3 112.2 
+Hal_Sparks/rNMbgeurDaU_0000003 119.4 126.4 
+Hal_Sparks/rNMbgeurDaU_0000004 138.1 142.7 
+Hal_Sparks/rNMbgeurDaU_0000005 149.7 155.3 
+Hal_Sparks/rNMbgeurDaU_0000006 157.6 166.1 

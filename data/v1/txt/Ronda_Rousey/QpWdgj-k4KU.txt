@@ -1,0 +1,10 @@
+POI: 			Ronda_Rousey 
+Youtube ID: 	QpWdgj-k4KU 
+Video length: 	479.3 sec 
+Set (V): 		dev 
+ 
+Ronda_Rousey/QpWdgj-k4KU_0000001 88.1 92.8 
+Ronda_Rousey/QpWdgj-k4KU_0000002 118.2 122.2 
+Ronda_Rousey/QpWdgj-k4KU_0000003 164.5 178.5 
+Ronda_Rousey/QpWdgj-k4KU_0000004 179.4 184.9 
+Ronda_Rousey/QpWdgj-k4KU_0000005 192.0 211.5 

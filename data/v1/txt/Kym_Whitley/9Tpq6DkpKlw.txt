@@ -1,0 +1,7 @@
+POI: 			Kym_Whitley 
+Youtube ID: 	9Tpq6DkpKlw 
+Video length: 	300.0 sec 
+Set (V): 		dev 
+ 
+Kym_Whitley/9Tpq6DkpKlw_0000001 196.2 200.2 
+Kym_Whitley/9Tpq6DkpKlw_0000002 233.5 241.1 

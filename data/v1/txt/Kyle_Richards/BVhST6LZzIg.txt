@@ -1,0 +1,10 @@
+POI: 			Kyle_Richards 
+Youtube ID: 	BVhST6LZzIg 
+Video length: 	201.0 sec 
+Set (V): 		dev 
+ 
+Kyle_Richards/BVhST6LZzIg_0000001 19.1 24.1 
+Kyle_Richards/BVhST6LZzIg_0000002 39.8 49.9 
+Kyle_Richards/BVhST6LZzIg_0000003 85.0 95.6 
+Kyle_Richards/BVhST6LZzIg_0000004 117.3 122.2 
+Kyle_Richards/BVhST6LZzIg_0000005 134.6 138.6 

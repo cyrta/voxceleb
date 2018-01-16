@@ -1,0 +1,13 @@
+POI: 			Natalia_Tena 
+Youtube ID: 	QLOy6pcJrdA 
+Video length: 	315.8 sec 
+Set (V): 		dev 
+ 
+Natalia_Tena/QLOy6pcJrdA_0000001 41.7 46.7 
+Natalia_Tena/QLOy6pcJrdA_0000002 48.8 52.9 
+Natalia_Tena/QLOy6pcJrdA_0000003 113.9 118.9 
+Natalia_Tena/QLOy6pcJrdA_0000004 121.2 128.9 
+Natalia_Tena/QLOy6pcJrdA_0000005 131.6 136.4 
+Natalia_Tena/QLOy6pcJrdA_0000006 158.9 164.9 
+Natalia_Tena/QLOy6pcJrdA_0000007 206.8 211.4 
+Natalia_Tena/QLOy6pcJrdA_0000008 234.0 241.0 

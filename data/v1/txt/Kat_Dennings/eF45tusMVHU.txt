@@ -1,0 +1,7 @@
+POI: 			Kat_Dennings 
+Youtube ID: 	eF45tusMVHU 
+Video length: 	137.5 sec 
+Set (V): 		dev 
+ 
+Kat_Dennings/eF45tusMVHU_0000001 105.0 110.1 
+Kat_Dennings/eF45tusMVHU_0000002 114.7 123.9 

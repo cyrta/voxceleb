@@ -1,0 +1,8 @@
+POI: 			Misha_Collins 
+Youtube ID: 	gojvcC_6pac 
+Video length: 	1182.4 sec 
+Set (V): 		dev 
+ 
+Misha_Collins/gojvcC_6pac_0000001 576.1 583.2 
+Misha_Collins/gojvcC_6pac_0000002 583.4 589.6 
+Misha_Collins/gojvcC_6pac_0000003 629.4 634.6 

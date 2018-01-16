@@ -1,0 +1,14 @@
+POI: 			Richard_E._Grant 
+Youtube ID: 	IboXJuLsb_8 
+Video length: 	114.0 sec 
+Set (V): 		dev 
+ 
+Richard_E._Grant/IboXJuLsb_8_0000001 01.3 09.0 
+Richard_E._Grant/IboXJuLsb_8_0000002 09.4 16.8 
+Richard_E._Grant/IboXJuLsb_8_0000003 22.3 28.5 
+Richard_E._Grant/IboXJuLsb_8_0000004 33.0 37.5 
+Richard_E._Grant/IboXJuLsb_8_0000005 45.2 54.1 
+Richard_E._Grant/IboXJuLsb_8_0000006 56.3 69.7 
+Richard_E._Grant/IboXJuLsb_8_0000007 73.5 79.5 
+Richard_E._Grant/IboXJuLsb_8_0000008 86.0 91.5 
+Richard_E._Grant/IboXJuLsb_8_0000009 91.6 99.1 

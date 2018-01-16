@@ -1,0 +1,8 @@
+POI: 			Robbie_Amell 
+Youtube ID: 	IJAouTG-gdU 
+Video length: 	507.5 sec 
+Set (V): 		dev 
+ 
+Robbie_Amell/IJAouTG-gdU_0000001 172.3 176.7 
+Robbie_Amell/IJAouTG-gdU_0000002 408.3 412.7 
+Robbie_Amell/IJAouTG-gdU_0000003 477.4 481.8 

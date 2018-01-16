@@ -1,0 +1,16 @@
+POI: 			Lou_Ferrigno 
+Youtube ID: 	QJTlaLU90sY 
+Video length: 	232.8 sec 
+Set (V): 		dev 
+ 
+Lou_Ferrigno/QJTlaLU90sY_0000001 34.0 54.6 
+Lou_Ferrigno/QJTlaLU90sY_0000002 54.9 60.6 
+Lou_Ferrigno/QJTlaLU90sY_0000003 66.4 83.0 
+Lou_Ferrigno/QJTlaLU90sY_0000004 96.4 124.2 
+Lou_Ferrigno/QJTlaLU90sY_0000005 130.4 146.7 
+Lou_Ferrigno/QJTlaLU90sY_0000006 148.4 152.4 
+Lou_Ferrigno/QJTlaLU90sY_0000007 163.5 173.6 
+Lou_Ferrigno/QJTlaLU90sY_0000008 175.3 181.7 
+Lou_Ferrigno/QJTlaLU90sY_0000009 187.9 209.2 
+Lou_Ferrigno/QJTlaLU90sY_0000010 210.8 220.6 
+Lou_Ferrigno/QJTlaLU90sY_0000011 221.4 225.6 

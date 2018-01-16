@@ -1,0 +1,8 @@
+POI: 			Cliff_Curtis 
+Youtube ID: 	rRZIG9_OpEg 
+Video length: 	147.1 sec 
+Set (V): 		dev 
+ 
+Cliff_Curtis/rRZIG9_OpEg_0000001 08.1 14.2 
+Cliff_Curtis/rRZIG9_OpEg_0000002 67.8 74.1 
+Cliff_Curtis/rRZIG9_OpEg_0000003 74.9 80.3 

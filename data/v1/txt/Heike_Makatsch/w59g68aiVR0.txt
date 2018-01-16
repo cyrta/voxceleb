@@ -1,0 +1,15 @@
+POI: 			Heike_Makatsch 
+Youtube ID: 	w59g68aiVR0 
+Video length: 	663.8 sec 
+Set (V): 		dev 
+ 
+Heike_Makatsch/w59g68aiVR0_0000001 83.8 90.9 
+Heike_Makatsch/w59g68aiVR0_0000002 113.9 119.1 
+Heike_Makatsch/w59g68aiVR0_0000003 140.0 150.2 
+Heike_Makatsch/w59g68aiVR0_0000004 150.6 156.6 
+Heike_Makatsch/w59g68aiVR0_0000005 164.5 170.1 
+Heike_Makatsch/w59g68aiVR0_0000006 174.9 179.0 
+Heike_Makatsch/w59g68aiVR0_0000007 455.8 459.9 
+Heike_Makatsch/w59g68aiVR0_0000008 502.8 507.0 
+Heike_Makatsch/w59g68aiVR0_0000009 530.8 536.6 
+Heike_Makatsch/w59g68aiVR0_0000010 549.0 556.5 

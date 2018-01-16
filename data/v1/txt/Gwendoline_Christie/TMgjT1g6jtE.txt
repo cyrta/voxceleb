@@ -1,0 +1,12 @@
+POI: 			Gwendoline_Christie 
+Youtube ID: 	TMgjT1g6jtE 
+Video length: 	229.4 sec 
+Set (V): 		dev 
+ 
+Gwendoline_Christie/TMgjT1g6jtE_0000001 24.7 34.8 
+Gwendoline_Christie/TMgjT1g6jtE_0000002 35.2 39.9 
+Gwendoline_Christie/TMgjT1g6jtE_0000003 40.7 49.9 
+Gwendoline_Christie/TMgjT1g6jtE_0000004 56.8 67.6 
+Gwendoline_Christie/TMgjT1g6jtE_0000005 68.3 135.2 
+Gwendoline_Christie/TMgjT1g6jtE_0000006 135.3 141.6 
+Gwendoline_Christie/TMgjT1g6jtE_0000007 148.1 169.8 

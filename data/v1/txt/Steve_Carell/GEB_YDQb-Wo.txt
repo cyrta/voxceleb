@@ -1,0 +1,7 @@
+POI: 			Steve_Carell 
+Youtube ID: 	GEB_YDQb-Wo 
+Video length: 	733.9 sec 
+Set (V): 		dev 
+ 
+Steve_Carell/GEB_YDQb-Wo_0000001 153.8 161.8 
+Steve_Carell/GEB_YDQb-Wo_0000002 207.0 217.0 

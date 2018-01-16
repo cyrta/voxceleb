@@ -1,0 +1,9 @@
+POI: 			Joan_Rivers 
+Youtube ID: 	srtES-HebG0 
+Video length: 	426.0 sec 
+Set (V): 		dev 
+ 
+Joan_Rivers/srtES-HebG0_0000001 19.4 23.7 
+Joan_Rivers/srtES-HebG0_0000002 25.5 34.2 
+Joan_Rivers/srtES-HebG0_0000003 299.9 304.7 
+Joan_Rivers/srtES-HebG0_0000004 371.0 376.0 

@@ -1,0 +1,37 @@
+POI: 			Garry_Marshall 
+Youtube ID: 	oENvS8mKreM 
+Video length: 	462.8 sec 
+Set (V): 		dev 
+ 
+Garry_Marshall/oENvS8mKreM_0000001 16.8 29.9 
+Garry_Marshall/oENvS8mKreM_0000002 34.0 38.0 
+Garry_Marshall/oENvS8mKreM_0000003 47.8 67.3 
+Garry_Marshall/oENvS8mKreM_0000004 67.9 88.9 
+Garry_Marshall/oENvS8mKreM_0000005 93.8 129.9 
+Garry_Marshall/oENvS8mKreM_0000006 132.8 146.2 
+Garry_Marshall/oENvS8mKreM_0000007 146.5 153.4 
+Garry_Marshall/oENvS8mKreM_0000008 169.7 188.6 
+Garry_Marshall/oENvS8mKreM_0000009 188.9 205.2 
+Garry_Marshall/oENvS8mKreM_0000010 205.4 228.6 
+Garry_Marshall/oENvS8mKreM_0000011 229.2 236.2 
+Garry_Marshall/oENvS8mKreM_0000012 247.7 263.5 
+Garry_Marshall/oENvS8mKreM_0000013 263.6 269.5 
+Garry_Marshall/oENvS8mKreM_0000014 270.3 275.2 
+Garry_Marshall/oENvS8mKreM_0000015 275.3 291.4 
+Garry_Marshall/oENvS8mKreM_0000016 300.5 304.8 
+Garry_Marshall/oENvS8mKreM_0000017 329.4 336.0 
+Garry_Marshall/oENvS8mKreM_0000018 337.4 354.2 
+Garry_Marshall/oENvS8mKreM_0000019 355.3 359.9 
+Garry_Marshall/oENvS8mKreM_0000020 125.1 131.8 
+Garry_Marshall/oENvS8mKreM_0000021 264.2 269.5 
+Garry_Marshall/oENvS8mKreM_0000022 275.6 292.3 
+Garry_Marshall/oENvS8mKreM_0000023 294.6 305.3 
+Garry_Marshall/oENvS8mKreM_0000024 306.8 312.0 
+Garry_Marshall/oENvS8mKreM_0000025 329.4 336.0 
+Garry_Marshall/oENvS8mKreM_0000026 337.4 345.3 
+Garry_Marshall/oENvS8mKreM_0000027 359.3 364.1 
+Garry_Marshall/oENvS8mKreM_0000028 366.5 372.4 
+Garry_Marshall/oENvS8mKreM_0000029 374.5 380.0 
+Garry_Marshall/oENvS8mKreM_0000030 392.5 401.4 
+Garry_Marshall/oENvS8mKreM_0000031 401.8 447.0 
+Garry_Marshall/oENvS8mKreM_0000032 363.6 379.8 

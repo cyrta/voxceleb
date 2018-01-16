@@ -1,0 +1,10 @@
+POI: 			Richard_Hammond 
+Youtube ID: 	HQCxuj-_IEI 
+Video length: 	190.2 sec 
+Set (V): 		dev 
+ 
+Richard_Hammond/HQCxuj-_IEI_0000001 34.7 39.7 
+Richard_Hammond/HQCxuj-_IEI_0000002 56.8 63.1 
+Richard_Hammond/HQCxuj-_IEI_0000003 72.1 82.6 
+Richard_Hammond/HQCxuj-_IEI_0000004 104.5 112.8 
+Richard_Hammond/HQCxuj-_IEI_0000005 160.0 164.5 

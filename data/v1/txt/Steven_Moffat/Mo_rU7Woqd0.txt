@@ -1,0 +1,15 @@
+POI: 			Steven_Moffat 
+Youtube ID: 	Mo_rU7Woqd0 
+Video length: 	306.1 sec 
+Set (V): 		dev 
+ 
+Steven_Moffat/Mo_rU7Woqd0_0000001 17.0 30.4 
+Steven_Moffat/Mo_rU7Woqd0_0000002 35.4 40.0 
+Steven_Moffat/Mo_rU7Woqd0_0000003 66.1 72.4 
+Steven_Moffat/Mo_rU7Woqd0_0000004 76.8 83.8 
+Steven_Moffat/Mo_rU7Woqd0_0000005 93.2 104.0 
+Steven_Moffat/Mo_rU7Woqd0_0000006 121.6 126.0 
+Steven_Moffat/Mo_rU7Woqd0_0000007 141.4 147.7 
+Steven_Moffat/Mo_rU7Woqd0_0000008 198.3 203.2 
+Steven_Moffat/Mo_rU7Woqd0_0000009 203.4 207.8 
+Steven_Moffat/Mo_rU7Woqd0_0000010 269.9 276.3 

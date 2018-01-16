@@ -1,0 +1,20 @@
+POI: 			Vincent_Cassel 
+Youtube ID: 	RwfcdopmgJs 
+Video length: 	308.0 sec 
+Set (V): 		dev 
+ 
+Vincent_Cassel/RwfcdopmgJs_0000001 16.8 21.3 
+Vincent_Cassel/RwfcdopmgJs_0000002 26.3 33.3 
+Vincent_Cassel/RwfcdopmgJs_0000003 35.4 43.3 
+Vincent_Cassel/RwfcdopmgJs_0000004 63.0 67.6 
+Vincent_Cassel/RwfcdopmgJs_0000005 90.8 98.2 
+Vincent_Cassel/RwfcdopmgJs_0000006 104.3 113.3 
+Vincent_Cassel/RwfcdopmgJs_0000007 133.4 138.3 
+Vincent_Cassel/RwfcdopmgJs_0000008 151.5 156.2 
+Vincent_Cassel/RwfcdopmgJs_0000009 165.0 171.1 
+Vincent_Cassel/RwfcdopmgJs_0000010 179.9 192.3 
+Vincent_Cassel/RwfcdopmgJs_0000011 208.9 214.2 
+Vincent_Cassel/RwfcdopmgJs_0000012 215.1 219.7 
+Vincent_Cassel/RwfcdopmgJs_0000013 222.9 235.6 
+Vincent_Cassel/RwfcdopmgJs_0000014 264.4 282.6 
+Vincent_Cassel/RwfcdopmgJs_0000015 285.2 294.7 

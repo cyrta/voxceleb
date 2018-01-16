@@ -1,0 +1,20 @@
+POI: 			Kiefer_Sutherland 
+Youtube ID: 	xho_C_k6lWk 
+Video length: 	748.9 sec 
+Set (V): 		dev 
+ 
+Kiefer_Sutherland/xho_C_k6lWk_0000001 117.9 123.5 
+Kiefer_Sutherland/xho_C_k6lWk_0000002 123.9 132.0 
+Kiefer_Sutherland/xho_C_k6lWk_0000003 149.2 154.8 
+Kiefer_Sutherland/xho_C_k6lWk_0000004 154.9 158.9 
+Kiefer_Sutherland/xho_C_k6lWk_0000005 164.5 171.5 
+Kiefer_Sutherland/xho_C_k6lWk_0000006 185.7 198.5 
+Kiefer_Sutherland/xho_C_k6lWk_0000007 278.6 300.2 
+Kiefer_Sutherland/xho_C_k6lWk_0000008 576.7 580.9 
+Kiefer_Sutherland/xho_C_k6lWk_0000009 610.4 615.7 
+Kiefer_Sutherland/xho_C_k6lWk_0000010 616.3 629.0 
+Kiefer_Sutherland/xho_C_k6lWk_0000011 681.7 686.6 
+Kiefer_Sutherland/xho_C_k6lWk_0000012 688.0 697.4 
+Kiefer_Sutherland/xho_C_k6lWk_0000013 703.2 710.2 
+Kiefer_Sutherland/xho_C_k6lWk_0000014 724.4 732.2 
+Kiefer_Sutherland/xho_C_k6lWk_0000015 732.3 737.3 

@@ -1,0 +1,12 @@
+POI: 			Matt_Lanter 
+Youtube ID: 	W7G99GCh8qE 
+Video length: 	374.2 sec 
+Set (V): 		dev 
+ 
+Matt_Lanter/W7G99GCh8qE_0000001 38.7 42.8 
+Matt_Lanter/W7G99GCh8qE_0000002 46.9 56.4 
+Matt_Lanter/W7G99GCh8qE_0000003 57.3 61.3 
+Matt_Lanter/W7G99GCh8qE_0000004 234.2 245.7 
+Matt_Lanter/W7G99GCh8qE_0000005 279.3 283.3 
+Matt_Lanter/W7G99GCh8qE_0000006 285.7 296.4 
+Matt_Lanter/W7G99GCh8qE_0000007 296.9 314.1 

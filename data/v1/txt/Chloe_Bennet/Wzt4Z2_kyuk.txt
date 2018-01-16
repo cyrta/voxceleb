@@ -1,0 +1,13 @@
+POI: 			Chloe_Bennet 
+Youtube ID: 	Wzt4Z2_kyuk 
+Video length: 	230.4 sec 
+Set (V): 		dev 
+ 
+Chloe_Bennet/Wzt4Z2_kyuk_0000001 32.2 37.3 
+Chloe_Bennet/Wzt4Z2_kyuk_0000002 37.9 44.9 
+Chloe_Bennet/Wzt4Z2_kyuk_0000003 66.5 73.6 
+Chloe_Bennet/Wzt4Z2_kyuk_0000004 89.9 97.5 
+Chloe_Bennet/Wzt4Z2_kyuk_0000005 112.0 118.6 
+Chloe_Bennet/Wzt4Z2_kyuk_0000006 142.5 151.6 
+Chloe_Bennet/Wzt4Z2_kyuk_0000007 164.9 174.5 
+Chloe_Bennet/Wzt4Z2_kyuk_0000008 182.2 187.3 

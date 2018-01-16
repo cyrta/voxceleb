@@ -1,0 +1,9 @@
+POI: 			Dick_Van_Dyke 
+Youtube ID: 	b71ZOTdLKUI 
+Video length: 	273.6 sec 
+Set (V): 		dev 
+ 
+Dick_Van_Dyke/b71ZOTdLKUI_0000001 103.0 110.8 
+Dick_Van_Dyke/b71ZOTdLKUI_0000002 139.1 143.4 
+Dick_Van_Dyke/b71ZOTdLKUI_0000003 157.6 163.8 
+Dick_Van_Dyke/b71ZOTdLKUI_0000004 203.3 209.4 

@@ -1,0 +1,7 @@
+POI: 			Robert_Sheehan 
+Youtube ID: 	8s305d0nSog 
+Video length: 	494.2 sec 
+Set (V): 		dev 
+ 
+Robert_Sheehan/8s305d0nSog_0000001 194.3 198.6 
+Robert_Sheehan/8s305d0nSog_0000002 227.6 234.5 

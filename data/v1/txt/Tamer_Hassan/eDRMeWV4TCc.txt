@@ -1,0 +1,8 @@
+POI: 			Tamer_Hassan 
+Youtube ID: 	eDRMeWV4TCc 
+Video length: 	89.5 sec 
+Set (V): 		dev 
+ 
+Tamer_Hassan/eDRMeWV4TCc_0000001 13.8 24.2 
+Tamer_Hassan/eDRMeWV4TCc_0000002 24.6 35.8 
+Tamer_Hassan/eDRMeWV4TCc_0000003 38.4 53.0 

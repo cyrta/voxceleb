@@ -1,0 +1,13 @@
+POI: 			Kelly_Brook 
+Youtube ID: 	C4UUff4YvD8 
+Video length: 	431.9 sec 
+Set (V): 		dev 
+ 
+Kelly_Brook/C4UUff4YvD8_0000001 180.8 191.0 
+Kelly_Brook/C4UUff4YvD8_0000002 340.1 347.4 
+Kelly_Brook/C4UUff4YvD8_0000003 356.9 363.6 
+Kelly_Brook/C4UUff4YvD8_0000004 365.7 371.4 
+Kelly_Brook/C4UUff4YvD8_0000005 375.1 384.8 
+Kelly_Brook/C4UUff4YvD8_0000006 386.6 390.8 
+Kelly_Brook/C4UUff4YvD8_0000007 397.0 403.4 
+Kelly_Brook/C4UUff4YvD8_0000008 409.4 416.5 

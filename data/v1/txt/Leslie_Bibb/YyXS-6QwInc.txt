@@ -1,0 +1,7 @@
+POI: 			Leslie_Bibb 
+Youtube ID: 	YyXS-6QwInc 
+Video length: 	234.3 sec 
+Set (V): 		dev 
+ 
+Leslie_Bibb/YyXS-6QwInc_0000001 185.3 189.5 
+Leslie_Bibb/YyXS-6QwInc_0000002 210.3 220.0 

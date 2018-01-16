@@ -1,0 +1,10 @@
+POI: 			Tamala_Jones 
+Youtube ID: 	5w_ea9uPOKY 
+Video length: 	311.4 sec 
+Set (V): 		dev 
+ 
+Tamala_Jones/5w_ea9uPOKY_0000001 129.3 138.4 
+Tamala_Jones/5w_ea9uPOKY_0000002 143.3 148.2 
+Tamala_Jones/5w_ea9uPOKY_0000003 157.6 161.9 
+Tamala_Jones/5w_ea9uPOKY_0000004 215.5 220.6 
+Tamala_Jones/5w_ea9uPOKY_0000005 284.8 288.7 

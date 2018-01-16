@@ -1,0 +1,7 @@
+POI: 			Daniel_Auteuil 
+Youtube ID: 	2TO2ByerNM0 
+Video length: 	120.4 sec 
+Set (V): 		dev 
+ 
+Daniel_Auteuil/2TO2ByerNM0_0000001 92.5 100.0 
+Daniel_Auteuil/2TO2ByerNM0_0000002 107.3 115.8 

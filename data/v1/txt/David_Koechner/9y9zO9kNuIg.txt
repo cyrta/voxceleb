@@ -1,0 +1,23 @@
+POI: 			David_Koechner 
+Youtube ID: 	9y9zO9kNuIg 
+Video length: 	441.7 sec 
+Set (V): 		dev 
+ 
+David_Koechner/9y9zO9kNuIg_0000001 25.6 30.2 
+David_Koechner/9y9zO9kNuIg_0000002 35.4 60.4 
+David_Koechner/9y9zO9kNuIg_0000003 90.6 102.5 
+David_Koechner/9y9zO9kNuIg_0000004 106.8 113.5 
+David_Koechner/9y9zO9kNuIg_0000005 131.0 142.9 
+David_Koechner/9y9zO9kNuIg_0000006 143.2 150.4 
+David_Koechner/9y9zO9kNuIg_0000007 176.8 189.0 
+David_Koechner/9y9zO9kNuIg_0000008 208.2 219.2 
+David_Koechner/9y9zO9kNuIg_0000009 231.3 248.7 
+David_Koechner/9y9zO9kNuIg_0000010 259.5 265.8 
+David_Koechner/9y9zO9kNuIg_0000011 282.4 306.2 
+David_Koechner/9y9zO9kNuIg_0000012 317.0 321.3 
+David_Koechner/9y9zO9kNuIg_0000013 323.1 327.7 
+David_Koechner/9y9zO9kNuIg_0000014 330.4 342.8 
+David_Koechner/9y9zO9kNuIg_0000015 352.2 357.4 
+David_Koechner/9y9zO9kNuIg_0000016 361.8 369.7 
+David_Koechner/9y9zO9kNuIg_0000017 397.3 407.1 
+David_Koechner/9y9zO9kNuIg_0000018 415.6 420.3 

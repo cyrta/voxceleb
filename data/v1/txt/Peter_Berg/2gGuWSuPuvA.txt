@@ -1,0 +1,12 @@
+POI: 			Peter_Berg 
+Youtube ID: 	2gGuWSuPuvA 
+Video length: 	211.3 sec 
+Set (V): 		dev 
+ 
+Peter_Berg/2gGuWSuPuvA_0000001 73.7 78.9 
+Peter_Berg/2gGuWSuPuvA_0000002 105.0 112.3 
+Peter_Berg/2gGuWSuPuvA_0000003 136.2 145.8 
+Peter_Berg/2gGuWSuPuvA_0000004 146.5 151.0 
+Peter_Berg/2gGuWSuPuvA_0000005 154.4 164.1 
+Peter_Berg/2gGuWSuPuvA_0000006 180.7 184.7 
+Peter_Berg/2gGuWSuPuvA_0000007 185.8 191.4 

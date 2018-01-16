@@ -1,0 +1,15 @@
+POI: 			Ruby_Dee 
+Youtube ID: 	YKfYhj3QAdM 
+Video length: 	265.9 sec 
+Set (V): 		dev 
+ 
+Ruby_Dee/YKfYhj3QAdM_0000001 05.7 12.7 
+Ruby_Dee/YKfYhj3QAdM_0000002 13.4 19.1 
+Ruby_Dee/YKfYhj3QAdM_0000003 61.0 65.0 
+Ruby_Dee/YKfYhj3QAdM_0000004 91.5 100.8 
+Ruby_Dee/YKfYhj3QAdM_0000005 110.8 115.2 
+Ruby_Dee/YKfYhj3QAdM_0000006 142.7 149.8 
+Ruby_Dee/YKfYhj3QAdM_0000007 185.2 189.2 
+Ruby_Dee/YKfYhj3QAdM_0000008 224.7 229.2 
+Ruby_Dee/YKfYhj3QAdM_0000009 251.2 256.3 
+Ruby_Dee/YKfYhj3QAdM_0000010 259.0 264.2 

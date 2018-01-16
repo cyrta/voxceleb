@@ -1,0 +1,17 @@
+POI: 			Ryan_McPartlin 
+Youtube ID: 	AMKf-FnRHT4 
+Video length: 	170.7 sec 
+Set (V): 		dev 
+ 
+Ryan_McPartlin/AMKf-FnRHT4_0000001 06.0 16.1 
+Ryan_McPartlin/AMKf-FnRHT4_0000002 19.6 35.7 
+Ryan_McPartlin/AMKf-FnRHT4_0000003 41.1 46.0 
+Ryan_McPartlin/AMKf-FnRHT4_0000004 61.1 66.1 
+Ryan_McPartlin/AMKf-FnRHT4_0000005 67.3 82.1 
+Ryan_McPartlin/AMKf-FnRHT4_0000006 86.1 93.9 
+Ryan_McPartlin/AMKf-FnRHT4_0000007 103.0 108.7 
+Ryan_McPartlin/AMKf-FnRHT4_0000008 119.8 134.7 
+Ryan_McPartlin/AMKf-FnRHT4_0000009 143.1 147.4 
+Ryan_McPartlin/AMKf-FnRHT4_0000010 158.0 163.6 
+Ryan_McPartlin/AMKf-FnRHT4_0000011 164.4 168.8 
+Ryan_McPartlin/AMKf-FnRHT4_0000012 154.9 160.1 

@@ -1,0 +1,12 @@
+POI: 			Kris_Jenner 
+Youtube ID: 	nEG5W43_Wkw 
+Video length: 	759.0 sec 
+Set (V): 		dev 
+ 
+Kris_Jenner/nEG5W43_Wkw_0000001 66.1 70.6 
+Kris_Jenner/nEG5W43_Wkw_0000002 108.0 114.4 
+Kris_Jenner/nEG5W43_Wkw_0000003 224.8 237.8 
+Kris_Jenner/nEG5W43_Wkw_0000004 295.4 301.0 
+Kris_Jenner/nEG5W43_Wkw_0000005 614.4 618.4 
+Kris_Jenner/nEG5W43_Wkw_0000006 658.4 665.0 
+Kris_Jenner/nEG5W43_Wkw_0000007 697.9 702.0 

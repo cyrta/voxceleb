@@ -1,0 +1,7 @@
+POI: 			Adrianne_Palicki 
+Youtube ID: 	hepofXpeNAA 
+Video length: 	123.5 sec 
+Set (V): 		dev 
+ 
+Adrianne_Palicki/hepofXpeNAA_0000001 51.2 55.8 
+Adrianne_Palicki/hepofXpeNAA_0000002 96.0 100.8 

@@ -1,0 +1,23 @@
+POI: 			Josh_Groban 
+Youtube ID: 	91Tujf8XXBo 
+Video length: 	508.8 sec 
+Set (V): 		dev 
+ 
+Josh_Groban/91Tujf8XXBo_0000001 38.2 50.6 
+Josh_Groban/91Tujf8XXBo_0000002 74.5 83.1 
+Josh_Groban/91Tujf8XXBo_0000003 104.8 114.7 
+Josh_Groban/91Tujf8XXBo_0000004 120.2 130.8 
+Josh_Groban/91Tujf8XXBo_0000005 131.0 135.2 
+Josh_Groban/91Tujf8XXBo_0000006 139.5 148.2 
+Josh_Groban/91Tujf8XXBo_0000007 172.8 182.3 
+Josh_Groban/91Tujf8XXBo_0000008 185.9 211.6 
+Josh_Groban/91Tujf8XXBo_0000009 213.1 235.0 
+Josh_Groban/91Tujf8XXBo_0000010 235.3 241.0 
+Josh_Groban/91Tujf8XXBo_0000011 252.3 260.0 
+Josh_Groban/91Tujf8XXBo_0000012 273.1 280.6 
+Josh_Groban/91Tujf8XXBo_0000013 292.4 309.2 
+Josh_Groban/91Tujf8XXBo_0000014 318.3 326.3 
+Josh_Groban/91Tujf8XXBo_0000015 369.8 398.7 
+Josh_Groban/91Tujf8XXBo_0000016 424.0 429.3 
+Josh_Groban/91Tujf8XXBo_0000017 446.9 461.9 
+Josh_Groban/91Tujf8XXBo_0000018 462.0 489.8 

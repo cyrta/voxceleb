@@ -1,0 +1,7 @@
+POI: 			Sheridan_Smith 
+Youtube ID: 	GQPizAZIX4g 
+Video length: 	75.4 sec 
+Set (V): 		dev 
+ 
+Sheridan_Smith/GQPizAZIX4g_0000001 24.2 29.4 
+Sheridan_Smith/GQPizAZIX4g_0000002 40.9 54.8 

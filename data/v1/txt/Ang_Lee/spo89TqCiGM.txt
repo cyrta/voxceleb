@@ -1,0 +1,15 @@
+POI: 			Ang_Lee 
+Youtube ID: 	spo89TqCiGM 
+Video length: 	247.3 sec 
+Set (V): 		dev 
+ 
+Ang_Lee/spo89TqCiGM_0000001 53.5 59.9 
+Ang_Lee/spo89TqCiGM_0000002 88.8 93.4 
+Ang_Lee/spo89TqCiGM_0000003 93.6 98.6 
+Ang_Lee/spo89TqCiGM_0000004 139.0 144.3 
+Ang_Lee/spo89TqCiGM_0000005 164.5 170.3 
+Ang_Lee/spo89TqCiGM_0000006 181.2 185.3 
+Ang_Lee/spo89TqCiGM_0000007 196.5 200.8 
+Ang_Lee/spo89TqCiGM_0000008 203.7 211.4 
+Ang_Lee/spo89TqCiGM_0000009 229.0 234.3 
+Ang_Lee/spo89TqCiGM_0000010 234.6 239.2 

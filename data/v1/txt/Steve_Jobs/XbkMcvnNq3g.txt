@@ -1,0 +1,40 @@
+POI: 			Steve_Jobs 
+Youtube ID: 	XbkMcvnNq3g 
+Video length: 	1158.2 sec 
+Set (V): 		dev 
+ 
+Steve_Jobs/XbkMcvnNq3g_0000001 33.0 37.1 
+Steve_Jobs/XbkMcvnNq3g_0000002 85.8 90.4 
+Steve_Jobs/XbkMcvnNq3g_0000003 91.2 103.4 
+Steve_Jobs/XbkMcvnNq3g_0000004 105.0 126.8 
+Steve_Jobs/XbkMcvnNq3g_0000005 162.5 177.3 
+Steve_Jobs/XbkMcvnNq3g_0000006 181.7 197.8 
+Steve_Jobs/XbkMcvnNq3g_0000007 205.6 227.6 
+Steve_Jobs/XbkMcvnNq3g_0000008 249.2 257.1 
+Steve_Jobs/XbkMcvnNq3g_0000009 258.4 264.7 
+Steve_Jobs/XbkMcvnNq3g_0000010 268.5 280.1 
+Steve_Jobs/XbkMcvnNq3g_0000011 280.3 288.2 
+Steve_Jobs/XbkMcvnNq3g_0000012 289.6 314.7 
+Steve_Jobs/XbkMcvnNq3g_0000013 375.6 392.8 
+Steve_Jobs/XbkMcvnNq3g_0000014 427.0 442.0 
+Steve_Jobs/XbkMcvnNq3g_0000015 477.8 485.6 
+Steve_Jobs/XbkMcvnNq3g_0000016 486.4 516.4 
+Steve_Jobs/XbkMcvnNq3g_0000017 529.8 539.9 
+Steve_Jobs/XbkMcvnNq3g_0000018 544.5 553.6 
+Steve_Jobs/XbkMcvnNq3g_0000019 586.2 613.3 
+Steve_Jobs/XbkMcvnNq3g_0000020 620.0 638.8 
+Steve_Jobs/XbkMcvnNq3g_0000021 694.2 698.6 
+Steve_Jobs/XbkMcvnNq3g_0000022 727.7 732.2 
+Steve_Jobs/XbkMcvnNq3g_0000023 775.1 781.5 
+Steve_Jobs/XbkMcvnNq3g_0000024 813.3 820.2 
+Steve_Jobs/XbkMcvnNq3g_0000025 836.6 840.7 
+Steve_Jobs/XbkMcvnNq3g_0000026 1019.8 1027.9 
+Steve_Jobs/XbkMcvnNq3g_0000027 1031.5 1049.2 
+Steve_Jobs/XbkMcvnNq3g_0000028 1049.5 1056.4 
+Steve_Jobs/XbkMcvnNq3g_0000029 1057.4 1065.6 
+Steve_Jobs/XbkMcvnNq3g_0000030 1073.6 1078.5 
+Steve_Jobs/XbkMcvnNq3g_0000031 1085.4 1089.8 
+Steve_Jobs/XbkMcvnNq3g_0000032 1096.4 1103.6 
+Steve_Jobs/XbkMcvnNq3g_0000033 1103.7 1118.4 
+Steve_Jobs/XbkMcvnNq3g_0000034 1130.8 1137.4 
+Steve_Jobs/XbkMcvnNq3g_0000035 1139.6 1143.7 

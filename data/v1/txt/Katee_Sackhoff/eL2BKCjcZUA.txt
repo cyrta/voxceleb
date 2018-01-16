@@ -1,0 +1,9 @@
+POI: 			Katee_Sackhoff 
+Youtube ID: 	eL2BKCjcZUA 
+Video length: 	174.2 sec 
+Set (V): 		dev 
+ 
+Katee_Sackhoff/eL2BKCjcZUA_0000001 11.4 15.9 
+Katee_Sackhoff/eL2BKCjcZUA_0000002 18.2 27.8 
+Katee_Sackhoff/eL2BKCjcZUA_0000003 81.5 91.2 
+Katee_Sackhoff/eL2BKCjcZUA_0000004 139.1 158.8 

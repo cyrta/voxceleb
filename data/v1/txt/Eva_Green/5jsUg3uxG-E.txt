@@ -1,0 +1,12 @@
+POI: 			Eva_Green 
+Youtube ID: 	5jsUg3uxG-E 
+Video length: 	177.1 sec 
+Set (V): 		test 
+ 
+Eva_Green/5jsUg3uxG-E_0000001 15.4 37.6 
+Eva_Green/5jsUg3uxG-E_0000002 38.8 46.7 
+Eva_Green/5jsUg3uxG-E_0000003 54.3 63.6 
+Eva_Green/5jsUg3uxG-E_0000004 70.5 78.4 
+Eva_Green/5jsUg3uxG-E_0000005 79.1 83.6 
+Eva_Green/5jsUg3uxG-E_0000006 100.4 110.4 
+Eva_Green/5jsUg3uxG-E_0000007 110.9 118.0 

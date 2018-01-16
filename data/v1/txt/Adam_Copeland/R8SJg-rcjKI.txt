@@ -1,0 +1,14 @@
+POI: 			Adam_Copeland 
+Youtube ID: 	R8SJg-rcjKI 
+Video length: 	169.2 sec 
+Set (V): 		dev 
+ 
+Adam_Copeland/R8SJg-rcjKI_0000001 23.5 29.1 
+Adam_Copeland/R8SJg-rcjKI_0000002 30.7 38.4 
+Adam_Copeland/R8SJg-rcjKI_0000003 51.8 64.4 
+Adam_Copeland/R8SJg-rcjKI_0000004 66.9 77.1 
+Adam_Copeland/R8SJg-rcjKI_0000005 78.6 85.6 
+Adam_Copeland/R8SJg-rcjKI_0000006 118.4 129.3 
+Adam_Copeland/R8SJg-rcjKI_0000007 137.4 146.5 
+Adam_Copeland/R8SJg-rcjKI_0000008 147.8 153.6 
+Adam_Copeland/R8SJg-rcjKI_0000009 155.7 162.8 

@@ -1,0 +1,9 @@
+POI: 			Laura_Dern 
+Youtube ID: 	rS_T-qPg72U 
+Video length: 	226.9 sec 
+Set (V): 		dev 
+ 
+Laura_Dern/rS_T-qPg72U_0000001 09.5 13.6 
+Laura_Dern/rS_T-qPg72U_0000002 65.4 77.7 
+Laura_Dern/rS_T-qPg72U_0000003 99.8 104.1 
+Laura_Dern/rS_T-qPg72U_0000004 160.8 168.2 

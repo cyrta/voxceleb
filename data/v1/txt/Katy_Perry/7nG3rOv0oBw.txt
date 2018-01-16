@@ -1,0 +1,11 @@
+POI: 			Katy_Perry 
+Youtube ID: 	7nG3rOv0oBw 
+Video length: 	335.1 sec 
+Set (V): 		dev 
+ 
+Katy_Perry/7nG3rOv0oBw_0000001 48.5 59.7 
+Katy_Perry/7nG3rOv0oBw_0000002 69.6 74.4 
+Katy_Perry/7nG3rOv0oBw_0000003 103.4 112.5 
+Katy_Perry/7nG3rOv0oBw_0000004 201.1 209.1 
+Katy_Perry/7nG3rOv0oBw_0000005 285.8 294.0 
+Katy_Perry/7nG3rOv0oBw_0000006 319.1 323.7 

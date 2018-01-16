@@ -1,0 +1,8 @@
+POI: 			Patrick_Dempsey 
+Youtube ID: 	oJYr3KiiHuM 
+Video length: 	260.2 sec 
+Set (V): 		dev 
+ 
+Patrick_Dempsey/oJYr3KiiHuM_0000001 169.0 177.4 
+Patrick_Dempsey/oJYr3KiiHuM_0000002 182.8 200.8 
+Patrick_Dempsey/oJYr3KiiHuM_0000003 241.4 251.1 

@@ -1,0 +1,16 @@
+POI: 			Adam_Driver 
+Youtube ID: 	0AXjxNXiEzo 
+Video length: 	246.4 sec 
+Set (V): 		dev 
+ 
+Adam_Driver/0AXjxNXiEzo_0000001 35.1 39.8 
+Adam_Driver/0AXjxNXiEzo_0000002 47.4 54.0 
+Adam_Driver/0AXjxNXiEzo_0000003 84.6 96.5 
+Adam_Driver/0AXjxNXiEzo_0000004 100.7 105.5 
+Adam_Driver/0AXjxNXiEzo_0000005 130.0 137.7 
+Adam_Driver/0AXjxNXiEzo_0000006 147.3 159.5 
+Adam_Driver/0AXjxNXiEzo_0000007 179.6 184.0 
+Adam_Driver/0AXjxNXiEzo_0000008 184.7 189.2 
+Adam_Driver/0AXjxNXiEzo_0000009 196.0 201.6 
+Adam_Driver/0AXjxNXiEzo_0000010 216.3 225.4 
+Adam_Driver/0AXjxNXiEzo_0000011 225.5 233.2 

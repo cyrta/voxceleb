@@ -1,0 +1,11 @@
+POI: 			Maya_Rudolph 
+Youtube ID: 	DttvVon5hsA 
+Video length: 	164.3 sec 
+Set (V): 		dev 
+ 
+Maya_Rudolph/DttvVon5hsA_0000001 24.1 33.6 
+Maya_Rudolph/DttvVon5hsA_0000002 59.8 68.3 
+Maya_Rudolph/DttvVon5hsA_0000003 76.9 81.3 
+Maya_Rudolph/DttvVon5hsA_0000004 111.2 116.9 
+Maya_Rudolph/DttvVon5hsA_0000005 127.5 134.0 
+Maya_Rudolph/DttvVon5hsA_0000006 155.5 160.8 

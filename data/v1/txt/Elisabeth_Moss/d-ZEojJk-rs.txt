@@ -1,0 +1,12 @@
+POI: 			Elisabeth_Moss 
+Youtube ID: 	d-ZEojJk-rs 
+Video length: 	490.3 sec 
+Set (V): 		test 
+ 
+Elisabeth_Moss/d-ZEojJk-rs_0000001 71.1 75.6 
+Elisabeth_Moss/d-ZEojJk-rs_0000002 81.4 96.3 
+Elisabeth_Moss/d-ZEojJk-rs_0000003 102.1 121.0 
+Elisabeth_Moss/d-ZEojJk-rs_0000004 123.2 129.6 
+Elisabeth_Moss/d-ZEojJk-rs_0000005 136.9 147.5 
+Elisabeth_Moss/d-ZEojJk-rs_0000006 147.6 156.1 
+Elisabeth_Moss/d-ZEojJk-rs_0000007 157.2 167.4 

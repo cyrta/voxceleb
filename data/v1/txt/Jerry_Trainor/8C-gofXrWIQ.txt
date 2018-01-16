@@ -1,0 +1,11 @@
+POI: 			Jerry_Trainor 
+Youtube ID: 	8C-gofXrWIQ 
+Video length: 	238.7 sec 
+Set (V): 		dev 
+ 
+Jerry_Trainor/8C-gofXrWIQ_0000001 12.0 24.9 
+Jerry_Trainor/8C-gofXrWIQ_0000002 36.4 42.3 
+Jerry_Trainor/8C-gofXrWIQ_0000003 76.6 83.3 
+Jerry_Trainor/8C-gofXrWIQ_0000004 90.5 95.0 
+Jerry_Trainor/8C-gofXrWIQ_0000005 97.0 106.1 
+Jerry_Trainor/8C-gofXrWIQ_0000006 141.6 147.1 

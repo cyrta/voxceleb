@@ -1,0 +1,8 @@
+POI: 			John_Barrowman 
+Youtube ID: 	tdGTRv1bO0o 
+Video length: 	241.4 sec 
+Set (V): 		dev 
+ 
+John_Barrowman/tdGTRv1bO0o_0000001 18.8 22.8 
+John_Barrowman/tdGTRv1bO0o_0000002 89.6 97.0 
+John_Barrowman/tdGTRv1bO0o_0000003 192.2 203.8 

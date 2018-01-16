@@ -1,0 +1,15 @@
+POI: 			Natalie_Martinez 
+Youtube ID: 	hvlJnXsTXHU 
+Video length: 	208.4 sec 
+Set (V): 		dev 
+ 
+Natalie_Martinez/hvlJnXsTXHU_0000001 29.2 35.6 
+Natalie_Martinez/hvlJnXsTXHU_0000002 36.4 42.0 
+Natalie_Martinez/hvlJnXsTXHU_0000003 42.2 53.8 
+Natalie_Martinez/hvlJnXsTXHU_0000004 54.0 63.7 
+Natalie_Martinez/hvlJnXsTXHU_0000005 64.4 72.0 
+Natalie_Martinez/hvlJnXsTXHU_0000006 75.9 80.7 
+Natalie_Martinez/hvlJnXsTXHU_0000007 97.7 108.0 
+Natalie_Martinez/hvlJnXsTXHU_0000008 123.6 131.1 
+Natalie_Martinez/hvlJnXsTXHU_0000009 131.5 139.7 
+Natalie_Martinez/hvlJnXsTXHU_0000010 146.8 159.5 

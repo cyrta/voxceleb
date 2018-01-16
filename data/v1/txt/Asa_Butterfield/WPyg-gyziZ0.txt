@@ -1,0 +1,13 @@
+POI: 			Asa_Butterfield 
+Youtube ID: 	WPyg-gyziZ0 
+Video length: 	207.4 sec 
+Set (V): 		dev 
+ 
+Asa_Butterfield/WPyg-gyziZ0_0000001 18.2 29.6 
+Asa_Butterfield/WPyg-gyziZ0_0000002 30.6 38.4 
+Asa_Butterfield/WPyg-gyziZ0_0000003 52.0 74.9 
+Asa_Butterfield/WPyg-gyziZ0_0000004 75.8 82.1 
+Asa_Butterfield/WPyg-gyziZ0_0000005 107.4 115.8 
+Asa_Butterfield/WPyg-gyziZ0_0000006 126.2 136.6 
+Asa_Butterfield/WPyg-gyziZ0_0000007 155.5 172.6 
+Asa_Butterfield/WPyg-gyziZ0_0000008 185.1 197.2 

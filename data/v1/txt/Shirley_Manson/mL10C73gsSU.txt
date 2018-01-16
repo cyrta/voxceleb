@@ -1,0 +1,18 @@
+POI: 			Shirley_Manson 
+Youtube ID: 	mL10C73gsSU 
+Video length: 	317.0 sec 
+Set (V): 		dev 
+ 
+Shirley_Manson/mL10C73gsSU_0000001 49.8 54.2 
+Shirley_Manson/mL10C73gsSU_0000002 54.7 69.6 
+Shirley_Manson/mL10C73gsSU_0000003 70.3 85.7 
+Shirley_Manson/mL10C73gsSU_0000004 96.7 106.0 
+Shirley_Manson/mL10C73gsSU_0000005 108.0 124.1 
+Shirley_Manson/mL10C73gsSU_0000006 189.7 198.3 
+Shirley_Manson/mL10C73gsSU_0000007 199.1 211.8 
+Shirley_Manson/mL10C73gsSU_0000008 224.2 232.4 
+Shirley_Manson/mL10C73gsSU_0000009 232.8 248.6 
+Shirley_Manson/mL10C73gsSU_0000010 251.4 265.3 
+Shirley_Manson/mL10C73gsSU_0000011 266.4 271.7 
+Shirley_Manson/mL10C73gsSU_0000012 283.7 289.1 
+Shirley_Manson/mL10C73gsSU_0000013 293.2 304.3 

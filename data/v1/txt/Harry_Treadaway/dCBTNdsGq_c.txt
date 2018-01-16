@@ -1,0 +1,7 @@
+POI: 			Harry_Treadaway 
+Youtube ID: 	dCBTNdsGq_c 
+Video length: 	70.7 sec 
+Set (V): 		dev 
+ 
+Harry_Treadaway/dCBTNdsGq_c_0000001 07.1 12.8 
+Harry_Treadaway/dCBTNdsGq_c_0000002 47.8 57.0 

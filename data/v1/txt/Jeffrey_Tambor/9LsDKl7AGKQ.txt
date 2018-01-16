@@ -1,0 +1,7 @@
+POI: 			Jeffrey_Tambor 
+Youtube ID: 	9LsDKl7AGKQ 
+Video length: 	116.4 sec 
+Set (V): 		dev 
+ 
+Jeffrey_Tambor/9LsDKl7AGKQ_0000001 86.9 95.2 
+Jeffrey_Tambor/9LsDKl7AGKQ_0000002 101.3 108.4 

@@ -1,0 +1,8 @@
+POI: 			John_Lloyd_Young 
+Youtube ID: 	gZ4iH5zGuWs 
+Video length: 	99.3 sec 
+Set (V): 		dev 
+ 
+John_Lloyd_Young/gZ4iH5zGuWs_0000001 08.8 14.3 
+John_Lloyd_Young/gZ4iH5zGuWs_0000002 24.2 31.1 
+John_Lloyd_Young/gZ4iH5zGuWs_0000003 82.3 86.6 

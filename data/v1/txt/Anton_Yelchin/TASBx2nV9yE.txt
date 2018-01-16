@@ -1,0 +1,6 @@
+POI: 			Anton_Yelchin 
+Youtube ID: 	TASBx2nV9yE 
+Video length: 	211.3 sec 
+Set (V): 		dev 
+ 
+Anton_Yelchin/TASBx2nV9yE_0000001 38.6 46.3 

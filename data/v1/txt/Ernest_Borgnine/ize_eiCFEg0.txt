@@ -1,0 +1,12 @@
+POI: 			Ernest_Borgnine 
+Youtube ID: 	ize_eiCFEg0 
+Video length: 	224.7 sec 
+Set (V): 		test 
+ 
+Ernest_Borgnine/ize_eiCFEg0_0000001 30.0 34.5 
+Ernest_Borgnine/ize_eiCFEg0_0000002 34.8 39.7 
+Ernest_Borgnine/ize_eiCFEg0_0000003 59.1 63.1 
+Ernest_Borgnine/ize_eiCFEg0_0000004 64.9 69.7 
+Ernest_Borgnine/ize_eiCFEg0_0000005 70.7 77.4 
+Ernest_Borgnine/ize_eiCFEg0_0000006 85.0 96.9 
+Ernest_Borgnine/ize_eiCFEg0_0000007 139.5 143.8 

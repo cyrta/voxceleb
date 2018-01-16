@@ -1,0 +1,13 @@
+POI: 			Shailene_Woodley 
+Youtube ID: 	cVHv4rYFmek 
+Video length: 	329.1 sec 
+Set (V): 		dev 
+ 
+Shailene_Woodley/cVHv4rYFmek_0000001 105.5 110.1 
+Shailene_Woodley/cVHv4rYFmek_0000002 112.5 117.9 
+Shailene_Woodley/cVHv4rYFmek_0000003 118.9 123.6 
+Shailene_Woodley/cVHv4rYFmek_0000004 124.8 129.8 
+Shailene_Woodley/cVHv4rYFmek_0000005 219.6 232.1 
+Shailene_Woodley/cVHv4rYFmek_0000006 247.3 259.8 
+Shailene_Woodley/cVHv4rYFmek_0000007 278.8 289.4 
+Shailene_Woodley/cVHv4rYFmek_0000008 309.2 316.0 

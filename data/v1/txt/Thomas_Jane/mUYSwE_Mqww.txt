@@ -1,0 +1,10 @@
+POI: 			Thomas_Jane 
+Youtube ID: 	mUYSwE_Mqww 
+Video length: 	772.7 sec 
+Set (V): 		dev 
+ 
+Thomas_Jane/mUYSwE_Mqww_0000001 29.7 34.5 
+Thomas_Jane/mUYSwE_Mqww_0000002 392.2 398.6 
+Thomas_Jane/mUYSwE_Mqww_0000003 436.4 441.6 
+Thomas_Jane/mUYSwE_Mqww_0000004 513.5 518.0 
+Thomas_Jane/mUYSwE_Mqww_0000005 518.3 524.2 

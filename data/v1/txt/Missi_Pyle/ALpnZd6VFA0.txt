@@ -1,0 +1,8 @@
+POI: 			Missi_Pyle 
+Youtube ID: 	ALpnZd6VFA0 
+Video length: 	297.2 sec 
+Set (V): 		dev 
+ 
+Missi_Pyle/ALpnZd6VFA0_0000001 117.0 127.1 
+Missi_Pyle/ALpnZd6VFA0_0000002 158.4 166.1 
+Missi_Pyle/ALpnZd6VFA0_0000003 219.0 224.5 

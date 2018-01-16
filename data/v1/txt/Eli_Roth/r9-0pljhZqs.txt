@@ -1,0 +1,22 @@
+POI: 			Eli_Roth 
+Youtube ID: 	r9-0pljhZqs 
+Video length: 	646.5 sec 
+Set (V): 		test 
+ 
+Eli_Roth/r9-0pljhZqs_0000001 96.6 110.8 
+Eli_Roth/r9-0pljhZqs_0000002 149.0 153.9 
+Eli_Roth/r9-0pljhZqs_0000003 162.5 176.3 
+Eli_Roth/r9-0pljhZqs_0000004 290.8 299.9 
+Eli_Roth/r9-0pljhZqs_0000005 316.8 326.9 
+Eli_Roth/r9-0pljhZqs_0000006 334.9 339.5 
+Eli_Roth/r9-0pljhZqs_0000007 385.4 392.3 
+Eli_Roth/r9-0pljhZqs_0000008 404.8 424.2 
+Eli_Roth/r9-0pljhZqs_0000009 430.6 438.2 
+Eli_Roth/r9-0pljhZqs_0000010 446.3 452.0 
+Eli_Roth/r9-0pljhZqs_0000011 492.3 502.4 
+Eli_Roth/r9-0pljhZqs_0000012 530.6 543.7 
+Eli_Roth/r9-0pljhZqs_0000013 549.7 558.5 
+Eli_Roth/r9-0pljhZqs_0000014 574.1 584.4 
+Eli_Roth/r9-0pljhZqs_0000015 588.9 593.2 
+Eli_Roth/r9-0pljhZqs_0000016 594.6 603.2 
+Eli_Roth/r9-0pljhZqs_0000017 614.6 621.6 

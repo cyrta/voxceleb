@@ -1,0 +1,17 @@
+POI: 			Guy_Pearce 
+Youtube ID: 	81daGZtk62s 
+Video length: 	392.6 sec 
+Set (V): 		dev 
+ 
+Guy_Pearce/81daGZtk62s_0000001 41.4 61.0 
+Guy_Pearce/81daGZtk62s_0000002 69.3 79.1 
+Guy_Pearce/81daGZtk62s_0000003 126.0 135.8 
+Guy_Pearce/81daGZtk62s_0000004 137.8 144.9 
+Guy_Pearce/81daGZtk62s_0000005 161.1 170.2 
+Guy_Pearce/81daGZtk62s_0000006 170.7 180.2 
+Guy_Pearce/81daGZtk62s_0000007 189.3 194.9 
+Guy_Pearce/81daGZtk62s_0000008 204.7 220.4 
+Guy_Pearce/81daGZtk62s_0000009 222.8 226.8 
+Guy_Pearce/81daGZtk62s_0000010 227.8 233.1 
+Guy_Pearce/81daGZtk62s_0000011 244.4 274.4 
+Guy_Pearce/81daGZtk62s_0000012 289.8 297.7 

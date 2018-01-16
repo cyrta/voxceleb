@@ -1,0 +1,11 @@
+POI: 			Omari_Hardwick 
+Youtube ID: 	CQDQQyxHmzI 
+Video length: 	315.6 sec 
+Set (V): 		dev 
+ 
+Omari_Hardwick/CQDQQyxHmzI_0000001 96.6 101.5 
+Omari_Hardwick/CQDQQyxHmzI_0000002 123.5 140.1 
+Omari_Hardwick/CQDQQyxHmzI_0000003 156.0 163.5 
+Omari_Hardwick/CQDQQyxHmzI_0000004 201.1 206.6 
+Omari_Hardwick/CQDQQyxHmzI_0000005 240.1 246.4 
+Omari_Hardwick/CQDQQyxHmzI_0000006 256.5 288.9 

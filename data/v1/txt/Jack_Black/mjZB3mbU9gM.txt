@@ -1,0 +1,8 @@
+POI: 			Jack_Black 
+Youtube ID: 	mjZB3mbU9gM 
+Video length: 	489.4 sec 
+Set (V): 		dev 
+ 
+Jack_Black/mjZB3mbU9gM_0000001 295.1 299.2 
+Jack_Black/mjZB3mbU9gM_0000002 366.2 371.0 
+Jack_Black/mjZB3mbU9gM_0000003 456.0 460.0 

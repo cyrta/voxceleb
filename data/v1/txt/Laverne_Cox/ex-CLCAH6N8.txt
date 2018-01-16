@@ -1,0 +1,6 @@
+POI: 			Laverne_Cox 
+Youtube ID: 	ex-CLCAH6N8 
+Video length: 	285.1 sec 
+Set (V): 		dev 
+ 
+Laverne_Cox/ex-CLCAH6N8_0000001 85.8 90.0 

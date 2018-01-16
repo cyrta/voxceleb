@@ -1,0 +1,9 @@
+POI: 			Kate_McKinnon 
+Youtube ID: 	sR5Ya5A0kaA 
+Video length: 	492.0 sec 
+Set (V): 		dev 
+ 
+Kate_McKinnon/sR5Ya5A0kaA_0000001 04.7 21.4 
+Kate_McKinnon/sR5Ya5A0kaA_0000002 173.6 178.4 
+Kate_McKinnon/sR5Ya5A0kaA_0000003 178.6 184.3 
+Kate_McKinnon/sR5Ya5A0kaA_0000004 382.0 396.1 

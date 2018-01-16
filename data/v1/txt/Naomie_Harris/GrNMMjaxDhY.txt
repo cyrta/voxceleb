@@ -1,0 +1,11 @@
+POI: 			Naomie_Harris 
+Youtube ID: 	GrNMMjaxDhY 
+Video length: 	361.1 sec 
+Set (V): 		dev 
+ 
+Naomie_Harris/GrNMMjaxDhY_0000001 70.4 78.1 
+Naomie_Harris/GrNMMjaxDhY_0000002 98.5 103.2 
+Naomie_Harris/GrNMMjaxDhY_0000003 111.3 115.3 
+Naomie_Harris/GrNMMjaxDhY_0000004 131.5 137.2 
+Naomie_Harris/GrNMMjaxDhY_0000005 158.7 166.1 
+Naomie_Harris/GrNMMjaxDhY_0000006 170.8 176.6 

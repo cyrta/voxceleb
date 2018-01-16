@@ -1,0 +1,9 @@
+POI: 			Armand_Assante 
+Youtube ID: 	nWrEW-7n7z4 
+Video length: 	417.0 sec 
+Set (V): 		dev 
+ 
+Armand_Assante/nWrEW-7n7z4_0000001 198.2 204.1 
+Armand_Assante/nWrEW-7n7z4_0000002 225.0 229.0 
+Armand_Assante/nWrEW-7n7z4_0000003 231.4 235.8 
+Armand_Assante/nWrEW-7n7z4_0000004 333.2 340.8 

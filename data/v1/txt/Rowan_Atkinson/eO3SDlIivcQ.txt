@@ -1,0 +1,8 @@
+POI: 			Rowan_Atkinson 
+Youtube ID: 	eO3SDlIivcQ 
+Video length: 	184.1 sec 
+Set (V): 		dev 
+ 
+Rowan_Atkinson/eO3SDlIivcQ_0000001 45.4 49.6 
+Rowan_Atkinson/eO3SDlIivcQ_0000002 50.6 57.4 
+Rowan_Atkinson/eO3SDlIivcQ_0000003 166.3 173.7 

@@ -1,0 +1,7 @@
+POI: 			Randeep_Hooda 
+Youtube ID: 	2CsyGLVAS2g 
+Video length: 	338.6 sec 
+Set (V): 		dev 
+ 
+Randeep_Hooda/2CsyGLVAS2g_0000001 50.0 58.8 
+Randeep_Hooda/2CsyGLVAS2g_0000002 96.6 103.2 

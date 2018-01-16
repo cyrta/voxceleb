@@ -1,0 +1,8 @@
+POI: 			Kyle_Richards 
+Youtube ID: 	7vjeXgRxDeM 
+Video length: 	97.1 sec 
+Set (V): 		dev 
+ 
+Kyle_Richards/7vjeXgRxDeM_0000001 00.8 11.2 
+Kyle_Richards/7vjeXgRxDeM_0000002 29.8 39.0 
+Kyle_Richards/7vjeXgRxDeM_0000003 60.0 67.8 

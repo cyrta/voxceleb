@@ -1,0 +1,13 @@
+POI: 			Luc_Besson 
+Youtube ID: 	pIx3840j3LI 
+Video length: 	894.4 sec 
+Set (V): 		dev 
+ 
+Luc_Besson/pIx3840j3LI_0000001 112.4 116.9 
+Luc_Besson/pIx3840j3LI_0000002 153.6 161.8 
+Luc_Besson/pIx3840j3LI_0000003 165.8 175.3 
+Luc_Besson/pIx3840j3LI_0000004 175.6 182.5 
+Luc_Besson/pIx3840j3LI_0000005 198.1 203.7 
+Luc_Besson/pIx3840j3LI_0000006 744.4 748.6 
+Luc_Besson/pIx3840j3LI_0000007 755.4 760.3 
+Luc_Besson/pIx3840j3LI_0000008 765.8 771.7 

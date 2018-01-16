@@ -1,0 +1,7 @@
+POI: 			Joel_Edgerton 
+Youtube ID: 	TDLxOdF2KUQ 
+Video length: 	184.6 sec 
+Set (V): 		dev 
+ 
+Joel_Edgerton/TDLxOdF2KUQ_0000001 102.3 106.5 
+Joel_Edgerton/TDLxOdF2KUQ_0000002 107.1 112.7 

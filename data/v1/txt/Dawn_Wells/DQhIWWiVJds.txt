@@ -1,0 +1,8 @@
+POI: 			Dawn_Wells 
+Youtube ID: 	DQhIWWiVJds 
+Video length: 	459.3 sec 
+Set (V): 		dev 
+ 
+Dawn_Wells/DQhIWWiVJds_0000001 19.0 23.5 
+Dawn_Wells/DQhIWWiVJds_0000002 178.4 184.1 
+Dawn_Wells/DQhIWWiVJds_0000003 368.7 373.7 

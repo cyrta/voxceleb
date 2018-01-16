@@ -1,0 +1,13 @@
+POI: 			Jacob_Latimore 
+Youtube ID: 	9On_aKNQR8Q 
+Video length: 	259.9 sec 
+Set (V): 		dev 
+ 
+Jacob_Latimore/9On_aKNQR8Q_0000001 17.2 43.3 
+Jacob_Latimore/9On_aKNQR8Q_0000002 45.5 55.2 
+Jacob_Latimore/9On_aKNQR8Q_0000003 64.6 74.4 
+Jacob_Latimore/9On_aKNQR8Q_0000004 126.6 133.8 
+Jacob_Latimore/9On_aKNQR8Q_0000005 167.7 174.0 
+Jacob_Latimore/9On_aKNQR8Q_0000006 213.1 217.8 
+Jacob_Latimore/9On_aKNQR8Q_0000007 240.1 244.3 
+Jacob_Latimore/9On_aKNQR8Q_0000008 246.5 255.7 

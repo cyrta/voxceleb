@@ -1,0 +1,10 @@
+POI: 			Shiloh_Fernandez 
+Youtube ID: 	hW_LZxyo5qc 
+Video length: 	203.5 sec 
+Set (V): 		dev 
+ 
+Shiloh_Fernandez/hW_LZxyo5qc_0000001 10.9 28.0 
+Shiloh_Fernandez/hW_LZxyo5qc_0000002 99.8 115.4 
+Shiloh_Fernandez/hW_LZxyo5qc_0000003 115.7 120.0 
+Shiloh_Fernandez/hW_LZxyo5qc_0000004 166.5 181.3 
+Shiloh_Fernandez/hW_LZxyo5qc_0000005 185.7 191.9 

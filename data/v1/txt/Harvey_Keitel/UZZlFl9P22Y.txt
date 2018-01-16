@@ -1,0 +1,10 @@
+POI: 			Harvey_Keitel 
+Youtube ID: 	UZZlFl9P22Y 
+Video length: 	338.1 sec 
+Set (V): 		dev 
+ 
+Harvey_Keitel/UZZlFl9P22Y_0000001 86.0 94.9 
+Harvey_Keitel/UZZlFl9P22Y_0000002 154.2 158.1 
+Harvey_Keitel/UZZlFl9P22Y_0000003 248.0 252.0 
+Harvey_Keitel/UZZlFl9P22Y_0000004 260.8 265.0 
+Harvey_Keitel/UZZlFl9P22Y_0000005 275.9 281.8 

@@ -1,0 +1,8 @@
+POI: 			Sam_Trammell 
+Youtube ID: 	BHs_Cjz5OI0 
+Video length: 	66.7 sec 
+Set (V): 		dev 
+ 
+Sam_Trammell/BHs_Cjz5OI0_0000001 10.8 16.6 
+Sam_Trammell/BHs_Cjz5OI0_0000002 17.8 43.2 
+Sam_Trammell/BHs_Cjz5OI0_0000003 44.2 58.4 

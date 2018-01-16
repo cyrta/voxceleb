@@ -1,0 +1,9 @@
+POI: 			Anthony_Rapp 
+Youtube ID: 	tarIrBNNKpI 
+Video length: 	465.7 sec 
+Set (V): 		dev 
+ 
+Anthony_Rapp/tarIrBNNKpI_0000001 157.2 163.0 
+Anthony_Rapp/tarIrBNNKpI_0000002 168.8 177.1 
+Anthony_Rapp/tarIrBNNKpI_0000003 187.0 197.6 
+Anthony_Rapp/tarIrBNNKpI_0000004 360.6 365.3 

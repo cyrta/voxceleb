@@ -1,0 +1,9 @@
+POI: 			Steve_Harvey 
+Youtube ID: 	wybjucSIBOU 
+Video length: 	599.2 sec 
+Set (V): 		dev 
+ 
+Steve_Harvey/wybjucSIBOU_0000001 08.2 13.5 
+Steve_Harvey/wybjucSIBOU_0000002 150.8 159.1 
+Steve_Harvey/wybjucSIBOU_0000003 560.0 565.6 
+Steve_Harvey/wybjucSIBOU_0000004 574.8 579.6 

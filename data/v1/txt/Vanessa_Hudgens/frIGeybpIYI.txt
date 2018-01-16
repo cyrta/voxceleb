@@ -1,0 +1,7 @@
+POI: 			Vanessa_Hudgens 
+Youtube ID: 	frIGeybpIYI 
+Video length: 	172.0 sec 
+Set (V): 		dev 
+ 
+Vanessa_Hudgens/frIGeybpIYI_0000001 58.2 64.9 
+Vanessa_Hudgens/frIGeybpIYI_0000002 128.3 133.9 

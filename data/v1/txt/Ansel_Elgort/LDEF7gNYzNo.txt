@@ -1,0 +1,9 @@
+POI: 			Ansel_Elgort 
+Youtube ID: 	LDEF7gNYzNo 
+Video length: 	80.6 sec 
+Set (V): 		dev 
+ 
+Ansel_Elgort/LDEF7gNYzNo_0000001 03.9 17.8 
+Ansel_Elgort/LDEF7gNYzNo_0000002 24.3 31.5 
+Ansel_Elgort/LDEF7gNYzNo_0000003 35.4 44.0 
+Ansel_Elgort/LDEF7gNYzNo_0000004 54.4 63.2 

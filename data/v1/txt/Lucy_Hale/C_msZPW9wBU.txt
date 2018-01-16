@@ -1,0 +1,13 @@
+POI: 			Lucy_Hale 
+Youtube ID: 	C_msZPW9wBU 
+Video length: 	182.1 sec 
+Set (V): 		dev 
+ 
+Lucy_Hale/C_msZPW9wBU_0000001 12.0 17.5 
+Lucy_Hale/C_msZPW9wBU_0000002 19.3 25.4 
+Lucy_Hale/C_msZPW9wBU_0000003 28.1 36.8 
+Lucy_Hale/C_msZPW9wBU_0000004 68.1 74.4 
+Lucy_Hale/C_msZPW9wBU_0000005 76.5 80.6 
+Lucy_Hale/C_msZPW9wBU_0000006 106.0 110.4 
+Lucy_Hale/C_msZPW9wBU_0000007 110.8 118.2 
+Lucy_Hale/C_msZPW9wBU_0000008 157.9 162.0 

@@ -1,0 +1,10 @@
+POI: 			Nikolaj_Coster-Waldau 
+Youtube ID: 	gM9BuqYleR4 
+Video length: 	264.2 sec 
+Set (V): 		dev 
+ 
+Nikolaj_Coster-Waldau/gM9BuqYleR4_0000001 32.8 39.0 
+Nikolaj_Coster-Waldau/gM9BuqYleR4_0000002 47.3 54.9 
+Nikolaj_Coster-Waldau/gM9BuqYleR4_0000003 160.2 165.3 
+Nikolaj_Coster-Waldau/gM9BuqYleR4_0000004 185.2 192.1 
+Nikolaj_Coster-Waldau/gM9BuqYleR4_0000005 195.6 201.2 

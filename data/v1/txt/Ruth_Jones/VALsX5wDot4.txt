@@ -1,0 +1,7 @@
+POI: 			Ruth_Jones 
+Youtube ID: 	VALsX5wDot4 
+Video length: 	83.7 sec 
+Set (V): 		dev 
+ 
+Ruth_Jones/VALsX5wDot4_0000001 09.4 14.6 
+Ruth_Jones/VALsX5wDot4_0000002 26.6 31.1 

@@ -1,0 +1,10 @@
+POI: 			Carolyn_Hennesy 
+Youtube ID: 	5YRTwgqaHno 
+Video length: 	207.6 sec 
+Set (V): 		dev 
+ 
+Carolyn_Hennesy/5YRTwgqaHno_0000001 45.4 50.5 
+Carolyn_Hennesy/5YRTwgqaHno_0000002 60.9 68.0 
+Carolyn_Hennesy/5YRTwgqaHno_0000003 124.6 132.4 
+Carolyn_Hennesy/5YRTwgqaHno_0000004 133.3 150.6 
+Carolyn_Hennesy/5YRTwgqaHno_0000005 164.8 176.3 

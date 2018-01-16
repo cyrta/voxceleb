@@ -1,0 +1,9 @@
+POI: 			Richard_Hammond 
+Youtube ID: 	6b-WaO3bZs4 
+Video length: 	1009.1 sec 
+Set (V): 		dev 
+ 
+Richard_Hammond/6b-WaO3bZs4_0000001 397.4 405.3 
+Richard_Hammond/6b-WaO3bZs4_0000002 444.3 449.1 
+Richard_Hammond/6b-WaO3bZs4_0000003 625.3 630.7 
+Richard_Hammond/6b-WaO3bZs4_0000004 945.4 951.2 

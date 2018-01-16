@@ -1,0 +1,14 @@
+POI: 			Lea_Michele 
+Youtube ID: 	jRbyl3c8-S4 
+Video length: 	296.0 sec 
+Set (V): 		dev 
+ 
+Lea_Michele/jRbyl3c8-S4_0000001 08.8 17.5 
+Lea_Michele/jRbyl3c8-S4_0000002 104.2 115.0 
+Lea_Michele/jRbyl3c8-S4_0000003 121.9 128.8 
+Lea_Michele/jRbyl3c8-S4_0000004 131.8 138.2 
+Lea_Michele/jRbyl3c8-S4_0000005 145.4 155.3 
+Lea_Michele/jRbyl3c8-S4_0000006 157.5 163.9 
+Lea_Michele/jRbyl3c8-S4_0000007 195.2 207.0 
+Lea_Michele/jRbyl3c8-S4_0000008 226.9 233.0 
+Lea_Michele/jRbyl3c8-S4_0000009 255.6 289.0 

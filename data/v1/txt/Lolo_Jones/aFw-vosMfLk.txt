@@ -1,0 +1,7 @@
+POI: 			Lolo_Jones 
+Youtube ID: 	aFw-vosMfLk 
+Video length: 	53.7 sec 
+Set (V): 		dev 
+ 
+Lolo_Jones/aFw-vosMfLk_0000001 28.4 33.7 
+Lolo_Jones/aFw-vosMfLk_0000002 38.5 43.8 

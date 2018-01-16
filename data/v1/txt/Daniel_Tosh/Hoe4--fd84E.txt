@@ -1,0 +1,10 @@
+POI: 			Daniel_Tosh 
+Youtube ID: 	Hoe4--fd84E 
+Video length: 	497.0 sec 
+Set (V): 		dev 
+ 
+Daniel_Tosh/Hoe4--fd84E_0000001 34.0 41.5 
+Daniel_Tosh/Hoe4--fd84E_0000002 46.0 51.2 
+Daniel_Tosh/Hoe4--fd84E_0000003 69.5 78.7 
+Daniel_Tosh/Hoe4--fd84E_0000004 79.2 94.8 
+Daniel_Tosh/Hoe4--fd84E_0000005 436.9 445.6 

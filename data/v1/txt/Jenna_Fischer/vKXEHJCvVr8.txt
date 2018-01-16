@@ -1,0 +1,12 @@
+POI: 			Jenna_Fischer 
+Youtube ID: 	vKXEHJCvVr8 
+Video length: 	467.9 sec 
+Set (V): 		dev 
+ 
+Jenna_Fischer/vKXEHJCvVr8_0000001 67.3 77.6 
+Jenna_Fischer/vKXEHJCvVr8_0000002 380.2 388.2 
+Jenna_Fischer/vKXEHJCvVr8_0000003 393.0 398.8 
+Jenna_Fischer/vKXEHJCvVr8_0000004 399.4 407.3 
+Jenna_Fischer/vKXEHJCvVr8_0000005 379.8 398.8 
+Jenna_Fischer/vKXEHJCvVr8_0000006 407.6 414.0 
+Jenna_Fischer/vKXEHJCvVr8_0000007 414.7 424.4 

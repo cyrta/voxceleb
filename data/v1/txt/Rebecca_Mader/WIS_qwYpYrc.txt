@@ -1,0 +1,15 @@
+POI: 			Rebecca_Mader 
+Youtube ID: 	WIS_qwYpYrc 
+Video length: 	417.5 sec 
+Set (V): 		dev 
+ 
+Rebecca_Mader/WIS_qwYpYrc_0000001 36.2 42.0 
+Rebecca_Mader/WIS_qwYpYrc_0000002 70.1 74.7 
+Rebecca_Mader/WIS_qwYpYrc_0000003 120.3 124.6 
+Rebecca_Mader/WIS_qwYpYrc_0000004 156.2 163.0 
+Rebecca_Mader/WIS_qwYpYrc_0000005 195.3 199.7 
+Rebecca_Mader/WIS_qwYpYrc_0000006 228.6 235.1 
+Rebecca_Mader/WIS_qwYpYrc_0000007 281.9 290.7 
+Rebecca_Mader/WIS_qwYpYrc_0000008 319.0 323.6 
+Rebecca_Mader/WIS_qwYpYrc_0000009 328.0 332.8 
+Rebecca_Mader/WIS_qwYpYrc_0000010 333.1 337.6 

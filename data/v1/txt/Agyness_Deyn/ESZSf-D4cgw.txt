@@ -1,0 +1,8 @@
+POI: 			Agyness_Deyn 
+Youtube ID: 	ESZSf-D4cgw 
+Video length: 	349.3 sec 
+Set (V): 		dev 
+ 
+Agyness_Deyn/ESZSf-D4cgw_0000001 74.4 81.2 
+Agyness_Deyn/ESZSf-D4cgw_0000002 92.4 97.6 
+Agyness_Deyn/ESZSf-D4cgw_0000003 98.7 105.8 

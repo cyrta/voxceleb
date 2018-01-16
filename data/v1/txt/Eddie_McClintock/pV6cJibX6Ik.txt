@@ -1,0 +1,8 @@
+POI: 			Eddie_McClintock 
+Youtube ID: 	pV6cJibX6Ik 
+Video length: 	613.8 sec 
+Set (V): 		test 
+ 
+Eddie_McClintock/pV6cJibX6Ik_0000001 41.7 46.7 
+Eddie_McClintock/pV6cJibX6Ik_0000002 73.6 78.3 
+Eddie_McClintock/pV6cJibX6Ik_0000003 92.6 97.3 

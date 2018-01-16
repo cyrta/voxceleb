@@ -1,0 +1,11 @@
+POI: 			Teala_Dunn 
+Youtube ID: 	o5bT2HsV89o 
+Video length: 	108.6 sec 
+Set (V): 		dev 
+ 
+Teala_Dunn/o5bT2HsV89o_0000001 08.9 13.8 
+Teala_Dunn/o5bT2HsV89o_0000002 25.4 39.0 
+Teala_Dunn/o5bT2HsV89o_0000003 41.2 45.8 
+Teala_Dunn/o5bT2HsV89o_0000004 68.5 76.2 
+Teala_Dunn/o5bT2HsV89o_0000005 78.0 82.8 
+Teala_Dunn/o5bT2HsV89o_0000006 89.9 95.4 

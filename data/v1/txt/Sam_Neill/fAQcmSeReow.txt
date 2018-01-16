@@ -1,0 +1,7 @@
+POI: 			Sam_Neill 
+Youtube ID: 	fAQcmSeReow 
+Video length: 	539.7 sec 
+Set (V): 		dev 
+ 
+Sam_Neill/fAQcmSeReow_0000001 200.8 206.7 
+Sam_Neill/fAQcmSeReow_0000002 331.2 339.0 

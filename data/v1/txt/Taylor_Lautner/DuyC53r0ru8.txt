@@ -1,0 +1,14 @@
+POI: 			Taylor_Lautner 
+Youtube ID: 	DuyC53r0ru8 
+Video length: 	259.2 sec 
+Set (V): 		dev 
+ 
+Taylor_Lautner/DuyC53r0ru8_0000001 15.2 24.3 
+Taylor_Lautner/DuyC53r0ru8_0000002 25.1 33.8 
+Taylor_Lautner/DuyC53r0ru8_0000003 34.2 39.6 
+Taylor_Lautner/DuyC53r0ru8_0000004 74.2 80.8 
+Taylor_Lautner/DuyC53r0ru8_0000005 81.4 94.6 
+Taylor_Lautner/DuyC53r0ru8_0000006 94.9 100.2 
+Taylor_Lautner/DuyC53r0ru8_0000007 107.2 128.0 
+Taylor_Lautner/DuyC53r0ru8_0000008 199.1 213.1 
+Taylor_Lautner/DuyC53r0ru8_0000009 235.5 253.2 

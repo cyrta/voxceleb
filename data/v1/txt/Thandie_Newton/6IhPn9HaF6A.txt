@@ -1,0 +1,9 @@
+POI: 			Thandie_Newton 
+Youtube ID: 	6IhPn9HaF6A 
+Video length: 	269.8 sec 
+Set (V): 		dev 
+ 
+Thandie_Newton/6IhPn9HaF6A_0000001 40.4 44.8 
+Thandie_Newton/6IhPn9HaF6A_0000002 130.4 134.9 
+Thandie_Newton/6IhPn9HaF6A_0000003 150.2 156.6 
+Thandie_Newton/6IhPn9HaF6A_0000004 213.3 218.4 

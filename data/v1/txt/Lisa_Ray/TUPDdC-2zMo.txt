@@ -1,0 +1,8 @@
+POI: 			Lisa_Ray 
+Youtube ID: 	TUPDdC-2zMo 
+Video length: 	202.1 sec 
+Set (V): 		dev 
+ 
+Lisa_Ray/TUPDdC-2zMo_0000001 22.4 27.3 
+Lisa_Ray/TUPDdC-2zMo_0000002 33.2 44.3 
+Lisa_Ray/TUPDdC-2zMo_0000003 115.1 126.4 

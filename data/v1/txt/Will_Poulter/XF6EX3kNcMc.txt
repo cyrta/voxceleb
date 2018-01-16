@@ -1,0 +1,18 @@
+POI: 			Will_Poulter 
+Youtube ID: 	XF6EX3kNcMc 
+Video length: 	419.6 sec 
+Set (V): 		dev 
+ 
+Will_Poulter/XF6EX3kNcMc_0000001 58.8 86.1 
+Will_Poulter/XF6EX3kNcMc_0000002 135.5 140.3 
+Will_Poulter/XF6EX3kNcMc_0000003 140.9 161.9 
+Will_Poulter/XF6EX3kNcMc_0000004 174.4 182.1 
+Will_Poulter/XF6EX3kNcMc_0000005 188.0 194.9 
+Will_Poulter/XF6EX3kNcMc_0000006 196.8 209.2 
+Will_Poulter/XF6EX3kNcMc_0000007 272.1 279.9 
+Will_Poulter/XF6EX3kNcMc_0000008 303.6 325.5 
+Will_Poulter/XF6EX3kNcMc_0000009 328.1 332.5 
+Will_Poulter/XF6EX3kNcMc_0000010 366.6 376.3 
+Will_Poulter/XF6EX3kNcMc_0000011 323.2 328.7 
+Will_Poulter/XF6EX3kNcMc_0000012 383.8 397.9 
+Will_Poulter/XF6EX3kNcMc_0000013 402.0 406.4 

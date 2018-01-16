@@ -1,0 +1,7 @@
+POI: 			Seth_Rogen 
+Youtube ID: 	zYTovi2Kq4Y 
+Video length: 	164.8 sec 
+Set (V): 		dev 
+ 
+Seth_Rogen/zYTovi2Kq4Y_0000001 47.0 55.2 
+Seth_Rogen/zYTovi2Kq4Y_0000002 63.2 72.7 

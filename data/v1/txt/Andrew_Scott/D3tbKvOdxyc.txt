@@ -1,0 +1,8 @@
+POI: 			Andrew_Scott 
+Youtube ID: 	D3tbKvOdxyc 
+Video length: 	123.7 sec 
+Set (V): 		dev 
+ 
+Andrew_Scott/D3tbKvOdxyc_0000001 37.0 41.3 
+Andrew_Scott/D3tbKvOdxyc_0000002 59.0 66.7 
+Andrew_Scott/D3tbKvOdxyc_0000003 86.1 94.4 

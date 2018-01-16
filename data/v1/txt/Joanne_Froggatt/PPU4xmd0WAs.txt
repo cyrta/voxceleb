@@ -1,0 +1,11 @@
+POI: 			Joanne_Froggatt 
+Youtube ID: 	PPU4xmd0WAs 
+Video length: 	244.1 sec 
+Set (V): 		dev 
+ 
+Joanne_Froggatt/PPU4xmd0WAs_0000001 19.9 32.7 
+Joanne_Froggatt/PPU4xmd0WAs_0000002 37.6 42.5 
+Joanne_Froggatt/PPU4xmd0WAs_0000003 70.1 76.8 
+Joanne_Froggatt/PPU4xmd0WAs_0000004 180.3 187.1 
+Joanne_Froggatt/PPU4xmd0WAs_0000005 208.5 212.9 
+Joanne_Froggatt/PPU4xmd0WAs_0000006 229.2 236.3 

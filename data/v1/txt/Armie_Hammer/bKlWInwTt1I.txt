@@ -1,0 +1,19 @@
+POI: 			Armie_Hammer 
+Youtube ID: 	bKlWInwTt1I 
+Video length: 	342.5 sec 
+Set (V): 		dev 
+ 
+Armie_Hammer/bKlWInwTt1I_0000001 15.6 40.2 
+Armie_Hammer/bKlWInwTt1I_0000002 52.7 65.0 
+Armie_Hammer/bKlWInwTt1I_0000003 67.7 84.2 
+Armie_Hammer/bKlWInwTt1I_0000004 94.2 123.4 
+Armie_Hammer/bKlWInwTt1I_0000005 124.4 128.4 
+Armie_Hammer/bKlWInwTt1I_0000006 136.4 143.8 
+Armie_Hammer/bKlWInwTt1I_0000007 147.0 151.2 
+Armie_Hammer/bKlWInwTt1I_0000008 174.4 205.9 
+Armie_Hammer/bKlWInwTt1I_0000009 218.7 223.6 
+Armie_Hammer/bKlWInwTt1I_0000010 242.3 248.0 
+Armie_Hammer/bKlWInwTt1I_0000011 262.7 269.4 
+Armie_Hammer/bKlWInwTt1I_0000012 285.3 289.3 
+Armie_Hammer/bKlWInwTt1I_0000013 295.0 301.0 
+Armie_Hammer/bKlWInwTt1I_0000014 302.9 314.1 

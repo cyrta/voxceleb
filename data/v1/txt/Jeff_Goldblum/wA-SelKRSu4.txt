@@ -1,0 +1,7 @@
+POI: 			Jeff_Goldblum 
+Youtube ID: 	wA-SelKRSu4 
+Video length: 	307.0 sec 
+Set (V): 		dev 
+ 
+Jeff_Goldblum/wA-SelKRSu4_0000001 35.4 39.9 
+Jeff_Goldblum/wA-SelKRSu4_0000002 165.8 170.1 

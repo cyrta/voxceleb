@@ -1,0 +1,7 @@
+POI: 			Meghan_Trainor 
+Youtube ID: 	jtwbYqPomQk 
+Video length: 	627.2 sec 
+Set (V): 		dev 
+ 
+Meghan_Trainor/jtwbYqPomQk_0000001 309.0 318.8 
+Meghan_Trainor/jtwbYqPomQk_0000002 369.3 373.6 

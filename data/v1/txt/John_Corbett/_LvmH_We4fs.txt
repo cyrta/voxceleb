@@ -1,0 +1,28 @@
+POI: 			John_Corbett 
+Youtube ID: 	_LvmH_We4fs 
+Video length: 	444.1 sec 
+Set (V): 		dev 
+ 
+John_Corbett/_LvmH_We4fs_0000001 10.4 25.5 
+John_Corbett/_LvmH_We4fs_0000002 26.0 46.4 
+John_Corbett/_LvmH_We4fs_0000003 48.8 54.7 
+John_Corbett/_LvmH_We4fs_0000004 56.8 68.3 
+John_Corbett/_LvmH_We4fs_0000005 81.4 93.1 
+John_Corbett/_LvmH_We4fs_0000006 100.4 108.0 
+John_Corbett/_LvmH_We4fs_0000007 113.3 122.8 
+John_Corbett/_LvmH_We4fs_0000008 123.0 128.1 
+John_Corbett/_LvmH_We4fs_0000009 128.6 140.0 
+John_Corbett/_LvmH_We4fs_0000010 168.0 177.8 
+John_Corbett/_LvmH_We4fs_0000011 179.2 195.5 
+John_Corbett/_LvmH_We4fs_0000012 202.6 214.1 
+John_Corbett/_LvmH_We4fs_0000013 206.4 220.2 
+John_Corbett/_LvmH_We4fs_0000014 221.2 228.9 
+John_Corbett/_LvmH_We4fs_0000015 233.0 240.4 
+John_Corbett/_LvmH_We4fs_0000016 247.5 267.5 
+John_Corbett/_LvmH_We4fs_0000017 268.5 281.5 
+John_Corbett/_LvmH_We4fs_0000018 281.7 287.9 
+John_Corbett/_LvmH_We4fs_0000019 302.7 311.9 
+John_Corbett/_LvmH_We4fs_0000020 329.2 357.0 
+John_Corbett/_LvmH_We4fs_0000021 359.1 371.0 
+John_Corbett/_LvmH_We4fs_0000022 394.0 417.1 
+John_Corbett/_LvmH_We4fs_0000023 419.0 437.5 

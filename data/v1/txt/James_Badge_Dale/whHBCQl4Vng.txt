@@ -1,0 +1,16 @@
+POI: 			James_Badge_Dale 
+Youtube ID: 	whHBCQl4Vng 
+Video length: 	290.9 sec 
+Set (V): 		dev 
+ 
+James_Badge_Dale/whHBCQl4Vng_0000001 22.5 46.8 
+James_Badge_Dale/whHBCQl4Vng_0000002 48.6 55.3 
+James_Badge_Dale/whHBCQl4Vng_0000003 81.4 90.1 
+James_Badge_Dale/whHBCQl4Vng_0000004 97.8 108.8 
+James_Badge_Dale/whHBCQl4Vng_0000005 113.3 120.5 
+James_Badge_Dale/whHBCQl4Vng_0000006 121.7 130.3 
+James_Badge_Dale/whHBCQl4Vng_0000007 159.0 163.9 
+James_Badge_Dale/whHBCQl4Vng_0000008 168.4 173.3 
+James_Badge_Dale/whHBCQl4Vng_0000009 237.0 247.5 
+James_Badge_Dale/whHBCQl4Vng_0000010 257.5 262.9 
+James_Badge_Dale/whHBCQl4Vng_0000011 270.4 278.6 

@@ -1,0 +1,8 @@
+POI: 			Maria_de_Medeiros 
+Youtube ID: 	1NY9_4dmHyc 
+Video length: 	155.4 sec 
+Set (V): 		dev 
+ 
+Maria_de_Medeiros/1NY9_4dmHyc_0000001 14.4 18.6 
+Maria_de_Medeiros/1NY9_4dmHyc_0000002 89.6 93.7 
+Maria_de_Medeiros/1NY9_4dmHyc_0000003 106.8 111.8 

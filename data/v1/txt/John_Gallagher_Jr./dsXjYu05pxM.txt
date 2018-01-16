@@ -1,0 +1,17 @@
+POI: 			John_Gallagher_Jr. 
+Youtube ID: 	dsXjYu05pxM 
+Video length: 	256.7 sec 
+Set (V): 		dev 
+ 
+John_Gallagher_Jr./dsXjYu05pxM_0000001 06.0 10.9 
+John_Gallagher_Jr./dsXjYu05pxM_0000002 11.1 24.8 
+John_Gallagher_Jr./dsXjYu05pxM_0000003 28.4 43.7 
+John_Gallagher_Jr./dsXjYu05pxM_0000004 53.6 77.7 
+John_Gallagher_Jr./dsXjYu05pxM_0000005 81.1 98.0 
+John_Gallagher_Jr./dsXjYu05pxM_0000006 100.6 116.5 
+John_Gallagher_Jr./dsXjYu05pxM_0000007 116.8 125.6 
+John_Gallagher_Jr./dsXjYu05pxM_0000008 132.2 143.7 
+John_Gallagher_Jr./dsXjYu05pxM_0000009 148.5 161.1 
+John_Gallagher_Jr./dsXjYu05pxM_0000010 164.3 194.9 
+John_Gallagher_Jr./dsXjYu05pxM_0000011 198.3 212.3 
+John_Gallagher_Jr./dsXjYu05pxM_0000012 212.7 232.2 

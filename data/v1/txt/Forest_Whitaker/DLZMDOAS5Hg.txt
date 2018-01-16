@@ -1,0 +1,16 @@
+POI: 			Forest_Whitaker 
+Youtube ID: 	DLZMDOAS5Hg 
+Video length: 	263.1 sec 
+Set (V): 		dev 
+ 
+Forest_Whitaker/DLZMDOAS5Hg_0000001 28.2 32.3 
+Forest_Whitaker/DLZMDOAS5Hg_0000002 32.9 37.1 
+Forest_Whitaker/DLZMDOAS5Hg_0000003 39.0 48.0 
+Forest_Whitaker/DLZMDOAS5Hg_0000004 90.7 95.5 
+Forest_Whitaker/DLZMDOAS5Hg_0000005 95.9 102.8 
+Forest_Whitaker/DLZMDOAS5Hg_0000006 127.4 132.9 
+Forest_Whitaker/DLZMDOAS5Hg_0000007 137.6 145.1 
+Forest_Whitaker/DLZMDOAS5Hg_0000008 165.5 171.1 
+Forest_Whitaker/DLZMDOAS5Hg_0000009 186.0 194.4 
+Forest_Whitaker/DLZMDOAS5Hg_0000010 204.6 211.8 
+Forest_Whitaker/DLZMDOAS5Hg_0000011 235.2 251.5 

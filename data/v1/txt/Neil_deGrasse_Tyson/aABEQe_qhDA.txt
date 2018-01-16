@@ -1,0 +1,10 @@
+POI: 			Neil_deGrasse_Tyson 
+Youtube ID: 	aABEQe_qhDA 
+Video length: 	216.8 sec 
+Set (V): 		dev 
+ 
+Neil_deGrasse_Tyson/aABEQe_qhDA_0000001 10.5 15.6 
+Neil_deGrasse_Tyson/aABEQe_qhDA_0000002 89.4 98.8 
+Neil_deGrasse_Tyson/aABEQe_qhDA_0000003 103.0 115.6 
+Neil_deGrasse_Tyson/aABEQe_qhDA_0000004 150.3 155.5 
+Neil_deGrasse_Tyson/aABEQe_qhDA_0000005 167.7 180.9 

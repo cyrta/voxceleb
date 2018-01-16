@@ -1,0 +1,11 @@
+POI: 			Erin_Andrews 
+Youtube ID: 	SX-117N_MoI 
+Video length: 	426.5 sec 
+Set (V): 		test 
+ 
+Erin_Andrews/SX-117N_MoI_0000001 15.4 71.6 
+Erin_Andrews/SX-117N_MoI_0000002 87.0 122.5 
+Erin_Andrews/SX-117N_MoI_0000003 123.1 140.1 
+Erin_Andrews/SX-117N_MoI_0000004 151.5 208.2 
+Erin_Andrews/SX-117N_MoI_0000005 244.8 264.5 
+Erin_Andrews/SX-117N_MoI_0000006 272.2 302.6 

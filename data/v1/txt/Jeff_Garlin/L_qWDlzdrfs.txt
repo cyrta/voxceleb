@@ -1,0 +1,8 @@
+POI: 			Jeff_Garlin 
+Youtube ID: 	L_qWDlzdrfs 
+Video length: 	123.5 sec 
+Set (V): 		dev 
+ 
+Jeff_Garlin/L_qWDlzdrfs_0000001 92.4 96.5 
+Jeff_Garlin/L_qWDlzdrfs_0000002 103.6 108.4 
+Jeff_Garlin/L_qWDlzdrfs_0000003 111.0 115.4 

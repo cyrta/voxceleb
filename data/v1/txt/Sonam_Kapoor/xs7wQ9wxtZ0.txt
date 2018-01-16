@@ -1,0 +1,16 @@
+POI: 			Sonam_Kapoor 
+Youtube ID: 	xs7wQ9wxtZ0 
+Video length: 	1469.0 sec 
+Set (V): 		dev 
+ 
+Sonam_Kapoor/xs7wQ9wxtZ0_0000001 291.4 308.8 
+Sonam_Kapoor/xs7wQ9wxtZ0_0000002 355.8 361.7 
+Sonam_Kapoor/xs7wQ9wxtZ0_0000003 363.2 367.9 
+Sonam_Kapoor/xs7wQ9wxtZ0_0000004 368.4 372.4 
+Sonam_Kapoor/xs7wQ9wxtZ0_0000005 372.8 377.1 
+Sonam_Kapoor/xs7wQ9wxtZ0_0000006 381.4 386.4 
+Sonam_Kapoor/xs7wQ9wxtZ0_0000007 536.4 547.9 
+Sonam_Kapoor/xs7wQ9wxtZ0_0000008 550.6 555.3 
+Sonam_Kapoor/xs7wQ9wxtZ0_0000009 618.1 623.0 
+Sonam_Kapoor/xs7wQ9wxtZ0_0000010 954.5 964.2 
+Sonam_Kapoor/xs7wQ9wxtZ0_0000011 1366.0 1370.2 

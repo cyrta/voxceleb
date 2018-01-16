@@ -1,0 +1,13 @@
+POI: 			Hans_Zimmer 
+Youtube ID: 	Bh1v1HPdCwk 
+Video length: 	236.8 sec 
+Set (V): 		dev 
+ 
+Hans_Zimmer/Bh1v1HPdCwk_0000001 05.6 21.1 
+Hans_Zimmer/Bh1v1HPdCwk_0000002 25.8 30.5 
+Hans_Zimmer/Bh1v1HPdCwk_0000003 31.4 35.5 
+Hans_Zimmer/Bh1v1HPdCwk_0000004 124.4 128.8 
+Hans_Zimmer/Bh1v1HPdCwk_0000005 149.0 157.2 
+Hans_Zimmer/Bh1v1HPdCwk_0000006 177.5 183.2 
+Hans_Zimmer/Bh1v1HPdCwk_0000007 208.8 213.5 
+Hans_Zimmer/Bh1v1HPdCwk_0000008 223.8 231.1 

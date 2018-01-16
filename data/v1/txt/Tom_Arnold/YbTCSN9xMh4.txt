@@ -1,0 +1,10 @@
+POI: 			Tom_Arnold 
+Youtube ID: 	YbTCSN9xMh4 
+Video length: 	134.9 sec 
+Set (V): 		dev 
+ 
+Tom_Arnold/YbTCSN9xMh4_0000001 34.3 60.5 
+Tom_Arnold/YbTCSN9xMh4_0000002 65.2 73.7 
+Tom_Arnold/YbTCSN9xMh4_0000003 79.2 85.3 
+Tom_Arnold/YbTCSN9xMh4_0000004 88.8 97.5 
+Tom_Arnold/YbTCSN9xMh4_0000005 113.9 119.9 

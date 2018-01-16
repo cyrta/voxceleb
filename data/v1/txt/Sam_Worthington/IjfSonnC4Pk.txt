@@ -1,0 +1,9 @@
+POI: 			Sam_Worthington 
+Youtube ID: 	IjfSonnC4Pk 
+Video length: 	215.9 sec 
+Set (V): 		dev 
+ 
+Sam_Worthington/IjfSonnC4Pk_0000001 26.6 32.8 
+Sam_Worthington/IjfSonnC4Pk_0000002 58.0 63.0 
+Sam_Worthington/IjfSonnC4Pk_0000003 64.2 70.5 
+Sam_Worthington/IjfSonnC4Pk_0000004 132.0 139.5 

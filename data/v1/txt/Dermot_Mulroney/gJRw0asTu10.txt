@@ -1,0 +1,7 @@
+POI: 			Dermot_Mulroney 
+Youtube ID: 	gJRw0asTu10 
+Video length: 	161.8 sec 
+Set (V): 		dev 
+ 
+Dermot_Mulroney/gJRw0asTu10_0000001 90.7 109.2 
+Dermot_Mulroney/gJRw0asTu10_0000002 109.9 115.6 

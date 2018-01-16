@@ -1,0 +1,12 @@
+POI: 			Jared_Leto 
+Youtube ID: 	BEItKaFbm5s 
+Video length: 	248.9 sec 
+Set (V): 		dev 
+ 
+Jared_Leto/BEItKaFbm5s_0000001 34.0 40.6 
+Jared_Leto/BEItKaFbm5s_0000002 43.4 49.5 
+Jared_Leto/BEItKaFbm5s_0000003 86.6 98.8 
+Jared_Leto/BEItKaFbm5s_0000004 135.8 141.9 
+Jared_Leto/BEItKaFbm5s_0000005 200.6 205.1 
+Jared_Leto/BEItKaFbm5s_0000006 208.6 218.8 
+Jared_Leto/BEItKaFbm5s_0000007 223.1 230.1 

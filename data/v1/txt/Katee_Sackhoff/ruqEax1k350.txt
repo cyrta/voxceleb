@@ -1,0 +1,8 @@
+POI: 			Katee_Sackhoff 
+Youtube ID: 	ruqEax1k350 
+Video length: 	152.4 sec 
+Set (V): 		dev 
+ 
+Katee_Sackhoff/ruqEax1k350_0000001 44.4 49.1 
+Katee_Sackhoff/ruqEax1k350_0000002 49.2 54.0 
+Katee_Sackhoff/ruqEax1k350_0000003 110.8 115.4 

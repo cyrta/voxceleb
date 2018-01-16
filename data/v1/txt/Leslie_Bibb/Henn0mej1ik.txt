@@ -1,0 +1,14 @@
+POI: 			Leslie_Bibb 
+Youtube ID: 	Henn0mej1ik 
+Video length: 	252.1 sec 
+Set (V): 		dev 
+ 
+Leslie_Bibb/Henn0mej1ik_0000001 37.8 42.2 
+Leslie_Bibb/Henn0mej1ik_0000002 70.7 75.8 
+Leslie_Bibb/Henn0mej1ik_0000003 114.0 120.2 
+Leslie_Bibb/Henn0mej1ik_0000004 171.9 185.8 
+Leslie_Bibb/Henn0mej1ik_0000005 186.1 191.4 
+Leslie_Bibb/Henn0mej1ik_0000006 191.5 195.6 
+Leslie_Bibb/Henn0mej1ik_0000007 196.6 200.8 
+Leslie_Bibb/Henn0mej1ik_0000008 201.5 209.4 
+Leslie_Bibb/Henn0mej1ik_0000009 211.4 222.9 

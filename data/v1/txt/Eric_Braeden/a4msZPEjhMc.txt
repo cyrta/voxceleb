@@ -1,0 +1,11 @@
+POI: 			Eric_Braeden 
+Youtube ID: 	a4msZPEjhMc 
+Video length: 	179.2 sec 
+Set (V): 		test 
+ 
+Eric_Braeden/a4msZPEjhMc_0000001 01.1 09.6 
+Eric_Braeden/a4msZPEjhMc_0000002 68.1 72.1 
+Eric_Braeden/a4msZPEjhMc_0000003 88.7 96.3 
+Eric_Braeden/a4msZPEjhMc_0000004 128.0 132.6 
+Eric_Braeden/a4msZPEjhMc_0000005 146.0 151.0 
+Eric_Braeden/a4msZPEjhMc_0000006 151.3 161.1 

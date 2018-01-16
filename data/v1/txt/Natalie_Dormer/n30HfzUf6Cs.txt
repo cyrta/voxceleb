@@ -1,0 +1,11 @@
+POI: 			Natalie_Dormer 
+Youtube ID: 	n30HfzUf6Cs 
+Video length: 	347.8 sec 
+Set (V): 		dev 
+ 
+Natalie_Dormer/n30HfzUf6Cs_0000001 22.9 27.5 
+Natalie_Dormer/n30HfzUf6Cs_0000002 33.3 41.8 
+Natalie_Dormer/n30HfzUf6Cs_0000003 97.4 102.2 
+Natalie_Dormer/n30HfzUf6Cs_0000004 133.3 139.6 
+Natalie_Dormer/n30HfzUf6Cs_0000005 142.8 148.4 
+Natalie_Dormer/n30HfzUf6Cs_0000006 216.5 221.4 

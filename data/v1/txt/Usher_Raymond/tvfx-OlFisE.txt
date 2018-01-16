@@ -1,0 +1,23 @@
+POI: 			Usher_Raymond 
+Youtube ID: 	tvfx-OlFisE 
+Video length: 	275.6 sec 
+Set (V): 		dev 
+ 
+Usher_Raymond/tvfx-OlFisE_0000001 13.7 19.6 
+Usher_Raymond/tvfx-OlFisE_0000002 20.1 33.0 
+Usher_Raymond/tvfx-OlFisE_0000003 34.2 54.4 
+Usher_Raymond/tvfx-OlFisE_0000004 61.9 70.1 
+Usher_Raymond/tvfx-OlFisE_0000005 63.9 77.0 
+Usher_Raymond/tvfx-OlFisE_0000006 77.7 84.6 
+Usher_Raymond/tvfx-OlFisE_0000007 94.8 102.1 
+Usher_Raymond/tvfx-OlFisE_0000008 106.9 112.1 
+Usher_Raymond/tvfx-OlFisE_0000009 113.0 122.5 
+Usher_Raymond/tvfx-OlFisE_0000010 122.7 129.4 
+Usher_Raymond/tvfx-OlFisE_0000011 148.3 157.6 
+Usher_Raymond/tvfx-OlFisE_0000012 157.8 164.4 
+Usher_Raymond/tvfx-OlFisE_0000013 166.6 176.6 
+Usher_Raymond/tvfx-OlFisE_0000014 177.4 186.4 
+Usher_Raymond/tvfx-OlFisE_0000015 189.4 194.0 
+Usher_Raymond/tvfx-OlFisE_0000016 216.3 231.1 
+Usher_Raymond/tvfx-OlFisE_0000017 232.1 242.3 
+Usher_Raymond/tvfx-OlFisE_0000018 247.4 253.0 

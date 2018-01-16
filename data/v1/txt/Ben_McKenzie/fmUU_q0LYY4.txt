@@ -1,0 +1,19 @@
+POI: 			Ben_McKenzie 
+Youtube ID: 	fmUU_q0LYY4 
+Video length: 	292.5 sec 
+Set (V): 		dev 
+ 
+Ben_McKenzie/fmUU_q0LYY4_0000001 29.6 33.9 
+Ben_McKenzie/fmUU_q0LYY4_0000002 61.5 66.3 
+Ben_McKenzie/fmUU_q0LYY4_0000003 105.9 111.1 
+Ben_McKenzie/fmUU_q0LYY4_0000004 134.9 139.6 
+Ben_McKenzie/fmUU_q0LYY4_0000005 140.4 147.0 
+Ben_McKenzie/fmUU_q0LYY4_0000006 157.2 173.1 
+Ben_McKenzie/fmUU_q0LYY4_0000007 185.8 192.1 
+Ben_McKenzie/fmUU_q0LYY4_0000008 199.2 206.9 
+Ben_McKenzie/fmUU_q0LYY4_0000009 217.2 222.8 
+Ben_McKenzie/fmUU_q0LYY4_0000010 234.7 239.5 
+Ben_McKenzie/fmUU_q0LYY4_0000011 240.0 246.4 
+Ben_McKenzie/fmUU_q0LYY4_0000012 253.1 257.5 
+Ben_McKenzie/fmUU_q0LYY4_0000013 264.0 272.3 
+Ben_McKenzie/fmUU_q0LYY4_0000014 272.6 279.0 

@@ -1,0 +1,21 @@
+POI: 			Tyler_James_Williams 
+Youtube ID: 	uFcO1HTrRoM 
+Video length: 	428.2 sec 
+Set (V): 		dev 
+ 
+Tyler_James_Williams/uFcO1HTrRoM_0000001 29.2 34.0 
+Tyler_James_Williams/uFcO1HTrRoM_0000002 42.0 48.1 
+Tyler_James_Williams/uFcO1HTrRoM_0000003 165.6 170.2 
+Tyler_James_Williams/uFcO1HTrRoM_0000004 181.3 186.6 
+Tyler_James_Williams/uFcO1HTrRoM_0000005 192.0 197.9 
+Tyler_James_Williams/uFcO1HTrRoM_0000006 228.6 235.0 
+Tyler_James_Williams/uFcO1HTrRoM_0000007 258.0 268.7 
+Tyler_James_Williams/uFcO1HTrRoM_0000008 269.4 283.4 
+Tyler_James_Williams/uFcO1HTrRoM_0000009 314.0 320.0 
+Tyler_James_Williams/uFcO1HTrRoM_0000010 321.6 327.8 
+Tyler_James_Williams/uFcO1HTrRoM_0000011 335.5 345.0 
+Tyler_James_Williams/uFcO1HTrRoM_0000012 349.8 354.0 
+Tyler_James_Williams/uFcO1HTrRoM_0000013 371.1 375.2 
+Tyler_James_Williams/uFcO1HTrRoM_0000014 379.6 385.4 
+Tyler_James_Williams/uFcO1HTrRoM_0000015 387.0 391.2 
+Tyler_James_Williams/uFcO1HTrRoM_0000016 395.4 402.8 

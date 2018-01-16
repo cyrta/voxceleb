@@ -1,0 +1,9 @@
+POI: 			Jeremy_Sisto 
+Youtube ID: 	jSRpMlPgKvc 
+Video length: 	917.9 sec 
+Set (V): 		dev 
+ 
+Jeremy_Sisto/jSRpMlPgKvc_0000001 48.1 52.4 
+Jeremy_Sisto/jSRpMlPgKvc_0000002 186.5 190.7 
+Jeremy_Sisto/jSRpMlPgKvc_0000003 261.3 265.8 
+Jeremy_Sisto/jSRpMlPgKvc_0000004 517.9 522.7 

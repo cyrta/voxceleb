@@ -1,0 +1,25 @@
+POI: 			Claudia_Black 
+Youtube ID: 	pXNgVdi1OEE 
+Video length: 	438.9 sec 
+Set (V): 		dev 
+ 
+Claudia_Black/pXNgVdi1OEE_0000001 00.7 05.1 
+Claudia_Black/pXNgVdi1OEE_0000002 28.4 36.0 
+Claudia_Black/pXNgVdi1OEE_0000003 41.2 50.8 
+Claudia_Black/pXNgVdi1OEE_0000004 13.4 18.4 
+Claudia_Black/pXNgVdi1OEE_0000005 19.6 24.5 
+Claudia_Black/pXNgVdi1OEE_0000006 56.8 61.1 
+Claudia_Black/pXNgVdi1OEE_0000007 58.3 64.7 
+Claudia_Black/pXNgVdi1OEE_0000008 66.6 75.0 
+Claudia_Black/pXNgVdi1OEE_0000009 83.8 90.4 
+Claudia_Black/pXNgVdi1OEE_0000010 105.7 111.5 
+Claudia_Black/pXNgVdi1OEE_0000011 117.7 123.9 
+Claudia_Black/pXNgVdi1OEE_0000012 164.7 170.9 
+Claudia_Black/pXNgVdi1OEE_0000013 232.6 237.1 
+Claudia_Black/pXNgVdi1OEE_0000014 238.9 251.7 
+Claudia_Black/pXNgVdi1OEE_0000015 263.2 271.6 
+Claudia_Black/pXNgVdi1OEE_0000016 277.0 284.1 
+Claudia_Black/pXNgVdi1OEE_0000017 313.5 320.9 
+Claudia_Black/pXNgVdi1OEE_0000018 392.4 415.1 
+Claudia_Black/pXNgVdi1OEE_0000019 415.9 421.6 
+Claudia_Black/pXNgVdi1OEE_0000020 393.3 399.6 

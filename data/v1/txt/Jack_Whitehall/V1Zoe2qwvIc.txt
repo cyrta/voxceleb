@@ -1,0 +1,7 @@
+POI: 			Jack_Whitehall 
+Youtube ID: 	V1Zoe2qwvIc 
+Video length: 	158.0 sec 
+Set (V): 		dev 
+ 
+Jack_Whitehall/V1Zoe2qwvIc_0000001 16.4 20.5 
+Jack_Whitehall/V1Zoe2qwvIc_0000002 34.2 43.2 

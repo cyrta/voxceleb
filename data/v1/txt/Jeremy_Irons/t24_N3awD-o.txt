@@ -1,0 +1,20 @@
+POI: 			Jeremy_Irons 
+Youtube ID: 	t24_N3awD-o 
+Video length: 	994.1 sec 
+Set (V): 		dev 
+ 
+Jeremy_Irons/t24_N3awD-o_0000001 195.0 201.7 
+Jeremy_Irons/t24_N3awD-o_0000002 219.8 226.8 
+Jeremy_Irons/t24_N3awD-o_0000003 249.6 254.3 
+Jeremy_Irons/t24_N3awD-o_0000004 325.2 334.1 
+Jeremy_Irons/t24_N3awD-o_0000005 342.8 350.4 
+Jeremy_Irons/t24_N3awD-o_0000006 367.0 374.0 
+Jeremy_Irons/t24_N3awD-o_0000007 374.7 379.2 
+Jeremy_Irons/t24_N3awD-o_0000008 535.4 545.9 
+Jeremy_Irons/t24_N3awD-o_0000009 546.4 550.4 
+Jeremy_Irons/t24_N3awD-o_0000010 586.1 596.4 
+Jeremy_Irons/t24_N3awD-o_0000011 644.0 647.9 
+Jeremy_Irons/t24_N3awD-o_0000012 682.8 688.1 
+Jeremy_Irons/t24_N3awD-o_0000013 688.9 692.8 
+Jeremy_Irons/t24_N3awD-o_0000014 833.4 839.5 
+Jeremy_Irons/t24_N3awD-o_0000015 858.2 869.2 

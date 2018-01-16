@@ -1,0 +1,10 @@
+POI: 			Jillian_Michaels 
+Youtube ID: 	MsN_D47Bo9Q 
+Video length: 	137.1 sec 
+Set (V): 		dev 
+ 
+Jillian_Michaels/MsN_D47Bo9Q_0000001 05.2 11.0 
+Jillian_Michaels/MsN_D47Bo9Q_0000002 29.5 33.6 
+Jillian_Michaels/MsN_D47Bo9Q_0000003 46.3 54.3 
+Jillian_Michaels/MsN_D47Bo9Q_0000004 61.1 68.2 
+Jillian_Michaels/MsN_D47Bo9Q_0000005 74.0 88.2 

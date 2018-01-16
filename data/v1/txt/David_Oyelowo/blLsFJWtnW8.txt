@@ -1,0 +1,13 @@
+POI: 			David_Oyelowo 
+Youtube ID: 	blLsFJWtnW8 
+Video length: 	265.0 sec 
+Set (V): 		dev 
+ 
+David_Oyelowo/blLsFJWtnW8_0000001 74.5 82.9 
+David_Oyelowo/blLsFJWtnW8_0000002 83.9 93.3 
+David_Oyelowo/blLsFJWtnW8_0000003 114.7 118.8 
+David_Oyelowo/blLsFJWtnW8_0000004 122.1 126.8 
+David_Oyelowo/blLsFJWtnW8_0000005 128.8 133.3 
+David_Oyelowo/blLsFJWtnW8_0000006 133.9 139.4 
+David_Oyelowo/blLsFJWtnW8_0000007 224.3 229.2 
+David_Oyelowo/blLsFJWtnW8_0000008 231.7 239.0 

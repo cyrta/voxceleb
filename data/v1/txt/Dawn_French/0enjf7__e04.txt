@@ -1,0 +1,13 @@
+POI: 			Dawn_French 
+Youtube ID: 	0enjf7__e04 
+Video length: 	827.3 sec 
+Set (V): 		dev 
+ 
+Dawn_French/0enjf7__e04_0000001 115.9 120.3 
+Dawn_French/0enjf7__e04_0000002 340.0 344.2 
+Dawn_French/0enjf7__e04_0000003 440.6 449.7 
+Dawn_French/0enjf7__e04_0000004 591.9 596.1 
+Dawn_French/0enjf7__e04_0000005 718.1 725.0 
+Dawn_French/0enjf7__e04_0000006 782.8 787.4 
+Dawn_French/0enjf7__e04_0000007 801.7 807.2 
+Dawn_French/0enjf7__e04_0000008 809.2 816.1 

@@ -1,0 +1,6 @@
+POI: 			John_Hurt 
+Youtube ID: 	m7u84plr13E 
+Video length: 	160.2 sec 
+Set (V): 		dev 
+ 
+John_Hurt/m7u84plr13E_0000001 34.8 40.8 

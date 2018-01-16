@@ -1,0 +1,11 @@
+POI: 			Esai_Morales 
+Youtube ID: 	WAbHmvQ9zME 
+Video length: 	428.4 sec 
+Set (V): 		test 
+ 
+Esai_Morales/WAbHmvQ9zME_0000001 195.9 201.3 
+Esai_Morales/WAbHmvQ9zME_0000002 218.7 222.9 
+Esai_Morales/WAbHmvQ9zME_0000003 227.0 235.6 
+Esai_Morales/WAbHmvQ9zME_0000004 236.6 242.2 
+Esai_Morales/WAbHmvQ9zME_0000005 280.0 285.8 
+Esai_Morales/WAbHmvQ9zME_0000006 289.2 294.2 

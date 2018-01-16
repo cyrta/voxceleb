@@ -1,0 +1,8 @@
+POI: 			Jensen_Ackles 
+Youtube ID: 	QhtGGhhnA5s 
+Video length: 	127.9 sec 
+Set (V): 		dev 
+ 
+Jensen_Ackles/QhtGGhhnA5s_0000001 14.3 19.9 
+Jensen_Ackles/QhtGGhhnA5s_0000002 20.1 25.3 
+Jensen_Ackles/QhtGGhhnA5s_0000003 42.6 46.8 

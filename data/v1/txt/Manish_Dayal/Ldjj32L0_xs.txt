@@ -1,0 +1,15 @@
+POI: 			Manish_Dayal 
+Youtube ID: 	Ldjj32L0_xs 
+Video length: 	143.2 sec 
+Set (V): 		dev 
+ 
+Manish_Dayal/Ldjj32L0_xs_0000001 04.1 10.8 
+Manish_Dayal/Ldjj32L0_xs_0000002 11.4 18.3 
+Manish_Dayal/Ldjj32L0_xs_0000003 19.0 25.1 
+Manish_Dayal/Ldjj32L0_xs_0000004 37.1 46.3 
+Manish_Dayal/Ldjj32L0_xs_0000005 55.6 60.1 
+Manish_Dayal/Ldjj32L0_xs_0000006 60.8 65.3 
+Manish_Dayal/Ldjj32L0_xs_0000007 68.3 75.5 
+Manish_Dayal/Ldjj32L0_xs_0000008 91.4 97.0 
+Manish_Dayal/Ldjj32L0_xs_0000009 104.5 117.3 
+Manish_Dayal/Ldjj32L0_xs_0000010 118.2 122.3 

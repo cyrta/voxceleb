@@ -1,0 +1,16 @@
+POI: 			Patrick_Wilson 
+Youtube ID: 	h354GWh8T4w 
+Video length: 	286.5 sec 
+Set (V): 		dev 
+ 
+Patrick_Wilson/h354GWh8T4w_0000001 34.4 39.2 
+Patrick_Wilson/h354GWh8T4w_0000002 39.7 51.5 
+Patrick_Wilson/h354GWh8T4w_0000003 53.1 65.8 
+Patrick_Wilson/h354GWh8T4w_0000004 77.2 81.5 
+Patrick_Wilson/h354GWh8T4w_0000005 81.6 88.2 
+Patrick_Wilson/h354GWh8T4w_0000006 96.1 106.8 
+Patrick_Wilson/h354GWh8T4w_0000007 110.9 124.1 
+Patrick_Wilson/h354GWh8T4w_0000008 131.3 139.9 
+Patrick_Wilson/h354GWh8T4w_0000009 140.5 147.9 
+Patrick_Wilson/h354GWh8T4w_0000010 150.5 167.2 
+Patrick_Wilson/h354GWh8T4w_0000011 177.0 182.9 

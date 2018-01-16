@@ -1,0 +1,13 @@
+POI: 			Stephen_Fry 
+Youtube ID: 	NUXCWEOBSn0 
+Video length: 	151.6 sec 
+Set (V): 		dev 
+ 
+Stephen_Fry/NUXCWEOBSn0_0000001 10.0 15.2 
+Stephen_Fry/NUXCWEOBSn0_0000002 17.3 40.2 
+Stephen_Fry/NUXCWEOBSn0_0000003 46.0 55.5 
+Stephen_Fry/NUXCWEOBSn0_0000004 62.5 70.7 
+Stephen_Fry/NUXCWEOBSn0_0000005 84.9 91.7 
+Stephen_Fry/NUXCWEOBSn0_0000006 95.5 114.4 
+Stephen_Fry/NUXCWEOBSn0_0000007 114.5 120.8 
+Stephen_Fry/NUXCWEOBSn0_0000008 121.2 128.8 

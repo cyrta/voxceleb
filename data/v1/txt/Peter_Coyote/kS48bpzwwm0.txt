@@ -1,0 +1,7 @@
+POI: 			Peter_Coyote 
+Youtube ID: 	kS48bpzwwm0 
+Video length: 	54.6 sec 
+Set (V): 		dev 
+ 
+Peter_Coyote/kS48bpzwwm0_0000001 09.0 15.6 
+Peter_Coyote/kS48bpzwwm0_0000002 27.4 35.2 

@@ -1,0 +1,10 @@
+POI: 			Rainn_Wilson 
+Youtube ID: 	ofR38JuMPIQ 
+Video length: 	169.2 sec 
+Set (V): 		dev 
+ 
+Rainn_Wilson/ofR38JuMPIQ_0000001 05.2 16.6 
+Rainn_Wilson/ofR38JuMPIQ_0000002 17.0 21.6 
+Rainn_Wilson/ofR38JuMPIQ_0000003 27.8 37.5 
+Rainn_Wilson/ofR38JuMPIQ_0000004 91.9 100.5 
+Rainn_Wilson/ofR38JuMPIQ_0000005 100.6 106.4 

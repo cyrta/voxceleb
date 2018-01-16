@@ -1,0 +1,12 @@
+POI: 			Bill_Nighy 
+Youtube ID: 	yR784gkinMk 
+Video length: 	186.4 sec 
+Set (V): 		dev 
+ 
+Bill_Nighy/yR784gkinMk_0000001 14.6 22.5 
+Bill_Nighy/yR784gkinMk_0000002 22.7 43.2 
+Bill_Nighy/yR784gkinMk_0000003 56.4 77.0 
+Bill_Nighy/yR784gkinMk_0000004 87.5 102.2 
+Bill_Nighy/yR784gkinMk_0000005 106.0 118.3 
+Bill_Nighy/yR784gkinMk_0000006 118.6 136.2 
+Bill_Nighy/yR784gkinMk_0000007 144.7 150.4 

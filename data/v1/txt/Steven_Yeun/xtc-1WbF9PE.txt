@@ -1,0 +1,7 @@
+POI: 			Steven_Yeun 
+Youtube ID: 	xtc-1WbF9PE 
+Video length: 	219.9 sec 
+Set (V): 		dev 
+ 
+Steven_Yeun/xtc-1WbF9PE_0000001 108.0 115.0 
+Steven_Yeun/xtc-1WbF9PE_0000002 121.0 133.8 

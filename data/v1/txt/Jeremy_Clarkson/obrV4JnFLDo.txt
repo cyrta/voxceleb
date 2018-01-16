@@ -1,0 +1,7 @@
+POI: 			Jeremy_Clarkson 
+Youtube ID: 	obrV4JnFLDo 
+Video length: 	584.1 sec 
+Set (V): 		dev 
+ 
+Jeremy_Clarkson/obrV4JnFLDo_0000001 140.2 144.4 
+Jeremy_Clarkson/obrV4JnFLDo_0000002 237.9 242.7 

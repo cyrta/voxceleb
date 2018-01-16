@@ -1,0 +1,13 @@
+POI: 			Josh_Henderson 
+Youtube ID: 	Ls-5ovSl-cM 
+Video length: 	436.7 sec 
+Set (V): 		dev 
+ 
+Josh_Henderson/Ls-5ovSl-cM_0000001 122.6 143.4 
+Josh_Henderson/Ls-5ovSl-cM_0000002 170.9 196.8 
+Josh_Henderson/Ls-5ovSl-cM_0000003 201.2 209.4 
+Josh_Henderson/Ls-5ovSl-cM_0000004 227.9 233.8 
+Josh_Henderson/Ls-5ovSl-cM_0000005 238.9 251.8 
+Josh_Henderson/Ls-5ovSl-cM_0000006 274.9 281.2 
+Josh_Henderson/Ls-5ovSl-cM_0000007 307.0 314.7 
+Josh_Henderson/Ls-5ovSl-cM_0000008 374.1 389.2 

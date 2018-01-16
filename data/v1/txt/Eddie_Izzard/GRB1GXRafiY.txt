@@ -1,0 +1,11 @@
+POI: 			Eddie_Izzard 
+Youtube ID: 	GRB1GXRafiY 
+Video length: 	148.0 sec 
+Set (V): 		test 
+ 
+Eddie_Izzard/GRB1GXRafiY_0000001 07.9 15.6 
+Eddie_Izzard/GRB1GXRafiY_0000002 42.6 46.6 
+Eddie_Izzard/GRB1GXRafiY_0000003 50.5 61.2 
+Eddie_Izzard/GRB1GXRafiY_0000004 67.4 73.2 
+Eddie_Izzard/GRB1GXRafiY_0000005 74.2 78.5 
+Eddie_Izzard/GRB1GXRafiY_0000006 96.3 112.4 

@@ -1,0 +1,18 @@
+POI: 			Eugenio_Derbez 
+Youtube ID: 	vbDKF8bZJQA 
+Video length: 	393.9 sec 
+Set (V): 		test 
+ 
+Eugenio_Derbez/vbDKF8bZJQA_0000001 20.0 24.8 
+Eugenio_Derbez/vbDKF8bZJQA_0000002 26.0 30.8 
+Eugenio_Derbez/vbDKF8bZJQA_0000003 61.4 65.8 
+Eugenio_Derbez/vbDKF8bZJQA_0000004 70.7 75.9 
+Eugenio_Derbez/vbDKF8bZJQA_0000005 141.2 148.2 
+Eugenio_Derbez/vbDKF8bZJQA_0000006 163.5 167.6 
+Eugenio_Derbez/vbDKF8bZJQA_0000007 185.2 202.9 
+Eugenio_Derbez/vbDKF8bZJQA_0000008 226.6 231.2 
+Eugenio_Derbez/vbDKF8bZJQA_0000009 234.0 247.0 
+Eugenio_Derbez/vbDKF8bZJQA_0000010 258.9 269.6 
+Eugenio_Derbez/vbDKF8bZJQA_0000011 321.8 340.2 
+Eugenio_Derbez/vbDKF8bZJQA_0000012 342.6 356.8 
+Eugenio_Derbez/vbDKF8bZJQA_0000013 363.5 368.1 

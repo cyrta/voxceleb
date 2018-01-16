@@ -1,0 +1,13 @@
+POI: 			Rebel_Wilson 
+Youtube ID: 	9nnxB1aFo_Y 
+Video length: 	222.9 sec 
+Set (V): 		dev 
+ 
+Rebel_Wilson/9nnxB1aFo_Y_0000001 31.4 42.1 
+Rebel_Wilson/9nnxB1aFo_Y_0000002 46.7 51.8 
+Rebel_Wilson/9nnxB1aFo_Y_0000003 70.4 74.5 
+Rebel_Wilson/9nnxB1aFo_Y_0000004 86.4 90.4 
+Rebel_Wilson/9nnxB1aFo_Y_0000005 99.1 106.6 
+Rebel_Wilson/9nnxB1aFo_Y_0000006 112.7 117.3 
+Rebel_Wilson/9nnxB1aFo_Y_0000007 167.0 171.2 
+Rebel_Wilson/9nnxB1aFo_Y_0000008 172.3 177.2 

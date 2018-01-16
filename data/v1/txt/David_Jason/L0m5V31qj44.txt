@@ -1,0 +1,16 @@
+POI: 			David_Jason 
+Youtube ID: 	L0m5V31qj44 
+Video length: 	804.6 sec 
+Set (V): 		dev 
+ 
+David_Jason/L0m5V31qj44_0000001 73.9 78.6 
+David_Jason/L0m5V31qj44_0000002 163.2 175.0 
+David_Jason/L0m5V31qj44_0000003 194.2 204.8 
+David_Jason/L0m5V31qj44_0000004 215.8 229.0 
+David_Jason/L0m5V31qj44_0000005 267.6 272.2 
+David_Jason/L0m5V31qj44_0000006 341.2 347.0 
+David_Jason/L0m5V31qj44_0000007 384.5 395.4 
+David_Jason/L0m5V31qj44_0000008 499.0 515.8 
+David_Jason/L0m5V31qj44_0000009 567.7 577.3 
+David_Jason/L0m5V31qj44_0000010 591.1 596.6 
+David_Jason/L0m5V31qj44_0000011 644.4 666.6 

@@ -1,0 +1,15 @@
+POI: 			Zach_Braff 
+Youtube ID: 	Sy6vuOsoYgw 
+Video length: 	205.0 sec 
+Set (V): 		dev 
+ 
+Zach_Braff/Sy6vuOsoYgw_0000001 03.8 10.1 
+Zach_Braff/Sy6vuOsoYgw_0000002 11.7 16.0 
+Zach_Braff/Sy6vuOsoYgw_0000003 25.9 35.3 
+Zach_Braff/Sy6vuOsoYgw_0000004 38.2 42.7 
+Zach_Braff/Sy6vuOsoYgw_0000005 44.5 50.8 
+Zach_Braff/Sy6vuOsoYgw_0000006 51.0 86.8 
+Zach_Braff/Sy6vuOsoYgw_0000007 89.5 113.2 
+Zach_Braff/Sy6vuOsoYgw_0000008 114.1 126.0 
+Zach_Braff/Sy6vuOsoYgw_0000009 127.8 133.8 
+Zach_Braff/Sy6vuOsoYgw_0000010 188.3 196.9 

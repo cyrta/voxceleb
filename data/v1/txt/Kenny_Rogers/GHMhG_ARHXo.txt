@@ -1,0 +1,7 @@
+POI: 			Kenny_Rogers 
+Youtube ID: 	GHMhG_ARHXo 
+Video length: 	170.8 sec 
+Set (V): 		dev 
+ 
+Kenny_Rogers/GHMhG_ARHXo_0000001 129.5 135.1 
+Kenny_Rogers/GHMhG_ARHXo_0000002 153.1 157.3 

@@ -1,0 +1,12 @@
+POI: 			Elodie_Yung 
+Youtube ID: 	zFii0ROZZjc 
+Video length: 	205.0 sec 
+Set (V): 		test 
+ 
+Elodie_Yung/zFii0ROZZjc_0000001 25.7 32.8 
+Elodie_Yung/zFii0ROZZjc_0000002 38.0 42.8 
+Elodie_Yung/zFii0ROZZjc_0000003 44.8 52.4 
+Elodie_Yung/zFii0ROZZjc_0000004 88.7 93.3 
+Elodie_Yung/zFii0ROZZjc_0000005 97.3 102.3 
+Elodie_Yung/zFii0ROZZjc_0000006 103.3 112.3 
+Elodie_Yung/zFii0ROZZjc_0000007 114.4 118.6 

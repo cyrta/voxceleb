@@ -1,0 +1,14 @@
+POI: 			David_Cassidy 
+Youtube ID: 	Hu9TdJRQYYo 
+Video length: 	944.6 sec 
+Set (V): 		dev 
+ 
+David_Cassidy/Hu9TdJRQYYo_0000001 438.8 443.7 
+David_Cassidy/Hu9TdJRQYYo_0000002 478.3 482.7 
+David_Cassidy/Hu9TdJRQYYo_0000003 512.0 516.4 
+David_Cassidy/Hu9TdJRQYYo_0000004 529.9 534.1 
+David_Cassidy/Hu9TdJRQYYo_0000005 697.4 701.9 
+David_Cassidy/Hu9TdJRQYYo_0000006 798.5 803.8 
+David_Cassidy/Hu9TdJRQYYo_0000007 814.8 819.0 
+David_Cassidy/Hu9TdJRQYYo_0000008 879.5 883.7 
+David_Cassidy/Hu9TdJRQYYo_0000009 927.2 932.4 

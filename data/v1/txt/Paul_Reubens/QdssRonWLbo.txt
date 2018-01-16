@@ -1,0 +1,25 @@
+POI: 			Paul_Reubens 
+Youtube ID: 	QdssRonWLbo 
+Video length: 	540.9 sec 
+Set (V): 		dev 
+ 
+Paul_Reubens/QdssRonWLbo_0000001 09.8 18.7 
+Paul_Reubens/QdssRonWLbo_0000002 19.0 23.0 
+Paul_Reubens/QdssRonWLbo_0000003 24.0 31.9 
+Paul_Reubens/QdssRonWLbo_0000004 32.1 36.0 
+Paul_Reubens/QdssRonWLbo_0000005 36.1 41.6 
+Paul_Reubens/QdssRonWLbo_0000006 45.2 49.8 
+Paul_Reubens/QdssRonWLbo_0000007 51.0 60.8 
+Paul_Reubens/QdssRonWLbo_0000008 71.2 82.2 
+Paul_Reubens/QdssRonWLbo_0000009 86.4 91.9 
+Paul_Reubens/QdssRonWLbo_0000010 85.9 90.0 
+Paul_Reubens/QdssRonWLbo_0000011 105.2 110.8 
+Paul_Reubens/QdssRonWLbo_0000012 136.5 147.4 
+Paul_Reubens/QdssRonWLbo_0000013 149.2 154.9 
+Paul_Reubens/QdssRonWLbo_0000014 155.6 168.0 
+Paul_Reubens/QdssRonWLbo_0000015 179.2 191.4 
+Paul_Reubens/QdssRonWLbo_0000016 200.1 204.6 
+Paul_Reubens/QdssRonWLbo_0000017 210.4 218.2 
+Paul_Reubens/QdssRonWLbo_0000018 219.1 226.9 
+Paul_Reubens/QdssRonWLbo_0000019 227.7 242.8 
+Paul_Reubens/QdssRonWLbo_0000020 244.9 255.0 

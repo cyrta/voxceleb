@@ -1,0 +1,14 @@
+POI: 			John_Amos 
+Youtube ID: 	Dw1t8S1x-a4 
+Video length: 	227.3 sec 
+Set (V): 		dev 
+ 
+John_Amos/Dw1t8S1x-a4_0000001 59.5 73.4 
+John_Amos/Dw1t8S1x-a4_0000002 80.1 87.9 
+John_Amos/Dw1t8S1x-a4_0000003 92.2 99.8 
+John_Amos/Dw1t8S1x-a4_0000004 123.8 130.2 
+John_Amos/Dw1t8S1x-a4_0000005 144.7 150.9 
+John_Amos/Dw1t8S1x-a4_0000006 152.0 156.9 
+John_Amos/Dw1t8S1x-a4_0000007 158.2 181.5 
+John_Amos/Dw1t8S1x-a4_0000008 186.6 193.0 
+John_Amos/Dw1t8S1x-a4_0000009 198.1 203.7 

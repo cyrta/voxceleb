@@ -1,0 +1,17 @@
+POI: 			Michelle_Stafford 
+Youtube ID: 	KcwcukMNQxA 
+Video length: 	900.4 sec 
+Set (V): 		dev 
+ 
+Michelle_Stafford/KcwcukMNQxA_0000001 65.3 71.6 
+Michelle_Stafford/KcwcukMNQxA_0000002 105.7 121.3 
+Michelle_Stafford/KcwcukMNQxA_0000003 166.4 173.6 
+Michelle_Stafford/KcwcukMNQxA_0000004 306.7 311.1 
+Michelle_Stafford/KcwcukMNQxA_0000005 380.4 400.3 
+Michelle_Stafford/KcwcukMNQxA_0000006 404.3 411.4 
+Michelle_Stafford/KcwcukMNQxA_0000007 478.0 487.6 
+Michelle_Stafford/KcwcukMNQxA_0000008 492.0 496.4 
+Michelle_Stafford/KcwcukMNQxA_0000009 629.7 633.8 
+Michelle_Stafford/KcwcukMNQxA_0000010 677.4 681.6 
+Michelle_Stafford/KcwcukMNQxA_0000011 682.6 690.0 
+Michelle_Stafford/KcwcukMNQxA_0000012 824.4 830.2 

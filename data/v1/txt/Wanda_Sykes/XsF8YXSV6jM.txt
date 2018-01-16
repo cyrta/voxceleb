@@ -1,0 +1,15 @@
+POI: 			Wanda_Sykes 
+Youtube ID: 	XsF8YXSV6jM 
+Video length: 	290.3 sec 
+Set (V): 		dev 
+ 
+Wanda_Sykes/XsF8YXSV6jM_0000001 08.7 16.9 
+Wanda_Sykes/XsF8YXSV6jM_0000002 19.1 25.9 
+Wanda_Sykes/XsF8YXSV6jM_0000003 30.3 35.7 
+Wanda_Sykes/XsF8YXSV6jM_0000004 36.8 45.8 
+Wanda_Sykes/XsF8YXSV6jM_0000005 64.7 72.8 
+Wanda_Sykes/XsF8YXSV6jM_0000006 100.5 108.5 
+Wanda_Sykes/XsF8YXSV6jM_0000007 111.4 132.9 
+Wanda_Sykes/XsF8YXSV6jM_0000008 152.8 159.4 
+Wanda_Sykes/XsF8YXSV6jM_0000009 191.6 197.7 
+Wanda_Sykes/XsF8YXSV6jM_0000010 250.3 255.8 

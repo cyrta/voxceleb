@@ -1,0 +1,13 @@
+POI: 			Edgar_Wright 
+Youtube ID: 	CooJzMgoxzw 
+Video length: 	362.6 sec 
+Set (V): 		test 
+ 
+Edgar_Wright/CooJzMgoxzw_0000001 62.7 68.4 
+Edgar_Wright/CooJzMgoxzw_0000002 105.8 112.0 
+Edgar_Wright/CooJzMgoxzw_0000003 124.2 132.6 
+Edgar_Wright/CooJzMgoxzw_0000004 193.8 199.8 
+Edgar_Wright/CooJzMgoxzw_0000005 310.1 319.8 
+Edgar_Wright/CooJzMgoxzw_0000006 322.2 331.7 
+Edgar_Wright/CooJzMgoxzw_0000007 337.2 344.1 
+Edgar_Wright/CooJzMgoxzw_0000008 349.6 355.6 

@@ -1,0 +1,10 @@
+POI: 			Kevin_Bacon 
+Youtube ID: 	mXaul5wVIP0 
+Video length: 	569.4 sec 
+Set (V): 		dev 
+ 
+Kevin_Bacon/mXaul5wVIP0_0000001 162.2 166.6 
+Kevin_Bacon/mXaul5wVIP0_0000002 172.7 179.8 
+Kevin_Bacon/mXaul5wVIP0_0000003 231.4 236.2 
+Kevin_Bacon/mXaul5wVIP0_0000004 283.6 288.4 
+Kevin_Bacon/mXaul5wVIP0_0000005 482.1 488.0 

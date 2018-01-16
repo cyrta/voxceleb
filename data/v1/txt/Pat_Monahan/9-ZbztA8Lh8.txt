@@ -1,0 +1,9 @@
+POI: 			Pat_Monahan 
+Youtube ID: 	9-ZbztA8Lh8 
+Video length: 	656.4 sec 
+Set (V): 		dev 
+ 
+Pat_Monahan/9-ZbztA8Lh8_0000001 03.9 08.5 
+Pat_Monahan/9-ZbztA8Lh8_0000002 153.6 161.5 
+Pat_Monahan/9-ZbztA8Lh8_0000003 281.5 286.9 
+Pat_Monahan/9-ZbztA8Lh8_0000004 376.4 386.3 

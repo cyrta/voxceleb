@@ -1,0 +1,14 @@
+POI: 			Morena_Baccarin 
+Youtube ID: 	n3JBoirGzlc 
+Video length: 	216.0 sec 
+Set (V): 		dev 
+ 
+Morena_Baccarin/n3JBoirGzlc_0000001 12.1 26.8 
+Morena_Baccarin/n3JBoirGzlc_0000002 38.4 51.5 
+Morena_Baccarin/n3JBoirGzlc_0000003 54.8 62.0 
+Morena_Baccarin/n3JBoirGzlc_0000004 63.6 70.5 
+Morena_Baccarin/n3JBoirGzlc_0000005 80.9 90.7 
+Morena_Baccarin/n3JBoirGzlc_0000006 94.1 110.5 
+Morena_Baccarin/n3JBoirGzlc_0000007 111.0 124.4 
+Morena_Baccarin/n3JBoirGzlc_0000008 130.3 137.3 
+Morena_Baccarin/n3JBoirGzlc_0000009 156.4 183.2 

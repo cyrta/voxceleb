@@ -1,0 +1,10 @@
+POI: 			Dawn_French 
+Youtube ID: 	CvTuY2ipfU0 
+Video length: 	246.9 sec 
+Set (V): 		dev 
+ 
+Dawn_French/CvTuY2ipfU0_0000001 91.7 96.5 
+Dawn_French/CvTuY2ipfU0_0000002 121.2 126.2 
+Dawn_French/CvTuY2ipfU0_0000003 157.4 166.1 
+Dawn_French/CvTuY2ipfU0_0000004 173.5 179.3 
+Dawn_French/CvTuY2ipfU0_0000005 223.1 227.1 

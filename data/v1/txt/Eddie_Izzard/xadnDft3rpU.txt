@@ -1,0 +1,7 @@
+POI: 			Eddie_Izzard 
+Youtube ID: 	xadnDft3rpU 
+Video length: 	280.1 sec 
+Set (V): 		test 
+ 
+Eddie_Izzard/xadnDft3rpU_0000001 50.6 56.9 
+Eddie_Izzard/xadnDft3rpU_0000002 84.8 89.0 

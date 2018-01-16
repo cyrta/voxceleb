@@ -1,0 +1,13 @@
+POI: 			Marcia_Cross 
+Youtube ID: 	bbioyrhtKkM 
+Video length: 	161.6 sec 
+Set (V): 		dev 
+ 
+Marcia_Cross/bbioyrhtKkM_0000001 14.0 21.2 
+Marcia_Cross/bbioyrhtKkM_0000002 30.5 38.5 
+Marcia_Cross/bbioyrhtKkM_0000003 51.8 57.9 
+Marcia_Cross/bbioyrhtKkM_0000004 58.4 63.3 
+Marcia_Cross/bbioyrhtKkM_0000005 79.2 83.2 
+Marcia_Cross/bbioyrhtKkM_0000006 102.0 107.0 
+Marcia_Cross/bbioyrhtKkM_0000007 119.0 124.2 
+Marcia_Cross/bbioyrhtKkM_0000008 150.7 158.8 

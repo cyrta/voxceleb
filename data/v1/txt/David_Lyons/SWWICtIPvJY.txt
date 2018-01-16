@@ -1,0 +1,12 @@
+POI: 			David_Lyons 
+Youtube ID: 	SWWICtIPvJY 
+Video length: 	169.5 sec 
+Set (V): 		dev 
+ 
+David_Lyons/SWWICtIPvJY_0000001 02.8 26.4 
+David_Lyons/SWWICtIPvJY_0000002 28.0 33.3 
+David_Lyons/SWWICtIPvJY_0000003 36.3 56.4 
+David_Lyons/SWWICtIPvJY_0000004 57.4 80.9 
+David_Lyons/SWWICtIPvJY_0000005 85.3 95.0 
+David_Lyons/SWWICtIPvJY_0000006 106.5 116.6 
+David_Lyons/SWWICtIPvJY_0000007 117.4 160.8 

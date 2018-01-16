@@ -1,0 +1,8 @@
+POI: 			James_Nesbitt 
+Youtube ID: 	kV-qT4iLGTs 
+Video length: 	182.9 sec 
+Set (V): 		dev 
+ 
+James_Nesbitt/kV-qT4iLGTs_0000001 32.8 57.7 
+James_Nesbitt/kV-qT4iLGTs_0000002 58.3 63.8 
+James_Nesbitt/kV-qT4iLGTs_0000003 96.6 112.0 

@@ -1,0 +1,9 @@
+POI: 			Paul_Feig 
+Youtube ID: 	biY--MPjswk 
+Video length: 	325.6 sec 
+Set (V): 		dev 
+ 
+Paul_Feig/biY--MPjswk_0000001 101.5 107.0 
+Paul_Feig/biY--MPjswk_0000002 128.4 139.6 
+Paul_Feig/biY--MPjswk_0000003 224.1 231.1 
+Paul_Feig/biY--MPjswk_0000004 280.9 285.4 

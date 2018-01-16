@@ -1,0 +1,7 @@
+POI: 			Paolo_Sorrentino 
+Youtube ID: 	AkJk4_ZdGIM 
+Video length: 	414.4 sec 
+Set (V): 		dev 
+ 
+Paolo_Sorrentino/AkJk4_ZdGIM_0000001 76.3 81.6 
+Paolo_Sorrentino/AkJk4_ZdGIM_0000002 85.2 90.1 

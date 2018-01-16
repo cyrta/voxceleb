@@ -1,0 +1,10 @@
+POI: 			Nelly_Furtado 
+Youtube ID: 	hMTyfpven8A 
+Video length: 	79.4 sec 
+Set (V): 		dev 
+ 
+Nelly_Furtado/hMTyfpven8A_0000001 02.4 15.3 
+Nelly_Furtado/hMTyfpven8A_0000002 33.4 38.7 
+Nelly_Furtado/hMTyfpven8A_0000003 39.6 44.1 
+Nelly_Furtado/hMTyfpven8A_0000004 49.7 56.2 
+Nelly_Furtado/hMTyfpven8A_0000005 57.1 77.6 

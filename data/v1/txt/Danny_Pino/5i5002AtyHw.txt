@@ -1,0 +1,9 @@
+POI: 			Danny_Pino 
+Youtube ID: 	5i5002AtyHw 
+Video length: 	198.9 sec 
+Set (V): 		dev 
+ 
+Danny_Pino/5i5002AtyHw_0000001 36.7 45.5 
+Danny_Pino/5i5002AtyHw_0000002 74.4 80.3 
+Danny_Pino/5i5002AtyHw_0000003 96.2 102.3 
+Danny_Pino/5i5002AtyHw_0000004 125.2 130.6 

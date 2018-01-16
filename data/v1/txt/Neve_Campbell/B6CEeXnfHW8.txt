@@ -1,0 +1,9 @@
+POI: 			Neve_Campbell 
+Youtube ID: 	B6CEeXnfHW8 
+Video length: 	327.8 sec 
+Set (V): 		dev 
+ 
+Neve_Campbell/B6CEeXnfHW8_0000001 96.3 106.3 
+Neve_Campbell/B6CEeXnfHW8_0000002 253.3 258.4 
+Neve_Campbell/B6CEeXnfHW8_0000003 258.9 267.6 
+Neve_Campbell/B6CEeXnfHW8_0000004 296.3 302.0 

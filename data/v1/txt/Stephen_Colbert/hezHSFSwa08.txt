@@ -1,0 +1,9 @@
+POI: 			Stephen_Colbert 
+Youtube ID: 	hezHSFSwa08 
+Video length: 	758.2 sec 
+Set (V): 		dev 
+ 
+Stephen_Colbert/hezHSFSwa08_0000001 44.1 48.9 
+Stephen_Colbert/hezHSFSwa08_0000002 290.8 296.4 
+Stephen_Colbert/hezHSFSwa08_0000003 346.8 351.9 
+Stephen_Colbert/hezHSFSwa08_0000004 366.3 373.4 

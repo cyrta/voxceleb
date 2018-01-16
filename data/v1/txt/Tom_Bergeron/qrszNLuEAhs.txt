@@ -1,0 +1,14 @@
+POI: 			Tom_Bergeron 
+Youtube ID: 	qrszNLuEAhs 
+Video length: 	195.8 sec 
+Set (V): 		dev 
+ 
+Tom_Bergeron/qrszNLuEAhs_0000001 06.3 29.9 
+Tom_Bergeron/qrszNLuEAhs_0000002 34.9 82.6 
+Tom_Bergeron/qrszNLuEAhs_0000003 88.0 92.9 
+Tom_Bergeron/qrszNLuEAhs_0000004 96.2 110.4 
+Tom_Bergeron/qrszNLuEAhs_0000005 111.5 120.6 
+Tom_Bergeron/qrszNLuEAhs_0000006 122.4 131.5 
+Tom_Bergeron/qrszNLuEAhs_0000007 141.9 164.4 
+Tom_Bergeron/qrszNLuEAhs_0000008 164.9 176.8 
+Tom_Bergeron/qrszNLuEAhs_0000009 177.0 186.2 

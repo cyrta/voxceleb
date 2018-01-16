@@ -1,0 +1,18 @@
+POI: 			Silas_Weir_Mitchell 
+Youtube ID: 	u_LvGyrI8K8 
+Video length: 	250.0 sec 
+Set (V): 		dev 
+ 
+Silas_Weir_Mitchell/u_LvGyrI8K8_0000001 00.9 06.5 
+Silas_Weir_Mitchell/u_LvGyrI8K8_0000002 13.5 17.5 
+Silas_Weir_Mitchell/u_LvGyrI8K8_0000003 18.6 23.2 
+Silas_Weir_Mitchell/u_LvGyrI8K8_0000004 23.7 28.2 
+Silas_Weir_Mitchell/u_LvGyrI8K8_0000005 38.8 49.5 
+Silas_Weir_Mitchell/u_LvGyrI8K8_0000006 60.0 69.3 
+Silas_Weir_Mitchell/u_LvGyrI8K8_0000007 102.6 116.1 
+Silas_Weir_Mitchell/u_LvGyrI8K8_0000008 122.6 127.2 
+Silas_Weir_Mitchell/u_LvGyrI8K8_0000009 158.6 165.3 
+Silas_Weir_Mitchell/u_LvGyrI8K8_0000010 172.7 181.9 
+Silas_Weir_Mitchell/u_LvGyrI8K8_0000011 185.0 191.1 
+Silas_Weir_Mitchell/u_LvGyrI8K8_0000012 196.3 202.1 
+Silas_Weir_Mitchell/u_LvGyrI8K8_0000013 206.4 215.5 

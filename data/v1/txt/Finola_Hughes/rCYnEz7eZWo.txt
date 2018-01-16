@@ -1,0 +1,11 @@
+POI: 			Finola_Hughes 
+Youtube ID: 	rCYnEz7eZWo 
+Video length: 	319.3 sec 
+Set (V): 		dev 
+ 
+Finola_Hughes/rCYnEz7eZWo_0000001 69.2 76.1 
+Finola_Hughes/rCYnEz7eZWo_0000002 84.7 92.3 
+Finola_Hughes/rCYnEz7eZWo_0000003 144.0 149.5 
+Finola_Hughes/rCYnEz7eZWo_0000004 164.6 169.6 
+Finola_Hughes/rCYnEz7eZWo_0000005 174.7 186.0 
+Finola_Hughes/rCYnEz7eZWo_0000006 242.3 246.8 

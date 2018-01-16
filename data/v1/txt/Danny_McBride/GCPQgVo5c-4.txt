@@ -1,0 +1,13 @@
+POI: 			Danny_McBride 
+Youtube ID: 	GCPQgVo5c-4 
+Video length: 	178.2 sec 
+Set (V): 		dev 
+ 
+Danny_McBride/GCPQgVo5c-4_0000001 13.6 19.6 
+Danny_McBride/GCPQgVo5c-4_0000002 27.4 34.8 
+Danny_McBride/GCPQgVo5c-4_0000003 63.6 89.6 
+Danny_McBride/GCPQgVo5c-4_0000004 91.4 96.6 
+Danny_McBride/GCPQgVo5c-4_0000005 101.3 119.0 
+Danny_McBride/GCPQgVo5c-4_0000006 128.2 134.4 
+Danny_McBride/GCPQgVo5c-4_0000007 137.0 148.0 
+Danny_McBride/GCPQgVo5c-4_0000008 151.6 159.2 

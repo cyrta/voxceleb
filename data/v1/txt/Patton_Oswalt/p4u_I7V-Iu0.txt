@@ -1,0 +1,16 @@
+POI: 			Patton_Oswalt 
+Youtube ID: 	p4u_I7V-Iu0 
+Video length: 	481.7 sec 
+Set (V): 		dev 
+ 
+Patton_Oswalt/p4u_I7V-Iu0_0000001 56.9 71.2 
+Patton_Oswalt/p4u_I7V-Iu0_0000002 85.2 94.1 
+Patton_Oswalt/p4u_I7V-Iu0_0000003 145.6 152.4 
+Patton_Oswalt/p4u_I7V-Iu0_0000004 159.0 174.1 
+Patton_Oswalt/p4u_I7V-Iu0_0000005 179.0 185.1 
+Patton_Oswalt/p4u_I7V-Iu0_0000006 188.5 200.4 
+Patton_Oswalt/p4u_I7V-Iu0_0000007 204.9 210.2 
+Patton_Oswalt/p4u_I7V-Iu0_0000008 259.2 266.3 
+Patton_Oswalt/p4u_I7V-Iu0_0000009 345.0 350.1 
+Patton_Oswalt/p4u_I7V-Iu0_0000010 352.7 365.9 
+Patton_Oswalt/p4u_I7V-Iu0_0000011 442.4 452.5 

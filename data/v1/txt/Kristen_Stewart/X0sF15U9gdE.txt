@@ -1,0 +1,11 @@
+POI: 			Kristen_Stewart 
+Youtube ID: 	X0sF15U9gdE 
+Video length: 	194.0 sec 
+Set (V): 		dev 
+ 
+Kristen_Stewart/X0sF15U9gdE_0000001 67.4 75.4 
+Kristen_Stewart/X0sF15U9gdE_0000002 85.3 97.2 
+Kristen_Stewart/X0sF15U9gdE_0000003 101.6 106.6 
+Kristen_Stewart/X0sF15U9gdE_0000004 134.5 140.7 
+Kristen_Stewart/X0sF15U9gdE_0000005 140.8 145.7 
+Kristen_Stewart/X0sF15U9gdE_0000006 163.1 168.0 

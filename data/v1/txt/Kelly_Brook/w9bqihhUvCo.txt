@@ -1,0 +1,22 @@
+POI: 			Kelly_Brook 
+Youtube ID: 	w9bqihhUvCo 
+Video length: 	393.8 sec 
+Set (V): 		dev 
+ 
+Kelly_Brook/w9bqihhUvCo_0000001 35.5 45.2 
+Kelly_Brook/w9bqihhUvCo_0000002 56.4 63.0 
+Kelly_Brook/w9bqihhUvCo_0000003 63.8 70.4 
+Kelly_Brook/w9bqihhUvCo_0000004 76.1 80.2 
+Kelly_Brook/w9bqihhUvCo_0000005 89.8 112.0 
+Kelly_Brook/w9bqihhUvCo_0000006 128.4 132.7 
+Kelly_Brook/w9bqihhUvCo_0000007 138.3 143.6 
+Kelly_Brook/w9bqihhUvCo_0000008 159.1 185.6 
+Kelly_Brook/w9bqihhUvCo_0000009 193.0 215.5 
+Kelly_Brook/w9bqihhUvCo_0000010 226.8 243.1 
+Kelly_Brook/w9bqihhUvCo_0000011 246.6 268.2 
+Kelly_Brook/w9bqihhUvCo_0000012 278.2 284.4 
+Kelly_Brook/w9bqihhUvCo_0000013 295.6 301.2 
+Kelly_Brook/w9bqihhUvCo_0000014 301.3 306.7 
+Kelly_Brook/w9bqihhUvCo_0000015 317.6 323.8 
+Kelly_Brook/w9bqihhUvCo_0000016 359.2 378.6 
+Kelly_Brook/w9bqihhUvCo_0000017 379.3 388.6 

@@ -1,0 +1,8 @@
+POI: 			Drake_Bell 
+Youtube ID: 	34k7u_wBZi0 
+Video length: 	424.6 sec 
+Set (V): 		dev 
+ 
+Drake_Bell/34k7u_wBZi0_0000001 42.0 47.4 
+Drake_Bell/34k7u_wBZi0_0000002 299.4 306.4 
+Drake_Bell/34k7u_wBZi0_0000003 325.3 329.9 

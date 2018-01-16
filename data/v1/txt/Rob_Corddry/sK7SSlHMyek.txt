@@ -1,0 +1,8 @@
+POI: 			Rob_Corddry 
+Youtube ID: 	sK7SSlHMyek 
+Video length: 	75.8 sec 
+Set (V): 		dev 
+ 
+Rob_Corddry/sK7SSlHMyek_0000001 12.2 16.6 
+Rob_Corddry/sK7SSlHMyek_0000002 29.8 36.5 
+Rob_Corddry/sK7SSlHMyek_0000003 52.0 59.0 

@@ -1,0 +1,11 @@
+POI: 			Amaury_Nolasco 
+Youtube ID: 	fLgBJDrJBh4 
+Video length: 	260.6 sec 
+Set (V): 		dev 
+ 
+Amaury_Nolasco/fLgBJDrJBh4_0000001 30.1 34.5 
+Amaury_Nolasco/fLgBJDrJBh4_0000002 41.4 57.6 
+Amaury_Nolasco/fLgBJDrJBh4_0000003 50.6 61.8 
+Amaury_Nolasco/fLgBJDrJBh4_0000004 147.1 154.7 
+Amaury_Nolasco/fLgBJDrJBh4_0000005 166.6 179.3 
+Amaury_Nolasco/fLgBJDrJBh4_0000006 198.8 205.9 

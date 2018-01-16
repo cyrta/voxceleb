@@ -1,0 +1,8 @@
+POI: 			Monica_Raymund 
+Youtube ID: 	ZLqh4Y8PF-Y 
+Video length: 	192.3 sec 
+Set (V): 		dev 
+ 
+Monica_Raymund/ZLqh4Y8PF-Y_0000001 41.0 46.1 
+Monica_Raymund/ZLqh4Y8PF-Y_0000002 112.4 128.2 
+Monica_Raymund/ZLqh4Y8PF-Y_0000003 128.4 137.8 

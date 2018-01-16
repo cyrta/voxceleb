@@ -1,0 +1,10 @@
+POI: 			Wilson_Cruz 
+Youtube ID: 	98owizGcI_4 
+Video length: 	160.9 sec 
+Set (V): 		dev 
+ 
+Wilson_Cruz/98owizGcI_4_0000001 33.2 41.6 
+Wilson_Cruz/98owizGcI_4_0000002 93.9 98.6 
+Wilson_Cruz/98owizGcI_4_0000003 107.9 115.0 
+Wilson_Cruz/98owizGcI_4_0000004 118.0 122.7 
+Wilson_Cruz/98owizGcI_4_0000005 151.8 157.6 

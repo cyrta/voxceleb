@@ -1,0 +1,11 @@
+POI: 			Damon_Wayans 
+Youtube ID: 	E41wsKPkv7Y 
+Video length: 	280.7 sec 
+Set (V): 		dev 
+ 
+Damon_Wayans/E41wsKPkv7Y_0000001 22.4 26.6 
+Damon_Wayans/E41wsKPkv7Y_0000002 55.8 60.8 
+Damon_Wayans/E41wsKPkv7Y_0000003 69.0 74.2 
+Damon_Wayans/E41wsKPkv7Y_0000004 113.8 118.8 
+Damon_Wayans/E41wsKPkv7Y_0000005 174.3 178.5 
+Damon_Wayans/E41wsKPkv7Y_0000006 205.8 214.9 

@@ -1,0 +1,14 @@
+POI: 			Kate_Voegele 
+Youtube ID: 	EEQeKhm02xg 
+Video length: 	186.4 sec 
+Set (V): 		dev 
+ 
+Kate_Voegele/EEQeKhm02xg_0000001 16.8 23.5 
+Kate_Voegele/EEQeKhm02xg_0000002 25.8 30.1 
+Kate_Voegele/EEQeKhm02xg_0000003 30.8 35.8 
+Kate_Voegele/EEQeKhm02xg_0000004 40.3 44.4 
+Kate_Voegele/EEQeKhm02xg_0000005 108.6 120.2 
+Kate_Voegele/EEQeKhm02xg_0000006 122.6 131.4 
+Kate_Voegele/EEQeKhm02xg_0000007 131.8 141.3 
+Kate_Voegele/EEQeKhm02xg_0000008 157.6 162.3 
+Kate_Voegele/EEQeKhm02xg_0000009 164.8 178.1 

@@ -1,0 +1,22 @@
+POI: 			Roshon_Fegan 
+Youtube ID: 	vixJLjIVaOI 
+Video length: 	1939.5 sec 
+Set (V): 		dev 
+ 
+Roshon_Fegan/vixJLjIVaOI_0000001 1251.3 1258.3 
+Roshon_Fegan/vixJLjIVaOI_0000002 1452.2 1456.4 
+Roshon_Fegan/vixJLjIVaOI_0000003 1461.6 1471.2 
+Roshon_Fegan/vixJLjIVaOI_0000004 1471.9 1476.0 
+Roshon_Fegan/vixJLjIVaOI_0000005 1476.7 1484.3 
+Roshon_Fegan/vixJLjIVaOI_0000006 1579.4 1584.2 
+Roshon_Fegan/vixJLjIVaOI_0000007 1599.2 1603.7 
+Roshon_Fegan/vixJLjIVaOI_0000008 1603.8 1609.0 
+Roshon_Fegan/vixJLjIVaOI_0000009 1618.2 1625.4 
+Roshon_Fegan/vixJLjIVaOI_0000010 1666.5 1672.6 
+Roshon_Fegan/vixJLjIVaOI_0000011 1674.8 1681.2 
+Roshon_Fegan/vixJLjIVaOI_0000012 1686.6 1698.2 
+Roshon_Fegan/vixJLjIVaOI_0000013 1700.8 1707.6 
+Roshon_Fegan/vixJLjIVaOI_0000014 1708.8 1715.6 
+Roshon_Fegan/vixJLjIVaOI_0000015 1781.6 1786.2 
+Roshon_Fegan/vixJLjIVaOI_0000016 1790.1 1794.7 
+Roshon_Fegan/vixJLjIVaOI_0000017 1821.8 1830.4 

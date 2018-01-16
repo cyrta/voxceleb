@@ -1,0 +1,10 @@
+POI: 			Maria_Canals-Barrera 
+Youtube ID: 	Wx-dJoKmZQk 
+Video length: 	245.8 sec 
+Set (V): 		dev 
+ 
+Maria_Canals-Barrera/Wx-dJoKmZQk_0000001 44.1 49.3 
+Maria_Canals-Barrera/Wx-dJoKmZQk_0000002 143.2 148.9 
+Maria_Canals-Barrera/Wx-dJoKmZQk_0000003 149.6 157.8 
+Maria_Canals-Barrera/Wx-dJoKmZQk_0000004 158.0 163.9 
+Maria_Canals-Barrera/Wx-dJoKmZQk_0000005 196.5 201.6 

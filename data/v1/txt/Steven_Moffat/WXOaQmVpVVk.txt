@@ -1,0 +1,19 @@
+POI: 			Steven_Moffat 
+Youtube ID: 	WXOaQmVpVVk 
+Video length: 	397.9 sec 
+Set (V): 		dev 
+ 
+Steven_Moffat/WXOaQmVpVVk_0000001 06.2 29.1 
+Steven_Moffat/WXOaQmVpVVk_0000002 42.9 47.5 
+Steven_Moffat/WXOaQmVpVVk_0000003 62.2 68.4 
+Steven_Moffat/WXOaQmVpVVk_0000004 184.2 188.4 
+Steven_Moffat/WXOaQmVpVVk_0000005 202.2 208.2 
+Steven_Moffat/WXOaQmVpVVk_0000006 200.6 210.3 
+Steven_Moffat/WXOaQmVpVVk_0000007 218.2 222.5 
+Steven_Moffat/WXOaQmVpVVk_0000008 223.0 231.3 
+Steven_Moffat/WXOaQmVpVVk_0000009 308.3 313.6 
+Steven_Moffat/WXOaQmVpVVk_0000010 314.8 319.4 
+Steven_Moffat/WXOaQmVpVVk_0000011 331.6 338.6 
+Steven_Moffat/WXOaQmVpVVk_0000012 359.1 363.8 
+Steven_Moffat/WXOaQmVpVVk_0000013 364.0 370.5 
+Steven_Moffat/WXOaQmVpVVk_0000014 373.5 391.4 

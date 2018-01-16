@@ -1,0 +1,7 @@
+POI: 			John_Krasinski 
+Youtube ID: 	7iN_5byfPs8 
+Video length: 	56.6 sec 
+Set (V): 		dev 
+ 
+John_Krasinski/7iN_5byfPs8_0000001 10.0 15.4 
+John_Krasinski/7iN_5byfPs8_0000002 36.4 42.4 

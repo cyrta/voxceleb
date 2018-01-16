@@ -1,0 +1,10 @@
+POI: 			Meghan_Trainor 
+Youtube ID: 	CQtlPGhTzn8 
+Video length: 	172.4 sec 
+Set (V): 		dev 
+ 
+Meghan_Trainor/CQtlPGhTzn8_0000001 11.2 18.7 
+Meghan_Trainor/CQtlPGhTzn8_0000002 30.8 38.9 
+Meghan_Trainor/CQtlPGhTzn8_0000003 53.1 60.3 
+Meghan_Trainor/CQtlPGhTzn8_0000004 74.1 81.8 
+Meghan_Trainor/CQtlPGhTzn8_0000005 130.9 148.4 

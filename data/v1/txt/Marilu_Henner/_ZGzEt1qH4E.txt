@@ -1,0 +1,15 @@
+POI: 			Marilu_Henner 
+Youtube ID: 	_ZGzEt1qH4E 
+Video length: 	188.9 sec 
+Set (V): 		dev 
+ 
+Marilu_Henner/_ZGzEt1qH4E_0000001 34.8 40.3 
+Marilu_Henner/_ZGzEt1qH4E_0000002 40.4 48.4 
+Marilu_Henner/_ZGzEt1qH4E_0000003 50.8 59.2 
+Marilu_Henner/_ZGzEt1qH4E_0000004 64.8 71.6 
+Marilu_Henner/_ZGzEt1qH4E_0000005 84.2 102.9 
+Marilu_Henner/_ZGzEt1qH4E_0000006 111.5 121.9 
+Marilu_Henner/_ZGzEt1qH4E_0000007 129.4 134.7 
+Marilu_Henner/_ZGzEt1qH4E_0000008 136.9 146.4 
+Marilu_Henner/_ZGzEt1qH4E_0000009 146.6 154.0 
+Marilu_Henner/_ZGzEt1qH4E_0000010 172.4 180.4 

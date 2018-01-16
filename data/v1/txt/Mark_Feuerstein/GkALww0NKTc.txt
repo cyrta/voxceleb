@@ -1,0 +1,28 @@
+POI: 			Mark_Feuerstein 
+Youtube ID: 	GkALww0NKTc 
+Video length: 	417.4 sec 
+Set (V): 		dev 
+ 
+Mark_Feuerstein/GkALww0NKTc_0000001 37.4 44.0 
+Mark_Feuerstein/GkALww0NKTc_0000002 55.5 61.0 
+Mark_Feuerstein/GkALww0NKTc_0000003 75.5 81.7 
+Mark_Feuerstein/GkALww0NKTc_0000004 91.1 103.1 
+Mark_Feuerstein/GkALww0NKTc_0000005 106.8 111.2 
+Mark_Feuerstein/GkALww0NKTc_0000006 154.7 159.7 
+Mark_Feuerstein/GkALww0NKTc_0000007 182.2 198.2 
+Mark_Feuerstein/GkALww0NKTc_0000008 199.4 205.6 
+Mark_Feuerstein/GkALww0NKTc_0000009 206.0 211.2 
+Mark_Feuerstein/GkALww0NKTc_0000010 213.3 223.0 
+Mark_Feuerstein/GkALww0NKTc_0000011 223.8 230.0 
+Mark_Feuerstein/GkALww0NKTc_0000012 238.9 245.6 
+Mark_Feuerstein/GkALww0NKTc_0000013 249.2 255.2 
+Mark_Feuerstein/GkALww0NKTc_0000014 256.1 263.4 
+Mark_Feuerstein/GkALww0NKTc_0000015 263.8 278.6 
+Mark_Feuerstein/GkALww0NKTc_0000016 278.8 283.0 
+Mark_Feuerstein/GkALww0NKTc_0000017 288.5 297.6 
+Mark_Feuerstein/GkALww0NKTc_0000018 308.3 313.4 
+Mark_Feuerstein/GkALww0NKTc_0000019 320.9 325.4 
+Mark_Feuerstein/GkALww0NKTc_0000020 344.8 354.7 
+Mark_Feuerstein/GkALww0NKTc_0000021 356.5 367.6 
+Mark_Feuerstein/GkALww0NKTc_0000022 367.6 379.8 
+Mark_Feuerstein/GkALww0NKTc_0000023 380.6 402.5 

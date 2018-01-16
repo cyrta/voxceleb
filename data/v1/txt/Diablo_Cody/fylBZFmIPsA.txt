@@ -1,0 +1,16 @@
+POI: 			Diablo_Cody 
+Youtube ID: 	fylBZFmIPsA 
+Video length: 	319.6 sec 
+Set (V): 		dev 
+ 
+Diablo_Cody/fylBZFmIPsA_0000001 48.8 54.6 
+Diablo_Cody/fylBZFmIPsA_0000002 54.8 72.2 
+Diablo_Cody/fylBZFmIPsA_0000003 84.1 104.4 
+Diablo_Cody/fylBZFmIPsA_0000004 125.4 143.4 
+Diablo_Cody/fylBZFmIPsA_0000005 161.6 167.4 
+Diablo_Cody/fylBZFmIPsA_0000006 171.3 178.4 
+Diablo_Cody/fylBZFmIPsA_0000007 186.6 195.2 
+Diablo_Cody/fylBZFmIPsA_0000008 213.4 224.4 
+Diablo_Cody/fylBZFmIPsA_0000009 226.1 232.4 
+Diablo_Cody/fylBZFmIPsA_0000010 256.5 272.1 
+Diablo_Cody/fylBZFmIPsA_0000011 277.5 283.4 

@@ -1,0 +1,41 @@
+POI: 			Pablo_Schreiber 
+Youtube ID: 	cevM52fwmh8 
+Video length: 	998.1 sec 
+Set (V): 		dev 
+ 
+Pablo_Schreiber/cevM52fwmh8_0000001 19.2 28.2 
+Pablo_Schreiber/cevM52fwmh8_0000002 82.4 98.1 
+Pablo_Schreiber/cevM52fwmh8_0000003 121.1 138.6 
+Pablo_Schreiber/cevM52fwmh8_0000004 175.6 180.4 
+Pablo_Schreiber/cevM52fwmh8_0000005 181.0 189.2 
+Pablo_Schreiber/cevM52fwmh8_0000006 258.5 267.0 
+Pablo_Schreiber/cevM52fwmh8_0000007 277.1 295.2 
+Pablo_Schreiber/cevM52fwmh8_0000008 314.3 323.5 
+Pablo_Schreiber/cevM52fwmh8_0000009 400.6 405.7 
+Pablo_Schreiber/cevM52fwmh8_0000010 406.2 410.2 
+Pablo_Schreiber/cevM52fwmh8_0000011 442.5 446.8 
+Pablo_Schreiber/cevM52fwmh8_0000012 447.0 451.8 
+Pablo_Schreiber/cevM52fwmh8_0000013 456.9 468.1 
+Pablo_Schreiber/cevM52fwmh8_0000014 510.2 515.1 
+Pablo_Schreiber/cevM52fwmh8_0000015 524.9 537.8 
+Pablo_Schreiber/cevM52fwmh8_0000016 546.1 556.4 
+Pablo_Schreiber/cevM52fwmh8_0000017 562.8 568.4 
+Pablo_Schreiber/cevM52fwmh8_0000018 580.7 586.3 
+Pablo_Schreiber/cevM52fwmh8_0000019 603.0 607.3 
+Pablo_Schreiber/cevM52fwmh8_0000020 610.0 614.7 
+Pablo_Schreiber/cevM52fwmh8_0000021 630.4 649.8 
+Pablo_Schreiber/cevM52fwmh8_0000022 670.2 675.0 
+Pablo_Schreiber/cevM52fwmh8_0000023 699.0 707.9 
+Pablo_Schreiber/cevM52fwmh8_0000024 709.3 715.7 
+Pablo_Schreiber/cevM52fwmh8_0000025 718.0 727.7 
+Pablo_Schreiber/cevM52fwmh8_0000026 744.0 748.0 
+Pablo_Schreiber/cevM52fwmh8_0000027 774.4 778.6 
+Pablo_Schreiber/cevM52fwmh8_0000028 779.5 784.9 
+Pablo_Schreiber/cevM52fwmh8_0000029 789.6 805.2 
+Pablo_Schreiber/cevM52fwmh8_0000030 847.2 855.1 
+Pablo_Schreiber/cevM52fwmh8_0000031 874.8 885.9 
+Pablo_Schreiber/cevM52fwmh8_0000032 929.6 933.9 
+Pablo_Schreiber/cevM52fwmh8_0000033 943.8 950.1 
+Pablo_Schreiber/cevM52fwmh8_0000034 952.2 958.9 
+Pablo_Schreiber/cevM52fwmh8_0000035 969.8 974.4 
+Pablo_Schreiber/cevM52fwmh8_0000036 977.6 986.3 

@@ -1,0 +1,8 @@
+POI: 			James_Earl_Jones 
+Youtube ID: 	agi8JHyOZj0 
+Video length: 	529.2 sec 
+Set (V): 		dev 
+ 
+James_Earl_Jones/agi8JHyOZj0_0000001 191.1 197.0 
+James_Earl_Jones/agi8JHyOZj0_0000002 411.3 415.3 
+James_Earl_Jones/agi8JHyOZj0_0000003 508.2 512.8 

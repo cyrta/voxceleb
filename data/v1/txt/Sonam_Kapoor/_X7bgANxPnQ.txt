@@ -1,0 +1,11 @@
+POI: 			Sonam_Kapoor 
+Youtube ID: 	_X7bgANxPnQ 
+Video length: 	244.5 sec 
+Set (V): 		dev 
+ 
+Sonam_Kapoor/_X7bgANxPnQ_0000001 45.0 48.9 
+Sonam_Kapoor/_X7bgANxPnQ_0000002 57.3 61.6 
+Sonam_Kapoor/_X7bgANxPnQ_0000003 63.8 69.6 
+Sonam_Kapoor/_X7bgANxPnQ_0000004 151.6 158.6 
+Sonam_Kapoor/_X7bgANxPnQ_0000005 160.9 165.4 
+Sonam_Kapoor/_X7bgANxPnQ_0000006 165.5 173.4 

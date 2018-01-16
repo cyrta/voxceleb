@@ -1,0 +1,13 @@
+POI: 			Luke_Arnold 
+Youtube ID: 	2eB4_Ecnkfw 
+Video length: 	273.2 sec 
+Set (V): 		dev 
+ 
+Luke_Arnold/2eB4_Ecnkfw_0000001 13.5 18.0 
+Luke_Arnold/2eB4_Ecnkfw_0000002 26.5 32.1 
+Luke_Arnold/2eB4_Ecnkfw_0000003 32.5 36.8 
+Luke_Arnold/2eB4_Ecnkfw_0000004 80.4 86.4 
+Luke_Arnold/2eB4_Ecnkfw_0000005 156.5 163.7 
+Luke_Arnold/2eB4_Ecnkfw_0000006 165.2 172.9 
+Luke_Arnold/2eB4_Ecnkfw_0000007 173.0 177.8 
+Luke_Arnold/2eB4_Ecnkfw_0000008 178.3 190.0 

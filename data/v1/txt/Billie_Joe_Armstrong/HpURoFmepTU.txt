@@ -1,0 +1,11 @@
+POI: 			Billie_Joe_Armstrong 
+Youtube ID: 	HpURoFmepTU 
+Video length: 	355.8 sec 
+Set (V): 		dev 
+ 
+Billie_Joe_Armstrong/HpURoFmepTU_0000001 78.6 83.2 
+Billie_Joe_Armstrong/HpURoFmepTU_0000002 152.3 157.3 
+Billie_Joe_Armstrong/HpURoFmepTU_0000003 206.8 214.2 
+Billie_Joe_Armstrong/HpURoFmepTU_0000004 244.0 248.4 
+Billie_Joe_Armstrong/HpURoFmepTU_0000005 248.9 253.3 
+Billie_Joe_Armstrong/HpURoFmepTU_0000006 312.4 317.2 

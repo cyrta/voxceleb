@@ -1,0 +1,14 @@
+POI: 			Kangana_Ranaut 
+Youtube ID: 	XeF78f1ApJM 
+Video length: 	367.9 sec 
+Set (V): 		dev 
+ 
+Kangana_Ranaut/XeF78f1ApJM_0000001 49.4 57.5 
+Kangana_Ranaut/XeF78f1ApJM_0000002 89.8 93.8 
+Kangana_Ranaut/XeF78f1ApJM_0000003 136.8 145.9 
+Kangana_Ranaut/XeF78f1ApJM_0000004 152.0 156.0 
+Kangana_Ranaut/XeF78f1ApJM_0000005 176.4 181.4 
+Kangana_Ranaut/XeF78f1ApJM_0000006 217.9 222.3 
+Kangana_Ranaut/XeF78f1ApJM_0000007 255.2 265.3 
+Kangana_Ranaut/XeF78f1ApJM_0000008 273.5 278.1 
+Kangana_Ranaut/XeF78f1ApJM_0000009 298.2 307.2 

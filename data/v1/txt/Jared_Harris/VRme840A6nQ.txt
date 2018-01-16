@@ -1,0 +1,16 @@
+POI: 			Jared_Harris 
+Youtube ID: 	VRme840A6nQ 
+Video length: 	213.9 sec 
+Set (V): 		dev 
+ 
+Jared_Harris/VRme840A6nQ_0000001 26.1 44.4 
+Jared_Harris/VRme840A6nQ_0000002 44.6 56.2 
+Jared_Harris/VRme840A6nQ_0000003 57.2 65.8 
+Jared_Harris/VRme840A6nQ_0000004 69.7 83.1 
+Jared_Harris/VRme840A6nQ_0000005 84.0 89.9 
+Jared_Harris/VRme840A6nQ_0000006 92.5 101.3 
+Jared_Harris/VRme840A6nQ_0000007 105.4 118.6 
+Jared_Harris/VRme840A6nQ_0000008 137.8 142.3 
+Jared_Harris/VRme840A6nQ_0000009 144.3 158.2 
+Jared_Harris/VRme840A6nQ_0000010 158.8 163.4 
+Jared_Harris/VRme840A6nQ_0000011 177.8 197.3 

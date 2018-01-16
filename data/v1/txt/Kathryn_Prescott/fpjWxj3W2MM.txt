@@ -1,0 +1,13 @@
+POI: 			Kathryn_Prescott 
+Youtube ID: 	fpjWxj3W2MM 
+Video length: 	440.3 sec 
+Set (V): 		dev 
+ 
+Kathryn_Prescott/fpjWxj3W2MM_0000001 19.6 23.9 
+Kathryn_Prescott/fpjWxj3W2MM_0000002 55.6 61.0 
+Kathryn_Prescott/fpjWxj3W2MM_0000003 123.3 128.3 
+Kathryn_Prescott/fpjWxj3W2MM_0000004 175.2 180.2 
+Kathryn_Prescott/fpjWxj3W2MM_0000005 195.4 201.6 
+Kathryn_Prescott/fpjWxj3W2MM_0000006 282.4 288.4 
+Kathryn_Prescott/fpjWxj3W2MM_0000007 327.5 332.1 
+Kathryn_Prescott/fpjWxj3W2MM_0000008 405.2 411.1 

@@ -1,0 +1,16 @@
+POI: 			Olivia_Holt 
+Youtube ID: 	plGeZ2hDSlY 
+Video length: 	182.9 sec 
+Set (V): 		dev 
+ 
+Olivia_Holt/plGeZ2hDSlY_0000001 03.2 08.0 
+Olivia_Holt/plGeZ2hDSlY_0000002 28.8 42.9 
+Olivia_Holt/plGeZ2hDSlY_0000003 48.8 55.6 
+Olivia_Holt/plGeZ2hDSlY_0000004 59.3 71.5 
+Olivia_Holt/plGeZ2hDSlY_0000005 86.2 98.9 
+Olivia_Holt/plGeZ2hDSlY_0000006 106.8 110.8 
+Olivia_Holt/plGeZ2hDSlY_0000007 112.8 126.4 
+Olivia_Holt/plGeZ2hDSlY_0000008 134.2 145.2 
+Olivia_Holt/plGeZ2hDSlY_0000009 155.0 161.2 
+Olivia_Holt/plGeZ2hDSlY_0000010 163.2 167.3 
+Olivia_Holt/plGeZ2hDSlY_0000011 167.7 175.7 

@@ -1,0 +1,9 @@
+POI: 			Karla_Souza 
+Youtube ID: 	fBamkF0lp_M 
+Video length: 	258.2 sec 
+Set (V): 		dev 
+ 
+Karla_Souza/fBamkF0lp_M_0000001 59.1 69.5 
+Karla_Souza/fBamkF0lp_M_0000002 95.5 100.6 
+Karla_Souza/fBamkF0lp_M_0000003 159.0 165.9 
+Karla_Souza/fBamkF0lp_M_0000004 172.0 187.4 

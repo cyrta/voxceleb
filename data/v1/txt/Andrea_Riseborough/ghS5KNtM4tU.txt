@@ -1,0 +1,7 @@
+POI: 			Andrea_Riseborough 
+Youtube ID: 	ghS5KNtM4tU 
+Video length: 	220.6 sec 
+Set (V): 		dev 
+ 
+Andrea_Riseborough/ghS5KNtM4tU_0000001 144.4 149.3 
+Andrea_Riseborough/ghS5KNtM4tU_0000002 179.0 184.4 

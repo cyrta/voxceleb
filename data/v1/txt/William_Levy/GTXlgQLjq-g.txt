@@ -1,0 +1,14 @@
+POI: 			William_Levy 
+Youtube ID: 	GTXlgQLjq-g 
+Video length: 	130.8 sec 
+Set (V): 		dev 
+ 
+William_Levy/GTXlgQLjq-g_0000001 33.4 37.4 
+William_Levy/GTXlgQLjq-g_0000002 37.6 43.5 
+William_Levy/GTXlgQLjq-g_0000003 45.6 60.0 
+William_Levy/GTXlgQLjq-g_0000004 74.6 79.6 
+William_Levy/GTXlgQLjq-g_0000005 80.4 86.5 
+William_Levy/GTXlgQLjq-g_0000006 87.8 93.0 
+William_Levy/GTXlgQLjq-g_0000007 98.5 105.2 
+William_Levy/GTXlgQLjq-g_0000008 105.7 111.5 
+William_Levy/GTXlgQLjq-g_0000009 111.7 125.4 

@@ -1,0 +1,14 @@
+POI: 			Russell_Peters 
+Youtube ID: 	0FEA21j1Log 
+Video length: 	1233.9 sec 
+Set (V): 		dev 
+ 
+Russell_Peters/0FEA21j1Log_0000001 340.3 346.0 
+Russell_Peters/0FEA21j1Log_0000002 465.7 470.4 
+Russell_Peters/0FEA21j1Log_0000003 576.8 581.1 
+Russell_Peters/0FEA21j1Log_0000004 592.5 596.6 
+Russell_Peters/0FEA21j1Log_0000005 932.6 939.0 
+Russell_Peters/0FEA21j1Log_0000006 945.0 950.6 
+Russell_Peters/0FEA21j1Log_0000007 954.8 959.6 
+Russell_Peters/0FEA21j1Log_0000008 964.0 968.9 
+Russell_Peters/0FEA21j1Log_0000009 1205.9 1211.8 

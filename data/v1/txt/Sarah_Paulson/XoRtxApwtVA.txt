@@ -1,0 +1,10 @@
+POI: 			Sarah_Paulson 
+Youtube ID: 	XoRtxApwtVA 
+Video length: 	291.0 sec 
+Set (V): 		dev 
+ 
+Sarah_Paulson/XoRtxApwtVA_0000001 13.7 23.7 
+Sarah_Paulson/XoRtxApwtVA_0000002 46.3 50.8 
+Sarah_Paulson/XoRtxApwtVA_0000003 69.6 76.5 
+Sarah_Paulson/XoRtxApwtVA_0000004 202.4 206.6 
+Sarah_Paulson/XoRtxApwtVA_0000005 232.6 237.8 

@@ -1,0 +1,10 @@
+POI: 			Joseph_Gordon-Levitt 
+Youtube ID: 	BoEJKoMVaj4 
+Video length: 	276.6 sec 
+Set (V): 		dev 
+ 
+Joseph_Gordon-Levitt/BoEJKoMVaj4_0000001 167.8 172.7 
+Joseph_Gordon-Levitt/BoEJKoMVaj4_0000002 176.5 181.4 
+Joseph_Gordon-Levitt/BoEJKoMVaj4_0000003 198.9 213.6 
+Joseph_Gordon-Levitt/BoEJKoMVaj4_0000004 214.4 219.1 
+Joseph_Gordon-Levitt/BoEJKoMVaj4_0000005 259.2 263.4 

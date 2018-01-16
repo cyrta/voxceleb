@@ -1,0 +1,11 @@
+POI: 			Will_Forte 
+Youtube ID: 	a44XdHHDdho 
+Video length: 	374.8 sec 
+Set (V): 		dev 
+ 
+Will_Forte/a44XdHHDdho_0000001 63.0 67.4 
+Will_Forte/a44XdHHDdho_0000002 178.1 183.4 
+Will_Forte/a44XdHHDdho_0000003 216.1 223.9 
+Will_Forte/a44XdHHDdho_0000004 235.5 242.5 
+Will_Forte/a44XdHHDdho_0000005 242.8 254.3 
+Will_Forte/a44XdHHDdho_0000006 360.1 368.8 

@@ -1,0 +1,7 @@
+POI: 			CCH_Pounder 
+Youtube ID: 	P6cSOingaJU 
+Video length: 	194.8 sec 
+Set (V): 		dev 
+ 
+CCH_Pounder/P6cSOingaJU_0000001 76.5 81.5 
+CCH_Pounder/P6cSOingaJU_0000002 83.7 88.2 

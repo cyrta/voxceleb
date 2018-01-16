@@ -1,0 +1,8 @@
+POI: 			Rami_Malek 
+Youtube ID: 	BRQBIpggwjc 
+Video length: 	383.8 sec 
+Set (V): 		dev 
+ 
+Rami_Malek/BRQBIpggwjc_0000001 108.9 112.9 
+Rami_Malek/BRQBIpggwjc_0000002 150.7 155.0 
+Rami_Malek/BRQBIpggwjc_0000003 223.8 228.0 

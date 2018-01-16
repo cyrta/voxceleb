@@ -1,0 +1,14 @@
+POI: 			Miranda_Lambert 
+Youtube ID: 	4mqW_eLvfDI 
+Video length: 	353.2 sec 
+Set (V): 		dev 
+ 
+Miranda_Lambert/4mqW_eLvfDI_0000001 19.2 29.7 
+Miranda_Lambert/4mqW_eLvfDI_0000002 128.4 132.7 
+Miranda_Lambert/4mqW_eLvfDI_0000003 262.7 270.7 
+Miranda_Lambert/4mqW_eLvfDI_0000004 270.9 275.0 
+Miranda_Lambert/4mqW_eLvfDI_0000005 284.1 292.6 
+Miranda_Lambert/4mqW_eLvfDI_0000006 292.7 300.6 
+Miranda_Lambert/4mqW_eLvfDI_0000007 303.7 308.4 
+Miranda_Lambert/4mqW_eLvfDI_0000008 322.2 334.8 
+Miranda_Lambert/4mqW_eLvfDI_0000009 340.1 344.9 

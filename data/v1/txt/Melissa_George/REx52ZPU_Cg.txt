@@ -1,0 +1,15 @@
+POI: 			Melissa_George 
+Youtube ID: 	REx52ZPU_Cg 
+Video length: 	208.2 sec 
+Set (V): 		dev 
+ 
+Melissa_George/REx52ZPU_Cg_0000001 25.7 34.0 
+Melissa_George/REx52ZPU_Cg_0000002 34.9 39.2 
+Melissa_George/REx52ZPU_Cg_0000003 71.6 75.7 
+Melissa_George/REx52ZPU_Cg_0000004 77.4 82.9 
+Melissa_George/REx52ZPU_Cg_0000005 83.9 88.0 
+Melissa_George/REx52ZPU_Cg_0000006 88.2 92.3 
+Melissa_George/REx52ZPU_Cg_0000007 125.0 134.5 
+Melissa_George/REx52ZPU_Cg_0000008 156.5 163.9 
+Melissa_George/REx52ZPU_Cg_0000009 164.6 172.1 
+Melissa_George/REx52ZPU_Cg_0000010 187.9 194.9 

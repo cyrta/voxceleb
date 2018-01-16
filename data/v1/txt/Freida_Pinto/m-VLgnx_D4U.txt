@@ -1,0 +1,8 @@
+POI: 			Freida_Pinto 
+Youtube ID: 	m-VLgnx_D4U 
+Video length: 	213.7 sec 
+Set (V): 		dev 
+ 
+Freida_Pinto/m-VLgnx_D4U_0000001 65.6 70.1 
+Freida_Pinto/m-VLgnx_D4U_0000002 121.5 125.5 
+Freida_Pinto/m-VLgnx_D4U_0000003 174.2 181.5 

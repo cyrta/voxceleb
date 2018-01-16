@@ -1,0 +1,12 @@
+POI: 			Seann_William_Scott 
+Youtube ID: 	t4SAmLaD3eM 
+Video length: 	202.9 sec 
+Set (V): 		dev 
+ 
+Seann_William_Scott/t4SAmLaD3eM_0000001 37.6 46.4 
+Seann_William_Scott/t4SAmLaD3eM_0000002 59.2 65.7 
+Seann_William_Scott/t4SAmLaD3eM_0000003 97.2 111.5 
+Seann_William_Scott/t4SAmLaD3eM_0000004 127.6 133.2 
+Seann_William_Scott/t4SAmLaD3eM_0000005 134.1 141.3 
+Seann_William_Scott/t4SAmLaD3eM_0000006 147.0 159.3 
+Seann_William_Scott/t4SAmLaD3eM_0000007 164.0 169.0 

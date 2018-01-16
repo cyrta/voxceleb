@@ -1,0 +1,7 @@
+POI: 			Fanny_Ardant 
+Youtube ID: 	vQtLaA1Z6O8 
+Video length: 	286.0 sec 
+Set (V): 		dev 
+ 
+Fanny_Ardant/vQtLaA1Z6O8_0000001 20.2 24.2 
+Fanny_Ardant/vQtLaA1Z6O8_0000002 242.0 247.7 

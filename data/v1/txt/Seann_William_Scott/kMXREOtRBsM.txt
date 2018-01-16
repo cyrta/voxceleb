@@ -1,0 +1,14 @@
+POI: 			Seann_William_Scott 
+Youtube ID: 	kMXREOtRBsM 
+Video length: 	584.6 sec 
+Set (V): 		dev 
+ 
+Seann_William_Scott/kMXREOtRBsM_0000001 153.1 162.6 
+Seann_William_Scott/kMXREOtRBsM_0000002 189.7 194.2 
+Seann_William_Scott/kMXREOtRBsM_0000003 211.0 217.1 
+Seann_William_Scott/kMXREOtRBsM_0000004 232.0 236.6 
+Seann_William_Scott/kMXREOtRBsM_0000005 262.4 272.9 
+Seann_William_Scott/kMXREOtRBsM_0000006 324.8 329.0 
+Seann_William_Scott/kMXREOtRBsM_0000007 337.2 343.2 
+Seann_William_Scott/kMXREOtRBsM_0000008 351.8 359.2 
+Seann_William_Scott/kMXREOtRBsM_0000009 483.6 489.1 

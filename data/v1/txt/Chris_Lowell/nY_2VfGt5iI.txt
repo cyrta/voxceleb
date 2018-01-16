@@ -1,0 +1,11 @@
+POI: 			Chris_Lowell 
+Youtube ID: 	nY_2VfGt5iI 
+Video length: 	491.2 sec 
+Set (V): 		dev 
+ 
+Chris_Lowell/nY_2VfGt5iI_0000001 38.0 43.5 
+Chris_Lowell/nY_2VfGt5iI_0000002 183.3 194.7 
+Chris_Lowell/nY_2VfGt5iI_0000003 327.1 335.6 
+Chris_Lowell/nY_2VfGt5iI_0000004 336.8 343.6 
+Chris_Lowell/nY_2VfGt5iI_0000005 377.3 381.3 
+Chris_Lowell/nY_2VfGt5iI_0000006 442.0 448.8 

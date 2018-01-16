@@ -1,0 +1,9 @@
+POI: 			Donnie_Yen 
+Youtube ID: 	G32cqeXvfSk 
+Video length: 	239.5 sec 
+Set (V): 		dev 
+ 
+Donnie_Yen/G32cqeXvfSk_0000001 20.6 25.4 
+Donnie_Yen/G32cqeXvfSk_0000002 96.3 103.2 
+Donnie_Yen/G32cqeXvfSk_0000003 138.0 143.7 
+Donnie_Yen/G32cqeXvfSk_0000004 166.9 181.9 

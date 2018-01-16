@@ -1,0 +1,21 @@
+POI: 			Richard_Kind 
+Youtube ID: 	2Pq16ZKsZro 
+Video length: 	363.0 sec 
+Set (V): 		dev 
+ 
+Richard_Kind/2Pq16ZKsZro_0000001 37.8 42.1 
+Richard_Kind/2Pq16ZKsZro_0000002 49.0 56.6 
+Richard_Kind/2Pq16ZKsZro_0000003 94.6 100.6 
+Richard_Kind/2Pq16ZKsZro_0000004 110.0 118.5 
+Richard_Kind/2Pq16ZKsZro_0000005 142.7 153.3 
+Richard_Kind/2Pq16ZKsZro_0000006 154.4 169.4 
+Richard_Kind/2Pq16ZKsZro_0000007 171.0 177.4 
+Richard_Kind/2Pq16ZKsZro_0000008 177.6 183.3 
+Richard_Kind/2Pq16ZKsZro_0000009 191.2 201.2 
+Richard_Kind/2Pq16ZKsZro_0000010 214.6 222.8 
+Richard_Kind/2Pq16ZKsZro_0000011 225.4 238.0 
+Richard_Kind/2Pq16ZKsZro_0000012 238.8 245.4 
+Richard_Kind/2Pq16ZKsZro_0000013 245.5 249.8 
+Richard_Kind/2Pq16ZKsZro_0000014 116.5 133.1 
+Richard_Kind/2Pq16ZKsZro_0000015 254.9 265.8 
+Richard_Kind/2Pq16ZKsZro_0000016 266.4 272.6 

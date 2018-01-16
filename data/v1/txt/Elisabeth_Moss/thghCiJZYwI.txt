@@ -1,0 +1,18 @@
+POI: 			Elisabeth_Moss 
+Youtube ID: 	thghCiJZYwI 
+Video length: 	579.8 sec 
+Set (V): 		test 
+ 
+Elisabeth_Moss/thghCiJZYwI_0000001 10.8 20.4 
+Elisabeth_Moss/thghCiJZYwI_0000002 39.7 49.4 
+Elisabeth_Moss/thghCiJZYwI_0000003 52.2 61.4 
+Elisabeth_Moss/thghCiJZYwI_0000004 76.2 82.4 
+Elisabeth_Moss/thghCiJZYwI_0000005 84.8 99.0 
+Elisabeth_Moss/thghCiJZYwI_0000006 99.7 104.4 
+Elisabeth_Moss/thghCiJZYwI_0000007 146.0 150.8 
+Elisabeth_Moss/thghCiJZYwI_0000008 156.3 164.4 
+Elisabeth_Moss/thghCiJZYwI_0000009 331.6 336.0 
+Elisabeth_Moss/thghCiJZYwI_0000010 403.7 409.2 
+Elisabeth_Moss/thghCiJZYwI_0000011 424.8 433.2 
+Elisabeth_Moss/thghCiJZYwI_0000012 452.0 459.8 
+Elisabeth_Moss/thghCiJZYwI_0000013 460.9 465.8 

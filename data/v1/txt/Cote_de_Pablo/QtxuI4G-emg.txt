@@ -1,0 +1,11 @@
+POI: 			Cote_de_Pablo 
+Youtube ID: 	QtxuI4G-emg 
+Video length: 	325.8 sec 
+Set (V): 		dev 
+ 
+Cote_de_Pablo/QtxuI4G-emg_0000001 48.9 56.1 
+Cote_de_Pablo/QtxuI4G-emg_0000002 137.0 141.4 
+Cote_de_Pablo/QtxuI4G-emg_0000003 149.7 155.5 
+Cote_de_Pablo/QtxuI4G-emg_0000004 225.8 231.9 
+Cote_de_Pablo/QtxuI4G-emg_0000005 259.4 268.3 
+Cote_de_Pablo/QtxuI4G-emg_0000006 276.4 280.4 

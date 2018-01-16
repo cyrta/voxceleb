@@ -1,0 +1,7 @@
+POI: 			Amy_Poehler 
+Youtube ID: 	5biikse9zUw 
+Video length: 	171.8 sec 
+Set (V): 		dev 
+ 
+Amy_Poehler/5biikse9zUw_0000001 83.6 89.3 
+Amy_Poehler/5biikse9zUw_0000002 83.4 89.2 

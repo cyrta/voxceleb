@@ -1,0 +1,12 @@
+POI: 			Tom_Ford 
+Youtube ID: 	1jOqG8XoSQg 
+Video length: 	212.6 sec 
+Set (V): 		dev 
+ 
+Tom_Ford/1jOqG8XoSQg_0000001 02.5 06.8 
+Tom_Ford/1jOqG8XoSQg_0000002 31.2 36.0 
+Tom_Ford/1jOqG8XoSQg_0000003 38.2 44.9 
+Tom_Ford/1jOqG8XoSQg_0000004 112.2 121.2 
+Tom_Ford/1jOqG8XoSQg_0000005 133.5 138.4 
+Tom_Ford/1jOqG8XoSQg_0000006 141.1 145.2 
+Tom_Ford/1jOqG8XoSQg_0000007 194.6 201.0 

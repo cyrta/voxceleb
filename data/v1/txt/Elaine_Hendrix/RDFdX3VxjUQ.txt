@@ -1,0 +1,31 @@
+POI: 			Elaine_Hendrix 
+Youtube ID: 	RDFdX3VxjUQ 
+Video length: 	1158.6 sec 
+Set (V): 		test 
+ 
+Elaine_Hendrix/RDFdX3VxjUQ_0000001 89.8 103.4 
+Elaine_Hendrix/RDFdX3VxjUQ_0000002 149.2 153.9 
+Elaine_Hendrix/RDFdX3VxjUQ_0000003 154.5 158.5 
+Elaine_Hendrix/RDFdX3VxjUQ_0000004 196.4 223.0 
+Elaine_Hendrix/RDFdX3VxjUQ_0000005 273.9 289.4 
+Elaine_Hendrix/RDFdX3VxjUQ_0000006 310.5 319.7 
+Elaine_Hendrix/RDFdX3VxjUQ_0000007 328.5 343.4 
+Elaine_Hendrix/RDFdX3VxjUQ_0000008 362.7 380.7 
+Elaine_Hendrix/RDFdX3VxjUQ_0000009 400.6 405.2 
+Elaine_Hendrix/RDFdX3VxjUQ_0000010 407.4 412.6 
+Elaine_Hendrix/RDFdX3VxjUQ_0000011 436.6 443.2 
+Elaine_Hendrix/RDFdX3VxjUQ_0000012 443.6 450.2 
+Elaine_Hendrix/RDFdX3VxjUQ_0000013 475.0 487.6 
+Elaine_Hendrix/RDFdX3VxjUQ_0000014 488.0 499.6 
+Elaine_Hendrix/RDFdX3VxjUQ_0000015 540.6 546.2 
+Elaine_Hendrix/RDFdX3VxjUQ_0000016 563.2 573.1 
+Elaine_Hendrix/RDFdX3VxjUQ_0000017 579.4 593.0 
+Elaine_Hendrix/RDFdX3VxjUQ_0000018 642.9 678.6 
+Elaine_Hendrix/RDFdX3VxjUQ_0000019 679.0 684.2 
+Elaine_Hendrix/RDFdX3VxjUQ_0000020 695.6 704.3 
+Elaine_Hendrix/RDFdX3VxjUQ_0000021 741.6 747.0 
+Elaine_Hendrix/RDFdX3VxjUQ_0000022 747.1 755.3 
+Elaine_Hendrix/RDFdX3VxjUQ_0000023 769.5 774.6 
+Elaine_Hendrix/RDFdX3VxjUQ_0000024 915.4 954.0 
+Elaine_Hendrix/RDFdX3VxjUQ_0000025 1059.6 1081.2 
+Elaine_Hendrix/RDFdX3VxjUQ_0000026 1106.8 1131.8 

@@ -1,0 +1,10 @@
+POI: 			Robbie_Kay 
+Youtube ID: 	sOj1-NDR4mg 
+Video length: 	454.8 sec 
+Set (V): 		dev 
+ 
+Robbie_Kay/sOj1-NDR4mg_0000001 118.9 123.0 
+Robbie_Kay/sOj1-NDR4mg_0000002 123.8 138.3 
+Robbie_Kay/sOj1-NDR4mg_0000003 141.8 146.0 
+Robbie_Kay/sOj1-NDR4mg_0000004 165.2 171.3 
+Robbie_Kay/sOj1-NDR4mg_0000005 367.2 380.4 

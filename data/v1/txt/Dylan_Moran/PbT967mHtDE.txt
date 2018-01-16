@@ -1,0 +1,18 @@
+POI: 			Dylan_Moran 
+Youtube ID: 	PbT967mHtDE 
+Video length: 	500.7 sec 
+Set (V): 		dev 
+ 
+Dylan_Moran/PbT967mHtDE_0000001 59.8 65.2 
+Dylan_Moran/PbT967mHtDE_0000002 191.3 195.7 
+Dylan_Moran/PbT967mHtDE_0000003 203.6 209.1 
+Dylan_Moran/PbT967mHtDE_0000004 221.5 227.3 
+Dylan_Moran/PbT967mHtDE_0000005 230.7 243.3 
+Dylan_Moran/PbT967mHtDE_0000006 248.3 253.4 
+Dylan_Moran/PbT967mHtDE_0000007 267.8 272.4 
+Dylan_Moran/PbT967mHtDE_0000008 305.1 311.9 
+Dylan_Moran/PbT967mHtDE_0000009 312.7 319.9 
+Dylan_Moran/PbT967mHtDE_0000010 320.1 329.1 
+Dylan_Moran/PbT967mHtDE_0000011 335.7 344.8 
+Dylan_Moran/PbT967mHtDE_0000012 378.6 383.3 
+Dylan_Moran/PbT967mHtDE_0000013 473.6 488.2 

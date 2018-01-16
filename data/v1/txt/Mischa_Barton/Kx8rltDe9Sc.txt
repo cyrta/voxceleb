@@ -1,0 +1,10 @@
+POI: 			Mischa_Barton 
+Youtube ID: 	Kx8rltDe9Sc 
+Video length: 	433.5 sec 
+Set (V): 		dev 
+ 
+Mischa_Barton/Kx8rltDe9Sc_0000001 140.2 144.2 
+Mischa_Barton/Kx8rltDe9Sc_0000002 221.4 225.7 
+Mischa_Barton/Kx8rltDe9Sc_0000003 241.4 245.9 
+Mischa_Barton/Kx8rltDe9Sc_0000004 290.7 296.1 
+Mischa_Barton/Kx8rltDe9Sc_0000005 309.0 314.4 

@@ -1,0 +1,9 @@
+POI: 			Elisabeth_Moss 
+Youtube ID: 	Zdmm9Mrr8Ts 
+Video length: 	61.8 sec 
+Set (V): 		test 
+ 
+Elisabeth_Moss/Zdmm9Mrr8Ts_0000001 05.1 13.1 
+Elisabeth_Moss/Zdmm9Mrr8Ts_0000002 15.6 22.4 
+Elisabeth_Moss/Zdmm9Mrr8Ts_0000003 26.8 34.8 
+Elisabeth_Moss/Zdmm9Mrr8Ts_0000004 41.9 59.9 

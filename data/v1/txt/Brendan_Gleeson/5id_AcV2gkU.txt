@@ -1,0 +1,15 @@
+POI: 			Brendan_Gleeson 
+Youtube ID: 	5id_AcV2gkU 
+Video length: 	132.1 sec 
+Set (V): 		dev 
+ 
+Brendan_Gleeson/5id_AcV2gkU_0000001 15.8 21.0 
+Brendan_Gleeson/5id_AcV2gkU_0000002 28.0 35.4 
+Brendan_Gleeson/5id_AcV2gkU_0000003 37.8 42.3 
+Brendan_Gleeson/5id_AcV2gkU_0000004 45.3 53.0 
+Brendan_Gleeson/5id_AcV2gkU_0000005 65.4 70.8 
+Brendan_Gleeson/5id_AcV2gkU_0000006 76.5 82.6 
+Brendan_Gleeson/5id_AcV2gkU_0000007 90.5 96.1 
+Brendan_Gleeson/5id_AcV2gkU_0000008 98.1 105.0 
+Brendan_Gleeson/5id_AcV2gkU_0000009 105.1 110.5 
+Brendan_Gleeson/5id_AcV2gkU_0000010 115.4 123.7 

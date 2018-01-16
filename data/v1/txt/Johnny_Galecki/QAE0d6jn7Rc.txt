@@ -1,0 +1,7 @@
+POI: 			Johnny_Galecki 
+Youtube ID: 	QAE0d6jn7Rc 
+Video length: 	380.0 sec 
+Set (V): 		dev 
+ 
+Johnny_Galecki/QAE0d6jn7Rc_0000001 107.7 115.7 
+Johnny_Galecki/QAE0d6jn7Rc_0000002 230.6 242.9 

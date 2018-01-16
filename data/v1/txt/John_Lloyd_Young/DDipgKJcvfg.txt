@@ -1,0 +1,9 @@
+POI: 			John_Lloyd_Young 
+Youtube ID: 	DDipgKJcvfg 
+Video length: 	414.1 sec 
+Set (V): 		dev 
+ 
+John_Lloyd_Young/DDipgKJcvfg_0000001 26.2 30.4 
+John_Lloyd_Young/DDipgKJcvfg_0000002 99.0 104.9 
+John_Lloyd_Young/DDipgKJcvfg_0000003 106.3 115.0 
+John_Lloyd_Young/DDipgKJcvfg_0000004 227.1 231.9 

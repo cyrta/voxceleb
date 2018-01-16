@@ -1,0 +1,9 @@
+POI: 			Sandra_Oh 
+Youtube ID: 	p3AGbRazYdw 
+Video length: 	51.9 sec 
+Set (V): 		dev 
+ 
+Sandra_Oh/p3AGbRazYdw_0000001 12.7 16.8 
+Sandra_Oh/p3AGbRazYdw_0000002 17.8 22.8 
+Sandra_Oh/p3AGbRazYdw_0000003 23.4 30.6 
+Sandra_Oh/p3AGbRazYdw_0000004 39.0 49.4 

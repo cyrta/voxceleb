@@ -1,0 +1,13 @@
+POI: 			Scott_Porter 
+Youtube ID: 	j5g_pQbBR0Y 
+Video length: 	657.1 sec 
+Set (V): 		dev 
+ 
+Scott_Porter/j5g_pQbBR0Y_0000001 247.0 251.5 
+Scott_Porter/j5g_pQbBR0Y_0000002 310.3 323.0 
+Scott_Porter/j5g_pQbBR0Y_0000003 340.2 345.3 
+Scott_Porter/j5g_pQbBR0Y_0000004 346.2 351.0 
+Scott_Porter/j5g_pQbBR0Y_0000005 426.0 430.3 
+Scott_Porter/j5g_pQbBR0Y_0000006 431.0 442.8 
+Scott_Porter/j5g_pQbBR0Y_0000007 544.3 551.9 
+Scott_Porter/j5g_pQbBR0Y_0000008 599.0 607.5 

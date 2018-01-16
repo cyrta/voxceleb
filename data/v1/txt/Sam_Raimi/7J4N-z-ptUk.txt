@@ -1,0 +1,34 @@
+POI: 			Sam_Raimi 
+Youtube ID: 	7J4N-z-ptUk 
+Video length: 	518.2 sec 
+Set (V): 		dev 
+ 
+Sam_Raimi/7J4N-z-ptUk_0000001 21.3 27.1 
+Sam_Raimi/7J4N-z-ptUk_0000002 30.9 37.3 
+Sam_Raimi/7J4N-z-ptUk_0000003 42.4 47.8 
+Sam_Raimi/7J4N-z-ptUk_0000004 48.1 56.9 
+Sam_Raimi/7J4N-z-ptUk_0000005 60.4 67.2 
+Sam_Raimi/7J4N-z-ptUk_0000006 68.4 72.4 
+Sam_Raimi/7J4N-z-ptUk_0000007 80.1 84.7 
+Sam_Raimi/7J4N-z-ptUk_0000008 87.3 92.3 
+Sam_Raimi/7J4N-z-ptUk_0000009 109.5 115.8 
+Sam_Raimi/7J4N-z-ptUk_0000010 116.2 132.0 
+Sam_Raimi/7J4N-z-ptUk_0000011 150.4 163.5 
+Sam_Raimi/7J4N-z-ptUk_0000012 165.5 171.5 
+Sam_Raimi/7J4N-z-ptUk_0000013 172.4 177.6 
+Sam_Raimi/7J4N-z-ptUk_0000014 193.7 200.4 
+Sam_Raimi/7J4N-z-ptUk_0000015 205.2 214.6 
+Sam_Raimi/7J4N-z-ptUk_0000016 217.0 232.5 
+Sam_Raimi/7J4N-z-ptUk_0000017 260.0 264.6 
+Sam_Raimi/7J4N-z-ptUk_0000018 266.6 273.0 
+Sam_Raimi/7J4N-z-ptUk_0000019 273.4 286.6 
+Sam_Raimi/7J4N-z-ptUk_0000020 293.9 309.0 
+Sam_Raimi/7J4N-z-ptUk_0000021 326.3 351.7 
+Sam_Raimi/7J4N-z-ptUk_0000022 365.7 374.2 
+Sam_Raimi/7J4N-z-ptUk_0000023 388.2 396.2 
+Sam_Raimi/7J4N-z-ptUk_0000024 414.0 420.0 
+Sam_Raimi/7J4N-z-ptUk_0000025 424.8 437.1 
+Sam_Raimi/7J4N-z-ptUk_0000026 454.6 460.2 
+Sam_Raimi/7J4N-z-ptUk_0000027 466.2 476.4 
+Sam_Raimi/7J4N-z-ptUk_0000028 478.2 505.2 
+Sam_Raimi/7J4N-z-ptUk_0000029 505.4 511.7 

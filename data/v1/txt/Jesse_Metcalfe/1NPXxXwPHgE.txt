@@ -1,0 +1,17 @@
+POI: 			Jesse_Metcalfe 
+Youtube ID: 	1NPXxXwPHgE 
+Video length: 	196.6 sec 
+Set (V): 		dev 
+ 
+Jesse_Metcalfe/1NPXxXwPHgE_0000001 04.7 10.0 
+Jesse_Metcalfe/1NPXxXwPHgE_0000002 20.1 24.8 
+Jesse_Metcalfe/1NPXxXwPHgE_0000003 47.7 59.0 
+Jesse_Metcalfe/1NPXxXwPHgE_0000004 37.2 42.6 
+Jesse_Metcalfe/1NPXxXwPHgE_0000005 66.9 71.4 
+Jesse_Metcalfe/1NPXxXwPHgE_0000006 74.9 79.0 
+Jesse_Metcalfe/1NPXxXwPHgE_0000007 86.5 95.8 
+Jesse_Metcalfe/1NPXxXwPHgE_0000008 96.4 111.6 
+Jesse_Metcalfe/1NPXxXwPHgE_0000009 117.3 123.0 
+Jesse_Metcalfe/1NPXxXwPHgE_0000010 123.4 133.3 
+Jesse_Metcalfe/1NPXxXwPHgE_0000011 140.4 144.7 
+Jesse_Metcalfe/1NPXxXwPHgE_0000012 157.5 176.9 

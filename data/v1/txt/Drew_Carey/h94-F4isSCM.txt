@@ -1,0 +1,7 @@
+POI: 			Drew_Carey 
+Youtube ID: 	h94-F4isSCM 
+Video length: 	338.8 sec 
+Set (V): 		dev 
+ 
+Drew_Carey/h94-F4isSCM_0000001 67.7 73.6 
+Drew_Carey/h94-F4isSCM_0000002 273.9 279.0 

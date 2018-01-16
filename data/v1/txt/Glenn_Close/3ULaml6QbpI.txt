@@ -1,0 +1,17 @@
+POI: 			Glenn_Close 
+Youtube ID: 	3ULaml6QbpI 
+Video length: 	346.8 sec 
+Set (V): 		dev 
+ 
+Glenn_Close/3ULaml6QbpI_0000001 29.3 34.8 
+Glenn_Close/3ULaml6QbpI_0000002 56.4 67.5 
+Glenn_Close/3ULaml6QbpI_0000003 129.6 141.2 
+Glenn_Close/3ULaml6QbpI_0000004 141.8 147.6 
+Glenn_Close/3ULaml6QbpI_0000005 164.0 173.0 
+Glenn_Close/3ULaml6QbpI_0000006 213.0 218.3 
+Glenn_Close/3ULaml6QbpI_0000007 250.4 260.6 
+Glenn_Close/3ULaml6QbpI_0000008 262.7 268.3 
+Glenn_Close/3ULaml6QbpI_0000009 280.3 286.0 
+Glenn_Close/3ULaml6QbpI_0000010 288.6 295.2 
+Glenn_Close/3ULaml6QbpI_0000011 299.2 305.1 
+Glenn_Close/3ULaml6QbpI_0000012 308.2 312.5 

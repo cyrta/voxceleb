@@ -1,0 +1,8 @@
+POI: 			Tom_Bergeron 
+Youtube ID: 	TlfQmz8iZbg 
+Video length: 	72.8 sec 
+Set (V): 		dev 
+ 
+Tom_Bergeron/TlfQmz8iZbg_0000001 08.1 22.6 
+Tom_Bergeron/TlfQmz8iZbg_0000002 25.2 55.2 
+Tom_Bergeron/TlfQmz8iZbg_0000003 55.5 63.2 

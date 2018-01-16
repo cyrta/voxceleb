@@ -1,0 +1,9 @@
+POI: 			Judith_Light 
+Youtube ID: 	W3O2p3VFYuA 
+Video length: 	372.4 sec 
+Set (V): 		dev 
+ 
+Judith_Light/W3O2p3VFYuA_0000001 12.8 22.0 
+Judith_Light/W3O2p3VFYuA_0000002 24.3 28.3 
+Judith_Light/W3O2p3VFYuA_0000003 170.9 188.2 
+Judith_Light/W3O2p3VFYuA_0000004 188.7 194.6 

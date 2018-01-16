@@ -1,0 +1,20 @@
+POI: 			Lucie_Arnaz 
+Youtube ID: 	pCkz5N0a0RY 
+Video length: 	223.6 sec 
+Set (V): 		dev 
+ 
+Lucie_Arnaz/pCkz5N0a0RY_0000001 05.8 16.6 
+Lucie_Arnaz/pCkz5N0a0RY_0000002 20.4 32.0 
+Lucie_Arnaz/pCkz5N0a0RY_0000003 32.8 40.8 
+Lucie_Arnaz/pCkz5N0a0RY_0000004 43.2 59.0 
+Lucie_Arnaz/pCkz5N0a0RY_0000005 61.1 67.6 
+Lucie_Arnaz/pCkz5N0a0RY_0000006 74.1 85.6 
+Lucie_Arnaz/pCkz5N0a0RY_0000007 85.6 99.4 
+Lucie_Arnaz/pCkz5N0a0RY_0000008 103.1 112.9 
+Lucie_Arnaz/pCkz5N0a0RY_0000009 115.3 141.0 
+Lucie_Arnaz/pCkz5N0a0RY_0000010 142.3 153.1 
+Lucie_Arnaz/pCkz5N0a0RY_0000011 157.6 166.5 
+Lucie_Arnaz/pCkz5N0a0RY_0000012 174.6 194.4 
+Lucie_Arnaz/pCkz5N0a0RY_0000013 197.0 203.3 
+Lucie_Arnaz/pCkz5N0a0RY_0000014 197.4 203.6 
+Lucie_Arnaz/pCkz5N0a0RY_0000015 204.3 212.1 

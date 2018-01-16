@@ -1,0 +1,7 @@
+POI: 			Doutzen_Kroes 
+Youtube ID: 	Lz2xyCkPSFw 
+Video length: 	164.8 sec 
+Set (V): 		dev 
+ 
+Doutzen_Kroes/Lz2xyCkPSFw_0000001 33.6 44.4 
+Doutzen_Kroes/Lz2xyCkPSFw_0000002 128.2 134.2 

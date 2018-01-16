@@ -1,0 +1,14 @@
+POI: 			Tavi_Gevinson 
+Youtube ID: 	ptxbuldZgI0 
+Video length: 	223.6 sec 
+Set (V): 		dev 
+ 
+Tavi_Gevinson/ptxbuldZgI0_0000001 03.6 11.3 
+Tavi_Gevinson/ptxbuldZgI0_0000002 37.1 41.6 
+Tavi_Gevinson/ptxbuldZgI0_0000003 63.1 67.4 
+Tavi_Gevinson/ptxbuldZgI0_0000004 78.7 85.2 
+Tavi_Gevinson/ptxbuldZgI0_0000005 100.1 104.6 
+Tavi_Gevinson/ptxbuldZgI0_0000006 118.4 123.6 
+Tavi_Gevinson/ptxbuldZgI0_0000007 155.7 159.8 
+Tavi_Gevinson/ptxbuldZgI0_0000008 165.5 172.1 
+Tavi_Gevinson/ptxbuldZgI0_0000009 181.0 185.7 

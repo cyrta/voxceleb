@@ -1,0 +1,13 @@
+POI: 			Jeremy_Irvine 
+Youtube ID: 	JX8fLQI-jAk 
+Video length: 	178.1 sec 
+Set (V): 		dev 
+ 
+Jeremy_Irvine/JX8fLQI-jAk_0000001 05.2 18.4 
+Jeremy_Irvine/JX8fLQI-jAk_0000002 33.4 40.3 
+Jeremy_Irvine/JX8fLQI-jAk_0000003 46.1 63.2 
+Jeremy_Irvine/JX8fLQI-jAk_0000004 77.8 89.3 
+Jeremy_Irvine/JX8fLQI-jAk_0000005 92.4 100.2 
+Jeremy_Irvine/JX8fLQI-jAk_0000006 108.5 118.8 
+Jeremy_Irvine/JX8fLQI-jAk_0000007 124.0 144.0 
+Jeremy_Irvine/JX8fLQI-jAk_0000008 151.8 166.0 

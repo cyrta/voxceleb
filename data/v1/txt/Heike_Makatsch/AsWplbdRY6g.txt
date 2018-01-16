@@ -1,0 +1,14 @@
+POI: 			Heike_Makatsch 
+Youtube ID: 	AsWplbdRY6g 
+Video length: 	600.1 sec 
+Set (V): 		dev 
+ 
+Heike_Makatsch/AsWplbdRY6g_0000001 32.8 37.0 
+Heike_Makatsch/AsWplbdRY6g_0000002 202.8 208.7 
+Heike_Makatsch/AsWplbdRY6g_0000003 212.7 217.5 
+Heike_Makatsch/AsWplbdRY6g_0000004 232.1 237.6 
+Heike_Makatsch/AsWplbdRY6g_0000005 339.0 344.3 
+Heike_Makatsch/AsWplbdRY6g_0000006 529.1 534.5 
+Heike_Makatsch/AsWplbdRY6g_0000007 537.5 541.8 
+Heike_Makatsch/AsWplbdRY6g_0000008 542.1 547.4 
+Heike_Makatsch/AsWplbdRY6g_0000009 554.8 560.8 

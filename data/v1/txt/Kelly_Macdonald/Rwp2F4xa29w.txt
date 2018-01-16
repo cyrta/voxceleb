@@ -1,0 +1,10 @@
+POI: 			Kelly_Macdonald 
+Youtube ID: 	Rwp2F4xa29w 
+Video length: 	168.5 sec 
+Set (V): 		dev 
+ 
+Kelly_Macdonald/Rwp2F4xa29w_0000001 17.2 23.0 
+Kelly_Macdonald/Rwp2F4xa29w_0000002 64.6 69.8 
+Kelly_Macdonald/Rwp2F4xa29w_0000003 85.0 91.0 
+Kelly_Macdonald/Rwp2F4xa29w_0000004 111.3 123.7 
+Kelly_Macdonald/Rwp2F4xa29w_0000005 138.5 144.4 

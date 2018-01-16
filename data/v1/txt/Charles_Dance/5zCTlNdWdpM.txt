@@ -1,0 +1,9 @@
+POI: 			Charles_Dance 
+Youtube ID: 	5zCTlNdWdpM 
+Video length: 	208.9 sec 
+Set (V): 		dev 
+ 
+Charles_Dance/5zCTlNdWdpM_0000001 57.4 68.7 
+Charles_Dance/5zCTlNdWdpM_0000002 98.8 108.3 
+Charles_Dance/5zCTlNdWdpM_0000003 117.1 127.5 
+Charles_Dance/5zCTlNdWdpM_0000004 166.2 172.6 

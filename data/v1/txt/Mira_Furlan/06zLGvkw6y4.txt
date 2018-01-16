@@ -1,0 +1,17 @@
+POI: 			Mira_Furlan 
+Youtube ID: 	06zLGvkw6y4 
+Video length: 	584.9 sec 
+Set (V): 		dev 
+ 
+Mira_Furlan/06zLGvkw6y4_0000001 53.0 57.5 
+Mira_Furlan/06zLGvkw6y4_0000002 83.7 88.6 
+Mira_Furlan/06zLGvkw6y4_0000003 95.8 100.8 
+Mira_Furlan/06zLGvkw6y4_0000004 105.8 111.8 
+Mira_Furlan/06zLGvkw6y4_0000005 112.9 119.0 
+Mira_Furlan/06zLGvkw6y4_0000006 125.6 129.7 
+Mira_Furlan/06zLGvkw6y4_0000007 199.2 204.1 
+Mira_Furlan/06zLGvkw6y4_0000008 222.6 232.7 
+Mira_Furlan/06zLGvkw6y4_0000009 344.1 348.8 
+Mira_Furlan/06zLGvkw6y4_0000010 364.9 371.0 
+Mira_Furlan/06zLGvkw6y4_0000011 376.2 385.8 
+Mira_Furlan/06zLGvkw6y4_0000012 458.6 468.5 

@@ -1,0 +1,7 @@
+POI: 			Eleanor_Tomlinson 
+Youtube ID: 	rC63HnQ3Nf8 
+Video length: 	218.2 sec 
+Set (V): 		test 
+ 
+Eleanor_Tomlinson/rC63HnQ3Nf8_0000001 52.2 62.0 
+Eleanor_Tomlinson/rC63HnQ3Nf8_0000002 122.6 128.2 

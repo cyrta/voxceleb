@@ -1,0 +1,9 @@
+POI: 			David_Oyelowo 
+Youtube ID: 	V_gr72m8zZ0 
+Video length: 	808.0 sec 
+Set (V): 		dev 
+ 
+David_Oyelowo/V_gr72m8zZ0_0000001 353.6 358.5 
+David_Oyelowo/V_gr72m8zZ0_0000002 582.2 588.4 
+David_Oyelowo/V_gr72m8zZ0_0000003 592.4 597.1 
+David_Oyelowo/V_gr72m8zZ0_0000004 715.9 720.8 

@@ -1,0 +1,7 @@
+POI: 			Dylan_McDermott 
+Youtube ID: 	wed75lDPS9s 
+Video length: 	92.3 sec 
+Set (V): 		dev 
+ 
+Dylan_McDermott/wed75lDPS9s_0000001 01.6 06.7 
+Dylan_McDermott/wed75lDPS9s_0000002 82.3 90.5 

@@ -1,0 +1,9 @@
+POI: 			Jared_Harris 
+Youtube ID: 	ew1B7N_gDtI 
+Video length: 	507.7 sec 
+Set (V): 		dev 
+ 
+Jared_Harris/ew1B7N_gDtI_0000001 32.0 37.1 
+Jared_Harris/ew1B7N_gDtI_0000002 39.0 66.1 
+Jared_Harris/ew1B7N_gDtI_0000003 71.8 84.9 
+Jared_Harris/ew1B7N_gDtI_0000004 85.3 90.7 

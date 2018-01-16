@@ -1,0 +1,10 @@
+POI: 			Wilson_Cruz 
+Youtube ID: 	R6xT14RYyZw 
+Video length: 	204.3 sec 
+Set (V): 		dev 
+ 
+Wilson_Cruz/R6xT14RYyZw_0000001 101.5 108.3 
+Wilson_Cruz/R6xT14RYyZw_0000002 113.7 118.1 
+Wilson_Cruz/R6xT14RYyZw_0000003 125.4 131.8 
+Wilson_Cruz/R6xT14RYyZw_0000004 144.2 149.9 
+Wilson_Cruz/R6xT14RYyZw_0000005 163.4 169.9 

@@ -1,0 +1,7 @@
+POI: 			Dawn_Wells 
+Youtube ID: 	pyJ5aUcWghM 
+Video length: 	347.7 sec 
+Set (V): 		dev 
+ 
+Dawn_Wells/pyJ5aUcWghM_0000001 217.2 225.6 
+Dawn_Wells/pyJ5aUcWghM_0000002 270.2 275.8 

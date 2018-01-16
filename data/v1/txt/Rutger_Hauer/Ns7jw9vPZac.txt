@@ -1,0 +1,13 @@
+POI: 			Rutger_Hauer 
+Youtube ID: 	Ns7jw9vPZac 
+Video length: 	196.1 sec 
+Set (V): 		dev 
+ 
+Rutger_Hauer/Ns7jw9vPZac_0000001 22.9 28.2 
+Rutger_Hauer/Ns7jw9vPZac_0000002 38.2 44.0 
+Rutger_Hauer/Ns7jw9vPZac_0000003 69.2 76.0 
+Rutger_Hauer/Ns7jw9vPZac_0000004 107.6 114.4 
+Rutger_Hauer/Ns7jw9vPZac_0000005 115.8 120.7 
+Rutger_Hauer/Ns7jw9vPZac_0000006 129.8 136.0 
+Rutger_Hauer/Ns7jw9vPZac_0000007 146.5 152.6 
+Rutger_Hauer/Ns7jw9vPZac_0000008 156.8 163.2 

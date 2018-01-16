@@ -1,0 +1,11 @@
+POI: 			Chace_Crawford 
+Youtube ID: 	J5QDDfvB-1Y 
+Video length: 	300.8 sec 
+Set (V): 		dev 
+ 
+Chace_Crawford/J5QDDfvB-1Y_0000001 44.5 50.4 
+Chace_Crawford/J5QDDfvB-1Y_0000002 127.4 140.0 
+Chace_Crawford/J5QDDfvB-1Y_0000003 146.8 154.2 
+Chace_Crawford/J5QDDfvB-1Y_0000004 160.2 164.4 
+Chace_Crawford/J5QDDfvB-1Y_0000005 172.3 179.4 
+Chace_Crawford/J5QDDfvB-1Y_0000006 225.5 230.1 

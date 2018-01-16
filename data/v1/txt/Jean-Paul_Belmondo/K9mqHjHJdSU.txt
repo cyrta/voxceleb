@@ -1,0 +1,7 @@
+POI: 			Jean-Paul_Belmondo 
+Youtube ID: 	K9mqHjHJdSU 
+Video length: 	155.5 sec 
+Set (V): 		dev 
+ 
+Jean-Paul_Belmondo/K9mqHjHJdSU_0000001 86.0 91.1 
+Jean-Paul_Belmondo/K9mqHjHJdSU_0000002 137.8 145.9 

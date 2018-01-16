@@ -1,0 +1,18 @@
+POI: 			Katee_Sackhoff 
+Youtube ID: 	Onz-qfRpzhY 
+Video length: 	257.5 sec 
+Set (V): 		dev 
+ 
+Katee_Sackhoff/Onz-qfRpzhY_0000001 41.3 49.5 
+Katee_Sackhoff/Onz-qfRpzhY_0000002 51.6 62.5 
+Katee_Sackhoff/Onz-qfRpzhY_0000003 64.8 70.4 
+Katee_Sackhoff/Onz-qfRpzhY_0000004 72.5 83.2 
+Katee_Sackhoff/Onz-qfRpzhY_0000005 84.7 100.4 
+Katee_Sackhoff/Onz-qfRpzhY_0000006 107.2 112.9 
+Katee_Sackhoff/Onz-qfRpzhY_0000007 116.7 123.1 
+Katee_Sackhoff/Onz-qfRpzhY_0000008 128.9 141.6 
+Katee_Sackhoff/Onz-qfRpzhY_0000009 145.0 150.6 
+Katee_Sackhoff/Onz-qfRpzhY_0000010 159.6 164.2 
+Katee_Sackhoff/Onz-qfRpzhY_0000011 182.6 186.6 
+Katee_Sackhoff/Onz-qfRpzhY_0000012 193.2 203.5 
+Katee_Sackhoff/Onz-qfRpzhY_0000013 216.6 222.1 

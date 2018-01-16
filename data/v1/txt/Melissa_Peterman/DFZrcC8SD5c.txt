@@ -1,0 +1,25 @@
+POI: 			Melissa_Peterman 
+Youtube ID: 	DFZrcC8SD5c 
+Video length: 	523.2 sec 
+Set (V): 		dev 
+ 
+Melissa_Peterman/DFZrcC8SD5c_0000001 12.0 16.0 
+Melissa_Peterman/DFZrcC8SD5c_0000002 16.7 29.2 
+Melissa_Peterman/DFZrcC8SD5c_0000003 33.3 37.6 
+Melissa_Peterman/DFZrcC8SD5c_0000004 38.1 42.6 
+Melissa_Peterman/DFZrcC8SD5c_0000005 61.0 69.7 
+Melissa_Peterman/DFZrcC8SD5c_0000006 74.9 79.4 
+Melissa_Peterman/DFZrcC8SD5c_0000007 79.8 88.0 
+Melissa_Peterman/DFZrcC8SD5c_0000008 89.0 95.7 
+Melissa_Peterman/DFZrcC8SD5c_0000009 104.7 109.1 
+Melissa_Peterman/DFZrcC8SD5c_0000010 126.2 130.4 
+Melissa_Peterman/DFZrcC8SD5c_0000011 130.8 135.4 
+Melissa_Peterman/DFZrcC8SD5c_0000012 163.5 167.6 
+Melissa_Peterman/DFZrcC8SD5c_0000013 210.0 214.0 
+Melissa_Peterman/DFZrcC8SD5c_0000014 222.1 228.2 
+Melissa_Peterman/DFZrcC8SD5c_0000015 256.2 261.0 
+Melissa_Peterman/DFZrcC8SD5c_0000016 341.2 345.6 
+Melissa_Peterman/DFZrcC8SD5c_0000017 357.5 363.4 
+Melissa_Peterman/DFZrcC8SD5c_0000018 364.0 368.6 
+Melissa_Peterman/DFZrcC8SD5c_0000019 453.7 464.8 
+Melissa_Peterman/DFZrcC8SD5c_0000020 486.7 500.9 

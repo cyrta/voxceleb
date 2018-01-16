@@ -1,0 +1,14 @@
+POI: 			Joseph_Gordon-Levitt 
+Youtube ID: 	PbP-es08avQ 
+Video length: 	330.7 sec 
+Set (V): 		dev 
+ 
+Joseph_Gordon-Levitt/PbP-es08avQ_0000001 13.8 19.0 
+Joseph_Gordon-Levitt/PbP-es08avQ_0000002 48.0 68.8 
+Joseph_Gordon-Levitt/PbP-es08avQ_0000003 104.6 110.4 
+Joseph_Gordon-Levitt/PbP-es08avQ_0000004 110.6 117.2 
+Joseph_Gordon-Levitt/PbP-es08avQ_0000005 127.6 136.6 
+Joseph_Gordon-Levitt/PbP-es08avQ_0000006 166.2 190.5 
+Joseph_Gordon-Levitt/PbP-es08avQ_0000007 240.1 267.3 
+Joseph_Gordon-Levitt/PbP-es08avQ_0000008 290.1 297.2 
+Joseph_Gordon-Levitt/PbP-es08avQ_0000009 321.9 327.9 

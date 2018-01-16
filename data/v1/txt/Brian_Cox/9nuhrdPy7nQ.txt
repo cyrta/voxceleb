@@ -1,0 +1,13 @@
+POI: 			Brian_Cox 
+Youtube ID: 	9nuhrdPy7nQ 
+Video length: 	647.9 sec 
+Set (V): 		dev 
+ 
+Brian_Cox/9nuhrdPy7nQ_0000001 110.4 115.5 
+Brian_Cox/9nuhrdPy7nQ_0000002 297.2 302.7 
+Brian_Cox/9nuhrdPy7nQ_0000003 326.5 333.6 
+Brian_Cox/9nuhrdPy7nQ_0000004 402.2 412.1 
+Brian_Cox/9nuhrdPy7nQ_0000005 449.5 461.5 
+Brian_Cox/9nuhrdPy7nQ_0000006 567.5 574.1 
+Brian_Cox/9nuhrdPy7nQ_0000007 581.6 586.1 
+Brian_Cox/9nuhrdPy7nQ_0000008 588.2 593.3 

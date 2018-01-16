@@ -1,0 +1,13 @@
+POI: 			Hector_Elizondo 
+Youtube ID: 	ORP5Ya_ZvXo 
+Video length: 	140.9 sec 
+Set (V): 		dev 
+ 
+Hector_Elizondo/ORP5Ya_ZvXo_0000001 22.9 35.2 
+Hector_Elizondo/ORP5Ya_ZvXo_0000002 42.8 47.1 
+Hector_Elizondo/ORP5Ya_ZvXo_0000003 48.1 54.3 
+Hector_Elizondo/ORP5Ya_ZvXo_0000004 60.4 64.9 
+Hector_Elizondo/ORP5Ya_ZvXo_0000005 74.9 84.2 
+Hector_Elizondo/ORP5Ya_ZvXo_0000006 84.5 93.0 
+Hector_Elizondo/ORP5Ya_ZvXo_0000007 94.2 98.8 
+Hector_Elizondo/ORP5Ya_ZvXo_0000008 110.5 117.0 

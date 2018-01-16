@@ -1,0 +1,22 @@
+POI: 			Charice 
+Youtube ID: 	zHtmdnWUjcY 
+Video length: 	599.6 sec 
+Set (V): 		dev 
+ 
+Charice/zHtmdnWUjcY_0000001 49.7 54.2 
+Charice/zHtmdnWUjcY_0000002 108.9 113.0 
+Charice/zHtmdnWUjcY_0000003 185.8 191.0 
+Charice/zHtmdnWUjcY_0000004 227.0 238.0 
+Charice/zHtmdnWUjcY_0000005 245.6 255.2 
+Charice/zHtmdnWUjcY_0000006 290.9 297.4 
+Charice/zHtmdnWUjcY_0000007 323.7 330.4 
+Charice/zHtmdnWUjcY_0000008 336.7 346.5 
+Charice/zHtmdnWUjcY_0000009 353.8 360.1 
+Charice/zHtmdnWUjcY_0000010 374.0 379.6 
+Charice/zHtmdnWUjcY_0000011 386.2 391.9 
+Charice/zHtmdnWUjcY_0000012 413.9 429.2 
+Charice/zHtmdnWUjcY_0000013 438.7 451.4 
+Charice/zHtmdnWUjcY_0000014 470.6 484.4 
+Charice/zHtmdnWUjcY_0000015 494.9 500.1 
+Charice/zHtmdnWUjcY_0000016 548.7 561.1 
+Charice/zHtmdnWUjcY_0000017 578.9 590.4 

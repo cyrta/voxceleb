@@ -1,0 +1,10 @@
+POI: 			Peter_Berg 
+Youtube ID: 	i2d8SoG7zQM 
+Video length: 	388.9 sec 
+Set (V): 		dev 
+ 
+Peter_Berg/i2d8SoG7zQM_0000001 105.2 113.5 
+Peter_Berg/i2d8SoG7zQM_0000002 163.3 169.2 
+Peter_Berg/i2d8SoG7zQM_0000003 282.2 295.0 
+Peter_Berg/i2d8SoG7zQM_0000004 313.2 319.3 
+Peter_Berg/i2d8SoG7zQM_0000005 356.0 359.9 

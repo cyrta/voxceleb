@@ -1,0 +1,12 @@
+POI: 			Alba_Rohrwacher 
+Youtube ID: 	SbOqcO128PQ 
+Video length: 	349.8 sec 
+Set (V): 		dev 
+ 
+Alba_Rohrwacher/SbOqcO128PQ_0000001 237.6 243.3 
+Alba_Rohrwacher/SbOqcO128PQ_0000002 244.1 248.4 
+Alba_Rohrwacher/SbOqcO128PQ_0000003 249.6 264.7 
+Alba_Rohrwacher/SbOqcO128PQ_0000004 266.2 274.1 
+Alba_Rohrwacher/SbOqcO128PQ_0000005 277.6 284.6 
+Alba_Rohrwacher/SbOqcO128PQ_0000006 285.6 290.8 
+Alba_Rohrwacher/SbOqcO128PQ_0000007 291.9 301.5 

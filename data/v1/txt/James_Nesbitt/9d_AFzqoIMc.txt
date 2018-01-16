@@ -1,0 +1,9 @@
+POI: 			James_Nesbitt 
+Youtube ID: 	9d_AFzqoIMc 
+Video length: 	87.4 sec 
+Set (V): 		dev 
+ 
+James_Nesbitt/9d_AFzqoIMc_0000001 19.2 24.7 
+James_Nesbitt/9d_AFzqoIMc_0000002 44.5 53.8 
+James_Nesbitt/9d_AFzqoIMc_0000003 64.8 74.4 
+James_Nesbitt/9d_AFzqoIMc_0000004 76.2 80.8 

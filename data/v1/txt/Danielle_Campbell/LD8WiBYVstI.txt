@@ -1,0 +1,9 @@
+POI: 			Danielle_Campbell 
+Youtube ID: 	LD8WiBYVstI 
+Video length: 	222.0 sec 
+Set (V): 		dev 
+ 
+Danielle_Campbell/LD8WiBYVstI_0000001 34.5 43.4 
+Danielle_Campbell/LD8WiBYVstI_0000002 87.0 105.1 
+Danielle_Campbell/LD8WiBYVstI_0000003 190.9 195.7 
+Danielle_Campbell/LD8WiBYVstI_0000004 198.0 218.6 

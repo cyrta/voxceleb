@@ -1,0 +1,8 @@
+POI: 			Candice_Accola 
+Youtube ID: 	LntuXtvD6aE 
+Video length: 	381.9 sec 
+Set (V): 		dev 
+ 
+Candice_Accola/LntuXtvD6aE_0000001 123.7 128.0 
+Candice_Accola/LntuXtvD6aE_0000002 141.6 145.6 
+Candice_Accola/LntuXtvD6aE_0000003 369.4 373.6 

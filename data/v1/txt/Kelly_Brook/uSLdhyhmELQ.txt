@@ -1,0 +1,9 @@
+POI: 			Kelly_Brook 
+Youtube ID: 	uSLdhyhmELQ 
+Video length: 	458.5 sec 
+Set (V): 		dev 
+ 
+Kelly_Brook/uSLdhyhmELQ_0000001 76.0 80.6 
+Kelly_Brook/uSLdhyhmELQ_0000002 161.2 170.1 
+Kelly_Brook/uSLdhyhmELQ_0000003 218.8 223.3 
+Kelly_Brook/uSLdhyhmELQ_0000004 400.6 404.7 

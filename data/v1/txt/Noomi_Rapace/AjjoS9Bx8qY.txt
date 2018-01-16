@@ -1,0 +1,8 @@
+POI: 			Noomi_Rapace 
+Youtube ID: 	AjjoS9Bx8qY 
+Video length: 	185.4 sec 
+Set (V): 		dev 
+ 
+Noomi_Rapace/AjjoS9Bx8qY_0000001 14.3 18.6 
+Noomi_Rapace/AjjoS9Bx8qY_0000002 38.6 44.8 
+Noomi_Rapace/AjjoS9Bx8qY_0000003 170.8 175.0 

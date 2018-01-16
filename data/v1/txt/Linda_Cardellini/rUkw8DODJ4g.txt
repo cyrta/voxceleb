@@ -1,0 +1,9 @@
+POI: 			Linda_Cardellini 
+Youtube ID: 	rUkw8DODJ4g 
+Video length: 	192.8 sec 
+Set (V): 		dev 
+ 
+Linda_Cardellini/rUkw8DODJ4g_0000001 63.1 70.0 
+Linda_Cardellini/rUkw8DODJ4g_0000002 142.9 148.0 
+Linda_Cardellini/rUkw8DODJ4g_0000003 148.2 153.3 
+Linda_Cardellini/rUkw8DODJ4g_0000004 156.2 160.8 

@@ -1,0 +1,9 @@
+POI: 			Noomi_Rapace 
+Youtube ID: 	HwJsNpQHk1E 
+Video length: 	161.2 sec 
+Set (V): 		dev 
+ 
+Noomi_Rapace/HwJsNpQHk1E_0000001 95.4 106.3 
+Noomi_Rapace/HwJsNpQHk1E_0000002 117.8 122.4 
+Noomi_Rapace/HwJsNpQHk1E_0000003 122.5 128.8 
+Noomi_Rapace/HwJsNpQHk1E_0000004 128.9 133.0 

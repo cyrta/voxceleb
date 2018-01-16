@@ -1,0 +1,23 @@
+POI: 			Cliff_Curtis 
+Youtube ID: 	j_Z6uRlRkvo 
+Video length: 	271.7 sec 
+Set (V): 		dev 
+ 
+Cliff_Curtis/j_Z6uRlRkvo_0000001 20.2 24.9 
+Cliff_Curtis/j_Z6uRlRkvo_0000002 25.7 31.7 
+Cliff_Curtis/j_Z6uRlRkvo_0000003 41.6 46.0 
+Cliff_Curtis/j_Z6uRlRkvo_0000004 46.4 51.5 
+Cliff_Curtis/j_Z6uRlRkvo_0000005 52.5 60.9 
+Cliff_Curtis/j_Z6uRlRkvo_0000006 61.4 65.8 
+Cliff_Curtis/j_Z6uRlRkvo_0000007 73.2 79.1 
+Cliff_Curtis/j_Z6uRlRkvo_0000008 80.2 85.8 
+Cliff_Curtis/j_Z6uRlRkvo_0000009 104.9 114.9 
+Cliff_Curtis/j_Z6uRlRkvo_0000010 121.3 129.2 
+Cliff_Curtis/j_Z6uRlRkvo_0000011 130.7 135.2 
+Cliff_Curtis/j_Z6uRlRkvo_0000012 136.8 143.7 
+Cliff_Curtis/j_Z6uRlRkvo_0000013 174.2 181.1 
+Cliff_Curtis/j_Z6uRlRkvo_0000014 187.8 193.6 
+Cliff_Curtis/j_Z6uRlRkvo_0000015 194.0 204.0 
+Cliff_Curtis/j_Z6uRlRkvo_0000016 233.4 237.8 
+Cliff_Curtis/j_Z6uRlRkvo_0000017 238.7 245.4 
+Cliff_Curtis/j_Z6uRlRkvo_0000018 255.2 270.0 

@@ -1,0 +1,15 @@
+POI: 			David_Warner 
+Youtube ID: 	IRuhsRDUjOI 
+Video length: 	184.2 sec 
+Set (V): 		dev 
+ 
+David_Warner/IRuhsRDUjOI_0000001 12.1 21.0 
+David_Warner/IRuhsRDUjOI_0000002 23.0 29.4 
+David_Warner/IRuhsRDUjOI_0000003 51.2 55.5 
+David_Warner/IRuhsRDUjOI_0000004 64.3 70.0 
+David_Warner/IRuhsRDUjOI_0000005 76.5 83.4 
+David_Warner/IRuhsRDUjOI_0000006 84.8 90.9 
+David_Warner/IRuhsRDUjOI_0000007 91.4 110.0 
+David_Warner/IRuhsRDUjOI_0000008 147.8 151.8 
+David_Warner/IRuhsRDUjOI_0000009 153.2 160.7 
+David_Warner/IRuhsRDUjOI_0000010 167.6 173.3 

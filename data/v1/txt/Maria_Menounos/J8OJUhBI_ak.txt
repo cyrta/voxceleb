@@ -1,0 +1,33 @@
+POI: 			Maria_Menounos 
+Youtube ID: 	J8OJUhBI_ak 
+Video length: 	932.9 sec 
+Set (V): 		dev 
+ 
+Maria_Menounos/J8OJUhBI_ak_0000001 16.1 21.9 
+Maria_Menounos/J8OJUhBI_ak_0000002 82.7 90.8 
+Maria_Menounos/J8OJUhBI_ak_0000003 93.9 99.7 
+Maria_Menounos/J8OJUhBI_ak_0000004 142.6 147.9 
+Maria_Menounos/J8OJUhBI_ak_0000005 162.9 167.6 
+Maria_Menounos/J8OJUhBI_ak_0000006 174.6 185.0 
+Maria_Menounos/J8OJUhBI_ak_0000007 195.6 207.0 
+Maria_Menounos/J8OJUhBI_ak_0000008 208.8 216.0 
+Maria_Menounos/J8OJUhBI_ak_0000009 221.6 226.4 
+Maria_Menounos/J8OJUhBI_ak_0000010 234.1 244.9 
+Maria_Menounos/J8OJUhBI_ak_0000011 281.0 289.6 
+Maria_Menounos/J8OJUhBI_ak_0000012 309.2 320.9 
+Maria_Menounos/J8OJUhBI_ak_0000013 336.4 346.9 
+Maria_Menounos/J8OJUhBI_ak_0000014 398.3 406.0 
+Maria_Menounos/J8OJUhBI_ak_0000015 417.3 422.4 
+Maria_Menounos/J8OJUhBI_ak_0000016 424.2 429.2 
+Maria_Menounos/J8OJUhBI_ak_0000017 458.0 468.5 
+Maria_Menounos/J8OJUhBI_ak_0000018 480.4 486.7 
+Maria_Menounos/J8OJUhBI_ak_0000019 498.0 503.9 
+Maria_Menounos/J8OJUhBI_ak_0000020 537.3 543.9 
+Maria_Menounos/J8OJUhBI_ak_0000021 553.9 559.8 
+Maria_Menounos/J8OJUhBI_ak_0000022 625.0 631.2 
+Maria_Menounos/J8OJUhBI_ak_0000023 721.0 726.1 
+Maria_Menounos/J8OJUhBI_ak_0000024 766.2 776.7 
+Maria_Menounos/J8OJUhBI_ak_0000025 860.0 866.6 
+Maria_Menounos/J8OJUhBI_ak_0000026 868.7 873.1 
+Maria_Menounos/J8OJUhBI_ak_0000027 873.3 882.6 
+Maria_Menounos/J8OJUhBI_ak_0000028 883.3 888.9 

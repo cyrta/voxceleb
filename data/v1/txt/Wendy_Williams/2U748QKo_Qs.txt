@@ -1,0 +1,7 @@
+POI: 			Wendy_Williams 
+Youtube ID: 	2U748QKo_Qs 
+Video length: 	676.2 sec 
+Set (V): 		dev 
+ 
+Wendy_Williams/2U748QKo_Qs_0000001 341.6 347.5 
+Wendy_Williams/2U748QKo_Qs_0000002 351.2 356.7 

@@ -1,0 +1,12 @@
+POI: 			Will_Poulter 
+Youtube ID: 	I_sXhmioQPU 
+Video length: 	192.9 sec 
+Set (V): 		dev 
+ 
+Will_Poulter/I_sXhmioQPU_0000001 61.2 66.6 
+Will_Poulter/I_sXhmioQPU_0000002 104.1 109.1 
+Will_Poulter/I_sXhmioQPU_0000003 109.7 124.8 
+Will_Poulter/I_sXhmioQPU_0000004 127.7 133.7 
+Will_Poulter/I_sXhmioQPU_0000005 135.7 142.1 
+Will_Poulter/I_sXhmioQPU_0000006 164.5 168.5 
+Will_Poulter/I_sXhmioQPU_0000007 170.6 175.9 

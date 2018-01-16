@@ -1,0 +1,16 @@
+POI: 			Kristen_Stewart 
+Youtube ID: 	01q-YLBhP6I 
+Video length: 	220.4 sec 
+Set (V): 		dev 
+ 
+Kristen_Stewart/01q-YLBhP6I_0000001 27.5 34.7 
+Kristen_Stewart/01q-YLBhP6I_0000002 63.2 69.5 
+Kristen_Stewart/01q-YLBhP6I_0000003 95.1 99.6 
+Kristen_Stewart/01q-YLBhP6I_0000004 99.9 107.1 
+Kristen_Stewart/01q-YLBhP6I_0000005 107.5 111.6 
+Kristen_Stewart/01q-YLBhP6I_0000006 148.9 154.4 
+Kristen_Stewart/01q-YLBhP6I_0000007 154.7 161.4 
+Kristen_Stewart/01q-YLBhP6I_0000008 162.3 167.9 
+Kristen_Stewart/01q-YLBhP6I_0000009 168.8 174.3 
+Kristen_Stewart/01q-YLBhP6I_0000010 183.6 188.8 
+Kristen_Stewart/01q-YLBhP6I_0000011 200.0 207.4 

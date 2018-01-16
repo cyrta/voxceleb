@@ -1,0 +1,9 @@
+POI: 			Catherine_Hardwicke 
+Youtube ID: 	KljtIld3rMU 
+Video length: 	199.2 sec 
+Set (V): 		dev 
+ 
+Catherine_Hardwicke/KljtIld3rMU_0000001 20.1 25.3 
+Catherine_Hardwicke/KljtIld3rMU_0000002 42.2 53.9 
+Catherine_Hardwicke/KljtIld3rMU_0000003 109.8 115.2 
+Catherine_Hardwicke/KljtIld3rMU_0000004 163.8 168.6 

@@ -1,0 +1,10 @@
+POI: 			Scott_Speedman 
+Youtube ID: 	H4NkHrI6h3w 
+Video length: 	175.5 sec 
+Set (V): 		dev 
+ 
+Scott_Speedman/H4NkHrI6h3w_0000001 78.7 88.4 
+Scott_Speedman/H4NkHrI6h3w_0000002 104.3 111.8 
+Scott_Speedman/H4NkHrI6h3w_0000003 145.5 150.0 
+Scott_Speedman/H4NkHrI6h3w_0000004 154.5 158.8 
+Scott_Speedman/H4NkHrI6h3w_0000005 160.4 165.0 

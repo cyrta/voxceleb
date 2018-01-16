@@ -1,0 +1,10 @@
+POI: 			Dustin_Milligan 
+Youtube ID: 	RwF-vTNdSrk 
+Video length: 	146.6 sec 
+Set (V): 		dev 
+ 
+Dustin_Milligan/RwF-vTNdSrk_0000001 09.5 24.4 
+Dustin_Milligan/RwF-vTNdSrk_0000002 32.0 37.4 
+Dustin_Milligan/RwF-vTNdSrk_0000003 97.2 104.6 
+Dustin_Milligan/RwF-vTNdSrk_0000004 122.4 126.8 
+Dustin_Milligan/RwF-vTNdSrk_0000005 127.2 131.7 

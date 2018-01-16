@@ -1,0 +1,8 @@
+POI: 			Richard_Hammond 
+Youtube ID: 	QUXccl2jDtk 
+Video length: 	1020.1 sec 
+Set (V): 		dev 
+ 
+Richard_Hammond/QUXccl2jDtk_0000001 104.7 109.4 
+Richard_Hammond/QUXccl2jDtk_0000002 352.5 357.4 
+Richard_Hammond/QUXccl2jDtk_0000003 440.4 445.5 

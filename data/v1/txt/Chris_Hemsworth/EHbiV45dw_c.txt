@@ -1,0 +1,7 @@
+POI: 			Chris_Hemsworth 
+Youtube ID: 	EHbiV45dw_c 
+Video length: 	307.3 sec 
+Set (V): 		dev 
+ 
+Chris_Hemsworth/EHbiV45dw_c_0000001 232.7 238.0 
+Chris_Hemsworth/EHbiV45dw_c_0000002 238.7 244.0 

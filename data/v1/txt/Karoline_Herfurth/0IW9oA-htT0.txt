@@ -1,0 +1,8 @@
+POI: 			Karoline_Herfurth 
+Youtube ID: 	0IW9oA-htT0 
+Video length: 	420.1 sec 
+Set (V): 		dev 
+ 
+Karoline_Herfurth/0IW9oA-htT0_0000001 129.6 133.8 
+Karoline_Herfurth/0IW9oA-htT0_0000002 162.8 167.2 
+Karoline_Herfurth/0IW9oA-htT0_0000003 362.2 366.5 

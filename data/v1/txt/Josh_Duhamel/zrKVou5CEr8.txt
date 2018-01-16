@@ -1,0 +1,9 @@
+POI: 			Josh_Duhamel 
+Youtube ID: 	zrKVou5CEr8 
+Video length: 	172.4 sec 
+Set (V): 		dev 
+ 
+Josh_Duhamel/zrKVou5CEr8_0000001 40.6 48.1 
+Josh_Duhamel/zrKVou5CEr8_0000002 65.8 72.7 
+Josh_Duhamel/zrKVou5CEr8_0000003 82.7 88.1 
+Josh_Duhamel/zrKVou5CEr8_0000004 116.5 122.7 

@@ -1,0 +1,36 @@
+POI: 			Linda_Lavin 
+Youtube ID: 	TFsCw4LWdko 
+Video length: 	2199.1 sec 
+Set (V): 		dev 
+ 
+Linda_Lavin/TFsCw4LWdko_0000001 276.6 305.1 
+Linda_Lavin/TFsCw4LWdko_0000002 306.1 332.2 
+Linda_Lavin/TFsCw4LWdko_0000003 339.3 347.0 
+Linda_Lavin/TFsCw4LWdko_0000004 347.5 361.6 
+Linda_Lavin/TFsCw4LWdko_0000005 363.0 381.2 
+Linda_Lavin/TFsCw4LWdko_0000006 422.0 429.7 
+Linda_Lavin/TFsCw4LWdko_0000007 429.9 444.7 
+Linda_Lavin/TFsCw4LWdko_0000008 806.6 815.3 
+Linda_Lavin/TFsCw4LWdko_0000009 815.4 820.2 
+Linda_Lavin/TFsCw4LWdko_0000010 820.8 829.0 
+Linda_Lavin/TFsCw4LWdko_0000011 829.2 839.7 
+Linda_Lavin/TFsCw4LWdko_0000012 840.2 856.2 
+Linda_Lavin/TFsCw4LWdko_0000013 861.7 887.8 
+Linda_Lavin/TFsCw4LWdko_0000014 889.7 893.7 
+Linda_Lavin/TFsCw4LWdko_0000015 1185.2 1190.1 
+Linda_Lavin/TFsCw4LWdko_0000016 1310.2 1315.6 
+Linda_Lavin/TFsCw4LWdko_0000017 1315.3 1320.8 
+Linda_Lavin/TFsCw4LWdko_0000018 1327.4 1335.6 
+Linda_Lavin/TFsCw4LWdko_0000019 1516.6 1526.6 
+Linda_Lavin/TFsCw4LWdko_0000020 1527.2 1531.8 
+Linda_Lavin/TFsCw4LWdko_0000021 1533.6 1542.4 
+Linda_Lavin/TFsCw4LWdko_0000022 1543.1 1547.8 
+Linda_Lavin/TFsCw4LWdko_0000023 1548.3 1558.0 
+Linda_Lavin/TFsCw4LWdko_0000024 1558.8 1565.6 
+Linda_Lavin/TFsCw4LWdko_0000025 1566.2 1572.1 
+Linda_Lavin/TFsCw4LWdko_0000026 1574.9 1584.1 
+Linda_Lavin/TFsCw4LWdko_0000027 1595.5 1605.1 
+Linda_Lavin/TFsCw4LWdko_0000028 1629.0 1641.6 
+Linda_Lavin/TFsCw4LWdko_0000029 1642.2 1657.3 
+Linda_Lavin/TFsCw4LWdko_0000030 1658.5 1663.3 
+Linda_Lavin/TFsCw4LWdko_0000031 1703.2 1707.4 

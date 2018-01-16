@@ -1,0 +1,18 @@
+POI: 			Jim_Jefferies 
+Youtube ID: 	LXjcN45ZVzo 
+Video length: 	367.8 sec 
+Set (V): 		dev 
+ 
+Jim_Jefferies/LXjcN45ZVzo_0000001 27.5 33.3 
+Jim_Jefferies/LXjcN45ZVzo_0000002 48.8 54.0 
+Jim_Jefferies/LXjcN45ZVzo_0000003 48.8 53.4 
+Jim_Jefferies/LXjcN45ZVzo_0000004 84.4 88.7 
+Jim_Jefferies/LXjcN45ZVzo_0000005 88.8 94.2 
+Jim_Jefferies/LXjcN45ZVzo_0000006 96.0 100.2 
+Jim_Jefferies/LXjcN45ZVzo_0000007 114.5 120.6 
+Jim_Jefferies/LXjcN45ZVzo_0000008 133.4 138.0 
+Jim_Jefferies/LXjcN45ZVzo_0000009 140.9 147.2 
+Jim_Jefferies/LXjcN45ZVzo_0000010 147.6 152.8 
+Jim_Jefferies/LXjcN45ZVzo_0000011 240.9 248.1 
+Jim_Jefferies/LXjcN45ZVzo_0000012 255.6 261.2 
+Jim_Jefferies/LXjcN45ZVzo_0000013 269.2 277.0 

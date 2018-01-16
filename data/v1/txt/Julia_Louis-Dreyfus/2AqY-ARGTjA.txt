@@ -1,0 +1,10 @@
+POI: 			Julia_Louis-Dreyfus 
+Youtube ID: 	2AqY-ARGTjA 
+Video length: 	581.4 sec 
+Set (V): 		dev 
+ 
+Julia_Louis-Dreyfus/2AqY-ARGTjA_0000001 117.6 122.1 
+Julia_Louis-Dreyfus/2AqY-ARGTjA_0000002 149.0 153.9 
+Julia_Louis-Dreyfus/2AqY-ARGTjA_0000003 156.1 161.5 
+Julia_Louis-Dreyfus/2AqY-ARGTjA_0000004 479.3 488.6 
+Julia_Louis-Dreyfus/2AqY-ARGTjA_0000005 527.2 542.3 

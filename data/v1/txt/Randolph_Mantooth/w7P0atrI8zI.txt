@@ -1,0 +1,8 @@
+POI: 			Randolph_Mantooth 
+Youtube ID: 	w7P0atrI8zI 
+Video length: 	111.9 sec 
+Set (V): 		dev 
+ 
+Randolph_Mantooth/w7P0atrI8zI_0000001 65.6 75.0 
+Randolph_Mantooth/w7P0atrI8zI_0000002 76.9 81.0 
+Randolph_Mantooth/w7P0atrI8zI_0000003 86.6 93.6 

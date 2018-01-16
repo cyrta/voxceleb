@@ -1,0 +1,7 @@
+POI: 			Zachary_Levi 
+Youtube ID: 	a2bMCeDoD18 
+Video length: 	440.8 sec 
+Set (V): 		dev 
+ 
+Zachary_Levi/a2bMCeDoD18_0000001 45.9 55.4 
+Zachary_Levi/a2bMCeDoD18_0000002 154.8 160.2 

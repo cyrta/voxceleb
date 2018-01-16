@@ -1,0 +1,17 @@
+POI: 			Pat_Monahan 
+Youtube ID: 	i3BQfpq1gJA 
+Video length: 	240.0 sec 
+Set (V): 		dev 
+ 
+Pat_Monahan/i3BQfpq1gJA_0000001 31.7 35.8 
+Pat_Monahan/i3BQfpq1gJA_0000002 44.0 50.3 
+Pat_Monahan/i3BQfpq1gJA_0000003 54.2 59.6 
+Pat_Monahan/i3BQfpq1gJA_0000004 59.6 73.7 
+Pat_Monahan/i3BQfpq1gJA_0000005 75.1 86.0 
+Pat_Monahan/i3BQfpq1gJA_0000006 126.3 135.6 
+Pat_Monahan/i3BQfpq1gJA_0000007 149.5 157.7 
+Pat_Monahan/i3BQfpq1gJA_0000008 158.5 163.8 
+Pat_Monahan/i3BQfpq1gJA_0000009 170.5 178.3 
+Pat_Monahan/i3BQfpq1gJA_0000010 183.3 188.4 
+Pat_Monahan/i3BQfpq1gJA_0000011 212.2 221.4 
+Pat_Monahan/i3BQfpq1gJA_0000012 225.9 234.6 

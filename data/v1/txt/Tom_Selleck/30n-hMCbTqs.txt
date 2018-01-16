@@ -1,0 +1,10 @@
+POI: 			Tom_Selleck 
+Youtube ID: 	30n-hMCbTqs 
+Video length: 	600.5 sec 
+Set (V): 		dev 
+ 
+Tom_Selleck/30n-hMCbTqs_0000001 242.8 249.4 
+Tom_Selleck/30n-hMCbTqs_0000002 380.6 385.0 
+Tom_Selleck/30n-hMCbTqs_0000003 396.6 401.2 
+Tom_Selleck/30n-hMCbTqs_0000004 410.4 418.1 
+Tom_Selleck/30n-hMCbTqs_0000005 452.2 456.2 

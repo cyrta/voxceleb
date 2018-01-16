@@ -1,0 +1,9 @@
+POI: 			Eoin_Macken 
+Youtube ID: 	EHtXD7XFeeI 
+Video length: 	802.7 sec 
+Set (V): 		test 
+ 
+Eoin_Macken/EHtXD7XFeeI_0000001 316.5 336.8 
+Eoin_Macken/EHtXD7XFeeI_0000002 549.0 560.4 
+Eoin_Macken/EHtXD7XFeeI_0000003 594.4 604.6 
+Eoin_Macken/EHtXD7XFeeI_0000004 757.9 766.1 

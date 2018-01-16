@@ -1,0 +1,13 @@
+POI: 			Cassandra_Peterson 
+Youtube ID: 	BncQf7ON8wk 
+Video length: 	414.1 sec 
+Set (V): 		dev 
+ 
+Cassandra_Peterson/BncQf7ON8wk_0000001 31.9 46.3 
+Cassandra_Peterson/BncQf7ON8wk_0000002 74.2 79.2 
+Cassandra_Peterson/BncQf7ON8wk_0000003 191.4 196.3 
+Cassandra_Peterson/BncQf7ON8wk_0000004 196.7 205.7 
+Cassandra_Peterson/BncQf7ON8wk_0000005 254.3 259.2 
+Cassandra_Peterson/BncQf7ON8wk_0000006 267.4 279.6 
+Cassandra_Peterson/BncQf7ON8wk_0000007 328.6 335.5 
+Cassandra_Peterson/BncQf7ON8wk_0000008 346.2 350.6 

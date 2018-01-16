@@ -1,0 +1,11 @@
+POI: 			Karan_Brar 
+Youtube ID: 	KAT7y5Qycds 
+Video length: 	92.4 sec 
+Set (V): 		dev 
+ 
+Karan_Brar/KAT7y5Qycds_0000001 03.8 12.7 
+Karan_Brar/KAT7y5Qycds_0000002 17.8 35.6 
+Karan_Brar/KAT7y5Qycds_0000003 36.0 41.2 
+Karan_Brar/KAT7y5Qycds_0000004 46.3 57.5 
+Karan_Brar/KAT7y5Qycds_0000005 67.9 74.2 
+Karan_Brar/KAT7y5Qycds_0000006 79.2 90.9 

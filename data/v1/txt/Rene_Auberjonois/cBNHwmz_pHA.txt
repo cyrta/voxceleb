@@ -1,0 +1,8 @@
+POI: 			Rene_Auberjonois 
+Youtube ID: 	cBNHwmz_pHA 
+Video length: 	212.6 sec 
+Set (V): 		dev 
+ 
+Rene_Auberjonois/cBNHwmz_pHA_0000001 29.8 34.2 
+Rene_Auberjonois/cBNHwmz_pHA_0000002 88.8 93.8 
+Rene_Auberjonois/cBNHwmz_pHA_0000003 96.6 102.8 

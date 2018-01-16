@@ -1,0 +1,10 @@
+POI: 			Tatyana_Ali 
+Youtube ID: 	Pv3LygSPaPU 
+Video length: 	558.1 sec 
+Set (V): 		dev 
+ 
+Tatyana_Ali/Pv3LygSPaPU_0000001 76.1 80.1 
+Tatyana_Ali/Pv3LygSPaPU_0000002 373.0 377.8 
+Tatyana_Ali/Pv3LygSPaPU_0000003 378.5 384.6 
+Tatyana_Ali/Pv3LygSPaPU_0000004 431.4 437.4 
+Tatyana_Ali/Pv3LygSPaPU_0000005 506.8 514.1 

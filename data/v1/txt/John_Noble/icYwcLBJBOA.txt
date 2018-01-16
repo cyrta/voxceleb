@@ -1,0 +1,20 @@
+POI: 			John_Noble 
+Youtube ID: 	icYwcLBJBOA 
+Video length: 	302.4 sec 
+Set (V): 		dev 
+ 
+John_Noble/icYwcLBJBOA_0000001 13.3 26.6 
+John_Noble/icYwcLBJBOA_0000002 27.8 57.8 
+John_Noble/icYwcLBJBOA_0000003 59.3 66.2 
+John_Noble/icYwcLBJBOA_0000004 67.0 73.6 
+John_Noble/icYwcLBJBOA_0000005 85.8 96.2 
+John_Noble/icYwcLBJBOA_0000006 98.2 110.2 
+John_Noble/icYwcLBJBOA_0000007 130.3 153.2 
+John_Noble/icYwcLBJBOA_0000008 157.7 171.8 
+John_Noble/icYwcLBJBOA_0000009 183.5 191.3 
+John_Noble/icYwcLBJBOA_0000010 195.6 204.1 
+John_Noble/icYwcLBJBOA_0000011 217.4 224.4 
+John_Noble/icYwcLBJBOA_0000012 229.6 236.4 
+John_Noble/icYwcLBJBOA_0000013 236.5 243.5 
+John_Noble/icYwcLBJBOA_0000014 246.0 262.1 
+John_Noble/icYwcLBJBOA_0000015 284.7 290.9 

@@ -1,0 +1,11 @@
+POI: 			Paul_Wesley 
+Youtube ID: 	ESHdQuEpVpI 
+Video length: 	360.3 sec 
+Set (V): 		dev 
+ 
+Paul_Wesley/ESHdQuEpVpI_0000001 86.4 92.4 
+Paul_Wesley/ESHdQuEpVpI_0000002 198.8 203.5 
+Paul_Wesley/ESHdQuEpVpI_0000003 232.4 239.1 
+Paul_Wesley/ESHdQuEpVpI_0000004 264.6 274.3 
+Paul_Wesley/ESHdQuEpVpI_0000005 342.0 349.4 
+Paul_Wesley/ESHdQuEpVpI_0000006 352.3 358.4 

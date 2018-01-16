@@ -1,0 +1,9 @@
+POI: 			Lily_Cole 
+Youtube ID: 	gVR8e7CYl7Q 
+Video length: 	246.2 sec 
+Set (V): 		dev 
+ 
+Lily_Cole/gVR8e7CYl7Q_0000001 130.2 138.6 
+Lily_Cole/gVR8e7CYl7Q_0000002 138.9 143.5 
+Lily_Cole/gVR8e7CYl7Q_0000003 157.2 164.9 
+Lily_Cole/gVR8e7CYl7Q_0000004 169.4 176.2 

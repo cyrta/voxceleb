@@ -1,0 +1,8 @@
+POI: 			Giovanni_Ribisi 
+Youtube ID: 	EZHjsJrcR7Q 
+Video length: 	258.2 sec 
+Set (V): 		dev 
+ 
+Giovanni_Ribisi/EZHjsJrcR7Q_0000001 85.5 91.7 
+Giovanni_Ribisi/EZHjsJrcR7Q_0000002 96.7 103.5 
+Giovanni_Ribisi/EZHjsJrcR7Q_0000003 242.7 251.8 

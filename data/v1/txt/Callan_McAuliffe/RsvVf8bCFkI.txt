@@ -1,0 +1,8 @@
+POI: 			Callan_McAuliffe 
+Youtube ID: 	RsvVf8bCFkI 
+Video length: 	40.6 sec 
+Set (V): 		dev 
+ 
+Callan_McAuliffe/RsvVf8bCFkI_0000001 08.9 13.9 
+Callan_McAuliffe/RsvVf8bCFkI_0000002 24.9 32.7 
+Callan_McAuliffe/RsvVf8bCFkI_0000003 33.2 38.1 

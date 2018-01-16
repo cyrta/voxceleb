@@ -1,0 +1,11 @@
+POI: 			Jeanine_Mason 
+Youtube ID: 	Jf9VNFoCSoU 
+Video length: 	591.2 sec 
+Set (V): 		dev 
+ 
+Jeanine_Mason/Jf9VNFoCSoU_0000001 89.2 93.3 
+Jeanine_Mason/Jf9VNFoCSoU_0000002 131.8 136.0 
+Jeanine_Mason/Jf9VNFoCSoU_0000003 407.7 411.8 
+Jeanine_Mason/Jf9VNFoCSoU_0000004 416.4 424.8 
+Jeanine_Mason/Jf9VNFoCSoU_0000005 467.8 471.9 
+Jeanine_Mason/Jf9VNFoCSoU_0000006 576.0 580.0 

@@ -1,0 +1,12 @@
+POI: 			Judith_Light 
+Youtube ID: 	zl1Jh2Jmrng 
+Video length: 	278.7 sec 
+Set (V): 		dev 
+ 
+Judith_Light/zl1Jh2Jmrng_0000001 44.3 48.4 
+Judith_Light/zl1Jh2Jmrng_0000002 51.8 62.6 
+Judith_Light/zl1Jh2Jmrng_0000003 74.4 86.0 
+Judith_Light/zl1Jh2Jmrng_0000004 113.6 127.4 
+Judith_Light/zl1Jh2Jmrng_0000005 127.6 132.9 
+Judith_Light/zl1Jh2Jmrng_0000006 157.4 175.9 
+Judith_Light/zl1Jh2Jmrng_0000007 232.1 236.2 

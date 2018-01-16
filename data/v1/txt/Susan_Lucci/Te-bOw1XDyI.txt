@@ -1,0 +1,7 @@
+POI: 			Susan_Lucci 
+Youtube ID: 	Te-bOw1XDyI 
+Video length: 	500.8 sec 
+Set (V): 		dev 
+ 
+Susan_Lucci/Te-bOw1XDyI_0000001 119.4 124.2 
+Susan_Lucci/Te-bOw1XDyI_0000002 129.9 134.1 

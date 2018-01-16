@@ -1,0 +1,20 @@
+POI: 			Kaya_Scodelario 
+Youtube ID: 	a-HgElmpAV0 
+Video length: 	336.1 sec 
+Set (V): 		dev 
+ 
+Kaya_Scodelario/a-HgElmpAV0_0000001 23.6 30.5 
+Kaya_Scodelario/a-HgElmpAV0_0000002 30.7 40.6 
+Kaya_Scodelario/a-HgElmpAV0_0000003 47.0 60.9 
+Kaya_Scodelario/a-HgElmpAV0_0000004 80.0 90.5 
+Kaya_Scodelario/a-HgElmpAV0_0000005 106.9 121.6 
+Kaya_Scodelario/a-HgElmpAV0_0000006 126.6 131.4 
+Kaya_Scodelario/a-HgElmpAV0_0000007 151.9 156.1 
+Kaya_Scodelario/a-HgElmpAV0_0000008 159.9 175.6 
+Kaya_Scodelario/a-HgElmpAV0_0000009 187.1 208.6 
+Kaya_Scodelario/a-HgElmpAV0_0000010 208.9 215.5 
+Kaya_Scodelario/a-HgElmpAV0_0000011 241.0 249.6 
+Kaya_Scodelario/a-HgElmpAV0_0000012 262.6 287.6 
+Kaya_Scodelario/a-HgElmpAV0_0000013 295.1 299.2 
+Kaya_Scodelario/a-HgElmpAV0_0000014 299.4 304.8 
+Kaya_Scodelario/a-HgElmpAV0_0000015 314.8 321.8 

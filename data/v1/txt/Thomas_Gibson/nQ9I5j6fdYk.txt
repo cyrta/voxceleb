@@ -1,0 +1,16 @@
+POI: 			Thomas_Gibson 
+Youtube ID: 	nQ9I5j6fdYk 
+Video length: 	440.7 sec 
+Set (V): 		dev 
+ 
+Thomas_Gibson/nQ9I5j6fdYk_0000001 112.5 120.0 
+Thomas_Gibson/nQ9I5j6fdYk_0000002 121.0 128.9 
+Thomas_Gibson/nQ9I5j6fdYk_0000003 129.6 137.0 
+Thomas_Gibson/nQ9I5j6fdYk_0000004 154.8 160.1 
+Thomas_Gibson/nQ9I5j6fdYk_0000005 191.7 204.7 
+Thomas_Gibson/nQ9I5j6fdYk_0000006 246.7 252.2 
+Thomas_Gibson/nQ9I5j6fdYk_0000007 257.9 264.2 
+Thomas_Gibson/nQ9I5j6fdYk_0000008 304.2 311.5 
+Thomas_Gibson/nQ9I5j6fdYk_0000009 320.3 331.4 
+Thomas_Gibson/nQ9I5j6fdYk_0000010 391.2 401.2 
+Thomas_Gibson/nQ9I5j6fdYk_0000011 403.5 409.3 

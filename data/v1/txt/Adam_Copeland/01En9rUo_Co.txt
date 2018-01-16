@@ -1,0 +1,9 @@
+POI: 			Adam_Copeland 
+Youtube ID: 	01En9rUo_Co 
+Video length: 	119.6 sec 
+Set (V): 		dev 
+ 
+Adam_Copeland/01En9rUo_Co_0000001 17.2 26.8 
+Adam_Copeland/01En9rUo_Co_0000002 39.4 43.7 
+Adam_Copeland/01En9rUo_Co_0000003 44.2 50.5 
+Adam_Copeland/01En9rUo_Co_0000004 73.9 82.7 

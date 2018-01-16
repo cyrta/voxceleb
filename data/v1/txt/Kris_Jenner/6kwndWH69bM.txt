@@ -1,0 +1,9 @@
+POI: 			Kris_Jenner 
+Youtube ID: 	6kwndWH69bM 
+Video length: 	125.1 sec 
+Set (V): 		dev 
+ 
+Kris_Jenner/6kwndWH69bM_0000001 26.6 32.1 
+Kris_Jenner/6kwndWH69bM_0000002 48.2 53.9 
+Kris_Jenner/6kwndWH69bM_0000003 58.7 65.2 
+Kris_Jenner/6kwndWH69bM_0000004 70.0 76.7 

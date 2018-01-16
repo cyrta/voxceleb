@@ -1,0 +1,9 @@
+POI: 			Shiri_Appleby 
+Youtube ID: 	BiUxvIWz8SM 
+Video length: 	108.6 sec 
+Set (V): 		dev 
+ 
+Shiri_Appleby/BiUxvIWz8SM_0000001 27.3 35.0 
+Shiri_Appleby/BiUxvIWz8SM_0000002 37.3 42.2 
+Shiri_Appleby/BiUxvIWz8SM_0000003 64.9 74.3 
+Shiri_Appleby/BiUxvIWz8SM_0000004 75.0 86.7 

@@ -1,0 +1,30 @@
+POI: 			Louis_Theroux 
+Youtube ID: 	hPAgsoVpleI 
+Video length: 	598.2 sec 
+Set (V): 		dev 
+ 
+Louis_Theroux/hPAgsoVpleI_0000001 00.7 08.2 
+Louis_Theroux/hPAgsoVpleI_0000002 11.8 17.3 
+Louis_Theroux/hPAgsoVpleI_0000003 55.6 61.0 
+Louis_Theroux/hPAgsoVpleI_0000004 91.3 97.2 
+Louis_Theroux/hPAgsoVpleI_0000005 116.9 144.3 
+Louis_Theroux/hPAgsoVpleI_0000006 147.8 152.0 
+Louis_Theroux/hPAgsoVpleI_0000007 201.2 207.3 
+Louis_Theroux/hPAgsoVpleI_0000008 207.7 211.7 
+Louis_Theroux/hPAgsoVpleI_0000009 218.5 225.9 
+Louis_Theroux/hPAgsoVpleI_0000010 241.2 263.0 
+Louis_Theroux/hPAgsoVpleI_0000011 294.1 299.6 
+Louis_Theroux/hPAgsoVpleI_0000012 328.0 336.1 
+Louis_Theroux/hPAgsoVpleI_0000013 345.7 350.7 
+Louis_Theroux/hPAgsoVpleI_0000014 358.8 366.7 
+Louis_Theroux/hPAgsoVpleI_0000015 367.2 375.9 
+Louis_Theroux/hPAgsoVpleI_0000016 380.5 387.6 
+Louis_Theroux/hPAgsoVpleI_0000017 414.3 420.4 
+Louis_Theroux/hPAgsoVpleI_0000018 440.8 452.2 
+Louis_Theroux/hPAgsoVpleI_0000019 454.4 460.0 
+Louis_Theroux/hPAgsoVpleI_0000020 466.2 473.4 
+Louis_Theroux/hPAgsoVpleI_0000021 537.8 542.3 
+Louis_Theroux/hPAgsoVpleI_0000022 545.8 555.8 
+Louis_Theroux/hPAgsoVpleI_0000023 556.8 575.4 
+Louis_Theroux/hPAgsoVpleI_0000024 576.4 584.7 
+Louis_Theroux/hPAgsoVpleI_0000025 584.8 594.0 

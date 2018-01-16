@@ -1,0 +1,8 @@
+POI: 			James_Marsden 
+Youtube ID: 	EqRnhOJv0OY 
+Video length: 	235.7 sec 
+Set (V): 		dev 
+ 
+James_Marsden/EqRnhOJv0OY_0000001 13.4 17.7 
+James_Marsden/EqRnhOJv0OY_0000002 50.8 60.8 
+James_Marsden/EqRnhOJv0OY_0000003 169.6 175.2 

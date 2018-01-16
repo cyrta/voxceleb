@@ -1,0 +1,7 @@
+POI: 			Michael_Madsen 
+Youtube ID: 	IgWsr00Fa-U 
+Video length: 	305.6 sec 
+Set (V): 		dev 
+ 
+Michael_Madsen/IgWsr00Fa-U_0000001 59.3 64.3 
+Michael_Madsen/IgWsr00Fa-U_0000002 285.3 290.8 

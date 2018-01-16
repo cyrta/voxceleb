@@ -1,0 +1,13 @@
+POI: 			Martin_Kove 
+Youtube ID: 	eeqy_kcRRAw 
+Video length: 	241.5 sec 
+Set (V): 		dev 
+ 
+Martin_Kove/eeqy_kcRRAw_0000001 20.8 25.9 
+Martin_Kove/eeqy_kcRRAw_0000002 30.3 39.3 
+Martin_Kove/eeqy_kcRRAw_0000003 60.5 66.2 
+Martin_Kove/eeqy_kcRRAw_0000004 71.3 78.5 
+Martin_Kove/eeqy_kcRRAw_0000005 101.4 108.6 
+Martin_Kove/eeqy_kcRRAw_0000006 109.2 124.6 
+Martin_Kove/eeqy_kcRRAw_0000007 163.8 168.0 
+Martin_Kove/eeqy_kcRRAw_0000008 168.6 177.9 

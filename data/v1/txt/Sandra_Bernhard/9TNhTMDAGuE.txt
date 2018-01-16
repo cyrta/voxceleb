@@ -1,0 +1,13 @@
+POI: 			Sandra_Bernhard 
+Youtube ID: 	9TNhTMDAGuE 
+Video length: 	499.3 sec 
+Set (V): 		dev 
+ 
+Sandra_Bernhard/9TNhTMDAGuE_0000001 93.8 100.5 
+Sandra_Bernhard/9TNhTMDAGuE_0000002 113.0 117.1 
+Sandra_Bernhard/9TNhTMDAGuE_0000003 183.7 188.2 
+Sandra_Bernhard/9TNhTMDAGuE_0000004 210.9 216.6 
+Sandra_Bernhard/9TNhTMDAGuE_0000005 236.6 240.6 
+Sandra_Bernhard/9TNhTMDAGuE_0000006 369.2 374.6 
+Sandra_Bernhard/9TNhTMDAGuE_0000007 376.6 381.0 
+Sandra_Bernhard/9TNhTMDAGuE_0000008 417.0 423.7 

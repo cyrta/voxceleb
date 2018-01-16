@@ -1,0 +1,7 @@
+POI: 			Taryn_Manning 
+Youtube ID: 	fX8x4AgV99U 
+Video length: 	330.4 sec 
+Set (V): 		dev 
+ 
+Taryn_Manning/fX8x4AgV99U_0000001 247.9 255.0 
+Taryn_Manning/fX8x4AgV99U_0000002 255.8 262.8 

@@ -1,0 +1,15 @@
+POI: 			Donald_Glover 
+Youtube ID: 	Y9xDOjtIlnY 
+Video length: 	389.7 sec 
+Set (V): 		dev 
+ 
+Donald_Glover/Y9xDOjtIlnY_0000001 60.5 64.7 
+Donald_Glover/Y9xDOjtIlnY_0000002 101.0 108.4 
+Donald_Glover/Y9xDOjtIlnY_0000003 108.6 112.7 
+Donald_Glover/Y9xDOjtIlnY_0000004 210.4 216.3 
+Donald_Glover/Y9xDOjtIlnY_0000005 255.2 260.1 
+Donald_Glover/Y9xDOjtIlnY_0000006 274.8 281.8 
+Donald_Glover/Y9xDOjtIlnY_0000007 311.6 317.5 
+Donald_Glover/Y9xDOjtIlnY_0000008 317.9 323.8 
+Donald_Glover/Y9xDOjtIlnY_0000009 332.8 337.0 
+Donald_Glover/Y9xDOjtIlnY_0000010 354.9 361.6 

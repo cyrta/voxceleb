@@ -1,0 +1,16 @@
+POI: 			Katheryn_Winnick 
+Youtube ID: 	ed_fH0Jddr0 
+Video length: 	251.1 sec 
+Set (V): 		dev 
+ 
+Katheryn_Winnick/ed_fH0Jddr0_0000001 17.0 39.6 
+Katheryn_Winnick/ed_fH0Jddr0_0000002 40.8 62.3 
+Katheryn_Winnick/ed_fH0Jddr0_0000003 84.0 90.8 
+Katheryn_Winnick/ed_fH0Jddr0_0000004 91.2 103.0 
+Katheryn_Winnick/ed_fH0Jddr0_0000005 103.8 122.6 
+Katheryn_Winnick/ed_fH0Jddr0_0000006 156.5 163.0 
+Katheryn_Winnick/ed_fH0Jddr0_0000007 168.6 176.7 
+Katheryn_Winnick/ed_fH0Jddr0_0000008 179.6 185.4 
+Katheryn_Winnick/ed_fH0Jddr0_0000009 186.2 193.6 
+Katheryn_Winnick/ed_fH0Jddr0_0000010 208.7 241.0 
+Katheryn_Winnick/ed_fH0Jddr0_0000011 241.2 249.2 

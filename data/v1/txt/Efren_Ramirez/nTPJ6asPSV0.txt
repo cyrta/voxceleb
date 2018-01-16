@@ -1,0 +1,10 @@
+POI: 			Efren_Ramirez 
+Youtube ID: 	nTPJ6asPSV0 
+Video length: 	210.7 sec 
+Set (V): 		test 
+ 
+Efren_Ramirez/nTPJ6asPSV0_0000001 12.7 17.9 
+Efren_Ramirez/nTPJ6asPSV0_0000002 51.0 56.7 
+Efren_Ramirez/nTPJ6asPSV0_0000003 72.2 76.3 
+Efren_Ramirez/nTPJ6asPSV0_0000004 99.3 103.4 
+Efren_Ramirez/nTPJ6asPSV0_0000005 129.8 140.4 

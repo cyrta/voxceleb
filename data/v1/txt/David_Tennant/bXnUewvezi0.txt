@@ -1,0 +1,13 @@
+POI: 			David_Tennant 
+Youtube ID: 	bXnUewvezi0 
+Video length: 	471.3 sec 
+Set (V): 		dev 
+ 
+David_Tennant/bXnUewvezi0_0000001 142.2 148.7 
+David_Tennant/bXnUewvezi0_0000002 175.8 183.0 
+David_Tennant/bXnUewvezi0_0000003 329.7 336.5 
+David_Tennant/bXnUewvezi0_0000004 344.4 350.6 
+David_Tennant/bXnUewvezi0_0000005 375.6 384.1 
+David_Tennant/bXnUewvezi0_0000006 394.4 401.9 
+David_Tennant/bXnUewvezi0_0000007 405.3 409.6 
+David_Tennant/bXnUewvezi0_0000008 420.9 426.6 

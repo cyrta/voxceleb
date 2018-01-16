@@ -1,0 +1,36 @@
+POI: 			Thomas_Lennon 
+Youtube ID: 	6rxRSdnjd-c 
+Video length: 	537.6 sec 
+Set (V): 		dev 
+ 
+Thomas_Lennon/6rxRSdnjd-c_0000001 10.3 15.1 
+Thomas_Lennon/6rxRSdnjd-c_0000002 15.3 20.6 
+Thomas_Lennon/6rxRSdnjd-c_0000003 35.5 39.9 
+Thomas_Lennon/6rxRSdnjd-c_0000004 42.0 49.3 
+Thomas_Lennon/6rxRSdnjd-c_0000005 49.5 55.7 
+Thomas_Lennon/6rxRSdnjd-c_0000006 55.8 67.9 
+Thomas_Lennon/6rxRSdnjd-c_0000007 68.8 77.7 
+Thomas_Lennon/6rxRSdnjd-c_0000008 85.8 108.8 
+Thomas_Lennon/6rxRSdnjd-c_0000009 143.3 153.5 
+Thomas_Lennon/6rxRSdnjd-c_0000010 155.0 167.2 
+Thomas_Lennon/6rxRSdnjd-c_0000011 167.5 172.1 
+Thomas_Lennon/6rxRSdnjd-c_0000012 172.7 178.0 
+Thomas_Lennon/6rxRSdnjd-c_0000013 178.1 187.8 
+Thomas_Lennon/6rxRSdnjd-c_0000014 188.1 192.8 
+Thomas_Lennon/6rxRSdnjd-c_0000015 204.2 213.2 
+Thomas_Lennon/6rxRSdnjd-c_0000016 220.8 225.7 
+Thomas_Lennon/6rxRSdnjd-c_0000017 225.8 232.3 
+Thomas_Lennon/6rxRSdnjd-c_0000018 244.4 250.6 
+Thomas_Lennon/6rxRSdnjd-c_0000019 251.9 258.6 
+Thomas_Lennon/6rxRSdnjd-c_0000020 259.1 283.1 
+Thomas_Lennon/6rxRSdnjd-c_0000021 301.6 315.2 
+Thomas_Lennon/6rxRSdnjd-c_0000022 316.7 321.6 
+Thomas_Lennon/6rxRSdnjd-c_0000023 326.7 339.9 
+Thomas_Lennon/6rxRSdnjd-c_0000024 340.7 346.2 
+Thomas_Lennon/6rxRSdnjd-c_0000025 350.6 356.0 
+Thomas_Lennon/6rxRSdnjd-c_0000026 370.7 375.7 
+Thomas_Lennon/6rxRSdnjd-c_0000027 382.1 392.1 
+Thomas_Lennon/6rxRSdnjd-c_0000028 435.3 444.4 
+Thomas_Lennon/6rxRSdnjd-c_0000029 445.4 452.2 
+Thomas_Lennon/6rxRSdnjd-c_0000030 460.6 469.1 
+Thomas_Lennon/6rxRSdnjd-c_0000031 503.0 516.3 

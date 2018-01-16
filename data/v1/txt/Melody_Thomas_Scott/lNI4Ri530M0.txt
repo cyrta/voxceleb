@@ -1,0 +1,16 @@
+POI: 			Melody_Thomas_Scott 
+Youtube ID: 	lNI4Ri530M0 
+Video length: 	533.6 sec 
+Set (V): 		dev 
+ 
+Melody_Thomas_Scott/lNI4Ri530M0_0000001 115.4 124.0 
+Melody_Thomas_Scott/lNI4Ri530M0_0000002 168.7 175.0 
+Melody_Thomas_Scott/lNI4Ri530M0_0000003 181.6 186.1 
+Melody_Thomas_Scott/lNI4Ri530M0_0000004 194.6 198.9 
+Melody_Thomas_Scott/lNI4Ri530M0_0000005 203.2 216.4 
+Melody_Thomas_Scott/lNI4Ri530M0_0000006 243.5 251.3 
+Melody_Thomas_Scott/lNI4Ri530M0_0000007 251.8 261.6 
+Melody_Thomas_Scott/lNI4Ri530M0_0000008 262.3 266.4 
+Melody_Thomas_Scott/lNI4Ri530M0_0000009 270.4 275.9 
+Melody_Thomas_Scott/lNI4Ri530M0_0000010 326.5 335.9 
+Melody_Thomas_Scott/lNI4Ri530M0_0000011 497.2 511.6 

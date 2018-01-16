@@ -1,0 +1,21 @@
+POI: 			Ralph_Macchio 
+Youtube ID: 	BvTddcHFWwY 
+Video length: 	336.8 sec 
+Set (V): 		dev 
+ 
+Ralph_Macchio/BvTddcHFWwY_0000001 24.0 32.0 
+Ralph_Macchio/BvTddcHFWwY_0000002 35.7 45.2 
+Ralph_Macchio/BvTddcHFWwY_0000003 47.6 52.4 
+Ralph_Macchio/BvTddcHFWwY_0000004 54.8 60.4 
+Ralph_Macchio/BvTddcHFWwY_0000005 60.7 88.8 
+Ralph_Macchio/BvTddcHFWwY_0000006 88.9 94.2 
+Ralph_Macchio/BvTddcHFWwY_0000007 99.8 138.1 
+Ralph_Macchio/BvTddcHFWwY_0000008 139.9 148.5 
+Ralph_Macchio/BvTddcHFWwY_0000009 148.7 156.7 
+Ralph_Macchio/BvTddcHFWwY_0000010 168.8 207.2 
+Ralph_Macchio/BvTddcHFWwY_0000011 208.2 229.1 
+Ralph_Macchio/BvTddcHFWwY_0000012 229.2 248.2 
+Ralph_Macchio/BvTddcHFWwY_0000013 255.1 275.6 
+Ralph_Macchio/BvTddcHFWwY_0000014 283.7 314.6 
+Ralph_Macchio/BvTddcHFWwY_0000015 315.0 321.2 
+Ralph_Macchio/BvTddcHFWwY_0000016 325.4 332.0 

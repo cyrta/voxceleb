@@ -1,0 +1,8 @@
+POI: 			Xavier_Samuel 
+Youtube ID: 	04859am4Z8k 
+Video length: 	82.9 sec 
+Set (V): 		dev 
+ 
+Xavier_Samuel/04859am4Z8k_0000001 12.9 25.0 
+Xavier_Samuel/04859am4Z8k_0000002 36.8 43.0 
+Xavier_Samuel/04859am4Z8k_0000003 50.7 56.2 

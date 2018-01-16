@@ -1,0 +1,8 @@
+POI: 			Imelda_Staunton 
+Youtube ID: 	jyP7NbdyWHU 
+Video length: 	387.8 sec 
+Set (V): 		dev 
+ 
+Imelda_Staunton/jyP7NbdyWHU_0000001 148.6 162.4 
+Imelda_Staunton/jyP7NbdyWHU_0000002 163.4 171.0 
+Imelda_Staunton/jyP7NbdyWHU_0000003 290.4 295.4 

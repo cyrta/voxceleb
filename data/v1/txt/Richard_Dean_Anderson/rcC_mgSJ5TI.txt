@@ -1,0 +1,12 @@
+POI: 			Richard_Dean_Anderson 
+Youtube ID: 	rcC_mgSJ5TI 
+Video length: 	302.3 sec 
+Set (V): 		dev 
+ 
+Richard_Dean_Anderson/rcC_mgSJ5TI_0000001 81.1 92.4 
+Richard_Dean_Anderson/rcC_mgSJ5TI_0000002 93.7 100.9 
+Richard_Dean_Anderson/rcC_mgSJ5TI_0000003 125.0 129.0 
+Richard_Dean_Anderson/rcC_mgSJ5TI_0000004 168.4 176.0 
+Richard_Dean_Anderson/rcC_mgSJ5TI_0000005 176.4 183.0 
+Richard_Dean_Anderson/rcC_mgSJ5TI_0000006 183.4 194.7 
+Richard_Dean_Anderson/rcC_mgSJ5TI_0000007 196.8 208.0 

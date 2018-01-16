@@ -1,0 +1,13 @@
+POI: 			Hannah_Simone 
+Youtube ID: 	m5iRAw9_akg 
+Video length: 	542.0 sec 
+Set (V): 		dev 
+ 
+Hannah_Simone/m5iRAw9_akg_0000001 22.0 27.5 
+Hannah_Simone/m5iRAw9_akg_0000002 28.9 34.4 
+Hannah_Simone/m5iRAw9_akg_0000003 38.3 49.2 
+Hannah_Simone/m5iRAw9_akg_0000004 91.4 96.0 
+Hannah_Simone/m5iRAw9_akg_0000005 260.1 286.2 
+Hannah_Simone/m5iRAw9_akg_0000006 293.6 307.4 
+Hannah_Simone/m5iRAw9_akg_0000007 308.2 315.3 
+Hannah_Simone/m5iRAw9_akg_0000008 492.8 497.9 

@@ -1,0 +1,8 @@
+POI: 			Henry_Cavill 
+Youtube ID: 	zEoKy-VRE5U 
+Video length: 	223.0 sec 
+Set (V): 		dev 
+ 
+Henry_Cavill/zEoKy-VRE5U_0000001 32.4 37.6 
+Henry_Cavill/zEoKy-VRE5U_0000002 48.8 60.0 
+Henry_Cavill/zEoKy-VRE5U_0000003 168.2 175.6 

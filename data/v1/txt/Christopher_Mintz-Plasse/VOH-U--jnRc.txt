@@ -1,0 +1,7 @@
+POI: 			Christopher_Mintz-Plasse 
+Youtube ID: 	VOH-U--jnRc 
+Video length: 	114.2 sec 
+Set (V): 		dev 
+ 
+Christopher_Mintz-Plasse/VOH-U--jnRc_0000001 51.9 62.3 
+Christopher_Mintz-Plasse/VOH-U--jnRc_0000002 67.6 72.8 

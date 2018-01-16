@@ -1,0 +1,10 @@
+POI: 			Pamela_Adlon 
+Youtube ID: 	AP13EeBV9SY 
+Video length: 	178.1 sec 
+Set (V): 		dev 
+ 
+Pamela_Adlon/AP13EeBV9SY_0000001 17.4 25.8 
+Pamela_Adlon/AP13EeBV9SY_0000002 38.0 46.5 
+Pamela_Adlon/AP13EeBV9SY_0000003 63.0 69.2 
+Pamela_Adlon/AP13EeBV9SY_0000004 75.7 84.4 
+Pamela_Adlon/AP13EeBV9SY_0000005 119.8 125.7 

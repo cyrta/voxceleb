@@ -1,0 +1,18 @@
+POI: 			James_Nesbitt 
+Youtube ID: 	T_nsNIIfu2k 
+Video length: 	337.9 sec 
+Set (V): 		dev 
+ 
+James_Nesbitt/T_nsNIIfu2k_0000001 20.5 38.4 
+James_Nesbitt/T_nsNIIfu2k_0000002 47.8 58.0 
+James_Nesbitt/T_nsNIIfu2k_0000003 61.1 67.2 
+James_Nesbitt/T_nsNIIfu2k_0000004 68.4 76.4 
+James_Nesbitt/T_nsNIIfu2k_0000005 97.5 106.3 
+James_Nesbitt/T_nsNIIfu2k_0000006 109.9 117.6 
+James_Nesbitt/T_nsNIIfu2k_0000007 164.0 185.7 
+James_Nesbitt/T_nsNIIfu2k_0000008 189.4 195.8 
+James_Nesbitt/T_nsNIIfu2k_0000009 200.7 212.1 
+James_Nesbitt/T_nsNIIfu2k_0000010 220.1 238.4 
+James_Nesbitt/T_nsNIIfu2k_0000011 254.0 258.4 
+James_Nesbitt/T_nsNIIfu2k_0000012 270.4 279.6 
+James_Nesbitt/T_nsNIIfu2k_0000013 284.7 296.4 

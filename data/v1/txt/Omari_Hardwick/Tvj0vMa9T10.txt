@@ -1,0 +1,8 @@
+POI: 			Omari_Hardwick 
+Youtube ID: 	Tvj0vMa9T10 
+Video length: 	355.8 sec 
+Set (V): 		dev 
+ 
+Omari_Hardwick/Tvj0vMa9T10_0000001 63.8 68.2 
+Omari_Hardwick/Tvj0vMa9T10_0000002 262.0 270.6 
+Omari_Hardwick/Tvj0vMa9T10_0000003 299.2 303.5 

@@ -1,0 +1,10 @@
+POI: 			Spencer_Boldman 
+Youtube ID: 	b6Iy3-dDS9U 
+Video length: 	181.4 sec 
+Set (V): 		dev 
+ 
+Spencer_Boldman/b6Iy3-dDS9U_0000001 24.3 32.8 
+Spencer_Boldman/b6Iy3-dDS9U_0000002 56.8 64.3 
+Spencer_Boldman/b6Iy3-dDS9U_0000003 110.5 115.2 
+Spencer_Boldman/b6Iy3-dDS9U_0000004 117.8 122.5 
+Spencer_Boldman/b6Iy3-dDS9U_0000005 114.8 119.8 

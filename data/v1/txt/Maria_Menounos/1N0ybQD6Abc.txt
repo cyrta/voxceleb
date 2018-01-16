@@ -1,0 +1,22 @@
+POI: 			Maria_Menounos 
+Youtube ID: 	1N0ybQD6Abc 
+Video length: 	308.7 sec 
+Set (V): 		dev 
+ 
+Maria_Menounos/1N0ybQD6Abc_0000001 09.2 28.8 
+Maria_Menounos/1N0ybQD6Abc_0000002 30.6 36.1 
+Maria_Menounos/1N0ybQD6Abc_0000003 60.0 66.3 
+Maria_Menounos/1N0ybQD6Abc_0000004 70.9 84.5 
+Maria_Menounos/1N0ybQD6Abc_0000005 84.8 90.6 
+Maria_Menounos/1N0ybQD6Abc_0000006 98.5 107.5 
+Maria_Menounos/1N0ybQD6Abc_0000007 110.7 117.8 
+Maria_Menounos/1N0ybQD6Abc_0000008 118.3 135.1 
+Maria_Menounos/1N0ybQD6Abc_0000009 142.6 149.0 
+Maria_Menounos/1N0ybQD6Abc_0000010 151.7 165.6 
+Maria_Menounos/1N0ybQD6Abc_0000011 171.8 177.3 
+Maria_Menounos/1N0ybQD6Abc_0000012 177.9 193.8 
+Maria_Menounos/1N0ybQD6Abc_0000013 194.1 199.0 
+Maria_Menounos/1N0ybQD6Abc_0000014 209.6 229.6 
+Maria_Menounos/1N0ybQD6Abc_0000015 231.0 242.9 
+Maria_Menounos/1N0ybQD6Abc_0000016 243.5 272.3 
+Maria_Menounos/1N0ybQD6Abc_0000017 273.0 304.2 

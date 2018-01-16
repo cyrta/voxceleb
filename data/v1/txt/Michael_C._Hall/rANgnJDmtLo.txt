@@ -1,0 +1,7 @@
+POI: 			Michael_C._Hall 
+Youtube ID: 	rANgnJDmtLo 
+Video length: 	223.7 sec 
+Set (V): 		dev 
+ 
+Michael_C._Hall/rANgnJDmtLo_0000001 64.5 71.8 
+Michael_C._Hall/rANgnJDmtLo_0000002 99.7 111.3 

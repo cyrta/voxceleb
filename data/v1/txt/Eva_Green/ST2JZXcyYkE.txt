@@ -1,0 +1,11 @@
+POI: 			Eva_Green 
+Youtube ID: 	ST2JZXcyYkE 
+Video length: 	808.5 sec 
+Set (V): 		test 
+ 
+Eva_Green/ST2JZXcyYkE_0000001 239.4 245.7 
+Eva_Green/ST2JZXcyYkE_0000002 248.8 256.0 
+Eva_Green/ST2JZXcyYkE_0000003 306.8 313.3 
+Eva_Green/ST2JZXcyYkE_0000004 330.0 334.3 
+Eva_Green/ST2JZXcyYkE_0000005 362.7 369.1 
+Eva_Green/ST2JZXcyYkE_0000006 369.9 383.1 

@@ -1,0 +1,8 @@
+POI: 			Jesse_Williams 
+Youtube ID: 	i4mk_kanfq8 
+Video length: 	136.3 sec 
+Set (V): 		dev 
+ 
+Jesse_Williams/i4mk_kanfq8_0000001 27.0 39.2 
+Jesse_Williams/i4mk_kanfq8_0000002 93.7 98.1 
+Jesse_Williams/i4mk_kanfq8_0000003 110.0 122.6 

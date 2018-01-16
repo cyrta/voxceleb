@@ -1,0 +1,9 @@
+POI: 			Cheryl_Ladd 
+Youtube ID: 	QZisv4d7SFo 
+Video length: 	1331.2 sec 
+Set (V): 		dev 
+ 
+Cheryl_Ladd/QZisv4d7SFo_0000001 69.6 73.6 
+Cheryl_Ladd/QZisv4d7SFo_0000002 80.1 85.6 
+Cheryl_Ladd/QZisv4d7SFo_0000003 340.7 344.8 
+Cheryl_Ladd/QZisv4d7SFo_0000004 385.2 391.3 

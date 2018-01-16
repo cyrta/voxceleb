@@ -1,0 +1,23 @@
+POI: 			Luke_Evans 
+Youtube ID: 	c3NNibFk058 
+Video length: 	310.6 sec 
+Set (V): 		dev 
+ 
+Luke_Evans/c3NNibFk058_0000001 15.0 38.4 
+Luke_Evans/c3NNibFk058_0000002 39.0 43.7 
+Luke_Evans/c3NNibFk058_0000003 56.3 67.9 
+Luke_Evans/c3NNibFk058_0000004 68.1 74.0 
+Luke_Evans/c3NNibFk058_0000005 74.5 83.1 
+Luke_Evans/c3NNibFk058_0000006 91.3 96.2 
+Luke_Evans/c3NNibFk058_0000007 96.5 115.4 
+Luke_Evans/c3NNibFk058_0000008 123.9 127.8 
+Luke_Evans/c3NNibFk058_0000009 129.2 133.8 
+Luke_Evans/c3NNibFk058_0000010 150.1 162.8 
+Luke_Evans/c3NNibFk058_0000011 179.4 185.4 
+Luke_Evans/c3NNibFk058_0000012 186.5 208.8 
+Luke_Evans/c3NNibFk058_0000013 224.1 229.9 
+Luke_Evans/c3NNibFk058_0000014 230.6 235.4 
+Luke_Evans/c3NNibFk058_0000015 237.8 243.3 
+Luke_Evans/c3NNibFk058_0000016 258.4 270.8 
+Luke_Evans/c3NNibFk058_0000017 284.1 296.5 
+Luke_Evans/c3NNibFk058_0000018 296.6 303.2 

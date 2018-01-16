@@ -1,0 +1,12 @@
+POI: 			Shane_West 
+Youtube ID: 	xD8FtqzuuFs 
+Video length: 	264.9 sec 
+Set (V): 		dev 
+ 
+Shane_West/xD8FtqzuuFs_0000001 23.1 30.4 
+Shane_West/xD8FtqzuuFs_0000002 38.8 45.0 
+Shane_West/xD8FtqzuuFs_0000003 48.1 52.9 
+Shane_West/xD8FtqzuuFs_0000004 121.0 126.4 
+Shane_West/xD8FtqzuuFs_0000005 205.9 213.2 
+Shane_West/xD8FtqzuuFs_0000006 218.3 223.6 
+Shane_West/xD8FtqzuuFs_0000007 226.6 231.4 

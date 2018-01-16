@@ -1,0 +1,17 @@
+POI: 			Dustin_Milligan 
+Youtube ID: 	Ltttsep1HC8 
+Video length: 	283.4 sec 
+Set (V): 		dev 
+ 
+Dustin_Milligan/Ltttsep1HC8_0000001 15.9 25.2 
+Dustin_Milligan/Ltttsep1HC8_0000002 32.6 51.8 
+Dustin_Milligan/Ltttsep1HC8_0000003 58.6 63.2 
+Dustin_Milligan/Ltttsep1HC8_0000004 72.8 84.5 
+Dustin_Milligan/Ltttsep1HC8_0000005 96.2 102.0 
+Dustin_Milligan/Ltttsep1HC8_0000006 102.7 118.4 
+Dustin_Milligan/Ltttsep1HC8_0000007 124.9 134.3 
+Dustin_Milligan/Ltttsep1HC8_0000008 141.0 153.0 
+Dustin_Milligan/Ltttsep1HC8_0000009 158.8 180.7 
+Dustin_Milligan/Ltttsep1HC8_0000010 203.4 211.8 
+Dustin_Milligan/Ltttsep1HC8_0000011 220.5 248.5 
+Dustin_Milligan/Ltttsep1HC8_0000012 255.0 271.7 

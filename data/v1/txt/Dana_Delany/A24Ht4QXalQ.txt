@@ -1,0 +1,8 @@
+POI: 			Dana_Delany 
+Youtube ID: 	A24Ht4QXalQ 
+Video length: 	272.4 sec 
+Set (V): 		dev 
+ 
+Dana_Delany/A24Ht4QXalQ_0000001 132.3 136.5 
+Dana_Delany/A24Ht4QXalQ_0000002 183.9 189.7 
+Dana_Delany/A24Ht4QXalQ_0000003 190.3 194.6 

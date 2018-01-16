@@ -1,0 +1,9 @@
+POI: 			Jack_Griffo 
+Youtube ID: 	3ATnOc1s5Yc 
+Video length: 	88.5 sec 
+Set (V): 		dev 
+ 
+Jack_Griffo/3ATnOc1s5Yc_0000001 22.0 26.4 
+Jack_Griffo/3ATnOc1s5Yc_0000002 44.5 49.9 
+Jack_Griffo/3ATnOc1s5Yc_0000003 59.6 63.6 
+Jack_Griffo/3ATnOc1s5Yc_0000004 66.2 71.7 

@@ -1,0 +1,8 @@
+POI: 			Deidre_Hall 
+Youtube ID: 	39N8sEmUSa4 
+Video length: 	571.8 sec 
+Set (V): 		dev 
+ 
+Deidre_Hall/39N8sEmUSa4_0000001 31.1 38.2 
+Deidre_Hall/39N8sEmUSa4_0000002 40.1 47.2 
+Deidre_Hall/39N8sEmUSa4_0000003 473.1 477.2 

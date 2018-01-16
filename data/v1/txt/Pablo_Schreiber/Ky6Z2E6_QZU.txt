@@ -1,0 +1,9 @@
+POI: 			Pablo_Schreiber 
+Youtube ID: 	Ky6Z2E6_QZU 
+Video length: 	52.1 sec 
+Set (V): 		dev 
+ 
+Pablo_Schreiber/Ky6Z2E6_QZU_0000001 01.8 13.1 
+Pablo_Schreiber/Ky6Z2E6_QZU_0000002 14.9 28.0 
+Pablo_Schreiber/Ky6Z2E6_QZU_0000003 40.0 48.6 
+Pablo_Schreiber/Ky6Z2E6_QZU_0000004 32.6 41.1 

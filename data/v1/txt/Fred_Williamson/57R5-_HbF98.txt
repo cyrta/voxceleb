@@ -1,0 +1,8 @@
+POI: 			Fred_Williamson 
+Youtube ID: 	57R5-_HbF98 
+Video length: 	433.5 sec 
+Set (V): 		dev 
+ 
+Fred_Williamson/57R5-_HbF98_0000001 261.8 267.6 
+Fred_Williamson/57R5-_HbF98_0000002 306.4 310.5 
+Fred_Williamson/57R5-_HbF98_0000003 404.2 411.3 

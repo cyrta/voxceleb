@@ -1,0 +1,9 @@
+POI: 			Wes_Bentley 
+Youtube ID: 	bVILMuxHZ1I 
+Video length: 	104.1 sec 
+Set (V): 		dev 
+ 
+Wes_Bentley/bVILMuxHZ1I_0000001 07.0 13.6 
+Wes_Bentley/bVILMuxHZ1I_0000002 30.0 49.4 
+Wes_Bentley/bVILMuxHZ1I_0000003 64.6 82.8 
+Wes_Bentley/bVILMuxHZ1I_0000004 93.1 100.0 

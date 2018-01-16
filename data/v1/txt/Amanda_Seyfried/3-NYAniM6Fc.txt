@@ -1,0 +1,12 @@
+POI: 			Amanda_Seyfried 
+Youtube ID: 	3-NYAniM6Fc 
+Video length: 	342.0 sec 
+Set (V): 		dev 
+ 
+Amanda_Seyfried/3-NYAniM6Fc_0000001 47.5 53.4 
+Amanda_Seyfried/3-NYAniM6Fc_0000002 88.0 96.9 
+Amanda_Seyfried/3-NYAniM6Fc_0000003 162.2 170.3 
+Amanda_Seyfried/3-NYAniM6Fc_0000004 177.0 183.0 
+Amanda_Seyfried/3-NYAniM6Fc_0000005 234.1 239.2 
+Amanda_Seyfried/3-NYAniM6Fc_0000006 259.0 269.1 
+Amanda_Seyfried/3-NYAniM6Fc_0000007 297.5 303.2 

@@ -1,0 +1,14 @@
+POI: 			Jenna_Fischer 
+Youtube ID: 	Mqbi6AVDo68 
+Video length: 	318.2 sec 
+Set (V): 		dev 
+ 
+Jenna_Fischer/Mqbi6AVDo68_0000001 69.3 75.0 
+Jenna_Fischer/Mqbi6AVDo68_0000002 79.8 84.1 
+Jenna_Fischer/Mqbi6AVDo68_0000003 95.8 101.9 
+Jenna_Fischer/Mqbi6AVDo68_0000004 107.4 118.2 
+Jenna_Fischer/Mqbi6AVDo68_0000005 153.5 162.0 
+Jenna_Fischer/Mqbi6AVDo68_0000006 163.0 169.2 
+Jenna_Fischer/Mqbi6AVDo68_0000007 216.3 238.7 
+Jenna_Fischer/Mqbi6AVDo68_0000008 244.6 253.4 
+Jenna_Fischer/Mqbi6AVDo68_0000009 254.0 260.0 

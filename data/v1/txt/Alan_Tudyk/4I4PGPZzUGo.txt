@@ -1,0 +1,11 @@
+POI: 			Alan_Tudyk 
+Youtube ID: 	4I4PGPZzUGo 
+Video length: 	596.2 sec 
+Set (V): 		dev 
+ 
+Alan_Tudyk/4I4PGPZzUGo_0000001 45.0 67.9 
+Alan_Tudyk/4I4PGPZzUGo_0000002 162.0 170.0 
+Alan_Tudyk/4I4PGPZzUGo_0000003 170.1 174.5 
+Alan_Tudyk/4I4PGPZzUGo_0000004 362.4 371.0 
+Alan_Tudyk/4I4PGPZzUGo_0000005 475.4 480.1 
+Alan_Tudyk/4I4PGPZzUGo_0000006 504.7 509.1 

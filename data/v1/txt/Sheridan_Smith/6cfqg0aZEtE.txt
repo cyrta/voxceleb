@@ -1,0 +1,8 @@
+POI: 			Sheridan_Smith 
+Youtube ID: 	6cfqg0aZEtE 
+Video length: 	197.5 sec 
+Set (V): 		dev 
+ 
+Sheridan_Smith/6cfqg0aZEtE_0000001 62.5 67.8 
+Sheridan_Smith/6cfqg0aZEtE_0000002 121.2 127.2 
+Sheridan_Smith/6cfqg0aZEtE_0000003 138.9 144.5 

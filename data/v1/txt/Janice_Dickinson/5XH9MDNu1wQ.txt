@@ -1,0 +1,11 @@
+POI: 			Janice_Dickinson 
+Youtube ID: 	5XH9MDNu1wQ 
+Video length: 	121.2 sec 
+Set (V): 		dev 
+ 
+Janice_Dickinson/5XH9MDNu1wQ_0000001 18.6 35.6 
+Janice_Dickinson/5XH9MDNu1wQ_0000002 42.3 46.4 
+Janice_Dickinson/5XH9MDNu1wQ_0000003 48.5 52.6 
+Janice_Dickinson/5XH9MDNu1wQ_0000004 53.3 64.8 
+Janice_Dickinson/5XH9MDNu1wQ_0000005 87.4 102.8 
+Janice_Dickinson/5XH9MDNu1wQ_0000006 110.4 114.7 

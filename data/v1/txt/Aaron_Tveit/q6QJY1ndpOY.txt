@@ -1,0 +1,9 @@
+POI: 			Aaron_Tveit 
+Youtube ID: 	q6QJY1ndpOY 
+Video length: 	175.6 sec 
+Set (V): 		dev 
+ 
+Aaron_Tveit/q6QJY1ndpOY_0000001 28.2 34.1 
+Aaron_Tveit/q6QJY1ndpOY_0000002 65.3 73.4 
+Aaron_Tveit/q6QJY1ndpOY_0000003 97.9 102.8 
+Aaron_Tveit/q6QJY1ndpOY_0000004 121.5 125.5 

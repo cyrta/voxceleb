@@ -1,0 +1,14 @@
+POI: 			Mary_Elizabeth_Winstead 
+Youtube ID: 	ZPxVZxDHUX0 
+Video length: 	376.9 sec 
+Set (V): 		dev 
+ 
+Mary_Elizabeth_Winstead/ZPxVZxDHUX0_0000001 192.4 199.8 
+Mary_Elizabeth_Winstead/ZPxVZxDHUX0_0000002 200.1 210.7 
+Mary_Elizabeth_Winstead/ZPxVZxDHUX0_0000003 212.2 221.2 
+Mary_Elizabeth_Winstead/ZPxVZxDHUX0_0000004 228.0 239.6 
+Mary_Elizabeth_Winstead/ZPxVZxDHUX0_0000005 258.6 287.4 
+Mary_Elizabeth_Winstead/ZPxVZxDHUX0_0000006 305.7 315.6 
+Mary_Elizabeth_Winstead/ZPxVZxDHUX0_0000007 316.6 322.8 
+Mary_Elizabeth_Winstead/ZPxVZxDHUX0_0000008 333.2 358.5 
+Mary_Elizabeth_Winstead/ZPxVZxDHUX0_0000009 358.8 363.5 

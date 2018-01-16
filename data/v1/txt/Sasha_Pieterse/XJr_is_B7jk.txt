@@ -1,0 +1,13 @@
+POI: 			Sasha_Pieterse 
+Youtube ID: 	XJr_is_B7jk 
+Video length: 	215.5 sec 
+Set (V): 		dev 
+ 
+Sasha_Pieterse/XJr_is_B7jk_0000001 58.0 64.2 
+Sasha_Pieterse/XJr_is_B7jk_0000002 66.3 77.8 
+Sasha_Pieterse/XJr_is_B7jk_0000003 78.1 99.8 
+Sasha_Pieterse/XJr_is_B7jk_0000004 99.9 118.8 
+Sasha_Pieterse/XJr_is_B7jk_0000005 120.2 125.4 
+Sasha_Pieterse/XJr_is_B7jk_0000006 130.4 139.2 
+Sasha_Pieterse/XJr_is_B7jk_0000007 139.5 158.7 
+Sasha_Pieterse/XJr_is_B7jk_0000008 186.1 202.6 

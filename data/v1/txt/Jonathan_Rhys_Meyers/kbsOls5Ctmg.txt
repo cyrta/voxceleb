@@ -1,0 +1,9 @@
+POI: 			Jonathan_Rhys_Meyers 
+Youtube ID: 	kbsOls5Ctmg 
+Video length: 	432.8 sec 
+Set (V): 		dev 
+ 
+Jonathan_Rhys_Meyers/kbsOls5Ctmg_0000001 43.2 50.5 
+Jonathan_Rhys_Meyers/kbsOls5Ctmg_0000002 107.6 113.2 
+Jonathan_Rhys_Meyers/kbsOls5Ctmg_0000003 270.0 275.0 
+Jonathan_Rhys_Meyers/kbsOls5Ctmg_0000004 297.6 309.2 

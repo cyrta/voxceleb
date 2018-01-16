@@ -1,0 +1,25 @@
+POI: 			Mathieu_Kassovitz 
+Youtube ID: 	1A1AZ-l7P1c 
+Video length: 	2217.1 sec 
+Set (V): 		dev 
+ 
+Mathieu_Kassovitz/1A1AZ-l7P1c_0000001 1162.8 1167.8 
+Mathieu_Kassovitz/1A1AZ-l7P1c_0000002 1177.0 1181.5 
+Mathieu_Kassovitz/1A1AZ-l7P1c_0000003 1315.0 1322.1 
+Mathieu_Kassovitz/1A1AZ-l7P1c_0000004 1459.2 1464.4 
+Mathieu_Kassovitz/1A1AZ-l7P1c_0000005 1485.6 1490.2 
+Mathieu_Kassovitz/1A1AZ-l7P1c_0000006 1529.1 1534.6 
+Mathieu_Kassovitz/1A1AZ-l7P1c_0000007 1658.7 1663.5 
+Mathieu_Kassovitz/1A1AZ-l7P1c_0000008 1716.0 1720.9 
+Mathieu_Kassovitz/1A1AZ-l7P1c_0000009 1751.8 1760.7 
+Mathieu_Kassovitz/1A1AZ-l7P1c_0000010 1775.6 1779.8 
+Mathieu_Kassovitz/1A1AZ-l7P1c_0000011 1809.7 1815.2 
+Mathieu_Kassovitz/1A1AZ-l7P1c_0000012 1851.0 1855.7 
+Mathieu_Kassovitz/1A1AZ-l7P1c_0000013 1860.8 1865.0 
+Mathieu_Kassovitz/1A1AZ-l7P1c_0000014 1941.8 1949.2 
+Mathieu_Kassovitz/1A1AZ-l7P1c_0000015 1995.3 2000.1 
+Mathieu_Kassovitz/1A1AZ-l7P1c_0000016 2025.3 2032.5 
+Mathieu_Kassovitz/1A1AZ-l7P1c_0000017 2042.8 2048.7 
+Mathieu_Kassovitz/1A1AZ-l7P1c_0000018 2057.7 2064.7 
+Mathieu_Kassovitz/1A1AZ-l7P1c_0000019 2075.4 2080.8 
+Mathieu_Kassovitz/1A1AZ-l7P1c_0000020 2191.4 2197.2 

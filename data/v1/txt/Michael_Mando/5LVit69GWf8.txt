@@ -1,0 +1,15 @@
+POI: 			Michael_Mando 
+Youtube ID: 	5LVit69GWf8 
+Video length: 	322.6 sec 
+Set (V): 		dev 
+ 
+Michael_Mando/5LVit69GWf8_0000001 37.1 44.0 
+Michael_Mando/5LVit69GWf8_0000002 85.9 100.9 
+Michael_Mando/5LVit69GWf8_0000003 101.4 106.5 
+Michael_Mando/5LVit69GWf8_0000004 115.4 121.4 
+Michael_Mando/5LVit69GWf8_0000005 207.4 232.4 
+Michael_Mando/5LVit69GWf8_0000006 234.5 238.4 
+Michael_Mando/5LVit69GWf8_0000007 260.6 264.5 
+Michael_Mando/5LVit69GWf8_0000008 265.5 270.0 
+Michael_Mando/5LVit69GWf8_0000009 275.9 280.2 
+Michael_Mando/5LVit69GWf8_0000010 283.6 288.5 

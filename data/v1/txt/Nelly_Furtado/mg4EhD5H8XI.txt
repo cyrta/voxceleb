@@ -1,0 +1,15 @@
+POI: 			Nelly_Furtado 
+Youtube ID: 	mg4EhD5H8XI 
+Video length: 	248.7 sec 
+Set (V): 		dev 
+ 
+Nelly_Furtado/mg4EhD5H8XI_0000001 16.8 29.5 
+Nelly_Furtado/mg4EhD5H8XI_0000002 30.3 37.0 
+Nelly_Furtado/mg4EhD5H8XI_0000003 79.6 84.8 
+Nelly_Furtado/mg4EhD5H8XI_0000004 128.0 143.0 
+Nelly_Furtado/mg4EhD5H8XI_0000005 148.4 160.0 
+Nelly_Furtado/mg4EhD5H8XI_0000006 164.8 172.5 
+Nelly_Furtado/mg4EhD5H8XI_0000007 184.0 194.0 
+Nelly_Furtado/mg4EhD5H8XI_0000008 198.8 203.4 
+Nelly_Furtado/mg4EhD5H8XI_0000009 206.2 235.7 
+Nelly_Furtado/mg4EhD5H8XI_0000010 236.2 245.6 

@@ -1,0 +1,10 @@
+POI: 			Peter_Berg 
+Youtube ID: 	Idpvy29pFbA 
+Video length: 	246.9 sec 
+Set (V): 		dev 
+ 
+Peter_Berg/Idpvy29pFbA_0000001 75.4 91.9 
+Peter_Berg/Idpvy29pFbA_0000002 98.6 106.1 
+Peter_Berg/Idpvy29pFbA_0000003 106.9 111.5 
+Peter_Berg/Idpvy29pFbA_0000004 112.6 123.2 
+Peter_Berg/Idpvy29pFbA_0000005 127.3 136.4 

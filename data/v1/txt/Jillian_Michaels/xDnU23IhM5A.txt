@@ -1,0 +1,7 @@
+POI: 			Jillian_Michaels 
+Youtube ID: 	xDnU23IhM5A 
+Video length: 	420.9 sec 
+Set (V): 		dev 
+ 
+Jillian_Michaels/xDnU23IhM5A_0000001 53.2 59.2 
+Jillian_Michaels/xDnU23IhM5A_0000002 348.0 354.6 

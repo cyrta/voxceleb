@@ -1,0 +1,8 @@
+POI: 			Greg_Grunberg 
+Youtube ID: 	s_HT9AuhRxM 
+Video length: 	300.5 sec 
+Set (V): 		dev 
+ 
+Greg_Grunberg/s_HT9AuhRxM_0000001 211.0 224.0 
+Greg_Grunberg/s_HT9AuhRxM_0000002 233.8 242.6 
+Greg_Grunberg/s_HT9AuhRxM_0000003 284.6 290.8 

@@ -1,0 +1,7 @@
+POI: 			Melody_Thomas_Scott 
+Youtube ID: 	Z81QwLeIIy0 
+Video length: 	137.7 sec 
+Set (V): 		dev 
+ 
+Melody_Thomas_Scott/Z81QwLeIIy0_0000001 34.8 40.0 
+Melody_Thomas_Scott/Z81QwLeIIy0_0000002 57.6 65.0 

@@ -1,0 +1,9 @@
+POI: 			Elaine_Cassidy 
+Youtube ID: 	XiKRlssBw2M 
+Video length: 	122.7 sec 
+Set (V): 		test 
+ 
+Elaine_Cassidy/XiKRlssBw2M_0000001 13.2 45.9 
+Elaine_Cassidy/XiKRlssBw2M_0000002 61.5 80.0 
+Elaine_Cassidy/XiKRlssBw2M_0000003 80.2 95.9 
+Elaine_Cassidy/XiKRlssBw2M_0000004 100.6 116.0 

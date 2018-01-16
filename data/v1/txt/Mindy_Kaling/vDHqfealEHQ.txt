@@ -1,0 +1,8 @@
+POI: 			Mindy_Kaling 
+Youtube ID: 	vDHqfealEHQ 
+Video length: 	177.5 sec 
+Set (V): 		dev 
+ 
+Mindy_Kaling/vDHqfealEHQ_0000001 56.5 61.8 
+Mindy_Kaling/vDHqfealEHQ_0000002 89.4 113.7 
+Mindy_Kaling/vDHqfealEHQ_0000003 145.1 154.1 

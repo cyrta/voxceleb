@@ -1,0 +1,15 @@
+POI: 			Alain_Delon 
+Youtube ID: 	IipkRlgAGC0 
+Video length: 	816.9 sec 
+Set (V): 		dev 
+ 
+Alain_Delon/IipkRlgAGC0_0000001 352.0 370.5 
+Alain_Delon/IipkRlgAGC0_0000002 371.0 380.3 
+Alain_Delon/IipkRlgAGC0_0000003 385.7 392.6 
+Alain_Delon/IipkRlgAGC0_0000004 403.2 409.8 
+Alain_Delon/IipkRlgAGC0_0000005 413.3 430.6 
+Alain_Delon/IipkRlgAGC0_0000006 430.8 438.0 
+Alain_Delon/IipkRlgAGC0_0000007 620.0 626.0 
+Alain_Delon/IipkRlgAGC0_0000008 636.2 641.4 
+Alain_Delon/IipkRlgAGC0_0000009 649.6 656.3 
+Alain_Delon/IipkRlgAGC0_0000010 656.5 662.2 

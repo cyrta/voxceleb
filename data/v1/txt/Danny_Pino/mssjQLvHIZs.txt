@@ -1,0 +1,12 @@
+POI: 			Danny_Pino 
+Youtube ID: 	mssjQLvHIZs 
+Video length: 	117.1 sec 
+Set (V): 		dev 
+ 
+Danny_Pino/mssjQLvHIZs_0000001 02.3 07.9 
+Danny_Pino/mssjQLvHIZs_0000002 10.8 23.0 
+Danny_Pino/mssjQLvHIZs_0000003 25.7 31.9 
+Danny_Pino/mssjQLvHIZs_0000004 33.2 41.0 
+Danny_Pino/mssjQLvHIZs_0000005 55.4 66.8 
+Danny_Pino/mssjQLvHIZs_0000006 69.6 75.9 
+Danny_Pino/mssjQLvHIZs_0000007 101.9 113.3 

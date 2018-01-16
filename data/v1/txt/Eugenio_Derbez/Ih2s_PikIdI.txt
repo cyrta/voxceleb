@@ -1,0 +1,10 @@
+POI: 			Eugenio_Derbez 
+Youtube ID: 	Ih2s_PikIdI 
+Video length: 	156.3 sec 
+Set (V): 		test 
+ 
+Eugenio_Derbez/Ih2s_PikIdI_0000001 44.6 49.4 
+Eugenio_Derbez/Ih2s_PikIdI_0000002 78.6 82.7 
+Eugenio_Derbez/Ih2s_PikIdI_0000003 92.0 97.8 
+Eugenio_Derbez/Ih2s_PikIdI_0000004 111.5 126.6 
+Eugenio_Derbez/Ih2s_PikIdI_0000005 136.2 151.0 

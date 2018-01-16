@@ -1,0 +1,9 @@
+POI: 			Katherine_Heigl 
+Youtube ID: 	f8UOMatNK1o 
+Video length: 	194.2 sec 
+Set (V): 		dev 
+ 
+Katherine_Heigl/f8UOMatNK1o_0000001 53.2 58.1 
+Katherine_Heigl/f8UOMatNK1o_0000002 68.1 73.9 
+Katherine_Heigl/f8UOMatNK1o_0000003 118.5 130.2 
+Katherine_Heigl/f8UOMatNK1o_0000004 153.5 161.3 

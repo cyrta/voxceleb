@@ -1,0 +1,23 @@
+POI: 			Luke_Evans 
+Youtube ID: 	a0hxfRdBsqU 
+Video length: 	430.2 sec 
+Set (V): 		dev 
+ 
+Luke_Evans/a0hxfRdBsqU_0000001 29.0 34.0 
+Luke_Evans/a0hxfRdBsqU_0000002 34.5 45.0 
+Luke_Evans/a0hxfRdBsqU_0000003 59.8 64.0 
+Luke_Evans/a0hxfRdBsqU_0000004 65.2 76.2 
+Luke_Evans/a0hxfRdBsqU_0000005 82.1 92.4 
+Luke_Evans/a0hxfRdBsqU_0000006 94.4 106.3 
+Luke_Evans/a0hxfRdBsqU_0000007 106.7 111.3 
+Luke_Evans/a0hxfRdBsqU_0000008 118.6 123.4 
+Luke_Evans/a0hxfRdBsqU_0000009 216.7 221.5 
+Luke_Evans/a0hxfRdBsqU_0000010 224.6 235.4 
+Luke_Evans/a0hxfRdBsqU_0000011 240.5 249.2 
+Luke_Evans/a0hxfRdBsqU_0000012 291.0 310.1 
+Luke_Evans/a0hxfRdBsqU_0000013 313.3 317.9 
+Luke_Evans/a0hxfRdBsqU_0000014 335.0 340.6 
+Luke_Evans/a0hxfRdBsqU_0000015 348.8 371.0 
+Luke_Evans/a0hxfRdBsqU_0000016 382.3 388.8 
+Luke_Evans/a0hxfRdBsqU_0000017 397.2 402.8 
+Luke_Evans/a0hxfRdBsqU_0000018 405.0 413.5 

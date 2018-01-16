@@ -1,0 +1,12 @@
+POI: 			Stacy_Keach 
+Youtube ID: 	zLIh7LS89HU 
+Video length: 	141.9 sec 
+Set (V): 		dev 
+ 
+Stacy_Keach/zLIh7LS89HU_0000001 25.6 43.6 
+Stacy_Keach/zLIh7LS89HU_0000002 44.2 54.2 
+Stacy_Keach/zLIh7LS89HU_0000003 55.2 64.4 
+Stacy_Keach/zLIh7LS89HU_0000004 70.0 75.5 
+Stacy_Keach/zLIh7LS89HU_0000005 90.5 98.5 
+Stacy_Keach/zLIh7LS89HU_0000006 108.8 114.6 
+Stacy_Keach/zLIh7LS89HU_0000007 127.4 139.1 

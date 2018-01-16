@@ -1,0 +1,9 @@
+POI: 			Jonathan_Rhys_Meyers 
+Youtube ID: 	GP88FHaVBmA 
+Video length: 	295.6 sec 
+Set (V): 		dev 
+ 
+Jonathan_Rhys_Meyers/GP88FHaVBmA_0000001 31.7 44.3 
+Jonathan_Rhys_Meyers/GP88FHaVBmA_0000002 119.4 127.9 
+Jonathan_Rhys_Meyers/GP88FHaVBmA_0000003 244.7 249.3 
+Jonathan_Rhys_Meyers/GP88FHaVBmA_0000004 254.1 270.8 

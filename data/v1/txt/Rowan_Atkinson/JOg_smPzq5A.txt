@@ -1,0 +1,7 @@
+POI: 			Rowan_Atkinson 
+Youtube ID: 	JOg_smPzq5A 
+Video length: 	256.0 sec 
+Set (V): 		dev 
+ 
+Rowan_Atkinson/JOg_smPzq5A_0000001 35.2 39.6 
+Rowan_Atkinson/JOg_smPzq5A_0000002 163.3 168.6 

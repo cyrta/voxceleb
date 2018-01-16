@@ -1,0 +1,9 @@
+POI: 			Adrianne_Curry 
+Youtube ID: 	hGL2tRHivdw 
+Video length: 	147.4 sec 
+Set (V): 		dev 
+ 
+Adrianne_Curry/hGL2tRHivdw_0000001 13.9 20.0 
+Adrianne_Curry/hGL2tRHivdw_0000002 23.8 28.5 
+Adrianne_Curry/hGL2tRHivdw_0000003 53.4 62.0 
+Adrianne_Curry/hGL2tRHivdw_0000004 113.6 118.5 

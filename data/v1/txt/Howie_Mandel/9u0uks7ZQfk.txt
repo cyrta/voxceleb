@@ -1,0 +1,8 @@
+POI: 			Howie_Mandel 
+Youtube ID: 	9u0uks7ZQfk 
+Video length: 	254.4 sec 
+Set (V): 		dev 
+ 
+Howie_Mandel/9u0uks7ZQfk_0000001 07.2 14.8 
+Howie_Mandel/9u0uks7ZQfk_0000002 20.1 24.5 
+Howie_Mandel/9u0uks7ZQfk_0000003 36.9 46.9 

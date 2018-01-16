@@ -1,0 +1,13 @@
+POI: 			David_Giuntoli 
+Youtube ID: 	1X7ygq6qSCg 
+Video length: 	368.5 sec 
+Set (V): 		dev 
+ 
+David_Giuntoli/1X7ygq6qSCg_0000001 44.9 49.6 
+David_Giuntoli/1X7ygq6qSCg_0000002 73.4 78.7 
+David_Giuntoli/1X7ygq6qSCg_0000003 144.3 148.4 
+David_Giuntoli/1X7ygq6qSCg_0000004 158.6 162.6 
+David_Giuntoli/1X7ygq6qSCg_0000005 193.7 198.6 
+David_Giuntoli/1X7ygq6qSCg_0000006 214.2 218.4 
+David_Giuntoli/1X7ygq6qSCg_0000007 312.6 322.4 
+David_Giuntoli/1X7ygq6qSCg_0000008 323.2 331.4 

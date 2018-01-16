@@ -1,0 +1,13 @@
+POI: 			Fanny_Ardant 
+Youtube ID: 	E3J23SXNUas 
+Video length: 	281.3 sec 
+Set (V): 		dev 
+ 
+Fanny_Ardant/E3J23SXNUas_0000001 71.1 77.6 
+Fanny_Ardant/E3J23SXNUas_0000002 157.7 161.9 
+Fanny_Ardant/E3J23SXNUas_0000003 169.2 176.1 
+Fanny_Ardant/E3J23SXNUas_0000004 206.4 211.0 
+Fanny_Ardant/E3J23SXNUas_0000005 212.2 216.3 
+Fanny_Ardant/E3J23SXNUas_0000006 245.1 252.3 
+Fanny_Ardant/E3J23SXNUas_0000007 259.2 263.6 
+Fanny_Ardant/E3J23SXNUas_0000008 268.2 272.5 

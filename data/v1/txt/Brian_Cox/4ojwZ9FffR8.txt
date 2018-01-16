@@ -1,0 +1,10 @@
+POI: 			Brian_Cox 
+Youtube ID: 	4ojwZ9FffR8 
+Video length: 	379.8 sec 
+Set (V): 		dev 
+ 
+Brian_Cox/4ojwZ9FffR8_0000001 44.4 51.1 
+Brian_Cox/4ojwZ9FffR8_0000002 70.0 74.2 
+Brian_Cox/4ojwZ9FffR8_0000003 77.3 83.1 
+Brian_Cox/4ojwZ9FffR8_0000004 83.6 90.7 
+Brian_Cox/4ojwZ9FffR8_0000005 249.4 253.6 

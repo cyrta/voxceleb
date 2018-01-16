@@ -1,0 +1,8 @@
+POI: 			Paul_Scheer 
+Youtube ID: 	4DmWCXgrXWU 
+Video length: 	270.9 sec 
+Set (V): 		dev 
+ 
+Paul_Scheer/4DmWCXgrXWU_0000001 22.4 27.8 
+Paul_Scheer/4DmWCXgrXWU_0000002 100.3 107.0 
+Paul_Scheer/4DmWCXgrXWU_0000003 115.3 120.3 

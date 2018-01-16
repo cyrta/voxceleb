@@ -1,0 +1,11 @@
+POI: 			America_Ferrera 
+Youtube ID: 	Z2B5ZihFnOc 
+Video length: 	394.8 sec 
+Set (V): 		dev 
+ 
+America_Ferrera/Z2B5ZihFnOc_0000001 108.1 115.1 
+America_Ferrera/Z2B5ZihFnOc_0000002 178.2 182.2 
+America_Ferrera/Z2B5ZihFnOc_0000003 216.0 222.2 
+America_Ferrera/Z2B5ZihFnOc_0000004 261.8 270.6 
+America_Ferrera/Z2B5ZihFnOc_0000005 305.5 310.2 
+America_Ferrera/Z2B5ZihFnOc_0000006 324.2 334.8 

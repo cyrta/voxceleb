@@ -1,0 +1,8 @@
+POI: 			Olivia_Williams 
+Youtube ID: 	LMSwmGmCxCM 
+Video length: 	400.2 sec 
+Set (V): 		dev 
+ 
+Olivia_Williams/LMSwmGmCxCM_0000001 122.9 130.9 
+Olivia_Williams/LMSwmGmCxCM_0000002 236.7 246.3 
+Olivia_Williams/LMSwmGmCxCM_0000003 325.3 331.2 

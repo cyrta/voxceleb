@@ -1,0 +1,18 @@
+POI: 			Marc_Forster 
+Youtube ID: 	aNq2rmNkwxM 
+Video length: 	481.5 sec 
+Set (V): 		dev 
+ 
+Marc_Forster/aNq2rmNkwxM_0000001 119.8 132.6 
+Marc_Forster/aNq2rmNkwxM_0000002 195.5 200.5 
+Marc_Forster/aNq2rmNkwxM_0000003 205.2 214.9 
+Marc_Forster/aNq2rmNkwxM_0000004 230.8 237.5 
+Marc_Forster/aNq2rmNkwxM_0000005 272.8 277.0 
+Marc_Forster/aNq2rmNkwxM_0000006 289.8 294.6 
+Marc_Forster/aNq2rmNkwxM_0000007 343.2 347.6 
+Marc_Forster/aNq2rmNkwxM_0000008 366.5 374.8 
+Marc_Forster/aNq2rmNkwxM_0000009 376.3 381.8 
+Marc_Forster/aNq2rmNkwxM_0000010 383.4 398.7 
+Marc_Forster/aNq2rmNkwxM_0000011 403.0 414.3 
+Marc_Forster/aNq2rmNkwxM_0000012 429.1 439.7 
+Marc_Forster/aNq2rmNkwxM_0000013 444.4 449.1 

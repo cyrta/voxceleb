@@ -1,0 +1,10 @@
+POI: 			David_Warner 
+Youtube ID: 	dor0pAyHEJc 
+Video length: 	276.4 sec 
+Set (V): 		dev 
+ 
+David_Warner/dor0pAyHEJc_0000001 10.6 20.0 
+David_Warner/dor0pAyHEJc_0000002 52.4 66.2 
+David_Warner/dor0pAyHEJc_0000003 86.5 98.0 
+David_Warner/dor0pAyHEJc_0000004 126.2 134.1 
+David_Warner/dor0pAyHEJc_0000005 142.2 147.0 

@@ -1,0 +1,11 @@
+POI: 			Kal_Penn 
+Youtube ID: 	mi1ViqAl104 
+Video length: 	282.6 sec 
+Set (V): 		dev 
+ 
+Kal_Penn/mi1ViqAl104_0000001 43.8 53.7 
+Kal_Penn/mi1ViqAl104_0000002 81.5 92.7 
+Kal_Penn/mi1ViqAl104_0000003 147.4 176.7 
+Kal_Penn/mi1ViqAl104_0000004 186.1 192.0 
+Kal_Penn/mi1ViqAl104_0000005 192.5 201.8 
+Kal_Penn/mi1ViqAl104_0000006 233.6 238.0 

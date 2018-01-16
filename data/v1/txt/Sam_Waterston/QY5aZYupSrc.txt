@@ -1,0 +1,8 @@
+POI: 			Sam_Waterston 
+Youtube ID: 	QY5aZYupSrc 
+Video length: 	300.2 sec 
+Set (V): 		dev 
+ 
+Sam_Waterston/QY5aZYupSrc_0000001 80.4 86.2 
+Sam_Waterston/QY5aZYupSrc_0000002 90.9 101.0 
+Sam_Waterston/QY5aZYupSrc_0000003 103.2 109.4 

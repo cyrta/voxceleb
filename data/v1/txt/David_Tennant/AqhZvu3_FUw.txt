@@ -1,0 +1,7 @@
+POI: 			David_Tennant 
+Youtube ID: 	AqhZvu3_FUw 
+Video length: 	135.5 sec 
+Set (V): 		dev 
+ 
+David_Tennant/AqhZvu3_FUw_0000001 45.7 59.0 
+David_Tennant/AqhZvu3_FUw_0000002 68.3 72.6 

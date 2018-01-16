@@ -1,0 +1,16 @@
+POI: 			Samantha_Barks 
+Youtube ID: 	QuqHNhffbRs 
+Video length: 	235.3 sec 
+Set (V): 		dev 
+ 
+Samantha_Barks/QuqHNhffbRs_0000001 07.3 43.2 
+Samantha_Barks/QuqHNhffbRs_0000002 53.8 73.5 
+Samantha_Barks/QuqHNhffbRs_0000003 76.7 81.3 
+Samantha_Barks/QuqHNhffbRs_0000004 88.0 97.2 
+Samantha_Barks/QuqHNhffbRs_0000005 97.4 122.6 
+Samantha_Barks/QuqHNhffbRs_0000006 142.1 151.6 
+Samantha_Barks/QuqHNhffbRs_0000007 158.2 167.7 
+Samantha_Barks/QuqHNhffbRs_0000008 169.1 182.9 
+Samantha_Barks/QuqHNhffbRs_0000009 193.0 205.0 
+Samantha_Barks/QuqHNhffbRs_0000010 205.5 216.5 
+Samantha_Barks/QuqHNhffbRs_0000011 217.2 226.2 

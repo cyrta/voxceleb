@@ -1,0 +1,7 @@
+POI: 			Lisa_Kudrow 
+Youtube ID: 	6G0AJmqGJYg 
+Video length: 	79.5 sec 
+Set (V): 		dev 
+ 
+Lisa_Kudrow/6G0AJmqGJYg_0000001 32.2 36.4 
+Lisa_Kudrow/6G0AJmqGJYg_0000002 45.8 54.1 

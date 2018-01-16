@@ -1,0 +1,11 @@
+POI: 			Kimberly_Williams-Paisley 
+Youtube ID: 	HRbEsLchZkE 
+Video length: 	329.0 sec 
+Set (V): 		dev 
+ 
+Kimberly_Williams-Paisley/HRbEsLchZkE_0000001 137.8 144.4 
+Kimberly_Williams-Paisley/HRbEsLchZkE_0000002 162.9 172.1 
+Kimberly_Williams-Paisley/HRbEsLchZkE_0000003 198.2 206.7 
+Kimberly_Williams-Paisley/HRbEsLchZkE_0000004 249.7 254.5 
+Kimberly_Williams-Paisley/HRbEsLchZkE_0000005 279.4 284.9 
+Kimberly_Williams-Paisley/HRbEsLchZkE_0000006 317.7 324.8 

@@ -1,0 +1,10 @@
+POI: 			Michael_K._Williams 
+Youtube ID: 	QuPFDkFu5gs 
+Video length: 	205.6 sec 
+Set (V): 		dev 
+ 
+Michael_K._Williams/QuPFDkFu5gs_0000001 38.2 43.5 
+Michael_K._Williams/QuPFDkFu5gs_0000002 44.0 50.3 
+Michael_K._Williams/QuPFDkFu5gs_0000003 57.6 62.1 
+Michael_K._Williams/QuPFDkFu5gs_0000004 71.3 82.9 
+Michael_K._Williams/QuPFDkFu5gs_0000005 83.7 89.2 

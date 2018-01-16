@@ -1,0 +1,8 @@
+POI: 			Jeff_Garlin 
+Youtube ID: 	Rq3OWTy0nD0 
+Video length: 	225.9 sec 
+Set (V): 		dev 
+ 
+Jeff_Garlin/Rq3OWTy0nD0_0000001 83.3 92.9 
+Jeff_Garlin/Rq3OWTy0nD0_0000002 112.9 119.4 
+Jeff_Garlin/Rq3OWTy0nD0_0000003 120.2 124.3 

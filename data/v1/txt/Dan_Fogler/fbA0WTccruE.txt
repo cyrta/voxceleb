@@ -1,0 +1,10 @@
+POI: 			Dan_Fogler 
+Youtube ID: 	fbA0WTccruE 
+Video length: 	272.7 sec 
+Set (V): 		dev 
+ 
+Dan_Fogler/fbA0WTccruE_0000001 114.0 119.2 
+Dan_Fogler/fbA0WTccruE_0000002 173.9 182.0 
+Dan_Fogler/fbA0WTccruE_0000003 182.3 187.6 
+Dan_Fogler/fbA0WTccruE_0000004 241.4 245.4 
+Dan_Fogler/fbA0WTccruE_0000005 256.0 260.0 

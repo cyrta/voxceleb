@@ -1,0 +1,8 @@
+POI: 			Russell_Peters 
+Youtube ID: 	kunZO5i2JnA 
+Video length: 	122.7 sec 
+Set (V): 		dev 
+ 
+Russell_Peters/kunZO5i2JnA_0000001 28.2 36.1 
+Russell_Peters/kunZO5i2JnA_0000002 48.0 52.3 
+Russell_Peters/kunZO5i2JnA_0000003 99.0 106.0 

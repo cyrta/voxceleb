@@ -1,0 +1,8 @@
+POI: 			Shannen_Doherty 
+Youtube ID: 	hp5-mSejhS8 
+Video length: 	639.8 sec 
+Set (V): 		dev 
+ 
+Shannen_Doherty/hp5-mSejhS8_0000001 59.5 63.8 
+Shannen_Doherty/hp5-mSejhS8_0000002 310.4 314.7 
+Shannen_Doherty/hp5-mSejhS8_0000003 346.3 351.2 

@@ -1,0 +1,10 @@
+POI: 			Rob_Reiner 
+Youtube ID: 	79oWAvMcAm0 
+Video length: 	135.3 sec 
+Set (V): 		dev 
+ 
+Rob_Reiner/79oWAvMcAm0_0000001 05.3 17.4 
+Rob_Reiner/79oWAvMcAm0_0000002 50.8 72.1 
+Rob_Reiner/79oWAvMcAm0_0000003 76.3 96.0 
+Rob_Reiner/79oWAvMcAm0_0000004 98.1 117.6 
+Rob_Reiner/79oWAvMcAm0_0000005 119.8 124.2 

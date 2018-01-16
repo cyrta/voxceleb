@@ -1,0 +1,15 @@
+POI: 			Michael_Kelly 
+Youtube ID: 	WH2-0MR4nnY 
+Video length: 	195.0 sec 
+Set (V): 		dev 
+ 
+Michael_Kelly/WH2-0MR4nnY_0000001 34.0 41.6 
+Michael_Kelly/WH2-0MR4nnY_0000002 42.9 46.9 
+Michael_Kelly/WH2-0MR4nnY_0000003 50.9 59.6 
+Michael_Kelly/WH2-0MR4nnY_0000004 61.4 66.6 
+Michael_Kelly/WH2-0MR4nnY_0000005 131.3 137.9 
+Michael_Kelly/WH2-0MR4nnY_0000006 138.6 154.5 
+Michael_Kelly/WH2-0MR4nnY_0000007 132.0 136.0 
+Michael_Kelly/WH2-0MR4nnY_0000008 148.2 166.2 
+Michael_Kelly/WH2-0MR4nnY_0000009 166.3 173.0 
+Michael_Kelly/WH2-0MR4nnY_0000010 173.6 180.6 

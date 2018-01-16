@@ -1,0 +1,10 @@
+POI: 			Rico_Rodriguez 
+Youtube ID: 	hdPJiTX7NIU 
+Video length: 	86.7 sec 
+Set (V): 		dev 
+ 
+Rico_Rodriguez/hdPJiTX7NIU_0000001 10.4 19.5 
+Rico_Rodriguez/hdPJiTX7NIU_0000002 21.8 40.1 
+Rico_Rodriguez/hdPJiTX7NIU_0000003 47.9 53.9 
+Rico_Rodriguez/hdPJiTX7NIU_0000004 70.8 76.0 
+Rico_Rodriguez/hdPJiTX7NIU_0000005 80.6 85.2 

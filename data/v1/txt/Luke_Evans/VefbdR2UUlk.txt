@@ -1,0 +1,19 @@
+POI: 			Luke_Evans 
+Youtube ID: 	VefbdR2UUlk 
+Video length: 	1233.2 sec 
+Set (V): 		dev 
+ 
+Luke_Evans/VefbdR2UUlk_0000001 37.3 47.2 
+Luke_Evans/VefbdR2UUlk_0000002 52.4 58.4 
+Luke_Evans/VefbdR2UUlk_0000003 72.2 85.6 
+Luke_Evans/VefbdR2UUlk_0000004 93.2 97.7 
+Luke_Evans/VefbdR2UUlk_0000005 99.3 105.1 
+Luke_Evans/VefbdR2UUlk_0000006 142.1 150.0 
+Luke_Evans/VefbdR2UUlk_0000007 334.4 342.0 
+Luke_Evans/VefbdR2UUlk_0000008 342.6 352.0 
+Luke_Evans/VefbdR2UUlk_0000009 353.0 363.3 
+Luke_Evans/VefbdR2UUlk_0000010 421.8 441.9 
+Luke_Evans/VefbdR2UUlk_0000011 1032.5 1041.8 
+Luke_Evans/VefbdR2UUlk_0000012 1045.0 1051.5 
+Luke_Evans/VefbdR2UUlk_0000013 1051.8 1057.3 
+Luke_Evans/VefbdR2UUlk_0000014 1066.9 1093.9 

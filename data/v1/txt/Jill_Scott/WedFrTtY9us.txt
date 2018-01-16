@@ -1,0 +1,7 @@
+POI: 			Jill_Scott 
+Youtube ID: 	WedFrTtY9us 
+Video length: 	179.1 sec 
+Set (V): 		dev 
+ 
+Jill_Scott/WedFrTtY9us_0000001 54.2 60.0 
+Jill_Scott/WedFrTtY9us_0000002 95.3 104.5 

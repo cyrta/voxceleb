@@ -1,0 +1,10 @@
+POI: 			Robert_Vaughn 
+Youtube ID: 	dswe62MLTPA 
+Video length: 	119.8 sec 
+Set (V): 		dev 
+ 
+Robert_Vaughn/dswe62MLTPA_0000001 45.2 53.8 
+Robert_Vaughn/dswe62MLTPA_0000002 54.5 66.3 
+Robert_Vaughn/dswe62MLTPA_0000003 66.6 71.5 
+Robert_Vaughn/dswe62MLTPA_0000004 75.0 92.9 
+Robert_Vaughn/dswe62MLTPA_0000005 93.8 110.4 

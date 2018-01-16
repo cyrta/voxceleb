@@ -1,0 +1,11 @@
+POI: 			Noel_Clarke 
+Youtube ID: 	E98_GfeZPAs 
+Video length: 	261.6 sec 
+Set (V): 		dev 
+ 
+Noel_Clarke/E98_GfeZPAs_0000001 23.7 29.4 
+Noel_Clarke/E98_GfeZPAs_0000002 66.1 74.7 
+Noel_Clarke/E98_GfeZPAs_0000003 98.1 103.4 
+Noel_Clarke/E98_GfeZPAs_0000004 181.0 185.7 
+Noel_Clarke/E98_GfeZPAs_0000005 195.5 199.8 
+Noel_Clarke/E98_GfeZPAs_0000006 201.9 207.2 

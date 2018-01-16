@@ -1,0 +1,11 @@
+POI: 			Eli_Roth 
+Youtube ID: 	H4mDLFeGpLU 
+Video length: 	181.2 sec 
+Set (V): 		test 
+ 
+Eli_Roth/H4mDLFeGpLU_0000001 23.8 73.4 
+Eli_Roth/H4mDLFeGpLU_0000002 73.6 88.7 
+Eli_Roth/H4mDLFeGpLU_0000003 88.8 99.9 
+Eli_Roth/H4mDLFeGpLU_0000004 101.8 107.6 
+Eli_Roth/H4mDLFeGpLU_0000005 109.7 127.6 
+Eli_Roth/H4mDLFeGpLU_0000006 134.8 177.8 

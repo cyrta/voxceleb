@@ -1,0 +1,15 @@
+POI: 			Shahid_Kapoor 
+Youtube ID: 	WPIVRh5CEPk 
+Video length: 	1178.0 sec 
+Set (V): 		dev 
+ 
+Shahid_Kapoor/WPIVRh5CEPk_0000001 383.5 393.6 
+Shahid_Kapoor/WPIVRh5CEPk_0000002 534.5 539.9 
+Shahid_Kapoor/WPIVRh5CEPk_0000003 689.7 696.6 
+Shahid_Kapoor/WPIVRh5CEPk_0000004 703.2 713.4 
+Shahid_Kapoor/WPIVRh5CEPk_0000005 735.6 742.0 
+Shahid_Kapoor/WPIVRh5CEPk_0000006 743.5 749.9 
+Shahid_Kapoor/WPIVRh5CEPk_0000007 751.8 758.0 
+Shahid_Kapoor/WPIVRh5CEPk_0000008 758.4 763.5 
+Shahid_Kapoor/WPIVRh5CEPk_0000009 763.7 769.0 
+Shahid_Kapoor/WPIVRh5CEPk_0000010 922.0 929.0 

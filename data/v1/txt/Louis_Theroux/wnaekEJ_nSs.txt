@@ -1,0 +1,28 @@
+POI: 			Louis_Theroux 
+Youtube ID: 	wnaekEJ_nSs 
+Video length: 	536.5 sec 
+Set (V): 		dev 
+ 
+Louis_Theroux/wnaekEJ_nSs_0000001 62.7 70.0 
+Louis_Theroux/wnaekEJ_nSs_0000002 71.0 77.3 
+Louis_Theroux/wnaekEJ_nSs_0000003 83.1 100.6 
+Louis_Theroux/wnaekEJ_nSs_0000004 107.4 116.8 
+Louis_Theroux/wnaekEJ_nSs_0000005 132.5 141.2 
+Louis_Theroux/wnaekEJ_nSs_0000006 154.0 162.7 
+Louis_Theroux/wnaekEJ_nSs_0000007 168.6 194.0 
+Louis_Theroux/wnaekEJ_nSs_0000008 206.1 214.7 
+Louis_Theroux/wnaekEJ_nSs_0000009 220.0 227.0 
+Louis_Theroux/wnaekEJ_nSs_0000010 229.5 238.0 
+Louis_Theroux/wnaekEJ_nSs_0000011 250.7 269.0 
+Louis_Theroux/wnaekEJ_nSs_0000012 275.5 281.3 
+Louis_Theroux/wnaekEJ_nSs_0000013 294.1 312.8 
+Louis_Theroux/wnaekEJ_nSs_0000014 338.5 348.8 
+Louis_Theroux/wnaekEJ_nSs_0000015 354.3 359.0 
+Louis_Theroux/wnaekEJ_nSs_0000016 365.1 374.5 
+Louis_Theroux/wnaekEJ_nSs_0000017 376.2 381.6 
+Louis_Theroux/wnaekEJ_nSs_0000018 470.5 479.3 
+Louis_Theroux/wnaekEJ_nSs_0000019 480.4 486.2 
+Louis_Theroux/wnaekEJ_nSs_0000020 489.8 503.8 
+Louis_Theroux/wnaekEJ_nSs_0000021 511.0 520.6 
+Louis_Theroux/wnaekEJ_nSs_0000022 521.6 525.8 
+Louis_Theroux/wnaekEJ_nSs_0000023 527.0 535.0 

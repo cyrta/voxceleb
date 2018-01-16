@@ -1,0 +1,10 @@
+POI: 			Charlie_Day 
+Youtube ID: 	gGYBZAvaf8c 
+Video length: 	1727.7 sec 
+Set (V): 		dev 
+ 
+Charlie_Day/gGYBZAvaf8c_0000001 1258.2 1262.2 
+Charlie_Day/gGYBZAvaf8c_0000002 1334.0 1342.0 
+Charlie_Day/gGYBZAvaf8c_0000003 1368.6 1374.5 
+Charlie_Day/gGYBZAvaf8c_0000004 1479.8 1485.2 
+Charlie_Day/gGYBZAvaf8c_0000005 1566.9 1571.2 

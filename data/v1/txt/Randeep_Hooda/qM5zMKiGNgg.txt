@@ -1,0 +1,11 @@
+POI: 			Randeep_Hooda 
+Youtube ID: 	qM5zMKiGNgg 
+Video length: 	412.6 sec 
+Set (V): 		dev 
+ 
+Randeep_Hooda/qM5zMKiGNgg_0000001 89.2 99.4 
+Randeep_Hooda/qM5zMKiGNgg_0000002 192.0 196.2 
+Randeep_Hooda/qM5zMKiGNgg_0000003 236.1 240.8 
+Randeep_Hooda/qM5zMKiGNgg_0000004 322.4 328.6 
+Randeep_Hooda/qM5zMKiGNgg_0000005 328.8 339.3 
+Randeep_Hooda/qM5zMKiGNgg_0000006 383.4 392.8 

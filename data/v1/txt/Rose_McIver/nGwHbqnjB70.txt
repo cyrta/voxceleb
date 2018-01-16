@@ -1,0 +1,15 @@
+POI: 			Rose_McIver 
+Youtube ID: 	nGwHbqnjB70 
+Video length: 	446.8 sec 
+Set (V): 		dev 
+ 
+Rose_McIver/nGwHbqnjB70_0000001 39.8 44.0 
+Rose_McIver/nGwHbqnjB70_0000002 63.9 68.3 
+Rose_McIver/nGwHbqnjB70_0000003 71.8 76.2 
+Rose_McIver/nGwHbqnjB70_0000004 68.6 76.2 
+Rose_McIver/nGwHbqnjB70_0000005 82.0 86.5 
+Rose_McIver/nGwHbqnjB70_0000006 150.2 154.2 
+Rose_McIver/nGwHbqnjB70_0000007 163.8 167.9 
+Rose_McIver/nGwHbqnjB70_0000008 235.1 241.1 
+Rose_McIver/nGwHbqnjB70_0000009 287.6 292.4 
+Rose_McIver/nGwHbqnjB70_0000010 295.5 301.5 

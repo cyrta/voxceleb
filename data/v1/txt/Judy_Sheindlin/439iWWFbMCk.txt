@@ -1,0 +1,12 @@
+POI: 			Judy_Sheindlin 
+Youtube ID: 	439iWWFbMCk 
+Video length: 	135.4 sec 
+Set (V): 		dev 
+ 
+Judy_Sheindlin/439iWWFbMCk_0000001 11.2 20.1 
+Judy_Sheindlin/439iWWFbMCk_0000002 21.5 30.7 
+Judy_Sheindlin/439iWWFbMCk_0000003 31.9 46.2 
+Judy_Sheindlin/439iWWFbMCk_0000004 53.2 65.2 
+Judy_Sheindlin/439iWWFbMCk_0000005 73.6 85.7 
+Judy_Sheindlin/439iWWFbMCk_0000006 95.4 114.2 
+Judy_Sheindlin/439iWWFbMCk_0000007 119.6 128.1 

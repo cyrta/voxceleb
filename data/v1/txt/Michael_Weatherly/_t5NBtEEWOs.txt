@@ -1,0 +1,8 @@
+POI: 			Michael_Weatherly 
+Youtube ID: 	_t5NBtEEWOs 
+Video length: 	104.0 sec 
+Set (V): 		dev 
+ 
+Michael_Weatherly/_t5NBtEEWOs_0000001 28.9 39.7 
+Michael_Weatherly/_t5NBtEEWOs_0000002 53.7 59.0 
+Michael_Weatherly/_t5NBtEEWOs_0000003 60.0 69.0 

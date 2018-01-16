@@ -1,0 +1,15 @@
+POI: 			Mena_Suvari 
+Youtube ID: 	snRvsrZk6fg 
+Video length: 	186.4 sec 
+Set (V): 		dev 
+ 
+Mena_Suvari/snRvsrZk6fg_0000001 04.3 12.8 
+Mena_Suvari/snRvsrZk6fg_0000002 24.8 35.4 
+Mena_Suvari/snRvsrZk6fg_0000003 35.8 40.9 
+Mena_Suvari/snRvsrZk6fg_0000004 42.9 51.8 
+Mena_Suvari/snRvsrZk6fg_0000005 104.9 109.2 
+Mena_Suvari/snRvsrZk6fg_0000006 110.4 117.2 
+Mena_Suvari/snRvsrZk6fg_0000007 122.9 138.5 
+Mena_Suvari/snRvsrZk6fg_0000008 145.9 150.2 
+Mena_Suvari/snRvsrZk6fg_0000009 152.4 156.8 
+Mena_Suvari/snRvsrZk6fg_0000010 164.7 170.4 

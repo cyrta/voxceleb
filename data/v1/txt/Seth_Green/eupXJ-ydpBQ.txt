@@ -1,0 +1,13 @@
+POI: 			Seth_Green 
+Youtube ID: 	eupXJ-ydpBQ 
+Video length: 	156.8 sec 
+Set (V): 		dev 
+ 
+Seth_Green/eupXJ-ydpBQ_0000001 14.5 21.0 
+Seth_Green/eupXJ-ydpBQ_0000002 21.3 28.8 
+Seth_Green/eupXJ-ydpBQ_0000003 35.7 45.2 
+Seth_Green/eupXJ-ydpBQ_0000004 52.0 57.4 
+Seth_Green/eupXJ-ydpBQ_0000005 58.6 71.3 
+Seth_Green/eupXJ-ydpBQ_0000006 77.7 104.2 
+Seth_Green/eupXJ-ydpBQ_0000007 113.3 128.6 
+Seth_Green/eupXJ-ydpBQ_0000008 130.4 136.8 

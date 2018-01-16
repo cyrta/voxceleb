@@ -1,0 +1,9 @@
+POI: 			Adam_Copeland 
+Youtube ID: 	NY8rvshKUzU 
+Video length: 	74.3 sec 
+Set (V): 		dev 
+ 
+Adam_Copeland/NY8rvshKUzU_0000001 07.7 27.4 
+Adam_Copeland/NY8rvshKUzU_0000002 28.1 34.7 
+Adam_Copeland/NY8rvshKUzU_0000003 34.8 52.7 
+Adam_Copeland/NY8rvshKUzU_0000004 61.4 70.1 

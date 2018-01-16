@@ -1,0 +1,14 @@
+POI: 			Garry_Marshall 
+Youtube ID: 	xfLlhLcNhBY 
+Video length: 	318.5 sec 
+Set (V): 		dev 
+ 
+Garry_Marshall/xfLlhLcNhBY_0000001 04.8 09.2 
+Garry_Marshall/xfLlhLcNhBY_0000002 09.8 15.8 
+Garry_Marshall/xfLlhLcNhBY_0000003 52.8 64.9 
+Garry_Marshall/xfLlhLcNhBY_0000004 93.8 98.9 
+Garry_Marshall/xfLlhLcNhBY_0000005 113.3 121.3 
+Garry_Marshall/xfLlhLcNhBY_0000006 138.8 143.2 
+Garry_Marshall/xfLlhLcNhBY_0000007 144.6 163.6 
+Garry_Marshall/xfLlhLcNhBY_0000008 183.7 188.3 
+Garry_Marshall/xfLlhLcNhBY_0000009 239.5 260.8 

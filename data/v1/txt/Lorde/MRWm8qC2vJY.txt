@@ -1,0 +1,10 @@
+POI: 			Lorde 
+Youtube ID: 	MRWm8qC2vJY 
+Video length: 	657.9 sec 
+Set (V): 		dev 
+ 
+Lorde/MRWm8qC2vJY_0000001 362.2 367.0 
+Lorde/MRWm8qC2vJY_0000002 468.4 472.6 
+Lorde/MRWm8qC2vJY_0000003 564.4 568.8 
+Lorde/MRWm8qC2vJY_0000004 600.6 606.1 
+Lorde/MRWm8qC2vJY_0000005 640.1 645.7 

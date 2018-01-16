@@ -1,0 +1,38 @@
+POI: 			Rene_Auberjonois 
+Youtube ID: 	ciuTCqJkgT0 
+Video length: 	2145.6 sec 
+Set (V): 		dev 
+ 
+Rene_Auberjonois/ciuTCqJkgT0_0000001 168.0 173.3 
+Rene_Auberjonois/ciuTCqJkgT0_0000002 186.0 191.1 
+Rene_Auberjonois/ciuTCqJkgT0_0000003 287.0 292.6 
+Rene_Auberjonois/ciuTCqJkgT0_0000004 466.3 473.4 
+Rene_Auberjonois/ciuTCqJkgT0_0000005 647.4 655.6 
+Rene_Auberjonois/ciuTCqJkgT0_0000006 668.5 675.9 
+Rene_Auberjonois/ciuTCqJkgT0_0000007 737.0 751.5 
+Rene_Auberjonois/ciuTCqJkgT0_0000008 752.4 758.9 
+Rene_Auberjonois/ciuTCqJkgT0_0000009 849.8 854.5 
+Rene_Auberjonois/ciuTCqJkgT0_0000010 1094.6 1100.6 
+Rene_Auberjonois/ciuTCqJkgT0_0000011 1176.8 1182.7 
+Rene_Auberjonois/ciuTCqJkgT0_0000012 1183.2 1189.2 
+Rene_Auberjonois/ciuTCqJkgT0_0000013 1199.6 1204.1 
+Rene_Auberjonois/ciuTCqJkgT0_0000014 1224.0 1233.0 
+Rene_Auberjonois/ciuTCqJkgT0_0000015 1235.2 1239.4 
+Rene_Auberjonois/ciuTCqJkgT0_0000016 1251.3 1257.4 
+Rene_Auberjonois/ciuTCqJkgT0_0000017 1265.4 1269.9 
+Rene_Auberjonois/ciuTCqJkgT0_0000018 1306.3 1313.6 
+Rene_Auberjonois/ciuTCqJkgT0_0000019 1320.2 1325.4 
+Rene_Auberjonois/ciuTCqJkgT0_0000020 1460.2 1464.4 
+Rene_Auberjonois/ciuTCqJkgT0_0000021 1511.1 1517.4 
+Rene_Auberjonois/ciuTCqJkgT0_0000022 1681.3 1691.0 
+Rene_Auberjonois/ciuTCqJkgT0_0000023 1769.4 1773.6 
+Rene_Auberjonois/ciuTCqJkgT0_0000024 1781.6 1785.8 
+Rene_Auberjonois/ciuTCqJkgT0_0000025 1807.3 1811.7 
+Rene_Auberjonois/ciuTCqJkgT0_0000026 1818.0 1823.0 
+Rene_Auberjonois/ciuTCqJkgT0_0000027 1859.9 1864.0 
+Rene_Auberjonois/ciuTCqJkgT0_0000028 1869.2 1873.5 
+Rene_Auberjonois/ciuTCqJkgT0_0000029 1881.5 1887.4 
+Rene_Auberjonois/ciuTCqJkgT0_0000030 1897.1 1901.4 
+Rene_Auberjonois/ciuTCqJkgT0_0000031 1946.2 1954.3 
+Rene_Auberjonois/ciuTCqJkgT0_0000032 1967.8 1972.4 
+Rene_Auberjonois/ciuTCqJkgT0_0000033 2028.4 2034.2 

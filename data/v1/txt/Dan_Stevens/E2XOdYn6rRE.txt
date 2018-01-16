@@ -1,0 +1,7 @@
+POI: 			Dan_Stevens 
+Youtube ID: 	E2XOdYn6rRE 
+Video length: 	92.8 sec 
+Set (V): 		dev 
+ 
+Dan_Stevens/E2XOdYn6rRE_0000001 06.1 18.3 
+Dan_Stevens/E2XOdYn6rRE_0000002 59.1 69.6 

@@ -1,0 +1,9 @@
+POI: 			Max_Irons 
+Youtube ID: 	7nRRPPR6XlY 
+Video length: 	702.4 sec 
+Set (V): 		dev 
+ 
+Max_Irons/7nRRPPR6XlY_0000001 130.1 137.3 
+Max_Irons/7nRRPPR6XlY_0000002 621.9 628.7 
+Max_Irons/7nRRPPR6XlY_0000003 636.8 641.6 
+Max_Irons/7nRRPPR6XlY_0000004 667.8 672.4 

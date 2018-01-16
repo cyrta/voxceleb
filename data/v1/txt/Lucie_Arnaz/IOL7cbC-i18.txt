@@ -1,0 +1,23 @@
+POI: 			Lucie_Arnaz 
+Youtube ID: 	IOL7cbC-i18 
+Video length: 	289.0 sec 
+Set (V): 		dev 
+ 
+Lucie_Arnaz/IOL7cbC-i18_0000001 02.3 10.7 
+Lucie_Arnaz/IOL7cbC-i18_0000002 16.4 31.2 
+Lucie_Arnaz/IOL7cbC-i18_0000003 06.7 10.8 
+Lucie_Arnaz/IOL7cbC-i18_0000004 16.4 31.2 
+Lucie_Arnaz/IOL7cbC-i18_0000005 37.9 59.0 
+Lucie_Arnaz/IOL7cbC-i18_0000006 61.0 68.3 
+Lucie_Arnaz/IOL7cbC-i18_0000007 71.3 92.2 
+Lucie_Arnaz/IOL7cbC-i18_0000008 98.9 105.9 
+Lucie_Arnaz/IOL7cbC-i18_0000009 106.6 117.1 
+Lucie_Arnaz/IOL7cbC-i18_0000010 120.1 124.4 
+Lucie_Arnaz/IOL7cbC-i18_0000011 131.2 136.6 
+Lucie_Arnaz/IOL7cbC-i18_0000012 137.6 146.2 
+Lucie_Arnaz/IOL7cbC-i18_0000013 148.8 153.8 
+Lucie_Arnaz/IOL7cbC-i18_0000014 169.6 176.8 
+Lucie_Arnaz/IOL7cbC-i18_0000015 180.2 191.0 
+Lucie_Arnaz/IOL7cbC-i18_0000016 191.8 198.3 
+Lucie_Arnaz/IOL7cbC-i18_0000017 200.9 217.3 
+Lucie_Arnaz/IOL7cbC-i18_0000018 217.6 229.8 

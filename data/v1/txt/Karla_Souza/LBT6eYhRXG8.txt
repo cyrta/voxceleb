@@ -1,0 +1,14 @@
+POI: 			Karla_Souza 
+Youtube ID: 	LBT6eYhRXG8 
+Video length: 	385.5 sec 
+Set (V): 		dev 
+ 
+Karla_Souza/LBT6eYhRXG8_0000001 74.2 84.5 
+Karla_Souza/LBT6eYhRXG8_0000002 131.7 136.3 
+Karla_Souza/LBT6eYhRXG8_0000003 137.0 142.9 
+Karla_Souza/LBT6eYhRXG8_0000004 202.0 214.5 
+Karla_Souza/LBT6eYhRXG8_0000005 244.8 251.4 
+Karla_Souza/LBT6eYhRXG8_0000006 269.2 273.8 
+Karla_Souza/LBT6eYhRXG8_0000007 289.6 306.7 
+Karla_Souza/LBT6eYhRXG8_0000008 327.8 334.4 
+Karla_Souza/LBT6eYhRXG8_0000009 349.6 357.0 

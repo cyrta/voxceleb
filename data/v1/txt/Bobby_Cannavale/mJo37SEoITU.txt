@@ -1,0 +1,12 @@
+POI: 			Bobby_Cannavale 
+Youtube ID: 	mJo37SEoITU 
+Video length: 	186.1 sec 
+Set (V): 		dev 
+ 
+Bobby_Cannavale/mJo37SEoITU_0000001 07.6 23.9 
+Bobby_Cannavale/mJo37SEoITU_0000002 24.2 34.4 
+Bobby_Cannavale/mJo37SEoITU_0000003 52.8 58.9 
+Bobby_Cannavale/mJo37SEoITU_0000004 71.2 77.1 
+Bobby_Cannavale/mJo37SEoITU_0000005 81.0 94.0 
+Bobby_Cannavale/mJo37SEoITU_0000006 101.1 113.8 
+Bobby_Cannavale/mJo37SEoITU_0000007 161.1 167.9 

@@ -1,0 +1,16 @@
+POI: 			Selma_Blair 
+Youtube ID: 	xfiZv0N3wvY 
+Video length: 	146.8 sec 
+Set (V): 		dev 
+ 
+Selma_Blair/xfiZv0N3wvY_0000001 03.3 07.6 
+Selma_Blair/xfiZv0N3wvY_0000002 08.7 12.8 
+Selma_Blair/xfiZv0N3wvY_0000003 23.2 29.8 
+Selma_Blair/xfiZv0N3wvY_0000004 30.6 37.3 
+Selma_Blair/xfiZv0N3wvY_0000005 40.0 44.1 
+Selma_Blair/xfiZv0N3wvY_0000006 49.7 55.0 
+Selma_Blair/xfiZv0N3wvY_0000007 56.3 63.0 
+Selma_Blair/xfiZv0N3wvY_0000008 89.4 93.5 
+Selma_Blair/xfiZv0N3wvY_0000009 96.6 106.2 
+Selma_Blair/xfiZv0N3wvY_0000010 107.9 115.7 
+Selma_Blair/xfiZv0N3wvY_0000011 115.9 123.3 

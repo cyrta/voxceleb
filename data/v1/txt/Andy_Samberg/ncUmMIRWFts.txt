@@ -1,0 +1,14 @@
+POI: 			Andy_Samberg 
+Youtube ID: 	ncUmMIRWFts 
+Video length: 	2440.5 sec 
+Set (V): 		dev 
+ 
+Andy_Samberg/ncUmMIRWFts_0000001 1189.1 1194.4 
+Andy_Samberg/ncUmMIRWFts_0000002 1204.0 1212.1 
+Andy_Samberg/ncUmMIRWFts_0000003 1307.9 1328.8 
+Andy_Samberg/ncUmMIRWFts_0000004 1349.8 1354.8 
+Andy_Samberg/ncUmMIRWFts_0000005 1355.0 1361.1 
+Andy_Samberg/ncUmMIRWFts_0000006 1429.6 1440.9 
+Andy_Samberg/ncUmMIRWFts_0000007 1480.5 1494.6 
+Andy_Samberg/ncUmMIRWFts_0000008 1496.4 1504.0 
+Andy_Samberg/ncUmMIRWFts_0000009 1528.6 1536.6 

@@ -1,0 +1,11 @@
+POI: 			Dan_Aykroyd 
+Youtube ID: 	2y595vd981Y 
+Video length: 	475.9 sec 
+Set (V): 		dev 
+ 
+Dan_Aykroyd/2y595vd981Y_0000001 125.4 135.0 
+Dan_Aykroyd/2y595vd981Y_0000002 147.1 151.1 
+Dan_Aykroyd/2y595vd981Y_0000003 259.0 265.4 
+Dan_Aykroyd/2y595vd981Y_0000004 312.6 319.7 
+Dan_Aykroyd/2y595vd981Y_0000005 355.2 360.6 
+Dan_Aykroyd/2y595vd981Y_0000006 446.4 453.3 

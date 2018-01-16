@@ -1,0 +1,8 @@
+POI: 			Jack_Reynor 
+Youtube ID: 	aFAzE5ucyOU 
+Video length: 	238.2 sec 
+Set (V): 		dev 
+ 
+Jack_Reynor/aFAzE5ucyOU_0000001 51.5 55.6 
+Jack_Reynor/aFAzE5ucyOU_0000002 67.0 71.1 
+Jack_Reynor/aFAzE5ucyOU_0000003 192.9 197.5 

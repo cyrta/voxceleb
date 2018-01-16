@@ -1,0 +1,8 @@
+POI: 			Dakota_Fanning 
+Youtube ID: 	attCahalLEM 
+Video length: 	189.5 sec 
+Set (V): 		dev 
+ 
+Dakota_Fanning/attCahalLEM_0000001 139.9 144.6 
+Dakota_Fanning/attCahalLEM_0000002 145.8 160.3 
+Dakota_Fanning/attCahalLEM_0000003 162.5 183.2 

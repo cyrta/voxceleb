@@ -1,0 +1,9 @@
+POI: 			Bruno_Mars 
+Youtube ID: 	uCFJ-JJ1Rrc 
+Video length: 	407.6 sec 
+Set (V): 		dev 
+ 
+Bruno_Mars/uCFJ-JJ1Rrc_0000001 116.9 128.6 
+Bruno_Mars/uCFJ-JJ1Rrc_0000002 248.4 257.8 
+Bruno_Mars/uCFJ-JJ1Rrc_0000003 304.7 309.4 
+Bruno_Mars/uCFJ-JJ1Rrc_0000004 341.4 345.6 

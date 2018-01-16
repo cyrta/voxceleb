@@ -1,0 +1,7 @@
+POI: 			Tim_Daly 
+Youtube ID: 	cZgn68fIww0 
+Video length: 	235.0 sec 
+Set (V): 		dev 
+ 
+Tim_Daly/cZgn68fIww0_0000001 89.5 96.1 
+Tim_Daly/cZgn68fIww0_0000002 100.7 106.4 

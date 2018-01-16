@@ -1,0 +1,11 @@
+POI: 			Dean_Cain 
+Youtube ID: 	kmLUiUGMXzE 
+Video length: 	268.7 sec 
+Set (V): 		dev 
+ 
+Dean_Cain/kmLUiUGMXzE_0000001 85.3 98.4 
+Dean_Cain/kmLUiUGMXzE_0000002 105.8 117.0 
+Dean_Cain/kmLUiUGMXzE_0000003 132.7 137.4 
+Dean_Cain/kmLUiUGMXzE_0000004 149.5 155.4 
+Dean_Cain/kmLUiUGMXzE_0000005 185.4 191.0 
+Dean_Cain/kmLUiUGMXzE_0000006 207.1 216.6 

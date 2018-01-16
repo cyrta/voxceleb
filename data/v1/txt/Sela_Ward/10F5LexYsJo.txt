@@ -1,0 +1,13 @@
+POI: 			Sela_Ward 
+Youtube ID: 	10F5LexYsJo 
+Video length: 	243.1 sec 
+Set (V): 		dev 
+ 
+Sela_Ward/10F5LexYsJo_0000001 28.0 39.7 
+Sela_Ward/10F5LexYsJo_0000002 55.1 61.6 
+Sela_Ward/10F5LexYsJo_0000003 83.4 89.5 
+Sela_Ward/10F5LexYsJo_0000004 113.8 125.5 
+Sela_Ward/10F5LexYsJo_0000005 143.8 151.1 
+Sela_Ward/10F5LexYsJo_0000006 157.2 163.3 
+Sela_Ward/10F5LexYsJo_0000007 214.4 222.4 
+Sela_Ward/10F5LexYsJo_0000008 231.8 238.4 

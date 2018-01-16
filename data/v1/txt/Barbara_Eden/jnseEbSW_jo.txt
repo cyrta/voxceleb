@@ -1,0 +1,8 @@
+POI: 			Barbara_Eden 
+Youtube ID: 	jnseEbSW_jo 
+Video length: 	445.8 sec 
+Set (V): 		dev 
+ 
+Barbara_Eden/jnseEbSW_jo_0000001 61.2 65.9 
+Barbara_Eden/jnseEbSW_jo_0000002 180.6 185.3 
+Barbara_Eden/jnseEbSW_jo_0000003 297.4 301.6 

@@ -1,0 +1,7 @@
+POI: 			Tye_Sheridan 
+Youtube ID: 	jewwEdT5V0Y 
+Video length: 	617.7 sec 
+Set (V): 		dev 
+ 
+Tye_Sheridan/jewwEdT5V0Y_0000001 177.5 184.0 
+Tye_Sheridan/jewwEdT5V0Y_0000002 184.8 189.9 

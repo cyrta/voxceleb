@@ -1,0 +1,7 @@
+POI: 			Paul_Reubens 
+Youtube ID: 	qzJNxlBkO7E 
+Video length: 	230.5 sec 
+Set (V): 		dev 
+ 
+Paul_Reubens/qzJNxlBkO7E_0000001 70.8 76.4 
+Paul_Reubens/qzJNxlBkO7E_0000002 146.0 156.8 

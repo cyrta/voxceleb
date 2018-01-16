@@ -1,0 +1,7 @@
+POI: 			Andrea_Riseborough 
+Youtube ID: 	Hh5kF22DUAg 
+Video length: 	256.1 sec 
+Set (V): 		dev 
+ 
+Andrea_Riseborough/Hh5kF22DUAg_0000001 47.5 51.6 
+Andrea_Riseborough/Hh5kF22DUAg_0000002 52.7 58.0 

@@ -1,0 +1,9 @@
+POI: 			Amitabh_Bachchan 
+Youtube ID: 	wUVMEE3Y32A 
+Video length: 	322.7 sec 
+Set (V): 		dev 
+ 
+Amitabh_Bachchan/wUVMEE3Y32A_0000001 80.2 89.2 
+Amitabh_Bachchan/wUVMEE3Y32A_0000002 217.1 223.1 
+Amitabh_Bachchan/wUVMEE3Y32A_0000003 261.6 266.4 
+Amitabh_Bachchan/wUVMEE3Y32A_0000004 278.9 286.3 

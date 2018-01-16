@@ -1,0 +1,7 @@
+POI: 			Cory_Monteith 
+Youtube ID: 	cyr2RlVuDVY 
+Video length: 	545.9 sec 
+Set (V): 		dev 
+ 
+Cory_Monteith/cyr2RlVuDVY_0000001 189.8 194.6 
+Cory_Monteith/cyr2RlVuDVY_0000002 220.1 228.8 

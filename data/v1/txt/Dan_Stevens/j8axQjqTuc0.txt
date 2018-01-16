@@ -1,0 +1,10 @@
+POI: 			Dan_Stevens 
+Youtube ID: 	j8axQjqTuc0 
+Video length: 	275.3 sec 
+Set (V): 		dev 
+ 
+Dan_Stevens/j8axQjqTuc0_0000001 67.7 81.6 
+Dan_Stevens/j8axQjqTuc0_0000002 130.4 139.5 
+Dan_Stevens/j8axQjqTuc0_0000003 140.7 147.9 
+Dan_Stevens/j8axQjqTuc0_0000004 161.5 171.7 
+Dan_Stevens/j8axQjqTuc0_0000005 249.3 262.9 

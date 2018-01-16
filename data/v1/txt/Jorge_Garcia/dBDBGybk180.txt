@@ -1,0 +1,20 @@
+POI: 			Jorge_Garcia 
+Youtube ID: 	dBDBGybk180 
+Video length: 	378.0 sec 
+Set (V): 		dev 
+ 
+Jorge_Garcia/dBDBGybk180_0000001 60.0 67.9 
+Jorge_Garcia/dBDBGybk180_0000002 82.1 87.3 
+Jorge_Garcia/dBDBGybk180_0000003 94.8 100.9 
+Jorge_Garcia/dBDBGybk180_0000004 115.2 119.7 
+Jorge_Garcia/dBDBGybk180_0000005 171.2 177.4 
+Jorge_Garcia/dBDBGybk180_0000006 189.5 197.8 
+Jorge_Garcia/dBDBGybk180_0000007 212.0 216.0 
+Jorge_Garcia/dBDBGybk180_0000008 234.5 239.1 
+Jorge_Garcia/dBDBGybk180_0000009 240.0 245.9 
+Jorge_Garcia/dBDBGybk180_0000010 255.5 259.8 
+Jorge_Garcia/dBDBGybk180_0000011 261.6 266.7 
+Jorge_Garcia/dBDBGybk180_0000012 299.9 307.2 
+Jorge_Garcia/dBDBGybk180_0000013 322.0 327.1 
+Jorge_Garcia/dBDBGybk180_0000014 333.4 343.7 
+Jorge_Garcia/dBDBGybk180_0000015 345.4 354.1 

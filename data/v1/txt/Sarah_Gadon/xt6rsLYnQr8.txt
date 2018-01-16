@@ -1,0 +1,23 @@
+POI: 			Sarah_Gadon 
+Youtube ID: 	xt6rsLYnQr8 
+Video length: 	325.6 sec 
+Set (V): 		dev 
+ 
+Sarah_Gadon/xt6rsLYnQr8_0000001 10.6 14.7 
+Sarah_Gadon/xt6rsLYnQr8_0000002 15.6 34.2 
+Sarah_Gadon/xt6rsLYnQr8_0000003 39.3 44.6 
+Sarah_Gadon/xt6rsLYnQr8_0000004 51.2 72.7 
+Sarah_Gadon/xt6rsLYnQr8_0000005 73.7 77.8 
+Sarah_Gadon/xt6rsLYnQr8_0000006 80.2 97.8 
+Sarah_Gadon/xt6rsLYnQr8_0000007 104.9 118.2 
+Sarah_Gadon/xt6rsLYnQr8_0000008 118.6 128.0 
+Sarah_Gadon/xt6rsLYnQr8_0000009 132.0 136.7 
+Sarah_Gadon/xt6rsLYnQr8_0000010 156.7 164.0 
+Sarah_Gadon/xt6rsLYnQr8_0000011 165.8 171.5 
+Sarah_Gadon/xt6rsLYnQr8_0000012 173.0 177.7 
+Sarah_Gadon/xt6rsLYnQr8_0000013 178.2 193.1 
+Sarah_Gadon/xt6rsLYnQr8_0000014 207.5 230.1 
+Sarah_Gadon/xt6rsLYnQr8_0000015 235.3 241.5 
+Sarah_Gadon/xt6rsLYnQr8_0000016 249.8 265.2 
+Sarah_Gadon/xt6rsLYnQr8_0000017 267.0 278.9 
+Sarah_Gadon/xt6rsLYnQr8_0000018 293.8 309.2 

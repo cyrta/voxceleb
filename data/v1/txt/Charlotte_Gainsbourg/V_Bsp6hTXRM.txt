@@ -1,0 +1,6 @@
+POI: 			Charlotte_Gainsbourg 
+Youtube ID: 	V_Bsp6hTXRM 
+Video length: 	580.0 sec 
+Set (V): 		dev 
+ 
+Charlotte_Gainsbourg/V_Bsp6hTXRM_0000001 250.2 255.3 

@@ -1,0 +1,7 @@
+POI: 			Jonathan_Jackson 
+Youtube ID: 	UUztrYUyHLI 
+Video length: 	151.7 sec 
+Set (V): 		dev 
+ 
+Jonathan_Jackson/UUztrYUyHLI_0000001 52.2 56.4 
+Jonathan_Jackson/UUztrYUyHLI_0000002 80.1 87.5 

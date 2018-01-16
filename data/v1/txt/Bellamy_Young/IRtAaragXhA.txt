@@ -1,0 +1,9 @@
+POI: 			Bellamy_Young 
+Youtube ID: 	IRtAaragXhA 
+Video length: 	599.9 sec 
+Set (V): 		dev 
+ 
+Bellamy_Young/IRtAaragXhA_0000001 239.2 243.2 
+Bellamy_Young/IRtAaragXhA_0000002 267.4 273.0 
+Bellamy_Young/IRtAaragXhA_0000003 377.5 381.4 
+Bellamy_Young/IRtAaragXhA_0000004 519.6 524.1 

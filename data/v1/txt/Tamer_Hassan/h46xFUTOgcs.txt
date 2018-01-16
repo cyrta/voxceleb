@@ -1,0 +1,12 @@
+POI: 			Tamer_Hassan 
+Youtube ID: 	h46xFUTOgcs 
+Video length: 	199.9 sec 
+Set (V): 		dev 
+ 
+Tamer_Hassan/h46xFUTOgcs_0000001 17.7 32.6 
+Tamer_Hassan/h46xFUTOgcs_0000002 44.9 48.9 
+Tamer_Hassan/h46xFUTOgcs_0000003 50.6 55.7 
+Tamer_Hassan/h46xFUTOgcs_0000004 68.4 76.6 
+Tamer_Hassan/h46xFUTOgcs_0000005 95.8 100.8 
+Tamer_Hassan/h46xFUTOgcs_0000006 104.4 114.4 
+Tamer_Hassan/h46xFUTOgcs_0000007 135.5 152.0 

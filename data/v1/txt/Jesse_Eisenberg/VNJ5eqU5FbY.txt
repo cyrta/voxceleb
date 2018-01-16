@@ -1,0 +1,30 @@
+POI: 			Jesse_Eisenberg 
+Youtube ID: 	VNJ5eqU5FbY 
+Video length: 	837.4 sec 
+Set (V): 		dev 
+ 
+Jesse_Eisenberg/VNJ5eqU5FbY_0000001 39.0 45.1 
+Jesse_Eisenberg/VNJ5eqU5FbY_0000002 77.2 83.5 
+Jesse_Eisenberg/VNJ5eqU5FbY_0000003 106.5 119.5 
+Jesse_Eisenberg/VNJ5eqU5FbY_0000004 125.6 130.6 
+Jesse_Eisenberg/VNJ5eqU5FbY_0000005 161.4 171.2 
+Jesse_Eisenberg/VNJ5eqU5FbY_0000006 172.0 176.7 
+Jesse_Eisenberg/VNJ5eqU5FbY_0000007 168.9 179.7 
+Jesse_Eisenberg/VNJ5eqU5FbY_0000008 215.2 221.2 
+Jesse_Eisenberg/VNJ5eqU5FbY_0000009 240.0 245.9 
+Jesse_Eisenberg/VNJ5eqU5FbY_0000010 257.7 270.4 
+Jesse_Eisenberg/VNJ5eqU5FbY_0000011 296.3 303.8 
+Jesse_Eisenberg/VNJ5eqU5FbY_0000012 306.8 311.4 
+Jesse_Eisenberg/VNJ5eqU5FbY_0000013 330.2 334.4 
+Jesse_Eisenberg/VNJ5eqU5FbY_0000014 337.8 345.0 
+Jesse_Eisenberg/VNJ5eqU5FbY_0000015 360.1 373.4 
+Jesse_Eisenberg/VNJ5eqU5FbY_0000016 405.7 416.6 
+Jesse_Eisenberg/VNJ5eqU5FbY_0000017 428.9 441.2 
+Jesse_Eisenberg/VNJ5eqU5FbY_0000018 465.7 473.5 
+Jesse_Eisenberg/VNJ5eqU5FbY_0000019 492.9 497.9 
+Jesse_Eisenberg/VNJ5eqU5FbY_0000020 522.5 526.8 
+Jesse_Eisenberg/VNJ5eqU5FbY_0000021 657.0 661.4 
+Jesse_Eisenberg/VNJ5eqU5FbY_0000022 744.8 751.6 
+Jesse_Eisenberg/VNJ5eqU5FbY_0000023 752.6 759.7 
+Jesse_Eisenberg/VNJ5eqU5FbY_0000024 773.2 785.3 
+Jesse_Eisenberg/VNJ5eqU5FbY_0000025 822.8 827.5 

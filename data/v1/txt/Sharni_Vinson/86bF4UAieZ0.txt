@@ -1,0 +1,24 @@
+POI: 			Sharni_Vinson 
+Youtube ID: 	86bF4UAieZ0 
+Video length: 	485.0 sec 
+Set (V): 		dev 
+ 
+Sharni_Vinson/86bF4UAieZ0_0000001 13.0 43.0 
+Sharni_Vinson/86bF4UAieZ0_0000002 45.4 52.5 
+Sharni_Vinson/86bF4UAieZ0_0000003 54.6 64.6 
+Sharni_Vinson/86bF4UAieZ0_0000004 70.5 76.3 
+Sharni_Vinson/86bF4UAieZ0_0000005 107.8 114.3 
+Sharni_Vinson/86bF4UAieZ0_0000006 118.0 122.8 
+Sharni_Vinson/86bF4UAieZ0_0000007 148.2 167.2 
+Sharni_Vinson/86bF4UAieZ0_0000008 178.5 194.0 
+Sharni_Vinson/86bF4UAieZ0_0000009 194.5 202.4 
+Sharni_Vinson/86bF4UAieZ0_0000010 197.7 205.8 
+Sharni_Vinson/86bF4UAieZ0_0000011 209.5 218.5 
+Sharni_Vinson/86bF4UAieZ0_0000012 236.6 240.6 
+Sharni_Vinson/86bF4UAieZ0_0000013 242.4 273.6 
+Sharni_Vinson/86bF4UAieZ0_0000014 296.9 303.0 
+Sharni_Vinson/86bF4UAieZ0_0000015 367.8 372.8 
+Sharni_Vinson/86bF4UAieZ0_0000016 377.8 385.9 
+Sharni_Vinson/86bF4UAieZ0_0000017 435.5 439.6 
+Sharni_Vinson/86bF4UAieZ0_0000018 444.0 448.4 
+Sharni_Vinson/86bF4UAieZ0_0000019 454.2 461.9 

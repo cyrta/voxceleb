@@ -1,0 +1,8 @@
+POI: 			Sean_Connery 
+Youtube ID: 	qQCi5-78tIs 
+Video length: 	282.5 sec 
+Set (V): 		dev 
+ 
+Sean_Connery/qQCi5-78tIs_0000001 03.6 07.8 
+Sean_Connery/qQCi5-78tIs_0000002 49.0 54.3 
+Sean_Connery/qQCi5-78tIs_0000003 205.1 209.8 

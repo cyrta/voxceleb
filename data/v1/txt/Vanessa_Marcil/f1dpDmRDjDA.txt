@@ -1,0 +1,10 @@
+POI: 			Vanessa_Marcil 
+Youtube ID: 	f1dpDmRDjDA 
+Video length: 	623.0 sec 
+Set (V): 		dev 
+ 
+Vanessa_Marcil/f1dpDmRDjDA_0000001 44.0 48.8 
+Vanessa_Marcil/f1dpDmRDjDA_0000002 169.6 174.1 
+Vanessa_Marcil/f1dpDmRDjDA_0000003 198.3 203.6 
+Vanessa_Marcil/f1dpDmRDjDA_0000004 399.1 403.2 
+Vanessa_Marcil/f1dpDmRDjDA_0000005 503.4 508.2 

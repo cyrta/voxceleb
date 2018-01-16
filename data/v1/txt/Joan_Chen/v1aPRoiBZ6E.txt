@@ -1,0 +1,17 @@
+POI: 			Joan_Chen 
+Youtube ID: 	v1aPRoiBZ6E 
+Video length: 	291.7 sec 
+Set (V): 		dev 
+ 
+Joan_Chen/v1aPRoiBZ6E_0000001 14.2 20.0 
+Joan_Chen/v1aPRoiBZ6E_0000002 54.9 66.0 
+Joan_Chen/v1aPRoiBZ6E_0000003 72.6 77.2 
+Joan_Chen/v1aPRoiBZ6E_0000004 188.2 193.2 
+Joan_Chen/v1aPRoiBZ6E_0000005 193.5 197.5 
+Joan_Chen/v1aPRoiBZ6E_0000006 209.4 216.0 
+Joan_Chen/v1aPRoiBZ6E_0000007 221.5 226.8 
+Joan_Chen/v1aPRoiBZ6E_0000008 230.9 248.9 
+Joan_Chen/v1aPRoiBZ6E_0000009 251.4 258.9 
+Joan_Chen/v1aPRoiBZ6E_0000010 261.8 267.3 
+Joan_Chen/v1aPRoiBZ6E_0000011 268.0 272.4 
+Joan_Chen/v1aPRoiBZ6E_0000012 275.3 281.7 

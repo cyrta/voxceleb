@@ -1,0 +1,16 @@
+POI: 			Natalie_Martinez 
+Youtube ID: 	p4X5vKRsRME 
+Video length: 	298.0 sec 
+Set (V): 		dev 
+ 
+Natalie_Martinez/p4X5vKRsRME_0000001 18.8 23.2 
+Natalie_Martinez/p4X5vKRsRME_0000002 50.5 55.7 
+Natalie_Martinez/p4X5vKRsRME_0000003 65.2 73.8 
+Natalie_Martinez/p4X5vKRsRME_0000004 83.1 87.6 
+Natalie_Martinez/p4X5vKRsRME_0000005 89.8 93.8 
+Natalie_Martinez/p4X5vKRsRME_0000006 114.2 123.8 
+Natalie_Martinez/p4X5vKRsRME_0000007 131.3 137.5 
+Natalie_Martinez/p4X5vKRsRME_0000008 142.2 151.6 
+Natalie_Martinez/p4X5vKRsRME_0000009 154.7 160.6 
+Natalie_Martinez/p4X5vKRsRME_0000010 203.3 226.6 
+Natalie_Martinez/p4X5vKRsRME_0000011 216.3 226.5 

@@ -1,0 +1,8 @@
+POI: 			Mary_Lynn_Rajskub 
+Youtube ID: 	qVbC56wL3A0 
+Video length: 	529.2 sec 
+Set (V): 		dev 
+ 
+Mary_Lynn_Rajskub/qVbC56wL3A0_0000001 329.9 335.6 
+Mary_Lynn_Rajskub/qVbC56wL3A0_0000002 400.2 404.6 
+Mary_Lynn_Rajskub/qVbC56wL3A0_0000003 409.7 414.1 

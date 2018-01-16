@@ -1,0 +1,8 @@
+POI: 			Max_Adler 
+Youtube ID: 	Ylc_CDOJ3XI 
+Video length: 	70.5 sec 
+Set (V): 		dev 
+ 
+Max_Adler/Ylc_CDOJ3XI_0000001 15.6 25.0 
+Max_Adler/Ylc_CDOJ3XI_0000002 28.0 33.1 
+Max_Adler/Ylc_CDOJ3XI_0000003 53.8 61.0 

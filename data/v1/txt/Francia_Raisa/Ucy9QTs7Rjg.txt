@@ -1,0 +1,11 @@
+POI: 			Francia_Raisa 
+Youtube ID: 	Ucy9QTs7Rjg 
+Video length: 	210.3 sec 
+Set (V): 		dev 
+ 
+Francia_Raisa/Ucy9QTs7Rjg_0000001 104.8 112.1 
+Francia_Raisa/Ucy9QTs7Rjg_0000002 121.8 130.0 
+Francia_Raisa/Ucy9QTs7Rjg_0000003 137.2 143.4 
+Francia_Raisa/Ucy9QTs7Rjg_0000004 159.6 168.2 
+Francia_Raisa/Ucy9QTs7Rjg_0000005 179.5 185.6 
+Francia_Raisa/Ucy9QTs7Rjg_0000006 190.2 197.1 

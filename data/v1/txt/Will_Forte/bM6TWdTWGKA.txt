@@ -1,0 +1,7 @@
+POI: 			Will_Forte 
+Youtube ID: 	bM6TWdTWGKA 
+Video length: 	114.3 sec 
+Set (V): 		dev 
+ 
+Will_Forte/bM6TWdTWGKA_0000001 30.0 35.1 
+Will_Forte/bM6TWdTWGKA_0000002 38.6 44.8 

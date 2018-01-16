@@ -1,0 +1,11 @@
+POI: 			David_Tennant 
+Youtube ID: 	5fVmykoT2Fs 
+Video length: 	233.6 sec 
+Set (V): 		dev 
+ 
+David_Tennant/5fVmykoT2Fs_0000001 10.5 18.5 
+David_Tennant/5fVmykoT2Fs_0000002 30.4 36.4 
+David_Tennant/5fVmykoT2Fs_0000003 43.8 52.5 
+David_Tennant/5fVmykoT2Fs_0000004 63.5 71.0 
+David_Tennant/5fVmykoT2Fs_0000005 74.2 79.4 
+David_Tennant/5fVmykoT2Fs_0000006 177.7 194.4 

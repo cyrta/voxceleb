@@ -1,0 +1,24 @@
+POI: 			John_Terry 
+Youtube ID: 	W-rNWlmxFx4 
+Video length: 	754.2 sec 
+Set (V): 		dev 
+ 
+John_Terry/W-rNWlmxFx4_0000001 15.4 22.2 
+John_Terry/W-rNWlmxFx4_0000002 158.9 163.3 
+John_Terry/W-rNWlmxFx4_0000003 188.6 192.7 
+John_Terry/W-rNWlmxFx4_0000004 223.0 227.3 
+John_Terry/W-rNWlmxFx4_0000005 352.6 358.2 
+John_Terry/W-rNWlmxFx4_0000006 384.1 400.1 
+John_Terry/W-rNWlmxFx4_0000007 408.9 419.8 
+John_Terry/W-rNWlmxFx4_0000008 439.2 444.2 
+John_Terry/W-rNWlmxFx4_0000009 448.6 453.3 
+John_Terry/W-rNWlmxFx4_0000010 483.3 488.5 
+John_Terry/W-rNWlmxFx4_0000011 491.0 496.2 
+John_Terry/W-rNWlmxFx4_0000012 497.3 501.4 
+John_Terry/W-rNWlmxFx4_0000013 509.1 517.6 
+John_Terry/W-rNWlmxFx4_0000014 612.7 622.4 
+John_Terry/W-rNWlmxFx4_0000015 622.5 629.0 
+John_Terry/W-rNWlmxFx4_0000016 677.4 682.8 
+John_Terry/W-rNWlmxFx4_0000017 685.7 690.3 
+John_Terry/W-rNWlmxFx4_0000018 690.9 695.3 
+John_Terry/W-rNWlmxFx4_0000019 718.5 728.6 

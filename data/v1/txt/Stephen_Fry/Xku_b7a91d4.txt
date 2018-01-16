@@ -1,0 +1,9 @@
+POI: 			Stephen_Fry 
+Youtube ID: 	Xku_b7a91d4 
+Video length: 	212.4 sec 
+Set (V): 		dev 
+ 
+Stephen_Fry/Xku_b7a91d4_0000001 10.8 18.1 
+Stephen_Fry/Xku_b7a91d4_0000002 145.2 149.6 
+Stephen_Fry/Xku_b7a91d4_0000003 150.0 156.5 
+Stephen_Fry/Xku_b7a91d4_0000004 194.0 198.6 

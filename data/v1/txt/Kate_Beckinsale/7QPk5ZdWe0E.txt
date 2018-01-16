@@ -1,0 +1,7 @@
+POI: 			Kate_Beckinsale 
+Youtube ID: 	7QPk5ZdWe0E 
+Video length: 	314.8 sec 
+Set (V): 		dev 
+ 
+Kate_Beckinsale/7QPk5ZdWe0E_0000001 62.0 74.8 
+Kate_Beckinsale/7QPk5ZdWe0E_0000002 77.1 88.3 

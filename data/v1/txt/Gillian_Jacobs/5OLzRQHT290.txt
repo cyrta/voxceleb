@@ -1,0 +1,13 @@
+POI: 			Gillian_Jacobs 
+Youtube ID: 	5OLzRQHT290 
+Video length: 	360.1 sec 
+Set (V): 		dev 
+ 
+Gillian_Jacobs/5OLzRQHT290_0000001 28.5 34.1 
+Gillian_Jacobs/5OLzRQHT290_0000002 35.0 43.2 
+Gillian_Jacobs/5OLzRQHT290_0000003 91.5 111.1 
+Gillian_Jacobs/5OLzRQHT290_0000004 242.8 253.9 
+Gillian_Jacobs/5OLzRQHT290_0000005 278.6 283.7 
+Gillian_Jacobs/5OLzRQHT290_0000006 292.6 299.7 
+Gillian_Jacobs/5OLzRQHT290_0000007 319.7 324.8 
+Gillian_Jacobs/5OLzRQHT290_0000008 332.2 337.6 

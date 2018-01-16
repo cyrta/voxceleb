@@ -1,0 +1,11 @@
+POI: 			Darren_Criss 
+Youtube ID: 	qOPgGCTegRE 
+Video length: 	797.7 sec 
+Set (V): 		dev 
+ 
+Darren_Criss/qOPgGCTegRE_0000001 30.4 38.0 
+Darren_Criss/qOPgGCTegRE_0000002 38.2 49.4 
+Darren_Criss/qOPgGCTegRE_0000003 115.3 126.3 
+Darren_Criss/qOPgGCTegRE_0000004 202.2 211.4 
+Darren_Criss/qOPgGCTegRE_0000005 272.7 277.3 
+Darren_Criss/qOPgGCTegRE_0000006 294.6 301.6 

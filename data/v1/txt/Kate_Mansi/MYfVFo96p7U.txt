@@ -1,0 +1,8 @@
+POI: 			Kate_Mansi 
+Youtube ID: 	MYfVFo96p7U 
+Video length: 	445.7 sec 
+Set (V): 		dev 
+ 
+Kate_Mansi/MYfVFo96p7U_0000001 30.0 37.4 
+Kate_Mansi/MYfVFo96p7U_0000002 121.5 126.8 
+Kate_Mansi/MYfVFo96p7U_0000003 330.7 335.4 

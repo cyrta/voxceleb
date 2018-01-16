@@ -1,0 +1,16 @@
+POI: 			Anton_Yelchin 
+Youtube ID: 	84u6vRdws38 
+Video length: 	331.9 sec 
+Set (V): 		dev 
+ 
+Anton_Yelchin/84u6vRdws38_0000001 70.7 76.6 
+Anton_Yelchin/84u6vRdws38_0000002 124.5 129.5 
+Anton_Yelchin/84u6vRdws38_0000003 139.7 148.3 
+Anton_Yelchin/84u6vRdws38_0000004 189.1 198.0 
+Anton_Yelchin/84u6vRdws38_0000005 209.0 213.2 
+Anton_Yelchin/84u6vRdws38_0000006 214.0 220.3 
+Anton_Yelchin/84u6vRdws38_0000007 258.6 263.8 
+Anton_Yelchin/84u6vRdws38_0000008 273.5 280.7 
+Anton_Yelchin/84u6vRdws38_0000009 305.9 314.8 
+Anton_Yelchin/84u6vRdws38_0000010 317.9 323.2 
+Anton_Yelchin/84u6vRdws38_0000011 324.2 328.9 

@@ -1,0 +1,7 @@
+POI: 			Dean_Cain 
+Youtube ID: 	2P3pquebk9k 
+Video length: 	286.2 sec 
+Set (V): 		dev 
+ 
+Dean_Cain/2P3pquebk9k_0000001 52.9 61.9 
+Dean_Cain/2P3pquebk9k_0000002 219.7 224.2 

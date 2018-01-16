@@ -1,0 +1,9 @@
+POI: 			John_Goodman 
+Youtube ID: 	CgtVM7uD-Ws 
+Video length: 	343.8 sec 
+Set (V): 		dev 
+ 
+John_Goodman/CgtVM7uD-Ws_0000001 03.9 14.8 
+John_Goodman/CgtVM7uD-Ws_0000002 105.5 111.6 
+John_Goodman/CgtVM7uD-Ws_0000003 179.6 184.3 
+John_Goodman/CgtVM7uD-Ws_0000004 274.2 280.4 

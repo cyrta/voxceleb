@@ -1,0 +1,34 @@
+POI: 			Alan_Alda 
+Youtube ID: 	hun71wPQvlI 
+Video length: 	2417.6 sec 
+Set (V): 		dev 
+ 
+Alan_Alda/hun71wPQvlI_0000001 885.6 892.0 
+Alan_Alda/hun71wPQvlI_0000002 904.2 908.4 
+Alan_Alda/hun71wPQvlI_0000003 918.8 923.9 
+Alan_Alda/hun71wPQvlI_0000004 929.7 934.2 
+Alan_Alda/hun71wPQvlI_0000005 936.3 940.5 
+Alan_Alda/hun71wPQvlI_0000006 939.6 946.2 
+Alan_Alda/hun71wPQvlI_0000007 949.8 954.5 
+Alan_Alda/hun71wPQvlI_0000008 967.6 971.8 
+Alan_Alda/hun71wPQvlI_0000009 1026.2 1031.3 
+Alan_Alda/hun71wPQvlI_0000010 1025.1 1030.4 
+Alan_Alda/hun71wPQvlI_0000011 1063.9 1082.2 
+Alan_Alda/hun71wPQvlI_0000012 1083.2 1087.6 
+Alan_Alda/hun71wPQvlI_0000013 1105.8 1121.5 
+Alan_Alda/hun71wPQvlI_0000014 1147.0 1152.3 
+Alan_Alda/hun71wPQvlI_0000015 1180.9 1185.8 
+Alan_Alda/hun71wPQvlI_0000016 1186.5 1199.6 
+Alan_Alda/hun71wPQvlI_0000017 1245.1 1249.8 
+Alan_Alda/hun71wPQvlI_0000018 1281.1 1287.4 
+Alan_Alda/hun71wPQvlI_0000019 1289.7 1297.1 
+Alan_Alda/hun71wPQvlI_0000020 1346.0 1352.2 
+Alan_Alda/hun71wPQvlI_0000021 1360.0 1366.4 
+Alan_Alda/hun71wPQvlI_0000022 1371.9 1377.1 
+Alan_Alda/hun71wPQvlI_0000023 1427.0 1433.2 
+Alan_Alda/hun71wPQvlI_0000024 1433.8 1438.1 
+Alan_Alda/hun71wPQvlI_0000025 1461.9 1476.2 
+Alan_Alda/hun71wPQvlI_0000026 1500.0 1518.4 
+Alan_Alda/hun71wPQvlI_0000027 1521.8 1527.9 
+Alan_Alda/hun71wPQvlI_0000028 1534.3 1543.8 
+Alan_Alda/hun71wPQvlI_0000029 1546.4 1553.3 

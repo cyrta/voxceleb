@@ -1,0 +1,7 @@
+POI: 			Gary_Busey 
+Youtube ID: 	7suroedpEm8 
+Video length: 	200.7 sec 
+Set (V): 		dev 
+ 
+Gary_Busey/7suroedpEm8_0000001 136.6 141.3 
+Gary_Busey/7suroedpEm8_0000002 144.1 148.5 

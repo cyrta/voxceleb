@@ -1,0 +1,11 @@
+POI: 			Dawn_Wells 
+Youtube ID: 	TgYCsqE9WWY 
+Video length: 	465.1 sec 
+Set (V): 		dev 
+ 
+Dawn_Wells/TgYCsqE9WWY_0000001 04.6 16.9 
+Dawn_Wells/TgYCsqE9WWY_0000002 72.3 76.9 
+Dawn_Wells/TgYCsqE9WWY_0000003 133.3 145.0 
+Dawn_Wells/TgYCsqE9WWY_0000004 205.7 210.4 
+Dawn_Wells/TgYCsqE9WWY_0000005 212.5 218.2 
+Dawn_Wells/TgYCsqE9WWY_0000006 223.9 234.2 

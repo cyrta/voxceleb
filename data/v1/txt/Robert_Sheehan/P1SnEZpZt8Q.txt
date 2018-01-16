@@ -1,0 +1,8 @@
+POI: 			Robert_Sheehan 
+Youtube ID: 	P1SnEZpZt8Q 
+Video length: 	231.6 sec 
+Set (V): 		dev 
+ 
+Robert_Sheehan/P1SnEZpZt8Q_0000001 31.8 35.9 
+Robert_Sheehan/P1SnEZpZt8Q_0000002 111.9 118.2 
+Robert_Sheehan/P1SnEZpZt8Q_0000003 121.4 125.8 

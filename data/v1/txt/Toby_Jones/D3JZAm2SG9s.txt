@@ -1,0 +1,9 @@
+POI: 			Toby_Jones 
+Youtube ID: 	D3JZAm2SG9s 
+Video length: 	90.1 sec 
+Set (V): 		dev 
+ 
+Toby_Jones/D3JZAm2SG9s_0000001 14.5 46.3 
+Toby_Jones/D3JZAm2SG9s_0000002 46.5 51.0 
+Toby_Jones/D3JZAm2SG9s_0000003 58.6 66.7 
+Toby_Jones/D3JZAm2SG9s_0000004 72.2 84.2 

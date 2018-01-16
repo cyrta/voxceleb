@@ -1,0 +1,16 @@
+POI: 			Barbara_Hershey 
+Youtube ID: 	7JLeel7ok0k 
+Video length: 	281.1 sec 
+Set (V): 		dev 
+ 
+Barbara_Hershey/7JLeel7ok0k_0000001 64.4 69.3 
+Barbara_Hershey/7JLeel7ok0k_0000002 88.3 92.7 
+Barbara_Hershey/7JLeel7ok0k_0000003 95.0 99.5 
+Barbara_Hershey/7JLeel7ok0k_0000004 107.4 113.8 
+Barbara_Hershey/7JLeel7ok0k_0000005 131.4 136.0 
+Barbara_Hershey/7JLeel7ok0k_0000006 160.5 168.1 
+Barbara_Hershey/7JLeel7ok0k_0000007 188.6 193.3 
+Barbara_Hershey/7JLeel7ok0k_0000008 239.4 244.2 
+Barbara_Hershey/7JLeel7ok0k_0000009 252.3 256.6 
+Barbara_Hershey/7JLeel7ok0k_0000010 259.1 263.2 
+Barbara_Hershey/7JLeel7ok0k_0000011 273.2 277.4 

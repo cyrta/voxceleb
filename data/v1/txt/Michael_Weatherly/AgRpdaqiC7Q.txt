@@ -1,0 +1,9 @@
+POI: 			Michael_Weatherly 
+Youtube ID: 	AgRpdaqiC7Q 
+Video length: 	191.0 sec 
+Set (V): 		dev 
+ 
+Michael_Weatherly/AgRpdaqiC7Q_0000001 37.1 46.9 
+Michael_Weatherly/AgRpdaqiC7Q_0000002 152.6 160.8 
+Michael_Weatherly/AgRpdaqiC7Q_0000003 162.7 177.9 
+Michael_Weatherly/AgRpdaqiC7Q_0000004 180.0 188.5 

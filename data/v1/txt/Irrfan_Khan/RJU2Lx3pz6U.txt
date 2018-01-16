@@ -1,0 +1,14 @@
+POI: 			Irrfan_Khan 
+Youtube ID: 	RJU2Lx3pz6U 
+Video length: 	524.8 sec 
+Set (V): 		dev 
+ 
+Irrfan_Khan/RJU2Lx3pz6U_0000001 119.2 125.5 
+Irrfan_Khan/RJU2Lx3pz6U_0000002 152.5 156.6 
+Irrfan_Khan/RJU2Lx3pz6U_0000003 206.9 211.3 
+Irrfan_Khan/RJU2Lx3pz6U_0000004 241.1 246.2 
+Irrfan_Khan/RJU2Lx3pz6U_0000005 249.5 255.7 
+Irrfan_Khan/RJU2Lx3pz6U_0000006 304.5 312.4 
+Irrfan_Khan/RJU2Lx3pz6U_0000007 316.0 320.9 
+Irrfan_Khan/RJU2Lx3pz6U_0000008 350.8 356.5 
+Irrfan_Khan/RJU2Lx3pz6U_0000009 404.0 410.1 

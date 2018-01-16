@@ -1,0 +1,9 @@
+POI: 			Katharine_McPhee 
+Youtube ID: 	ii1dCiAnexg 
+Video length: 	82.1 sec 
+Set (V): 		dev 
+ 
+Katharine_McPhee/ii1dCiAnexg_0000001 10.2 34.9 
+Katharine_McPhee/ii1dCiAnexg_0000002 35.5 41.8 
+Katharine_McPhee/ii1dCiAnexg_0000003 42.5 48.5 
+Katharine_McPhee/ii1dCiAnexg_0000004 65.2 78.9 

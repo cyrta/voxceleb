@@ -1,0 +1,7 @@
+POI: 			Chris_Colfer 
+Youtube ID: 	0FhJs_jMUPs 
+Video length: 	155.0 sec 
+Set (V): 		dev 
+ 
+Chris_Colfer/0FhJs_jMUPs_0000001 30.7 42.7 
+Chris_Colfer/0FhJs_jMUPs_0000002 129.1 137.0 

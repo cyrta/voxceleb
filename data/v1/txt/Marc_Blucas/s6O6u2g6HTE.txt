@@ -1,0 +1,11 @@
+POI: 			Marc_Blucas 
+Youtube ID: 	s6O6u2g6HTE 
+Video length: 	255.3 sec 
+Set (V): 		dev 
+ 
+Marc_Blucas/s6O6u2g6HTE_0000001 19.1 30.4 
+Marc_Blucas/s6O6u2g6HTE_0000002 37.0 63.4 
+Marc_Blucas/s6O6u2g6HTE_0000003 75.2 80.7 
+Marc_Blucas/s6O6u2g6HTE_0000004 82.0 87.6 
+Marc_Blucas/s6O6u2g6HTE_0000005 199.5 223.4 
+Marc_Blucas/s6O6u2g6HTE_0000006 227.1 232.3 

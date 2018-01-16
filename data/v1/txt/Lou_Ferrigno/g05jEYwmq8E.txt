@@ -1,0 +1,10 @@
+POI: 			Lou_Ferrigno 
+Youtube ID: 	g05jEYwmq8E 
+Video length: 	170.7 sec 
+Set (V): 		dev 
+ 
+Lou_Ferrigno/g05jEYwmq8E_0000001 08.5 13.0 
+Lou_Ferrigno/g05jEYwmq8E_0000002 36.8 45.6 
+Lou_Ferrigno/g05jEYwmq8E_0000003 77.8 83.6 
+Lou_Ferrigno/g05jEYwmq8E_0000004 85.6 92.0 
+Lou_Ferrigno/g05jEYwmq8E_0000005 122.8 127.0 

@@ -1,0 +1,13 @@
+POI: 			Julie_Chen 
+Youtube ID: 	DGcgn65db5A 
+Video length: 	205.4 sec 
+Set (V): 		dev 
+ 
+Julie_Chen/DGcgn65db5A_0000001 04.1 10.7 
+Julie_Chen/DGcgn65db5A_0000002 42.7 48.0 
+Julie_Chen/DGcgn65db5A_0000003 69.2 75.0 
+Julie_Chen/DGcgn65db5A_0000004 85.3 93.2 
+Julie_Chen/DGcgn65db5A_0000005 120.0 131.7 
+Julie_Chen/DGcgn65db5A_0000006 135.6 148.4 
+Julie_Chen/DGcgn65db5A_0000007 163.7 170.1 
+Julie_Chen/DGcgn65db5A_0000008 191.0 195.6 

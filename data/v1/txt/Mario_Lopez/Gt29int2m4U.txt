@@ -1,0 +1,11 @@
+POI: 			Mario_Lopez 
+Youtube ID: 	Gt29int2m4U 
+Video length: 	227.1 sec 
+Set (V): 		dev 
+ 
+Mario_Lopez/Gt29int2m4U_0000001 15.8 19.8 
+Mario_Lopez/Gt29int2m4U_0000002 117.6 121.6 
+Mario_Lopez/Gt29int2m4U_0000003 122.8 127.7 
+Mario_Lopez/Gt29int2m4U_0000004 129.8 144.3 
+Mario_Lopez/Gt29int2m4U_0000005 168.3 175.6 
+Mario_Lopez/Gt29int2m4U_0000006 204.0 210.7 

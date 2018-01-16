@@ -1,0 +1,7 @@
+POI: 			Gilles_Marini 
+Youtube ID: 	9EfLBuw1-Ps 
+Video length: 	146.1 sec 
+Set (V): 		dev 
+ 
+Gilles_Marini/9EfLBuw1-Ps_0000001 10.4 16.6 
+Gilles_Marini/9EfLBuw1-Ps_0000002 17.1 25.4 

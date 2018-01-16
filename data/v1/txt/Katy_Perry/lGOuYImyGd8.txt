@@ -1,0 +1,10 @@
+POI: 			Katy_Perry 
+Youtube ID: 	lGOuYImyGd8 
+Video length: 	900.4 sec 
+Set (V): 		dev 
+ 
+Katy_Perry/lGOuYImyGd8_0000001 84.0 90.4 
+Katy_Perry/lGOuYImyGd8_0000002 200.5 207.2 
+Katy_Perry/lGOuYImyGd8_0000003 259.4 264.0 
+Katy_Perry/lGOuYImyGd8_0000004 318.9 329.2 
+Katy_Perry/lGOuYImyGd8_0000005 573.2 580.8 

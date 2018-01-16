@@ -1,0 +1,20 @@
+POI: 			Jennifer_Beals 
+Youtube ID: 	i_sh3Q8WoLg 
+Video length: 	539.1 sec 
+Set (V): 		dev 
+ 
+Jennifer_Beals/i_sh3Q8WoLg_0000001 87.0 93.6 
+Jennifer_Beals/i_sh3Q8WoLg_0000002 94.2 101.0 
+Jennifer_Beals/i_sh3Q8WoLg_0000003 101.9 117.5 
+Jennifer_Beals/i_sh3Q8WoLg_0000004 174.8 181.2 
+Jennifer_Beals/i_sh3Q8WoLg_0000005 257.9 262.3 
+Jennifer_Beals/i_sh3Q8WoLg_0000006 264.8 277.4 
+Jennifer_Beals/i_sh3Q8WoLg_0000007 286.8 291.8 
+Jennifer_Beals/i_sh3Q8WoLg_0000008 302.4 308.0 
+Jennifer_Beals/i_sh3Q8WoLg_0000009 308.8 318.3 
+Jennifer_Beals/i_sh3Q8WoLg_0000010 351.5 358.2 
+Jennifer_Beals/i_sh3Q8WoLg_0000011 358.3 367.0 
+Jennifer_Beals/i_sh3Q8WoLg_0000012 380.7 394.2 
+Jennifer_Beals/i_sh3Q8WoLg_0000013 416.1 422.0 
+Jennifer_Beals/i_sh3Q8WoLg_0000014 422.3 431.8 
+Jennifer_Beals/i_sh3Q8WoLg_0000015 432.4 450.0 

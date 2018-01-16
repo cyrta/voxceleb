@@ -1,0 +1,35 @@
+POI: 			Mathieu_Kassovitz 
+Youtube ID: 	DRZbVzlR-RY 
+Video length: 	510.0 sec 
+Set (V): 		dev 
+ 
+Mathieu_Kassovitz/DRZbVzlR-RY_0000001 17.7 24.4 
+Mathieu_Kassovitz/DRZbVzlR-RY_0000002 25.0 29.2 
+Mathieu_Kassovitz/DRZbVzlR-RY_0000003 55.7 63.0 
+Mathieu_Kassovitz/DRZbVzlR-RY_0000004 73.3 80.8 
+Mathieu_Kassovitz/DRZbVzlR-RY_0000005 92.4 96.9 
+Mathieu_Kassovitz/DRZbVzlR-RY_0000006 117.9 122.2 
+Mathieu_Kassovitz/DRZbVzlR-RY_0000007 124.0 130.3 
+Mathieu_Kassovitz/DRZbVzlR-RY_0000008 132.3 137.9 
+Mathieu_Kassovitz/DRZbVzlR-RY_0000009 142.0 149.8 
+Mathieu_Kassovitz/DRZbVzlR-RY_0000010 155.9 164.8 
+Mathieu_Kassovitz/DRZbVzlR-RY_0000011 170.3 174.3 
+Mathieu_Kassovitz/DRZbVzlR-RY_0000012 175.9 184.4 
+Mathieu_Kassovitz/DRZbVzlR-RY_0000013 191.2 195.6 
+Mathieu_Kassovitz/DRZbVzlR-RY_0000014 196.2 201.6 
+Mathieu_Kassovitz/DRZbVzlR-RY_0000015 244.6 248.6 
+Mathieu_Kassovitz/DRZbVzlR-RY_0000016 255.6 261.2 
+Mathieu_Kassovitz/DRZbVzlR-RY_0000017 266.0 273.9 
+Mathieu_Kassovitz/DRZbVzlR-RY_0000018 282.0 286.2 
+Mathieu_Kassovitz/DRZbVzlR-RY_0000019 287.2 291.7 
+Mathieu_Kassovitz/DRZbVzlR-RY_0000020 295.8 309.6 
+Mathieu_Kassovitz/DRZbVzlR-RY_0000021 310.5 325.0 
+Mathieu_Kassovitz/DRZbVzlR-RY_0000022 325.5 332.0 
+Mathieu_Kassovitz/DRZbVzlR-RY_0000023 337.5 347.2 
+Mathieu_Kassovitz/DRZbVzlR-RY_0000024 404.3 409.3 
+Mathieu_Kassovitz/DRZbVzlR-RY_0000025 412.2 416.8 
+Mathieu_Kassovitz/DRZbVzlR-RY_0000026 426.2 431.0 
+Mathieu_Kassovitz/DRZbVzlR-RY_0000027 432.5 444.1 
+Mathieu_Kassovitz/DRZbVzlR-RY_0000028 455.8 459.7 
+Mathieu_Kassovitz/DRZbVzlR-RY_0000029 472.3 479.2 
+Mathieu_Kassovitz/DRZbVzlR-RY_0000030 480.5 487.1 

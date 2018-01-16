@@ -1,0 +1,9 @@
+POI: 			Skylar_Astin 
+Youtube ID: 	gAP94daF-Mg 
+Video length: 	103.9 sec 
+Set (V): 		dev 
+ 
+Skylar_Astin/gAP94daF-Mg_0000001 20.0 24.4 
+Skylar_Astin/gAP94daF-Mg_0000002 36.5 44.5 
+Skylar_Astin/gAP94daF-Mg_0000003 71.6 86.2 
+Skylar_Astin/gAP94daF-Mg_0000004 86.8 98.3 

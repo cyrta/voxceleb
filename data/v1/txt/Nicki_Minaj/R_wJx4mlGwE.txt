@@ -1,0 +1,9 @@
+POI: 			Nicki_Minaj 
+Youtube ID: 	R_wJx4mlGwE 
+Video length: 	192.1 sec 
+Set (V): 		dev 
+ 
+Nicki_Minaj/R_wJx4mlGwE_0000001 22.0 26.4 
+Nicki_Minaj/R_wJx4mlGwE_0000002 54.5 63.1 
+Nicki_Minaj/R_wJx4mlGwE_0000003 71.6 76.7 
+Nicki_Minaj/R_wJx4mlGwE_0000004 83.9 89.6 

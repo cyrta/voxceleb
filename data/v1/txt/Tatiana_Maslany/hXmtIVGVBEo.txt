@@ -1,0 +1,22 @@
+POI: 			Tatiana_Maslany 
+Youtube ID: 	hXmtIVGVBEo 
+Video length: 	801.5 sec 
+Set (V): 		dev 
+ 
+Tatiana_Maslany/hXmtIVGVBEo_0000001 57.7 63.5 
+Tatiana_Maslany/hXmtIVGVBEo_0000002 92.7 109.1 
+Tatiana_Maslany/hXmtIVGVBEo_0000003 120.1 127.6 
+Tatiana_Maslany/hXmtIVGVBEo_0000004 167.1 181.2 
+Tatiana_Maslany/hXmtIVGVBEo_0000005 181.3 187.5 
+Tatiana_Maslany/hXmtIVGVBEo_0000006 277.1 295.2 
+Tatiana_Maslany/hXmtIVGVBEo_0000007 306.8 314.8 
+Tatiana_Maslany/hXmtIVGVBEo_0000008 356.6 367.6 
+Tatiana_Maslany/hXmtIVGVBEo_0000009 367.8 374.0 
+Tatiana_Maslany/hXmtIVGVBEo_0000010 468.1 479.4 
+Tatiana_Maslany/hXmtIVGVBEo_0000011 479.8 484.6 
+Tatiana_Maslany/hXmtIVGVBEo_0000012 498.8 503.0 
+Tatiana_Maslany/hXmtIVGVBEo_0000013 642.1 650.8 
+Tatiana_Maslany/hXmtIVGVBEo_0000014 682.3 704.9 
+Tatiana_Maslany/hXmtIVGVBEo_0000015 731.4 737.0 
+Tatiana_Maslany/hXmtIVGVBEo_0000016 753.2 761.2 
+Tatiana_Maslany/hXmtIVGVBEo_0000017 788.0 792.8 

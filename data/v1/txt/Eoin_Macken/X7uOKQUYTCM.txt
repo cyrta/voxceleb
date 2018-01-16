@@ -1,0 +1,11 @@
+POI: 			Eoin_Macken 
+Youtube ID: 	X7uOKQUYTCM 
+Video length: 	421.1 sec 
+Set (V): 		test 
+ 
+Eoin_Macken/X7uOKQUYTCM_0000001 41.0 46.0 
+Eoin_Macken/X7uOKQUYTCM_0000002 66.6 70.8 
+Eoin_Macken/X7uOKQUYTCM_0000003 110.1 115.4 
+Eoin_Macken/X7uOKQUYTCM_0000004 154.8 159.0 
+Eoin_Macken/X7uOKQUYTCM_0000005 200.1 204.1 
+Eoin_Macken/X7uOKQUYTCM_0000006 248.6 256.1 

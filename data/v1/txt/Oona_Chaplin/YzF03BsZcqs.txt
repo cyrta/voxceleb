@@ -1,0 +1,10 @@
+POI: 			Oona_Chaplin 
+Youtube ID: 	YzF03BsZcqs 
+Video length: 	145.0 sec 
+Set (V): 		dev 
+ 
+Oona_Chaplin/YzF03BsZcqs_0000001 11.7 22.7 
+Oona_Chaplin/YzF03BsZcqs_0000002 28.1 33.3 
+Oona_Chaplin/YzF03BsZcqs_0000003 34.4 38.4 
+Oona_Chaplin/YzF03BsZcqs_0000004 76.2 82.0 
+Oona_Chaplin/YzF03BsZcqs_0000005 115.7 125.6 

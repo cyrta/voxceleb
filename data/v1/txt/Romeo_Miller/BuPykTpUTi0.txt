@@ -1,0 +1,12 @@
+POI: 			Romeo_Miller 
+Youtube ID: 	BuPykTpUTi0 
+Video length: 	329.4 sec 
+Set (V): 		dev 
+ 
+Romeo_Miller/BuPykTpUTi0_0000001 15.1 19.6 
+Romeo_Miller/BuPykTpUTi0_0000002 21.7 31.3 
+Romeo_Miller/BuPykTpUTi0_0000003 68.0 78.2 
+Romeo_Miller/BuPykTpUTi0_0000004 86.8 91.7 
+Romeo_Miller/BuPykTpUTi0_0000005 116.8 124.6 
+Romeo_Miller/BuPykTpUTi0_0000006 247.1 253.0 
+Romeo_Miller/BuPykTpUTi0_0000007 262.6 267.9 

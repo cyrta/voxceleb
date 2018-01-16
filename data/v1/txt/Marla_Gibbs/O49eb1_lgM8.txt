@@ -1,0 +1,14 @@
+POI: 			Marla_Gibbs 
+Youtube ID: 	O49eb1_lgM8 
+Video length: 	1444.1 sec 
+Set (V): 		dev 
+ 
+Marla_Gibbs/O49eb1_lgM8_0000001 198.0 207.4 
+Marla_Gibbs/O49eb1_lgM8_0000002 216.2 220.9 
+Marla_Gibbs/O49eb1_lgM8_0000003 227.4 233.1 
+Marla_Gibbs/O49eb1_lgM8_0000004 277.8 283.8 
+Marla_Gibbs/O49eb1_lgM8_0000005 377.0 381.4 
+Marla_Gibbs/O49eb1_lgM8_0000006 536.2 545.3 
+Marla_Gibbs/O49eb1_lgM8_0000007 583.2 588.8 
+Marla_Gibbs/O49eb1_lgM8_0000008 998.3 1004.4 
+Marla_Gibbs/O49eb1_lgM8_0000009 1027.2 1034.0 

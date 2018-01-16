@@ -1,0 +1,9 @@
+POI: 			Robert_Picardo 
+Youtube ID: 	RIe-Xp19a2Y 
+Video length: 	518.2 sec 
+Set (V): 		dev 
+ 
+Robert_Picardo/RIe-Xp19a2Y_0000001 144.5 149.1 
+Robert_Picardo/RIe-Xp19a2Y_0000002 246.7 251.4 
+Robert_Picardo/RIe-Xp19a2Y_0000003 449.3 455.5 
+Robert_Picardo/RIe-Xp19a2Y_0000004 470.2 475.6 

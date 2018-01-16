@@ -1,0 +1,13 @@
+POI: 			Michelle_Monaghan 
+Youtube ID: 	46yBFiqrd2A 
+Video length: 	162.3 sec 
+Set (V): 		dev 
+ 
+Michelle_Monaghan/46yBFiqrd2A_0000001 19.8 27.0 
+Michelle_Monaghan/46yBFiqrd2A_0000002 28.9 33.1 
+Michelle_Monaghan/46yBFiqrd2A_0000003 37.2 42.8 
+Michelle_Monaghan/46yBFiqrd2A_0000004 55.6 63.1 
+Michelle_Monaghan/46yBFiqrd2A_0000005 64.2 70.4 
+Michelle_Monaghan/46yBFiqrd2A_0000006 70.6 77.7 
+Michelle_Monaghan/46yBFiqrd2A_0000007 95.6 107.4 
+Michelle_Monaghan/46yBFiqrd2A_0000008 107.9 113.5 

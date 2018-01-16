@@ -1,0 +1,11 @@
+POI: 			Leslie_Mann 
+Youtube ID: 	KcYT1T2iBws 
+Video length: 	248.4 sec 
+Set (V): 		dev 
+ 
+Leslie_Mann/KcYT1T2iBws_0000001 78.8 85.4 
+Leslie_Mann/KcYT1T2iBws_0000002 93.3 97.4 
+Leslie_Mann/KcYT1T2iBws_0000003 120.2 125.3 
+Leslie_Mann/KcYT1T2iBws_0000004 138.5 149.9 
+Leslie_Mann/KcYT1T2iBws_0000005 165.2 170.4 
+Leslie_Mann/KcYT1T2iBws_0000006 171.8 176.7 

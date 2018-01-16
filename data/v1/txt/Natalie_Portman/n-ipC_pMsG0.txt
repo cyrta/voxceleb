@@ -1,0 +1,12 @@
+POI: 			Natalie_Portman 
+Youtube ID: 	n-ipC_pMsG0 
+Video length: 	360.7 sec 
+Set (V): 		dev 
+ 
+Natalie_Portman/n-ipC_pMsG0_0000001 63.5 73.7 
+Natalie_Portman/n-ipC_pMsG0_0000002 196.3 205.7 
+Natalie_Portman/n-ipC_pMsG0_0000003 206.4 210.8 
+Natalie_Portman/n-ipC_pMsG0_0000004 212.7 225.1 
+Natalie_Portman/n-ipC_pMsG0_0000005 226.3 232.0 
+Natalie_Portman/n-ipC_pMsG0_0000006 313.0 318.2 
+Natalie_Portman/n-ipC_pMsG0_0000007 325.0 335.2 

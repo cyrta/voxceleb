@@ -1,0 +1,9 @@
+POI: 			John_Krasinski 
+Youtube ID: 	B0qxCQI99II 
+Video length: 	399.5 sec 
+Set (V): 		dev 
+ 
+John_Krasinski/B0qxCQI99II_0000001 23.0 57.7 
+John_Krasinski/B0qxCQI99II_0000002 86.0 121.1 
+John_Krasinski/B0qxCQI99II_0000003 133.4 172.5 
+John_Krasinski/B0qxCQI99II_0000004 197.5 239.0 

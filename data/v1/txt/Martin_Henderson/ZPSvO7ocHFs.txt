@@ -1,0 +1,22 @@
+POI: 			Martin_Henderson 
+Youtube ID: 	ZPSvO7ocHFs 
+Video length: 	402.4 sec 
+Set (V): 		dev 
+ 
+Martin_Henderson/ZPSvO7ocHFs_0000001 28.5 33.7 
+Martin_Henderson/ZPSvO7ocHFs_0000002 38.4 45.4 
+Martin_Henderson/ZPSvO7ocHFs_0000003 57.2 62.7 
+Martin_Henderson/ZPSvO7ocHFs_0000004 69.7 77.2 
+Martin_Henderson/ZPSvO7ocHFs_0000005 77.4 86.6 
+Martin_Henderson/ZPSvO7ocHFs_0000006 92.9 103.8 
+Martin_Henderson/ZPSvO7ocHFs_0000007 137.0 141.5 
+Martin_Henderson/ZPSvO7ocHFs_0000008 150.5 157.8 
+Martin_Henderson/ZPSvO7ocHFs_0000009 169.4 185.2 
+Martin_Henderson/ZPSvO7ocHFs_0000010 218.4 242.5 
+Martin_Henderson/ZPSvO7ocHFs_0000011 250.3 261.9 
+Martin_Henderson/ZPSvO7ocHFs_0000012 262.7 283.4 
+Martin_Henderson/ZPSvO7ocHFs_0000013 290.3 301.0 
+Martin_Henderson/ZPSvO7ocHFs_0000014 302.1 323.1 
+Martin_Henderson/ZPSvO7ocHFs_0000015 329.5 336.6 
+Martin_Henderson/ZPSvO7ocHFs_0000016 340.9 346.2 
+Martin_Henderson/ZPSvO7ocHFs_0000017 347.2 358.4 

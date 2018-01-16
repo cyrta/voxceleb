@@ -1,0 +1,23 @@
+POI: 			Katheryn_Winnick 
+Youtube ID: 	cFQBQaqngsc 
+Video length: 	431.5 sec 
+Set (V): 		dev 
+ 
+Katheryn_Winnick/cFQBQaqngsc_0000001 25.2 31.7 
+Katheryn_Winnick/cFQBQaqngsc_0000002 33.0 42.5 
+Katheryn_Winnick/cFQBQaqngsc_0000003 84.2 93.6 
+Katheryn_Winnick/cFQBQaqngsc_0000004 95.7 101.3 
+Katheryn_Winnick/cFQBQaqngsc_0000005 104.8 110.4 
+Katheryn_Winnick/cFQBQaqngsc_0000006 131.5 143.3 
+Katheryn_Winnick/cFQBQaqngsc_0000007 144.9 184.1 
+Katheryn_Winnick/cFQBQaqngsc_0000008 186.8 192.3 
+Katheryn_Winnick/cFQBQaqngsc_0000009 198.5 208.2 
+Katheryn_Winnick/cFQBQaqngsc_0000010 226.2 231.2 
+Katheryn_Winnick/cFQBQaqngsc_0000011 233.7 242.0 
+Katheryn_Winnick/cFQBQaqngsc_0000012 247.0 257.5 
+Katheryn_Winnick/cFQBQaqngsc_0000013 259.6 278.4 
+Katheryn_Winnick/cFQBQaqngsc_0000014 291.6 298.1 
+Katheryn_Winnick/cFQBQaqngsc_0000015 301.0 308.9 
+Katheryn_Winnick/cFQBQaqngsc_0000016 311.0 323.9 
+Katheryn_Winnick/cFQBQaqngsc_0000017 324.8 339.9 
+Katheryn_Winnick/cFQBQaqngsc_0000018 390.6 412.6 

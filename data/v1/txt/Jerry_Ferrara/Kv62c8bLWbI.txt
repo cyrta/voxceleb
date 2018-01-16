@@ -1,0 +1,10 @@
+POI: 			Jerry_Ferrara 
+Youtube ID: 	Kv62c8bLWbI 
+Video length: 	169.2 sec 
+Set (V): 		dev 
+ 
+Jerry_Ferrara/Kv62c8bLWbI_0000001 48.1 53.1 
+Jerry_Ferrara/Kv62c8bLWbI_0000002 78.4 83.0 
+Jerry_Ferrara/Kv62c8bLWbI_0000003 109.4 113.6 
+Jerry_Ferrara/Kv62c8bLWbI_0000004 116.2 123.9 
+Jerry_Ferrara/Kv62c8bLWbI_0000005 157.0 161.3 

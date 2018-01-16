@@ -1,0 +1,7 @@
+POI: 			Tupac_Shakur 
+Youtube ID: 	ZIl3k9C7HGo 
+Video length: 	223.3 sec 
+Set (V): 		dev 
+ 
+Tupac_Shakur/ZIl3k9C7HGo_0000001 18.3 23.1 
+Tupac_Shakur/ZIl3k9C7HGo_0000002 175.2 179.7 

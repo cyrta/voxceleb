@@ -1,0 +1,8 @@
+POI: 			Charles_Dance 
+Youtube ID: 	wygaDt2261E 
+Video length: 	141.5 sec 
+Set (V): 		dev 
+ 
+Charles_Dance/wygaDt2261E_0000001 103.6 107.8 
+Charles_Dance/wygaDt2261E_0000002 108.6 112.8 
+Charles_Dance/wygaDt2261E_0000003 120.0 128.6 

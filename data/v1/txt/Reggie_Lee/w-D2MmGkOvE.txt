@@ -1,0 +1,8 @@
+POI: 			Reggie_Lee 
+Youtube ID: 	w-D2MmGkOvE 
+Video length: 	155.0 sec 
+Set (V): 		dev 
+ 
+Reggie_Lee/w-D2MmGkOvE_0000001 21.0 29.6 
+Reggie_Lee/w-D2MmGkOvE_0000002 32.6 39.9 
+Reggie_Lee/w-D2MmGkOvE_0000003 83.2 93.9 

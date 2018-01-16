@@ -1,0 +1,21 @@
+POI: 			Nelly_Furtado 
+Youtube ID: 	nnUtbe0dnos 
+Video length: 	358.1 sec 
+Set (V): 		dev 
+ 
+Nelly_Furtado/nnUtbe0dnos_0000001 37.3 43.9 
+Nelly_Furtado/nnUtbe0dnos_0000002 73.1 82.1 
+Nelly_Furtado/nnUtbe0dnos_0000003 94.6 104.5 
+Nelly_Furtado/nnUtbe0dnos_0000004 106.5 115.0 
+Nelly_Furtado/nnUtbe0dnos_0000005 124.6 142.6 
+Nelly_Furtado/nnUtbe0dnos_0000006 144.4 152.1 
+Nelly_Furtado/nnUtbe0dnos_0000007 171.2 187.8 
+Nelly_Furtado/nnUtbe0dnos_0000008 193.1 205.5 
+Nelly_Furtado/nnUtbe0dnos_0000009 207.3 214.7 
+Nelly_Furtado/nnUtbe0dnos_0000010 217.2 226.8 
+Nelly_Furtado/nnUtbe0dnos_0000011 244.1 256.7 
+Nelly_Furtado/nnUtbe0dnos_0000012 263.6 273.2 
+Nelly_Furtado/nnUtbe0dnos_0000013 277.1 286.5 
+Nelly_Furtado/nnUtbe0dnos_0000014 295.5 300.6 
+Nelly_Furtado/nnUtbe0dnos_0000015 305.8 313.8 
+Nelly_Furtado/nnUtbe0dnos_0000016 315.0 327.2 

@@ -1,0 +1,11 @@
+POI: 			Sherri_Shepherd 
+Youtube ID: 	msVDn_XvtXs 
+Video length: 	189.0 sec 
+Set (V): 		dev 
+ 
+Sherri_Shepherd/msVDn_XvtXs_0000001 46.5 54.6 
+Sherri_Shepherd/msVDn_XvtXs_0000002 62.6 69.4 
+Sherri_Shepherd/msVDn_XvtXs_0000003 76.8 82.0 
+Sherri_Shepherd/msVDn_XvtXs_0000004 92.3 99.7 
+Sherri_Shepherd/msVDn_XvtXs_0000005 106.8 114.2 
+Sherri_Shepherd/msVDn_XvtXs_0000006 160.2 166.1 

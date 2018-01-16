@@ -1,0 +1,16 @@
+POI: 			Alexander_Siddig 
+Youtube ID: 	4nbkpwV-Aa0 
+Video length: 	316.2 sec 
+Set (V): 		dev 
+ 
+Alexander_Siddig/4nbkpwV-Aa0_0000001 97.4 129.6 
+Alexander_Siddig/4nbkpwV-Aa0_0000002 130.3 137.0 
+Alexander_Siddig/4nbkpwV-Aa0_0000003 139.1 143.3 
+Alexander_Siddig/4nbkpwV-Aa0_0000004 155.7 163.6 
+Alexander_Siddig/4nbkpwV-Aa0_0000005 166.8 195.0 
+Alexander_Siddig/4nbkpwV-Aa0_0000006 195.5 201.9 
+Alexander_Siddig/4nbkpwV-Aa0_0000007 204.0 208.4 
+Alexander_Siddig/4nbkpwV-Aa0_0000008 201.1 208.4 
+Alexander_Siddig/4nbkpwV-Aa0_0000009 208.5 212.5 
+Alexander_Siddig/4nbkpwV-Aa0_0000010 212.8 218.2 
+Alexander_Siddig/4nbkpwV-Aa0_0000011 230.3 238.8 

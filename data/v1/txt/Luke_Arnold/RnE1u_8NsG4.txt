@@ -1,0 +1,7 @@
+POI: 			Luke_Arnold 
+Youtube ID: 	RnE1u_8NsG4 
+Video length: 	155.5 sec 
+Set (V): 		dev 
+ 
+Luke_Arnold/RnE1u_8NsG4_0000001 71.6 77.1 
+Luke_Arnold/RnE1u_8NsG4_0000002 140.2 144.9 

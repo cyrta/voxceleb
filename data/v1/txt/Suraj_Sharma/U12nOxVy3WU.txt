@@ -1,0 +1,11 @@
+POI: 			Suraj_Sharma 
+Youtube ID: 	U12nOxVy3WU 
+Video length: 	300.9 sec 
+Set (V): 		dev 
+ 
+Suraj_Sharma/U12nOxVy3WU_0000001 81.8 87.7 
+Suraj_Sharma/U12nOxVy3WU_0000002 105.3 117.7 
+Suraj_Sharma/U12nOxVy3WU_0000003 204.0 212.4 
+Suraj_Sharma/U12nOxVy3WU_0000004 231.9 236.6 
+Suraj_Sharma/U12nOxVy3WU_0000005 240.3 252.1 
+Suraj_Sharma/U12nOxVy3WU_0000006 253.8 258.7 

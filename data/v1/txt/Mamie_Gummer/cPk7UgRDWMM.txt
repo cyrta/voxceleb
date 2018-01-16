@@ -1,0 +1,11 @@
+POI: 			Mamie_Gummer 
+Youtube ID: 	cPk7UgRDWMM 
+Video length: 	191.4 sec 
+Set (V): 		dev 
+ 
+Mamie_Gummer/cPk7UgRDWMM_0000001 72.6 77.3 
+Mamie_Gummer/cPk7UgRDWMM_0000002 78.5 84.7 
+Mamie_Gummer/cPk7UgRDWMM_0000003 123.5 132.0 
+Mamie_Gummer/cPk7UgRDWMM_0000004 146.6 151.7 
+Mamie_Gummer/cPk7UgRDWMM_0000005 159.1 164.4 
+Mamie_Gummer/cPk7UgRDWMM_0000006 174.8 183.4 

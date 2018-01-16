@@ -1,0 +1,9 @@
+POI: 			Jacqueline_MacInnes_Wood 
+Youtube ID: 	zoTI87aOUvU 
+Video length: 	192.4 sec 
+Set (V): 		dev 
+ 
+Jacqueline_MacInnes_Wood/zoTI87aOUvU_0000001 10.9 16.2 
+Jacqueline_MacInnes_Wood/zoTI87aOUvU_0000002 141.1 146.0 
+Jacqueline_MacInnes_Wood/zoTI87aOUvU_0000003 148.4 154.1 
+Jacqueline_MacInnes_Wood/zoTI87aOUvU_0000004 156.1 167.8 

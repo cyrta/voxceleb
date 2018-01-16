@@ -1,0 +1,11 @@
+POI: 			Jared_Harris 
+Youtube ID: 	3BI57z5sHik 
+Video length: 	231.5 sec 
+Set (V): 		dev 
+ 
+Jared_Harris/3BI57z5sHik_0000001 90.4 95.4 
+Jared_Harris/3BI57z5sHik_0000002 107.9 112.2 
+Jared_Harris/3BI57z5sHik_0000003 134.4 139.0 
+Jared_Harris/3BI57z5sHik_0000004 130.2 144.0 
+Jared_Harris/3BI57z5sHik_0000005 205.5 209.6 
+Jared_Harris/3BI57z5sHik_0000006 222.3 229.9 

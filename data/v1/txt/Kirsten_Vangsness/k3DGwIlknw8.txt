@@ -1,0 +1,15 @@
+POI: 			Kirsten_Vangsness 
+Youtube ID: 	k3DGwIlknw8 
+Video length: 	289.8 sec 
+Set (V): 		dev 
+ 
+Kirsten_Vangsness/k3DGwIlknw8_0000001 03.0 10.0 
+Kirsten_Vangsness/k3DGwIlknw8_0000002 14.0 18.0 
+Kirsten_Vangsness/k3DGwIlknw8_0000003 65.4 70.8 
+Kirsten_Vangsness/k3DGwIlknw8_0000004 134.8 146.5 
+Kirsten_Vangsness/k3DGwIlknw8_0000005 152.4 159.3 
+Kirsten_Vangsness/k3DGwIlknw8_0000006 187.0 192.3 
+Kirsten_Vangsness/k3DGwIlknw8_0000007 192.4 199.8 
+Kirsten_Vangsness/k3DGwIlknw8_0000008 209.3 218.4 
+Kirsten_Vangsness/k3DGwIlknw8_0000009 244.6 249.3 
+Kirsten_Vangsness/k3DGwIlknw8_0000010 271.5 280.0 

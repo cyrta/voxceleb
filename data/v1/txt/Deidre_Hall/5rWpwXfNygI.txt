@@ -1,0 +1,11 @@
+POI: 			Deidre_Hall 
+Youtube ID: 	5rWpwXfNygI 
+Video length: 	190.6 sec 
+Set (V): 		dev 
+ 
+Deidre_Hall/5rWpwXfNygI_0000001 93.4 104.8 
+Deidre_Hall/5rWpwXfNygI_0000002 114.5 119.5 
+Deidre_Hall/5rWpwXfNygI_0000003 124.3 132.5 
+Deidre_Hall/5rWpwXfNygI_0000004 139.4 149.5 
+Deidre_Hall/5rWpwXfNygI_0000005 150.8 157.5 
+Deidre_Hall/5rWpwXfNygI_0000006 174.0 188.7 

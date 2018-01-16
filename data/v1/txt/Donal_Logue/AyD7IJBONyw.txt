@@ -1,0 +1,12 @@
+POI: 			Donal_Logue 
+Youtube ID: 	AyD7IJBONyw 
+Video length: 	226.7 sec 
+Set (V): 		dev 
+ 
+Donal_Logue/AyD7IJBONyw_0000001 75.2 79.7 
+Donal_Logue/AyD7IJBONyw_0000002 80.7 89.7 
+Donal_Logue/AyD7IJBONyw_0000003 96.8 104.5 
+Donal_Logue/AyD7IJBONyw_0000004 61.6 67.3 
+Donal_Logue/AyD7IJBONyw_0000005 191.2 197.0 
+Donal_Logue/AyD7IJBONyw_0000006 197.7 202.7 
+Donal_Logue/AyD7IJBONyw_0000007 212.5 217.8 

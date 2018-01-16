@@ -1,0 +1,11 @@
+POI: 			Tim_Daly 
+Youtube ID: 	4yT7m_Swm88 
+Video length: 	197.6 sec 
+Set (V): 		dev 
+ 
+Tim_Daly/4yT7m_Swm88_0000001 15.8 24.5 
+Tim_Daly/4yT7m_Swm88_0000002 30.8 39.7 
+Tim_Daly/4yT7m_Swm88_0000003 39.3 45.3 
+Tim_Daly/4yT7m_Swm88_0000004 68.2 74.5 
+Tim_Daly/4yT7m_Swm88_0000005 135.3 146.3 
+Tim_Daly/4yT7m_Swm88_0000006 157.4 166.2 

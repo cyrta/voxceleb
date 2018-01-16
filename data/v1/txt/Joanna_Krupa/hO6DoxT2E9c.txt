@@ -1,0 +1,16 @@
+POI: 			Joanna_Krupa 
+Youtube ID: 	hO6DoxT2E9c 
+Video length: 	176.2 sec 
+Set (V): 		dev 
+ 
+Joanna_Krupa/hO6DoxT2E9c_0000001 09.0 29.0 
+Joanna_Krupa/hO6DoxT2E9c_0000002 30.8 50.8 
+Joanna_Krupa/hO6DoxT2E9c_0000003 53.2 59.6 
+Joanna_Krupa/hO6DoxT2E9c_0000004 61.4 66.0 
+Joanna_Krupa/hO6DoxT2E9c_0000005 69.7 77.8 
+Joanna_Krupa/hO6DoxT2E9c_0000006 80.1 86.2 
+Joanna_Krupa/hO6DoxT2E9c_0000007 86.6 93.4 
+Joanna_Krupa/hO6DoxT2E9c_0000008 105.1 111.3 
+Joanna_Krupa/hO6DoxT2E9c_0000009 111.8 116.4 
+Joanna_Krupa/hO6DoxT2E9c_0000010 116.8 140.6 
+Joanna_Krupa/hO6DoxT2E9c_0000011 142.8 174.8 

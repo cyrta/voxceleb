@@ -1,0 +1,14 @@
+POI: 			Jacob_Latimore 
+Youtube ID: 	hKCJ_V7Qghg 
+Video length: 	532.4 sec 
+Set (V): 		dev 
+ 
+Jacob_Latimore/hKCJ_V7Qghg_0000001 23.4 28.8 
+Jacob_Latimore/hKCJ_V7Qghg_0000002 134.8 139.0 
+Jacob_Latimore/hKCJ_V7Qghg_0000003 175.3 179.3 
+Jacob_Latimore/hKCJ_V7Qghg_0000004 185.7 190.2 
+Jacob_Latimore/hKCJ_V7Qghg_0000005 298.6 305.2 
+Jacob_Latimore/hKCJ_V7Qghg_0000006 306.6 311.4 
+Jacob_Latimore/hKCJ_V7Qghg_0000007 325.7 330.4 
+Jacob_Latimore/hKCJ_V7Qghg_0000008 372.1 376.8 
+Jacob_Latimore/hKCJ_V7Qghg_0000009 431.4 436.8 

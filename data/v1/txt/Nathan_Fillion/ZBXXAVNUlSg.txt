@@ -1,0 +1,11 @@
+POI: 			Nathan_Fillion 
+Youtube ID: 	ZBXXAVNUlSg 
+Video length: 	244.7 sec 
+Set (V): 		dev 
+ 
+Nathan_Fillion/ZBXXAVNUlSg_0000001 62.6 69.3 
+Nathan_Fillion/ZBXXAVNUlSg_0000002 87.8 92.5 
+Nathan_Fillion/ZBXXAVNUlSg_0000003 160.6 164.6 
+Nathan_Fillion/ZBXXAVNUlSg_0000004 205.2 210.0 
+Nathan_Fillion/ZBXXAVNUlSg_0000005 212.6 217.8 
+Nathan_Fillion/ZBXXAVNUlSg_0000006 219.0 224.6 

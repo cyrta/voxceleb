@@ -1,0 +1,12 @@
+POI: 			Robert_Vaughn 
+Youtube ID: 	py7mvdwaaas 
+Video length: 	95.7 sec 
+Set (V): 		dev 
+ 
+Robert_Vaughn/py7mvdwaaas_0000001 06.1 12.1 
+Robert_Vaughn/py7mvdwaaas_0000002 20.1 26.2 
+Robert_Vaughn/py7mvdwaaas_0000003 28.8 36.4 
+Robert_Vaughn/py7mvdwaaas_0000004 38.5 43.9 
+Robert_Vaughn/py7mvdwaaas_0000005 47.4 60.5 
+Robert_Vaughn/py7mvdwaaas_0000006 61.2 65.4 
+Robert_Vaughn/py7mvdwaaas_0000007 65.6 72.7 

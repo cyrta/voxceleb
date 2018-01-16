@@ -1,0 +1,12 @@
+POI: 			John_Francis_Daley 
+Youtube ID: 	KBT5KAOsF2s 
+Video length: 	184.6 sec 
+Set (V): 		dev 
+ 
+John_Francis_Daley/KBT5KAOsF2s_0000001 11.7 16.4 
+John_Francis_Daley/KBT5KAOsF2s_0000002 18.3 30.3 
+John_Francis_Daley/KBT5KAOsF2s_0000003 33.0 46.8 
+John_Francis_Daley/KBT5KAOsF2s_0000004 72.6 85.4 
+John_Francis_Daley/KBT5KAOsF2s_0000005 108.9 124.8 
+John_Francis_Daley/KBT5KAOsF2s_0000006 127.3 134.1 
+John_Francis_Daley/KBT5KAOsF2s_0000007 134.0 140.1 

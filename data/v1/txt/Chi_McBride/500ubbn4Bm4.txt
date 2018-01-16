@@ -1,0 +1,9 @@
+POI: 			Chi_McBride 
+Youtube ID: 	500ubbn4Bm4 
+Video length: 	151.3 sec 
+Set (V): 		dev 
+ 
+Chi_McBride/500ubbn4Bm4_0000001 07.0 11.0 
+Chi_McBride/500ubbn4Bm4_0000002 66.8 76.1 
+Chi_McBride/500ubbn4Bm4_0000003 122.4 134.0 
+Chi_McBride/500ubbn4Bm4_0000004 137.4 144.8 

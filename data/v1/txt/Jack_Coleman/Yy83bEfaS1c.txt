@@ -1,0 +1,8 @@
+POI: 			Jack_Coleman 
+Youtube ID: 	Yy83bEfaS1c 
+Video length: 	82.1 sec 
+Set (V): 		dev 
+ 
+Jack_Coleman/Yy83bEfaS1c_0000001 37.5 46.4 
+Jack_Coleman/Yy83bEfaS1c_0000002 52.4 59.3 
+Jack_Coleman/Yy83bEfaS1c_0000003 64.8 78.2 

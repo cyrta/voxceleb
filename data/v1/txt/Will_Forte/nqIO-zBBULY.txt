@@ -1,0 +1,16 @@
+POI: 			Will_Forte 
+Youtube ID: 	nqIO-zBBULY 
+Video length: 	1214.3 sec 
+Set (V): 		dev 
+ 
+Will_Forte/nqIO-zBBULY_0000001 46.5 51.1 
+Will_Forte/nqIO-zBBULY_0000002 311.8 320.9 
+Will_Forte/nqIO-zBBULY_0000003 332.2 338.0 
+Will_Forte/nqIO-zBBULY_0000004 382.7 388.0 
+Will_Forte/nqIO-zBBULY_0000005 394.5 400.2 
+Will_Forte/nqIO-zBBULY_0000006 401.0 410.6 
+Will_Forte/nqIO-zBBULY_0000007 621.8 626.1 
+Will_Forte/nqIO-zBBULY_0000008 933.6 938.2 
+Will_Forte/nqIO-zBBULY_0000009 962.4 968.1 
+Will_Forte/nqIO-zBBULY_0000010 969.1 977.3 
+Will_Forte/nqIO-zBBULY_0000011 984.5 991.0 

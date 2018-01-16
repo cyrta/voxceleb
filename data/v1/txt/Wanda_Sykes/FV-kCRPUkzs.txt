@@ -1,0 +1,8 @@
+POI: 			Wanda_Sykes 
+Youtube ID: 	FV-kCRPUkzs 
+Video length: 	249.7 sec 
+Set (V): 		dev 
+ 
+Wanda_Sykes/FV-kCRPUkzs_0000001 30.5 35.8 
+Wanda_Sykes/FV-kCRPUkzs_0000002 179.6 185.6 
+Wanda_Sykes/FV-kCRPUkzs_0000003 191.2 196.4 

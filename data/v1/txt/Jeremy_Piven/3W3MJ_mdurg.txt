@@ -1,0 +1,25 @@
+POI: 			Jeremy_Piven 
+Youtube ID: 	3W3MJ_mdurg 
+Video length: 	561.8 sec 
+Set (V): 		dev 
+ 
+Jeremy_Piven/3W3MJ_mdurg_0000001 22.1 31.6 
+Jeremy_Piven/3W3MJ_mdurg_0000002 35.3 41.4 
+Jeremy_Piven/3W3MJ_mdurg_0000003 42.5 47.2 
+Jeremy_Piven/3W3MJ_mdurg_0000004 55.2 59.2 
+Jeremy_Piven/3W3MJ_mdurg_0000005 73.4 91.7 
+Jeremy_Piven/3W3MJ_mdurg_0000006 92.8 98.9 
+Jeremy_Piven/3W3MJ_mdurg_0000007 127.0 134.0 
+Jeremy_Piven/3W3MJ_mdurg_0000008 136.8 150.4 
+Jeremy_Piven/3W3MJ_mdurg_0000009 255.0 263.6 
+Jeremy_Piven/3W3MJ_mdurg_0000010 274.3 279.6 
+Jeremy_Piven/3W3MJ_mdurg_0000011 331.7 348.3 
+Jeremy_Piven/3W3MJ_mdurg_0000012 350.1 356.2 
+Jeremy_Piven/3W3MJ_mdurg_0000013 456.6 462.2 
+Jeremy_Piven/3W3MJ_mdurg_0000014 465.6 474.6 
+Jeremy_Piven/3W3MJ_mdurg_0000015 475.0 483.7 
+Jeremy_Piven/3W3MJ_mdurg_0000016 484.3 491.7 
+Jeremy_Piven/3W3MJ_mdurg_0000017 494.7 501.4 
+Jeremy_Piven/3W3MJ_mdurg_0000018 502.0 507.7 
+Jeremy_Piven/3W3MJ_mdurg_0000019 527.4 539.1 
+Jeremy_Piven/3W3MJ_mdurg_0000020 543.5 548.8 

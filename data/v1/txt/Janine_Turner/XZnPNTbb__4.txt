@@ -1,0 +1,13 @@
+POI: 			Janine_Turner 
+Youtube ID: 	XZnPNTbb__4 
+Video length: 	236.9 sec 
+Set (V): 		dev 
+ 
+Janine_Turner/XZnPNTbb__4_0000001 25.9 37.3 
+Janine_Turner/XZnPNTbb__4_0000002 41.2 53.2 
+Janine_Turner/XZnPNTbb__4_0000003 82.3 125.5 
+Janine_Turner/XZnPNTbb__4_0000004 150.0 161.2 
+Janine_Turner/XZnPNTbb__4_0000005 166.1 172.9 
+Janine_Turner/XZnPNTbb__4_0000006 179.0 192.9 
+Janine_Turner/XZnPNTbb__4_0000007 213.8 221.8 
+Janine_Turner/XZnPNTbb__4_0000008 224.6 228.6 

@@ -1,0 +1,8 @@
+POI: 			Damon_Lindelof 
+Youtube ID: 	8_A0To-Sgfc 
+Video length: 	484.9 sec 
+Set (V): 		dev 
+ 
+Damon_Lindelof/8_A0To-Sgfc_0000001 142.2 160.0 
+Damon_Lindelof/8_A0To-Sgfc_0000002 160.9 178.1 
+Damon_Lindelof/8_A0To-Sgfc_0000003 423.5 429.3 

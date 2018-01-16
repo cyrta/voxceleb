@@ -1,0 +1,9 @@
+POI: 			Virginia_Madsen 
+Youtube ID: 	HQZITmshgNE 
+Video length: 	215.5 sec 
+Set (V): 		dev 
+ 
+Virginia_Madsen/HQZITmshgNE_0000001 83.4 87.6 
+Virginia_Madsen/HQZITmshgNE_0000002 108.6 113.5 
+Virginia_Madsen/HQZITmshgNE_0000003 113.6 120.3 
+Virginia_Madsen/HQZITmshgNE_0000004 176.9 182.1 

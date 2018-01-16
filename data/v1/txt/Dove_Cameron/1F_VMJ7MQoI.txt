@@ -1,0 +1,12 @@
+POI: 			Dove_Cameron 
+Youtube ID: 	1F_VMJ7MQoI 
+Video length: 	180.1 sec 
+Set (V): 		dev 
+ 
+Dove_Cameron/1F_VMJ7MQoI_0000001 19.4 24.4 
+Dove_Cameron/1F_VMJ7MQoI_0000002 32.8 37.0 
+Dove_Cameron/1F_VMJ7MQoI_0000003 61.8 66.1 
+Dove_Cameron/1F_VMJ7MQoI_0000004 91.7 97.0 
+Dove_Cameron/1F_VMJ7MQoI_0000005 146.8 151.6 
+Dove_Cameron/1F_VMJ7MQoI_0000006 155.2 159.2 
+Dove_Cameron/1F_VMJ7MQoI_0000007 167.0 171.4 

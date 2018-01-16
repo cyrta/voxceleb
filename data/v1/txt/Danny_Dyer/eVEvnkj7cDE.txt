@@ -1,0 +1,10 @@
+POI: 			Danny_Dyer 
+Youtube ID: 	eVEvnkj7cDE 
+Video length: 	65.5 sec 
+Set (V): 		dev 
+ 
+Danny_Dyer/eVEvnkj7cDE_0000001 15.7 23.5 
+Danny_Dyer/eVEvnkj7cDE_0000002 30.2 34.4 
+Danny_Dyer/eVEvnkj7cDE_0000003 38.5 43.8 
+Danny_Dyer/eVEvnkj7cDE_0000004 44.1 48.7 
+Danny_Dyer/eVEvnkj7cDE_0000005 54.7 59.3 

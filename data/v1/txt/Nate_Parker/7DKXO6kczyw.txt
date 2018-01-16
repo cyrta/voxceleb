@@ -1,0 +1,12 @@
+POI: 			Nate_Parker 
+Youtube ID: 	7DKXO6kczyw 
+Video length: 	150.2 sec 
+Set (V): 		dev 
+ 
+Nate_Parker/7DKXO6kczyw_0000001 18.2 29.7 
+Nate_Parker/7DKXO6kczyw_0000002 37.3 49.2 
+Nate_Parker/7DKXO6kczyw_0000003 58.0 66.2 
+Nate_Parker/7DKXO6kczyw_0000004 97.0 102.2 
+Nate_Parker/7DKXO6kczyw_0000005 105.8 112.3 
+Nate_Parker/7DKXO6kczyw_0000006 126.0 131.3 
+Nate_Parker/7DKXO6kczyw_0000007 136.0 140.5 

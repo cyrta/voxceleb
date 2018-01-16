@@ -1,0 +1,9 @@
+POI: 			Kesha 
+Youtube ID: 	O5f3PJimldw 
+Video length: 	185.7 sec 
+Set (V): 		dev 
+ 
+Kesha/O5f3PJimldw_0000001 08.0 13.6 
+Kesha/O5f3PJimldw_0000002 42.9 50.7 
+Kesha/O5f3PJimldw_0000003 112.7 118.8 
+Kesha/O5f3PJimldw_0000004 142.2 149.7 

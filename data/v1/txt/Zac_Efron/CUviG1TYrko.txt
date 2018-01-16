@@ -1,0 +1,8 @@
+POI: 			Zac_Efron 
+Youtube ID: 	CUviG1TYrko 
+Video length: 	272.8 sec 
+Set (V): 		dev 
+ 
+Zac_Efron/CUviG1TYrko_0000001 150.0 155.2 
+Zac_Efron/CUviG1TYrko_0000002 180.6 188.9 
+Zac_Efron/CUviG1TYrko_0000003 199.1 220.4 

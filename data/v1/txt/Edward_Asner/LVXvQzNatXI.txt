@@ -1,0 +1,7 @@
+POI: 			Edward_Asner 
+Youtube ID: 	LVXvQzNatXI 
+Video length: 	237.5 sec 
+Set (V): 		test 
+ 
+Edward_Asner/LVXvQzNatXI_0000001 147.8 158.6 
+Edward_Asner/LVXvQzNatXI_0000002 176.9 181.0 

@@ -1,0 +1,17 @@
+POI: 			Corbin_Bleu 
+Youtube ID: 	8qp-35jtPc8 
+Video length: 	252.4 sec 
+Set (V): 		dev 
+ 
+Corbin_Bleu/8qp-35jtPc8_0000001 32.2 37.6 
+Corbin_Bleu/8qp-35jtPc8_0000002 42.2 46.4 
+Corbin_Bleu/8qp-35jtPc8_0000003 51.7 56.4 
+Corbin_Bleu/8qp-35jtPc8_0000004 81.1 88.7 
+Corbin_Bleu/8qp-35jtPc8_0000005 104.0 108.6 
+Corbin_Bleu/8qp-35jtPc8_0000006 116.4 127.1 
+Corbin_Bleu/8qp-35jtPc8_0000007 127.4 135.6 
+Corbin_Bleu/8qp-35jtPc8_0000008 136.7 142.2 
+Corbin_Bleu/8qp-35jtPc8_0000009 173.7 180.8 
+Corbin_Bleu/8qp-35jtPc8_0000010 185.2 199.2 
+Corbin_Bleu/8qp-35jtPc8_0000011 206.2 211.7 
+Corbin_Bleu/8qp-35jtPc8_0000012 222.7 230.9 

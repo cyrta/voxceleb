@@ -1,0 +1,26 @@
+POI: 			Ryan_Potter 
+Youtube ID: 	38kE9f-LsAE 
+Video length: 	267.5 sec 
+Set (V): 		dev 
+ 
+Ryan_Potter/38kE9f-LsAE_0000001 15.6 25.6 
+Ryan_Potter/38kE9f-LsAE_0000002 26.4 30.6 
+Ryan_Potter/38kE9f-LsAE_0000003 38.8 48.5 
+Ryan_Potter/38kE9f-LsAE_0000004 51.6 61.6 
+Ryan_Potter/38kE9f-LsAE_0000005 68.3 82.8 
+Ryan_Potter/38kE9f-LsAE_0000006 51.8 61.6 
+Ryan_Potter/38kE9f-LsAE_0000007 65.6 69.7 
+Ryan_Potter/38kE9f-LsAE_0000008 85.1 90.0 
+Ryan_Potter/38kE9f-LsAE_0000009 101.2 105.1 
+Ryan_Potter/38kE9f-LsAE_0000010 105.3 118.3 
+Ryan_Potter/38kE9f-LsAE_0000011 122.9 127.0 
+Ryan_Potter/38kE9f-LsAE_0000012 128.0 138.9 
+Ryan_Potter/38kE9f-LsAE_0000013 139.6 144.6 
+Ryan_Potter/38kE9f-LsAE_0000014 150.8 164.9 
+Ryan_Potter/38kE9f-LsAE_0000015 182.7 199.8 
+Ryan_Potter/38kE9f-LsAE_0000016 205.6 210.7 
+Ryan_Potter/38kE9f-LsAE_0000017 223.6 228.0 
+Ryan_Potter/38kE9f-LsAE_0000018 231.8 242.0 
+Ryan_Potter/38kE9f-LsAE_0000019 243.8 250.5 
+Ryan_Potter/38kE9f-LsAE_0000020 223.7 228.0 
+Ryan_Potter/38kE9f-LsAE_0000021 228.7 233.2 

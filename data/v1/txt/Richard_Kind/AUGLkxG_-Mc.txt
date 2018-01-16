@@ -1,0 +1,8 @@
+POI: 			Richard_Kind 
+Youtube ID: 	AUGLkxG_-Mc 
+Video length: 	366.4 sec 
+Set (V): 		dev 
+ 
+Richard_Kind/AUGLkxG_-Mc_0000001 326.0 331.5 
+Richard_Kind/AUGLkxG_-Mc_0000002 339.5 347.3 
+Richard_Kind/AUGLkxG_-Mc_0000003 348.1 355.0 

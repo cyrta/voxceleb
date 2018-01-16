@@ -1,0 +1,24 @@
+POI: 			Jean-Marc_Barr 
+Youtube ID: 	geBqGy_zzgQ 
+Video length: 	781.4 sec 
+Set (V): 		dev 
+ 
+Jean-Marc_Barr/geBqGy_zzgQ_0000001 23.5 31.0 
+Jean-Marc_Barr/geBqGy_zzgQ_0000002 31.6 37.8 
+Jean-Marc_Barr/geBqGy_zzgQ_0000003 86.6 92.6 
+Jean-Marc_Barr/geBqGy_zzgQ_0000004 237.9 242.2 
+Jean-Marc_Barr/geBqGy_zzgQ_0000005 300.4 305.8 
+Jean-Marc_Barr/geBqGy_zzgQ_0000006 309.6 313.9 
+Jean-Marc_Barr/geBqGy_zzgQ_0000007 315.8 320.0 
+Jean-Marc_Barr/geBqGy_zzgQ_0000008 337.3 344.2 
+Jean-Marc_Barr/geBqGy_zzgQ_0000009 390.0 394.2 
+Jean-Marc_Barr/geBqGy_zzgQ_0000010 398.8 403.9 
+Jean-Marc_Barr/geBqGy_zzgQ_0000011 406.1 410.6 
+Jean-Marc_Barr/geBqGy_zzgQ_0000012 470.4 477.3 
+Jean-Marc_Barr/geBqGy_zzgQ_0000013 515.8 524.2 
+Jean-Marc_Barr/geBqGy_zzgQ_0000014 532.4 537.5 
+Jean-Marc_Barr/geBqGy_zzgQ_0000015 540.2 547.9 
+Jean-Marc_Barr/geBqGy_zzgQ_0000016 587.6 592.9 
+Jean-Marc_Barr/geBqGy_zzgQ_0000017 630.3 638.0 
+Jean-Marc_Barr/geBqGy_zzgQ_0000018 704.2 708.8 
+Jean-Marc_Barr/geBqGy_zzgQ_0000019 757.0 761.0 

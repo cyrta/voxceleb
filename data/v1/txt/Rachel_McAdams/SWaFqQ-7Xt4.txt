@@ -1,0 +1,9 @@
+POI: 			Rachel_McAdams 
+Youtube ID: 	SWaFqQ-7Xt4 
+Video length: 	156.4 sec 
+Set (V): 		dev 
+ 
+Rachel_McAdams/SWaFqQ-7Xt4_0000001 13.6 23.8 
+Rachel_McAdams/SWaFqQ-7Xt4_0000002 69.1 80.6 
+Rachel_McAdams/SWaFqQ-7Xt4_0000003 117.0 131.0 
+Rachel_McAdams/SWaFqQ-7Xt4_0000004 138.3 144.4 

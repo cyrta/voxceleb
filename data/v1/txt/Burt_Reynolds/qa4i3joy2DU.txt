@@ -1,0 +1,9 @@
+POI: 			Burt_Reynolds 
+Youtube ID: 	qa4i3joy2DU 
+Video length: 	481.8 sec 
+Set (V): 		dev 
+ 
+Burt_Reynolds/qa4i3joy2DU_0000001 74.2 78.8 
+Burt_Reynolds/qa4i3joy2DU_0000002 125.2 129.4 
+Burt_Reynolds/qa4i3joy2DU_0000003 338.8 342.8 
+Burt_Reynolds/qa4i3joy2DU_0000004 432.6 437.4 

@@ -1,0 +1,11 @@
+POI: 			Andrew_Dice_Clay 
+Youtube ID: 	r33ucNHiqpw 
+Video length: 	139.6 sec 
+Set (V): 		dev 
+ 
+Andrew_Dice_Clay/r33ucNHiqpw_0000001 04.3 09.1 
+Andrew_Dice_Clay/r33ucNHiqpw_0000002 10.2 17.6 
+Andrew_Dice_Clay/r33ucNHiqpw_0000003 60.4 65.2 
+Andrew_Dice_Clay/r33ucNHiqpw_0000004 69.4 75.1 
+Andrew_Dice_Clay/r33ucNHiqpw_0000005 81.4 88.1 
+Andrew_Dice_Clay/r33ucNHiqpw_0000006 94.9 102.6 

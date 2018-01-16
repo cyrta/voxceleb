@@ -1,0 +1,7 @@
+POI: 			Joss_Stone 
+Youtube ID: 	4wcoqK5SSWo 
+Video length: 	457.4 sec 
+Set (V): 		dev 
+ 
+Joss_Stone/4wcoqK5SSWo_0000001 111.4 116.7 
+Joss_Stone/4wcoqK5SSWo_0000002 390.0 401.4 

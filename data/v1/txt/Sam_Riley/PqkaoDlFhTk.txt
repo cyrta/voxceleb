@@ -1,0 +1,11 @@
+POI: 			Sam_Riley 
+Youtube ID: 	PqkaoDlFhTk 
+Video length: 	250.0 sec 
+Set (V): 		dev 
+ 
+Sam_Riley/PqkaoDlFhTk_0000001 88.8 93.5 
+Sam_Riley/PqkaoDlFhTk_0000002 93.6 98.0 
+Sam_Riley/PqkaoDlFhTk_0000003 121.4 125.7 
+Sam_Riley/PqkaoDlFhTk_0000004 127.6 132.3 
+Sam_Riley/PqkaoDlFhTk_0000005 197.5 201.9 
+Sam_Riley/PqkaoDlFhTk_0000006 209.9 214.5 

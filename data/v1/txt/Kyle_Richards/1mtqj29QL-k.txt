@@ -1,0 +1,9 @@
+POI: 			Kyle_Richards 
+Youtube ID: 	1mtqj29QL-k 
+Video length: 	314.5 sec 
+Set (V): 		dev 
+ 
+Kyle_Richards/1mtqj29QL-k_0000001 49.2 53.6 
+Kyle_Richards/1mtqj29QL-k_0000002 209.9 215.3 
+Kyle_Richards/1mtqj29QL-k_0000003 233.6 245.0 
+Kyle_Richards/1mtqj29QL-k_0000004 246.1 251.0 

@@ -1,0 +1,11 @@
+POI: 			Whitney_Cummings 
+Youtube ID: 	piBt1DzzIKg 
+Video length: 	495.8 sec 
+Set (V): 		dev 
+ 
+Whitney_Cummings/piBt1DzzIKg_0000001 75.8 80.0 
+Whitney_Cummings/piBt1DzzIKg_0000002 83.7 87.7 
+Whitney_Cummings/piBt1DzzIKg_0000003 336.2 344.5 
+Whitney_Cummings/piBt1DzzIKg_0000004 362.6 367.0 
+Whitney_Cummings/piBt1DzzIKg_0000005 372.2 376.8 
+Whitney_Cummings/piBt1DzzIKg_0000006 389.9 394.0 

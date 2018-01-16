@@ -1,0 +1,12 @@
+POI: 			Gregg_Sulkin 
+Youtube ID: 	D933Re_rlVs 
+Video length: 	356.6 sec 
+Set (V): 		dev 
+ 
+Gregg_Sulkin/D933Re_rlVs_0000001 68.3 85.4 
+Gregg_Sulkin/D933Re_rlVs_0000002 113.8 122.6 
+Gregg_Sulkin/D933Re_rlVs_0000003 180.2 186.1 
+Gregg_Sulkin/D933Re_rlVs_0000004 188.5 201.0 
+Gregg_Sulkin/D933Re_rlVs_0000005 236.0 251.9 
+Gregg_Sulkin/D933Re_rlVs_0000006 267.1 287.4 
+Gregg_Sulkin/D933Re_rlVs_0000007 328.7 333.8 

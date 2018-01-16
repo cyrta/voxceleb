@@ -1,0 +1,10 @@
+POI: 			Pablo_Schreiber 
+Youtube ID: 	Rmgowx5TY3s 
+Video length: 	289.9 sec 
+Set (V): 		dev 
+ 
+Pablo_Schreiber/Rmgowx5TY3s_0000001 87.0 98.4 
+Pablo_Schreiber/Rmgowx5TY3s_0000002 102.6 118.2 
+Pablo_Schreiber/Rmgowx5TY3s_0000003 176.4 182.4 
+Pablo_Schreiber/Rmgowx5TY3s_0000004 182.9 210.4 
+Pablo_Schreiber/Rmgowx5TY3s_0000005 211.3 215.8 

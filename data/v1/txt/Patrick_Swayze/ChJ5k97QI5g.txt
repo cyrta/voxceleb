@@ -1,0 +1,20 @@
+POI: 			Patrick_Swayze 
+Youtube ID: 	ChJ5k97QI5g 
+Video length: 	700.8 sec 
+Set (V): 		dev 
+ 
+Patrick_Swayze/ChJ5k97QI5g_0000001 168.7 177.5 
+Patrick_Swayze/ChJ5k97QI5g_0000002 200.4 211.7 
+Patrick_Swayze/ChJ5k97QI5g_0000003 235.1 241.2 
+Patrick_Swayze/ChJ5k97QI5g_0000004 261.6 270.1 
+Patrick_Swayze/ChJ5k97QI5g_0000005 270.3 278.2 
+Patrick_Swayze/ChJ5k97QI5g_0000006 304.9 312.4 
+Patrick_Swayze/ChJ5k97QI5g_0000007 313.5 323.5 
+Patrick_Swayze/ChJ5k97QI5g_0000008 328.3 332.3 
+Patrick_Swayze/ChJ5k97QI5g_0000009 341.3 351.7 
+Patrick_Swayze/ChJ5k97QI5g_0000010 395.9 402.3 
+Patrick_Swayze/ChJ5k97QI5g_0000011 438.6 443.9 
+Patrick_Swayze/ChJ5k97QI5g_0000012 466.0 470.0 
+Patrick_Swayze/ChJ5k97QI5g_0000013 470.5 475.2 
+Patrick_Swayze/ChJ5k97QI5g_0000014 613.7 619.7 
+Patrick_Swayze/ChJ5k97QI5g_0000015 628.0 634.0 

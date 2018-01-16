@@ -1,0 +1,18 @@
+POI: 			Loretta_Swit 
+Youtube ID: 	dinctLMTXmM 
+Video length: 	400.7 sec 
+Set (V): 		dev 
+ 
+Loretta_Swit/dinctLMTXmM_0000001 73.0 80.8 
+Loretta_Swit/dinctLMTXmM_0000002 100.6 114.4 
+Loretta_Swit/dinctLMTXmM_0000003 115.5 124.7 
+Loretta_Swit/dinctLMTXmM_0000004 134.8 140.0 
+Loretta_Swit/dinctLMTXmM_0000005 182.2 190.2 
+Loretta_Swit/dinctLMTXmM_0000006 192.6 196.7 
+Loretta_Swit/dinctLMTXmM_0000007 201.0 206.2 
+Loretta_Swit/dinctLMTXmM_0000008 214.9 219.4 
+Loretta_Swit/dinctLMTXmM_0000009 234.6 248.7 
+Loretta_Swit/dinctLMTXmM_0000010 248.8 255.4 
+Loretta_Swit/dinctLMTXmM_0000011 278.1 283.6 
+Loretta_Swit/dinctLMTXmM_0000012 364.5 372.3 
+Loretta_Swit/dinctLMTXmM_0000013 386.6 391.2 

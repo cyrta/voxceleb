@@ -1,0 +1,11 @@
+POI: 			Demian_Bichir 
+Youtube ID: 	w1vmgtWiwxM 
+Video length: 	129.9 sec 
+Set (V): 		dev 
+ 
+Demian_Bichir/w1vmgtWiwxM_0000001 24.3 29.1 
+Demian_Bichir/w1vmgtWiwxM_0000002 30.1 45.2 
+Demian_Bichir/w1vmgtWiwxM_0000003 61.7 67.6 
+Demian_Bichir/w1vmgtWiwxM_0000004 67.9 74.4 
+Demian_Bichir/w1vmgtWiwxM_0000005 83.4 87.4 
+Demian_Bichir/w1vmgtWiwxM_0000006 116.4 122.6 

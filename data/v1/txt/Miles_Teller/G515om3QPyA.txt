@@ -1,0 +1,8 @@
+POI: 			Miles_Teller 
+Youtube ID: 	G515om3QPyA 
+Video length: 	325.9 sec 
+Set (V): 		dev 
+ 
+Miles_Teller/G515om3QPyA_0000001 70.4 79.6 
+Miles_Teller/G515om3QPyA_0000002 170.6 187.2 
+Miles_Teller/G515om3QPyA_0000003 243.9 249.5 

@@ -1,0 +1,9 @@
+POI: 			Olivia_Williams 
+Youtube ID: 	Zb8DKXNvcXw 
+Video length: 	169.0 sec 
+Set (V): 		dev 
+ 
+Olivia_Williams/Zb8DKXNvcXw_0000001 09.3 13.4 
+Olivia_Williams/Zb8DKXNvcXw_0000002 57.9 97.1 
+Olivia_Williams/Zb8DKXNvcXw_0000003 113.2 122.5 
+Olivia_Williams/Zb8DKXNvcXw_0000004 128.7 167.1 

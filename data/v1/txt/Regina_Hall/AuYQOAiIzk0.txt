@@ -1,0 +1,7 @@
+POI: 			Regina_Hall 
+Youtube ID: 	AuYQOAiIzk0 
+Video length: 	378.4 sec 
+Set (V): 		dev 
+ 
+Regina_Hall/AuYQOAiIzk0_0000001 148.4 153.8 
+Regina_Hall/AuYQOAiIzk0_0000002 161.8 166.8 

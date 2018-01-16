@@ -1,0 +1,8 @@
+POI: 			Margo_Martindale 
+Youtube ID: 	SdbNSavkppM 
+Video length: 	352.5 sec 
+Set (V): 		dev 
+ 
+Margo_Martindale/SdbNSavkppM_0000001 136.3 143.6 
+Margo_Martindale/SdbNSavkppM_0000002 262.7 280.2 
+Margo_Martindale/SdbNSavkppM_0000003 316.0 328.2 

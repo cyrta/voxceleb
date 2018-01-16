@@ -1,0 +1,11 @@
+POI: 			Laz_Alonso 
+Youtube ID: 	8XdHb4wuo5Q 
+Video length: 	107.3 sec 
+Set (V): 		dev 
+ 
+Laz_Alonso/8XdHb4wuo5Q_0000001 02.2 27.4 
+Laz_Alonso/8XdHb4wuo5Q_0000002 28.2 37.3 
+Laz_Alonso/8XdHb4wuo5Q_0000003 40.0 49.0 
+Laz_Alonso/8XdHb4wuo5Q_0000004 05.0 09.4 
+Laz_Alonso/8XdHb4wuo5Q_0000005 52.3 87.7 
+Laz_Alonso/8XdHb4wuo5Q_0000006 89.7 104.8 

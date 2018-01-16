@@ -1,0 +1,21 @@
+POI: 			Lucie_Arnaz 
+Youtube ID: 	qxoV_gJDHAE 
+Video length: 	641.0 sec 
+Set (V): 		dev 
+ 
+Lucie_Arnaz/qxoV_gJDHAE_0000001 169.5 182.4 
+Lucie_Arnaz/qxoV_gJDHAE_0000002 242.2 251.1 
+Lucie_Arnaz/qxoV_gJDHAE_0000003 273.0 284.1 
+Lucie_Arnaz/qxoV_gJDHAE_0000004 284.8 297.8 
+Lucie_Arnaz/qxoV_gJDHAE_0000005 305.3 313.2 
+Lucie_Arnaz/qxoV_gJDHAE_0000006 316.0 326.9 
+Lucie_Arnaz/qxoV_gJDHAE_0000007 329.4 333.8 
+Lucie_Arnaz/qxoV_gJDHAE_0000008 363.3 370.4 
+Lucie_Arnaz/qxoV_gJDHAE_0000009 371.7 380.0 
+Lucie_Arnaz/qxoV_gJDHAE_0000010 391.2 400.2 
+Lucie_Arnaz/qxoV_gJDHAE_0000011 400.5 407.2 
+Lucie_Arnaz/qxoV_gJDHAE_0000012 462.2 466.2 
+Lucie_Arnaz/qxoV_gJDHAE_0000013 472.4 484.0 
+Lucie_Arnaz/qxoV_gJDHAE_0000014 485.9 491.3 
+Lucie_Arnaz/qxoV_gJDHAE_0000015 496.6 500.6 
+Lucie_Arnaz/qxoV_gJDHAE_0000016 546.2 552.0 

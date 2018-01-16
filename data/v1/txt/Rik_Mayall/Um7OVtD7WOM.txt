@@ -1,0 +1,10 @@
+POI: 			Rik_Mayall 
+Youtube ID: 	Um7OVtD7WOM 
+Video length: 	940.8 sec 
+Set (V): 		dev 
+ 
+Rik_Mayall/Um7OVtD7WOM_0000001 93.2 98.4 
+Rik_Mayall/Um7OVtD7WOM_0000002 98.8 102.8 
+Rik_Mayall/Um7OVtD7WOM_0000003 448.3 453.8 
+Rik_Mayall/Um7OVtD7WOM_0000004 577.3 582.0 
+Rik_Mayall/Um7OVtD7WOM_0000005 916.6 921.5 

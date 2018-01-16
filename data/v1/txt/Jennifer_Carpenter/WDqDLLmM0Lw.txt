@@ -1,0 +1,8 @@
+POI: 			Jennifer_Carpenter 
+Youtube ID: 	WDqDLLmM0Lw 
+Video length: 	219.9 sec 
+Set (V): 		dev 
+ 
+Jennifer_Carpenter/WDqDLLmM0Lw_0000001 09.2 26.0 
+Jennifer_Carpenter/WDqDLLmM0Lw_0000002 39.0 63.8 
+Jennifer_Carpenter/WDqDLLmM0Lw_0000003 68.9 89.9 

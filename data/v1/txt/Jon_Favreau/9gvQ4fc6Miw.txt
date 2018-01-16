@@ -1,0 +1,14 @@
+POI: 			Jon_Favreau 
+Youtube ID: 	9gvQ4fc6Miw 
+Video length: 	320.9 sec 
+Set (V): 		dev 
+ 
+Jon_Favreau/9gvQ4fc6Miw_0000001 24.5 46.3 
+Jon_Favreau/9gvQ4fc6Miw_0000002 62.6 94.2 
+Jon_Favreau/9gvQ4fc6Miw_0000003 99.3 104.1 
+Jon_Favreau/9gvQ4fc6Miw_0000004 110.5 130.3 
+Jon_Favreau/9gvQ4fc6Miw_0000005 141.1 168.8 
+Jon_Favreau/9gvQ4fc6Miw_0000006 169.4 216.7 
+Jon_Favreau/9gvQ4fc6Miw_0000007 178.5 192.2 
+Jon_Favreau/9gvQ4fc6Miw_0000008 234.0 250.6 
+Jon_Favreau/9gvQ4fc6Miw_0000009 257.1 291.5 

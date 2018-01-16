@@ -1,0 +1,18 @@
+POI: 			Lisa_Kudrow 
+Youtube ID: 	e3H9NnU0pwA 
+Video length: 	197.6 sec 
+Set (V): 		dev 
+ 
+Lisa_Kudrow/e3H9NnU0pwA_0000001 12.4 18.8 
+Lisa_Kudrow/e3H9NnU0pwA_0000002 20.0 24.4 
+Lisa_Kudrow/e3H9NnU0pwA_0000003 32.6 37.5 
+Lisa_Kudrow/e3H9NnU0pwA_0000004 37.8 45.4 
+Lisa_Kudrow/e3H9NnU0pwA_0000005 48.8 52.8 
+Lisa_Kudrow/e3H9NnU0pwA_0000006 53.4 61.1 
+Lisa_Kudrow/e3H9NnU0pwA_0000007 65.1 72.0 
+Lisa_Kudrow/e3H9NnU0pwA_0000008 81.2 86.6 
+Lisa_Kudrow/e3H9NnU0pwA_0000009 117.1 124.2 
+Lisa_Kudrow/e3H9NnU0pwA_0000010 130.4 137.2 
+Lisa_Kudrow/e3H9NnU0pwA_0000011 140.6 144.6 
+Lisa_Kudrow/e3H9NnU0pwA_0000012 145.6 159.3 
+Lisa_Kudrow/e3H9NnU0pwA_0000013 160.4 177.3 

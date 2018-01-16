@@ -1,0 +1,25 @@
+POI: 			Ruta_Lee 
+Youtube ID: 	69_Lld4oKtU 
+Video length: 	861.2 sec 
+Set (V): 		dev 
+ 
+Ruta_Lee/69_Lld4oKtU_0000001 32.5 41.1 
+Ruta_Lee/69_Lld4oKtU_0000002 47.5 60.0 
+Ruta_Lee/69_Lld4oKtU_0000003 73.3 78.9 
+Ruta_Lee/69_Lld4oKtU_0000004 165.4 170.4 
+Ruta_Lee/69_Lld4oKtU_0000005 192.9 200.6 
+Ruta_Lee/69_Lld4oKtU_0000006 238.6 243.5 
+Ruta_Lee/69_Lld4oKtU_0000007 339.4 343.8 
+Ruta_Lee/69_Lld4oKtU_0000008 408.1 415.7 
+Ruta_Lee/69_Lld4oKtU_0000009 449.2 453.6 
+Ruta_Lee/69_Lld4oKtU_0000010 462.4 466.6 
+Ruta_Lee/69_Lld4oKtU_0000011 468.7 473.1 
+Ruta_Lee/69_Lld4oKtU_0000012 490.0 508.8 
+Ruta_Lee/69_Lld4oKtU_0000013 554.7 563.2 
+Ruta_Lee/69_Lld4oKtU_0000014 620.8 625.6 
+Ruta_Lee/69_Lld4oKtU_0000015 650.6 679.7 
+Ruta_Lee/69_Lld4oKtU_0000016 684.8 690.0 
+Ruta_Lee/69_Lld4oKtU_0000017 732.5 742.0 
+Ruta_Lee/69_Lld4oKtU_0000018 803.1 807.6 
+Ruta_Lee/69_Lld4oKtU_0000019 808.8 813.1 
+Ruta_Lee/69_Lld4oKtU_0000020 833.6 840.2 

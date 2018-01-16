@@ -1,0 +1,16 @@
+POI: 			Jason_Dohring 
+Youtube ID: 	sg27VBQcpe0 
+Video length: 	603.9 sec 
+Set (V): 		dev 
+ 
+Jason_Dohring/sg27VBQcpe0_0000001 24.6 29.5 
+Jason_Dohring/sg27VBQcpe0_0000002 84.0 90.4 
+Jason_Dohring/sg27VBQcpe0_0000003 96.4 101.7 
+Jason_Dohring/sg27VBQcpe0_0000004 105.6 109.6 
+Jason_Dohring/sg27VBQcpe0_0000005 151.2 155.7 
+Jason_Dohring/sg27VBQcpe0_0000006 186.8 197.0 
+Jason_Dohring/sg27VBQcpe0_0000007 197.8 202.2 
+Jason_Dohring/sg27VBQcpe0_0000008 266.0 272.8 
+Jason_Dohring/sg27VBQcpe0_0000009 319.8 328.0 
+Jason_Dohring/sg27VBQcpe0_0000010 488.2 494.8 
+Jason_Dohring/sg27VBQcpe0_0000011 568.7 573.5 

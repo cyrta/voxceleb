@@ -1,0 +1,11 @@
+POI: 			Olivia_Munn 
+Youtube ID: 	bmUHp_Lvuxk 
+Video length: 	232.1 sec 
+Set (V): 		dev 
+ 
+Olivia_Munn/bmUHp_Lvuxk_0000001 124.4 134.4 
+Olivia_Munn/bmUHp_Lvuxk_0000002 136.3 141.6 
+Olivia_Munn/bmUHp_Lvuxk_0000003 146.1 151.2 
+Olivia_Munn/bmUHp_Lvuxk_0000004 151.3 156.5 
+Olivia_Munn/bmUHp_Lvuxk_0000005 160.3 169.6 
+Olivia_Munn/bmUHp_Lvuxk_0000006 175.6 180.0 

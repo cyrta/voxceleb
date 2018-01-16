@@ -1,0 +1,12 @@
+POI: 			Will_Poulter 
+Youtube ID: 	8JinYMEdRkg 
+Video length: 	302.6 sec 
+Set (V): 		dev 
+ 
+Will_Poulter/8JinYMEdRkg_0000001 93.1 97.4 
+Will_Poulter/8JinYMEdRkg_0000002 106.7 112.4 
+Will_Poulter/8JinYMEdRkg_0000003 117.9 135.4 
+Will_Poulter/8JinYMEdRkg_0000004 162.1 166.1 
+Will_Poulter/8JinYMEdRkg_0000005 211.2 228.6 
+Will_Poulter/8JinYMEdRkg_0000006 246.0 250.4 
+Will_Poulter/8JinYMEdRkg_0000007 275.7 280.2 

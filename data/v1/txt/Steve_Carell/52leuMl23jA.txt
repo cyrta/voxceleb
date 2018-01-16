@@ -1,0 +1,12 @@
+POI: 			Steve_Carell 
+Youtube ID: 	52leuMl23jA 
+Video length: 	354.9 sec 
+Set (V): 		dev 
+ 
+Steve_Carell/52leuMl23jA_0000001 76.4 86.0 
+Steve_Carell/52leuMl23jA_0000002 90.0 96.9 
+Steve_Carell/52leuMl23jA_0000003 112.4 120.6 
+Steve_Carell/52leuMl23jA_0000004 177.4 187.6 
+Steve_Carell/52leuMl23jA_0000005 188.6 192.7 
+Steve_Carell/52leuMl23jA_0000006 208.8 216.8 
+Steve_Carell/52leuMl23jA_0000007 244.5 253.5 

@@ -1,0 +1,13 @@
+POI: 			Alan_Cumming 
+Youtube ID: 	1pxQ3nFrSWg 
+Video length: 	331.1 sec 
+Set (V): 		dev 
+ 
+Alan_Cumming/1pxQ3nFrSWg_0000001 43.7 49.0 
+Alan_Cumming/1pxQ3nFrSWg_0000002 68.6 77.0 
+Alan_Cumming/1pxQ3nFrSWg_0000003 78.0 84.4 
+Alan_Cumming/1pxQ3nFrSWg_0000004 88.8 94.5 
+Alan_Cumming/1pxQ3nFrSWg_0000005 104.0 110.7 
+Alan_Cumming/1pxQ3nFrSWg_0000006 192.0 210.2 
+Alan_Cumming/1pxQ3nFrSWg_0000007 258.0 268.4 
+Alan_Cumming/1pxQ3nFrSWg_0000008 307.7 312.2 

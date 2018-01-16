@@ -1,0 +1,7 @@
+POI: 			Jack_Whitehall 
+Youtube ID: 	VX1SIBFEObc 
+Video length: 	874.5 sec 
+Set (V): 		dev 
+ 
+Jack_Whitehall/VX1SIBFEObc_0000001 464.3 469.6 
+Jack_Whitehall/VX1SIBFEObc_0000002 523.4 527.9 

@@ -1,0 +1,11 @@
+POI: 			Stephen_Baldwin 
+Youtube ID: 	mJ-W96hMyVE 
+Video length: 	283.0 sec 
+Set (V): 		dev 
+ 
+Stephen_Baldwin/mJ-W96hMyVE_0000001 78.8 84.0 
+Stephen_Baldwin/mJ-W96hMyVE_0000002 97.6 114.9 
+Stephen_Baldwin/mJ-W96hMyVE_0000003 182.0 192.0 
+Stephen_Baldwin/mJ-W96hMyVE_0000004 226.4 235.1 
+Stephen_Baldwin/mJ-W96hMyVE_0000005 249.0 255.8 
+Stephen_Baldwin/mJ-W96hMyVE_0000006 260.3 265.8 

@@ -1,0 +1,15 @@
+POI: 			William_Levy 
+Youtube ID: 	aaebCc11h2I 
+Video length: 	793.3 sec 
+Set (V): 		dev 
+ 
+William_Levy/aaebCc11h2I_0000001 193.3 202.4 
+William_Levy/aaebCc11h2I_0000002 209.9 216.7 
+William_Levy/aaebCc11h2I_0000003 451.7 459.7 
+William_Levy/aaebCc11h2I_0000004 465.2 474.3 
+William_Levy/aaebCc11h2I_0000005 495.8 500.4 
+William_Levy/aaebCc11h2I_0000006 502.5 509.4 
+William_Levy/aaebCc11h2I_0000007 496.4 500.5 
+William_Levy/aaebCc11h2I_0000008 503.9 509.7 
+William_Levy/aaebCc11h2I_0000009 512.6 519.9 
+William_Levy/aaebCc11h2I_0000010 636.8 653.7 

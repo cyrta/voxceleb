@@ -1,0 +1,11 @@
+POI: 			Luc_Besson 
+Youtube ID: 	CyLWAtd4DuQ 
+Video length: 	419.3 sec 
+Set (V): 		dev 
+ 
+Luc_Besson/CyLWAtd4DuQ_0000001 103.3 113.5 
+Luc_Besson/CyLWAtd4DuQ_0000002 124.8 129.9 
+Luc_Besson/CyLWAtd4DuQ_0000003 168.3 176.6 
+Luc_Besson/CyLWAtd4DuQ_0000004 213.7 218.8 
+Luc_Besson/CyLWAtd4DuQ_0000005 307.6 314.0 
+Luc_Besson/CyLWAtd4DuQ_0000006 362.8 368.3 

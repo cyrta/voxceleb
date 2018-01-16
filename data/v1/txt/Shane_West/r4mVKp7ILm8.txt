@@ -1,0 +1,7 @@
+POI: 			Shane_West 
+Youtube ID: 	r4mVKp7ILm8 
+Video length: 	125.0 sec 
+Set (V): 		dev 
+ 
+Shane_West/r4mVKp7ILm8_0000001 67.1 89.2 
+Shane_West/r4mVKp7ILm8_0000002 97.5 105.8 

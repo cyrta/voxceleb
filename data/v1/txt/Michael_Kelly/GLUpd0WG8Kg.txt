@@ -1,0 +1,17 @@
+POI: 			Michael_Kelly 
+Youtube ID: 	GLUpd0WG8Kg 
+Video length: 	402.3 sec 
+Set (V): 		dev 
+ 
+Michael_Kelly/GLUpd0WG8Kg_0000001 81.5 90.1 
+Michael_Kelly/GLUpd0WG8Kg_0000002 90.8 98.4 
+Michael_Kelly/GLUpd0WG8Kg_0000003 113.0 121.2 
+Michael_Kelly/GLUpd0WG8Kg_0000004 131.9 136.7 
+Michael_Kelly/GLUpd0WG8Kg_0000005 158.4 179.0 
+Michael_Kelly/GLUpd0WG8Kg_0000006 237.0 243.7 
+Michael_Kelly/GLUpd0WG8Kg_0000007 252.2 269.1 
+Michael_Kelly/GLUpd0WG8Kg_0000008 335.6 339.7 
+Michael_Kelly/GLUpd0WG8Kg_0000009 340.6 348.9 
+Michael_Kelly/GLUpd0WG8Kg_0000010 356.2 363.7 
+Michael_Kelly/GLUpd0WG8Kg_0000011 363.8 373.1 
+Michael_Kelly/GLUpd0WG8Kg_0000012 379.6 388.3 

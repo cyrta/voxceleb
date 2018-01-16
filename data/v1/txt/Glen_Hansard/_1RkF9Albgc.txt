@@ -1,0 +1,20 @@
+POI: 			Glen_Hansard 
+Youtube ID: 	_1RkF9Albgc 
+Video length: 	570.7 sec 
+Set (V): 		dev 
+ 
+Glen_Hansard/_1RkF9Albgc_0000001 80.8 90.4 
+Glen_Hansard/_1RkF9Albgc_0000002 93.0 102.6 
+Glen_Hansard/_1RkF9Albgc_0000003 104.7 112.6 
+Glen_Hansard/_1RkF9Albgc_0000004 141.0 145.5 
+Glen_Hansard/_1RkF9Albgc_0000005 147.1 159.2 
+Glen_Hansard/_1RkF9Albgc_0000006 192.0 197.0 
+Glen_Hansard/_1RkF9Albgc_0000007 197.1 228.8 
+Glen_Hansard/_1RkF9Albgc_0000008 231.8 236.0 
+Glen_Hansard/_1RkF9Albgc_0000009 255.2 260.0 
+Glen_Hansard/_1RkF9Albgc_0000010 264.4 277.5 
+Glen_Hansard/_1RkF9Albgc_0000011 376.4 385.1 
+Glen_Hansard/_1RkF9Albgc_0000012 386.2 390.2 
+Glen_Hansard/_1RkF9Albgc_0000013 492.9 501.3 
+Glen_Hansard/_1RkF9Albgc_0000014 486.1 491.4 
+Glen_Hansard/_1RkF9Albgc_0000015 491.9 496.0 

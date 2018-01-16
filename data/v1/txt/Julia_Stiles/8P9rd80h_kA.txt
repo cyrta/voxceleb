@@ -1,0 +1,8 @@
+POI: 			Julia_Stiles 
+Youtube ID: 	8P9rd80h_kA 
+Video length: 	424.2 sec 
+Set (V): 		dev 
+ 
+Julia_Stiles/8P9rd80h_kA_0000001 130.6 136.5 
+Julia_Stiles/8P9rd80h_kA_0000002 280.9 289.3 
+Julia_Stiles/8P9rd80h_kA_0000003 399.2 405.6 

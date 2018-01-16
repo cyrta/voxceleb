@@ -1,0 +1,8 @@
+POI: 			Meghan_Trainor 
+Youtube ID: 	gCYRi_3rqm0 
+Video length: 	169.3 sec 
+Set (V): 		dev 
+ 
+Meghan_Trainor/gCYRi_3rqm0_0000001 04.7 09.5 
+Meghan_Trainor/gCYRi_3rqm0_0000002 48.3 53.3 
+Meghan_Trainor/gCYRi_3rqm0_0000003 85.3 89.8 

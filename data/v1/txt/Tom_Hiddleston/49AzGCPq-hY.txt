@@ -1,0 +1,8 @@
+POI: 			Tom_Hiddleston 
+Youtube ID: 	49AzGCPq-hY 
+Video length: 	495.9 sec 
+Set (V): 		dev 
+ 
+Tom_Hiddleston/49AzGCPq-hY_0000001 105.5 114.5 
+Tom_Hiddleston/49AzGCPq-hY_0000002 184.1 188.2 
+Tom_Hiddleston/49AzGCPq-hY_0000003 205.8 211.6 

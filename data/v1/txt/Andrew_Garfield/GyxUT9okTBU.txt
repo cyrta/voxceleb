@@ -1,0 +1,9 @@
+POI: 			Andrew_Garfield 
+Youtube ID: 	GyxUT9okTBU 
+Video length: 	475.4 sec 
+Set (V): 		dev 
+ 
+Andrew_Garfield/GyxUT9okTBU_0000001 242.5 253.7 
+Andrew_Garfield/GyxUT9okTBU_0000002 264.4 272.0 
+Andrew_Garfield/GyxUT9okTBU_0000003 285.8 290.5 
+Andrew_Garfield/GyxUT9okTBU_0000004 293.4 298.2 

@@ -1,0 +1,11 @@
+POI: 			Jillian_Michaels 
+Youtube ID: 	UNYe2joO2IE 
+Video length: 	206.7 sec 
+Set (V): 		dev 
+ 
+Jillian_Michaels/UNYe2joO2IE_0000001 75.2 84.2 
+Jillian_Michaels/UNYe2joO2IE_0000002 87.4 95.0 
+Jillian_Michaels/UNYe2joO2IE_0000003 96.9 109.0 
+Jillian_Michaels/UNYe2joO2IE_0000004 126.3 144.9 
+Jillian_Michaels/UNYe2joO2IE_0000005 147.5 153.1 
+Jillian_Michaels/UNYe2joO2IE_0000006 153.4 161.1 

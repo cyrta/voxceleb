@@ -1,0 +1,12 @@
+POI: 			Emile_Hirsch 
+Youtube ID: 	kKQpvHl21Cg 
+Video length: 	261.5 sec 
+Set (V): 		test 
+ 
+Emile_Hirsch/kKQpvHl21Cg_0000001 27.5 38.2 
+Emile_Hirsch/kKQpvHl21Cg_0000002 58.1 62.2 
+Emile_Hirsch/kKQpvHl21Cg_0000003 117.2 121.4 
+Emile_Hirsch/kKQpvHl21Cg_0000004 132.9 137.6 
+Emile_Hirsch/kKQpvHl21Cg_0000005 137.9 150.0 
+Emile_Hirsch/kKQpvHl21Cg_0000006 153.9 161.0 
+Emile_Hirsch/kKQpvHl21Cg_0000007 203.2 208.4 

@@ -1,0 +1,8 @@
+POI: 			Rooney_Mara 
+Youtube ID: 	ElyG-CpDUUc 
+Video length: 	414.0 sec 
+Set (V): 		dev 
+ 
+Rooney_Mara/ElyG-CpDUUc_0000001 217.9 222.0 
+Rooney_Mara/ElyG-CpDUUc_0000002 233.7 239.6 
+Rooney_Mara/ElyG-CpDUUc_0000003 242.4 248.8 

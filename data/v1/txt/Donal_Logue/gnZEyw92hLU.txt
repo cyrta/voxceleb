@@ -1,0 +1,13 @@
+POI: 			Donal_Logue 
+Youtube ID: 	gnZEyw92hLU 
+Video length: 	295.7 sec 
+Set (V): 		dev 
+ 
+Donal_Logue/gnZEyw92hLU_0000001 54.8 60.4 
+Donal_Logue/gnZEyw92hLU_0000002 102.6 107.5 
+Donal_Logue/gnZEyw92hLU_0000003 119.4 123.9 
+Donal_Logue/gnZEyw92hLU_0000004 142.2 150.3 
+Donal_Logue/gnZEyw92hLU_0000005 158.2 162.3 
+Donal_Logue/gnZEyw92hLU_0000006 189.6 196.4 
+Donal_Logue/gnZEyw92hLU_0000007 192.8 197.4 
+Donal_Logue/gnZEyw92hLU_0000008 242.1 249.5 

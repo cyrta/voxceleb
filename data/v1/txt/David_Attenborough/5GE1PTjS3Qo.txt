@@ -1,0 +1,10 @@
+POI: 			David_Attenborough 
+Youtube ID: 	5GE1PTjS3Qo 
+Video length: 	506.2 sec 
+Set (V): 		dev 
+ 
+David_Attenborough/5GE1PTjS3Qo_0000001 161.8 167.6 
+David_Attenborough/5GE1PTjS3Qo_0000002 177.6 182.8 
+David_Attenborough/5GE1PTjS3Qo_0000003 187.5 191.6 
+David_Attenborough/5GE1PTjS3Qo_0000004 470.4 476.0 
+David_Attenborough/5GE1PTjS3Qo_0000005 478.2 487.4 

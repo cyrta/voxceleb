@@ -1,0 +1,7 @@
+POI: 			Sam_Riley 
+Youtube ID: 	mh5uWGfKVtI 
+Video length: 	166.8 sec 
+Set (V): 		dev 
+ 
+Sam_Riley/mh5uWGfKVtI_0000001 38.9 52.5 
+Sam_Riley/mh5uWGfKVtI_0000002 73.3 82.0 

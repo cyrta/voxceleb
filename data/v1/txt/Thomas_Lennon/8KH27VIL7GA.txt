@@ -1,0 +1,7 @@
+POI: 			Thomas_Lennon 
+Youtube ID: 	8KH27VIL7GA 
+Video length: 	219.2 sec 
+Set (V): 		dev 
+ 
+Thomas_Lennon/8KH27VIL7GA_0000001 98.5 102.4 
+Thomas_Lennon/8KH27VIL7GA_0000002 104.7 110.1 

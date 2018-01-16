@@ -1,0 +1,12 @@
+POI: 			Jean-Marc_Barr 
+Youtube ID: 	F7W71NNXcd0 
+Video length: 	505.1 sec 
+Set (V): 		dev 
+ 
+Jean-Marc_Barr/F7W71NNXcd0_0000001 346.6 354.4 
+Jean-Marc_Barr/F7W71NNXcd0_0000002 368.5 373.5 
+Jean-Marc_Barr/F7W71NNXcd0_0000003 382.2 386.8 
+Jean-Marc_Barr/F7W71NNXcd0_0000004 425.8 429.8 
+Jean-Marc_Barr/F7W71NNXcd0_0000005 432.0 436.8 
+Jean-Marc_Barr/F7W71NNXcd0_0000006 459.9 469.9 
+Jean-Marc_Barr/F7W71NNXcd0_0000007 481.8 486.3 

@@ -1,0 +1,12 @@
+POI: 			Wendell_Pierce 
+Youtube ID: 	0zSRKLwI_BM 
+Video length: 	203.5 sec 
+Set (V): 		dev 
+ 
+Wendell_Pierce/0zSRKLwI_BM_0000001 24.7 29.1 
+Wendell_Pierce/0zSRKLwI_BM_0000002 64.5 70.5 
+Wendell_Pierce/0zSRKLwI_BM_0000003 71.0 76.2 
+Wendell_Pierce/0zSRKLwI_BM_0000004 84.8 90.8 
+Wendell_Pierce/0zSRKLwI_BM_0000005 115.1 119.2 
+Wendell_Pierce/0zSRKLwI_BM_0000006 121.4 134.1 
+Wendell_Pierce/0zSRKLwI_BM_0000007 134.6 139.5 

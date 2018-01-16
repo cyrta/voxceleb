@@ -1,0 +1,9 @@
+POI: 			Joan_Cusack 
+Youtube ID: 	rIvlofnuq2U 
+Video length: 	227.8 sec 
+Set (V): 		dev 
+ 
+Joan_Cusack/rIvlofnuq2U_0000001 34.6 39.5 
+Joan_Cusack/rIvlofnuq2U_0000002 60.7 67.3 
+Joan_Cusack/rIvlofnuq2U_0000003 67.4 74.1 
+Joan_Cusack/rIvlofnuq2U_0000004 92.4 96.9 

@@ -1,0 +1,7 @@
+POI: 			India_de_Beaufort 
+Youtube ID: 	16786H8IPHA 
+Video length: 	107.0 sec 
+Set (V): 		dev 
+ 
+India_de_Beaufort/16786H8IPHA_0000001 84.0 88.8 
+India_de_Beaufort/16786H8IPHA_0000002 98.1 105.6 

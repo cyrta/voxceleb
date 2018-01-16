@@ -1,0 +1,9 @@
+POI: 			Chris_Colfer 
+Youtube ID: 	o3q1TnbEw24 
+Video length: 	213.0 sec 
+Set (V): 		dev 
+ 
+Chris_Colfer/o3q1TnbEw24_0000001 54.2 64.2 
+Chris_Colfer/o3q1TnbEw24_0000002 73.4 87.5 
+Chris_Colfer/o3q1TnbEw24_0000003 138.3 151.4 
+Chris_Colfer/o3q1TnbEw24_0000004 185.1 189.9 

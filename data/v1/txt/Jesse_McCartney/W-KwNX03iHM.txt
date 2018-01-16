@@ -1,0 +1,13 @@
+POI: 			Jesse_McCartney 
+Youtube ID: 	W-KwNX03iHM 
+Video length: 	450.6 sec 
+Set (V): 		dev 
+ 
+Jesse_McCartney/W-KwNX03iHM_0000001 136.0 141.4 
+Jesse_McCartney/W-KwNX03iHM_0000002 157.9 162.4 
+Jesse_McCartney/W-KwNX03iHM_0000003 166.6 171.6 
+Jesse_McCartney/W-KwNX03iHM_0000004 188.4 196.2 
+Jesse_McCartney/W-KwNX03iHM_0000005 198.1 203.3 
+Jesse_McCartney/W-KwNX03iHM_0000006 281.3 296.5 
+Jesse_McCartney/W-KwNX03iHM_0000007 299.4 308.6 
+Jesse_McCartney/W-KwNX03iHM_0000008 351.9 356.3 

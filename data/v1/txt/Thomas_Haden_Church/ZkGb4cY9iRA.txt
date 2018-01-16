@@ -1,0 +1,16 @@
+POI: 			Thomas_Haden_Church 
+Youtube ID: 	ZkGb4cY9iRA 
+Video length: 	252.4 sec 
+Set (V): 		dev 
+ 
+Thomas_Haden_Church/ZkGb4cY9iRA_0000001 06.1 12.5 
+Thomas_Haden_Church/ZkGb4cY9iRA_0000002 25.4 29.4 
+Thomas_Haden_Church/ZkGb4cY9iRA_0000003 40.8 46.6 
+Thomas_Haden_Church/ZkGb4cY9iRA_0000004 51.0 58.6 
+Thomas_Haden_Church/ZkGb4cY9iRA_0000005 63.5 69.6 
+Thomas_Haden_Church/ZkGb4cY9iRA_0000006 72.1 77.0 
+Thomas_Haden_Church/ZkGb4cY9iRA_0000007 81.8 94.0 
+Thomas_Haden_Church/ZkGb4cY9iRA_0000008 129.9 137.6 
+Thomas_Haden_Church/ZkGb4cY9iRA_0000009 143.1 162.7 
+Thomas_Haden_Church/ZkGb4cY9iRA_0000010 162.8 170.4 
+Thomas_Haden_Church/ZkGb4cY9iRA_0000011 239.2 245.0 

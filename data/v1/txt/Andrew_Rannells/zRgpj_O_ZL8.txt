@@ -1,0 +1,11 @@
+POI: 			Andrew_Rannells 
+Youtube ID: 	zRgpj_O_ZL8 
+Video length: 	149.3 sec 
+Set (V): 		dev 
+ 
+Andrew_Rannells/zRgpj_O_ZL8_0000001 20.3 29.7 
+Andrew_Rannells/zRgpj_O_ZL8_0000002 31.6 40.2 
+Andrew_Rannells/zRgpj_O_ZL8_0000003 66.3 70.8 
+Andrew_Rannells/zRgpj_O_ZL8_0000004 85.7 96.0 
+Andrew_Rannells/zRgpj_O_ZL8_0000005 99.6 103.8 
+Andrew_Rannells/zRgpj_O_ZL8_0000006 121.0 126.8 

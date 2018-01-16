@@ -1,0 +1,11 @@
+POI: 			Shay_Mitchell 
+Youtube ID: 	bKymnEn9oOU 
+Video length: 	350.0 sec 
+Set (V): 		dev 
+ 
+Shay_Mitchell/bKymnEn9oOU_0000001 52.8 69.4 
+Shay_Mitchell/bKymnEn9oOU_0000002 130.6 137.5 
+Shay_Mitchell/bKymnEn9oOU_0000003 215.3 221.2 
+Shay_Mitchell/bKymnEn9oOU_0000004 261.2 266.5 
+Shay_Mitchell/bKymnEn9oOU_0000005 261.3 266.6 
+Shay_Mitchell/bKymnEn9oOU_0000006 300.8 311.7 

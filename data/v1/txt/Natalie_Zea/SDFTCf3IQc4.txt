@@ -1,0 +1,8 @@
+POI: 			Natalie_Zea 
+Youtube ID: 	SDFTCf3IQc4 
+Video length: 	460.3 sec 
+Set (V): 		dev 
+ 
+Natalie_Zea/SDFTCf3IQc4_0000001 328.4 334.5 
+Natalie_Zea/SDFTCf3IQc4_0000002 364.5 371.0 
+Natalie_Zea/SDFTCf3IQc4_0000003 371.1 375.2 

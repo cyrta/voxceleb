@@ -1,0 +1,8 @@
+POI: 			Mark_Sheppard 
+Youtube ID: 	mGXFmHi7SgY 
+Video length: 	54.8 sec 
+Set (V): 		dev 
+ 
+Mark_Sheppard/mGXFmHi7SgY_0000001 14.7 23.5 
+Mark_Sheppard/mGXFmHi7SgY_0000002 26.4 31.5 
+Mark_Sheppard/mGXFmHi7SgY_0000003 41.7 47.6 

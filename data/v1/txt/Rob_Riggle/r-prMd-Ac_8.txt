@@ -1,0 +1,10 @@
+POI: 			Rob_Riggle 
+Youtube ID: 	r-prMd-Ac_8 
+Video length: 	373.1 sec 
+Set (V): 		dev 
+ 
+Rob_Riggle/r-prMd-Ac_8_0000001 27.9 32.4 
+Rob_Riggle/r-prMd-Ac_8_0000002 56.6 60.6 
+Rob_Riggle/r-prMd-Ac_8_0000003 75.2 79.5 
+Rob_Riggle/r-prMd-Ac_8_0000004 173.1 182.8 
+Rob_Riggle/r-prMd-Ac_8_0000005 260.8 265.5 

@@ -1,0 +1,15 @@
+POI: 			Cliff_Curtis 
+Youtube ID: 	EsBry8usC3I 
+Video length: 	218.6 sec 
+Set (V): 		dev 
+ 
+Cliff_Curtis/EsBry8usC3I_0000001 22.1 26.3 
+Cliff_Curtis/EsBry8usC3I_0000002 29.2 36.3 
+Cliff_Curtis/EsBry8usC3I_0000003 36.9 57.1 
+Cliff_Curtis/EsBry8usC3I_0000004 63.5 77.2 
+Cliff_Curtis/EsBry8usC3I_0000005 89.3 93.5 
+Cliff_Curtis/EsBry8usC3I_0000006 104.5 112.1 
+Cliff_Curtis/EsBry8usC3I_0000007 149.3 155.9 
+Cliff_Curtis/EsBry8usC3I_0000008 157.7 166.4 
+Cliff_Curtis/EsBry8usC3I_0000009 188.1 194.1 
+Cliff_Curtis/EsBry8usC3I_0000010 199.4 204.8 

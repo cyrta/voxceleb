@@ -1,0 +1,10 @@
+POI: 			David_Morse 
+Youtube ID: 	yBALD750GJE 
+Video length: 	308.5 sec 
+Set (V): 		dev 
+ 
+David_Morse/yBALD750GJE_0000001 09.2 13.9 
+David_Morse/yBALD750GJE_0000002 15.8 20.0 
+David_Morse/yBALD750GJE_0000003 39.2 44.0 
+David_Morse/yBALD750GJE_0000004 147.2 153.1 
+David_Morse/yBALD750GJE_0000005 209.4 214.0 

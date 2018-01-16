@@ -1,0 +1,18 @@
+POI: 			Martin_Shaw 
+Youtube ID: 	1ZWoxzrBYH8 
+Video length: 	462.6 sec 
+Set (V): 		dev 
+ 
+Martin_Shaw/1ZWoxzrBYH8_0000001 164.0 168.0 
+Martin_Shaw/1ZWoxzrBYH8_0000002 193.1 201.2 
+Martin_Shaw/1ZWoxzrBYH8_0000003 218.0 223.7 
+Martin_Shaw/1ZWoxzrBYH8_0000004 224.2 228.3 
+Martin_Shaw/1ZWoxzrBYH8_0000005 261.4 267.4 
+Martin_Shaw/1ZWoxzrBYH8_0000006 268.2 276.6 
+Martin_Shaw/1ZWoxzrBYH8_0000007 277.5 285.2 
+Martin_Shaw/1ZWoxzrBYH8_0000008 285.8 289.8 
+Martin_Shaw/1ZWoxzrBYH8_0000009 310.5 318.4 
+Martin_Shaw/1ZWoxzrBYH8_0000010 333.6 337.6 
+Martin_Shaw/1ZWoxzrBYH8_0000011 339.8 352.9 
+Martin_Shaw/1ZWoxzrBYH8_0000012 354.3 363.1 
+Martin_Shaw/1ZWoxzrBYH8_0000013 390.3 401.6 

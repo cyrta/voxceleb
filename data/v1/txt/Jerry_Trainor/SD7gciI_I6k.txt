@@ -1,0 +1,11 @@
+POI: 			Jerry_Trainor 
+Youtube ID: 	SD7gciI_I6k 
+Video length: 	126.3 sec 
+Set (V): 		dev 
+ 
+Jerry_Trainor/SD7gciI_I6k_0000001 13.4 20.4 
+Jerry_Trainor/SD7gciI_I6k_0000002 30.2 34.9 
+Jerry_Trainor/SD7gciI_I6k_0000003 41.2 45.8 
+Jerry_Trainor/SD7gciI_I6k_0000004 51.2 56.4 
+Jerry_Trainor/SD7gciI_I6k_0000005 58.9 64.7 
+Jerry_Trainor/SD7gciI_I6k_0000006 76.1 82.3 

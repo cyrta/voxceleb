@@ -1,0 +1,10 @@
+POI: 			Sean_Bean 
+Youtube ID: 	SIfh5DqgfxY 
+Video length: 	339.6 sec 
+Set (V): 		dev 
+ 
+Sean_Bean/SIfh5DqgfxY_0000001 20.0 24.2 
+Sean_Bean/SIfh5DqgfxY_0000002 47.8 52.0 
+Sean_Bean/SIfh5DqgfxY_0000003 61.1 65.1 
+Sean_Bean/SIfh5DqgfxY_0000004 166.5 171.2 
+Sean_Bean/SIfh5DqgfxY_0000005 174.6 179.3 

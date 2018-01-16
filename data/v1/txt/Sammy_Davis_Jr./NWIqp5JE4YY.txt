@@ -1,0 +1,8 @@
+POI: 			Sammy_Davis_Jr. 
+Youtube ID: 	NWIqp5JE4YY 
+Video length: 	654.1 sec 
+Set (V): 		dev 
+ 
+Sammy_Davis_Jr./NWIqp5JE4YY_0000001 191.9 195.9 
+Sammy_Davis_Jr./NWIqp5JE4YY_0000002 251.4 255.7 
+Sammy_Davis_Jr./NWIqp5JE4YY_0000003 427.9 432.4 

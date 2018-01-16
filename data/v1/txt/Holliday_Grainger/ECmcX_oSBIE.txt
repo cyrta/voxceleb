@@ -1,0 +1,14 @@
+POI: 			Holliday_Grainger 
+Youtube ID: 	ECmcX_oSBIE 
+Video length: 	161.3 sec 
+Set (V): 		dev 
+ 
+Holliday_Grainger/ECmcX_oSBIE_0000001 04.5 11.6 
+Holliday_Grainger/ECmcX_oSBIE_0000002 25.6 29.6 
+Holliday_Grainger/ECmcX_oSBIE_0000003 30.6 44.8 
+Holliday_Grainger/ECmcX_oSBIE_0000004 47.7 52.6 
+Holliday_Grainger/ECmcX_oSBIE_0000005 63.9 69.3 
+Holliday_Grainger/ECmcX_oSBIE_0000006 91.5 100.8 
+Holliday_Grainger/ECmcX_oSBIE_0000007 104.6 108.7 
+Holliday_Grainger/ECmcX_oSBIE_0000008 110.6 120.7 
+Holliday_Grainger/ECmcX_oSBIE_0000009 138.6 150.0 

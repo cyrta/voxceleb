@@ -1,0 +1,13 @@
+POI: 			Mila_Kunis 
+Youtube ID: 	C_qQmRTmRUs 
+Video length: 	425.7 sec 
+Set (V): 		dev 
+ 
+Mila_Kunis/C_qQmRTmRUs_0000001 96.8 100.9 
+Mila_Kunis/C_qQmRTmRUs_0000002 232.0 236.5 
+Mila_Kunis/C_qQmRTmRUs_0000003 291.6 297.7 
+Mila_Kunis/C_qQmRTmRUs_0000004 313.3 320.0 
+Mila_Kunis/C_qQmRTmRUs_0000005 375.6 380.3 
+Mila_Kunis/C_qQmRTmRUs_0000006 388.2 393.2 
+Mila_Kunis/C_qQmRTmRUs_0000007 393.2 399.2 
+Mila_Kunis/C_qQmRTmRUs_0000008 414.7 421.3 

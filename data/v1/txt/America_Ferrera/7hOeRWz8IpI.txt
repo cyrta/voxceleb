@@ -1,0 +1,20 @@
+POI: 			America_Ferrera 
+Youtube ID: 	7hOeRWz8IpI 
+Video length: 	425.9 sec 
+Set (V): 		dev 
+ 
+America_Ferrera/7hOeRWz8IpI_0000001 67.2 72.9 
+America_Ferrera/7hOeRWz8IpI_0000002 78.4 83.0 
+America_Ferrera/7hOeRWz8IpI_0000003 97.4 110.6 
+America_Ferrera/7hOeRWz8IpI_0000004 111.4 118.2 
+America_Ferrera/7hOeRWz8IpI_0000005 144.8 161.2 
+America_Ferrera/7hOeRWz8IpI_0000006 246.0 250.1 
+America_Ferrera/7hOeRWz8IpI_0000007 256.2 260.8 
+America_Ferrera/7hOeRWz8IpI_0000008 270.1 275.3 
+America_Ferrera/7hOeRWz8IpI_0000009 278.7 285.0 
+America_Ferrera/7hOeRWz8IpI_0000010 288.8 292.8 
+America_Ferrera/7hOeRWz8IpI_0000011 314.7 319.8 
+America_Ferrera/7hOeRWz8IpI_0000012 325.2 332.4 
+America_Ferrera/7hOeRWz8IpI_0000013 345.6 350.6 
+America_Ferrera/7hOeRWz8IpI_0000014 361.7 370.0 
+America_Ferrera/7hOeRWz8IpI_0000015 396.2 406.8 

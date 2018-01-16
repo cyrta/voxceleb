@@ -1,0 +1,14 @@
+POI: 			Ellen_Wong 
+Youtube ID: 	FIxC_PNJNkc 
+Video length: 	436.5 sec 
+Set (V): 		test 
+ 
+Ellen_Wong/FIxC_PNJNkc_0000001 103.2 107.4 
+Ellen_Wong/FIxC_PNJNkc_0000002 150.2 155.8 
+Ellen_Wong/FIxC_PNJNkc_0000003 191.8 196.4 
+Ellen_Wong/FIxC_PNJNkc_0000004 233.7 238.4 
+Ellen_Wong/FIxC_PNJNkc_0000005 242.8 247.1 
+Ellen_Wong/FIxC_PNJNkc_0000006 318.4 325.7 
+Ellen_Wong/FIxC_PNJNkc_0000007 352.8 356.9 
+Ellen_Wong/FIxC_PNJNkc_0000008 380.0 385.1 
+Ellen_Wong/FIxC_PNJNkc_0000009 387.3 394.7 

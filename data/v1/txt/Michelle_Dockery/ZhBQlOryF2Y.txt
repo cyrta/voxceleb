@@ -1,0 +1,12 @@
+POI: 			Michelle_Dockery 
+Youtube ID: 	ZhBQlOryF2Y 
+Video length: 	676.5 sec 
+Set (V): 		dev 
+ 
+Michelle_Dockery/ZhBQlOryF2Y_0000001 76.9 81.0 
+Michelle_Dockery/ZhBQlOryF2Y_0000002 227.1 232.1 
+Michelle_Dockery/ZhBQlOryF2Y_0000003 232.3 237.6 
+Michelle_Dockery/ZhBQlOryF2Y_0000004 266.7 270.7 
+Michelle_Dockery/ZhBQlOryF2Y_0000005 280.2 286.6 
+Michelle_Dockery/ZhBQlOryF2Y_0000006 509.9 514.0 
+Michelle_Dockery/ZhBQlOryF2Y_0000007 540.1 552.5 

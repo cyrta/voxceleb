@@ -1,0 +1,18 @@
+POI: 			Lou_Diamond_Phillips 
+Youtube ID: 	YDKFrw_i5Io 
+Video length: 	212.3 sec 
+Set (V): 		dev 
+ 
+Lou_Diamond_Phillips/YDKFrw_i5Io_0000001 07.1 17.7 
+Lou_Diamond_Phillips/YDKFrw_i5Io_0000002 18.0 22.0 
+Lou_Diamond_Phillips/YDKFrw_i5Io_0000003 22.3 28.9 
+Lou_Diamond_Phillips/YDKFrw_i5Io_0000004 31.8 38.3 
+Lou_Diamond_Phillips/YDKFrw_i5Io_0000005 40.9 70.8 
+Lou_Diamond_Phillips/YDKFrw_i5Io_0000006 37.4 41.7 
+Lou_Diamond_Phillips/YDKFrw_i5Io_0000007 72.6 83.2 
+Lou_Diamond_Phillips/YDKFrw_i5Io_0000008 91.8 134.6 
+Lou_Diamond_Phillips/YDKFrw_i5Io_0000009 135.2 141.5 
+Lou_Diamond_Phillips/YDKFrw_i5Io_0000010 159.5 167.5 
+Lou_Diamond_Phillips/YDKFrw_i5Io_0000011 169.3 175.1 
+Lou_Diamond_Phillips/YDKFrw_i5Io_0000012 175.8 187.8 
+Lou_Diamond_Phillips/YDKFrw_i5Io_0000013 188.3 208.0 

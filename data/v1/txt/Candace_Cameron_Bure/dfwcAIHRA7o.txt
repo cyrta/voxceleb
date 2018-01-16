@@ -1,0 +1,11 @@
+POI: 			Candace_Cameron_Bure 
+Youtube ID: 	dfwcAIHRA7o 
+Video length: 	129.2 sec 
+Set (V): 		dev 
+ 
+Candace_Cameron_Bure/dfwcAIHRA7o_0000001 01.9 16.8 
+Candace_Cameron_Bure/dfwcAIHRA7o_0000002 52.6 58.3 
+Candace_Cameron_Bure/dfwcAIHRA7o_0000003 66.2 72.2 
+Candace_Cameron_Bure/dfwcAIHRA7o_0000004 73.4 88.6 
+Candace_Cameron_Bure/dfwcAIHRA7o_0000005 101.0 113.7 
+Candace_Cameron_Bure/dfwcAIHRA7o_0000006 109.0 115.0 

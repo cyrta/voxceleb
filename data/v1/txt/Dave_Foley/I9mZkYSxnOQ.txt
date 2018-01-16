@@ -1,0 +1,12 @@
+POI: 			Dave_Foley 
+Youtube ID: 	I9mZkYSxnOQ 
+Video length: 	138.2 sec 
+Set (V): 		dev 
+ 
+Dave_Foley/I9mZkYSxnOQ_0000001 32.7 38.9 
+Dave_Foley/I9mZkYSxnOQ_0000002 40.9 45.9 
+Dave_Foley/I9mZkYSxnOQ_0000003 51.6 57.5 
+Dave_Foley/I9mZkYSxnOQ_0000004 59.9 67.0 
+Dave_Foley/I9mZkYSxnOQ_0000005 79.4 84.8 
+Dave_Foley/I9mZkYSxnOQ_0000006 102.4 106.8 
+Dave_Foley/I9mZkYSxnOQ_0000007 123.5 128.0 

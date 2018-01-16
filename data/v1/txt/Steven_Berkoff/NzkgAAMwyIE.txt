@@ -1,0 +1,20 @@
+POI: 			Steven_Berkoff 
+Youtube ID: 	NzkgAAMwyIE 
+Video length: 	324.2 sec 
+Set (V): 		dev 
+ 
+Steven_Berkoff/NzkgAAMwyIE_0000001 20.8 40.4 
+Steven_Berkoff/NzkgAAMwyIE_0000002 47.9 81.9 
+Steven_Berkoff/NzkgAAMwyIE_0000003 84.0 89.9 
+Steven_Berkoff/NzkgAAMwyIE_0000004 94.6 104.4 
+Steven_Berkoff/NzkgAAMwyIE_0000005 105.9 109.9 
+Steven_Berkoff/NzkgAAMwyIE_0000006 112.3 130.3 
+Steven_Berkoff/NzkgAAMwyIE_0000007 140.9 147.4 
+Steven_Berkoff/NzkgAAMwyIE_0000008 151.9 177.7 
+Steven_Berkoff/NzkgAAMwyIE_0000009 179.7 186.6 
+Steven_Berkoff/NzkgAAMwyIE_0000010 187.2 197.2 
+Steven_Berkoff/NzkgAAMwyIE_0000011 202.4 210.5 
+Steven_Berkoff/NzkgAAMwyIE_0000012 214.6 232.0 
+Steven_Berkoff/NzkgAAMwyIE_0000013 239.5 251.0 
+Steven_Berkoff/NzkgAAMwyIE_0000014 261.9 286.2 
+Steven_Berkoff/NzkgAAMwyIE_0000015 311.8 316.3 

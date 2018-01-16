@@ -1,0 +1,13 @@
+POI: 			Sung_Kang 
+Youtube ID: 	yFZG247_qTs 
+Video length: 	182.5 sec 
+Set (V): 		dev 
+ 
+Sung_Kang/yFZG247_qTs_0000001 14.0 35.6 
+Sung_Kang/yFZG247_qTs_0000002 42.7 50.8 
+Sung_Kang/yFZG247_qTs_0000003 55.4 61.7 
+Sung_Kang/yFZG247_qTs_0000004 44.4 54.1 
+Sung_Kang/yFZG247_qTs_0000005 73.2 87.8 
+Sung_Kang/yFZG247_qTs_0000006 98.4 126.6 
+Sung_Kang/yFZG247_qTs_0000007 145.2 153.4 
+Sung_Kang/yFZG247_qTs_0000008 159.2 167.8 

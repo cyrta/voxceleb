@@ -1,0 +1,12 @@
+POI: 			Richard_E._Grant 
+Youtube ID: 	nnLOrbt6D74 
+Video length: 	191.5 sec 
+Set (V): 		dev 
+ 
+Richard_E._Grant/nnLOrbt6D74_0000001 17.2 37.4 
+Richard_E._Grant/nnLOrbt6D74_0000002 90.8 95.1 
+Richard_E._Grant/nnLOrbt6D74_0000003 102.2 114.0 
+Richard_E._Grant/nnLOrbt6D74_0000004 129.5 133.6 
+Richard_E._Grant/nnLOrbt6D74_0000005 145.0 156.8 
+Richard_E._Grant/nnLOrbt6D74_0000006 167.4 172.0 
+Richard_E._Grant/nnLOrbt6D74_0000007 176.0 184.4 

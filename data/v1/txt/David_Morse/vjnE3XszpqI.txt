@@ -1,0 +1,17 @@
+POI: 			David_Morse 
+Youtube ID: 	vjnE3XszpqI 
+Video length: 	284.8 sec 
+Set (V): 		dev 
+ 
+David_Morse/vjnE3XszpqI_0000001 68.4 74.7 
+David_Morse/vjnE3XszpqI_0000002 78.0 82.8 
+David_Morse/vjnE3XszpqI_0000003 78.0 82.9 
+David_Morse/vjnE3XszpqI_0000004 97.6 105.4 
+David_Morse/vjnE3XszpqI_0000005 106.6 110.8 
+David_Morse/vjnE3XszpqI_0000006 150.6 154.9 
+David_Morse/vjnE3XszpqI_0000007 155.7 162.6 
+David_Morse/vjnE3XszpqI_0000008 165.4 174.2 
+David_Morse/vjnE3XszpqI_0000009 176.8 182.1 
+David_Morse/vjnE3XszpqI_0000010 187.6 195.1 
+David_Morse/vjnE3XszpqI_0000011 198.7 211.8 
+David_Morse/vjnE3XszpqI_0000012 244.6 250.0 

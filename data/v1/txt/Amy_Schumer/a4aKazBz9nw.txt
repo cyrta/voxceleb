@@ -1,0 +1,8 @@
+POI: 			Amy_Schumer 
+Youtube ID: 	a4aKazBz9nw 
+Video length: 	782.2 sec 
+Set (V): 		dev 
+ 
+Amy_Schumer/a4aKazBz9nw_0000001 183.7 188.5 
+Amy_Schumer/a4aKazBz9nw_0000002 219.2 223.8 
+Amy_Schumer/a4aKazBz9nw_0000003 314.3 325.5 

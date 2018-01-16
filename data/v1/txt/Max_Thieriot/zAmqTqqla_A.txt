@@ -1,0 +1,18 @@
+POI: 			Max_Thieriot 
+Youtube ID: 	zAmqTqqla_A 
+Video length: 	784.9 sec 
+Set (V): 		dev 
+ 
+Max_Thieriot/zAmqTqqla_A_0000001 443.4 450.7 
+Max_Thieriot/zAmqTqqla_A_0000002 492.3 502.7 
+Max_Thieriot/zAmqTqqla_A_0000003 503.3 508.1 
+Max_Thieriot/zAmqTqqla_A_0000004 510.3 521.4 
+Max_Thieriot/zAmqTqqla_A_0000005 522.3 535.0 
+Max_Thieriot/zAmqTqqla_A_0000006 536.6 545.8 
+Max_Thieriot/zAmqTqqla_A_0000007 564.5 568.7 
+Max_Thieriot/zAmqTqqla_A_0000008 630.6 634.8 
+Max_Thieriot/zAmqTqqla_A_0000009 643.4 650.0 
+Max_Thieriot/zAmqTqqla_A_0000010 659.8 667.0 
+Max_Thieriot/zAmqTqqla_A_0000011 732.4 736.4 
+Max_Thieriot/zAmqTqqla_A_0000012 756.0 761.2 
+Max_Thieriot/zAmqTqqla_A_0000013 767.9 773.0 

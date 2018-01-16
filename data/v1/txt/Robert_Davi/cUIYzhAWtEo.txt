@@ -1,0 +1,18 @@
+POI: 			Robert_Davi 
+Youtube ID: 	cUIYzhAWtEo 
+Video length: 	2216.2 sec 
+Set (V): 		dev 
+ 
+Robert_Davi/cUIYzhAWtEo_0000001 631.5 636.8 
+Robert_Davi/cUIYzhAWtEo_0000002 638.9 645.3 
+Robert_Davi/cUIYzhAWtEo_0000003 706.9 711.2 
+Robert_Davi/cUIYzhAWtEo_0000004 715.4 721.9 
+Robert_Davi/cUIYzhAWtEo_0000005 734.3 738.4 
+Robert_Davi/cUIYzhAWtEo_0000006 747.0 753.2 
+Robert_Davi/cUIYzhAWtEo_0000007 753.4 757.7 
+Robert_Davi/cUIYzhAWtEo_0000008 761.2 765.6 
+Robert_Davi/cUIYzhAWtEo_0000009 766.0 770.1 
+Robert_Davi/cUIYzhAWtEo_0000010 789.9 797.2 
+Robert_Davi/cUIYzhAWtEo_0000011 803.5 812.6 
+Robert_Davi/cUIYzhAWtEo_0000012 1162.3 1168.4 
+Robert_Davi/cUIYzhAWtEo_0000013 1327.2 1331.3 

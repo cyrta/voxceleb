@@ -1,0 +1,15 @@
+POI: 			Alfre_Woodard 
+Youtube ID: 	mwIjUEN64T0 
+Video length: 	175.8 sec 
+Set (V): 		dev 
+ 
+Alfre_Woodard/mwIjUEN64T0_0000001 66.3 72.4 
+Alfre_Woodard/mwIjUEN64T0_0000002 72.6 82.4 
+Alfre_Woodard/mwIjUEN64T0_0000003 87.7 100.1 
+Alfre_Woodard/mwIjUEN64T0_0000004 104.6 109.1 
+Alfre_Woodard/mwIjUEN64T0_0000005 112.8 120.2 
+Alfre_Woodard/mwIjUEN64T0_0000006 123.4 127.5 
+Alfre_Woodard/mwIjUEN64T0_0000007 104.6 109.1 
+Alfre_Woodard/mwIjUEN64T0_0000008 112.8 120.3 
+Alfre_Woodard/mwIjUEN64T0_0000009 123.1 131.4 
+Alfre_Woodard/mwIjUEN64T0_0000010 147.9 168.0 

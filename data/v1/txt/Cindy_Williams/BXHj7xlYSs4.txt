@@ -1,0 +1,8 @@
+POI: 			Cindy_Williams 
+Youtube ID: 	BXHj7xlYSs4 
+Video length: 	163.0 sec 
+Set (V): 		dev 
+ 
+Cindy_Williams/BXHj7xlYSs4_0000001 34.0 41.1 
+Cindy_Williams/BXHj7xlYSs4_0000002 93.0 97.6 
+Cindy_Williams/BXHj7xlYSs4_0000003 141.1 145.8 

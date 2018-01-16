@@ -1,0 +1,18 @@
+POI: 			Jason_Bateman 
+Youtube ID: 	y4Sr7FZ9i3Q 
+Video length: 	432.8 sec 
+Set (V): 		dev 
+ 
+Jason_Bateman/y4Sr7FZ9i3Q_0000001 20.4 30.8 
+Jason_Bateman/y4Sr7FZ9i3Q_0000002 36.1 43.8 
+Jason_Bateman/y4Sr7FZ9i3Q_0000003 105.4 119.2 
+Jason_Bateman/y4Sr7FZ9i3Q_0000004 125.3 138.6 
+Jason_Bateman/y4Sr7FZ9i3Q_0000005 140.5 149.1 
+Jason_Bateman/y4Sr7FZ9i3Q_0000006 149.2 157.2 
+Jason_Bateman/y4Sr7FZ9i3Q_0000007 157.5 165.0 
+Jason_Bateman/y4Sr7FZ9i3Q_0000008 165.7 178.7 
+Jason_Bateman/y4Sr7FZ9i3Q_0000009 270.7 280.2 
+Jason_Bateman/y4Sr7FZ9i3Q_0000010 283.9 288.0 
+Jason_Bateman/y4Sr7FZ9i3Q_0000011 288.5 295.5 
+Jason_Bateman/y4Sr7FZ9i3Q_0000012 363.3 376.1 
+Jason_Bateman/y4Sr7FZ9i3Q_0000013 376.4 380.6 

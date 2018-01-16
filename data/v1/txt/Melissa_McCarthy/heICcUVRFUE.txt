@@ -1,0 +1,7 @@
+POI: 			Melissa_McCarthy 
+Youtube ID: 	heICcUVRFUE 
+Video length: 	195.9 sec 
+Set (V): 		dev 
+ 
+Melissa_McCarthy/heICcUVRFUE_0000001 21.3 30.4 
+Melissa_McCarthy/heICcUVRFUE_0000002 73.2 78.5 

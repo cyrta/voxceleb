@@ -1,0 +1,10 @@
+POI: 			Betty_White 
+Youtube ID: 	hyTtC12DGbQ 
+Video length: 	334.6 sec 
+Set (V): 		dev 
+ 
+Betty_White/hyTtC12DGbQ_0000001 49.8 55.6 
+Betty_White/hyTtC12DGbQ_0000002 72.8 84.0 
+Betty_White/hyTtC12DGbQ_0000003 292.9 298.9 
+Betty_White/hyTtC12DGbQ_0000004 299.6 306.5 
+Betty_White/hyTtC12DGbQ_0000005 310.2 316.4 

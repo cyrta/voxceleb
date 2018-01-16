@@ -1,0 +1,10 @@
+POI: 			Taryn_Manning 
+Youtube ID: 	gBDSUfr-mkw 
+Video length: 	147.5 sec 
+Set (V): 		dev 
+ 
+Taryn_Manning/gBDSUfr-mkw_0000001 27.5 33.8 
+Taryn_Manning/gBDSUfr-mkw_0000002 39.0 45.8 
+Taryn_Manning/gBDSUfr-mkw_0000003 58.9 64.4 
+Taryn_Manning/gBDSUfr-mkw_0000004 96.7 102.0 
+Taryn_Manning/gBDSUfr-mkw_0000005 127.2 132.3 

@@ -1,0 +1,8 @@
+POI: 			Rene_Auberjonois 
+Youtube ID: 	OD3Xub4swaI 
+Video length: 	212.6 sec 
+Set (V): 		dev 
+ 
+Rene_Auberjonois/OD3Xub4swaI_0000001 29.8 34.2 
+Rene_Auberjonois/OD3Xub4swaI_0000002 88.9 93.9 
+Rene_Auberjonois/OD3Xub4swaI_0000003 96.6 102.5 

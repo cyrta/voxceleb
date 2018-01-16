@@ -1,0 +1,7 @@
+POI: 			Jason_Clarke 
+Youtube ID: 	0XDrW1o3cgc 
+Video length: 	228.3 sec 
+Set (V): 		dev 
+ 
+Jason_Clarke/0XDrW1o3cgc_0000001 88.0 97.6 
+Jason_Clarke/0XDrW1o3cgc_0000002 185.7 201.8 

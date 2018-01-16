@@ -1,0 +1,9 @@
+POI: 			Matt_Lanter 
+Youtube ID: 	Qtm5HgwcaEA 
+Video length: 	325.0 sec 
+Set (V): 		dev 
+ 
+Matt_Lanter/Qtm5HgwcaEA_0000001 96.8 102.2 
+Matt_Lanter/Qtm5HgwcaEA_0000002 103.1 114.9 
+Matt_Lanter/Qtm5HgwcaEA_0000003 115.2 122.1 
+Matt_Lanter/Qtm5HgwcaEA_0000004 211.5 216.0 

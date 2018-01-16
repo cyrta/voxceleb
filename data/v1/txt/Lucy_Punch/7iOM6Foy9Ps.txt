@@ -1,0 +1,7 @@
+POI: 			Lucy_Punch 
+Youtube ID: 	7iOM6Foy9Ps 
+Video length: 	272.4 sec 
+Set (V): 		dev 
+ 
+Lucy_Punch/7iOM6Foy9Ps_0000001 58.6 63.7 
+Lucy_Punch/7iOM6Foy9Ps_0000002 127.1 133.1 

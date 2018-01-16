@@ -1,0 +1,7 @@
+POI: 			Chelsea_Handler 
+Youtube ID: 	NjrzuzWjreM 
+Video length: 	419.3 sec 
+Set (V): 		dev 
+ 
+Chelsea_Handler/NjrzuzWjreM_0000001 01.3 07.4 
+Chelsea_Handler/NjrzuzWjreM_0000002 132.8 138.1 

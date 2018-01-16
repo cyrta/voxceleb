@@ -1,0 +1,13 @@
+POI: 			John_Larroquette 
+Youtube ID: 	tVYY77_q4j0 
+Video length: 	1167.2 sec 
+Set (V): 		dev 
+ 
+John_Larroquette/tVYY77_q4j0_0000001 846.0 852.7 
+John_Larroquette/tVYY77_q4j0_0000002 852.9 857.4 
+John_Larroquette/tVYY77_q4j0_0000003 880.8 885.4 
+John_Larroquette/tVYY77_q4j0_0000004 893.6 901.7 
+John_Larroquette/tVYY77_q4j0_0000005 902.8 907.8 
+John_Larroquette/tVYY77_q4j0_0000006 926.8 932.0 
+John_Larroquette/tVYY77_q4j0_0000007 946.5 952.2 
+John_Larroquette/tVYY77_q4j0_0000008 953.2 968.0 

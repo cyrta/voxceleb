@@ -1,0 +1,24 @@
+POI: 			Zachary_Gordon 
+Youtube ID: 	F8kg0LEuKCE 
+Video length: 	509.9 sec 
+Set (V): 		dev 
+ 
+Zachary_Gordon/F8kg0LEuKCE_0000001 71.0 78.9 
+Zachary_Gordon/F8kg0LEuKCE_0000002 79.0 90.6 
+Zachary_Gordon/F8kg0LEuKCE_0000003 96.4 107.2 
+Zachary_Gordon/F8kg0LEuKCE_0000004 120.6 124.6 
+Zachary_Gordon/F8kg0LEuKCE_0000005 127.8 132.4 
+Zachary_Gordon/F8kg0LEuKCE_0000006 135.8 162.6 
+Zachary_Gordon/F8kg0LEuKCE_0000007 184.2 194.9 
+Zachary_Gordon/F8kg0LEuKCE_0000008 195.4 201.3 
+Zachary_Gordon/F8kg0LEuKCE_0000009 235.2 244.0 
+Zachary_Gordon/F8kg0LEuKCE_0000010 247.8 255.5 
+Zachary_Gordon/F8kg0LEuKCE_0000011 292.8 299.3 
+Zachary_Gordon/F8kg0LEuKCE_0000012 305.0 332.1 
+Zachary_Gordon/F8kg0LEuKCE_0000013 367.2 373.1 
+Zachary_Gordon/F8kg0LEuKCE_0000014 427.7 435.2 
+Zachary_Gordon/F8kg0LEuKCE_0000015 436.3 442.6 
+Zachary_Gordon/F8kg0LEuKCE_0000016 443.6 448.7 
+Zachary_Gordon/F8kg0LEuKCE_0000017 452.4 460.3 
+Zachary_Gordon/F8kg0LEuKCE_0000018 460.5 483.9 
+Zachary_Gordon/F8kg0LEuKCE_0000019 486.1 496.1 

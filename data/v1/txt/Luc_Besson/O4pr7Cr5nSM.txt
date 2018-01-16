@@ -1,0 +1,10 @@
+POI: 			Luc_Besson 
+Youtube ID: 	O4pr7Cr5nSM 
+Video length: 	216.9 sec 
+Set (V): 		dev 
+ 
+Luc_Besson/O4pr7Cr5nSM_0000001 51.9 60.0 
+Luc_Besson/O4pr7Cr5nSM_0000002 60.7 74.0 
+Luc_Besson/O4pr7Cr5nSM_0000003 112.1 116.6 
+Luc_Besson/O4pr7Cr5nSM_0000004 132.4 137.6 
+Luc_Besson/O4pr7Cr5nSM_0000005 186.7 192.4 

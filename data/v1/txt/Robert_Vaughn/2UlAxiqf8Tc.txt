@@ -1,0 +1,9 @@
+POI: 			Robert_Vaughn 
+Youtube ID: 	2UlAxiqf8Tc 
+Video length: 	278.3 sec 
+Set (V): 		dev 
+ 
+Robert_Vaughn/2UlAxiqf8Tc_0000001 47.1 64.9 
+Robert_Vaughn/2UlAxiqf8Tc_0000002 88.7 95.9 
+Robert_Vaughn/2UlAxiqf8Tc_0000003 110.0 117.2 
+Robert_Vaughn/2UlAxiqf8Tc_0000004 133.2 143.7 

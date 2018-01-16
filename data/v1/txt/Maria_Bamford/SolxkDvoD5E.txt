@@ -1,0 +1,22 @@
+POI: 			Maria_Bamford 
+Youtube ID: 	SolxkDvoD5E 
+Video length: 	428.0 sec 
+Set (V): 		dev 
+ 
+Maria_Bamford/SolxkDvoD5E_0000001 25.4 30.1 
+Maria_Bamford/SolxkDvoD5E_0000002 36.6 43.4 
+Maria_Bamford/SolxkDvoD5E_0000003 94.6 102.1 
+Maria_Bamford/SolxkDvoD5E_0000004 119.8 125.0 
+Maria_Bamford/SolxkDvoD5E_0000005 137.4 142.4 
+Maria_Bamford/SolxkDvoD5E_0000006 179.3 183.3 
+Maria_Bamford/SolxkDvoD5E_0000007 184.2 196.4 
+Maria_Bamford/SolxkDvoD5E_0000008 197.2 223.0 
+Maria_Bamford/SolxkDvoD5E_0000009 227.0 236.1 
+Maria_Bamford/SolxkDvoD5E_0000010 261.6 266.5 
+Maria_Bamford/SolxkDvoD5E_0000011 291.2 297.5 
+Maria_Bamford/SolxkDvoD5E_0000012 297.7 302.4 
+Maria_Bamford/SolxkDvoD5E_0000013 308.9 319.0 
+Maria_Bamford/SolxkDvoD5E_0000014 320.0 326.2 
+Maria_Bamford/SolxkDvoD5E_0000015 378.7 393.5 
+Maria_Bamford/SolxkDvoD5E_0000016 394.1 407.3 
+Maria_Bamford/SolxkDvoD5E_0000017 411.5 416.0 

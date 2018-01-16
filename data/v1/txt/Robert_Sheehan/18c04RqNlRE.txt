@@ -1,0 +1,10 @@
+POI: 			Robert_Sheehan 
+Youtube ID: 	18c04RqNlRE 
+Video length: 	381.3 sec 
+Set (V): 		dev 
+ 
+Robert_Sheehan/18c04RqNlRE_0000001 00.8 04.8 
+Robert_Sheehan/18c04RqNlRE_0000002 43.8 48.1 
+Robert_Sheehan/18c04RqNlRE_0000003 61.4 66.3 
+Robert_Sheehan/18c04RqNlRE_0000004 118.4 122.4 
+Robert_Sheehan/18c04RqNlRE_0000005 128.2 136.4 

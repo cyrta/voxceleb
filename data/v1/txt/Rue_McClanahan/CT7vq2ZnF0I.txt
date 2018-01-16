@@ -1,0 +1,10 @@
+POI: 			Rue_McClanahan 
+Youtube ID: 	CT7vq2ZnF0I 
+Video length: 	2569.2 sec 
+Set (V): 		dev 
+ 
+Rue_McClanahan/CT7vq2ZnF0I_0000001 1075.6 1080.3 
+Rue_McClanahan/CT7vq2ZnF0I_0000002 1437.5 1442.9 
+Rue_McClanahan/CT7vq2ZnF0I_0000003 1633.5 1637.8 
+Rue_McClanahan/CT7vq2ZnF0I_0000004 1695.7 1700.6 
+Rue_McClanahan/CT7vq2ZnF0I_0000005 2209.1 2214.4 

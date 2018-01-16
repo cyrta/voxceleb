@@ -1,0 +1,17 @@
+POI: 			Sean_Maher 
+Youtube ID: 	wjYZksl-CIo 
+Video length: 	578.8 sec 
+Set (V): 		dev 
+ 
+Sean_Maher/wjYZksl-CIo_0000001 21.4 25.9 
+Sean_Maher/wjYZksl-CIo_0000002 87.3 91.4 
+Sean_Maher/wjYZksl-CIo_0000003 99.1 103.5 
+Sean_Maher/wjYZksl-CIo_0000004 158.3 163.8 
+Sean_Maher/wjYZksl-CIo_0000005 167.1 172.5 
+Sean_Maher/wjYZksl-CIo_0000006 173.0 178.3 
+Sean_Maher/wjYZksl-CIo_0000007 200.8 207.8 
+Sean_Maher/wjYZksl-CIo_0000008 364.6 369.1 
+Sean_Maher/wjYZksl-CIo_0000009 424.6 430.3 
+Sean_Maher/wjYZksl-CIo_0000010 434.8 439.5 
+Sean_Maher/wjYZksl-CIo_0000011 522.2 527.0 
+Sean_Maher/wjYZksl-CIo_0000012 532.1 537.9 

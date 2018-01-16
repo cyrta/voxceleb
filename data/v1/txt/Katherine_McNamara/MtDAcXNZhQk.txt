@@ -1,0 +1,13 @@
+POI: 			Katherine_McNamara 
+Youtube ID: 	MtDAcXNZhQk 
+Video length: 	238.9 sec 
+Set (V): 		dev 
+ 
+Katherine_McNamara/MtDAcXNZhQk_0000001 15.2 25.5 
+Katherine_McNamara/MtDAcXNZhQk_0000002 61.8 66.0 
+Katherine_McNamara/MtDAcXNZhQk_0000003 80.4 90.0 
+Katherine_McNamara/MtDAcXNZhQk_0000004 93.9 105.2 
+Katherine_McNamara/MtDAcXNZhQk_0000005 149.8 158.9 
+Katherine_McNamara/MtDAcXNZhQk_0000006 197.6 203.1 
+Katherine_McNamara/MtDAcXNZhQk_0000007 207.0 211.6 
+Katherine_McNamara/MtDAcXNZhQk_0000008 212.0 219.5 

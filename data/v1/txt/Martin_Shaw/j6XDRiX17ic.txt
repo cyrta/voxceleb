@@ -1,0 +1,14 @@
+POI: 			Martin_Shaw 
+Youtube ID: 	j6XDRiX17ic 
+Video length: 	446.7 sec 
+Set (V): 		dev 
+ 
+Martin_Shaw/j6XDRiX17ic_0000001 112.5 119.2 
+Martin_Shaw/j6XDRiX17ic_0000002 164.8 173.5 
+Martin_Shaw/j6XDRiX17ic_0000003 244.4 255.8 
+Martin_Shaw/j6XDRiX17ic_0000004 322.2 338.2 
+Martin_Shaw/j6XDRiX17ic_0000005 338.4 349.7 
+Martin_Shaw/j6XDRiX17ic_0000006 350.0 359.0 
+Martin_Shaw/j6XDRiX17ic_0000007 392.2 397.6 
+Martin_Shaw/j6XDRiX17ic_0000008 400.8 407.3 
+Martin_Shaw/j6XDRiX17ic_0000009 412.6 417.8 

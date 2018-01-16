@@ -1,0 +1,17 @@
+POI: 			Olga_Kurylenko 
+Youtube ID: 	snPd-p0W2m0 
+Video length: 	320.2 sec 
+Set (V): 		dev 
+ 
+Olga_Kurylenko/snPd-p0W2m0_0000001 19.9 25.8 
+Olga_Kurylenko/snPd-p0W2m0_0000002 26.5 33.6 
+Olga_Kurylenko/snPd-p0W2m0_0000003 33.9 38.3 
+Olga_Kurylenko/snPd-p0W2m0_0000004 42.6 51.4 
+Olga_Kurylenko/snPd-p0W2m0_0000005 116.8 130.5 
+Olga_Kurylenko/snPd-p0W2m0_0000006 179.2 183.4 
+Olga_Kurylenko/snPd-p0W2m0_0000007 184.2 188.8 
+Olga_Kurylenko/snPd-p0W2m0_0000008 191.3 197.1 
+Olga_Kurylenko/snPd-p0W2m0_0000009 199.8 205.5 
+Olga_Kurylenko/snPd-p0W2m0_0000010 205.8 218.3 
+Olga_Kurylenko/snPd-p0W2m0_0000011 238.2 258.1 
+Olga_Kurylenko/snPd-p0W2m0_0000012 307.2 312.5 

@@ -1,0 +1,11 @@
+POI: 			Gates_McFadden 
+Youtube ID: 	Zw6RL_OhEoQ 
+Video length: 	92.9 sec 
+Set (V): 		dev 
+ 
+Gates_McFadden/Zw6RL_OhEoQ_0000001 12.8 16.8 
+Gates_McFadden/Zw6RL_OhEoQ_0000002 17.9 21.9 
+Gates_McFadden/Zw6RL_OhEoQ_0000003 22.3 44.9 
+Gates_McFadden/Zw6RL_OhEoQ_0000004 45.4 67.1 
+Gates_McFadden/Zw6RL_OhEoQ_0000005 67.5 73.9 
+Gates_McFadden/Zw6RL_OhEoQ_0000006 74.6 87.5 

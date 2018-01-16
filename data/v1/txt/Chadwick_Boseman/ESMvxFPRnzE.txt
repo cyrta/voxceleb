@@ -1,0 +1,7 @@
+POI: 			Chadwick_Boseman 
+Youtube ID: 	ESMvxFPRnzE 
+Video length: 	153.6 sec 
+Set (V): 		dev 
+ 
+Chadwick_Boseman/ESMvxFPRnzE_0000001 45.1 50.9 
+Chadwick_Boseman/ESMvxFPRnzE_0000002 54.4 65.6 

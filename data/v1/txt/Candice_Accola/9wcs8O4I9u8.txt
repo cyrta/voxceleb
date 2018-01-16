@@ -1,0 +1,14 @@
+POI: 			Candice_Accola 
+Youtube ID: 	9wcs8O4I9u8 
+Video length: 	115.9 sec 
+Set (V): 		dev 
+ 
+Candice_Accola/9wcs8O4I9u8_0000001 04.0 10.5 
+Candice_Accola/9wcs8O4I9u8_0000002 21.4 26.8 
+Candice_Accola/9wcs8O4I9u8_0000003 58.0 62.6 
+Candice_Accola/9wcs8O4I9u8_0000004 66.2 71.2 
+Candice_Accola/9wcs8O4I9u8_0000005 80.7 85.8 
+Candice_Accola/9wcs8O4I9u8_0000006 107.7 112.6 
+Candice_Accola/9wcs8O4I9u8_0000007 66.2 71.6 
+Candice_Accola/9wcs8O4I9u8_0000008 80.7 85.8 
+Candice_Accola/9wcs8O4I9u8_0000009 107.8 112.6 

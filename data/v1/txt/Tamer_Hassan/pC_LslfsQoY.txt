@@ -1,0 +1,10 @@
+POI: 			Tamer_Hassan 
+Youtube ID: 	pC_LslfsQoY 
+Video length: 	149.2 sec 
+Set (V): 		dev 
+ 
+Tamer_Hassan/pC_LslfsQoY_0000001 66.8 71.2 
+Tamer_Hassan/pC_LslfsQoY_0000002 71.7 78.1 
+Tamer_Hassan/pC_LslfsQoY_0000003 105.5 114.6 
+Tamer_Hassan/pC_LslfsQoY_0000004 119.5 131.7 
+Tamer_Hassan/pC_LslfsQoY_0000005 137.7 144.9 

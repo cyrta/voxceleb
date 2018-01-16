@@ -1,0 +1,8 @@
+POI: 			Chris_Colfer 
+Youtube ID: 	cpZma0JjwIo 
+Video length: 	182.3 sec 
+Set (V): 		dev 
+ 
+Chris_Colfer/cpZma0JjwIo_0000001 25.8 32.3 
+Chris_Colfer/cpZma0JjwIo_0000002 161.7 167.3 
+Chris_Colfer/cpZma0JjwIo_0000003 170.7 176.3 

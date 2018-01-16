@@ -1,0 +1,16 @@
+POI: 			Zach_Galifianakis 
+Youtube ID: 	LCsxaXRBX4k 
+Video length: 	313.7 sec 
+Set (V): 		dev 
+ 
+Zach_Galifianakis/LCsxaXRBX4k_0000001 23.1 29.8 
+Zach_Galifianakis/LCsxaXRBX4k_0000002 32.2 38.9 
+Zach_Galifianakis/LCsxaXRBX4k_0000003 39.7 45.0 
+Zach_Galifianakis/LCsxaXRBX4k_0000004 76.1 85.4 
+Zach_Galifianakis/LCsxaXRBX4k_0000005 178.6 184.8 
+Zach_Galifianakis/LCsxaXRBX4k_0000006 200.1 218.2 
+Zach_Galifianakis/LCsxaXRBX4k_0000007 220.6 234.8 
+Zach_Galifianakis/LCsxaXRBX4k_0000008 255.2 259.9 
+Zach_Galifianakis/LCsxaXRBX4k_0000009 262.3 272.0 
+Zach_Galifianakis/LCsxaXRBX4k_0000010 275.0 279.5 
+Zach_Galifianakis/LCsxaXRBX4k_0000011 283.2 300.0 

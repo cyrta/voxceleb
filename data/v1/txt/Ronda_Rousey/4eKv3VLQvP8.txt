@@ -1,0 +1,10 @@
+POI: 			Ronda_Rousey 
+Youtube ID: 	4eKv3VLQvP8 
+Video length: 	260.6 sec 
+Set (V): 		dev 
+ 
+Ronda_Rousey/4eKv3VLQvP8_0000001 24.5 46.8 
+Ronda_Rousey/4eKv3VLQvP8_0000002 123.0 131.6 
+Ronda_Rousey/4eKv3VLQvP8_0000003 158.8 163.6 
+Ronda_Rousey/4eKv3VLQvP8_0000004 177.9 212.6 
+Ronda_Rousey/4eKv3VLQvP8_0000005 233.4 240.9 

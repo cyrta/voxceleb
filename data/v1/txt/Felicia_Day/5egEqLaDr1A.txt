@@ -1,0 +1,9 @@
+POI: 			Felicia_Day 
+Youtube ID: 	5egEqLaDr1A 
+Video length: 	361.0 sec 
+Set (V): 		dev 
+ 
+Felicia_Day/5egEqLaDr1A_0000001 143.4 148.6 
+Felicia_Day/5egEqLaDr1A_0000002 189.6 194.3 
+Felicia_Day/5egEqLaDr1A_0000003 225.6 232.2 
+Felicia_Day/5egEqLaDr1A_0000004 282.2 288.5 

@@ -1,0 +1,8 @@
+POI: 			Barbara_Eden 
+Youtube ID: 	2wBqlMWSKyE 
+Video length: 	101.3 sec 
+Set (V): 		dev 
+ 
+Barbara_Eden/2wBqlMWSKyE_0000001 15.4 24.6 
+Barbara_Eden/2wBqlMWSKyE_0000002 25.6 33.4 
+Barbara_Eden/2wBqlMWSKyE_0000003 40.5 45.8 

@@ -1,0 +1,8 @@
+POI: 			Harry_Treadaway 
+Youtube ID: 	PTnPKCzC-AM 
+Video length: 	99.6 sec 
+Set (V): 		dev 
+ 
+Harry_Treadaway/PTnPKCzC-AM_0000001 59.4 65.1 
+Harry_Treadaway/PTnPKCzC-AM_0000002 66.4 79.5 
+Harry_Treadaway/PTnPKCzC-AM_0000003 83.6 91.2 

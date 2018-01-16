@@ -1,0 +1,12 @@
+POI: 			Burt_Reynolds 
+Youtube ID: 	2und_mUwcQ4 
+Video length: 	414.4 sec 
+Set (V): 		dev 
+ 
+Burt_Reynolds/2und_mUwcQ4_0000001 26.5 31.1 
+Burt_Reynolds/2und_mUwcQ4_0000002 45.3 50.0 
+Burt_Reynolds/2und_mUwcQ4_0000003 83.8 88.1 
+Burt_Reynolds/2und_mUwcQ4_0000004 210.0 214.8 
+Burt_Reynolds/2und_mUwcQ4_0000005 311.9 317.2 
+Burt_Reynolds/2und_mUwcQ4_0000006 341.9 346.3 
+Burt_Reynolds/2und_mUwcQ4_0000007 369.2 379.1 

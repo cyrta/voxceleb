@@ -1,0 +1,13 @@
+POI: 			Noah_Emmerich 
+Youtube ID: 	wny9sUBebAg 
+Video length: 	184.2 sec 
+Set (V): 		dev 
+ 
+Noah_Emmerich/wny9sUBebAg_0000001 07.7 21.0 
+Noah_Emmerich/wny9sUBebAg_0000002 21.4 43.8 
+Noah_Emmerich/wny9sUBebAg_0000003 49.1 86.4 
+Noah_Emmerich/wny9sUBebAg_0000004 88.0 96.2 
+Noah_Emmerich/wny9sUBebAg_0000005 126.7 131.8 
+Noah_Emmerich/wny9sUBebAg_0000006 132.0 140.8 
+Noah_Emmerich/wny9sUBebAg_0000007 147.2 160.1 
+Noah_Emmerich/wny9sUBebAg_0000008 160.3 179.6 

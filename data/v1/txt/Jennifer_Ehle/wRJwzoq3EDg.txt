@@ -1,0 +1,10 @@
+POI: 			Jennifer_Ehle 
+Youtube ID: 	wRJwzoq3EDg 
+Video length: 	197.2 sec 
+Set (V): 		dev 
+ 
+Jennifer_Ehle/wRJwzoq3EDg_0000001 10.0 33.8 
+Jennifer_Ehle/wRJwzoq3EDg_0000002 42.9 50.4 
+Jennifer_Ehle/wRJwzoq3EDg_0000003 95.4 100.6 
+Jennifer_Ehle/wRJwzoq3EDg_0000004 132.0 148.0 
+Jennifer_Ehle/wRJwzoq3EDg_0000005 181.9 186.8 

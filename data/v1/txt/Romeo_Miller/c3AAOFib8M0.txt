@@ -1,0 +1,9 @@
+POI: 			Romeo_Miller 
+Youtube ID: 	c3AAOFib8M0 
+Video length: 	107.7 sec 
+Set (V): 		dev 
+ 
+Romeo_Miller/c3AAOFib8M0_0000001 18.1 23.2 
+Romeo_Miller/c3AAOFib8M0_0000002 23.7 30.4 
+Romeo_Miller/c3AAOFib8M0_0000003 42.2 57.5 
+Romeo_Miller/c3AAOFib8M0_0000004 58.5 64.4 

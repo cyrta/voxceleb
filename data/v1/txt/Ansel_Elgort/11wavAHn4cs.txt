@@ -1,0 +1,15 @@
+POI: 			Ansel_Elgort 
+Youtube ID: 	11wavAHn4cs 
+Video length: 	371.9 sec 
+Set (V): 		dev 
+ 
+Ansel_Elgort/11wavAHn4cs_0000001 80.2 88.3 
+Ansel_Elgort/11wavAHn4cs_0000002 189.0 193.8 
+Ansel_Elgort/11wavAHn4cs_0000003 198.5 203.7 
+Ansel_Elgort/11wavAHn4cs_0000004 250.5 261.7 
+Ansel_Elgort/11wavAHn4cs_0000005 263.9 271.5 
+Ansel_Elgort/11wavAHn4cs_0000006 279.9 286.2 
+Ansel_Elgort/11wavAHn4cs_0000007 321.6 328.6 
+Ansel_Elgort/11wavAHn4cs_0000008 329.1 339.1 
+Ansel_Elgort/11wavAHn4cs_0000009 350.4 354.3 
+Ansel_Elgort/11wavAHn4cs_0000010 354.9 362.7 

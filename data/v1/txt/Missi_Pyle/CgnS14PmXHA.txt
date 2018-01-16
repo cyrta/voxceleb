@@ -1,0 +1,12 @@
+POI: 			Missi_Pyle 
+Youtube ID: 	CgnS14PmXHA 
+Video length: 	173.3 sec 
+Set (V): 		dev 
+ 
+Missi_Pyle/CgnS14PmXHA_0000001 25.0 35.6 
+Missi_Pyle/CgnS14PmXHA_0000002 36.5 43.4 
+Missi_Pyle/CgnS14PmXHA_0000003 44.3 48.4 
+Missi_Pyle/CgnS14PmXHA_0000004 54.0 60.4 
+Missi_Pyle/CgnS14PmXHA_0000005 93.8 103.8 
+Missi_Pyle/CgnS14PmXHA_0000006 115.2 142.2 
+Missi_Pyle/CgnS14PmXHA_0000007 143.3 148.6 

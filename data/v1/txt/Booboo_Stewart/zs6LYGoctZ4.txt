@@ -1,0 +1,9 @@
+POI: 			Booboo_Stewart 
+Youtube ID: 	zs6LYGoctZ4 
+Video length: 	256.2 sec 
+Set (V): 		dev 
+ 
+Booboo_Stewart/zs6LYGoctZ4_0000001 12.2 16.6 
+Booboo_Stewart/zs6LYGoctZ4_0000002 64.8 68.9 
+Booboo_Stewart/zs6LYGoctZ4_0000003 89.6 98.9 
+Booboo_Stewart/zs6LYGoctZ4_0000004 120.5 124.7 

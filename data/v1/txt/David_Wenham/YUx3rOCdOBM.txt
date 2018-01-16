@@ -1,0 +1,9 @@
+POI: 			David_Wenham 
+Youtube ID: 	YUx3rOCdOBM 
+Video length: 	294.9 sec 
+Set (V): 		dev 
+ 
+David_Wenham/YUx3rOCdOBM_0000001 149.4 157.3 
+David_Wenham/YUx3rOCdOBM_0000002 161.5 169.4 
+David_Wenham/YUx3rOCdOBM_0000003 251.2 255.6 
+David_Wenham/YUx3rOCdOBM_0000004 262.6 273.9 

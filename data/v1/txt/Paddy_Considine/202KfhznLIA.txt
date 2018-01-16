@@ -1,0 +1,7 @@
+POI: 			Paddy_Considine 
+Youtube ID: 	202KfhznLIA 
+Video length: 	188.7 sec 
+Set (V): 		dev 
+ 
+Paddy_Considine/202KfhznLIA_0000001 75.1 91.4 
+Paddy_Considine/202KfhznLIA_0000002 131.0 139.4 

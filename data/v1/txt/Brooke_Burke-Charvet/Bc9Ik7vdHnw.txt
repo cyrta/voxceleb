@@ -1,0 +1,10 @@
+POI: 			Brooke_Burke-Charvet 
+Youtube ID: 	Bc9Ik7vdHnw 
+Video length: 	322.8 sec 
+Set (V): 		dev 
+ 
+Brooke_Burke-Charvet/Bc9Ik7vdHnw_0000001 63.0 70.5 
+Brooke_Burke-Charvet/Bc9Ik7vdHnw_0000002 79.4 86.0 
+Brooke_Burke-Charvet/Bc9Ik7vdHnw_0000003 146.8 152.6 
+Brooke_Burke-Charvet/Bc9Ik7vdHnw_0000004 207.2 211.8 
+Brooke_Burke-Charvet/Bc9Ik7vdHnw_0000005 264.7 269.0 

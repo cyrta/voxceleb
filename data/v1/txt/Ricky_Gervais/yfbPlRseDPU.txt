@@ -1,0 +1,25 @@
+POI: 			Ricky_Gervais 
+Youtube ID: 	yfbPlRseDPU 
+Video length: 	307.8 sec 
+Set (V): 		dev 
+ 
+Ricky_Gervais/yfbPlRseDPU_0000001 13.2 23.8 
+Ricky_Gervais/yfbPlRseDPU_0000002 25.9 44.0 
+Ricky_Gervais/yfbPlRseDPU_0000003 51.8 57.2 
+Ricky_Gervais/yfbPlRseDPU_0000004 59.1 67.2 
+Ricky_Gervais/yfbPlRseDPU_0000005 74.2 80.0 
+Ricky_Gervais/yfbPlRseDPU_0000006 82.8 88.2 
+Ricky_Gervais/yfbPlRseDPU_0000007 96.2 106.9 
+Ricky_Gervais/yfbPlRseDPU_0000008 112.7 118.7 
+Ricky_Gervais/yfbPlRseDPU_0000009 142.3 149.0 
+Ricky_Gervais/yfbPlRseDPU_0000010 151.3 156.2 
+Ricky_Gervais/yfbPlRseDPU_0000011 157.4 171.4 
+Ricky_Gervais/yfbPlRseDPU_0000012 196.4 201.9 
+Ricky_Gervais/yfbPlRseDPU_0000013 206.5 216.8 
+Ricky_Gervais/yfbPlRseDPU_0000014 219.5 224.0 
+Ricky_Gervais/yfbPlRseDPU_0000015 232.0 238.3 
+Ricky_Gervais/yfbPlRseDPU_0000016 238.6 247.3 
+Ricky_Gervais/yfbPlRseDPU_0000017 260.6 266.8 
+Ricky_Gervais/yfbPlRseDPU_0000018 267.9 273.5 
+Ricky_Gervais/yfbPlRseDPU_0000019 280.9 285.5 
+Ricky_Gervais/yfbPlRseDPU_0000020 286.2 297.6 

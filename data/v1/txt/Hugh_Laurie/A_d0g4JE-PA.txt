@@ -1,0 +1,14 @@
+POI: 			Hugh_Laurie 
+Youtube ID: 	A_d0g4JE-PA 
+Video length: 	584.0 sec 
+Set (V): 		dev 
+ 
+Hugh_Laurie/A_d0g4JE-PA_0000001 138.3 145.0 
+Hugh_Laurie/A_d0g4JE-PA_0000002 146.6 164.9 
+Hugh_Laurie/A_d0g4JE-PA_0000003 177.8 184.1 
+Hugh_Laurie/A_d0g4JE-PA_0000004 193.8 197.8 
+Hugh_Laurie/A_d0g4JE-PA_0000005 198.6 212.2 
+Hugh_Laurie/A_d0g4JE-PA_0000006 214.6 221.2 
+Hugh_Laurie/A_d0g4JE-PA_0000007 261.9 266.8 
+Hugh_Laurie/A_d0g4JE-PA_0000008 306.6 328.0 
+Hugh_Laurie/A_d0g4JE-PA_0000009 429.2 436.1 

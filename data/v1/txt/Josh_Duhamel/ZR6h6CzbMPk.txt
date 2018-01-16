@@ -1,0 +1,11 @@
+POI: 			Josh_Duhamel 
+Youtube ID: 	ZR6h6CzbMPk 
+Video length: 	269.3 sec 
+Set (V): 		dev 
+ 
+Josh_Duhamel/ZR6h6CzbMPk_0000001 43.0 53.4 
+Josh_Duhamel/ZR6h6CzbMPk_0000002 54.5 64.7 
+Josh_Duhamel/ZR6h6CzbMPk_0000003 86.0 94.6 
+Josh_Duhamel/ZR6h6CzbMPk_0000004 95.8 103.9 
+Josh_Duhamel/ZR6h6CzbMPk_0000005 131.6 139.9 
+Josh_Duhamel/ZR6h6CzbMPk_0000006 141.6 156.8 

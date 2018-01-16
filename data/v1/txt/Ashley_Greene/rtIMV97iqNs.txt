@@ -1,0 +1,7 @@
+POI: 			Ashley_Greene 
+Youtube ID: 	rtIMV97iqNs 
+Video length: 	161.6 sec 
+Set (V): 		dev 
+ 
+Ashley_Greene/rtIMV97iqNs_0000001 24.8 30.2 
+Ashley_Greene/rtIMV97iqNs_0000002 118.2 129.4 

@@ -1,0 +1,31 @@
+POI: 			Sharlto_Copley 
+Youtube ID: 	avJJKruS0rk 
+Video length: 	622.2 sec 
+Set (V): 		dev 
+ 
+Sharlto_Copley/avJJKruS0rk_0000001 38.3 52.9 
+Sharlto_Copley/avJJKruS0rk_0000002 53.6 68.1 
+Sharlto_Copley/avJJKruS0rk_0000003 78.7 83.2 
+Sharlto_Copley/avJJKruS0rk_0000004 83.9 93.6 
+Sharlto_Copley/avJJKruS0rk_0000005 102.2 119.5 
+Sharlto_Copley/avJJKruS0rk_0000006 146.5 160.0 
+Sharlto_Copley/avJJKruS0rk_0000007 160.4 167.2 
+Sharlto_Copley/avJJKruS0rk_0000008 169.1 179.0 
+Sharlto_Copley/avJJKruS0rk_0000009 179.6 204.2 
+Sharlto_Copley/avJJKruS0rk_0000010 233.1 249.8 
+Sharlto_Copley/avJJKruS0rk_0000011 270.3 291.8 
+Sharlto_Copley/avJJKruS0rk_0000012 293.1 300.2 
+Sharlto_Copley/avJJKruS0rk_0000013 315.2 322.6 
+Sharlto_Copley/avJJKruS0rk_0000014 323.5 328.6 
+Sharlto_Copley/avJJKruS0rk_0000015 330.5 336.1 
+Sharlto_Copley/avJJKruS0rk_0000016 342.4 355.7 
+Sharlto_Copley/avJJKruS0rk_0000017 356.2 364.1 
+Sharlto_Copley/avJJKruS0rk_0000018 365.0 379.0 
+Sharlto_Copley/avJJKruS0rk_0000019 388.1 411.2 
+Sharlto_Copley/avJJKruS0rk_0000020 453.8 461.2 
+Sharlto_Copley/avJJKruS0rk_0000021 464.2 477.2 
+Sharlto_Copley/avJJKruS0rk_0000022 480.1 500.5 
+Sharlto_Copley/avJJKruS0rk_0000023 502.3 522.7 
+Sharlto_Copley/avJJKruS0rk_0000024 544.0 548.0 
+Sharlto_Copley/avJJKruS0rk_0000025 563.2 582.6 
+Sharlto_Copley/avJJKruS0rk_0000026 584.1 589.4 

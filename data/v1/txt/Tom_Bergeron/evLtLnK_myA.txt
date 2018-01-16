@@ -1,0 +1,31 @@
+POI: 			Tom_Bergeron 
+Youtube ID: 	evLtLnK_myA 
+Video length: 	378.6 sec 
+Set (V): 		dev 
+ 
+Tom_Bergeron/evLtLnK_myA_0000001 05.9 17.0 
+Tom_Bergeron/evLtLnK_myA_0000002 18.0 39.0 
+Tom_Bergeron/evLtLnK_myA_0000003 39.8 50.4 
+Tom_Bergeron/evLtLnK_myA_0000004 59.4 67.2 
+Tom_Bergeron/evLtLnK_myA_0000005 68.3 85.6 
+Tom_Bergeron/evLtLnK_myA_0000006 86.4 95.8 
+Tom_Bergeron/evLtLnK_myA_0000007 104.3 134.3 
+Tom_Bergeron/evLtLnK_myA_0000008 135.0 158.7 
+Tom_Bergeron/evLtLnK_myA_0000009 158.8 163.6 
+Tom_Bergeron/evLtLnK_myA_0000010 172.5 181.1 
+Tom_Bergeron/evLtLnK_myA_0000011 182.1 186.9 
+Tom_Bergeron/evLtLnK_myA_0000012 187.9 207.2 
+Tom_Bergeron/evLtLnK_myA_0000013 210.1 221.2 
+Tom_Bergeron/evLtLnK_myA_0000014 239.6 247.7 
+Tom_Bergeron/evLtLnK_myA_0000015 248.5 254.9 
+Tom_Bergeron/evLtLnK_myA_0000016 266.4 278.0 
+Tom_Bergeron/evLtLnK_myA_0000017 285.0 289.2 
+Tom_Bergeron/evLtLnK_myA_0000018 230.1 235.8 
+Tom_Bergeron/evLtLnK_myA_0000019 239.6 247.8 
+Tom_Bergeron/evLtLnK_myA_0000020 248.4 255.2 
+Tom_Bergeron/evLtLnK_myA_0000021 256.3 260.9 
+Tom_Bergeron/evLtLnK_myA_0000022 262.3 275.7 
+Tom_Bergeron/evLtLnK_myA_0000023 297.0 301.5 
+Tom_Bergeron/evLtLnK_myA_0000024 306.6 326.5 
+Tom_Bergeron/evLtLnK_myA_0000025 333.0 347.5 
+Tom_Bergeron/evLtLnK_myA_0000026 360.9 369.2 

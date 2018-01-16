@@ -1,0 +1,7 @@
+POI: 			Lucas_Grabeel 
+Youtube ID: 	4ETOFrpb8O4 
+Video length: 	71.1 sec 
+Set (V): 		dev 
+ 
+Lucas_Grabeel/4ETOFrpb8O4_0000001 28.2 32.9 
+Lucas_Grabeel/4ETOFrpb8O4_0000002 39.0 54.9 

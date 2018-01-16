@@ -1,0 +1,15 @@
+POI: 			Josh_Duhamel 
+Youtube ID: 	LrrLRsMNGvk 
+Video length: 	197.4 sec 
+Set (V): 		dev 
+ 
+Josh_Duhamel/LrrLRsMNGvk_0000001 07.3 20.1 
+Josh_Duhamel/LrrLRsMNGvk_0000002 22.1 30.4 
+Josh_Duhamel/LrrLRsMNGvk_0000003 51.4 62.6 
+Josh_Duhamel/LrrLRsMNGvk_0000004 73.8 84.0 
+Josh_Duhamel/LrrLRsMNGvk_0000005 91.5 99.8 
+Josh_Duhamel/LrrLRsMNGvk_0000006 106.0 115.8 
+Josh_Duhamel/LrrLRsMNGvk_0000007 117.5 125.3 
+Josh_Duhamel/LrrLRsMNGvk_0000008 154.2 162.2 
+Josh_Duhamel/LrrLRsMNGvk_0000009 164.9 170.7 
+Josh_Duhamel/LrrLRsMNGvk_0000010 182.8 195.2 

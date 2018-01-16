@@ -1,0 +1,15 @@
+POI: 			Richard_Hammond 
+Youtube ID: 	eSAT9Mbzu3s 
+Video length: 	880.2 sec 
+Set (V): 		dev 
+ 
+Richard_Hammond/eSAT9Mbzu3s_0000001 100.8 107.4 
+Richard_Hammond/eSAT9Mbzu3s_0000002 151.0 167.9 
+Richard_Hammond/eSAT9Mbzu3s_0000003 191.9 197.8 
+Richard_Hammond/eSAT9Mbzu3s_0000004 325.2 331.3 
+Richard_Hammond/eSAT9Mbzu3s_0000005 333.6 351.5 
+Richard_Hammond/eSAT9Mbzu3s_0000006 358.6 363.2 
+Richard_Hammond/eSAT9Mbzu3s_0000007 440.7 445.0 
+Richard_Hammond/eSAT9Mbzu3s_0000008 821.1 828.4 
+Richard_Hammond/eSAT9Mbzu3s_0000009 853.2 861.7 
+Richard_Hammond/eSAT9Mbzu3s_0000010 862.2 868.2 

@@ -1,0 +1,9 @@
+POI: 			RZA 
+Youtube ID: 	4-5QJo6Jtb4 
+Video length: 	500.5 sec 
+Set (V): 		dev 
+ 
+RZA/4-5QJo6Jtb4_0000001 36.7 41.0 
+RZA/4-5QJo6Jtb4_0000002 190.6 197.6 
+RZA/4-5QJo6Jtb4_0000003 212.9 217.9 
+RZA/4-5QJo6Jtb4_0000004 356.3 360.4 

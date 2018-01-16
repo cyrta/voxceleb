@@ -1,0 +1,13 @@
+POI: 			Miranda_Kerr 
+Youtube ID: 	mO5Tjo_ljkE 
+Video length: 	863.6 sec 
+Set (V): 		dev 
+ 
+Miranda_Kerr/mO5Tjo_ljkE_0000001 98.6 103.4 
+Miranda_Kerr/mO5Tjo_ljkE_0000002 119.2 125.7 
+Miranda_Kerr/mO5Tjo_ljkE_0000003 138.1 152.2 
+Miranda_Kerr/mO5Tjo_ljkE_0000004 152.3 158.1 
+Miranda_Kerr/mO5Tjo_ljkE_0000005 158.3 167.8 
+Miranda_Kerr/mO5Tjo_ljkE_0000006 339.4 346.1 
+Miranda_Kerr/mO5Tjo_ljkE_0000007 485.1 491.0 
+Miranda_Kerr/mO5Tjo_ljkE_0000008 835.4 840.3 

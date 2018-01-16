@@ -1,0 +1,7 @@
+POI: 			Tim_Daly 
+Youtube ID: 	afLjKYSzujE 
+Video length: 	299.2 sec 
+Set (V): 		dev 
+ 
+Tim_Daly/afLjKYSzujE_0000001 121.0 125.7 
+Tim_Daly/afLjKYSzujE_0000002 206.2 210.2 

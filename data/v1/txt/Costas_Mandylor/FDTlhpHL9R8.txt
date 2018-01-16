@@ -1,0 +1,9 @@
+POI: 			Costas_Mandylor 
+Youtube ID: 	FDTlhpHL9R8 
+Video length: 	407.1 sec 
+Set (V): 		dev 
+ 
+Costas_Mandylor/FDTlhpHL9R8_0000001 78.8 84.3 
+Costas_Mandylor/FDTlhpHL9R8_0000002 92.1 99.8 
+Costas_Mandylor/FDTlhpHL9R8_0000003 110.7 115.2 
+Costas_Mandylor/FDTlhpHL9R8_0000004 117.7 123.4 

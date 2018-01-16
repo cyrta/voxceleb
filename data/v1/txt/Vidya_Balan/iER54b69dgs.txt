@@ -1,0 +1,17 @@
+POI: 			Vidya_Balan 
+Youtube ID: 	iER54b69dgs 
+Video length: 	1348.3 sec 
+Set (V): 		dev 
+ 
+Vidya_Balan/iER54b69dgs_0000001 520.6 533.8 
+Vidya_Balan/iER54b69dgs_0000002 544.1 548.6 
+Vidya_Balan/iER54b69dgs_0000003 693.8 707.2 
+Vidya_Balan/iER54b69dgs_0000004 714.0 720.4 
+Vidya_Balan/iER54b69dgs_0000005 752.6 767.6 
+Vidya_Balan/iER54b69dgs_0000006 813.6 832.2 
+Vidya_Balan/iER54b69dgs_0000007 839.9 845.8 
+Vidya_Balan/iER54b69dgs_0000008 1073.1 1077.8 
+Vidya_Balan/iER54b69dgs_0000009 1132.8 1139.3 
+Vidya_Balan/iER54b69dgs_0000010 1166.2 1179.0 
+Vidya_Balan/iER54b69dgs_0000011 1251.4 1259.0 
+Vidya_Balan/iER54b69dgs_0000012 1259.7 1270.4 

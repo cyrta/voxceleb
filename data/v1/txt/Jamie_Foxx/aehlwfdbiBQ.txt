@@ -1,0 +1,13 @@
+POI: 			Jamie_Foxx 
+Youtube ID: 	aehlwfdbiBQ 
+Video length: 	215.3 sec 
+Set (V): 		dev 
+ 
+Jamie_Foxx/aehlwfdbiBQ_0000001 50.7 58.6 
+Jamie_Foxx/aehlwfdbiBQ_0000002 93.7 98.2 
+Jamie_Foxx/aehlwfdbiBQ_0000003 126.0 130.3 
+Jamie_Foxx/aehlwfdbiBQ_0000004 132.9 138.1 
+Jamie_Foxx/aehlwfdbiBQ_0000005 153.8 159.2 
+Jamie_Foxx/aehlwfdbiBQ_0000006 159.8 166.2 
+Jamie_Foxx/aehlwfdbiBQ_0000007 168.3 172.3 
+Jamie_Foxx/aehlwfdbiBQ_0000008 193.8 199.6 

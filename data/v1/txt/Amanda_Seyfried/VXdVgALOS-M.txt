@@ -1,0 +1,7 @@
+POI: 			Amanda_Seyfried 
+Youtube ID: 	VXdVgALOS-M 
+Video length: 	206.5 sec 
+Set (V): 		dev 
+ 
+Amanda_Seyfried/VXdVgALOS-M_0000001 18.3 25.0 
+Amanda_Seyfried/VXdVgALOS-M_0000002 27.3 32.2 

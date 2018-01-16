@@ -1,0 +1,8 @@
+POI: 			Ruth_Jones 
+Youtube ID: 	YaNZ9dgFRJg 
+Video length: 	110.0 sec 
+Set (V): 		dev 
+ 
+Ruth_Jones/YaNZ9dgFRJg_0000001 22.0 27.1 
+Ruth_Jones/YaNZ9dgFRJg_0000002 38.8 43.7 
+Ruth_Jones/YaNZ9dgFRJg_0000003 49.0 54.4 

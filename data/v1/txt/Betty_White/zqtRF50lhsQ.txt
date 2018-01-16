@@ -1,0 +1,10 @@
+POI: 			Betty_White 
+Youtube ID: 	zqtRF50lhsQ 
+Video length: 	159.6 sec 
+Set (V): 		dev 
+ 
+Betty_White/zqtRF50lhsQ_0000001 53.2 66.2 
+Betty_White/zqtRF50lhsQ_0000002 77.2 84.3 
+Betty_White/zqtRF50lhsQ_0000003 90.0 94.0 
+Betty_White/zqtRF50lhsQ_0000004 110.2 126.3 
+Betty_White/zqtRF50lhsQ_0000005 129.3 138.3 

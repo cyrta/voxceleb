@@ -1,0 +1,10 @@
+POI: 			Reid_Scott 
+Youtube ID: 	2oenxTdPCMM 
+Video length: 	120.4 sec 
+Set (V): 		dev 
+ 
+Reid_Scott/2oenxTdPCMM_0000001 10.1 18.6 
+Reid_Scott/2oenxTdPCMM_0000002 18.9 23.3 
+Reid_Scott/2oenxTdPCMM_0000003 28.2 33.2 
+Reid_Scott/2oenxTdPCMM_0000004 47.0 51.0 
+Reid_Scott/2oenxTdPCMM_0000005 63.0 73.3 

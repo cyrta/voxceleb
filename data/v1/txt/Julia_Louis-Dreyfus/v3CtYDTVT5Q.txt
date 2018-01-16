@@ -1,0 +1,11 @@
+POI: 			Julia_Louis-Dreyfus 
+Youtube ID: 	v3CtYDTVT5Q 
+Video length: 	210.0 sec 
+Set (V): 		dev 
+ 
+Julia_Louis-Dreyfus/v3CtYDTVT5Q_0000001 63.0 69.4 
+Julia_Louis-Dreyfus/v3CtYDTVT5Q_0000002 70.3 75.4 
+Julia_Louis-Dreyfus/v3CtYDTVT5Q_0000003 102.6 112.0 
+Julia_Louis-Dreyfus/v3CtYDTVT5Q_0000004 172.1 181.1 
+Julia_Louis-Dreyfus/v3CtYDTVT5Q_0000005 182.4 194.4 
+Julia_Louis-Dreyfus/v3CtYDTVT5Q_0000006 203.6 207.6 

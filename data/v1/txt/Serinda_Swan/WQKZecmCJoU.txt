@@ -1,0 +1,13 @@
+POI: 			Serinda_Swan 
+Youtube ID: 	WQKZecmCJoU 
+Video length: 	213.4 sec 
+Set (V): 		dev 
+ 
+Serinda_Swan/WQKZecmCJoU_0000001 57.0 62.7 
+Serinda_Swan/WQKZecmCJoU_0000002 85.2 89.8 
+Serinda_Swan/WQKZecmCJoU_0000003 118.8 124.2 
+Serinda_Swan/WQKZecmCJoU_0000004 152.4 157.2 
+Serinda_Swan/WQKZecmCJoU_0000005 157.9 169.3 
+Serinda_Swan/WQKZecmCJoU_0000006 170.1 174.1 
+Serinda_Swan/WQKZecmCJoU_0000007 178.6 187.1 
+Serinda_Swan/WQKZecmCJoU_0000008 196.2 201.3 

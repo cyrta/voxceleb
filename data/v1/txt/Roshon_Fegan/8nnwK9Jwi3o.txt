@@ -1,0 +1,9 @@
+POI: 			Roshon_Fegan 
+Youtube ID: 	8nnwK9Jwi3o 
+Video length: 	118.5 sec 
+Set (V): 		dev 
+ 
+Roshon_Fegan/8nnwK9Jwi3o_0000001 30.7 35.2 
+Roshon_Fegan/8nnwK9Jwi3o_0000002 36.2 44.7 
+Roshon_Fegan/8nnwK9Jwi3o_0000003 66.9 76.2 
+Roshon_Fegan/8nnwK9Jwi3o_0000004 83.1 88.5 

@@ -1,0 +1,10 @@
+POI: 			Michael_Bay 
+Youtube ID: 	Mxvab7JrXNI 
+Video length: 	226.4 sec 
+Set (V): 		dev 
+ 
+Michael_Bay/Mxvab7JrXNI_0000001 95.8 102.9 
+Michael_Bay/Mxvab7JrXNI_0000002 104.4 110.4 
+Michael_Bay/Mxvab7JrXNI_0000003 116.5 123.0 
+Michael_Bay/Mxvab7JrXNI_0000004 184.9 189.6 
+Michael_Bay/Mxvab7JrXNI_0000005 190.5 197.6 

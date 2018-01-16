@@ -1,0 +1,9 @@
+POI: 			Ana_Gasteyer 
+Youtube ID: 	1O-BFSXqERo 
+Video length: 	356.9 sec 
+Set (V): 		dev 
+ 
+Ana_Gasteyer/1O-BFSXqERo_0000001 83.6 92.0 
+Ana_Gasteyer/1O-BFSXqERo_0000002 100.3 105.9 
+Ana_Gasteyer/1O-BFSXqERo_0000003 196.9 204.3 
+Ana_Gasteyer/1O-BFSXqERo_0000004 207.2 223.4 

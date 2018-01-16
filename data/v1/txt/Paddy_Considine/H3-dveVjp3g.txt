@@ -1,0 +1,9 @@
+POI: 			Paddy_Considine 
+Youtube ID: 	H3-dveVjp3g 
+Video length: 	157.5 sec 
+Set (V): 		dev 
+ 
+Paddy_Considine/H3-dveVjp3g_0000001 89.8 97.6 
+Paddy_Considine/H3-dveVjp3g_0000002 113.8 119.9 
+Paddy_Considine/H3-dveVjp3g_0000003 120.7 125.2 
+Paddy_Considine/H3-dveVjp3g_0000004 127.2 142.5 

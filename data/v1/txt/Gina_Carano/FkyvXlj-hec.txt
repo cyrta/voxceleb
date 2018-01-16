@@ -1,0 +1,12 @@
+POI: 			Gina_Carano 
+Youtube ID: 	FkyvXlj-hec 
+Video length: 	93.0 sec 
+Set (V): 		dev 
+ 
+Gina_Carano/FkyvXlj-hec_0000001 08.1 14.6 
+Gina_Carano/FkyvXlj-hec_0000002 15.2 22.0 
+Gina_Carano/FkyvXlj-hec_0000003 22.7 31.4 
+Gina_Carano/FkyvXlj-hec_0000004 31.8 38.6 
+Gina_Carano/FkyvXlj-hec_0000005 53.6 63.4 
+Gina_Carano/FkyvXlj-hec_0000006 64.1 79.9 
+Gina_Carano/FkyvXlj-hec_0000007 82.9 87.1 

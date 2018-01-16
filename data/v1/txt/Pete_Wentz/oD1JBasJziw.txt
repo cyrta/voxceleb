@@ -1,0 +1,12 @@
+POI: 			Pete_Wentz 
+Youtube ID: 	oD1JBasJziw 
+Video length: 	183.3 sec 
+Set (V): 		dev 
+ 
+Pete_Wentz/oD1JBasJziw_0000001 28.8 39.5 
+Pete_Wentz/oD1JBasJziw_0000002 57.8 64.0 
+Pete_Wentz/oD1JBasJziw_0000003 69.4 77.4 
+Pete_Wentz/oD1JBasJziw_0000004 81.7 88.0 
+Pete_Wentz/oD1JBasJziw_0000005 88.8 100.3 
+Pete_Wentz/oD1JBasJziw_0000006 115.4 119.6 
+Pete_Wentz/oD1JBasJziw_0000007 121.6 153.6 

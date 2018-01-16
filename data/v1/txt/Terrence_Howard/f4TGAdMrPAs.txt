@@ -1,0 +1,24 @@
+POI: 			Terrence_Howard 
+Youtube ID: 	f4TGAdMrPAs 
+Video length: 	478.6 sec 
+Set (V): 		dev 
+ 
+Terrence_Howard/f4TGAdMrPAs_0000001 31.4 37.8 
+Terrence_Howard/f4TGAdMrPAs_0000002 38.8 49.8 
+Terrence_Howard/f4TGAdMrPAs_0000003 52.0 56.7 
+Terrence_Howard/f4TGAdMrPAs_0000004 64.3 68.3 
+Terrence_Howard/f4TGAdMrPAs_0000005 174.4 183.9 
+Terrence_Howard/f4TGAdMrPAs_0000006 187.1 192.8 
+Terrence_Howard/f4TGAdMrPAs_0000007 196.6 206.7 
+Terrence_Howard/f4TGAdMrPAs_0000008 207.6 216.8 
+Terrence_Howard/f4TGAdMrPAs_0000009 235.8 260.9 
+Terrence_Howard/f4TGAdMrPAs_0000010 262.9 277.8 
+Terrence_Howard/f4TGAdMrPAs_0000011 278.8 285.2 
+Terrence_Howard/f4TGAdMrPAs_0000012 285.5 291.7 
+Terrence_Howard/f4TGAdMrPAs_0000013 291.9 311.7 
+Terrence_Howard/f4TGAdMrPAs_0000014 360.1 365.2 
+Terrence_Howard/f4TGAdMrPAs_0000015 365.3 370.2 
+Terrence_Howard/f4TGAdMrPAs_0000016 374.9 382.1 
+Terrence_Howard/f4TGAdMrPAs_0000017 400.9 418.6 
+Terrence_Howard/f4TGAdMrPAs_0000018 433.4 438.1 
+Terrence_Howard/f4TGAdMrPAs_0000019 460.5 465.1 

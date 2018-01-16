@@ -1,0 +1,12 @@
+POI: 			Jon_Seda 
+Youtube ID: 	TNgmU8b8K7g 
+Video length: 	333.6 sec 
+Set (V): 		dev 
+ 
+Jon_Seda/TNgmU8b8K7g_0000001 51.3 62.2 
+Jon_Seda/TNgmU8b8K7g_0000002 72.3 85.1 
+Jon_Seda/TNgmU8b8K7g_0000003 109.0 123.4 
+Jon_Seda/TNgmU8b8K7g_0000004 128.2 138.7 
+Jon_Seda/TNgmU8b8K7g_0000005 147.1 158.3 
+Jon_Seda/TNgmU8b8K7g_0000006 159.2 165.0 
+Jon_Seda/TNgmU8b8K7g_0000007 188.7 209.0 

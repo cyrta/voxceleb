@@ -1,0 +1,15 @@
+POI: 			Natalie_Dormer 
+Youtube ID: 	K0Qq29mM7po 
+Video length: 	262.6 sec 
+Set (V): 		dev 
+ 
+Natalie_Dormer/K0Qq29mM7po_0000001 91.6 106.1 
+Natalie_Dormer/K0Qq29mM7po_0000002 106.3 119.6 
+Natalie_Dormer/K0Qq29mM7po_0000003 130.0 135.9 
+Natalie_Dormer/K0Qq29mM7po_0000004 139.1 150.2 
+Natalie_Dormer/K0Qq29mM7po_0000005 160.3 168.8 
+Natalie_Dormer/K0Qq29mM7po_0000006 169.6 175.6 
+Natalie_Dormer/K0Qq29mM7po_0000007 201.7 216.8 
+Natalie_Dormer/K0Qq29mM7po_0000008 216.9 236.0 
+Natalie_Dormer/K0Qq29mM7po_0000009 236.8 243.0 
+Natalie_Dormer/K0Qq29mM7po_0000010 250.8 256.8 

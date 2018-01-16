@@ -1,0 +1,10 @@
+POI: 			Maria_Grazia_Cucinotta 
+Youtube ID: 	qeyi52LR0LU 
+Video length: 	231.4 sec 
+Set (V): 		dev 
+ 
+Maria_Grazia_Cucinotta/qeyi52LR0LU_0000001 23.2 29.4 
+Maria_Grazia_Cucinotta/qeyi52LR0LU_0000002 178.6 183.8 
+Maria_Grazia_Cucinotta/qeyi52LR0LU_0000003 185.9 192.0 
+Maria_Grazia_Cucinotta/qeyi52LR0LU_0000004 178.6 183.9 
+Maria_Grazia_Cucinotta/qeyi52LR0LU_0000005 186.0 192.0 

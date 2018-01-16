@@ -1,0 +1,12 @@
+POI: 			Donald_Sutherland 
+Youtube ID: 	QybTQUZchhk 
+Video length: 	275.8 sec 
+Set (V): 		dev 
+ 
+Donald_Sutherland/QybTQUZchhk_0000001 34.1 39.7 
+Donald_Sutherland/QybTQUZchhk_0000002 67.5 73.1 
+Donald_Sutherland/QybTQUZchhk_0000003 90.5 97.6 
+Donald_Sutherland/QybTQUZchhk_0000004 164.3 169.3 
+Donald_Sutherland/QybTQUZchhk_0000005 179.2 185.0 
+Donald_Sutherland/QybTQUZchhk_0000006 233.4 238.3 
+Donald_Sutherland/QybTQUZchhk_0000007 243.7 249.4 

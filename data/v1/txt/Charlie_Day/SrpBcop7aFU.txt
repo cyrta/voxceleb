@@ -1,0 +1,19 @@
+POI: 			Charlie_Day 
+Youtube ID: 	SrpBcop7aFU 
+Video length: 	251.5 sec 
+Set (V): 		dev 
+ 
+Charlie_Day/SrpBcop7aFU_0000001 15.1 24.6 
+Charlie_Day/SrpBcop7aFU_0000002 35.0 41.6 
+Charlie_Day/SrpBcop7aFU_0000003 46.3 52.1 
+Charlie_Day/SrpBcop7aFU_0000004 52.5 62.0 
+Charlie_Day/SrpBcop7aFU_0000005 63.8 72.2 
+Charlie_Day/SrpBcop7aFU_0000006 90.4 95.7 
+Charlie_Day/SrpBcop7aFU_0000007 99.3 105.4 
+Charlie_Day/SrpBcop7aFU_0000008 110.6 126.9 
+Charlie_Day/SrpBcop7aFU_0000009 132.7 137.8 
+Charlie_Day/SrpBcop7aFU_0000010 137.9 151.3 
+Charlie_Day/SrpBcop7aFU_0000011 158.8 174.1 
+Charlie_Day/SrpBcop7aFU_0000012 174.2 178.9 
+Charlie_Day/SrpBcop7aFU_0000013 187.6 199.4 
+Charlie_Day/SrpBcop7aFU_0000014 204.4 209.1 

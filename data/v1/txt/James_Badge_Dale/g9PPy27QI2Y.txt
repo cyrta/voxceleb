@@ -1,0 +1,19 @@
+POI: 			James_Badge_Dale 
+Youtube ID: 	g9PPy27QI2Y 
+Video length: 	315.0 sec 
+Set (V): 		dev 
+ 
+James_Badge_Dale/g9PPy27QI2Y_0000001 21.0 26.2 
+James_Badge_Dale/g9PPy27QI2Y_0000002 26.6 31.7 
+James_Badge_Dale/g9PPy27QI2Y_0000003 48.9 60.0 
+James_Badge_Dale/g9PPy27QI2Y_0000004 69.0 76.3 
+James_Badge_Dale/g9PPy27QI2Y_0000005 94.5 108.2 
+James_Badge_Dale/g9PPy27QI2Y_0000006 113.8 125.9 
+James_Badge_Dale/g9PPy27QI2Y_0000007 135.0 150.6 
+James_Badge_Dale/g9PPy27QI2Y_0000008 184.2 189.8 
+James_Badge_Dale/g9PPy27QI2Y_0000009 194.7 216.4 
+James_Badge_Dale/g9PPy27QI2Y_0000010 241.2 245.4 
+James_Badge_Dale/g9PPy27QI2Y_0000011 248.4 262.4 
+James_Badge_Dale/g9PPy27QI2Y_0000012 270.4 280.2 
+James_Badge_Dale/g9PPy27QI2Y_0000013 281.0 288.1 
+James_Badge_Dale/g9PPy27QI2Y_0000014 289.5 298.3 

@@ -1,0 +1,11 @@
+POI: 			Ryan_Potter 
+Youtube ID: 	BV-SKVQwyBA 
+Video length: 	296.2 sec 
+Set (V): 		dev 
+ 
+Ryan_Potter/BV-SKVQwyBA_0000001 182.4 187.9 
+Ryan_Potter/BV-SKVQwyBA_0000002 188.4 206.8 
+Ryan_Potter/BV-SKVQwyBA_0000003 207.5 229.2 
+Ryan_Potter/BV-SKVQwyBA_0000004 232.3 238.8 
+Ryan_Potter/BV-SKVQwyBA_0000005 239.2 245.6 
+Ryan_Potter/BV-SKVQwyBA_0000006 266.5 289.3 

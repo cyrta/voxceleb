@@ -1,0 +1,7 @@
+POI: 			Jean_Reno 
+Youtube ID: 	tuOLCsgE0Rc 
+Video length: 	597.6 sec 
+Set (V): 		dev 
+ 
+Jean_Reno/tuOLCsgE0Rc_0000001 152.8 158.2 
+Jean_Reno/tuOLCsgE0Rc_0000002 295.3 300.3 

@@ -1,0 +1,16 @@
+POI: 			Erin_Andrews 
+Youtube ID: 	uaPd2Ix-wSI 
+Video length: 	533.6 sec 
+Set (V): 		test 
+ 
+Erin_Andrews/uaPd2Ix-wSI_0000001 96.6 101.9 
+Erin_Andrews/uaPd2Ix-wSI_0000002 124.4 130.8 
+Erin_Andrews/uaPd2Ix-wSI_0000003 174.0 179.6 
+Erin_Andrews/uaPd2Ix-wSI_0000004 192.3 206.1 
+Erin_Andrews/uaPd2Ix-wSI_0000005 224.5 229.7 
+Erin_Andrews/uaPd2Ix-wSI_0000006 231.8 236.4 
+Erin_Andrews/uaPd2Ix-wSI_0000007 296.8 302.0 
+Erin_Andrews/uaPd2Ix-wSI_0000008 350.7 361.5 
+Erin_Andrews/uaPd2Ix-wSI_0000009 357.6 363.8 
+Erin_Andrews/uaPd2Ix-wSI_0000010 387.0 391.0 
+Erin_Andrews/uaPd2Ix-wSI_0000011 497.9 512.8 

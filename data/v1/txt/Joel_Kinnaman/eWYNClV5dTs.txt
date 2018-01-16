@@ -1,0 +1,13 @@
+POI: 			Joel_Kinnaman 
+Youtube ID: 	eWYNClV5dTs 
+Video length: 	233.0 sec 
+Set (V): 		dev 
+ 
+Joel_Kinnaman/eWYNClV5dTs_0000001 60.4 66.1 
+Joel_Kinnaman/eWYNClV5dTs_0000002 69.0 73.8 
+Joel_Kinnaman/eWYNClV5dTs_0000003 88.4 92.9 
+Joel_Kinnaman/eWYNClV5dTs_0000004 96.5 103.4 
+Joel_Kinnaman/eWYNClV5dTs_0000005 104.3 111.6 
+Joel_Kinnaman/eWYNClV5dTs_0000006 171.2 177.9 
+Joel_Kinnaman/eWYNClV5dTs_0000007 179.8 183.8 
+Joel_Kinnaman/eWYNClV5dTs_0000008 185.5 195.6 

@@ -1,0 +1,23 @@
+POI: 			David_Giuntoli 
+Youtube ID: 	JAHXrKcVZTM 
+Video length: 	200.4 sec 
+Set (V): 		dev 
+ 
+David_Giuntoli/JAHXrKcVZTM_0000001 01.7 09.4 
+David_Giuntoli/JAHXrKcVZTM_0000002 13.8 22.4 
+David_Giuntoli/JAHXrKcVZTM_0000003 41.1 50.6 
+David_Giuntoli/JAHXrKcVZTM_0000004 52.1 57.2 
+David_Giuntoli/JAHXrKcVZTM_0000005 68.9 76.6 
+David_Giuntoli/JAHXrKcVZTM_0000006 23.4 27.5 
+David_Giuntoli/JAHXrKcVZTM_0000007 40.2 50.5 
+David_Giuntoli/JAHXrKcVZTM_0000008 52.1 68.3 
+David_Giuntoli/JAHXrKcVZTM_0000009 68.8 73.8 
+David_Giuntoli/JAHXrKcVZTM_0000010 86.0 96.1 
+David_Giuntoli/JAHXrKcVZTM_0000011 121.4 126.6 
+David_Giuntoli/JAHXrKcVZTM_0000012 130.1 135.1 
+David_Giuntoli/JAHXrKcVZTM_0000013 126.5 140.4 
+David_Giuntoli/JAHXrKcVZTM_0000014 144.4 149.8 
+David_Giuntoli/JAHXrKcVZTM_0000015 161.7 168.4 
+David_Giuntoli/JAHXrKcVZTM_0000016 169.0 175.8 
+David_Giuntoli/JAHXrKcVZTM_0000017 176.6 182.9 
+David_Giuntoli/JAHXrKcVZTM_0000018 185.9 192.4 

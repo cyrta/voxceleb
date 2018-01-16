@@ -1,0 +1,14 @@
+POI: 			Stephen_Merchant 
+Youtube ID: 	qgQssXEXgyA 
+Video length: 	207.7 sec 
+Set (V): 		dev 
+ 
+Stephen_Merchant/qgQssXEXgyA_0000001 12.4 26.6 
+Stephen_Merchant/qgQssXEXgyA_0000002 27.2 39.1 
+Stephen_Merchant/qgQssXEXgyA_0000003 56.2 68.5 
+Stephen_Merchant/qgQssXEXgyA_0000004 69.4 75.6 
+Stephen_Merchant/qgQssXEXgyA_0000005 75.8 86.3 
+Stephen_Merchant/qgQssXEXgyA_0000006 87.0 96.1 
+Stephen_Merchant/qgQssXEXgyA_0000007 116.6 135.4 
+Stephen_Merchant/qgQssXEXgyA_0000008 166.1 179.0 
+Stephen_Merchant/qgQssXEXgyA_0000009 179.4 200.6 

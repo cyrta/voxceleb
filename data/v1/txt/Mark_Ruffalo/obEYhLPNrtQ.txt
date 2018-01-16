@@ -1,0 +1,14 @@
+POI: 			Mark_Ruffalo 
+Youtube ID: 	obEYhLPNrtQ 
+Video length: 	271.3 sec 
+Set (V): 		dev 
+ 
+Mark_Ruffalo/obEYhLPNrtQ_0000001 08.8 13.9 
+Mark_Ruffalo/obEYhLPNrtQ_0000002 15.5 20.3 
+Mark_Ruffalo/obEYhLPNrtQ_0000003 44.8 49.1 
+Mark_Ruffalo/obEYhLPNrtQ_0000004 75.2 80.6 
+Mark_Ruffalo/obEYhLPNrtQ_0000005 115.4 119.6 
+Mark_Ruffalo/obEYhLPNrtQ_0000006 149.3 153.4 
+Mark_Ruffalo/obEYhLPNrtQ_0000007 154.8 158.9 
+Mark_Ruffalo/obEYhLPNrtQ_0000008 178.4 182.6 
+Mark_Ruffalo/obEYhLPNrtQ_0000009 218.5 223.6 

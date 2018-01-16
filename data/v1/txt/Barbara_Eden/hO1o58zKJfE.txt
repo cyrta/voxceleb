@@ -1,0 +1,12 @@
+POI: 			Barbara_Eden 
+Youtube ID: 	hO1o58zKJfE 
+Video length: 	118.5 sec 
+Set (V): 		dev 
+ 
+Barbara_Eden/hO1o58zKJfE_0000001 08.0 22.7 
+Barbara_Eden/hO1o58zKJfE_0000002 23.2 31.5 
+Barbara_Eden/hO1o58zKJfE_0000003 33.3 38.2 
+Barbara_Eden/hO1o58zKJfE_0000004 40.5 46.6 
+Barbara_Eden/hO1o58zKJfE_0000005 54.7 64.2 
+Barbara_Eden/hO1o58zKJfE_0000006 64.8 69.9 
+Barbara_Eden/hO1o58zKJfE_0000007 92.4 97.9 

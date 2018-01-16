@@ -1,0 +1,16 @@
+POI: 			Cierra_Ramirez 
+Youtube ID: 	D3PJWnc0fU4 
+Video length: 	335.9 sec 
+Set (V): 		dev 
+ 
+Cierra_Ramirez/D3PJWnc0fU4_0000001 22.3 26.8 
+Cierra_Ramirez/D3PJWnc0fU4_0000002 55.4 60.4 
+Cierra_Ramirez/D3PJWnc0fU4_0000003 85.9 92.6 
+Cierra_Ramirez/D3PJWnc0fU4_0000004 100.3 104.3 
+Cierra_Ramirez/D3PJWnc0fU4_0000005 119.2 126.1 
+Cierra_Ramirez/D3PJWnc0fU4_0000006 165.7 170.4 
+Cierra_Ramirez/D3PJWnc0fU4_0000007 177.5 187.0 
+Cierra_Ramirez/D3PJWnc0fU4_0000008 201.5 207.0 
+Cierra_Ramirez/D3PJWnc0fU4_0000009 265.8 275.2 
+Cierra_Ramirez/D3PJWnc0fU4_0000010 278.4 285.8 
+Cierra_Ramirez/D3PJWnc0fU4_0000011 300.4 306.7 

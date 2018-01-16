@@ -1,0 +1,12 @@
+POI: 			Jim_Broadbent 
+Youtube ID: 	Dp2TpU67xwU 
+Video length: 	337.0 sec 
+Set (V): 		dev 
+ 
+Jim_Broadbent/Dp2TpU67xwU_0000001 17.4 27.8 
+Jim_Broadbent/Dp2TpU67xwU_0000002 54.1 60.0 
+Jim_Broadbent/Dp2TpU67xwU_0000003 112.3 116.8 
+Jim_Broadbent/Dp2TpU67xwU_0000004 118.2 123.0 
+Jim_Broadbent/Dp2TpU67xwU_0000005 126.9 132.7 
+Jim_Broadbent/Dp2TpU67xwU_0000006 134.0 138.3 
+Jim_Broadbent/Dp2TpU67xwU_0000007 168.6 174.6 

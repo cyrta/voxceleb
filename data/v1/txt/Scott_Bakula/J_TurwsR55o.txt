@@ -1,0 +1,12 @@
+POI: 			Scott_Bakula 
+Youtube ID: 	J_TurwsR55o 
+Video length: 	398.3 sec 
+Set (V): 		dev 
+ 
+Scott_Bakula/J_TurwsR55o_0000001 198.2 206.5 
+Scott_Bakula/J_TurwsR55o_0000002 210.7 214.8 
+Scott_Bakula/J_TurwsR55o_0000003 222.5 229.6 
+Scott_Bakula/J_TurwsR55o_0000004 264.9 271.3 
+Scott_Bakula/J_TurwsR55o_0000005 294.9 300.7 
+Scott_Bakula/J_TurwsR55o_0000006 306.8 313.7 
+Scott_Bakula/J_TurwsR55o_0000007 322.6 330.2 

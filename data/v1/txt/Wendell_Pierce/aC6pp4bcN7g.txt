@@ -1,0 +1,13 @@
+POI: 			Wendell_Pierce 
+Youtube ID: 	aC6pp4bcN7g 
+Video length: 	190.2 sec 
+Set (V): 		dev 
+ 
+Wendell_Pierce/aC6pp4bcN7g_0000001 37.5 45.7 
+Wendell_Pierce/aC6pp4bcN7g_0000002 45.9 50.8 
+Wendell_Pierce/aC6pp4bcN7g_0000003 58.9 65.5 
+Wendell_Pierce/aC6pp4bcN7g_0000004 87.2 92.8 
+Wendell_Pierce/aC6pp4bcN7g_0000005 93.4 98.6 
+Wendell_Pierce/aC6pp4bcN7g_0000006 90.4 97.5 
+Wendell_Pierce/aC6pp4bcN7g_0000007 113.6 118.9 
+Wendell_Pierce/aC6pp4bcN7g_0000008 142.6 149.3 

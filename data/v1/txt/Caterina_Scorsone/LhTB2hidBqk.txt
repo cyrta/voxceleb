@@ -1,0 +1,26 @@
+POI: 			Caterina_Scorsone 
+Youtube ID: 	LhTB2hidBqk 
+Video length: 	588.6 sec 
+Set (V): 		dev 
+ 
+Caterina_Scorsone/LhTB2hidBqk_0000001 27.9 32.0 
+Caterina_Scorsone/LhTB2hidBqk_0000002 45.7 59.8 
+Caterina_Scorsone/LhTB2hidBqk_0000003 63.9 70.0 
+Caterina_Scorsone/LhTB2hidBqk_0000004 96.1 100.2 
+Caterina_Scorsone/LhTB2hidBqk_0000005 108.7 112.8 
+Caterina_Scorsone/LhTB2hidBqk_0000006 112.9 123.6 
+Caterina_Scorsone/LhTB2hidBqk_0000007 172.1 200.4 
+Caterina_Scorsone/LhTB2hidBqk_0000008 247.0 251.4 
+Caterina_Scorsone/LhTB2hidBqk_0000009 300.6 305.5 
+Caterina_Scorsone/LhTB2hidBqk_0000010 305.8 314.6 
+Caterina_Scorsone/LhTB2hidBqk_0000011 364.5 372.8 
+Caterina_Scorsone/LhTB2hidBqk_0000012 374.0 379.8 
+Caterina_Scorsone/LhTB2hidBqk_0000013 382.3 391.6 
+Caterina_Scorsone/LhTB2hidBqk_0000014 398.8 406.1 
+Caterina_Scorsone/LhTB2hidBqk_0000015 445.4 452.5 
+Caterina_Scorsone/LhTB2hidBqk_0000016 453.1 472.7 
+Caterina_Scorsone/LhTB2hidBqk_0000017 474.0 488.2 
+Caterina_Scorsone/LhTB2hidBqk_0000018 492.2 502.1 
+Caterina_Scorsone/LhTB2hidBqk_0000019 511.9 517.1 
+Caterina_Scorsone/LhTB2hidBqk_0000020 517.2 524.2 
+Caterina_Scorsone/LhTB2hidBqk_0000021 540.0 549.7 

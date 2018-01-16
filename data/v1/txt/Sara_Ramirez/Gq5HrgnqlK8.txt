@@ -1,0 +1,24 @@
+POI: 			Sara_Ramirez 
+Youtube ID: 	Gq5HrgnqlK8 
+Video length: 	614.2 sec 
+Set (V): 		dev 
+ 
+Sara_Ramirez/Gq5HrgnqlK8_0000001 61.5 68.4 
+Sara_Ramirez/Gq5HrgnqlK8_0000002 69.3 79.8 
+Sara_Ramirez/Gq5HrgnqlK8_0000003 85.9 93.1 
+Sara_Ramirez/Gq5HrgnqlK8_0000004 102.4 111.3 
+Sara_Ramirez/Gq5HrgnqlK8_0000005 128.0 140.0 
+Sara_Ramirez/Gq5HrgnqlK8_0000006 150.9 161.0 
+Sara_Ramirez/Gq5HrgnqlK8_0000007 161.2 165.4 
+Sara_Ramirez/Gq5HrgnqlK8_0000008 201.2 206.6 
+Sara_Ramirez/Gq5HrgnqlK8_0000009 215.1 229.8 
+Sara_Ramirez/Gq5HrgnqlK8_0000010 230.4 237.3 
+Sara_Ramirez/Gq5HrgnqlK8_0000011 238.0 253.3 
+Sara_Ramirez/Gq5HrgnqlK8_0000012 263.5 267.6 
+Sara_Ramirez/Gq5HrgnqlK8_0000013 268.2 287.8 
+Sara_Ramirez/Gq5HrgnqlK8_0000014 301.8 311.9 
+Sara_Ramirez/Gq5HrgnqlK8_0000015 376.5 383.1 
+Sara_Ramirez/Gq5HrgnqlK8_0000016 429.6 435.1 
+Sara_Ramirez/Gq5HrgnqlK8_0000017 485.2 489.2 
+Sara_Ramirez/Gq5HrgnqlK8_0000018 501.4 513.2 
+Sara_Ramirez/Gq5HrgnqlK8_0000019 514.1 522.3 

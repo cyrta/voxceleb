@@ -1,0 +1,12 @@
+POI: 			John_Oliver 
+Youtube ID: 	R4jYBKg-7_8 
+Video length: 	406.0 sec 
+Set (V): 		dev 
+ 
+John_Oliver/R4jYBKg-7_8_0000001 63.3 70.3 
+John_Oliver/R4jYBKg-7_8_0000002 78.0 82.4 
+John_Oliver/R4jYBKg-7_8_0000003 143.2 147.9 
+John_Oliver/R4jYBKg-7_8_0000004 194.5 201.4 
+John_Oliver/R4jYBKg-7_8_0000005 296.8 304.8 
+John_Oliver/R4jYBKg-7_8_0000006 331.0 336.6 
+John_Oliver/R4jYBKg-7_8_0000007 377.7 384.6 

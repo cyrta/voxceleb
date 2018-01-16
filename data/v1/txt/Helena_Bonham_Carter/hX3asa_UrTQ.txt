@@ -1,0 +1,11 @@
+POI: 			Helena_Bonham_Carter 
+Youtube ID: 	hX3asa_UrTQ 
+Video length: 	492.0 sec 
+Set (V): 		dev 
+ 
+Helena_Bonham_Carter/hX3asa_UrTQ_0000001 109.2 122.8 
+Helena_Bonham_Carter/hX3asa_UrTQ_0000002 151.6 166.4 
+Helena_Bonham_Carter/hX3asa_UrTQ_0000003 298.0 303.3 
+Helena_Bonham_Carter/hX3asa_UrTQ_0000004 304.0 313.0 
+Helena_Bonham_Carter/hX3asa_UrTQ_0000005 399.1 405.3 
+Helena_Bonham_Carter/hX3asa_UrTQ_0000006 430.6 441.2 

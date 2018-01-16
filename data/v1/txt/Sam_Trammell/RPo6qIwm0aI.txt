@@ -1,0 +1,28 @@
+POI: 			Sam_Trammell 
+Youtube ID: 	RPo6qIwm0aI 
+Video length: 	550.7 sec 
+Set (V): 		dev 
+ 
+Sam_Trammell/RPo6qIwm0aI_0000001 04.7 09.9 
+Sam_Trammell/RPo6qIwm0aI_0000002 76.6 83.3 
+Sam_Trammell/RPo6qIwm0aI_0000003 84.4 91.1 
+Sam_Trammell/RPo6qIwm0aI_0000004 91.2 96.6 
+Sam_Trammell/RPo6qIwm0aI_0000005 96.8 102.0 
+Sam_Trammell/RPo6qIwm0aI_0000006 116.8 131.9 
+Sam_Trammell/RPo6qIwm0aI_0000007 142.8 147.0 
+Sam_Trammell/RPo6qIwm0aI_0000008 153.0 158.4 
+Sam_Trammell/RPo6qIwm0aI_0000009 159.0 169.4 
+Sam_Trammell/RPo6qIwm0aI_0000010 178.6 185.3 
+Sam_Trammell/RPo6qIwm0aI_0000011 188.6 197.6 
+Sam_Trammell/RPo6qIwm0aI_0000012 204.1 208.8 
+Sam_Trammell/RPo6qIwm0aI_0000013 242.5 248.3 
+Sam_Trammell/RPo6qIwm0aI_0000014 248.5 257.5 
+Sam_Trammell/RPo6qIwm0aI_0000015 258.2 263.6 
+Sam_Trammell/RPo6qIwm0aI_0000016 263.8 276.1 
+Sam_Trammell/RPo6qIwm0aI_0000017 300.3 311.7 
+Sam_Trammell/RPo6qIwm0aI_0000018 332.5 345.8 
+Sam_Trammell/RPo6qIwm0aI_0000019 347.8 356.0 
+Sam_Trammell/RPo6qIwm0aI_0000020 359.4 364.4 
+Sam_Trammell/RPo6qIwm0aI_0000021 364.8 369.0 
+Sam_Trammell/RPo6qIwm0aI_0000022 370.1 374.8 
+Sam_Trammell/RPo6qIwm0aI_0000023 397.3 403.2 

@@ -1,0 +1,7 @@
+POI: 			Linda_Lavin 
+Youtube ID: 	SnaGyX7G8eA 
+Video length: 	294.7 sec 
+Set (V): 		dev 
+ 
+Linda_Lavin/SnaGyX7G8eA_0000001 107.1 112.2 
+Linda_Lavin/SnaGyX7G8eA_0000002 144.4 148.8 

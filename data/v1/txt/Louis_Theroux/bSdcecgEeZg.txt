@@ -1,0 +1,16 @@
+POI: 			Louis_Theroux 
+Youtube ID: 	bSdcecgEeZg 
+Video length: 	300.2 sec 
+Set (V): 		dev 
+ 
+Louis_Theroux/bSdcecgEeZg_0000001 21.8 30.1 
+Louis_Theroux/bSdcecgEeZg_0000002 32.0 39.8 
+Louis_Theroux/bSdcecgEeZg_0000003 40.4 47.7 
+Louis_Theroux/bSdcecgEeZg_0000004 56.7 69.2 
+Louis_Theroux/bSdcecgEeZg_0000005 124.0 137.6 
+Louis_Theroux/bSdcecgEeZg_0000006 155.6 171.8 
+Louis_Theroux/bSdcecgEeZg_0000007 197.4 201.5 
+Louis_Theroux/bSdcecgEeZg_0000008 216.7 222.2 
+Louis_Theroux/bSdcecgEeZg_0000009 229.0 234.8 
+Louis_Theroux/bSdcecgEeZg_0000010 247.4 269.0 
+Louis_Theroux/bSdcecgEeZg_0000011 270.1 275.5 

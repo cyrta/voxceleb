@@ -1,0 +1,12 @@
+POI: 			Laverne_Cox 
+Youtube ID: 	LmWm5X_x98U 
+Video length: 	282.5 sec 
+Set (V): 		dev 
+ 
+Laverne_Cox/LmWm5X_x98U_0000001 21.6 26.6 
+Laverne_Cox/LmWm5X_x98U_0000002 34.5 40.8 
+Laverne_Cox/LmWm5X_x98U_0000003 75.9 82.9 
+Laverne_Cox/LmWm5X_x98U_0000004 139.0 144.4 
+Laverne_Cox/LmWm5X_x98U_0000005 149.6 153.8 
+Laverne_Cox/LmWm5X_x98U_0000006 178.0 187.7 
+Laverne_Cox/LmWm5X_x98U_0000007 191.9 207.3 

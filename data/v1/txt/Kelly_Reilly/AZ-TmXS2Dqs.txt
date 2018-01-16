@@ -1,0 +1,9 @@
+POI: 			Kelly_Reilly 
+Youtube ID: 	AZ-TmXS2Dqs 
+Video length: 	249.6 sec 
+Set (V): 		dev 
+ 
+Kelly_Reilly/AZ-TmXS2Dqs_0000001 83.4 90.4 
+Kelly_Reilly/AZ-TmXS2Dqs_0000002 91.3 95.3 
+Kelly_Reilly/AZ-TmXS2Dqs_0000003 147.7 155.4 
+Kelly_Reilly/AZ-TmXS2Dqs_0000004 162.0 169.2 

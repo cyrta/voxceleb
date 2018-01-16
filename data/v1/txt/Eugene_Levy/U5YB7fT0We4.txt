@@ -1,0 +1,7 @@
+POI: 			Eugene_Levy 
+Youtube ID: 	U5YB7fT0We4 
+Video length: 	345.3 sec 
+Set (V): 		test 
+ 
+Eugene_Levy/U5YB7fT0We4_0000001 135.4 139.4 
+Eugene_Levy/U5YB7fT0We4_0000002 293.1 299.7 

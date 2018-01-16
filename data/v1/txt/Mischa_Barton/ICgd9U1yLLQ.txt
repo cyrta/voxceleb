@@ -1,0 +1,9 @@
+POI: 			Mischa_Barton 
+Youtube ID: 	ICgd9U1yLLQ 
+Video length: 	365.3 sec 
+Set (V): 		dev 
+ 
+Mischa_Barton/ICgd9U1yLLQ_0000001 61.1 70.3 
+Mischa_Barton/ICgd9U1yLLQ_0000002 111.4 119.5 
+Mischa_Barton/ICgd9U1yLLQ_0000003 231.4 241.8 
+Mischa_Barton/ICgd9U1yLLQ_0000004 290.8 296.5 

@@ -1,0 +1,8 @@
+POI: 			Jamel_Debbouze 
+Youtube ID: 	FtkJcEClcwQ 
+Video length: 	544.1 sec 
+Set (V): 		dev 
+ 
+Jamel_Debbouze/FtkJcEClcwQ_0000001 79.0 83.2 
+Jamel_Debbouze/FtkJcEClcwQ_0000002 212.8 217.1 
+Jamel_Debbouze/FtkJcEClcwQ_0000003 525.9 530.7 

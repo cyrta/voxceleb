@@ -1,0 +1,16 @@
+POI: 			Dick_Van_Dyke 
+Youtube ID: 	p66UVyJn8F8 
+Video length: 	169.7 sec 
+Set (V): 		dev 
+ 
+Dick_Van_Dyke/p66UVyJn8F8_0000001 09.3 18.1 
+Dick_Van_Dyke/p66UVyJn8F8_0000002 19.2 25.0 
+Dick_Van_Dyke/p66UVyJn8F8_0000003 26.8 33.3 
+Dick_Van_Dyke/p66UVyJn8F8_0000004 47.2 51.7 
+Dick_Van_Dyke/p66UVyJn8F8_0000005 64.4 74.3 
+Dick_Van_Dyke/p66UVyJn8F8_0000006 76.1 80.9 
+Dick_Van_Dyke/p66UVyJn8F8_0000007 82.0 88.7 
+Dick_Van_Dyke/p66UVyJn8F8_0000008 102.7 112.0 
+Dick_Van_Dyke/p66UVyJn8F8_0000009 118.8 133.7 
+Dick_Van_Dyke/p66UVyJn8F8_0000010 133.8 153.5 
+Dick_Van_Dyke/p66UVyJn8F8_0000011 155.5 162.0 

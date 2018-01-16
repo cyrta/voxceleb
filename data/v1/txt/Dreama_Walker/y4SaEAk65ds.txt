@@ -1,0 +1,11 @@
+POI: 			Dreama_Walker 
+Youtube ID: 	y4SaEAk65ds 
+Video length: 	142.2 sec 
+Set (V): 		dev 
+ 
+Dreama_Walker/y4SaEAk65ds_0000001 12.4 16.6 
+Dreama_Walker/y4SaEAk65ds_0000002 34.2 43.8 
+Dreama_Walker/y4SaEAk65ds_0000003 62.3 71.1 
+Dreama_Walker/y4SaEAk65ds_0000004 87.3 99.6 
+Dreama_Walker/y4SaEAk65ds_0000005 112.2 120.4 
+Dreama_Walker/y4SaEAk65ds_0000006 120.8 125.0 

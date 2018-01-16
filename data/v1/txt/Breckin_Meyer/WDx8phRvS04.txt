@@ -1,0 +1,10 @@
+POI: 			Breckin_Meyer 
+Youtube ID: 	WDx8phRvS04 
+Video length: 	523.3 sec 
+Set (V): 		dev 
+ 
+Breckin_Meyer/WDx8phRvS04_0000001 225.1 230.7 
+Breckin_Meyer/WDx8phRvS04_0000002 307.6 313.8 
+Breckin_Meyer/WDx8phRvS04_0000003 321.4 325.7 
+Breckin_Meyer/WDx8phRvS04_0000004 407.9 412.3 
+Breckin_Meyer/WDx8phRvS04_0000005 412.4 420.6 

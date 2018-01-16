@@ -1,0 +1,10 @@
+POI: 			Hunter_Parrish 
+Youtube ID: 	nw3xOzRqe_g 
+Video length: 	305.1 sec 
+Set (V): 		dev 
+ 
+Hunter_Parrish/nw3xOzRqe_g_0000001 161.2 168.3 
+Hunter_Parrish/nw3xOzRqe_g_0000002 168.6 179.4 
+Hunter_Parrish/nw3xOzRqe_g_0000003 227.7 235.5 
+Hunter_Parrish/nw3xOzRqe_g_0000004 236.2 247.3 
+Hunter_Parrish/nw3xOzRqe_g_0000005 254.3 258.3 

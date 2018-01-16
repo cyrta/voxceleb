@@ -1,0 +1,13 @@
+POI: 			Kesha 
+Youtube ID: 	Hy81gpm3vXU 
+Video length: 	561.1 sec 
+Set (V): 		dev 
+ 
+Kesha/Hy81gpm3vXU_0000001 78.5 84.3 
+Kesha/Hy81gpm3vXU_0000002 126.1 134.0 
+Kesha/Hy81gpm3vXU_0000003 153.8 159.4 
+Kesha/Hy81gpm3vXU_0000004 165.7 170.3 
+Kesha/Hy81gpm3vXU_0000005 243.4 252.5 
+Kesha/Hy81gpm3vXU_0000006 358.2 363.0 
+Kesha/Hy81gpm3vXU_0000007 430.5 450.3 
+Kesha/Hy81gpm3vXU_0000008 491.2 502.6 

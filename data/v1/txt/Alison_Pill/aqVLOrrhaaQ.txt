@@ -1,0 +1,11 @@
+POI: 			Alison_Pill 
+Youtube ID: 	aqVLOrrhaaQ 
+Video length: 	371.4 sec 
+Set (V): 		dev 
+ 
+Alison_Pill/aqVLOrrhaaQ_0000001 07.7 13.3 
+Alison_Pill/aqVLOrrhaaQ_0000002 16.1 27.2 
+Alison_Pill/aqVLOrrhaaQ_0000003 29.3 35.0 
+Alison_Pill/aqVLOrrhaaQ_0000004 40.4 63.1 
+Alison_Pill/aqVLOrrhaaQ_0000005 75.1 84.9 
+Alison_Pill/aqVLOrrhaaQ_0000006 89.2 105.7 

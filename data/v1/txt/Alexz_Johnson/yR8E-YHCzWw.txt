@@ -1,0 +1,11 @@
+POI: 			Alexz_Johnson 
+Youtube ID: 	yR8E-YHCzWw 
+Video length: 	524.0 sec 
+Set (V): 		dev 
+ 
+Alexz_Johnson/yR8E-YHCzWw_0000001 175.2 180.2 
+Alexz_Johnson/yR8E-YHCzWw_0000002 181.6 190.0 
+Alexz_Johnson/yR8E-YHCzWw_0000003 216.3 222.6 
+Alexz_Johnson/yR8E-YHCzWw_0000004 269.4 274.9 
+Alexz_Johnson/yR8E-YHCzWw_0000005 391.1 395.6 
+Alexz_Johnson/yR8E-YHCzWw_0000006 408.9 414.8 

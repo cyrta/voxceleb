@@ -1,0 +1,15 @@
+POI: 			Marc_Webb 
+Youtube ID: 	UKtzdyqj7SY 
+Video length: 	280.0 sec 
+Set (V): 		dev 
+ 
+Marc_Webb/UKtzdyqj7SY_0000001 31.0 42.6 
+Marc_Webb/UKtzdyqj7SY_0000002 48.5 57.1 
+Marc_Webb/UKtzdyqj7SY_0000003 68.6 75.5 
+Marc_Webb/UKtzdyqj7SY_0000004 92.9 100.4 
+Marc_Webb/UKtzdyqj7SY_0000005 112.9 120.8 
+Marc_Webb/UKtzdyqj7SY_0000006 163.6 176.1 
+Marc_Webb/UKtzdyqj7SY_0000007 176.6 183.3 
+Marc_Webb/UKtzdyqj7SY_0000008 193.1 200.4 
+Marc_Webb/UKtzdyqj7SY_0000009 223.8 242.9 
+Marc_Webb/UKtzdyqj7SY_0000010 254.0 258.4 

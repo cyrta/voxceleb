@@ -1,0 +1,10 @@
+POI: 			Fawad_Khan 
+Youtube ID: 	AnT9rKPkKG0 
+Video length: 	464.6 sec 
+Set (V): 		dev 
+ 
+Fawad_Khan/AnT9rKPkKG0_0000001 49.4 55.6 
+Fawad_Khan/AnT9rKPkKG0_0000002 82.8 87.2 
+Fawad_Khan/AnT9rKPkKG0_0000003 359.2 364.8 
+Fawad_Khan/AnT9rKPkKG0_0000004 415.3 421.0 
+Fawad_Khan/AnT9rKPkKG0_0000005 436.1 442.2 

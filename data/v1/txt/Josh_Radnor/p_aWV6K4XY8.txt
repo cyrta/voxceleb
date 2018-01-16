@@ -1,0 +1,16 @@
+POI: 			Josh_Radnor 
+Youtube ID: 	p_aWV6K4XY8 
+Video length: 	190.6 sec 
+Set (V): 		dev 
+ 
+Josh_Radnor/p_aWV6K4XY8_0000001 12.4 19.7 
+Josh_Radnor/p_aWV6K4XY8_0000002 25.3 43.4 
+Josh_Radnor/p_aWV6K4XY8_0000003 43.6 50.8 
+Josh_Radnor/p_aWV6K4XY8_0000004 60.4 64.4 
+Josh_Radnor/p_aWV6K4XY8_0000005 83.3 88.5 
+Josh_Radnor/p_aWV6K4XY8_0000006 89.4 101.2 
+Josh_Radnor/p_aWV6K4XY8_0000007 117.1 121.4 
+Josh_Radnor/p_aWV6K4XY8_0000008 123.2 127.8 
+Josh_Radnor/p_aWV6K4XY8_0000009 142.4 152.0 
+Josh_Radnor/p_aWV6K4XY8_0000010 159.7 164.0 
+Josh_Radnor/p_aWV6K4XY8_0000011 164.9 184.1 

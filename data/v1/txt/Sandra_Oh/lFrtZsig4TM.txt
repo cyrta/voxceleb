@@ -1,0 +1,8 @@
+POI: 			Sandra_Oh 
+Youtube ID: 	lFrtZsig4TM 
+Video length: 	301.0 sec 
+Set (V): 		dev 
+ 
+Sandra_Oh/lFrtZsig4TM_0000001 46.6 56.3 
+Sandra_Oh/lFrtZsig4TM_0000002 176.1 190.5 
+Sandra_Oh/lFrtZsig4TM_0000003 263.4 267.7 

@@ -1,0 +1,11 @@
+POI: 			Eric_Roberts 
+Youtube ID: 	FvbLoirHpx0 
+Video length: 	310.5 sec 
+Set (V): 		test 
+ 
+Eric_Roberts/FvbLoirHpx0_0000001 102.8 107.8 
+Eric_Roberts/FvbLoirHpx0_0000002 123.3 129.6 
+Eric_Roberts/FvbLoirHpx0_0000003 181.1 191.6 
+Eric_Roberts/FvbLoirHpx0_0000004 219.3 223.9 
+Eric_Roberts/FvbLoirHpx0_0000005 243.3 250.8 
+Eric_Roberts/FvbLoirHpx0_0000006 257.4 263.1 

@@ -1,0 +1,9 @@
+POI: 			Stephen_Baldwin 
+Youtube ID: 	BPuJQaIgJeg 
+Video length: 	557.2 sec 
+Set (V): 		dev 
+ 
+Stephen_Baldwin/BPuJQaIgJeg_0000001 124.3 133.2 
+Stephen_Baldwin/BPuJQaIgJeg_0000002 135.5 152.0 
+Stephen_Baldwin/BPuJQaIgJeg_0000003 248.4 268.5 
+Stephen_Baldwin/BPuJQaIgJeg_0000004 270.9 289.3 

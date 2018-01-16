@@ -1,0 +1,11 @@
+POI: 			Uzo_Aduba 
+Youtube ID: 	8vAjqT9yWRQ 
+Video length: 	299.2 sec 
+Set (V): 		dev 
+ 
+Uzo_Aduba/8vAjqT9yWRQ_0000001 78.3 85.1 
+Uzo_Aduba/8vAjqT9yWRQ_0000002 85.9 94.0 
+Uzo_Aduba/8vAjqT9yWRQ_0000003 111.0 116.4 
+Uzo_Aduba/8vAjqT9yWRQ_0000004 220.3 228.0 
+Uzo_Aduba/8vAjqT9yWRQ_0000005 243.5 248.6 
+Uzo_Aduba/8vAjqT9yWRQ_0000006 250.2 255.8 

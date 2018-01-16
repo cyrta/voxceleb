@@ -1,0 +1,15 @@
+POI: 			Janeane_Garofalo 
+Youtube ID: 	eFv-PaUJeak 
+Video length: 	481.1 sec 
+Set (V): 		dev 
+ 
+Janeane_Garofalo/eFv-PaUJeak_0000001 106.0 128.8 
+Janeane_Garofalo/eFv-PaUJeak_0000002 135.5 144.2 
+Janeane_Garofalo/eFv-PaUJeak_0000003 244.4 250.5 
+Janeane_Garofalo/eFv-PaUJeak_0000004 290.4 302.3 
+Janeane_Garofalo/eFv-PaUJeak_0000005 303.3 309.7 
+Janeane_Garofalo/eFv-PaUJeak_0000006 323.2 361.0 
+Janeane_Garofalo/eFv-PaUJeak_0000007 374.9 390.1 
+Janeane_Garofalo/eFv-PaUJeak_0000008 393.9 405.1 
+Janeane_Garofalo/eFv-PaUJeak_0000009 410.1 434.7 
+Janeane_Garofalo/eFv-PaUJeak_0000010 450.8 464.0 

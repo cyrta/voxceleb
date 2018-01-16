@@ -1,0 +1,8 @@
+POI: 			Candice_Patton 
+Youtube ID: 	4caC5o4XOtc 
+Video length: 	76.8 sec 
+Set (V): 		dev 
+ 
+Candice_Patton/4caC5o4XOtc_0000001 10.3 37.4 
+Candice_Patton/4caC5o4XOtc_0000002 40.5 52.6 
+Candice_Patton/4caC5o4XOtc_0000003 53.4 67.2 

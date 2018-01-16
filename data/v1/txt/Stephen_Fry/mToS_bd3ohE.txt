@@ -1,0 +1,13 @@
+POI: 			Stephen_Fry 
+Youtube ID: 	mToS_bd3ohE 
+Video length: 	529.9 sec 
+Set (V): 		dev 
+ 
+Stephen_Fry/mToS_bd3ohE_0000001 90.9 101.5 
+Stephen_Fry/mToS_bd3ohE_0000002 167.4 172.3 
+Stephen_Fry/mToS_bd3ohE_0000003 250.0 254.6 
+Stephen_Fry/mToS_bd3ohE_0000004 327.0 337.8 
+Stephen_Fry/mToS_bd3ohE_0000005 423.2 427.2 
+Stephen_Fry/mToS_bd3ohE_0000006 457.9 467.0 
+Stephen_Fry/mToS_bd3ohE_0000007 472.4 477.4 
+Stephen_Fry/mToS_bd3ohE_0000008 480.8 488.1 

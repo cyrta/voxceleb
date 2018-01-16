@@ -1,0 +1,12 @@
+POI: 			Nathaniel_Buzolic 
+Youtube ID: 	usGdwsfF70Y 
+Video length: 	235.0 sec 
+Set (V): 		dev 
+ 
+Nathaniel_Buzolic/usGdwsfF70Y_0000001 27.4 43.3 
+Nathaniel_Buzolic/usGdwsfF70Y_0000002 83.0 95.2 
+Nathaniel_Buzolic/usGdwsfF70Y_0000003 95.7 102.8 
+Nathaniel_Buzolic/usGdwsfF70Y_0000004 118.2 133.5 
+Nathaniel_Buzolic/usGdwsfF70Y_0000005 134.6 139.5 
+Nathaniel_Buzolic/usGdwsfF70Y_0000006 162.9 179.6 
+Nathaniel_Buzolic/usGdwsfF70Y_0000007 205.9 221.6 

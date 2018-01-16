@@ -1,0 +1,9 @@
+POI: 			Cindy_Williams 
+Youtube ID: 	yFCLZrSulKo 
+Video length: 	97.7 sec 
+Set (V): 		dev 
+ 
+Cindy_Williams/yFCLZrSulKo_0000001 12.1 27.2 
+Cindy_Williams/yFCLZrSulKo_0000002 27.8 32.3 
+Cindy_Williams/yFCLZrSulKo_0000003 50.6 55.4 
+Cindy_Williams/yFCLZrSulKo_0000004 71.4 76.2 

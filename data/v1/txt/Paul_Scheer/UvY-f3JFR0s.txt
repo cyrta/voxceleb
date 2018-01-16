@@ -1,0 +1,8 @@
+POI: 			Paul_Scheer 
+Youtube ID: 	UvY-f3JFR0s 
+Video length: 	235.4 sec 
+Set (V): 		dev 
+ 
+Paul_Scheer/UvY-f3JFR0s_0000001 69.8 79.2 
+Paul_Scheer/UvY-f3JFR0s_0000002 158.5 163.6 
+Paul_Scheer/UvY-f3JFR0s_0000003 209.3 214.2 

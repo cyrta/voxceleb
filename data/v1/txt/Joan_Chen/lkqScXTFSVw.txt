@@ -1,0 +1,11 @@
+POI: 			Joan_Chen 
+Youtube ID: 	lkqScXTFSVw 
+Video length: 	231.4 sec 
+Set (V): 		dev 
+ 
+Joan_Chen/lkqScXTFSVw_0000001 28.0 32.2 
+Joan_Chen/lkqScXTFSVw_0000002 95.3 104.0 
+Joan_Chen/lkqScXTFSVw_0000003 127.2 131.3 
+Joan_Chen/lkqScXTFSVw_0000004 131.9 142.2 
+Joan_Chen/lkqScXTFSVw_0000005 143.0 147.4 
+Joan_Chen/lkqScXTFSVw_0000006 148.0 157.0 

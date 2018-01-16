@@ -1,0 +1,7 @@
+POI: 			Jamie_Foxx 
+Youtube ID: 	9meAl7N4fHg 
+Video length: 	359.3 sec 
+Set (V): 		dev 
+ 
+Jamie_Foxx/9meAl7N4fHg_0000001 151.5 156.3 
+Jamie_Foxx/9meAl7N4fHg_0000002 320.2 329.1 

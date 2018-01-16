@@ -1,0 +1,17 @@
+POI: 			Geena_Davis 
+Youtube ID: 	4svG40oHL60 
+Video length: 	633.1 sec 
+Set (V): 		dev 
+ 
+Geena_Davis/4svG40oHL60_0000001 95.0 100.0 
+Geena_Davis/4svG40oHL60_0000002 110.8 116.6 
+Geena_Davis/4svG40oHL60_0000003 118.5 123.8 
+Geena_Davis/4svG40oHL60_0000004 163.4 174.2 
+Geena_Davis/4svG40oHL60_0000005 180.2 184.5 
+Geena_Davis/4svG40oHL60_0000006 254.6 260.6 
+Geena_Davis/4svG40oHL60_0000007 368.0 372.8 
+Geena_Davis/4svG40oHL60_0000008 373.8 381.0 
+Geena_Davis/4svG40oHL60_0000009 451.3 456.9 
+Geena_Davis/4svG40oHL60_0000010 516.3 520.5 
+Geena_Davis/4svG40oHL60_0000011 530.8 535.0 
+Geena_Davis/4svG40oHL60_0000012 561.8 570.7 

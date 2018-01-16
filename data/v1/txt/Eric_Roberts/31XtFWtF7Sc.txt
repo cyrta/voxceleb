@@ -1,0 +1,16 @@
+POI: 			Eric_Roberts 
+Youtube ID: 	31XtFWtF7Sc 
+Video length: 	557.5 sec 
+Set (V): 		test 
+ 
+Eric_Roberts/31XtFWtF7Sc_0000001 191.4 199.4 
+Eric_Roberts/31XtFWtF7Sc_0000002 204.6 208.7 
+Eric_Roberts/31XtFWtF7Sc_0000003 238.2 245.8 
+Eric_Roberts/31XtFWtF7Sc_0000004 272.6 277.8 
+Eric_Roberts/31XtFWtF7Sc_0000005 289.1 294.2 
+Eric_Roberts/31XtFWtF7Sc_0000006 302.8 307.2 
+Eric_Roberts/31XtFWtF7Sc_0000007 384.8 388.8 
+Eric_Roberts/31XtFWtF7Sc_0000008 412.9 417.2 
+Eric_Roberts/31XtFWtF7Sc_0000009 443.8 462.0 
+Eric_Roberts/31XtFWtF7Sc_0000010 500.6 505.0 
+Eric_Roberts/31XtFWtF7Sc_0000011 507.4 520.0 

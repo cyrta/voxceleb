@@ -1,0 +1,10 @@
+POI: 			Randolph_Mantooth 
+Youtube ID: 	smXGkoQDRbM 
+Video length: 	327.8 sec 
+Set (V): 		dev 
+ 
+Randolph_Mantooth/smXGkoQDRbM_0000001 20.9 36.5 
+Randolph_Mantooth/smXGkoQDRbM_0000002 36.6 65.9 
+Randolph_Mantooth/smXGkoQDRbM_0000003 137.6 141.6 
+Randolph_Mantooth/smXGkoQDRbM_0000004 291.8 301.9 
+Randolph_Mantooth/smXGkoQDRbM_0000005 306.5 314.4 

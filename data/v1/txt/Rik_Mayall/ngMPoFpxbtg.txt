@@ -1,0 +1,11 @@
+POI: 			Rik_Mayall 
+Youtube ID: 	ngMPoFpxbtg 
+Video length: 	268.4 sec 
+Set (V): 		dev 
+ 
+Rik_Mayall/ngMPoFpxbtg_0000001 22.4 30.8 
+Rik_Mayall/ngMPoFpxbtg_0000002 53.6 61.4 
+Rik_Mayall/ngMPoFpxbtg_0000003 166.6 172.6 
+Rik_Mayall/ngMPoFpxbtg_0000004 207.2 212.4 
+Rik_Mayall/ngMPoFpxbtg_0000005 238.5 243.2 
+Rik_Mayall/ngMPoFpxbtg_0000006 248.1 252.3 

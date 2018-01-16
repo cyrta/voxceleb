@@ -1,0 +1,10 @@
+POI: 			Whitney_Cummings 
+Youtube ID: 	wCxeugYQqTk 
+Video length: 	240.0 sec 
+Set (V): 		dev 
+ 
+Whitney_Cummings/wCxeugYQqTk_0000001 35.1 39.6 
+Whitney_Cummings/wCxeugYQqTk_0000002 64.1 70.1 
+Whitney_Cummings/wCxeugYQqTk_0000003 152.6 157.2 
+Whitney_Cummings/wCxeugYQqTk_0000004 192.1 198.0 
+Whitney_Cummings/wCxeugYQqTk_0000005 220.0 224.5 

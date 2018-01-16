@@ -1,0 +1,11 @@
+POI: 			Chace_Crawford 
+Youtube ID: 	oQXMMiTmiX0 
+Video length: 	118.3 sec 
+Set (V): 		dev 
+ 
+Chace_Crawford/oQXMMiTmiX0_0000001 23.2 34.6 
+Chace_Crawford/oQXMMiTmiX0_0000002 35.8 40.6 
+Chace_Crawford/oQXMMiTmiX0_0000003 51.1 55.6 
+Chace_Crawford/oQXMMiTmiX0_0000004 56.8 63.2 
+Chace_Crawford/oQXMMiTmiX0_0000005 64.0 69.4 
+Chace_Crawford/oQXMMiTmiX0_0000006 104.5 116.8 

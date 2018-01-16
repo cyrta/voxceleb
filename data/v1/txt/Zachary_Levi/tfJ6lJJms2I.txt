@@ -1,0 +1,9 @@
+POI: 			Zachary_Levi 
+Youtube ID: 	tfJ6lJJms2I 
+Video length: 	233.2 sec 
+Set (V): 		dev 
+ 
+Zachary_Levi/tfJ6lJJms2I_0000001 144.0 159.6 
+Zachary_Levi/tfJ6lJJms2I_0000002 170.1 175.0 
+Zachary_Levi/tfJ6lJJms2I_0000003 176.5 180.8 
+Zachary_Levi/tfJ6lJJms2I_0000004 181.9 192.8 

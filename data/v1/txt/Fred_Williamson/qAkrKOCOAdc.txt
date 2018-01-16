@@ -1,0 +1,13 @@
+POI: 			Fred_Williamson 
+Youtube ID: 	qAkrKOCOAdc 
+Video length: 	447.2 sec 
+Set (V): 		dev 
+ 
+Fred_Williamson/qAkrKOCOAdc_0000001 41.8 54.7 
+Fred_Williamson/qAkrKOCOAdc_0000002 58.6 64.0 
+Fred_Williamson/qAkrKOCOAdc_0000003 69.5 77.4 
+Fred_Williamson/qAkrKOCOAdc_0000004 111.2 118.2 
+Fred_Williamson/qAkrKOCOAdc_0000005 315.5 322.6 
+Fred_Williamson/qAkrKOCOAdc_0000006 403.2 410.4 
+Fred_Williamson/qAkrKOCOAdc_0000007 421.8 425.9 
+Fred_Williamson/qAkrKOCOAdc_0000008 426.0 430.9 

@@ -1,0 +1,10 @@
+POI: 			Charles_Dance 
+Youtube ID: 	bCN4w8Vn8V8 
+Video length: 	173.6 sec 
+Set (V): 		dev 
+ 
+Charles_Dance/bCN4w8Vn8V8_0000001 11.5 18.3 
+Charles_Dance/bCN4w8Vn8V8_0000002 43.1 53.4 
+Charles_Dance/bCN4w8Vn8V8_0000003 61.6 66.0 
+Charles_Dance/bCN4w8Vn8V8_0000004 102.4 106.9 
+Charles_Dance/bCN4w8Vn8V8_0000005 122.7 137.7 

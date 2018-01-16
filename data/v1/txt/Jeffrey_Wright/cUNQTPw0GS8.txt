@@ -1,0 +1,13 @@
+POI: 			Jeffrey_Wright 
+Youtube ID: 	cUNQTPw0GS8 
+Video length: 	156.3 sec 
+Set (V): 		dev 
+ 
+Jeffrey_Wright/cUNQTPw0GS8_0000001 28.1 34.5 
+Jeffrey_Wright/cUNQTPw0GS8_0000002 37.8 42.1 
+Jeffrey_Wright/cUNQTPw0GS8_0000003 46.1 50.6 
+Jeffrey_Wright/cUNQTPw0GS8_0000004 59.0 65.4 
+Jeffrey_Wright/cUNQTPw0GS8_0000005 92.3 105.2 
+Jeffrey_Wright/cUNQTPw0GS8_0000006 109.3 113.3 
+Jeffrey_Wright/cUNQTPw0GS8_0000007 117.5 122.5 
+Jeffrey_Wright/cUNQTPw0GS8_0000008 130.6 140.7 

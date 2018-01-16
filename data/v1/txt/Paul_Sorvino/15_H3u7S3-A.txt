@@ -1,0 +1,14 @@
+POI: 			Paul_Sorvino 
+Youtube ID: 	15_H3u7S3-A 
+Video length: 	277.1 sec 
+Set (V): 		dev 
+ 
+Paul_Sorvino/15_H3u7S3-A_0000001 35.4 42.6 
+Paul_Sorvino/15_H3u7S3-A_0000002 48.8 59.5 
+Paul_Sorvino/15_H3u7S3-A_0000003 88.7 111.9 
+Paul_Sorvino/15_H3u7S3-A_0000004 163.6 170.9 
+Paul_Sorvino/15_H3u7S3-A_0000005 171.2 175.8 
+Paul_Sorvino/15_H3u7S3-A_0000006 176.7 186.1 
+Paul_Sorvino/15_H3u7S3-A_0000007 195.5 201.7 
+Paul_Sorvino/15_H3u7S3-A_0000008 202.2 206.2 
+Paul_Sorvino/15_H3u7S3-A_0000009 227.9 232.3 

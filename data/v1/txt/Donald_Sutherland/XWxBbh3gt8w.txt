@@ -1,0 +1,8 @@
+POI: 			Donald_Sutherland 
+Youtube ID: 	XWxBbh3gt8w 
+Video length: 	214.9 sec 
+Set (V): 		dev 
+ 
+Donald_Sutherland/XWxBbh3gt8w_0000001 135.1 141.1 
+Donald_Sutherland/XWxBbh3gt8w_0000002 155.1 161.8 
+Donald_Sutherland/XWxBbh3gt8w_0000003 182.6 186.8 

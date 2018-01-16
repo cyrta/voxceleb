@@ -1,0 +1,24 @@
+POI: 			Will_Poulter 
+Youtube ID: 	9Vo4nmE52gE 
+Video length: 	379.0 sec 
+Set (V): 		dev 
+ 
+Will_Poulter/9Vo4nmE52gE_0000001 17.8 39.0 
+Will_Poulter/9Vo4nmE52gE_0000002 48.5 65.4 
+Will_Poulter/9Vo4nmE52gE_0000003 106.2 118.6 
+Will_Poulter/9Vo4nmE52gE_0000004 124.4 136.0 
+Will_Poulter/9Vo4nmE52gE_0000005 136.2 155.5 
+Will_Poulter/9Vo4nmE52gE_0000006 156.2 162.9 
+Will_Poulter/9Vo4nmE52gE_0000007 163.4 173.5 
+Will_Poulter/9Vo4nmE52gE_0000008 192.3 201.4 
+Will_Poulter/9Vo4nmE52gE_0000009 201.9 209.3 
+Will_Poulter/9Vo4nmE52gE_0000010 210.4 224.2 
+Will_Poulter/9Vo4nmE52gE_0000011 229.5 238.8 
+Will_Poulter/9Vo4nmE52gE_0000012 239.5 246.1 
+Will_Poulter/9Vo4nmE52gE_0000013 274.2 290.3 
+Will_Poulter/9Vo4nmE52gE_0000014 307.4 316.6 
+Will_Poulter/9Vo4nmE52gE_0000015 317.9 323.8 
+Will_Poulter/9Vo4nmE52gE_0000016 330.2 336.0 
+Will_Poulter/9Vo4nmE52gE_0000017 330.0 340.4 
+Will_Poulter/9Vo4nmE52gE_0000018 341.2 346.1 
+Will_Poulter/9Vo4nmE52gE_0000019 347.7 359.0 

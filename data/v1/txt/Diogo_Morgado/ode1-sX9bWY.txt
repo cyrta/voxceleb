@@ -1,0 +1,8 @@
+POI: 			Diogo_Morgado 
+Youtube ID: 	ode1-sX9bWY 
+Video length: 	393.8 sec 
+Set (V): 		dev 
+ 
+Diogo_Morgado/ode1-sX9bWY_0000001 276.0 281.9 
+Diogo_Morgado/ode1-sX9bWY_0000002 291.6 296.6 
+Diogo_Morgado/ode1-sX9bWY_0000003 307.1 314.9 

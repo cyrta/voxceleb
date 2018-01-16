@@ -1,0 +1,8 @@
+POI: 			Chloe_Dykstra 
+Youtube ID: 	s307yenqZsM 
+Video length: 	480.0 sec 
+Set (V): 		dev 
+ 
+Chloe_Dykstra/s307yenqZsM_0000001 85.0 90.2 
+Chloe_Dykstra/s307yenqZsM_0000002 98.4 106.2 
+Chloe_Dykstra/s307yenqZsM_0000003 159.4 165.8 

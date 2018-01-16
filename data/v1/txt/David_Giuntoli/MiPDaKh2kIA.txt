@@ -1,0 +1,8 @@
+POI: 			David_Giuntoli 
+Youtube ID: 	MiPDaKh2kIA 
+Video length: 	156.0 sec 
+Set (V): 		dev 
+ 
+David_Giuntoli/MiPDaKh2kIA_0000001 82.0 93.3 
+David_Giuntoli/MiPDaKh2kIA_0000002 95.7 99.8 
+David_Giuntoli/MiPDaKh2kIA_0000003 118.8 124.3 

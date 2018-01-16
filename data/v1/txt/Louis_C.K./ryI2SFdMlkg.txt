@@ -1,0 +1,17 @@
+POI: 			Louis_C.K. 
+Youtube ID: 	ryI2SFdMlkg 
+Video length: 	762.2 sec 
+Set (V): 		dev 
+ 
+Louis_C.K./ryI2SFdMlkg_0000001 67.0 72.8 
+Louis_C.K./ryI2SFdMlkg_0000002 79.4 85.1 
+Louis_C.K./ryI2SFdMlkg_0000003 92.8 101.8 
+Louis_C.K./ryI2SFdMlkg_0000004 105.3 109.3 
+Louis_C.K./ryI2SFdMlkg_0000005 250.3 257.0 
+Louis_C.K./ryI2SFdMlkg_0000006 287.6 291.6 
+Louis_C.K./ryI2SFdMlkg_0000007 366.9 376.5 
+Louis_C.K./ryI2SFdMlkg_0000008 411.0 416.2 
+Louis_C.K./ryI2SFdMlkg_0000009 437.2 443.4 
+Louis_C.K./ryI2SFdMlkg_0000010 481.4 496.4 
+Louis_C.K./ryI2SFdMlkg_0000011 529.4 535.6 
+Louis_C.K./ryI2SFdMlkg_0000012 691.6 698.0 

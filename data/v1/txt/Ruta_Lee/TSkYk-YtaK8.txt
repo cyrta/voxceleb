@@ -1,0 +1,22 @@
+POI: 			Ruta_Lee 
+Youtube ID: 	TSkYk-YtaK8 
+Video length: 	527.5 sec 
+Set (V): 		dev 
+ 
+Ruta_Lee/TSkYk-YtaK8_0000001 66.0 72.2 
+Ruta_Lee/TSkYk-YtaK8_0000002 86.3 105.7 
+Ruta_Lee/TSkYk-YtaK8_0000003 111.6 118.5 
+Ruta_Lee/TSkYk-YtaK8_0000004 121.0 129.3 
+Ruta_Lee/TSkYk-YtaK8_0000005 149.8 155.3 
+Ruta_Lee/TSkYk-YtaK8_0000006 166.4 170.5 
+Ruta_Lee/TSkYk-YtaK8_0000007 178.7 190.4 
+Ruta_Lee/TSkYk-YtaK8_0000008 194.1 198.5 
+Ruta_Lee/TSkYk-YtaK8_0000009 210.6 219.0 
+Ruta_Lee/TSkYk-YtaK8_0000010 223.0 228.4 
+Ruta_Lee/TSkYk-YtaK8_0000011 234.0 239.1 
+Ruta_Lee/TSkYk-YtaK8_0000012 239.3 249.2 
+Ruta_Lee/TSkYk-YtaK8_0000013 265.6 277.7 
+Ruta_Lee/TSkYk-YtaK8_0000014 348.2 353.0 
+Ruta_Lee/TSkYk-YtaK8_0000015 368.0 376.6 
+Ruta_Lee/TSkYk-YtaK8_0000016 443.2 448.4 
+Ruta_Lee/TSkYk-YtaK8_0000017 490.3 498.6 

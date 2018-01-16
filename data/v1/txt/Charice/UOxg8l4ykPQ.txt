@@ -1,0 +1,8 @@
+POI: 			Charice 
+Youtube ID: 	UOxg8l4ykPQ 
+Video length: 	1168.4 sec 
+Set (V): 		dev 
+ 
+Charice/UOxg8l4ykPQ_0000001 12.4 16.8 
+Charice/UOxg8l4ykPQ_0000002 395.5 399.7 
+Charice/UOxg8l4ykPQ_0000003 736.6 740.6 

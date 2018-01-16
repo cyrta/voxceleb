@@ -1,0 +1,13 @@
+POI: 			Reid_Scott 
+Youtube ID: 	NaijZ_-fzso 
+Video length: 	253.6 sec 
+Set (V): 		dev 
+ 
+Reid_Scott/NaijZ_-fzso_0000001 60.9 73.8 
+Reid_Scott/NaijZ_-fzso_0000002 87.5 96.0 
+Reid_Scott/NaijZ_-fzso_0000003 100.8 104.7 
+Reid_Scott/NaijZ_-fzso_0000004 127.4 135.8 
+Reid_Scott/NaijZ_-fzso_0000005 179.6 188.2 
+Reid_Scott/NaijZ_-fzso_0000006 189.9 196.1 
+Reid_Scott/NaijZ_-fzso_0000007 222.8 230.8 
+Reid_Scott/NaijZ_-fzso_0000008 237.2 243.0 

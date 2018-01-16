@@ -1,0 +1,14 @@
+POI: 			Marion_Ross 
+Youtube ID: 	4Bz1ThNOONQ 
+Video length: 	262.2 sec 
+Set (V): 		dev 
+ 
+Marion_Ross/4Bz1ThNOONQ_0000001 47.7 57.0 
+Marion_Ross/4Bz1ThNOONQ_0000002 63.8 73.8 
+Marion_Ross/4Bz1ThNOONQ_0000003 94.1 101.2 
+Marion_Ross/4Bz1ThNOONQ_0000004 117.0 122.8 
+Marion_Ross/4Bz1ThNOONQ_0000005 124.1 129.5 
+Marion_Ross/4Bz1ThNOONQ_0000006 136.5 142.1 
+Marion_Ross/4Bz1ThNOONQ_0000007 146.4 151.2 
+Marion_Ross/4Bz1ThNOONQ_0000008 205.9 211.2 
+Marion_Ross/4Bz1ThNOONQ_0000009 220.1 237.0 

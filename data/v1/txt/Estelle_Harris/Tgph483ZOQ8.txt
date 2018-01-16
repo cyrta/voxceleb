@@ -1,0 +1,8 @@
+POI: 			Estelle_Harris 
+Youtube ID: 	Tgph483ZOQ8 
+Video length: 	127.3 sec 
+Set (V): 		test 
+ 
+Estelle_Harris/Tgph483ZOQ8_0000001 24.3 29.0 
+Estelle_Harris/Tgph483ZOQ8_0000002 70.3 76.4 
+Estelle_Harris/Tgph483ZOQ8_0000003 78.4 85.4 

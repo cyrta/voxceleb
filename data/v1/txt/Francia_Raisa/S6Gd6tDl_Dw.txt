@@ -1,0 +1,13 @@
+POI: 			Francia_Raisa 
+Youtube ID: 	S6Gd6tDl_Dw 
+Video length: 	606.2 sec 
+Set (V): 		dev 
+ 
+Francia_Raisa/S6Gd6tDl_Dw_0000001 53.4 62.6 
+Francia_Raisa/S6Gd6tDl_Dw_0000002 184.5 191.2 
+Francia_Raisa/S6Gd6tDl_Dw_0000003 219.2 226.4 
+Francia_Raisa/S6Gd6tDl_Dw_0000004 295.4 301.3 
+Francia_Raisa/S6Gd6tDl_Dw_0000005 371.1 375.4 
+Francia_Raisa/S6Gd6tDl_Dw_0000006 378.2 382.6 
+Francia_Raisa/S6Gd6tDl_Dw_0000007 421.6 448.0 
+Francia_Raisa/S6Gd6tDl_Dw_0000008 450.0 463.6 

@@ -1,0 +1,14 @@
+POI: 			Daniel_Dae_Kim 
+Youtube ID: 	7ao47BbpCuA 
+Video length: 	257.4 sec 
+Set (V): 		dev 
+ 
+Daniel_Dae_Kim/7ao47BbpCuA_0000001 27.2 32.8 
+Daniel_Dae_Kim/7ao47BbpCuA_0000002 73.7 79.8 
+Daniel_Dae_Kim/7ao47BbpCuA_0000003 123.4 131.4 
+Daniel_Dae_Kim/7ao47BbpCuA_0000004 136.4 140.4 
+Daniel_Dae_Kim/7ao47BbpCuA_0000005 159.2 164.6 
+Daniel_Dae_Kim/7ao47BbpCuA_0000006 184.7 190.5 
+Daniel_Dae_Kim/7ao47BbpCuA_0000007 202.4 212.5 
+Daniel_Dae_Kim/7ao47BbpCuA_0000008 225.9 230.2 
+Daniel_Dae_Kim/7ao47BbpCuA_0000009 231.2 235.4 

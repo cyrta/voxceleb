@@ -1,0 +1,26 @@
+POI: 			Naseeruddin_Shah 
+Youtube ID: 	JZIc4U87Mr4 
+Video length: 	1196.9 sec 
+Set (V): 		dev 
+ 
+Naseeruddin_Shah/JZIc4U87Mr4_0000001 118.1 129.6 
+Naseeruddin_Shah/JZIc4U87Mr4_0000002 146.1 150.9 
+Naseeruddin_Shah/JZIc4U87Mr4_0000003 320.4 325.4 
+Naseeruddin_Shah/JZIc4U87Mr4_0000004 412.4 419.0 
+Naseeruddin_Shah/JZIc4U87Mr4_0000005 456.1 460.9 
+Naseeruddin_Shah/JZIc4U87Mr4_0000006 475.1 480.4 
+Naseeruddin_Shah/JZIc4U87Mr4_0000007 497.0 501.9 
+Naseeruddin_Shah/JZIc4U87Mr4_0000008 571.6 578.0 
+Naseeruddin_Shah/JZIc4U87Mr4_0000009 651.0 656.8 
+Naseeruddin_Shah/JZIc4U87Mr4_0000010 697.1 702.8 
+Naseeruddin_Shah/JZIc4U87Mr4_0000011 709.5 713.8 
+Naseeruddin_Shah/JZIc4U87Mr4_0000012 766.4 772.4 
+Naseeruddin_Shah/JZIc4U87Mr4_0000013 805.5 810.5 
+Naseeruddin_Shah/JZIc4U87Mr4_0000014 839.6 845.4 
+Naseeruddin_Shah/JZIc4U87Mr4_0000015 910.6 915.7 
+Naseeruddin_Shah/JZIc4U87Mr4_0000016 917.8 925.4 
+Naseeruddin_Shah/JZIc4U87Mr4_0000017 940.9 951.0 
+Naseeruddin_Shah/JZIc4U87Mr4_0000018 984.0 988.8 
+Naseeruddin_Shah/JZIc4U87Mr4_0000019 992.5 1005.7 
+Naseeruddin_Shah/JZIc4U87Mr4_0000020 1143.8 1151.0 
+Naseeruddin_Shah/JZIc4U87Mr4_0000021 1164.8 1174.8 

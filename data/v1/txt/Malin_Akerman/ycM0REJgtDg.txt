@@ -1,0 +1,16 @@
+POI: 			Malin_Akerman 
+Youtube ID: 	ycM0REJgtDg 
+Video length: 	282.8 sec 
+Set (V): 		dev 
+ 
+Malin_Akerman/ycM0REJgtDg_0000001 23.0 69.1 
+Malin_Akerman/ycM0REJgtDg_0000002 69.2 94.2 
+Malin_Akerman/ycM0REJgtDg_0000003 96.2 117.4 
+Malin_Akerman/ycM0REJgtDg_0000004 125.4 147.7 
+Malin_Akerman/ycM0REJgtDg_0000005 148.2 158.8 
+Malin_Akerman/ycM0REJgtDg_0000006 166.8 174.7 
+Malin_Akerman/ycM0REJgtDg_0000007 175.0 180.3 
+Malin_Akerman/ycM0REJgtDg_0000008 197.4 213.0 
+Malin_Akerman/ycM0REJgtDg_0000009 213.7 225.8 
+Malin_Akerman/ycM0REJgtDg_0000010 225.8 230.9 
+Malin_Akerman/ycM0REJgtDg_0000011 240.0 272.2 

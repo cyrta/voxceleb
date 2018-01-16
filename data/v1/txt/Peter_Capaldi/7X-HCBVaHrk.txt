@@ -1,0 +1,10 @@
+POI: 			Peter_Capaldi 
+Youtube ID: 	7X-HCBVaHrk 
+Video length: 	340.0 sec 
+Set (V): 		dev 
+ 
+Peter_Capaldi/7X-HCBVaHrk_0000001 96.8 102.5 
+Peter_Capaldi/7X-HCBVaHrk_0000002 131.8 137.8 
+Peter_Capaldi/7X-HCBVaHrk_0000003 209.0 216.0 
+Peter_Capaldi/7X-HCBVaHrk_0000004 245.4 249.4 
+Peter_Capaldi/7X-HCBVaHrk_0000005 277.4 284.0 

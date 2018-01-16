@@ -1,0 +1,7 @@
+POI: 			Gregg_Sulkin 
+Youtube ID: 	FSN7iBMEuDs 
+Video length: 	284.0 sec 
+Set (V): 		dev 
+ 
+Gregg_Sulkin/FSN7iBMEuDs_0000001 27.3 35.2 
+Gregg_Sulkin/FSN7iBMEuDs_0000002 142.4 150.0 

@@ -1,0 +1,21 @@
+POI: 			Teri_Hatcher 
+Youtube ID: 	uGu757k_QTY 
+Video length: 	363.7 sec 
+Set (V): 		dev 
+ 
+Teri_Hatcher/uGu757k_QTY_0000001 10.4 19.8 
+Teri_Hatcher/uGu757k_QTY_0000002 22.6 59.4 
+Teri_Hatcher/uGu757k_QTY_0000003 61.4 93.6 
+Teri_Hatcher/uGu757k_QTY_0000004 111.2 129.7 
+Teri_Hatcher/uGu757k_QTY_0000005 134.4 144.7 
+Teri_Hatcher/uGu757k_QTY_0000006 145.2 155.9 
+Teri_Hatcher/uGu757k_QTY_0000007 156.8 178.1 
+Teri_Hatcher/uGu757k_QTY_0000008 182.4 193.0 
+Teri_Hatcher/uGu757k_QTY_0000009 194.3 215.3 
+Teri_Hatcher/uGu757k_QTY_0000010 221.3 233.7 
+Teri_Hatcher/uGu757k_QTY_0000011 235.3 254.1 
+Teri_Hatcher/uGu757k_QTY_0000012 255.5 270.3 
+Teri_Hatcher/uGu757k_QTY_0000013 270.6 293.8 
+Teri_Hatcher/uGu757k_QTY_0000014 298.8 321.2 
+Teri_Hatcher/uGu757k_QTY_0000015 327.1 343.2 
+Teri_Hatcher/uGu757k_QTY_0000016 344.2 360.2 

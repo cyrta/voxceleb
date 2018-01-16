@@ -1,0 +1,7 @@
+POI: 			Richard_Dean_Anderson 
+Youtube ID: 	i-AVcLd965o 
+Video length: 	510.6 sec 
+Set (V): 		dev 
+ 
+Richard_Dean_Anderson/i-AVcLd965o_0000001 100.2 105.1 
+Richard_Dean_Anderson/i-AVcLd965o_0000002 390.2 402.9 

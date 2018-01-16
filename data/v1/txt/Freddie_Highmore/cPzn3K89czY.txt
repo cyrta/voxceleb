@@ -1,0 +1,15 @@
+POI: 			Freddie_Highmore 
+Youtube ID: 	cPzn3K89czY 
+Video length: 	315.6 sec 
+Set (V): 		dev 
+ 
+Freddie_Highmore/cPzn3K89czY_0000001 15.6 20.6 
+Freddie_Highmore/cPzn3K89czY_0000002 38.8 44.2 
+Freddie_Highmore/cPzn3K89czY_0000003 70.1 90.1 
+Freddie_Highmore/cPzn3K89czY_0000004 104.1 109.2 
+Freddie_Highmore/cPzn3K89czY_0000005 109.6 122.6 
+Freddie_Highmore/cPzn3K89czY_0000006 122.6 133.8 
+Freddie_Highmore/cPzn3K89czY_0000007 163.7 182.3 
+Freddie_Highmore/cPzn3K89czY_0000008 204.2 225.6 
+Freddie_Highmore/cPzn3K89czY_0000009 240.8 255.0 
+Freddie_Highmore/cPzn3K89czY_0000010 267.0 283.0 

@@ -1,0 +1,7 @@
+POI: 			Lorde 
+Youtube ID: 	WeY_LeQezAk 
+Video length: 	772.4 sec 
+Set (V): 		dev 
+ 
+Lorde/WeY_LeQezAk_0000001 80.9 85.6 
+Lorde/WeY_LeQezAk_0000002 368.4 372.4 

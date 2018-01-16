@@ -1,0 +1,9 @@
+POI: 			Henry_Cavill 
+Youtube ID: 	9cHYiZfF3rs 
+Video length: 	220.5 sec 
+Set (V): 		dev 
+ 
+Henry_Cavill/9cHYiZfF3rs_0000001 46.9 52.5 
+Henry_Cavill/9cHYiZfF3rs_0000002 71.0 78.6 
+Henry_Cavill/9cHYiZfF3rs_0000003 89.6 99.5 
+Henry_Cavill/9cHYiZfF3rs_0000004 104.6 114.0 

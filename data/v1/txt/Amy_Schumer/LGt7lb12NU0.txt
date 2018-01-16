@@ -1,0 +1,10 @@
+POI: 			Amy_Schumer 
+Youtube ID: 	LGt7lb12NU0 
+Video length: 	502.7 sec 
+Set (V): 		dev 
+ 
+Amy_Schumer/LGt7lb12NU0_0000001 52.4 58.5 
+Amy_Schumer/LGt7lb12NU0_0000002 73.9 90.0 
+Amy_Schumer/LGt7lb12NU0_0000003 90.4 96.5 
+Amy_Schumer/LGt7lb12NU0_0000004 97.4 102.1 
+Amy_Schumer/LGt7lb12NU0_0000005 162.2 169.5 

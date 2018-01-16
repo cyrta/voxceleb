@@ -1,0 +1,7 @@
+POI: 			Kate_Walsh 
+Youtube ID: 	k7FUslRgmTs 
+Video length: 	186.5 sec 
+Set (V): 		dev 
+ 
+Kate_Walsh/k7FUslRgmTs_0000001 67.6 78.9 
+Kate_Walsh/k7FUslRgmTs_0000002 79.9 90.1 

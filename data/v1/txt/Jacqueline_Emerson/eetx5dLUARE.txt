@@ -1,0 +1,15 @@
+POI: 			Jacqueline_Emerson 
+Youtube ID: 	eetx5dLUARE 
+Video length: 	236.5 sec 
+Set (V): 		dev 
+ 
+Jacqueline_Emerson/eetx5dLUARE_0000001 17.4 25.8 
+Jacqueline_Emerson/eetx5dLUARE_0000002 46.6 58.5 
+Jacqueline_Emerson/eetx5dLUARE_0000003 61.0 65.9 
+Jacqueline_Emerson/eetx5dLUARE_0000004 70.9 77.5 
+Jacqueline_Emerson/eetx5dLUARE_0000005 77.8 82.1 
+Jacqueline_Emerson/eetx5dLUARE_0000006 110.7 126.4 
+Jacqueline_Emerson/eetx5dLUARE_0000007 141.2 152.4 
+Jacqueline_Emerson/eetx5dLUARE_0000008 153.0 157.9 
+Jacqueline_Emerson/eetx5dLUARE_0000009 169.6 177.4 
+Jacqueline_Emerson/eetx5dLUARE_0000010 215.8 219.8 

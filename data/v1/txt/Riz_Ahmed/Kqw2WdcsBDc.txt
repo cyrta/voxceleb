@@ -1,0 +1,16 @@
+POI: 			Riz_Ahmed 
+Youtube ID: 	Kqw2WdcsBDc 
+Video length: 	228.8 sec 
+Set (V): 		dev 
+ 
+Riz_Ahmed/Kqw2WdcsBDc_0000001 13.7 23.5 
+Riz_Ahmed/Kqw2WdcsBDc_0000002 38.6 48.2 
+Riz_Ahmed/Kqw2WdcsBDc_0000003 49.0 83.3 
+Riz_Ahmed/Kqw2WdcsBDc_0000004 83.6 87.6 
+Riz_Ahmed/Kqw2WdcsBDc_0000005 98.9 103.5 
+Riz_Ahmed/Kqw2WdcsBDc_0000006 104.6 127.2 
+Riz_Ahmed/Kqw2WdcsBDc_0000007 127.3 138.0 
+Riz_Ahmed/Kqw2WdcsBDc_0000008 168.6 176.8 
+Riz_Ahmed/Kqw2WdcsBDc_0000009 184.9 191.1 
+Riz_Ahmed/Kqw2WdcsBDc_0000010 209.0 220.0 
+Riz_Ahmed/Kqw2WdcsBDc_0000011 220.8 227.4 

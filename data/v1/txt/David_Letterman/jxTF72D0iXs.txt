@@ -1,0 +1,10 @@
+POI: 			David_Letterman 
+Youtube ID: 	jxTF72D0iXs 
+Video length: 	1718.0 sec 
+Set (V): 		dev 
+ 
+David_Letterman/jxTF72D0iXs_0000001 385.6 396.1 
+David_Letterman/jxTF72D0iXs_0000002 401.4 405.9 
+David_Letterman/jxTF72D0iXs_0000003 1090.6 1094.7 
+David_Letterman/jxTF72D0iXs_0000004 1096.2 1101.8 
+David_Letterman/jxTF72D0iXs_0000005 1438.9 1453.2 

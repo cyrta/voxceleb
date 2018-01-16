@@ -1,0 +1,17 @@
+POI: 			Ty_Pennington 
+Youtube ID: 	j5R4LsTuJus 
+Video length: 	457.3 sec 
+Set (V): 		dev 
+ 
+Ty_Pennington/j5R4LsTuJus_0000001 47.4 65.4 
+Ty_Pennington/j5R4LsTuJus_0000002 92.5 120.0 
+Ty_Pennington/j5R4LsTuJus_0000003 130.7 145.6 
+Ty_Pennington/j5R4LsTuJus_0000004 147.4 169.3 
+Ty_Pennington/j5R4LsTuJus_0000005 171.1 201.8 
+Ty_Pennington/j5R4LsTuJus_0000006 212.1 252.1 
+Ty_Pennington/j5R4LsTuJus_0000007 258.1 276.5 
+Ty_Pennington/j5R4LsTuJus_0000008 301.6 307.6 
+Ty_Pennington/j5R4LsTuJus_0000009 312.7 323.1 
+Ty_Pennington/j5R4LsTuJus_0000010 323.2 334.2 
+Ty_Pennington/j5R4LsTuJus_0000011 336.2 391.8 
+Ty_Pennington/j5R4LsTuJus_0000012 398.4 404.4 

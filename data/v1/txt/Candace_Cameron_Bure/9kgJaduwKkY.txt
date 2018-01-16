@@ -1,0 +1,8 @@
+POI: 			Candace_Cameron_Bure 
+Youtube ID: 	9kgJaduwKkY 
+Video length: 	127.2 sec 
+Set (V): 		dev 
+ 
+Candace_Cameron_Bure/9kgJaduwKkY_0000001 45.6 49.7 
+Candace_Cameron_Bure/9kgJaduwKkY_0000002 58.6 66.3 
+Candace_Cameron_Bure/9kgJaduwKkY_0000003 111.5 117.3 

@@ -1,0 +1,18 @@
+POI: 			Emile_Hirsch 
+Youtube ID: 	A3QwQ3D35rc 
+Video length: 	319.9 sec 
+Set (V): 		test 
+ 
+Emile_Hirsch/A3QwQ3D35rc_0000001 40.6 61.7 
+Emile_Hirsch/A3QwQ3D35rc_0000002 62.0 69.1 
+Emile_Hirsch/A3QwQ3D35rc_0000003 70.7 75.2 
+Emile_Hirsch/A3QwQ3D35rc_0000004 113.8 128.1 
+Emile_Hirsch/A3QwQ3D35rc_0000005 134.6 138.8 
+Emile_Hirsch/A3QwQ3D35rc_0000006 164.6 171.8 
+Emile_Hirsch/A3QwQ3D35rc_0000007 182.0 190.0 
+Emile_Hirsch/A3QwQ3D35rc_0000008 198.4 212.0 
+Emile_Hirsch/A3QwQ3D35rc_0000009 212.9 220.0 
+Emile_Hirsch/A3QwQ3D35rc_0000010 246.0 256.2 
+Emile_Hirsch/A3QwQ3D35rc_0000011 263.6 269.2 
+Emile_Hirsch/A3QwQ3D35rc_0000012 270.4 288.3 
+Emile_Hirsch/A3QwQ3D35rc_0000013 289.3 296.2 

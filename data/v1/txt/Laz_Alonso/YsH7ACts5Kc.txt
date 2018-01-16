@@ -1,0 +1,9 @@
+POI: 			Laz_Alonso 
+Youtube ID: 	YsH7ACts5Kc 
+Video length: 	184.8 sec 
+Set (V): 		dev 
+ 
+Laz_Alonso/YsH7ACts5Kc_0000001 24.9 29.1 
+Laz_Alonso/YsH7ACts5Kc_0000002 88.6 103.4 
+Laz_Alonso/YsH7ACts5Kc_0000003 127.2 131.6 
+Laz_Alonso/YsH7ACts5Kc_0000004 155.5 168.4 

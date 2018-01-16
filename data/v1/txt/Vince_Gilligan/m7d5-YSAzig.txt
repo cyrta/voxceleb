@@ -1,0 +1,9 @@
+POI: 			Vince_Gilligan 
+Youtube ID: 	m7d5-YSAzig 
+Video length: 	87.0 sec 
+Set (V): 		dev 
+ 
+Vince_Gilligan/m7d5-YSAzig_0000001 12.2 25.3 
+Vince_Gilligan/m7d5-YSAzig_0000002 32.3 37.4 
+Vince_Gilligan/m7d5-YSAzig_0000003 48.5 64.4 
+Vince_Gilligan/m7d5-YSAzig_0000004 65.3 77.6 

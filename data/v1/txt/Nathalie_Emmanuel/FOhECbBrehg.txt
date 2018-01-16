@@ -1,0 +1,16 @@
+POI: 			Nathalie_Emmanuel 
+Youtube ID: 	FOhECbBrehg 
+Video length: 	285.5 sec 
+Set (V): 		dev 
+ 
+Nathalie_Emmanuel/FOhECbBrehg_0000001 17.4 23.6 
+Nathalie_Emmanuel/FOhECbBrehg_0000002 86.9 95.0 
+Nathalie_Emmanuel/FOhECbBrehg_0000003 95.4 105.0 
+Nathalie_Emmanuel/FOhECbBrehg_0000004 107.8 115.9 
+Nathalie_Emmanuel/FOhECbBrehg_0000005 142.8 147.9 
+Nathalie_Emmanuel/FOhECbBrehg_0000006 149.7 153.8 
+Nathalie_Emmanuel/FOhECbBrehg_0000007 154.9 159.9 
+Nathalie_Emmanuel/FOhECbBrehg_0000008 200.7 209.8 
+Nathalie_Emmanuel/FOhECbBrehg_0000009 212.1 218.9 
+Nathalie_Emmanuel/FOhECbBrehg_0000010 219.4 225.1 
+Nathalie_Emmanuel/FOhECbBrehg_0000011 228.6 234.2 

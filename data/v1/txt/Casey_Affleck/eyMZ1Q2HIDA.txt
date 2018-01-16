@@ -1,0 +1,8 @@
+POI: 			Casey_Affleck 
+Youtube ID: 	eyMZ1Q2HIDA 
+Video length: 	240.8 sec 
+Set (V): 		dev 
+ 
+Casey_Affleck/eyMZ1Q2HIDA_0000001 33.6 40.5 
+Casey_Affleck/eyMZ1Q2HIDA_0000002 121.8 132.5 
+Casey_Affleck/eyMZ1Q2HIDA_0000003 215.5 236.6 

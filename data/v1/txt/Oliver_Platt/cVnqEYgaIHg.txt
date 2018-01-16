@@ -1,0 +1,15 @@
+POI: 			Oliver_Platt 
+Youtube ID: 	cVnqEYgaIHg 
+Video length: 	133.5 sec 
+Set (V): 		dev 
+ 
+Oliver_Platt/cVnqEYgaIHg_0000001 04.5 30.6 
+Oliver_Platt/cVnqEYgaIHg_0000002 30.8 35.8 
+Oliver_Platt/cVnqEYgaIHg_0000003 39.4 47.4 
+Oliver_Platt/cVnqEYgaIHg_0000004 47.8 57.1 
+Oliver_Platt/cVnqEYgaIHg_0000005 61.6 67.9 
+Oliver_Platt/cVnqEYgaIHg_0000006 73.8 79.6 
+Oliver_Platt/cVnqEYgaIHg_0000007 84.0 90.5 
+Oliver_Platt/cVnqEYgaIHg_0000008 92.5 99.9 
+Oliver_Platt/cVnqEYgaIHg_0000009 102.5 109.3 
+Oliver_Platt/cVnqEYgaIHg_0000010 124.9 129.0 

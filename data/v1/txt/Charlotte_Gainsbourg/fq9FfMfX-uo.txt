@@ -1,0 +1,8 @@
+POI: 			Charlotte_Gainsbourg 
+Youtube ID: 	fq9FfMfX-uo 
+Video length: 	313.5 sec 
+Set (V): 		dev 
+ 
+Charlotte_Gainsbourg/fq9FfMfX-uo_0000001 103.0 108.3 
+Charlotte_Gainsbourg/fq9FfMfX-uo_0000002 162.2 168.0 
+Charlotte_Gainsbourg/fq9FfMfX-uo_0000003 191.6 196.0 

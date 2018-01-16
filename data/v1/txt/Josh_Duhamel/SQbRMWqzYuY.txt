@@ -1,0 +1,7 @@
+POI: 			Josh_Duhamel 
+Youtube ID: 	SQbRMWqzYuY 
+Video length: 	400.4 sec 
+Set (V): 		dev 
+ 
+Josh_Duhamel/SQbRMWqzYuY_0000001 149.9 154.5 
+Josh_Duhamel/SQbRMWqzYuY_0000002 160.7 164.8 

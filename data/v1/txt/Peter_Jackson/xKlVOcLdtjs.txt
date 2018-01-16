@@ -1,0 +1,11 @@
+POI: 			Peter_Jackson 
+Youtube ID: 	xKlVOcLdtjs 
+Video length: 	415.8 sec 
+Set (V): 		dev 
+ 
+Peter_Jackson/xKlVOcLdtjs_0000001 70.4 75.2 
+Peter_Jackson/xKlVOcLdtjs_0000002 80.9 88.1 
+Peter_Jackson/xKlVOcLdtjs_0000003 174.0 178.0 
+Peter_Jackson/xKlVOcLdtjs_0000004 185.6 193.1 
+Peter_Jackson/xKlVOcLdtjs_0000005 193.8 206.6 
+Peter_Jackson/xKlVOcLdtjs_0000006 310.8 322.1 

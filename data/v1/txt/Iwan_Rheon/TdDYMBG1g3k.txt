@@ -1,0 +1,13 @@
+POI: 			Iwan_Rheon 
+Youtube ID: 	TdDYMBG1g3k 
+Video length: 	409.5 sec 
+Set (V): 		dev 
+ 
+Iwan_Rheon/TdDYMBG1g3k_0000001 27.3 31.4 
+Iwan_Rheon/TdDYMBG1g3k_0000002 73.2 79.5 
+Iwan_Rheon/TdDYMBG1g3k_0000003 97.0 101.7 
+Iwan_Rheon/TdDYMBG1g3k_0000004 144.7 151.9 
+Iwan_Rheon/TdDYMBG1g3k_0000005 184.0 189.7 
+Iwan_Rheon/TdDYMBG1g3k_0000006 191.4 198.6 
+Iwan_Rheon/TdDYMBG1g3k_0000007 242.0 248.9 
+Iwan_Rheon/TdDYMBG1g3k_0000008 301.8 306.0 

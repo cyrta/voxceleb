@@ -1,0 +1,11 @@
+POI: 			Sam_Worthington 
+Youtube ID: 	NEvS_P06gtA 
+Video length: 	591.2 sec 
+Set (V): 		dev 
+ 
+Sam_Worthington/NEvS_P06gtA_0000001 47.8 55.5 
+Sam_Worthington/NEvS_P06gtA_0000002 122.6 126.9 
+Sam_Worthington/NEvS_P06gtA_0000003 148.1 152.5 
+Sam_Worthington/NEvS_P06gtA_0000004 231.0 237.5 
+Sam_Worthington/NEvS_P06gtA_0000005 355.1 359.6 
+Sam_Worthington/NEvS_P06gtA_0000006 490.6 497.8 

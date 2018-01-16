@@ -1,0 +1,32 @@
+POI: 			Sally_Hawkins 
+Youtube ID: 	ME4IdW_T28c 
+Video length: 	435.7 sec 
+Set (V): 		dev 
+ 
+Sally_Hawkins/ME4IdW_T28c_0000001 44.9 50.4 
+Sally_Hawkins/ME4IdW_T28c_0000002 56.5 74.4 
+Sally_Hawkins/ME4IdW_T28c_0000003 75.3 92.3 
+Sally_Hawkins/ME4IdW_T28c_0000004 100.4 112.7 
+Sally_Hawkins/ME4IdW_T28c_0000005 121.4 130.3 
+Sally_Hawkins/ME4IdW_T28c_0000006 130.5 155.5 
+Sally_Hawkins/ME4IdW_T28c_0000007 159.3 171.6 
+Sally_Hawkins/ME4IdW_T28c_0000008 181.4 185.8 
+Sally_Hawkins/ME4IdW_T28c_0000009 186.0 191.6 
+Sally_Hawkins/ME4IdW_T28c_0000010 192.1 196.4 
+Sally_Hawkins/ME4IdW_T28c_0000011 197.1 201.4 
+Sally_Hawkins/ME4IdW_T28c_0000012 205.0 210.6 
+Sally_Hawkins/ME4IdW_T28c_0000013 213.1 223.9 
+Sally_Hawkins/ME4IdW_T28c_0000014 224.0 229.2 
+Sally_Hawkins/ME4IdW_T28c_0000015 249.0 253.2 
+Sally_Hawkins/ME4IdW_T28c_0000016 255.2 263.8 
+Sally_Hawkins/ME4IdW_T28c_0000017 272.0 277.5 
+Sally_Hawkins/ME4IdW_T28c_0000018 277.8 283.6 
+Sally_Hawkins/ME4IdW_T28c_0000019 275.0 283.7 
+Sally_Hawkins/ME4IdW_T28c_0000020 321.4 328.6 
+Sally_Hawkins/ME4IdW_T28c_0000021 344.6 358.9 
+Sally_Hawkins/ME4IdW_T28c_0000022 363.4 367.5 
+Sally_Hawkins/ME4IdW_T28c_0000023 378.6 384.4 
+Sally_Hawkins/ME4IdW_T28c_0000024 386.6 392.2 
+Sally_Hawkins/ME4IdW_T28c_0000025 392.8 403.8 
+Sally_Hawkins/ME4IdW_T28c_0000026 407.0 417.6 
+Sally_Hawkins/ME4IdW_T28c_0000027 429.8 434.2 

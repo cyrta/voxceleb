@@ -1,0 +1,14 @@
+POI: 			Matthew_Macfadyen 
+Youtube ID: 	MuSFkQTs5mo 
+Video length: 	214.4 sec 
+Set (V): 		dev 
+ 
+Matthew_Macfadyen/MuSFkQTs5mo_0000001 28.2 32.4 
+Matthew_Macfadyen/MuSFkQTs5mo_0000002 44.4 50.5 
+Matthew_Macfadyen/MuSFkQTs5mo_0000003 51.2 55.3 
+Matthew_Macfadyen/MuSFkQTs5mo_0000004 74.3 79.1 
+Matthew_Macfadyen/MuSFkQTs5mo_0000005 84.0 94.7 
+Matthew_Macfadyen/MuSFkQTs5mo_0000006 96.6 101.0 
+Matthew_Macfadyen/MuSFkQTs5mo_0000007 110.8 120.2 
+Matthew_Macfadyen/MuSFkQTs5mo_0000008 127.9 135.5 
+Matthew_Macfadyen/MuSFkQTs5mo_0000009 156.4 160.3 

@@ -1,0 +1,8 @@
+POI: 			Jake_Abel 
+Youtube ID: 	XFDHAx3vaWI 
+Video length: 	394.2 sec 
+Set (V): 		dev 
+ 
+Jake_Abel/XFDHAx3vaWI_0000001 125.9 130.8 
+Jake_Abel/XFDHAx3vaWI_0000002 133.8 143.0 
+Jake_Abel/XFDHAx3vaWI_0000003 143.4 149.6 

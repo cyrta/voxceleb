@@ -1,0 +1,15 @@
+POI: 			Keeley_Hawes 
+Youtube ID: 	SpsFHchBMTM 
+Video length: 	235.3 sec 
+Set (V): 		dev 
+ 
+Keeley_Hawes/SpsFHchBMTM_0000001 15.0 20.0 
+Keeley_Hawes/SpsFHchBMTM_0000002 39.3 57.0 
+Keeley_Hawes/SpsFHchBMTM_0000003 90.1 95.8 
+Keeley_Hawes/SpsFHchBMTM_0000004 151.0 156.2 
+Keeley_Hawes/SpsFHchBMTM_0000005 156.8 160.9 
+Keeley_Hawes/SpsFHchBMTM_0000006 163.0 168.4 
+Keeley_Hawes/SpsFHchBMTM_0000007 185.1 189.8 
+Keeley_Hawes/SpsFHchBMTM_0000008 201.4 206.3 
+Keeley_Hawes/SpsFHchBMTM_0000009 206.9 212.2 
+Keeley_Hawes/SpsFHchBMTM_0000010 213.0 219.9 

@@ -1,0 +1,9 @@
+POI: 			Odeya_Rush 
+Youtube ID: 	qWqbtUTFGFA 
+Video length: 	324.6 sec 
+Set (V): 		dev 
+ 
+Odeya_Rush/qWqbtUTFGFA_0000001 120.9 125.2 
+Odeya_Rush/qWqbtUTFGFA_0000002 138.0 144.2 
+Odeya_Rush/qWqbtUTFGFA_0000003 268.7 272.7 
+Odeya_Rush/qWqbtUTFGFA_0000004 309.4 313.5 

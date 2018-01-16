@@ -1,0 +1,11 @@
+POI: 			Sheryl_Lee_Ralph 
+Youtube ID: 	WQrVyLYxYKE 
+Video length: 	589.3 sec 
+Set (V): 		dev 
+ 
+Sheryl_Lee_Ralph/WQrVyLYxYKE_0000001 100.0 105.4 
+Sheryl_Lee_Ralph/WQrVyLYxYKE_0000002 118.8 126.0 
+Sheryl_Lee_Ralph/WQrVyLYxYKE_0000003 127.0 131.2 
+Sheryl_Lee_Ralph/WQrVyLYxYKE_0000004 132.2 146.1 
+Sheryl_Lee_Ralph/WQrVyLYxYKE_0000005 314.8 319.9 
+Sheryl_Lee_Ralph/WQrVyLYxYKE_0000006 485.4 490.2 

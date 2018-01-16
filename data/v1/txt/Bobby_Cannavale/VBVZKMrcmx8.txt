@@ -1,0 +1,26 @@
+POI: 			Bobby_Cannavale 
+Youtube ID: 	VBVZKMrcmx8 
+Video length: 	750.3 sec 
+Set (V): 		dev 
+ 
+Bobby_Cannavale/VBVZKMrcmx8_0000001 44.1 49.4 
+Bobby_Cannavale/VBVZKMrcmx8_0000002 98.0 104.3 
+Bobby_Cannavale/VBVZKMrcmx8_0000003 134.4 145.0 
+Bobby_Cannavale/VBVZKMrcmx8_0000004 146.0 157.3 
+Bobby_Cannavale/VBVZKMrcmx8_0000005 187.4 194.0 
+Bobby_Cannavale/VBVZKMrcmx8_0000006 272.2 287.3 
+Bobby_Cannavale/VBVZKMrcmx8_0000007 291.4 300.0 
+Bobby_Cannavale/VBVZKMrcmx8_0000008 303.9 319.0 
+Bobby_Cannavale/VBVZKMrcmx8_0000009 334.4 348.0 
+Bobby_Cannavale/VBVZKMrcmx8_0000010 370.6 376.0 
+Bobby_Cannavale/VBVZKMrcmx8_0000011 376.4 381.3 
+Bobby_Cannavale/VBVZKMrcmx8_0000012 395.5 400.0 
+Bobby_Cannavale/VBVZKMrcmx8_0000013 436.5 447.5 
+Bobby_Cannavale/VBVZKMrcmx8_0000014 448.2 459.4 
+Bobby_Cannavale/VBVZKMrcmx8_0000015 480.7 488.8 
+Bobby_Cannavale/VBVZKMrcmx8_0000016 489.5 493.7 
+Bobby_Cannavale/VBVZKMrcmx8_0000017 510.4 525.3 
+Bobby_Cannavale/VBVZKMrcmx8_0000018 541.9 546.7 
+Bobby_Cannavale/VBVZKMrcmx8_0000019 548.5 557.6 
+Bobby_Cannavale/VBVZKMrcmx8_0000020 592.1 598.6 
+Bobby_Cannavale/VBVZKMrcmx8_0000021 663.6 671.6 

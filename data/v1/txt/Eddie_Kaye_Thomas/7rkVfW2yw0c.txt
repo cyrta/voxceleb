@@ -1,0 +1,8 @@
+POI: 			Eddie_Kaye_Thomas 
+Youtube ID: 	7rkVfW2yw0c 
+Video length: 	305.1 sec 
+Set (V): 		test 
+ 
+Eddie_Kaye_Thomas/7rkVfW2yw0c_0000001 89.6 95.3 
+Eddie_Kaye_Thomas/7rkVfW2yw0c_0000002 150.5 158.9 
+Eddie_Kaye_Thomas/7rkVfW2yw0c_0000003 230.6 236.0 

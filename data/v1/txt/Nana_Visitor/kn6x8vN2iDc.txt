@@ -1,0 +1,7 @@
+POI: 			Nana_Visitor 
+Youtube ID: 	kn6x8vN2iDc 
+Video length: 	55.2 sec 
+Set (V): 		dev 
+ 
+Nana_Visitor/kn6x8vN2iDc_0000001 24.3 29.0 
+Nana_Visitor/kn6x8vN2iDc_0000002 41.7 48.8 

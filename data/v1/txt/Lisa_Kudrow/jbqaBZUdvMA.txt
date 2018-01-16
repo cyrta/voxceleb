@@ -1,0 +1,24 @@
+POI: 			Lisa_Kudrow 
+Youtube ID: 	jbqaBZUdvMA 
+Video length: 	398.3 sec 
+Set (V): 		dev 
+ 
+Lisa_Kudrow/jbqaBZUdvMA_0000001 06.8 18.0 
+Lisa_Kudrow/jbqaBZUdvMA_0000002 20.2 36.9 
+Lisa_Kudrow/jbqaBZUdvMA_0000003 41.8 46.4 
+Lisa_Kudrow/jbqaBZUdvMA_0000004 50.0 58.8 
+Lisa_Kudrow/jbqaBZUdvMA_0000005 60.0 64.8 
+Lisa_Kudrow/jbqaBZUdvMA_0000006 85.7 94.6 
+Lisa_Kudrow/jbqaBZUdvMA_0000007 105.1 115.3 
+Lisa_Kudrow/jbqaBZUdvMA_0000008 129.6 143.3 
+Lisa_Kudrow/jbqaBZUdvMA_0000009 143.8 147.8 
+Lisa_Kudrow/jbqaBZUdvMA_0000010 151.5 163.2 
+Lisa_Kudrow/jbqaBZUdvMA_0000011 168.6 176.6 
+Lisa_Kudrow/jbqaBZUdvMA_0000012 218.0 247.1 
+Lisa_Kudrow/jbqaBZUdvMA_0000013 263.0 267.7 
+Lisa_Kudrow/jbqaBZUdvMA_0000014 273.0 286.5 
+Lisa_Kudrow/jbqaBZUdvMA_0000015 290.1 294.8 
+Lisa_Kudrow/jbqaBZUdvMA_0000016 302.0 320.7 
+Lisa_Kudrow/jbqaBZUdvMA_0000017 345.6 355.5 
+Lisa_Kudrow/jbqaBZUdvMA_0000018 362.1 367.0 
+Lisa_Kudrow/jbqaBZUdvMA_0000019 371.1 375.2 

@@ -1,0 +1,16 @@
+POI: 			Kal_Penn 
+Youtube ID: 	8aNu5L4tWc8 
+Video length: 	401.1 sec 
+Set (V): 		dev 
+ 
+Kal_Penn/8aNu5L4tWc8_0000001 34.8 69.4 
+Kal_Penn/8aNu5L4tWc8_0000002 72.1 81.5 
+Kal_Penn/8aNu5L4tWc8_0000003 140.2 205.5 
+Kal_Penn/8aNu5L4tWc8_0000004 264.5 271.7 
+Kal_Penn/8aNu5L4tWc8_0000005 273.8 281.6 
+Kal_Penn/8aNu5L4tWc8_0000006 283.6 304.2 
+Kal_Penn/8aNu5L4tWc8_0000007 324.7 350.3 
+Kal_Penn/8aNu5L4tWc8_0000008 353.0 363.7 
+Kal_Penn/8aNu5L4tWc8_0000009 371.8 378.0 
+Kal_Penn/8aNu5L4tWc8_0000010 378.5 384.0 
+Kal_Penn/8aNu5L4tWc8_0000011 384.2 396.2 

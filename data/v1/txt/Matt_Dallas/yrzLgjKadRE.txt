@@ -1,0 +1,8 @@
+POI: 			Matt_Dallas 
+Youtube ID: 	yrzLgjKadRE 
+Video length: 	278.8 sec 
+Set (V): 		dev 
+ 
+Matt_Dallas/yrzLgjKadRE_0000001 84.6 94.7 
+Matt_Dallas/yrzLgjKadRE_0000002 96.3 101.6 
+Matt_Dallas/yrzLgjKadRE_0000003 213.2 217.4 

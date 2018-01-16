@@ -1,0 +1,42 @@
+POI: 			Patrick_Wilson 
+Youtube ID: 	MkRkOP0PXfE 
+Video length: 	621.8 sec 
+Set (V): 		dev 
+ 
+Patrick_Wilson/MkRkOP0PXfE_0000001 26.4 31.0 
+Patrick_Wilson/MkRkOP0PXfE_0000002 31.2 35.1 
+Patrick_Wilson/MkRkOP0PXfE_0000003 48.8 53.7 
+Patrick_Wilson/MkRkOP0PXfE_0000004 26.6 38.0 
+Patrick_Wilson/MkRkOP0PXfE_0000005 40.0 45.1 
+Patrick_Wilson/MkRkOP0PXfE_0000006 48.7 53.6 
+Patrick_Wilson/MkRkOP0PXfE_0000007 61.6 68.2 
+Patrick_Wilson/MkRkOP0PXfE_0000008 82.9 88.4 
+Patrick_Wilson/MkRkOP0PXfE_0000009 102.6 119.6 
+Patrick_Wilson/MkRkOP0PXfE_0000010 122.4 135.5 
+Patrick_Wilson/MkRkOP0PXfE_0000011 135.9 141.7 
+Patrick_Wilson/MkRkOP0PXfE_0000012 161.8 167.1 
+Patrick_Wilson/MkRkOP0PXfE_0000013 173.2 182.2 
+Patrick_Wilson/MkRkOP0PXfE_0000014 205.5 213.4 
+Patrick_Wilson/MkRkOP0PXfE_0000015 218.5 227.6 
+Patrick_Wilson/MkRkOP0PXfE_0000016 229.8 234.1 
+Patrick_Wilson/MkRkOP0PXfE_0000017 241.0 255.2 
+Patrick_Wilson/MkRkOP0PXfE_0000018 256.8 262.9 
+Patrick_Wilson/MkRkOP0PXfE_0000019 270.1 274.6 
+Patrick_Wilson/MkRkOP0PXfE_0000020 290.6 303.4 
+Patrick_Wilson/MkRkOP0PXfE_0000021 307.4 313.9 
+Patrick_Wilson/MkRkOP0PXfE_0000022 316.1 324.3 
+Patrick_Wilson/MkRkOP0PXfE_0000023 325.3 351.0 
+Patrick_Wilson/MkRkOP0PXfE_0000024 357.0 364.1 
+Patrick_Wilson/MkRkOP0PXfE_0000025 391.2 399.8 
+Patrick_Wilson/MkRkOP0PXfE_0000026 403.0 409.8 
+Patrick_Wilson/MkRkOP0PXfE_0000027 410.1 416.9 
+Patrick_Wilson/MkRkOP0PXfE_0000028 417.1 421.8 
+Patrick_Wilson/MkRkOP0PXfE_0000029 423.8 430.5 
+Patrick_Wilson/MkRkOP0PXfE_0000030 436.4 440.5 
+Patrick_Wilson/MkRkOP0PXfE_0000031 445.1 453.0 
+Patrick_Wilson/MkRkOP0PXfE_0000032 453.1 464.4 
+Patrick_Wilson/MkRkOP0PXfE_0000033 465.6 470.0 
+Patrick_Wilson/MkRkOP0PXfE_0000034 479.1 485.4 
+Patrick_Wilson/MkRkOP0PXfE_0000035 488.6 497.0 
+Patrick_Wilson/MkRkOP0PXfE_0000036 497.9 511.6 
+Patrick_Wilson/MkRkOP0PXfE_0000037 512.6 518.6 

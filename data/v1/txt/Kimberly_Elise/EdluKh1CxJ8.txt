@@ -1,0 +1,13 @@
+POI: 			Kimberly_Elise 
+Youtube ID: 	EdluKh1CxJ8 
+Video length: 	384.4 sec 
+Set (V): 		dev 
+ 
+Kimberly_Elise/EdluKh1CxJ8_0000001 43.2 49.2 
+Kimberly_Elise/EdluKh1CxJ8_0000002 100.8 105.8 
+Kimberly_Elise/EdluKh1CxJ8_0000003 188.8 193.8 
+Kimberly_Elise/EdluKh1CxJ8_0000004 237.3 241.9 
+Kimberly_Elise/EdluKh1CxJ8_0000005 252.3 257.0 
+Kimberly_Elise/EdluKh1CxJ8_0000006 310.9 314.9 
+Kimberly_Elise/EdluKh1CxJ8_0000007 361.8 369.7 
+Kimberly_Elise/EdluKh1CxJ8_0000008 372.2 376.7 

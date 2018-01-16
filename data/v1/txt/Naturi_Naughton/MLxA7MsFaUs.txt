@@ -1,0 +1,7 @@
+POI: 			Naturi_Naughton 
+Youtube ID: 	MLxA7MsFaUs 
+Video length: 	86.1 sec 
+Set (V): 		dev 
+ 
+Naturi_Naughton/MLxA7MsFaUs_0000001 57.1 68.0 
+Naturi_Naughton/MLxA7MsFaUs_0000002 68.1 78.1 

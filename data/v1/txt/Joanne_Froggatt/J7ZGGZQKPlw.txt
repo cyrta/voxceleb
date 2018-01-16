@@ -1,0 +1,12 @@
+POI: 			Joanne_Froggatt 
+Youtube ID: 	J7ZGGZQKPlw 
+Video length: 	263.1 sec 
+Set (V): 		dev 
+ 
+Joanne_Froggatt/J7ZGGZQKPlw_0000001 18.5 27.6 
+Joanne_Froggatt/J7ZGGZQKPlw_0000002 32.2 42.2 
+Joanne_Froggatt/J7ZGGZQKPlw_0000003 128.2 136.2 
+Joanne_Froggatt/J7ZGGZQKPlw_0000004 206.9 211.3 
+Joanne_Froggatt/J7ZGGZQKPlw_0000005 229.7 234.8 
+Joanne_Froggatt/J7ZGGZQKPlw_0000006 235.9 244.0 
+Joanne_Froggatt/J7ZGGZQKPlw_0000007 247.6 253.5 

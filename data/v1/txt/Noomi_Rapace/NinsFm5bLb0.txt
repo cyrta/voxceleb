@@ -1,0 +1,17 @@
+POI: 			Noomi_Rapace 
+Youtube ID: 	NinsFm5bLb0 
+Video length: 	319.2 sec 
+Set (V): 		dev 
+ 
+Noomi_Rapace/NinsFm5bLb0_0000001 13.4 18.3 
+Noomi_Rapace/NinsFm5bLb0_0000002 29.4 33.3 
+Noomi_Rapace/NinsFm5bLb0_0000003 51.5 61.6 
+Noomi_Rapace/NinsFm5bLb0_0000004 72.7 79.1 
+Noomi_Rapace/NinsFm5bLb0_0000005 85.2 91.1 
+Noomi_Rapace/NinsFm5bLb0_0000006 105.3 114.2 
+Noomi_Rapace/NinsFm5bLb0_0000007 148.9 155.6 
+Noomi_Rapace/NinsFm5bLb0_0000008 165.5 177.0 
+Noomi_Rapace/NinsFm5bLb0_0000009 197.2 208.4 
+Noomi_Rapace/NinsFm5bLb0_0000010 242.8 248.0 
+Noomi_Rapace/NinsFm5bLb0_0000011 251.0 263.7 
+Noomi_Rapace/NinsFm5bLb0_0000012 282.6 287.1 

@@ -1,0 +1,16 @@
+POI: 			Tom_Ford 
+Youtube ID: 	QciXKo1an_A 
+Video length: 	259.2 sec 
+Set (V): 		dev 
+ 
+Tom_Ford/QciXKo1an_A_0000001 23.3 39.7 
+Tom_Ford/QciXKo1an_A_0000002 61.7 71.0 
+Tom_Ford/QciXKo1an_A_0000003 74.3 86.9 
+Tom_Ford/QciXKo1an_A_0000004 90.9 102.6 
+Tom_Ford/QciXKo1an_A_0000005 117.2 125.3 
+Tom_Ford/QciXKo1an_A_0000006 125.6 130.6 
+Tom_Ford/QciXKo1an_A_0000007 136.8 143.6 
+Tom_Ford/QciXKo1an_A_0000008 146.7 156.3 
+Tom_Ford/QciXKo1an_A_0000009 158.9 163.6 
+Tom_Ford/QciXKo1an_A_0000010 195.6 203.2 
+Tom_Ford/QciXKo1an_A_0000011 217.0 225.8 

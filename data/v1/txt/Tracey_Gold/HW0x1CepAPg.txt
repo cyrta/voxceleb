@@ -1,0 +1,8 @@
+POI: 			Tracey_Gold 
+Youtube ID: 	HW0x1CepAPg 
+Video length: 	283.3 sec 
+Set (V): 		dev 
+ 
+Tracey_Gold/HW0x1CepAPg_0000001 103.6 109.9 
+Tracey_Gold/HW0x1CepAPg_0000002 226.6 248.4 
+Tracey_Gold/HW0x1CepAPg_0000003 250.7 261.5 

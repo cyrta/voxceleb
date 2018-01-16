@@ -1,0 +1,9 @@
+POI: 			Maria_Bamford 
+Youtube ID: 	2ivSf0-QQfw 
+Video length: 	484.8 sec 
+Set (V): 		dev 
+ 
+Maria_Bamford/2ivSf0-QQfw_0000001 33.9 38.1 
+Maria_Bamford/2ivSf0-QQfw_0000002 50.6 57.2 
+Maria_Bamford/2ivSf0-QQfw_0000003 238.2 243.0 
+Maria_Bamford/2ivSf0-QQfw_0000004 300.0 304.3 

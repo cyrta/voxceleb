@@ -1,0 +1,13 @@
+POI: 			Jim_Caviezel 
+Youtube ID: 	M4moybqeIbI 
+Video length: 	329.9 sec 
+Set (V): 		dev 
+ 
+Jim_Caviezel/M4moybqeIbI_0000001 115.1 119.4 
+Jim_Caviezel/M4moybqeIbI_0000002 125.7 133.0 
+Jim_Caviezel/M4moybqeIbI_0000003 133.2 154.0 
+Jim_Caviezel/M4moybqeIbI_0000004 202.3 207.5 
+Jim_Caviezel/M4moybqeIbI_0000005 224.4 229.7 
+Jim_Caviezel/M4moybqeIbI_0000006 234.2 239.2 
+Jim_Caviezel/M4moybqeIbI_0000007 241.8 256.3 
+Jim_Caviezel/M4moybqeIbI_0000008 258.6 265.8 

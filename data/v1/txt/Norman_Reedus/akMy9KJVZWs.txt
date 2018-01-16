@@ -1,0 +1,9 @@
+POI: 			Norman_Reedus 
+Youtube ID: 	akMy9KJVZWs 
+Video length: 	154.0 sec 
+Set (V): 		dev 
+ 
+Norman_Reedus/akMy9KJVZWs_0000001 32.4 37.6 
+Norman_Reedus/akMy9KJVZWs_0000002 56.1 60.8 
+Norman_Reedus/akMy9KJVZWs_0000003 94.1 99.6 
+Norman_Reedus/akMy9KJVZWs_0000004 139.2 144.8 

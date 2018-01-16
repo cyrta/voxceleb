@@ -1,0 +1,35 @@
+POI: 			Costas_Mandylor 
+Youtube ID: 	DX8iZlTAv0E 
+Video length: 	588.3 sec 
+Set (V): 		dev 
+ 
+Costas_Mandylor/DX8iZlTAv0E_0000001 10.4 27.8 
+Costas_Mandylor/DX8iZlTAv0E_0000002 78.4 82.4 
+Costas_Mandylor/DX8iZlTAv0E_0000003 93.2 106.6 
+Costas_Mandylor/DX8iZlTAv0E_0000004 106.8 125.6 
+Costas_Mandylor/DX8iZlTAv0E_0000005 145.5 151.9 
+Costas_Mandylor/DX8iZlTAv0E_0000006 152.8 158.6 
+Costas_Mandylor/DX8iZlTAv0E_0000007 159.1 170.2 
+Costas_Mandylor/DX8iZlTAv0E_0000008 174.2 178.2 
+Costas_Mandylor/DX8iZlTAv0E_0000009 184.3 190.4 
+Costas_Mandylor/DX8iZlTAv0E_0000010 205.7 215.9 
+Costas_Mandylor/DX8iZlTAv0E_0000011 236.4 247.2 
+Costas_Mandylor/DX8iZlTAv0E_0000012 247.6 257.2 
+Costas_Mandylor/DX8iZlTAv0E_0000013 262.3 282.6 
+Costas_Mandylor/DX8iZlTAv0E_0000014 283.5 287.7 
+Costas_Mandylor/DX8iZlTAv0E_0000015 288.0 294.4 
+Costas_Mandylor/DX8iZlTAv0E_0000016 294.1 298.9 
+Costas_Mandylor/DX8iZlTAv0E_0000017 306.9 312.7 
+Costas_Mandylor/DX8iZlTAv0E_0000018 316.4 322.4 
+Costas_Mandylor/DX8iZlTAv0E_0000019 328.5 340.4 
+Costas_Mandylor/DX8iZlTAv0E_0000020 340.9 350.3 
+Costas_Mandylor/DX8iZlTAv0E_0000021 355.3 363.0 
+Costas_Mandylor/DX8iZlTAv0E_0000022 403.3 409.6 
+Costas_Mandylor/DX8iZlTAv0E_0000023 417.3 425.3 
+Costas_Mandylor/DX8iZlTAv0E_0000024 462.2 469.8 
+Costas_Mandylor/DX8iZlTAv0E_0000025 483.6 488.0 
+Costas_Mandylor/DX8iZlTAv0E_0000026 489.9 494.5 
+Costas_Mandylor/DX8iZlTAv0E_0000027 495.4 501.2 
+Costas_Mandylor/DX8iZlTAv0E_0000028 516.0 523.8 
+Costas_Mandylor/DX8iZlTAv0E_0000029 545.2 549.8 
+Costas_Mandylor/DX8iZlTAv0E_0000030 575.8 586.8 

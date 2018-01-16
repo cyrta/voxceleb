@@ -1,0 +1,7 @@
+POI: 			Katharine_McPhee 
+Youtube ID: 	1WbhLl6a3kc 
+Video length: 	106.6 sec 
+Set (V): 		dev 
+ 
+Katharine_McPhee/1WbhLl6a3kc_0000001 24.4 41.6 
+Katharine_McPhee/1WbhLl6a3kc_0000002 47.6 58.5 

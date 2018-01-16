@@ -1,0 +1,16 @@
+POI: 			Derek_Mears 
+Youtube ID: 	QKt-HgXtwxo 
+Video length: 	272.8 sec 
+Set (V): 		dev 
+ 
+Derek_Mears/QKt-HgXtwxo_0000001 12.4 20.8 
+Derek_Mears/QKt-HgXtwxo_0000002 27.2 38.3 
+Derek_Mears/QKt-HgXtwxo_0000003 61.8 72.4 
+Derek_Mears/QKt-HgXtwxo_0000004 87.3 91.8 
+Derek_Mears/QKt-HgXtwxo_0000005 136.5 142.2 
+Derek_Mears/QKt-HgXtwxo_0000006 160.4 167.7 
+Derek_Mears/QKt-HgXtwxo_0000007 168.1 187.0 
+Derek_Mears/QKt-HgXtwxo_0000008 222.8 229.5 
+Derek_Mears/QKt-HgXtwxo_0000009 233.2 237.5 
+Derek_Mears/QKt-HgXtwxo_0000010 245.6 251.1 
+Derek_Mears/QKt-HgXtwxo_0000011 258.8 263.8 

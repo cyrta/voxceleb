@@ -1,0 +1,9 @@
+POI: 			Abigail_Spencer 
+Youtube ID: 	dL5jx3GLNxU 
+Video length: 	253.3 sec 
+Set (V): 		dev 
+ 
+Abigail_Spencer/dL5jx3GLNxU_0000001 73.8 79.0 
+Abigail_Spencer/dL5jx3GLNxU_0000002 94.1 105.1 
+Abigail_Spencer/dL5jx3GLNxU_0000003 195.9 200.4 
+Abigail_Spencer/dL5jx3GLNxU_0000004 210.6 220.5 

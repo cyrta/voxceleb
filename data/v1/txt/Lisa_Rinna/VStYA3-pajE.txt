@@ -1,0 +1,7 @@
+POI: 			Lisa_Rinna 
+Youtube ID: 	VStYA3-pajE 
+Video length: 	84.4 sec 
+Set (V): 		dev 
+ 
+Lisa_Rinna/VStYA3-pajE_0000001 41.3 48.8 
+Lisa_Rinna/VStYA3-pajE_0000002 63.1 67.5 

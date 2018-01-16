@@ -1,0 +1,13 @@
+POI: 			Om_Puri 
+Youtube ID: 	c6Cocv8uMxQ 
+Video length: 	222.2 sec 
+Set (V): 		dev 
+ 
+Om_Puri/c6Cocv8uMxQ_0000001 72.0 76.8 
+Om_Puri/c6Cocv8uMxQ_0000002 82.4 86.6 
+Om_Puri/c6Cocv8uMxQ_0000003 115.4 126.7 
+Om_Puri/c6Cocv8uMxQ_0000004 135.5 141.3 
+Om_Puri/c6Cocv8uMxQ_0000005 155.0 158.9 
+Om_Puri/c6Cocv8uMxQ_0000006 163.5 167.6 
+Om_Puri/c6Cocv8uMxQ_0000007 198.0 202.0 
+Om_Puri/c6Cocv8uMxQ_0000008 208.1 215.8 

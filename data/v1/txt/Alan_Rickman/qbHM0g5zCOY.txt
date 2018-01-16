@@ -1,0 +1,19 @@
+POI: 			Alan_Rickman 
+Youtube ID: 	qbHM0g5zCOY 
+Video length: 	371.1 sec 
+Set (V): 		dev 
+ 
+Alan_Rickman/qbHM0g5zCOY_0000001 45.2 50.5 
+Alan_Rickman/qbHM0g5zCOY_0000002 65.5 74.5 
+Alan_Rickman/qbHM0g5zCOY_0000003 84.6 92.1 
+Alan_Rickman/qbHM0g5zCOY_0000004 128.5 132.8 
+Alan_Rickman/qbHM0g5zCOY_0000005 143.1 147.8 
+Alan_Rickman/qbHM0g5zCOY_0000006 148.2 152.6 
+Alan_Rickman/qbHM0g5zCOY_0000007 157.4 163.7 
+Alan_Rickman/qbHM0g5zCOY_0000008 166.0 173.4 
+Alan_Rickman/qbHM0g5zCOY_0000009 183.0 200.0 
+Alan_Rickman/qbHM0g5zCOY_0000010 214.2 219.1 
+Alan_Rickman/qbHM0g5zCOY_0000011 237.1 242.5 
+Alan_Rickman/qbHM0g5zCOY_0000012 243.7 254.3 
+Alan_Rickman/qbHM0g5zCOY_0000013 291.1 315.0 
+Alan_Rickman/qbHM0g5zCOY_0000014 325.4 330.7 

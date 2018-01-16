@@ -1,0 +1,16 @@
+POI: 			David_Wenham 
+Youtube ID: 	H1cOv_RNRlU 
+Video length: 	315.2 sec 
+Set (V): 		dev 
+ 
+David_Wenham/H1cOv_RNRlU_0000001 10.2 16.8 
+David_Wenham/H1cOv_RNRlU_0000002 42.0 47.6 
+David_Wenham/H1cOv_RNRlU_0000003 52.8 65.1 
+David_Wenham/H1cOv_RNRlU_0000004 85.4 91.9 
+David_Wenham/H1cOv_RNRlU_0000005 94.4 101.6 
+David_Wenham/H1cOv_RNRlU_0000006 127.0 140.6 
+David_Wenham/H1cOv_RNRlU_0000007 127.5 138.2 
+David_Wenham/H1cOv_RNRlU_0000008 182.8 191.0 
+David_Wenham/H1cOv_RNRlU_0000009 193.9 201.7 
+David_Wenham/H1cOv_RNRlU_0000010 207.2 212.6 
+David_Wenham/H1cOv_RNRlU_0000011 271.3 277.4 

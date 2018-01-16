@@ -1,0 +1,13 @@
+POI: 			Jim_Sturgess 
+Youtube ID: 	PTTn3X6dtSE 
+Video length: 	352.8 sec 
+Set (V): 		dev 
+ 
+Jim_Sturgess/PTTn3X6dtSE_0000001 26.5 30.8 
+Jim_Sturgess/PTTn3X6dtSE_0000002 85.5 96.5 
+Jim_Sturgess/PTTn3X6dtSE_0000003 106.0 112.2 
+Jim_Sturgess/PTTn3X6dtSE_0000004 200.8 206.4 
+Jim_Sturgess/PTTn3X6dtSE_0000005 215.6 221.1 
+Jim_Sturgess/PTTn3X6dtSE_0000006 242.9 250.2 
+Jim_Sturgess/PTTn3X6dtSE_0000007 265.8 270.5 
+Jim_Sturgess/PTTn3X6dtSE_0000008 333.1 338.2 

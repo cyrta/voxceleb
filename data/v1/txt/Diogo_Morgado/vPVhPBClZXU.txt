@@ -1,0 +1,9 @@
+POI: 			Diogo_Morgado 
+Youtube ID: 	vPVhPBClZXU 
+Video length: 	513.4 sec 
+Set (V): 		dev 
+ 
+Diogo_Morgado/vPVhPBClZXU_0000001 50.6 55.4 
+Diogo_Morgado/vPVhPBClZXU_0000002 181.4 191.6 
+Diogo_Morgado/vPVhPBClZXU_0000003 192.6 198.2 
+Diogo_Morgado/vPVhPBClZXU_0000004 205.4 229.6 

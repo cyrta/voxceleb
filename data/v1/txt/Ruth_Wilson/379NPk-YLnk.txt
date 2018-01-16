@@ -1,0 +1,7 @@
+POI: 			Ruth_Wilson 
+Youtube ID: 	379NPk-YLnk 
+Video length: 	219.3 sec 
+Set (V): 		dev 
+ 
+Ruth_Wilson/379NPk-YLnk_0000001 35.1 39.5 
+Ruth_Wilson/379NPk-YLnk_0000002 126.0 135.4 

@@ -1,0 +1,10 @@
+POI: 			Jasmine_Guy 
+Youtube ID: 	7rxO0iOfu5s 
+Video length: 	900.1 sec 
+Set (V): 		dev 
+ 
+Jasmine_Guy/7rxO0iOfu5s_0000001 144.4 149.2 
+Jasmine_Guy/7rxO0iOfu5s_0000002 264.9 270.4 
+Jasmine_Guy/7rxO0iOfu5s_0000003 280.4 288.2 
+Jasmine_Guy/7rxO0iOfu5s_0000004 509.4 515.5 
+Jasmine_Guy/7rxO0iOfu5s_0000005 658.3 665.4 

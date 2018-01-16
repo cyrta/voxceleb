@@ -1,0 +1,11 @@
+POI: 			Chris_Messina 
+Youtube ID: 	v69H4jE4nhA 
+Video length: 	86.6 sec 
+Set (V): 		dev 
+ 
+Chris_Messina/v69H4jE4nhA_0000001 14.9 18.9 
+Chris_Messina/v69H4jE4nhA_0000002 22.5 26.8 
+Chris_Messina/v69H4jE4nhA_0000003 27.0 37.2 
+Chris_Messina/v69H4jE4nhA_0000004 47.6 66.7 
+Chris_Messina/v69H4jE4nhA_0000005 67.3 76.6 
+Chris_Messina/v69H4jE4nhA_0000006 77.0 83.6 

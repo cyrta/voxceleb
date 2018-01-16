@@ -1,0 +1,9 @@
+POI: 			Robert_Vaughn 
+Youtube ID: 	Y-3wMLipB0U 
+Video length: 	175.8 sec 
+Set (V): 		dev 
+ 
+Robert_Vaughn/Y-3wMLipB0U_0000001 10.9 15.4 
+Robert_Vaughn/Y-3wMLipB0U_0000002 114.0 136.5 
+Robert_Vaughn/Y-3wMLipB0U_0000003 137.5 145.1 
+Robert_Vaughn/Y-3wMLipB0U_0000004 147.3 166.4 

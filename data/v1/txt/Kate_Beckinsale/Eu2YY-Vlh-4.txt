@@ -1,0 +1,8 @@
+POI: 			Kate_Beckinsale 
+Youtube ID: 	Eu2YY-Vlh-4 
+Video length: 	332.4 sec 
+Set (V): 		dev 
+ 
+Kate_Beckinsale/Eu2YY-Vlh-4_0000001 12.9 24.9 
+Kate_Beckinsale/Eu2YY-Vlh-4_0000002 46.2 52.1 
+Kate_Beckinsale/Eu2YY-Vlh-4_0000003 61.5 68.4 

@@ -1,0 +1,11 @@
+POI: 			Serinda_Swan 
+Youtube ID: 	vjdSzC8p1JU 
+Video length: 	317.8 sec 
+Set (V): 		dev 
+ 
+Serinda_Swan/vjdSzC8p1JU_0000001 56.8 61.0 
+Serinda_Swan/vjdSzC8p1JU_0000002 85.8 94.2 
+Serinda_Swan/vjdSzC8p1JU_0000003 129.6 137.4 
+Serinda_Swan/vjdSzC8p1JU_0000004 177.6 188.5 
+Serinda_Swan/vjdSzC8p1JU_0000005 209.6 219.0 
+Serinda_Swan/vjdSzC8p1JU_0000006 248.8 253.2 

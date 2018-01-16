@@ -1,0 +1,12 @@
+POI: 			Alexa_Davalos 
+Youtube ID: 	AqrOntSB71E 
+Video length: 	297.2 sec 
+Set (V): 		dev 
+ 
+Alexa_Davalos/AqrOntSB71E_0000001 11.1 17.6 
+Alexa_Davalos/AqrOntSB71E_0000002 20.5 26.8 
+Alexa_Davalos/AqrOntSB71E_0000003 155.5 160.2 
+Alexa_Davalos/AqrOntSB71E_0000004 166.8 184.1 
+Alexa_Davalos/AqrOntSB71E_0000005 191.0 195.2 
+Alexa_Davalos/AqrOntSB71E_0000006 211.9 218.6 
+Alexa_Davalos/AqrOntSB71E_0000007 220.8 231.9 

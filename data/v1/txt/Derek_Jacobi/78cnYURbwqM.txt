@@ -1,0 +1,13 @@
+POI: 			Derek_Jacobi 
+Youtube ID: 	78cnYURbwqM 
+Video length: 	293.3 sec 
+Set (V): 		dev 
+ 
+Derek_Jacobi/78cnYURbwqM_0000001 89.5 99.6 
+Derek_Jacobi/78cnYURbwqM_0000002 94.7 99.7 
+Derek_Jacobi/78cnYURbwqM_0000003 105.0 109.3 
+Derek_Jacobi/78cnYURbwqM_0000004 112.6 123.4 
+Derek_Jacobi/78cnYURbwqM_0000005 148.3 159.3 
+Derek_Jacobi/78cnYURbwqM_0000006 195.9 219.0 
+Derek_Jacobi/78cnYURbwqM_0000007 219.2 239.2 
+Derek_Jacobi/78cnYURbwqM_0000008 243.8 261.2 

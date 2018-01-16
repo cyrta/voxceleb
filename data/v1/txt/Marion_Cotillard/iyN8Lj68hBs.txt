@@ -1,0 +1,11 @@
+POI: 			Marion_Cotillard 
+Youtube ID: 	iyN8Lj68hBs 
+Video length: 	577.7 sec 
+Set (V): 		dev 
+ 
+Marion_Cotillard/iyN8Lj68hBs_0000001 87.2 93.9 
+Marion_Cotillard/iyN8Lj68hBs_0000002 97.4 104.2 
+Marion_Cotillard/iyN8Lj68hBs_0000003 202.4 206.9 
+Marion_Cotillard/iyN8Lj68hBs_0000004 331.4 338.8 
+Marion_Cotillard/iyN8Lj68hBs_0000005 417.1 422.0 
+Marion_Cotillard/iyN8Lj68hBs_0000006 533.8 541.3 

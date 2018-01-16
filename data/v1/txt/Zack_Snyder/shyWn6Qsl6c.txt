@@ -1,0 +1,27 @@
+POI: 			Zack_Snyder 
+Youtube ID: 	shyWn6Qsl6c 
+Video length: 	277.2 sec 
+Set (V): 		dev 
+ 
+Zack_Snyder/shyWn6Qsl6c_0000001 44.3 51.6 
+Zack_Snyder/shyWn6Qsl6c_0000002 58.0 62.4 
+Zack_Snyder/shyWn6Qsl6c_0000003 64.2 71.7 
+Zack_Snyder/shyWn6Qsl6c_0000004 78.4 84.9 
+Zack_Snyder/shyWn6Qsl6c_0000005 101.9 107.0 
+Zack_Snyder/shyWn6Qsl6c_0000006 108.9 116.8 
+Zack_Snyder/shyWn6Qsl6c_0000007 64.7 71.8 
+Zack_Snyder/shyWn6Qsl6c_0000008 75.8 88.6 
+Zack_Snyder/shyWn6Qsl6c_0000009 101.4 107.1 
+Zack_Snyder/shyWn6Qsl6c_0000010 108.9 115.9 
+Zack_Snyder/shyWn6Qsl6c_0000011 143.6 151.0 
+Zack_Snyder/shyWn6Qsl6c_0000012 151.2 161.2 
+Zack_Snyder/shyWn6Qsl6c_0000013 162.4 168.6 
+Zack_Snyder/shyWn6Qsl6c_0000014 177.6 185.5 
+Zack_Snyder/shyWn6Qsl6c_0000015 186.8 191.6 
+Zack_Snyder/shyWn6Qsl6c_0000016 200.5 208.4 
+Zack_Snyder/shyWn6Qsl6c_0000017 212.4 220.1 
+Zack_Snyder/shyWn6Qsl6c_0000018 222.0 227.8 
+Zack_Snyder/shyWn6Qsl6c_0000019 231.4 248.9 
+Zack_Snyder/shyWn6Qsl6c_0000020 249.2 256.4 
+Zack_Snyder/shyWn6Qsl6c_0000021 258.3 268.9 
+Zack_Snyder/shyWn6Qsl6c_0000022 269.9 273.9 

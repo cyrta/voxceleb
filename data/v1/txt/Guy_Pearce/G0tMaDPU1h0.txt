@@ -1,0 +1,9 @@
+POI: 			Guy_Pearce 
+Youtube ID: 	G0tMaDPU1h0 
+Video length: 	409.7 sec 
+Set (V): 		dev 
+ 
+Guy_Pearce/G0tMaDPU1h0_0000001 13.2 23.8 
+Guy_Pearce/G0tMaDPU1h0_0000002 24.8 30.2 
+Guy_Pearce/G0tMaDPU1h0_0000003 131.5 136.0 
+Guy_Pearce/G0tMaDPU1h0_0000004 172.4 185.4 

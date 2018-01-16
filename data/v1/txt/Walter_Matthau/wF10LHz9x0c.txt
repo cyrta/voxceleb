@@ -1,0 +1,11 @@
+POI: 			Walter_Matthau 
+Youtube ID: 	wF10LHz9x0c 
+Video length: 	341.0 sec 
+Set (V): 		dev 
+ 
+Walter_Matthau/wF10LHz9x0c_0000001 11.2 20.4 
+Walter_Matthau/wF10LHz9x0c_0000002 24.9 30.4 
+Walter_Matthau/wF10LHz9x0c_0000003 27.8 33.7 
+Walter_Matthau/wF10LHz9x0c_0000004 132.8 140.9 
+Walter_Matthau/wF10LHz9x0c_0000005 267.5 274.1 
+Walter_Matthau/wF10LHz9x0c_0000006 321.9 325.9 

@@ -1,0 +1,10 @@
+POI: 			Isla_Fisher 
+Youtube ID: 	0aczLiqz_60 
+Video length: 	223.4 sec 
+Set (V): 		dev 
+ 
+Isla_Fisher/0aczLiqz_60_0000001 108.6 115.9 
+Isla_Fisher/0aczLiqz_60_0000002 119.6 127.3 
+Isla_Fisher/0aczLiqz_60_0000003 176.4 194.2 
+Isla_Fisher/0aczLiqz_60_0000004 194.4 199.2 
+Isla_Fisher/0aczLiqz_60_0000005 199.7 206.1 

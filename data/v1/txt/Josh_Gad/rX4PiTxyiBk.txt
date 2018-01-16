@@ -1,0 +1,7 @@
+POI: 			Josh_Gad 
+Youtube ID: 	rX4PiTxyiBk 
+Video length: 	303.0 sec 
+Set (V): 		dev 
+ 
+Josh_Gad/rX4PiTxyiBk_0000001 175.1 180.0 
+Josh_Gad/rX4PiTxyiBk_0000002 246.4 261.0 

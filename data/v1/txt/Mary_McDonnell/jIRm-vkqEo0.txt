@@ -1,0 +1,8 @@
+POI: 			Mary_McDonnell 
+Youtube ID: 	jIRm-vkqEo0 
+Video length: 	188.0 sec 
+Set (V): 		dev 
+ 
+Mary_McDonnell/jIRm-vkqEo0_0000001 08.0 12.2 
+Mary_McDonnell/jIRm-vkqEo0_0000002 43.5 52.6 
+Mary_McDonnell/jIRm-vkqEo0_0000003 164.4 170.2 

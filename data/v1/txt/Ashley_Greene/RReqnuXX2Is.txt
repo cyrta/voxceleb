@@ -1,0 +1,12 @@
+POI: 			Ashley_Greene 
+Youtube ID: 	RReqnuXX2Is 
+Video length: 	355.9 sec 
+Set (V): 		dev 
+ 
+Ashley_Greene/RReqnuXX2Is_0000001 55.4 70.9 
+Ashley_Greene/RReqnuXX2Is_0000002 147.6 160.0 
+Ashley_Greene/RReqnuXX2Is_0000003 160.1 164.6 
+Ashley_Greene/RReqnuXX2Is_0000004 206.6 219.0 
+Ashley_Greene/RReqnuXX2Is_0000005 220.0 226.4 
+Ashley_Greene/RReqnuXX2Is_0000006 238.5 242.5 
+Ashley_Greene/RReqnuXX2Is_0000007 284.4 292.4 

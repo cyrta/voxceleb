@@ -1,0 +1,7 @@
+POI: 			Jack_Griffo 
+Youtube ID: 	WyhPlXQ0fIc 
+Video length: 	162.3 sec 
+Set (V): 		dev 
+ 
+Jack_Griffo/WyhPlXQ0fIc_0000001 13.9 18.7 
+Jack_Griffo/WyhPlXQ0fIc_0000002 75.5 81.4 

@@ -1,0 +1,7 @@
+POI: 			Lolo_Jones 
+Youtube ID: 	h_SRO9mpt4Y 
+Video length: 	148.7 sec 
+Set (V): 		dev 
+ 
+Lolo_Jones/h_SRO9mpt4Y_0000001 52.2 57.2 
+Lolo_Jones/h_SRO9mpt4Y_0000002 110.4 114.5 

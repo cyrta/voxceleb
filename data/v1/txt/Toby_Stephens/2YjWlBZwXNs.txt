@@ -1,0 +1,11 @@
+POI: 			Toby_Stephens 
+Youtube ID: 	2YjWlBZwXNs 
+Video length: 	117.1 sec 
+Set (V): 		dev 
+ 
+Toby_Stephens/2YjWlBZwXNs_0000001 41.2 45.8 
+Toby_Stephens/2YjWlBZwXNs_0000002 56.0 60.0 
+Toby_Stephens/2YjWlBZwXNs_0000003 67.2 72.1 
+Toby_Stephens/2YjWlBZwXNs_0000004 72.5 81.9 
+Toby_Stephens/2YjWlBZwXNs_0000005 85.1 90.1 
+Toby_Stephens/2YjWlBZwXNs_0000006 93.2 97.4 

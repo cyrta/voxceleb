@@ -1,0 +1,8 @@
+POI: 			Rico_Rodriguez 
+Youtube ID: 	008ZEVovmQo 
+Video length: 	91.1 sec 
+Set (V): 		dev 
+ 
+Rico_Rodriguez/008ZEVovmQo_0000001 27.0 31.1 
+Rico_Rodriguez/008ZEVovmQo_0000002 31.4 36.4 
+Rico_Rodriguez/008ZEVovmQo_0000003 60.0 74.2 

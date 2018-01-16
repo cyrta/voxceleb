@@ -1,0 +1,9 @@
+POI: 			Diablo_Cody 
+Youtube ID: 	XJNNa61hy5g 
+Video length: 	153.6 sec 
+Set (V): 		dev 
+ 
+Diablo_Cody/XJNNa61hy5g_0000001 09.4 13.4 
+Diablo_Cody/XJNNa61hy5g_0000002 78.5 95.2 
+Diablo_Cody/XJNNa61hy5g_0000003 104.0 110.5 
+Diablo_Cody/XJNNa61hy5g_0000004 132.4 139.2 

@@ -1,0 +1,17 @@
+POI: 			Eva_Longoria 
+Youtube ID: 	c_aEjTGGhZ4 
+Video length: 	306.2 sec 
+Set (V): 		test 
+ 
+Eva_Longoria/c_aEjTGGhZ4_0000001 35.0 41.7 
+Eva_Longoria/c_aEjTGGhZ4_0000002 41.9 48.9 
+Eva_Longoria/c_aEjTGGhZ4_0000003 50.2 61.0 
+Eva_Longoria/c_aEjTGGhZ4_0000004 86.6 91.6 
+Eva_Longoria/c_aEjTGGhZ4_0000005 92.1 97.9 
+Eva_Longoria/c_aEjTGGhZ4_0000006 98.7 103.8 
+Eva_Longoria/c_aEjTGGhZ4_0000007 120.7 127.3 
+Eva_Longoria/c_aEjTGGhZ4_0000008 127.4 171.7 
+Eva_Longoria/c_aEjTGGhZ4_0000009 181.8 208.1 
+Eva_Longoria/c_aEjTGGhZ4_0000010 219.3 227.8 
+Eva_Longoria/c_aEjTGGhZ4_0000011 229.0 237.8 
+Eva_Longoria/c_aEjTGGhZ4_0000012 239.8 247.7 

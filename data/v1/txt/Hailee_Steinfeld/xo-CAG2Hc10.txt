@@ -1,0 +1,8 @@
+POI: 			Hailee_Steinfeld 
+Youtube ID: 	xo-CAG2Hc10 
+Video length: 	106.3 sec 
+Set (V): 		dev 
+ 
+Hailee_Steinfeld/xo-CAG2Hc10_0000001 02.1 21.0 
+Hailee_Steinfeld/xo-CAG2Hc10_0000002 27.8 44.9 
+Hailee_Steinfeld/xo-CAG2Hc10_0000003 56.0 61.7 

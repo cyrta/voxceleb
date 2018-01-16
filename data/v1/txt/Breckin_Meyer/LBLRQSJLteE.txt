@@ -1,0 +1,8 @@
+POI: 			Breckin_Meyer 
+Youtube ID: 	LBLRQSJLteE 
+Video length: 	470.3 sec 
+Set (V): 		dev 
+ 
+Breckin_Meyer/LBLRQSJLteE_0000001 299.3 306.2 
+Breckin_Meyer/LBLRQSJLteE_0000002 331.0 338.5 
+Breckin_Meyer/LBLRQSJLteE_0000003 340.2 345.0 

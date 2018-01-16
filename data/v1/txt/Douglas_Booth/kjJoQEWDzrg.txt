@@ -1,0 +1,12 @@
+POI: 			Douglas_Booth 
+Youtube ID: 	kjJoQEWDzrg 
+Video length: 	133.7 sec 
+Set (V): 		dev 
+ 
+Douglas_Booth/kjJoQEWDzrg_0000001 11.2 20.4 
+Douglas_Booth/kjJoQEWDzrg_0000002 25.0 31.8 
+Douglas_Booth/kjJoQEWDzrg_0000003 33.3 41.4 
+Douglas_Booth/kjJoQEWDzrg_0000004 47.0 51.1 
+Douglas_Booth/kjJoQEWDzrg_0000005 52.2 59.9 
+Douglas_Booth/kjJoQEWDzrg_0000006 71.7 77.5 
+Douglas_Booth/kjJoQEWDzrg_0000007 91.6 101.5 

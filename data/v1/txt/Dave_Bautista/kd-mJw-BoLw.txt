@@ -1,0 +1,16 @@
+POI: 			Dave_Bautista 
+Youtube ID: 	kd-mJw-BoLw 
+Video length: 	275.3 sec 
+Set (V): 		dev 
+ 
+Dave_Bautista/kd-mJw-BoLw_0000001 27.3 31.6 
+Dave_Bautista/kd-mJw-BoLw_0000002 32.6 37.6 
+Dave_Bautista/kd-mJw-BoLw_0000003 41.1 45.5 
+Dave_Bautista/kd-mJw-BoLw_0000004 64.5 79.6 
+Dave_Bautista/kd-mJw-BoLw_0000005 115.4 119.8 
+Dave_Bautista/kd-mJw-BoLw_0000006 123.4 131.3 
+Dave_Bautista/kd-mJw-BoLw_0000007 131.4 136.4 
+Dave_Bautista/kd-mJw-BoLw_0000008 150.7 159.4 
+Dave_Bautista/kd-mJw-BoLw_0000009 167.7 171.8 
+Dave_Bautista/kd-mJw-BoLw_0000010 218.0 222.3 
+Dave_Bautista/kd-mJw-BoLw_0000011 256.2 263.7 

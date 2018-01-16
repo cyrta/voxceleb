@@ -1,0 +1,18 @@
+POI: 			Jon_Seda 
+Youtube ID: 	5lozQZ60AUw 
+Video length: 	197.3 sec 
+Set (V): 		dev 
+ 
+Jon_Seda/5lozQZ60AUw_0000001 19.6 28.3 
+Jon_Seda/5lozQZ60AUw_0000002 31.1 37.0 
+Jon_Seda/5lozQZ60AUw_0000003 38.1 42.4 
+Jon_Seda/5lozQZ60AUw_0000004 43.2 50.8 
+Jon_Seda/5lozQZ60AUw_0000005 57.4 63.6 
+Jon_Seda/5lozQZ60AUw_0000006 72.6 86.7 
+Jon_Seda/5lozQZ60AUw_0000007 87.4 100.5 
+Jon_Seda/5lozQZ60AUw_0000008 108.1 114.2 
+Jon_Seda/5lozQZ60AUw_0000009 127.2 132.3 
+Jon_Seda/5lozQZ60AUw_0000010 137.5 143.8 
+Jon_Seda/5lozQZ60AUw_0000011 146.0 157.7 
+Jon_Seda/5lozQZ60AUw_0000012 165.7 176.6 
+Jon_Seda/5lozQZ60AUw_0000013 188.3 192.8 

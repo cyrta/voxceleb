@@ -1,0 +1,8 @@
+POI: 			Taryn_Manning 
+Youtube ID: 	BEPkOP5X2sA 
+Video length: 	127.1 sec 
+Set (V): 		dev 
+ 
+Taryn_Manning/BEPkOP5X2sA_0000001 19.6 28.9 
+Taryn_Manning/BEPkOP5X2sA_0000002 54.1 59.3 
+Taryn_Manning/BEPkOP5X2sA_0000003 73.0 85.6 

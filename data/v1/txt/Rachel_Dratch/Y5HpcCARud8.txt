@@ -1,0 +1,12 @@
+POI: 			Rachel_Dratch 
+Youtube ID: 	Y5HpcCARud8 
+Video length: 	266.9 sec 
+Set (V): 		dev 
+ 
+Rachel_Dratch/Y5HpcCARud8_0000001 38.2 46.7 
+Rachel_Dratch/Y5HpcCARud8_0000002 62.6 72.6 
+Rachel_Dratch/Y5HpcCARud8_0000003 75.0 79.7 
+Rachel_Dratch/Y5HpcCARud8_0000004 100.6 108.8 
+Rachel_Dratch/Y5HpcCARud8_0000005 130.6 148.0 
+Rachel_Dratch/Y5HpcCARud8_0000006 186.2 196.3 
+Rachel_Dratch/Y5HpcCARud8_0000007 211.2 225.5 

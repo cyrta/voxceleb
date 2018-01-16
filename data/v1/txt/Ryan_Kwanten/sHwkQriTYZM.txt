@@ -1,0 +1,8 @@
+POI: 			Ryan_Kwanten 
+Youtube ID: 	sHwkQriTYZM 
+Video length: 	220.9 sec 
+Set (V): 		dev 
+ 
+Ryan_Kwanten/sHwkQriTYZM_0000001 23.0 29.1 
+Ryan_Kwanten/sHwkQriTYZM_0000002 30.0 40.8 
+Ryan_Kwanten/sHwkQriTYZM_0000003 41.8 46.8 

@@ -1,0 +1,7 @@
+POI: 			Sam_Raimi 
+Youtube ID: 	SUJYhh46XP8 
+Video length: 	70.6 sec 
+Set (V): 		dev 
+ 
+Sam_Raimi/SUJYhh46XP8_0000001 24.8 30.0 
+Sam_Raimi/SUJYhh46XP8_0000002 46.3 52.0 

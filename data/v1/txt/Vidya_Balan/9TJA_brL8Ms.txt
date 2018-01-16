@@ -1,0 +1,22 @@
+POI: 			Vidya_Balan 
+Youtube ID: 	9TJA_brL8Ms 
+Video length: 	717.5 sec 
+Set (V): 		dev 
+ 
+Vidya_Balan/9TJA_brL8Ms_0000001 45.8 55.6 
+Vidya_Balan/9TJA_brL8Ms_0000002 65.4 69.5 
+Vidya_Balan/9TJA_brL8Ms_0000003 97.4 102.2 
+Vidya_Balan/9TJA_brL8Ms_0000004 103.0 109.9 
+Vidya_Balan/9TJA_brL8Ms_0000005 122.4 129.2 
+Vidya_Balan/9TJA_brL8Ms_0000006 204.0 208.8 
+Vidya_Balan/9TJA_brL8Ms_0000007 212.3 221.0 
+Vidya_Balan/9TJA_brL8Ms_0000008 229.0 233.0 
+Vidya_Balan/9TJA_brL8Ms_0000009 233.4 238.2 
+Vidya_Balan/9TJA_brL8Ms_0000010 238.9 243.7 
+Vidya_Balan/9TJA_brL8Ms_0000011 250.4 260.3 
+Vidya_Balan/9TJA_brL8Ms_0000012 296.9 302.0 
+Vidya_Balan/9TJA_brL8Ms_0000013 316.5 322.0 
+Vidya_Balan/9TJA_brL8Ms_0000014 324.0 329.4 
+Vidya_Balan/9TJA_brL8Ms_0000015 414.5 419.9 
+Vidya_Balan/9TJA_brL8Ms_0000016 499.6 508.3 
+Vidya_Balan/9TJA_brL8Ms_0000017 618.1 622.8 

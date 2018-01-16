@@ -1,0 +1,23 @@
+POI: 			Laverne_Cox 
+Youtube ID: 	3mgBwCxTRDY 
+Video length: 	525.9 sec 
+Set (V): 		dev 
+ 
+Laverne_Cox/3mgBwCxTRDY_0000001 38.4 61.4 
+Laverne_Cox/3mgBwCxTRDY_0000002 67.2 71.3 
+Laverne_Cox/3mgBwCxTRDY_0000003 86.5 92.6 
+Laverne_Cox/3mgBwCxTRDY_0000004 98.2 103.9 
+Laverne_Cox/3mgBwCxTRDY_0000005 108.3 114.7 
+Laverne_Cox/3mgBwCxTRDY_0000006 140.9 147.8 
+Laverne_Cox/3mgBwCxTRDY_0000007 177.4 204.6 
+Laverne_Cox/3mgBwCxTRDY_0000008 253.0 266.6 
+Laverne_Cox/3mgBwCxTRDY_0000009 261.8 270.4 
+Laverne_Cox/3mgBwCxTRDY_0000010 296.9 307.7 
+Laverne_Cox/3mgBwCxTRDY_0000011 308.6 317.4 
+Laverne_Cox/3mgBwCxTRDY_0000012 370.4 375.4 
+Laverne_Cox/3mgBwCxTRDY_0000013 376.4 401.5 
+Laverne_Cox/3mgBwCxTRDY_0000014 406.6 412.1 
+Laverne_Cox/3mgBwCxTRDY_0000015 444.2 469.7 
+Laverne_Cox/3mgBwCxTRDY_0000016 473.2 483.4 
+Laverne_Cox/3mgBwCxTRDY_0000017 485.5 496.8 
+Laverne_Cox/3mgBwCxTRDY_0000018 497.5 514.4 

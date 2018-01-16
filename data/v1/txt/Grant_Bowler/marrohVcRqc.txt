@@ -1,0 +1,9 @@
+POI: 			Grant_Bowler 
+Youtube ID: 	marrohVcRqc 
+Video length: 	77.1 sec 
+Set (V): 		dev 
+ 
+Grant_Bowler/marrohVcRqc_0000001 20.3 24.4 
+Grant_Bowler/marrohVcRqc_0000002 36.9 41.3 
+Grant_Bowler/marrohVcRqc_0000003 43.0 52.0 
+Grant_Bowler/marrohVcRqc_0000004 52.3 67.9 

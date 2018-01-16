@@ -1,0 +1,7 @@
+POI: 			Rebel_Wilson 
+Youtube ID: 	Wgm1eKa4yZ8 
+Video length: 	223.2 sec 
+Set (V): 		dev 
+ 
+Rebel_Wilson/Wgm1eKa4yZ8_0000001 44.4 50.5 
+Rebel_Wilson/Wgm1eKa4yZ8_0000002 79.5 83.7 

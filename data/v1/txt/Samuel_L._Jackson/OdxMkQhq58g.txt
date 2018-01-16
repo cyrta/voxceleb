@@ -1,0 +1,10 @@
+POI: 			Samuel_L._Jackson 
+Youtube ID: 	OdxMkQhq58g 
+Video length: 	278.1 sec 
+Set (V): 		dev 
+ 
+Samuel_L._Jackson/OdxMkQhq58g_0000001 94.7 99.6 
+Samuel_L._Jackson/OdxMkQhq58g_0000002 149.6 159.6 
+Samuel_L._Jackson/OdxMkQhq58g_0000003 160.4 168.6 
+Samuel_L._Jackson/OdxMkQhq58g_0000004 188.3 192.5 
+Samuel_L._Jackson/OdxMkQhq58g_0000005 221.9 226.5 

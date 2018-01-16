@@ -1,0 +1,8 @@
+POI: 			Sterling_Knight 
+Youtube ID: 	XwjzWXSWoqQ 
+Video length: 	96.2 sec 
+Set (V): 		dev 
+ 
+Sterling_Knight/XwjzWXSWoqQ_0000001 36.3 42.6 
+Sterling_Knight/XwjzWXSWoqQ_0000002 67.3 74.0 
+Sterling_Knight/XwjzWXSWoqQ_0000003 75.1 79.3 

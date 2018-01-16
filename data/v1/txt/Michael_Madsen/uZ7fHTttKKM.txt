@@ -1,0 +1,9 @@
+POI: 			Michael_Madsen 
+Youtube ID: 	uZ7fHTttKKM 
+Video length: 	195.1 sec 
+Set (V): 		dev 
+ 
+Michael_Madsen/uZ7fHTttKKM_0000001 76.1 82.4 
+Michael_Madsen/uZ7fHTttKKM_0000002 82.8 87.6 
+Michael_Madsen/uZ7fHTttKKM_0000003 159.7 164.6 
+Michael_Madsen/uZ7fHTttKKM_0000004 166.0 172.1 

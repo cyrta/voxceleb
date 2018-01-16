@@ -1,0 +1,26 @@
+POI: 			Nichelle_Nichols 
+Youtube ID: 	pvCKmF2zJ2c 
+Video length: 	415.3 sec 
+Set (V): 		dev 
+ 
+Nichelle_Nichols/pvCKmF2zJ2c_0000001 09.6 18.3 
+Nichelle_Nichols/pvCKmF2zJ2c_0000002 25.8 32.2 
+Nichelle_Nichols/pvCKmF2zJ2c_0000003 33.6 40.7 
+Nichelle_Nichols/pvCKmF2zJ2c_0000004 51.8 58.0 
+Nichelle_Nichols/pvCKmF2zJ2c_0000005 61.4 69.0 
+Nichelle_Nichols/pvCKmF2zJ2c_0000006 98.2 102.8 
+Nichelle_Nichols/pvCKmF2zJ2c_0000007 118.2 125.6 
+Nichelle_Nichols/pvCKmF2zJ2c_0000008 126.6 141.0 
+Nichelle_Nichols/pvCKmF2zJ2c_0000009 162.8 167.9 
+Nichelle_Nichols/pvCKmF2zJ2c_0000010 194.3 201.3 
+Nichelle_Nichols/pvCKmF2zJ2c_0000011 207.4 212.1 
+Nichelle_Nichols/pvCKmF2zJ2c_0000012 214.4 220.3 
+Nichelle_Nichols/pvCKmF2zJ2c_0000013 239.0 249.5 
+Nichelle_Nichols/pvCKmF2zJ2c_0000014 268.9 274.3 
+Nichelle_Nichols/pvCKmF2zJ2c_0000015 277.3 288.6 
+Nichelle_Nichols/pvCKmF2zJ2c_0000016 291.7 296.2 
+Nichelle_Nichols/pvCKmF2zJ2c_0000017 305.8 311.1 
+Nichelle_Nichols/pvCKmF2zJ2c_0000018 312.8 325.2 
+Nichelle_Nichols/pvCKmF2zJ2c_0000019 362.8 372.4 
+Nichelle_Nichols/pvCKmF2zJ2c_0000020 381.7 387.6 
+Nichelle_Nichols/pvCKmF2zJ2c_0000021 396.6 404.2 

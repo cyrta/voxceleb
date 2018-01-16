@@ -1,0 +1,15 @@
+POI: 			Robert_Carlyle 
+Youtube ID: 	Qxm16zbou2g 
+Video length: 	399.8 sec 
+Set (V): 		dev 
+ 
+Robert_Carlyle/Qxm16zbou2g_0000001 53.6 62.8 
+Robert_Carlyle/Qxm16zbou2g_0000002 75.8 81.1 
+Robert_Carlyle/Qxm16zbou2g_0000003 148.8 152.8 
+Robert_Carlyle/Qxm16zbou2g_0000004 187.7 192.8 
+Robert_Carlyle/Qxm16zbou2g_0000005 193.8 199.0 
+Robert_Carlyle/Qxm16zbou2g_0000006 227.8 232.8 
+Robert_Carlyle/Qxm16zbou2g_0000007 240.1 244.1 
+Robert_Carlyle/Qxm16zbou2g_0000008 293.4 298.6 
+Robert_Carlyle/Qxm16zbou2g_0000009 308.9 322.5 
+Robert_Carlyle/Qxm16zbou2g_0000010 349.0 353.6 

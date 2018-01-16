@@ -1,0 +1,10 @@
+POI: 			Jon_Seda 
+Youtube ID: 	JCHsH8yaC0o 
+Video length: 	140.4 sec 
+Set (V): 		dev 
+ 
+Jon_Seda/JCHsH8yaC0o_0000001 74.0 81.5 
+Jon_Seda/JCHsH8yaC0o_0000002 84.4 88.8 
+Jon_Seda/JCHsH8yaC0o_0000003 93.4 106.1 
+Jon_Seda/JCHsH8yaC0o_0000004 126.0 130.4 
+Jon_Seda/JCHsH8yaC0o_0000005 133.3 137.8 

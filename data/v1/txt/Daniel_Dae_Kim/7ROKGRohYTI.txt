@@ -1,0 +1,10 @@
+POI: 			Daniel_Dae_Kim 
+Youtube ID: 	7ROKGRohYTI 
+Video length: 	344.6 sec 
+Set (V): 		dev 
+ 
+Daniel_Dae_Kim/7ROKGRohYTI_0000001 52.5 61.0 
+Daniel_Dae_Kim/7ROKGRohYTI_0000002 104.7 122.0 
+Daniel_Dae_Kim/7ROKGRohYTI_0000003 146.8 151.4 
+Daniel_Dae_Kim/7ROKGRohYTI_0000004 159.9 166.5 
+Daniel_Dae_Kim/7ROKGRohYTI_0000005 213.6 218.8 

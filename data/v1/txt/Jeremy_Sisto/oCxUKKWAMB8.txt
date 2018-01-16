@@ -1,0 +1,9 @@
+POI: 			Jeremy_Sisto 
+Youtube ID: 	oCxUKKWAMB8 
+Video length: 	273.8 sec 
+Set (V): 		dev 
+ 
+Jeremy_Sisto/oCxUKKWAMB8_0000001 45.4 51.8 
+Jeremy_Sisto/oCxUKKWAMB8_0000002 52.7 58.9 
+Jeremy_Sisto/oCxUKKWAMB8_0000003 63.7 73.7 
+Jeremy_Sisto/oCxUKKWAMB8_0000004 142.6 147.6 

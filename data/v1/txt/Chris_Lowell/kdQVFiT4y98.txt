@@ -1,0 +1,11 @@
+POI: 			Chris_Lowell 
+Youtube ID: 	kdQVFiT4y98 
+Video length: 	281.8 sec 
+Set (V): 		dev 
+ 
+Chris_Lowell/kdQVFiT4y98_0000001 38.1 43.0 
+Chris_Lowell/kdQVFiT4y98_0000002 62.7 68.3 
+Chris_Lowell/kdQVFiT4y98_0000003 245.8 260.8 
+Chris_Lowell/kdQVFiT4y98_0000004 260.9 280.3 
+Chris_Lowell/kdQVFiT4y98_0000005 37.7 44.3 
+Chris_Lowell/kdQVFiT4y98_0000006 62.7 68.6 

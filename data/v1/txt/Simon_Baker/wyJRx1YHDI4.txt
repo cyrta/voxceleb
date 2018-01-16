@@ -1,0 +1,10 @@
+POI: 			Simon_Baker 
+Youtube ID: 	wyJRx1YHDI4 
+Video length: 	182.0 sec 
+Set (V): 		dev 
+ 
+Simon_Baker/wyJRx1YHDI4_0000001 13.8 18.1 
+Simon_Baker/wyJRx1YHDI4_0000002 35.1 41.1 
+Simon_Baker/wyJRx1YHDI4_0000003 51.5 55.7 
+Simon_Baker/wyJRx1YHDI4_0000004 88.6 95.6 
+Simon_Baker/wyJRx1YHDI4_0000005 120.4 133.3 

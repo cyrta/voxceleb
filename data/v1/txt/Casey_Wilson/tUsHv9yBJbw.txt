@@ -1,0 +1,8 @@
+POI: 			Casey_Wilson 
+Youtube ID: 	tUsHv9yBJbw 
+Video length: 	225.9 sec 
+Set (V): 		dev 
+ 
+Casey_Wilson/tUsHv9yBJbw_0000001 80.2 89.8 
+Casey_Wilson/tUsHv9yBJbw_0000002 94.8 99.5 
+Casey_Wilson/tUsHv9yBJbw_0000003 102.1 107.6 

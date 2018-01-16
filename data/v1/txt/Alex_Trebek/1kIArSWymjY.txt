@@ -1,0 +1,6 @@
+POI: 			Alex_Trebek 
+Youtube ID: 	1kIArSWymjY 
+Video length: 	182.7 sec 
+Set (V): 		dev 
+ 
+Alex_Trebek/1kIArSWymjY_0000001 79.8 88.3 

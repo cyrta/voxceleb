@@ -1,0 +1,10 @@
+POI: 			Bethany_Mota 
+Youtube ID: 	GepAJWWAwe0 
+Video length: 	198.6 sec 
+Set (V): 		dev 
+ 
+Bethany_Mota/GepAJWWAwe0_0000001 18.8 32.4 
+Bethany_Mota/GepAJWWAwe0_0000002 36.8 48.9 
+Bethany_Mota/GepAJWWAwe0_0000003 58.8 62.9 
+Bethany_Mota/GepAJWWAwe0_0000004 71.4 80.0 
+Bethany_Mota/GepAJWWAwe0_0000005 88.4 100.2 

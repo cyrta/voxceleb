@@ -1,0 +1,13 @@
+POI: 			Zach_Galifianakis 
+Youtube ID: 	kjewslggfHs 
+Video length: 	337.5 sec 
+Set (V): 		dev 
+ 
+Zach_Galifianakis/kjewslggfHs_0000001 27.5 32.0 
+Zach_Galifianakis/kjewslggfHs_0000002 143.5 149.4 
+Zach_Galifianakis/kjewslggfHs_0000003 154.8 159.8 
+Zach_Galifianakis/kjewslggfHs_0000004 179.2 183.2 
+Zach_Galifianakis/kjewslggfHs_0000005 204.3 209.2 
+Zach_Galifianakis/kjewslggfHs_0000006 211.7 216.2 
+Zach_Galifianakis/kjewslggfHs_0000007 235.8 241.9 
+Zach_Galifianakis/kjewslggfHs_0000008 264.4 270.2 

@@ -1,0 +1,15 @@
+POI: 			Sean_Maher 
+Youtube ID: 	LhKdc0KyPFo 
+Video length: 	231.9 sec 
+Set (V): 		dev 
+ 
+Sean_Maher/LhKdc0KyPFo_0000001 28.1 35.9 
+Sean_Maher/LhKdc0KyPFo_0000002 46.9 51.2 
+Sean_Maher/LhKdc0KyPFo_0000003 76.8 82.1 
+Sean_Maher/LhKdc0KyPFo_0000004 109.4 114.9 
+Sean_Maher/LhKdc0KyPFo_0000005 122.0 126.4 
+Sean_Maher/LhKdc0KyPFo_0000006 128.2 134.0 
+Sean_Maher/LhKdc0KyPFo_0000007 138.0 146.5 
+Sean_Maher/LhKdc0KyPFo_0000008 169.4 181.6 
+Sean_Maher/LhKdc0KyPFo_0000009 183.0 193.1 
+Sean_Maher/LhKdc0KyPFo_0000010 75.8 84.6 

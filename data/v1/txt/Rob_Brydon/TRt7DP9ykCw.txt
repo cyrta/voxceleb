@@ -1,0 +1,13 @@
+POI: 			Rob_Brydon 
+Youtube ID: 	TRt7DP9ykCw 
+Video length: 	161.0 sec 
+Set (V): 		dev 
+ 
+Rob_Brydon/TRt7DP9ykCw_0000001 06.2 11.0 
+Rob_Brydon/TRt7DP9ykCw_0000002 11.3 15.9 
+Rob_Brydon/TRt7DP9ykCw_0000003 19.4 24.8 
+Rob_Brydon/TRt7DP9ykCw_0000004 30.0 36.0 
+Rob_Brydon/TRt7DP9ykCw_0000005 71.6 76.8 
+Rob_Brydon/TRt7DP9ykCw_0000006 88.0 93.4 
+Rob_Brydon/TRt7DP9ykCw_0000007 99.2 109.1 
+Rob_Brydon/TRt7DP9ykCw_0000008 149.7 155.4 

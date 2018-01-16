@@ -1,0 +1,25 @@
+POI: 			Chelsea_Handler 
+Youtube ID: 	hx_XQX9G5xg 
+Video length: 	1082.7 sec 
+Set (V): 		dev 
+ 
+Chelsea_Handler/hx_XQX9G5xg_0000001 33.0 37.0 
+Chelsea_Handler/hx_XQX9G5xg_0000002 361.7 367.4 
+Chelsea_Handler/hx_XQX9G5xg_0000003 370.4 375.8 
+Chelsea_Handler/hx_XQX9G5xg_0000004 379.3 384.7 
+Chelsea_Handler/hx_XQX9G5xg_0000005 402.9 411.2 
+Chelsea_Handler/hx_XQX9G5xg_0000006 559.8 568.2 
+Chelsea_Handler/hx_XQX9G5xg_0000007 606.4 619.3 
+Chelsea_Handler/hx_XQX9G5xg_0000008 631.9 636.6 
+Chelsea_Handler/hx_XQX9G5xg_0000009 641.7 648.5 
+Chelsea_Handler/hx_XQX9G5xg_0000010 690.7 698.7 
+Chelsea_Handler/hx_XQX9G5xg_0000011 700.3 706.8 
+Chelsea_Handler/hx_XQX9G5xg_0000012 816.2 822.8 
+Chelsea_Handler/hx_XQX9G5xg_0000013 869.7 874.6 
+Chelsea_Handler/hx_XQX9G5xg_0000014 879.4 890.8 
+Chelsea_Handler/hx_XQX9G5xg_0000015 895.0 907.3 
+Chelsea_Handler/hx_XQX9G5xg_0000016 928.8 937.4 
+Chelsea_Handler/hx_XQX9G5xg_0000017 937.4 942.6 
+Chelsea_Handler/hx_XQX9G5xg_0000018 947.1 951.9 
+Chelsea_Handler/hx_XQX9G5xg_0000019 1037.2 1057.0 
+Chelsea_Handler/hx_XQX9G5xg_0000020 1029.5 1037.0 

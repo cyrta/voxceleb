@@ -1,0 +1,7 @@
+POI: 			John_Corbett 
+Youtube ID: 	LrKo-HVda2Y 
+Video length: 	73.5 sec 
+Set (V): 		dev 
+ 
+John_Corbett/LrKo-HVda2Y_0000001 14.2 19.6 
+John_Corbett/LrKo-HVda2Y_0000002 26.7 31.7 

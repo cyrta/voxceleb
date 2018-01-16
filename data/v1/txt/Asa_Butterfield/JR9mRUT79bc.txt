@@ -1,0 +1,8 @@
+POI: 			Asa_Butterfield 
+Youtube ID: 	JR9mRUT79bc 
+Video length: 	236.6 sec 
+Set (V): 		dev 
+ 
+Asa_Butterfield/JR9mRUT79bc_0000001 30.1 34.4 
+Asa_Butterfield/JR9mRUT79bc_0000002 40.2 44.3 
+Asa_Butterfield/JR9mRUT79bc_0000003 201.3 209.1 

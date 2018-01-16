@@ -1,0 +1,13 @@
+POI: 			Matthew_Goode 
+Youtube ID: 	bSfnC0SzfgI 
+Video length: 	216.9 sec 
+Set (V): 		dev 
+ 
+Matthew_Goode/bSfnC0SzfgI_0000001 10.1 16.1 
+Matthew_Goode/bSfnC0SzfgI_0000002 64.2 69.7 
+Matthew_Goode/bSfnC0SzfgI_0000003 76.3 87.0 
+Matthew_Goode/bSfnC0SzfgI_0000004 140.6 144.6 
+Matthew_Goode/bSfnC0SzfgI_0000005 148.1 157.4 
+Matthew_Goode/bSfnC0SzfgI_0000006 169.8 178.2 
+Matthew_Goode/bSfnC0SzfgI_0000007 183.3 189.0 
+Matthew_Goode/bSfnC0SzfgI_0000008 190.3 205.5 

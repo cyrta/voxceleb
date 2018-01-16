@@ -1,0 +1,21 @@
+POI: 			Tony_Curran 
+Youtube ID: 	d8a75TYQUVc 
+Video length: 	286.5 sec 
+Set (V): 		dev 
+ 
+Tony_Curran/d8a75TYQUVc_0000001 05.1 35.1 
+Tony_Curran/d8a75TYQUVc_0000002 35.2 55.8 
+Tony_Curran/d8a75TYQUVc_0000003 56.3 72.6 
+Tony_Curran/d8a75TYQUVc_0000004 73.4 89.0 
+Tony_Curran/d8a75TYQUVc_0000005 89.2 118.3 
+Tony_Curran/d8a75TYQUVc_0000006 121.0 128.6 
+Tony_Curran/d8a75TYQUVc_0000007 130.8 150.4 
+Tony_Curran/d8a75TYQUVc_0000008 154.9 162.2 
+Tony_Curran/d8a75TYQUVc_0000009 165.1 189.6 
+Tony_Curran/d8a75TYQUVc_0000010 189.8 199.0 
+Tony_Curran/d8a75TYQUVc_0000011 202.7 212.3 
+Tony_Curran/d8a75TYQUVc_0000012 213.2 223.0 
+Tony_Curran/d8a75TYQUVc_0000013 223.4 229.3 
+Tony_Curran/d8a75TYQUVc_0000014 237.3 244.8 
+Tony_Curran/d8a75TYQUVc_0000015 249.4 268.3 
+Tony_Curran/d8a75TYQUVc_0000016 269.2 281.0 

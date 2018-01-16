@@ -1,0 +1,8 @@
+POI: 			Paul_Gross 
+Youtube ID: 	7ZWkBeE75f0 
+Video length: 	518.6 sec 
+Set (V): 		dev 
+ 
+Paul_Gross/7ZWkBeE75f0_0000001 76.6 80.6 
+Paul_Gross/7ZWkBeE75f0_0000002 89.0 93.0 
+Paul_Gross/7ZWkBeE75f0_0000003 479.0 487.4 

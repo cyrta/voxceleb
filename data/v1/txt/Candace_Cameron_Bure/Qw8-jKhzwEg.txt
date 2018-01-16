@@ -1,0 +1,11 @@
+POI: 			Candace_Cameron_Bure 
+Youtube ID: 	Qw8-jKhzwEg 
+Video length: 	147.1 sec 
+Set (V): 		dev 
+ 
+Candace_Cameron_Bure/Qw8-jKhzwEg_0000001 01.5 13.1 
+Candace_Cameron_Bure/Qw8-jKhzwEg_0000002 15.2 24.3 
+Candace_Cameron_Bure/Qw8-jKhzwEg_0000003 41.9 49.4 
+Candace_Cameron_Bure/Qw8-jKhzwEg_0000004 68.8 83.4 
+Candace_Cameron_Bure/Qw8-jKhzwEg_0000005 92.8 103.9 
+Candace_Cameron_Bure/Qw8-jKhzwEg_0000006 115.2 130.1 

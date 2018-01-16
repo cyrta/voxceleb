@@ -1,0 +1,9 @@
+POI: 			Milla_Jovovich 
+Youtube ID: 	CenPng7jAFo 
+Video length: 	231.3 sec 
+Set (V): 		dev 
+ 
+Milla_Jovovich/CenPng7jAFo_0000001 52.3 57.8 
+Milla_Jovovich/CenPng7jAFo_0000002 63.1 67.4 
+Milla_Jovovich/CenPng7jAFo_0000003 68.0 77.1 
+Milla_Jovovich/CenPng7jAFo_0000004 82.8 87.1 

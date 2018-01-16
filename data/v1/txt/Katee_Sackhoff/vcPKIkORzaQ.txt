@@ -1,0 +1,7 @@
+POI: 			Katee_Sackhoff 
+Youtube ID: 	vcPKIkORzaQ 
+Video length: 	323.4 sec 
+Set (V): 		dev 
+ 
+Katee_Sackhoff/vcPKIkORzaQ_0000001 264.1 268.7 
+Katee_Sackhoff/vcPKIkORzaQ_0000002 301.6 307.5 

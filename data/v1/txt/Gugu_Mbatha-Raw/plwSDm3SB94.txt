@@ -1,0 +1,14 @@
+POI: 			Gugu_Mbatha-Raw 
+Youtube ID: 	plwSDm3SB94 
+Video length: 	229.3 sec 
+Set (V): 		dev 
+ 
+Gugu_Mbatha-Raw/plwSDm3SB94_0000001 17.8 42.4 
+Gugu_Mbatha-Raw/plwSDm3SB94_0000002 44.3 54.5 
+Gugu_Mbatha-Raw/plwSDm3SB94_0000003 56.3 70.3 
+Gugu_Mbatha-Raw/plwSDm3SB94_0000004 80.8 85.5 
+Gugu_Mbatha-Raw/plwSDm3SB94_0000005 89.0 100.8 
+Gugu_Mbatha-Raw/plwSDm3SB94_0000006 101.3 115.4 
+Gugu_Mbatha-Raw/plwSDm3SB94_0000007 126.8 134.3 
+Gugu_Mbatha-Raw/plwSDm3SB94_0000008 181.0 185.9 
+Gugu_Mbatha-Raw/plwSDm3SB94_0000009 193.2 225.2 

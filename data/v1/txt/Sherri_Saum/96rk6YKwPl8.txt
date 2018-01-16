@@ -1,0 +1,8 @@
+POI: 			Sherri_Saum 
+Youtube ID: 	96rk6YKwPl8 
+Video length: 	285.7 sec 
+Set (V): 		dev 
+ 
+Sherri_Saum/96rk6YKwPl8_0000001 87.2 97.3 
+Sherri_Saum/96rk6YKwPl8_0000002 114.2 130.0 
+Sherri_Saum/96rk6YKwPl8_0000003 163.6 168.9 

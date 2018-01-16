@@ -1,0 +1,14 @@
+POI: 			Pablo_Schreiber 
+Youtube ID: 	XNovljrV5Xc 
+Video length: 	173.2 sec 
+Set (V): 		dev 
+ 
+Pablo_Schreiber/XNovljrV5Xc_0000001 05.9 16.2 
+Pablo_Schreiber/XNovljrV5Xc_0000002 20.9 28.2 
+Pablo_Schreiber/XNovljrV5Xc_0000003 51.4 64.8 
+Pablo_Schreiber/XNovljrV5Xc_0000004 68.5 89.5 
+Pablo_Schreiber/XNovljrV5Xc_0000005 92.6 102.9 
+Pablo_Schreiber/XNovljrV5Xc_0000006 103.4 111.1 
+Pablo_Schreiber/XNovljrV5Xc_0000007 113.8 130.5 
+Pablo_Schreiber/XNovljrV5Xc_0000008 132.5 157.0 
+Pablo_Schreiber/XNovljrV5Xc_0000009 157.1 169.4 

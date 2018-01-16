@@ -1,0 +1,8 @@
+POI: 			Mariel_Hemingway 
+Youtube ID: 	lZZMZeKVh-4 
+Video length: 	214.7 sec 
+Set (V): 		dev 
+ 
+Mariel_Hemingway/lZZMZeKVh-4_0000001 74.9 79.9 
+Mariel_Hemingway/lZZMZeKVh-4_0000002 134.1 139.0 
+Mariel_Hemingway/lZZMZeKVh-4_0000003 155.9 167.9 

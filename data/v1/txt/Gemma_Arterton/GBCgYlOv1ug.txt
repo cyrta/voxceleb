@@ -1,0 +1,17 @@
+POI: 			Gemma_Arterton 
+Youtube ID: 	GBCgYlOv1ug 
+Video length: 	2136.2 sec 
+Set (V): 		dev 
+ 
+Gemma_Arterton/GBCgYlOv1ug_0000001 257.8 261.8 
+Gemma_Arterton/GBCgYlOv1ug_0000002 517.3 534.9 
+Gemma_Arterton/GBCgYlOv1ug_0000003 610.9 616.6 
+Gemma_Arterton/GBCgYlOv1ug_0000004 943.6 947.6 
+Gemma_Arterton/GBCgYlOv1ug_0000005 950.7 957.2 
+Gemma_Arterton/GBCgYlOv1ug_0000006 959.4 965.7 
+Gemma_Arterton/GBCgYlOv1ug_0000007 981.5 989.0 
+Gemma_Arterton/GBCgYlOv1ug_0000008 1010.8 1020.8 
+Gemma_Arterton/GBCgYlOv1ug_0000009 1147.5 1153.0 
+Gemma_Arterton/GBCgYlOv1ug_0000010 1218.8 1233.5 
+Gemma_Arterton/GBCgYlOv1ug_0000011 1811.7 1819.8 
+Gemma_Arterton/GBCgYlOv1ug_0000012 1831.5 1835.7 

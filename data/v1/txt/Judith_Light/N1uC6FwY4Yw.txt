@@ -1,0 +1,12 @@
+POI: 			Judith_Light 
+Youtube ID: 	N1uC6FwY4Yw 
+Video length: 	269.9 sec 
+Set (V): 		dev 
+ 
+Judith_Light/N1uC6FwY4Yw_0000001 67.9 81.1 
+Judith_Light/N1uC6FwY4Yw_0000002 81.2 86.3 
+Judith_Light/N1uC6FwY4Yw_0000003 88.0 92.8 
+Judith_Light/N1uC6FwY4Yw_0000004 93.4 97.4 
+Judith_Light/N1uC6FwY4Yw_0000005 98.3 104.7 
+Judith_Light/N1uC6FwY4Yw_0000006 148.2 155.0 
+Judith_Light/N1uC6FwY4Yw_0000007 225.3 233.9 

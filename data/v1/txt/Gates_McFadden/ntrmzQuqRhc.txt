@@ -1,0 +1,10 @@
+POI: 			Gates_McFadden 
+Youtube ID: 	ntrmzQuqRhc 
+Video length: 	300.7 sec 
+Set (V): 		dev 
+ 
+Gates_McFadden/ntrmzQuqRhc_0000001 148.6 157.5 
+Gates_McFadden/ntrmzQuqRhc_0000002 179.4 186.3 
+Gates_McFadden/ntrmzQuqRhc_0000003 220.7 224.6 
+Gates_McFadden/ntrmzQuqRhc_0000004 253.9 260.2 
+Gates_McFadden/ntrmzQuqRhc_0000005 268.3 275.7 

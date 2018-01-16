@@ -1,0 +1,9 @@
+POI: 			David_Jason 
+Youtube ID: 	Ne83hnvUUtE 
+Video length: 	143.3 sec 
+Set (V): 		dev 
+ 
+David_Jason/Ne83hnvUUtE_0000001 15.2 23.2 
+David_Jason/Ne83hnvUUtE_0000002 29.5 34.9 
+David_Jason/Ne83hnvUUtE_0000003 55.8 62.2 
+David_Jason/Ne83hnvUUtE_0000004 121.3 125.5 

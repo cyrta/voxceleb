@@ -1,0 +1,8 @@
+POI: 			Meghan_Trainor 
+Youtube ID: 	rs6o06YiONE 
+Video length: 	224.6 sec 
+Set (V): 		dev 
+ 
+Meghan_Trainor/rs6o06YiONE_0000001 34.4 47.4 
+Meghan_Trainor/rs6o06YiONE_0000002 73.6 77.6 
+Meghan_Trainor/rs6o06YiONE_0000003 83.3 91.8 

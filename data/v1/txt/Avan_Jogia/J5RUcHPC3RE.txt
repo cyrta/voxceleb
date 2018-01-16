@@ -1,0 +1,8 @@
+POI: 			Avan_Jogia 
+Youtube ID: 	J5RUcHPC3RE 
+Video length: 	533.3 sec 
+Set (V): 		dev 
+ 
+Avan_Jogia/J5RUcHPC3RE_0000001 40.9 49.2 
+Avan_Jogia/J5RUcHPC3RE_0000002 241.2 245.7 
+Avan_Jogia/J5RUcHPC3RE_0000003 275.5 280.0 

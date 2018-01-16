@@ -1,0 +1,8 @@
+POI: 			Nick_Thune 
+Youtube ID: 	fiflIxEtPg8 
+Video length: 	169.3 sec 
+Set (V): 		dev 
+ 
+Nick_Thune/fiflIxEtPg8_0000001 05.2 10.0 
+Nick_Thune/fiflIxEtPg8_0000002 20.3 26.7 
+Nick_Thune/fiflIxEtPg8_0000003 27.6 36.0 

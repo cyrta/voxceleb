@@ -1,0 +1,11 @@
+POI: 			Marc_Webb 
+Youtube ID: 	togqOXVEZg8 
+Video length: 	111.8 sec 
+Set (V): 		dev 
+ 
+Marc_Webb/togqOXVEZg8_0000001 30.5 36.4 
+Marc_Webb/togqOXVEZg8_0000002 75.7 82.5 
+Marc_Webb/togqOXVEZg8_0000003 82.9 88.7 
+Marc_Webb/togqOXVEZg8_0000004 63.1 67.2 
+Marc_Webb/togqOXVEZg8_0000005 72.2 82.2 
+Marc_Webb/togqOXVEZg8_0000006 99.9 105.4 

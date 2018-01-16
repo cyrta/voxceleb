@@ -1,0 +1,20 @@
+POI: 			Thomas_Ian_Nicholas 
+Youtube ID: 	RS7CK2Qq8oY 
+Video length: 	1014.7 sec 
+Set (V): 		dev 
+ 
+Thomas_Ian_Nicholas/RS7CK2Qq8oY_0000001 12.2 27.1 
+Thomas_Ian_Nicholas/RS7CK2Qq8oY_0000002 29.7 51.8 
+Thomas_Ian_Nicholas/RS7CK2Qq8oY_0000003 55.9 62.5 
+Thomas_Ian_Nicholas/RS7CK2Qq8oY_0000004 71.6 79.4 
+Thomas_Ian_Nicholas/RS7CK2Qq8oY_0000005 80.6 87.1 
+Thomas_Ian_Nicholas/RS7CK2Qq8oY_0000006 90.2 94.6 
+Thomas_Ian_Nicholas/RS7CK2Qq8oY_0000007 175.6 186.0 
+Thomas_Ian_Nicholas/RS7CK2Qq8oY_0000008 197.9 217.0 
+Thomas_Ian_Nicholas/RS7CK2Qq8oY_0000009 214.5 226.1 
+Thomas_Ian_Nicholas/RS7CK2Qq8oY_0000010 301.0 313.0 
+Thomas_Ian_Nicholas/RS7CK2Qq8oY_0000011 583.6 606.6 
+Thomas_Ian_Nicholas/RS7CK2Qq8oY_0000012 750.4 764.2 
+Thomas_Ian_Nicholas/RS7CK2Qq8oY_0000013 820.7 828.0 
+Thomas_Ian_Nicholas/RS7CK2Qq8oY_0000014 940.1 947.8 
+Thomas_Ian_Nicholas/RS7CK2Qq8oY_0000015 971.9 983.8 

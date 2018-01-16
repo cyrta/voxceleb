@@ -1,0 +1,8 @@
+POI: 			Tamsin_Greig 
+Youtube ID: 	NmDo2uOnzEM 
+Video length: 	63.7 sec 
+Set (V): 		dev 
+ 
+Tamsin_Greig/NmDo2uOnzEM_0000001 07.4 15.2 
+Tamsin_Greig/NmDo2uOnzEM_0000002 31.2 47.4 
+Tamsin_Greig/NmDo2uOnzEM_0000003 47.9 55.4 

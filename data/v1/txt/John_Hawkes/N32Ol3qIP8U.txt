@@ -1,0 +1,7 @@
+POI: 			John_Hawkes 
+Youtube ID: 	N32Ol3qIP8U 
+Video length: 	216.8 sec 
+Set (V): 		dev 
+ 
+John_Hawkes/N32Ol3qIP8U_0000001 109.2 113.3 
+John_Hawkes/N32Ol3qIP8U_0000002 195.4 201.4 

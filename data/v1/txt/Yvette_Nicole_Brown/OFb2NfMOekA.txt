@@ -1,0 +1,10 @@
+POI: 			Yvette_Nicole_Brown 
+Youtube ID: 	OFb2NfMOekA 
+Video length: 	106.5 sec 
+Set (V): 		dev 
+ 
+Yvette_Nicole_Brown/OFb2NfMOekA_0000001 25.6 30.2 
+Yvette_Nicole_Brown/OFb2NfMOekA_0000002 38.1 49.8 
+Yvette_Nicole_Brown/OFb2NfMOekA_0000003 57.1 62.2 
+Yvette_Nicole_Brown/OFb2NfMOekA_0000004 69.9 75.5 
+Yvette_Nicole_Brown/OFb2NfMOekA_0000005 79.7 96.9 

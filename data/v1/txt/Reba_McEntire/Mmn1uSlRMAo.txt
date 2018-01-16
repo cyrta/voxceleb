@@ -1,0 +1,10 @@
+POI: 			Reba_McEntire 
+Youtube ID: 	Mmn1uSlRMAo 
+Video length: 	116.4 sec 
+Set (V): 		dev 
+ 
+Reba_McEntire/Mmn1uSlRMAo_0000001 18.2 27.5 
+Reba_McEntire/Mmn1uSlRMAo_0000002 34.4 39.5 
+Reba_McEntire/Mmn1uSlRMAo_0000003 47.7 52.3 
+Reba_McEntire/Mmn1uSlRMAo_0000004 62.2 71.8 
+Reba_McEntire/Mmn1uSlRMAo_0000005 81.3 86.4 

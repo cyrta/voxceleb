@@ -1,0 +1,27 @@
+POI: 			Jason_Segel 
+Youtube ID: 	FRvnrCo4BKw 
+Video length: 	766.7 sec 
+Set (V): 		dev 
+ 
+Jason_Segel/FRvnrCo4BKw_0000001 104.4 116.0 
+Jason_Segel/FRvnrCo4BKw_0000002 118.8 129.0 
+Jason_Segel/FRvnrCo4BKw_0000003 232.6 239.0 
+Jason_Segel/FRvnrCo4BKw_0000004 240.5 244.8 
+Jason_Segel/FRvnrCo4BKw_0000005 263.0 275.8 
+Jason_Segel/FRvnrCo4BKw_0000006 280.3 290.0 
+Jason_Segel/FRvnrCo4BKw_0000007 318.4 332.3 
+Jason_Segel/FRvnrCo4BKw_0000008 332.6 336.6 
+Jason_Segel/FRvnrCo4BKw_0000009 341.3 350.4 
+Jason_Segel/FRvnrCo4BKw_0000010 417.0 421.6 
+Jason_Segel/FRvnrCo4BKw_0000011 433.7 438.2 
+Jason_Segel/FRvnrCo4BKw_0000012 462.5 487.2 
+Jason_Segel/FRvnrCo4BKw_0000013 495.6 500.0 
+Jason_Segel/FRvnrCo4BKw_0000014 518.9 523.0 
+Jason_Segel/FRvnrCo4BKw_0000015 523.3 530.3 
+Jason_Segel/FRvnrCo4BKw_0000016 531.1 539.0 
+Jason_Segel/FRvnrCo4BKw_0000017 592.9 609.5 
+Jason_Segel/FRvnrCo4BKw_0000018 611.4 616.2 
+Jason_Segel/FRvnrCo4BKw_0000019 617.0 621.2 
+Jason_Segel/FRvnrCo4BKw_0000020 639.4 646.3 
+Jason_Segel/FRvnrCo4BKw_0000021 656.0 661.7 
+Jason_Segel/FRvnrCo4BKw_0000022 662.5 668.0 

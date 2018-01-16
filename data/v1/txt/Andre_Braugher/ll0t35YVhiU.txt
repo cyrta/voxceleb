@@ -1,0 +1,9 @@
+POI: 			Andre_Braugher 
+Youtube ID: 	ll0t35YVhiU 
+Video length: 	717.1 sec 
+Set (V): 		dev 
+ 
+Andre_Braugher/ll0t35YVhiU_0000001 358.0 364.8 
+Andre_Braugher/ll0t35YVhiU_0000002 382.2 386.2 
+Andre_Braugher/ll0t35YVhiU_0000003 386.4 391.3 
+Andre_Braugher/ll0t35YVhiU_0000004 392.3 400.9 

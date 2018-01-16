@@ -1,0 +1,12 @@
+POI: 			Damon_Lindelof 
+Youtube ID: 	sFSNRDoEpDs 
+Video length: 	121.4 sec 
+Set (V): 		dev 
+ 
+Damon_Lindelof/sFSNRDoEpDs_0000001 07.3 17.1 
+Damon_Lindelof/sFSNRDoEpDs_0000002 20.4 35.9 
+Damon_Lindelof/sFSNRDoEpDs_0000003 37.8 63.6 
+Damon_Lindelof/sFSNRDoEpDs_0000004 32.7 38.6 
+Damon_Lindelof/sFSNRDoEpDs_0000005 49.0 54.1 
+Damon_Lindelof/sFSNRDoEpDs_0000006 77.6 86.3 
+Damon_Lindelof/sFSNRDoEpDs_0000007 88.1 109.6 

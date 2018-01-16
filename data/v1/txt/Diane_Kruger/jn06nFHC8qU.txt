@@ -1,0 +1,15 @@
+POI: 			Diane_Kruger 
+Youtube ID: 	jn06nFHC8qU 
+Video length: 	307.8 sec 
+Set (V): 		dev 
+ 
+Diane_Kruger/jn06nFHC8qU_0000001 70.9 86.6 
+Diane_Kruger/jn06nFHC8qU_0000002 114.8 120.3 
+Diane_Kruger/jn06nFHC8qU_0000003 129.1 134.3 
+Diane_Kruger/jn06nFHC8qU_0000004 138.3 142.6 
+Diane_Kruger/jn06nFHC8qU_0000005 158.0 164.8 
+Diane_Kruger/jn06nFHC8qU_0000006 171.6 175.9 
+Diane_Kruger/jn06nFHC8qU_0000007 221.0 232.9 
+Diane_Kruger/jn06nFHC8qU_0000008 241.2 246.0 
+Diane_Kruger/jn06nFHC8qU_0000009 249.9 264.0 
+Diane_Kruger/jn06nFHC8qU_0000010 275.3 294.7 

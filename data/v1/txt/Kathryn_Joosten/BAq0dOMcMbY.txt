@@ -1,0 +1,15 @@
+POI: 			Kathryn_Joosten 
+Youtube ID: 	BAq0dOMcMbY 
+Video length: 	169.6 sec 
+Set (V): 		dev 
+ 
+Kathryn_Joosten/BAq0dOMcMbY_0000001 49.8 53.8 
+Kathryn_Joosten/BAq0dOMcMbY_0000002 53.9 58.0 
+Kathryn_Joosten/BAq0dOMcMbY_0000003 44.7 49.0 
+Kathryn_Joosten/BAq0dOMcMbY_0000004 49.3 53.8 
+Kathryn_Joosten/BAq0dOMcMbY_0000005 67.5 72.8 
+Kathryn_Joosten/BAq0dOMcMbY_0000006 79.4 90.2 
+Kathryn_Joosten/BAq0dOMcMbY_0000007 101.7 115.0 
+Kathryn_Joosten/BAq0dOMcMbY_0000008 126.2 135.0 
+Kathryn_Joosten/BAq0dOMcMbY_0000009 136.0 141.5 
+Kathryn_Joosten/BAq0dOMcMbY_0000010 157.6 165.8 

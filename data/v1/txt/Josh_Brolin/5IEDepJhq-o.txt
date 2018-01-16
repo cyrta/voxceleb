@@ -1,0 +1,15 @@
+POI: 			Josh_Brolin 
+Youtube ID: 	5IEDepJhq-o 
+Video length: 	141.8 sec 
+Set (V): 		dev 
+ 
+Josh_Brolin/5IEDepJhq-o_0000001 05.0 14.0 
+Josh_Brolin/5IEDepJhq-o_0000002 16.3 23.6 
+Josh_Brolin/5IEDepJhq-o_0000003 27.7 41.4 
+Josh_Brolin/5IEDepJhq-o_0000004 44.0 49.2 
+Josh_Brolin/5IEDepJhq-o_0000005 60.4 70.9 
+Josh_Brolin/5IEDepJhq-o_0000006 81.4 90.8 
+Josh_Brolin/5IEDepJhq-o_0000007 94.2 105.3 
+Josh_Brolin/5IEDepJhq-o_0000008 110.4 120.4 
+Josh_Brolin/5IEDepJhq-o_0000009 125.0 130.9 
+Josh_Brolin/5IEDepJhq-o_0000010 131.9 138.2 

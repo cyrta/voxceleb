@@ -1,0 +1,7 @@
+POI: 			Wesley_Snipes 
+Youtube ID: 	NirDS5RK-mE 
+Video length: 	83.7 sec 
+Set (V): 		dev 
+ 
+Wesley_Snipes/NirDS5RK-mE_0000001 00.8 05.1 
+Wesley_Snipes/NirDS5RK-mE_0000002 15.2 22.0 

@@ -1,0 +1,8 @@
+POI: 			Ricky_Gervais 
+Youtube ID: 	bUpF2d4H3x8 
+Video length: 	2877.1 sec 
+Set (V): 		dev 
+ 
+Ricky_Gervais/bUpF2d4H3x8_0000001 1103.1 1108.4 
+Ricky_Gervais/bUpF2d4H3x8_0000002 1560.3 1566.4 
+Ricky_Gervais/bUpF2d4H3x8_0000003 2243.4 2248.2 

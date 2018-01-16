@@ -1,0 +1,13 @@
+POI: 			Sydney_Pollack 
+Youtube ID: 	0WJ8ynvq-d0 
+Video length: 	339.4 sec 
+Set (V): 		dev 
+ 
+Sydney_Pollack/0WJ8ynvq-d0_0000001 13.0 17.0 
+Sydney_Pollack/0WJ8ynvq-d0_0000002 110.1 115.7 
+Sydney_Pollack/0WJ8ynvq-d0_0000003 124.2 129.4 
+Sydney_Pollack/0WJ8ynvq-d0_0000004 183.1 198.4 
+Sydney_Pollack/0WJ8ynvq-d0_0000005 242.8 248.8 
+Sydney_Pollack/0WJ8ynvq-d0_0000006 275.6 289.6 
+Sydney_Pollack/0WJ8ynvq-d0_0000007 296.0 300.4 
+Sydney_Pollack/0WJ8ynvq-d0_0000008 305.6 310.2 

@@ -1,0 +1,23 @@
+POI: 			Olivia_Williams 
+Youtube ID: 	s5UAvWH9pSI 
+Video length: 	402.7 sec 
+Set (V): 		dev 
+ 
+Olivia_Williams/s5UAvWH9pSI_0000001 09.8 17.6 
+Olivia_Williams/s5UAvWH9pSI_0000002 33.7 39.2 
+Olivia_Williams/s5UAvWH9pSI_0000003 45.4 53.4 
+Olivia_Williams/s5UAvWH9pSI_0000004 56.6 70.6 
+Olivia_Williams/s5UAvWH9pSI_0000005 71.0 75.4 
+Olivia_Williams/s5UAvWH9pSI_0000006 91.7 98.2 
+Olivia_Williams/s5UAvWH9pSI_0000007 98.4 106.7 
+Olivia_Williams/s5UAvWH9pSI_0000008 106.9 121.4 
+Olivia_Williams/s5UAvWH9pSI_0000009 139.7 157.4 
+Olivia_Williams/s5UAvWH9pSI_0000010 190.8 206.9 
+Olivia_Williams/s5UAvWH9pSI_0000011 207.3 212.9 
+Olivia_Williams/s5UAvWH9pSI_0000012 234.4 254.3 
+Olivia_Williams/s5UAvWH9pSI_0000013 255.8 261.2 
+Olivia_Williams/s5UAvWH9pSI_0000014 261.8 266.2 
+Olivia_Williams/s5UAvWH9pSI_0000015 279.2 297.1 
+Olivia_Williams/s5UAvWH9pSI_0000016 309.3 317.0 
+Olivia_Williams/s5UAvWH9pSI_0000017 317.4 341.8 
+Olivia_Williams/s5UAvWH9pSI_0000018 361.8 388.6 

@@ -1,0 +1,19 @@
+POI: 			Shailene_Woodley 
+Youtube ID: 	WEiiuJrLM0A 
+Video length: 	527.9 sec 
+Set (V): 		dev 
+ 
+Shailene_Woodley/WEiiuJrLM0A_0000001 85.9 91.7 
+Shailene_Woodley/WEiiuJrLM0A_0000002 123.2 136.1 
+Shailene_Woodley/WEiiuJrLM0A_0000003 137.9 145.3 
+Shailene_Woodley/WEiiuJrLM0A_0000004 149.9 159.7 
+Shailene_Woodley/WEiiuJrLM0A_0000005 254.4 267.9 
+Shailene_Woodley/WEiiuJrLM0A_0000006 268.7 280.2 
+Shailene_Woodley/WEiiuJrLM0A_0000007 289.2 311.9 
+Shailene_Woodley/WEiiuJrLM0A_0000008 326.4 331.1 
+Shailene_Woodley/WEiiuJrLM0A_0000009 349.8 354.5 
+Shailene_Woodley/WEiiuJrLM0A_0000010 360.3 371.2 
+Shailene_Woodley/WEiiuJrLM0A_0000011 371.3 377.7 
+Shailene_Woodley/WEiiuJrLM0A_0000012 400.0 404.6 
+Shailene_Woodley/WEiiuJrLM0A_0000013 415.0 426.4 
+Shailene_Woodley/WEiiuJrLM0A_0000014 436.7 448.2 

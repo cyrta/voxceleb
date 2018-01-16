@@ -1,0 +1,8 @@
+POI: 			Hannah_Simone 
+Youtube ID: 	Mv_hEqPbbqc 
+Video length: 	133.8 sec 
+Set (V): 		dev 
+ 
+Hannah_Simone/Mv_hEqPbbqc_0000001 22.0 33.7 
+Hannah_Simone/Mv_hEqPbbqc_0000002 44.9 50.0 
+Hannah_Simone/Mv_hEqPbbqc_0000003 106.0 110.2 

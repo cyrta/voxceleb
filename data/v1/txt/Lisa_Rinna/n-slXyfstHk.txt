@@ -1,0 +1,10 @@
+POI: 			Lisa_Rinna 
+Youtube ID: 	n-slXyfstHk 
+Video length: 	150.9 sec 
+Set (V): 		dev 
+ 
+Lisa_Rinna/n-slXyfstHk_0000001 41.9 46.4 
+Lisa_Rinna/n-slXyfstHk_0000002 85.0 90.3 
+Lisa_Rinna/n-slXyfstHk_0000003 96.4 103.8 
+Lisa_Rinna/n-slXyfstHk_0000004 102.0 115.6 
+Lisa_Rinna/n-slXyfstHk_0000005 127.6 134.3 

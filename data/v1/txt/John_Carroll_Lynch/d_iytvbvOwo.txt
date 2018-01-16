@@ -1,0 +1,9 @@
+POI: 			John_Carroll_Lynch 
+Youtube ID: 	d_iytvbvOwo 
+Video length: 	248.4 sec 
+Set (V): 		dev 
+ 
+John_Carroll_Lynch/d_iytvbvOwo_0000001 69.6 74.3 
+John_Carroll_Lynch/d_iytvbvOwo_0000002 77.5 93.2 
+John_Carroll_Lynch/d_iytvbvOwo_0000003 162.4 170.6 
+John_Carroll_Lynch/d_iytvbvOwo_0000004 173.7 181.0 

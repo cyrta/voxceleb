@@ -1,0 +1,9 @@
+POI: 			Ronda_Rousey 
+Youtube ID: 	uUwl-wIxEvs 
+Video length: 	107.7 sec 
+Set (V): 		dev 
+ 
+Ronda_Rousey/uUwl-wIxEvs_0000001 29.4 36.0 
+Ronda_Rousey/uUwl-wIxEvs_0000002 70.2 82.1 
+Ronda_Rousey/uUwl-wIxEvs_0000003 85.9 97.2 
+Ronda_Rousey/uUwl-wIxEvs_0000004 97.8 101.9 

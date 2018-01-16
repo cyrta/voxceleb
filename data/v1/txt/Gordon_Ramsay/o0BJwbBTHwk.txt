@@ -1,0 +1,19 @@
+POI: 			Gordon_Ramsay 
+Youtube ID: 	o0BJwbBTHwk 
+Video length: 	558.3 sec 
+Set (V): 		dev 
+ 
+Gordon_Ramsay/o0BJwbBTHwk_0000001 105.0 109.6 
+Gordon_Ramsay/o0BJwbBTHwk_0000002 126.2 131.6 
+Gordon_Ramsay/o0BJwbBTHwk_0000003 156.6 161.4 
+Gordon_Ramsay/o0BJwbBTHwk_0000004 172.0 176.0 
+Gordon_Ramsay/o0BJwbBTHwk_0000005 199.2 209.8 
+Gordon_Ramsay/o0BJwbBTHwk_0000006 226.5 232.8 
+Gordon_Ramsay/o0BJwbBTHwk_0000007 299.4 303.7 
+Gordon_Ramsay/o0BJwbBTHwk_0000008 317.1 324.0 
+Gordon_Ramsay/o0BJwbBTHwk_0000009 365.9 376.0 
+Gordon_Ramsay/o0BJwbBTHwk_0000010 382.2 388.4 
+Gordon_Ramsay/o0BJwbBTHwk_0000011 414.3 418.3 
+Gordon_Ramsay/o0BJwbBTHwk_0000012 430.4 436.7 
+Gordon_Ramsay/o0BJwbBTHwk_0000013 436.2 447.8 
+Gordon_Ramsay/o0BJwbBTHwk_0000014 492.8 498.0 

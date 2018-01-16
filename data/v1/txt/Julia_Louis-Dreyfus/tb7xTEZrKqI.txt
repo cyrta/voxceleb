@@ -1,0 +1,24 @@
+POI: 			Julia_Louis-Dreyfus 
+Youtube ID: 	tb7xTEZrKqI 
+Video length: 	1080.0 sec 
+Set (V): 		dev 
+ 
+Julia_Louis-Dreyfus/tb7xTEZrKqI_0000001 128.9 132.9 
+Julia_Louis-Dreyfus/tb7xTEZrKqI_0000002 141.6 146.4 
+Julia_Louis-Dreyfus/tb7xTEZrKqI_0000003 169.4 174.2 
+Julia_Louis-Dreyfus/tb7xTEZrKqI_0000004 230.4 236.4 
+Julia_Louis-Dreyfus/tb7xTEZrKqI_0000005 272.0 277.2 
+Julia_Louis-Dreyfus/tb7xTEZrKqI_0000006 281.7 287.4 
+Julia_Louis-Dreyfus/tb7xTEZrKqI_0000007 299.6 309.4 
+Julia_Louis-Dreyfus/tb7xTEZrKqI_0000008 360.8 376.0 
+Julia_Louis-Dreyfus/tb7xTEZrKqI_0000009 386.6 391.8 
+Julia_Louis-Dreyfus/tb7xTEZrKqI_0000010 396.1 412.5 
+Julia_Louis-Dreyfus/tb7xTEZrKqI_0000011 507.5 513.7 
+Julia_Louis-Dreyfus/tb7xTEZrKqI_0000012 522.2 526.5 
+Julia_Louis-Dreyfus/tb7xTEZrKqI_0000013 572.3 579.4 
+Julia_Louis-Dreyfus/tb7xTEZrKqI_0000014 587.3 593.7 
+Julia_Louis-Dreyfus/tb7xTEZrKqI_0000015 613.7 621.0 
+Julia_Louis-Dreyfus/tb7xTEZrKqI_0000016 649.8 655.7 
+Julia_Louis-Dreyfus/tb7xTEZrKqI_0000017 673.0 677.9 
+Julia_Louis-Dreyfus/tb7xTEZrKqI_0000018 927.5 931.6 
+Julia_Louis-Dreyfus/tb7xTEZrKqI_0000019 1016.5 1032.2 

@@ -1,0 +1,14 @@
+POI: 			Avan_Jogia 
+Youtube ID: 	doC3ZkRJxGo 
+Video length: 	160.6 sec 
+Set (V): 		dev 
+ 
+Avan_Jogia/doC3ZkRJxGo_0000001 19.4 26.5 
+Avan_Jogia/doC3ZkRJxGo_0000002 27.3 31.6 
+Avan_Jogia/doC3ZkRJxGo_0000003 37.4 43.3 
+Avan_Jogia/doC3ZkRJxGo_0000004 43.4 48.0 
+Avan_Jogia/doC3ZkRJxGo_0000005 49.0 55.1 
+Avan_Jogia/doC3ZkRJxGo_0000006 75.0 81.2 
+Avan_Jogia/doC3ZkRJxGo_0000007 90.0 100.4 
+Avan_Jogia/doC3ZkRJxGo_0000008 109.0 121.0 
+Avan_Jogia/doC3ZkRJxGo_0000009 131.0 137.8 

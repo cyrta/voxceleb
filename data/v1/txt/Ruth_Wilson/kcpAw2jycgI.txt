@@ -1,0 +1,17 @@
+POI: 			Ruth_Wilson 
+Youtube ID: 	kcpAw2jycgI 
+Video length: 	341.6 sec 
+Set (V): 		dev 
+ 
+Ruth_Wilson/kcpAw2jycgI_0000001 29.8 35.4 
+Ruth_Wilson/kcpAw2jycgI_0000002 59.3 67.8 
+Ruth_Wilson/kcpAw2jycgI_0000003 68.3 76.3 
+Ruth_Wilson/kcpAw2jycgI_0000004 76.9 82.7 
+Ruth_Wilson/kcpAw2jycgI_0000005 127.9 155.2 
+Ruth_Wilson/kcpAw2jycgI_0000006 156.7 161.5 
+Ruth_Wilson/kcpAw2jycgI_0000007 173.1 178.0 
+Ruth_Wilson/kcpAw2jycgI_0000008 190.1 196.3 
+Ruth_Wilson/kcpAw2jycgI_0000009 199.4 205.0 
+Ruth_Wilson/kcpAw2jycgI_0000010 205.7 209.9 
+Ruth_Wilson/kcpAw2jycgI_0000011 218.5 223.9 
+Ruth_Wilson/kcpAw2jycgI_0000012 295.0 313.7 

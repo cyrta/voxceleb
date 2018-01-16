@@ -1,0 +1,7 @@
+POI: 			Domhnall_Gleeson 
+Youtube ID: 	obSgV66oum0 
+Video length: 	109.7 sec 
+Set (V): 		dev 
+ 
+Domhnall_Gleeson/obSgV66oum0_0000001 63.5 68.3 
+Domhnall_Gleeson/obSgV66oum0_0000002 83.9 89.8 

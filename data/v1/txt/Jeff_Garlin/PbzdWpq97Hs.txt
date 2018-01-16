@@ -1,0 +1,12 @@
+POI: 			Jeff_Garlin 
+Youtube ID: 	PbzdWpq97Hs 
+Video length: 	271.5 sec 
+Set (V): 		dev 
+ 
+Jeff_Garlin/PbzdWpq97Hs_0000001 20.8 29.3 
+Jeff_Garlin/PbzdWpq97Hs_0000002 29.9 35.3 
+Jeff_Garlin/PbzdWpq97Hs_0000003 63.9 68.4 
+Jeff_Garlin/PbzdWpq97Hs_0000004 70.8 80.0 
+Jeff_Garlin/PbzdWpq97Hs_0000005 90.1 95.3 
+Jeff_Garlin/PbzdWpq97Hs_0000006 97.7 103.6 
+Jeff_Garlin/PbzdWpq97Hs_0000007 106.0 116.4 

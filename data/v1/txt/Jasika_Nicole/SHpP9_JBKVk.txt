@@ -1,0 +1,11 @@
+POI: 			Jasika_Nicole 
+Youtube ID: 	SHpP9_JBKVk 
+Video length: 	423.0 sec 
+Set (V): 		dev 
+ 
+Jasika_Nicole/SHpP9_JBKVk_0000001 87.1 93.7 
+Jasika_Nicole/SHpP9_JBKVk_0000002 94.6 98.8 
+Jasika_Nicole/SHpP9_JBKVk_0000003 187.2 191.2 
+Jasika_Nicole/SHpP9_JBKVk_0000004 250.8 255.6 
+Jasika_Nicole/SHpP9_JBKVk_0000005 326.0 330.6 
+Jasika_Nicole/SHpP9_JBKVk_0000006 403.6 408.2 

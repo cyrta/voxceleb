@@ -1,0 +1,17 @@
+POI: 			Clive_Owen 
+Youtube ID: 	6ytsRVb-Nyk 
+Video length: 	204.3 sec 
+Set (V): 		dev 
+ 
+Clive_Owen/6ytsRVb-Nyk_0000001 11.6 16.4 
+Clive_Owen/6ytsRVb-Nyk_0000002 22.6 29.4 
+Clive_Owen/6ytsRVb-Nyk_0000003 48.8 65.9 
+Clive_Owen/6ytsRVb-Nyk_0000004 66.1 71.6 
+Clive_Owen/6ytsRVb-Nyk_0000005 94.6 111.3 
+Clive_Owen/6ytsRVb-Nyk_0000006 116.1 124.4 
+Clive_Owen/6ytsRVb-Nyk_0000007 124.8 129.7 
+Clive_Owen/6ytsRVb-Nyk_0000008 131.0 135.4 
+Clive_Owen/6ytsRVb-Nyk_0000009 136.6 141.8 
+Clive_Owen/6ytsRVb-Nyk_0000010 150.8 159.6 
+Clive_Owen/6ytsRVb-Nyk_0000011 165.6 174.5 
+Clive_Owen/6ytsRVb-Nyk_0000012 177.6 196.9 

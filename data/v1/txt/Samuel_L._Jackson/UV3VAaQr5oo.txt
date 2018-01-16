@@ -1,0 +1,7 @@
+POI: 			Samuel_L._Jackson 
+Youtube ID: 	UV3VAaQr5oo 
+Video length: 	148.2 sec 
+Set (V): 		dev 
+ 
+Samuel_L._Jackson/UV3VAaQr5oo_0000001 21.8 27.6 
+Samuel_L._Jackson/UV3VAaQr5oo_0000002 30.6 35.7 

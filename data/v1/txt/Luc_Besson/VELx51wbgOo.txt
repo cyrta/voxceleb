@@ -1,0 +1,15 @@
+POI: 			Luc_Besson 
+Youtube ID: 	VELx51wbgOo 
+Video length: 	622.9 sec 
+Set (V): 		dev 
+ 
+Luc_Besson/VELx51wbgOo_0000001 106.7 113.6 
+Luc_Besson/VELx51wbgOo_0000002 142.8 147.6 
+Luc_Besson/VELx51wbgOo_0000003 151.4 155.6 
+Luc_Besson/VELx51wbgOo_0000004 168.5 174.2 
+Luc_Besson/VELx51wbgOo_0000005 411.0 416.1 
+Luc_Besson/VELx51wbgOo_0000006 416.6 423.0 
+Luc_Besson/VELx51wbgOo_0000007 430.6 434.8 
+Luc_Besson/VELx51wbgOo_0000008 436.7 443.2 
+Luc_Besson/VELx51wbgOo_0000009 578.2 584.7 
+Luc_Besson/VELx51wbgOo_0000010 585.2 590.4 

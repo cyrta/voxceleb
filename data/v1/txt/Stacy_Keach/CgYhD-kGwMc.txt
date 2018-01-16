@@ -1,0 +1,7 @@
+POI: 			Stacy_Keach 
+Youtube ID: 	CgYhD-kGwMc 
+Video length: 	387.0 sec 
+Set (V): 		dev 
+ 
+Stacy_Keach/CgYhD-kGwMc_0000001 193.0 202.9 
+Stacy_Keach/CgYhD-kGwMc_0000002 255.2 259.4 

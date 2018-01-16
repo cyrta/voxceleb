@@ -1,0 +1,25 @@
+POI: 			Jack_Black 
+Youtube ID: 	JL9kpRAbMno 
+Video length: 	477.6 sec 
+Set (V): 		dev 
+ 
+Jack_Black/JL9kpRAbMno_0000001 19.4 24.8 
+Jack_Black/JL9kpRAbMno_0000002 63.6 69.8 
+Jack_Black/JL9kpRAbMno_0000003 91.1 112.5 
+Jack_Black/JL9kpRAbMno_0000004 124.2 136.3 
+Jack_Black/JL9kpRAbMno_0000005 149.0 154.7 
+Jack_Black/JL9kpRAbMno_0000006 172.2 186.4 
+Jack_Black/JL9kpRAbMno_0000007 187.2 192.7 
+Jack_Black/JL9kpRAbMno_0000008 203.1 208.8 
+Jack_Black/JL9kpRAbMno_0000009 211.4 221.6 
+Jack_Black/JL9kpRAbMno_0000010 248.8 253.9 
+Jack_Black/JL9kpRAbMno_0000011 258.2 275.2 
+Jack_Black/JL9kpRAbMno_0000012 277.5 285.8 
+Jack_Black/JL9kpRAbMno_0000013 295.9 326.0 
+Jack_Black/JL9kpRAbMno_0000014 336.1 351.9 
+Jack_Black/JL9kpRAbMno_0000015 362.1 370.7 
+Jack_Black/JL9kpRAbMno_0000016 384.9 395.7 
+Jack_Black/JL9kpRAbMno_0000017 408.3 412.4 
+Jack_Black/JL9kpRAbMno_0000018 412.8 435.2 
+Jack_Black/JL9kpRAbMno_0000019 442.6 448.2 
+Jack_Black/JL9kpRAbMno_0000020 461.8 467.5 

@@ -1,0 +1,9 @@
+POI: 			Robert_Vaughn 
+Youtube ID: 	W86qjGRiuiw 
+Video length: 	147.5 sec 
+Set (V): 		dev 
+ 
+Robert_Vaughn/W86qjGRiuiw_0000001 08.6 13.5 
+Robert_Vaughn/W86qjGRiuiw_0000002 92.5 96.9 
+Robert_Vaughn/W86qjGRiuiw_0000003 101.2 111.2 
+Robert_Vaughn/W86qjGRiuiw_0000004 113.5 122.5 

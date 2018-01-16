@@ -1,0 +1,14 @@
+POI: 			Kendra_Wilkinson 
+Youtube ID: 	FU3jsEHD3wo 
+Video length: 	289.6 sec 
+Set (V): 		dev 
+ 
+Kendra_Wilkinson/FU3jsEHD3wo_0000001 27.9 35.2 
+Kendra_Wilkinson/FU3jsEHD3wo_0000002 50.4 56.9 
+Kendra_Wilkinson/FU3jsEHD3wo_0000003 76.7 83.3 
+Kendra_Wilkinson/FU3jsEHD3wo_0000004 138.9 143.4 
+Kendra_Wilkinson/FU3jsEHD3wo_0000005 165.8 171.4 
+Kendra_Wilkinson/FU3jsEHD3wo_0000006 199.0 205.0 
+Kendra_Wilkinson/FU3jsEHD3wo_0000007 214.0 221.8 
+Kendra_Wilkinson/FU3jsEHD3wo_0000008 235.2 252.4 
+Kendra_Wilkinson/FU3jsEHD3wo_0000009 263.4 268.7 

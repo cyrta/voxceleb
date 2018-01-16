@@ -1,0 +1,18 @@
+POI: 			Randolph_Mantooth 
+Youtube ID: 	ojtfV87s-Ag 
+Video length: 	311.2 sec 
+Set (V): 		dev 
+ 
+Randolph_Mantooth/ojtfV87s-Ag_0000001 13.4 22.3 
+Randolph_Mantooth/ojtfV87s-Ag_0000002 27.7 42.6 
+Randolph_Mantooth/ojtfV87s-Ag_0000003 51.6 59.3 
+Randolph_Mantooth/ojtfV87s-Ag_0000004 107.4 116.0 
+Randolph_Mantooth/ojtfV87s-Ag_0000005 122.0 153.4 
+Randolph_Mantooth/ojtfV87s-Ag_0000006 154.4 162.3 
+Randolph_Mantooth/ojtfV87s-Ag_0000007 162.4 183.4 
+Randolph_Mantooth/ojtfV87s-Ag_0000008 193.9 204.6 
+Randolph_Mantooth/ojtfV87s-Ag_0000009 212.4 221.6 
+Randolph_Mantooth/ojtfV87s-Ag_0000010 228.6 254.5 
+Randolph_Mantooth/ojtfV87s-Ag_0000011 256.5 273.8 
+Randolph_Mantooth/ojtfV87s-Ag_0000012 277.2 285.8 
+Randolph_Mantooth/ojtfV87s-Ag_0000013 286.6 299.2 

@@ -1,0 +1,11 @@
+POI: 			Wentworth_Miller 
+Youtube ID: 	bPPTpTxbzlU 
+Video length: 	272.6 sec 
+Set (V): 		dev 
+ 
+Wentworth_Miller/bPPTpTxbzlU_0000001 45.6 53.6 
+Wentworth_Miller/bPPTpTxbzlU_0000002 107.0 115.8 
+Wentworth_Miller/bPPTpTxbzlU_0000003 116.0 120.0 
+Wentworth_Miller/bPPTpTxbzlU_0000004 160.7 164.7 
+Wentworth_Miller/bPPTpTxbzlU_0000005 200.1 204.4 
+Wentworth_Miller/bPPTpTxbzlU_0000006 206.7 215.2 

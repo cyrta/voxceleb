@@ -1,0 +1,24 @@
+POI: 			James_Cromwell 
+Youtube ID: 	TX0oD9DmUhs 
+Video length: 	387.2 sec 
+Set (V): 		dev 
+ 
+James_Cromwell/TX0oD9DmUhs_0000001 28.7 40.0 
+James_Cromwell/TX0oD9DmUhs_0000002 73.2 79.8 
+James_Cromwell/TX0oD9DmUhs_0000003 81.9 88.3 
+James_Cromwell/TX0oD9DmUhs_0000004 89.2 93.8 
+James_Cromwell/TX0oD9DmUhs_0000005 94.1 103.2 
+James_Cromwell/TX0oD9DmUhs_0000006 103.3 115.4 
+James_Cromwell/TX0oD9DmUhs_0000007 123.2 128.0 
+James_Cromwell/TX0oD9DmUhs_0000008 133.4 156.6 
+James_Cromwell/TX0oD9DmUhs_0000009 157.2 166.4 
+James_Cromwell/TX0oD9DmUhs_0000010 166.6 176.2 
+James_Cromwell/TX0oD9DmUhs_0000011 189.6 233.4 
+James_Cromwell/TX0oD9DmUhs_0000012 234.7 248.5 
+James_Cromwell/TX0oD9DmUhs_0000013 261.4 275.2 
+James_Cromwell/TX0oD9DmUhs_0000014 280.6 288.8 
+James_Cromwell/TX0oD9DmUhs_0000015 299.2 303.8 
+James_Cromwell/TX0oD9DmUhs_0000016 306.0 311.7 
+James_Cromwell/TX0oD9DmUhs_0000017 313.8 321.3 
+James_Cromwell/TX0oD9DmUhs_0000018 338.2 346.0 
+James_Cromwell/TX0oD9DmUhs_0000019 346.8 379.2 

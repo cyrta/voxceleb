@@ -1,0 +1,7 @@
+POI: 			Aneurin_Barnard 
+Youtube ID: 	L5YfWcgkmJs 
+Video length: 	194.6 sec 
+Set (V): 		dev 
+ 
+Aneurin_Barnard/L5YfWcgkmJs_0000001 33.6 45.7 
+Aneurin_Barnard/L5YfWcgkmJs_0000002 46.0 59.8 

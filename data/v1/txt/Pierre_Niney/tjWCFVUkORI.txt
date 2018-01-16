@@ -1,0 +1,12 @@
+POI: 			Pierre_Niney 
+Youtube ID: 	tjWCFVUkORI 
+Video length: 	201.5 sec 
+Set (V): 		dev 
+ 
+Pierre_Niney/tjWCFVUkORI_0000001 28.2 32.9 
+Pierre_Niney/tjWCFVUkORI_0000002 56.2 60.2 
+Pierre_Niney/tjWCFVUkORI_0000003 75.4 79.6 
+Pierre_Niney/tjWCFVUkORI_0000004 88.0 96.1 
+Pierre_Niney/tjWCFVUkORI_0000005 101.7 106.5 
+Pierre_Niney/tjWCFVUkORI_0000006 123.0 127.0 
+Pierre_Niney/tjWCFVUkORI_0000007 153.2 173.7 

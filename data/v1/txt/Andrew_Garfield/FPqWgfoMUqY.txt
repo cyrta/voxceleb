@@ -1,0 +1,9 @@
+POI: 			Andrew_Garfield 
+Youtube ID: 	FPqWgfoMUqY 
+Video length: 	477.6 sec 
+Set (V): 		dev 
+ 
+Andrew_Garfield/FPqWgfoMUqY_0000001 60.4 72.2 
+Andrew_Garfield/FPqWgfoMUqY_0000002 402.9 407.4 
+Andrew_Garfield/FPqWgfoMUqY_0000003 408.5 412.6 
+Andrew_Garfield/FPqWgfoMUqY_0000004 415.0 419.4 

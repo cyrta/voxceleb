@@ -1,0 +1,9 @@
+POI: 			Nelly 
+Youtube ID: 	rgPn6eF_g_o 
+Video length: 	148.7 sec 
+Set (V): 		dev 
+ 
+Nelly/rgPn6eF_g_o_0000001 12.7 17.6 
+Nelly/rgPn6eF_g_o_0000002 25.4 34.2 
+Nelly/rgPn6eF_g_o_0000003 34.4 44.9 
+Nelly/rgPn6eF_g_o_0000004 87.4 99.1 

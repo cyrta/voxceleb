@@ -1,0 +1,9 @@
+POI: 			Martin_Shaw 
+Youtube ID: 	dpgEnfwdCmQ 
+Video length: 	208.0 sec 
+Set (V): 		dev 
+ 
+Martin_Shaw/dpgEnfwdCmQ_0000001 47.6 51.7 
+Martin_Shaw/dpgEnfwdCmQ_0000002 57.0 64.2 
+Martin_Shaw/dpgEnfwdCmQ_0000003 81.2 89.4 
+Martin_Shaw/dpgEnfwdCmQ_0000004 160.6 165.2 

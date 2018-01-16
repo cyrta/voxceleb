@@ -1,0 +1,9 @@
+POI: 			Adam_Brody 
+Youtube ID: 	zbFJH6QsV48 
+Video length: 	268.1 sec 
+Set (V): 		dev 
+ 
+Adam_Brody/zbFJH6QsV48_0000001 106.3 111.1 
+Adam_Brody/zbFJH6QsV48_0000002 118.0 124.6 
+Adam_Brody/zbFJH6QsV48_0000003 137.5 141.4 
+Adam_Brody/zbFJH6QsV48_0000004 153.2 158.4 

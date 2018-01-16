@@ -1,0 +1,23 @@
+POI: 			Jim_Jefferies 
+Youtube ID: 	TopK757d3P4 
+Video length: 	873.8 sec 
+Set (V): 		dev 
+ 
+Jim_Jefferies/TopK757d3P4_0000001 58.8 73.9 
+Jim_Jefferies/TopK757d3P4_0000002 164.7 191.6 
+Jim_Jefferies/TopK757d3P4_0000003 213.4 226.6 
+Jim_Jefferies/TopK757d3P4_0000004 238.5 242.5 
+Jim_Jefferies/TopK757d3P4_0000005 243.2 248.7 
+Jim_Jefferies/TopK757d3P4_0000006 269.3 278.2 
+Jim_Jefferies/TopK757d3P4_0000007 278.8 289.1 
+Jim_Jefferies/TopK757d3P4_0000008 308.3 312.3 
+Jim_Jefferies/TopK757d3P4_0000009 313.4 324.8 
+Jim_Jefferies/TopK757d3P4_0000010 436.6 444.6 
+Jim_Jefferies/TopK757d3P4_0000011 450.0 456.6 
+Jim_Jefferies/TopK757d3P4_0000012 463.3 472.9 
+Jim_Jefferies/TopK757d3P4_0000013 509.0 519.6 
+Jim_Jefferies/TopK757d3P4_0000014 541.0 555.4 
+Jim_Jefferies/TopK757d3P4_0000015 557.3 567.6 
+Jim_Jefferies/TopK757d3P4_0000016 571.4 577.4 
+Jim_Jefferies/TopK757d3P4_0000017 583.2 590.2 
+Jim_Jefferies/TopK757d3P4_0000018 604.8 620.7 

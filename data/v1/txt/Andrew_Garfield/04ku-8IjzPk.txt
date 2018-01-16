@@ -1,0 +1,16 @@
+POI: 			Andrew_Garfield 
+Youtube ID: 	04ku-8IjzPk 
+Video length: 	712.1 sec 
+Set (V): 		dev 
+ 
+Andrew_Garfield/04ku-8IjzPk_0000001 23.1 30.9 
+Andrew_Garfield/04ku-8IjzPk_0000002 123.2 144.9 
+Andrew_Garfield/04ku-8IjzPk_0000003 153.2 164.5 
+Andrew_Garfield/04ku-8IjzPk_0000004 310.1 316.0 
+Andrew_Garfield/04ku-8IjzPk_0000005 318.0 324.1 
+Andrew_Garfield/04ku-8IjzPk_0000006 367.9 381.0 
+Andrew_Garfield/04ku-8IjzPk_0000007 382.1 393.2 
+Andrew_Garfield/04ku-8IjzPk_0000008 537.5 541.5 
+Andrew_Garfield/04ku-8IjzPk_0000009 542.3 547.0 
+Andrew_Garfield/04ku-8IjzPk_0000010 663.9 668.0 
+Andrew_Garfield/04ku-8IjzPk_0000011 673.5 678.3 

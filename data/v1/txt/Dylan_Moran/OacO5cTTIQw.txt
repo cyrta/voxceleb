@@ -1,0 +1,11 @@
+POI: 			Dylan_Moran 
+Youtube ID: 	OacO5cTTIQw 
+Video length: 	362.8 sec 
+Set (V): 		dev 
+ 
+Dylan_Moran/OacO5cTTIQw_0000001 51.0 56.7 
+Dylan_Moran/OacO5cTTIQw_0000002 66.5 70.7 
+Dylan_Moran/OacO5cTTIQw_0000003 137.6 142.3 
+Dylan_Moran/OacO5cTTIQw_0000004 160.8 165.4 
+Dylan_Moran/OacO5cTTIQw_0000005 239.6 245.2 
+Dylan_Moran/OacO5cTTIQw_0000006 322.0 327.2 

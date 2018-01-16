@@ -1,0 +1,10 @@
+POI: 			Hugh_Dancy 
+Youtube ID: 	BBK7nkfQcls 
+Video length: 	323.7 sec 
+Set (V): 		dev 
+ 
+Hugh_Dancy/BBK7nkfQcls_0000001 225.8 230.2 
+Hugh_Dancy/BBK7nkfQcls_0000002 235.5 243.7 
+Hugh_Dancy/BBK7nkfQcls_0000003 270.3 277.4 
+Hugh_Dancy/BBK7nkfQcls_0000004 289.8 297.6 
+Hugh_Dancy/BBK7nkfQcls_0000005 298.5 305.8 

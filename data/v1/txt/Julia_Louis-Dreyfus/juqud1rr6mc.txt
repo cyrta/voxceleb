@@ -1,0 +1,12 @@
+POI: 			Julia_Louis-Dreyfus 
+Youtube ID: 	juqud1rr6mc 
+Video length: 	154.6 sec 
+Set (V): 		dev 
+ 
+Julia_Louis-Dreyfus/juqud1rr6mc_0000001 42.4 52.6 
+Julia_Louis-Dreyfus/juqud1rr6mc_0000002 62.2 71.2 
+Julia_Louis-Dreyfus/juqud1rr6mc_0000003 74.4 78.8 
+Julia_Louis-Dreyfus/juqud1rr6mc_0000004 80.9 85.4 
+Julia_Louis-Dreyfus/juqud1rr6mc_0000005 91.2 96.0 
+Julia_Louis-Dreyfus/juqud1rr6mc_0000006 98.2 104.0 
+Julia_Louis-Dreyfus/juqud1rr6mc_0000007 115.0 128.6 

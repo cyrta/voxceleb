@@ -1,0 +1,16 @@
+POI: 			Wendell_Pierce 
+Youtube ID: 	8pWTf4mjVwQ 
+Video length: 	212.4 sec 
+Set (V): 		dev 
+ 
+Wendell_Pierce/8pWTf4mjVwQ_0000001 41.1 45.7 
+Wendell_Pierce/8pWTf4mjVwQ_0000002 46.0 54.4 
+Wendell_Pierce/8pWTf4mjVwQ_0000003 55.1 60.0 
+Wendell_Pierce/8pWTf4mjVwQ_0000004 60.7 65.8 
+Wendell_Pierce/8pWTf4mjVwQ_0000005 66.4 97.9 
+Wendell_Pierce/8pWTf4mjVwQ_0000006 111.2 123.1 
+Wendell_Pierce/8pWTf4mjVwQ_0000007 124.1 138.0 
+Wendell_Pierce/8pWTf4mjVwQ_0000008 138.8 153.5 
+Wendell_Pierce/8pWTf4mjVwQ_0000009 154.3 159.1 
+Wendell_Pierce/8pWTf4mjVwQ_0000010 178.4 184.5 
+Wendell_Pierce/8pWTf4mjVwQ_0000011 185.8 207.3 

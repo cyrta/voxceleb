@@ -1,0 +1,7 @@
+POI: 			Adam_Beach 
+Youtube ID: 	seo9TTTEoE4 
+Video length: 	263.1 sec 
+Set (V): 		dev 
+ 
+Adam_Beach/seo9TTTEoE4_0000001 20.2 25.0 
+Adam_Beach/seo9TTTEoE4_0000002 98.4 104.1 

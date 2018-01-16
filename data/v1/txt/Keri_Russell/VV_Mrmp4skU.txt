@@ -1,0 +1,8 @@
+POI: 			Keri_Russell 
+Youtube ID: 	VV_Mrmp4skU 
+Video length: 	320.8 sec 
+Set (V): 		dev 
+ 
+Keri_Russell/VV_Mrmp4skU_0000001 122.2 127.0 
+Keri_Russell/VV_Mrmp4skU_0000002 150.9 161.9 
+Keri_Russell/VV_Mrmp4skU_0000003 227.4 238.1 

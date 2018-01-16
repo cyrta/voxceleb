@@ -1,0 +1,9 @@
+POI: 			Octavia_Spencer 
+Youtube ID: 	DEQjU4M3wDI 
+Video length: 	250.2 sec 
+Set (V): 		dev 
+ 
+Octavia_Spencer/DEQjU4M3wDI_0000001 140.8 144.9 
+Octavia_Spencer/DEQjU4M3wDI_0000002 145.9 150.0 
+Octavia_Spencer/DEQjU4M3wDI_0000003 152.9 169.0 
+Octavia_Spencer/DEQjU4M3wDI_0000004 176.7 183.1 

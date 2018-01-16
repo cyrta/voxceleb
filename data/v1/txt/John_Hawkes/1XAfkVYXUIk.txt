@@ -1,0 +1,7 @@
+POI: 			John_Hawkes 
+Youtube ID: 	1XAfkVYXUIk 
+Video length: 	294.9 sec 
+Set (V): 		dev 
+ 
+John_Hawkes/1XAfkVYXUIk_0000001 64.7 70.4 
+John_Hawkes/1XAfkVYXUIk_0000002 207.5 211.5 

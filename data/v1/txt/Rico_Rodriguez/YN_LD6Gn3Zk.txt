@@ -1,0 +1,10 @@
+POI: 			Rico_Rodriguez 
+Youtube ID: 	YN_LD6Gn3Zk 
+Video length: 	333.3 sec 
+Set (V): 		dev 
+ 
+Rico_Rodriguez/YN_LD6Gn3Zk_0000001 82.4 88.4 
+Rico_Rodriguez/YN_LD6Gn3Zk_0000002 89.2 102.7 
+Rico_Rodriguez/YN_LD6Gn3Zk_0000003 102.8 107.0 
+Rico_Rodriguez/YN_LD6Gn3Zk_0000004 266.0 274.5 
+Rico_Rodriguez/YN_LD6Gn3Zk_0000005 274.6 282.8 

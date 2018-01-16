@@ -1,0 +1,7 @@
+POI: 			Joel_Kinnaman 
+Youtube ID: 	xlzm1jVXzt0 
+Video length: 	212.7 sec 
+Set (V): 		dev 
+ 
+Joel_Kinnaman/xlzm1jVXzt0_0000001 110.4 117.6 
+Joel_Kinnaman/xlzm1jVXzt0_0000002 148.3 159.8 

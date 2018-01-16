@@ -1,0 +1,9 @@
+POI: 			Eugene_Levy 
+Youtube ID: 	jUSC4i_eGHs 
+Video length: 	414.9 sec 
+Set (V): 		test 
+ 
+Eugene_Levy/jUSC4i_eGHs_0000001 127.0 132.0 
+Eugene_Levy/jUSC4i_eGHs_0000002 139.4 144.6 
+Eugene_Levy/jUSC4i_eGHs_0000003 204.7 209.8 
+Eugene_Levy/jUSC4i_eGHs_0000004 221.6 227.9 
