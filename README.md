@@ -6,8 +6,8 @@ This repo contains the download links to the VoxCeleb dataset, described in [1].
 
 VoxCeleb contains over 100,000 utterances for 1,251 celebrities, extracted from videos uploaded to YouTube. The dataset is gender balanced, with 55% of the speakers male. The speakers span a wide range of different ethnicities, accents, professions and ages. There are no overlapping identities between development and test sets.
 
-|	              | dev     |  test |
-=====================================
+|	                | dev     |  test |
+|-----------------|---------|-------|
 |# of speakers    | 1,211   | 40    |
 |# of videos      | 21,819  | 677   |
 |# of utterances  | 139,124 | 6,255 |
