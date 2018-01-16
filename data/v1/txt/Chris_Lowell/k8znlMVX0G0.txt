@@ -1,0 +1,7 @@
+POI: 			Chris_Lowell 
+Youtube ID: 	k8znlMVX0G0 
+Video length: 	230.9 sec 
+Set (V): 		dev 
+ 
+Chris_Lowell/k8znlMVX0G0_0000001 86.5 93.8 
+Chris_Lowell/k8znlMVX0G0_0000002 94.2 98.3 

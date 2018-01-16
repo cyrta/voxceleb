@@ -1,0 +1,10 @@
+POI: 			Oscar_Isaac 
+Youtube ID: 	oT6Zetx6AVk 
+Video length: 	249.5 sec 
+Set (V): 		dev 
+ 
+Oscar_Isaac/oT6Zetx6AVk_0000001 71.5 78.8 
+Oscar_Isaac/oT6Zetx6AVk_0000002 163.7 169.8 
+Oscar_Isaac/oT6Zetx6AVk_0000003 178.3 192.7 
+Oscar_Isaac/oT6Zetx6AVk_0000004 210.3 219.8 
+Oscar_Isaac/oT6Zetx6AVk_0000005 220.4 225.4 

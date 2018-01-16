@@ -1,0 +1,10 @@
+POI: 			Yvette_Nicole_Brown 
+Youtube ID: 	lTShr_aVBcM 
+Video length: 	140.6 sec 
+Set (V): 		dev 
+ 
+Yvette_Nicole_Brown/lTShr_aVBcM_0000001 16.2 35.2 
+Yvette_Nicole_Brown/lTShr_aVBcM_0000002 39.9 56.6 
+Yvette_Nicole_Brown/lTShr_aVBcM_0000003 63.7 70.1 
+Yvette_Nicole_Brown/lTShr_aVBcM_0000004 84.5 88.8 
+Yvette_Nicole_Brown/lTShr_aVBcM_0000005 89.4 124.0 

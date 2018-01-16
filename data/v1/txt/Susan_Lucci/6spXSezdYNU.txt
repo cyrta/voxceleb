@@ -1,0 +1,11 @@
+POI: 			Susan_Lucci 
+Youtube ID: 	6spXSezdYNU 
+Video length: 	356.2 sec 
+Set (V): 		dev 
+ 
+Susan_Lucci/6spXSezdYNU_0000001 89.9 98.0 
+Susan_Lucci/6spXSezdYNU_0000002 109.3 127.3 
+Susan_Lucci/6spXSezdYNU_0000003 139.0 143.2 
+Susan_Lucci/6spXSezdYNU_0000004 147.7 159.8 
+Susan_Lucci/6spXSezdYNU_0000005 170.7 175.6 
+Susan_Lucci/6spXSezdYNU_0000006 185.7 189.7 

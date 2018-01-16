@@ -1,0 +1,17 @@
+POI: 			Kiefer_Sutherland 
+Youtube ID: 	voU2UKUeRbU 
+Video length: 	243.8 sec 
+Set (V): 		dev 
+ 
+Kiefer_Sutherland/voU2UKUeRbU_0000001 42.6 52.0 
+Kiefer_Sutherland/voU2UKUeRbU_0000002 53.0 66.4 
+Kiefer_Sutherland/voU2UKUeRbU_0000003 79.5 90.6 
+Kiefer_Sutherland/voU2UKUeRbU_0000004 95.4 107.5 
+Kiefer_Sutherland/voU2UKUeRbU_0000005 121.6 126.1 
+Kiefer_Sutherland/voU2UKUeRbU_0000006 126.5 134.2 
+Kiefer_Sutherland/voU2UKUeRbU_0000007 134.8 141.0 
+Kiefer_Sutherland/voU2UKUeRbU_0000008 141.7 146.2 
+Kiefer_Sutherland/voU2UKUeRbU_0000009 164.8 170.4 
+Kiefer_Sutherland/voU2UKUeRbU_0000010 171.3 176.3 
+Kiefer_Sutherland/voU2UKUeRbU_0000011 178.2 188.6 
+Kiefer_Sutherland/voU2UKUeRbU_0000012 196.8 206.8 

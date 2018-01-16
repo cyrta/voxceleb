@@ -1,0 +1,8 @@
+POI: 			Paddy_Considine 
+Youtube ID: 	rK8vUmcq0Ts 
+Video length: 	416.6 sec 
+Set (V): 		dev 
+ 
+Paddy_Considine/rK8vUmcq0Ts_0000001 122.8 136.5 
+Paddy_Considine/rK8vUmcq0Ts_0000002 142.4 148.6 
+Paddy_Considine/rK8vUmcq0Ts_0000003 256.9 265.1 

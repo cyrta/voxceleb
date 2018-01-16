@@ -1,0 +1,7 @@
+POI: 			Jack_Lemmon 
+Youtube ID: 	C6nIaOB-djo 
+Video length: 	393.5 sec 
+Set (V): 		dev 
+ 
+Jack_Lemmon/C6nIaOB-djo_0000001 312.2 316.8 
+Jack_Lemmon/C6nIaOB-djo_0000002 359.2 365.5 

@@ -1,0 +1,7 @@
+POI: 			Aaron_Yoo 
+Youtube ID: 	x-1gq_B3snI 
+Video length: 	371.3 sec 
+Set (V): 		dev 
+ 
+Aaron_Yoo/x-1gq_B3snI_0000001 205.3 209.3 
+Aaron_Yoo/x-1gq_B3snI_0000002 266.6 271.0 

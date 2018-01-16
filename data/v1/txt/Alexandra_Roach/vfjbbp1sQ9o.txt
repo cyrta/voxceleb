@@ -1,0 +1,12 @@
+POI: 			Alexandra_Roach 
+Youtube ID: 	vfjbbp1sQ9o 
+Video length: 	242.2 sec 
+Set (V): 		dev 
+ 
+Alexandra_Roach/vfjbbp1sQ9o_0000001 128.4 134.5 
+Alexandra_Roach/vfjbbp1sQ9o_0000002 134.6 160.2 
+Alexandra_Roach/vfjbbp1sQ9o_0000003 164.3 171.2 
+Alexandra_Roach/vfjbbp1sQ9o_0000004 172.2 181.5 
+Alexandra_Roach/vfjbbp1sQ9o_0000005 182.2 191.4 
+Alexandra_Roach/vfjbbp1sQ9o_0000006 195.9 200.4 
+Alexandra_Roach/vfjbbp1sQ9o_0000007 205.9 212.8 

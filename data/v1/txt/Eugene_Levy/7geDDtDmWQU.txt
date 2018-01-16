@@ -1,0 +1,12 @@
+POI: 			Eugene_Levy 
+Youtube ID: 	7geDDtDmWQU 
+Video length: 	219.1 sec 
+Set (V): 		test 
+ 
+Eugene_Levy/7geDDtDmWQU_0000001 29.0 34.4 
+Eugene_Levy/7geDDtDmWQU_0000002 38.1 42.2 
+Eugene_Levy/7geDDtDmWQU_0000003 82.1 86.4 
+Eugene_Levy/7geDDtDmWQU_0000004 87.0 92.0 
+Eugene_Levy/7geDDtDmWQU_0000005 92.5 98.8 
+Eugene_Levy/7geDDtDmWQU_0000006 183.4 190.8 
+Eugene_Levy/7geDDtDmWQU_0000007 205.5 211.2 

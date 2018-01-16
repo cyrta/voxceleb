@@ -1,0 +1,11 @@
+POI: 			Olivia_Williams 
+Youtube ID: 	GOYU68Av1RE 
+Video length: 	140.7 sec 
+Set (V): 		dev 
+ 
+Olivia_Williams/GOYU68Av1RE_0000001 06.1 30.0 
+Olivia_Williams/GOYU68Av1RE_0000002 42.5 74.5 
+Olivia_Williams/GOYU68Av1RE_0000003 77.6 81.7 
+Olivia_Williams/GOYU68Av1RE_0000004 82.3 104.9 
+Olivia_Williams/GOYU68Av1RE_0000005 105.6 119.2 
+Olivia_Williams/GOYU68Av1RE_0000006 121.9 135.9 

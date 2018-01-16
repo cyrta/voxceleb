@@ -1,0 +1,13 @@
+POI: 			Nicki_Minaj 
+Youtube ID: 	ztz1E1DcgkE 
+Video length: 	352.0 sec 
+Set (V): 		dev 
+ 
+Nicki_Minaj/ztz1E1DcgkE_0000001 55.5 61.4 
+Nicki_Minaj/ztz1E1DcgkE_0000002 141.7 153.1 
+Nicki_Minaj/ztz1E1DcgkE_0000003 154.0 162.6 
+Nicki_Minaj/ztz1E1DcgkE_0000004 171.7 184.8 
+Nicki_Minaj/ztz1E1DcgkE_0000005 187.7 191.9 
+Nicki_Minaj/ztz1E1DcgkE_0000006 196.6 202.2 
+Nicki_Minaj/ztz1E1DcgkE_0000007 247.8 253.8 
+Nicki_Minaj/ztz1E1DcgkE_0000008 265.4 293.2 

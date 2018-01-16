@@ -1,0 +1,7 @@
+POI: 			Linda_Cardellini 
+Youtube ID: 	4TZ1MTUJ3f8 
+Video length: 	98.2 sec 
+Set (V): 		dev 
+ 
+Linda_Cardellini/4TZ1MTUJ3f8_0000001 16.8 22.6 
+Linda_Cardellini/4TZ1MTUJ3f8_0000002 82.1 86.5 

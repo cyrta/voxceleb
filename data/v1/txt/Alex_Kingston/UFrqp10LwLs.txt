@@ -1,0 +1,8 @@
+POI: 			Alex_Kingston 
+Youtube ID: 	UFrqp10LwLs 
+Video length: 	326.4 sec 
+Set (V): 		dev 
+ 
+Alex_Kingston/UFrqp10LwLs_0000001 278.9 286.5 
+Alex_Kingston/UFrqp10LwLs_0000002 287.0 296.0 
+Alex_Kingston/UFrqp10LwLs_0000003 305.7 310.2 

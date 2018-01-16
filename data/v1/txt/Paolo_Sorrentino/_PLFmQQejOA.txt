@@ -1,0 +1,12 @@
+POI: 			Paolo_Sorrentino 
+Youtube ID: 	_PLFmQQejOA 
+Video length: 	131.5 sec 
+Set (V): 		dev 
+ 
+Paolo_Sorrentino/_PLFmQQejOA_0000001 08.8 17.4 
+Paolo_Sorrentino/_PLFmQQejOA_0000002 21.1 25.7 
+Paolo_Sorrentino/_PLFmQQejOA_0000003 32.7 37.2 
+Paolo_Sorrentino/_PLFmQQejOA_0000004 38.9 43.7 
+Paolo_Sorrentino/_PLFmQQejOA_0000005 73.4 81.4 
+Paolo_Sorrentino/_PLFmQQejOA_0000006 97.6 102.2 
+Paolo_Sorrentino/_PLFmQQejOA_0000007 115.8 119.9 

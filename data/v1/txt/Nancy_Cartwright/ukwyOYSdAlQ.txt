@@ -1,0 +1,13 @@
+POI: 			Nancy_Cartwright 
+Youtube ID: 	ukwyOYSdAlQ 
+Video length: 	140.3 sec 
+Set (V): 		dev 
+ 
+Nancy_Cartwright/ukwyOYSdAlQ_0000001 11.8 21.6 
+Nancy_Cartwright/ukwyOYSdAlQ_0000002 26.6 32.6 
+Nancy_Cartwright/ukwyOYSdAlQ_0000003 33.2 64.2 
+Nancy_Cartwright/ukwyOYSdAlQ_0000004 69.3 80.9 
+Nancy_Cartwright/ukwyOYSdAlQ_0000005 91.8 97.0 
+Nancy_Cartwright/ukwyOYSdAlQ_0000006 106.6 111.4 
+Nancy_Cartwright/ukwyOYSdAlQ_0000007 112.0 125.0 
+Nancy_Cartwright/ukwyOYSdAlQ_0000008 125.6 131.3 

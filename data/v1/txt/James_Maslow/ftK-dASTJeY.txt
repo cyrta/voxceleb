@@ -1,0 +1,8 @@
+POI: 			James_Maslow 
+Youtube ID: 	ftK-dASTJeY 
+Video length: 	164.2 sec 
+Set (V): 		dev 
+ 
+James_Maslow/ftK-dASTJeY_0000001 24.6 29.3 
+James_Maslow/ftK-dASTJeY_0000002 97.2 104.3 
+James_Maslow/ftK-dASTJeY_0000003 104.8 109.0 

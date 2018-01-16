@@ -1,0 +1,11 @@
+POI: 			Deidre_Hall 
+Youtube ID: 	SBYgqFuCMpE 
+Video length: 	329.4 sec 
+Set (V): 		dev 
+ 
+Deidre_Hall/SBYgqFuCMpE_0000001 91.0 97.5 
+Deidre_Hall/SBYgqFuCMpE_0000002 171.8 176.0 
+Deidre_Hall/SBYgqFuCMpE_0000003 194.5 202.7 
+Deidre_Hall/SBYgqFuCMpE_0000004 223.3 227.8 
+Deidre_Hall/SBYgqFuCMpE_0000005 244.4 254.2 
+Deidre_Hall/SBYgqFuCMpE_0000006 290.6 303.8 

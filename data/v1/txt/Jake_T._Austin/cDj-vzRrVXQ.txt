@@ -1,0 +1,9 @@
+POI: 			Jake_T._Austin 
+Youtube ID: 	cDj-vzRrVXQ 
+Video length: 	645.9 sec 
+Set (V): 		dev 
+ 
+Jake_T._Austin/cDj-vzRrVXQ_0000001 252.2 260.5 
+Jake_T._Austin/cDj-vzRrVXQ_0000002 293.8 298.5 
+Jake_T._Austin/cDj-vzRrVXQ_0000003 311.2 315.5 
+Jake_T._Austin/cDj-vzRrVXQ_0000004 321.0 329.8 

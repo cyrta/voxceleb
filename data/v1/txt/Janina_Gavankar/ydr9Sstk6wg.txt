@@ -1,0 +1,9 @@
+POI: 			Janina_Gavankar 
+Youtube ID: 	ydr9Sstk6wg 
+Video length: 	255.2 sec 
+Set (V): 		dev 
+ 
+Janina_Gavankar/ydr9Sstk6wg_0000001 101.5 105.7 
+Janina_Gavankar/ydr9Sstk6wg_0000002 168.1 175.4 
+Janina_Gavankar/ydr9Sstk6wg_0000003 205.8 211.5 
+Janina_Gavankar/ydr9Sstk6wg_0000004 232.1 238.2 

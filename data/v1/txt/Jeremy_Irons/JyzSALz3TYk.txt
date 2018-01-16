@@ -1,0 +1,35 @@
+POI: 			Jeremy_Irons 
+Youtube ID: 	JyzSALz3TYk 
+Video length: 	522.8 sec 
+Set (V): 		dev 
+ 
+Jeremy_Irons/JyzSALz3TYk_0000001 21.4 25.8 
+Jeremy_Irons/JyzSALz3TYk_0000002 40.6 44.7 
+Jeremy_Irons/JyzSALz3TYk_0000003 49.0 60.2 
+Jeremy_Irons/JyzSALz3TYk_0000004 65.4 69.8 
+Jeremy_Irons/JyzSALz3TYk_0000005 73.5 79.8 
+Jeremy_Irons/JyzSALz3TYk_0000006 86.1 100.7 
+Jeremy_Irons/JyzSALz3TYk_0000007 123.9 129.7 
+Jeremy_Irons/JyzSALz3TYk_0000008 136.3 140.4 
+Jeremy_Irons/JyzSALz3TYk_0000009 145.6 153.0 
+Jeremy_Irons/JyzSALz3TYk_0000010 180.8 188.7 
+Jeremy_Irons/JyzSALz3TYk_0000011 190.1 198.4 
+Jeremy_Irons/JyzSALz3TYk_0000012 206.1 234.5 
+Jeremy_Irons/JyzSALz3TYk_0000013 239.2 245.2 
+Jeremy_Irons/JyzSALz3TYk_0000014 262.8 267.8 
+Jeremy_Irons/JyzSALz3TYk_0000015 274.4 285.3 
+Jeremy_Irons/JyzSALz3TYk_0000016 288.2 298.6 
+Jeremy_Irons/JyzSALz3TYk_0000017 305.3 309.4 
+Jeremy_Irons/JyzSALz3TYk_0000018 328.0 332.0 
+Jeremy_Irons/JyzSALz3TYk_0000019 341.9 353.8 
+Jeremy_Irons/JyzSALz3TYk_0000020 359.8 367.4 
+Jeremy_Irons/JyzSALz3TYk_0000021 367.6 380.9 
+Jeremy_Irons/JyzSALz3TYk_0000022 384.5 404.0 
+Jeremy_Irons/JyzSALz3TYk_0000023 407.9 413.7 
+Jeremy_Irons/JyzSALz3TYk_0000024 438.0 446.1 
+Jeremy_Irons/JyzSALz3TYk_0000025 450.1 456.8 
+Jeremy_Irons/JyzSALz3TYk_0000026 457.3 465.6 
+Jeremy_Irons/JyzSALz3TYk_0000027 473.5 479.2 
+Jeremy_Irons/JyzSALz3TYk_0000028 480.4 487.5 
+Jeremy_Irons/JyzSALz3TYk_0000029 490.9 500.5 
+Jeremy_Irons/JyzSALz3TYk_0000030 501.8 509.3 

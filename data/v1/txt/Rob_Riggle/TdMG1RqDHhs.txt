@@ -1,0 +1,19 @@
+POI: 			Rob_Riggle 
+Youtube ID: 	TdMG1RqDHhs 
+Video length: 	295.7 sec 
+Set (V): 		dev 
+ 
+Rob_Riggle/TdMG1RqDHhs_0000001 29.4 45.0 
+Rob_Riggle/TdMG1RqDHhs_0000002 50.3 56.2 
+Rob_Riggle/TdMG1RqDHhs_0000003 56.4 62.1 
+Rob_Riggle/TdMG1RqDHhs_0000004 76.8 85.6 
+Rob_Riggle/TdMG1RqDHhs_0000005 86.8 91.2 
+Rob_Riggle/TdMG1RqDHhs_0000006 103.8 115.0 
+Rob_Riggle/TdMG1RqDHhs_0000007 134.4 139.0 
+Rob_Riggle/TdMG1RqDHhs_0000008 147.5 169.2 
+Rob_Riggle/TdMG1RqDHhs_0000009 171.2 187.3 
+Rob_Riggle/TdMG1RqDHhs_0000010 199.3 213.6 
+Rob_Riggle/TdMG1RqDHhs_0000011 216.0 222.4 
+Rob_Riggle/TdMG1RqDHhs_0000012 228.4 235.7 
+Rob_Riggle/TdMG1RqDHhs_0000013 253.6 258.4 
+Rob_Riggle/TdMG1RqDHhs_0000014 265.6 270.4 

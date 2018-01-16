@@ -1,0 +1,21 @@
+POI: 			Eric_Dane 
+Youtube ID: 	3tvnlmkCiTw 
+Video length: 	616.6 sec 
+Set (V): 		test 
+ 
+Eric_Dane/3tvnlmkCiTw_0000001 113.1 120.7 
+Eric_Dane/3tvnlmkCiTw_0000002 122.6 134.4 
+Eric_Dane/3tvnlmkCiTw_0000003 136.9 141.0 
+Eric_Dane/3tvnlmkCiTw_0000004 246.4 262.2 
+Eric_Dane/3tvnlmkCiTw_0000005 271.8 277.7 
+Eric_Dane/3tvnlmkCiTw_0000006 278.2 298.7 
+Eric_Dane/3tvnlmkCiTw_0000007 373.4 383.3 
+Eric_Dane/3tvnlmkCiTw_0000008 384.0 401.0 
+Eric_Dane/3tvnlmkCiTw_0000009 407.5 417.4 
+Eric_Dane/3tvnlmkCiTw_0000010 441.3 446.6 
+Eric_Dane/3tvnlmkCiTw_0000011 446.8 453.2 
+Eric_Dane/3tvnlmkCiTw_0000012 453.5 459.9 
+Eric_Dane/3tvnlmkCiTw_0000013 483.2 489.3 
+Eric_Dane/3tvnlmkCiTw_0000014 489.4 506.1 
+Eric_Dane/3tvnlmkCiTw_0000015 507.0 512.6 
+Eric_Dane/3tvnlmkCiTw_0000016 531.0 546.5 

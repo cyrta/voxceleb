@@ -1,0 +1,12 @@
+POI: 			J.J._Abrams 
+Youtube ID: 	pJZ6HyZuftU 
+Video length: 	389.4 sec 
+Set (V): 		dev 
+ 
+J.J._Abrams/pJZ6HyZuftU_0000001 27.6 31.6 
+J.J._Abrams/pJZ6HyZuftU_0000002 31.8 39.6 
+J.J._Abrams/pJZ6HyZuftU_0000003 57.7 63.5 
+J.J._Abrams/pJZ6HyZuftU_0000004 67.6 72.2 
+J.J._Abrams/pJZ6HyZuftU_0000005 133.1 149.1 
+J.J._Abrams/pJZ6HyZuftU_0000006 165.5 198.1 
+J.J._Abrams/pJZ6HyZuftU_0000007 199.5 219.0 

@@ -1,0 +1,8 @@
+POI: 			Richard_Kind 
+Youtube ID: 	DGAgPRj3MBg 
+Video length: 	253.0 sec 
+Set (V): 		dev 
+ 
+Richard_Kind/DGAgPRj3MBg_0000001 50.2 55.3 
+Richard_Kind/DGAgPRj3MBg_0000002 97.7 102.6 
+Richard_Kind/DGAgPRj3MBg_0000003 230.1 235.5 

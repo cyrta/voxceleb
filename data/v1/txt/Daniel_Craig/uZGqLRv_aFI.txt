@@ -1,0 +1,13 @@
+POI: 			Daniel_Craig 
+Youtube ID: 	uZGqLRv_aFI 
+Video length: 	236.1 sec 
+Set (V): 		dev 
+ 
+Daniel_Craig/uZGqLRv_aFI_0000001 32.6 40.0 
+Daniel_Craig/uZGqLRv_aFI_0000002 49.1 54.2 
+Daniel_Craig/uZGqLRv_aFI_0000003 55.7 62.3 
+Daniel_Craig/uZGqLRv_aFI_0000004 67.3 72.4 
+Daniel_Craig/uZGqLRv_aFI_0000005 74.8 85.4 
+Daniel_Craig/uZGqLRv_aFI_0000006 115.1 125.5 
+Daniel_Craig/uZGqLRv_aFI_0000007 127.5 132.2 
+Daniel_Craig/uZGqLRv_aFI_0000008 189.6 208.2 

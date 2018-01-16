@@ -1,0 +1,7 @@
+POI: 			Harry_Treadaway 
+Youtube ID: 	EuJVvYyAgik 
+Video length: 	81.1 sec 
+Set (V): 		dev 
+ 
+Harry_Treadaway/EuJVvYyAgik_0000001 28.1 32.9 
+Harry_Treadaway/EuJVvYyAgik_0000002 43.4 55.2 

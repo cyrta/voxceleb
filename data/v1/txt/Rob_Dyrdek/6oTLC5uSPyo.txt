@@ -1,0 +1,9 @@
+POI: 			Rob_Dyrdek 
+Youtube ID: 	6oTLC5uSPyo 
+Video length: 	229.4 sec 
+Set (V): 		dev 
+ 
+Rob_Dyrdek/6oTLC5uSPyo_0000001 30.5 34.6 
+Rob_Dyrdek/6oTLC5uSPyo_0000002 115.7 120.0 
+Rob_Dyrdek/6oTLC5uSPyo_0000003 139.4 145.7 
+Rob_Dyrdek/6oTLC5uSPyo_0000004 184.5 189.4 

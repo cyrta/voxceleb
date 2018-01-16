@@ -1,0 +1,12 @@
+POI: 			Misha_Collins 
+Youtube ID: 	krzBaCitIkM 
+Video length: 	267.3 sec 
+Set (V): 		dev 
+ 
+Misha_Collins/krzBaCitIkM_0000001 19.7 26.4 
+Misha_Collins/krzBaCitIkM_0000002 91.1 96.4 
+Misha_Collins/krzBaCitIkM_0000003 130.8 139.5 
+Misha_Collins/krzBaCitIkM_0000004 143.8 150.2 
+Misha_Collins/krzBaCitIkM_0000005 172.4 179.6 
+Misha_Collins/krzBaCitIkM_0000006 227.5 234.0 
+Misha_Collins/krzBaCitIkM_0000007 245.5 255.5 

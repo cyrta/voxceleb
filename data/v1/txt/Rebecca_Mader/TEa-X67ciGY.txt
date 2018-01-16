@@ -1,0 +1,21 @@
+POI: 			Rebecca_Mader 
+Youtube ID: 	TEa-X67ciGY 
+Video length: 	396.6 sec 
+Set (V): 		dev 
+ 
+Rebecca_Mader/TEa-X67ciGY_0000001 27.6 40.6 
+Rebecca_Mader/TEa-X67ciGY_0000002 50.0 57.5 
+Rebecca_Mader/TEa-X67ciGY_0000003 71.1 80.0 
+Rebecca_Mader/TEa-X67ciGY_0000004 92.2 96.2 
+Rebecca_Mader/TEa-X67ciGY_0000005 98.2 110.2 
+Rebecca_Mader/TEa-X67ciGY_0000006 113.6 118.4 
+Rebecca_Mader/TEa-X67ciGY_0000007 118.5 122.6 
+Rebecca_Mader/TEa-X67ciGY_0000008 110.1 122.6 
+Rebecca_Mader/TEa-X67ciGY_0000009 181.3 187.3 
+Rebecca_Mader/TEa-X67ciGY_0000010 187.7 195.2 
+Rebecca_Mader/TEa-X67ciGY_0000011 199.2 204.1 
+Rebecca_Mader/TEa-X67ciGY_0000012 206.3 211.1 
+Rebecca_Mader/TEa-X67ciGY_0000013 204.8 214.1 
+Rebecca_Mader/TEa-X67ciGY_0000014 243.1 249.2 
+Rebecca_Mader/TEa-X67ciGY_0000015 249.3 254.0 
+Rebecca_Mader/TEa-X67ciGY_0000016 278.1 284.4 

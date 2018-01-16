@@ -1,0 +1,11 @@
+POI: 			Geena_Davis 
+Youtube ID: 	mCCXcn-160k 
+Video length: 	213.8 sec 
+Set (V): 		dev 
+ 
+Geena_Davis/mCCXcn-160k_0000001 19.9 24.1 
+Geena_Davis/mCCXcn-160k_0000002 37.5 42.4 
+Geena_Davis/mCCXcn-160k_0000003 50.6 56.9 
+Geena_Davis/mCCXcn-160k_0000004 76.2 85.2 
+Geena_Davis/mCCXcn-160k_0000005 91.2 98.0 
+Geena_Davis/mCCXcn-160k_0000006 187.0 193.4 

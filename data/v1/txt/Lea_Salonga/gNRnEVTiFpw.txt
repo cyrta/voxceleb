@@ -1,0 +1,8 @@
+POI: 			Lea_Salonga 
+Youtube ID: 	gNRnEVTiFpw 
+Video length: 	667.1 sec 
+Set (V): 		dev 
+ 
+Lea_Salonga/gNRnEVTiFpw_0000001 103.4 109.9 
+Lea_Salonga/gNRnEVTiFpw_0000002 348.4 354.0 
+Lea_Salonga/gNRnEVTiFpw_0000003 371.0 381.1 

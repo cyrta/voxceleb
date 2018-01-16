@@ -1,0 +1,23 @@
+POI: 			James_Cromwell 
+Youtube ID: 	xIaiI4TdkKA 
+Video length: 	508.2 sec 
+Set (V): 		dev 
+ 
+James_Cromwell/xIaiI4TdkKA_0000001 20.6 28.9 
+James_Cromwell/xIaiI4TdkKA_0000002 50.7 57.6 
+James_Cromwell/xIaiI4TdkKA_0000003 79.2 85.9 
+James_Cromwell/xIaiI4TdkKA_0000004 112.3 116.3 
+James_Cromwell/xIaiI4TdkKA_0000005 122.5 128.6 
+James_Cromwell/xIaiI4TdkKA_0000006 129.4 135.2 
+James_Cromwell/xIaiI4TdkKA_0000007 136.4 141.3 
+James_Cromwell/xIaiI4TdkKA_0000008 151.9 156.5 
+James_Cromwell/xIaiI4TdkKA_0000009 191.2 195.6 
+James_Cromwell/xIaiI4TdkKA_0000010 254.4 259.3 
+James_Cromwell/xIaiI4TdkKA_0000011 265.8 272.1 
+James_Cromwell/xIaiI4TdkKA_0000012 275.8 279.8 
+James_Cromwell/xIaiI4TdkKA_0000013 282.3 286.8 
+James_Cromwell/xIaiI4TdkKA_0000014 334.4 338.7 
+James_Cromwell/xIaiI4TdkKA_0000015 407.0 413.5 
+James_Cromwell/xIaiI4TdkKA_0000016 418.5 424.2 
+James_Cromwell/xIaiI4TdkKA_0000017 453.9 460.2 
+James_Cromwell/xIaiI4TdkKA_0000018 463.7 468.2 

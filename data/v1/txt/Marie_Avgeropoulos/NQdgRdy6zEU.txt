@@ -1,0 +1,13 @@
+POI: 			Marie_Avgeropoulos 
+Youtube ID: 	NQdgRdy6zEU 
+Video length: 	185.4 sec 
+Set (V): 		dev 
+ 
+Marie_Avgeropoulos/NQdgRdy6zEU_0000001 27.0 37.0 
+Marie_Avgeropoulos/NQdgRdy6zEU_0000002 39.4 47.3 
+Marie_Avgeropoulos/NQdgRdy6zEU_0000003 53.0 60.2 
+Marie_Avgeropoulos/NQdgRdy6zEU_0000004 62.0 68.1 
+Marie_Avgeropoulos/NQdgRdy6zEU_0000005 68.6 72.8 
+Marie_Avgeropoulos/NQdgRdy6zEU_0000006 99.2 103.8 
+Marie_Avgeropoulos/NQdgRdy6zEU_0000007 126.7 132.4 
+Marie_Avgeropoulos/NQdgRdy6zEU_0000008 153.0 168.6 

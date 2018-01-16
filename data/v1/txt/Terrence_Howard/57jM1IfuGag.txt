@@ -1,0 +1,9 @@
+POI: 			Terrence_Howard 
+Youtube ID: 	57jM1IfuGag 
+Video length: 	271.0 sec 
+Set (V): 		dev 
+ 
+Terrence_Howard/57jM1IfuGag_0000001 71.8 76.0 
+Terrence_Howard/57jM1IfuGag_0000002 83.8 91.1 
+Terrence_Howard/57jM1IfuGag_0000003 128.4 139.0 
+Terrence_Howard/57jM1IfuGag_0000004 217.9 223.5 

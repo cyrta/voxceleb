@@ -1,0 +1,7 @@
+POI: 			John_Francis_Daley 
+Youtube ID: 	eIVG-ouVjwM 
+Video length: 	45.0 sec 
+Set (V): 		dev 
+ 
+John_Francis_Daley/eIVG-ouVjwM_0000001 00.8 13.9 
+John_Francis_Daley/eIVG-ouVjwM_0000002 35.8 42.0 

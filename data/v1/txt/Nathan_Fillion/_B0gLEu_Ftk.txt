@@ -1,0 +1,13 @@
+POI: 			Nathan_Fillion 
+Youtube ID: 	_B0gLEu_Ftk 
+Video length: 	611.4 sec 
+Set (V): 		dev 
+ 
+Nathan_Fillion/_B0gLEu_Ftk_0000001 46.2 50.9 
+Nathan_Fillion/_B0gLEu_Ftk_0000002 83.8 88.1 
+Nathan_Fillion/_B0gLEu_Ftk_0000003 100.0 106.0 
+Nathan_Fillion/_B0gLEu_Ftk_0000004 282.8 288.0 
+Nathan_Fillion/_B0gLEu_Ftk_0000005 294.4 300.3 
+Nathan_Fillion/_B0gLEu_Ftk_0000006 493.7 501.7 
+Nathan_Fillion/_B0gLEu_Ftk_0000007 543.7 550.3 
+Nathan_Fillion/_B0gLEu_Ftk_0000008 558.7 571.4 

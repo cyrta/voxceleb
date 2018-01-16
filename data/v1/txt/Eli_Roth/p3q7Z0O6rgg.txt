@@ -1,0 +1,10 @@
+POI: 			Eli_Roth 
+Youtube ID: 	p3q7Z0O6rgg 
+Video length: 	126.4 sec 
+Set (V): 		test 
+ 
+Eli_Roth/p3q7Z0O6rgg_0000001 10.8 18.2 
+Eli_Roth/p3q7Z0O6rgg_0000002 20.3 25.6 
+Eli_Roth/p3q7Z0O6rgg_0000003 27.8 65.0 
+Eli_Roth/p3q7Z0O6rgg_0000004 72.1 97.5 
+Eli_Roth/p3q7Z0O6rgg_0000005 99.3 109.5 

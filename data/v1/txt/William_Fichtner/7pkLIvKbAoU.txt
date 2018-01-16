@@ -1,0 +1,7 @@
+POI: 			William_Fichtner 
+Youtube ID: 	7pkLIvKbAoU 
+Video length: 	398.8 sec 
+Set (V): 		dev 
+ 
+William_Fichtner/7pkLIvKbAoU_0000001 58.9 64.8 
+William_Fichtner/7pkLIvKbAoU_0000002 72.6 76.7 

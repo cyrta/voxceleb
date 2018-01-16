@@ -1,0 +1,11 @@
+POI: 			Miranda_Richardson 
+Youtube ID: 	BLg5O2tu4_I 
+Video length: 	264.1 sec 
+Set (V): 		dev 
+ 
+Miranda_Richardson/BLg5O2tu4_I_0000001 33.4 42.8 
+Miranda_Richardson/BLg5O2tu4_I_0000002 45.2 52.3 
+Miranda_Richardson/BLg5O2tu4_I_0000003 68.1 75.0 
+Miranda_Richardson/BLg5O2tu4_I_0000004 196.0 202.0 
+Miranda_Richardson/BLg5O2tu4_I_0000005 206.8 210.8 
+Miranda_Richardson/BLg5O2tu4_I_0000006 217.1 225.4 

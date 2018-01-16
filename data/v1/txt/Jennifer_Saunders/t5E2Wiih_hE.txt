@@ -1,0 +1,8 @@
+POI: 			Jennifer_Saunders 
+Youtube ID: 	t5E2Wiih_hE 
+Video length: 	653.2 sec 
+Set (V): 		dev 
+ 
+Jennifer_Saunders/t5E2Wiih_hE_0000001 361.2 365.2 
+Jennifer_Saunders/t5E2Wiih_hE_0000002 421.4 433.0 
+Jennifer_Saunders/t5E2Wiih_hE_0000003 456.0 462.4 

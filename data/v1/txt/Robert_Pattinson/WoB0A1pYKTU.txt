@@ -1,0 +1,10 @@
+POI: 			Robert_Pattinson 
+Youtube ID: 	WoB0A1pYKTU 
+Video length: 	200.9 sec 
+Set (V): 		dev 
+ 
+Robert_Pattinson/WoB0A1pYKTU_0000001 67.1 72.8 
+Robert_Pattinson/WoB0A1pYKTU_0000002 77.0 85.8 
+Robert_Pattinson/WoB0A1pYKTU_0000003 90.7 95.8 
+Robert_Pattinson/WoB0A1pYKTU_0000004 151.6 170.6 
+Robert_Pattinson/WoB0A1pYKTU_0000005 174.4 180.5 

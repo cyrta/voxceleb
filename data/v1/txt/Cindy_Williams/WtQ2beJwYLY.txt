@@ -1,0 +1,12 @@
+POI: 			Cindy_Williams 
+Youtube ID: 	WtQ2beJwYLY 
+Video length: 	125.0 sec 
+Set (V): 		dev 
+ 
+Cindy_Williams/WtQ2beJwYLY_0000001 06.5 20.3 
+Cindy_Williams/WtQ2beJwYLY_0000002 20.7 27.1 
+Cindy_Williams/WtQ2beJwYLY_0000003 36.2 42.5 
+Cindy_Williams/WtQ2beJwYLY_0000004 44.2 52.9 
+Cindy_Williams/WtQ2beJwYLY_0000005 72.5 84.6 
+Cindy_Williams/WtQ2beJwYLY_0000006 93.2 97.2 
+Cindy_Williams/WtQ2beJwYLY_0000007 102.3 114.9 

@@ -1,0 +1,12 @@
+POI: 			John_Lloyd_Young 
+Youtube ID: 	rUMp_b_Xh7E 
+Video length: 	225.7 sec 
+Set (V): 		dev 
+ 
+John_Lloyd_Young/rUMp_b_Xh7E_0000001 33.6 42.7 
+John_Lloyd_Young/rUMp_b_Xh7E_0000002 117.4 122.9 
+John_Lloyd_Young/rUMp_b_Xh7E_0000003 135.4 140.0 
+John_Lloyd_Young/rUMp_b_Xh7E_0000004 163.9 175.5 
+John_Lloyd_Young/rUMp_b_Xh7E_0000005 176.0 184.1 
+John_Lloyd_Young/rUMp_b_Xh7E_0000006 184.0 188.4 
+John_Lloyd_Young/rUMp_b_Xh7E_0000007 203.0 208.6 

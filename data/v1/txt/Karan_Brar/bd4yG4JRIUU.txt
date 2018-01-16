@@ -1,0 +1,16 @@
+POI: 			Karan_Brar 
+Youtube ID: 	bd4yG4JRIUU 
+Video length: 	220.0 sec 
+Set (V): 		dev 
+ 
+Karan_Brar/bd4yG4JRIUU_0000001 12.0 27.0 
+Karan_Brar/bd4yG4JRIUU_0000002 35.4 41.3 
+Karan_Brar/bd4yG4JRIUU_0000003 43.3 51.4 
+Karan_Brar/bd4yG4JRIUU_0000004 53.8 58.1 
+Karan_Brar/bd4yG4JRIUU_0000005 75.8 83.4 
+Karan_Brar/bd4yG4JRIUU_0000006 97.2 104.5 
+Karan_Brar/bd4yG4JRIUU_0000007 116.4 120.5 
+Karan_Brar/bd4yG4JRIUU_0000008 134.4 148.6 
+Karan_Brar/bd4yG4JRIUU_0000009 155.2 166.2 
+Karan_Brar/bd4yG4JRIUU_0000010 171.3 176.3 
+Karan_Brar/bd4yG4JRIUU_0000011 192.3 197.5 

@@ -1,0 +1,11 @@
+POI: 			Shane_West 
+Youtube ID: 	a5c2_gwMBsQ 
+Video length: 	624.5 sec 
+Set (V): 		dev 
+ 
+Shane_West/a5c2_gwMBsQ_0000001 153.6 158.2 
+Shane_West/a5c2_gwMBsQ_0000002 236.7 241.4 
+Shane_West/a5c2_gwMBsQ_0000003 312.6 327.3 
+Shane_West/a5c2_gwMBsQ_0000004 386.7 394.4 
+Shane_West/a5c2_gwMBsQ_0000005 460.4 465.2 
+Shane_West/a5c2_gwMBsQ_0000006 582.8 593.0 

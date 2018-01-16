@@ -1,0 +1,7 @@
+POI: 			Theo_James 
+Youtube ID: 	CpKjrgA_PCI 
+Video length: 	210.5 sec 
+Set (V): 		dev 
+ 
+Theo_James/CpKjrgA_PCI_0000001 33.8 41.4 
+Theo_James/CpKjrgA_PCI_0000002 121.6 127.6 

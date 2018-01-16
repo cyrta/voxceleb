@@ -1,0 +1,21 @@
+POI: 			Wilson_Cruz 
+Youtube ID: 	fYrSDJluUtU 
+Video length: 	307.9 sec 
+Set (V): 		dev 
+ 
+Wilson_Cruz/fYrSDJluUtU_0000001 27.4 32.6 
+Wilson_Cruz/fYrSDJluUtU_0000002 35.4 46.4 
+Wilson_Cruz/fYrSDJluUtU_0000003 47.7 53.7 
+Wilson_Cruz/fYrSDJluUtU_0000004 55.4 61.8 
+Wilson_Cruz/fYrSDJluUtU_0000005 70.5 83.2 
+Wilson_Cruz/fYrSDJluUtU_0000006 77.5 83.3 
+Wilson_Cruz/fYrSDJluUtU_0000007 89.2 95.2 
+Wilson_Cruz/fYrSDJluUtU_0000008 99.0 114.3 
+Wilson_Cruz/fYrSDJluUtU_0000009 123.5 151.0 
+Wilson_Cruz/fYrSDJluUtU_0000010 152.0 158.2 
+Wilson_Cruz/fYrSDJluUtU_0000011 158.5 163.2 
+Wilson_Cruz/fYrSDJluUtU_0000012 184.5 188.8 
+Wilson_Cruz/fYrSDJluUtU_0000013 190.4 210.1 
+Wilson_Cruz/fYrSDJluUtU_0000014 234.4 238.7 
+Wilson_Cruz/fYrSDJluUtU_0000015 253.6 286.2 
+Wilson_Cruz/fYrSDJluUtU_0000016 292.2 299.4 

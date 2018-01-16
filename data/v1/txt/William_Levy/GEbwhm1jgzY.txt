@@ -1,0 +1,14 @@
+POI: 			William_Levy 
+Youtube ID: 	GEbwhm1jgzY 
+Video length: 	232.8 sec 
+Set (V): 		dev 
+ 
+William_Levy/GEbwhm1jgzY_0000001 17.0 21.1 
+William_Levy/GEbwhm1jgzY_0000002 37.5 41.6 
+William_Levy/GEbwhm1jgzY_0000003 42.4 47.8 
+William_Levy/GEbwhm1jgzY_0000004 48.6 56.1 
+William_Levy/GEbwhm1jgzY_0000005 62.8 68.7 
+William_Levy/GEbwhm1jgzY_0000006 83.5 106.0 
+William_Levy/GEbwhm1jgzY_0000007 141.1 162.8 
+William_Levy/GEbwhm1jgzY_0000008 163.6 168.9 
+William_Levy/GEbwhm1jgzY_0000009 205.5 209.6 

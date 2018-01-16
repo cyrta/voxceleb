@@ -1,0 +1,9 @@
+POI: 			Jack_Whitehall 
+Youtube ID: 	HLjFGPwtMco 
+Video length: 	193.6 sec 
+Set (V): 		dev 
+ 
+Jack_Whitehall/HLjFGPwtMco_0000001 92.2 101.3 
+Jack_Whitehall/HLjFGPwtMco_0000002 111.7 122.2 
+Jack_Whitehall/HLjFGPwtMco_0000003 151.6 157.1 
+Jack_Whitehall/HLjFGPwtMco_0000004 164.4 171.8 

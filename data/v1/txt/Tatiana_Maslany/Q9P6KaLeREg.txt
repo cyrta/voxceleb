@@ -1,0 +1,10 @@
+POI: 			Tatiana_Maslany 
+Youtube ID: 	Q9P6KaLeREg 
+Video length: 	199.8 sec 
+Set (V): 		dev 
+ 
+Tatiana_Maslany/Q9P6KaLeREg_0000001 21.0 25.5 
+Tatiana_Maslany/Q9P6KaLeREg_0000002 57.0 61.4 
+Tatiana_Maslany/Q9P6KaLeREg_0000003 62.1 66.9 
+Tatiana_Maslany/Q9P6KaLeREg_0000004 67.2 72.5 
+Tatiana_Maslany/Q9P6KaLeREg_0000005 113.9 124.4 

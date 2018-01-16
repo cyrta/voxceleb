@@ -1,0 +1,7 @@
+POI: 			Dan_Stevens 
+Youtube ID: 	ZO3z2aTigLg 
+Video length: 	309.0 sec 
+Set (V): 		dev 
+ 
+Dan_Stevens/ZO3z2aTigLg_0000001 81.9 86.9 
+Dan_Stevens/ZO3z2aTigLg_0000002 136.6 145.0 

@@ -1,0 +1,9 @@
+POI: 			James_Lipton 
+Youtube ID: 	F5VihgGBMD4 
+Video length: 	173.1 sec 
+Set (V): 		dev 
+ 
+James_Lipton/F5VihgGBMD4_0000001 68.9 74.2 
+James_Lipton/F5VihgGBMD4_0000002 104.7 110.8 
+James_Lipton/F5VihgGBMD4_0000003 111.8 116.2 
+James_Lipton/F5VihgGBMD4_0000004 124.6 131.6 

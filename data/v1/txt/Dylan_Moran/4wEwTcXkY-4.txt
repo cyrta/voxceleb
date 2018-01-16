@@ -1,0 +1,9 @@
+POI: 			Dylan_Moran 
+Youtube ID: 	4wEwTcXkY-4 
+Video length: 	316.4 sec 
+Set (V): 		dev 
+ 
+Dylan_Moran/4wEwTcXkY-4_0000001 72.5 77.1 
+Dylan_Moran/4wEwTcXkY-4_0000002 108.9 113.3 
+Dylan_Moran/4wEwTcXkY-4_0000003 117.9 124.0 
+Dylan_Moran/4wEwTcXkY-4_0000004 201.2 207.1 

@@ -1,0 +1,14 @@
+POI: 			Ben_McKenzie 
+Youtube ID: 	xqV41OliJMk 
+Video length: 	401.1 sec 
+Set (V): 		dev 
+ 
+Ben_McKenzie/xqV41OliJMk_0000001 71.8 77.6 
+Ben_McKenzie/xqV41OliJMk_0000002 79.7 84.0 
+Ben_McKenzie/xqV41OliJMk_0000003 134.6 141.0 
+Ben_McKenzie/xqV41OliJMk_0000004 245.4 260.0 
+Ben_McKenzie/xqV41OliJMk_0000005 275.4 284.9 
+Ben_McKenzie/xqV41OliJMk_0000006 299.4 304.8 
+Ben_McKenzie/xqV41OliJMk_0000007 339.8 344.6 
+Ben_McKenzie/xqV41OliJMk_0000008 345.2 355.2 
+Ben_McKenzie/xqV41OliJMk_0000009 357.3 368.9 

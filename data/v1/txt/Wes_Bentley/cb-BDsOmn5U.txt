@@ -1,0 +1,7 @@
+POI: 			Wes_Bentley 
+Youtube ID: 	cb-BDsOmn5U 
+Video length: 	47.3 sec 
+Set (V): 		dev 
+ 
+Wes_Bentley/cb-BDsOmn5U_0000001 15.4 19.4 
+Wes_Bentley/cb-BDsOmn5U_0000002 24.6 30.0 

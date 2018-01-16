@@ -1,0 +1,9 @@
+POI: 			Dan_Stevens 
+Youtube ID: 	31p3nU8DlYU 
+Video length: 	318.1 sec 
+Set (V): 		dev 
+ 
+Dan_Stevens/31p3nU8DlYU_0000001 28.6 40.7 
+Dan_Stevens/31p3nU8DlYU_0000002 45.7 70.2 
+Dan_Stevens/31p3nU8DlYU_0000003 245.6 252.0 
+Dan_Stevens/31p3nU8DlYU_0000004 265.6 282.7 

@@ -1,0 +1,11 @@
+POI: 			Sammy_Davis_Jr. 
+Youtube ID: 	0fAMg2xjlrI 
+Video length: 	890.0 sec 
+Set (V): 		dev 
+ 
+Sammy_Davis_Jr./0fAMg2xjlrI_0000001 299.6 307.8 
+Sammy_Davis_Jr./0fAMg2xjlrI_0000002 324.1 330.5 
+Sammy_Davis_Jr./0fAMg2xjlrI_0000003 723.1 729.4 
+Sammy_Davis_Jr./0fAMg2xjlrI_0000004 734.6 740.2 
+Sammy_Davis_Jr./0fAMg2xjlrI_0000005 827.4 835.0 
+Sammy_Davis_Jr./0fAMg2xjlrI_0000006 877.4 881.7 

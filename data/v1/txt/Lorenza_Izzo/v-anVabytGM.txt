@@ -1,0 +1,8 @@
+POI: 			Lorenza_Izzo 
+Youtube ID: 	v-anVabytGM 
+Video length: 	119.2 sec 
+Set (V): 		dev 
+ 
+Lorenza_Izzo/v-anVabytGM_0000001 83.0 93.0 
+Lorenza_Izzo/v-anVabytGM_0000002 93.3 101.4 
+Lorenza_Izzo/v-anVabytGM_0000003 101.8 108.8 

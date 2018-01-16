@@ -1,0 +1,8 @@
+POI: 			Miranda_Kerr 
+Youtube ID: 	H2B_cHaJzOU 
+Video length: 	261.6 sec 
+Set (V): 		dev 
+ 
+Miranda_Kerr/H2B_cHaJzOU_0000001 89.1 96.4 
+Miranda_Kerr/H2B_cHaJzOU_0000002 96.4 102.1 
+Miranda_Kerr/H2B_cHaJzOU_0000003 201.0 209.2 

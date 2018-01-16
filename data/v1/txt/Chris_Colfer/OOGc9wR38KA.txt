@@ -1,0 +1,7 @@
+POI: 			Chris_Colfer 
+Youtube ID: 	OOGc9wR38KA 
+Video length: 	286.8 sec 
+Set (V): 		dev 
+ 
+Chris_Colfer/OOGc9wR38KA_0000001 95.0 105.3 
+Chris_Colfer/OOGc9wR38KA_0000002 167.6 173.0 

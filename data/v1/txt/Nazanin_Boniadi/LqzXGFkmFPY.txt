@@ -1,0 +1,12 @@
+POI: 			Nazanin_Boniadi 
+Youtube ID: 	LqzXGFkmFPY 
+Video length: 	371.2 sec 
+Set (V): 		dev 
+ 
+Nazanin_Boniadi/LqzXGFkmFPY_0000001 09.2 26.2 
+Nazanin_Boniadi/LqzXGFkmFPY_0000002 31.2 35.2 
+Nazanin_Boniadi/LqzXGFkmFPY_0000003 42.8 53.0 
+Nazanin_Boniadi/LqzXGFkmFPY_0000004 84.2 89.8 
+Nazanin_Boniadi/LqzXGFkmFPY_0000005 100.2 108.4 
+Nazanin_Boniadi/LqzXGFkmFPY_0000006 108.8 124.4 
+Nazanin_Boniadi/LqzXGFkmFPY_0000007 137.8 152.8 

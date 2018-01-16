@@ -1,0 +1,7 @@
+POI: 			Janet_Jackson 
+Youtube ID: 	bu0AQ2_RqkU 
+Video length: 	670.2 sec 
+Set (V): 		dev 
+ 
+Janet_Jackson/bu0AQ2_RqkU_0000001 158.2 162.6 
+Janet_Jackson/bu0AQ2_RqkU_0000002 246.5 251.8 

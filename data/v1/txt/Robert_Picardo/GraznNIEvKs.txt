@@ -1,0 +1,17 @@
+POI: 			Robert_Picardo 
+Youtube ID: 	GraznNIEvKs 
+Video length: 	2735.8 sec 
+Set (V): 		dev 
+ 
+Robert_Picardo/GraznNIEvKs_0000001 664.6 671.2 
+Robert_Picardo/GraznNIEvKs_0000002 678.7 697.1 
+Robert_Picardo/GraznNIEvKs_0000003 697.3 705.7 
+Robert_Picardo/GraznNIEvKs_0000004 712.1 720.3 
+Robert_Picardo/GraznNIEvKs_0000005 765.8 769.7 
+Robert_Picardo/GraznNIEvKs_0000006 934.9 940.2 
+Robert_Picardo/GraznNIEvKs_0000007 1040.2 1046.8 
+Robert_Picardo/GraznNIEvKs_0000008 1047.5 1054.3 
+Robert_Picardo/GraznNIEvKs_0000009 1043.2 1055.7 
+Robert_Picardo/GraznNIEvKs_0000010 1056.5 1067.3 
+Robert_Picardo/GraznNIEvKs_0000011 1077.5 1094.5 
+Robert_Picardo/GraznNIEvKs_0000012 1098.6 1103.1 

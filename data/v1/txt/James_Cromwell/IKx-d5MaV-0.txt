@@ -1,0 +1,21 @@
+POI: 			James_Cromwell 
+Youtube ID: 	IKx-d5MaV-0 
+Video length: 	346.8 sec 
+Set (V): 		dev 
+ 
+James_Cromwell/IKx-d5MaV-0_0000001 23.6 38.8 
+James_Cromwell/IKx-d5MaV-0_0000002 42.0 54.0 
+James_Cromwell/IKx-d5MaV-0_0000003 54.6 58.8 
+James_Cromwell/IKx-d5MaV-0_0000004 85.8 92.3 
+James_Cromwell/IKx-d5MaV-0_0000005 100.7 111.8 
+James_Cromwell/IKx-d5MaV-0_0000006 113.0 131.3 
+James_Cromwell/IKx-d5MaV-0_0000007 132.0 143.1 
+James_Cromwell/IKx-d5MaV-0_0000008 155.5 166.9 
+James_Cromwell/IKx-d5MaV-0_0000009 171.7 178.1 
+James_Cromwell/IKx-d5MaV-0_0000010 178.3 186.9 
+James_Cromwell/IKx-d5MaV-0_0000011 190.3 253.6 
+James_Cromwell/IKx-d5MaV-0_0000012 254.4 266.8 
+James_Cromwell/IKx-d5MaV-0_0000013 268.5 273.3 
+James_Cromwell/IKx-d5MaV-0_0000014 302.4 306.6 
+James_Cromwell/IKx-d5MaV-0_0000015 308.7 318.3 
+James_Cromwell/IKx-d5MaV-0_0000016 330.9 338.0 

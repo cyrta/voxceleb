@@ -1,0 +1,6 @@
+POI: 			Alice_Eve 
+Youtube ID: 	JjigE5TMyQk 
+Video length: 	356.0 sec 
+Set (V): 		dev 
+ 
+Alice_Eve/JjigE5TMyQk_0000001 205.7 217.6 

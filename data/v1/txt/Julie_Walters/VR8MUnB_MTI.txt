@@ -1,0 +1,12 @@
+POI: 			Julie_Walters 
+Youtube ID: 	VR8MUnB_MTI 
+Video length: 	2264.2 sec 
+Set (V): 		dev 
+ 
+Julie_Walters/VR8MUnB_MTI_0000001 451.9 458.4 
+Julie_Walters/VR8MUnB_MTI_0000002 1058.2 1063.0 
+Julie_Walters/VR8MUnB_MTI_0000003 1069.3 1073.3 
+Julie_Walters/VR8MUnB_MTI_0000004 1109.6 1114.5 
+Julie_Walters/VR8MUnB_MTI_0000005 1120.5 1125.0 
+Julie_Walters/VR8MUnB_MTI_0000006 1173.9 1177.9 
+Julie_Walters/VR8MUnB_MTI_0000007 1256.0 1264.8 

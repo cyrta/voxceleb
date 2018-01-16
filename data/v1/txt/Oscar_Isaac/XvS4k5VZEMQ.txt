@@ -1,0 +1,8 @@
+POI: 			Oscar_Isaac 
+Youtube ID: 	XvS4k5VZEMQ 
+Video length: 	150.3 sec 
+Set (V): 		dev 
+ 
+Oscar_Isaac/XvS4k5VZEMQ_0000001 67.8 71.9 
+Oscar_Isaac/XvS4k5VZEMQ_0000002 78.8 87.2 
+Oscar_Isaac/XvS4k5VZEMQ_0000003 108.4 115.2 

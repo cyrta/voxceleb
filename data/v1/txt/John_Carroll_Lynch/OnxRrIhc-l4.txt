@@ -1,0 +1,19 @@
+POI: 			John_Carroll_Lynch 
+Youtube ID: 	OnxRrIhc-l4 
+Video length: 	3129.2 sec 
+Set (V): 		dev 
+ 
+John_Carroll_Lynch/OnxRrIhc-l4_0000001 323.4 327.5 
+John_Carroll_Lynch/OnxRrIhc-l4_0000002 346.4 351.1 
+John_Carroll_Lynch/OnxRrIhc-l4_0000003 892.1 897.0 
+John_Carroll_Lynch/OnxRrIhc-l4_0000004 1678.9 1684.2 
+John_Carroll_Lynch/OnxRrIhc-l4_0000005 1899.2 1903.2 
+John_Carroll_Lynch/OnxRrIhc-l4_0000006 2298.5 2303.5 
+John_Carroll_Lynch/OnxRrIhc-l4_0000007 2403.6 2409.5 
+John_Carroll_Lynch/OnxRrIhc-l4_0000008 2647.8 2653.2 
+John_Carroll_Lynch/OnxRrIhc-l4_0000009 2648.7 2653.2 
+John_Carroll_Lynch/OnxRrIhc-l4_0000010 2674.4 2679.9 
+John_Carroll_Lynch/OnxRrIhc-l4_0000011 2682.8 2687.6 
+John_Carroll_Lynch/OnxRrIhc-l4_0000012 2710.8 2715.6 
+John_Carroll_Lynch/OnxRrIhc-l4_0000013 2730.4 2735.1 
+John_Carroll_Lynch/OnxRrIhc-l4_0000014 2771.5 2777.8 

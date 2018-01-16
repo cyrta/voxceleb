@@ -1,0 +1,13 @@
+POI: 			Andrew_Scott 
+Youtube ID: 	ddv4v8CUhas 
+Video length: 	183.1 sec 
+Set (V): 		dev 
+ 
+Andrew_Scott/ddv4v8CUhas_0000001 13.9 19.1 
+Andrew_Scott/ddv4v8CUhas_0000002 23.3 27.6 
+Andrew_Scott/ddv4v8CUhas_0000003 30.0 41.3 
+Andrew_Scott/ddv4v8CUhas_0000004 61.5 67.8 
+Andrew_Scott/ddv4v8CUhas_0000005 85.7 90.2 
+Andrew_Scott/ddv4v8CUhas_0000006 93.8 101.3 
+Andrew_Scott/ddv4v8CUhas_0000007 104.2 111.4 
+Andrew_Scott/ddv4v8CUhas_0000008 160.1 164.2 

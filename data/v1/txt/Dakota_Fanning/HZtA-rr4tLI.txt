@@ -1,0 +1,20 @@
+POI: 			Dakota_Fanning 
+Youtube ID: 	HZtA-rr4tLI 
+Video length: 	217.4 sec 
+Set (V): 		dev 
+ 
+Dakota_Fanning/HZtA-rr4tLI_0000001 11.6 18.0 
+Dakota_Fanning/HZtA-rr4tLI_0000002 18.3 23.6 
+Dakota_Fanning/HZtA-rr4tLI_0000003 31.0 36.2 
+Dakota_Fanning/HZtA-rr4tLI_0000004 55.1 69.0 
+Dakota_Fanning/HZtA-rr4tLI_0000005 72.5 83.9 
+Dakota_Fanning/HZtA-rr4tLI_0000006 89.2 93.4 
+Dakota_Fanning/HZtA-rr4tLI_0000007 93.7 113.3 
+Dakota_Fanning/HZtA-rr4tLI_0000008 116.8 122.2 
+Dakota_Fanning/HZtA-rr4tLI_0000009 144.1 151.5 
+Dakota_Fanning/HZtA-rr4tLI_0000010 164.8 170.3 
+Dakota_Fanning/HZtA-rr4tLI_0000011 147.0 153.5 
+Dakota_Fanning/HZtA-rr4tLI_0000012 156.8 164.6 
+Dakota_Fanning/HZtA-rr4tLI_0000013 164.9 177.6 
+Dakota_Fanning/HZtA-rr4tLI_0000014 188.0 203.2 
+Dakota_Fanning/HZtA-rr4tLI_0000015 204.0 209.2 

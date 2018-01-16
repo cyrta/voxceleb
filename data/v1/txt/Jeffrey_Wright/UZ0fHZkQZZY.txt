@@ -1,0 +1,7 @@
+POI: 			Jeffrey_Wright 
+Youtube ID: 	UZ0fHZkQZZY 
+Video length: 	75.7 sec 
+Set (V): 		dev 
+ 
+Jeffrey_Wright/UZ0fHZkQZZY_0000001 37.5 52.6 
+Jeffrey_Wright/UZ0fHZkQZZY_0000002 54.8 66.5 

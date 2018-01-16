@@ -1,0 +1,8 @@
+POI: 			January_Jones 
+Youtube ID: 	qPnm0jmoO74 
+Video length: 	298.9 sec 
+Set (V): 		dev 
+ 
+January_Jones/qPnm0jmoO74_0000001 107.0 115.4 
+January_Jones/qPnm0jmoO74_0000002 154.1 161.7 
+January_Jones/qPnm0jmoO74_0000003 192.8 199.4 

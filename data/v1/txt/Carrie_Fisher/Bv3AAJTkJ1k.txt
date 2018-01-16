@@ -1,0 +1,7 @@
+POI: 			Carrie_Fisher 
+Youtube ID: 	Bv3AAJTkJ1k 
+Video length: 	278.9 sec 
+Set (V): 		dev 
+ 
+Carrie_Fisher/Bv3AAJTkJ1k_0000001 45.6 56.4 
+Carrie_Fisher/Bv3AAJTkJ1k_0000002 76.3 82.8 

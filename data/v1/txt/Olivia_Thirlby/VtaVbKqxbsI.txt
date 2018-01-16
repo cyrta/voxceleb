@@ -1,0 +1,16 @@
+POI: 			Olivia_Thirlby 
+Youtube ID: 	VtaVbKqxbsI 
+Video length: 	392.7 sec 
+Set (V): 		dev 
+ 
+Olivia_Thirlby/VtaVbKqxbsI_0000001 13.0 21.2 
+Olivia_Thirlby/VtaVbKqxbsI_0000002 31.1 36.0 
+Olivia_Thirlby/VtaVbKqxbsI_0000003 60.4 69.2 
+Olivia_Thirlby/VtaVbKqxbsI_0000004 118.2 123.0 
+Olivia_Thirlby/VtaVbKqxbsI_0000005 137.7 143.0 
+Olivia_Thirlby/VtaVbKqxbsI_0000006 194.4 204.9 
+Olivia_Thirlby/VtaVbKqxbsI_0000007 215.5 233.8 
+Olivia_Thirlby/VtaVbKqxbsI_0000008 247.8 253.7 
+Olivia_Thirlby/VtaVbKqxbsI_0000009 256.5 266.3 
+Olivia_Thirlby/VtaVbKqxbsI_0000010 269.3 275.3 
+Olivia_Thirlby/VtaVbKqxbsI_0000011 289.1 296.5 

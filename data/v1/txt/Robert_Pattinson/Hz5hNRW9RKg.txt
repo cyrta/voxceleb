@@ -1,0 +1,9 @@
+POI: 			Robert_Pattinson 
+Youtube ID: 	Hz5hNRW9RKg 
+Video length: 	300.9 sec 
+Set (V): 		dev 
+ 
+Robert_Pattinson/Hz5hNRW9RKg_0000001 68.3 75.0 
+Robert_Pattinson/Hz5hNRW9RKg_0000002 77.9 82.8 
+Robert_Pattinson/Hz5hNRW9RKg_0000003 101.4 107.4 
+Robert_Pattinson/Hz5hNRW9RKg_0000004 176.9 181.0 

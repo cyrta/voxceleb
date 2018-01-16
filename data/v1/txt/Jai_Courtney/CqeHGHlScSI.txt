@@ -1,0 +1,7 @@
+POI: 			Jai_Courtney 
+Youtube ID: 	CqeHGHlScSI 
+Video length: 	121.8 sec 
+Set (V): 		dev 
+ 
+Jai_Courtney/CqeHGHlScSI_0000001 20.0 28.0 
+Jai_Courtney/CqeHGHlScSI_0000002 34.7 44.6 

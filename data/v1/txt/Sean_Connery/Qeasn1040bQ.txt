@@ -1,0 +1,9 @@
+POI: 			Sean_Connery 
+Youtube ID: 	Qeasn1040bQ 
+Video length: 	547.9 sec 
+Set (V): 		dev 
+ 
+Sean_Connery/Qeasn1040bQ_0000001 208.2 213.6 
+Sean_Connery/Qeasn1040bQ_0000002 258.4 264.2 
+Sean_Connery/Qeasn1040bQ_0000003 481.5 487.1 
+Sean_Connery/Qeasn1040bQ_0000004 487.2 493.3 

@@ -1,0 +1,8 @@
+POI: 			Luke_Arnold 
+Youtube ID: 	LAHad7VLKXw 
+Video length: 	322.3 sec 
+Set (V): 		dev 
+ 
+Luke_Arnold/LAHad7VLKXw_0000001 30.1 35.7 
+Luke_Arnold/LAHad7VLKXw_0000002 35.9 41.7 
+Luke_Arnold/LAHad7VLKXw_0000003 181.1 190.7 

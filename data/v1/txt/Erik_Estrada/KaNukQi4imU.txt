@@ -1,0 +1,8 @@
+POI: 			Erik_Estrada 
+Youtube ID: 	KaNukQi4imU 
+Video length: 	167.7 sec 
+Set (V): 		test 
+ 
+Erik_Estrada/KaNukQi4imU_0000001 85.6 92.6 
+Erik_Estrada/KaNukQi4imU_0000002 131.0 135.6 
+Erik_Estrada/KaNukQi4imU_0000003 142.4 146.6 

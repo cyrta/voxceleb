@@ -1,0 +1,18 @@
+POI: 			Hilary_Swank 
+Youtube ID: 	WzZL_EwJPDE 
+Video length: 	603.0 sec 
+Set (V): 		dev 
+ 
+Hilary_Swank/WzZL_EwJPDE_0000001 18.4 23.0 
+Hilary_Swank/WzZL_EwJPDE_0000002 335.3 351.4 
+Hilary_Swank/WzZL_EwJPDE_0000003 373.6 383.9 
+Hilary_Swank/WzZL_EwJPDE_0000004 402.8 410.6 
+Hilary_Swank/WzZL_EwJPDE_0000005 426.2 434.4 
+Hilary_Swank/WzZL_EwJPDE_0000006 440.9 448.2 
+Hilary_Swank/WzZL_EwJPDE_0000007 463.4 472.0 
+Hilary_Swank/WzZL_EwJPDE_0000008 486.5 493.6 
+Hilary_Swank/WzZL_EwJPDE_0000009 494.4 499.4 
+Hilary_Swank/WzZL_EwJPDE_0000010 515.2 531.6 
+Hilary_Swank/WzZL_EwJPDE_0000011 532.4 537.7 
+Hilary_Swank/WzZL_EwJPDE_0000012 540.7 549.8 
+Hilary_Swank/WzZL_EwJPDE_0000013 550.5 554.8 

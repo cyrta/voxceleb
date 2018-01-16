@@ -1,0 +1,7 @@
+POI: 			Julia_Roberts 
+Youtube ID: 	xSPO4zmt6Fo 
+Video length: 	180.2 sec 
+Set (V): 		dev 
+ 
+Julia_Roberts/xSPO4zmt6Fo_0000001 105.5 112.5 
+Julia_Roberts/xSPO4zmt6Fo_0000002 148.3 165.4 

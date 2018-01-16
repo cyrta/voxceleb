@@ -1,0 +1,11 @@
+POI: 			Geena_Davis 
+Youtube ID: 	s6ZIytkNB1Q 
+Video length: 	291.5 sec 
+Set (V): 		dev 
+ 
+Geena_Davis/s6ZIytkNB1Q_0000001 56.2 60.9 
+Geena_Davis/s6ZIytkNB1Q_0000002 71.9 78.8 
+Geena_Davis/s6ZIytkNB1Q_0000003 79.6 83.6 
+Geena_Davis/s6ZIytkNB1Q_0000004 140.8 145.0 
+Geena_Davis/s6ZIytkNB1Q_0000005 241.4 257.6 
+Geena_Davis/s6ZIytkNB1Q_0000006 263.7 268.8 

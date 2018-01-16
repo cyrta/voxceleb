@@ -1,0 +1,7 @@
+POI: 			Zachary_Gordon 
+Youtube ID: 	GdOBXSK2c10 
+Video length: 	107.9 sec 
+Set (V): 		dev 
+ 
+Zachary_Gordon/GdOBXSK2c10_0000001 67.4 72.6 
+Zachary_Gordon/GdOBXSK2c10_0000002 93.0 97.5 

@@ -1,0 +1,15 @@
+POI: 			Ben_McKenzie 
+Youtube ID: 	sIyVUNsS_20 
+Video length: 	289.7 sec 
+Set (V): 		dev 
+ 
+Ben_McKenzie/sIyVUNsS_20_0000001 19.8 25.6 
+Ben_McKenzie/sIyVUNsS_20_0000002 29.8 34.0 
+Ben_McKenzie/sIyVUNsS_20_0000003 40.7 46.9 
+Ben_McKenzie/sIyVUNsS_20_0000004 47.1 60.5 
+Ben_McKenzie/sIyVUNsS_20_0000005 61.7 65.9 
+Ben_McKenzie/sIyVUNsS_20_0000006 67.2 74.8 
+Ben_McKenzie/sIyVUNsS_20_0000007 179.8 183.8 
+Ben_McKenzie/sIyVUNsS_20_0000008 192.0 197.0 
+Ben_McKenzie/sIyVUNsS_20_0000009 197.4 208.6 
+Ben_McKenzie/sIyVUNsS_20_0000010 282.5 288.1 

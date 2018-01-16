@@ -1,0 +1,8 @@
+POI: 			Katharine_McPhee 
+Youtube ID: 	hA2018gKxKo 
+Video length: 	360.2 sec 
+Set (V): 		dev 
+ 
+Katharine_McPhee/hA2018gKxKo_0000001 15.4 25.4 
+Katharine_McPhee/hA2018gKxKo_0000002 336.0 341.6 
+Katharine_McPhee/hA2018gKxKo_0000003 352.1 358.3 

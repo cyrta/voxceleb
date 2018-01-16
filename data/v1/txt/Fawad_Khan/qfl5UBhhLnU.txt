@@ -1,0 +1,11 @@
+POI: 			Fawad_Khan 
+Youtube ID: 	qfl5UBhhLnU 
+Video length: 	1340.4 sec 
+Set (V): 		dev 
+ 
+Fawad_Khan/qfl5UBhhLnU_0000001 140.6 145.0 
+Fawad_Khan/qfl5UBhhLnU_0000002 1020.5 1025.7 
+Fawad_Khan/qfl5UBhhLnU_0000003 1044.8 1055.6 
+Fawad_Khan/qfl5UBhhLnU_0000004 1077.4 1082.2 
+Fawad_Khan/qfl5UBhhLnU_0000005 1115.7 1122.1 
+Fawad_Khan/qfl5UBhhLnU_0000006 1132.3 1138.4 

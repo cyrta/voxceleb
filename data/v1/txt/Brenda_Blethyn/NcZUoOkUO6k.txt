@@ -1,0 +1,9 @@
+POI: 			Brenda_Blethyn 
+Youtube ID: 	NcZUoOkUO6k 
+Video length: 	107.0 sec 
+Set (V): 		dev 
+ 
+Brenda_Blethyn/NcZUoOkUO6k_0000001 13.0 19.6 
+Brenda_Blethyn/NcZUoOkUO6k_0000002 20.0 30.0 
+Brenda_Blethyn/NcZUoOkUO6k_0000003 53.9 60.3 
+Brenda_Blethyn/NcZUoOkUO6k_0000004 67.8 74.2 

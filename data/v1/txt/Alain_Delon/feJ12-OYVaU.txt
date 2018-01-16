@@ -1,0 +1,14 @@
+POI: 			Alain_Delon 
+Youtube ID: 	feJ12-OYVaU 
+Video length: 	398.1 sec 
+Set (V): 		dev 
+ 
+Alain_Delon/feJ12-OYVaU_0000001 36.3 43.3 
+Alain_Delon/feJ12-OYVaU_0000002 99.5 106.2 
+Alain_Delon/feJ12-OYVaU_0000003 151.4 155.8 
+Alain_Delon/feJ12-OYVaU_0000004 173.2 179.0 
+Alain_Delon/feJ12-OYVaU_0000005 174.8 182.7 
+Alain_Delon/feJ12-OYVaU_0000006 212.3 221.0 
+Alain_Delon/feJ12-OYVaU_0000007 222.0 226.6 
+Alain_Delon/feJ12-OYVaU_0000008 294.4 302.1 
+Alain_Delon/feJ12-OYVaU_0000009 306.1 311.3 

@@ -1,0 +1,12 @@
+POI: 			Ashley_Jensen 
+Youtube ID: 	Dg-BU8XvL5M 
+Video length: 	248.0 sec 
+Set (V): 		dev 
+ 
+Ashley_Jensen/Dg-BU8XvL5M_0000001 90.6 94.9 
+Ashley_Jensen/Dg-BU8XvL5M_0000002 100.2 109.2 
+Ashley_Jensen/Dg-BU8XvL5M_0000003 111.7 118.1 
+Ashley_Jensen/Dg-BU8XvL5M_0000004 169.4 183.0 
+Ashley_Jensen/Dg-BU8XvL5M_0000005 189.7 202.3 
+Ashley_Jensen/Dg-BU8XvL5M_0000006 204.4 211.7 
+Ashley_Jensen/Dg-BU8XvL5M_0000007 231.1 236.9 

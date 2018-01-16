@@ -1,0 +1,22 @@
+POI: 			Hailee_Steinfeld 
+Youtube ID: 	uN7lxiHhMNE 
+Video length: 	657.2 sec 
+Set (V): 		dev 
+ 
+Hailee_Steinfeld/uN7lxiHhMNE_0000001 42.5 58.1 
+Hailee_Steinfeld/uN7lxiHhMNE_0000002 58.2 67.5 
+Hailee_Steinfeld/uN7lxiHhMNE_0000003 69.4 78.8 
+Hailee_Steinfeld/uN7lxiHhMNE_0000004 116.6 122.2 
+Hailee_Steinfeld/uN7lxiHhMNE_0000005 122.3 126.6 
+Hailee_Steinfeld/uN7lxiHhMNE_0000006 175.6 180.1 
+Hailee_Steinfeld/uN7lxiHhMNE_0000007 182.7 187.5 
+Hailee_Steinfeld/uN7lxiHhMNE_0000008 187.7 191.8 
+Hailee_Steinfeld/uN7lxiHhMNE_0000009 249.3 256.0 
+Hailee_Steinfeld/uN7lxiHhMNE_0000010 272.8 278.5 
+Hailee_Steinfeld/uN7lxiHhMNE_0000011 283.0 295.7 
+Hailee_Steinfeld/uN7lxiHhMNE_0000012 327.6 331.7 
+Hailee_Steinfeld/uN7lxiHhMNE_0000013 522.4 527.4 
+Hailee_Steinfeld/uN7lxiHhMNE_0000014 528.8 533.7 
+Hailee_Steinfeld/uN7lxiHhMNE_0000015 565.2 577.3 
+Hailee_Steinfeld/uN7lxiHhMNE_0000016 600.8 611.6 
+Hailee_Steinfeld/uN7lxiHhMNE_0000017 618.4 625.5 

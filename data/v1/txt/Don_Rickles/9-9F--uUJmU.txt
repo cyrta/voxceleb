@@ -1,0 +1,14 @@
+POI: 			Don_Rickles 
+Youtube ID: 	9-9F--uUJmU 
+Video length: 	250.4 sec 
+Set (V): 		dev 
+ 
+Don_Rickles/9-9F--uUJmU_0000001 15.2 21.4 
+Don_Rickles/9-9F--uUJmU_0000002 24.1 29.6 
+Don_Rickles/9-9F--uUJmU_0000003 41.8 46.0 
+Don_Rickles/9-9F--uUJmU_0000004 63.4 68.8 
+Don_Rickles/9-9F--uUJmU_0000005 92.6 97.6 
+Don_Rickles/9-9F--uUJmU_0000006 99.1 103.2 
+Don_Rickles/9-9F--uUJmU_0000007 132.7 139.6 
+Don_Rickles/9-9F--uUJmU_0000008 147.7 155.6 
+Don_Rickles/9-9F--uUJmU_0000009 167.6 178.0 

@@ -1,0 +1,9 @@
+POI: 			Lolo_Jones 
+Youtube ID: 	eGfSTRGnhHQ 
+Video length: 	390.1 sec 
+Set (V): 		dev 
+ 
+Lolo_Jones/eGfSTRGnhHQ_0000001 53.8 62.6 
+Lolo_Jones/eGfSTRGnhHQ_0000002 75.6 81.6 
+Lolo_Jones/eGfSTRGnhHQ_0000003 114.1 121.0 
+Lolo_Jones/eGfSTRGnhHQ_0000004 284.4 292.6 

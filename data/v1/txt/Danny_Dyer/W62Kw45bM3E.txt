@@ -1,0 +1,9 @@
+POI: 			Danny_Dyer 
+Youtube ID: 	W62Kw45bM3E 
+Video length: 	587.9 sec 
+Set (V): 		dev 
+ 
+Danny_Dyer/W62Kw45bM3E_0000001 177.9 185.2 
+Danny_Dyer/W62Kw45bM3E_0000002 218.2 224.5 
+Danny_Dyer/W62Kw45bM3E_0000003 226.8 232.3 
+Danny_Dyer/W62Kw45bM3E_0000004 245.4 249.4 

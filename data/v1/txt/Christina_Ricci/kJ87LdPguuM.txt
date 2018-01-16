@@ -1,0 +1,12 @@
+POI: 			Christina_Ricci 
+Youtube ID: 	kJ87LdPguuM 
+Video length: 	325.3 sec 
+Set (V): 		dev 
+ 
+Christina_Ricci/kJ87LdPguuM_0000001 49.2 53.7 
+Christina_Ricci/kJ87LdPguuM_0000002 84.0 88.0 
+Christina_Ricci/kJ87LdPguuM_0000003 129.6 140.8 
+Christina_Ricci/kJ87LdPguuM_0000004 184.7 189.7 
+Christina_Ricci/kJ87LdPguuM_0000005 190.3 195.8 
+Christina_Ricci/kJ87LdPguuM_0000006 220.8 231.1 
+Christina_Ricci/kJ87LdPguuM_0000007 250.6 255.9 

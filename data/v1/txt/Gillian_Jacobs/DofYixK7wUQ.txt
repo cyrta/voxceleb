@@ -1,0 +1,13 @@
+POI: 			Gillian_Jacobs 
+Youtube ID: 	DofYixK7wUQ 
+Video length: 	250.8 sec 
+Set (V): 		dev 
+ 
+Gillian_Jacobs/DofYixK7wUQ_0000001 24.7 30.6 
+Gillian_Jacobs/DofYixK7wUQ_0000002 42.4 46.4 
+Gillian_Jacobs/DofYixK7wUQ_0000003 47.1 51.9 
+Gillian_Jacobs/DofYixK7wUQ_0000004 95.0 102.4 
+Gillian_Jacobs/DofYixK7wUQ_0000005 103.0 108.2 
+Gillian_Jacobs/DofYixK7wUQ_0000006 115.3 128.2 
+Gillian_Jacobs/DofYixK7wUQ_0000007 155.2 160.7 
+Gillian_Jacobs/DofYixK7wUQ_0000008 193.8 208.6 

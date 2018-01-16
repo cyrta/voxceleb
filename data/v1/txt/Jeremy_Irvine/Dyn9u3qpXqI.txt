@@ -1,0 +1,18 @@
+POI: 			Jeremy_Irvine 
+Youtube ID: 	Dyn9u3qpXqI 
+Video length: 	250.0 sec 
+Set (V): 		dev 
+ 
+Jeremy_Irvine/Dyn9u3qpXqI_0000001 19.4 24.1 
+Jeremy_Irvine/Dyn9u3qpXqI_0000002 31.6 44.4 
+Jeremy_Irvine/Dyn9u3qpXqI_0000003 48.9 54.5 
+Jeremy_Irvine/Dyn9u3qpXqI_0000004 77.6 81.6 
+Jeremy_Irvine/Dyn9u3qpXqI_0000005 82.2 87.6 
+Jeremy_Irvine/Dyn9u3qpXqI_0000006 118.9 126.4 
+Jeremy_Irvine/Dyn9u3qpXqI_0000007 139.4 145.7 
+Jeremy_Irvine/Dyn9u3qpXqI_0000008 146.1 156.0 
+Jeremy_Irvine/Dyn9u3qpXqI_0000009 164.9 172.5 
+Jeremy_Irvine/Dyn9u3qpXqI_0000010 174.6 181.0 
+Jeremy_Irvine/Dyn9u3qpXqI_0000011 197.9 203.3 
+Jeremy_Irvine/Dyn9u3qpXqI_0000012 214.2 219.3 
+Jeremy_Irvine/Dyn9u3qpXqI_0000013 231.0 241.2 

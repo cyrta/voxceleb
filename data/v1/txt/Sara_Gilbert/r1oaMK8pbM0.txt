@@ -1,0 +1,8 @@
+POI: 			Sara_Gilbert 
+Youtube ID: 	r1oaMK8pbM0 
+Video length: 	2356.8 sec 
+Set (V): 		dev 
+ 
+Sara_Gilbert/r1oaMK8pbM0_0000001 1954.4 1963.0 
+Sara_Gilbert/r1oaMK8pbM0_0000002 2003.9 2009.0 
+Sara_Gilbert/r1oaMK8pbM0_0000003 2081.5 2095.1 

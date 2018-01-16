@@ -1,0 +1,21 @@
+POI: 			Anne_Hathaway 
+Youtube ID: 	AcieZuBaXmA 
+Video length: 	305.7 sec 
+Set (V): 		dev 
+ 
+Anne_Hathaway/AcieZuBaXmA_0000001 06.5 10.9 
+Anne_Hathaway/AcieZuBaXmA_0000002 15.4 26.7 
+Anne_Hathaway/AcieZuBaXmA_0000003 31.8 36.7 
+Anne_Hathaway/AcieZuBaXmA_0000004 42.6 49.8 
+Anne_Hathaway/AcieZuBaXmA_0000005 51.4 59.2 
+Anne_Hathaway/AcieZuBaXmA_0000006 74.5 86.7 
+Anne_Hathaway/AcieZuBaXmA_0000007 110.9 121.6 
+Anne_Hathaway/AcieZuBaXmA_0000008 121.6 134.2 
+Anne_Hathaway/AcieZuBaXmA_0000009 139.5 156.2 
+Anne_Hathaway/AcieZuBaXmA_0000010 166.3 171.4 
+Anne_Hathaway/AcieZuBaXmA_0000011 181.3 193.4 
+Anne_Hathaway/AcieZuBaXmA_0000012 198.1 207.7 
+Anne_Hathaway/AcieZuBaXmA_0000013 222.1 227.2 
+Anne_Hathaway/AcieZuBaXmA_0000014 231.7 235.9 
+Anne_Hathaway/AcieZuBaXmA_0000015 246.9 254.3 
+Anne_Hathaway/AcieZuBaXmA_0000016 281.6 287.4 

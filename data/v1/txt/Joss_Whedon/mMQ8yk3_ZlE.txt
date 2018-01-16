@@ -1,0 +1,8 @@
+POI: 			Joss_Whedon 
+Youtube ID: 	mMQ8yk3_ZlE 
+Video length: 	152.3 sec 
+Set (V): 		dev 
+ 
+Joss_Whedon/mMQ8yk3_ZlE_0000001 12.4 16.4 
+Joss_Whedon/mMQ8yk3_ZlE_0000002 18.0 23.5 
+Joss_Whedon/mMQ8yk3_ZlE_0000003 71.3 76.6 

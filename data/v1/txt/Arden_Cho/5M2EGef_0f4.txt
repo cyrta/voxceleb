@@ -1,0 +1,7 @@
+POI: 			Arden_Cho 
+Youtube ID: 	5M2EGef_0f4 
+Video length: 	93.8 sec 
+Set (V): 		dev 
+ 
+Arden_Cho/5M2EGef_0f4_0000001 35.2 39.8 
+Arden_Cho/5M2EGef_0f4_0000002 77.8 82.6 

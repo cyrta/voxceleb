@@ -1,0 +1,7 @@
+POI: 			Eric_Dane 
+Youtube ID: 	kTLpYHUNf5A 
+Video length: 	66.4 sec 
+Set (V): 		test 
+ 
+Eric_Dane/kTLpYHUNf5A_0000001 49.9 55.4 
+Eric_Dane/kTLpYHUNf5A_0000002 56.3 60.8 

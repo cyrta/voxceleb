@@ -1,0 +1,9 @@
+POI: 			Russell_Peters 
+Youtube ID: 	1CGvzs41zVw 
+Video length: 	150.8 sec 
+Set (V): 		dev 
+ 
+Russell_Peters/1CGvzs41zVw_0000001 20.9 26.7 
+Russell_Peters/1CGvzs41zVw_0000002 98.5 103.2 
+Russell_Peters/1CGvzs41zVw_0000003 117.1 122.1 
+Russell_Peters/1CGvzs41zVw_0000004 130.0 137.3 

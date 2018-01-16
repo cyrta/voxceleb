@@ -1,0 +1,11 @@
+POI: 			Ashley_Greene 
+Youtube ID: 	NhyPyn3qq-k 
+Video length: 	320.1 sec 
+Set (V): 		dev 
+ 
+Ashley_Greene/NhyPyn3qq-k_0000001 40.6 44.8 
+Ashley_Greene/NhyPyn3qq-k_0000002 105.8 112.6 
+Ashley_Greene/NhyPyn3qq-k_0000003 130.2 145.4 
+Ashley_Greene/NhyPyn3qq-k_0000004 155.8 162.2 
+Ashley_Greene/NhyPyn3qq-k_0000005 171.6 182.8 
+Ashley_Greene/NhyPyn3qq-k_0000006 189.6 207.7 

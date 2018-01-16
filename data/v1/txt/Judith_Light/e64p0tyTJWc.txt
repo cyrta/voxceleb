@@ -1,0 +1,14 @@
+POI: 			Judith_Light 
+Youtube ID: 	e64p0tyTJWc 
+Video length: 	297.4 sec 
+Set (V): 		dev 
+ 
+Judith_Light/e64p0tyTJWc_0000001 19.1 26.6 
+Judith_Light/e64p0tyTJWc_0000002 164.8 172.4 
+Judith_Light/e64p0tyTJWc_0000003 196.9 207.6 
+Judith_Light/e64p0tyTJWc_0000004 228.3 232.5 
+Judith_Light/e64p0tyTJWc_0000005 239.2 244.9 
+Judith_Light/e64p0tyTJWc_0000006 247.3 263.1 
+Judith_Light/e64p0tyTJWc_0000007 265.2 273.0 
+Judith_Light/e64p0tyTJWc_0000008 200.3 212.1 
+Judith_Light/e64p0tyTJWc_0000009 216.6 228.6 

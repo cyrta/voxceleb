@@ -1,0 +1,17 @@
+POI: 			Miles_Teller 
+Youtube ID: 	ci96hmOV4Os 
+Video length: 	427.6 sec 
+Set (V): 		dev 
+ 
+Miles_Teller/ci96hmOV4Os_0000001 65.8 103.3 
+Miles_Teller/ci96hmOV4Os_0000002 112.5 135.0 
+Miles_Teller/ci96hmOV4Os_0000003 138.4 142.8 
+Miles_Teller/ci96hmOV4Os_0000004 228.0 232.0 
+Miles_Teller/ci96hmOV4Os_0000005 233.1 245.5 
+Miles_Teller/ci96hmOV4Os_0000006 264.5 271.5 
+Miles_Teller/ci96hmOV4Os_0000007 272.2 289.6 
+Miles_Teller/ci96hmOV4Os_0000008 341.4 349.7 
+Miles_Teller/ci96hmOV4Os_0000009 350.2 357.9 
+Miles_Teller/ci96hmOV4Os_0000010 384.7 397.1 
+Miles_Teller/ci96hmOV4Os_0000011 397.4 401.5 
+Miles_Teller/ci96hmOV4Os_0000012 402.4 418.6 

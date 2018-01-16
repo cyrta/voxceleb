@@ -1,0 +1,11 @@
+POI: 			Dan_Stevens 
+Youtube ID: 	DKHa5phNSe8 
+Video length: 	311.4 sec 
+Set (V): 		dev 
+ 
+Dan_Stevens/DKHa5phNSe8_0000001 24.3 31.3 
+Dan_Stevens/DKHa5phNSe8_0000002 62.1 75.3 
+Dan_Stevens/DKHa5phNSe8_0000003 113.0 122.0 
+Dan_Stevens/DKHa5phNSe8_0000004 140.0 145.9 
+Dan_Stevens/DKHa5phNSe8_0000005 165.0 173.8 
+Dan_Stevens/DKHa5phNSe8_0000006 260.0 269.4 

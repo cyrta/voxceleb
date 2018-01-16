@@ -1,0 +1,9 @@
+POI: 			Drew_Carey 
+Youtube ID: 	fTIE3Vr6cxI 
+Video length: 	89.4 sec 
+Set (V): 		dev 
+ 
+Drew_Carey/fTIE3Vr6cxI_0000001 06.5 18.8 
+Drew_Carey/fTIE3Vr6cxI_0000002 21.6 31.8 
+Drew_Carey/fTIE3Vr6cxI_0000003 38.3 44.4 
+Drew_Carey/fTIE3Vr6cxI_0000004 50.0 55.4 

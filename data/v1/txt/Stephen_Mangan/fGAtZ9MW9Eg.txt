@@ -1,0 +1,12 @@
+POI: 			Stephen_Mangan 
+Youtube ID: 	fGAtZ9MW9Eg 
+Video length: 	251.4 sec 
+Set (V): 		dev 
+ 
+Stephen_Mangan/fGAtZ9MW9Eg_0000001 18.2 22.4 
+Stephen_Mangan/fGAtZ9MW9Eg_0000002 28.5 49.7 
+Stephen_Mangan/fGAtZ9MW9Eg_0000003 51.2 69.2 
+Stephen_Mangan/fGAtZ9MW9Eg_0000004 73.1 77.5 
+Stephen_Mangan/fGAtZ9MW9Eg_0000005 211.8 219.1 
+Stephen_Mangan/fGAtZ9MW9Eg_0000006 227.0 232.0 
+Stephen_Mangan/fGAtZ9MW9Eg_0000007 234.1 238.2 

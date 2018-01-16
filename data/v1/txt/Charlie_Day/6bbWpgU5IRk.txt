@@ -1,0 +1,11 @@
+POI: 			Charlie_Day 
+Youtube ID: 	6bbWpgU5IRk 
+Video length: 	444.6 sec 
+Set (V): 		dev 
+ 
+Charlie_Day/6bbWpgU5IRk_0000001 47.4 63.2 
+Charlie_Day/6bbWpgU5IRk_0000002 242.5 248.3 
+Charlie_Day/6bbWpgU5IRk_0000003 252.1 257.5 
+Charlie_Day/6bbWpgU5IRk_0000004 262.8 271.6 
+Charlie_Day/6bbWpgU5IRk_0000005 414.3 422.5 
+Charlie_Day/6bbWpgU5IRk_0000006 423.6 428.6 

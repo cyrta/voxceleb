@@ -1,0 +1,8 @@
+POI: 			Tom_Selleck 
+Youtube ID: 	T9vbOU0apn8 
+Video length: 	458.4 sec 
+Set (V): 		dev 
+ 
+Tom_Selleck/T9vbOU0apn8_0000001 170.0 174.5 
+Tom_Selleck/T9vbOU0apn8_0000002 178.7 183.9 
+Tom_Selleck/T9vbOU0apn8_0000003 232.3 236.8 

@@ -1,0 +1,7 @@
+POI: 			Eleanor_Tomlinson 
+Youtube ID: 	37XQxZ5lBD8 
+Video length: 	50.7 sec 
+Set (V): 		test 
+ 
+Eleanor_Tomlinson/37XQxZ5lBD8_0000001 11.8 17.2 
+Eleanor_Tomlinson/37XQxZ5lBD8_0000002 35.0 40.8 

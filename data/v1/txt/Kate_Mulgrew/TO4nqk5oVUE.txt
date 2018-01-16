@@ -1,0 +1,7 @@
+POI: 			Kate_Mulgrew 
+Youtube ID: 	TO4nqk5oVUE 
+Video length: 	413.9 sec 
+Set (V): 		dev 
+ 
+Kate_Mulgrew/TO4nqk5oVUE_0000001 190.7 197.4 
+Kate_Mulgrew/TO4nqk5oVUE_0000002 198.3 203.3 

@@ -1,0 +1,17 @@
+POI: 			Jenny_Slate 
+Youtube ID: 	4Vr2Py-dZbc 
+Video length: 	718.3 sec 
+Set (V): 		dev 
+ 
+Jenny_Slate/4Vr2Py-dZbc_0000001 133.1 158.4 
+Jenny_Slate/4Vr2Py-dZbc_0000002 162.8 167.1 
+Jenny_Slate/4Vr2Py-dZbc_0000003 174.0 179.6 
+Jenny_Slate/4Vr2Py-dZbc_0000004 179.8 190.6 
+Jenny_Slate/4Vr2Py-dZbc_0000005 230.4 237.6 
+Jenny_Slate/4Vr2Py-dZbc_0000006 243.9 249.5 
+Jenny_Slate/4Vr2Py-dZbc_0000007 251.2 259.2 
+Jenny_Slate/4Vr2Py-dZbc_0000008 265.9 276.6 
+Jenny_Slate/4Vr2Py-dZbc_0000009 494.6 506.2 
+Jenny_Slate/4Vr2Py-dZbc_0000010 640.6 645.3 
+Jenny_Slate/4Vr2Py-dZbc_0000011 654.8 659.0 
+Jenny_Slate/4Vr2Py-dZbc_0000012 689.0 693.8 

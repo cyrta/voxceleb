@@ -1,0 +1,7 @@
+POI: 			Tabu 
+Youtube ID: 	dRFCuIsUAOU 
+Video length: 	230.3 sec 
+Set (V): 		dev 
+ 
+Tabu/dRFCuIsUAOU_0000001 145.3 149.3 
+Tabu/dRFCuIsUAOU_0000002 151.0 156.9 

@@ -1,0 +1,12 @@
+POI: 			David_Giuntoli 
+Youtube ID: 	nQUjo5yNAnM 
+Video length: 	584.2 sec 
+Set (V): 		dev 
+ 
+David_Giuntoli/nQUjo5yNAnM_0000001 27.2 37.1 
+David_Giuntoli/nQUjo5yNAnM_0000002 40.1 52.3 
+David_Giuntoli/nQUjo5yNAnM_0000003 374.0 387.8 
+David_Giuntoli/nQUjo5yNAnM_0000004 389.6 393.6 
+David_Giuntoli/nQUjo5yNAnM_0000005 422.8 434.8 
+David_Giuntoli/nQUjo5yNAnM_0000006 496.9 502.0 
+David_Giuntoli/nQUjo5yNAnM_0000007 561.5 567.4 

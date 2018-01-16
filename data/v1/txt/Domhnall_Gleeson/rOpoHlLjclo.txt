@@ -1,0 +1,9 @@
+POI: 			Domhnall_Gleeson 
+Youtube ID: 	rOpoHlLjclo 
+Video length: 	364.0 sec 
+Set (V): 		dev 
+ 
+Domhnall_Gleeson/rOpoHlLjclo_0000001 126.8 131.3 
+Domhnall_Gleeson/rOpoHlLjclo_0000002 133.4 147.5 
+Domhnall_Gleeson/rOpoHlLjclo_0000003 326.6 332.3 
+Domhnall_Gleeson/rOpoHlLjclo_0000004 334.8 343.4 

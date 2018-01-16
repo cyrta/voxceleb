@@ -1,0 +1,14 @@
+POI: 			Elle_Fanning 
+Youtube ID: 	cJ40ZqTY3dQ 
+Video length: 	366.4 sec 
+Set (V): 		test 
+ 
+Elle_Fanning/cJ40ZqTY3dQ_0000001 66.2 72.6 
+Elle_Fanning/cJ40ZqTY3dQ_0000002 93.0 98.3 
+Elle_Fanning/cJ40ZqTY3dQ_0000003 115.4 121.8 
+Elle_Fanning/cJ40ZqTY3dQ_0000004 136.8 141.2 
+Elle_Fanning/cJ40ZqTY3dQ_0000005 236.2 244.8 
+Elle_Fanning/cJ40ZqTY3dQ_0000006 249.1 260.6 
+Elle_Fanning/cJ40ZqTY3dQ_0000007 275.6 290.8 
+Elle_Fanning/cJ40ZqTY3dQ_0000008 344.4 350.9 
+Elle_Fanning/cJ40ZqTY3dQ_0000009 352.2 357.3 

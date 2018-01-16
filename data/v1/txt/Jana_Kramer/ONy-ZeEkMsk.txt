@@ -1,0 +1,15 @@
+POI: 			Jana_Kramer 
+Youtube ID: 	ONy-ZeEkMsk 
+Video length: 	309.6 sec 
+Set (V): 		dev 
+ 
+Jana_Kramer/ONy-ZeEkMsk_0000001 31.9 48.7 
+Jana_Kramer/ONy-ZeEkMsk_0000002 52.8 59.1 
+Jana_Kramer/ONy-ZeEkMsk_0000003 96.2 105.9 
+Jana_Kramer/ONy-ZeEkMsk_0000004 88.1 94.3 
+Jana_Kramer/ONy-ZeEkMsk_0000005 126.0 133.6 
+Jana_Kramer/ONy-ZeEkMsk_0000006 134.5 139.4 
+Jana_Kramer/ONy-ZeEkMsk_0000007 156.4 167.5 
+Jana_Kramer/ONy-ZeEkMsk_0000008 169.7 174.0 
+Jana_Kramer/ONy-ZeEkMsk_0000009 207.7 217.4 
+Jana_Kramer/ONy-ZeEkMsk_0000010 256.8 269.2 

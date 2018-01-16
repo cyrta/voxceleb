@@ -1,0 +1,10 @@
+POI: 			Grant_Bowler 
+Youtube ID: 	8r7PLkcYkwo 
+Video length: 	82.8 sec 
+Set (V): 		dev 
+ 
+Grant_Bowler/8r7PLkcYkwo_0000001 12.9 40.2 
+Grant_Bowler/8r7PLkcYkwo_0000002 46.6 53.7 
+Grant_Bowler/8r7PLkcYkwo_0000003 58.7 62.9 
+Grant_Bowler/8r7PLkcYkwo_0000004 64.3 68.5 
+Grant_Bowler/8r7PLkcYkwo_0000005 73.4 77.4 

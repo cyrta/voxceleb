@@ -1,0 +1,7 @@
+POI: 			Thomas_Gibson 
+Youtube ID: 	5CuSiJDfqWc 
+Video length: 	324.9 sec 
+Set (V): 		dev 
+ 
+Thomas_Gibson/5CuSiJDfqWc_0000001 148.0 154.0 
+Thomas_Gibson/5CuSiJDfqWc_0000002 293.6 299.7 

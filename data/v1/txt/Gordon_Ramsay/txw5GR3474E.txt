@@ -1,0 +1,7 @@
+POI: 			Gordon_Ramsay 
+Youtube ID: 	txw5GR3474E 
+Video length: 	202.2 sec 
+Set (V): 		dev 
+ 
+Gordon_Ramsay/txw5GR3474E_0000001 137.3 148.9 
+Gordon_Ramsay/txw5GR3474E_0000002 157.1 161.2 

@@ -1,0 +1,37 @@
+POI: 			Marc_Webb 
+Youtube ID: 	nZji5UdbSnc 
+Video length: 	429.5 sec 
+Set (V): 		dev 
+ 
+Marc_Webb/nZji5UdbSnc_0000001 13.0 35.4 
+Marc_Webb/nZji5UdbSnc_0000002 39.2 44.3 
+Marc_Webb/nZji5UdbSnc_0000003 53.2 59.2 
+Marc_Webb/nZji5UdbSnc_0000004 79.8 83.8 
+Marc_Webb/nZji5UdbSnc_0000005 87.1 94.1 
+Marc_Webb/nZji5UdbSnc_0000006 95.4 103.4 
+Marc_Webb/nZji5UdbSnc_0000007 107.7 119.6 
+Marc_Webb/nZji5UdbSnc_0000008 119.9 124.1 
+Marc_Webb/nZji5UdbSnc_0000009 126.7 139.4 
+Marc_Webb/nZji5UdbSnc_0000010 142.4 146.5 
+Marc_Webb/nZji5UdbSnc_0000011 126.6 139.8 
+Marc_Webb/nZji5UdbSnc_0000012 142.6 146.6 
+Marc_Webb/nZji5UdbSnc_0000013 147.4 152.2 
+Marc_Webb/nZji5UdbSnc_0000014 164.5 186.2 
+Marc_Webb/nZji5UdbSnc_0000015 187.5 196.4 
+Marc_Webb/nZji5UdbSnc_0000016 202.2 215.4 
+Marc_Webb/nZji5UdbSnc_0000017 216.2 229.2 
+Marc_Webb/nZji5UdbSnc_0000018 233.1 256.8 
+Marc_Webb/nZji5UdbSnc_0000019 257.0 263.4 
+Marc_Webb/nZji5UdbSnc_0000020 263.8 270.1 
+Marc_Webb/nZji5UdbSnc_0000021 270.6 283.4 
+Marc_Webb/nZji5UdbSnc_0000022 287.4 291.4 
+Marc_Webb/nZji5UdbSnc_0000023 303.5 307.9 
+Marc_Webb/nZji5UdbSnc_0000024 309.9 323.0 
+Marc_Webb/nZji5UdbSnc_0000025 331.0 335.0 
+Marc_Webb/nZji5UdbSnc_0000026 340.4 344.6 
+Marc_Webb/nZji5UdbSnc_0000027 345.3 351.7 
+Marc_Webb/nZji5UdbSnc_0000028 354.4 359.9 
+Marc_Webb/nZji5UdbSnc_0000029 364.7 368.7 
+Marc_Webb/nZji5UdbSnc_0000030 369.6 375.7 
+Marc_Webb/nZji5UdbSnc_0000031 391.0 398.8 
+Marc_Webb/nZji5UdbSnc_0000032 409.1 416.0 

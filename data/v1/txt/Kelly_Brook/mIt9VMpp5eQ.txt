@@ -1,0 +1,11 @@
+POI: 			Kelly_Brook 
+Youtube ID: 	mIt9VMpp5eQ 
+Video length: 	681.5 sec 
+Set (V): 		dev 
+ 
+Kelly_Brook/mIt9VMpp5eQ_0000001 156.5 167.4 
+Kelly_Brook/mIt9VMpp5eQ_0000002 171.5 178.2 
+Kelly_Brook/mIt9VMpp5eQ_0000003 367.1 379.6 
+Kelly_Brook/mIt9VMpp5eQ_0000004 469.3 475.9 
+Kelly_Brook/mIt9VMpp5eQ_0000005 625.6 634.4 
+Kelly_Brook/mIt9VMpp5eQ_0000006 637.4 646.4 

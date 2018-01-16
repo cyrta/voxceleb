@@ -1,0 +1,8 @@
+POI: 			Tom_Kenny 
+Youtube ID: 	h-RcmQv7ZKU 
+Video length: 	318.5 sec 
+Set (V): 		dev 
+ 
+Tom_Kenny/h-RcmQv7ZKU_0000001 202.5 210.2 
+Tom_Kenny/h-RcmQv7ZKU_0000002 217.9 224.0 
+Tom_Kenny/h-RcmQv7ZKU_0000003 253.0 257.7 

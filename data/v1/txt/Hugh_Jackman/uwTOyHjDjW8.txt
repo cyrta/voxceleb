@@ -1,0 +1,11 @@
+POI: 			Hugh_Jackman 
+Youtube ID: 	uwTOyHjDjW8 
+Video length: 	315.0 sec 
+Set (V): 		dev 
+ 
+Hugh_Jackman/uwTOyHjDjW8_0000001 75.4 99.8 
+Hugh_Jackman/uwTOyHjDjW8_0000002 107.8 120.1 
+Hugh_Jackman/uwTOyHjDjW8_0000003 121.0 128.7 
+Hugh_Jackman/uwTOyHjDjW8_0000004 130.9 137.9 
+Hugh_Jackman/uwTOyHjDjW8_0000005 208.4 224.3 
+Hugh_Jackman/uwTOyHjDjW8_0000006 225.0 257.5 

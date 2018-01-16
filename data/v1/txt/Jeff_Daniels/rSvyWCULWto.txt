@@ -1,0 +1,33 @@
+POI: 			Jeff_Daniels 
+Youtube ID: 	rSvyWCULWto 
+Video length: 	866.5 sec 
+Set (V): 		dev 
+ 
+Jeff_Daniels/rSvyWCULWto_0000001 05.3 13.9 
+Jeff_Daniels/rSvyWCULWto_0000002 34.7 39.7 
+Jeff_Daniels/rSvyWCULWto_0000003 88.7 92.9 
+Jeff_Daniels/rSvyWCULWto_0000004 166.7 172.5 
+Jeff_Daniels/rSvyWCULWto_0000005 195.9 202.2 
+Jeff_Daniels/rSvyWCULWto_0000006 268.5 272.6 
+Jeff_Daniels/rSvyWCULWto_0000007 335.0 344.0 
+Jeff_Daniels/rSvyWCULWto_0000008 348.2 352.8 
+Jeff_Daniels/rSvyWCULWto_0000009 419.1 424.2 
+Jeff_Daniels/rSvyWCULWto_0000010 461.6 466.8 
+Jeff_Daniels/rSvyWCULWto_0000011 519.6 526.5 
+Jeff_Daniels/rSvyWCULWto_0000012 529.6 536.4 
+Jeff_Daniels/rSvyWCULWto_0000013 537.3 541.5 
+Jeff_Daniels/rSvyWCULWto_0000014 555.4 563.1 
+Jeff_Daniels/rSvyWCULWto_0000015 565.5 570.6 
+Jeff_Daniels/rSvyWCULWto_0000016 571.0 582.8 
+Jeff_Daniels/rSvyWCULWto_0000017 584.4 588.8 
+Jeff_Daniels/rSvyWCULWto_0000018 637.0 644.0 
+Jeff_Daniels/rSvyWCULWto_0000019 667.3 671.3 
+Jeff_Daniels/rSvyWCULWto_0000020 676.1 681.8 
+Jeff_Daniels/rSvyWCULWto_0000021 682.2 689.4 
+Jeff_Daniels/rSvyWCULWto_0000022 697.5 702.3 
+Jeff_Daniels/rSvyWCULWto_0000023 732.0 739.8 
+Jeff_Daniels/rSvyWCULWto_0000024 798.8 809.3 
+Jeff_Daniels/rSvyWCULWto_0000025 813.0 820.3 
+Jeff_Daniels/rSvyWCULWto_0000026 829.4 844.1 
+Jeff_Daniels/rSvyWCULWto_0000027 845.6 856.7 
+Jeff_Daniels/rSvyWCULWto_0000028 858.6 864.6 

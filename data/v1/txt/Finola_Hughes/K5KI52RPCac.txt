@@ -1,0 +1,7 @@
+POI: 			Finola_Hughes 
+Youtube ID: 	K5KI52RPCac 
+Video length: 	602.8 sec 
+Set (V): 		dev 
+ 
+Finola_Hughes/K5KI52RPCac_0000001 253.8 259.3 
+Finola_Hughes/K5KI52RPCac_0000002 405.3 411.4 

@@ -1,0 +1,38 @@
+POI: 			Michael_Crichton 
+Youtube ID: 	Vh4dIkEyfd0 
+Video length: 	827.1 sec 
+Set (V): 		dev 
+ 
+Michael_Crichton/Vh4dIkEyfd0_0000001 25.2 30.4 
+Michael_Crichton/Vh4dIkEyfd0_0000002 47.2 51.2 
+Michael_Crichton/Vh4dIkEyfd0_0000003 59.0 69.6 
+Michael_Crichton/Vh4dIkEyfd0_0000004 73.7 81.1 
+Michael_Crichton/Vh4dIkEyfd0_0000005 118.6 123.0 
+Michael_Crichton/Vh4dIkEyfd0_0000006 186.8 192.5 
+Michael_Crichton/Vh4dIkEyfd0_0000007 208.2 217.2 
+Michael_Crichton/Vh4dIkEyfd0_0000008 219.2 223.7 
+Michael_Crichton/Vh4dIkEyfd0_0000009 248.1 253.3 
+Michael_Crichton/Vh4dIkEyfd0_0000010 253.6 257.6 
+Michael_Crichton/Vh4dIkEyfd0_0000011 286.6 291.0 
+Michael_Crichton/Vh4dIkEyfd0_0000012 296.7 304.3 
+Michael_Crichton/Vh4dIkEyfd0_0000013 312.6 317.9 
+Michael_Crichton/Vh4dIkEyfd0_0000014 318.6 326.3 
+Michael_Crichton/Vh4dIkEyfd0_0000015 326.4 341.3 
+Michael_Crichton/Vh4dIkEyfd0_0000016 361.4 367.0 
+Michael_Crichton/Vh4dIkEyfd0_0000017 385.0 390.4 
+Michael_Crichton/Vh4dIkEyfd0_0000018 406.9 414.5 
+Michael_Crichton/Vh4dIkEyfd0_0000019 466.4 470.5 
+Michael_Crichton/Vh4dIkEyfd0_0000020 521.5 525.5 
+Michael_Crichton/Vh4dIkEyfd0_0000021 530.4 536.0 
+Michael_Crichton/Vh4dIkEyfd0_0000022 607.4 615.5 
+Michael_Crichton/Vh4dIkEyfd0_0000023 623.1 633.2 
+Michael_Crichton/Vh4dIkEyfd0_0000024 680.9 685.4 
+Michael_Crichton/Vh4dIkEyfd0_0000025 689.7 698.6 
+Michael_Crichton/Vh4dIkEyfd0_0000026 704.4 708.4 
+Michael_Crichton/Vh4dIkEyfd0_0000027 729.0 743.6 
+Michael_Crichton/Vh4dIkEyfd0_0000028 747.1 755.0 
+Michael_Crichton/Vh4dIkEyfd0_0000029 779.1 784.7 
+Michael_Crichton/Vh4dIkEyfd0_0000030 789.3 794.5 
+Michael_Crichton/Vh4dIkEyfd0_0000031 795.4 800.9 
+Michael_Crichton/Vh4dIkEyfd0_0000032 801.0 805.2 
+Michael_Crichton/Vh4dIkEyfd0_0000033 806.8 811.8 

@@ -1,0 +1,20 @@
+POI: 			Noel_Fielding 
+Youtube ID: 	4LpEanCPYCs 
+Video length: 	292.5 sec 
+Set (V): 		dev 
+ 
+Noel_Fielding/4LpEanCPYCs_0000001 04.5 08.7 
+Noel_Fielding/4LpEanCPYCs_0000002 23.9 29.7 
+Noel_Fielding/4LpEanCPYCs_0000003 32.0 39.3 
+Noel_Fielding/4LpEanCPYCs_0000004 52.6 57.9 
+Noel_Fielding/4LpEanCPYCs_0000005 87.4 97.5 
+Noel_Fielding/4LpEanCPYCs_0000006 103.4 108.8 
+Noel_Fielding/4LpEanCPYCs_0000007 109.7 116.6 
+Noel_Fielding/4LpEanCPYCs_0000008 123.2 131.1 
+Noel_Fielding/4LpEanCPYCs_0000009 131.2 136.2 
+Noel_Fielding/4LpEanCPYCs_0000010 160.1 164.1 
+Noel_Fielding/4LpEanCPYCs_0000011 179.8 184.4 
+Noel_Fielding/4LpEanCPYCs_0000012 196.6 202.8 
+Noel_Fielding/4LpEanCPYCs_0000013 218.2 224.4 
+Noel_Fielding/4LpEanCPYCs_0000014 227.6 235.2 
+Noel_Fielding/4LpEanCPYCs_0000015 254.2 259.7 

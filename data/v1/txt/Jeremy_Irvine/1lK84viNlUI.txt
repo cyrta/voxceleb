@@ -1,0 +1,8 @@
+POI: 			Jeremy_Irvine 
+Youtube ID: 	1lK84viNlUI 
+Video length: 	152.7 sec 
+Set (V): 		dev 
+ 
+Jeremy_Irvine/1lK84viNlUI_0000001 53.7 57.8 
+Jeremy_Irvine/1lK84viNlUI_0000002 68.2 74.9 
+Jeremy_Irvine/1lK84viNlUI_0000003 84.6 89.5 

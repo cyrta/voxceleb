@@ -1,0 +1,8 @@
+POI: 			Tony_Curran 
+Youtube ID: 	LkMZeo_QKYA 
+Video length: 	347.2 sec 
+Set (V): 		dev 
+ 
+Tony_Curran/LkMZeo_QKYA_0000001 11.8 20.3 
+Tony_Curran/LkMZeo_QKYA_0000002 22.3 26.9 
+Tony_Curran/LkMZeo_QKYA_0000003 128.0 134.1 

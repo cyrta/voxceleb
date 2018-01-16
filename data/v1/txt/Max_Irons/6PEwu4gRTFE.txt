@@ -1,0 +1,7 @@
+POI: 			Max_Irons 
+Youtube ID: 	6PEwu4gRTFE 
+Video length: 	492.3 sec 
+Set (V): 		dev 
+ 
+Max_Irons/6PEwu4gRTFE_0000001 43.3 50.7 
+Max_Irons/6PEwu4gRTFE_0000002 315.6 320.1 

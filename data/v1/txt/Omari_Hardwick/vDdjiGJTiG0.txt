@@ -1,0 +1,22 @@
+POI: 			Omari_Hardwick 
+Youtube ID: 	vDdjiGJTiG0 
+Video length: 	379.3 sec 
+Set (V): 		dev 
+ 
+Omari_Hardwick/vDdjiGJTiG0_0000001 33.2 38.0 
+Omari_Hardwick/vDdjiGJTiG0_0000002 38.9 45.6 
+Omari_Hardwick/vDdjiGJTiG0_0000003 49.4 56.2 
+Omari_Hardwick/vDdjiGJTiG0_0000004 90.1 94.5 
+Omari_Hardwick/vDdjiGJTiG0_0000005 96.7 101.2 
+Omari_Hardwick/vDdjiGJTiG0_0000006 101.5 106.1 
+Omari_Hardwick/vDdjiGJTiG0_0000007 117.7 132.8 
+Omari_Hardwick/vDdjiGJTiG0_0000008 151.6 159.4 
+Omari_Hardwick/vDdjiGJTiG0_0000009 161.5 167.0 
+Omari_Hardwick/vDdjiGJTiG0_0000010 176.1 185.5 
+Omari_Hardwick/vDdjiGJTiG0_0000011 205.6 220.2 
+Omari_Hardwick/vDdjiGJTiG0_0000012 226.9 232.5 
+Omari_Hardwick/vDdjiGJTiG0_0000013 244.6 250.4 
+Omari_Hardwick/vDdjiGJTiG0_0000014 271.9 278.4 
+Omari_Hardwick/vDdjiGJTiG0_0000015 294.4 300.3 
+Omari_Hardwick/vDdjiGJTiG0_0000016 314.6 318.8 
+Omari_Hardwick/vDdjiGJTiG0_0000017 321.6 327.8 

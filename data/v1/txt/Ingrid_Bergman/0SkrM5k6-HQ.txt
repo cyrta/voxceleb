@@ -1,0 +1,9 @@
+POI: 			Ingrid_Bergman 
+Youtube ID: 	0SkrM5k6-HQ 
+Video length: 	415.4 sec 
+Set (V): 		dev 
+ 
+Ingrid_Bergman/0SkrM5k6-HQ_0000001 339.7 346.9 
+Ingrid_Bergman/0SkrM5k6-HQ_0000002 347.8 354.9 
+Ingrid_Bergman/0SkrM5k6-HQ_0000003 358.0 367.4 
+Ingrid_Bergman/0SkrM5k6-HQ_0000004 368.0 388.7 

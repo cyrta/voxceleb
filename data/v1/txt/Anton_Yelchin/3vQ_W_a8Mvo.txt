@@ -1,0 +1,15 @@
+POI: 			Anton_Yelchin 
+Youtube ID: 	3vQ_W_a8Mvo 
+Video length: 	285.1 sec 
+Set (V): 		dev 
+ 
+Anton_Yelchin/3vQ_W_a8Mvo_0000001 00.8 09.4 
+Anton_Yelchin/3vQ_W_a8Mvo_0000002 35.2 41.8 
+Anton_Yelchin/3vQ_W_a8Mvo_0000003 43.7 49.0 
+Anton_Yelchin/3vQ_W_a8Mvo_0000004 50.7 57.8 
+Anton_Yelchin/3vQ_W_a8Mvo_0000005 58.3 63.0 
+Anton_Yelchin/3vQ_W_a8Mvo_0000006 99.1 104.8 
+Anton_Yelchin/3vQ_W_a8Mvo_0000007 105.9 122.1 
+Anton_Yelchin/3vQ_W_a8Mvo_0000008 122.4 129.0 
+Anton_Yelchin/3vQ_W_a8Mvo_0000009 177.3 186.2 
+Anton_Yelchin/3vQ_W_a8Mvo_0000010 198.8 213.9 

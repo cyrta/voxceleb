@@ -1,0 +1,8 @@
+POI: 			Naomie_Harris 
+Youtube ID: 	NTu5xRn-XFk 
+Video length: 	278.6 sec 
+Set (V): 		dev 
+ 
+Naomie_Harris/NTu5xRn-XFk_0000001 119.1 135.6 
+Naomie_Harris/NTu5xRn-XFk_0000002 198.7 208.0 
+Naomie_Harris/NTu5xRn-XFk_0000003 213.2 220.6 

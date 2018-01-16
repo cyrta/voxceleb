@@ -1,0 +1,15 @@
+POI: 			Hope_Solo 
+Youtube ID: 	toEZEztjm30 
+Video length: 	938.7 sec 
+Set (V): 		dev 
+ 
+Hope_Solo/toEZEztjm30_0000001 294.2 305.8 
+Hope_Solo/toEZEztjm30_0000002 317.7 323.5 
+Hope_Solo/toEZEztjm30_0000003 324.6 359.2 
+Hope_Solo/toEZEztjm30_0000004 360.1 368.6 
+Hope_Solo/toEZEztjm30_0000005 576.9 591.7 
+Hope_Solo/toEZEztjm30_0000006 592.0 597.1 
+Hope_Solo/toEZEztjm30_0000007 598.2 619.1 
+Hope_Solo/toEZEztjm30_0000008 639.8 643.8 
+Hope_Solo/toEZEztjm30_0000009 728.5 732.9 
+Hope_Solo/toEZEztjm30_0000010 759.4 764.6 

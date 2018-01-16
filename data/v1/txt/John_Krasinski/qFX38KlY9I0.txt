@@ -1,0 +1,14 @@
+POI: 			John_Krasinski 
+Youtube ID: 	qFX38KlY9I0 
+Video length: 	251.0 sec 
+Set (V): 		dev 
+ 
+John_Krasinski/qFX38KlY9I0_0000001 07.6 14.2 
+John_Krasinski/qFX38KlY9I0_0000002 16.0 21.7 
+John_Krasinski/qFX38KlY9I0_0000003 22.5 34.0 
+John_Krasinski/qFX38KlY9I0_0000004 40.4 63.8 
+John_Krasinski/qFX38KlY9I0_0000005 69.2 80.5 
+John_Krasinski/qFX38KlY9I0_0000006 69.4 73.5 
+John_Krasinski/qFX38KlY9I0_0000007 105.2 113.5 
+John_Krasinski/qFX38KlY9I0_0000008 120.9 127.1 
+John_Krasinski/qFX38KlY9I0_0000009 146.9 151.4 

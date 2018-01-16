@@ -1,0 +1,12 @@
+POI: 			Carrie_Underwood 
+Youtube ID: 	jSk2E2EEdFs 
+Video length: 	433.2 sec 
+Set (V): 		dev 
+ 
+Carrie_Underwood/jSk2E2EEdFs_0000001 68.2 73.0 
+Carrie_Underwood/jSk2E2EEdFs_0000002 99.8 106.0 
+Carrie_Underwood/jSk2E2EEdFs_0000003 214.7 224.5 
+Carrie_Underwood/jSk2E2EEdFs_0000004 291.3 301.6 
+Carrie_Underwood/jSk2E2EEdFs_0000005 305.0 310.1 
+Carrie_Underwood/jSk2E2EEdFs_0000006 329.3 334.0 
+Carrie_Underwood/jSk2E2EEdFs_0000007 354.1 369.9 

@@ -1,0 +1,8 @@
+POI: 			Michael_Copon 
+Youtube ID: 	j2xAlVdGoS4 
+Video length: 	131.0 sec 
+Set (V): 		dev 
+ 
+Michael_Copon/j2xAlVdGoS4_0000001 11.0 16.1 
+Michael_Copon/j2xAlVdGoS4_0000002 16.3 23.7 
+Michael_Copon/j2xAlVdGoS4_0000003 82.6 90.6 

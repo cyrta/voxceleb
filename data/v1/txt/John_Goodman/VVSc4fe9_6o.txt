@@ -1,0 +1,10 @@
+POI: 			John_Goodman 
+Youtube ID: 	VVSc4fe9_6o 
+Video length: 	739.9 sec 
+Set (V): 		dev 
+ 
+John_Goodman/VVSc4fe9_6o_0000001 29.1 34.2 
+John_Goodman/VVSc4fe9_6o_0000002 227.3 242.0 
+John_Goodman/VVSc4fe9_6o_0000003 244.8 251.6 
+John_Goodman/VVSc4fe9_6o_0000004 347.6 351.6 
+John_Goodman/VVSc4fe9_6o_0000005 352.4 356.6 

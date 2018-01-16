@@ -1,0 +1,12 @@
+POI: 			Kyle_Richards 
+Youtube ID: 	CEoFPWRyePA 
+Video length: 	394.8 sec 
+Set (V): 		dev 
+ 
+Kyle_Richards/CEoFPWRyePA_0000001 176.9 186.1 
+Kyle_Richards/CEoFPWRyePA_0000002 232.0 238.6 
+Kyle_Richards/CEoFPWRyePA_0000003 247.0 256.2 
+Kyle_Richards/CEoFPWRyePA_0000004 261.9 273.4 
+Kyle_Richards/CEoFPWRyePA_0000005 311.2 321.8 
+Kyle_Richards/CEoFPWRyePA_0000006 327.5 361.1 
+Kyle_Richards/CEoFPWRyePA_0000007 385.7 390.0 

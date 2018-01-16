@@ -1,0 +1,14 @@
+POI: 			Carrie_Fisher 
+Youtube ID: 	5NzAUVyVt98 
+Video length: 	1053.5 sec 
+Set (V): 		dev 
+ 
+Carrie_Fisher/5NzAUVyVt98_0000001 107.6 113.3 
+Carrie_Fisher/5NzAUVyVt98_0000002 117.2 124.0 
+Carrie_Fisher/5NzAUVyVt98_0000003 452.5 457.7 
+Carrie_Fisher/5NzAUVyVt98_0000004 533.0 540.7 
+Carrie_Fisher/5NzAUVyVt98_0000005 633.3 638.1 
+Carrie_Fisher/5NzAUVyVt98_0000006 638.3 647.6 
+Carrie_Fisher/5NzAUVyVt98_0000007 805.8 819.4 
+Carrie_Fisher/5NzAUVyVt98_0000008 873.4 888.8 
+Carrie_Fisher/5NzAUVyVt98_0000009 945.9 952.7 

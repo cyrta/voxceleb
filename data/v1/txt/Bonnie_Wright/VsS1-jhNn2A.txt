@@ -1,0 +1,7 @@
+POI: 			Bonnie_Wright 
+Youtube ID: 	VsS1-jhNn2A 
+Video length: 	217.2 sec 
+Set (V): 		dev 
+ 
+Bonnie_Wright/VsS1-jhNn2A_0000001 81.6 90.8 
+Bonnie_Wright/VsS1-jhNn2A_0000002 153.5 158.6 

@@ -1,0 +1,9 @@
+POI: 			Felicity_Jones 
+Youtube ID: 	N-_y3EiSdeY 
+Video length: 	207.3 sec 
+Set (V): 		dev 
+ 
+Felicity_Jones/N-_y3EiSdeY_0000001 85.8 100.0 
+Felicity_Jones/N-_y3EiSdeY_0000002 114.3 123.4 
+Felicity_Jones/N-_y3EiSdeY_0000003 123.9 134.8 
+Felicity_Jones/N-_y3EiSdeY_0000004 142.8 153.9 

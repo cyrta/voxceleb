@@ -1,0 +1,13 @@
+POI: 			Sam_Raimi 
+Youtube ID: 	cnzoLtP8scQ 
+Video length: 	340.6 sec 
+Set (V): 		dev 
+ 
+Sam_Raimi/cnzoLtP8scQ_0000001 20.5 25.4 
+Sam_Raimi/cnzoLtP8scQ_0000002 60.0 86.0 
+Sam_Raimi/cnzoLtP8scQ_0000003 114.9 119.2 
+Sam_Raimi/cnzoLtP8scQ_0000004 130.4 137.0 
+Sam_Raimi/cnzoLtP8scQ_0000005 137.6 142.7 
+Sam_Raimi/cnzoLtP8scQ_0000006 153.1 158.4 
+Sam_Raimi/cnzoLtP8scQ_0000007 223.1 229.2 
+Sam_Raimi/cnzoLtP8scQ_0000008 252.5 258.4 

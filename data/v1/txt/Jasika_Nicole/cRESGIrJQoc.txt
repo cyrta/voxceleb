@@ -1,0 +1,10 @@
+POI: 			Jasika_Nicole 
+Youtube ID: 	cRESGIrJQoc 
+Video length: 	112.5 sec 
+Set (V): 		dev 
+ 
+Jasika_Nicole/cRESGIrJQoc_0000001 22.7 34.6 
+Jasika_Nicole/cRESGIrJQoc_0000002 36.2 42.2 
+Jasika_Nicole/cRESGIrJQoc_0000003 51.0 60.4 
+Jasika_Nicole/cRESGIrJQoc_0000004 61.3 68.2 
+Jasika_Nicole/cRESGIrJQoc_0000005 97.0 108.7 

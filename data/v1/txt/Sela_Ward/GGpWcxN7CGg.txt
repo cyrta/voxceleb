@@ -1,0 +1,14 @@
+POI: 			Sela_Ward 
+Youtube ID: 	GGpWcxN7CGg 
+Video length: 	496.4 sec 
+Set (V): 		dev 
+ 
+Sela_Ward/GGpWcxN7CGg_0000001 129.7 133.7 
+Sela_Ward/GGpWcxN7CGg_0000002 139.3 146.8 
+Sela_Ward/GGpWcxN7CGg_0000003 156.8 160.8 
+Sela_Ward/GGpWcxN7CGg_0000004 239.0 243.0 
+Sela_Ward/GGpWcxN7CGg_0000005 244.8 253.1 
+Sela_Ward/GGpWcxN7CGg_0000006 256.3 260.9 
+Sela_Ward/GGpWcxN7CGg_0000007 298.0 304.9 
+Sela_Ward/GGpWcxN7CGg_0000008 470.3 474.8 
+Sela_Ward/GGpWcxN7CGg_0000009 475.2 484.3 

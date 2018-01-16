@@ -1,0 +1,17 @@
+POI: 			Jason_Clarke 
+Youtube ID: 	KwFyMaC6Ug0 
+Video length: 	214.5 sec 
+Set (V): 		dev 
+ 
+Jason_Clarke/KwFyMaC6Ug0_0000001 14.0 21.4 
+Jason_Clarke/KwFyMaC6Ug0_0000002 25.3 44.4 
+Jason_Clarke/KwFyMaC6Ug0_0000003 50.8 58.9 
+Jason_Clarke/KwFyMaC6Ug0_0000004 71.2 76.5 
+Jason_Clarke/KwFyMaC6Ug0_0000005 77.4 85.3 
+Jason_Clarke/KwFyMaC6Ug0_0000006 93.6 101.3 
+Jason_Clarke/KwFyMaC6Ug0_0000007 128.5 147.6 
+Jason_Clarke/KwFyMaC6Ug0_0000008 164.1 171.4 
+Jason_Clarke/KwFyMaC6Ug0_0000009 171.5 178.6 
+Jason_Clarke/KwFyMaC6Ug0_0000010 179.1 183.9 
+Jason_Clarke/KwFyMaC6Ug0_0000011 184.4 189.0 
+Jason_Clarke/KwFyMaC6Ug0_0000012 203.8 211.8 

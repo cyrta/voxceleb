@@ -1,0 +1,9 @@
+POI: 			Freida_Pinto 
+Youtube ID: 	1BN1Twr0pDM 
+Video length: 	256.8 sec 
+Set (V): 		dev 
+ 
+Freida_Pinto/1BN1Twr0pDM_0000001 21.8 38.2 
+Freida_Pinto/1BN1Twr0pDM_0000002 38.6 54.2 
+Freida_Pinto/1BN1Twr0pDM_0000003 206.3 212.7 
+Freida_Pinto/1BN1Twr0pDM_0000004 213.5 218.4 

@@ -1,0 +1,14 @@
+POI: 			Jenifer_Lewis 
+Youtube ID: 	BU8_AHCHRXk 
+Video length: 	652.3 sec 
+Set (V): 		dev 
+ 
+Jenifer_Lewis/BU8_AHCHRXk_0000001 99.8 104.7 
+Jenifer_Lewis/BU8_AHCHRXk_0000002 182.0 197.4 
+Jenifer_Lewis/BU8_AHCHRXk_0000003 209.5 228.6 
+Jenifer_Lewis/BU8_AHCHRXk_0000004 315.1 321.5 
+Jenifer_Lewis/BU8_AHCHRXk_0000005 349.2 356.0 
+Jenifer_Lewis/BU8_AHCHRXk_0000006 376.6 380.6 
+Jenifer_Lewis/BU8_AHCHRXk_0000007 395.7 403.3 
+Jenifer_Lewis/BU8_AHCHRXk_0000008 403.9 409.2 
+Jenifer_Lewis/BU8_AHCHRXk_0000009 473.6 484.2 

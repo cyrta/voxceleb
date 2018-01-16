@@ -1,0 +1,11 @@
+POI: 			Prince 
+Youtube ID: 	NMdgNG1MciI 
+Video length: 	213.4 sec 
+Set (V): 		dev 
+ 
+Prince/NMdgNG1MciI_0000001 21.1 28.2 
+Prince/NMdgNG1MciI_0000002 60.0 72.8 
+Prince/NMdgNG1MciI_0000003 122.2 126.7 
+Prince/NMdgNG1MciI_0000004 129.0 134.2 
+Prince/NMdgNG1MciI_0000005 152.6 156.8 
+Prince/NMdgNG1MciI_0000006 193.4 199.1 

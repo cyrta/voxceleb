@@ -1,0 +1,8 @@
+POI: 			Miranda_Kerr 
+Youtube ID: 	svOElhHUb38 
+Video length: 	218.8 sec 
+Set (V): 		dev 
+ 
+Miranda_Kerr/svOElhHUb38_0000001 101.7 107.6 
+Miranda_Kerr/svOElhHUb38_0000002 110.2 115.7 
+Miranda_Kerr/svOElhHUb38_0000003 167.6 176.9 

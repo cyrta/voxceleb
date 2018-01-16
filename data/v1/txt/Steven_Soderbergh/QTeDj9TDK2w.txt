@@ -1,0 +1,13 @@
+POI: 			Steven_Soderbergh 
+Youtube ID: 	QTeDj9TDK2w 
+Video length: 	266.1 sec 
+Set (V): 		dev 
+ 
+Steven_Soderbergh/QTeDj9TDK2w_0000001 25.6 36.5 
+Steven_Soderbergh/QTeDj9TDK2w_0000002 39.3 46.4 
+Steven_Soderbergh/QTeDj9TDK2w_0000003 53.0 58.0 
+Steven_Soderbergh/QTeDj9TDK2w_0000004 105.5 119.0 
+Steven_Soderbergh/QTeDj9TDK2w_0000005 154.7 163.9 
+Steven_Soderbergh/QTeDj9TDK2w_0000006 165.4 178.5 
+Steven_Soderbergh/QTeDj9TDK2w_0000007 191.1 199.6 
+Steven_Soderbergh/QTeDj9TDK2w_0000008 213.5 242.9 

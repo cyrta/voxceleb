@@ -1,0 +1,14 @@
+POI: 			Mandy_Patinkin 
+Youtube ID: 	A3D6KSQadCk 
+Video length: 	498.1 sec 
+Set (V): 		dev 
+ 
+Mandy_Patinkin/A3D6KSQadCk_0000001 211.5 221.5 
+Mandy_Patinkin/A3D6KSQadCk_0000002 228.2 232.6 
+Mandy_Patinkin/A3D6KSQadCk_0000003 232.9 243.6 
+Mandy_Patinkin/A3D6KSQadCk_0000004 244.6 249.3 
+Mandy_Patinkin/A3D6KSQadCk_0000005 249.4 254.7 
+Mandy_Patinkin/A3D6KSQadCk_0000006 256.0 260.2 
+Mandy_Patinkin/A3D6KSQadCk_0000007 260.9 268.4 
+Mandy_Patinkin/A3D6KSQadCk_0000008 273.5 280.0 
+Mandy_Patinkin/A3D6KSQadCk_0000009 284.1 292.2 

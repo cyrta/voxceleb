@@ -1,0 +1,18 @@
+POI: 			Michael_Muhney 
+Youtube ID: 	gZyyaH3ITq8 
+Video length: 	314.5 sec 
+Set (V): 		dev 
+ 
+Michael_Muhney/gZyyaH3ITq8_0000001 35.0 39.5 
+Michael_Muhney/gZyyaH3ITq8_0000002 46.6 56.6 
+Michael_Muhney/gZyyaH3ITq8_0000003 67.9 77.1 
+Michael_Muhney/gZyyaH3ITq8_0000004 106.9 111.7 
+Michael_Muhney/gZyyaH3ITq8_0000005 122.2 126.5 
+Michael_Muhney/gZyyaH3ITq8_0000006 178.1 188.7 
+Michael_Muhney/gZyyaH3ITq8_0000007 194.1 200.6 
+Michael_Muhney/gZyyaH3ITq8_0000008 201.5 210.8 
+Michael_Muhney/gZyyaH3ITq8_0000009 215.5 219.9 
+Michael_Muhney/gZyyaH3ITq8_0000010 236.9 251.4 
+Michael_Muhney/gZyyaH3ITq8_0000011 265.4 271.4 
+Michael_Muhney/gZyyaH3ITq8_0000012 271.5 280.9 
+Michael_Muhney/gZyyaH3ITq8_0000013 292.5 296.5 

@@ -1,0 +1,10 @@
+POI: 			David_Lyons 
+Youtube ID: 	AkPWShGsmKA 
+Video length: 	141.7 sec 
+Set (V): 		dev 
+ 
+David_Lyons/AkPWShGsmKA_0000001 01.1 06.6 
+David_Lyons/AkPWShGsmKA_0000002 18.8 23.9 
+David_Lyons/AkPWShGsmKA_0000003 26.6 47.2 
+David_Lyons/AkPWShGsmKA_0000004 107.5 112.7 
+David_Lyons/AkPWShGsmKA_0000005 127.1 138.0 

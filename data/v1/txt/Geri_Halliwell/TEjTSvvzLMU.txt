@@ -1,0 +1,16 @@
+POI: 			Geri_Halliwell 
+Youtube ID: 	TEjTSvvzLMU 
+Video length: 	317.9 sec 
+Set (V): 		dev 
+ 
+Geri_Halliwell/TEjTSvvzLMU_0000001 75.9 85.2 
+Geri_Halliwell/TEjTSvvzLMU_0000002 130.6 135.2 
+Geri_Halliwell/TEjTSvvzLMU_0000003 194.7 198.8 
+Geri_Halliwell/TEjTSvvzLMU_0000004 200.7 205.0 
+Geri_Halliwell/TEjTSvvzLMU_0000005 209.8 215.1 
+Geri_Halliwell/TEjTSvvzLMU_0000006 233.2 238.6 
+Geri_Halliwell/TEjTSvvzLMU_0000007 238.8 245.1 
+Geri_Halliwell/TEjTSvvzLMU_0000008 248.1 252.8 
+Geri_Halliwell/TEjTSvvzLMU_0000009 261.9 268.0 
+Geri_Halliwell/TEjTSvvzLMU_0000010 298.9 304.2 
+Geri_Halliwell/TEjTSvvzLMU_0000011 308.9 316.4 

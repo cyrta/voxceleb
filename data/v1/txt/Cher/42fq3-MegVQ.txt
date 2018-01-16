@@ -1,0 +1,10 @@
+POI: 			Cher 
+Youtube ID: 	42fq3-MegVQ 
+Video length: 	101.7 sec 
+Set (V): 		dev 
+ 
+Cher/42fq3-MegVQ_0000001 19.3 24.2 
+Cher/42fq3-MegVQ_0000002 29.6 39.2 
+Cher/42fq3-MegVQ_0000003 55.6 62.3 
+Cher/42fq3-MegVQ_0000004 73.9 78.3 
+Cher/42fq3-MegVQ_0000005 89.6 95.6 

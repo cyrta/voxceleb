@@ -1,0 +1,10 @@
+POI: 			Drake_Bell 
+Youtube ID: 	CQKHH67Wedo 
+Video length: 	302.6 sec 
+Set (V): 		dev 
+ 
+Drake_Bell/CQKHH67Wedo_0000001 32.9 36.9 
+Drake_Bell/CQKHH67Wedo_0000002 130.8 140.9 
+Drake_Bell/CQKHH67Wedo_0000003 218.9 227.4 
+Drake_Bell/CQKHH67Wedo_0000004 227.6 233.8 
+Drake_Bell/CQKHH67Wedo_0000005 244.6 252.1 

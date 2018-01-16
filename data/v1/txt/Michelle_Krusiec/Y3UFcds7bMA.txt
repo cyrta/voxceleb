@@ -1,0 +1,13 @@
+POI: 			Michelle_Krusiec 
+Youtube ID: 	Y3UFcds7bMA 
+Video length: 	303.4 sec 
+Set (V): 		dev 
+ 
+Michelle_Krusiec/Y3UFcds7bMA_0000001 93.3 101.0 
+Michelle_Krusiec/Y3UFcds7bMA_0000002 140.4 150.0 
+Michelle_Krusiec/Y3UFcds7bMA_0000003 150.9 156.4 
+Michelle_Krusiec/Y3UFcds7bMA_0000004 189.4 196.3 
+Michelle_Krusiec/Y3UFcds7bMA_0000005 206.4 211.8 
+Michelle_Krusiec/Y3UFcds7bMA_0000006 231.5 238.0 
+Michelle_Krusiec/Y3UFcds7bMA_0000007 268.6 277.5 
+Michelle_Krusiec/Y3UFcds7bMA_0000008 286.3 292.8 

@@ -1,0 +1,16 @@
+POI: 			Katy_Perry 
+Youtube ID: 	rRtKL9Js9t4 
+Video length: 	520.4 sec 
+Set (V): 		dev 
+ 
+Katy_Perry/rRtKL9Js9t4_0000001 68.8 74.3 
+Katy_Perry/rRtKL9Js9t4_0000002 78.2 82.4 
+Katy_Perry/rRtKL9Js9t4_0000003 109.9 117.2 
+Katy_Perry/rRtKL9Js9t4_0000004 121.8 133.8 
+Katy_Perry/rRtKL9Js9t4_0000005 158.0 162.4 
+Katy_Perry/rRtKL9Js9t4_0000006 171.3 177.0 
+Katy_Perry/rRtKL9Js9t4_0000007 177.3 182.6 
+Katy_Perry/rRtKL9Js9t4_0000008 187.1 191.8 
+Katy_Perry/rRtKL9Js9t4_0000009 203.1 214.9 
+Katy_Perry/rRtKL9Js9t4_0000010 283.8 291.2 
+Katy_Perry/rRtKL9Js9t4_0000011 291.4 311.9 

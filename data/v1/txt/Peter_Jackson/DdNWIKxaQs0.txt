@@ -1,0 +1,12 @@
+POI: 			Peter_Jackson 
+Youtube ID: 	DdNWIKxaQs0 
+Video length: 	225.5 sec 
+Set (V): 		dev 
+ 
+Peter_Jackson/DdNWIKxaQs0_0000001 50.2 55.3 
+Peter_Jackson/DdNWIKxaQs0_0000002 72.7 81.2 
+Peter_Jackson/DdNWIKxaQs0_0000003 83.2 88.3 
+Peter_Jackson/DdNWIKxaQs0_0000004 175.4 179.9 
+Peter_Jackson/DdNWIKxaQs0_0000005 181.3 185.6 
+Peter_Jackson/DdNWIKxaQs0_0000006 189.1 193.9 
+Peter_Jackson/DdNWIKxaQs0_0000007 195.2 200.4 

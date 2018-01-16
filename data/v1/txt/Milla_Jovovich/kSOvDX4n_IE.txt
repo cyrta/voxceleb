@@ -1,0 +1,18 @@
+POI: 			Milla_Jovovich 
+Youtube ID: 	kSOvDX4n_IE 
+Video length: 	214.2 sec 
+Set (V): 		dev 
+ 
+Milla_Jovovich/kSOvDX4n_IE_0000001 16.7 22.2 
+Milla_Jovovich/kSOvDX4n_IE_0000002 22.4 34.4 
+Milla_Jovovich/kSOvDX4n_IE_0000003 48.8 56.4 
+Milla_Jovovich/kSOvDX4n_IE_0000004 60.2 67.3 
+Milla_Jovovich/kSOvDX4n_IE_0000005 67.7 72.4 
+Milla_Jovovich/kSOvDX4n_IE_0000006 79.2 90.0 
+Milla_Jovovich/kSOvDX4n_IE_0000007 106.3 113.4 
+Milla_Jovovich/kSOvDX4n_IE_0000008 113.7 139.3 
+Milla_Jovovich/kSOvDX4n_IE_0000009 158.2 165.6 
+Milla_Jovovich/kSOvDX4n_IE_0000010 167.2 177.4 
+Milla_Jovovich/kSOvDX4n_IE_0000011 177.5 196.2 
+Milla_Jovovich/kSOvDX4n_IE_0000012 200.5 204.6 
+Milla_Jovovich/kSOvDX4n_IE_0000013 205.9 212.7 

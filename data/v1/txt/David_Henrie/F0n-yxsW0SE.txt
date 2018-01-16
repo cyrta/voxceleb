@@ -1,0 +1,7 @@
+POI: 			David_Henrie 
+Youtube ID: 	F0n-yxsW0SE 
+Video length: 	183.2 sec 
+Set (V): 		dev 
+ 
+David_Henrie/F0n-yxsW0SE_0000001 53.5 67.6 
+David_Henrie/F0n-yxsW0SE_0000002 121.6 134.1 

@@ -1,0 +1,7 @@
+POI: 			Jake_Abel 
+Youtube ID: 	ISVesSfaK6Y 
+Video length: 	410.3 sec 
+Set (V): 		dev 
+ 
+Jake_Abel/ISVesSfaK6Y_0000001 292.1 296.8 
+Jake_Abel/ISVesSfaK6Y_0000002 324.6 333.8 

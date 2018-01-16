@@ -1,0 +1,10 @@
+POI: 			Tom_Hooper 
+Youtube ID: 	scoQHbk-edE 
+Video length: 	218.8 sec 
+Set (V): 		dev 
+ 
+Tom_Hooper/scoQHbk-edE_0000001 177.1 182.4 
+Tom_Hooper/scoQHbk-edE_0000002 183.8 188.4 
+Tom_Hooper/scoQHbk-edE_0000003 190.2 194.3 
+Tom_Hooper/scoQHbk-edE_0000004 194.7 199.4 
+Tom_Hooper/scoQHbk-edE_0000005 199.7 204.4 

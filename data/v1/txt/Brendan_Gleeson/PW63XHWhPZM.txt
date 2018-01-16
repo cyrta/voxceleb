@@ -1,0 +1,20 @@
+POI: 			Brendan_Gleeson 
+Youtube ID: 	PW63XHWhPZM 
+Video length: 	455.1 sec 
+Set (V): 		dev 
+ 
+Brendan_Gleeson/PW63XHWhPZM_0000001 90.7 96.7 
+Brendan_Gleeson/PW63XHWhPZM_0000002 97.8 108.5 
+Brendan_Gleeson/PW63XHWhPZM_0000003 140.8 145.3 
+Brendan_Gleeson/PW63XHWhPZM_0000004 148.8 155.9 
+Brendan_Gleeson/PW63XHWhPZM_0000005 162.0 171.6 
+Brendan_Gleeson/PW63XHWhPZM_0000006 172.0 195.6 
+Brendan_Gleeson/PW63XHWhPZM_0000007 208.4 218.8 
+Brendan_Gleeson/PW63XHWhPZM_0000008 221.2 230.8 
+Brendan_Gleeson/PW63XHWhPZM_0000009 312.3 319.4 
+Brendan_Gleeson/PW63XHWhPZM_0000010 320.1 339.0 
+Brendan_Gleeson/PW63XHWhPZM_0000011 385.5 390.2 
+Brendan_Gleeson/PW63XHWhPZM_0000012 391.8 396.7 
+Brendan_Gleeson/PW63XHWhPZM_0000013 400.2 405.2 
+Brendan_Gleeson/PW63XHWhPZM_0000014 434.4 442.7 
+Brendan_Gleeson/PW63XHWhPZM_0000015 444.4 451.2 

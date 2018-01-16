@@ -1,0 +1,9 @@
+POI: 			Max_Irons 
+Youtube ID: 	Ic8-A8yyoM8 
+Video length: 	330.5 sec 
+Set (V): 		dev 
+ 
+Max_Irons/Ic8-A8yyoM8_0000001 76.1 80.2 
+Max_Irons/Ic8-A8yyoM8_0000002 101.9 107.0 
+Max_Irons/Ic8-A8yyoM8_0000003 217.6 222.7 
+Max_Irons/Ic8-A8yyoM8_0000004 230.8 236.0 

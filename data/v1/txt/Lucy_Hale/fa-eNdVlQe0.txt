@@ -1,0 +1,8 @@
+POI: 			Lucy_Hale 
+Youtube ID: 	fa-eNdVlQe0 
+Video length: 	222.4 sec 
+Set (V): 		dev 
+ 
+Lucy_Hale/fa-eNdVlQe0_0000001 125.4 130.1 
+Lucy_Hale/fa-eNdVlQe0_0000002 136.7 141.1 
+Lucy_Hale/fa-eNdVlQe0_0000003 180.3 184.4 

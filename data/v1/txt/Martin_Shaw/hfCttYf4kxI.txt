@@ -1,0 +1,17 @@
+POI: 			Martin_Shaw 
+Youtube ID: 	hfCttYf4kxI 
+Video length: 	604.7 sec 
+Set (V): 		dev 
+ 
+Martin_Shaw/hfCttYf4kxI_0000001 88.0 97.5 
+Martin_Shaw/hfCttYf4kxI_0000002 124.2 128.7 
+Martin_Shaw/hfCttYf4kxI_0000003 168.9 174.1 
+Martin_Shaw/hfCttYf4kxI_0000004 195.9 201.2 
+Martin_Shaw/hfCttYf4kxI_0000005 205.0 212.2 
+Martin_Shaw/hfCttYf4kxI_0000006 267.4 271.7 
+Martin_Shaw/hfCttYf4kxI_0000007 287.2 298.2 
+Martin_Shaw/hfCttYf4kxI_0000008 303.1 307.2 
+Martin_Shaw/hfCttYf4kxI_0000009 319.1 325.0 
+Martin_Shaw/hfCttYf4kxI_0000010 453.4 457.4 
+Martin_Shaw/hfCttYf4kxI_0000011 480.2 484.5 
+Martin_Shaw/hfCttYf4kxI_0000012 563.5 567.9 

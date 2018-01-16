@@ -1,0 +1,7 @@
+POI: 			Christopher_Mintz-Plasse 
+Youtube ID: 	wMSeYei5160 
+Video length: 	113.2 sec 
+Set (V): 		dev 
+ 
+Christopher_Mintz-Plasse/wMSeYei5160_0000001 48.2 54.1 
+Christopher_Mintz-Plasse/wMSeYei5160_0000002 73.8 81.1 

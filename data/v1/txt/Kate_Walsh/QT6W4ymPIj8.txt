@@ -1,0 +1,14 @@
+POI: 			Kate_Walsh 
+Youtube ID: 	QT6W4ymPIj8 
+Video length: 	369.1 sec 
+Set (V): 		dev 
+ 
+Kate_Walsh/QT6W4ymPIj8_0000001 70.0 74.2 
+Kate_Walsh/QT6W4ymPIj8_0000002 116.3 120.6 
+Kate_Walsh/QT6W4ymPIj8_0000003 159.8 166.2 
+Kate_Walsh/QT6W4ymPIj8_0000004 220.7 225.4 
+Kate_Walsh/QT6W4ymPIj8_0000005 235.5 243.6 
+Kate_Walsh/QT6W4ymPIj8_0000006 260.9 272.7 
+Kate_Walsh/QT6W4ymPIj8_0000007 317.4 324.0 
+Kate_Walsh/QT6W4ymPIj8_0000008 340.7 346.9 
+Kate_Walsh/QT6W4ymPIj8_0000009 361.4 367.2 

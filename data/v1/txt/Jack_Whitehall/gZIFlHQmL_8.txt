@@ -1,0 +1,12 @@
+POI: 			Jack_Whitehall 
+Youtube ID: 	gZIFlHQmL_8 
+Video length: 	364.2 sec 
+Set (V): 		dev 
+ 
+Jack_Whitehall/gZIFlHQmL_8_0000001 85.6 93.2 
+Jack_Whitehall/gZIFlHQmL_8_0000002 99.9 104.6 
+Jack_Whitehall/gZIFlHQmL_8_0000003 136.1 141.2 
+Jack_Whitehall/gZIFlHQmL_8_0000004 278.9 285.7 
+Jack_Whitehall/gZIFlHQmL_8_0000005 296.6 306.3 
+Jack_Whitehall/gZIFlHQmL_8_0000006 323.2 330.4 
+Jack_Whitehall/gZIFlHQmL_8_0000007 334.3 339.8 

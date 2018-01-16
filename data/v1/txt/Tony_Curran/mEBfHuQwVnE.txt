@@ -1,0 +1,8 @@
+POI: 			Tony_Curran 
+Youtube ID: 	mEBfHuQwVnE 
+Video length: 	105.0 sec 
+Set (V): 		dev 
+ 
+Tony_Curran/mEBfHuQwVnE_0000001 35.9 46.2 
+Tony_Curran/mEBfHuQwVnE_0000002 68.8 73.1 
+Tony_Curran/mEBfHuQwVnE_0000003 76.1 86.0 

@@ -1,0 +1,12 @@
+POI: 			Christina_Ricci 
+Youtube ID: 	gP1Pmmcttug 
+Video length: 	208.5 sec 
+Set (V): 		dev 
+ 
+Christina_Ricci/gP1Pmmcttug_0000001 24.2 28.2 
+Christina_Ricci/gP1Pmmcttug_0000002 68.8 80.3 
+Christina_Ricci/gP1Pmmcttug_0000003 150.0 155.2 
+Christina_Ricci/gP1Pmmcttug_0000004 155.3 159.7 
+Christina_Ricci/gP1Pmmcttug_0000005 163.1 168.2 
+Christina_Ricci/gP1Pmmcttug_0000006 172.2 180.7 
+Christina_Ricci/gP1Pmmcttug_0000007 180.8 188.0 

@@ -1,0 +1,18 @@
+POI: 			Walton_Goggins 
+Youtube ID: 	o5WG57c-YYo 
+Video length: 	185.1 sec 
+Set (V): 		dev 
+ 
+Walton_Goggins/o5WG57c-YYo_0000001 09.9 15.3 
+Walton_Goggins/o5WG57c-YYo_0000002 15.4 32.9 
+Walton_Goggins/o5WG57c-YYo_0000003 36.4 49.0 
+Walton_Goggins/o5WG57c-YYo_0000004 53.0 58.2 
+Walton_Goggins/o5WG57c-YYo_0000005 69.6 77.4 
+Walton_Goggins/o5WG57c-YYo_0000006 77.6 82.1 
+Walton_Goggins/o5WG57c-YYo_0000007 82.3 96.3 
+Walton_Goggins/o5WG57c-YYo_0000008 97.1 109.8 
+Walton_Goggins/o5WG57c-YYo_0000009 114.0 121.8 
+Walton_Goggins/o5WG57c-YYo_0000010 133.5 139.0 
+Walton_Goggins/o5WG57c-YYo_0000011 142.8 148.4 
+Walton_Goggins/o5WG57c-YYo_0000012 149.5 160.1 
+Walton_Goggins/o5WG57c-YYo_0000013 162.2 167.5 

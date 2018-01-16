@@ -1,0 +1,7 @@
+POI: 			Alex_Kingston 
+Youtube ID: 	QZuA-h2TORw 
+Video length: 	268.6 sec 
+Set (V): 		dev 
+ 
+Alex_Kingston/QZuA-h2TORw_0000001 15.1 19.6 
+Alex_Kingston/QZuA-h2TORw_0000002 222.7 229.6 

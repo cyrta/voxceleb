@@ -1,0 +1,8 @@
+POI: 			Allison_Williams 
+Youtube ID: 	Xld52wtj6Kg 
+Video length: 	162.5 sec 
+Set (V): 		dev 
+ 
+Allison_Williams/Xld52wtj6Kg_0000001 107.1 123.8 
+Allison_Williams/Xld52wtj6Kg_0000002 126.2 130.8 
+Allison_Williams/Xld52wtj6Kg_0000003 130.9 138.6 

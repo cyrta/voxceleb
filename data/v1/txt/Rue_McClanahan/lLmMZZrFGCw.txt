@@ -1,0 +1,27 @@
+POI: 			Rue_McClanahan 
+Youtube ID: 	lLmMZZrFGCw 
+Video length: 	2569.6 sec 
+Set (V): 		dev 
+ 
+Rue_McClanahan/lLmMZZrFGCw_0000001 369.6 373.6 
+Rue_McClanahan/lLmMZZrFGCw_0000002 428.5 433.0 
+Rue_McClanahan/lLmMZZrFGCw_0000003 472.4 476.7 
+Rue_McClanahan/lLmMZZrFGCw_0000004 515.8 521.1 
+Rue_McClanahan/lLmMZZrFGCw_0000005 595.9 600.4 
+Rue_McClanahan/lLmMZZrFGCw_0000006 710.2 716.7 
+Rue_McClanahan/lLmMZZrFGCw_0000007 730.5 735.8 
+Rue_McClanahan/lLmMZZrFGCw_0000008 756.4 765.7 
+Rue_McClanahan/lLmMZZrFGCw_0000009 967.0 971.2 
+Rue_McClanahan/lLmMZZrFGCw_0000010 1080.8 1085.6 
+Rue_McClanahan/lLmMZZrFGCw_0000011 1177.5 1183.2 
+Rue_McClanahan/lLmMZZrFGCw_0000012 1288.2 1293.1 
+Rue_McClanahan/lLmMZZrFGCw_0000013 1326.0 1330.6 
+Rue_McClanahan/lLmMZZrFGCw_0000014 1516.8 1520.8 
+Rue_McClanahan/lLmMZZrFGCw_0000015 1939.3 1945.6 
+Rue_McClanahan/lLmMZZrFGCw_0000016 1945.7 1950.9 
+Rue_McClanahan/lLmMZZrFGCw_0000017 1963.6 1968.8 
+Rue_McClanahan/lLmMZZrFGCw_0000018 2009.6 2014.6 
+Rue_McClanahan/lLmMZZrFGCw_0000019 2020.4 2026.1 
+Rue_McClanahan/lLmMZZrFGCw_0000020 2198.0 2206.4 
+Rue_McClanahan/lLmMZZrFGCw_0000021 2249.6 2254.3 
+Rue_McClanahan/lLmMZZrFGCw_0000022 2307.3 2311.7 

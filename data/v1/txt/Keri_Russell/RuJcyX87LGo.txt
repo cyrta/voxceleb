@@ -1,0 +1,8 @@
+POI: 			Keri_Russell 
+Youtube ID: 	RuJcyX87LGo 
+Video length: 	722.4 sec 
+Set (V): 		dev 
+ 
+Keri_Russell/RuJcyX87LGo_0000001 270.9 281.2 
+Keri_Russell/RuJcyX87LGo_0000002 527.1 538.8 
+Keri_Russell/RuJcyX87LGo_0000003 539.6 552.2 

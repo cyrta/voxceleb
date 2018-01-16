@@ -1,0 +1,20 @@
+POI: 			Cindy_Williams 
+Youtube ID: 	YZbNSnDpRnU 
+Video length: 	307.9 sec 
+Set (V): 		dev 
+ 
+Cindy_Williams/YZbNSnDpRnU_0000001 06.5 33.3 
+Cindy_Williams/YZbNSnDpRnU_0000002 45.6 50.5 
+Cindy_Williams/YZbNSnDpRnU_0000003 52.4 67.4 
+Cindy_Williams/YZbNSnDpRnU_0000004 84.3 89.1 
+Cindy_Williams/YZbNSnDpRnU_0000005 91.2 100.8 
+Cindy_Williams/YZbNSnDpRnU_0000006 102.0 118.4 
+Cindy_Williams/YZbNSnDpRnU_0000007 120.6 144.8 
+Cindy_Williams/YZbNSnDpRnU_0000008 149.3 154.1 
+Cindy_Williams/YZbNSnDpRnU_0000009 163.3 172.5 
+Cindy_Williams/YZbNSnDpRnU_0000010 176.4 185.5 
+Cindy_Williams/YZbNSnDpRnU_0000011 195.2 201.0 
+Cindy_Williams/YZbNSnDpRnU_0000012 203.8 237.4 
+Cindy_Williams/YZbNSnDpRnU_0000013 239.4 250.3 
+Cindy_Williams/YZbNSnDpRnU_0000014 251.2 264.2 
+Cindy_Williams/YZbNSnDpRnU_0000015 265.7 278.2 

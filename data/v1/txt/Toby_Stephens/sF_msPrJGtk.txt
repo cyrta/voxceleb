@@ -1,0 +1,9 @@
+POI: 			Toby_Stephens 
+Youtube ID: 	sF_msPrJGtk 
+Video length: 	89.4 sec 
+Set (V): 		dev 
+ 
+Toby_Stephens/sF_msPrJGtk_0000001 11.0 15.2 
+Toby_Stephens/sF_msPrJGtk_0000002 26.6 31.8 
+Toby_Stephens/sF_msPrJGtk_0000003 50.2 62.7 
+Toby_Stephens/sF_msPrJGtk_0000004 81.0 86.2 

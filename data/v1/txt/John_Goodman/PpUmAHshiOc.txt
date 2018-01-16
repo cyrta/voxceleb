@@ -1,0 +1,19 @@
+POI: 			John_Goodman 
+Youtube ID: 	PpUmAHshiOc 
+Video length: 	282.7 sec 
+Set (V): 		dev 
+ 
+John_Goodman/PpUmAHshiOc_0000001 10.0 17.8 
+John_Goodman/PpUmAHshiOc_0000002 18.3 22.8 
+John_Goodman/PpUmAHshiOc_0000003 38.8 46.3 
+John_Goodman/PpUmAHshiOc_0000004 66.6 75.0 
+John_Goodman/PpUmAHshiOc_0000005 86.1 95.7 
+John_Goodman/PpUmAHshiOc_0000006 103.7 110.8 
+John_Goodman/PpUmAHshiOc_0000007 112.6 117.2 
+John_Goodman/PpUmAHshiOc_0000008 132.2 137.8 
+John_Goodman/PpUmAHshiOc_0000009 148.7 154.7 
+John_Goodman/PpUmAHshiOc_0000010 164.3 169.0 
+John_Goodman/PpUmAHshiOc_0000011 171.6 175.7 
+John_Goodman/PpUmAHshiOc_0000012 195.7 202.2 
+John_Goodman/PpUmAHshiOc_0000013 203.0 217.4 
+John_Goodman/PpUmAHshiOc_0000014 233.9 241.7 

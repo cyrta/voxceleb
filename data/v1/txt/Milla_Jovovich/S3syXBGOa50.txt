@@ -1,0 +1,36 @@
+POI: 			Milla_Jovovich 
+Youtube ID: 	S3syXBGOa50 
+Video length: 	1270.2 sec 
+Set (V): 		dev 
+ 
+Milla_Jovovich/S3syXBGOa50_0000001 10.9 17.9 
+Milla_Jovovich/S3syXBGOa50_0000002 52.0 68.1 
+Milla_Jovovich/S3syXBGOa50_0000003 97.0 106.2 
+Milla_Jovovich/S3syXBGOa50_0000004 108.2 117.3 
+Milla_Jovovich/S3syXBGOa50_0000005 121.9 142.2 
+Milla_Jovovich/S3syXBGOa50_0000006 156.7 162.6 
+Milla_Jovovich/S3syXBGOa50_0000007 177.3 184.0 
+Milla_Jovovich/S3syXBGOa50_0000008 207.0 223.8 
+Milla_Jovovich/S3syXBGOa50_0000009 192.0 202.6 
+Milla_Jovovich/S3syXBGOa50_0000010 280.9 291.0 
+Milla_Jovovich/S3syXBGOa50_0000011 300.0 311.8 
+Milla_Jovovich/S3syXBGOa50_0000012 332.3 338.4 
+Milla_Jovovich/S3syXBGOa50_0000013 402.8 406.9 
+Milla_Jovovich/S3syXBGOa50_0000014 423.6 438.2 
+Milla_Jovovich/S3syXBGOa50_0000015 462.0 466.3 
+Milla_Jovovich/S3syXBGOa50_0000016 522.7 535.6 
+Milla_Jovovich/S3syXBGOa50_0000017 536.6 542.3 
+Milla_Jovovich/S3syXBGOa50_0000018 548.2 555.4 
+Milla_Jovovich/S3syXBGOa50_0000019 563.2 573.6 
+Milla_Jovovich/S3syXBGOa50_0000020 585.4 589.6 
+Milla_Jovovich/S3syXBGOa50_0000021 607.2 620.8 
+Milla_Jovovich/S3syXBGOa50_0000022 632.5 637.4 
+Milla_Jovovich/S3syXBGOa50_0000023 751.0 759.5 
+Milla_Jovovich/S3syXBGOa50_0000024 811.6 816.2 
+Milla_Jovovich/S3syXBGOa50_0000025 834.6 841.2 
+Milla_Jovovich/S3syXBGOa50_0000026 843.1 863.4 
+Milla_Jovovich/S3syXBGOa50_0000027 961.5 966.5 
+Milla_Jovovich/S3syXBGOa50_0000028 967.1 976.7 
+Milla_Jovovich/S3syXBGOa50_0000029 1040.4 1050.7 
+Milla_Jovovich/S3syXBGOa50_0000030 1051.0 1062.3 
+Milla_Jovovich/S3syXBGOa50_0000031 1189.5 1193.7 

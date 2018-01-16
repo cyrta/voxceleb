@@ -1,0 +1,10 @@
+POI: 			Cindy_Williams 
+Youtube ID: 	RoCsorfgp4M 
+Video length: 	145.2 sec 
+Set (V): 		dev 
+ 
+Cindy_Williams/RoCsorfgp4M_0000001 26.8 31.6 
+Cindy_Williams/RoCsorfgp4M_0000002 29.0 36.7 
+Cindy_Williams/RoCsorfgp4M_0000003 44.0 53.0 
+Cindy_Williams/RoCsorfgp4M_0000004 54.8 63.2 
+Cindy_Williams/RoCsorfgp4M_0000005 87.4 100.2 

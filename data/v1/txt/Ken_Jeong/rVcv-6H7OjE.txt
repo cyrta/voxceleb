@@ -1,0 +1,10 @@
+POI: 			Ken_Jeong 
+Youtube ID: 	rVcv-6H7OjE 
+Video length: 	213.9 sec 
+Set (V): 		dev 
+ 
+Ken_Jeong/rVcv-6H7OjE_0000001 87.7 96.8 
+Ken_Jeong/rVcv-6H7OjE_0000002 100.5 107.5 
+Ken_Jeong/rVcv-6H7OjE_0000003 116.8 121.8 
+Ken_Jeong/rVcv-6H7OjE_0000004 156.4 161.8 
+Ken_Jeong/rVcv-6H7OjE_0000005 176.9 192.0 

@@ -1,0 +1,11 @@
+POI: 			Toby_Stephens 
+Youtube ID: 	04xBAsZyUF0 
+Video length: 	105.4 sec 
+Set (V): 		dev 
+ 
+Toby_Stephens/04xBAsZyUF0_0000001 13.8 18.2 
+Toby_Stephens/04xBAsZyUF0_0000002 27.6 34.3 
+Toby_Stephens/04xBAsZyUF0_0000003 43.4 47.8 
+Toby_Stephens/04xBAsZyUF0_0000004 53.3 58.0 
+Toby_Stephens/04xBAsZyUF0_0000005 72.9 79.7 
+Toby_Stephens/04xBAsZyUF0_0000006 83.5 95.5 

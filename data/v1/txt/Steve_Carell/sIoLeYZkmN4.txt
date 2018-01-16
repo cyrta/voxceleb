@@ -1,0 +1,9 @@
+POI: 			Steve_Carell 
+Youtube ID: 	sIoLeYZkmN4 
+Video length: 	232.7 sec 
+Set (V): 		dev 
+ 
+Steve_Carell/sIoLeYZkmN4_0000001 10.8 32.5 
+Steve_Carell/sIoLeYZkmN4_0000002 152.4 159.8 
+Steve_Carell/sIoLeYZkmN4_0000003 159.8 165.6 
+Steve_Carell/sIoLeYZkmN4_0000004 178.6 188.8 

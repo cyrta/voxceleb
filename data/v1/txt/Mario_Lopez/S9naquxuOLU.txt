@@ -1,0 +1,7 @@
+POI: 			Mario_Lopez 
+Youtube ID: 	S9naquxuOLU 
+Video length: 	473.1 sec 
+Set (V): 		dev 
+ 
+Mario_Lopez/S9naquxuOLU_0000001 143.3 147.4 
+Mario_Lopez/S9naquxuOLU_0000002 268.4 273.5 

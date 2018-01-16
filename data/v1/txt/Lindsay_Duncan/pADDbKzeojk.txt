@@ -1,0 +1,17 @@
+POI: 			Lindsay_Duncan 
+Youtube ID: 	pADDbKzeojk 
+Video length: 	401.7 sec 
+Set (V): 		dev 
+ 
+Lindsay_Duncan/pADDbKzeojk_0000001 51.3 57.9 
+Lindsay_Duncan/pADDbKzeojk_0000002 58.3 69.6 
+Lindsay_Duncan/pADDbKzeojk_0000003 70.1 75.2 
+Lindsay_Duncan/pADDbKzeojk_0000004 138.3 142.7 
+Lindsay_Duncan/pADDbKzeojk_0000005 143.0 150.6 
+Lindsay_Duncan/pADDbKzeojk_0000006 155.6 162.1 
+Lindsay_Duncan/pADDbKzeojk_0000007 173.5 181.3 
+Lindsay_Duncan/pADDbKzeojk_0000008 221.8 227.4 
+Lindsay_Duncan/pADDbKzeojk_0000009 236.5 243.5 
+Lindsay_Duncan/pADDbKzeojk_0000010 244.5 249.4 
+Lindsay_Duncan/pADDbKzeojk_0000011 297.1 307.6 
+Lindsay_Duncan/pADDbKzeojk_0000012 312.9 324.0 

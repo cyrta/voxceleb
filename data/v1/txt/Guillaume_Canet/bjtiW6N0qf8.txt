@@ -1,0 +1,8 @@
+POI: 			Guillaume_Canet 
+Youtube ID: 	bjtiW6N0qf8 
+Video length: 	235.9 sec 
+Set (V): 		dev 
+ 
+Guillaume_Canet/bjtiW6N0qf8_0000001 144.7 149.0 
+Guillaume_Canet/bjtiW6N0qf8_0000002 208.4 212.9 
+Guillaume_Canet/bjtiW6N0qf8_0000003 213.6 223.4 

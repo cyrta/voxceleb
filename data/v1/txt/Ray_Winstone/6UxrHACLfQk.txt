@@ -1,0 +1,8 @@
+POI: 			Ray_Winstone 
+Youtube ID: 	6UxrHACLfQk 
+Video length: 	109.7 sec 
+Set (V): 		dev 
+ 
+Ray_Winstone/6UxrHACLfQk_0000001 14.6 19.0 
+Ray_Winstone/6UxrHACLfQk_0000002 54.5 67.0 
+Ray_Winstone/6UxrHACLfQk_0000003 74.6 88.2 

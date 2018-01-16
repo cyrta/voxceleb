@@ -1,0 +1,13 @@
+POI: 			Cindy_Williams 
+Youtube ID: 	u9NlX43okUs 
+Video length: 	133.0 sec 
+Set (V): 		dev 
+ 
+Cindy_Williams/u9NlX43okUs_0000001 06.6 21.8 
+Cindy_Williams/u9NlX43okUs_0000002 22.0 35.5 
+Cindy_Williams/u9NlX43okUs_0000003 37.0 45.0 
+Cindy_Williams/u9NlX43okUs_0000004 47.6 63.3 
+Cindy_Williams/u9NlX43okUs_0000005 70.1 87.4 
+Cindy_Williams/u9NlX43okUs_0000006 88.4 92.6 
+Cindy_Williams/u9NlX43okUs_0000007 93.2 104.9 
+Cindy_Williams/u9NlX43okUs_0000008 107.2 113.2 

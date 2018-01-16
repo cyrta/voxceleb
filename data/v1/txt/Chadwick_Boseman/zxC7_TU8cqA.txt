@@ -1,0 +1,21 @@
+POI: 			Chadwick_Boseman 
+Youtube ID: 	zxC7_TU8cqA 
+Video length: 	292.7 sec 
+Set (V): 		dev 
+ 
+Chadwick_Boseman/zxC7_TU8cqA_0000001 64.0 75.9 
+Chadwick_Boseman/zxC7_TU8cqA_0000002 95.8 106.3 
+Chadwick_Boseman/zxC7_TU8cqA_0000003 107.2 112.5 
+Chadwick_Boseman/zxC7_TU8cqA_0000004 116.1 126.8 
+Chadwick_Boseman/zxC7_TU8cqA_0000005 139.5 149.7 
+Chadwick_Boseman/zxC7_TU8cqA_0000006 150.0 155.2 
+Chadwick_Boseman/zxC7_TU8cqA_0000007 163.4 169.8 
+Chadwick_Boseman/zxC7_TU8cqA_0000008 170.6 177.6 
+Chadwick_Boseman/zxC7_TU8cqA_0000009 178.6 190.0 
+Chadwick_Boseman/zxC7_TU8cqA_0000010 209.6 218.9 
+Chadwick_Boseman/zxC7_TU8cqA_0000011 219.4 225.0 
+Chadwick_Boseman/zxC7_TU8cqA_0000012 227.7 234.6 
+Chadwick_Boseman/zxC7_TU8cqA_0000013 235.7 246.4 
+Chadwick_Boseman/zxC7_TU8cqA_0000014 255.1 261.0 
+Chadwick_Boseman/zxC7_TU8cqA_0000015 262.0 271.6 
+Chadwick_Boseman/zxC7_TU8cqA_0000016 278.6 288.5 

@@ -1,0 +1,8 @@
+POI: 			Olivia_Colman 
+Youtube ID: 	byEwehzXHe0 
+Video length: 	117.3 sec 
+Set (V): 		dev 
+ 
+Olivia_Colman/byEwehzXHe0_0000001 19.7 23.8 
+Olivia_Colman/byEwehzXHe0_0000002 48.2 52.4 
+Olivia_Colman/byEwehzXHe0_0000003 59.8 70.2 

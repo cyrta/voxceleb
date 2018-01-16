@@ -1,0 +1,15 @@
+POI: 			Meat_Loaf 
+Youtube ID: 	v7Z9sF4Ki5s 
+Video length: 	229.1 sec 
+Set (V): 		dev 
+ 
+Meat_Loaf/v7Z9sF4Ki5s_0000001 24.8 34.0 
+Meat_Loaf/v7Z9sF4Ki5s_0000002 35.3 42.3 
+Meat_Loaf/v7Z9sF4Ki5s_0000003 51.6 62.4 
+Meat_Loaf/v7Z9sF4Ki5s_0000004 81.1 88.7 
+Meat_Loaf/v7Z9sF4Ki5s_0000005 94.2 98.3 
+Meat_Loaf/v7Z9sF4Ki5s_0000006 99.7 106.5 
+Meat_Loaf/v7Z9sF4Ki5s_0000007 155.4 162.4 
+Meat_Loaf/v7Z9sF4Ki5s_0000008 169.6 173.8 
+Meat_Loaf/v7Z9sF4Ki5s_0000009 183.4 188.0 
+Meat_Loaf/v7Z9sF4Ki5s_0000010 206.9 214.6 

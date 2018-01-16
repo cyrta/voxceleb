@@ -1,0 +1,10 @@
+POI: 			Johnny_Galecki 
+Youtube ID: 	YtcyUVjCdIw 
+Video length: 	286.6 sec 
+Set (V): 		dev 
+ 
+Johnny_Galecki/YtcyUVjCdIw_0000001 108.4 115.0 
+Johnny_Galecki/YtcyUVjCdIw_0000002 163.6 169.5 
+Johnny_Galecki/YtcyUVjCdIw_0000003 222.3 228.1 
+Johnny_Galecki/YtcyUVjCdIw_0000004 235.3 239.4 
+Johnny_Galecki/YtcyUVjCdIw_0000005 241.6 247.8 

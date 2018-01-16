@@ -1,0 +1,10 @@
+POI: 			Sam_Waterston 
+Youtube ID: 	1UIj0Q46nNw 
+Video length: 	295.1 sec 
+Set (V): 		dev 
+ 
+Sam_Waterston/1UIj0Q46nNw_0000001 181.0 185.0 
+Sam_Waterston/1UIj0Q46nNw_0000002 203.0 207.7 
+Sam_Waterston/1UIj0Q46nNw_0000003 219.8 224.9 
+Sam_Waterston/1UIj0Q46nNw_0000004 258.9 264.8 
+Sam_Waterston/1UIj0Q46nNw_0000005 270.4 275.1 

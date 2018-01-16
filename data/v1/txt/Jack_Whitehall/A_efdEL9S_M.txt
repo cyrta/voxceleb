@@ -1,0 +1,7 @@
+POI: 			Jack_Whitehall 
+Youtube ID: 	A_efdEL9S_M 
+Video length: 	278.0 sec 
+Set (V): 		dev 
+ 
+Jack_Whitehall/A_efdEL9S_M_0000001 73.5 78.3 
+Jack_Whitehall/A_efdEL9S_M_0000002 268.0 273.5 

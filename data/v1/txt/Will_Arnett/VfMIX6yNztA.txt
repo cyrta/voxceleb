@@ -1,0 +1,7 @@
+POI: 			Will_Arnett 
+Youtube ID: 	VfMIX6yNztA 
+Video length: 	202.5 sec 
+Set (V): 		dev 
+ 
+Will_Arnett/VfMIX6yNztA_0000001 157.9 170.6 
+Will_Arnett/VfMIX6yNztA_0000002 177.4 185.8 

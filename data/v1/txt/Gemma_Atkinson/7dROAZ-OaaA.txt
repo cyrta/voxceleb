@@ -1,0 +1,11 @@
+POI: 			Gemma_Atkinson 
+Youtube ID: 	7dROAZ-OaaA 
+Video length: 	261.9 sec 
+Set (V): 		dev 
+ 
+Gemma_Atkinson/7dROAZ-OaaA_0000001 89.5 99.2 
+Gemma_Atkinson/7dROAZ-OaaA_0000002 123.5 131.3 
+Gemma_Atkinson/7dROAZ-OaaA_0000003 133.0 140.8 
+Gemma_Atkinson/7dROAZ-OaaA_0000004 166.8 173.8 
+Gemma_Atkinson/7dROAZ-OaaA_0000005 198.2 204.4 
+Gemma_Atkinson/7dROAZ-OaaA_0000006 212.2 226.2 

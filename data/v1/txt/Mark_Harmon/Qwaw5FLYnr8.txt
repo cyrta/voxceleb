@@ -1,0 +1,14 @@
+POI: 			Mark_Harmon 
+Youtube ID: 	Qwaw5FLYnr8 
+Video length: 	213.9 sec 
+Set (V): 		dev 
+ 
+Mark_Harmon/Qwaw5FLYnr8_0000001 06.9 11.0 
+Mark_Harmon/Qwaw5FLYnr8_0000002 20.9 25.2 
+Mark_Harmon/Qwaw5FLYnr8_0000003 32.6 49.7 
+Mark_Harmon/Qwaw5FLYnr8_0000004 90.0 100.8 
+Mark_Harmon/Qwaw5FLYnr8_0000005 116.2 125.3 
+Mark_Harmon/Qwaw5FLYnr8_0000006 127.6 135.8 
+Mark_Harmon/Qwaw5FLYnr8_0000007 142.1 154.4 
+Mark_Harmon/Qwaw5FLYnr8_0000008 160.8 169.5 
+Mark_Harmon/Qwaw5FLYnr8_0000009 179.4 191.6 

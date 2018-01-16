@@ -1,0 +1,9 @@
+POI: 			James_Maslow 
+Youtube ID: 	QAm2vTphAVQ 
+Video length: 	42.4 sec 
+Set (V): 		dev 
+ 
+James_Maslow/QAm2vTphAVQ_0000001 06.4 11.9 
+James_Maslow/QAm2vTphAVQ_0000002 14.1 18.3 
+James_Maslow/QAm2vTphAVQ_0000003 14.1 22.6 
+James_Maslow/QAm2vTphAVQ_0000004 27.9 34.6 

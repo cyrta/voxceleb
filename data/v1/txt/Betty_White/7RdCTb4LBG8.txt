@@ -1,0 +1,11 @@
+POI: 			Betty_White 
+Youtube ID: 	7RdCTb4LBG8 
+Video length: 	529.2 sec 
+Set (V): 		dev 
+ 
+Betty_White/7RdCTb4LBG8_0000001 173.6 177.8 
+Betty_White/7RdCTb4LBG8_0000002 180.2 184.4 
+Betty_White/7RdCTb4LBG8_0000003 388.0 396.5 
+Betty_White/7RdCTb4LBG8_0000004 396.7 401.2 
+Betty_White/7RdCTb4LBG8_0000005 454.6 459.7 
+Betty_White/7RdCTb4LBG8_0000006 494.0 498.1 

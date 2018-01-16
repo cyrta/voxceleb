@@ -1,0 +1,7 @@
+POI: 			Kristen_Schaal 
+Youtube ID: 	SsYOVRZ3gyc 
+Video length: 	210.3 sec 
+Set (V): 		dev 
+ 
+Kristen_Schaal/SsYOVRZ3gyc_0000001 42.9 47.5 
+Kristen_Schaal/SsYOVRZ3gyc_0000002 104.6 108.9 

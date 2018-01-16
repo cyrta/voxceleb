@@ -1,0 +1,13 @@
+POI: 			Paddy_Considine 
+Youtube ID: 	dldtQQLtVKc 
+Video length: 	242.3 sec 
+Set (V): 		dev 
+ 
+Paddy_Considine/dldtQQLtVKc_0000001 70.7 75.2 
+Paddy_Considine/dldtQQLtVKc_0000002 132.9 137.0 
+Paddy_Considine/dldtQQLtVKc_0000003 144.6 149.3 
+Paddy_Considine/dldtQQLtVKc_0000004 153.4 164.8 
+Paddy_Considine/dldtQQLtVKc_0000005 172.5 183.9 
+Paddy_Considine/dldtQQLtVKc_0000006 189.1 193.7 
+Paddy_Considine/dldtQQLtVKc_0000007 201.7 208.0 
+Paddy_Considine/dldtQQLtVKc_0000008 216.0 221.2 

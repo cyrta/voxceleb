@@ -1,0 +1,10 @@
+POI: 			Audra_McDonald 
+Youtube ID: 	x3cyWTfTdbI 
+Video length: 	200.9 sec 
+Set (V): 		dev 
+ 
+Audra_McDonald/x3cyWTfTdbI_0000001 35.3 39.8 
+Audra_McDonald/x3cyWTfTdbI_0000002 63.4 71.5 
+Audra_McDonald/x3cyWTfTdbI_0000003 126.5 135.6 
+Audra_McDonald/x3cyWTfTdbI_0000004 160.8 178.2 
+Audra_McDonald/x3cyWTfTdbI_0000005 193.6 198.9 

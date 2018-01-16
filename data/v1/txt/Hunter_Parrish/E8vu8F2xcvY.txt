@@ -1,0 +1,7 @@
+POI: 			Hunter_Parrish 
+Youtube ID: 	E8vu8F2xcvY 
+Video length: 	584.9 sec 
+Set (V): 		dev 
+ 
+Hunter_Parrish/E8vu8F2xcvY_0000001 320.4 324.8 
+Hunter_Parrish/E8vu8F2xcvY_0000002 403.8 408.0 

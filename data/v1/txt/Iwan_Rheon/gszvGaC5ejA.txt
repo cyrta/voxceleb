@@ -1,0 +1,8 @@
+POI: 			Iwan_Rheon 
+Youtube ID: 	gszvGaC5ejA 
+Video length: 	673.6 sec 
+Set (V): 		dev 
+ 
+Iwan_Rheon/gszvGaC5ejA_0000001 302.0 309.3 
+Iwan_Rheon/gszvGaC5ejA_0000002 316.5 321.1 
+Iwan_Rheon/gszvGaC5ejA_0000003 544.2 548.3 

@@ -1,0 +1,17 @@
+POI: 			Zack_Snyder 
+Youtube ID: 	D1Gl7M8p6pg 
+Video length: 	425.8 sec 
+Set (V): 		dev 
+ 
+Zack_Snyder/D1Gl7M8p6pg_0000001 163.1 168.2 
+Zack_Snyder/D1Gl7M8p6pg_0000002 169.2 173.8 
+Zack_Snyder/D1Gl7M8p6pg_0000003 183.5 198.9 
+Zack_Snyder/D1Gl7M8p6pg_0000004 231.6 236.7 
+Zack_Snyder/D1Gl7M8p6pg_0000005 237.3 242.0 
+Zack_Snyder/D1Gl7M8p6pg_0000006 253.2 257.4 
+Zack_Snyder/D1Gl7M8p6pg_0000007 258.2 270.1 
+Zack_Snyder/D1Gl7M8p6pg_0000008 273.1 282.7 
+Zack_Snyder/D1Gl7M8p6pg_0000009 362.5 368.9 
+Zack_Snyder/D1Gl7M8p6pg_0000010 379.2 389.4 
+Zack_Snyder/D1Gl7M8p6pg_0000011 390.2 401.8 
+Zack_Snyder/D1Gl7M8p6pg_0000012 402.2 409.2 

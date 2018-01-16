@@ -1,0 +1,8 @@
+POI: 			Megan_Fox 
+Youtube ID: 	gP62e32wlys 
+Video length: 	200.7 sec 
+Set (V): 		dev 
+ 
+Megan_Fox/gP62e32wlys_0000001 25.5 29.6 
+Megan_Fox/gP62e32wlys_0000002 100.5 106.0 
+Megan_Fox/gP62e32wlys_0000003 181.6 187.9 

@@ -1,0 +1,9 @@
+POI: 			Steven_Moffat 
+Youtube ID: 	np_JZN_eo0E 
+Video length: 	204.2 sec 
+Set (V): 		dev 
+ 
+Steven_Moffat/np_JZN_eo0E_0000001 10.5 18.8 
+Steven_Moffat/np_JZN_eo0E_0000002 34.2 41.7 
+Steven_Moffat/np_JZN_eo0E_0000003 111.1 116.6 
+Steven_Moffat/np_JZN_eo0E_0000004 127.1 131.6 

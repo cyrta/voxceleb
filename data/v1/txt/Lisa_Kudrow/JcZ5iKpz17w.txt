@@ -1,0 +1,7 @@
+POI: 			Lisa_Kudrow 
+Youtube ID: 	JcZ5iKpz17w 
+Video length: 	585.2 sec 
+Set (V): 		dev 
+ 
+Lisa_Kudrow/JcZ5iKpz17w_0000001 140.2 147.0 
+Lisa_Kudrow/JcZ5iKpz17w_0000002 423.2 427.5 

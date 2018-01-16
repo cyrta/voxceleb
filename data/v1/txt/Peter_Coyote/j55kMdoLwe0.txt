@@ -1,0 +1,25 @@
+POI: 			Peter_Coyote 
+Youtube ID: 	j55kMdoLwe0 
+Video length: 	4110.9 sec 
+Set (V): 		dev 
+ 
+Peter_Coyote/j55kMdoLwe0_0000001 88.6 93.0 
+Peter_Coyote/j55kMdoLwe0_0000002 144.2 150.4 
+Peter_Coyote/j55kMdoLwe0_0000003 292.2 296.5 
+Peter_Coyote/j55kMdoLwe0_0000004 348.1 354.2 
+Peter_Coyote/j55kMdoLwe0_0000005 368.0 375.3 
+Peter_Coyote/j55kMdoLwe0_0000006 376.5 385.5 
+Peter_Coyote/j55kMdoLwe0_0000007 507.8 511.9 
+Peter_Coyote/j55kMdoLwe0_0000008 518.3 522.5 
+Peter_Coyote/j55kMdoLwe0_0000009 522.6 527.0 
+Peter_Coyote/j55kMdoLwe0_0000010 553.0 558.1 
+Peter_Coyote/j55kMdoLwe0_0000011 603.1 608.2 
+Peter_Coyote/j55kMdoLwe0_0000012 622.8 627.8 
+Peter_Coyote/j55kMdoLwe0_0000013 1249.9 1254.2 
+Peter_Coyote/j55kMdoLwe0_0000014 1255.7 1260.6 
+Peter_Coyote/j55kMdoLwe0_0000015 2186.2 2190.9 
+Peter_Coyote/j55kMdoLwe0_0000016 2410.9 2414.9 
+Peter_Coyote/j55kMdoLwe0_0000017 2677.6 2684.8 
+Peter_Coyote/j55kMdoLwe0_0000018 2706.6 2711.0 
+Peter_Coyote/j55kMdoLwe0_0000019 2909.7 2914.1 
+Peter_Coyote/j55kMdoLwe0_0000020 2914.7 2918.7 

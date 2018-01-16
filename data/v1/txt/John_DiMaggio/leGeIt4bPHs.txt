@@ -1,0 +1,22 @@
+POI: 			John_DiMaggio 
+Youtube ID: 	leGeIt4bPHs 
+Video length: 	1373.6 sec 
+Set (V): 		dev 
+ 
+John_DiMaggio/leGeIt4bPHs_0000001 189.4 194.9 
+John_DiMaggio/leGeIt4bPHs_0000002 385.9 391.9 
+John_DiMaggio/leGeIt4bPHs_0000003 405.1 412.3 
+John_DiMaggio/leGeIt4bPHs_0000004 502.9 508.2 
+John_DiMaggio/leGeIt4bPHs_0000005 589.8 594.2 
+John_DiMaggio/leGeIt4bPHs_0000006 656.0 660.4 
+John_DiMaggio/leGeIt4bPHs_0000007 665.7 672.0 
+John_DiMaggio/leGeIt4bPHs_0000008 675.2 679.3 
+John_DiMaggio/leGeIt4bPHs_0000009 925.0 931.6 
+John_DiMaggio/leGeIt4bPHs_0000010 946.1 952.7 
+John_DiMaggio/leGeIt4bPHs_0000011 953.3 965.2 
+John_DiMaggio/leGeIt4bPHs_0000012 967.3 971.3 
+John_DiMaggio/leGeIt4bPHs_0000013 972.0 979.1 
+John_DiMaggio/leGeIt4bPHs_0000014 985.9 994.8 
+John_DiMaggio/leGeIt4bPHs_0000015 1059.0 1068.1 
+John_DiMaggio/leGeIt4bPHs_0000016 1068.6 1072.7 
+John_DiMaggio/leGeIt4bPHs_0000017 1149.3 1154.8 

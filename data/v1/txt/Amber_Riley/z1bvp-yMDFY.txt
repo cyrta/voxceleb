@@ -1,0 +1,15 @@
+POI: 			Amber_Riley 
+Youtube ID: 	z1bvp-yMDFY 
+Video length: 	301.5 sec 
+Set (V): 		dev 
+ 
+Amber_Riley/z1bvp-yMDFY_0000001 07.4 13.0 
+Amber_Riley/z1bvp-yMDFY_0000002 35.5 47.0 
+Amber_Riley/z1bvp-yMDFY_0000003 65.6 85.1 
+Amber_Riley/z1bvp-yMDFY_0000004 109.3 121.2 
+Amber_Riley/z1bvp-yMDFY_0000005 139.2 145.6 
+Amber_Riley/z1bvp-yMDFY_0000006 159.0 165.4 
+Amber_Riley/z1bvp-yMDFY_0000007 184.7 192.9 
+Amber_Riley/z1bvp-yMDFY_0000008 206.6 219.6 
+Amber_Riley/z1bvp-yMDFY_0000009 245.4 249.7 
+Amber_Riley/z1bvp-yMDFY_0000010 268.4 275.3 

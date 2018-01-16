@@ -1,0 +1,14 @@
+POI: 			Oscar_Isaac 
+Youtube ID: 	CQE7U7oi-N0 
+Video length: 	204.1 sec 
+Set (V): 		dev 
+ 
+Oscar_Isaac/CQE7U7oi-N0_0000001 40.1 53.0 
+Oscar_Isaac/CQE7U7oi-N0_0000002 61.3 66.3 
+Oscar_Isaac/CQE7U7oi-N0_0000003 85.5 93.0 
+Oscar_Isaac/CQE7U7oi-N0_0000004 93.6 100.7 
+Oscar_Isaac/CQE7U7oi-N0_0000005 122.0 128.8 
+Oscar_Isaac/CQE7U7oi-N0_0000006 130.4 139.0 
+Oscar_Isaac/CQE7U7oi-N0_0000007 141.6 152.0 
+Oscar_Isaac/CQE7U7oi-N0_0000008 167.2 179.2 
+Oscar_Isaac/CQE7U7oi-N0_0000009 189.9 194.9 

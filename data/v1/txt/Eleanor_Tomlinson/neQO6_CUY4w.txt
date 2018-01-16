@@ -1,0 +1,14 @@
+POI: 			Eleanor_Tomlinson 
+Youtube ID: 	neQO6_CUY4w 
+Video length: 	188.9 sec 
+Set (V): 		test 
+ 
+Eleanor_Tomlinson/neQO6_CUY4w_0000001 06.6 15.4 
+Eleanor_Tomlinson/neQO6_CUY4w_0000002 30.6 40.9 
+Eleanor_Tomlinson/neQO6_CUY4w_0000003 41.7 75.3 
+Eleanor_Tomlinson/neQO6_CUY4w_0000004 91.0 99.8 
+Eleanor_Tomlinson/neQO6_CUY4w_0000005 103.9 109.7 
+Eleanor_Tomlinson/neQO6_CUY4w_0000006 116.2 121.9 
+Eleanor_Tomlinson/neQO6_CUY4w_0000007 133.8 155.6 
+Eleanor_Tomlinson/neQO6_CUY4w_0000008 157.4 163.6 
+Eleanor_Tomlinson/neQO6_CUY4w_0000009 163.8 169.0 

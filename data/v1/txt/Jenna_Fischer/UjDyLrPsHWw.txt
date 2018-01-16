@@ -1,0 +1,9 @@
+POI: 			Jenna_Fischer 
+Youtube ID: 	UjDyLrPsHWw 
+Video length: 	90.1 sec 
+Set (V): 		dev 
+ 
+Jenna_Fischer/UjDyLrPsHWw_0000001 06.9 15.2 
+Jenna_Fischer/UjDyLrPsHWw_0000002 26.9 33.4 
+Jenna_Fischer/UjDyLrPsHWw_0000003 49.5 62.6 
+Jenna_Fischer/UjDyLrPsHWw_0000004 63.6 72.0 

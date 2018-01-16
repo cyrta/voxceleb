@@ -1,0 +1,7 @@
+POI: 			Jerry_Ferrara 
+Youtube ID: 	4LrukAHa2vs 
+Video length: 	66.3 sec 
+Set (V): 		dev 
+ 
+Jerry_Ferrara/4LrukAHa2vs_0000001 22.1 37.5 
+Jerry_Ferrara/4LrukAHa2vs_0000002 41.7 50.9 

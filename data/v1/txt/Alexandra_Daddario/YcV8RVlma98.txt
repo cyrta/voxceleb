@@ -1,0 +1,16 @@
+POI: 			Alexandra_Daddario 
+Youtube ID: 	YcV8RVlma98 
+Video length: 	196.5 sec 
+Set (V): 		dev 
+ 
+Alexandra_Daddario/YcV8RVlma98_0000001 09.4 26.6 
+Alexandra_Daddario/YcV8RVlma98_0000002 27.3 35.6 
+Alexandra_Daddario/YcV8RVlma98_0000003 47.2 52.6 
+Alexandra_Daddario/YcV8RVlma98_0000004 54.0 80.2 
+Alexandra_Daddario/YcV8RVlma98_0000005 90.4 103.0 
+Alexandra_Daddario/YcV8RVlma98_0000006 103.4 113.2 
+Alexandra_Daddario/YcV8RVlma98_0000007 113.6 121.2 
+Alexandra_Daddario/YcV8RVlma98_0000008 128.8 134.4 
+Alexandra_Daddario/YcV8RVlma98_0000009 135.3 143.8 
+Alexandra_Daddario/YcV8RVlma98_0000010 144.0 156.1 
+Alexandra_Daddario/YcV8RVlma98_0000011 164.0 188.6 

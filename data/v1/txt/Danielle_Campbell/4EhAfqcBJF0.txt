@@ -1,0 +1,12 @@
+POI: 			Danielle_Campbell 
+Youtube ID: 	4EhAfqcBJF0 
+Video length: 	111.3 sec 
+Set (V): 		dev 
+ 
+Danielle_Campbell/4EhAfqcBJF0_0000001 18.5 26.2 
+Danielle_Campbell/4EhAfqcBJF0_0000002 33.3 37.6 
+Danielle_Campbell/4EhAfqcBJF0_0000003 38.0 43.6 
+Danielle_Campbell/4EhAfqcBJF0_0000004 45.8 51.4 
+Danielle_Campbell/4EhAfqcBJF0_0000005 57.2 66.5 
+Danielle_Campbell/4EhAfqcBJF0_0000006 66.8 72.7 
+Danielle_Campbell/4EhAfqcBJF0_0000007 73.1 80.1 

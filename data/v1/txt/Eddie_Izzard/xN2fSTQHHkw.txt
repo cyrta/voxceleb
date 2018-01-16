@@ -1,0 +1,12 @@
+POI: 			Eddie_Izzard 
+Youtube ID: 	xN2fSTQHHkw 
+Video length: 	282.5 sec 
+Set (V): 		test 
+ 
+Eddie_Izzard/xN2fSTQHHkw_0000001 43.3 47.4 
+Eddie_Izzard/xN2fSTQHHkw_0000002 127.0 135.8 
+Eddie_Izzard/xN2fSTQHHkw_0000003 155.5 160.0 
+Eddie_Izzard/xN2fSTQHHkw_0000004 171.6 176.0 
+Eddie_Izzard/xN2fSTQHHkw_0000005 181.5 187.2 
+Eddie_Izzard/xN2fSTQHHkw_0000006 218.4 223.0 
+Eddie_Izzard/xN2fSTQHHkw_0000007 228.4 237.3 

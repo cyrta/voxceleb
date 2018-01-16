@@ -1,0 +1,14 @@
+POI: 			Harry_Connick_Jr. 
+Youtube ID: 	YswWMAZHgUY 
+Video length: 	346.3 sec 
+Set (V): 		dev 
+ 
+Harry_Connick_Jr./YswWMAZHgUY_0000001 56.8 61.9 
+Harry_Connick_Jr./YswWMAZHgUY_0000002 74.8 83.1 
+Harry_Connick_Jr./YswWMAZHgUY_0000003 100.0 116.0 
+Harry_Connick_Jr./YswWMAZHgUY_0000004 191.0 195.7 
+Harry_Connick_Jr./YswWMAZHgUY_0000005 219.6 229.6 
+Harry_Connick_Jr./YswWMAZHgUY_0000006 240.1 248.6 
+Harry_Connick_Jr./YswWMAZHgUY_0000007 262.6 271.2 
+Harry_Connick_Jr./YswWMAZHgUY_0000008 293.4 299.4 
+Harry_Connick_Jr./YswWMAZHgUY_0000009 304.5 313.6 

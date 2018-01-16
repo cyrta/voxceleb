@@ -1,0 +1,7 @@
+POI: 			Kenton_Duty 
+Youtube ID: 	iDvsJkqqJew 
+Video length: 	367.8 sec 
+Set (V): 		dev 
+ 
+Kenton_Duty/iDvsJkqqJew_0000001 71.5 81.1 
+Kenton_Duty/iDvsJkqqJew_0000002 216.2 222.3 

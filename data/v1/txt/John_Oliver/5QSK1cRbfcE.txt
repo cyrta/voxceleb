@@ -1,0 +1,8 @@
+POI: 			John_Oliver 
+Youtube ID: 	5QSK1cRbfcE 
+Video length: 	100.1 sec 
+Set (V): 		dev 
+ 
+John_Oliver/5QSK1cRbfcE_0000001 36.3 43.6 
+John_Oliver/5QSK1cRbfcE_0000002 46.6 55.0 
+John_Oliver/5QSK1cRbfcE_0000003 65.0 72.6 

@@ -1,0 +1,11 @@
+POI: 			Paul_Dano 
+Youtube ID: 	DLgTdQByBBU 
+Video length: 	413.9 sec 
+Set (V): 		dev 
+ 
+Paul_Dano/DLgTdQByBBU_0000001 176.5 185.4 
+Paul_Dano/DLgTdQByBBU_0000002 226.7 231.5 
+Paul_Dano/DLgTdQByBBU_0000003 243.6 248.4 
+Paul_Dano/DLgTdQByBBU_0000004 256.5 265.2 
+Paul_Dano/DLgTdQByBBU_0000005 327.3 338.7 
+Paul_Dano/DLgTdQByBBU_0000006 360.9 372.1 

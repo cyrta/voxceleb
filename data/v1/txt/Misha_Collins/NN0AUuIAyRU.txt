@@ -1,0 +1,8 @@
+POI: 			Misha_Collins 
+Youtube ID: 	NN0AUuIAyRU 
+Video length: 	320.9 sec 
+Set (V): 		dev 
+ 
+Misha_Collins/NN0AUuIAyRU_0000001 123.9 128.7 
+Misha_Collins/NN0AUuIAyRU_0000002 188.1 192.1 
+Misha_Collins/NN0AUuIAyRU_0000003 208.6 212.8 

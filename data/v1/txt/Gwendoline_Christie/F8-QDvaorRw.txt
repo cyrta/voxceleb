@@ -1,0 +1,9 @@
+POI: 			Gwendoline_Christie 
+Youtube ID: 	F8-QDvaorRw 
+Video length: 	88.2 sec 
+Set (V): 		dev 
+ 
+Gwendoline_Christie/F8-QDvaorRw_0000001 19.1 24.7 
+Gwendoline_Christie/F8-QDvaorRw_0000002 26.6 34.8 
+Gwendoline_Christie/F8-QDvaorRw_0000003 35.5 59.0 
+Gwendoline_Christie/F8-QDvaorRw_0000004 61.1 84.2 

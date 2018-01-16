@@ -1,0 +1,7 @@
+POI: 			Jon_Huertas 
+Youtube ID: 	AyyQIvBdAZ0 
+Video length: 	171.6 sec 
+Set (V): 		dev 
+ 
+Jon_Huertas/AyyQIvBdAZ0_0000001 42.0 47.0 
+Jon_Huertas/AyyQIvBdAZ0_0000002 146.5 151.9 

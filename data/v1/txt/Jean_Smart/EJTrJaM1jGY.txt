@@ -1,0 +1,7 @@
+POI: 			Jean_Smart 
+Youtube ID: 	EJTrJaM1jGY 
+Video length: 	5573.6 sec 
+Set (V): 		dev 
+ 
+Jean_Smart/EJTrJaM1jGY_0000001 2822.5 2827.8 
+Jean_Smart/EJTrJaM1jGY_0000002 4528.6 4532.7 

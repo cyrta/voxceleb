@@ -1,0 +1,8 @@
+POI: 			Teala_Dunn 
+Youtube ID: 	NLMbx2_JP3E 
+Video length: 	129.5 sec 
+Set (V): 		dev 
+ 
+Teala_Dunn/NLMbx2_JP3E_0000001 31.0 35.1 
+Teala_Dunn/NLMbx2_JP3E_0000002 60.2 64.8 
+Teala_Dunn/NLMbx2_JP3E_0000003 93.4 103.4 

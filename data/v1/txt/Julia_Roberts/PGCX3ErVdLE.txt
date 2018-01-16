@@ -1,0 +1,12 @@
+POI: 			Julia_Roberts 
+Youtube ID: 	PGCX3ErVdLE 
+Video length: 	768.5 sec 
+Set (V): 		dev 
+ 
+Julia_Roberts/PGCX3ErVdLE_0000001 260.8 269.0 
+Julia_Roberts/PGCX3ErVdLE_0000002 350.1 357.0 
+Julia_Roberts/PGCX3ErVdLE_0000003 358.1 362.3 
+Julia_Roberts/PGCX3ErVdLE_0000004 446.2 452.6 
+Julia_Roberts/PGCX3ErVdLE_0000005 488.0 495.8 
+Julia_Roberts/PGCX3ErVdLE_0000006 652.8 660.2 
+Julia_Roberts/PGCX3ErVdLE_0000007 718.8 723.3 

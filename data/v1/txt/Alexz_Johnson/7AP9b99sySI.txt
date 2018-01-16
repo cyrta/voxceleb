@@ -1,0 +1,9 @@
+POI: 			Alexz_Johnson 
+Youtube ID: 	7AP9b99sySI 
+Video length: 	840.4 sec 
+Set (V): 		dev 
+ 
+Alexz_Johnson/7AP9b99sySI_0000001 36.2 41.0 
+Alexz_Johnson/7AP9b99sySI_0000002 57.2 62.4 
+Alexz_Johnson/7AP9b99sySI_0000003 446.4 450.6 
+Alexz_Johnson/7AP9b99sySI_0000004 453.6 458.0 

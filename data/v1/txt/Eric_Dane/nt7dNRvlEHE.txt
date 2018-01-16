@@ -1,0 +1,10 @@
+POI: 			Eric_Dane 
+Youtube ID: 	nt7dNRvlEHE 
+Video length: 	371.1 sec 
+Set (V): 		test 
+ 
+Eric_Dane/nt7dNRvlEHE_0000001 177.6 186.4 
+Eric_Dane/nt7dNRvlEHE_0000002 205.4 218.8 
+Eric_Dane/nt7dNRvlEHE_0000003 237.0 241.3 
+Eric_Dane/nt7dNRvlEHE_0000004 245.0 252.8 
+Eric_Dane/nt7dNRvlEHE_0000005 296.5 301.3 

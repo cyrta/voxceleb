@@ -1,0 +1,10 @@
+POI: 			Tom_Hooper 
+Youtube ID: 	GzC4By0d-SA 
+Video length: 	212.8 sec 
+Set (V): 		dev 
+ 
+Tom_Hooper/GzC4By0d-SA_0000001 08.2 15.6 
+Tom_Hooper/GzC4By0d-SA_0000002 16.2 54.6 
+Tom_Hooper/GzC4By0d-SA_0000003 69.8 78.4 
+Tom_Hooper/GzC4By0d-SA_0000004 80.6 96.0 
+Tom_Hooper/GzC4By0d-SA_0000005 108.8 114.3 

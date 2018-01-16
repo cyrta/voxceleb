@@ -1,0 +1,8 @@
+POI: 			Nathan_Fillion 
+Youtube ID: 	qoeoKP_zPUY 
+Video length: 	136.0 sec 
+Set (V): 		dev 
+ 
+Nathan_Fillion/qoeoKP_zPUY_0000001 64.7 69.4 
+Nathan_Fillion/qoeoKP_zPUY_0000002 71.2 79.7 
+Nathan_Fillion/qoeoKP_zPUY_0000003 82.5 87.6 

@@ -1,0 +1,7 @@
+POI: 			Samantha_Barks 
+Youtube ID: 	9VLXWJ5ouBE 
+Video length: 	203.6 sec 
+Set (V): 		dev 
+ 
+Samantha_Barks/9VLXWJ5ouBE_0000001 95.2 105.0 
+Samantha_Barks/9VLXWJ5ouBE_0000002 139.2 143.7 

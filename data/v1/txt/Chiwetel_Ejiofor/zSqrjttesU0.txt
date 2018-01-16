@@ -1,0 +1,8 @@
+POI: 			Chiwetel_Ejiofor 
+Youtube ID: 	zSqrjttesU0 
+Video length: 	140.1 sec 
+Set (V): 		dev 
+ 
+Chiwetel_Ejiofor/zSqrjttesU0_0000001 55.8 63.5 
+Chiwetel_Ejiofor/zSqrjttesU0_0000002 90.9 98.2 
+Chiwetel_Ejiofor/zSqrjttesU0_0000003 108.8 121.4 

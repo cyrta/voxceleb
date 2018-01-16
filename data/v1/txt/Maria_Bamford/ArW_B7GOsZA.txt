@@ -1,0 +1,8 @@
+POI: 			Maria_Bamford 
+Youtube ID: 	ArW_B7GOsZA 
+Video length: 	169.7 sec 
+Set (V): 		dev 
+ 
+Maria_Bamford/ArW_B7GOsZA_0000001 31.6 35.6 
+Maria_Bamford/ArW_B7GOsZA_0000002 90.6 95.3 
+Maria_Bamford/ArW_B7GOsZA_0000003 104.9 111.2 

@@ -1,0 +1,26 @@
+POI: 			John_Noble 
+Youtube ID: 	02l3-w42Ago 
+Video length: 	1004.0 sec 
+Set (V): 		dev 
+ 
+John_Noble/02l3-w42Ago_0000001 94.4 98.5 
+John_Noble/02l3-w42Ago_0000002 112.9 119.3 
+John_Noble/02l3-w42Ago_0000003 153.2 157.1 
+John_Noble/02l3-w42Ago_0000004 198.3 207.6 
+John_Noble/02l3-w42Ago_0000005 222.3 226.7 
+John_Noble/02l3-w42Ago_0000006 240.0 244.1 
+John_Noble/02l3-w42Ago_0000007 245.3 251.4 
+John_Noble/02l3-w42Ago_0000008 283.9 287.9 
+John_Noble/02l3-w42Ago_0000009 369.7 376.6 
+John_Noble/02l3-w42Ago_0000010 396.2 403.7 
+John_Noble/02l3-w42Ago_0000011 412.2 417.5 
+John_Noble/02l3-w42Ago_0000012 417.6 421.6 
+John_Noble/02l3-w42Ago_0000013 429.2 434.3 
+John_Noble/02l3-w42Ago_0000014 464.5 471.7 
+John_Noble/02l3-w42Ago_0000015 592.3 597.5 
+John_Noble/02l3-w42Ago_0000016 618.7 625.9 
+John_Noble/02l3-w42Ago_0000017 628.2 635.6 
+John_Noble/02l3-w42Ago_0000018 650.5 655.3 
+John_Noble/02l3-w42Ago_0000019 652.0 659.2 
+John_Noble/02l3-w42Ago_0000020 749.4 754.5 
+John_Noble/02l3-w42Ago_0000021 912.5 922.8 

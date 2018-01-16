@@ -1,0 +1,7 @@
+POI: 			Ted_Danson 
+Youtube ID: 	IZpE2mS9TWs 
+Video length: 	118.5 sec 
+Set (V): 		dev 
+ 
+Ted_Danson/IZpE2mS9TWs_0000001 44.0 57.5 
+Ted_Danson/IZpE2mS9TWs_0000002 89.4 97.6 

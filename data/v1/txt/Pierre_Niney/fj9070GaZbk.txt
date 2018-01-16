@@ -1,0 +1,37 @@
+POI: 			Pierre_Niney 
+Youtube ID: 	fj9070GaZbk 
+Video length: 	669.3 sec 
+Set (V): 		dev 
+ 
+Pierre_Niney/fj9070GaZbk_0000001 27.2 34.8 
+Pierre_Niney/fj9070GaZbk_0000002 44.3 53.3 
+Pierre_Niney/fj9070GaZbk_0000003 54.4 59.8 
+Pierre_Niney/fj9070GaZbk_0000004 60.0 64.5 
+Pierre_Niney/fj9070GaZbk_0000005 89.9 99.1 
+Pierre_Niney/fj9070GaZbk_0000006 99.2 104.9 
+Pierre_Niney/fj9070GaZbk_0000007 108.5 113.5 
+Pierre_Niney/fj9070GaZbk_0000008 120.6 131.0 
+Pierre_Niney/fj9070GaZbk_0000009 135.6 143.7 
+Pierre_Niney/fj9070GaZbk_0000010 144.3 154.2 
+Pierre_Niney/fj9070GaZbk_0000011 189.3 202.9 
+Pierre_Niney/fj9070GaZbk_0000012 210.2 222.9 
+Pierre_Niney/fj9070GaZbk_0000013 233.4 238.5 
+Pierre_Niney/fj9070GaZbk_0000014 239.6 244.6 
+Pierre_Niney/fj9070GaZbk_0000015 298.5 309.8 
+Pierre_Niney/fj9070GaZbk_0000016 310.9 315.1 
+Pierre_Niney/fj9070GaZbk_0000017 317.9 322.9 
+Pierre_Niney/fj9070GaZbk_0000018 330.4 337.1 
+Pierre_Niney/fj9070GaZbk_0000019 340.1 349.1 
+Pierre_Niney/fj9070GaZbk_0000020 361.4 366.4 
+Pierre_Niney/fj9070GaZbk_0000021 366.7 371.0 
+Pierre_Niney/fj9070GaZbk_0000022 372.0 377.2 
+Pierre_Niney/fj9070GaZbk_0000023 411.1 415.5 
+Pierre_Niney/fj9070GaZbk_0000024 421.2 429.2 
+Pierre_Niney/fj9070GaZbk_0000025 433.2 451.0 
+Pierre_Niney/fj9070GaZbk_0000026 459.0 467.2 
+Pierre_Niney/fj9070GaZbk_0000027 470.0 474.1 
+Pierre_Niney/fj9070GaZbk_0000028 521.2 530.3 
+Pierre_Niney/fj9070GaZbk_0000029 543.0 562.9 
+Pierre_Niney/fj9070GaZbk_0000030 576.9 582.8 
+Pierre_Niney/fj9070GaZbk_0000031 630.9 637.0 
+Pierre_Niney/fj9070GaZbk_0000032 656.2 660.3 

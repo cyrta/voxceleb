@@ -1,0 +1,18 @@
+POI: 			America_Ferrera 
+Youtube ID: 	8XIELXu7xSk 
+Video length: 	202.1 sec 
+Set (V): 		dev 
+ 
+America_Ferrera/8XIELXu7xSk_0000001 20.9 42.1 
+America_Ferrera/8XIELXu7xSk_0000002 44.1 70.9 
+America_Ferrera/8XIELXu7xSk_0000003 71.2 77.6 
+America_Ferrera/8XIELXu7xSk_0000004 81.9 89.8 
+America_Ferrera/8XIELXu7xSk_0000005 107.4 114.8 
+America_Ferrera/8XIELXu7xSk_0000006 116.5 126.1 
+America_Ferrera/8XIELXu7xSk_0000007 130.7 136.1 
+America_Ferrera/8XIELXu7xSk_0000008 145.2 157.3 
+America_Ferrera/8XIELXu7xSk_0000009 158.0 162.0 
+America_Ferrera/8XIELXu7xSk_0000010 173.0 185.4 
+America_Ferrera/8XIELXu7xSk_0000011 185.6 190.3 
+America_Ferrera/8XIELXu7xSk_0000012 192.0 196.1 
+America_Ferrera/8XIELXu7xSk_0000013 196.4 200.4 

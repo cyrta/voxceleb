@@ -1,0 +1,8 @@
+POI: 			Jerry_Trainor 
+Youtube ID: 	yJVeb4e9R8I 
+Video length: 	272.2 sec 
+Set (V): 		dev 
+ 
+Jerry_Trainor/yJVeb4e9R8I_0000001 169.8 173.8 
+Jerry_Trainor/yJVeb4e9R8I_0000002 182.0 188.3 
+Jerry_Trainor/yJVeb4e9R8I_0000003 210.2 215.8 

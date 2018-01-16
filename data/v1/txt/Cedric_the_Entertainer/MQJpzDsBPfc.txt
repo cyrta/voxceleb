@@ -1,0 +1,10 @@
+POI: 			Cedric_the_Entertainer 
+Youtube ID: 	MQJpzDsBPfc 
+Video length: 	394.4 sec 
+Set (V): 		dev 
+ 
+Cedric_the_Entertainer/MQJpzDsBPfc_0000001 86.7 90.8 
+Cedric_the_Entertainer/MQJpzDsBPfc_0000002 103.4 113.9 
+Cedric_the_Entertainer/MQJpzDsBPfc_0000003 117.2 123.0 
+Cedric_the_Entertainer/MQJpzDsBPfc_0000004 225.8 230.9 
+Cedric_the_Entertainer/MQJpzDsBPfc_0000005 231.2 235.5 

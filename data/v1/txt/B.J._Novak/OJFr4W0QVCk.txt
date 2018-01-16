@@ -1,0 +1,9 @@
+POI: 			B.J._Novak 
+Youtube ID: 	OJFr4W0QVCk 
+Video length: 	377.0 sec 
+Set (V): 		dev 
+ 
+B.J._Novak/OJFr4W0QVCk_0000001 102.0 119.8 
+B.J._Novak/OJFr4W0QVCk_0000002 122.1 133.7 
+B.J._Novak/OJFr4W0QVCk_0000003 228.5 241.6 
+B.J._Novak/OJFr4W0QVCk_0000004 343.9 352.8 

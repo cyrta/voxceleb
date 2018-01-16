@@ -1,0 +1,9 @@
+POI: 			Jen_Lilley 
+Youtube ID: 	0KZh2zMKx7I 
+Video length: 	155.8 sec 
+Set (V): 		dev 
+ 
+Jen_Lilley/0KZh2zMKx7I_0000001 43.0 49.3 
+Jen_Lilley/0KZh2zMKx7I_0000002 55.0 62.2 
+Jen_Lilley/0KZh2zMKx7I_0000003 62.7 67.6 
+Jen_Lilley/0KZh2zMKx7I_0000004 120.6 125.1 

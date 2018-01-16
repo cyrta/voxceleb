@@ -1,0 +1,17 @@
+POI: 			Alan_Cumming 
+Youtube ID: 	ifrR3O4CBW0 
+Video length: 	308.1 sec 
+Set (V): 		dev 
+ 
+Alan_Cumming/ifrR3O4CBW0_0000001 25.0 36.2 
+Alan_Cumming/ifrR3O4CBW0_0000002 60.5 68.5 
+Alan_Cumming/ifrR3O4CBW0_0000003 68.8 77.2 
+Alan_Cumming/ifrR3O4CBW0_0000004 95.6 117.6 
+Alan_Cumming/ifrR3O4CBW0_0000005 152.6 163.5 
+Alan_Cumming/ifrR3O4CBW0_0000006 206.8 218.3 
+Alan_Cumming/ifrR3O4CBW0_0000007 224.4 230.8 
+Alan_Cumming/ifrR3O4CBW0_0000008 231.8 239.7 
+Alan_Cumming/ifrR3O4CBW0_0000009 242.2 247.0 
+Alan_Cumming/ifrR3O4CBW0_0000010 250.6 255.8 
+Alan_Cumming/ifrR3O4CBW0_0000011 257.6 264.7 
+Alan_Cumming/ifrR3O4CBW0_0000012 270.4 278.5 

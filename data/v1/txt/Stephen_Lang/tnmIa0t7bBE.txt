@@ -1,0 +1,10 @@
+POI: 			Stephen_Lang 
+Youtube ID: 	tnmIa0t7bBE 
+Video length: 	116.7 sec 
+Set (V): 		dev 
+ 
+Stephen_Lang/tnmIa0t7bBE_0000001 13.8 27.3 
+Stephen_Lang/tnmIa0t7bBE_0000002 33.5 42.4 
+Stephen_Lang/tnmIa0t7bBE_0000003 43.3 51.8 
+Stephen_Lang/tnmIa0t7bBE_0000004 54.7 63.2 
+Stephen_Lang/tnmIa0t7bBE_0000005 92.9 97.4 

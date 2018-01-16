@@ -1,0 +1,13 @@
+POI: 			Tom_Hooper 
+Youtube ID: 	5wCZ7f3JaHw 
+Video length: 	416.3 sec 
+Set (V): 		dev 
+ 
+Tom_Hooper/5wCZ7f3JaHw_0000001 33.6 41.1 
+Tom_Hooper/5wCZ7f3JaHw_0000002 44.5 60.0 
+Tom_Hooper/5wCZ7f3JaHw_0000003 61.7 74.3 
+Tom_Hooper/5wCZ7f3JaHw_0000004 74.6 88.1 
+Tom_Hooper/5wCZ7f3JaHw_0000005 88.5 92.7 
+Tom_Hooper/5wCZ7f3JaHw_0000006 93.2 103.0 
+Tom_Hooper/5wCZ7f3JaHw_0000007 103.5 119.8 
+Tom_Hooper/5wCZ7f3JaHw_0000008 120.4 129.5 

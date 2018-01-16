@@ -1,0 +1,8 @@
+POI: 			Ansel_Elgort 
+Youtube ID: 	Cji837jhmTY 
+Video length: 	526.6 sec 
+Set (V): 		dev 
+ 
+Ansel_Elgort/Cji837jhmTY_0000001 75.0 79.9 
+Ansel_Elgort/Cji837jhmTY_0000002 453.0 457.8 
+Ansel_Elgort/Cji837jhmTY_0000003 466.1 470.7 

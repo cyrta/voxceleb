@@ -1,0 +1,14 @@
+POI: 			Chi_McBride 
+Youtube ID: 	_XxGWmSnuGE 
+Video length: 	131.9 sec 
+Set (V): 		dev 
+ 
+Chi_McBride/_XxGWmSnuGE_0000001 04.2 10.6 
+Chi_McBride/_XxGWmSnuGE_0000002 12.6 22.6 
+Chi_McBride/_XxGWmSnuGE_0000003 23.4 31.8 
+Chi_McBride/_XxGWmSnuGE_0000004 44.5 53.8 
+Chi_McBride/_XxGWmSnuGE_0000005 75.7 89.0 
+Chi_McBride/_XxGWmSnuGE_0000006 92.2 99.2 
+Chi_McBride/_XxGWmSnuGE_0000007 99.4 103.4 
+Chi_McBride/_XxGWmSnuGE_0000008 112.1 117.7 
+Chi_McBride/_XxGWmSnuGE_0000009 120.1 129.6 

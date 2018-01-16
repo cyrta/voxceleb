@@ -1,0 +1,39 @@
+POI: 			Mathilda_May 
+Youtube ID: 	xehIp9SaHEY 
+Video length: 	1450.4 sec 
+Set (V): 		dev 
+ 
+Mathilda_May/xehIp9SaHEY_0000001 90.6 100.8 
+Mathilda_May/xehIp9SaHEY_0000002 103.8 115.8 
+Mathilda_May/xehIp9SaHEY_0000003 122.1 128.4 
+Mathilda_May/xehIp9SaHEY_0000004 161.0 165.4 
+Mathilda_May/xehIp9SaHEY_0000005 168.4 173.2 
+Mathilda_May/xehIp9SaHEY_0000006 174.8 179.2 
+Mathilda_May/xehIp9SaHEY_0000007 242.7 247.7 
+Mathilda_May/xehIp9SaHEY_0000008 258.4 264.6 
+Mathilda_May/xehIp9SaHEY_0000009 320.9 325.6 
+Mathilda_May/xehIp9SaHEY_0000010 413.6 419.1 
+Mathilda_May/xehIp9SaHEY_0000011 472.8 476.8 
+Mathilda_May/xehIp9SaHEY_0000012 495.6 501.9 
+Mathilda_May/xehIp9SaHEY_0000013 508.4 513.0 
+Mathilda_May/xehIp9SaHEY_0000014 532.2 539.0 
+Mathilda_May/xehIp9SaHEY_0000015 638.9 644.4 
+Mathilda_May/xehIp9SaHEY_0000016 651.1 655.2 
+Mathilda_May/xehIp9SaHEY_0000017 661.2 666.7 
+Mathilda_May/xehIp9SaHEY_0000018 708.6 714.4 
+Mathilda_May/xehIp9SaHEY_0000019 730.7 736.3 
+Mathilda_May/xehIp9SaHEY_0000020 821.6 826.2 
+Mathilda_May/xehIp9SaHEY_0000021 868.1 873.1 
+Mathilda_May/xehIp9SaHEY_0000022 875.1 879.8 
+Mathilda_May/xehIp9SaHEY_0000023 898.9 910.9 
+Mathilda_May/xehIp9SaHEY_0000024 977.4 985.5 
+Mathilda_May/xehIp9SaHEY_0000025 1028.2 1035.3 
+Mathilda_May/xehIp9SaHEY_0000026 1031.3 1036.5 
+Mathilda_May/xehIp9SaHEY_0000027 1070.6 1075.0 
+Mathilda_May/xehIp9SaHEY_0000028 1078.2 1082.7 
+Mathilda_May/xehIp9SaHEY_0000029 1139.6 1148.3 
+Mathilda_May/xehIp9SaHEY_0000030 1151.2 1157.4 
+Mathilda_May/xehIp9SaHEY_0000031 1183.6 1193.2 
+Mathilda_May/xehIp9SaHEY_0000032 1226.5 1230.8 
+Mathilda_May/xehIp9SaHEY_0000033 1316.6 1323.0 
+Mathilda_May/xehIp9SaHEY_0000034 1414.5 1421.1 

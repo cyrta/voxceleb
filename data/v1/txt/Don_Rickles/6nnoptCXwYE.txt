@@ -1,0 +1,9 @@
+POI: 			Don_Rickles 
+Youtube ID: 	6nnoptCXwYE 
+Video length: 	2350.8 sec 
+Set (V): 		dev 
+ 
+Don_Rickles/6nnoptCXwYE_0000001 1345.6 1349.6 
+Don_Rickles/6nnoptCXwYE_0000002 1664.6 1670.0 
+Don_Rickles/6nnoptCXwYE_0000003 2026.5 2031.2 
+Don_Rickles/6nnoptCXwYE_0000004 2171.7 2177.2 

@@ -1,0 +1,18 @@
+POI: 			Daniel_Craig 
+Youtube ID: 	LwmlsO7vUpc 
+Video length: 	337.6 sec 
+Set (V): 		dev 
+ 
+Daniel_Craig/LwmlsO7vUpc_0000001 58.7 62.8 
+Daniel_Craig/LwmlsO7vUpc_0000002 69.0 79.0 
+Daniel_Craig/LwmlsO7vUpc_0000003 79.2 85.4 
+Daniel_Craig/LwmlsO7vUpc_0000004 109.6 113.7 
+Daniel_Craig/LwmlsO7vUpc_0000005 182.2 187.9 
+Daniel_Craig/LwmlsO7vUpc_0000006 188.1 201.8 
+Daniel_Craig/LwmlsO7vUpc_0000007 202.0 213.3 
+Daniel_Craig/LwmlsO7vUpc_0000008 240.8 247.2 
+Daniel_Craig/LwmlsO7vUpc_0000009 260.7 268.3 
+Daniel_Craig/LwmlsO7vUpc_0000010 269.0 274.0 
+Daniel_Craig/LwmlsO7vUpc_0000011 278.6 289.9 
+Daniel_Craig/LwmlsO7vUpc_0000012 290.5 295.2 
+Daniel_Craig/LwmlsO7vUpc_0000013 308.0 328.1 

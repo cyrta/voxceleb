@@ -1,0 +1,16 @@
+POI: 			Hilary_Swank 
+Youtube ID: 	ecZf_nvdKvM 
+Video length: 	285.6 sec 
+Set (V): 		dev 
+ 
+Hilary_Swank/ecZf_nvdKvM_0000001 43.7 49.1 
+Hilary_Swank/ecZf_nvdKvM_0000002 93.4 108.6 
+Hilary_Swank/ecZf_nvdKvM_0000003 113.1 120.0 
+Hilary_Swank/ecZf_nvdKvM_0000004 126.3 133.2 
+Hilary_Swank/ecZf_nvdKvM_0000005 191.0 198.1 
+Hilary_Swank/ecZf_nvdKvM_0000006 198.3 203.8 
+Hilary_Swank/ecZf_nvdKvM_0000007 204.5 211.6 
+Hilary_Swank/ecZf_nvdKvM_0000008 226.5 236.6 
+Hilary_Swank/ecZf_nvdKvM_0000009 246.0 255.2 
+Hilary_Swank/ecZf_nvdKvM_0000010 261.4 267.8 
+Hilary_Swank/ecZf_nvdKvM_0000011 271.7 278.0 

@@ -1,0 +1,32 @@
+POI: 			Marc_Forster 
+Youtube ID: 	yjcw5ySDvUY 
+Video length: 	457.7 sec 
+Set (V): 		dev 
+ 
+Marc_Forster/yjcw5ySDvUY_0000001 12.8 49.6 
+Marc_Forster/yjcw5ySDvUY_0000002 49.8 56.9 
+Marc_Forster/yjcw5ySDvUY_0000003 65.6 72.4 
+Marc_Forster/yjcw5ySDvUY_0000004 72.8 87.2 
+Marc_Forster/yjcw5ySDvUY_0000005 92.5 96.6 
+Marc_Forster/yjcw5ySDvUY_0000006 97.7 110.4 
+Marc_Forster/yjcw5ySDvUY_0000007 110.5 126.1 
+Marc_Forster/yjcw5ySDvUY_0000008 136.5 142.2 
+Marc_Forster/yjcw5ySDvUY_0000009 143.2 149.4 
+Marc_Forster/yjcw5ySDvUY_0000010 156.3 166.1 
+Marc_Forster/yjcw5ySDvUY_0000011 169.8 195.0 
+Marc_Forster/yjcw5ySDvUY_0000012 204.8 210.9 
+Marc_Forster/yjcw5ySDvUY_0000013 211.0 215.5 
+Marc_Forster/yjcw5ySDvUY_0000014 215.8 221.9 
+Marc_Forster/yjcw5ySDvUY_0000015 225.0 238.4 
+Marc_Forster/yjcw5ySDvUY_0000016 240.0 251.3 
+Marc_Forster/yjcw5ySDvUY_0000017 277.9 285.8 
+Marc_Forster/yjcw5ySDvUY_0000018 287.3 296.0 
+Marc_Forster/yjcw5ySDvUY_0000019 299.6 317.0 
+Marc_Forster/yjcw5ySDvUY_0000020 318.6 328.6 
+Marc_Forster/yjcw5ySDvUY_0000021 329.2 344.3 
+Marc_Forster/yjcw5ySDvUY_0000022 345.9 350.4 
+Marc_Forster/yjcw5ySDvUY_0000023 359.4 377.6 
+Marc_Forster/yjcw5ySDvUY_0000024 386.6 398.0 
+Marc_Forster/yjcw5ySDvUY_0000025 398.2 405.0 
+Marc_Forster/yjcw5ySDvUY_0000026 405.9 419.9 
+Marc_Forster/yjcw5ySDvUY_0000027 420.1 442.4 

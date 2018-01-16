@@ -1,0 +1,9 @@
+POI: 			Tom_Selleck 
+Youtube ID: 	EkCPvi1xCAw 
+Video length: 	124.4 sec 
+Set (V): 		dev 
+ 
+Tom_Selleck/EkCPvi1xCAw_0000001 47.3 51.2 
+Tom_Selleck/EkCPvi1xCAw_0000002 67.1 72.4 
+Tom_Selleck/EkCPvi1xCAw_0000003 75.1 81.4 
+Tom_Selleck/EkCPvi1xCAw_0000004 95.6 99.7 

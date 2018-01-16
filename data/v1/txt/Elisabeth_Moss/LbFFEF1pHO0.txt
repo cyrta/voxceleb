@@ -1,0 +1,13 @@
+POI: 			Elisabeth_Moss 
+Youtube ID: 	LbFFEF1pHO0 
+Video length: 	873.5 sec 
+Set (V): 		test 
+ 
+Elisabeth_Moss/LbFFEF1pHO0_0000001 117.9 127.0 
+Elisabeth_Moss/LbFFEF1pHO0_0000002 129.4 141.6 
+Elisabeth_Moss/LbFFEF1pHO0_0000003 383.5 391.8 
+Elisabeth_Moss/LbFFEF1pHO0_0000004 392.8 403.0 
+Elisabeth_Moss/LbFFEF1pHO0_0000005 404.2 414.0 
+Elisabeth_Moss/LbFFEF1pHO0_0000006 719.0 727.0 
+Elisabeth_Moss/LbFFEF1pHO0_0000007 737.0 741.2 
+Elisabeth_Moss/LbFFEF1pHO0_0000008 741.5 752.3 

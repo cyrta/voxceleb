@@ -1,0 +1,7 @@
+POI: 			Patrick_Swayze 
+Youtube ID: 	3In-GxJhoso 
+Video length: 	68.6 sec 
+Set (V): 		dev 
+ 
+Patrick_Swayze/3In-GxJhoso_0000001 15.3 29.5 
+Patrick_Swayze/3In-GxJhoso_0000002 50.6 60.2 

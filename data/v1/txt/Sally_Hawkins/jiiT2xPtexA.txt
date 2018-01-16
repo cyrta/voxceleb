@@ -1,0 +1,7 @@
+POI: 			Sally_Hawkins 
+Youtube ID: 	jiiT2xPtexA 
+Video length: 	151.1 sec 
+Set (V): 		dev 
+ 
+Sally_Hawkins/jiiT2xPtexA_0000001 06.1 14.8 
+Sally_Hawkins/jiiT2xPtexA_0000002 81.3 88.2 

@@ -1,0 +1,15 @@
+POI: 			Abbie_Cornish 
+Youtube ID: 	J7VccwLPdrI 
+Video length: 	214.6 sec 
+Set (V): 		dev 
+ 
+Abbie_Cornish/J7VccwLPdrI_0000001 16.9 34.3 
+Abbie_Cornish/J7VccwLPdrI_0000002 59.0 76.6 
+Abbie_Cornish/J7VccwLPdrI_0000003 77.4 81.7 
+Abbie_Cornish/J7VccwLPdrI_0000004 91.6 102.6 
+Abbie_Cornish/J7VccwLPdrI_0000005 81.4 86.8 
+Abbie_Cornish/J7VccwLPdrI_0000006 88.1 103.4 
+Abbie_Cornish/J7VccwLPdrI_0000007 150.8 156.6 
+Abbie_Cornish/J7VccwLPdrI_0000008 159.9 169.5 
+Abbie_Cornish/J7VccwLPdrI_0000009 188.7 198.6 
+Abbie_Cornish/J7VccwLPdrI_0000010 199.4 212.7 

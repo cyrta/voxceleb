@@ -1,0 +1,12 @@
+POI: 			Toby_Jones 
+Youtube ID: 	85uTHhTsRHU 
+Video length: 	155.3 sec 
+Set (V): 		dev 
+ 
+Toby_Jones/85uTHhTsRHU_0000001 18.1 22.4 
+Toby_Jones/85uTHhTsRHU_0000002 33.5 46.2 
+Toby_Jones/85uTHhTsRHU_0000003 57.2 62.4 
+Toby_Jones/85uTHhTsRHU_0000004 82.9 87.0 
+Toby_Jones/85uTHhTsRHU_0000005 91.6 102.0 
+Toby_Jones/85uTHhTsRHU_0000006 108.6 115.0 
+Toby_Jones/85uTHhTsRHU_0000007 116.3 120.7 

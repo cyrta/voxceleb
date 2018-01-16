@@ -1,0 +1,10 @@
+POI: 			Daniel_Tosh 
+Youtube ID: 	brDCVWzL2Gg 
+Video length: 	218.7 sec 
+Set (V): 		dev 
+ 
+Daniel_Tosh/brDCVWzL2Gg_0000001 53.8 61.0 
+Daniel_Tosh/brDCVWzL2Gg_0000002 93.2 101.6 
+Daniel_Tosh/brDCVWzL2Gg_0000003 101.9 109.8 
+Daniel_Tosh/brDCVWzL2Gg_0000004 114.4 130.8 
+Daniel_Tosh/brDCVWzL2Gg_0000005 178.5 189.7 

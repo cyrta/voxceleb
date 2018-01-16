@@ -1,0 +1,11 @@
+POI: 			Ralf_Little 
+Youtube ID: 	2VSL8E2aIsc 
+Video length: 	110.7 sec 
+Set (V): 		dev 
+ 
+Ralf_Little/2VSL8E2aIsc_0000001 04.6 17.4 
+Ralf_Little/2VSL8E2aIsc_0000002 24.4 42.2 
+Ralf_Little/2VSL8E2aIsc_0000003 49.5 55.5 
+Ralf_Little/2VSL8E2aIsc_0000004 56.1 78.1 
+Ralf_Little/2VSL8E2aIsc_0000005 80.5 86.8 
+Ralf_Little/2VSL8E2aIsc_0000006 96.0 105.1 

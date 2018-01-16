@@ -1,0 +1,8 @@
+POI: 			Melissa_Leo 
+Youtube ID: 	pUf5NyHPSDg 
+Video length: 	261.0 sec 
+Set (V): 		dev 
+ 
+Melissa_Leo/pUf5NyHPSDg_0000001 19.3 23.8 
+Melissa_Leo/pUf5NyHPSDg_0000002 25.0 50.1 
+Melissa_Leo/pUf5NyHPSDg_0000003 51.1 73.6 

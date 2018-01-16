@@ -1,0 +1,23 @@
+POI: 			Joanna_Lumley 
+Youtube ID: 	7BgvT1nk3So 
+Video length: 	335.2 sec 
+Set (V): 		dev 
+ 
+Joanna_Lumley/7BgvT1nk3So_0000001 14.6 20.8 
+Joanna_Lumley/7BgvT1nk3So_0000002 22.6 34.6 
+Joanna_Lumley/7BgvT1nk3So_0000003 46.0 55.7 
+Joanna_Lumley/7BgvT1nk3So_0000004 57.8 63.0 
+Joanna_Lumley/7BgvT1nk3So_0000005 64.2 78.7 
+Joanna_Lumley/7BgvT1nk3So_0000006 82.1 86.7 
+Joanna_Lumley/7BgvT1nk3So_0000007 88.4 104.3 
+Joanna_Lumley/7BgvT1nk3So_0000008 112.8 119.7 
+Joanna_Lumley/7BgvT1nk3So_0000009 122.6 142.8 
+Joanna_Lumley/7BgvT1nk3So_0000010 143.5 148.8 
+Joanna_Lumley/7BgvT1nk3So_0000011 161.3 170.4 
+Joanna_Lumley/7BgvT1nk3So_0000012 178.4 182.6 
+Joanna_Lumley/7BgvT1nk3So_0000013 200.4 204.8 
+Joanna_Lumley/7BgvT1nk3So_0000014 205.3 261.3 
+Joanna_Lumley/7BgvT1nk3So_0000015 281.5 287.9 
+Joanna_Lumley/7BgvT1nk3So_0000016 291.8 296.2 
+Joanna_Lumley/7BgvT1nk3So_0000017 298.4 307.4 
+Joanna_Lumley/7BgvT1nk3So_0000018 309.5 325.4 

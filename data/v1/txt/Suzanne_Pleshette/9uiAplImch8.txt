@@ -1,0 +1,10 @@
+POI: 			Suzanne_Pleshette 
+Youtube ID: 	9uiAplImch8 
+Video length: 	96.9 sec 
+Set (V): 		dev 
+ 
+Suzanne_Pleshette/9uiAplImch8_0000001 25.7 35.1 
+Suzanne_Pleshette/9uiAplImch8_0000002 35.3 43.6 
+Suzanne_Pleshette/9uiAplImch8_0000003 46.5 55.7 
+Suzanne_Pleshette/9uiAplImch8_0000004 67.3 74.4 
+Suzanne_Pleshette/9uiAplImch8_0000005 77.0 81.4 

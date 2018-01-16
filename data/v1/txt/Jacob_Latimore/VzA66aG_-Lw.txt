@@ -1,0 +1,18 @@
+POI: 			Jacob_Latimore 
+Youtube ID: 	VzA66aG_-Lw 
+Video length: 	230.3 sec 
+Set (V): 		dev 
+ 
+Jacob_Latimore/VzA66aG_-Lw_0000001 12.2 20.6 
+Jacob_Latimore/VzA66aG_-Lw_0000002 26.0 45.0 
+Jacob_Latimore/VzA66aG_-Lw_0000003 51.8 57.6 
+Jacob_Latimore/VzA66aG_-Lw_0000004 67.8 71.8 
+Jacob_Latimore/VzA66aG_-Lw_0000005 72.2 81.3 
+Jacob_Latimore/VzA66aG_-Lw_0000006 94.3 110.9 
+Jacob_Latimore/VzA66aG_-Lw_0000007 111.6 129.3 
+Jacob_Latimore/VzA66aG_-Lw_0000008 130.4 145.5 
+Jacob_Latimore/VzA66aG_-Lw_0000009 166.1 182.4 
+Jacob_Latimore/VzA66aG_-Lw_0000010 182.6 187.2 
+Jacob_Latimore/VzA66aG_-Lw_0000011 194.7 211.4 
+Jacob_Latimore/VzA66aG_-Lw_0000012 212.2 217.2 
+Jacob_Latimore/VzA66aG_-Lw_0000013 218.1 222.4 

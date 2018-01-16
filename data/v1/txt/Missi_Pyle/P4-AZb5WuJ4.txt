@@ -1,0 +1,8 @@
+POI: 			Missi_Pyle 
+Youtube ID: 	P4-AZb5WuJ4 
+Video length: 	425.9 sec 
+Set (V): 		dev 
+ 
+Missi_Pyle/P4-AZb5WuJ4_0000001 141.6 148.1 
+Missi_Pyle/P4-AZb5WuJ4_0000002 171.8 176.6 
+Missi_Pyle/P4-AZb5WuJ4_0000003 189.3 196.7 

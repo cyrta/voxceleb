@@ -1,0 +1,19 @@
+POI: 			Stephen_Mangan 
+Youtube ID: 	X-P0KsDqhFA 
+Video length: 	262.6 sec 
+Set (V): 		dev 
+ 
+Stephen_Mangan/X-P0KsDqhFA_0000001 07.8 14.6 
+Stephen_Mangan/X-P0KsDqhFA_0000002 35.2 40.3 
+Stephen_Mangan/X-P0KsDqhFA_0000003 35.0 40.4 
+Stephen_Mangan/X-P0KsDqhFA_0000004 104.2 110.2 
+Stephen_Mangan/X-P0KsDqhFA_0000005 111.2 118.0 
+Stephen_Mangan/X-P0KsDqhFA_0000006 118.7 131.6 
+Stephen_Mangan/X-P0KsDqhFA_0000007 132.0 139.1 
+Stephen_Mangan/X-P0KsDqhFA_0000008 146.0 150.5 
+Stephen_Mangan/X-P0KsDqhFA_0000009 180.4 185.7 
+Stephen_Mangan/X-P0KsDqhFA_0000010 187.6 193.9 
+Stephen_Mangan/X-P0KsDqhFA_0000011 195.6 201.6 
+Stephen_Mangan/X-P0KsDqhFA_0000012 217.5 222.5 
+Stephen_Mangan/X-P0KsDqhFA_0000013 240.8 248.0 
+Stephen_Mangan/X-P0KsDqhFA_0000014 251.9 257.0 

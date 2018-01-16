@@ -1,0 +1,12 @@
+POI: 			Maria_Bamford 
+Youtube ID: 	tEnjF-gvIf4 
+Video length: 	507.0 sec 
+Set (V): 		dev 
+ 
+Maria_Bamford/tEnjF-gvIf4_0000001 135.4 139.7 
+Maria_Bamford/tEnjF-gvIf4_0000002 155.5 163.2 
+Maria_Bamford/tEnjF-gvIf4_0000003 213.9 218.3 
+Maria_Bamford/tEnjF-gvIf4_0000004 259.8 267.4 
+Maria_Bamford/tEnjF-gvIf4_0000005 280.8 285.4 
+Maria_Bamford/tEnjF-gvIf4_0000006 353.2 357.3 
+Maria_Bamford/tEnjF-gvIf4_0000007 391.5 397.0 

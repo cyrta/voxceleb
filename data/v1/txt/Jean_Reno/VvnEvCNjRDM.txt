@@ -1,0 +1,7 @@
+POI: 			Jean_Reno 
+Youtube ID: 	VvnEvCNjRDM 
+Video length: 	81.9 sec 
+Set (V): 		dev 
+ 
+Jean_Reno/VvnEvCNjRDM_0000001 34.6 39.1 
+Jean_Reno/VvnEvCNjRDM_0000002 64.5 68.8 

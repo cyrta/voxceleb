@@ -1,0 +1,7 @@
+POI: 			Ted_Danson 
+Youtube ID: 	sTLrmYFdL8s 
+Video length: 	134.0 sec 
+Set (V): 		dev 
+ 
+Ted_Danson/sTLrmYFdL8s_0000001 45.0 49.3 
+Ted_Danson/sTLrmYFdL8s_0000002 64.0 68.8 

@@ -1,0 +1,16 @@
+POI: 			Gemma_Atkinson 
+Youtube ID: 	sUeAVe5v7k4 
+Video length: 	334.9 sec 
+Set (V): 		dev 
+ 
+Gemma_Atkinson/sUeAVe5v7k4_0000001 26.3 33.7 
+Gemma_Atkinson/sUeAVe5v7k4_0000002 41.7 51.4 
+Gemma_Atkinson/sUeAVe5v7k4_0000003 55.2 62.8 
+Gemma_Atkinson/sUeAVe5v7k4_0000004 86.0 103.3 
+Gemma_Atkinson/sUeAVe5v7k4_0000005 133.2 138.8 
+Gemma_Atkinson/sUeAVe5v7k4_0000006 236.1 241.9 
+Gemma_Atkinson/sUeAVe5v7k4_0000007 242.9 250.8 
+Gemma_Atkinson/sUeAVe5v7k4_0000008 251.1 259.7 
+Gemma_Atkinson/sUeAVe5v7k4_0000009 260.1 272.1 
+Gemma_Atkinson/sUeAVe5v7k4_0000010 311.6 316.6 
+Gemma_Atkinson/sUeAVe5v7k4_0000011 321.2 331.4 

@@ -1,0 +1,11 @@
+POI: 			Molly_Ringwald 
+Youtube ID: 	wQ70KtDCwWQ 
+Video length: 	364.8 sec 
+Set (V): 		dev 
+ 
+Molly_Ringwald/wQ70KtDCwWQ_0000001 44.0 50.4 
+Molly_Ringwald/wQ70KtDCwWQ_0000002 85.3 90.3 
+Molly_Ringwald/wQ70KtDCwWQ_0000003 124.6 134.4 
+Molly_Ringwald/wQ70KtDCwWQ_0000004 142.6 147.2 
+Molly_Ringwald/wQ70KtDCwWQ_0000005 179.3 188.6 
+Molly_Ringwald/wQ70KtDCwWQ_0000006 275.8 282.0 

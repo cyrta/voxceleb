@@ -1,0 +1,11 @@
+POI: 			Claudia_Black 
+Youtube ID: 	ykKmMqn26_8 
+Video length: 	560.6 sec 
+Set (V): 		dev 
+ 
+Claudia_Black/ykKmMqn26_8_0000001 45.8 54.0 
+Claudia_Black/ykKmMqn26_8_0000002 114.1 131.6 
+Claudia_Black/ykKmMqn26_8_0000003 252.3 257.2 
+Claudia_Black/ykKmMqn26_8_0000004 373.3 380.5 
+Claudia_Black/ykKmMqn26_8_0000005 412.8 420.2 
+Claudia_Black/ykKmMqn26_8_0000006 488.4 494.2 

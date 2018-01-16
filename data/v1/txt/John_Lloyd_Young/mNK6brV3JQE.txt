@@ -1,0 +1,9 @@
+POI: 			John_Lloyd_Young 
+Youtube ID: 	mNK6brV3JQE 
+Video length: 	308.5 sec 
+Set (V): 		dev 
+ 
+John_Lloyd_Young/mNK6brV3JQE_0000001 53.4 58.9 
+John_Lloyd_Young/mNK6brV3JQE_0000002 131.4 136.0 
+John_Lloyd_Young/mNK6brV3JQE_0000003 245.8 251.6 
+John_Lloyd_Young/mNK6brV3JQE_0000004 279.9 297.6 

@@ -1,0 +1,20 @@
+POI: 			Kate_Beckinsale 
+Youtube ID: 	fSoU9Uhv7UA 
+Video length: 	402.9 sec 
+Set (V): 		dev 
+ 
+Kate_Beckinsale/fSoU9Uhv7UA_0000001 10.2 33.2 
+Kate_Beckinsale/fSoU9Uhv7UA_0000002 38.2 53.6 
+Kate_Beckinsale/fSoU9Uhv7UA_0000003 65.4 76.0 
+Kate_Beckinsale/fSoU9Uhv7UA_0000004 76.8 94.7 
+Kate_Beckinsale/fSoU9Uhv7UA_0000005 94.9 110.0 
+Kate_Beckinsale/fSoU9Uhv7UA_0000006 110.7 124.1 
+Kate_Beckinsale/fSoU9Uhv7UA_0000007 124.2 131.3 
+Kate_Beckinsale/fSoU9Uhv7UA_0000008 47.8 57.1 
+Kate_Beckinsale/fSoU9Uhv7UA_0000009 142.7 158.2 
+Kate_Beckinsale/fSoU9Uhv7UA_0000010 158.4 165.6 
+Kate_Beckinsale/fSoU9Uhv7UA_0000011 166.2 175.4 
+Kate_Beckinsale/fSoU9Uhv7UA_0000012 276.5 284.5 
+Kate_Beckinsale/fSoU9Uhv7UA_0000013 299.8 325.7 
+Kate_Beckinsale/fSoU9Uhv7UA_0000014 330.4 344.3 
+Kate_Beckinsale/fSoU9Uhv7UA_0000015 350.0 355.1 

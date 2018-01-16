@@ -1,0 +1,10 @@
+POI: 			Laura_Dern 
+Youtube ID: 	wKuFvTa1o8s 
+Video length: 	466.1 sec 
+Set (V): 		dev 
+ 
+Laura_Dern/wKuFvTa1o8s_0000001 16.9 21.9 
+Laura_Dern/wKuFvTa1o8s_0000002 22.2 33.0 
+Laura_Dern/wKuFvTa1o8s_0000003 34.5 46.8 
+Laura_Dern/wKuFvTa1o8s_0000004 284.8 290.4 
+Laura_Dern/wKuFvTa1o8s_0000005 291.8 301.1 

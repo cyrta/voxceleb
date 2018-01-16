@@ -1,0 +1,12 @@
+POI: 			Chiwetel_Ejiofor 
+Youtube ID: 	ILoMrXMVuNU 
+Video length: 	143.9 sec 
+Set (V): 		dev 
+ 
+Chiwetel_Ejiofor/ILoMrXMVuNU_0000001 12.1 19.6 
+Chiwetel_Ejiofor/ILoMrXMVuNU_0000002 36.8 41.8 
+Chiwetel_Ejiofor/ILoMrXMVuNU_0000003 42.4 47.3 
+Chiwetel_Ejiofor/ILoMrXMVuNU_0000004 62.2 69.8 
+Chiwetel_Ejiofor/ILoMrXMVuNU_0000005 70.6 77.3 
+Chiwetel_Ejiofor/ILoMrXMVuNU_0000006 105.4 115.5 
+Chiwetel_Ejiofor/ILoMrXMVuNU_0000007 118.1 127.0 

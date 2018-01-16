@@ -1,0 +1,7 @@
+POI: 			Steve_Carell 
+Youtube ID: 	Uq-4KOdb_oA 
+Video length: 	520.0 sec 
+Set (V): 		dev 
+ 
+Steve_Carell/Uq-4KOdb_oA_0000001 305.2 314.2 
+Steve_Carell/Uq-4KOdb_oA_0000002 327.9 333.0 

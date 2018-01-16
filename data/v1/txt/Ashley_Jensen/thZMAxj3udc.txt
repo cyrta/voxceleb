@@ -1,0 +1,16 @@
+POI: 			Ashley_Jensen 
+Youtube ID: 	thZMAxj3udc 
+Video length: 	411.9 sec 
+Set (V): 		dev 
+ 
+Ashley_Jensen/thZMAxj3udc_0000001 39.8 45.2 
+Ashley_Jensen/thZMAxj3udc_0000002 54.2 58.5 
+Ashley_Jensen/thZMAxj3udc_0000003 111.6 115.8 
+Ashley_Jensen/thZMAxj3udc_0000004 133.8 144.8 
+Ashley_Jensen/thZMAxj3udc_0000005 200.7 207.2 
+Ashley_Jensen/thZMAxj3udc_0000006 255.7 262.9 
+Ashley_Jensen/thZMAxj3udc_0000007 285.2 289.4 
+Ashley_Jensen/thZMAxj3udc_0000008 292.9 300.0 
+Ashley_Jensen/thZMAxj3udc_0000009 318.8 324.8 
+Ashley_Jensen/thZMAxj3udc_0000010 329.6 334.6 
+Ashley_Jensen/thZMAxj3udc_0000011 368.6 373.9 

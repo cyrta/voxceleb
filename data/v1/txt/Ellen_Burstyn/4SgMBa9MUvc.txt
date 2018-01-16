@@ -1,0 +1,7 @@
+POI: 			Ellen_Burstyn 
+Youtube ID: 	4SgMBa9MUvc 
+Video length: 	228.2 sec 
+Set (V): 		test 
+ 
+Ellen_Burstyn/4SgMBa9MUvc_0000001 74.6 78.5 
+Ellen_Burstyn/4SgMBa9MUvc_0000002 198.6 203.8 

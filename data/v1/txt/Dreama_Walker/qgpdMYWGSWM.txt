@@ -1,0 +1,11 @@
+POI: 			Dreama_Walker 
+Youtube ID: 	qgpdMYWGSWM 
+Video length: 	156.2 sec 
+Set (V): 		dev 
+ 
+Dreama_Walker/qgpdMYWGSWM_0000001 73.8 84.1 
+Dreama_Walker/qgpdMYWGSWM_0000002 86.9 91.5 
+Dreama_Walker/qgpdMYWGSWM_0000003 102.4 111.7 
+Dreama_Walker/qgpdMYWGSWM_0000004 113.9 118.2 
+Dreama_Walker/qgpdMYWGSWM_0000005 130.8 136.6 
+Dreama_Walker/qgpdMYWGSWM_0000006 139.0 145.9 

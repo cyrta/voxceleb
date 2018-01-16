@@ -1,0 +1,13 @@
+POI: 			Jillian_Harris 
+Youtube ID: 	QPqiYj84cp8 
+Video length: 	173.2 sec 
+Set (V): 		dev 
+ 
+Jillian_Harris/QPqiYj84cp8_0000001 23.1 33.6 
+Jillian_Harris/QPqiYj84cp8_0000002 40.9 50.1 
+Jillian_Harris/QPqiYj84cp8_0000003 62.8 73.3 
+Jillian_Harris/QPqiYj84cp8_0000004 88.4 95.3 
+Jillian_Harris/QPqiYj84cp8_0000005 98.0 105.1 
+Jillian_Harris/QPqiYj84cp8_0000006 122.2 130.6 
+Jillian_Harris/QPqiYj84cp8_0000007 147.1 151.9 
+Jillian_Harris/QPqiYj84cp8_0000008 152.3 156.3 

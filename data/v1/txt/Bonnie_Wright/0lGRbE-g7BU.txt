@@ -1,0 +1,9 @@
+POI: 			Bonnie_Wright 
+Youtube ID: 	0lGRbE-g7BU 
+Video length: 	82.2 sec 
+Set (V): 		dev 
+ 
+Bonnie_Wright/0lGRbE-g7BU_0000001 05.6 19.6 
+Bonnie_Wright/0lGRbE-g7BU_0000002 34.9 48.1 
+Bonnie_Wright/0lGRbE-g7BU_0000003 50.4 56.3 
+Bonnie_Wright/0lGRbE-g7BU_0000004 59.4 76.9 

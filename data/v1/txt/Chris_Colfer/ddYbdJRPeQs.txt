@@ -1,0 +1,19 @@
+POI: 			Chris_Colfer 
+Youtube ID: 	ddYbdJRPeQs 
+Video length: 	606.9 sec 
+Set (V): 		dev 
+ 
+Chris_Colfer/ddYbdJRPeQs_0000001 109.5 116.3 
+Chris_Colfer/ddYbdJRPeQs_0000002 234.8 238.8 
+Chris_Colfer/ddYbdJRPeQs_0000003 245.9 251.2 
+Chris_Colfer/ddYbdJRPeQs_0000004 254.5 260.1 
+Chris_Colfer/ddYbdJRPeQs_0000005 282.3 289.1 
+Chris_Colfer/ddYbdJRPeQs_0000006 317.5 327.0 
+Chris_Colfer/ddYbdJRPeQs_0000007 327.2 331.4 
+Chris_Colfer/ddYbdJRPeQs_0000008 385.0 391.1 
+Chris_Colfer/ddYbdJRPeQs_0000009 410.6 414.9 
+Chris_Colfer/ddYbdJRPeQs_0000010 428.6 433.4 
+Chris_Colfer/ddYbdJRPeQs_0000011 434.5 450.6 
+Chris_Colfer/ddYbdJRPeQs_0000012 455.0 460.0 
+Chris_Colfer/ddYbdJRPeQs_0000013 481.5 491.4 
+Chris_Colfer/ddYbdJRPeQs_0000014 515.9 522.5 

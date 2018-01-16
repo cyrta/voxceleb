@@ -1,0 +1,18 @@
+POI: 			Ben_Feldman 
+Youtube ID: 	sz1mTRa_izQ 
+Video length: 	203.2 sec 
+Set (V): 		dev 
+ 
+Ben_Feldman/sz1mTRa_izQ_0000001 01.8 06.2 
+Ben_Feldman/sz1mTRa_izQ_0000002 08.2 31.6 
+Ben_Feldman/sz1mTRa_izQ_0000003 38.6 42.9 
+Ben_Feldman/sz1mTRa_izQ_0000004 43.6 53.0 
+Ben_Feldman/sz1mTRa_izQ_0000005 54.0 59.5 
+Ben_Feldman/sz1mTRa_izQ_0000006 62.9 78.3 
+Ben_Feldman/sz1mTRa_izQ_0000007 80.4 84.9 
+Ben_Feldman/sz1mTRa_izQ_0000008 88.7 103.8 
+Ben_Feldman/sz1mTRa_izQ_0000009 113.1 143.9 
+Ben_Feldman/sz1mTRa_izQ_0000010 149.9 159.3 
+Ben_Feldman/sz1mTRa_izQ_0000011 163.6 171.6 
+Ben_Feldman/sz1mTRa_izQ_0000012 173.4 177.5 
+Ben_Feldman/sz1mTRa_izQ_0000013 181.3 199.4 

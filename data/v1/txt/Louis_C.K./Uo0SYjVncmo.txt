@@ -1,0 +1,14 @@
+POI: 			Louis_C.K. 
+Youtube ID: 	Uo0SYjVncmo 
+Video length: 	760.6 sec 
+Set (V): 		dev 
+ 
+Louis_C.K./Uo0SYjVncmo_0000001 161.3 166.9 
+Louis_C.K./Uo0SYjVncmo_0000002 184.8 190.6 
+Louis_C.K./Uo0SYjVncmo_0000003 262.8 267.2 
+Louis_C.K./Uo0SYjVncmo_0000004 365.7 370.0 
+Louis_C.K./Uo0SYjVncmo_0000005 377.6 383.3 
+Louis_C.K./Uo0SYjVncmo_0000006 390.2 395.8 
+Louis_C.K./Uo0SYjVncmo_0000007 431.0 435.3 
+Louis_C.K./Uo0SYjVncmo_0000008 483.3 487.7 
+Louis_C.K./Uo0SYjVncmo_0000009 546.4 551.6 

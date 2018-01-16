@@ -1,0 +1,15 @@
+POI: 			Dove_Cameron 
+Youtube ID: 	5qnBIsnMA5s 
+Video length: 	291.9 sec 
+Set (V): 		dev 
+ 
+Dove_Cameron/5qnBIsnMA5s_0000001 05.4 10.3 
+Dove_Cameron/5qnBIsnMA5s_0000002 24.2 33.8 
+Dove_Cameron/5qnBIsnMA5s_0000003 57.8 64.3 
+Dove_Cameron/5qnBIsnMA5s_0000004 77.2 81.5 
+Dove_Cameron/5qnBIsnMA5s_0000005 164.6 168.9 
+Dove_Cameron/5qnBIsnMA5s_0000006 176.6 186.8 
+Dove_Cameron/5qnBIsnMA5s_0000007 210.6 214.7 
+Dove_Cameron/5qnBIsnMA5s_0000008 215.0 235.0 
+Dove_Cameron/5qnBIsnMA5s_0000009 244.4 249.7 
+Dove_Cameron/5qnBIsnMA5s_0000010 264.3 270.9 

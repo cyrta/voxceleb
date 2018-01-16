@@ -1,0 +1,8 @@
+POI: 			Marla_Gibbs 
+Youtube ID: 	rDAhmNN4l9o 
+Video length: 	83.8 sec 
+Set (V): 		dev 
+ 
+Marla_Gibbs/rDAhmNN4l9o_0000001 06.0 40.2 
+Marla_Gibbs/rDAhmNN4l9o_0000002 46.7 63.2 
+Marla_Gibbs/rDAhmNN4l9o_0000003 64.1 74.6 

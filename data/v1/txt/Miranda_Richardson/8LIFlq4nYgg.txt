@@ -1,0 +1,11 @@
+POI: 			Miranda_Richardson 
+Youtube ID: 	8LIFlq4nYgg 
+Video length: 	196.5 sec 
+Set (V): 		dev 
+ 
+Miranda_Richardson/8LIFlq4nYgg_0000001 32.5 36.9 
+Miranda_Richardson/8LIFlq4nYgg_0000002 42.8 48.0 
+Miranda_Richardson/8LIFlq4nYgg_0000003 72.6 85.2 
+Miranda_Richardson/8LIFlq4nYgg_0000004 91.9 97.4 
+Miranda_Richardson/8LIFlq4nYgg_0000005 134.7 141.2 
+Miranda_Richardson/8LIFlq4nYgg_0000006 161.4 169.2 

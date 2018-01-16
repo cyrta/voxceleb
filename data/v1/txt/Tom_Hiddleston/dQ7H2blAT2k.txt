@@ -1,0 +1,7 @@
+POI: 			Tom_Hiddleston 
+Youtube ID: 	dQ7H2blAT2k 
+Video length: 	152.7 sec 
+Set (V): 		dev 
+ 
+Tom_Hiddleston/dQ7H2blAT2k_0000001 75.3 81.7 
+Tom_Hiddleston/dQ7H2blAT2k_0000002 91.7 115.7 

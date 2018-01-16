@@ -1,0 +1,8 @@
+POI: 			Wesley_Snipes 
+Youtube ID: 	BaMdqvsWixk 
+Video length: 	103.3 sec 
+Set (V): 		dev 
+ 
+Wesley_Snipes/BaMdqvsWixk_0000001 16.0 20.1 
+Wesley_Snipes/BaMdqvsWixk_0000002 75.2 80.3 
+Wesley_Snipes/BaMdqvsWixk_0000003 82.8 87.2 

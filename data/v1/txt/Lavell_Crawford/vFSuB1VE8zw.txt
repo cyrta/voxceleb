@@ -1,0 +1,17 @@
+POI: 			Lavell_Crawford 
+Youtube ID: 	vFSuB1VE8zw 
+Video length: 	378.7 sec 
+Set (V): 		dev 
+ 
+Lavell_Crawford/vFSuB1VE8zw_0000001 10.2 16.7 
+Lavell_Crawford/vFSuB1VE8zw_0000002 17.6 23.8 
+Lavell_Crawford/vFSuB1VE8zw_0000003 25.8 32.6 
+Lavell_Crawford/vFSuB1VE8zw_0000004 36.0 40.1 
+Lavell_Crawford/vFSuB1VE8zw_0000005 68.5 73.3 
+Lavell_Crawford/vFSuB1VE8zw_0000006 79.4 86.3 
+Lavell_Crawford/vFSuB1VE8zw_0000007 88.4 92.8 
+Lavell_Crawford/vFSuB1VE8zw_0000008 125.1 129.7 
+Lavell_Crawford/vFSuB1VE8zw_0000009 163.5 168.8 
+Lavell_Crawford/vFSuB1VE8zw_0000010 182.3 187.4 
+Lavell_Crawford/vFSuB1VE8zw_0000011 269.9 277.5 
+Lavell_Crawford/vFSuB1VE8zw_0000012 336.5 341.8 

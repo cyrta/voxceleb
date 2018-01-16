@@ -1,0 +1,12 @@
+POI: 			Paul_Wesley 
+Youtube ID: 	SZtGhMFYAz0 
+Video length: 	409.6 sec 
+Set (V): 		dev 
+ 
+Paul_Wesley/SZtGhMFYAz0_0000001 147.0 151.8 
+Paul_Wesley/SZtGhMFYAz0_0000002 156.0 162.6 
+Paul_Wesley/SZtGhMFYAz0_0000003 175.2 181.3 
+Paul_Wesley/SZtGhMFYAz0_0000004 185.9 191.4 
+Paul_Wesley/SZtGhMFYAz0_0000005 317.9 327.9 
+Paul_Wesley/SZtGhMFYAz0_0000006 336.7 343.1 
+Paul_Wesley/SZtGhMFYAz0_0000007 381.5 391.3 

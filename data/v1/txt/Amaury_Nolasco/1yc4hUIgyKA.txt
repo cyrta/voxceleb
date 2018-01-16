@@ -1,0 +1,17 @@
+POI: 			Amaury_Nolasco 
+Youtube ID: 	1yc4hUIgyKA 
+Video length: 	276.6 sec 
+Set (V): 		dev 
+ 
+Amaury_Nolasco/1yc4hUIgyKA_0000001 15.4 37.9 
+Amaury_Nolasco/1yc4hUIgyKA_0000002 42.2 51.0 
+Amaury_Nolasco/1yc4hUIgyKA_0000003 64.3 68.3 
+Amaury_Nolasco/1yc4hUIgyKA_0000004 72.0 81.1 
+Amaury_Nolasco/1yc4hUIgyKA_0000005 96.6 127.4 
+Amaury_Nolasco/1yc4hUIgyKA_0000006 140.3 145.5 
+Amaury_Nolasco/1yc4hUIgyKA_0000007 145.6 163.4 
+Amaury_Nolasco/1yc4hUIgyKA_0000008 163.9 184.1 
+Amaury_Nolasco/1yc4hUIgyKA_0000009 184.6 189.5 
+Amaury_Nolasco/1yc4hUIgyKA_0000010 190.2 195.1 
+Amaury_Nolasco/1yc4hUIgyKA_0000011 206.0 214.5 
+Amaury_Nolasco/1yc4hUIgyKA_0000012 235.2 263.2 

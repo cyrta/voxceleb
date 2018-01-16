@@ -1,0 +1,9 @@
+POI: 			Tristan_Wilds 
+Youtube ID: 	MbwRbPZ76WA 
+Video length: 	187.8 sec 
+Set (V): 		dev 
+ 
+Tristan_Wilds/MbwRbPZ76WA_0000001 22.5 28.2 
+Tristan_Wilds/MbwRbPZ76WA_0000002 50.4 55.2 
+Tristan_Wilds/MbwRbPZ76WA_0000003 71.8 76.5 
+Tristan_Wilds/MbwRbPZ76WA_0000004 147.3 151.6 

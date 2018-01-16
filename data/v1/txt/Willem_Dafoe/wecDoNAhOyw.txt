@@ -1,0 +1,8 @@
+POI: 			Willem_Dafoe 
+Youtube ID: 	wecDoNAhOyw 
+Video length: 	56.5 sec 
+Set (V): 		dev 
+ 
+Willem_Dafoe/wecDoNAhOyw_0000001 09.8 13.8 
+Willem_Dafoe/wecDoNAhOyw_0000002 19.9 24.1 
+Willem_Dafoe/wecDoNAhOyw_0000003 28.8 35.3 

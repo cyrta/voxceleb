@@ -1,0 +1,11 @@
+POI: 			Richard_Dean_Anderson 
+Youtube ID: 	36Tl_kEfuWQ 
+Video length: 	188.6 sec 
+Set (V): 		dev 
+ 
+Richard_Dean_Anderson/36Tl_kEfuWQ_0000001 15.4 22.3 
+Richard_Dean_Anderson/36Tl_kEfuWQ_0000002 30.6 36.2 
+Richard_Dean_Anderson/36Tl_kEfuWQ_0000003 39.0 44.6 
+Richard_Dean_Anderson/36Tl_kEfuWQ_0000004 107.4 112.5 
+Richard_Dean_Anderson/36Tl_kEfuWQ_0000005 122.0 127.7 
+Richard_Dean_Anderson/36Tl_kEfuWQ_0000006 132.2 138.3 

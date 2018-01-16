@@ -1,0 +1,12 @@
+POI: 			Kim_Raver 
+Youtube ID: 	E-6YLKsWM9w 
+Video length: 	1464.6 sec 
+Set (V): 		dev 
+ 
+Kim_Raver/E-6YLKsWM9w_0000001 126.2 131.0 
+Kim_Raver/E-6YLKsWM9w_0000002 299.3 305.4 
+Kim_Raver/E-6YLKsWM9w_0000003 838.1 844.2 
+Kim_Raver/E-6YLKsWM9w_0000004 852.8 859.0 
+Kim_Raver/E-6YLKsWM9w_0000005 958.8 963.1 
+Kim_Raver/E-6YLKsWM9w_0000006 975.2 979.9 
+Kim_Raver/E-6YLKsWM9w_0000007 1318.1 1323.4 

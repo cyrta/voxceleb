@@ -1,0 +1,9 @@
+POI: 			Jessie_J 
+Youtube ID: 	TjObSXrkAcs 
+Video length: 	543.8 sec 
+Set (V): 		dev 
+ 
+Jessie_J/TjObSXrkAcs_0000001 47.6 56.6 
+Jessie_J/TjObSXrkAcs_0000002 117.2 124.4 
+Jessie_J/TjObSXrkAcs_0000003 259.6 268.4 
+Jessie_J/TjObSXrkAcs_0000004 374.4 379.0 

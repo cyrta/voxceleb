@@ -1,0 +1,9 @@
+POI: 			Tom_Kenny 
+Youtube ID: 	qvtO6iHq_Ko 
+Video length: 	315.8 sec 
+Set (V): 		dev 
+ 
+Tom_Kenny/qvtO6iHq_Ko_0000001 61.4 70.8 
+Tom_Kenny/qvtO6iHq_Ko_0000002 119.6 124.1 
+Tom_Kenny/qvtO6iHq_Ko_0000003 138.3 146.2 
+Tom_Kenny/qvtO6iHq_Ko_0000004 169.5 181.0 

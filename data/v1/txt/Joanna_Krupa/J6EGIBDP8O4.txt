@@ -1,0 +1,9 @@
+POI: 			Joanna_Krupa 
+Youtube ID: 	J6EGIBDP8O4 
+Video length: 	137.7 sec 
+Set (V): 		dev 
+ 
+Joanna_Krupa/J6EGIBDP8O4_0000001 38.1 42.4 
+Joanna_Krupa/J6EGIBDP8O4_0000002 64.6 70.3 
+Joanna_Krupa/J6EGIBDP8O4_0000003 103.4 113.3 
+Joanna_Krupa/J6EGIBDP8O4_0000004 122.6 131.5 

@@ -1,0 +1,7 @@
+POI: 			Geena_Davis 
+Youtube ID: 	NGnHL5_doPU 
+Video length: 	546.1 sec 
+Set (V): 		dev 
+ 
+Geena_Davis/NGnHL5_doPU_0000001 110.8 116.0 
+Geena_Davis/NGnHL5_doPU_0000002 279.2 283.8 

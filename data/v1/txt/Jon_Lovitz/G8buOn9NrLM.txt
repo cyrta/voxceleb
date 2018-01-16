@@ -1,0 +1,13 @@
+POI: 			Jon_Lovitz 
+Youtube ID: 	G8buOn9NrLM 
+Video length: 	499.8 sec 
+Set (V): 		dev 
+ 
+Jon_Lovitz/G8buOn9NrLM_0000001 37.5 42.1 
+Jon_Lovitz/G8buOn9NrLM_0000002 121.6 126.0 
+Jon_Lovitz/G8buOn9NrLM_0000003 134.1 138.7 
+Jon_Lovitz/G8buOn9NrLM_0000004 164.2 173.1 
+Jon_Lovitz/G8buOn9NrLM_0000005 198.3 202.3 
+Jon_Lovitz/G8buOn9NrLM_0000006 213.8 220.7 
+Jon_Lovitz/G8buOn9NrLM_0000007 481.3 486.3 
+Jon_Lovitz/G8buOn9NrLM_0000008 481.1 485.6 

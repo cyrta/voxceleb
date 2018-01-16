@@ -1,0 +1,9 @@
+POI: 			Peter_Facinelli 
+Youtube ID: 	vNVKFvhgU4c 
+Video length: 	121.4 sec 
+Set (V): 		dev 
+ 
+Peter_Facinelli/vNVKFvhgU4c_0000001 37.5 47.7 
+Peter_Facinelli/vNVKFvhgU4c_0000002 48.1 64.7 
+Peter_Facinelli/vNVKFvhgU4c_0000003 77.6 82.0 
+Peter_Facinelli/vNVKFvhgU4c_0000004 88.7 95.0 

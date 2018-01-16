@@ -1,0 +1,9 @@
+POI: 			Mitchel_Musso 
+Youtube ID: 	kKKmKLGKsHE 
+Video length: 	124.2 sec 
+Set (V): 		dev 
+ 
+Mitchel_Musso/kKKmKLGKsHE_0000001 65.0 69.0 
+Mitchel_Musso/kKKmKLGKsHE_0000002 71.2 75.7 
+Mitchel_Musso/kKKmKLGKsHE_0000003 85.8 94.0 
+Mitchel_Musso/kKKmKLGKsHE_0000004 94.4 101.4 

@@ -1,0 +1,8 @@
+POI: 			Rob_Corddry 
+Youtube ID: 	RKRW8opaXw4 
+Video length: 	158.9 sec 
+Set (V): 		dev 
+ 
+Rob_Corddry/RKRW8opaXw4_0000001 30.8 35.2 
+Rob_Corddry/RKRW8opaXw4_0000002 66.2 75.9 
+Rob_Corddry/RKRW8opaXw4_0000003 119.5 138.8 

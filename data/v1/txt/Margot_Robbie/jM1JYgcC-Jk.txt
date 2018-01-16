@@ -1,0 +1,17 @@
+POI: 			Margot_Robbie 
+Youtube ID: 	jM1JYgcC-Jk 
+Video length: 	287.2 sec 
+Set (V): 		dev 
+ 
+Margot_Robbie/jM1JYgcC-Jk_0000001 46.0 54.9 
+Margot_Robbie/jM1JYgcC-Jk_0000002 103.5 109.4 
+Margot_Robbie/jM1JYgcC-Jk_0000003 116.4 123.0 
+Margot_Robbie/jM1JYgcC-Jk_0000004 143.6 152.6 
+Margot_Robbie/jM1JYgcC-Jk_0000005 154.8 161.9 
+Margot_Robbie/jM1JYgcC-Jk_0000006 186.4 192.6 
+Margot_Robbie/jM1JYgcC-Jk_0000007 202.4 208.1 
+Margot_Robbie/jM1JYgcC-Jk_0000008 209.3 228.9 
+Margot_Robbie/jM1JYgcC-Jk_0000009 230.4 234.8 
+Margot_Robbie/jM1JYgcC-Jk_0000010 250.0 259.2 
+Margot_Robbie/jM1JYgcC-Jk_0000011 261.0 272.0 
+Margot_Robbie/jM1JYgcC-Jk_0000012 274.8 282.1 

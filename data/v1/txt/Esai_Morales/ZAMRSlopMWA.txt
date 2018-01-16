@@ -1,0 +1,10 @@
+POI: 			Esai_Morales 
+Youtube ID: 	ZAMRSlopMWA 
+Video length: 	105.5 sec 
+Set (V): 		test 
+ 
+Esai_Morales/ZAMRSlopMWA_0000001 24.9 30.9 
+Esai_Morales/ZAMRSlopMWA_0000002 41.0 50.5 
+Esai_Morales/ZAMRSlopMWA_0000003 59.9 75.8 
+Esai_Morales/ZAMRSlopMWA_0000004 76.6 84.3 
+Esai_Morales/ZAMRSlopMWA_0000005 86.8 94.3 

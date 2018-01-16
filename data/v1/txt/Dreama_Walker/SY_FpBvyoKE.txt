@@ -1,0 +1,20 @@
+POI: 			Dreama_Walker 
+Youtube ID: 	SY_FpBvyoKE 
+Video length: 	327.5 sec 
+Set (V): 		dev 
+ 
+Dreama_Walker/SY_FpBvyoKE_0000001 03.2 16.2 
+Dreama_Walker/SY_FpBvyoKE_0000002 29.4 40.8 
+Dreama_Walker/SY_FpBvyoKE_0000003 41.4 55.8 
+Dreama_Walker/SY_FpBvyoKE_0000004 60.8 83.2 
+Dreama_Walker/SY_FpBvyoKE_0000005 95.9 115.2 
+Dreama_Walker/SY_FpBvyoKE_0000006 129.3 140.8 
+Dreama_Walker/SY_FpBvyoKE_0000007 141.3 150.0 
+Dreama_Walker/SY_FpBvyoKE_0000008 161.8 169.3 
+Dreama_Walker/SY_FpBvyoKE_0000009 170.0 188.8 
+Dreama_Walker/SY_FpBvyoKE_0000010 191.1 210.4 
+Dreama_Walker/SY_FpBvyoKE_0000011 214.1 220.3 
+Dreama_Walker/SY_FpBvyoKE_0000012 230.0 250.2 
+Dreama_Walker/SY_FpBvyoKE_0000013 265.3 274.8 
+Dreama_Walker/SY_FpBvyoKE_0000014 293.6 320.5 
+Dreama_Walker/SY_FpBvyoKE_0000015 321.1 325.4 

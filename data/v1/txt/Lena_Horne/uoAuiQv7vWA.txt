@@ -1,0 +1,8 @@
+POI: 			Lena_Horne 
+Youtube ID: 	uoAuiQv7vWA 
+Video length: 	901.6 sec 
+Set (V): 		dev 
+ 
+Lena_Horne/uoAuiQv7vWA_0000001 357.4 365.7 
+Lena_Horne/uoAuiQv7vWA_0000002 366.5 376.0 
+Lena_Horne/uoAuiQv7vWA_0000003 390.1 394.9 

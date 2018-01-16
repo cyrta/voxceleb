@@ -1,0 +1,8 @@
+POI: 			Bonnie_Wright 
+Youtube ID: 	1BeZJUe-K3A 
+Video length: 	55.6 sec 
+Set (V): 		dev 
+ 
+Bonnie_Wright/1BeZJUe-K3A_0000001 11.5 26.2 
+Bonnie_Wright/1BeZJUe-K3A_0000002 29.4 39.8 
+Bonnie_Wright/1BeZJUe-K3A_0000003 46.0 50.8 

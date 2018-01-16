@@ -1,0 +1,10 @@
+POI: 			Joan_Chen 
+Youtube ID: 	QeDtLS5lj2s 
+Video length: 	598.7 sec 
+Set (V): 		dev 
+ 
+Joan_Chen/QeDtLS5lj2s_0000001 140.9 146.4 
+Joan_Chen/QeDtLS5lj2s_0000002 197.6 202.3 
+Joan_Chen/QeDtLS5lj2s_0000003 481.0 487.0 
+Joan_Chen/QeDtLS5lj2s_0000004 497.8 503.4 
+Joan_Chen/QeDtLS5lj2s_0000005 505.7 511.4 

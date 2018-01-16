@@ -1,0 +1,8 @@
+POI: 			Lisa_Edelstein 
+Youtube ID: 	c65f1iU9d9U 
+Video length: 	328.3 sec 
+Set (V): 		dev 
+ 
+Lisa_Edelstein/c65f1iU9d9U_0000001 147.7 153.1 
+Lisa_Edelstein/c65f1iU9d9U_0000002 177.4 181.4 
+Lisa_Edelstein/c65f1iU9d9U_0000003 285.4 290.6 

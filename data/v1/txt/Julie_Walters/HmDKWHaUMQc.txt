@@ -1,0 +1,20 @@
+POI: 			Julie_Walters 
+Youtube ID: 	HmDKWHaUMQc 
+Video length: 	316.6 sec 
+Set (V): 		dev 
+ 
+Julie_Walters/HmDKWHaUMQc_0000001 31.4 41.8 
+Julie_Walters/HmDKWHaUMQc_0000002 42.9 59.2 
+Julie_Walters/HmDKWHaUMQc_0000003 70.1 75.7 
+Julie_Walters/HmDKWHaUMQc_0000004 77.1 83.9 
+Julie_Walters/HmDKWHaUMQc_0000005 85.8 96.0 
+Julie_Walters/HmDKWHaUMQc_0000006 107.6 117.8 
+Julie_Walters/HmDKWHaUMQc_0000007 121.4 136.2 
+Julie_Walters/HmDKWHaUMQc_0000008 137.9 142.3 
+Julie_Walters/HmDKWHaUMQc_0000009 154.8 163.0 
+Julie_Walters/HmDKWHaUMQc_0000010 183.0 195.2 
+Julie_Walters/HmDKWHaUMQc_0000011 200.3 208.5 
+Julie_Walters/HmDKWHaUMQc_0000012 210.9 216.1 
+Julie_Walters/HmDKWHaUMQc_0000013 282.6 289.4 
+Julie_Walters/HmDKWHaUMQc_0000014 289.7 295.6 
+Julie_Walters/HmDKWHaUMQc_0000015 297.7 302.2 

@@ -1,0 +1,18 @@
+POI: 			Selma_Blair 
+Youtube ID: 	Ep1gG3R68o4 
+Video length: 	146.8 sec 
+Set (V): 		dev 
+ 
+Selma_Blair/Ep1gG3R68o4_0000001 02.7 07.7 
+Selma_Blair/Ep1gG3R68o4_0000002 08.6 12.8 
+Selma_Blair/Ep1gG3R68o4_0000003 25.1 30.0 
+Selma_Blair/Ep1gG3R68o4_0000004 30.6 37.4 
+Selma_Blair/Ep1gG3R68o4_0000005 40.0 44.6 
+Selma_Blair/Ep1gG3R68o4_0000006 49.7 55.0 
+Selma_Blair/Ep1gG3R68o4_0000007 56.2 62.9 
+Selma_Blair/Ep1gG3R68o4_0000008 71.7 76.3 
+Selma_Blair/Ep1gG3R68o4_0000009 80.5 85.5 
+Selma_Blair/Ep1gG3R68o4_0000010 89.4 93.5 
+Selma_Blair/Ep1gG3R68o4_0000011 96.6 106.4 
+Selma_Blair/Ep1gG3R68o4_0000012 107.9 122.8 
+Selma_Blair/Ep1gG3R68o4_0000013 133.9 139.8 

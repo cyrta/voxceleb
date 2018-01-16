@@ -1,0 +1,10 @@
+POI: 			Josh_Peck 
+Youtube ID: 	dwQ1_zMBTfU 
+Video length: 	165.7 sec 
+Set (V): 		dev 
+ 
+Josh_Peck/dwQ1_zMBTfU_0000001 30.6 37.6 
+Josh_Peck/dwQ1_zMBTfU_0000002 40.4 45.4 
+Josh_Peck/dwQ1_zMBTfU_0000003 81.8 88.4 
+Josh_Peck/dwQ1_zMBTfU_0000004 120.5 125.1 
+Josh_Peck/dwQ1_zMBTfU_0000005 143.2 148.2 

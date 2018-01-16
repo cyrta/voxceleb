@@ -1,0 +1,13 @@
+POI: 			Bonnie_Wright 
+Youtube ID: 	jJLQc0W1fds 
+Video length: 	247.8 sec 
+Set (V): 		dev 
+ 
+Bonnie_Wright/jJLQc0W1fds_0000001 53.0 71.9 
+Bonnie_Wright/jJLQc0W1fds_0000002 74.8 83.4 
+Bonnie_Wright/jJLQc0W1fds_0000003 90.7 103.0 
+Bonnie_Wright/jJLQc0W1fds_0000004 103.2 109.7 
+Bonnie_Wright/jJLQc0W1fds_0000005 129.4 136.5 
+Bonnie_Wright/jJLQc0W1fds_0000006 137.3 163.3 
+Bonnie_Wright/jJLQc0W1fds_0000007 217.5 225.6 
+Bonnie_Wright/jJLQc0W1fds_0000008 233.4 240.5 

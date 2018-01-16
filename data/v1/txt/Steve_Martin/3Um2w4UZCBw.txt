@@ -1,0 +1,23 @@
+POI: 			Steve_Martin 
+Youtube ID: 	3Um2w4UZCBw 
+Video length: 	895.1 sec 
+Set (V): 		dev 
+ 
+Steve_Martin/3Um2w4UZCBw_0000001 52.6 59.3 
+Steve_Martin/3Um2w4UZCBw_0000002 66.3 73.0 
+Steve_Martin/3Um2w4UZCBw_0000003 81.9 86.2 
+Steve_Martin/3Um2w4UZCBw_0000004 88.1 94.2 
+Steve_Martin/3Um2w4UZCBw_0000005 94.9 100.4 
+Steve_Martin/3Um2w4UZCBw_0000006 153.8 164.2 
+Steve_Martin/3Um2w4UZCBw_0000007 187.9 193.6 
+Steve_Martin/3Um2w4UZCBw_0000008 199.7 206.2 
+Steve_Martin/3Um2w4UZCBw_0000009 208.0 218.2 
+Steve_Martin/3Um2w4UZCBw_0000010 219.8 233.0 
+Steve_Martin/3Um2w4UZCBw_0000011 226.2 233.0 
+Steve_Martin/3Um2w4UZCBw_0000012 241.0 247.0 
+Steve_Martin/3Um2w4UZCBw_0000013 281.7 288.2 
+Steve_Martin/3Um2w4UZCBw_0000014 299.7 304.3 
+Steve_Martin/3Um2w4UZCBw_0000015 325.2 333.0 
+Steve_Martin/3Um2w4UZCBw_0000016 522.0 526.4 
+Steve_Martin/3Um2w4UZCBw_0000017 791.0 796.1 
+Steve_Martin/3Um2w4UZCBw_0000018 867.9 874.2 

@@ -1,0 +1,12 @@
+POI: 			Janel_Parrish 
+Youtube ID: 	OJjRpKh1rv4 
+Video length: 	134.6 sec 
+Set (V): 		dev 
+ 
+Janel_Parrish/OJjRpKh1rv4_0000001 12.6 17.3 
+Janel_Parrish/OJjRpKh1rv4_0000002 19.6 24.0 
+Janel_Parrish/OJjRpKh1rv4_0000003 26.1 31.4 
+Janel_Parrish/OJjRpKh1rv4_0000004 37.1 43.3 
+Janel_Parrish/OJjRpKh1rv4_0000005 52.6 69.7 
+Janel_Parrish/OJjRpKh1rv4_0000006 80.8 85.8 
+Janel_Parrish/OJjRpKh1rv4_0000007 96.8 110.7 

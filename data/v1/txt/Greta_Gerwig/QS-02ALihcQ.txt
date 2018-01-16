@@ -1,0 +1,12 @@
+POI: 			Greta_Gerwig 
+Youtube ID: 	QS-02ALihcQ 
+Video length: 	210.0 sec 
+Set (V): 		dev 
+ 
+Greta_Gerwig/QS-02ALihcQ_0000001 11.6 16.6 
+Greta_Gerwig/QS-02ALihcQ_0000002 24.4 34.7 
+Greta_Gerwig/QS-02ALihcQ_0000003 44.4 48.5 
+Greta_Gerwig/QS-02ALihcQ_0000004 70.6 78.2 
+Greta_Gerwig/QS-02ALihcQ_0000005 108.7 115.3 
+Greta_Gerwig/QS-02ALihcQ_0000006 116.3 128.4 
+Greta_Gerwig/QS-02ALihcQ_0000007 159.6 164.2 

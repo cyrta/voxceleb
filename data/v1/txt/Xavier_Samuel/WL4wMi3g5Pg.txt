@@ -1,0 +1,9 @@
+POI: 			Xavier_Samuel 
+Youtube ID: 	WL4wMi3g5Pg 
+Video length: 	359.5 sec 
+Set (V): 		dev 
+ 
+Xavier_Samuel/WL4wMi3g5Pg_0000001 80.2 86.2 
+Xavier_Samuel/WL4wMi3g5Pg_0000002 133.6 138.4 
+Xavier_Samuel/WL4wMi3g5Pg_0000003 143.1 151.0 
+Xavier_Samuel/WL4wMi3g5Pg_0000004 151.9 159.4 

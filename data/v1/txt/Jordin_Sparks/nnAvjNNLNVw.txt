@@ -1,0 +1,11 @@
+POI: 			Jordin_Sparks 
+Youtube ID: 	nnAvjNNLNVw 
+Video length: 	440.3 sec 
+Set (V): 		dev 
+ 
+Jordin_Sparks/nnAvjNNLNVw_0000001 64.0 68.3 
+Jordin_Sparks/nnAvjNNLNVw_0000002 68.8 73.2 
+Jordin_Sparks/nnAvjNNLNVw_0000003 200.8 209.8 
+Jordin_Sparks/nnAvjNNLNVw_0000004 252.3 266.5 
+Jordin_Sparks/nnAvjNNLNVw_0000005 269.7 276.7 
+Jordin_Sparks/nnAvjNNLNVw_0000006 280.0 288.2 

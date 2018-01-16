@@ -1,0 +1,8 @@
+POI: 			Breckin_Meyer 
+Youtube ID: 	fXbcp0q_Nhk 
+Video length: 	172.3 sec 
+Set (V): 		dev 
+ 
+Breckin_Meyer/fXbcp0q_Nhk_0000001 57.3 65.4 
+Breckin_Meyer/fXbcp0q_Nhk_0000002 127.1 132.0 
+Breckin_Meyer/fXbcp0q_Nhk_0000003 137.6 143.7 

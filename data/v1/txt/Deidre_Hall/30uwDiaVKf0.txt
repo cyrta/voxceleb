@@ -1,0 +1,11 @@
+POI: 			Deidre_Hall 
+Youtube ID: 	30uwDiaVKf0 
+Video length: 	150.5 sec 
+Set (V): 		dev 
+ 
+Deidre_Hall/30uwDiaVKf0_0000001 31.3 40.6 
+Deidre_Hall/30uwDiaVKf0_0000002 42.4 60.0 
+Deidre_Hall/30uwDiaVKf0_0000003 70.0 77.6 
+Deidre_Hall/30uwDiaVKf0_0000004 83.5 90.4 
+Deidre_Hall/30uwDiaVKf0_0000005 104.7 113.3 
+Deidre_Hall/30uwDiaVKf0_0000006 115.9 123.3 

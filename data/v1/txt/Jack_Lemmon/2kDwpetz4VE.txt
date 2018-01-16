@@ -1,0 +1,23 @@
+POI: 			Jack_Lemmon 
+Youtube ID: 	2kDwpetz4VE 
+Video length: 	543.9 sec 
+Set (V): 		dev 
+ 
+Jack_Lemmon/2kDwpetz4VE_0000001 147.0 151.2 
+Jack_Lemmon/2kDwpetz4VE_0000002 156.6 172.0 
+Jack_Lemmon/2kDwpetz4VE_0000003 173.8 183.3 
+Jack_Lemmon/2kDwpetz4VE_0000004 206.4 221.6 
+Jack_Lemmon/2kDwpetz4VE_0000005 227.1 234.0 
+Jack_Lemmon/2kDwpetz4VE_0000006 242.5 250.2 
+Jack_Lemmon/2kDwpetz4VE_0000007 267.3 273.4 
+Jack_Lemmon/2kDwpetz4VE_0000008 276.3 282.9 
+Jack_Lemmon/2kDwpetz4VE_0000009 305.5 309.8 
+Jack_Lemmon/2kDwpetz4VE_0000010 311.1 315.4 
+Jack_Lemmon/2kDwpetz4VE_0000011 318.9 323.8 
+Jack_Lemmon/2kDwpetz4VE_0000012 384.9 393.1 
+Jack_Lemmon/2kDwpetz4VE_0000013 400.3 410.8 
+Jack_Lemmon/2kDwpetz4VE_0000014 411.8 416.4 
+Jack_Lemmon/2kDwpetz4VE_0000015 500.4 504.6 
+Jack_Lemmon/2kDwpetz4VE_0000016 506.6 510.8 
+Jack_Lemmon/2kDwpetz4VE_0000017 518.2 522.2 
+Jack_Lemmon/2kDwpetz4VE_0000018 525.6 530.6 

@@ -1,0 +1,9 @@
+POI: 			Kelli_Williams 
+Youtube ID: 	qLBzVfIYAhI 
+Video length: 	1669.5 sec 
+Set (V): 		dev 
+ 
+Kelli_Williams/qLBzVfIYAhI_0000001 418.8 429.7 
+Kelli_Williams/qLBzVfIYAhI_0000002 834.0 845.2 
+Kelli_Williams/qLBzVfIYAhI_0000003 847.9 857.2 
+Kelli_Williams/qLBzVfIYAhI_0000004 888.2 893.7 

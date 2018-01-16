@@ -1,0 +1,8 @@
+POI: 			Chris_Pine 
+Youtube ID: 	r2PkkF48gyk 
+Video length: 	300.6 sec 
+Set (V): 		dev 
+ 
+Chris_Pine/r2PkkF48gyk_0000001 75.0 80.8 
+Chris_Pine/r2PkkF48gyk_0000002 87.6 95.9 
+Chris_Pine/r2PkkF48gyk_0000003 103.2 111.7 

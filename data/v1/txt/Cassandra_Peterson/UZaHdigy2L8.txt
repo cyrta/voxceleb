@@ -1,0 +1,8 @@
+POI: 			Cassandra_Peterson 
+Youtube ID: 	UZaHdigy2L8 
+Video length: 	100.4 sec 
+Set (V): 		dev 
+ 
+Cassandra_Peterson/UZaHdigy2L8_0000001 21.9 26.2 
+Cassandra_Peterson/UZaHdigy2L8_0000002 50.2 60.4 
+Cassandra_Peterson/UZaHdigy2L8_0000003 74.0 78.7 

@@ -1,0 +1,13 @@
+POI: 			Shiloh_Fernandez 
+Youtube ID: 	enuEjR3Px7o 
+Video length: 	211.5 sec 
+Set (V): 		dev 
+ 
+Shiloh_Fernandez/enuEjR3Px7o_0000001 31.0 41.2 
+Shiloh_Fernandez/enuEjR3Px7o_0000002 44.2 55.2 
+Shiloh_Fernandez/enuEjR3Px7o_0000003 63.5 67.8 
+Shiloh_Fernandez/enuEjR3Px7o_0000004 117.6 122.0 
+Shiloh_Fernandez/enuEjR3Px7o_0000005 140.4 145.0 
+Shiloh_Fernandez/enuEjR3Px7o_0000006 145.8 152.6 
+Shiloh_Fernandez/enuEjR3Px7o_0000007 153.5 162.8 
+Shiloh_Fernandez/enuEjR3Px7o_0000008 195.0 201.5 

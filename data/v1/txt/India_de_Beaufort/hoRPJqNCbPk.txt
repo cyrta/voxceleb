@@ -1,0 +1,7 @@
+POI: 			India_de_Beaufort 
+Youtube ID: 	hoRPJqNCbPk 
+Video length: 	21.6 sec 
+Set (V): 		dev 
+ 
+India_de_Beaufort/hoRPJqNCbPk_0000001 00.8 10.4 
+India_de_Beaufort/hoRPJqNCbPk_0000002 10.9 19.2 

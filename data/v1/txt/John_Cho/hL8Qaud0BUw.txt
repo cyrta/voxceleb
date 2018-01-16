@@ -1,0 +1,15 @@
+POI: 			John_Cho 
+Youtube ID: 	hL8Qaud0BUw 
+Video length: 	504.5 sec 
+Set (V): 		dev 
+ 
+John_Cho/hL8Qaud0BUw_0000001 46.1 51.6 
+John_Cho/hL8Qaud0BUw_0000002 68.9 73.0 
+John_Cho/hL8Qaud0BUw_0000003 94.5 99.7 
+John_Cho/hL8Qaud0BUw_0000004 68.9 72.9 
+John_Cho/hL8Qaud0BUw_0000005 82.1 88.4 
+John_Cho/hL8Qaud0BUw_0000006 175.5 183.4 
+John_Cho/hL8Qaud0BUw_0000007 312.4 317.1 
+John_Cho/hL8Qaud0BUw_0000008 339.8 346.9 
+John_Cho/hL8Qaud0BUw_0000009 388.6 394.3 
+John_Cho/hL8Qaud0BUw_0000010 411.6 416.4 

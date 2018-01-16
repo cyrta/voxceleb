@@ -1,0 +1,8 @@
+POI: 			Xavier_Samuel 
+Youtube ID: 	Jnl9Ss0OUos 
+Video length: 	270.1 sec 
+Set (V): 		dev 
+ 
+Xavier_Samuel/Jnl9Ss0OUos_0000001 10.9 18.4 
+Xavier_Samuel/Jnl9Ss0OUos_0000002 190.2 194.8 
+Xavier_Samuel/Jnl9Ss0OUos_0000003 197.1 203.0 

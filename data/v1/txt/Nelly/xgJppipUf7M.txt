@@ -1,0 +1,9 @@
+POI: 			Nelly 
+Youtube ID: 	xgJppipUf7M 
+Video length: 	164.2 sec 
+Set (V): 		dev 
+ 
+Nelly/xgJppipUf7M_0000001 43.4 51.4 
+Nelly/xgJppipUf7M_0000002 96.1 101.2 
+Nelly/xgJppipUf7M_0000003 138.9 143.1 
+Nelly/xgJppipUf7M_0000004 146.0 152.3 

@@ -1,0 +1,7 @@
+POI: 			Josh_Radnor 
+Youtube ID: 	ETuQsDNu3tg 
+Video length: 	261.0 sec 
+Set (V): 		dev 
+ 
+Josh_Radnor/ETuQsDNu3tg_0000001 79.8 83.8 
+Josh_Radnor/ETuQsDNu3tg_0000002 237.6 242.6 

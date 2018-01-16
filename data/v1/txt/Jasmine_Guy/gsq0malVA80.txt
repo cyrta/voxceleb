@@ -1,0 +1,9 @@
+POI: 			Jasmine_Guy 
+Youtube ID: 	gsq0malVA80 
+Video length: 	219.9 sec 
+Set (V): 		dev 
+ 
+Jasmine_Guy/gsq0malVA80_0000001 08.7 20.5 
+Jasmine_Guy/gsq0malVA80_0000002 27.4 35.4 
+Jasmine_Guy/gsq0malVA80_0000003 42.2 48.8 
+Jasmine_Guy/gsq0malVA80_0000004 49.2 59.2 

@@ -1,0 +1,10 @@
+POI: 			Paul_Feig 
+Youtube ID: 	3eOLzFdEjYU 
+Video length: 	119.4 sec 
+Set (V): 		dev 
+ 
+Paul_Feig/3eOLzFdEjYU_0000001 04.5 11.3 
+Paul_Feig/3eOLzFdEjYU_0000002 11.6 50.2 
+Paul_Feig/3eOLzFdEjYU_0000003 51.2 65.6 
+Paul_Feig/3eOLzFdEjYU_0000004 73.6 98.4 
+Paul_Feig/3eOLzFdEjYU_0000005 104.0 112.0 

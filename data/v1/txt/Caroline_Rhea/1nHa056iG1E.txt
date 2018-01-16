@@ -1,0 +1,16 @@
+POI: 			Caroline_Rhea 
+Youtube ID: 	1nHa056iG1E 
+Video length: 	837.3 sec 
+Set (V): 		dev 
+ 
+Caroline_Rhea/1nHa056iG1E_0000001 79.6 85.6 
+Caroline_Rhea/1nHa056iG1E_0000002 220.6 227.1 
+Caroline_Rhea/1nHa056iG1E_0000003 415.8 421.4 
+Caroline_Rhea/1nHa056iG1E_0000004 430.7 436.0 
+Caroline_Rhea/1nHa056iG1E_0000005 478.4 485.1 
+Caroline_Rhea/1nHa056iG1E_0000006 598.2 606.2 
+Caroline_Rhea/1nHa056iG1E_0000007 637.0 642.2 
+Caroline_Rhea/1nHa056iG1E_0000008 739.3 744.2 
+Caroline_Rhea/1nHa056iG1E_0000009 750.5 755.0 
+Caroline_Rhea/1nHa056iG1E_0000010 758.0 762.7 
+Caroline_Rhea/1nHa056iG1E_0000011 775.8 783.9 

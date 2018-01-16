@@ -1,0 +1,8 @@
+POI: 			Yeardley_Smith 
+Youtube ID: 	ZhiSuXBGiak 
+Video length: 	95.0 sec 
+Set (V): 		dev 
+ 
+Yeardley_Smith/ZhiSuXBGiak_0000001 22.4 27.3 
+Yeardley_Smith/ZhiSuXBGiak_0000002 69.5 74.5 
+Yeardley_Smith/ZhiSuXBGiak_0000003 77.1 83.9 

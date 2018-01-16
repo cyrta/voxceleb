@@ -1,0 +1,17 @@
+POI: 			Kevin_Bacon 
+Youtube ID: 	LEiE-nlbgfY 
+Video length: 	447.8 sec 
+Set (V): 		dev 
+ 
+Kevin_Bacon/LEiE-nlbgfY_0000001 93.0 97.7 
+Kevin_Bacon/LEiE-nlbgfY_0000002 103.8 113.0 
+Kevin_Bacon/LEiE-nlbgfY_0000003 115.5 124.0 
+Kevin_Bacon/LEiE-nlbgfY_0000004 152.5 156.6 
+Kevin_Bacon/LEiE-nlbgfY_0000005 174.6 184.2 
+Kevin_Bacon/LEiE-nlbgfY_0000006 247.6 255.4 
+Kevin_Bacon/LEiE-nlbgfY_0000007 256.5 260.5 
+Kevin_Bacon/LEiE-nlbgfY_0000008 316.4 320.5 
+Kevin_Bacon/LEiE-nlbgfY_0000009 329.2 334.4 
+Kevin_Bacon/LEiE-nlbgfY_0000010 355.3 361.4 
+Kevin_Bacon/LEiE-nlbgfY_0000011 372.0 384.0 
+Kevin_Bacon/LEiE-nlbgfY_0000012 406.3 422.7 

@@ -1,0 +1,7 @@
+POI: 			Drew_Carey 
+Youtube ID: 	HVmTlDRGT0w 
+Video length: 	671.1 sec 
+Set (V): 		dev 
+ 
+Drew_Carey/HVmTlDRGT0w_0000001 184.6 189.2 
+Drew_Carey/HVmTlDRGT0w_0000002 528.2 541.2 

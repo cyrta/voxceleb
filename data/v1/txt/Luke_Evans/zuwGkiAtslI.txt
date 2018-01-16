@@ -1,0 +1,15 @@
+POI: 			Luke_Evans 
+Youtube ID: 	zuwGkiAtslI 
+Video length: 	368.5 sec 
+Set (V): 		dev 
+ 
+Luke_Evans/zuwGkiAtslI_0000001 39.9 45.4 
+Luke_Evans/zuwGkiAtslI_0000002 88.0 96.9 
+Luke_Evans/zuwGkiAtslI_0000003 127.1 139.1 
+Luke_Evans/zuwGkiAtslI_0000004 140.0 147.9 
+Luke_Evans/zuwGkiAtslI_0000005 171.0 175.5 
+Luke_Evans/zuwGkiAtslI_0000006 206.7 213.0 
+Luke_Evans/zuwGkiAtslI_0000007 220.0 229.0 
+Luke_Evans/zuwGkiAtslI_0000008 234.2 241.8 
+Luke_Evans/zuwGkiAtslI_0000009 281.7 289.8 
+Luke_Evans/zuwGkiAtslI_0000010 317.5 323.8 

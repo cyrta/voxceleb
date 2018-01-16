@@ -1,0 +1,15 @@
+POI: 			Joel_Edgerton 
+Youtube ID: 	2glomUFi-O4 
+Video length: 	461.9 sec 
+Set (V): 		dev 
+ 
+Joel_Edgerton/2glomUFi-O4_0000001 07.9 12.9 
+Joel_Edgerton/2glomUFi-O4_0000002 33.9 39.7 
+Joel_Edgerton/2glomUFi-O4_0000003 41.0 45.8 
+Joel_Edgerton/2glomUFi-O4_0000004 47.3 51.3 
+Joel_Edgerton/2glomUFi-O4_0000005 88.8 101.2 
+Joel_Edgerton/2glomUFi-O4_0000006 243.1 248.2 
+Joel_Edgerton/2glomUFi-O4_0000007 260.6 267.2 
+Joel_Edgerton/2glomUFi-O4_0000008 338.1 343.4 
+Joel_Edgerton/2glomUFi-O4_0000009 412.3 422.4 
+Joel_Edgerton/2glomUFi-O4_0000010 427.6 432.1 

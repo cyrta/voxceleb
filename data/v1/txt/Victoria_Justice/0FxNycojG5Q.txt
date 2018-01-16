@@ -1,0 +1,9 @@
+POI: 			Victoria_Justice 
+Youtube ID: 	0FxNycojG5Q 
+Video length: 	290.9 sec 
+Set (V): 		dev 
+ 
+Victoria_Justice/0FxNycojG5Q_0000001 66.9 72.3 
+Victoria_Justice/0FxNycojG5Q_0000002 113.0 120.1 
+Victoria_Justice/0FxNycojG5Q_0000003 181.2 186.0 
+Victoria_Justice/0FxNycojG5Q_0000004 186.2 191.2 

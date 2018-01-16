@@ -1,0 +1,10 @@
+POI: 			Karla_Souza 
+Youtube ID: 	DIrziODfMKs 
+Video length: 	100.1 sec 
+Set (V): 		dev 
+ 
+Karla_Souza/DIrziODfMKs_0000001 17.0 51.4 
+Karla_Souza/DIrziODfMKs_0000002 51.9 60.3 
+Karla_Souza/DIrziODfMKs_0000003 66.8 70.8 
+Karla_Souza/DIrziODfMKs_0000004 80.4 87.2 
+Karla_Souza/DIrziODfMKs_0000005 90.6 95.5 

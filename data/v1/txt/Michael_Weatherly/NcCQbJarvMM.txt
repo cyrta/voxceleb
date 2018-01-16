@@ -1,0 +1,9 @@
+POI: 			Michael_Weatherly 
+Youtube ID: 	NcCQbJarvMM 
+Video length: 	330.7 sec 
+Set (V): 		dev 
+ 
+Michael_Weatherly/NcCQbJarvMM_0000001 100.6 106.4 
+Michael_Weatherly/NcCQbJarvMM_0000002 151.6 155.8 
+Michael_Weatherly/NcCQbJarvMM_0000003 243.3 253.0 
+Michael_Weatherly/NcCQbJarvMM_0000004 292.4 299.2 

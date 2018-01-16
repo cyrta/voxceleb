@@ -1,0 +1,8 @@
+POI: 			Whitney_Cummings 
+Youtube ID: 	adsJmNb7z_Y 
+Video length: 	292.2 sec 
+Set (V): 		dev 
+ 
+Whitney_Cummings/adsJmNb7z_Y_0000001 77.4 84.0 
+Whitney_Cummings/adsJmNb7z_Y_0000002 117.5 123.2 
+Whitney_Cummings/adsJmNb7z_Y_0000003 191.0 195.3 

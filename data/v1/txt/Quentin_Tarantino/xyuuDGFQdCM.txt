@@ -1,0 +1,43 @@
+POI: 			Quentin_Tarantino 
+Youtube ID: 	xyuuDGFQdCM 
+Video length: 	923.9 sec 
+Set (V): 		dev 
+ 
+Quentin_Tarantino/xyuuDGFQdCM_0000001 31.7 37.4 
+Quentin_Tarantino/xyuuDGFQdCM_0000002 43.8 51.4 
+Quentin_Tarantino/xyuuDGFQdCM_0000003 51.8 57.8 
+Quentin_Tarantino/xyuuDGFQdCM_0000004 68.5 74.1 
+Quentin_Tarantino/xyuuDGFQdCM_0000005 75.0 90.3 
+Quentin_Tarantino/xyuuDGFQdCM_0000006 92.1 112.5 
+Quentin_Tarantino/xyuuDGFQdCM_0000007 128.5 135.8 
+Quentin_Tarantino/xyuuDGFQdCM_0000008 140.2 148.4 
+Quentin_Tarantino/xyuuDGFQdCM_0000009 155.5 159.5 
+Quentin_Tarantino/xyuuDGFQdCM_0000010 165.6 173.1 
+Quentin_Tarantino/xyuuDGFQdCM_0000011 175.1 179.9 
+Quentin_Tarantino/xyuuDGFQdCM_0000012 190.7 197.6 
+Quentin_Tarantino/xyuuDGFQdCM_0000013 201.7 208.2 
+Quentin_Tarantino/xyuuDGFQdCM_0000014 222.6 227.8 
+Quentin_Tarantino/xyuuDGFQdCM_0000015 269.7 275.2 
+Quentin_Tarantino/xyuuDGFQdCM_0000016 294.1 307.6 
+Quentin_Tarantino/xyuuDGFQdCM_0000017 314.9 330.3 
+Quentin_Tarantino/xyuuDGFQdCM_0000018 359.6 370.9 
+Quentin_Tarantino/xyuuDGFQdCM_0000019 380.4 385.0 
+Quentin_Tarantino/xyuuDGFQdCM_0000020 418.6 427.0 
+Quentin_Tarantino/xyuuDGFQdCM_0000021 433.2 438.6 
+Quentin_Tarantino/xyuuDGFQdCM_0000022 440.6 453.9 
+Quentin_Tarantino/xyuuDGFQdCM_0000023 455.7 465.9 
+Quentin_Tarantino/xyuuDGFQdCM_0000024 469.9 478.6 
+Quentin_Tarantino/xyuuDGFQdCM_0000025 480.4 492.0 
+Quentin_Tarantino/xyuuDGFQdCM_0000026 516.8 522.4 
+Quentin_Tarantino/xyuuDGFQdCM_0000027 524.2 528.6 
+Quentin_Tarantino/xyuuDGFQdCM_0000028 528.9 539.2 
+Quentin_Tarantino/xyuuDGFQdCM_0000029 571.6 581.0 
+Quentin_Tarantino/xyuuDGFQdCM_0000030 583.1 595.0 
+Quentin_Tarantino/xyuuDGFQdCM_0000031 599.4 605.4 
+Quentin_Tarantino/xyuuDGFQdCM_0000032 777.8 793.0 
+Quentin_Tarantino/xyuuDGFQdCM_0000033 795.2 806.5 
+Quentin_Tarantino/xyuuDGFQdCM_0000034 808.4 812.5 
+Quentin_Tarantino/xyuuDGFQdCM_0000035 815.4 823.9 
+Quentin_Tarantino/xyuuDGFQdCM_0000036 849.6 854.2 
+Quentin_Tarantino/xyuuDGFQdCM_0000037 870.9 878.4 
+Quentin_Tarantino/xyuuDGFQdCM_0000038 896.9 904.5 

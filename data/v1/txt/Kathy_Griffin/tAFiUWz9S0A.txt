@@ -1,0 +1,10 @@
+POI: 			Kathy_Griffin 
+Youtube ID: 	tAFiUWz9S0A 
+Video length: 	735.1 sec 
+Set (V): 		dev 
+ 
+Kathy_Griffin/tAFiUWz9S0A_0000001 312.4 319.0 
+Kathy_Griffin/tAFiUWz9S0A_0000002 385.9 390.4 
+Kathy_Griffin/tAFiUWz9S0A_0000003 395.1 399.4 
+Kathy_Griffin/tAFiUWz9S0A_0000004 412.3 417.9 
+Kathy_Griffin/tAFiUWz9S0A_0000005 540.7 548.1 

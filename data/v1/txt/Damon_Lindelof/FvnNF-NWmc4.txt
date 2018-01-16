@@ -1,0 +1,12 @@
+POI: 			Damon_Lindelof 
+Youtube ID: 	FvnNF-NWmc4 
+Video length: 	196.5 sec 
+Set (V): 		dev 
+ 
+Damon_Lindelof/FvnNF-NWmc4_0000001 69.7 78.7 
+Damon_Lindelof/FvnNF-NWmc4_0000002 90.7 95.0 
+Damon_Lindelof/FvnNF-NWmc4_0000003 99.2 111.1 
+Damon_Lindelof/FvnNF-NWmc4_0000004 130.3 151.6 
+Damon_Lindelof/FvnNF-NWmc4_0000005 159.2 172.2 
+Damon_Lindelof/FvnNF-NWmc4_0000006 182.0 187.5 
+Damon_Lindelof/FvnNF-NWmc4_0000007 188.4 192.8 

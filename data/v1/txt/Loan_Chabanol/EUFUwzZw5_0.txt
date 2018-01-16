@@ -1,0 +1,8 @@
+POI: 			Loan_Chabanol 
+Youtube ID: 	EUFUwzZw5_0 
+Video length: 	297.2 sec 
+Set (V): 		dev 
+ 
+Loan_Chabanol/EUFUwzZw5_0_0000001 97.6 102.0 
+Loan_Chabanol/EUFUwzZw5_0_0000002 116.8 125.6 
+Loan_Chabanol/EUFUwzZw5_0_0000003 273.0 277.8 

@@ -1,0 +1,10 @@
+POI: 			Hilary_Swank 
+Youtube ID: 	bWGNsP26ttQ 
+Video length: 	277.4 sec 
+Set (V): 		dev 
+ 
+Hilary_Swank/bWGNsP26ttQ_0000001 130.4 134.8 
+Hilary_Swank/bWGNsP26ttQ_0000002 134.9 143.9 
+Hilary_Swank/bWGNsP26ttQ_0000003 169.0 173.2 
+Hilary_Swank/bWGNsP26ttQ_0000004 179.1 185.2 
+Hilary_Swank/bWGNsP26ttQ_0000005 192.2 199.9 

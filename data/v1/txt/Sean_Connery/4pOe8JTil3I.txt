@@ -1,0 +1,18 @@
+POI: 			Sean_Connery 
+Youtube ID: 	4pOe8JTil3I 
+Video length: 	823.7 sec 
+Set (V): 		dev 
+ 
+Sean_Connery/4pOe8JTil3I_0000001 38.5 47.7 
+Sean_Connery/4pOe8JTil3I_0000002 236.2 240.3 
+Sean_Connery/4pOe8JTil3I_0000003 342.4 346.5 
+Sean_Connery/4pOe8JTil3I_0000004 388.1 394.8 
+Sean_Connery/4pOe8JTil3I_0000005 409.5 415.9 
+Sean_Connery/4pOe8JTil3I_0000006 424.2 430.6 
+Sean_Connery/4pOe8JTil3I_0000007 432.2 441.6 
+Sean_Connery/4pOe8JTil3I_0000008 506.8 511.4 
+Sean_Connery/4pOe8JTil3I_0000009 560.0 564.1 
+Sean_Connery/4pOe8JTil3I_0000010 603.7 607.9 
+Sean_Connery/4pOe8JTil3I_0000011 710.2 719.1 
+Sean_Connery/4pOe8JTil3I_0000012 728.0 732.6 
+Sean_Connery/4pOe8JTil3I_0000013 814.4 820.3 

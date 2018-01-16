@@ -1,0 +1,12 @@
+POI: 			John_Simm 
+Youtube ID: 	xG98PVuQqx0 
+Video length: 	337.7 sec 
+Set (V): 		dev 
+ 
+John_Simm/xG98PVuQqx0_0000001 58.3 65.8 
+John_Simm/xG98PVuQqx0_0000002 84.3 89.0 
+John_Simm/xG98PVuQqx0_0000003 97.6 103.4 
+John_Simm/xG98PVuQqx0_0000004 111.9 121.0 
+John_Simm/xG98PVuQqx0_0000005 143.0 148.2 
+John_Simm/xG98PVuQqx0_0000006 165.9 178.4 
+John_Simm/xG98PVuQqx0_0000007 234.2 241.0 

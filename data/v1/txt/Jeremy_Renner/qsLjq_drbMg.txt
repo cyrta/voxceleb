@@ -1,0 +1,10 @@
+POI: 			Jeremy_Renner 
+Youtube ID: 	qsLjq_drbMg 
+Video length: 	101.4 sec 
+Set (V): 		dev 
+ 
+Jeremy_Renner/qsLjq_drbMg_0000001 12.3 16.3 
+Jeremy_Renner/qsLjq_drbMg_0000002 20.7 29.1 
+Jeremy_Renner/qsLjq_drbMg_0000003 36.2 48.4 
+Jeremy_Renner/qsLjq_drbMg_0000004 67.6 74.2 
+Jeremy_Renner/qsLjq_drbMg_0000005 74.4 85.4 

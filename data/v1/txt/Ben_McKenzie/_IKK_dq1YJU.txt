@@ -1,0 +1,12 @@
+POI: 			Ben_McKenzie 
+Youtube ID: 	_IKK_dq1YJU 
+Video length: 	163.7 sec 
+Set (V): 		dev 
+ 
+Ben_McKenzie/_IKK_dq1YJU_0000001 57.1 61.5 
+Ben_McKenzie/_IKK_dq1YJU_0000002 73.0 81.8 
+Ben_McKenzie/_IKK_dq1YJU_0000003 84.3 89.8 
+Ben_McKenzie/_IKK_dq1YJU_0000004 90.0 95.2 
+Ben_McKenzie/_IKK_dq1YJU_0000005 98.3 116.9 
+Ben_McKenzie/_IKK_dq1YJU_0000006 130.4 134.4 
+Ben_McKenzie/_IKK_dq1YJU_0000007 147.8 153.9 

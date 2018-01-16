@@ -1,0 +1,13 @@
+POI: 			Dave_Bautista 
+Youtube ID: 	XisAXLqM70g 
+Video length: 	187.7 sec 
+Set (V): 		dev 
+ 
+Dave_Bautista/XisAXLqM70g_0000001 23.8 27.8 
+Dave_Bautista/XisAXLqM70g_0000002 32.0 38.7 
+Dave_Bautista/XisAXLqM70g_0000003 71.4 80.8 
+Dave_Bautista/XisAXLqM70g_0000004 89.8 95.3 
+Dave_Bautista/XisAXLqM70g_0000005 95.7 99.9 
+Dave_Bautista/XisAXLqM70g_0000006 126.8 132.1 
+Dave_Bautista/XisAXLqM70g_0000007 136.5 142.4 
+Dave_Bautista/XisAXLqM70g_0000008 163.1 172.9 

@@ -1,0 +1,12 @@
+POI: 			Patrick_Wilson 
+Youtube ID: 	678XYLmOZic 
+Video length: 	247.8 sec 
+Set (V): 		dev 
+ 
+Patrick_Wilson/678XYLmOZic_0000001 64.0 69.0 
+Patrick_Wilson/678XYLmOZic_0000002 70.0 109.0 
+Patrick_Wilson/678XYLmOZic_0000003 119.4 136.1 
+Patrick_Wilson/678XYLmOZic_0000004 191.8 204.8 
+Patrick_Wilson/678XYLmOZic_0000005 207.9 212.4 
+Patrick_Wilson/678XYLmOZic_0000006 212.8 235.5 
+Patrick_Wilson/678XYLmOZic_0000007 241.5 246.2 

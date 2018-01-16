@@ -1,0 +1,8 @@
+POI: 			Caterina_Murino 
+Youtube ID: 	lKdWD-TDBbs 
+Video length: 	237.1 sec 
+Set (V): 		dev 
+ 
+Caterina_Murino/lKdWD-TDBbs_0000001 71.6 78.5 
+Caterina_Murino/lKdWD-TDBbs_0000002 78.1 87.5 
+Caterina_Murino/lKdWD-TDBbs_0000003 106.6 111.8 

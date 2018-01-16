@@ -1,0 +1,13 @@
+POI: 			Kelli_Berglund 
+Youtube ID: 	npjq-XmQUrQ 
+Video length: 	216.7 sec 
+Set (V): 		dev 
+ 
+Kelli_Berglund/npjq-XmQUrQ_0000001 09.6 14.6 
+Kelli_Berglund/npjq-XmQUrQ_0000002 39.4 45.9 
+Kelli_Berglund/npjq-XmQUrQ_0000003 101.5 108.0 
+Kelli_Berglund/npjq-XmQUrQ_0000004 108.1 120.3 
+Kelli_Berglund/npjq-XmQUrQ_0000005 120.4 127.0 
+Kelli_Berglund/npjq-XmQUrQ_0000006 130.3 134.7 
+Kelli_Berglund/npjq-XmQUrQ_0000007 145.2 154.0 
+Kelli_Berglund/npjq-XmQUrQ_0000008 192.0 198.3 

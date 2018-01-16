@@ -1,0 +1,9 @@
+POI: 			Zack_Snyder 
+Youtube ID: 	PKEClK0npjs 
+Video length: 	242.0 sec 
+Set (V): 		dev 
+ 
+Zack_Snyder/PKEClK0npjs_0000001 48.3 53.2 
+Zack_Snyder/PKEClK0npjs_0000002 104.2 116.7 
+Zack_Snyder/PKEClK0npjs_0000003 142.3 148.2 
+Zack_Snyder/PKEClK0npjs_0000004 203.3 209.8 

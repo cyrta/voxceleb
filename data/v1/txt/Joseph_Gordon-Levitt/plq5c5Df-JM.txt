@@ -1,0 +1,8 @@
+POI: 			Joseph_Gordon-Levitt 
+Youtube ID: 	plq5c5Df-JM 
+Video length: 	197.6 sec 
+Set (V): 		dev 
+ 
+Joseph_Gordon-Levitt/plq5c5Df-JM_0000001 12.7 16.9 
+Joseph_Gordon-Levitt/plq5c5Df-JM_0000002 20.3 30.8 
+Joseph_Gordon-Levitt/plq5c5Df-JM_0000003 33.9 38.2 

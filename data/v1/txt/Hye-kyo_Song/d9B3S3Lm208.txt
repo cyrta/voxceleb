@@ -1,0 +1,17 @@
+POI: 			Hye-kyo_Song 
+Youtube ID: 	d9B3S3Lm208 
+Video length: 	301.5 sec 
+Set (V): 		dev 
+ 
+Hye-kyo_Song/d9B3S3Lm208_0000001 28.2 38.1 
+Hye-kyo_Song/d9B3S3Lm208_0000002 67.2 75.1 
+Hye-kyo_Song/d9B3S3Lm208_0000003 96.6 100.8 
+Hye-kyo_Song/d9B3S3Lm208_0000004 105.5 111.7 
+Hye-kyo_Song/d9B3S3Lm208_0000005 140.6 146.8 
+Hye-kyo_Song/d9B3S3Lm208_0000006 181.0 186.1 
+Hye-kyo_Song/d9B3S3Lm208_0000007 191.4 199.0 
+Hye-kyo_Song/d9B3S3Lm208_0000008 245.2 251.6 
+Hye-kyo_Song/d9B3S3Lm208_0000009 255.9 260.5 
+Hye-kyo_Song/d9B3S3Lm208_0000010 261.3 266.6 
+Hye-kyo_Song/d9B3S3Lm208_0000011 267.9 272.3 
+Hye-kyo_Song/d9B3S3Lm208_0000012 280.6 287.4 

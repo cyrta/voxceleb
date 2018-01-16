@@ -1,0 +1,14 @@
+POI: 			Lindsay_Duncan 
+Youtube ID: 	asheJEQWnuo 
+Video length: 	1146.5 sec 
+Set (V): 		dev 
+ 
+Lindsay_Duncan/asheJEQWnuo_0000001 917.4 921.8 
+Lindsay_Duncan/asheJEQWnuo_0000002 961.0 968.0 
+Lindsay_Duncan/asheJEQWnuo_0000003 968.1 972.4 
+Lindsay_Duncan/asheJEQWnuo_0000004 985.4 995.7 
+Lindsay_Duncan/asheJEQWnuo_0000005 997.0 1003.7 
+Lindsay_Duncan/asheJEQWnuo_0000006 1011.2 1018.2 
+Lindsay_Duncan/asheJEQWnuo_0000007 1075.3 1081.5 
+Lindsay_Duncan/asheJEQWnuo_0000008 1089.5 1095.4 
+Lindsay_Duncan/asheJEQWnuo_0000009 1102.2 1109.8 

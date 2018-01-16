@@ -1,0 +1,10 @@
+POI: 			Natalie_Martinez 
+Youtube ID: 	7dM2F1NL2cY 
+Video length: 	127.6 sec 
+Set (V): 		dev 
+ 
+Natalie_Martinez/7dM2F1NL2cY_0000001 09.6 19.2 
+Natalie_Martinez/7dM2F1NL2cY_0000002 19.6 27.8 
+Natalie_Martinez/7dM2F1NL2cY_0000003 34.9 43.6 
+Natalie_Martinez/7dM2F1NL2cY_0000004 44.5 52.5 
+Natalie_Martinez/7dM2F1NL2cY_0000005 53.3 63.7 

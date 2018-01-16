@@ -1,0 +1,25 @@
+POI: 			Geri_Halliwell 
+Youtube ID: 	D5JvrPaUCJw 
+Video length: 	1419.3 sec 
+Set (V): 		dev 
+ 
+Geri_Halliwell/D5JvrPaUCJw_0000001 101.4 105.6 
+Geri_Halliwell/D5JvrPaUCJw_0000002 121.6 132.9 
+Geri_Halliwell/D5JvrPaUCJw_0000003 268.7 283.4 
+Geri_Halliwell/D5JvrPaUCJw_0000004 362.5 367.0 
+Geri_Halliwell/D5JvrPaUCJw_0000005 395.2 399.2 
+Geri_Halliwell/D5JvrPaUCJw_0000006 547.8 552.0 
+Geri_Halliwell/D5JvrPaUCJw_0000007 568.7 574.8 
+Geri_Halliwell/D5JvrPaUCJw_0000008 604.6 612.3 
+Geri_Halliwell/D5JvrPaUCJw_0000009 667.5 674.2 
+Geri_Halliwell/D5JvrPaUCJw_0000010 681.2 686.5 
+Geri_Halliwell/D5JvrPaUCJw_0000011 705.4 710.3 
+Geri_Halliwell/D5JvrPaUCJw_0000012 813.5 819.4 
+Geri_Halliwell/D5JvrPaUCJw_0000013 848.2 855.8 
+Geri_Halliwell/D5JvrPaUCJw_0000014 921.5 930.1 
+Geri_Halliwell/D5JvrPaUCJw_0000015 948.3 953.3 
+Geri_Halliwell/D5JvrPaUCJw_0000016 1029.4 1037.7 
+Geri_Halliwell/D5JvrPaUCJw_0000017 1041.8 1049.6 
+Geri_Halliwell/D5JvrPaUCJw_0000018 1085.3 1091.0 
+Geri_Halliwell/D5JvrPaUCJw_0000019 1092.9 1098.0 
+Geri_Halliwell/D5JvrPaUCJw_0000020 1178.4 1188.0 

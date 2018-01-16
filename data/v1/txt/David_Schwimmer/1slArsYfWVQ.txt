@@ -1,0 +1,22 @@
+POI: 			David_Schwimmer 
+Youtube ID: 	1slArsYfWVQ 
+Video length: 	288.7 sec 
+Set (V): 		dev 
+ 
+David_Schwimmer/1slArsYfWVQ_0000001 16.6 29.2 
+David_Schwimmer/1slArsYfWVQ_0000002 30.2 34.7 
+David_Schwimmer/1slArsYfWVQ_0000003 34.9 41.4 
+David_Schwimmer/1slArsYfWVQ_0000004 47.2 52.4 
+David_Schwimmer/1slArsYfWVQ_0000005 54.6 80.6 
+David_Schwimmer/1slArsYfWVQ_0000006 94.5 103.1 
+David_Schwimmer/1slArsYfWVQ_0000007 104.3 108.7 
+David_Schwimmer/1slArsYfWVQ_0000008 109.0 115.6 
+David_Schwimmer/1slArsYfWVQ_0000009 128.6 145.9 
+David_Schwimmer/1slArsYfWVQ_0000010 159.4 167.6 
+David_Schwimmer/1slArsYfWVQ_0000011 169.6 179.4 
+David_Schwimmer/1slArsYfWVQ_0000012 200.8 208.2 
+David_Schwimmer/1slArsYfWVQ_0000013 208.4 230.9 
+David_Schwimmer/1slArsYfWVQ_0000014 233.7 240.5 
+David_Schwimmer/1slArsYfWVQ_0000015 246.1 256.3 
+David_Schwimmer/1slArsYfWVQ_0000016 260.0 275.8 
+David_Schwimmer/1slArsYfWVQ_0000017 276.5 284.7 

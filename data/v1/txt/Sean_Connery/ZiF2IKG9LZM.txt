@@ -1,0 +1,7 @@
+POI: 			Sean_Connery 
+Youtube ID: 	ZiF2IKG9LZM 
+Video length: 	193.3 sec 
+Set (V): 		dev 
+ 
+Sean_Connery/ZiF2IKG9LZM_0000001 135.1 140.0 
+Sean_Connery/ZiF2IKG9LZM_0000002 161.6 167.6 

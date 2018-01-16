@@ -1,0 +1,7 @@
+POI: 			Robbie_Amell 
+Youtube ID: 	74ajcIZdUkU 
+Video length: 	370.9 sec 
+Set (V): 		dev 
+ 
+Robbie_Amell/74ajcIZdUkU_0000001 201.2 205.9 
+Robbie_Amell/74ajcIZdUkU_0000002 210.8 215.4 

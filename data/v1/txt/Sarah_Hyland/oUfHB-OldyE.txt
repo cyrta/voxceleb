@@ -1,0 +1,7 @@
+POI: 			Sarah_Hyland 
+Youtube ID: 	oUfHB-OldyE 
+Video length: 	80.5 sec 
+Set (V): 		dev 
+ 
+Sarah_Hyland/oUfHB-OldyE_0000001 08.9 16.5 
+Sarah_Hyland/oUfHB-OldyE_0000002 32.5 39.4 

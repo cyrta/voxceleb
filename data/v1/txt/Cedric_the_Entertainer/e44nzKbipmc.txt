@@ -1,0 +1,8 @@
+POI: 			Cedric_the_Entertainer 
+Youtube ID: 	e44nzKbipmc 
+Video length: 	123.7 sec 
+Set (V): 		dev 
+ 
+Cedric_the_Entertainer/e44nzKbipmc_0000001 09.7 18.1 
+Cedric_the_Entertainer/e44nzKbipmc_0000002 20.8 28.7 
+Cedric_the_Entertainer/e44nzKbipmc_0000003 89.6 100.0 

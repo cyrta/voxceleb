@@ -1,0 +1,11 @@
+POI: 			Will_Poulter 
+Youtube ID: 	coskdmefi7k 
+Video length: 	216.1 sec 
+Set (V): 		dev 
+ 
+Will_Poulter/coskdmefi7k_0000001 21.8 34.0 
+Will_Poulter/coskdmefi7k_0000002 38.3 44.0 
+Will_Poulter/coskdmefi7k_0000003 102.8 111.6 
+Will_Poulter/coskdmefi7k_0000004 176.6 183.1 
+Will_Poulter/coskdmefi7k_0000005 203.8 208.4 
+Will_Poulter/coskdmefi7k_0000006 209.9 214.0 

@@ -1,0 +1,9 @@
+POI: 			Victoria_Rowell 
+Youtube ID: 	Az6NuCjd6Ug 
+Video length: 	150.9 sec 
+Set (V): 		dev 
+ 
+Victoria_Rowell/Az6NuCjd6Ug_0000001 29.8 34.7 
+Victoria_Rowell/Az6NuCjd6Ug_0000002 67.6 74.0 
+Victoria_Rowell/Az6NuCjd6Ug_0000003 91.5 97.1 
+Victoria_Rowell/Az6NuCjd6Ug_0000004 101.1 105.9 

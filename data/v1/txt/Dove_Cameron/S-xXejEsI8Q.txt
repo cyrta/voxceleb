@@ -1,0 +1,12 @@
+POI: 			Dove_Cameron 
+Youtube ID: 	S-xXejEsI8Q 
+Video length: 	219.5 sec 
+Set (V): 		dev 
+ 
+Dove_Cameron/S-xXejEsI8Q_0000001 43.9 56.8 
+Dove_Cameron/S-xXejEsI8Q_0000002 64.3 70.4 
+Dove_Cameron/S-xXejEsI8Q_0000003 103.7 107.8 
+Dove_Cameron/S-xXejEsI8Q_0000004 140.5 147.0 
+Dove_Cameron/S-xXejEsI8Q_0000005 153.0 164.0 
+Dove_Cameron/S-xXejEsI8Q_0000006 177.0 183.2 
+Dove_Cameron/S-xXejEsI8Q_0000007 183.3 188.1 

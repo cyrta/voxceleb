@@ -1,0 +1,10 @@
+POI: 			Skylar_Astin 
+Youtube ID: 	AYGVlY5UxNE 
+Video length: 	263.4 sec 
+Set (V): 		dev 
+ 
+Skylar_Astin/AYGVlY5UxNE_0000001 127.2 136.6 
+Skylar_Astin/AYGVlY5UxNE_0000002 137.0 150.2 
+Skylar_Astin/AYGVlY5UxNE_0000003 152.1 161.2 
+Skylar_Astin/AYGVlY5UxNE_0000004 163.2 169.8 
+Skylar_Astin/AYGVlY5UxNE_0000005 170.1 174.4 

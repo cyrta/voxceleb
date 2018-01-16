@@ -1,0 +1,11 @@
+POI: 			Mary_McDonnell 
+Youtube ID: 	tnzkOmGYyNw 
+Video length: 	433.2 sec 
+Set (V): 		dev 
+ 
+Mary_McDonnell/tnzkOmGYyNw_0000001 34.3 39.4 
+Mary_McDonnell/tnzkOmGYyNw_0000002 84.3 88.9 
+Mary_McDonnell/tnzkOmGYyNw_0000003 125.9 131.3 
+Mary_McDonnell/tnzkOmGYyNw_0000004 254.7 268.1 
+Mary_McDonnell/tnzkOmGYyNw_0000005 268.6 275.2 
+Mary_McDonnell/tnzkOmGYyNw_0000006 349.7 354.2 

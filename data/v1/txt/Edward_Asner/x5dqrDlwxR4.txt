@@ -1,0 +1,13 @@
+POI: 			Edward_Asner 
+Youtube ID: 	x5dqrDlwxR4 
+Video length: 	297.5 sec 
+Set (V): 		test 
+ 
+Edward_Asner/x5dqrDlwxR4_0000001 100.0 105.7 
+Edward_Asner/x5dqrDlwxR4_0000002 105.8 110.1 
+Edward_Asner/x5dqrDlwxR4_0000003 147.2 159.9 
+Edward_Asner/x5dqrDlwxR4_0000004 177.7 182.0 
+Edward_Asner/x5dqrDlwxR4_0000005 209.2 218.0 
+Edward_Asner/x5dqrDlwxR4_0000006 218.2 229.1 
+Edward_Asner/x5dqrDlwxR4_0000007 245.9 254.5 
+Edward_Asner/x5dqrDlwxR4_0000008 255.2 270.2 

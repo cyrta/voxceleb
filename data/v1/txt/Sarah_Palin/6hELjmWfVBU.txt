@@ -1,0 +1,24 @@
+POI: 			Sarah_Palin 
+Youtube ID: 	6hELjmWfVBU 
+Video length: 	627.1 sec 
+Set (V): 		dev 
+ 
+Sarah_Palin/6hELjmWfVBU_0000001 15.8 26.8 
+Sarah_Palin/6hELjmWfVBU_0000002 72.5 91.0 
+Sarah_Palin/6hELjmWfVBU_0000003 114.8 121.2 
+Sarah_Palin/6hELjmWfVBU_0000004 125.6 137.2 
+Sarah_Palin/6hELjmWfVBU_0000005 157.0 177.5 
+Sarah_Palin/6hELjmWfVBU_0000006 193.0 198.2 
+Sarah_Palin/6hELjmWfVBU_0000007 208.0 212.6 
+Sarah_Palin/6hELjmWfVBU_0000008 221.1 235.4 
+Sarah_Palin/6hELjmWfVBU_0000009 249.6 257.5 
+Sarah_Palin/6hELjmWfVBU_0000010 263.4 294.4 
+Sarah_Palin/6hELjmWfVBU_0000011 314.5 338.2 
+Sarah_Palin/6hELjmWfVBU_0000012 350.6 369.4 
+Sarah_Palin/6hELjmWfVBU_0000013 381.6 427.0 
+Sarah_Palin/6hELjmWfVBU_0000014 431.8 442.9 
+Sarah_Palin/6hELjmWfVBU_0000015 465.1 487.8 
+Sarah_Palin/6hELjmWfVBU_0000016 492.4 508.2 
+Sarah_Palin/6hELjmWfVBU_0000017 517.0 522.9 
+Sarah_Palin/6hELjmWfVBU_0000018 533.0 557.6 
+Sarah_Palin/6hELjmWfVBU_0000019 576.6 619.1 

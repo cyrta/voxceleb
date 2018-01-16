@@ -1,0 +1,11 @@
+POI: 			Ansel_Elgort 
+Youtube ID: 	J_0mv63BdP0 
+Video length: 	944.1 sec 
+Set (V): 		dev 
+ 
+Ansel_Elgort/J_0mv63BdP0_0000001 644.9 651.2 
+Ansel_Elgort/J_0mv63BdP0_0000002 670.5 681.5 
+Ansel_Elgort/J_0mv63BdP0_0000003 685.6 699.5 
+Ansel_Elgort/J_0mv63BdP0_0000004 703.7 738.1 
+Ansel_Elgort/J_0mv63BdP0_0000005 766.5 800.7 
+Ansel_Elgort/J_0mv63BdP0_0000006 801.4 811.3 

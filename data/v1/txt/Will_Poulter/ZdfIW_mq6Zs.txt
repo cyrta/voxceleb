@@ -1,0 +1,13 @@
+POI: 			Will_Poulter 
+Youtube ID: 	ZdfIW_mq6Zs 
+Video length: 	402.5 sec 
+Set (V): 		dev 
+ 
+Will_Poulter/ZdfIW_mq6Zs_0000001 21.0 27.2 
+Will_Poulter/ZdfIW_mq6Zs_0000002 111.6 116.6 
+Will_Poulter/ZdfIW_mq6Zs_0000003 121.1 129.0 
+Will_Poulter/ZdfIW_mq6Zs_0000004 130.9 141.0 
+Will_Poulter/ZdfIW_mq6Zs_0000005 147.5 156.2 
+Will_Poulter/ZdfIW_mq6Zs_0000006 156.8 162.4 
+Will_Poulter/ZdfIW_mq6Zs_0000007 268.0 272.6 
+Will_Poulter/ZdfIW_mq6Zs_0000008 278.3 287.3 

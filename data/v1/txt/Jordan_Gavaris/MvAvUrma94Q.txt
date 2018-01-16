@@ -1,0 +1,8 @@
+POI: 			Jordan_Gavaris 
+Youtube ID: 	MvAvUrma94Q 
+Video length: 	536.6 sec 
+Set (V): 		dev 
+ 
+Jordan_Gavaris/MvAvUrma94Q_0000001 64.4 68.4 
+Jordan_Gavaris/MvAvUrma94Q_0000002 77.0 83.3 
+Jordan_Gavaris/MvAvUrma94Q_0000003 347.6 352.7 

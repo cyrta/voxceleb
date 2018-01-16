@@ -1,0 +1,8 @@
+POI: 			David_Mamet 
+Youtube ID: 	am8cAupJOQA 
+Video length: 	92.2 sec 
+Set (V): 		dev 
+ 
+David_Mamet/am8cAupJOQA_0000001 47.8 51.9 
+David_Mamet/am8cAupJOQA_0000002 69.2 77.1 
+David_Mamet/am8cAupJOQA_0000003 77.3 82.1 

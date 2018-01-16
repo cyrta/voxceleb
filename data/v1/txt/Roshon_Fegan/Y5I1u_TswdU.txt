@@ -1,0 +1,11 @@
+POI: 			Roshon_Fegan 
+Youtube ID: 	Y5I1u_TswdU 
+Video length: 	231.9 sec 
+Set (V): 		dev 
+ 
+Roshon_Fegan/Y5I1u_TswdU_0000001 62.1 69.0 
+Roshon_Fegan/Y5I1u_TswdU_0000002 70.8 76.1 
+Roshon_Fegan/Y5I1u_TswdU_0000003 116.1 121.1 
+Roshon_Fegan/Y5I1u_TswdU_0000004 145.3 151.4 
+Roshon_Fegan/Y5I1u_TswdU_0000005 198.0 203.6 
+Roshon_Fegan/Y5I1u_TswdU_0000006 206.2 211.0 

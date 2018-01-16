@@ -1,0 +1,14 @@
+POI: 			Peter_Berg 
+Youtube ID: 	Un1S2tN-IrA 
+Video length: 	217.7 sec 
+Set (V): 		dev 
+ 
+Peter_Berg/Un1S2tN-IrA_0000001 13.0 19.1 
+Peter_Berg/Un1S2tN-IrA_0000002 20.0 44.0 
+Peter_Berg/Un1S2tN-IrA_0000003 44.4 54.1 
+Peter_Berg/Un1S2tN-IrA_0000004 54.2 58.8 
+Peter_Berg/Un1S2tN-IrA_0000005 58.9 76.2 
+Peter_Berg/Un1S2tN-IrA_0000006 76.6 93.6 
+Peter_Berg/Un1S2tN-IrA_0000007 107.0 111.6 
+Peter_Berg/Un1S2tN-IrA_0000008 118.8 142.2 
+Peter_Berg/Un1S2tN-IrA_0000009 143.1 152.8 

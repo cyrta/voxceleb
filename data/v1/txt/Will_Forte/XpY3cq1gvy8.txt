@@ -1,0 +1,11 @@
+POI: 			Will_Forte 
+Youtube ID: 	XpY3cq1gvy8 
+Video length: 	337.3 sec 
+Set (V): 		dev 
+ 
+Will_Forte/XpY3cq1gvy8_0000001 42.0 46.3 
+Will_Forte/XpY3cq1gvy8_0000002 85.7 90.4 
+Will_Forte/XpY3cq1gvy8_0000003 132.5 138.8 
+Will_Forte/XpY3cq1gvy8_0000004 162.8 168.8 
+Will_Forte/XpY3cq1gvy8_0000005 271.0 275.2 
+Will_Forte/XpY3cq1gvy8_0000006 275.3 280.1 

@@ -1,0 +1,15 @@
+POI: 			Michelle_Keegan 
+Youtube ID: 	RZ1jy-WYTSM 
+Video length: 	167.4 sec 
+Set (V): 		dev 
+ 
+Michelle_Keegan/RZ1jy-WYTSM_0000001 30.0 38.5 
+Michelle_Keegan/RZ1jy-WYTSM_0000002 43.8 48.5 
+Michelle_Keegan/RZ1jy-WYTSM_0000003 55.8 65.0 
+Michelle_Keegan/RZ1jy-WYTSM_0000004 70.0 81.8 
+Michelle_Keegan/RZ1jy-WYTSM_0000005 86.6 96.5 
+Michelle_Keegan/RZ1jy-WYTSM_0000006 102.0 106.0 
+Michelle_Keegan/RZ1jy-WYTSM_0000007 116.3 120.3 
+Michelle_Keegan/RZ1jy-WYTSM_0000008 121.4 126.0 
+Michelle_Keegan/RZ1jy-WYTSM_0000009 131.4 137.4 
+Michelle_Keegan/RZ1jy-WYTSM_0000010 151.2 159.4 

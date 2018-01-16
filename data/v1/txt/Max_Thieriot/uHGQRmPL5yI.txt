@@ -1,0 +1,10 @@
+POI: 			Max_Thieriot 
+Youtube ID: 	uHGQRmPL5yI 
+Video length: 	210.7 sec 
+Set (V): 		dev 
+ 
+Max_Thieriot/uHGQRmPL5yI_0000001 46.0 51.2 
+Max_Thieriot/uHGQRmPL5yI_0000002 53.8 60.5 
+Max_Thieriot/uHGQRmPL5yI_0000003 82.5 91.8 
+Max_Thieriot/uHGQRmPL5yI_0000004 136.3 141.3 
+Max_Thieriot/uHGQRmPL5yI_0000005 174.3 181.7 

@@ -1,0 +1,20 @@
+POI: 			Andy_Richter 
+Youtube ID: 	5tgoikTak5A 
+Video length: 	600.5 sec 
+Set (V): 		dev 
+ 
+Andy_Richter/5tgoikTak5A_0000001 70.3 74.6 
+Andy_Richter/5tgoikTak5A_0000002 102.6 108.8 
+Andy_Richter/5tgoikTak5A_0000003 109.9 115.4 
+Andy_Richter/5tgoikTak5A_0000004 139.2 156.1 
+Andy_Richter/5tgoikTak5A_0000005 157.6 163.4 
+Andy_Richter/5tgoikTak5A_0000006 174.3 179.2 
+Andy_Richter/5tgoikTak5A_0000007 192.6 199.6 
+Andy_Richter/5tgoikTak5A_0000008 216.2 227.2 
+Andy_Richter/5tgoikTak5A_0000009 253.2 263.2 
+Andy_Richter/5tgoikTak5A_0000010 271.3 281.8 
+Andy_Richter/5tgoikTak5A_0000011 287.7 294.6 
+Andy_Richter/5tgoikTak5A_0000012 352.6 357.5 
+Andy_Richter/5tgoikTak5A_0000013 358.0 363.6 
+Andy_Richter/5tgoikTak5A_0000014 482.4 488.5 
+Andy_Richter/5tgoikTak5A_0000015 505.5 512.1 

@@ -1,0 +1,12 @@
+POI: 			Sofia_Coppola 
+Youtube ID: 	LAaspD12Pbo 
+Video length: 	160.1 sec 
+Set (V): 		dev 
+ 
+Sofia_Coppola/LAaspD12Pbo_0000001 12.1 33.4 
+Sofia_Coppola/LAaspD12Pbo_0000002 40.1 44.9 
+Sofia_Coppola/LAaspD12Pbo_0000003 45.7 54.2 
+Sofia_Coppola/LAaspD12Pbo_0000004 74.0 78.2 
+Sofia_Coppola/LAaspD12Pbo_0000005 85.0 94.6 
+Sofia_Coppola/LAaspD12Pbo_0000006 120.3 130.3 
+Sofia_Coppola/LAaspD12Pbo_0000007 134.2 145.5 

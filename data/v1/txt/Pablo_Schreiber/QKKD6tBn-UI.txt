@@ -1,0 +1,25 @@
+POI: 			Pablo_Schreiber 
+Youtube ID: 	QKKD6tBn-UI 
+Video length: 	307.2 sec 
+Set (V): 		dev 
+ 
+Pablo_Schreiber/QKKD6tBn-UI_0000001 06.2 13.4 
+Pablo_Schreiber/QKKD6tBn-UI_0000002 17.7 22.8 
+Pablo_Schreiber/QKKD6tBn-UI_0000003 24.8 38.4 
+Pablo_Schreiber/QKKD6tBn-UI_0000004 51.0 55.4 
+Pablo_Schreiber/QKKD6tBn-UI_0000005 69.8 82.8 
+Pablo_Schreiber/QKKD6tBn-UI_0000006 99.7 104.5 
+Pablo_Schreiber/QKKD6tBn-UI_0000007 126.3 140.2 
+Pablo_Schreiber/QKKD6tBn-UI_0000008 147.2 152.0 
+Pablo_Schreiber/QKKD6tBn-UI_0000009 161.8 171.7 
+Pablo_Schreiber/QKKD6tBn-UI_0000010 172.7 176.9 
+Pablo_Schreiber/QKKD6tBn-UI_0000011 194.3 205.7 
+Pablo_Schreiber/QKKD6tBn-UI_0000012 207.5 212.2 
+Pablo_Schreiber/QKKD6tBn-UI_0000013 214.2 221.4 
+Pablo_Schreiber/QKKD6tBn-UI_0000014 222.4 227.0 
+Pablo_Schreiber/QKKD6tBn-UI_0000015 229.9 237.3 
+Pablo_Schreiber/QKKD6tBn-UI_0000016 258.1 262.7 
+Pablo_Schreiber/QKKD6tBn-UI_0000017 264.8 269.1 
+Pablo_Schreiber/QKKD6tBn-UI_0000018 272.9 278.1 
+Pablo_Schreiber/QKKD6tBn-UI_0000019 281.4 286.1 
+Pablo_Schreiber/QKKD6tBn-UI_0000020 295.1 302.8 

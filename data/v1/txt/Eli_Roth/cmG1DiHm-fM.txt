@@ -1,0 +1,11 @@
+POI: 			Eli_Roth 
+Youtube ID: 	cmG1DiHm-fM 
+Video length: 	261.3 sec 
+Set (V): 		test 
+ 
+Eli_Roth/cmG1DiHm-fM_0000001 63.8 68.8 
+Eli_Roth/cmG1DiHm-fM_0000002 83.8 91.4 
+Eli_Roth/cmG1DiHm-fM_0000003 104.5 110.1 
+Eli_Roth/cmG1DiHm-fM_0000004 144.0 155.6 
+Eli_Roth/cmG1DiHm-fM_0000005 159.7 166.0 
+Eli_Roth/cmG1DiHm-fM_0000006 209.4 221.4 

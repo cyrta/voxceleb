@@ -1,0 +1,8 @@
+POI: 			David_Koechner 
+Youtube ID: 	WF3XVmfUhrc 
+Video length: 	119.3 sec 
+Set (V): 		dev 
+ 
+David_Koechner/WF3XVmfUhrc_0000001 40.5 44.4 
+David_Koechner/WF3XVmfUhrc_0000002 47.3 52.4 
+David_Koechner/WF3XVmfUhrc_0000003 75.4 98.3 

@@ -1,0 +1,10 @@
+POI: 			Nathalie_Emmanuel 
+Youtube ID: 	E8VIsZfgOdM 
+Video length: 	189.8 sec 
+Set (V): 		dev 
+ 
+Nathalie_Emmanuel/E8VIsZfgOdM_0000001 75.1 88.5 
+Nathalie_Emmanuel/E8VIsZfgOdM_0000002 102.0 106.8 
+Nathalie_Emmanuel/E8VIsZfgOdM_0000003 118.6 124.7 
+Nathalie_Emmanuel/E8VIsZfgOdM_0000004 126.6 131.7 
+Nathalie_Emmanuel/E8VIsZfgOdM_0000005 160.6 165.0 

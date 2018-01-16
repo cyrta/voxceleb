@@ -1,0 +1,11 @@
+POI: 			Goran_Visnjic 
+Youtube ID: 	WJBgau3k9nM 
+Video length: 	398.6 sec 
+Set (V): 		dev 
+ 
+Goran_Visnjic/WJBgau3k9nM_0000001 97.4 119.6 
+Goran_Visnjic/WJBgau3k9nM_0000002 120.2 148.4 
+Goran_Visnjic/WJBgau3k9nM_0000003 152.0 175.6 
+Goran_Visnjic/WJBgau3k9nM_0000004 210.6 215.2 
+Goran_Visnjic/WJBgau3k9nM_0000005 215.3 235.0 
+Goran_Visnjic/WJBgau3k9nM_0000006 235.8 254.2 

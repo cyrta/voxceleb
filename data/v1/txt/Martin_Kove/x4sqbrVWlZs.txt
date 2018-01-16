@@ -1,0 +1,11 @@
+POI: 			Martin_Kove 
+Youtube ID: 	x4sqbrVWlZs 
+Video length: 	181.6 sec 
+Set (V): 		dev 
+ 
+Martin_Kove/x4sqbrVWlZs_0000001 60.5 66.8 
+Martin_Kove/x4sqbrVWlZs_0000002 74.3 80.4 
+Martin_Kove/x4sqbrVWlZs_0000003 81.1 86.2 
+Martin_Kove/x4sqbrVWlZs_0000004 87.4 92.1 
+Martin_Kove/x4sqbrVWlZs_0000005 133.4 142.2 
+Martin_Kove/x4sqbrVWlZs_0000006 143.0 150.0 

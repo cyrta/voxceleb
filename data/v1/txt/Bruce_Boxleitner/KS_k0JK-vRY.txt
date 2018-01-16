@@ -1,0 +1,10 @@
+POI: 			Bruce_Boxleitner 
+Youtube ID: 	KS_k0JK-vRY 
+Video length: 	253.6 sec 
+Set (V): 		dev 
+ 
+Bruce_Boxleitner/KS_k0JK-vRY_0000001 13.6 17.9 
+Bruce_Boxleitner/KS_k0JK-vRY_0000002 18.5 23.2 
+Bruce_Boxleitner/KS_k0JK-vRY_0000003 36.6 43.9 
+Bruce_Boxleitner/KS_k0JK-vRY_0000004 189.3 195.2 
+Bruce_Boxleitner/KS_k0JK-vRY_0000005 199.9 211.8 

@@ -1,0 +1,11 @@
+POI: 			Bingbing_Li 
+Youtube ID: 	qBLkypwoFiE 
+Video length: 	158.0 sec 
+Set (V): 		dev 
+ 
+Bingbing_Li/qBLkypwoFiE_0000001 09.0 15.4 
+Bingbing_Li/qBLkypwoFiE_0000002 30.8 34.8 
+Bingbing_Li/qBLkypwoFiE_0000003 85.1 103.8 
+Bingbing_Li/qBLkypwoFiE_0000004 119.3 123.6 
+Bingbing_Li/qBLkypwoFiE_0000005 124.7 129.5 
+Bingbing_Li/qBLkypwoFiE_0000006 140.1 149.4 

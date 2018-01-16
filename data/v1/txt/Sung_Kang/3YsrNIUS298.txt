@@ -1,0 +1,8 @@
+POI: 			Sung_Kang 
+Youtube ID: 	3YsrNIUS298 
+Video length: 	413.9 sec 
+Set (V): 		dev 
+ 
+Sung_Kang/3YsrNIUS298_0000001 237.0 249.2 
+Sung_Kang/3YsrNIUS298_0000002 255.9 262.1 
+Sung_Kang/3YsrNIUS298_0000003 274.8 282.7 

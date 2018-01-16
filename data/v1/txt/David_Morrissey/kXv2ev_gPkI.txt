@@ -1,0 +1,12 @@
+POI: 			David_Morrissey 
+Youtube ID: 	kXv2ev_gPkI 
+Video length: 	115.3 sec 
+Set (V): 		dev 
+ 
+David_Morrissey/kXv2ev_gPkI_0000001 22.5 30.8 
+David_Morrissey/kXv2ev_gPkI_0000002 39.2 46.9 
+David_Morrissey/kXv2ev_gPkI_0000003 50.8 61.1 
+David_Morrissey/kXv2ev_gPkI_0000004 62.1 67.6 
+David_Morrissey/kXv2ev_gPkI_0000005 88.2 100.3 
+David_Morrissey/kXv2ev_gPkI_0000006 100.5 104.8 
+David_Morrissey/kXv2ev_gPkI_0000007 108.7 113.4 

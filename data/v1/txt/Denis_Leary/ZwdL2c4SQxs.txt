@@ -1,0 +1,9 @@
+POI: 			Denis_Leary 
+Youtube ID: 	ZwdL2c4SQxs 
+Video length: 	2396.1 sec 
+Set (V): 		dev 
+ 
+Denis_Leary/ZwdL2c4SQxs_0000001 1637.1 1643.2 
+Denis_Leary/ZwdL2c4SQxs_0000002 1654.4 1659.7 
+Denis_Leary/ZwdL2c4SQxs_0000003 1892.0 1897.0 
+Denis_Leary/ZwdL2c4SQxs_0000004 1975.8 1984.4 

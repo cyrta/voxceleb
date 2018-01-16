@@ -1,0 +1,13 @@
+POI: 			Caterina_Scorsone 
+Youtube ID: 	73Lz58Oc_1o 
+Video length: 	830.6 sec 
+Set (V): 		dev 
+ 
+Caterina_Scorsone/73Lz58Oc_1o_0000001 56.4 63.3 
+Caterina_Scorsone/73Lz58Oc_1o_0000002 70.3 85.1 
+Caterina_Scorsone/73Lz58Oc_1o_0000003 92.3 96.5 
+Caterina_Scorsone/73Lz58Oc_1o_0000004 143.5 157.8 
+Caterina_Scorsone/73Lz58Oc_1o_0000005 161.6 167.7 
+Caterina_Scorsone/73Lz58Oc_1o_0000006 330.3 335.4 
+Caterina_Scorsone/73Lz58Oc_1o_0000007 374.7 381.4 
+Caterina_Scorsone/73Lz58Oc_1o_0000008 787.3 792.5 

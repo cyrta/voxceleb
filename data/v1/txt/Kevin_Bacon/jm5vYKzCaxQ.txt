@@ -1,0 +1,10 @@
+POI: 			Kevin_Bacon 
+Youtube ID: 	jm5vYKzCaxQ 
+Video length: 	304.9 sec 
+Set (V): 		dev 
+ 
+Kevin_Bacon/jm5vYKzCaxQ_0000001 53.1 60.2 
+Kevin_Bacon/jm5vYKzCaxQ_0000002 76.3 81.5 
+Kevin_Bacon/jm5vYKzCaxQ_0000003 85.0 89.4 
+Kevin_Bacon/jm5vYKzCaxQ_0000004 262.0 266.7 
+Kevin_Bacon/jm5vYKzCaxQ_0000005 283.6 291.0 

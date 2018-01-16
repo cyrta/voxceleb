@@ -1,0 +1,8 @@
+POI: 			Chris_Messina 
+Youtube ID: 	OZGbwkogmco 
+Video length: 	442.7 sec 
+Set (V): 		dev 
+ 
+Chris_Messina/OZGbwkogmco_0000001 415.0 420.6 
+Chris_Messina/OZGbwkogmco_0000002 421.0 425.8 
+Chris_Messina/OZGbwkogmco_0000003 426.1 441.2 

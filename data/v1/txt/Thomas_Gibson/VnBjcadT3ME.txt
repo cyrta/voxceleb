@@ -1,0 +1,7 @@
+POI: 			Thomas_Gibson 
+Youtube ID: 	VnBjcadT3ME 
+Video length: 	218.1 sec 
+Set (V): 		dev 
+ 
+Thomas_Gibson/VnBjcadT3ME_0000001 68.3 72.8 
+Thomas_Gibson/VnBjcadT3ME_0000002 175.2 179.3 

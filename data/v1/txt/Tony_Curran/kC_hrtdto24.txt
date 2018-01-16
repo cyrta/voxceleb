@@ -1,0 +1,10 @@
+POI: 			Tony_Curran 
+Youtube ID: 	kC_hrtdto24 
+Video length: 	346.3 sec 
+Set (V): 		dev 
+ 
+Tony_Curran/kC_hrtdto24_0000001 33.5 42.2 
+Tony_Curran/kC_hrtdto24_0000002 55.0 61.0 
+Tony_Curran/kC_hrtdto24_0000003 67.5 74.6 
+Tony_Curran/kC_hrtdto24_0000004 87.2 93.3 
+Tony_Curran/kC_hrtdto24_0000005 246.7 251.0 

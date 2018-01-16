@@ -1,0 +1,17 @@
+POI: 			Alex_Borstein 
+Youtube ID: 	dQhROKhai8Y 
+Video length: 	242.2 sec 
+Set (V): 		dev 
+ 
+Alex_Borstein/dQhROKhai8Y_0000001 16.8 25.2 
+Alex_Borstein/dQhROKhai8Y_0000002 30.6 41.4 
+Alex_Borstein/dQhROKhai8Y_0000003 42.4 54.6 
+Alex_Borstein/dQhROKhai8Y_0000004 57.4 67.7 
+Alex_Borstein/dQhROKhai8Y_0000005 69.8 78.5 
+Alex_Borstein/dQhROKhai8Y_0000006 83.0 88.6 
+Alex_Borstein/dQhROKhai8Y_0000007 94.5 106.5 
+Alex_Borstein/dQhROKhai8Y_0000008 124.5 128.8 
+Alex_Borstein/dQhROKhai8Y_0000009 129.6 135.0 
+Alex_Borstein/dQhROKhai8Y_0000010 183.2 190.2 
+Alex_Borstein/dQhROKhai8Y_0000011 210.0 217.0 
+Alex_Borstein/dQhROKhai8Y_0000012 212.3 217.0 

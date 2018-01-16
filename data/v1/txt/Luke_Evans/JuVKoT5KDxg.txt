@@ -1,0 +1,10 @@
+POI: 			Luke_Evans 
+Youtube ID: 	JuVKoT5KDxg 
+Video length: 	355.3 sec 
+Set (V): 		dev 
+ 
+Luke_Evans/JuVKoT5KDxg_0000001 207.6 232.6 
+Luke_Evans/JuVKoT5KDxg_0000002 279.3 287.0 
+Luke_Evans/JuVKoT5KDxg_0000003 288.0 300.0 
+Luke_Evans/JuVKoT5KDxg_0000004 300.4 310.0 
+Luke_Evans/JuVKoT5KDxg_0000005 312.2 318.4 

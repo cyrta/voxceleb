@@ -1,0 +1,11 @@
+POI: 			Prince 
+Youtube ID: 	mcgvcqVHJC0 
+Video length: 	634.3 sec 
+Set (V): 		dev 
+ 
+Prince/mcgvcqVHJC0_0000001 117.9 122.5 
+Prince/mcgvcqVHJC0_0000002 213.8 219.7 
+Prince/mcgvcqVHJC0_0000003 405.9 410.6 
+Prince/mcgvcqVHJC0_0000004 422.4 429.8 
+Prince/mcgvcqVHJC0_0000005 464.1 468.1 
+Prince/mcgvcqVHJC0_0000006 468.3 473.6 

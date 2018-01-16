@@ -1,0 +1,10 @@
+POI: 			Sarah_Hyland 
+Youtube ID: 	fZ2fOaNvsq0 
+Video length: 	355.3 sec 
+Set (V): 		dev 
+ 
+Sarah_Hyland/fZ2fOaNvsq0_0000001 58.2 68.4 
+Sarah_Hyland/fZ2fOaNvsq0_0000002 71.8 76.9 
+Sarah_Hyland/fZ2fOaNvsq0_0000003 137.0 147.1 
+Sarah_Hyland/fZ2fOaNvsq0_0000004 315.1 323.8 
+Sarah_Hyland/fZ2fOaNvsq0_0000005 324.1 338.9 

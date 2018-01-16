@@ -1,0 +1,12 @@
+POI: 			Maria_Menounos 
+Youtube ID: 	p_LGKeHLLZA 
+Video length: 	293.7 sec 
+Set (V): 		dev 
+ 
+Maria_Menounos/p_LGKeHLLZA_0000001 54.5 65.7 
+Maria_Menounos/p_LGKeHLLZA_0000002 71.4 80.7 
+Maria_Menounos/p_LGKeHLLZA_0000003 83.4 92.8 
+Maria_Menounos/p_LGKeHLLZA_0000004 120.7 141.0 
+Maria_Menounos/p_LGKeHLLZA_0000005 150.4 155.4 
+Maria_Menounos/p_LGKeHLLZA_0000006 158.5 165.4 
+Maria_Menounos/p_LGKeHLLZA_0000007 236.4 247.6 

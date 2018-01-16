@@ -1,0 +1,9 @@
+POI: 			Andre_Braugher 
+Youtube ID: 	3D0aomYNBYM 
+Video length: 	326.2 sec 
+Set (V): 		dev 
+ 
+Andre_Braugher/3D0aomYNBYM_0000001 86.6 90.9 
+Andre_Braugher/3D0aomYNBYM_0000002 121.8 128.6 
+Andre_Braugher/3D0aomYNBYM_0000003 215.2 220.5 
+Andre_Braugher/3D0aomYNBYM_0000004 234.9 239.0 

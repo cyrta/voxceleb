@@ -1,0 +1,14 @@
+POI: 			Kaya_Scodelario 
+Youtube ID: 	FBCol-ofTg0 
+Video length: 	168.5 sec 
+Set (V): 		dev 
+ 
+Kaya_Scodelario/FBCol-ofTg0_0000001 25.3 46.6 
+Kaya_Scodelario/FBCol-ofTg0_0000002 47.0 57.6 
+Kaya_Scodelario/FBCol-ofTg0_0000003 60.8 65.8 
+Kaya_Scodelario/FBCol-ofTg0_0000004 66.0 72.0 
+Kaya_Scodelario/FBCol-ofTg0_0000005 85.0 92.2 
+Kaya_Scodelario/FBCol-ofTg0_0000006 95.0 103.0 
+Kaya_Scodelario/FBCol-ofTg0_0000007 103.7 115.6 
+Kaya_Scodelario/FBCol-ofTg0_0000008 131.2 140.6 
+Kaya_Scodelario/FBCol-ofTg0_0000009 146.4 155.4 

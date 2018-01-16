@@ -1,0 +1,10 @@
+POI: 			David_Zayas 
+Youtube ID: 	c9nhfF1CBNU 
+Video length: 	162.1 sec 
+Set (V): 		dev 
+ 
+David_Zayas/c9nhfF1CBNU_0000001 58.4 63.7 
+David_Zayas/c9nhfF1CBNU_0000002 72.2 80.4 
+David_Zayas/c9nhfF1CBNU_0000003 80.5 87.7 
+David_Zayas/c9nhfF1CBNU_0000004 91.8 98.6 
+David_Zayas/c9nhfF1CBNU_0000005 134.4 140.6 

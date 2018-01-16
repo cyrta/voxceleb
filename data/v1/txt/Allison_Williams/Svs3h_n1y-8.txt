@@ -1,0 +1,8 @@
+POI: 			Allison_Williams 
+Youtube ID: 	Svs3h_n1y-8 
+Video length: 	309.3 sec 
+Set (V): 		dev 
+ 
+Allison_Williams/Svs3h_n1y-8_0000001 04.1 31.4 
+Allison_Williams/Svs3h_n1y-8_0000002 31.6 36.0 
+Allison_Williams/Svs3h_n1y-8_0000003 44.8 52.0 

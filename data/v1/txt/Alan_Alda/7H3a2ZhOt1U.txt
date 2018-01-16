@@ -1,0 +1,9 @@
+POI: 			Alan_Alda 
+Youtube ID: 	7H3a2ZhOt1U 
+Video length: 	97.5 sec 
+Set (V): 		dev 
+ 
+Alan_Alda/7H3a2ZhOt1U_0000001 39.8 44.8 
+Alan_Alda/7H3a2ZhOt1U_0000002 59.7 69.6 
+Alan_Alda/7H3a2ZhOt1U_0000003 70.2 77.0 
+Alan_Alda/7H3a2ZhOt1U_0000004 78.9 91.5 

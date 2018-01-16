@@ -1,0 +1,8 @@
+POI: 			Jenna_Fischer 
+Youtube ID: 	HH1u7Pujfu0 
+Video length: 	322.5 sec 
+Set (V): 		dev 
+ 
+Jenna_Fischer/HH1u7Pujfu0_0000001 175.4 184.0 
+Jenna_Fischer/HH1u7Pujfu0_0000002 248.6 252.9 
+Jenna_Fischer/HH1u7Pujfu0_0000003 255.4 259.4 

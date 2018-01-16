@@ -1,0 +1,13 @@
+POI: 			Kel_Mitchell 
+Youtube ID: 	FnnoLeOEHuk 
+Video length: 	333.9 sec 
+Set (V): 		dev 
+ 
+Kel_Mitchell/FnnoLeOEHuk_0000001 57.3 66.4 
+Kel_Mitchell/FnnoLeOEHuk_0000002 83.0 87.1 
+Kel_Mitchell/FnnoLeOEHuk_0000003 88.0 93.0 
+Kel_Mitchell/FnnoLeOEHuk_0000004 131.7 139.1 
+Kel_Mitchell/FnnoLeOEHuk_0000005 158.2 182.6 
+Kel_Mitchell/FnnoLeOEHuk_0000006 211.5 215.5 
+Kel_Mitchell/FnnoLeOEHuk_0000007 224.3 236.7 
+Kel_Mitchell/FnnoLeOEHuk_0000008 237.6 242.8 

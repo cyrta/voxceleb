@@ -1,0 +1,13 @@
+POI: 			Natascha_McElhone 
+Youtube ID: 	lolvSuQtFl4 
+Video length: 	234.0 sec 
+Set (V): 		dev 
+ 
+Natascha_McElhone/lolvSuQtFl4_0000001 28.4 45.9 
+Natascha_McElhone/lolvSuQtFl4_0000002 52.1 57.6 
+Natascha_McElhone/lolvSuQtFl4_0000003 58.6 72.4 
+Natascha_McElhone/lolvSuQtFl4_0000004 116.6 122.0 
+Natascha_McElhone/lolvSuQtFl4_0000005 127.1 133.1 
+Natascha_McElhone/lolvSuQtFl4_0000006 136.6 144.1 
+Natascha_McElhone/lolvSuQtFl4_0000007 144.2 149.9 
+Natascha_McElhone/lolvSuQtFl4_0000008 201.8 210.8 

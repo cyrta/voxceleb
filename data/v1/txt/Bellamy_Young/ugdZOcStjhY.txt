@@ -1,0 +1,7 @@
+POI: 			Bellamy_Young 
+Youtube ID: 	ugdZOcStjhY 
+Video length: 	152.6 sec 
+Set (V): 		dev 
+ 
+Bellamy_Young/ugdZOcStjhY_0000001 86.4 96.5 
+Bellamy_Young/ugdZOcStjhY_0000002 97.2 102.9 

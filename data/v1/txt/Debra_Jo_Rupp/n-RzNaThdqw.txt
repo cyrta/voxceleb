@@ -1,0 +1,10 @@
+POI: 			Debra_Jo_Rupp 
+Youtube ID: 	n-RzNaThdqw 
+Video length: 	345.7 sec 
+Set (V): 		dev 
+ 
+Debra_Jo_Rupp/n-RzNaThdqw_0000001 45.2 59.8 
+Debra_Jo_Rupp/n-RzNaThdqw_0000002 61.4 66.2 
+Debra_Jo_Rupp/n-RzNaThdqw_0000003 135.8 143.0 
+Debra_Jo_Rupp/n-RzNaThdqw_0000004 297.5 307.9 
+Debra_Jo_Rupp/n-RzNaThdqw_0000005 308.0 312.5 

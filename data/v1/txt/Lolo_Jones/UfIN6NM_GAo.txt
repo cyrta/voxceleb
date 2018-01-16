@@ -1,0 +1,7 @@
+POI: 			Lolo_Jones 
+Youtube ID: 	UfIN6NM_GAo 
+Video length: 	319.0 sec 
+Set (V): 		dev 
+ 
+Lolo_Jones/UfIN6NM_GAo_0000001 213.1 219.1 
+Lolo_Jones/UfIN6NM_GAo_0000002 244.1 258.4 

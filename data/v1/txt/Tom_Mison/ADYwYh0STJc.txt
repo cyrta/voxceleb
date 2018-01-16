@@ -1,0 +1,8 @@
+POI: 			Tom_Mison 
+Youtube ID: 	ADYwYh0STJc 
+Video length: 	102.7 sec 
+Set (V): 		dev 
+ 
+Tom_Mison/ADYwYh0STJc_0000001 09.8 20.7 
+Tom_Mison/ADYwYh0STJc_0000002 37.8 42.5 
+Tom_Mison/ADYwYh0STJc_0000003 79.6 85.0 

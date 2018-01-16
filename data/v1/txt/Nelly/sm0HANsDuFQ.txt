@@ -1,0 +1,13 @@
+POI: 			Nelly 
+Youtube ID: 	sm0HANsDuFQ 
+Video length: 	631.8 sec 
+Set (V): 		dev 
+ 
+Nelly/sm0HANsDuFQ_0000001 51.7 67.0 
+Nelly/sm0HANsDuFQ_0000002 92.5 100.9 
+Nelly/sm0HANsDuFQ_0000003 141.7 148.0 
+Nelly/sm0HANsDuFQ_0000004 271.9 280.4 
+Nelly/sm0HANsDuFQ_0000005 283.9 289.6 
+Nelly/sm0HANsDuFQ_0000006 292.7 300.5 
+Nelly/sm0HANsDuFQ_0000007 344.0 348.0 
+Nelly/sm0HANsDuFQ_0000008 486.6 494.1 

@@ -1,0 +1,12 @@
+POI: 			Kimberly_Elise 
+Youtube ID: 	WsGugXoKapE 
+Video length: 	557.5 sec 
+Set (V): 		dev 
+ 
+Kimberly_Elise/WsGugXoKapE_0000001 13.2 25.6 
+Kimberly_Elise/WsGugXoKapE_0000002 277.0 281.6 
+Kimberly_Elise/WsGugXoKapE_0000003 399.3 403.6 
+Kimberly_Elise/WsGugXoKapE_0000004 433.0 438.6 
+Kimberly_Elise/WsGugXoKapE_0000005 439.6 449.8 
+Kimberly_Elise/WsGugXoKapE_0000006 454.8 460.5 
+Kimberly_Elise/WsGugXoKapE_0000007 501.5 507.2 

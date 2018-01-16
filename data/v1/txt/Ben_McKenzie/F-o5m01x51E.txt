@@ -1,0 +1,12 @@
+POI: 			Ben_McKenzie 
+Youtube ID: 	F-o5m01x51E 
+Video length: 	280.6 sec 
+Set (V): 		dev 
+ 
+Ben_McKenzie/F-o5m01x51E_0000001 18.4 24.6 
+Ben_McKenzie/F-o5m01x51E_0000002 102.4 106.9 
+Ben_McKenzie/F-o5m01x51E_0000003 125.9 136.9 
+Ben_McKenzie/F-o5m01x51E_0000004 146.0 155.7 
+Ben_McKenzie/F-o5m01x51E_0000005 163.6 171.5 
+Ben_McKenzie/F-o5m01x51E_0000006 215.6 221.1 
+Ben_McKenzie/F-o5m01x51E_0000007 265.5 270.3 

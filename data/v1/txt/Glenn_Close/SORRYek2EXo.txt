@@ -1,0 +1,14 @@
+POI: 			Glenn_Close 
+Youtube ID: 	SORRYek2EXo 
+Video length: 	363.0 sec 
+Set (V): 		dev 
+ 
+Glenn_Close/SORRYek2EXo_0000001 95.9 107.2 
+Glenn_Close/SORRYek2EXo_0000002 107.6 116.7 
+Glenn_Close/SORRYek2EXo_0000003 121.3 125.5 
+Glenn_Close/SORRYek2EXo_0000004 145.8 150.7 
+Glenn_Close/SORRYek2EXo_0000005 154.2 161.0 
+Glenn_Close/SORRYek2EXo_0000006 161.6 170.7 
+Glenn_Close/SORRYek2EXo_0000007 237.4 246.1 
+Glenn_Close/SORRYek2EXo_0000008 274.6 279.1 
+Glenn_Close/SORRYek2EXo_0000009 323.3 329.3 

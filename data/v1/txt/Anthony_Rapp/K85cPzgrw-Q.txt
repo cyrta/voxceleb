@@ -1,0 +1,9 @@
+POI: 			Anthony_Rapp 
+Youtube ID: 	K85cPzgrw-Q 
+Video length: 	151.0 sec 
+Set (V): 		dev 
+ 
+Anthony_Rapp/K85cPzgrw-Q_0000001 17.2 22.5 
+Anthony_Rapp/K85cPzgrw-Q_0000002 95.8 104.5 
+Anthony_Rapp/K85cPzgrw-Q_0000003 111.4 121.4 
+Anthony_Rapp/K85cPzgrw-Q_0000004 127.2 134.6 

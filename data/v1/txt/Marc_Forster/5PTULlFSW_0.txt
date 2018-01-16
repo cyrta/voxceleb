@@ -1,0 +1,8 @@
+POI: 			Marc_Forster 
+Youtube ID: 	5PTULlFSW_0 
+Video length: 	41.2 sec 
+Set (V): 		dev 
+ 
+Marc_Forster/5PTULlFSW_0_0000001 06.0 11.2 
+Marc_Forster/5PTULlFSW_0_0000002 13.5 22.5 
+Marc_Forster/5PTULlFSW_0_0000003 27.6 39.8 

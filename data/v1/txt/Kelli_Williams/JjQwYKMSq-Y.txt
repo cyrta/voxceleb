@@ -1,0 +1,10 @@
+POI: 			Kelli_Williams 
+Youtube ID: 	JjQwYKMSq-Y 
+Video length: 	117.3 sec 
+Set (V): 		dev 
+ 
+Kelli_Williams/JjQwYKMSq-Y_0000001 12.5 16.6 
+Kelli_Williams/JjQwYKMSq-Y_0000002 37.5 42.7 
+Kelli_Williams/JjQwYKMSq-Y_0000003 47.6 52.0 
+Kelli_Williams/JjQwYKMSq-Y_0000004 57.3 65.0 
+Kelli_Williams/JjQwYKMSq-Y_0000005 76.2 80.3 

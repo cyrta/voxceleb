@@ -1,0 +1,29 @@
+POI: 			Natalie_Portman 
+Youtube ID: 	URycIz_nE_I 
+Video length: 	365.7 sec 
+Set (V): 		dev 
+ 
+Natalie_Portman/URycIz_nE_I_0000001 05.0 16.2 
+Natalie_Portman/URycIz_nE_I_0000002 37.1 41.7 
+Natalie_Portman/URycIz_nE_I_0000003 41.8 48.7 
+Natalie_Portman/URycIz_nE_I_0000004 50.1 55.0 
+Natalie_Portman/URycIz_nE_I_0000005 58.8 67.1 
+Natalie_Portman/URycIz_nE_I_0000006 67.4 81.0 
+Natalie_Portman/URycIz_nE_I_0000007 81.4 86.2 
+Natalie_Portman/URycIz_nE_I_0000008 99.4 111.7 
+Natalie_Portman/URycIz_nE_I_0000009 112.2 120.8 
+Natalie_Portman/URycIz_nE_I_0000010 128.7 133.0 
+Natalie_Portman/URycIz_nE_I_0000011 139.8 145.2 
+Natalie_Portman/URycIz_nE_I_0000012 146.2 154.3 
+Natalie_Portman/URycIz_nE_I_0000013 159.5 167.7 
+Natalie_Portman/URycIz_nE_I_0000014 185.7 194.7 
+Natalie_Portman/URycIz_nE_I_0000015 196.1 202.4 
+Natalie_Portman/URycIz_nE_I_0000016 202.6 210.6 
+Natalie_Portman/URycIz_nE_I_0000017 211.2 215.5 
+Natalie_Portman/URycIz_nE_I_0000018 234.2 252.6 
+Natalie_Portman/URycIz_nE_I_0000019 262.4 269.6 
+Natalie_Portman/URycIz_nE_I_0000020 270.1 279.5 
+Natalie_Portman/URycIz_nE_I_0000021 288.1 295.3 
+Natalie_Portman/URycIz_nE_I_0000022 296.7 307.0 
+Natalie_Portman/URycIz_nE_I_0000023 325.5 341.2 
+Natalie_Portman/URycIz_nE_I_0000024 343.7 360.6 

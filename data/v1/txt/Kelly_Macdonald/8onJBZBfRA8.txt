@@ -1,0 +1,9 @@
+POI: 			Kelly_Macdonald 
+Youtube ID: 	8onJBZBfRA8 
+Video length: 	2393.9 sec 
+Set (V): 		dev 
+ 
+Kelly_Macdonald/8onJBZBfRA8_0000001 1636.8 1641.2 
+Kelly_Macdonald/8onJBZBfRA8_0000002 1704.7 1712.9 
+Kelly_Macdonald/8onJBZBfRA8_0000003 1773.4 1781.6 
+Kelly_Macdonald/8onJBZBfRA8_0000004 1810.7 1815.9 

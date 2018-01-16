@@ -1,0 +1,8 @@
+POI: 			Laverne_Cox 
+Youtube ID: 	ZZupBPrGefw 
+Video length: 	299.7 sec 
+Set (V): 		dev 
+ 
+Laverne_Cox/ZZupBPrGefw_0000001 222.4 226.4 
+Laverne_Cox/ZZupBPrGefw_0000002 241.3 247.6 
+Laverne_Cox/ZZupBPrGefw_0000003 248.3 258.5 

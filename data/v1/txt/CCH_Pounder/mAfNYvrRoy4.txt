@@ -1,0 +1,12 @@
+POI: 			CCH_Pounder 
+Youtube ID: 	mAfNYvrRoy4 
+Video length: 	290.1 sec 
+Set (V): 		dev 
+ 
+CCH_Pounder/mAfNYvrRoy4_0000001 89.3 100.1 
+CCH_Pounder/mAfNYvrRoy4_0000002 135.4 141.3 
+CCH_Pounder/mAfNYvrRoy4_0000003 162.2 167.5 
+CCH_Pounder/mAfNYvrRoy4_0000004 178.4 182.3 
+CCH_Pounder/mAfNYvrRoy4_0000005 229.1 233.4 
+CCH_Pounder/mAfNYvrRoy4_0000006 234.5 242.8 
+CCH_Pounder/mAfNYvrRoy4_0000007 264.6 270.1 

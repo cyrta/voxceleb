@@ -1,0 +1,35 @@
+POI: 			Nicole_Scherzinger 
+Youtube ID: 	EsU9dmMjdN4 
+Video length: 	1132.7 sec 
+Set (V): 		dev 
+ 
+Nicole_Scherzinger/EsU9dmMjdN4_0000001 88.0 98.5 
+Nicole_Scherzinger/EsU9dmMjdN4_0000002 105.1 109.2 
+Nicole_Scherzinger/EsU9dmMjdN4_0000003 109.8 120.6 
+Nicole_Scherzinger/EsU9dmMjdN4_0000004 128.4 136.5 
+Nicole_Scherzinger/EsU9dmMjdN4_0000005 155.4 181.3 
+Nicole_Scherzinger/EsU9dmMjdN4_0000006 311.0 315.8 
+Nicole_Scherzinger/EsU9dmMjdN4_0000007 349.4 355.4 
+Nicole_Scherzinger/EsU9dmMjdN4_0000008 366.3 372.3 
+Nicole_Scherzinger/EsU9dmMjdN4_0000009 375.9 390.0 
+Nicole_Scherzinger/EsU9dmMjdN4_0000010 390.1 395.2 
+Nicole_Scherzinger/EsU9dmMjdN4_0000011 424.1 433.2 
+Nicole_Scherzinger/EsU9dmMjdN4_0000012 433.4 449.5 
+Nicole_Scherzinger/EsU9dmMjdN4_0000013 476.1 481.5 
+Nicole_Scherzinger/EsU9dmMjdN4_0000014 523.6 528.6 
+Nicole_Scherzinger/EsU9dmMjdN4_0000015 531.9 536.3 
+Nicole_Scherzinger/EsU9dmMjdN4_0000016 539.8 545.0 
+Nicole_Scherzinger/EsU9dmMjdN4_0000017 553.8 569.2 
+Nicole_Scherzinger/EsU9dmMjdN4_0000018 597.9 604.9 
+Nicole_Scherzinger/EsU9dmMjdN4_0000019 652.6 671.3 
+Nicole_Scherzinger/EsU9dmMjdN4_0000020 703.6 709.4 
+Nicole_Scherzinger/EsU9dmMjdN4_0000021 711.9 745.0 
+Nicole_Scherzinger/EsU9dmMjdN4_0000022 748.9 755.0 
+Nicole_Scherzinger/EsU9dmMjdN4_0000023 786.2 791.8 
+Nicole_Scherzinger/EsU9dmMjdN4_0000024 811.8 827.6 
+Nicole_Scherzinger/EsU9dmMjdN4_0000025 852.2 858.0 
+Nicole_Scherzinger/EsU9dmMjdN4_0000026 875.1 880.7 
+Nicole_Scherzinger/EsU9dmMjdN4_0000027 943.6 950.2 
+Nicole_Scherzinger/EsU9dmMjdN4_0000028 969.0 975.2 
+Nicole_Scherzinger/EsU9dmMjdN4_0000029 1000.7 1021.5 
+Nicole_Scherzinger/EsU9dmMjdN4_0000030 1026.6 1037.0 

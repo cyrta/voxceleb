@@ -1,0 +1,17 @@
+POI: 			Tom_Ford 
+Youtube ID: 	g03cbeohn_w 
+Video length: 	272.1 sec 
+Set (V): 		dev 
+ 
+Tom_Ford/g03cbeohn_w_0000001 07.1 22.8 
+Tom_Ford/g03cbeohn_w_0000002 27.8 36.7 
+Tom_Ford/g03cbeohn_w_0000003 75.7 88.4 
+Tom_Ford/g03cbeohn_w_0000004 92.4 97.2 
+Tom_Ford/g03cbeohn_w_0000005 97.8 104.1 
+Tom_Ford/g03cbeohn_w_0000006 148.9 160.9 
+Tom_Ford/g03cbeohn_w_0000007 172.5 176.8 
+Tom_Ford/g03cbeohn_w_0000008 182.3 188.8 
+Tom_Ford/g03cbeohn_w_0000009 207.4 216.1 
+Tom_Ford/g03cbeohn_w_0000010 217.2 224.0 
+Tom_Ford/g03cbeohn_w_0000011 228.0 244.0 
+Tom_Ford/g03cbeohn_w_0000012 245.0 252.6 

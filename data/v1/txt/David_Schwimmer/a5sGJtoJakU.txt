@@ -1,0 +1,7 @@
+POI: 			David_Schwimmer 
+Youtube ID: 	a5sGJtoJakU 
+Video length: 	343.6 sec 
+Set (V): 		dev 
+ 
+David_Schwimmer/a5sGJtoJakU_0000001 93.4 98.1 
+David_Schwimmer/a5sGJtoJakU_0000002 157.9 164.5 

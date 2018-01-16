@@ -1,0 +1,11 @@
+POI: 			Anne_Hathaway 
+Youtube ID: 	6gAqaYX0Lig 
+Video length: 	405.5 sec 
+Set (V): 		dev 
+ 
+Anne_Hathaway/6gAqaYX0Lig_0000001 156.6 162.2 
+Anne_Hathaway/6gAqaYX0Lig_0000002 165.2 178.3 
+Anne_Hathaway/6gAqaYX0Lig_0000003 180.3 189.5 
+Anne_Hathaway/6gAqaYX0Lig_0000004 190.3 204.1 
+Anne_Hathaway/6gAqaYX0Lig_0000005 225.2 230.9 
+Anne_Hathaway/6gAqaYX0Lig_0000006 394.5 402.6 

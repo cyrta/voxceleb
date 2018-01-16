@@ -1,0 +1,8 @@
+POI: 			Rob_Brydon 
+Youtube ID: 	efVa3hUU6Kg 
+Video length: 	127.2 sec 
+Set (V): 		dev 
+ 
+Rob_Brydon/efVa3hUU6Kg_0000001 35.8 47.0 
+Rob_Brydon/efVa3hUU6Kg_0000002 57.7 63.3 
+Rob_Brydon/efVa3hUU6Kg_0000003 78.6 84.7 

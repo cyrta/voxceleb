@@ -1,0 +1,12 @@
+POI: 			Manish_Dayal 
+Youtube ID: 	ExNV6t8p6EQ 
+Video length: 	327.7 sec 
+Set (V): 		dev 
+ 
+Manish_Dayal/ExNV6t8p6EQ_0000001 43.3 47.4 
+Manish_Dayal/ExNV6t8p6EQ_0000002 103.7 108.0 
+Manish_Dayal/ExNV6t8p6EQ_0000003 109.3 116.3 
+Manish_Dayal/ExNV6t8p6EQ_0000004 137.7 142.8 
+Manish_Dayal/ExNV6t8p6EQ_0000005 218.7 230.9 
+Manish_Dayal/ExNV6t8p6EQ_0000006 272.4 279.4 
+Manish_Dayal/ExNV6t8p6EQ_0000007 297.4 302.2 

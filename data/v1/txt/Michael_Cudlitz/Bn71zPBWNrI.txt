@@ -1,0 +1,9 @@
+POI: 			Michael_Cudlitz 
+Youtube ID: 	Bn71zPBWNrI 
+Video length: 	656.8 sec 
+Set (V): 		dev 
+ 
+Michael_Cudlitz/Bn71zPBWNrI_0000001 56.4 61.8 
+Michael_Cudlitz/Bn71zPBWNrI_0000002 65.0 69.2 
+Michael_Cudlitz/Bn71zPBWNrI_0000003 73.9 86.7 
+Michael_Cudlitz/Bn71zPBWNrI_0000004 91.0 96.3 

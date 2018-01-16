@@ -1,0 +1,10 @@
+POI: 			Zachary_Quinto 
+Youtube ID: 	RUWl-AE3ocU 
+Video length: 	372.8 sec 
+Set (V): 		dev 
+ 
+Zachary_Quinto/RUWl-AE3ocU_0000001 40.5 44.6 
+Zachary_Quinto/RUWl-AE3ocU_0000002 141.2 147.6 
+Zachary_Quinto/RUWl-AE3ocU_0000003 198.4 203.7 
+Zachary_Quinto/RUWl-AE3ocU_0000004 243.9 250.0 
+Zachary_Quinto/RUWl-AE3ocU_0000005 250.5 257.4 

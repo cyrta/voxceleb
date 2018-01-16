@@ -1,0 +1,21 @@
+POI: 			Ken_Jeong 
+Youtube ID: 	PWBjwcknq4w 
+Video length: 	392.3 sec 
+Set (V): 		dev 
+ 
+Ken_Jeong/PWBjwcknq4w_0000001 48.3 52.4 
+Ken_Jeong/PWBjwcknq4w_0000002 69.3 86.3 
+Ken_Jeong/PWBjwcknq4w_0000003 96.6 104.0 
+Ken_Jeong/PWBjwcknq4w_0000004 113.4 122.0 
+Ken_Jeong/PWBjwcknq4w_0000005 122.8 129.8 
+Ken_Jeong/PWBjwcknq4w_0000006 144.1 156.4 
+Ken_Jeong/PWBjwcknq4w_0000007 166.7 171.6 
+Ken_Jeong/PWBjwcknq4w_0000008 187.3 207.0 
+Ken_Jeong/PWBjwcknq4w_0000009 215.2 224.2 
+Ken_Jeong/PWBjwcknq4w_0000010 225.7 245.8 
+Ken_Jeong/PWBjwcknq4w_0000011 216.7 233.8 
+Ken_Jeong/PWBjwcknq4w_0000012 250.9 264.2 
+Ken_Jeong/PWBjwcknq4w_0000013 273.6 286.4 
+Ken_Jeong/PWBjwcknq4w_0000014 293.2 303.7 
+Ken_Jeong/PWBjwcknq4w_0000015 356.2 362.2 
+Ken_Jeong/PWBjwcknq4w_0000016 372.7 378.3 

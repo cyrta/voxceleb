@@ -1,0 +1,11 @@
+POI: 			Malin_Akerman 
+Youtube ID: 	upf5MLD5J7M 
+Video length: 	267.3 sec 
+Set (V): 		dev 
+ 
+Malin_Akerman/upf5MLD5J7M_0000001 20.0 41.6 
+Malin_Akerman/upf5MLD5J7M_0000002 42.0 52.6 
+Malin_Akerman/upf5MLD5J7M_0000003 52.8 64.9 
+Malin_Akerman/upf5MLD5J7M_0000004 71.7 99.5 
+Malin_Akerman/upf5MLD5J7M_0000005 106.6 111.1 
+Malin_Akerman/upf5MLD5J7M_0000006 112.2 140.1 

@@ -1,0 +1,7 @@
+POI: 			Doutzen_Kroes 
+Youtube ID: 	xmNDYLlq4aQ 
+Video length: 	52.5 sec 
+Set (V): 		dev 
+ 
+Doutzen_Kroes/xmNDYLlq4aQ_0000001 06.1 11.7 
+Doutzen_Kroes/xmNDYLlq4aQ_0000002 37.0 51.0 

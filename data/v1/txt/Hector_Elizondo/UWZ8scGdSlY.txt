@@ -1,0 +1,9 @@
+POI: 			Hector_Elizondo 
+Youtube ID: 	UWZ8scGdSlY 
+Video length: 	102.5 sec 
+Set (V): 		dev 
+ 
+Hector_Elizondo/UWZ8scGdSlY_0000001 03.0 09.0 
+Hector_Elizondo/UWZ8scGdSlY_0000002 15.4 21.2 
+Hector_Elizondo/UWZ8scGdSlY_0000003 35.6 41.7 
+Hector_Elizondo/UWZ8scGdSlY_0000004 53.4 58.5 

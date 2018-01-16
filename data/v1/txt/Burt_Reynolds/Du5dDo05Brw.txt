@@ -1,0 +1,21 @@
+POI: 			Burt_Reynolds 
+Youtube ID: 	Du5dDo05Brw 
+Video length: 	1728.3 sec 
+Set (V): 		dev 
+ 
+Burt_Reynolds/Du5dDo05Brw_0000001 93.1 97.3 
+Burt_Reynolds/Du5dDo05Brw_0000002 404.1 409.2 
+Burt_Reynolds/Du5dDo05Brw_0000003 546.8 551.4 
+Burt_Reynolds/Du5dDo05Brw_0000004 555.0 560.5 
+Burt_Reynolds/Du5dDo05Brw_0000005 561.2 566.2 
+Burt_Reynolds/Du5dDo05Brw_0000006 637.7 642.0 
+Burt_Reynolds/Du5dDo05Brw_0000007 661.7 668.8 
+Burt_Reynolds/Du5dDo05Brw_0000008 677.5 682.5 
+Burt_Reynolds/Du5dDo05Brw_0000009 796.8 801.0 
+Burt_Reynolds/Du5dDo05Brw_0000010 802.4 807.1 
+Burt_Reynolds/Du5dDo05Brw_0000011 831.2 836.6 
+Burt_Reynolds/Du5dDo05Brw_0000012 1153.4 1157.9 
+Burt_Reynolds/Du5dDo05Brw_0000013 1334.8 1339.6 
+Burt_Reynolds/Du5dDo05Brw_0000014 1352.4 1358.6 
+Burt_Reynolds/Du5dDo05Brw_0000015 1368.6 1372.9 
+Burt_Reynolds/Du5dDo05Brw_0000016 1400.4 1406.7 

@@ -1,0 +1,13 @@
+POI: 			Michael_Cera 
+Youtube ID: 	5V38qDlvxPc 
+Video length: 	210.7 sec 
+Set (V): 		dev 
+ 
+Michael_Cera/5V38qDlvxPc_0000001 45.6 56.1 
+Michael_Cera/5V38qDlvxPc_0000002 56.5 61.1 
+Michael_Cera/5V38qDlvxPc_0000003 78.2 82.3 
+Michael_Cera/5V38qDlvxPc_0000004 84.6 93.8 
+Michael_Cera/5V38qDlvxPc_0000005 96.3 103.0 
+Michael_Cera/5V38qDlvxPc_0000006 114.6 118.8 
+Michael_Cera/5V38qDlvxPc_0000007 120.7 124.7 
+Michael_Cera/5V38qDlvxPc_0000008 156.4 168.9 

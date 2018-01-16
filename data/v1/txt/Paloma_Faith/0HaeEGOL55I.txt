@@ -1,0 +1,9 @@
+POI: 			Paloma_Faith 
+Youtube ID: 	0HaeEGOL55I 
+Video length: 	322.3 sec 
+Set (V): 		dev 
+ 
+Paloma_Faith/0HaeEGOL55I_0000001 133.0 139.9 
+Paloma_Faith/0HaeEGOL55I_0000002 177.9 184.8 
+Paloma_Faith/0HaeEGOL55I_0000003 258.9 267.6 
+Paloma_Faith/0HaeEGOL55I_0000004 285.4 293.8 

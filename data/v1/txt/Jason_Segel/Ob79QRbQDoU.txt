@@ -1,0 +1,8 @@
+POI: 			Jason_Segel 
+Youtube ID: 	Ob79QRbQDoU 
+Video length: 	361.5 sec 
+Set (V): 		dev 
+ 
+Jason_Segel/Ob79QRbQDoU_0000001 27.4 32.4 
+Jason_Segel/Ob79QRbQDoU_0000002 34.4 39.5 
+Jason_Segel/Ob79QRbQDoU_0000003 200.3 230.5 

@@ -1,0 +1,12 @@
+POI: 			Violante_Placido 
+Youtube ID: 	ztaGT_qnbG4 
+Video length: 	212.0 sec 
+Set (V): 		dev 
+ 
+Violante_Placido/ztaGT_qnbG4_0000001 16.7 24.5 
+Violante_Placido/ztaGT_qnbG4_0000002 24.7 29.7 
+Violante_Placido/ztaGT_qnbG4_0000003 44.9 50.8 
+Violante_Placido/ztaGT_qnbG4_0000004 112.0 127.8 
+Violante_Placido/ztaGT_qnbG4_0000005 144.8 150.8 
+Violante_Placido/ztaGT_qnbG4_0000006 151.5 160.6 
+Violante_Placido/ztaGT_qnbG4_0000007 172.3 187.9 

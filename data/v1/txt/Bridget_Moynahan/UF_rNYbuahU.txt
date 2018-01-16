@@ -1,0 +1,9 @@
+POI: 			Bridget_Moynahan 
+Youtube ID: 	UF_rNYbuahU 
+Video length: 	323.2 sec 
+Set (V): 		dev 
+ 
+Bridget_Moynahan/UF_rNYbuahU_0000001 58.3 64.9 
+Bridget_Moynahan/UF_rNYbuahU_0000002 106.1 115.2 
+Bridget_Moynahan/UF_rNYbuahU_0000003 115.7 129.3 
+Bridget_Moynahan/UF_rNYbuahU_0000004 207.5 212.1 

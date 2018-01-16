@@ -1,0 +1,9 @@
+POI: 			Pierre_Niney 
+Youtube ID: 	pkhdeXa-qEo 
+Video length: 	732.6 sec 
+Set (V): 		dev 
+ 
+Pierre_Niney/pkhdeXa-qEo_0000001 148.0 152.8 
+Pierre_Niney/pkhdeXa-qEo_0000002 153.8 165.3 
+Pierre_Niney/pkhdeXa-qEo_0000003 203.8 208.5 
+Pierre_Niney/pkhdeXa-qEo_0000004 209.3 217.1 

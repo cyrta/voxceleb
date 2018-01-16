@@ -1,0 +1,17 @@
+POI: 			Santiago_Cabrera 
+Youtube ID: 	zNQtopegK-Y 
+Video length: 	260.6 sec 
+Set (V): 		dev 
+ 
+Santiago_Cabrera/zNQtopegK-Y_0000001 21.5 25.9 
+Santiago_Cabrera/zNQtopegK-Y_0000002 32.7 39.0 
+Santiago_Cabrera/zNQtopegK-Y_0000003 57.7 66.0 
+Santiago_Cabrera/zNQtopegK-Y_0000004 69.0 74.2 
+Santiago_Cabrera/zNQtopegK-Y_0000005 98.0 103.6 
+Santiago_Cabrera/zNQtopegK-Y_0000006 139.3 144.7 
+Santiago_Cabrera/zNQtopegK-Y_0000007 153.6 165.5 
+Santiago_Cabrera/zNQtopegK-Y_0000008 166.6 172.6 
+Santiago_Cabrera/zNQtopegK-Y_0000009 195.7 200.2 
+Santiago_Cabrera/zNQtopegK-Y_0000010 200.6 206.2 
+Santiago_Cabrera/zNQtopegK-Y_0000011 235.6 240.7 
+Santiago_Cabrera/zNQtopegK-Y_0000012 240.8 249.4 

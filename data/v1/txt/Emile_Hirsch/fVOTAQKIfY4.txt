@@ -1,0 +1,8 @@
+POI: 			Emile_Hirsch 
+Youtube ID: 	fVOTAQKIfY4 
+Video length: 	171.0 sec 
+Set (V): 		test 
+ 
+Emile_Hirsch/fVOTAQKIfY4_0000001 13.3 18.2 
+Emile_Hirsch/fVOTAQKIfY4_0000002 21.2 30.5 
+Emile_Hirsch/fVOTAQKIfY4_0000003 130.2 136.0 

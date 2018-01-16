@@ -1,0 +1,8 @@
+POI: 			Olga_Kurylenko 
+Youtube ID: 	6gQn1rtEFR4 
+Video length: 	151.3 sec 
+Set (V): 		dev 
+ 
+Olga_Kurylenko/6gQn1rtEFR4_0000001 27.2 31.7 
+Olga_Kurylenko/6gQn1rtEFR4_0000002 32.4 48.0 
+Olga_Kurylenko/6gQn1rtEFR4_0000003 135.9 145.6 

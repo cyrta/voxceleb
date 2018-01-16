@@ -1,0 +1,9 @@
+POI: 			Eduardo_Noriega 
+Youtube ID: 	UIbPolhxLDI 
+Video length: 	402.0 sec 
+Set (V): 		test 
+ 
+Eduardo_Noriega/UIbPolhxLDI_0000001 99.8 105.7 
+Eduardo_Noriega/UIbPolhxLDI_0000002 136.0 142.8 
+Eduardo_Noriega/UIbPolhxLDI_0000003 160.6 173.2 
+Eduardo_Noriega/UIbPolhxLDI_0000004 219.2 224.8 

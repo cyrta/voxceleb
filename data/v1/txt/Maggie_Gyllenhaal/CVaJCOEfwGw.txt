@@ -1,0 +1,10 @@
+POI: 			Maggie_Gyllenhaal 
+Youtube ID: 	CVaJCOEfwGw 
+Video length: 	134.3 sec 
+Set (V): 		dev 
+ 
+Maggie_Gyllenhaal/CVaJCOEfwGw_0000001 47.0 57.4 
+Maggie_Gyllenhaal/CVaJCOEfwGw_0000002 59.0 76.1 
+Maggie_Gyllenhaal/CVaJCOEfwGw_0000003 88.1 97.4 
+Maggie_Gyllenhaal/CVaJCOEfwGw_0000004 105.1 121.8 
+Maggie_Gyllenhaal/CVaJCOEfwGw_0000005 123.9 127.8 

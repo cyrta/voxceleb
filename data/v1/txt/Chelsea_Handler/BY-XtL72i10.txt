@@ -1,0 +1,7 @@
+POI: 			Chelsea_Handler 
+Youtube ID: 	BY-XtL72i10 
+Video length: 	247.6 sec 
+Set (V): 		dev 
+ 
+Chelsea_Handler/BY-XtL72i10_0000001 07.9 12.1 
+Chelsea_Handler/BY-XtL72i10_0000002 57.6 63.0 

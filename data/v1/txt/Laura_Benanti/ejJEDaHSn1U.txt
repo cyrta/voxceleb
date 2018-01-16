@@ -1,0 +1,7 @@
+POI: 			Laura_Benanti 
+Youtube ID: 	ejJEDaHSn1U 
+Video length: 	122.0 sec 
+Set (V): 		dev 
+ 
+Laura_Benanti/ejJEDaHSn1U_0000001 75.8 86.3 
+Laura_Benanti/ejJEDaHSn1U_0000002 90.6 94.6 

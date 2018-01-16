@@ -1,0 +1,7 @@
+POI: 			Dave_Bautista 
+Youtube ID: 	suzGWjAoVDM 
+Video length: 	257.1 sec 
+Set (V): 		dev 
+ 
+Dave_Bautista/suzGWjAoVDM_0000001 217.6 222.0 
+Dave_Bautista/suzGWjAoVDM_0000002 247.0 251.4 

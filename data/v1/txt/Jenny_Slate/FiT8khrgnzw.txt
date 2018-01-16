@@ -1,0 +1,7 @@
+POI: 			Jenny_Slate 
+Youtube ID: 	FiT8khrgnzw 
+Video length: 	126.2 sec 
+Set (V): 		dev 
+ 
+Jenny_Slate/FiT8khrgnzw_0000001 71.6 75.8 
+Jenny_Slate/FiT8khrgnzw_0000002 99.2 105.8 

@@ -1,0 +1,31 @@
+POI: 			Suraj_Sharma 
+Youtube ID: 	ajiJfJowUIA 
+Video length: 	431.6 sec 
+Set (V): 		dev 
+ 
+Suraj_Sharma/ajiJfJowUIA_0000001 14.0 18.0 
+Suraj_Sharma/ajiJfJowUIA_0000002 18.9 24.0 
+Suraj_Sharma/ajiJfJowUIA_0000003 25.1 36.2 
+Suraj_Sharma/ajiJfJowUIA_0000004 41.6 46.1 
+Suraj_Sharma/ajiJfJowUIA_0000005 71.9 80.8 
+Suraj_Sharma/ajiJfJowUIA_0000006 82.0 92.6 
+Suraj_Sharma/ajiJfJowUIA_0000007 116.3 120.8 
+Suraj_Sharma/ajiJfJowUIA_0000008 123.4 129.8 
+Suraj_Sharma/ajiJfJowUIA_0000009 132.3 136.4 
+Suraj_Sharma/ajiJfJowUIA_0000010 143.5 148.4 
+Suraj_Sharma/ajiJfJowUIA_0000011 152.8 163.2 
+Suraj_Sharma/ajiJfJowUIA_0000012 164.2 169.4 
+Suraj_Sharma/ajiJfJowUIA_0000013 190.8 198.9 
+Suraj_Sharma/ajiJfJowUIA_0000014 199.0 204.9 
+Suraj_Sharma/ajiJfJowUIA_0000015 207.6 214.3 
+Suraj_Sharma/ajiJfJowUIA_0000016 218.9 236.3 
+Suraj_Sharma/ajiJfJowUIA_0000017 238.4 257.8 
+Suraj_Sharma/ajiJfJowUIA_0000018 260.8 266.2 
+Suraj_Sharma/ajiJfJowUIA_0000019 281.2 288.9 
+Suraj_Sharma/ajiJfJowUIA_0000020 289.0 293.5 
+Suraj_Sharma/ajiJfJowUIA_0000021 315.5 327.6 
+Suraj_Sharma/ajiJfJowUIA_0000022 330.5 342.3 
+Suraj_Sharma/ajiJfJowUIA_0000023 347.5 356.2 
+Suraj_Sharma/ajiJfJowUIA_0000024 370.4 390.4 
+Suraj_Sharma/ajiJfJowUIA_0000025 394.1 412.1 
+Suraj_Sharma/ajiJfJowUIA_0000026 413.4 418.1 

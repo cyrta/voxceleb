@@ -1,0 +1,16 @@
+POI: 			Cory_Monteith 
+Youtube ID: 	Bn-SNuseJiM 
+Video length: 	921.7 sec 
+Set (V): 		dev 
+ 
+Cory_Monteith/Bn-SNuseJiM_0000001 101.1 108.8 
+Cory_Monteith/Bn-SNuseJiM_0000002 115.3 136.4 
+Cory_Monteith/Bn-SNuseJiM_0000003 137.0 141.6 
+Cory_Monteith/Bn-SNuseJiM_0000004 369.8 374.8 
+Cory_Monteith/Bn-SNuseJiM_0000005 432.9 444.6 
+Cory_Monteith/Bn-SNuseJiM_0000006 445.3 449.3 
+Cory_Monteith/Bn-SNuseJiM_0000007 604.0 610.2 
+Cory_Monteith/Bn-SNuseJiM_0000008 662.5 668.8 
+Cory_Monteith/Bn-SNuseJiM_0000009 705.6 723.6 
+Cory_Monteith/Bn-SNuseJiM_0000010 876.2 886.7 
+Cory_Monteith/Bn-SNuseJiM_0000011 887.4 893.0 

@@ -1,0 +1,8 @@
+POI: 			Amanda_Seyfried 
+Youtube ID: 	wraVoumKhHE 
+Video length: 	294.8 sec 
+Set (V): 		dev 
+ 
+Amanda_Seyfried/wraVoumKhHE_0000001 75.5 79.7 
+Amanda_Seyfried/wraVoumKhHE_0000002 82.4 87.2 
+Amanda_Seyfried/wraVoumKhHE_0000003 186.3 190.5 

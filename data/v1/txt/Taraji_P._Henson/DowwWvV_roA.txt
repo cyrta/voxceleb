@@ -1,0 +1,12 @@
+POI: 			Taraji_P._Henson 
+Youtube ID: 	DowwWvV_roA 
+Video length: 	251.8 sec 
+Set (V): 		dev 
+ 
+Taraji_P._Henson/DowwWvV_roA_0000001 14.3 18.9 
+Taraji_P._Henson/DowwWvV_roA_0000002 23.2 30.0 
+Taraji_P._Henson/DowwWvV_roA_0000003 68.5 75.9 
+Taraji_P._Henson/DowwWvV_roA_0000004 114.4 119.0 
+Taraji_P._Henson/DowwWvV_roA_0000005 141.2 150.6 
+Taraji_P._Henson/DowwWvV_roA_0000006 166.0 174.8 
+Taraji_P._Henson/DowwWvV_roA_0000007 244.0 249.6 

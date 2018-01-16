@@ -1,0 +1,13 @@
+POI: 			Robert_Pattinson 
+Youtube ID: 	czMQttctreU 
+Video length: 	375.5 sec 
+Set (V): 		dev 
+ 
+Robert_Pattinson/czMQttctreU_0000001 70.7 75.2 
+Robert_Pattinson/czMQttctreU_0000002 96.1 110.3 
+Robert_Pattinson/czMQttctreU_0000003 123.8 129.5 
+Robert_Pattinson/czMQttctreU_0000004 188.4 201.2 
+Robert_Pattinson/czMQttctreU_0000005 220.6 226.8 
+Robert_Pattinson/czMQttctreU_0000006 308.1 314.1 
+Robert_Pattinson/czMQttctreU_0000007 325.5 331.4 
+Robert_Pattinson/czMQttctreU_0000008 355.9 363.4 

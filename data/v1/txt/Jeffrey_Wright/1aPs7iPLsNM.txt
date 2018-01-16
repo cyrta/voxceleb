@@ -1,0 +1,13 @@
+POI: 			Jeffrey_Wright 
+Youtube ID: 	1aPs7iPLsNM 
+Video length: 	347.6 sec 
+Set (V): 		dev 
+ 
+Jeffrey_Wright/1aPs7iPLsNM_0000001 49.8 54.5 
+Jeffrey_Wright/1aPs7iPLsNM_0000002 56.8 63.7 
+Jeffrey_Wright/1aPs7iPLsNM_0000003 91.8 96.0 
+Jeffrey_Wright/1aPs7iPLsNM_0000004 158.7 164.4 
+Jeffrey_Wright/1aPs7iPLsNM_0000005 174.9 180.4 
+Jeffrey_Wright/1aPs7iPLsNM_0000006 189.0 193.5 
+Jeffrey_Wright/1aPs7iPLsNM_0000007 233.9 240.1 
+Jeffrey_Wright/1aPs7iPLsNM_0000008 323.2 328.7 

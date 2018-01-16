@@ -1,0 +1,16 @@
+POI: 			Julie_Chen 
+Youtube ID: 	H8tVH1kGIEo 
+Video length: 	192.5 sec 
+Set (V): 		dev 
+ 
+Julie_Chen/H8tVH1kGIEo_0000001 09.8 18.2 
+Julie_Chen/H8tVH1kGIEo_0000002 22.2 32.6 
+Julie_Chen/H8tVH1kGIEo_0000003 38.5 45.7 
+Julie_Chen/H8tVH1kGIEo_0000004 60.4 79.7 
+Julie_Chen/H8tVH1kGIEo_0000005 85.4 90.4 
+Julie_Chen/H8tVH1kGIEo_0000006 91.6 97.0 
+Julie_Chen/H8tVH1kGIEo_0000007 101.9 116.4 
+Julie_Chen/H8tVH1kGIEo_0000008 118.2 140.6 
+Julie_Chen/H8tVH1kGIEo_0000009 147.1 152.8 
+Julie_Chen/H8tVH1kGIEo_0000010 165.8 174.8 
+Julie_Chen/H8tVH1kGIEo_0000011 177.4 184.2 

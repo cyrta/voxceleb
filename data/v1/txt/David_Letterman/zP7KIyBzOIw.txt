@@ -1,0 +1,8 @@
+POI: 			David_Letterman 
+Youtube ID: 	zP7KIyBzOIw 
+Video length: 	695.7 sec 
+Set (V): 		dev 
+ 
+David_Letterman/zP7KIyBzOIw_0000001 429.9 438.8 
+David_Letterman/zP7KIyBzOIw_0000002 495.8 505.6 
+David_Letterman/zP7KIyBzOIw_0000003 556.0 560.5 

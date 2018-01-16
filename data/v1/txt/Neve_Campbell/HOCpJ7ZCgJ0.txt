@@ -1,0 +1,8 @@
+POI: 			Neve_Campbell 
+Youtube ID: 	HOCpJ7ZCgJ0 
+Video length: 	105.2 sec 
+Set (V): 		dev 
+ 
+Neve_Campbell/HOCpJ7ZCgJ0_0000001 68.3 73.5 
+Neve_Campbell/HOCpJ7ZCgJ0_0000002 75.4 80.8 
+Neve_Campbell/HOCpJ7ZCgJ0_0000003 84.8 94.3 

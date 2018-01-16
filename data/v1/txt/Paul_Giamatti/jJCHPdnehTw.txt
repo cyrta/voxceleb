@@ -1,0 +1,8 @@
+POI: 			Paul_Giamatti 
+Youtube ID: 	jJCHPdnehTw 
+Video length: 	360.1 sec 
+Set (V): 		dev 
+ 
+Paul_Giamatti/jJCHPdnehTw_0000001 145.3 151.7 
+Paul_Giamatti/jJCHPdnehTw_0000002 179.3 192.3 
+Paul_Giamatti/jJCHPdnehTw_0000003 297.3 302.7 

@@ -1,0 +1,7 @@
+POI: 			Thomas_Lennon 
+Youtube ID: 	xujk0wlOqUw 
+Video length: 	484.5 sec 
+Set (V): 		dev 
+ 
+Thomas_Lennon/xujk0wlOqUw_0000001 313.1 319.0 
+Thomas_Lennon/xujk0wlOqUw_0000002 373.1 378.6 

@@ -1,0 +1,8 @@
+POI: 			Alexandra_Daddario 
+Youtube ID: 	qdaXcNBSSFI 
+Video length: 	1447.6 sec 
+Set (V): 		dev 
+ 
+Alexandra_Daddario/qdaXcNBSSFI_0000001 738.0 748.5 
+Alexandra_Daddario/qdaXcNBSSFI_0000002 751.8 755.9 
+Alexandra_Daddario/qdaXcNBSSFI_0000003 757.8 761.8 

@@ -1,0 +1,7 @@
+POI: 			Mary_McDonnell 
+Youtube ID: 	IihA_CokMWQ 
+Video length: 	204.9 sec 
+Set (V): 		dev 
+ 
+Mary_McDonnell/IihA_CokMWQ_0000001 175.8 180.2 
+Mary_McDonnell/IihA_CokMWQ_0000002 182.0 191.3 

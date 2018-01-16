@@ -1,0 +1,18 @@
+POI: 			Rhys_Ifans 
+Youtube ID: 	rEhBM_VI-Ms 
+Video length: 	214.0 sec 
+Set (V): 		dev 
+ 
+Rhys_Ifans/rEhBM_VI-Ms_0000001 02.6 07.3 
+Rhys_Ifans/rEhBM_VI-Ms_0000002 11.6 15.6 
+Rhys_Ifans/rEhBM_VI-Ms_0000003 16.1 29.5 
+Rhys_Ifans/rEhBM_VI-Ms_0000004 33.8 38.0 
+Rhys_Ifans/rEhBM_VI-Ms_0000005 70.8 75.5 
+Rhys_Ifans/rEhBM_VI-Ms_0000006 76.4 81.0 
+Rhys_Ifans/rEhBM_VI-Ms_0000007 86.8 91.3 
+Rhys_Ifans/rEhBM_VI-Ms_0000008 95.7 102.2 
+Rhys_Ifans/rEhBM_VI-Ms_0000009 102.6 111.4 
+Rhys_Ifans/rEhBM_VI-Ms_0000010 111.8 119.2 
+Rhys_Ifans/rEhBM_VI-Ms_0000011 169.0 176.3 
+Rhys_Ifans/rEhBM_VI-Ms_0000012 178.6 186.2 
+Rhys_Ifans/rEhBM_VI-Ms_0000013 191.6 205.3 

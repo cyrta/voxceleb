@@ -1,0 +1,7 @@
+POI: 			John_Cleese 
+Youtube ID: 	qCj6YNIpqmA 
+Video length: 	291.3 sec 
+Set (V): 		dev 
+ 
+John_Cleese/qCj6YNIpqmA_0000001 244.6 251.2 
+John_Cleese/qCj6YNIpqmA_0000002 257.4 262.7 

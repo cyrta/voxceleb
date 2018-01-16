@@ -1,0 +1,13 @@
+POI: 			Vidya_Balan 
+Youtube ID: 	P_ch5zc2wfs 
+Video length: 	1020.1 sec 
+Set (V): 		dev 
+ 
+Vidya_Balan/P_ch5zc2wfs_0000001 327.5 331.8 
+Vidya_Balan/P_ch5zc2wfs_0000002 392.3 396.6 
+Vidya_Balan/P_ch5zc2wfs_0000003 506.6 511.0 
+Vidya_Balan/P_ch5zc2wfs_0000004 511.5 516.0 
+Vidya_Balan/P_ch5zc2wfs_0000005 768.7 773.0 
+Vidya_Balan/P_ch5zc2wfs_0000006 791.0 799.9 
+Vidya_Balan/P_ch5zc2wfs_0000007 876.0 881.2 
+Vidya_Balan/P_ch5zc2wfs_0000008 890.7 901.9 

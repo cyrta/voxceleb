@@ -1,0 +1,15 @@
+POI: 			Katherine_Jenkins 
+Youtube ID: 	Yocizg57t48 
+Video length: 	352.3 sec 
+Set (V): 		dev 
+ 
+Katherine_Jenkins/Yocizg57t48_0000001 35.6 39.7 
+Katherine_Jenkins/Yocizg57t48_0000002 49.3 63.8 
+Katherine_Jenkins/Yocizg57t48_0000003 78.0 82.1 
+Katherine_Jenkins/Yocizg57t48_0000004 91.2 100.2 
+Katherine_Jenkins/Yocizg57t48_0000005 104.5 112.5 
+Katherine_Jenkins/Yocizg57t48_0000006 130.4 139.2 
+Katherine_Jenkins/Yocizg57t48_0000007 153.1 159.8 
+Katherine_Jenkins/Yocizg57t48_0000008 257.4 266.6 
+Katherine_Jenkins/Yocizg57t48_0000009 295.0 301.4 
+Katherine_Jenkins/Yocizg57t48_0000010 306.6 313.0 

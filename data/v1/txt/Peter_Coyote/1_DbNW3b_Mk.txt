@@ -1,0 +1,7 @@
+POI: 			Peter_Coyote 
+Youtube ID: 	1_DbNW3b_Mk 
+Video length: 	177.7 sec 
+Set (V): 		dev 
+ 
+Peter_Coyote/1_DbNW3b_Mk_0000001 155.0 163.4 
+Peter_Coyote/1_DbNW3b_Mk_0000002 166.6 172.6 

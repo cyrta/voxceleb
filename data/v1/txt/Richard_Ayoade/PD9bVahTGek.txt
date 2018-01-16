@@ -1,0 +1,7 @@
+POI: 			Richard_Ayoade 
+Youtube ID: 	PD9bVahTGek 
+Video length: 	574.6 sec 
+Set (V): 		dev 
+ 
+Richard_Ayoade/PD9bVahTGek_0000001 175.6 180.9 
+Richard_Ayoade/PD9bVahTGek_0000002 383.4 389.5 

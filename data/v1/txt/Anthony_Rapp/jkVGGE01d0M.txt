@@ -1,0 +1,8 @@
+POI: 			Anthony_Rapp 
+Youtube ID: 	jkVGGE01d0M 
+Video length: 	530.4 sec 
+Set (V): 		dev 
+ 
+Anthony_Rapp/jkVGGE01d0M_0000001 55.2 59.8 
+Anthony_Rapp/jkVGGE01d0M_0000002 247.2 251.7 
+Anthony_Rapp/jkVGGE01d0M_0000003 252.6 257.9 

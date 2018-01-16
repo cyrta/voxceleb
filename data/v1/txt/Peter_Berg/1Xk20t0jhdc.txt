@@ -1,0 +1,8 @@
+POI: 			Peter_Berg 
+Youtube ID: 	1Xk20t0jhdc 
+Video length: 	78.4 sec 
+Set (V): 		dev 
+ 
+Peter_Berg/1Xk20t0jhdc_0000001 13.0 19.2 
+Peter_Berg/1Xk20t0jhdc_0000002 29.8 40.9 
+Peter_Berg/1Xk20t0jhdc_0000003 64.4 70.1 

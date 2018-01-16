@@ -1,0 +1,7 @@
+POI: 			Jacob_Latimore 
+Youtube ID: 	UT20tNsh8jo 
+Video length: 	231.3 sec 
+Set (V): 		dev 
+ 
+Jacob_Latimore/UT20tNsh8jo_0000001 10.0 20.2 
+Jacob_Latimore/UT20tNsh8jo_0000002 153.7 158.4 

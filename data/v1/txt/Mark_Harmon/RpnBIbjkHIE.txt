@@ -1,0 +1,13 @@
+POI: 			Mark_Harmon 
+Youtube ID: 	RpnBIbjkHIE 
+Video length: 	252.9 sec 
+Set (V): 		dev 
+ 
+Mark_Harmon/RpnBIbjkHIE_0000001 18.9 25.4 
+Mark_Harmon/RpnBIbjkHIE_0000002 68.2 73.8 
+Mark_Harmon/RpnBIbjkHIE_0000003 74.5 84.3 
+Mark_Harmon/RpnBIbjkHIE_0000004 84.8 89.1 
+Mark_Harmon/RpnBIbjkHIE_0000005 115.6 121.0 
+Mark_Harmon/RpnBIbjkHIE_0000006 157.5 167.7 
+Mark_Harmon/RpnBIbjkHIE_0000007 175.8 181.1 
+Mark_Harmon/RpnBIbjkHIE_0000008 213.5 220.4 

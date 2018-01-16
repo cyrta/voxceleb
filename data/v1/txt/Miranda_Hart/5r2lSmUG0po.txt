@@ -1,0 +1,12 @@
+POI: 			Miranda_Hart 
+Youtube ID: 	5r2lSmUG0po 
+Video length: 	219.0 sec 
+Set (V): 		dev 
+ 
+Miranda_Hart/5r2lSmUG0po_0000001 50.2 60.3 
+Miranda_Hart/5r2lSmUG0po_0000002 115.5 121.1 
+Miranda_Hart/5r2lSmUG0po_0000003 137.9 146.4 
+Miranda_Hart/5r2lSmUG0po_0000004 146.6 150.8 
+Miranda_Hart/5r2lSmUG0po_0000005 192.3 200.7 
+Miranda_Hart/5r2lSmUG0po_0000006 207.1 211.6 
+Miranda_Hart/5r2lSmUG0po_0000007 211.8 217.3 

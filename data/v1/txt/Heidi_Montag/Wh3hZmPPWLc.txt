@@ -1,0 +1,8 @@
+POI: 			Heidi_Montag 
+Youtube ID: 	Wh3hZmPPWLc 
+Video length: 	400.0 sec 
+Set (V): 		dev 
+ 
+Heidi_Montag/Wh3hZmPPWLc_0000001 123.9 129.4 
+Heidi_Montag/Wh3hZmPPWLc_0000002 287.6 297.0 
+Heidi_Montag/Wh3hZmPPWLc_0000003 327.6 332.0 

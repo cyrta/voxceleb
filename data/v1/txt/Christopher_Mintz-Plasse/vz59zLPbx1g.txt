@@ -1,0 +1,7 @@
+POI: 			Christopher_Mintz-Plasse 
+Youtube ID: 	vz59zLPbx1g 
+Video length: 	186.1 sec 
+Set (V): 		dev 
+ 
+Christopher_Mintz-Plasse/vz59zLPbx1g_0000001 146.8 151.0 
+Christopher_Mintz-Plasse/vz59zLPbx1g_0000002 167.4 173.4 

@@ -1,0 +1,11 @@
+POI: 			Lesley_Manville 
+Youtube ID: 	C1KzB3Fg5t0 
+Video length: 	124.8 sec 
+Set (V): 		dev 
+ 
+Lesley_Manville/C1KzB3Fg5t0_0000001 09.3 14.2 
+Lesley_Manville/C1KzB3Fg5t0_0000002 21.4 29.2 
+Lesley_Manville/C1KzB3Fg5t0_0000003 31.2 38.3 
+Lesley_Manville/C1KzB3Fg5t0_0000004 70.2 78.1 
+Lesley_Manville/C1KzB3Fg5t0_0000005 81.1 93.9 
+Lesley_Manville/C1KzB3Fg5t0_0000006 95.9 100.1 

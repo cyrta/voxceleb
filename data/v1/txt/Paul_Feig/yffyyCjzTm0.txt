@@ -1,0 +1,33 @@
+POI: 			Paul_Feig 
+Youtube ID: 	yffyyCjzTm0 
+Video length: 	489.6 sec 
+Set (V): 		dev 
+ 
+Paul_Feig/yffyyCjzTm0_0000001 25.2 30.8 
+Paul_Feig/yffyyCjzTm0_0000002 33.1 38.6 
+Paul_Feig/yffyyCjzTm0_0000003 43.2 54.9 
+Paul_Feig/yffyyCjzTm0_0000004 55.3 63.5 
+Paul_Feig/yffyyCjzTm0_0000005 69.0 85.2 
+Paul_Feig/yffyyCjzTm0_0000006 85.4 94.7 
+Paul_Feig/yffyyCjzTm0_0000007 104.2 126.6 
+Paul_Feig/yffyyCjzTm0_0000008 80.3 85.7 
+Paul_Feig/yffyyCjzTm0_0000009 166.1 170.2 
+Paul_Feig/yffyyCjzTm0_0000010 170.6 181.8 
+Paul_Feig/yffyyCjzTm0_0000011 182.6 188.3 
+Paul_Feig/yffyyCjzTm0_0000012 188.6 197.5 
+Paul_Feig/yffyyCjzTm0_0000013 217.1 222.8 
+Paul_Feig/yffyyCjzTm0_0000014 186.8 204.6 
+Paul_Feig/yffyyCjzTm0_0000015 205.1 222.9 
+Paul_Feig/yffyyCjzTm0_0000016 290.2 295.1 
+Paul_Feig/yffyyCjzTm0_0000017 302.6 307.0 
+Paul_Feig/yffyyCjzTm0_0000018 309.0 314.9 
+Paul_Feig/yffyyCjzTm0_0000019 323.0 337.0 
+Paul_Feig/yffyyCjzTm0_0000020 348.5 352.8 
+Paul_Feig/yffyyCjzTm0_0000021 356.6 365.9 
+Paul_Feig/yffyyCjzTm0_0000022 369.2 374.9 
+Paul_Feig/yffyyCjzTm0_0000023 376.2 382.1 
+Paul_Feig/yffyyCjzTm0_0000024 380.7 385.3 
+Paul_Feig/yffyyCjzTm0_0000025 387.5 412.5 
+Paul_Feig/yffyyCjzTm0_0000026 412.4 416.8 
+Paul_Feig/yffyyCjzTm0_0000027 433.5 445.5 
+Paul_Feig/yffyyCjzTm0_0000028 424.6 444.8 

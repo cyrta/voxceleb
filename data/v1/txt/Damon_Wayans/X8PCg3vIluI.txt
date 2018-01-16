@@ -1,0 +1,7 @@
+POI: 			Damon_Wayans 
+Youtube ID: 	X8PCg3vIluI 
+Video length: 	378.5 sec 
+Set (V): 		dev 
+ 
+Damon_Wayans/X8PCg3vIluI_0000001 54.1 60.5 
+Damon_Wayans/X8PCg3vIluI_0000002 268.7 272.7 

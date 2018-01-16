@@ -1,0 +1,11 @@
+POI: 			Vanessa_Hudgens 
+Youtube ID: 	fsXwDEEnj10 
+Video length: 	281.4 sec 
+Set (V): 		dev 
+ 
+Vanessa_Hudgens/fsXwDEEnj10_0000001 70.4 83.2 
+Vanessa_Hudgens/fsXwDEEnj10_0000002 177.0 183.1 
+Vanessa_Hudgens/fsXwDEEnj10_0000003 192.5 196.7 
+Vanessa_Hudgens/fsXwDEEnj10_0000004 201.8 207.8 
+Vanessa_Hudgens/fsXwDEEnj10_0000005 213.9 218.6 
+Vanessa_Hudgens/fsXwDEEnj10_0000006 264.8 271.0 

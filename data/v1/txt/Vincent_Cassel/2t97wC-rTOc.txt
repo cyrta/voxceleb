@@ -1,0 +1,12 @@
+POI: 			Vincent_Cassel 
+Youtube ID: 	2t97wC-rTOc 
+Video length: 	296.9 sec 
+Set (V): 		dev 
+ 
+Vincent_Cassel/2t97wC-rTOc_0000001 109.7 125.2 
+Vincent_Cassel/2t97wC-rTOc_0000002 136.6 140.6 
+Vincent_Cassel/2t97wC-rTOc_0000003 165.1 172.4 
+Vincent_Cassel/2t97wC-rTOc_0000004 237.3 243.0 
+Vincent_Cassel/2t97wC-rTOc_0000005 247.3 253.8 
+Vincent_Cassel/2t97wC-rTOc_0000006 257.5 266.6 
+Vincent_Cassel/2t97wC-rTOc_0000007 269.7 276.4 

@@ -1,0 +1,13 @@
+POI: 			Sung_Kang 
+Youtube ID: 	Yb2jbwh0zQY 
+Video length: 	256.2 sec 
+Set (V): 		dev 
+ 
+Sung_Kang/Yb2jbwh0zQY_0000001 14.9 20.4 
+Sung_Kang/Yb2jbwh0zQY_0000002 22.1 32.4 
+Sung_Kang/Yb2jbwh0zQY_0000003 32.7 36.8 
+Sung_Kang/Yb2jbwh0zQY_0000004 42.1 48.2 
+Sung_Kang/Yb2jbwh0zQY_0000005 48.6 59.5 
+Sung_Kang/Yb2jbwh0zQY_0000006 64.2 69.0 
+Sung_Kang/Yb2jbwh0zQY_0000007 69.1 74.0 
+Sung_Kang/Yb2jbwh0zQY_0000008 80.0 89.5 

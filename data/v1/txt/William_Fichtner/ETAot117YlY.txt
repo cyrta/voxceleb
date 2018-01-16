@@ -1,0 +1,8 @@
+POI: 			William_Fichtner 
+Youtube ID: 	ETAot117YlY 
+Video length: 	172.3 sec 
+Set (V): 		dev 
+ 
+William_Fichtner/ETAot117YlY_0000001 85.1 91.0 
+William_Fichtner/ETAot117YlY_0000002 106.6 119.4 
+William_Fichtner/ETAot117YlY_0000003 124.3 136.7 

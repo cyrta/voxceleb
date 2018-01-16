@@ -1,0 +1,8 @@
+POI: 			Melissa_Leo 
+Youtube ID: 	kfAeIefXxG8 
+Video length: 	365.9 sec 
+Set (V): 		dev 
+ 
+Melissa_Leo/kfAeIefXxG8_0000001 136.5 144.4 
+Melissa_Leo/kfAeIefXxG8_0000002 158.2 162.6 
+Melissa_Leo/kfAeIefXxG8_0000003 167.1 173.1 

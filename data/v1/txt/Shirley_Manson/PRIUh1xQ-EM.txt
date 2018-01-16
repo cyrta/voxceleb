@@ -1,0 +1,16 @@
+POI: 			Shirley_Manson 
+Youtube ID: 	PRIUh1xQ-EM 
+Video length: 	2529.2 sec 
+Set (V): 		dev 
+ 
+Shirley_Manson/PRIUh1xQ-EM_0000001 585.2 589.6 
+Shirley_Manson/PRIUh1xQ-EM_0000002 590.5 600.7 
+Shirley_Manson/PRIUh1xQ-EM_0000003 767.9 773.0 
+Shirley_Manson/PRIUh1xQ-EM_0000004 773.8 779.2 
+Shirley_Manson/PRIUh1xQ-EM_0000005 1257.9 1262.7 
+Shirley_Manson/PRIUh1xQ-EM_0000006 1269.1 1273.2 
+Shirley_Manson/PRIUh1xQ-EM_0000007 1303.9 1311.7 
+Shirley_Manson/PRIUh1xQ-EM_0000008 1586.0 1590.0 
+Shirley_Manson/PRIUh1xQ-EM_0000009 1702.8 1709.2 
+Shirley_Manson/PRIUh1xQ-EM_0000010 1710.7 1723.1 
+Shirley_Manson/PRIUh1xQ-EM_0000011 1723.8 1728.2 

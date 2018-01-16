@@ -1,0 +1,7 @@
+POI: 			Carrie_Ann_Inaba 
+Youtube ID: 	cXWo61B4NLQ 
+Video length: 	105.2 sec 
+Set (V): 		dev 
+ 
+Carrie_Ann_Inaba/cXWo61B4NLQ_0000001 28.8 34.0 
+Carrie_Ann_Inaba/cXWo61B4NLQ_0000002 48.9 53.0 

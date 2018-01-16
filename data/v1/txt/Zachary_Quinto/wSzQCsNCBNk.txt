@@ -1,0 +1,9 @@
+POI: 			Zachary_Quinto 
+Youtube ID: 	wSzQCsNCBNk 
+Video length: 	298.9 sec 
+Set (V): 		dev 
+ 
+Zachary_Quinto/wSzQCsNCBNk_0000001 27.4 32.5 
+Zachary_Quinto/wSzQCsNCBNk_0000002 186.5 195.2 
+Zachary_Quinto/wSzQCsNCBNk_0000003 226.2 231.5 
+Zachary_Quinto/wSzQCsNCBNk_0000004 253.3 276.0 

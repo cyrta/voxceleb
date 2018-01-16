@@ -1,0 +1,11 @@
+POI: 			John_Goodman 
+Youtube ID: 	O3I8FSil9ZM 
+Video length: 	242.7 sec 
+Set (V): 		dev 
+ 
+John_Goodman/O3I8FSil9ZM_0000001 17.3 26.9 
+John_Goodman/O3I8FSil9ZM_0000002 27.6 45.0 
+John_Goodman/O3I8FSil9ZM_0000003 114.0 119.1 
+John_Goodman/O3I8FSil9ZM_0000004 136.5 140.6 
+John_Goodman/O3I8FSil9ZM_0000005 162.3 167.4 
+John_Goodman/O3I8FSil9ZM_0000006 172.3 183.5 

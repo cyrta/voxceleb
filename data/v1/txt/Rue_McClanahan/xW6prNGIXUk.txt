@@ -1,0 +1,8 @@
+POI: 			Rue_McClanahan 
+Youtube ID: 	xW6prNGIXUk 
+Video length: 	140.0 sec 
+Set (V): 		dev 
+ 
+Rue_McClanahan/xW6prNGIXUk_0000001 06.0 14.5 
+Rue_McClanahan/xW6prNGIXUk_0000002 72.2 77.4 
+Rue_McClanahan/xW6prNGIXUk_0000003 115.0 123.6 

@@ -1,0 +1,7 @@
+POI: 			America_Ferrera 
+Youtube ID: 	0kJh-VyhrJQ 
+Video length: 	288.7 sec 
+Set (V): 		dev 
+ 
+America_Ferrera/0kJh-VyhrJQ_0000001 19.4 36.9 
+America_Ferrera/0kJh-VyhrJQ_0000002 156.6 164.6 

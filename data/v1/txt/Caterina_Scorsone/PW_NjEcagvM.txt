@@ -1,0 +1,10 @@
+POI: 			Caterina_Scorsone 
+Youtube ID: 	PW_NjEcagvM 
+Video length: 	299.2 sec 
+Set (V): 		dev 
+ 
+Caterina_Scorsone/PW_NjEcagvM_0000001 79.6 85.9 
+Caterina_Scorsone/PW_NjEcagvM_0000002 138.5 144.5 
+Caterina_Scorsone/PW_NjEcagvM_0000003 144.8 156.2 
+Caterina_Scorsone/PW_NjEcagvM_0000004 251.9 258.6 
+Caterina_Scorsone/PW_NjEcagvM_0000005 259.0 265.4 

@@ -1,0 +1,13 @@
+POI: 			Taylor_Lautner 
+Youtube ID: 	nXZszoPK7Ms 
+Video length: 	482.7 sec 
+Set (V): 		dev 
+ 
+Taylor_Lautner/nXZszoPK7Ms_0000001 59.8 64.6 
+Taylor_Lautner/nXZszoPK7Ms_0000002 130.1 141.3 
+Taylor_Lautner/nXZszoPK7Ms_0000003 147.4 152.6 
+Taylor_Lautner/nXZszoPK7Ms_0000004 198.7 204.0 
+Taylor_Lautner/nXZszoPK7Ms_0000005 217.6 222.0 
+Taylor_Lautner/nXZszoPK7Ms_0000006 341.0 348.5 
+Taylor_Lautner/nXZszoPK7Ms_0000007 404.3 408.5 
+Taylor_Lautner/nXZszoPK7Ms_0000008 420.9 425.8 

@@ -1,0 +1,7 @@
+POI: 			Sandra_Oh 
+Youtube ID: 	aobDxawvhus 
+Video length: 	205.5 sec 
+Set (V): 		dev 
+ 
+Sandra_Oh/aobDxawvhus_0000001 127.1 137.5 
+Sandra_Oh/aobDxawvhus_0000002 139.9 146.2 

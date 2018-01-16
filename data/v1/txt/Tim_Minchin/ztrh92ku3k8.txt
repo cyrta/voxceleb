@@ -1,0 +1,19 @@
+POI: 			Tim_Minchin 
+Youtube ID: 	ztrh92ku3k8 
+Video length: 	355.2 sec 
+Set (V): 		dev 
+ 
+Tim_Minchin/ztrh92ku3k8_0000001 41.2 49.6 
+Tim_Minchin/ztrh92ku3k8_0000002 76.5 86.8 
+Tim_Minchin/ztrh92ku3k8_0000003 87.0 118.0 
+Tim_Minchin/ztrh92ku3k8_0000004 137.4 147.3 
+Tim_Minchin/ztrh92ku3k8_0000005 147.9 174.4 
+Tim_Minchin/ztrh92ku3k8_0000006 175.6 189.2 
+Tim_Minchin/ztrh92ku3k8_0000007 196.9 204.5 
+Tim_Minchin/ztrh92ku3k8_0000008 243.9 250.8 
+Tim_Minchin/ztrh92ku3k8_0000009 260.6 268.2 
+Tim_Minchin/ztrh92ku3k8_0000010 268.6 278.8 
+Tim_Minchin/ztrh92ku3k8_0000011 297.0 302.6 
+Tim_Minchin/ztrh92ku3k8_0000012 304.0 309.8 
+Tim_Minchin/ztrh92ku3k8_0000013 311.0 327.2 
+Tim_Minchin/ztrh92ku3k8_0000014 328.3 340.8 

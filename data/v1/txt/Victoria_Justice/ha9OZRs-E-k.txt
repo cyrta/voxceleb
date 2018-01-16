@@ -1,0 +1,12 @@
+POI: 			Victoria_Justice 
+Youtube ID: 	ha9OZRs-E-k 
+Video length: 	122.4 sec 
+Set (V): 		dev 
+ 
+Victoria_Justice/ha9OZRs-E-k_0000001 06.8 15.9 
+Victoria_Justice/ha9OZRs-E-k_0000002 16.9 28.4 
+Victoria_Justice/ha9OZRs-E-k_0000003 32.8 45.8 
+Victoria_Justice/ha9OZRs-E-k_0000004 51.0 55.5 
+Victoria_Justice/ha9OZRs-E-k_0000005 55.8 85.4 
+Victoria_Justice/ha9OZRs-E-k_0000006 93.6 103.5 
+Victoria_Justice/ha9OZRs-E-k_0000007 104.5 119.0 

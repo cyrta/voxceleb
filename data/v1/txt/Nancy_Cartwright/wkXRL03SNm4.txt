@@ -1,0 +1,12 @@
+POI: 			Nancy_Cartwright 
+Youtube ID: 	wkXRL03SNm4 
+Video length: 	190.0 sec 
+Set (V): 		dev 
+ 
+Nancy_Cartwright/wkXRL03SNm4_0000001 29.4 36.0 
+Nancy_Cartwright/wkXRL03SNm4_0000002 39.6 45.0 
+Nancy_Cartwright/wkXRL03SNm4_0000003 82.7 89.4 
+Nancy_Cartwright/wkXRL03SNm4_0000004 90.0 101.0 
+Nancy_Cartwright/wkXRL03SNm4_0000005 107.0 111.6 
+Nancy_Cartwright/wkXRL03SNm4_0000006 137.2 141.7 
+Nancy_Cartwright/wkXRL03SNm4_0000007 149.6 154.0 

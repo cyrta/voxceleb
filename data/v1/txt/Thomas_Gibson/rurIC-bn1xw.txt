@@ -1,0 +1,8 @@
+POI: 			Thomas_Gibson 
+Youtube ID: 	rurIC-bn1xw 
+Video length: 	202.0 sec 
+Set (V): 		dev 
+ 
+Thomas_Gibson/rurIC-bn1xw_0000001 103.2 110.6 
+Thomas_Gibson/rurIC-bn1xw_0000002 150.8 166.4 
+Thomas_Gibson/rurIC-bn1xw_0000003 173.9 186.9 

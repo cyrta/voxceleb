@@ -1,0 +1,15 @@
+POI: 			Jean-Marc_Barr 
+Youtube ID: 	7kHcVUZKQdw 
+Video length: 	725.9 sec 
+Set (V): 		dev 
+ 
+Jean-Marc_Barr/7kHcVUZKQdw_0000001 191.4 198.2 
+Jean-Marc_Barr/7kHcVUZKQdw_0000002 208.0 212.9 
+Jean-Marc_Barr/7kHcVUZKQdw_0000003 223.8 228.1 
+Jean-Marc_Barr/7kHcVUZKQdw_0000004 273.7 278.8 
+Jean-Marc_Barr/7kHcVUZKQdw_0000005 334.3 339.4 
+Jean-Marc_Barr/7kHcVUZKQdw_0000006 448.3 458.7 
+Jean-Marc_Barr/7kHcVUZKQdw_0000007 585.7 590.0 
+Jean-Marc_Barr/7kHcVUZKQdw_0000008 606.0 614.3 
+Jean-Marc_Barr/7kHcVUZKQdw_0000009 641.2 645.9 
+Jean-Marc_Barr/7kHcVUZKQdw_0000010 701.8 706.4 

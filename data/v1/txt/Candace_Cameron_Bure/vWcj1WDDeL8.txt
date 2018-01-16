@@ -1,0 +1,14 @@
+POI: 			Candace_Cameron_Bure 
+Youtube ID: 	vWcj1WDDeL8 
+Video length: 	258.0 sec 
+Set (V): 		dev 
+ 
+Candace_Cameron_Bure/vWcj1WDDeL8_0000001 31.6 38.6 
+Candace_Cameron_Bure/vWcj1WDDeL8_0000002 39.4 44.9 
+Candace_Cameron_Bure/vWcj1WDDeL8_0000003 61.7 66.8 
+Candace_Cameron_Bure/vWcj1WDDeL8_0000004 75.1 81.9 
+Candace_Cameron_Bure/vWcj1WDDeL8_0000005 99.2 116.2 
+Candace_Cameron_Bure/vWcj1WDDeL8_0000006 155.6 168.3 
+Candace_Cameron_Bure/vWcj1WDDeL8_0000007 168.8 181.8 
+Candace_Cameron_Bure/vWcj1WDDeL8_0000008 197.2 204.9 
+Candace_Cameron_Bure/vWcj1WDDeL8_0000009 224.6 232.6 

@@ -1,0 +1,16 @@
+POI: 			Paul_Giamatti 
+Youtube ID: 	5nt3XyTWy18 
+Video length: 	314.4 sec 
+Set (V): 		dev 
+ 
+Paul_Giamatti/5nt3XyTWy18_0000001 32.7 47.4 
+Paul_Giamatti/5nt3XyTWy18_0000002 90.8 96.5 
+Paul_Giamatti/5nt3XyTWy18_0000003 111.1 116.6 
+Paul_Giamatti/5nt3XyTWy18_0000004 152.6 160.4 
+Paul_Giamatti/5nt3XyTWy18_0000005 201.6 207.9 
+Paul_Giamatti/5nt3XyTWy18_0000006 208.6 219.9 
+Paul_Giamatti/5nt3XyTWy18_0000007 228.4 239.0 
+Paul_Giamatti/5nt3XyTWy18_0000008 244.8 260.9 
+Paul_Giamatti/5nt3XyTWy18_0000009 261.2 265.6 
+Paul_Giamatti/5nt3XyTWy18_0000010 275.9 281.8 
+Paul_Giamatti/5nt3XyTWy18_0000011 288.8 299.0 

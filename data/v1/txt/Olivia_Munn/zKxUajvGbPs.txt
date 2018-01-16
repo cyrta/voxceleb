@@ -1,0 +1,8 @@
+POI: 			Olivia_Munn 
+Youtube ID: 	zKxUajvGbPs 
+Video length: 	135.0 sec 
+Set (V): 		dev 
+ 
+Olivia_Munn/zKxUajvGbPs_0000001 12.8 25.7 
+Olivia_Munn/zKxUajvGbPs_0000002 44.2 55.0 
+Olivia_Munn/zKxUajvGbPs_0000003 67.2 72.5 

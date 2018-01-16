@@ -1,0 +1,9 @@
+POI: 			Amy_Poehler 
+Youtube ID: 	jzmFJ9B9INA 
+Video length: 	246.4 sec 
+Set (V): 		dev 
+ 
+Amy_Poehler/jzmFJ9B9INA_0000001 10.6 16.9 
+Amy_Poehler/jzmFJ9B9INA_0000002 126.1 134.0 
+Amy_Poehler/jzmFJ9B9INA_0000003 141.1 146.2 
+Amy_Poehler/jzmFJ9B9INA_0000004 222.6 229.8 

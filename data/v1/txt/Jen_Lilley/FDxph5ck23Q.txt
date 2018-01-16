@@ -1,0 +1,8 @@
+POI: 			Jen_Lilley 
+Youtube ID: 	FDxph5ck23Q 
+Video length: 	377.8 sec 
+Set (V): 		dev 
+ 
+Jen_Lilley/FDxph5ck23Q_0000001 30.6 45.7 
+Jen_Lilley/FDxph5ck23Q_0000002 46.3 50.8 
+Jen_Lilley/FDxph5ck23Q_0000003 222.6 229.6 

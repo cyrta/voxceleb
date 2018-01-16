@@ -1,0 +1,11 @@
+POI: 			Christopher_Mintz-Plasse 
+Youtube ID: 	ZwQHaR6XvkU 
+Video length: 	229.7 sec 
+Set (V): 		dev 
+ 
+Christopher_Mintz-Plasse/ZwQHaR6XvkU_0000001 21.0 29.6 
+Christopher_Mintz-Plasse/ZwQHaR6XvkU_0000002 76.6 84.5 
+Christopher_Mintz-Plasse/ZwQHaR6XvkU_0000003 117.7 122.1 
+Christopher_Mintz-Plasse/ZwQHaR6XvkU_0000004 124.0 131.4 
+Christopher_Mintz-Plasse/ZwQHaR6XvkU_0000005 154.9 161.4 
+Christopher_Mintz-Plasse/ZwQHaR6XvkU_0000006 180.6 188.8 

@@ -1,0 +1,8 @@
+POI: 			Eddie_McClintock 
+Youtube ID: 	HK20g60KlTI 
+Video length: 	289.3 sec 
+Set (V): 		test 
+ 
+Eddie_McClintock/HK20g60KlTI_0000001 75.8 83.3 
+Eddie_McClintock/HK20g60KlTI_0000002 209.6 218.9 
+Eddie_McClintock/HK20g60KlTI_0000003 250.6 255.3 

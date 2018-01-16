@@ -1,0 +1,21 @@
+POI: 			Olivia_Thirlby 
+Youtube ID: 	tgQ7RiPR6os 
+Video length: 	452.0 sec 
+Set (V): 		dev 
+ 
+Olivia_Thirlby/tgQ7RiPR6os_0000001 30.0 41.0 
+Olivia_Thirlby/tgQ7RiPR6os_0000002 41.8 47.5 
+Olivia_Thirlby/tgQ7RiPR6os_0000003 81.4 86.2 
+Olivia_Thirlby/tgQ7RiPR6os_0000004 87.2 93.4 
+Olivia_Thirlby/tgQ7RiPR6os_0000005 99.3 107.9 
+Olivia_Thirlby/tgQ7RiPR6os_0000006 175.0 182.3 
+Olivia_Thirlby/tgQ7RiPR6os_0000007 183.2 187.6 
+Olivia_Thirlby/tgQ7RiPR6os_0000008 232.8 247.7 
+Olivia_Thirlby/tgQ7RiPR6os_0000009 248.7 254.8 
+Olivia_Thirlby/tgQ7RiPR6os_0000010 255.4 264.1 
+Olivia_Thirlby/tgQ7RiPR6os_0000011 324.8 330.3 
+Olivia_Thirlby/tgQ7RiPR6os_0000012 333.9 339.8 
+Olivia_Thirlby/tgQ7RiPR6os_0000013 341.7 350.4 
+Olivia_Thirlby/tgQ7RiPR6os_0000014 367.7 376.1 
+Olivia_Thirlby/tgQ7RiPR6os_0000015 382.7 388.8 
+Olivia_Thirlby/tgQ7RiPR6os_0000016 389.2 393.6 

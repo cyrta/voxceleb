@@ -1,0 +1,12 @@
+POI: 			James_Nesbitt 
+Youtube ID: 	RHgFtU9eAlA 
+Video length: 	238.1 sec 
+Set (V): 		dev 
+ 
+James_Nesbitt/RHgFtU9eAlA_0000001 41.1 54.7 
+James_Nesbitt/RHgFtU9eAlA_0000002 87.3 92.0 
+James_Nesbitt/RHgFtU9eAlA_0000003 161.4 171.2 
+James_Nesbitt/RHgFtU9eAlA_0000004 176.2 180.7 
+James_Nesbitt/RHgFtU9eAlA_0000005 184.0 188.4 
+James_Nesbitt/RHgFtU9eAlA_0000006 209.1 216.5 
+James_Nesbitt/RHgFtU9eAlA_0000007 217.7 224.2 

@@ -1,0 +1,10 @@
+POI: 			Catherine_Hardwicke 
+Youtube ID: 	ORuNeUlLTs0 
+Video length: 	148.4 sec 
+Set (V): 		dev 
+ 
+Catherine_Hardwicke/ORuNeUlLTs0_0000001 08.6 14.6 
+Catherine_Hardwicke/ORuNeUlLTs0_0000002 16.9 21.9 
+Catherine_Hardwicke/ORuNeUlLTs0_0000003 22.9 27.6 
+Catherine_Hardwicke/ORuNeUlLTs0_0000004 39.0 44.7 
+Catherine_Hardwicke/ORuNeUlLTs0_0000005 68.3 73.5 

@@ -1,0 +1,21 @@
+POI: 			Akshay_Kumar 
+Youtube ID: 	G4ytSwL9uak 
+Video length: 	475.0 sec 
+Set (V): 		dev 
+ 
+Akshay_Kumar/G4ytSwL9uak_0000001 31.0 36.2 
+Akshay_Kumar/G4ytSwL9uak_0000002 68.8 74.6 
+Akshay_Kumar/G4ytSwL9uak_0000003 116.7 123.6 
+Akshay_Kumar/G4ytSwL9uak_0000004 143.4 149.3 
+Akshay_Kumar/G4ytSwL9uak_0000005 153.7 160.0 
+Akshay_Kumar/G4ytSwL9uak_0000006 175.6 187.3 
+Akshay_Kumar/G4ytSwL9uak_0000007 190.8 196.3 
+Akshay_Kumar/G4ytSwL9uak_0000008 244.2 248.5 
+Akshay_Kumar/G4ytSwL9uak_0000009 253.2 258.9 
+Akshay_Kumar/G4ytSwL9uak_0000010 317.9 322.7 
+Akshay_Kumar/G4ytSwL9uak_0000011 348.4 352.8 
+Akshay_Kumar/G4ytSwL9uak_0000012 360.6 366.2 
+Akshay_Kumar/G4ytSwL9uak_0000013 372.1 376.4 
+Akshay_Kumar/G4ytSwL9uak_0000014 425.8 431.0 
+Akshay_Kumar/G4ytSwL9uak_0000015 446.0 450.5 
+Akshay_Kumar/G4ytSwL9uak_0000016 454.4 465.6 

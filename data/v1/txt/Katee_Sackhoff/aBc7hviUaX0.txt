@@ -1,0 +1,9 @@
+POI: 			Katee_Sackhoff 
+Youtube ID: 	aBc7hviUaX0 
+Video length: 	525.2 sec 
+Set (V): 		dev 
+ 
+Katee_Sackhoff/aBc7hviUaX0_0000001 159.7 167.4 
+Katee_Sackhoff/aBc7hviUaX0_0000002 180.4 185.7 
+Katee_Sackhoff/aBc7hviUaX0_0000003 249.5 255.5 
+Katee_Sackhoff/aBc7hviUaX0_0000004 274.7 284.0 

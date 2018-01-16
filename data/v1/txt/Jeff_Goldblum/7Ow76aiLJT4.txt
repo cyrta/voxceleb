@@ -1,0 +1,12 @@
+POI: 			Jeff_Goldblum 
+Youtube ID: 	7Ow76aiLJT4 
+Video length: 	642.7 sec 
+Set (V): 		dev 
+ 
+Jeff_Goldblum/7Ow76aiLJT4_0000001 193.0 197.2 
+Jeff_Goldblum/7Ow76aiLJT4_0000002 197.7 202.4 
+Jeff_Goldblum/7Ow76aiLJT4_0000003 251.5 256.0 
+Jeff_Goldblum/7Ow76aiLJT4_0000004 260.8 265.6 
+Jeff_Goldblum/7Ow76aiLJT4_0000005 361.4 369.0 
+Jeff_Goldblum/7Ow76aiLJT4_0000006 531.8 538.4 
+Jeff_Goldblum/7Ow76aiLJT4_0000007 547.2 557.2 

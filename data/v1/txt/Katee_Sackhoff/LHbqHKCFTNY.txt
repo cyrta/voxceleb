@@ -1,0 +1,18 @@
+POI: 			Katee_Sackhoff 
+Youtube ID: 	LHbqHKCFTNY 
+Video length: 	366.6 sec 
+Set (V): 		dev 
+ 
+Katee_Sackhoff/LHbqHKCFTNY_0000001 89.3 95.1 
+Katee_Sackhoff/LHbqHKCFTNY_0000002 108.8 119.3 
+Katee_Sackhoff/LHbqHKCFTNY_0000003 157.2 162.2 
+Katee_Sackhoff/LHbqHKCFTNY_0000004 169.0 176.1 
+Katee_Sackhoff/LHbqHKCFTNY_0000005 181.7 186.6 
+Katee_Sackhoff/LHbqHKCFTNY_0000006 208.3 234.9 
+Katee_Sackhoff/LHbqHKCFTNY_0000007 236.3 242.2 
+Katee_Sackhoff/LHbqHKCFTNY_0000008 242.5 261.4 
+Katee_Sackhoff/LHbqHKCFTNY_0000009 261.6 267.9 
+Katee_Sackhoff/LHbqHKCFTNY_0000010 290.2 295.9 
+Katee_Sackhoff/LHbqHKCFTNY_0000011 296.6 301.0 
+Katee_Sackhoff/LHbqHKCFTNY_0000012 305.3 316.2 
+Katee_Sackhoff/LHbqHKCFTNY_0000013 318.0 337.0 

@@ -1,0 +1,16 @@
+POI: 			Joanna_Krupa 
+Youtube ID: 	Fq9xHBNoPtA 
+Video length: 	443.4 sec 
+Set (V): 		dev 
+ 
+Joanna_Krupa/Fq9xHBNoPtA_0000001 29.4 48.8 
+Joanna_Krupa/Fq9xHBNoPtA_0000002 57.6 62.7 
+Joanna_Krupa/Fq9xHBNoPtA_0000003 73.3 84.8 
+Joanna_Krupa/Fq9xHBNoPtA_0000004 172.4 177.7 
+Joanna_Krupa/Fq9xHBNoPtA_0000005 206.4 212.6 
+Joanna_Krupa/Fq9xHBNoPtA_0000006 213.6 219.6 
+Joanna_Krupa/Fq9xHBNoPtA_0000007 261.0 277.0 
+Joanna_Krupa/Fq9xHBNoPtA_0000008 288.0 294.4 
+Joanna_Krupa/Fq9xHBNoPtA_0000009 314.2 324.9 
+Joanna_Krupa/Fq9xHBNoPtA_0000010 344.4 360.0 
+Joanna_Krupa/Fq9xHBNoPtA_0000011 399.6 405.6 

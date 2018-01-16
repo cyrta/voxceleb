@@ -1,0 +1,8 @@
+POI: 			Janet_Montgomery 
+Youtube ID: 	V3R8v140gr8 
+Video length: 	174.1 sec 
+Set (V): 		dev 
+ 
+Janet_Montgomery/V3R8v140gr8_0000001 12.8 26.0 
+Janet_Montgomery/V3R8v140gr8_0000002 26.7 44.0 
+Janet_Montgomery/V3R8v140gr8_0000003 88.1 123.2 

@@ -1,0 +1,8 @@
+POI: 			Marion_Cotillard 
+Youtube ID: 	1hGpOt9t5Vs 
+Video length: 	239.8 sec 
+Set (V): 		dev 
+ 
+Marion_Cotillard/1hGpOt9t5Vs_0000001 40.0 43.9 
+Marion_Cotillard/1hGpOt9t5Vs_0000002 62.0 66.1 
+Marion_Cotillard/1hGpOt9t5Vs_0000003 184.9 188.9 

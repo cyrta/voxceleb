@@ -1,0 +1,9 @@
+POI: 			Blake_Shelton 
+Youtube ID: 	eeRHbAK78GU 
+Video length: 	141.9 sec 
+Set (V): 		dev 
+ 
+Blake_Shelton/eeRHbAK78GU_0000001 11.4 30.4 
+Blake_Shelton/eeRHbAK78GU_0000002 36.8 56.6 
+Blake_Shelton/eeRHbAK78GU_0000003 57.8 62.4 
+Blake_Shelton/eeRHbAK78GU_0000004 122.0 126.9 

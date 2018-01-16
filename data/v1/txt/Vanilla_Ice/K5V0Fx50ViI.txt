@@ -1,0 +1,8 @@
+POI: 			Vanilla_Ice 
+Youtube ID: 	K5V0Fx50ViI 
+Video length: 	97.4 sec 
+Set (V): 		dev 
+ 
+Vanilla_Ice/K5V0Fx50ViI_0000001 10.4 14.4 
+Vanilla_Ice/K5V0Fx50ViI_0000002 38.7 52.8 
+Vanilla_Ice/K5V0Fx50ViI_0000003 53.6 59.0 

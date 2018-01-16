@@ -1,0 +1,34 @@
+POI: 			Stan_Lee 
+Youtube ID: 	zqijirc45vU 
+Video length: 	637.2 sec 
+Set (V): 		dev 
+ 
+Stan_Lee/zqijirc45vU_0000001 17.9 44.2 
+Stan_Lee/zqijirc45vU_0000002 44.8 74.5 
+Stan_Lee/zqijirc45vU_0000003 92.7 114.9 
+Stan_Lee/zqijirc45vU_0000004 115.8 125.4 
+Stan_Lee/zqijirc45vU_0000005 129.6 143.7 
+Stan_Lee/zqijirc45vU_0000006 145.9 151.0 
+Stan_Lee/zqijirc45vU_0000007 159.2 181.0 
+Stan_Lee/zqijirc45vU_0000008 181.2 196.1 
+Stan_Lee/zqijirc45vU_0000009 198.2 208.3 
+Stan_Lee/zqijirc45vU_0000010 218.2 239.6 
+Stan_Lee/zqijirc45vU_0000011 241.6 248.0 
+Stan_Lee/zqijirc45vU_0000012 250.0 268.6 
+Stan_Lee/zqijirc45vU_0000013 269.1 299.9 
+Stan_Lee/zqijirc45vU_0000014 303.1 308.0 
+Stan_Lee/zqijirc45vU_0000015 309.9 320.7 
+Stan_Lee/zqijirc45vU_0000016 328.4 335.3 
+Stan_Lee/zqijirc45vU_0000017 335.7 344.4 
+Stan_Lee/zqijirc45vU_0000018 356.4 369.6 
+Stan_Lee/zqijirc45vU_0000019 385.2 395.2 
+Stan_Lee/zqijirc45vU_0000020 410.8 415.4 
+Stan_Lee/zqijirc45vU_0000021 432.0 441.7 
+Stan_Lee/zqijirc45vU_0000022 455.8 470.3 
+Stan_Lee/zqijirc45vU_0000023 481.2 502.9 
+Stan_Lee/zqijirc45vU_0000024 503.0 535.2 
+Stan_Lee/zqijirc45vU_0000025 536.4 565.3 
+Stan_Lee/zqijirc45vU_0000026 565.4 591.4 
+Stan_Lee/zqijirc45vU_0000027 594.6 601.8 
+Stan_Lee/zqijirc45vU_0000028 611.8 616.1 
+Stan_Lee/zqijirc45vU_0000029 619.0 635.1 

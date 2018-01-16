@@ -1,0 +1,13 @@
+POI: 			Hugh_Bonneville 
+Youtube ID: 	zV9hnAsH2Qc 
+Video length: 	238.4 sec 
+Set (V): 		dev 
+ 
+Hugh_Bonneville/zV9hnAsH2Qc_0000001 45.6 51.7 
+Hugh_Bonneville/zV9hnAsH2Qc_0000002 57.4 93.5 
+Hugh_Bonneville/zV9hnAsH2Qc_0000003 104.9 126.0 
+Hugh_Bonneville/zV9hnAsH2Qc_0000004 133.4 167.1 
+Hugh_Bonneville/zV9hnAsH2Qc_0000005 178.4 193.7 
+Hugh_Bonneville/zV9hnAsH2Qc_0000006 201.1 212.2 
+Hugh_Bonneville/zV9hnAsH2Qc_0000007 214.0 224.2 
+Hugh_Bonneville/zV9hnAsH2Qc_0000008 228.0 232.8 

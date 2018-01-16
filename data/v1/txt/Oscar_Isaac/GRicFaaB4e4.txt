@@ -1,0 +1,7 @@
+POI: 			Oscar_Isaac 
+Youtube ID: 	GRicFaaB4e4 
+Video length: 	314.0 sec 
+Set (V): 		dev 
+ 
+Oscar_Isaac/GRicFaaB4e4_0000001 41.6 48.6 
+Oscar_Isaac/GRicFaaB4e4_0000002 193.4 201.8 

@@ -1,0 +1,10 @@
+POI: 			Sherri_Shepherd 
+Youtube ID: 	pr90zgdVjV0 
+Video length: 	300.1 sec 
+Set (V): 		dev 
+ 
+Sherri_Shepherd/pr90zgdVjV0_0000001 90.3 111.8 
+Sherri_Shepherd/pr90zgdVjV0_0000002 221.5 225.8 
+Sherri_Shepherd/pr90zgdVjV0_0000003 231.0 251.6 
+Sherri_Shepherd/pr90zgdVjV0_0000004 252.4 258.4 
+Sherri_Shepherd/pr90zgdVjV0_0000005 259.6 271.0 

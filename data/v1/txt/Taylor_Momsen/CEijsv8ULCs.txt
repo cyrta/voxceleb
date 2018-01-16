@@ -1,0 +1,7 @@
+POI: 			Taylor_Momsen 
+Youtube ID: 	CEijsv8ULCs 
+Video length: 	137.7 sec 
+Set (V): 		dev 
+ 
+Taylor_Momsen/CEijsv8ULCs_0000001 39.2 43.7 
+Taylor_Momsen/CEijsv8ULCs_0000002 59.5 66.3 

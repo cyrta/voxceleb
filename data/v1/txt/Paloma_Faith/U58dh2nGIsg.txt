@@ -1,0 +1,18 @@
+POI: 			Paloma_Faith 
+Youtube ID: 	U58dh2nGIsg 
+Video length: 	604.2 sec 
+Set (V): 		dev 
+ 
+Paloma_Faith/U58dh2nGIsg_0000001 102.3 108.0 
+Paloma_Faith/U58dh2nGIsg_0000002 108.6 115.0 
+Paloma_Faith/U58dh2nGIsg_0000003 119.7 124.7 
+Paloma_Faith/U58dh2nGIsg_0000004 247.1 251.2 
+Paloma_Faith/U58dh2nGIsg_0000005 279.5 283.8 
+Paloma_Faith/U58dh2nGIsg_0000006 285.1 289.4 
+Paloma_Faith/U58dh2nGIsg_0000007 291.2 297.1 
+Paloma_Faith/U58dh2nGIsg_0000008 302.5 309.3 
+Paloma_Faith/U58dh2nGIsg_0000009 328.2 336.2 
+Paloma_Faith/U58dh2nGIsg_0000010 412.4 417.5 
+Paloma_Faith/U58dh2nGIsg_0000011 434.5 451.3 
+Paloma_Faith/U58dh2nGIsg_0000012 574.2 579.3 
+Paloma_Faith/U58dh2nGIsg_0000013 581.6 585.7 

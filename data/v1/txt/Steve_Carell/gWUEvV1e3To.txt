@@ -1,0 +1,13 @@
+POI: 			Steve_Carell 
+Youtube ID: 	gWUEvV1e3To 
+Video length: 	487.7 sec 
+Set (V): 		dev 
+ 
+Steve_Carell/gWUEvV1e3To_0000001 80.2 84.6 
+Steve_Carell/gWUEvV1e3To_0000002 84.7 95.6 
+Steve_Carell/gWUEvV1e3To_0000003 137.8 147.2 
+Steve_Carell/gWUEvV1e3To_0000004 213.3 226.0 
+Steve_Carell/gWUEvV1e3To_0000005 239.3 246.2 
+Steve_Carell/gWUEvV1e3To_0000006 277.1 293.2 
+Steve_Carell/gWUEvV1e3To_0000007 360.2 375.7 
+Steve_Carell/gWUEvV1e3To_0000008 379.4 394.6 

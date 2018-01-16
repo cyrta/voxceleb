@@ -1,0 +1,9 @@
+POI: 			January_Jones 
+Youtube ID: 	CTpydVZTnQk 
+Video length: 	299.3 sec 
+Set (V): 		dev 
+ 
+January_Jones/CTpydVZTnQk_0000001 93.9 99.5 
+January_Jones/CTpydVZTnQk_0000002 106.0 113.0 
+January_Jones/CTpydVZTnQk_0000003 223.5 229.2 
+January_Jones/CTpydVZTnQk_0000004 231.7 238.8 

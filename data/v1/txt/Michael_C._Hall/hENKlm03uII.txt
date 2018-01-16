@@ -1,0 +1,9 @@
+POI: 			Michael_C._Hall 
+Youtube ID: 	hENKlm03uII 
+Video length: 	252.9 sec 
+Set (V): 		dev 
+ 
+Michael_C._Hall/hENKlm03uII_0000001 16.6 26.0 
+Michael_C._Hall/hENKlm03uII_0000002 72.3 82.2 
+Michael_C._Hall/hENKlm03uII_0000003 161.4 166.5 
+Michael_C._Hall/hENKlm03uII_0000004 168.4 176.4 

@@ -1,0 +1,26 @@
+POI: 			Martin_Shaw 
+Youtube ID: 	6mOI1hAbDuw 
+Video length: 	449.0 sec 
+Set (V): 		dev 
+ 
+Martin_Shaw/6mOI1hAbDuw_0000001 67.2 71.2 
+Martin_Shaw/6mOI1hAbDuw_0000002 81.4 88.8 
+Martin_Shaw/6mOI1hAbDuw_0000003 100.6 106.2 
+Martin_Shaw/6mOI1hAbDuw_0000004 119.2 124.6 
+Martin_Shaw/6mOI1hAbDuw_0000005 126.2 131.9 
+Martin_Shaw/6mOI1hAbDuw_0000006 140.0 147.0 
+Martin_Shaw/6mOI1hAbDuw_0000007 166.2 170.4 
+Martin_Shaw/6mOI1hAbDuw_0000008 182.8 190.8 
+Martin_Shaw/6mOI1hAbDuw_0000009 195.0 202.8 
+Martin_Shaw/6mOI1hAbDuw_0000010 227.4 241.7 
+Martin_Shaw/6mOI1hAbDuw_0000011 256.7 264.5 
+Martin_Shaw/6mOI1hAbDuw_0000012 271.6 281.3 
+Martin_Shaw/6mOI1hAbDuw_0000013 282.4 287.5 
+Martin_Shaw/6mOI1hAbDuw_0000014 323.6 330.4 
+Martin_Shaw/6mOI1hAbDuw_0000015 331.4 335.8 
+Martin_Shaw/6mOI1hAbDuw_0000016 336.8 341.9 
+Martin_Shaw/6mOI1hAbDuw_0000017 364.3 370.3 
+Martin_Shaw/6mOI1hAbDuw_0000018 378.5 383.3 
+Martin_Shaw/6mOI1hAbDuw_0000019 387.1 394.2 
+Martin_Shaw/6mOI1hAbDuw_0000020 401.1 406.1 
+Martin_Shaw/6mOI1hAbDuw_0000021 412.4 424.0 

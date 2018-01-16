@@ -1,0 +1,13 @@
+POI: 			Sarah_Paulson 
+Youtube ID: 	xk8okzebW5c 
+Video length: 	220.5 sec 
+Set (V): 		dev 
+ 
+Sarah_Paulson/xk8okzebW5c_0000001 18.6 35.6 
+Sarah_Paulson/xk8okzebW5c_0000002 62.9 74.8 
+Sarah_Paulson/xk8okzebW5c_0000003 86.1 94.4 
+Sarah_Paulson/xk8okzebW5c_0000004 122.0 127.3 
+Sarah_Paulson/xk8okzebW5c_0000005 142.6 148.3 
+Sarah_Paulson/xk8okzebW5c_0000006 159.0 174.4 
+Sarah_Paulson/xk8okzebW5c_0000007 175.1 184.6 
+Sarah_Paulson/xk8okzebW5c_0000008 199.9 208.8 

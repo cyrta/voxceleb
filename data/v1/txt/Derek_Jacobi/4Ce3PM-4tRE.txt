@@ -1,0 +1,13 @@
+POI: 			Derek_Jacobi 
+Youtube ID: 	4Ce3PM-4tRE 
+Video length: 	595.7 sec 
+Set (V): 		dev 
+ 
+Derek_Jacobi/4Ce3PM-4tRE_0000001 94.5 102.2 
+Derek_Jacobi/4Ce3PM-4tRE_0000002 108.6 121.0 
+Derek_Jacobi/4Ce3PM-4tRE_0000003 274.0 279.1 
+Derek_Jacobi/4Ce3PM-4tRE_0000004 416.4 423.1 
+Derek_Jacobi/4Ce3PM-4tRE_0000005 427.2 438.0 
+Derek_Jacobi/4Ce3PM-4tRE_0000006 517.5 522.0 
+Derek_Jacobi/4Ce3PM-4tRE_0000007 529.4 538.4 
+Derek_Jacobi/4Ce3PM-4tRE_0000008 547.4 560.5 

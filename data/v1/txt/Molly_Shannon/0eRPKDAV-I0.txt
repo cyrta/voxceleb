@@ -1,0 +1,10 @@
+POI: 			Molly_Shannon 
+Youtube ID: 	0eRPKDAV-I0 
+Video length: 	288.8 sec 
+Set (V): 		dev 
+ 
+Molly_Shannon/0eRPKDAV-I0_0000001 67.3 76.4 
+Molly_Shannon/0eRPKDAV-I0_0000002 112.6 120.7 
+Molly_Shannon/0eRPKDAV-I0_0000003 131.2 140.1 
+Molly_Shannon/0eRPKDAV-I0_0000004 168.6 179.5 
+Molly_Shannon/0eRPKDAV-I0_0000005 182.4 196.4 

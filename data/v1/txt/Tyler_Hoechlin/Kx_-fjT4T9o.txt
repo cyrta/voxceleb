@@ -1,0 +1,17 @@
+POI: 			Tyler_Hoechlin 
+Youtube ID: 	Kx_-fjT4T9o 
+Video length: 	423.4 sec 
+Set (V): 		dev 
+ 
+Tyler_Hoechlin/Kx_-fjT4T9o_0000001 08.6 16.1 
+Tyler_Hoechlin/Kx_-fjT4T9o_0000002 33.7 44.2 
+Tyler_Hoechlin/Kx_-fjT4T9o_0000003 44.8 56.2 
+Tyler_Hoechlin/Kx_-fjT4T9o_0000004 65.8 70.4 
+Tyler_Hoechlin/Kx_-fjT4T9o_0000005 85.4 125.9 
+Tyler_Hoechlin/Kx_-fjT4T9o_0000006 132.0 145.8 
+Tyler_Hoechlin/Kx_-fjT4T9o_0000007 147.5 156.0 
+Tyler_Hoechlin/Kx_-fjT4T9o_0000008 165.9 208.4 
+Tyler_Hoechlin/Kx_-fjT4T9o_0000009 224.8 245.4 
+Tyler_Hoechlin/Kx_-fjT4T9o_0000010 246.2 256.4 
+Tyler_Hoechlin/Kx_-fjT4T9o_0000011 261.0 270.0 
+Tyler_Hoechlin/Kx_-fjT4T9o_0000012 280.6 294.5 

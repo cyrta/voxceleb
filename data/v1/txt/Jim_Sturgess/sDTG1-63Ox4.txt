@@ -1,0 +1,18 @@
+POI: 			Jim_Sturgess 
+Youtube ID: 	sDTG1-63Ox4 
+Video length: 	229.0 sec 
+Set (V): 		dev 
+ 
+Jim_Sturgess/sDTG1-63Ox4_0000001 01.6 17.0 
+Jim_Sturgess/sDTG1-63Ox4_0000002 17.9 28.5 
+Jim_Sturgess/sDTG1-63Ox4_0000003 34.2 38.7 
+Jim_Sturgess/sDTG1-63Ox4_0000004 40.4 49.2 
+Jim_Sturgess/sDTG1-63Ox4_0000005 55.8 63.8 
+Jim_Sturgess/sDTG1-63Ox4_0000006 89.0 103.2 
+Jim_Sturgess/sDTG1-63Ox4_0000007 106.1 110.8 
+Jim_Sturgess/sDTG1-63Ox4_0000008 113.6 118.5 
+Jim_Sturgess/sDTG1-63Ox4_0000009 118.6 124.3 
+Jim_Sturgess/sDTG1-63Ox4_0000010 136.5 147.4 
+Jim_Sturgess/sDTG1-63Ox4_0000011 148.0 155.2 
+Jim_Sturgess/sDTG1-63Ox4_0000012 179.3 186.0 
+Jim_Sturgess/sDTG1-63Ox4_0000013 192.8 197.7 

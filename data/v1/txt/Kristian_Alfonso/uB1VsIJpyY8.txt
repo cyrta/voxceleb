@@ -1,0 +1,10 @@
+POI: 			Kristian_Alfonso 
+Youtube ID: 	uB1VsIJpyY8 
+Video length: 	512.7 sec 
+Set (V): 		dev 
+ 
+Kristian_Alfonso/uB1VsIJpyY8_0000001 96.0 100.3 
+Kristian_Alfonso/uB1VsIJpyY8_0000002 123.7 134.8 
+Kristian_Alfonso/uB1VsIJpyY8_0000003 223.9 237.1 
+Kristian_Alfonso/uB1VsIJpyY8_0000004 323.2 327.9 
+Kristian_Alfonso/uB1VsIJpyY8_0000005 459.9 465.6 

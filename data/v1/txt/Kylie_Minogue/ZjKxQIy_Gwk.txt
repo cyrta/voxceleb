@@ -1,0 +1,8 @@
+POI: 			Kylie_Minogue 
+Youtube ID: 	ZjKxQIy_Gwk 
+Video length: 	576.2 sec 
+Set (V): 		dev 
+ 
+Kylie_Minogue/ZjKxQIy_Gwk_0000001 224.4 230.9 
+Kylie_Minogue/ZjKxQIy_Gwk_0000002 490.4 494.8 
+Kylie_Minogue/ZjKxQIy_Gwk_0000003 508.3 519.1 

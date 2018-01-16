@@ -1,0 +1,10 @@
+POI: 			Natalia_Tena 
+Youtube ID: 	UFJ3-vlFNI8 
+Video length: 	208.4 sec 
+Set (V): 		dev 
+ 
+Natalia_Tena/UFJ3-vlFNI8_0000001 70.8 75.9 
+Natalia_Tena/UFJ3-vlFNI8_0000002 91.0 95.2 
+Natalia_Tena/UFJ3-vlFNI8_0000003 125.9 130.8 
+Natalia_Tena/UFJ3-vlFNI8_0000004 141.0 146.1 
+Natalia_Tena/UFJ3-vlFNI8_0000005 165.2 174.8 

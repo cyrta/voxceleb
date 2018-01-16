@@ -1,0 +1,11 @@
+POI: 			Olivia_Colman 
+Youtube ID: 	WDG5r-GMZas 
+Video length: 	165.4 sec 
+Set (V): 		dev 
+ 
+Olivia_Colman/WDG5r-GMZas_0000001 33.9 38.3 
+Olivia_Colman/WDG5r-GMZas_0000002 38.6 45.6 
+Olivia_Colman/WDG5r-GMZas_0000003 46.2 52.4 
+Olivia_Colman/WDG5r-GMZas_0000004 72.2 78.5 
+Olivia_Colman/WDG5r-GMZas_0000005 78.6 83.1 
+Olivia_Colman/WDG5r-GMZas_0000006 103.1 111.1 

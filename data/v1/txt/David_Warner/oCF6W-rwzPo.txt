@@ -1,0 +1,9 @@
+POI: 			David_Warner 
+Youtube ID: 	oCF6W-rwzPo 
+Video length: 	136.5 sec 
+Set (V): 		dev 
+ 
+David_Warner/oCF6W-rwzPo_0000001 11.4 29.6 
+David_Warner/oCF6W-rwzPo_0000002 48.5 55.7 
+David_Warner/oCF6W-rwzPo_0000003 73.7 82.5 
+David_Warner/oCF6W-rwzPo_0000004 93.2 99.5 

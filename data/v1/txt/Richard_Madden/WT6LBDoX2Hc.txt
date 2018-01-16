@@ -1,0 +1,8 @@
+POI: 			Richard_Madden 
+Youtube ID: 	WT6LBDoX2Hc 
+Video length: 	145.9 sec 
+Set (V): 		dev 
+ 
+Richard_Madden/WT6LBDoX2Hc_0000001 41.7 47.9 
+Richard_Madden/WT6LBDoX2Hc_0000002 98.6 102.6 
+Richard_Madden/WT6LBDoX2Hc_0000003 103.4 121.8 

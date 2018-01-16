@@ -1,0 +1,20 @@
+POI: 			Terrence_Howard 
+Youtube ID: 	HRK38pHaS-4 
+Video length: 	376.0 sec 
+Set (V): 		dev 
+ 
+Terrence_Howard/HRK38pHaS-4_0000001 25.0 29.9 
+Terrence_Howard/HRK38pHaS-4_0000002 31.0 35.1 
+Terrence_Howard/HRK38pHaS-4_0000003 70.1 93.9 
+Terrence_Howard/HRK38pHaS-4_0000004 100.5 106.3 
+Terrence_Howard/HRK38pHaS-4_0000005 161.6 169.6 
+Terrence_Howard/HRK38pHaS-4_0000006 200.8 227.0 
+Terrence_Howard/HRK38pHaS-4_0000007 249.0 262.6 
+Terrence_Howard/HRK38pHaS-4_0000008 265.0 269.2 
+Terrence_Howard/HRK38pHaS-4_0000009 271.4 285.7 
+Terrence_Howard/HRK38pHaS-4_0000010 286.4 291.4 
+Terrence_Howard/HRK38pHaS-4_0000011 293.4 299.0 
+Terrence_Howard/HRK38pHaS-4_0000012 305.1 318.7 
+Terrence_Howard/HRK38pHaS-4_0000013 320.3 325.4 
+Terrence_Howard/HRK38pHaS-4_0000014 343.6 348.3 
+Terrence_Howard/HRK38pHaS-4_0000015 350.0 358.4 

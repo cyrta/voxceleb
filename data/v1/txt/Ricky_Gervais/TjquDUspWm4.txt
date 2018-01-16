@@ -1,0 +1,7 @@
+POI: 			Ricky_Gervais 
+Youtube ID: 	TjquDUspWm4 
+Video length: 	394.6 sec 
+Set (V): 		dev 
+ 
+Ricky_Gervais/TjquDUspWm4_0000001 76.7 83.0 
+Ricky_Gervais/TjquDUspWm4_0000002 281.2 285.2 

@@ -1,0 +1,14 @@
+POI: 			Willem_Dafoe 
+Youtube ID: 	zEPpNXKkTxk 
+Video length: 	415.6 sec 
+Set (V): 		dev 
+ 
+Willem_Dafoe/zEPpNXKkTxk_0000001 101.0 119.0 
+Willem_Dafoe/zEPpNXKkTxk_0000002 127.5 140.0 
+Willem_Dafoe/zEPpNXKkTxk_0000003 197.9 202.2 
+Willem_Dafoe/zEPpNXKkTxk_0000004 202.7 208.8 
+Willem_Dafoe/zEPpNXKkTxk_0000005 231.6 238.6 
+Willem_Dafoe/zEPpNXKkTxk_0000006 243.2 252.3 
+Willem_Dafoe/zEPpNXKkTxk_0000007 313.9 322.0 
+Willem_Dafoe/zEPpNXKkTxk_0000008 322.5 330.5 
+Willem_Dafoe/zEPpNXKkTxk_0000009 383.7 387.8 

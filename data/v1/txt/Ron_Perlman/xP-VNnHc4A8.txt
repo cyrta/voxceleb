@@ -1,0 +1,15 @@
+POI: 			Ron_Perlman 
+Youtube ID: 	xP-VNnHc4A8 
+Video length: 	536.9 sec 
+Set (V): 		dev 
+ 
+Ron_Perlman/xP-VNnHc4A8_0000001 148.8 153.2 
+Ron_Perlman/xP-VNnHc4A8_0000002 179.2 184.8 
+Ron_Perlman/xP-VNnHc4A8_0000003 193.9 204.4 
+Ron_Perlman/xP-VNnHc4A8_0000004 240.8 253.1 
+Ron_Perlman/xP-VNnHc4A8_0000005 257.6 265.3 
+Ron_Perlman/xP-VNnHc4A8_0000006 260.9 265.3 
+Ron_Perlman/xP-VNnHc4A8_0000007 278.9 283.0 
+Ron_Perlman/xP-VNnHc4A8_0000008 381.9 386.1 
+Ron_Perlman/xP-VNnHc4A8_0000009 445.1 450.9 
+Ron_Perlman/xP-VNnHc4A8_0000010 461.8 465.8 

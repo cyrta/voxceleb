@@ -1,0 +1,8 @@
+POI: 			Dean_Cain 
+Youtube ID: 	KFid1BdukbY 
+Video length: 	281.3 sec 
+Set (V): 		dev 
+ 
+Dean_Cain/KFid1BdukbY_0000001 42.1 46.4 
+Dean_Cain/KFid1BdukbY_0000002 50.4 54.4 
+Dean_Cain/KFid1BdukbY_0000003 106.9 118.3 

@@ -1,0 +1,8 @@
+POI: 			Andre_Braugher 
+Youtube ID: 	ylm0zLXFZKA 
+Video length: 	112.1 sec 
+Set (V): 		dev 
+ 
+Andre_Braugher/ylm0zLXFZKA_0000001 33.4 38.4 
+Andre_Braugher/ylm0zLXFZKA_0000002 53.2 69.1 
+Andre_Braugher/ylm0zLXFZKA_0000003 87.0 92.5 

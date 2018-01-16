@@ -1,0 +1,11 @@
+POI: 			Edward_Asner 
+Youtube ID: 	d3By4475krs 
+Video length: 	122.5 sec 
+Set (V): 		test 
+ 
+Edward_Asner/d3By4475krs_0000001 40.7 47.5 
+Edward_Asner/d3By4475krs_0000002 56.9 62.2 
+Edward_Asner/d3By4475krs_0000003 79.8 88.4 
+Edward_Asner/d3By4475krs_0000004 88.1 97.4 
+Edward_Asner/d3By4475krs_0000005 104.2 108.4 
+Edward_Asner/d3By4475krs_0000006 109.8 113.8 

@@ -1,0 +1,17 @@
+POI: 			Rutger_Hauer 
+Youtube ID: 	sKOyRlJpdFs 
+Video length: 	411.1 sec 
+Set (V): 		dev 
+ 
+Rutger_Hauer/sKOyRlJpdFs_0000001 70.2 75.0 
+Rutger_Hauer/sKOyRlJpdFs_0000002 79.3 83.4 
+Rutger_Hauer/sKOyRlJpdFs_0000003 131.2 138.1 
+Rutger_Hauer/sKOyRlJpdFs_0000004 173.8 178.4 
+Rutger_Hauer/sKOyRlJpdFs_0000005 185.4 192.3 
+Rutger_Hauer/sKOyRlJpdFs_0000006 200.3 229.5 
+Rutger_Hauer/sKOyRlJpdFs_0000007 256.2 262.9 
+Rutger_Hauer/sKOyRlJpdFs_0000008 291.1 295.4 
+Rutger_Hauer/sKOyRlJpdFs_0000009 297.0 302.0 
+Rutger_Hauer/sKOyRlJpdFs_0000010 348.4 353.6 
+Rutger_Hauer/sKOyRlJpdFs_0000011 355.4 360.3 
+Rutger_Hauer/sKOyRlJpdFs_0000012 371.4 378.1 

@@ -1,0 +1,11 @@
+POI: 			Stephen_Baldwin 
+Youtube ID: 	TTNxhnBMv8g 
+Video length: 	236.4 sec 
+Set (V): 		dev 
+ 
+Stephen_Baldwin/TTNxhnBMv8g_0000001 39.7 46.6 
+Stephen_Baldwin/TTNxhnBMv8g_0000002 49.1 54.0 
+Stephen_Baldwin/TTNxhnBMv8g_0000003 60.2 65.8 
+Stephen_Baldwin/TTNxhnBMv8g_0000004 115.9 120.0 
+Stephen_Baldwin/TTNxhnBMv8g_0000005 148.0 152.6 
+Stephen_Baldwin/TTNxhnBMv8g_0000006 194.3 201.4 

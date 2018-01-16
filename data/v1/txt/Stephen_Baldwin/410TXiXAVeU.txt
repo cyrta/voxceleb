@@ -1,0 +1,8 @@
+POI: 			Stephen_Baldwin 
+Youtube ID: 	410TXiXAVeU 
+Video length: 	1211.0 sec 
+Set (V): 		dev 
+ 
+Stephen_Baldwin/410TXiXAVeU_0000001 355.6 359.9 
+Stephen_Baldwin/410TXiXAVeU_0000002 640.3 644.8 
+Stephen_Baldwin/410TXiXAVeU_0000003 751.5 755.9 

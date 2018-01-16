@@ -1,0 +1,9 @@
+POI: 			Russell_Tovey 
+Youtube ID: 	BufT28bl50s 
+Video length: 	182.9 sec 
+Set (V): 		dev 
+ 
+Russell_Tovey/BufT28bl50s_0000001 06.6 11.5 
+Russell_Tovey/BufT28bl50s_0000002 24.9 30.8 
+Russell_Tovey/BufT28bl50s_0000003 52.8 57.9 
+Russell_Tovey/BufT28bl50s_0000004 139.6 145.0 

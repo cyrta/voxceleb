@@ -1,0 +1,9 @@
+POI: 			Tim_Burton 
+Youtube ID: 	ST2JZXcyYkE 
+Video length: 	808.5 sec 
+Set (V): 		dev 
+ 
+Tim_Burton/ST2JZXcyYkE_0000001 48.7 60.0 
+Tim_Burton/ST2JZXcyYkE_0000002 102.3 112.5 
+Tim_Burton/ST2JZXcyYkE_0000003 113.3 118.9 
+Tim_Burton/ST2JZXcyYkE_0000004 194.8 207.3 

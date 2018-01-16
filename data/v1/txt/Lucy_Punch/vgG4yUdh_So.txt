@@ -1,0 +1,13 @@
+POI: 			Lucy_Punch 
+Youtube ID: 	vgG4yUdh_So 
+Video length: 	503.2 sec 
+Set (V): 		dev 
+ 
+Lucy_Punch/vgG4yUdh_So_0000001 133.5 141.0 
+Lucy_Punch/vgG4yUdh_So_0000002 202.9 209.7 
+Lucy_Punch/vgG4yUdh_So_0000003 230.1 235.2 
+Lucy_Punch/vgG4yUdh_So_0000004 235.4 240.7 
+Lucy_Punch/vgG4yUdh_So_0000005 292.8 302.3 
+Lucy_Punch/vgG4yUdh_So_0000006 305.1 311.4 
+Lucy_Punch/vgG4yUdh_So_0000007 351.0 355.7 
+Lucy_Punch/vgG4yUdh_So_0000008 469.7 479.1 

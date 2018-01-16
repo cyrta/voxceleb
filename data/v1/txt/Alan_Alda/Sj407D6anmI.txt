@@ -1,0 +1,13 @@
+POI: 			Alan_Alda 
+Youtube ID: 	Sj407D6anmI 
+Video length: 	185.9 sec 
+Set (V): 		dev 
+ 
+Alan_Alda/Sj407D6anmI_0000001 24.0 30.2 
+Alan_Alda/Sj407D6anmI_0000002 42.6 47.2 
+Alan_Alda/Sj407D6anmI_0000003 58.0 62.6 
+Alan_Alda/Sj407D6anmI_0000004 68.0 72.5 
+Alan_Alda/Sj407D6anmI_0000005 77.1 84.8 
+Alan_Alda/Sj407D6anmI_0000006 105.8 110.2 
+Alan_Alda/Sj407D6anmI_0000007 152.4 158.0 
+Alan_Alda/Sj407D6anmI_0000008 163.4 174.8 

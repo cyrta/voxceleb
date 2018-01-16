@@ -1,0 +1,7 @@
+POI: 			Josh_Brolin 
+Youtube ID: 	LpRugCzAtoI 
+Video length: 	216.0 sec 
+Set (V): 		dev 
+ 
+Josh_Brolin/LpRugCzAtoI_0000001 124.6 133.1 
+Josh_Brolin/LpRugCzAtoI_0000002 145.8 159.9 

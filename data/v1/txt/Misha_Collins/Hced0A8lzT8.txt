@@ -1,0 +1,10 @@
+POI: 			Misha_Collins 
+Youtube ID: 	Hced0A8lzT8 
+Video length: 	308.8 sec 
+Set (V): 		dev 
+ 
+Misha_Collins/Hced0A8lzT8_0000001 41.8 49.2 
+Misha_Collins/Hced0A8lzT8_0000002 67.8 79.2 
+Misha_Collins/Hced0A8lzT8_0000003 195.0 201.8 
+Misha_Collins/Hced0A8lzT8_0000004 202.5 207.6 
+Misha_Collins/Hced0A8lzT8_0000005 221.8 226.2 

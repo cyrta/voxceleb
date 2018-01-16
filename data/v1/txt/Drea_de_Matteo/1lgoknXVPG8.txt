@@ -1,0 +1,11 @@
+POI: 			Drea_de_Matteo 
+Youtube ID: 	1lgoknXVPG8 
+Video length: 	145.6 sec 
+Set (V): 		dev 
+ 
+Drea_de_Matteo/1lgoknXVPG8_0000001 33.9 38.4 
+Drea_de_Matteo/1lgoknXVPG8_0000002 40.1 46.8 
+Drea_de_Matteo/1lgoknXVPG8_0000003 56.3 62.0 
+Drea_de_Matteo/1lgoknXVPG8_0000004 64.2 71.5 
+Drea_de_Matteo/1lgoknXVPG8_0000005 127.5 132.2 
+Drea_de_Matteo/1lgoknXVPG8_0000006 132.4 137.7 

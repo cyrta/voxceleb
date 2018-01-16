@@ -1,0 +1,13 @@
+POI: 			Megan_Fox 
+Youtube ID: 	bcSj_t1HhJ4 
+Video length: 	479.9 sec 
+Set (V): 		dev 
+ 
+Megan_Fox/bcSj_t1HhJ4_0000001 119.2 125.5 
+Megan_Fox/bcSj_t1HhJ4_0000002 187.0 192.4 
+Megan_Fox/bcSj_t1HhJ4_0000003 190.3 207.3 
+Megan_Fox/bcSj_t1HhJ4_0000004 357.5 367.7 
+Megan_Fox/bcSj_t1HhJ4_0000005 376.1 394.7 
+Megan_Fox/bcSj_t1HhJ4_0000006 396.8 411.4 
+Megan_Fox/bcSj_t1HhJ4_0000007 421.9 435.8 
+Megan_Fox/bcSj_t1HhJ4_0000008 436.2 440.4 

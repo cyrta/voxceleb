@@ -1,0 +1,11 @@
+POI: 			Theo_Rossi 
+Youtube ID: 	ozxoSm2JUh4 
+Video length: 	112.2 sec 
+Set (V): 		dev 
+ 
+Theo_Rossi/ozxoSm2JUh4_0000001 22.2 29.0 
+Theo_Rossi/ozxoSm2JUh4_0000002 32.2 41.9 
+Theo_Rossi/ozxoSm2JUh4_0000003 44.2 49.4 
+Theo_Rossi/ozxoSm2JUh4_0000004 51.5 60.7 
+Theo_Rossi/ozxoSm2JUh4_0000005 76.0 82.1 
+Theo_Rossi/ozxoSm2JUh4_0000006 83.1 89.6 

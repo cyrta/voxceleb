@@ -1,0 +1,34 @@
+POI: 			Vidya_Balan 
+Youtube ID: 	ng87j9RtjKc 
+Video length: 	697.2 sec 
+Set (V): 		dev 
+ 
+Vidya_Balan/ng87j9RtjKc_0000001 12.5 22.5 
+Vidya_Balan/ng87j9RtjKc_0000002 25.8 31.5 
+Vidya_Balan/ng87j9RtjKc_0000003 52.7 60.0 
+Vidya_Balan/ng87j9RtjKc_0000004 60.4 64.5 
+Vidya_Balan/ng87j9RtjKc_0000005 85.6 102.2 
+Vidya_Balan/ng87j9RtjKc_0000006 121.1 125.8 
+Vidya_Balan/ng87j9RtjKc_0000007 143.1 149.4 
+Vidya_Balan/ng87j9RtjKc_0000008 158.8 165.0 
+Vidya_Balan/ng87j9RtjKc_0000009 190.7 197.0 
+Vidya_Balan/ng87j9RtjKc_0000010 217.2 235.1 
+Vidya_Balan/ng87j9RtjKc_0000011 237.2 245.5 
+Vidya_Balan/ng87j9RtjKc_0000012 259.4 294.9 
+Vidya_Balan/ng87j9RtjKc_0000013 317.9 324.4 
+Vidya_Balan/ng87j9RtjKc_0000014 343.8 351.2 
+Vidya_Balan/ng87j9RtjKc_0000015 351.9 373.8 
+Vidya_Balan/ng87j9RtjKc_0000016 398.4 409.4 
+Vidya_Balan/ng87j9RtjKc_0000017 443.9 449.9 
+Vidya_Balan/ng87j9RtjKc_0000018 480.9 485.6 
+Vidya_Balan/ng87j9RtjKc_0000019 490.3 496.8 
+Vidya_Balan/ng87j9RtjKc_0000020 505.1 517.0 
+Vidya_Balan/ng87j9RtjKc_0000021 529.4 535.6 
+Vidya_Balan/ng87j9RtjKc_0000022 536.2 543.3 
+Vidya_Balan/ng87j9RtjKc_0000023 567.4 572.0 
+Vidya_Balan/ng87j9RtjKc_0000024 601.9 612.6 
+Vidya_Balan/ng87j9RtjKc_0000025 615.6 620.8 
+Vidya_Balan/ng87j9RtjKc_0000026 623.9 645.5 
+Vidya_Balan/ng87j9RtjKc_0000027 646.5 657.4 
+Vidya_Balan/ng87j9RtjKc_0000028 667.2 673.1 
+Vidya_Balan/ng87j9RtjKc_0000029 673.5 677.5 

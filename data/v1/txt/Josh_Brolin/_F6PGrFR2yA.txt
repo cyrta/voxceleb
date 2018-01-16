@@ -1,0 +1,7 @@
+POI: 			Josh_Brolin 
+Youtube ID: 	_F6PGrFR2yA 
+Video length: 	104.6 sec 
+Set (V): 		dev 
+ 
+Josh_Brolin/_F6PGrFR2yA_0000001 80.5 85.9 
+Josh_Brolin/_F6PGrFR2yA_0000002 87.7 93.0 

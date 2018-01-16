@@ -1,0 +1,11 @@
+POI: 			Jeffrey_Tambor 
+Youtube ID: 	Z1wnB4t2idg 
+Video length: 	327.6 sec 
+Set (V): 		dev 
+ 
+Jeffrey_Tambor/Z1wnB4t2idg_0000001 133.6 150.8 
+Jeffrey_Tambor/Z1wnB4t2idg_0000002 218.2 237.0 
+Jeffrey_Tambor/Z1wnB4t2idg_0000003 241.5 252.6 
+Jeffrey_Tambor/Z1wnB4t2idg_0000004 252.8 258.1 
+Jeffrey_Tambor/Z1wnB4t2idg_0000005 258.4 267.0 
+Jeffrey_Tambor/Z1wnB4t2idg_0000006 267.2 275.4 

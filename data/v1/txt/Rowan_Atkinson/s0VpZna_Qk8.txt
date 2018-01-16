@@ -1,0 +1,29 @@
+POI: 			Rowan_Atkinson 
+Youtube ID: 	s0VpZna_Qk8 
+Video length: 	447.4 sec 
+Set (V): 		dev 
+ 
+Rowan_Atkinson/s0VpZna_Qk8_0000001 21.4 26.7 
+Rowan_Atkinson/s0VpZna_Qk8_0000002 33.6 42.5 
+Rowan_Atkinson/s0VpZna_Qk8_0000003 45.4 58.4 
+Rowan_Atkinson/s0VpZna_Qk8_0000004 137.4 151.3 
+Rowan_Atkinson/s0VpZna_Qk8_0000005 176.6 205.7 
+Rowan_Atkinson/s0VpZna_Qk8_0000006 205.9 227.8 
+Rowan_Atkinson/s0VpZna_Qk8_0000007 230.8 237.2 
+Rowan_Atkinson/s0VpZna_Qk8_0000008 244.4 250.3 
+Rowan_Atkinson/s0VpZna_Qk8_0000009 250.4 255.7 
+Rowan_Atkinson/s0VpZna_Qk8_0000010 260.3 267.0 
+Rowan_Atkinson/s0VpZna_Qk8_0000011 269.0 273.2 
+Rowan_Atkinson/s0VpZna_Qk8_0000012 273.8 283.7 
+Rowan_Atkinson/s0VpZna_Qk8_0000013 284.2 300.3 
+Rowan_Atkinson/s0VpZna_Qk8_0000014 306.5 311.7 
+Rowan_Atkinson/s0VpZna_Qk8_0000015 317.2 329.6 
+Rowan_Atkinson/s0VpZna_Qk8_0000016 332.2 337.2 
+Rowan_Atkinson/s0VpZna_Qk8_0000017 337.8 341.8 
+Rowan_Atkinson/s0VpZna_Qk8_0000018 343.3 348.3 
+Rowan_Atkinson/s0VpZna_Qk8_0000019 354.5 362.2 
+Rowan_Atkinson/s0VpZna_Qk8_0000020 370.2 374.6 
+Rowan_Atkinson/s0VpZna_Qk8_0000021 375.8 382.6 
+Rowan_Atkinson/s0VpZna_Qk8_0000022 383.0 395.2 
+Rowan_Atkinson/s0VpZna_Qk8_0000023 403.4 408.7 
+Rowan_Atkinson/s0VpZna_Qk8_0000024 421.5 426.2 

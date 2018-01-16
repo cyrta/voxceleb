@@ -1,0 +1,11 @@
+POI: 			Forest_Whitaker 
+Youtube ID: 	XlMvBsaObEA 
+Video length: 	286.0 sec 
+Set (V): 		dev 
+ 
+Forest_Whitaker/XlMvBsaObEA_0000001 62.8 73.7 
+Forest_Whitaker/XlMvBsaObEA_0000002 76.4 81.6 
+Forest_Whitaker/XlMvBsaObEA_0000003 90.6 98.1 
+Forest_Whitaker/XlMvBsaObEA_0000004 132.7 144.4 
+Forest_Whitaker/XlMvBsaObEA_0000005 208.2 218.7 
+Forest_Whitaker/XlMvBsaObEA_0000006 233.2 248.0 

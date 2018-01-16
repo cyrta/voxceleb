@@ -1,0 +1,14 @@
+POI: 			James_Lafferty 
+Youtube ID: 	fhrYjJb2JYg 
+Video length: 	356.6 sec 
+Set (V): 		dev 
+ 
+James_Lafferty/fhrYjJb2JYg_0000001 09.8 24.4 
+James_Lafferty/fhrYjJb2JYg_0000002 29.8 36.8 
+James_Lafferty/fhrYjJb2JYg_0000003 37.5 46.5 
+James_Lafferty/fhrYjJb2JYg_0000004 56.0 60.2 
+James_Lafferty/fhrYjJb2JYg_0000005 61.4 69.1 
+James_Lafferty/fhrYjJb2JYg_0000006 72.6 95.0 
+James_Lafferty/fhrYjJb2JYg_0000007 105.1 138.2 
+James_Lafferty/fhrYjJb2JYg_0000008 150.1 169.7 
+James_Lafferty/fhrYjJb2JYg_0000009 170.0 175.9 

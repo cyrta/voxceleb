@@ -1,0 +1,17 @@
+POI: 			Mira_Furlan 
+Youtube ID: 	Q_q8-k0WRTM 
+Video length: 	593.0 sec 
+Set (V): 		dev 
+ 
+Mira_Furlan/Q_q8-k0WRTM_0000001 60.6 66.4 
+Mira_Furlan/Q_q8-k0WRTM_0000002 74.9 82.5 
+Mira_Furlan/Q_q8-k0WRTM_0000003 108.8 116.7 
+Mira_Furlan/Q_q8-k0WRTM_0000004 123.8 127.9 
+Mira_Furlan/Q_q8-k0WRTM_0000005 251.3 255.3 
+Mira_Furlan/Q_q8-k0WRTM_0000006 257.8 263.4 
+Mira_Furlan/Q_q8-k0WRTM_0000007 284.3 289.8 
+Mira_Furlan/Q_q8-k0WRTM_0000008 400.7 405.0 
+Mira_Furlan/Q_q8-k0WRTM_0000009 450.2 454.8 
+Mira_Furlan/Q_q8-k0WRTM_0000010 471.6 477.1 
+Mira_Furlan/Q_q8-k0WRTM_0000011 489.6 493.6 
+Mira_Furlan/Q_q8-k0WRTM_0000012 557.9 563.0 

@@ -1,0 +1,12 @@
+POI: 			Romeo_Miller 
+Youtube ID: 	pMsn9gLrPY0 
+Video length: 	620.0 sec 
+Set (V): 		dev 
+ 
+Romeo_Miller/pMsn9gLrPY0_0000001 303.0 307.3 
+Romeo_Miller/pMsn9gLrPY0_0000002 310.3 315.1 
+Romeo_Miller/pMsn9gLrPY0_0000003 317.5 322.7 
+Romeo_Miller/pMsn9gLrPY0_0000004 330.4 335.3 
+Romeo_Miller/pMsn9gLrPY0_0000005 337.4 346.0 
+Romeo_Miller/pMsn9gLrPY0_0000006 355.4 369.3 
+Romeo_Miller/pMsn9gLrPY0_0000007 374.0 384.4 

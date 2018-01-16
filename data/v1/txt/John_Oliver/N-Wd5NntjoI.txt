@@ -1,0 +1,7 @@
+POI: 			John_Oliver 
+Youtube ID: 	N-Wd5NntjoI 
+Video length: 	100.7 sec 
+Set (V): 		dev 
+ 
+John_Oliver/N-Wd5NntjoI_0000001 11.6 17.8 
+John_Oliver/N-Wd5NntjoI_0000002 74.4 80.9 

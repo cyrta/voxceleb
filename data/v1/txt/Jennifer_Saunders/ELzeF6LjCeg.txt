@@ -1,0 +1,12 @@
+POI: 			Jennifer_Saunders 
+Youtube ID: 	ELzeF6LjCeg 
+Video length: 	214.8 sec 
+Set (V): 		dev 
+ 
+Jennifer_Saunders/ELzeF6LjCeg_0000001 18.8 27.6 
+Jennifer_Saunders/ELzeF6LjCeg_0000002 30.5 34.8 
+Jennifer_Saunders/ELzeF6LjCeg_0000003 38.4 44.3 
+Jennifer_Saunders/ELzeF6LjCeg_0000004 49.7 56.6 
+Jennifer_Saunders/ELzeF6LjCeg_0000005 59.0 67.1 
+Jennifer_Saunders/ELzeF6LjCeg_0000006 82.1 86.8 
+Jennifer_Saunders/ELzeF6LjCeg_0000007 136.3 143.9 

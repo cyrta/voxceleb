@@ -1,0 +1,7 @@
+POI: 			Miriam_Margolyes 
+Youtube ID: 	VKeRwVzjmDo 
+Video length: 	535.6 sec 
+Set (V): 		dev 
+ 
+Miriam_Margolyes/VKeRwVzjmDo_0000001 419.7 425.1 
+Miriam_Margolyes/VKeRwVzjmDo_0000002 509.5 513.6 

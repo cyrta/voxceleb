@@ -1,0 +1,11 @@
+POI: 			Tupac_Shakur 
+Youtube ID: 	6Mu5_lUKXG0 
+Video length: 	497.8 sec 
+Set (V): 		dev 
+ 
+Tupac_Shakur/6Mu5_lUKXG0_0000001 44.8 50.3 
+Tupac_Shakur/6Mu5_lUKXG0_0000002 73.4 81.0 
+Tupac_Shakur/6Mu5_lUKXG0_0000003 158.5 163.4 
+Tupac_Shakur/6Mu5_lUKXG0_0000004 201.7 207.0 
+Tupac_Shakur/6Mu5_lUKXG0_0000005 421.5 428.3 
+Tupac_Shakur/6Mu5_lUKXG0_0000006 444.8 452.6 

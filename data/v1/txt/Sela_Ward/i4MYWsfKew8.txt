@@ -1,0 +1,11 @@
+POI: 			Sela_Ward 
+Youtube ID: 	i4MYWsfKew8 
+Video length: 	254.3 sec 
+Set (V): 		dev 
+ 
+Sela_Ward/i4MYWsfKew8_0000001 28.7 32.7 
+Sela_Ward/i4MYWsfKew8_0000002 43.8 49.0 
+Sela_Ward/i4MYWsfKew8_0000003 113.6 119.4 
+Sela_Ward/i4MYWsfKew8_0000004 151.4 157.6 
+Sela_Ward/i4MYWsfKew8_0000005 190.9 197.6 
+Sela_Ward/i4MYWsfKew8_0000006 203.3 209.4 

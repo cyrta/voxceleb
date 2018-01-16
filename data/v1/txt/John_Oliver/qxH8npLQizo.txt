@@ -1,0 +1,24 @@
+POI: 			John_Oliver 
+Youtube ID: 	qxH8npLQizo 
+Video length: 	793.1 sec 
+Set (V): 		dev 
+ 
+John_Oliver/qxH8npLQizo_0000001 14.2 20.5 
+John_Oliver/qxH8npLQizo_0000002 30.0 35.4 
+John_Oliver/qxH8npLQizo_0000003 46.2 55.9 
+John_Oliver/qxH8npLQizo_0000004 104.2 110.3 
+John_Oliver/qxH8npLQizo_0000005 148.9 157.0 
+John_Oliver/qxH8npLQizo_0000006 180.6 186.2 
+John_Oliver/qxH8npLQizo_0000007 199.9 208.1 
+John_Oliver/qxH8npLQizo_0000008 278.4 286.6 
+John_Oliver/qxH8npLQizo_0000009 351.2 358.2 
+John_Oliver/qxH8npLQizo_0000010 371.3 382.1 
+John_Oliver/qxH8npLQizo_0000011 391.3 395.4 
+John_Oliver/qxH8npLQizo_0000012 405.7 412.4 
+John_Oliver/qxH8npLQizo_0000013 421.3 431.8 
+John_Oliver/qxH8npLQizo_0000014 458.0 462.4 
+John_Oliver/qxH8npLQizo_0000015 514.3 518.3 
+John_Oliver/qxH8npLQizo_0000016 587.4 593.4 
+John_Oliver/qxH8npLQizo_0000017 720.0 724.8 
+John_Oliver/qxH8npLQizo_0000018 726.6 735.7 
+John_Oliver/qxH8npLQizo_0000019 757.4 763.9 

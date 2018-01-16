@@ -1,0 +1,14 @@
+POI: 			Kristen_Schaal 
+Youtube ID: 	1ne9RX6tN5A 
+Video length: 	506.7 sec 
+Set (V): 		dev 
+ 
+Kristen_Schaal/1ne9RX6tN5A_0000001 74.2 79.8 
+Kristen_Schaal/1ne9RX6tN5A_0000002 169.8 175.9 
+Kristen_Schaal/1ne9RX6tN5A_0000003 181.8 186.6 
+Kristen_Schaal/1ne9RX6tN5A_0000004 220.0 224.7 
+Kristen_Schaal/1ne9RX6tN5A_0000005 227.3 234.0 
+Kristen_Schaal/1ne9RX6tN5A_0000006 239.9 244.4 
+Kristen_Schaal/1ne9RX6tN5A_0000007 273.0 279.0 
+Kristen_Schaal/1ne9RX6tN5A_0000008 340.8 345.6 
+Kristen_Schaal/1ne9RX6tN5A_0000009 391.9 396.2 

@@ -1,0 +1,7 @@
+POI: 			Steve_Harvey 
+Youtube ID: 	WF_wwIjBxNM 
+Video length: 	524.4 sec 
+Set (V): 		dev 
+ 
+Steve_Harvey/WF_wwIjBxNM_0000001 00.9 06.6 
+Steve_Harvey/WF_wwIjBxNM_0000002 06.9 16.0 

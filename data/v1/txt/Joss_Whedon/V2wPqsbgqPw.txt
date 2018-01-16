@@ -1,0 +1,18 @@
+POI: 			Joss_Whedon 
+Youtube ID: 	V2wPqsbgqPw 
+Video length: 	253.2 sec 
+Set (V): 		dev 
+ 
+Joss_Whedon/V2wPqsbgqPw_0000001 35.2 43.4 
+Joss_Whedon/V2wPqsbgqPw_0000002 44.1 50.7 
+Joss_Whedon/V2wPqsbgqPw_0000003 65.2 73.0 
+Joss_Whedon/V2wPqsbgqPw_0000004 73.3 79.3 
+Joss_Whedon/V2wPqsbgqPw_0000005 68.2 82.0 
+Joss_Whedon/V2wPqsbgqPw_0000006 82.3 87.2 
+Joss_Whedon/V2wPqsbgqPw_0000007 104.1 108.3 
+Joss_Whedon/V2wPqsbgqPw_0000008 134.4 140.0 
+Joss_Whedon/V2wPqsbgqPw_0000009 140.6 147.4 
+Joss_Whedon/V2wPqsbgqPw_0000010 153.9 162.9 
+Joss_Whedon/V2wPqsbgqPw_0000011 158.6 164.0 
+Joss_Whedon/V2wPqsbgqPw_0000012 176.6 180.8 
+Joss_Whedon/V2wPqsbgqPw_0000013 191.2 197.8 

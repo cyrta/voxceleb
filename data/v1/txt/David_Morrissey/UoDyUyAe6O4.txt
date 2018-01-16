@@ -1,0 +1,13 @@
+POI: 			David_Morrissey 
+Youtube ID: 	UoDyUyAe6O4 
+Video length: 	317.9 sec 
+Set (V): 		dev 
+ 
+David_Morrissey/UoDyUyAe6O4_0000001 31.4 35.3 
+David_Morrissey/UoDyUyAe6O4_0000002 82.2 93.7 
+David_Morrissey/UoDyUyAe6O4_0000003 101.0 114.7 
+David_Morrissey/UoDyUyAe6O4_0000004 229.0 236.6 
+David_Morrissey/UoDyUyAe6O4_0000005 239.1 248.5 
+David_Morrissey/UoDyUyAe6O4_0000006 255.0 262.6 
+David_Morrissey/UoDyUyAe6O4_0000007 264.0 276.4 
+David_Morrissey/UoDyUyAe6O4_0000008 282.0 291.2 

@@ -1,0 +1,17 @@
+POI: 			Patrick_Wilson 
+Youtube ID: 	InuBw0csj0s 
+Video length: 	413.6 sec 
+Set (V): 		dev 
+ 
+Patrick_Wilson/InuBw0csj0s_0000001 40.0 64.0 
+Patrick_Wilson/InuBw0csj0s_0000002 65.3 78.4 
+Patrick_Wilson/InuBw0csj0s_0000003 82.7 91.9 
+Patrick_Wilson/InuBw0csj0s_0000004 86.0 91.9 
+Patrick_Wilson/InuBw0csj0s_0000005 93.2 104.3 
+Patrick_Wilson/InuBw0csj0s_0000006 144.6 153.0 
+Patrick_Wilson/InuBw0csj0s_0000007 161.3 173.8 
+Patrick_Wilson/InuBw0csj0s_0000008 261.1 280.9 
+Patrick_Wilson/InuBw0csj0s_0000009 281.1 288.7 
+Patrick_Wilson/InuBw0csj0s_0000010 328.1 332.7 
+Patrick_Wilson/InuBw0csj0s_0000011 333.2 345.4 
+Patrick_Wilson/InuBw0csj0s_0000012 346.7 398.9 

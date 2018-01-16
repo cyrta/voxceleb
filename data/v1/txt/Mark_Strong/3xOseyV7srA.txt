@@ -1,0 +1,18 @@
+POI: 			Mark_Strong 
+Youtube ID: 	3xOseyV7srA 
+Video length: 	241.0 sec 
+Set (V): 		dev 
+ 
+Mark_Strong/3xOseyV7srA_0000001 11.1 17.1 
+Mark_Strong/3xOseyV7srA_0000002 20.3 26.9 
+Mark_Strong/3xOseyV7srA_0000003 34.4 49.2 
+Mark_Strong/3xOseyV7srA_0000004 50.9 61.7 
+Mark_Strong/3xOseyV7srA_0000005 62.3 80.4 
+Mark_Strong/3xOseyV7srA_0000006 82.3 86.5 
+Mark_Strong/3xOseyV7srA_0000007 104.0 110.6 
+Mark_Strong/3xOseyV7srA_0000008 112.8 139.3 
+Mark_Strong/3xOseyV7srA_0000009 150.1 166.2 
+Mark_Strong/3xOseyV7srA_0000010 167.0 176.5 
+Mark_Strong/3xOseyV7srA_0000011 178.4 187.3 
+Mark_Strong/3xOseyV7srA_0000012 192.8 214.9 
+Mark_Strong/3xOseyV7srA_0000013 221.9 227.4 

@@ -1,0 +1,9 @@
+POI: 			Tyler_Hoechlin 
+Youtube ID: 	CX6A-w9OLx0 
+Video length: 	79.2 sec 
+Set (V): 		dev 
+ 
+Tyler_Hoechlin/CX6A-w9OLx0_0000001 04.1 10.3 
+Tyler_Hoechlin/CX6A-w9OLx0_0000002 24.7 33.3 
+Tyler_Hoechlin/CX6A-w9OLx0_0000003 41.7 56.4 
+Tyler_Hoechlin/CX6A-w9OLx0_0000004 59.1 68.6 

@@ -1,0 +1,14 @@
+POI: 			Mark_Hamill 
+Youtube ID: 	eUuMsloSYS4 
+Video length: 	628.2 sec 
+Set (V): 		dev 
+ 
+Mark_Hamill/eUuMsloSYS4_0000001 103.8 111.2 
+Mark_Hamill/eUuMsloSYS4_0000002 116.4 121.5 
+Mark_Hamill/eUuMsloSYS4_0000003 160.1 172.7 
+Mark_Hamill/eUuMsloSYS4_0000004 288.4 297.7 
+Mark_Hamill/eUuMsloSYS4_0000005 344.0 353.8 
+Mark_Hamill/eUuMsloSYS4_0000006 386.4 390.8 
+Mark_Hamill/eUuMsloSYS4_0000007 416.2 424.6 
+Mark_Hamill/eUuMsloSYS4_0000008 515.8 520.5 
+Mark_Hamill/eUuMsloSYS4_0000009 531.4 538.6 

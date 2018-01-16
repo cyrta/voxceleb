@@ -1,0 +1,11 @@
+POI: 			Dove_Cameron 
+Youtube ID: 	RDeAEADvM2g 
+Video length: 	308.2 sec 
+Set (V): 		dev 
+ 
+Dove_Cameron/RDeAEADvM2g_0000001 45.4 51.0 
+Dove_Cameron/RDeAEADvM2g_0000002 53.6 58.6 
+Dove_Cameron/RDeAEADvM2g_0000003 159.2 164.2 
+Dove_Cameron/RDeAEADvM2g_0000004 201.2 208.6 
+Dove_Cameron/RDeAEADvM2g_0000005 224.3 228.4 
+Dove_Cameron/RDeAEADvM2g_0000006 228.9 234.5 

@@ -1,0 +1,15 @@
+POI: 			Steve_Jobs 
+Youtube ID: 	65_PmYipnpk 
+Video length: 	213.8 sec 
+Set (V): 		dev 
+ 
+Steve_Jobs/65_PmYipnpk_0000001 01.5 05.5 
+Steve_Jobs/65_PmYipnpk_0000002 16.4 24.2 
+Steve_Jobs/65_PmYipnpk_0000003 25.5 31.4 
+Steve_Jobs/65_PmYipnpk_0000004 10.2 16.2 
+Steve_Jobs/65_PmYipnpk_0000005 42.2 57.2 
+Steve_Jobs/65_PmYipnpk_0000006 62.3 68.6 
+Steve_Jobs/65_PmYipnpk_0000007 72.5 100.0 
+Steve_Jobs/65_PmYipnpk_0000008 101.1 105.2 
+Steve_Jobs/65_PmYipnpk_0000009 158.0 170.7 
+Steve_Jobs/65_PmYipnpk_0000010 174.0 184.8 

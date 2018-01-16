@@ -1,0 +1,8 @@
+POI: 			Roma_Downey 
+Youtube ID: 	LHjeT4hc23Y 
+Video length: 	304.2 sec 
+Set (V): 		dev 
+ 
+Roma_Downey/LHjeT4hc23Y_0000001 36.2 41.0 
+Roma_Downey/LHjeT4hc23Y_0000002 48.9 64.8 
+Roma_Downey/LHjeT4hc23Y_0000003 66.9 83.2 

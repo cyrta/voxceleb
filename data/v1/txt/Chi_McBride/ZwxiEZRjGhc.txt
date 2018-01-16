@@ -1,0 +1,11 @@
+POI: 			Chi_McBride 
+Youtube ID: 	ZwxiEZRjGhc 
+Video length: 	2401.8 sec 
+Set (V): 		dev 
+ 
+Chi_McBride/ZwxiEZRjGhc_0000001 1281.8 1287.0 
+Chi_McBride/ZwxiEZRjGhc_0000002 1359.1 1363.9 
+Chi_McBride/ZwxiEZRjGhc_0000003 1440.8 1447.1 
+Chi_McBride/ZwxiEZRjGhc_0000004 1464.0 1473.2 
+Chi_McBride/ZwxiEZRjGhc_0000005 1487.3 1492.4 
+Chi_McBride/ZwxiEZRjGhc_0000006 1534.5 1539.5 

@@ -1,0 +1,8 @@
+POI: 			Taylor_Lautner 
+Youtube ID: 	l1AR1Imk9CU 
+Video length: 	267.5 sec 
+Set (V): 		dev 
+ 
+Taylor_Lautner/l1AR1Imk9CU_0000001 108.7 121.7 
+Taylor_Lautner/l1AR1Imk9CU_0000002 131.2 135.9 
+Taylor_Lautner/l1AR1Imk9CU_0000003 183.3 199.0 

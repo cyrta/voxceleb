@@ -1,0 +1,9 @@
+POI: 			Bruno_Mars 
+Youtube ID: 	wcx3_NPQeVM 
+Video length: 	269.2 sec 
+Set (V): 		dev 
+ 
+Bruno_Mars/wcx3_NPQeVM_0000001 84.2 88.4 
+Bruno_Mars/wcx3_NPQeVM_0000002 160.2 164.7 
+Bruno_Mars/wcx3_NPQeVM_0000003 229.4 236.9 
+Bruno_Mars/wcx3_NPQeVM_0000004 248.7 252.8 

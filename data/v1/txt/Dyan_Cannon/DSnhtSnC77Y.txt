@@ -1,0 +1,9 @@
+POI: 			Dyan_Cannon 
+Youtube ID: 	DSnhtSnC77Y 
+Video length: 	379.6 sec 
+Set (V): 		dev 
+ 
+Dyan_Cannon/DSnhtSnC77Y_0000001 133.2 138.8 
+Dyan_Cannon/DSnhtSnC77Y_0000002 154.9 164.1 
+Dyan_Cannon/DSnhtSnC77Y_0000003 233.8 239.3 
+Dyan_Cannon/DSnhtSnC77Y_0000004 244.3 248.8 

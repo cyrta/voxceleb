@@ -1,0 +1,11 @@
+POI: 			Amaury_Nolasco 
+Youtube ID: 	n9i0xVO-heo 
+Video length: 	190.5 sec 
+Set (V): 		dev 
+ 
+Amaury_Nolasco/n9i0xVO-heo_0000001 43.9 51.0 
+Amaury_Nolasco/n9i0xVO-heo_0000002 56.4 61.3 
+Amaury_Nolasco/n9i0xVO-heo_0000003 83.8 88.8 
+Amaury_Nolasco/n9i0xVO-heo_0000004 138.2 143.6 
+Amaury_Nolasco/n9i0xVO-heo_0000005 154.9 160.0 
+Amaury_Nolasco/n9i0xVO-heo_0000006 160.9 171.2 

@@ -1,0 +1,17 @@
+POI: 			Paul_Reubens 
+Youtube ID: 	4IAzvK87HqI 
+Video length: 	287.1 sec 
+Set (V): 		dev 
+ 
+Paul_Reubens/4IAzvK87HqI_0000001 26.0 35.3 
+Paul_Reubens/4IAzvK87HqI_0000002 36.3 42.0 
+Paul_Reubens/4IAzvK87HqI_0000003 64.6 69.6 
+Paul_Reubens/4IAzvK87HqI_0000004 77.1 81.4 
+Paul_Reubens/4IAzvK87HqI_0000005 107.9 118.4 
+Paul_Reubens/4IAzvK87HqI_0000006 135.6 140.9 
+Paul_Reubens/4IAzvK87HqI_0000007 145.1 151.2 
+Paul_Reubens/4IAzvK87HqI_0000008 152.0 163.6 
+Paul_Reubens/4IAzvK87HqI_0000009 164.1 170.6 
+Paul_Reubens/4IAzvK87HqI_0000010 196.1 205.0 
+Paul_Reubens/4IAzvK87HqI_0000011 206.8 221.4 
+Paul_Reubens/4IAzvK87HqI_0000012 233.2 240.8 

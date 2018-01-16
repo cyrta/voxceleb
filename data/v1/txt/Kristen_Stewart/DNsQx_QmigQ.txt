@@ -1,0 +1,11 @@
+POI: 			Kristen_Stewart 
+Youtube ID: 	DNsQx_QmigQ 
+Video length: 	239.0 sec 
+Set (V): 		dev 
+ 
+Kristen_Stewart/DNsQx_QmigQ_0000001 56.5 61.4 
+Kristen_Stewart/DNsQx_QmigQ_0000002 112.0 117.8 
+Kristen_Stewart/DNsQx_QmigQ_0000003 148.0 162.4 
+Kristen_Stewart/DNsQx_QmigQ_0000004 162.7 169.6 
+Kristen_Stewart/DNsQx_QmigQ_0000005 171.8 193.6 
+Kristen_Stewart/DNsQx_QmigQ_0000006 199.9 204.6 

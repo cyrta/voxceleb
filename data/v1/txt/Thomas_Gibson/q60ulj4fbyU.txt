@@ -1,0 +1,12 @@
+POI: 			Thomas_Gibson 
+Youtube ID: 	q60ulj4fbyU 
+Video length: 	369.4 sec 
+Set (V): 		dev 
+ 
+Thomas_Gibson/q60ulj4fbyU_0000001 43.0 51.7 
+Thomas_Gibson/q60ulj4fbyU_0000002 82.7 101.0 
+Thomas_Gibson/q60ulj4fbyU_0000003 195.2 201.1 
+Thomas_Gibson/q60ulj4fbyU_0000004 262.2 266.4 
+Thomas_Gibson/q60ulj4fbyU_0000005 273.8 279.0 
+Thomas_Gibson/q60ulj4fbyU_0000006 290.4 301.2 
+Thomas_Gibson/q60ulj4fbyU_0000007 310.4 318.2 

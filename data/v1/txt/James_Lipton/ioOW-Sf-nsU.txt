@@ -1,0 +1,8 @@
+POI: 			James_Lipton 
+Youtube ID: 	ioOW-Sf-nsU 
+Video length: 	194.6 sec 
+Set (V): 		dev 
+ 
+James_Lipton/ioOW-Sf-nsU_0000001 60.6 66.8 
+James_Lipton/ioOW-Sf-nsU_0000002 117.8 123.6 
+James_Lipton/ioOW-Sf-nsU_0000003 182.9 188.8 

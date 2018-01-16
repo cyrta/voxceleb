@@ -1,0 +1,7 @@
+POI: 			Tyler_Hoechlin 
+Youtube ID: 	ZKbrSCl3a58 
+Video length: 	552.2 sec 
+Set (V): 		dev 
+ 
+Tyler_Hoechlin/ZKbrSCl3a58_0000001 206.5 211.9 
+Tyler_Hoechlin/ZKbrSCl3a58_0000002 525.0 533.1 

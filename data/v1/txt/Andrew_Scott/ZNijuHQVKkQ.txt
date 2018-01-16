@@ -1,0 +1,11 @@
+POI: 			Andrew_Scott 
+Youtube ID: 	ZNijuHQVKkQ 
+Video length: 	453.5 sec 
+Set (V): 		dev 
+ 
+Andrew_Scott/ZNijuHQVKkQ_0000001 63.9 84.8 
+Andrew_Scott/ZNijuHQVKkQ_0000002 131.2 135.5 
+Andrew_Scott/ZNijuHQVKkQ_0000003 146.8 151.2 
+Andrew_Scott/ZNijuHQVKkQ_0000004 156.7 161.5 
+Andrew_Scott/ZNijuHQVKkQ_0000005 337.3 342.3 
+Andrew_Scott/ZNijuHQVKkQ_0000006 393.6 397.7 

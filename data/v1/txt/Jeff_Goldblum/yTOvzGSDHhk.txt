@@ -1,0 +1,7 @@
+POI: 			Jeff_Goldblum 
+Youtube ID: 	yTOvzGSDHhk 
+Video length: 	723.5 sec 
+Set (V): 		dev 
+ 
+Jeff_Goldblum/yTOvzGSDHhk_0000001 312.3 320.6 
+Jeff_Goldblum/yTOvzGSDHhk_0000002 360.8 365.5 

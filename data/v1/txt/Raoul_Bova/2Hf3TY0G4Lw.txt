@@ -1,0 +1,7 @@
+POI: 			Raoul_Bova 
+Youtube ID: 	2Hf3TY0G4Lw 
+Video length: 	273.2 sec 
+Set (V): 		dev 
+ 
+Raoul_Bova/2Hf3TY0G4Lw_0000001 40.4 46.0 
+Raoul_Bova/2Hf3TY0G4Lw_0000002 86.3 90.9 

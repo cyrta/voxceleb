@@ -1,0 +1,9 @@
+POI: 			Anton_Yelchin 
+Youtube ID: 	hbTfy9WEMs4 
+Video length: 	180.2 sec 
+Set (V): 		dev 
+ 
+Anton_Yelchin/hbTfy9WEMs4_0000001 46.6 50.8 
+Anton_Yelchin/hbTfy9WEMs4_0000002 60.8 71.1 
+Anton_Yelchin/hbTfy9WEMs4_0000003 72.1 95.9 
+Anton_Yelchin/hbTfy9WEMs4_0000004 96.4 101.8 

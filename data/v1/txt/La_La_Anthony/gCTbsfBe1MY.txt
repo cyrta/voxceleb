@@ -1,0 +1,11 @@
+POI: 			La_La_Anthony 
+Youtube ID: 	gCTbsfBe1MY 
+Video length: 	311.4 sec 
+Set (V): 		dev 
+ 
+La_La_Anthony/gCTbsfBe1MY_0000001 17.9 22.5 
+La_La_Anthony/gCTbsfBe1MY_0000002 160.2 166.1 
+La_La_Anthony/gCTbsfBe1MY_0000003 185.8 198.2 
+La_La_Anthony/gCTbsfBe1MY_0000004 211.2 215.5 
+La_La_Anthony/gCTbsfBe1MY_0000005 225.6 233.4 
+La_La_Anthony/gCTbsfBe1MY_0000006 273.2 278.6 

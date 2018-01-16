@@ -1,0 +1,11 @@
+POI: 			Marilu_Henner 
+Youtube ID: 	1KUM-bsHDJ4 
+Video length: 	141.4 sec 
+Set (V): 		dev 
+ 
+Marilu_Henner/1KUM-bsHDJ4_0000001 06.8 44.6 
+Marilu_Henner/1KUM-bsHDJ4_0000002 44.8 48.8 
+Marilu_Henner/1KUM-bsHDJ4_0000003 49.6 65.4 
+Marilu_Henner/1KUM-bsHDJ4_0000004 68.7 81.0 
+Marilu_Henner/1KUM-bsHDJ4_0000005 84.9 91.7 
+Marilu_Henner/1KUM-bsHDJ4_0000006 94.4 127.6 

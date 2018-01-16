@@ -1,0 +1,10 @@
+POI: 			Antonio_Cupo 
+Youtube ID: 	8p_WkPwuhGA 
+Video length: 	64.2 sec 
+Set (V): 		dev 
+ 
+Antonio_Cupo/8p_WkPwuhGA_0000001 06.5 11.0 
+Antonio_Cupo/8p_WkPwuhGA_0000002 11.2 19.1 
+Antonio_Cupo/8p_WkPwuhGA_0000003 20.6 30.1 
+Antonio_Cupo/8p_WkPwuhGA_0000004 31.6 37.0 
+Antonio_Cupo/8p_WkPwuhGA_0000005 42.8 52.8 

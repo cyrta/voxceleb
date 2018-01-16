@@ -1,0 +1,16 @@
+POI: 			Peter_Jackson 
+Youtube ID: 	sMlmA5_4ZMI 
+Video length: 	556.3 sec 
+Set (V): 		dev 
+ 
+Peter_Jackson/sMlmA5_4ZMI_0000001 75.7 83.2 
+Peter_Jackson/sMlmA5_4ZMI_0000002 90.9 96.1 
+Peter_Jackson/sMlmA5_4ZMI_0000003 150.2 155.9 
+Peter_Jackson/sMlmA5_4ZMI_0000004 169.5 173.5 
+Peter_Jackson/sMlmA5_4ZMI_0000005 185.4 194.4 
+Peter_Jackson/sMlmA5_4ZMI_0000006 330.5 336.0 
+Peter_Jackson/sMlmA5_4ZMI_0000007 361.7 366.0 
+Peter_Jackson/sMlmA5_4ZMI_0000008 376.8 383.2 
+Peter_Jackson/sMlmA5_4ZMI_0000009 401.5 406.0 
+Peter_Jackson/sMlmA5_4ZMI_0000010 452.1 458.6 
+Peter_Jackson/sMlmA5_4ZMI_0000011 507.1 515.3 

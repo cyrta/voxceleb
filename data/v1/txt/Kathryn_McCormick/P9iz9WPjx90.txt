@@ -1,0 +1,8 @@
+POI: 			Kathryn_McCormick 
+Youtube ID: 	P9iz9WPjx90 
+Video length: 	153.0 sec 
+Set (V): 		dev 
+ 
+Kathryn_McCormick/P9iz9WPjx90_0000001 18.5 25.0 
+Kathryn_McCormick/P9iz9WPjx90_0000002 61.2 68.1 
+Kathryn_McCormick/P9iz9WPjx90_0000003 95.1 102.5 

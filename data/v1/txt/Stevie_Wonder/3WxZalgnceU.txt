@@ -1,0 +1,8 @@
+POI: 			Stevie_Wonder 
+Youtube ID: 	3WxZalgnceU 
+Video length: 	215.7 sec 
+Set (V): 		dev 
+ 
+Stevie_Wonder/3WxZalgnceU_0000001 03.5 09.0 
+Stevie_Wonder/3WxZalgnceU_0000002 10.0 14.0 
+Stevie_Wonder/3WxZalgnceU_0000003 180.0 185.8 

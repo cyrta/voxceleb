@@ -1,0 +1,18 @@
+POI: 			Tom_Ford 
+Youtube ID: 	mtOBsZpkz8I 
+Video length: 	224.2 sec 
+Set (V): 		dev 
+ 
+Tom_Ford/mtOBsZpkz8I_0000001 19.3 25.4 
+Tom_Ford/mtOBsZpkz8I_0000002 25.8 31.1 
+Tom_Ford/mtOBsZpkz8I_0000003 37.4 41.6 
+Tom_Ford/mtOBsZpkz8I_0000004 42.8 47.6 
+Tom_Ford/mtOBsZpkz8I_0000005 63.2 70.9 
+Tom_Ford/mtOBsZpkz8I_0000006 75.8 91.9 
+Tom_Ford/mtOBsZpkz8I_0000007 100.6 108.8 
+Tom_Ford/mtOBsZpkz8I_0000008 131.4 137.9 
+Tom_Ford/mtOBsZpkz8I_0000009 143.2 155.0 
+Tom_Ford/mtOBsZpkz8I_0000010 169.5 176.0 
+Tom_Ford/mtOBsZpkz8I_0000011 177.8 188.4 
+Tom_Ford/mtOBsZpkz8I_0000012 199.8 207.7 
+Tom_Ford/mtOBsZpkz8I_0000013 213.3 222.2 

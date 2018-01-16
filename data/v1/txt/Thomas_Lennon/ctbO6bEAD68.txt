@@ -1,0 +1,7 @@
+POI: 			Thomas_Lennon 
+Youtube ID: 	ctbO6bEAD68 
+Video length: 	86.3 sec 
+Set (V): 		dev 
+ 
+Thomas_Lennon/ctbO6bEAD68_0000001 33.6 37.6 
+Thomas_Lennon/ctbO6bEAD68_0000002 77.3 83.8 

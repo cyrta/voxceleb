@@ -1,0 +1,11 @@
+POI: 			Vince_Gilligan 
+Youtube ID: 	mUU2sALBYUE 
+Video length: 	99.1 sec 
+Set (V): 		dev 
+ 
+Vince_Gilligan/mUU2sALBYUE_0000001 23.6 29.4 
+Vince_Gilligan/mUU2sALBYUE_0000002 42.2 51.8 
+Vince_Gilligan/mUU2sALBYUE_0000003 55.2 60.5 
+Vince_Gilligan/mUU2sALBYUE_0000004 63.5 70.9 
+Vince_Gilligan/mUU2sALBYUE_0000005 83.0 88.4 
+Vince_Gilligan/mUU2sALBYUE_0000006 89.3 93.4 

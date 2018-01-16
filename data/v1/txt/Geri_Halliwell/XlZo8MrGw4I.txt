@@ -1,0 +1,41 @@
+POI: 			Geri_Halliwell 
+Youtube ID: 	XlZo8MrGw4I 
+Video length: 	658.1 sec 
+Set (V): 		dev 
+ 
+Geri_Halliwell/XlZo8MrGw4I_0000001 00.7 28.4 
+Geri_Halliwell/XlZo8MrGw4I_0000002 28.7 46.1 
+Geri_Halliwell/XlZo8MrGw4I_0000003 47.0 70.7 
+Geri_Halliwell/XlZo8MrGw4I_0000004 71.0 76.6 
+Geri_Halliwell/XlZo8MrGw4I_0000005 78.1 86.4 
+Geri_Halliwell/XlZo8MrGw4I_0000006 87.1 109.7 
+Geri_Halliwell/XlZo8MrGw4I_0000007 110.5 134.0 
+Geri_Halliwell/XlZo8MrGw4I_0000008 136.3 143.6 
+Geri_Halliwell/XlZo8MrGw4I_0000009 157.8 163.1 
+Geri_Halliwell/XlZo8MrGw4I_0000010 169.8 178.0 
+Geri_Halliwell/XlZo8MrGw4I_0000011 178.1 190.3 
+Geri_Halliwell/XlZo8MrGw4I_0000012 197.8 219.5 
+Geri_Halliwell/XlZo8MrGw4I_0000013 224.4 243.0 
+Geri_Halliwell/XlZo8MrGw4I_0000014 243.3 255.3 
+Geri_Halliwell/XlZo8MrGw4I_0000015 255.8 261.0 
+Geri_Halliwell/XlZo8MrGw4I_0000016 269.2 281.4 
+Geri_Halliwell/XlZo8MrGw4I_0000017 282.4 315.2 
+Geri_Halliwell/XlZo8MrGw4I_0000018 323.5 329.5 
+Geri_Halliwell/XlZo8MrGw4I_0000019 331.5 346.0 
+Geri_Halliwell/XlZo8MrGw4I_0000020 347.2 377.0 
+Geri_Halliwell/XlZo8MrGw4I_0000021 387.8 395.8 
+Geri_Halliwell/XlZo8MrGw4I_0000022 396.6 411.3 
+Geri_Halliwell/XlZo8MrGw4I_0000023 420.3 439.9 
+Geri_Halliwell/XlZo8MrGw4I_0000024 461.0 469.5 
+Geri_Halliwell/XlZo8MrGw4I_0000025 471.4 494.2 
+Geri_Halliwell/XlZo8MrGw4I_0000026 494.9 500.9 
+Geri_Halliwell/XlZo8MrGw4I_0000027 505.4 512.2 
+Geri_Halliwell/XlZo8MrGw4I_0000028 512.9 530.2 
+Geri_Halliwell/XlZo8MrGw4I_0000029 542.5 552.8 
+Geri_Halliwell/XlZo8MrGw4I_0000030 554.8 571.7 
+Geri_Halliwell/XlZo8MrGw4I_0000031 572.4 582.6 
+Geri_Halliwell/XlZo8MrGw4I_0000032 582.6 595.9 
+Geri_Halliwell/XlZo8MrGw4I_0000033 610.8 617.6 
+Geri_Halliwell/XlZo8MrGw4I_0000034 617.8 623.8 
+Geri_Halliwell/XlZo8MrGw4I_0000035 624.2 637.0 
+Geri_Halliwell/XlZo8MrGw4I_0000036 640.4 650.9 

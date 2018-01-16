@@ -1,0 +1,9 @@
+POI: 			Lisa_Kudrow 
+Youtube ID: 	k7t8RfNcfmc 
+Video length: 	449.3 sec 
+Set (V): 		dev 
+ 
+Lisa_Kudrow/k7t8RfNcfmc_0000001 166.2 173.2 
+Lisa_Kudrow/k7t8RfNcfmc_0000002 228.7 234.2 
+Lisa_Kudrow/k7t8RfNcfmc_0000003 235.1 242.4 
+Lisa_Kudrow/k7t8RfNcfmc_0000004 238.6 248.5 

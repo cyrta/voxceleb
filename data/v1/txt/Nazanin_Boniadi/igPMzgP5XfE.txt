@@ -1,0 +1,11 @@
+POI: 			Nazanin_Boniadi 
+Youtube ID: 	igPMzgP5XfE 
+Video length: 	241.6 sec 
+Set (V): 		dev 
+ 
+Nazanin_Boniadi/igPMzgP5XfE_0000001 15.3 22.7 
+Nazanin_Boniadi/igPMzgP5XfE_0000002 25.7 35.0 
+Nazanin_Boniadi/igPMzgP5XfE_0000003 35.2 63.0 
+Nazanin_Boniadi/igPMzgP5XfE_0000004 168.7 172.9 
+Nazanin_Boniadi/igPMzgP5XfE_0000005 179.1 193.4 
+Nazanin_Boniadi/igPMzgP5XfE_0000006 195.3 200.1 

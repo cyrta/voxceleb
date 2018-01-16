@@ -1,0 +1,15 @@
+POI: 			Joel_Edgerton 
+Youtube ID: 	JR3zwN9gGr0 
+Video length: 	335.0 sec 
+Set (V): 		dev 
+ 
+Joel_Edgerton/JR3zwN9gGr0_0000001 36.4 46.4 
+Joel_Edgerton/JR3zwN9gGr0_0000002 92.3 97.4 
+Joel_Edgerton/JR3zwN9gGr0_0000003 99.4 105.4 
+Joel_Edgerton/JR3zwN9gGr0_0000004 105.8 115.6 
+Joel_Edgerton/JR3zwN9gGr0_0000005 115.6 124.8 
+Joel_Edgerton/JR3zwN9gGr0_0000006 255.2 275.9 
+Joel_Edgerton/JR3zwN9gGr0_0000007 277.8 288.0 
+Joel_Edgerton/JR3zwN9gGr0_0000008 291.8 299.9 
+Joel_Edgerton/JR3zwN9gGr0_0000009 301.8 308.7 
+Joel_Edgerton/JR3zwN9gGr0_0000010 316.9 325.1 

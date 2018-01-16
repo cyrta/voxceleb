@@ -1,0 +1,9 @@
+POI: 			Robert_Carlyle 
+Youtube ID: 	SehDu_j-6HM 
+Video length: 	553.0 sec 
+Set (V): 		dev 
+ 
+Robert_Carlyle/SehDu_j-6HM_0000001 172.8 176.8 
+Robert_Carlyle/SehDu_j-6HM_0000002 271.9 276.1 
+Robert_Carlyle/SehDu_j-6HM_0000003 309.2 313.5 
+Robert_Carlyle/SehDu_j-6HM_0000004 507.5 511.9 

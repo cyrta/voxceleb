@@ -1,0 +1,24 @@
+POI: 			Harry_Treadaway 
+Youtube ID: 	20jiP-8kxJQ 
+Video length: 	255.0 sec 
+Set (V): 		dev 
+ 
+Harry_Treadaway/20jiP-8kxJQ_0000001 19.0 33.1 
+Harry_Treadaway/20jiP-8kxJQ_0000002 33.3 37.6 
+Harry_Treadaway/20jiP-8kxJQ_0000003 38.1 43.9 
+Harry_Treadaway/20jiP-8kxJQ_0000004 49.0 54.3 
+Harry_Treadaway/20jiP-8kxJQ_0000005 59.9 64.4 
+Harry_Treadaway/20jiP-8kxJQ_0000006 75.6 86.9 
+Harry_Treadaway/20jiP-8kxJQ_0000007 66.0 71.3 
+Harry_Treadaway/20jiP-8kxJQ_0000008 71.9 81.0 
+Harry_Treadaway/20jiP-8kxJQ_0000009 101.0 111.7 
+Harry_Treadaway/20jiP-8kxJQ_0000010 115.8 132.4 
+Harry_Treadaway/20jiP-8kxJQ_0000011 132.9 143.2 
+Harry_Treadaway/20jiP-8kxJQ_0000012 156.3 162.0 
+Harry_Treadaway/20jiP-8kxJQ_0000013 177.2 183.3 
+Harry_Treadaway/20jiP-8kxJQ_0000014 187.6 192.6 
+Harry_Treadaway/20jiP-8kxJQ_0000015 193.6 202.2 
+Harry_Treadaway/20jiP-8kxJQ_0000016 205.9 211.2 
+Harry_Treadaway/20jiP-8kxJQ_0000017 214.0 218.0 
+Harry_Treadaway/20jiP-8kxJQ_0000018 219.6 227.2 
+Harry_Treadaway/20jiP-8kxJQ_0000019 247.9 252.5 

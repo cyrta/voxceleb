@@ -1,0 +1,8 @@
+POI: 			Erin_Andrews 
+Youtube ID: 	it0-Z6L2128 
+Video length: 	235.9 sec 
+Set (V): 		test 
+ 
+Erin_Andrews/it0-Z6L2128_0000001 77.6 81.6 
+Erin_Andrews/it0-Z6L2128_0000002 101.5 118.4 
+Erin_Andrews/it0-Z6L2128_0000003 128.8 135.9 

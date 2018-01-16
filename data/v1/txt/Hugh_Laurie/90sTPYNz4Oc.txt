@@ -1,0 +1,8 @@
+POI: 			Hugh_Laurie 
+Youtube ID: 	90sTPYNz4Oc 
+Video length: 	162.7 sec 
+Set (V): 		dev 
+ 
+Hugh_Laurie/90sTPYNz4Oc_0000001 09.3 17.0 
+Hugh_Laurie/90sTPYNz4Oc_0000002 46.0 55.9 
+Hugh_Laurie/90sTPYNz4Oc_0000003 111.9 119.9 

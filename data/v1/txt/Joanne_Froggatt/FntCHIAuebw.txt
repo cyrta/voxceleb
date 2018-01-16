@@ -1,0 +1,14 @@
+POI: 			Joanne_Froggatt 
+Youtube ID: 	FntCHIAuebw 
+Video length: 	141.8 sec 
+Set (V): 		dev 
+ 
+Joanne_Froggatt/FntCHIAuebw_0000001 12.2 24.6 
+Joanne_Froggatt/FntCHIAuebw_0000002 26.7 32.6 
+Joanne_Froggatt/FntCHIAuebw_0000003 32.8 37.1 
+Joanne_Froggatt/FntCHIAuebw_0000004 37.4 46.8 
+Joanne_Froggatt/FntCHIAuebw_0000005 51.9 71.4 
+Joanne_Froggatt/FntCHIAuebw_0000006 83.0 89.9 
+Joanne_Froggatt/FntCHIAuebw_0000007 90.5 95.3 
+Joanne_Froggatt/FntCHIAuebw_0000008 98.6 119.2 
+Joanne_Froggatt/FntCHIAuebw_0000009 121.9 132.8 

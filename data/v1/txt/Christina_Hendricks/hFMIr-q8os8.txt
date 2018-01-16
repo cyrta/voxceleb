@@ -1,0 +1,8 @@
+POI: 			Christina_Hendricks 
+Youtube ID: 	hFMIr-q8os8 
+Video length: 	219.5 sec 
+Set (V): 		dev 
+ 
+Christina_Hendricks/hFMIr-q8os8_0000001 38.0 43.8 
+Christina_Hendricks/hFMIr-q8os8_0000002 70.1 95.6 
+Christina_Hendricks/hFMIr-q8os8_0000003 194.2 206.2 

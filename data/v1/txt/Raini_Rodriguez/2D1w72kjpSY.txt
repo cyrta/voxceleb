@@ -1,0 +1,13 @@
+POI: 			Raini_Rodriguez 
+Youtube ID: 	2D1w72kjpSY 
+Video length: 	808.9 sec 
+Set (V): 		dev 
+ 
+Raini_Rodriguez/2D1w72kjpSY_0000001 226.0 230.2 
+Raini_Rodriguez/2D1w72kjpSY_0000002 230.6 235.0 
+Raini_Rodriguez/2D1w72kjpSY_0000003 334.6 343.2 
+Raini_Rodriguez/2D1w72kjpSY_0000004 391.6 396.9 
+Raini_Rodriguez/2D1w72kjpSY_0000005 412.6 416.6 
+Raini_Rodriguez/2D1w72kjpSY_0000006 602.5 606.8 
+Raini_Rodriguez/2D1w72kjpSY_0000007 610.0 614.6 
+Raini_Rodriguez/2D1w72kjpSY_0000008 686.4 691.0 

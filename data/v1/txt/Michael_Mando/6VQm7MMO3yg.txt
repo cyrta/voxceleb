@@ -1,0 +1,7 @@
+POI: 			Michael_Mando 
+Youtube ID: 	6VQm7MMO3yg 
+Video length: 	233.7 sec 
+Set (V): 		dev 
+ 
+Michael_Mando/6VQm7MMO3yg_0000001 160.4 164.4 
+Michael_Mando/6VQm7MMO3yg_0000002 220.6 227.2 

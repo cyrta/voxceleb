@@ -1,0 +1,10 @@
+POI: 			Steve_Carell 
+Youtube ID: 	Q8PrCvWmrPM 
+Video length: 	413.8 sec 
+Set (V): 		dev 
+ 
+Steve_Carell/Q8PrCvWmrPM_0000001 270.1 275.5 
+Steve_Carell/Q8PrCvWmrPM_0000002 286.2 295.8 
+Steve_Carell/Q8PrCvWmrPM_0000003 323.9 334.1 
+Steve_Carell/Q8PrCvWmrPM_0000004 369.5 378.0 
+Steve_Carell/Q8PrCvWmrPM_0000005 386.2 392.1 

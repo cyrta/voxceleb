@@ -1,0 +1,19 @@
+POI: 			Katee_Sackhoff 
+Youtube ID: 	1BFSVmza1cM 
+Video length: 	381.3 sec 
+Set (V): 		dev 
+ 
+Katee_Sackhoff/1BFSVmza1cM_0000001 06.4 13.4 
+Katee_Sackhoff/1BFSVmza1cM_0000002 40.8 58.5 
+Katee_Sackhoff/1BFSVmza1cM_0000003 60.0 68.6 
+Katee_Sackhoff/1BFSVmza1cM_0000004 69.8 83.8 
+Katee_Sackhoff/1BFSVmza1cM_0000005 84.3 91.8 
+Katee_Sackhoff/1BFSVmza1cM_0000006 146.0 153.2 
+Katee_Sackhoff/1BFSVmza1cM_0000007 153.4 162.9 
+Katee_Sackhoff/1BFSVmza1cM_0000008 213.2 221.6 
+Katee_Sackhoff/1BFSVmza1cM_0000009 222.7 231.6 
+Katee_Sackhoff/1BFSVmza1cM_0000010 233.6 238.4 
+Katee_Sackhoff/1BFSVmza1cM_0000011 244.0 265.1 
+Katee_Sackhoff/1BFSVmza1cM_0000012 267.0 271.0 
+Katee_Sackhoff/1BFSVmza1cM_0000013 280.4 306.0 
+Katee_Sackhoff/1BFSVmza1cM_0000014 306.8 311.8 

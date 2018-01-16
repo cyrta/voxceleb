@@ -1,0 +1,20 @@
+POI: 			Wim_Wenders 
+Youtube ID: 	ShyLe06omWc 
+Video length: 	510.8 sec 
+Set (V): 		dev 
+ 
+Wim_Wenders/ShyLe06omWc_0000001 19.0 27.4 
+Wim_Wenders/ShyLe06omWc_0000002 31.5 36.1 
+Wim_Wenders/ShyLe06omWc_0000003 97.1 101.7 
+Wim_Wenders/ShyLe06omWc_0000004 102.0 106.4 
+Wim_Wenders/ShyLe06omWc_0000005 109.4 114.5 
+Wim_Wenders/ShyLe06omWc_0000006 163.8 168.9 
+Wim_Wenders/ShyLe06omWc_0000007 214.0 223.9 
+Wim_Wenders/ShyLe06omWc_0000008 274.6 288.0 
+Wim_Wenders/ShyLe06omWc_0000009 295.0 301.5 
+Wim_Wenders/ShyLe06omWc_0000010 360.6 368.3 
+Wim_Wenders/ShyLe06omWc_0000011 392.8 397.7 
+Wim_Wenders/ShyLe06omWc_0000012 465.4 472.9 
+Wim_Wenders/ShyLe06omWc_0000013 481.4 497.6 
+Wim_Wenders/ShyLe06omWc_0000014 498.5 502.6 
+Wim_Wenders/ShyLe06omWc_0000015 503.3 508.4 

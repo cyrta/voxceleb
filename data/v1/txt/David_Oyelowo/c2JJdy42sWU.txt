@@ -1,0 +1,24 @@
+POI: 			David_Oyelowo 
+Youtube ID: 	c2JJdy42sWU 
+Video length: 	453.2 sec 
+Set (V): 		dev 
+ 
+David_Oyelowo/c2JJdy42sWU_0000001 37.0 41.5 
+David_Oyelowo/c2JJdy42sWU_0000002 47.5 63.8 
+David_Oyelowo/c2JJdy42sWU_0000003 64.6 83.8 
+David_Oyelowo/c2JJdy42sWU_0000004 91.0 99.4 
+David_Oyelowo/c2JJdy42sWU_0000005 102.8 127.8 
+David_Oyelowo/c2JJdy42sWU_0000006 135.9 146.2 
+David_Oyelowo/c2JJdy42sWU_0000007 175.4 179.9 
+David_Oyelowo/c2JJdy42sWU_0000008 183.8 194.0 
+David_Oyelowo/c2JJdy42sWU_0000009 200.1 211.0 
+David_Oyelowo/c2JJdy42sWU_0000010 215.6 219.8 
+David_Oyelowo/c2JJdy42sWU_0000011 229.4 256.0 
+David_Oyelowo/c2JJdy42sWU_0000012 265.6 271.8 
+David_Oyelowo/c2JJdy42sWU_0000013 288.2 299.1 
+David_Oyelowo/c2JJdy42sWU_0000014 303.3 309.9 
+David_Oyelowo/c2JJdy42sWU_0000015 314.0 332.6 
+David_Oyelowo/c2JJdy42sWU_0000016 363.5 376.7 
+David_Oyelowo/c2JJdy42sWU_0000017 384.3 410.2 
+David_Oyelowo/c2JJdy42sWU_0000018 414.5 424.4 
+David_Oyelowo/c2JJdy42sWU_0000019 424.6 429.1 

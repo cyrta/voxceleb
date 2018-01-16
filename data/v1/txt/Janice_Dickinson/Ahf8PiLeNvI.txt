@@ -1,0 +1,13 @@
+POI: 			Janice_Dickinson 
+Youtube ID: 	Ahf8PiLeNvI 
+Video length: 	486.9 sec 
+Set (V): 		dev 
+ 
+Janice_Dickinson/Ahf8PiLeNvI_0000001 20.8 28.4 
+Janice_Dickinson/Ahf8PiLeNvI_0000002 56.8 62.4 
+Janice_Dickinson/Ahf8PiLeNvI_0000003 68.7 73.5 
+Janice_Dickinson/Ahf8PiLeNvI_0000004 104.6 109.7 
+Janice_Dickinson/Ahf8PiLeNvI_0000005 149.8 160.6 
+Janice_Dickinson/Ahf8PiLeNvI_0000006 173.0 178.2 
+Janice_Dickinson/Ahf8PiLeNvI_0000007 199.8 204.5 
+Janice_Dickinson/Ahf8PiLeNvI_0000008 208.5 212.7 

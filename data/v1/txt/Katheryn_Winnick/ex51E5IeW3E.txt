@@ -1,0 +1,8 @@
+POI: 			Katheryn_Winnick 
+Youtube ID: 	ex51E5IeW3E 
+Video length: 	135.1 sec 
+Set (V): 		dev 
+ 
+Katheryn_Winnick/ex51E5IeW3E_0000001 25.2 30.7 
+Katheryn_Winnick/ex51E5IeW3E_0000002 97.1 108.8 
+Katheryn_Winnick/ex51E5IeW3E_0000003 126.2 133.3 

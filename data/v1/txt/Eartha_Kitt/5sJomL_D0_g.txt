@@ -1,0 +1,7 @@
+POI: 			Eartha_Kitt 
+Youtube ID: 	5sJomL_D0_g 
+Video length: 	116.1 sec 
+Set (V): 		test 
+ 
+Eartha_Kitt/5sJomL_D0_g_0000001 46.4 56.6 
+Eartha_Kitt/5sJomL_D0_g_0000002 59.7 64.3 

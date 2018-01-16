@@ -1,0 +1,8 @@
+POI: 			Jeremy_Piven 
+Youtube ID: 	s760H5ej0VA 
+Video length: 	279.4 sec 
+Set (V): 		dev 
+ 
+Jeremy_Piven/s760H5ej0VA_0000001 216.5 228.7 
+Jeremy_Piven/s760H5ej0VA_0000002 244.0 250.6 
+Jeremy_Piven/s760H5ej0VA_0000003 253.0 258.6 

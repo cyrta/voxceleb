@@ -1,0 +1,10 @@
+POI: 			Ken_Jeong 
+Youtube ID: 	1VzsrczsNlk 
+Video length: 	239.3 sec 
+Set (V): 		dev 
+ 
+Ken_Jeong/1VzsrczsNlk_0000001 63.7 75.7 
+Ken_Jeong/1VzsrczsNlk_0000002 76.8 87.7 
+Ken_Jeong/1VzsrczsNlk_0000003 166.8 176.6 
+Ken_Jeong/1VzsrczsNlk_0000004 177.6 182.5 
+Ken_Jeong/1VzsrczsNlk_0000005 182.9 216.5 

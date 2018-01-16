@@ -1,0 +1,11 @@
+POI: 			Jerry_Ferrara 
+Youtube ID: 	xSu_yzwmjqo 
+Video length: 	419.2 sec 
+Set (V): 		dev 
+ 
+Jerry_Ferrara/xSu_yzwmjqo_0000001 79.2 84.4 
+Jerry_Ferrara/xSu_yzwmjqo_0000002 119.9 124.6 
+Jerry_Ferrara/xSu_yzwmjqo_0000003 134.0 141.8 
+Jerry_Ferrara/xSu_yzwmjqo_0000004 195.7 202.2 
+Jerry_Ferrara/xSu_yzwmjqo_0000005 260.9 271.5 
+Jerry_Ferrara/xSu_yzwmjqo_0000006 304.4 313.0 

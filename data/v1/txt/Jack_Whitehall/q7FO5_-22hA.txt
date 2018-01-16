@@ -1,0 +1,12 @@
+POI: 			Jack_Whitehall 
+Youtube ID: 	q7FO5_-22hA 
+Video length: 	266.4 sec 
+Set (V): 		dev 
+ 
+Jack_Whitehall/q7FO5_-22hA_0000001 53.6 58.8 
+Jack_Whitehall/q7FO5_-22hA_0000002 62.2 66.7 
+Jack_Whitehall/q7FO5_-22hA_0000003 72.3 81.4 
+Jack_Whitehall/q7FO5_-22hA_0000004 86.9 92.4 
+Jack_Whitehall/q7FO5_-22hA_0000005 139.1 143.9 
+Jack_Whitehall/q7FO5_-22hA_0000006 177.4 185.6 
+Jack_Whitehall/q7FO5_-22hA_0000007 208.6 217.4 

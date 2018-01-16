@@ -1,0 +1,8 @@
+POI: 			Don_Rickles 
+Youtube ID: 	dkG_51LGWPw 
+Video length: 	206.4 sec 
+Set (V): 		dev 
+ 
+Don_Rickles/dkG_51LGWPw_0000001 09.6 16.8 
+Don_Rickles/dkG_51LGWPw_0000002 68.8 73.2 
+Don_Rickles/dkG_51LGWPw_0000003 79.0 83.6 

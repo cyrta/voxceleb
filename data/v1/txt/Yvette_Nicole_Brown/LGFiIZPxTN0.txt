@@ -1,0 +1,11 @@
+POI: 			Yvette_Nicole_Brown 
+Youtube ID: 	LGFiIZPxTN0 
+Video length: 	254.4 sec 
+Set (V): 		dev 
+ 
+Yvette_Nicole_Brown/LGFiIZPxTN0_0000001 43.2 54.1 
+Yvette_Nicole_Brown/LGFiIZPxTN0_0000002 73.2 80.5 
+Yvette_Nicole_Brown/LGFiIZPxTN0_0000003 106.5 118.0 
+Yvette_Nicole_Brown/LGFiIZPxTN0_0000004 121.1 136.6 
+Yvette_Nicole_Brown/LGFiIZPxTN0_0000005 164.9 170.4 
+Yvette_Nicole_Brown/LGFiIZPxTN0_0000006 176.1 180.5 

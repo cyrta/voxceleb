@@ -1,0 +1,20 @@
+POI: 			Nick_Thune 
+Youtube ID: 	oTjmJMRjsuU 
+Video length: 	479.0 sec 
+Set (V): 		dev 
+ 
+Nick_Thune/oTjmJMRjsuU_0000001 104.4 114.3 
+Nick_Thune/oTjmJMRjsuU_0000002 175.0 180.0 
+Nick_Thune/oTjmJMRjsuU_0000003 261.7 267.7 
+Nick_Thune/oTjmJMRjsuU_0000004 270.8 274.9 
+Nick_Thune/oTjmJMRjsuU_0000005 277.3 282.0 
+Nick_Thune/oTjmJMRjsuU_0000006 283.2 289.2 
+Nick_Thune/oTjmJMRjsuU_0000007 290.5 300.0 
+Nick_Thune/oTjmJMRjsuU_0000008 303.5 308.4 
+Nick_Thune/oTjmJMRjsuU_0000009 368.4 380.4 
+Nick_Thune/oTjmJMRjsuU_0000010 380.5 386.8 
+Nick_Thune/oTjmJMRjsuU_0000011 388.2 392.8 
+Nick_Thune/oTjmJMRjsuU_0000012 395.2 400.4 
+Nick_Thune/oTjmJMRjsuU_0000013 410.5 420.8 
+Nick_Thune/oTjmJMRjsuU_0000014 440.6 449.6 
+Nick_Thune/oTjmJMRjsuU_0000015 453.0 457.1 

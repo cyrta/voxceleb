@@ -1,0 +1,8 @@
+POI: 			Paddy_Considine 
+Youtube ID: 	K7rycYlSZOA 
+Video length: 	530.2 sec 
+Set (V): 		dev 
+ 
+Paddy_Considine/K7rycYlSZOA_0000001 27.1 47.2 
+Paddy_Considine/K7rycYlSZOA_0000002 450.0 458.9 
+Paddy_Considine/K7rycYlSZOA_0000003 486.6 495.4 

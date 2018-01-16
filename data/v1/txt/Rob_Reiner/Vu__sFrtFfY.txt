@@ -1,0 +1,10 @@
+POI: 			Rob_Reiner 
+Youtube ID: 	Vu__sFrtFfY 
+Video length: 	245.0 sec 
+Set (V): 		dev 
+ 
+Rob_Reiner/Vu__sFrtFfY_0000001 09.2 16.4 
+Rob_Reiner/Vu__sFrtFfY_0000002 18.5 29.3 
+Rob_Reiner/Vu__sFrtFfY_0000003 86.4 91.7 
+Rob_Reiner/Vu__sFrtFfY_0000004 152.0 157.4 
+Rob_Reiner/Vu__sFrtFfY_0000005 218.4 223.0 

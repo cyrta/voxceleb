@@ -1,0 +1,8 @@
+POI: 			James_Marsden 
+Youtube ID: 	B-T_REB5ekg 
+Video length: 	173.7 sec 
+Set (V): 		dev 
+ 
+James_Marsden/B-T_REB5ekg_0000001 54.5 62.9 
+James_Marsden/B-T_REB5ekg_0000002 111.8 117.6 
+James_Marsden/B-T_REB5ekg_0000003 132.0 144.4 

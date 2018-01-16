@@ -1,0 +1,10 @@
+POI: 			Dick_Van_Dyke 
+Youtube ID: 	xLJl7Rz4xas 
+Video length: 	1166.0 sec 
+Set (V): 		dev 
+ 
+Dick_Van_Dyke/xLJl7Rz4xas_0000001 312.7 317.1 
+Dick_Van_Dyke/xLJl7Rz4xas_0000002 393.4 402.4 
+Dick_Van_Dyke/xLJl7Rz4xas_0000003 410.6 417.2 
+Dick_Van_Dyke/xLJl7Rz4xas_0000004 763.1 771.3 
+Dick_Van_Dyke/xLJl7Rz4xas_0000005 953.8 958.0 

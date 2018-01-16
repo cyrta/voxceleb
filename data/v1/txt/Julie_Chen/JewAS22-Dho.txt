@@ -1,0 +1,11 @@
+POI: 			Julie_Chen 
+Youtube ID: 	JewAS22-Dho 
+Video length: 	599.3 sec 
+Set (V): 		dev 
+ 
+Julie_Chen/JewAS22-Dho_0000001 160.8 166.0 
+Julie_Chen/JewAS22-Dho_0000002 167.1 171.6 
+Julie_Chen/JewAS22-Dho_0000003 199.9 208.2 
+Julie_Chen/JewAS22-Dho_0000004 245.8 252.3 
+Julie_Chen/JewAS22-Dho_0000005 311.0 315.9 
+Julie_Chen/JewAS22-Dho_0000006 460.3 473.3 

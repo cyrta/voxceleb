@@ -1,0 +1,14 @@
+POI: 			David_Oyelowo 
+Youtube ID: 	47pWrg38FWs 
+Video length: 	316.0 sec 
+Set (V): 		dev 
+ 
+David_Oyelowo/47pWrg38FWs_0000001 24.6 32.7 
+David_Oyelowo/47pWrg38FWs_0000002 155.6 168.8 
+David_Oyelowo/47pWrg38FWs_0000003 170.2 183.4 
+David_Oyelowo/47pWrg38FWs_0000004 184.0 199.4 
+David_Oyelowo/47pWrg38FWs_0000005 200.4 212.1 
+David_Oyelowo/47pWrg38FWs_0000006 214.4 220.3 
+David_Oyelowo/47pWrg38FWs_0000007 250.0 258.5 
+David_Oyelowo/47pWrg38FWs_0000008 267.4 298.2 
+David_Oyelowo/47pWrg38FWs_0000009 303.8 308.2 

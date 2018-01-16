@@ -1,0 +1,25 @@
+POI: 			Hans_Zimmer 
+Youtube ID: 	wNsaQu_5oFc 
+Video length: 	599.7 sec 
+Set (V): 		dev 
+ 
+Hans_Zimmer/wNsaQu_5oFc_0000001 100.0 104.7 
+Hans_Zimmer/wNsaQu_5oFc_0000002 129.1 134.0 
+Hans_Zimmer/wNsaQu_5oFc_0000003 100.8 105.6 
+Hans_Zimmer/wNsaQu_5oFc_0000004 105.8 111.2 
+Hans_Zimmer/wNsaQu_5oFc_0000005 113.2 118.1 
+Hans_Zimmer/wNsaQu_5oFc_0000006 119.1 138.4 
+Hans_Zimmer/wNsaQu_5oFc_0000007 142.8 148.7 
+Hans_Zimmer/wNsaQu_5oFc_0000008 149.6 154.8 
+Hans_Zimmer/wNsaQu_5oFc_0000009 167.3 178.9 
+Hans_Zimmer/wNsaQu_5oFc_0000010 179.0 186.5 
+Hans_Zimmer/wNsaQu_5oFc_0000011 196.9 203.2 
+Hans_Zimmer/wNsaQu_5oFc_0000012 223.2 229.2 
+Hans_Zimmer/wNsaQu_5oFc_0000013 349.1 366.6 
+Hans_Zimmer/wNsaQu_5oFc_0000014 381.6 388.5 
+Hans_Zimmer/wNsaQu_5oFc_0000015 392.4 397.7 
+Hans_Zimmer/wNsaQu_5oFc_0000016 403.6 414.4 
+Hans_Zimmer/wNsaQu_5oFc_0000017 424.1 429.2 
+Hans_Zimmer/wNsaQu_5oFc_0000018 430.2 439.5 
+Hans_Zimmer/wNsaQu_5oFc_0000019 439.8 450.4 
+Hans_Zimmer/wNsaQu_5oFc_0000020 542.5 553.4 

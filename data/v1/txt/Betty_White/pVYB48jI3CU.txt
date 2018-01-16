@@ -1,0 +1,12 @@
+POI: 			Betty_White 
+Youtube ID: 	pVYB48jI3CU 
+Video length: 	228.9 sec 
+Set (V): 		dev 
+ 
+Betty_White/pVYB48jI3CU_0000001 37.3 44.0 
+Betty_White/pVYB48jI3CU_0000002 75.1 84.4 
+Betty_White/pVYB48jI3CU_0000003 108.4 117.8 
+Betty_White/pVYB48jI3CU_0000004 143.0 154.3 
+Betty_White/pVYB48jI3CU_0000005 165.0 173.0 
+Betty_White/pVYB48jI3CU_0000006 197.2 201.9 
+Betty_White/pVYB48jI3CU_0000007 210.0 218.1 

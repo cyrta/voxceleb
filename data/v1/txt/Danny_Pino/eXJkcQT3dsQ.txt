@@ -1,0 +1,12 @@
+POI: 			Danny_Pino 
+Youtube ID: 	eXJkcQT3dsQ 
+Video length: 	300.0 sec 
+Set (V): 		dev 
+ 
+Danny_Pino/eXJkcQT3dsQ_0000001 114.6 120.6 
+Danny_Pino/eXJkcQT3dsQ_0000002 136.5 145.1 
+Danny_Pino/eXJkcQT3dsQ_0000003 166.4 172.0 
+Danny_Pino/eXJkcQT3dsQ_0000004 172.7 188.6 
+Danny_Pino/eXJkcQT3dsQ_0000005 223.5 231.7 
+Danny_Pino/eXJkcQT3dsQ_0000006 232.1 236.8 
+Danny_Pino/eXJkcQT3dsQ_0000007 237.0 245.5 

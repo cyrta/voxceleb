@@ -1,0 +1,14 @@
+POI: 			James_Lafferty 
+Youtube ID: 	7Y2IrIhVByk 
+Video length: 	143.9 sec 
+Set (V): 		dev 
+ 
+James_Lafferty/7Y2IrIhVByk_0000001 02.2 09.5 
+James_Lafferty/7Y2IrIhVByk_0000002 10.4 31.6 
+James_Lafferty/7Y2IrIhVByk_0000003 35.0 43.4 
+James_Lafferty/7Y2IrIhVByk_0000004 43.7 51.6 
+James_Lafferty/7Y2IrIhVByk_0000005 55.3 61.9 
+James_Lafferty/7Y2IrIhVByk_0000006 63.2 83.1 
+James_Lafferty/7Y2IrIhVByk_0000007 90.1 108.2 
+James_Lafferty/7Y2IrIhVByk_0000008 111.9 118.5 
+James_Lafferty/7Y2IrIhVByk_0000009 123.9 141.1 

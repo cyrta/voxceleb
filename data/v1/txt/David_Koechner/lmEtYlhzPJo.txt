@@ -1,0 +1,10 @@
+POI: 			David_Koechner 
+Youtube ID: 	lmEtYlhzPJo 
+Video length: 	273.2 sec 
+Set (V): 		dev 
+ 
+David_Koechner/lmEtYlhzPJo_0000001 18.9 23.8 
+David_Koechner/lmEtYlhzPJo_0000002 63.5 69.0 
+David_Koechner/lmEtYlhzPJo_0000003 70.2 76.2 
+David_Koechner/lmEtYlhzPJo_0000004 203.2 207.6 
+David_Koechner/lmEtYlhzPJo_0000005 236.9 257.0 

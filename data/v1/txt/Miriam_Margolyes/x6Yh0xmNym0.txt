@@ -1,0 +1,8 @@
+POI: 			Miriam_Margolyes 
+Youtube ID: 	x6Yh0xmNym0 
+Video length: 	249.2 sec 
+Set (V): 		dev 
+ 
+Miriam_Margolyes/x6Yh0xmNym0_0000001 90.2 95.5 
+Miriam_Margolyes/x6Yh0xmNym0_0000002 160.6 165.6 
+Miriam_Margolyes/x6Yh0xmNym0_0000003 172.5 177.0 

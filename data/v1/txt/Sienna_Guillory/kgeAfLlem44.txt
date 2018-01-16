@@ -1,0 +1,10 @@
+POI: 			Sienna_Guillory 
+Youtube ID: 	kgeAfLlem44 
+Video length: 	87.1 sec 
+Set (V): 		dev 
+ 
+Sienna_Guillory/kgeAfLlem44_0000001 05.5 25.6 
+Sienna_Guillory/kgeAfLlem44_0000002 35.4 48.2 
+Sienna_Guillory/kgeAfLlem44_0000003 50.8 58.8 
+Sienna_Guillory/kgeAfLlem44_0000004 61.8 67.4 
+Sienna_Guillory/kgeAfLlem44_0000005 67.9 74.0 

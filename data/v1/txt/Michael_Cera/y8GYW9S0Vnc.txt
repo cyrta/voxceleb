@@ -1,0 +1,7 @@
+POI: 			Michael_Cera 
+Youtube ID: 	y8GYW9S0Vnc 
+Video length: 	373.9 sec 
+Set (V): 		dev 
+ 
+Michael_Cera/y8GYW9S0Vnc_0000001 98.4 102.6 
+Michael_Cera/y8GYW9S0Vnc_0000002 241.9 247.0 

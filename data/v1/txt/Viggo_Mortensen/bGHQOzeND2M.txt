@@ -1,0 +1,24 @@
+POI: 			Viggo_Mortensen 
+Youtube ID: 	bGHQOzeND2M 
+Video length: 	637.4 sec 
+Set (V): 		dev 
+ 
+Viggo_Mortensen/bGHQOzeND2M_0000001 19.2 24.8 
+Viggo_Mortensen/bGHQOzeND2M_0000002 120.0 128.4 
+Viggo_Mortensen/bGHQOzeND2M_0000003 152.5 161.0 
+Viggo_Mortensen/bGHQOzeND2M_0000004 172.0 181.2 
+Viggo_Mortensen/bGHQOzeND2M_0000005 215.5 219.5 
+Viggo_Mortensen/bGHQOzeND2M_0000006 220.7 230.5 
+Viggo_Mortensen/bGHQOzeND2M_0000007 242.8 252.7 
+Viggo_Mortensen/bGHQOzeND2M_0000008 263.4 281.9 
+Viggo_Mortensen/bGHQOzeND2M_0000009 283.8 293.1 
+Viggo_Mortensen/bGHQOzeND2M_0000010 293.8 315.2 
+Viggo_Mortensen/bGHQOzeND2M_0000011 511.5 515.5 
+Viggo_Mortensen/bGHQOzeND2M_0000012 516.9 525.0 
+Viggo_Mortensen/bGHQOzeND2M_0000013 526.1 531.7 
+Viggo_Mortensen/bGHQOzeND2M_0000014 533.0 543.5 
+Viggo_Mortensen/bGHQOzeND2M_0000015 549.2 554.2 
+Viggo_Mortensen/bGHQOzeND2M_0000016 555.1 562.4 
+Viggo_Mortensen/bGHQOzeND2M_0000017 570.5 575.0 
+Viggo_Mortensen/bGHQOzeND2M_0000018 575.9 588.1 
+Viggo_Mortensen/bGHQOzeND2M_0000019 590.6 597.9 

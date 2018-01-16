@@ -1,0 +1,32 @@
+POI: 			Eduardo_Noriega 
+Youtube ID: 	tbh20gz_KRA 
+Video length: 	1690.7 sec 
+Set (V): 		test 
+ 
+Eduardo_Noriega/tbh20gz_KRA_0000001 119.2 124.0 
+Eduardo_Noriega/tbh20gz_KRA_0000002 237.2 246.7 
+Eduardo_Noriega/tbh20gz_KRA_0000003 263.5 272.4 
+Eduardo_Noriega/tbh20gz_KRA_0000004 282.5 287.0 
+Eduardo_Noriega/tbh20gz_KRA_0000005 338.8 343.7 
+Eduardo_Noriega/tbh20gz_KRA_0000006 352.2 356.2 
+Eduardo_Noriega/tbh20gz_KRA_0000007 375.9 380.2 
+Eduardo_Noriega/tbh20gz_KRA_0000008 429.3 435.1 
+Eduardo_Noriega/tbh20gz_KRA_0000009 483.8 489.7 
+Eduardo_Noriega/tbh20gz_KRA_0000010 510.0 517.6 
+Eduardo_Noriega/tbh20gz_KRA_0000011 527.6 534.0 
+Eduardo_Noriega/tbh20gz_KRA_0000012 534.4 538.4 
+Eduardo_Noriega/tbh20gz_KRA_0000013 709.2 714.1 
+Eduardo_Noriega/tbh20gz_KRA_0000014 719.4 724.9 
+Eduardo_Noriega/tbh20gz_KRA_0000015 746.1 750.3 
+Eduardo_Noriega/tbh20gz_KRA_0000016 817.7 823.4 
+Eduardo_Noriega/tbh20gz_KRA_0000017 828.3 832.4 
+Eduardo_Noriega/tbh20gz_KRA_0000018 832.5 837.8 
+Eduardo_Noriega/tbh20gz_KRA_0000019 890.6 898.1 
+Eduardo_Noriega/tbh20gz_KRA_0000020 946.1 950.8 
+Eduardo_Noriega/tbh20gz_KRA_0000021 975.8 983.4 
+Eduardo_Noriega/tbh20gz_KRA_0000022 1069.2 1073.4 
+Eduardo_Noriega/tbh20gz_KRA_0000023 1090.8 1099.2 
+Eduardo_Noriega/tbh20gz_KRA_0000024 1105.6 1112.4 
+Eduardo_Noriega/tbh20gz_KRA_0000025 1264.0 1269.4 
+Eduardo_Noriega/tbh20gz_KRA_0000026 1281.0 1285.0 
+Eduardo_Noriega/tbh20gz_KRA_0000027 1434.5 1439.0 

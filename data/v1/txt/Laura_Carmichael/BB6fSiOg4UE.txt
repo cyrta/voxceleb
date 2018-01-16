@@ -1,0 +1,10 @@
+POI: 			Laura_Carmichael 
+Youtube ID: 	BB6fSiOg4UE 
+Video length: 	110.4 sec 
+Set (V): 		dev 
+ 
+Laura_Carmichael/BB6fSiOg4UE_0000001 25.6 30.5 
+Laura_Carmichael/BB6fSiOg4UE_0000002 49.6 56.4 
+Laura_Carmichael/BB6fSiOg4UE_0000003 62.8 69.1 
+Laura_Carmichael/BB6fSiOg4UE_0000004 77.0 82.9 
+Laura_Carmichael/BB6fSiOg4UE_0000005 86.9 95.1 

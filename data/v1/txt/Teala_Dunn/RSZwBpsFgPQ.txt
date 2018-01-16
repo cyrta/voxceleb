@@ -1,0 +1,8 @@
+POI: 			Teala_Dunn 
+Youtube ID: 	RSZwBpsFgPQ 
+Video length: 	228.5 sec 
+Set (V): 		dev 
+ 
+Teala_Dunn/RSZwBpsFgPQ_0000001 13.0 17.1 
+Teala_Dunn/RSZwBpsFgPQ_0000002 27.2 31.4 
+Teala_Dunn/RSZwBpsFgPQ_0000003 37.6 42.0 

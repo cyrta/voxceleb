@@ -1,0 +1,8 @@
+POI: 			Alan_Tudyk 
+Youtube ID: 	eNxdRPiUTRo 
+Video length: 	207.6 sec 
+Set (V): 		dev 
+ 
+Alan_Tudyk/eNxdRPiUTRo_0000001 132.0 139.6 
+Alan_Tudyk/eNxdRPiUTRo_0000002 146.7 151.1 
+Alan_Tudyk/eNxdRPiUTRo_0000003 151.8 161.2 

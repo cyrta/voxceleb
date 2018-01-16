@@ -1,0 +1,13 @@
+POI: 			Garry_Marshall 
+Youtube ID: 	QI97SKO4dYI 
+Video length: 	450.2 sec 
+Set (V): 		dev 
+ 
+Garry_Marshall/QI97SKO4dYI_0000001 106.7 111.1 
+Garry_Marshall/QI97SKO4dYI_0000002 138.3 142.8 
+Garry_Marshall/QI97SKO4dYI_0000003 145.0 151.0 
+Garry_Marshall/QI97SKO4dYI_0000004 178.2 184.2 
+Garry_Marshall/QI97SKO4dYI_0000005 202.8 211.5 
+Garry_Marshall/QI97SKO4dYI_0000006 234.0 241.5 
+Garry_Marshall/QI97SKO4dYI_0000007 339.5 344.3 
+Garry_Marshall/QI97SKO4dYI_0000008 393.9 400.8 

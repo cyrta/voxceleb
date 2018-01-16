@@ -1,0 +1,19 @@
+POI: 			Marc_Forster 
+Youtube ID: 	k8mxLcP32NM 
+Video length: 	338.3 sec 
+Set (V): 		dev 
+ 
+Marc_Forster/k8mxLcP32NM_0000001 08.0 14.6 
+Marc_Forster/k8mxLcP32NM_0000002 15.0 27.0 
+Marc_Forster/k8mxLcP32NM_0000003 42.0 53.7 
+Marc_Forster/k8mxLcP32NM_0000004 62.4 82.9 
+Marc_Forster/k8mxLcP32NM_0000005 101.4 117.5 
+Marc_Forster/k8mxLcP32NM_0000006 119.5 130.2 
+Marc_Forster/k8mxLcP32NM_0000007 137.0 159.4 
+Marc_Forster/k8mxLcP32NM_0000008 166.1 183.4 
+Marc_Forster/k8mxLcP32NM_0000009 184.7 191.8 
+Marc_Forster/k8mxLcP32NM_0000010 205.8 229.1 
+Marc_Forster/k8mxLcP32NM_0000011 233.5 250.6 
+Marc_Forster/k8mxLcP32NM_0000012 279.5 285.2 
+Marc_Forster/k8mxLcP32NM_0000013 295.8 305.5 
+Marc_Forster/k8mxLcP32NM_0000014 308.3 328.9 

@@ -1,0 +1,10 @@
+POI: 			Cindy_Williams 
+Youtube ID: 	ISwFELK9aUo 
+Video length: 	167.0 sec 
+Set (V): 		dev 
+ 
+Cindy_Williams/ISwFELK9aUo_0000001 06.6 27.6 
+Cindy_Williams/ISwFELK9aUo_0000002 28.8 34.4 
+Cindy_Williams/ISwFELK9aUo_0000003 35.1 50.0 
+Cindy_Williams/ISwFELK9aUo_0000004 122.5 130.7 
+Cindy_Williams/ISwFELK9aUo_0000005 133.0 139.8 

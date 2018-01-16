@@ -1,0 +1,13 @@
+POI: 			Geena_Davis 
+Youtube ID: 	2bWgdX6idE8 
+Video length: 	137.0 sec 
+Set (V): 		dev 
+ 
+Geena_Davis/2bWgdX6idE8_0000001 02.6 19.0 
+Geena_Davis/2bWgdX6idE8_0000002 34.3 50.3 
+Geena_Davis/2bWgdX6idE8_0000003 52.2 60.0 
+Geena_Davis/2bWgdX6idE8_0000004 70.2 76.6 
+Geena_Davis/2bWgdX6idE8_0000005 79.8 89.4 
+Geena_Davis/2bWgdX6idE8_0000006 89.7 97.2 
+Geena_Davis/2bWgdX6idE8_0000007 112.6 121.7 
+Geena_Davis/2bWgdX6idE8_0000008 126.7 131.3 

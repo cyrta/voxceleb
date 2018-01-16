@@ -1,0 +1,12 @@
+POI: 			Phyllis_Diller 
+Youtube ID: 	stGY43UYiF0 
+Video length: 	588.9 sec 
+Set (V): 		dev 
+ 
+Phyllis_Diller/stGY43UYiF0_0000001 17.8 21.8 
+Phyllis_Diller/stGY43UYiF0_0000002 61.8 69.6 
+Phyllis_Diller/stGY43UYiF0_0000003 273.5 277.9 
+Phyllis_Diller/stGY43UYiF0_0000004 485.4 491.9 
+Phyllis_Diller/stGY43UYiF0_0000005 528.0 536.6 
+Phyllis_Diller/stGY43UYiF0_0000006 533.5 538.1 
+Phyllis_Diller/stGY43UYiF0_0000007 551.0 556.6 

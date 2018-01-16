@@ -1,0 +1,10 @@
+POI: 			Richard_Madden 
+Youtube ID: 	K11WFkKe2MA 
+Video length: 	318.2 sec 
+Set (V): 		dev 
+ 
+Richard_Madden/K11WFkKe2MA_0000001 69.7 79.6 
+Richard_Madden/K11WFkKe2MA_0000002 108.5 115.1 
+Richard_Madden/K11WFkKe2MA_0000003 117.0 122.2 
+Richard_Madden/K11WFkKe2MA_0000004 210.7 215.3 
+Richard_Madden/K11WFkKe2MA_0000005 242.5 250.3 

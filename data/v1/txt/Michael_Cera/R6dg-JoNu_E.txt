@@ -1,0 +1,8 @@
+POI: 			Michael_Cera 
+Youtube ID: 	R6dg-JoNu_E 
+Video length: 	175.5 sec 
+Set (V): 		dev 
+ 
+Michael_Cera/R6dg-JoNu_E_0000001 62.6 70.3 
+Michael_Cera/R6dg-JoNu_E_0000002 80.8 91.3 
+Michael_Cera/R6dg-JoNu_E_0000003 122.6 130.1 

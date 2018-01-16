@@ -1,0 +1,7 @@
+POI: 			Mark_Strong 
+Youtube ID: 	gKYpvS5euno 
+Video length: 	293.7 sec 
+Set (V): 		dev 
+ 
+Mark_Strong/gKYpvS5euno_0000001 188.2 194.0 
+Mark_Strong/gKYpvS5euno_0000002 235.2 242.3 

@@ -1,0 +1,8 @@
+POI: 			Michaela_Conlin 
+Youtube ID: 	S-AFlXumNeM 
+Video length: 	280.3 sec 
+Set (V): 		dev 
+ 
+Michaela_Conlin/S-AFlXumNeM_0000001 60.3 64.7 
+Michaela_Conlin/S-AFlXumNeM_0000002 165.1 170.8 
+Michaela_Conlin/S-AFlXumNeM_0000003 242.1 248.5 

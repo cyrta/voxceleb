@@ -1,0 +1,8 @@
+POI: 			Jordana_Brewster 
+Youtube ID: 	4bKhY6P81FM 
+Video length: 	278.0 sec 
+Set (V): 		dev 
+ 
+Jordana_Brewster/4bKhY6P81FM_0000001 111.8 119.9 
+Jordana_Brewster/4bKhY6P81FM_0000002 120.7 124.9 
+Jordana_Brewster/4bKhY6P81FM_0000003 163.5 173.8 

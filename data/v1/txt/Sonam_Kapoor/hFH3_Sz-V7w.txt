@@ -1,0 +1,13 @@
+POI: 			Sonam_Kapoor 
+Youtube ID: 	hFH3_Sz-V7w 
+Video length: 	127.1 sec 
+Set (V): 		dev 
+ 
+Sonam_Kapoor/hFH3_Sz-V7w_0000001 23.2 32.0 
+Sonam_Kapoor/hFH3_Sz-V7w_0000002 32.3 50.9 
+Sonam_Kapoor/hFH3_Sz-V7w_0000003 51.4 57.9 
+Sonam_Kapoor/hFH3_Sz-V7w_0000004 65.3 69.4 
+Sonam_Kapoor/hFH3_Sz-V7w_0000005 84.6 89.2 
+Sonam_Kapoor/hFH3_Sz-V7w_0000006 93.9 101.4 
+Sonam_Kapoor/hFH3_Sz-V7w_0000007 101.8 107.2 
+Sonam_Kapoor/hFH3_Sz-V7w_0000008 114.8 120.5 

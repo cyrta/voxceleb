@@ -1,0 +1,9 @@
+POI: 			Ang_Lee 
+Youtube ID: 	Ez0-hbMQs28 
+Video length: 	340.3 sec 
+Set (V): 		dev 
+ 
+Ang_Lee/Ez0-hbMQs28_0000001 42.3 47.7 
+Ang_Lee/Ez0-hbMQs28_0000002 182.0 186.4 
+Ang_Lee/Ez0-hbMQs28_0000003 238.0 242.2 
+Ang_Lee/Ez0-hbMQs28_0000004 324.2 328.9 

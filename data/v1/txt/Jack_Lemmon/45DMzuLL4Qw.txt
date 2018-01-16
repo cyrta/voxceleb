@@ -1,0 +1,8 @@
+POI: 			Jack_Lemmon 
+Youtube ID: 	45DMzuLL4Qw 
+Video length: 	363.7 sec 
+Set (V): 		dev 
+ 
+Jack_Lemmon/45DMzuLL4Qw_0000001 94.5 99.0 
+Jack_Lemmon/45DMzuLL4Qw_0000002 162.9 167.9 
+Jack_Lemmon/45DMzuLL4Qw_0000003 173.2 182.7 

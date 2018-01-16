@@ -1,0 +1,9 @@
+POI: 			Diego_Luna 
+Youtube ID: 	09AvzdGWvhA 
+Video length: 	167.0 sec 
+Set (V): 		dev 
+ 
+Diego_Luna/09AvzdGWvhA_0000001 114.6 119.8 
+Diego_Luna/09AvzdGWvhA_0000002 122.8 128.5 
+Diego_Luna/09AvzdGWvhA_0000003 138.4 145.6 
+Diego_Luna/09AvzdGWvhA_0000004 150.2 154.4 

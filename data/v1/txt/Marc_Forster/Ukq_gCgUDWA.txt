@@ -1,0 +1,20 @@
+POI: 			Marc_Forster 
+Youtube ID: 	Ukq_gCgUDWA 
+Video length: 	388.4 sec 
+Set (V): 		dev 
+ 
+Marc_Forster/Ukq_gCgUDWA_0000001 16.5 39.7 
+Marc_Forster/Ukq_gCgUDWA_0000002 82.4 90.2 
+Marc_Forster/Ukq_gCgUDWA_0000003 95.8 106.0 
+Marc_Forster/Ukq_gCgUDWA_0000004 107.4 114.6 
+Marc_Forster/Ukq_gCgUDWA_0000005 125.2 131.6 
+Marc_Forster/Ukq_gCgUDWA_0000006 184.9 189.0 
+Marc_Forster/Ukq_gCgUDWA_0000007 189.1 193.7 
+Marc_Forster/Ukq_gCgUDWA_0000008 200.7 205.0 
+Marc_Forster/Ukq_gCgUDWA_0000009 224.6 228.6 
+Marc_Forster/Ukq_gCgUDWA_0000010 244.0 264.0 
+Marc_Forster/Ukq_gCgUDWA_0000011 270.3 275.5 
+Marc_Forster/Ukq_gCgUDWA_0000012 279.5 292.2 
+Marc_Forster/Ukq_gCgUDWA_0000013 309.2 314.5 
+Marc_Forster/Ukq_gCgUDWA_0000014 330.8 336.8 
+Marc_Forster/Ukq_gCgUDWA_0000015 367.2 374.6 

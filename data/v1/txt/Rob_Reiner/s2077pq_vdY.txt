@@ -1,0 +1,11 @@
+POI: 			Rob_Reiner 
+Youtube ID: 	s2077pq_vdY 
+Video length: 	323.1 sec 
+Set (V): 		dev 
+ 
+Rob_Reiner/s2077pq_vdY_0000001 59.6 71.7 
+Rob_Reiner/s2077pq_vdY_0000002 79.2 83.4 
+Rob_Reiner/s2077pq_vdY_0000003 159.7 164.6 
+Rob_Reiner/s2077pq_vdY_0000004 169.0 173.1 
+Rob_Reiner/s2077pq_vdY_0000005 235.6 244.0 
+Rob_Reiner/s2077pq_vdY_0000006 262.1 266.1 

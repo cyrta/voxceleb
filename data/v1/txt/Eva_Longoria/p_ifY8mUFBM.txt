@@ -1,0 +1,7 @@
+POI: 			Eva_Longoria 
+Youtube ID: 	p_ifY8mUFBM 
+Video length: 	124.2 sec 
+Set (V): 		test 
+ 
+Eva_Longoria/p_ifY8mUFBM_0000001 49.2 56.3 
+Eva_Longoria/p_ifY8mUFBM_0000002 56.4 61.7 

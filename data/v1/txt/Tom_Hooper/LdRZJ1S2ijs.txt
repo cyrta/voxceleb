@@ -1,0 +1,21 @@
+POI: 			Tom_Hooper 
+Youtube ID: 	LdRZJ1S2ijs 
+Video length: 	258.5 sec 
+Set (V): 		dev 
+ 
+Tom_Hooper/LdRZJ1S2ijs_0000001 06.1 23.1 
+Tom_Hooper/LdRZJ1S2ijs_0000002 23.2 44.3 
+Tom_Hooper/LdRZJ1S2ijs_0000003 46.8 61.1 
+Tom_Hooper/LdRZJ1S2ijs_0000004 63.6 69.4 
+Tom_Hooper/LdRZJ1S2ijs_0000005 71.8 76.4 
+Tom_Hooper/LdRZJ1S2ijs_0000006 77.3 103.8 
+Tom_Hooper/LdRZJ1S2ijs_0000007 113.9 118.2 
+Tom_Hooper/LdRZJ1S2ijs_0000008 125.2 135.6 
+Tom_Hooper/LdRZJ1S2ijs_0000009 137.4 143.9 
+Tom_Hooper/LdRZJ1S2ijs_0000010 146.2 157.4 
+Tom_Hooper/LdRZJ1S2ijs_0000011 158.4 176.2 
+Tom_Hooper/LdRZJ1S2ijs_0000012 177.3 188.9 
+Tom_Hooper/LdRZJ1S2ijs_0000013 189.1 199.0 
+Tom_Hooper/LdRZJ1S2ijs_0000014 203.3 208.0 
+Tom_Hooper/LdRZJ1S2ijs_0000015 208.7 222.2 
+Tom_Hooper/LdRZJ1S2ijs_0000016 239.6 249.4 

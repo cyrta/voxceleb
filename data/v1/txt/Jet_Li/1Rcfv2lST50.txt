@@ -1,0 +1,7 @@
+POI: 			Jet_Li 
+Youtube ID: 	1Rcfv2lST50 
+Video length: 	183.5 sec 
+Set (V): 		dev 
+ 
+Jet_Li/1Rcfv2lST50_0000001 84.8 89.6 
+Jet_Li/1Rcfv2lST50_0000002 170.8 175.1 

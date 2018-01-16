@@ -1,0 +1,13 @@
+POI: 			John_Cleese 
+Youtube ID: 	bvtQHdnHqJI 
+Video length: 	3013.1 sec 
+Set (V): 		dev 
+ 
+John_Cleese/bvtQHdnHqJI_0000001 824.4 828.6 
+John_Cleese/bvtQHdnHqJI_0000002 1429.7 1434.1 
+John_Cleese/bvtQHdnHqJI_0000003 1525.9 1533.5 
+John_Cleese/bvtQHdnHqJI_0000004 2538.9 2542.9 
+John_Cleese/bvtQHdnHqJI_0000005 2566.4 2570.9 
+John_Cleese/bvtQHdnHqJI_0000006 2607.6 2611.5 
+John_Cleese/bvtQHdnHqJI_0000007 2835.9 2840.0 
+John_Cleese/bvtQHdnHqJI_0000008 2928.1 2938.6 

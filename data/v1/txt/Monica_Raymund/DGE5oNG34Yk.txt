@@ -1,0 +1,8 @@
+POI: 			Monica_Raymund 
+Youtube ID: 	DGE5oNG34Yk 
+Video length: 	196.2 sec 
+Set (V): 		dev 
+ 
+Monica_Raymund/DGE5oNG34Yk_0000001 106.7 114.4 
+Monica_Raymund/DGE5oNG34Yk_0000002 119.6 123.8 
+Monica_Raymund/DGE5oNG34Yk_0000003 177.7 181.8 

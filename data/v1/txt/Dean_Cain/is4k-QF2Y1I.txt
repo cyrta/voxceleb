@@ -1,0 +1,12 @@
+POI: 			Dean_Cain 
+Youtube ID: 	is4k-QF2Y1I 
+Video length: 	252.3 sec 
+Set (V): 		dev 
+ 
+Dean_Cain/is4k-QF2Y1I_0000001 08.4 12.5 
+Dean_Cain/is4k-QF2Y1I_0000002 34.0 59.3 
+Dean_Cain/is4k-QF2Y1I_0000003 79.4 85.0 
+Dean_Cain/is4k-QF2Y1I_0000004 109.3 113.8 
+Dean_Cain/is4k-QF2Y1I_0000005 149.8 156.8 
+Dean_Cain/is4k-QF2Y1I_0000006 172.2 183.8 
+Dean_Cain/is4k-QF2Y1I_0000007 236.2 241.6 

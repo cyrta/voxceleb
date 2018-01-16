@@ -1,0 +1,10 @@
+POI: 			Joanna_Krupa 
+Youtube ID: 	2HU-6kn40Co 
+Video length: 	276.7 sec 
+Set (V): 		dev 
+ 
+Joanna_Krupa/2HU-6kn40Co_0000001 67.3 78.4 
+Joanna_Krupa/2HU-6kn40Co_0000002 131.3 148.1 
+Joanna_Krupa/2HU-6kn40Co_0000003 198.6 220.4 
+Joanna_Krupa/2HU-6kn40Co_0000004 231.8 237.4 
+Joanna_Krupa/2HU-6kn40Co_0000005 245.3 262.1 

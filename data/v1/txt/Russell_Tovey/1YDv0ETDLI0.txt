@@ -1,0 +1,13 @@
+POI: 			Russell_Tovey 
+Youtube ID: 	1YDv0ETDLI0 
+Video length: 	453.3 sec 
+Set (V): 		dev 
+ 
+Russell_Tovey/1YDv0ETDLI0_0000001 61.5 66.8 
+Russell_Tovey/1YDv0ETDLI0_0000002 74.8 79.6 
+Russell_Tovey/1YDv0ETDLI0_0000003 86.6 91.3 
+Russell_Tovey/1YDv0ETDLI0_0000004 167.9 177.1 
+Russell_Tovey/1YDv0ETDLI0_0000005 217.0 221.5 
+Russell_Tovey/1YDv0ETDLI0_0000006 236.6 245.5 
+Russell_Tovey/1YDv0ETDLI0_0000007 332.4 344.8 
+Russell_Tovey/1YDv0ETDLI0_0000008 398.9 407.7 

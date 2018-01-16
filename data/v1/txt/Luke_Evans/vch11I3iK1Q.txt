@@ -1,0 +1,7 @@
+POI: 			Luke_Evans 
+Youtube ID: 	vch11I3iK1Q 
+Video length: 	133.6 sec 
+Set (V): 		dev 
+ 
+Luke_Evans/vch11I3iK1Q_0000001 86.5 90.5 
+Luke_Evans/vch11I3iK1Q_0000002 90.8 99.7 

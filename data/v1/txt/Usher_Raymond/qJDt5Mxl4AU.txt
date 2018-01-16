@@ -1,0 +1,9 @@
+POI: 			Usher_Raymond 
+Youtube ID: 	qJDt5Mxl4AU 
+Video length: 	284.9 sec 
+Set (V): 		dev 
+ 
+Usher_Raymond/qJDt5Mxl4AU_0000001 187.0 195.9 
+Usher_Raymond/qJDt5Mxl4AU_0000002 199.4 207.4 
+Usher_Raymond/qJDt5Mxl4AU_0000003 208.2 214.4 
+Usher_Raymond/qJDt5Mxl4AU_0000004 216.0 235.0 

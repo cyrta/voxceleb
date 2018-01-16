@@ -1,0 +1,10 @@
+POI: 			Matthew_Fox 
+Youtube ID: 	0GYafMJerC4 
+Video length: 	215.2 sec 
+Set (V): 		dev 
+ 
+Matthew_Fox/0GYafMJerC4_0000001 49.0 53.5 
+Matthew_Fox/0GYafMJerC4_0000002 100.5 107.4 
+Matthew_Fox/0GYafMJerC4_0000003 112.4 116.8 
+Matthew_Fox/0GYafMJerC4_0000004 119.1 128.2 
+Matthew_Fox/0GYafMJerC4_0000005 160.0 164.7 

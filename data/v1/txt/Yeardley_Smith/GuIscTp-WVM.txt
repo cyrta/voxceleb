@@ -1,0 +1,24 @@
+POI: 			Yeardley_Smith 
+Youtube ID: 	GuIscTp-WVM 
+Video length: 	348.5 sec 
+Set (V): 		dev 
+ 
+Yeardley_Smith/GuIscTp-WVM_0000001 11.6 20.4 
+Yeardley_Smith/GuIscTp-WVM_0000002 20.5 25.0 
+Yeardley_Smith/GuIscTp-WVM_0000003 32.7 41.5 
+Yeardley_Smith/GuIscTp-WVM_0000004 43.0 47.9 
+Yeardley_Smith/GuIscTp-WVM_0000005 48.3 54.9 
+Yeardley_Smith/GuIscTp-WVM_0000006 63.6 68.4 
+Yeardley_Smith/GuIscTp-WVM_0000007 72.1 76.4 
+Yeardley_Smith/GuIscTp-WVM_0000008 82.3 86.6 
+Yeardley_Smith/GuIscTp-WVM_0000009 99.4 110.5 
+Yeardley_Smith/GuIscTp-WVM_0000010 113.6 118.3 
+Yeardley_Smith/GuIscTp-WVM_0000011 123.9 128.5 
+Yeardley_Smith/GuIscTp-WVM_0000012 181.5 187.5 
+Yeardley_Smith/GuIscTp-WVM_0000013 204.1 208.2 
+Yeardley_Smith/GuIscTp-WVM_0000014 217.5 228.5 
+Yeardley_Smith/GuIscTp-WVM_0000015 242.2 250.0 
+Yeardley_Smith/GuIscTp-WVM_0000016 255.2 259.8 
+Yeardley_Smith/GuIscTp-WVM_0000017 282.8 288.3 
+Yeardley_Smith/GuIscTp-WVM_0000018 304.8 319.1 
+Yeardley_Smith/GuIscTp-WVM_0000019 329.4 335.6 

@@ -1,0 +1,13 @@
+POI: 			Joan_Cusack 
+Youtube ID: 	cgd_MuvZVrY 
+Video length: 	209.6 sec 
+Set (V): 		dev 
+ 
+Joan_Cusack/cgd_MuvZVrY_0000001 106.4 114.8 
+Joan_Cusack/cgd_MuvZVrY_0000002 115.3 126.8 
+Joan_Cusack/cgd_MuvZVrY_0000003 127.6 132.9 
+Joan_Cusack/cgd_MuvZVrY_0000004 138.4 144.4 
+Joan_Cusack/cgd_MuvZVrY_0000005 157.6 162.4 
+Joan_Cusack/cgd_MuvZVrY_0000006 167.0 172.0 
+Joan_Cusack/cgd_MuvZVrY_0000007 190.9 197.6 
+Joan_Cusack/cgd_MuvZVrY_0000008 200.0 207.3 

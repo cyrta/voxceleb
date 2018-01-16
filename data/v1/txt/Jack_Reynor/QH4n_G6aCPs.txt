@@ -1,0 +1,7 @@
+POI: 			Jack_Reynor 
+Youtube ID: 	QH4n_G6aCPs 
+Video length: 	240.4 sec 
+Set (V): 		dev 
+ 
+Jack_Reynor/QH4n_G6aCPs_0000001 122.7 127.1 
+Jack_Reynor/QH4n_G6aCPs_0000002 206.0 218.8 

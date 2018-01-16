@@ -1,0 +1,8 @@
+POI: 			Donna_Mills 
+Youtube ID: 	FQ5arqvAXgU 
+Video length: 	595.2 sec 
+Set (V): 		dev 
+ 
+Donna_Mills/FQ5arqvAXgU_0000001 103.4 108.5 
+Donna_Mills/FQ5arqvAXgU_0000002 164.3 170.5 
+Donna_Mills/FQ5arqvAXgU_0000003 356.2 363.4 

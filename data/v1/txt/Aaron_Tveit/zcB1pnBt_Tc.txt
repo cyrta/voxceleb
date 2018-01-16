@@ -1,0 +1,13 @@
+POI: 			Aaron_Tveit 
+Youtube ID: 	zcB1pnBt_Tc 
+Video length: 	174.2 sec 
+Set (V): 		dev 
+ 
+Aaron_Tveit/zcB1pnBt_Tc_0000001 11.4 19.1 
+Aaron_Tveit/zcB1pnBt_Tc_0000002 22.5 29.0 
+Aaron_Tveit/zcB1pnBt_Tc_0000003 38.3 72.2 
+Aaron_Tveit/zcB1pnBt_Tc_0000004 81.0 98.8 
+Aaron_Tveit/zcB1pnBt_Tc_0000005 104.6 113.3 
+Aaron_Tveit/zcB1pnBt_Tc_0000006 122.9 129.7 
+Aaron_Tveit/zcB1pnBt_Tc_0000007 133.7 142.4 
+Aaron_Tveit/zcB1pnBt_Tc_0000008 148.2 158.5 

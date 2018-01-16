@@ -1,0 +1,13 @@
+POI: 			Randolph_Mantooth 
+Youtube ID: 	5k7zlw6nBs4 
+Video length: 	278.4 sec 
+Set (V): 		dev 
+ 
+Randolph_Mantooth/5k7zlw6nBs4_0000001 10.8 22.6 
+Randolph_Mantooth/5k7zlw6nBs4_0000002 30.0 46.0 
+Randolph_Mantooth/5k7zlw6nBs4_0000003 47.3 52.6 
+Randolph_Mantooth/5k7zlw6nBs4_0000004 53.2 57.2 
+Randolph_Mantooth/5k7zlw6nBs4_0000005 169.8 174.1 
+Randolph_Mantooth/5k7zlw6nBs4_0000006 179.6 183.8 
+Randolph_Mantooth/5k7zlw6nBs4_0000007 224.0 238.1 
+Randolph_Mantooth/5k7zlw6nBs4_0000008 254.2 259.5 

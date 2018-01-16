@@ -1,0 +1,12 @@
+POI: 			Kylie_Minogue 
+Youtube ID: 	wpDZYmZPMRA 
+Video length: 	214.1 sec 
+Set (V): 		dev 
+ 
+Kylie_Minogue/wpDZYmZPMRA_0000001 28.2 34.0 
+Kylie_Minogue/wpDZYmZPMRA_0000002 41.8 47.0 
+Kylie_Minogue/wpDZYmZPMRA_0000003 72.0 76.9 
+Kylie_Minogue/wpDZYmZPMRA_0000004 119.0 124.4 
+Kylie_Minogue/wpDZYmZPMRA_0000005 156.4 162.0 
+Kylie_Minogue/wpDZYmZPMRA_0000006 166.5 173.7 
+Kylie_Minogue/wpDZYmZPMRA_0000007 184.9 191.2 

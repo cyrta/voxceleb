@@ -1,0 +1,9 @@
+POI: 			Janine_Turner 
+Youtube ID: 	5pOId_dH_Zo 
+Video length: 	197.7 sec 
+Set (V): 		dev 
+ 
+Janine_Turner/5pOId_dH_Zo_0000001 61.3 71.1 
+Janine_Turner/5pOId_dH_Zo_0000002 72.2 101.7 
+Janine_Turner/5pOId_dH_Zo_0000003 135.4 161.0 
+Janine_Turner/5pOId_dH_Zo_0000004 161.5 177.5 

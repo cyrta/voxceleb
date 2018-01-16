@@ -1,0 +1,13 @@
+POI: 			Michael_Crichton 
+Youtube ID: 	_28diM6SYIo 
+Video length: 	311.9 sec 
+Set (V): 		dev 
+ 
+Michael_Crichton/_28diM6SYIo_0000001 32.0 40.9 
+Michael_Crichton/_28diM6SYIo_0000002 41.8 47.2 
+Michael_Crichton/_28diM6SYIo_0000003 107.1 111.8 
+Michael_Crichton/_28diM6SYIo_0000004 159.9 165.8 
+Michael_Crichton/_28diM6SYIo_0000005 169.4 175.3 
+Michael_Crichton/_28diM6SYIo_0000006 222.5 227.0 
+Michael_Crichton/_28diM6SYIo_0000007 253.6 258.6 
+Michael_Crichton/_28diM6SYIo_0000008 294.0 298.2 

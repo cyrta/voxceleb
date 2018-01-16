@@ -1,0 +1,8 @@
+POI: 			Julianne_Nicholson 
+Youtube ID: 	JZerPIa5JBQ 
+Video length: 	2675.2 sec 
+Set (V): 		dev 
+ 
+Julianne_Nicholson/JZerPIa5JBQ_0000001 559.0 579.7 
+Julianne_Nicholson/JZerPIa5JBQ_0000002 1433.5 1438.2 
+Julianne_Nicholson/JZerPIa5JBQ_0000003 1440.2 1461.4 

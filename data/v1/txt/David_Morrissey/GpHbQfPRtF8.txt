@@ -1,0 +1,13 @@
+POI: 			David_Morrissey 
+Youtube ID: 	GpHbQfPRtF8 
+Video length: 	248.7 sec 
+Set (V): 		dev 
+ 
+David_Morrissey/GpHbQfPRtF8_0000001 18.2 22.8 
+David_Morrissey/GpHbQfPRtF8_0000002 23.6 40.2 
+David_Morrissey/GpHbQfPRtF8_0000003 43.3 56.8 
+David_Morrissey/GpHbQfPRtF8_0000004 95.6 125.4 
+David_Morrissey/GpHbQfPRtF8_0000005 153.9 170.1 
+David_Morrissey/GpHbQfPRtF8_0000006 176.6 186.2 
+David_Morrissey/GpHbQfPRtF8_0000007 199.8 213.1 
+David_Morrissey/GpHbQfPRtF8_0000008 226.8 234.7 

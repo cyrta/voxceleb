@@ -1,0 +1,10 @@
+POI: 			Jason_Segel 
+Youtube ID: 	op56njrRGxk 
+Video length: 	299.1 sec 
+Set (V): 		dev 
+ 
+Jason_Segel/op56njrRGxk_0000001 70.8 79.0 
+Jason_Segel/op56njrRGxk_0000002 129.5 135.7 
+Jason_Segel/op56njrRGxk_0000003 184.4 195.4 
+Jason_Segel/op56njrRGxk_0000004 230.0 244.8 
+Jason_Segel/op56njrRGxk_0000005 265.8 280.4 

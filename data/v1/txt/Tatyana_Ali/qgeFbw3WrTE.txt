@@ -1,0 +1,10 @@
+POI: 			Tatyana_Ali 
+Youtube ID: 	qgeFbw3WrTE 
+Video length: 	205.7 sec 
+Set (V): 		dev 
+ 
+Tatyana_Ali/qgeFbw3WrTE_0000001 07.9 12.0 
+Tatyana_Ali/qgeFbw3WrTE_0000002 13.0 17.0 
+Tatyana_Ali/qgeFbw3WrTE_0000003 58.5 66.6 
+Tatyana_Ali/qgeFbw3WrTE_0000004 81.7 87.2 
+Tatyana_Ali/qgeFbw3WrTE_0000005 95.6 102.5 

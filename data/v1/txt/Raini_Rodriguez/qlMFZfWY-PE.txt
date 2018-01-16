@@ -1,0 +1,8 @@
+POI: 			Raini_Rodriguez 
+Youtube ID: 	qlMFZfWY-PE 
+Video length: 	233.3 sec 
+Set (V): 		dev 
+ 
+Raini_Rodriguez/qlMFZfWY-PE_0000001 29.0 33.8 
+Raini_Rodriguez/qlMFZfWY-PE_0000002 64.5 69.6 
+Raini_Rodriguez/qlMFZfWY-PE_0000003 202.9 207.2 

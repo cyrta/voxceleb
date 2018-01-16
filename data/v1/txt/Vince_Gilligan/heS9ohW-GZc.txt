@@ -1,0 +1,9 @@
+POI: 			Vince_Gilligan 
+Youtube ID: 	heS9ohW-GZc 
+Video length: 	210.6 sec 
+Set (V): 		dev 
+ 
+Vince_Gilligan/heS9ohW-GZc_0000001 22.8 32.0 
+Vince_Gilligan/heS9ohW-GZc_0000002 62.6 66.8 
+Vince_Gilligan/heS9ohW-GZc_0000003 151.9 157.7 
+Vince_Gilligan/heS9ohW-GZc_0000004 178.9 188.8 

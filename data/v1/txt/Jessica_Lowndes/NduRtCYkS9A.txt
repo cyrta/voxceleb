@@ -1,0 +1,13 @@
+POI: 			Jessica_Lowndes 
+Youtube ID: 	NduRtCYkS9A 
+Video length: 	236.4 sec 
+Set (V): 		dev 
+ 
+Jessica_Lowndes/NduRtCYkS9A_0000001 47.1 54.7 
+Jessica_Lowndes/NduRtCYkS9A_0000002 59.2 66.3 
+Jessica_Lowndes/NduRtCYkS9A_0000003 89.6 97.7 
+Jessica_Lowndes/NduRtCYkS9A_0000004 99.1 109.9 
+Jessica_Lowndes/NduRtCYkS9A_0000005 124.0 129.6 
+Jessica_Lowndes/NduRtCYkS9A_0000006 133.1 139.3 
+Jessica_Lowndes/NduRtCYkS9A_0000007 183.3 189.0 
+Jessica_Lowndes/NduRtCYkS9A_0000008 208.8 223.4 

@@ -1,0 +1,21 @@
+POI: 			Ezra_Miller 
+Youtube ID: 	XMLMvfrgdzY 
+Video length: 	293.1 sec 
+Set (V): 		test 
+ 
+Ezra_Miller/XMLMvfrgdzY_0000001 25.3 34.8 
+Ezra_Miller/XMLMvfrgdzY_0000002 52.4 56.6 
+Ezra_Miller/XMLMvfrgdzY_0000003 62.3 66.3 
+Ezra_Miller/XMLMvfrgdzY_0000004 99.0 104.8 
+Ezra_Miller/XMLMvfrgdzY_0000005 108.0 112.7 
+Ezra_Miller/XMLMvfrgdzY_0000006 113.8 119.2 
+Ezra_Miller/XMLMvfrgdzY_0000007 121.1 131.0 
+Ezra_Miller/XMLMvfrgdzY_0000008 161.4 165.8 
+Ezra_Miller/XMLMvfrgdzY_0000009 181.7 187.7 
+Ezra_Miller/XMLMvfrgdzY_0000010 201.2 207.4 
+Ezra_Miller/XMLMvfrgdzY_0000011 218.3 223.7 
+Ezra_Miller/XMLMvfrgdzY_0000012 227.0 234.6 
+Ezra_Miller/XMLMvfrgdzY_0000013 245.2 249.6 
+Ezra_Miller/XMLMvfrgdzY_0000014 254.9 263.4 
+Ezra_Miller/XMLMvfrgdzY_0000015 263.8 268.6 
+Ezra_Miller/XMLMvfrgdzY_0000016 273.7 280.1 

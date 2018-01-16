@@ -1,0 +1,16 @@
+POI: 			Will_Forte 
+Youtube ID: 	Ue-lEY6tcUw 
+Video length: 	293.0 sec 
+Set (V): 		dev 
+ 
+Will_Forte/Ue-lEY6tcUw_0000001 66.1 70.9 
+Will_Forte/Ue-lEY6tcUw_0000002 80.6 89.0 
+Will_Forte/Ue-lEY6tcUw_0000003 89.2 93.8 
+Will_Forte/Ue-lEY6tcUw_0000004 104.0 110.1 
+Will_Forte/Ue-lEY6tcUw_0000005 116.5 126.8 
+Will_Forte/Ue-lEY6tcUw_0000006 131.4 135.6 
+Will_Forte/Ue-lEY6tcUw_0000007 144.0 150.4 
+Will_Forte/Ue-lEY6tcUw_0000008 194.0 201.2 
+Will_Forte/Ue-lEY6tcUw_0000009 201.7 207.8 
+Will_Forte/Ue-lEY6tcUw_0000010 210.4 218.5 
+Will_Forte/Ue-lEY6tcUw_0000011 258.5 265.9 

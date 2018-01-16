@@ -1,0 +1,13 @@
+POI: 			Nelly_Furtado 
+Youtube ID: 	EbOZhtLNLWk 
+Video length: 	524.6 sec 
+Set (V): 		dev 
+ 
+Nelly_Furtado/EbOZhtLNLWk_0000001 72.0 81.4 
+Nelly_Furtado/EbOZhtLNLWk_0000002 122.9 128.5 
+Nelly_Furtado/EbOZhtLNLWk_0000003 152.9 166.4 
+Nelly_Furtado/EbOZhtLNLWk_0000004 198.0 202.2 
+Nelly_Furtado/EbOZhtLNLWk_0000005 239.5 254.0 
+Nelly_Furtado/EbOZhtLNLWk_0000006 412.8 422.2 
+Nelly_Furtado/EbOZhtLNLWk_0000007 437.4 442.2 
+Nelly_Furtado/EbOZhtLNLWk_0000008 476.8 482.8 

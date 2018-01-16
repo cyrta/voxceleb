@@ -1,0 +1,9 @@
+POI: 			Alexz_Johnson 
+Youtube ID: 	HOaOvo6tJEc 
+Video length: 	526.8 sec 
+Set (V): 		dev 
+ 
+Alexz_Johnson/HOaOvo6tJEc_0000001 14.6 20.8 
+Alexz_Johnson/HOaOvo6tJEc_0000002 32.2 38.5 
+Alexz_Johnson/HOaOvo6tJEc_0000003 40.9 45.8 
+Alexz_Johnson/HOaOvo6tJEc_0000004 207.2 212.9 

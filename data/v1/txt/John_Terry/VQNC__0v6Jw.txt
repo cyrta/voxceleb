@@ -1,0 +1,10 @@
+POI: 			John_Terry 
+Youtube ID: 	VQNC__0v6Jw 
+Video length: 	530.9 sec 
+Set (V): 		dev 
+ 
+John_Terry/VQNC__0v6Jw_0000001 117.8 131.0 
+John_Terry/VQNC__0v6Jw_0000002 250.4 259.8 
+John_Terry/VQNC__0v6Jw_0000003 280.2 292.2 
+John_Terry/VQNC__0v6Jw_0000004 292.3 298.2 
+John_Terry/VQNC__0v6Jw_0000005 410.1 414.6 

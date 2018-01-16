@@ -1,0 +1,11 @@
+POI: 			Lisa_Kudrow 
+Youtube ID: 	XLszZqj7-2U 
+Video length: 	230.6 sec 
+Set (V): 		dev 
+ 
+Lisa_Kudrow/XLszZqj7-2U_0000001 60.2 64.8 
+Lisa_Kudrow/XLszZqj7-2U_0000002 70.5 76.6 
+Lisa_Kudrow/XLszZqj7-2U_0000003 76.8 81.4 
+Lisa_Kudrow/XLszZqj7-2U_0000004 81.7 96.2 
+Lisa_Kudrow/XLszZqj7-2U_0000005 104.1 110.0 
+Lisa_Kudrow/XLszZqj7-2U_0000006 212.4 216.6 

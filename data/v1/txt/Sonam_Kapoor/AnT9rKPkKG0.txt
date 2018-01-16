@@ -1,0 +1,14 @@
+POI: 			Sonam_Kapoor 
+Youtube ID: 	AnT9rKPkKG0 
+Video length: 	464.6 sec 
+Set (V): 		dev 
+ 
+Sonam_Kapoor/AnT9rKPkKG0_0000001 18.9 24.0 
+Sonam_Kapoor/AnT9rKPkKG0_0000002 96.4 105.3 
+Sonam_Kapoor/AnT9rKPkKG0_0000003 108.4 115.6 
+Sonam_Kapoor/AnT9rKPkKG0_0000004 150.6 155.4 
+Sonam_Kapoor/AnT9rKPkKG0_0000005 167.0 171.7 
+Sonam_Kapoor/AnT9rKPkKG0_0000006 178.9 184.7 
+Sonam_Kapoor/AnT9rKPkKG0_0000007 246.5 254.2 
+Sonam_Kapoor/AnT9rKPkKG0_0000008 275.4 283.0 
+Sonam_Kapoor/AnT9rKPkKG0_0000009 291.2 296.4 

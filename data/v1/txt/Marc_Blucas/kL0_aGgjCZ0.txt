@@ -1,0 +1,23 @@
+POI: 			Marc_Blucas 
+Youtube ID: 	kL0_aGgjCZ0 
+Video length: 	335.2 sec 
+Set (V): 		dev 
+ 
+Marc_Blucas/kL0_aGgjCZ0_0000001 74.6 78.7 
+Marc_Blucas/kL0_aGgjCZ0_0000002 93.9 98.2 
+Marc_Blucas/kL0_aGgjCZ0_0000003 99.8 104.6 
+Marc_Blucas/kL0_aGgjCZ0_0000004 106.5 127.8 
+Marc_Blucas/kL0_aGgjCZ0_0000005 128.8 133.0 
+Marc_Blucas/kL0_aGgjCZ0_0000006 154.2 160.7 
+Marc_Blucas/kL0_aGgjCZ0_0000007 161.0 166.2 
+Marc_Blucas/kL0_aGgjCZ0_0000008 165.4 172.9 
+Marc_Blucas/kL0_aGgjCZ0_0000009 180.9 198.8 
+Marc_Blucas/kL0_aGgjCZ0_0000010 206.4 213.3 
+Marc_Blucas/kL0_aGgjCZ0_0000011 213.5 221.0 
+Marc_Blucas/kL0_aGgjCZ0_0000012 221.2 231.1 
+Marc_Blucas/kL0_aGgjCZ0_0000013 238.0 244.3 
+Marc_Blucas/kL0_aGgjCZ0_0000014 244.8 255.2 
+Marc_Blucas/kL0_aGgjCZ0_0000015 282.3 290.2 
+Marc_Blucas/kL0_aGgjCZ0_0000016 298.1 302.9 
+Marc_Blucas/kL0_aGgjCZ0_0000017 303.2 307.8 
+Marc_Blucas/kL0_aGgjCZ0_0000018 316.2 323.5 

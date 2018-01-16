@@ -1,0 +1,9 @@
+POI: 			Richard_E._Grant 
+Youtube ID: 	KoCrEvew6-A 
+Video length: 	110.1 sec 
+Set (V): 		dev 
+ 
+Richard_E._Grant/KoCrEvew6-A_0000001 05.1 10.1 
+Richard_E._Grant/KoCrEvew6-A_0000002 31.8 37.7 
+Richard_E._Grant/KoCrEvew6-A_0000003 40.4 44.8 
+Richard_E._Grant/KoCrEvew6-A_0000004 81.7 87.7 

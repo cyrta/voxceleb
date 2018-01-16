@@ -1,0 +1,7 @@
+POI: 			Mary_McDonnell 
+Youtube ID: 	mQSHWbPhZYM 
+Video length: 	171.4 sec 
+Set (V): 		dev 
+ 
+Mary_McDonnell/mQSHWbPhZYM_0000001 39.2 44.4 
+Mary_McDonnell/mQSHWbPhZYM_0000002 102.2 106.6 

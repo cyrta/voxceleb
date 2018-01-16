@@ -1,0 +1,13 @@
+POI: 			Golshifteh_Farahani 
+Youtube ID: 	t9WZVKX5Slc 
+Video length: 	144.8 sec 
+Set (V): 		dev 
+ 
+Golshifteh_Farahani/t9WZVKX5Slc_0000001 05.0 09.8 
+Golshifteh_Farahani/t9WZVKX5Slc_0000002 09.9 14.1 
+Golshifteh_Farahani/t9WZVKX5Slc_0000003 14.7 19.9 
+Golshifteh_Farahani/t9WZVKX5Slc_0000004 21.4 29.0 
+Golshifteh_Farahani/t9WZVKX5Slc_0000005 39.1 45.0 
+Golshifteh_Farahani/t9WZVKX5Slc_0000006 86.3 101.4 
+Golshifteh_Farahani/t9WZVKX5Slc_0000007 101.6 107.1 
+Golshifteh_Farahani/t9WZVKX5Slc_0000008 110.1 121.9 

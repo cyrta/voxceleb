@@ -1,0 +1,10 @@
+POI: 			Karla_Souza 
+Youtube ID: 	zVr7NQbsZOY 
+Video length: 	131.6 sec 
+Set (V): 		dev 
+ 
+Karla_Souza/zVr7NQbsZOY_0000001 23.6 28.8 
+Karla_Souza/zVr7NQbsZOY_0000002 33.5 39.7 
+Karla_Souza/zVr7NQbsZOY_0000003 85.4 90.2 
+Karla_Souza/zVr7NQbsZOY_0000004 90.4 96.4 
+Karla_Souza/zVr7NQbsZOY_0000005 120.9 127.9 

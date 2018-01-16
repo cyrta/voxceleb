@@ -1,0 +1,9 @@
+POI: 			Rhys_Ifans 
+Youtube ID: 	cCD8t-5cjxM 
+Video length: 	63.8 sec 
+Set (V): 		dev 
+ 
+Rhys_Ifans/cCD8t-5cjxM_0000001 18.4 22.4 
+Rhys_Ifans/cCD8t-5cjxM_0000002 23.0 27.0 
+Rhys_Ifans/cCD8t-5cjxM_0000003 40.4 45.6 
+Rhys_Ifans/cCD8t-5cjxM_0000004 51.6 55.6 

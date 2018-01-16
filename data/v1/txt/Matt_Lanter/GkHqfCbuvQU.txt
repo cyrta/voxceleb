@@ -1,0 +1,9 @@
+POI: 			Matt_Lanter 
+Youtube ID: 	GkHqfCbuvQU 
+Video length: 	179.5 sec 
+Set (V): 		dev 
+ 
+Matt_Lanter/GkHqfCbuvQU_0000001 28.6 32.9 
+Matt_Lanter/GkHqfCbuvQU_0000002 41.2 47.4 
+Matt_Lanter/GkHqfCbuvQU_0000003 140.0 149.4 
+Matt_Lanter/GkHqfCbuvQU_0000004 153.4 161.3 

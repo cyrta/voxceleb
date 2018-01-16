@@ -1,0 +1,9 @@
+POI: 			Tatyana_Ali 
+Youtube ID: 	MnRt_wzqdjs 
+Video length: 	501.0 sec 
+Set (V): 		dev 
+ 
+Tatyana_Ali/MnRt_wzqdjs_0000001 97.2 102.0 
+Tatyana_Ali/MnRt_wzqdjs_0000002 164.7 169.6 
+Tatyana_Ali/MnRt_wzqdjs_0000003 306.1 310.6 
+Tatyana_Ali/MnRt_wzqdjs_0000004 386.0 390.6 

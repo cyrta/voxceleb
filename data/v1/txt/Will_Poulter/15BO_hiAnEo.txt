@@ -1,0 +1,12 @@
+POI: 			Will_Poulter 
+Youtube ID: 	15BO_hiAnEo 
+Video length: 	391.6 sec 
+Set (V): 		dev 
+ 
+Will_Poulter/15BO_hiAnEo_0000001 34.7 38.8 
+Will_Poulter/15BO_hiAnEo_0000002 104.6 109.0 
+Will_Poulter/15BO_hiAnEo_0000003 134.0 138.8 
+Will_Poulter/15BO_hiAnEo_0000004 193.7 201.5 
+Will_Poulter/15BO_hiAnEo_0000005 250.8 255.2 
+Will_Poulter/15BO_hiAnEo_0000006 283.8 291.1 
+Will_Poulter/15BO_hiAnEo_0000007 346.1 354.6 

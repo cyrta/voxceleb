@@ -1,0 +1,17 @@
+POI: 			Clive_Owen 
+Youtube ID: 	TfCzhSPY8vM 
+Video length: 	320.3 sec 
+Set (V): 		dev 
+ 
+Clive_Owen/TfCzhSPY8vM_0000001 21.6 26.3 
+Clive_Owen/TfCzhSPY8vM_0000002 93.6 97.9 
+Clive_Owen/TfCzhSPY8vM_0000003 103.3 110.3 
+Clive_Owen/TfCzhSPY8vM_0000004 182.7 187.8 
+Clive_Owen/TfCzhSPY8vM_0000005 188.8 193.6 
+Clive_Owen/TfCzhSPY8vM_0000006 251.4 256.4 
+Clive_Owen/TfCzhSPY8vM_0000007 257.6 262.5 
+Clive_Owen/TfCzhSPY8vM_0000008 262.6 267.9 
+Clive_Owen/TfCzhSPY8vM_0000009 269.6 274.0 
+Clive_Owen/TfCzhSPY8vM_0000010 275.0 279.5 
+Clive_Owen/TfCzhSPY8vM_0000011 282.2 287.0 
+Clive_Owen/TfCzhSPY8vM_0000012 289.0 293.2 

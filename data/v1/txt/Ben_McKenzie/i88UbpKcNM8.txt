@@ -1,0 +1,11 @@
+POI: 			Ben_McKenzie 
+Youtube ID: 	i88UbpKcNM8 
+Video length: 	259.2 sec 
+Set (V): 		dev 
+ 
+Ben_McKenzie/i88UbpKcNM8_0000001 07.6 13.3 
+Ben_McKenzie/i88UbpKcNM8_0000002 20.1 24.4 
+Ben_McKenzie/i88UbpKcNM8_0000003 118.1 123.4 
+Ben_McKenzie/i88UbpKcNM8_0000004 130.4 136.4 
+Ben_McKenzie/i88UbpKcNM8_0000005 232.2 238.0 
+Ben_McKenzie/i88UbpKcNM8_0000006 246.5 251.8 

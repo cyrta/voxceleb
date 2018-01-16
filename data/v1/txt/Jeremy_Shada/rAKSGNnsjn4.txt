@@ -1,0 +1,19 @@
+POI: 			Jeremy_Shada 
+Youtube ID: 	rAKSGNnsjn4 
+Video length: 	299.8 sec 
+Set (V): 		dev 
+ 
+Jeremy_Shada/rAKSGNnsjn4_0000001 37.3 48.8 
+Jeremy_Shada/rAKSGNnsjn4_0000002 55.7 61.6 
+Jeremy_Shada/rAKSGNnsjn4_0000003 66.7 75.2 
+Jeremy_Shada/rAKSGNnsjn4_0000004 75.5 88.0 
+Jeremy_Shada/rAKSGNnsjn4_0000005 91.6 95.8 
+Jeremy_Shada/rAKSGNnsjn4_0000006 113.8 122.0 
+Jeremy_Shada/rAKSGNnsjn4_0000007 136.4 153.6 
+Jeremy_Shada/rAKSGNnsjn4_0000008 153.7 157.7 
+Jeremy_Shada/rAKSGNnsjn4_0000009 159.4 168.6 
+Jeremy_Shada/rAKSGNnsjn4_0000010 171.5 188.3 
+Jeremy_Shada/rAKSGNnsjn4_0000011 190.7 194.9 
+Jeremy_Shada/rAKSGNnsjn4_0000012 196.8 203.1 
+Jeremy_Shada/rAKSGNnsjn4_0000013 215.5 219.5 
+Jeremy_Shada/rAKSGNnsjn4_0000014 221.7 276.2 

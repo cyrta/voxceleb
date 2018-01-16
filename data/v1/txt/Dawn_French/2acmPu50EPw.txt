@@ -1,0 +1,17 @@
+POI: 			Dawn_French 
+Youtube ID: 	2acmPu50EPw 
+Video length: 	424.5 sec 
+Set (V): 		dev 
+ 
+Dawn_French/2acmPu50EPw_0000001 81.9 86.4 
+Dawn_French/2acmPu50EPw_0000002 102.9 108.7 
+Dawn_French/2acmPu50EPw_0000003 121.9 128.0 
+Dawn_French/2acmPu50EPw_0000004 136.9 140.9 
+Dawn_French/2acmPu50EPw_0000005 184.8 189.1 
+Dawn_French/2acmPu50EPw_0000006 222.8 229.7 
+Dawn_French/2acmPu50EPw_0000007 247.4 255.6 
+Dawn_French/2acmPu50EPw_0000008 261.2 266.9 
+Dawn_French/2acmPu50EPw_0000009 274.0 279.9 
+Dawn_French/2acmPu50EPw_0000010 283.6 291.7 
+Dawn_French/2acmPu50EPw_0000011 313.8 320.7 
+Dawn_French/2acmPu50EPw_0000012 326.0 331.6 

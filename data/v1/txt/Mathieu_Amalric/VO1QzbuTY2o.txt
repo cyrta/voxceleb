@@ -1,0 +1,7 @@
+POI: 			Mathieu_Amalric 
+Youtube ID: 	VO1QzbuTY2o 
+Video length: 	400.0 sec 
+Set (V): 		dev 
+ 
+Mathieu_Amalric/VO1QzbuTY2o_0000001 283.6 287.7 
+Mathieu_Amalric/VO1QzbuTY2o_0000002 334.6 339.0 

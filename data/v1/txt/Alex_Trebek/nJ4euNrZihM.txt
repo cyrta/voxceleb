@@ -1,0 +1,15 @@
+POI: 			Alex_Trebek 
+Youtube ID: 	nJ4euNrZihM 
+Video length: 	144.8 sec 
+Set (V): 		dev 
+ 
+Alex_Trebek/nJ4euNrZihM_0000001 08.4 13.7 
+Alex_Trebek/nJ4euNrZihM_0000002 23.5 35.1 
+Alex_Trebek/nJ4euNrZihM_0000003 36.7 46.9 
+Alex_Trebek/nJ4euNrZihM_0000004 47.7 58.5 
+Alex_Trebek/nJ4euNrZihM_0000005 72.2 86.4 
+Alex_Trebek/nJ4euNrZihM_0000006 90.8 98.3 
+Alex_Trebek/nJ4euNrZihM_0000007 99.8 106.3 
+Alex_Trebek/nJ4euNrZihM_0000008 106.8 123.4 
+Alex_Trebek/nJ4euNrZihM_0000009 126.0 132.5 
+Alex_Trebek/nJ4euNrZihM_0000010 133.0 137.0 

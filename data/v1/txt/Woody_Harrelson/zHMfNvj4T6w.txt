@@ -1,0 +1,19 @@
+POI: 			Woody_Harrelson 
+Youtube ID: 	zHMfNvj4T6w 
+Video length: 	712.6 sec 
+Set (V): 		dev 
+ 
+Woody_Harrelson/zHMfNvj4T6w_0000001 53.9 58.3 
+Woody_Harrelson/zHMfNvj4T6w_0000002 73.6 80.2 
+Woody_Harrelson/zHMfNvj4T6w_0000003 99.9 110.0 
+Woody_Harrelson/zHMfNvj4T6w_0000004 164.4 171.1 
+Woody_Harrelson/zHMfNvj4T6w_0000005 233.6 245.5 
+Woody_Harrelson/zHMfNvj4T6w_0000006 247.2 256.1 
+Woody_Harrelson/zHMfNvj4T6w_0000007 285.0 293.2 
+Woody_Harrelson/zHMfNvj4T6w_0000008 337.2 344.8 
+Woody_Harrelson/zHMfNvj4T6w_0000009 399.7 411.1 
+Woody_Harrelson/zHMfNvj4T6w_0000010 465.0 470.8 
+Woody_Harrelson/zHMfNvj4T6w_0000011 558.6 565.1 
+Woody_Harrelson/zHMfNvj4T6w_0000012 601.3 607.4 
+Woody_Harrelson/zHMfNvj4T6w_0000013 649.9 656.5 
+Woody_Harrelson/zHMfNvj4T6w_0000014 663.2 668.4 

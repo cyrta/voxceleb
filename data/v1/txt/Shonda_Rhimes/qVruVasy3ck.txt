@@ -1,0 +1,10 @@
+POI: 			Shonda_Rhimes 
+Youtube ID: 	qVruVasy3ck 
+Video length: 	174.2 sec 
+Set (V): 		dev 
+ 
+Shonda_Rhimes/qVruVasy3ck_0000001 10.9 35.1 
+Shonda_Rhimes/qVruVasy3ck_0000002 49.9 57.2 
+Shonda_Rhimes/qVruVasy3ck_0000003 95.1 110.3 
+Shonda_Rhimes/qVruVasy3ck_0000004 122.2 128.3 
+Shonda_Rhimes/qVruVasy3ck_0000005 140.3 172.5 

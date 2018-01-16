@@ -1,0 +1,14 @@
+POI: 			Mark_Ruffalo 
+Youtube ID: 	UkwsNYiN_Mw 
+Video length: 	236.1 sec 
+Set (V): 		dev 
+ 
+Mark_Ruffalo/UkwsNYiN_Mw_0000001 35.8 41.3 
+Mark_Ruffalo/UkwsNYiN_Mw_0000002 41.5 47.2 
+Mark_Ruffalo/UkwsNYiN_Mw_0000003 77.3 83.6 
+Mark_Ruffalo/UkwsNYiN_Mw_0000004 161.0 165.2 
+Mark_Ruffalo/UkwsNYiN_Mw_0000005 165.8 182.2 
+Mark_Ruffalo/UkwsNYiN_Mw_0000006 183.9 188.2 
+Mark_Ruffalo/UkwsNYiN_Mw_0000007 192.6 198.7 
+Mark_Ruffalo/UkwsNYiN_Mw_0000008 199.2 208.4 
+Mark_Ruffalo/UkwsNYiN_Mw_0000009 225.4 229.5 

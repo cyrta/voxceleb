@@ -1,0 +1,15 @@
+POI: 			Mia_Wasikowska 
+Youtube ID: 	E4bfMhHZ910 
+Video length: 	174.3 sec 
+Set (V): 		dev 
+ 
+Mia_Wasikowska/E4bfMhHZ910_0000001 15.3 19.5 
+Mia_Wasikowska/E4bfMhHZ910_0000002 20.3 24.6 
+Mia_Wasikowska/E4bfMhHZ910_0000003 58.8 65.2 
+Mia_Wasikowska/E4bfMhHZ910_0000004 100.1 105.0 
+Mia_Wasikowska/E4bfMhHZ910_0000005 114.0 118.6 
+Mia_Wasikowska/E4bfMhHZ910_0000006 122.7 129.0 
+Mia_Wasikowska/E4bfMhHZ910_0000007 129.2 141.4 
+Mia_Wasikowska/E4bfMhHZ910_0000008 150.4 154.4 
+Mia_Wasikowska/E4bfMhHZ910_0000009 155.4 169.9 
+Mia_Wasikowska/E4bfMhHZ910_0000010 155.4 160.3 

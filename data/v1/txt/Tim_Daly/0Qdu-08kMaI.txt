@@ -1,0 +1,17 @@
+POI: 			Tim_Daly 
+Youtube ID: 	0Qdu-08kMaI 
+Video length: 	282.2 sec 
+Set (V): 		dev 
+ 
+Tim_Daly/0Qdu-08kMaI_0000001 62.8 68.3 
+Tim_Daly/0Qdu-08kMaI_0000002 79.0 87.2 
+Tim_Daly/0Qdu-08kMaI_0000003 90.2 94.3 
+Tim_Daly/0Qdu-08kMaI_0000004 99.6 114.1 
+Tim_Daly/0Qdu-08kMaI_0000005 114.2 122.2 
+Tim_Daly/0Qdu-08kMaI_0000006 144.3 149.6 
+Tim_Daly/0Qdu-08kMaI_0000007 165.9 172.8 
+Tim_Daly/0Qdu-08kMaI_0000008 179.4 189.5 
+Tim_Daly/0Qdu-08kMaI_0000009 214.2 240.4 
+Tim_Daly/0Qdu-08kMaI_0000010 240.4 252.8 
+Tim_Daly/0Qdu-08kMaI_0000011 253.3 261.2 
+Tim_Daly/0Qdu-08kMaI_0000012 262.8 267.2 

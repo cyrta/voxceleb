@@ -1,0 +1,13 @@
+POI: 			Mark_Sheppard 
+Youtube ID: 	2spD3THclkI 
+Video length: 	126.7 sec 
+Set (V): 		dev 
+ 
+Mark_Sheppard/2spD3THclkI_0000001 10.2 15.5 
+Mark_Sheppard/2spD3THclkI_0000002 15.9 22.9 
+Mark_Sheppard/2spD3THclkI_0000003 28.4 34.6 
+Mark_Sheppard/2spD3THclkI_0000004 37.2 41.7 
+Mark_Sheppard/2spD3THclkI_0000005 51.6 62.8 
+Mark_Sheppard/2spD3THclkI_0000006 64.8 90.3 
+Mark_Sheppard/2spD3THclkI_0000007 91.2 97.6 
+Mark_Sheppard/2spD3THclkI_0000008 100.7 106.5 

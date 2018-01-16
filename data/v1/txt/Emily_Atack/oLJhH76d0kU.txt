@@ -1,0 +1,10 @@
+POI: 			Emily_Atack 
+Youtube ID: 	oLJhH76d0kU 
+Video length: 	121.7 sec 
+Set (V): 		test 
+ 
+Emily_Atack/oLJhH76d0kU_0000001 02.7 12.9 
+Emily_Atack/oLJhH76d0kU_0000002 22.2 31.3 
+Emily_Atack/oLJhH76d0kU_0000003 37.8 42.2 
+Emily_Atack/oLJhH76d0kU_0000004 69.8 75.5 
+Emily_Atack/oLJhH76d0kU_0000005 91.6 99.4 

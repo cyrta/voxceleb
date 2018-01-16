@@ -1,0 +1,17 @@
+POI: 			Zack_Snyder 
+Youtube ID: 	ZE54Jrjcj8I 
+Video length: 	280.8 sec 
+Set (V): 		dev 
+ 
+Zack_Snyder/ZE54Jrjcj8I_0000001 18.4 22.5 
+Zack_Snyder/ZE54Jrjcj8I_0000002 28.2 36.0 
+Zack_Snyder/ZE54Jrjcj8I_0000003 36.4 42.8 
+Zack_Snyder/ZE54Jrjcj8I_0000004 109.2 123.3 
+Zack_Snyder/ZE54Jrjcj8I_0000005 147.1 151.5 
+Zack_Snyder/ZE54Jrjcj8I_0000006 153.1 157.7 
+Zack_Snyder/ZE54Jrjcj8I_0000007 193.8 199.2 
+Zack_Snyder/ZE54Jrjcj8I_0000008 200.0 206.2 
+Zack_Snyder/ZE54Jrjcj8I_0000009 218.2 224.4 
+Zack_Snyder/ZE54Jrjcj8I_0000010 227.5 232.6 
+Zack_Snyder/ZE54Jrjcj8I_0000011 233.5 248.5 
+Zack_Snyder/ZE54Jrjcj8I_0000012 253.3 264.6 

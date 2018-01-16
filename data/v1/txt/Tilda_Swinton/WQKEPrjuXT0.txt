@@ -1,0 +1,13 @@
+POI: 			Tilda_Swinton 
+Youtube ID: 	WQKEPrjuXT0 
+Video length: 	415.5 sec 
+Set (V): 		dev 
+ 
+Tilda_Swinton/WQKEPrjuXT0_0000001 90.0 95.5 
+Tilda_Swinton/WQKEPrjuXT0_0000002 108.8 118.7 
+Tilda_Swinton/WQKEPrjuXT0_0000003 194.4 202.1 
+Tilda_Swinton/WQKEPrjuXT0_0000004 211.5 233.8 
+Tilda_Swinton/WQKEPrjuXT0_0000005 287.1 296.0 
+Tilda_Swinton/WQKEPrjuXT0_0000006 319.6 330.5 
+Tilda_Swinton/WQKEPrjuXT0_0000007 335.2 342.1 
+Tilda_Swinton/WQKEPrjuXT0_0000008 342.6 354.7 

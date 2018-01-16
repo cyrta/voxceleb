@@ -1,0 +1,9 @@
+POI: 			Ty_Pennington 
+Youtube ID: 	lIEa2jitUDE 
+Video length: 	200.1 sec 
+Set (V): 		dev 
+ 
+Ty_Pennington/lIEa2jitUDE_0000001 47.1 65.2 
+Ty_Pennington/lIEa2jitUDE_0000002 65.9 91.6 
+Ty_Pennington/lIEa2jitUDE_0000003 106.2 113.6 
+Ty_Pennington/lIEa2jitUDE_0000004 124.0 168.6 

@@ -1,0 +1,15 @@
+POI: 			Abigail_Breslin 
+Youtube ID: 	foG5a3YtZzI 
+Video length: 	304.4 sec 
+Set (V): 		dev 
+ 
+Abigail_Breslin/foG5a3YtZzI_0000001 52.9 59.6 
+Abigail_Breslin/foG5a3YtZzI_0000002 69.6 73.9 
+Abigail_Breslin/foG5a3YtZzI_0000003 80.0 87.0 
+Abigail_Breslin/foG5a3YtZzI_0000004 107.6 114.1 
+Abigail_Breslin/foG5a3YtZzI_0000005 115.2 119.4 
+Abigail_Breslin/foG5a3YtZzI_0000006 166.9 176.1 
+Abigail_Breslin/foG5a3YtZzI_0000007 178.9 188.7 
+Abigail_Breslin/foG5a3YtZzI_0000008 193.4 198.4 
+Abigail_Breslin/foG5a3YtZzI_0000009 198.4 203.6 
+Abigail_Breslin/foG5a3YtZzI_0000010 222.4 226.5 

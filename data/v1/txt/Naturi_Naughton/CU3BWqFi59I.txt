@@ -1,0 +1,9 @@
+POI: 			Naturi_Naughton 
+Youtube ID: 	CU3BWqFi59I 
+Video length: 	310.3 sec 
+Set (V): 		dev 
+ 
+Naturi_Naughton/CU3BWqFi59I_0000001 104.2 120.7 
+Naturi_Naughton/CU3BWqFi59I_0000002 130.3 143.5 
+Naturi_Naughton/CU3BWqFi59I_0000003 159.0 174.7 
+Naturi_Naughton/CU3BWqFi59I_0000004 214.2 218.5 

@@ -1,0 +1,20 @@
+POI: 			John_Rhys-Davies 
+Youtube ID: 	XfwSK-BcxEc 
+Video length: 	477.3 sec 
+Set (V): 		dev 
+ 
+John_Rhys-Davies/XfwSK-BcxEc_0000001 32.8 41.6 
+John_Rhys-Davies/XfwSK-BcxEc_0000002 56.0 61.6 
+John_Rhys-Davies/XfwSK-BcxEc_0000003 70.4 74.4 
+John_Rhys-Davies/XfwSK-BcxEc_0000004 85.0 92.4 
+John_Rhys-Davies/XfwSK-BcxEc_0000005 110.0 116.5 
+John_Rhys-Davies/XfwSK-BcxEc_0000006 122.2 127.2 
+John_Rhys-Davies/XfwSK-BcxEc_0000007 146.3 151.6 
+John_Rhys-Davies/XfwSK-BcxEc_0000008 168.8 175.6 
+John_Rhys-Davies/XfwSK-BcxEc_0000009 177.8 181.8 
+John_Rhys-Davies/XfwSK-BcxEc_0000010 186.5 193.0 
+John_Rhys-Davies/XfwSK-BcxEc_0000011 194.2 202.1 
+John_Rhys-Davies/XfwSK-BcxEc_0000012 206.6 210.7 
+John_Rhys-Davies/XfwSK-BcxEc_0000013 293.8 302.9 
+John_Rhys-Davies/XfwSK-BcxEc_0000014 310.0 315.4 
+John_Rhys-Davies/XfwSK-BcxEc_0000015 387.6 392.3 

@@ -1,0 +1,7 @@
+POI: 			Jimmy_Fallon 
+Youtube ID: 	vmXeGJML-hk 
+Video length: 	299.2 sec 
+Set (V): 		dev 
+ 
+Jimmy_Fallon/vmXeGJML-hk_0000001 04.3 10.2 
+Jimmy_Fallon/vmXeGJML-hk_0000002 17.9 24.6 

@@ -1,0 +1,16 @@
+POI: 			Taylor_Swift 
+Youtube ID: 	7A3VAM7vZIs 
+Video length: 	332.7 sec 
+Set (V): 		dev 
+ 
+Taylor_Swift/7A3VAM7vZIs_0000001 31.7 41.4 
+Taylor_Swift/7A3VAM7vZIs_0000002 42.1 49.2 
+Taylor_Swift/7A3VAM7vZIs_0000003 49.6 62.6 
+Taylor_Swift/7A3VAM7vZIs_0000004 83.2 89.3 
+Taylor_Swift/7A3VAM7vZIs_0000005 143.4 148.4 
+Taylor_Swift/7A3VAM7vZIs_0000006 187.9 197.7 
+Taylor_Swift/7A3VAM7vZIs_0000007 199.9 208.4 
+Taylor_Swift/7A3VAM7vZIs_0000008 239.3 248.2 
+Taylor_Swift/7A3VAM7vZIs_0000009 273.1 277.2 
+Taylor_Swift/7A3VAM7vZIs_0000010 280.4 287.8 
+Taylor_Swift/7A3VAM7vZIs_0000011 295.1 301.2 

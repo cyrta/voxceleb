@@ -1,0 +1,14 @@
+POI: 			Jean_Smart 
+Youtube ID: 	47HryNTLjZI 
+Video length: 	1363.7 sec 
+Set (V): 		dev 
+ 
+Jean_Smart/47HryNTLjZI_0000001 115.4 120.3 
+Jean_Smart/47HryNTLjZI_0000002 121.2 125.9 
+Jean_Smart/47HryNTLjZI_0000003 132.2 143.3 
+Jean_Smart/47HryNTLjZI_0000004 143.7 150.0 
+Jean_Smart/47HryNTLjZI_0000005 152.5 156.6 
+Jean_Smart/47HryNTLjZI_0000006 189.6 193.7 
+Jean_Smart/47HryNTLjZI_0000007 197.5 204.9 
+Jean_Smart/47HryNTLjZI_0000008 242.6 247.9 
+Jean_Smart/47HryNTLjZI_0000009 295.6 303.4 

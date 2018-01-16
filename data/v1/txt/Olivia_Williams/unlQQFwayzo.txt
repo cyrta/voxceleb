@@ -1,0 +1,11 @@
+POI: 			Olivia_Williams 
+Youtube ID: 	unlQQFwayzo 
+Video length: 	85.3 sec 
+Set (V): 		dev 
+ 
+Olivia_Williams/unlQQFwayzo_0000001 01.0 06.8 
+Olivia_Williams/unlQQFwayzo_0000002 07.6 21.4 
+Olivia_Williams/unlQQFwayzo_0000003 21.8 38.0 
+Olivia_Williams/unlQQFwayzo_0000004 38.6 50.5 
+Olivia_Williams/unlQQFwayzo_0000005 53.1 69.5 
+Olivia_Williams/unlQQFwayzo_0000006 78.6 83.7 

@@ -1,0 +1,11 @@
+POI: 			Pablo_Schreiber 
+Youtube ID: 	g9X-GTkYcaQ 
+Video length: 	364.5 sec 
+Set (V): 		dev 
+ 
+Pablo_Schreiber/g9X-GTkYcaQ_0000001 07.6 16.4 
+Pablo_Schreiber/g9X-GTkYcaQ_0000002 47.6 59.2 
+Pablo_Schreiber/g9X-GTkYcaQ_0000003 60.2 71.2 
+Pablo_Schreiber/g9X-GTkYcaQ_0000004 188.1 218.6 
+Pablo_Schreiber/g9X-GTkYcaQ_0000005 242.4 260.9 
+Pablo_Schreiber/g9X-GTkYcaQ_0000006 301.4 325.9 

@@ -1,0 +1,12 @@
+POI: 			Carrie_Fisher 
+Youtube ID: 	nuXw3e1Hll8 
+Video length: 	1343.5 sec 
+Set (V): 		dev 
+ 
+Carrie_Fisher/nuXw3e1Hll8_0000001 58.4 63.8 
+Carrie_Fisher/nuXw3e1Hll8_0000002 97.1 103.9 
+Carrie_Fisher/nuXw3e1Hll8_0000003 188.2 192.6 
+Carrie_Fisher/nuXw3e1Hll8_0000004 328.0 332.5 
+Carrie_Fisher/nuXw3e1Hll8_0000005 528.7 533.4 
+Carrie_Fisher/nuXw3e1Hll8_0000006 602.8 609.1 
+Carrie_Fisher/nuXw3e1Hll8_0000007 652.1 658.7 

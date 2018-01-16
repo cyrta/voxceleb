@@ -1,0 +1,10 @@
+POI: 			Ralf_Little 
+Youtube ID: 	o6X1wvF1NmY 
+Video length: 	380.6 sec 
+Set (V): 		dev 
+ 
+Ralf_Little/o6X1wvF1NmY_0000001 10.2 25.2 
+Ralf_Little/o6X1wvF1NmY_0000002 189.1 195.4 
+Ralf_Little/o6X1wvF1NmY_0000003 263.6 269.3 
+Ralf_Little/o6X1wvF1NmY_0000004 295.6 301.4 
+Ralf_Little/o6X1wvF1NmY_0000005 302.1 308.8 

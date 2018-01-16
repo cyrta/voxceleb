@@ -1,0 +1,7 @@
+POI: 			Miranda_Lambert 
+Youtube ID: 	j5JY_rMKh04 
+Video length: 	124.7 sec 
+Set (V): 		dev 
+ 
+Miranda_Lambert/j5JY_rMKh04_0000001 48.3 53.8 
+Miranda_Lambert/j5JY_rMKh04_0000002 73.5 78.6 

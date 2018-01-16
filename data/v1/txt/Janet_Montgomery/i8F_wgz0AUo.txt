@@ -1,0 +1,7 @@
+POI: 			Janet_Montgomery 
+Youtube ID: 	i8F_wgz0AUo 
+Video length: 	178.6 sec 
+Set (V): 		dev 
+ 
+Janet_Montgomery/i8F_wgz0AUo_0000001 26.1 38.5 
+Janet_Montgomery/i8F_wgz0AUo_0000002 85.4 113.0 

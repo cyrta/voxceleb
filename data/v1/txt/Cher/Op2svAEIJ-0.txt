@@ -1,0 +1,12 @@
+POI: 			Cher 
+Youtube ID: 	Op2svAEIJ-0 
+Video length: 	1182.7 sec 
+Set (V): 		dev 
+ 
+Cher/Op2svAEIJ-0_0000001 243.0 250.6 
+Cher/Op2svAEIJ-0_0000002 431.0 443.2 
+Cher/Op2svAEIJ-0_0000003 455.0 462.0 
+Cher/Op2svAEIJ-0_0000004 463.3 467.4 
+Cher/Op2svAEIJ-0_0000005 527.6 533.6 
+Cher/Op2svAEIJ-0_0000006 554.8 565.4 
+Cher/Op2svAEIJ-0_0000007 931.6 940.7 

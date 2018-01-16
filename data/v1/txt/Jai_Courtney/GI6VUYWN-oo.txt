@@ -1,0 +1,12 @@
+POI: 			Jai_Courtney 
+Youtube ID: 	GI6VUYWN-oo 
+Video length: 	229.7 sec 
+Set (V): 		dev 
+ 
+Jai_Courtney/GI6VUYWN-oo_0000001 40.2 50.0 
+Jai_Courtney/GI6VUYWN-oo_0000002 50.7 57.0 
+Jai_Courtney/GI6VUYWN-oo_0000003 58.0 67.1 
+Jai_Courtney/GI6VUYWN-oo_0000004 69.7 76.1 
+Jai_Courtney/GI6VUYWN-oo_0000005 78.6 84.8 
+Jai_Courtney/GI6VUYWN-oo_0000006 103.8 112.7 
+Jai_Courtney/GI6VUYWN-oo_0000007 194.9 199.4 

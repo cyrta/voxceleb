@@ -1,0 +1,9 @@
+POI: 			Leonor_Watling 
+Youtube ID: 	86PGjOBZtoM 
+Video length: 	228.9 sec 
+Set (V): 		dev 
+ 
+Leonor_Watling/86PGjOBZtoM_0000001 31.6 38.7 
+Leonor_Watling/86PGjOBZtoM_0000002 65.9 71.3 
+Leonor_Watling/86PGjOBZtoM_0000003 93.0 97.0 
+Leonor_Watling/86PGjOBZtoM_0000004 179.7 185.8 

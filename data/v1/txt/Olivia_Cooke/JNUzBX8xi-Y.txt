@@ -1,0 +1,11 @@
+POI: 			Olivia_Cooke 
+Youtube ID: 	JNUzBX8xi-Y 
+Video length: 	202.9 sec 
+Set (V): 		dev 
+ 
+Olivia_Cooke/JNUzBX8xi-Y_0000001 10.6 15.3 
+Olivia_Cooke/JNUzBX8xi-Y_0000002 16.6 22.4 
+Olivia_Cooke/JNUzBX8xi-Y_0000003 39.2 45.2 
+Olivia_Cooke/JNUzBX8xi-Y_0000004 74.4 79.0 
+Olivia_Cooke/JNUzBX8xi-Y_0000005 88.2 92.5 
+Olivia_Cooke/JNUzBX8xi-Y_0000006 164.8 172.9 

@@ -1,0 +1,15 @@
+POI: 			Jenna_Fischer 
+Youtube ID: 	N99uyormiCA 
+Video length: 	449.5 sec 
+Set (V): 		dev 
+ 
+Jenna_Fischer/N99uyormiCA_0000001 61.8 66.1 
+Jenna_Fischer/N99uyormiCA_0000002 74.3 78.6 
+Jenna_Fischer/N99uyormiCA_0000003 140.2 147.4 
+Jenna_Fischer/N99uyormiCA_0000004 151.6 155.8 
+Jenna_Fischer/N99uyormiCA_0000005 181.6 188.2 
+Jenna_Fischer/N99uyormiCA_0000006 271.6 278.8 
+Jenna_Fischer/N99uyormiCA_0000007 319.6 324.1 
+Jenna_Fischer/N99uyormiCA_0000008 324.2 329.8 
+Jenna_Fischer/N99uyormiCA_0000009 341.5 349.7 
+Jenna_Fischer/N99uyormiCA_0000010 425.1 436.1 

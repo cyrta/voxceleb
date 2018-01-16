@@ -1,0 +1,9 @@
+POI: 			Maria_Grazia_Cucinotta 
+Youtube ID: 	Yly3GZluV50 
+Video length: 	442.2 sec 
+Set (V): 		dev 
+ 
+Maria_Grazia_Cucinotta/Yly3GZluV50_0000001 169.9 174.8 
+Maria_Grazia_Cucinotta/Yly3GZluV50_0000002 236.4 241.1 
+Maria_Grazia_Cucinotta/Yly3GZluV50_0000003 255.0 259.1 
+Maria_Grazia_Cucinotta/Yly3GZluV50_0000004 293.7 300.3 

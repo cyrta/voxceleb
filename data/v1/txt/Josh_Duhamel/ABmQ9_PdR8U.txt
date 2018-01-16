@@ -1,0 +1,13 @@
+POI: 			Josh_Duhamel 
+Youtube ID: 	ABmQ9_PdR8U 
+Video length: 	247.1 sec 
+Set (V): 		dev 
+ 
+Josh_Duhamel/ABmQ9_PdR8U_0000001 10.4 17.5 
+Josh_Duhamel/ABmQ9_PdR8U_0000002 60.3 65.8 
+Josh_Duhamel/ABmQ9_PdR8U_0000003 66.4 71.6 
+Josh_Duhamel/ABmQ9_PdR8U_0000004 94.3 99.9 
+Josh_Duhamel/ABmQ9_PdR8U_0000005 107.2 113.9 
+Josh_Duhamel/ABmQ9_PdR8U_0000006 140.6 146.9 
+Josh_Duhamel/ABmQ9_PdR8U_0000007 148.4 156.6 
+Josh_Duhamel/ABmQ9_PdR8U_0000008 176.6 184.7 

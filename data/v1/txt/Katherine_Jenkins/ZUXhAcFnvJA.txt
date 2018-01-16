@@ -1,0 +1,24 @@
+POI: 			Katherine_Jenkins 
+Youtube ID: 	ZUXhAcFnvJA 
+Video length: 	1031.6 sec 
+Set (V): 		dev 
+ 
+Katherine_Jenkins/ZUXhAcFnvJA_0000001 60.0 65.0 
+Katherine_Jenkins/ZUXhAcFnvJA_0000002 78.9 84.2 
+Katherine_Jenkins/ZUXhAcFnvJA_0000003 91.7 96.5 
+Katherine_Jenkins/ZUXhAcFnvJA_0000004 153.1 158.8 
+Katherine_Jenkins/ZUXhAcFnvJA_0000005 159.1 175.6 
+Katherine_Jenkins/ZUXhAcFnvJA_0000006 234.8 241.6 
+Katherine_Jenkins/ZUXhAcFnvJA_0000007 242.1 248.9 
+Katherine_Jenkins/ZUXhAcFnvJA_0000008 250.9 272.3 
+Katherine_Jenkins/ZUXhAcFnvJA_0000009 280.9 295.3 
+Katherine_Jenkins/ZUXhAcFnvJA_0000010 309.7 325.2 
+Katherine_Jenkins/ZUXhAcFnvJA_0000011 325.7 336.4 
+Katherine_Jenkins/ZUXhAcFnvJA_0000012 336.7 345.8 
+Katherine_Jenkins/ZUXhAcFnvJA_0000013 363.4 375.7 
+Katherine_Jenkins/ZUXhAcFnvJA_0000014 375.8 382.3 
+Katherine_Jenkins/ZUXhAcFnvJA_0000015 409.6 439.8 
+Katherine_Jenkins/ZUXhAcFnvJA_0000016 586.4 601.3 
+Katherine_Jenkins/ZUXhAcFnvJA_0000017 632.2 640.9 
+Katherine_Jenkins/ZUXhAcFnvJA_0000018 641.6 652.8 
+Katherine_Jenkins/ZUXhAcFnvJA_0000019 718.4 736.6 

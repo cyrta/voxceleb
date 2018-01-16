@@ -1,0 +1,10 @@
+POI: 			Miranda_Lambert 
+Youtube ID: 	CJuZeUiAgIs 
+Video length: 	199.2 sec 
+Set (V): 		dev 
+ 
+Miranda_Lambert/CJuZeUiAgIs_0000001 39.6 48.5 
+Miranda_Lambert/CJuZeUiAgIs_0000002 56.8 61.7 
+Miranda_Lambert/CJuZeUiAgIs_0000003 73.7 77.8 
+Miranda_Lambert/CJuZeUiAgIs_0000004 78.0 84.4 
+Miranda_Lambert/CJuZeUiAgIs_0000005 92.3 105.8 

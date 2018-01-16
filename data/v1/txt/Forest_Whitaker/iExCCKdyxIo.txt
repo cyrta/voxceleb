@@ -1,0 +1,13 @@
+POI: 			Forest_Whitaker 
+Youtube ID: 	iExCCKdyxIo 
+Video length: 	553.7 sec 
+Set (V): 		dev 
+ 
+Forest_Whitaker/iExCCKdyxIo_0000001 44.3 56.3 
+Forest_Whitaker/iExCCKdyxIo_0000002 75.1 79.1 
+Forest_Whitaker/iExCCKdyxIo_0000003 240.6 246.4 
+Forest_Whitaker/iExCCKdyxIo_0000004 265.4 277.5 
+Forest_Whitaker/iExCCKdyxIo_0000005 278.9 289.1 
+Forest_Whitaker/iExCCKdyxIo_0000006 340.2 354.5 
+Forest_Whitaker/iExCCKdyxIo_0000007 508.4 512.7 
+Forest_Whitaker/iExCCKdyxIo_0000008 514.8 525.1 

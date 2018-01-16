@@ -1,0 +1,12 @@
+POI: 			Jack_Black 
+Youtube ID: 	IcSFAcgIDi0 
+Video length: 	146.4 sec 
+Set (V): 		dev 
+ 
+Jack_Black/IcSFAcgIDi0_0000001 07.7 12.0 
+Jack_Black/IcSFAcgIDi0_0000002 25.3 29.7 
+Jack_Black/IcSFAcgIDi0_0000003 35.2 39.3 
+Jack_Black/IcSFAcgIDi0_0000004 58.4 65.0 
+Jack_Black/IcSFAcgIDi0_0000005 76.0 80.6 
+Jack_Black/IcSFAcgIDi0_0000006 90.3 113.4 
+Jack_Black/IcSFAcgIDi0_0000007 119.8 130.5 

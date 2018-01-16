@@ -1,0 +1,9 @@
+POI: 			Meat_Loaf 
+Youtube ID: 	ToQ-SrWV75A 
+Video length: 	578.0 sec 
+Set (V): 		dev 
+ 
+Meat_Loaf/ToQ-SrWV75A_0000001 108.2 118.6 
+Meat_Loaf/ToQ-SrWV75A_0000002 273.2 277.6 
+Meat_Loaf/ToQ-SrWV75A_0000003 288.6 293.7 
+Meat_Loaf/ToQ-SrWV75A_0000004 407.4 411.7 

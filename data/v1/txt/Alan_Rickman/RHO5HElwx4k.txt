@@ -1,0 +1,15 @@
+POI: 			Alan_Rickman 
+Youtube ID: 	RHO5HElwx4k 
+Video length: 	260.0 sec 
+Set (V): 		dev 
+ 
+Alan_Rickman/RHO5HElwx4k_0000001 30.4 34.7 
+Alan_Rickman/RHO5HElwx4k_0000002 37.0 43.4 
+Alan_Rickman/RHO5HElwx4k_0000003 53.1 57.6 
+Alan_Rickman/RHO5HElwx4k_0000004 91.1 95.6 
+Alan_Rickman/RHO5HElwx4k_0000005 104.8 109.5 
+Alan_Rickman/RHO5HElwx4k_0000006 114.8 119.3 
+Alan_Rickman/RHO5HElwx4k_0000007 131.6 139.1 
+Alan_Rickman/RHO5HElwx4k_0000008 151.6 156.2 
+Alan_Rickman/RHO5HElwx4k_0000009 181.7 185.9 
+Alan_Rickman/RHO5HElwx4k_0000010 227.3 231.9 

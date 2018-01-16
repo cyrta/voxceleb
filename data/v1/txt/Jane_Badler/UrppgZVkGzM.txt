@@ -1,0 +1,10 @@
+POI: 			Jane_Badler 
+Youtube ID: 	UrppgZVkGzM 
+Video length: 	165.1 sec 
+Set (V): 		dev 
+ 
+Jane_Badler/UrppgZVkGzM_0000001 25.6 59.0 
+Jane_Badler/UrppgZVkGzM_0000002 69.7 92.5 
+Jane_Badler/UrppgZVkGzM_0000003 93.1 97.4 
+Jane_Badler/UrppgZVkGzM_0000004 98.1 104.3 
+Jane_Badler/UrppgZVkGzM_0000005 129.2 155.5 

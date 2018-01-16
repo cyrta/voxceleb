@@ -1,0 +1,15 @@
+POI: 			Paddy_Considine 
+Youtube ID: 	TKeWkN05d00 
+Video length: 	441.9 sec 
+Set (V): 		dev 
+ 
+Paddy_Considine/TKeWkN05d00_0000001 35.4 45.6 
+Paddy_Considine/TKeWkN05d00_0000002 56.6 61.9 
+Paddy_Considine/TKeWkN05d00_0000003 41.3 45.6 
+Paddy_Considine/TKeWkN05d00_0000004 60.3 65.5 
+Paddy_Considine/TKeWkN05d00_0000005 81.7 90.7 
+Paddy_Considine/TKeWkN05d00_0000006 91.0 111.8 
+Paddy_Considine/TKeWkN05d00_0000007 133.2 142.3 
+Paddy_Considine/TKeWkN05d00_0000008 176.6 184.9 
+Paddy_Considine/TKeWkN05d00_0000009 196.0 212.4 
+Paddy_Considine/TKeWkN05d00_0000010 238.8 244.2 

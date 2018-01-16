@@ -1,0 +1,14 @@
+POI: 			Chris_Messina 
+Youtube ID: 	xOfpAXKjdKo 
+Video length: 	391.4 sec 
+Set (V): 		dev 
+ 
+Chris_Messina/xOfpAXKjdKo_0000001 86.8 91.8 
+Chris_Messina/xOfpAXKjdKo_0000002 160.6 173.2 
+Chris_Messina/xOfpAXKjdKo_0000003 174.8 181.9 
+Chris_Messina/xOfpAXKjdKo_0000004 190.4 196.4 
+Chris_Messina/xOfpAXKjdKo_0000005 198.3 205.6 
+Chris_Messina/xOfpAXKjdKo_0000006 216.8 224.7 
+Chris_Messina/xOfpAXKjdKo_0000007 229.0 233.3 
+Chris_Messina/xOfpAXKjdKo_0000008 314.0 319.3 
+Chris_Messina/xOfpAXKjdKo_0000009 339.9 347.5 

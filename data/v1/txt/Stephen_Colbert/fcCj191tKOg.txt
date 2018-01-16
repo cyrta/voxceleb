@@ -1,0 +1,6 @@
+POI: 			Stephen_Colbert 
+Youtube ID: 	fcCj191tKOg 
+Video length: 	546.1 sec 
+Set (V): 		dev 
+ 
+Stephen_Colbert/fcCj191tKOg_0000001 329.7 339.4 

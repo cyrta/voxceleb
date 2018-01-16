@@ -1,0 +1,10 @@
+POI: 			Adam_Copeland 
+Youtube ID: 	mwKVL6cadQw 
+Video length: 	273.8 sec 
+Set (V): 		dev 
+ 
+Adam_Copeland/mwKVL6cadQw_0000001 41.3 49.2 
+Adam_Copeland/mwKVL6cadQw_0000002 119.2 127.5 
+Adam_Copeland/mwKVL6cadQw_0000003 161.3 172.0 
+Adam_Copeland/mwKVL6cadQw_0000004 202.2 216.2 
+Adam_Copeland/mwKVL6cadQw_0000005 262.2 266.8 

@@ -1,0 +1,9 @@
+POI: 			Paul_Giamatti 
+Youtube ID: 	u1fSem5OpWI 
+Video length: 	508.1 sec 
+Set (V): 		dev 
+ 
+Paul_Giamatti/u1fSem5OpWI_0000001 44.4 52.6 
+Paul_Giamatti/u1fSem5OpWI_0000002 89.7 95.4 
+Paul_Giamatti/u1fSem5OpWI_0000003 209.3 213.4 
+Paul_Giamatti/u1fSem5OpWI_0000004 320.7 325.0 

@@ -1,0 +1,32 @@
+POI: 			Sarah_Wayne_Callies 
+Youtube ID: 	JYM-u_-w6Z4 
+Video length: 	1807.7 sec 
+Set (V): 		dev 
+ 
+Sarah_Wayne_Callies/JYM-u_-w6Z4_0000001 613.1 617.9 
+Sarah_Wayne_Callies/JYM-u_-w6Z4_0000002 627.8 633.5 
+Sarah_Wayne_Callies/JYM-u_-w6Z4_0000003 638.3 642.8 
+Sarah_Wayne_Callies/JYM-u_-w6Z4_0000004 651.0 655.8 
+Sarah_Wayne_Callies/JYM-u_-w6Z4_0000005 658.1 663.2 
+Sarah_Wayne_Callies/JYM-u_-w6Z4_0000006 665.3 670.2 
+Sarah_Wayne_Callies/JYM-u_-w6Z4_0000007 701.9 706.2 
+Sarah_Wayne_Callies/JYM-u_-w6Z4_0000008 993.0 997.8 
+Sarah_Wayne_Callies/JYM-u_-w6Z4_0000009 999.3 1006.0 
+Sarah_Wayne_Callies/JYM-u_-w6Z4_0000010 1011.1 1015.6 
+Sarah_Wayne_Callies/JYM-u_-w6Z4_0000011 1088.6 1093.1 
+Sarah_Wayne_Callies/JYM-u_-w6Z4_0000012 1109.4 1114.5 
+Sarah_Wayne_Callies/JYM-u_-w6Z4_0000013 1131.3 1135.6 
+Sarah_Wayne_Callies/JYM-u_-w6Z4_0000014 1223.4 1227.6 
+Sarah_Wayne_Callies/JYM-u_-w6Z4_0000015 1228.5 1235.5 
+Sarah_Wayne_Callies/JYM-u_-w6Z4_0000016 1316.9 1321.6 
+Sarah_Wayne_Callies/JYM-u_-w6Z4_0000017 1331.9 1336.0 
+Sarah_Wayne_Callies/JYM-u_-w6Z4_0000018 1343.5 1352.2 
+Sarah_Wayne_Callies/JYM-u_-w6Z4_0000019 1419.8 1428.0 
+Sarah_Wayne_Callies/JYM-u_-w6Z4_0000020 1430.0 1434.2 
+Sarah_Wayne_Callies/JYM-u_-w6Z4_0000021 1442.0 1446.6 
+Sarah_Wayne_Callies/JYM-u_-w6Z4_0000022 1454.9 1459.4 
+Sarah_Wayne_Callies/JYM-u_-w6Z4_0000023 1464.2 1474.2 
+Sarah_Wayne_Callies/JYM-u_-w6Z4_0000024 1480.6 1486.2 
+Sarah_Wayne_Callies/JYM-u_-w6Z4_0000025 1614.1 1620.6 
+Sarah_Wayne_Callies/JYM-u_-w6Z4_0000026 1633.9 1639.5 
+Sarah_Wayne_Callies/JYM-u_-w6Z4_0000027 1665.2 1672.6 

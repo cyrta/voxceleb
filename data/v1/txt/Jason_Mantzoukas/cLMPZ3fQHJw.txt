@@ -1,0 +1,15 @@
+POI: 			Jason_Mantzoukas 
+Youtube ID: 	cLMPZ3fQHJw 
+Video length: 	173.6 sec 
+Set (V): 		dev 
+ 
+Jason_Mantzoukas/cLMPZ3fQHJw_0000001 15.7 24.6 
+Jason_Mantzoukas/cLMPZ3fQHJw_0000002 25.2 32.4 
+Jason_Mantzoukas/cLMPZ3fQHJw_0000003 35.9 41.0 
+Jason_Mantzoukas/cLMPZ3fQHJw_0000004 41.8 46.5 
+Jason_Mantzoukas/cLMPZ3fQHJw_0000005 47.6 52.7 
+Jason_Mantzoukas/cLMPZ3fQHJw_0000006 58.7 64.8 
+Jason_Mantzoukas/cLMPZ3fQHJw_0000007 106.6 123.0 
+Jason_Mantzoukas/cLMPZ3fQHJw_0000008 123.8 131.0 
+Jason_Mantzoukas/cLMPZ3fQHJw_0000009 138.8 151.9 
+Jason_Mantzoukas/cLMPZ3fQHJw_0000010 156.4 161.0 

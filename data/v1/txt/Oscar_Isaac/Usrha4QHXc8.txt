@@ -1,0 +1,13 @@
+POI: 			Oscar_Isaac 
+Youtube ID: 	Usrha4QHXc8 
+Video length: 	278.0 sec 
+Set (V): 		dev 
+ 
+Oscar_Isaac/Usrha4QHXc8_0000001 58.8 65.0 
+Oscar_Isaac/Usrha4QHXc8_0000002 81.5 95.0 
+Oscar_Isaac/Usrha4QHXc8_0000003 102.6 107.6 
+Oscar_Isaac/Usrha4QHXc8_0000004 119.6 123.6 
+Oscar_Isaac/Usrha4QHXc8_0000005 142.8 148.6 
+Oscar_Isaac/Usrha4QHXc8_0000006 166.8 172.7 
+Oscar_Isaac/Usrha4QHXc8_0000007 188.8 197.4 
+Oscar_Isaac/Usrha4QHXc8_0000008 245.4 250.2 

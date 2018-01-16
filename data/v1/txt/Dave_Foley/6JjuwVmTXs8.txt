@@ -1,0 +1,7 @@
+POI: 			Dave_Foley 
+Youtube ID: 	6JjuwVmTXs8 
+Video length: 	264.3 sec 
+Set (V): 		dev 
+ 
+Dave_Foley/6JjuwVmTXs8_0000001 98.9 104.9 
+Dave_Foley/6JjuwVmTXs8_0000002 105.2 109.4 

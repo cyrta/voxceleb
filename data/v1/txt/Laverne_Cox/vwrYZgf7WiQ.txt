@@ -1,0 +1,7 @@
+POI: 			Laverne_Cox 
+Youtube ID: 	vwrYZgf7WiQ 
+Video length: 	90.6 sec 
+Set (V): 		dev 
+ 
+Laverne_Cox/vwrYZgf7WiQ_0000001 61.2 66.9 
+Laverne_Cox/vwrYZgf7WiQ_0000002 79.8 86.0 

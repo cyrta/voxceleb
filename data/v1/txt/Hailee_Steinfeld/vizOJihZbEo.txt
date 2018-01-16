@@ -1,0 +1,17 @@
+POI: 			Hailee_Steinfeld 
+Youtube ID: 	vizOJihZbEo 
+Video length: 	273.8 sec 
+Set (V): 		dev 
+ 
+Hailee_Steinfeld/vizOJihZbEo_0000001 23.1 38.4 
+Hailee_Steinfeld/vizOJihZbEo_0000002 38.5 59.0 
+Hailee_Steinfeld/vizOJihZbEo_0000003 60.0 66.6 
+Hailee_Steinfeld/vizOJihZbEo_0000004 86.5 94.8 
+Hailee_Steinfeld/vizOJihZbEo_0000005 96.2 108.3 
+Hailee_Steinfeld/vizOJihZbEo_0000006 131.9 139.7 
+Hailee_Steinfeld/vizOJihZbEo_0000007 140.0 157.3 
+Hailee_Steinfeld/vizOJihZbEo_0000008 158.9 166.6 
+Hailee_Steinfeld/vizOJihZbEo_0000009 188.8 192.9 
+Hailee_Steinfeld/vizOJihZbEo_0000010 193.4 227.9 
+Hailee_Steinfeld/vizOJihZbEo_0000011 242.3 246.9 
+Hailee_Steinfeld/vizOJihZbEo_0000012 253.6 269.5 

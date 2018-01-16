@@ -1,0 +1,14 @@
+POI: 			Kenny_Rogers 
+Youtube ID: 	BCJj7iq82eM 
+Video length: 	314.8 sec 
+Set (V): 		dev 
+ 
+Kenny_Rogers/BCJj7iq82eM_0000001 63.6 69.8 
+Kenny_Rogers/BCJj7iq82eM_0000002 80.6 90.4 
+Kenny_Rogers/BCJj7iq82eM_0000003 97.0 118.0 
+Kenny_Rogers/BCJj7iq82eM_0000004 140.7 149.3 
+Kenny_Rogers/BCJj7iq82eM_0000005 186.3 197.4 
+Kenny_Rogers/BCJj7iq82eM_0000006 209.0 213.4 
+Kenny_Rogers/BCJj7iq82eM_0000007 215.5 220.5 
+Kenny_Rogers/BCJj7iq82eM_0000008 249.5 255.6 
+Kenny_Rogers/BCJj7iq82eM_0000009 276.0 287.8 

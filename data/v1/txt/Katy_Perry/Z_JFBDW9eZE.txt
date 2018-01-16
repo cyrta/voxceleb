@@ -1,0 +1,8 @@
+POI: 			Katy_Perry 
+Youtube ID: 	Z_JFBDW9eZE 
+Video length: 	298.6 sec 
+Set (V): 		dev 
+ 
+Katy_Perry/Z_JFBDW9eZE_0000001 126.7 131.7 
+Katy_Perry/Z_JFBDW9eZE_0000002 190.4 194.3 
+Katy_Perry/Z_JFBDW9eZE_0000003 229.7 236.3 

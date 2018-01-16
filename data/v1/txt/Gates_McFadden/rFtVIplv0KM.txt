@@ -1,0 +1,12 @@
+POI: 			Gates_McFadden 
+Youtube ID: 	rFtVIplv0KM 
+Video length: 	454.6 sec 
+Set (V): 		dev 
+ 
+Gates_McFadden/rFtVIplv0KM_0000001 78.5 90.6 
+Gates_McFadden/rFtVIplv0KM_0000002 96.2 101.0 
+Gates_McFadden/rFtVIplv0KM_0000003 236.4 245.9 
+Gates_McFadden/rFtVIplv0KM_0000004 285.3 290.7 
+Gates_McFadden/rFtVIplv0KM_0000005 295.6 305.5 
+Gates_McFadden/rFtVIplv0KM_0000006 361.3 366.2 
+Gates_McFadden/rFtVIplv0KM_0000007 400.4 411.5 

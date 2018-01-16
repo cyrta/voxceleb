@@ -1,0 +1,19 @@
+POI: 			Paul_Dano 
+Youtube ID: 	kgqSlgRoBy4 
+Video length: 	363.0 sec 
+Set (V): 		dev 
+ 
+Paul_Dano/kgqSlgRoBy4_0000001 18.1 22.3 
+Paul_Dano/kgqSlgRoBy4_0000002 46.6 50.6 
+Paul_Dano/kgqSlgRoBy4_0000003 61.8 68.5 
+Paul_Dano/kgqSlgRoBy4_0000004 75.0 79.9 
+Paul_Dano/kgqSlgRoBy4_0000005 103.5 107.7 
+Paul_Dano/kgqSlgRoBy4_0000006 109.0 115.4 
+Paul_Dano/kgqSlgRoBy4_0000007 142.0 146.9 
+Paul_Dano/kgqSlgRoBy4_0000008 147.2 151.4 
+Paul_Dano/kgqSlgRoBy4_0000009 165.9 170.8 
+Paul_Dano/kgqSlgRoBy4_0000010 160.6 168.2 
+Paul_Dano/kgqSlgRoBy4_0000011 209.7 214.6 
+Paul_Dano/kgqSlgRoBy4_0000012 243.8 251.0 
+Paul_Dano/kgqSlgRoBy4_0000013 270.1 274.4 
+Paul_Dano/kgqSlgRoBy4_0000014 316.3 321.7 

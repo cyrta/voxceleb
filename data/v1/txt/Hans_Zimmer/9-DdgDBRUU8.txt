@@ -1,0 +1,7 @@
+POI: 			Hans_Zimmer 
+Youtube ID: 	9-DdgDBRUU8 
+Video length: 	165.3 sec 
+Set (V): 		dev 
+ 
+Hans_Zimmer/9-DdgDBRUU8_0000001 60.0 69.9 
+Hans_Zimmer/9-DdgDBRUU8_0000002 84.6 91.6 

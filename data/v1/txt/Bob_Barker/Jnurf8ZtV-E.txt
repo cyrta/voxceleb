@@ -1,0 +1,7 @@
+POI: 			Bob_Barker 
+Youtube ID: 	Jnurf8ZtV-E 
+Video length: 	235.1 sec 
+Set (V): 		dev 
+ 
+Bob_Barker/Jnurf8ZtV-E_0000001 07.9 14.9 
+Bob_Barker/Jnurf8ZtV-E_0000002 62.0 66.6 

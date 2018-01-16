@@ -1,0 +1,15 @@
+POI: 			Marla_Gibbs 
+Youtube ID: 	h_QalsjnxTI 
+Video length: 	162.2 sec 
+Set (V): 		dev 
+ 
+Marla_Gibbs/h_QalsjnxTI_0000001 09.4 13.8 
+Marla_Gibbs/h_QalsjnxTI_0000002 18.0 49.6 
+Marla_Gibbs/h_QalsjnxTI_0000003 60.6 64.9 
+Marla_Gibbs/h_QalsjnxTI_0000004 69.1 75.9 
+Marla_Gibbs/h_QalsjnxTI_0000005 79.8 85.4 
+Marla_Gibbs/h_QalsjnxTI_0000006 88.2 103.8 
+Marla_Gibbs/h_QalsjnxTI_0000007 113.2 118.4 
+Marla_Gibbs/h_QalsjnxTI_0000008 118.7 128.0 
+Marla_Gibbs/h_QalsjnxTI_0000009 128.5 147.1 
+Marla_Gibbs/h_QalsjnxTI_0000010 148.1 152.8 

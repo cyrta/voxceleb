@@ -1,0 +1,7 @@
+POI: 			Steven_Berkoff 
+Youtube ID: 	gxCBSBSTgQg 
+Video length: 	105.6 sec 
+Set (V): 		dev 
+ 
+Steven_Berkoff/gxCBSBSTgQg_0000001 39.0 45.8 
+Steven_Berkoff/gxCBSBSTgQg_0000002 90.7 100.6 

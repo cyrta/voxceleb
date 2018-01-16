@@ -1,0 +1,22 @@
+POI: 			David_Morrissey 
+Youtube ID: 	U2gIBy8Gzss 
+Video length: 	400.0 sec 
+Set (V): 		dev 
+ 
+David_Morrissey/U2gIBy8Gzss_0000001 08.7 12.8 
+David_Morrissey/U2gIBy8Gzss_0000002 14.3 20.0 
+David_Morrissey/U2gIBy8Gzss_0000003 45.4 50.6 
+David_Morrissey/U2gIBy8Gzss_0000004 56.4 63.2 
+David_Morrissey/U2gIBy8Gzss_0000005 67.7 78.3 
+David_Morrissey/U2gIBy8Gzss_0000006 161.3 175.8 
+David_Morrissey/U2gIBy8Gzss_0000007 180.2 185.4 
+David_Morrissey/U2gIBy8Gzss_0000008 187.8 193.5 
+David_Morrissey/U2gIBy8Gzss_0000009 194.2 200.7 
+David_Morrissey/U2gIBy8Gzss_0000010 215.5 223.4 
+David_Morrissey/U2gIBy8Gzss_0000011 236.9 246.7 
+David_Morrissey/U2gIBy8Gzss_0000012 251.4 264.7 
+David_Morrissey/U2gIBy8Gzss_0000013 304.7 311.4 
+David_Morrissey/U2gIBy8Gzss_0000014 313.4 318.2 
+David_Morrissey/U2gIBy8Gzss_0000015 339.4 343.7 
+David_Morrissey/U2gIBy8Gzss_0000016 344.2 349.6 
+David_Morrissey/U2gIBy8Gzss_0000017 365.9 382.6 

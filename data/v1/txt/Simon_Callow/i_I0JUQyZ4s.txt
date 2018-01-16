@@ -1,0 +1,43 @@
+POI: 			Simon_Callow 
+Youtube ID: 	i_I0JUQyZ4s 
+Video length: 	1024.7 sec 
+Set (V): 		dev 
+ 
+Simon_Callow/i_I0JUQyZ4s_0000001 46.8 52.6 
+Simon_Callow/i_I0JUQyZ4s_0000002 55.7 65.4 
+Simon_Callow/i_I0JUQyZ4s_0000003 74.5 80.0 
+Simon_Callow/i_I0JUQyZ4s_0000004 100.6 106.4 
+Simon_Callow/i_I0JUQyZ4s_0000005 151.8 155.8 
+Simon_Callow/i_I0JUQyZ4s_0000006 156.3 168.8 
+Simon_Callow/i_I0JUQyZ4s_0000007 179.2 183.9 
+Simon_Callow/i_I0JUQyZ4s_0000008 216.4 228.2 
+Simon_Callow/i_I0JUQyZ4s_0000009 246.2 253.4 
+Simon_Callow/i_I0JUQyZ4s_0000010 255.7 263.8 
+Simon_Callow/i_I0JUQyZ4s_0000011 264.2 295.9 
+Simon_Callow/i_I0JUQyZ4s_0000012 313.6 322.0 
+Simon_Callow/i_I0JUQyZ4s_0000013 328.2 336.1 
+Simon_Callow/i_I0JUQyZ4s_0000014 348.0 354.6 
+Simon_Callow/i_I0JUQyZ4s_0000015 395.7 399.6 
+Simon_Callow/i_I0JUQyZ4s_0000016 459.0 466.3 
+Simon_Callow/i_I0JUQyZ4s_0000017 467.6 471.6 
+Simon_Callow/i_I0JUQyZ4s_0000018 473.4 477.6 
+Simon_Callow/i_I0JUQyZ4s_0000019 494.0 503.4 
+Simon_Callow/i_I0JUQyZ4s_0000020 509.8 518.4 
+Simon_Callow/i_I0JUQyZ4s_0000021 539.0 546.3 
+Simon_Callow/i_I0JUQyZ4s_0000022 547.8 562.3 
+Simon_Callow/i_I0JUQyZ4s_0000023 609.4 615.3 
+Simon_Callow/i_I0JUQyZ4s_0000024 658.6 663.4 
+Simon_Callow/i_I0JUQyZ4s_0000025 669.6 675.2 
+Simon_Callow/i_I0JUQyZ4s_0000026 710.6 719.0 
+Simon_Callow/i_I0JUQyZ4s_0000027 732.1 738.8 
+Simon_Callow/i_I0JUQyZ4s_0000028 740.9 751.9 
+Simon_Callow/i_I0JUQyZ4s_0000029 764.6 769.3 
+Simon_Callow/i_I0JUQyZ4s_0000030 806.3 814.0 
+Simon_Callow/i_I0JUQyZ4s_0000031 817.0 823.3 
+Simon_Callow/i_I0JUQyZ4s_0000032 885.5 893.8 
+Simon_Callow/i_I0JUQyZ4s_0000033 899.1 908.1 
+Simon_Callow/i_I0JUQyZ4s_0000034 910.0 920.2 
+Simon_Callow/i_I0JUQyZ4s_0000035 922.6 929.4 
+Simon_Callow/i_I0JUQyZ4s_0000036 939.6 950.5 
+Simon_Callow/i_I0JUQyZ4s_0000037 967.9 972.0 
+Simon_Callow/i_I0JUQyZ4s_0000038 1004.4 1008.8 

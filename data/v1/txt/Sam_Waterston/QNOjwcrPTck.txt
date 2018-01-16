@@ -1,0 +1,7 @@
+POI: 			Sam_Waterston 
+Youtube ID: 	QNOjwcrPTck 
+Video length: 	272.8 sec 
+Set (V): 		dev 
+ 
+Sam_Waterston/QNOjwcrPTck_0000001 61.2 65.3 
+Sam_Waterston/QNOjwcrPTck_0000002 135.7 139.7 

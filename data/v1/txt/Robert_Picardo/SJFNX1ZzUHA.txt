@@ -1,0 +1,7 @@
+POI: 			Robert_Picardo 
+Youtube ID: 	SJFNX1ZzUHA 
+Video length: 	362.4 sec 
+Set (V): 		dev 
+ 
+Robert_Picardo/SJFNX1ZzUHA_0000001 162.7 166.8 
+Robert_Picardo/SJFNX1ZzUHA_0000002 319.0 343.2 

@@ -1,0 +1,11 @@
+POI: 			Andrew_Rannells 
+Youtube ID: 	aBpmA6-g2uw 
+Video length: 	156.0 sec 
+Set (V): 		dev 
+ 
+Andrew_Rannells/aBpmA6-g2uw_0000001 17.7 22.9 
+Andrew_Rannells/aBpmA6-g2uw_0000002 30.6 35.2 
+Andrew_Rannells/aBpmA6-g2uw_0000003 35.6 41.4 
+Andrew_Rannells/aBpmA6-g2uw_0000004 60.4 65.9 
+Andrew_Rannells/aBpmA6-g2uw_0000005 87.3 93.0 
+Andrew_Rannells/aBpmA6-g2uw_0000006 120.7 130.6 

@@ -1,0 +1,22 @@
+POI: 			Andrew_Garfield 
+Youtube ID: 	J2Vod4IfvhQ 
+Video length: 	985.0 sec 
+Set (V): 		dev 
+ 
+Andrew_Garfield/J2Vod4IfvhQ_0000001 62.1 76.6 
+Andrew_Garfield/J2Vod4IfvhQ_0000002 127.4 136.1 
+Andrew_Garfield/J2Vod4IfvhQ_0000003 138.0 144.8 
+Andrew_Garfield/J2Vod4IfvhQ_0000004 157.2 163.6 
+Andrew_Garfield/J2Vod4IfvhQ_0000005 165.0 177.4 
+Andrew_Garfield/J2Vod4IfvhQ_0000006 204.6 209.6 
+Andrew_Garfield/J2Vod4IfvhQ_0000007 209.8 214.2 
+Andrew_Garfield/J2Vod4IfvhQ_0000008 427.6 433.6 
+Andrew_Garfield/J2Vod4IfvhQ_0000009 437.7 443.7 
+Andrew_Garfield/J2Vod4IfvhQ_0000010 445.4 449.6 
+Andrew_Garfield/J2Vod4IfvhQ_0000011 457.6 463.4 
+Andrew_Garfield/J2Vod4IfvhQ_0000012 465.8 476.6 
+Andrew_Garfield/J2Vod4IfvhQ_0000013 481.6 489.9 
+Andrew_Garfield/J2Vod4IfvhQ_0000014 495.1 506.6 
+Andrew_Garfield/J2Vod4IfvhQ_0000015 507.2 521.6 
+Andrew_Garfield/J2Vod4IfvhQ_0000016 521.9 526.2 
+Andrew_Garfield/J2Vod4IfvhQ_0000017 553.7 559.1 

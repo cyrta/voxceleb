@@ -1,0 +1,11 @@
+POI: 			Eric_Dane 
+Youtube ID: 	NZvythQO-SM 
+Video length: 	605.8 sec 
+Set (V): 		test 
+ 
+Eric_Dane/NZvythQO-SM_0000001 353.0 357.1 
+Eric_Dane/NZvythQO-SM_0000002 366.7 373.2 
+Eric_Dane/NZvythQO-SM_0000003 376.2 381.4 
+Eric_Dane/NZvythQO-SM_0000004 386.1 392.0 
+Eric_Dane/NZvythQO-SM_0000005 399.4 405.4 
+Eric_Dane/NZvythQO-SM_0000006 408.4 416.7 

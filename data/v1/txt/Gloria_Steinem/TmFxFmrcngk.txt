@@ -1,0 +1,28 @@
+POI: 			Gloria_Steinem 
+Youtube ID: 	TmFxFmrcngk 
+Video length: 	668.0 sec 
+Set (V): 		dev 
+ 
+Gloria_Steinem/TmFxFmrcngk_0000001 68.3 72.3 
+Gloria_Steinem/TmFxFmrcngk_0000002 120.3 124.9 
+Gloria_Steinem/TmFxFmrcngk_0000003 144.8 150.1 
+Gloria_Steinem/TmFxFmrcngk_0000004 156.8 160.9 
+Gloria_Steinem/TmFxFmrcngk_0000005 210.8 217.0 
+Gloria_Steinem/TmFxFmrcngk_0000006 220.8 232.2 
+Gloria_Steinem/TmFxFmrcngk_0000007 278.8 283.5 
+Gloria_Steinem/TmFxFmrcngk_0000008 288.6 293.8 
+Gloria_Steinem/TmFxFmrcngk_0000009 307.0 311.7 
+Gloria_Steinem/TmFxFmrcngk_0000010 344.0 348.6 
+Gloria_Steinem/TmFxFmrcngk_0000011 361.4 367.4 
+Gloria_Steinem/TmFxFmrcngk_0000012 374.4 378.5 
+Gloria_Steinem/TmFxFmrcngk_0000013 385.8 390.0 
+Gloria_Steinem/TmFxFmrcngk_0000014 417.6 424.4 
+Gloria_Steinem/TmFxFmrcngk_0000015 429.4 441.1 
+Gloria_Steinem/TmFxFmrcngk_0000016 465.4 469.9 
+Gloria_Steinem/TmFxFmrcngk_0000017 484.9 490.5 
+Gloria_Steinem/TmFxFmrcngk_0000018 532.0 538.6 
+Gloria_Steinem/TmFxFmrcngk_0000019 553.6 561.8 
+Gloria_Steinem/TmFxFmrcngk_0000020 585.4 589.8 
+Gloria_Steinem/TmFxFmrcngk_0000021 613.6 618.6 
+Gloria_Steinem/TmFxFmrcngk_0000022 633.2 639.0 
+Gloria_Steinem/TmFxFmrcngk_0000023 651.5 657.7 

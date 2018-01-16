@@ -1,0 +1,15 @@
+POI: 			Julia_Roberts 
+Youtube ID: 	yAnP5JGrlA8 
+Video length: 	1185.6 sec 
+Set (V): 		dev 
+ 
+Julia_Roberts/yAnP5JGrlA8_0000001 338.2 343.7 
+Julia_Roberts/yAnP5JGrlA8_0000002 574.4 578.4 
+Julia_Roberts/yAnP5JGrlA8_0000003 679.4 684.4 
+Julia_Roberts/yAnP5JGrlA8_0000004 784.0 788.6 
+Julia_Roberts/yAnP5JGrlA8_0000005 879.0 888.1 
+Julia_Roberts/yAnP5JGrlA8_0000006 987.0 997.6 
+Julia_Roberts/yAnP5JGrlA8_0000007 1009.9 1014.2 
+Julia_Roberts/yAnP5JGrlA8_0000008 1021.4 1029.7 
+Julia_Roberts/yAnP5JGrlA8_0000009 1056.4 1060.8 
+Julia_Roberts/yAnP5JGrlA8_0000010 1073.3 1077.5 

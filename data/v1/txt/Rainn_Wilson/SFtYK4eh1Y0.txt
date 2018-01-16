@@ -1,0 +1,17 @@
+POI: 			Rainn_Wilson 
+Youtube ID: 	SFtYK4eh1Y0 
+Video length: 	182.9 sec 
+Set (V): 		dev 
+ 
+Rainn_Wilson/SFtYK4eh1Y0_0000001 03.9 35.7 
+Rainn_Wilson/SFtYK4eh1Y0_0000002 41.9 46.2 
+Rainn_Wilson/SFtYK4eh1Y0_0000003 48.8 61.6 
+Rainn_Wilson/SFtYK4eh1Y0_0000004 61.9 70.6 
+Rainn_Wilson/SFtYK4eh1Y0_0000005 71.2 80.3 
+Rainn_Wilson/SFtYK4eh1Y0_0000006 81.2 87.3 
+Rainn_Wilson/SFtYK4eh1Y0_0000007 89.1 121.3 
+Rainn_Wilson/SFtYK4eh1Y0_0000008 122.5 127.4 
+Rainn_Wilson/SFtYK4eh1Y0_0000009 127.9 143.5 
+Rainn_Wilson/SFtYK4eh1Y0_0000010 99.1 110.2 
+Rainn_Wilson/SFtYK4eh1Y0_0000011 146.4 157.4 
+Rainn_Wilson/SFtYK4eh1Y0_0000012 167.8 178.5 

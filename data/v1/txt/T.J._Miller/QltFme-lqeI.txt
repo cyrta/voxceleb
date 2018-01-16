@@ -1,0 +1,12 @@
+POI: 			T.J._Miller 
+Youtube ID: 	QltFme-lqeI 
+Video length: 	222.9 sec 
+Set (V): 		dev 
+ 
+T.J._Miller/QltFme-lqeI_0000001 15.7 27.5 
+T.J._Miller/QltFme-lqeI_0000002 30.5 35.3 
+T.J._Miller/QltFme-lqeI_0000003 39.1 44.7 
+T.J._Miller/QltFme-lqeI_0000004 80.1 84.4 
+T.J._Miller/QltFme-lqeI_0000005 156.2 160.4 
+T.J._Miller/QltFme-lqeI_0000006 162.6 166.6 
+T.J._Miller/QltFme-lqeI_0000007 168.9 179.6 

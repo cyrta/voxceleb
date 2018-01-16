@@ -1,0 +1,10 @@
+POI: 			Greta_Gerwig 
+Youtube ID: 	BnDMODRaGfU 
+Video length: 	277.5 sec 
+Set (V): 		dev 
+ 
+Greta_Gerwig/BnDMODRaGfU_0000001 199.7 204.2 
+Greta_Gerwig/BnDMODRaGfU_0000002 204.4 211.9 
+Greta_Gerwig/BnDMODRaGfU_0000003 213.7 220.6 
+Greta_Gerwig/BnDMODRaGfU_0000004 221.3 233.2 
+Greta_Gerwig/BnDMODRaGfU_0000005 233.6 243.7 

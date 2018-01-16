@@ -1,0 +1,8 @@
+POI: 			John_Cho 
+Youtube ID: 	pH-kCupTEIo 
+Video length: 	268.9 sec 
+Set (V): 		dev 
+ 
+John_Cho/pH-kCupTEIo_0000001 139.7 145.0 
+John_Cho/pH-kCupTEIo_0000002 149.2 155.4 
+John_Cho/pH-kCupTEIo_0000003 199.1 204.5 

@@ -1,0 +1,14 @@
+POI: 			Chi_McBride 
+Youtube ID: 	sB9QbNzu1ho 
+Video length: 	148.6 sec 
+Set (V): 		dev 
+ 
+Chi_McBride/sB9QbNzu1ho_0000001 01.0 05.7 
+Chi_McBride/sB9QbNzu1ho_0000002 11.4 19.1 
+Chi_McBride/sB9QbNzu1ho_0000003 22.4 28.3 
+Chi_McBride/sB9QbNzu1ho_0000004 47.0 54.2 
+Chi_McBride/sB9QbNzu1ho_0000005 79.8 84.4 
+Chi_McBride/sB9QbNzu1ho_0000006 84.6 92.9 
+Chi_McBride/sB9QbNzu1ho_0000007 104.0 111.5 
+Chi_McBride/sB9QbNzu1ho_0000008 124.0 129.4 
+Chi_McBride/sB9QbNzu1ho_0000009 130.5 141.4 

@@ -1,0 +1,10 @@
+POI: 			Molly_Ringwald 
+Youtube ID: 	VOoZngq6GFA 
+Video length: 	491.3 sec 
+Set (V): 		dev 
+ 
+Molly_Ringwald/VOoZngq6GFA_0000001 247.1 251.6 
+Molly_Ringwald/VOoZngq6GFA_0000002 251.9 257.8 
+Molly_Ringwald/VOoZngq6GFA_0000003 363.4 368.3 
+Molly_Ringwald/VOoZngq6GFA_0000004 369.2 375.5 
+Molly_Ringwald/VOoZngq6GFA_0000005 376.1 382.0 

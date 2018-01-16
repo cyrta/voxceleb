@@ -1,0 +1,9 @@
+POI: 			Melissa_McCarthy 
+Youtube ID: 	2rr9jlCdm40 
+Video length: 	254.0 sec 
+Set (V): 		dev 
+ 
+Melissa_McCarthy/2rr9jlCdm40_0000001 08.0 13.4 
+Melissa_McCarthy/2rr9jlCdm40_0000002 34.7 45.4 
+Melissa_McCarthy/2rr9jlCdm40_0000003 64.6 72.5 
+Melissa_McCarthy/2rr9jlCdm40_0000004 73.2 78.9 

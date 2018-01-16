@@ -1,0 +1,11 @@
+POI: 			Stephen_Lang 
+Youtube ID: 	koyf275YUK0 
+Video length: 	106.7 sec 
+Set (V): 		dev 
+ 
+Stephen_Lang/koyf275YUK0_0000001 16.0 23.2 
+Stephen_Lang/koyf275YUK0_0000002 24.8 32.1 
+Stephen_Lang/koyf275YUK0_0000003 39.0 43.8 
+Stephen_Lang/koyf275YUK0_0000004 53.2 57.4 
+Stephen_Lang/koyf275YUK0_0000005 70.7 75.0 
+Stephen_Lang/koyf275YUK0_0000006 90.7 96.8 

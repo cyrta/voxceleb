@@ -1,0 +1,9 @@
+POI: 			Regina_Hall 
+Youtube ID: 	4GbjXgL5-yQ 
+Video length: 	600.0 sec 
+Set (V): 		dev 
+ 
+Regina_Hall/4GbjXgL5-yQ_0000001 172.5 181.1 
+Regina_Hall/4GbjXgL5-yQ_0000002 464.2 470.2 
+Regina_Hall/4GbjXgL5-yQ_0000003 470.4 476.6 
+Regina_Hall/4GbjXgL5-yQ_0000004 520.7 528.8 

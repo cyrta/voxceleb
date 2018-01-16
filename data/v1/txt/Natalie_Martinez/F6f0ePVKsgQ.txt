@@ -1,0 +1,12 @@
+POI: 			Natalie_Martinez 
+Youtube ID: 	F6f0ePVKsgQ 
+Video length: 	203.3 sec 
+Set (V): 		dev 
+ 
+Natalie_Martinez/F6f0ePVKsgQ_0000001 12.4 25.5 
+Natalie_Martinez/F6f0ePVKsgQ_0000002 37.8 52.0 
+Natalie_Martinez/F6f0ePVKsgQ_0000003 59.5 72.6 
+Natalie_Martinez/F6f0ePVKsgQ_0000004 83.9 105.2 
+Natalie_Martinez/F6f0ePVKsgQ_0000005 124.1 143.7 
+Natalie_Martinez/F6f0ePVKsgQ_0000006 147.8 154.1 
+Natalie_Martinez/F6f0ePVKsgQ_0000007 175.0 189.8 

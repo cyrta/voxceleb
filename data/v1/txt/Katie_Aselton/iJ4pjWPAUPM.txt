@@ -1,0 +1,13 @@
+POI: 			Katie_Aselton 
+Youtube ID: 	iJ4pjWPAUPM 
+Video length: 	213.0 sec 
+Set (V): 		dev 
+ 
+Katie_Aselton/iJ4pjWPAUPM_0000001 04.8 12.1 
+Katie_Aselton/iJ4pjWPAUPM_0000002 15.2 29.0 
+Katie_Aselton/iJ4pjWPAUPM_0000003 35.4 62.1 
+Katie_Aselton/iJ4pjWPAUPM_0000004 62.9 68.5 
+Katie_Aselton/iJ4pjWPAUPM_0000005 76.1 80.1 
+Katie_Aselton/iJ4pjWPAUPM_0000006 45.6 53.1 
+Katie_Aselton/iJ4pjWPAUPM_0000007 70.5 84.6 
+Katie_Aselton/iJ4pjWPAUPM_0000008 88.4 94.8 

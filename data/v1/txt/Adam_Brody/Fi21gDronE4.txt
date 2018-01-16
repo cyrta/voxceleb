@@ -1,0 +1,15 @@
+POI: 			Adam_Brody 
+Youtube ID: 	Fi21gDronE4 
+Video length: 	357.5 sec 
+Set (V): 		dev 
+ 
+Adam_Brody/Fi21gDronE4_0000001 26.5 88.2 
+Adam_Brody/Fi21gDronE4_0000002 89.5 93.7 
+Adam_Brody/Fi21gDronE4_0000003 199.2 211.4 
+Adam_Brody/Fi21gDronE4_0000004 217.2 230.9 
+Adam_Brody/Fi21gDronE4_0000005 237.8 251.0 
+Adam_Brody/Fi21gDronE4_0000006 264.4 274.4 
+Adam_Brody/Fi21gDronE4_0000007 276.3 293.9 
+Adam_Brody/Fi21gDronE4_0000008 306.9 313.6 
+Adam_Brody/Fi21gDronE4_0000009 321.6 338.0 
+Adam_Brody/Fi21gDronE4_0000010 340.2 346.8 

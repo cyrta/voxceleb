@@ -1,0 +1,25 @@
+POI: 			Alfre_Woodard 
+Youtube ID: 	peVZqDhzQhc 
+Video length: 	403.5 sec 
+Set (V): 		dev 
+ 
+Alfre_Woodard/peVZqDhzQhc_0000001 07.0 11.5 
+Alfre_Woodard/peVZqDhzQhc_0000002 11.7 16.2 
+Alfre_Woodard/peVZqDhzQhc_0000003 17.1 21.1 
+Alfre_Woodard/peVZqDhzQhc_0000004 24.7 30.0 
+Alfre_Woodard/peVZqDhzQhc_0000005 55.2 59.8 
+Alfre_Woodard/peVZqDhzQhc_0000006 64.2 71.0 
+Alfre_Woodard/peVZqDhzQhc_0000007 79.9 85.1 
+Alfre_Woodard/peVZqDhzQhc_0000008 132.4 137.9 
+Alfre_Woodard/peVZqDhzQhc_0000009 148.6 152.7 
+Alfre_Woodard/peVZqDhzQhc_0000010 171.0 179.9 
+Alfre_Woodard/peVZqDhzQhc_0000011 228.3 232.3 
+Alfre_Woodard/peVZqDhzQhc_0000012 228.2 232.4 
+Alfre_Woodard/peVZqDhzQhc_0000013 239.9 243.8 
+Alfre_Woodard/peVZqDhzQhc_0000014 258.2 264.5 
+Alfre_Woodard/peVZqDhzQhc_0000015 271.1 275.8 
+Alfre_Woodard/peVZqDhzQhc_0000016 285.7 289.6 
+Alfre_Woodard/peVZqDhzQhc_0000017 342.2 347.2 
+Alfre_Woodard/peVZqDhzQhc_0000018 349.6 353.6 
+Alfre_Woodard/peVZqDhzQhc_0000019 358.3 366.2 
+Alfre_Woodard/peVZqDhzQhc_0000020 369.2 377.8 

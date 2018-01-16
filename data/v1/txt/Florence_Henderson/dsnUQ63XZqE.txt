@@ -1,0 +1,14 @@
+POI: 			Florence_Henderson 
+Youtube ID: 	dsnUQ63XZqE 
+Video length: 	589.6 sec 
+Set (V): 		dev 
+ 
+Florence_Henderson/dsnUQ63XZqE_0000001 71.0 91.6 
+Florence_Henderson/dsnUQ63XZqE_0000002 222.0 228.4 
+Florence_Henderson/dsnUQ63XZqE_0000003 266.8 279.2 
+Florence_Henderson/dsnUQ63XZqE_0000004 324.5 336.8 
+Florence_Henderson/dsnUQ63XZqE_0000005 347.6 352.9 
+Florence_Henderson/dsnUQ63XZqE_0000006 417.0 430.9 
+Florence_Henderson/dsnUQ63XZqE_0000007 466.2 477.4 
+Florence_Henderson/dsnUQ63XZqE_0000008 524.6 531.0 
+Florence_Henderson/dsnUQ63XZqE_0000009 541.8 553.2 

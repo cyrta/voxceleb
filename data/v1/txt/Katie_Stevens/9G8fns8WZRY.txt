@@ -1,0 +1,10 @@
+POI: 			Katie_Stevens 
+Youtube ID: 	9G8fns8WZRY 
+Video length: 	295.6 sec 
+Set (V): 		dev 
+ 
+Katie_Stevens/9G8fns8WZRY_0000001 102.4 111.0 
+Katie_Stevens/9G8fns8WZRY_0000002 114.3 122.3 
+Katie_Stevens/9G8fns8WZRY_0000003 124.6 137.8 
+Katie_Stevens/9G8fns8WZRY_0000004 271.9 281.9 
+Katie_Stevens/9G8fns8WZRY_0000005 283.0 288.8 

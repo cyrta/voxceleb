@@ -1,0 +1,9 @@
+POI: 			Neve_Campbell 
+Youtube ID: 	QADytC8HcDI 
+Video length: 	184.5 sec 
+Set (V): 		dev 
+ 
+Neve_Campbell/QADytC8HcDI_0000001 07.2 13.7 
+Neve_Campbell/QADytC8HcDI_0000002 16.0 25.9 
+Neve_Campbell/QADytC8HcDI_0000003 69.7 73.8 
+Neve_Campbell/QADytC8HcDI_0000004 75.4 81.7 

@@ -1,0 +1,8 @@
+POI: 			Odeya_Rush 
+Youtube ID: 	VQs-EdwgiHM 
+Video length: 	363.9 sec 
+Set (V): 		dev 
+ 
+Odeya_Rush/VQs-EdwgiHM_0000001 133.6 139.0 
+Odeya_Rush/VQs-EdwgiHM_0000002 140.3 149.2 
+Odeya_Rush/VQs-EdwgiHM_0000003 203.0 211.9 

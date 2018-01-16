@@ -1,0 +1,9 @@
+POI: 			Jerry_Ferrara 
+Youtube ID: 	swIG9KSwhTk 
+Video length: 	281.7 sec 
+Set (V): 		dev 
+ 
+Jerry_Ferrara/swIG9KSwhTk_0000001 12.2 16.5 
+Jerry_Ferrara/swIG9KSwhTk_0000002 87.8 95.2 
+Jerry_Ferrara/swIG9KSwhTk_0000003 232.7 236.6 
+Jerry_Ferrara/swIG9KSwhTk_0000004 251.9 256.4 

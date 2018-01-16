@@ -1,0 +1,16 @@
+POI: 			Rutger_Hauer 
+Youtube ID: 	c9fMIaKS3Rw 
+Video length: 	573.0 sec 
+Set (V): 		dev 
+ 
+Rutger_Hauer/c9fMIaKS3Rw_0000001 200.4 205.4 
+Rutger_Hauer/c9fMIaKS3Rw_0000002 257.5 267.9 
+Rutger_Hauer/c9fMIaKS3Rw_0000003 268.4 276.4 
+Rutger_Hauer/c9fMIaKS3Rw_0000004 279.1 285.6 
+Rutger_Hauer/c9fMIaKS3Rw_0000005 299.4 303.4 
+Rutger_Hauer/c9fMIaKS3Rw_0000006 323.5 329.2 
+Rutger_Hauer/c9fMIaKS3Rw_0000007 414.0 419.1 
+Rutger_Hauer/c9fMIaKS3Rw_0000008 433.2 438.5 
+Rutger_Hauer/c9fMIaKS3Rw_0000009 476.1 483.5 
+Rutger_Hauer/c9fMIaKS3Rw_0000010 543.0 548.4 
+Rutger_Hauer/c9fMIaKS3Rw_0000011 555.7 567.8 

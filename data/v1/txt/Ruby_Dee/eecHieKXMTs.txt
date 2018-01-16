@@ -1,0 +1,10 @@
+POI: 			Ruby_Dee 
+Youtube ID: 	eecHieKXMTs 
+Video length: 	90.9 sec 
+Set (V): 		dev 
+ 
+Ruby_Dee/eecHieKXMTs_0000001 10.1 18.8 
+Ruby_Dee/eecHieKXMTs_0000002 21.1 29.0 
+Ruby_Dee/eecHieKXMTs_0000003 38.0 46.6 
+Ruby_Dee/eecHieKXMTs_0000004 47.0 58.8 
+Ruby_Dee/eecHieKXMTs_0000005 59.8 74.6 

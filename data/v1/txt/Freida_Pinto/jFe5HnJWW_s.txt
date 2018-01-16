@@ -1,0 +1,10 @@
+POI: 			Freida_Pinto 
+Youtube ID: 	jFe5HnJWW_s 
+Video length: 	76.8 sec 
+Set (V): 		dev 
+ 
+Freida_Pinto/jFe5HnJWW_s_0000001 05.2 20.0 
+Freida_Pinto/jFe5HnJWW_s_0000002 20.3 29.4 
+Freida_Pinto/jFe5HnJWW_s_0000003 31.8 51.3 
+Freida_Pinto/jFe5HnJWW_s_0000004 54.2 62.4 
+Freida_Pinto/jFe5HnJWW_s_0000005 55.7 67.5 

@@ -1,0 +1,20 @@
+POI: 			Marla_Gibbs 
+Youtube ID: 	XeX6twtgJhY 
+Video length: 	238.1 sec 
+Set (V): 		dev 
+ 
+Marla_Gibbs/XeX6twtgJhY_0000001 06.0 15.3 
+Marla_Gibbs/XeX6twtgJhY_0000002 16.1 23.0 
+Marla_Gibbs/XeX6twtgJhY_0000003 24.2 33.0 
+Marla_Gibbs/XeX6twtgJhY_0000004 47.8 54.8 
+Marla_Gibbs/XeX6twtgJhY_0000005 59.6 73.1 
+Marla_Gibbs/XeX6twtgJhY_0000006 76.4 86.8 
+Marla_Gibbs/XeX6twtgJhY_0000007 88.2 108.2 
+Marla_Gibbs/XeX6twtgJhY_0000008 110.2 133.5 
+Marla_Gibbs/XeX6twtgJhY_0000009 134.8 142.6 
+Marla_Gibbs/XeX6twtgJhY_0000010 143.2 148.6 
+Marla_Gibbs/XeX6twtgJhY_0000011 148.9 159.7 
+Marla_Gibbs/XeX6twtgJhY_0000012 167.4 183.6 
+Marla_Gibbs/XeX6twtgJhY_0000013 184.0 188.7 
+Marla_Gibbs/XeX6twtgJhY_0000014 188.8 220.9 
+Marla_Gibbs/XeX6twtgJhY_0000015 221.1 228.8 

@@ -1,0 +1,19 @@
+POI: 			Hugh_Laurie 
+Youtube ID: 	l-EXYid_E_w 
+Video length: 	294.1 sec 
+Set (V): 		dev 
+ 
+Hugh_Laurie/l-EXYid_E_w_0000001 93.2 104.7 
+Hugh_Laurie/l-EXYid_E_w_0000002 105.0 113.5 
+Hugh_Laurie/l-EXYid_E_w_0000003 117.3 129.4 
+Hugh_Laurie/l-EXYid_E_w_0000004 148.3 152.5 
+Hugh_Laurie/l-EXYid_E_w_0000005 148.2 153.3 
+Hugh_Laurie/l-EXYid_E_w_0000006 170.7 178.8 
+Hugh_Laurie/l-EXYid_E_w_0000007 185.3 190.8 
+Hugh_Laurie/l-EXYid_E_w_0000008 199.4 209.9 
+Hugh_Laurie/l-EXYid_E_w_0000009 213.3 219.0 
+Hugh_Laurie/l-EXYid_E_w_0000010 220.5 237.5 
+Hugh_Laurie/l-EXYid_E_w_0000011 239.1 262.1 
+Hugh_Laurie/l-EXYid_E_w_0000012 262.6 270.4 
+Hugh_Laurie/l-EXYid_E_w_0000013 280.7 286.4 
+Hugh_Laurie/l-EXYid_E_w_0000014 287.6 292.7 

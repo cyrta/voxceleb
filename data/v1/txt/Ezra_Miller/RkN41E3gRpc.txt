@@ -1,0 +1,11 @@
+POI: 			Ezra_Miller 
+Youtube ID: 	RkN41E3gRpc 
+Video length: 	211.5 sec 
+Set (V): 		test 
+ 
+Ezra_Miller/RkN41E3gRpc_0000001 35.4 40.3 
+Ezra_Miller/RkN41E3gRpc_0000002 59.2 66.8 
+Ezra_Miller/RkN41E3gRpc_0000003 93.9 98.7 
+Ezra_Miller/RkN41E3gRpc_0000004 102.3 108.0 
+Ezra_Miller/RkN41E3gRpc_0000005 157.9 164.3 
+Ezra_Miller/RkN41E3gRpc_0000006 191.7 198.7 

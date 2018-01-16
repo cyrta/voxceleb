@@ -1,0 +1,12 @@
+POI: 			Candice_Accola 
+Youtube ID: 	VUQmcsrbtkg 
+Video length: 	135.7 sec 
+Set (V): 		dev 
+ 
+Candice_Accola/VUQmcsrbtkg_0000001 23.0 29.5 
+Candice_Accola/VUQmcsrbtkg_0000002 32.3 36.5 
+Candice_Accola/VUQmcsrbtkg_0000003 28.2 32.3 
+Candice_Accola/VUQmcsrbtkg_0000004 50.5 55.0 
+Candice_Accola/VUQmcsrbtkg_0000005 55.9 62.2 
+Candice_Accola/VUQmcsrbtkg_0000006 91.9 97.2 
+Candice_Accola/VUQmcsrbtkg_0000007 96.7 102.2 

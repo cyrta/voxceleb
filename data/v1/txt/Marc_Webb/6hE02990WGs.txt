@@ -1,0 +1,10 @@
+POI: 			Marc_Webb 
+Youtube ID: 	6hE02990WGs 
+Video length: 	100.5 sec 
+Set (V): 		dev 
+ 
+Marc_Webb/6hE02990WGs_0000001 18.0 23.3 
+Marc_Webb/6hE02990WGs_0000002 24.0 30.2 
+Marc_Webb/6hE02990WGs_0000003 60.5 69.3 
+Marc_Webb/6hE02990WGs_0000004 77.8 81.8 
+Marc_Webb/6hE02990WGs_0000005 86.2 90.5 

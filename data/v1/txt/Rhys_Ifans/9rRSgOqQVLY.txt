@@ -1,0 +1,14 @@
+POI: 			Rhys_Ifans 
+Youtube ID: 	9rRSgOqQVLY 
+Video length: 	267.8 sec 
+Set (V): 		dev 
+ 
+Rhys_Ifans/9rRSgOqQVLY_0000001 20.0 26.2 
+Rhys_Ifans/9rRSgOqQVLY_0000002 34.5 38.6 
+Rhys_Ifans/9rRSgOqQVLY_0000003 45.4 50.5 
+Rhys_Ifans/9rRSgOqQVLY_0000004 124.0 128.2 
+Rhys_Ifans/9rRSgOqQVLY_0000005 136.6 142.2 
+Rhys_Ifans/9rRSgOqQVLY_0000006 170.8 183.9 
+Rhys_Ifans/9rRSgOqQVLY_0000007 214.4 218.6 
+Rhys_Ifans/9rRSgOqQVLY_0000008 235.0 239.0 
+Rhys_Ifans/9rRSgOqQVLY_0000009 251.2 257.2 

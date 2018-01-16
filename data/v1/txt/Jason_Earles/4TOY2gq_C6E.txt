@@ -1,0 +1,7 @@
+POI: 			Jason_Earles 
+Youtube ID: 	4TOY2gq_C6E 
+Video length: 	151.0 sec 
+Set (V): 		dev 
+ 
+Jason_Earles/4TOY2gq_C6E_0000001 110.2 118.4 
+Jason_Earles/4TOY2gq_C6E_0000002 113.4 127.0 

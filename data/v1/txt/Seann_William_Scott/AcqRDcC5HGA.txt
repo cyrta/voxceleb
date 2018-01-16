@@ -1,0 +1,12 @@
+POI: 			Seann_William_Scott 
+Youtube ID: 	AcqRDcC5HGA 
+Video length: 	222.0 sec 
+Set (V): 		dev 
+ 
+Seann_William_Scott/AcqRDcC5HGA_0000001 05.2 09.3 
+Seann_William_Scott/AcqRDcC5HGA_0000002 92.2 96.5 
+Seann_William_Scott/AcqRDcC5HGA_0000003 117.2 121.8 
+Seann_William_Scott/AcqRDcC5HGA_0000004 128.0 132.1 
+Seann_William_Scott/AcqRDcC5HGA_0000005 159.3 166.0 
+Seann_William_Scott/AcqRDcC5HGA_0000006 166.1 177.2 
+Seann_William_Scott/AcqRDcC5HGA_0000007 189.4 202.3 

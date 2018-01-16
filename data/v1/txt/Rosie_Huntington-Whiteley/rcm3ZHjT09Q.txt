@@ -1,0 +1,12 @@
+POI: 			Rosie_Huntington-Whiteley 
+Youtube ID: 	rcm3ZHjT09Q 
+Video length: 	180.6 sec 
+Set (V): 		dev 
+ 
+Rosie_Huntington-Whiteley/rcm3ZHjT09Q_0000001 35.2 44.7 
+Rosie_Huntington-Whiteley/rcm3ZHjT09Q_0000002 48.0 52.6 
+Rosie_Huntington-Whiteley/rcm3ZHjT09Q_0000003 97.8 102.1 
+Rosie_Huntington-Whiteley/rcm3ZHjT09Q_0000004 110.4 117.3 
+Rosie_Huntington-Whiteley/rcm3ZHjT09Q_0000005 124.3 129.2 
+Rosie_Huntington-Whiteley/rcm3ZHjT09Q_0000006 135.7 142.8 
+Rosie_Huntington-Whiteley/rcm3ZHjT09Q_0000007 158.4 169.0 

@@ -1,0 +1,14 @@
+POI: 			Chris_Messina 
+Youtube ID: 	dzhM9Oss-jE 
+Video length: 	129.1 sec 
+Set (V): 		dev 
+ 
+Chris_Messina/dzhM9Oss-jE_0000001 08.9 13.6 
+Chris_Messina/dzhM9Oss-jE_0000002 16.7 25.0 
+Chris_Messina/dzhM9Oss-jE_0000003 28.6 41.5 
+Chris_Messina/dzhM9Oss-jE_0000004 44.7 51.6 
+Chris_Messina/dzhM9Oss-jE_0000005 52.2 57.2 
+Chris_Messina/dzhM9Oss-jE_0000006 60.8 70.0 
+Chris_Messina/dzhM9Oss-jE_0000007 73.1 78.8 
+Chris_Messina/dzhM9Oss-jE_0000008 85.2 93.2 
+Chris_Messina/dzhM9Oss-jE_0000009 94.0 105.0 

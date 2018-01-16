@@ -1,0 +1,11 @@
+POI: 			Sally_Hawkins 
+Youtube ID: 	evIiAHCRaU4 
+Video length: 	2147.3 sec 
+Set (V): 		dev 
+ 
+Sally_Hawkins/evIiAHCRaU4_0000001 608.8 617.5 
+Sally_Hawkins/evIiAHCRaU4_0000002 619.8 627.2 
+Sally_Hawkins/evIiAHCRaU4_0000003 628.0 632.7 
+Sally_Hawkins/evIiAHCRaU4_0000004 633.7 640.2 
+Sally_Hawkins/evIiAHCRaU4_0000005 646.2 652.2 
+Sally_Hawkins/evIiAHCRaU4_0000006 1816.5 1821.8 

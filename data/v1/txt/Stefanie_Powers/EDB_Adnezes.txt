@@ -1,0 +1,9 @@
+POI: 			Stefanie_Powers 
+Youtube ID: 	EDB_Adnezes 
+Video length: 	300.0 sec 
+Set (V): 		dev 
+ 
+Stefanie_Powers/EDB_Adnezes_0000001 186.4 191.7 
+Stefanie_Powers/EDB_Adnezes_0000002 194.4 200.2 
+Stefanie_Powers/EDB_Adnezes_0000003 200.5 206.2 
+Stefanie_Powers/EDB_Adnezes_0000004 218.5 224.8 

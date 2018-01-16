@@ -1,0 +1,28 @@
+POI: 			Damon_Lindelof 
+Youtube ID: 	SPJXLhtgrrg 
+Video length: 	1608.9 sec 
+Set (V): 		dev 
+ 
+Damon_Lindelof/SPJXLhtgrrg_0000001 189.7 196.8 
+Damon_Lindelof/SPJXLhtgrrg_0000002 199.4 203.6 
+Damon_Lindelof/SPJXLhtgrrg_0000003 209.0 217.5 
+Damon_Lindelof/SPJXLhtgrrg_0000004 259.5 264.9 
+Damon_Lindelof/SPJXLhtgrrg_0000005 344.9 356.0 
+Damon_Lindelof/SPJXLhtgrrg_0000006 356.7 361.2 
+Damon_Lindelof/SPJXLhtgrrg_0000007 363.7 367.7 
+Damon_Lindelof/SPJXLhtgrrg_0000008 367.8 372.3 
+Damon_Lindelof/SPJXLhtgrrg_0000009 539.1 544.6 
+Damon_Lindelof/SPJXLhtgrrg_0000010 546.9 552.4 
+Damon_Lindelof/SPJXLhtgrrg_0000011 556.0 571.3 
+Damon_Lindelof/SPJXLhtgrrg_0000012 592.0 597.8 
+Damon_Lindelof/SPJXLhtgrrg_0000013 599.1 606.6 
+Damon_Lindelof/SPJXLhtgrrg_0000014 613.4 623.4 
+Damon_Lindelof/SPJXLhtgrrg_0000015 629.3 643.4 
+Damon_Lindelof/SPJXLhtgrrg_0000016 776.6 780.8 
+Damon_Lindelof/SPJXLhtgrrg_0000017 790.3 799.0 
+Damon_Lindelof/SPJXLhtgrrg_0000018 832.8 838.1 
+Damon_Lindelof/SPJXLhtgrrg_0000019 878.1 885.8 
+Damon_Lindelof/SPJXLhtgrrg_0000020 898.2 902.6 
+Damon_Lindelof/SPJXLhtgrrg_0000021 1000.0 1017.8 
+Damon_Lindelof/SPJXLhtgrrg_0000022 1010.7 1017.9 
+Damon_Lindelof/SPJXLhtgrrg_0000023 1023.9 1029.8 

@@ -1,0 +1,25 @@
+POI: 			Lesley_Manville 
+Youtube ID: 	KViv-v2WVa8 
+Video length: 	326.3 sec 
+Set (V): 		dev 
+ 
+Lesley_Manville/KViv-v2WVa8_0000001 12.7 18.6 
+Lesley_Manville/KViv-v2WVa8_0000002 24.8 31.3 
+Lesley_Manville/KViv-v2WVa8_0000003 31.9 35.9 
+Lesley_Manville/KViv-v2WVa8_0000004 37.4 47.6 
+Lesley_Manville/KViv-v2WVa8_0000005 89.1 99.0 
+Lesley_Manville/KViv-v2WVa8_0000006 107.1 118.4 
+Lesley_Manville/KViv-v2WVa8_0000007 124.6 132.6 
+Lesley_Manville/KViv-v2WVa8_0000008 148.3 158.2 
+Lesley_Manville/KViv-v2WVa8_0000009 164.9 169.6 
+Lesley_Manville/KViv-v2WVa8_0000010 173.2 181.4 
+Lesley_Manville/KViv-v2WVa8_0000011 181.8 191.2 
+Lesley_Manville/KViv-v2WVa8_0000012 192.7 196.8 
+Lesley_Manville/KViv-v2WVa8_0000013 198.8 203.0 
+Lesley_Manville/KViv-v2WVa8_0000014 209.7 219.3 
+Lesley_Manville/KViv-v2WVa8_0000015 247.4 256.2 
+Lesley_Manville/KViv-v2WVa8_0000016 256.9 264.2 
+Lesley_Manville/KViv-v2WVa8_0000017 267.1 278.1 
+Lesley_Manville/KViv-v2WVa8_0000018 291.5 298.9 
+Lesley_Manville/KViv-v2WVa8_0000019 300.0 304.3 
+Lesley_Manville/KViv-v2WVa8_0000020 308.7 316.7 

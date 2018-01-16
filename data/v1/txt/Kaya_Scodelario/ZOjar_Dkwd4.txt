@@ -1,0 +1,10 @@
+POI: 			Kaya_Scodelario 
+Youtube ID: 	ZOjar_Dkwd4 
+Video length: 	198.8 sec 
+Set (V): 		dev 
+ 
+Kaya_Scodelario/ZOjar_Dkwd4_0000001 18.7 22.6 
+Kaya_Scodelario/ZOjar_Dkwd4_0000002 36.9 53.0 
+Kaya_Scodelario/ZOjar_Dkwd4_0000003 57.5 67.3 
+Kaya_Scodelario/ZOjar_Dkwd4_0000004 91.3 101.5 
+Kaya_Scodelario/ZOjar_Dkwd4_0000005 155.2 160.4 

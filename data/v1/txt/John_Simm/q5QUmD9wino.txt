@@ -1,0 +1,7 @@
+POI: 			John_Simm 
+Youtube ID: 	q5QUmD9wino 
+Video length: 	123.4 sec 
+Set (V): 		dev 
+ 
+John_Simm/q5QUmD9wino_0000001 10.0 15.5 
+John_Simm/q5QUmD9wino_0000002 56.1 61.6 

@@ -1,0 +1,14 @@
+POI: 			Kendra_Wilkinson 
+Youtube ID: 	6NlXIiaJQZw 
+Video length: 	145.4 sec 
+Set (V): 		dev 
+ 
+Kendra_Wilkinson/6NlXIiaJQZw_0000001 12.0 17.5 
+Kendra_Wilkinson/6NlXIiaJQZw_0000002 18.0 28.2 
+Kendra_Wilkinson/6NlXIiaJQZw_0000003 28.8 33.7 
+Kendra_Wilkinson/6NlXIiaJQZw_0000004 34.4 38.4 
+Kendra_Wilkinson/6NlXIiaJQZw_0000005 40.3 46.8 
+Kendra_Wilkinson/6NlXIiaJQZw_0000006 56.2 60.9 
+Kendra_Wilkinson/6NlXIiaJQZw_0000007 109.7 114.1 
+Kendra_Wilkinson/6NlXIiaJQZw_0000008 120.8 129.0 
+Kendra_Wilkinson/6NlXIiaJQZw_0000009 129.1 135.2 

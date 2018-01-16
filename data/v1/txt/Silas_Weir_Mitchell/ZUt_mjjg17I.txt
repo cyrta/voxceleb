@@ -1,0 +1,7 @@
+POI: 			Silas_Weir_Mitchell 
+Youtube ID: 	ZUt_mjjg17I 
+Video length: 	104.2 sec 
+Set (V): 		dev 
+ 
+Silas_Weir_Mitchell/ZUt_mjjg17I_0000001 74.8 84.6 
+Silas_Weir_Mitchell/ZUt_mjjg17I_0000002 91.6 95.8 

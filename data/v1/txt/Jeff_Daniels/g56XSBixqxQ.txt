@@ -1,0 +1,7 @@
+POI: 			Jeff_Daniels 
+Youtube ID: 	g56XSBixqxQ 
+Video length: 	263.1 sec 
+Set (V): 		dev 
+ 
+Jeff_Daniels/g56XSBixqxQ_0000001 09.8 13.8 
+Jeff_Daniels/g56XSBixqxQ_0000002 187.8 192.7 

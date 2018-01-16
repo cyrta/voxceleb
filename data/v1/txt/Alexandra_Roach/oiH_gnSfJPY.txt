@@ -1,0 +1,13 @@
+POI: 			Alexandra_Roach 
+Youtube ID: 	oiH_gnSfJPY 
+Video length: 	420.4 sec 
+Set (V): 		dev 
+ 
+Alexandra_Roach/oiH_gnSfJPY_0000001 132.1 140.1 
+Alexandra_Roach/oiH_gnSfJPY_0000002 144.4 153.0 
+Alexandra_Roach/oiH_gnSfJPY_0000003 189.0 215.0 
+Alexandra_Roach/oiH_gnSfJPY_0000004 216.9 229.7 
+Alexandra_Roach/oiH_gnSfJPY_0000005 233.6 241.8 
+Alexandra_Roach/oiH_gnSfJPY_0000006 337.9 360.2 
+Alexandra_Roach/oiH_gnSfJPY_0000007 363.2 368.6 
+Alexandra_Roach/oiH_gnSfJPY_0000008 370.8 393.4 

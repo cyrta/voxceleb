@@ -1,0 +1,8 @@
+POI: 			David_Mamet 
+Youtube ID: 	pIio8Jt7yLw 
+Video length: 	382.7 sec 
+Set (V): 		dev 
+ 
+David_Mamet/pIio8Jt7yLw_0000001 132.0 139.9 
+David_Mamet/pIio8Jt7yLw_0000002 149.0 155.3 
+David_Mamet/pIio8Jt7yLw_0000003 185.6 192.0 

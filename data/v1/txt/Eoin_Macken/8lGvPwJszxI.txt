@@ -1,0 +1,9 @@
+POI: 			Eoin_Macken 
+Youtube ID: 	8lGvPwJszxI 
+Video length: 	93.2 sec 
+Set (V): 		test 
+ 
+Eoin_Macken/8lGvPwJszxI_0000001 06.3 16.8 
+Eoin_Macken/8lGvPwJszxI_0000002 17.8 27.4 
+Eoin_Macken/8lGvPwJszxI_0000003 41.7 68.9 
+Eoin_Macken/8lGvPwJszxI_0000004 71.2 81.8 

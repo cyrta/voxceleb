@@ -1,0 +1,9 @@
+POI: 			Arden_Cho 
+Youtube ID: 	ZeAwsSSfTLY 
+Video length: 	1112.5 sec 
+Set (V): 		dev 
+ 
+Arden_Cho/ZeAwsSSfTLY_0000001 123.2 129.3 
+Arden_Cho/ZeAwsSSfTLY_0000002 298.2 305.8 
+Arden_Cho/ZeAwsSSfTLY_0000003 308.6 315.6 
+Arden_Cho/ZeAwsSSfTLY_0000004 398.2 402.1 

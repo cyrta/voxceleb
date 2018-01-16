@@ -1,0 +1,12 @@
+POI: 			John_Gallagher_Jr. 
+Youtube ID: 	pEe8d5c-h_Q 
+Video length: 	228.6 sec 
+Set (V): 		dev 
+ 
+John_Gallagher_Jr./pEe8d5c-h_Q_0000001 12.0 27.4 
+John_Gallagher_Jr./pEe8d5c-h_Q_0000002 23.6 52.4 
+John_Gallagher_Jr./pEe8d5c-h_Q_0000003 63.7 100.0 
+John_Gallagher_Jr./pEe8d5c-h_Q_0000004 109.3 120.8 
+John_Gallagher_Jr./pEe8d5c-h_Q_0000005 121.2 141.9 
+John_Gallagher_Jr./pEe8d5c-h_Q_0000006 160.9 191.2 
+John_Gallagher_Jr./pEe8d5c-h_Q_0000007 197.6 225.8 

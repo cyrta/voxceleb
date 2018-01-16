@@ -1,0 +1,15 @@
+POI: 			Kuno_Becker 
+Youtube ID: 	2L7l_0T4VjA 
+Video length: 	412.0 sec 
+Set (V): 		dev 
+ 
+Kuno_Becker/2L7l_0T4VjA_0000001 16.0 20.1 
+Kuno_Becker/2L7l_0T4VjA_0000002 103.5 107.7 
+Kuno_Becker/2L7l_0T4VjA_0000003 150.0 185.6 
+Kuno_Becker/2L7l_0T4VjA_0000004 212.7 222.9 
+Kuno_Becker/2L7l_0T4VjA_0000005 233.7 238.7 
+Kuno_Becker/2L7l_0T4VjA_0000006 261.7 272.0 
+Kuno_Becker/2L7l_0T4VjA_0000007 309.7 315.7 
+Kuno_Becker/2L7l_0T4VjA_0000008 338.2 342.7 
+Kuno_Becker/2L7l_0T4VjA_0000009 357.4 362.9 
+Kuno_Becker/2L7l_0T4VjA_0000010 378.3 386.7 

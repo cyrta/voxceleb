@@ -1,0 +1,25 @@
+POI: 			Nazanin_Boniadi 
+Youtube ID: 	crHonW_ZWXQ 
+Video length: 	313.4 sec 
+Set (V): 		dev 
+ 
+Nazanin_Boniadi/crHonW_ZWXQ_0000001 06.2 14.5 
+Nazanin_Boniadi/crHonW_ZWXQ_0000002 21.0 28.5 
+Nazanin_Boniadi/crHonW_ZWXQ_0000003 31.0 37.6 
+Nazanin_Boniadi/crHonW_ZWXQ_0000004 41.3 59.4 
+Nazanin_Boniadi/crHonW_ZWXQ_0000005 60.5 67.7 
+Nazanin_Boniadi/crHonW_ZWXQ_0000006 67.8 89.4 
+Nazanin_Boniadi/crHonW_ZWXQ_0000007 103.7 107.7 
+Nazanin_Boniadi/crHonW_ZWXQ_0000008 115.6 121.3 
+Nazanin_Boniadi/crHonW_ZWXQ_0000009 130.5 151.1 
+Nazanin_Boniadi/crHonW_ZWXQ_0000010 154.2 161.2 
+Nazanin_Boniadi/crHonW_ZWXQ_0000011 161.6 181.7 
+Nazanin_Boniadi/crHonW_ZWXQ_0000012 182.1 186.4 
+Nazanin_Boniadi/crHonW_ZWXQ_0000013 188.5 193.4 
+Nazanin_Boniadi/crHonW_ZWXQ_0000014 196.1 204.7 
+Nazanin_Boniadi/crHonW_ZWXQ_0000015 207.9 212.9 
+Nazanin_Boniadi/crHonW_ZWXQ_0000016 214.7 230.8 
+Nazanin_Boniadi/crHonW_ZWXQ_0000017 239.0 243.8 
+Nazanin_Boniadi/crHonW_ZWXQ_0000018 244.8 250.0 
+Nazanin_Boniadi/crHonW_ZWXQ_0000019 266.6 280.4 
+Nazanin_Boniadi/crHonW_ZWXQ_0000020 280.9 286.8 

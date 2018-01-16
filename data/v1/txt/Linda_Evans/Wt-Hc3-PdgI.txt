@@ -1,0 +1,27 @@
+POI: 			Linda_Evans 
+Youtube ID: 	Wt-Hc3-PdgI 
+Video length: 	672.1 sec 
+Set (V): 		dev 
+ 
+Linda_Evans/Wt-Hc3-PdgI_0000001 24.6 30.0 
+Linda_Evans/Wt-Hc3-PdgI_0000002 229.5 234.4 
+Linda_Evans/Wt-Hc3-PdgI_0000003 244.0 252.1 
+Linda_Evans/Wt-Hc3-PdgI_0000004 255.4 266.2 
+Linda_Evans/Wt-Hc3-PdgI_0000005 282.1 293.5 
+Linda_Evans/Wt-Hc3-PdgI_0000006 297.4 303.8 
+Linda_Evans/Wt-Hc3-PdgI_0000007 304.4 313.6 
+Linda_Evans/Wt-Hc3-PdgI_0000008 351.2 356.0 
+Linda_Evans/Wt-Hc3-PdgI_0000009 369.6 375.9 
+Linda_Evans/Wt-Hc3-PdgI_0000010 381.0 387.0 
+Linda_Evans/Wt-Hc3-PdgI_0000011 391.5 397.0 
+Linda_Evans/Wt-Hc3-PdgI_0000012 424.3 430.4 
+Linda_Evans/Wt-Hc3-PdgI_0000013 439.6 447.0 
+Linda_Evans/Wt-Hc3-PdgI_0000014 478.2 484.2 
+Linda_Evans/Wt-Hc3-PdgI_0000015 521.8 526.9 
+Linda_Evans/Wt-Hc3-PdgI_0000016 527.0 534.5 
+Linda_Evans/Wt-Hc3-PdgI_0000017 539.9 556.4 
+Linda_Evans/Wt-Hc3-PdgI_0000018 559.5 578.5 
+Linda_Evans/Wt-Hc3-PdgI_0000019 583.2 588.5 
+Linda_Evans/Wt-Hc3-PdgI_0000020 595.4 608.2 
+Linda_Evans/Wt-Hc3-PdgI_0000021 653.1 658.0 
+Linda_Evans/Wt-Hc3-PdgI_0000022 658.7 670.1 

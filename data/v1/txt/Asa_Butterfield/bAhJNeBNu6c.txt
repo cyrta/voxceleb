@@ -1,0 +1,10 @@
+POI: 			Asa_Butterfield 
+Youtube ID: 	bAhJNeBNu6c 
+Video length: 	179.0 sec 
+Set (V): 		dev 
+ 
+Asa_Butterfield/bAhJNeBNu6c_0000001 37.6 43.0 
+Asa_Butterfield/bAhJNeBNu6c_0000002 100.2 114.2 
+Asa_Butterfield/bAhJNeBNu6c_0000003 136.4 142.4 
+Asa_Butterfield/bAhJNeBNu6c_0000004 143.0 148.3 
+Asa_Butterfield/bAhJNeBNu6c_0000005 148.5 157.0 

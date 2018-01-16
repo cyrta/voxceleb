@@ -1,0 +1,8 @@
+POI: 			Dylan_McDermott 
+Youtube ID: 	KDnGwU4mCeI 
+Video length: 	272.6 sec 
+Set (V): 		dev 
+ 
+Dylan_McDermott/KDnGwU4mCeI_0000001 32.2 37.5 
+Dylan_McDermott/KDnGwU4mCeI_0000002 220.2 225.8 
+Dylan_McDermott/KDnGwU4mCeI_0000003 227.2 232.1 

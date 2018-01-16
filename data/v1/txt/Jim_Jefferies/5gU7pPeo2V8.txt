@@ -1,0 +1,10 @@
+POI: 			Jim_Jefferies 
+Youtube ID: 	5gU7pPeo2V8 
+Video length: 	157.0 sec 
+Set (V): 		dev 
+ 
+Jim_Jefferies/5gU7pPeo2V8_0000001 28.3 36.0 
+Jim_Jefferies/5gU7pPeo2V8_0000002 42.6 49.0 
+Jim_Jefferies/5gU7pPeo2V8_0000003 64.8 71.4 
+Jim_Jefferies/5gU7pPeo2V8_0000004 84.4 90.2 
+Jim_Jefferies/5gU7pPeo2V8_0000005 93.4 97.4 

@@ -1,0 +1,19 @@
+POI: 			Nathan_Fillion 
+Youtube ID: 	XNnsKEyvZhE 
+Video length: 	216.4 sec 
+Set (V): 		dev 
+ 
+Nathan_Fillion/XNnsKEyvZhE_0000001 11.0 22.7 
+Nathan_Fillion/XNnsKEyvZhE_0000002 23.8 33.8 
+Nathan_Fillion/XNnsKEyvZhE_0000003 46.1 61.8 
+Nathan_Fillion/XNnsKEyvZhE_0000004 62.2 76.6 
+Nathan_Fillion/XNnsKEyvZhE_0000005 84.8 93.4 
+Nathan_Fillion/XNnsKEyvZhE_0000006 94.5 107.7 
+Nathan_Fillion/XNnsKEyvZhE_0000007 113.6 118.5 
+Nathan_Fillion/XNnsKEyvZhE_0000008 128.0 134.3 
+Nathan_Fillion/XNnsKEyvZhE_0000009 142.2 149.5 
+Nathan_Fillion/XNnsKEyvZhE_0000010 151.4 157.4 
+Nathan_Fillion/XNnsKEyvZhE_0000011 158.2 162.4 
+Nathan_Fillion/XNnsKEyvZhE_0000012 172.5 193.4 
+Nathan_Fillion/XNnsKEyvZhE_0000013 195.2 200.6 
+Nathan_Fillion/XNnsKEyvZhE_0000014 201.1 205.8 

@@ -1,0 +1,13 @@
+POI: 			Mariel_Hemingway 
+Youtube ID: 	ZiHOolivv3A 
+Video length: 	187.0 sec 
+Set (V): 		dev 
+ 
+Mariel_Hemingway/ZiHOolivv3A_0000001 19.6 23.7 
+Mariel_Hemingway/ZiHOolivv3A_0000002 26.0 32.7 
+Mariel_Hemingway/ZiHOolivv3A_0000003 87.6 91.7 
+Mariel_Hemingway/ZiHOolivv3A_0000004 98.0 104.5 
+Mariel_Hemingway/ZiHOolivv3A_0000005 110.5 115.8 
+Mariel_Hemingway/ZiHOolivv3A_0000006 128.3 133.5 
+Mariel_Hemingway/ZiHOolivv3A_0000007 142.3 146.4 
+Mariel_Hemingway/ZiHOolivv3A_0000008 159.2 178.4 

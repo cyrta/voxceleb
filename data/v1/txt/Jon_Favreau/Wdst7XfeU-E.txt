@@ -1,0 +1,21 @@
+POI: 			Jon_Favreau 
+Youtube ID: 	Wdst7XfeU-E 
+Video length: 	1948.1 sec 
+Set (V): 		dev 
+ 
+Jon_Favreau/Wdst7XfeU-E_0000001 79.1 83.1 
+Jon_Favreau/Wdst7XfeU-E_0000002 108.9 116.0 
+Jon_Favreau/Wdst7XfeU-E_0000003 233.6 242.6 
+Jon_Favreau/Wdst7XfeU-E_0000004 292.8 298.6 
+Jon_Favreau/Wdst7XfeU-E_0000005 475.4 480.2 
+Jon_Favreau/Wdst7XfeU-E_0000006 624.7 629.9 
+Jon_Favreau/Wdst7XfeU-E_0000007 656.0 663.0 
+Jon_Favreau/Wdst7XfeU-E_0000008 954.9 962.1 
+Jon_Favreau/Wdst7XfeU-E_0000009 1100.3 1105.5 
+Jon_Favreau/Wdst7XfeU-E_0000010 1177.1 1182.7 
+Jon_Favreau/Wdst7XfeU-E_0000011 1246.3 1251.5 
+Jon_Favreau/Wdst7XfeU-E_0000012 1267.3 1274.2 
+Jon_Favreau/Wdst7XfeU-E_0000013 1330.4 1339.8 
+Jon_Favreau/Wdst7XfeU-E_0000014 1612.4 1620.2 
+Jon_Favreau/Wdst7XfeU-E_0000015 1634.2 1638.8 
+Jon_Favreau/Wdst7XfeU-E_0000016 1773.4 1778.2 

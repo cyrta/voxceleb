@@ -1,0 +1,7 @@
+POI: 			Vincent_Martella 
+Youtube ID: 	ytuRwPcl4Hw 
+Video length: 	96.2 sec 
+Set (V): 		dev 
+ 
+Vincent_Martella/ytuRwPcl4Hw_0000001 30.3 35.0 
+Vincent_Martella/ytuRwPcl4Hw_0000002 81.2 85.2 

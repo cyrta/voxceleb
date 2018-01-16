@@ -1,0 +1,8 @@
+POI: 			Joanna_Lumley 
+Youtube ID: 	t-NGlfFmS1A 
+Video length: 	259.8 sec 
+Set (V): 		dev 
+ 
+Joanna_Lumley/t-NGlfFmS1A_0000001 25.5 31.2 
+Joanna_Lumley/t-NGlfFmS1A_0000002 62.5 67.6 
+Joanna_Lumley/t-NGlfFmS1A_0000003 95.9 109.5 

@@ -1,0 +1,13 @@
+POI: 			Maria_Menounos 
+Youtube ID: 	Fw4Fg2Y4D2U 
+Video length: 	3739.4 sec 
+Set (V): 		dev 
+ 
+Maria_Menounos/Fw4Fg2Y4D2U_0000001 05.0 65.5 
+Maria_Menounos/Fw4Fg2Y4D2U_0000002 67.5 72.4 
+Maria_Menounos/Fw4Fg2Y4D2U_0000003 114.1 120.6 
+Maria_Menounos/Fw4Fg2Y4D2U_0000004 250.7 256.2 
+Maria_Menounos/Fw4Fg2Y4D2U_0000005 258.6 263.0 
+Maria_Menounos/Fw4Fg2Y4D2U_0000006 1202.9 1209.4 
+Maria_Menounos/Fw4Fg2Y4D2U_0000007 1859.6 1863.8 
+Maria_Menounos/Fw4Fg2Y4D2U_0000008 3694.6 3704.3 

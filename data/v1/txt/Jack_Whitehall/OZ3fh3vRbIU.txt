@@ -1,0 +1,7 @@
+POI: 			Jack_Whitehall 
+Youtube ID: 	OZ3fh3vRbIU 
+Video length: 	147.1 sec 
+Set (V): 		dev 
+ 
+Jack_Whitehall/OZ3fh3vRbIU_0000001 87.5 91.5 
+Jack_Whitehall/OZ3fh3vRbIU_0000002 98.0 102.6 

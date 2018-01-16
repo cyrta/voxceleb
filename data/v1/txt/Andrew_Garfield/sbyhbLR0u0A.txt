@@ -1,0 +1,8 @@
+POI: 			Andrew_Garfield 
+Youtube ID: 	sbyhbLR0u0A 
+Video length: 	365.5 sec 
+Set (V): 		dev 
+ 
+Andrew_Garfield/sbyhbLR0u0A_0000001 123.4 129.0 
+Andrew_Garfield/sbyhbLR0u0A_0000002 280.1 295.4 
+Andrew_Garfield/sbyhbLR0u0A_0000003 325.1 330.6 

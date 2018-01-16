@@ -1,0 +1,8 @@
+POI: 			Rami_Malek 
+Youtube ID: 	QFNrq9MHxBU 
+Video length: 	149.1 sec 
+Set (V): 		dev 
+ 
+Rami_Malek/QFNrq9MHxBU_0000001 39.7 44.8 
+Rami_Malek/QFNrq9MHxBU_0000002 52.0 59.0 
+Rami_Malek/QFNrq9MHxBU_0000003 112.5 116.9 

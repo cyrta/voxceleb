@@ -1,0 +1,13 @@
+POI: 			Jeremy_Piven 
+Youtube ID: 	Uz1pUgJUdYM 
+Video length: 	274.5 sec 
+Set (V): 		dev 
+ 
+Jeremy_Piven/Uz1pUgJUdYM_0000001 25.0 30.7 
+Jeremy_Piven/Uz1pUgJUdYM_0000002 57.4 64.8 
+Jeremy_Piven/Uz1pUgJUdYM_0000003 97.7 102.6 
+Jeremy_Piven/Uz1pUgJUdYM_0000004 120.2 124.8 
+Jeremy_Piven/Uz1pUgJUdYM_0000005 148.6 152.6 
+Jeremy_Piven/Uz1pUgJUdYM_0000006 169.6 176.9 
+Jeremy_Piven/Uz1pUgJUdYM_0000007 178.2 183.6 
+Jeremy_Piven/Uz1pUgJUdYM_0000008 225.0 229.2 

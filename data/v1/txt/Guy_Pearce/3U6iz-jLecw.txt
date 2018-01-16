@@ -1,0 +1,7 @@
+POI: 			Guy_Pearce 
+Youtube ID: 	3U6iz-jLecw 
+Video length: 	31.9 sec 
+Set (V): 		dev 
+ 
+Guy_Pearce/3U6iz-jLecw_0000001 00.8 16.5 
+Guy_Pearce/3U6iz-jLecw_0000002 19.4 30.1 

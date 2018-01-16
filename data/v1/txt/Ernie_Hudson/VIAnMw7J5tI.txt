@@ -1,0 +1,15 @@
+POI: 			Ernie_Hudson 
+Youtube ID: 	VIAnMw7J5tI 
+Video length: 	160.6 sec 
+Set (V): 		test 
+ 
+Ernie_Hudson/VIAnMw7J5tI_0000001 07.0 14.1 
+Ernie_Hudson/VIAnMw7J5tI_0000002 16.3 21.9 
+Ernie_Hudson/VIAnMw7J5tI_0000003 25.4 32.4 
+Ernie_Hudson/VIAnMw7J5tI_0000004 54.2 59.8 
+Ernie_Hudson/VIAnMw7J5tI_0000005 62.8 71.0 
+Ernie_Hudson/VIAnMw7J5tI_0000006 87.8 91.8 
+Ernie_Hudson/VIAnMw7J5tI_0000007 114.3 118.2 
+Ernie_Hudson/VIAnMw7J5tI_0000008 121.7 126.0 
+Ernie_Hudson/VIAnMw7J5tI_0000009 129.8 137.1 
+Ernie_Hudson/VIAnMw7J5tI_0000010 147.9 154.5 

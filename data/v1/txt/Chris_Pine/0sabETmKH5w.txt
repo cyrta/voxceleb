@@ -1,0 +1,9 @@
+POI: 			Chris_Pine 
+Youtube ID: 	0sabETmKH5w 
+Video length: 	245.2 sec 
+Set (V): 		dev 
+ 
+Chris_Pine/0sabETmKH5w_0000001 48.2 55.1 
+Chris_Pine/0sabETmKH5w_0000002 61.6 66.8 
+Chris_Pine/0sabETmKH5w_0000003 86.8 91.0 
+Chris_Pine/0sabETmKH5w_0000004 160.2 164.6 

@@ -1,0 +1,8 @@
+POI: 			Ernie_Hudson 
+Youtube ID: 	BVFTRGHuk3M 
+Video length: 	137.6 sec 
+Set (V): 		test 
+ 
+Ernie_Hudson/BVFTRGHuk3M_0000001 44.2 49.0 
+Ernie_Hudson/BVFTRGHuk3M_0000002 63.1 70.1 
+Ernie_Hudson/BVFTRGHuk3M_0000003 108.6 121.6 

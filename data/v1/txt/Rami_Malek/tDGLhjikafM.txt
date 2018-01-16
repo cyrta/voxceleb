@@ -1,0 +1,8 @@
+POI: 			Rami_Malek 
+Youtube ID: 	tDGLhjikafM 
+Video length: 	191.2 sec 
+Set (V): 		dev 
+ 
+Rami_Malek/tDGLhjikafM_0000001 09.6 13.7 
+Rami_Malek/tDGLhjikafM_0000002 41.9 50.9 
+Rami_Malek/tDGLhjikafM_0000003 74.0 83.4 

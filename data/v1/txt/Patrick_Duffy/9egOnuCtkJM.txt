@@ -1,0 +1,12 @@
+POI: 			Patrick_Duffy 
+Youtube ID: 	9egOnuCtkJM 
+Video length: 	295.3 sec 
+Set (V): 		dev 
+ 
+Patrick_Duffy/9egOnuCtkJM_0000001 09.9 14.2 
+Patrick_Duffy/9egOnuCtkJM_0000002 16.8 32.0 
+Patrick_Duffy/9egOnuCtkJM_0000003 42.6 57.0 
+Patrick_Duffy/9egOnuCtkJM_0000004 57.8 79.3 
+Patrick_Duffy/9egOnuCtkJM_0000005 102.0 114.2 
+Patrick_Duffy/9egOnuCtkJM_0000006 228.9 261.2 
+Patrick_Duffy/9egOnuCtkJM_0000007 253.6 258.9 

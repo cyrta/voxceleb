@@ -1,0 +1,18 @@
+POI: 			James_Marsden 
+Youtube ID: 	UJhjR3k7ufA 
+Video length: 	278.8 sec 
+Set (V): 		dev 
+ 
+James_Marsden/UJhjR3k7ufA_0000001 36.6 41.2 
+James_Marsden/UJhjR3k7ufA_0000002 42.8 56.2 
+James_Marsden/UJhjR3k7ufA_0000003 57.4 62.2 
+James_Marsden/UJhjR3k7ufA_0000004 65.3 72.5 
+James_Marsden/UJhjR3k7ufA_0000005 85.6 90.3 
+James_Marsden/UJhjR3k7ufA_0000006 98.4 106.9 
+James_Marsden/UJhjR3k7ufA_0000007 107.2 118.5 
+James_Marsden/UJhjR3k7ufA_0000008 119.3 125.7 
+James_Marsden/UJhjR3k7ufA_0000009 139.7 152.7 
+James_Marsden/UJhjR3k7ufA_0000010 154.5 163.8 
+James_Marsden/UJhjR3k7ufA_0000011 166.3 187.8 
+James_Marsden/UJhjR3k7ufA_0000012 196.4 206.5 
+James_Marsden/UJhjR3k7ufA_0000013 207.2 212.8 

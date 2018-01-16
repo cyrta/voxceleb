@@ -1,0 +1,16 @@
+POI: 			Martin_Henderson 
+Youtube ID: 	L4mIdB51Rtw 
+Video length: 	729.3 sec 
+Set (V): 		dev 
+ 
+Martin_Henderson/L4mIdB51Rtw_0000001 113.7 119.6 
+Martin_Henderson/L4mIdB51Rtw_0000002 121.0 125.9 
+Martin_Henderson/L4mIdB51Rtw_0000003 359.4 365.7 
+Martin_Henderson/L4mIdB51Rtw_0000004 411.9 417.6 
+Martin_Henderson/L4mIdB51Rtw_0000005 418.1 422.4 
+Martin_Henderson/L4mIdB51Rtw_0000006 455.2 460.4 
+Martin_Henderson/L4mIdB51Rtw_0000007 463.1 470.2 
+Martin_Henderson/L4mIdB51Rtw_0000008 471.5 476.0 
+Martin_Henderson/L4mIdB51Rtw_0000009 511.7 517.6 
+Martin_Henderson/L4mIdB51Rtw_0000010 535.8 540.8 
+Martin_Henderson/L4mIdB51Rtw_0000011 714.4 719.0 

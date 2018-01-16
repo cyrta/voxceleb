@@ -1,0 +1,9 @@
+POI: 			Derek_Mears 
+Youtube ID: 	rnBtPlsNysw 
+Video length: 	587.4 sec 
+Set (V): 		dev 
+ 
+Derek_Mears/rnBtPlsNysw_0000001 264.4 271.9 
+Derek_Mears/rnBtPlsNysw_0000002 287.1 297.2 
+Derek_Mears/rnBtPlsNysw_0000003 298.8 303.2 
+Derek_Mears/rnBtPlsNysw_0000004 522.1 532.0 

@@ -1,0 +1,11 @@
+POI: 			John_Cho 
+Youtube ID: 	ntpwG9yp9Iw 
+Video length: 	393.3 sec 
+Set (V): 		dev 
+ 
+John_Cho/ntpwG9yp9Iw_0000001 56.1 60.6 
+John_Cho/ntpwG9yp9Iw_0000002 64.8 72.4 
+John_Cho/ntpwG9yp9Iw_0000003 82.6 87.5 
+John_Cho/ntpwG9yp9Iw_0000004 113.0 139.0 
+John_Cho/ntpwG9yp9Iw_0000005 236.0 242.2 
+John_Cho/ntpwG9yp9Iw_0000006 254.0 260.0 

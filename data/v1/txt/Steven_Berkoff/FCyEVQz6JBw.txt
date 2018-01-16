@@ -1,0 +1,12 @@
+POI: 			Steven_Berkoff 
+Youtube ID: 	FCyEVQz6JBw 
+Video length: 	163.2 sec 
+Set (V): 		dev 
+ 
+Steven_Berkoff/FCyEVQz6JBw_0000001 00.7 17.3 
+Steven_Berkoff/FCyEVQz6JBw_0000002 26.0 40.6 
+Steven_Berkoff/FCyEVQz6JBw_0000003 51.9 65.6 
+Steven_Berkoff/FCyEVQz6JBw_0000004 71.4 79.8 
+Steven_Berkoff/FCyEVQz6JBw_0000005 98.1 112.4 
+Steven_Berkoff/FCyEVQz6JBw_0000006 120.6 137.2 
+Steven_Berkoff/FCyEVQz6JBw_0000007 147.9 156.6 

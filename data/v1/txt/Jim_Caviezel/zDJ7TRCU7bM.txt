@@ -1,0 +1,9 @@
+POI: 			Jim_Caviezel 
+Youtube ID: 	zDJ7TRCU7bM 
+Video length: 	166.5 sec 
+Set (V): 		dev 
+ 
+Jim_Caviezel/zDJ7TRCU7bM_0000001 103.4 108.1 
+Jim_Caviezel/zDJ7TRCU7bM_0000002 110.0 115.8 
+Jim_Caviezel/zDJ7TRCU7bM_0000003 124.8 133.8 
+Jim_Caviezel/zDJ7TRCU7bM_0000004 141.1 146.3 

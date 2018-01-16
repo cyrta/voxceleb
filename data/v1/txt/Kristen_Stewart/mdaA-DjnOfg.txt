@@ -1,0 +1,7 @@
+POI: 			Kristen_Stewart 
+Youtube ID: 	mdaA-DjnOfg 
+Video length: 	335.6 sec 
+Set (V): 		dev 
+ 
+Kristen_Stewart/mdaA-DjnOfg_0000001 96.0 100.6 
+Kristen_Stewart/mdaA-DjnOfg_0000002 214.6 220.3 

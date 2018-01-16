@@ -1,0 +1,13 @@
+POI: 			Samira_Wiley 
+Youtube ID: 	senJbflAdPU 
+Video length: 	303.0 sec 
+Set (V): 		dev 
+ 
+Samira_Wiley/senJbflAdPU_0000001 46.1 52.8 
+Samira_Wiley/senJbflAdPU_0000002 73.9 80.0 
+Samira_Wiley/senJbflAdPU_0000003 84.8 90.2 
+Samira_Wiley/senJbflAdPU_0000004 112.6 120.1 
+Samira_Wiley/senJbflAdPU_0000005 193.8 200.1 
+Samira_Wiley/senJbflAdPU_0000006 219.6 224.8 
+Samira_Wiley/senJbflAdPU_0000007 225.3 233.0 
+Samira_Wiley/senJbflAdPU_0000008 246.4 255.7 

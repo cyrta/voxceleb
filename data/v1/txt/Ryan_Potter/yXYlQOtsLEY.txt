@@ -1,0 +1,10 @@
+POI: 			Ryan_Potter 
+Youtube ID: 	yXYlQOtsLEY 
+Video length: 	205.8 sec 
+Set (V): 		dev 
+ 
+Ryan_Potter/yXYlQOtsLEY_0000001 56.0 60.5 
+Ryan_Potter/yXYlQOtsLEY_0000002 73.4 82.5 
+Ryan_Potter/yXYlQOtsLEY_0000003 130.0 137.4 
+Ryan_Potter/yXYlQOtsLEY_0000004 156.2 165.2 
+Ryan_Potter/yXYlQOtsLEY_0000005 189.6 201.2 

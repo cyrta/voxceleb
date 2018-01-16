@@ -1,0 +1,33 @@
+POI: 			Lea_Salonga 
+Youtube ID: 	WeVHst8swP0 
+Video length: 	4344.8 sec 
+Set (V): 		dev 
+ 
+Lea_Salonga/WeVHst8swP0_0000001 1131.3 1136.2 
+Lea_Salonga/WeVHst8swP0_0000002 1149.2 1157.6 
+Lea_Salonga/WeVHst8swP0_0000003 1167.8 1178.3 
+Lea_Salonga/WeVHst8swP0_0000004 1178.8 1195.4 
+Lea_Salonga/WeVHst8swP0_0000005 1293.3 1299.6 
+Lea_Salonga/WeVHst8swP0_0000006 1301.5 1310.8 
+Lea_Salonga/WeVHst8swP0_0000007 1718.9 1725.8 
+Lea_Salonga/WeVHst8swP0_0000008 1841.6 1849.4 
+Lea_Salonga/WeVHst8swP0_0000009 1854.5 1863.6 
+Lea_Salonga/WeVHst8swP0_0000010 1870.7 1878.3 
+Lea_Salonga/WeVHst8swP0_0000011 1878.8 1898.6 
+Lea_Salonga/WeVHst8swP0_0000012 1903.8 1912.2 
+Lea_Salonga/WeVHst8swP0_0000013 1917.2 1926.2 
+Lea_Salonga/WeVHst8swP0_0000014 1942.7 1951.4 
+Lea_Salonga/WeVHst8swP0_0000015 1951.4 1958.0 
+Lea_Salonga/WeVHst8swP0_0000016 1958.4 1970.9 
+Lea_Salonga/WeVHst8swP0_0000017 1975.6 1980.5 
+Lea_Salonga/WeVHst8swP0_0000018 1985.6 1995.4 
+Lea_Salonga/WeVHst8swP0_0000019 1996.6 2004.6 
+Lea_Salonga/WeVHst8swP0_0000020 2798.1 2804.0 
+Lea_Salonga/WeVHst8swP0_0000021 2805.8 2814.7 
+Lea_Salonga/WeVHst8swP0_0000022 2827.1 2833.7 
+Lea_Salonga/WeVHst8swP0_0000023 2834.4 2843.0 
+Lea_Salonga/WeVHst8swP0_0000024 2844.9 2852.6 
+Lea_Salonga/WeVHst8swP0_0000025 2918.1 2925.9 
+Lea_Salonga/WeVHst8swP0_0000026 2926.2 2930.9 
+Lea_Salonga/WeVHst8swP0_0000027 2932.0 2936.2 
+Lea_Salonga/WeVHst8swP0_0000028 2944.5 2969.2 

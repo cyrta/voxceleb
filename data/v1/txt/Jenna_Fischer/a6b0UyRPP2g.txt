@@ -1,0 +1,16 @@
+POI: 			Jenna_Fischer 
+Youtube ID: 	a6b0UyRPP2g 
+Video length: 	267.5 sec 
+Set (V): 		dev 
+ 
+Jenna_Fischer/a6b0UyRPP2g_0000001 30.8 54.0 
+Jenna_Fischer/a6b0UyRPP2g_0000002 56.2 68.2 
+Jenna_Fischer/a6b0UyRPP2g_0000003 98.4 110.9 
+Jenna_Fischer/a6b0UyRPP2g_0000004 111.0 117.5 
+Jenna_Fischer/a6b0UyRPP2g_0000005 118.0 125.3 
+Jenna_Fischer/a6b0UyRPP2g_0000006 125.5 139.0 
+Jenna_Fischer/a6b0UyRPP2g_0000007 165.2 183.4 
+Jenna_Fischer/a6b0UyRPP2g_0000008 198.5 202.6 
+Jenna_Fischer/a6b0UyRPP2g_0000009 205.4 210.6 
+Jenna_Fischer/a6b0UyRPP2g_0000010 233.9 238.7 
+Jenna_Fischer/a6b0UyRPP2g_0000011 250.1 255.2 

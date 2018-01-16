@@ -1,0 +1,11 @@
+POI: 			Avan_Jogia 
+Youtube ID: 	KcrAsV5LInc 
+Video length: 	222.0 sec 
+Set (V): 		dev 
+ 
+Avan_Jogia/KcrAsV5LInc_0000001 14.8 19.0 
+Avan_Jogia/KcrAsV5LInc_0000002 102.4 107.0 
+Avan_Jogia/KcrAsV5LInc_0000003 132.3 138.6 
+Avan_Jogia/KcrAsV5LInc_0000004 186.1 190.9 
+Avan_Jogia/KcrAsV5LInc_0000005 195.1 199.5 
+Avan_Jogia/KcrAsV5LInc_0000006 201.9 210.6 

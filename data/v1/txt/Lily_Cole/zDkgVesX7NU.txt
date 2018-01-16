@@ -1,0 +1,16 @@
+POI: 			Lily_Cole 
+Youtube ID: 	zDkgVesX7NU 
+Video length: 	214.0 sec 
+Set (V): 		dev 
+ 
+Lily_Cole/zDkgVesX7NU_0000001 09.0 25.9 
+Lily_Cole/zDkgVesX7NU_0000002 35.0 42.9 
+Lily_Cole/zDkgVesX7NU_0000003 56.9 71.9 
+Lily_Cole/zDkgVesX7NU_0000004 79.4 94.2 
+Lily_Cole/zDkgVesX7NU_0000005 109.0 123.0 
+Lily_Cole/zDkgVesX7NU_0000006 127.6 132.0 
+Lily_Cole/zDkgVesX7NU_0000007 136.7 143.4 
+Lily_Cole/zDkgVesX7NU_0000008 143.6 149.6 
+Lily_Cole/zDkgVesX7NU_0000009 157.3 189.0 
+Lily_Cole/zDkgVesX7NU_0000010 189.3 196.0 
+Lily_Cole/zDkgVesX7NU_0000011 201.2 206.0 

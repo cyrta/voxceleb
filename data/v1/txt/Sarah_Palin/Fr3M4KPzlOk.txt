@@ -1,0 +1,16 @@
+POI: 			Sarah_Palin 
+Youtube ID: 	Fr3M4KPzlOk 
+Video length: 	445.2 sec 
+Set (V): 		dev 
+ 
+Sarah_Palin/Fr3M4KPzlOk_0000001 34.1 48.3 
+Sarah_Palin/Fr3M4KPzlOk_0000002 55.4 63.2 
+Sarah_Palin/Fr3M4KPzlOk_0000003 99.1 105.9 
+Sarah_Palin/Fr3M4KPzlOk_0000004 167.4 173.3 
+Sarah_Palin/Fr3M4KPzlOk_0000005 175.3 179.5 
+Sarah_Palin/Fr3M4KPzlOk_0000006 183.2 189.0 
+Sarah_Palin/Fr3M4KPzlOk_0000007 222.3 234.6 
+Sarah_Palin/Fr3M4KPzlOk_0000008 272.3 280.6 
+Sarah_Palin/Fr3M4KPzlOk_0000009 344.0 362.9 
+Sarah_Palin/Fr3M4KPzlOk_0000010 370.9 405.9 
+Sarah_Palin/Fr3M4KPzlOk_0000011 408.3 415.0 

@@ -1,0 +1,8 @@
+POI: 			Oliver_Platt 
+Youtube ID: 	3WtkwSOoNKg 
+Video length: 	65.4 sec 
+Set (V): 		dev 
+ 
+Oliver_Platt/3WtkwSOoNKg_0000001 05.8 16.0 
+Oliver_Platt/3WtkwSOoNKg_0000002 29.1 44.4 
+Oliver_Platt/3WtkwSOoNKg_0000003 45.2 49.7 

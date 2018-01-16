@@ -1,0 +1,20 @@
+POI: 			Moritz_Bleibtreu 
+Youtube ID: 	i5mhrsoDndM 
+Video length: 	242.2 sec 
+Set (V): 		dev 
+ 
+Moritz_Bleibtreu/i5mhrsoDndM_0000001 09.4 35.1 
+Moritz_Bleibtreu/i5mhrsoDndM_0000002 37.0 49.6 
+Moritz_Bleibtreu/i5mhrsoDndM_0000003 53.0 69.1 
+Moritz_Bleibtreu/i5mhrsoDndM_0000004 71.8 81.1 
+Moritz_Bleibtreu/i5mhrsoDndM_0000005 93.1 114.6 
+Moritz_Bleibtreu/i5mhrsoDndM_0000006 117.8 123.9 
+Moritz_Bleibtreu/i5mhrsoDndM_0000007 71.8 85.3 
+Moritz_Bleibtreu/i5mhrsoDndM_0000008 93.2 114.6 
+Moritz_Bleibtreu/i5mhrsoDndM_0000009 117.7 122.8 
+Moritz_Bleibtreu/i5mhrsoDndM_0000010 130.4 140.9 
+Moritz_Bleibtreu/i5mhrsoDndM_0000011 147.9 152.5 
+Moritz_Bleibtreu/i5mhrsoDndM_0000012 167.7 178.9 
+Moritz_Bleibtreu/i5mhrsoDndM_0000013 193.1 202.2 
+Moritz_Bleibtreu/i5mhrsoDndM_0000014 207.3 219.2 
+Moritz_Bleibtreu/i5mhrsoDndM_0000015 224.9 229.6 

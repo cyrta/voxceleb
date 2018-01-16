@@ -1,0 +1,9 @@
+POI: 			Violante_Placido 
+Youtube ID: 	VYwqtBDpRvA 
+Video length: 	375.6 sec 
+Set (V): 		dev 
+ 
+Violante_Placido/VYwqtBDpRvA_0000001 59.4 67.0 
+Violante_Placido/VYwqtBDpRvA_0000002 218.3 224.4 
+Violante_Placido/VYwqtBDpRvA_0000003 327.6 332.1 
+Violante_Placido/VYwqtBDpRvA_0000004 333.4 337.7 

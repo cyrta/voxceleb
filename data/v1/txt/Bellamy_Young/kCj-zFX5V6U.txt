@@ -1,0 +1,11 @@
+POI: 			Bellamy_Young 
+Youtube ID: 	kCj-zFX5V6U 
+Video length: 	306.1 sec 
+Set (V): 		dev 
+ 
+Bellamy_Young/kCj-zFX5V6U_0000001 112.2 117.4 
+Bellamy_Young/kCj-zFX5V6U_0000002 119.3 124.0 
+Bellamy_Young/kCj-zFX5V6U_0000003 129.3 137.0 
+Bellamy_Young/kCj-zFX5V6U_0000004 149.6 154.7 
+Bellamy_Young/kCj-zFX5V6U_0000005 168.1 172.5 
+Bellamy_Young/kCj-zFX5V6U_0000006 265.7 277.0 

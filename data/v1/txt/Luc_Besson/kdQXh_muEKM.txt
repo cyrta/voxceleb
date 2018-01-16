@@ -1,0 +1,12 @@
+POI: 			Luc_Besson 
+Youtube ID: 	kdQXh_muEKM 
+Video length: 	481.9 sec 
+Set (V): 		dev 
+ 
+Luc_Besson/kdQXh_muEKM_0000001 58.3 62.9 
+Luc_Besson/kdQXh_muEKM_0000002 63.6 68.6 
+Luc_Besson/kdQXh_muEKM_0000003 108.1 112.9 
+Luc_Besson/kdQXh_muEKM_0000004 151.3 158.9 
+Luc_Besson/kdQXh_muEKM_0000005 364.6 370.6 
+Luc_Besson/kdQXh_muEKM_0000006 377.9 382.7 
+Luc_Besson/kdQXh_muEKM_0000007 411.6 416.8 

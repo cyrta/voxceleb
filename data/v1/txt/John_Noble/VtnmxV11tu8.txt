@@ -1,0 +1,14 @@
+POI: 			John_Noble 
+Youtube ID: 	VtnmxV11tu8 
+Video length: 	185.9 sec 
+Set (V): 		dev 
+ 
+John_Noble/VtnmxV11tu8_0000001 40.1 48.9 
+John_Noble/VtnmxV11tu8_0000002 99.9 106.7 
+John_Noble/VtnmxV11tu8_0000003 103.2 108.1 
+John_Noble/VtnmxV11tu8_0000004 115.6 125.4 
+John_Noble/VtnmxV11tu8_0000005 126.4 131.4 
+John_Noble/VtnmxV11tu8_0000006 133.5 138.6 
+John_Noble/VtnmxV11tu8_0000007 140.7 149.8 
+John_Noble/VtnmxV11tu8_0000008 159.4 170.5 
+John_Noble/VtnmxV11tu8_0000009 176.8 182.7 

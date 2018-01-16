@@ -1,0 +1,11 @@
+POI: 			Zachary_Levi 
+Youtube ID: 	71VFanxlm-A 
+Video length: 	350.8 sec 
+Set (V): 		dev 
+ 
+Zachary_Levi/71VFanxlm-A_0000001 69.0 82.4 
+Zachary_Levi/71VFanxlm-A_0000002 99.4 110.3 
+Zachary_Levi/71VFanxlm-A_0000003 144.4 155.1 
+Zachary_Levi/71VFanxlm-A_0000004 256.3 267.3 
+Zachary_Levi/71VFanxlm-A_0000005 275.4 283.7 
+Zachary_Levi/71VFanxlm-A_0000006 318.2 330.4 

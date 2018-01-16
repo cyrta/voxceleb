@@ -1,0 +1,8 @@
+POI: 			Jeff_Daniels 
+Youtube ID: 	f-t8rikovJI 
+Video length: 	380.4 sec 
+Set (V): 		dev 
+ 
+Jeff_Daniels/f-t8rikovJI_0000001 121.2 127.7 
+Jeff_Daniels/f-t8rikovJI_0000002 265.8 270.8 
+Jeff_Daniels/f-t8rikovJI_0000003 306.9 314.1 

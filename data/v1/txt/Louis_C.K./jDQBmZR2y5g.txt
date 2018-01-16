@@ -1,0 +1,12 @@
+POI: 			Louis_C.K. 
+Youtube ID: 	jDQBmZR2y5g 
+Video length: 	479.4 sec 
+Set (V): 		dev 
+ 
+Louis_C.K./jDQBmZR2y5g_0000001 20.7 28.5 
+Louis_C.K./jDQBmZR2y5g_0000002 76.4 80.5 
+Louis_C.K./jDQBmZR2y5g_0000003 138.7 144.4 
+Louis_C.K./jDQBmZR2y5g_0000004 147.2 155.9 
+Louis_C.K./jDQBmZR2y5g_0000005 157.0 161.7 
+Louis_C.K./jDQBmZR2y5g_0000006 178.7 185.7 
+Louis_C.K./jDQBmZR2y5g_0000007 206.6 211.0 

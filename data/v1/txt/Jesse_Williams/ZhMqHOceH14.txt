@@ -1,0 +1,12 @@
+POI: 			Jesse_Williams 
+Youtube ID: 	ZhMqHOceH14 
+Video length: 	303.2 sec 
+Set (V): 		dev 
+ 
+Jesse_Williams/ZhMqHOceH14_0000001 32.8 37.4 
+Jesse_Williams/ZhMqHOceH14_0000002 71.3 76.7 
+Jesse_Williams/ZhMqHOceH14_0000003 112.9 118.1 
+Jesse_Williams/ZhMqHOceH14_0000004 125.4 131.9 
+Jesse_Williams/ZhMqHOceH14_0000005 159.6 170.4 
+Jesse_Williams/ZhMqHOceH14_0000006 186.4 192.9 
+Jesse_Williams/ZhMqHOceH14_0000007 252.4 263.7 

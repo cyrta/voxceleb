@@ -1,0 +1,15 @@
+POI: 			Emily_Atack 
+Youtube ID: 	kt4P4cyTpWQ 
+Video length: 	406.4 sec 
+Set (V): 		test 
+ 
+Emily_Atack/kt4P4cyTpWQ_0000001 44.2 49.4 
+Emily_Atack/kt4P4cyTpWQ_0000002 53.5 59.6 
+Emily_Atack/kt4P4cyTpWQ_0000003 67.1 72.2 
+Emily_Atack/kt4P4cyTpWQ_0000004 76.1 84.6 
+Emily_Atack/kt4P4cyTpWQ_0000005 92.5 96.5 
+Emily_Atack/kt4P4cyTpWQ_0000006 198.8 202.8 
+Emily_Atack/kt4P4cyTpWQ_0000007 211.0 217.5 
+Emily_Atack/kt4P4cyTpWQ_0000008 229.0 239.1 
+Emily_Atack/kt4P4cyTpWQ_0000009 285.7 291.5 
+Emily_Atack/kt4P4cyTpWQ_0000010 303.9 308.5 

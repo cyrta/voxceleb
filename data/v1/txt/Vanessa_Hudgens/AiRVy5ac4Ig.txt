@@ -1,0 +1,8 @@
+POI: 			Vanessa_Hudgens 
+Youtube ID: 	AiRVy5ac4Ig 
+Video length: 	374.6 sec 
+Set (V): 		dev 
+ 
+Vanessa_Hudgens/AiRVy5ac4Ig_0000001 106.9 113.6 
+Vanessa_Hudgens/AiRVy5ac4Ig_0000002 125.5 130.2 
+Vanessa_Hudgens/AiRVy5ac4Ig_0000003 294.8 300.4 

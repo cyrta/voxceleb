@@ -1,0 +1,15 @@
+POI: 			Jack_Whitehall 
+Youtube ID: 	q4Lo3AKMxLs 
+Video length: 	465.0 sec 
+Set (V): 		dev 
+ 
+Jack_Whitehall/q4Lo3AKMxLs_0000001 58.3 63.8 
+Jack_Whitehall/q4Lo3AKMxLs_0000002 85.8 90.3 
+Jack_Whitehall/q4Lo3AKMxLs_0000003 151.7 160.2 
+Jack_Whitehall/q4Lo3AKMxLs_0000004 210.9 218.1 
+Jack_Whitehall/q4Lo3AKMxLs_0000005 238.6 244.1 
+Jack_Whitehall/q4Lo3AKMxLs_0000006 259.8 283.1 
+Jack_Whitehall/q4Lo3AKMxLs_0000007 309.4 318.8 
+Jack_Whitehall/q4Lo3AKMxLs_0000008 319.0 326.1 
+Jack_Whitehall/q4Lo3AKMxLs_0000009 364.7 376.6 
+Jack_Whitehall/q4Lo3AKMxLs_0000010 431.4 442.7 

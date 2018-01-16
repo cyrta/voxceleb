@@ -1,0 +1,13 @@
+POI: 			Dick_Van_Dyke 
+Youtube ID: 	IdEPKod--Ds 
+Video length: 	258.8 sec 
+Set (V): 		dev 
+ 
+Dick_Van_Dyke/IdEPKod--Ds_0000001 13.0 27.0 
+Dick_Van_Dyke/IdEPKod--Ds_0000002 27.7 35.4 
+Dick_Van_Dyke/IdEPKod--Ds_0000003 147.8 172.2 
+Dick_Van_Dyke/IdEPKod--Ds_0000004 174.3 188.8 
+Dick_Van_Dyke/IdEPKod--Ds_0000005 189.0 211.4 
+Dick_Van_Dyke/IdEPKod--Ds_0000006 214.3 222.2 
+Dick_Van_Dyke/IdEPKod--Ds_0000007 222.6 244.0 
+Dick_Van_Dyke/IdEPKod--Ds_0000008 246.4 251.3 

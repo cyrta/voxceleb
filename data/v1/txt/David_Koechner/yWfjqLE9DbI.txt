@@ -1,0 +1,11 @@
+POI: 			David_Koechner 
+Youtube ID: 	yWfjqLE9DbI 
+Video length: 	299.0 sec 
+Set (V): 		dev 
+ 
+David_Koechner/yWfjqLE9DbI_0000001 39.1 46.1 
+David_Koechner/yWfjqLE9DbI_0000002 92.3 96.2 
+David_Koechner/yWfjqLE9DbI_0000003 98.6 104.5 
+David_Koechner/yWfjqLE9DbI_0000004 182.7 187.0 
+David_Koechner/yWfjqLE9DbI_0000005 213.0 217.4 
+David_Koechner/yWfjqLE9DbI_0000006 219.4 231.2 

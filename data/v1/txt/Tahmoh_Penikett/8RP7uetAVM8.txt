@@ -1,0 +1,8 @@
+POI: 			Tahmoh_Penikett 
+Youtube ID: 	8RP7uetAVM8 
+Video length: 	173.3 sec 
+Set (V): 		dev 
+ 
+Tahmoh_Penikett/8RP7uetAVM8_0000001 94.1 108.7 
+Tahmoh_Penikett/8RP7uetAVM8_0000002 112.3 119.7 
+Tahmoh_Penikett/8RP7uetAVM8_0000003 121.8 131.8 

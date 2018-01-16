@@ -1,0 +1,8 @@
+POI: 			Ed_Westwick 
+Youtube ID: 	EOQXxK1whgU 
+Video length: 	391.7 sec 
+Set (V): 		test 
+ 
+Ed_Westwick/EOQXxK1whgU_0000001 163.2 169.9 
+Ed_Westwick/EOQXxK1whgU_0000002 170.0 175.6 
+Ed_Westwick/EOQXxK1whgU_0000003 247.0 251.9 

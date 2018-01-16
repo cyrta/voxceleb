@@ -1,0 +1,10 @@
+POI: 			John_Francis_Daley 
+Youtube ID: 	tmkV1yS7bDg 
+Video length: 	124.0 sec 
+Set (V): 		dev 
+ 
+John_Francis_Daley/tmkV1yS7bDg_0000001 04.4 26.3 
+John_Francis_Daley/tmkV1yS7bDg_0000002 26.7 35.7 
+John_Francis_Daley/tmkV1yS7bDg_0000003 67.8 74.6 
+John_Francis_Daley/tmkV1yS7bDg_0000004 75.3 83.3 
+John_Francis_Daley/tmkV1yS7bDg_0000005 113.1 118.4 

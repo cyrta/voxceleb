@@ -1,0 +1,9 @@
+POI: 			Leslie_Mann 
+Youtube ID: 	I090DYqG2yw 
+Video length: 	414.6 sec 
+Set (V): 		dev 
+ 
+Leslie_Mann/I090DYqG2yw_0000001 107.8 112.3 
+Leslie_Mann/I090DYqG2yw_0000002 294.0 299.5 
+Leslie_Mann/I090DYqG2yw_0000003 299.7 310.9 
+Leslie_Mann/I090DYqG2yw_0000004 338.6 344.7 

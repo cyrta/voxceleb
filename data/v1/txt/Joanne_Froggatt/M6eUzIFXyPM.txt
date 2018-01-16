@@ -1,0 +1,9 @@
+POI: 			Joanne_Froggatt 
+Youtube ID: 	M6eUzIFXyPM 
+Video length: 	134.0 sec 
+Set (V): 		dev 
+ 
+Joanne_Froggatt/M6eUzIFXyPM_0000001 08.5 17.4 
+Joanne_Froggatt/M6eUzIFXyPM_0000002 40.3 50.2 
+Joanne_Froggatt/M6eUzIFXyPM_0000003 69.4 79.3 
+Joanne_Froggatt/M6eUzIFXyPM_0000004 97.2 114.6 

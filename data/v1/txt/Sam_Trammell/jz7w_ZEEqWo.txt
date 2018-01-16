@@ -1,0 +1,8 @@
+POI: 			Sam_Trammell 
+Youtube ID: 	jz7w_ZEEqWo 
+Video length: 	75.1 sec 
+Set (V): 		dev 
+ 
+Sam_Trammell/jz7w_ZEEqWo_0000001 15.4 25.9 
+Sam_Trammell/jz7w_ZEEqWo_0000002 26.9 36.8 
+Sam_Trammell/jz7w_ZEEqWo_0000003 57.1 65.6 

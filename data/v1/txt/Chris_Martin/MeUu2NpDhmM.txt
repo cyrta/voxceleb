@@ -1,0 +1,10 @@
+POI: 			Chris_Martin 
+Youtube ID: 	MeUu2NpDhmM 
+Video length: 	546.5 sec 
+Set (V): 		dev 
+ 
+Chris_Martin/MeUu2NpDhmM_0000001 142.5 146.4 
+Chris_Martin/MeUu2NpDhmM_0000002 170.0 178.2 
+Chris_Martin/MeUu2NpDhmM_0000003 216.7 221.1 
+Chris_Martin/MeUu2NpDhmM_0000004 347.8 353.0 
+Chris_Martin/MeUu2NpDhmM_0000005 446.2 451.0 

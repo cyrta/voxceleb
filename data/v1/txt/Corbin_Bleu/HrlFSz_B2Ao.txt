@@ -1,0 +1,20 @@
+POI: 			Corbin_Bleu 
+Youtube ID: 	HrlFSz_B2Ao 
+Video length: 	551.9 sec 
+Set (V): 		dev 
+ 
+Corbin_Bleu/HrlFSz_B2Ao_0000001 12.2 17.4 
+Corbin_Bleu/HrlFSz_B2Ao_0000002 52.2 59.7 
+Corbin_Bleu/HrlFSz_B2Ao_0000003 86.0 102.2 
+Corbin_Bleu/HrlFSz_B2Ao_0000004 117.7 124.6 
+Corbin_Bleu/HrlFSz_B2Ao_0000005 208.3 216.4 
+Corbin_Bleu/HrlFSz_B2Ao_0000006 223.4 235.4 
+Corbin_Bleu/HrlFSz_B2Ao_0000007 236.6 243.3 
+Corbin_Bleu/HrlFSz_B2Ao_0000008 247.3 254.0 
+Corbin_Bleu/HrlFSz_B2Ao_0000009 260.9 278.6 
+Corbin_Bleu/HrlFSz_B2Ao_0000010 324.2 331.7 
+Corbin_Bleu/HrlFSz_B2Ao_0000011 387.1 396.4 
+Corbin_Bleu/HrlFSz_B2Ao_0000012 411.0 421.1 
+Corbin_Bleu/HrlFSz_B2Ao_0000013 435.5 440.2 
+Corbin_Bleu/HrlFSz_B2Ao_0000014 473.5 477.5 
+Corbin_Bleu/HrlFSz_B2Ao_0000015 496.4 501.2 

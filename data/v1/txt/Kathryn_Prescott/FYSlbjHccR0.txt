@@ -1,0 +1,13 @@
+POI: 			Kathryn_Prescott 
+Youtube ID: 	FYSlbjHccR0 
+Video length: 	181.8 sec 
+Set (V): 		dev 
+ 
+Kathryn_Prescott/FYSlbjHccR0_0000001 51.8 59.2 
+Kathryn_Prescott/FYSlbjHccR0_0000002 74.3 78.7 
+Kathryn_Prescott/FYSlbjHccR0_0000003 88.2 99.3 
+Kathryn_Prescott/FYSlbjHccR0_0000004 105.9 112.0 
+Kathryn_Prescott/FYSlbjHccR0_0000005 113.9 120.8 
+Kathryn_Prescott/FYSlbjHccR0_0000006 122.2 131.3 
+Kathryn_Prescott/FYSlbjHccR0_0000007 163.7 171.7 
+Kathryn_Prescott/FYSlbjHccR0_0000008 173.8 177.9 

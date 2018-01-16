@@ -1,0 +1,12 @@
+POI: 			Steve_Martin 
+Youtube ID: 	Np7rMK062GE 
+Video length: 	639.5 sec 
+Set (V): 		dev 
+ 
+Steve_Martin/Np7rMK062GE_0000001 115.5 123.8 
+Steve_Martin/Np7rMK062GE_0000002 125.0 129.2 
+Steve_Martin/Np7rMK062GE_0000003 219.3 223.7 
+Steve_Martin/Np7rMK062GE_0000004 224.0 228.3 
+Steve_Martin/Np7rMK062GE_0000005 369.3 375.9 
+Steve_Martin/Np7rMK062GE_0000006 449.1 456.1 
+Steve_Martin/Np7rMK062GE_0000007 498.6 503.7 

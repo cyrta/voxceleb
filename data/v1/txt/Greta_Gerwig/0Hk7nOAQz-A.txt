@@ -1,0 +1,20 @@
+POI: 			Greta_Gerwig 
+Youtube ID: 	0Hk7nOAQz-A 
+Video length: 	300.1 sec 
+Set (V): 		dev 
+ 
+Greta_Gerwig/0Hk7nOAQz-A_0000001 05.8 11.6 
+Greta_Gerwig/0Hk7nOAQz-A_0000002 43.4 97.2 
+Greta_Gerwig/0Hk7nOAQz-A_0000003 101.4 124.0 
+Greta_Gerwig/0Hk7nOAQz-A_0000004 124.8 133.2 
+Greta_Gerwig/0Hk7nOAQz-A_0000005 149.9 156.0 
+Greta_Gerwig/0Hk7nOAQz-A_0000006 160.4 164.7 
+Greta_Gerwig/0Hk7nOAQz-A_0000007 165.4 171.4 
+Greta_Gerwig/0Hk7nOAQz-A_0000008 177.1 188.6 
+Greta_Gerwig/0Hk7nOAQz-A_0000009 189.5 194.6 
+Greta_Gerwig/0Hk7nOAQz-A_0000010 195.0 199.1 
+Greta_Gerwig/0Hk7nOAQz-A_0000011 226.9 231.8 
+Greta_Gerwig/0Hk7nOAQz-A_0000012 247.8 253.6 
+Greta_Gerwig/0Hk7nOAQz-A_0000013 257.2 264.8 
+Greta_Gerwig/0Hk7nOAQz-A_0000014 270.3 274.8 
+Greta_Gerwig/0Hk7nOAQz-A_0000015 282.5 286.6 

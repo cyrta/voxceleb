@@ -1,0 +1,24 @@
+POI: 			Steve_Martin 
+Youtube ID: 	F-BQcSxRJuI 
+Video length: 	499.4 sec 
+Set (V): 		dev 
+ 
+Steve_Martin/F-BQcSxRJuI_0000001 08.2 15.4 
+Steve_Martin/F-BQcSxRJuI_0000002 20.5 25.3 
+Steve_Martin/F-BQcSxRJuI_0000003 33.8 40.8 
+Steve_Martin/F-BQcSxRJuI_0000004 44.5 48.5 
+Steve_Martin/F-BQcSxRJuI_0000005 49.9 55.2 
+Steve_Martin/F-BQcSxRJuI_0000006 63.2 75.2 
+Steve_Martin/F-BQcSxRJuI_0000007 78.5 88.4 
+Steve_Martin/F-BQcSxRJuI_0000008 95.2 106.2 
+Steve_Martin/F-BQcSxRJuI_0000009 115.4 121.0 
+Steve_Martin/F-BQcSxRJuI_0000010 144.0 148.2 
+Steve_Martin/F-BQcSxRJuI_0000011 206.1 211.8 
+Steve_Martin/F-BQcSxRJuI_0000012 260.6 271.1 
+Steve_Martin/F-BQcSxRJuI_0000013 277.7 284.2 
+Steve_Martin/F-BQcSxRJuI_0000014 309.7 314.7 
+Steve_Martin/F-BQcSxRJuI_0000015 331.3 336.8 
+Steve_Martin/F-BQcSxRJuI_0000016 362.9 374.5 
+Steve_Martin/F-BQcSxRJuI_0000017 378.8 386.6 
+Steve_Martin/F-BQcSxRJuI_0000018 420.1 424.6 
+Steve_Martin/F-BQcSxRJuI_0000019 425.6 431.5 

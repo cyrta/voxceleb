@@ -1,0 +1,12 @@
+POI: 			Tom_Hiddleston 
+Youtube ID: 	EAkLfrlVmCQ 
+Video length: 	445.7 sec 
+Set (V): 		dev 
+ 
+Tom_Hiddleston/EAkLfrlVmCQ_0000001 80.4 90.0 
+Tom_Hiddleston/EAkLfrlVmCQ_0000002 110.2 114.6 
+Tom_Hiddleston/EAkLfrlVmCQ_0000003 148.0 159.6 
+Tom_Hiddleston/EAkLfrlVmCQ_0000004 242.2 246.5 
+Tom_Hiddleston/EAkLfrlVmCQ_0000005 247.7 266.1 
+Tom_Hiddleston/EAkLfrlVmCQ_0000006 283.4 288.3 
+Tom_Hiddleston/EAkLfrlVmCQ_0000007 429.8 435.4 

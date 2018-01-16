@@ -1,0 +1,11 @@
+POI: 			Janina_Gavankar 
+Youtube ID: 	nFPWqjTyqTo 
+Video length: 	289.2 sec 
+Set (V): 		dev 
+ 
+Janina_Gavankar/nFPWqjTyqTo_0000001 17.9 23.6 
+Janina_Gavankar/nFPWqjTyqTo_0000002 63.8 72.7 
+Janina_Gavankar/nFPWqjTyqTo_0000003 162.5 166.7 
+Janina_Gavankar/nFPWqjTyqTo_0000004 181.0 185.3 
+Janina_Gavankar/nFPWqjTyqTo_0000005 242.1 248.4 
+Janina_Gavankar/nFPWqjTyqTo_0000006 250.3 254.2 

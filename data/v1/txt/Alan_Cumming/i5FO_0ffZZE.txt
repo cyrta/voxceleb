@@ -1,0 +1,10 @@
+POI: 			Alan_Cumming 
+Youtube ID: 	i5FO_0ffZZE 
+Video length: 	297.8 sec 
+Set (V): 		dev 
+ 
+Alan_Cumming/i5FO_0ffZZE_0000001 92.0 99.7 
+Alan_Cumming/i5FO_0ffZZE_0000002 102.7 110.2 
+Alan_Cumming/i5FO_0ffZZE_0000003 237.3 243.4 
+Alan_Cumming/i5FO_0ffZZE_0000004 251.1 261.9 
+Alan_Cumming/i5FO_0ffZZE_0000005 251.1 262.0 

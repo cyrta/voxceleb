@@ -1,0 +1,8 @@
+POI: 			Casey_Affleck 
+Youtube ID: 	dg2bq-qEmUY 
+Video length: 	263.3 sec 
+Set (V): 		dev 
+ 
+Casey_Affleck/dg2bq-qEmUY_0000001 117.2 127.7 
+Casey_Affleck/dg2bq-qEmUY_0000002 138.0 142.3 
+Casey_Affleck/dg2bq-qEmUY_0000003 142.5 150.1 

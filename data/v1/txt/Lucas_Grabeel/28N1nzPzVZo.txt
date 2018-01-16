@@ -1,0 +1,11 @@
+POI: 			Lucas_Grabeel 
+Youtube ID: 	28N1nzPzVZo 
+Video length: 	272.5 sec 
+Set (V): 		dev 
+ 
+Lucas_Grabeel/28N1nzPzVZo_0000001 25.2 30.2 
+Lucas_Grabeel/28N1nzPzVZo_0000002 99.0 111.6 
+Lucas_Grabeel/28N1nzPzVZo_0000003 127.7 142.9 
+Lucas_Grabeel/28N1nzPzVZo_0000004 246.2 252.6 
+Lucas_Grabeel/28N1nzPzVZo_0000005 254.6 259.7 
+Lucas_Grabeel/28N1nzPzVZo_0000006 262.0 266.7 

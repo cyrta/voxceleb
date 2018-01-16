@@ -1,0 +1,30 @@
+POI: 			Noel_Clarke 
+Youtube ID: 	tiq90I2YObs 
+Video length: 	479.6 sec 
+Set (V): 		dev 
+ 
+Noel_Clarke/tiq90I2YObs_0000001 23.9 31.7 
+Noel_Clarke/tiq90I2YObs_0000002 31.9 37.2 
+Noel_Clarke/tiq90I2YObs_0000003 38.1 42.6 
+Noel_Clarke/tiq90I2YObs_0000004 73.9 79.0 
+Noel_Clarke/tiq90I2YObs_0000005 80.2 87.5 
+Noel_Clarke/tiq90I2YObs_0000006 98.4 108.7 
+Noel_Clarke/tiq90I2YObs_0000007 130.6 136.0 
+Noel_Clarke/tiq90I2YObs_0000008 136.1 161.0 
+Noel_Clarke/tiq90I2YObs_0000009 161.5 172.6 
+Noel_Clarke/tiq90I2YObs_0000010 236.7 241.5 
+Noel_Clarke/tiq90I2YObs_0000011 244.8 251.4 
+Noel_Clarke/tiq90I2YObs_0000012 262.5 269.1 
+Noel_Clarke/tiq90I2YObs_0000013 280.0 289.2 
+Noel_Clarke/tiq90I2YObs_0000014 304.0 310.6 
+Noel_Clarke/tiq90I2YObs_0000015 314.1 323.6 
+Noel_Clarke/tiq90I2YObs_0000016 335.9 355.1 
+Noel_Clarke/tiq90I2YObs_0000017 355.5 365.0 
+Noel_Clarke/tiq90I2YObs_0000018 365.1 372.1 
+Noel_Clarke/tiq90I2YObs_0000019 372.8 377.6 
+Noel_Clarke/tiq90I2YObs_0000020 379.5 384.6 
+Noel_Clarke/tiq90I2YObs_0000021 396.9 407.8 
+Noel_Clarke/tiq90I2YObs_0000022 410.0 414.2 
+Noel_Clarke/tiq90I2YObs_0000023 446.3 453.4 
+Noel_Clarke/tiq90I2YObs_0000024 453.8 460.7 
+Noel_Clarke/tiq90I2YObs_0000025 464.0 468.9 

@@ -1,0 +1,8 @@
+POI: 			Alan_Tudyk 
+Youtube ID: 	4Yje1H00OoE 
+Video length: 	87.1 sec 
+Set (V): 		dev 
+ 
+Alan_Tudyk/4Yje1H00OoE_0000001 30.8 41.1 
+Alan_Tudyk/4Yje1H00OoE_0000002 49.2 61.0 
+Alan_Tudyk/4Yje1H00OoE_0000003 55.3 61.7 

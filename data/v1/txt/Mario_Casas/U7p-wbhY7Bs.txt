@@ -1,0 +1,7 @@
+POI: 			Mario_Casas 
+Youtube ID: 	U7p-wbhY7Bs 
+Video length: 	287.9 sec 
+Set (V): 		dev 
+ 
+Mario_Casas/U7p-wbhY7Bs_0000001 258.4 263.5 
+Mario_Casas/U7p-wbhY7Bs_0000002 264.7 269.8 

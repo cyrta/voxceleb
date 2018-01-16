@@ -1,0 +1,23 @@
+POI: 			Lena_Horne 
+Youtube ID: 	WUxOcvVx7A4 
+Video length: 	331.5 sec 
+Set (V): 		dev 
+ 
+Lena_Horne/WUxOcvVx7A4_0000001 07.9 19.0 
+Lena_Horne/WUxOcvVx7A4_0000002 71.3 75.8 
+Lena_Horne/WUxOcvVx7A4_0000003 79.6 89.2 
+Lena_Horne/WUxOcvVx7A4_0000004 89.6 96.2 
+Lena_Horne/WUxOcvVx7A4_0000005 103.4 118.3 
+Lena_Horne/WUxOcvVx7A4_0000006 119.1 127.7 
+Lena_Horne/WUxOcvVx7A4_0000007 130.8 137.6 
+Lena_Horne/WUxOcvVx7A4_0000008 122.8 127.6 
+Lena_Horne/WUxOcvVx7A4_0000009 131.8 142.4 
+Lena_Horne/WUxOcvVx7A4_0000010 143.2 147.6 
+Lena_Horne/WUxOcvVx7A4_0000011 152.2 161.7 
+Lena_Horne/WUxOcvVx7A4_0000012 161.8 167.2 
+Lena_Horne/WUxOcvVx7A4_0000013 184.2 194.6 
+Lena_Horne/WUxOcvVx7A4_0000014 240.1 246.7 
+Lena_Horne/WUxOcvVx7A4_0000015 247.6 252.8 
+Lena_Horne/WUxOcvVx7A4_0000016 264.4 269.9 
+Lena_Horne/WUxOcvVx7A4_0000017 270.5 277.9 
+Lena_Horne/WUxOcvVx7A4_0000018 280.6 297.2 

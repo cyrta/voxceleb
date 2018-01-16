@@ -1,0 +1,19 @@
+POI: 			Susan_Lucci 
+Youtube ID: 	1VA8kfUrwsU 
+Video length: 	402.5 sec 
+Set (V): 		dev 
+ 
+Susan_Lucci/1VA8kfUrwsU_0000001 28.6 32.5 
+Susan_Lucci/1VA8kfUrwsU_0000002 36.8 41.6 
+Susan_Lucci/1VA8kfUrwsU_0000003 51.7 60.3 
+Susan_Lucci/1VA8kfUrwsU_0000004 74.1 81.6 
+Susan_Lucci/1VA8kfUrwsU_0000005 82.0 99.1 
+Susan_Lucci/1VA8kfUrwsU_0000006 116.5 154.2 
+Susan_Lucci/1VA8kfUrwsU_0000007 147.7 171.5 
+Susan_Lucci/1VA8kfUrwsU_0000008 171.6 181.6 
+Susan_Lucci/1VA8kfUrwsU_0000009 189.0 193.1 
+Susan_Lucci/1VA8kfUrwsU_0000010 194.2 239.4 
+Susan_Lucci/1VA8kfUrwsU_0000011 239.6 268.6 
+Susan_Lucci/1VA8kfUrwsU_0000012 281.6 296.8 
+Susan_Lucci/1VA8kfUrwsU_0000013 315.4 326.7 
+Susan_Lucci/1VA8kfUrwsU_0000014 339.7 353.7 

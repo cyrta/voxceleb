@@ -1,0 +1,13 @@
+POI: 			Damon_Wayans 
+Youtube ID: 	LhnexulZBaw 
+Video length: 	290.4 sec 
+Set (V): 		dev 
+ 
+Damon_Wayans/LhnexulZBaw_0000001 42.4 47.9 
+Damon_Wayans/LhnexulZBaw_0000002 65.4 69.6 
+Damon_Wayans/LhnexulZBaw_0000003 135.4 141.4 
+Damon_Wayans/LhnexulZBaw_0000004 150.8 157.2 
+Damon_Wayans/LhnexulZBaw_0000005 170.0 174.1 
+Damon_Wayans/LhnexulZBaw_0000006 185.0 191.2 
+Damon_Wayans/LhnexulZBaw_0000007 194.3 201.0 
+Damon_Wayans/LhnexulZBaw_0000008 216.6 223.0 

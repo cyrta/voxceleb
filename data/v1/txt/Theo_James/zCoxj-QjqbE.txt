@@ -1,0 +1,9 @@
+POI: 			Theo_James 
+Youtube ID: 	zCoxj-QjqbE 
+Video length: 	209.4 sec 
+Set (V): 		dev 
+ 
+Theo_James/zCoxj-QjqbE_0000001 38.6 43.4 
+Theo_James/zCoxj-QjqbE_0000002 68.6 78.9 
+Theo_James/zCoxj-QjqbE_0000003 119.4 124.1 
+Theo_James/zCoxj-QjqbE_0000004 131.8 136.8 

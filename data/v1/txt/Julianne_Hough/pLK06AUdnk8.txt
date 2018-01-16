@@ -1,0 +1,24 @@
+POI: 			Julianne_Hough 
+Youtube ID: 	pLK06AUdnk8 
+Video length: 	361.8 sec 
+Set (V): 		dev 
+ 
+Julianne_Hough/pLK06AUdnk8_0000001 09.7 20.3 
+Julianne_Hough/pLK06AUdnk8_0000002 20.8 33.3 
+Julianne_Hough/pLK06AUdnk8_0000003 35.5 61.4 
+Julianne_Hough/pLK06AUdnk8_0000004 62.4 67.9 
+Julianne_Hough/pLK06AUdnk8_0000005 69.7 83.9 
+Julianne_Hough/pLK06AUdnk8_0000006 94.4 121.4 
+Julianne_Hough/pLK06AUdnk8_0000007 130.8 142.5 
+Julianne_Hough/pLK06AUdnk8_0000008 143.0 161.3 
+Julianne_Hough/pLK06AUdnk8_0000009 168.2 214.5 
+Julianne_Hough/pLK06AUdnk8_0000010 222.5 234.2 
+Julianne_Hough/pLK06AUdnk8_0000011 236.1 262.4 
+Julianne_Hough/pLK06AUdnk8_0000012 262.8 281.8 
+Julianne_Hough/pLK06AUdnk8_0000013 282.7 288.3 
+Julianne_Hough/pLK06AUdnk8_0000014 288.9 294.4 
+Julianne_Hough/pLK06AUdnk8_0000015 306.7 312.0 
+Julianne_Hough/pLK06AUdnk8_0000016 313.0 320.6 
+Julianne_Hough/pLK06AUdnk8_0000017 328.2 332.4 
+Julianne_Hough/pLK06AUdnk8_0000018 333.4 342.5 
+Julianne_Hough/pLK06AUdnk8_0000019 325.0 332.4 

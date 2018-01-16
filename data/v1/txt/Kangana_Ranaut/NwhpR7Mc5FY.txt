@@ -1,0 +1,18 @@
+POI: 			Kangana_Ranaut 
+Youtube ID: 	NwhpR7Mc5FY 
+Video length: 	1305.1 sec 
+Set (V): 		dev 
+ 
+Kangana_Ranaut/NwhpR7Mc5FY_0000001 70.0 74.0 
+Kangana_Ranaut/NwhpR7Mc5FY_0000002 79.9 89.0 
+Kangana_Ranaut/NwhpR7Mc5FY_0000003 336.7 341.3 
+Kangana_Ranaut/NwhpR7Mc5FY_0000004 366.8 371.9 
+Kangana_Ranaut/NwhpR7Mc5FY_0000005 391.6 399.8 
+Kangana_Ranaut/NwhpR7Mc5FY_0000006 415.4 420.2 
+Kangana_Ranaut/NwhpR7Mc5FY_0000007 441.0 445.5 
+Kangana_Ranaut/NwhpR7Mc5FY_0000008 624.6 631.0 
+Kangana_Ranaut/NwhpR7Mc5FY_0000009 662.4 671.6 
+Kangana_Ranaut/NwhpR7Mc5FY_0000010 744.9 749.0 
+Kangana_Ranaut/NwhpR7Mc5FY_0000011 924.8 929.7 
+Kangana_Ranaut/NwhpR7Mc5FY_0000012 1104.0 1108.2 
+Kangana_Ranaut/NwhpR7Mc5FY_0000013 1115.1 1119.3 

@@ -1,0 +1,20 @@
+POI: 			Victoria_Justice 
+Youtube ID: 	MbxZjzjqZoo 
+Video length: 	306.6 sec 
+Set (V): 		dev 
+ 
+Victoria_Justice/MbxZjzjqZoo_0000001 08.5 13.8 
+Victoria_Justice/MbxZjzjqZoo_0000002 17.9 32.8 
+Victoria_Justice/MbxZjzjqZoo_0000003 39.0 59.9 
+Victoria_Justice/MbxZjzjqZoo_0000004 74.8 85.0 
+Victoria_Justice/MbxZjzjqZoo_0000005 91.0 101.1 
+Victoria_Justice/MbxZjzjqZoo_0000006 101.8 124.2 
+Victoria_Justice/MbxZjzjqZoo_0000007 135.7 152.4 
+Victoria_Justice/MbxZjzjqZoo_0000008 161.4 173.6 
+Victoria_Justice/MbxZjzjqZoo_0000009 180.8 188.6 
+Victoria_Justice/MbxZjzjqZoo_0000010 190.6 205.0 
+Victoria_Justice/MbxZjzjqZoo_0000011 206.8 226.2 
+Victoria_Justice/MbxZjzjqZoo_0000012 236.5 248.5 
+Victoria_Justice/MbxZjzjqZoo_0000013 252.8 258.4 
+Victoria_Justice/MbxZjzjqZoo_0000014 263.9 270.7 
+Victoria_Justice/MbxZjzjqZoo_0000015 283.6 299.4 

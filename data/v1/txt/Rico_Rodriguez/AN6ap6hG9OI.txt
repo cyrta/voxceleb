@@ -1,0 +1,8 @@
+POI: 			Rico_Rodriguez 
+Youtube ID: 	AN6ap6hG9OI 
+Video length: 	96.3 sec 
+Set (V): 		dev 
+ 
+Rico_Rodriguez/AN6ap6hG9OI_0000001 19.6 26.7 
+Rico_Rodriguez/AN6ap6hG9OI_0000002 33.1 38.0 
+Rico_Rodriguez/AN6ap6hG9OI_0000003 40.0 51.4 

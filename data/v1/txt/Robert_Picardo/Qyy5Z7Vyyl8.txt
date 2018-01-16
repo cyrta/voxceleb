@@ -1,0 +1,19 @@
+POI: 			Robert_Picardo 
+Youtube ID: 	Qyy5Z7Vyyl8 
+Video length: 	372.4 sec 
+Set (V): 		dev 
+ 
+Robert_Picardo/Qyy5Z7Vyyl8_0000001 35.9 45.4 
+Robert_Picardo/Qyy5Z7Vyyl8_0000002 46.4 60.4 
+Robert_Picardo/Qyy5Z7Vyyl8_0000003 66.0 70.6 
+Robert_Picardo/Qyy5Z7Vyyl8_0000004 98.2 103.1 
+Robert_Picardo/Qyy5Z7Vyyl8_0000005 131.2 151.4 
+Robert_Picardo/Qyy5Z7Vyyl8_0000006 153.2 158.2 
+Robert_Picardo/Qyy5Z7Vyyl8_0000007 173.8 181.9 
+Robert_Picardo/Qyy5Z7Vyyl8_0000008 207.8 217.2 
+Robert_Picardo/Qyy5Z7Vyyl8_0000009 219.2 224.3 
+Robert_Picardo/Qyy5Z7Vyyl8_0000010 229.0 236.4 
+Robert_Picardo/Qyy5Z7Vyyl8_0000011 247.8 257.6 
+Robert_Picardo/Qyy5Z7Vyyl8_0000012 266.5 271.4 
+Robert_Picardo/Qyy5Z7Vyyl8_0000013 277.6 296.3 
+Robert_Picardo/Qyy5Z7Vyyl8_0000014 304.8 312.7 

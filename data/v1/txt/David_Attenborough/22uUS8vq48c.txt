@@ -1,0 +1,38 @@
+POI: 			David_Attenborough 
+Youtube ID: 	22uUS8vq48c 
+Video length: 	804.1 sec 
+Set (V): 		dev 
+ 
+David_Attenborough/22uUS8vq48c_0000001 20.5 25.5 
+David_Attenborough/22uUS8vq48c_0000002 36.8 44.0 
+David_Attenborough/22uUS8vq48c_0000003 44.8 55.2 
+David_Attenborough/22uUS8vq48c_0000004 78.0 83.0 
+David_Attenborough/22uUS8vq48c_0000005 91.8 97.1 
+David_Attenborough/22uUS8vq48c_0000006 118.2 126.8 
+David_Attenborough/22uUS8vq48c_0000007 141.7 150.0 
+David_Attenborough/22uUS8vq48c_0000008 163.9 171.5 
+David_Attenborough/22uUS8vq48c_0000009 178.6 188.9 
+David_Attenborough/22uUS8vq48c_0000010 220.2 224.8 
+David_Attenborough/22uUS8vq48c_0000011 227.9 233.7 
+David_Attenborough/22uUS8vq48c_0000012 246.7 254.9 
+David_Attenborough/22uUS8vq48c_0000013 280.7 288.9 
+David_Attenborough/22uUS8vq48c_0000014 292.5 299.1 
+David_Attenborough/22uUS8vq48c_0000015 299.6 306.8 
+David_Attenborough/22uUS8vq48c_0000016 310.9 320.2 
+David_Attenborough/22uUS8vq48c_0000017 320.6 328.1 
+David_Attenborough/22uUS8vq48c_0000018 329.0 333.9 
+David_Attenborough/22uUS8vq48c_0000019 334.5 338.9 
+David_Attenborough/22uUS8vq48c_0000020 340.8 349.9 
+David_Attenborough/22uUS8vq48c_0000021 371.4 375.5 
+David_Attenborough/22uUS8vq48c_0000022 418.9 422.9 
+David_Attenborough/22uUS8vq48c_0000023 451.8 457.5 
+David_Attenborough/22uUS8vq48c_0000024 485.9 495.9 
+David_Attenborough/22uUS8vq48c_0000025 574.9 581.2 
+David_Attenborough/22uUS8vq48c_0000026 583.2 593.9 
+David_Attenborough/22uUS8vq48c_0000027 605.0 612.5 
+David_Attenborough/22uUS8vq48c_0000028 613.0 617.4 
+David_Attenborough/22uUS8vq48c_0000029 638.8 643.8 
+David_Attenborough/22uUS8vq48c_0000030 681.4 686.8 
+David_Attenborough/22uUS8vq48c_0000031 687.2 692.9 
+David_Attenborough/22uUS8vq48c_0000032 703.8 710.1 
+David_Attenborough/22uUS8vq48c_0000033 739.4 744.0 

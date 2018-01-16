@@ -1,0 +1,8 @@
+POI: 			Russell_Tovey 
+Youtube ID: 	bvIm99aAAeM 
+Video length: 	216.8 sec 
+Set (V): 		dev 
+ 
+Russell_Tovey/bvIm99aAAeM_0000001 77.2 82.4 
+Russell_Tovey/bvIm99aAAeM_0000002 113.2 117.9 
+Russell_Tovey/bvIm99aAAeM_0000003 187.9 192.6 

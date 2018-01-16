@@ -1,0 +1,7 @@
+POI: 			Natalie_Dormer 
+Youtube ID: 	erJhJEewCgM 
+Video length: 	108.1 sec 
+Set (V): 		dev 
+ 
+Natalie_Dormer/erJhJEewCgM_0000001 29.1 34.8 
+Natalie_Dormer/erJhJEewCgM_0000002 78.9 83.5 

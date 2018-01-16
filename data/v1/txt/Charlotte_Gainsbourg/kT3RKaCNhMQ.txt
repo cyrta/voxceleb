@@ -1,0 +1,11 @@
+POI: 			Charlotte_Gainsbourg 
+Youtube ID: 	kT3RKaCNhMQ 
+Video length: 	211.9 sec 
+Set (V): 		dev 
+ 
+Charlotte_Gainsbourg/kT3RKaCNhMQ_0000001 41.8 46.7 
+Charlotte_Gainsbourg/kT3RKaCNhMQ_0000002 49.4 55.7 
+Charlotte_Gainsbourg/kT3RKaCNhMQ_0000003 64.7 74.0 
+Charlotte_Gainsbourg/kT3RKaCNhMQ_0000004 127.3 132.8 
+Charlotte_Gainsbourg/kT3RKaCNhMQ_0000005 139.4 150.0 
+Charlotte_Gainsbourg/kT3RKaCNhMQ_0000006 151.0 158.6 

@@ -1,0 +1,18 @@
+POI: 			Caity_Lotz 
+Youtube ID: 	oohc6JvMZp8 
+Video length: 	293.9 sec 
+Set (V): 		dev 
+ 
+Caity_Lotz/oohc6JvMZp8_0000001 50.0 54.6 
+Caity_Lotz/oohc6JvMZp8_0000002 72.3 76.4 
+Caity_Lotz/oohc6JvMZp8_0000003 78.1 86.2 
+Caity_Lotz/oohc6JvMZp8_0000004 89.8 95.0 
+Caity_Lotz/oohc6JvMZp8_0000005 127.6 131.7 
+Caity_Lotz/oohc6JvMZp8_0000006 134.2 138.7 
+Caity_Lotz/oohc6JvMZp8_0000007 141.0 149.3 
+Caity_Lotz/oohc6JvMZp8_0000008 190.2 209.3 
+Caity_Lotz/oohc6JvMZp8_0000009 228.8 233.1 
+Caity_Lotz/oohc6JvMZp8_0000010 257.5 263.2 
+Caity_Lotz/oohc6JvMZp8_0000011 264.0 270.7 
+Caity_Lotz/oohc6JvMZp8_0000012 275.0 279.2 
+Caity_Lotz/oohc6JvMZp8_0000013 228.3 232.7 

@@ -1,0 +1,14 @@
+POI: 			Ryan_Potter 
+Youtube ID: 	Kkl4CYjLO3s 
+Video length: 	216.6 sec 
+Set (V): 		dev 
+ 
+Ryan_Potter/Kkl4CYjLO3s_0000001 15.8 20.4 
+Ryan_Potter/Kkl4CYjLO3s_0000002 30.4 35.0 
+Ryan_Potter/Kkl4CYjLO3s_0000003 46.2 51.0 
+Ryan_Potter/Kkl4CYjLO3s_0000004 68.8 74.6 
+Ryan_Potter/Kkl4CYjLO3s_0000005 74.8 82.4 
+Ryan_Potter/Kkl4CYjLO3s_0000006 82.6 96.4 
+Ryan_Potter/Kkl4CYjLO3s_0000007 144.5 148.7 
+Ryan_Potter/Kkl4CYjLO3s_0000008 149.9 160.5 
+Ryan_Potter/Kkl4CYjLO3s_0000009 160.9 178.0 

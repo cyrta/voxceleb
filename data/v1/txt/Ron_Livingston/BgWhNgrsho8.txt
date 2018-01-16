@@ -1,0 +1,11 @@
+POI: 			Ron_Livingston 
+Youtube ID: 	BgWhNgrsho8 
+Video length: 	306.6 sec 
+Set (V): 		dev 
+ 
+Ron_Livingston/BgWhNgrsho8_0000001 114.8 119.5 
+Ron_Livingston/BgWhNgrsho8_0000002 121.7 128.1 
+Ron_Livingston/BgWhNgrsho8_0000003 132.2 140.6 
+Ron_Livingston/BgWhNgrsho8_0000004 147.2 153.3 
+Ron_Livingston/BgWhNgrsho8_0000005 212.8 218.6 
+Ron_Livingston/BgWhNgrsho8_0000006 221.8 236.4 

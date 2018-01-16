@@ -1,0 +1,15 @@
+POI: 			Jennifer_Esposito 
+Youtube ID: 	BVZMV6bEE0Y 
+Video length: 	1794.1 sec 
+Set (V): 		dev 
+ 
+Jennifer_Esposito/BVZMV6bEE0Y_0000001 275.5 287.2 
+Jennifer_Esposito/BVZMV6bEE0Y_0000002 313.2 317.3 
+Jennifer_Esposito/BVZMV6bEE0Y_0000003 328.8 333.1 
+Jennifer_Esposito/BVZMV6bEE0Y_0000004 356.8 361.4 
+Jennifer_Esposito/BVZMV6bEE0Y_0000005 550.8 559.2 
+Jennifer_Esposito/BVZMV6bEE0Y_0000006 559.6 565.0 
+Jennifer_Esposito/BVZMV6bEE0Y_0000007 568.9 574.5 
+Jennifer_Esposito/BVZMV6bEE0Y_0000008 675.2 679.5 
+Jennifer_Esposito/BVZMV6bEE0Y_0000009 679.8 684.2 
+Jennifer_Esposito/BVZMV6bEE0Y_0000010 776.2 780.2 

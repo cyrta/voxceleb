@@ -1,0 +1,13 @@
+POI: 			Brendan_Gleeson 
+Youtube ID: 	2qAq26MkQ8g 
+Video length: 	323.3 sec 
+Set (V): 		dev 
+ 
+Brendan_Gleeson/2qAq26MkQ8g_0000001 62.2 70.4 
+Brendan_Gleeson/2qAq26MkQ8g_0000002 76.0 81.7 
+Brendan_Gleeson/2qAq26MkQ8g_0000003 107.4 115.5 
+Brendan_Gleeson/2qAq26MkQ8g_0000004 119.4 125.4 
+Brendan_Gleeson/2qAq26MkQ8g_0000005 141.2 147.7 
+Brendan_Gleeson/2qAq26MkQ8g_0000006 151.3 160.4 
+Brendan_Gleeson/2qAq26MkQ8g_0000007 160.7 165.3 
+Brendan_Gleeson/2qAq26MkQ8g_0000008 167.2 172.1 

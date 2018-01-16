@@ -1,0 +1,10 @@
+POI: 			Kat_Dennings 
+Youtube ID: 	jo8ZCtcWW_U 
+Video length: 	395.8 sec 
+Set (V): 		dev 
+ 
+Kat_Dennings/jo8ZCtcWW_U_0000001 99.6 104.5 
+Kat_Dennings/jo8ZCtcWW_U_0000002 221.7 225.8 
+Kat_Dennings/jo8ZCtcWW_U_0000003 232.6 237.6 
+Kat_Dennings/jo8ZCtcWW_U_0000004 304.9 309.6 
+Kat_Dennings/jo8ZCtcWW_U_0000005 317.9 327.0 

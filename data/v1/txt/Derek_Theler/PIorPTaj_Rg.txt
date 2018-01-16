@@ -1,0 +1,14 @@
+POI: 			Derek_Theler 
+Youtube ID: 	PIorPTaj_Rg 
+Video length: 	343.6 sec 
+Set (V): 		dev 
+ 
+Derek_Theler/PIorPTaj_Rg_0000001 44.8 48.9 
+Derek_Theler/PIorPTaj_Rg_0000002 78.6 85.1 
+Derek_Theler/PIorPTaj_Rg_0000003 90.5 95.2 
+Derek_Theler/PIorPTaj_Rg_0000004 151.8 158.0 
+Derek_Theler/PIorPTaj_Rg_0000005 159.0 163.1 
+Derek_Theler/PIorPTaj_Rg_0000006 212.7 217.0 
+Derek_Theler/PIorPTaj_Rg_0000007 241.0 249.3 
+Derek_Theler/PIorPTaj_Rg_0000008 281.9 287.4 
+Derek_Theler/PIorPTaj_Rg_0000009 298.1 302.6 

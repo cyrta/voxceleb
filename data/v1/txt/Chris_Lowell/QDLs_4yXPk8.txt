@@ -1,0 +1,9 @@
+POI: 			Chris_Lowell 
+Youtube ID: 	QDLs_4yXPk8 
+Video length: 	95.6 sec 
+Set (V): 		dev 
+ 
+Chris_Lowell/QDLs_4yXPk8_0000001 39.6 44.5 
+Chris_Lowell/QDLs_4yXPk8_0000002 71.0 80.2 
+Chris_Lowell/QDLs_4yXPk8_0000003 81.4 85.4 
+Chris_Lowell/QDLs_4yXPk8_0000004 88.0 93.8 

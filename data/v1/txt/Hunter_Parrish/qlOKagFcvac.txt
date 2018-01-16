@@ -1,0 +1,7 @@
+POI: 			Hunter_Parrish 
+Youtube ID: 	qlOKagFcvac 
+Video length: 	228.8 sec 
+Set (V): 		dev 
+ 
+Hunter_Parrish/qlOKagFcvac_0000001 98.1 103.0 
+Hunter_Parrish/qlOKagFcvac_0000002 103.2 111.5 

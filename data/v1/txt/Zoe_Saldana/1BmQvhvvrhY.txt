@@ -1,0 +1,7 @@
+POI: 			Zoe_Saldana 
+Youtube ID: 	1BmQvhvvrhY 
+Video length: 	242.3 sec 
+Set (V): 		dev 
+ 
+Zoe_Saldana/1BmQvhvvrhY_0000001 107.4 122.7 
+Zoe_Saldana/1BmQvhvvrhY_0000002 196.1 203.6 

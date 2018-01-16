@@ -1,0 +1,37 @@
+POI: 			John_Lloyd_Young 
+Youtube ID: 	0HiUGwfntDc 
+Video length: 	629.2 sec 
+Set (V): 		dev 
+ 
+John_Lloyd_Young/0HiUGwfntDc_0000001 24.3 28.3 
+John_Lloyd_Young/0HiUGwfntDc_0000002 33.9 40.2 
+John_Lloyd_Young/0HiUGwfntDc_0000003 111.4 119.3 
+John_Lloyd_Young/0HiUGwfntDc_0000004 123.2 127.3 
+John_Lloyd_Young/0HiUGwfntDc_0000005 147.5 152.5 
+John_Lloyd_Young/0HiUGwfntDc_0000006 162.5 168.9 
+John_Lloyd_Young/0HiUGwfntDc_0000007 193.8 198.0 
+John_Lloyd_Young/0HiUGwfntDc_0000008 198.3 204.3 
+John_Lloyd_Young/0HiUGwfntDc_0000009 219.1 226.6 
+John_Lloyd_Young/0HiUGwfntDc_0000010 247.5 252.4 
+John_Lloyd_Young/0HiUGwfntDc_0000011 283.8 290.4 
+John_Lloyd_Young/0HiUGwfntDc_0000012 325.6 332.0 
+John_Lloyd_Young/0HiUGwfntDc_0000013 333.3 337.9 
+John_Lloyd_Young/0HiUGwfntDc_0000014 370.9 376.6 
+John_Lloyd_Young/0HiUGwfntDc_0000015 387.0 396.8 
+John_Lloyd_Young/0HiUGwfntDc_0000016 404.7 409.2 
+John_Lloyd_Young/0HiUGwfntDc_0000017 409.6 417.2 
+John_Lloyd_Young/0HiUGwfntDc_0000018 431.0 447.3 
+John_Lloyd_Young/0HiUGwfntDc_0000019 448.7 463.3 
+John_Lloyd_Young/0HiUGwfntDc_0000020 492.4 497.8 
+John_Lloyd_Young/0HiUGwfntDc_0000021 388.0 397.4 
+John_Lloyd_Young/0HiUGwfntDc_0000022 404.0 408.8 
+John_Lloyd_Young/0HiUGwfntDc_0000023 409.6 414.3 
+John_Lloyd_Young/0HiUGwfntDc_0000024 511.9 517.8 
+John_Lloyd_Young/0HiUGwfntDc_0000025 518.8 523.4 
+John_Lloyd_Young/0HiUGwfntDc_0000026 540.7 544.8 
+John_Lloyd_Young/0HiUGwfntDc_0000027 560.0 566.5 
+John_Lloyd_Young/0HiUGwfntDc_0000028 583.4 589.4 
+John_Lloyd_Young/0HiUGwfntDc_0000029 590.0 594.3 
+John_Lloyd_Young/0HiUGwfntDc_0000030 596.5 601.2 
+John_Lloyd_Young/0HiUGwfntDc_0000031 604.9 609.5 
+John_Lloyd_Young/0HiUGwfntDc_0000032 610.8 618.0 

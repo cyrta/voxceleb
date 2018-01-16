@@ -1,0 +1,14 @@
+POI: 			Katherine_Heigl 
+Youtube ID: 	V6B6JoTRPz4 
+Video length: 	278.5 sec 
+Set (V): 		dev 
+ 
+Katherine_Heigl/V6B6JoTRPz4_0000001 01.0 05.0 
+Katherine_Heigl/V6B6JoTRPz4_0000002 05.6 11.6 
+Katherine_Heigl/V6B6JoTRPz4_0000003 12.3 21.1 
+Katherine_Heigl/V6B6JoTRPz4_0000004 53.9 60.1 
+Katherine_Heigl/V6B6JoTRPz4_0000005 62.3 75.9 
+Katherine_Heigl/V6B6JoTRPz4_0000006 76.7 88.9 
+Katherine_Heigl/V6B6JoTRPz4_0000007 91.4 102.3 
+Katherine_Heigl/V6B6JoTRPz4_0000008 256.9 269.6 
+Katherine_Heigl/V6B6JoTRPz4_0000009 271.9 276.8 

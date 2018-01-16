@@ -1,0 +1,11 @@
+POI: 			Hayley_Marie_Norman 
+Youtube ID: 	ljbW0T8ST80 
+Video length: 	169.7 sec 
+Set (V): 		dev 
+ 
+Hayley_Marie_Norman/ljbW0T8ST80_0000001 15.5 22.4 
+Hayley_Marie_Norman/ljbW0T8ST80_0000002 22.9 27.6 
+Hayley_Marie_Norman/ljbW0T8ST80_0000003 93.0 100.0 
+Hayley_Marie_Norman/ljbW0T8ST80_0000004 109.0 115.2 
+Hayley_Marie_Norman/ljbW0T8ST80_0000005 127.7 134.0 
+Hayley_Marie_Norman/ljbW0T8ST80_0000006 136.2 143.2 

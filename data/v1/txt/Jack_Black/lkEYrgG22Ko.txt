@@ -1,0 +1,9 @@
+POI: 			Jack_Black 
+Youtube ID: 	lkEYrgG22Ko 
+Video length: 	138.2 sec 
+Set (V): 		dev 
+ 
+Jack_Black/lkEYrgG22Ko_0000001 03.8 08.6 
+Jack_Black/lkEYrgG22Ko_0000002 15.1 19.1 
+Jack_Black/lkEYrgG22Ko_0000003 30.6 35.1 
+Jack_Black/lkEYrgG22Ko_0000004 48.6 59.3 

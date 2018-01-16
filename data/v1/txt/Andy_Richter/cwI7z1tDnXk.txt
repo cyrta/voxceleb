@@ -1,0 +1,10 @@
+POI: 			Andy_Richter 
+Youtube ID: 	cwI7z1tDnXk 
+Video length: 	309.7 sec 
+Set (V): 		dev 
+ 
+Andy_Richter/cwI7z1tDnXk_0000001 04.7 15.9 
+Andy_Richter/cwI7z1tDnXk_0000002 63.7 70.6 
+Andy_Richter/cwI7z1tDnXk_0000003 78.0 82.0 
+Andy_Richter/cwI7z1tDnXk_0000004 189.1 195.4 
+Andy_Richter/cwI7z1tDnXk_0000005 268.0 275.2 

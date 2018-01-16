@@ -1,0 +1,28 @@
+POI: 			Thomas_Ian_Nicholas 
+Youtube ID: 	0qERIT_cLB4 
+Video length: 	858.6 sec 
+Set (V): 		dev 
+ 
+Thomas_Ian_Nicholas/0qERIT_cLB4_0000001 118.5 133.0 
+Thomas_Ian_Nicholas/0qERIT_cLB4_0000002 165.3 174.0 
+Thomas_Ian_Nicholas/0qERIT_cLB4_0000003 176.2 189.1 
+Thomas_Ian_Nicholas/0qERIT_cLB4_0000004 191.2 204.9 
+Thomas_Ian_Nicholas/0qERIT_cLB4_0000005 235.3 251.6 
+Thomas_Ian_Nicholas/0qERIT_cLB4_0000006 253.7 258.6 
+Thomas_Ian_Nicholas/0qERIT_cLB4_0000007 309.2 316.7 
+Thomas_Ian_Nicholas/0qERIT_cLB4_0000008 326.1 337.1 
+Thomas_Ian_Nicholas/0qERIT_cLB4_0000009 340.5 349.3 
+Thomas_Ian_Nicholas/0qERIT_cLB4_0000010 407.6 417.9 
+Thomas_Ian_Nicholas/0qERIT_cLB4_0000011 443.3 486.3 
+Thomas_Ian_Nicholas/0qERIT_cLB4_0000012 492.0 497.6 
+Thomas_Ian_Nicholas/0qERIT_cLB4_0000013 511.6 547.4 
+Thomas_Ian_Nicholas/0qERIT_cLB4_0000014 574.6 630.2 
+Thomas_Ian_Nicholas/0qERIT_cLB4_0000015 647.0 657.6 
+Thomas_Ian_Nicholas/0qERIT_cLB4_0000016 659.4 667.2 
+Thomas_Ian_Nicholas/0qERIT_cLB4_0000017 672.6 689.7 
+Thomas_Ian_Nicholas/0qERIT_cLB4_0000018 691.8 705.1 
+Thomas_Ian_Nicholas/0qERIT_cLB4_0000019 727.1 738.7 
+Thomas_Ian_Nicholas/0qERIT_cLB4_0000020 770.2 779.6 
+Thomas_Ian_Nicholas/0qERIT_cLB4_0000021 780.3 784.5 
+Thomas_Ian_Nicholas/0qERIT_cLB4_0000022 787.0 806.5 
+Thomas_Ian_Nicholas/0qERIT_cLB4_0000023 821.4 832.4 

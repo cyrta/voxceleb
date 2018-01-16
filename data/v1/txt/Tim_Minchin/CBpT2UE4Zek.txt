@@ -1,0 +1,8 @@
+POI: 			Tim_Minchin 
+Youtube ID: 	CBpT2UE4Zek 
+Video length: 	274.3 sec 
+Set (V): 		dev 
+ 
+Tim_Minchin/CBpT2UE4Zek_0000001 49.1 60.3 
+Tim_Minchin/CBpT2UE4Zek_0000002 142.6 152.6 
+Tim_Minchin/CBpT2UE4Zek_0000003 158.1 163.2 

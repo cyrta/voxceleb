@@ -1,0 +1,8 @@
+POI: 			Hilarie_Burton 
+Youtube ID: 	7jyKL_6kkNg 
+Video length: 	295.1 sec 
+Set (V): 		dev 
+ 
+Hilarie_Burton/7jyKL_6kkNg_0000001 50.5 55.9 
+Hilarie_Burton/7jyKL_6kkNg_0000002 96.2 100.3 
+Hilarie_Burton/7jyKL_6kkNg_0000003 276.6 280.9 

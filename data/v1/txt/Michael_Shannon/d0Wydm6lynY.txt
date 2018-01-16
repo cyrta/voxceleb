@@ -1,0 +1,13 @@
+POI: 			Michael_Shannon 
+Youtube ID: 	d0Wydm6lynY 
+Video length: 	361.8 sec 
+Set (V): 		dev 
+ 
+Michael_Shannon/d0Wydm6lynY_0000001 32.1 37.4 
+Michael_Shannon/d0Wydm6lynY_0000002 137.6 141.7 
+Michael_Shannon/d0Wydm6lynY_0000003 145.0 149.8 
+Michael_Shannon/d0Wydm6lynY_0000004 240.5 244.9 
+Michael_Shannon/d0Wydm6lynY_0000005 289.2 293.3 
+Michael_Shannon/d0Wydm6lynY_0000006 295.7 300.4 
+Michael_Shannon/d0Wydm6lynY_0000007 319.2 324.8 
+Michael_Shannon/d0Wydm6lynY_0000008 335.2 339.2 

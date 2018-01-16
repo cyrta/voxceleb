@@ -1,0 +1,10 @@
+POI: 			Shirley_Manson 
+Youtube ID: 	KzHfauHL0Lg 
+Video length: 	194.6 sec 
+Set (V): 		dev 
+ 
+Shirley_Manson/KzHfauHL0Lg_0000001 03.1 08.2 
+Shirley_Manson/KzHfauHL0Lg_0000002 12.6 19.0 
+Shirley_Manson/KzHfauHL0Lg_0000003 22.2 26.5 
+Shirley_Manson/KzHfauHL0Lg_0000004 28.6 37.0 
+Shirley_Manson/KzHfauHL0Lg_0000005 106.3 111.9 

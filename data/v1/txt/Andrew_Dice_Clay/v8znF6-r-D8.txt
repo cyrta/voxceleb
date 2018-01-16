@@ -1,0 +1,12 @@
+POI: 			Andrew_Dice_Clay 
+Youtube ID: 	v8znF6-r-D8 
+Video length: 	295.3 sec 
+Set (V): 		dev 
+ 
+Andrew_Dice_Clay/v8znF6-r-D8_0000001 69.5 76.9 
+Andrew_Dice_Clay/v8znF6-r-D8_0000002 77.2 83.1 
+Andrew_Dice_Clay/v8znF6-r-D8_0000003 109.8 114.5 
+Andrew_Dice_Clay/v8znF6-r-D8_0000004 147.5 154.4 
+Andrew_Dice_Clay/v8znF6-r-D8_0000005 176.1 181.1 
+Andrew_Dice_Clay/v8znF6-r-D8_0000006 225.4 233.1 
+Andrew_Dice_Clay/v8znF6-r-D8_0000007 243.3 247.8 

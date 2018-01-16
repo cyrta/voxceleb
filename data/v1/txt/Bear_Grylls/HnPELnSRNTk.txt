@@ -1,0 +1,8 @@
+POI: 			Bear_Grylls 
+Youtube ID: 	HnPELnSRNTk 
+Video length: 	268.7 sec 
+Set (V): 		dev 
+ 
+Bear_Grylls/HnPELnSRNTk_0000001 49.4 53.5 
+Bear_Grylls/HnPELnSRNTk_0000002 88.8 101.6 
+Bear_Grylls/HnPELnSRNTk_0000003 167.4 174.5 

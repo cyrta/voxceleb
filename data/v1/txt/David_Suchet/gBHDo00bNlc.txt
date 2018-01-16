@@ -1,0 +1,11 @@
+POI: 			David_Suchet 
+Youtube ID: 	gBHDo00bNlc 
+Video length: 	76.6 sec 
+Set (V): 		dev 
+ 
+David_Suchet/gBHDo00bNlc_0000001 05.5 11.8 
+David_Suchet/gBHDo00bNlc_0000002 12.4 19.3 
+David_Suchet/gBHDo00bNlc_0000003 31.9 52.8 
+David_Suchet/gBHDo00bNlc_0000004 53.4 59.3 
+David_Suchet/gBHDo00bNlc_0000005 12.4 19.4 
+David_Suchet/gBHDo00bNlc_0000006 39.5 49.6 

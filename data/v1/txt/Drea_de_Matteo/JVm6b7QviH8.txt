@@ -1,0 +1,37 @@
+POI: 			Drea_de_Matteo 
+Youtube ID: 	JVm6b7QviH8 
+Video length: 	463.1 sec 
+Set (V): 		dev 
+ 
+Drea_de_Matteo/JVm6b7QviH8_0000001 01.1 10.4 
+Drea_de_Matteo/JVm6b7QviH8_0000002 22.2 27.6 
+Drea_de_Matteo/JVm6b7QviH8_0000003 32.8 41.4 
+Drea_de_Matteo/JVm6b7QviH8_0000004 44.8 49.0 
+Drea_de_Matteo/JVm6b7QviH8_0000005 52.8 57.2 
+Drea_de_Matteo/JVm6b7QviH8_0000006 58.6 70.0 
+Drea_de_Matteo/JVm6b7QviH8_0000007 70.6 79.4 
+Drea_de_Matteo/JVm6b7QviH8_0000008 79.5 83.7 
+Drea_de_Matteo/JVm6b7QviH8_0000009 98.8 106.6 
+Drea_de_Matteo/JVm6b7QviH8_0000010 111.6 116.6 
+Drea_de_Matteo/JVm6b7QviH8_0000011 117.1 124.8 
+Drea_de_Matteo/JVm6b7QviH8_0000012 136.6 164.1 
+Drea_de_Matteo/JVm6b7QviH8_0000013 171.4 180.4 
+Drea_de_Matteo/JVm6b7QviH8_0000014 181.6 186.7 
+Drea_de_Matteo/JVm6b7QviH8_0000015 193.4 198.4 
+Drea_de_Matteo/JVm6b7QviH8_0000016 200.0 216.0 
+Drea_de_Matteo/JVm6b7QviH8_0000017 216.9 223.1 
+Drea_de_Matteo/JVm6b7QviH8_0000018 227.6 238.4 
+Drea_de_Matteo/JVm6b7QviH8_0000019 244.3 249.9 
+Drea_de_Matteo/JVm6b7QviH8_0000020 257.6 272.5 
+Drea_de_Matteo/JVm6b7QviH8_0000021 273.2 278.0 
+Drea_de_Matteo/JVm6b7QviH8_0000022 278.7 296.0 
+Drea_de_Matteo/JVm6b7QviH8_0000023 304.4 314.8 
+Drea_de_Matteo/JVm6b7QviH8_0000024 315.6 323.2 
+Drea_de_Matteo/JVm6b7QviH8_0000025 325.2 348.0 
+Drea_de_Matteo/JVm6b7QviH8_0000026 349.7 366.2 
+Drea_de_Matteo/JVm6b7QviH8_0000027 386.1 393.4 
+Drea_de_Matteo/JVm6b7QviH8_0000028 393.6 405.9 
+Drea_de_Matteo/JVm6b7QviH8_0000029 410.4 414.8 
+Drea_de_Matteo/JVm6b7QviH8_0000030 414.9 426.7 
+Drea_de_Matteo/JVm6b7QviH8_0000031 427.1 443.2 
+Drea_de_Matteo/JVm6b7QviH8_0000032 446.5 453.9 

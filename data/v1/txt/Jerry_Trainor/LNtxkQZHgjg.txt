@@ -1,0 +1,22 @@
+POI: 			Jerry_Trainor 
+Youtube ID: 	LNtxkQZHgjg 
+Video length: 	282.5 sec 
+Set (V): 		dev 
+ 
+Jerry_Trainor/LNtxkQZHgjg_0000001 11.0 15.9 
+Jerry_Trainor/LNtxkQZHgjg_0000002 31.4 36.1 
+Jerry_Trainor/LNtxkQZHgjg_0000003 37.6 42.0 
+Jerry_Trainor/LNtxkQZHgjg_0000004 47.7 53.0 
+Jerry_Trainor/LNtxkQZHgjg_0000005 62.5 66.9 
+Jerry_Trainor/LNtxkQZHgjg_0000006 74.0 85.9 
+Jerry_Trainor/LNtxkQZHgjg_0000007 86.7 97.4 
+Jerry_Trainor/LNtxkQZHgjg_0000008 103.9 108.2 
+Jerry_Trainor/LNtxkQZHgjg_0000009 109.7 114.9 
+Jerry_Trainor/LNtxkQZHgjg_0000010 115.2 126.5 
+Jerry_Trainor/LNtxkQZHgjg_0000011 128.7 134.6 
+Jerry_Trainor/LNtxkQZHgjg_0000012 140.9 149.5 
+Jerry_Trainor/LNtxkQZHgjg_0000013 172.7 177.0 
+Jerry_Trainor/LNtxkQZHgjg_0000014 191.4 198.7 
+Jerry_Trainor/LNtxkQZHgjg_0000015 226.7 233.2 
+Jerry_Trainor/LNtxkQZHgjg_0000016 244.2 250.4 
+Jerry_Trainor/LNtxkQZHgjg_0000017 259.6 271.2 

@@ -1,0 +1,14 @@
+POI: 			Charlie_Day 
+Youtube ID: 	RLrwS1b_mp4 
+Video length: 	271.1 sec 
+Set (V): 		dev 
+ 
+Charlie_Day/RLrwS1b_mp4_0000001 45.0 51.4 
+Charlie_Day/RLrwS1b_mp4_0000002 65.6 77.6 
+Charlie_Day/RLrwS1b_mp4_0000003 78.3 86.6 
+Charlie_Day/RLrwS1b_mp4_0000004 86.8 97.3 
+Charlie_Day/RLrwS1b_mp4_0000005 101.1 120.4 
+Charlie_Day/RLrwS1b_mp4_0000006 135.9 142.3 
+Charlie_Day/RLrwS1b_mp4_0000007 143.0 150.2 
+Charlie_Day/RLrwS1b_mp4_0000008 169.0 173.0 
+Charlie_Day/RLrwS1b_mp4_0000009 191.2 197.9 

@@ -1,0 +1,14 @@
+POI: 			Sean_Pertwee 
+Youtube ID: 	P_Z5IEJRk4Y 
+Video length: 	424.2 sec 
+Set (V): 		dev 
+ 
+Sean_Pertwee/P_Z5IEJRk4Y_0000001 10.2 20.9 
+Sean_Pertwee/P_Z5IEJRk4Y_0000002 65.9 81.8 
+Sean_Pertwee/P_Z5IEJRk4Y_0000003 88.6 107.0 
+Sean_Pertwee/P_Z5IEJRk4Y_0000004 221.2 228.2 
+Sean_Pertwee/P_Z5IEJRk4Y_0000005 244.4 248.7 
+Sean_Pertwee/P_Z5IEJRk4Y_0000006 266.8 275.0 
+Sean_Pertwee/P_Z5IEJRk4Y_0000007 309.6 320.1 
+Sean_Pertwee/P_Z5IEJRk4Y_0000008 346.6 351.0 
+Sean_Pertwee/P_Z5IEJRk4Y_0000009 362.2 366.3 

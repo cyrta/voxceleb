@@ -1,0 +1,9 @@
+POI: 			Blake_Michael 
+Youtube ID: 	er_sigyI2f8 
+Video length: 	310.3 sec 
+Set (V): 		dev 
+ 
+Blake_Michael/er_sigyI2f8_0000001 66.4 75.7 
+Blake_Michael/er_sigyI2f8_0000002 258.3 262.6 
+Blake_Michael/er_sigyI2f8_0000003 266.1 271.0 
+Blake_Michael/er_sigyI2f8_0000004 298.0 302.9 

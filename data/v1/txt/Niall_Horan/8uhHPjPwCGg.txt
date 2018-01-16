@@ -1,0 +1,11 @@
+POI: 			Niall_Horan 
+Youtube ID: 	8uhHPjPwCGg 
+Video length: 	433.4 sec 
+Set (V): 		dev 
+ 
+Niall_Horan/8uhHPjPwCGg_0000001 81.0 92.8 
+Niall_Horan/8uhHPjPwCGg_0000002 110.2 120.4 
+Niall_Horan/8uhHPjPwCGg_0000003 207.1 213.5 
+Niall_Horan/8uhHPjPwCGg_0000004 282.4 302.2 
+Niall_Horan/8uhHPjPwCGg_0000005 372.5 381.5 
+Niall_Horan/8uhHPjPwCGg_0000006 414.1 429.2 

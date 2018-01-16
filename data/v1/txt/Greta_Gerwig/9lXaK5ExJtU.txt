@@ -1,0 +1,18 @@
+POI: 			Greta_Gerwig 
+Youtube ID: 	9lXaK5ExJtU 
+Video length: 	403.8 sec 
+Set (V): 		dev 
+ 
+Greta_Gerwig/9lXaK5ExJtU_0000001 91.2 104.6 
+Greta_Gerwig/9lXaK5ExJtU_0000002 105.2 125.2 
+Greta_Gerwig/9lXaK5ExJtU_0000003 126.6 140.0 
+Greta_Gerwig/9lXaK5ExJtU_0000004 147.8 154.3 
+Greta_Gerwig/9lXaK5ExJtU_0000005 166.6 171.6 
+Greta_Gerwig/9lXaK5ExJtU_0000006 171.8 179.2 
+Greta_Gerwig/9lXaK5ExJtU_0000007 234.6 248.3 
+Greta_Gerwig/9lXaK5ExJtU_0000008 249.1 255.7 
+Greta_Gerwig/9lXaK5ExJtU_0000009 256.1 261.4 
+Greta_Gerwig/9lXaK5ExJtU_0000010 261.8 273.9 
+Greta_Gerwig/9lXaK5ExJtU_0000011 280.2 288.6 
+Greta_Gerwig/9lXaK5ExJtU_0000012 339.5 343.5 
+Greta_Gerwig/9lXaK5ExJtU_0000013 354.3 363.2 

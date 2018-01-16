@@ -1,0 +1,8 @@
+POI: 			Josh_Gad 
+Youtube ID: 	2OPnAtZCN9o 
+Video length: 	327.5 sec 
+Set (V): 		dev 
+ 
+Josh_Gad/2OPnAtZCN9o_0000001 06.6 10.9 
+Josh_Gad/2OPnAtZCN9o_0000002 301.5 306.9 
+Josh_Gad/2OPnAtZCN9o_0000003 320.9 325.0 

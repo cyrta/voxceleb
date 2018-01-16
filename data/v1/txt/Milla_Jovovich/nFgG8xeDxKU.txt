@@ -1,0 +1,16 @@
+POI: 			Milla_Jovovich 
+Youtube ID: 	nFgG8xeDxKU 
+Video length: 	311.0 sec 
+Set (V): 		dev 
+ 
+Milla_Jovovich/nFgG8xeDxKU_0000001 63.0 69.1 
+Milla_Jovovich/nFgG8xeDxKU_0000002 75.7 81.9 
+Milla_Jovovich/nFgG8xeDxKU_0000003 84.6 89.6 
+Milla_Jovovich/nFgG8xeDxKU_0000004 97.6 103.2 
+Milla_Jovovich/nFgG8xeDxKU_0000005 103.8 110.2 
+Milla_Jovovich/nFgG8xeDxKU_0000006 126.2 149.8 
+Milla_Jovovich/nFgG8xeDxKU_0000007 152.0 167.2 
+Milla_Jovovich/nFgG8xeDxKU_0000008 184.6 194.8 
+Milla_Jovovich/nFgG8xeDxKU_0000009 226.4 237.8 
+Milla_Jovovich/nFgG8xeDxKU_0000010 238.8 243.2 
+Milla_Jovovich/nFgG8xeDxKU_0000011 260.5 266.3 

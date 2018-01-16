@@ -1,0 +1,26 @@
+POI: 			Steve_Jobs 
+Youtube ID: 	GuB-d7jRkCw 
+Video length: 	764.3 sec 
+Set (V): 		dev 
+ 
+Steve_Jobs/GuB-d7jRkCw_0000001 42.2 46.9 
+Steve_Jobs/GuB-d7jRkCw_0000002 65.3 69.7 
+Steve_Jobs/GuB-d7jRkCw_0000003 154.8 159.8 
+Steve_Jobs/GuB-d7jRkCw_0000004 187.4 206.2 
+Steve_Jobs/GuB-d7jRkCw_0000005 217.9 225.0 
+Steve_Jobs/GuB-d7jRkCw_0000006 305.0 316.8 
+Steve_Jobs/GuB-d7jRkCw_0000007 346.2 352.7 
+Steve_Jobs/GuB-d7jRkCw_0000008 353.3 360.9 
+Steve_Jobs/GuB-d7jRkCw_0000009 379.8 391.9 
+Steve_Jobs/GuB-d7jRkCw_0000010 408.0 413.4 
+Steve_Jobs/GuB-d7jRkCw_0000011 470.3 479.4 
+Steve_Jobs/GuB-d7jRkCw_0000012 499.3 508.8 
+Steve_Jobs/GuB-d7jRkCw_0000013 516.8 525.0 
+Steve_Jobs/GuB-d7jRkCw_0000014 570.7 576.5 
+Steve_Jobs/GuB-d7jRkCw_0000015 606.1 611.1 
+Steve_Jobs/GuB-d7jRkCw_0000016 630.8 635.1 
+Steve_Jobs/GuB-d7jRkCw_0000017 635.5 647.7 
+Steve_Jobs/GuB-d7jRkCw_0000018 668.0 672.3 
+Steve_Jobs/GuB-d7jRkCw_0000019 682.2 697.8 
+Steve_Jobs/GuB-d7jRkCw_0000020 718.1 729.7 
+Steve_Jobs/GuB-d7jRkCw_0000021 737.6 744.6 

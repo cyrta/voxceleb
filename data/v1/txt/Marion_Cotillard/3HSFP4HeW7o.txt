@@ -1,0 +1,17 @@
+POI: 			Marion_Cotillard 
+Youtube ID: 	3HSFP4HeW7o 
+Video length: 	510.9 sec 
+Set (V): 		dev 
+ 
+Marion_Cotillard/3HSFP4HeW7o_0000001 53.2 60.0 
+Marion_Cotillard/3HSFP4HeW7o_0000002 94.5 99.6 
+Marion_Cotillard/3HSFP4HeW7o_0000003 112.6 117.5 
+Marion_Cotillard/3HSFP4HeW7o_0000004 149.9 156.3 
+Marion_Cotillard/3HSFP4HeW7o_0000005 157.1 161.1 
+Marion_Cotillard/3HSFP4HeW7o_0000006 161.2 177.8 
+Marion_Cotillard/3HSFP4HeW7o_0000007 205.7 210.6 
+Marion_Cotillard/3HSFP4HeW7o_0000008 214.6 219.6 
+Marion_Cotillard/3HSFP4HeW7o_0000009 369.0 373.8 
+Marion_Cotillard/3HSFP4HeW7o_0000010 427.5 432.4 
+Marion_Cotillard/3HSFP4HeW7o_0000011 473.4 477.4 
+Marion_Cotillard/3HSFP4HeW7o_0000012 486.8 496.0 

@@ -1,0 +1,12 @@
+POI: 			Sam_Heughan 
+Youtube ID: 	Zwlvrjkn6Ac 
+Video length: 	465.3 sec 
+Set (V): 		dev 
+ 
+Sam_Heughan/Zwlvrjkn6Ac_0000001 90.8 96.1 
+Sam_Heughan/Zwlvrjkn6Ac_0000002 176.7 182.5 
+Sam_Heughan/Zwlvrjkn6Ac_0000003 300.6 305.4 
+Sam_Heughan/Zwlvrjkn6Ac_0000004 318.2 327.5 
+Sam_Heughan/Zwlvrjkn6Ac_0000005 449.5 453.5 
+Sam_Heughan/Zwlvrjkn6Ac_0000006 453.9 458.0 
+Sam_Heughan/Zwlvrjkn6Ac_0000007 458.1 462.9 

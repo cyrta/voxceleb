@@ -1,0 +1,8 @@
+POI: 			Melissa_McCarthy 
+Youtube ID: 	Rc5FWROhp5Q 
+Video length: 	128.2 sec 
+Set (V): 		dev 
+ 
+Melissa_McCarthy/Rc5FWROhp5Q_0000001 03.9 10.1 
+Melissa_McCarthy/Rc5FWROhp5Q_0000002 11.3 22.2 
+Melissa_McCarthy/Rc5FWROhp5Q_0000003 32.3 36.4 

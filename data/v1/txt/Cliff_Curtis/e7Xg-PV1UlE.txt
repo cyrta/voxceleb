@@ -1,0 +1,19 @@
+POI: 			Cliff_Curtis 
+Youtube ID: 	e7Xg-PV1UlE 
+Video length: 	1741.1 sec 
+Set (V): 		dev 
+ 
+Cliff_Curtis/e7Xg-PV1UlE_0000001 333.2 339.3 
+Cliff_Curtis/e7Xg-PV1UlE_0000002 426.2 431.8 
+Cliff_Curtis/e7Xg-PV1UlE_0000003 461.3 466.4 
+Cliff_Curtis/e7Xg-PV1UlE_0000004 743.7 748.6 
+Cliff_Curtis/e7Xg-PV1UlE_0000005 806.0 810.3 
+Cliff_Curtis/e7Xg-PV1UlE_0000006 843.7 848.8 
+Cliff_Curtis/e7Xg-PV1UlE_0000007 866.1 870.3 
+Cliff_Curtis/e7Xg-PV1UlE_0000008 926.5 934.4 
+Cliff_Curtis/e7Xg-PV1UlE_0000009 953.8 957.9 
+Cliff_Curtis/e7Xg-PV1UlE_0000010 961.2 965.1 
+Cliff_Curtis/e7Xg-PV1UlE_0000011 1073.8 1079.2 
+Cliff_Curtis/e7Xg-PV1UlE_0000012 1136.9 1152.5 
+Cliff_Curtis/e7Xg-PV1UlE_0000013 1557.2 1561.2 
+Cliff_Curtis/e7Xg-PV1UlE_0000014 1586.6 1591.7 

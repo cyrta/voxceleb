@@ -1,0 +1,15 @@
+POI: 			Andrew_Garfield 
+Youtube ID: 	zAGBGfvFg6g 
+Video length: 	337.4 sec 
+Set (V): 		dev 
+ 
+Andrew_Garfield/zAGBGfvFg6g_0000001 38.5 44.6 
+Andrew_Garfield/zAGBGfvFg6g_0000002 46.3 55.2 
+Andrew_Garfield/zAGBGfvFg6g_0000003 60.3 65.8 
+Andrew_Garfield/zAGBGfvFg6g_0000004 71.3 86.8 
+Andrew_Garfield/zAGBGfvFg6g_0000005 87.0 94.8 
+Andrew_Garfield/zAGBGfvFg6g_0000006 95.0 99.8 
+Andrew_Garfield/zAGBGfvFg6g_0000007 121.2 125.2 
+Andrew_Garfield/zAGBGfvFg6g_0000008 165.3 183.4 
+Andrew_Garfield/zAGBGfvFg6g_0000009 247.7 258.0 
+Andrew_Garfield/zAGBGfvFg6g_0000010 277.5 289.2 

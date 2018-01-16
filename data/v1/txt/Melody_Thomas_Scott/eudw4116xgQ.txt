@@ -1,0 +1,18 @@
+POI: 			Melody_Thomas_Scott 
+Youtube ID: 	eudw4116xgQ 
+Video length: 	583.9 sec 
+Set (V): 		dev 
+ 
+Melody_Thomas_Scott/eudw4116xgQ_0000001 95.4 100.6 
+Melody_Thomas_Scott/eudw4116xgQ_0000002 134.9 143.2 
+Melody_Thomas_Scott/eudw4116xgQ_0000003 183.0 191.4 
+Melody_Thomas_Scott/eudw4116xgQ_0000004 195.8 200.4 
+Melody_Thomas_Scott/eudw4116xgQ_0000005 200.8 214.8 
+Melody_Thomas_Scott/eudw4116xgQ_0000006 216.8 222.3 
+Melody_Thomas_Scott/eudw4116xgQ_0000007 278.3 291.6 
+Melody_Thomas_Scott/eudw4116xgQ_0000008 328.4 335.6 
+Melody_Thomas_Scott/eudw4116xgQ_0000009 336.9 344.6 
+Melody_Thomas_Scott/eudw4116xgQ_0000010 492.9 498.6 
+Melody_Thomas_Scott/eudw4116xgQ_0000011 501.4 510.9 
+Melody_Thomas_Scott/eudw4116xgQ_0000012 512.0 520.2 
+Melody_Thomas_Scott/eudw4116xgQ_0000013 525.4 533.5 

@@ -1,0 +1,7 @@
+POI: 			Nina_Arianda 
+Youtube ID: 	bKy35AYT6Z4 
+Video length: 	161.0 sec 
+Set (V): 		dev 
+ 
+Nina_Arianda/bKy35AYT6Z4_0000001 58.3 64.0 
+Nina_Arianda/bKy35AYT6Z4_0000002 134.4 141.4 

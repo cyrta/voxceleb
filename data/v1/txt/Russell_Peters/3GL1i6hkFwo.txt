@@ -1,0 +1,13 @@
+POI: 			Russell_Peters 
+Youtube ID: 	3GL1i6hkFwo 
+Video length: 	565.9 sec 
+Set (V): 		dev 
+ 
+Russell_Peters/3GL1i6hkFwo_0000001 117.6 121.6 
+Russell_Peters/3GL1i6hkFwo_0000002 125.0 129.2 
+Russell_Peters/3GL1i6hkFwo_0000003 133.9 139.5 
+Russell_Peters/3GL1i6hkFwo_0000004 179.2 185.4 
+Russell_Peters/3GL1i6hkFwo_0000005 194.1 199.4 
+Russell_Peters/3GL1i6hkFwo_0000006 333.2 338.4 
+Russell_Peters/3GL1i6hkFwo_0000007 406.5 412.2 
+Russell_Peters/3GL1i6hkFwo_0000008 468.8 475.3 

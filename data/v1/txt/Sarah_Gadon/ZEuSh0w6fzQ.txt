@@ -1,0 +1,9 @@
+POI: 			Sarah_Gadon 
+Youtube ID: 	ZEuSh0w6fzQ 
+Video length: 	729.3 sec 
+Set (V): 		dev 
+ 
+Sarah_Gadon/ZEuSh0w6fzQ_0000001 134.8 142.5 
+Sarah_Gadon/ZEuSh0w6fzQ_0000002 143.2 164.1 
+Sarah_Gadon/ZEuSh0w6fzQ_0000003 307.6 313.6 
+Sarah_Gadon/ZEuSh0w6fzQ_0000004 313.8 332.6 

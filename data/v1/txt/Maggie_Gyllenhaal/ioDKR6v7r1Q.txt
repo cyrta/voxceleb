@@ -1,0 +1,15 @@
+POI: 			Maggie_Gyllenhaal 
+Youtube ID: 	ioDKR6v7r1Q 
+Video length: 	237.7 sec 
+Set (V): 		dev 
+ 
+Maggie_Gyllenhaal/ioDKR6v7r1Q_0000001 65.2 72.3 
+Maggie_Gyllenhaal/ioDKR6v7r1Q_0000002 76.2 80.6 
+Maggie_Gyllenhaal/ioDKR6v7r1Q_0000003 83.1 87.9 
+Maggie_Gyllenhaal/ioDKR6v7r1Q_0000004 112.2 122.4 
+Maggie_Gyllenhaal/ioDKR6v7r1Q_0000005 123.3 131.4 
+Maggie_Gyllenhaal/ioDKR6v7r1Q_0000006 131.8 137.5 
+Maggie_Gyllenhaal/ioDKR6v7r1Q_0000007 153.6 157.8 
+Maggie_Gyllenhaal/ioDKR6v7r1Q_0000008 177.9 190.5 
+Maggie_Gyllenhaal/ioDKR6v7r1Q_0000009 199.8 206.1 
+Maggie_Gyllenhaal/ioDKR6v7r1Q_0000010 207.4 225.2 

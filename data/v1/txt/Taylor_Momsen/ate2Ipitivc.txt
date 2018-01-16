@@ -1,0 +1,10 @@
+POI: 			Taylor_Momsen 
+Youtube ID: 	ate2Ipitivc 
+Video length: 	532.2 sec 
+Set (V): 		dev 
+ 
+Taylor_Momsen/ate2Ipitivc_0000001 270.1 279.0 
+Taylor_Momsen/ate2Ipitivc_0000002 308.3 319.2 
+Taylor_Momsen/ate2Ipitivc_0000003 325.4 329.8 
+Taylor_Momsen/ate2Ipitivc_0000004 376.0 380.6 
+Taylor_Momsen/ate2Ipitivc_0000005 387.5 392.5 

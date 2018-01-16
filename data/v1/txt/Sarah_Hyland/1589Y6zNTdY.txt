@@ -1,0 +1,8 @@
+POI: 			Sarah_Hyland 
+Youtube ID: 	1589Y6zNTdY 
+Video length: 	247.9 sec 
+Set (V): 		dev 
+ 
+Sarah_Hyland/1589Y6zNTdY_0000001 64.6 74.7 
+Sarah_Hyland/1589Y6zNTdY_0000002 152.6 157.2 
+Sarah_Hyland/1589Y6zNTdY_0000003 174.4 179.7 

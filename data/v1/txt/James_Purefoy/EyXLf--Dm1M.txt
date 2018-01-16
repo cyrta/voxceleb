@@ -1,0 +1,8 @@
+POI: 			James_Purefoy 
+Youtube ID: 	EyXLf--Dm1M 
+Video length: 	280.3 sec 
+Set (V): 		dev 
+ 
+James_Purefoy/EyXLf--Dm1M_0000001 69.4 74.2 
+James_Purefoy/EyXLf--Dm1M_0000002 109.7 116.3 
+James_Purefoy/EyXLf--Dm1M_0000003 171.6 177.0 

@@ -1,0 +1,20 @@
+POI: 			Josh_Radnor 
+Youtube ID: 	MwP58SquT_U 
+Video length: 	283.1 sec 
+Set (V): 		dev 
+ 
+Josh_Radnor/MwP58SquT_U_0000001 10.9 15.4 
+Josh_Radnor/MwP58SquT_U_0000002 16.8 28.4 
+Josh_Radnor/MwP58SquT_U_0000003 49.9 70.2 
+Josh_Radnor/MwP58SquT_U_0000004 70.4 84.8 
+Josh_Radnor/MwP58SquT_U_0000005 97.2 111.6 
+Josh_Radnor/MwP58SquT_U_0000006 111.8 122.9 
+Josh_Radnor/MwP58SquT_U_0000007 123.4 141.5 
+Josh_Radnor/MwP58SquT_U_0000008 148.9 156.0 
+Josh_Radnor/MwP58SquT_U_0000009 157.2 161.9 
+Josh_Radnor/MwP58SquT_U_0000010 162.1 166.4 
+Josh_Radnor/MwP58SquT_U_0000011 166.9 180.9 
+Josh_Radnor/MwP58SquT_U_0000012 182.0 191.8 
+Josh_Radnor/MwP58SquT_U_0000013 211.6 244.0 
+Josh_Radnor/MwP58SquT_U_0000014 246.5 250.7 
+Josh_Radnor/MwP58SquT_U_0000015 263.9 278.8 

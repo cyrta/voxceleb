@@ -1,0 +1,9 @@
+POI: 			Bellamy_Young 
+Youtube ID: 	bTsNCIsDx80 
+Video length: 	737.9 sec 
+Set (V): 		dev 
+ 
+Bellamy_Young/bTsNCIsDx80_0000001 71.1 75.6 
+Bellamy_Young/bTsNCIsDx80_0000002 248.1 252.8 
+Bellamy_Young/bTsNCIsDx80_0000003 448.8 455.4 
+Bellamy_Young/bTsNCIsDx80_0000004 627.7 631.8 

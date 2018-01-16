@@ -1,0 +1,8 @@
+POI: 			Kristian_Alfonso 
+Youtube ID: 	IuEF29gyhcM 
+Video length: 	355.2 sec 
+Set (V): 		dev 
+ 
+Kristian_Alfonso/IuEF29gyhcM_0000001 109.2 121.9 
+Kristian_Alfonso/IuEF29gyhcM_0000002 256.2 261.2 
+Kristian_Alfonso/IuEF29gyhcM_0000003 265.5 278.1 

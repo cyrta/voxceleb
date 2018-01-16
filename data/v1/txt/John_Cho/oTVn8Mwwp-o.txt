@@ -1,0 +1,12 @@
+POI: 			John_Cho 
+Youtube ID: 	oTVn8Mwwp-o 
+Video length: 	414.9 sec 
+Set (V): 		dev 
+ 
+John_Cho/oTVn8Mwwp-o_0000001 108.2 112.2 
+John_Cho/oTVn8Mwwp-o_0000002 112.8 119.5 
+John_Cho/oTVn8Mwwp-o_0000003 129.3 134.1 
+John_Cho/oTVn8Mwwp-o_0000004 181.8 185.9 
+John_Cho/oTVn8Mwwp-o_0000005 213.5 217.4 
+John_Cho/oTVn8Mwwp-o_0000006 250.3 255.3 
+John_Cho/oTVn8Mwwp-o_0000007 282.5 288.6 

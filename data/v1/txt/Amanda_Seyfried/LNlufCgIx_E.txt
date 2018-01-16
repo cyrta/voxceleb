@@ -1,0 +1,9 @@
+POI: 			Amanda_Seyfried 
+Youtube ID: 	LNlufCgIx_E 
+Video length: 	170.1 sec 
+Set (V): 		dev 
+ 
+Amanda_Seyfried/LNlufCgIx_E_0000001 37.8 43.4 
+Amanda_Seyfried/LNlufCgIx_E_0000002 57.9 63.7 
+Amanda_Seyfried/LNlufCgIx_E_0000003 106.6 111.4 
+Amanda_Seyfried/LNlufCgIx_E_0000004 119.3 123.8 

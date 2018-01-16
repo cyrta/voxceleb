@@ -1,0 +1,22 @@
+POI: 			Lou_Ferrigno 
+Youtube ID: 	iQsZS9txljM 
+Video length: 	494.7 sec 
+Set (V): 		dev 
+ 
+Lou_Ferrigno/iQsZS9txljM_0000001 65.3 72.1 
+Lou_Ferrigno/iQsZS9txljM_0000002 102.7 106.7 
+Lou_Ferrigno/iQsZS9txljM_0000003 107.2 112.0 
+Lou_Ferrigno/iQsZS9txljM_0000004 113.2 117.9 
+Lou_Ferrigno/iQsZS9txljM_0000005 119.0 124.2 
+Lou_Ferrigno/iQsZS9txljM_0000006 147.4 151.7 
+Lou_Ferrigno/iQsZS9txljM_0000007 170.4 180.5 
+Lou_Ferrigno/iQsZS9txljM_0000008 185.3 190.3 
+Lou_Ferrigno/iQsZS9txljM_0000009 193.8 204.4 
+Lou_Ferrigno/iQsZS9txljM_0000010 252.0 259.8 
+Lou_Ferrigno/iQsZS9txljM_0000011 285.7 297.0 
+Lou_Ferrigno/iQsZS9txljM_0000012 304.4 314.9 
+Lou_Ferrigno/iQsZS9txljM_0000013 330.6 338.2 
+Lou_Ferrigno/iQsZS9txljM_0000014 415.3 419.8 
+Lou_Ferrigno/iQsZS9txljM_0000015 428.1 436.9 
+Lou_Ferrigno/iQsZS9txljM_0000016 437.0 442.7 
+Lou_Ferrigno/iQsZS9txljM_0000017 444.5 450.7 

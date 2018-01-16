@@ -1,0 +1,47 @@
+POI: 			Sammi_Hanratty 
+Youtube ID: 	XulUet7BRFA 
+Video length: 	490.4 sec 
+Set (V): 		dev 
+ 
+Sammi_Hanratty/XulUet7BRFA_0000001 10.8 16.3 
+Sammi_Hanratty/XulUet7BRFA_0000002 17.0 27.0 
+Sammi_Hanratty/XulUet7BRFA_0000003 56.6 71.4 
+Sammi_Hanratty/XulUet7BRFA_0000004 75.2 80.3 
+Sammi_Hanratty/XulUet7BRFA_0000005 92.2 96.6 
+Sammi_Hanratty/XulUet7BRFA_0000006 96.9 113.0 
+Sammi_Hanratty/XulUet7BRFA_0000007 114.0 120.9 
+Sammi_Hanratty/XulUet7BRFA_0000008 145.3 165.8 
+Sammi_Hanratty/XulUet7BRFA_0000009 165.9 172.4 
+Sammi_Hanratty/XulUet7BRFA_0000010 173.6 180.0 
+Sammi_Hanratty/XulUet7BRFA_0000011 180.4 200.0 
+Sammi_Hanratty/XulUet7BRFA_0000012 203.4 208.0 
+Sammi_Hanratty/XulUet7BRFA_0000013 240.8 249.0 
+Sammi_Hanratty/XulUet7BRFA_0000014 253.2 260.0 
+Sammi_Hanratty/XulUet7BRFA_0000015 282.7 287.0 
+Sammi_Hanratty/XulUet7BRFA_0000016 288.6 295.2 
+Sammi_Hanratty/XulUet7BRFA_0000017 320.8 330.0 
+Sammi_Hanratty/XulUet7BRFA_0000018 340.6 349.8 
+Sammi_Hanratty/XulUet7BRFA_0000019 350.1 354.3 
+Sammi_Hanratty/XulUet7BRFA_0000020 362.9 368.2 
+Sammi_Hanratty/XulUet7BRFA_0000021 370.9 378.6 
+Sammi_Hanratty/XulUet7BRFA_0000022 379.1 387.0 
+Sammi_Hanratty/XulUet7BRFA_0000023 390.2 394.5 
+Sammi_Hanratty/XulUet7BRFA_0000024 398.8 411.4 
+Sammi_Hanratty/XulUet7BRFA_0000025 416.5 420.7 
+Sammi_Hanratty/XulUet7BRFA_0000026 423.7 439.1 
+Sammi_Hanratty/XulUet7BRFA_0000027 447.9 452.6 
+Sammi_Hanratty/XulUet7BRFA_0000028 203.3 208.1 
+Sammi_Hanratty/XulUet7BRFA_0000029 208.2 215.4 
+Sammi_Hanratty/XulUet7BRFA_0000030 240.7 251.9 
+Sammi_Hanratty/XulUet7BRFA_0000031 253.2 260.0 
+Sammi_Hanratty/XulUet7BRFA_0000032 282.6 287.1 
+Sammi_Hanratty/XulUet7BRFA_0000033 288.4 295.3 
+Sammi_Hanratty/XulUet7BRFA_0000034 321.0 330.2 
+Sammi_Hanratty/XulUet7BRFA_0000035 338.9 349.8 
+Sammi_Hanratty/XulUet7BRFA_0000036 350.2 354.2 
+Sammi_Hanratty/XulUet7BRFA_0000037 356.5 367.8 
+Sammi_Hanratty/XulUet7BRFA_0000038 371.0 377.4 
+Sammi_Hanratty/XulUet7BRFA_0000039 379.0 387.0 
+Sammi_Hanratty/XulUet7BRFA_0000040 390.1 394.4 
+Sammi_Hanratty/XulUet7BRFA_0000041 456.7 475.4 
+Sammi_Hanratty/XulUet7BRFA_0000042 479.3 483.4 

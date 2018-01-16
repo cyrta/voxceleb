@@ -1,0 +1,10 @@
+POI: 			Hal_Sparks 
+Youtube ID: 	JapTLFxykUg 
+Video length: 	99.7 sec 
+Set (V): 		dev 
+ 
+Hal_Sparks/JapTLFxykUg_0000001 03.0 29.4 
+Hal_Sparks/JapTLFxykUg_0000002 29.9 41.0 
+Hal_Sparks/JapTLFxykUg_0000003 53.9 61.2 
+Hal_Sparks/JapTLFxykUg_0000004 61.9 70.4 
+Hal_Sparks/JapTLFxykUg_0000005 71.4 91.6 

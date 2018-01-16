@@ -1,0 +1,12 @@
+POI: 			John_Barrowman 
+Youtube ID: 	cn0ac9hGwDc 
+Video length: 	269.2 sec 
+Set (V): 		dev 
+ 
+John_Barrowman/cn0ac9hGwDc_0000001 00.8 06.2 
+John_Barrowman/cn0ac9hGwDc_0000002 31.4 36.9 
+John_Barrowman/cn0ac9hGwDc_0000003 41.4 45.6 
+John_Barrowman/cn0ac9hGwDc_0000004 63.9 70.2 
+John_Barrowman/cn0ac9hGwDc_0000005 74.8 81.6 
+John_Barrowman/cn0ac9hGwDc_0000006 138.1 144.1 
+John_Barrowman/cn0ac9hGwDc_0000007 224.5 233.0 

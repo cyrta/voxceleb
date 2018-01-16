@@ -1,0 +1,18 @@
+POI: 			Moran_Atias 
+Youtube ID: 	wIH_5EEMQYg 
+Video length: 	329.5 sec 
+Set (V): 		dev 
+ 
+Moran_Atias/wIH_5EEMQYg_0000001 40.6 58.8 
+Moran_Atias/wIH_5EEMQYg_0000002 59.7 68.9 
+Moran_Atias/wIH_5EEMQYg_0000003 71.6 82.7 
+Moran_Atias/wIH_5EEMQYg_0000004 118.8 136.6 
+Moran_Atias/wIH_5EEMQYg_0000005 137.4 148.3 
+Moran_Atias/wIH_5EEMQYg_0000006 149.3 165.1 
+Moran_Atias/wIH_5EEMQYg_0000007 165.4 172.0 
+Moran_Atias/wIH_5EEMQYg_0000008 197.3 220.1 
+Moran_Atias/wIH_5EEMQYg_0000009 234.5 238.5 
+Moran_Atias/wIH_5EEMQYg_0000010 239.2 243.4 
+Moran_Atias/wIH_5EEMQYg_0000011 258.6 269.3 
+Moran_Atias/wIH_5EEMQYg_0000012 271.7 279.1 
+Moran_Atias/wIH_5EEMQYg_0000013 279.4 292.8 

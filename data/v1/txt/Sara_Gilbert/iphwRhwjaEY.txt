@@ -1,0 +1,7 @@
+POI: 			Sara_Gilbert 
+Youtube ID: 	iphwRhwjaEY 
+Video length: 	307.7 sec 
+Set (V): 		dev 
+ 
+Sara_Gilbert/iphwRhwjaEY_0000001 44.6 52.8 
+Sara_Gilbert/iphwRhwjaEY_0000002 55.1 68.7 

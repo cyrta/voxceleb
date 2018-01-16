@@ -1,0 +1,11 @@
+POI: 			Veronica_Ferres 
+Youtube ID: 	tN_MtdOxkl8 
+Video length: 	209.5 sec 
+Set (V): 		dev 
+ 
+Veronica_Ferres/tN_MtdOxkl8_0000001 30.8 40.0 
+Veronica_Ferres/tN_MtdOxkl8_0000002 58.0 62.3 
+Veronica_Ferres/tN_MtdOxkl8_0000003 62.6 68.4 
+Veronica_Ferres/tN_MtdOxkl8_0000004 141.7 146.5 
+Veronica_Ferres/tN_MtdOxkl8_0000005 176.8 180.8 
+Veronica_Ferres/tN_MtdOxkl8_0000006 181.8 188.5 

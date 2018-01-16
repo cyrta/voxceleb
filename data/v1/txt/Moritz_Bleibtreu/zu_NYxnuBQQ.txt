@@ -1,0 +1,14 @@
+POI: 			Moritz_Bleibtreu 
+Youtube ID: 	zu_NYxnuBQQ 
+Video length: 	270.2 sec 
+Set (V): 		dev 
+ 
+Moritz_Bleibtreu/zu_NYxnuBQQ_0000001 68.3 75.8 
+Moritz_Bleibtreu/zu_NYxnuBQQ_0000002 118.4 126.9 
+Moritz_Bleibtreu/zu_NYxnuBQQ_0000003 127.3 131.5 
+Moritz_Bleibtreu/zu_NYxnuBQQ_0000004 148.9 153.2 
+Moritz_Bleibtreu/zu_NYxnuBQQ_0000005 154.0 162.6 
+Moritz_Bleibtreu/zu_NYxnuBQQ_0000006 195.1 200.8 
+Moritz_Bleibtreu/zu_NYxnuBQQ_0000007 222.4 227.5 
+Moritz_Bleibtreu/zu_NYxnuBQQ_0000008 229.8 242.2 
+Moritz_Bleibtreu/zu_NYxnuBQQ_0000009 248.0 253.2 

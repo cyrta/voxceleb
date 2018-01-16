@@ -1,0 +1,23 @@
+POI: 			Moritz_Bleibtreu 
+Youtube ID: 	pjujsLOG_UU 
+Video length: 	345.5 sec 
+Set (V): 		dev 
+ 
+Moritz_Bleibtreu/pjujsLOG_UU_0000001 32.9 66.6 
+Moritz_Bleibtreu/pjujsLOG_UU_0000002 73.4 78.2 
+Moritz_Bleibtreu/pjujsLOG_UU_0000003 79.3 83.5 
+Moritz_Bleibtreu/pjujsLOG_UU_0000004 99.7 105.2 
+Moritz_Bleibtreu/pjujsLOG_UU_0000005 110.0 117.8 
+Moritz_Bleibtreu/pjujsLOG_UU_0000006 98.5 105.2 
+Moritz_Bleibtreu/pjujsLOG_UU_0000007 109.4 117.5 
+Moritz_Bleibtreu/pjujsLOG_UU_0000008 121.2 130.5 
+Moritz_Bleibtreu/pjujsLOG_UU_0000009 131.0 137.6 
+Moritz_Bleibtreu/pjujsLOG_UU_0000010 151.2 156.3 
+Moritz_Bleibtreu/pjujsLOG_UU_0000011 158.9 175.2 
+Moritz_Bleibtreu/pjujsLOG_UU_0000012 177.5 184.5 
+Moritz_Bleibtreu/pjujsLOG_UU_0000013 191.1 195.8 
+Moritz_Bleibtreu/pjujsLOG_UU_0000014 211.3 221.2 
+Moritz_Bleibtreu/pjujsLOG_UU_0000015 221.4 251.0 
+Moritz_Bleibtreu/pjujsLOG_UU_0000016 253.2 258.1 
+Moritz_Bleibtreu/pjujsLOG_UU_0000017 258.6 263.0 
+Moritz_Bleibtreu/pjujsLOG_UU_0000018 281.9 286.5 

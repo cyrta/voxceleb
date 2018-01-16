@@ -1,0 +1,28 @@
+POI: 			Sarah_Palin 
+Youtube ID: 	oQ2RAY7nvfU 
+Video length: 	590.6 sec 
+Set (V): 		dev 
+ 
+Sarah_Palin/oQ2RAY7nvfU_0000001 71.4 79.7 
+Sarah_Palin/oQ2RAY7nvfU_0000002 83.3 89.1 
+Sarah_Palin/oQ2RAY7nvfU_0000003 112.2 120.5 
+Sarah_Palin/oQ2RAY7nvfU_0000004 144.2 166.0 
+Sarah_Palin/oQ2RAY7nvfU_0000005 170.5 175.8 
+Sarah_Palin/oQ2RAY7nvfU_0000006 176.1 181.2 
+Sarah_Palin/oQ2RAY7nvfU_0000007 187.0 199.0 
+Sarah_Palin/oQ2RAY7nvfU_0000008 204.1 220.8 
+Sarah_Palin/oQ2RAY7nvfU_0000009 229.2 240.0 
+Sarah_Palin/oQ2RAY7nvfU_0000010 262.1 277.3 
+Sarah_Palin/oQ2RAY7nvfU_0000011 284.3 292.9 
+Sarah_Palin/oQ2RAY7nvfU_0000012 299.1 306.8 
+Sarah_Palin/oQ2RAY7nvfU_0000013 309.0 313.0 
+Sarah_Palin/oQ2RAY7nvfU_0000014 318.1 323.7 
+Sarah_Palin/oQ2RAY7nvfU_0000015 357.7 366.0 
+Sarah_Palin/oQ2RAY7nvfU_0000016 373.6 390.9 
+Sarah_Palin/oQ2RAY7nvfU_0000017 425.6 438.4 
+Sarah_Palin/oQ2RAY7nvfU_0000018 439.0 462.7 
+Sarah_Palin/oQ2RAY7nvfU_0000019 494.3 504.4 
+Sarah_Palin/oQ2RAY7nvfU_0000020 510.4 515.0 
+Sarah_Palin/oQ2RAY7nvfU_0000021 519.0 535.1 
+Sarah_Palin/oQ2RAY7nvfU_0000022 540.1 554.3 
+Sarah_Palin/oQ2RAY7nvfU_0000023 561.6 568.5 

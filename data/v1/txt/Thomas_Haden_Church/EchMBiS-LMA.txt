@@ -1,0 +1,9 @@
+POI: 			Thomas_Haden_Church 
+Youtube ID: 	EchMBiS-LMA 
+Video length: 	71.1 sec 
+Set (V): 		dev 
+ 
+Thomas_Haden_Church/EchMBiS-LMA_0000001 04.9 10.0 
+Thomas_Haden_Church/EchMBiS-LMA_0000002 14.6 20.0 
+Thomas_Haden_Church/EchMBiS-LMA_0000003 52.5 57.2 
+Thomas_Haden_Church/EchMBiS-LMA_0000004 61.4 69.2 

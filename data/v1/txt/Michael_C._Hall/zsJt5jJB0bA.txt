@@ -1,0 +1,14 @@
+POI: 			Michael_C._Hall 
+Youtube ID: 	zsJt5jJB0bA 
+Video length: 	229.7 sec 
+Set (V): 		dev 
+ 
+Michael_C._Hall/zsJt5jJB0bA_0000001 11.7 19.8 
+Michael_C._Hall/zsJt5jJB0bA_0000002 32.3 37.7 
+Michael_C._Hall/zsJt5jJB0bA_0000003 65.2 69.2 
+Michael_C._Hall/zsJt5jJB0bA_0000004 88.4 93.2 
+Michael_C._Hall/zsJt5jJB0bA_0000005 134.1 150.0 
+Michael_C._Hall/zsJt5jJB0bA_0000006 161.0 165.6 
+Michael_C._Hall/zsJt5jJB0bA_0000007 176.5 180.9 
+Michael_C._Hall/zsJt5jJB0bA_0000008 207.7 215.0 
+Michael_C._Hall/zsJt5jJB0bA_0000009 215.5 221.0 

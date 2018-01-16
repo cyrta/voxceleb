@@ -1,0 +1,9 @@
+POI: 			Sela_Ward 
+Youtube ID: 	oug-tZSMGaY 
+Video length: 	628.7 sec 
+Set (V): 		dev 
+ 
+Sela_Ward/oug-tZSMGaY_0000001 245.8 256.3 
+Sela_Ward/oug-tZSMGaY_0000002 370.3 376.3 
+Sela_Ward/oug-tZSMGaY_0000003 420.9 425.2 
+Sela_Ward/oug-tZSMGaY_0000004 438.0 443.2 

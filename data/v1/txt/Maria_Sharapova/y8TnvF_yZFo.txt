@@ -1,0 +1,17 @@
+POI: 			Maria_Sharapova 
+Youtube ID: 	y8TnvF_yZFo 
+Video length: 	226.7 sec 
+Set (V): 		dev 
+ 
+Maria_Sharapova/y8TnvF_yZFo_0000001 03.8 08.3 
+Maria_Sharapova/y8TnvF_yZFo_0000002 08.6 16.6 
+Maria_Sharapova/y8TnvF_yZFo_0000003 27.1 46.8 
+Maria_Sharapova/y8TnvF_yZFo_0000004 60.2 69.4 
+Maria_Sharapova/y8TnvF_yZFo_0000005 94.3 103.1 
+Maria_Sharapova/y8TnvF_yZFo_0000006 103.6 114.6 
+Maria_Sharapova/y8TnvF_yZFo_0000007 121.4 133.4 
+Maria_Sharapova/y8TnvF_yZFo_0000008 144.2 150.2 
+Maria_Sharapova/y8TnvF_yZFo_0000009 150.6 161.3 
+Maria_Sharapova/y8TnvF_yZFo_0000010 181.1 192.3 
+Maria_Sharapova/y8TnvF_yZFo_0000011 192.4 198.8 
+Maria_Sharapova/y8TnvF_yZFo_0000012 212.3 218.6 

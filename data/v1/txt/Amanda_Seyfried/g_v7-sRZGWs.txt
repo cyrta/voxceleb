@@ -1,0 +1,8 @@
+POI: 			Amanda_Seyfried 
+Youtube ID: 	g_v7-sRZGWs 
+Video length: 	185.9 sec 
+Set (V): 		dev 
+ 
+Amanda_Seyfried/g_v7-sRZGWs_0000001 87.6 94.2 
+Amanda_Seyfried/g_v7-sRZGWs_0000002 107.7 114.4 
+Amanda_Seyfried/g_v7-sRZGWs_0000003 169.5 176.7 

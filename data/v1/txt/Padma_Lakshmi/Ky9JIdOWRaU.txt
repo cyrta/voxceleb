@@ -1,0 +1,14 @@
+POI: 			Padma_Lakshmi 
+Youtube ID: 	Ky9JIdOWRaU 
+Video length: 	270.5 sec 
+Set (V): 		dev 
+ 
+Padma_Lakshmi/Ky9JIdOWRaU_0000001 31.4 40.3 
+Padma_Lakshmi/Ky9JIdOWRaU_0000002 49.2 69.3 
+Padma_Lakshmi/Ky9JIdOWRaU_0000003 73.1 90.8 
+Padma_Lakshmi/Ky9JIdOWRaU_0000004 95.2 100.8 
+Padma_Lakshmi/Ky9JIdOWRaU_0000005 164.0 168.0 
+Padma_Lakshmi/Ky9JIdOWRaU_0000006 181.1 187.3 
+Padma_Lakshmi/Ky9JIdOWRaU_0000007 190.8 202.1 
+Padma_Lakshmi/Ky9JIdOWRaU_0000008 231.2 251.9 
+Padma_Lakshmi/Ky9JIdOWRaU_0000009 259.1 264.0 

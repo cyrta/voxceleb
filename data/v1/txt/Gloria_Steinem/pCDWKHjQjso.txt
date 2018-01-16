@@ -1,0 +1,9 @@
+POI: 			Gloria_Steinem 
+Youtube ID: 	pCDWKHjQjso 
+Video length: 	148.2 sec 
+Set (V): 		dev 
+ 
+Gloria_Steinem/pCDWKHjQjso_0000001 04.4 10.5 
+Gloria_Steinem/pCDWKHjQjso_0000002 32.4 37.3 
+Gloria_Steinem/pCDWKHjQjso_0000003 53.4 57.5 
+Gloria_Steinem/pCDWKHjQjso_0000004 97.3 101.4 

@@ -1,0 +1,8 @@
+POI: 			Ron_Livingston 
+Youtube ID: 	njSsF4uOvbU 
+Video length: 	193.2 sec 
+Set (V): 		dev 
+ 
+Ron_Livingston/njSsF4uOvbU_0000001 11.6 15.9 
+Ron_Livingston/njSsF4uOvbU_0000002 16.5 26.6 
+Ron_Livingston/njSsF4uOvbU_0000003 27.5 33.4 

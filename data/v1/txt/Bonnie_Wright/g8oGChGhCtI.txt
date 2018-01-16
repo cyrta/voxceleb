@@ -1,0 +1,7 @@
+POI: 			Bonnie_Wright 
+Youtube ID: 	g8oGChGhCtI 
+Video length: 	97.7 sec 
+Set (V): 		dev 
+ 
+Bonnie_Wright/g8oGChGhCtI_0000001 20.0 35.1 
+Bonnie_Wright/g8oGChGhCtI_0000002 55.2 64.4 

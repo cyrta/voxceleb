@@ -1,0 +1,10 @@
+POI: 			Peter_Capaldi 
+Youtube ID: 	6Zim8zL3Q5k 
+Video length: 	401.5 sec 
+Set (V): 		dev 
+ 
+Peter_Capaldi/6Zim8zL3Q5k_0000001 139.3 148.6 
+Peter_Capaldi/6Zim8zL3Q5k_0000002 202.2 207.3 
+Peter_Capaldi/6Zim8zL3Q5k_0000003 272.7 281.6 
+Peter_Capaldi/6Zim8zL3Q5k_0000004 284.0 289.0 
+Peter_Capaldi/6Zim8zL3Q5k_0000005 307.2 314.0 

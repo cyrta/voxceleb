@@ -1,0 +1,20 @@
+POI: 			Eugene_Levy 
+Youtube ID: 	o9bD_E99Jpg 
+Video length: 	489.9 sec 
+Set (V): 		test 
+ 
+Eugene_Levy/o9bD_E99Jpg_0000001 97.8 145.1 
+Eugene_Levy/o9bD_E99Jpg_0000002 147.2 173.6 
+Eugene_Levy/o9bD_E99Jpg_0000003 174.0 183.6 
+Eugene_Levy/o9bD_E99Jpg_0000004 211.6 233.3 
+Eugene_Levy/o9bD_E99Jpg_0000005 234.2 248.4 
+Eugene_Levy/o9bD_E99Jpg_0000006 307.8 311.9 
+Eugene_Levy/o9bD_E99Jpg_0000007 313.5 333.2 
+Eugene_Levy/o9bD_E99Jpg_0000008 335.2 339.6 
+Eugene_Levy/o9bD_E99Jpg_0000009 339.8 357.1 
+Eugene_Levy/o9bD_E99Jpg_0000010 357.7 364.0 
+Eugene_Levy/o9bD_E99Jpg_0000011 400.6 412.5 
+Eugene_Levy/o9bD_E99Jpg_0000012 413.1 422.3 
+Eugene_Levy/o9bD_E99Jpg_0000013 423.0 432.3 
+Eugene_Levy/o9bD_E99Jpg_0000014 440.2 445.8 
+Eugene_Levy/o9bD_E99Jpg_0000015 450.4 463.8 

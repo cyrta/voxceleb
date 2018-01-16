@@ -1,0 +1,17 @@
+POI: 			Alex_Kingston 
+Youtube ID: 	g2m1E3C9wY4 
+Video length: 	391.2 sec 
+Set (V): 		dev 
+ 
+Alex_Kingston/g2m1E3C9wY4_0000001 13.4 18.2 
+Alex_Kingston/g2m1E3C9wY4_0000002 22.2 27.4 
+Alex_Kingston/g2m1E3C9wY4_0000003 74.4 80.0 
+Alex_Kingston/g2m1E3C9wY4_0000004 92.9 100.4 
+Alex_Kingston/g2m1E3C9wY4_0000005 170.3 177.5 
+Alex_Kingston/g2m1E3C9wY4_0000006 212.2 216.4 
+Alex_Kingston/g2m1E3C9wY4_0000007 240.8 249.7 
+Alex_Kingston/g2m1E3C9wY4_0000008 309.6 314.6 
+Alex_Kingston/g2m1E3C9wY4_0000009 321.7 327.2 
+Alex_Kingston/g2m1E3C9wY4_0000010 327.3 331.9 
+Alex_Kingston/g2m1E3C9wY4_0000011 338.3 342.4 
+Alex_Kingston/g2m1E3C9wY4_0000012 352.8 356.8 

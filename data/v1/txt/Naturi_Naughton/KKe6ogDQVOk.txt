@@ -1,0 +1,15 @@
+POI: 			Naturi_Naughton 
+Youtube ID: 	KKe6ogDQVOk 
+Video length: 	376.4 sec 
+Set (V): 		dev 
+ 
+Naturi_Naughton/KKe6ogDQVOk_0000001 16.5 47.4 
+Naturi_Naughton/KKe6ogDQVOk_0000002 81.7 86.4 
+Naturi_Naughton/KKe6ogDQVOk_0000003 102.3 123.1 
+Naturi_Naughton/KKe6ogDQVOk_0000004 147.0 157.4 
+Naturi_Naughton/KKe6ogDQVOk_0000005 169.6 175.7 
+Naturi_Naughton/KKe6ogDQVOk_0000006 245.2 251.1 
+Naturi_Naughton/KKe6ogDQVOk_0000007 255.7 260.4 
+Naturi_Naughton/KKe6ogDQVOk_0000008 283.6 288.2 
+Naturi_Naughton/KKe6ogDQVOk_0000009 308.0 319.5 
+Naturi_Naughton/KKe6ogDQVOk_0000010 323.7 342.9 

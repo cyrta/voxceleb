@@ -1,0 +1,23 @@
+POI: 			Freida_Pinto 
+Youtube ID: 	ys0-pLK_Ygs 
+Video length: 	800.8 sec 
+Set (V): 		dev 
+ 
+Freida_Pinto/ys0-pLK_Ygs_0000001 45.8 51.5 
+Freida_Pinto/ys0-pLK_Ygs_0000002 69.8 74.4 
+Freida_Pinto/ys0-pLK_Ygs_0000003 90.6 95.1 
+Freida_Pinto/ys0-pLK_Ygs_0000004 139.0 143.4 
+Freida_Pinto/ys0-pLK_Ygs_0000005 179.2 184.8 
+Freida_Pinto/ys0-pLK_Ygs_0000006 193.1 197.9 
+Freida_Pinto/ys0-pLK_Ygs_0000007 201.1 206.3 
+Freida_Pinto/ys0-pLK_Ygs_0000008 298.1 302.2 
+Freida_Pinto/ys0-pLK_Ygs_0000009 313.4 320.7 
+Freida_Pinto/ys0-pLK_Ygs_0000010 470.4 475.6 
+Freida_Pinto/ys0-pLK_Ygs_0000011 509.1 513.0 
+Freida_Pinto/ys0-pLK_Ygs_0000012 545.8 550.9 
+Freida_Pinto/ys0-pLK_Ygs_0000013 554.4 558.7 
+Freida_Pinto/ys0-pLK_Ygs_0000014 574.4 583.2 
+Freida_Pinto/ys0-pLK_Ygs_0000015 610.5 616.7 
+Freida_Pinto/ys0-pLK_Ygs_0000016 637.6 642.2 
+Freida_Pinto/ys0-pLK_Ygs_0000017 676.7 684.5 
+Freida_Pinto/ys0-pLK_Ygs_0000018 725.7 734.1 

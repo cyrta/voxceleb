@@ -1,0 +1,7 @@
+POI: 			Chris_Hemsworth 
+Youtube ID: 	m2stV_vVOU0 
+Video length: 	375.9 sec 
+Set (V): 		dev 
+ 
+Chris_Hemsworth/m2stV_vVOU0_0000001 105.2 110.3 
+Chris_Hemsworth/m2stV_vVOU0_0000002 235.2 239.2 

@@ -1,0 +1,12 @@
+POI: 			Dane_Cook 
+Youtube ID: 	uTgeutTrDJ0 
+Video length: 	508.4 sec 
+Set (V): 		dev 
+ 
+Dane_Cook/uTgeutTrDJ0_0000001 49.5 58.5 
+Dane_Cook/uTgeutTrDJ0_0000002 59.2 63.8 
+Dane_Cook/uTgeutTrDJ0_0000003 143.9 151.4 
+Dane_Cook/uTgeutTrDJ0_0000004 192.5 204.9 
+Dane_Cook/uTgeutTrDJ0_0000005 370.3 380.3 
+Dane_Cook/uTgeutTrDJ0_0000006 445.2 454.9 
+Dane_Cook/uTgeutTrDJ0_0000007 459.6 463.8 

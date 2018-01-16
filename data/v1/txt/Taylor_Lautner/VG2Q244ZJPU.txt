@@ -1,0 +1,7 @@
+POI: 			Taylor_Lautner 
+Youtube ID: 	VG2Q244ZJPU 
+Video length: 	471.0 sec 
+Set (V): 		dev 
+ 
+Taylor_Lautner/VG2Q244ZJPU_0000001 147.6 154.1 
+Taylor_Lautner/VG2Q244ZJPU_0000002 157.5 164.2 

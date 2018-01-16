@@ -1,0 +1,6 @@
+POI: 			Amy_Schumer 
+Youtube ID: 	NDtK9DEKGpI 
+Video length: 	182.5 sec 
+Set (V): 		dev 
+ 
+Amy_Schumer/NDtK9DEKGpI_0000001 71.6 81.0 

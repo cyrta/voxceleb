@@ -1,0 +1,12 @@
+POI: 			Idina_Menzel 
+Youtube ID: 	rqD2dLhhYAs 
+Video length: 	483.0 sec 
+Set (V): 		dev 
+ 
+Idina_Menzel/rqD2dLhhYAs_0000001 76.7 85.5 
+Idina_Menzel/rqD2dLhhYAs_0000002 86.3 93.2 
+Idina_Menzel/rqD2dLhhYAs_0000003 186.5 192.4 
+Idina_Menzel/rqD2dLhhYAs_0000004 193.3 199.0 
+Idina_Menzel/rqD2dLhhYAs_0000005 292.8 304.3 
+Idina_Menzel/rqD2dLhhYAs_0000006 308.6 312.8 
+Idina_Menzel/rqD2dLhhYAs_0000007 322.4 327.0 

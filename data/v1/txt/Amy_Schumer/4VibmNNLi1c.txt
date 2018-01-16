@@ -1,0 +1,9 @@
+POI: 			Amy_Schumer 
+Youtube ID: 	4VibmNNLi1c 
+Video length: 	315.8 sec 
+Set (V): 		dev 
+ 
+Amy_Schumer/4VibmNNLi1c_0000001 94.2 100.4 
+Amy_Schumer/4VibmNNLi1c_0000002 114.0 118.0 
+Amy_Schumer/4VibmNNLi1c_0000003 160.6 164.8 
+Amy_Schumer/4VibmNNLi1c_0000004 177.6 181.6 

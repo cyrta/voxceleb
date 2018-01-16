@@ -1,0 +1,7 @@
+POI: 			Tristan_Wilds 
+Youtube ID: 	p8_9extNKeA 
+Video length: 	182.5 sec 
+Set (V): 		dev 
+ 
+Tristan_Wilds/p8_9extNKeA_0000001 133.7 137.8 
+Tristan_Wilds/p8_9extNKeA_0000002 160.6 165.6 

@@ -1,0 +1,15 @@
+POI: 			Sam_Heughan 
+Youtube ID: 	qCx33W5CPmI 
+Video length: 	912.4 sec 
+Set (V): 		dev 
+ 
+Sam_Heughan/qCx33W5CPmI_0000001 161.5 165.8 
+Sam_Heughan/qCx33W5CPmI_0000002 289.3 294.2 
+Sam_Heughan/qCx33W5CPmI_0000003 483.0 488.8 
+Sam_Heughan/qCx33W5CPmI_0000004 495.7 503.4 
+Sam_Heughan/qCx33W5CPmI_0000005 535.3 541.4 
+Sam_Heughan/qCx33W5CPmI_0000006 543.2 549.4 
+Sam_Heughan/qCx33W5CPmI_0000007 593.1 602.6 
+Sam_Heughan/qCx33W5CPmI_0000008 672.2 676.5 
+Sam_Heughan/qCx33W5CPmI_0000009 705.7 710.3 
+Sam_Heughan/qCx33W5CPmI_0000010 718.1 732.0 

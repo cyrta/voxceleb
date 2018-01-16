@@ -1,0 +1,13 @@
+POI: 			Freddie_Highmore 
+Youtube ID: 	d7-L4Zoa3O8 
+Video length: 	475.2 sec 
+Set (V): 		dev 
+ 
+Freddie_Highmore/d7-L4Zoa3O8_0000001 31.7 46.1 
+Freddie_Highmore/d7-L4Zoa3O8_0000002 46.8 57.0 
+Freddie_Highmore/d7-L4Zoa3O8_0000003 71.4 77.9 
+Freddie_Highmore/d7-L4Zoa3O8_0000004 79.2 86.0 
+Freddie_Highmore/d7-L4Zoa3O8_0000005 115.4 124.1 
+Freddie_Highmore/d7-L4Zoa3O8_0000006 126.1 131.9 
+Freddie_Highmore/d7-L4Zoa3O8_0000007 151.3 158.7 
+Freddie_Highmore/d7-L4Zoa3O8_0000008 461.2 466.6 

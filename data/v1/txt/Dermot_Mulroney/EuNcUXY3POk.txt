@@ -1,0 +1,8 @@
+POI: 			Dermot_Mulroney 
+Youtube ID: 	EuNcUXY3POk 
+Video length: 	234.5 sec 
+Set (V): 		dev 
+ 
+Dermot_Mulroney/EuNcUXY3POk_0000001 25.9 38.5 
+Dermot_Mulroney/EuNcUXY3POk_0000002 47.1 51.0 
+Dermot_Mulroney/EuNcUXY3POk_0000003 52.0 56.5 

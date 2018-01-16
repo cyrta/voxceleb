@@ -1,0 +1,9 @@
+POI: 			Marcia_Gay_Harden 
+Youtube ID: 	W1xIxiO12EE 
+Video length: 	212.2 sec 
+Set (V): 		dev 
+ 
+Marcia_Gay_Harden/W1xIxiO12EE_0000001 29.4 36.1 
+Marcia_Gay_Harden/W1xIxiO12EE_0000002 62.9 73.1 
+Marcia_Gay_Harden/W1xIxiO12EE_0000003 124.3 137.1 
+Marcia_Gay_Harden/W1xIxiO12EE_0000004 137.8 144.7 

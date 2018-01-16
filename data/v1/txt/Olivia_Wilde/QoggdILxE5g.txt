@@ -1,0 +1,8 @@
+POI: 			Olivia_Wilde 
+Youtube ID: 	QoggdILxE5g 
+Video length: 	207.9 sec 
+Set (V): 		dev 
+ 
+Olivia_Wilde/QoggdILxE5g_0000001 14.7 26.6 
+Olivia_Wilde/QoggdILxE5g_0000002 34.7 43.2 
+Olivia_Wilde/QoggdILxE5g_0000003 105.7 113.8 

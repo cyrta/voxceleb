@@ -1,0 +1,8 @@
+POI: 			Anthony_Mackie 
+Youtube ID: 	Lw-dcrg4BcQ 
+Video length: 	288.2 sec 
+Set (V): 		dev 
+ 
+Anthony_Mackie/Lw-dcrg4BcQ_0000001 32.2 38.0 
+Anthony_Mackie/Lw-dcrg4BcQ_0000002 259.8 265.2 
+Anthony_Mackie/Lw-dcrg4BcQ_0000003 268.6 273.0 

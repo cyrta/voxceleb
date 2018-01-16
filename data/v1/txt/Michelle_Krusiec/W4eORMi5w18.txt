@@ -1,0 +1,12 @@
+POI: 			Michelle_Krusiec 
+Youtube ID: 	W4eORMi5w18 
+Video length: 	244.4 sec 
+Set (V): 		dev 
+ 
+Michelle_Krusiec/W4eORMi5w18_0000001 105.8 109.7 
+Michelle_Krusiec/W4eORMi5w18_0000002 109.9 119.9 
+Michelle_Krusiec/W4eORMi5w18_0000003 122.4 128.3 
+Michelle_Krusiec/W4eORMi5w18_0000004 128.8 138.2 
+Michelle_Krusiec/W4eORMi5w18_0000005 142.4 152.2 
+Michelle_Krusiec/W4eORMi5w18_0000006 152.3 158.5 
+Michelle_Krusiec/W4eORMi5w18_0000007 164.6 168.7 

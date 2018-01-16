@@ -1,0 +1,8 @@
+POI: 			Danica_McKellar 
+Youtube ID: 	GSwdfqDOfec 
+Video length: 	838.2 sec 
+Set (V): 		dev 
+ 
+Danica_McKellar/GSwdfqDOfec_0000001 336.8 347.4 
+Danica_McKellar/GSwdfqDOfec_0000002 361.9 369.3 
+Danica_McKellar/GSwdfqDOfec_0000003 622.4 633.0 

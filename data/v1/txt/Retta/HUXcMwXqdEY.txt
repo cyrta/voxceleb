@@ -1,0 +1,15 @@
+POI: 			Retta 
+Youtube ID: 	HUXcMwXqdEY 
+Video length: 	209.1 sec 
+Set (V): 		dev 
+ 
+Retta/HUXcMwXqdEY_0000001 02.4 13.6 
+Retta/HUXcMwXqdEY_0000002 17.6 28.8 
+Retta/HUXcMwXqdEY_0000003 29.1 36.6 
+Retta/HUXcMwXqdEY_0000004 37.4 45.1 
+Retta/HUXcMwXqdEY_0000005 53.3 67.5 
+Retta/HUXcMwXqdEY_0000006 70.9 77.4 
+Retta/HUXcMwXqdEY_0000007 79.6 84.4 
+Retta/HUXcMwXqdEY_0000008 102.7 109.0 
+Retta/HUXcMwXqdEY_0000009 163.3 167.6 
+Retta/HUXcMwXqdEY_0000010 176.6 182.7 

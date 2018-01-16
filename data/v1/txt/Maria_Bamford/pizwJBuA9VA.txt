@@ -1,0 +1,12 @@
+POI: 			Maria_Bamford 
+Youtube ID: 	pizwJBuA9VA 
+Video length: 	1136.8 sec 
+Set (V): 		dev 
+ 
+Maria_Bamford/pizwJBuA9VA_0000001 343.2 347.3 
+Maria_Bamford/pizwJBuA9VA_0000002 505.4 509.4 
+Maria_Bamford/pizwJBuA9VA_0000003 704.2 710.6 
+Maria_Bamford/pizwJBuA9VA_0000004 711.4 715.4 
+Maria_Bamford/pizwJBuA9VA_0000005 804.7 809.7 
+Maria_Bamford/pizwJBuA9VA_0000006 877.2 881.3 
+Maria_Bamford/pizwJBuA9VA_0000007 881.8 887.7 

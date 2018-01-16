@@ -1,0 +1,19 @@
+POI: 			Carrie_Fisher 
+Youtube ID: 	4pwBUZZ-RLA 
+Video length: 	1182.7 sec 
+Set (V): 		dev 
+ 
+Carrie_Fisher/4pwBUZZ-RLA_0000001 51.2 60.0 
+Carrie_Fisher/4pwBUZZ-RLA_0000002 324.3 330.3 
+Carrie_Fisher/4pwBUZZ-RLA_0000003 393.4 402.0 
+Carrie_Fisher/4pwBUZZ-RLA_0000004 428.9 434.2 
+Carrie_Fisher/4pwBUZZ-RLA_0000005 535.4 542.0 
+Carrie_Fisher/4pwBUZZ-RLA_0000006 688.8 697.3 
+Carrie_Fisher/4pwBUZZ-RLA_0000007 710.1 719.6 
+Carrie_Fisher/4pwBUZZ-RLA_0000008 739.5 745.4 
+Carrie_Fisher/4pwBUZZ-RLA_0000009 898.3 905.0 
+Carrie_Fisher/4pwBUZZ-RLA_0000010 948.4 953.5 
+Carrie_Fisher/4pwBUZZ-RLA_0000011 989.1 993.1 
+Carrie_Fisher/4pwBUZZ-RLA_0000012 998.6 1009.7 
+Carrie_Fisher/4pwBUZZ-RLA_0000013 1010.5 1017.4 
+Carrie_Fisher/4pwBUZZ-RLA_0000014 1107.5 1114.0 

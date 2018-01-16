@@ -1,0 +1,15 @@
+POI: 			Mitchel_Musso 
+Youtube ID: 	BEOISoSqXqU 
+Video length: 	213.9 sec 
+Set (V): 		dev 
+ 
+Mitchel_Musso/BEOISoSqXqU_0000001 15.7 21.7 
+Mitchel_Musso/BEOISoSqXqU_0000002 23.6 32.5 
+Mitchel_Musso/BEOISoSqXqU_0000003 39.6 44.0 
+Mitchel_Musso/BEOISoSqXqU_0000004 53.7 57.8 
+Mitchel_Musso/BEOISoSqXqU_0000005 108.8 118.2 
+Mitchel_Musso/BEOISoSqXqU_0000006 121.0 129.4 
+Mitchel_Musso/BEOISoSqXqU_0000007 147.6 152.5 
+Mitchel_Musso/BEOISoSqXqU_0000008 157.2 166.9 
+Mitchel_Musso/BEOISoSqXqU_0000009 169.0 174.4 
+Mitchel_Musso/BEOISoSqXqU_0000010 176.6 182.3 

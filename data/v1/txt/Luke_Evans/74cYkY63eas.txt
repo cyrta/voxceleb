@@ -1,0 +1,9 @@
+POI: 			Luke_Evans 
+Youtube ID: 	74cYkY63eas 
+Video length: 	228.1 sec 
+Set (V): 		dev 
+ 
+Luke_Evans/74cYkY63eas_0000001 07.0 18.7 
+Luke_Evans/74cYkY63eas_0000002 27.4 31.5 
+Luke_Evans/74cYkY63eas_0000003 47.3 52.0 
+Luke_Evans/74cYkY63eas_0000004 201.4 205.7 

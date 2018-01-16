@@ -1,0 +1,8 @@
+POI: 			Zoe_Saldana 
+Youtube ID: 	41C5OqkOoJs 
+Video length: 	262.4 sec 
+Set (V): 		dev 
+ 
+Zoe_Saldana/41C5OqkOoJs_0000001 61.7 67.8 
+Zoe_Saldana/41C5OqkOoJs_0000002 165.2 172.0 
+Zoe_Saldana/41C5OqkOoJs_0000003 177.4 181.6 

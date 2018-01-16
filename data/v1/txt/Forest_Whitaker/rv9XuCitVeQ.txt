@@ -1,0 +1,8 @@
+POI: 			Forest_Whitaker 
+Youtube ID: 	rv9XuCitVeQ 
+Video length: 	367.9 sec 
+Set (V): 		dev 
+ 
+Forest_Whitaker/rv9XuCitVeQ_0000001 239.2 258.8 
+Forest_Whitaker/rv9XuCitVeQ_0000002 329.3 333.9 
+Forest_Whitaker/rv9XuCitVeQ_0000003 334.5 338.5 

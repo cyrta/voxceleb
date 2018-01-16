@@ -1,0 +1,8 @@
+POI: 			Don_Rickles 
+Youtube ID: 	iAzowwQ7Sb8 
+Video length: 	1505.3 sec 
+Set (V): 		dev 
+ 
+Don_Rickles/iAzowwQ7Sb8_0000001 265.0 270.5 
+Don_Rickles/iAzowwQ7Sb8_0000002 736.8 748.9 
+Don_Rickles/iAzowwQ7Sb8_0000003 760.5 765.4 

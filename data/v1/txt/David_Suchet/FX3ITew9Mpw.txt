@@ -1,0 +1,8 @@
+POI: 			David_Suchet 
+Youtube ID: 	FX3ITew9Mpw 
+Video length: 	2861.0 sec 
+Set (V): 		dev 
+ 
+David_Suchet/FX3ITew9Mpw_0000001 1791.7 1796.4 
+David_Suchet/FX3ITew9Mpw_0000002 1861.4 1871.2 
+David_Suchet/FX3ITew9Mpw_0000003 2180.5 2184.9 

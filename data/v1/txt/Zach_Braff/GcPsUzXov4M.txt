@@ -1,0 +1,9 @@
+POI: 			Zach_Braff 
+Youtube ID: 	GcPsUzXov4M 
+Video length: 	332.7 sec 
+Set (V): 		dev 
+ 
+Zach_Braff/GcPsUzXov4M_0000001 18.7 23.6 
+Zach_Braff/GcPsUzXov4M_0000002 26.1 38.5 
+Zach_Braff/GcPsUzXov4M_0000003 39.3 52.2 
+Zach_Braff/GcPsUzXov4M_0000004 158.2 173.5 

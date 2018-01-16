@@ -1,0 +1,7 @@
+POI: 			Jerry_Ferrara 
+Youtube ID: 	bSTJKIsl5_A 
+Video length: 	230.9 sec 
+Set (V): 		dev 
+ 
+Jerry_Ferrara/bSTJKIsl5_A_0000001 99.2 104.7 
+Jerry_Ferrara/bSTJKIsl5_A_0000002 204.3 208.6 

@@ -1,0 +1,9 @@
+POI: 			Matthew_Goode 
+Youtube ID: 	l51eVsRxQbw 
+Video length: 	208.1 sec 
+Set (V): 		dev 
+ 
+Matthew_Goode/l51eVsRxQbw_0000001 67.7 76.3 
+Matthew_Goode/l51eVsRxQbw_0000002 88.0 95.5 
+Matthew_Goode/l51eVsRxQbw_0000003 169.4 174.5 
+Matthew_Goode/l51eVsRxQbw_0000004 178.2 183.0 

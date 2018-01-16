@@ -1,0 +1,15 @@
+POI: 			Roger_Ebert 
+Youtube ID: 	l7mXaLdFJp8 
+Video length: 	1254.2 sec 
+Set (V): 		dev 
+ 
+Roger_Ebert/l7mXaLdFJp8_0000001 33.7 41.7 
+Roger_Ebert/l7mXaLdFJp8_0000002 502.9 516.9 
+Roger_Ebert/l7mXaLdFJp8_0000003 568.8 575.4 
+Roger_Ebert/l7mXaLdFJp8_0000004 578.3 583.3 
+Roger_Ebert/l7mXaLdFJp8_0000005 656.6 662.3 
+Roger_Ebert/l7mXaLdFJp8_0000006 709.4 714.4 
+Roger_Ebert/l7mXaLdFJp8_0000007 898.9 904.2 
+Roger_Ebert/l7mXaLdFJp8_0000008 916.3 920.3 
+Roger_Ebert/l7mXaLdFJp8_0000009 1099.9 1107.6 
+Roger_Ebert/l7mXaLdFJp8_0000010 1215.3 1219.3 

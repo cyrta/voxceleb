@@ -1,0 +1,13 @@
+POI: 			Geena_Davis 
+Youtube ID: 	EwNNTwcZKi4 
+Video length: 	175.8 sec 
+Set (V): 		dev 
+ 
+Geena_Davis/EwNNTwcZKi4_0000001 02.7 13.2 
+Geena_Davis/EwNNTwcZKi4_0000002 16.7 24.0 
+Geena_Davis/EwNNTwcZKi4_0000003 24.5 75.0 
+Geena_Davis/EwNNTwcZKi4_0000004 76.0 80.8 
+Geena_Davis/EwNNTwcZKi4_0000005 81.2 85.6 
+Geena_Davis/EwNNTwcZKi4_0000006 96.7 114.4 
+Geena_Davis/EwNNTwcZKi4_0000007 119.0 124.2 
+Geena_Davis/EwNNTwcZKi4_0000008 124.9 169.9 

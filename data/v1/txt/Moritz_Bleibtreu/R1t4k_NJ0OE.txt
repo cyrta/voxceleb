@@ -1,0 +1,7 @@
+POI: 			Moritz_Bleibtreu 
+Youtube ID: 	R1t4k_NJ0OE 
+Video length: 	250.8 sec 
+Set (V): 		dev 
+ 
+Moritz_Bleibtreu/R1t4k_NJ0OE_0000001 155.2 159.3 
+Moritz_Bleibtreu/R1t4k_NJ0OE_0000002 161.0 177.6 

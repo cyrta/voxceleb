@@ -1,0 +1,8 @@
+POI: 			John_Noble 
+Youtube ID: 	EI0wiEiTvF4 
+Video length: 	599.8 sec 
+Set (V): 		dev 
+ 
+John_Noble/EI0wiEiTvF4_0000001 54.2 59.0 
+John_Noble/EI0wiEiTvF4_0000002 310.5 315.4 
+John_Noble/EI0wiEiTvF4_0000003 425.1 430.1 

@@ -1,0 +1,8 @@
+POI: 			Jason_Earles 
+Youtube ID: 	zgw4BsKrAmg 
+Video length: 	262.7 sec 
+Set (V): 		dev 
+ 
+Jason_Earles/zgw4BsKrAmg_0000001 72.1 78.8 
+Jason_Earles/zgw4BsKrAmg_0000002 89.9 95.7 
+Jason_Earles/zgw4BsKrAmg_0000003 106.0 110.0 

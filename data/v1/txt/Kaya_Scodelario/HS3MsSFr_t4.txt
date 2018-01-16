@@ -1,0 +1,11 @@
+POI: 			Kaya_Scodelario 
+Youtube ID: 	HS3MsSFr_t4 
+Video length: 	1193.7 sec 
+Set (V): 		dev 
+ 
+Kaya_Scodelario/HS3MsSFr_t4_0000001 289.8 298.6 
+Kaya_Scodelario/HS3MsSFr_t4_0000002 509.0 518.7 
+Kaya_Scodelario/HS3MsSFr_t4_0000003 520.3 529.7 
+Kaya_Scodelario/HS3MsSFr_t4_0000004 529.8 537.7 
+Kaya_Scodelario/HS3MsSFr_t4_0000005 797.1 811.8 
+Kaya_Scodelario/HS3MsSFr_t4_0000006 811.9 822.4 

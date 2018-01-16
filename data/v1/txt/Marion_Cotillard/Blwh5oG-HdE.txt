@@ -1,0 +1,24 @@
+POI: 			Marion_Cotillard 
+Youtube ID: 	Blwh5oG-HdE 
+Video length: 	375.1 sec 
+Set (V): 		dev 
+ 
+Marion_Cotillard/Blwh5oG-HdE_0000001 26.4 35.5 
+Marion_Cotillard/Blwh5oG-HdE_0000002 42.4 49.8 
+Marion_Cotillard/Blwh5oG-HdE_0000003 64.8 74.1 
+Marion_Cotillard/Blwh5oG-HdE_0000004 75.6 80.1 
+Marion_Cotillard/Blwh5oG-HdE_0000005 80.4 84.7 
+Marion_Cotillard/Blwh5oG-HdE_0000006 84.9 90.5 
+Marion_Cotillard/Blwh5oG-HdE_0000007 118.6 124.0 
+Marion_Cotillard/Blwh5oG-HdE_0000008 153.8 165.3 
+Marion_Cotillard/Blwh5oG-HdE_0000009 209.1 213.3 
+Marion_Cotillard/Blwh5oG-HdE_0000010 221.8 228.1 
+Marion_Cotillard/Blwh5oG-HdE_0000011 231.1 237.3 
+Marion_Cotillard/Blwh5oG-HdE_0000012 243.3 247.8 
+Marion_Cotillard/Blwh5oG-HdE_0000013 252.1 257.0 
+Marion_Cotillard/Blwh5oG-HdE_0000014 284.8 291.2 
+Marion_Cotillard/Blwh5oG-HdE_0000015 293.0 301.9 
+Marion_Cotillard/Blwh5oG-HdE_0000016 313.7 322.2 
+Marion_Cotillard/Blwh5oG-HdE_0000017 329.7 338.2 
+Marion_Cotillard/Blwh5oG-HdE_0000018 344.6 349.3 
+Marion_Cotillard/Blwh5oG-HdE_0000019 350.5 357.2 

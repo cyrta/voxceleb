@@ -1,0 +1,9 @@
+POI: 			Jeremy_Clarkson 
+Youtube ID: 	eMXrG1gdHgQ 
+Video length: 	250.6 sec 
+Set (V): 		dev 
+ 
+Jeremy_Clarkson/eMXrG1gdHgQ_0000001 02.6 12.0 
+Jeremy_Clarkson/eMXrG1gdHgQ_0000002 86.5 93.4 
+Jeremy_Clarkson/eMXrG1gdHgQ_0000003 94.2 100.9 
+Jeremy_Clarkson/eMXrG1gdHgQ_0000004 212.4 218.1 

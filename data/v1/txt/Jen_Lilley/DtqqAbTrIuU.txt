@@ -1,0 +1,9 @@
+POI: 			Jen_Lilley 
+Youtube ID: 	DtqqAbTrIuU 
+Video length: 	336.4 sec 
+Set (V): 		dev 
+ 
+Jen_Lilley/DtqqAbTrIuU_0000001 23.3 29.4 
+Jen_Lilley/DtqqAbTrIuU_0000002 30.0 40.7 
+Jen_Lilley/DtqqAbTrIuU_0000003 180.7 190.9 
+Jen_Lilley/DtqqAbTrIuU_0000004 205.9 215.7 

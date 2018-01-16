@@ -1,0 +1,12 @@
+POI: 			David_Koechner 
+Youtube ID: 	oFPwYvORCgg 
+Video length: 	379.2 sec 
+Set (V): 		dev 
+ 
+David_Koechner/oFPwYvORCgg_0000001 109.6 119.2 
+David_Koechner/oFPwYvORCgg_0000002 154.4 169.9 
+David_Koechner/oFPwYvORCgg_0000003 173.9 178.0 
+David_Koechner/oFPwYvORCgg_0000004 181.3 201.0 
+David_Koechner/oFPwYvORCgg_0000005 280.1 298.3 
+David_Koechner/oFPwYvORCgg_0000006 299.1 303.2 
+David_Koechner/oFPwYvORCgg_0000007 306.1 314.1 

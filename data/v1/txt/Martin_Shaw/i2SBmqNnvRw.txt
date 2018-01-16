@@ -1,0 +1,27 @@
+POI: 			Martin_Shaw 
+Youtube ID: 	i2SBmqNnvRw 
+Video length: 	561.8 sec 
+Set (V): 		dev 
+ 
+Martin_Shaw/i2SBmqNnvRw_0000001 15.8 28.0 
+Martin_Shaw/i2SBmqNnvRw_0000002 30.7 46.3 
+Martin_Shaw/i2SBmqNnvRw_0000003 53.2 57.2 
+Martin_Shaw/i2SBmqNnvRw_0000004 63.4 67.4 
+Martin_Shaw/i2SBmqNnvRw_0000005 84.0 88.5 
+Martin_Shaw/i2SBmqNnvRw_0000006 102.5 107.2 
+Martin_Shaw/i2SBmqNnvRw_0000007 117.2 123.7 
+Martin_Shaw/i2SBmqNnvRw_0000008 164.2 168.4 
+Martin_Shaw/i2SBmqNnvRw_0000009 169.0 180.5 
+Martin_Shaw/i2SBmqNnvRw_0000010 229.8 245.6 
+Martin_Shaw/i2SBmqNnvRw_0000011 286.3 291.7 
+Martin_Shaw/i2SBmqNnvRw_0000012 384.1 388.6 
+Martin_Shaw/i2SBmqNnvRw_0000013 395.0 400.0 
+Martin_Shaw/i2SBmqNnvRw_0000014 402.4 411.6 
+Martin_Shaw/i2SBmqNnvRw_0000015 411.8 418.1 
+Martin_Shaw/i2SBmqNnvRw_0000016 418.3 423.0 
+Martin_Shaw/i2SBmqNnvRw_0000017 423.3 430.1 
+Martin_Shaw/i2SBmqNnvRw_0000018 463.0 467.1 
+Martin_Shaw/i2SBmqNnvRw_0000019 486.2 491.9 
+Martin_Shaw/i2SBmqNnvRw_0000020 531.2 536.4 
+Martin_Shaw/i2SBmqNnvRw_0000021 545.8 550.5 
+Martin_Shaw/i2SBmqNnvRw_0000022 550.6 558.3 

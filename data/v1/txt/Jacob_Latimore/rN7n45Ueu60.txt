@@ -1,0 +1,19 @@
+POI: 			Jacob_Latimore 
+Youtube ID: 	rN7n45Ueu60 
+Video length: 	321.6 sec 
+Set (V): 		dev 
+ 
+Jacob_Latimore/rN7n45Ueu60_0000001 33.4 38.7 
+Jacob_Latimore/rN7n45Ueu60_0000002 42.6 48.1 
+Jacob_Latimore/rN7n45Ueu60_0000003 49.0 53.4 
+Jacob_Latimore/rN7n45Ueu60_0000004 84.3 89.0 
+Jacob_Latimore/rN7n45Ueu60_0000005 93.5 97.6 
+Jacob_Latimore/rN7n45Ueu60_0000006 111.6 117.9 
+Jacob_Latimore/rN7n45Ueu60_0000007 120.7 124.9 
+Jacob_Latimore/rN7n45Ueu60_0000008 153.1 157.6 
+Jacob_Latimore/rN7n45Ueu60_0000009 175.6 183.8 
+Jacob_Latimore/rN7n45Ueu60_0000010 212.1 218.8 
+Jacob_Latimore/rN7n45Ueu60_0000011 231.6 236.6 
+Jacob_Latimore/rN7n45Ueu60_0000012 260.4 267.3 
+Jacob_Latimore/rN7n45Ueu60_0000013 276.0 280.1 
+Jacob_Latimore/rN7n45Ueu60_0000014 299.9 307.9 

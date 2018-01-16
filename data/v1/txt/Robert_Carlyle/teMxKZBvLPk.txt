@@ -1,0 +1,10 @@
+POI: 			Robert_Carlyle 
+Youtube ID: 	teMxKZBvLPk 
+Video length: 	140.2 sec 
+Set (V): 		dev 
+ 
+Robert_Carlyle/teMxKZBvLPk_0000001 53.0 69.3 
+Robert_Carlyle/teMxKZBvLPk_0000002 69.8 78.5 
+Robert_Carlyle/teMxKZBvLPk_0000003 98.4 109.5 
+Robert_Carlyle/teMxKZBvLPk_0000004 111.6 116.2 
+Robert_Carlyle/teMxKZBvLPk_0000005 134.8 138.7 

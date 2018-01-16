@@ -1,0 +1,8 @@
+POI: 			Zack_Snyder 
+Youtube ID: 	8uOwUEqSlRM 
+Video length: 	244.0 sec 
+Set (V): 		dev 
+ 
+Zack_Snyder/8uOwUEqSlRM_0000001 197.0 208.5 
+Zack_Snyder/8uOwUEqSlRM_0000002 209.0 223.4 
+Zack_Snyder/8uOwUEqSlRM_0000003 223.9 230.8 

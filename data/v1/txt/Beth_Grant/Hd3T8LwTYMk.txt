@@ -1,0 +1,16 @@
+POI: 			Beth_Grant 
+Youtube ID: 	Hd3T8LwTYMk 
+Video length: 	200.8 sec 
+Set (V): 		dev 
+ 
+Beth_Grant/Hd3T8LwTYMk_0000001 14.4 20.4 
+Beth_Grant/Hd3T8LwTYMk_0000002 21.5 28.6 
+Beth_Grant/Hd3T8LwTYMk_0000003 29.0 33.4 
+Beth_Grant/Hd3T8LwTYMk_0000004 36.6 45.7 
+Beth_Grant/Hd3T8LwTYMk_0000005 47.6 53.4 
+Beth_Grant/Hd3T8LwTYMk_0000006 56.5 65.8 
+Beth_Grant/Hd3T8LwTYMk_0000007 67.8 71.9 
+Beth_Grant/Hd3T8LwTYMk_0000008 113.2 119.2 
+Beth_Grant/Hd3T8LwTYMk_0000009 125.6 130.3 
+Beth_Grant/Hd3T8LwTYMk_0000010 134.1 145.3 
+Beth_Grant/Hd3T8LwTYMk_0000011 152.0 162.7 

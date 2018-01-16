@@ -1,0 +1,12 @@
+POI: 			Ang_Lee 
+Youtube ID: 	vfUzWn_R7jE 
+Video length: 	424.9 sec 
+Set (V): 		dev 
+ 
+Ang_Lee/vfUzWn_R7jE_0000001 01.6 12.0 
+Ang_Lee/vfUzWn_R7jE_0000002 24.9 30.4 
+Ang_Lee/vfUzWn_R7jE_0000003 53.3 57.7 
+Ang_Lee/vfUzWn_R7jE_0000004 113.5 119.5 
+Ang_Lee/vfUzWn_R7jE_0000005 174.6 178.6 
+Ang_Lee/vfUzWn_R7jE_0000006 217.4 223.7 
+Ang_Lee/vfUzWn_R7jE_0000007 358.7 363.4 

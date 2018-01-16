@@ -1,0 +1,10 @@
+POI: 			Sandra_Oh 
+Youtube ID: 	wKqW_zuoQ08 
+Video length: 	283.7 sec 
+Set (V): 		dev 
+ 
+Sandra_Oh/wKqW_zuoQ08_0000001 113.1 121.0 
+Sandra_Oh/wKqW_zuoQ08_0000002 125.4 132.0 
+Sandra_Oh/wKqW_zuoQ08_0000003 176.8 180.9 
+Sandra_Oh/wKqW_zuoQ08_0000004 220.0 225.8 
+Sandra_Oh/wKqW_zuoQ08_0000005 246.3 250.4 

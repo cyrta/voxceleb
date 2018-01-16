@@ -1,0 +1,10 @@
+POI: 			Lotte_Verbeek 
+Youtube ID: 	dBZC5pAT_dY 
+Video length: 	268.7 sec 
+Set (V): 		dev 
+ 
+Lotte_Verbeek/dBZC5pAT_dY_0000001 59.9 69.1 
+Lotte_Verbeek/dBZC5pAT_dY_0000002 216.2 221.7 
+Lotte_Verbeek/dBZC5pAT_dY_0000003 222.0 226.4 
+Lotte_Verbeek/dBZC5pAT_dY_0000004 227.1 235.4 
+Lotte_Verbeek/dBZC5pAT_dY_0000005 241.0 247.4 

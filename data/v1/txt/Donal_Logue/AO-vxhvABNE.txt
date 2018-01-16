@@ -1,0 +1,11 @@
+POI: 			Donal_Logue 
+Youtube ID: 	AO-vxhvABNE 
+Video length: 	338.2 sec 
+Set (V): 		dev 
+ 
+Donal_Logue/AO-vxhvABNE_0000001 195.7 202.8 
+Donal_Logue/AO-vxhvABNE_0000002 260.4 267.6 
+Donal_Logue/AO-vxhvABNE_0000003 262.0 267.0 
+Donal_Logue/AO-vxhvABNE_0000004 286.3 292.4 
+Donal_Logue/AO-vxhvABNE_0000005 299.0 304.4 
+Donal_Logue/AO-vxhvABNE_0000006 305.4 310.5 

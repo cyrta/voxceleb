@@ -1,0 +1,15 @@
+POI: 			Marie_Avgeropoulos 
+Youtube ID: 	OzoaS8Y07ao 
+Video length: 	507.9 sec 
+Set (V): 		dev 
+ 
+Marie_Avgeropoulos/OzoaS8Y07ao_0000001 138.0 142.9 
+Marie_Avgeropoulos/OzoaS8Y07ao_0000002 224.4 231.3 
+Marie_Avgeropoulos/OzoaS8Y07ao_0000003 240.0 246.2 
+Marie_Avgeropoulos/OzoaS8Y07ao_0000004 267.9 271.9 
+Marie_Avgeropoulos/OzoaS8Y07ao_0000005 290.6 295.6 
+Marie_Avgeropoulos/OzoaS8Y07ao_0000006 307.2 316.1 
+Marie_Avgeropoulos/OzoaS8Y07ao_0000007 342.5 347.6 
+Marie_Avgeropoulos/OzoaS8Y07ao_0000008 375.6 381.4 
+Marie_Avgeropoulos/OzoaS8Y07ao_0000009 384.6 389.5 
+Marie_Avgeropoulos/OzoaS8Y07ao_0000010 417.7 422.0 

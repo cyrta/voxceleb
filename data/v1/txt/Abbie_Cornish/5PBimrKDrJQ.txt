@@ -1,0 +1,9 @@
+POI: 			Abbie_Cornish 
+Youtube ID: 	5PBimrKDrJQ 
+Video length: 	150.2 sec 
+Set (V): 		dev 
+ 
+Abbie_Cornish/5PBimrKDrJQ_0000001 07.7 24.8 
+Abbie_Cornish/5PBimrKDrJQ_0000002 75.5 79.7 
+Abbie_Cornish/5PBimrKDrJQ_0000003 79.8 84.6 
+Abbie_Cornish/5PBimrKDrJQ_0000004 137.9 143.4 

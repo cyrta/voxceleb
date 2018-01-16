@@ -1,0 +1,10 @@
+POI: 			Sam_Raimi 
+Youtube ID: 	OC_EISBqooQ 
+Video length: 	215.9 sec 
+Set (V): 		dev 
+ 
+Sam_Raimi/OC_EISBqooQ_0000001 77.4 83.2 
+Sam_Raimi/OC_EISBqooQ_0000002 119.8 131.8 
+Sam_Raimi/OC_EISBqooQ_0000003 142.0 147.1 
+Sam_Raimi/OC_EISBqooQ_0000004 163.9 172.0 
+Sam_Raimi/OC_EISBqooQ_0000005 172.7 178.1 

@@ -1,0 +1,21 @@
+POI: 			Bruno_Ganz 
+Youtube ID: 	z1oFDNSM-9c 
+Video length: 	1809.4 sec 
+Set (V): 		dev 
+ 
+Bruno_Ganz/z1oFDNSM-9c_0000001 665.9 672.2 
+Bruno_Ganz/z1oFDNSM-9c_0000002 783.0 794.8 
+Bruno_Ganz/z1oFDNSM-9c_0000003 795.0 800.0 
+Bruno_Ganz/z1oFDNSM-9c_0000004 804.5 817.4 
+Bruno_Ganz/z1oFDNSM-9c_0000005 819.2 823.2 
+Bruno_Ganz/z1oFDNSM-9c_0000006 824.8 829.8 
+Bruno_Ganz/z1oFDNSM-9c_0000007 830.4 834.5 
+Bruno_Ganz/z1oFDNSM-9c_0000008 841.6 846.1 
+Bruno_Ganz/z1oFDNSM-9c_0000009 874.2 881.5 
+Bruno_Ganz/z1oFDNSM-9c_0000010 891.6 898.2 
+Bruno_Ganz/z1oFDNSM-9c_0000011 898.5 906.1 
+Bruno_Ganz/z1oFDNSM-9c_0000012 912.7 920.5 
+Bruno_Ganz/z1oFDNSM-9c_0000013 1211.5 1215.6 
+Bruno_Ganz/z1oFDNSM-9c_0000014 1393.9 1399.6 
+Bruno_Ganz/z1oFDNSM-9c_0000015 1424.0 1430.8 
+Bruno_Ganz/z1oFDNSM-9c_0000016 1431.9 1449.2 

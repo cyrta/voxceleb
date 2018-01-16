@@ -1,0 +1,15 @@
+POI: 			Riz_Ahmed 
+Youtube ID: 	7dMckGs1Ag4 
+Video length: 	375.6 sec 
+Set (V): 		dev 
+ 
+Riz_Ahmed/7dMckGs1Ag4_0000001 121.9 146.0 
+Riz_Ahmed/7dMckGs1Ag4_0000002 156.1 175.5 
+Riz_Ahmed/7dMckGs1Ag4_0000003 177.6 185.8 
+Riz_Ahmed/7dMckGs1Ag4_0000004 197.3 202.2 
+Riz_Ahmed/7dMckGs1Ag4_0000005 202.5 209.6 
+Riz_Ahmed/7dMckGs1Ag4_0000006 243.6 248.5 
+Riz_Ahmed/7dMckGs1Ag4_0000007 290.4 296.4 
+Riz_Ahmed/7dMckGs1Ag4_0000008 297.1 301.3 
+Riz_Ahmed/7dMckGs1Ag4_0000009 325.8 334.3 
+Riz_Ahmed/7dMckGs1Ag4_0000010 335.3 345.2 

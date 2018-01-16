@@ -1,0 +1,9 @@
+POI: 			Armie_Hammer 
+Youtube ID: 	ME_w57OWl0s 
+Video length: 	148.1 sec 
+Set (V): 		dev 
+ 
+Armie_Hammer/ME_w57OWl0s_0000001 14.3 18.3 
+Armie_Hammer/ME_w57OWl0s_0000002 26.7 35.1 
+Armie_Hammer/ME_w57OWl0s_0000003 43.4 52.0 
+Armie_Hammer/ME_w57OWl0s_0000004 114.8 125.4 

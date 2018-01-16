@@ -1,0 +1,7 @@
+POI: 			Stephen_Fry 
+Youtube ID: 	LP1V8G-JPLQ 
+Video length: 	162.0 sec 
+Set (V): 		dev 
+ 
+Stephen_Fry/LP1V8G-JPLQ_0000001 34.8 55.2 
+Stephen_Fry/LP1V8G-JPLQ_0000002 143.1 150.0 

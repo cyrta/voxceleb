@@ -1,0 +1,8 @@
+POI: 			Fiona_Shaw 
+Youtube ID: 	bU-9ZOW0lMU 
+Video length: 	78.7 sec 
+Set (V): 		dev 
+ 
+Fiona_Shaw/bU-9ZOW0lMU_0000001 05.1 09.6 
+Fiona_Shaw/bU-9ZOW0lMU_0000002 15.1 21.1 
+Fiona_Shaw/bU-9ZOW0lMU_0000003 28.0 33.5 

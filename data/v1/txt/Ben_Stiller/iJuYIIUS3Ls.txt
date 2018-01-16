@@ -1,0 +1,8 @@
+POI: 			Ben_Stiller 
+Youtube ID: 	iJuYIIUS3Ls 
+Video length: 	141.1 sec 
+Set (V): 		dev 
+ 
+Ben_Stiller/iJuYIIUS3Ls_0000001 14.6 19.4 
+Ben_Stiller/iJuYIIUS3Ls_0000002 54.9 60.3 
+Ben_Stiller/iJuYIIUS3Ls_0000003 123.6 130.2 

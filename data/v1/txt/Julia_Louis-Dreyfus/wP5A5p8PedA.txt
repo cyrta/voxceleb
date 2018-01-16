@@ -1,0 +1,8 @@
+POI: 			Julia_Louis-Dreyfus 
+Youtube ID: 	wP5A5p8PedA 
+Video length: 	391.6 sec 
+Set (V): 		dev 
+ 
+Julia_Louis-Dreyfus/wP5A5p8PedA_0000001 149.8 156.5 
+Julia_Louis-Dreyfus/wP5A5p8PedA_0000002 224.2 230.9 
+Julia_Louis-Dreyfus/wP5A5p8PedA_0000003 235.7 240.4 

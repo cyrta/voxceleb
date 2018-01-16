@@ -1,0 +1,15 @@
+POI: 			Eugene_Levy 
+Youtube ID: 	CN6JpPYbHCQ 
+Video length: 	224.2 sec 
+Set (V): 		test 
+ 
+Eugene_Levy/CN6JpPYbHCQ_0000001 34.5 39.9 
+Eugene_Levy/CN6JpPYbHCQ_0000002 40.1 48.2 
+Eugene_Levy/CN6JpPYbHCQ_0000003 48.5 55.7 
+Eugene_Levy/CN6JpPYbHCQ_0000004 69.0 73.2 
+Eugene_Levy/CN6JpPYbHCQ_0000005 76.7 80.8 
+Eugene_Levy/CN6JpPYbHCQ_0000006 149.0 155.0 
+Eugene_Levy/CN6JpPYbHCQ_0000007 162.8 168.0 
+Eugene_Levy/CN6JpPYbHCQ_0000008 185.5 189.6 
+Eugene_Levy/CN6JpPYbHCQ_0000009 193.5 198.0 
+Eugene_Levy/CN6JpPYbHCQ_0000010 199.3 203.7 

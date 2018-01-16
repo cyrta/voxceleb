@@ -1,0 +1,19 @@
+POI: 			Woody_Harrelson 
+Youtube ID: 	8LDIqV20DHY 
+Video length: 	1294.9 sec 
+Set (V): 		dev 
+ 
+Woody_Harrelson/8LDIqV20DHY_0000001 44.0 50.0 
+Woody_Harrelson/8LDIqV20DHY_0000002 50.8 55.3 
+Woody_Harrelson/8LDIqV20DHY_0000003 60.7 70.6 
+Woody_Harrelson/8LDIqV20DHY_0000004 77.4 87.2 
+Woody_Harrelson/8LDIqV20DHY_0000005 268.5 277.6 
+Woody_Harrelson/8LDIqV20DHY_0000006 375.0 385.4 
+Woody_Harrelson/8LDIqV20DHY_0000007 400.3 407.0 
+Woody_Harrelson/8LDIqV20DHY_0000008 524.6 535.8 
+Woody_Harrelson/8LDIqV20DHY_0000009 825.7 831.8 
+Woody_Harrelson/8LDIqV20DHY_0000010 837.5 844.4 
+Woody_Harrelson/8LDIqV20DHY_0000011 862.9 871.6 
+Woody_Harrelson/8LDIqV20DHY_0000012 886.0 900.4 
+Woody_Harrelson/8LDIqV20DHY_0000013 905.1 912.8 
+Woody_Harrelson/8LDIqV20DHY_0000014 913.4 921.2 

@@ -1,0 +1,10 @@
+POI: 			David_Jason 
+Youtube ID: 	Tm-eGlrI0tc 
+Video length: 	190.8 sec 
+Set (V): 		dev 
+ 
+David_Jason/Tm-eGlrI0tc_0000001 09.2 15.7 
+David_Jason/Tm-eGlrI0tc_0000002 41.4 46.4 
+David_Jason/Tm-eGlrI0tc_0000003 96.2 101.0 
+David_Jason/Tm-eGlrI0tc_0000004 107.6 113.4 
+David_Jason/Tm-eGlrI0tc_0000005 174.5 181.8 

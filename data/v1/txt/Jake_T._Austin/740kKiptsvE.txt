@@ -1,0 +1,10 @@
+POI: 			Jake_T._Austin 
+Youtube ID: 	740kKiptsvE 
+Video length: 	292.0 sec 
+Set (V): 		dev 
+ 
+Jake_T._Austin/740kKiptsvE_0000001 11.4 22.6 
+Jake_T._Austin/740kKiptsvE_0000002 113.8 119.6 
+Jake_T._Austin/740kKiptsvE_0000003 165.3 169.4 
+Jake_T._Austin/740kKiptsvE_0000004 173.3 179.2 
+Jake_T._Austin/740kKiptsvE_0000005 191.1 197.9 

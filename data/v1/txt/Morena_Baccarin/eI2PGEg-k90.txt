@@ -1,0 +1,11 @@
+POI: 			Morena_Baccarin 
+Youtube ID: 	eI2PGEg-k90 
+Video length: 	218.0 sec 
+Set (V): 		dev 
+ 
+Morena_Baccarin/eI2PGEg-k90_0000001 89.8 98.6 
+Morena_Baccarin/eI2PGEg-k90_0000002 108.4 113.2 
+Morena_Baccarin/eI2PGEg-k90_0000003 119.3 123.5 
+Morena_Baccarin/eI2PGEg-k90_0000004 123.6 128.3 
+Morena_Baccarin/eI2PGEg-k90_0000005 137.8 145.4 
+Morena_Baccarin/eI2PGEg-k90_0000006 190.9 199.4 

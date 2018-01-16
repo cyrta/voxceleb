@@ -1,0 +1,15 @@
+POI: 			Nathalie_Emmanuel 
+Youtube ID: 	Nicl3Q05JQ0 
+Video length: 	408.0 sec 
+Set (V): 		dev 
+ 
+Nathalie_Emmanuel/Nicl3Q05JQ0_0000001 27.2 31.2 
+Nathalie_Emmanuel/Nicl3Q05JQ0_0000002 37.2 45.6 
+Nathalie_Emmanuel/Nicl3Q05JQ0_0000003 130.4 136.0 
+Nathalie_Emmanuel/Nicl3Q05JQ0_0000004 151.7 156.4 
+Nathalie_Emmanuel/Nicl3Q05JQ0_0000005 199.9 204.4 
+Nathalie_Emmanuel/Nicl3Q05JQ0_0000006 235.8 242.3 
+Nathalie_Emmanuel/Nicl3Q05JQ0_0000007 241.6 247.0 
+Nathalie_Emmanuel/Nicl3Q05JQ0_0000008 268.8 275.7 
+Nathalie_Emmanuel/Nicl3Q05JQ0_0000009 341.6 346.0 
+Nathalie_Emmanuel/Nicl3Q05JQ0_0000010 341.5 345.9 

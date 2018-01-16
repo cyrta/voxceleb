@@ -1,0 +1,12 @@
+POI: 			Della_Reese 
+Youtube ID: 	P8QgskvXRVM 
+Video length: 	117.8 sec 
+Set (V): 		dev 
+ 
+Della_Reese/P8QgskvXRVM_0000001 48.0 61.1 
+Della_Reese/P8QgskvXRVM_0000002 67.3 73.2 
+Della_Reese/P8QgskvXRVM_0000003 75.7 79.9 
+Della_Reese/P8QgskvXRVM_0000004 80.0 84.2 
+Della_Reese/P8QgskvXRVM_0000005 84.9 89.2 
+Della_Reese/P8QgskvXRVM_0000006 90.7 97.2 
+Della_Reese/P8QgskvXRVM_0000007 99.4 106.0 

@@ -1,0 +1,7 @@
+POI: 			Nazanin_Boniadi 
+Youtube ID: 	oE816pI0p94 
+Video length: 	124.8 sec 
+Set (V): 		dev 
+ 
+Nazanin_Boniadi/oE816pI0p94_0000001 43.0 49.6 
+Nazanin_Boniadi/oE816pI0p94_0000002 96.0 105.2 

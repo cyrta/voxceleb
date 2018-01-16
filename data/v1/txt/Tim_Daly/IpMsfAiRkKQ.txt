@@ -1,0 +1,14 @@
+POI: 			Tim_Daly 
+Youtube ID: 	IpMsfAiRkKQ 
+Video length: 	494.9 sec 
+Set (V): 		dev 
+ 
+Tim_Daly/IpMsfAiRkKQ_0000001 61.2 67.8 
+Tim_Daly/IpMsfAiRkKQ_0000002 107.1 114.0 
+Tim_Daly/IpMsfAiRkKQ_0000003 229.4 237.6 
+Tim_Daly/IpMsfAiRkKQ_0000004 314.1 320.9 
+Tim_Daly/IpMsfAiRkKQ_0000005 334.6 342.2 
+Tim_Daly/IpMsfAiRkKQ_0000006 346.2 355.1 
+Tim_Daly/IpMsfAiRkKQ_0000007 377.0 388.6 
+Tim_Daly/IpMsfAiRkKQ_0000008 437.3 443.3 
+Tim_Daly/IpMsfAiRkKQ_0000009 448.9 463.2 

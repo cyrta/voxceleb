@@ -1,0 +1,7 @@
+POI: 			Callan_McAuliffe 
+Youtube ID: 	YR21h6fFawQ 
+Video length: 	242.5 sec 
+Set (V): 		dev 
+ 
+Callan_McAuliffe/YR21h6fFawQ_0000001 126.4 131.0 
+Callan_McAuliffe/YR21h6fFawQ_0000002 196.9 209.0 

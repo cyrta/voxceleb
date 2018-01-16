@@ -1,0 +1,9 @@
+POI: 			Pooja_Kumar 
+Youtube ID: 	m6EmvGA_loo 
+Video length: 	155.3 sec 
+Set (V): 		dev 
+ 
+Pooja_Kumar/m6EmvGA_loo_0000001 85.5 90.2 
+Pooja_Kumar/m6EmvGA_loo_0000002 114.9 124.8 
+Pooja_Kumar/m6EmvGA_loo_0000003 125.6 130.3 
+Pooja_Kumar/m6EmvGA_loo_0000004 131.2 135.5 

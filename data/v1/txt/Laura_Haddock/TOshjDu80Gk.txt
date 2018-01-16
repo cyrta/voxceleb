@@ -1,0 +1,7 @@
+POI: 			Laura_Haddock 
+Youtube ID: 	TOshjDu80Gk 
+Video length: 	211.3 sec 
+Set (V): 		dev 
+ 
+Laura_Haddock/TOshjDu80Gk_0000001 70.6 75.9 
+Laura_Haddock/TOshjDu80Gk_0000002 171.4 177.3 

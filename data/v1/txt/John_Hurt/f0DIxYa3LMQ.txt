@@ -1,0 +1,7 @@
+POI: 			John_Hurt 
+Youtube ID: 	f0DIxYa3LMQ 
+Video length: 	205.7 sec 
+Set (V): 		dev 
+ 
+John_Hurt/f0DIxYa3LMQ_0000001 23.8 30.4 
+John_Hurt/f0DIxYa3LMQ_0000002 83.0 94.6 

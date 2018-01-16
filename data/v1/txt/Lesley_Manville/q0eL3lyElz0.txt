@@ -1,0 +1,13 @@
+POI: 			Lesley_Manville 
+Youtube ID: 	q0eL3lyElz0 
+Video length: 	150.4 sec 
+Set (V): 		dev 
+ 
+Lesley_Manville/q0eL3lyElz0_0000001 16.8 24.6 
+Lesley_Manville/q0eL3lyElz0_0000002 38.5 48.1 
+Lesley_Manville/q0eL3lyElz0_0000003 58.3 62.8 
+Lesley_Manville/q0eL3lyElz0_0000004 64.8 70.2 
+Lesley_Manville/q0eL3lyElz0_0000005 71.0 75.9 
+Lesley_Manville/q0eL3lyElz0_0000006 90.7 99.2 
+Lesley_Manville/q0eL3lyElz0_0000007 114.7 120.5 
+Lesley_Manville/q0eL3lyElz0_0000008 126.4 144.0 

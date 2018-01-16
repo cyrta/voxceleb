@@ -1,0 +1,7 @@
+POI: 			Paul_Giamatti 
+Youtube ID: 	F5I0F7BxpLk 
+Video length: 	218.6 sec 
+Set (V): 		dev 
+ 
+Paul_Giamatti/F5I0F7BxpLk_0000001 10.5 14.6 
+Paul_Giamatti/F5I0F7BxpLk_0000002 35.4 40.2 

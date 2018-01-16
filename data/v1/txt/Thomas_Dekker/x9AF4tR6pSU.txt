@@ -1,0 +1,11 @@
+POI: 			Thomas_Dekker 
+Youtube ID: 	x9AF4tR6pSU 
+Video length: 	512.4 sec 
+Set (V): 		dev 
+ 
+Thomas_Dekker/x9AF4tR6pSU_0000001 74.9 83.1 
+Thomas_Dekker/x9AF4tR6pSU_0000002 84.2 89.0 
+Thomas_Dekker/x9AF4tR6pSU_0000003 328.9 334.6 
+Thomas_Dekker/x9AF4tR6pSU_0000004 350.1 363.0 
+Thomas_Dekker/x9AF4tR6pSU_0000005 363.3 368.6 
+Thomas_Dekker/x9AF4tR6pSU_0000006 398.2 406.5 

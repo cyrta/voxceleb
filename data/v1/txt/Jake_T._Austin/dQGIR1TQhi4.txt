@@ -1,0 +1,12 @@
+POI: 			Jake_T._Austin 
+Youtube ID: 	dQGIR1TQhi4 
+Video length: 	441.5 sec 
+Set (V): 		dev 
+ 
+Jake_T._Austin/dQGIR1TQhi4_0000001 20.3 26.1 
+Jake_T._Austin/dQGIR1TQhi4_0000002 36.8 47.6 
+Jake_T._Austin/dQGIR1TQhi4_0000003 73.0 78.7 
+Jake_T._Austin/dQGIR1TQhi4_0000004 195.9 203.6 
+Jake_T._Austin/dQGIR1TQhi4_0000005 203.8 216.7 
+Jake_T._Austin/dQGIR1TQhi4_0000006 342.7 353.3 
+Jake_T._Austin/dQGIR1TQhi4_0000007 412.2 420.4 

@@ -1,0 +1,13 @@
+POI: 			Jesse_McCartney 
+Youtube ID: 	7eY_YX6-aUA 
+Video length: 	200.8 sec 
+Set (V): 		dev 
+ 
+Jesse_McCartney/7eY_YX6-aUA_0000001 83.4 92.3 
+Jesse_McCartney/7eY_YX6-aUA_0000002 93.3 98.1 
+Jesse_McCartney/7eY_YX6-aUA_0000003 98.6 106.7 
+Jesse_McCartney/7eY_YX6-aUA_0000004 108.6 119.4 
+Jesse_McCartney/7eY_YX6-aUA_0000005 122.2 133.0 
+Jesse_McCartney/7eY_YX6-aUA_0000006 133.2 137.3 
+Jesse_McCartney/7eY_YX6-aUA_0000007 146.0 152.7 
+Jesse_McCartney/7eY_YX6-aUA_0000008 177.2 185.1 

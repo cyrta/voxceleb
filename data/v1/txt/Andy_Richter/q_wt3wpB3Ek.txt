@@ -1,0 +1,11 @@
+POI: 			Andy_Richter 
+Youtube ID: 	q_wt3wpB3Ek 
+Video length: 	142.5 sec 
+Set (V): 		dev 
+ 
+Andy_Richter/q_wt3wpB3Ek_0000001 34.3 44.4 
+Andy_Richter/q_wt3wpB3Ek_0000002 45.8 52.6 
+Andy_Richter/q_wt3wpB3Ek_0000003 57.2 61.7 
+Andy_Richter/q_wt3wpB3Ek_0000004 62.6 66.7 
+Andy_Richter/q_wt3wpB3Ek_0000005 67.0 72.1 
+Andy_Richter/q_wt3wpB3Ek_0000006 89.6 103.6 

@@ -1,0 +1,38 @@
+POI: 			Poppy_Montgomery 
+Youtube ID: 	9joTbCx9dzE 
+Video length: 	849.6 sec 
+Set (V): 		dev 
+ 
+Poppy_Montgomery/9joTbCx9dzE_0000001 42.4 75.2 
+Poppy_Montgomery/9joTbCx9dzE_0000002 78.7 90.2 
+Poppy_Montgomery/9joTbCx9dzE_0000003 90.9 95.6 
+Poppy_Montgomery/9joTbCx9dzE_0000004 105.0 124.3 
+Poppy_Montgomery/9joTbCx9dzE_0000005 130.7 135.4 
+Poppy_Montgomery/9joTbCx9dzE_0000006 142.3 148.1 
+Poppy_Montgomery/9joTbCx9dzE_0000007 148.8 160.8 
+Poppy_Montgomery/9joTbCx9dzE_0000008 162.4 189.6 
+Poppy_Montgomery/9joTbCx9dzE_0000009 194.7 219.2 
+Poppy_Montgomery/9joTbCx9dzE_0000010 220.3 233.8 
+Poppy_Montgomery/9joTbCx9dzE_0000011 241.8 267.8 
+Poppy_Montgomery/9joTbCx9dzE_0000012 271.4 280.7 
+Poppy_Montgomery/9joTbCx9dzE_0000013 290.0 298.0 
+Poppy_Montgomery/9joTbCx9dzE_0000014 303.0 307.8 
+Poppy_Montgomery/9joTbCx9dzE_0000015 308.7 321.3 
+Poppy_Montgomery/9joTbCx9dzE_0000016 328.9 334.2 
+Poppy_Montgomery/9joTbCx9dzE_0000017 330.6 345.8 
+Poppy_Montgomery/9joTbCx9dzE_0000018 346.2 352.3 
+Poppy_Montgomery/9joTbCx9dzE_0000019 359.0 388.1 
+Poppy_Montgomery/9joTbCx9dzE_0000020 404.6 429.0 
+Poppy_Montgomery/9joTbCx9dzE_0000021 429.5 450.9 
+Poppy_Montgomery/9joTbCx9dzE_0000022 509.4 515.2 
+Poppy_Montgomery/9joTbCx9dzE_0000023 538.6 561.1 
+Poppy_Montgomery/9joTbCx9dzE_0000024 603.6 620.6 
+Poppy_Montgomery/9joTbCx9dzE_0000025 621.4 636.5 
+Poppy_Montgomery/9joTbCx9dzE_0000026 642.8 685.9 
+Poppy_Montgomery/9joTbCx9dzE_0000027 696.9 710.4 
+Poppy_Montgomery/9joTbCx9dzE_0000028 711.0 720.2 
+Poppy_Montgomery/9joTbCx9dzE_0000029 704.4 726.7 
+Poppy_Montgomery/9joTbCx9dzE_0000030 736.6 742.1 
+Poppy_Montgomery/9joTbCx9dzE_0000031 744.3 765.1 
+Poppy_Montgomery/9joTbCx9dzE_0000032 766.1 772.0 
+Poppy_Montgomery/9joTbCx9dzE_0000033 772.8 778.1 

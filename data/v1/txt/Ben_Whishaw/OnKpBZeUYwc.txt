@@ -1,0 +1,7 @@
+POI: 			Ben_Whishaw 
+Youtube ID: 	OnKpBZeUYwc 
+Video length: 	91.3 sec 
+Set (V): 		dev 
+ 
+Ben_Whishaw/OnKpBZeUYwc_0000001 39.6 45.9 
+Ben_Whishaw/OnKpBZeUYwc_0000002 58.2 68.8 

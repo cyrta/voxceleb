@@ -1,0 +1,14 @@
+POI: 			Jeremy_Piven 
+Youtube ID: 	TkBwvX4VYrY 
+Video length: 	338.7 sec 
+Set (V): 		dev 
+ 
+Jeremy_Piven/TkBwvX4VYrY_0000001 13.5 24.2 
+Jeremy_Piven/TkBwvX4VYrY_0000002 25.0 30.4 
+Jeremy_Piven/TkBwvX4VYrY_0000003 44.0 49.3 
+Jeremy_Piven/TkBwvX4VYrY_0000004 114.4 126.3 
+Jeremy_Piven/TkBwvX4VYrY_0000005 142.2 153.4 
+Jeremy_Piven/TkBwvX4VYrY_0000006 177.9 182.0 
+Jeremy_Piven/TkBwvX4VYrY_0000007 192.2 201.1 
+Jeremy_Piven/TkBwvX4VYrY_0000008 270.1 295.3 
+Jeremy_Piven/TkBwvX4VYrY_0000009 295.6 302.4 

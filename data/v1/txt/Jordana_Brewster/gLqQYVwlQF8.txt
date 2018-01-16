@@ -1,0 +1,14 @@
+POI: 			Jordana_Brewster 
+Youtube ID: 	gLqQYVwlQF8 
+Video length: 	360.9 sec 
+Set (V): 		dev 
+ 
+Jordana_Brewster/gLqQYVwlQF8_0000001 61.8 68.2 
+Jordana_Brewster/gLqQYVwlQF8_0000002 101.7 110.3 
+Jordana_Brewster/gLqQYVwlQF8_0000003 121.3 133.5 
+Jordana_Brewster/gLqQYVwlQF8_0000004 140.9 163.0 
+Jordana_Brewster/gLqQYVwlQF8_0000005 164.3 169.7 
+Jordana_Brewster/gLqQYVwlQF8_0000006 227.1 232.1 
+Jordana_Brewster/gLqQYVwlQF8_0000007 268.2 279.8 
+Jordana_Brewster/gLqQYVwlQF8_0000008 280.2 291.4 
+Jordana_Brewster/gLqQYVwlQF8_0000009 303.2 308.2 

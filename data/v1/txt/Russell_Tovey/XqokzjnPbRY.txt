@@ -1,0 +1,21 @@
+POI: 			Russell_Tovey 
+Youtube ID: 	XqokzjnPbRY 
+Video length: 	309.1 sec 
+Set (V): 		dev 
+ 
+Russell_Tovey/XqokzjnPbRY_0000001 13.1 17.9 
+Russell_Tovey/XqokzjnPbRY_0000002 26.3 30.4 
+Russell_Tovey/XqokzjnPbRY_0000003 30.6 41.0 
+Russell_Tovey/XqokzjnPbRY_0000004 46.4 57.5 
+Russell_Tovey/XqokzjnPbRY_0000005 84.4 91.5 
+Russell_Tovey/XqokzjnPbRY_0000006 123.4 133.8 
+Russell_Tovey/XqokzjnPbRY_0000007 160.2 165.4 
+Russell_Tovey/XqokzjnPbRY_0000008 151.9 156.8 
+Russell_Tovey/XqokzjnPbRY_0000009 191.9 196.3 
+Russell_Tovey/XqokzjnPbRY_0000010 196.6 201.5 
+Russell_Tovey/XqokzjnPbRY_0000011 230.8 237.8 
+Russell_Tovey/XqokzjnPbRY_0000012 243.0 251.6 
+Russell_Tovey/XqokzjnPbRY_0000013 267.2 272.3 
+Russell_Tovey/XqokzjnPbRY_0000014 273.3 277.3 
+Russell_Tovey/XqokzjnPbRY_0000015 283.0 288.5 
+Russell_Tovey/XqokzjnPbRY_0000016 292.3 301.0 

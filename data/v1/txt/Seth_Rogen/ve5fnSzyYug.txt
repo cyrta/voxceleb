@@ -1,0 +1,8 @@
+POI: 			Seth_Rogen 
+Youtube ID: 	ve5fnSzyYug 
+Video length: 	172.5 sec 
+Set (V): 		dev 
+ 
+Seth_Rogen/ve5fnSzyYug_0000001 05.2 12.9 
+Seth_Rogen/ve5fnSzyYug_0000002 45.6 50.7 
+Seth_Rogen/ve5fnSzyYug_0000003 146.3 153.6 

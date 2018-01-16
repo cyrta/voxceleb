@@ -1,0 +1,14 @@
+POI: 			Paul_Dano 
+Youtube ID: 	1HM7OmNk_A8 
+Video length: 	326.0 sec 
+Set (V): 		dev 
+ 
+Paul_Dano/1HM7OmNk_A8_0000001 61.4 67.2 
+Paul_Dano/1HM7OmNk_A8_0000002 68.0 73.1 
+Paul_Dano/1HM7OmNk_A8_0000003 147.9 154.3 
+Paul_Dano/1HM7OmNk_A8_0000004 163.4 173.2 
+Paul_Dano/1HM7OmNk_A8_0000005 194.0 198.8 
+Paul_Dano/1HM7OmNk_A8_0000006 236.4 240.6 
+Paul_Dano/1HM7OmNk_A8_0000007 258.8 263.5 
+Paul_Dano/1HM7OmNk_A8_0000008 264.7 280.7 
+Paul_Dano/1HM7OmNk_A8_0000009 282.3 288.4 

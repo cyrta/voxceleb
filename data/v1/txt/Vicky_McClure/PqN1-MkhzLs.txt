@@ -1,0 +1,7 @@
+POI: 			Vicky_McClure 
+Youtube ID: 	PqN1-MkhzLs 
+Video length: 	233.0 sec 
+Set (V): 		dev 
+ 
+Vicky_McClure/PqN1-MkhzLs_0000001 85.7 98.7 
+Vicky_McClure/PqN1-MkhzLs_0000002 99.2 106.8 

@@ -1,0 +1,10 @@
+POI: 			Sam_Raimi 
+Youtube ID: 	5XMHhGyJpHY 
+Video length: 	531.6 sec 
+Set (V): 		dev 
+ 
+Sam_Raimi/5XMHhGyJpHY_0000001 170.0 174.0 
+Sam_Raimi/5XMHhGyJpHY_0000002 337.6 344.2 
+Sam_Raimi/5XMHhGyJpHY_0000003 364.8 369.6 
+Sam_Raimi/5XMHhGyJpHY_0000004 382.2 387.8 
+Sam_Raimi/5XMHhGyJpHY_0000005 465.7 473.9 

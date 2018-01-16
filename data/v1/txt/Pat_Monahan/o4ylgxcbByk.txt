@@ -1,0 +1,8 @@
+POI: 			Pat_Monahan 
+Youtube ID: 	o4ylgxcbByk 
+Video length: 	212.3 sec 
+Set (V): 		dev 
+ 
+Pat_Monahan/o4ylgxcbByk_0000001 120.6 124.8 
+Pat_Monahan/o4ylgxcbByk_0000002 143.9 147.9 
+Pat_Monahan/o4ylgxcbByk_0000003 164.0 168.0 

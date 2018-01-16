@@ -1,0 +1,7 @@
+POI: 			John_Goodman 
+Youtube ID: 	mZ7VfkQVUY0 
+Video length: 	305.6 sec 
+Set (V): 		dev 
+ 
+John_Goodman/mZ7VfkQVUY0_0000001 84.9 90.6 
+John_Goodman/mZ7VfkQVUY0_0000002 241.7 249.8 

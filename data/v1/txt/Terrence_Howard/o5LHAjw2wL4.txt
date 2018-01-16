@@ -1,0 +1,9 @@
+POI: 			Terrence_Howard 
+Youtube ID: 	o5LHAjw2wL4 
+Video length: 	272.2 sec 
+Set (V): 		dev 
+ 
+Terrence_Howard/o5LHAjw2wL4_0000001 49.7 58.2 
+Terrence_Howard/o5LHAjw2wL4_0000002 72.6 79.2 
+Terrence_Howard/o5LHAjw2wL4_0000003 144.8 149.0 
+Terrence_Howard/o5LHAjw2wL4_0000004 249.4 254.5 

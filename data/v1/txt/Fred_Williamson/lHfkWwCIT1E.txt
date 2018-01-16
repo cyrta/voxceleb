@@ -1,0 +1,14 @@
+POI: 			Fred_Williamson 
+Youtube ID: 	lHfkWwCIT1E 
+Video length: 	240.6 sec 
+Set (V): 		dev 
+ 
+Fred_Williamson/lHfkWwCIT1E_0000001 17.6 29.5 
+Fred_Williamson/lHfkWwCIT1E_0000002 52.3 57.9 
+Fred_Williamson/lHfkWwCIT1E_0000003 66.6 82.8 
+Fred_Williamson/lHfkWwCIT1E_0000004 128.8 133.1 
+Fred_Williamson/lHfkWwCIT1E_0000005 135.9 140.8 
+Fred_Williamson/lHfkWwCIT1E_0000006 156.3 162.0 
+Fred_Williamson/lHfkWwCIT1E_0000007 162.6 166.7 
+Fred_Williamson/lHfkWwCIT1E_0000008 174.9 181.8 
+Fred_Williamson/lHfkWwCIT1E_0000009 223.4 229.8 

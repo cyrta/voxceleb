@@ -1,0 +1,8 @@
+POI: 			Ralph_Macchio 
+Youtube ID: 	LFWky91cCHs 
+Video length: 	449.2 sec 
+Set (V): 		dev 
+ 
+Ralph_Macchio/LFWky91cCHs_0000001 19.8 24.9 
+Ralph_Macchio/LFWky91cCHs_0000002 35.2 41.2 
+Ralph_Macchio/LFWky91cCHs_0000003 116.6 122.2 

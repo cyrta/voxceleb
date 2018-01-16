@@ -1,0 +1,6 @@
+POI: 			David_Letterman 
+Youtube ID: 	EAGnZP41cT8 
+Video length: 	588.5 sec 
+Set (V): 		dev 
+ 
+David_Letterman/EAGnZP41cT8_0000001 02.3 12.5 

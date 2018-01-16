@@ -1,0 +1,15 @@
+POI: 			Tupac_Shakur 
+Youtube ID: 	e211QU3kkb4 
+Video length: 	360.5 sec 
+Set (V): 		dev 
+ 
+Tupac_Shakur/e211QU3kkb4_0000001 62.3 67.4 
+Tupac_Shakur/e211QU3kkb4_0000002 104.1 112.1 
+Tupac_Shakur/e211QU3kkb4_0000003 159.1 169.2 
+Tupac_Shakur/e211QU3kkb4_0000004 171.6 180.7 
+Tupac_Shakur/e211QU3kkb4_0000005 197.7 218.8 
+Tupac_Shakur/e211QU3kkb4_0000006 228.2 249.5 
+Tupac_Shakur/e211QU3kkb4_0000007 284.2 294.8 
+Tupac_Shakur/e211QU3kkb4_0000008 298.2 304.4 
+Tupac_Shakur/e211QU3kkb4_0000009 308.2 313.0 
+Tupac_Shakur/e211QU3kkb4_0000010 332.4 337.3 

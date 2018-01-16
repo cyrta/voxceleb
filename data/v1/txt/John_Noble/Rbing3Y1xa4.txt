@@ -1,0 +1,8 @@
+POI: 			John_Noble 
+Youtube ID: 	Rbing3Y1xa4 
+Video length: 	238.5 sec 
+Set (V): 		dev 
+ 
+John_Noble/Rbing3Y1xa4_0000001 112.8 118.3 
+John_Noble/Rbing3Y1xa4_0000002 121.4 131.2 
+John_Noble/Rbing3Y1xa4_0000003 136.6 147.8 

@@ -1,0 +1,14 @@
+POI: 			David_Giuntoli 
+Youtube ID: 	0dATli9-ofc 
+Video length: 	129.6 sec 
+Set (V): 		dev 
+ 
+David_Giuntoli/0dATli9-ofc_0000001 01.0 13.0 
+David_Giuntoli/0dATli9-ofc_0000002 13.8 19.4 
+David_Giuntoli/0dATli9-ofc_0000003 26.2 33.3 
+David_Giuntoli/0dATli9-ofc_0000004 36.8 41.9 
+David_Giuntoli/0dATli9-ofc_0000005 49.3 54.8 
+David_Giuntoli/0dATli9-ofc_0000006 71.2 86.0 
+David_Giuntoli/0dATli9-ofc_0000007 88.9 94.8 
+David_Giuntoli/0dATli9-ofc_0000008 97.3 101.8 
+David_Giuntoli/0dATli9-ofc_0000009 117.6 126.9 

@@ -1,0 +1,15 @@
+POI: 			Maria_Grazia_Cucinotta 
+Youtube ID: 	0-qLoZq6PZ4 
+Video length: 	283.8 sec 
+Set (V): 		dev 
+ 
+Maria_Grazia_Cucinotta/0-qLoZq6PZ4_0000001 35.4 44.8 
+Maria_Grazia_Cucinotta/0-qLoZq6PZ4_0000002 48.3 52.4 
+Maria_Grazia_Cucinotta/0-qLoZq6PZ4_0000003 53.4 64.4 
+Maria_Grazia_Cucinotta/0-qLoZq6PZ4_0000004 64.7 77.0 
+Maria_Grazia_Cucinotta/0-qLoZq6PZ4_0000005 79.6 87.4 
+Maria_Grazia_Cucinotta/0-qLoZq6PZ4_0000006 97.5 102.4 
+Maria_Grazia_Cucinotta/0-qLoZq6PZ4_0000007 109.8 115.2 
+Maria_Grazia_Cucinotta/0-qLoZq6PZ4_0000008 116.2 123.5 
+Maria_Grazia_Cucinotta/0-qLoZq6PZ4_0000009 132.3 149.4 
+Maria_Grazia_Cucinotta/0-qLoZq6PZ4_0000010 180.6 190.0 

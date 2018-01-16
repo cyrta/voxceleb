@@ -1,0 +1,15 @@
+POI: 			Eric_Dane 
+Youtube ID: 	WxDEVkQKPow 
+Video length: 	816.5 sec 
+Set (V): 		test 
+ 
+Eric_Dane/WxDEVkQKPow_0000001 09.7 14.2 
+Eric_Dane/WxDEVkQKPow_0000002 179.0 183.8 
+Eric_Dane/WxDEVkQKPow_0000003 213.6 219.8 
+Eric_Dane/WxDEVkQKPow_0000004 239.2 243.3 
+Eric_Dane/WxDEVkQKPow_0000005 411.0 415.1 
+Eric_Dane/WxDEVkQKPow_0000006 463.8 469.6 
+Eric_Dane/WxDEVkQKPow_0000007 469.6 476.4 
+Eric_Dane/WxDEVkQKPow_0000008 497.6 504.1 
+Eric_Dane/WxDEVkQKPow_0000009 510.1 515.7 
+Eric_Dane/WxDEVkQKPow_0000010 522.6 526.9 

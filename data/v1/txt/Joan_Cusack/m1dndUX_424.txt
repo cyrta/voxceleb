@@ -1,0 +1,7 @@
+POI: 			Joan_Cusack 
+Youtube ID: 	m1dndUX_424 
+Video length: 	169.9 sec 
+Set (V): 		dev 
+ 
+Joan_Cusack/m1dndUX_424_0000001 76.9 82.0 
+Joan_Cusack/m1dndUX_424_0000002 100.2 108.8 

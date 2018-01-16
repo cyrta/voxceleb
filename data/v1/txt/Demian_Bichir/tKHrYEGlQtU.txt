@@ -1,0 +1,8 @@
+POI: 			Demian_Bichir 
+Youtube ID: 	tKHrYEGlQtU 
+Video length: 	1947.3 sec 
+Set (V): 		dev 
+ 
+Demian_Bichir/tKHrYEGlQtU_0000001 1097.8 1106.8 
+Demian_Bichir/tKHrYEGlQtU_0000002 1127.2 1131.5 
+Demian_Bichir/tKHrYEGlQtU_0000003 1132.3 1136.9 

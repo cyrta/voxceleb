@@ -1,0 +1,9 @@
+POI: 			Jared_Harris 
+Youtube ID: 	4s8o6ogE4xg 
+Video length: 	80.5 sec 
+Set (V): 		dev 
+ 
+Jared_Harris/4s8o6ogE4xg_0000001 22.8 27.8 
+Jared_Harris/4s8o6ogE4xg_0000002 28.5 33.7 
+Jared_Harris/4s8o6ogE4xg_0000003 42.9 48.7 
+Jared_Harris/4s8o6ogE4xg_0000004 59.6 63.6 

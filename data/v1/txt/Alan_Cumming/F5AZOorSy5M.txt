@@ -1,0 +1,13 @@
+POI: 			Alan_Cumming 
+Youtube ID: 	F5AZOorSy5M 
+Video length: 	468.1 sec 
+Set (V): 		dev 
+ 
+Alan_Cumming/F5AZOorSy5M_0000001 156.9 162.8 
+Alan_Cumming/F5AZOorSy5M_0000002 163.0 170.4 
+Alan_Cumming/F5AZOorSy5M_0000003 235.6 244.9 
+Alan_Cumming/F5AZOorSy5M_0000004 247.8 254.2 
+Alan_Cumming/F5AZOorSy5M_0000005 280.9 285.5 
+Alan_Cumming/F5AZOorSy5M_0000006 327.1 340.2 
+Alan_Cumming/F5AZOorSy5M_0000007 382.8 402.5 
+Alan_Cumming/F5AZOorSy5M_0000008 409.3 433.0 

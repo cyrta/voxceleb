@@ -1,0 +1,8 @@
+POI: 			Zoe_Saldana 
+Youtube ID: 	AQiipH_JwdE 
+Video length: 	417.3 sec 
+Set (V): 		dev 
+ 
+Zoe_Saldana/AQiipH_JwdE_0000001 91.7 99.6 
+Zoe_Saldana/AQiipH_JwdE_0000002 252.6 273.0 
+Zoe_Saldana/AQiipH_JwdE_0000003 285.4 292.4 

@@ -1,0 +1,20 @@
+POI: 			Vidya_Balan 
+Youtube ID: 	pTCegdOpF8I 
+Video length: 	782.0 sec 
+Set (V): 		dev 
+ 
+Vidya_Balan/pTCegdOpF8I_0000001 109.8 114.8 
+Vidya_Balan/pTCegdOpF8I_0000002 119.2 123.3 
+Vidya_Balan/pTCegdOpF8I_0000003 167.5 174.1 
+Vidya_Balan/pTCegdOpF8I_0000004 179.6 184.6 
+Vidya_Balan/pTCegdOpF8I_0000005 231.3 235.8 
+Vidya_Balan/pTCegdOpF8I_0000006 290.4 300.9 
+Vidya_Balan/pTCegdOpF8I_0000007 305.2 310.9 
+Vidya_Balan/pTCegdOpF8I_0000008 335.8 340.2 
+Vidya_Balan/pTCegdOpF8I_0000009 357.0 363.7 
+Vidya_Balan/pTCegdOpF8I_0000010 368.4 373.1 
+Vidya_Balan/pTCegdOpF8I_0000011 402.5 407.6 
+Vidya_Balan/pTCegdOpF8I_0000012 440.2 447.6 
+Vidya_Balan/pTCegdOpF8I_0000013 471.1 477.8 
+Vidya_Balan/pTCegdOpF8I_0000014 514.1 520.8 
+Vidya_Balan/pTCegdOpF8I_0000015 658.0 664.6 

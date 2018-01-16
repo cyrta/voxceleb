@@ -1,0 +1,10 @@
+POI: 			Nicola_Peltz 
+Youtube ID: 	iOZMMabK9wE 
+Video length: 	256.8 sec 
+Set (V): 		dev 
+ 
+Nicola_Peltz/iOZMMabK9wE_0000001 30.4 36.2 
+Nicola_Peltz/iOZMMabK9wE_0000002 171.4 176.3 
+Nicola_Peltz/iOZMMabK9wE_0000003 181.3 188.1 
+Nicola_Peltz/iOZMMabK9wE_0000004 188.6 193.2 
+Nicola_Peltz/iOZMMabK9wE_0000005 201.4 206.2 

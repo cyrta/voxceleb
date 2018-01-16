@@ -1,0 +1,12 @@
+POI: 			Nicole_Beharie 
+Youtube ID: 	li4bUQoS2rk 
+Video length: 	195.9 sec 
+Set (V): 		dev 
+ 
+Nicole_Beharie/li4bUQoS2rk_0000001 13.0 22.7 
+Nicole_Beharie/li4bUQoS2rk_0000002 23.7 30.2 
+Nicole_Beharie/li4bUQoS2rk_0000003 45.8 55.0 
+Nicole_Beharie/li4bUQoS2rk_0000004 72.6 80.1 
+Nicole_Beharie/li4bUQoS2rk_0000005 130.0 134.0 
+Nicole_Beharie/li4bUQoS2rk_0000006 142.4 147.2 
+Nicole_Beharie/li4bUQoS2rk_0000007 173.9 178.0 

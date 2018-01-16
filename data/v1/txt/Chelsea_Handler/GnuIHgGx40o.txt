@@ -1,0 +1,10 @@
+POI: 			Chelsea_Handler 
+Youtube ID: 	GnuIHgGx40o 
+Video length: 	303.4 sec 
+Set (V): 		dev 
+ 
+Chelsea_Handler/GnuIHgGx40o_0000001 01.8 10.8 
+Chelsea_Handler/GnuIHgGx40o_0000002 30.3 45.1 
+Chelsea_Handler/GnuIHgGx40o_0000003 91.2 97.8 
+Chelsea_Handler/GnuIHgGx40o_0000004 98.1 117.9 
+Chelsea_Handler/GnuIHgGx40o_0000005 156.2 170.5 

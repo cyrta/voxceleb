@@ -1,0 +1,7 @@
+POI: 			Harry_Treadaway 
+Youtube ID: 	uRc_1ESXKU8 
+Video length: 	103.4 sec 
+Set (V): 		dev 
+ 
+Harry_Treadaway/uRc_1ESXKU8_0000001 65.5 70.3 
+Harry_Treadaway/uRc_1ESXKU8_0000002 75.8 84.3 

@@ -1,0 +1,9 @@
+POI: 			Yeardley_Smith 
+Youtube ID: 	nuri3daBMpU 
+Video length: 	55.4 sec 
+Set (V): 		dev 
+ 
+Yeardley_Smith/nuri3daBMpU_0000001 01.0 11.7 
+Yeardley_Smith/nuri3daBMpU_0000002 18.6 23.5 
+Yeardley_Smith/nuri3daBMpU_0000003 28.1 37.1 
+Yeardley_Smith/nuri3daBMpU_0000004 37.8 45.6 

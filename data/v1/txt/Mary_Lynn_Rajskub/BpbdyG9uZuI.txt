@@ -1,0 +1,9 @@
+POI: 			Mary_Lynn_Rajskub 
+Youtube ID: 	BpbdyG9uZuI 
+Video length: 	474.5 sec 
+Set (V): 		dev 
+ 
+Mary_Lynn_Rajskub/BpbdyG9uZuI_0000001 141.1 145.9 
+Mary_Lynn_Rajskub/BpbdyG9uZuI_0000002 188.0 195.2 
+Mary_Lynn_Rajskub/BpbdyG9uZuI_0000003 281.6 285.6 
+Mary_Lynn_Rajskub/BpbdyG9uZuI_0000004 431.5 435.9 

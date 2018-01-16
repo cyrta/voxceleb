@@ -1,0 +1,18 @@
+POI: 			Sean_Pertwee 
+Youtube ID: 	irBOepxl5hw 
+Video length: 	190.9 sec 
+Set (V): 		dev 
+ 
+Sean_Pertwee/irBOepxl5hw_0000001 10.7 18.2 
+Sean_Pertwee/irBOepxl5hw_0000002 20.7 27.4 
+Sean_Pertwee/irBOepxl5hw_0000003 33.2 37.8 
+Sean_Pertwee/irBOepxl5hw_0000004 42.6 51.2 
+Sean_Pertwee/irBOepxl5hw_0000005 62.4 68.5 
+Sean_Pertwee/irBOepxl5hw_0000006 82.8 87.9 
+Sean_Pertwee/irBOepxl5hw_0000007 90.4 96.1 
+Sean_Pertwee/irBOepxl5hw_0000008 103.4 109.2 
+Sean_Pertwee/irBOepxl5hw_0000009 120.8 130.4 
+Sean_Pertwee/irBOepxl5hw_0000010 151.5 156.6 
+Sean_Pertwee/irBOepxl5hw_0000011 157.4 163.6 
+Sean_Pertwee/irBOepxl5hw_0000012 164.3 169.7 
+Sean_Pertwee/irBOepxl5hw_0000013 170.8 176.0 

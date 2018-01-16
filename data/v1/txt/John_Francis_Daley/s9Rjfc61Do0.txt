@@ -1,0 +1,9 @@
+POI: 			John_Francis_Daley 
+Youtube ID: 	s9Rjfc61Do0 
+Video length: 	236.3 sec 
+Set (V): 		dev 
+ 
+John_Francis_Daley/s9Rjfc61Do0_0000001 27.3 40.4 
+John_Francis_Daley/s9Rjfc61Do0_0000002 97.9 102.9 
+John_Francis_Daley/s9Rjfc61Do0_0000003 134.1 141.9 
+John_Francis_Daley/s9Rjfc61Do0_0000004 157.8 164.1 

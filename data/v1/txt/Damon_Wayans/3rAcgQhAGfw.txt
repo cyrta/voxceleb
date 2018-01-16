@@ -1,0 +1,12 @@
+POI: 			Damon_Wayans 
+Youtube ID: 	3rAcgQhAGfw 
+Video length: 	364.9 sec 
+Set (V): 		dev 
+ 
+Damon_Wayans/3rAcgQhAGfw_0000001 65.0 70.6 
+Damon_Wayans/3rAcgQhAGfw_0000002 83.2 91.0 
+Damon_Wayans/3rAcgQhAGfw_0000003 108.9 115.6 
+Damon_Wayans/3rAcgQhAGfw_0000004 129.6 135.8 
+Damon_Wayans/3rAcgQhAGfw_0000005 144.0 149.0 
+Damon_Wayans/3rAcgQhAGfw_0000006 162.7 172.0 
+Damon_Wayans/3rAcgQhAGfw_0000007 219.8 225.2 

@@ -1,0 +1,28 @@
+POI: 			Ronda_Rousey 
+Youtube ID: 	Db8iGULisYU 
+Video length: 	595.9 sec 
+Set (V): 		dev 
+ 
+Ronda_Rousey/Db8iGULisYU_0000001 16.6 30.5 
+Ronda_Rousey/Db8iGULisYU_0000002 40.2 47.2 
+Ronda_Rousey/Db8iGULisYU_0000003 51.4 56.9 
+Ronda_Rousey/Db8iGULisYU_0000004 66.0 70.3 
+Ronda_Rousey/Db8iGULisYU_0000005 71.0 75.4 
+Ronda_Rousey/Db8iGULisYU_0000006 83.5 88.6 
+Ronda_Rousey/Db8iGULisYU_0000007 104.0 117.5 
+Ronda_Rousey/Db8iGULisYU_0000008 119.1 125.0 
+Ronda_Rousey/Db8iGULisYU_0000009 154.8 160.1 
+Ronda_Rousey/Db8iGULisYU_0000010 179.7 184.7 
+Ronda_Rousey/Db8iGULisYU_0000011 258.2 264.2 
+Ronda_Rousey/Db8iGULisYU_0000012 274.1 286.2 
+Ronda_Rousey/Db8iGULisYU_0000013 289.3 297.0 
+Ronda_Rousey/Db8iGULisYU_0000014 297.6 303.5 
+Ronda_Rousey/Db8iGULisYU_0000015 354.4 358.8 
+Ronda_Rousey/Db8iGULisYU_0000016 380.0 392.6 
+Ronda_Rousey/Db8iGULisYU_0000017 393.0 408.2 
+Ronda_Rousey/Db8iGULisYU_0000018 413.2 419.7 
+Ronda_Rousey/Db8iGULisYU_0000019 453.4 461.6 
+Ronda_Rousey/Db8iGULisYU_0000020 469.2 474.9 
+Ronda_Rousey/Db8iGULisYU_0000021 506.1 510.9 
+Ronda_Rousey/Db8iGULisYU_0000022 521.8 534.2 
+Ronda_Rousey/Db8iGULisYU_0000023 544.9 550.2 

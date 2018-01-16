@@ -1,0 +1,21 @@
+POI: 			Ansel_Elgort 
+Youtube ID: 	EJCAgjbGKJQ 
+Video length: 	430.2 sec 
+Set (V): 		dev 
+ 
+Ansel_Elgort/EJCAgjbGKJQ_0000001 16.1 25.8 
+Ansel_Elgort/EJCAgjbGKJQ_0000002 27.7 36.4 
+Ansel_Elgort/EJCAgjbGKJQ_0000003 62.3 80.5 
+Ansel_Elgort/EJCAgjbGKJQ_0000004 90.1 96.7 
+Ansel_Elgort/EJCAgjbGKJQ_0000005 97.9 104.3 
+Ansel_Elgort/EJCAgjbGKJQ_0000006 119.4 132.9 
+Ansel_Elgort/EJCAgjbGKJQ_0000007 133.7 138.2 
+Ansel_Elgort/EJCAgjbGKJQ_0000008 198.6 215.8 
+Ansel_Elgort/EJCAgjbGKJQ_0000009 219.4 225.3 
+Ansel_Elgort/EJCAgjbGKJQ_0000010 256.0 267.6 
+Ansel_Elgort/EJCAgjbGKJQ_0000011 279.1 298.6 
+Ansel_Elgort/EJCAgjbGKJQ_0000012 304.4 309.0 
+Ansel_Elgort/EJCAgjbGKJQ_0000013 324.2 338.6 
+Ansel_Elgort/EJCAgjbGKJQ_0000014 362.0 375.9 
+Ansel_Elgort/EJCAgjbGKJQ_0000015 381.4 389.9 
+Ansel_Elgort/EJCAgjbGKJQ_0000016 390.4 395.1 

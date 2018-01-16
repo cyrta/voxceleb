@@ -1,0 +1,12 @@
+POI: 			Freida_Pinto 
+Youtube ID: 	K_lzm3-49Ok 
+Video length: 	408.7 sec 
+Set (V): 		dev 
+ 
+Freida_Pinto/K_lzm3-49Ok_0000001 26.7 30.8 
+Freida_Pinto/K_lzm3-49Ok_0000002 31.0 36.0 
+Freida_Pinto/K_lzm3-49Ok_0000003 37.7 42.4 
+Freida_Pinto/K_lzm3-49Ok_0000004 42.4 48.2 
+Freida_Pinto/K_lzm3-49Ok_0000005 80.7 89.8 
+Freida_Pinto/K_lzm3-49Ok_0000006 94.6 105.3 
+Freida_Pinto/K_lzm3-49Ok_0000007 183.5 189.1 

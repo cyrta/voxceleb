@@ -1,0 +1,7 @@
+POI: 			Steve_Carell 
+Youtube ID: 	Zn-cpcJ51bc 
+Video length: 	341.5 sec 
+Set (V): 		dev 
+ 
+Steve_Carell/Zn-cpcJ51bc_0000001 55.0 62.0 
+Steve_Carell/Zn-cpcJ51bc_0000002 190.6 197.0 

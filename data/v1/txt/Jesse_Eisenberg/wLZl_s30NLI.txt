@@ -1,0 +1,13 @@
+POI: 			Jesse_Eisenberg 
+Youtube ID: 	wLZl_s30NLI 
+Video length: 	267.6 sec 
+Set (V): 		dev 
+ 
+Jesse_Eisenberg/wLZl_s30NLI_0000001 73.1 78.2 
+Jesse_Eisenberg/wLZl_s30NLI_0000002 59.0 64.8 
+Jesse_Eisenberg/wLZl_s30NLI_0000003 99.8 111.0 
+Jesse_Eisenberg/wLZl_s30NLI_0000004 136.4 150.2 
+Jesse_Eisenberg/wLZl_s30NLI_0000005 176.4 181.3 
+Jesse_Eisenberg/wLZl_s30NLI_0000006 197.6 204.7 
+Jesse_Eisenberg/wLZl_s30NLI_0000007 233.4 242.6 
+Jesse_Eisenberg/wLZl_s30NLI_0000008 243.1 249.5 

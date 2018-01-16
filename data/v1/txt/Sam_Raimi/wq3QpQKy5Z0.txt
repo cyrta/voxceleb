@@ -1,0 +1,10 @@
+POI: 			Sam_Raimi 
+Youtube ID: 	wq3QpQKy5Z0 
+Video length: 	262.1 sec 
+Set (V): 		dev 
+ 
+Sam_Raimi/wq3QpQKy5Z0_0000001 21.8 27.8 
+Sam_Raimi/wq3QpQKy5Z0_0000002 87.9 92.8 
+Sam_Raimi/wq3QpQKy5Z0_0000003 93.6 99.0 
+Sam_Raimi/wq3QpQKy5Z0_0000004 201.0 205.5 
+Sam_Raimi/wq3QpQKy5Z0_0000005 228.9 236.0 

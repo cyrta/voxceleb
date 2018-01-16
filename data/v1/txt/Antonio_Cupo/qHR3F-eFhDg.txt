@@ -1,0 +1,7 @@
+POI: 			Antonio_Cupo 
+Youtube ID: 	qHR3F-eFhDg 
+Video length: 	175.1 sec 
+Set (V): 		dev 
+ 
+Antonio_Cupo/qHR3F-eFhDg_0000001 123.6 130.8 
+Antonio_Cupo/qHR3F-eFhDg_0000002 134.2 138.6 

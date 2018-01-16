@@ -1,0 +1,8 @@
+POI: 			Cory_Monteith 
+Youtube ID: 	52tNrJCP43E 
+Video length: 	291.6 sec 
+Set (V): 		dev 
+ 
+Cory_Monteith/52tNrJCP43E_0000001 72.7 79.8 
+Cory_Monteith/52tNrJCP43E_0000002 120.8 125.6 
+Cory_Monteith/52tNrJCP43E_0000003 160.0 165.6 

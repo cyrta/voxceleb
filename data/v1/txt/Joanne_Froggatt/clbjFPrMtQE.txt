@@ -1,0 +1,8 @@
+POI: 			Joanne_Froggatt 
+Youtube ID: 	clbjFPrMtQE 
+Video length: 	409.3 sec 
+Set (V): 		dev 
+ 
+Joanne_Froggatt/clbjFPrMtQE_0000001 90.7 94.7 
+Joanne_Froggatt/clbjFPrMtQE_0000002 303.1 307.5 
+Joanne_Froggatt/clbjFPrMtQE_0000003 330.8 335.8 

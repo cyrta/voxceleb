@@ -1,0 +1,9 @@
+POI: 			Katharine_McPhee 
+Youtube ID: 	HpwFhgitUMw 
+Video length: 	264.0 sec 
+Set (V): 		dev 
+ 
+Katharine_McPhee/HpwFhgitUMw_0000001 41.2 45.6 
+Katharine_McPhee/HpwFhgitUMw_0000002 79.9 85.6 
+Katharine_McPhee/HpwFhgitUMw_0000003 109.2 117.6 
+Katharine_McPhee/HpwFhgitUMw_0000004 214.2 242.0 

@@ -1,0 +1,10 @@
+POI: 			Chris_Pine 
+Youtube ID: 	CNA06a6vYUo 
+Video length: 	310.0 sec 
+Set (V): 		dev 
+ 
+Chris_Pine/CNA06a6vYUo_0000001 11.2 23.1 
+Chris_Pine/CNA06a6vYUo_0000002 140.2 145.1 
+Chris_Pine/CNA06a6vYUo_0000003 211.4 219.5 
+Chris_Pine/CNA06a6vYUo_0000004 232.4 238.9 
+Chris_Pine/CNA06a6vYUo_0000005 243.8 251.5 

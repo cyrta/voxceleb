@@ -1,0 +1,8 @@
+POI: 			Mia_Wasikowska 
+Youtube ID: 	S8cQBhvJImA 
+Video length: 	323.3 sec 
+Set (V): 		dev 
+ 
+Mia_Wasikowska/S8cQBhvJImA_0000001 257.9 270.5 
+Mia_Wasikowska/S8cQBhvJImA_0000002 270.8 275.4 
+Mia_Wasikowska/S8cQBhvJImA_0000003 291.0 295.5 

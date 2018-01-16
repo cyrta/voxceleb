@@ -1,0 +1,12 @@
+POI: 			Mark_Sheppard 
+Youtube ID: 	9Cc-K0JVCP8 
+Video length: 	416.6 sec 
+Set (V): 		dev 
+ 
+Mark_Sheppard/9Cc-K0JVCP8_0000001 106.3 113.0 
+Mark_Sheppard/9Cc-K0JVCP8_0000002 117.0 125.6 
+Mark_Sheppard/9Cc-K0JVCP8_0000003 269.7 274.0 
+Mark_Sheppard/9Cc-K0JVCP8_0000004 277.1 283.8 
+Mark_Sheppard/9Cc-K0JVCP8_0000005 334.0 338.7 
+Mark_Sheppard/9Cc-K0JVCP8_0000006 355.4 362.4 
+Mark_Sheppard/9Cc-K0JVCP8_0000007 396.0 400.7 

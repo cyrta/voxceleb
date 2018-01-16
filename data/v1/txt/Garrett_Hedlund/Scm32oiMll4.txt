@@ -1,0 +1,11 @@
+POI: 			Garrett_Hedlund 
+Youtube ID: 	Scm32oiMll4 
+Video length: 	1496.9 sec 
+Set (V): 		dev 
+ 
+Garrett_Hedlund/Scm32oiMll4_0000001 107.4 113.7 
+Garrett_Hedlund/Scm32oiMll4_0000002 438.9 442.9 
+Garrett_Hedlund/Scm32oiMll4_0000003 467.0 473.4 
+Garrett_Hedlund/Scm32oiMll4_0000004 1011.4 1015.7 
+Garrett_Hedlund/Scm32oiMll4_0000005 1120.3 1128.1 
+Garrett_Hedlund/Scm32oiMll4_0000006 1133.2 1137.5 

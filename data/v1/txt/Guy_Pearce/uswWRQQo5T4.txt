@@ -1,0 +1,8 @@
+POI: 			Guy_Pearce 
+Youtube ID: 	uswWRQQo5T4 
+Video length: 	392.9 sec 
+Set (V): 		dev 
+ 
+Guy_Pearce/uswWRQQo5T4_0000001 54.1 67.0 
+Guy_Pearce/uswWRQQo5T4_0000002 67.6 76.3 
+Guy_Pearce/uswWRQQo5T4_0000003 279.9 284.4 

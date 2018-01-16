@@ -1,0 +1,11 @@
+POI: 			America_Ferrera 
+Youtube ID: 	KDvEDmdvGIE 
+Video length: 	326.0 sec 
+Set (V): 		dev 
+ 
+America_Ferrera/KDvEDmdvGIE_0000001 42.8 47.6 
+America_Ferrera/KDvEDmdvGIE_0000002 84.5 89.2 
+America_Ferrera/KDvEDmdvGIE_0000003 107.8 115.6 
+America_Ferrera/KDvEDmdvGIE_0000004 133.0 139.2 
+America_Ferrera/KDvEDmdvGIE_0000005 139.8 147.4 
+America_Ferrera/KDvEDmdvGIE_0000006 148.2 153.9 

@@ -1,0 +1,7 @@
+POI: 			James_Cosmo 
+Youtube ID: 	GfWbHj09qOM 
+Video length: 	904.3 sec 
+Set (V): 		dev 
+ 
+James_Cosmo/GfWbHj09qOM_0000001 129.0 135.6 
+James_Cosmo/GfWbHj09qOM_0000002 849.0 853.1 

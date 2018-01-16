@@ -1,0 +1,13 @@
+POI: 			Sally_Hawkins 
+Youtube ID: 	MSTkjNl-uVo 
+Video length: 	241.1 sec 
+Set (V): 		dev 
+ 
+Sally_Hawkins/MSTkjNl-uVo_0000001 18.7 32.8 
+Sally_Hawkins/MSTkjNl-uVo_0000002 53.2 57.3 
+Sally_Hawkins/MSTkjNl-uVo_0000003 71.4 79.7 
+Sally_Hawkins/MSTkjNl-uVo_0000004 108.1 118.6 
+Sally_Hawkins/MSTkjNl-uVo_0000005 127.3 131.7 
+Sally_Hawkins/MSTkjNl-uVo_0000006 142.2 154.0 
+Sally_Hawkins/MSTkjNl-uVo_0000007 161.3 165.8 
+Sally_Hawkins/MSTkjNl-uVo_0000008 215.2 228.3 

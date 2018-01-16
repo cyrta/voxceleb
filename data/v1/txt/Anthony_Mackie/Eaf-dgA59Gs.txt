@@ -1,0 +1,15 @@
+POI: 			Anthony_Mackie 
+Youtube ID: 	Eaf-dgA59Gs 
+Video length: 	421.9 sec 
+Set (V): 		dev 
+ 
+Anthony_Mackie/Eaf-dgA59Gs_0000001 06.6 15.2 
+Anthony_Mackie/Eaf-dgA59Gs_0000002 83.2 90.7 
+Anthony_Mackie/Eaf-dgA59Gs_0000003 90.9 97.1 
+Anthony_Mackie/Eaf-dgA59Gs_0000004 92.8 99.8 
+Anthony_Mackie/Eaf-dgA59Gs_0000005 276.5 284.5 
+Anthony_Mackie/Eaf-dgA59Gs_0000006 285.2 290.4 
+Anthony_Mackie/Eaf-dgA59Gs_0000007 290.9 295.7 
+Anthony_Mackie/Eaf-dgA59Gs_0000008 298.6 306.4 
+Anthony_Mackie/Eaf-dgA59Gs_0000009 358.4 370.2 
+Anthony_Mackie/Eaf-dgA59Gs_0000010 371.0 381.8 

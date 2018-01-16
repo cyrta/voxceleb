@@ -1,0 +1,11 @@
+POI: 			Joanna_Krupa 
+Youtube ID: 	gT12M2el1Z8 
+Video length: 	506.1 sec 
+Set (V): 		dev 
+ 
+Joanna_Krupa/gT12M2el1Z8_0000001 153.6 160.2 
+Joanna_Krupa/gT12M2el1Z8_0000002 167.1 176.5 
+Joanna_Krupa/gT12M2el1Z8_0000003 177.5 182.2 
+Joanna_Krupa/gT12M2el1Z8_0000004 207.8 216.2 
+Joanna_Krupa/gT12M2el1Z8_0000005 301.4 317.7 
+Joanna_Krupa/gT12M2el1Z8_0000006 370.0 375.1 

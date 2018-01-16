@@ -1,0 +1,13 @@
+POI: 			Sarah_Gadon 
+Youtube ID: 	JuVKoT5KDxg 
+Video length: 	355.3 sec 
+Set (V): 		dev 
+ 
+Sarah_Gadon/JuVKoT5KDxg_0000001 42.2 48.0 
+Sarah_Gadon/JuVKoT5KDxg_0000002 50.0 60.4 
+Sarah_Gadon/JuVKoT5KDxg_0000003 116.6 122.4 
+Sarah_Gadon/JuVKoT5KDxg_0000004 178.8 206.6 
+Sarah_Gadon/JuVKoT5KDxg_0000005 242.1 248.9 
+Sarah_Gadon/JuVKoT5KDxg_0000006 252.6 256.7 
+Sarah_Gadon/JuVKoT5KDxg_0000007 258.9 265.0 
+Sarah_Gadon/JuVKoT5KDxg_0000008 327.9 340.6 

@@ -1,0 +1,13 @@
+POI: 			Louis_C.K. 
+Youtube ID: 	v8FqD7_YACk 
+Video length: 	671.9 sec 
+Set (V): 		dev 
+ 
+Louis_C.K./v8FqD7_YACk_0000001 70.4 77.9 
+Louis_C.K./v8FqD7_YACk_0000002 234.6 239.2 
+Louis_C.K./v8FqD7_YACk_0000003 363.2 369.4 
+Louis_C.K./v8FqD7_YACk_0000004 372.6 377.8 
+Louis_C.K./v8FqD7_YACk_0000005 391.0 396.1 
+Louis_C.K./v8FqD7_YACk_0000006 435.1 440.2 
+Louis_C.K./v8FqD7_YACk_0000007 587.3 593.2 
+Louis_C.K./v8FqD7_YACk_0000008 637.7 642.6 

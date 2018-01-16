@@ -1,0 +1,7 @@
+POI: 			Lea_Michele 
+Youtube ID: 	bszEJKxLtzU 
+Video length: 	144.0 sec 
+Set (V): 		dev 
+ 
+Lea_Michele/bszEJKxLtzU_0000001 44.9 49.4 
+Lea_Michele/bszEJKxLtzU_0000002 128.3 132.5 

@@ -1,0 +1,10 @@
+POI: 			Hector_Elizondo 
+Youtube ID: 	1Iy3gEI2nbM 
+Video length: 	138.6 sec 
+Set (V): 		dev 
+ 
+Hector_Elizondo/1Iy3gEI2nbM_0000001 09.1 19.6 
+Hector_Elizondo/1Iy3gEI2nbM_0000002 20.8 29.8 
+Hector_Elizondo/1Iy3gEI2nbM_0000003 40.5 44.7 
+Hector_Elizondo/1Iy3gEI2nbM_0000004 64.6 73.6 
+Hector_Elizondo/1Iy3gEI2nbM_0000005 110.1 121.9 

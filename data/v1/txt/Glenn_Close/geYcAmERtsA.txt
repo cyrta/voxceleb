@@ -1,0 +1,8 @@
+POI: 			Glenn_Close 
+Youtube ID: 	geYcAmERtsA 
+Video length: 	895.9 sec 
+Set (V): 		dev 
+ 
+Glenn_Close/geYcAmERtsA_0000001 274.8 279.8 
+Glenn_Close/geYcAmERtsA_0000002 578.1 582.2 
+Glenn_Close/geYcAmERtsA_0000003 875.5 880.2 

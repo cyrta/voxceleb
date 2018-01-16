@@ -1,0 +1,14 @@
+POI: 			Nelly_Furtado 
+Youtube ID: 	3yLlyeRj6k4 
+Video length: 	328.2 sec 
+Set (V): 		dev 
+ 
+Nelly_Furtado/3yLlyeRj6k4_0000001 98.4 114.6 
+Nelly_Furtado/3yLlyeRj6k4_0000002 128.6 134.8 
+Nelly_Furtado/3yLlyeRj6k4_0000003 137.5 153.0 
+Nelly_Furtado/3yLlyeRj6k4_0000004 153.8 162.0 
+Nelly_Furtado/3yLlyeRj6k4_0000005 172.8 179.5 
+Nelly_Furtado/3yLlyeRj6k4_0000006 252.9 260.4 
+Nelly_Furtado/3yLlyeRj6k4_0000007 264.2 268.3 
+Nelly_Furtado/3yLlyeRj6k4_0000008 293.8 302.9 
+Nelly_Furtado/3yLlyeRj6k4_0000009 305.3 309.9 

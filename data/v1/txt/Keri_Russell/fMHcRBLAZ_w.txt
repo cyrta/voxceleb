@@ -1,0 +1,8 @@
+POI: 			Keri_Russell 
+Youtube ID: 	fMHcRBLAZ_w 
+Video length: 	259.7 sec 
+Set (V): 		dev 
+ 
+Keri_Russell/fMHcRBLAZ_w_0000001 51.0 59.0 
+Keri_Russell/fMHcRBLAZ_w_0000002 195.2 199.2 
+Keri_Russell/fMHcRBLAZ_w_0000003 222.8 228.6 

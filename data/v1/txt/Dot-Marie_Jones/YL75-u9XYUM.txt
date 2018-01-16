@@ -1,0 +1,8 @@
+POI: 			Dot-Marie_Jones 
+Youtube ID: 	YL75-u9XYUM 
+Video length: 	145.3 sec 
+Set (V): 		dev 
+ 
+Dot-Marie_Jones/YL75-u9XYUM_0000001 16.2 21.5 
+Dot-Marie_Jones/YL75-u9XYUM_0000002 41.7 46.0 
+Dot-Marie_Jones/YL75-u9XYUM_0000003 75.0 78.9 

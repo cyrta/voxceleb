@@ -1,0 +1,22 @@
+POI: 			Arden_Cho 
+Youtube ID: 	8CJKjlhUbQk 
+Video length: 	290.4 sec 
+Set (V): 		dev 
+ 
+Arden_Cho/8CJKjlhUbQk_0000001 16.1 20.2 
+Arden_Cho/8CJKjlhUbQk_0000002 21.2 27.7 
+Arden_Cho/8CJKjlhUbQk_0000003 35.6 47.3 
+Arden_Cho/8CJKjlhUbQk_0000004 57.8 67.2 
+Arden_Cho/8CJKjlhUbQk_0000005 75.1 80.6 
+Arden_Cho/8CJKjlhUbQk_0000006 85.3 90.1 
+Arden_Cho/8CJKjlhUbQk_0000007 90.5 94.5 
+Arden_Cho/8CJKjlhUbQk_0000008 106.3 112.0 
+Arden_Cho/8CJKjlhUbQk_0000009 140.0 145.5 
+Arden_Cho/8CJKjlhUbQk_0000010 146.2 150.7 
+Arden_Cho/8CJKjlhUbQk_0000011 152.7 161.5 
+Arden_Cho/8CJKjlhUbQk_0000012 163.9 168.8 
+Arden_Cho/8CJKjlhUbQk_0000013 177.4 183.5 
+Arden_Cho/8CJKjlhUbQk_0000014 193.5 198.1 
+Arden_Cho/8CJKjlhUbQk_0000015 199.5 205.2 
+Arden_Cho/8CJKjlhUbQk_0000016 235.0 240.6 
+Arden_Cho/8CJKjlhUbQk_0000017 267.0 278.2 

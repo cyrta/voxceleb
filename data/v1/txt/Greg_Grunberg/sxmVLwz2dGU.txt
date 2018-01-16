@@ -1,0 +1,12 @@
+POI: 			Greg_Grunberg 
+Youtube ID: 	sxmVLwz2dGU 
+Video length: 	166.0 sec 
+Set (V): 		dev 
+ 
+Greg_Grunberg/sxmVLwz2dGU_0000001 18.8 33.0 
+Greg_Grunberg/sxmVLwz2dGU_0000002 33.9 65.4 
+Greg_Grunberg/sxmVLwz2dGU_0000003 68.6 76.0 
+Greg_Grunberg/sxmVLwz2dGU_0000004 80.4 104.8 
+Greg_Grunberg/sxmVLwz2dGU_0000005 108.0 117.0 
+Greg_Grunberg/sxmVLwz2dGU_0000006 136.6 156.0 
+Greg_Grunberg/sxmVLwz2dGU_0000007 158.1 163.0 

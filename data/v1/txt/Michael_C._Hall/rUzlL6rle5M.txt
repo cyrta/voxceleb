@@ -1,0 +1,8 @@
+POI: 			Michael_C._Hall 
+Youtube ID: 	rUzlL6rle5M 
+Video length: 	296.1 sec 
+Set (V): 		dev 
+ 
+Michael_C._Hall/rUzlL6rle5M_0000001 44.3 51.6 
+Michael_C._Hall/rUzlL6rle5M_0000002 52.4 57.1 
+Michael_C._Hall/rUzlL6rle5M_0000003 86.6 92.6 

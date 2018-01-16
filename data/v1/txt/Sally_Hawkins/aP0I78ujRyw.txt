@@ -1,0 +1,9 @@
+POI: 			Sally_Hawkins 
+Youtube ID: 	aP0I78ujRyw 
+Video length: 	134.7 sec 
+Set (V): 		dev 
+ 
+Sally_Hawkins/aP0I78ujRyw_0000001 26.0 40.2 
+Sally_Hawkins/aP0I78ujRyw_0000002 77.1 83.8 
+Sally_Hawkins/aP0I78ujRyw_0000003 79.7 84.4 
+Sally_Hawkins/aP0I78ujRyw_0000004 121.2 125.7 

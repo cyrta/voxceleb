@@ -1,0 +1,7 @@
+POI: 			David_Schwimmer 
+Youtube ID: 	X33K8VVfD6g 
+Video length: 	243.5 sec 
+Set (V): 		dev 
+ 
+David_Schwimmer/X33K8VVfD6g_0000001 34.6 44.0 
+David_Schwimmer/X33K8VVfD6g_0000002 78.6 84.3 

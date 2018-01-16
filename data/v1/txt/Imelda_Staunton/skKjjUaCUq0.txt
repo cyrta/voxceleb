@@ -1,0 +1,11 @@
+POI: 			Imelda_Staunton 
+Youtube ID: 	skKjjUaCUq0 
+Video length: 	87.1 sec 
+Set (V): 		dev 
+ 
+Imelda_Staunton/skKjjUaCUq0_0000001 07.0 16.0 
+Imelda_Staunton/skKjjUaCUq0_0000002 21.5 29.6 
+Imelda_Staunton/skKjjUaCUq0_0000003 35.1 45.2 
+Imelda_Staunton/skKjjUaCUq0_0000004 48.3 61.0 
+Imelda_Staunton/skKjjUaCUq0_0000005 30.9 45.2 
+Imelda_Staunton/skKjjUaCUq0_0000006 70.5 83.1 

@@ -1,0 +1,15 @@
+POI: 			Martine_McCutcheon 
+Youtube ID: 	4JuWLu3YMAg 
+Video length: 	408.5 sec 
+Set (V): 		dev 
+ 
+Martine_McCutcheon/4JuWLu3YMAg_0000001 73.4 80.4 
+Martine_McCutcheon/4JuWLu3YMAg_0000002 105.9 116.5 
+Martine_McCutcheon/4JuWLu3YMAg_0000003 116.6 122.0 
+Martine_McCutcheon/4JuWLu3YMAg_0000004 128.6 142.5 
+Martine_McCutcheon/4JuWLu3YMAg_0000005 198.7 211.1 
+Martine_McCutcheon/4JuWLu3YMAg_0000006 267.4 271.8 
+Martine_McCutcheon/4JuWLu3YMAg_0000007 272.4 281.6 
+Martine_McCutcheon/4JuWLu3YMAg_0000008 290.3 299.2 
+Martine_McCutcheon/4JuWLu3YMAg_0000009 308.4 315.5 
+Martine_McCutcheon/4JuWLu3YMAg_0000010 338.2 348.3 

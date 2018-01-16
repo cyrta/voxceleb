@@ -1,0 +1,16 @@
+POI: 			Jacob_Latimore 
+Youtube ID: 	zU6dAdo_SCs 
+Video length: 	435.9 sec 
+Set (V): 		dev 
+ 
+Jacob_Latimore/zU6dAdo_SCs_0000001 29.7 36.3 
+Jacob_Latimore/zU6dAdo_SCs_0000002 37.0 43.7 
+Jacob_Latimore/zU6dAdo_SCs_0000003 60.1 76.8 
+Jacob_Latimore/zU6dAdo_SCs_0000004 77.4 96.3 
+Jacob_Latimore/zU6dAdo_SCs_0000005 104.8 114.4 
+Jacob_Latimore/zU6dAdo_SCs_0000006 284.3 302.2 
+Jacob_Latimore/zU6dAdo_SCs_0000007 302.6 308.1 
+Jacob_Latimore/zU6dAdo_SCs_0000008 380.8 404.5 
+Jacob_Latimore/zU6dAdo_SCs_0000009 404.7 413.1 
+Jacob_Latimore/zU6dAdo_SCs_0000010 418.1 423.5 
+Jacob_Latimore/zU6dAdo_SCs_0000011 425.8 429.9 

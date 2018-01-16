@@ -1,0 +1,9 @@
+POI: 			Roshon_Fegan 
+Youtube ID: 	vSA8CKjsp6A 
+Video length: 	316.5 sec 
+Set (V): 		dev 
+ 
+Roshon_Fegan/vSA8CKjsp6A_0000001 48.2 53.4 
+Roshon_Fegan/vSA8CKjsp6A_0000002 87.3 93.2 
+Roshon_Fegan/vSA8CKjsp6A_0000003 159.8 164.3 
+Roshon_Fegan/vSA8CKjsp6A_0000004 245.2 249.2 

@@ -1,0 +1,11 @@
+POI: 			Shailene_Woodley 
+Youtube ID: 	UgyrOMjUQVU 
+Video length: 	117.0 sec 
+Set (V): 		dev 
+ 
+Shailene_Woodley/UgyrOMjUQVU_0000001 01.8 11.1 
+Shailene_Woodley/UgyrOMjUQVU_0000002 61.8 71.0 
+Shailene_Woodley/UgyrOMjUQVU_0000003 75.6 80.4 
+Shailene_Woodley/UgyrOMjUQVU_0000004 82.5 98.0 
+Shailene_Woodley/UgyrOMjUQVU_0000005 99.6 104.3 
+Shailene_Woodley/UgyrOMjUQVU_0000006 106.7 114.8 

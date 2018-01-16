@@ -1,0 +1,12 @@
+POI: 			Martin_Clunes 
+Youtube ID: 	sKcwz1iDpDU 
+Video length: 	308.3 sec 
+Set (V): 		dev 
+ 
+Martin_Clunes/sKcwz1iDpDU_0000001 85.0 105.8 
+Martin_Clunes/sKcwz1iDpDU_0000002 107.7 116.7 
+Martin_Clunes/sKcwz1iDpDU_0000003 127.0 135.9 
+Martin_Clunes/sKcwz1iDpDU_0000004 146.2 155.6 
+Martin_Clunes/sKcwz1iDpDU_0000005 239.8 245.8 
+Martin_Clunes/sKcwz1iDpDU_0000006 260.4 269.6 
+Martin_Clunes/sKcwz1iDpDU_0000007 282.8 294.2 

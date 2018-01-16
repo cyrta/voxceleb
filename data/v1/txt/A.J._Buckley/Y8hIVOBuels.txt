@@ -1,0 +1,15 @@
+POI: 			A.J._Buckley 
+Youtube ID: 	Y8hIVOBuels 
+Video length: 	360.4 sec 
+Set (V): 		dev 
+ 
+A.J._Buckley/Y8hIVOBuels_0000001 88.0 92.6 
+A.J._Buckley/Y8hIVOBuels_0000002 93.4 104.5 
+A.J._Buckley/Y8hIVOBuels_0000003 106.6 111.4 
+A.J._Buckley/Y8hIVOBuels_0000004 114.9 119.6 
+A.J._Buckley/Y8hIVOBuels_0000005 191.6 202.2 
+A.J._Buckley/Y8hIVOBuels_0000006 203.0 207.5 
+A.J._Buckley/Y8hIVOBuels_0000007 208.2 213.4 
+A.J._Buckley/Y8hIVOBuels_0000008 213.6 218.6 
+A.J._Buckley/Y8hIVOBuels_0000009 218.8 231.2 
+A.J._Buckley/Y8hIVOBuels_0000010 237.4 241.7 

@@ -1,0 +1,7 @@
+POI: 			Sarah_Wayne_Callies 
+Youtube ID: 	MexIzSmm83E 
+Video length: 	121.5 sec 
+Set (V): 		dev 
+ 
+Sarah_Wayne_Callies/MexIzSmm83E_0000001 43.2 52.6 
+Sarah_Wayne_Callies/MexIzSmm83E_0000002 90.5 98.6 

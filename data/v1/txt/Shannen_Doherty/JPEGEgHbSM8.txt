@@ -1,0 +1,9 @@
+POI: 			Shannen_Doherty 
+Youtube ID: 	JPEGEgHbSM8 
+Video length: 	227.8 sec 
+Set (V): 		dev 
+ 
+Shannen_Doherty/JPEGEgHbSM8_0000001 59.2 65.2 
+Shannen_Doherty/JPEGEgHbSM8_0000002 123.6 128.7 
+Shannen_Doherty/JPEGEgHbSM8_0000003 181.1 186.4 
+Shannen_Doherty/JPEGEgHbSM8_0000004 203.4 208.0 

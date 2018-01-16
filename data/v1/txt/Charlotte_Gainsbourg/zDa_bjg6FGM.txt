@@ -1,0 +1,7 @@
+POI: 			Charlotte_Gainsbourg 
+Youtube ID: 	zDa_bjg6FGM 
+Video length: 	288.3 sec 
+Set (V): 		dev 
+ 
+Charlotte_Gainsbourg/zDa_bjg6FGM_0000001 29.5 34.1 
+Charlotte_Gainsbourg/zDa_bjg6FGM_0000002 232.4 238.0 

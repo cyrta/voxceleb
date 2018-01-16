@@ -1,0 +1,9 @@
+POI: 			Nelly_Furtado 
+Youtube ID: 	hWyhfRCbnAY 
+Video length: 	265.6 sec 
+Set (V): 		dev 
+ 
+Nelly_Furtado/hWyhfRCbnAY_0000001 86.6 91.6 
+Nelly_Furtado/hWyhfRCbnAY_0000002 118.4 126.0 
+Nelly_Furtado/hWyhfRCbnAY_0000003 220.2 225.2 
+Nelly_Furtado/hWyhfRCbnAY_0000004 243.1 248.6 

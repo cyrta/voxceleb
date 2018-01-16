@@ -1,0 +1,17 @@
+POI: 			Bruce_Boxleitner 
+Youtube ID: 	0wruSQX5Eac 
+Video length: 	227.5 sec 
+Set (V): 		dev 
+ 
+Bruce_Boxleitner/0wruSQX5Eac_0000001 28.9 33.4 
+Bruce_Boxleitner/0wruSQX5Eac_0000002 36.3 42.6 
+Bruce_Boxleitner/0wruSQX5Eac_0000003 57.9 62.0 
+Bruce_Boxleitner/0wruSQX5Eac_0000004 62.3 67.4 
+Bruce_Boxleitner/0wruSQX5Eac_0000005 84.5 95.0 
+Bruce_Boxleitner/0wruSQX5Eac_0000006 108.2 112.7 
+Bruce_Boxleitner/0wruSQX5Eac_0000007 123.4 128.5 
+Bruce_Boxleitner/0wruSQX5Eac_0000008 129.1 141.8 
+Bruce_Boxleitner/0wruSQX5Eac_0000009 162.2 167.0 
+Bruce_Boxleitner/0wruSQX5Eac_0000010 169.2 177.8 
+Bruce_Boxleitner/0wruSQX5Eac_0000011 184.0 189.0 
+Bruce_Boxleitner/0wruSQX5Eac_0000012 199.4 205.0 

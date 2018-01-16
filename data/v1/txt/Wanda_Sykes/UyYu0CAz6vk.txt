@@ -1,0 +1,7 @@
+POI: 			Wanda_Sykes 
+Youtube ID: 	UyYu0CAz6vk 
+Video length: 	169.9 sec 
+Set (V): 		dev 
+ 
+Wanda_Sykes/UyYu0CAz6vk_0000001 92.8 98.5 
+Wanda_Sykes/UyYu0CAz6vk_0000002 108.8 115.7 

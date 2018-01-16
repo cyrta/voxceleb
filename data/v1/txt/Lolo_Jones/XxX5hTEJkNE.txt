@@ -1,0 +1,15 @@
+POI: 			Lolo_Jones 
+Youtube ID: 	XxX5hTEJkNE 
+Video length: 	351.7 sec 
+Set (V): 		dev 
+ 
+Lolo_Jones/XxX5hTEJkNE_0000001 12.1 23.9 
+Lolo_Jones/XxX5hTEJkNE_0000002 28.4 44.3 
+Lolo_Jones/XxX5hTEJkNE_0000003 90.7 102.3 
+Lolo_Jones/XxX5hTEJkNE_0000004 139.6 150.9 
+Lolo_Jones/XxX5hTEJkNE_0000005 161.2 165.7 
+Lolo_Jones/XxX5hTEJkNE_0000006 199.7 205.2 
+Lolo_Jones/XxX5hTEJkNE_0000007 221.1 229.0 
+Lolo_Jones/XxX5hTEJkNE_0000008 236.0 246.2 
+Lolo_Jones/XxX5hTEJkNE_0000009 273.7 286.2 
+Lolo_Jones/XxX5hTEJkNE_0000010 286.5 290.5 

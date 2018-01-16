@@ -1,0 +1,19 @@
+POI: 			Tilda_Swinton 
+Youtube ID: 	XOkXu3nbiFc 
+Video length: 	310.6 sec 
+Set (V): 		dev 
+ 
+Tilda_Swinton/XOkXu3nbiFc_0000001 24.8 33.6 
+Tilda_Swinton/XOkXu3nbiFc_0000002 34.0 40.8 
+Tilda_Swinton/XOkXu3nbiFc_0000003 41.2 58.1 
+Tilda_Swinton/XOkXu3nbiFc_0000004 80.5 86.6 
+Tilda_Swinton/XOkXu3nbiFc_0000005 92.0 97.9 
+Tilda_Swinton/XOkXu3nbiFc_0000006 98.1 105.4 
+Tilda_Swinton/XOkXu3nbiFc_0000007 105.5 115.6 
+Tilda_Swinton/XOkXu3nbiFc_0000008 116.7 121.7 
+Tilda_Swinton/XOkXu3nbiFc_0000009 122.4 131.6 
+Tilda_Swinton/XOkXu3nbiFc_0000010 153.7 167.7 
+Tilda_Swinton/XOkXu3nbiFc_0000011 173.9 184.6 
+Tilda_Swinton/XOkXu3nbiFc_0000012 247.4 260.8 
+Tilda_Swinton/XOkXu3nbiFc_0000013 261.1 267.9 
+Tilda_Swinton/XOkXu3nbiFc_0000014 269.4 273.9 

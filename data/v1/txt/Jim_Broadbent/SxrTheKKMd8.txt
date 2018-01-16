@@ -1,0 +1,12 @@
+POI: 			Jim_Broadbent 
+Youtube ID: 	SxrTheKKMd8 
+Video length: 	595.1 sec 
+Set (V): 		dev 
+ 
+Jim_Broadbent/SxrTheKKMd8_0000001 34.2 38.1 
+Jim_Broadbent/SxrTheKKMd8_0000002 188.6 192.9 
+Jim_Broadbent/SxrTheKKMd8_0000003 257.8 263.0 
+Jim_Broadbent/SxrTheKKMd8_0000004 321.2 325.9 
+Jim_Broadbent/SxrTheKKMd8_0000005 371.3 375.4 
+Jim_Broadbent/SxrTheKKMd8_0000006 475.6 480.5 
+Jim_Broadbent/SxrTheKKMd8_0000007 531.5 539.6 

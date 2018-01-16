@@ -1,0 +1,12 @@
+POI: 			Neve_Campbell 
+Youtube ID: 	P0RFZD-WtNo 
+Video length: 	1407.3 sec 
+Set (V): 		dev 
+ 
+Neve_Campbell/P0RFZD-WtNo_0000001 110.0 117.6 
+Neve_Campbell/P0RFZD-WtNo_0000002 172.2 176.3 
+Neve_Campbell/P0RFZD-WtNo_0000003 195.6 200.2 
+Neve_Campbell/P0RFZD-WtNo_0000004 275.4 280.4 
+Neve_Campbell/P0RFZD-WtNo_0000005 686.1 691.6 
+Neve_Campbell/P0RFZD-WtNo_0000006 1213.3 1222.8 
+Neve_Campbell/P0RFZD-WtNo_0000007 1314.6 1324.7 

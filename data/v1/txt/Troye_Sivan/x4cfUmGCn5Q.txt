@@ -1,0 +1,7 @@
+POI: 			Troye_Sivan 
+Youtube ID: 	x4cfUmGCn5Q 
+Video length: 	398.1 sec 
+Set (V): 		dev 
+ 
+Troye_Sivan/x4cfUmGCn5Q_0000001 61.9 67.0 
+Troye_Sivan/x4cfUmGCn5Q_0000002 307.8 312.6 

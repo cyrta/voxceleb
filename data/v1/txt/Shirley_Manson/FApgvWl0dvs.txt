@@ -1,0 +1,12 @@
+POI: 			Shirley_Manson 
+Youtube ID: 	FApgvWl0dvs 
+Video length: 	268.4 sec 
+Set (V): 		dev 
+ 
+Shirley_Manson/FApgvWl0dvs_0000001 75.1 79.4 
+Shirley_Manson/FApgvWl0dvs_0000002 83.5 97.0 
+Shirley_Manson/FApgvWl0dvs_0000003 99.1 106.2 
+Shirley_Manson/FApgvWl0dvs_0000004 107.6 114.5 
+Shirley_Manson/FApgvWl0dvs_0000005 118.9 136.0 
+Shirley_Manson/FApgvWl0dvs_0000006 182.5 195.8 
+Shirley_Manson/FApgvWl0dvs_0000007 196.4 201.9 

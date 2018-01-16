@@ -1,0 +1,10 @@
+POI: 			Tim_Burton 
+Youtube ID: 	MttkU1NuJ00 
+Video length: 	200.5 sec 
+Set (V): 		dev 
+ 
+Tim_Burton/MttkU1NuJ00_0000001 80.6 87.2 
+Tim_Burton/MttkU1NuJ00_0000002 137.5 148.4 
+Tim_Burton/MttkU1NuJ00_0000003 151.0 157.4 
+Tim_Burton/MttkU1NuJ00_0000004 161.1 169.2 
+Tim_Burton/MttkU1NuJ00_0000005 191.0 196.3 

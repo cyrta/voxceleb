@@ -1,0 +1,13 @@
+POI: 			Chiwetel_Ejiofor 
+Youtube ID: 	RYWcWSRnh2A 
+Video length: 	224.7 sec 
+Set (V): 		dev 
+ 
+Chiwetel_Ejiofor/RYWcWSRnh2A_0000001 60.9 65.6 
+Chiwetel_Ejiofor/RYWcWSRnh2A_0000002 74.9 83.8 
+Chiwetel_Ejiofor/RYWcWSRnh2A_0000003 84.0 91.8 
+Chiwetel_Ejiofor/RYWcWSRnh2A_0000004 100.7 106.5 
+Chiwetel_Ejiofor/RYWcWSRnh2A_0000005 107.2 118.6 
+Chiwetel_Ejiofor/RYWcWSRnh2A_0000006 189.5 201.6 
+Chiwetel_Ejiofor/RYWcWSRnh2A_0000007 202.1 209.4 
+Chiwetel_Ejiofor/RYWcWSRnh2A_0000008 209.8 214.1 

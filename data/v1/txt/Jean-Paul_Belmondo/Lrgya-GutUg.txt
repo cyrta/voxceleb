@@ -1,0 +1,14 @@
+POI: 			Jean-Paul_Belmondo 
+Youtube ID: 	Lrgya-GutUg 
+Video length: 	338.2 sec 
+Set (V): 		dev 
+ 
+Jean-Paul_Belmondo/Lrgya-GutUg_0000001 147.3 153.4 
+Jean-Paul_Belmondo/Lrgya-GutUg_0000002 155.4 165.6 
+Jean-Paul_Belmondo/Lrgya-GutUg_0000003 198.5 205.2 
+Jean-Paul_Belmondo/Lrgya-GutUg_0000004 212.3 222.1 
+Jean-Paul_Belmondo/Lrgya-GutUg_0000005 228.8 236.4 
+Jean-Paul_Belmondo/Lrgya-GutUg_0000006 242.6 247.0 
+Jean-Paul_Belmondo/Lrgya-GutUg_0000007 257.6 271.1 
+Jean-Paul_Belmondo/Lrgya-GutUg_0000008 283.2 293.4 
+Jean-Paul_Belmondo/Lrgya-GutUg_0000009 284.3 288.5 

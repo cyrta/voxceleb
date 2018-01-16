@@ -1,0 +1,15 @@
+POI: 			Willem_Dafoe 
+Youtube ID: 	_GjM7s957RU 
+Video length: 	174.0 sec 
+Set (V): 		dev 
+ 
+Willem_Dafoe/_GjM7s957RU_0000001 34.1 39.5 
+Willem_Dafoe/_GjM7s957RU_0000002 56.6 67.1 
+Willem_Dafoe/_GjM7s957RU_0000003 67.2 73.7 
+Willem_Dafoe/_GjM7s957RU_0000004 98.5 102.7 
+Willem_Dafoe/_GjM7s957RU_0000005 103.7 111.1 
+Willem_Dafoe/_GjM7s957RU_0000006 112.5 118.0 
+Willem_Dafoe/_GjM7s957RU_0000007 122.3 126.3 
+Willem_Dafoe/_GjM7s957RU_0000008 127.2 132.8 
+Willem_Dafoe/_GjM7s957RU_0000009 142.8 152.4 
+Willem_Dafoe/_GjM7s957RU_0000010 154.0 162.5 

@@ -1,0 +1,12 @@
+POI: 			Steven_Yeun 
+Youtube ID: 	Sj_CwChmGQ8 
+Video length: 	372.6 sec 
+Set (V): 		dev 
+ 
+Steven_Yeun/Sj_CwChmGQ8_0000001 168.9 173.6 
+Steven_Yeun/Sj_CwChmGQ8_0000002 257.4 264.1 
+Steven_Yeun/Sj_CwChmGQ8_0000003 268.0 278.9 
+Steven_Yeun/Sj_CwChmGQ8_0000004 287.1 294.4 
+Steven_Yeun/Sj_CwChmGQ8_0000005 300.6 308.2 
+Steven_Yeun/Sj_CwChmGQ8_0000006 308.4 315.0 
+Steven_Yeun/Sj_CwChmGQ8_0000007 339.4 349.9 

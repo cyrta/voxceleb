@@ -1,0 +1,11 @@
+POI: 			Molly_Ringwald 
+Youtube ID: 	0ARiam6axnM 
+Video length: 	446.6 sec 
+Set (V): 		dev 
+ 
+Molly_Ringwald/0ARiam6axnM_0000001 34.4 51.3 
+Molly_Ringwald/0ARiam6axnM_0000002 105.6 116.1 
+Molly_Ringwald/0ARiam6axnM_0000003 177.7 218.2 
+Molly_Ringwald/0ARiam6axnM_0000004 247.8 266.9 
+Molly_Ringwald/0ARiam6axnM_0000005 267.5 275.9 
+Molly_Ringwald/0ARiam6axnM_0000006 277.0 285.2 

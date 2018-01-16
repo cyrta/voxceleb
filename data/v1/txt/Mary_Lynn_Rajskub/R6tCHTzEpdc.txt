@@ -1,0 +1,9 @@
+POI: 			Mary_Lynn_Rajskub 
+Youtube ID: 	R6tCHTzEpdc 
+Video length: 	243.5 sec 
+Set (V): 		dev 
+ 
+Mary_Lynn_Rajskub/R6tCHTzEpdc_0000001 13.6 21.2 
+Mary_Lynn_Rajskub/R6tCHTzEpdc_0000002 60.0 67.2 
+Mary_Lynn_Rajskub/R6tCHTzEpdc_0000003 131.6 137.2 
+Mary_Lynn_Rajskub/R6tCHTzEpdc_0000004 163.7 168.4 

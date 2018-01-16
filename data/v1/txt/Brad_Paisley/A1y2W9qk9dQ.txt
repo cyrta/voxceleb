@@ -1,0 +1,7 @@
+POI: 			Brad_Paisley 
+Youtube ID: 	A1y2W9qk9dQ 
+Video length: 	100.1 sec 
+Set (V): 		dev 
+ 
+Brad_Paisley/A1y2W9qk9dQ_0000001 29.7 38.6 
+Brad_Paisley/A1y2W9qk9dQ_0000002 44.8 50.0 

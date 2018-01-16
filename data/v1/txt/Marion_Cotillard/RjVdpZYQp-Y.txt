@@ -1,0 +1,10 @@
+POI: 			Marion_Cotillard 
+Youtube ID: 	RjVdpZYQp-Y 
+Video length: 	481.6 sec 
+Set (V): 		dev 
+ 
+Marion_Cotillard/RjVdpZYQp-Y_0000001 109.0 114.2 
+Marion_Cotillard/RjVdpZYQp-Y_0000002 132.5 140.6 
+Marion_Cotillard/RjVdpZYQp-Y_0000003 171.0 176.1 
+Marion_Cotillard/RjVdpZYQp-Y_0000004 263.9 272.5 
+Marion_Cotillard/RjVdpZYQp-Y_0000005 283.5 295.8 

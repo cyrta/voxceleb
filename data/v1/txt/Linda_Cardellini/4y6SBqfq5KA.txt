@@ -1,0 +1,11 @@
+POI: 			Linda_Cardellini 
+Youtube ID: 	4y6SBqfq5KA 
+Video length: 	429.3 sec 
+Set (V): 		dev 
+ 
+Linda_Cardellini/4y6SBqfq5KA_0000001 67.1 71.5 
+Linda_Cardellini/4y6SBqfq5KA_0000002 78.8 92.6 
+Linda_Cardellini/4y6SBqfq5KA_0000003 111.3 118.1 
+Linda_Cardellini/4y6SBqfq5KA_0000004 130.7 138.7 
+Linda_Cardellini/4y6SBqfq5KA_0000005 258.2 269.5 
+Linda_Cardellini/4y6SBqfq5KA_0000006 274.8 280.4 

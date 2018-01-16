@@ -1,0 +1,10 @@
+POI: 			Roma_Downey 
+Youtube ID: 	6FxcoWmcGzg 
+Video length: 	297.6 sec 
+Set (V): 		dev 
+ 
+Roma_Downey/6FxcoWmcGzg_0000001 193.9 201.4 
+Roma_Downey/6FxcoWmcGzg_0000002 205.7 214.6 
+Roma_Downey/6FxcoWmcGzg_0000003 225.3 237.8 
+Roma_Downey/6FxcoWmcGzg_0000004 237.8 250.6 
+Roma_Downey/6FxcoWmcGzg_0000005 258.3 283.2 

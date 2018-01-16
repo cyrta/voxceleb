@@ -1,0 +1,12 @@
+POI: 			Yeardley_Smith 
+Youtube ID: 	PCxkmogzCBk 
+Video length: 	207.2 sec 
+Set (V): 		dev 
+ 
+Yeardley_Smith/PCxkmogzCBk_0000001 05.2 10.5 
+Yeardley_Smith/PCxkmogzCBk_0000002 13.8 20.4 
+Yeardley_Smith/PCxkmogzCBk_0000003 30.4 34.4 
+Yeardley_Smith/PCxkmogzCBk_0000004 64.7 80.6 
+Yeardley_Smith/PCxkmogzCBk_0000005 86.8 92.6 
+Yeardley_Smith/PCxkmogzCBk_0000006 132.7 139.2 
+Yeardley_Smith/PCxkmogzCBk_0000007 145.4 152.1 

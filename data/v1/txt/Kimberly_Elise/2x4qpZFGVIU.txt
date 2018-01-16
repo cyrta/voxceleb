@@ -1,0 +1,9 @@
+POI: 			Kimberly_Elise 
+Youtube ID: 	2x4qpZFGVIU 
+Video length: 	238.1 sec 
+Set (V): 		dev 
+ 
+Kimberly_Elise/2x4qpZFGVIU_0000001 25.6 36.6 
+Kimberly_Elise/2x4qpZFGVIU_0000002 56.3 60.4 
+Kimberly_Elise/2x4qpZFGVIU_0000003 112.6 117.0 
+Kimberly_Elise/2x4qpZFGVIU_0000004 148.9 160.0 

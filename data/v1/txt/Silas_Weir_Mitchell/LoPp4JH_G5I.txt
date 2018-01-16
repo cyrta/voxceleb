@@ -1,0 +1,9 @@
+POI: 			Silas_Weir_Mitchell 
+Youtube ID: 	LoPp4JH_G5I 
+Video length: 	306.9 sec 
+Set (V): 		dev 
+ 
+Silas_Weir_Mitchell/LoPp4JH_G5I_0000001 79.2 85.7 
+Silas_Weir_Mitchell/LoPp4JH_G5I_0000002 101.6 107.9 
+Silas_Weir_Mitchell/LoPp4JH_G5I_0000003 165.2 170.0 
+Silas_Weir_Mitchell/LoPp4JH_G5I_0000004 268.6 275.3 

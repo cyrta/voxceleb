@@ -1,0 +1,8 @@
+POI: 			Aaron_Tveit 
+Youtube ID: 	wQJ3cED8ZSw 
+Video length: 	391.6 sec 
+Set (V): 		dev 
+ 
+Aaron_Tveit/wQJ3cED8ZSw_0000001 62.1 68.6 
+Aaron_Tveit/wQJ3cED8ZSw_0000002 113.0 120.7 
+Aaron_Tveit/wQJ3cED8ZSw_0000003 137.7 148.5 

@@ -1,0 +1,24 @@
+POI: 			Lisa_Ray 
+Youtube ID: 	xWyGKBituKQ 
+Video length: 	1130.8 sec 
+Set (V): 		dev 
+ 
+Lisa_Ray/xWyGKBituKQ_0000001 89.9 94.8 
+Lisa_Ray/xWyGKBituKQ_0000002 110.0 115.4 
+Lisa_Ray/xWyGKBituKQ_0000003 253.6 257.8 
+Lisa_Ray/xWyGKBituKQ_0000004 316.4 322.8 
+Lisa_Ray/xWyGKBituKQ_0000005 343.7 348.3 
+Lisa_Ray/xWyGKBituKQ_0000006 355.5 360.7 
+Lisa_Ray/xWyGKBituKQ_0000007 370.6 376.0 
+Lisa_Ray/xWyGKBituKQ_0000008 397.6 403.9 
+Lisa_Ray/xWyGKBituKQ_0000009 469.4 474.6 
+Lisa_Ray/xWyGKBituKQ_0000010 475.7 481.2 
+Lisa_Ray/xWyGKBituKQ_0000011 505.2 510.4 
+Lisa_Ray/xWyGKBituKQ_0000012 552.0 558.0 
+Lisa_Ray/xWyGKBituKQ_0000013 646.8 656.0 
+Lisa_Ray/xWyGKBituKQ_0000014 796.0 807.7 
+Lisa_Ray/xWyGKBituKQ_0000015 834.4 843.5 
+Lisa_Ray/xWyGKBituKQ_0000016 850.8 859.8 
+Lisa_Ray/xWyGKBituKQ_0000017 879.5 884.0 
+Lisa_Ray/xWyGKBituKQ_0000018 976.7 981.2 
+Lisa_Ray/xWyGKBituKQ_0000019 1094.0 1100.4 

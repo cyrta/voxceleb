@@ -1,0 +1,8 @@
+POI: 			Abbie_Cornish 
+Youtube ID: 	DjrTX2Z-rzI 
+Video length: 	154.5 sec 
+Set (V): 		dev 
+ 
+Abbie_Cornish/DjrTX2Z-rzI_0000001 72.8 79.7 
+Abbie_Cornish/DjrTX2Z-rzI_0000002 79.9 89.0 
+Abbie_Cornish/DjrTX2Z-rzI_0000003 111.0 116.4 

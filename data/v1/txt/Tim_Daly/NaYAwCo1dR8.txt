@@ -1,0 +1,8 @@
+POI: 			Tim_Daly 
+Youtube ID: 	NaYAwCo1dR8 
+Video length: 	286.3 sec 
+Set (V): 		dev 
+ 
+Tim_Daly/NaYAwCo1dR8_0000001 103.3 109.5 
+Tim_Daly/NaYAwCo1dR8_0000002 143.5 149.6 
+Tim_Daly/NaYAwCo1dR8_0000003 193.1 199.8 

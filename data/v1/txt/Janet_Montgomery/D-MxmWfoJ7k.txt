@@ -1,0 +1,10 @@
+POI: 			Janet_Montgomery 
+Youtube ID: 	D-MxmWfoJ7k 
+Video length: 	340.6 sec 
+Set (V): 		dev 
+ 
+Janet_Montgomery/D-MxmWfoJ7k_0000001 16.4 24.6 
+Janet_Montgomery/D-MxmWfoJ7k_0000002 25.4 32.9 
+Janet_Montgomery/D-MxmWfoJ7k_0000003 281.6 287.0 
+Janet_Montgomery/D-MxmWfoJ7k_0000004 287.9 292.6 
+Janet_Montgomery/D-MxmWfoJ7k_0000005 301.6 306.3 

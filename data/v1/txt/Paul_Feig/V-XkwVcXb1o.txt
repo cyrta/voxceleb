@@ -1,0 +1,9 @@
+POI: 			Paul_Feig 
+Youtube ID: 	V-XkwVcXb1o 
+Video length: 	234.1 sec 
+Set (V): 		dev 
+ 
+Paul_Feig/V-XkwVcXb1o_0000001 91.2 98.3 
+Paul_Feig/V-XkwVcXb1o_0000002 166.3 171.8 
+Paul_Feig/V-XkwVcXb1o_0000003 182.0 195.8 
+Paul_Feig/V-XkwVcXb1o_0000004 196.4 200.9 

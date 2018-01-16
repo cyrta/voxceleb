@@ -1,0 +1,21 @@
+POI: 			Idina_Menzel 
+Youtube ID: 	v60aXisPGIc 
+Video length: 	335.5 sec 
+Set (V): 		dev 
+ 
+Idina_Menzel/v60aXisPGIc_0000001 40.2 45.8 
+Idina_Menzel/v60aXisPGIc_0000002 61.2 68.6 
+Idina_Menzel/v60aXisPGIc_0000003 69.4 73.8 
+Idina_Menzel/v60aXisPGIc_0000004 75.2 87.4 
+Idina_Menzel/v60aXisPGIc_0000005 92.3 96.8 
+Idina_Menzel/v60aXisPGIc_0000006 132.8 138.3 
+Idina_Menzel/v60aXisPGIc_0000007 143.0 147.8 
+Idina_Menzel/v60aXisPGIc_0000008 157.5 168.9 
+Idina_Menzel/v60aXisPGIc_0000009 173.6 178.5 
+Idina_Menzel/v60aXisPGIc_0000010 178.7 184.4 
+Idina_Menzel/v60aXisPGIc_0000011 197.9 202.4 
+Idina_Menzel/v60aXisPGIc_0000012 245.4 253.1 
+Idina_Menzel/v60aXisPGIc_0000013 256.8 265.3 
+Idina_Menzel/v60aXisPGIc_0000014 158.9 167.5 
+Idina_Menzel/v60aXisPGIc_0000015 296.0 303.5 
+Idina_Menzel/v60aXisPGIc_0000016 304.5 324.8 

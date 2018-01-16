@@ -1,0 +1,13 @@
+POI: 			Brit_Marling 
+Youtube ID: 	NOQ6GWvf7cU 
+Video length: 	316.2 sec 
+Set (V): 		dev 
+ 
+Brit_Marling/NOQ6GWvf7cU_0000001 67.5 80.9 
+Brit_Marling/NOQ6GWvf7cU_0000002 88.8 93.5 
+Brit_Marling/NOQ6GWvf7cU_0000003 112.0 116.8 
+Brit_Marling/NOQ6GWvf7cU_0000004 158.5 168.7 
+Brit_Marling/NOQ6GWvf7cU_0000005 222.6 229.3 
+Brit_Marling/NOQ6GWvf7cU_0000006 235.6 242.0 
+Brit_Marling/NOQ6GWvf7cU_0000007 267.0 277.1 
+Brit_Marling/NOQ6GWvf7cU_0000008 298.5 306.1 

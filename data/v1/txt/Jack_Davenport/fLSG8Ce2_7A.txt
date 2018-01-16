@@ -1,0 +1,26 @@
+POI: 			Jack_Davenport 
+Youtube ID: 	fLSG8Ce2_7A 
+Video length: 	501.6 sec 
+Set (V): 		dev 
+ 
+Jack_Davenport/fLSG8Ce2_7A_0000001 39.5 52.8 
+Jack_Davenport/fLSG8Ce2_7A_0000002 149.2 157.6 
+Jack_Davenport/fLSG8Ce2_7A_0000003 158.3 171.6 
+Jack_Davenport/fLSG8Ce2_7A_0000004 173.8 186.5 
+Jack_Davenport/fLSG8Ce2_7A_0000005 192.0 200.9 
+Jack_Davenport/fLSG8Ce2_7A_0000006 254.7 260.2 
+Jack_Davenport/fLSG8Ce2_7A_0000007 158.4 171.6 
+Jack_Davenport/fLSG8Ce2_7A_0000008 173.9 190.9 
+Jack_Davenport/fLSG8Ce2_7A_0000009 191.3 200.9 
+Jack_Davenport/fLSG8Ce2_7A_0000010 248.0 253.4 
+Jack_Davenport/fLSG8Ce2_7A_0000011 254.8 260.2 
+Jack_Davenport/fLSG8Ce2_7A_0000012 348.7 360.6 
+Jack_Davenport/fLSG8Ce2_7A_0000013 362.5 367.1 
+Jack_Davenport/fLSG8Ce2_7A_0000014 368.1 376.3 
+Jack_Davenport/fLSG8Ce2_7A_0000015 378.5 403.7 
+Jack_Davenport/fLSG8Ce2_7A_0000016 407.7 416.8 
+Jack_Davenport/fLSG8Ce2_7A_0000017 417.1 421.1 
+Jack_Davenport/fLSG8Ce2_7A_0000018 425.0 432.8 
+Jack_Davenport/fLSG8Ce2_7A_0000019 433.6 452.6 
+Jack_Davenport/fLSG8Ce2_7A_0000020 455.4 470.8 
+Jack_Davenport/fLSG8Ce2_7A_0000021 472.1 477.5 

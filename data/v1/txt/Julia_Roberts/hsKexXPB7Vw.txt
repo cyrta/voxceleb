@@ -1,0 +1,9 @@
+POI: 			Julia_Roberts 
+Youtube ID: 	hsKexXPB7Vw 
+Video length: 	90.8 sec 
+Set (V): 		dev 
+ 
+Julia_Roberts/hsKexXPB7Vw_0000001 07.3 15.0 
+Julia_Roberts/hsKexXPB7Vw_0000002 33.1 39.9 
+Julia_Roberts/hsKexXPB7Vw_0000003 63.4 67.5 
+Julia_Roberts/hsKexXPB7Vw_0000004 68.5 73.9 

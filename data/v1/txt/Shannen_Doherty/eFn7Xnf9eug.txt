@@ -1,0 +1,14 @@
+POI: 			Shannen_Doherty 
+Youtube ID: 	eFn7Xnf9eug 
+Video length: 	161.1 sec 
+Set (V): 		dev 
+ 
+Shannen_Doherty/eFn7Xnf9eug_0000001 13.2 22.4 
+Shannen_Doherty/eFn7Xnf9eug_0000002 22.6 33.1 
+Shannen_Doherty/eFn7Xnf9eug_0000003 36.2 42.3 
+Shannen_Doherty/eFn7Xnf9eug_0000004 49.3 58.1 
+Shannen_Doherty/eFn7Xnf9eug_0000005 66.1 74.8 
+Shannen_Doherty/eFn7Xnf9eug_0000006 78.6 83.9 
+Shannen_Doherty/eFn7Xnf9eug_0000007 93.8 116.5 
+Shannen_Doherty/eFn7Xnf9eug_0000008 117.5 124.4 
+Shannen_Doherty/eFn7Xnf9eug_0000009 131.0 138.2 

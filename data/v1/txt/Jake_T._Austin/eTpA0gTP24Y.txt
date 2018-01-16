@@ -1,0 +1,9 @@
+POI: 			Jake_T._Austin 
+Youtube ID: 	eTpA0gTP24Y 
+Video length: 	401.6 sec 
+Set (V): 		dev 
+ 
+Jake_T._Austin/eTpA0gTP24Y_0000001 29.1 34.1 
+Jake_T._Austin/eTpA0gTP24Y_0000002 35.0 41.8 
+Jake_T._Austin/eTpA0gTP24Y_0000003 42.5 46.9 
+Jake_T._Austin/eTpA0gTP24Y_0000004 47.3 54.0 

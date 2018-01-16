@@ -1,0 +1,8 @@
+POI: 			Eleanor_Tomlinson 
+Youtube ID: 	Q5fbv-Wyj7k 
+Video length: 	180.4 sec 
+Set (V): 		test 
+ 
+Eleanor_Tomlinson/Q5fbv-Wyj7k_0000001 29.2 36.2 
+Eleanor_Tomlinson/Q5fbv-Wyj7k_0000002 134.7 146.0 
+Eleanor_Tomlinson/Q5fbv-Wyj7k_0000003 148.5 152.6 

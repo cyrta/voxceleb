@@ -1,0 +1,7 @@
+POI: 			William_Baldwin 
+Youtube ID: 	litv_hgi2xs 
+Video length: 	408.0 sec 
+Set (V): 		dev 
+ 
+William_Baldwin/litv_hgi2xs_0000001 358.1 373.2 
+William_Baldwin/litv_hgi2xs_0000002 381.2 385.5 

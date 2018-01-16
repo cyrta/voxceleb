@@ -1,0 +1,8 @@
+POI: 			Jack_Coleman 
+Youtube ID: 	bujquo47jac 
+Video length: 	503.9 sec 
+Set (V): 		dev 
+ 
+Jack_Coleman/bujquo47jac_0000001 119.2 126.8 
+Jack_Coleman/bujquo47jac_0000002 418.6 422.8 
+Jack_Coleman/bujquo47jac_0000003 443.6 451.4 

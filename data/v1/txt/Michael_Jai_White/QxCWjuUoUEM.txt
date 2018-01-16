@@ -1,0 +1,9 @@
+POI: 			Michael_Jai_White 
+Youtube ID: 	QxCWjuUoUEM 
+Video length: 	611.0 sec 
+Set (V): 		dev 
+ 
+Michael_Jai_White/QxCWjuUoUEM_0000001 144.2 150.2 
+Michael_Jai_White/QxCWjuUoUEM_0000002 153.2 158.9 
+Michael_Jai_White/QxCWjuUoUEM_0000003 221.8 226.1 
+Michael_Jai_White/QxCWjuUoUEM_0000004 387.4 394.2 

@@ -1,0 +1,7 @@
+POI: 			Chace_Crawford 
+Youtube ID: 	cgBMmjVBA-M 
+Video length: 	300.0 sec 
+Set (V): 		dev 
+ 
+Chace_Crawford/cgBMmjVBA-M_0000001 139.0 145.8 
+Chace_Crawford/cgBMmjVBA-M_0000002 171.0 176.9 

@@ -1,0 +1,9 @@
+POI: 			Donald_Glover 
+Youtube ID: 	sMGyBx1t1Yo 
+Video length: 	146.8 sec 
+Set (V): 		dev 
+ 
+Donald_Glover/sMGyBx1t1Yo_0000001 16.6 21.8 
+Donald_Glover/sMGyBx1t1Yo_0000002 43.5 49.1 
+Donald_Glover/sMGyBx1t1Yo_0000003 79.5 85.4 
+Donald_Glover/sMGyBx1t1Yo_0000004 99.6 105.6 

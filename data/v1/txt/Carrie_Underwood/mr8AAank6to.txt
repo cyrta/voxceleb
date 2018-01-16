@@ -1,0 +1,7 @@
+POI: 			Carrie_Underwood 
+Youtube ID: 	mr8AAank6to 
+Video length: 	147.0 sec 
+Set (V): 		dev 
+ 
+Carrie_Underwood/mr8AAank6to_0000001 67.3 72.4 
+Carrie_Underwood/mr8AAank6to_0000002 78.3 85.0 

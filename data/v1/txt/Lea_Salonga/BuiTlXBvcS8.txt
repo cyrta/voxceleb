@@ -1,0 +1,8 @@
+POI: 			Lea_Salonga 
+Youtube ID: 	BuiTlXBvcS8 
+Video length: 	173.0 sec 
+Set (V): 		dev 
+ 
+Lea_Salonga/BuiTlXBvcS8_0000001 04.7 08.9 
+Lea_Salonga/BuiTlXBvcS8_0000002 50.9 61.9 
+Lea_Salonga/BuiTlXBvcS8_0000003 145.7 167.1 

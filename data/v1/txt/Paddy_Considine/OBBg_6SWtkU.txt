@@ -1,0 +1,8 @@
+POI: 			Paddy_Considine 
+Youtube ID: 	OBBg_6SWtkU 
+Video length: 	145.2 sec 
+Set (V): 		dev 
+ 
+Paddy_Considine/OBBg_6SWtkU_0000001 13.0 29.2 
+Paddy_Considine/OBBg_6SWtkU_0000002 43.6 48.5 
+Paddy_Considine/OBBg_6SWtkU_0000003 127.0 133.3 

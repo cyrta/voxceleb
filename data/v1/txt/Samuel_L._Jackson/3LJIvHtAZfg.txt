@@ -1,0 +1,11 @@
+POI: 			Samuel_L._Jackson 
+Youtube ID: 	3LJIvHtAZfg 
+Video length: 	261.6 sec 
+Set (V): 		dev 
+ 
+Samuel_L._Jackson/3LJIvHtAZfg_0000001 33.0 40.1 
+Samuel_L._Jackson/3LJIvHtAZfg_0000002 74.0 78.4 
+Samuel_L._Jackson/3LJIvHtAZfg_0000003 84.0 88.0 
+Samuel_L._Jackson/3LJIvHtAZfg_0000004 174.6 184.4 
+Samuel_L._Jackson/3LJIvHtAZfg_0000005 223.2 227.3 
+Samuel_L._Jackson/3LJIvHtAZfg_0000006 237.6 242.7 

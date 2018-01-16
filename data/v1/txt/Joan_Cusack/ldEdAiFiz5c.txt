@@ -1,0 +1,10 @@
+POI: 			Joan_Cusack 
+Youtube ID: 	ldEdAiFiz5c 
+Video length: 	234.3 sec 
+Set (V): 		dev 
+ 
+Joan_Cusack/ldEdAiFiz5c_0000001 63.1 70.0 
+Joan_Cusack/ldEdAiFiz5c_0000002 192.8 197.3 
+Joan_Cusack/ldEdAiFiz5c_0000003 198.2 202.4 
+Joan_Cusack/ldEdAiFiz5c_0000004 200.2 204.8 
+Joan_Cusack/ldEdAiFiz5c_0000005 211.2 215.6 

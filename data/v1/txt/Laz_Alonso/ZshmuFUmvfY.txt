@@ -1,0 +1,13 @@
+POI: 			Laz_Alonso 
+Youtube ID: 	ZshmuFUmvfY 
+Video length: 	472.0 sec 
+Set (V): 		dev 
+ 
+Laz_Alonso/ZshmuFUmvfY_0000001 323.8 328.8 
+Laz_Alonso/ZshmuFUmvfY_0000002 331.4 337.6 
+Laz_Alonso/ZshmuFUmvfY_0000003 339.6 351.6 
+Laz_Alonso/ZshmuFUmvfY_0000004 356.4 362.1 
+Laz_Alonso/ZshmuFUmvfY_0000005 366.0 370.8 
+Laz_Alonso/ZshmuFUmvfY_0000006 389.4 393.8 
+Laz_Alonso/ZshmuFUmvfY_0000007 395.1 400.0 
+Laz_Alonso/ZshmuFUmvfY_0000008 400.8 415.0 

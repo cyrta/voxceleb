@@ -1,0 +1,13 @@
+POI: 			Michelle_Monaghan 
+Youtube ID: 	kLqdRx2GLE4 
+Video length: 	2103.6 sec 
+Set (V): 		dev 
+ 
+Michelle_Monaghan/kLqdRx2GLE4_0000001 553.4 575.4 
+Michelle_Monaghan/kLqdRx2GLE4_0000002 1237.4 1243.3 
+Michelle_Monaghan/kLqdRx2GLE4_0000003 1244.0 1271.9 
+Michelle_Monaghan/kLqdRx2GLE4_0000004 1275.9 1281.2 
+Michelle_Monaghan/kLqdRx2GLE4_0000005 1281.4 1297.1 
+Michelle_Monaghan/kLqdRx2GLE4_0000006 1297.6 1308.2 
+Michelle_Monaghan/kLqdRx2GLE4_0000007 1311.1 1328.2 
+Michelle_Monaghan/kLqdRx2GLE4_0000008 1328.8 1332.9 

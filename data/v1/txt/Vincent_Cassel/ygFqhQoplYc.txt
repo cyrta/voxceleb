@@ -1,0 +1,29 @@
+POI: 			Vincent_Cassel 
+Youtube ID: 	ygFqhQoplYc 
+Video length: 	491.5 sec 
+Set (V): 		dev 
+ 
+Vincent_Cassel/ygFqhQoplYc_0000001 26.8 36.0 
+Vincent_Cassel/ygFqhQoplYc_0000002 77.1 81.2 
+Vincent_Cassel/ygFqhQoplYc_0000003 85.1 97.8 
+Vincent_Cassel/ygFqhQoplYc_0000004 98.8 104.0 
+Vincent_Cassel/ygFqhQoplYc_0000005 120.8 125.7 
+Vincent_Cassel/ygFqhQoplYc_0000006 143.0 147.8 
+Vincent_Cassel/ygFqhQoplYc_0000007 148.5 153.9 
+Vincent_Cassel/ygFqhQoplYc_0000008 179.4 183.9 
+Vincent_Cassel/ygFqhQoplYc_0000009 206.8 211.1 
+Vincent_Cassel/ygFqhQoplYc_0000010 211.3 218.4 
+Vincent_Cassel/ygFqhQoplYc_0000011 270.6 275.4 
+Vincent_Cassel/ygFqhQoplYc_0000012 276.2 280.3 
+Vincent_Cassel/ygFqhQoplYc_0000013 297.5 303.1 
+Vincent_Cassel/ygFqhQoplYc_0000014 314.2 318.8 
+Vincent_Cassel/ygFqhQoplYc_0000015 322.2 331.9 
+Vincent_Cassel/ygFqhQoplYc_0000016 333.2 342.0 
+Vincent_Cassel/ygFqhQoplYc_0000017 342.2 348.3 
+Vincent_Cassel/ygFqhQoplYc_0000018 376.1 380.8 
+Vincent_Cassel/ygFqhQoplYc_0000019 383.4 394.6 
+Vincent_Cassel/ygFqhQoplYc_0000020 395.2 409.6 
+Vincent_Cassel/ygFqhQoplYc_0000021 446.7 462.2 
+Vincent_Cassel/ygFqhQoplYc_0000022 464.7 470.3 
+Vincent_Cassel/ygFqhQoplYc_0000023 470.9 475.6 
+Vincent_Cassel/ygFqhQoplYc_0000024 475.8 482.3 

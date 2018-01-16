@@ -1,0 +1,7 @@
+POI: 			Ryan_Phillippe 
+Youtube ID: 	CuHGkMJcI8U 
+Video length: 	319.0 sec 
+Set (V): 		dev 
+ 
+Ryan_Phillippe/CuHGkMJcI8U_0000001 65.0 69.0 
+Ryan_Phillippe/CuHGkMJcI8U_0000002 159.2 164.8 

@@ -1,0 +1,8 @@
+POI: 			Jeremy_Irvine 
+Youtube ID: 	RjD9E4c4ccA 
+Video length: 	148.1 sec 
+Set (V): 		dev 
+ 
+Jeremy_Irvine/RjD9E4c4ccA_0000001 39.6 49.2 
+Jeremy_Irvine/RjD9E4c4ccA_0000002 74.6 78.9 
+Jeremy_Irvine/RjD9E4c4ccA_0000003 81.0 85.7 

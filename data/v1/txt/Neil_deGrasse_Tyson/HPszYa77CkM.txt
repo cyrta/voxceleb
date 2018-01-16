@@ -1,0 +1,16 @@
+POI: 			Neil_deGrasse_Tyson 
+Youtube ID: 	HPszYa77CkM 
+Video length: 	797.2 sec 
+Set (V): 		dev 
+ 
+Neil_deGrasse_Tyson/HPszYa77CkM_0000001 290.9 298.6 
+Neil_deGrasse_Tyson/HPszYa77CkM_0000002 314.4 318.6 
+Neil_deGrasse_Tyson/HPszYa77CkM_0000003 323.5 329.9 
+Neil_deGrasse_Tyson/HPszYa77CkM_0000004 347.6 352.6 
+Neil_deGrasse_Tyson/HPszYa77CkM_0000005 415.8 427.0 
+Neil_deGrasse_Tyson/HPszYa77CkM_0000006 534.8 548.1 
+Neil_deGrasse_Tyson/HPszYa77CkM_0000007 556.8 562.8 
+Neil_deGrasse_Tyson/HPszYa77CkM_0000008 573.8 578.0 
+Neil_deGrasse_Tyson/HPszYa77CkM_0000009 578.7 585.2 
+Neil_deGrasse_Tyson/HPszYa77CkM_0000010 705.4 709.8 
+Neil_deGrasse_Tyson/HPszYa77CkM_0000011 720.5 726.1 

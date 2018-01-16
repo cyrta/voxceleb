@@ -1,0 +1,10 @@
+POI: 			Mitchel_Musso 
+Youtube ID: 	JMESuICDnjs 
+Video length: 	258.1 sec 
+Set (V): 		dev 
+ 
+Mitchel_Musso/JMESuICDnjs_0000001 47.8 53.7 
+Mitchel_Musso/JMESuICDnjs_0000002 172.0 178.7 
+Mitchel_Musso/JMESuICDnjs_0000003 195.5 199.6 
+Mitchel_Musso/JMESuICDnjs_0000004 202.1 208.1 
+Mitchel_Musso/JMESuICDnjs_0000005 214.3 219.1 

@@ -1,0 +1,11 @@
+POI: 			Noomi_Rapace 
+Youtube ID: 	YKRaWS6JVak 
+Video length: 	67.3 sec 
+Set (V): 		dev 
+ 
+Noomi_Rapace/YKRaWS6JVak_0000001 12.3 17.1 
+Noomi_Rapace/YKRaWS6JVak_0000002 17.2 23.8 
+Noomi_Rapace/YKRaWS6JVak_0000003 30.1 36.7 
+Noomi_Rapace/YKRaWS6JVak_0000004 37.3 47.6 
+Noomi_Rapace/YKRaWS6JVak_0000005 49.0 56.6 
+Noomi_Rapace/YKRaWS6JVak_0000006 57.2 64.0 

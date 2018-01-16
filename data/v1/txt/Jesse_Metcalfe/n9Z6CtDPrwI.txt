@@ -1,0 +1,7 @@
+POI: 			Jesse_Metcalfe 
+Youtube ID: 	n9Z6CtDPrwI 
+Video length: 	524.0 sec 
+Set (V): 		dev 
+ 
+Jesse_Metcalfe/n9Z6CtDPrwI_0000001 424.8 432.9 
+Jesse_Metcalfe/n9Z6CtDPrwI_0000002 433.4 437.4 

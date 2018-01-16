@@ -1,0 +1,15 @@
+POI: 			Dakota_Fanning 
+Youtube ID: 	G5cFD0tTNms 
+Video length: 	224.7 sec 
+Set (V): 		dev 
+ 
+Dakota_Fanning/G5cFD0tTNms_0000001 19.5 26.8 
+Dakota_Fanning/G5cFD0tTNms_0000002 53.7 74.0 
+Dakota_Fanning/G5cFD0tTNms_0000003 87.9 94.0 
+Dakota_Fanning/G5cFD0tTNms_0000004 95.0 106.4 
+Dakota_Fanning/G5cFD0tTNms_0000005 124.3 130.0 
+Dakota_Fanning/G5cFD0tTNms_0000006 130.5 140.7 
+Dakota_Fanning/G5cFD0tTNms_0000007 141.5 152.6 
+Dakota_Fanning/G5cFD0tTNms_0000008 169.8 174.6 
+Dakota_Fanning/G5cFD0tTNms_0000009 190.7 200.9 
+Dakota_Fanning/G5cFD0tTNms_0000010 201.1 216.6 

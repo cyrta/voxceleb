@@ -1,0 +1,8 @@
+POI: 			Alice_Eve 
+Youtube ID: 	NKuVgEn0sr8 
+Video length: 	205.0 sec 
+Set (V): 		dev 
+ 
+Alice_Eve/NKuVgEn0sr8_0000001 54.2 58.3 
+Alice_Eve/NKuVgEn0sr8_0000002 157.0 162.0 
+Alice_Eve/NKuVgEn0sr8_0000003 166.6 170.6 

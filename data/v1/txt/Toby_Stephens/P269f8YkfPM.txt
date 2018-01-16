@@ -1,0 +1,10 @@
+POI: 			Toby_Stephens 
+Youtube ID: 	P269f8YkfPM 
+Video length: 	409.1 sec 
+Set (V): 		dev 
+ 
+Toby_Stephens/P269f8YkfPM_0000001 147.0 170.9 
+Toby_Stephens/P269f8YkfPM_0000002 173.6 178.1 
+Toby_Stephens/P269f8YkfPM_0000003 178.4 183.2 
+Toby_Stephens/P269f8YkfPM_0000004 186.9 191.9 
+Toby_Stephens/P269f8YkfPM_0000005 172.2 178.1 

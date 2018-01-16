@@ -1,0 +1,11 @@
+POI: 			Katharine_McPhee 
+Youtube ID: 	x_QRCiJEYLM 
+Video length: 	196.6 sec 
+Set (V): 		dev 
+ 
+Katharine_McPhee/x_QRCiJEYLM_0000001 52.9 57.2 
+Katharine_McPhee/x_QRCiJEYLM_0000002 72.2 76.4 
+Katharine_McPhee/x_QRCiJEYLM_0000003 104.4 120.5 
+Katharine_McPhee/x_QRCiJEYLM_0000004 137.1 143.5 
+Katharine_McPhee/x_QRCiJEYLM_0000005 143.9 158.3 
+Katharine_McPhee/x_QRCiJEYLM_0000006 168.4 189.1 

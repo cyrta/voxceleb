@@ -1,0 +1,7 @@
+POI: 			David_Zayas 
+Youtube ID: 	w_rDS1BJ6V0 
+Video length: 	492.6 sec 
+Set (V): 		dev 
+ 
+David_Zayas/w_rDS1BJ6V0_0000001 157.3 163.4 
+David_Zayas/w_rDS1BJ6V0_0000002 334.6 341.2 

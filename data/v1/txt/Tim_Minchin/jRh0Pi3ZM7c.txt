@@ -1,0 +1,10 @@
+POI: 			Tim_Minchin 
+Youtube ID: 	jRh0Pi3ZM7c 
+Video length: 	717.2 sec 
+Set (V): 		dev 
+ 
+Tim_Minchin/jRh0Pi3ZM7c_0000001 72.7 79.6 
+Tim_Minchin/jRh0Pi3ZM7c_0000002 259.2 264.0 
+Tim_Minchin/jRh0Pi3ZM7c_0000003 347.7 351.7 
+Tim_Minchin/jRh0Pi3ZM7c_0000004 417.4 422.4 
+Tim_Minchin/jRh0Pi3ZM7c_0000005 426.5 431.6 

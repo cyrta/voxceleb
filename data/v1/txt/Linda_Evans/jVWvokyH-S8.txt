@@ -1,0 +1,10 @@
+POI: 			Linda_Evans 
+Youtube ID: 	jVWvokyH-S8 
+Video length: 	193.9 sec 
+Set (V): 		dev 
+ 
+Linda_Evans/jVWvokyH-S8_0000001 63.4 68.5 
+Linda_Evans/jVWvokyH-S8_0000002 81.9 89.0 
+Linda_Evans/jVWvokyH-S8_0000003 104.0 108.0 
+Linda_Evans/jVWvokyH-S8_0000004 115.7 129.8 
+Linda_Evans/jVWvokyH-S8_0000005 152.6 165.0 

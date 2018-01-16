@@ -1,0 +1,23 @@
+POI: 			Vanessa_Hudgens 
+Youtube ID: 	Bt6SCygMBT8 
+Video length: 	862.2 sec 
+Set (V): 		dev 
+ 
+Vanessa_Hudgens/Bt6SCygMBT8_0000001 100.8 104.8 
+Vanessa_Hudgens/Bt6SCygMBT8_0000002 107.6 112.5 
+Vanessa_Hudgens/Bt6SCygMBT8_0000003 112.7 119.4 
+Vanessa_Hudgens/Bt6SCygMBT8_0000004 143.2 155.1 
+Vanessa_Hudgens/Bt6SCygMBT8_0000005 157.2 164.5 
+Vanessa_Hudgens/Bt6SCygMBT8_0000006 168.4 179.7 
+Vanessa_Hudgens/Bt6SCygMBT8_0000007 205.8 216.5 
+Vanessa_Hudgens/Bt6SCygMBT8_0000008 228.5 239.8 
+Vanessa_Hudgens/Bt6SCygMBT8_0000009 286.4 293.9 
+Vanessa_Hudgens/Bt6SCygMBT8_0000010 303.2 313.5 
+Vanessa_Hudgens/Bt6SCygMBT8_0000011 458.3 471.2 
+Vanessa_Hudgens/Bt6SCygMBT8_0000012 472.6 479.2 
+Vanessa_Hudgens/Bt6SCygMBT8_0000013 503.4 508.9 
+Vanessa_Hudgens/Bt6SCygMBT8_0000014 617.5 637.1 
+Vanessa_Hudgens/Bt6SCygMBT8_0000015 637.8 642.4 
+Vanessa_Hudgens/Bt6SCygMBT8_0000016 646.9 651.2 
+Vanessa_Hudgens/Bt6SCygMBT8_0000017 711.4 726.0 
+Vanessa_Hudgens/Bt6SCygMBT8_0000018 750.2 767.3 

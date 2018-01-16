@@ -1,0 +1,7 @@
+POI: 			Drake_Bell 
+Youtube ID: 	xBbTIDuswR0 
+Video length: 	338.9 sec 
+Set (V): 		dev 
+ 
+Drake_Bell/xBbTIDuswR0_0000001 157.0 162.6 
+Drake_Bell/xBbTIDuswR0_0000002 304.2 309.2 

@@ -1,0 +1,8 @@
+POI: 			Jon_Pertwee 
+Youtube ID: 	0fcgG8DOrqM 
+Video length: 	175.6 sec 
+Set (V): 		dev 
+ 
+Jon_Pertwee/0fcgG8DOrqM_0000001 103.4 120.6 
+Jon_Pertwee/0fcgG8DOrqM_0000002 120.8 125.6 
+Jon_Pertwee/0fcgG8DOrqM_0000003 126.3 131.4 

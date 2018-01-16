@@ -1,0 +1,7 @@
+POI: 			Eddie_Izzard 
+Youtube ID: 	jyOctu82nhs 
+Video length: 	640.8 sec 
+Set (V): 		test 
+ 
+Eddie_Izzard/jyOctu82nhs_0000001 59.2 63.5 
+Eddie_Izzard/jyOctu82nhs_0000002 538.0 543.2 

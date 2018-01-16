@@ -1,0 +1,8 @@
+POI: 			Rita_Ora 
+Youtube ID: 	GUXV_s3PXxk 
+Video length: 	107.2 sec 
+Set (V): 		dev 
+ 
+Rita_Ora/GUXV_s3PXxk_0000001 14.8 20.2 
+Rita_Ora/GUXV_s3PXxk_0000002 52.7 58.2 
+Rita_Ora/GUXV_s3PXxk_0000003 92.8 101.9 

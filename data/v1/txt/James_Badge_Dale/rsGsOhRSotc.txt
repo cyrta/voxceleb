@@ -1,0 +1,9 @@
+POI: 			James_Badge_Dale 
+Youtube ID: 	rsGsOhRSotc 
+Video length: 	471.1 sec 
+Set (V): 		dev 
+ 
+James_Badge_Dale/rsGsOhRSotc_0000001 171.7 200.7 
+James_Badge_Dale/rsGsOhRSotc_0000002 204.1 208.2 
+James_Badge_Dale/rsGsOhRSotc_0000003 210.2 214.5 
+James_Badge_Dale/rsGsOhRSotc_0000004 355.6 360.6 

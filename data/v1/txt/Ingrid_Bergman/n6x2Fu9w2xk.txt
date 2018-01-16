@@ -1,0 +1,8 @@
+POI: 			Ingrid_Bergman 
+Youtube ID: 	n6x2Fu9w2xk 
+Video length: 	133.4 sec 
+Set (V): 		dev 
+ 
+Ingrid_Bergman/n6x2Fu9w2xk_0000001 53.6 57.6 
+Ingrid_Bergman/n6x2Fu9w2xk_0000002 75.2 81.1 
+Ingrid_Bergman/n6x2Fu9w2xk_0000003 106.0 110.8 

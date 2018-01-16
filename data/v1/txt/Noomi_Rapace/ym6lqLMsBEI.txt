@@ -1,0 +1,8 @@
+POI: 			Noomi_Rapace 
+Youtube ID: 	ym6lqLMsBEI 
+Video length: 	369.4 sec 
+Set (V): 		dev 
+ 
+Noomi_Rapace/ym6lqLMsBEI_0000001 165.2 169.5 
+Noomi_Rapace/ym6lqLMsBEI_0000002 277.2 282.7 
+Noomi_Rapace/ym6lqLMsBEI_0000003 325.6 330.0 

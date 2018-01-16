@@ -1,0 +1,25 @@
+POI: 			Greg_Grunberg 
+Youtube ID: 	Ok_1huCJP0o 
+Video length: 	412.6 sec 
+Set (V): 		dev 
+ 
+Greg_Grunberg/Ok_1huCJP0o_0000001 45.5 52.8 
+Greg_Grunberg/Ok_1huCJP0o_0000002 77.1 82.8 
+Greg_Grunberg/Ok_1huCJP0o_0000003 84.0 90.4 
+Greg_Grunberg/Ok_1huCJP0o_0000004 92.4 97.0 
+Greg_Grunberg/Ok_1huCJP0o_0000005 97.9 117.9 
+Greg_Grunberg/Ok_1huCJP0o_0000006 137.7 142.4 
+Greg_Grunberg/Ok_1huCJP0o_0000007 150.8 158.8 
+Greg_Grunberg/Ok_1huCJP0o_0000008 165.3 177.3 
+Greg_Grunberg/Ok_1huCJP0o_0000009 179.2 186.2 
+Greg_Grunberg/Ok_1huCJP0o_0000010 188.9 193.0 
+Greg_Grunberg/Ok_1huCJP0o_0000011 200.0 209.3 
+Greg_Grunberg/Ok_1huCJP0o_0000012 214.9 222.8 
+Greg_Grunberg/Ok_1huCJP0o_0000013 226.0 231.3 
+Greg_Grunberg/Ok_1huCJP0o_0000014 257.7 272.8 
+Greg_Grunberg/Ok_1huCJP0o_0000015 275.2 279.3 
+Greg_Grunberg/Ok_1huCJP0o_0000016 298.0 303.3 
+Greg_Grunberg/Ok_1huCJP0o_0000017 303.8 313.5 
+Greg_Grunberg/Ok_1huCJP0o_0000018 335.2 348.4 
+Greg_Grunberg/Ok_1huCJP0o_0000019 349.3 361.9 
+Greg_Grunberg/Ok_1huCJP0o_0000020 383.6 403.2 

@@ -1,0 +1,13 @@
+POI: 			Guy_Pearce 
+Youtube ID: 	aZ0nZEDdYQI 
+Video length: 	324.6 sec 
+Set (V): 		dev 
+ 
+Guy_Pearce/aZ0nZEDdYQI_0000001 49.0 61.0 
+Guy_Pearce/aZ0nZEDdYQI_0000002 71.2 82.2 
+Guy_Pearce/aZ0nZEDdYQI_0000003 128.0 154.3 
+Guy_Pearce/aZ0nZEDdYQI_0000004 162.5 166.8 
+Guy_Pearce/aZ0nZEDdYQI_0000005 167.6 174.3 
+Guy_Pearce/aZ0nZEDdYQI_0000006 203.8 218.2 
+Guy_Pearce/aZ0nZEDdYQI_0000007 230.0 241.0 
+Guy_Pearce/aZ0nZEDdYQI_0000008 262.7 275.6 

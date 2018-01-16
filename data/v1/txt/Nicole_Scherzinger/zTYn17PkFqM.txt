@@ -1,0 +1,9 @@
+POI: 			Nicole_Scherzinger 
+Youtube ID: 	zTYn17PkFqM 
+Video length: 	549.8 sec 
+Set (V): 		dev 
+ 
+Nicole_Scherzinger/zTYn17PkFqM_0000001 108.9 115.7 
+Nicole_Scherzinger/zTYn17PkFqM_0000002 210.7 214.9 
+Nicole_Scherzinger/zTYn17PkFqM_0000003 230.2 234.4 
+Nicole_Scherzinger/zTYn17PkFqM_0000004 278.1 282.7 

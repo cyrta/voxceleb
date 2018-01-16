@@ -1,0 +1,9 @@
+POI: 			Walter_Matthau 
+Youtube ID: 	uAQ9Taunh7w 
+Video length: 	903.8 sec 
+Set (V): 		dev 
+ 
+Walter_Matthau/uAQ9Taunh7w_0000001 25.8 29.8 
+Walter_Matthau/uAQ9Taunh7w_0000002 56.9 61.5 
+Walter_Matthau/uAQ9Taunh7w_0000003 80.6 85.2 
+Walter_Matthau/uAQ9Taunh7w_0000004 93.3 98.0 

@@ -1,0 +1,14 @@
+POI: 			Della_Reese 
+Youtube ID: 	P4_gD2YroBM 
+Video length: 	147.7 sec 
+Set (V): 		dev 
+ 
+Della_Reese/P4_gD2YroBM_0000001 04.3 16.8 
+Della_Reese/P4_gD2YroBM_0000002 29.3 33.5 
+Della_Reese/P4_gD2YroBM_0000003 39.5 45.9 
+Della_Reese/P4_gD2YroBM_0000004 46.4 60.9 
+Della_Reese/P4_gD2YroBM_0000005 63.8 74.4 
+Della_Reese/P4_gD2YroBM_0000006 90.0 99.2 
+Della_Reese/P4_gD2YroBM_0000007 102.8 113.6 
+Della_Reese/P4_gD2YroBM_0000008 117.9 129.8 
+Della_Reese/P4_gD2YroBM_0000009 130.6 137.9 

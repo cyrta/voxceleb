@@ -1,0 +1,7 @@
+POI: 			Nathan_Fillion 
+Youtube ID: 	D7M58uekTcA 
+Video length: 	102.2 sec 
+Set (V): 		dev 
+ 
+Nathan_Fillion/D7M58uekTcA_0000001 21.4 35.7 
+Nathan_Fillion/D7M58uekTcA_0000002 55.1 60.2 

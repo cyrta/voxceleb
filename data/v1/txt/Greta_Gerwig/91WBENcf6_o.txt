@@ -1,0 +1,12 @@
+POI: 			Greta_Gerwig 
+Youtube ID: 	91WBENcf6_o 
+Video length: 	270.2 sec 
+Set (V): 		dev 
+ 
+Greta_Gerwig/91WBENcf6_o_0000001 12.1 27.3 
+Greta_Gerwig/91WBENcf6_o_0000002 27.5 32.4 
+Greta_Gerwig/91WBENcf6_o_0000003 48.8 54.1 
+Greta_Gerwig/91WBENcf6_o_0000004 61.2 66.9 
+Greta_Gerwig/91WBENcf6_o_0000005 69.0 84.9 
+Greta_Gerwig/91WBENcf6_o_0000006 154.7 159.7 
+Greta_Gerwig/91WBENcf6_o_0000007 202.0 210.2 

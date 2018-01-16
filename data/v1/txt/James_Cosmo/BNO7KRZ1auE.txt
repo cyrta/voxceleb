@@ -1,0 +1,14 @@
+POI: 			James_Cosmo 
+Youtube ID: 	BNO7KRZ1auE 
+Video length: 	167.4 sec 
+Set (V): 		dev 
+ 
+James_Cosmo/BNO7KRZ1auE_0000001 23.7 37.9 
+James_Cosmo/BNO7KRZ1auE_0000002 46.4 51.3 
+James_Cosmo/BNO7KRZ1auE_0000003 56.8 62.5 
+James_Cosmo/BNO7KRZ1auE_0000004 63.5 72.7 
+James_Cosmo/BNO7KRZ1auE_0000005 60.5 75.1 
+James_Cosmo/BNO7KRZ1auE_0000006 112.7 118.5 
+James_Cosmo/BNO7KRZ1auE_0000007 136.0 140.0 
+James_Cosmo/BNO7KRZ1auE_0000008 140.5 145.2 
+James_Cosmo/BNO7KRZ1auE_0000009 153.2 157.1 

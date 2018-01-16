@@ -1,0 +1,17 @@
+POI: 			Tilda_Swinton 
+Youtube ID: 	tllp-2fqq1Y 
+Video length: 	356.0 sec 
+Set (V): 		dev 
+ 
+Tilda_Swinton/tllp-2fqq1Y_0000001 05.6 10.8 
+Tilda_Swinton/tllp-2fqq1Y_0000002 102.7 108.7 
+Tilda_Swinton/tllp-2fqq1Y_0000003 105.0 109.4 
+Tilda_Swinton/tllp-2fqq1Y_0000004 165.6 170.5 
+Tilda_Swinton/tllp-2fqq1Y_0000005 220.7 227.0 
+Tilda_Swinton/tllp-2fqq1Y_0000006 230.6 236.9 
+Tilda_Swinton/tllp-2fqq1Y_0000007 245.7 251.2 
+Tilda_Swinton/tllp-2fqq1Y_0000008 260.3 273.7 
+Tilda_Swinton/tllp-2fqq1Y_0000009 276.2 280.3 
+Tilda_Swinton/tllp-2fqq1Y_0000010 284.0 289.1 
+Tilda_Swinton/tllp-2fqq1Y_0000011 301.0 306.3 
+Tilda_Swinton/tllp-2fqq1Y_0000012 312.9 318.2 

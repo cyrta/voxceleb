@@ -1,0 +1,8 @@
+POI: 			Luke_Newberry 
+Youtube ID: 	PXX5bOyBHhs 
+Video length: 	154.2 sec 
+Set (V): 		dev 
+ 
+Luke_Newberry/PXX5bOyBHhs_0000001 46.9 51.0 
+Luke_Newberry/PXX5bOyBHhs_0000002 78.0 83.0 
+Luke_Newberry/PXX5bOyBHhs_0000003 125.9 130.8 

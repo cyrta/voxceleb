@@ -1,0 +1,13 @@
+POI: 			Mitchel_Musso 
+Youtube ID: 	gpZj4L9tlBY 
+Video length: 	255.5 sec 
+Set (V): 		dev 
+ 
+Mitchel_Musso/gpZj4L9tlBY_0000001 18.4 24.9 
+Mitchel_Musso/gpZj4L9tlBY_0000002 48.1 52.9 
+Mitchel_Musso/gpZj4L9tlBY_0000003 87.6 93.4 
+Mitchel_Musso/gpZj4L9tlBY_0000004 109.5 127.6 
+Mitchel_Musso/gpZj4L9tlBY_0000005 128.2 134.9 
+Mitchel_Musso/gpZj4L9tlBY_0000006 149.0 163.4 
+Mitchel_Musso/gpZj4L9tlBY_0000007 192.5 216.2 
+Mitchel_Musso/gpZj4L9tlBY_0000008 219.4 226.6 

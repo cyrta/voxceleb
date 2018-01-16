@@ -1,0 +1,7 @@
+POI: 			David_Lyons 
+Youtube ID: 	12E5mRHNgKY 
+Video length: 	74.3 sec 
+Set (V): 		dev 
+ 
+David_Lyons/12E5mRHNgKY_0000001 29.2 33.2 
+David_Lyons/12E5mRHNgKY_0000002 55.0 70.7 

@@ -1,0 +1,9 @@
+POI: 			Paul_Dano 
+Youtube ID: 	JxH9DqdwPC0 
+Video length: 	149.1 sec 
+Set (V): 		dev 
+ 
+Paul_Dano/JxH9DqdwPC0_0000001 36.2 46.4 
+Paul_Dano/JxH9DqdwPC0_0000002 60.0 71.2 
+Paul_Dano/JxH9DqdwPC0_0000003 83.5 93.4 
+Paul_Dano/JxH9DqdwPC0_0000004 116.2 123.1 

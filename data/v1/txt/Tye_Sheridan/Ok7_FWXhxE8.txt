@@ -1,0 +1,12 @@
+POI: 			Tye_Sheridan 
+Youtube ID: 	Ok7_FWXhxE8 
+Video length: 	232.3 sec 
+Set (V): 		dev 
+ 
+Tye_Sheridan/Ok7_FWXhxE8_0000001 26.6 30.6 
+Tye_Sheridan/Ok7_FWXhxE8_0000002 74.8 83.2 
+Tye_Sheridan/Ok7_FWXhxE8_0000003 89.5 95.1 
+Tye_Sheridan/Ok7_FWXhxE8_0000004 95.7 100.7 
+Tye_Sheridan/Ok7_FWXhxE8_0000005 110.5 116.7 
+Tye_Sheridan/Ok7_FWXhxE8_0000006 200.4 205.6 
+Tye_Sheridan/Ok7_FWXhxE8_0000007 213.0 220.2 

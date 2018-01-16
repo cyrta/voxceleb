@@ -1,0 +1,11 @@
+POI: 			Linda_Evans 
+Youtube ID: 	PkrKLb_sfKI 
+Video length: 	1192.0 sec 
+Set (V): 		dev 
+ 
+Linda_Evans/PkrKLb_sfKI_0000001 115.0 120.9 
+Linda_Evans/PkrKLb_sfKI_0000002 172.5 178.0 
+Linda_Evans/PkrKLb_sfKI_0000003 178.1 184.0 
+Linda_Evans/PkrKLb_sfKI_0000004 256.7 261.5 
+Linda_Evans/PkrKLb_sfKI_0000005 265.1 269.8 
+Linda_Evans/PkrKLb_sfKI_0000006 364.1 369.1 

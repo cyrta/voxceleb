@@ -1,0 +1,8 @@
+POI: 			Kenton_Duty 
+Youtube ID: 	3XUTw2jbL0k 
+Video length: 	290.5 sec 
+Set (V): 		dev 
+ 
+Kenton_Duty/3XUTw2jbL0k_0000001 18.4 24.3 
+Kenton_Duty/3XUTw2jbL0k_0000002 58.4 64.1 
+Kenton_Duty/3XUTw2jbL0k_0000003 257.6 263.4 

@@ -1,0 +1,7 @@
+POI: 			Mary-Louise_Parker 
+Youtube ID: 	KgRtM5v2DMI 
+Video length: 	297.4 sec 
+Set (V): 		dev 
+ 
+Mary-Louise_Parker/KgRtM5v2DMI_0000001 69.2 74.4 
+Mary-Louise_Parker/KgRtM5v2DMI_0000002 91.4 96.3 

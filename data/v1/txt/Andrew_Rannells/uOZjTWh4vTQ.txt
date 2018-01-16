@@ -1,0 +1,11 @@
+POI: 			Andrew_Rannells 
+Youtube ID: 	uOZjTWh4vTQ 
+Video length: 	416.7 sec 
+Set (V): 		dev 
+ 
+Andrew_Rannells/uOZjTWh4vTQ_0000001 163.8 168.4 
+Andrew_Rannells/uOZjTWh4vTQ_0000002 208.1 223.4 
+Andrew_Rannells/uOZjTWh4vTQ_0000003 254.7 264.8 
+Andrew_Rannells/uOZjTWh4vTQ_0000004 271.5 278.3 
+Andrew_Rannells/uOZjTWh4vTQ_0000005 371.2 381.8 
+Andrew_Rannells/uOZjTWh4vTQ_0000006 382.6 389.4 

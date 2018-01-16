@@ -1,0 +1,13 @@
+POI: 			Ted_Danson 
+Youtube ID: 	TNKqI65yxZE 
+Video length: 	328.1 sec 
+Set (V): 		dev 
+ 
+Ted_Danson/TNKqI65yxZE_0000001 76.9 81.8 
+Ted_Danson/TNKqI65yxZE_0000002 93.8 98.4 
+Ted_Danson/TNKqI65yxZE_0000003 129.0 133.2 
+Ted_Danson/TNKqI65yxZE_0000004 139.3 147.1 
+Ted_Danson/TNKqI65yxZE_0000005 158.3 163.8 
+Ted_Danson/TNKqI65yxZE_0000006 241.1 248.0 
+Ted_Danson/TNKqI65yxZE_0000007 254.5 263.6 
+Ted_Danson/TNKqI65yxZE_0000008 272.0 276.5 

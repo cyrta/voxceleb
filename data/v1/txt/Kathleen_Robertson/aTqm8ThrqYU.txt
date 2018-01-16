@@ -1,0 +1,11 @@
+POI: 			Kathleen_Robertson 
+Youtube ID: 	aTqm8ThrqYU 
+Video length: 	94.5 sec 
+Set (V): 		dev 
+ 
+Kathleen_Robertson/aTqm8ThrqYU_0000001 15.5 20.9 
+Kathleen_Robertson/aTqm8ThrqYU_0000002 30.9 43.4 
+Kathleen_Robertson/aTqm8ThrqYU_0000003 47.2 52.1 
+Kathleen_Robertson/aTqm8ThrqYU_0000004 61.4 75.6 
+Kathleen_Robertson/aTqm8ThrqYU_0000005 76.6 84.3 
+Kathleen_Robertson/aTqm8ThrqYU_0000006 76.9 84.3 

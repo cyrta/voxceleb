@@ -1,0 +1,7 @@
+POI: 			Chris_Lowell 
+Youtube ID: 	fkJrepXSjno 
+Video length: 	252.2 sec 
+Set (V): 		dev 
+ 
+Chris_Lowell/fkJrepXSjno_0000001 66.2 73.4 
+Chris_Lowell/fkJrepXSjno_0000002 195.2 200.8 

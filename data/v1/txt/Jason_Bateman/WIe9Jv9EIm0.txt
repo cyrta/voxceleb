@@ -1,0 +1,13 @@
+POI: 			Jason_Bateman 
+Youtube ID: 	WIe9Jv9EIm0 
+Video length: 	619.5 sec 
+Set (V): 		dev 
+ 
+Jason_Bateman/WIe9Jv9EIm0_0000001 229.5 235.2 
+Jason_Bateman/WIe9Jv9EIm0_0000002 286.8 301.2 
+Jason_Bateman/WIe9Jv9EIm0_0000003 363.4 369.0 
+Jason_Bateman/WIe9Jv9EIm0_0000004 377.0 381.7 
+Jason_Bateman/WIe9Jv9EIm0_0000005 433.9 449.9 
+Jason_Bateman/WIe9Jv9EIm0_0000006 478.8 483.6 
+Jason_Bateman/WIe9Jv9EIm0_0000007 498.9 512.4 
+Jason_Bateman/WIe9Jv9EIm0_0000008 543.4 551.4 

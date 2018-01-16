@@ -1,0 +1,7 @@
+POI: 			Quentin_Tarantino 
+Youtube ID: 	f-bPjtUvWTg 
+Video length: 	886.3 sec 
+Set (V): 		dev 
+ 
+Quentin_Tarantino/f-bPjtUvWTg_0000001 208.4 213.4 
+Quentin_Tarantino/f-bPjtUvWTg_0000002 525.8 530.2 

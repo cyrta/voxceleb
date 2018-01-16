@@ -1,0 +1,8 @@
+POI: 			Paul_Dano 
+Youtube ID: 	MyPbLmXYxTs 
+Video length: 	151.5 sec 
+Set (V): 		dev 
+ 
+Paul_Dano/MyPbLmXYxTs_0000001 32.1 41.7 
+Paul_Dano/MyPbLmXYxTs_0000002 71.4 75.5 
+Paul_Dano/MyPbLmXYxTs_0000003 80.6 85.9 

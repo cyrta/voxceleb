@@ -1,0 +1,15 @@
+POI: 			Diane_Keaton 
+Youtube ID: 	DEjrEStUc5c 
+Video length: 	290.7 sec 
+Set (V): 		dev 
+ 
+Diane_Keaton/DEjrEStUc5c_0000001 07.0 11.6 
+Diane_Keaton/DEjrEStUc5c_0000002 56.3 60.8 
+Diane_Keaton/DEjrEStUc5c_0000003 63.7 67.8 
+Diane_Keaton/DEjrEStUc5c_0000004 78.3 90.8 
+Diane_Keaton/DEjrEStUc5c_0000005 91.2 108.0 
+Diane_Keaton/DEjrEStUc5c_0000006 114.2 127.4 
+Diane_Keaton/DEjrEStUc5c_0000007 133.1 139.0 
+Diane_Keaton/DEjrEStUc5c_0000008 153.5 164.7 
+Diane_Keaton/DEjrEStUc5c_0000009 165.6 171.8 
+Diane_Keaton/DEjrEStUc5c_0000010 217.9 227.5 

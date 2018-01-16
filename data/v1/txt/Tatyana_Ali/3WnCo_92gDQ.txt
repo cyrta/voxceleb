@@ -1,0 +1,9 @@
+POI: 			Tatyana_Ali 
+Youtube ID: 	3WnCo_92gDQ 
+Video length: 	112.2 sec 
+Set (V): 		dev 
+ 
+Tatyana_Ali/3WnCo_92gDQ_0000001 22.4 30.8 
+Tatyana_Ali/3WnCo_92gDQ_0000002 31.7 35.8 
+Tatyana_Ali/3WnCo_92gDQ_0000003 41.1 45.1 
+Tatyana_Ali/3WnCo_92gDQ_0000004 88.3 94.0 

@@ -1,0 +1,10 @@
+POI: 			Marla_Gibbs 
+Youtube ID: 	yhSVJ2a4M94 
+Video length: 	101.9 sec 
+Set (V): 		dev 
+ 
+Marla_Gibbs/yhSVJ2a4M94_0000001 06.3 29.8 
+Marla_Gibbs/yhSVJ2a4M94_0000002 30.6 61.1 
+Marla_Gibbs/yhSVJ2a4M94_0000003 62.2 66.8 
+Marla_Gibbs/yhSVJ2a4M94_0000004 73.6 80.3 
+Marla_Gibbs/yhSVJ2a4M94_0000005 84.0 89.4 

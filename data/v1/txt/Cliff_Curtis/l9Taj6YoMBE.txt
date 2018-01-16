@@ -1,0 +1,32 @@
+POI: 			Cliff_Curtis 
+Youtube ID: 	l9Taj6YoMBE 
+Video length: 	373.8 sec 
+Set (V): 		dev 
+ 
+Cliff_Curtis/l9Taj6YoMBE_0000001 05.4 14.6 
+Cliff_Curtis/l9Taj6YoMBE_0000002 15.2 30.9 
+Cliff_Curtis/l9Taj6YoMBE_0000003 34.6 56.8 
+Cliff_Curtis/l9Taj6YoMBE_0000004 71.5 83.7 
+Cliff_Curtis/l9Taj6YoMBE_0000005 92.8 111.4 
+Cliff_Curtis/l9Taj6YoMBE_0000006 112.1 116.2 
+Cliff_Curtis/l9Taj6YoMBE_0000007 116.6 127.2 
+Cliff_Curtis/l9Taj6YoMBE_0000008 128.3 141.8 
+Cliff_Curtis/l9Taj6YoMBE_0000009 142.1 146.2 
+Cliff_Curtis/l9Taj6YoMBE_0000010 150.7 161.7 
+Cliff_Curtis/l9Taj6YoMBE_0000011 175.8 181.6 
+Cliff_Curtis/l9Taj6YoMBE_0000012 188.9 194.6 
+Cliff_Curtis/l9Taj6YoMBE_0000013 196.5 204.8 
+Cliff_Curtis/l9Taj6YoMBE_0000014 216.3 220.5 
+Cliff_Curtis/l9Taj6YoMBE_0000015 225.7 231.2 
+Cliff_Curtis/l9Taj6YoMBE_0000016 251.5 261.6 
+Cliff_Curtis/l9Taj6YoMBE_0000017 236.4 242.5 
+Cliff_Curtis/l9Taj6YoMBE_0000018 251.0 256.5 
+Cliff_Curtis/l9Taj6YoMBE_0000019 274.9 299.1 
+Cliff_Curtis/l9Taj6YoMBE_0000020 300.2 306.6 
+Cliff_Curtis/l9Taj6YoMBE_0000021 306.8 311.1 
+Cliff_Curtis/l9Taj6YoMBE_0000022 323.9 328.3 
+Cliff_Curtis/l9Taj6YoMBE_0000023 330.5 335.7 
+Cliff_Curtis/l9Taj6YoMBE_0000024 336.6 342.7 
+Cliff_Curtis/l9Taj6YoMBE_0000025 343.5 347.5 
+Cliff_Curtis/l9Taj6YoMBE_0000026 356.0 363.0 
+Cliff_Curtis/l9Taj6YoMBE_0000027 363.0 367.1 

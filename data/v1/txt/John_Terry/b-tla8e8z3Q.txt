@@ -1,0 +1,13 @@
+POI: 			John_Terry 
+Youtube ID: 	b-tla8e8z3Q 
+Video length: 	372.9 sec 
+Set (V): 		dev 
+ 
+John_Terry/b-tla8e8z3Q_0000001 12.6 26.9 
+John_Terry/b-tla8e8z3Q_0000002 45.0 53.1 
+John_Terry/b-tla8e8z3Q_0000003 61.0 72.6 
+John_Terry/b-tla8e8z3Q_0000004 74.6 78.8 
+John_Terry/b-tla8e8z3Q_0000005 110.4 124.0 
+John_Terry/b-tla8e8z3Q_0000006 147.2 172.0 
+John_Terry/b-tla8e8z3Q_0000007 181.2 186.3 
+John_Terry/b-tla8e8z3Q_0000008 187.2 196.7 

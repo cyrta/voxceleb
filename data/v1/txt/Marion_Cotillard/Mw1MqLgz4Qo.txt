@@ -1,0 +1,13 @@
+POI: 			Marion_Cotillard 
+Youtube ID: 	Mw1MqLgz4Qo 
+Video length: 	505.4 sec 
+Set (V): 		dev 
+ 
+Marion_Cotillard/Mw1MqLgz4Qo_0000001 62.7 73.7 
+Marion_Cotillard/Mw1MqLgz4Qo_0000002 112.8 117.2 
+Marion_Cotillard/Mw1MqLgz4Qo_0000003 152.1 162.1 
+Marion_Cotillard/Mw1MqLgz4Qo_0000004 190.3 199.8 
+Marion_Cotillard/Mw1MqLgz4Qo_0000005 250.8 262.1 
+Marion_Cotillard/Mw1MqLgz4Qo_0000006 264.3 268.9 
+Marion_Cotillard/Mw1MqLgz4Qo_0000007 318.6 326.2 
+Marion_Cotillard/Mw1MqLgz4Qo_0000008 328.6 332.6 

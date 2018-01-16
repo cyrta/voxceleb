@@ -1,0 +1,18 @@
+POI: 			Rowan_Atkinson 
+Youtube ID: 	CTsrYU7Neng 
+Video length: 	287.5 sec 
+Set (V): 		dev 
+ 
+Rowan_Atkinson/CTsrYU7Neng_0000001 12.3 35.0 
+Rowan_Atkinson/CTsrYU7Neng_0000002 41.3 56.7 
+Rowan_Atkinson/CTsrYU7Neng_0000003 64.1 70.4 
+Rowan_Atkinson/CTsrYU7Neng_0000004 73.2 86.1 
+Rowan_Atkinson/CTsrYU7Neng_0000005 88.7 94.2 
+Rowan_Atkinson/CTsrYU7Neng_0000006 102.8 112.1 
+Rowan_Atkinson/CTsrYU7Neng_0000007 127.6 131.6 
+Rowan_Atkinson/CTsrYU7Neng_0000008 132.2 138.6 
+Rowan_Atkinson/CTsrYU7Neng_0000009 139.7 146.9 
+Rowan_Atkinson/CTsrYU7Neng_0000010 147.4 152.7 
+Rowan_Atkinson/CTsrYU7Neng_0000011 182.2 205.4 
+Rowan_Atkinson/CTsrYU7Neng_0000012 210.8 226.4 
+Rowan_Atkinson/CTsrYU7Neng_0000013 227.3 234.4 

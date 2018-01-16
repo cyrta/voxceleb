@@ -1,0 +1,20 @@
+POI: 			Sarah_Paulson 
+Youtube ID: 	P8-Fq-2Atiw 
+Video length: 	255.5 sec 
+Set (V): 		dev 
+ 
+Sarah_Paulson/P8-Fq-2Atiw_0000001 07.5 14.9 
+Sarah_Paulson/P8-Fq-2Atiw_0000002 15.1 21.0 
+Sarah_Paulson/P8-Fq-2Atiw_0000003 25.1 31.6 
+Sarah_Paulson/P8-Fq-2Atiw_0000004 36.6 43.2 
+Sarah_Paulson/P8-Fq-2Atiw_0000005 44.7 54.5 
+Sarah_Paulson/P8-Fq-2Atiw_0000006 71.3 112.3 
+Sarah_Paulson/P8-Fq-2Atiw_0000007 122.4 130.0 
+Sarah_Paulson/P8-Fq-2Atiw_0000008 131.9 147.8 
+Sarah_Paulson/P8-Fq-2Atiw_0000009 148.1 152.2 
+Sarah_Paulson/P8-Fq-2Atiw_0000010 153.1 167.7 
+Sarah_Paulson/P8-Fq-2Atiw_0000011 175.9 180.8 
+Sarah_Paulson/P8-Fq-2Atiw_0000012 192.8 200.1 
+Sarah_Paulson/P8-Fq-2Atiw_0000013 204.6 226.5 
+Sarah_Paulson/P8-Fq-2Atiw_0000014 229.3 237.7 
+Sarah_Paulson/P8-Fq-2Atiw_0000015 238.4 250.4 

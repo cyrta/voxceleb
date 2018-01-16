@@ -1,0 +1,9 @@
+POI: 			Thomas_Gibson 
+Youtube ID: 	L9mGtQ-dShY 
+Video length: 	110.9 sec 
+Set (V): 		dev 
+ 
+Thomas_Gibson/L9mGtQ-dShY_0000001 31.6 38.0 
+Thomas_Gibson/L9mGtQ-dShY_0000002 40.1 44.1 
+Thomas_Gibson/L9mGtQ-dShY_0000003 53.1 57.3 
+Thomas_Gibson/L9mGtQ-dShY_0000004 87.7 92.7 

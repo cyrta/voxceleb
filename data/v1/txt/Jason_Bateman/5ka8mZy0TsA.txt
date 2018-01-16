@@ -1,0 +1,7 @@
+POI: 			Jason_Bateman 
+Youtube ID: 	5ka8mZy0TsA 
+Video length: 	362.9 sec 
+Set (V): 		dev 
+ 
+Jason_Bateman/5ka8mZy0TsA_0000001 49.4 54.1 
+Jason_Bateman/5ka8mZy0TsA_0000002 118.2 128.7 

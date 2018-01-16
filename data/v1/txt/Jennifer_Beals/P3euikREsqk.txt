@@ -1,0 +1,37 @@
+POI: 			Jennifer_Beals 
+Youtube ID: 	P3euikREsqk 
+Video length: 	480.3 sec 
+Set (V): 		dev 
+ 
+Jennifer_Beals/P3euikREsqk_0000001 04.6 14.1 
+Jennifer_Beals/P3euikREsqk_0000002 29.5 37.6 
+Jennifer_Beals/P3euikREsqk_0000003 56.8 63.0 
+Jennifer_Beals/P3euikREsqk_0000004 66.3 75.0 
+Jennifer_Beals/P3euikREsqk_0000005 95.2 102.5 
+Jennifer_Beals/P3euikREsqk_0000006 111.9 132.4 
+Jennifer_Beals/P3euikREsqk_0000007 135.3 140.1 
+Jennifer_Beals/P3euikREsqk_0000008 144.8 149.0 
+Jennifer_Beals/P3euikREsqk_0000009 157.1 161.6 
+Jennifer_Beals/P3euikREsqk_0000010 168.9 182.8 
+Jennifer_Beals/P3euikREsqk_0000011 183.9 196.3 
+Jennifer_Beals/P3euikREsqk_0000012 203.7 209.0 
+Jennifer_Beals/P3euikREsqk_0000013 216.7 222.1 
+Jennifer_Beals/P3euikREsqk_0000014 231.1 237.3 
+Jennifer_Beals/P3euikREsqk_0000015 240.2 260.8 
+Jennifer_Beals/P3euikREsqk_0000016 261.6 287.2 
+Jennifer_Beals/P3euikREsqk_0000017 288.9 293.2 
+Jennifer_Beals/P3euikREsqk_0000018 294.5 300.6 
+Jennifer_Beals/P3euikREsqk_0000019 304.2 311.0 
+Jennifer_Beals/P3euikREsqk_0000020 312.8 330.0 
+Jennifer_Beals/P3euikREsqk_0000021 332.1 340.7 
+Jennifer_Beals/P3euikREsqk_0000022 352.1 363.8 
+Jennifer_Beals/P3euikREsqk_0000023 369.2 389.2 
+Jennifer_Beals/P3euikREsqk_0000024 389.4 399.8 
+Jennifer_Beals/P3euikREsqk_0000025 400.3 410.1 
+Jennifer_Beals/P3euikREsqk_0000026 433.4 438.4 
+Jennifer_Beals/P3euikREsqk_0000027 367.8 399.8 
+Jennifer_Beals/P3euikREsqk_0000028 400.4 417.2 
+Jennifer_Beals/P3euikREsqk_0000029 424.4 428.6 
+Jennifer_Beals/P3euikREsqk_0000030 433.5 440.4 
+Jennifer_Beals/P3euikREsqk_0000031 441.0 448.0 
+Jennifer_Beals/P3euikREsqk_0000032 450.3 472.2 

@@ -1,0 +1,20 @@
+POI: 			Ron_Jeremy 
+Youtube ID: 	yPTuXkaib88 
+Video length: 	1215.1 sec 
+Set (V): 		dev 
+ 
+Ron_Jeremy/yPTuXkaib88_0000001 270.6 274.6 
+Ron_Jeremy/yPTuXkaib88_0000002 361.8 365.9 
+Ron_Jeremy/yPTuXkaib88_0000003 372.4 376.6 
+Ron_Jeremy/yPTuXkaib88_0000004 395.5 406.4 
+Ron_Jeremy/yPTuXkaib88_0000005 408.6 414.4 
+Ron_Jeremy/yPTuXkaib88_0000006 449.4 455.6 
+Ron_Jeremy/yPTuXkaib88_0000007 502.0 508.4 
+Ron_Jeremy/yPTuXkaib88_0000008 508.6 515.3 
+Ron_Jeremy/yPTuXkaib88_0000009 530.0 543.0 
+Ron_Jeremy/yPTuXkaib88_0000010 544.8 563.0 
+Ron_Jeremy/yPTuXkaib88_0000011 602.4 608.1 
+Ron_Jeremy/yPTuXkaib88_0000012 983.3 987.6 
+Ron_Jeremy/yPTuXkaib88_0000013 998.6 1003.3 
+Ron_Jeremy/yPTuXkaib88_0000014 1093.1 1097.9 
+Ron_Jeremy/yPTuXkaib88_0000015 1151.6 1156.0 

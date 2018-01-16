@@ -1,0 +1,7 @@
+POI: 			Paget_Brewster 
+Youtube ID: 	V_VZXTGBkCw 
+Video length: 	147.6 sec 
+Set (V): 		dev 
+ 
+Paget_Brewster/V_VZXTGBkCw_0000001 21.8 26.8 
+Paget_Brewster/V_VZXTGBkCw_0000002 107.0 115.5 

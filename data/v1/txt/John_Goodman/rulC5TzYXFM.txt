@@ -1,0 +1,7 @@
+POI: 			John_Goodman 
+Youtube ID: 	rulC5TzYXFM 
+Video length: 	235.1 sec 
+Set (V): 		dev 
+ 
+John_Goodman/rulC5TzYXFM_0000001 40.2 46.8 
+John_Goodman/rulC5TzYXFM_0000002 47.1 56.9 

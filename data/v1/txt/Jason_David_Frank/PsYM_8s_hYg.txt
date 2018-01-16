@@ -1,0 +1,8 @@
+POI: 			Jason_David_Frank 
+Youtube ID: 	PsYM_8s_hYg 
+Video length: 	135.9 sec 
+Set (V): 		dev 
+ 
+Jason_David_Frank/PsYM_8s_hYg_0000001 22.3 45.5 
+Jason_David_Frank/PsYM_8s_hYg_0000002 59.7 69.8 
+Jason_David_Frank/PsYM_8s_hYg_0000003 91.4 95.5 

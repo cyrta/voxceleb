@@ -1,0 +1,10 @@
+POI: 			Jake_Abel 
+Youtube ID: 	Tcz0f3OV228 
+Video length: 	194.0 sec 
+Set (V): 		dev 
+ 
+Jake_Abel/Tcz0f3OV228_0000001 52.2 59.8 
+Jake_Abel/Tcz0f3OV228_0000002 79.4 85.0 
+Jake_Abel/Tcz0f3OV228_0000003 111.5 122.2 
+Jake_Abel/Tcz0f3OV228_0000004 138.9 145.2 
+Jake_Abel/Tcz0f3OV228_0000005 171.8 182.5 

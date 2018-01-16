@@ -1,0 +1,10 @@
+POI: 			Rob_Riggle 
+Youtube ID: 	VSow5Vm511s 
+Video length: 	105.7 sec 
+Set (V): 		dev 
+ 
+Rob_Riggle/VSow5Vm511s_0000001 09.8 14.9 
+Rob_Riggle/VSow5Vm511s_0000002 40.8 44.8 
+Rob_Riggle/VSow5Vm511s_0000003 58.8 63.6 
+Rob_Riggle/VSow5Vm511s_0000004 64.3 75.0 
+Rob_Riggle/VSow5Vm511s_0000005 77.0 81.4 

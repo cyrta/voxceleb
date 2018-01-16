@@ -1,0 +1,8 @@
+POI: 			Jared_Leto 
+Youtube ID: 	1br3VQlascs 
+Video length: 	218.1 sec 
+Set (V): 		dev 
+ 
+Jared_Leto/1br3VQlascs_0000001 33.9 43.2 
+Jared_Leto/1br3VQlascs_0000002 90.6 94.9 
+Jared_Leto/1br3VQlascs_0000003 122.0 129.7 

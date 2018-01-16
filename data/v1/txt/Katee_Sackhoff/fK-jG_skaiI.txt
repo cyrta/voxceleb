@@ -1,0 +1,7 @@
+POI: 			Katee_Sackhoff 
+Youtube ID: 	fK-jG_skaiI 
+Video length: 	279.4 sec 
+Set (V): 		dev 
+ 
+Katee_Sackhoff/fK-jG_skaiI_0000001 49.4 56.2 
+Katee_Sackhoff/fK-jG_skaiI_0000002 89.4 114.6 

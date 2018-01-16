@@ -1,0 +1,18 @@
+POI: 			Kym_Whitley 
+Youtube ID: 	nVuQSqcHzPA 
+Video length: 	271.6 sec 
+Set (V): 		dev 
+ 
+Kym_Whitley/nVuQSqcHzPA_0000001 54.1 65.4 
+Kym_Whitley/nVuQSqcHzPA_0000002 78.8 98.6 
+Kym_Whitley/nVuQSqcHzPA_0000003 112.5 117.8 
+Kym_Whitley/nVuQSqcHzPA_0000004 119.9 125.4 
+Kym_Whitley/nVuQSqcHzPA_0000005 141.0 153.6 
+Kym_Whitley/nVuQSqcHzPA_0000006 158.0 163.6 
+Kym_Whitley/nVuQSqcHzPA_0000007 173.5 185.9 
+Kym_Whitley/nVuQSqcHzPA_0000008 186.8 193.4 
+Kym_Whitley/nVuQSqcHzPA_0000009 196.0 205.1 
+Kym_Whitley/nVuQSqcHzPA_0000010 206.9 212.6 
+Kym_Whitley/nVuQSqcHzPA_0000011 213.2 218.4 
+Kym_Whitley/nVuQSqcHzPA_0000012 210.8 219.6 
+Kym_Whitley/nVuQSqcHzPA_0000013 236.5 256.0 

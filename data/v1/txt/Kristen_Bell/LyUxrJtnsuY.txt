@@ -1,0 +1,14 @@
+POI: 			Kristen_Bell 
+Youtube ID: 	LyUxrJtnsuY 
+Video length: 	243.0 sec 
+Set (V): 		dev 
+ 
+Kristen_Bell/LyUxrJtnsuY_0000001 48.1 54.5 
+Kristen_Bell/LyUxrJtnsuY_0000002 54.8 63.8 
+Kristen_Bell/LyUxrJtnsuY_0000003 64.6 69.9 
+Kristen_Bell/LyUxrJtnsuY_0000004 71.4 77.0 
+Kristen_Bell/LyUxrJtnsuY_0000005 155.0 162.2 
+Kristen_Bell/LyUxrJtnsuY_0000006 168.3 181.0 
+Kristen_Bell/LyUxrJtnsuY_0000007 179.8 188.0 
+Kristen_Bell/LyUxrJtnsuY_0000008 188.2 194.9 
+Kristen_Bell/LyUxrJtnsuY_0000009 219.5 227.9 

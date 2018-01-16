@@ -1,0 +1,11 @@
+POI: 			Debi_Mazar 
+Youtube ID: 	xx5-yC2Ma64 
+Video length: 	239.2 sec 
+Set (V): 		dev 
+ 
+Debi_Mazar/xx5-yC2Ma64_0000001 15.4 22.0 
+Debi_Mazar/xx5-yC2Ma64_0000002 79.7 86.9 
+Debi_Mazar/xx5-yC2Ma64_0000003 97.9 103.9 
+Debi_Mazar/xx5-yC2Ma64_0000004 111.7 116.7 
+Debi_Mazar/xx5-yC2Ma64_0000005 140.9 145.0 
+Debi_Mazar/xx5-yC2Ma64_0000006 206.7 211.4 

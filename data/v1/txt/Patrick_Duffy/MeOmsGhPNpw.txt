@@ -1,0 +1,8 @@
+POI: 			Patrick_Duffy 
+Youtube ID: 	MeOmsGhPNpw 
+Video length: 	187.2 sec 
+Set (V): 		dev 
+ 
+Patrick_Duffy/MeOmsGhPNpw_0000001 06.5 11.8 
+Patrick_Duffy/MeOmsGhPNpw_0000002 148.8 152.8 
+Patrick_Duffy/MeOmsGhPNpw_0000003 156.3 161.3 

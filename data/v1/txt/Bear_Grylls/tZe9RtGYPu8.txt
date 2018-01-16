@@ -1,0 +1,19 @@
+POI: 			Bear_Grylls 
+Youtube ID: 	tZe9RtGYPu8 
+Video length: 	346.9 sec 
+Set (V): 		dev 
+ 
+Bear_Grylls/tZe9RtGYPu8_0000001 47.4 57.4 
+Bear_Grylls/tZe9RtGYPu8_0000002 59.0 67.3 
+Bear_Grylls/tZe9RtGYPu8_0000003 72.4 91.1 
+Bear_Grylls/tZe9RtGYPu8_0000004 126.6 133.7 
+Bear_Grylls/tZe9RtGYPu8_0000005 153.8 162.2 
+Bear_Grylls/tZe9RtGYPu8_0000006 167.2 182.6 
+Bear_Grylls/tZe9RtGYPu8_0000007 209.0 219.2 
+Bear_Grylls/tZe9RtGYPu8_0000008 238.0 252.3 
+Bear_Grylls/tZe9RtGYPu8_0000009 257.7 261.7 
+Bear_Grylls/tZe9RtGYPu8_0000010 267.4 271.7 
+Bear_Grylls/tZe9RtGYPu8_0000011 276.9 284.0 
+Bear_Grylls/tZe9RtGYPu8_0000012 291.3 296.0 
+Bear_Grylls/tZe9RtGYPu8_0000013 300.9 305.2 
+Bear_Grylls/tZe9RtGYPu8_0000014 313.7 318.6 

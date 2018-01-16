@@ -1,0 +1,28 @@
+POI: 			Brendan_Gleeson 
+Youtube ID: 	skt7RVs2Exo 
+Video length: 	446.2 sec 
+Set (V): 		dev 
+ 
+Brendan_Gleeson/skt7RVs2Exo_0000001 04.1 10.6 
+Brendan_Gleeson/skt7RVs2Exo_0000002 19.9 43.0 
+Brendan_Gleeson/skt7RVs2Exo_0000003 45.6 49.7 
+Brendan_Gleeson/skt7RVs2Exo_0000004 54.0 58.9 
+Brendan_Gleeson/skt7RVs2Exo_0000005 77.8 86.5 
+Brendan_Gleeson/skt7RVs2Exo_0000006 87.3 93.1 
+Brendan_Gleeson/skt7RVs2Exo_0000007 106.8 117.1 
+Brendan_Gleeson/skt7RVs2Exo_0000008 121.4 127.0 
+Brendan_Gleeson/skt7RVs2Exo_0000009 140.2 144.8 
+Brendan_Gleeson/skt7RVs2Exo_0000010 154.9 162.4 
+Brendan_Gleeson/skt7RVs2Exo_0000011 163.1 168.9 
+Brendan_Gleeson/skt7RVs2Exo_0000012 171.5 178.6 
+Brendan_Gleeson/skt7RVs2Exo_0000013 180.2 184.5 
+Brendan_Gleeson/skt7RVs2Exo_0000014 211.5 219.0 
+Brendan_Gleeson/skt7RVs2Exo_0000015 219.3 226.6 
+Brendan_Gleeson/skt7RVs2Exo_0000016 230.7 237.8 
+Brendan_Gleeson/skt7RVs2Exo_0000017 247.0 257.2 
+Brendan_Gleeson/skt7RVs2Exo_0000018 288.3 301.0 
+Brendan_Gleeson/skt7RVs2Exo_0000019 301.9 315.4 
+Brendan_Gleeson/skt7RVs2Exo_0000020 343.6 354.5 
+Brendan_Gleeson/skt7RVs2Exo_0000021 375.4 384.2 
+Brendan_Gleeson/skt7RVs2Exo_0000022 411.3 417.7 
+Brendan_Gleeson/skt7RVs2Exo_0000023 426.3 434.5 

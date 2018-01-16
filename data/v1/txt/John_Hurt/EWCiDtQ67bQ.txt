@@ -1,0 +1,8 @@
+POI: 			John_Hurt 
+Youtube ID: 	EWCiDtQ67bQ 
+Video length: 	504.0 sec 
+Set (V): 		dev 
+ 
+John_Hurt/EWCiDtQ67bQ_0000001 311.7 316.4 
+John_Hurt/EWCiDtQ67bQ_0000002 328.8 333.6 
+John_Hurt/EWCiDtQ67bQ_0000003 351.7 357.3 

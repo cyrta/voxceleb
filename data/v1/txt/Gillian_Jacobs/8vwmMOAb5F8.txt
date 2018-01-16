@@ -1,0 +1,10 @@
+POI: 			Gillian_Jacobs 
+Youtube ID: 	8vwmMOAb5F8 
+Video length: 	136.2 sec 
+Set (V): 		dev 
+ 
+Gillian_Jacobs/8vwmMOAb5F8_0000001 61.2 70.7 
+Gillian_Jacobs/8vwmMOAb5F8_0000002 66.6 85.9 
+Gillian_Jacobs/8vwmMOAb5F8_0000003 86.5 104.6 
+Gillian_Jacobs/8vwmMOAb5F8_0000004 109.8 123.9 
+Gillian_Jacobs/8vwmMOAb5F8_0000005 129.8 134.3 

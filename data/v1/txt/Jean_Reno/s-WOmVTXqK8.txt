@@ -1,0 +1,7 @@
+POI: 			Jean_Reno 
+Youtube ID: 	s-WOmVTXqK8 
+Video length: 	1039.9 sec 
+Set (V): 		dev 
+ 
+Jean_Reno/s-WOmVTXqK8_0000001 68.2 72.7 
+Jean_Reno/s-WOmVTXqK8_0000002 266.5 271.9 

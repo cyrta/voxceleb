@@ -1,0 +1,7 @@
+POI: 			Kayvan_Novak 
+Youtube ID: 	gtQckRY6lTQ 
+Video length: 	175.1 sec 
+Set (V): 		dev 
+ 
+Kayvan_Novak/gtQckRY6lTQ_0000001 93.0 97.0 
+Kayvan_Novak/gtQckRY6lTQ_0000002 106.3 112.9 

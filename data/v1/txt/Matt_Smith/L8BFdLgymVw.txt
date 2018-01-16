@@ -1,0 +1,9 @@
+POI: 			Matt_Smith 
+Youtube ID: 	L8BFdLgymVw 
+Video length: 	76.1 sec 
+Set (V): 		dev 
+ 
+Matt_Smith/L8BFdLgymVw_0000001 14.0 24.8 
+Matt_Smith/L8BFdLgymVw_0000002 34.1 39.5 
+Matt_Smith/L8BFdLgymVw_0000003 44.2 51.2 
+Matt_Smith/L8BFdLgymVw_0000004 53.4 57.6 

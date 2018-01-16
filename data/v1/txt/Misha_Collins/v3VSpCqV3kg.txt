@@ -1,0 +1,16 @@
+POI: 			Misha_Collins 
+Youtube ID: 	v3VSpCqV3kg 
+Video length: 	416.5 sec 
+Set (V): 		dev 
+ 
+Misha_Collins/v3VSpCqV3kg_0000001 32.2 44.2 
+Misha_Collins/v3VSpCqV3kg_0000002 97.4 102.6 
+Misha_Collins/v3VSpCqV3kg_0000003 113.2 119.8 
+Misha_Collins/v3VSpCqV3kg_0000004 123.6 141.8 
+Misha_Collins/v3VSpCqV3kg_0000005 186.8 194.3 
+Misha_Collins/v3VSpCqV3kg_0000006 203.7 209.3 
+Misha_Collins/v3VSpCqV3kg_0000007 211.4 215.4 
+Misha_Collins/v3VSpCqV3kg_0000008 215.6 232.2 
+Misha_Collins/v3VSpCqV3kg_0000009 363.2 376.7 
+Misha_Collins/v3VSpCqV3kg_0000010 377.9 382.1 
+Misha_Collins/v3VSpCqV3kg_0000011 382.8 387.1 

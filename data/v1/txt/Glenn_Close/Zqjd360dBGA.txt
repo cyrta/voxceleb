@@ -1,0 +1,14 @@
+POI: 			Glenn_Close 
+Youtube ID: 	Zqjd360dBGA 
+Video length: 	453.8 sec 
+Set (V): 		dev 
+ 
+Glenn_Close/Zqjd360dBGA_0000001 95.4 106.2 
+Glenn_Close/Zqjd360dBGA_0000002 118.8 124.0 
+Glenn_Close/Zqjd360dBGA_0000003 134.8 139.3 
+Glenn_Close/Zqjd360dBGA_0000004 204.8 216.3 
+Glenn_Close/Zqjd360dBGA_0000005 221.4 228.4 
+Glenn_Close/Zqjd360dBGA_0000006 279.8 284.3 
+Glenn_Close/Zqjd360dBGA_0000007 288.7 294.9 
+Glenn_Close/Zqjd360dBGA_0000008 299.2 318.2 
+Glenn_Close/Zqjd360dBGA_0000009 369.0 374.6 

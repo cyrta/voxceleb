@@ -1,0 +1,10 @@
+POI: 			Diane_Kruger 
+Youtube ID: 	neIYr0ntxzQ 
+Video length: 	197.9 sec 
+Set (V): 		dev 
+ 
+Diane_Kruger/neIYr0ntxzQ_0000001 47.5 55.2 
+Diane_Kruger/neIYr0ntxzQ_0000002 64.1 69.7 
+Diane_Kruger/neIYr0ntxzQ_0000003 97.4 102.4 
+Diane_Kruger/neIYr0ntxzQ_0000004 122.2 126.2 
+Diane_Kruger/neIYr0ntxzQ_0000005 163.6 191.4 

@@ -1,0 +1,13 @@
+POI: 			Drew_Roy 
+Youtube ID: 	0n-lZM4WrOc 
+Video length: 	223.0 sec 
+Set (V): 		dev 
+ 
+Drew_Roy/0n-lZM4WrOc_0000001 21.0 31.3 
+Drew_Roy/0n-lZM4WrOc_0000002 33.2 65.8 
+Drew_Roy/0n-lZM4WrOc_0000003 74.0 86.3 
+Drew_Roy/0n-lZM4WrOc_0000004 83.6 99.5 
+Drew_Roy/0n-lZM4WrOc_0000005 100.2 119.7 
+Drew_Roy/0n-lZM4WrOc_0000006 131.1 176.6 
+Drew_Roy/0n-lZM4WrOc_0000007 197.6 201.9 
+Drew_Roy/0n-lZM4WrOc_0000008 206.9 211.6 

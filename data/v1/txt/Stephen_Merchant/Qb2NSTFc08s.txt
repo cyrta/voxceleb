@@ -1,0 +1,12 @@
+POI: 			Stephen_Merchant 
+Youtube ID: 	Qb2NSTFc08s 
+Video length: 	302.4 sec 
+Set (V): 		dev 
+ 
+Stephen_Merchant/Qb2NSTFc08s_0000001 53.4 58.5 
+Stephen_Merchant/Qb2NSTFc08s_0000002 64.4 71.6 
+Stephen_Merchant/Qb2NSTFc08s_0000003 126.2 130.8 
+Stephen_Merchant/Qb2NSTFc08s_0000004 148.4 153.5 
+Stephen_Merchant/Qb2NSTFc08s_0000005 164.4 171.2 
+Stephen_Merchant/Qb2NSTFc08s_0000006 202.4 209.9 
+Stephen_Merchant/Qb2NSTFc08s_0000007 217.5 225.0 

@@ -1,0 +1,11 @@
+POI: 			Suzanne_Pleshette 
+Youtube ID: 	KVQQOno3JdU 
+Video length: 	123.8 sec 
+Set (V): 		dev 
+ 
+Suzanne_Pleshette/KVQQOno3JdU_0000001 07.9 12.6 
+Suzanne_Pleshette/KVQQOno3JdU_0000002 31.0 37.2 
+Suzanne_Pleshette/KVQQOno3JdU_0000003 40.5 55.6 
+Suzanne_Pleshette/KVQQOno3JdU_0000004 66.4 72.2 
+Suzanne_Pleshette/KVQQOno3JdU_0000005 81.5 88.7 
+Suzanne_Pleshette/KVQQOno3JdU_0000006 97.2 112.4 

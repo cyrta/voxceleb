@@ -1,0 +1,27 @@
+POI: 			Jeffrey_Wright 
+Youtube ID: 	DA6xmL2Z4RU 
+Video length: 	517.9 sec 
+Set (V): 		dev 
+ 
+Jeffrey_Wright/DA6xmL2Z4RU_0000001 22.1 43.2 
+Jeffrey_Wright/DA6xmL2Z4RU_0000002 43.7 50.6 
+Jeffrey_Wright/DA6xmL2Z4RU_0000003 56.6 63.3 
+Jeffrey_Wright/DA6xmL2Z4RU_0000004 68.0 85.3 
+Jeffrey_Wright/DA6xmL2Z4RU_0000005 87.5 93.9 
+Jeffrey_Wright/DA6xmL2Z4RU_0000006 64.3 68.6 
+Jeffrey_Wright/DA6xmL2Z4RU_0000007 84.3 90.7 
+Jeffrey_Wright/DA6xmL2Z4RU_0000008 102.0 110.8 
+Jeffrey_Wright/DA6xmL2Z4RU_0000009 118.7 133.5 
+Jeffrey_Wright/DA6xmL2Z4RU_0000010 147.0 159.9 
+Jeffrey_Wright/DA6xmL2Z4RU_0000011 205.0 227.2 
+Jeffrey_Wright/DA6xmL2Z4RU_0000012 227.4 235.3 
+Jeffrey_Wright/DA6xmL2Z4RU_0000013 282.1 298.1 
+Jeffrey_Wright/DA6xmL2Z4RU_0000014 308.9 329.2 
+Jeffrey_Wright/DA6xmL2Z4RU_0000015 329.4 334.5 
+Jeffrey_Wright/DA6xmL2Z4RU_0000016 339.9 350.5 
+Jeffrey_Wright/DA6xmL2Z4RU_0000017 366.3 380.0 
+Jeffrey_Wright/DA6xmL2Z4RU_0000018 395.0 403.6 
+Jeffrey_Wright/DA6xmL2Z4RU_0000019 421.3 442.5 
+Jeffrey_Wright/DA6xmL2Z4RU_0000020 457.9 472.2 
+Jeffrey_Wright/DA6xmL2Z4RU_0000021 493.1 497.4 
+Jeffrey_Wright/DA6xmL2Z4RU_0000022 502.8 508.5 

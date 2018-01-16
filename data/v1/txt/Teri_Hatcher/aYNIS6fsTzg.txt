@@ -1,0 +1,19 @@
+POI: 			Teri_Hatcher 
+Youtube ID: 	aYNIS6fsTzg 
+Video length: 	261.5 sec 
+Set (V): 		dev 
+ 
+Teri_Hatcher/aYNIS6fsTzg_0000001 16.0 28.4 
+Teri_Hatcher/aYNIS6fsTzg_0000002 29.6 34.7 
+Teri_Hatcher/aYNIS6fsTzg_0000003 18.5 28.5 
+Teri_Hatcher/aYNIS6fsTzg_0000004 29.5 45.1 
+Teri_Hatcher/aYNIS6fsTzg_0000005 46.0 53.3 
+Teri_Hatcher/aYNIS6fsTzg_0000006 62.0 66.9 
+Teri_Hatcher/aYNIS6fsTzg_0000007 68.1 86.7 
+Teri_Hatcher/aYNIS6fsTzg_0000008 88.0 97.1 
+Teri_Hatcher/aYNIS6fsTzg_0000009 100.5 107.8 
+Teri_Hatcher/aYNIS6fsTzg_0000010 123.6 140.0 
+Teri_Hatcher/aYNIS6fsTzg_0000011 150.6 165.3 
+Teri_Hatcher/aYNIS6fsTzg_0000012 177.3 182.8 
+Teri_Hatcher/aYNIS6fsTzg_0000013 207.4 212.1 
+Teri_Hatcher/aYNIS6fsTzg_0000014 212.9 224.0 

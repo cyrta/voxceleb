@@ -1,0 +1,25 @@
+POI: 			Rory_Kennedy 
+Youtube ID: 	nCmYrv7gQQA 
+Video length: 	649.0 sec 
+Set (V): 		dev 
+ 
+Rory_Kennedy/nCmYrv7gQQA_0000001 59.3 66.9 
+Rory_Kennedy/nCmYrv7gQQA_0000002 77.1 86.7 
+Rory_Kennedy/nCmYrv7gQQA_0000003 87.6 91.6 
+Rory_Kennedy/nCmYrv7gQQA_0000004 156.6 161.9 
+Rory_Kennedy/nCmYrv7gQQA_0000005 162.2 172.8 
+Rory_Kennedy/nCmYrv7gQQA_0000006 174.0 181.7 
+Rory_Kennedy/nCmYrv7gQQA_0000007 213.8 220.2 
+Rory_Kennedy/nCmYrv7gQQA_0000008 220.4 224.8 
+Rory_Kennedy/nCmYrv7gQQA_0000009 244.6 255.6 
+Rory_Kennedy/nCmYrv7gQQA_0000010 260.4 272.9 
+Rory_Kennedy/nCmYrv7gQQA_0000011 282.4 289.1 
+Rory_Kennedy/nCmYrv7gQQA_0000012 301.2 305.1 
+Rory_Kennedy/nCmYrv7gQQA_0000013 371.1 384.1 
+Rory_Kennedy/nCmYrv7gQQA_0000014 384.8 393.2 
+Rory_Kennedy/nCmYrv7gQQA_0000015 467.8 473.3 
+Rory_Kennedy/nCmYrv7gQQA_0000016 500.4 505.6 
+Rory_Kennedy/nCmYrv7gQQA_0000017 563.7 567.8 
+Rory_Kennedy/nCmYrv7gQQA_0000018 574.0 581.2 
+Rory_Kennedy/nCmYrv7gQQA_0000019 581.4 585.7 
+Rory_Kennedy/nCmYrv7gQQA_0000020 586.3 598.9 

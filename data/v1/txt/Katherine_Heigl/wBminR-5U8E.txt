@@ -1,0 +1,8 @@
+POI: 			Katherine_Heigl 
+Youtube ID: 	wBminR-5U8E 
+Video length: 	570.4 sec 
+Set (V): 		dev 
+ 
+Katherine_Heigl/wBminR-5U8E_0000001 139.1 146.8 
+Katherine_Heigl/wBminR-5U8E_0000002 207.0 219.5 
+Katherine_Heigl/wBminR-5U8E_0000003 321.6 329.5 

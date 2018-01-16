@@ -1,0 +1,14 @@
+POI: 			Stanley_Tucci 
+Youtube ID: 	pAW8CoEBRFQ 
+Video length: 	313.0 sec 
+Set (V): 		dev 
+ 
+Stanley_Tucci/pAW8CoEBRFQ_0000001 14.8 20.9 
+Stanley_Tucci/pAW8CoEBRFQ_0000002 53.4 57.8 
+Stanley_Tucci/pAW8CoEBRFQ_0000003 59.1 63.8 
+Stanley_Tucci/pAW8CoEBRFQ_0000004 122.0 126.6 
+Stanley_Tucci/pAW8CoEBRFQ_0000005 174.9 180.4 
+Stanley_Tucci/pAW8CoEBRFQ_0000006 189.6 196.5 
+Stanley_Tucci/pAW8CoEBRFQ_0000007 212.3 220.8 
+Stanley_Tucci/pAW8CoEBRFQ_0000008 238.5 247.4 
+Stanley_Tucci/pAW8CoEBRFQ_0000009 285.9 291.4 

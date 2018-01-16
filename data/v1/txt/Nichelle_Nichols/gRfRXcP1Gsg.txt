@@ -1,0 +1,12 @@
+POI: 			Nichelle_Nichols 
+Youtube ID: 	gRfRXcP1Gsg 
+Video length: 	195.4 sec 
+Set (V): 		dev 
+ 
+Nichelle_Nichols/gRfRXcP1Gsg_0000001 35.0 40.6 
+Nichelle_Nichols/gRfRXcP1Gsg_0000002 65.4 69.4 
+Nichelle_Nichols/gRfRXcP1Gsg_0000003 111.5 119.2 
+Nichelle_Nichols/gRfRXcP1Gsg_0000004 126.0 133.6 
+Nichelle_Nichols/gRfRXcP1Gsg_0000005 134.8 139.2 
+Nichelle_Nichols/gRfRXcP1Gsg_0000006 152.3 157.7 
+Nichelle_Nichols/gRfRXcP1Gsg_0000007 165.2 170.7 

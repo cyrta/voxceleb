@@ -1,0 +1,14 @@
+POI: 			Jessie_J 
+Youtube ID: 	NixjQzSd930 
+Video length: 	437.8 sec 
+Set (V): 		dev 
+ 
+Jessie_J/NixjQzSd930_0000001 116.6 121.1 
+Jessie_J/NixjQzSd930_0000002 136.2 141.0 
+Jessie_J/NixjQzSd930_0000003 149.2 154.3 
+Jessie_J/NixjQzSd930_0000004 189.7 194.0 
+Jessie_J/NixjQzSd930_0000005 203.8 209.1 
+Jessie_J/NixjQzSd930_0000006 247.6 251.7 
+Jessie_J/NixjQzSd930_0000007 262.0 266.8 
+Jessie_J/NixjQzSd930_0000008 353.0 361.8 
+Jessie_J/NixjQzSd930_0000009 392.9 399.6 

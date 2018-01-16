@@ -1,0 +1,16 @@
+POI: 			Meredith_Baxter 
+Youtube ID: 	rJtViJxHJts 
+Video length: 	265.0 sec 
+Set (V): 		dev 
+ 
+Meredith_Baxter/rJtViJxHJts_0000001 47.8 52.7 
+Meredith_Baxter/rJtViJxHJts_0000002 62.0 70.5 
+Meredith_Baxter/rJtViJxHJts_0000003 85.6 93.0 
+Meredith_Baxter/rJtViJxHJts_0000004 100.6 105.2 
+Meredith_Baxter/rJtViJxHJts_0000005 112.1 119.3 
+Meredith_Baxter/rJtViJxHJts_0000006 123.4 134.0 
+Meredith_Baxter/rJtViJxHJts_0000007 151.0 165.3 
+Meredith_Baxter/rJtViJxHJts_0000008 174.2 178.4 
+Meredith_Baxter/rJtViJxHJts_0000009 199.5 218.4 
+Meredith_Baxter/rJtViJxHJts_0000010 228.3 233.6 
+Meredith_Baxter/rJtViJxHJts_0000011 241.1 250.1 

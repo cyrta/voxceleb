@@ -1,0 +1,15 @@
+POI: 			Fiona_Shaw 
+Youtube ID: 	X0KzvvCbNQk 
+Video length: 	835.1 sec 
+Set (V): 		dev 
+ 
+Fiona_Shaw/X0KzvvCbNQk_0000001 31.5 35.4 
+Fiona_Shaw/X0KzvvCbNQk_0000002 38.6 43.4 
+Fiona_Shaw/X0KzvvCbNQk_0000003 78.7 86.2 
+Fiona_Shaw/X0KzvvCbNQk_0000004 86.8 92.7 
+Fiona_Shaw/X0KzvvCbNQk_0000005 134.8 142.6 
+Fiona_Shaw/X0KzvvCbNQk_0000006 179.6 185.0 
+Fiona_Shaw/X0KzvvCbNQk_0000007 268.5 275.1 
+Fiona_Shaw/X0KzvvCbNQk_0000008 433.1 439.3 
+Fiona_Shaw/X0KzvvCbNQk_0000009 453.0 460.4 
+Fiona_Shaw/X0KzvvCbNQk_0000010 758.5 768.8 

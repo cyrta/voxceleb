@@ -1,0 +1,8 @@
+POI: 			Dawn_French 
+Youtube ID: 	WLGlJpY4Tc4 
+Video length: 	326.1 sec 
+Set (V): 		dev 
+ 
+Dawn_French/WLGlJpY4Tc4_0000001 34.3 40.4 
+Dawn_French/WLGlJpY4Tc4_0000002 128.3 134.7 
+Dawn_French/WLGlJpY4Tc4_0000003 254.7 259.8 

@@ -1,0 +1,41 @@
+POI: 			David_Zayas 
+Youtube ID: 	rj8yB7i97nk 
+Video length: 	1865.3 sec 
+Set (V): 		dev 
+ 
+David_Zayas/rj8yB7i97nk_0000001 102.5 113.4 
+David_Zayas/rj8yB7i97nk_0000002 116.3 133.4 
+David_Zayas/rj8yB7i97nk_0000003 147.8 152.4 
+David_Zayas/rj8yB7i97nk_0000004 174.3 180.4 
+David_Zayas/rj8yB7i97nk_0000005 185.9 196.9 
+David_Zayas/rj8yB7i97nk_0000006 207.0 221.1 
+David_Zayas/rj8yB7i97nk_0000007 213.0 224.9 
+David_Zayas/rj8yB7i97nk_0000008 319.6 329.4 
+David_Zayas/rj8yB7i97nk_0000009 334.9 349.9 
+David_Zayas/rj8yB7i97nk_0000010 350.1 355.8 
+David_Zayas/rj8yB7i97nk_0000011 356.0 360.8 
+David_Zayas/rj8yB7i97nk_0000012 491.0 500.4 
+David_Zayas/rj8yB7i97nk_0000013 505.3 517.4 
+David_Zayas/rj8yB7i97nk_0000014 544.4 548.5 
+David_Zayas/rj8yB7i97nk_0000015 556.4 562.2 
+David_Zayas/rj8yB7i97nk_0000016 687.5 700.2 
+David_Zayas/rj8yB7i97nk_0000017 743.1 747.6 
+David_Zayas/rj8yB7i97nk_0000018 785.0 791.6 
+David_Zayas/rj8yB7i97nk_0000019 817.9 832.8 
+David_Zayas/rj8yB7i97nk_0000020 838.6 850.1 
+David_Zayas/rj8yB7i97nk_0000021 850.9 864.2 
+David_Zayas/rj8yB7i97nk_0000022 955.5 962.9 
+David_Zayas/rj8yB7i97nk_0000023 967.6 984.4 
+David_Zayas/rj8yB7i97nk_0000024 985.5 990.0 
+David_Zayas/rj8yB7i97nk_0000025 1139.5 1144.0 
+David_Zayas/rj8yB7i97nk_0000026 1211.8 1230.4 
+David_Zayas/rj8yB7i97nk_0000027 1235.5 1262.0 
+David_Zayas/rj8yB7i97nk_0000028 1263.3 1271.6 
+David_Zayas/rj8yB7i97nk_0000029 1484.3 1494.6 
+David_Zayas/rj8yB7i97nk_0000030 1615.0 1620.6 
+David_Zayas/rj8yB7i97nk_0000031 1624.7 1628.7 
+David_Zayas/rj8yB7i97nk_0000032 1628.9 1640.5 
+David_Zayas/rj8yB7i97nk_0000033 1642.7 1650.0 
+David_Zayas/rj8yB7i97nk_0000034 1700.2 1704.6 
+David_Zayas/rj8yB7i97nk_0000035 1711.2 1717.4 
+David_Zayas/rj8yB7i97nk_0000036 1728.3 1741.6 

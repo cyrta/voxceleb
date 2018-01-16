@@ -1,0 +1,15 @@
+POI: 			Adam_Brody 
+Youtube ID: 	zJHub1wydMw 
+Video length: 	306.2 sec 
+Set (V): 		dev 
+ 
+Adam_Brody/zJHub1wydMw_0000001 142.6 146.9 
+Adam_Brody/zJHub1wydMw_0000002 147.5 157.0 
+Adam_Brody/zJHub1wydMw_0000003 176.9 201.4 
+Adam_Brody/zJHub1wydMw_0000004 202.8 207.0 
+Adam_Brody/zJHub1wydMw_0000005 209.1 213.0 
+Adam_Brody/zJHub1wydMw_0000006 215.0 233.1 
+Adam_Brody/zJHub1wydMw_0000007 247.0 255.4 
+Adam_Brody/zJHub1wydMw_0000008 268.9 277.6 
+Adam_Brody/zJHub1wydMw_0000009 278.2 287.8 
+Adam_Brody/zJHub1wydMw_0000010 288.2 301.6 

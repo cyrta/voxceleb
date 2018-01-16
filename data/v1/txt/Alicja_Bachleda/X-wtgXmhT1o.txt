@@ -1,0 +1,15 @@
+POI: 			Alicja_Bachleda 
+Youtube ID: 	X-wtgXmhT1o 
+Video length: 	339.3 sec 
+Set (V): 		dev 
+ 
+Alicja_Bachleda/X-wtgXmhT1o_0000001 16.1 20.3 
+Alicja_Bachleda/X-wtgXmhT1o_0000002 21.0 26.0 
+Alicja_Bachleda/X-wtgXmhT1o_0000003 26.3 35.9 
+Alicja_Bachleda/X-wtgXmhT1o_0000004 86.4 90.4 
+Alicja_Bachleda/X-wtgXmhT1o_0000005 237.7 250.0 
+Alicja_Bachleda/X-wtgXmhT1o_0000006 260.8 272.2 
+Alicja_Bachleda/X-wtgXmhT1o_0000007 287.9 293.9 
+Alicja_Bachleda/X-wtgXmhT1o_0000008 302.5 309.6 
+Alicja_Bachleda/X-wtgXmhT1o_0000009 310.2 314.8 
+Alicja_Bachleda/X-wtgXmhT1o_0000010 318.6 326.4 

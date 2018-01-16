@@ -1,0 +1,9 @@
+POI: 			Zac_Efron 
+Youtube ID: 	6-oQlSgLiFw 
+Video length: 	270.6 sec 
+Set (V): 		dev 
+ 
+Zac_Efron/6-oQlSgLiFw_0000001 16.6 25.7 
+Zac_Efron/6-oQlSgLiFw_0000002 26.9 34.2 
+Zac_Efron/6-oQlSgLiFw_0000003 68.1 83.7 
+Zac_Efron/6-oQlSgLiFw_0000004 130.2 135.0 

@@ -1,0 +1,12 @@
+POI: 			Gugu_Mbatha-Raw 
+Youtube ID: 	p-5Dli4RnPw 
+Video length: 	167.4 sec 
+Set (V): 		dev 
+ 
+Gugu_Mbatha-Raw/p-5Dli4RnPw_0000001 20.7 35.2 
+Gugu_Mbatha-Raw/p-5Dli4RnPw_0000002 36.0 40.5 
+Gugu_Mbatha-Raw/p-5Dli4RnPw_0000003 72.8 83.5 
+Gugu_Mbatha-Raw/p-5Dli4RnPw_0000004 89.6 101.2 
+Gugu_Mbatha-Raw/p-5Dli4RnPw_0000005 101.8 106.6 
+Gugu_Mbatha-Raw/p-5Dli4RnPw_0000006 110.3 122.6 
+Gugu_Mbatha-Raw/p-5Dli4RnPw_0000007 122.8 142.1 

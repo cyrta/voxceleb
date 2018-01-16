@@ -1,0 +1,15 @@
+POI: 			Janet_Montgomery 
+Youtube ID: 	lzvhQ6RqrXk 
+Video length: 	278.7 sec 
+Set (V): 		dev 
+ 
+Janet_Montgomery/lzvhQ6RqrXk_0000001 08.9 15.8 
+Janet_Montgomery/lzvhQ6RqrXk_0000002 19.0 35.5 
+Janet_Montgomery/lzvhQ6RqrXk_0000003 62.3 75.9 
+Janet_Montgomery/lzvhQ6RqrXk_0000004 81.0 87.6 
+Janet_Montgomery/lzvhQ6RqrXk_0000005 88.1 97.5 
+Janet_Montgomery/lzvhQ6RqrXk_0000006 102.8 110.0 
+Janet_Montgomery/lzvhQ6RqrXk_0000007 185.1 193.2 
+Janet_Montgomery/lzvhQ6RqrXk_0000008 193.4 199.3 
+Janet_Montgomery/lzvhQ6RqrXk_0000009 215.8 226.4 
+Janet_Montgomery/lzvhQ6RqrXk_0000010 227.5 231.5 

@@ -1,0 +1,9 @@
+POI: 			Hannah_Spearritt 
+Youtube ID: 	YinVVNxejH4 
+Video length: 	65.1 sec 
+Set (V): 		dev 
+ 
+Hannah_Spearritt/YinVVNxejH4_0000001 11.0 15.2 
+Hannah_Spearritt/YinVVNxejH4_0000002 29.8 34.0 
+Hannah_Spearritt/YinVVNxejH4_0000003 40.4 46.8 
+Hannah_Spearritt/YinVVNxejH4_0000004 47.0 53.2 

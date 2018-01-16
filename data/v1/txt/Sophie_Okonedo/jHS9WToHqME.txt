@@ -1,0 +1,9 @@
+POI: 			Sophie_Okonedo 
+Youtube ID: 	jHS9WToHqME 
+Video length: 	60.4 sec 
+Set (V): 		dev 
+ 
+Sophie_Okonedo/jHS9WToHqME_0000001 06.9 11.6 
+Sophie_Okonedo/jHS9WToHqME_0000002 18.6 28.3 
+Sophie_Okonedo/jHS9WToHqME_0000003 28.6 32.7 
+Sophie_Okonedo/jHS9WToHqME_0000004 45.6 51.5 

@@ -1,0 +1,18 @@
+POI: 			Seth_MacFarlane 
+Youtube ID: 	N4dL_hAI6TY 
+Video length: 	242.1 sec 
+Set (V): 		dev 
+ 
+Seth_MacFarlane/N4dL_hAI6TY_0000001 13.3 23.6 
+Seth_MacFarlane/N4dL_hAI6TY_0000002 32.0 39.8 
+Seth_MacFarlane/N4dL_hAI6TY_0000003 48.3 55.7 
+Seth_MacFarlane/N4dL_hAI6TY_0000004 70.4 80.0 
+Seth_MacFarlane/N4dL_hAI6TY_0000005 81.4 87.8 
+Seth_MacFarlane/N4dL_hAI6TY_0000006 95.9 103.2 
+Seth_MacFarlane/N4dL_hAI6TY_0000007 105.1 109.2 
+Seth_MacFarlane/N4dL_hAI6TY_0000008 132.1 142.8 
+Seth_MacFarlane/N4dL_hAI6TY_0000009 147.5 152.0 
+Seth_MacFarlane/N4dL_hAI6TY_0000010 155.6 159.9 
+Seth_MacFarlane/N4dL_hAI6TY_0000011 189.2 193.3 
+Seth_MacFarlane/N4dL_hAI6TY_0000012 193.7 200.9 
+Seth_MacFarlane/N4dL_hAI6TY_0000013 212.9 217.4 

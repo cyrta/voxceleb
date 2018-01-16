@@ -1,0 +1,11 @@
+POI: 			Jason_Segel 
+Youtube ID: 	laMM3OIbFgo 
+Video length: 	434.5 sec 
+Set (V): 		dev 
+ 
+Jason_Segel/laMM3OIbFgo_0000001 77.8 87.2 
+Jason_Segel/laMM3OIbFgo_0000002 114.6 128.4 
+Jason_Segel/laMM3OIbFgo_0000003 250.0 254.1 
+Jason_Segel/laMM3OIbFgo_0000004 297.7 302.1 
+Jason_Segel/laMM3OIbFgo_0000005 311.9 316.8 
+Jason_Segel/laMM3OIbFgo_0000006 334.2 343.9 

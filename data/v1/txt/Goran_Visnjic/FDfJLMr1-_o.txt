@@ -1,0 +1,10 @@
+POI: 			Goran_Visnjic 
+Youtube ID: 	FDfJLMr1-_o 
+Video length: 	192.2 sec 
+Set (V): 		dev 
+ 
+Goran_Visnjic/FDfJLMr1-_o_0000001 15.6 28.7 
+Goran_Visnjic/FDfJLMr1-_o_0000002 67.8 72.4 
+Goran_Visnjic/FDfJLMr1-_o_0000003 74.2 86.8 
+Goran_Visnjic/FDfJLMr1-_o_0000004 112.0 127.5 
+Goran_Visnjic/FDfJLMr1-_o_0000005 138.5 152.0 

@@ -1,0 +1,14 @@
+POI: 			Kenton_Duty 
+Youtube ID: 	vypQg3PxBak 
+Video length: 	243.4 sec 
+Set (V): 		dev 
+ 
+Kenton_Duty/vypQg3PxBak_0000001 47.7 51.8 
+Kenton_Duty/vypQg3PxBak_0000002 81.8 90.3 
+Kenton_Duty/vypQg3PxBak_0000003 90.4 98.2 
+Kenton_Duty/vypQg3PxBak_0000004 103.2 109.6 
+Kenton_Duty/vypQg3PxBak_0000005 124.4 130.8 
+Kenton_Duty/vypQg3PxBak_0000006 140.0 144.5 
+Kenton_Duty/vypQg3PxBak_0000007 146.8 151.8 
+Kenton_Duty/vypQg3PxBak_0000008 177.2 181.6 
+Kenton_Duty/vypQg3PxBak_0000009 202.7 208.2 

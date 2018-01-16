@@ -1,0 +1,7 @@
+POI: 			Alice_Eve 
+Youtube ID: 	ayjl2VGjwKk 
+Video length: 	161.8 sec 
+Set (V): 		dev 
+ 
+Alice_Eve/ayjl2VGjwKk_0000001 00.8 06.4 
+Alice_Eve/ayjl2VGjwKk_0000002 111.8 115.8 

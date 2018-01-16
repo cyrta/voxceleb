@@ -1,0 +1,12 @@
+POI: 			Ryan_McPartlin 
+Youtube ID: 	HbcHrQwLQ1U 
+Video length: 	191.8 sec 
+Set (V): 		dev 
+ 
+Ryan_McPartlin/HbcHrQwLQ1U_0000001 01.6 13.5 
+Ryan_McPartlin/HbcHrQwLQ1U_0000002 31.7 39.9 
+Ryan_McPartlin/HbcHrQwLQ1U_0000003 44.0 48.7 
+Ryan_McPartlin/HbcHrQwLQ1U_0000004 59.5 71.9 
+Ryan_McPartlin/HbcHrQwLQ1U_0000005 74.2 78.5 
+Ryan_McPartlin/HbcHrQwLQ1U_0000006 151.4 159.6 
+Ryan_McPartlin/HbcHrQwLQ1U_0000007 164.2 168.5 

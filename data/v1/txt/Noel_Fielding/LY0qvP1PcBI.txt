@@ -1,0 +1,11 @@
+POI: 			Noel_Fielding 
+Youtube ID: 	LY0qvP1PcBI 
+Video length: 	519.4 sec 
+Set (V): 		dev 
+ 
+Noel_Fielding/LY0qvP1PcBI_0000001 18.0 24.3 
+Noel_Fielding/LY0qvP1PcBI_0000002 24.4 29.3 
+Noel_Fielding/LY0qvP1PcBI_0000003 32.4 44.1 
+Noel_Fielding/LY0qvP1PcBI_0000004 219.8 224.4 
+Noel_Fielding/LY0qvP1PcBI_0000005 487.6 493.2 
+Noel_Fielding/LY0qvP1PcBI_0000006 512.2 516.2 

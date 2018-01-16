@@ -1,0 +1,22 @@
+POI: 			John_Amos 
+Youtube ID: 	B_Z6FJn0m_k 
+Video length: 	247.5 sec 
+Set (V): 		dev 
+ 
+John_Amos/B_Z6FJn0m_k_0000001 06.7 11.4 
+John_Amos/B_Z6FJn0m_k_0000002 17.7 41.5 
+John_Amos/B_Z6FJn0m_k_0000003 44.0 59.2 
+John_Amos/B_Z6FJn0m_k_0000004 62.8 67.2 
+John_Amos/B_Z6FJn0m_k_0000005 68.2 72.8 
+John_Amos/B_Z6FJn0m_k_0000006 73.0 80.0 
+John_Amos/B_Z6FJn0m_k_0000007 81.1 85.8 
+John_Amos/B_Z6FJn0m_k_0000008 90.4 96.7 
+John_Amos/B_Z6FJn0m_k_0000009 121.4 126.6 
+John_Amos/B_Z6FJn0m_k_0000010 132.6 141.8 
+John_Amos/B_Z6FJn0m_k_0000011 147.7 162.9 
+John_Amos/B_Z6FJn0m_k_0000012 163.6 174.2 
+John_Amos/B_Z6FJn0m_k_0000013 184.3 192.0 
+John_Amos/B_Z6FJn0m_k_0000014 192.6 199.3 
+John_Amos/B_Z6FJn0m_k_0000015 205.0 213.6 
+John_Amos/B_Z6FJn0m_k_0000016 214.4 221.1 
+John_Amos/B_Z6FJn0m_k_0000017 226.8 231.6 

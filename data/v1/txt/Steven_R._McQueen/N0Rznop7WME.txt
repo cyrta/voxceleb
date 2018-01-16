@@ -1,0 +1,23 @@
+POI: 			Steven_R._McQueen 
+Youtube ID: 	N0Rznop7WME 
+Video length: 	281.1 sec 
+Set (V): 		dev 
+ 
+Steven_R._McQueen/N0Rznop7WME_0000001 01.2 05.9 
+Steven_R._McQueen/N0Rznop7WME_0000002 09.7 15.7 
+Steven_R._McQueen/N0Rznop7WME_0000003 21.9 30.9 
+Steven_R._McQueen/N0Rznop7WME_0000004 34.2 40.0 
+Steven_R._McQueen/N0Rznop7WME_0000005 75.4 86.1 
+Steven_R._McQueen/N0Rznop7WME_0000006 89.7 94.9 
+Steven_R._McQueen/N0Rznop7WME_0000007 96.8 100.9 
+Steven_R._McQueen/N0Rznop7WME_0000008 102.2 108.3 
+Steven_R._McQueen/N0Rznop7WME_0000009 112.9 116.9 
+Steven_R._McQueen/N0Rznop7WME_0000010 120.8 150.2 
+Steven_R._McQueen/N0Rznop7WME_0000011 173.6 187.2 
+Steven_R._McQueen/N0Rznop7WME_0000012 193.2 198.0 
+Steven_R._McQueen/N0Rznop7WME_0000013 203.9 213.5 
+Steven_R._McQueen/N0Rznop7WME_0000014 218.4 232.8 
+Steven_R._McQueen/N0Rznop7WME_0000015 234.7 241.0 
+Steven_R._McQueen/N0Rznop7WME_0000016 241.8 250.0 
+Steven_R._McQueen/N0Rznop7WME_0000017 251.1 273.7 
+Steven_R._McQueen/N0Rznop7WME_0000018 274.3 278.8 

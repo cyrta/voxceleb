@@ -1,0 +1,16 @@
+POI: 			Sam_Neill 
+Youtube ID: 	wxrh4hm5YbM 
+Video length: 	447.6 sec 
+Set (V): 		dev 
+ 
+Sam_Neill/wxrh4hm5YbM_0000001 27.4 31.5 
+Sam_Neill/wxrh4hm5YbM_0000002 51.8 55.8 
+Sam_Neill/wxrh4hm5YbM_0000003 80.3 89.8 
+Sam_Neill/wxrh4hm5YbM_0000004 90.6 104.4 
+Sam_Neill/wxrh4hm5YbM_0000005 106.9 111.4 
+Sam_Neill/wxrh4hm5YbM_0000006 113.0 117.7 
+Sam_Neill/wxrh4hm5YbM_0000007 150.2 158.6 
+Sam_Neill/wxrh4hm5YbM_0000008 197.9 202.5 
+Sam_Neill/wxrh4hm5YbM_0000009 212.6 217.4 
+Sam_Neill/wxrh4hm5YbM_0000010 287.3 293.5 
+Sam_Neill/wxrh4hm5YbM_0000011 388.0 393.7 

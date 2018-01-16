@@ -1,0 +1,18 @@
+POI: 			Janet_Montgomery 
+Youtube ID: 	mpuRYj9AF1o 
+Video length: 	451.2 sec 
+Set (V): 		dev 
+ 
+Janet_Montgomery/mpuRYj9AF1o_0000001 171.0 175.6 
+Janet_Montgomery/mpuRYj9AF1o_0000002 179.1 183.6 
+Janet_Montgomery/mpuRYj9AF1o_0000003 185.2 189.5 
+Janet_Montgomery/mpuRYj9AF1o_0000004 191.4 196.0 
+Janet_Montgomery/mpuRYj9AF1o_0000005 202.9 211.4 
+Janet_Montgomery/mpuRYj9AF1o_0000006 233.4 238.2 
+Janet_Montgomery/mpuRYj9AF1o_0000007 243.0 248.8 
+Janet_Montgomery/mpuRYj9AF1o_0000008 253.4 260.2 
+Janet_Montgomery/mpuRYj9AF1o_0000009 266.4 272.8 
+Janet_Montgomery/mpuRYj9AF1o_0000010 277.2 282.8 
+Janet_Montgomery/mpuRYj9AF1o_0000011 321.4 325.4 
+Janet_Montgomery/mpuRYj9AF1o_0000012 375.1 384.5 
+Janet_Montgomery/mpuRYj9AF1o_0000013 442.1 447.0 

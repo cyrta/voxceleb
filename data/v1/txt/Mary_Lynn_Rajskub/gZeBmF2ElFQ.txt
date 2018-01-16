@@ -1,0 +1,14 @@
+POI: 			Mary_Lynn_Rajskub 
+Youtube ID: 	gZeBmF2ElFQ 
+Video length: 	616.2 sec 
+Set (V): 		dev 
+ 
+Mary_Lynn_Rajskub/gZeBmF2ElFQ_0000001 63.4 69.8 
+Mary_Lynn_Rajskub/gZeBmF2ElFQ_0000002 105.9 112.0 
+Mary_Lynn_Rajskub/gZeBmF2ElFQ_0000003 164.8 169.3 
+Mary_Lynn_Rajskub/gZeBmF2ElFQ_0000004 177.4 183.0 
+Mary_Lynn_Rajskub/gZeBmF2ElFQ_0000005 255.6 270.1 
+Mary_Lynn_Rajskub/gZeBmF2ElFQ_0000006 296.6 301.4 
+Mary_Lynn_Rajskub/gZeBmF2ElFQ_0000007 320.8 328.7 
+Mary_Lynn_Rajskub/gZeBmF2ElFQ_0000008 336.6 341.6 
+Mary_Lynn_Rajskub/gZeBmF2ElFQ_0000009 379.6 389.8 

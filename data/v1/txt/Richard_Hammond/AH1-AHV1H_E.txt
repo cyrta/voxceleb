@@ -1,0 +1,9 @@
+POI: 			Richard_Hammond 
+Youtube ID: 	AH1-AHV1H_E 
+Video length: 	336.1 sec 
+Set (V): 		dev 
+ 
+Richard_Hammond/AH1-AHV1H_E_0000001 124.8 129.5 
+Richard_Hammond/AH1-AHV1H_E_0000002 134.3 143.2 
+Richard_Hammond/AH1-AHV1H_E_0000003 176.7 184.0 
+Richard_Hammond/AH1-AHV1H_E_0000004 319.3 324.7 

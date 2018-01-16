@@ -1,0 +1,10 @@
+POI: 			Sidse_Babett_Knudsen 
+Youtube ID: 	JB8HV_kI1_Y 
+Video length: 	490.9 sec 
+Set (V): 		dev 
+ 
+Sidse_Babett_Knudsen/JB8HV_kI1_Y_0000001 54.4 60.3 
+Sidse_Babett_Knudsen/JB8HV_kI1_Y_0000002 224.0 228.0 
+Sidse_Babett_Knudsen/JB8HV_kI1_Y_0000003 228.9 235.2 
+Sidse_Babett_Knudsen/JB8HV_kI1_Y_0000004 274.2 283.8 
+Sidse_Babett_Knudsen/JB8HV_kI1_Y_0000005 336.2 341.7 

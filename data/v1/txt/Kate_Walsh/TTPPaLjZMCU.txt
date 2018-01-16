@@ -1,0 +1,8 @@
+POI: 			Kate_Walsh 
+Youtube ID: 	TTPPaLjZMCU 
+Video length: 	193.6 sec 
+Set (V): 		dev 
+ 
+Kate_Walsh/TTPPaLjZMCU_0000001 24.8 37.8 
+Kate_Walsh/TTPPaLjZMCU_0000002 79.8 95.7 
+Kate_Walsh/TTPPaLjZMCU_0000003 157.8 167.8 

@@ -1,0 +1,10 @@
+POI: 			Caterina_Murino 
+Youtube ID: 	pKDBV6-3kAo 
+Video length: 	238.3 sec 
+Set (V): 		dev 
+ 
+Caterina_Murino/pKDBV6-3kAo_0000001 46.1 51.6 
+Caterina_Murino/pKDBV6-3kAo_0000002 52.7 58.0 
+Caterina_Murino/pKDBV6-3kAo_0000003 109.7 114.2 
+Caterina_Murino/pKDBV6-3kAo_0000004 214.6 227.1 
+Caterina_Murino/pKDBV6-3kAo_0000005 232.4 236.4 

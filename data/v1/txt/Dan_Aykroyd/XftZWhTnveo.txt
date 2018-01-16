@@ -1,0 +1,7 @@
+POI: 			Dan_Aykroyd 
+Youtube ID: 	XftZWhTnveo 
+Video length: 	82.8 sec 
+Set (V): 		dev 
+ 
+Dan_Aykroyd/XftZWhTnveo_0000001 12.6 18.2 
+Dan_Aykroyd/XftZWhTnveo_0000002 58.8 66.8 

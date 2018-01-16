@@ -1,0 +1,18 @@
+POI: 			David_Harewood 
+Youtube ID: 	Hraaks5vmvk 
+Video length: 	264.2 sec 
+Set (V): 		dev 
+ 
+David_Harewood/Hraaks5vmvk_0000001 18.7 25.4 
+David_Harewood/Hraaks5vmvk_0000002 64.1 72.4 
+David_Harewood/Hraaks5vmvk_0000003 93.8 106.5 
+David_Harewood/Hraaks5vmvk_0000004 107.2 113.5 
+David_Harewood/Hraaks5vmvk_0000005 118.9 123.8 
+David_Harewood/Hraaks5vmvk_0000006 136.5 141.6 
+David_Harewood/Hraaks5vmvk_0000007 142.0 146.4 
+David_Harewood/Hraaks5vmvk_0000008 160.1 165.3 
+David_Harewood/Hraaks5vmvk_0000009 171.9 179.0 
+David_Harewood/Hraaks5vmvk_0000010 196.0 200.6 
+David_Harewood/Hraaks5vmvk_0000011 203.8 208.5 
+David_Harewood/Hraaks5vmvk_0000012 213.0 220.5 
+David_Harewood/Hraaks5vmvk_0000013 220.7 239.8 

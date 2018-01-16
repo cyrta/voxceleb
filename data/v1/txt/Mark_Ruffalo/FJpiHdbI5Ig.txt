@@ -1,0 +1,11 @@
+POI: 			Mark_Ruffalo 
+Youtube ID: 	FJpiHdbI5Ig 
+Video length: 	158.6 sec 
+Set (V): 		dev 
+ 
+Mark_Ruffalo/FJpiHdbI5Ig_0000001 20.6 24.9 
+Mark_Ruffalo/FJpiHdbI5Ig_0000002 34.6 39.7 
+Mark_Ruffalo/FJpiHdbI5Ig_0000003 44.7 50.3 
+Mark_Ruffalo/FJpiHdbI5Ig_0000004 109.1 113.8 
+Mark_Ruffalo/FJpiHdbI5Ig_0000005 140.4 145.0 
+Mark_Ruffalo/FJpiHdbI5Ig_0000006 149.9 156.6 

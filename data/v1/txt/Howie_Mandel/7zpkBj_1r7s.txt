@@ -1,0 +1,10 @@
+POI: 			Howie_Mandel 
+Youtube ID: 	7zpkBj_1r7s 
+Video length: 	266.3 sec 
+Set (V): 		dev 
+ 
+Howie_Mandel/7zpkBj_1r7s_0000001 12.8 16.9 
+Howie_Mandel/7zpkBj_1r7s_0000002 29.3 38.3 
+Howie_Mandel/7zpkBj_1r7s_0000003 51.8 57.6 
+Howie_Mandel/7zpkBj_1r7s_0000004 68.8 74.2 
+Howie_Mandel/7zpkBj_1r7s_0000005 248.9 253.2 

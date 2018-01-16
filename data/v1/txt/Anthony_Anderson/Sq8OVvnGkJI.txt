@@ -1,0 +1,9 @@
+POI: 			Anthony_Anderson 
+Youtube ID: 	Sq8OVvnGkJI 
+Video length: 	236.9 sec 
+Set (V): 		dev 
+ 
+Anthony_Anderson/Sq8OVvnGkJI_0000001 21.0 26.5 
+Anthony_Anderson/Sq8OVvnGkJI_0000002 34.4 54.6 
+Anthony_Anderson/Sq8OVvnGkJI_0000003 60.7 65.3 
+Anthony_Anderson/Sq8OVvnGkJI_0000004 85.8 91.4 

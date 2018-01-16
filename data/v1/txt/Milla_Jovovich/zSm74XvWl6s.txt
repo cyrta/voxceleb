@@ -1,0 +1,13 @@
+POI: 			Milla_Jovovich 
+Youtube ID: 	zSm74XvWl6s 
+Video length: 	194.6 sec 
+Set (V): 		dev 
+ 
+Milla_Jovovich/zSm74XvWl6s_0000001 29.0 33.0 
+Milla_Jovovich/zSm74XvWl6s_0000002 50.8 56.3 
+Milla_Jovovich/zSm74XvWl6s_0000003 65.5 69.5 
+Milla_Jovovich/zSm74XvWl6s_0000004 69.9 73.9 
+Milla_Jovovich/zSm74XvWl6s_0000005 76.5 80.6 
+Milla_Jovovich/zSm74XvWl6s_0000006 104.2 115.4 
+Milla_Jovovich/zSm74XvWl6s_0000007 121.6 134.8 
+Milla_Jovovich/zSm74XvWl6s_0000008 150.4 155.4 

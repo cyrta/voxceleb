@@ -1,0 +1,7 @@
+POI: 			Mary-Louise_Parker 
+Youtube ID: 	IAGfmWpqSRk 
+Video length: 	273.6 sec 
+Set (V): 		dev 
+ 
+Mary-Louise_Parker/IAGfmWpqSRk_0000001 57.8 62.4 
+Mary-Louise_Parker/IAGfmWpqSRk_0000002 110.5 114.8 

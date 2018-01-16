@@ -1,0 +1,11 @@
+POI: 			Naturi_Naughton 
+Youtube ID: 	xLHLwtK44JA 
+Video length: 	289.7 sec 
+Set (V): 		dev 
+ 
+Naturi_Naughton/xLHLwtK44JA_0000001 15.6 25.9 
+Naturi_Naughton/xLHLwtK44JA_0000002 30.1 36.1 
+Naturi_Naughton/xLHLwtK44JA_0000003 83.8 93.2 
+Naturi_Naughton/xLHLwtK44JA_0000004 113.2 136.1 
+Naturi_Naughton/xLHLwtK44JA_0000005 144.1 152.9 
+Naturi_Naughton/xLHLwtK44JA_0000006 250.2 280.1 

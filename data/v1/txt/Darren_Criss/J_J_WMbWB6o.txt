@@ -1,0 +1,9 @@
+POI: 			Darren_Criss 
+Youtube ID: 	J_J_WMbWB6o 
+Video length: 	241.2 sec 
+Set (V): 		dev 
+ 
+Darren_Criss/J_J_WMbWB6o_0000001 23.6 31.4 
+Darren_Criss/J_J_WMbWB6o_0000002 158.8 167.2 
+Darren_Criss/J_J_WMbWB6o_0000003 167.5 181.7 
+Darren_Criss/J_J_WMbWB6o_0000004 183.0 213.8 

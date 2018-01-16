@@ -1,0 +1,20 @@
+POI: 			Dyan_Cannon 
+Youtube ID: 	HwhLFnLFffU 
+Video length: 	1683.5 sec 
+Set (V): 		dev 
+ 
+Dyan_Cannon/HwhLFnLFffU_0000001 141.1 148.0 
+Dyan_Cannon/HwhLFnLFffU_0000002 148.2 165.6 
+Dyan_Cannon/HwhLFnLFffU_0000003 204.7 208.7 
+Dyan_Cannon/HwhLFnLFffU_0000004 276.8 281.4 
+Dyan_Cannon/HwhLFnLFffU_0000005 298.9 303.0 
+Dyan_Cannon/HwhLFnLFffU_0000006 513.3 520.1 
+Dyan_Cannon/HwhLFnLFffU_0000007 548.4 552.4 
+Dyan_Cannon/HwhLFnLFffU_0000008 716.9 725.8 
+Dyan_Cannon/HwhLFnLFffU_0000009 839.2 843.8 
+Dyan_Cannon/HwhLFnLFffU_0000010 849.6 854.8 
+Dyan_Cannon/HwhLFnLFffU_0000011 939.0 943.5 
+Dyan_Cannon/HwhLFnLFffU_0000012 948.6 957.3 
+Dyan_Cannon/HwhLFnLFffU_0000013 1021.0 1026.4 
+Dyan_Cannon/HwhLFnLFffU_0000014 1198.9 1203.0 
+Dyan_Cannon/HwhLFnLFffU_0000015 1210.1 1214.6 

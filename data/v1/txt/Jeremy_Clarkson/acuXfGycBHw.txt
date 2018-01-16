@@ -1,0 +1,12 @@
+POI: 			Jeremy_Clarkson 
+Youtube ID: 	acuXfGycBHw 
+Video length: 	766.9 sec 
+Set (V): 		dev 
+ 
+Jeremy_Clarkson/acuXfGycBHw_0000001 55.4 59.5 
+Jeremy_Clarkson/acuXfGycBHw_0000002 132.1 136.8 
+Jeremy_Clarkson/acuXfGycBHw_0000003 238.1 246.4 
+Jeremy_Clarkson/acuXfGycBHw_0000004 343.3 347.6 
+Jeremy_Clarkson/acuXfGycBHw_0000005 372.7 377.6 
+Jeremy_Clarkson/acuXfGycBHw_0000006 419.9 427.4 
+Jeremy_Clarkson/acuXfGycBHw_0000007 535.8 541.0 

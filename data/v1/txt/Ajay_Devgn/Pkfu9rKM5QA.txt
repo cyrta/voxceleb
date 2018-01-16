@@ -1,0 +1,12 @@
+POI: 			Ajay_Devgn 
+Youtube ID: 	Pkfu9rKM5QA 
+Video length: 	1455.1 sec 
+Set (V): 		dev 
+ 
+Ajay_Devgn/Pkfu9rKM5QA_0000001 103.5 109.4 
+Ajay_Devgn/Pkfu9rKM5QA_0000002 264.6 268.6 
+Ajay_Devgn/Pkfu9rKM5QA_0000003 268.8 277.9 
+Ajay_Devgn/Pkfu9rKM5QA_0000004 512.6 516.5 
+Ajay_Devgn/Pkfu9rKM5QA_0000005 717.4 721.8 
+Ajay_Devgn/Pkfu9rKM5QA_0000006 929.2 933.2 
+Ajay_Devgn/Pkfu9rKM5QA_0000007 1154.0 1158.1 

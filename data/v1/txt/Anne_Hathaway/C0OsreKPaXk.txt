@@ -1,0 +1,13 @@
+POI: 			Anne_Hathaway 
+Youtube ID: 	C0OsreKPaXk 
+Video length: 	836.8 sec 
+Set (V): 		dev 
+ 
+Anne_Hathaway/C0OsreKPaXk_0000001 236.4 240.6 
+Anne_Hathaway/C0OsreKPaXk_0000002 490.9 499.2 
+Anne_Hathaway/C0OsreKPaXk_0000003 504.4 511.3 
+Anne_Hathaway/C0OsreKPaXk_0000004 617.4 621.9 
+Anne_Hathaway/C0OsreKPaXk_0000005 691.4 699.2 
+Anne_Hathaway/C0OsreKPaXk_0000006 701.0 708.1 
+Anne_Hathaway/C0OsreKPaXk_0000007 708.9 716.2 
+Anne_Hathaway/C0OsreKPaXk_0000008 717.0 721.4 

@@ -1,0 +1,14 @@
+POI: 			Chadwick_Boseman 
+Youtube ID: 	Xl1y-ZzITaU 
+Video length: 	211.1 sec 
+Set (V): 		dev 
+ 
+Chadwick_Boseman/Xl1y-ZzITaU_0000001 36.1 46.4 
+Chadwick_Boseman/Xl1y-ZzITaU_0000002 65.8 72.1 
+Chadwick_Boseman/Xl1y-ZzITaU_0000003 76.3 85.2 
+Chadwick_Boseman/Xl1y-ZzITaU_0000004 93.8 102.9 
+Chadwick_Boseman/Xl1y-ZzITaU_0000005 104.8 115.9 
+Chadwick_Boseman/Xl1y-ZzITaU_0000006 168.4 172.6 
+Chadwick_Boseman/Xl1y-ZzITaU_0000007 173.3 179.0 
+Chadwick_Boseman/Xl1y-ZzITaU_0000008 179.4 186.1 
+Chadwick_Boseman/Xl1y-ZzITaU_0000009 188.4 193.4 

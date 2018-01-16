@@ -1,0 +1,21 @@
+POI: 			Stephen_Fry 
+Youtube ID: 	nsDeDOTMUCA 
+Video length: 	284.2 sec 
+Set (V): 		dev 
+ 
+Stephen_Fry/nsDeDOTMUCA_0000001 14.0 26.2 
+Stephen_Fry/nsDeDOTMUCA_0000002 29.0 42.0 
+Stephen_Fry/nsDeDOTMUCA_0000003 45.3 49.7 
+Stephen_Fry/nsDeDOTMUCA_0000004 74.8 80.5 
+Stephen_Fry/nsDeDOTMUCA_0000005 86.0 115.8 
+Stephen_Fry/nsDeDOTMUCA_0000006 118.2 125.8 
+Stephen_Fry/nsDeDOTMUCA_0000007 145.4 152.8 
+Stephen_Fry/nsDeDOTMUCA_0000008 154.7 177.8 
+Stephen_Fry/nsDeDOTMUCA_0000009 179.2 193.4 
+Stephen_Fry/nsDeDOTMUCA_0000010 194.0 206.2 
+Stephen_Fry/nsDeDOTMUCA_0000011 207.4 218.5 
+Stephen_Fry/nsDeDOTMUCA_0000012 219.2 228.4 
+Stephen_Fry/nsDeDOTMUCA_0000013 230.5 239.9 
+Stephen_Fry/nsDeDOTMUCA_0000014 244.4 252.5 
+Stephen_Fry/nsDeDOTMUCA_0000015 254.1 266.3 
+Stephen_Fry/nsDeDOTMUCA_0000016 269.0 274.6 

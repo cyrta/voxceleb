@@ -1,0 +1,7 @@
+POI: 			Terence_Stamp 
+Youtube ID: 	KOnN8CorTSY 
+Video length: 	146.2 sec 
+Set (V): 		dev 
+ 
+Terence_Stamp/KOnN8CorTSY_0000001 38.0 43.0 
+Terence_Stamp/KOnN8CorTSY_0000002 43.8 49.3 

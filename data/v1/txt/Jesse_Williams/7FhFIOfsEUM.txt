@@ -1,0 +1,20 @@
+POI: 			Jesse_Williams 
+Youtube ID: 	7FhFIOfsEUM 
+Video length: 	183.7 sec 
+Set (V): 		dev 
+ 
+Jesse_Williams/7FhFIOfsEUM_0000001 05.8 13.7 
+Jesse_Williams/7FhFIOfsEUM_0000002 14.6 21.2 
+Jesse_Williams/7FhFIOfsEUM_0000003 23.7 31.6 
+Jesse_Williams/7FhFIOfsEUM_0000004 37.8 43.1 
+Jesse_Williams/7FhFIOfsEUM_0000005 43.8 49.2 
+Jesse_Williams/7FhFIOfsEUM_0000006 51.1 58.2 
+Jesse_Williams/7FhFIOfsEUM_0000007 60.9 65.2 
+Jesse_Williams/7FhFIOfsEUM_0000008 69.8 74.1 
+Jesse_Williams/7FhFIOfsEUM_0000009 75.2 85.6 
+Jesse_Williams/7FhFIOfsEUM_0000010 89.5 98.0 
+Jesse_Williams/7FhFIOfsEUM_0000011 104.1 117.8 
+Jesse_Williams/7FhFIOfsEUM_0000012 122.1 130.1 
+Jesse_Williams/7FhFIOfsEUM_0000013 135.4 140.6 
+Jesse_Williams/7FhFIOfsEUM_0000014 143.1 160.2 
+Jesse_Williams/7FhFIOfsEUM_0000015 166.6 178.9 

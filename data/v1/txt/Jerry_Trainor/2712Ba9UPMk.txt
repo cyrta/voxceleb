@@ -1,0 +1,11 @@
+POI: 			Jerry_Trainor 
+Youtube ID: 	2712Ba9UPMk 
+Video length: 	175.6 sec 
+Set (V): 		dev 
+ 
+Jerry_Trainor/2712Ba9UPMk_0000001 17.2 21.4 
+Jerry_Trainor/2712Ba9UPMk_0000002 46.9 52.9 
+Jerry_Trainor/2712Ba9UPMk_0000003 59.2 63.7 
+Jerry_Trainor/2712Ba9UPMk_0000004 122.8 128.3 
+Jerry_Trainor/2712Ba9UPMk_0000005 144.8 150.3 
+Jerry_Trainor/2712Ba9UPMk_0000006 157.4 163.6 

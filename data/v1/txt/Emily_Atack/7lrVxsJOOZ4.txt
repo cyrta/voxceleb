@@ -1,0 +1,7 @@
+POI: 			Emily_Atack 
+Youtube ID: 	7lrVxsJOOZ4 
+Video length: 	256.0 sec 
+Set (V): 		test 
+ 
+Emily_Atack/7lrVxsJOOZ4_0000001 222.5 230.9 
+Emily_Atack/7lrVxsJOOZ4_0000002 232.1 236.4 

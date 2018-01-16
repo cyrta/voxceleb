@@ -1,0 +1,11 @@
+POI: 			Fergie 
+Youtube ID: 	FauHsI7A0nc 
+Video length: 	435.4 sec 
+Set (V): 		dev 
+ 
+Fergie/FauHsI7A0nc_0000001 04.4 31.4 
+Fergie/FauHsI7A0nc_0000002 31.7 36.2 
+Fergie/FauHsI7A0nc_0000003 397.2 403.1 
+Fergie/FauHsI7A0nc_0000004 404.3 408.4 
+Fergie/FauHsI7A0nc_0000005 408.9 421.3 
+Fergie/FauHsI7A0nc_0000006 422.0 427.0 

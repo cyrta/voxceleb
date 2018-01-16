@@ -1,0 +1,16 @@
+POI: 			Shirley_Manson 
+Youtube ID: 	dpyMj9miKe4 
+Video length: 	768.1 sec 
+Set (V): 		dev 
+ 
+Shirley_Manson/dpyMj9miKe4_0000001 49.9 54.6 
+Shirley_Manson/dpyMj9miKe4_0000002 90.6 100.1 
+Shirley_Manson/dpyMj9miKe4_0000003 189.8 195.6 
+Shirley_Manson/dpyMj9miKe4_0000004 279.5 285.5 
+Shirley_Manson/dpyMj9miKe4_0000005 365.3 374.2 
+Shirley_Manson/dpyMj9miKe4_0000006 408.9 416.2 
+Shirley_Manson/dpyMj9miKe4_0000007 462.6 472.2 
+Shirley_Manson/dpyMj9miKe4_0000008 566.3 576.0 
+Shirley_Manson/dpyMj9miKe4_0000009 634.4 645.4 
+Shirley_Manson/dpyMj9miKe4_0000010 676.2 680.7 
+Shirley_Manson/dpyMj9miKe4_0000011 723.5 730.0 

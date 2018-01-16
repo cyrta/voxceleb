@@ -1,0 +1,11 @@
+POI: 			Ryan_Phillippe 
+Youtube ID: 	JheePMhIrnQ 
+Video length: 	225.1 sec 
+Set (V): 		dev 
+ 
+Ryan_Phillippe/JheePMhIrnQ_0000001 26.6 45.0 
+Ryan_Phillippe/JheePMhIrnQ_0000002 47.1 59.6 
+Ryan_Phillippe/JheePMhIrnQ_0000003 119.6 137.6 
+Ryan_Phillippe/JheePMhIrnQ_0000004 139.5 160.2 
+Ryan_Phillippe/JheePMhIrnQ_0000005 190.4 196.3 
+Ryan_Phillippe/JheePMhIrnQ_0000006 196.6 212.5 

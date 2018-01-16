@@ -1,0 +1,11 @@
+POI: 			Kristen_Bell 
+Youtube ID: 	MLOIxc70nDg 
+Video length: 	261.3 sec 
+Set (V): 		dev 
+ 
+Kristen_Bell/MLOIxc70nDg_0000001 25.8 31.6 
+Kristen_Bell/MLOIxc70nDg_0000002 32.4 41.0 
+Kristen_Bell/MLOIxc70nDg_0000003 49.3 56.1 
+Kristen_Bell/MLOIxc70nDg_0000004 120.1 124.2 
+Kristen_Bell/MLOIxc70nDg_0000005 128.1 132.5 
+Kristen_Bell/MLOIxc70nDg_0000006 240.3 245.8 

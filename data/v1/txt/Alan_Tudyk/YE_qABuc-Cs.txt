@@ -1,0 +1,16 @@
+POI: 			Alan_Tudyk 
+Youtube ID: 	YE_qABuc-Cs 
+Video length: 	281.3 sec 
+Set (V): 		dev 
+ 
+Alan_Tudyk/YE_qABuc-Cs_0000001 34.8 44.7 
+Alan_Tudyk/YE_qABuc-Cs_0000002 49.6 58.1 
+Alan_Tudyk/YE_qABuc-Cs_0000003 76.7 86.2 
+Alan_Tudyk/YE_qABuc-Cs_0000004 87.0 91.7 
+Alan_Tudyk/YE_qABuc-Cs_0000005 92.2 104.2 
+Alan_Tudyk/YE_qABuc-Cs_0000006 108.6 113.0 
+Alan_Tudyk/YE_qABuc-Cs_0000007 114.2 126.2 
+Alan_Tudyk/YE_qABuc-Cs_0000008 141.0 154.4 
+Alan_Tudyk/YE_qABuc-Cs_0000009 178.6 196.8 
+Alan_Tudyk/YE_qABuc-Cs_0000010 197.3 209.0 
+Alan_Tudyk/YE_qABuc-Cs_0000011 235.0 242.9 

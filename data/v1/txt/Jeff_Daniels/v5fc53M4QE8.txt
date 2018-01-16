@@ -1,0 +1,14 @@
+POI: 			Jeff_Daniels 
+Youtube ID: 	v5fc53M4QE8 
+Video length: 	465.5 sec 
+Set (V): 		dev 
+ 
+Jeff_Daniels/v5fc53M4QE8_0000001 128.2 134.2 
+Jeff_Daniels/v5fc53M4QE8_0000002 252.1 257.6 
+Jeff_Daniels/v5fc53M4QE8_0000003 298.7 307.9 
+Jeff_Daniels/v5fc53M4QE8_0000004 319.8 326.6 
+Jeff_Daniels/v5fc53M4QE8_0000005 326.8 337.4 
+Jeff_Daniels/v5fc53M4QE8_0000006 342.9 348.1 
+Jeff_Daniels/v5fc53M4QE8_0000007 361.6 368.0 
+Jeff_Daniels/v5fc53M4QE8_0000008 428.3 433.1 
+Jeff_Daniels/v5fc53M4QE8_0000009 434.0 441.5 

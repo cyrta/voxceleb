@@ -1,0 +1,15 @@
+POI: 			Allison_Williams 
+Youtube ID: 	Cu1Gugj18Vg 
+Video length: 	684.4 sec 
+Set (V): 		dev 
+ 
+Allison_Williams/Cu1Gugj18Vg_0000001 73.5 83.2 
+Allison_Williams/Cu1Gugj18Vg_0000002 152.1 167.4 
+Allison_Williams/Cu1Gugj18Vg_0000003 209.6 215.2 
+Allison_Williams/Cu1Gugj18Vg_0000004 216.8 222.2 
+Allison_Williams/Cu1Gugj18Vg_0000005 396.8 400.8 
+Allison_Williams/Cu1Gugj18Vg_0000006 401.1 405.1 
+Allison_Williams/Cu1Gugj18Vg_0000007 407.4 411.8 
+Allison_Williams/Cu1Gugj18Vg_0000008 568.9 579.2 
+Allison_Williams/Cu1Gugj18Vg_0000009 582.6 586.6 
+Allison_Williams/Cu1Gugj18Vg_0000010 641.9 654.5 

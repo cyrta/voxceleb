@@ -1,0 +1,8 @@
+POI: 			Greta_Gerwig 
+Youtube ID: 	v0lJIGzwlp0 
+Video length: 	625.3 sec 
+Set (V): 		dev 
+ 
+Greta_Gerwig/v0lJIGzwlp0_0000001 537.6 542.5 
+Greta_Gerwig/v0lJIGzwlp0_0000002 544.0 548.8 
+Greta_Gerwig/v0lJIGzwlp0_0000003 550.4 557.3 

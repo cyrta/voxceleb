@@ -1,0 +1,7 @@
+POI: 			Sarah_Drew 
+Youtube ID: 	ROxGpoxGmyA 
+Video length: 	158.8 sec 
+Set (V): 		dev 
+ 
+Sarah_Drew/ROxGpoxGmyA_0000001 121.6 136.4 
+Sarah_Drew/ROxGpoxGmyA_0000002 138.3 143.2 

@@ -1,0 +1,9 @@
+POI: 			Hailee_Steinfeld 
+Youtube ID: 	FiFamuSygRg 
+Video length: 	164.2 sec 
+Set (V): 		dev 
+ 
+Hailee_Steinfeld/FiFamuSygRg_0000001 77.2 82.9 
+Hailee_Steinfeld/FiFamuSygRg_0000002 90.8 97.8 
+Hailee_Steinfeld/FiFamuSygRg_0000003 113.8 119.2 
+Hailee_Steinfeld/FiFamuSygRg_0000004 122.6 128.6 

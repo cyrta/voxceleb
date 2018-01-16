@@ -1,0 +1,9 @@
+POI: 			David_Faustino 
+Youtube ID: 	Je4LB4ODEag 
+Video length: 	908.1 sec 
+Set (V): 		dev 
+ 
+David_Faustino/Je4LB4ODEag_0000001 433.6 440.8 
+David_Faustino/Je4LB4ODEag_0000002 466.8 482.6 
+David_Faustino/Je4LB4ODEag_0000003 494.9 502.6 
+David_Faustino/Je4LB4ODEag_0000004 704.5 710.0 

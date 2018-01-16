@@ -1,0 +1,8 @@
+POI: 			Kat_Dennings 
+Youtube ID: 	cBkP5HwzCmM 
+Video length: 	159.0 sec 
+Set (V): 		dev 
+ 
+Kat_Dennings/cBkP5HwzCmM_0000001 48.6 55.3 
+Kat_Dennings/cBkP5HwzCmM_0000002 56.0 66.0 
+Kat_Dennings/cBkP5HwzCmM_0000003 109.8 119.2 

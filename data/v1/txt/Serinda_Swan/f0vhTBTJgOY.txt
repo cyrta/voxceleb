@@ -1,0 +1,18 @@
+POI: 			Serinda_Swan 
+Youtube ID: 	f0vhTBTJgOY 
+Video length: 	581.4 sec 
+Set (V): 		dev 
+ 
+Serinda_Swan/f0vhTBTJgOY_0000001 85.4 94.5 
+Serinda_Swan/f0vhTBTJgOY_0000002 167.9 175.4 
+Serinda_Swan/f0vhTBTJgOY_0000003 177.8 183.4 
+Serinda_Swan/f0vhTBTJgOY_0000004 187.9 197.2 
+Serinda_Swan/f0vhTBTJgOY_0000005 211.4 215.4 
+Serinda_Swan/f0vhTBTJgOY_0000006 219.6 225.5 
+Serinda_Swan/f0vhTBTJgOY_0000007 300.8 313.7 
+Serinda_Swan/f0vhTBTJgOY_0000008 318.4 323.8 
+Serinda_Swan/f0vhTBTJgOY_0000009 338.0 343.6 
+Serinda_Swan/f0vhTBTJgOY_0000010 393.5 406.3 
+Serinda_Swan/f0vhTBTJgOY_0000011 406.8 411.6 
+Serinda_Swan/f0vhTBTJgOY_0000012 504.6 509.0 
+Serinda_Swan/f0vhTBTJgOY_0000013 517.3 522.3 

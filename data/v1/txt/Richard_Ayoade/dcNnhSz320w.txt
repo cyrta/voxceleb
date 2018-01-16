@@ -1,0 +1,27 @@
+POI: 			Richard_Ayoade 
+Youtube ID: 	dcNnhSz320w 
+Video length: 	569.9 sec 
+Set (V): 		dev 
+ 
+Richard_Ayoade/dcNnhSz320w_0000001 15.2 25.9 
+Richard_Ayoade/dcNnhSz320w_0000002 99.6 106.0 
+Richard_Ayoade/dcNnhSz320w_0000003 110.0 119.6 
+Richard_Ayoade/dcNnhSz320w_0000004 120.0 126.2 
+Richard_Ayoade/dcNnhSz320w_0000005 126.3 136.1 
+Richard_Ayoade/dcNnhSz320w_0000006 158.4 163.6 
+Richard_Ayoade/dcNnhSz320w_0000007 167.4 171.8 
+Richard_Ayoade/dcNnhSz320w_0000008 179.6 184.6 
+Richard_Ayoade/dcNnhSz320w_0000009 185.4 191.5 
+Richard_Ayoade/dcNnhSz320w_0000010 204.0 209.2 
+Richard_Ayoade/dcNnhSz320w_0000011 311.5 315.5 
+Richard_Ayoade/dcNnhSz320w_0000012 317.0 331.3 
+Richard_Ayoade/dcNnhSz320w_0000013 349.1 355.2 
+Richard_Ayoade/dcNnhSz320w_0000014 355.8 365.9 
+Richard_Ayoade/dcNnhSz320w_0000015 366.3 370.8 
+Richard_Ayoade/dcNnhSz320w_0000016 394.0 407.8 
+Richard_Ayoade/dcNnhSz320w_0000017 415.2 419.6 
+Richard_Ayoade/dcNnhSz320w_0000018 468.8 476.4 
+Richard_Ayoade/dcNnhSz320w_0000019 486.6 491.8 
+Richard_Ayoade/dcNnhSz320w_0000020 515.3 520.4 
+Richard_Ayoade/dcNnhSz320w_0000021 539.9 548.8 
+Richard_Ayoade/dcNnhSz320w_0000022 549.2 554.1 

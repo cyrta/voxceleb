@@ -1,0 +1,8 @@
+POI: 			Daniel_Tosh 
+Youtube ID: 	vJ_9PYNreJ4 
+Video length: 	430.2 sec 
+Set (V): 		dev 
+ 
+Daniel_Tosh/vJ_9PYNreJ4_0000001 238.6 244.6 
+Daniel_Tosh/vJ_9PYNreJ4_0000002 250.9 255.6 
+Daniel_Tosh/vJ_9PYNreJ4_0000003 271.1 276.9 

@@ -1,0 +1,17 @@
+POI: 			Seann_William_Scott 
+Youtube ID: 	k4WplL40fyU 
+Video length: 	318.0 sec 
+Set (V): 		dev 
+ 
+Seann_William_Scott/k4WplL40fyU_0000001 27.0 34.6 
+Seann_William_Scott/k4WplL40fyU_0000002 72.4 76.9 
+Seann_William_Scott/k4WplL40fyU_0000003 79.6 84.5 
+Seann_William_Scott/k4WplL40fyU_0000004 88.6 102.0 
+Seann_William_Scott/k4WplL40fyU_0000005 136.7 141.4 
+Seann_William_Scott/k4WplL40fyU_0000006 145.5 167.5 
+Seann_William_Scott/k4WplL40fyU_0000007 169.8 174.8 
+Seann_William_Scott/k4WplL40fyU_0000008 175.8 182.7 
+Seann_William_Scott/k4WplL40fyU_0000009 187.8 192.2 
+Seann_William_Scott/k4WplL40fyU_0000010 235.8 239.9 
+Seann_William_Scott/k4WplL40fyU_0000011 240.4 254.6 
+Seann_William_Scott/k4WplL40fyU_0000012 258.8 267.3 

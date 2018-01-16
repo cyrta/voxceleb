@@ -1,0 +1,16 @@
+POI: 			Witney_Carson 
+Youtube ID: 	h1OvhnoWFO0 
+Video length: 	552.0 sec 
+Set (V): 		dev 
+ 
+Witney_Carson/h1OvhnoWFO0_0000001 293.8 301.4 
+Witney_Carson/h1OvhnoWFO0_0000002 301.6 334.8 
+Witney_Carson/h1OvhnoWFO0_0000003 352.2 364.7 
+Witney_Carson/h1OvhnoWFO0_0000004 364.8 393.4 
+Witney_Carson/h1OvhnoWFO0_0000005 396.3 416.8 
+Witney_Carson/h1OvhnoWFO0_0000006 426.4 455.4 
+Witney_Carson/h1OvhnoWFO0_0000007 462.5 470.4 
+Witney_Carson/h1OvhnoWFO0_0000008 472.4 505.2 
+Witney_Carson/h1OvhnoWFO0_0000009 507.2 512.1 
+Witney_Carson/h1OvhnoWFO0_0000010 516.2 520.6 
+Witney_Carson/h1OvhnoWFO0_0000011 521.6 527.8 

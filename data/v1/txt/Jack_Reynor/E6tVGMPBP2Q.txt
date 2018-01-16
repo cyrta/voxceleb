@@ -1,0 +1,8 @@
+POI: 			Jack_Reynor 
+Youtube ID: 	E6tVGMPBP2Q 
+Video length: 	283.5 sec 
+Set (V): 		dev 
+ 
+Jack_Reynor/E6tVGMPBP2Q_0000001 239.1 245.7 
+Jack_Reynor/E6tVGMPBP2Q_0000002 246.1 250.2 
+Jack_Reynor/E6tVGMPBP2Q_0000003 246.0 253.5 

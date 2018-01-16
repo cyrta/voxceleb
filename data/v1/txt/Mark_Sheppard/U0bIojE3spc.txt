@@ -1,0 +1,10 @@
+POI: 			Mark_Sheppard 
+Youtube ID: 	U0bIojE3spc 
+Video length: 	154.6 sec 
+Set (V): 		dev 
+ 
+Mark_Sheppard/U0bIojE3spc_0000001 52.4 56.3 
+Mark_Sheppard/U0bIojE3spc_0000002 58.2 64.2 
+Mark_Sheppard/U0bIojE3spc_0000003 95.1 105.4 
+Mark_Sheppard/U0bIojE3spc_0000004 123.9 127.8 
+Mark_Sheppard/U0bIojE3spc_0000005 129.3 135.0 

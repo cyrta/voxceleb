@@ -1,0 +1,13 @@
+POI: 			Francia_Raisa 
+Youtube ID: 	WaWt8ql2k-I 
+Video length: 	238.1 sec 
+Set (V): 		dev 
+ 
+Francia_Raisa/WaWt8ql2k-I_0000001 38.3 48.9 
+Francia_Raisa/WaWt8ql2k-I_0000002 49.0 53.9 
+Francia_Raisa/WaWt8ql2k-I_0000003 57.5 85.7 
+Francia_Raisa/WaWt8ql2k-I_0000004 107.2 117.8 
+Francia_Raisa/WaWt8ql2k-I_0000005 123.1 134.7 
+Francia_Raisa/WaWt8ql2k-I_0000006 144.0 148.2 
+Francia_Raisa/WaWt8ql2k-I_0000007 149.0 156.3 
+Francia_Raisa/WaWt8ql2k-I_0000008 158.4 162.9 

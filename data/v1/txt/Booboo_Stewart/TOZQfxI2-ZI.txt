@@ -1,0 +1,11 @@
+POI: 			Booboo_Stewart 
+Youtube ID: 	TOZQfxI2-ZI 
+Video length: 	345.7 sec 
+Set (V): 		dev 
+ 
+Booboo_Stewart/TOZQfxI2-ZI_0000001 26.8 31.6 
+Booboo_Stewart/TOZQfxI2-ZI_0000002 97.2 101.8 
+Booboo_Stewart/TOZQfxI2-ZI_0000003 196.3 200.8 
+Booboo_Stewart/TOZQfxI2-ZI_0000004 210.3 217.5 
+Booboo_Stewart/TOZQfxI2-ZI_0000005 224.4 228.3 
+Booboo_Stewart/TOZQfxI2-ZI_0000006 275.2 282.0 

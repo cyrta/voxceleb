@@ -1,0 +1,11 @@
+POI: 			William_Baldwin 
+Youtube ID: 	oRt7Wolrhb8 
+Video length: 	199.7 sec 
+Set (V): 		dev 
+ 
+William_Baldwin/oRt7Wolrhb8_0000001 00.9 13.0 
+William_Baldwin/oRt7Wolrhb8_0000002 20.9 29.2 
+William_Baldwin/oRt7Wolrhb8_0000003 116.5 123.6 
+William_Baldwin/oRt7Wolrhb8_0000004 134.5 143.7 
+William_Baldwin/oRt7Wolrhb8_0000005 156.4 164.0 
+William_Baldwin/oRt7Wolrhb8_0000006 176.9 181.7 

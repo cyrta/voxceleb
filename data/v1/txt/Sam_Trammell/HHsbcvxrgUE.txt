@@ -1,0 +1,7 @@
+POI: 			Sam_Trammell 
+Youtube ID: 	HHsbcvxrgUE 
+Video length: 	254.4 sec 
+Set (V): 		dev 
+ 
+Sam_Trammell/HHsbcvxrgUE_0000001 76.0 80.3 
+Sam_Trammell/HHsbcvxrgUE_0000002 155.6 159.8 

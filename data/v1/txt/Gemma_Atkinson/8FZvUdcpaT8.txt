@@ -1,0 +1,17 @@
+POI: 			Gemma_Atkinson 
+Youtube ID: 	8FZvUdcpaT8 
+Video length: 	331.3 sec 
+Set (V): 		dev 
+ 
+Gemma_Atkinson/8FZvUdcpaT8_0000001 07.0 13.7 
+Gemma_Atkinson/8FZvUdcpaT8_0000002 37.2 49.8 
+Gemma_Atkinson/8FZvUdcpaT8_0000003 61.0 69.0 
+Gemma_Atkinson/8FZvUdcpaT8_0000004 99.5 104.4 
+Gemma_Atkinson/8FZvUdcpaT8_0000005 140.1 165.7 
+Gemma_Atkinson/8FZvUdcpaT8_0000006 188.3 192.2 
+Gemma_Atkinson/8FZvUdcpaT8_0000007 192.4 198.5 
+Gemma_Atkinson/8FZvUdcpaT8_0000008 203.0 212.1 
+Gemma_Atkinson/8FZvUdcpaT8_0000009 254.5 258.5 
+Gemma_Atkinson/8FZvUdcpaT8_0000010 287.3 294.3 
+Gemma_Atkinson/8FZvUdcpaT8_0000011 320.8 327.5 
+Gemma_Atkinson/8FZvUdcpaT8_0000012 313.2 318.6 

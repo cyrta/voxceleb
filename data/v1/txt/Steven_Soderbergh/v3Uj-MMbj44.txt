@@ -1,0 +1,9 @@
+POI: 			Steven_Soderbergh 
+Youtube ID: 	v3Uj-MMbj44 
+Video length: 	175.4 sec 
+Set (V): 		dev 
+ 
+Steven_Soderbergh/v3Uj-MMbj44_0000001 88.5 95.5 
+Steven_Soderbergh/v3Uj-MMbj44_0000002 121.6 126.6 
+Steven_Soderbergh/v3Uj-MMbj44_0000003 138.6 142.9 
+Steven_Soderbergh/v3Uj-MMbj44_0000004 158.4 166.0 

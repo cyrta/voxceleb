@@ -1,0 +1,7 @@
+POI: 			Jimmy_Fallon 
+Youtube ID: 	3xhImxF1H98 
+Video length: 	244.7 sec 
+Set (V): 		dev 
+ 
+Jimmy_Fallon/3xhImxF1H98_0000001 11.0 16.2 
+Jimmy_Fallon/3xhImxF1H98_0000002 25.4 30.9 

@@ -1,0 +1,15 @@
+POI: 			Ryan_Phillippe 
+Youtube ID: 	oCpaebgbn9w 
+Video length: 	248.7 sec 
+Set (V): 		dev 
+ 
+Ryan_Phillippe/oCpaebgbn9w_0000001 10.2 21.2 
+Ryan_Phillippe/oCpaebgbn9w_0000002 32.4 36.4 
+Ryan_Phillippe/oCpaebgbn9w_0000003 49.9 60.3 
+Ryan_Phillippe/oCpaebgbn9w_0000004 60.9 66.3 
+Ryan_Phillippe/oCpaebgbn9w_0000005 75.1 89.1 
+Ryan_Phillippe/oCpaebgbn9w_0000006 100.7 109.3 
+Ryan_Phillippe/oCpaebgbn9w_0000007 115.1 124.8 
+Ryan_Phillippe/oCpaebgbn9w_0000008 160.7 174.4 
+Ryan_Phillippe/oCpaebgbn9w_0000009 189.0 200.4 
+Ryan_Phillippe/oCpaebgbn9w_0000010 201.1 206.8 

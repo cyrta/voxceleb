@@ -1,0 +1,8 @@
+POI: 			Jean_Reno 
+Youtube ID: 	JSMKCL8s9D0 
+Video length: 	366.7 sec 
+Set (V): 		dev 
+ 
+Jean_Reno/JSMKCL8s9D0_0000001 34.0 38.1 
+Jean_Reno/JSMKCL8s9D0_0000002 133.1 137.2 
+Jean_Reno/JSMKCL8s9D0_0000003 189.6 194.4 

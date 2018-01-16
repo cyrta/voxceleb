@@ -1,0 +1,11 @@
+POI: 			Charles_Dance 
+Youtube ID: 	XW3NY5vMfPk 
+Video length: 	490.2 sec 
+Set (V): 		dev 
+ 
+Charles_Dance/XW3NY5vMfPk_0000001 112.0 116.4 
+Charles_Dance/XW3NY5vMfPk_0000002 133.1 138.8 
+Charles_Dance/XW3NY5vMfPk_0000003 297.7 301.7 
+Charles_Dance/XW3NY5vMfPk_0000004 404.9 411.0 
+Charles_Dance/XW3NY5vMfPk_0000005 419.8 425.6 
+Charles_Dance/XW3NY5vMfPk_0000006 426.3 436.0 

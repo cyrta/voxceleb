@@ -1,0 +1,12 @@
+POI: 			Matthew_Modine 
+Youtube ID: 	TPrJLnDQkqM 
+Video length: 	119.1 sec 
+Set (V): 		dev 
+ 
+Matthew_Modine/TPrJLnDQkqM_0000001 14.6 32.2 
+Matthew_Modine/TPrJLnDQkqM_0000002 37.8 43.8 
+Matthew_Modine/TPrJLnDQkqM_0000003 51.6 61.8 
+Matthew_Modine/TPrJLnDQkqM_0000004 67.9 75.8 
+Matthew_Modine/TPrJLnDQkqM_0000005 82.9 89.1 
+Matthew_Modine/TPrJLnDQkqM_0000006 89.4 101.2 
+Matthew_Modine/TPrJLnDQkqM_0000007 102.7 110.3 

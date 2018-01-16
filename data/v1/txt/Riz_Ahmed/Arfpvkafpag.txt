@@ -1,0 +1,26 @@
+POI: 			Riz_Ahmed 
+Youtube ID: 	Arfpvkafpag 
+Video length: 	544.2 sec 
+Set (V): 		dev 
+ 
+Riz_Ahmed/Arfpvkafpag_0000001 82.9 89.2 
+Riz_Ahmed/Arfpvkafpag_0000002 98.4 103.0 
+Riz_Ahmed/Arfpvkafpag_0000003 119.8 129.9 
+Riz_Ahmed/Arfpvkafpag_0000004 143.8 148.4 
+Riz_Ahmed/Arfpvkafpag_0000005 151.1 155.1 
+Riz_Ahmed/Arfpvkafpag_0000006 162.7 174.0 
+Riz_Ahmed/Arfpvkafpag_0000007 212.2 217.9 
+Riz_Ahmed/Arfpvkafpag_0000008 226.1 236.3 
+Riz_Ahmed/Arfpvkafpag_0000009 247.2 253.0 
+Riz_Ahmed/Arfpvkafpag_0000010 253.9 261.4 
+Riz_Ahmed/Arfpvkafpag_0000011 263.6 268.4 
+Riz_Ahmed/Arfpvkafpag_0000012 290.4 297.3 
+Riz_Ahmed/Arfpvkafpag_0000013 314.2 318.4 
+Riz_Ahmed/Arfpvkafpag_0000014 326.0 331.4 
+Riz_Ahmed/Arfpvkafpag_0000015 353.6 370.4 
+Riz_Ahmed/Arfpvkafpag_0000016 377.4 383.2 
+Riz_Ahmed/Arfpvkafpag_0000017 386.1 396.2 
+Riz_Ahmed/Arfpvkafpag_0000018 426.2 430.7 
+Riz_Ahmed/Arfpvkafpag_0000019 440.7 454.5 
+Riz_Ahmed/Arfpvkafpag_0000020 500.9 504.9 
+Riz_Ahmed/Arfpvkafpag_0000021 515.0 519.5 

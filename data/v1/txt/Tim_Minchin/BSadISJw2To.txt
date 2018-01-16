@@ -1,0 +1,15 @@
+POI: 			Tim_Minchin 
+Youtube ID: 	BSadISJw2To 
+Video length: 	199.7 sec 
+Set (V): 		dev 
+ 
+Tim_Minchin/BSadISJw2To_0000001 08.2 17.0 
+Tim_Minchin/BSadISJw2To_0000002 17.8 24.3 
+Tim_Minchin/BSadISJw2To_0000003 45.0 50.8 
+Tim_Minchin/BSadISJw2To_0000004 53.4 66.0 
+Tim_Minchin/BSadISJw2To_0000005 69.9 76.2 
+Tim_Minchin/BSadISJw2To_0000006 102.6 113.1 
+Tim_Minchin/BSadISJw2To_0000007 141.4 150.0 
+Tim_Minchin/BSadISJw2To_0000008 151.0 159.2 
+Tim_Minchin/BSadISJw2To_0000009 176.0 180.3 
+Tim_Minchin/BSadISJw2To_0000010 181.5 185.5 

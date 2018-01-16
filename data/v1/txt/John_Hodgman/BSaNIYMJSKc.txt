@@ -1,0 +1,13 @@
+POI: 			John_Hodgman 
+Youtube ID: 	BSaNIYMJSKc 
+Video length: 	650.8 sec 
+Set (V): 		dev 
+ 
+John_Hodgman/BSaNIYMJSKc_0000001 253.8 261.5 
+John_Hodgman/BSaNIYMJSKc_0000002 305.6 315.0 
+John_Hodgman/BSaNIYMJSKc_0000003 320.6 327.2 
+John_Hodgman/BSaNIYMJSKc_0000004 455.2 462.6 
+John_Hodgman/BSaNIYMJSKc_0000005 481.7 486.4 
+John_Hodgman/BSaNIYMJSKc_0000006 536.5 542.0 
+John_Hodgman/BSaNIYMJSKc_0000007 549.1 560.0 
+John_Hodgman/BSaNIYMJSKc_0000008 614.7 619.8 

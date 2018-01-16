@@ -1,0 +1,7 @@
+POI: 			Laura_Benanti 
+Youtube ID: 	4_jha21C39E 
+Video length: 	189.6 sec 
+Set (V): 		dev 
+ 
+Laura_Benanti/4_jha21C39E_0000001 74.1 78.4 
+Laura_Benanti/4_jha21C39E_0000002 177.4 181.6 

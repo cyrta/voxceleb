@@ -1,0 +1,9 @@
+POI: 			Oona_Chaplin 
+Youtube ID: 	BM-8Ocq5yJo 
+Video length: 	151.5 sec 
+Set (V): 		dev 
+ 
+Oona_Chaplin/BM-8Ocq5yJo_0000001 52.8 57.4 
+Oona_Chaplin/BM-8Ocq5yJo_0000002 57.5 61.5 
+Oona_Chaplin/BM-8Ocq5yJo_0000003 81.9 86.9 
+Oona_Chaplin/BM-8Ocq5yJo_0000004 87.9 92.6 

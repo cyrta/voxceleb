@@ -1,0 +1,20 @@
+POI: 			Steve_Jobs 
+Youtube ID: 	w0Vvl_ByCXM 
+Video length: 	1380.2 sec 
+Set (V): 		dev 
+ 
+Steve_Jobs/w0Vvl_ByCXM_0000001 373.4 398.7 
+Steve_Jobs/w0Vvl_ByCXM_0000002 400.8 405.7 
+Steve_Jobs/w0Vvl_ByCXM_0000003 406.4 411.0 
+Steve_Jobs/w0Vvl_ByCXM_0000004 411.3 426.0 
+Steve_Jobs/w0Vvl_ByCXM_0000005 443.7 450.5 
+Steve_Jobs/w0Vvl_ByCXM_0000006 460.4 467.8 
+Steve_Jobs/w0Vvl_ByCXM_0000007 468.6 475.7 
+Steve_Jobs/w0Vvl_ByCXM_0000008 513.5 520.6 
+Steve_Jobs/w0Vvl_ByCXM_0000009 525.9 530.2 
+Steve_Jobs/w0Vvl_ByCXM_0000010 693.6 700.4 
+Steve_Jobs/w0Vvl_ByCXM_0000011 1039.9 1045.2 
+Steve_Jobs/w0Vvl_ByCXM_0000012 1045.7 1049.8 
+Steve_Jobs/w0Vvl_ByCXM_0000013 1057.2 1061.4 
+Steve_Jobs/w0Vvl_ByCXM_0000014 1069.8 1082.2 
+Steve_Jobs/w0Vvl_ByCXM_0000015 1231.4 1240.2 

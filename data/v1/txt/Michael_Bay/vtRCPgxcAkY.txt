@@ -1,0 +1,8 @@
+POI: 			Michael_Bay 
+Youtube ID: 	vtRCPgxcAkY 
+Video length: 	54.4 sec 
+Set (V): 		dev 
+ 
+Michael_Bay/vtRCPgxcAkY_0000001 04.4 08.8 
+Michael_Bay/vtRCPgxcAkY_0000002 15.2 20.2 
+Michael_Bay/vtRCPgxcAkY_0000003 29.1 35.2 

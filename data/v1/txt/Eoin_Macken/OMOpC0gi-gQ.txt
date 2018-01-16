@@ -1,0 +1,14 @@
+POI: 			Eoin_Macken 
+Youtube ID: 	OMOpC0gi-gQ 
+Video length: 	270.9 sec 
+Set (V): 		test 
+ 
+Eoin_Macken/OMOpC0gi-gQ_0000001 11.2 21.1 
+Eoin_Macken/OMOpC0gi-gQ_0000002 37.9 54.1 
+Eoin_Macken/OMOpC0gi-gQ_0000003 63.6 74.1 
+Eoin_Macken/OMOpC0gi-gQ_0000004 85.7 90.5 
+Eoin_Macken/OMOpC0gi-gQ_0000005 105.2 124.7 
+Eoin_Macken/OMOpC0gi-gQ_0000006 142.6 147.6 
+Eoin_Macken/OMOpC0gi-gQ_0000007 150.0 157.4 
+Eoin_Macken/OMOpC0gi-gQ_0000008 176.6 181.8 
+Eoin_Macken/OMOpC0gi-gQ_0000009 193.9 203.5 

@@ -1,0 +1,7 @@
+POI: 			Giovanni_Ribisi 
+Youtube ID: 	M0n08-4oSC8 
+Video length: 	136.9 sec 
+Set (V): 		dev 
+ 
+Giovanni_Ribisi/M0n08-4oSC8_0000001 71.6 76.2 
+Giovanni_Ribisi/M0n08-4oSC8_0000002 77.0 83.7 

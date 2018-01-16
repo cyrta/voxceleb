@@ -1,0 +1,25 @@
+POI: 			Lou_Diamond_Phillips 
+Youtube ID: 	iNhHCcePFPI 
+Video length: 	308.4 sec 
+Set (V): 		dev 
+ 
+Lou_Diamond_Phillips/iNhHCcePFPI_0000001 10.7 70.2 
+Lou_Diamond_Phillips/iNhHCcePFPI_0000002 88.6 97.2 
+Lou_Diamond_Phillips/iNhHCcePFPI_0000003 102.1 107.8 
+Lou_Diamond_Phillips/iNhHCcePFPI_0000004 111.8 117.2 
+Lou_Diamond_Phillips/iNhHCcePFPI_0000005 119.3 144.8 
+Lou_Diamond_Phillips/iNhHCcePFPI_0000006 146.2 155.4 
+Lou_Diamond_Phillips/iNhHCcePFPI_0000007 172.4 182.3 
+Lou_Diamond_Phillips/iNhHCcePFPI_0000008 145.2 162.9 
+Lou_Diamond_Phillips/iNhHCcePFPI_0000009 178.8 198.0 
+Lou_Diamond_Phillips/iNhHCcePFPI_0000010 198.1 207.4 
+Lou_Diamond_Phillips/iNhHCcePFPI_0000011 207.9 215.9 
+Lou_Diamond_Phillips/iNhHCcePFPI_0000012 216.5 228.6 
+Lou_Diamond_Phillips/iNhHCcePFPI_0000013 229.2 236.4 
+Lou_Diamond_Phillips/iNhHCcePFPI_0000014 277.5 282.8 
+Lou_Diamond_Phillips/iNhHCcePFPI_0000015 292.2 296.4 
+Lou_Diamond_Phillips/iNhHCcePFPI_0000016 229.6 243.6 
+Lou_Diamond_Phillips/iNhHCcePFPI_0000017 257.3 266.2 
+Lou_Diamond_Phillips/iNhHCcePFPI_0000018 268.0 277.3 
+Lou_Diamond_Phillips/iNhHCcePFPI_0000019 277.4 284.8 
+Lou_Diamond_Phillips/iNhHCcePFPI_0000020 285.2 306.0 

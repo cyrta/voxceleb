@@ -1,0 +1,18 @@
+POI: 			Santiago_Cabrera 
+Youtube ID: 	WelbcT599ko 
+Video length: 	335.5 sec 
+Set (V): 		dev 
+ 
+Santiago_Cabrera/WelbcT599ko_0000001 38.2 51.0 
+Santiago_Cabrera/WelbcT599ko_0000002 74.2 85.2 
+Santiago_Cabrera/WelbcT599ko_0000003 89.2 96.4 
+Santiago_Cabrera/WelbcT599ko_0000004 126.7 131.0 
+Santiago_Cabrera/WelbcT599ko_0000005 142.2 146.4 
+Santiago_Cabrera/WelbcT599ko_0000006 150.6 156.7 
+Santiago_Cabrera/WelbcT599ko_0000007 158.7 164.4 
+Santiago_Cabrera/WelbcT599ko_0000008 251.2 257.0 
+Santiago_Cabrera/WelbcT599ko_0000009 267.3 274.8 
+Santiago_Cabrera/WelbcT599ko_0000010 275.6 296.3 
+Santiago_Cabrera/WelbcT599ko_0000011 299.4 303.6 
+Santiago_Cabrera/WelbcT599ko_0000012 304.6 309.2 
+Santiago_Cabrera/WelbcT599ko_0000013 310.8 316.1 

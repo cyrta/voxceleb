@@ -1,0 +1,12 @@
+POI: 			Terence_Stamp 
+Youtube ID: 	Tz-DEPJjEls 
+Video length: 	86.4 sec 
+Set (V): 		dev 
+ 
+Terence_Stamp/Tz-DEPJjEls_0000001 03.7 13.2 
+Terence_Stamp/Tz-DEPJjEls_0000002 14.2 19.9 
+Terence_Stamp/Tz-DEPJjEls_0000003 23.4 28.9 
+Terence_Stamp/Tz-DEPJjEls_0000004 29.3 34.0 
+Terence_Stamp/Tz-DEPJjEls_0000005 47.8 52.1 
+Terence_Stamp/Tz-DEPJjEls_0000006 56.0 61.2 
+Terence_Stamp/Tz-DEPJjEls_0000007 67.9 72.0 

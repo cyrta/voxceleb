@@ -1,0 +1,15 @@
+POI: 			Jason_David_Frank 
+Youtube ID: 	TgqrDwc0TYI 
+Video length: 	377.1 sec 
+Set (V): 		dev 
+ 
+Jason_David_Frank/TgqrDwc0TYI_0000001 46.6 53.0 
+Jason_David_Frank/TgqrDwc0TYI_0000002 61.5 65.8 
+Jason_David_Frank/TgqrDwc0TYI_0000003 127.5 131.9 
+Jason_David_Frank/TgqrDwc0TYI_0000004 133.5 137.7 
+Jason_David_Frank/TgqrDwc0TYI_0000005 138.7 146.3 
+Jason_David_Frank/TgqrDwc0TYI_0000006 168.9 173.6 
+Jason_David_Frank/TgqrDwc0TYI_0000007 176.8 182.3 
+Jason_David_Frank/TgqrDwc0TYI_0000008 171.2 175.2 
+Jason_David_Frank/TgqrDwc0TYI_0000009 204.0 208.0 
+Jason_David_Frank/TgqrDwc0TYI_0000010 265.2 271.4 

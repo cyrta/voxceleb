@@ -1,0 +1,31 @@
+POI: 			Judy_Sheindlin 
+Youtube ID: 	BR-KHbOkbsk 
+Video length: 	399.2 sec 
+Set (V): 		dev 
+ 
+Judy_Sheindlin/BR-KHbOkbsk_0000001 09.1 13.9 
+Judy_Sheindlin/BR-KHbOkbsk_0000002 15.6 20.6 
+Judy_Sheindlin/BR-KHbOkbsk_0000003 27.4 32.9 
+Judy_Sheindlin/BR-KHbOkbsk_0000004 73.5 85.8 
+Judy_Sheindlin/BR-KHbOkbsk_0000005 104.8 111.6 
+Judy_Sheindlin/BR-KHbOkbsk_0000006 117.6 122.3 
+Judy_Sheindlin/BR-KHbOkbsk_0000007 124.4 128.3 
+Judy_Sheindlin/BR-KHbOkbsk_0000008 130.1 137.6 
+Judy_Sheindlin/BR-KHbOkbsk_0000009 143.5 149.0 
+Judy_Sheindlin/BR-KHbOkbsk_0000010 163.0 167.8 
+Judy_Sheindlin/BR-KHbOkbsk_0000011 168.1 174.0 
+Judy_Sheindlin/BR-KHbOkbsk_0000012 175.5 180.9 
+Judy_Sheindlin/BR-KHbOkbsk_0000013 206.4 211.9 
+Judy_Sheindlin/BR-KHbOkbsk_0000014 195.0 202.4 
+Judy_Sheindlin/BR-KHbOkbsk_0000015 206.4 212.1 
+Judy_Sheindlin/BR-KHbOkbsk_0000016 213.0 221.9 
+Judy_Sheindlin/BR-KHbOkbsk_0000017 230.5 236.6 
+Judy_Sheindlin/BR-KHbOkbsk_0000018 256.7 265.0 
+Judy_Sheindlin/BR-KHbOkbsk_0000019 269.7 275.2 
+Judy_Sheindlin/BR-KHbOkbsk_0000020 280.8 287.3 
+Judy_Sheindlin/BR-KHbOkbsk_0000021 288.8 300.3 
+Judy_Sheindlin/BR-KHbOkbsk_0000022 304.8 320.3 
+Judy_Sheindlin/BR-KHbOkbsk_0000023 323.2 332.7 
+Judy_Sheindlin/BR-KHbOkbsk_0000024 336.0 341.5 
+Judy_Sheindlin/BR-KHbOkbsk_0000025 351.2 372.8 
+Judy_Sheindlin/BR-KHbOkbsk_0000026 374.9 385.3 

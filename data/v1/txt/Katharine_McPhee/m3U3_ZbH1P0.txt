@@ -1,0 +1,8 @@
+POI: 			Katharine_McPhee 
+Youtube ID: 	m3U3_ZbH1P0 
+Video length: 	140.8 sec 
+Set (V): 		dev 
+ 
+Katharine_McPhee/m3U3_ZbH1P0_0000001 66.0 73.0 
+Katharine_McPhee/m3U3_ZbH1P0_0000002 74.0 78.7 
+Katharine_McPhee/m3U3_ZbH1P0_0000003 85.4 96.4 

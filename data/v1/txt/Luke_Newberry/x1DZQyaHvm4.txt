@@ -1,0 +1,17 @@
+POI: 			Luke_Newberry 
+Youtube ID: 	x1DZQyaHvm4 
+Video length: 	932.2 sec 
+Set (V): 		dev 
+ 
+Luke_Newberry/x1DZQyaHvm4_0000001 465.5 484.2 
+Luke_Newberry/x1DZQyaHvm4_0000002 484.6 488.8 
+Luke_Newberry/x1DZQyaHvm4_0000003 502.5 508.4 
+Luke_Newberry/x1DZQyaHvm4_0000004 509.4 516.3 
+Luke_Newberry/x1DZQyaHvm4_0000005 519.5 526.1 
+Luke_Newberry/x1DZQyaHvm4_0000006 527.0 531.2 
+Luke_Newberry/x1DZQyaHvm4_0000007 541.2 549.3 
+Luke_Newberry/x1DZQyaHvm4_0000008 549.7 554.4 
+Luke_Newberry/x1DZQyaHvm4_0000009 576.6 584.6 
+Luke_Newberry/x1DZQyaHvm4_0000010 587.4 598.6 
+Luke_Newberry/x1DZQyaHvm4_0000011 616.2 627.0 
+Luke_Newberry/x1DZQyaHvm4_0000012 640.6 645.5 

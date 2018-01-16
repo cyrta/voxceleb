@@ -1,0 +1,11 @@
+POI: 			Abigail_Breslin 
+Youtube ID: 	5ExvrJyWpe8 
+Video length: 	487.7 sec 
+Set (V): 		dev 
+ 
+Abigail_Breslin/5ExvrJyWpe8_0000001 135.8 142.0 
+Abigail_Breslin/5ExvrJyWpe8_0000002 142.8 152.5 
+Abigail_Breslin/5ExvrJyWpe8_0000003 237.9 260.8 
+Abigail_Breslin/5ExvrJyWpe8_0000004 269.0 277.2 
+Abigail_Breslin/5ExvrJyWpe8_0000005 412.6 416.6 
+Abigail_Breslin/5ExvrJyWpe8_0000006 463.3 470.5 

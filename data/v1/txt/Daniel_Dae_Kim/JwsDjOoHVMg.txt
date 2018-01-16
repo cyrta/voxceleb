@@ -1,0 +1,11 @@
+POI: 			Daniel_Dae_Kim 
+Youtube ID: 	JwsDjOoHVMg 
+Video length: 	182.9 sec 
+Set (V): 		dev 
+ 
+Daniel_Dae_Kim/JwsDjOoHVMg_0000001 14.6 21.2 
+Daniel_Dae_Kim/JwsDjOoHVMg_0000002 30.5 35.9 
+Daniel_Dae_Kim/JwsDjOoHVMg_0000003 46.8 54.1 
+Daniel_Dae_Kim/JwsDjOoHVMg_0000004 61.3 67.2 
+Daniel_Dae_Kim/JwsDjOoHVMg_0000005 90.0 97.3 
+Daniel_Dae_Kim/JwsDjOoHVMg_0000006 105.4 113.3 

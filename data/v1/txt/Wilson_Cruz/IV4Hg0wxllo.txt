@@ -1,0 +1,10 @@
+POI: 			Wilson_Cruz 
+Youtube ID: 	IV4Hg0wxllo 
+Video length: 	271.0 sec 
+Set (V): 		dev 
+ 
+Wilson_Cruz/IV4Hg0wxllo_0000001 28.3 32.8 
+Wilson_Cruz/IV4Hg0wxllo_0000002 103.9 108.8 
+Wilson_Cruz/IV4Hg0wxllo_0000003 122.1 127.8 
+Wilson_Cruz/IV4Hg0wxllo_0000004 249.0 253.0 
+Wilson_Cruz/IV4Hg0wxllo_0000005 253.1 258.6 

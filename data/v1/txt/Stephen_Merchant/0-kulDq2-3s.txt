@@ -1,0 +1,9 @@
+POI: 			Stephen_Merchant 
+Youtube ID: 	0-kulDq2-3s 
+Video length: 	122.6 sec 
+Set (V): 		dev 
+ 
+Stephen_Merchant/0-kulDq2-3s_0000001 34.3 43.6 
+Stephen_Merchant/0-kulDq2-3s_0000002 64.2 73.1 
+Stephen_Merchant/0-kulDq2-3s_0000003 88.8 95.8 
+Stephen_Merchant/0-kulDq2-3s_0000004 106.7 111.4 

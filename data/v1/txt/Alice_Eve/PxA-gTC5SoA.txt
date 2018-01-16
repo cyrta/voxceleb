@@ -1,0 +1,9 @@
+POI: 			Alice_Eve 
+Youtube ID: 	PxA-gTC5SoA 
+Video length: 	115.7 sec 
+Set (V): 		dev 
+ 
+Alice_Eve/PxA-gTC5SoA_0000001 00.9 10.5 
+Alice_Eve/PxA-gTC5SoA_0000002 29.4 35.3 
+Alice_Eve/PxA-gTC5SoA_0000003 68.7 75.6 
+Alice_Eve/PxA-gTC5SoA_0000004 79.1 88.0 

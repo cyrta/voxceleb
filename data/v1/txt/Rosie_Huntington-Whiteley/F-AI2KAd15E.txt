@@ -1,0 +1,10 @@
+POI: 			Rosie_Huntington-Whiteley 
+Youtube ID: 	F-AI2KAd15E 
+Video length: 	185.8 sec 
+Set (V): 		dev 
+ 
+Rosie_Huntington-Whiteley/F-AI2KAd15E_0000001 50.7 58.9 
+Rosie_Huntington-Whiteley/F-AI2KAd15E_0000002 62.5 66.7 
+Rosie_Huntington-Whiteley/F-AI2KAd15E_0000003 78.8 86.1 
+Rosie_Huntington-Whiteley/F-AI2KAd15E_0000004 88.4 95.7 
+Rosie_Huntington-Whiteley/F-AI2KAd15E_0000005 110.2 133.9 

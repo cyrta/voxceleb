@@ -1,0 +1,7 @@
+POI: 			Vince_Gilligan 
+Youtube ID: 	CR2h6QnwraE 
+Video length: 	299.9 sec 
+Set (V): 		dev 
+ 
+Vince_Gilligan/CR2h6QnwraE_0000001 152.4 156.4 
+Vince_Gilligan/CR2h6QnwraE_0000002 189.5 195.3 

@@ -1,0 +1,8 @@
+POI: 			Michael_Trevino 
+Youtube ID: 	q0v8M-Fq_N4 
+Video length: 	482.6 sec 
+Set (V): 		dev 
+ 
+Michael_Trevino/q0v8M-Fq_N4_0000001 303.6 311.5 
+Michael_Trevino/q0v8M-Fq_N4_0000002 311.2 316.7 
+Michael_Trevino/q0v8M-Fq_N4_0000003 317.6 325.3 

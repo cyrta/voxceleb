@@ -1,0 +1,24 @@
+POI: 			Alex_Kingston 
+Youtube ID: 	P-7wcXaLUUs 
+Video length: 	322.8 sec 
+Set (V): 		dev 
+ 
+Alex_Kingston/P-7wcXaLUUs_0000001 19.5 28.9 
+Alex_Kingston/P-7wcXaLUUs_0000002 33.1 39.6 
+Alex_Kingston/P-7wcXaLUUs_0000003 49.0 53.4 
+Alex_Kingston/P-7wcXaLUUs_0000004 80.4 85.4 
+Alex_Kingston/P-7wcXaLUUs_0000005 94.6 98.9 
+Alex_Kingston/P-7wcXaLUUs_0000006 102.4 106.9 
+Alex_Kingston/P-7wcXaLUUs_0000007 125.8 132.6 
+Alex_Kingston/P-7wcXaLUUs_0000008 136.2 143.7 
+Alex_Kingston/P-7wcXaLUUs_0000009 144.2 149.0 
+Alex_Kingston/P-7wcXaLUUs_0000010 153.6 160.5 
+Alex_Kingston/P-7wcXaLUUs_0000011 179.3 184.0 
+Alex_Kingston/P-7wcXaLUUs_0000012 196.3 203.2 
+Alex_Kingston/P-7wcXaLUUs_0000013 208.2 212.1 
+Alex_Kingston/P-7wcXaLUUs_0000014 216.2 224.7 
+Alex_Kingston/P-7wcXaLUUs_0000015 224.8 229.2 
+Alex_Kingston/P-7wcXaLUUs_0000016 244.0 264.8 
+Alex_Kingston/P-7wcXaLUUs_0000017 268.9 280.6 
+Alex_Kingston/P-7wcXaLUUs_0000018 298.4 302.6 
+Alex_Kingston/P-7wcXaLUUs_0000019 303.4 310.4 

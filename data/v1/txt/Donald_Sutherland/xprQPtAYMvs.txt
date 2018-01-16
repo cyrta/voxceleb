@@ -1,0 +1,7 @@
+POI: 			Donald_Sutherland 
+Youtube ID: 	xprQPtAYMvs 
+Video length: 	264.8 sec 
+Set (V): 		dev 
+ 
+Donald_Sutherland/xprQPtAYMvs_0000001 109.7 113.7 
+Donald_Sutherland/xprQPtAYMvs_0000002 171.7 178.5 

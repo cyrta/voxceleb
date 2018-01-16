@@ -1,0 +1,16 @@
+POI: 			Fawad_Khan 
+Youtube ID: 	UaYcwNSbolM 
+Video length: 	1360.1 sec 
+Set (V): 		dev 
+ 
+Fawad_Khan/UaYcwNSbolM_0000001 186.6 192.5 
+Fawad_Khan/UaYcwNSbolM_0000002 221.1 225.2 
+Fawad_Khan/UaYcwNSbolM_0000003 234.2 238.2 
+Fawad_Khan/UaYcwNSbolM_0000004 310.2 314.6 
+Fawad_Khan/UaYcwNSbolM_0000005 347.9 353.5 
+Fawad_Khan/UaYcwNSbolM_0000006 354.3 360.1 
+Fawad_Khan/UaYcwNSbolM_0000007 532.6 540.6 
+Fawad_Khan/UaYcwNSbolM_0000008 836.1 841.5 
+Fawad_Khan/UaYcwNSbolM_0000009 899.7 911.6 
+Fawad_Khan/UaYcwNSbolM_0000010 1053.5 1058.2 
+Fawad_Khan/UaYcwNSbolM_0000011 1099.1 1103.4 

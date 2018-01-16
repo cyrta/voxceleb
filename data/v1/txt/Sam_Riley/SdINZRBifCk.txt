@@ -1,0 +1,11 @@
+POI: 			Sam_Riley 
+Youtube ID: 	SdINZRBifCk 
+Video length: 	344.9 sec 
+Set (V): 		dev 
+ 
+Sam_Riley/SdINZRBifCk_0000001 99.4 107.9 
+Sam_Riley/SdINZRBifCk_0000002 141.8 147.3 
+Sam_Riley/SdINZRBifCk_0000003 152.6 162.6 
+Sam_Riley/SdINZRBifCk_0000004 228.9 235.2 
+Sam_Riley/SdINZRBifCk_0000005 241.6 253.1 
+Sam_Riley/SdINZRBifCk_0000006 311.4 315.8 

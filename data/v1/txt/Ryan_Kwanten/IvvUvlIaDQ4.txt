@@ -1,0 +1,8 @@
+POI: 			Ryan_Kwanten 
+Youtube ID: 	IvvUvlIaDQ4 
+Video length: 	75.6 sec 
+Set (V): 		dev 
+ 
+Ryan_Kwanten/IvvUvlIaDQ4_0000001 14.0 18.8 
+Ryan_Kwanten/IvvUvlIaDQ4_0000002 26.6 31.4 
+Ryan_Kwanten/IvvUvlIaDQ4_0000003 46.8 51.0 

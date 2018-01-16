@@ -1,0 +1,31 @@
+POI: 			Gates_McFadden 
+Youtube ID: 	vnGHamxUmOc 
+Video length: 	722.2 sec 
+Set (V): 		dev 
+ 
+Gates_McFadden/vnGHamxUmOc_0000001 80.2 86.0 
+Gates_McFadden/vnGHamxUmOc_0000002 105.6 113.6 
+Gates_McFadden/vnGHamxUmOc_0000003 118.0 124.0 
+Gates_McFadden/vnGHamxUmOc_0000004 149.4 156.7 
+Gates_McFadden/vnGHamxUmOc_0000005 158.4 165.9 
+Gates_McFadden/vnGHamxUmOc_0000006 201.0 214.4 
+Gates_McFadden/vnGHamxUmOc_0000007 251.9 256.1 
+Gates_McFadden/vnGHamxUmOc_0000008 262.7 274.0 
+Gates_McFadden/vnGHamxUmOc_0000009 275.1 280.4 
+Gates_McFadden/vnGHamxUmOc_0000010 281.3 286.8 
+Gates_McFadden/vnGHamxUmOc_0000011 288.2 293.4 
+Gates_McFadden/vnGHamxUmOc_0000012 267.8 274.0 
+Gates_McFadden/vnGHamxUmOc_0000013 274.8 280.4 
+Gates_McFadden/vnGHamxUmOc_0000014 281.4 286.8 
+Gates_McFadden/vnGHamxUmOc_0000015 325.5 333.0 
+Gates_McFadden/vnGHamxUmOc_0000016 353.7 361.6 
+Gates_McFadden/vnGHamxUmOc_0000017 427.2 431.3 
+Gates_McFadden/vnGHamxUmOc_0000018 479.6 483.6 
+Gates_McFadden/vnGHamxUmOc_0000019 485.9 491.4 
+Gates_McFadden/vnGHamxUmOc_0000020 499.6 503.6 
+Gates_McFadden/vnGHamxUmOc_0000021 507.9 512.2 
+Gates_McFadden/vnGHamxUmOc_0000022 575.4 586.6 
+Gates_McFadden/vnGHamxUmOc_0000023 588.5 592.8 
+Gates_McFadden/vnGHamxUmOc_0000024 593.1 597.4 
+Gates_McFadden/vnGHamxUmOc_0000025 659.6 663.6 
+Gates_McFadden/vnGHamxUmOc_0000026 667.2 671.2 

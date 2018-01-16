@@ -1,0 +1,11 @@
+POI: 			Rami_Malek 
+Youtube ID: 	E9ze2O0JuUA 
+Video length: 	399.6 sec 
+Set (V): 		dev 
+ 
+Rami_Malek/E9ze2O0JuUA_0000001 213.4 219.2 
+Rami_Malek/E9ze2O0JuUA_0000002 222.9 230.0 
+Rami_Malek/E9ze2O0JuUA_0000003 275.7 292.5 
+Rami_Malek/E9ze2O0JuUA_0000004 301.7 308.6 
+Rami_Malek/E9ze2O0JuUA_0000005 334.4 339.0 
+Rami_Malek/E9ze2O0JuUA_0000006 367.1 384.8 

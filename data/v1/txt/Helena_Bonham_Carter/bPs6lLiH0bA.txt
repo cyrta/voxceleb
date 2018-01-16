@@ -1,0 +1,13 @@
+POI: 			Helena_Bonham_Carter 
+Youtube ID: 	bPs6lLiH0bA 
+Video length: 	150.1 sec 
+Set (V): 		dev 
+ 
+Helena_Bonham_Carter/bPs6lLiH0bA_0000001 29.8 37.8 
+Helena_Bonham_Carter/bPs6lLiH0bA_0000002 47.0 65.8 
+Helena_Bonham_Carter/bPs6lLiH0bA_0000003 67.1 72.3 
+Helena_Bonham_Carter/bPs6lLiH0bA_0000004 49.9 62.0 
+Helena_Bonham_Carter/bPs6lLiH0bA_0000005 85.4 102.7 
+Helena_Bonham_Carter/bPs6lLiH0bA_0000006 108.8 116.2 
+Helena_Bonham_Carter/bPs6lLiH0bA_0000007 124.7 130.5 
+Helena_Bonham_Carter/bPs6lLiH0bA_0000008 142.7 148.6 

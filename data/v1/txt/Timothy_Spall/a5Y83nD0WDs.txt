@@ -1,0 +1,12 @@
+POI: 			Timothy_Spall 
+Youtube ID: 	a5Y83nD0WDs 
+Video length: 	149.0 sec 
+Set (V): 		dev 
+ 
+Timothy_Spall/a5Y83nD0WDs_0000001 23.9 28.3 
+Timothy_Spall/a5Y83nD0WDs_0000002 44.8 52.4 
+Timothy_Spall/a5Y83nD0WDs_0000003 64.2 73.6 
+Timothy_Spall/a5Y83nD0WDs_0000004 75.4 89.5 
+Timothy_Spall/a5Y83nD0WDs_0000005 108.1 114.6 
+Timothy_Spall/a5Y83nD0WDs_0000006 125.7 130.6 
+Timothy_Spall/a5Y83nD0WDs_0000007 140.0 144.5 

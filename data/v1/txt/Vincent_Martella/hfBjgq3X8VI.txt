@@ -1,0 +1,8 @@
+POI: 			Vincent_Martella 
+Youtube ID: 	hfBjgq3X8VI 
+Video length: 	70.2 sec 
+Set (V): 		dev 
+ 
+Vincent_Martella/hfBjgq3X8VI_0000001 16.7 22.4 
+Vincent_Martella/hfBjgq3X8VI_0000002 29.4 36.1 
+Vincent_Martella/hfBjgq3X8VI_0000003 39.1 46.6 

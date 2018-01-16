@@ -1,0 +1,32 @@
+POI: 			Jon_Pertwee 
+Youtube ID: 	0lgey2_fLVE 
+Video length: 	1434.1 sec 
+Set (V): 		dev 
+ 
+Jon_Pertwee/0lgey2_fLVE_0000001 47.6 52.3 
+Jon_Pertwee/0lgey2_fLVE_0000002 142.6 146.6 
+Jon_Pertwee/0lgey2_fLVE_0000003 165.3 171.2 
+Jon_Pertwee/0lgey2_fLVE_0000004 273.1 278.5 
+Jon_Pertwee/0lgey2_fLVE_0000005 400.9 405.1 
+Jon_Pertwee/0lgey2_fLVE_0000006 516.1 522.4 
+Jon_Pertwee/0lgey2_fLVE_0000007 526.3 531.2 
+Jon_Pertwee/0lgey2_fLVE_0000008 536.9 542.0 
+Jon_Pertwee/0lgey2_fLVE_0000009 572.7 579.4 
+Jon_Pertwee/0lgey2_fLVE_0000010 613.7 618.7 
+Jon_Pertwee/0lgey2_fLVE_0000011 648.9 653.9 
+Jon_Pertwee/0lgey2_fLVE_0000012 681.6 686.7 
+Jon_Pertwee/0lgey2_fLVE_0000013 692.3 699.0 
+Jon_Pertwee/0lgey2_fLVE_0000014 745.1 750.2 
+Jon_Pertwee/0lgey2_fLVE_0000015 768.0 772.9 
+Jon_Pertwee/0lgey2_fLVE_0000016 773.0 779.1 
+Jon_Pertwee/0lgey2_fLVE_0000017 780.4 790.0 
+Jon_Pertwee/0lgey2_fLVE_0000018 856.7 860.7 
+Jon_Pertwee/0lgey2_fLVE_0000019 905.8 912.6 
+Jon_Pertwee/0lgey2_fLVE_0000020 970.1 975.1 
+Jon_Pertwee/0lgey2_fLVE_0000021 979.8 983.8 
+Jon_Pertwee/0lgey2_fLVE_0000022 984.2 988.6 
+Jon_Pertwee/0lgey2_fLVE_0000023 993.4 997.7 
+Jon_Pertwee/0lgey2_fLVE_0000024 1081.7 1086.3 
+Jon_Pertwee/0lgey2_fLVE_0000025 1266.3 1276.0 
+Jon_Pertwee/0lgey2_fLVE_0000026 1285.8 1296.6 
+Jon_Pertwee/0lgey2_fLVE_0000027 1369.2 1373.4 

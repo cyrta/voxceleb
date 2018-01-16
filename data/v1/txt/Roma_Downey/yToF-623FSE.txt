@@ -1,0 +1,8 @@
+POI: 			Roma_Downey 
+Youtube ID: 	yToF-623FSE 
+Video length: 	211.0 sec 
+Set (V): 		dev 
+ 
+Roma_Downey/yToF-623FSE_0000001 06.6 18.4 
+Roma_Downey/yToF-623FSE_0000002 54.6 71.9 
+Roma_Downey/yToF-623FSE_0000003 151.9 157.0 

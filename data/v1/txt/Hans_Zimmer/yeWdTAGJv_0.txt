@@ -1,0 +1,9 @@
+POI: 			Hans_Zimmer 
+Youtube ID: 	yeWdTAGJv_0 
+Video length: 	240.6 sec 
+Set (V): 		dev 
+ 
+Hans_Zimmer/yeWdTAGJv_0_0000001 36.2 40.6 
+Hans_Zimmer/yeWdTAGJv_0_0000002 109.1 113.8 
+Hans_Zimmer/yeWdTAGJv_0_0000003 139.2 146.8 
+Hans_Zimmer/yeWdTAGJv_0_0000004 170.2 174.3 

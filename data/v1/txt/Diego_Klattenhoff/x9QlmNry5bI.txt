@@ -1,0 +1,18 @@
+POI: 			Diego_Klattenhoff 
+Youtube ID: 	x9QlmNry5bI 
+Video length: 	210.5 sec 
+Set (V): 		dev 
+ 
+Diego_Klattenhoff/x9QlmNry5bI_0000001 12.8 19.5 
+Diego_Klattenhoff/x9QlmNry5bI_0000002 20.5 26.4 
+Diego_Klattenhoff/x9QlmNry5bI_0000003 68.7 74.0 
+Diego_Klattenhoff/x9QlmNry5bI_0000004 86.5 91.1 
+Diego_Klattenhoff/x9QlmNry5bI_0000005 92.6 101.1 
+Diego_Klattenhoff/x9QlmNry5bI_0000006 104.7 109.8 
+Diego_Klattenhoff/x9QlmNry5bI_0000007 120.8 125.5 
+Diego_Klattenhoff/x9QlmNry5bI_0000008 145.3 153.1 
+Diego_Klattenhoff/x9QlmNry5bI_0000009 153.4 157.7 
+Diego_Klattenhoff/x9QlmNry5bI_0000010 159.8 173.6 
+Diego_Klattenhoff/x9QlmNry5bI_0000011 176.9 184.6 
+Diego_Klattenhoff/x9QlmNry5bI_0000012 185.6 190.1 
+Diego_Klattenhoff/x9QlmNry5bI_0000013 195.6 200.9 

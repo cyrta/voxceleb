@@ -1,0 +1,22 @@
+POI: 			Paul_Giamatti 
+Youtube ID: 	TO7yrxmZAk4 
+Video length: 	582.5 sec 
+Set (V): 		dev 
+ 
+Paul_Giamatti/TO7yrxmZAk4_0000001 96.6 104.2 
+Paul_Giamatti/TO7yrxmZAk4_0000002 108.4 117.2 
+Paul_Giamatti/TO7yrxmZAk4_0000003 126.6 130.7 
+Paul_Giamatti/TO7yrxmZAk4_0000004 133.3 140.2 
+Paul_Giamatti/TO7yrxmZAk4_0000005 151.2 155.8 
+Paul_Giamatti/TO7yrxmZAk4_0000006 192.7 205.1 
+Paul_Giamatti/TO7yrxmZAk4_0000007 247.9 253.8 
+Paul_Giamatti/TO7yrxmZAk4_0000008 254.0 265.6 
+Paul_Giamatti/TO7yrxmZAk4_0000009 269.6 283.0 
+Paul_Giamatti/TO7yrxmZAk4_0000010 283.5 288.0 
+Paul_Giamatti/TO7yrxmZAk4_0000011 328.0 336.9 
+Paul_Giamatti/TO7yrxmZAk4_0000012 337.6 345.2 
+Paul_Giamatti/TO7yrxmZAk4_0000013 322.4 327.1 
+Paul_Giamatti/TO7yrxmZAk4_0000014 363.5 367.7 
+Paul_Giamatti/TO7yrxmZAk4_0000015 373.6 388.8 
+Paul_Giamatti/TO7yrxmZAk4_0000016 445.4 449.7 
+Paul_Giamatti/TO7yrxmZAk4_0000017 516.4 520.9 

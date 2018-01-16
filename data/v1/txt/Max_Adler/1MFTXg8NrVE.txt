@@ -1,0 +1,8 @@
+POI: 			Max_Adler 
+Youtube ID: 	1MFTXg8NrVE 
+Video length: 	30.2 sec 
+Set (V): 		dev 
+ 
+Max_Adler/1MFTXg8NrVE_0000001 05.2 11.1 
+Max_Adler/1MFTXg8NrVE_0000002 13.4 18.3 
+Max_Adler/1MFTXg8NrVE_0000003 24.7 28.7 

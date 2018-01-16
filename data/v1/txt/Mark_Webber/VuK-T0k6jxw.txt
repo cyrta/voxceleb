@@ -1,0 +1,16 @@
+POI: 			Mark_Webber 
+Youtube ID: 	VuK-T0k6jxw 
+Video length: 	190.5 sec 
+Set (V): 		dev 
+ 
+Mark_Webber/VuK-T0k6jxw_0000001 09.8 18.3 
+Mark_Webber/VuK-T0k6jxw_0000002 20.1 31.9 
+Mark_Webber/VuK-T0k6jxw_0000003 33.2 41.1 
+Mark_Webber/VuK-T0k6jxw_0000004 41.8 49.9 
+Mark_Webber/VuK-T0k6jxw_0000005 62.3 68.5 
+Mark_Webber/VuK-T0k6jxw_0000006 71.4 82.1 
+Mark_Webber/VuK-T0k6jxw_0000007 86.6 104.3 
+Mark_Webber/VuK-T0k6jxw_0000008 106.1 122.8 
+Mark_Webber/VuK-T0k6jxw_0000009 137.4 145.0 
+Mark_Webber/VuK-T0k6jxw_0000010 145.5 173.0 
+Mark_Webber/VuK-T0k6jxw_0000011 166.8 173.3 

@@ -1,0 +1,8 @@
+POI: 			Ana_Gasteyer 
+Youtube ID: 	XX0A5ktvcwE 
+Video length: 	63.4 sec 
+Set (V): 		dev 
+ 
+Ana_Gasteyer/XX0A5ktvcwE_0000001 10.9 35.8 
+Ana_Gasteyer/XX0A5ktvcwE_0000002 36.7 42.7 
+Ana_Gasteyer/XX0A5ktvcwE_0000003 42.8 46.7 

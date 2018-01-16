@@ -1,0 +1,23 @@
+POI: 			David_Harewood 
+Youtube ID: 	OpnQ_ROfzVE 
+Video length: 	326.4 sec 
+Set (V): 		dev 
+ 
+David_Harewood/OpnQ_ROfzVE_0000001 00.8 05.2 
+David_Harewood/OpnQ_ROfzVE_0000002 06.1 13.7 
+David_Harewood/OpnQ_ROfzVE_0000003 19.5 29.9 
+David_Harewood/OpnQ_ROfzVE_0000004 46.0 64.2 
+David_Harewood/OpnQ_ROfzVE_0000005 69.0 74.6 
+David_Harewood/OpnQ_ROfzVE_0000006 76.6 81.0 
+David_Harewood/OpnQ_ROfzVE_0000007 88.9 112.6 
+David_Harewood/OpnQ_ROfzVE_0000008 146.8 157.0 
+David_Harewood/OpnQ_ROfzVE_0000009 166.9 183.6 
+David_Harewood/OpnQ_ROfzVE_0000010 186.2 196.3 
+David_Harewood/OpnQ_ROfzVE_0000011 206.0 212.2 
+David_Harewood/OpnQ_ROfzVE_0000012 216.6 232.6 
+David_Harewood/OpnQ_ROfzVE_0000013 247.5 251.7 
+David_Harewood/OpnQ_ROfzVE_0000014 252.2 264.2 
+David_Harewood/OpnQ_ROfzVE_0000015 266.2 272.0 
+David_Harewood/OpnQ_ROfzVE_0000016 278.9 285.6 
+David_Harewood/OpnQ_ROfzVE_0000017 300.6 305.0 
+David_Harewood/OpnQ_ROfzVE_0000018 306.9 313.8 

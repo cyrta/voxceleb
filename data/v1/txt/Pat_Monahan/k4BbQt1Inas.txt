@@ -1,0 +1,21 @@
+POI: 			Pat_Monahan 
+Youtube ID: 	k4BbQt1Inas 
+Video length: 	313.9 sec 
+Set (V): 		dev 
+ 
+Pat_Monahan/k4BbQt1Inas_0000001 24.3 31.1 
+Pat_Monahan/k4BbQt1Inas_0000002 36.6 43.9 
+Pat_Monahan/k4BbQt1Inas_0000003 80.1 84.6 
+Pat_Monahan/k4BbQt1Inas_0000004 91.4 97.0 
+Pat_Monahan/k4BbQt1Inas_0000005 101.7 106.6 
+Pat_Monahan/k4BbQt1Inas_0000006 121.0 125.3 
+Pat_Monahan/k4BbQt1Inas_0000007 131.7 138.3 
+Pat_Monahan/k4BbQt1Inas_0000008 157.0 161.2 
+Pat_Monahan/k4BbQt1Inas_0000009 170.7 176.3 
+Pat_Monahan/k4BbQt1Inas_0000010 178.2 188.3 
+Pat_Monahan/k4BbQt1Inas_0000011 202.4 211.3 
+Pat_Monahan/k4BbQt1Inas_0000012 212.5 217.6 
+Pat_Monahan/k4BbQt1Inas_0000013 222.8 228.8 
+Pat_Monahan/k4BbQt1Inas_0000014 230.3 251.1 
+Pat_Monahan/k4BbQt1Inas_0000015 270.1 285.7 
+Pat_Monahan/k4BbQt1Inas_0000016 287.0 301.7 

@@ -1,0 +1,9 @@
+POI: 			John_Terry 
+Youtube ID: 	h6m1HeXm_fg 
+Video length: 	187.2 sec 
+Set (V): 		dev 
+ 
+John_Terry/h6m1HeXm_fg_0000001 03.5 14.6 
+John_Terry/h6m1HeXm_fg_0000002 43.2 52.2 
+John_Terry/h6m1HeXm_fg_0000003 54.2 65.0 
+John_Terry/h6m1HeXm_fg_0000004 163.8 170.8 

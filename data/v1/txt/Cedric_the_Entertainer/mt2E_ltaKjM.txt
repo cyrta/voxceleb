@@ -1,0 +1,8 @@
+POI: 			Cedric_the_Entertainer 
+Youtube ID: 	mt2E_ltaKjM 
+Video length: 	244.8 sec 
+Set (V): 		dev 
+ 
+Cedric_the_Entertainer/mt2E_ltaKjM_0000001 129.4 133.9 
+Cedric_the_Entertainer/mt2E_ltaKjM_0000002 134.3 138.4 
+Cedric_the_Entertainer/mt2E_ltaKjM_0000003 152.1 158.5 

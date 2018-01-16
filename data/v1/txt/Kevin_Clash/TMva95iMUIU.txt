@@ -1,0 +1,12 @@
+POI: 			Kevin_Clash 
+Youtube ID: 	TMva95iMUIU 
+Video length: 	223.2 sec 
+Set (V): 		dev 
+ 
+Kevin_Clash/TMva95iMUIU_0000001 14.7 23.3 
+Kevin_Clash/TMva95iMUIU_0000002 25.1 29.1 
+Kevin_Clash/TMva95iMUIU_0000003 30.4 36.9 
+Kevin_Clash/TMva95iMUIU_0000004 37.6 43.6 
+Kevin_Clash/TMva95iMUIU_0000005 60.0 64.2 
+Kevin_Clash/TMva95iMUIU_0000006 71.8 78.1 
+Kevin_Clash/TMva95iMUIU_0000007 108.7 113.6 

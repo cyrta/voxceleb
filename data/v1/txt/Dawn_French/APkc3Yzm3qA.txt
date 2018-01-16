@@ -1,0 +1,9 @@
+POI: 			Dawn_French 
+Youtube ID: 	APkc3Yzm3qA 
+Video length: 	157.1 sec 
+Set (V): 		dev 
+ 
+Dawn_French/APkc3Yzm3qA_0000001 17.4 25.5 
+Dawn_French/APkc3Yzm3qA_0000002 66.1 74.4 
+Dawn_French/APkc3Yzm3qA_0000003 112.0 121.2 
+Dawn_French/APkc3Yzm3qA_0000004 123.3 128.2 

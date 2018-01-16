@@ -1,0 +1,9 @@
+POI: 			Kristen_Johnston 
+Youtube ID: 	KvPw-jTh4TA 
+Video length: 	281.7 sec 
+Set (V): 		dev 
+ 
+Kristen_Johnston/KvPw-jTh4TA_0000001 58.6 68.0 
+Kristen_Johnston/KvPw-jTh4TA_0000002 88.2 94.1 
+Kristen_Johnston/KvPw-jTh4TA_0000003 111.8 117.6 
+Kristen_Johnston/KvPw-jTh4TA_0000004 241.8 248.4 

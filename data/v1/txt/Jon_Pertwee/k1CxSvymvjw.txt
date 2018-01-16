@@ -1,0 +1,8 @@
+POI: 			Jon_Pertwee 
+Youtube ID: 	k1CxSvymvjw 
+Video length: 	175.6 sec 
+Set (V): 		dev 
+ 
+Jon_Pertwee/k1CxSvymvjw_0000001 126.0 131.6 
+Jon_Pertwee/k1CxSvymvjw_0000002 132.0 138.0 
+Jon_Pertwee/k1CxSvymvjw_0000003 163.4 168.9 

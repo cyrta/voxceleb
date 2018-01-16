@@ -1,0 +1,21 @@
+POI: 			Jorja_Fox 
+Youtube ID: 	rMZvBGH-O_8 
+Video length: 	465.6 sec 
+Set (V): 		dev 
+ 
+Jorja_Fox/rMZvBGH-O_8_0000001 06.2 15.0 
+Jorja_Fox/rMZvBGH-O_8_0000002 42.0 46.1 
+Jorja_Fox/rMZvBGH-O_8_0000003 60.8 66.9 
+Jorja_Fox/rMZvBGH-O_8_0000004 75.0 81.6 
+Jorja_Fox/rMZvBGH-O_8_0000005 104.7 111.0 
+Jorja_Fox/rMZvBGH-O_8_0000006 125.8 130.5 
+Jorja_Fox/rMZvBGH-O_8_0000007 219.3 224.7 
+Jorja_Fox/rMZvBGH-O_8_0000008 237.4 242.9 
+Jorja_Fox/rMZvBGH-O_8_0000009 266.3 278.3 
+Jorja_Fox/rMZvBGH-O_8_0000010 290.1 294.5 
+Jorja_Fox/rMZvBGH-O_8_0000011 295.0 300.6 
+Jorja_Fox/rMZvBGH-O_8_0000012 313.0 317.7 
+Jorja_Fox/rMZvBGH-O_8_0000013 372.9 377.3 
+Jorja_Fox/rMZvBGH-O_8_0000014 381.2 388.5 
+Jorja_Fox/rMZvBGH-O_8_0000015 389.6 401.6 
+Jorja_Fox/rMZvBGH-O_8_0000016 402.4 406.9 

@@ -1,0 +1,22 @@
+POI: 			Manish_Dayal 
+Youtube ID: 	cjuZeT_JSBs 
+Video length: 	329.2 sec 
+Set (V): 		dev 
+ 
+Manish_Dayal/cjuZeT_JSBs_0000001 19.5 33.0 
+Manish_Dayal/cjuZeT_JSBs_0000002 33.3 37.3 
+Manish_Dayal/cjuZeT_JSBs_0000003 84.8 90.6 
+Manish_Dayal/cjuZeT_JSBs_0000004 90.8 100.2 
+Manish_Dayal/cjuZeT_JSBs_0000005 114.8 119.3 
+Manish_Dayal/cjuZeT_JSBs_0000006 119.4 137.1 
+Manish_Dayal/cjuZeT_JSBs_0000007 142.1 147.8 
+Manish_Dayal/cjuZeT_JSBs_0000008 155.3 159.8 
+Manish_Dayal/cjuZeT_JSBs_0000009 162.3 167.2 
+Manish_Dayal/cjuZeT_JSBs_0000010 177.6 184.0 
+Manish_Dayal/cjuZeT_JSBs_0000011 189.2 194.2 
+Manish_Dayal/cjuZeT_JSBs_0000012 224.6 230.7 
+Manish_Dayal/cjuZeT_JSBs_0000013 248.0 252.3 
+Manish_Dayal/cjuZeT_JSBs_0000014 258.0 263.3 
+Manish_Dayal/cjuZeT_JSBs_0000015 269.4 273.7 
+Manish_Dayal/cjuZeT_JSBs_0000016 311.5 316.9 
+Manish_Dayal/cjuZeT_JSBs_0000017 318.2 322.6 

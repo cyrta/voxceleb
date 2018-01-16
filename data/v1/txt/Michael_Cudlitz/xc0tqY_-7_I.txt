@@ -1,0 +1,13 @@
+POI: 			Michael_Cudlitz 
+Youtube ID: 	xc0tqY_-7_I 
+Video length: 	869.0 sec 
+Set (V): 		dev 
+ 
+Michael_Cudlitz/xc0tqY_-7_I_0000001 293.0 299.4 
+Michael_Cudlitz/xc0tqY_-7_I_0000002 317.4 324.8 
+Michael_Cudlitz/xc0tqY_-7_I_0000003 429.4 434.2 
+Michael_Cudlitz/xc0tqY_-7_I_0000004 449.5 454.8 
+Michael_Cudlitz/xc0tqY_-7_I_0000005 679.4 686.0 
+Michael_Cudlitz/xc0tqY_-7_I_0000006 706.5 710.6 
+Michael_Cudlitz/xc0tqY_-7_I_0000007 772.4 778.2 
+Michael_Cudlitz/xc0tqY_-7_I_0000008 796.0 802.0 

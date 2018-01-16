@@ -1,0 +1,17 @@
+POI: 			Andrew_Rannells 
+Youtube ID: 	sQ0NNVXsvj4 
+Video length: 	746.9 sec 
+Set (V): 		dev 
+ 
+Andrew_Rannells/sQ0NNVXsvj4_0000001 122.3 126.8 
+Andrew_Rannells/sQ0NNVXsvj4_0000002 127.0 131.8 
+Andrew_Rannells/sQ0NNVXsvj4_0000003 140.7 150.0 
+Andrew_Rannells/sQ0NNVXsvj4_0000004 170.6 180.9 
+Andrew_Rannells/sQ0NNVXsvj4_0000005 191.6 199.9 
+Andrew_Rannells/sQ0NNVXsvj4_0000006 205.5 210.6 
+Andrew_Rannells/sQ0NNVXsvj4_0000007 236.2 248.2 
+Andrew_Rannells/sQ0NNVXsvj4_0000008 249.8 254.9 
+Andrew_Rannells/sQ0NNVXsvj4_0000009 269.6 280.4 
+Andrew_Rannells/sQ0NNVXsvj4_0000010 293.9 302.1 
+Andrew_Rannells/sQ0NNVXsvj4_0000011 664.7 671.5 
+Andrew_Rannells/sQ0NNVXsvj4_0000012 687.0 691.0 

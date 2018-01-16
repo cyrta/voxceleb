@@ -1,0 +1,12 @@
+POI: 			Luc_Besson 
+Youtube ID: 	amJ5Zx_Cl2c 
+Video length: 	408.2 sec 
+Set (V): 		dev 
+ 
+Luc_Besson/amJ5Zx_Cl2c_0000001 24.5 33.2 
+Luc_Besson/amJ5Zx_Cl2c_0000002 39.0 44.9 
+Luc_Besson/amJ5Zx_Cl2c_0000003 47.0 51.6 
+Luc_Besson/amJ5Zx_Cl2c_0000004 174.2 179.4 
+Luc_Besson/amJ5Zx_Cl2c_0000005 198.4 207.0 
+Luc_Besson/amJ5Zx_Cl2c_0000006 217.0 227.8 
+Luc_Besson/amJ5Zx_Cl2c_0000007 234.0 247.2 

@@ -1,0 +1,14 @@
+POI: 			Michael_Socha 
+Youtube ID: 	usJBAasOQvo 
+Video length: 	164.1 sec 
+Set (V): 		dev 
+ 
+Michael_Socha/usJBAasOQvo_0000001 07.4 13.5 
+Michael_Socha/usJBAasOQvo_0000002 23.8 34.0 
+Michael_Socha/usJBAasOQvo_0000003 55.5 61.8 
+Michael_Socha/usJBAasOQvo_0000004 69.6 76.8 
+Michael_Socha/usJBAasOQvo_0000005 90.3 98.3 
+Michael_Socha/usJBAasOQvo_0000006 108.6 113.0 
+Michael_Socha/usJBAasOQvo_0000007 113.8 119.9 
+Michael_Socha/usJBAasOQvo_0000008 122.2 127.1 
+Michael_Socha/usJBAasOQvo_0000009 130.0 136.1 

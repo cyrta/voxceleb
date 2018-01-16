@@ -1,0 +1,13 @@
+POI: 			Michael_Bay 
+Youtube ID: 	BsAkd3KVQ2k 
+Video length: 	251.0 sec 
+Set (V): 		dev 
+ 
+Michael_Bay/BsAkd3KVQ2k_0000001 23.0 41.7 
+Michael_Bay/BsAkd3KVQ2k_0000002 42.8 51.7 
+Michael_Bay/BsAkd3KVQ2k_0000003 52.6 61.8 
+Michael_Bay/BsAkd3KVQ2k_0000004 68.7 78.9 
+Michael_Bay/BsAkd3KVQ2k_0000005 82.0 87.6 
+Michael_Bay/BsAkd3KVQ2k_0000006 104.5 111.2 
+Michael_Bay/BsAkd3KVQ2k_0000007 128.5 138.7 
+Michael_Bay/BsAkd3KVQ2k_0000008 151.5 165.0 

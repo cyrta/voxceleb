@@ -1,0 +1,10 @@
+POI: 			Senta_Berger 
+Youtube ID: 	pkvCWVTrn04 
+Video length: 	4546.2 sec 
+Set (V): 		dev 
+ 
+Senta_Berger/pkvCWVTrn04_0000001 633.6 638.2 
+Senta_Berger/pkvCWVTrn04_0000002 1058.5 1072.4 
+Senta_Berger/pkvCWVTrn04_0000003 1101.1 1107.4 
+Senta_Berger/pkvCWVTrn04_0000004 1573.0 1579.5 
+Senta_Berger/pkvCWVTrn04_0000005 1659.3 1667.0 

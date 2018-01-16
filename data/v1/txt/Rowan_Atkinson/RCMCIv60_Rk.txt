@@ -1,0 +1,11 @@
+POI: 			Rowan_Atkinson 
+Youtube ID: 	RCMCIv60_Rk 
+Video length: 	895.1 sec 
+Set (V): 		dev 
+ 
+Rowan_Atkinson/RCMCIv60_Rk_0000001 429.1 433.1 
+Rowan_Atkinson/RCMCIv60_Rk_0000002 574.9 581.4 
+Rowan_Atkinson/RCMCIv60_Rk_0000003 671.2 675.3 
+Rowan_Atkinson/RCMCIv60_Rk_0000004 822.9 831.2 
+Rowan_Atkinson/RCMCIv60_Rk_0000005 836.9 841.0 
+Rowan_Atkinson/RCMCIv60_Rk_0000006 848.2 854.0 

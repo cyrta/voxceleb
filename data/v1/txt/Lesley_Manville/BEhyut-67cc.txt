@@ -1,0 +1,8 @@
+POI: 			Lesley_Manville 
+Youtube ID: 	BEhyut-67cc 
+Video length: 	70.0 sec 
+Set (V): 		dev 
+ 
+Lesley_Manville/BEhyut-67cc_0000001 13.6 24.4 
+Lesley_Manville/BEhyut-67cc_0000002 25.2 29.2 
+Lesley_Manville/BEhyut-67cc_0000003 46.6 52.6 

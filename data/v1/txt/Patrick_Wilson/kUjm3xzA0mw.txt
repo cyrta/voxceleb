@@ -1,0 +1,8 @@
+POI: 			Patrick_Wilson 
+Youtube ID: 	kUjm3xzA0mw 
+Video length: 	175.7 sec 
+Set (V): 		dev 
+ 
+Patrick_Wilson/kUjm3xzA0mw_0000001 09.9 16.4 
+Patrick_Wilson/kUjm3xzA0mw_0000002 36.8 46.2 
+Patrick_Wilson/kUjm3xzA0mw_0000003 52.5 58.9 

@@ -1,0 +1,11 @@
+POI: 			Charles_S._Dutton 
+Youtube ID: 	crXv8XQjLLE 
+Video length: 	182.3 sec 
+Set (V): 		dev 
+ 
+Charles_S._Dutton/crXv8XQjLLE_0000001 24.8 35.3 
+Charles_S._Dutton/crXv8XQjLLE_0000002 49.8 58.3 
+Charles_S._Dutton/crXv8XQjLLE_0000003 88.2 92.4 
+Charles_S._Dutton/crXv8XQjLLE_0000004 104.0 121.0 
+Charles_S._Dutton/crXv8XQjLLE_0000005 122.6 127.5 
+Charles_S._Dutton/crXv8XQjLLE_0000006 134.8 139.5 

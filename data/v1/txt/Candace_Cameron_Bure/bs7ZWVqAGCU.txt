@@ -1,0 +1,21 @@
+POI: 			Candace_Cameron_Bure 
+Youtube ID: 	bs7ZWVqAGCU 
+Video length: 	540.4 sec 
+Set (V): 		dev 
+ 
+Candace_Cameron_Bure/bs7ZWVqAGCU_0000001 39.1 49.7 
+Candace_Cameron_Bure/bs7ZWVqAGCU_0000002 57.2 70.8 
+Candace_Cameron_Bure/bs7ZWVqAGCU_0000003 156.4 169.8 
+Candace_Cameron_Bure/bs7ZWVqAGCU_0000004 184.0 189.3 
+Candace_Cameron_Bure/bs7ZWVqAGCU_0000005 214.6 233.6 
+Candace_Cameron_Bure/bs7ZWVqAGCU_0000006 254.1 258.8 
+Candace_Cameron_Bure/bs7ZWVqAGCU_0000007 301.6 309.0 
+Candace_Cameron_Bure/bs7ZWVqAGCU_0000008 333.1 342.2 
+Candace_Cameron_Bure/bs7ZWVqAGCU_0000009 369.2 384.8 
+Candace_Cameron_Bure/bs7ZWVqAGCU_0000010 389.2 395.4 
+Candace_Cameron_Bure/bs7ZWVqAGCU_0000011 402.3 409.3 
+Candace_Cameron_Bure/bs7ZWVqAGCU_0000012 413.4 419.9 
+Candace_Cameron_Bure/bs7ZWVqAGCU_0000013 445.4 456.5 
+Candace_Cameron_Bure/bs7ZWVqAGCU_0000014 483.0 494.2 
+Candace_Cameron_Bure/bs7ZWVqAGCU_0000015 499.4 505.0 
+Candace_Cameron_Bure/bs7ZWVqAGCU_0000016 510.3 514.6 

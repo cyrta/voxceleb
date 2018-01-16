@@ -1,0 +1,9 @@
+POI: 			Tracy_Morgan 
+Youtube ID: 	fJksQFYBwFc 
+Video length: 	546.9 sec 
+Set (V): 		dev 
+ 
+Tracy_Morgan/fJksQFYBwFc_0000001 179.0 183.8 
+Tracy_Morgan/fJksQFYBwFc_0000002 217.7 222.6 
+Tracy_Morgan/fJksQFYBwFc_0000003 308.5 314.9 
+Tracy_Morgan/fJksQFYBwFc_0000004 407.2 412.3 

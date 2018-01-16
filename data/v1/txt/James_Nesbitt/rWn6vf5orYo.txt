@@ -1,0 +1,9 @@
+POI: 			James_Nesbitt 
+Youtube ID: 	rWn6vf5orYo 
+Video length: 	195.2 sec 
+Set (V): 		dev 
+ 
+James_Nesbitt/rWn6vf5orYo_0000001 98.4 102.7 
+James_Nesbitt/rWn6vf5orYo_0000002 156.6 163.9 
+James_Nesbitt/rWn6vf5orYo_0000003 164.2 168.5 
+James_Nesbitt/rWn6vf5orYo_0000004 168.8 174.1 

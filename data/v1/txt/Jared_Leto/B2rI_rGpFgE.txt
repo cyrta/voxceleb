@@ -1,0 +1,11 @@
+POI: 			Jared_Leto 
+Youtube ID: 	B2rI_rGpFgE 
+Video length: 	326.5 sec 
+Set (V): 		dev 
+ 
+Jared_Leto/B2rI_rGpFgE_0000001 30.3 35.1 
+Jared_Leto/B2rI_rGpFgE_0000002 43.5 52.4 
+Jared_Leto/B2rI_rGpFgE_0000003 58.1 65.7 
+Jared_Leto/B2rI_rGpFgE_0000004 131.6 138.9 
+Jared_Leto/B2rI_rGpFgE_0000005 195.8 204.0 
+Jared_Leto/B2rI_rGpFgE_0000006 305.5 309.8 

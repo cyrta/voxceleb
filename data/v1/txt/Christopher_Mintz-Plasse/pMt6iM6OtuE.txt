@@ -1,0 +1,11 @@
+POI: 			Christopher_Mintz-Plasse 
+Youtube ID: 	pMt6iM6OtuE 
+Video length: 	223.8 sec 
+Set (V): 		dev 
+ 
+Christopher_Mintz-Plasse/pMt6iM6OtuE_0000001 58.4 65.8 
+Christopher_Mintz-Plasse/pMt6iM6OtuE_0000002 81.6 87.4 
+Christopher_Mintz-Plasse/pMt6iM6OtuE_0000003 98.3 110.6 
+Christopher_Mintz-Plasse/pMt6iM6OtuE_0000004 142.0 146.1 
+Christopher_Mintz-Plasse/pMt6iM6OtuE_0000005 150.6 157.4 
+Christopher_Mintz-Plasse/pMt6iM6OtuE_0000006 170.1 176.5 

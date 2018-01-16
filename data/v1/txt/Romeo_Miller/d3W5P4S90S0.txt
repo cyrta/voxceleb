@@ -1,0 +1,9 @@
+POI: 			Romeo_Miller 
+Youtube ID: 	d3W5P4S90S0 
+Video length: 	223.3 sec 
+Set (V): 		dev 
+ 
+Romeo_Miller/d3W5P4S90S0_0000001 58.0 62.8 
+Romeo_Miller/d3W5P4S90S0_0000002 98.0 105.1 
+Romeo_Miller/d3W5P4S90S0_0000003 105.3 111.0 
+Romeo_Miller/d3W5P4S90S0_0000004 181.1 185.1 

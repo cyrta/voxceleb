@@ -1,0 +1,14 @@
+POI: 			Stephen_Lang 
+Youtube ID: 	fZw1Ux0WarU 
+Video length: 	216.7 sec 
+Set (V): 		dev 
+ 
+Stephen_Lang/fZw1Ux0WarU_0000001 20.1 25.6 
+Stephen_Lang/fZw1Ux0WarU_0000002 32.6 39.4 
+Stephen_Lang/fZw1Ux0WarU_0000003 39.8 50.4 
+Stephen_Lang/fZw1Ux0WarU_0000004 54.6 60.4 
+Stephen_Lang/fZw1Ux0WarU_0000005 92.8 97.6 
+Stephen_Lang/fZw1Ux0WarU_0000006 124.2 128.6 
+Stephen_Lang/fZw1Ux0WarU_0000007 144.7 149.3 
+Stephen_Lang/fZw1Ux0WarU_0000008 181.7 194.9 
+Stephen_Lang/fZw1Ux0WarU_0000009 195.8 206.4 

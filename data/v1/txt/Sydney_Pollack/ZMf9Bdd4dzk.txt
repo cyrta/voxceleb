@@ -1,0 +1,8 @@
+POI: 			Sydney_Pollack 
+Youtube ID: 	ZMf9Bdd4dzk 
+Video length: 	332.9 sec 
+Set (V): 		dev 
+ 
+Sydney_Pollack/ZMf9Bdd4dzk_0000001 188.8 194.2 
+Sydney_Pollack/ZMf9Bdd4dzk_0000002 239.0 244.8 
+Sydney_Pollack/ZMf9Bdd4dzk_0000003 291.8 296.2 

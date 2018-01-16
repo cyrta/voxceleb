@@ -1,0 +1,7 @@
+POI: 			Jake_Johnson 
+Youtube ID: 	lashokYLp7Y 
+Video length: 	186.1 sec 
+Set (V): 		dev 
+ 
+Jake_Johnson/lashokYLp7Y_0000001 87.3 91.7 
+Jake_Johnson/lashokYLp7Y_0000002 95.1 101.8 

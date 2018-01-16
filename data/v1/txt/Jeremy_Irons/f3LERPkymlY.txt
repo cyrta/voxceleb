@@ -1,0 +1,10 @@
+POI: 			Jeremy_Irons 
+Youtube ID: 	f3LERPkymlY 
+Video length: 	343.1 sec 
+Set (V): 		dev 
+ 
+Jeremy_Irons/f3LERPkymlY_0000001 55.1 67.8 
+Jeremy_Irons/f3LERPkymlY_0000002 203.5 211.6 
+Jeremy_Irons/f3LERPkymlY_0000003 239.0 243.2 
+Jeremy_Irons/f3LERPkymlY_0000004 243.8 251.6 
+Jeremy_Irons/f3LERPkymlY_0000005 282.2 288.8 

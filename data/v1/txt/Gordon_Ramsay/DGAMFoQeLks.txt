@@ -1,0 +1,22 @@
+POI: 			Gordon_Ramsay 
+Youtube ID: 	DGAMFoQeLks 
+Video length: 	296.1 sec 
+Set (V): 		dev 
+ 
+Gordon_Ramsay/DGAMFoQeLks_0000001 02.7 08.8 
+Gordon_Ramsay/DGAMFoQeLks_0000002 12.7 17.1 
+Gordon_Ramsay/DGAMFoQeLks_0000003 19.4 25.1 
+Gordon_Ramsay/DGAMFoQeLks_0000004 28.6 33.0 
+Gordon_Ramsay/DGAMFoQeLks_0000005 35.5 46.9 
+Gordon_Ramsay/DGAMFoQeLks_0000006 49.0 55.4 
+Gordon_Ramsay/DGAMFoQeLks_0000007 74.4 78.6 
+Gordon_Ramsay/DGAMFoQeLks_0000008 82.3 87.2 
+Gordon_Ramsay/DGAMFoQeLks_0000009 118.3 123.9 
+Gordon_Ramsay/DGAMFoQeLks_0000010 132.8 137.1 
+Gordon_Ramsay/DGAMFoQeLks_0000011 146.2 150.8 
+Gordon_Ramsay/DGAMFoQeLks_0000012 165.9 171.5 
+Gordon_Ramsay/DGAMFoQeLks_0000013 173.8 180.0 
+Gordon_Ramsay/DGAMFoQeLks_0000014 217.8 225.2 
+Gordon_Ramsay/DGAMFoQeLks_0000015 228.7 242.0 
+Gordon_Ramsay/DGAMFoQeLks_0000016 251.2 257.6 
+Gordon_Ramsay/DGAMFoQeLks_0000017 279.6 289.0 

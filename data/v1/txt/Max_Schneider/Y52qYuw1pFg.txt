@@ -1,0 +1,13 @@
+POI: 			Max_Schneider 
+Youtube ID: 	Y52qYuw1pFg 
+Video length: 	522.7 sec 
+Set (V): 		dev 
+ 
+Max_Schneider/Y52qYuw1pFg_0000001 46.2 52.5 
+Max_Schneider/Y52qYuw1pFg_0000002 53.1 66.9 
+Max_Schneider/Y52qYuw1pFg_0000003 122.0 128.4 
+Max_Schneider/Y52qYuw1pFg_0000004 269.9 284.9 
+Max_Schneider/Y52qYuw1pFg_0000005 288.7 295.1 
+Max_Schneider/Y52qYuw1pFg_0000006 296.7 302.6 
+Max_Schneider/Y52qYuw1pFg_0000007 317.0 334.8 
+Max_Schneider/Y52qYuw1pFg_0000008 337.8 343.1 

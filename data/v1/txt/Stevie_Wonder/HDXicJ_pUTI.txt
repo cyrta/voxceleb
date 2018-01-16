@@ -1,0 +1,7 @@
+POI: 			Stevie_Wonder 
+Youtube ID: 	HDXicJ_pUTI 
+Video length: 	289.5 sec 
+Set (V): 		dev 
+ 
+Stevie_Wonder/HDXicJ_pUTI_0000001 106.6 111.3 
+Stevie_Wonder/HDXicJ_pUTI_0000002 172.2 179.8 

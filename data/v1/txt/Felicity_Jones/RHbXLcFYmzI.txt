@@ -1,0 +1,10 @@
+POI: 			Felicity_Jones 
+Youtube ID: 	RHbXLcFYmzI 
+Video length: 	310.2 sec 
+Set (V): 		dev 
+ 
+Felicity_Jones/RHbXLcFYmzI_0000001 31.1 35.9 
+Felicity_Jones/RHbXLcFYmzI_0000002 41.4 48.8 
+Felicity_Jones/RHbXLcFYmzI_0000003 50.0 62.9 
+Felicity_Jones/RHbXLcFYmzI_0000004 64.4 81.5 
+Felicity_Jones/RHbXLcFYmzI_0000005 247.0 251.8 

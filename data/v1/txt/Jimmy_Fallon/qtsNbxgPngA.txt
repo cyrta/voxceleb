@@ -1,0 +1,8 @@
+POI: 			Jimmy_Fallon 
+Youtube ID: 	qtsNbxgPngA 
+Video length: 	554.7 sec 
+Set (V): 		dev 
+ 
+Jimmy_Fallon/qtsNbxgPngA_0000001 25.2 32.0 
+Jimmy_Fallon/qtsNbxgPngA_0000002 48.1 55.3 
+Jimmy_Fallon/qtsNbxgPngA_0000003 459.8 465.4 

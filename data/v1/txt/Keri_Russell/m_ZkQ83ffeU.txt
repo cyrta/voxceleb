@@ -1,0 +1,13 @@
+POI: 			Keri_Russell 
+Youtube ID: 	m_ZkQ83ffeU 
+Video length: 	315.9 sec 
+Set (V): 		dev 
+ 
+Keri_Russell/m_ZkQ83ffeU_0000001 121.3 127.8 
+Keri_Russell/m_ZkQ83ffeU_0000002 176.5 187.3 
+Keri_Russell/m_ZkQ83ffeU_0000003 192.3 197.7 
+Keri_Russell/m_ZkQ83ffeU_0000004 199.3 204.4 
+Keri_Russell/m_ZkQ83ffeU_0000005 204.6 217.7 
+Keri_Russell/m_ZkQ83ffeU_0000006 236.9 251.8 
+Keri_Russell/m_ZkQ83ffeU_0000007 255.2 261.0 
+Keri_Russell/m_ZkQ83ffeU_0000008 280.2 291.6 

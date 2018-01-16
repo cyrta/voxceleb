@@ -1,0 +1,10 @@
+POI: 			Bingbing_Li 
+Youtube ID: 	ifoQZ4hauRU 
+Video length: 	91.1 sec 
+Set (V): 		dev 
+ 
+Bingbing_Li/ifoQZ4hauRU_0000001 10.5 16.6 
+Bingbing_Li/ifoQZ4hauRU_0000002 28.6 33.1 
+Bingbing_Li/ifoQZ4hauRU_0000003 37.5 41.8 
+Bingbing_Li/ifoQZ4hauRU_0000004 48.1 52.4 
+Bingbing_Li/ifoQZ4hauRU_0000005 71.6 79.8 

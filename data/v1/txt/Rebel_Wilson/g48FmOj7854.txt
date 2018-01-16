@@ -1,0 +1,8 @@
+POI: 			Rebel_Wilson 
+Youtube ID: 	g48FmOj7854 
+Video length: 	292.3 sec 
+Set (V): 		dev 
+ 
+Rebel_Wilson/g48FmOj7854_0000001 96.1 100.8 
+Rebel_Wilson/g48FmOj7854_0000002 150.3 155.0 
+Rebel_Wilson/g48FmOj7854_0000003 241.5 247.6 

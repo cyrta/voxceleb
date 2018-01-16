@@ -1,0 +1,9 @@
+POI: 			Ashley_Greene 
+Youtube ID: 	MVdZKtUvjWk 
+Video length: 	230.7 sec 
+Set (V): 		dev 
+ 
+Ashley_Greene/MVdZKtUvjWk_0000001 39.2 44.6 
+Ashley_Greene/MVdZKtUvjWk_0000002 182.9 192.0 
+Ashley_Greene/MVdZKtUvjWk_0000003 192.4 207.7 
+Ashley_Greene/MVdZKtUvjWk_0000004 209.2 214.8 

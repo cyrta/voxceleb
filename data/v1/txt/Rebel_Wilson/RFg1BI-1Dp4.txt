@@ -1,0 +1,8 @@
+POI: 			Rebel_Wilson 
+Youtube ID: 	RFg1BI-1Dp4 
+Video length: 	203.1 sec 
+Set (V): 		dev 
+ 
+Rebel_Wilson/RFg1BI-1Dp4_0000001 28.8 33.7 
+Rebel_Wilson/RFg1BI-1Dp4_0000002 77.0 81.6 
+Rebel_Wilson/RFg1BI-1Dp4_0000003 158.0 164.6 

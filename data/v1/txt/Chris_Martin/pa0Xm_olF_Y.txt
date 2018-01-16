@@ -1,0 +1,9 @@
+POI: 			Chris_Martin 
+Youtube ID: 	pa0Xm_olF_Y 
+Video length: 	246.9 sec 
+Set (V): 		dev 
+ 
+Chris_Martin/pa0Xm_olF_Y_0000001 62.2 67.1 
+Chris_Martin/pa0Xm_olF_Y_0000002 169.1 173.4 
+Chris_Martin/pa0Xm_olF_Y_0000003 217.6 223.0 
+Chris_Martin/pa0Xm_olF_Y_0000004 228.1 235.2 

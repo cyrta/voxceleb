@@ -1,0 +1,15 @@
+POI: 			Caitriona_Balfe 
+Youtube ID: 	bZyPBCVCYxw 
+Video length: 	832.2 sec 
+Set (V): 		dev 
+ 
+Caitriona_Balfe/bZyPBCVCYxw_0000001 240.6 251.9 
+Caitriona_Balfe/bZyPBCVCYxw_0000002 255.3 261.7 
+Caitriona_Balfe/bZyPBCVCYxw_0000003 265.9 270.1 
+Caitriona_Balfe/bZyPBCVCYxw_0000004 367.4 397.8 
+Caitriona_Balfe/bZyPBCVCYxw_0000005 532.5 538.1 
+Caitriona_Balfe/bZyPBCVCYxw_0000006 601.1 605.1 
+Caitriona_Balfe/bZyPBCVCYxw_0000007 700.0 704.3 
+Caitriona_Balfe/bZyPBCVCYxw_0000008 710.8 721.0 
+Caitriona_Balfe/bZyPBCVCYxw_0000009 734.5 742.0 
+Caitriona_Balfe/bZyPBCVCYxw_0000010 743.6 747.8 

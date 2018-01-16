@@ -1,0 +1,35 @@
+POI: 			Jennette_McCurdy 
+Youtube ID: 	0IOynLx6Av8 
+Video length: 	985.2 sec 
+Set (V): 		dev 
+ 
+Jennette_McCurdy/0IOynLx6Av8_0000001 54.1 59.3 
+Jennette_McCurdy/0IOynLx6Av8_0000002 106.1 116.8 
+Jennette_McCurdy/0IOynLx6Av8_0000003 149.6 155.0 
+Jennette_McCurdy/0IOynLx6Av8_0000004 164.1 168.3 
+Jennette_McCurdy/0IOynLx6Av8_0000005 190.8 194.8 
+Jennette_McCurdy/0IOynLx6Av8_0000006 223.6 233.0 
+Jennette_McCurdy/0IOynLx6Av8_0000007 234.2 238.6 
+Jennette_McCurdy/0IOynLx6Av8_0000008 240.8 246.0 
+Jennette_McCurdy/0IOynLx6Av8_0000009 253.1 259.0 
+Jennette_McCurdy/0IOynLx6Av8_0000010 298.0 302.3 
+Jennette_McCurdy/0IOynLx6Av8_0000011 469.9 478.9 
+Jennette_McCurdy/0IOynLx6Av8_0000012 494.8 502.0 
+Jennette_McCurdy/0IOynLx6Av8_0000013 542.8 547.4 
+Jennette_McCurdy/0IOynLx6Av8_0000014 613.2 620.8 
+Jennette_McCurdy/0IOynLx6Av8_0000015 623.2 628.2 
+Jennette_McCurdy/0IOynLx6Av8_0000016 633.9 640.0 
+Jennette_McCurdy/0IOynLx6Av8_0000017 656.3 664.2 
+Jennette_McCurdy/0IOynLx6Av8_0000018 665.8 670.4 
+Jennette_McCurdy/0IOynLx6Av8_0000019 675.9 682.9 
+Jennette_McCurdy/0IOynLx6Av8_0000020 699.3 704.5 
+Jennette_McCurdy/0IOynLx6Av8_0000021 724.8 729.5 
+Jennette_McCurdy/0IOynLx6Av8_0000022 741.7 748.2 
+Jennette_McCurdy/0IOynLx6Av8_0000023 785.6 791.7 
+Jennette_McCurdy/0IOynLx6Av8_0000024 791.8 796.0 
+Jennette_McCurdy/0IOynLx6Av8_0000025 835.9 840.3 
+Jennette_McCurdy/0IOynLx6Av8_0000026 847.4 859.4 
+Jennette_McCurdy/0IOynLx6Av8_0000027 868.2 873.0 
+Jennette_McCurdy/0IOynLx6Av8_0000028 939.4 943.7 
+Jennette_McCurdy/0IOynLx6Av8_0000029 958.2 962.8 
+Jennette_McCurdy/0IOynLx6Av8_0000030 963.4 968.7 

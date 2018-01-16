@@ -1,0 +1,15 @@
+POI: 			Rob_Dyrdek 
+Youtube ID: 	lFHQNZGlgng 
+Video length: 	372.3 sec 
+Set (V): 		dev 
+ 
+Rob_Dyrdek/lFHQNZGlgng_0000001 73.2 77.8 
+Rob_Dyrdek/lFHQNZGlgng_0000002 92.6 97.1 
+Rob_Dyrdek/lFHQNZGlgng_0000003 127.5 131.5 
+Rob_Dyrdek/lFHQNZGlgng_0000004 143.1 151.7 
+Rob_Dyrdek/lFHQNZGlgng_0000005 218.1 223.5 
+Rob_Dyrdek/lFHQNZGlgng_0000006 265.5 273.3 
+Rob_Dyrdek/lFHQNZGlgng_0000007 292.8 297.1 
+Rob_Dyrdek/lFHQNZGlgng_0000008 315.0 320.7 
+Rob_Dyrdek/lFHQNZGlgng_0000009 335.1 342.0 
+Rob_Dyrdek/lFHQNZGlgng_0000010 344.6 349.0 

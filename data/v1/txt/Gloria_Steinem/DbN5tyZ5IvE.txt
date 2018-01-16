@@ -1,0 +1,21 @@
+POI: 			Gloria_Steinem 
+Youtube ID: 	DbN5tyZ5IvE 
+Video length: 	438.8 sec 
+Set (V): 		dev 
+ 
+Gloria_Steinem/DbN5tyZ5IvE_0000001 112.5 128.6 
+Gloria_Steinem/DbN5tyZ5IvE_0000002 129.6 140.3 
+Gloria_Steinem/DbN5tyZ5IvE_0000003 140.9 145.0 
+Gloria_Steinem/DbN5tyZ5IvE_0000004 147.3 161.8 
+Gloria_Steinem/DbN5tyZ5IvE_0000005 187.6 192.0 
+Gloria_Steinem/DbN5tyZ5IvE_0000006 192.9 199.7 
+Gloria_Steinem/DbN5tyZ5IvE_0000007 210.3 214.9 
+Gloria_Steinem/DbN5tyZ5IvE_0000008 240.0 244.7 
+Gloria_Steinem/DbN5tyZ5IvE_0000009 248.6 266.2 
+Gloria_Steinem/DbN5tyZ5IvE_0000010 269.8 273.8 
+Gloria_Steinem/DbN5tyZ5IvE_0000011 296.8 308.1 
+Gloria_Steinem/DbN5tyZ5IvE_0000012 330.0 338.2 
+Gloria_Steinem/DbN5tyZ5IvE_0000013 342.4 347.6 
+Gloria_Steinem/DbN5tyZ5IvE_0000014 392.6 397.1 
+Gloria_Steinem/DbN5tyZ5IvE_0000015 405.8 419.6 
+Gloria_Steinem/DbN5tyZ5IvE_0000016 421.3 429.5 

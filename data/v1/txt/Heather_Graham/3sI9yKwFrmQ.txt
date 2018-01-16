@@ -1,0 +1,11 @@
+POI: 			Heather_Graham 
+Youtube ID: 	3sI9yKwFrmQ 
+Video length: 	250.2 sec 
+Set (V): 		dev 
+ 
+Heather_Graham/3sI9yKwFrmQ_0000001 140.5 144.7 
+Heather_Graham/3sI9yKwFrmQ_0000002 156.8 161.9 
+Heather_Graham/3sI9yKwFrmQ_0000003 162.6 166.8 
+Heather_Graham/3sI9yKwFrmQ_0000004 172.8 180.6 
+Heather_Graham/3sI9yKwFrmQ_0000005 184.5 193.4 
+Heather_Graham/3sI9yKwFrmQ_0000006 203.0 209.8 

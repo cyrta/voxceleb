@@ -1,0 +1,7 @@
+POI: 			Darren_Criss 
+Youtube ID: 	XJOIQhBDjvo 
+Video length: 	185.0 sec 
+Set (V): 		dev 
+ 
+Darren_Criss/XJOIQhBDjvo_0000001 50.1 58.4 
+Darren_Criss/XJOIQhBDjvo_0000002 144.5 154.5 

@@ -1,0 +1,16 @@
+POI: 			Joss_Whedon 
+Youtube ID: 	hLi9_tils1Q 
+Video length: 	488.6 sec 
+Set (V): 		dev 
+ 
+Joss_Whedon/hLi9_tils1Q_0000001 103.1 111.6 
+Joss_Whedon/hLi9_tils1Q_0000002 121.8 128.1 
+Joss_Whedon/hLi9_tils1Q_0000003 142.1 150.5 
+Joss_Whedon/hLi9_tils1Q_0000004 189.7 194.9 
+Joss_Whedon/hLi9_tils1Q_0000005 200.2 209.1 
+Joss_Whedon/hLi9_tils1Q_0000006 217.1 221.1 
+Joss_Whedon/hLi9_tils1Q_0000007 229.0 235.4 
+Joss_Whedon/hLi9_tils1Q_0000008 287.0 300.3 
+Joss_Whedon/hLi9_tils1Q_0000009 323.4 328.2 
+Joss_Whedon/hLi9_tils1Q_0000010 328.8 332.8 
+Joss_Whedon/hLi9_tils1Q_0000011 353.0 364.9 

@@ -1,0 +1,7 @@
+POI: 			Esai_Morales 
+Youtube ID: 	YQCymlcowOg 
+Video length: 	402.3 sec 
+Set (V): 		test 
+ 
+Esai_Morales/YQCymlcowOg_0000001 303.0 307.0 
+Esai_Morales/YQCymlcowOg_0000002 354.1 358.5 

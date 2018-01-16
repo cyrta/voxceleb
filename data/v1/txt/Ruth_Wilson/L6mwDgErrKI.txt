@@ -1,0 +1,14 @@
+POI: 			Ruth_Wilson 
+Youtube ID: 	L6mwDgErrKI 
+Video length: 	319.9 sec 
+Set (V): 		dev 
+ 
+Ruth_Wilson/L6mwDgErrKI_0000001 57.3 61.4 
+Ruth_Wilson/L6mwDgErrKI_0000002 112.6 118.8 
+Ruth_Wilson/L6mwDgErrKI_0000003 128.6 133.7 
+Ruth_Wilson/L6mwDgErrKI_0000004 154.4 159.8 
+Ruth_Wilson/L6mwDgErrKI_0000005 162.2 169.4 
+Ruth_Wilson/L6mwDgErrKI_0000006 181.8 195.9 
+Ruth_Wilson/L6mwDgErrKI_0000007 245.6 255.4 
+Ruth_Wilson/L6mwDgErrKI_0000008 267.5 271.8 
+Ruth_Wilson/L6mwDgErrKI_0000009 298.3 305.7 

@@ -1,0 +1,7 @@
+POI: 			David_Morrissey 
+Youtube ID: 	S4MDudt2RRY 
+Video length: 	2410.5 sec 
+Set (V): 		dev 
+ 
+David_Morrissey/S4MDudt2RRY_0000001 1932.2 1936.5 
+David_Morrissey/S4MDudt2RRY_0000002 1996.8 2004.3 

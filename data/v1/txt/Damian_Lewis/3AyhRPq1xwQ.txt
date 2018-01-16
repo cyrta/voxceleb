@@ -1,0 +1,9 @@
+POI: 			Damian_Lewis 
+Youtube ID: 	3AyhRPq1xwQ 
+Video length: 	388.6 sec 
+Set (V): 		dev 
+ 
+Damian_Lewis/3AyhRPq1xwQ_0000001 178.4 185.5 
+Damian_Lewis/3AyhRPq1xwQ_0000002 236.8 245.5 
+Damian_Lewis/3AyhRPq1xwQ_0000003 333.6 342.4 
+Damian_Lewis/3AyhRPq1xwQ_0000004 361.9 368.1 

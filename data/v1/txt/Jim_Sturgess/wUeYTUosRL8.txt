@@ -1,0 +1,16 @@
+POI: 			Jim_Sturgess 
+Youtube ID: 	wUeYTUosRL8 
+Video length: 	271.0 sec 
+Set (V): 		dev 
+ 
+Jim_Sturgess/wUeYTUosRL8_0000001 17.5 34.0 
+Jim_Sturgess/wUeYTUosRL8_0000002 40.5 53.8 
+Jim_Sturgess/wUeYTUosRL8_0000003 88.0 93.2 
+Jim_Sturgess/wUeYTUosRL8_0000004 112.5 116.8 
+Jim_Sturgess/wUeYTUosRL8_0000005 119.2 127.0 
+Jim_Sturgess/wUeYTUosRL8_0000006 127.4 131.9 
+Jim_Sturgess/wUeYTUosRL8_0000007 143.0 165.3 
+Jim_Sturgess/wUeYTUosRL8_0000008 196.4 201.8 
+Jim_Sturgess/wUeYTUosRL8_0000009 205.1 221.2 
+Jim_Sturgess/wUeYTUosRL8_0000010 223.4 228.4 
+Jim_Sturgess/wUeYTUosRL8_0000011 253.7 258.0 

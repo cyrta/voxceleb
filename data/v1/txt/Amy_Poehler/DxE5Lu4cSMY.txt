@@ -1,0 +1,11 @@
+POI: 			Amy_Poehler 
+Youtube ID: 	DxE5Lu4cSMY 
+Video length: 	419.1 sec 
+Set (V): 		dev 
+ 
+Amy_Poehler/DxE5Lu4cSMY_0000001 69.3 78.6 
+Amy_Poehler/DxE5Lu4cSMY_0000002 163.1 168.9 
+Amy_Poehler/DxE5Lu4cSMY_0000003 218.0 228.7 
+Amy_Poehler/DxE5Lu4cSMY_0000004 230.7 242.2 
+Amy_Poehler/DxE5Lu4cSMY_0000005 292.4 299.4 
+Amy_Poehler/DxE5Lu4cSMY_0000006 322.4 326.9 

@@ -1,0 +1,16 @@
+POI: 			Shailene_Woodley 
+Youtube ID: 	xcv-LPHCPVQ 
+Video length: 	190.0 sec 
+Set (V): 		dev 
+ 
+Shailene_Woodley/xcv-LPHCPVQ_0000001 09.7 19.0 
+Shailene_Woodley/xcv-LPHCPVQ_0000002 19.8 26.7 
+Shailene_Woodley/xcv-LPHCPVQ_0000003 29.0 34.6 
+Shailene_Woodley/xcv-LPHCPVQ_0000004 36.1 46.1 
+Shailene_Woodley/xcv-LPHCPVQ_0000005 48.2 74.6 
+Shailene_Woodley/xcv-LPHCPVQ_0000006 82.2 101.7 
+Shailene_Woodley/xcv-LPHCPVQ_0000007 102.5 121.5 
+Shailene_Woodley/xcv-LPHCPVQ_0000008 123.4 129.0 
+Shailene_Woodley/xcv-LPHCPVQ_0000009 129.6 155.7 
+Shailene_Woodley/xcv-LPHCPVQ_0000010 165.0 178.8 
+Shailene_Woodley/xcv-LPHCPVQ_0000011 179.9 186.3 

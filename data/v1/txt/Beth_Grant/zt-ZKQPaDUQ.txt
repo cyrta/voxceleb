@@ -1,0 +1,15 @@
+POI: 			Beth_Grant 
+Youtube ID: 	zt-ZKQPaDUQ 
+Video length: 	150.7 sec 
+Set (V): 		dev 
+ 
+Beth_Grant/zt-ZKQPaDUQ_0000001 03.0 11.1 
+Beth_Grant/zt-ZKQPaDUQ_0000002 11.6 16.4 
+Beth_Grant/zt-ZKQPaDUQ_0000003 20.7 29.4 
+Beth_Grant/zt-ZKQPaDUQ_0000004 33.7 44.7 
+Beth_Grant/zt-ZKQPaDUQ_0000005 45.7 61.7 
+Beth_Grant/zt-ZKQPaDUQ_0000006 70.4 78.1 
+Beth_Grant/zt-ZKQPaDUQ_0000007 89.5 97.6 
+Beth_Grant/zt-ZKQPaDUQ_0000008 98.2 104.2 
+Beth_Grant/zt-ZKQPaDUQ_0000009 107.8 120.3 
+Beth_Grant/zt-ZKQPaDUQ_0000010 120.7 125.9 

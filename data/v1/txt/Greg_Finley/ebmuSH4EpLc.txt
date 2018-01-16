@@ -1,0 +1,35 @@
+POI: 			Greg_Finley 
+Youtube ID: 	ebmuSH4EpLc 
+Video length: 	470.6 sec 
+Set (V): 		dev 
+ 
+Greg_Finley/ebmuSH4EpLc_0000001 06.6 29.7 
+Greg_Finley/ebmuSH4EpLc_0000002 44.4 52.2 
+Greg_Finley/ebmuSH4EpLc_0000003 52.6 57.7 
+Greg_Finley/ebmuSH4EpLc_0000004 62.2 71.7 
+Greg_Finley/ebmuSH4EpLc_0000005 72.1 88.6 
+Greg_Finley/ebmuSH4EpLc_0000006 94.2 98.3 
+Greg_Finley/ebmuSH4EpLc_0000007 101.4 106.6 
+Greg_Finley/ebmuSH4EpLc_0000008 120.2 134.7 
+Greg_Finley/ebmuSH4EpLc_0000009 137.4 155.2 
+Greg_Finley/ebmuSH4EpLc_0000010 173.5 182.7 
+Greg_Finley/ebmuSH4EpLc_0000011 185.0 191.4 
+Greg_Finley/ebmuSH4EpLc_0000012 192.2 199.5 
+Greg_Finley/ebmuSH4EpLc_0000013 200.4 211.6 
+Greg_Finley/ebmuSH4EpLc_0000014 231.4 241.7 
+Greg_Finley/ebmuSH4EpLc_0000015 253.2 259.6 
+Greg_Finley/ebmuSH4EpLc_0000016 269.2 278.8 
+Greg_Finley/ebmuSH4EpLc_0000017 280.0 289.1 
+Greg_Finley/ebmuSH4EpLc_0000018 304.1 316.6 
+Greg_Finley/ebmuSH4EpLc_0000019 318.4 322.5 
+Greg_Finley/ebmuSH4EpLc_0000020 324.9 330.9 
+Greg_Finley/ebmuSH4EpLc_0000021 339.2 346.6 
+Greg_Finley/ebmuSH4EpLc_0000022 352.2 357.2 
+Greg_Finley/ebmuSH4EpLc_0000023 359.7 368.4 
+Greg_Finley/ebmuSH4EpLc_0000024 370.4 377.1 
+Greg_Finley/ebmuSH4EpLc_0000025 383.4 389.7 
+Greg_Finley/ebmuSH4EpLc_0000026 392.0 398.8 
+Greg_Finley/ebmuSH4EpLc_0000027 399.0 404.2 
+Greg_Finley/ebmuSH4EpLc_0000028 413.0 432.8 
+Greg_Finley/ebmuSH4EpLc_0000029 443.0 454.4 
+Greg_Finley/ebmuSH4EpLc_0000030 456.7 464.0 

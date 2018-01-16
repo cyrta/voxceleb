@@ -1,0 +1,8 @@
+POI: 			Sam_Heughan 
+Youtube ID: 	03ZaSobFZTs 
+Video length: 	451.9 sec 
+Set (V): 		dev 
+ 
+Sam_Heughan/03ZaSobFZTs_0000001 265.6 293.0 
+Sam_Heughan/03ZaSobFZTs_0000002 303.4 310.2 
+Sam_Heughan/03ZaSobFZTs_0000003 310.6 322.3 

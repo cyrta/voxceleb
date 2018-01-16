@@ -1,0 +1,9 @@
+POI: 			Seth_Green 
+Youtube ID: 	2QRL7wRicgg 
+Video length: 	267.9 sec 
+Set (V): 		dev 
+ 
+Seth_Green/2QRL7wRicgg_0000001 106.3 110.7 
+Seth_Green/2QRL7wRicgg_0000002 145.1 154.3 
+Seth_Green/2QRL7wRicgg_0000003 157.4 164.0 
+Seth_Green/2QRL7wRicgg_0000004 189.5 195.5 

@@ -1,0 +1,10 @@
+POI: 			Mila_Kunis 
+Youtube ID: 	Q610giI0sHg 
+Video length: 	280.2 sec 
+Set (V): 		dev 
+ 
+Mila_Kunis/Q610giI0sHg_0000001 68.3 73.0 
+Mila_Kunis/Q610giI0sHg_0000002 118.2 125.0 
+Mila_Kunis/Q610giI0sHg_0000003 140.9 149.0 
+Mila_Kunis/Q610giI0sHg_0000004 209.6 214.0 
+Mila_Kunis/Q610giI0sHg_0000005 251.2 260.1 

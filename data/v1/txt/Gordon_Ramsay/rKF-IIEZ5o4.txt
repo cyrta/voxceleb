@@ -1,0 +1,9 @@
+POI: 			Gordon_Ramsay 
+Youtube ID: 	rKF-IIEZ5o4 
+Video length: 	229.0 sec 
+Set (V): 		dev 
+ 
+Gordon_Ramsay/rKF-IIEZ5o4_0000001 27.4 32.2 
+Gordon_Ramsay/rKF-IIEZ5o4_0000002 39.0 43.4 
+Gordon_Ramsay/rKF-IIEZ5o4_0000003 74.6 81.9 
+Gordon_Ramsay/rKF-IIEZ5o4_0000004 138.3 143.1 

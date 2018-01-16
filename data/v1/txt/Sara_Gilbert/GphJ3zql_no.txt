@@ -1,0 +1,17 @@
+POI: 			Sara_Gilbert 
+Youtube ID: 	GphJ3zql_no 
+Video length: 	526.1 sec 
+Set (V): 		dev 
+ 
+Sara_Gilbert/GphJ3zql_no_0000001 64.0 69.5 
+Sara_Gilbert/GphJ3zql_no_0000002 70.4 75.6 
+Sara_Gilbert/GphJ3zql_no_0000003 196.1 202.5 
+Sara_Gilbert/GphJ3zql_no_0000004 203.8 210.1 
+Sara_Gilbert/GphJ3zql_no_0000005 210.2 216.6 
+Sara_Gilbert/GphJ3zql_no_0000006 232.8 236.9 
+Sara_Gilbert/GphJ3zql_no_0000007 431.6 436.2 
+Sara_Gilbert/GphJ3zql_no_0000008 437.0 442.3 
+Sara_Gilbert/GphJ3zql_no_0000009 442.4 448.4 
+Sara_Gilbert/GphJ3zql_no_0000010 450.3 461.3 
+Sara_Gilbert/GphJ3zql_no_0000011 471.0 480.2 
+Sara_Gilbert/GphJ3zql_no_0000012 501.3 506.1 

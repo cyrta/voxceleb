@@ -1,0 +1,15 @@
+POI: 			Lea_Michele 
+Youtube ID: 	M1fuDAs8uUk 
+Video length: 	335.9 sec 
+Set (V): 		dev 
+ 
+Lea_Michele/M1fuDAs8uUk_0000001 60.4 64.8 
+Lea_Michele/M1fuDAs8uUk_0000002 119.1 138.2 
+Lea_Michele/M1fuDAs8uUk_0000003 160.0 171.8 
+Lea_Michele/M1fuDAs8uUk_0000004 171.9 177.8 
+Lea_Michele/M1fuDAs8uUk_0000005 180.6 201.0 
+Lea_Michele/M1fuDAs8uUk_0000006 242.9 249.4 
+Lea_Michele/M1fuDAs8uUk_0000007 251.4 265.2 
+Lea_Michele/M1fuDAs8uUk_0000008 296.4 304.0 
+Lea_Michele/M1fuDAs8uUk_0000009 305.0 312.2 
+Lea_Michele/M1fuDAs8uUk_0000010 312.5 322.7 

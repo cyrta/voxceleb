@@ -1,0 +1,8 @@
+POI: 			Rob_Reiner 
+Youtube ID: 	6c5ljEc2Clo 
+Video length: 	569.8 sec 
+Set (V): 		dev 
+ 
+Rob_Reiner/6c5ljEc2Clo_0000001 10.0 14.5 
+Rob_Reiner/6c5ljEc2Clo_0000002 84.2 89.1 
+Rob_Reiner/6c5ljEc2Clo_0000003 135.0 139.2 

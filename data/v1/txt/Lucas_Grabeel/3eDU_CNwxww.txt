@@ -1,0 +1,7 @@
+POI: 			Lucas_Grabeel 
+Youtube ID: 	3eDU_CNwxww 
+Video length: 	288.3 sec 
+Set (V): 		dev 
+ 
+Lucas_Grabeel/3eDU_CNwxww_0000001 235.0 242.4 
+Lucas_Grabeel/3eDU_CNwxww_0000002 247.6 254.7 

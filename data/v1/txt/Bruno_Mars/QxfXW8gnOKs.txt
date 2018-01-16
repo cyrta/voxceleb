@@ -1,0 +1,9 @@
+POI: 			Bruno_Mars 
+Youtube ID: 	QxfXW8gnOKs 
+Video length: 	193.1 sec 
+Set (V): 		dev 
+ 
+Bruno_Mars/QxfXW8gnOKs_0000001 19.4 26.6 
+Bruno_Mars/QxfXW8gnOKs_0000002 58.1 62.8 
+Bruno_Mars/QxfXW8gnOKs_0000003 79.8 88.8 
+Bruno_Mars/QxfXW8gnOKs_0000004 120.4 125.6 

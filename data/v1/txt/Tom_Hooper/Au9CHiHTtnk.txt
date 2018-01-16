@@ -1,0 +1,20 @@
+POI: 			Tom_Hooper 
+Youtube ID: 	Au9CHiHTtnk 
+Video length: 	252.1 sec 
+Set (V): 		dev 
+ 
+Tom_Hooper/Au9CHiHTtnk_0000001 16.0 21.0 
+Tom_Hooper/Au9CHiHTtnk_0000002 28.9 48.6 
+Tom_Hooper/Au9CHiHTtnk_0000003 67.4 87.0 
+Tom_Hooper/Au9CHiHTtnk_0000004 92.9 102.9 
+Tom_Hooper/Au9CHiHTtnk_0000005 106.2 111.4 
+Tom_Hooper/Au9CHiHTtnk_0000006 119.3 123.8 
+Tom_Hooper/Au9CHiHTtnk_0000007 125.8 131.2 
+Tom_Hooper/Au9CHiHTtnk_0000008 131.5 138.8 
+Tom_Hooper/Au9CHiHTtnk_0000009 143.2 150.8 
+Tom_Hooper/Au9CHiHTtnk_0000010 151.4 159.5 
+Tom_Hooper/Au9CHiHTtnk_0000011 186.3 192.6 
+Tom_Hooper/Au9CHiHTtnk_0000012 193.3 200.9 
+Tom_Hooper/Au9CHiHTtnk_0000013 203.8 210.4 
+Tom_Hooper/Au9CHiHTtnk_0000014 227.0 233.4 
+Tom_Hooper/Au9CHiHTtnk_0000015 234.4 247.0 

@@ -1,0 +1,7 @@
+POI: 			Heather_Graham 
+Youtube ID: 	BvE31NUTn0M 
+Video length: 	283.0 sec 
+Set (V): 		dev 
+ 
+Heather_Graham/BvE31NUTn0M_0000001 43.0 50.4 
+Heather_Graham/BvE31NUTn0M_0000002 103.0 116.9 

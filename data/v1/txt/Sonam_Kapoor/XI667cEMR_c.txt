@@ -1,0 +1,15 @@
+POI: 			Sonam_Kapoor 
+Youtube ID: 	XI667cEMR_c 
+Video length: 	303.9 sec 
+Set (V): 		dev 
+ 
+Sonam_Kapoor/XI667cEMR_c_0000001 78.1 92.0 
+Sonam_Kapoor/XI667cEMR_c_0000002 113.0 123.2 
+Sonam_Kapoor/XI667cEMR_c_0000003 130.0 134.2 
+Sonam_Kapoor/XI667cEMR_c_0000004 136.9 141.9 
+Sonam_Kapoor/XI667cEMR_c_0000005 212.9 217.7 
+Sonam_Kapoor/XI667cEMR_c_0000006 218.4 224.6 
+Sonam_Kapoor/XI667cEMR_c_0000007 248.4 254.5 
+Sonam_Kapoor/XI667cEMR_c_0000008 257.8 262.4 
+Sonam_Kapoor/XI667cEMR_c_0000009 262.6 267.1 
+Sonam_Kapoor/XI667cEMR_c_0000010 272.8 277.7 

@@ -1,0 +1,10 @@
+POI: 			Marisa_Miller 
+Youtube ID: 	V91uFuF5y4g 
+Video length: 	384.6 sec 
+Set (V): 		dev 
+ 
+Marisa_Miller/V91uFuF5y4g_0000001 64.2 88.1 
+Marisa_Miller/V91uFuF5y4g_0000002 97.6 102.9 
+Marisa_Miller/V91uFuF5y4g_0000003 255.6 271.2 
+Marisa_Miller/V91uFuF5y4g_0000004 284.5 288.6 
+Marisa_Miller/V91uFuF5y4g_0000005 288.7 300.5 

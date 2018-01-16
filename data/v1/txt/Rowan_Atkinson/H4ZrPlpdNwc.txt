@@ -1,0 +1,7 @@
+POI: 			Rowan_Atkinson 
+Youtube ID: 	H4ZrPlpdNwc 
+Video length: 	135.1 sec 
+Set (V): 		dev 
+ 
+Rowan_Atkinson/H4ZrPlpdNwc_0000001 72.1 82.3 
+Rowan_Atkinson/H4ZrPlpdNwc_0000002 83.7 90.4 

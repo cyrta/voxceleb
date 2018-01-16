@@ -1,0 +1,8 @@
+POI: 			Dan_Fogler 
+Youtube ID: 	bRWmKnak3zE 
+Video length: 	170.7 sec 
+Set (V): 		dev 
+ 
+Dan_Fogler/bRWmKnak3zE_0000001 45.9 52.0 
+Dan_Fogler/bRWmKnak3zE_0000002 78.0 85.6 
+Dan_Fogler/bRWmKnak3zE_0000003 96.2 102.1 

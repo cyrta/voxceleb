@@ -1,0 +1,8 @@
+POI: 			Chloe_Bennet 
+Youtube ID: 	b2lqtlygS9g 
+Video length: 	74.9 sec 
+Set (V): 		dev 
+ 
+Chloe_Bennet/b2lqtlygS9g_0000001 24.2 32.0 
+Chloe_Bennet/b2lqtlygS9g_0000002 33.1 38.0 
+Chloe_Bennet/b2lqtlygS9g_0000003 56.5 62.6 

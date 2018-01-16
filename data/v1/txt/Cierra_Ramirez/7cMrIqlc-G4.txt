@@ -1,0 +1,16 @@
+POI: 			Cierra_Ramirez 
+Youtube ID: 	7cMrIqlc-G4 
+Video length: 	336.0 sec 
+Set (V): 		dev 
+ 
+Cierra_Ramirez/7cMrIqlc-G4_0000001 21.0 27.8 
+Cierra_Ramirez/7cMrIqlc-G4_0000002 60.4 65.6 
+Cierra_Ramirez/7cMrIqlc-G4_0000003 96.2 104.0 
+Cierra_Ramirez/7cMrIqlc-G4_0000004 112.1 116.5 
+Cierra_Ramirez/7cMrIqlc-G4_0000005 118.6 130.4 
+Cierra_Ramirez/7cMrIqlc-G4_0000006 162.2 166.4 
+Cierra_Ramirez/7cMrIqlc-G4_0000007 176.6 180.7 
+Cierra_Ramirez/7cMrIqlc-G4_0000008 198.6 204.3 
+Cierra_Ramirez/7cMrIqlc-G4_0000009 239.1 243.7 
+Cierra_Ramirez/7cMrIqlc-G4_0000010 249.5 254.0 
+Cierra_Ramirez/7cMrIqlc-G4_0000011 269.9 276.0 

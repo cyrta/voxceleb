@@ -1,0 +1,7 @@
+POI: 			Scott_Bakula 
+Youtube ID: 	oCATYS403Qg 
+Video length: 	385.0 sec 
+Set (V): 		dev 
+ 
+Scott_Bakula/oCATYS403Qg_0000001 128.6 135.7 
+Scott_Bakula/oCATYS403Qg_0000002 254.2 266.4 

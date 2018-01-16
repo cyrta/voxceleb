@@ -1,0 +1,7 @@
+POI: 			Chelsea_Handler 
+Youtube ID: 	HVdT_hYT0zY 
+Video length: 	511.0 sec 
+Set (V): 		dev 
+ 
+Chelsea_Handler/HVdT_hYT0zY_0000001 179.6 185.2 
+Chelsea_Handler/HVdT_hYT0zY_0000002 276.4 292.5 

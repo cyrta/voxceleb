@@ -1,0 +1,21 @@
+POI: 			Donna_Mills 
+Youtube ID: 	wvjrGCX6zfg 
+Video length: 	530.2 sec 
+Set (V): 		dev 
+ 
+Donna_Mills/wvjrGCX6zfg_0000001 85.3 89.6 
+Donna_Mills/wvjrGCX6zfg_0000002 90.0 97.2 
+Donna_Mills/wvjrGCX6zfg_0000003 165.8 174.8 
+Donna_Mills/wvjrGCX6zfg_0000004 186.6 192.8 
+Donna_Mills/wvjrGCX6zfg_0000005 252.8 260.8 
+Donna_Mills/wvjrGCX6zfg_0000006 262.7 286.4 
+Donna_Mills/wvjrGCX6zfg_0000007 301.8 308.2 
+Donna_Mills/wvjrGCX6zfg_0000008 310.1 314.3 
+Donna_Mills/wvjrGCX6zfg_0000009 371.8 382.2 
+Donna_Mills/wvjrGCX6zfg_0000010 400.7 407.4 
+Donna_Mills/wvjrGCX6zfg_0000011 407.9 415.2 
+Donna_Mills/wvjrGCX6zfg_0000012 415.8 422.1 
+Donna_Mills/wvjrGCX6zfg_0000013 436.5 445.8 
+Donna_Mills/wvjrGCX6zfg_0000014 446.5 452.2 
+Donna_Mills/wvjrGCX6zfg_0000015 486.4 495.9 
+Donna_Mills/wvjrGCX6zfg_0000016 505.0 509.4 

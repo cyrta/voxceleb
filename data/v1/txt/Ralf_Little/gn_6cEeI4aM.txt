@@ -1,0 +1,11 @@
+POI: 			Ralf_Little 
+Youtube ID: 	gn_6cEeI4aM 
+Video length: 	115.6 sec 
+Set (V): 		dev 
+ 
+Ralf_Little/gn_6cEeI4aM_0000001 05.2 18.6 
+Ralf_Little/gn_6cEeI4aM_0000002 21.5 30.4 
+Ralf_Little/gn_6cEeI4aM_0000003 37.1 44.2 
+Ralf_Little/gn_6cEeI4aM_0000004 46.0 62.0 
+Ralf_Little/gn_6cEeI4aM_0000005 70.8 90.6 
+Ralf_Little/gn_6cEeI4aM_0000006 101.8 108.8 

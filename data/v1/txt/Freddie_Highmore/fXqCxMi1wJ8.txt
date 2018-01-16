@@ -1,0 +1,12 @@
+POI: 			Freddie_Highmore 
+Youtube ID: 	fXqCxMi1wJ8 
+Video length: 	169.0 sec 
+Set (V): 		dev 
+ 
+Freddie_Highmore/fXqCxMi1wJ8_0000001 30.9 35.8 
+Freddie_Highmore/fXqCxMi1wJ8_0000002 37.3 41.6 
+Freddie_Highmore/fXqCxMi1wJ8_0000003 43.7 48.8 
+Freddie_Highmore/fXqCxMi1wJ8_0000004 60.8 66.1 
+Freddie_Highmore/fXqCxMi1wJ8_0000005 67.0 71.5 
+Freddie_Highmore/fXqCxMi1wJ8_0000006 72.0 76.0 
+Freddie_Highmore/fXqCxMi1wJ8_0000007 93.7 99.3 

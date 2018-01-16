@@ -1,0 +1,15 @@
+POI: 			Josh_Groban 
+Youtube ID: 	ThlSbVMvTt8 
+Video length: 	802.9 sec 
+Set (V): 		dev 
+ 
+Josh_Groban/ThlSbVMvTt8_0000001 131.4 138.1 
+Josh_Groban/ThlSbVMvTt8_0000002 163.1 171.6 
+Josh_Groban/ThlSbVMvTt8_0000003 379.4 399.3 
+Josh_Groban/ThlSbVMvTt8_0000004 403.1 407.5 
+Josh_Groban/ThlSbVMvTt8_0000005 450.6 458.0 
+Josh_Groban/ThlSbVMvTt8_0000006 463.8 472.4 
+Josh_Groban/ThlSbVMvTt8_0000007 564.9 569.9 
+Josh_Groban/ThlSbVMvTt8_0000008 660.0 676.3 
+Josh_Groban/ThlSbVMvTt8_0000009 722.1 730.0 
+Josh_Groban/ThlSbVMvTt8_0000010 761.7 766.6 

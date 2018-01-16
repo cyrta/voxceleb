@@ -1,0 +1,7 @@
+POI: 			Sam_Raimi 
+Youtube ID: 	q15RXfP5QAM 
+Video length: 	77.0 sec 
+Set (V): 		dev 
+ 
+Sam_Raimi/q15RXfP5QAM_0000001 19.7 25.0 
+Sam_Raimi/q15RXfP5QAM_0000002 31.7 37.7 

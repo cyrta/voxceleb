@@ -1,0 +1,17 @@
+POI: 			Farrah_Abraham 
+Youtube ID: 	2iZQFpRit3E 
+Video length: 	363.5 sec 
+Set (V): 		dev 
+ 
+Farrah_Abraham/2iZQFpRit3E_0000001 35.3 40.4 
+Farrah_Abraham/2iZQFpRit3E_0000002 51.8 61.0 
+Farrah_Abraham/2iZQFpRit3E_0000003 81.0 95.3 
+Farrah_Abraham/2iZQFpRit3E_0000004 149.9 158.6 
+Farrah_Abraham/2iZQFpRit3E_0000005 160.9 169.7 
+Farrah_Abraham/2iZQFpRit3E_0000006 170.0 179.0 
+Farrah_Abraham/2iZQFpRit3E_0000007 202.2 206.9 
+Farrah_Abraham/2iZQFpRit3E_0000008 207.8 211.9 
+Farrah_Abraham/2iZQFpRit3E_0000009 215.9 225.0 
+Farrah_Abraham/2iZQFpRit3E_0000010 226.8 253.3 
+Farrah_Abraham/2iZQFpRit3E_0000011 298.6 306.5 
+Farrah_Abraham/2iZQFpRit3E_0000012 333.6 340.5 

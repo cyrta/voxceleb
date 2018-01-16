@@ -1,0 +1,11 @@
+POI: 			Julianne_Nicholson 
+Youtube ID: 	apuXIdj9xLw 
+Video length: 	269.3 sec 
+Set (V): 		dev 
+ 
+Julianne_Nicholson/apuXIdj9xLw_0000001 18.3 27.7 
+Julianne_Nicholson/apuXIdj9xLw_0000002 32.6 50.2 
+Julianne_Nicholson/apuXIdj9xLw_0000003 131.9 139.4 
+Julianne_Nicholson/apuXIdj9xLw_0000004 149.0 154.8 
+Julianne_Nicholson/apuXIdj9xLw_0000005 155.8 163.6 
+Julianne_Nicholson/apuXIdj9xLw_0000006 164.9 177.0 

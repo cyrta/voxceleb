@@ -1,0 +1,8 @@
+POI: 			Tilda_Swinton 
+Youtube ID: 	sIKzSplaqQs 
+Video length: 	647.2 sec 
+Set (V): 		dev 
+ 
+Tilda_Swinton/sIKzSplaqQs_0000001 138.6 146.3 
+Tilda_Swinton/sIKzSplaqQs_0000002 430.2 438.3 
+Tilda_Swinton/sIKzSplaqQs_0000003 445.0 451.0 

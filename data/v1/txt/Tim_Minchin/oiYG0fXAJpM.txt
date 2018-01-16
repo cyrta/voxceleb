@@ -1,0 +1,9 @@
+POI: 			Tim_Minchin 
+Youtube ID: 	oiYG0fXAJpM 
+Video length: 	245.5 sec 
+Set (V): 		dev 
+ 
+Tim_Minchin/oiYG0fXAJpM_0000001 181.5 185.6 
+Tim_Minchin/oiYG0fXAJpM_0000002 187.3 192.2 
+Tim_Minchin/oiYG0fXAJpM_0000003 198.3 203.8 
+Tim_Minchin/oiYG0fXAJpM_0000004 223.0 228.0 

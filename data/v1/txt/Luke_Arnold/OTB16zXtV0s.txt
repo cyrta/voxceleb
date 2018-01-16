@@ -1,0 +1,11 @@
+POI: 			Luke_Arnold 
+Youtube ID: 	OTB16zXtV0s 
+Video length: 	125.2 sec 
+Set (V): 		dev 
+ 
+Luke_Arnold/OTB16zXtV0s_0000001 01.4 08.4 
+Luke_Arnold/OTB16zXtV0s_0000002 08.6 14.6 
+Luke_Arnold/OTB16zXtV0s_0000003 19.8 50.6 
+Luke_Arnold/OTB16zXtV0s_0000004 52.1 73.9 
+Luke_Arnold/OTB16zXtV0s_0000005 78.2 106.2 
+Luke_Arnold/OTB16zXtV0s_0000006 106.4 122.9 

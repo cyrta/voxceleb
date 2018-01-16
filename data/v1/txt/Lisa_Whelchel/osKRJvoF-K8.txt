@@ -1,0 +1,31 @@
+POI: 			Lisa_Whelchel 
+Youtube ID: 	osKRJvoF-K8 
+Video length: 	1679.2 sec 
+Set (V): 		dev 
+ 
+Lisa_Whelchel/osKRJvoF-K8_0000001 227.6 233.5 
+Lisa_Whelchel/osKRJvoF-K8_0000002 279.1 285.6 
+Lisa_Whelchel/osKRJvoF-K8_0000003 394.8 399.9 
+Lisa_Whelchel/osKRJvoF-K8_0000004 410.3 417.0 
+Lisa_Whelchel/osKRJvoF-K8_0000005 510.0 515.5 
+Lisa_Whelchel/osKRJvoF-K8_0000006 524.7 532.4 
+Lisa_Whelchel/osKRJvoF-K8_0000007 624.3 631.8 
+Lisa_Whelchel/osKRJvoF-K8_0000008 655.8 661.2 
+Lisa_Whelchel/osKRJvoF-K8_0000009 761.8 766.8 
+Lisa_Whelchel/osKRJvoF-K8_0000010 938.6 944.2 
+Lisa_Whelchel/osKRJvoF-K8_0000011 949.4 953.6 
+Lisa_Whelchel/osKRJvoF-K8_0000012 968.1 974.0 
+Lisa_Whelchel/osKRJvoF-K8_0000013 1015.7 1020.8 
+Lisa_Whelchel/osKRJvoF-K8_0000014 1021.4 1032.4 
+Lisa_Whelchel/osKRJvoF-K8_0000015 1037.7 1043.0 
+Lisa_Whelchel/osKRJvoF-K8_0000016 1051.2 1060.4 
+Lisa_Whelchel/osKRJvoF-K8_0000017 1186.5 1191.6 
+Lisa_Whelchel/osKRJvoF-K8_0000018 1208.2 1216.8 
+Lisa_Whelchel/osKRJvoF-K8_0000019 1261.6 1269.2 
+Lisa_Whelchel/osKRJvoF-K8_0000020 1323.7 1333.4 
+Lisa_Whelchel/osKRJvoF-K8_0000021 1339.4 1344.6 
+Lisa_Whelchel/osKRJvoF-K8_0000022 1356.9 1362.8 
+Lisa_Whelchel/osKRJvoF-K8_0000023 1398.9 1411.3 
+Lisa_Whelchel/osKRJvoF-K8_0000024 1423.0 1433.5 
+Lisa_Whelchel/osKRJvoF-K8_0000025 1462.3 1477.1 
+Lisa_Whelchel/osKRJvoF-K8_0000026 1485.7 1490.5 

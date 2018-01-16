@@ -1,0 +1,7 @@
+POI: 			Tyler_Hoechlin 
+Youtube ID: 	hlRbQgdVHXs 
+Video length: 	636.0 sec 
+Set (V): 		dev 
+ 
+Tyler_Hoechlin/hlRbQgdVHXs_0000001 383.1 387.0 
+Tyler_Hoechlin/hlRbQgdVHXs_0000002 398.4 402.5 

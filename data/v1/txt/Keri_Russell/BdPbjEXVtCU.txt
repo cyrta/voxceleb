@@ -1,0 +1,7 @@
+POI: 			Keri_Russell 
+Youtube ID: 	BdPbjEXVtCU 
+Video length: 	4027.0 sec 
+Set (V): 		dev 
+ 
+Keri_Russell/BdPbjEXVtCU_0000001 988.4 993.1 
+Keri_Russell/BdPbjEXVtCU_0000002 1006.5 1011.4 

@@ -1,0 +1,8 @@
+POI: 			Sam_Palladio 
+Youtube ID: 	cADR59tMj5M 
+Video length: 	174.1 sec 
+Set (V): 		dev 
+ 
+Sam_Palladio/cADR59tMj5M_0000001 23.1 28.6 
+Sam_Palladio/cADR59tMj5M_0000002 41.0 45.9 
+Sam_Palladio/cADR59tMj5M_0000003 56.8 66.7 

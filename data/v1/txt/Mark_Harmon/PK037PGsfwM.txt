@@ -1,0 +1,12 @@
+POI: 			Mark_Harmon 
+Youtube ID: 	PK037PGsfwM 
+Video length: 	632.6 sec 
+Set (V): 		dev 
+ 
+Mark_Harmon/PK037PGsfwM_0000001 123.7 128.0 
+Mark_Harmon/PK037PGsfwM_0000002 242.6 256.8 
+Mark_Harmon/PK037PGsfwM_0000003 377.7 386.2 
+Mark_Harmon/PK037PGsfwM_0000004 435.1 442.5 
+Mark_Harmon/PK037PGsfwM_0000005 571.4 582.0 
+Mark_Harmon/PK037PGsfwM_0000006 582.4 587.4 
+Mark_Harmon/PK037PGsfwM_0000007 588.0 593.8 

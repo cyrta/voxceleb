@@ -1,0 +1,11 @@
+POI: 			Cameron_Boyce 
+Youtube ID: 	yPQsbCiSLDc 
+Video length: 	185.0 sec 
+Set (V): 		dev 
+ 
+Cameron_Boyce/yPQsbCiSLDc_0000001 23.1 27.7 
+Cameron_Boyce/yPQsbCiSLDc_0000002 28.2 32.8 
+Cameron_Boyce/yPQsbCiSLDc_0000003 33.4 37.6 
+Cameron_Boyce/yPQsbCiSLDc_0000004 82.6 87.1 
+Cameron_Boyce/yPQsbCiSLDc_0000005 87.8 92.7 
+Cameron_Boyce/yPQsbCiSLDc_0000006 98.1 102.5 

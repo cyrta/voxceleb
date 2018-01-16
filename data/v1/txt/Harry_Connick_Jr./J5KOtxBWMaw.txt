@@ -1,0 +1,10 @@
+POI: 			Harry_Connick_Jr. 
+Youtube ID: 	J5KOtxBWMaw 
+Video length: 	119.6 sec 
+Set (V): 		dev 
+ 
+Harry_Connick_Jr./J5KOtxBWMaw_0000001 16.0 23.8 
+Harry_Connick_Jr./J5KOtxBWMaw_0000002 29.6 40.4 
+Harry_Connick_Jr./J5KOtxBWMaw_0000003 75.1 83.7 
+Harry_Connick_Jr./J5KOtxBWMaw_0000004 90.5 95.9 
+Harry_Connick_Jr./J5KOtxBWMaw_0000005 100.0 105.6 

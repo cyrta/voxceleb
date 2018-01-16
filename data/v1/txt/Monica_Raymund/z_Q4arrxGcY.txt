@@ -1,0 +1,16 @@
+POI: 			Monica_Raymund 
+Youtube ID: 	z_Q4arrxGcY 
+Video length: 	231.3 sec 
+Set (V): 		dev 
+ 
+Monica_Raymund/z_Q4arrxGcY_0000001 36.6 41.7 
+Monica_Raymund/z_Q4arrxGcY_0000002 45.3 51.8 
+Monica_Raymund/z_Q4arrxGcY_0000003 54.4 65.2 
+Monica_Raymund/z_Q4arrxGcY_0000004 71.0 76.8 
+Monica_Raymund/z_Q4arrxGcY_0000005 115.8 123.4 
+Monica_Raymund/z_Q4arrxGcY_0000006 127.6 136.8 
+Monica_Raymund/z_Q4arrxGcY_0000007 141.9 147.4 
+Monica_Raymund/z_Q4arrxGcY_0000008 167.6 179.8 
+Monica_Raymund/z_Q4arrxGcY_0000009 184.4 189.6 
+Monica_Raymund/z_Q4arrxGcY_0000010 206.3 216.9 
+Monica_Raymund/z_Q4arrxGcY_0000011 219.1 223.4 

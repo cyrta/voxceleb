@@ -1,0 +1,9 @@
+POI: 			Anthony_Anderson 
+Youtube ID: 	wvmK-b0ISWg 
+Video length: 	157.1 sec 
+Set (V): 		dev 
+ 
+Anthony_Anderson/wvmK-b0ISWg_0000001 09.8 23.4 
+Anthony_Anderson/wvmK-b0ISWg_0000002 56.2 60.3 
+Anthony_Anderson/wvmK-b0ISWg_0000003 117.3 123.0 
+Anthony_Anderson/wvmK-b0ISWg_0000004 127.8 133.4 

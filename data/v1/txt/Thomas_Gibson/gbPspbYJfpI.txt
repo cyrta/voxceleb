@@ -1,0 +1,7 @@
+POI: 			Thomas_Gibson 
+Youtube ID: 	gbPspbYJfpI 
+Video length: 	522.7 sec 
+Set (V): 		dev 
+ 
+Thomas_Gibson/gbPspbYJfpI_0000001 103.6 107.8 
+Thomas_Gibson/gbPspbYJfpI_0000002 510.9 516.4 

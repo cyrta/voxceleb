@@ -1,0 +1,9 @@
+POI: 			Elisabeth_Moss 
+Youtube ID: 	bd0jqkNxNdU 
+Video length: 	168.8 sec 
+Set (V): 		test 
+ 
+Elisabeth_Moss/bd0jqkNxNdU_0000001 63.4 92.6 
+Elisabeth_Moss/bd0jqkNxNdU_0000002 110.6 120.3 
+Elisabeth_Moss/bd0jqkNxNdU_0000003 146.2 150.9 
+Elisabeth_Moss/bd0jqkNxNdU_0000004 154.3 164.4 

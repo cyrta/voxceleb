@@ -1,0 +1,9 @@
+POI: 			Susanne_Bier 
+Youtube ID: 	CSlOgTDE1-s 
+Video length: 	95.1 sec 
+Set (V): 		dev 
+ 
+Susanne_Bier/CSlOgTDE1-s_0000001 03.6 09.2 
+Susanne_Bier/CSlOgTDE1-s_0000002 12.0 16.2 
+Susanne_Bier/CSlOgTDE1-s_0000003 29.7 35.2 
+Susanne_Bier/CSlOgTDE1-s_0000004 37.7 42.3 

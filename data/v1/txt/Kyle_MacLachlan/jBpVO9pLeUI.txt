@@ -1,0 +1,17 @@
+POI: 			Kyle_MacLachlan 
+Youtube ID: 	jBpVO9pLeUI 
+Video length: 	534.6 sec 
+Set (V): 		dev 
+ 
+Kyle_MacLachlan/jBpVO9pLeUI_0000001 43.4 47.6 
+Kyle_MacLachlan/jBpVO9pLeUI_0000002 48.2 54.4 
+Kyle_MacLachlan/jBpVO9pLeUI_0000003 100.6 110.9 
+Kyle_MacLachlan/jBpVO9pLeUI_0000004 125.9 136.3 
+Kyle_MacLachlan/jBpVO9pLeUI_0000005 161.5 167.2 
+Kyle_MacLachlan/jBpVO9pLeUI_0000006 312.2 318.7 
+Kyle_MacLachlan/jBpVO9pLeUI_0000007 404.2 416.2 
+Kyle_MacLachlan/jBpVO9pLeUI_0000008 424.0 428.7 
+Kyle_MacLachlan/jBpVO9pLeUI_0000009 437.1 445.2 
+Kyle_MacLachlan/jBpVO9pLeUI_0000010 474.6 482.2 
+Kyle_MacLachlan/jBpVO9pLeUI_0000011 486.0 493.2 
+Kyle_MacLachlan/jBpVO9pLeUI_0000012 506.6 530.2 

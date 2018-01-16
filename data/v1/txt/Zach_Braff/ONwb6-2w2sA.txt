@@ -1,0 +1,28 @@
+POI: 			Zach_Braff 
+Youtube ID: 	ONwb6-2w2sA 
+Video length: 	420.5 sec 
+Set (V): 		dev 
+ 
+Zach_Braff/ONwb6-2w2sA_0000001 05.0 13.9 
+Zach_Braff/ONwb6-2w2sA_0000002 89.7 94.4 
+Zach_Braff/ONwb6-2w2sA_0000003 95.0 100.0 
+Zach_Braff/ONwb6-2w2sA_0000004 100.6 106.7 
+Zach_Braff/ONwb6-2w2sA_0000005 107.4 115.4 
+Zach_Braff/ONwb6-2w2sA_0000006 117.0 124.6 
+Zach_Braff/ONwb6-2w2sA_0000007 125.0 138.6 
+Zach_Braff/ONwb6-2w2sA_0000008 157.0 173.8 
+Zach_Braff/ONwb6-2w2sA_0000009 175.0 202.8 
+Zach_Braff/ONwb6-2w2sA_0000010 204.1 225.0 
+Zach_Braff/ONwb6-2w2sA_0000011 227.7 232.2 
+Zach_Braff/ONwb6-2w2sA_0000012 232.5 238.2 
+Zach_Braff/ONwb6-2w2sA_0000013 254.2 260.7 
+Zach_Braff/ONwb6-2w2sA_0000014 261.2 285.9 
+Zach_Braff/ONwb6-2w2sA_0000015 290.6 301.0 
+Zach_Braff/ONwb6-2w2sA_0000016 326.2 332.8 
+Zach_Braff/ONwb6-2w2sA_0000017 334.6 351.8 
+Zach_Braff/ONwb6-2w2sA_0000018 352.9 365.6 
+Zach_Braff/ONwb6-2w2sA_0000019 366.8 373.1 
+Zach_Braff/ONwb6-2w2sA_0000020 374.9 382.7 
+Zach_Braff/ONwb6-2w2sA_0000021 383.3 392.4 
+Zach_Braff/ONwb6-2w2sA_0000022 396.4 403.1 
+Zach_Braff/ONwb6-2w2sA_0000023 405.2 415.6 

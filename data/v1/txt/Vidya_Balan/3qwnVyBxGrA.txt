@@ -1,0 +1,34 @@
+POI: 			Vidya_Balan 
+Youtube ID: 	3qwnVyBxGrA 
+Video length: 	1153.6 sec 
+Set (V): 		dev 
+ 
+Vidya_Balan/3qwnVyBxGrA_0000001 65.8 70.3 
+Vidya_Balan/3qwnVyBxGrA_0000002 79.5 83.7 
+Vidya_Balan/3qwnVyBxGrA_0000003 223.5 229.1 
+Vidya_Balan/3qwnVyBxGrA_0000004 232.0 239.3 
+Vidya_Balan/3qwnVyBxGrA_0000005 256.7 262.5 
+Vidya_Balan/3qwnVyBxGrA_0000006 314.3 318.8 
+Vidya_Balan/3qwnVyBxGrA_0000007 378.8 384.2 
+Vidya_Balan/3qwnVyBxGrA_0000008 463.4 469.4 
+Vidya_Balan/3qwnVyBxGrA_0000009 497.5 502.9 
+Vidya_Balan/3qwnVyBxGrA_0000010 560.2 569.1 
+Vidya_Balan/3qwnVyBxGrA_0000011 593.2 597.8 
+Vidya_Balan/3qwnVyBxGrA_0000012 606.8 611.9 
+Vidya_Balan/3qwnVyBxGrA_0000013 637.2 646.8 
+Vidya_Balan/3qwnVyBxGrA_0000014 649.8 654.7 
+Vidya_Balan/3qwnVyBxGrA_0000015 686.8 691.5 
+Vidya_Balan/3qwnVyBxGrA_0000016 698.8 705.2 
+Vidya_Balan/3qwnVyBxGrA_0000017 731.2 735.7 
+Vidya_Balan/3qwnVyBxGrA_0000018 749.2 754.4 
+Vidya_Balan/3qwnVyBxGrA_0000019 758.9 763.8 
+Vidya_Balan/3qwnVyBxGrA_0000020 792.6 797.1 
+Vidya_Balan/3qwnVyBxGrA_0000021 835.5 843.2 
+Vidya_Balan/3qwnVyBxGrA_0000022 893.5 899.6 
+Vidya_Balan/3qwnVyBxGrA_0000023 912.2 918.3 
+Vidya_Balan/3qwnVyBxGrA_0000024 949.0 954.4 
+Vidya_Balan/3qwnVyBxGrA_0000025 989.2 993.8 
+Vidya_Balan/3qwnVyBxGrA_0000026 1002.6 1008.5 
+Vidya_Balan/3qwnVyBxGrA_0000027 1080.4 1088.1 
+Vidya_Balan/3qwnVyBxGrA_0000028 1102.5 1106.8 
+Vidya_Balan/3qwnVyBxGrA_0000029 1110.4 1114.8 

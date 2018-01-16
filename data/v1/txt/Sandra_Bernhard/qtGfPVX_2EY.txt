@@ -1,0 +1,15 @@
+POI: 			Sandra_Bernhard 
+Youtube ID: 	qtGfPVX_2EY 
+Video length: 	3145.1 sec 
+Set (V): 		dev 
+ 
+Sandra_Bernhard/qtGfPVX_2EY_0000001 1279.4 1283.8 
+Sandra_Bernhard/qtGfPVX_2EY_0000002 1476.8 1481.0 
+Sandra_Bernhard/qtGfPVX_2EY_0000003 1723.5 1728.9 
+Sandra_Bernhard/qtGfPVX_2EY_0000004 1752.2 1761.5 
+Sandra_Bernhard/qtGfPVX_2EY_0000005 1791.3 1796.8 
+Sandra_Bernhard/qtGfPVX_2EY_0000006 2067.0 2076.3 
+Sandra_Bernhard/qtGfPVX_2EY_0000007 2127.9 2132.2 
+Sandra_Bernhard/qtGfPVX_2EY_0000008 2721.5 2726.0 
+Sandra_Bernhard/qtGfPVX_2EY_0000009 2828.6 2832.8 
+Sandra_Bernhard/qtGfPVX_2EY_0000010 2903.8 2908.4 

@@ -1,0 +1,8 @@
+POI: 			Hector_Elizondo 
+Youtube ID: 	Vkvs0j2FhdQ 
+Video length: 	174.7 sec 
+Set (V): 		dev 
+ 
+Hector_Elizondo/Vkvs0j2FhdQ_0000001 44.6 50.0 
+Hector_Elizondo/Vkvs0j2FhdQ_0000002 80.0 90.0 
+Hector_Elizondo/Vkvs0j2FhdQ_0000003 91.5 102.3 

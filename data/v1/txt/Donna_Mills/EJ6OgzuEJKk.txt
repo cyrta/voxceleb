@@ -1,0 +1,29 @@
+POI: 			Donna_Mills 
+Youtube ID: 	EJ6OgzuEJKk 
+Video length: 	555.2 sec 
+Set (V): 		dev 
+ 
+Donna_Mills/EJ6OgzuEJKk_0000001 37.0 41.9 
+Donna_Mills/EJ6OgzuEJKk_0000002 61.8 67.4 
+Donna_Mills/EJ6OgzuEJKk_0000003 68.4 78.0 
+Donna_Mills/EJ6OgzuEJKk_0000004 139.7 151.2 
+Donna_Mills/EJ6OgzuEJKk_0000005 161.7 169.0 
+Donna_Mills/EJ6OgzuEJKk_0000006 180.0 186.8 
+Donna_Mills/EJ6OgzuEJKk_0000007 211.9 218.8 
+Donna_Mills/EJ6OgzuEJKk_0000008 220.8 228.4 
+Donna_Mills/EJ6OgzuEJKk_0000009 256.6 260.6 
+Donna_Mills/EJ6OgzuEJKk_0000010 261.5 265.6 
+Donna_Mills/EJ6OgzuEJKk_0000011 267.2 273.0 
+Donna_Mills/EJ6OgzuEJKk_0000012 274.2 278.4 
+Donna_Mills/EJ6OgzuEJKk_0000013 287.8 305.9 
+Donna_Mills/EJ6OgzuEJKk_0000014 306.8 314.2 
+Donna_Mills/EJ6OgzuEJKk_0000015 331.3 335.5 
+Donna_Mills/EJ6OgzuEJKk_0000016 386.0 393.0 
+Donna_Mills/EJ6OgzuEJKk_0000017 393.6 400.8 
+Donna_Mills/EJ6OgzuEJKk_0000018 432.2 436.8 
+Donna_Mills/EJ6OgzuEJKk_0000019 444.8 449.1 
+Donna_Mills/EJ6OgzuEJKk_0000020 449.6 455.0 
+Donna_Mills/EJ6OgzuEJKk_0000021 482.5 486.9 
+Donna_Mills/EJ6OgzuEJKk_0000022 496.2 502.5 
+Donna_Mills/EJ6OgzuEJKk_0000023 507.4 512.4 
+Donna_Mills/EJ6OgzuEJKk_0000024 530.0 540.9 

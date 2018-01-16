@@ -1,0 +1,16 @@
+POI: 			Kristen_Schaal 
+Youtube ID: 	TvTqBkX7K90 
+Video length: 	283.7 sec 
+Set (V): 		dev 
+ 
+Kristen_Schaal/TvTqBkX7K90_0000001 08.9 13.2 
+Kristen_Schaal/TvTqBkX7K90_0000002 16.9 30.0 
+Kristen_Schaal/TvTqBkX7K90_0000003 30.8 42.2 
+Kristen_Schaal/TvTqBkX7K90_0000004 76.8 81.2 
+Kristen_Schaal/TvTqBkX7K90_0000005 96.8 102.1 
+Kristen_Schaal/TvTqBkX7K90_0000006 103.3 107.4 
+Kristen_Schaal/TvTqBkX7K90_0000007 119.6 138.1 
+Kristen_Schaal/TvTqBkX7K90_0000008 146.1 151.7 
+Kristen_Schaal/TvTqBkX7K90_0000009 226.2 240.9 
+Kristen_Schaal/TvTqBkX7K90_0000010 254.3 263.1 
+Kristen_Schaal/TvTqBkX7K90_0000011 267.9 272.0 

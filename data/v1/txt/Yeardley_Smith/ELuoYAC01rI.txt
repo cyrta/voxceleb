@@ -1,0 +1,10 @@
+POI: 			Yeardley_Smith 
+Youtube ID: 	ELuoYAC01rI 
+Video length: 	301.0 sec 
+Set (V): 		dev 
+ 
+Yeardley_Smith/ELuoYAC01rI_0000001 51.1 60.6 
+Yeardley_Smith/ELuoYAC01rI_0000002 126.5 132.0 
+Yeardley_Smith/ELuoYAC01rI_0000003 132.8 137.2 
+Yeardley_Smith/ELuoYAC01rI_0000004 147.4 152.6 
+Yeardley_Smith/ELuoYAC01rI_0000005 202.3 207.0 

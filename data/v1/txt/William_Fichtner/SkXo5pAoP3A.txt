@@ -1,0 +1,34 @@
+POI: 			William_Fichtner 
+Youtube ID: 	SkXo5pAoP3A 
+Video length: 	427.6 sec 
+Set (V): 		dev 
+ 
+William_Fichtner/SkXo5pAoP3A_0000001 19.4 24.6 
+William_Fichtner/SkXo5pAoP3A_0000002 25.4 30.5 
+William_Fichtner/SkXo5pAoP3A_0000003 35.2 42.8 
+William_Fichtner/SkXo5pAoP3A_0000004 51.0 62.9 
+William_Fichtner/SkXo5pAoP3A_0000005 63.2 67.6 
+William_Fichtner/SkXo5pAoP3A_0000006 75.0 88.7 
+William_Fichtner/SkXo5pAoP3A_0000007 90.5 94.9 
+William_Fichtner/SkXo5pAoP3A_0000008 109.4 126.3 
+William_Fichtner/SkXo5pAoP3A_0000009 131.2 135.4 
+William_Fichtner/SkXo5pAoP3A_0000010 127.4 135.8 
+William_Fichtner/SkXo5pAoP3A_0000011 140.8 147.0 
+William_Fichtner/SkXo5pAoP3A_0000012 147.6 158.2 
+William_Fichtner/SkXo5pAoP3A_0000013 161.8 167.8 
+William_Fichtner/SkXo5pAoP3A_0000014 168.6 175.6 
+William_Fichtner/SkXo5pAoP3A_0000015 186.3 195.7 
+William_Fichtner/SkXo5pAoP3A_0000016 203.0 208.9 
+William_Fichtner/SkXo5pAoP3A_0000017 215.9 228.2 
+William_Fichtner/SkXo5pAoP3A_0000018 239.7 244.0 
+William_Fichtner/SkXo5pAoP3A_0000019 252.0 281.2 
+William_Fichtner/SkXo5pAoP3A_0000020 283.3 287.8 
+William_Fichtner/SkXo5pAoP3A_0000021 288.8 294.7 
+William_Fichtner/SkXo5pAoP3A_0000022 300.3 311.5 
+William_Fichtner/SkXo5pAoP3A_0000023 321.5 328.0 
+William_Fichtner/SkXo5pAoP3A_0000024 332.0 339.0 
+William_Fichtner/SkXo5pAoP3A_0000025 342.8 346.8 
+William_Fichtner/SkXo5pAoP3A_0000026 350.8 358.7 
+William_Fichtner/SkXo5pAoP3A_0000027 362.6 383.7 
+William_Fichtner/SkXo5pAoP3A_0000028 391.5 399.5 
+William_Fichtner/SkXo5pAoP3A_0000029 406.3 414.2 

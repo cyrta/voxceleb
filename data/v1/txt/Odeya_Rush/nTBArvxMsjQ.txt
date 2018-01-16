@@ -1,0 +1,14 @@
+POI: 			Odeya_Rush 
+Youtube ID: 	nTBArvxMsjQ 
+Video length: 	150.1 sec 
+Set (V): 		dev 
+ 
+Odeya_Rush/nTBArvxMsjQ_0000001 09.4 23.1 
+Odeya_Rush/nTBArvxMsjQ_0000002 23.8 29.5 
+Odeya_Rush/nTBArvxMsjQ_0000003 29.9 43.8 
+Odeya_Rush/nTBArvxMsjQ_0000004 51.0 76.2 
+Odeya_Rush/nTBArvxMsjQ_0000005 88.8 93.4 
+Odeya_Rush/nTBArvxMsjQ_0000006 97.4 104.0 
+Odeya_Rush/nTBArvxMsjQ_0000007 104.7 113.6 
+Odeya_Rush/nTBArvxMsjQ_0000008 120.6 129.7 
+Odeya_Rush/nTBArvxMsjQ_0000009 129.9 135.2 

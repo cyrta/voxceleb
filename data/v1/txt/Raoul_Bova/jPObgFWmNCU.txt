@@ -1,0 +1,8 @@
+POI: 			Raoul_Bova 
+Youtube ID: 	jPObgFWmNCU 
+Video length: 	127.7 sec 
+Set (V): 		dev 
+ 
+Raoul_Bova/jPObgFWmNCU_0000001 74.1 78.2 
+Raoul_Bova/jPObgFWmNCU_0000002 82.0 86.4 
+Raoul_Bova/jPObgFWmNCU_0000003 96.0 100.0 

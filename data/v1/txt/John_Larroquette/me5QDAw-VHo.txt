@@ -1,0 +1,6 @@
+POI: 			John_Larroquette 
+Youtube ID: 	me5QDAw-VHo 
+Video length: 	244.8 sec 
+Set (V): 		dev 
+ 
+John_Larroquette/me5QDAw-VHo_0000001 172.0 180.7 

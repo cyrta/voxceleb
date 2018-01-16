@@ -1,0 +1,10 @@
+POI: 			Jack_Black 
+Youtube ID: 	ZIr8MEHliI8 
+Video length: 	295.4 sec 
+Set (V): 		dev 
+ 
+Jack_Black/ZIr8MEHliI8_0000001 23.3 27.5 
+Jack_Black/ZIr8MEHliI8_0000002 124.8 129.4 
+Jack_Black/ZIr8MEHliI8_0000003 164.7 175.0 
+Jack_Black/ZIr8MEHliI8_0000004 201.9 210.8 
+Jack_Black/ZIr8MEHliI8_0000005 231.7 236.4 

@@ -1,0 +1,9 @@
+POI: 			Lena_Horne 
+Youtube ID: 	q_8hyO29wWk 
+Video length: 	477.9 sec 
+Set (V): 		dev 
+ 
+Lena_Horne/q_8hyO29wWk_0000001 107.2 112.8 
+Lena_Horne/q_8hyO29wWk_0000002 251.5 257.1 
+Lena_Horne/q_8hyO29wWk_0000003 257.2 264.1 
+Lena_Horne/q_8hyO29wWk_0000004 395.2 400.6 

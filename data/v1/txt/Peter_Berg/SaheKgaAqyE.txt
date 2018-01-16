@@ -1,0 +1,11 @@
+POI: 			Peter_Berg 
+Youtube ID: 	SaheKgaAqyE 
+Video length: 	263.5 sec 
+Set (V): 		dev 
+ 
+Peter_Berg/SaheKgaAqyE_0000001 21.6 29.7 
+Peter_Berg/SaheKgaAqyE_0000002 29.8 39.4 
+Peter_Berg/SaheKgaAqyE_0000003 39.5 86.0 
+Peter_Berg/SaheKgaAqyE_0000004 120.6 177.1 
+Peter_Berg/SaheKgaAqyE_0000005 217.6 234.4 
+Peter_Berg/SaheKgaAqyE_0000006 235.8 248.2 

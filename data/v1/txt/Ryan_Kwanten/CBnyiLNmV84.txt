@@ -1,0 +1,13 @@
+POI: 			Ryan_Kwanten 
+Youtube ID: 	CBnyiLNmV84 
+Video length: 	202.5 sec 
+Set (V): 		dev 
+ 
+Ryan_Kwanten/CBnyiLNmV84_0000001 22.2 31.8 
+Ryan_Kwanten/CBnyiLNmV84_0000002 42.9 47.1 
+Ryan_Kwanten/CBnyiLNmV84_0000003 60.0 66.3 
+Ryan_Kwanten/CBnyiLNmV84_0000004 80.3 85.3 
+Ryan_Kwanten/CBnyiLNmV84_0000005 96.4 111.4 
+Ryan_Kwanten/CBnyiLNmV84_0000006 132.0 137.8 
+Ryan_Kwanten/CBnyiLNmV84_0000007 167.7 174.8 
+Ryan_Kwanten/CBnyiLNmV84_0000008 187.3 195.1 

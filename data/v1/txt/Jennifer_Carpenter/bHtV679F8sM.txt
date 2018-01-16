@@ -1,0 +1,8 @@
+POI: 			Jennifer_Carpenter 
+Youtube ID: 	bHtV679F8sM 
+Video length: 	93.3 sec 
+Set (V): 		dev 
+ 
+Jennifer_Carpenter/bHtV679F8sM_0000001 03.9 07.9 
+Jennifer_Carpenter/bHtV679F8sM_0000002 41.2 45.9 
+Jennifer_Carpenter/bHtV679F8sM_0000003 65.4 69.4 

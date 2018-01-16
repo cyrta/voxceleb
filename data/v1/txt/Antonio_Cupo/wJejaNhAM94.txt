@@ -1,0 +1,7 @@
+POI: 			Antonio_Cupo 
+Youtube ID: 	wJejaNhAM94 
+Video length: 	42.0 sec 
+Set (V): 		dev 
+ 
+Antonio_Cupo/wJejaNhAM94_0000001 09.8 17.8 
+Antonio_Cupo/wJejaNhAM94_0000002 24.3 33.4 

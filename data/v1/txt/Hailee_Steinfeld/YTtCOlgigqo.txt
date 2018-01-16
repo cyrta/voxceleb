@@ -1,0 +1,8 @@
+POI: 			Hailee_Steinfeld 
+Youtube ID: 	YTtCOlgigqo 
+Video length: 	144.5 sec 
+Set (V): 		dev 
+ 
+Hailee_Steinfeld/YTtCOlgigqo_0000001 09.5 14.6 
+Hailee_Steinfeld/YTtCOlgigqo_0000002 99.2 103.8 
+Hailee_Steinfeld/YTtCOlgigqo_0000003 109.2 113.9 

@@ -1,0 +1,15 @@
+POI: 			Ingrid_Bergman 
+Youtube ID: 	_r5_mipITI4 
+Video length: 	397.1 sec 
+Set (V): 		dev 
+ 
+Ingrid_Bergman/_r5_mipITI4_0000001 143.4 160.4 
+Ingrid_Bergman/_r5_mipITI4_0000002 161.8 166.4 
+Ingrid_Bergman/_r5_mipITI4_0000003 190.9 197.0 
+Ingrid_Bergman/_r5_mipITI4_0000004 202.5 212.6 
+Ingrid_Bergman/_r5_mipITI4_0000005 217.3 228.2 
+Ingrid_Bergman/_r5_mipITI4_0000006 262.4 269.2 
+Ingrid_Bergman/_r5_mipITI4_0000007 284.7 291.4 
+Ingrid_Bergman/_r5_mipITI4_0000008 325.5 332.3 
+Ingrid_Bergman/_r5_mipITI4_0000009 367.4 371.6 
+Ingrid_Bergman/_r5_mipITI4_0000010 374.3 381.3 

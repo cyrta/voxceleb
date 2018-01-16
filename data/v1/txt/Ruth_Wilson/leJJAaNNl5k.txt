@@ -1,0 +1,10 @@
+POI: 			Ruth_Wilson 
+Youtube ID: 	leJJAaNNl5k 
+Video length: 	420.3 sec 
+Set (V): 		dev 
+ 
+Ruth_Wilson/leJJAaNNl5k_0000001 151.6 164.2 
+Ruth_Wilson/leJJAaNNl5k_0000002 169.7 179.4 
+Ruth_Wilson/leJJAaNNl5k_0000003 189.5 202.4 
+Ruth_Wilson/leJJAaNNl5k_0000004 301.9 310.2 
+Ruth_Wilson/leJJAaNNl5k_0000005 315.8 324.3 

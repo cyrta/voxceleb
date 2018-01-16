@@ -1,0 +1,9 @@
+POI: 			Callan_McAuliffe 
+Youtube ID: 	li4SFwdLUos 
+Video length: 	167.2 sec 
+Set (V): 		dev 
+ 
+Callan_McAuliffe/li4SFwdLUos_0000001 08.6 14.7 
+Callan_McAuliffe/li4SFwdLUos_0000002 65.7 69.9 
+Callan_McAuliffe/li4SFwdLUos_0000003 75.4 82.0 
+Callan_McAuliffe/li4SFwdLUos_0000004 131.9 138.2 

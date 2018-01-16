@@ -1,0 +1,13 @@
+POI: 			Shailene_Woodley 
+Youtube ID: 	43hIlP4-GB4 
+Video length: 	1963.6 sec 
+Set (V): 		dev 
+ 
+Shailene_Woodley/43hIlP4-GB4_0000001 286.7 291.1 
+Shailene_Woodley/43hIlP4-GB4_0000002 301.8 315.9 
+Shailene_Woodley/43hIlP4-GB4_0000003 340.5 350.5 
+Shailene_Woodley/43hIlP4-GB4_0000004 783.3 796.2 
+Shailene_Woodley/43hIlP4-GB4_0000005 923.3 927.3 
+Shailene_Woodley/43hIlP4-GB4_0000006 1783.6 1798.0 
+Shailene_Woodley/43hIlP4-GB4_0000007 1798.9 1805.9 
+Shailene_Woodley/43hIlP4-GB4_0000008 1808.2 1823.7 

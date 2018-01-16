@@ -1,0 +1,10 @@
+POI: 			Dave_Bautista 
+Youtube ID: 	DJe_WaGBGIo 
+Video length: 	99.2 sec 
+Set (V): 		dev 
+ 
+Dave_Bautista/DJe_WaGBGIo_0000001 07.2 11.6 
+Dave_Bautista/DJe_WaGBGIo_0000002 17.4 23.7 
+Dave_Bautista/DJe_WaGBGIo_0000003 33.0 40.2 
+Dave_Bautista/DJe_WaGBGIo_0000004 50.2 55.3 
+Dave_Bautista/DJe_WaGBGIo_0000005 62.5 75.2 

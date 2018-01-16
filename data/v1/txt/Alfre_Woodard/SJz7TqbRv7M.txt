@@ -1,0 +1,23 @@
+POI: 			Alfre_Woodard 
+Youtube ID: 	SJz7TqbRv7M 
+Video length: 	291.6 sec 
+Set (V): 		dev 
+ 
+Alfre_Woodard/SJz7TqbRv7M_0000001 18.9 26.2 
+Alfre_Woodard/SJz7TqbRv7M_0000002 26.8 36.0 
+Alfre_Woodard/SJz7TqbRv7M_0000003 38.6 42.9 
+Alfre_Woodard/SJz7TqbRv7M_0000004 53.4 58.1 
+Alfre_Woodard/SJz7TqbRv7M_0000005 61.1 65.6 
+Alfre_Woodard/SJz7TqbRv7M_0000006 73.1 88.2 
+Alfre_Woodard/SJz7TqbRv7M_0000007 88.6 105.4 
+Alfre_Woodard/SJz7TqbRv7M_0000008 62.7 68.6 
+Alfre_Woodard/SJz7TqbRv7M_0000009 80.0 105.4 
+Alfre_Woodard/SJz7TqbRv7M_0000010 131.7 151.6 
+Alfre_Woodard/SJz7TqbRv7M_0000011 152.5 159.3 
+Alfre_Woodard/SJz7TqbRv7M_0000012 161.9 167.4 
+Alfre_Woodard/SJz7TqbRv7M_0000013 176.1 181.0 
+Alfre_Woodard/SJz7TqbRv7M_0000014 181.6 185.6 
+Alfre_Woodard/SJz7TqbRv7M_0000015 187.6 193.6 
+Alfre_Woodard/SJz7TqbRv7M_0000016 194.5 198.5 
+Alfre_Woodard/SJz7TqbRv7M_0000017 202.7 207.8 
+Alfre_Woodard/SJz7TqbRv7M_0000018 214.1 219.4 

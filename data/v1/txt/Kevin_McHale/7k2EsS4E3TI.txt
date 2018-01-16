@@ -1,0 +1,8 @@
+POI: 			Kevin_McHale 
+Youtube ID: 	7k2EsS4E3TI 
+Video length: 	134.7 sec 
+Set (V): 		dev 
+ 
+Kevin_McHale/7k2EsS4E3TI_0000001 07.8 12.0 
+Kevin_McHale/7k2EsS4E3TI_0000002 99.8 106.9 
+Kevin_McHale/7k2EsS4E3TI_0000003 108.0 114.0 

@@ -1,0 +1,16 @@
+POI: 			Patrick_Fugit 
+Youtube ID: 	RsviGZG34qk 
+Video length: 	422.5 sec 
+Set (V): 		dev 
+ 
+Patrick_Fugit/RsviGZG34qk_0000001 125.4 130.6 
+Patrick_Fugit/RsviGZG34qk_0000002 134.7 145.3 
+Patrick_Fugit/RsviGZG34qk_0000003 147.6 152.7 
+Patrick_Fugit/RsviGZG34qk_0000004 155.1 160.4 
+Patrick_Fugit/RsviGZG34qk_0000005 161.8 172.4 
+Patrick_Fugit/RsviGZG34qk_0000006 181.9 186.4 
+Patrick_Fugit/RsviGZG34qk_0000007 347.7 354.4 
+Patrick_Fugit/RsviGZG34qk_0000008 361.9 368.9 
+Patrick_Fugit/RsviGZG34qk_0000009 372.7 378.2 
+Patrick_Fugit/RsviGZG34qk_0000010 384.2 388.6 
+Patrick_Fugit/RsviGZG34qk_0000011 389.1 396.4 

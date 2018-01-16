@@ -1,0 +1,10 @@
+POI: 			Nichelle_Nichols 
+Youtube ID: 	F4zz5Plbmeo 
+Video length: 	568.9 sec 
+Set (V): 		dev 
+ 
+Nichelle_Nichols/F4zz5Plbmeo_0000001 343.3 348.8 
+Nichelle_Nichols/F4zz5Plbmeo_0000002 350.9 355.6 
+Nichelle_Nichols/F4zz5Plbmeo_0000003 361.8 367.9 
+Nichelle_Nichols/F4zz5Plbmeo_0000004 407.3 414.2 
+Nichelle_Nichols/F4zz5Plbmeo_0000005 439.2 461.1 

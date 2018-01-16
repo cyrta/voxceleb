@@ -1,0 +1,7 @@
+POI: 			Jorja_Fox 
+Youtube ID: 	V0KaiY79A18 
+Video length: 	143.3 sec 
+Set (V): 		dev 
+ 
+Jorja_Fox/V0KaiY79A18_0000001 76.0 80.9 
+Jorja_Fox/V0KaiY79A18_0000002 115.6 120.8 

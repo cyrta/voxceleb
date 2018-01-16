@@ -1,0 +1,7 @@
+POI: 			Diego_Klattenhoff 
+Youtube ID: 	YoncqtvJwlI 
+Video length: 	233.6 sec 
+Set (V): 		dev 
+ 
+Diego_Klattenhoff/YoncqtvJwlI_0000001 112.6 117.1 
+Diego_Klattenhoff/YoncqtvJwlI_0000002 147.0 151.4 

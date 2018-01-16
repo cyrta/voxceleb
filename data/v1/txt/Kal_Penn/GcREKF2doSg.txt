@@ -1,0 +1,9 @@
+POI: 			Kal_Penn 
+Youtube ID: 	GcREKF2doSg 
+Video length: 	76.4 sec 
+Set (V): 		dev 
+ 
+Kal_Penn/GcREKF2doSg_0000001 06.8 20.2 
+Kal_Penn/GcREKF2doSg_0000002 22.6 30.8 
+Kal_Penn/GcREKF2doSg_0000003 50.8 57.3 
+Kal_Penn/GcREKF2doSg_0000004 58.0 62.9 

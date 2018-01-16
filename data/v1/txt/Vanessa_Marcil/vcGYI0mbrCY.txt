@@ -1,0 +1,9 @@
+POI: 			Vanessa_Marcil 
+Youtube ID: 	vcGYI0mbrCY 
+Video length: 	722.0 sec 
+Set (V): 		dev 
+ 
+Vanessa_Marcil/vcGYI0mbrCY_0000001 162.6 169.0 
+Vanessa_Marcil/vcGYI0mbrCY_0000002 307.8 312.0 
+Vanessa_Marcil/vcGYI0mbrCY_0000003 320.2 328.9 
+Vanessa_Marcil/vcGYI0mbrCY_0000004 341.5 345.7 

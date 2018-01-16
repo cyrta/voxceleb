@@ -1,0 +1,13 @@
+POI: 			CCH_Pounder 
+Youtube ID: 	hisw7lDJQp4 
+Video length: 	778.7 sec 
+Set (V): 		dev 
+ 
+CCH_Pounder/hisw7lDJQp4_0000001 29.2 36.7 
+CCH_Pounder/hisw7lDJQp4_0000002 38.2 58.0 
+CCH_Pounder/hisw7lDJQp4_0000003 59.8 70.0 
+CCH_Pounder/hisw7lDJQp4_0000004 261.2 269.0 
+CCH_Pounder/hisw7lDJQp4_0000005 279.3 285.9 
+CCH_Pounder/hisw7lDJQp4_0000006 457.4 462.1 
+CCH_Pounder/hisw7lDJQp4_0000007 466.9 474.3 
+CCH_Pounder/hisw7lDJQp4_0000008 486.0 499.4 

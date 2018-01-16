@@ -1,0 +1,7 @@
+POI: 			David_Morse 
+Youtube ID: 	GSuWVo8aHCA 
+Video length: 	306.6 sec 
+Set (V): 		dev 
+ 
+David_Morse/GSuWVo8aHCA_0000001 58.4 65.8 
+David_Morse/GSuWVo8aHCA_0000002 71.4 75.4 

@@ -1,0 +1,8 @@
+POI: 			Chris_Colfer 
+Youtube ID: 	MzZQE0uOtGE 
+Video length: 	172.7 sec 
+Set (V): 		dev 
+ 
+Chris_Colfer/MzZQE0uOtGE_0000001 42.9 49.1 
+Chris_Colfer/MzZQE0uOtGE_0000002 79.2 89.6 
+Chris_Colfer/MzZQE0uOtGE_0000003 131.9 139.0 

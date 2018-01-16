@@ -1,0 +1,18 @@
+POI: 			Jerry_Ferrara 
+Youtube ID: 	OBcjIApqVTc 
+Video length: 	523.3 sec 
+Set (V): 		dev 
+ 
+Jerry_Ferrara/OBcjIApqVTc_0000001 04.8 12.5 
+Jerry_Ferrara/OBcjIApqVTc_0000002 106.2 115.5 
+Jerry_Ferrara/OBcjIApqVTc_0000003 119.6 125.5 
+Jerry_Ferrara/OBcjIApqVTc_0000004 135.8 140.7 
+Jerry_Ferrara/OBcjIApqVTc_0000005 259.3 265.6 
+Jerry_Ferrara/OBcjIApqVTc_0000006 266.5 274.3 
+Jerry_Ferrara/OBcjIApqVTc_0000007 281.5 291.8 
+Jerry_Ferrara/OBcjIApqVTc_0000008 371.7 378.8 
+Jerry_Ferrara/OBcjIApqVTc_0000009 380.9 386.5 
+Jerry_Ferrara/OBcjIApqVTc_0000010 387.4 392.3 
+Jerry_Ferrara/OBcjIApqVTc_0000011 452.4 465.2 
+Jerry_Ferrara/OBcjIApqVTc_0000012 469.8 474.4 
+Jerry_Ferrara/OBcjIApqVTc_0000013 503.4 511.3 

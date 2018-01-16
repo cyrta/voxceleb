@@ -1,0 +1,14 @@
+POI: 			Dave_Bautista 
+Youtube ID: 	G5fF_3MbWSI 
+Video length: 	311.5 sec 
+Set (V): 		dev 
+ 
+Dave_Bautista/G5fF_3MbWSI_0000001 77.1 82.2 
+Dave_Bautista/G5fF_3MbWSI_0000002 82.4 86.4 
+Dave_Bautista/G5fF_3MbWSI_0000003 87.1 93.2 
+Dave_Bautista/G5fF_3MbWSI_0000004 94.2 99.6 
+Dave_Bautista/G5fF_3MbWSI_0000005 138.1 143.1 
+Dave_Bautista/G5fF_3MbWSI_0000006 201.7 205.9 
+Dave_Bautista/G5fF_3MbWSI_0000007 241.7 248.8 
+Dave_Bautista/G5fF_3MbWSI_0000008 249.7 255.6 
+Dave_Bautista/G5fF_3MbWSI_0000009 296.1 301.4 

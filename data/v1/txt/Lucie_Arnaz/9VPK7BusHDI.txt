@@ -1,0 +1,12 @@
+POI: 			Lucie_Arnaz 
+Youtube ID: 	9VPK7BusHDI 
+Video length: 	105.2 sec 
+Set (V): 		dev 
+ 
+Lucie_Arnaz/9VPK7BusHDI_0000001 01.4 08.6 
+Lucie_Arnaz/9VPK7BusHDI_0000002 11.3 17.4 
+Lucie_Arnaz/9VPK7BusHDI_0000003 26.5 32.8 
+Lucie_Arnaz/9VPK7BusHDI_0000004 42.1 56.3 
+Lucie_Arnaz/9VPK7BusHDI_0000005 57.4 64.3 
+Lucie_Arnaz/9VPK7BusHDI_0000006 74.9 81.5 
+Lucie_Arnaz/9VPK7BusHDI_0000007 85.2 93.0 

@@ -1,0 +1,9 @@
+POI: 			Noel_Clarke 
+Youtube ID: 	7GPW_RQaWpU 
+Video length: 	117.8 sec 
+Set (V): 		dev 
+ 
+Noel_Clarke/7GPW_RQaWpU_0000001 54.0 61.2 
+Noel_Clarke/7GPW_RQaWpU_0000002 67.2 79.7 
+Noel_Clarke/7GPW_RQaWpU_0000003 82.3 89.3 
+Noel_Clarke/7GPW_RQaWpU_0000004 96.2 108.7 

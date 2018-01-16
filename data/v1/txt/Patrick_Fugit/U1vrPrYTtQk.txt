@@ -1,0 +1,7 @@
+POI: 			Patrick_Fugit 
+Youtube ID: 	U1vrPrYTtQk 
+Video length: 	423.8 sec 
+Set (V): 		dev 
+ 
+Patrick_Fugit/U1vrPrYTtQk_0000001 234.7 243.0 
+Patrick_Fugit/U1vrPrYTtQk_0000002 243.1 250.8 

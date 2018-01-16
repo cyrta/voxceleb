@@ -1,0 +1,8 @@
+POI: 			Tye_Sheridan 
+Youtube ID: 	IiQhxGno7Vg 
+Video length: 	405.6 sec 
+Set (V): 		dev 
+ 
+Tye_Sheridan/IiQhxGno7Vg_0000001 175.7 181.5 
+Tye_Sheridan/IiQhxGno7Vg_0000002 200.2 208.1 
+Tye_Sheridan/IiQhxGno7Vg_0000003 247.9 253.3 

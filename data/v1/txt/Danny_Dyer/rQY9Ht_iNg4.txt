@@ -1,0 +1,13 @@
+POI: 			Danny_Dyer 
+Youtube ID: 	rQY9Ht_iNg4 
+Video length: 	576.3 sec 
+Set (V): 		dev 
+ 
+Danny_Dyer/rQY9Ht_iNg4_0000001 59.5 63.5 
+Danny_Dyer/rQY9Ht_iNg4_0000002 128.5 134.5 
+Danny_Dyer/rQY9Ht_iNg4_0000003 159.5 165.8 
+Danny_Dyer/rQY9Ht_iNg4_0000004 201.8 205.9 
+Danny_Dyer/rQY9Ht_iNg4_0000005 211.4 215.6 
+Danny_Dyer/rQY9Ht_iNg4_0000006 278.2 282.2 
+Danny_Dyer/rQY9Ht_iNg4_0000007 324.3 330.2 
+Danny_Dyer/rQY9Ht_iNg4_0000008 515.2 520.6 

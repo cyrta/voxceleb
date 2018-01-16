@@ -1,0 +1,26 @@
+POI: 			David_Jason 
+Youtube ID: 	c2fnmzzhFkA 
+Video length: 	580.1 sec 
+Set (V): 		dev 
+ 
+David_Jason/c2fnmzzhFkA_0000001 42.0 46.0 
+David_Jason/c2fnmzzhFkA_0000002 47.6 55.4 
+David_Jason/c2fnmzzhFkA_0000003 58.0 71.8 
+David_Jason/c2fnmzzhFkA_0000004 79.5 88.5 
+David_Jason/c2fnmzzhFkA_0000005 97.0 109.9 
+David_Jason/c2fnmzzhFkA_0000006 114.0 121.2 
+David_Jason/c2fnmzzhFkA_0000007 123.4 128.2 
+David_Jason/c2fnmzzhFkA_0000008 160.4 169.7 
+David_Jason/c2fnmzzhFkA_0000009 176.4 199.2 
+David_Jason/c2fnmzzhFkA_0000010 220.3 226.6 
+David_Jason/c2fnmzzhFkA_0000011 227.4 234.3 
+David_Jason/c2fnmzzhFkA_0000012 236.4 241.2 
+David_Jason/c2fnmzzhFkA_0000013 227.2 238.4 
+David_Jason/c2fnmzzhFkA_0000014 245.4 256.4 
+David_Jason/c2fnmzzhFkA_0000015 258.5 265.6 
+David_Jason/c2fnmzzhFkA_0000016 267.6 278.5 
+David_Jason/c2fnmzzhFkA_0000017 305.7 336.4 
+David_Jason/c2fnmzzhFkA_0000018 351.2 356.2 
+David_Jason/c2fnmzzhFkA_0000019 366.3 384.0 
+David_Jason/c2fnmzzhFkA_0000020 398.2 402.3 
+David_Jason/c2fnmzzhFkA_0000021 431.7 459.2 

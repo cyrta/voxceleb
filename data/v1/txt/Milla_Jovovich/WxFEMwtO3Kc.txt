@@ -1,0 +1,8 @@
+POI: 			Milla_Jovovich 
+Youtube ID: 	WxFEMwtO3Kc 
+Video length: 	409.3 sec 
+Set (V): 		dev 
+ 
+Milla_Jovovich/WxFEMwtO3Kc_0000001 33.4 38.2 
+Milla_Jovovich/WxFEMwtO3Kc_0000002 41.8 50.8 
+Milla_Jovovich/WxFEMwtO3Kc_0000003 267.6 273.1 

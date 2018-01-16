@@ -1,0 +1,22 @@
+POI: 			Marcia_Cross 
+Youtube ID: 	R6WRF7R0f-w 
+Video length: 	501.2 sec 
+Set (V): 		dev 
+ 
+Marcia_Cross/R6WRF7R0f-w_0000001 36.4 43.8 
+Marcia_Cross/R6WRF7R0f-w_0000002 71.6 77.7 
+Marcia_Cross/R6WRF7R0f-w_0000003 79.3 88.3 
+Marcia_Cross/R6WRF7R0f-w_0000004 89.1 95.2 
+Marcia_Cross/R6WRF7R0f-w_0000005 131.2 137.2 
+Marcia_Cross/R6WRF7R0f-w_0000006 201.9 208.5 
+Marcia_Cross/R6WRF7R0f-w_0000007 216.3 225.1 
+Marcia_Cross/R6WRF7R0f-w_0000008 251.2 257.1 
+Marcia_Cross/R6WRF7R0f-w_0000009 260.0 264.0 
+Marcia_Cross/R6WRF7R0f-w_0000010 252.5 264.6 
+Marcia_Cross/R6WRF7R0f-w_0000011 286.2 295.5 
+Marcia_Cross/R6WRF7R0f-w_0000012 313.8 321.9 
+Marcia_Cross/R6WRF7R0f-w_0000013 322.9 328.9 
+Marcia_Cross/R6WRF7R0f-w_0000014 341.3 348.1 
+Marcia_Cross/R6WRF7R0f-w_0000015 391.2 395.6 
+Marcia_Cross/R6WRF7R0f-w_0000016 438.1 448.6 
+Marcia_Cross/R6WRF7R0f-w_0000017 489.0 499.7 

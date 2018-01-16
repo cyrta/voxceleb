@@ -1,0 +1,10 @@
+POI: 			Laverne_Cox 
+Youtube ID: 	pU-d_RvIvIQ 
+Video length: 	82.1 sec 
+Set (V): 		dev 
+ 
+Laverne_Cox/pU-d_RvIvIQ_0000001 02.4 09.5 
+Laverne_Cox/pU-d_RvIvIQ_0000002 14.8 20.4 
+Laverne_Cox/pU-d_RvIvIQ_0000003 22.7 28.7 
+Laverne_Cox/pU-d_RvIvIQ_0000004 33.2 56.4 
+Laverne_Cox/pU-d_RvIvIQ_0000005 60.0 71.2 

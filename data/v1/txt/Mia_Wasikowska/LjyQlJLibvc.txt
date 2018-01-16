@@ -1,0 +1,15 @@
+POI: 			Mia_Wasikowska 
+Youtube ID: 	LjyQlJLibvc 
+Video length: 	224.9 sec 
+Set (V): 		dev 
+ 
+Mia_Wasikowska/LjyQlJLibvc_0000001 19.9 27.2 
+Mia_Wasikowska/LjyQlJLibvc_0000002 36.8 46.1 
+Mia_Wasikowska/LjyQlJLibvc_0000003 73.8 88.2 
+Mia_Wasikowska/LjyQlJLibvc_0000004 120.3 124.4 
+Mia_Wasikowska/LjyQlJLibvc_0000005 145.5 167.1 
+Mia_Wasikowska/LjyQlJLibvc_0000006 170.8 175.2 
+Mia_Wasikowska/LjyQlJLibvc_0000007 187.5 193.1 
+Mia_Wasikowska/LjyQlJLibvc_0000008 193.8 203.4 
+Mia_Wasikowska/LjyQlJLibvc_0000009 205.0 211.8 
+Mia_Wasikowska/LjyQlJLibvc_0000010 212.2 217.0 

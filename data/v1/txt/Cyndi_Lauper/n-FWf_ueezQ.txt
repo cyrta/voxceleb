@@ -1,0 +1,8 @@
+POI: 			Cyndi_Lauper 
+Youtube ID: 	n-FWf_ueezQ 
+Video length: 	82.3 sec 
+Set (V): 		dev 
+ 
+Cyndi_Lauper/n-FWf_ueezQ_0000001 15.9 20.4 
+Cyndi_Lauper/n-FWf_ueezQ_0000002 21.6 27.1 
+Cyndi_Lauper/n-FWf_ueezQ_0000003 63.1 73.2 

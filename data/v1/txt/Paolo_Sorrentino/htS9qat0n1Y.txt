@@ -1,0 +1,11 @@
+POI: 			Paolo_Sorrentino 
+Youtube ID: 	htS9qat0n1Y 
+Video length: 	263.5 sec 
+Set (V): 		dev 
+ 
+Paolo_Sorrentino/htS9qat0n1Y_0000001 28.8 33.8 
+Paolo_Sorrentino/htS9qat0n1Y_0000002 56.3 64.3 
+Paolo_Sorrentino/htS9qat0n1Y_0000003 133.4 137.6 
+Paolo_Sorrentino/htS9qat0n1Y_0000004 148.9 168.6 
+Paolo_Sorrentino/htS9qat0n1Y_0000005 175.0 182.8 
+Paolo_Sorrentino/htS9qat0n1Y_0000006 199.8 210.7 

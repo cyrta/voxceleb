@@ -1,0 +1,8 @@
+POI: 			Lily_Collins 
+Youtube ID: 	t7EGry15YHM 
+Video length: 	489.0 sec 
+Set (V): 		dev 
+ 
+Lily_Collins/t7EGry15YHM_0000001 24.2 34.7 
+Lily_Collins/t7EGry15YHM_0000002 39.4 48.4 
+Lily_Collins/t7EGry15YHM_0000003 324.7 329.6 

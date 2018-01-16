@@ -1,0 +1,8 @@
+POI: 			Norman_Reedus 
+Youtube ID: 	XlGQ04rJtmc 
+Video length: 	238.7 sec 
+Set (V): 		dev 
+ 
+Norman_Reedus/XlGQ04rJtmc_0000001 122.0 131.7 
+Norman_Reedus/XlGQ04rJtmc_0000002 137.8 142.5 
+Norman_Reedus/XlGQ04rJtmc_0000003 193.9 207.4 

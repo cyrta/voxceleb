@@ -1,0 +1,7 @@
+POI: 			Meghan_Trainor 
+Youtube ID: 	YN7-cqfasaQ 
+Video length: 	542.6 sec 
+Set (V): 		dev 
+ 
+Meghan_Trainor/YN7-cqfasaQ_0000001 216.1 220.1 
+Meghan_Trainor/YN7-cqfasaQ_0000002 499.2 506.9 

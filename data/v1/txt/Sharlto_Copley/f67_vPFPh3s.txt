@@ -1,0 +1,7 @@
+POI: 			Sharlto_Copley 
+Youtube ID: 	f67_vPFPh3s 
+Video length: 	265.8 sec 
+Set (V): 		dev 
+ 
+Sharlto_Copley/f67_vPFPh3s_0000001 192.7 207.0 
+Sharlto_Copley/f67_vPFPh3s_0000002 207.2 214.1 

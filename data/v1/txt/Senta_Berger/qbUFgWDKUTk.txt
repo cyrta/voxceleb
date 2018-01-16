@@ -1,0 +1,7 @@
+POI: 			Senta_Berger 
+Youtube ID: 	qbUFgWDKUTk 
+Video length: 	353.0 sec 
+Set (V): 		dev 
+ 
+Senta_Berger/qbUFgWDKUTk_0000001 113.4 120.4 
+Senta_Berger/qbUFgWDKUTk_0000002 137.7 141.6 

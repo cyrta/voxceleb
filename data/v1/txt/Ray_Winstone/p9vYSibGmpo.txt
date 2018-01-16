@@ -1,0 +1,8 @@
+POI: 			Ray_Winstone 
+Youtube ID: 	p9vYSibGmpo 
+Video length: 	95.8 sec 
+Set (V): 		dev 
+ 
+Ray_Winstone/p9vYSibGmpo_0000001 26.3 36.7 
+Ray_Winstone/p9vYSibGmpo_0000002 52.7 58.7 
+Ray_Winstone/p9vYSibGmpo_0000003 77.2 82.9 

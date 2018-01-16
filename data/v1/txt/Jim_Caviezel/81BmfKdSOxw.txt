@@ -1,0 +1,15 @@
+POI: 			Jim_Caviezel 
+Youtube ID: 	81BmfKdSOxw 
+Video length: 	290.2 sec 
+Set (V): 		dev 
+ 
+Jim_Caviezel/81BmfKdSOxw_0000001 83.2 87.2 
+Jim_Caviezel/81BmfKdSOxw_0000002 92.3 98.3 
+Jim_Caviezel/81BmfKdSOxw_0000003 135.0 139.3 
+Jim_Caviezel/81BmfKdSOxw_0000004 139.8 146.2 
+Jim_Caviezel/81BmfKdSOxw_0000005 150.3 155.8 
+Jim_Caviezel/81BmfKdSOxw_0000006 208.8 214.2 
+Jim_Caviezel/81BmfKdSOxw_0000007 229.5 233.6 
+Jim_Caviezel/81BmfKdSOxw_0000008 260.8 268.2 
+Jim_Caviezel/81BmfKdSOxw_0000009 268.6 273.1 
+Jim_Caviezel/81BmfKdSOxw_0000010 274.9 280.0 

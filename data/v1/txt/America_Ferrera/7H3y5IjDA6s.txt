@@ -1,0 +1,10 @@
+POI: 			America_Ferrera 
+Youtube ID: 	7H3y5IjDA6s 
+Video length: 	241.0 sec 
+Set (V): 		dev 
+ 
+America_Ferrera/7H3y5IjDA6s_0000001 23.4 32.8 
+America_Ferrera/7H3y5IjDA6s_0000002 45.5 56.7 
+America_Ferrera/7H3y5IjDA6s_0000003 57.8 65.7 
+America_Ferrera/7H3y5IjDA6s_0000004 133.6 138.2 
+America_Ferrera/7H3y5IjDA6s_0000005 138.8 147.3 

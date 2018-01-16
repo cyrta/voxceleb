@@ -1,0 +1,8 @@
+POI: 			Wesley_Snipes 
+Youtube ID: 	Sg7Ya20-MI8 
+Video length: 	255.5 sec 
+Set (V): 		dev 
+ 
+Wesley_Snipes/Sg7Ya20-MI8_0000001 65.5 70.3 
+Wesley_Snipes/Sg7Ya20-MI8_0000002 71.4 80.8 
+Wesley_Snipes/Sg7Ya20-MI8_0000003 112.8 120.1 

@@ -1,0 +1,11 @@
+POI: 			Dylan_Moran 
+Youtube ID: 	nJcvkkjS6gs 
+Video length: 	247.5 sec 
+Set (V): 		dev 
+ 
+Dylan_Moran/nJcvkkjS6gs_0000001 31.8 36.0 
+Dylan_Moran/nJcvkkjS6gs_0000002 73.0 77.4 
+Dylan_Moran/nJcvkkjS6gs_0000003 85.9 90.7 
+Dylan_Moran/nJcvkkjS6gs_0000004 120.4 124.4 
+Dylan_Moran/nJcvkkjS6gs_0000005 133.4 137.8 
+Dylan_Moran/nJcvkkjS6gs_0000006 140.1 144.7 

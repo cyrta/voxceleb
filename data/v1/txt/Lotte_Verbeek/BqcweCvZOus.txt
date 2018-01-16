@@ -1,0 +1,11 @@
+POI: 			Lotte_Verbeek 
+Youtube ID: 	BqcweCvZOus 
+Video length: 	219.8 sec 
+Set (V): 		dev 
+ 
+Lotte_Verbeek/BqcweCvZOus_0000001 56.9 63.0 
+Lotte_Verbeek/BqcweCvZOus_0000002 65.0 70.9 
+Lotte_Verbeek/BqcweCvZOus_0000003 81.1 86.8 
+Lotte_Verbeek/BqcweCvZOus_0000004 96.8 104.7 
+Lotte_Verbeek/BqcweCvZOus_0000005 105.8 114.7 
+Lotte_Verbeek/BqcweCvZOus_0000006 136.0 141.2 

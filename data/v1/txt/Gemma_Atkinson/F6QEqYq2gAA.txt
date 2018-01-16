@@ -1,0 +1,14 @@
+POI: 			Gemma_Atkinson 
+Youtube ID: 	F6QEqYq2gAA 
+Video length: 	255.7 sec 
+Set (V): 		dev 
+ 
+Gemma_Atkinson/F6QEqYq2gAA_0000001 56.6 62.8 
+Gemma_Atkinson/F6QEqYq2gAA_0000002 94.8 101.8 
+Gemma_Atkinson/F6QEqYq2gAA_0000003 122.7 127.3 
+Gemma_Atkinson/F6QEqYq2gAA_0000004 131.4 136.5 
+Gemma_Atkinson/F6QEqYq2gAA_0000005 153.4 160.6 
+Gemma_Atkinson/F6QEqYq2gAA_0000006 169.6 175.8 
+Gemma_Atkinson/F6QEqYq2gAA_0000007 183.5 189.3 
+Gemma_Atkinson/F6QEqYq2gAA_0000008 218.8 226.8 
+Gemma_Atkinson/F6QEqYq2gAA_0000009 231.3 237.6 

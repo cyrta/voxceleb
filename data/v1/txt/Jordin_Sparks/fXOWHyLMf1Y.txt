@@ -1,0 +1,17 @@
+POI: 			Jordin_Sparks 
+Youtube ID: 	fXOWHyLMf1Y 
+Video length: 	455.8 sec 
+Set (V): 		dev 
+ 
+Jordin_Sparks/fXOWHyLMf1Y_0000001 34.0 38.2 
+Jordin_Sparks/fXOWHyLMf1Y_0000002 68.2 82.6 
+Jordin_Sparks/fXOWHyLMf1Y_0000003 85.3 90.8 
+Jordin_Sparks/fXOWHyLMf1Y_0000004 121.6 136.3 
+Jordin_Sparks/fXOWHyLMf1Y_0000005 140.8 146.0 
+Jordin_Sparks/fXOWHyLMf1Y_0000006 154.1 158.4 
+Jordin_Sparks/fXOWHyLMf1Y_0000007 176.8 186.3 
+Jordin_Sparks/fXOWHyLMf1Y_0000008 198.9 203.2 
+Jordin_Sparks/fXOWHyLMf1Y_0000009 234.2 240.5 
+Jordin_Sparks/fXOWHyLMf1Y_0000010 256.2 266.9 
+Jordin_Sparks/fXOWHyLMf1Y_0000011 300.2 313.7 
+Jordin_Sparks/fXOWHyLMf1Y_0000012 358.8 364.7 

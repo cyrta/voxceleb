@@ -1,0 +1,11 @@
+POI: 			Lisa_Rinna 
+Youtube ID: 	40umohtuhMc 
+Video length: 	663.5 sec 
+Set (V): 		dev 
+ 
+Lisa_Rinna/40umohtuhMc_0000001 215.9 220.9 
+Lisa_Rinna/40umohtuhMc_0000002 230.9 235.6 
+Lisa_Rinna/40umohtuhMc_0000003 256.1 264.4 
+Lisa_Rinna/40umohtuhMc_0000004 283.0 287.9 
+Lisa_Rinna/40umohtuhMc_0000005 476.4 483.2 
+Lisa_Rinna/40umohtuhMc_0000006 489.3 493.8 

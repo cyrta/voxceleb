@@ -1,0 +1,14 @@
+POI: 			Josh_Gad 
+Youtube ID: 	TnQtICvA1EI 
+Video length: 	200.6 sec 
+Set (V): 		dev 
+ 
+Josh_Gad/TnQtICvA1EI_0000001 22.8 29.0 
+Josh_Gad/TnQtICvA1EI_0000002 29.9 37.2 
+Josh_Gad/TnQtICvA1EI_0000003 44.9 50.0 
+Josh_Gad/TnQtICvA1EI_0000004 50.7 57.4 
+Josh_Gad/TnQtICvA1EI_0000005 67.8 71.9 
+Josh_Gad/TnQtICvA1EI_0000006 105.8 112.8 
+Josh_Gad/TnQtICvA1EI_0000007 115.6 122.0 
+Josh_Gad/TnQtICvA1EI_0000008 136.8 141.3 
+Josh_Gad/TnQtICvA1EI_0000009 157.1 162.2 

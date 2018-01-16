@@ -1,0 +1,7 @@
+POI: 			Jeremy_Renner 
+Youtube ID: 	BUMxpC3qGik 
+Video length: 	302.4 sec 
+Set (V): 		dev 
+ 
+Jeremy_Renner/BUMxpC3qGik_0000001 245.7 250.6 
+Jeremy_Renner/BUMxpC3qGik_0000002 266.1 270.1 

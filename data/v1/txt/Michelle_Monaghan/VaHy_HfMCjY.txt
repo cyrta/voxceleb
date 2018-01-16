@@ -1,0 +1,14 @@
+POI: 			Michelle_Monaghan 
+Youtube ID: 	VaHy_HfMCjY 
+Video length: 	206.3 sec 
+Set (V): 		dev 
+ 
+Michelle_Monaghan/VaHy_HfMCjY_0000001 20.1 36.8 
+Michelle_Monaghan/VaHy_HfMCjY_0000002 36.9 47.4 
+Michelle_Monaghan/VaHy_HfMCjY_0000003 52.4 62.4 
+Michelle_Monaghan/VaHy_HfMCjY_0000004 77.9 83.1 
+Michelle_Monaghan/VaHy_HfMCjY_0000005 107.2 112.9 
+Michelle_Monaghan/VaHy_HfMCjY_0000006 116.7 147.8 
+Michelle_Monaghan/VaHy_HfMCjY_0000007 148.4 158.8 
+Michelle_Monaghan/VaHy_HfMCjY_0000008 172.0 176.3 
+Michelle_Monaghan/VaHy_HfMCjY_0000009 176.7 198.5 

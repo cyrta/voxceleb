@@ -1,0 +1,9 @@
+POI: 			Jason_Earles 
+Youtube ID: 	0iBqRspQoyE 
+Video length: 	140.4 sec 
+Set (V): 		dev 
+ 
+Jason_Earles/0iBqRspQoyE_0000001 37.1 51.4 
+Jason_Earles/0iBqRspQoyE_0000002 83.2 92.1 
+Jason_Earles/0iBqRspQoyE_0000003 102.8 118.0 
+Jason_Earles/0iBqRspQoyE_0000004 125.1 134.9 

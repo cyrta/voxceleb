@@ -1,0 +1,13 @@
+POI: 			Marc_Forster 
+Youtube ID: 	yVfXlncBQB4 
+Video length: 	250.6 sec 
+Set (V): 		dev 
+ 
+Marc_Forster/yVfXlncBQB4_0000001 28.4 34.2 
+Marc_Forster/yVfXlncBQB4_0000002 51.4 55.8 
+Marc_Forster/yVfXlncBQB4_0000003 72.5 78.5 
+Marc_Forster/yVfXlncBQB4_0000004 119.6 123.6 
+Marc_Forster/yVfXlncBQB4_0000005 126.0 130.7 
+Marc_Forster/yVfXlncBQB4_0000006 135.1 145.7 
+Marc_Forster/yVfXlncBQB4_0000007 178.4 184.9 
+Marc_Forster/yVfXlncBQB4_0000008 195.0 218.3 

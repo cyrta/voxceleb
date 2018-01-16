@@ -1,0 +1,7 @@
+POI: 			Miranda_Kerr 
+Youtube ID: 	BuszvCV-XJc 
+Video length: 	600.2 sec 
+Set (V): 		dev 
+ 
+Miranda_Kerr/BuszvCV-XJc_0000001 235.2 243.7 
+Miranda_Kerr/BuszvCV-XJc_0000002 248.9 253.4 

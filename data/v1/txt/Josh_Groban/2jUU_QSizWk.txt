@@ -1,0 +1,9 @@
+POI: 			Josh_Groban 
+Youtube ID: 	2jUU_QSizWk 
+Video length: 	242.1 sec 
+Set (V): 		dev 
+ 
+Josh_Groban/2jUU_QSizWk_0000001 58.6 67.3 
+Josh_Groban/2jUU_QSizWk_0000002 103.9 110.6 
+Josh_Groban/2jUU_QSizWk_0000003 120.3 126.7 
+Josh_Groban/2jUU_QSizWk_0000004 135.2 139.4 

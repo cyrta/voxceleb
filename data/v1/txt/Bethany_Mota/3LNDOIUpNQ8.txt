@@ -1,0 +1,8 @@
+POI: 			Bethany_Mota 
+Youtube ID: 	3LNDOIUpNQ8 
+Video length: 	101.9 sec 
+Set (V): 		dev 
+ 
+Bethany_Mota/3LNDOIUpNQ8_0000001 20.0 32.7 
+Bethany_Mota/3LNDOIUpNQ8_0000002 38.3 56.5 
+Bethany_Mota/3LNDOIUpNQ8_0000003 80.3 86.2 

@@ -1,0 +1,9 @@
+POI: 			Michaela_Conlin 
+Youtube ID: 	TFw9CZUr374 
+Video length: 	66.3 sec 
+Set (V): 		dev 
+ 
+Michaela_Conlin/TFw9CZUr374_0000001 17.6 24.4 
+Michaela_Conlin/TFw9CZUr374_0000002 25.0 33.5 
+Michaela_Conlin/TFw9CZUr374_0000003 36.6 42.2 
+Michaela_Conlin/TFw9CZUr374_0000004 50.2 60.1 

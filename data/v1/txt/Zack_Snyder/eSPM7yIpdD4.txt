@@ -1,0 +1,12 @@
+POI: 			Zack_Snyder 
+Youtube ID: 	eSPM7yIpdD4 
+Video length: 	237.2 sec 
+Set (V): 		dev 
+ 
+Zack_Snyder/eSPM7yIpdD4_0000001 06.9 17.3 
+Zack_Snyder/eSPM7yIpdD4_0000002 32.2 40.5 
+Zack_Snyder/eSPM7yIpdD4_0000003 62.2 67.0 
+Zack_Snyder/eSPM7yIpdD4_0000004 67.8 73.6 
+Zack_Snyder/eSPM7yIpdD4_0000005 82.0 86.3 
+Zack_Snyder/eSPM7yIpdD4_0000006 155.6 165.6 
+Zack_Snyder/eSPM7yIpdD4_0000007 167.9 172.4 

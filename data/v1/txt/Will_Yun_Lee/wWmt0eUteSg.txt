@@ -1,0 +1,9 @@
+POI: 			Will_Yun_Lee 
+Youtube ID: 	wWmt0eUteSg 
+Video length: 	49.6 sec 
+Set (V): 		dev 
+ 
+Will_Yun_Lee/wWmt0eUteSg_0000001 03.6 09.2 
+Will_Yun_Lee/wWmt0eUteSg_0000002 16.4 22.0 
+Will_Yun_Lee/wWmt0eUteSg_0000003 33.0 40.5 
+Will_Yun_Lee/wWmt0eUteSg_0000004 40.8 47.2 

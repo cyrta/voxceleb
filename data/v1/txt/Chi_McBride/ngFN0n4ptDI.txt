@@ -1,0 +1,8 @@
+POI: 			Chi_McBride 
+Youtube ID: 	ngFN0n4ptDI 
+Video length: 	105.0 sec 
+Set (V): 		dev 
+ 
+Chi_McBride/ngFN0n4ptDI_0000001 29.2 33.9 
+Chi_McBride/ngFN0n4ptDI_0000002 65.4 70.4 
+Chi_McBride/ngFN0n4ptDI_0000003 84.3 89.4 

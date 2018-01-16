@@ -1,0 +1,22 @@
+POI: 			Sean_Kanan 
+Youtube ID: 	haw9oLnHmgI 
+Video length: 	393.6 sec 
+Set (V): 		dev 
+ 
+Sean_Kanan/haw9oLnHmgI_0000001 01.8 15.0 
+Sean_Kanan/haw9oLnHmgI_0000002 21.3 51.4 
+Sean_Kanan/haw9oLnHmgI_0000003 51.3 76.8 
+Sean_Kanan/haw9oLnHmgI_0000004 66.4 81.7 
+Sean_Kanan/haw9oLnHmgI_0000005 147.7 163.6 
+Sean_Kanan/haw9oLnHmgI_0000006 164.5 168.5 
+Sean_Kanan/haw9oLnHmgI_0000007 169.7 177.2 
+Sean_Kanan/haw9oLnHmgI_0000008 178.0 189.1 
+Sean_Kanan/haw9oLnHmgI_0000009 194.0 198.1 
+Sean_Kanan/haw9oLnHmgI_0000010 198.7 211.6 
+Sean_Kanan/haw9oLnHmgI_0000011 212.5 221.5 
+Sean_Kanan/haw9oLnHmgI_0000012 249.0 258.2 
+Sean_Kanan/haw9oLnHmgI_0000013 258.3 265.8 
+Sean_Kanan/haw9oLnHmgI_0000014 268.8 282.6 
+Sean_Kanan/haw9oLnHmgI_0000015 285.5 310.6 
+Sean_Kanan/haw9oLnHmgI_0000016 336.6 351.7 
+Sean_Kanan/haw9oLnHmgI_0000017 360.2 379.9 

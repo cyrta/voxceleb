@@ -1,0 +1,26 @@
+POI: 			Julia_Roberts 
+Youtube ID: 	0pe1uoeBCuI 
+Video length: 	420.1 sec 
+Set (V): 		dev 
+ 
+Julia_Roberts/0pe1uoeBCuI_0000001 19.2 26.4 
+Julia_Roberts/0pe1uoeBCuI_0000002 26.8 43.2 
+Julia_Roberts/0pe1uoeBCuI_0000003 44.1 54.0 
+Julia_Roberts/0pe1uoeBCuI_0000004 65.8 76.1 
+Julia_Roberts/0pe1uoeBCuI_0000005 82.4 90.3 
+Julia_Roberts/0pe1uoeBCuI_0000006 90.9 97.7 
+Julia_Roberts/0pe1uoeBCuI_0000007 110.8 136.9 
+Julia_Roberts/0pe1uoeBCuI_0000008 147.4 163.6 
+Julia_Roberts/0pe1uoeBCuI_0000009 170.3 174.6 
+Julia_Roberts/0pe1uoeBCuI_0000010 175.7 179.7 
+Julia_Roberts/0pe1uoeBCuI_0000011 184.5 193.7 
+Julia_Roberts/0pe1uoeBCuI_0000012 214.8 225.0 
+Julia_Roberts/0pe1uoeBCuI_0000013 225.5 240.3 
+Julia_Roberts/0pe1uoeBCuI_0000014 254.6 263.8 
+Julia_Roberts/0pe1uoeBCuI_0000015 274.0 280.8 
+Julia_Roberts/0pe1uoeBCuI_0000016 290.9 295.2 
+Julia_Roberts/0pe1uoeBCuI_0000017 295.4 307.8 
+Julia_Roberts/0pe1uoeBCuI_0000018 345.0 357.6 
+Julia_Roberts/0pe1uoeBCuI_0000019 362.7 371.8 
+Julia_Roberts/0pe1uoeBCuI_0000020 376.1 390.0 
+Julia_Roberts/0pe1uoeBCuI_0000021 391.1 396.8 

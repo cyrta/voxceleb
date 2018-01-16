@@ -1,0 +1,23 @@
+POI: 			Thomas_Gibson 
+Youtube ID: 	Bvr5NarHLRc 
+Video length: 	606.6 sec 
+Set (V): 		dev 
+ 
+Thomas_Gibson/Bvr5NarHLRc_0000001 66.5 83.4 
+Thomas_Gibson/Bvr5NarHLRc_0000002 120.5 127.1 
+Thomas_Gibson/Bvr5NarHLRc_0000003 127.6 136.3 
+Thomas_Gibson/Bvr5NarHLRc_0000004 146.0 150.2 
+Thomas_Gibson/Bvr5NarHLRc_0000005 173.8 181.8 
+Thomas_Gibson/Bvr5NarHLRc_0000006 193.4 199.6 
+Thomas_Gibson/Bvr5NarHLRc_0000007 199.8 205.8 
+Thomas_Gibson/Bvr5NarHLRc_0000008 251.8 257.6 
+Thomas_Gibson/Bvr5NarHLRc_0000009 259.5 265.9 
+Thomas_Gibson/Bvr5NarHLRc_0000010 302.5 308.5 
+Thomas_Gibson/Bvr5NarHLRc_0000011 314.6 319.4 
+Thomas_Gibson/Bvr5NarHLRc_0000012 343.8 349.6 
+Thomas_Gibson/Bvr5NarHLRc_0000013 475.8 481.2 
+Thomas_Gibson/Bvr5NarHLRc_0000014 521.1 528.3 
+Thomas_Gibson/Bvr5NarHLRc_0000015 529.5 534.6 
+Thomas_Gibson/Bvr5NarHLRc_0000016 578.8 583.8 
+Thomas_Gibson/Bvr5NarHLRc_0000017 583.9 588.9 
+Thomas_Gibson/Bvr5NarHLRc_0000018 589.9 594.4 

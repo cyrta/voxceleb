@@ -1,0 +1,11 @@
+POI: 			Keeley_Hawes 
+Youtube ID: 	ZFSILbLHr5s 
+Video length: 	533.5 sec 
+Set (V): 		dev 
+ 
+Keeley_Hawes/ZFSILbLHr5s_0000001 67.8 72.1 
+Keeley_Hawes/ZFSILbLHr5s_0000002 165.9 170.2 
+Keeley_Hawes/ZFSILbLHr5s_0000003 208.8 214.7 
+Keeley_Hawes/ZFSILbLHr5s_0000004 280.1 285.5 
+Keeley_Hawes/ZFSILbLHr5s_0000005 364.9 372.2 
+Keeley_Hawes/ZFSILbLHr5s_0000006 417.2 421.2 

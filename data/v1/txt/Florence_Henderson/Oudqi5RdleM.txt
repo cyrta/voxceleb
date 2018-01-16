@@ -1,0 +1,12 @@
+POI: 			Florence_Henderson 
+Youtube ID: 	Oudqi5RdleM 
+Video length: 	209.7 sec 
+Set (V): 		dev 
+ 
+Florence_Henderson/Oudqi5RdleM_0000001 10.6 25.4 
+Florence_Henderson/Oudqi5RdleM_0000002 40.1 47.3 
+Florence_Henderson/Oudqi5RdleM_0000003 58.9 63.0 
+Florence_Henderson/Oudqi5RdleM_0000004 134.2 138.9 
+Florence_Henderson/Oudqi5RdleM_0000005 149.9 154.2 
+Florence_Henderson/Oudqi5RdleM_0000006 164.1 170.2 
+Florence_Henderson/Oudqi5RdleM_0000007 172.6 177.5 

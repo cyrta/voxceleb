@@ -1,0 +1,11 @@
+POI: 			Marie_Avgeropoulos 
+Youtube ID: 	poSJrdIP3xY 
+Video length: 	304.2 sec 
+Set (V): 		dev 
+ 
+Marie_Avgeropoulos/poSJrdIP3xY_0000001 62.0 66.9 
+Marie_Avgeropoulos/poSJrdIP3xY_0000002 119.4 124.0 
+Marie_Avgeropoulos/poSJrdIP3xY_0000003 172.9 177.8 
+Marie_Avgeropoulos/poSJrdIP3xY_0000004 178.4 183.2 
+Marie_Avgeropoulos/poSJrdIP3xY_0000005 243.7 252.2 
+Marie_Avgeropoulos/poSJrdIP3xY_0000006 286.9 293.5 

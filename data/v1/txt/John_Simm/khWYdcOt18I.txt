@@ -1,0 +1,7 @@
+POI: 			John_Simm 
+Youtube ID: 	khWYdcOt18I 
+Video length: 	244.0 sec 
+Set (V): 		dev 
+ 
+John_Simm/khWYdcOt18I_0000001 67.5 79.4 
+John_Simm/khWYdcOt18I_0000002 162.1 169.0 

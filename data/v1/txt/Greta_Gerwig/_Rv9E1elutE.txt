@@ -1,0 +1,29 @@
+POI: 			Greta_Gerwig 
+Youtube ID: 	_Rv9E1elutE 
+Video length: 	2015.5 sec 
+Set (V): 		dev 
+ 
+Greta_Gerwig/_Rv9E1elutE_0000001 138.5 142.5 
+Greta_Gerwig/_Rv9E1elutE_0000002 178.0 183.4 
+Greta_Gerwig/_Rv9E1elutE_0000003 193.3 197.3 
+Greta_Gerwig/_Rv9E1elutE_0000004 229.1 233.1 
+Greta_Gerwig/_Rv9E1elutE_0000005 288.8 293.5 
+Greta_Gerwig/_Rv9E1elutE_0000006 457.2 462.3 
+Greta_Gerwig/_Rv9E1elutE_0000007 463.2 469.4 
+Greta_Gerwig/_Rv9E1elutE_0000008 620.0 626.9 
+Greta_Gerwig/_Rv9E1elutE_0000009 681.6 685.7 
+Greta_Gerwig/_Rv9E1elutE_0000010 747.8 756.5 
+Greta_Gerwig/_Rv9E1elutE_0000011 818.8 823.3 
+Greta_Gerwig/_Rv9E1elutE_0000012 896.8 900.8 
+Greta_Gerwig/_Rv9E1elutE_0000013 916.3 921.4 
+Greta_Gerwig/_Rv9E1elutE_0000014 1023.7 1028.0 
+Greta_Gerwig/_Rv9E1elutE_0000015 1108.4 1112.6 
+Greta_Gerwig/_Rv9E1elutE_0000016 1166.2 1170.5 
+Greta_Gerwig/_Rv9E1elutE_0000017 1298.9 1302.9 
+Greta_Gerwig/_Rv9E1elutE_0000018 1308.1 1314.7 
+Greta_Gerwig/_Rv9E1elutE_0000019 1307.9 1318.3 
+Greta_Gerwig/_Rv9E1elutE_0000020 1493.0 1497.3 
+Greta_Gerwig/_Rv9E1elutE_0000021 1566.0 1571.2 
+Greta_Gerwig/_Rv9E1elutE_0000022 1687.2 1692.2 
+Greta_Gerwig/_Rv9E1elutE_0000023 1724.5 1730.4 
+Greta_Gerwig/_Rv9E1elutE_0000024 1961.8 1971.7 

@@ -1,0 +1,7 @@
+POI: 			CCH_Pounder 
+Youtube ID: 	AtyrIRL-NWU 
+Video length: 	165.6 sec 
+Set (V): 		dev 
+ 
+CCH_Pounder/AtyrIRL-NWU_0000001 110.6 116.0 
+CCH_Pounder/AtyrIRL-NWU_0000002 121.9 127.7 

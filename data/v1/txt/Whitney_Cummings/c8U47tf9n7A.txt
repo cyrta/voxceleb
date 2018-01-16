@@ -1,0 +1,14 @@
+POI: 			Whitney_Cummings 
+Youtube ID: 	c8U47tf9n7A 
+Video length: 	2665.5 sec 
+Set (V): 		dev 
+ 
+Whitney_Cummings/c8U47tf9n7A_0000001 676.8 681.0 
+Whitney_Cummings/c8U47tf9n7A_0000002 687.3 692.6 
+Whitney_Cummings/c8U47tf9n7A_0000003 809.3 817.2 
+Whitney_Cummings/c8U47tf9n7A_0000004 1016.3 1023.0 
+Whitney_Cummings/c8U47tf9n7A_0000005 1071.8 1076.5 
+Whitney_Cummings/c8U47tf9n7A_0000006 1081.0 1087.0 
+Whitney_Cummings/c8U47tf9n7A_0000007 1195.9 1203.4 
+Whitney_Cummings/c8U47tf9n7A_0000008 1226.6 1233.2 
+Whitney_Cummings/c8U47tf9n7A_0000009 1255.7 1260.9 

@@ -1,0 +1,18 @@
+POI: 			Samantha_Barks 
+Youtube ID: 	49vO2UGKKj4 
+Video length: 	256.6 sec 
+Set (V): 		dev 
+ 
+Samantha_Barks/49vO2UGKKj4_0000001 05.5 17.6 
+Samantha_Barks/49vO2UGKKj4_0000002 26.0 39.7 
+Samantha_Barks/49vO2UGKKj4_0000003 53.2 60.0 
+Samantha_Barks/49vO2UGKKj4_0000004 86.6 92.9 
+Samantha_Barks/49vO2UGKKj4_0000005 96.1 103.7 
+Samantha_Barks/49vO2UGKKj4_0000006 104.2 121.6 
+Samantha_Barks/49vO2UGKKj4_0000007 129.8 134.0 
+Samantha_Barks/49vO2UGKKj4_0000008 144.8 149.3 
+Samantha_Barks/49vO2UGKKj4_0000009 161.0 172.5 
+Samantha_Barks/49vO2UGKKj4_0000010 186.6 199.2 
+Samantha_Barks/49vO2UGKKj4_0000011 204.9 211.0 
+Samantha_Barks/49vO2UGKKj4_0000012 225.2 231.3 
+Samantha_Barks/49vO2UGKKj4_0000013 233.4 237.6 

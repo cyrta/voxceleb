@@ -1,0 +1,9 @@
+POI: 			Adam_Driver 
+Youtube ID: 	ugLQaIVIxIw 
+Video length: 	174.1 sec 
+Set (V): 		dev 
+ 
+Adam_Driver/ugLQaIVIxIw_0000001 68.4 73.2 
+Adam_Driver/ugLQaIVIxIw_0000002 74.0 78.6 
+Adam_Driver/ugLQaIVIxIw_0000003 101.1 105.8 
+Adam_Driver/ugLQaIVIxIw_0000004 119.9 126.2 

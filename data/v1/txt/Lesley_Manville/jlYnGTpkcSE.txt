@@ -1,0 +1,8 @@
+POI: 			Lesley_Manville 
+Youtube ID: 	jlYnGTpkcSE 
+Video length: 	147.6 sec 
+Set (V): 		dev 
+ 
+Lesley_Manville/jlYnGTpkcSE_0000001 60.6 66.0 
+Lesley_Manville/jlYnGTpkcSE_0000002 77.6 84.9 
+Lesley_Manville/jlYnGTpkcSE_0000003 103.3 108.5 

@@ -1,0 +1,10 @@
+POI: 			Amaury_Nolasco 
+Youtube ID: 	cgNQRrrNsbI 
+Video length: 	90.1 sec 
+Set (V): 		dev 
+ 
+Amaury_Nolasco/cgNQRrrNsbI_0000001 01.7 19.6 
+Amaury_Nolasco/cgNQRrrNsbI_0000002 38.1 45.1 
+Amaury_Nolasco/cgNQRrrNsbI_0000003 47.3 71.3 
+Amaury_Nolasco/cgNQRrrNsbI_0000004 53.0 57.0 
+Amaury_Nolasco/cgNQRrrNsbI_0000005 75.2 88.4 

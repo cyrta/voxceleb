@@ -1,0 +1,13 @@
+POI: 			Amitabh_Bachchan 
+Youtube ID: 	2C6rSa0k4NM 
+Video length: 	510.1 sec 
+Set (V): 		dev 
+ 
+Amitabh_Bachchan/2C6rSa0k4NM_0000001 125.4 132.9 
+Amitabh_Bachchan/2C6rSa0k4NM_0000002 139.2 144.0 
+Amitabh_Bachchan/2C6rSa0k4NM_0000003 155.1 160.6 
+Amitabh_Bachchan/2C6rSa0k4NM_0000004 240.6 246.7 
+Amitabh_Bachchan/2C6rSa0k4NM_0000005 273.0 279.9 
+Amitabh_Bachchan/2C6rSa0k4NM_0000006 280.2 285.2 
+Amitabh_Bachchan/2C6rSa0k4NM_0000007 413.5 418.2 
+Amitabh_Bachchan/2C6rSa0k4NM_0000008 483.7 488.6 

@@ -1,0 +1,14 @@
+POI: 			Julie_Walters 
+Youtube ID: 	c9XunzryIDc 
+Video length: 	240.9 sec 
+Set (V): 		dev 
+ 
+Julie_Walters/c9XunzryIDc_0000001 18.0 23.8 
+Julie_Walters/c9XunzryIDc_0000002 35.2 47.6 
+Julie_Walters/c9XunzryIDc_0000003 52.2 59.0 
+Julie_Walters/c9XunzryIDc_0000004 70.0 78.4 
+Julie_Walters/c9XunzryIDc_0000005 98.5 111.3 
+Julie_Walters/c9XunzryIDc_0000006 138.0 146.8 
+Julie_Walters/c9XunzryIDc_0000007 150.5 161.1 
+Julie_Walters/c9XunzryIDc_0000008 198.7 213.2 
+Julie_Walters/c9XunzryIDc_0000009 224.1 232.2 

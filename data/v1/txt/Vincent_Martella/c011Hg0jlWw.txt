@@ -1,0 +1,10 @@
+POI: 			Vincent_Martella 
+Youtube ID: 	c011Hg0jlWw 
+Video length: 	82.9 sec 
+Set (V): 		dev 
+ 
+Vincent_Martella/c011Hg0jlWw_0000001 04.6 18.5 
+Vincent_Martella/c011Hg0jlWw_0000002 31.2 37.3 
+Vincent_Martella/c011Hg0jlWw_0000003 38.2 45.4 
+Vincent_Martella/c011Hg0jlWw_0000004 55.7 62.3 
+Vincent_Martella/c011Hg0jlWw_0000005 73.9 80.4 

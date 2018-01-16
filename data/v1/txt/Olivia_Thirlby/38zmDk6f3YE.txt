@@ -1,0 +1,10 @@
+POI: 			Olivia_Thirlby 
+Youtube ID: 	38zmDk6f3YE 
+Video length: 	170.9 sec 
+Set (V): 		dev 
+ 
+Olivia_Thirlby/38zmDk6f3YE_0000001 39.1 43.5 
+Olivia_Thirlby/38zmDk6f3YE_0000002 73.8 78.2 
+Olivia_Thirlby/38zmDk6f3YE_0000003 79.9 88.9 
+Olivia_Thirlby/38zmDk6f3YE_0000004 99.0 103.4 
+Olivia_Thirlby/38zmDk6f3YE_0000005 107.9 114.1 

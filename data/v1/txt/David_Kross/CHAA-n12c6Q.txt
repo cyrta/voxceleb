@@ -1,0 +1,7 @@
+POI: 			David_Kross 
+Youtube ID: 	CHAA-n12c6Q 
+Video length: 	331.8 sec 
+Set (V): 		dev 
+ 
+David_Kross/CHAA-n12c6Q_0000001 136.0 142.4 
+David_Kross/CHAA-n12c6Q_0000002 204.8 210.9 

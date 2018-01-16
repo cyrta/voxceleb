@@ -1,0 +1,11 @@
+POI: 			Janet_Montgomery 
+Youtube ID: 	sgQJpVj1d6c 
+Video length: 	264.6 sec 
+Set (V): 		dev 
+ 
+Janet_Montgomery/sgQJpVj1d6c_0000001 72.0 79.3 
+Janet_Montgomery/sgQJpVj1d6c_0000002 140.6 147.2 
+Janet_Montgomery/sgQJpVj1d6c_0000003 182.7 188.8 
+Janet_Montgomery/sgQJpVj1d6c_0000004 204.3 208.8 
+Janet_Montgomery/sgQJpVj1d6c_0000005 224.4 231.5 
+Janet_Montgomery/sgQJpVj1d6c_0000006 231.8 242.2 

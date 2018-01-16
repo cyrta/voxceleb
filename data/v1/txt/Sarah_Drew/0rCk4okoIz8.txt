@@ -1,0 +1,34 @@
+POI: 			Sarah_Drew 
+Youtube ID: 	0rCk4okoIz8 
+Video length: 	497.0 sec 
+Set (V): 		dev 
+ 
+Sarah_Drew/0rCk4okoIz8_0000001 08.5 13.5 
+Sarah_Drew/0rCk4okoIz8_0000002 21.6 30.1 
+Sarah_Drew/0rCk4okoIz8_0000003 38.4 42.9 
+Sarah_Drew/0rCk4okoIz8_0000004 45.8 55.7 
+Sarah_Drew/0rCk4okoIz8_0000005 73.2 83.8 
+Sarah_Drew/0rCk4okoIz8_0000006 84.4 90.3 
+Sarah_Drew/0rCk4okoIz8_0000007 90.5 104.6 
+Sarah_Drew/0rCk4okoIz8_0000008 113.6 118.2 
+Sarah_Drew/0rCk4okoIz8_0000009 135.6 157.1 
+Sarah_Drew/0rCk4okoIz8_0000010 157.7 166.6 
+Sarah_Drew/0rCk4okoIz8_0000011 166.7 173.4 
+Sarah_Drew/0rCk4okoIz8_0000012 174.3 200.1 
+Sarah_Drew/0rCk4okoIz8_0000013 200.5 208.8 
+Sarah_Drew/0rCk4okoIz8_0000014 105.3 119.7 
+Sarah_Drew/0rCk4okoIz8_0000015 216.6 222.0 
+Sarah_Drew/0rCk4okoIz8_0000016 244.8 255.7 
+Sarah_Drew/0rCk4okoIz8_0000017 261.9 281.6 
+Sarah_Drew/0rCk4okoIz8_0000018 286.1 296.6 
+Sarah_Drew/0rCk4okoIz8_0000019 297.0 301.5 
+Sarah_Drew/0rCk4okoIz8_0000020 309.8 314.1 
+Sarah_Drew/0rCk4okoIz8_0000021 337.8 342.8 
+Sarah_Drew/0rCk4okoIz8_0000022 343.0 372.3 
+Sarah_Drew/0rCk4okoIz8_0000023 381.8 387.4 
+Sarah_Drew/0rCk4okoIz8_0000024 388.2 400.6 
+Sarah_Drew/0rCk4okoIz8_0000025 411.7 434.2 
+Sarah_Drew/0rCk4okoIz8_0000026 438.1 445.0 
+Sarah_Drew/0rCk4okoIz8_0000027 465.9 470.0 
+Sarah_Drew/0rCk4okoIz8_0000028 476.1 480.8 
+Sarah_Drew/0rCk4okoIz8_0000029 490.8 495.6 

@@ -1,0 +1,13 @@
+POI: 			Howie_Mandel 
+Youtube ID: 	hPFhoVCmxjk 
+Video length: 	172.4 sec 
+Set (V): 		dev 
+ 
+Howie_Mandel/hPFhoVCmxjk_0000001 25.0 29.7 
+Howie_Mandel/hPFhoVCmxjk_0000002 30.7 36.6 
+Howie_Mandel/hPFhoVCmxjk_0000003 41.8 46.0 
+Howie_Mandel/hPFhoVCmxjk_0000004 49.1 57.1 
+Howie_Mandel/hPFhoVCmxjk_0000005 58.4 65.6 
+Howie_Mandel/hPFhoVCmxjk_0000006 100.4 108.4 
+Howie_Mandel/hPFhoVCmxjk_0000007 131.0 142.1 
+Howie_Mandel/hPFhoVCmxjk_0000008 100.3 108.4 

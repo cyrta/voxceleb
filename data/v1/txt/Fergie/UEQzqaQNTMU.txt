@@ -1,0 +1,7 @@
+POI: 			Fergie 
+Youtube ID: 	UEQzqaQNTMU 
+Video length: 	671.5 sec 
+Set (V): 		dev 
+ 
+Fergie/UEQzqaQNTMU_0000001 116.4 121.0 
+Fergie/UEQzqaQNTMU_0000002 194.5 199.5 

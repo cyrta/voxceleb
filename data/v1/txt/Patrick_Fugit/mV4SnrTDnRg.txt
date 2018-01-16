@@ -1,0 +1,21 @@
+POI: 			Patrick_Fugit 
+Youtube ID: 	mV4SnrTDnRg 
+Video length: 	428.2 sec 
+Set (V): 		dev 
+ 
+Patrick_Fugit/mV4SnrTDnRg_0000001 36.1 41.4 
+Patrick_Fugit/mV4SnrTDnRg_0000002 67.8 75.1 
+Patrick_Fugit/mV4SnrTDnRg_0000003 152.0 162.3 
+Patrick_Fugit/mV4SnrTDnRg_0000004 181.5 187.4 
+Patrick_Fugit/mV4SnrTDnRg_0000005 212.6 221.0 
+Patrick_Fugit/mV4SnrTDnRg_0000006 238.8 243.0 
+Patrick_Fugit/mV4SnrTDnRg_0000007 269.0 274.2 
+Patrick_Fugit/mV4SnrTDnRg_0000008 279.5 284.2 
+Patrick_Fugit/mV4SnrTDnRg_0000009 285.5 292.5 
+Patrick_Fugit/mV4SnrTDnRg_0000010 296.6 301.6 
+Patrick_Fugit/mV4SnrTDnRg_0000011 304.2 308.6 
+Patrick_Fugit/mV4SnrTDnRg_0000012 315.8 320.9 
+Patrick_Fugit/mV4SnrTDnRg_0000013 324.0 328.1 
+Patrick_Fugit/mV4SnrTDnRg_0000014 345.9 350.4 
+Patrick_Fugit/mV4SnrTDnRg_0000015 362.0 370.8 
+Patrick_Fugit/mV4SnrTDnRg_0000016 385.8 391.2 

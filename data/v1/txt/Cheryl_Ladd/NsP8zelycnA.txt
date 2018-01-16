@@ -1,0 +1,10 @@
+POI: 			Cheryl_Ladd 
+Youtube ID: 	NsP8zelycnA 
+Video length: 	320.3 sec 
+Set (V): 		dev 
+ 
+Cheryl_Ladd/NsP8zelycnA_0000001 95.1 103.6 
+Cheryl_Ladd/NsP8zelycnA_0000002 171.7 199.2 
+Cheryl_Ladd/NsP8zelycnA_0000003 221.7 238.9 
+Cheryl_Ladd/NsP8zelycnA_0000004 239.1 263.0 
+Cheryl_Ladd/NsP8zelycnA_0000005 264.0 270.5 

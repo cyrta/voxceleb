@@ -1,0 +1,9 @@
+POI: 			Noomi_Rapace 
+Youtube ID: 	EZZy6R97c0o 
+Video length: 	168.2 sec 
+Set (V): 		dev 
+ 
+Noomi_Rapace/EZZy6R97c0o_0000001 63.7 67.8 
+Noomi_Rapace/EZZy6R97c0o_0000002 96.6 104.4 
+Noomi_Rapace/EZZy6R97c0o_0000003 134.8 139.9 
+Noomi_Rapace/EZZy6R97c0o_0000004 148.9 155.7 

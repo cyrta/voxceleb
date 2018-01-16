@@ -1,0 +1,12 @@
+POI: 			Kate_Voegele 
+Youtube ID: 	BFBAEcUNoI4 
+Video length: 	183.7 sec 
+Set (V): 		dev 
+ 
+Kate_Voegele/BFBAEcUNoI4_0000001 37.8 43.2 
+Kate_Voegele/BFBAEcUNoI4_0000002 43.4 50.8 
+Kate_Voegele/BFBAEcUNoI4_0000003 61.9 75.4 
+Kate_Voegele/BFBAEcUNoI4_0000004 78.9 88.7 
+Kate_Voegele/BFBAEcUNoI4_0000005 97.4 121.7 
+Kate_Voegele/BFBAEcUNoI4_0000006 134.0 139.5 
+Kate_Voegele/BFBAEcUNoI4_0000007 140.6 156.3 

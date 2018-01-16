@@ -1,0 +1,11 @@
+POI: 			Melora_Hardin 
+Youtube ID: 	BHuRwHyo6t0 
+Video length: 	214.0 sec 
+Set (V): 		dev 
+ 
+Melora_Hardin/BHuRwHyo6t0_0000001 22.1 26.5 
+Melora_Hardin/BHuRwHyo6t0_0000002 52.7 58.1 
+Melora_Hardin/BHuRwHyo6t0_0000003 84.7 94.8 
+Melora_Hardin/BHuRwHyo6t0_0000004 156.1 163.5 
+Melora_Hardin/BHuRwHyo6t0_0000005 163.8 169.3 
+Melora_Hardin/BHuRwHyo6t0_0000006 195.3 201.4 

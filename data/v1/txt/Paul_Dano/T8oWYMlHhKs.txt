@@ -1,0 +1,15 @@
+POI: 			Paul_Dano 
+Youtube ID: 	T8oWYMlHhKs 
+Video length: 	853.5 sec 
+Set (V): 		dev 
+ 
+Paul_Dano/T8oWYMlHhKs_0000001 385.7 390.5 
+Paul_Dano/T8oWYMlHhKs_0000002 392.1 415.5 
+Paul_Dano/T8oWYMlHhKs_0000003 507.9 513.2 
+Paul_Dano/T8oWYMlHhKs_0000004 575.0 584.8 
+Paul_Dano/T8oWYMlHhKs_0000005 588.8 608.2 
+Paul_Dano/T8oWYMlHhKs_0000006 611.2 623.2 
+Paul_Dano/T8oWYMlHhKs_0000007 741.3 747.6 
+Paul_Dano/T8oWYMlHhKs_0000008 747.8 753.7 
+Paul_Dano/T8oWYMlHhKs_0000009 780.1 796.2 
+Paul_Dano/T8oWYMlHhKs_0000010 837.8 847.2 

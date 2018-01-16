@@ -1,0 +1,18 @@
+POI: 			Nelly_Furtado 
+Youtube ID: 	LIA1vvDERHg 
+Video length: 	368.6 sec 
+Set (V): 		dev 
+ 
+Nelly_Furtado/LIA1vvDERHg_0000001 19.1 23.2 
+Nelly_Furtado/LIA1vvDERHg_0000002 33.6 38.4 
+Nelly_Furtado/LIA1vvDERHg_0000003 133.4 137.6 
+Nelly_Furtado/LIA1vvDERHg_0000004 138.6 143.9 
+Nelly_Furtado/LIA1vvDERHg_0000005 163.8 169.3 
+Nelly_Furtado/LIA1vvDERHg_0000006 178.6 184.3 
+Nelly_Furtado/LIA1vvDERHg_0000007 206.7 214.8 
+Nelly_Furtado/LIA1vvDERHg_0000008 236.3 240.8 
+Nelly_Furtado/LIA1vvDERHg_0000009 268.2 273.1 
+Nelly_Furtado/LIA1vvDERHg_0000010 285.2 289.2 
+Nelly_Furtado/LIA1vvDERHg_0000011 299.9 312.2 
+Nelly_Furtado/LIA1vvDERHg_0000012 313.2 317.4 
+Nelly_Furtado/LIA1vvDERHg_0000013 342.9 349.8 

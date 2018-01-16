@@ -1,0 +1,10 @@
+POI: 			Sam_Riley 
+Youtube ID: 	FFuf50mjOiA 
+Video length: 	160.8 sec 
+Set (V): 		dev 
+ 
+Sam_Riley/FFuf50mjOiA_0000001 25.6 30.5 
+Sam_Riley/FFuf50mjOiA_0000002 42.1 49.8 
+Sam_Riley/FFuf50mjOiA_0000003 74.4 78.7 
+Sam_Riley/FFuf50mjOiA_0000004 99.1 104.7 
+Sam_Riley/FFuf50mjOiA_0000005 132.2 140.8 

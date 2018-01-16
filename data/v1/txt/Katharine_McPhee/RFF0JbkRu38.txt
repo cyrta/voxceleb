@@ -1,0 +1,13 @@
+POI: 			Katharine_McPhee 
+Youtube ID: 	RFF0JbkRu38 
+Video length: 	251.5 sec 
+Set (V): 		dev 
+ 
+Katharine_McPhee/RFF0JbkRu38_0000001 78.8 93.8 
+Katharine_McPhee/RFF0JbkRu38_0000002 107.1 118.3 
+Katharine_McPhee/RFF0JbkRu38_0000003 125.8 148.4 
+Katharine_McPhee/RFF0JbkRu38_0000004 154.2 158.9 
+Katharine_McPhee/RFF0JbkRu38_0000005 165.3 170.3 
+Katharine_McPhee/RFF0JbkRu38_0000006 172.2 178.5 
+Katharine_McPhee/RFF0JbkRu38_0000007 183.2 188.1 
+Katharine_McPhee/RFF0JbkRu38_0000008 196.0 210.6 

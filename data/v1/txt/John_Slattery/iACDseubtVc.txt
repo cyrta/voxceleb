@@ -1,0 +1,9 @@
+POI: 			John_Slattery 
+Youtube ID: 	iACDseubtVc 
+Video length: 	60.1 sec 
+Set (V): 		dev 
+ 
+John_Slattery/iACDseubtVc_0000001 10.2 18.8 
+John_Slattery/iACDseubtVc_0000002 20.1 30.3 
+John_Slattery/iACDseubtVc_0000003 30.6 42.6 
+John_Slattery/iACDseubtVc_0000004 46.1 52.6 

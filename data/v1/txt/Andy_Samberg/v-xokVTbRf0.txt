@@ -1,0 +1,8 @@
+POI: 			Andy_Samberg 
+Youtube ID: 	v-xokVTbRf0 
+Video length: 	263.9 sec 
+Set (V): 		dev 
+ 
+Andy_Samberg/v-xokVTbRf0_0000001 50.6 57.4 
+Andy_Samberg/v-xokVTbRf0_0000002 178.2 182.5 
+Andy_Samberg/v-xokVTbRf0_0000003 185.3 189.4 

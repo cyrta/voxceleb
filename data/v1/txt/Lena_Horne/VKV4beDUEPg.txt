@@ -1,0 +1,16 @@
+POI: 			Lena_Horne 
+Youtube ID: 	VKV4beDUEPg 
+Video length: 	865.6 sec 
+Set (V): 		dev 
+ 
+Lena_Horne/VKV4beDUEPg_0000001 82.4 87.3 
+Lena_Horne/VKV4beDUEPg_0000002 489.3 502.9 
+Lena_Horne/VKV4beDUEPg_0000003 505.4 516.7 
+Lena_Horne/VKV4beDUEPg_0000004 526.3 530.9 
+Lena_Horne/VKV4beDUEPg_0000005 533.0 546.9 
+Lena_Horne/VKV4beDUEPg_0000006 557.1 563.0 
+Lena_Horne/VKV4beDUEPg_0000007 565.8 571.7 
+Lena_Horne/VKV4beDUEPg_0000008 571.9 577.8 
+Lena_Horne/VKV4beDUEPg_0000009 622.8 627.2 
+Lena_Horne/VKV4beDUEPg_0000010 678.4 682.4 
+Lena_Horne/VKV4beDUEPg_0000011 684.0 688.3 

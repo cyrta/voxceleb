@@ -1,0 +1,8 @@
+POI: 			Wendi_McLendon-Covey 
+Youtube ID: 	46DqSoRd3JU 
+Video length: 	238.1 sec 
+Set (V): 		dev 
+ 
+Wendi_McLendon-Covey/46DqSoRd3JU_0000001 20.4 26.0 
+Wendi_McLendon-Covey/46DqSoRd3JU_0000002 37.4 43.2 
+Wendi_McLendon-Covey/46DqSoRd3JU_0000003 84.5 88.6 

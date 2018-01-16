@@ -1,0 +1,9 @@
+POI: 			Sam_Raimi 
+Youtube ID: 	zweVa28Ez6c 
+Video length: 	104.3 sec 
+Set (V): 		dev 
+ 
+Sam_Raimi/zweVa28Ez6c_0000001 16.5 21.1 
+Sam_Raimi/zweVa28Ez6c_0000002 24.0 31.9 
+Sam_Raimi/zweVa28Ez6c_0000003 38.2 60.5 
+Sam_Raimi/zweVa28Ez6c_0000004 81.6 87.6 

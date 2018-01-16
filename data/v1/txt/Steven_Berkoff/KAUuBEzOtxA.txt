@@ -1,0 +1,10 @@
+POI: 			Steven_Berkoff 
+Youtube ID: 	KAUuBEzOtxA 
+Video length: 	388.9 sec 
+Set (V): 		dev 
+ 
+Steven_Berkoff/KAUuBEzOtxA_0000001 03.7 08.1 
+Steven_Berkoff/KAUuBEzOtxA_0000002 63.6 68.4 
+Steven_Berkoff/KAUuBEzOtxA_0000003 78.4 83.1 
+Steven_Berkoff/KAUuBEzOtxA_0000004 153.8 167.6 
+Steven_Berkoff/KAUuBEzOtxA_0000005 209.5 213.6 

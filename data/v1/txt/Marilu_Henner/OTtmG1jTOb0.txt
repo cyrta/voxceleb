@@ -1,0 +1,13 @@
+POI: 			Marilu_Henner 
+Youtube ID: 	OTtmG1jTOb0 
+Video length: 	528.7 sec 
+Set (V): 		dev 
+ 
+Marilu_Henner/OTtmG1jTOb0_0000001 76.4 81.2 
+Marilu_Henner/OTtmG1jTOb0_0000002 296.4 313.8 
+Marilu_Henner/OTtmG1jTOb0_0000003 325.1 332.2 
+Marilu_Henner/OTtmG1jTOb0_0000004 357.3 362.6 
+Marilu_Henner/OTtmG1jTOb0_0000005 420.3 424.3 
+Marilu_Henner/OTtmG1jTOb0_0000006 469.3 484.1 
+Marilu_Henner/OTtmG1jTOb0_0000007 487.4 492.0 
+Marilu_Henner/OTtmG1jTOb0_0000008 500.1 504.1 

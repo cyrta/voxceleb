@@ -1,0 +1,38 @@
+POI: 			Hugh_Bonneville 
+Youtube ID: 	6X2ngqBqvUc 
+Video length: 	1571.2 sec 
+Set (V): 		dev 
+ 
+Hugh_Bonneville/6X2ngqBqvUc_0000001 74.9 90.4 
+Hugh_Bonneville/6X2ngqBqvUc_0000002 101.4 110.0 
+Hugh_Bonneville/6X2ngqBqvUc_0000003 120.8 128.9 
+Hugh_Bonneville/6X2ngqBqvUc_0000004 268.7 275.3 
+Hugh_Bonneville/6X2ngqBqvUc_0000005 275.7 293.4 
+Hugh_Bonneville/6X2ngqBqvUc_0000006 317.6 321.9 
+Hugh_Bonneville/6X2ngqBqvUc_0000007 328.7 333.4 
+Hugh_Bonneville/6X2ngqBqvUc_0000008 362.1 392.6 
+Hugh_Bonneville/6X2ngqBqvUc_0000009 444.0 448.2 
+Hugh_Bonneville/6X2ngqBqvUc_0000010 450.2 471.2 
+Hugh_Bonneville/6X2ngqBqvUc_0000011 496.7 518.9 
+Hugh_Bonneville/6X2ngqBqvUc_0000012 657.0 666.5 
+Hugh_Bonneville/6X2ngqBqvUc_0000013 667.2 672.6 
+Hugh_Bonneville/6X2ngqBqvUc_0000014 673.6 683.8 
+Hugh_Bonneville/6X2ngqBqvUc_0000015 684.0 690.6 
+Hugh_Bonneville/6X2ngqBqvUc_0000016 722.0 730.2 
+Hugh_Bonneville/6X2ngqBqvUc_0000017 731.3 735.4 
+Hugh_Bonneville/6X2ngqBqvUc_0000018 740.2 749.5 
+Hugh_Bonneville/6X2ngqBqvUc_0000019 742.0 746.5 
+Hugh_Bonneville/6X2ngqBqvUc_0000020 826.6 832.8 
+Hugh_Bonneville/6X2ngqBqvUc_0000021 834.4 843.6 
+Hugh_Bonneville/6X2ngqBqvUc_0000022 845.4 860.3 
+Hugh_Bonneville/6X2ngqBqvUc_0000023 856.0 862.1 
+Hugh_Bonneville/6X2ngqBqvUc_0000024 908.1 917.8 
+Hugh_Bonneville/6X2ngqBqvUc_0000025 918.2 935.3 
+Hugh_Bonneville/6X2ngqBqvUc_0000026 1201.8 1210.4 
+Hugh_Bonneville/6X2ngqBqvUc_0000027 1215.4 1225.2 
+Hugh_Bonneville/6X2ngqBqvUc_0000028 1226.3 1232.1 
+Hugh_Bonneville/6X2ngqBqvUc_0000029 1285.7 1290.0 
+Hugh_Bonneville/6X2ngqBqvUc_0000030 1290.9 1303.7 
+Hugh_Bonneville/6X2ngqBqvUc_0000031 1369.9 1413.8 
+Hugh_Bonneville/6X2ngqBqvUc_0000032 1414.5 1423.2 
+Hugh_Bonneville/6X2ngqBqvUc_0000033 1490.9 1543.0 

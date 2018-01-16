@@ -1,0 +1,13 @@
+POI: 			Wendell_Pierce 
+Youtube ID: 	k75iD80k6m8 
+Video length: 	348.6 sec 
+Set (V): 		dev 
+ 
+Wendell_Pierce/k75iD80k6m8_0000001 23.5 27.4 
+Wendell_Pierce/k75iD80k6m8_0000002 107.2 111.7 
+Wendell_Pierce/k75iD80k6m8_0000003 137.8 143.7 
+Wendell_Pierce/k75iD80k6m8_0000004 186.6 192.4 
+Wendell_Pierce/k75iD80k6m8_0000005 219.7 224.5 
+Wendell_Pierce/k75iD80k6m8_0000006 228.8 233.2 
+Wendell_Pierce/k75iD80k6m8_0000007 305.1 311.0 
+Wendell_Pierce/k75iD80k6m8_0000008 317.1 321.9 

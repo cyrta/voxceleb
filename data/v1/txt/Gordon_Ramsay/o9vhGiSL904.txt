@@ -1,0 +1,7 @@
+POI: 			Gordon_Ramsay 
+Youtube ID: 	o9vhGiSL904 
+Video length: 	467.6 sec 
+Set (V): 		dev 
+ 
+Gordon_Ramsay/o9vhGiSL904_0000001 73.3 78.1 
+Gordon_Ramsay/o9vhGiSL904_0000002 112.4 116.4 

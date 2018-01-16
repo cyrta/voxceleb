@@ -1,0 +1,10 @@
+POI: 			Roma_Downey 
+Youtube ID: 	qo_d96ClihQ 
+Video length: 	117.5 sec 
+Set (V): 		dev 
+ 
+Roma_Downey/qo_d96ClihQ_0000001 00.8 04.8 
+Roma_Downey/qo_d96ClihQ_0000002 10.0 15.3 
+Roma_Downey/qo_d96ClihQ_0000003 17.7 30.3 
+Roma_Downey/qo_d96ClihQ_0000004 32.5 39.7 
+Roma_Downey/qo_d96ClihQ_0000005 43.2 49.9 

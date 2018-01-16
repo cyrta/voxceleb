@@ -1,0 +1,7 @@
+POI: 			Kelly_Rutherford 
+Youtube ID: 	jhxVY0-ojMQ 
+Video length: 	125.0 sec 
+Set (V): 		dev 
+ 
+Kelly_Rutherford/jhxVY0-ojMQ_0000001 77.1 88.6 
+Kelly_Rutherford/jhxVY0-ojMQ_0000002 95.0 102.1 

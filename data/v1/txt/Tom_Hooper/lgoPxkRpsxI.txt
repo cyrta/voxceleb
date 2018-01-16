@@ -1,0 +1,8 @@
+POI: 			Tom_Hooper 
+Youtube ID: 	lgoPxkRpsxI 
+Video length: 	90.5 sec 
+Set (V): 		dev 
+ 
+Tom_Hooper/lgoPxkRpsxI_0000001 16.4 27.6 
+Tom_Hooper/lgoPxkRpsxI_0000002 50.4 63.2 
+Tom_Hooper/lgoPxkRpsxI_0000003 72.4 77.7 

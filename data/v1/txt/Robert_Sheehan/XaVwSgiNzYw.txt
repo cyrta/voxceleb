@@ -1,0 +1,10 @@
+POI: 			Robert_Sheehan 
+Youtube ID: 	XaVwSgiNzYw 
+Video length: 	659.5 sec 
+Set (V): 		dev 
+ 
+Robert_Sheehan/XaVwSgiNzYw_0000001 128.2 140.7 
+Robert_Sheehan/XaVwSgiNzYw_0000002 178.8 186.1 
+Robert_Sheehan/XaVwSgiNzYw_0000003 529.3 537.6 
+Robert_Sheehan/XaVwSgiNzYw_0000004 537.8 548.1 
+Robert_Sheehan/XaVwSgiNzYw_0000005 598.2 604.7 

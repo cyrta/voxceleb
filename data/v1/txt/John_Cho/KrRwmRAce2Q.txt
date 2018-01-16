@@ -1,0 +1,8 @@
+POI: 			John_Cho 
+Youtube ID: 	KrRwmRAce2Q 
+Video length: 	423.7 sec 
+Set (V): 		dev 
+ 
+John_Cho/KrRwmRAce2Q_0000001 269.2 277.7 
+John_Cho/KrRwmRAce2Q_0000002 294.4 298.7 
+John_Cho/KrRwmRAce2Q_0000003 299.3 304.3 

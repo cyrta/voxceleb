@@ -1,0 +1,25 @@
+POI: 			Vincent_Cassel 
+Youtube ID: 	KxKNMZ1tCSw 
+Video length: 	305.3 sec 
+Set (V): 		dev 
+ 
+Vincent_Cassel/KxKNMZ1tCSw_0000001 16.5 37.7 
+Vincent_Cassel/KxKNMZ1tCSw_0000002 39.1 54.2 
+Vincent_Cassel/KxKNMZ1tCSw_0000003 60.0 67.7 
+Vincent_Cassel/KxKNMZ1tCSw_0000004 91.6 98.9 
+Vincent_Cassel/KxKNMZ1tCSw_0000005 99.2 104.2 
+Vincent_Cassel/KxKNMZ1tCSw_0000006 107.4 116.7 
+Vincent_Cassel/KxKNMZ1tCSw_0000007 136.2 141.7 
+Vincent_Cassel/KxKNMZ1tCSw_0000008 146.8 153.2 
+Vincent_Cassel/KxKNMZ1tCSw_0000009 154.2 159.4 
+Vincent_Cassel/KxKNMZ1tCSw_0000010 161.7 168.6 
+Vincent_Cassel/KxKNMZ1tCSw_0000011 187.6 198.0 
+Vincent_Cassel/KxKNMZ1tCSw_0000012 200.9 205.7 
+Vincent_Cassel/KxKNMZ1tCSw_0000013 206.5 213.3 
+Vincent_Cassel/KxKNMZ1tCSw_0000014 213.8 220.9 
+Vincent_Cassel/KxKNMZ1tCSw_0000015 222.6 232.5 
+Vincent_Cassel/KxKNMZ1tCSw_0000016 235.4 245.5 
+Vincent_Cassel/KxKNMZ1tCSw_0000017 246.3 251.0 
+Vincent_Cassel/KxKNMZ1tCSw_0000018 271.4 278.7 
+Vincent_Cassel/KxKNMZ1tCSw_0000019 285.3 294.6 
+Vincent_Cassel/KxKNMZ1tCSw_0000020 295.7 301.6 

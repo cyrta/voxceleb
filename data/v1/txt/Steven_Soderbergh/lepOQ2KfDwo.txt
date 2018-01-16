@@ -1,0 +1,11 @@
+POI: 			Steven_Soderbergh 
+Youtube ID: 	lepOQ2KfDwo 
+Video length: 	110.4 sec 
+Set (V): 		dev 
+ 
+Steven_Soderbergh/lepOQ2KfDwo_0000001 07.0 11.4 
+Steven_Soderbergh/lepOQ2KfDwo_0000002 16.6 28.8 
+Steven_Soderbergh/lepOQ2KfDwo_0000003 38.2 45.4 
+Steven_Soderbergh/lepOQ2KfDwo_0000004 58.6 69.6 
+Steven_Soderbergh/lepOQ2KfDwo_0000005 70.1 80.6 
+Steven_Soderbergh/lepOQ2KfDwo_0000006 85.4 97.4 

@@ -1,0 +1,9 @@
+POI: 			Olga_Kurylenko 
+Youtube ID: 	QM4mYis82ro 
+Video length: 	327.9 sec 
+Set (V): 		dev 
+ 
+Olga_Kurylenko/QM4mYis82ro_0000001 47.8 54.1 
+Olga_Kurylenko/QM4mYis82ro_0000002 64.6 70.7 
+Olga_Kurylenko/QM4mYis82ro_0000003 302.4 309.4 
+Olga_Kurylenko/QM4mYis82ro_0000004 310.3 314.8 

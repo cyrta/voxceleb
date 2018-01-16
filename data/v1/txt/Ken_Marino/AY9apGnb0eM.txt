@@ -1,0 +1,11 @@
+POI: 			Ken_Marino 
+Youtube ID: 	AY9apGnb0eM 
+Video length: 	338.0 sec 
+Set (V): 		dev 
+ 
+Ken_Marino/AY9apGnb0eM_0000001 70.8 79.0 
+Ken_Marino/AY9apGnb0eM_0000002 83.3 87.4 
+Ken_Marino/AY9apGnb0eM_0000003 97.8 101.9 
+Ken_Marino/AY9apGnb0eM_0000004 96.0 106.0 
+Ken_Marino/AY9apGnb0eM_0000005 106.8 113.2 
+Ken_Marino/AY9apGnb0eM_0000006 170.7 187.0 

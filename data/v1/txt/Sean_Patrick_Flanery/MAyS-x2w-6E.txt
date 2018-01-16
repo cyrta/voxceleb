@@ -1,0 +1,18 @@
+POI: 			Sean_Patrick_Flanery 
+Youtube ID: 	MAyS-x2w-6E 
+Video length: 	574.3 sec 
+Set (V): 		dev 
+ 
+Sean_Patrick_Flanery/MAyS-x2w-6E_0000001 08.5 14.4 
+Sean_Patrick_Flanery/MAyS-x2w-6E_0000002 19.2 24.5 
+Sean_Patrick_Flanery/MAyS-x2w-6E_0000003 44.4 52.1 
+Sean_Patrick_Flanery/MAyS-x2w-6E_0000004 52.8 58.0 
+Sean_Patrick_Flanery/MAyS-x2w-6E_0000005 69.4 80.4 
+Sean_Patrick_Flanery/MAyS-x2w-6E_0000006 82.1 89.2 
+Sean_Patrick_Flanery/MAyS-x2w-6E_0000007 89.3 93.3 
+Sean_Patrick_Flanery/MAyS-x2w-6E_0000008 109.0 116.1 
+Sean_Patrick_Flanery/MAyS-x2w-6E_0000009 124.0 134.4 
+Sean_Patrick_Flanery/MAyS-x2w-6E_0000010 135.5 151.2 
+Sean_Patrick_Flanery/MAyS-x2w-6E_0000011 161.6 167.0 
+Sean_Patrick_Flanery/MAyS-x2w-6E_0000012 178.4 190.1 
+Sean_Patrick_Flanery/MAyS-x2w-6E_0000013 194.9 199.2 

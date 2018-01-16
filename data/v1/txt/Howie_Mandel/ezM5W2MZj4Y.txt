@@ -1,0 +1,11 @@
+POI: 			Howie_Mandel 
+Youtube ID: 	ezM5W2MZj4Y 
+Video length: 	446.5 sec 
+Set (V): 		dev 
+ 
+Howie_Mandel/ezM5W2MZj4Y_0000001 38.6 43.7 
+Howie_Mandel/ezM5W2MZj4Y_0000002 77.1 85.4 
+Howie_Mandel/ezM5W2MZj4Y_0000003 85.6 92.6 
+Howie_Mandel/ezM5W2MZj4Y_0000004 102.6 109.0 
+Howie_Mandel/ezM5W2MZj4Y_0000005 132.0 180.6 
+Howie_Mandel/ezM5W2MZj4Y_0000006 349.1 355.9 

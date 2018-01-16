@@ -1,0 +1,11 @@
+POI: 			Teri_Hatcher 
+Youtube ID: 	3uba8f38NiI 
+Video length: 	620.1 sec 
+Set (V): 		dev 
+ 
+Teri_Hatcher/3uba8f38NiI_0000001 72.7 77.0 
+Teri_Hatcher/3uba8f38NiI_0000002 254.5 263.0 
+Teri_Hatcher/3uba8f38NiI_0000003 263.6 274.2 
+Teri_Hatcher/3uba8f38NiI_0000004 280.9 286.7 
+Teri_Hatcher/3uba8f38NiI_0000005 310.2 315.4 
+Teri_Hatcher/3uba8f38NiI_0000006 528.9 534.8 

@@ -1,0 +1,15 @@
+POI: 			Donnie_Yen 
+Youtube ID: 	a7n0GpFJapU 
+Video length: 	532.7 sec 
+Set (V): 		dev 
+ 
+Donnie_Yen/a7n0GpFJapU_0000001 31.6 35.8 
+Donnie_Yen/a7n0GpFJapU_0000002 87.0 92.4 
+Donnie_Yen/a7n0GpFJapU_0000003 95.3 100.4 
+Donnie_Yen/a7n0GpFJapU_0000004 110.3 114.6 
+Donnie_Yen/a7n0GpFJapU_0000005 174.7 179.0 
+Donnie_Yen/a7n0GpFJapU_0000006 186.0 190.1 
+Donnie_Yen/a7n0GpFJapU_0000007 277.6 283.2 
+Donnie_Yen/a7n0GpFJapU_0000008 308.4 312.4 
+Donnie_Yen/a7n0GpFJapU_0000009 375.3 380.1 
+Donnie_Yen/a7n0GpFJapU_0000010 458.4 467.5 

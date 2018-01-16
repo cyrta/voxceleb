@@ -1,0 +1,8 @@
+POI: 			Miriam_Margolyes 
+Youtube ID: 	2rRLG9Ndr50 
+Video length: 	534.2 sec 
+Set (V): 		dev 
+ 
+Miriam_Margolyes/2rRLG9Ndr50_0000001 170.0 179.4 
+Miriam_Margolyes/2rRLG9Ndr50_0000002 410.8 414.9 
+Miriam_Margolyes/2rRLG9Ndr50_0000003 460.5 465.0 

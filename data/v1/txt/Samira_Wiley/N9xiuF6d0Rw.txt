@@ -1,0 +1,8 @@
+POI: 			Samira_Wiley 
+Youtube ID: 	N9xiuF6d0Rw 
+Video length: 	277.8 sec 
+Set (V): 		dev 
+ 
+Samira_Wiley/N9xiuF6d0Rw_0000001 133.5 140.0 
+Samira_Wiley/N9xiuF6d0Rw_0000002 142.1 149.3 
+Samira_Wiley/N9xiuF6d0Rw_0000003 243.2 247.2 

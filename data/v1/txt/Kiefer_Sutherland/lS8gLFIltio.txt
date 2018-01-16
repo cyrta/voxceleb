@@ -1,0 +1,10 @@
+POI: 			Kiefer_Sutherland 
+Youtube ID: 	lS8gLFIltio 
+Video length: 	136.5 sec 
+Set (V): 		dev 
+ 
+Kiefer_Sutherland/lS8gLFIltio_0000001 04.8 17.1 
+Kiefer_Sutherland/lS8gLFIltio_0000002 26.4 36.8 
+Kiefer_Sutherland/lS8gLFIltio_0000003 43.8 52.4 
+Kiefer_Sutherland/lS8gLFIltio_0000004 60.2 64.6 
+Kiefer_Sutherland/lS8gLFIltio_0000005 100.9 105.6 

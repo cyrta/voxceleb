@@ -1,0 +1,8 @@
+POI: 			Malin_Akerman 
+Youtube ID: 	sydQUn0RA2I 
+Video length: 	190.9 sec 
+Set (V): 		dev 
+ 
+Malin_Akerman/sydQUn0RA2I_0000001 69.2 73.2 
+Malin_Akerman/sydQUn0RA2I_0000002 123.2 129.0 
+Malin_Akerman/sydQUn0RA2I_0000003 171.0 175.8 

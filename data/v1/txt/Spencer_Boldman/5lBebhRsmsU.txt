@@ -1,0 +1,16 @@
+POI: 			Spencer_Boldman 
+Youtube ID: 	5lBebhRsmsU 
+Video length: 	234.5 sec 
+Set (V): 		dev 
+ 
+Spencer_Boldman/5lBebhRsmsU_0000001 00.8 05.5 
+Spencer_Boldman/5lBebhRsmsU_0000002 23.4 38.0 
+Spencer_Boldman/5lBebhRsmsU_0000003 38.1 46.1 
+Spencer_Boldman/5lBebhRsmsU_0000004 56.7 61.7 
+Spencer_Boldman/5lBebhRsmsU_0000005 93.5 98.1 
+Spencer_Boldman/5lBebhRsmsU_0000006 131.3 137.6 
+Spencer_Boldman/5lBebhRsmsU_0000007 140.2 149.5 
+Spencer_Boldman/5lBebhRsmsU_0000008 160.2 176.0 
+Spencer_Boldman/5lBebhRsmsU_0000009 182.4 190.8 
+Spencer_Boldman/5lBebhRsmsU_0000010 199.8 204.4 
+Spencer_Boldman/5lBebhRsmsU_0000011 210.6 214.6 

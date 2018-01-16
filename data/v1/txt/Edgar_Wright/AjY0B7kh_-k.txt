@@ -1,0 +1,12 @@
+POI: 			Edgar_Wright 
+Youtube ID: 	AjY0B7kh_-k 
+Video length: 	237.8 sec 
+Set (V): 		test 
+ 
+Edgar_Wright/AjY0B7kh_-k_0000001 10.7 18.4 
+Edgar_Wright/AjY0B7kh_-k_0000002 26.4 30.6 
+Edgar_Wright/AjY0B7kh_-k_0000003 40.8 48.2 
+Edgar_Wright/AjY0B7kh_-k_0000004 69.5 75.0 
+Edgar_Wright/AjY0B7kh_-k_0000005 102.0 106.5 
+Edgar_Wright/AjY0B7kh_-k_0000006 122.6 130.4 
+Edgar_Wright/AjY0B7kh_-k_0000007 217.9 225.2 

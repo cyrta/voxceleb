@@ -1,0 +1,8 @@
+POI: 			Christina_Hendricks 
+Youtube ID: 	J4ryDf7bv6A 
+Video length: 	383.4 sec 
+Set (V): 		dev 
+ 
+Christina_Hendricks/J4ryDf7bv6A_0000001 100.2 108.3 
+Christina_Hendricks/J4ryDf7bv6A_0000002 276.0 281.0 
+Christina_Hendricks/J4ryDf7bv6A_0000003 283.0 288.6 

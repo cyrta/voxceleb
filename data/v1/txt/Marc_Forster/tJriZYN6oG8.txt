@@ -1,0 +1,17 @@
+POI: 			Marc_Forster 
+Youtube ID: 	tJriZYN6oG8 
+Video length: 	367.5 sec 
+Set (V): 		dev 
+ 
+Marc_Forster/tJriZYN6oG8_0000001 51.0 57.3 
+Marc_Forster/tJriZYN6oG8_0000002 57.9 72.3 
+Marc_Forster/tJriZYN6oG8_0000003 73.2 87.0 
+Marc_Forster/tJriZYN6oG8_0000004 120.2 141.2 
+Marc_Forster/tJriZYN6oG8_0000005 170.4 187.3 
+Marc_Forster/tJriZYN6oG8_0000006 190.9 211.8 
+Marc_Forster/tJriZYN6oG8_0000007 235.9 254.6 
+Marc_Forster/tJriZYN6oG8_0000008 254.8 279.6 
+Marc_Forster/tJriZYN6oG8_0000009 283.8 289.7 
+Marc_Forster/tJriZYN6oG8_0000010 312.1 328.0 
+Marc_Forster/tJriZYN6oG8_0000011 331.8 339.0 
+Marc_Forster/tJriZYN6oG8_0000012 350.4 361.2 

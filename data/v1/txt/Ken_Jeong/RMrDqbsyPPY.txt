@@ -1,0 +1,16 @@
+POI: 			Ken_Jeong 
+Youtube ID: 	RMrDqbsyPPY 
+Video length: 	298.3 sec 
+Set (V): 		dev 
+ 
+Ken_Jeong/RMrDqbsyPPY_0000001 55.0 61.3 
+Ken_Jeong/RMrDqbsyPPY_0000002 68.4 74.9 
+Ken_Jeong/RMrDqbsyPPY_0000003 81.9 89.4 
+Ken_Jeong/RMrDqbsyPPY_0000004 95.7 102.4 
+Ken_Jeong/RMrDqbsyPPY_0000005 129.5 139.0 
+Ken_Jeong/RMrDqbsyPPY_0000006 148.5 155.5 
+Ken_Jeong/RMrDqbsyPPY_0000007 165.4 174.0 
+Ken_Jeong/RMrDqbsyPPY_0000008 174.6 180.5 
+Ken_Jeong/RMrDqbsyPPY_0000009 219.8 231.7 
+Ken_Jeong/RMrDqbsyPPY_0000010 249.6 268.1 
+Ken_Jeong/RMrDqbsyPPY_0000011 274.4 281.1 

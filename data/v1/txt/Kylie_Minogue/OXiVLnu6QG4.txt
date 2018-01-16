@@ -1,0 +1,7 @@
+POI: 			Kylie_Minogue 
+Youtube ID: 	OXiVLnu6QG4 
+Video length: 	885.3 sec 
+Set (V): 		dev 
+ 
+Kylie_Minogue/OXiVLnu6QG4_0000001 819.4 827.2 
+Kylie_Minogue/OXiVLnu6QG4_0000002 833.6 840.3 

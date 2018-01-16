@@ -1,0 +1,12 @@
+POI: 			Natalie_Martinez 
+Youtube ID: 	VSNEXnIn-fM 
+Video length: 	279.1 sec 
+Set (V): 		dev 
+ 
+Natalie_Martinez/VSNEXnIn-fM_0000001 90.1 95.9 
+Natalie_Martinez/VSNEXnIn-fM_0000002 105.2 112.5 
+Natalie_Martinez/VSNEXnIn-fM_0000003 113.1 119.6 
+Natalie_Martinez/VSNEXnIn-fM_0000004 125.4 135.9 
+Natalie_Martinez/VSNEXnIn-fM_0000005 145.8 153.8 
+Natalie_Martinez/VSNEXnIn-fM_0000006 154.0 158.3 
+Natalie_Martinez/VSNEXnIn-fM_0000007 161.8 181.4 

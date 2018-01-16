@@ -1,0 +1,10 @@
+POI: 			Jean-Marc_Barr 
+Youtube ID: 	deeqCP--kkw 
+Video length: 	1488.2 sec 
+Set (V): 		dev 
+ 
+Jean-Marc_Barr/deeqCP--kkw_0000001 204.0 209.0 
+Jean-Marc_Barr/deeqCP--kkw_0000002 245.0 253.2 
+Jean-Marc_Barr/deeqCP--kkw_0000003 630.8 634.9 
+Jean-Marc_Barr/deeqCP--kkw_0000004 755.8 759.8 
+Jean-Marc_Barr/deeqCP--kkw_0000005 887.5 892.2 

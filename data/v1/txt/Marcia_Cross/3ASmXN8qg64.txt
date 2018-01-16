@@ -1,0 +1,9 @@
+POI: 			Marcia_Cross 
+Youtube ID: 	3ASmXN8qg64 
+Video length: 	424.6 sec 
+Set (V): 		dev 
+ 
+Marcia_Cross/3ASmXN8qg64_0000001 108.8 117.4 
+Marcia_Cross/3ASmXN8qg64_0000002 147.0 168.7 
+Marcia_Cross/3ASmXN8qg64_0000003 198.6 218.6 
+Marcia_Cross/3ASmXN8qg64_0000004 292.4 301.1 

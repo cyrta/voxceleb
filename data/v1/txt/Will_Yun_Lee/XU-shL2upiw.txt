@@ -1,0 +1,16 @@
+POI: 			Will_Yun_Lee 
+Youtube ID: 	XU-shL2upiw 
+Video length: 	262.3 sec 
+Set (V): 		dev 
+ 
+Will_Yun_Lee/XU-shL2upiw_0000001 05.5 11.4 
+Will_Yun_Lee/XU-shL2upiw_0000002 11.7 15.9 
+Will_Yun_Lee/XU-shL2upiw_0000003 24.6 30.5 
+Will_Yun_Lee/XU-shL2upiw_0000004 47.2 56.4 
+Will_Yun_Lee/XU-shL2upiw_0000005 65.1 69.4 
+Will_Yun_Lee/XU-shL2upiw_0000006 108.1 113.4 
+Will_Yun_Lee/XU-shL2upiw_0000007 167.2 172.6 
+Will_Yun_Lee/XU-shL2upiw_0000008 174.8 181.0 
+Will_Yun_Lee/XU-shL2upiw_0000009 181.8 189.9 
+Will_Yun_Lee/XU-shL2upiw_0000010 196.0 202.6 
+Will_Yun_Lee/XU-shL2upiw_0000011 230.0 239.0 

@@ -1,0 +1,18 @@
+POI: 			Woody_Harrelson 
+Youtube ID: 	y1ZY9OM4bDc 
+Video length: 	230.1 sec 
+Set (V): 		dev 
+ 
+Woody_Harrelson/y1ZY9OM4bDc_0000001 16.4 27.6 
+Woody_Harrelson/y1ZY9OM4bDc_0000002 48.9 54.3 
+Woody_Harrelson/y1ZY9OM4bDc_0000003 59.5 69.0 
+Woody_Harrelson/y1ZY9OM4bDc_0000004 70.4 76.5 
+Woody_Harrelson/y1ZY9OM4bDc_0000005 77.6 83.6 
+Woody_Harrelson/y1ZY9OM4bDc_0000006 82.4 86.8 
+Woody_Harrelson/y1ZY9OM4bDc_0000007 108.8 117.2 
+Woody_Harrelson/y1ZY9OM4bDc_0000008 131.6 141.8 
+Woody_Harrelson/y1ZY9OM4bDc_0000009 147.5 157.5 
+Woody_Harrelson/y1ZY9OM4bDc_0000010 176.6 184.4 
+Woody_Harrelson/y1ZY9OM4bDc_0000011 188.8 193.3 
+Woody_Harrelson/y1ZY9OM4bDc_0000012 197.6 207.4 
+Woody_Harrelson/y1ZY9OM4bDc_0000013 208.0 222.8 

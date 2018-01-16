@@ -1,0 +1,9 @@
+POI: 			Janice_Dickinson 
+Youtube ID: 	7lpu_5xpf0w 
+Video length: 	156.1 sec 
+Set (V): 		dev 
+ 
+Janice_Dickinson/7lpu_5xpf0w_0000001 43.8 69.0 
+Janice_Dickinson/7lpu_5xpf0w_0000002 71.4 86.3 
+Janice_Dickinson/7lpu_5xpf0w_0000003 86.6 102.2 
+Janice_Dickinson/7lpu_5xpf0w_0000004 148.6 154.3 

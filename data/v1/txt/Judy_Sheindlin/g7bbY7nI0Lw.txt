@@ -1,0 +1,13 @@
+POI: 			Judy_Sheindlin 
+Youtube ID: 	g7bbY7nI0Lw 
+Video length: 	124.8 sec 
+Set (V): 		dev 
+ 
+Judy_Sheindlin/g7bbY7nI0Lw_0000001 09.2 20.1 
+Judy_Sheindlin/g7bbY7nI0Lw_0000002 20.8 32.6 
+Judy_Sheindlin/g7bbY7nI0Lw_0000003 37.4 60.8 
+Judy_Sheindlin/g7bbY7nI0Lw_0000004 66.2 73.4 
+Judy_Sheindlin/g7bbY7nI0Lw_0000005 78.5 87.2 
+Judy_Sheindlin/g7bbY7nI0Lw_0000006 87.4 95.4 
+Judy_Sheindlin/g7bbY7nI0Lw_0000007 97.0 101.0 
+Judy_Sheindlin/g7bbY7nI0Lw_0000008 103.5 108.6 

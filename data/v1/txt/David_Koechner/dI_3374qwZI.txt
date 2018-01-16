@@ -1,0 +1,10 @@
+POI: 			David_Koechner 
+Youtube ID: 	dI_3374qwZI 
+Video length: 	103.7 sec 
+Set (V): 		dev 
+ 
+David_Koechner/dI_3374qwZI_0000001 30.9 36.2 
+David_Koechner/dI_3374qwZI_0000002 41.2 46.8 
+David_Koechner/dI_3374qwZI_0000003 49.0 56.0 
+David_Koechner/dI_3374qwZI_0000004 65.3 70.0 
+David_Koechner/dI_3374qwZI_0000005 65.3 75.4 

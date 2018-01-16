@@ -1,0 +1,9 @@
+POI: 			Mark_Ruffalo 
+Youtube ID: 	Og467-11tK0 
+Video length: 	145.9 sec 
+Set (V): 		dev 
+ 
+Mark_Ruffalo/Og467-11tK0_0000001 28.4 34.1 
+Mark_Ruffalo/Og467-11tK0_0000002 57.5 64.1 
+Mark_Ruffalo/Og467-11tK0_0000003 97.6 102.6 
+Mark_Ruffalo/Og467-11tK0_0000004 104.9 110.3 

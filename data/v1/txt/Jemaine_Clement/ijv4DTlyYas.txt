@@ -1,0 +1,9 @@
+POI: 			Jemaine_Clement 
+Youtube ID: 	ijv4DTlyYas 
+Video length: 	396.7 sec 
+Set (V): 		dev 
+ 
+Jemaine_Clement/ijv4DTlyYas_0000001 05.1 11.2 
+Jemaine_Clement/ijv4DTlyYas_0000002 13.2 19.3 
+Jemaine_Clement/ijv4DTlyYas_0000003 22.3 26.4 
+Jemaine_Clement/ijv4DTlyYas_0000004 34.5 39.7 

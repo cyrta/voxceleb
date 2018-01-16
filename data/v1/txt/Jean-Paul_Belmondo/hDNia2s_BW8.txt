@@ -1,0 +1,8 @@
+POI: 			Jean-Paul_Belmondo 
+Youtube ID: 	hDNia2s_BW8 
+Video length: 	63.0 sec 
+Set (V): 		dev 
+ 
+Jean-Paul_Belmondo/hDNia2s_BW8_0000001 04.4 10.0 
+Jean-Paul_Belmondo/hDNia2s_BW8_0000002 10.6 15.2 
+Jean-Paul_Belmondo/hDNia2s_BW8_0000003 32.8 40.2 

@@ -1,0 +1,8 @@
+POI: 			David_Lyons 
+Youtube ID: 	jnWv-3_xXOA 
+Video length: 	514.6 sec 
+Set (V): 		dev 
+ 
+David_Lyons/jnWv-3_xXOA_0000001 90.2 94.3 
+David_Lyons/jnWv-3_xXOA_0000002 278.0 282.1 
+David_Lyons/jnWv-3_xXOA_0000003 435.5 439.8 

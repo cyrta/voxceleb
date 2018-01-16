@@ -1,0 +1,10 @@
+POI: 			Milla_Jovovich 
+Youtube ID: 	Fy4MD3SPwlc 
+Video length: 	570.1 sec 
+Set (V): 		dev 
+ 
+Milla_Jovovich/Fy4MD3SPwlc_0000001 162.2 167.9 
+Milla_Jovovich/Fy4MD3SPwlc_0000002 209.5 213.8 
+Milla_Jovovich/Fy4MD3SPwlc_0000003 325.8 329.8 
+Milla_Jovovich/Fy4MD3SPwlc_0000004 359.8 364.1 
+Milla_Jovovich/Fy4MD3SPwlc_0000005 366.2 371.7 

@@ -1,0 +1,11 @@
+POI: 			Kimberly_Elise 
+Youtube ID: 	ZhSJg4OamSA 
+Video length: 	246.7 sec 
+Set (V): 		dev 
+ 
+Kimberly_Elise/ZhSJg4OamSA_0000001 67.3 73.9 
+Kimberly_Elise/ZhSJg4OamSA_0000002 104.4 114.4 
+Kimberly_Elise/ZhSJg4OamSA_0000003 114.7 127.9 
+Kimberly_Elise/ZhSJg4OamSA_0000004 180.8 188.0 
+Kimberly_Elise/ZhSJg4OamSA_0000005 198.0 211.2 
+Kimberly_Elise/ZhSJg4OamSA_0000006 214.0 218.2 

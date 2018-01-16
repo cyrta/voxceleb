@@ -1,0 +1,10 @@
+POI: 			Amy_Schumer 
+Youtube ID: 	q1GTE-DrkxQ 
+Video length: 	137.2 sec 
+Set (V): 		dev 
+ 
+Amy_Schumer/q1GTE-DrkxQ_0000001 21.9 27.7 
+Amy_Schumer/q1GTE-DrkxQ_0000002 41.4 52.8 
+Amy_Schumer/q1GTE-DrkxQ_0000003 57.0 61.2 
+Amy_Schumer/q1GTE-DrkxQ_0000004 77.3 86.3 
+Amy_Schumer/q1GTE-DrkxQ_0000005 86.9 94.5 

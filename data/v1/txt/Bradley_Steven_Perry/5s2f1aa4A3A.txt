@@ -1,0 +1,10 @@
+POI: 			Bradley_Steven_Perry 
+Youtube ID: 	5s2f1aa4A3A 
+Video length: 	658.2 sec 
+Set (V): 		dev 
+ 
+Bradley_Steven_Perry/5s2f1aa4A3A_0000001 38.4 42.8 
+Bradley_Steven_Perry/5s2f1aa4A3A_0000002 120.6 125.7 
+Bradley_Steven_Perry/5s2f1aa4A3A_0000003 293.5 298.1 
+Bradley_Steven_Perry/5s2f1aa4A3A_0000004 327.4 331.7 
+Bradley_Steven_Perry/5s2f1aa4A3A_0000005 485.0 490.0 

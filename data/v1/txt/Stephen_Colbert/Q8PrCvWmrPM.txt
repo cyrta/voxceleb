@@ -1,0 +1,11 @@
+POI: 			Stephen_Colbert 
+Youtube ID: 	Q8PrCvWmrPM 
+Video length: 	413.8 sec 
+Set (V): 		dev 
+ 
+Stephen_Colbert/Q8PrCvWmrPM_0000001 102.6 108.2 
+Stephen_Colbert/Q8PrCvWmrPM_0000002 114.1 122.6 
+Stephen_Colbert/Q8PrCvWmrPM_0000003 174.2 179.0 
+Stephen_Colbert/Q8PrCvWmrPM_0000004 203.7 207.7 
+Stephen_Colbert/Q8PrCvWmrPM_0000005 306.3 314.8 
+Stephen_Colbert/Q8PrCvWmrPM_0000006 359.8 364.0 

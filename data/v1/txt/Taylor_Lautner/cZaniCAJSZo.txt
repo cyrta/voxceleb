@@ -1,0 +1,7 @@
+POI: 			Taylor_Lautner 
+Youtube ID: 	cZaniCAJSZo 
+Video length: 	489.5 sec 
+Set (V): 		dev 
+ 
+Taylor_Lautner/cZaniCAJSZo_0000001 192.8 197.3 
+Taylor_Lautner/cZaniCAJSZo_0000002 381.8 386.5 

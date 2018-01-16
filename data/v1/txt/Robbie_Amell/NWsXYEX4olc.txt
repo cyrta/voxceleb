@@ -1,0 +1,15 @@
+POI: 			Robbie_Amell 
+Youtube ID: 	NWsXYEX4olc 
+Video length: 	428.8 sec 
+Set (V): 		dev 
+ 
+Robbie_Amell/NWsXYEX4olc_0000001 65.5 84.1 
+Robbie_Amell/NWsXYEX4olc_0000002 84.2 94.9 
+Robbie_Amell/NWsXYEX4olc_0000003 95.5 109.5 
+Robbie_Amell/NWsXYEX4olc_0000004 150.6 155.3 
+Robbie_Amell/NWsXYEX4olc_0000005 157.0 163.4 
+Robbie_Amell/NWsXYEX4olc_0000006 165.4 171.6 
+Robbie_Amell/NWsXYEX4olc_0000007 191.0 195.1 
+Robbie_Amell/NWsXYEX4olc_0000008 234.5 240.8 
+Robbie_Amell/NWsXYEX4olc_0000009 247.3 255.4 
+Robbie_Amell/NWsXYEX4olc_0000010 354.7 359.6 

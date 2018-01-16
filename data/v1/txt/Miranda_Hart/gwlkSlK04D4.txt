@@ -1,0 +1,9 @@
+POI: 			Miranda_Hart 
+Youtube ID: 	gwlkSlK04D4 
+Video length: 	390.1 sec 
+Set (V): 		dev 
+ 
+Miranda_Hart/gwlkSlK04D4_0000001 51.5 55.7 
+Miranda_Hart/gwlkSlK04D4_0000002 197.8 203.7 
+Miranda_Hart/gwlkSlK04D4_0000003 271.8 276.3 
+Miranda_Hart/gwlkSlK04D4_0000004 361.8 368.5 

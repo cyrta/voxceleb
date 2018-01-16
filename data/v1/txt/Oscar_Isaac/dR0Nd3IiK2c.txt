@@ -1,0 +1,12 @@
+POI: 			Oscar_Isaac 
+Youtube ID: 	dR0Nd3IiK2c 
+Video length: 	238.6 sec 
+Set (V): 		dev 
+ 
+Oscar_Isaac/dR0Nd3IiK2c_0000001 24.1 29.8 
+Oscar_Isaac/dR0Nd3IiK2c_0000002 39.2 45.3 
+Oscar_Isaac/dR0Nd3IiK2c_0000003 54.8 63.1 
+Oscar_Isaac/dR0Nd3IiK2c_0000004 108.2 114.5 
+Oscar_Isaac/dR0Nd3IiK2c_0000005 132.2 141.8 
+Oscar_Isaac/dR0Nd3IiK2c_0000006 146.9 156.0 
+Oscar_Isaac/dR0Nd3IiK2c_0000007 186.7 192.5 

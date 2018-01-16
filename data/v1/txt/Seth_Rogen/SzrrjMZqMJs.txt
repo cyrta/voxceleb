@@ -1,0 +1,10 @@
+POI: 			Seth_Rogen 
+Youtube ID: 	SzrrjMZqMJs 
+Video length: 	411.5 sec 
+Set (V): 		dev 
+ 
+Seth_Rogen/SzrrjMZqMJs_0000001 79.5 91.0 
+Seth_Rogen/SzrrjMZqMJs_0000002 163.8 171.7 
+Seth_Rogen/SzrrjMZqMJs_0000003 342.4 349.7 
+Seth_Rogen/SzrrjMZqMJs_0000004 356.0 367.6 
+Seth_Rogen/SzrrjMZqMJs_0000005 381.6 386.3 

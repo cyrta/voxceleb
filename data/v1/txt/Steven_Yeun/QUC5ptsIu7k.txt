@@ -1,0 +1,9 @@
+POI: 			Steven_Yeun 
+Youtube ID: 	QUC5ptsIu7k 
+Video length: 	183.1 sec 
+Set (V): 		dev 
+ 
+Steven_Yeun/QUC5ptsIu7k_0000001 20.5 27.5 
+Steven_Yeun/QUC5ptsIu7k_0000002 55.4 88.1 
+Steven_Yeun/QUC5ptsIu7k_0000003 94.1 101.7 
+Steven_Yeun/QUC5ptsIu7k_0000004 109.2 117.4 

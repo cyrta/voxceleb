@@ -1,0 +1,10 @@
+POI: 			Moran_Atias 
+Youtube ID: 	gsG2ZBzvMpg 
+Video length: 	297.1 sec 
+Set (V): 		dev 
+ 
+Moran_Atias/gsG2ZBzvMpg_0000001 57.6 67.7 
+Moran_Atias/gsG2ZBzvMpg_0000002 68.2 72.9 
+Moran_Atias/gsG2ZBzvMpg_0000003 120.4 126.1 
+Moran_Atias/gsG2ZBzvMpg_0000004 165.6 170.6 
+Moran_Atias/gsG2ZBzvMpg_0000005 251.7 263.4 

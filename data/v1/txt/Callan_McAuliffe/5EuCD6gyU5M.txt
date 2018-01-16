@@ -1,0 +1,26 @@
+POI: 			Callan_McAuliffe 
+Youtube ID: 	5EuCD6gyU5M 
+Video length: 	366.6 sec 
+Set (V): 		dev 
+ 
+Callan_McAuliffe/5EuCD6gyU5M_0000001 06.0 14.0 
+Callan_McAuliffe/5EuCD6gyU5M_0000002 20.4 30.4 
+Callan_McAuliffe/5EuCD6gyU5M_0000003 38.8 54.3 
+Callan_McAuliffe/5EuCD6gyU5M_0000004 60.0 74.4 
+Callan_McAuliffe/5EuCD6gyU5M_0000005 77.5 83.0 
+Callan_McAuliffe/5EuCD6gyU5M_0000006 91.9 102.4 
+Callan_McAuliffe/5EuCD6gyU5M_0000007 105.4 115.0 
+Callan_McAuliffe/5EuCD6gyU5M_0000008 121.0 129.8 
+Callan_McAuliffe/5EuCD6gyU5M_0000009 141.9 156.8 
+Callan_McAuliffe/5EuCD6gyU5M_0000010 157.0 162.2 
+Callan_McAuliffe/5EuCD6gyU5M_0000011 174.7 185.8 
+Callan_McAuliffe/5EuCD6gyU5M_0000012 190.6 204.2 
+Callan_McAuliffe/5EuCD6gyU5M_0000013 220.3 226.8 
+Callan_McAuliffe/5EuCD6gyU5M_0000014 239.1 256.1 
+Callan_McAuliffe/5EuCD6gyU5M_0000015 262.4 271.6 
+Callan_McAuliffe/5EuCD6gyU5M_0000016 284.5 292.6 
+Callan_McAuliffe/5EuCD6gyU5M_0000017 295.8 303.7 
+Callan_McAuliffe/5EuCD6gyU5M_0000018 307.7 313.1 
+Callan_McAuliffe/5EuCD6gyU5M_0000019 322.5 327.4 
+Callan_McAuliffe/5EuCD6gyU5M_0000020 335.6 343.8 
+Callan_McAuliffe/5EuCD6gyU5M_0000021 351.6 361.6 

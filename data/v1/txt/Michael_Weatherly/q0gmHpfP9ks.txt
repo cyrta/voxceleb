@@ -1,0 +1,8 @@
+POI: 			Michael_Weatherly 
+Youtube ID: 	q0gmHpfP9ks 
+Video length: 	184.1 sec 
+Set (V): 		dev 
+ 
+Michael_Weatherly/q0gmHpfP9ks_0000001 111.6 115.8 
+Michael_Weatherly/q0gmHpfP9ks_0000002 144.4 150.7 
+Michael_Weatherly/q0gmHpfP9ks_0000003 151.0 161.0 

@@ -1,0 +1,8 @@
+POI: 			Esai_Morales 
+Youtube ID: 	CNPsGRmW7rY 
+Video length: 	231.4 sec 
+Set (V): 		test 
+ 
+Esai_Morales/CNPsGRmW7rY_0000001 99.7 104.3 
+Esai_Morales/CNPsGRmW7rY_0000002 113.6 118.9 
+Esai_Morales/CNPsGRmW7rY_0000003 203.6 207.6 

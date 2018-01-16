@@ -1,0 +1,11 @@
+POI: 			Jared_Leto 
+Youtube ID: 	nquOKXenu7M 
+Video length: 	225.7 sec 
+Set (V): 		dev 
+ 
+Jared_Leto/nquOKXenu7M_0000001 28.7 35.8 
+Jared_Leto/nquOKXenu7M_0000002 36.4 42.6 
+Jared_Leto/nquOKXenu7M_0000003 119.0 126.4 
+Jared_Leto/nquOKXenu7M_0000004 131.7 140.7 
+Jared_Leto/nquOKXenu7M_0000005 160.9 164.9 
+Jared_Leto/nquOKXenu7M_0000006 207.0 212.2 

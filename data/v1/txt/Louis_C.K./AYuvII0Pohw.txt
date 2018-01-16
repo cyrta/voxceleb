@@ -1,0 +1,8 @@
+POI: 			Louis_C.K. 
+Youtube ID: 	AYuvII0Pohw 
+Video length: 	294.7 sec 
+Set (V): 		dev 
+ 
+Louis_C.K./AYuvII0Pohw_0000001 39.9 43.9 
+Louis_C.K./AYuvII0Pohw_0000002 51.0 55.4 
+Louis_C.K./AYuvII0Pohw_0000003 168.9 181.2 

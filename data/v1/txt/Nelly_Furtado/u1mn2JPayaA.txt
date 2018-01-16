@@ -1,0 +1,37 @@
+POI: 			Nelly_Furtado 
+Youtube ID: 	u1mn2JPayaA 
+Video length: 	1440.4 sec 
+Set (V): 		dev 
+ 
+Nelly_Furtado/u1mn2JPayaA_0000001 85.4 90.5 
+Nelly_Furtado/u1mn2JPayaA_0000002 115.9 121.0 
+Nelly_Furtado/u1mn2JPayaA_0000003 121.9 126.8 
+Nelly_Furtado/u1mn2JPayaA_0000004 134.0 139.6 
+Nelly_Furtado/u1mn2JPayaA_0000005 153.4 162.4 
+Nelly_Furtado/u1mn2JPayaA_0000006 171.2 178.2 
+Nelly_Furtado/u1mn2JPayaA_0000007 173.4 178.9 
+Nelly_Furtado/u1mn2JPayaA_0000008 203.0 215.0 
+Nelly_Furtado/u1mn2JPayaA_0000009 227.0 233.4 
+Nelly_Furtado/u1mn2JPayaA_0000010 395.0 412.0 
+Nelly_Furtado/u1mn2JPayaA_0000011 412.6 425.3 
+Nelly_Furtado/u1mn2JPayaA_0000012 450.1 457.3 
+Nelly_Furtado/u1mn2JPayaA_0000013 465.0 469.5 
+Nelly_Furtado/u1mn2JPayaA_0000014 479.4 490.6 
+Nelly_Furtado/u1mn2JPayaA_0000015 492.0 497.0 
+Nelly_Furtado/u1mn2JPayaA_0000016 589.0 595.6 
+Nelly_Furtado/u1mn2JPayaA_0000017 604.0 615.2 
+Nelly_Furtado/u1mn2JPayaA_0000018 653.0 658.8 
+Nelly_Furtado/u1mn2JPayaA_0000019 811.5 816.6 
+Nelly_Furtado/u1mn2JPayaA_0000020 834.2 840.5 
+Nelly_Furtado/u1mn2JPayaA_0000021 871.8 882.0 
+Nelly_Furtado/u1mn2JPayaA_0000022 1041.4 1051.7 
+Nelly_Furtado/u1mn2JPayaA_0000023 1053.7 1059.9 
+Nelly_Furtado/u1mn2JPayaA_0000024 1113.9 1120.2 
+Nelly_Furtado/u1mn2JPayaA_0000025 1129.4 1134.5 
+Nelly_Furtado/u1mn2JPayaA_0000026 1198.0 1203.5 
+Nelly_Furtado/u1mn2JPayaA_0000027 1221.9 1228.2 
+Nelly_Furtado/u1mn2JPayaA_0000028 1229.0 1233.6 
+Nelly_Furtado/u1mn2JPayaA_0000029 1272.1 1280.8 
+Nelly_Furtado/u1mn2JPayaA_0000030 1283.1 1289.2 
+Nelly_Furtado/u1mn2JPayaA_0000031 1300.3 1309.4 
+Nelly_Furtado/u1mn2JPayaA_0000032 1324.9 1334.4 

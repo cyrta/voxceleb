@@ -1,0 +1,11 @@
+POI: 			Patton_Oswalt 
+Youtube ID: 	2U48LbG1RHc 
+Video length: 	265.3 sec 
+Set (V): 		dev 
+ 
+Patton_Oswalt/2U48LbG1RHc_0000001 34.8 44.1 
+Patton_Oswalt/2U48LbG1RHc_0000002 48.2 55.1 
+Patton_Oswalt/2U48LbG1RHc_0000003 61.4 67.4 
+Patton_Oswalt/2U48LbG1RHc_0000004 114.3 120.2 
+Patton_Oswalt/2U48LbG1RHc_0000005 149.2 157.8 
+Patton_Oswalt/2U48LbG1RHc_0000006 184.1 198.6 

@@ -1,0 +1,9 @@
+POI: 			Rainn_Wilson 
+Youtube ID: 	UIPg3goNdzE 
+Video length: 	108.7 sec 
+Set (V): 		dev 
+ 
+Rainn_Wilson/UIPg3goNdzE_0000001 54.8 61.6 
+Rainn_Wilson/UIPg3goNdzE_0000002 62.1 67.0 
+Rainn_Wilson/UIPg3goNdzE_0000003 54.8 61.7 
+Rainn_Wilson/UIPg3goNdzE_0000004 72.0 84.7 

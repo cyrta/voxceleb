@@ -1,0 +1,13 @@
+POI: 			Katy_Perry 
+Youtube ID: 	BpGNEAnuqdw 
+Video length: 	796.7 sec 
+Set (V): 		dev 
+ 
+Katy_Perry/BpGNEAnuqdw_0000001 356.6 361.0 
+Katy_Perry/BpGNEAnuqdw_0000002 437.3 448.4 
+Katy_Perry/BpGNEAnuqdw_0000003 455.4 461.8 
+Katy_Perry/BpGNEAnuqdw_0000004 489.4 497.2 
+Katy_Perry/BpGNEAnuqdw_0000005 521.6 532.0 
+Katy_Perry/BpGNEAnuqdw_0000006 539.0 546.5 
+Katy_Perry/BpGNEAnuqdw_0000007 679.6 684.6 
+Katy_Perry/BpGNEAnuqdw_0000008 688.4 692.4 

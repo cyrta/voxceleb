@@ -1,0 +1,10 @@
+POI: 			Kathryn_Joosten 
+Youtube ID: 	DOhJFBO3cd4 
+Video length: 	312.9 sec 
+Set (V): 		dev 
+ 
+Kathryn_Joosten/DOhJFBO3cd4_0000001 46.0 53.4 
+Kathryn_Joosten/DOhJFBO3cd4_0000002 58.9 75.1 
+Kathryn_Joosten/DOhJFBO3cd4_0000003 96.1 115.9 
+Kathryn_Joosten/DOhJFBO3cd4_0000004 194.0 199.0 
+Kathryn_Joosten/DOhJFBO3cd4_0000005 202.2 207.4 

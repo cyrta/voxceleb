@@ -1,0 +1,15 @@
+POI: 			Mia_Wasikowska 
+Youtube ID: 	PNuQc_7JGVw 
+Video length: 	246.3 sec 
+Set (V): 		dev 
+ 
+Mia_Wasikowska/PNuQc_7JGVw_0000001 28.6 41.5 
+Mia_Wasikowska/PNuQc_7JGVw_0000002 42.6 49.2 
+Mia_Wasikowska/PNuQc_7JGVw_0000003 67.9 73.2 
+Mia_Wasikowska/PNuQc_7JGVw_0000004 74.0 95.8 
+Mia_Wasikowska/PNuQc_7JGVw_0000005 105.4 110.8 
+Mia_Wasikowska/PNuQc_7JGVw_0000006 120.8 126.5 
+Mia_Wasikowska/PNuQc_7JGVw_0000007 142.7 154.9 
+Mia_Wasikowska/PNuQc_7JGVw_0000008 172.8 178.4 
+Mia_Wasikowska/PNuQc_7JGVw_0000009 211.6 216.3 
+Mia_Wasikowska/PNuQc_7JGVw_0000010 227.8 232.6 

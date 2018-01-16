@@ -1,0 +1,10 @@
+POI: 			Ryan_Potter 
+Youtube ID: 	Zuq4MoX30AE 
+Video length: 	288.7 sec 
+Set (V): 		dev 
+ 
+Ryan_Potter/Zuq4MoX30AE_0000001 30.8 35.8 
+Ryan_Potter/Zuq4MoX30AE_0000002 100.9 105.8 
+Ryan_Potter/Zuq4MoX30AE_0000003 107.7 112.1 
+Ryan_Potter/Zuq4MoX30AE_0000004 193.3 201.7 
+Ryan_Potter/Zuq4MoX30AE_0000005 217.6 221.6 

@@ -1,0 +1,10 @@
+POI: 			John_Corbett 
+Youtube ID: 	cLhD1lLi9nI 
+Video length: 	226.7 sec 
+Set (V): 		dev 
+ 
+John_Corbett/cLhD1lLi9nI_0000001 64.1 69.6 
+John_Corbett/cLhD1lLi9nI_0000002 70.2 75.8 
+John_Corbett/cLhD1lLi9nI_0000003 87.9 92.9 
+John_Corbett/cLhD1lLi9nI_0000004 119.8 127.5 
+John_Corbett/cLhD1lLi9nI_0000005 135.9 141.8 

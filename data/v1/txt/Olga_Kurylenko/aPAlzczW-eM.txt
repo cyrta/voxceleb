@@ -1,0 +1,8 @@
+POI: 			Olga_Kurylenko 
+Youtube ID: 	aPAlzczW-eM 
+Video length: 	75.9 sec 
+Set (V): 		dev 
+ 
+Olga_Kurylenko/aPAlzczW-eM_0000001 14.3 18.8 
+Olga_Kurylenko/aPAlzczW-eM_0000002 29.9 35.3 
+Olga_Kurylenko/aPAlzczW-eM_0000003 52.9 58.7 

@@ -1,0 +1,13 @@
+POI: 			Elaine_Cassidy 
+Youtube ID: 	PQBBKBYGWgU 
+Video length: 	169.3 sec 
+Set (V): 		test 
+ 
+Elaine_Cassidy/PQBBKBYGWgU_0000001 02.0 10.0 
+Elaine_Cassidy/PQBBKBYGWgU_0000002 27.0 42.0 
+Elaine_Cassidy/PQBBKBYGWgU_0000003 53.4 62.7 
+Elaine_Cassidy/PQBBKBYGWgU_0000004 63.2 76.0 
+Elaine_Cassidy/PQBBKBYGWgU_0000005 76.0 87.2 
+Elaine_Cassidy/PQBBKBYGWgU_0000006 107.0 111.0 
+Elaine_Cassidy/PQBBKBYGWgU_0000007 111.9 130.3 
+Elaine_Cassidy/PQBBKBYGWgU_0000008 145.6 161.5 

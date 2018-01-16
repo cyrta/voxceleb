@@ -1,0 +1,8 @@
+POI: 			Margot_Robbie 
+Youtube ID: 	WlG43pK5pnc 
+Video length: 	218.1 sec 
+Set (V): 		dev 
+ 
+Margot_Robbie/WlG43pK5pnc_0000001 54.0 58.6 
+Margot_Robbie/WlG43pK5pnc_0000002 123.4 136.2 
+Margot_Robbie/WlG43pK5pnc_0000003 136.7 158.2 

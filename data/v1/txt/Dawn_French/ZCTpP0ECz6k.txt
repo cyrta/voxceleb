@@ -1,0 +1,18 @@
+POI: 			Dawn_French 
+Youtube ID: 	ZCTpP0ECz6k 
+Video length: 	423.8 sec 
+Set (V): 		dev 
+ 
+Dawn_French/ZCTpP0ECz6k_0000001 10.9 14.8 
+Dawn_French/ZCTpP0ECz6k_0000002 28.2 33.7 
+Dawn_French/ZCTpP0ECz6k_0000003 85.1 89.9 
+Dawn_French/ZCTpP0ECz6k_0000004 93.0 105.4 
+Dawn_French/ZCTpP0ECz6k_0000005 112.8 121.1 
+Dawn_French/ZCTpP0ECz6k_0000006 207.8 213.8 
+Dawn_French/ZCTpP0ECz6k_0000007 208.1 212.1 
+Dawn_French/ZCTpP0ECz6k_0000008 217.3 221.5 
+Dawn_French/ZCTpP0ECz6k_0000009 239.6 245.6 
+Dawn_French/ZCTpP0ECz6k_0000010 249.5 254.7 
+Dawn_French/ZCTpP0ECz6k_0000011 271.8 277.7 
+Dawn_French/ZCTpP0ECz6k_0000012 337.8 343.8 
+Dawn_French/ZCTpP0ECz6k_0000013 347.0 353.1 

@@ -1,0 +1,12 @@
+POI: 			Matt_Dallas 
+Youtube ID: 	zoU879XBnRE 
+Video length: 	167.6 sec 
+Set (V): 		dev 
+ 
+Matt_Dallas/zoU879XBnRE_0000001 01.8 12.8 
+Matt_Dallas/zoU879XBnRE_0000002 16.6 28.9 
+Matt_Dallas/zoU879XBnRE_0000003 29.7 60.8 
+Matt_Dallas/zoU879XBnRE_0000004 63.8 88.1 
+Matt_Dallas/zoU879XBnRE_0000005 91.1 113.0 
+Matt_Dallas/zoU879XBnRE_0000006 116.4 137.1 
+Matt_Dallas/zoU879XBnRE_0000007 143.8 162.3 

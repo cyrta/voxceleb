@@ -1,0 +1,7 @@
+POI: 			Rose_McIver 
+Youtube ID: 	9uVyHHIKLXI 
+Video length: 	467.1 sec 
+Set (V): 		dev 
+ 
+Rose_McIver/9uVyHHIKLXI_0000001 210.7 219.7 
+Rose_McIver/9uVyHHIKLXI_0000002 341.8 348.5 

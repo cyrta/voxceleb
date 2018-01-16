@@ -1,0 +1,10 @@
+POI: 			Naturi_Naughton 
+Youtube ID: 	2JE-tAmOTJ0 
+Video length: 	76.3 sec 
+Set (V): 		dev 
+ 
+Naturi_Naughton/2JE-tAmOTJ0_0000001 06.4 12.1 
+Naturi_Naughton/2JE-tAmOTJ0_0000002 13.9 22.0 
+Naturi_Naughton/2JE-tAmOTJ0_0000003 25.0 34.0 
+Naturi_Naughton/2JE-tAmOTJ0_0000004 39.0 44.4 
+Naturi_Naughton/2JE-tAmOTJ0_0000005 63.9 70.3 

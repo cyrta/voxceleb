@@ -1,0 +1,16 @@
+POI: 			Smokey_Robinson 
+Youtube ID: 	N0lAbk-VYHc 
+Video length: 	2586.7 sec 
+Set (V): 		dev 
+ 
+Smokey_Robinson/N0lAbk-VYHc_0000001 257.7 261.8 
+Smokey_Robinson/N0lAbk-VYHc_0000002 293.8 298.4 
+Smokey_Robinson/N0lAbk-VYHc_0000003 322.8 329.2 
+Smokey_Robinson/N0lAbk-VYHc_0000004 329.5 337.1 
+Smokey_Robinson/N0lAbk-VYHc_0000005 360.0 364.7 
+Smokey_Robinson/N0lAbk-VYHc_0000006 418.6 425.4 
+Smokey_Robinson/N0lAbk-VYHc_0000007 432.4 441.1 
+Smokey_Robinson/N0lAbk-VYHc_0000008 445.6 455.2 
+Smokey_Robinson/N0lAbk-VYHc_0000009 575.3 585.1 
+Smokey_Robinson/N0lAbk-VYHc_0000010 791.6 796.4 
+Smokey_Robinson/N0lAbk-VYHc_0000011 924.9 932.6 

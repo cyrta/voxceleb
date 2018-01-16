@@ -1,0 +1,7 @@
+POI: 			Paolo_Sorrentino 
+Youtube ID: 	w38qeRrapvs 
+Video length: 	459.8 sec 
+Set (V): 		dev 
+ 
+Paolo_Sorrentino/w38qeRrapvs_0000001 358.3 362.6 
+Paolo_Sorrentino/w38qeRrapvs_0000002 423.6 428.0 

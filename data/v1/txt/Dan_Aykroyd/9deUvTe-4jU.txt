@@ -1,0 +1,12 @@
+POI: 			Dan_Aykroyd 
+Youtube ID: 	9deUvTe-4jU 
+Video length: 	170.7 sec 
+Set (V): 		dev 
+ 
+Dan_Aykroyd/9deUvTe-4jU_0000001 11.8 26.6 
+Dan_Aykroyd/9deUvTe-4jU_0000002 27.3 32.4 
+Dan_Aykroyd/9deUvTe-4jU_0000003 33.4 42.9 
+Dan_Aykroyd/9deUvTe-4jU_0000004 43.6 50.3 
+Dan_Aykroyd/9deUvTe-4jU_0000005 67.9 72.0 
+Dan_Aykroyd/9deUvTe-4jU_0000006 129.9 135.5 
+Dan_Aykroyd/9deUvTe-4jU_0000007 148.6 158.4 

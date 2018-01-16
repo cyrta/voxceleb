@@ -1,0 +1,19 @@
+POI: 			Bear_Grylls 
+Youtube ID: 	h3bVh3XaIrU 
+Video length: 	384.4 sec 
+Set (V): 		dev 
+ 
+Bear_Grylls/h3bVh3XaIrU_0000001 37.7 42.2 
+Bear_Grylls/h3bVh3XaIrU_0000002 84.2 91.0 
+Bear_Grylls/h3bVh3XaIrU_0000003 95.3 101.1 
+Bear_Grylls/h3bVh3XaIrU_0000004 117.8 122.0 
+Bear_Grylls/h3bVh3XaIrU_0000005 138.4 145.1 
+Bear_Grylls/h3bVh3XaIrU_0000006 149.0 153.0 
+Bear_Grylls/h3bVh3XaIrU_0000007 175.5 182.8 
+Bear_Grylls/h3bVh3XaIrU_0000008 184.6 190.2 
+Bear_Grylls/h3bVh3XaIrU_0000009 205.6 210.0 
+Bear_Grylls/h3bVh3XaIrU_0000010 225.0 231.0 
+Bear_Grylls/h3bVh3XaIrU_0000011 236.4 241.3 
+Bear_Grylls/h3bVh3XaIrU_0000012 246.0 250.7 
+Bear_Grylls/h3bVh3XaIrU_0000013 257.2 270.8 
+Bear_Grylls/h3bVh3XaIrU_0000014 327.0 332.4 

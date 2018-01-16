@@ -1,0 +1,22 @@
+POI: 			Joan_Allen 
+Youtube ID: 	YgrzjvCnGSA 
+Video length: 	829.1 sec 
+Set (V): 		dev 
+ 
+Joan_Allen/YgrzjvCnGSA_0000001 05.8 15.2 
+Joan_Allen/YgrzjvCnGSA_0000002 160.9 165.0 
+Joan_Allen/YgrzjvCnGSA_0000003 247.2 255.0 
+Joan_Allen/YgrzjvCnGSA_0000004 270.0 278.5 
+Joan_Allen/YgrzjvCnGSA_0000005 291.1 298.1 
+Joan_Allen/YgrzjvCnGSA_0000006 318.8 323.0 
+Joan_Allen/YgrzjvCnGSA_0000007 372.9 377.3 
+Joan_Allen/YgrzjvCnGSA_0000008 378.6 385.8 
+Joan_Allen/YgrzjvCnGSA_0000009 428.4 434.8 
+Joan_Allen/YgrzjvCnGSA_0000010 439.0 444.5 
+Joan_Allen/YgrzjvCnGSA_0000011 449.6 456.2 
+Joan_Allen/YgrzjvCnGSA_0000012 496.4 515.3 
+Joan_Allen/YgrzjvCnGSA_0000013 576.2 583.1 
+Joan_Allen/YgrzjvCnGSA_0000014 591.6 597.1 
+Joan_Allen/YgrzjvCnGSA_0000015 696.6 702.7 
+Joan_Allen/YgrzjvCnGSA_0000016 764.6 777.3 
+Joan_Allen/YgrzjvCnGSA_0000017 787.8 793.0 

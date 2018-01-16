@@ -1,0 +1,14 @@
+POI: 			Thomas_Ian_Nicholas 
+Youtube ID: 	3lNl1bJt7kw 
+Video length: 	245.7 sec 
+Set (V): 		dev 
+ 
+Thomas_Ian_Nicholas/3lNl1bJt7kw_0000001 17.7 25.0 
+Thomas_Ian_Nicholas/3lNl1bJt7kw_0000002 31.6 51.6 
+Thomas_Ian_Nicholas/3lNl1bJt7kw_0000003 57.9 65.0 
+Thomas_Ian_Nicholas/3lNl1bJt7kw_0000004 72.7 88.4 
+Thomas_Ian_Nicholas/3lNl1bJt7kw_0000005 88.9 93.0 
+Thomas_Ian_Nicholas/3lNl1bJt7kw_0000006 121.3 134.5 
+Thomas_Ian_Nicholas/3lNl1bJt7kw_0000007 152.6 168.1 
+Thomas_Ian_Nicholas/3lNl1bJt7kw_0000008 179.8 185.7 
+Thomas_Ian_Nicholas/3lNl1bJt7kw_0000009 193.9 212.8 

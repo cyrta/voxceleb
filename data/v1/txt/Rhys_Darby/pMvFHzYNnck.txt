@@ -1,0 +1,16 @@
+POI: 			Rhys_Darby 
+Youtube ID: 	pMvFHzYNnck 
+Video length: 	487.3 sec 
+Set (V): 		dev 
+ 
+Rhys_Darby/pMvFHzYNnck_0000001 11.5 20.3 
+Rhys_Darby/pMvFHzYNnck_0000002 94.8 103.9 
+Rhys_Darby/pMvFHzYNnck_0000003 114.6 119.0 
+Rhys_Darby/pMvFHzYNnck_0000004 122.4 129.3 
+Rhys_Darby/pMvFHzYNnck_0000005 184.4 189.0 
+Rhys_Darby/pMvFHzYNnck_0000006 205.8 213.6 
+Rhys_Darby/pMvFHzYNnck_0000007 216.9 228.3 
+Rhys_Darby/pMvFHzYNnck_0000008 279.1 285.0 
+Rhys_Darby/pMvFHzYNnck_0000009 314.5 319.6 
+Rhys_Darby/pMvFHzYNnck_0000010 346.7 353.9 
+Rhys_Darby/pMvFHzYNnck_0000011 374.2 379.3 

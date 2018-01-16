@@ -1,0 +1,8 @@
+POI: 			Joss_Whedon 
+Youtube ID: 	dwnIdViJS0U 
+Video length: 	329.4 sec 
+Set (V): 		dev 
+ 
+Joss_Whedon/dwnIdViJS0U_0000001 88.6 93.4 
+Joss_Whedon/dwnIdViJS0U_0000002 154.3 159.2 
+Joss_Whedon/dwnIdViJS0U_0000003 258.3 268.7 

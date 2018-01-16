@@ -1,0 +1,10 @@
+POI: 			Mario_Casas 
+Youtube ID: 	9NpQb6wgnNI 
+Video length: 	248.2 sec 
+Set (V): 		dev 
+ 
+Mario_Casas/9NpQb6wgnNI_0000001 27.4 31.7 
+Mario_Casas/9NpQb6wgnNI_0000002 32.7 37.4 
+Mario_Casas/9NpQb6wgnNI_0000003 88.2 92.9 
+Mario_Casas/9NpQb6wgnNI_0000004 144.5 153.4 
+Mario_Casas/9NpQb6wgnNI_0000005 153.9 160.4 

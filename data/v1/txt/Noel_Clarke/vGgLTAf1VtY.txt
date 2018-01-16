@@ -1,0 +1,15 @@
+POI: 			Noel_Clarke 
+Youtube ID: 	vGgLTAf1VtY 
+Video length: 	264.8 sec 
+Set (V): 		dev 
+ 
+Noel_Clarke/vGgLTAf1VtY_0000001 17.0 21.5 
+Noel_Clarke/vGgLTAf1VtY_0000002 37.1 44.8 
+Noel_Clarke/vGgLTAf1VtY_0000003 65.7 70.4 
+Noel_Clarke/vGgLTAf1VtY_0000004 78.8 83.9 
+Noel_Clarke/vGgLTAf1VtY_0000005 93.1 110.8 
+Noel_Clarke/vGgLTAf1VtY_0000006 132.2 137.6 
+Noel_Clarke/vGgLTAf1VtY_0000007 147.6 151.9 
+Noel_Clarke/vGgLTAf1VtY_0000008 186.6 191.8 
+Noel_Clarke/vGgLTAf1VtY_0000009 208.8 222.7 
+Noel_Clarke/vGgLTAf1VtY_0000010 226.8 235.8 

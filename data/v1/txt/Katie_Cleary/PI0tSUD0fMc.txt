@@ -1,0 +1,8 @@
+POI: 			Katie_Cleary 
+Youtube ID: 	PI0tSUD0fMc 
+Video length: 	182.8 sec 
+Set (V): 		dev 
+ 
+Katie_Cleary/PI0tSUD0fMc_0000001 38.7 46.6 
+Katie_Cleary/PI0tSUD0fMc_0000002 120.2 135.0 
+Katie_Cleary/PI0tSUD0fMc_0000003 144.0 152.2 

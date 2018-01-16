@@ -1,0 +1,8 @@
+POI: 			Joss_Stone 
+Youtube ID: 	K22AiWKEOg0 
+Video length: 	124.9 sec 
+Set (V): 		dev 
+ 
+Joss_Stone/K22AiWKEOg0_0000001 11.4 35.6 
+Joss_Stone/K22AiWKEOg0_0000002 50.8 55.2 
+Joss_Stone/K22AiWKEOg0_0000003 64.8 86.6 

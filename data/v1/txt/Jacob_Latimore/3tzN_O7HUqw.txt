@@ -1,0 +1,8 @@
+POI: 			Jacob_Latimore 
+Youtube ID: 	3tzN_O7HUqw 
+Video length: 	273.0 sec 
+Set (V): 		dev 
+ 
+Jacob_Latimore/3tzN_O7HUqw_0000001 132.7 138.6 
+Jacob_Latimore/3tzN_O7HUqw_0000002 150.0 154.0 
+Jacob_Latimore/3tzN_O7HUqw_0000003 197.7 202.5 

@@ -1,0 +1,12 @@
+POI: 			Ron_Livingston 
+Youtube ID: 	7DsQ7owVGSs 
+Video length: 	1469.1 sec 
+Set (V): 		dev 
+ 
+Ron_Livingston/7DsQ7owVGSs_0000001 907.1 913.2 
+Ron_Livingston/7DsQ7owVGSs_0000002 945.0 949.2 
+Ron_Livingston/7DsQ7owVGSs_0000003 1333.9 1338.3 
+Ron_Livingston/7DsQ7owVGSs_0000004 1350.0 1354.3 
+Ron_Livingston/7DsQ7owVGSs_0000005 1360.7 1365.0 
+Ron_Livingston/7DsQ7owVGSs_0000006 1388.4 1396.3 
+Ron_Livingston/7DsQ7owVGSs_0000007 1424.7 1429.7 

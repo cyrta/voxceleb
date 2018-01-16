@@ -1,0 +1,8 @@
+POI: 			Bonnie_Wright 
+Youtube ID: 	vCp7m5eFDAo 
+Video length: 	318.1 sec 
+Set (V): 		dev 
+ 
+Bonnie_Wright/vCp7m5eFDAo_0000001 24.4 31.6 
+Bonnie_Wright/vCp7m5eFDAo_0000002 31.8 38.5 
+Bonnie_Wright/vCp7m5eFDAo_0000003 39.2 43.7 

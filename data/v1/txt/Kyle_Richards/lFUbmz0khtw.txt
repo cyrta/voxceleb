@@ -1,0 +1,9 @@
+POI: 			Kyle_Richards 
+Youtube ID: 	lFUbmz0khtw 
+Video length: 	120.2 sec 
+Set (V): 		dev 
+ 
+Kyle_Richards/lFUbmz0khtw_0000001 16.9 40.0 
+Kyle_Richards/lFUbmz0khtw_0000002 57.9 68.7 
+Kyle_Richards/lFUbmz0khtw_0000003 70.6 74.9 
+Kyle_Richards/lFUbmz0khtw_0000004 82.0 87.1 

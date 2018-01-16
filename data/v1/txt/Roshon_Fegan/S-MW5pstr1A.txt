@@ -1,0 +1,9 @@
+POI: 			Roshon_Fegan 
+Youtube ID: 	S-MW5pstr1A 
+Video length: 	261.3 sec 
+Set (V): 		dev 
+ 
+Roshon_Fegan/S-MW5pstr1A_0000001 36.6 41.1 
+Roshon_Fegan/S-MW5pstr1A_0000002 70.3 75.4 
+Roshon_Fegan/S-MW5pstr1A_0000003 178.2 187.2 
+Roshon_Fegan/S-MW5pstr1A_0000004 230.6 237.7 

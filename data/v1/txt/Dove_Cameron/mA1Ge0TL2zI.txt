@@ -1,0 +1,10 @@
+POI: 			Dove_Cameron 
+Youtube ID: 	mA1Ge0TL2zI 
+Video length: 	287.3 sec 
+Set (V): 		dev 
+ 
+Dove_Cameron/mA1Ge0TL2zI_0000001 74.0 83.6 
+Dove_Cameron/mA1Ge0TL2zI_0000002 98.1 102.1 
+Dove_Cameron/mA1Ge0TL2zI_0000003 135.2 146.9 
+Dove_Cameron/mA1Ge0TL2zI_0000004 182.6 193.0 
+Dove_Cameron/mA1Ge0TL2zI_0000005 219.9 224.8 

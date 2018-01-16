@@ -1,0 +1,14 @@
+POI: 			Alan_Rickman 
+Youtube ID: 	TpDBdhBI4bs 
+Video length: 	262.6 sec 
+Set (V): 		dev 
+ 
+Alan_Rickman/TpDBdhBI4bs_0000001 38.3 46.2 
+Alan_Rickman/TpDBdhBI4bs_0000002 86.6 95.3 
+Alan_Rickman/TpDBdhBI4bs_0000003 104.6 111.8 
+Alan_Rickman/TpDBdhBI4bs_0000004 130.0 136.9 
+Alan_Rickman/TpDBdhBI4bs_0000005 138.3 143.3 
+Alan_Rickman/TpDBdhBI4bs_0000006 144.6 154.6 
+Alan_Rickman/TpDBdhBI4bs_0000007 155.8 163.4 
+Alan_Rickman/TpDBdhBI4bs_0000008 206.8 211.3 
+Alan_Rickman/TpDBdhBI4bs_0000009 213.7 221.6 

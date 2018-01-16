@@ -1,0 +1,7 @@
+POI: 			Jake_Abel 
+Youtube ID: 	iZ2A1XMuZfY 
+Video length: 	144.6 sec 
+Set (V): 		dev 
+ 
+Jake_Abel/iZ2A1XMuZfY_0000001 30.3 39.7 
+Jake_Abel/iZ2A1XMuZfY_0000002 93.3 97.3 

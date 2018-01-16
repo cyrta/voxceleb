@@ -1,0 +1,25 @@
+POI: 			Keri_Hilson 
+Youtube ID: 	Lm2T_VvwZaA 
+Video length: 	1449.8 sec 
+Set (V): 		dev 
+ 
+Keri_Hilson/Lm2T_VvwZaA_0000001 22.7 26.7 
+Keri_Hilson/Lm2T_VvwZaA_0000002 95.0 100.6 
+Keri_Hilson/Lm2T_VvwZaA_0000003 103.2 109.6 
+Keri_Hilson/Lm2T_VvwZaA_0000004 150.3 155.7 
+Keri_Hilson/Lm2T_VvwZaA_0000005 156.4 163.9 
+Keri_Hilson/Lm2T_VvwZaA_0000006 167.8 182.7 
+Keri_Hilson/Lm2T_VvwZaA_0000007 182.8 188.8 
+Keri_Hilson/Lm2T_VvwZaA_0000008 293.4 306.1 
+Keri_Hilson/Lm2T_VvwZaA_0000009 308.8 314.6 
+Keri_Hilson/Lm2T_VvwZaA_0000010 355.2 365.3 
+Keri_Hilson/Lm2T_VvwZaA_0000011 377.3 388.1 
+Keri_Hilson/Lm2T_VvwZaA_0000012 390.2 399.6 
+Keri_Hilson/Lm2T_VvwZaA_0000013 404.9 409.8 
+Keri_Hilson/Lm2T_VvwZaA_0000014 445.9 456.2 
+Keri_Hilson/Lm2T_VvwZaA_0000015 458.8 464.1 
+Keri_Hilson/Lm2T_VvwZaA_0000016 700.6 713.6 
+Keri_Hilson/Lm2T_VvwZaA_0000017 853.9 861.6 
+Keri_Hilson/Lm2T_VvwZaA_0000018 902.8 906.8 
+Keri_Hilson/Lm2T_VvwZaA_0000019 907.8 912.2 
+Keri_Hilson/Lm2T_VvwZaA_0000020 1045.9 1054.5 

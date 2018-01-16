@@ -1,0 +1,13 @@
+POI: 			Lisa_Whelchel 
+Youtube ID: 	hd4GULc4SY4 
+Video length: 	137.9 sec 
+Set (V): 		dev 
+ 
+Lisa_Whelchel/hd4GULc4SY4_0000001 00.7 11.9 
+Lisa_Whelchel/hd4GULc4SY4_0000002 12.0 22.0 
+Lisa_Whelchel/hd4GULc4SY4_0000003 24.6 34.9 
+Lisa_Whelchel/hd4GULc4SY4_0000004 36.8 45.8 
+Lisa_Whelchel/hd4GULc4SY4_0000005 55.1 91.3 
+Lisa_Whelchel/hd4GULc4SY4_0000006 91.4 99.0 
+Lisa_Whelchel/hd4GULc4SY4_0000007 99.0 125.0 
+Lisa_Whelchel/hd4GULc4SY4_0000008 126.5 131.5 

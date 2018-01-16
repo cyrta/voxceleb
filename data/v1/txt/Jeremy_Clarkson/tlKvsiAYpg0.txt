@@ -1,0 +1,13 @@
+POI: 			Jeremy_Clarkson 
+Youtube ID: 	tlKvsiAYpg0 
+Video length: 	677.1 sec 
+Set (V): 		dev 
+ 
+Jeremy_Clarkson/tlKvsiAYpg0_0000001 68.0 72.2 
+Jeremy_Clarkson/tlKvsiAYpg0_0000002 130.9 136.0 
+Jeremy_Clarkson/tlKvsiAYpg0_0000003 148.7 156.6 
+Jeremy_Clarkson/tlKvsiAYpg0_0000004 168.4 173.3 
+Jeremy_Clarkson/tlKvsiAYpg0_0000005 363.4 367.7 
+Jeremy_Clarkson/tlKvsiAYpg0_0000006 371.8 377.4 
+Jeremy_Clarkson/tlKvsiAYpg0_0000007 382.4 386.8 
+Jeremy_Clarkson/tlKvsiAYpg0_0000008 398.6 403.0 

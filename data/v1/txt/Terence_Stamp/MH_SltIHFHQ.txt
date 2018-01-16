@@ -1,0 +1,9 @@
+POI: 			Terence_Stamp 
+Youtube ID: 	MH_SltIHFHQ 
+Video length: 	176.5 sec 
+Set (V): 		dev 
+ 
+Terence_Stamp/MH_SltIHFHQ_0000001 23.5 27.8 
+Terence_Stamp/MH_SltIHFHQ_0000002 28.4 32.8 
+Terence_Stamp/MH_SltIHFHQ_0000003 34.9 44.7 
+Terence_Stamp/MH_SltIHFHQ_0000004 68.2 79.5 

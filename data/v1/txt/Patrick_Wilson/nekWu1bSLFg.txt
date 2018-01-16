@@ -1,0 +1,10 @@
+POI: 			Patrick_Wilson 
+Youtube ID: 	nekWu1bSLFg 
+Video length: 	245.3 sec 
+Set (V): 		dev 
+ 
+Patrick_Wilson/nekWu1bSLFg_0000001 75.0 79.7 
+Patrick_Wilson/nekWu1bSLFg_0000002 79.8 90.8 
+Patrick_Wilson/nekWu1bSLFg_0000003 166.8 172.0 
+Patrick_Wilson/nekWu1bSLFg_0000004 178.0 182.8 
+Patrick_Wilson/nekWu1bSLFg_0000005 188.8 193.6 

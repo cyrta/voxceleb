@@ -1,0 +1,14 @@
+POI: 			Richard_Madden 
+Youtube ID: 	RqbzGi9ZrqA 
+Video length: 	1159.4 sec 
+Set (V): 		dev 
+ 
+Richard_Madden/RqbzGi9ZrqA_0000001 239.6 248.4 
+Richard_Madden/RqbzGi9ZrqA_0000002 320.8 326.3 
+Richard_Madden/RqbzGi9ZrqA_0000003 330.8 349.2 
+Richard_Madden/RqbzGi9ZrqA_0000004 414.8 419.4 
+Richard_Madden/RqbzGi9ZrqA_0000005 430.5 437.5 
+Richard_Madden/RqbzGi9ZrqA_0000006 752.0 761.0 
+Richard_Madden/RqbzGi9ZrqA_0000007 866.0 873.2 
+Richard_Madden/RqbzGi9ZrqA_0000008 873.3 885.8 
+Richard_Madden/RqbzGi9ZrqA_0000009 977.7 984.8 

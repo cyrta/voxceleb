@@ -1,0 +1,17 @@
+POI: 			Paul_Reubens 
+Youtube ID: 	DOmP8ZtaaFg 
+Video length: 	226.4 sec 
+Set (V): 		dev 
+ 
+Paul_Reubens/DOmP8ZtaaFg_0000001 14.6 18.8 
+Paul_Reubens/DOmP8ZtaaFg_0000002 101.6 105.6 
+Paul_Reubens/DOmP8ZtaaFg_0000003 122.0 138.5 
+Paul_Reubens/DOmP8ZtaaFg_0000004 139.0 143.1 
+Paul_Reubens/DOmP8ZtaaFg_0000005 144.0 149.0 
+Paul_Reubens/DOmP8ZtaaFg_0000006 149.5 156.3 
+Paul_Reubens/DOmP8ZtaaFg_0000007 162.8 171.2 
+Paul_Reubens/DOmP8ZtaaFg_0000008 182.2 187.2 
+Paul_Reubens/DOmP8ZtaaFg_0000009 188.0 194.3 
+Paul_Reubens/DOmP8ZtaaFg_0000010 201.9 206.5 
+Paul_Reubens/DOmP8ZtaaFg_0000011 203.0 209.3 
+Paul_Reubens/DOmP8ZtaaFg_0000012 220.3 225.0 

@@ -1,0 +1,7 @@
+POI: 			Oscar_Isaac 
+Youtube ID: 	ZmCyG09UuTA 
+Video length: 	170.0 sec 
+Set (V): 		dev 
+ 
+Oscar_Isaac/ZmCyG09UuTA_0000001 16.9 24.1 
+Oscar_Isaac/ZmCyG09UuTA_0000002 36.4 44.1 

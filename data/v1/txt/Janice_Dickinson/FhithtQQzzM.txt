@@ -1,0 +1,17 @@
+POI: 			Janice_Dickinson 
+Youtube ID: 	FhithtQQzzM 
+Video length: 	314.1 sec 
+Set (V): 		dev 
+ 
+Janice_Dickinson/FhithtQQzzM_0000001 19.0 34.4 
+Janice_Dickinson/FhithtQQzzM_0000002 38.2 46.3 
+Janice_Dickinson/FhithtQQzzM_0000003 74.9 79.5 
+Janice_Dickinson/FhithtQQzzM_0000004 96.2 103.8 
+Janice_Dickinson/FhithtQQzzM_0000005 164.4 168.6 
+Janice_Dickinson/FhithtQQzzM_0000006 172.7 188.5 
+Janice_Dickinson/FhithtQQzzM_0000007 194.5 199.4 
+Janice_Dickinson/FhithtQQzzM_0000008 200.0 205.4 
+Janice_Dickinson/FhithtQQzzM_0000009 221.2 228.8 
+Janice_Dickinson/FhithtQQzzM_0000010 240.6 247.0 
+Janice_Dickinson/FhithtQQzzM_0000011 284.5 291.3 
+Janice_Dickinson/FhithtQQzzM_0000012 299.6 312.4 

@@ -1,0 +1,21 @@
+POI: 			Jeffrey_Wright 
+Youtube ID: 	gZ8c2Vwwu9A 
+Video length: 	270.3 sec 
+Set (V): 		dev 
+ 
+Jeffrey_Wright/gZ8c2Vwwu9A_0000001 28.9 35.7 
+Jeffrey_Wright/gZ8c2Vwwu9A_0000002 36.2 50.9 
+Jeffrey_Wright/gZ8c2Vwwu9A_0000003 52.1 56.1 
+Jeffrey_Wright/gZ8c2Vwwu9A_0000004 57.1 68.3 
+Jeffrey_Wright/gZ8c2Vwwu9A_0000005 89.1 95.9 
+Jeffrey_Wright/gZ8c2Vwwu9A_0000006 96.0 105.0 
+Jeffrey_Wright/gZ8c2Vwwu9A_0000007 106.7 118.0 
+Jeffrey_Wright/gZ8c2Vwwu9A_0000008 118.7 134.1 
+Jeffrey_Wright/gZ8c2Vwwu9A_0000009 136.5 144.4 
+Jeffrey_Wright/gZ8c2Vwwu9A_0000010 175.0 179.2 
+Jeffrey_Wright/gZ8c2Vwwu9A_0000011 179.6 197.6 
+Jeffrey_Wright/gZ8c2Vwwu9A_0000012 203.4 213.7 
+Jeffrey_Wright/gZ8c2Vwwu9A_0000013 219.2 234.2 
+Jeffrey_Wright/gZ8c2Vwwu9A_0000014 240.8 245.2 
+Jeffrey_Wright/gZ8c2Vwwu9A_0000015 248.7 254.8 
+Jeffrey_Wright/gZ8c2Vwwu9A_0000016 255.1 267.7 

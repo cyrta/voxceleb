@@ -1,0 +1,12 @@
+POI: 			Cheryl_Ladd 
+Youtube ID: 	AEAKNHrtkLw 
+Video length: 	1227.6 sec 
+Set (V): 		dev 
+ 
+Cheryl_Ladd/AEAKNHrtkLw_0000001 87.7 98.1 
+Cheryl_Ladd/AEAKNHrtkLw_0000002 101.9 106.8 
+Cheryl_Ladd/AEAKNHrtkLw_0000003 129.5 137.6 
+Cheryl_Ladd/AEAKNHrtkLw_0000004 159.6 164.9 
+Cheryl_Ladd/AEAKNHrtkLw_0000005 242.6 251.0 
+Cheryl_Ladd/AEAKNHrtkLw_0000006 295.1 299.2 
+Cheryl_Ladd/AEAKNHrtkLw_0000007 718.2 724.8 

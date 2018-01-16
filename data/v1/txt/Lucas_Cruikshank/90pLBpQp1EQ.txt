@@ -1,0 +1,8 @@
+POI: 			Lucas_Cruikshank 
+Youtube ID: 	90pLBpQp1EQ 
+Video length: 	126.7 sec 
+Set (V): 		dev 
+ 
+Lucas_Cruikshank/90pLBpQp1EQ_0000001 25.5 30.8 
+Lucas_Cruikshank/90pLBpQp1EQ_0000002 47.3 52.4 
+Lucas_Cruikshank/90pLBpQp1EQ_0000003 58.1 63.9 

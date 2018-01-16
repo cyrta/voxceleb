@@ -1,0 +1,11 @@
+POI: 			Moran_Atias 
+Youtube ID: 	FCrKngo-AHk 
+Video length: 	263.4 sec 
+Set (V): 		dev 
+ 
+Moran_Atias/FCrKngo-AHk_0000001 11.9 17.7 
+Moran_Atias/FCrKngo-AHk_0000002 33.1 44.1 
+Moran_Atias/FCrKngo-AHk_0000003 100.6 105.4 
+Moran_Atias/FCrKngo-AHk_0000004 162.0 176.4 
+Moran_Atias/FCrKngo-AHk_0000005 200.0 205.4 
+Moran_Atias/FCrKngo-AHk_0000006 230.6 235.8 

@@ -1,0 +1,23 @@
+POI: 			Vanessa_Lachey 
+Youtube ID: 	2FgveNLCJHg 
+Video length: 	375.6 sec 
+Set (V): 		dev 
+ 
+Vanessa_Lachey/2FgveNLCJHg_0000001 56.4 64.7 
+Vanessa_Lachey/2FgveNLCJHg_0000002 74.6 96.3 
+Vanessa_Lachey/2FgveNLCJHg_0000003 98.6 105.0 
+Vanessa_Lachey/2FgveNLCJHg_0000004 121.0 129.9 
+Vanessa_Lachey/2FgveNLCJHg_0000005 131.8 135.8 
+Vanessa_Lachey/2FgveNLCJHg_0000006 136.2 144.7 
+Vanessa_Lachey/2FgveNLCJHg_0000007 156.9 166.8 
+Vanessa_Lachey/2FgveNLCJHg_0000008 206.9 222.3 
+Vanessa_Lachey/2FgveNLCJHg_0000009 227.0 238.2 
+Vanessa_Lachey/2FgveNLCJHg_0000010 249.3 257.4 
+Vanessa_Lachey/2FgveNLCJHg_0000011 262.4 272.0 
+Vanessa_Lachey/2FgveNLCJHg_0000012 273.0 277.3 
+Vanessa_Lachey/2FgveNLCJHg_0000013 278.4 294.9 
+Vanessa_Lachey/2FgveNLCJHg_0000014 301.2 309.6 
+Vanessa_Lachey/2FgveNLCJHg_0000015 318.9 323.0 
+Vanessa_Lachey/2FgveNLCJHg_0000016 323.8 328.4 
+Vanessa_Lachey/2FgveNLCJHg_0000017 338.7 345.3 
+Vanessa_Lachey/2FgveNLCJHg_0000018 346.7 352.8 

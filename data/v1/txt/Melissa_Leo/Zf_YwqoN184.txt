@@ -1,0 +1,11 @@
+POI: 			Melissa_Leo 
+Youtube ID: 	Zf_YwqoN184 
+Video length: 	381.2 sec 
+Set (V): 		dev 
+ 
+Melissa_Leo/Zf_YwqoN184_0000001 86.2 93.0 
+Melissa_Leo/Zf_YwqoN184_0000002 97.5 130.9 
+Melissa_Leo/Zf_YwqoN184_0000003 131.5 137.4 
+Melissa_Leo/Zf_YwqoN184_0000004 138.0 149.7 
+Melissa_Leo/Zf_YwqoN184_0000005 155.0 166.8 
+Melissa_Leo/Zf_YwqoN184_0000006 167.5 173.8 

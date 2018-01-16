@@ -1,0 +1,9 @@
+POI: 			Sara_Ramirez 
+Youtube ID: 	8Uip3cl8b8w 
+Video length: 	373.7 sec 
+Set (V): 		dev 
+ 
+Sara_Ramirez/8Uip3cl8b8w_0000001 66.8 72.5 
+Sara_Ramirez/8Uip3cl8b8w_0000002 114.7 118.9 
+Sara_Ramirez/8Uip3cl8b8w_0000003 138.2 151.4 
+Sara_Ramirez/8Uip3cl8b8w_0000004 165.9 173.7 

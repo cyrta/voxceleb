@@ -1,0 +1,8 @@
+POI: 			Rutger_Hauer 
+Youtube ID: 	6XmtyLkdEm4 
+Video length: 	243.4 sec 
+Set (V): 		dev 
+ 
+Rutger_Hauer/6XmtyLkdEm4_0000001 54.9 58.9 
+Rutger_Hauer/6XmtyLkdEm4_0000002 126.8 132.5 
+Rutger_Hauer/6XmtyLkdEm4_0000003 166.4 171.8 

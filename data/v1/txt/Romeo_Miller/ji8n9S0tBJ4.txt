@@ -1,0 +1,11 @@
+POI: 			Romeo_Miller 
+Youtube ID: 	ji8n9S0tBJ4 
+Video length: 	208.6 sec 
+Set (V): 		dev 
+ 
+Romeo_Miller/ji8n9S0tBJ4_0000001 19.8 31.0 
+Romeo_Miller/ji8n9S0tBJ4_0000002 40.7 45.5 
+Romeo_Miller/ji8n9S0tBJ4_0000003 108.7 114.5 
+Romeo_Miller/ji8n9S0tBJ4_0000004 149.2 157.5 
+Romeo_Miller/ji8n9S0tBJ4_0000005 159.4 166.0 
+Romeo_Miller/ji8n9S0tBJ4_0000006 172.2 177.3 

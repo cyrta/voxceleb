@@ -1,0 +1,7 @@
+POI: 			Sarah_Drew 
+Youtube ID: 	uBh-Uj8R3Mo 
+Video length: 	234.6 sec 
+Set (V): 		dev 
+ 
+Sarah_Drew/uBh-Uj8R3Mo_0000001 125.6 134.6 
+Sarah_Drew/uBh-Uj8R3Mo_0000002 137.2 152.0 

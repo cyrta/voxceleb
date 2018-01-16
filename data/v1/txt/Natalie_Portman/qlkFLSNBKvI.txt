@@ -1,0 +1,18 @@
+POI: 			Natalie_Portman 
+Youtube ID: 	qlkFLSNBKvI 
+Video length: 	297.2 sec 
+Set (V): 		dev 
+ 
+Natalie_Portman/qlkFLSNBKvI_0000001 37.2 53.0 
+Natalie_Portman/qlkFLSNBKvI_0000002 69.4 95.6 
+Natalie_Portman/qlkFLSNBKvI_0000003 99.1 109.4 
+Natalie_Portman/qlkFLSNBKvI_0000004 109.7 117.6 
+Natalie_Portman/qlkFLSNBKvI_0000005 125.4 131.0 
+Natalie_Portman/qlkFLSNBKvI_0000006 131.5 137.7 
+Natalie_Portman/qlkFLSNBKvI_0000007 169.2 173.1 
+Natalie_Portman/qlkFLSNBKvI_0000008 183.0 189.1 
+Natalie_Portman/qlkFLSNBKvI_0000009 191.6 211.3 
+Natalie_Portman/qlkFLSNBKvI_0000010 213.3 219.4 
+Natalie_Portman/qlkFLSNBKvI_0000011 225.6 235.7 
+Natalie_Portman/qlkFLSNBKvI_0000012 241.5 250.3 
+Natalie_Portman/qlkFLSNBKvI_0000013 277.5 286.3 

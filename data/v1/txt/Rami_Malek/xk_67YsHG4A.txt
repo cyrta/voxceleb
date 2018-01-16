@@ -1,0 +1,9 @@
+POI: 			Rami_Malek 
+Youtube ID: 	xk_67YsHG4A 
+Video length: 	518.4 sec 
+Set (V): 		dev 
+ 
+Rami_Malek/xk_67YsHG4A_0000001 93.9 100.5 
+Rami_Malek/xk_67YsHG4A_0000002 218.8 225.1 
+Rami_Malek/xk_67YsHG4A_0000003 238.4 247.2 
+Rami_Malek/xk_67YsHG4A_0000004 264.8 268.8 

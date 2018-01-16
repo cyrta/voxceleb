@@ -1,0 +1,14 @@
+POI: 			Emily_Atack 
+Youtube ID: 	4aLg_keiGHw 
+Video length: 	123.8 sec 
+Set (V): 		test 
+ 
+Emily_Atack/4aLg_keiGHw_0000001 04.0 18.4 
+Emily_Atack/4aLg_keiGHw_0000002 28.8 32.8 
+Emily_Atack/4aLg_keiGHw_0000003 34.8 42.7 
+Emily_Atack/4aLg_keiGHw_0000004 48.7 57.0 
+Emily_Atack/4aLg_keiGHw_0000005 59.9 67.1 
+Emily_Atack/4aLg_keiGHw_0000006 68.1 75.8 
+Emily_Atack/4aLg_keiGHw_0000007 65.2 76.0 
+Emily_Atack/4aLg_keiGHw_0000008 82.3 93.2 
+Emily_Atack/4aLg_keiGHw_0000009 96.1 105.9 

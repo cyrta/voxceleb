@@ -1,0 +1,7 @@
+POI: 			Simon_Baker 
+Youtube ID: 	mCxQ94Y03GI 
+Video length: 	137.2 sec 
+Set (V): 		dev 
+ 
+Simon_Baker/mCxQ94Y03GI_0000001 71.4 79.3 
+Simon_Baker/mCxQ94Y03GI_0000002 84.3 93.1 

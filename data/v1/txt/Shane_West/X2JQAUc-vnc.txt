@@ -1,0 +1,10 @@
+POI: 			Shane_West 
+Youtube ID: 	X2JQAUc-vnc 
+Video length: 	159.5 sec 
+Set (V): 		dev 
+ 
+Shane_West/X2JQAUc-vnc_0000001 05.7 14.1 
+Shane_West/X2JQAUc-vnc_0000002 25.2 32.6 
+Shane_West/X2JQAUc-vnc_0000003 130.5 136.6 
+Shane_West/X2JQAUc-vnc_0000004 137.1 141.3 
+Shane_West/X2JQAUc-vnc_0000005 141.9 148.1 

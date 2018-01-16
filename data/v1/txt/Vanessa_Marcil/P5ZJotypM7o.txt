@@ -1,0 +1,23 @@
+POI: 			Vanessa_Marcil 
+Youtube ID: 	P5ZJotypM7o 
+Video length: 	388.6 sec 
+Set (V): 		dev 
+ 
+Vanessa_Marcil/P5ZJotypM7o_0000001 32.0 45.8 
+Vanessa_Marcil/P5ZJotypM7o_0000002 58.2 71.8 
+Vanessa_Marcil/P5ZJotypM7o_0000003 79.2 113.0 
+Vanessa_Marcil/P5ZJotypM7o_0000004 116.5 120.6 
+Vanessa_Marcil/P5ZJotypM7o_0000005 126.2 133.0 
+Vanessa_Marcil/P5ZJotypM7o_0000006 150.8 169.3 
+Vanessa_Marcil/P5ZJotypM7o_0000007 194.8 201.8 
+Vanessa_Marcil/P5ZJotypM7o_0000008 205.8 214.3 
+Vanessa_Marcil/P5ZJotypM7o_0000009 225.2 234.2 
+Vanessa_Marcil/P5ZJotypM7o_0000010 237.4 241.6 
+Vanessa_Marcil/P5ZJotypM7o_0000011 242.2 252.3 
+Vanessa_Marcil/P5ZJotypM7o_0000012 270.5 275.0 
+Vanessa_Marcil/P5ZJotypM7o_0000013 278.2 286.7 
+Vanessa_Marcil/P5ZJotypM7o_0000014 297.1 301.1 
+Vanessa_Marcil/P5ZJotypM7o_0000015 301.6 309.3 
+Vanessa_Marcil/P5ZJotypM7o_0000016 311.4 315.7 
+Vanessa_Marcil/P5ZJotypM7o_0000017 360.4 371.6 
+Vanessa_Marcil/P5ZJotypM7o_0000018 364.7 368.8 

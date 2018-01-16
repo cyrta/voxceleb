@@ -1,0 +1,9 @@
+POI: 			Betty_White 
+Youtube ID: 	ehlf3DDzcNA 
+Video length: 	427.6 sec 
+Set (V): 		dev 
+ 
+Betty_White/ehlf3DDzcNA_0000001 126.3 135.3 
+Betty_White/ehlf3DDzcNA_0000002 135.8 143.9 
+Betty_White/ehlf3DDzcNA_0000003 185.5 201.3 
+Betty_White/ehlf3DDzcNA_0000004 201.6 206.3 

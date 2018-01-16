@@ -1,0 +1,8 @@
+POI: 			Seann_William_Scott 
+Youtube ID: 	uzmhrmJLNoM 
+Video length: 	34.0 sec 
+Set (V): 		dev 
+ 
+Seann_William_Scott/uzmhrmJLNoM_0000001 01.0 11.1 
+Seann_William_Scott/uzmhrmJLNoM_0000002 12.9 19.4 
+Seann_William_Scott/uzmhrmJLNoM_0000003 25.4 32.5 

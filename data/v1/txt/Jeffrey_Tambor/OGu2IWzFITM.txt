@@ -1,0 +1,16 @@
+POI: 			Jeffrey_Tambor 
+Youtube ID: 	OGu2IWzFITM 
+Video length: 	249.8 sec 
+Set (V): 		dev 
+ 
+Jeffrey_Tambor/OGu2IWzFITM_0000001 15.8 20.2 
+Jeffrey_Tambor/OGu2IWzFITM_0000002 50.0 54.4 
+Jeffrey_Tambor/OGu2IWzFITM_0000003 57.4 69.5 
+Jeffrey_Tambor/OGu2IWzFITM_0000004 84.0 90.1 
+Jeffrey_Tambor/OGu2IWzFITM_0000005 91.8 95.8 
+Jeffrey_Tambor/OGu2IWzFITM_0000006 109.9 114.3 
+Jeffrey_Tambor/OGu2IWzFITM_0000007 131.2 137.0 
+Jeffrey_Tambor/OGu2IWzFITM_0000008 144.4 163.6 
+Jeffrey_Tambor/OGu2IWzFITM_0000009 174.2 188.6 
+Jeffrey_Tambor/OGu2IWzFITM_0000010 223.1 227.2 
+Jeffrey_Tambor/OGu2IWzFITM_0000011 228.0 236.1 

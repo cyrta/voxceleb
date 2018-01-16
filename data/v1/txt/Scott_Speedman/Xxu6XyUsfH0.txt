@@ -1,0 +1,11 @@
+POI: 			Scott_Speedman 
+Youtube ID: 	Xxu6XyUsfH0 
+Video length: 	351.2 sec 
+Set (V): 		dev 
+ 
+Scott_Speedman/Xxu6XyUsfH0_0000001 163.6 167.9 
+Scott_Speedman/Xxu6XyUsfH0_0000002 173.2 178.8 
+Scott_Speedman/Xxu6XyUsfH0_0000003 200.5 204.5 
+Scott_Speedman/Xxu6XyUsfH0_0000004 223.8 232.7 
+Scott_Speedman/Xxu6XyUsfH0_0000005 266.0 275.5 
+Scott_Speedman/Xxu6XyUsfH0_0000006 309.2 314.8 

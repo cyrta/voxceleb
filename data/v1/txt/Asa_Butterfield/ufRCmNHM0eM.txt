@@ -1,0 +1,7 @@
+POI: 			Asa_Butterfield 
+Youtube ID: 	ufRCmNHM0eM 
+Video length: 	270.8 sec 
+Set (V): 		dev 
+ 
+Asa_Butterfield/ufRCmNHM0eM_0000001 190.8 195.0 
+Asa_Butterfield/ufRCmNHM0eM_0000002 202.0 206.2 

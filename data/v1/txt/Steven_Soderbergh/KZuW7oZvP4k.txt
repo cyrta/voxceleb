@@ -1,0 +1,7 @@
+POI: 			Steven_Soderbergh 
+Youtube ID: 	KZuW7oZvP4k 
+Video length: 	538.2 sec 
+Set (V): 		dev 
+ 
+Steven_Soderbergh/KZuW7oZvP4k_0000001 85.2 90.0 
+Steven_Soderbergh/KZuW7oZvP4k_0000002 100.3 105.5 

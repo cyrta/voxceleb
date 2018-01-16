@@ -1,0 +1,10 @@
+POI: 			Nathan_Fillion 
+Youtube ID: 	iUULtsWGfbc 
+Video length: 	176.7 sec 
+Set (V): 		dev 
+ 
+Nathan_Fillion/iUULtsWGfbc_0000001 05.5 11.0 
+Nathan_Fillion/iUULtsWGfbc_0000002 31.4 37.4 
+Nathan_Fillion/iUULtsWGfbc_0000003 43.7 52.4 
+Nathan_Fillion/iUULtsWGfbc_0000004 63.7 77.5 
+Nathan_Fillion/iUULtsWGfbc_0000005 146.2 152.9 

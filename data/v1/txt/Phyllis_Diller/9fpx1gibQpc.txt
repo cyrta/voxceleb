@@ -1,0 +1,8 @@
+POI: 			Phyllis_Diller 
+Youtube ID: 	9fpx1gibQpc 
+Video length: 	842.1 sec 
+Set (V): 		dev 
+ 
+Phyllis_Diller/9fpx1gibQpc_0000001 643.7 649.6 
+Phyllis_Diller/9fpx1gibQpc_0000002 650.4 657.2 
+Phyllis_Diller/9fpx1gibQpc_0000003 707.5 711.6 

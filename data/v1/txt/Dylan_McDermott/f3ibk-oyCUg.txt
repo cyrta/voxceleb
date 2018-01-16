@@ -1,0 +1,9 @@
+POI: 			Dylan_McDermott 
+Youtube ID: 	f3ibk-oyCUg 
+Video length: 	181.8 sec 
+Set (V): 		dev 
+ 
+Dylan_McDermott/f3ibk-oyCUg_0000001 91.5 95.6 
+Dylan_McDermott/f3ibk-oyCUg_0000002 96.2 101.6 
+Dylan_McDermott/f3ibk-oyCUg_0000003 116.0 122.8 
+Dylan_McDermott/f3ibk-oyCUg_0000004 156.4 167.5 

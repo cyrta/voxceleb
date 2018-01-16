@@ -1,0 +1,9 @@
+POI: 			Bill_Pullman 
+Youtube ID: 	NgZrmUD62qM 
+Video length: 	671.0 sec 
+Set (V): 		dev 
+ 
+Bill_Pullman/NgZrmUD62qM_0000001 67.0 71.0 
+Bill_Pullman/NgZrmUD62qM_0000002 250.9 255.0 
+Bill_Pullman/NgZrmUD62qM_0000003 446.7 456.0 
+Bill_Pullman/NgZrmUD62qM_0000004 600.8 605.2 

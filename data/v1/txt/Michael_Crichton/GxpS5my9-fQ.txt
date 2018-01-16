@@ -1,0 +1,7 @@
+POI: 			Michael_Crichton 
+Youtube ID: 	GxpS5my9-fQ 
+Video length: 	216.3 sec 
+Set (V): 		dev 
+ 
+Michael_Crichton/GxpS5my9-fQ_0000001 105.9 112.4 
+Michael_Crichton/GxpS5my9-fQ_0000002 193.0 198.5 

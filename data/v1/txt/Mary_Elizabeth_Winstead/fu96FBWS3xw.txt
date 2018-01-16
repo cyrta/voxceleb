@@ -1,0 +1,11 @@
+POI: 			Mary_Elizabeth_Winstead 
+Youtube ID: 	fu96FBWS3xw 
+Video length: 	466.7 sec 
+Set (V): 		dev 
+ 
+Mary_Elizabeth_Winstead/fu96FBWS3xw_0000001 36.6 52.7 
+Mary_Elizabeth_Winstead/fu96FBWS3xw_0000002 60.2 75.6 
+Mary_Elizabeth_Winstead/fu96FBWS3xw_0000003 79.4 85.1 
+Mary_Elizabeth_Winstead/fu96FBWS3xw_0000004 85.6 104.3 
+Mary_Elizabeth_Winstead/fu96FBWS3xw_0000005 104.4 118.5 
+Mary_Elizabeth_Winstead/fu96FBWS3xw_0000006 127.3 134.4 

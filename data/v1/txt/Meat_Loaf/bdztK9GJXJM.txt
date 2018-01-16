@@ -1,0 +1,20 @@
+POI: 			Meat_Loaf 
+Youtube ID: 	bdztK9GJXJM 
+Video length: 	362.3 sec 
+Set (V): 		dev 
+ 
+Meat_Loaf/bdztK9GJXJM_0000001 30.2 35.6 
+Meat_Loaf/bdztK9GJXJM_0000002 38.0 42.2 
+Meat_Loaf/bdztK9GJXJM_0000003 60.3 64.4 
+Meat_Loaf/bdztK9GJXJM_0000004 75.3 82.0 
+Meat_Loaf/bdztK9GJXJM_0000005 83.8 94.0 
+Meat_Loaf/bdztK9GJXJM_0000006 96.7 101.4 
+Meat_Loaf/bdztK9GJXJM_0000007 110.5 119.5 
+Meat_Loaf/bdztK9GJXJM_0000008 150.6 161.5 
+Meat_Loaf/bdztK9GJXJM_0000009 168.5 181.2 
+Meat_Loaf/bdztK9GJXJM_0000010 182.3 194.5 
+Meat_Loaf/bdztK9GJXJM_0000011 241.5 247.7 
+Meat_Loaf/bdztK9GJXJM_0000012 268.8 303.6 
+Meat_Loaf/bdztK9GJXJM_0000013 309.1 319.0 
+Meat_Loaf/bdztK9GJXJM_0000014 321.0 331.3 
+Meat_Loaf/bdztK9GJXJM_0000015 346.9 357.1 

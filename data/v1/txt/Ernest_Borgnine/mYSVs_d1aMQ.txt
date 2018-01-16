@@ -1,0 +1,18 @@
+POI: 			Ernest_Borgnine 
+Youtube ID: 	mYSVs_d1aMQ 
+Video length: 	270.4 sec 
+Set (V): 		test 
+ 
+Ernest_Borgnine/mYSVs_d1aMQ_0000001 09.7 17.1 
+Ernest_Borgnine/mYSVs_d1aMQ_0000002 18.4 23.8 
+Ernest_Borgnine/mYSVs_d1aMQ_0000003 25.8 30.6 
+Ernest_Borgnine/mYSVs_d1aMQ_0000004 31.8 36.6 
+Ernest_Borgnine/mYSVs_d1aMQ_0000005 46.7 55.4 
+Ernest_Borgnine/mYSVs_d1aMQ_0000006 64.5 80.0 
+Ernest_Borgnine/mYSVs_d1aMQ_0000007 82.8 94.6 
+Ernest_Borgnine/mYSVs_d1aMQ_0000008 80.8 94.6 
+Ernest_Borgnine/mYSVs_d1aMQ_0000009 197.2 202.0 
+Ernest_Borgnine/mYSVs_d1aMQ_0000010 202.9 208.5 
+Ernest_Borgnine/mYSVs_d1aMQ_0000011 221.6 226.8 
+Ernest_Borgnine/mYSVs_d1aMQ_0000012 221.6 231.9 
+Ernest_Borgnine/mYSVs_d1aMQ_0000013 243.0 247.2 

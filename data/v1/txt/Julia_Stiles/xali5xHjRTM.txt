@@ -1,0 +1,14 @@
+POI: 			Julia_Stiles 
+Youtube ID: 	xali5xHjRTM 
+Video length: 	411.1 sec 
+Set (V): 		dev 
+ 
+Julia_Stiles/xali5xHjRTM_0000001 125.8 130.4 
+Julia_Stiles/xali5xHjRTM_0000002 128.4 134.0 
+Julia_Stiles/xali5xHjRTM_0000003 188.8 194.7 
+Julia_Stiles/xali5xHjRTM_0000004 313.0 322.0 
+Julia_Stiles/xali5xHjRTM_0000005 322.6 337.6 
+Julia_Stiles/xali5xHjRTM_0000006 338.4 347.4 
+Julia_Stiles/xali5xHjRTM_0000007 347.8 357.2 
+Julia_Stiles/xali5xHjRTM_0000008 366.1 372.5 
+Julia_Stiles/xali5xHjRTM_0000009 375.4 390.1 

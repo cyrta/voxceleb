@@ -1,0 +1,14 @@
+POI: 			Mila_Kunis 
+Youtube ID: 	2GeMCGMlvuE 
+Video length: 	429.8 sec 
+Set (V): 		dev 
+ 
+Mila_Kunis/2GeMCGMlvuE_0000001 117.5 122.6 
+Mila_Kunis/2GeMCGMlvuE_0000002 140.8 151.8 
+Mila_Kunis/2GeMCGMlvuE_0000003 158.3 164.3 
+Mila_Kunis/2GeMCGMlvuE_0000004 194.9 200.2 
+Mila_Kunis/2GeMCGMlvuE_0000005 238.7 244.1 
+Mila_Kunis/2GeMCGMlvuE_0000006 315.6 320.6 
+Mila_Kunis/2GeMCGMlvuE_0000007 327.8 334.0 
+Mila_Kunis/2GeMCGMlvuE_0000008 359.1 366.5 
+Mila_Kunis/2GeMCGMlvuE_0000009 372.8 384.9 

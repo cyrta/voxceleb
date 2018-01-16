@@ -1,0 +1,12 @@
+POI: 			Joss_Stone 
+Youtube ID: 	2DSvEA4x-cI 
+Video length: 	1037.7 sec 
+Set (V): 		dev 
+ 
+Joss_Stone/2DSvEA4x-cI_0000001 50.3 56.3 
+Joss_Stone/2DSvEA4x-cI_0000002 133.4 138.2 
+Joss_Stone/2DSvEA4x-cI_0000003 208.9 214.4 
+Joss_Stone/2DSvEA4x-cI_0000004 230.9 236.2 
+Joss_Stone/2DSvEA4x-cI_0000005 434.6 444.4 
+Joss_Stone/2DSvEA4x-cI_0000006 517.0 523.7 
+Joss_Stone/2DSvEA4x-cI_0000007 737.1 742.7 

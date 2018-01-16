@@ -1,0 +1,7 @@
+POI: 			Dave_Bautista 
+Youtube ID: 	dYghTM9be7g 
+Video length: 	180.0 sec 
+Set (V): 		dev 
+ 
+Dave_Bautista/dYghTM9be7g_0000001 40.0 44.5 
+Dave_Bautista/dYghTM9be7g_0000002 156.4 160.5 

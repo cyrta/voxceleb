@@ -1,0 +1,12 @@
+POI: 			Dominic_Cooper 
+Youtube ID: 	ylhOiqB80UE 
+Video length: 	214.5 sec 
+Set (V): 		dev 
+ 
+Dominic_Cooper/ylhOiqB80UE_0000001 58.1 62.1 
+Dominic_Cooper/ylhOiqB80UE_0000002 96.8 101.7 
+Dominic_Cooper/ylhOiqB80UE_0000003 132.2 137.7 
+Dominic_Cooper/ylhOiqB80UE_0000004 138.4 143.5 
+Dominic_Cooper/ylhOiqB80UE_0000005 144.9 154.0 
+Dominic_Cooper/ylhOiqB80UE_0000006 190.6 197.4 
+Dominic_Cooper/ylhOiqB80UE_0000007 198.4 205.0 

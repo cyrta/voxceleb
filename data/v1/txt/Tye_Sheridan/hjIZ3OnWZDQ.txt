@@ -1,0 +1,8 @@
+POI: 			Tye_Sheridan 
+Youtube ID: 	hjIZ3OnWZDQ 
+Video length: 	671.9 sec 
+Set (V): 		dev 
+ 
+Tye_Sheridan/hjIZ3OnWZDQ_0000001 259.8 266.3 
+Tye_Sheridan/hjIZ3OnWZDQ_0000002 268.9 273.3 
+Tye_Sheridan/hjIZ3OnWZDQ_0000003 287.1 291.2 

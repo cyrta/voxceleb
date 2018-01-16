@@ -1,0 +1,7 @@
+POI: 			Geena_Davis 
+Youtube ID: 	0pluqlwP434 
+Video length: 	137.3 sec 
+Set (V): 		dev 
+ 
+Geena_Davis/0pluqlwP434_0000001 79.8 87.0 
+Geena_Davis/0pluqlwP434_0000002 109.9 118.8 

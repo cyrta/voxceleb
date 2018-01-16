@@ -1,0 +1,12 @@
+POI: 			Michael_Bay 
+Youtube ID: 	JyB7G83stl8 
+Video length: 	209.6 sec 
+Set (V): 		dev 
+ 
+Michael_Bay/JyB7G83stl8_0000001 14.5 19.3 
+Michael_Bay/JyB7G83stl8_0000002 23.2 34.3 
+Michael_Bay/JyB7G83stl8_0000003 36.7 46.9 
+Michael_Bay/JyB7G83stl8_0000004 49.8 54.5 
+Michael_Bay/JyB7G83stl8_0000005 94.3 108.9 
+Michael_Bay/JyB7G83stl8_0000006 123.4 127.6 
+Michael_Bay/JyB7G83stl8_0000007 152.1 157.7 

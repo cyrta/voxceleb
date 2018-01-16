@@ -1,0 +1,14 @@
+POI: 			Luc_Besson 
+Youtube ID: 	tXXead9Qiy8 
+Video length: 	427.2 sec 
+Set (V): 		dev 
+ 
+Luc_Besson/tXXead9Qiy8_0000001 26.6 35.0 
+Luc_Besson/tXXead9Qiy8_0000002 42.3 50.5 
+Luc_Besson/tXXead9Qiy8_0000003 52.0 61.0 
+Luc_Besson/tXXead9Qiy8_0000004 153.9 159.4 
+Luc_Besson/tXXead9Qiy8_0000005 163.0 170.6 
+Luc_Besson/tXXead9Qiy8_0000006 185.2 189.7 
+Luc_Besson/tXXead9Qiy8_0000007 244.8 253.0 
+Luc_Besson/tXXead9Qiy8_0000008 253.6 272.2 
+Luc_Besson/tXXead9Qiy8_0000009 273.9 279.5 

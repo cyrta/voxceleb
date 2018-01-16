@@ -1,0 +1,8 @@
+POI: 			Chadwick_Boseman 
+Youtube ID: 	mhiuyCWZOuY 
+Video length: 	96.2 sec 
+Set (V): 		dev 
+ 
+Chadwick_Boseman/mhiuyCWZOuY_0000001 12.4 22.3 
+Chadwick_Boseman/mhiuyCWZOuY_0000002 29.4 36.5 
+Chadwick_Boseman/mhiuyCWZOuY_0000003 37.0 54.2 

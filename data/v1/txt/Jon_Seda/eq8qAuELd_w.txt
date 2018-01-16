@@ -1,0 +1,7 @@
+POI: 			Jon_Seda 
+Youtube ID: 	eq8qAuELd_w 
+Video length: 	46.7 sec 
+Set (V): 		dev 
+ 
+Jon_Seda/eq8qAuELd_w_0000001 00.9 05.5 
+Jon_Seda/eq8qAuELd_w_0000002 30.8 35.5 

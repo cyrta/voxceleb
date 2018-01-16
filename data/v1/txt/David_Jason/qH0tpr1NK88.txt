@@ -1,0 +1,10 @@
+POI: 			David_Jason 
+Youtube ID: 	qH0tpr1NK88 
+Video length: 	1189.4 sec 
+Set (V): 		dev 
+ 
+David_Jason/qH0tpr1NK88_0000001 65.4 73.0 
+David_Jason/qH0tpr1NK88_0000002 349.4 358.4 
+David_Jason/qH0tpr1NK88_0000003 393.9 399.5 
+David_Jason/qH0tpr1NK88_0000004 400.4 404.8 
+David_Jason/qH0tpr1NK88_0000005 486.0 492.7 

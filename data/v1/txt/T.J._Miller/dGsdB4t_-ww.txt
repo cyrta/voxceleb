@@ -1,0 +1,9 @@
+POI: 			T.J._Miller 
+Youtube ID: 	dGsdB4t_-ww 
+Video length: 	208.5 sec 
+Set (V): 		dev 
+ 
+T.J._Miller/dGsdB4t_-ww_0000001 39.7 45.6 
+T.J._Miller/dGsdB4t_-ww_0000002 127.1 131.8 
+T.J._Miller/dGsdB4t_-ww_0000003 162.7 168.9 
+T.J._Miller/dGsdB4t_-ww_0000004 177.5 186.0 

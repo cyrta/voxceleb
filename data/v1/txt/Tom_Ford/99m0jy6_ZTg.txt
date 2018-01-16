@@ -1,0 +1,17 @@
+POI: 			Tom_Ford 
+Youtube ID: 	99m0jy6_ZTg 
+Video length: 	152.8 sec 
+Set (V): 		dev 
+ 
+Tom_Ford/99m0jy6_ZTg_0000001 08.6 27.0 
+Tom_Ford/99m0jy6_ZTg_0000002 33.6 44.7 
+Tom_Ford/99m0jy6_ZTg_0000003 54.8 60.8 
+Tom_Ford/99m0jy6_ZTg_0000004 61.0 67.0 
+Tom_Ford/99m0jy6_ZTg_0000005 73.7 78.1 
+Tom_Ford/99m0jy6_ZTg_0000006 78.8 86.2 
+Tom_Ford/99m0jy6_ZTg_0000007 87.2 92.0 
+Tom_Ford/99m0jy6_ZTg_0000008 99.1 106.8 
+Tom_Ford/99m0jy6_ZTg_0000009 111.8 117.7 
+Tom_Ford/99m0jy6_ZTg_0000010 130.7 138.0 
+Tom_Ford/99m0jy6_ZTg_0000011 138.2 144.6 
+Tom_Ford/99m0jy6_ZTg_0000012 145.5 151.3 

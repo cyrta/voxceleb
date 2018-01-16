@@ -1,0 +1,8 @@
+POI: 			Burt_Reynolds 
+Youtube ID: 	iyELCq_kFGc 
+Video length: 	817.9 sec 
+Set (V): 		dev 
+ 
+Burt_Reynolds/iyELCq_kFGc_0000001 173.5 177.8 
+Burt_Reynolds/iyELCq_kFGc_0000002 497.4 501.7 
+Burt_Reynolds/iyELCq_kFGc_0000003 552.1 558.2 

@@ -1,0 +1,11 @@
+POI: 			Tilda_Swinton 
+Youtube ID: 	uauy9dPyS1Y 
+Video length: 	1097.8 sec 
+Set (V): 		dev 
+ 
+Tilda_Swinton/uauy9dPyS1Y_0000001 447.4 453.6 
+Tilda_Swinton/uauy9dPyS1Y_0000002 741.6 745.7 
+Tilda_Swinton/uauy9dPyS1Y_0000003 880.4 892.4 
+Tilda_Swinton/uauy9dPyS1Y_0000004 895.3 905.0 
+Tilda_Swinton/uauy9dPyS1Y_0000005 1078.5 1083.0 
+Tilda_Swinton/uauy9dPyS1Y_0000006 1084.1 1090.8 

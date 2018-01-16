@@ -1,0 +1,12 @@
+POI: 			Tilda_Swinton 
+Youtube ID: 	QAmdpqfAtTA 
+Video length: 	149.8 sec 
+Set (V): 		dev 
+ 
+Tilda_Swinton/QAmdpqfAtTA_0000001 49.3 55.3 
+Tilda_Swinton/QAmdpqfAtTA_0000002 71.4 88.0 
+Tilda_Swinton/QAmdpqfAtTA_0000003 90.4 94.4 
+Tilda_Swinton/QAmdpqfAtTA_0000004 97.7 101.9 
+Tilda_Swinton/QAmdpqfAtTA_0000005 102.0 116.1 
+Tilda_Swinton/QAmdpqfAtTA_0000006 119.0 124.5 
+Tilda_Swinton/QAmdpqfAtTA_0000007 129.0 135.8 

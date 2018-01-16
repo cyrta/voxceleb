@@ -1,0 +1,12 @@
+POI: 			Brit_Marling 
+Youtube ID: 	mIuxefp7sKg 
+Video length: 	336.2 sec 
+Set (V): 		dev 
+ 
+Brit_Marling/mIuxefp7sKg_0000001 11.6 27.6 
+Brit_Marling/mIuxefp7sKg_0000002 27.7 45.4 
+Brit_Marling/mIuxefp7sKg_0000003 224.6 245.2 
+Brit_Marling/mIuxefp7sKg_0000004 246.0 250.4 
+Brit_Marling/mIuxefp7sKg_0000005 250.5 261.8 
+Brit_Marling/mIuxefp7sKg_0000006 255.4 261.5 
+Brit_Marling/mIuxefp7sKg_0000007 270.8 276.6 

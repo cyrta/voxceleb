@@ -1,0 +1,8 @@
+POI: 			Mark_Harmon 
+Youtube ID: 	e0w_yngoNjM 
+Video length: 	118.9 sec 
+Set (V): 		dev 
+ 
+Mark_Harmon/e0w_yngoNjM_0000001 16.4 21.8 
+Mark_Harmon/e0w_yngoNjM_0000002 32.9 37.7 
+Mark_Harmon/e0w_yngoNjM_0000003 61.2 65.9 

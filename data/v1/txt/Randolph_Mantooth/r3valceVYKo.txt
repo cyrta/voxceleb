@@ -1,0 +1,9 @@
+POI: 			Randolph_Mantooth 
+Youtube ID: 	r3valceVYKo 
+Video length: 	186.4 sec 
+Set (V): 		dev 
+ 
+Randolph_Mantooth/r3valceVYKo_0000001 06.6 13.2 
+Randolph_Mantooth/r3valceVYKo_0000002 62.1 72.0 
+Randolph_Mantooth/r3valceVYKo_0000003 83.8 89.9 
+Randolph_Mantooth/r3valceVYKo_0000004 96.0 109.2 

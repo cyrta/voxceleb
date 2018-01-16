@@ -1,0 +1,16 @@
+POI: 			John_Oliver 
+Youtube ID: 	R7Nh7IBzJiw 
+Video length: 	379.8 sec 
+Set (V): 		dev 
+ 
+John_Oliver/R7Nh7IBzJiw_0000001 114.0 120.6 
+John_Oliver/R7Nh7IBzJiw_0000002 130.1 137.0 
+John_Oliver/R7Nh7IBzJiw_0000003 212.6 216.8 
+John_Oliver/R7Nh7IBzJiw_0000004 224.8 231.4 
+John_Oliver/R7Nh7IBzJiw_0000005 237.1 241.8 
+John_Oliver/R7Nh7IBzJiw_0000006 245.8 255.2 
+John_Oliver/R7Nh7IBzJiw_0000007 260.8 270.8 
+John_Oliver/R7Nh7IBzJiw_0000008 280.4 295.4 
+John_Oliver/R7Nh7IBzJiw_0000009 310.2 315.9 
+John_Oliver/R7Nh7IBzJiw_0000010 321.5 325.8 
+John_Oliver/R7Nh7IBzJiw_0000011 347.8 354.5 

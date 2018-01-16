@@ -1,0 +1,27 @@
+POI: 			Nazanin_Boniadi 
+Youtube ID: 	TnHpZXrLNBI 
+Video length: 	454.6 sec 
+Set (V): 		dev 
+ 
+Nazanin_Boniadi/TnHpZXrLNBI_0000001 54.4 59.0 
+Nazanin_Boniadi/TnHpZXrLNBI_0000002 88.8 93.5 
+Nazanin_Boniadi/TnHpZXrLNBI_0000003 97.6 114.8 
+Nazanin_Boniadi/TnHpZXrLNBI_0000004 115.1 130.6 
+Nazanin_Boniadi/TnHpZXrLNBI_0000005 144.5 150.1 
+Nazanin_Boniadi/TnHpZXrLNBI_0000006 177.9 188.4 
+Nazanin_Boniadi/TnHpZXrLNBI_0000007 212.6 222.5 
+Nazanin_Boniadi/TnHpZXrLNBI_0000008 224.7 235.4 
+Nazanin_Boniadi/TnHpZXrLNBI_0000009 236.9 245.4 
+Nazanin_Boniadi/TnHpZXrLNBI_0000010 248.8 257.6 
+Nazanin_Boniadi/TnHpZXrLNBI_0000011 258.3 263.3 
+Nazanin_Boniadi/TnHpZXrLNBI_0000012 290.6 298.2 
+Nazanin_Boniadi/TnHpZXrLNBI_0000013 304.7 309.8 
+Nazanin_Boniadi/TnHpZXrLNBI_0000014 310.3 314.6 
+Nazanin_Boniadi/TnHpZXrLNBI_0000015 315.7 327.9 
+Nazanin_Boniadi/TnHpZXrLNBI_0000016 332.7 344.9 
+Nazanin_Boniadi/TnHpZXrLNBI_0000017 367.1 381.9 
+Nazanin_Boniadi/TnHpZXrLNBI_0000018 382.5 397.2 
+Nazanin_Boniadi/TnHpZXrLNBI_0000019 400.3 409.3 
+Nazanin_Boniadi/TnHpZXrLNBI_0000020 417.7 429.1 
+Nazanin_Boniadi/TnHpZXrLNBI_0000021 433.1 438.3 
+Nazanin_Boniadi/TnHpZXrLNBI_0000022 438.9 445.4 

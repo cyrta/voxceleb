@@ -1,0 +1,7 @@
+POI: 			Andrew_Scott 
+Youtube ID: 	poGfNYekn7U 
+Video length: 	626.3 sec 
+Set (V): 		dev 
+ 
+Andrew_Scott/poGfNYekn7U_0000001 201.6 205.5 
+Andrew_Scott/poGfNYekn7U_0000002 401.5 405.7 

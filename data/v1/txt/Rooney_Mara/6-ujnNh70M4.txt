@@ -1,0 +1,8 @@
+POI: 			Rooney_Mara 
+Youtube ID: 	6-ujnNh70M4 
+Video length: 	247.8 sec 
+Set (V): 		dev 
+ 
+Rooney_Mara/6-ujnNh70M4_0000001 47.4 56.2 
+Rooney_Mara/6-ujnNh70M4_0000002 68.8 74.0 
+Rooney_Mara/6-ujnNh70M4_0000003 225.5 233.4 

@@ -1,0 +1,14 @@
+POI: 			Peter_Berg 
+Youtube ID: 	25JZsQXJqm8 
+Video length: 	177.9 sec 
+Set (V): 		dev 
+ 
+Peter_Berg/25JZsQXJqm8_0000001 15.0 25.3 
+Peter_Berg/25JZsQXJqm8_0000002 26.2 49.6 
+Peter_Berg/25JZsQXJqm8_0000003 59.0 67.5 
+Peter_Berg/25JZsQXJqm8_0000004 67.8 74.6 
+Peter_Berg/25JZsQXJqm8_0000005 84.8 90.3 
+Peter_Berg/25JZsQXJqm8_0000006 103.0 118.0 
+Peter_Berg/25JZsQXJqm8_0000007 130.7 137.7 
+Peter_Berg/25JZsQXJqm8_0000008 145.4 150.5 
+Peter_Berg/25JZsQXJqm8_0000009 151.0 165.1 

@@ -1,0 +1,18 @@
+POI: 			Alexz_Johnson 
+Youtube ID: 	l9qBbKgU2ho 
+Video length: 	618.7 sec 
+Set (V): 		dev 
+ 
+Alexz_Johnson/l9qBbKgU2ho_0000001 48.0 52.8 
+Alexz_Johnson/l9qBbKgU2ho_0000002 57.4 62.4 
+Alexz_Johnson/l9qBbKgU2ho_0000003 67.6 71.6 
+Alexz_Johnson/l9qBbKgU2ho_0000004 80.2 88.2 
+Alexz_Johnson/l9qBbKgU2ho_0000005 121.8 127.7 
+Alexz_Johnson/l9qBbKgU2ho_0000006 156.2 160.2 
+Alexz_Johnson/l9qBbKgU2ho_0000007 195.4 201.1 
+Alexz_Johnson/l9qBbKgU2ho_0000008 361.0 368.1 
+Alexz_Johnson/l9qBbKgU2ho_0000009 368.6 380.2 
+Alexz_Johnson/l9qBbKgU2ho_0000010 391.4 397.4 
+Alexz_Johnson/l9qBbKgU2ho_0000011 409.6 414.2 
+Alexz_Johnson/l9qBbKgU2ho_0000012 416.9 422.2 
+Alexz_Johnson/l9qBbKgU2ho_0000013 489.2 494.7 

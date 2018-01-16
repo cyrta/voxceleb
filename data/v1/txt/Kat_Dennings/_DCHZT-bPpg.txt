@@ -1,0 +1,10 @@
+POI: 			Kat_Dennings 
+Youtube ID: 	_DCHZT-bPpg 
+Video length: 	454.1 sec 
+Set (V): 		dev 
+ 
+Kat_Dennings/_DCHZT-bPpg_0000001 190.5 203.8 
+Kat_Dennings/_DCHZT-bPpg_0000002 214.1 218.8 
+Kat_Dennings/_DCHZT-bPpg_0000003 297.7 308.8 
+Kat_Dennings/_DCHZT-bPpg_0000004 349.8 365.5 
+Kat_Dennings/_DCHZT-bPpg_0000005 420.6 425.4 

@@ -1,0 +1,19 @@
+POI: 			Mark_Strong 
+Youtube ID: 	KlZoIwCo-r4 
+Video length: 	237.3 sec 
+Set (V): 		dev 
+ 
+Mark_Strong/KlZoIwCo-r4_0000001 06.9 26.9 
+Mark_Strong/KlZoIwCo-r4_0000002 32.6 36.7 
+Mark_Strong/KlZoIwCo-r4_0000003 38.0 50.6 
+Mark_Strong/KlZoIwCo-r4_0000004 52.6 57.2 
+Mark_Strong/KlZoIwCo-r4_0000005 69.0 74.0 
+Mark_Strong/KlZoIwCo-r4_0000006 75.4 84.3 
+Mark_Strong/KlZoIwCo-r4_0000007 85.2 91.4 
+Mark_Strong/KlZoIwCo-r4_0000008 95.7 102.2 
+Mark_Strong/KlZoIwCo-r4_0000009 140.2 145.4 
+Mark_Strong/KlZoIwCo-r4_0000010 146.2 150.9 
+Mark_Strong/KlZoIwCo-r4_0000011 160.1 168.3 
+Mark_Strong/KlZoIwCo-r4_0000012 181.4 199.4 
+Mark_Strong/KlZoIwCo-r4_0000013 213.4 218.3 
+Mark_Strong/KlZoIwCo-r4_0000014 219.0 229.3 

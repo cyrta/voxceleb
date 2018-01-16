@@ -1,0 +1,8 @@
+POI: 			Jeff_Daniels 
+Youtube ID: 	h1n25ui4g2Y 
+Video length: 	270.0 sec 
+Set (V): 		dev 
+ 
+Jeff_Daniels/h1n25ui4g2Y_0000001 115.3 122.4 
+Jeff_Daniels/h1n25ui4g2Y_0000002 128.4 133.2 
+Jeff_Daniels/h1n25ui4g2Y_0000003 140.7 145.2 

@@ -1,0 +1,8 @@
+POI: 			Om_Puri 
+Youtube ID: 	6P65iy8hZZg 
+Video length: 	312.1 sec 
+Set (V): 		dev 
+ 
+Om_Puri/6P65iy8hZZg_0000001 66.6 71.9 
+Om_Puri/6P65iy8hZZg_0000002 239.8 248.0 
+Om_Puri/6P65iy8hZZg_0000003 300.0 304.1 

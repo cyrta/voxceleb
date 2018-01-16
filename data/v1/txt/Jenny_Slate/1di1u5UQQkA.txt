@@ -1,0 +1,9 @@
+POI: 			Jenny_Slate 
+Youtube ID: 	1di1u5UQQkA 
+Video length: 	173.6 sec 
+Set (V): 		dev 
+ 
+Jenny_Slate/1di1u5UQQkA_0000001 09.1 13.2 
+Jenny_Slate/1di1u5UQQkA_0000002 48.0 55.6 
+Jenny_Slate/1di1u5UQQkA_0000003 65.4 70.6 
+Jenny_Slate/1di1u5UQQkA_0000004 83.8 90.7 

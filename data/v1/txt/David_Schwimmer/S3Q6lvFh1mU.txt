@@ -1,0 +1,10 @@
+POI: 			David_Schwimmer 
+Youtube ID: 	S3Q6lvFh1mU 
+Video length: 	301.5 sec 
+Set (V): 		dev 
+ 
+David_Schwimmer/S3Q6lvFh1mU_0000001 79.5 92.2 
+David_Schwimmer/S3Q6lvFh1mU_0000002 162.7 171.6 
+David_Schwimmer/S3Q6lvFh1mU_0000003 189.8 195.0 
+David_Schwimmer/S3Q6lvFh1mU_0000004 201.3 210.8 
+David_Schwimmer/S3Q6lvFh1mU_0000005 241.3 252.7 

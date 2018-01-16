@@ -1,0 +1,18 @@
+POI: 			Hannah_Simone 
+Youtube ID: 	N6zcp9L4u1Q 
+Video length: 	308.2 sec 
+Set (V): 		dev 
+ 
+Hannah_Simone/N6zcp9L4u1Q_0000001 20.1 39.8 
+Hannah_Simone/N6zcp9L4u1Q_0000002 41.2 55.7 
+Hannah_Simone/N6zcp9L4u1Q_0000003 75.0 89.3 
+Hannah_Simone/N6zcp9L4u1Q_0000004 99.8 116.1 
+Hannah_Simone/N6zcp9L4u1Q_0000005 116.9 132.9 
+Hannah_Simone/N6zcp9L4u1Q_0000006 144.4 163.2 
+Hannah_Simone/N6zcp9L4u1Q_0000007 179.1 184.4 
+Hannah_Simone/N6zcp9L4u1Q_0000008 185.8 205.9 
+Hannah_Simone/N6zcp9L4u1Q_0000009 207.1 212.0 
+Hannah_Simone/N6zcp9L4u1Q_0000010 222.6 239.0 
+Hannah_Simone/N6zcp9L4u1Q_0000011 243.3 265.1 
+Hannah_Simone/N6zcp9L4u1Q_0000012 271.4 290.0 
+Hannah_Simone/N6zcp9L4u1Q_0000013 294.0 302.6 

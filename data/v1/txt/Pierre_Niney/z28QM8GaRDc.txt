@@ -1,0 +1,12 @@
+POI: 			Pierre_Niney 
+Youtube ID: 	z28QM8GaRDc 
+Video length: 	136.4 sec 
+Set (V): 		dev 
+ 
+Pierre_Niney/z28QM8GaRDc_0000001 06.0 15.6 
+Pierre_Niney/z28QM8GaRDc_0000002 15.7 19.7 
+Pierre_Niney/z28QM8GaRDc_0000003 39.4 43.7 
+Pierre_Niney/z28QM8GaRDc_0000004 57.5 62.3 
+Pierre_Niney/z28QM8GaRDc_0000005 69.8 86.1 
+Pierre_Niney/z28QM8GaRDc_0000006 87.6 99.7 
+Pierre_Niney/z28QM8GaRDc_0000007 112.3 117.0 

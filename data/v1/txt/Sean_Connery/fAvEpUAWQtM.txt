@@ -1,0 +1,7 @@
+POI: 			Sean_Connery 
+Youtube ID: 	fAvEpUAWQtM 
+Video length: 	316.6 sec 
+Set (V): 		dev 
+ 
+Sean_Connery/fAvEpUAWQtM_0000001 94.1 101.3 
+Sean_Connery/fAvEpUAWQtM_0000002 196.0 201.2 

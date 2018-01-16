@@ -1,0 +1,7 @@
+POI: 			John_Barrowman 
+Youtube ID: 	2-UWS5Wjo6I 
+Video length: 	380.4 sec 
+Set (V): 		dev 
+ 
+John_Barrowman/2-UWS5Wjo6I_0000001 29.7 35.4 
+John_Barrowman/2-UWS5Wjo6I_0000002 182.6 188.7 

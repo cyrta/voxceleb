@@ -1,0 +1,8 @@
+POI: 			Michelle_Monaghan 
+Youtube ID: 	ylUHJfP1AJI 
+Video length: 	230.5 sec 
+Set (V): 		dev 
+ 
+Michelle_Monaghan/ylUHJfP1AJI_0000001 24.0 28.6 
+Michelle_Monaghan/ylUHJfP1AJI_0000002 34.3 56.6 
+Michelle_Monaghan/ylUHJfP1AJI_0000003 156.5 161.0 

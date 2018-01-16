@@ -1,0 +1,10 @@
+POI: 			Dylan_McDermott 
+Youtube ID: 	A93Rzp0ftqA 
+Video length: 	410.5 sec 
+Set (V): 		dev 
+ 
+Dylan_McDermott/A93Rzp0ftqA_0000001 168.8 173.0 
+Dylan_McDermott/A93Rzp0ftqA_0000002 274.4 280.7 
+Dylan_McDermott/A93Rzp0ftqA_0000003 370.3 374.9 
+Dylan_McDermott/A93Rzp0ftqA_0000004 379.0 383.0 
+Dylan_McDermott/A93Rzp0ftqA_0000005 383.5 390.3 

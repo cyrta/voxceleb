@@ -1,0 +1,7 @@
+POI: 			Ronda_Rousey 
+Youtube ID: 	LDRKbHQNXmM 
+Video length: 	104.6 sec 
+Set (V): 		dev 
+ 
+Ronda_Rousey/LDRKbHQNXmM_0000001 45.8 50.7 
+Ronda_Rousey/LDRKbHQNXmM_0000002 81.6 89.5 

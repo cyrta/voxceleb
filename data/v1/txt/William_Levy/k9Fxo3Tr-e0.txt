@@ -1,0 +1,11 @@
+POI: 			William_Levy 
+Youtube ID: 	k9Fxo3Tr-e0 
+Video length: 	385.9 sec 
+Set (V): 		dev 
+ 
+William_Levy/k9Fxo3Tr-e0_0000001 39.8 44.8 
+William_Levy/k9Fxo3Tr-e0_0000002 52.4 57.6 
+William_Levy/k9Fxo3Tr-e0_0000003 73.9 78.3 
+William_Levy/k9Fxo3Tr-e0_0000004 193.4 198.2 
+William_Levy/k9Fxo3Tr-e0_0000005 233.1 241.3 
+William_Levy/k9Fxo3Tr-e0_0000006 343.1 349.1 

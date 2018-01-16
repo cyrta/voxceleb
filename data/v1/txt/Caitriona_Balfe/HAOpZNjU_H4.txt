@@ -1,0 +1,14 @@
+POI: 			Caitriona_Balfe 
+Youtube ID: 	HAOpZNjU_H4 
+Video length: 	268.2 sec 
+Set (V): 		dev 
+ 
+Caitriona_Balfe/HAOpZNjU_H4_0000001 16.0 20.4 
+Caitriona_Balfe/HAOpZNjU_H4_0000002 22.0 30.7 
+Caitriona_Balfe/HAOpZNjU_H4_0000003 112.6 116.8 
+Caitriona_Balfe/HAOpZNjU_H4_0000004 154.3 159.5 
+Caitriona_Balfe/HAOpZNjU_H4_0000005 176.5 188.1 
+Caitriona_Balfe/HAOpZNjU_H4_0000006 189.0 194.6 
+Caitriona_Balfe/HAOpZNjU_H4_0000007 208.8 214.2 
+Caitriona_Balfe/HAOpZNjU_H4_0000008 216.0 221.8 
+Caitriona_Balfe/HAOpZNjU_H4_0000009 237.6 244.0 

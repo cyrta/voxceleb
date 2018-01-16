@@ -1,0 +1,10 @@
+POI: 			Matt_Lanter 
+Youtube ID: 	XYEfS6g-Jy0 
+Video length: 	359.7 sec 
+Set (V): 		dev 
+ 
+Matt_Lanter/XYEfS6g-Jy0_0000001 86.4 91.6 
+Matt_Lanter/XYEfS6g-Jy0_0000002 126.8 130.9 
+Matt_Lanter/XYEfS6g-Jy0_0000003 158.6 164.5 
+Matt_Lanter/XYEfS6g-Jy0_0000004 183.7 188.6 
+Matt_Lanter/XYEfS6g-Jy0_0000005 219.8 227.2 

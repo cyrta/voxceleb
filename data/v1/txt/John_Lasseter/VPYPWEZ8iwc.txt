@@ -1,0 +1,7 @@
+POI: 			John_Lasseter 
+Youtube ID: 	VPYPWEZ8iwc 
+Video length: 	236.6 sec 
+Set (V): 		dev 
+ 
+John_Lasseter/VPYPWEZ8iwc_0000001 03.4 13.8 
+John_Lasseter/VPYPWEZ8iwc_0000002 14.3 19.4 

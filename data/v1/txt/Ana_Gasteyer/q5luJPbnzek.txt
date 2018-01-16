@@ -1,0 +1,8 @@
+POI: 			Ana_Gasteyer 
+Youtube ID: 	q5luJPbnzek 
+Video length: 	70.6 sec 
+Set (V): 		dev 
+ 
+Ana_Gasteyer/q5luJPbnzek_0000001 11.1 18.2 
+Ana_Gasteyer/q5luJPbnzek_0000002 26.2 34.0 
+Ana_Gasteyer/q5luJPbnzek_0000003 40.2 46.6 

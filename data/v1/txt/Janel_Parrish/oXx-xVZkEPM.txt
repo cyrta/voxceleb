@@ -1,0 +1,11 @@
+POI: 			Janel_Parrish 
+Youtube ID: 	oXx-xVZkEPM 
+Video length: 	345.7 sec 
+Set (V): 		dev 
+ 
+Janel_Parrish/oXx-xVZkEPM_0000001 61.5 66.1 
+Janel_Parrish/oXx-xVZkEPM_0000002 75.2 80.9 
+Janel_Parrish/oXx-xVZkEPM_0000003 140.5 150.1 
+Janel_Parrish/oXx-xVZkEPM_0000004 157.8 165.6 
+Janel_Parrish/oXx-xVZkEPM_0000005 255.9 266.0 
+Janel_Parrish/oXx-xVZkEPM_0000006 275.7 281.6 

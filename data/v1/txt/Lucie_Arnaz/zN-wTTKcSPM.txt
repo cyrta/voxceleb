@@ -1,0 +1,19 @@
+POI: 			Lucie_Arnaz 
+Youtube ID: 	zN-wTTKcSPM 
+Video length: 	330.4 sec 
+Set (V): 		dev 
+ 
+Lucie_Arnaz/zN-wTTKcSPM_0000001 01.1 11.0 
+Lucie_Arnaz/zN-wTTKcSPM_0000002 11.3 20.2 
+Lucie_Arnaz/zN-wTTKcSPM_0000003 22.9 27.0 
+Lucie_Arnaz/zN-wTTKcSPM_0000004 29.1 41.8 
+Lucie_Arnaz/zN-wTTKcSPM_0000005 42.4 54.7 
+Lucie_Arnaz/zN-wTTKcSPM_0000006 56.9 95.8 
+Lucie_Arnaz/zN-wTTKcSPM_0000007 105.9 113.0 
+Lucie_Arnaz/zN-wTTKcSPM_0000008 116.3 132.5 
+Lucie_Arnaz/zN-wTTKcSPM_0000009 133.2 137.4 
+Lucie_Arnaz/zN-wTTKcSPM_0000010 205.4 225.4 
+Lucie_Arnaz/zN-wTTKcSPM_0000011 228.4 260.3 
+Lucie_Arnaz/zN-wTTKcSPM_0000012 262.6 267.7 
+Lucie_Arnaz/zN-wTTKcSPM_0000013 268.0 293.0 
+Lucie_Arnaz/zN-wTTKcSPM_0000014 303.8 320.8 

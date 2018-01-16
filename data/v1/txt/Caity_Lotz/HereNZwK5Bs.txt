@@ -1,0 +1,10 @@
+POI: 			Caity_Lotz 
+Youtube ID: 	HereNZwK5Bs 
+Video length: 	265.7 sec 
+Set (V): 		dev 
+ 
+Caity_Lotz/HereNZwK5Bs_0000001 118.6 125.0 
+Caity_Lotz/HereNZwK5Bs_0000002 129.2 133.2 
+Caity_Lotz/HereNZwK5Bs_0000003 163.5 170.8 
+Caity_Lotz/HereNZwK5Bs_0000004 171.0 178.8 
+Caity_Lotz/HereNZwK5Bs_0000005 187.0 200.7 

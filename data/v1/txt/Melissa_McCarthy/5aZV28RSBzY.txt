@@ -1,0 +1,15 @@
+POI: 			Melissa_McCarthy 
+Youtube ID: 	5aZV28RSBzY 
+Video length: 	325.4 sec 
+Set (V): 		dev 
+ 
+Melissa_McCarthy/5aZV28RSBzY_0000001 14.5 22.4 
+Melissa_McCarthy/5aZV28RSBzY_0000002 22.7 30.7 
+Melissa_McCarthy/5aZV28RSBzY_0000003 32.9 42.6 
+Melissa_McCarthy/5aZV28RSBzY_0000004 44.1 50.6 
+Melissa_McCarthy/5aZV28RSBzY_0000005 246.4 254.6 
+Melissa_McCarthy/5aZV28RSBzY_0000006 255.6 262.2 
+Melissa_McCarthy/5aZV28RSBzY_0000007 267.8 274.4 
+Melissa_McCarthy/5aZV28RSBzY_0000008 283.4 289.2 
+Melissa_McCarthy/5aZV28RSBzY_0000009 297.7 305.5 
+Melissa_McCarthy/5aZV28RSBzY_0000010 306.3 317.2 

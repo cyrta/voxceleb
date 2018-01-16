@@ -1,0 +1,19 @@
+POI: 			Charlie_Day 
+Youtube ID: 	lRVeUceR3Z4 
+Video length: 	312.4 sec 
+Set (V): 		dev 
+ 
+Charlie_Day/lRVeUceR3Z4_0000001 19.5 24.0 
+Charlie_Day/lRVeUceR3Z4_0000002 28.4 50.4 
+Charlie_Day/lRVeUceR3Z4_0000003 50.9 56.1 
+Charlie_Day/lRVeUceR3Z4_0000004 124.5 134.2 
+Charlie_Day/lRVeUceR3Z4_0000005 137.5 142.7 
+Charlie_Day/lRVeUceR3Z4_0000006 143.5 151.2 
+Charlie_Day/lRVeUceR3Z4_0000007 164.7 170.0 
+Charlie_Day/lRVeUceR3Z4_0000008 170.8 178.4 
+Charlie_Day/lRVeUceR3Z4_0000009 183.3 191.1 
+Charlie_Day/lRVeUceR3Z4_0000010 191.8 211.0 
+Charlie_Day/lRVeUceR3Z4_0000011 212.8 233.9 
+Charlie_Day/lRVeUceR3Z4_0000012 248.3 257.4 
+Charlie_Day/lRVeUceR3Z4_0000013 258.0 285.8 
+Charlie_Day/lRVeUceR3Z4_0000014 292.4 305.7 

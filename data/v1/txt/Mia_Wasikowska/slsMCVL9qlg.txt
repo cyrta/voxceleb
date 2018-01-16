@@ -1,0 +1,17 @@
+POI: 			Mia_Wasikowska 
+Youtube ID: 	slsMCVL9qlg 
+Video length: 	507.2 sec 
+Set (V): 		dev 
+ 
+Mia_Wasikowska/slsMCVL9qlg_0000001 115.5 123.3 
+Mia_Wasikowska/slsMCVL9qlg_0000002 208.3 212.4 
+Mia_Wasikowska/slsMCVL9qlg_0000003 215.3 220.0 
+Mia_Wasikowska/slsMCVL9qlg_0000004 222.2 226.8 
+Mia_Wasikowska/slsMCVL9qlg_0000005 274.1 279.3 
+Mia_Wasikowska/slsMCVL9qlg_0000006 280.8 293.2 
+Mia_Wasikowska/slsMCVL9qlg_0000007 300.5 305.9 
+Mia_Wasikowska/slsMCVL9qlg_0000008 328.8 350.2 
+Mia_Wasikowska/slsMCVL9qlg_0000009 386.3 390.4 
+Mia_Wasikowska/slsMCVL9qlg_0000010 428.9 436.8 
+Mia_Wasikowska/slsMCVL9qlg_0000011 449.6 458.6 
+Mia_Wasikowska/slsMCVL9qlg_0000012 466.2 472.4 

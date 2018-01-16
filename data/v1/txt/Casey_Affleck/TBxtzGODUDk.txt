@@ -1,0 +1,7 @@
+POI: 			Casey_Affleck 
+Youtube ID: 	TBxtzGODUDk 
+Video length: 	182.9 sec 
+Set (V): 		dev 
+ 
+Casey_Affleck/TBxtzGODUDk_0000001 56.0 60.0 
+Casey_Affleck/TBxtzGODUDk_0000002 61.3 65.4 

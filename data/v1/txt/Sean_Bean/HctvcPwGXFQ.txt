@@ -1,0 +1,16 @@
+POI: 			Sean_Bean 
+Youtube ID: 	HctvcPwGXFQ 
+Video length: 	421.7 sec 
+Set (V): 		dev 
+ 
+Sean_Bean/HctvcPwGXFQ_0000001 69.4 76.7 
+Sean_Bean/HctvcPwGXFQ_0000002 88.3 92.4 
+Sean_Bean/HctvcPwGXFQ_0000003 95.8 102.9 
+Sean_Bean/HctvcPwGXFQ_0000004 117.7 127.1 
+Sean_Bean/HctvcPwGXFQ_0000005 144.5 151.9 
+Sean_Bean/HctvcPwGXFQ_0000006 161.7 167.8 
+Sean_Bean/HctvcPwGXFQ_0000007 168.9 174.2 
+Sean_Bean/HctvcPwGXFQ_0000008 174.5 180.1 
+Sean_Bean/HctvcPwGXFQ_0000009 199.5 204.6 
+Sean_Bean/HctvcPwGXFQ_0000010 205.4 215.5 
+Sean_Bean/HctvcPwGXFQ_0000011 219.5 226.3 

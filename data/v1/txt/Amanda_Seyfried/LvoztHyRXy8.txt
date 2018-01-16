@@ -1,0 +1,14 @@
+POI: 			Amanda_Seyfried 
+Youtube ID: 	LvoztHyRXy8 
+Video length: 	831.1 sec 
+Set (V): 		dev 
+ 
+Amanda_Seyfried/LvoztHyRXy8_0000001 85.0 90.3 
+Amanda_Seyfried/LvoztHyRXy8_0000002 261.8 268.1 
+Amanda_Seyfried/LvoztHyRXy8_0000003 285.3 295.2 
+Amanda_Seyfried/LvoztHyRXy8_0000004 311.3 317.1 
+Amanda_Seyfried/LvoztHyRXy8_0000005 338.7 343.4 
+Amanda_Seyfried/LvoztHyRXy8_0000006 407.6 414.8 
+Amanda_Seyfried/LvoztHyRXy8_0000007 421.0 426.9 
+Amanda_Seyfried/LvoztHyRXy8_0000008 430.8 439.9 
+Amanda_Seyfried/LvoztHyRXy8_0000009 523.2 528.8 

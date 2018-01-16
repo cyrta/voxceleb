@@ -1,0 +1,19 @@
+POI: 			Hope_Solo 
+Youtube ID: 	kRXmFPuGAo4 
+Video length: 	600.1 sec 
+Set (V): 		dev 
+ 
+Hope_Solo/kRXmFPuGAo4_0000001 91.8 97.3 
+Hope_Solo/kRXmFPuGAo4_0000002 130.4 140.4 
+Hope_Solo/kRXmFPuGAo4_0000003 145.7 155.6 
+Hope_Solo/kRXmFPuGAo4_0000004 162.7 168.7 
+Hope_Solo/kRXmFPuGAo4_0000005 174.9 186.3 
+Hope_Solo/kRXmFPuGAo4_0000006 199.7 211.8 
+Hope_Solo/kRXmFPuGAo4_0000007 213.1 218.7 
+Hope_Solo/kRXmFPuGAo4_0000008 219.3 232.3 
+Hope_Solo/kRXmFPuGAo4_0000009 266.2 291.2 
+Hope_Solo/kRXmFPuGAo4_0000010 322.7 333.2 
+Hope_Solo/kRXmFPuGAo4_0000011 343.0 352.2 
+Hope_Solo/kRXmFPuGAo4_0000012 352.5 358.6 
+Hope_Solo/kRXmFPuGAo4_0000013 363.9 369.9 
+Hope_Solo/kRXmFPuGAo4_0000014 375.0 382.6 

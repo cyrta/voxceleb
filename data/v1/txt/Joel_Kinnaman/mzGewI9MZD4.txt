@@ -1,0 +1,12 @@
+POI: 			Joel_Kinnaman 
+Youtube ID: 	mzGewI9MZD4 
+Video length: 	233.0 sec 
+Set (V): 		dev 
+ 
+Joel_Kinnaman/mzGewI9MZD4_0000001 16.1 26.5 
+Joel_Kinnaman/mzGewI9MZD4_0000002 89.1 93.2 
+Joel_Kinnaman/mzGewI9MZD4_0000003 104.0 109.6 
+Joel_Kinnaman/mzGewI9MZD4_0000004 110.5 116.7 
+Joel_Kinnaman/mzGewI9MZD4_0000005 180.5 186.8 
+Joel_Kinnaman/mzGewI9MZD4_0000006 192.2 199.0 
+Joel_Kinnaman/mzGewI9MZD4_0000007 208.4 214.4 

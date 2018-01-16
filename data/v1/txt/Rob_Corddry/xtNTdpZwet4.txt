@@ -1,0 +1,15 @@
+POI: 			Rob_Corddry 
+Youtube ID: 	xtNTdpZwet4 
+Video length: 	276.6 sec 
+Set (V): 		dev 
+ 
+Rob_Corddry/xtNTdpZwet4_0000001 28.6 38.4 
+Rob_Corddry/xtNTdpZwet4_0000002 57.3 64.7 
+Rob_Corddry/xtNTdpZwet4_0000003 74.0 85.8 
+Rob_Corddry/xtNTdpZwet4_0000004 91.8 100.8 
+Rob_Corddry/xtNTdpZwet4_0000005 112.6 117.7 
+Rob_Corddry/xtNTdpZwet4_0000006 123.9 133.7 
+Rob_Corddry/xtNTdpZwet4_0000007 135.9 140.4 
+Rob_Corddry/xtNTdpZwet4_0000008 175.5 179.9 
+Rob_Corddry/xtNTdpZwet4_0000009 209.7 224.3 
+Rob_Corddry/xtNTdpZwet4_0000010 247.0 253.7 

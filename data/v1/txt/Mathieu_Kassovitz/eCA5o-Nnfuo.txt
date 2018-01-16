@@ -1,0 +1,47 @@
+POI: 			Mathieu_Kassovitz 
+Youtube ID: 	eCA5o-Nnfuo 
+Video length: 	1468.8 sec 
+Set (V): 		dev 
+ 
+Mathieu_Kassovitz/eCA5o-Nnfuo_0000001 101.8 105.8 
+Mathieu_Kassovitz/eCA5o-Nnfuo_0000002 106.6 115.9 
+Mathieu_Kassovitz/eCA5o-Nnfuo_0000003 126.2 130.6 
+Mathieu_Kassovitz/eCA5o-Nnfuo_0000004 131.4 136.8 
+Mathieu_Kassovitz/eCA5o-Nnfuo_0000005 201.9 207.3 
+Mathieu_Kassovitz/eCA5o-Nnfuo_0000006 214.2 218.2 
+Mathieu_Kassovitz/eCA5o-Nnfuo_0000007 219.0 224.2 
+Mathieu_Kassovitz/eCA5o-Nnfuo_0000008 262.5 267.2 
+Mathieu_Kassovitz/eCA5o-Nnfuo_0000009 273.1 278.6 
+Mathieu_Kassovitz/eCA5o-Nnfuo_0000010 280.7 285.8 
+Mathieu_Kassovitz/eCA5o-Nnfuo_0000011 286.2 296.3 
+Mathieu_Kassovitz/eCA5o-Nnfuo_0000012 324.0 332.6 
+Mathieu_Kassovitz/eCA5o-Nnfuo_0000013 338.5 345.2 
+Mathieu_Kassovitz/eCA5o-Nnfuo_0000014 349.9 355.9 
+Mathieu_Kassovitz/eCA5o-Nnfuo_0000015 404.1 414.4 
+Mathieu_Kassovitz/eCA5o-Nnfuo_0000016 432.7 437.0 
+Mathieu_Kassovitz/eCA5o-Nnfuo_0000017 437.8 443.4 
+Mathieu_Kassovitz/eCA5o-Nnfuo_0000018 498.5 512.2 
+Mathieu_Kassovitz/eCA5o-Nnfuo_0000019 512.8 517.4 
+Mathieu_Kassovitz/eCA5o-Nnfuo_0000020 612.8 620.0 
+Mathieu_Kassovitz/eCA5o-Nnfuo_0000021 624.7 630.7 
+Mathieu_Kassovitz/eCA5o-Nnfuo_0000022 638.2 649.6 
+Mathieu_Kassovitz/eCA5o-Nnfuo_0000023 659.5 663.6 
+Mathieu_Kassovitz/eCA5o-Nnfuo_0000024 723.3 728.4 
+Mathieu_Kassovitz/eCA5o-Nnfuo_0000025 734.2 738.2 
+Mathieu_Kassovitz/eCA5o-Nnfuo_0000026 741.4 746.4 
+Mathieu_Kassovitz/eCA5o-Nnfuo_0000027 823.5 827.7 
+Mathieu_Kassovitz/eCA5o-Nnfuo_0000028 853.9 859.7 
+Mathieu_Kassovitz/eCA5o-Nnfuo_0000029 933.8 940.4 
+Mathieu_Kassovitz/eCA5o-Nnfuo_0000030 981.7 986.2 
+Mathieu_Kassovitz/eCA5o-Nnfuo_0000031 1049.6 1054.5 
+Mathieu_Kassovitz/eCA5o-Nnfuo_0000032 1113.0 1125.4 
+Mathieu_Kassovitz/eCA5o-Nnfuo_0000033 1172.6 1177.0 
+Mathieu_Kassovitz/eCA5o-Nnfuo_0000034 1182.0 1186.6 
+Mathieu_Kassovitz/eCA5o-Nnfuo_0000035 1198.8 1205.0 
+Mathieu_Kassovitz/eCA5o-Nnfuo_0000036 1223.1 1228.4 
+Mathieu_Kassovitz/eCA5o-Nnfuo_0000037 1249.2 1257.0 
+Mathieu_Kassovitz/eCA5o-Nnfuo_0000038 1292.7 1299.4 
+Mathieu_Kassovitz/eCA5o-Nnfuo_0000039 1304.2 1308.3 
+Mathieu_Kassovitz/eCA5o-Nnfuo_0000040 1328.2 1336.2 
+Mathieu_Kassovitz/eCA5o-Nnfuo_0000041 1336.8 1342.9 
+Mathieu_Kassovitz/eCA5o-Nnfuo_0000042 1362.8 1367.4 

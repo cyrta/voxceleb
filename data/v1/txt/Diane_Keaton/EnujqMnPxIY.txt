@@ -1,0 +1,7 @@
+POI: 			Diane_Keaton 
+Youtube ID: 	EnujqMnPxIY 
+Video length: 	198.9 sec 
+Set (V): 		dev 
+ 
+Diane_Keaton/EnujqMnPxIY_0000001 39.6 44.0 
+Diane_Keaton/EnujqMnPxIY_0000002 191.2 196.2 

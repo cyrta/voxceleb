@@ -1,0 +1,7 @@
+POI: 			Kat_Dennings 
+Youtube ID: 	f-mjLyC1-4g 
+Video length: 	254.4 sec 
+Set (V): 		dev 
+ 
+Kat_Dennings/f-mjLyC1-4g_0000001 30.3 34.5 
+Kat_Dennings/f-mjLyC1-4g_0000002 221.8 227.0 

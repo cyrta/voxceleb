@@ -1,0 +1,31 @@
+POI: 			Andrew_Lee_Potts 
+Youtube ID: 	dcPyPgsQ-3Y 
+Video length: 	1420.1 sec 
+Set (V): 		dev 
+ 
+Andrew_Lee_Potts/dcPyPgsQ-3Y_0000001 185.5 197.9 
+Andrew_Lee_Potts/dcPyPgsQ-3Y_0000002 201.2 207.1 
+Andrew_Lee_Potts/dcPyPgsQ-3Y_0000003 254.0 258.5 
+Andrew_Lee_Potts/dcPyPgsQ-3Y_0000004 265.4 285.2 
+Andrew_Lee_Potts/dcPyPgsQ-3Y_0000005 285.5 307.4 
+Andrew_Lee_Potts/dcPyPgsQ-3Y_0000006 308.5 325.1 
+Andrew_Lee_Potts/dcPyPgsQ-3Y_0000007 359.3 364.4 
+Andrew_Lee_Potts/dcPyPgsQ-3Y_0000008 373.5 377.8 
+Andrew_Lee_Potts/dcPyPgsQ-3Y_0000009 378.2 397.6 
+Andrew_Lee_Potts/dcPyPgsQ-3Y_0000010 398.1 404.4 
+Andrew_Lee_Potts/dcPyPgsQ-3Y_0000011 407.0 413.0 
+Andrew_Lee_Potts/dcPyPgsQ-3Y_0000012 445.2 453.9 
+Andrew_Lee_Potts/dcPyPgsQ-3Y_0000013 905.2 911.0 
+Andrew_Lee_Potts/dcPyPgsQ-3Y_0000014 911.8 921.4 
+Andrew_Lee_Potts/dcPyPgsQ-3Y_0000015 925.4 929.6 
+Andrew_Lee_Potts/dcPyPgsQ-3Y_0000016 930.2 940.2 
+Andrew_Lee_Potts/dcPyPgsQ-3Y_0000017 944.1 949.1 
+Andrew_Lee_Potts/dcPyPgsQ-3Y_0000018 1162.0 1166.6 
+Andrew_Lee_Potts/dcPyPgsQ-3Y_0000019 1174.5 1183.5 
+Andrew_Lee_Potts/dcPyPgsQ-3Y_0000020 1184.0 1189.4 
+Andrew_Lee_Potts/dcPyPgsQ-3Y_0000021 1191.0 1200.7 
+Andrew_Lee_Potts/dcPyPgsQ-3Y_0000022 1268.6 1278.4 
+Andrew_Lee_Potts/dcPyPgsQ-3Y_0000023 1279.7 1286.4 
+Andrew_Lee_Potts/dcPyPgsQ-3Y_0000024 1292.6 1297.1 
+Andrew_Lee_Potts/dcPyPgsQ-3Y_0000025 1297.7 1303.0 
+Andrew_Lee_Potts/dcPyPgsQ-3Y_0000026 1303.3 1307.4 

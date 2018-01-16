@@ -1,0 +1,9 @@
+POI: 			Johnny_Galecki 
+Youtube ID: 	ZKoj1YiIdtg 
+Video length: 	136.4 sec 
+Set (V): 		dev 
+ 
+Johnny_Galecki/ZKoj1YiIdtg_0000001 55.4 59.4 
+Johnny_Galecki/ZKoj1YiIdtg_0000002 85.6 90.2 
+Johnny_Galecki/ZKoj1YiIdtg_0000003 90.2 95.4 
+Johnny_Galecki/ZKoj1YiIdtg_0000004 115.6 123.5 

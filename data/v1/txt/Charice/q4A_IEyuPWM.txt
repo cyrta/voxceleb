@@ -1,0 +1,15 @@
+POI: 			Charice 
+Youtube ID: 	q4A_IEyuPWM 
+Video length: 	545.9 sec 
+Set (V): 		dev 
+ 
+Charice/q4A_IEyuPWM_0000001 12.7 22.0 
+Charice/q4A_IEyuPWM_0000002 40.8 46.1 
+Charice/q4A_IEyuPWM_0000003 49.9 58.7 
+Charice/q4A_IEyuPWM_0000004 81.0 85.6 
+Charice/q4A_IEyuPWM_0000005 93.2 98.5 
+Charice/q4A_IEyuPWM_0000006 109.3 113.3 
+Charice/q4A_IEyuPWM_0000007 171.4 176.6 
+Charice/q4A_IEyuPWM_0000008 240.4 245.8 
+Charice/q4A_IEyuPWM_0000009 259.8 264.2 
+Charice/q4A_IEyuPWM_0000010 457.1 464.0 

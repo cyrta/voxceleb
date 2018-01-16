@@ -1,0 +1,40 @@
+POI: 			Linda_Evans 
+Youtube ID: 	bLogs824EHs 
+Video length: 	815.5 sec 
+Set (V): 		dev 
+ 
+Linda_Evans/bLogs824EHs_0000001 17.1 21.3 
+Linda_Evans/bLogs824EHs_0000002 67.8 82.8 
+Linda_Evans/bLogs824EHs_0000003 124.0 132.0 
+Linda_Evans/bLogs824EHs_0000004 184.2 194.2 
+Linda_Evans/bLogs824EHs_0000005 203.6 208.0 
+Linda_Evans/bLogs824EHs_0000006 208.8 217.4 
+Linda_Evans/bLogs824EHs_0000007 241.6 246.1 
+Linda_Evans/bLogs824EHs_0000008 264.4 271.9 
+Linda_Evans/bLogs824EHs_0000009 282.7 287.3 
+Linda_Evans/bLogs824EHs_0000010 292.5 297.5 
+Linda_Evans/bLogs824EHs_0000011 299.8 305.9 
+Linda_Evans/bLogs824EHs_0000012 306.6 312.2 
+Linda_Evans/bLogs824EHs_0000013 314.0 320.2 
+Linda_Evans/bLogs824EHs_0000014 321.2 325.4 
+Linda_Evans/bLogs824EHs_0000015 326.2 331.5 
+Linda_Evans/bLogs824EHs_0000016 346.1 350.2 
+Linda_Evans/bLogs824EHs_0000017 407.4 412.8 
+Linda_Evans/bLogs824EHs_0000018 416.2 424.3 
+Linda_Evans/bLogs824EHs_0000019 468.4 472.8 
+Linda_Evans/bLogs824EHs_0000020 473.7 478.0 
+Linda_Evans/bLogs824EHs_0000021 485.4 490.2 
+Linda_Evans/bLogs824EHs_0000022 500.9 514.8 
+Linda_Evans/bLogs824EHs_0000023 515.1 520.8 
+Linda_Evans/bLogs824EHs_0000024 543.0 551.5 
+Linda_Evans/bLogs824EHs_0000025 573.0 581.4 
+Linda_Evans/bLogs824EHs_0000026 590.0 601.1 
+Linda_Evans/bLogs824EHs_0000027 598.4 605.3 
+Linda_Evans/bLogs824EHs_0000028 617.9 623.2 
+Linda_Evans/bLogs824EHs_0000029 625.8 632.2 
+Linda_Evans/bLogs824EHs_0000030 639.7 644.3 
+Linda_Evans/bLogs824EHs_0000031 673.3 678.6 
+Linda_Evans/bLogs824EHs_0000032 690.0 699.3 
+Linda_Evans/bLogs824EHs_0000033 757.7 767.4 
+Linda_Evans/bLogs824EHs_0000034 777.3 782.2 
+Linda_Evans/bLogs824EHs_0000035 801.8 808.8 

@@ -1,0 +1,8 @@
+POI: 			Ryan_Kwanten 
+Youtube ID: 	DcasTF2p_2k 
+Video length: 	145.3 sec 
+Set (V): 		dev 
+ 
+Ryan_Kwanten/DcasTF2p_2k_0000001 99.5 104.0 
+Ryan_Kwanten/DcasTF2p_2k_0000002 115.9 120.2 
+Ryan_Kwanten/DcasTF2p_2k_0000003 121.8 133.4 

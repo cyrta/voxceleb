@@ -1,0 +1,13 @@
+POI: 			America_Ferrera 
+Youtube ID: 	Zbgcet3Y6Oo 
+Video length: 	241.8 sec 
+Set (V): 		dev 
+ 
+America_Ferrera/Zbgcet3Y6Oo_0000001 41.2 50.3 
+America_Ferrera/Zbgcet3Y6Oo_0000002 51.8 61.6 
+America_Ferrera/Zbgcet3Y6Oo_0000003 101.0 114.1 
+America_Ferrera/Zbgcet3Y6Oo_0000004 128.4 134.3 
+America_Ferrera/Zbgcet3Y6Oo_0000005 142.3 150.3 
+America_Ferrera/Zbgcet3Y6Oo_0000006 174.7 179.0 
+America_Ferrera/Zbgcet3Y6Oo_0000007 189.1 193.8 
+America_Ferrera/Zbgcet3Y6Oo_0000008 207.2 212.0 

@@ -1,0 +1,10 @@
+POI: 			Walton_Goggins 
+Youtube ID: 	0CxApTXyTxU 
+Video length: 	172.9 sec 
+Set (V): 		dev 
+ 
+Walton_Goggins/0CxApTXyTxU_0000001 36.5 41.3 
+Walton_Goggins/0CxApTXyTxU_0000002 56.5 72.0 
+Walton_Goggins/0CxApTXyTxU_0000003 110.1 114.2 
+Walton_Goggins/0CxApTXyTxU_0000004 143.6 148.5 
+Walton_Goggins/0CxApTXyTxU_0000005 149.4 156.3 

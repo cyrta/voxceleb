@@ -1,0 +1,13 @@
+POI: 			Gillian_Jacobs 
+Youtube ID: 	Wu2_n17Za9Q 
+Video length: 	176.0 sec 
+Set (V): 		dev 
+ 
+Gillian_Jacobs/Wu2_n17Za9Q_0000001 06.9 16.8 
+Gillian_Jacobs/Wu2_n17Za9Q_0000002 16.9 21.1 
+Gillian_Jacobs/Wu2_n17Za9Q_0000003 26.8 31.3 
+Gillian_Jacobs/Wu2_n17Za9Q_0000004 85.1 91.0 
+Gillian_Jacobs/Wu2_n17Za9Q_0000005 97.1 103.6 
+Gillian_Jacobs/Wu2_n17Za9Q_0000006 104.2 117.2 
+Gillian_Jacobs/Wu2_n17Za9Q_0000007 123.0 132.4 
+Gillian_Jacobs/Wu2_n17Za9Q_0000008 133.0 152.2 

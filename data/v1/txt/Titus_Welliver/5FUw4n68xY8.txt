@@ -1,0 +1,10 @@
+POI: 			Titus_Welliver 
+Youtube ID: 	5FUw4n68xY8 
+Video length: 	249.1 sec 
+Set (V): 		dev 
+ 
+Titus_Welliver/5FUw4n68xY8_0000001 64.4 69.9 
+Titus_Welliver/5FUw4n68xY8_0000002 147.6 152.4 
+Titus_Welliver/5FUw4n68xY8_0000003 153.2 158.9 
+Titus_Welliver/5FUw4n68xY8_0000004 179.6 188.9 
+Titus_Welliver/5FUw4n68xY8_0000005 200.8 220.6 

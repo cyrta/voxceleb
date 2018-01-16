@@ -1,0 +1,9 @@
+POI: 			Stacy_Keach 
+Youtube ID: 	lLfCOAN2OTM 
+Video length: 	269.6 sec 
+Set (V): 		dev 
+ 
+Stacy_Keach/lLfCOAN2OTM_0000001 105.4 110.3 
+Stacy_Keach/lLfCOAN2OTM_0000002 111.3 117.6 
+Stacy_Keach/lLfCOAN2OTM_0000003 146.8 151.8 
+Stacy_Keach/lLfCOAN2OTM_0000004 212.5 217.5 

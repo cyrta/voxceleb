@@ -1,0 +1,14 @@
+POI: 			Sarah_Palin 
+Youtube ID: 	4EaWdxTOWIk 
+Video length: 	416.1 sec 
+Set (V): 		dev 
+ 
+Sarah_Palin/4EaWdxTOWIk_0000001 18.6 23.8 
+Sarah_Palin/4EaWdxTOWIk_0000002 24.1 34.6 
+Sarah_Palin/4EaWdxTOWIk_0000003 38.4 49.0 
+Sarah_Palin/4EaWdxTOWIk_0000004 58.8 63.6 
+Sarah_Palin/4EaWdxTOWIk_0000005 63.8 70.1 
+Sarah_Palin/4EaWdxTOWIk_0000006 80.1 86.1 
+Sarah_Palin/4EaWdxTOWIk_0000007 90.2 100.2 
+Sarah_Palin/4EaWdxTOWIk_0000008 108.3 118.8 
+Sarah_Palin/4EaWdxTOWIk_0000009 119.4 131.2 

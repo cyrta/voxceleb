@@ -1,0 +1,13 @@
+POI: 			Rainn_Wilson 
+Youtube ID: 	GZX905HurWE 
+Video length: 	121.9 sec 
+Set (V): 		dev 
+ 
+Rainn_Wilson/GZX905HurWE_0000001 02.8 13.4 
+Rainn_Wilson/GZX905HurWE_0000002 22.8 39.9 
+Rainn_Wilson/GZX905HurWE_0000003 54.5 58.7 
+Rainn_Wilson/GZX905HurWE_0000004 66.7 71.4 
+Rainn_Wilson/GZX905HurWE_0000005 76.9 88.0 
+Rainn_Wilson/GZX905HurWE_0000006 88.5 93.2 
+Rainn_Wilson/GZX905HurWE_0000007 93.4 100.5 
+Rainn_Wilson/GZX905HurWE_0000008 107.9 112.9 

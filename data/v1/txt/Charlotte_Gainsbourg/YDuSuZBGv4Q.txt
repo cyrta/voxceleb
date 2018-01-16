@@ -1,0 +1,10 @@
+POI: 			Charlotte_Gainsbourg 
+Youtube ID: 	YDuSuZBGv4Q 
+Video length: 	362.5 sec 
+Set (V): 		dev 
+ 
+Charlotte_Gainsbourg/YDuSuZBGv4Q_0000001 42.2 54.7 
+Charlotte_Gainsbourg/YDuSuZBGv4Q_0000002 109.8 114.8 
+Charlotte_Gainsbourg/YDuSuZBGv4Q_0000003 161.6 167.1 
+Charlotte_Gainsbourg/YDuSuZBGv4Q_0000004 208.3 213.4 
+Charlotte_Gainsbourg/YDuSuZBGv4Q_0000005 233.6 238.2 

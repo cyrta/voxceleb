@@ -1,0 +1,14 @@
+POI: 			Stanley_Tucci 
+Youtube ID: 	auLpyjn7MDE 
+Video length: 	135.1 sec 
+Set (V): 		dev 
+ 
+Stanley_Tucci/auLpyjn7MDE_0000001 11.3 16.0 
+Stanley_Tucci/auLpyjn7MDE_0000002 21.2 25.5 
+Stanley_Tucci/auLpyjn7MDE_0000003 36.0 41.4 
+Stanley_Tucci/auLpyjn7MDE_0000004 45.4 52.3 
+Stanley_Tucci/auLpyjn7MDE_0000005 56.6 60.9 
+Stanley_Tucci/auLpyjn7MDE_0000006 86.0 90.3 
+Stanley_Tucci/auLpyjn7MDE_0000007 56.3 60.9 
+Stanley_Tucci/auLpyjn7MDE_0000008 113.3 118.1 
+Stanley_Tucci/auLpyjn7MDE_0000009 128.0 132.2 

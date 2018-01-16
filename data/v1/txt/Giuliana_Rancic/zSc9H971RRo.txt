@@ -1,0 +1,11 @@
+POI: 			Giuliana_Rancic 
+Youtube ID: 	zSc9H971RRo 
+Video length: 	369.3 sec 
+Set (V): 		dev 
+ 
+Giuliana_Rancic/zSc9H971RRo_0000001 41.0 46.4 
+Giuliana_Rancic/zSc9H971RRo_0000002 46.7 52.7 
+Giuliana_Rancic/zSc9H971RRo_0000003 62.6 71.4 
+Giuliana_Rancic/zSc9H971RRo_0000004 78.8 84.8 
+Giuliana_Rancic/zSc9H971RRo_0000005 90.6 97.8 
+Giuliana_Rancic/zSc9H971RRo_0000006 242.9 250.8 

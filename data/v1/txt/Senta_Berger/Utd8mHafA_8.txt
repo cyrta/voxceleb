@@ -1,0 +1,25 @@
+POI: 			Senta_Berger 
+Youtube ID: 	Utd8mHafA_8 
+Video length: 	2617.3 sec 
+Set (V): 		dev 
+ 
+Senta_Berger/Utd8mHafA_8_0000001 75.1 79.7 
+Senta_Berger/Utd8mHafA_8_0000002 200.2 204.2 
+Senta_Berger/Utd8mHafA_8_0000003 259.2 263.7 
+Senta_Berger/Utd8mHafA_8_0000004 269.4 274.1 
+Senta_Berger/Utd8mHafA_8_0000005 478.0 484.3 
+Senta_Berger/Utd8mHafA_8_0000006 605.5 611.6 
+Senta_Berger/Utd8mHafA_8_0000007 649.0 652.9 
+Senta_Berger/Utd8mHafA_8_0000008 726.7 731.2 
+Senta_Berger/Utd8mHafA_8_0000009 731.3 737.5 
+Senta_Berger/Utd8mHafA_8_0000010 816.7 822.3 
+Senta_Berger/Utd8mHafA_8_0000011 875.0 881.4 
+Senta_Berger/Utd8mHafA_8_0000012 901.0 911.4 
+Senta_Berger/Utd8mHafA_8_0000013 1657.7 1665.0 
+Senta_Berger/Utd8mHafA_8_0000014 1674.9 1691.6 
+Senta_Berger/Utd8mHafA_8_0000015 1768.0 1773.8 
+Senta_Berger/Utd8mHafA_8_0000016 1943.0 1950.1 
+Senta_Berger/Utd8mHafA_8_0000017 1959.5 1967.6 
+Senta_Berger/Utd8mHafA_8_0000018 2347.2 2364.8 
+Senta_Berger/Utd8mHafA_8_0000019 2423.2 2430.0 
+Senta_Berger/Utd8mHafA_8_0000020 2430.1 2440.3 

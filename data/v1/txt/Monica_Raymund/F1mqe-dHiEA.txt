@@ -1,0 +1,10 @@
+POI: 			Monica_Raymund 
+Youtube ID: 	F1mqe-dHiEA 
+Video length: 	134.4 sec 
+Set (V): 		dev 
+ 
+Monica_Raymund/F1mqe-dHiEA_0000001 09.3 14.6 
+Monica_Raymund/F1mqe-dHiEA_0000002 39.3 47.8 
+Monica_Raymund/F1mqe-dHiEA_0000003 58.9 69.7 
+Monica_Raymund/F1mqe-dHiEA_0000004 69.8 77.7 
+Monica_Raymund/F1mqe-dHiEA_0000005 125.6 131.9 

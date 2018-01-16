@@ -1,0 +1,14 @@
+POI: 			Mena_Suvari 
+Youtube ID: 	m5C-Av5m-Os 
+Video length: 	233.0 sec 
+Set (V): 		dev 
+ 
+Mena_Suvari/m5C-Av5m-Os_0000001 20.7 34.4 
+Mena_Suvari/m5C-Av5m-Os_0000002 39.9 44.1 
+Mena_Suvari/m5C-Av5m-Os_0000003 72.3 77.6 
+Mena_Suvari/m5C-Av5m-Os_0000004 135.8 139.8 
+Mena_Suvari/m5C-Av5m-Os_0000005 151.0 158.0 
+Mena_Suvari/m5C-Av5m-Os_0000006 158.8 165.0 
+Mena_Suvari/m5C-Av5m-Os_0000007 165.4 173.9 
+Mena_Suvari/m5C-Av5m-Os_0000008 185.9 190.4 
+Mena_Suvari/m5C-Av5m-Os_0000009 190.9 194.9 

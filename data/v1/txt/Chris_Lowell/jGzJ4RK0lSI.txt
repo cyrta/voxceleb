@@ -1,0 +1,9 @@
+POI: 			Chris_Lowell 
+Youtube ID: 	jGzJ4RK0lSI 
+Video length: 	343.4 sec 
+Set (V): 		dev 
+ 
+Chris_Lowell/jGzJ4RK0lSI_0000001 36.0 42.0 
+Chris_Lowell/jGzJ4RK0lSI_0000002 212.5 217.4 
+Chris_Lowell/jGzJ4RK0lSI_0000003 287.8 294.0 
+Chris_Lowell/jGzJ4RK0lSI_0000004 309.1 316.4 

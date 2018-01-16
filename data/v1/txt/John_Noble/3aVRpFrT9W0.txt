@@ -1,0 +1,12 @@
+POI: 			John_Noble 
+Youtube ID: 	3aVRpFrT9W0 
+Video length: 	578.2 sec 
+Set (V): 		dev 
+ 
+John_Noble/3aVRpFrT9W0_0000001 68.8 74.2 
+John_Noble/3aVRpFrT9W0_0000002 134.4 141.7 
+John_Noble/3aVRpFrT9W0_0000003 165.8 170.5 
+John_Noble/3aVRpFrT9W0_0000004 210.2 214.6 
+John_Noble/3aVRpFrT9W0_0000005 216.2 221.4 
+John_Noble/3aVRpFrT9W0_0000006 423.8 432.2 
+John_Noble/3aVRpFrT9W0_0000007 506.2 510.5 

@@ -1,0 +1,10 @@
+POI: 			Tilda_Swinton 
+Youtube ID: 	hZH6-6W9y7Q 
+Video length: 	158.0 sec 
+Set (V): 		dev 
+ 
+Tilda_Swinton/hZH6-6W9y7Q_0000001 23.9 57.2 
+Tilda_Swinton/hZH6-6W9y7Q_0000002 90.0 100.0 
+Tilda_Swinton/hZH6-6W9y7Q_0000003 102.1 115.0 
+Tilda_Swinton/hZH6-6W9y7Q_0000004 116.8 123.2 
+Tilda_Swinton/hZH6-6W9y7Q_0000005 128.0 138.0 

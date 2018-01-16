@@ -1,0 +1,9 @@
+POI: 			Joaquim_de_Almeida 
+Youtube ID: 	qeyQKRSbAlE 
+Video length: 	223.8 sec 
+Set (V): 		dev 
+ 
+Joaquim_de_Almeida/qeyQKRSbAlE_0000001 48.3 59.2 
+Joaquim_de_Almeida/qeyQKRSbAlE_0000002 144.0 149.4 
+Joaquim_de_Almeida/qeyQKRSbAlE_0000003 168.8 175.1 
+Joaquim_de_Almeida/qeyQKRSbAlE_0000004 181.8 192.0 

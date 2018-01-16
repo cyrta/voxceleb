@@ -1,0 +1,8 @@
+POI: 			Matthew_Lillard 
+Youtube ID: 	MbXkb9Es5yQ 
+Video length: 	265.0 sec 
+Set (V): 		dev 
+ 
+Matthew_Lillard/MbXkb9Es5yQ_0000001 69.6 73.9 
+Matthew_Lillard/MbXkb9Es5yQ_0000002 139.6 146.4 
+Matthew_Lillard/MbXkb9Es5yQ_0000003 218.1 222.2 

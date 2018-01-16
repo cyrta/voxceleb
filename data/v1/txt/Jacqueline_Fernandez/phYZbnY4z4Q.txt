@@ -1,0 +1,9 @@
+POI: 			Jacqueline_Fernandez 
+Youtube ID: 	phYZbnY4z4Q 
+Video length: 	318.8 sec 
+Set (V): 		dev 
+ 
+Jacqueline_Fernandez/phYZbnY4z4Q_0000001 208.0 216.6 
+Jacqueline_Fernandez/phYZbnY4z4Q_0000002 228.6 235.8 
+Jacqueline_Fernandez/phYZbnY4z4Q_0000003 237.9 243.7 
+Jacqueline_Fernandez/phYZbnY4z4Q_0000004 245.8 250.0 

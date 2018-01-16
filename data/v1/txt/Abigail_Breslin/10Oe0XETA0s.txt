@@ -1,0 +1,9 @@
+POI: 			Abigail_Breslin 
+Youtube ID: 	10Oe0XETA0s 
+Video length: 	225.9 sec 
+Set (V): 		dev 
+ 
+Abigail_Breslin/10Oe0XETA0s_0000001 19.2 30.8 
+Abigail_Breslin/10Oe0XETA0s_0000002 34.0 46.4 
+Abigail_Breslin/10Oe0XETA0s_0000003 75.0 80.1 
+Abigail_Breslin/10Oe0XETA0s_0000004 202.6 214.7 

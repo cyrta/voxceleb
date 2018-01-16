@@ -1,0 +1,7 @@
+POI: 			Adam_Driver 
+Youtube ID: 	PfrOkWQfi08 
+Video length: 	198.7 sec 
+Set (V): 		dev 
+ 
+Adam_Driver/PfrOkWQfi08_0000001 42.5 46.6 
+Adam_Driver/PfrOkWQfi08_0000002 146.8 151.2 

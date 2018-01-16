@@ -1,0 +1,12 @@
+POI: 			Olivia_Williams 
+Youtube ID: 	UrfxTs6LOEQ 
+Video length: 	273.7 sec 
+Set (V): 		dev 
+ 
+Olivia_Williams/UrfxTs6LOEQ_0000001 28.8 38.3 
+Olivia_Williams/UrfxTs6LOEQ_0000002 56.4 71.0 
+Olivia_Williams/UrfxTs6LOEQ_0000003 71.0 78.1 
+Olivia_Williams/UrfxTs6LOEQ_0000004 84.0 90.7 
+Olivia_Williams/UrfxTs6LOEQ_0000005 109.4 136.2 
+Olivia_Williams/UrfxTs6LOEQ_0000006 152.9 162.0 
+Olivia_Williams/UrfxTs6LOEQ_0000007 199.5 205.8 

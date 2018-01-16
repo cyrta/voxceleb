@@ -1,0 +1,14 @@
+POI: 			Leonor_Watling 
+Youtube ID: 	pWfHoVkir6E 
+Video length: 	536.9 sec 
+Set (V): 		dev 
+ 
+Leonor_Watling/pWfHoVkir6E_0000001 137.4 146.2 
+Leonor_Watling/pWfHoVkir6E_0000002 147.5 152.4 
+Leonor_Watling/pWfHoVkir6E_0000003 254.8 258.7 
+Leonor_Watling/pWfHoVkir6E_0000004 287.4 292.1 
+Leonor_Watling/pWfHoVkir6E_0000005 376.7 380.8 
+Leonor_Watling/pWfHoVkir6E_0000006 396.9 403.3 
+Leonor_Watling/pWfHoVkir6E_0000007 426.6 431.5 
+Leonor_Watling/pWfHoVkir6E_0000008 470.5 475.4 
+Leonor_Watling/pWfHoVkir6E_0000009 475.4 480.4 

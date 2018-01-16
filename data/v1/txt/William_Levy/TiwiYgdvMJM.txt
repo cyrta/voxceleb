@@ -1,0 +1,18 @@
+POI: 			William_Levy 
+Youtube ID: 	TiwiYgdvMJM 
+Video length: 	336.8 sec 
+Set (V): 		dev 
+ 
+William_Levy/TiwiYgdvMJM_0000001 70.5 82.3 
+William_Levy/TiwiYgdvMJM_0000002 92.0 98.1 
+William_Levy/TiwiYgdvMJM_0000003 128.6 132.8 
+William_Levy/TiwiYgdvMJM_0000004 133.3 137.3 
+William_Levy/TiwiYgdvMJM_0000005 150.5 156.1 
+William_Levy/TiwiYgdvMJM_0000006 163.5 170.4 
+William_Levy/TiwiYgdvMJM_0000007 180.2 185.2 
+William_Levy/TiwiYgdvMJM_0000008 238.8 246.3 
+William_Levy/TiwiYgdvMJM_0000009 251.1 256.0 
+William_Levy/TiwiYgdvMJM_0000010 256.2 263.8 
+William_Levy/TiwiYgdvMJM_0000011 286.7 291.4 
+William_Levy/TiwiYgdvMJM_0000012 292.4 299.9 
+William_Levy/TiwiYgdvMJM_0000013 300.8 308.5 

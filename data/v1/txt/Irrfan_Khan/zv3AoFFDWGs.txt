@@ -1,0 +1,32 @@
+POI: 			Irrfan_Khan 
+Youtube ID: 	zv3AoFFDWGs 
+Video length: 	803.6 sec 
+Set (V): 		dev 
+ 
+Irrfan_Khan/zv3AoFFDWGs_0000001 46.9 51.4 
+Irrfan_Khan/zv3AoFFDWGs_0000002 64.4 70.1 
+Irrfan_Khan/zv3AoFFDWGs_0000003 89.2 102.6 
+Irrfan_Khan/zv3AoFFDWGs_0000004 105.3 114.0 
+Irrfan_Khan/zv3AoFFDWGs_0000005 139.6 150.8 
+Irrfan_Khan/zv3AoFFDWGs_0000006 154.6 161.8 
+Irrfan_Khan/zv3AoFFDWGs_0000007 162.0 166.3 
+Irrfan_Khan/zv3AoFFDWGs_0000008 169.1 175.8 
+Irrfan_Khan/zv3AoFFDWGs_0000009 235.4 240.4 
+Irrfan_Khan/zv3AoFFDWGs_0000010 242.1 247.1 
+Irrfan_Khan/zv3AoFFDWGs_0000011 259.3 263.3 
+Irrfan_Khan/zv3AoFFDWGs_0000012 268.6 277.2 
+Irrfan_Khan/zv3AoFFDWGs_0000013 282.9 288.6 
+Irrfan_Khan/zv3AoFFDWGs_0000014 299.3 304.8 
+Irrfan_Khan/zv3AoFFDWGs_0000015 305.2 310.2 
+Irrfan_Khan/zv3AoFFDWGs_0000016 355.0 359.4 
+Irrfan_Khan/zv3AoFFDWGs_0000017 363.0 367.7 
+Irrfan_Khan/zv3AoFFDWGs_0000018 442.3 449.8 
+Irrfan_Khan/zv3AoFFDWGs_0000019 488.6 496.6 
+Irrfan_Khan/zv3AoFFDWGs_0000020 505.2 510.2 
+Irrfan_Khan/zv3AoFFDWGs_0000021 597.5 602.0 
+Irrfan_Khan/zv3AoFFDWGs_0000022 675.4 679.6 
+Irrfan_Khan/zv3AoFFDWGs_0000023 695.2 702.5 
+Irrfan_Khan/zv3AoFFDWGs_0000024 709.2 713.8 
+Irrfan_Khan/zv3AoFFDWGs_0000025 723.3 730.5 
+Irrfan_Khan/zv3AoFFDWGs_0000026 737.4 743.2 
+Irrfan_Khan/zv3AoFFDWGs_0000027 753.2 758.6 

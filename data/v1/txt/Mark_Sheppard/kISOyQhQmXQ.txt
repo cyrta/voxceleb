@@ -1,0 +1,8 @@
+POI: 			Mark_Sheppard 
+Youtube ID: 	kISOyQhQmXQ 
+Video length: 	444.5 sec 
+Set (V): 		dev 
+ 
+Mark_Sheppard/kISOyQhQmXQ_0000001 148.0 152.1 
+Mark_Sheppard/kISOyQhQmXQ_0000002 236.2 241.8 
+Mark_Sheppard/kISOyQhQmXQ_0000003 376.2 384.6 

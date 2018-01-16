@@ -1,0 +1,10 @@
+POI: 			Irrfan_Khan 
+Youtube ID: 	Z39rBHg_EyE 
+Video length: 	743.4 sec 
+Set (V): 		dev 
+ 
+Irrfan_Khan/Z39rBHg_EyE_0000001 171.9 177.3 
+Irrfan_Khan/Z39rBHg_EyE_0000002 228.4 232.5 
+Irrfan_Khan/Z39rBHg_EyE_0000003 331.1 336.2 
+Irrfan_Khan/Z39rBHg_EyE_0000004 475.6 480.8 
+Irrfan_Khan/Z39rBHg_EyE_0000005 666.7 673.9 

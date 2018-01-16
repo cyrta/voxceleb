@@ -1,0 +1,12 @@
+POI: 			Janel_Parrish 
+Youtube ID: 	AXF789vAXD0 
+Video length: 	183.4 sec 
+Set (V): 		dev 
+ 
+Janel_Parrish/AXF789vAXD0_0000001 11.2 22.9 
+Janel_Parrish/AXF789vAXD0_0000002 24.7 34.9 
+Janel_Parrish/AXF789vAXD0_0000003 35.8 40.0 
+Janel_Parrish/AXF789vAXD0_0000004 123.4 130.9 
+Janel_Parrish/AXF789vAXD0_0000005 133.4 140.3 
+Janel_Parrish/AXF789vAXD0_0000006 153.6 157.6 
+Janel_Parrish/AXF789vAXD0_0000007 174.1 181.8 

@@ -1,0 +1,17 @@
+POI: 			Wesley_Snipes 
+Youtube ID: 	sXnRwio_hME 
+Video length: 	269.4 sec 
+Set (V): 		dev 
+ 
+Wesley_Snipes/sXnRwio_hME_0000001 20.5 25.7 
+Wesley_Snipes/sXnRwio_hME_0000002 27.2 41.4 
+Wesley_Snipes/sXnRwio_hME_0000003 41.6 46.5 
+Wesley_Snipes/sXnRwio_hME_0000004 54.7 59.9 
+Wesley_Snipes/sXnRwio_hME_0000005 60.4 68.2 
+Wesley_Snipes/sXnRwio_hME_0000006 80.1 99.8 
+Wesley_Snipes/sXnRwio_hME_0000007 119.2 124.0 
+Wesley_Snipes/sXnRwio_hME_0000008 143.4 149.8 
+Wesley_Snipes/sXnRwio_hME_0000009 150.3 154.9 
+Wesley_Snipes/sXnRwio_hME_0000010 176.4 182.1 
+Wesley_Snipes/sXnRwio_hME_0000011 186.9 199.2 
+Wesley_Snipes/sXnRwio_hME_0000012 229.9 249.1 

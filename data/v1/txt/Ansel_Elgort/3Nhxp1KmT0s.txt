@@ -1,0 +1,7 @@
+POI: 			Ansel_Elgort 
+Youtube ID: 	3Nhxp1KmT0s 
+Video length: 	268.1 sec 
+Set (V): 		dev 
+ 
+Ansel_Elgort/3Nhxp1KmT0s_0000001 84.2 89.2 
+Ansel_Elgort/3Nhxp1KmT0s_0000002 181.1 186.1 

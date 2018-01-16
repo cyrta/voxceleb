@@ -1,0 +1,7 @@
+POI: 			David_Kross 
+Youtube ID: 	cPR7fKFJA-s 
+Video length: 	310.9 sec 
+Set (V): 		dev 
+ 
+David_Kross/cPR7fKFJA-s_0000001 147.9 156.4 
+David_Kross/cPR7fKFJA-s_0000002 165.2 169.4 

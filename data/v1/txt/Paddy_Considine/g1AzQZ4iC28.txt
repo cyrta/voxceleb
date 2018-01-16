@@ -1,0 +1,11 @@
+POI: 			Paddy_Considine 
+Youtube ID: 	g1AzQZ4iC28 
+Video length: 	151.6 sec 
+Set (V): 		dev 
+ 
+Paddy_Considine/g1AzQZ4iC28_0000001 08.8 14.8 
+Paddy_Considine/g1AzQZ4iC28_0000002 23.4 27.8 
+Paddy_Considine/g1AzQZ4iC28_0000003 75.9 80.2 
+Paddy_Considine/g1AzQZ4iC28_0000004 104.0 108.1 
+Paddy_Considine/g1AzQZ4iC28_0000005 116.4 124.7 
+Paddy_Considine/g1AzQZ4iC28_0000006 142.6 147.8 

@@ -1,0 +1,8 @@
+POI: 			Leslie_Mann 
+Youtube ID: 	VEC5m8iNRGM 
+Video length: 	571.4 sec 
+Set (V): 		dev 
+ 
+Leslie_Mann/VEC5m8iNRGM_0000001 67.2 75.8 
+Leslie_Mann/VEC5m8iNRGM_0000002 379.2 393.2 
+Leslie_Mann/VEC5m8iNRGM_0000003 553.0 558.9 

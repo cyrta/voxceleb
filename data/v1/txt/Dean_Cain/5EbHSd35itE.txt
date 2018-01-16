@@ -1,0 +1,13 @@
+POI: 			Dean_Cain 
+Youtube ID: 	5EbHSd35itE 
+Video length: 	158.0 sec 
+Set (V): 		dev 
+ 
+Dean_Cain/5EbHSd35itE_0000001 10.5 24.5 
+Dean_Cain/5EbHSd35itE_0000002 25.0 33.0 
+Dean_Cain/5EbHSd35itE_0000003 34.9 43.4 
+Dean_Cain/5EbHSd35itE_0000004 45.3 58.4 
+Dean_Cain/5EbHSd35itE_0000005 60.2 66.3 
+Dean_Cain/5EbHSd35itE_0000006 65.2 73.5 
+Dean_Cain/5EbHSd35itE_0000007 112.3 123.6 
+Dean_Cain/5EbHSd35itE_0000008 123.8 129.8 

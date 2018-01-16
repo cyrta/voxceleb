@@ -1,0 +1,11 @@
+POI: 			Kid_Rock 
+Youtube ID: 	BryeQfBIpm4 
+Video length: 	427.5 sec 
+Set (V): 		dev 
+ 
+Kid_Rock/BryeQfBIpm4_0000001 139.3 144.0 
+Kid_Rock/BryeQfBIpm4_0000002 158.2 162.2 
+Kid_Rock/BryeQfBIpm4_0000003 212.2 218.4 
+Kid_Rock/BryeQfBIpm4_0000004 225.7 230.5 
+Kid_Rock/BryeQfBIpm4_0000005 297.6 306.8 
+Kid_Rock/BryeQfBIpm4_0000006 365.4 369.8 

@@ -1,0 +1,30 @@
+POI: 			Glen_Hansard 
+Youtube ID: 	Sh1WYE0jlXA 
+Video length: 	333.1 sec 
+Set (V): 		dev 
+ 
+Glen_Hansard/Sh1WYE0jlXA_0000001 21.5 26.2 
+Glen_Hansard/Sh1WYE0jlXA_0000002 35.2 41.4 
+Glen_Hansard/Sh1WYE0jlXA_0000003 47.6 52.1 
+Glen_Hansard/Sh1WYE0jlXA_0000004 54.7 58.7 
+Glen_Hansard/Sh1WYE0jlXA_0000005 59.1 64.4 
+Glen_Hansard/Sh1WYE0jlXA_0000006 68.2 74.0 
+Glen_Hansard/Sh1WYE0jlXA_0000007 75.8 86.9 
+Glen_Hansard/Sh1WYE0jlXA_0000008 88.6 94.0 
+Glen_Hansard/Sh1WYE0jlXA_0000009 95.4 99.3 
+Glen_Hansard/Sh1WYE0jlXA_0000010 108.0 116.4 
+Glen_Hansard/Sh1WYE0jlXA_0000011 127.7 135.7 
+Glen_Hansard/Sh1WYE0jlXA_0000012 143.5 147.6 
+Glen_Hansard/Sh1WYE0jlXA_0000013 150.5 157.0 
+Glen_Hansard/Sh1WYE0jlXA_0000014 81.0 86.9 
+Glen_Hansard/Sh1WYE0jlXA_0000015 88.6 93.8 
+Glen_Hansard/Sh1WYE0jlXA_0000016 162.0 169.2 
+Glen_Hansard/Sh1WYE0jlXA_0000017 170.8 181.0 
+Glen_Hansard/Sh1WYE0jlXA_0000018 184.8 191.6 
+Glen_Hansard/Sh1WYE0jlXA_0000019 208.2 215.1 
+Glen_Hansard/Sh1WYE0jlXA_0000020 220.5 232.3 
+Glen_Hansard/Sh1WYE0jlXA_0000021 242.5 268.9 
+Glen_Hansard/Sh1WYE0jlXA_0000022 272.4 276.4 
+Glen_Hansard/Sh1WYE0jlXA_0000023 276.8 281.4 
+Glen_Hansard/Sh1WYE0jlXA_0000024 291.4 296.0 
+Glen_Hansard/Sh1WYE0jlXA_0000025 303.2 323.5 

@@ -1,0 +1,11 @@
+POI: 			Ginger_Rogers 
+Youtube ID: 	fazZpLUau3k 
+Video length: 	1507.3 sec 
+Set (V): 		dev 
+ 
+Ginger_Rogers/fazZpLUau3k_0000001 232.5 248.0 
+Ginger_Rogers/fazZpLUau3k_0000002 277.2 284.2 
+Ginger_Rogers/fazZpLUau3k_0000003 333.4 339.9 
+Ginger_Rogers/fazZpLUau3k_0000004 409.0 419.8 
+Ginger_Rogers/fazZpLUau3k_0000005 826.2 835.5 
+Ginger_Rogers/fazZpLUau3k_0000006 997.2 1001.5 

@@ -1,0 +1,16 @@
+POI: 			Mark_Webber 
+Youtube ID: 	8Z2g6wsmngo 
+Video length: 	157.2 sec 
+Set (V): 		dev 
+ 
+Mark_Webber/8Z2g6wsmngo_0000001 06.1 19.3 
+Mark_Webber/8Z2g6wsmngo_0000002 21.4 27.7 
+Mark_Webber/8Z2g6wsmngo_0000003 28.6 37.8 
+Mark_Webber/8Z2g6wsmngo_0000004 39.2 43.9 
+Mark_Webber/8Z2g6wsmngo_0000005 57.0 63.7 
+Mark_Webber/8Z2g6wsmngo_0000006 93.5 102.8 
+Mark_Webber/8Z2g6wsmngo_0000007 107.6 113.7 
+Mark_Webber/8Z2g6wsmngo_0000008 117.0 126.8 
+Mark_Webber/8Z2g6wsmngo_0000009 129.2 136.8 
+Mark_Webber/8Z2g6wsmngo_0000010 138.9 143.1 
+Mark_Webber/8Z2g6wsmngo_0000011 148.7 155.6 

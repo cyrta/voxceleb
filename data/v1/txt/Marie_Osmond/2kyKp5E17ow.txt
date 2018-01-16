@@ -1,0 +1,17 @@
+POI: 			Marie_Osmond 
+Youtube ID: 	2kyKp5E17ow 
+Video length: 	2718.2 sec 
+Set (V): 		dev 
+ 
+Marie_Osmond/2kyKp5E17ow_0000001 171.3 176.4 
+Marie_Osmond/2kyKp5E17ow_0000002 190.2 195.4 
+Marie_Osmond/2kyKp5E17ow_0000003 490.0 496.9 
+Marie_Osmond/2kyKp5E17ow_0000004 546.0 559.6 
+Marie_Osmond/2kyKp5E17ow_0000005 562.7 566.8 
+Marie_Osmond/2kyKp5E17ow_0000006 581.4 590.0 
+Marie_Osmond/2kyKp5E17ow_0000007 646.6 653.4 
+Marie_Osmond/2kyKp5E17ow_0000008 656.8 660.8 
+Marie_Osmond/2kyKp5E17ow_0000009 731.3 737.9 
+Marie_Osmond/2kyKp5E17ow_0000010 784.3 798.8 
+Marie_Osmond/2kyKp5E17ow_0000011 1744.5 1751.8 
+Marie_Osmond/2kyKp5E17ow_0000012 2166.6 2174.4 

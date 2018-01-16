@@ -1,0 +1,8 @@
+POI: 			Alan_Cumming 
+Youtube ID: 	PG4gqhd78js 
+Video length: 	214.1 sec 
+Set (V): 		dev 
+ 
+Alan_Cumming/PG4gqhd78js_0000001 51.3 62.0 
+Alan_Cumming/PG4gqhd78js_0000002 91.0 103.2 
+Alan_Cumming/PG4gqhd78js_0000003 103.6 109.4 

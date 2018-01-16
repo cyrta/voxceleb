@@ -1,0 +1,11 @@
+POI: 			Lisa_Ray 
+Youtube ID: 	lpdZTJxySpA 
+Video length: 	76.1 sec 
+Set (V): 		dev 
+ 
+Lisa_Ray/lpdZTJxySpA_0000001 05.9 10.2 
+Lisa_Ray/lpdZTJxySpA_0000002 10.3 26.6 
+Lisa_Ray/lpdZTJxySpA_0000003 26.8 39.6 
+Lisa_Ray/lpdZTJxySpA_0000004 37.9 42.0 
+Lisa_Ray/lpdZTJxySpA_0000005 52.2 56.6 
+Lisa_Ray/lpdZTJxySpA_0000006 57.2 69.1 

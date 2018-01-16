@@ -1,0 +1,13 @@
+POI: 			Rob_Brydon 
+Youtube ID: 	Udn2YvgWMok 
+Video length: 	355.3 sec 
+Set (V): 		dev 
+ 
+Rob_Brydon/Udn2YvgWMok_0000001 39.4 43.5 
+Rob_Brydon/Udn2YvgWMok_0000002 45.3 51.2 
+Rob_Brydon/Udn2YvgWMok_0000003 51.4 55.5 
+Rob_Brydon/Udn2YvgWMok_0000004 110.8 116.8 
+Rob_Brydon/Udn2YvgWMok_0000005 123.4 137.0 
+Rob_Brydon/Udn2YvgWMok_0000006 137.6 146.2 
+Rob_Brydon/Udn2YvgWMok_0000007 146.8 157.0 
+Rob_Brydon/Udn2YvgWMok_0000008 305.3 324.3 

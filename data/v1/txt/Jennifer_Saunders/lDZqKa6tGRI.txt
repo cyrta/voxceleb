@@ -1,0 +1,10 @@
+POI: 			Jennifer_Saunders 
+Youtube ID: 	lDZqKa6tGRI 
+Video length: 	269.2 sec 
+Set (V): 		dev 
+ 
+Jennifer_Saunders/lDZqKa6tGRI_0000001 25.8 30.2 
+Jennifer_Saunders/lDZqKa6tGRI_0000002 42.6 47.0 
+Jennifer_Saunders/lDZqKa6tGRI_0000003 135.1 139.1 
+Jennifer_Saunders/lDZqKa6tGRI_0000004 139.4 144.4 
+Jennifer_Saunders/lDZqKa6tGRI_0000005 155.5 160.2 

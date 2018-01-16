@@ -1,0 +1,8 @@
+POI: 			John_Barrowman 
+Youtube ID: 	jnBa17nY7rw 
+Video length: 	174.0 sec 
+Set (V): 		dev 
+ 
+John_Barrowman/jnBa17nY7rw_0000001 42.9 55.5 
+John_Barrowman/jnBa17nY7rw_0000002 84.0 92.5 
+John_Barrowman/jnBa17nY7rw_0000003 102.2 106.2 

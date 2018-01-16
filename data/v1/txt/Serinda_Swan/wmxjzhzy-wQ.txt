@@ -1,0 +1,17 @@
+POI: 			Serinda_Swan 
+Youtube ID: 	wmxjzhzy-wQ 
+Video length: 	582.8 sec 
+Set (V): 		dev 
+ 
+Serinda_Swan/wmxjzhzy-wQ_0000001 122.0 126.6 
+Serinda_Swan/wmxjzhzy-wQ_0000002 139.9 145.6 
+Serinda_Swan/wmxjzhzy-wQ_0000003 181.9 186.2 
+Serinda_Swan/wmxjzhzy-wQ_0000004 223.1 230.6 
+Serinda_Swan/wmxjzhzy-wQ_0000005 248.2 252.6 
+Serinda_Swan/wmxjzhzy-wQ_0000006 272.6 277.3 
+Serinda_Swan/wmxjzhzy-wQ_0000007 440.9 445.7 
+Serinda_Swan/wmxjzhzy-wQ_0000008 450.1 465.6 
+Serinda_Swan/wmxjzhzy-wQ_0000009 466.0 470.7 
+Serinda_Swan/wmxjzhzy-wQ_0000010 476.4 493.1 
+Serinda_Swan/wmxjzhzy-wQ_0000011 495.3 506.4 
+Serinda_Swan/wmxjzhzy-wQ_0000012 555.7 560.0 

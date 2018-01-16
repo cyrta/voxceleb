@@ -1,0 +1,17 @@
+POI: 			Jeff_Daniels 
+Youtube ID: 	vTuFTwMlNYU 
+Video length: 	447.9 sec 
+Set (V): 		dev 
+ 
+Jeff_Daniels/vTuFTwMlNYU_0000001 22.9 29.1 
+Jeff_Daniels/vTuFTwMlNYU_0000002 32.4 37.2 
+Jeff_Daniels/vTuFTwMlNYU_0000003 52.2 57.1 
+Jeff_Daniels/vTuFTwMlNYU_0000004 136.0 141.1 
+Jeff_Daniels/vTuFTwMlNYU_0000005 174.0 181.5 
+Jeff_Daniels/vTuFTwMlNYU_0000006 181.8 186.7 
+Jeff_Daniels/vTuFTwMlNYU_0000007 243.6 248.1 
+Jeff_Daniels/vTuFTwMlNYU_0000008 255.1 260.0 
+Jeff_Daniels/vTuFTwMlNYU_0000009 297.0 302.4 
+Jeff_Daniels/vTuFTwMlNYU_0000010 410.7 415.7 
+Jeff_Daniels/vTuFTwMlNYU_0000011 417.0 421.2 
+Jeff_Daniels/vTuFTwMlNYU_0000012 441.8 445.8 

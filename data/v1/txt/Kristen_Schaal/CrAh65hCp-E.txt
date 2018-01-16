@@ -1,0 +1,12 @@
+POI: 			Kristen_Schaal 
+Youtube ID: 	CrAh65hCp-E 
+Video length: 	392.3 sec 
+Set (V): 		dev 
+ 
+Kristen_Schaal/CrAh65hCp-E_0000001 42.6 46.6 
+Kristen_Schaal/CrAh65hCp-E_0000002 100.1 109.8 
+Kristen_Schaal/CrAh65hCp-E_0000003 130.0 134.2 
+Kristen_Schaal/CrAh65hCp-E_0000004 174.7 180.1 
+Kristen_Schaal/CrAh65hCp-E_0000005 302.7 309.0 
+Kristen_Schaal/CrAh65hCp-E_0000006 313.1 318.4 
+Kristen_Schaal/CrAh65hCp-E_0000007 320.5 326.2 

@@ -1,0 +1,11 @@
+POI: 			Dr._Dre 
+Youtube ID: 	p2BQ8Fwhimc 
+Video length: 	99.5 sec 
+Set (V): 		dev 
+ 
+Dr._Dre/p2BQ8Fwhimc_0000001 23.9 36.5 
+Dr._Dre/p2BQ8Fwhimc_0000002 45.5 53.5 
+Dr._Dre/p2BQ8Fwhimc_0000003 58.9 64.4 
+Dr._Dre/p2BQ8Fwhimc_0000004 75.8 81.7 
+Dr._Dre/p2BQ8Fwhimc_0000005 82.0 86.2 
+Dr._Dre/p2BQ8Fwhimc_0000006 89.5 97.8 

@@ -1,0 +1,13 @@
+POI: 			Sara_Ramirez 
+Youtube ID: 	fV74m0kVFmA 
+Video length: 	249.6 sec 
+Set (V): 		dev 
+ 
+Sara_Ramirez/fV74m0kVFmA_0000001 13.1 21.0 
+Sara_Ramirez/fV74m0kVFmA_0000002 21.7 26.8 
+Sara_Ramirez/fV74m0kVFmA_0000003 27.3 31.9 
+Sara_Ramirez/fV74m0kVFmA_0000004 37.1 41.2 
+Sara_Ramirez/fV74m0kVFmA_0000005 50.1 55.9 
+Sara_Ramirez/fV74m0kVFmA_0000006 88.0 92.2 
+Sara_Ramirez/fV74m0kVFmA_0000007 99.4 105.0 
+Sara_Ramirez/fV74m0kVFmA_0000008 238.0 247.7 

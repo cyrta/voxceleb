@@ -1,0 +1,16 @@
+POI: 			Katee_Sackhoff 
+Youtube ID: 	Lx35xZiNsaE 
+Video length: 	345.1 sec 
+Set (V): 		dev 
+ 
+Katee_Sackhoff/Lx35xZiNsaE_0000001 17.5 62.6 
+Katee_Sackhoff/Lx35xZiNsaE_0000002 68.8 74.7 
+Katee_Sackhoff/Lx35xZiNsaE_0000003 91.6 148.5 
+Katee_Sackhoff/Lx35xZiNsaE_0000004 149.0 168.6 
+Katee_Sackhoff/Lx35xZiNsaE_0000005 182.5 220.2 
+Katee_Sackhoff/Lx35xZiNsaE_0000006 220.8 254.2 
+Katee_Sackhoff/Lx35xZiNsaE_0000007 261.9 283.6 
+Katee_Sackhoff/Lx35xZiNsaE_0000008 287.3 301.3 
+Katee_Sackhoff/Lx35xZiNsaE_0000009 316.8 322.0 
+Katee_Sackhoff/Lx35xZiNsaE_0000010 322.4 337.8 
+Katee_Sackhoff/Lx35xZiNsaE_0000011 338.0 343.6 
