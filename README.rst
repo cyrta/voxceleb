@@ -1,6 +1,10 @@
 # VoxCeleb
 mirror of [VoxCeleb dataset - a large-scale speaker identification dataset](http://www.robots.ox.ac.uk/~vgg/data/voxceleb/)
 
+THIS IS WORK IN PROGRESS.
+I would like to have a reproducable way do download mp3 from youtube, trim it and store as delivered by the author of the dataset
+
+----
 
 This repo contains the download links to the VoxCeleb dataset, described in [1]. 
 
