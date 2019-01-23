@@ -1,15 +1,7 @@
 #!/bin/bash
 
-# PREREQUISITES:
-# youtube-dl
-# ffmpeg 
-#
-# USAGE: 
-# chmod +x download.sh
-# ./download.sh PATH_TO_DATA/list.txt
+#fill in your credentials
+USERNAME="voxceleb000"
+PASS="xxxxxxx"
 
-while IFS='' read -r line || [[ -n "$line" ]]; do
-    echo "Downloading $line"
-    youtube-dl --extract-audio --audio-format mp3 --audio-quality 1 --output "$line.%(ext)s" $line
-    sleep .2
-done < "$1"
+wget --user ${USERNAME} --password ${PASS}  -i download_files.list
