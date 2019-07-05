@@ -4,4 +4,4 @@
 USERNAME="voxceleb000"
 PASS="xxxxxxx"
 
-wget --user ${USERNAME} --password ${PASS}  -i download_files.list
+wget -c --user ${USERNAME} --password ${PASS}  -i download_files.list
